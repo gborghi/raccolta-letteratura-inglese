@@ -18,7 +18,7 @@ CHAPTER 48
 
 Popular rumour concerning the single gentleman and his errand,
 travelling from mouth to mouth, and waxing stronger in the marvellous
-as it was bandied about--for your popular rumour, unlike the rolling
+as it was bandied about--for your popular rumour, unlike the [[rolling]]
 stone of the proverb, is one which gathers a deal of moss in its
 wanderings up and down--occasioned his dismounting at the inn-door to
 be looked upon as an exciting and attractive spectacle, which could
@@ -26,14 +26,14 @@ scarcely be enough admired; and drew together a large concourse of
 idlers, who having recently been, as it were, thrown out of employment
 by the closing of the wax-work and the completion of the nuptial
 ceremonies, considered his arrival as little else than a special
-providence, and hailed it with demonstrations of the liveliest joy.
+[[Providence|providence]], and hailed it with demonstrations of the liveliest joy.
 
 Not at all participating in the general sensation, but wearing the
 depressed and wearied look of one who sought to meditate on his
-disappointment in silence and privacy, the single gentleman alighted,
+disappointment in [[Silence|silence]] and privacy, the single gentleman alighted,
 and handed out Kit’s mother with a gloomy politeness which impressed
 the lookers-on extremely.  That done, he gave her his arm and escorted
-her into the house, while several active waiters ran on before as a
+her into the [[house]], while several active waiters ran on before as a
 skirmishing party, to clear the way and to show the room which was
 ready for their reception.
 
@@ -43,38 +43,38 @@ hand, that’s all.’
 ‘Close here, sir, if you please to walk this way.’
 
 ‘Would the gentleman like this room?’ said a voice, as a little
-out-of-the-way door at the foot of the well staircase flew briskly open
+out-of-the-way door at the foot of the [[Well|well]] staircase flew briskly open
 and a head popped out.  ‘He’s quite welcome to it.  He’s as welcome as
-flowers in May, or coals at Christmas.  Would you like this room, sir?
-Honour me by walking in.  Do me the favour, pray.’
+[[Flowers|flowers]] in May, or coals at Christmas.  Would you like this room, sir?
+[[Honour]] me by walking in.  Do me the favour, pray.’
 
 ‘Goodness gracious me!’ cried Kit’s mother, falling back in extreme
 surprise, ‘only think of this!’
 
 She had some reason to be astonished, for the person who proffered the
-gracious invitation was no other than Daniel Quilp.  The little door
+gracious invitation was no other than [[Daniel Quilp]].  The little door
 out of which he had thrust his head was close to the inn larder; and
-there he stood, bowing with grotesque politeness; as much at his ease
-as if the door were that of his own house; blighting all the legs of
+there he stood, bowing with [[Grotesque|grotesque]] politeness; as much at his ease
+as if the door were that of his own [[house]]; blighting all the legs of
 mutton and cold roast fowls by his close companionship, and looking
 like the evil genius of the cellars come from underground upon some
 work of mischief.
 
-‘Would you do me the honour?’ said Quilp.
+‘Would you do me the [[Honour|honour]]?’ said Quilp.
 
-‘I prefer being alone,’ replied the single gentleman.
+‘I prefer being [[Alone|alone]],’ replied the single gentleman.
 
 ‘Oh!’ said Quilp.  And with that, he darted in again with one jerk and
-clapped the little door to, like a figure in a Dutch clock when the
+clapped the little door to, like a figure in a Dutch [[Clock|clock]] when the
 hour strikes.
 
-‘Why it was only last night, sir,’ whispered Kit’s mother, ‘that I left
+‘Why it was only last [[Night|night]], sir,’ whispered Kit’s mother, ‘that I left
 him in Little Bethel.’
 
 ‘Indeed!’ said her fellow-passenger.  ‘When did that person come here,
 waiter?’
 
-‘Come down by the night-coach, this morning, sir.’
+‘Come down by the [[Night|night]]-coach, this morning, sir.’
 
 ‘Humph!  And when is he going?’
 
@@ -88,15 +88,15 @@ do you hear?’
 
 The man stared on receiving these instructions, for the single
 gentleman had not only displayed as much astonishment as Kit’s mother
-at sight of the dwarf, but, standing in no fear of him, had been at
+at sight of the [[Dwarf|dwarf]], but, standing in no [[Fear|fear]] of him, had been at
 less pains to conceal his dislike and repugnance.  He departed on his
 errand, however, and immediately returned, ushering in its object.
 
-‘Your servant, sir,’ said the dwarf, ‘I encountered your messenger
+‘Your servant, sir,’ said the [[Dwarf|dwarf]], ‘I encountered your messenger
 half-way.  I thought you’d allow me to pay my compliments to you.  I
-hope you’re well.  I hope you’re very well.’
+[[Hope|hope]] you’re [[Well|well]].  I [[Hope|hope]] you’re very [[Well|well]].’
 
-There was a short pause, while the dwarf, with half-shut eyes and
+There was a short pause, while the [[Dwarf|dwarf]], with half-shut eyes and
 puckered face, stood waiting for an answer.  Receiving none, he turned
 towards his more familiar acquaintance.
 
@@ -115,38 +115,38 @@ meaning, a perfect blank.
 
 ‘Mr Quilp,’ said the single gentleman.
 
-The dwarf put his hand to his great flapped ear, and counterfeited the
+The [[Dwarf|dwarf]] put his hand to his great flapped ear, and counterfeited the
 closest attention.
 
 ‘We two have met before--’
 
 ‘Surely,’ cried Quilp, nodding his head.  ‘Oh surely, sir.  Such an
-honour and pleasure--it’s both, Christopher’s mother, it’s both--is
+[[Honour|honour]] and pleasure--it’s both, Christopher’s mother, it’s both--is
 not to be forgotten so soon.  By no means!’
 
-‘You may remember that the day I arrived in London, and found the house
+‘You may remember that the day I arrived in [[London]], and found the [[house]]
 to which I drove, empty and deserted, I was directed by some of the
 neighbours to you, and waited upon you without stopping for rest or
 refreshment?’
 
 ‘How precipitate that was, and yet what an earnest and vigorous
-measure!’ said Quilp, conferring with himself, in imitation of his
-friend Mr Sampson Brass.
+measure!’ said Quilp, conferring with himself, in [[Imitation|imitation]] of his
+friend Mr [[Sampson Brass]].
 
 ‘I found,’ said the single gentleman, ‘you most unaccountably, in
 possession of everything that had so recently belonged to another man,
-and that other man, who up to the time of your entering upon his
+and that other man, who up to the [[Time|time]] of your entering upon his
 property had been looked upon as affluent, reduced to sudden beggary,
-and driven from house and home.’
+and driven from [[house]] and [[Home|home]].’
 
 ‘We had warrant for what we did, my good sir,’ rejoined Quilp, ‘we had
 our warrant.  Don’t say driven either.  He went of his own
-accord--vanished in the night, sir.’
+accord--vanished in the [[Night|night]], sir.’
 
 ‘No matter,’ said the single gentleman angrily.  ‘He was gone.’
 
 ‘Yes, he was gone,’ said Quilp, with the same exasperating composure.
-‘No doubt he was gone.  The only question was, where.  And it’s a
+‘No [[Doubt|doubt]] he was gone.  The only question was, where.  And it’s a
 question still.’
 
 ‘Now, what am I to think,’ said the single gentleman, sternly regarding
@@ -174,7 +174,7 @@ do on such occasions, indeed.’
 That Quilp lied most heartily in this speech, it needed no very great
 penetration to discover, although for anything that he suffered to
 appear in his face, voice, or manner, he might have been clinging to
-the truth with the quiet constancy of a martyr.
+the [[Truth|truth]] with the quiet constancy of a martyr.
 
 ‘In the name of all that’s calculated to drive one crazy, man,’ said
 the unfortunate single gentleman, ‘have you not, for some reason of
@@ -189,11 +189,11 @@ shoulders.  ‘If I was, I should tell my own fortune--and make it.’
 himself impatiently upon a sofa.  ‘Pray leave us, if you please.’
 
 ‘Willingly,’ returned Quilp.  ‘Most willingly.  Christopher’s mother,
-my good soul, farewell.  A pleasant journey--back, sir.  Ahem!’
+my good [[Soul|soul]], farewell.  A pleasant [[Journey|journey]]--back, sir.  Ahem!’
 
 With these parting words, and with a grin upon his features altogether
 indescribable, but which seemed to be compounded of every monstrous
-grimace of which men or monkeys are capable, the dwarf slowly retreated
+grimace of which men or monkeys are capable, the [[Dwarf|dwarf]] slowly retreated
 and closed the door behind him.
 
 ‘Oho!’ he said when he had regained his own room, and sat himself down
@@ -203,15 +203,15 @@ In-deed!’
 Chuckling as though in very great glee, and recompensing himself for
 the restraint he had lately put upon his countenance by twisting it
 into all imaginable varieties of ugliness, Mr Quilp, rocking himself to
-and fro in his chair and nursing his left leg at the same time, fell
+and fro in his chair and nursing his left leg at the same [[Time|time]], fell
 into certain meditations, of which it may be necessary to relate the
 substance.
 
 First, he reviewed the circumstances which had led to his repairing to
-that spot, which were briefly these.  Dropping in at Mr Sampson Brass’s
+that spot, which were briefly these.  Dropping in at Mr [[Sampson Brass]]’s
 office on the previous evening, in the absence of that gentleman and
 his learned sister, he had lighted upon Mr Swiveller, who chanced at
-the moment to be sprinkling a glass of warm gin and water on the dust
+the moment to be sprinkling a glass of warm gin and [[Water|water]] on the [[Dust|dust]]
 of the law, and to be moistening his clay, as the phrase goes, rather
 copiously.  But as clay in the abstract, when too much moistened,
 becomes of a weak and uncertain consistency, breaking down in
@@ -237,12 +237,12 @@ the single gentleman above stairs must be the same individual who had
 waited on him, and having assured himself by further inquiries that
 this surmise was correct, had no difficulty in arriving at the
 conclusion that the intent and object of his correspondence with Kit
-was the recovery of his old client and the child.  Burning with
+was the recovery of his old client and the [[Child|child]].  Burning with
 curiosity to know what proceedings were afoot, he resolved to pounce
 upon Kit’s mother as the person least able to resist his arts, and
 consequently the most likely to be entrapped into such revelations as
 he sought; so taking an abrupt leave of Mr Swiveller, he hurried to her
-house.  The good woman being from home, he made inquiries of a
+[[house]].  The good woman being from [[Home|home]], he made inquiries of a
 neighbour, as Kit himself did soon afterwards, and being directed to
 the chapel be took himself there, in order to waylay her, at the
 conclusion of the service.
@@ -250,17 +250,17 @@ conclusion of the service.
 He had not sat in the chapel more than a quarter of an hour, and with
 his eyes piously fixed upon the ceiling was chuckling inwardly over the
 joke of his being there at all, when Kit himself appeared.  Watchful as
-a lynx, one glance showed the dwarf that he had come on business.
+a lynx, one glance showed the [[Dwarf|dwarf]] that he had come on business.
 Absorbed in appearance, as we have seen, and feigning a profound
 abstraction, he noted every circumstance of his behaviour, and when he
 withdrew with his family, shot out after him.  In fine, he traced them
-to the notary’s house; learnt the destination of the carriage from one
-of the postilions; and knowing that a fast night-coach started for the
+to the notary’s [[house]]; learnt the destination of the carriage from one
+of the postilions; and knowing that a fast [[Night|night]]-coach started for the
 same place, at the very hour which was on the point of striking, from a
 street hard by, darted round to the coach-office without more ado, and
 took his seat upon the roof.  After passing and repassing the carriage
-on the road, and being passed and repassed by it sundry times in the
-course of the night, according as their stoppages were longer or
+on the [[Road|road]], and being passed and repassed by it sundry times in the
+course of the [[Night|night]], according as their stoppages were longer or
 shorter; or their rate of travelling varied, they reached the town
 almost together.  Quilp kept the chaise in sight, mingled with the
 crowd, learnt the single gentleman’s errand, and its failure, and
@@ -271,7 +271,7 @@ these occurrences.
 
 ‘You are there, are you, my friend?’ he repeated, greedily biting his
 nails.  ‘I am suspected and thrown aside, and Kit’s the confidential
-agent, is he?  I shall have to dispose of him, I fear.  If we had come
+agent, is he?  I shall have to dispose of him, I [[Fear|fear]].  If we had come
 up with them this morning,’ he continued, after a thoughtful pause, ‘I
 was ready to prove a pretty good claim.  I could have made my profit.
 But for these canting hypocrites, the lad and his mother, I could get
@@ -279,8 +279,8 @@ this fiery gentleman as comfortably into my net as our old friend--our
 mutual friend, ha! ha!--and chubby, rosy Nell.  At the worst, it’s a
 golden opportunity, not to be lost.  Let us find them first, and I’ll
 find means of draining you of some of your superfluous cash, sir, while
-there are prison bars, and bolts, and locks, to keep your friend or
-kinsman safely.  I hate your virtuous people!’ said the dwarf, throwing
+there are [[Prison|prison]] bars, and bolts, and locks, to keep your friend or
+kinsman safely.  I hate your virtuous people!’ said the [[Dwarf|dwarf]], throwing
 off a bumper of brandy, and smacking his lips, ‘ah! I hate ‘em every
 one!’
 
@@ -288,38 +288,38 @@ This was not a mere empty vaunt, but a deliberate avowal of his real
 sentiments; for Mr Quilp, who loved nobody, had by little and little
 come to hate everybody nearly or remotely connected with his ruined
 client:--the old man himself, because he had been able to deceive him
-and elude his vigilance--the child, because she was the object of Mrs
-Quilp’s commiseration and constant self-reproach--the single gentleman,
+and elude his vigilance--the [[Child|child]], because she was the object of Mrs
+Quilp’s commiseration and constant [[Self|self]]-reproach--the single gentleman,
 because of his unconcealed aversion to himself--Kit and his mother,
 most mortally, for the reasons shown.  Above and beyond that general
 feeling of opposition to them, which would have been inseparable from
-his ravenous desire to enrich himself by these altered circumstances,
-Daniel Quilp hated them every one.
+his ravenous [[Desire|desire]] to enrich himself by these altered circumstances,
+[[Daniel Quilp]] hated them every one.
 
 In this amiable mood, Mr Quilp enlivened himself and his hatreds with
 more brandy, and then, changing his quarters, withdrew to an obscure
 alehouse, under cover of which seclusion he instituted all possible
 inquiries that might lead to the discovery of the old man and his
 grandchild.  But all was in vain.  Not the slightest trace or clue
-could be obtained.  They had left the town by night; no one had seen
-them go; no one had met them on the road; the driver of no coach, cart,
+could be obtained.  They had left the town by [[Night|night]]; no one had seen
+them go; no one had met them on the [[Road|road]]; the driver of no coach, cart,
 or waggon, had seen any travellers answering their description; nobody
 had fallen in with them, or heard of them.  Convinced at last that for
 the present all such attempts were hopeless, he appointed two or three
 scouts, with promises of large rewards in case of their forwarding him
-any intelligence, and returned to London by next day’s coach.
+any intelligence, and returned to [[London]] by next day’s coach.
 
 It was some gratification to Mr Quilp to find, as he took his place
-upon the roof, that Kit’s mother was alone inside; from which
-circumstance he derived in the course of the journey much cheerfulness
+upon the roof, that Kit’s mother was [[Alone|alone]] inside; from which
+circumstance he derived in the course of the [[Journey|journey]] much cheerfulness
 of spirit, inasmuch as her solitary condition enabled him to terrify
 her with many extraordinary annoyances; such as hanging over the side
 of the coach at the risk of his life, and staring in with his great
 goggle eyes, which seemed in hers the more horrible from his face being
-upside down; dodging her in this way from one window to another;
+upside down; dodging her in this way from one [[Window|window]] to another;
 getting nimbly down whenever they changed horses and thrusting his head
-in at the window with a dismal squint: which ingenious tortures had
-such an effect upon Mrs Nubbles, that she was quite unable for the time
+in at the [[Window|window]] with a dismal squint: which ingenious tortures had
+such an effect upon Mrs Nubbles, that she was quite unable for the [[Time|time]]
 to resist the belief that Mr Quilp did in his own person represent and
 embody that Evil Power, who was so vigorously attacked at Little
 Bethel, and who, by reason of her backslidings in respect of Astley’s
@@ -328,9 +328,9 @@ and oysters, was now frolicsome and rampant.
 Kit, having been apprised by letter of his mother’s intended return,
 was waiting for her at the coach-office; and great was his surprise
 when he saw, leering over the coachman’s shoulder like some familiar
-demon, invisible to all eyes but his, the well-known face of Quilp.
+demon, invisible to all eyes but his, the [[Well|well]]-known face of Quilp.
 
-‘How are you, Christopher?’ croaked the dwarf from the coach-top.  ‘All
+‘How are you, Christopher?’ croaked the [[Dwarf|dwarf]] from the coach-top.  ‘All
 right, Christopher.  Mother’s inside.’
 
 ‘Why, how did he come here, mother?’ whispered Kit.
@@ -347,7 +347,7 @@ Don’t turn round as if I was talking of him, but he’s a squinting at me
 now in the full blaze of the coach-lamp, quite awful!’
 
 In spite of his mother’s injunction, Kit turned sharply round to look.
-Mr Quilp was serenely gazing at the stars, quite absorbed in celestial
+Mr Quilp was serenely gazing at the [[Stars|stars]], quite absorbed in celestial
 contemplation.
 
 ‘Oh, he’s the artfullest creetur!’ cried Mrs Nubbles.  ‘But come away.
@@ -357,18 +357,18 @@ Don’t speak to him for the world.’
 
 Mr Quilp affected to start, and looked smilingly round.
 
-‘You let my mother alone, will you?’ said Kit.  ‘How dare you tease a
-poor lone woman like her, making her miserable and melancholy as if she
+‘You let my mother [[Alone|alone]], will you?’ said Kit.  ‘How dare you tease a
+poor lone woman like her, making her miserable and [[Melancholy|melancholy]] as if she
 hadn’t got enough to make her so, without you.  An’t you ashamed of
-yourself, you little monster?’
+yourself, you little [[Monster|monster]]?’
 
-‘Monster!’ said Quilp inwardly, with a smile.  ‘Ugliest dwarf that
-could be seen anywhere for a penny--monster--ah!’
+‘[[Monster]]!’ said Quilp inwardly, with a smile.  ‘Ugliest [[Dwarf|dwarf]] that
+could be seen anywhere for a penny--[[Monster|monster]]--ah!’
 
 ‘You show her any of your impudence again,’ resumed Kit, shouldering
 the bandbox, ‘and I tell you what, Mr Quilp, I won’t bear with you any
 more.  You have no right to do it; I’m sure we never interfered with
-you.  This isn’t the first time; and if ever you worry or frighten her
+you.  This isn’t the first [[Time|time]]; and if ever you worry or frighten her
 again, you’ll oblige me (though I should be very sorry to do it, on
 account of your size) to beat you.’
 

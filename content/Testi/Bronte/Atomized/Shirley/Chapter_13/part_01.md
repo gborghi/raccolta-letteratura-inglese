@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 1)"
+title: "[[Shirley]] — Chapter 13 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ FURTHER COMMUNICATIONS ON BUSINESS.
 
 
 
-In Shirley's nature prevailed at times an easy indolence. There were
+In [[Shirley]]'s [[Nature|nature]] prevailed at times an easy [[Indolence|indolence]]. There were
 
 periods when she took delight in perfect vacancy of hand and
 
@@ -46,7 +46,7 @@ the deep blue sky, and such cloudlets as sailed afar and aloft across
 
 its span; no sound but that of the bee's hum, the leaf's whisper. Her
 
-sole book in such hours was the dim chronicle of memory or the sibyl
+sole book in such hours was the dim chronicle of [[Memory|memory]] or the sibyl
 
 page of anticipation. From her young eyes fell on each volume a glorious
 
@@ -62,13 +62,13 @@ yet again. In her past were sweet passages, in her future rosy hopes.
 
 Yet one day when Caroline drew near to rouse her, thinking she had lain
 
-long enough, behold, as she looked down, Shirley's cheek was wet as if
+long enough, behold, as she looked down, [[Shirley]]'s cheek was wet as if
 
 with dew; those fine eyes of hers shone humid and brimming.
 
 
 
-"Shirley, why do _you_ cry?" asked Caroline, involuntarily laying stress
+"[[Shirley]], why do _you_ cry?" asked Caroline, involuntarily laying stress
 
 on _you_.
 
@@ -78,9 +78,9 @@ Miss Keeldar smiled, and turned her picturesque head towards the
 
 questioner. "Because it pleases me mightily to cry," she said. "My heart
 
-is both sad and glad. But why, you good, patient child--why do you not
+is both sad and glad. But why, you good, patient [[Child|child]]--why do you not
 
-bear me company? I only weep tears, delightful and soon wiped away; you
+bear me company? I only weep [[Tears|tears]], delightful and soon wiped away; you
 
 might weep gall, if you choose."
 
@@ -94,7 +94,7 @@ might weep gall, if you choose."
 
 
 
-"And are not you too mateless, Shirley?"
+"And are not you too mateless, [[Shirley]]?"
 
 
 
@@ -102,11 +102,11 @@ might weep gall, if you choose."
 
 
 
-"Oh! who nestles there, Shirley?"
+"Oh! who nestles there, [[Shirley]]?"
 
 
 
-But Shirley only laughed gaily at this question, and alertly started up.
+But [[Shirley]] only laughed gaily at this question, and alertly started up.
 
 
 
@@ -120,9 +120,9 @@ probably baseless!"
 
 
 
-Miss Helstone was by this time free enough from illusions: she took a
+Miss Helstone was by this [[Time|time]] free enough from illusions: she took a
 
-sufficiently grave view of the future, and fancied she knew pretty well
+sufficiently [[Grave|grave]] view of the future, and fancied she knew pretty [[Well|well]]
 
 how her own destiny and that of some others were tending. Yet old
 
@@ -134,7 +134,7 @@ field-style and the old thorn overlooking the Hollow.
 
 
 
-One night, the night after the incident of the note, she had been at her
+One [[Night|night]], the [[Night|night]] after the incident of the note, she had been at her
 
 usual post, watching for her beacon--watching vainly: that evening no
 
@@ -142,9 +142,9 @@ lamp was lit. She waited till the rising of certain constellations
 
 warned her of lateness and signed her away. In passing Fieldhead, on her
 
-return, its moonlight beauty attracted her glance, and stayed her step
+return, its moonlight [[Beauty|beauty]] attracted her glance, and stayed her step
 
-an instant. Tree and hall rose peaceful under the night sky and clear
+an instant. Tree and hall [[Rose|rose]] peaceful under the [[Night|night]] sky and clear
 
 full orb; pearly paleness gilded the building; mellow brown gloom
 
@@ -162,11 +162,11 @@ presently they moved in harmonious step, and spoke low in harmonious
 
 key. Earnest was the gaze that scrutinized them as they emerged from
 
-behind the trunk of the cedar. "Is it Mrs. Pryor and Shirley?"
+behind the trunk of the cedar. "Is it Mrs. Pryor and [[Shirley]]?"
 
 
 
-Certainly it is Shirley. Who else has a shape so lithe, and proud, and
+Certainly it is [[Shirley]]. Who else has a shape so lithe, and proud, and
 
 graceful? And her face, too, is visible--her countenance careless and
 
@@ -180,7 +180,7 @@ gold gleams through the half-closed folds of the scarf she has wrapped
 
 across her bust, and a large bright gem glitters on the white hand
 
-which confines it. Yes, that is Shirley.
+which confines it. Yes, that is [[Shirley]].
 
 
 
@@ -194,13 +194,13 @@ decent widow's weeds for masculine disguise. The figure walking at Miss
 
 Keeldar's side is a man--a tall, young, stately man; it is her tenant,
 
-Robert Moore.
+[[Robert Moore]].
 
 
 
 The pair speak softly; their words are not distinguishable. To remain a
 
-moment to gaze is not to be an eavesdropper; and as the moon shines so
+moment to gaze is not to be an eavesdropper; and as the [[Moon|moon]] shines so
 
 clearly and their countenances are so distinctly apparent, who can
 
@@ -210,7 +210,7 @@ she lingers.
 
 
 
-There was a time when, on summer nights, Moore had been wont to walk
+There was a [[Time|time]] when, on [[Summer|summer]] nights, Moore had been wont to walk
 
 with his cousin, as he was now walking with the heiress. Often had she
 
@@ -230,7 +230,7 @@ stones, and between its weedy banks, and under its dark bower of alders.
 
 obligation to treat me with homage; I needed only kindness. He used to
 
-hold my hand; he does not touch hers. And yet Shirley is not proud where
+hold my hand; he does not touch hers. And yet [[Shirley]] is not proud where
 
 she loves. There is no haughtiness in her aspect now, only a little in
 
@@ -242,4 +242,4 @@ as I think, that he is at this instant looking down on a fine face; and
 
 he must think it with a man's brain, not with mine. She has such
 
-generous yet soft fire in her eyes. She smiles--what makes her smile so
+generous yet soft [[Fire|fire]] in her eyes. She smiles--what makes her smile so

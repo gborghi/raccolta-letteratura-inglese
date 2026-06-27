@@ -16,7 +16,7 @@ tags:
 
       them, and, swiftly, by a circuitous path, reached and entered the
 
-      city. Here all was the wildest tumult and contention. A small
+      [[City|city]]. Here all was the wildest tumult and contention. A small
 
       party of men, clad in garments half Indian, half European, and
 
@@ -28,7 +28,7 @@ tags:
 
       officer, and fighting I knew not whom with the nervous ferocity
 
-      of despair. We were soon overpowered by numbers, and driven to
+      of [[Despair|despair]]. We were soon overpowered by numbers, and driven to
 
       seek refuge in a species of kiosk. Here we barricaded ourselves,
 
@@ -38,17 +38,17 @@ tags:
 
       agitation, surrounding and assaulting a gay palace that overhung
 
-      the river. Presently, from an upper window of this place, there
+      the [[River|river]]. Presently, from an upper [[Window|window]] of this place, there
 
       descended an effeminate-looking person, by means of a string made
 
       of the turbans of his attendants. A boat was at hand, in which he
 
-      escaped to the opposite bank of the river.
+      escaped to the opposite bank of the [[River|river]].
 
 
 
-      “And now a new object took possession of my soul. I spoke a few
+      “And now a new object took possession of my [[Soul|soul]]. I spoke a few
 
       hurried but energetic words to my companions, and, having
 
@@ -58,7 +58,7 @@ tags:
 
       surrounded it. They retreated, at first, before us. They rallied,
 
-      fought madly, and retreated again. In the mean time we were borne
+      fought madly, and retreated again. In the mean [[Time|time]] we were borne
 
       far from the kiosk, and became bewildered and entangled among the
 
@@ -72,7 +72,7 @@ tags:
 
       remarkable, and resembled in some respects the writhing creese of
 
-      the Malay. They were made to imitate the body of a creeping
+      the Malay. They were made to imitate the [[Body|body]] of a creeping
 
       serpent, and were long and black, with a poisoned barb. One of
 
@@ -86,7 +86,7 @@ tags:
 
        “You will hardly persist _now_,” said I smiling, “that the whole
 
-       of your adventure was not a dream. You are not prepared to
+       of your adventure was not [[A Dream|a dream]]. You are not prepared to
 
        maintain that you are dead?”
 
@@ -110,9 +110,9 @@ tags:
 
       sole feeling—was that of darkness and nonentity, with the
 
-      consciousness of death. At length there seemed to pass a violent
+      consciousness of [[Death|death]]. At length there seemed to pass a violent
 
-      and sudden shock through my soul, as if of electricity. With it
+      and sudden shock through my [[Soul|soul]], as if of electricity. With it
 
       came the sense of elasticity and of light. This latter I felt—not
 
@@ -120,7 +120,7 @@ tags:
 
       bodily, no visible, audible, or palpable presence. The crowd had
 
-      departed. The tumult had ceased. The city was in comparative
+      departed. The tumult had ceased. The [[City|city]] was in comparative
 
       repose. Beneath me lay my corpse, with the arrow in my temple,
 
@@ -132,21 +132,21 @@ tags:
 
       none, but appeared to be impelled into motion, and flitted
 
-      buoyantly out of the city, retracing the circuitous path by which
+      buoyantly out of the [[City|city]], retracing the circuitous path by which
 
       I had entered it. When I had attained that point of the ravine in
 
-      the mountains at which I had encountered the hyena, I again
+      the [[Mountains|mountains]] at which I had encountered the hyena, I again
 
       experienced a shock as of a galvanic battery; the sense of
 
       weight, of volition, of substance, returned. I became my original
 
-      self, and bent my steps eagerly homeward—but the past had not
+      [[Self|self]], and bent my steps eagerly homeward—but the past had not
 
       lost the vividness of the real—and not now, even for an instant,
 
-      can I compel my understanding to regard it as a dream.”
+      can I compel my understanding to regard it as [[A Dream|a dream]].”
 
 
 
@@ -154,7 +154,7 @@ tags:
 
       it would be difficult to say how otherwise it should be termed.
 
-      Let us suppose only, that the soul of the man of to-day is upon
+      Let us suppose only, that the [[Soul|soul]] of the man of to-day is upon
 
       the verge of some stupendous psychal discoveries. Let us content
 
@@ -190,16 +190,16 @@ tags:
 
       Oldeb—to whom I became much attached at Calcutta, during the
 
-      administration of Warren Hastings. I was then only twenty years
+      administration of Warren [[Hastings]]. I was then only twenty years
 
       old. When I first saw you, Mr. Bedloe, at Saratoga, it was the
 
       miraculous similarity which existed between yourself and the
 
-      painting which induced me to accost you, to seek your friendship,
+      painting which induced me to accost you, to seek your [[Friendship|friendship]],
 
       and to bring about those arrangements which resulted in my
 
       becoming your constant companion. In accomplishing this point, I
 
-      was urged partly, and perhaps principally, by a regretful memory
+      was urged partly, and perhaps principally, by a regretful [[Memory|memory]]

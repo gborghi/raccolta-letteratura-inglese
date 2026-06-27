@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 18: A RETROSPECT (part 3)"
+title: "[[David Copperfield]] — Chapter 18: A RETROSPECT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-But after I have stood in the doorway for some time, and feasted my eyes
+But after I have stood in the doorway for some [[Time|time]], and feasted my eyes
 upon the goddess of my heart, she approaches me--she, the eldest Miss
-Larkins!--and asks me pleasantly, if I dance?
+Larkins!--and asks me pleasantly, if I [[Dance|dance]]?
 
 I stammer, with a bow, ‘With you, Miss Larkins.’
 
@@ -25,20 +25,20 @@ I stammer, with a bow, ‘With you, Miss Larkins.’
 ‘I should have no pleasure in dancing with anyone else.’
 
 Miss Larkins laughs and blushes (or I think she blushes), and says,
-‘Next time but one, I shall be very glad.’
+‘Next [[Time|time]] but one, I shall be very glad.’
 
-The time arrives. ‘It is a waltz, I think,’ Miss Larkins doubtfully
+The [[Time|time]] arrives. ‘It is a waltz, I think,’ Miss Larkins doubtfully
 observes, when I present myself. ‘Do you waltz? If not, Captain
 Bailey--’
 
-But I do waltz (pretty well, too, as it happens), and I take Miss
+But I do waltz (pretty [[Well|well]], too, as it happens), and I take Miss
 Larkins out. I take her sternly from the side of Captain Bailey. He
-is wretched, I have no doubt; but he is nothing to me. I have been
+is wretched, I have no [[Doubt|doubt]]; but he is nothing to me. I have been
 wretched, too. I waltz with the eldest Miss Larkins! I don’t know where,
 among whom, or how long. I only know that I swim about in space, with a
-blue angel, in a state of blissful delirium, until I find myself alone
+blue angel, in a state of blissful delirium, until I find myself [[Alone|alone]]
 with her in a little room, resting on a sofa. She admires a flower (pink
-camellia japonica, price half-a-crown), in my button-hole. I give it
+camellia japonica, price half-a-[[Crown|crown]]), in my button-hole. I give it
 her, and say:
 
 ‘I ask an inestimable price for it, Miss Larkins.’
@@ -55,7 +55,7 @@ says, ‘Now take me back to Captain Bailey.’
 
 I am lost in the recollection of this delicious interview, and the
 waltz, when she comes to me again, with a plain elderly gentleman who
-has been playing whist all night, upon her arm, and says:
+has been playing whist all [[Night|night]], upon her arm, and says:
 
 ‘Oh! here is my bold friend! Mr. Chestle wants to know you, Mr.
 Copperfield.’
@@ -70,8 +70,8 @@ place,--we shall be glad for you to stop as long as you like.’
 
 I thank Mr. Chestle warmly, and shake hands. I think I am in a happy
 dream. I waltz with the eldest Miss Larkins once again. She says I
-waltz so well! I go home in a state of unspeakable bliss, and waltz in
-imagination, all night long, with my arm round the blue waist of my dear
+waltz so [[Well|well]]! I go [[Home|home]] in a state of unspeakable bliss, and waltz in
+[[Imagination|imagination]], all [[Night|night]] long, with my arm round the blue waist of my dear
 divinity. For some days afterwards, I am lost in rapturous reflections;
 but I neither see her in the street, nor when I call. I am imperfectly
 consoled for this disappointment by the sacred pledge, the perished
@@ -91,11 +91,11 @@ you hear him, Papa?--The eldest Miss Larkins.’
 
 I am terribly dejected for about a week or two. I take off my ring, I
 wear my worst clothes, I use no bear’s grease, and I frequently lament
-over the late Miss Larkins’s faded flower. Being, by that time, rather
+over the late Miss Larkins’s faded flower. Being, by that [[Time|time]], rather
 tired of this kind of life, and having received new provocation from
 the butcher, I throw the flower away, go out with the butcher, and
 gloriously defeat him.
 
-This, and the resumption of my ring, as well as of the bear’s grease
+This, and the resumption of my ring, as [[Well|well]] as of the bear’s grease
 in moderation, are the last marks I can discern, now, in my progress to
 seventeen.

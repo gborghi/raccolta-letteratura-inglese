@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 25"
+title: "[[Sense and Sensibility]] — Chapter 25"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,13 +24,13 @@ Though Mrs. Jennings was in the habit of spending a large portion of
 
 the year at the houses of her children and friends, she was not without
 
-a settled habitation of her own. Since the death of her husband, who
+a settled habitation of her own. Since the [[Death|death]] of her husband, who
 
-had traded with success in a less elegant part of the town, she had
+had traded with [[success]] in a less elegant part of the town, she had
 
-resided every winter in a house in one of the streets near Portman
+resided every [[Winter|winter]] in a [[house]] in one of the streets near Portman
 
-Square. Towards this home, she began on the approach of January to turn
+Square. Towards this [[Home|home]], she began on the approach of January to turn
 
 her thoughts, and thither she one day abruptly, and very unexpectedly
 
@@ -44,7 +44,7 @@ a grateful but absolute denial for both, in which she believed herself
 
 to be speaking their united inclinations. The reason alleged was their
 
-determined resolution of not leaving their mother at that time of the
+determined resolution of not leaving their mother at that [[Time|time]] of the
 
 year. Mrs. Jennings received the refusal with some surprise, and
 
@@ -52,7 +52,7 @@ repeated her invitation immediately.
 
 
 
-“Oh, Lord! I am sure your mother can spare you very well, and I _do_
+“Oh, Lord! I am sure your mother can spare you very [[Well|well]], and I _do_
 
 beg you will favour me with your company, for I’ve quite set my heart
 
@@ -60,11 +60,11 @@ upon it. Don’t fancy that you will be any inconvenience to me, for I
 
 shan’t put myself at all out of my way for you. It will only be sending
 
-Betty by the coach, and I hope I can afford _that_. We three shall be
+Betty by the coach, and I [[Hope|hope]] I can afford _that_. We three shall be
 
-able to go very well in my chaise; and when we are in town, if you do
+able to go very [[Well|well]] in my chaise; and when we are in town, if you do
 
-not like to go wherever I do, well and good, you may always go with one
+not like to go wherever I do, [[Well|well]] and good, you may always go with one
 
 of my daughters. I am sure your mother will not object to it; for I
 
@@ -72,7 +72,7 @@ have had such good luck in getting my own children off my hands that
 
 she will think me a very fit person to have the charge of you; and if I
 
-don’t get one of you at least well married before I have done with you,
+don’t get one of you at least [[Well|well]] married before I have done with you,
 
 it shall not be my fault. I shall speak a good word for you to all the
 
@@ -108,7 +108,7 @@ other, if not both of them, I must have. Lord bless me! how do you
 
 think I can live poking by myself, I who have been always used till
 
-this winter to have Charlotte with me. Come, Miss Marianne, let us
+this [[Winter|winter]] to have Charlotte with me. Come, Miss Marianne, let us
 
 strike hands upon the bargain, and if Miss Dashwood will change her
 
@@ -134,7 +134,7 @@ tempt me to leave her. It should not, must not be a struggle.”
 
 Mrs. Jennings repeated her assurance that Mrs. Dashwood could spare
 
-them perfectly well; and Elinor, who now understood her sister, and saw
+them perfectly [[Well|well]]; and Elinor, who now understood her sister, and saw
 
 to what indifference to almost every thing else she was carried by her
 
@@ -156,7 +156,7 @@ latter to cautiousness of conduct in an affair respecting which she had
 
 never been able to inspire her with distrust; and she dared not explain
 
-the motive of her own disinclination for going to London. That
+the motive of her own disinclination for going to [[London]]. That
 
 Marianne, fastidious as she was, thoroughly acquainted with Mrs.
 
@@ -208,11 +208,11 @@ any inconvenience to any one. It is very right that you _should_ go to
 
 town; I would have every young woman of your condition in life
 
-acquainted with the manners and amusements of London. You will be under
+acquainted with the manners and amusements of [[London]]. You will be under
 
 the care of a motherly good sort of woman, of whose kindness to you I
 
-can have no doubt. And in all probability you will see your brother,
+can have no [[Doubt|doubt]]. And in all probability you will see your brother,
 
 and whatever may be his faults, or the faults of his wife, when I
 
@@ -244,7 +244,7 @@ let me hear a word about the expense of it.”
 
 
 
-“My objection is this; though I think very well of Mrs. Jennings’s
+“My objection is this; though I think very [[Well|well]] of Mrs. Jennings’s
 
 heart, she is not a woman whose society can afford us pleasure, or
 
@@ -284,11 +284,11 @@ likewise, as she did not think it proper that Marianne should be left
 
 to the sole guidance of her own judgment, or that Mrs. Jennings should
 
-be abandoned to the mercy of Marianne for all the comfort of her
+be abandoned to the [[Mercy|mercy]] of Marianne for all the comfort of her
 
 domestic hours. To this determination she was the more easily
 
-reconciled, by recollecting that Edward Ferrars, by Lucy’s account, was
+reconciled, by recollecting that [[Edward Ferrars]], by Lucy’s account, was
 
 not to be in town before February; and that their visit, without any
 
@@ -298,7 +298,7 @@ unreasonable abridgement, might be previously finished.
 
 “I will have you _both_ go,” said Mrs. Dashwood; “these objections are
 
-nonsensical. You will have much pleasure in being in London, and
+nonsensical. You will have much pleasure in being in [[London]], and
 
 especially in being together; and if Elinor would ever condescend to
 
@@ -314,11 +314,11 @@ Elinor had often wished for an opportunity of attempting to weaken her
 
 mother’s dependence on the attachment of Edward and herself, that the
 
-shock might be less when the whole truth were revealed, and now on this
+shock might be less when the whole [[Truth|truth]] were revealed, and now on this
 
-attack, though almost hopeless of success, she forced herself to begin
+attack, though almost hopeless of [[success]], she forced herself to begin
 
-her design by saying, as calmly as she could, “I like Edward Ferrars
+her design by saying, as calmly as she could, “I like [[Edward Ferrars]]
 
 very much, and shall always be glad to see him; but as to the rest of
 
@@ -330,7 +330,7 @@ ever known to them or not.”
 
 Mrs. Dashwood smiled, and said nothing. Marianne lifted up her eyes in
 
-astonishment, and Elinor conjectured that she might as well have held
+astonishment, and Elinor conjectured that she might as [[Well|well]] have held
 
 her tongue.
 
@@ -346,9 +346,9 @@ and care; nor was it a matter of pleasure merely to her. Sir John was
 
 delighted; for to a man, whose prevailing anxiety was the dread of
 
-being alone, the acquisition of two, to the number of inhabitants in
+being [[Alone|alone]], the acquisition of two, to the number of inhabitants in
 
-London, was something. Even Lady Middleton took the trouble of being
+[[London]], was something. Even Lady Middleton took the trouble of being
 
 delighted, which was putting herself rather out of her way; and as for
 

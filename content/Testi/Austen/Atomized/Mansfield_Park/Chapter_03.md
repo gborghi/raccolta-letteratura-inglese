@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 3"
+title: "[[Mansfield Park]] — Chapter 3"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,33 +17,33 @@ tags:
 CHAPTER III
 
 
-The first event of any importance in the family was the death of Mr.
+The first event of any importance in the family was the [[Death|death]] of Mr.
 Norris, which happened when Fanny was about fifteen, and necessarily
 introduced alterations and novelties. Mrs. Norris, on quitting the
-Parsonage, removed first to the Park, and afterwards to a small house
+Parsonage, removed first to the Park, and afterwards to a small [[house]]
 of Sir Thomas’s in the village, and consoled herself for the loss of
-her husband by considering that she could do very well without him; and
+her husband by considering that she could do very [[Well|well]] without him; and
 for her reduction of income by the evident necessity of stricter
 economy.
 
-The living was hereafter for Edmund; and, had his uncle died a few
+The living was hereafter for [[Edmund]]; and, had his uncle died a few
 years sooner, it would have been duly given to some friend to hold till
 he were old enough for orders. But Tom’s extravagance had, previous to
 that event, been so great as to render a different disposal of the next
 presentation necessary, and the younger brother must help to pay for
 the pleasures of the elder. There was another family living actually
-held for Edmund; but though this circumstance had made the arrangement
-somewhat easier to Sir Thomas’s conscience, he could not but feel it to
+held for [[Edmund]]; but though this circumstance had made the arrangement
+somewhat easier to Sir Thomas’s [[Conscience|conscience]], he could not but feel it to
 be an act of injustice, and he earnestly tried to impress his eldest
-son with the same conviction, in the hope of its producing a better
+son with the same conviction, in the [[Hope|hope]] of its producing a better
 effect than anything he had yet been able to say or do.
 
 “I blush for you, Tom,” said he, in his most dignified manner; “I blush
 for the expedient which I am driven on, and I trust I may pity your
-feelings as a brother on the occasion. You have robbed Edmund for ten,
+feelings as a brother on the occasion. You have robbed [[Edmund]] for ten,
 twenty, thirty years, perhaps for life, of more than half the income
 which ought to be his. It may hereafter be in my power, or in yours (I
-hope it will), to procure him better preferment; but it must not be
+[[Hope|hope]] it will), to procure him better preferment; but it must not be
 forgotten that no benefit of that sort would have been beyond his
 natural claims on us, and that nothing can, in fact, be an equivalent
 for the certain advantage which he is now obliged to forego through the
@@ -56,17 +56,17 @@ secondly, that his father had made a most tiresome piece of work of it;
 and, thirdly, that the future incumbent, whoever he might be, would, in
 all probability, die very soon.
 
-On Mr. Norris’s death the presentation became the right of a Dr. Grant,
+On Mr. Norris’s [[Death|death]] the presentation became the right of a Dr. Grant,
 who came consequently to reside at Mansfield; and on proving to be a
-hearty man of forty-five, seemed likely to disappoint Mr. Bertram’s
+hearty man of forty-five, seemed likely to disappoint Mr. [[Bertram]]’s
 calculations. But “no, he was a short-necked, apoplectic sort of
-fellow, and, plied well with good things, would soon pop off.”
+fellow, and, plied [[Well|well]] with good things, would soon pop off.”
 
 He had a wife about fifteen years his junior, but no children; and they
 entered the neighbourhood with the usual fair report of being very
 respectable, agreeable people.
 
-The time was now come when Sir Thomas expected his sister-in-law to
+The [[Time|time]] was now come when Sir Thomas expected his sister-in-law to
 claim her share in their niece, the change in Mrs. Norris’s situation,
 and the improvement in Fanny’s age, seeming not merely to do away any
 former objection to their living together, but even to give it the most
@@ -76,7 +76,7 @@ in addition to his eldest son’s extravagance, it became not undesirable
 to himself to be relieved from the expense of her support, and the
 obligation of her future provision. In the fullness of his belief that
 such a thing must be, he mentioned its probability to his wife; and the
-first time of the subject’s occurring to her again happening to be when
+first [[Time|time]] of the subject’s occurring to her again happening to be when
 Fanny was present, she calmly observed to her, “So, Fanny, you are
 going to leave us, and live with my sister. How shall you like it?”
 
@@ -88,28 +88,28 @@ with us, and my sister always meant to take you when Mr. Norris died.
 But you must come up and tack on my patterns all the same.”
 
 The news was as disagreeable to Fanny as it had been unexpected. She
-had never received kindness from her aunt Norris, and could not love
+had never received kindness from her aunt Norris, and could not [[Love|love]]
 her.
 
 “I shall be very sorry to go away,” said she, with a faltering voice.
 
 “Yes, I dare say you will; _that’s_ natural enough. I suppose you have
-had as little to vex you since you came into this house as any creature
+had as little to vex you since you came into this [[house]] as any creature
 in the world.”
 
-“I hope I am not ungrateful, aunt,” said Fanny modestly.
+“I [[Hope|hope]] I am not ungrateful, aunt,” said Fanny modestly.
 
-“No, my dear; I hope not. I have always found you a very good girl.”
+“No, my dear; I [[Hope|hope]] not. I have always found you a very good girl.”
 
 “And am I never to live here again?”
 
-“Never, my dear; but you are sure of a comfortable home. It can make
-very little difference to you, whether you are in one house or the
+“Never, my dear; but you are sure of a comfortable [[Home|home]]. It can make
+very little difference to you, whether you are in one [[house]] or the
 other.”
 
 Fanny left the room with a very sorrowful heart; she could not feel the
 difference to be so small, she could not think of living with her aunt
-with anything like satisfaction. As soon as she met with Edmund she
+with anything like satisfaction. As soon as she met with [[Edmund]] she
 told him her distress.
 
 “Cousin,” said she, “something is going to happen which I do not like
@@ -119,26 +119,26 @@ am going to live entirely with my aunt Norris.”
 
 “Indeed!”
 
-“Yes; my aunt Bertram has just told me so. It is quite settled. I am to
-leave Mansfield Park, and go to the White House, I suppose, as soon as
+“Yes; my aunt [[Bertram]] has just told me so. It is quite settled. I am to
+leave [[Mansfield Park]], and go to the White [[house|House]], I suppose, as soon as
 she is removed there.”
 
-“Well, Fanny, and if the plan were not unpleasant to you, I should call
+“[[Well]], Fanny, and if the plan were not unpleasant to you, I should call
 it an excellent one.”
 
 “Oh, cousin!”
 
 “It has everything else in its favour. My aunt is acting like a
 sensible woman in wishing for you. She is choosing a friend and
-companion exactly where she ought, and I am glad her love of money does
-not interfere. You will be what you ought to be to her. I hope it does
+companion exactly where she ought, and I am glad her [[Love|love]] of money does
+not interfere. You will be what you ought to be to her. I [[Hope|hope]] it does
 not distress you very much, Fanny?”
 
-“Indeed it does: I cannot like it. I love this house and everything in
-it: I shall love nothing there. You know how uncomfortable I feel with
+“Indeed it does: I cannot like it. I [[Love|love]] this [[house]] and everything in
+it: I shall [[Love|love]] nothing there. You know how uncomfortable I feel with
 her.”
 
-“I can say nothing for her manner to you as a child; but it was the
+“I can say nothing for her manner to you as a [[Child|child]]; but it was the
 same with us all, or nearly so. She never knew how to be pleasant to
 children. But you are now of an age to be treated better; I think she
 is behaving better already; and when you are her only companion, you
@@ -151,7 +151,7 @@ _must_ be important to her.”
 “Everything. My situation, my foolishness and awkwardness.”
 
 “As to your foolishness and awkwardness, my dear Fanny, believe me, you
-never have a shadow of either, but in using the words so improperly.
+never have a [[Shadow|shadow]] of either, but in using the words so improperly.
 There is no reason in the world why you should not be important where
 you are known. You have good sense, and a sweet temper, and I am sure
 you have a grateful heart, that could never receive kindness without
@@ -159,12 +159,12 @@ wishing to return it. I do not know any better qualifications for a
 friend and companion.”
 
 “You are too kind,” said Fanny, colouring at such praise; “how shall I
-ever thank you as I ought, for thinking so well of me. Oh! cousin, if I
+ever thank you as I ought, for thinking so [[Well|well]] of me. Oh! cousin, if I
 am to go away, I shall remember your goodness to the last moment of my
 life.”
 
-“Why, indeed, Fanny, I should hope to be remembered at such a distance
-as the White House. You speak as if you were going two hundred miles
+“Why, indeed, Fanny, I should [[Hope|hope]] to be remembered at such a distance
+as the White [[house|House]]. You speak as if you were going two hundred miles
 off instead of only across the park; but you will belong to us almost
 as much as ever. The two families will be meeting every day in the
 year. The only difference will be that, living with your aunt, you will
@@ -183,14 +183,14 @@ Fanny sighed, and said, “I cannot see things as you do; but I ought to
 believe you to be right rather than myself, and I am very much obliged
 to you for trying to reconcile me to what must be. If I could suppose
 my aunt really to care for me, it would be delightful to feel myself of
-consequence to anybody. _Here_, I know, I am of none, and yet I love
-the place so well.”
+consequence to anybody. _Here_, I know, I am of none, and yet I [[Love|love]]
+the place so [[Well|well]].”
 
 “The place, Fanny, is what you will not quit, though you quit the
-house. You will have as free a command of the park and gardens as ever.
+[[house]]. You will have as free a command of the park and gardens as ever.
 Even _your_ constant little heart need not take fright at such a
 nominal change. You will have the same walks to frequent, the same
-library to choose from, the same people to look at, the same horse to
+library to choose from, the same people to look at, the same [[Horse|horse]] to
 ride.”
 
 “Very true. Yes, dear old grey pony! Ah! cousin, when I remember how
@@ -199,32 +199,32 @@ of as likely to do me good (oh! how I have trembled at my uncle’s
 opening his lips if horses were talked of), and then think of the kind
 pains you took to reason and persuade me out of my fears, and convince
 me that I should like it after a little while, and feel how right you
-proved to be, I am inclined to hope you may always prophesy as well.”
+proved to be, I am inclined to [[Hope|hope]] you may always prophesy as [[Well|well]].”
 
 “And I am quite convinced that your being with Mrs. Norris will be as
 good for your mind as riding has been for your health, and as much for
 your ultimate happiness too.”
 
 So ended their discourse, which, for any very appropriate service it
-could render Fanny, might as well have been spared, for Mrs. Norris had
+could render Fanny, might as [[Well|well]] have been spared, for Mrs. Norris had
 not the smallest intention of taking her. It had never occurred to her,
 on the present occasion, but as a thing to be carefully avoided. To
 prevent its being expected, she had fixed on the smallest habitation
 which could rank as genteel among the buildings of Mansfield parish,
-the White House being only just large enough to receive herself and her
+the White [[house|House]] being only just large enough to receive herself and her
 servants, and allow a spare room for a friend, of which she made a very
 particular point. The spare rooms at the Parsonage had never been
 wanted, but the absolute necessity of a spare room for a friend was now
 never forgotten. Not all her precautions, however, could save her from
 being suspected of something better; or, perhaps, her very display of
 the importance of a spare room might have misled Sir Thomas to suppose
-it really intended for Fanny. Lady Bertram soon brought the matter to a
+it really intended for Fanny. Lady [[Bertram]] soon brought the matter to a
 certainty by carelessly observing to Mrs. Norris—
 
 “I think, sister, we need not keep Miss Lee any longer, when Fanny goes
 to live with you.”
 
-Mrs. Norris almost started. “Live with me, dear Lady Bertram! what do
+Mrs. Norris almost started. “Live with me, dear Lady [[Bertram]]! what do
 you mean?”
 
 “Is she not to live with you? I thought you had settled it with Sir
@@ -235,10 +235,10 @@ me. Fanny live with me! the last thing in the world for me to think of,
 or for anybody to wish that really knows us both. Good heaven! what
 could I do with Fanny? Me! a poor, helpless, forlorn widow, unfit for
 anything, my spirits quite broke down; what could I do with a girl at
-her time of life? A girl of fifteen! the very age of all others to need
+her [[Time|time]] of life? A girl of fifteen! the very age of all others to need
 most attention and care, and put the cheerfullest spirits to the test!
 Sure Sir Thomas could not seriously expect such a thing! Sir Thomas is
-too much my friend. Nobody that wishes me well, I am sure, would
+too much my friend. Nobody that wishes me [[Well|well]], I am sure, would
 propose it. How came Sir Thomas to speak to you about it?”
 
 “Indeed, I do not know. I suppose he thought it best.”
@@ -255,43 +255,43 @@ comfort to me? Here am I, a poor desolate widow, deprived of the best
 of husbands, my health gone in attending and nursing him, my spirits
 still worse, all my peace in this world destroyed, with hardly enough
 to support me in the rank of a gentlewoman, and enable me to live so as
-not to disgrace the memory of the dear departed—what possible comfort
+not to disgrace the [[Memory|memory]] of the dear departed—what possible comfort
 could I have in taking such a charge upon me as Fanny? If I could wish
 it for my own sake, I would not do so unjust a thing by the poor girl.
-She is in good hands, and sure of doing well. I must struggle through
+She is in good hands, and sure of doing [[Well|well]]. I must struggle through
 my sorrows and difficulties as I can.”
 
-“Then you will not mind living by yourself quite alone?”
+“Then you will not mind living by yourself quite [[Alone|alone]]?”
 
-“Dear Lady Bertram! what am I fit for but solitude? Now and then I
-shall hope to have a friend in my little cottage (I shall always have
+“Dear Lady [[Bertram]]! what am I fit for but [[Solitude|solitude]]? Now and then I
+shall [[Hope|hope]] to have a friend in my little cottage (I shall always have
 a bed for a friend); but the most part of my future days will be spent
 in utter seclusion. If I can but make both ends meet, that's all I ask
 for.”
 
-“I hope, sister, things are not so very bad with you neither
+“I [[Hope|hope]], sister, things are not so very bad with you neither
 considering Sir Thomas says you will have six hundred a year.”
 
-“Lady Bertram, I do not complain. I know I cannot live as I have done,
+“Lady [[Bertram]], I do not complain. I know I cannot live as I have done,
 but I must retrench where I can, and learn to be a better manager. I
 _have_ _been_ a liberal housekeeper enough, but I shall not be ashamed
 to practise economy now. My situation is as much altered as my income.
 A great many things were due from poor Mr. Norris, as clergyman of the
 parish, that cannot be expected from me. It is unknown how much was
-consumed in our kitchen by odd comers and goers. At the White House,
+consumed in our kitchen by odd comers and goers. At the White [[house|House]],
 matters must be better looked after. I _must_ live within my income, or
 I shall be miserable; and I own it would give me great satisfaction to
 be able to do rather more, to lay by a little at the end of the year.”
 
 “I dare say you will. You always do, don’t you?”
 
-“My object, Lady Bertram, is to be of use to those that come after me.
+“My object, Lady [[Bertram]], is to be of use to those that come after me.
 It is for your children’s good that I wish to be richer. I have nobody
 else to care for, but I should be very glad to think I could leave a
 little trifle among them worth their having.”
 
 “You are very good, but do not trouble yourself about them. They are
-sure of being well provided for. Sir Thomas will take care of that.”
+sure of being [[Well|well]] provided for. Sir Thomas will take care of that.”
 
 “Why, you know, Sir Thomas’s means will be rather straitened if the
 Antigua estate is to make such poor returns.”
@@ -299,40 +299,40 @@ Antigua estate is to make such poor returns.”
 “Oh! _that_ will soon be settled. Sir Thomas has been writing about it,
 I know.”
 
-“Well, Lady Bertram,” said Mrs. Norris, moving to go, “I can only say
-that my sole desire is to be of use to your family: and so, if Sir
+“[[Well]], Lady [[Bertram]],” said Mrs. Norris, moving to go, “I can only say
+that my sole [[Desire|desire]] is to be of use to your family: and so, if Sir
 Thomas should ever speak again about my taking Fanny, you will be able
 to say that my health and spirits put it quite out of the question;
 besides that, I really should not have a bed to give her, for I must
 keep a spare room for a friend.”
 
-Lady Bertram repeated enough of this conversation to her husband to
+Lady [[Bertram]] repeated enough of this conversation to her husband to
 convince him how much he had mistaken his sister-in-law’s views; and
 she was from that moment perfectly safe from all expectation, or the
-slightest allusion to it from him. He could not but wonder at her
+slightest allusion to it from him. He could not but [[Wonder|wonder]] at her
 refusing to do anything for a niece whom she had been so forward to
-adopt; but, as she took early care to make him, as well as Lady
-Bertram, understand that whatever she possessed was designed for their
+adopt; but, as she took early care to make him, as [[Well|well]] as Lady
+[[Bertram]], understand that whatever she possessed was designed for their
 family, he soon grew reconciled to a distinction which, at the same
-time that it was advantageous and complimentary to them, would enable
+[[Time|time]] that it was advantageous and complimentary to them, would enable
 him better to provide for Fanny himself.
 
 Fanny soon learnt how unnecessary had been her fears of a removal; and
 her spontaneous, untaught felicity on the discovery, conveyed some
-consolation to Edmund for his disappointment in what he had expected to
+consolation to [[Edmund]] for his disappointment in what he had expected to
 be so essentially serviceable to her. Mrs. Norris took possession of
-the White House, the Grants arrived at the Parsonage, and these events
-over, everything at Mansfield went on for some time as usual.
+the White [[house|House]], the Grants arrived at the Parsonage, and these events
+over, everything at Mansfield went on for some [[Time|time]] as usual.
 
 The Grants showing a disposition to be friendly and sociable, gave
 great satisfaction in the main among their new acquaintance. They had
 their faults, and Mrs. Norris soon found them out. The Doctor was very
 fond of eating, and would have a good dinner every day; and Mrs. Grant,
 instead of contriving to gratify him at little expense, gave her cook
-as high wages as they did at Mansfield Park, and was scarcely ever seen
+as high wages as they did at [[Mansfield Park]], and was scarcely ever seen
 in her offices. Mrs. Norris could not speak with any temper of such
 grievances, nor of the quantity of butter and eggs that were regularly
-consumed in the house. “Nobody loved plenty and hospitality more than
+consumed in the [[house]]. “Nobody loved plenty and hospitality more than
 herself; nobody more hated pitiful doings; the Parsonage, she believed,
 had never been wanting in comforts of any sort, had never borne a bad
 character in _her_ _time_, but this was a way of going on that she
@@ -341,9 +341,9 @@ of place. _Her_ store-room, she thought, might have been good enough
 for Mrs. Grant to go into. Inquire where she would, she could not find
 out that Mrs. Grant had ever had more than five thousand pounds.”
 
-Lady Bertram listened without much interest to this sort of invective.
+Lady [[Bertram]] listened without much interest to this sort of invective.
 She could not enter into the wrongs of an economist, but she felt all
-the injuries of beauty in Mrs. Grant’s being so well settled in life
+the injuries of [[Beauty|beauty]] in Mrs. Grant’s being so [[Well|well]] settled in life
 without being handsome, and expressed her astonishment on that point
 almost as often, though not so diffusely, as Mrs. Norris discussed the
 other.
@@ -352,48 +352,48 @@ These opinions had been hardly canvassed a year before another event
 arose of such importance in the family, as might fairly claim some
 place in the thoughts and conversation of the ladies. Sir Thomas found
 it expedient to go to Antigua himself, for the better arrangement of
-his affairs, and he took his eldest son with him, in the hope of
-detaching him from some bad connexions at home. They left England with
+his affairs, and he took his eldest son with him, in the [[Hope|hope]] of
+detaching him from some bad connexions at [[Home|home]]. They left England with
 the probability of being nearly a twelvemonth absent.
 
-The necessity of the measure in a pecuniary light, and the hope of its
+The necessity of the measure in a pecuniary light, and the [[Hope|hope]] of its
 utility to his son, reconciled Sir Thomas to the effort of quitting the
 rest of his family, and of leaving his daughters to the direction of
-others at their present most interesting time of life. He could not
-think Lady Bertram quite equal to supply his place with them, or
+others at their present most interesting [[Time|time]] of life. He could not
+think Lady [[Bertram]] quite equal to supply his place with them, or
 rather, to perform what should have been her own; but, in Mrs. Norris’s
-watchful attention, and in Edmund’s judgment, he had sufficient
+watchful attention, and in [[Edmund]]’s judgment, he had sufficient
 confidence to make him go without fears for their conduct.
 
-Lady Bertram did not at all like to have her husband leave her; but she
+Lady [[Bertram]] did not at all like to have her husband leave her; but she
 was not disturbed by any alarm for his safety, or solicitude for his
 comfort, being one of those persons who think nothing can be dangerous,
 or difficult, or fatiguing to anybody but themselves.
 
 The Miss Bertrams were much to be pitied on the occasion: not for their
-sorrow, but for their want of it. Their father was no object of love to
+sorrow, but for their want of it. Their father was no object of [[Love|love]] to
 them; he had never seemed the friend of their pleasures, and his
 absence was unhappily most welcome. They were relieved by it from all
 restraint; and without aiming at one gratification that would probably
 have been forbidden by Sir Thomas, they felt themselves immediately at
 their own disposal, and to have every indulgence within their reach.
 Fanny’s relief, and her consciousness of it, were quite equal to her
-cousins’; but a more tender nature suggested that her feelings were
+cousins’; but a more tender [[Nature|nature]] suggested that her feelings were
 ungrateful, and she really grieved because she could not grieve. “Sir
 Thomas, who had done so much for her and her brothers, and who was gone
 perhaps never to return! that she should see him go without a tear! it
 was a shameful insensibility.” He had said to her, moreover, on the
 very last morning, that he hoped she might see William again in the
-course of the ensuing winter, and had charged her to write and invite
+course of the ensuing [[Winter|winter]], and had charged her to write and invite
 him to Mansfield as soon as the squadron to which he belonged should be
 known to be in England. “This was so thoughtful and kind!” and would he
 only have smiled upon her, and called her “my dear Fanny,” while he
 said it, every former frown or cold address might have been forgotten.
 But he had ended his speech in a way to sink her in sad mortification,
-by adding, “If William does come to Mansfield, I hope you may be able
+by adding, “If William does come to Mansfield, I [[Hope|hope]] you may be able
 to convince him that the many years which have passed since you parted
 have not been spent on your side entirely without improvement; though,
-I fear, he must find his sister at sixteen in some respects too much
+I [[Fear|fear]], he must find his sister at sixteen in some respects too much
 like his sister at ten.” She cried bitterly over this reflection when
 her uncle was gone; and her cousins, on seeing her with red eyes, set
 her down as a hypocrite.

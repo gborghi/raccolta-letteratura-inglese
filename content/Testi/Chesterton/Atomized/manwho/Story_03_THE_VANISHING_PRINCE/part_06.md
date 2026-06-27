@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE VANISHING PRINCE (part 6)"
+title: "[[manwho]] — THE VANISHING PRINCE (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -32,13 +32,13 @@ absence of mind."
 
 
 
-"Well, the truth is, it isn't the scene of his crime," said Fisher,
+"[[Well]], the [[Truth|truth]] is, it isn't the scene of his crime," said Fisher,
 
-and went and looked out of the window.
+and went and looked out of the [[Window|window]].
 
 
 
-There was another silence, and then Sir Walter said, quietly:  "What
+There was another [[Silence|silence]], and then Sir Walter said, quietly:  "What
 
 sort of notion have you really got in your head, Fisher? Have you
 
@@ -48,7 +48,7 @@ round him?"
 
 
 
-"He never escaped at all," answered the man at the window, without
+"He never escaped at all," answered the man at the [[Window|window]], without
 
 turning round. "He never escaped out of the ring because he was
 
@@ -58,9 +58,9 @@ when we were surrounding it."
 
 
 
-He turned and leaned back against the window, but, in spite of his
+He turned and leaned back against the [[Window|window]], but, in spite of his
 
-usual listless manner, they almost fancied that the face in shadow
+usual listless manner, they almost fancied that the face in [[Shadow|shadow]]
 
 was a little pale.
 
@@ -102,7 +102,7 @@ lecture on geometry, but--"
 
 
 
-"I'm afraid we have no time for it," said Wilson, coldly. "If this
+"I'm afraid we have no [[Time|time]] for it," said Wilson, coldly. "If this
 
 man is really coming back, I must give my orders at once."
 
@@ -140,7 +140,7 @@ shed or shifted a film, as do the eyes of an eagle.
 
 conduct the inquiry on your own lines now? How did it come about, I
 
-wonder, that the elder officers are not here to interfere with
+[[Wonder|wonder]], that the elder officers are not here to interfere with
 
 anything you do?"
 
@@ -160,9 +160,9 @@ doom.
 
 The wooden door of the tower moved on its rusty hinges under the
 
-hand that struck it and Prince Michael came into the room. Nobody
+hand that struck it and Prince [[Michael]] came into the room. Nobody
 
-had the smallest doubt about his identity. His light clothes, though
+had the smallest [[Doubt|doubt]] about his [[Identity|identity]]. His light clothes, though
 
 frayed with his adventures, were of fine and almost foppish cut, and
 
@@ -190,7 +190,7 @@ newcomer.
 
 
 
-"Michael O'Neill, I arrest you in the king's name for the murder of
+"[[Michael]] O'Neill, I arrest you in the [[King|king]]'s name for the murder of
 
 Francis Morton and James Nolan. It is my duty to warn you--"
 
@@ -202,7 +202,7 @@ a third murder."
 
 
 
-Sir Walter Carey rose from his chair, which fell over with a crash
+Sir Walter Carey [[Rose|rose]] from his chair, which fell over with a crash
 
 behind him. "What does all this mean?" he called out in an
 
@@ -212,7 +212,7 @@ authoritative manner.
 
 "It means," said Fisher, "that this man, Hooker Wilson, as soon as
 
-he had put his head in at that window, killed his two comrades who
+he had put his head in at that [[Window|window]], killed his two comrades who
 
 had put their heads in at the other windows, by firing across the
 
@@ -232,23 +232,23 @@ most unexpected of all, for the prince standing in the doorway
 
 passed suddenly from the dignity of a statue to the swiftness of an
 
-acrobat and rent the revolver out of the detective's hand.
+acrobat and rent the revolver out of the [[Detective|detective]]'s hand.
 
 
 
-"You dog!" he cried.  "So you are the type of English truth, as I am
+"You dog!" he cried.  "So you are the type of English [[Truth|truth]], as I am
 
-of Irish tragedy--you who come to kill me, wading through the blood
+of Irish [[Tragedy|tragedy]]--you who come to kill me, wading through the [[Blood|blood]]
 
 of your brethren. If they had fallen in a feud on the hillside, it
 
 would be called murder, and yet your sin might be forgiven you. But
 
-I, who am innocent, I was to be slain with ceremony. There would
+I, who am [[Innocent|innocent]], I was to be slain with ceremony. There would
 
 be long speeches and patient judges listening to my vain plea of
 
-innocence, noting down my despair and disregarding it. Yes, that is
+[[innocence]], noting down my [[Despair|despair]] and disregarding it. Yes, that is
 
 what I call assassination. But killing may be no murder; there is
 
@@ -258,7 +258,7 @@ one shot left in this little gun, and I know where it should go."
 
 Wilson turned quickly on the table, and even as he turned he twisted
 
-in agony, for Michael shot him through the body where he sat, so
+in agony, for [[Michael]] shot him through the [[Body|body]] where he sat, so
 
 that he tumbled off the table like lumber.
 
@@ -270,6 +270,6 @@ then, with a strange and weary gesture, Horne Fisher spoke.
 
 
 
-"You are indeed a type of the Irish tragedy," he said. "You were
+"You are indeed a type of the Irish [[Tragedy|tragedy]]," he said. "You were
 
 entirely in the right, and you have put yourself in the wrong."

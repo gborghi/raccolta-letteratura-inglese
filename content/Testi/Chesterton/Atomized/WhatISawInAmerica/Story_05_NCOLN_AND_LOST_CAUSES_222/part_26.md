@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 26)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 26)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 went out of fashion, but bread does not go out of fashion. In the same
 
-way, if women desert the family for the factory, they may find they have
+way, if women [[Desert|desert]] the family for the factory, they may find they have
 
 only done it for a deserted factory. It would have been very unwise of
 
@@ -32,17 +32,17 @@ tiresome to be taught all those tricks just when the whole bag of tricks
 
 was coming to an end. A French satirist might have written a fine
 
-apologue about Jacques Bonhomme coming up to Paris in his wooden shoes
+apologue about Jacques Bonhomme coming up to [[Paris]] in his wooden shoes
 
 and demanding to be made Gold Stick in Waiting in the name of Liberty,
 
-Equality, and Fraternity; but I fear the stick in waiting would be
+Equality, and Fraternity; but I [[Fear|fear]] the stick in waiting would be
 
 waiting still.
 
 
 
-One of the first topics on which I heard conversation turning in America
+One of the first topics on which I heard conversation turning in [[America]]
 
 was that of a very interesting book called _Main Street_, which involves
 
@@ -52,15 +52,15 @@ feminine. It is simply the story, or perhaps rather the study than the
 
 story, of a young married woman in one of the multitudinous little towns
 
-on the great central plains of America; and of a sort of struggle
+on the great central plains of [[America]]; and of a sort of struggle
 
 between her own more restless culture and the provincial prosperity of
 
 her neighbours. There are a number of true and telling suggestions in
 
-the book, but the one touch which I found tingling in the memory of many
+the book, but the one touch which I found tingling in the [[Memory|memory]] of many
 
-readers was the last sentence, in which the master of the house, with
+readers was the last sentence, in which the master of the [[house]], with
 
 unshaken simplicity, merely asks for the whereabouts of some domestic
 
@@ -70,7 +70,7 @@ request, but from the way people talked about it one might suppose he
 
 had asked for a screw-driver to screw down the wife in her coffin. And a
 
-great many advanced persons would tell us that wooden house in which
+great many advanced persons would tell us that wooden [[house]] in which
 
 she lived really was like a wooden coffin. But this appears to me to be
 
@@ -88,19 +88,19 @@ but even as the ideal. Revolutionary wars have been waged to establish
 
 this; revolutionary heroes have fought, and revolutionary martyrs have
 
-died, only to build such a wooden house for such a worthy family. Men
+died, only to build such a wooden [[house]] for such a worthy family. Men
 
-have taken the sword and perished by the sword in order that the poor
+have taken the [[Sword|sword]] and perished by the [[Sword|sword]] in order that the poor
 
 gentleman might have liberty to look for his screw-driver. For there is
 
-here a fact about America that is almost entirely unknown in England.
+here a fact about [[America]] that is almost entirely unknown in England.
 
-The English have not in the least realised the real strength of America.
+The English have not in the least realised the real strength of [[America]].
 
 We in England hear a great deal, we hear far too much, about the
 
-economic energy of industrial America, about the money of Mr. Morgan, or
+economic energy of industrial [[America]], about the money of Mr. Morgan, or
 
 the machinery of Mr. Edison. We never realise that while we in England
 
@@ -160,15 +160,15 @@ a case against the gentleman and the screw-driver. And when we have
 
 noted what it really is, we have noted the real disadvantage in a
 
-situation like that of modern America, and especially the Middle West.
+situation like that of modern [[America]], and especially the Middle West.
 
-And with that we come back to the truth with which I started this
+And with that we come back to the [[Truth|truth]] with which I started this
 
-speculation; the truth that few have yet realised, but of which I, for
+speculation; the [[Truth|truth]] that few have yet realised, but of which I, for
 
 one, am more and more convinced--that industrialism is spreading because
 
-it is decaying; that only the dust and ashes of its dissolution are
+it is decaying; that only the [[Dust|dust]] and ashes of its dissolution are
 
 choking up the growth of natural things everywhere and turning the green
 

@@ -24,7 +24,7 @@ But great and beneficent as was the aesthetic revolution of Morris, there
 
 was a very definite limit to it. It did not lie only in the fact that
 
-his revolution was in truth a reaction, though this was a partial
+his revolution was in [[Truth|truth]] a reaction, though this was a partial
 
 explanation of his partial failure. When he was denouncing the dresses
 
@@ -32,11 +32,11 @@ of modern ladies, 'upholstered like arm-chairs instead of being draped
 
 like women,' as he forcibly expressed it, he would hold up for practical
 
-imitation the costumes and handicrafts of the Middle Ages. Further than
+[[Imitation|imitation]] the costumes and handicrafts of the Middle Ages. Further than
 
 this retrogressive and imitative movement he never seemed to go. Now,
 
-the men of the time of Chaucer had many evil qualities, but there was at
+the men of the [[Time|time]] of Chaucer had many evil qualities, but there was at
 
 least one exhibition of moral weakness they did not give. They would
 
@@ -52,7 +52,7 @@ sprang honestly and naturally out of the life they led and preferred to
 
 lead. And it may surely be maintained that any real advance in the
 
-beauty of modern dress must spring honestly and naturally out of the
+[[Beauty|beauty]] of modern dress must [[Spring|spring]] honestly and naturally out of the
 
 life we lead and prefer to lead. We are not altogether without hints and
 
@@ -72,7 +72,7 @@ valuable as his great protest for the fables and superstitions of
 
 mankind. He has the supreme credit of showing that the fairy-tales
 
-contain the deepest truth of the earth, the real record of men's feeling
+contain the deepest [[Truth|truth]] of the earth, the real record of men's feeling
 
 for things. Trifling details may be inaccurate, Jack may not have
 
@@ -80,29 +80,29 @@ climbed up so tall a beanstalk, or killed so tall a giant; but it is not
 
 such things that make a story false; it is a far different class of
 
-things that makes every modern book of history as false as the father of
+things that makes every modern book of [[history]] as false as the father of
 
-lies; ingenuity, self-consciousness, hypocritical impartiality. It
+lies; ingenuity, [[Self|self]]-consciousness, hypocritical impartiality. It
 
 appears to us that of all the fairy-tales none contains so vital a
 
-moral truth as the old story, existing in many forms, of Beauty and the
+moral [[Truth|truth]] as the old story, existing in many forms, of [[Beauty]] and the
 
 Beast. There is written, with all the authority of a human scripture,
 
-the eternal and essential truth that until we love a thing in all its
+the eternal and essential [[Truth|truth]] that until we [[Love|love]] a thing in all its
 
 ugliness we cannot make it beautiful. This was the weak point in William
 
-Morris as a reformer: that he sought to reform modern life, and that he
+Morris as a reformer: that he sought to [[Reform|reform]] modern life, and that he
 
-hated modern life instead of loving it. Modern London is indeed a beast,
+hated modern life instead of loving it. Modern [[London]] is indeed a beast,
 
-big enough and black enough to be the beast in Apocalypse, blazing with
+big enough and black enough to be the beast in [[Apocalypse]], blazing with
 
 a million eyes, and roaring with a million voices. But unless the poet
 
-can love this fabulous monster as he is, can feel with some generous
+can [[Love|love]] this fabulous [[Monster|monster]] as he is, can feel with some generous
 
 excitement his massive and mysterious 'joie-de-vivre,' the vast scale of
 
@@ -110,7 +110,7 @@ his iron anatomy and the beating of his thunderous heart, he cannot and
 
 will not change the beast into the fairy prince. Morris's disadvantage
 
-was that he was not honestly a child of the nineteenth century: he could
+was that he was not honestly a [[Child|child]] of the nineteenth century: he could
 
 not understand its fascination, and consequently he could not really
 
@@ -124,13 +124,13 @@ of a saint. If we look round at the exhibits in one of these aesthetic
 
 shows, we shall be struck by the large mass of modern objects that the
 
-decorative school leaves untouched. There is a noble instinct for giving
+decorative school [[Leaves|leaves]] untouched. There is a noble instinct for giving
 
-the right touch of beauty to common and necessary things, but the things
+the right touch of [[Beauty|beauty]] to common and necessary things, but the things
 
 that are so touched are the ancient things, the things that always to
 
-some extent commended themselves to the lover of beauty. There are
+some extent commended themselves to the [[Lover|lover]] of [[Beauty|beauty]]. There are
 
 beautiful gates, beautiful fountains, beautiful cups, beautiful chairs,
 
@@ -144,7 +144,7 @@ hold of the century and made its humblest necessities beautiful. And
 
 this was because, with all his healthiness and energy, he had not the
 
-supreme courage to face the ugliness of things; Beauty shrank from the
+supreme [[Courage|courage]] to face the ugliness of things; [[Beauty]] shrank from the
 
 Beast and the fairy-tale had a different ending.
 
@@ -166,23 +166,23 @@ armour of the twelfth century but the machinery of the twentieth. A
 
 lamp-post shall be wrought nobly in twisted iron, fit to hold the
 
-sanctity of fire. A pillar-box shall be carved with figures emblematical
+sanctity of [[Fire|fire]]. A pillar-box shall be carved with figures emblematical
 
-of the secrets of comradeship and the silence and honour of the State.
+of the [[Secrets|secrets]] of [[Comradeship|comradeship]] and the [[Silence|silence]] and [[Honour|honour]] of the State.
 
 Railway signals, of all earthly things the most poetical, the coloured
 
-stars of life and death, shall be lamps of green and crimson worthy of
+[[Stars|stars]] of life and [[Death|death]], shall be lamps of green and crimson worthy of
 
 their terrible and faithful service. But if ever this gradual and
 
-genuine movement of our time towards beauty--not backwards, but
+genuine movement of our [[Time|time]] towards [[Beauty|beauty]]--not backwards, but
 
-forwards--does truly come about, Morris will be the first prophet of it.
+forwards--does truly come about, Morris will be the first [[Prophet|prophet]] of it.
 
-Poet of the childhood of nations, craftsman in the new honesties of art,
+Poet of the [[Childhood|childhood]] of nations, craftsman in the new honesties of art,
 
-prophet of a merrier and wiser life, his full-blooded enthusiasm will be
+[[Prophet|prophet]] of a merrier and wiser life, his full-blooded enthusiasm will be
 
 remembered when human life has once more assumed flamboyant colours and
 
@@ -190,4 +190,4 @@ proved that this painful greenish grey of the aesthetic twilight in which
 
 we now live is, in spite of all the pessimists, not of the greyness of
 
-death, but the greyness of dawn.
+[[Death|death]], but the greyness of [[Dawn|dawn]].

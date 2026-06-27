@@ -1,5 +1,5 @@
 ---
-title: "The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 1)"
+title: "The Flying Inn — Chapter 15: THE [[songs|SONGS]] OF THE CAR CLUB (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Flying-Inn-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-CHAPTER XV: THE SONGS OF THE CAR CLUB
+CHAPTER XV: THE [[songs|SONGS]] OF THE CAR CLUB
 
 
-MORE than once as the car flew through black and silver fairylands of fir wood and pine wood, Dalroy put his head out of the side window and remonstrated with the chauffeur without effect. He was reduced at last to asking him where he was going.
+MORE than once as the car flew through black and silver fairylands of fir wood and pine wood, Dalroy put his head out of the side [[Window|window]] and remonstrated with the chauffeur without effect. He was reduced at last to asking him where he was going.
 
 
 
@@ -47,7 +47,7 @@ MORE than once as the car flew through black and silver fairylands of fir wood a
 
 
 
-Humphrey Pump opened the glass window that separated him from the rear part of the car, and turned to speak to his friend over his square elbow and shoulder.
+Humphrey Pump opened the glass [[Window|window]] that separated him from the rear part of the car, and turned to speak to his friend over his square elbow and shoulder.
 
 
 
@@ -62,27 +62,27 @@ Humphrey Pump opened the glass window that separated him from the rear part of t
 
 
 
-“Honestly, I think you’d better leave him alone,” answered Pump, with his sagacious face. “He’d just run us into a Scotch Express like Dandy Mutton did, when they said he was driving carelessly. We can send the car back to Ivywood somehow later on, and really, I don’t think it’ll do the gentleman any harm to spend a night with a donkey. The donkey might teach him something, I tell you.”
+“Honestly, I think you’d better leave him [[Alone|alone]],” answered Pump, with his sagacious face. “He’d just run us into a Scotch Express like Dandy Mutton did, when they said he was driving carelessly. We can send the car back to Ivywood somehow later on, and really, I don’t think it’ll do the gentleman any harm to spend a [[Night|night]] with a [[donkey]]. The [[donkey]] might teach him something, I tell you.”
 
 
 
 
-“It’s true he denied the Principle of Private Property,” said Dalroy, reflectively, “but I fancy he was thinking of a plain house fixed on the ground. A house on wheels, such as this, he might perhaps think a more permanent possession. But I never understand it;” and again he passed a weary palm across his open forehead. “Have you ever noticed, Hump, what is really odd about those people?”
+“It’s true he denied the Principle of Private Property,” said Dalroy, reflectively, “but I fancy he was thinking of a plain [[house]] fixed on the ground. A [[house]] on wheels, such as this, he might perhaps think a more permanent possession. But I never understand it;” and again he passed a weary palm across his open forehead. “Have you ever noticed, Hump, what is really odd about those people?”
 
 
 
 
-The car shot on amid the comfortable silence of Pump, and then the Irishman said again:
+The car shot on amid the comfortable [[Silence|silence]] of Pump, and then the Irishman said again:
 
 
 
 
-“That poet in the pussy-cat clothes wasn’t half bad. Lord Ivywood isn’t cruel; but he’s inhuman. But that man wasn’t inhuman. He was ignorant, like most cultured fellows. But what’s odd about them is that they try to be simple and never clear away a single thing that’s complicated. If they have to choose between beef and pickles, they always abolish the beef. If they have to choose between a meadow and a motor, they forbid the meadow. Shall I tell you the secret? These men only surrender the things that bind them to other men. Go and dine with a temperance millionaire and you won’t find he’s abolished thehors d’oeuvres or the five courses or even the coffee. What he’s abolished is the port and sherry, because poor men like that as well as rich. Go a step farther, and you won’t find he’s abolished the fine silver forks and spoons, but he’s abolished the meat, because poor men like meat–when they can get it. Go a step farther, and you won’t find he goes without gardens or gorgeous rooms, which poor men can’t enjoy at all. But you will find he boasts of early rising, because sleep is a thing poor men can still enjoy. About the only thing they can still enjoy. Nobody ever heard of a modern philanthropist giving up petrol or typewriting or troops of servants. No, no! What he gives up must be some simple and universal thing. He will give up beef or beer or sleep–because these pleasures remind him that he is only a man.”
+“That poet in the pussy-cat clothes wasn’t half bad. Lord Ivywood isn’t cruel; but he’s inhuman. But that man wasn’t inhuman. He was ignorant, like most cultured fellows. But what’s odd about them is that they try to be simple and never clear away a single thing that’s complicated. If they have to choose between beef and pickles, they always abolish the beef. If they have to choose between a meadow and a motor, they forbid the meadow. Shall I tell you the secret? These men only surrender the things that bind them to other men. Go and dine with a temperance millionaire and you won’t find he’s abolished thehors d’oeuvres or the five courses or even the coffee. What he’s abolished is the port and sherry, because poor men like that as [[Well|well]] as rich. Go a step farther, and you won’t find he’s abolished the fine silver forks and spoons, but he’s abolished the meat, because poor men like meat–when they can get it. Go a step farther, and you won’t find he goes without gardens or gorgeous rooms, which poor men can’t enjoy at all. But you will find he boasts of early rising, because [[Sleep|sleep]] is a thing poor men can still enjoy. About the only thing they can still enjoy. Nobody ever heard of a modern philanthropist giving up petrol or typewriting or troops of servants. No, no! What he gives up must be some simple and universal thing. He will give up beef or beer or [[Sleep|sleep]]–because these pleasures remind him that he is only a man.”
 
 
 
 
-Humphrey Pump nodded, but still answered nothing; and the voice of the sprawling Dalroy took one of its upward turns of a sort of soaring flippancy; which commonly embodied itself in remembering some song he had composed.
+Humphrey Pump nodded, but still answered nothing; and the voice of the sprawling Dalroy took one of its upward turns of a sort of soaring flippancy; which commonly embodied itself in remembering some [[Song|song]] he had composed.
 
 
 
@@ -112,7 +112,7 @@ And used all his motors for canvassing voters, and twenty telephones;
 
 
 
-Besides a dandy little machine,
+Besides a dandy little [[Machine|machine]],
 
 
 
@@ -188,7 +188,7 @@ That might have had a more marked effect,
 
 
 
-And pleased the pride of a weaker man that yearned for wine or wife;
+And pleased the [[Pride|pride]] of a weaker man that yearned for wine or wife;
 
 
 
@@ -214,12 +214,12 @@ And he lies there fluffy and soft and grey and certainly quite refined,
 
 
 
-When he might have rotted to flowers and fruit with Adam and all mankind.
+When he might have rotted to [[Flowers|flowers]] and fruit with Adam and all mankind.
 
 
 
 
-Or been eaten by bears that fancy blood,
+Or been eaten by bears that fancy [[Blood|blood]],
 
 
 
@@ -239,7 +239,7 @@ Or even sat with us here at food,
 
 
 
-Merrily taking twopenny rum and cheese with a pocket knife,
+Merrily taking twopenny rum and [[cheese]] with a pocket knife,
 
 
 
@@ -248,4 +248,4 @@ But these were luxuries lost for him that lived for the Simple Life.”
 
 
 
-Mr. Pump had made many attempts to arrest this song, but they were as vain as all attempts to arrest the car. The angry chauffeur seemed, indeed, rather inspired to further energy by the violent vocal noises behind; and Pump again found it best to fall back on conversation.
+Mr. Pump had made many attempts to arrest this [[Song|song]], but they were as vain as all attempts to arrest the car. The angry chauffeur seemed, indeed, rather inspired to further energy by the violent vocal noises behind; and Pump again found it best to fall back on conversation.

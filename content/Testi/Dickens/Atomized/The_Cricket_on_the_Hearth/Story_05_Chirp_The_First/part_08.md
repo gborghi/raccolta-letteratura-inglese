@@ -28,10 +28,10 @@ She only answered by beating her hands together, and falling into a wild
 fit of laughter. Then, sinking from his grasp upon the ground, she
 covered her face with her apron, and wept bitterly. And then, she
 laughed again, and then she cried again, and then she said how cold she
-was, and suffered him to lead her to the fire, where she sat down as
+was, and suffered him to lead her to the [[Fire|fire]], where she sat down as
 before. The old man standing, as before, quite still.
 
-"I'm better, John," she said. "I'm quite well now--I----"
+"I'm better, John," she said. "I'm quite [[Well|well]] now--I----"
 
 "John!" But John was on the other side of her. Why turn her face towards
 the strange old gentleman, as if addressing him. Was her brain
@@ -40,30 +40,30 @@ wandering?
 "Only a fancy, John dear--a kind of shock--a something coming suddenly
 before my eyes--I don't know what it was. It's quite gone, quite gone."
 
-"I'm glad it's gone," muttered Tackleton, turning the expressive eye all
-round the room. "I wonder where it's gone, and what it was. Humph!
+"I'm glad it's gone," muttered [[Tackleton]], turning the expressive eye all
+round the room. "I [[Wonder|wonder]] where it's gone, and what it was. Humph!
 Caleb, come here! Who's that with the grey hair?"
 
 "I don't know, sir," returned Caleb in a whisper. "Never see him before
 in all my life. A beautiful figure for a nut-cracker; quite a new model.
 With a screw-jaw opening down into his waistcoat, he'd be lovely."
 
-"Not ugly enough," said Tackleton.
+"Not ugly enough," said [[Tackleton]].
 
-"Or for a fire-box either," observed Caleb in deep contemplation, "what
+"Or for a [[Fire|fire]]-box either," observed Caleb in deep contemplation, "what
 a model! Unscrew his head to put the matches in; turn him heels up'ards
-for the light; and what a fire-box for a gentleman's mantel-shelf, just
+for the light; and what a [[Fire|fire]]-box for a gentleman's mantel-shelf, just
 as he stands!"
 
-"Not half ugly enough," said Tackleton. "Nothing in him at all. Come!
-Bring that box! All right now, I hope?"
+"Not half ugly enough," said [[Tackleton]]. "Nothing in him at all. Come!
+Bring that box! All right now, I [[Hope|hope]]?"
 
 "Oh, quite gone! Quite gone!" said the little woman, waving him
-hurriedly away. "Good night!"
+hurriedly away. "Good [[Night|night]]!"
 
-"Good night!" said Tackleton. "Good night, John Peerybingle! Take care
+"Good [[Night|night]]!" said [[Tackleton]]. "Good [[Night|night]], [[John Peerybingle]]! Take care
 how you carry that box, Caleb. Let it fall, and I'll murder you! Dark as
-pitch, and weather worse than ever, eh? Good night!"
+pitch, and weather worse than ever, eh? Good [[Night|night]]!"
 
 So, with another sharp look round the room, he went out at the door;
 followed by Caleb with the wedding-cake on his head.
@@ -77,17 +77,17 @@ only guest.
 to go."
 
 "I beg your pardon, friend," said the old gentleman, advancing to him;
-"the more so as I fear your wife has not been well; but the Attendant
+"the more so as I [[Fear|fear]] your wife has not been [[Well|well]]; but the Attendant
 whom my infirmity," he touched his ears, and shook his head, "renders
-almost indispensable, not having arrived, I fear there must be some
-mistake. The bad night which made the shelter of your comfortable cart
+almost indispensable, not having arrived, I [[Fear|fear]] there must be some
+mistake. The bad [[Night|night]] which made the shelter of your comfortable cart
 (may I never have a worse!) so acceptable, is still as bad as ever.
 Would you, in your kindness, suffer me to rent a bed here?"
 
 "Yes, yes," cried Dot. "Yes! Certainly!"
 
 "Oh!" said the Carrier, surprised by the rapidity of this consent.
-"Well! I don't object; but still I'm not quite sure that----"
+"[[Well]]! I don't object; but still I'm not quite sure that----"
 
 "Hush!" she interrupted. "Dear John!"
 
@@ -105,7 +105,7 @@ Baby; "and did its hair grow brown and curly when its caps was lifted
 off, and frighten it, a precious Pets, a sitting by the fires!"
 
 With that unaccountable attraction of the mind to trifles, which is
-often incidental to a state of doubt and confusion, the Carrier, as he
+often incidental to a state of [[Doubt|doubt]] and confusion, the Carrier, as he
 walked slowly to and fro, found himself mentally repeating even these
 absurd words, many times. So many times, that he got them by heart, and
 was still conning them over and over, like a lesson, when Tilly, after
@@ -114,20 +114,20 @@ she thought wholesome (according to the practice of nurses), had once
 more tied the Baby's cap on.
 
 "And frighten it, a precious Pets, a sitting by the fires. What
-frightened Dot, I wonder?" mused the Carrier, pacing to and fro.
+frightened Dot, I [[Wonder|wonder]]?" mused the Carrier, pacing to and fro.
 
 He scouted, from his heart, the insinuations of the toy merchant, and
-yet they filled him with a vague, indefinite uneasiness. For Tackleton
+yet they filled him with a vague, indefinite uneasiness. For [[Tackleton]]
 was quick and sly; and he had that painful sense, himself, of being a
 man of slow perception, that a broken hint was always worrying to him.
 He certainly had no intention in his mind of linking anything that
-Tackleton had said with the unusual conduct of his wife, but the two
+[[Tackleton]] had said with the unusual conduct of his wife, but the two
 subjects of reflection came into his mind together, and he could not
 keep them asunder.
 
 The bed was soon made ready; and the visitor, declining all refreshment
-but a cup of tea, retired. Then, Dot--quite well again, she said, quite
-well again--arranged the great chair in the chimney-corner for her
+but a cup of tea, retired. Then, Dot--quite [[Well|well]] again, she said, quite
+[[Well|well]] again--arranged the great chair in the chimney-corner for her
 husband; filled his pipe and gave it him; and took her usual little
 stool beside him on the hearth.
 
@@ -146,17 +146,17 @@ paper, when the Carrier had it in his mouth--going so very near his
 nose, and yet not scorching it--was Art, high Art.
 
 And the Cricket and the Kettle, turning up again, acknowledged it! The
-bright fire, blazing up again, acknowledged it! The little Mower on the
-clock, in his unheeded work, acknowledged it! The Carrier, in his
+bright [[Fire|fire]], blazing up again, acknowledged it! The little Mower on the
+[[Clock|clock]], in his unheeded work, acknowledged it! The Carrier, in his
 smoothing forehead and expanding face, acknowledged it, the readiest of
 all.
 
 And as he soberly and thoughtfully puffed at his old pipe, and as the
-Dutch clock ticked, and as the red fire gleamed, and as the Cricket
-chirped, that Genius of his Hearth and Home (for such the Cricket was)
-came out, in fairy shape, into the room, and summoned many forms of Home
+Dutch [[Clock|clock]] ticked, and as the red [[Fire|fire]] gleamed, and as the Cricket
+chirped, that Genius of his Hearth and [[Home]] (for such the Cricket was)
+came out, in fairy shape, into the room, and summoned many forms of [[Home]]
 about him. Dots of all ages and all sizes filled the chamber. Dots who
-were merry children, running on before him, gathering flowers in the
+were merry children, running on before him, gathering [[Flowers|flowers]] in the
 fields; coy Dots, half shrinking from, half yielding to, the pleading of
 his own rough image; newly-married Dots, alighting at the door, and
 taking wondering possession of the household keys; motherly little Dots,
@@ -169,16 +169,16 @@ lying at their feet; and newer carts with younger drivers ("Peerybingle
 Brothers" on the tilt); and sick old Carriers, tended by the gentlest
 hands; and graves of dead and gone old Carriers, green in the
 churchyard. And as the Cricket showed him all these things--he saw them
-plainly, though his eyes were fixed upon the fire--the Carrier's heart
+plainly, though his eyes were fixed upon the [[Fire|fire]]--the Carrier's heart
 grew light and happy, and he thanked his Household Gods with all his
-might, and cared no more for Gruff and Tackleton than you do.
+might, and cared no more for Gruff and [[Tackleton]] than you do.
 
         *     *     *     *     *
 
 But what was that young figure of a man, which the same Fairy Cricket
-set so near Her stool, and which remained there, singly and alone? Why
+set so near Her stool, and which remained there, singly and [[Alone|alone]]? Why
 did it linger still, so near her, with its arm upon the chimney-piece,
 ever repeating "Married! and not to me!"
 
 Oh, Dot! Oh, failing Dot! There is no place for it in all your husband's
-visions. Why has its shadow fallen on his hearth?
+visions. Why has its [[Shadow|shadow]] fallen on his hearth?

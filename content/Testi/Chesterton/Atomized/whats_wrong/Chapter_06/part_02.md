@@ -26,11 +26,11 @@ the joke about which came first, the chicken or the egg?
 I am not sure that properly understood, it is so futile an inquiry
 after all.  I am not concerned here to enter on those deep
 metaphysical and theological differences of which the chicken
-and egg debate is a frivolous, but a very felicitous, type.
+and egg [[debate]] is a frivolous, but a very felicitous, type.
 The evolutionary materialists are appropriately enough
 represented in the vision of all things coming from an egg,
 a dim and monstrous oval germ that had laid itself by accident.
-That other supernatural school of thought (to which I
+That other [[Supernatural|supernatural]] school of thought (to which I
 personally adhere) would be not unworthily typified in the fancy
 that this round world of ours is but an egg brooded upon
 by a sacred unbegotten bird; the mystic dove of the prophets.
@@ -59,7 +59,7 @@ Instead of seeking to breed our ideal bird, the eagle
 of Zeus or the Swan of Avon, or whatever we happen to want,
 we talk entirely in terms of the process and the embryo.
 The process itself, divorced from its divine object, becomes doubtful
-and even morbid; poison enters the embryo of everything;
+and even morbid; [[Poison|poison]] enters the embryo of everything;
 and our politics are rotten eggs.
 
 Idealism is only considering everything in its practical essence.
@@ -76,8 +76,8 @@ been the motive of politics a general coherency or completeness
 in the social system which has gained the nick-name of "efficiency."
 I am not very certain of the secret doctrine of this sect in the matter.
 But, as far as I can make out, "efficiency" means that we ought
-to discover everything about a machine except what it is for.
-There has arisen in our time a most singular fancy:
+to discover everything about a [[Machine|machine]] except what it is for.
+There has arisen in our [[Time|time]] a most singular fancy:
 the fancy that when things go very wrong we need a practical man.
 It would be far truer to say, that when things go very wrong we
 need an unpractical man.  Certainly, at least, we need a theorist.
@@ -97,13 +97,13 @@ dragged out of a college or laboratory to analyze the evil.
 The more complicated the smash, the whiter-haired and more
 absent-minded will be the theorist who is needed to deal with it;
 and in some extreme cases, no one but the man (probably insane)
-who invented your flying-ship could possibly say what was
+who invented your flying-[[Ship|ship]] could possibly say what was
 the matter with it.
 
 "Efficiency," of course, is futile for the same reason
 that strong men, will-power and the superman are futile.
 That is, it is futile because it only deals with actions after
-they have been performed.  It has no philosophy for incidents
+they have been performed.  It has no [[philosophy]] for incidents
 before they happen; therefore it has no power of choice.
 An act can only be successful or unsuccessful when it is over;
 if it is to begin, it must be, in the abstract, right or wrong.
@@ -117,10 +117,10 @@ foreman bully in making them energetic.  Maeterlinck is
 as efficient in filling a man with strange spiritual tremors
 as Messrs.  Crosse and Blackwell are in filling a man with jam.
 But it all depends on what you want to be filled with.
-Lord Rosebery, being a modern skeptic, probably prefers the
+Lord Rosebery, being a modern [[skeptic]], probably prefers the
 spiritual tremors.  I, being an orthodox Christian, prefer the jam.
 But both are efficient when they have been effected; and inefficient
-until they are effected.  A man who thinks much about success must
+until they are effected.  A man who thinks much about [[success]] must
 be the drowsiest sentimentalist; for he must be always looking back.
 If he only likes victory he must always come late for the battle.
 For the man of action there is nothing but idealism.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 50 (part 3)"
+title: "Bleak [[house|House]] — Chapter 50 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -28,9 +28,9 @@ I have not counted Mr. Woodcourt among our visitors because he was
 now Caddy’s regular attendant. She soon began to improve under his
 care, but he was so gentle, so skilful, so unwearying in the pains he
 took that it is not to be wondered at, I am sure. I saw a good deal
-of Mr. Woodcourt during this time, though not so much as might be
+of Mr. Woodcourt during this [[Time|time]], though not so much as might be
 supposed, for knowing Caddy to be safe in his hands, I often slipped
-home at about the hours when he was expected. We frequently met,
+[[Home|home]] at about the hours when he was expected. We frequently met,
 notwithstanding. I was quite reconciled to myself now, but I still
 felt glad to think that he was sorry for me, and he still WAS sorry
 for me I believed. He helped Mr. Badger in his professional
@@ -43,7 +43,7 @@ because I observed it in many slight particulars which were nothing
 in themselves and only became something when they were pieced
 together. But I made it out, by putting them together, that Ada was
 not so frankly cheerful with me as she used to be. Her tenderness for
-me was as loving and true as ever; I did not for a moment doubt that;
+me was as loving and true as ever; I did not for a moment [[Doubt|doubt]] that;
 but there was a quiet sorrow about her which she did not confide to
 me, and in which I traced some hidden regret.
 
@@ -52,7 +52,7 @@ happiness of my own pet that it caused me some uneasiness and set me
 thinking often. At length, feeling sure that Ada suppressed this
 something from me lest it should make me unhappy too, it came into my
 head that she was a little grieved—for me—by what I had told her
-about Bleak House.
+about Bleak [[house|House]].
 
 How I persuaded myself that this was likely, I don’t know. I had no
 idea that there was any selfish reference in my doing so. I was not
@@ -62,20 +62,20 @@ thoughts—of what once was, but was now all changed, seemed so easy
 to believe that I believed it.
 
 What could I do to reassure my darling (I considered then) and show
-her that I had no such feelings? Well! I could only be as brisk and
+her that I had no such feelings? [[Well]]! I could only be as brisk and
 busy as possible, and that I had tried to be all along. However, as
-Caddy’s illness had certainly interfered, more or less, with my home
+Caddy’s illness had certainly interfered, more or less, with my [[Home|home]]
 duties—though I had always been there in the morning to make my
 guardian’s breakfast, and he had a hundred times laughed and said
 there must be two little women, for his little woman was never
 missing—I resolved to be doubly diligent and gay. So I went about
-the house humming all the tunes I knew, and I sat working and working
-in a desperate manner, and I talked and talked, morning, noon, and
-night.
+the [[house]] humming all the tunes I knew, and I sat working and working
+in a desperate manner, and I talked and talked, morning, [[Noon|noon]], and
+[[Night|night]].
 
 And still there was the same shade between me and my darling.
 
-“So, Dame Trot,” observed my guardian, shutting up his book one night
+“So, Dame Trot,” observed my guardian, shutting up his book one [[Night|night]]
 when we were all three together, “so Woodcourt has restored Caddy
 Jellyby to the full enjoyment of life again?”
 
@@ -96,7 +96,7 @@ many others.
 
 “True,” said my guardian. “I had forgotten that. But we would agree
 to make him rich enough to live, I suppose? Rich enough to work with
-tolerable peace of mind? Rich enough to have his own happy home and
+tolerable peace of mind? Rich enough to have his own happy [[Home|home]] and
 his own household gods—and household goddess, too, perhaps?”
 
 That was quite another thing, I said. We must all agree in that.
@@ -104,14 +104,14 @@ That was quite another thing, I said. We must all agree in that.
 “To be sure,” said my guardian. “All of us. I have a great regard for
 Woodcourt, a high esteem for him; and I have been sounding him
 delicately about his plans. It is difficult to offer aid to an
-independent man with that just kind of pride which he possesses. And
+independent man with that just kind of [[Pride|pride]] which he possesses. And
 yet I would be glad to do it if I might or if I knew how. He seems
 half inclined for another voyage. But that appears like casting such
 a man away.”
 
 “It might open a new world to him,” said I.
 
-“So it might, little woman,” my guardian assented. “I doubt if he
+“So it might, little woman,” my guardian assented. “I [[Doubt|doubt]] if he
 expects much of the old world. Do you know I have fancied that he
 sometimes feels some particular disappointment or misfortune
 encountered in it. You never heard of anything of that sort?”
@@ -138,7 +138,7 @@ never be the poorer for them, guardian, at least.”
 I was sitting in my usual place, which was now beside my guardian’s
 chair. That had not been my usual place before the letter, but it was
 now. I looked up to Ada, who was sitting opposite, and I saw, as she
-looked at me, that her eyes were filled with tears and that tears
+looked at me, that her eyes were filled with [[Tears|tears]] and that [[Tears|tears]]
 were falling down her face. I felt that I had only to be placid and
 merry once for all to undeceive my dear and set her loving heart at
 rest. I really was so, and I had nothing to do but to be myself.

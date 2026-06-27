@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 54 (part 3)"
+title: "[[Great Expectations]] — Chapter 54 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-At this dismal time we were evidently all possessed by the idea that we
+At this dismal [[Time|time]] we were evidently all possessed by the idea that we
 were followed. As the tide made, it flapped heavily at irregular
 intervals against the shore; and whenever such a sound came, one or
 other of us was sure to start, and look in that direction. Here and
@@ -22,32 +22,32 @@ there, the set of the current had worn down the bank into a little
 creek, and we were all suspicious of such places, and eyed them
 nervously. Sometimes, “What was that ripple?” one of us would say in a
 low voice. Or another, “Is that a boat yonder?” And afterwards we would
-fall into a dead silence, and I would sit impatiently thinking with
+fall into a dead [[Silence|silence]], and I would sit impatiently thinking with
 what an unusual amount of noise the oars worked in the thowels.
 
 At length we descried a light and a roof, and presently afterwards ran
 alongside a little causeway made of stones that had been picked up hard
 by. Leaving the rest in the boat, I stepped ashore, and found the light
-to be in a window of a public-house. It was a dirty place enough, and I
+to be in a [[Window|window]] of a public-[[house]]. It was a dirty place enough, and I
 dare say not unknown to smuggling adventurers; but there was a good
-fire in the kitchen, and there were eggs and bacon to eat, and various
-liquors to drink. Also, there were two double-bedded rooms,—“such as
-they were,” the landlord said. No other company was in the house than
+[[Fire|fire]] in the kitchen, and there were eggs and bacon to eat, and various
+liquors to drink. Also, there were two [[Double|double]]-bedded rooms,—“such as
+they were,” the landlord said. No other company was in the [[house]] than
 the landlord, his wife, and a grizzled male creature, the “Jack” of the
 little causeway, who was as slimy and smeary as if he had been
-low-water mark too.
+low-[[Water|water]] mark too.
 
 With this assistant, I went down to the boat again, and we all came
 ashore, and brought out the oars, and rudder and boat-hook, and all
-else, and hauled her up for the night. We made a very good meal by the
-kitchen fire, and then apportioned the bedrooms: Herbert and Startop
+else, and hauled her up for the [[Night|night]]. We made a very good meal by the
+kitchen [[Fire|fire]], and then apportioned the bedrooms: Herbert and Startop
 were to occupy one; I and our charge the other. We found the air as
 carefully excluded from both, as if air were fatal to life; and there
 were more dirty clothes and bandboxes under the beds than I should have
-thought the family possessed. But we considered ourselves well off,
+thought the family possessed. But we considered ourselves [[Well|well]] off,
 notwithstanding, for a more solitary place we could not have found.
 
-While we were comforting ourselves by the fire after our meal, the
+While we were comforting ourselves by the [[Fire|fire]] after our meal, the
 Jack—who was sitting in a corner, and who had a bloated pair of shoes
 on, which he had exhibited while we were eating our eggs and bacon, as
 interesting relics that he had taken a few days ago from the feet of a
@@ -100,7 +100,7 @@ Jack?” asked the landlord, vacillating weakly.
 Swallered ’em. Sowed ’em, to come up small salad. Done with their
 buttons!”
 
-“Don’t be cheeky, Jack,” remonstrated the landlord, in a melancholy and
+“Don’t be cheeky, Jack,” remonstrated the landlord, in a [[Melancholy|melancholy]] and
 pathetic way.
 
 “A Custom ’Us officer knows what to do with his Buttons,” said the
@@ -108,32 +108,32 @@ Jack, repeating the obnoxious word with the greatest contempt, “when
 they comes betwixt him and his own light. A four and two sitters don’t
 go hanging and hovering, up with one tide and down with another, and
 both with and against another, without there being Custom ’Us at the
-bottom of it.” Saying which he went out in disdain; and the landlord,
+[[Bottom|bottom]] of it.” Saying which he went out in disdain; and the landlord,
 having no one to reply upon, found it impracticable to pursue the
 subject.
 
-This dialogue made us all uneasy, and me very uneasy. The dismal wind
-was muttering round the house, the tide was flapping at the shore, and
+This dialogue made us all uneasy, and me very uneasy. The dismal [[Wind|wind]]
+was muttering round the [[house]], the tide was flapping at the shore, and
 I had a feeling that we were caged and threatened. A four-oared galley
 hovering about in so unusual a way as to attract this notice was an
 ugly circumstance that I could not get rid of. When I had induced
 Provis to go up to bed, I went outside with my two companions (Startop
-by this time knew the state of the case), and held another council.
-Whether we should remain at the house until near the steamer’s time,
+by this [[Time|time]] knew the state of the case), and held another council.
+Whether we should remain at the [[house]] until near the steamer’s [[Time|time]],
 which would be about one in the afternoon, or whether we should put off
 early in the morning, was the question we discussed. On the whole we
 deemed it the better course to lie where we were, until within an hour
-or so of the steamer’s time, and then to get out in her track, and
+or so of the steamer’s [[Time|time]], and then to get out in her track, and
 drift easily with the tide. Having settled to do this, we returned into
-the house and went to bed.
+the [[house]] and went to bed.
 
-I lay down with the greater part of my clothes on, and slept well for a
-few hours. When I awoke, the wind had risen, and the sign of the house
-(the Ship) was creaking and banging about, with noises that startled
+I lay down with the greater part of my clothes on, and slept [[Well|well]] for a
+few hours. When I awoke, the [[Wind|wind]] had risen, and the sign of the [[house]]
+(the [[Ship]]) was creaking and banging about, with noises that startled
 me. Rising softly, for my charge lay fast asleep, I looked out of the
-window. It commanded the causeway where we had hauled up our boat, and,
-as my eyes adapted themselves to the light of the clouded moon, I saw
-two men looking into her. They passed by under the window, looking at
+[[Window|window]]. It commanded the causeway where we had hauled up our boat, and,
+as my eyes adapted themselves to the light of the clouded [[Moon|moon]], I saw
+two men looking into her. They passed by under the [[Window|window]], looking at
 nothing else, and they did not go down to the landing-place which I
 could discern to be empty, but struck across the marsh in the direction
 of the Nore.

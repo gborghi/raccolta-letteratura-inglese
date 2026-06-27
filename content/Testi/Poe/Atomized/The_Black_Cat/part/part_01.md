@@ -1,5 +1,5 @@
 ---
-title: "The Black Cat (part 1)"
+title: "[[The Black Cat]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Black-Cat-(Poe)"
@@ -18,7 +18,7 @@ For the most wild, yet most homely narrative which I am about to
       pen, I neither expect nor solicit belief. Mad indeed would I be
       to expect it, in a case where my very senses reject their own
       evidence. Yet, mad am I not—and very surely do I not dream. But
-      to-morrow I die, and to-day I would unburthen my soul. My
+      to-morrow I die, and to-day I would unburthen my [[Soul|soul]]. My
       immediate purpose is to place before the world, plainly,
       succinctly, and without comment, a series of mere household
       events. In their consequences, these events have terrified—have
@@ -34,22 +34,22 @@ For the most wild, yet most homely narrative which I am about to
       From my infancy I was noted for the docility and humanity of my
       disposition. My tenderness of heart was even so conspicuous as to
       make me the jest of my companions. I was especially fond of
-      animals, and was indulged by my parents with a great variety of
-      pets. With these I spent most of my time, and never was so happy
+      [[Animals|animals]], and was indulged by my parents with a great variety of
+      pets. With these I spent most of my [[Time|time]], and never was so happy
       as when feeding and caressing them. This peculiarity of character
       grew with my growth, and in my manhood, I derived from it one of
       my principal sources of pleasure. To those who have cherished an
       affection for a faithful and sagacious dog, I need hardly be at
-      the trouble of explaining the nature or the intensity of the
+      the trouble of explaining the [[Nature|nature]] or the intensity of the
       gratification thus derivable. There is something in the unselfish
-      and self-sacrificing love of a brute, which goes directly to the
+      and [[Self|self]]-sacrificing [[Love|love]] of a brute, which goes directly to the
       heart of him who has had frequent occasion to test the paltry
-      friendship and gossamer fidelity of mere _Man_.
+      [[Friendship|friendship]] and gossamer fidelity of mere _Man_.
 
       I married early, and was happy to find in my wife a disposition
       not uncongenial with my own. Observing my partiality for domestic
       pets, she lost no opportunity of procuring those of the most
-      agreeable kind. We had birds, gold-fish, a fine dog, rabbits, a
+      agreeable kind. We had [[Birds|birds]], gold-fish, a fine dog, rabbits, a
       small monkey, and _a cat_.
 
       This latter was a remarkably large and beautiful animal, entirely
@@ -62,11 +62,11 @@ For the most wild, yet most homely narrative which I am about to
       now, to be remembered.
 
       Pluto—this was the cat’s name—was my favorite pet and playmate. I
-      alone fed him, and he attended me wherever I went about the
-      house. It was even with difficulty that I could prevent him from
+      [[Alone|alone]] fed him, and he attended me wherever I went about the
+      [[house]]. It was even with difficulty that I could prevent him from
       following me through the streets.
 
-      Our friendship lasted, in this manner, for several years, during
+      Our [[Friendship|friendship]] lasted, in this manner, for several years, during
       which my general temperament and character—through the
       instrumentality of the Fiend Intemperance—had (I blush to confess
       it) experienced a radical alteration for the worse. I grew, day
@@ -83,12 +83,12 @@ For the most wild, yet most homely narrative which I am about to
       and consequently somewhat peevish—even Pluto began to experience
       the effects of my ill temper.
 
-      One night, returning home, much intoxicated, from one of my
+      One [[Night|night]], returning [[Home|home]], much intoxicated, from one of my
       haunts about town, I fancied that the cat avoided my presence. I
       seized him; when, in his fright at my violence, he inflicted a
       slight wound upon my hand with his teeth. The fury of a demon
-      instantly possessed me. I knew myself no longer. My original soul
-      seemed, at once, to take its flight from my body and a more than
+      instantly possessed me. I knew myself no longer. My original [[Soul|soul]]
+      seemed, at once, to take its flight from my [[Body|body]] and a more than
       fiendish malevolence, gin-nurtured, thrilled every fibre of my
       frame. I took from my waistcoat-pocket a pen-knife, opened it,
       grasped the poor beast by the throat, and deliberately cut one of
@@ -96,22 +96,22 @@ For the most wild, yet most homely narrative which I am about to
       the damnable atrocity.
 
       When reason returned with the morning—when I had slept off the
-      fumes of the night’s debauch—I experienced a sentiment half of
+      fumes of the [[Night|night]]’s debauch—I experienced a sentiment half of
       horror, half of remorse, for the crime of which I had been
       guilty; but it was, at best, a feeble and equivocal feeling, and
-      the soul remained untouched. I again plunged into excess, and
-      soon drowned in wine all memory of the deed.
+      the [[Soul|soul]] remained untouched. I again plunged into excess, and
+      soon drowned in wine all [[Memory|memory]] of the deed.
 
       In the meantime the cat slowly recovered. The socket of the lost
       eye presented, it is true, a frightful appearance, but he no
-      longer appeared to suffer any pain. He went about the house as
+      longer appeared to suffer any [[Pain|pain]]. He went about the [[house]] as
       usual, but, as might be expected, fled in extreme terror at my
       approach. I had so much of my old heart left, as to be at first
       grieved by this evident dislike on the part of a creature which
       had once so loved me. But this feeling soon gave place to
       irritation. And then came, as if to my final and irrevocable
-      overthrow, the spirit of PERVERSENESS. Of this spirit philosophy
-      takes no account. Yet I am not more sure that my soul lives, than
+      overthrow, the spirit of PERVERSENESS. Of this spirit [[philosophy]]
+      takes no account. Yet I am not more sure that my [[Soul|soul]] lives, than
       I am that perverseness is one of the primitive impulses of the
       human heart—one of the indivisible primary faculties, or
       sentiments, which give direction to the character of Man. Who has
@@ -120,16 +120,16 @@ For the most wild, yet most homely narrative which I am about to
       Have we not a perpetual inclination, in the teeth of our best
       judgment, to violate that which is _Law_, merely because we
       understand it to be such? This spirit of perverseness, I say,
-      came to my final overthrow. It was this unfathomable longing of
-      the soul _to vex itself_—to offer violence to its own nature—to
+      came to my final overthrow. It was this unfathomable [[Longing|longing]] of
+      the [[Soul|soul]] _to vex itself_—to offer violence to its own [[Nature|nature]]—to
       do wrong for the wrong’s sake only—that urged me to continue and
       finally to consummate the injury I had inflicted upon the
-      unoffending brute. One morning, in cool blood, I slipped a noose
+      unoffending brute. One morning, in cool [[Blood|blood]], I slipped a noose
       about its neck and hung it to the limb of a tree;—hung it with
-      the tears streaming from my eyes, and with the bitterest remorse
+      the [[Tears|tears]] streaming from my eyes, and with the bitterest remorse
       at my heart;—hung it _because_ I knew that it had loved me, and
       _because_ I felt it had given me no reason of offence;—hung it
       _because_ I knew that in so doing I was committing a sin—a deadly
-      sin that would so jeopardize my immortal soul as to place it—if
+      sin that would so jeopardize my immortal [[Soul|soul]] as to place it—if
       such a thing were possible—even beyond the reach of the infinite
-      mercy of the Most Merciful and Most Terrible God.
+      [[Mercy|mercy]] of the Most Merciful and Most Terrible God.

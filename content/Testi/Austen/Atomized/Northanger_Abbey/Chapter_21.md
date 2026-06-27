@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 20"
+title: "[[Northanger Abbey]] — Chapter 20"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER 20
 
 Mr. and Mrs. Allen were sorry to lose their young friend, whose good
 
-humour and cheerfulness had made her a valuable companion, and in the
+[[Humour|humour]] and cheerfulness had made her a valuable companion, and in the
 
 promotion of whose enjoyment their own had been gently increased. Her
 
@@ -86,17 +86,17 @@ disrespectful to her. This was placing her in a very uncomfortable
 
 situation, and she felt great compassion for Captain Tilney, without
 
-being able to hope for his goodwill.
+being able to [[Hope|hope]] for his goodwill.
 
 
 
-He listened to his father in silence, and attempted not any defence,
+He listened to his father in [[Silence|silence]], and attempted not any defence,
 
 which confirmed her in fearing that the inquietude of his mind, on
 
-Isabella’s account, might, by keeping him long sleepless, have been the
+[[Isabella]]’s account, might, by keeping him long sleepless, have been the
 
-real cause of his rising late. It was the first time of her being
+real cause of his rising late. It was the first [[Time|time]] of her being
 
 decidedly in his company, and she had hoped to be now able to form her
 
@@ -106,11 +106,11 @@ remained in the room; and even afterwards, so much were his spirits
 
 affected, she could distinguish nothing but these words, in a whisper
 
-to Eleanor, “How glad I shall be when you are all off.”
+to [[Eleanor]], “How glad I shall be when you are all off.”
 
 
 
-The bustle of going was not pleasant. The clock struck ten while the
+The bustle of going was not pleasant. The [[Clock|clock]] struck ten while the
 
 trunks were carrying down, and the General had fixed to be out of
 
@@ -134,13 +134,13 @@ closed upon the three females, and they set off at the sober pace in
 
 which the handsome, highly fed four horses of a gentleman usually
 
-perform a journey of thirty miles: such was the distance of Northanger
+perform a [[Journey|journey]] of thirty miles: such was the distance of Northanger
 
 from Bath, to be now divided into two equal stages. Catherine’s spirits
 
 revived as they drove from the door; for with Miss Tilney she felt no
 
-restraint; and, with the interest of a road entirely new to her, of an
+restraint; and, with the interest of a [[Road|road]] entirely new to her, of an
 
 abbey before, and a curricle behind, she caught the last view of Bath
 
@@ -160,7 +160,7 @@ stirrups, and numerous outriders properly mounted, sunk a little under
 
 this consequent inconvenience. Had their party been perfectly
 
-agreeable, the delay would have been nothing; but General Tilney,
+agreeable, the delay would have been nothing; but [[General Tilney]],
 
 though so charming a man, seemed always a check upon his children’s
 
@@ -176,7 +176,7 @@ last, however, the order of release was given; and much was Catherine
 
 then surprised by the General’s proposal of her taking his place in his
 
-son’s curricle for the rest of the journey: “the day was fine, and he
+son’s curricle for the rest of the [[Journey|journey]]: “the day was fine, and he
 
 was anxious for her seeing as much of the country as possible.”
 
@@ -188,7 +188,7 @@ carriages, made her blush at the mention of such a plan, and her first
 
 thought was to decline it; but her second was of greater deference for
 
-General Tilney’s judgment; he could not propose anything improper for
+[[General Tilney]]’s judgment; he could not propose anything improper for
 
 her; and, in the course of a few minutes, she found herself with Henry
 
@@ -200,7 +200,7 @@ the chaise and four wheeled off with some grandeur, to be sure, but it
 
 was a heavy and troublesome business, and she could not easily forget
 
-its having stopped two hours at Petty France. Half the time would have
+its having stopped two hours at Petty France. Half the [[Time|time]] would have
 
 been enough for the curricle, and so nimbly were the light horses
 
@@ -210,13 +210,13 @@ carriage lead the way, they could have passed it with ease in half a
 
 minute. But the merit of the curricle did not all belong to the horses;
 
-Henry drove so well—so quietly—without making any disturbance, without
+Henry drove so [[Well|well]]—so quietly—without making any disturbance, without
 
 parading to her, or swearing at them: so different from the only
 
 gentleman-coachman whom it was in her power to compare him with! and
 
-then his hat sat so well, and the innumerable capes of his greatcoat
+then his hat sat so [[Well|well]], and the innumerable capes of his greatcoat
 
 looked so becomingly important! to be driven by him, next to being
 
@@ -228,7 +228,7 @@ own praise; of being thanked at least, on his sister’s account, for her
 
 kindness in thus becoming her visitor; of hearing it ranked as real
 
-friendship, and described as creating real gratitude. His sister, he
+[[Friendship|friendship]], and described as creating real gratitude. His sister, he
 
 said, was uncomfortably circumstanced—she had no female companion—and,
 
@@ -242,11 +242,11 @@ companion at all.
 
 
 
-“Northanger is not more than half my home; I have an establishment at
+“Northanger is not more than half my [[Home|home]]; I have an establishment at
 
-my own house in Woodston, which is nearly twenty miles from my
+my own [[house]] in Woodston, which is nearly twenty miles from my
 
-father’s, and some of my time is necessarily spent there.”
+father’s, and some of my [[Time|time]] is necessarily spent there.”
 
 
 
@@ -254,15 +254,15 @@ father’s, and some of my time is necessarily spent there.”
 
 
 
-“I am always sorry to leave Eleanor.”
+“I am always sorry to leave [[Eleanor]].”
 
 
 
 “Yes; but besides your affection for her, you must be so fond of the
 
-abbey! after being used to such a home as the abbey, an ordinary
+abbey! after being used to such a [[Home|home]] as the abbey, an ordinary
 
-parsonage-house must be very disagreeable.”
+parsonage-[[house]] must be very disagreeable.”
 
 
 
@@ -288,7 +288,7 @@ fit for sliding panels and tapestry?”
 
 “Oh! yes—I do not think I should be easily frightened, because there
 
-would be so many people in the house—and besides, it has never been
+would be so many people in the [[house]]—and besides, it has never been
 
 uninhabited and left deserted for years, and then the family come back
 
@@ -298,7 +298,7 @@ to it unawares, without giving any notice, as generally happens.”
 
 “No, certainly. We shall not have to explore our way into a hall dimly
 
-lighted by the expiring embers of a wood fire—nor be obliged to spread
+lighted by the expiring embers of a wood [[Fire|fire]]—nor be obliged to spread
 
 our beds on the floor of a room without windows, doors, or furniture.
 
@@ -308,7 +308,7 @@ introduced into a dwelling of this kind, she is always lodged apart
 
 from the rest of the family. While they snugly repair to their own end
 
-of the house, she is formally conducted by Dorothy, the ancient
+of the [[house]], she is formally conducted by Dorothy, the ancient
 
 housekeeper, up a different staircase, and along many gloomy passages,
 
@@ -370,23 +370,23 @@ with increased alarm, that it has no lock.”
 
 really happen to me. I am sure your housekeeper is not really Dorothy.
 
-Well, what then?”
+[[Well]], what then?”
 
 
 
-“Nothing further to alarm perhaps may occur the first night. After
+“Nothing further to alarm perhaps may occur the first [[Night|night]]. After
 
 surmounting your _unconquerable_ horror of the bed, you will retire to
 
 rest, and get a few hours’ unquiet slumber. But on the second, or at
 
-farthest the _third_ night after your arrival, you will probably have a
+farthest the _third_ [[Night|night]] after your arrival, you will probably have a
 
-violent storm. Peals of thunder so loud as to seem to shake the edifice
+violent [[Storm|storm]]. Peals of thunder so loud as to seem to shake the edifice
 
-to its foundation will roll round the neighbouring mountains—and during
+to its foundation will roll round the neighbouring [[Mountains|mountains]]—and during
 
-the frightful gusts of wind which accompany it, you will probably think
+the frightful gusts of [[Wind|wind]] which accompany it, you will probably think
 
 you discern (for your lamp is not extinguished) one part of the hanging
 
@@ -426,7 +426,7 @@ room, and through this into several others, without perceiving anything
 
 very remarkable in either. In one perhaps there may be a dagger, in
 
-another a few drops of blood, and in a third the remains of some
+another a few drops of [[Blood|blood]], and in a third the remains of some
 
 instrument of torture; but there being nothing in all this out of the
 
@@ -442,13 +442,13 @@ examining the furniture before, you had passed unnoticed. Impelled by
 
 an irresistible presentiment, you will eagerly advance to it, unlock
 
-its folding doors, and search into every drawer—but for some time
+its folding doors, and search into every drawer—but for some [[Time|time]]
 
 without discovering anything of importance—perhaps nothing but a
 
 considerable hoard of diamonds. At last, however, by touching a secret
 
-spring, an inner compartment will open—a roll of paper appears—you
+[[spring]], an inner compartment will open—a roll of paper appears—you
 
 seize it—it contains many sheets of manuscript—you hasten with the
 
@@ -458,11 +458,11 @@ able to decipher ‘Oh thou, whomsoever thou mayst be, into whose hands
 
 these memoirs of the wretched Matilda may fall’—when your lamp suddenly
 
-expires in the socket, and leaves you in total darkness.”
+expires in the socket, and [[Leaves|leaves]] you in total darkness.”
 
 
 
-“Oh, no, no; do not say so. Well, go on.”
+“Oh, no, no; do not say so. [[Well]], go on.”
 
 
 
@@ -486,11 +486,11 @@ afraid.”
 
 
 
-As they drew near the end of their journey, her impatience for a sight
+As they drew near the end of their [[Journey|journey]], her impatience for a sight
 
-of the abbey—for some time suspended by his conversation on subjects
+of the abbey—for some [[Time|time]] suspended by his conversation on subjects
 
-very different—returned in full force, and every bend in the road was
+very different—returned in full force, and every bend in the [[Road|road]] was
 
 expected with solemn awe to afford a glimpse of its massy walls of grey
 
@@ -514,7 +514,7 @@ expected. To pass between lodges of a modern appearance, to find
 
 herself with such ease in the very precincts of the abbey, and driven
 
-so rapidly along a smooth, level road of fine gravel, without obstacle,
+so rapidly along a smooth, level [[Road|road]] of fine gravel, without obstacle,
 
 alarm, or solemnity of any kind, struck her as odd and inconsistent.
 
@@ -570,7 +570,7 @@ sure, the pointed arch was preserved—the form of them was Gothic—they
 
 might be even casements—but every pane was so large, so clear, so
 
-light! to an imagination which had hoped for the smallest divisions,
+light! to an [[Imagination|imagination]] which had hoped for the smallest divisions,
 
 and the heaviest stone-work, for painted glass, dirt, and cobwebs, the
 
@@ -608,9 +608,9 @@ landing-places, brought them upon a long, wide gallery. On one side it
 
 had a range of doors, and it was lighted on the other by windows which
 
-Catherine had only time to discover looked into a quadrangle, before
+Catherine had only [[Time|time]] to discover looked into a quadrangle, before
 
-Miss Tilney led the way into a chamber, and scarcely staying to hope
+Miss Tilney led the way into a chamber, and scarcely staying to [[Hope|hope]]
 
 she would find it comfortable, left her with an anxious entreaty that
 

@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act V, Scene 5 — exchange (ANOTHER LORD) [7]"
+title: "[[Richard II]] — Act V, Scene 5 — exchange (ANOTHER LORD) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ANOTHER LORD | I task the earth to the like, forsworn Aumerle, And spur thee on with full as many lies As may be hollowed in thy treacherous ear From sun to sun. There is my honour’s pawn. Engage it to the trial if thou darest. He throws down his gage |
+| ANOTHER LORD | I task the earth to the like, forsworn Aumerle, And spur thee on with full as many lies As may be hollowed in thy treacherous ear From sun to sun. There is my [[Honour|honour]]’s pawn. Engage it to the trial if thou darest. He throws down his gage |
 | AUMERLE | Who sets me else? By heaven, I’ll throw at all. I have a thousand spirits in one breast To answer twenty thousand such as you. |

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 3)"
+title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -43,7 +43,7 @@ drop that oil upon the blankets, now."
 "Whose else's do you think?" replied the woman. "He
 isn't likely to take cold without 'em, I dare say."
 
-"I hope he didn't die of anything catching? Eh?" said
+"I [[Hope|hope]] he didn't die of anything catching? Eh?" said
 old Joe, stopping in his work, and looking up.
 
 "Don't you be afraid of that," returned the woman. "I
@@ -56,10 +56,10 @@ They'd have wasted it, if it hadn't been for me."
 "What do you call wasting of it?" asked old Joe.
 
 "Putting it on him to be buried in, to be sure," replied
-the woman with a laugh. "Somebody was fool enough to
+the woman with a laugh. "Somebody was [[Fool|fool]] enough to
 do it, but I took it off again. If calico an't good enough for
 such a purpose, it isn't good enough for anything. It's quite
-as becoming to the body. He can't look uglier than he did
+as becoming to the [[Body|body]]. He can't look uglier than he did
 in that one."
 
 Scrooge listened to this dialogue in horror. As they sat
@@ -90,9 +90,9 @@ any accuracy, though Scrooge glanced round it in obedience
 to a secret impulse, anxious to know what kind of room it
 was. A pale light, rising in the outer air, fell straight upon
 the bed; and on it, plundered and bereft, unwatched, unwept,
-uncared for, was the body of this man.
+uncared for, was the [[Body|body]] of this man.
 
-Scrooge glanced towards the Phantom. Its steady hand
+Scrooge glanced towards the [[Phantom]]. Its steady hand
 was pointed to the head. The cover was so carelessly adjusted
 that the slightest raising of it, the motion of a finger upon
 Scrooge's part, would have disclosed the face. He thought
@@ -100,7 +100,7 @@ of it, felt how easy it would be to do, and longed to do it;
 but had no more power to withdraw the veil than to dismiss
 the spectre at his side.
 
-Oh cold, cold, rigid, dreadful Death, set up thine altar
+Oh cold, cold, rigid, dreadful [[Death]], set up thine altar
 here, and dress it with such terrors as thou hast at thy
 command: for this is thy dominion! But of the loved,
 revered, and honoured head, thou canst not turn one hair
@@ -108,7 +108,7 @@ to thy dread purposes, or make one feature odious. It is
 not that the hand is heavy and will fall down when released;
 it is not that the heart and pulse are still; but that the
 hand WAS open, generous, and true; the heart brave, warm,
-and tender; and the pulse a man's. Strike, Shadow, strike!
+and tender; and the pulse a man's. Strike, [[Shadow]], strike!
 And see his good deeds springing from the wound, to sow
 the world with life immortal!
 
@@ -118,18 +118,18 @@ thought, if this man could be raised up now, what would be
 his foremost thoughts? Avarice, hard-dealing, griping cares?
 They have brought him to a rich end, truly!
 
-He lay, in the dark empty house, with not a man, a
-woman, or a child, to say that he was kind to me in this
-or that, and for the memory of one kind word I will be
+He lay, in the dark empty [[house]], with not a man, a
+woman, or a [[Child|child]], to say that he was kind to me in this
+or that, and for the [[Memory|memory]] of one kind word I will be
 kind to him. A cat was tearing at the door, and there was
 a sound of gnawing rats beneath the hearth-stone. What
-they wanted in the room of death, and why they were so
+they wanted in the room of [[Death|death]], and why they were so
 restless and disturbed, Scrooge did not dare to think.
 
 "Spirit!" he said, "this is a fearful place. In leaving it,
 I shall not leave its lesson, trust me. Let us go!"
 
-Still the Ghost pointed with an unmoved finger to the
+Still the [[Ghost]] pointed with an unmoved finger to the
 head.
 
 "I understand you," Scrooge returned, "and I would do
@@ -139,16 +139,16 @@ not the power."
 Again it seemed to look upon him.
 
 "If there is any person in the town, who feels emotion
-caused by this man's death," said Scrooge quite agonised,
+caused by this man's [[Death|death]]," said Scrooge quite agonised,
 "show that person to me, Spirit, I beseech you!"
 
-The Phantom spread its dark robe before him for a
+The [[Phantom]] spread its dark robe before him for a
 moment, like a wing; and withdrawing it, revealed a room
 by daylight, where a mother and her children were.
 
 She was expecting some one, and with anxious eagerness;
 for she walked up and down the room; started at every
-sound; looked out from the window; glanced at the clock;
+sound; looked out from the [[Window|window]]; glanced at the [[Clock|clock]];
 tried, but in vain, to work with her needle; and could hardly
 bear the voices of the children in their play.
 
@@ -159,6 +159,6 @@ a remarkable expression in it now; a kind of serious delight
 of which he felt ashamed, and which he struggled to repress.
 
 He sat down to the dinner that had been hoarding for
-him by the fire; and when she asked him faintly what news
-(which was not until after a long silence), he appeared
+him by the [[Fire|fire]]; and when she asked him faintly what news
+(which was not until after a long [[Silence|silence]]), he appeared
 embarrassed how to answer.

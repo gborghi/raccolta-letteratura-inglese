@@ -1,5 +1,5 @@
 ---
-title: "Landor's Cottage (part 3)"
+title: "[[Landor's Cottage]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Landor's-Cottage-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       The lake was deep—at some points thirty feet—but the rivulet
       seldom exceeded three, while its greatest width was about eight.
-      Its bottom and banks were as those of the pond—if a defect could
+      Its [[Bottom|bottom]] and banks were as those of the pond—if a defect could
       have been attributed, in point of picturesqueness, it was that of
       excessive neatness.
 
@@ -30,7 +30,7 @@ tags:
       spotted with sheep—a considerable flock of which roamed about the
       vale, in company with three tamed deer, and a vast number of
       brilliantly-plumed ducks. A very large mastiff seemed to be in
-      vigilant attendance upon these animals, each and all.
+      vigilant attendance upon these [[Animals|animals]], each and all.
 
       Along the eastern and western cliffs—where, toward the upper
       portion of the amphitheatre, the boundaries were more or less
@@ -50,7 +50,7 @@ tags:
       the precipitous ledge of rock over which tumbled the cascade that
       had arrested my attention as I first drew near the domain. In
       short, the only ingress or egress was through a gate occupying a
-      rocky pass in the road, a few paces below the point at which I
+      rocky pass in the [[Road|road]], a few paces below the point at which I
       stopped to reconnoitre the scene.
 
       I have described the brook as meandering very irregularly through
@@ -59,8 +59,8 @@ tags:
       At the turn, the stream, sweeping backward, made an almost
       circular loop, so as to form a peninsula which was very nearly an
       island, and which included about the sixteenth of an acre. On
-      this peninsula stood a dwelling-house—and when I say that this
-      house, like the infernal terrace seen by Vathek, “etait d’une
+      this peninsula stood a dwelling-[[house]]—and when I say that this
+      [[house]], like the infernal terrace seen by Vathek, “etait d’une
       architecture inconnue dans les annales de la terre,” I mean,
       merely, that its tout ensemble struck me with the keenest sense
       of combined novelty and propriety—in a word, of poetry—(for, than
@@ -68,7 +68,7 @@ tags:
       the abstract, a more rigorous definition)—and I do not mean that
       merely outre was perceptible in any respect.
 
-      In fact nothing could well be more simple—more utterly
+      In fact nothing could [[Well|well]] be more simple—more utterly
       unpretending than this cottage. Its marvellous effect lay
       altogether in its artistic arrangement as a picture. I could have
       fancied, while I looked at it, that some eminent
@@ -76,7 +76,7 @@ tags:
 
       The point of view from which I first saw the valley, was not
       altogether, although it was nearly, the best point from which to
-      survey the house. I will therefore describe it as I afterwards
+      survey the [[house]]. I will therefore describe it as I afterwards
       saw it—from a position on the stone wall at the southern extreme
       of the amphitheatre.
 
@@ -85,7 +85,7 @@ tags:
       the apex of the roof, could not have exceeded eighteen feet. To
       the west end of this structure was attached one about a third
       smaller in all its proportions:—the line of its front standing
-      back about two yards from that of the larger house, and the line
+      back about two yards from that of the larger [[house]], and the line
       of its roof, of course, being considerably depressed below that
       of the roof adjoining. At right angles to these buildings, and
       from the rear of the main one—not exactly in the middle—extended
@@ -96,7 +96,7 @@ tags:
       front, so as to form the roofs of two piazzas. These latter
       roofs, of course, needed no support; but as they had the air of
       needing it, slight and perfectly plain pillars were inserted at
-      the corners alone. The roof of the northern wing was merely an
+      the corners [[Alone|alone]]. The roof of the northern wing was merely an
       extension of a portion of the main roof. Between the chief
       building and western wing arose a very tall and rather slender
       square chimney of hard Dutch bricks, alternately black and red:—a
@@ -109,7 +109,7 @@ tags:
       usual—they had single shutters like doors—the panes were of
       lozenge form, but quite large. The door itself had its upper half
       of glass, also in lozenge panes—a movable shutter secured it at
-      night. The door to the west wing was in its gable, and quite
-      simple—a single window looked out to the south. There was no
-      external door to the north wing, and it also had only one window
+      [[Night|night]]. The door to the west wing was in its gable, and quite
+      simple—a single [[Window|window]] looked out to the south. There was no
+      external door to the north wing, and it also had only one [[Window|window]]
       to the east.

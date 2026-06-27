@@ -23,13 +23,13 @@ tags:
 With that Mr Dombey stalked away to his own dressing-room, and Mrs
 Dombey went upstairs to hers. Mrs Skewton and Florence repaired to the
 drawing-room, where that excellent mother considered it incumbent on
-her to shed a few irrepressible tears, supposed to be forced from her
+her to shed a few irrepressible [[Tears|tears]], supposed to be forced from her
 by her daughter’s felicity; and which she was still drying, very
 gingerly, with a laced corner of her pocket-handkerchief, when her
 son-in-law appeared.
 
 “And how, my dearest Dombey, did you find that delightfullest of
-cities, Paris?” she asked, subduing her emotion.
+cities, [[Paris]]?” she asked, subduing her emotion.
 
 “It was cold,” returned Mr Dombey.
 
@@ -39,13 +39,13 @@ cities, Paris?” she asked, subduing her emotion.
 
 “Fie, my dearest Dombey!” archly; “dull!”
 
-“It made that impression upon me, Madam,” said Mr Dombey, with grave
+“It made that impression upon me, Madam,” said Mr Dombey, with [[Grave|grave]]
 politeness. “I believe Mrs Dombey found it dull too. She mentioned once
 or twice that she thought it so.”
 
-“Why, you naughty girl!” cried Mrs Skewton, rallying her dear child,
+“Why, you naughty girl!” cried Mrs Skewton, rallying her dear [[Child|child]],
 who now entered, “what dreadfully heretical things have you been saying
-about Paris?”
+about [[Paris]]?”
 
 Edith raised her eyebrows with an air of weariness; and passing the
 folding-doors which were thrown open to display the suite of rooms in
@@ -54,19 +54,19 @@ passed, sat down by Florence.
 
 “My dear Dombey,” said Mrs Skewton, “how charmingly these people have
 carried out every idea that we hinted. They have made a perfect palace
-of the house, positively.”
+of the [[house]], positively.”
 
 “It is handsome,” said Mr Dombey, looking round. “I directed that no
 expense should be spared; and all that money could do, has been done, I
 believe.”
 
-“And what can it not do, dear Dombey?” observed Cleopatra.
+“And what can it not do, dear Dombey?” observed [[Cleopatra]].
 
 “It is powerful, Madam,” said Mr Dombey.
 
 He looked in his solemn way towards his wife, but not a word said she.
 
-“I hope, Mrs Dombey,” addressing her after a moment’s silence, with
+“I [[Hope|hope]], Mrs Dombey,” addressing her after a moment’s [[Silence|silence]], with
 especial distinctness; “that these alterations meet with your
 approval?”
 
@@ -78,44 +78,44 @@ inseparable from it; but the contempt with which it received any appeal
 to admiration, respect, or consideration on the ground of his riches,
 no matter how slight or ordinary in itself, was a new and different
 expression, unequalled in intensity by any other of which it was
-capable. Whether Mr Dombey, wrapped in his own greatness, was at all
+capable. Whether Mr Dombey, wrapped in his own [[Greatness|greatness]], was at all
 aware of this, or no, there had not been wanting opportunities already
 for his complete enlightenment; and at that moment it might have been
 effected by the one glance of the dark eye that lighted on him, after
 it had rapidly and scornfully surveyed the theme of his
-self-glorification. He might have read in that one glance that nothing
+[[Self|self]]-glorification. He might have read in that one glance that nothing
 that his wealth could do, though it were increased ten thousand fold,
 could win him for its own sake, one look of softened recognition from
-the defiant woman, linked to him, but arrayed with her whole soul
+the defiant woman, linked to him, but arrayed with her whole [[Soul|soul]]
 against him. He might have read in that one glance that even for its
 sordid and mercenary influence upon herself, she spurned it, while she
 claimed its utmost power as her right, her bargain—as the base and
 worthless recompense for which she had become his wife. He might have
-read in it that, ever baring her own head for the lightning of her own
-contempt and pride to strike, the most innocent allusion to the power
+read in it that, ever baring her own head for the [[Lightning|lightning]] of her own
+contempt and [[Pride|pride]] to strike, the most [[Innocent|innocent]] allusion to the power
 of his riches degraded her anew, sunk her deeper in her own respect,
 and made the blight and waste within her more complete.
 
-But dinner was announced, and Mr Dombey led down Cleopatra; Edith and
+But dinner was announced, and Mr Dombey led down [[Cleopatra]]; Edith and
 his daughter following. Sweeping past the gold and silver demonstration
 on the sideboard as if it were heaped-up dirt, and deigning to bestow
 no look upon the elegancies around her, she took her place at his board
-for the first time, and sat, like a statue, at the feast.
+for the first [[Time|time]], and sat, like a statue, at the feast.
 
-Mr Dombey, being a good deal in the statue way himself, was well enough
+Mr Dombey, being a good deal in the statue way himself, was [[Well|well]] enough
 pleased to see his handsome wife immovable and proud and cold. Her
 deportment being always elegant and graceful, this as a general
 behaviour was agreeable and congenial to him. Presiding, therefore,
 with his accustomed dignity, and not at all reflecting on his wife by
 any warmth or hilarity of his own, he performed his share of the
 honours of the table with a cool satisfaction; and the installation
-dinner, though not regarded downstairs as a great success, or very
+dinner, though not regarded downstairs as a great [[success]], or very
 promising beginning, passed off, above, in a sufficiently polite,
 genteel, and frosty manner.
 
 Soon after tea, Mrs Skewton, who affected to be quite overcome and worn
 out by her emotions of happiness, arising in the contemplation of her
-dear child united to the man of her heart, but who, there is reason to
+dear [[Child|child]] united to the man of her heart, but who, there is reason to
 suppose, found this family party somewhat dull, as she yawned for one
 hour continually behind her fan, retired to bed. Edith, also, silently
 withdrew and came back no more. Thus, it happened that Florence, who
@@ -131,13 +131,13 @@ come and go here, Florence, as you please. This is not my private
 room.”
 
 Florence entered, and sat down at a distant little table with her work:
-finding herself for the first time in her life—for the very first time
-within her memory from her infancy to that hour—alone with her father,
-as his companion. She, his natural companion, his only child, who in
-her lonely life and grief had known the suffering of a breaking heart;
-who, in her rejected love, had never breathed his name to God at night,
+finding herself for the first [[Time|time]] in her life—for the very first [[Time|time]]
+within her [[Memory|memory]] from her infancy to that hour—[[Alone|alone]] with her father,
+as his companion. She, his natural companion, his only [[Child|child]], who in
+her lonely life and grief had known the [[Suffering|suffering]] of a breaking heart;
+who, in her rejected [[Love|love]], had never breathed his name to God at [[Night|night]],
 but with a tearful blessing, heavier on him than a curse; who had
 prayed to die young, so she might only die in his arms; who had, all
 through, repaid the agony of slight and coldness, and dislike, with
-patient unexacting love, excusing him, and pleading for him, like his
+patient unexacting [[Love|love]], excusing him, and pleading for him, like his
 better angel!

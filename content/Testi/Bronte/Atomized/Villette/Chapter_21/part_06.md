@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 21 (part 6)"
+title: "[[Villette]] — Chapter 21 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,7 +15,7 @@ tags:
 
 
 “Allons, allons!” said he presently, looking round and seeing the
-deluge universal. “Decidedly I am a monster and a ruffian. I have only
+[[deluge]] universal. “Decidedly I am a [[Monster|monster]] and a ruffian. I have only
 one pocket-handkerchief,” he added, “but if I had twenty, I would offer
 you each one. Your teacher shall be your representative. Here, Miss
 Lucy.”
@@ -25,32 +25,32 @@ person who did not know M. Paul, who was unused to him and his
 impulses, would naturally have bungled at this offer—declined accepting
 the same—et cetera. But I too plainly felt this would never do: the
 slightest hesitation would have been fatal to the incipient treaty of
-peace. I rose and met the handkerchief half-way, received it with
+peace. I [[Rose|rose]] and met the handkerchief half-way, received it with
 decorum, wiped therewith my eyes, and, resuming my seat, and retaining
-the flag of truce in my hand and on my lap, took especial care during
+the [[Flag|flag]] of truce in my hand and on my lap, took especial care during
 the remainder of the lesson to touch neither needle nor thimble,
 scissors nor muslin. Many a jealous glance did M. Paul cast at these
 implements; he hated them mortally, considering sewing a source of
 distraction from the attention due to himself. A very eloquent lesson
 he gave, and very kind and friendly was he to the close. Ere he had
-done, the clouds were dispersed and the sun shining out—tears were
+done, the clouds were dispersed and the sun shining out—[[Tears|tears]] were
 exchanged for smiles.
 
 In quitting the room he paused once more at my desk.
 
-“And your letter?” said he, this time not quite fiercely.
+“And your letter?” said he, this [[Time|time]] not quite fiercely.
 
 “I have not yet read it, Monsieur.”
 
 “Ah! it is too good to read at once; you save it, as, when I was a boy,
 I used to save a peach whose bloom was very ripe?”
 
-The guess came so near the truth, I could not prevent a suddenly-rising
+The guess came so near the [[Truth|truth]], I could not prevent a suddenly-rising
 warmth in my face from revealing as much.
 
 “You promise yourself a pleasant moment,” said he, “in reading that
-letter; you will open it when alone—n’est-ce pas? Ah! a smile answers.
-Well, well! one should not be too harsh; ‘la jeunesse n’a qu’un
+letter; you will open it when [[Alone|alone]]—n’est-ce pas? Ah! a smile answers.
+[[Well]], [[Well|well]]! one should not be too harsh; ‘la jeunesse n’a qu’un
 temps.’”
 
 “Monsieur, Monsieur!” I cried, or rather whispered after him, as he
@@ -66,11 +66,11 @@ Mademoiselle!”
 read the billet’s tenor in your eyes.”
 
 When he was gone, the pupils having already poured out of the
-schoolroom into the berceau, and thence into the garden and court to
-take their customary recreation before the five-o’clock dinner, I stood
+schoolroom into the berceau, and thence into the [[Garden|garden]] and [[Court|court]] to
+take their customary recreation before the five-o’[[Clock|clock]] dinner, I stood
 a moment thinking, and absently twisting the handkerchief round my arm.
 For some reason—gladdened, I think, by a sudden return of the golden
-glimmer of childhood, roused by an unwonted renewal of its buoyancy,
+glimmer of [[Childhood|childhood]], roused by an unwonted renewal of its buoyancy,
 made merry by the liberty of the closing hour, and, above all, solaced
 at heart by the joyous consciousness of that treasure in the case, box,
 drawer up-stairs,—I fell to playing with the handkerchief as if it were

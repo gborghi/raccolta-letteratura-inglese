@@ -32,7 +32,7 @@ Carker might be looking down. “Softly.”
 “Why, he ain’t here!” cried Mrs Brown.
 
 “I don’t know that,” muttered Rob, whose glance even wandered to the
-church tower, as if he might be there, with a supernatural power of
+church tower, as if he might be there, with a [[Supernatural|supernatural]] power of
 hearing.
 
 “Good master?” inquired Mrs Brown.
@@ -41,7 +41,7 @@ Rob nodded; and added, in a low voice, “precious sharp.”
 
 “Lives out of town, don’t he, lovey?” said the old woman.
 
-“When he’s at home,” returned Rob; “but we don’t live at home just
+“When he’s at [[Home|home]],” returned Rob; “but we don’t live at [[Home|home]] just
 now.”
 
 “Where then?” asked the old woman.
@@ -57,7 +57,7 @@ Rob to Mrs Brown. “You used to get me to talk about him.”
 
 The old woman nodded.
 
-“Well, Mr Dombey, he’s had a fall from his horse,” said Rob,
+“[[Well]], Mr Dombey, he’s had a fall from his [[Horse|horse]],” said Rob,
 unwillingly; “and my master has to be up there, more than usual, either
 with him, or Mrs Dombey, or some of ’em; and so we’ve come to town.”
 
@@ -77,7 +77,7 @@ curious you are, Misses Brown! Least said, soonest mended.”
 
 “Why there’s no harm in it!” exclaimed the old woman, with a laugh, and
 a clap of her hands. “Sprightly Rob, has grown tame since he has been
-well off! There’s no harm in it.”
+[[Well|well]] off! There’s no harm in it.”
 
 “No, there’s no harm in it, I know,” returned Rob, with the same
 distrustful glance at the packer’s and the bottle-maker’s, and the
@@ -111,7 +111,7 @@ ever come and see me?”
 
 “Yes, I tell you! Yes, I will!” returned the Grinder.
 
-“That’s my own Rob! That’s my lovey!” said Mrs Brown, drying the tears
+“That’s my own Rob! That’s my lovey!” said Mrs Brown, drying the [[Tears|tears]]
 upon her shrivelled face, and giving him a tender squeeze. “At the old
 place, Rob?”
 
@@ -119,7 +119,7 @@ place, Rob?”
 
 “Soon, Robby dear?” cried Mrs Brown; “and often?”
 
-“Yes. Yes. Yes,” replied Rob. “I will indeed, upon my soul and body.”
+“Yes. Yes. Yes,” replied Rob. “I will indeed, upon my [[Soul|soul]] and [[Body|body]].”
 
 “And then,” said Mrs Brown, with her arms uplifted towards the sky, and
 her head thrown back and shaking, “if he’s true to his word, I’ll never
@@ -127,7 +127,7 @@ come a-near him though I know where he is, and never breathe a syllable
 about him! Never!”
 
 This ejaculation seemed a drop of comfort to the miserable Grinder, who
-shook Mrs Brown by the hand upon it, and implored her with tears in his
+shook Mrs Brown by the hand upon it, and implored her with [[Tears|tears]] in his
 eyes, to leave a cove and not destroy his prospects. Mrs Brown, with
 another fond embrace, assented; but in the act of following her
 daughter, turned back, with her finger stealthily raised, and asked in
@@ -150,7 +150,7 @@ astonished and dismayed Rob staring after them, saw that they stopped,
 and fell to earnest conversation very soon; and more than once observed
 a darkly threatening action of the younger woman’s hand (obviously
 having reference to someone of whom they spoke), and a crooning feeble
-imitation of it on the part of Mrs Brown, that made him earnestly hope
+[[Imitation|imitation]] of it on the part of Mrs Brown, that made him earnestly [[Hope|hope]]
 he might not be the subject of their discourse.
 
 With the present consolation that they were gone, and with the
@@ -159,6 +159,6 @@ likely to live long to trouble him, the Grinder, not otherwise
 regretting his misdeeds than as they were attended with such
 disagreeable incidental consequences, composed his ruffled features to
 a more serene expression by thinking of the admirable manner in which
-he had disposed of Captain Cuttle (a reflection that seldom failed to
-put him in a flow of spirits), and went to the Dombey Counting House to
+he had disposed of [[Captain Cuttle]] (a reflection that seldom failed to
+put him in a flow of spirits), and went to the Dombey Counting [[house|House]] to
 receive his master’s orders.

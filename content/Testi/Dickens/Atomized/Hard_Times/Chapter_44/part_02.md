@@ -52,13 +52,13 @@ receive it.  Do you know much of him?’
 
 ‘I never saw the man in my life.’
 
-‘I doubt if you ever _will_ see him now.  It’s pretty plain to me, he’s
+‘I [[Doubt|doubt]] if you ever _will_ see him now.  It’s pretty plain to me, he’s
 off.’
 
 ‘Do you mean that he has deserted his daughter?’
 
 ‘Ay!  I mean,’ said Mr. Childers, with a nod, ‘that he has cut.  He was
-goosed last night, he was goosed the night before last, he was goosed
+goosed last [[Night|night]], he was goosed the [[Night|night]] before last, he was goosed
 to-day.  He has lately got in the way of being always goosed, and he
 can’t stand it.’
 
@@ -87,14 +87,14 @@ astonished to hear it, but my mother—ran away from _me_.’
 E. W. B. Childers replied pointedly, that he was not at all astonished to
 hear it.
 
-‘Very well,’ said Bounderby.  ‘I was born in a ditch, and my mother ran
+‘Very [[Well|well]],’ said Bounderby.  ‘I was born in a ditch, and my mother ran
 away from me.  Do I excuse her for it?  No.  Have I ever excused her for
 it?  Not I.  What do I call her for it?  I call her probably the very
 worst woman that ever lived in the world, except my drunken grandmother.
-There’s no family pride about me, there’s no imaginative sentimental
+There’s no family [[Pride|pride]] about me, there’s no imaginative sentimental
 humbug about me.  I call a spade a spade; and I call the mother of Josiah
-Bounderby of Coketown, without any fear or any favour, what I should call
-her if she had been the mother of Dick Jones of Wapping.  So, with this
+Bounderby of Coketown, without any [[Fear|fear]] or any favour, what I should call
+her if she had been the mother of Dick [[Jones]] of Wapping.  So, with this
 man.  He is a runaway rogue and a vagabond, that’s what he is, in
 English.’
 
@@ -123,7 +123,7 @@ but he has cut away and left her.’
 ‘Pray,’ said Mr. Gradgrind, ‘why will she never believe it of him?’
 
 ‘Because those two were one.  Because they were never asunder.  Because,
-up to this time, he seemed to dote upon her,’ said Childers, taking a
+up to this [[Time|time]], he seemed to dote upon her,’ said Childers, taking a
 step or two to look into the empty trunk.  Both Mr. Childers and Master
 Kidderminster walked in a curious manner; with their legs wider apart
 than the general run of men, and with a very knowing assumption of being
@@ -133,7 +133,7 @@ horseback.
 
 ‘Poor Sissy!  He had better have apprenticed her,’ said Childers, giving
 his hair another shake, as he looked up from the empty box.  ‘Now, he
-leaves her without anything to take to.’
+[[Leaves|leaves]] her without anything to take to.’
 
 ‘It is creditable to you, who have never been apprenticed, to express
 that opinion,’ returned Mr. Gradgrind, approvingly.
@@ -149,7 +149,7 @@ Harry!  Nor I!’
 
 ‘Her father always had it in his head,’ resumed Childers, feigning
 unconsciousness of Mr. Bounderby’s existence, ‘that she was to be taught
-the deuce-and-all of education.  How it got into his head, I can’t say; I
+the deuce-and-all of [[Education|education]].  How it got into his head, I can’t say; I
 can only say that it never got out.  He has been picking up a bit of
 reading for her, here—and a bit of writing for her, there—and a bit of
 ciphering for her, somewhere else—these seven years.’

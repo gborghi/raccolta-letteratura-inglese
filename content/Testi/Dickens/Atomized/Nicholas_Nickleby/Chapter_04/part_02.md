@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 4 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 ‘At Midsummer,’ muttered Mr. Squeers, resuming his complaint, ‘I took
 down ten boys; ten twenties is two hundred pound. I go back at eight
-o’clock tomorrow morning, and have got only three--three oughts is an
+o’[[Clock|clock]] tomorrow morning, and have got only three--three oughts is an
 ought--three twos is six--sixty pound. What’s come of all the boys?
 what’s parents got in their heads? what does it all mean?’
 
@@ -51,22 +51,22 @@ the Beggar’s Petition in printed calico.
 
 As this admonition was accompanied with a threatening gesture, and
 uttered with a savage aspect, the little boy rubbed his face harder, as
-if to keep the tears back; and, beyond alternately sniffing and choking,
+if to keep the [[Tears|tears]] back; and, beyond alternately sniffing and choking,
 gave no further vent to his emotions.
 
 ‘Mr. Squeers,’ said the waiter, looking in at this juncture; ‘here’s a
 gentleman asking for you at the bar.’
 
-‘Show the gentleman in, Richard,’ replied Mr. Squeers, in a soft voice.
+‘Show the gentleman in, [[Richard]],’ replied Mr. Squeers, in a soft voice.
 ‘Put your handkerchief in your pocket, you little scoundrel, or I’ll
 murder you when the gentleman goes.’
 
 The schoolmaster had scarcely uttered these words in a fierce whisper,
 when the stranger entered. Affecting not to see him, Mr. Squeers feigned
-to be intent upon mending a pen, and offering benevolent advice to his
+to be intent upon [[mending]] a pen, and offering benevolent advice to his
 youthful pupil.
 
-‘My dear child,’ said Mr. Squeers, ‘all people have their trials. This
+‘My dear [[Child|child]],’ said Mr. Squeers, ‘all people have their trials. This
 early trial of yours that is fit to make your little heart burst, and
 your very eyes come out of your head with crying, what is it? Nothing;
 less than nothing. You are leaving your friends, but you will have a
@@ -113,7 +113,7 @@ Squeers?’
 
 ‘I don’t think it could be done, sir,’ replied Squeers, as if he had
 never considered the proposition before. ‘Let me see; four fives is
-twenty, double that, and deduct the--well, a pound either way shall not
+twenty, [[Double|double]] that, and deduct the--[[Well|well]], a pound either way shall not
 stand betwixt us. You must recommend me to your connection, sir, and
 make it up that way.’
 
@@ -125,7 +125,7 @@ did not.
 
 ‘Every wholesome luxury, sir, that Yorkshire can afford,’ continued
 Squeers; ‘every beautiful moral that Mrs. Squeers can instil; every--in
-short, every comfort of a home that a boy could wish for, will be
+short, every comfort of a [[Home|home]] that a boy could wish for, will be
 theirs, Mr. Snawley.’
 
 ‘I should wish their morals to be particularly attended to,’ said Mr
@@ -141,9 +141,9 @@ Snawley.
 ‘I have the satisfaction to know you are, sir,’ said Mr. Snawley. ‘I
 asked one of your references, and he said you were pious.’
 
-‘Well, sir, I hope I am a little in that line,’ replied Squeers.
+‘[[Well]], sir, I [[Hope|hope]] I am a little in that line,’ replied Squeers.
 
-‘I hope I am also,’ rejoined the other. ‘Could I say a few words with
+‘I [[Hope|hope]] I am also,’ rejoined the other. ‘Could I say a few words with
 you in the next box?’
 
 ‘By all means,’ rejoined Squeers with a grin. ‘My dears, will you speak

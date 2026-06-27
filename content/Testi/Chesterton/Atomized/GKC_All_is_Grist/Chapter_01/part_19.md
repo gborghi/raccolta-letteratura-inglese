@@ -20,34 +20,34 @@ or at least to point somewhere; to its end, not only in the modern
 sense of an ending, but in the medieval sense of a fruition.
 Now, I think that many of the less intellectual stories have
 kept this, where the more intellectual stories have lost it.
-The writer of detective stories, having once asked who killed
+The writer of [[Detective|detective]] stories, having once asked who killed
 Humphrey Higgleswick, must, after all, end by telling us who did it,
 even by the mean subterfuge of saying it was Humphrey Higgleswick.
 But the serious novelist asks a question that he does not answer;
 often that he is really incompetent to answer.  The sex of Samuel Stubbin
-may even remain in considerable doubt, in some of the more
+may even remain in considerable [[Doubt|doubt]], in some of the more
 emotional passages, and the seventh honeymoon of Sylphide seems
 to have nothing to do with the probable prospect of her eighth.
 It is the custom of these writers to scoff at the old sentimental
-novel or novelette, in which the story always ended happily to
-the sound of church bells.  But, judged by the highest standards
+[[Novel|novel]] or novelette, in which the story always ended happily to
+the sound of church [[Bells|bells]].  But, judged by the highest standards
 of heroic or great literature, like the Greek tragedies or the
-great epics, the novelette was really far superior to the novel.
-It set itself to reach a certain goal--the marriage of two persons,
+great epics, the novelette was really far superior to the [[Novel|novel]].
+It set itself to reach a certain goal--the [[Marriage|marriage]] of two persons,
 with all its really vital culmination in the founding of a family
 and a vow to God; and all other incidents were interesting because
 they pointed to a consummation which was, by legitimate hypothesis,
 a grand consummation.
 
-But the modern refusal both of the religious vow and the romantic hope
+But the modern refusal both of the religious vow and the romantic [[Hope|hope]]
 has broken the backbone of the business altogether, and it is only an
 assorted bag of bones.  People are minutely described as experiencing
 one idiotic passion after another, passions which they themselves
-recognize as idiotic, and which even their own wretched philosophy
+recognize as idiotic, and which even their own wretched [[philosophy]]
 forbids them to regard as steps towards any end.  The sentimental
 novelette was a simplified and limited convention of the thing;
-in which, for the sake of argument, marriage was made the prize.
-Of course marriage is not the only thing that happens in life;
+in which, for the sake of argument, [[Marriage|marriage]] was made the prize.
+Of course [[Marriage|marriage]] is not the only thing that happens in life;
 and somebody else may study another section with another goal.
 But the modern serious novelists deny that there is any goal.
 They can not point to the human happiness which the romantics
@@ -61,10 +61,10 @@ In short, the old literature, both great and trivial, was built on
 the idea that there is a purpose in life, even if it is not always
 completed in this life; and it really was interesting to follow
 the stages of such a purpose from the meeting to the wedding,
-from the wedding to the bells, and from the bells to the church.
-But modern philosophy has taken the life out of modern fiction.
+from the wedding to [[The Bells|the bells]], and from [[The Bells|the bells]] to the church.
+But modern [[philosophy]] has taken the life out of modern fiction.
 It is simply dissolving into separate fragments and then
-into formlessness; and deserves much more than the romantic novel
+into formlessness; and deserves much more than the romantic [[Novel|novel]]
 the modern reproach of being `sloppy'.
 
 XVII.  On Logic and Lunacy
@@ -74,22 +74,22 @@ philosophical history, that even those who invoke it do so rather
 as the Athenians once invoked the Unknown God, or the men of
 the Dark Ages retained a dim respect for Virgil as a conjurer.
 The very people who say, `be logical', will generally be found to be
-quite illogical in their own notion of logic.  One of the last men
-who understood logic in its full and impartial sense, died only lately:
-the late William Johnson of King's College, Cambridge; one of
+quite illogical in their own notion of [[logic]].  One of the last men
+who understood [[logic]] in its full and impartial sense, died only lately:
+the late William Johnson of [[King]]'s College, Cambridge; one of
 the finest minds of the age and an exact measure of the modern
 contrast between notability and notoriety.  I mean that somehow
-the glory has departed from glory, and the first men of the time
+the glory has departed from glory, and the first men of the [[Time|time]]
 are often the last men to be advertised or even adequately admired.
 He was as incapable of intellectual injustice as of infanticide;
 and while he and I differed about a thousand things, even if I had
 regarded his view as ultimately leading to falsehood, I should always
 have known that it was free from the faintest tinge of fallacy.
-If there had been any weed of weak logic in his own argument he would
-have torn it up with as much joy as any weed in the garden of the enemy.
+If there had been any weed of weak [[logic]] in his own argument he would
+have torn it up with as much joy as any weed in the [[Garden|garden]] of the enemy.
 For he liked that sort of weeding as an amusement and an art--
 a sort of art for art's sake.  And when I wander in the jungle
-of journalistic nonsense in which we all live to-day, his memory
+of journalistic nonsense in which we all live to-day, his [[Memory|memory]]
 again and again returns.
 
 Let us begin with a trifle that does not matter in the least.
@@ -105,16 +105,16 @@ whether she smokes a cigarette or a cigar or a corn-cob pipe
 or a hubble-bubble, or whether she smokes three cigars at once,
 or whether she is an Anti-Tobacco crank.  But it is none the less
 true that when a man writes that sentence telling us to `be logical',
-he shows that he has never even heard of the nature of logic.
-He might just as well write:  `You like the look of a horse;
+he shows that he has never even heard of the [[Nature|nature]] of [[logic]].
+He might just as [[Well|well]] write:  `You like the look of a horse;
 why won't you be logical and like the look of a hippopotamus?'
-The only answer is, `Well, I don't; and it is not illogical,
-because it does not in any way invade the realm of logic.
+The only answer is, `[[Well]], I don't; and it is not illogical,
+because it does not in any way invade the realm of [[logic]].
 A man has a perfect right to say that he likes the look of one thing
 and does not like the look of another thing; or even that he likes
 the look of a smaller thing, but does not like the look of a larger
 but somewhat similar thing.  It is all a question of liking;
-and not in the least a question of logic.  There is no logical
+and not in the least a question of [[logic]].  There is no logical
 compulsion upon him whatever to go on from the smaller to the larger
 and like them both.  The man who uses this phrase attaches some queer
 particular meaning to the word `logical'; something that is dimly

@@ -15,7 +15,7 @@ tags:
 
 
 Mrs. Tibbs inquired after Mrs. Bloss’s health in a low tone. Mrs.
-Bloss, with a supreme contempt for the memory of Lindley Murray,
+Bloss, with a supreme contempt for the [[Memory|memory]] of Lindley Murray,
 answered the various questions in a most satisfactory manner; and a
 pause ensued, during which the eatables disappeared with awful
 rapidity.
@@ -35,7 +35,7 @@ Tibbs, hoping to start a topic.
 ‘Oh, infinitely superior!’
 
 ‘Gad! I don’t know,’ said the aristocratic Wisbottle, ‘the Dowager
-Marchioness of Publiccash was most magnificently dressed, and so was
+[[Marchioness]] of Publiccash was most magnificently dressed, and so was
 the Baron Slappenbachenhausen.’
 
 ‘What was he presented on?’ inquired Evenson.
@@ -48,7 +48,7 @@ being presented on their going away again. They know better than that.’
 ‘Unless somebody pervades them with an apintment,’ said Mrs. Bloss,
 joining in the conversation in a faint voice.
 
-‘Well,’ said Wisbottle, evading the point, ‘it’s a splendid sight.’
+‘[[Well]],’ said Wisbottle, evading the point, ‘it’s a splendid sight.’
 
 ‘And did it never occur to you,’ inquired the radical, who never would
 be quiet; ‘did it never occur to you, that you pay for these precious
@@ -58,7 +58,7 @@ ornaments of society?’
 answer was a poser; ‘it _has_ occurred to me, and I am willing to pay
 for them.’
 
-‘Well, and it has occurred to me too,’ replied John Evenson, ‘and I
+‘[[Well]], and it has occurred to me too,’ replied John Evenson, ‘and I
 ain’t willing to pay for ’em. Then why should I?—I say, why should I?’
 continued the politician, laying down the paper, and knocking his
 knuckles on the table. ‘There are two great principles—demand—’
@@ -77,8 +77,8 @@ resumed the paper.
 general, ‘I shall ride down to Richmond to-day, and come back by the
 steamer. There are some splendid effects of light and shade on the
 Thames; the contrast between the blueness of the sky and the yellow
-water is frequently exceedingly beautiful.’ Mr. Wisbottle hummed, ‘Flow
-on, thou shining river.’
+[[Water|water]] is frequently exceedingly beautiful.’ Mr. Wisbottle hummed, ‘Flow
+on, thou shining [[River|river]].’
 
 ‘We have some splendid steam-vessels in Ireland,’ said O’Bleary.
 
@@ -99,10 +99,10 @@ pun; and Tomkins laughed too, and said he had not.
 
 The remainder of the meal passed off as breakfasts usually do.
 Conversation flagged, and people played with their teaspoons. The
-gentlemen looked out at the window; walked about the room; and, when
+gentlemen looked out at the [[Window|window]]; walked about the room; and, when
 they got near the door, dropped off one by one. Tibbs retired to the
-back parlour by his wife’s orders, to check the green-grocer’s weekly
-account; and ultimately Mrs. Tibbs and Mrs. Bloss were left alone
+back parlour by his wife’s orders, to check the green-[[grocer]]’s weekly
+account; and ultimately Mrs. Tibbs and Mrs. Bloss were left [[Alone|alone]]
 together.
 
 ‘Oh dear!’ said the latter, ‘I feel alarmingly faint; it’s very
@@ -120,11 +120,11 @@ weeks together.’
 
 ‘I haven’t seen or heard nothing of him,’ repeated Mrs. Bloss.
 
-‘I dare say you’ll hear him to-night,’ replied Mrs. Tibbs; ‘he
-generally groans a good deal on Sunday evenings.’
+‘I dare say you’ll hear him to-[[Night|night]],’ replied Mrs. Tibbs; ‘he
+generally groans a good deal on [[Sunday]] evenings.’
 
 ‘I never felt such an interest in any one in my life,’ ejaculated Mrs.
-Bloss. A little double-knock interrupted the conversation; Dr. Wosky
+Bloss. A little [[Double|double]]-knock interrupted the conversation; Dr. Wosky
 was announced, and duly shown in. He was a little man with a red
 face—dressed of course in black, with a stiff white neckerchief. He had
 a very good practice, and plenty of money, which he had amassed by
@@ -132,7 +132,7 @@ invariably humouring the worst fancies of all the females of all the
 families he had ever been introduced into. Mrs. Tibbs offered to
 retire, but was entreated to stay.
 
-‘Well, my dear ma’am, and how are we?’ inquired Wosky, in a soothing
+‘[[Well]], my dear ma’am, and how are we?’ inquired Wosky, in a soothing
 tone.
 
 ‘Very ill, doctor—very ill,’ said Mrs. Bloss, in a whisper
@@ -145,8 +145,8 @@ obsequious Wosky, as he felt the pulse of his interesting patient.
 Mrs. Bloss shook her head.
 
 ‘Our friend requires great care,’ said Wosky, appealing to Mrs. Tibbs,
-who of course assented. ‘I hope, however, with the blessing of
-Providence, that we shall be enabled to make her quite stout again.’
+who of course assented. ‘I [[Hope|hope]], however, with the blessing of
+[[Providence]], that we shall be enabled to make her quite stout again.’
 Mrs. Tibbs wondered in her own mind what the patient would be when she
 was made quite stout.
 
@@ -170,8 +170,8 @@ detailed account of the domestic economy of the establishment. We will
 therefore proceed to events, merely premising that the mysterious
 tenant of the back drawing-room was a lazy, selfish hypochondriac;
 always complaining and never ill. As his character in many respects
-closely assimilated to that of Mrs. Bloss, a very warm friendship soon
+closely assimilated to that of Mrs. Bloss, a very warm [[Friendship|friendship]] soon
 sprung up between them. He was tall, thin, and pale; he always fancied
-he had a severe pain somewhere or other, and his face invariably wore a
+he had a severe [[Pain|pain]] somewhere or other, and his face invariably wore a
 pinched, screwed-up expression; he looked, indeed, like a man who had
-got his feet in a tub of exceedingly hot water, against his will.
+got his feet in a tub of exceedingly hot [[Water|water]], against his will.

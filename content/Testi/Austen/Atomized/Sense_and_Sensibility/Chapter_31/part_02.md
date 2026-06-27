@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 31 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 31 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-injustice and error; for Colonel Brandon _did_ come in; and Elinor, who
+injustice and error; for [[Colonel Brandon]] _did_ come in; and Elinor, who
 
 was convinced that solicitude for Marianne brought him thither, and who
 
-saw _that_ solicitude in his disturbed and melancholy look, and in his
+saw _that_ solicitude in his disturbed and [[Melancholy|melancholy]] look, and in his
 
 anxious though brief inquiry after her, could not forgive her sister
 
@@ -32,9 +32,9 @@ salutation, “and she encouraged me to come on; and I was the more
 
 easily encouraged, because I thought it probable that I might find you
 
-alone, which I was very desirous of doing. My object—my wish—my sole
+[[Alone|alone]], which I was very desirous of doing. My object—my wish—my sole
 
-wish in desiring it—I hope, I believe it is—is to be a means of giving
+wish in desiring it—I [[Hope|hope]], I believe it is—is to be a means of giving
 
 comfort;—no, I must not say comfort—not present comfort—but conviction,
 
@@ -44,11 +44,11 @@ yourself, for your mother—will you allow me to prove it, by relating
 
 some circumstances which nothing but a _very_ sincere regard—nothing
 
-but an earnest desire of being useful—I think I am justified—though
+but an earnest [[Desire|desire]] of being useful—I think I am justified—though
 
 where so many hours have been spent in convincing myself that I am
 
-right, is there not some reason to fear I may be wrong?” He stopped.
+right, is there not some reason to [[Fear|fear]] I may be wrong?” He stopped.
 
 
 
@@ -56,11 +56,11 @@ right, is there not some reason to fear I may be wrong?” He stopped.
 
 Willoughby, that will open his character farther. Your telling it will
 
-be the greatest act of friendship that can be shown Marianne. _My_
+be the greatest act of [[Friendship|friendship]] that can be shown Marianne. _My_
 
 gratitude will be insured immediately by any information tending to
 
-that end, and _hers_ must be gained by it in time. Pray, pray let me
+that end, and _hers_ must be gained by it in [[Time|time]]. Pray, pray let me
 
 hear it.”
 
@@ -76,7 +76,7 @@ short account of myself, I believe, will be necessary, and it _shall_
 
 be a short one. On such a subject,” sighing heavily, “can I have little
 
-temptation to be diffuse.”
+[[Temptation|temptation]] to be diffuse.”
 
 
 
@@ -90,7 +90,7 @@ on.
 
 supposed that it could make any impression on you)—a conversation
 
-between us one evening at Barton Park—it was the evening of a dance—in
+between us one evening at Barton Park—it was the evening of a [[Dance|dance]]—in
 
 which I alluded to a lady I had once known, as resembling, in some
 
@@ -106,17 +106,17 @@ pleased by this remembrance, and added,
 
 “If I am not deceived by the uncertainty, the partiality of tender
 
-recollection, there is a very strong resemblance between them, as well
+recollection, there is a very strong resemblance between them, as [[Well|well]]
 
 in mind as person. The same warmth of heart, the same eagerness of
 
-fancy and spirits. This lady was one of my nearest relations, an orphan
+fancy and spirits. This lady was one of my nearest relations, an [[Orphan|orphan]]
 
 from her infancy, and under the guardianship of my father. Our ages
 
 were nearly the same, and from our earliest years we were playfellows
 
-and friends. I cannot remember the time when I did not love Eliza; and
+and friends. I cannot remember the [[Time|time]] when I did not [[Love|love]] Eliza; and
 
 my affection for her, as we grew up, was such, as perhaps, judging from
 
@@ -132,13 +132,13 @@ for ever. She was married—married against her inclination to my
 
 brother. Her fortune was large, and our family estate much encumbered.
 
-And this, I fear, is all that can be said for the conduct of one, who
+And this, I [[Fear|fear]], is all that can be said for the conduct of one, who
 
 was at once her uncle and guardian. My brother did not deserve her; he
 
-did not even love her. I had hoped that her regard for me would support
+did not even [[Love|love]] her. I had hoped that her regard for me would support
 
-her under any difficulty, and for some time it did; but at last the
+her under any difficulty, and for some [[Time|time]] it did; but at last the
 
 misery of her situation, for she experienced great unkindness, overcame
 
@@ -150,13 +150,13 @@ were within a few hours of eloping together for Scotland. The
 
 treachery, or the folly, of my cousin’s maid betrayed us. I was
 
-banished to the house of a relation far distant, and she was allowed no
+banished to the [[house]] of a relation far distant, and she was allowed no
 
 liberty, no society, no amusement, till my father’s point was gained. I
 
 had depended on her fortitude too far, and the blow was a severe
 
-one—but had her marriage been happy, so young as I then was, a few
+one—but had her [[Marriage|marriage]] been happy, so young as I then was, a few
 
 months must have reconciled me to it, or at least I should not have now
 
@@ -172,25 +172,25 @@ natural. She resigned herself at first to all the misery of her
 
 situation; and happy had it been if she had not lived to overcome those
 
-regrets which the remembrance of me occasioned. But can we wonder that,
+regrets which the remembrance of me occasioned. But can we [[Wonder|wonder]] that,
 
 with such a husband to provoke inconstancy, and without a friend to
 
 advise or restrain her (for my father lived only a few months after
 
-their marriage, and I was with my regiment in the East Indies) she
+their [[Marriage|marriage]], and I was with my regiment in the East Indies) she
 
 should fall? Had I remained in England, perhaps—but I meant to promote
 
 the happiness of both by removing from her for years, and for that
 
-purpose had procured my exchange. The shock which her marriage had
+purpose had procured my exchange. The shock which her [[Marriage|marriage]] had
 
 given me,” he continued, in a voice of great agitation, “was of
 
 trifling weight—was nothing to what I felt when I heard, about two
 
-years afterwards, of her divorce. It was _that_ which threw this
+years afterwards, of her [[divorce]]. It was _that_ which threw this
 
 gloom,—even now the recollection of what I suffered—”
 

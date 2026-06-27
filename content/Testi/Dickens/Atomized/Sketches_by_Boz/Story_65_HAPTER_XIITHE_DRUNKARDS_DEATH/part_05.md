@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 5)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -43,8 +43,8 @@ Honourable sex, were never contained in any previously published work,
 in twelvemo or any other mo.
 
 That in the title page and preface to the said work, your Honourable
-sex are described and classified as animals; and although your
-Dedicator is not at present prepared to deny that you _are_ animals,
+sex are described and classified as [[Animals|animals]]; and although your
+Dedicator is not at present prepared to deny that you _are_ [[Animals|animals]],
 still he humbly submits that it is not polite to call you so.
 
 That in the aforesaid preface, your Honourable sex are also described
@@ -73,12 +73,12 @@ acceptance and approval.
 
 That as the Young Ladies are the best companions of the Young
 Gentlemen, so the Young Gentlemen should be the best companions of the
-Young Ladies; and extending the comparison from animals (to quote the
+Young Ladies; and extending the comparison from [[Animals|animals]] (to quote the
 disrespectful language of the said Quiz) to inanimate objects, your
 Dedicator humbly suggests, that such of your Honourable sex as
 purchased the bane should possess themselves of the antidote, and that
 those of your Honourable sex who were not rash enough to take the
-first, should lose no time in swallowing the last,—prevention being in
+first, should lose no [[Time|time]] in swallowing the last,—prevention being in
 all cases better than cure, as we are informed upon the authority, not
 only of general acknowledgment, but also of traditionary wisdom.
 
@@ -114,7 +114,7 @@ There was nothing in these symptoms to attract more than a passing
 remark, but our attention had been originally drawn to the bashful
 young gentleman, on his first appearance in the drawing-room
 above-stairs, into which he was no sooner introduced, than making his
-way towards us who were standing in a window, and wholly neglecting
+way towards us who were standing in a [[Window|window]], and wholly neglecting
 several persons who warmly accosted him, he seized our hand with
 visible emotion, and pressed it with a convulsive grasp for a good
 couple of minutes, after which he dived in a nervous manner across the
@@ -147,5 +147,5 @@ it, knocked it with great adroitness into a tureen of white soup at
 some distance, to the unspeakable terror and disturbance of a very
 amiable bald gentleman, who was dispensing the contents. We thought the
 bashful young gentleman would have gone off in an apoplectic fit,
-consequent upon the violent rush of blood to his face at the occurrence
+consequent upon the violent rush of [[Blood|blood]] to his face at the occurrence
 of this catastrophe.

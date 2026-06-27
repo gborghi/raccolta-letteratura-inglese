@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE PROLOGUE OF THE TREE"
+title: "[[FourFaultlessFelons]] — THE PROLOGUE OF THE TREE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

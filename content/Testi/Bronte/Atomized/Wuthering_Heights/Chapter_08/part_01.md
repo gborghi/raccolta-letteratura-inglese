@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 8 (part 1)"
+title: "[[Wuthering Heights]] — Chapter 8 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -26,9 +26,9 @@ lane, calling me as she ran.
 “Oh, such a grand bairn!” she panted out. “The finest lad that ever
 breathed! But the doctor says missis must go: he says she’s been in a
 consumption these many months. I heard him tell Mr. Hindley: and now
-she has nothing to keep her, and she’ll be dead before winter. You must
-come home directly. You’re to nurse it, Nelly: to feed it with sugar
-and milk, and take care of it day and night. I wish I were you, because
+she has nothing to keep her, and she’ll be dead before [[Winter|winter]]. You must
+come [[Home|home]] directly. You’re to [[Nurse|nurse]] it, Nelly: to feed it with sugar
+and milk, and take care of it day and [[Night|night]]. I wish I were you, because
 it will be all yours when there is no missis!”
 
 “But is she very ill?” I asked, flinging down my rake and tying my
@@ -36,14 +36,14 @@ bonnet.
 
 “I guess she is; yet she looks bravely,” replied the girl, “and she
 talks as if she thought of living to see it grow a man. She’s out of
-her head for joy, it’s such a beauty! If I were her I’m certain I
+her head for joy, it’s such a [[Beauty|beauty]]! If I were her I’m certain I
 should not die: I should get better at the bare sight of it, in spite
 of Kenneth. I was fairly mad at him. Dame Archer brought the cherub
-down to master, in the house, and his face just began to light up, when
+down to master, in the [[house]], and his face just began to light up, when
 the old croaker steps forward, and says he—‘Earnshaw, it’s a blessing
 your wife has been spared to leave you this son. When she came, I felt
 convinced we shouldn’t keep her long; and now, I must tell you, the
-winter will probably finish her. Don’t take on, and fret about it too
+[[Winter|winter]] will probably finish her. Don’t take on, and fret about it too
 much: it can’t be helped. And besides, you should have known better
 than to choose such a rush of a lass!’”
 
@@ -51,12 +51,12 @@ than to choose such a rush of a lass!’”
 
 “I think he swore: but I didn’t mind him, I was straining to see the
 bairn,” and she began again to describe it rapturously. I, as zealous
-as herself, hurried eagerly home to admire, on my part; though I was
+as herself, hurried eagerly [[Home|home]] to admire, on my part; though I was
 very sad for Hindley’s sake. He had room in his heart only for two
 idols—his wife and himself: he doted on both, and adored one, and I
 couldn’t conceive how he would bear the loss.
 
-When we got to Wuthering Heights, there he stood at the front door;
+When we got to [[Wuthering Heights]], there he stood at the front door;
 and, as I passed in, I asked, “how was the baby?”
 
 “Nearly ready to run about, Nell!” he replied, putting on a cheerful
@@ -65,32 +65,32 @@ smile.
 “And the mistress?” I ventured to inquire; “the doctor says she’s—”
 
 “Damn the doctor!” he interrupted, reddening. “Frances is quite right:
-she’ll be perfectly well by this time next week. Are you going
+she’ll be perfectly [[Well|well]] by this [[Time|time]] next week. Are you going
 upstairs? will you tell her that I’ll come, if she’ll promise not to
 talk. I left her because she would not hold her tongue; and she
 must—tell her Mr. Kenneth says she must be quiet.”
 
 I delivered this message to Mrs. Earnshaw; she seemed in flighty
 spirits, and replied merrily, “I hardly spoke a word, Ellen, and there
-he has gone out twice, crying. Well, say I promise I won’t speak: but
+he has gone out twice, crying. [[Well]], say I promise I won’t speak: but
 that does not bind me not to laugh at him!”
 
-Poor soul! Till within a week of her death that gay heart never failed
+Poor [[Soul|soul]]! Till within a week of her [[Death|death]] that gay heart never failed
 her; and her husband persisted doggedly, nay, furiously, in affirming
 her health improved every day. When Kenneth warned him that his
 medicines were useless at that stage of the malady, and he needn’t put
 him to further expense by attending her, he retorted, “I know you need
-not—she’s well—she does not want any more attendance from you! She
+not—she’s [[Well|well]]—she does not want any more attendance from you! She
 never was in a consumption. It was a fever; and it is gone: her pulse
 is as slow as mine now, and her cheek as cool.”
 
 He told his wife the same story, and she seemed to believe him; but one
-night, while leaning on his shoulder, in the act of saying she thought
+[[Night|night]], while leaning on his shoulder, in the act of saying she thought
 she should be able to get up to-morrow, a fit of coughing took her—a
 very slight one—he raised her in his arms; she put her two hands about
 his neck, her face changed, and she was dead.
 
-As the girl had anticipated, the child Hareton fell wholly into my
+As the girl had anticipated, the [[Child|child]] Hareton fell wholly into my
 hands. Mr. Earnshaw, provided he saw him healthy and never heard him
 cry, was contented, as far as regarded him. For himself, he grew
 desperate: his sorrow was of that kind that will not lament. He neither
@@ -99,24 +99,24 @@ himself up to reckless dissipation. The servants could not bear his
 tyrannical and evil conduct long: Joseph and I were the only two that
 would stay. I had not the heart to leave my charge; and besides, you
 know, I had been his foster-sister, and excused his behaviour more
-readily than a stranger would. Joseph remained to hector over tenants
+readily than a stranger would. Joseph remained to [[Hector|hector]] over tenants
 and labourers; and because it was his vocation to be where he had
 plenty of wickedness to reprove.
 
 The master’s bad ways and bad companions formed a pretty example for
-Catherine and Heathcliff. His treatment of the latter was enough to
+Catherine and [[Heathcliff]]. His treatment of the latter was enough to
 make a fiend of a saint. And, truly, it appeared as if the lad _were_
 possessed of something diabolical at that period. He delighted to
 witness Hindley degrading himself past redemption; and became daily
 more notable for savage sullenness and ferocity. I could not half tell
-what an infernal house we had. The curate dropped calling, and nobody
-decent came near us, at last; unless Edgar Linton’s visits to Miss
-Cathy might be an exception. At fifteen she was the queen of the
+what an infernal [[house]] we had. The curate dropped calling, and nobody
+decent came near us, at last; unless [[Edgar Linton]]’s visits to Miss
+Cathy might be an exception. At fifteen she was the [[Queen|queen]] of the
 country-side; she had no peer; and she did turn out a haughty,
 headstrong creature! I own I did not like her, after infancy was past;
 and I vexed her frequently by trying to bring down her arrogance: she
 never took an aversion to me, though. She had a wondrous constancy to
-old attachments: even Heathcliff kept his hold on her affections
+old attachments: even [[Heathcliff]] kept his hold on her affections
 unalterably; and young Linton, with all his superiority, found it
 difficult to make an equally deep impression. He was my late master:
 that is his portrait over the fireplace. It used to hang on one side,
@@ -127,7 +127,7 @@ Mrs. Dean raised the candle, and I discerned a soft-featured face,
 exceedingly resembling the young lady at the Heights, but more pensive
 and amiable in expression. It formed a sweet picture. The long light
 hair curled slightly on the temples; the eyes were large and serious;
-the figure almost too graceful. I did not marvel how Catherine Earnshaw
+the figure almost too graceful. I did not marvel how [[Catherine Earnshaw]]
 could forget her first friend for such an individual. I marvelled much
 how he, with a mind to correspond with his person, could fancy my idea
-of Catherine Earnshaw.
+of [[Catherine Earnshaw]].

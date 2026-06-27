@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 40"
+title: "[[Sense and Sensibility]] — Chapter 40"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,11 +20,11 @@ CHAPTER XL.
 
 
 
-“Well, Miss Dashwood,” said Mrs. Jennings, sagaciously smiling, as soon
+“[[Well]], Miss Dashwood,” said Mrs. Jennings, sagaciously smiling, as soon
 
 as the gentleman had withdrawn, “I do not ask you what the Colonel has
 
-been saying to you; for though, upon my honour, I _tried_ to keep out
+been saying to you; for though, upon my [[Honour|honour]], I _tried_ to keep out
 
 of hearing, I could not help catching enough to understand his
 
@@ -36,7 +36,7 @@ wish you joy of it with all my heart.”
 
 “Thank you, ma’am,” said Elinor. “It _is_ a matter of great joy to me;
 
-and I feel the goodness of Colonel Brandon most sensibly. There are not
+and I feel the goodness of [[Colonel Brandon]] most sensibly. There are not
 
 many men who would act as he has done. Few people who have so
 
@@ -64,7 +64,7 @@ soon occur.”
 
 once made up his mind to such a thing, somehow or other he will soon
 
-find an opportunity. Well, my dear, I wish you joy of it again and
+find an opportunity. [[Well]], my dear, I wish you joy of it again and
 
 again; and if ever there was a happy couple in the world, I think I
 
@@ -78,7 +78,7 @@ faint smile.
 
 
 
-“Aye, my dear, that I do, indeed. And as to the house being a bad one,
+“Aye, my dear, that I do, indeed. And as to the [[house]] being a bad one,
 
 I do not know what the Colonel would be at, for it is as good a one as
 
@@ -90,7 +90,7 @@ ever I saw.”
 
 
 
-“Well, and whose fault is that? why don’t he repair it?—who should do
+“[[Well]], and whose fault is that? why don’t he repair it?—who should do
 
 it but himself?”
 
@@ -104,11 +104,11 @@ go, said,—
 
 
 
-“Well, my dear, I must be gone before I have had half my talk out. But,
+“[[Well]], my dear, I must be gone before I have had half my talk out. But,
 
 however, we may have it all over in the evening; for we shall be quite
 
-alone. I do not ask you to go with me, for I dare say your mind is too
+[[Alone|alone]]. I do not ask you to go with me, for I dare say your mind is too
 
 full of the matter to care for company; and besides, you must long to
 
@@ -122,11 +122,11 @@ Marianne had left the room before the conversation began.
 
 “Certainly, ma’am, I shall tell Marianne of it; but I shall not mention
 
-it at present to any body else.”
+it at present to any [[Body|body]] else.”
 
 
 
-“Oh! very well,” said Mrs. Jennings rather disappointed. “Then you
+“Oh! very [[Well|well]],” said Mrs. Jennings rather disappointed. “Then you
 
 would not have me tell it to Lucy, for I think of going as far as
 
@@ -138,9 +138,9 @@ Holborn to-day.”
 
 very material; and till I have written to Mr. Ferrars, I think it ought
 
-not to be mentioned to any body else. I shall do _that_ directly. It is
+not to be mentioned to any [[Body|body]] else. I shall do _that_ directly. It is
 
-of importance that no time should be lost with him, for he will of
+of importance that no [[Time|time]] should be lost with him, for he will of
 
 course have much to do relative to his ordination.”
 
@@ -156,7 +156,7 @@ very happy idea, and she exclaimed;—
 
 
 
-“Oh, ho!—I understand you. Mr. Ferrars is to be the man. Well, so much
+“Oh, ho!—I understand you. Mr. Ferrars is to be the man. [[Well]], so much
 
 the better for him. Ay, to be sure, he must be ordained in readiness;
 
@@ -176,19 +176,19 @@ only replied to its conclusion.
 
 
 
-“Colonel Brandon is so delicate a man, that he rather wished any one to
+“[[Colonel Brandon]] is so delicate a man, that he rather wished any one to
 
 announce his intentions to Mr. Ferrars than himself.”
 
 
 
-“And so _you_ are forced to do it. Well _that_ is an odd kind of
+“And so _you_ are forced to do it. [[Well]] _that_ is an odd kind of
 
 delicacy! However, I will not disturb you (seeing her preparing to
 
 write.) You know your own concerns best. So goodby, my dear. I have not
 
-heard of any thing to please me so well since Charlotte was brought to
+heard of any thing to please me so [[Well|well]] since Charlotte was brought to
 
 bed.”
 
@@ -204,7 +204,7 @@ glad to get her so good a mistress. But whether she would do for a
 
 lady’s maid, I am sure I can’t tell. She is an excellent housemaid, and
 
-works very well at her needle. However, you will think of all that at
+works very [[Well|well]] at her needle. However, you will think of all that at
 
 your leisure.”
 
@@ -212,7 +212,7 @@ your leisure.”
 
 “Certainly, ma’am,” replied Elinor, not hearing much of what she said,
 
-and more anxious to be alone, than to be mistress of the subject.
+and more anxious to be [[Alone|alone]], than to be mistress of the subject.
 
 
 
@@ -278,13 +278,13 @@ say any thing, after taking a chair.
 
 least I understood her so—or I certainly should not have intruded on
 
-you in such a manner; though at the same time, I should have been
+you in such a manner; though at the same [[Time|time]], I should have been
 
-extremely sorry to leave London without seeing you and your sister;
+extremely sorry to leave [[London]] without seeing you and your sister;
 
-especially as it will most likely be some time—it is not probable that
+especially as it will most likely be some [[Time|time]]—it is not probable that
 
-I should soon have the pleasure of meeting you again. I go to Oxford
+I should soon have the pleasure of meeting you again. I go to [[Oxford]]
 
 tomorrow.”
 
@@ -312,7 +312,7 @@ offering you the living of Delaford now just vacant, and only wishes it
 
 were more valuable. Allow me to congratulate you on having so
 
-respectable and well-judging a friend, and to join in his wish that the
+respectable and [[Well|well]]-judging a friend, and to join in his wish that the
 
 living—it is about two hundred a-year—were much more considerable, and
 
@@ -334,13 +334,13 @@ exciting; but he said only these two words,—
 
 
 
-“Colonel Brandon!”
+“[[Colonel Brandon]]!”
 
 
 
 “Yes,” continued Elinor, gathering more resolution, as some of the
 
-worst was over, “Colonel Brandon means it as a testimony of his concern
+worst was over, “[[Colonel Brandon]] means it as a testimony of his concern
 
 for what has lately passed—for the cruel situation in which the
 
@@ -354,13 +354,13 @@ his particular approbation of your behaviour on the present occasion.”
 
 
 
-“Colonel Brandon give _me_ a living!—Can it be possible?”
+“[[Colonel Brandon]] give _me_ a living!—Can it be possible?”
 
 
 
 “The unkindness of your own relations has made you astonished to find
 
-friendship any where.”
+[[Friendship|friendship]] any where.”
 
 
 
@@ -368,7 +368,7 @@ friendship any where.”
 
 for I cannot be ignorant that to you, to your goodness, I owe it all.—I
 
-feel it—I would express it if I could—but, as you well know, I am no
+feel it—I would express it if I could—but, as you [[Well|well]] know, I am no
 
 orator.”
 
@@ -376,7 +376,7 @@ orator.”
 
 “You are very much mistaken. I do assure you that you owe it entirely,
 
-at least almost entirely, to your own merit, and Colonel Brandon’s
+at least almost entirely, to your own merit, and [[Colonel Brandon]]’s
 
 discernment of it. I have had no hand in it. I did not even know, till
 
@@ -392,21 +392,21 @@ nothing to my solicitation.”
 
 
 
-Truth obliged her to acknowledge some small share in the action, but
+[[Truth]] obliged her to acknowledge some small share in the action, but
 
-she was at the same time so unwilling to appear as the benefactress of
+she was at the same [[Time|time]] so unwilling to appear as the benefactress of
 
 Edward, that she acknowledged it with hesitation; which probably
 
 contributed to fix that suspicion in his mind which had recently
 
-entered it. For a short time he sat deep in thought, after Elinor had
+entered it. For a short [[Time|time]] he sat deep in thought, after Elinor had
 
 ceased to speak;—at last, and as if it were rather an effort, he said,
 
 
 
-“Colonel Brandon seems a man of great worth and respectability. I have
+“[[Colonel Brandon]] seems a man of great worth and respectability. I have
 
 always heard him spoken of as such, and your brother I know esteems him
 
@@ -422,7 +422,7 @@ acquaintance, all that you have heard him to be, and as you will be
 
 such very near neighbours (for I understand the parsonage is almost
 
-close to the mansion-house,) it is particularly important that he
+close to the mansion-[[house]],) it is particularly important that he
 
 _should_ be all this.”
 
@@ -434,17 +434,17 @@ a look so serious, so earnest, so uncheerful, as seemed to say, that he
 
 might hereafter wish the distance between the parsonage and the
 
-mansion-house much greater.
+mansion-[[house]] much greater.
 
 
 
-“Colonel Brandon, I think, lodges in St. James Street,” said he, soon
+“[[Colonel Brandon]], I think, lodges in St. James Street,” said he, soon
 
 afterwards, rising from his chair.
 
 
 
-Elinor told him the number of the house.
+Elinor told him the number of the [[house]].
 
 
 
@@ -482,7 +482,7 @@ Edward; and, of course, to reflect on her own with discontent.
 
 
 
-When Mrs. Jennings came home, though she returned from seeing people
+When Mrs. Jennings came [[Home|home]], though she returned from seeing people
 
 whom she had never seen before, and of whom therefore she must have a
 
@@ -494,7 +494,7 @@ it again as soon as Elinor appeared.
 
 
 
-“Well, my dear,” she cried, “I sent you up the young man. Did not I do
+“[[Well]], my dear,” she cried, “I sent you up the young man. Did not I do
 
 right?—And I suppose you had no great difficulty—You did not find him
 
@@ -506,7 +506,7 @@ very unwilling to accept your proposal?”
 
 
 
-“Well, and how soon will he be ready?—For it seems all to depend upon
+“[[Well]], and how soon will he be ready?—For it seems all to depend upon
 
 that.”
 
@@ -514,7 +514,7 @@ that.”
 
 “Really,” said Elinor, “I know so little of these kind of forms, that I
 
-can hardly even conjecture as to the time, or the preparation
+can hardly even conjecture as to the [[Time|time]], or the preparation
 
 necessary; but I suppose two or three months will complete his
 
@@ -532,7 +532,7 @@ one would be very glad to do a kindness by poor Mr. Ferrars, I do think
 
 it is not worth while to wait two or three months for him. Sure
 
-somebody else might be found that would do as well; somebody that is in
+somebody else might be found that would do as [[Well|well]]; somebody that is in
 
 orders already.”
 
@@ -540,7 +540,7 @@ orders already.”
 
 “My dear ma’am,” said Elinor, “what can you be thinking of? Why,
 
-Colonel Brandon’s only object is to be of use to Mr. Ferrars.”
+[[Colonel Brandon]]’s only object is to be of use to Mr. Ferrars.”
 
 
 
@@ -552,7 +552,7 @@ Ferrars!”
 
 
 
-The deception could not continue after this; and an explanation
+The [[Deception|deception]] could not continue after this; and an explanation
 
 immediately took place, by which both gained considerable amusement for
 
@@ -570,7 +570,7 @@ ebullition of surprise and satisfaction was over, “and very likely
 
 _may_ be out of repair; but to hear a man apologising, as I thought,
 
-for a house that to my knowledge has five sitting rooms on the
+for a [[house]] that to my knowledge has five sitting rooms on the
 
 ground-floor, and I think the housekeeper told me could make up fifteen
 
@@ -584,7 +584,7 @@ before Lucy goes to it.”
 
 
 
-“But Colonel Brandon does not seem to have any idea of the living’s
+“But [[Colonel Brandon]] does not seem to have any idea of the living’s
 
 being enough to allow them to marry.”
 

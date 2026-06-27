@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 14 (part 2)"
+title: "[[thursday]] — Chapter 14 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -14,28 +14,28 @@ tags:
 </nav>
 
 
-"And what do you think of Sunday, Gogol?" asked Syme.
+"And what do you think of [[Sunday]], Gogol?" asked Syme.
 
-"I don't think of Sunday on principle," said Gogol simply,
+"I don't think of [[Sunday]] on principle," said Gogol simply,
 "any more than I stare at the sun at noonday."
 
-"Well, that is a point of view," said Syme thoughtfully.
+"[[Well]], that is a point of view," said Syme thoughtfully.
 "What do you say, Professor?"
 
-The Professor was walking with bent head and trailing stick,
+[[The Professor]] was walking with bent head and trailing stick,
 and he did not answer at all.
 
 "Wake up, Professor!" said Syme genially.  "Tell us what you
-think of Sunday."
+think of [[Sunday]]."
 
-The Professor spoke at last very slowly.
+[[The Professor]] spoke at last very slowly.
 
 "I think something," he said, "that I cannot say clearly.
 Or, rather, I think something that I cannot even think clearly.
 But it is something like this.  My early life, as you know,
 was a bit too large and loose.
 
-"Well, when I saw Sunday's face I thought it was too large--
+"[[Well]], when I saw [[Sunday]]'s face I thought it was too large--
 everybody does, but I also thought it was too loose.  The face
 was so big, that one couldn't focus it or make it a face at all.
 The eye was so far away from the nose, that it wasn't an eye.
@@ -44,41 +44,41 @@ The whole thing is too hard to explain."
 
 He paused for a little, still trailing his stick, and then went on--
 
-"But put it this way.  Walking up a road at night,
-I have seen a lamp and a lighted window and a cloud
+"But put it this way.  Walking up a [[Road|road]] at [[Night|night]],
+I have seen a lamp and a lighted [[Window|window]] and a cloud
 make together a most complete and unmistakable face.
 If anyone in heaven has that face I shall know him again.
 Yet when I walked a little farther I found that there was no face,
-that the window was ten yards away, the lamp ten hundred yards,
-the cloud beyond the world.  Well, Sunday's face escaped me;
+that the [[Window|window]] was ten yards away, the lamp ten hundred yards,
+the cloud beyond the world.  [[Well]], [[Sunday]]'s face escaped me;
 it ran away to right and left, as such chance pictures run away.
-And so his face has made me, somehow, doubt whether there are any faces.
+And so his face has made me, somehow, [[Doubt|doubt]] whether there are any faces.
 I don't know whether your face, Bull, is a face or a combination
 in perspective.  Perhaps one black disc of your beastly glasses
 is quite close and another fifty miles away.  Oh, the doubts
-of a materialist are not worth a dump.  Sunday has taught me
+of a materialist are not worth a dump.  [[Sunday]] has taught me
 the last and the worst doubts, the doubts of a spiritualist.
-I am a Buddhist, I suppose; and Buddhism is not a creed, it is a doubt.
+I am a Buddhist, I suppose; and Buddhism is not a creed, it is a [[Doubt|doubt]].
 My poor dear Bull, I do not believe that you really have a face.
-I have not faith enough to believe in matter."
+I have not [[Faith|faith]] enough to believe in matter."
 
 Syme's eyes were still fixed upon the errant orb, which, reddened in
-the evening light, looked like some rosier and more innocent world.
+the evening light, looked like some rosier and more [[Innocent|innocent]] world.
 
 "Have you noticed an odd thing," he said, "about all your descriptions?
-Each man of you finds Sunday quite different, yet each man of you
+Each man of you finds [[Sunday]] quite different, yet each man of you
 can only find one thing to compare him to--the universe itself.
-Bull finds him like the earth in spring, Gogol like the sun at noonday.
+Bull finds him like the earth in [[spring]], Gogol like the sun at noonday.
 The Secretary is reminded of the shapeless protoplasm,
 and the Inspector of the carelessness of virgin forests.
-The Professor says he is like a changing landscape.  This is queer,
+[[The Professor]] says he is like a changing landscape.  This is queer,
 but it is queerer still that I also have had my odd notion about
-the President, and I also find that I think of Sunday as I think
+the President, and I also find that I think of [[Sunday]] as I think
 of the whole world."
 
 "Get on a little faster, Syme," said Bull; "never mind the balloon."
 
-"When I first saw Sunday," said Syme slowly, "I only saw his back;
+"When I first saw [[Sunday]]," said Syme slowly, "I only saw his back;
 and when I saw his back, I knew he was the worst man in the world.
 His neck and shoulders were brutal, like those of some apish god.
 His head had a stoop that was hardly human, like the stoop of an ox.
@@ -99,26 +99,26 @@ because it was so good."
 
 "It was like the face of some ancient archangel, judging justly
 after heroic wars.  There was laughter in the eyes, and in
-the mouth honour and sorrow.  There was the same white hair,
+the mouth [[Honour|honour]] and sorrow.  There was the same white hair,
 the same great, grey-clad shoulders that I had seen from behind.
 But when I saw him from behind I was certain he was an animal,
 and when I saw him in front I knew he was a god."
 
-"Pan," said the Professor dreamily, "was a god and an animal."
+"Pan," said [[The Professor|the Professor]] dreamily, "was a god and an animal."
 
 "Then, and again and always," went on Syme like a man talking
-to himself, "that has been for me the mystery of Sunday, and it
+to himself, "that has been for me the mystery of [[Sunday]], and it
 is also the mystery of the world.  When I see the horrible back,
 I am sure the noble face is but a mask.  When I see the face
 but for an instant, I know the back is only a jest.
 Bad is so bad, that we cannot but think good an accident;
 good is so good, that we feel certain that evil could be explained.
 But the whole came to a kind of crest yesterday when I raced
-Sunday for the cab, and was just behind him all the way."
+[[Sunday]] for the cab, and was just behind him all the way."
 
-"Had you time for thinking then?" asked Ratcliffe.
+"Had you [[Time|time]] for thinking then?" asked Ratcliffe.
 
-"Time," replied Syme, "for one outrageous thought.  I was suddenly
+"[[Time]]," replied Syme, "for one outrageous thought.  I was suddenly
 possessed with the idea that the blind, blank back of his head
 really was his face--an awful, eyeless face staring at me!
 And I fancied that the figure running in front of me was really

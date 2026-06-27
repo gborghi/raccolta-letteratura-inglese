@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 2)"
+title: "[[David Copperfield]] — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-If I had not guessed this, on the way to the coffee-house, I could
+If I had not guessed this, on the way to the coffee-[[house]], I could
 hardly have failed to know what was the matter when I followed him
 into an upstairs room, and found Miss Murdstone there, supported by
 a background of sideboard, on which were several inverted tumblers
@@ -30,9 +30,9 @@ hearth-rug in front of the fireplace.
 have in your reticule, Miss Murdstone.’
 
 I believe it was the old identical steel-clasped reticule of my
-childhood, that shut up like a bite. Compressing her lips, in sympathy
+[[Childhood|childhood]], that shut up like a bite. Compressing her lips, in sympathy
 with the snap, Miss Murdstone opened it--opening her mouth a little
-at the same time--and produced my last letter to Dora, teeming with
+at the same [[Time|time]]--and produced my last letter to Dora, teeming with
 expressions of devoted affection.
 
 ‘I believe that is your writing, Mr. Copperfield?’ said Mr. Spenlow.
@@ -57,8 +57,8 @@ That gentle creature, after a moment’s thoughtful survey of the carpet,
 delivered herself with much dry unction as follows.
 
 ‘I must confess to having entertained my suspicions of Miss Spenlow, in
-reference to David Copperfield, for some time. I observed Miss Spenlow
-and David Copperfield, when they first met; and the impression made upon
+reference to [[David Copperfield]], for some [[Time|time]]. I observed Miss Spenlow
+and [[David Copperfield]], when they first met; and the impression made upon
 me then was not agreeable. The depravity of the human heart is such--’
 
 ‘You will oblige me, ma’am,’ interrupted Mr. Spenlow, ‘by confining
@@ -70,7 +70,7 @@ against this unseemly interruption, and with frowning dignity resumed:
 ‘Since I am to confine myself to facts, I will state them as dryly as I
 can. Perhaps that will be considered an acceptable course of proceeding.
 I have already said, sir, that I have had my suspicions of Miss Spenlow,
-in reference to David Copperfield, for some time. I have frequently
+in reference to [[David Copperfield]], for some [[Time|time]]. I have frequently
 endeavoured to find decisive corroboration of those suspicions, but
 without effect. I have therefore forborne to mention them to Miss
 Spenlow’s father’; looking severely at him--‘knowing how little
@@ -82,14 +82,14 @@ Murdstone’s manner, and deprecated her severity with a conciliatory
 little wave of his hand.
 
 ‘On my return to Norwood, after the period of absence occasioned by my
-brother’s marriage,’ pursued Miss Murdstone in a disdainful voice, ‘and
+brother’s [[Marriage|marriage]],’ pursued Miss Murdstone in a disdainful voice, ‘and
 on the return of Miss Spenlow from her visit to her friend Miss Mills,
 I imagined that the manner of Miss Spenlow gave me greater occasion for
 suspicion than before. Therefore I watched Miss Spenlow closely.’
 
 Dear, tender little Dora, so unconscious of this Dragon’s eye!
 
-‘Still,’ resumed Miss Murdstone, ‘I found no proof until last night.
+‘Still,’ resumed Miss Murdstone, ‘I found no proof until last [[Night|night]].
 It appeared to me that Miss Spenlow received too many letters from her
 friend Miss Mills; but Miss Mills being her friend with her father’s
 full concurrence,’ another telling blow at Mr. Spenlow, ‘it was not
@@ -100,25 +100,25 @@ far to refer to misplaced confidence.’
 Mr. Spenlow apologetically murmured his assent.
 
 ‘Last evening after tea,’ pursued Miss Murdstone, ‘I observed the little
-dog starting, rolling, and growling about the drawing-room, worrying
+dog starting, [[rolling]], and growling about the drawing-room, worrying
 something. I said to Miss Spenlow, “Dora, what is that the dog has in
 his mouth? It’s paper.” Miss Spenlow immediately put her hand to her
 frock, gave a sudden cry, and ran to the dog. I interposed, and said,
-“Dora, my love, you must permit me.”’
+“Dora, my [[Love|love]], you must permit me.”’
 
 Oh Jip, miserable Spaniel, this wretchedness, then, was your work!
 
 ‘Miss Spenlow endeavoured,’ said Miss Murdstone, ‘to bribe me with
 kisses, work-boxes, and small articles of jewellery--that, of course,
 I pass over. The little dog retreated under the sofa on my approaching
-him, and was with great difficulty dislodged by the fire-irons. Even
+him, and was with great difficulty dislodged by the [[Fire|fire]]-irons. Even
 when dislodged, he still kept the letter in his mouth; and on my
 endeavouring to take it from him, at the imminent risk of being bitten,
 he kept it between his teeth so pertinaciously as to suffer himself
 to be held suspended in the air by means of the document. At length I
 obtained possession of it. After perusing it, I taxed Miss Spenlow with
 having many such letters in her possession; and ultimately obtained from
-her the packet which is now in David Copperfield’s hand.’
+her the packet which is now in [[David Copperfield]]’s hand.’
 
 Here she ceased; and snapping her reticule again, and shutting her
 mouth, looked as if she might be broken, but could never be bent.
@@ -127,7 +127,7 @@ mouth, looked as if she might be broken, but could never be bent.
 to ask, Mr. Copperfield, if you have anything to say in reply?’
 
 The picture I had before me, of the beautiful little treasure of my
-heart, sobbing and crying all night--of her being alone, frightened,
+heart, sobbing and crying all [[Night|night]]--of her being [[Alone|alone]], frightened,
 and wretched, then--of her having so piteously begged and prayed that
 stony-hearted woman to forgive her--of her having vainly offered her
 those kisses, work-boxes, and trinkets--of her being in such grievous

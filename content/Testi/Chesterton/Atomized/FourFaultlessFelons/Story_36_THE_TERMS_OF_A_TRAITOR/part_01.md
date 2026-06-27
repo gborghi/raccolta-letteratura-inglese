@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE TERMS OF A TRAITOR (part 1)"
+title: "[[FourFaultlessFelons]] — THE TERMS OF A TRAITOR (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,9 +20,9 @@ V THE TERMS OF A TRAITOR
 
 ONE single thought like a thundercloud brooded over Pavonia, its palace
 
-and principal city; the sort of concentration that commonly only
+and principal [[City|city]]; the sort of concentration that commonly only
 
-possesses some ignorant village where a prophet or fanatic has predicted
+possesses some ignorant village where a [[Prophet|prophet]] or fanatic has predicted
 
 the instant end of the world. The last proclamations had had their
 
@@ -30,13 +30,13 @@ effect; even the most careless were now convinced that at any moment a
 
 huge invasion on all the frontiers, or a horrible explosion in the heart
 
-of the city, would come at some signal they did not know, and by some
+of the [[City|city]], would come at some signal they did not know, and by some
 
 gesture they could not arrest. The foreign invasion was felt perhaps as
 
 the more maddening of the two but they were all the more bewildered
 
-because there had hung over all this mysterious movement the shadow or
+because there had hung over all this mysterious movement the [[Shadow|shadow]] or
 
 savour of something foreign. It was admitted that the reputation of
 
@@ -52,7 +52,7 @@ about to act with hideous energy. It was in the midst of all this tossing
 
 insecurity that the message came that the captive footman would speak. He
 
-had actually signed a grave document, which ran: "I can say The Word and
+had actually signed a [[Grave|grave]] document, which ran: "I can say The Word and
 
 stop the work of the Four Destroyers for ever and put them henceforth in
 
@@ -62,9 +62,9 @@ your power. But I must name my conditions."
 
 Whatever may have been the historical facts about the decayed family of
 
-John Conrad, there is no doubt that he entered on the scene of a
+John Conrad, there is no [[Doubt|doubt]] that he entered on the scene of a
 
-Committee of the State, which was also an audience with the King, with
+Committee of the State, which was also an audience with the [[King]], with
 
 the sort of dignity which does not generally appear in the pomposity of
 
@@ -74,13 +74,13 @@ seated the four chief rulers of Pavonia, with a proper gesture of respect
 
 but without the least appearance of embarrassment or servility. He bowed
 
-to the King and accepted the chair in which the King asked him to be
+to the [[King]] and accepted the chair in which the [[King]] asked him to be
 
-seated, and it was the King who was more embarrassed than the subject.
+seated, and it was the [[King]] who was more embarrassed than the subject.
 
 Clovis of Pavonia cleared his throat, looked down his nose reflectively
 
-for a moment and then said: "I hope it is unnecessary for me to add my
+for a moment and then said: "I [[Hope|hope]] it is unnecessary for me to add my
 
 personal word to any arrangements that may have been made. But I am quite
 
@@ -104,13 +104,13 @@ is an equivalent?"
 
 "Your Majesty," interposed Colonel Grimm, "I do not believe in beating
 
-about the bush. We have very little time to spare, if these plotters are
+about the bush. We have very little [[Time|time]] to spare, if these plotters are
 
-really about to spring a mine. I don't see how it can be denied that the
+really about to [[spring]] a mine. I don't see how it can be denied that the
 
 prisoner must be the judge of the equivalent. I have tried to get the
 
-truth out of him by other methods which he may or may not think he has a
+[[Truth|truth]] out of him by other methods which he may or may not think he has a
 
 right to resent; in plain words, by intimidation. It is only just to say
 
@@ -168,9 +168,9 @@ married to anybody under the rank of a Grand Duke of Pavonia."
 
 
 
-The rest of the company regarded the affable footman much as the King and
+The rest of the company regarded the affable footman much as the [[King]] and
 
-Court may have regarded Perseus when he turned them all to stone. But
+[[Court]] may have regarded Perseus when he turned them all to stone. But
 
 Grimm recovered his voice first with a good gross military oath, followed
 
@@ -178,7 +178,7 @@ by a demand to know what the devil it was all about.
 
 
 
-"I shall not ask for any formal political office in the government of the
+"I shall not ask for any formal political office in the [[government]] of the
 
 State," went on the footman thoughtfully. "But it is only reasonable to
 
@@ -188,7 +188,7 @@ a certain amount of influence on the policy of the country. I shall
 
 certainly insist on a number of essential reforms, especially directed to
 
-a juster treatment of the poor of this city. Your Majesty and gentlemen,
+a juster treatment of the poor of this [[City|city]]. Your Majesty and gentlemen,
 
 if you are at this moment threatened by a thunderbolt from you know not
 
@@ -198,21 +198,21 @@ invasion and internal revolt, you have very largely yourselves to thank.
 
 I will give up to you these revolutionary leaders of whom you talk so
 
-much. I will help you to capture Dr. Phocus and Sebastian and Loeb and,
+much. I will help you to capture Dr. Phocus and [[Sebastian]] and Loeb and,
 
 if possible, even General Case. I will give up my companions, but I will
 
 not give up my convictions. And when I come to occupy the high national
 
-position with which you will shortly honour me, I can promise you that
+position with which you will shortly [[Honour|honour]] me, I can promise you that
 
-though there will be no revolution, there will be a very drastic reform."
+though there will be no revolution, there will be a very drastic [[Reform|reform]]."
 
 
 
-The Prime Minister rose to his feet in uncontrollable agitation, for
+The Prime Minister [[Rose|rose]] to his feet in uncontrollable agitation, for
 
-professional reformers do not like to hear about drastic reform.
+professional reformers do not like to hear about drastic [[Reform|reform]].
 
 
 

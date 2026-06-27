@@ -20,7 +20,7 @@ tags:
 
       of the skin of the figure was of the perfect whiteness of the
 
-      snow.
+      [[Snow|snow]].
 
 
 
@@ -30,7 +30,7 @@ tags:
 
       THE circumstances connected with the late sudden and distressing
 
-      death of Mr. Pym are already well known to the public through the
+      [[Death|death]] of Mr. Pym are already [[Well|well]] known to the public through the
 
       medium of the daily press. It is feared that the few remaining
 
@@ -58,7 +58,7 @@ tags:
 
       connected with the general inaccuracy of the details afforded
 
-      him, and his disbelief in the entire truth of the latter portions
+      him, and his disbelief in the entire [[Truth|truth]] of the latter portions
 
       of the narration. Peters, from whom some information might be
 
@@ -66,7 +66,7 @@ tags:
 
       be met with at present. He may hereafter be found, and will, no
 
-      doubt, afford material for a conclusion of Mr. Pym’s account.
+      [[Doubt|doubt]], afford material for a conclusion of Mr. Pym’s account.
 
 
 
@@ -86,7 +86,7 @@ tags:
 
 
 
-      On one point in the narrative some remarks may well be offered;
+      On one point in the narrative some remarks may [[Well|well]] be offered;
 
       and it would afford the writer of this appendix much pleasure if
 
@@ -120,7 +120,7 @@ tags:
 
       (viz., the fitting of the projections of the fragments found
 
-      among the dust into the indentures upon the wall), that we are
+      among the [[Dust|dust]] into the indentures upon the wall), that we are
 
       forced to believe the writer in earnest; and no reasonable reader
 
@@ -128,11 +128,11 @@ tags:
 
       figures are most singular (especially when taken in connection
 
-      with statements made in the body of the narrative), it may be as
+      with statements made in the [[Body|body]] of the narrative), it may be as
 
-      well to say a word or two concerning them all—this, too, the more
+      [[Well|well]] to say a word or two concerning them all—this, too, the more
 
-      especially as the facts in question have, beyond doubt, escaped
+      especially as the facts in question have, beyond [[Doubt|doubt]], escaped
 
       the attention of Mr. Poe.
 
@@ -150,7 +150,7 @@ tags:
 
       distinct character), constitute an Ethiopian verbal root—the root
 
-      “To be shady,’—whence all the inflections of shadow or darkness.
+      “To be shady,’—whence all the inflections of [[Shadow|shadow]] or darkness.
 
 
 
@@ -206,7 +206,7 @@ tags:
 
       _white_materials in possession of Mr. Pym. This also was the
 
-      shriek of the swift-flying, _white, _and gigantic birds which
+      shriek of the swift-flying, _white, _and gigantic [[Birds|birds]] which
 
       issued from the vapory _white_curtain of the South. Nothing
 

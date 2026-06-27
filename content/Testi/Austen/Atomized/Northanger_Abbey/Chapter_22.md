@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 21"
+title: "[[Northanger Abbey]] — Chapter 21"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -36,7 +36,7 @@ fashion, was handsome and comfortable, and the air of the room
 
 altogether far from uncheerful. Her heart instantaneously at ease on
 
-this point, she resolved to lose no time in particular examination of
+this point, she resolved to lose no [[Time|time]] in particular examination of
 
 anything, as she greatly dreaded disobliging the General by any delay.
 
@@ -50,7 +50,7 @@ a large high chest, standing back in a deep recess on one side of the
 
 fireplace. The sight of it made her start; and, forgetting everything
 
-else, she stood gazing on it in motionless wonder, while these thoughts
+else, she stood gazing on it in motionless [[Wonder|wonder]], while these thoughts
 
 crossed her:
 
@@ -84,7 +84,7 @@ certainty. She could not, in whatever direction she took it, believe
 
 the last letter to be a _T;_ and yet that it should be anything else in
 
-that house was a circumstance to raise no common degree of
+that [[house]] was a circumstance to raise no common degree of
 
 astonishment. If not originally theirs, by what strange events could it
 
@@ -110,13 +110,13 @@ mistress to be of use to Miss Morland; and though Catherine immediately
 
 dismissed her, it recalled her to the sense of what she ought to be
 
-doing, and forced her, in spite of her anxious desire to penetrate this
+doing, and forced her, in spite of her anxious [[Desire|desire]] to penetrate this
 
 mystery, to proceed in her dressing without further delay. Her progress
 
 was not quick, for her thoughts and her eyes were still bent on the
 
-object so well calculated to interest and alarm; and though she dared
+object so [[Well|well]] calculated to interest and alarm; and though she dared
 
 not waste a moment upon a second attempt, she could not remain many
 
@@ -128,7 +128,7 @@ her curiosity might safely be indulged. One moment surely might be
 
 spared; and, so desperate should be the exertion of her strength, that,
 
-unless secured by supernatural means, the lid in one moment should be
+unless secured by [[Supernatural|supernatural]] means, the lid in one moment should be
 
 thrown back. With this spirit she sprang forward, and her confidence
 
@@ -168,7 +168,7 @@ Catherine had no leisure for speech, being at once blushing, tying her
 
 gown, and forming wise resolutions with the most violent dispatch. Miss
 
-Tilney gently hinted her fear of being late; and in half a minute they
+Tilney gently hinted her [[Fear|fear]] of being late; and in half a minute they
 
 ran downstairs together, in an alarm not wholly unfounded, for General
 
@@ -186,13 +186,13 @@ and breathless, in a most humble mood, concerned for his children, and
 
 detesting old chests; and the General, recovering his politeness as he
 
-looked at her, spent the rest of his time in scolding his daughter for
+looked at her, spent the rest of his [[Time|time]] in scolding his daughter for
 
 so foolishly hurrying her fair friend, who was absolutely out of breath
 
 from haste, when there was not the least occasion for hurry in the
 
-world: but Catherine could not at all get over the double distress of
+world: but Catherine could not at all get over the [[Double|double]] distress of
 
 having involved her friend in a lecture and been a great simpleton
 
@@ -228,13 +228,13 @@ used to much better-sized apartments at Mr. Allen’s?”
 
 dining-parlour was not more than half as large,” and she had never seen
 
-so large a room as this in her life. The General’s good humour
+so large a room as this in her life. The General’s good [[Humour|humour]]
 
 increased. Why, as he _had_ such rooms, he thought it would be simple
 
-not to make use of them; but, upon his honour, he believed there might
+not to make use of them; but, upon his [[Honour|honour]], he believed there might
 
-be more comfort in rooms of only half their size. Mr. Allen’s house, he
+be more comfort in rooms of only half their size. Mr. Allen’s [[house]], he
 
 was sure, must be exactly of the true size for rational happiness.
 
@@ -242,11 +242,11 @@ was sure, must be exactly of the true size for rational happiness.
 
 The evening passed without any further disturbance, and, in the
 
-occasional absence of General Tilney, with much positive cheerfulness.
+occasional absence of [[General Tilney]], with much positive cheerfulness.
 
 It was only in his presence that Catherine felt the smallest fatigue
 
-from her journey; and even then, even in moments of languor or
+from her [[Journey|journey]]; and even then, even in moments of languor or
 
 restraint, a sense of general happiness preponderated, and she could
 
@@ -254,9 +254,9 @@ think of her friends in Bath without one wish of being with them.
 
 
 
-The night was stormy; the wind had been rising at intervals the whole
+The [[Night|night]] was stormy; the [[Wind|wind]] had been rising at intervals the whole
 
-afternoon; and by the time the party broke up, it blew and rained
+afternoon; and by the [[Time|time]] the party broke up, it blew and rained
 
 violently. Catherine, as she crossed the hall, listened to the tempest
 
@@ -264,7 +264,7 @@ with sensations of awe; and, when she heard it rage round a corner of
 
 the ancient building and close with sudden fury a distant door, felt
 
-for the first time that she was really in an abbey. Yes, these were
+for the first [[Time|time]] that she was really in an abbey. Yes, these were
 
 characteristic sounds; they brought to her recollection a countless
 
@@ -278,7 +278,7 @@ walls so solemn! _She_ had nothing to dread from midnight assassins or
 
 drunken gallants. Henry had certainly been only in jest in what he had
 
-told her that morning. In a house so furnished, and so guarded, she
+told her that morning. In a [[house]] so furnished, and so guarded, she
 
 could have nothing to explore or to suffer, and might go to her bedroom
 
@@ -290,11 +290,11 @@ especially on perceiving that Miss Tilney slept only two doors from
 
 her, to enter her room with a tolerably stout heart; and her spirits
 
-were immediately assisted by the cheerful blaze of a wood fire. “How
+were immediately assisted by the cheerful blaze of a wood [[Fire|fire]]. “How
 
 much better is this,” said she, as she walked to the fender—“how much
 
-better to find a fire ready lit, than to have to wait shivering in the
+better to find a [[Fire|fire]] ready lit, than to have to wait shivering in the
 
 cold till all the family are in bed, as so many poor girls have been
 
@@ -304,39 +304,39 @@ by coming in with a faggot! how glad I am that Northanger is what it
 
 is! if it had been like some other places, I do not know that, in such
 
-a night as this, I could have answered for my courage: but now, to be
+a [[Night|night]] as this, I could have answered for my [[Courage|courage]]: but now, to be
 
 sure, there is nothing to alarm one.”
 
 
 
-She looked round the room. The window curtains seemed in motion. It
+She looked round the room. The [[Window|window]] curtains seemed in motion. It
 
-could be nothing but the violence of the wind penetrating through the
+could be nothing but the violence of the [[Wind|wind]] penetrating through the
 
 divisions of the shutters; and she stepped boldly forward, carelessly
 
 humming a tune, to assure herself of its being so, peeped courageously
 
-behind each curtain, saw nothing on either low window seat to scare
+behind each curtain, saw nothing on either low [[Window|window]] seat to scare
 
 her, and on placing a hand against the shutter, felt the strongest
 
-conviction of the wind’s force. A glance at the old chest, as she
+conviction of the [[Wind|wind]]’s force. A glance at the old chest, as she
 
 turned away from this examination, was not without its use; she scorned
 
 the causeless fears of an idle fancy, and began with a most happy
 
-indifference to prepare herself for bed. “She should take her time; she
+indifference to prepare herself for bed. “She should take her [[Time|time]]; she
 
 should not hurry herself; she did not care if she were the last person
 
-up in the house. But she would not make up her fire; _that_ would seem
+up in the [[house]]. But she would not make up her [[Fire|fire]]; _that_ would seem
 
 cowardly, as if she wished for the protection of light after she were
 
-in bed.” The fire therefore died away, and Catherine, having spent the
+in bed.” The [[Fire|fire]] therefore died away, and Catherine, having spent the
 
 best part of an hour in her arrangements, was beginning to think of
 
@@ -366,7 +366,7 @@ fancy to look into it; not, however, with the smallest expectation of
 
 finding anything, but it was so very odd, after what Henry had said. In
 
-short, she could not sleep till she had examined it. So, placing the
+short, she could not [[Sleep|sleep]] till she had examined it. So, placing the
 
 candle with great caution on a chair, she seized the key with a very
 
@@ -378,13 +378,13 @@ bolt flew, and she believed herself successful; but how strangely
 
 mysterious! the door was still immovable. She paused a moment in
 
-breathless wonder. The wind roared down the chimney, the rain beat in
+breathless [[Wonder|wonder]]. The [[Wind|wind]] roared down the chimney, the rain beat in
 
 torrents against the windows, and everything seemed to speak the
 
 awfulness of her situation. To retire to bed, however, unsatisfied on
 
-such a point, would be vain, since sleep must be impossible with the
+such a point, would be vain, since [[Sleep|sleep]] must be impossible with the
 
 consciousness of a cabinet so mysteriously closed in her immediate
 
@@ -392,7 +392,7 @@ vicinity. Again, therefore, she applied herself to the key, and after
 
 moving it in every possible way for some instants with the determined
 
-celerity of hope’s last effort, the door suddenly yielded to her hand:
+celerity of [[Hope|hope]]’s last effort, the door suddenly yielded to her hand:
 
 her heart leaped with exultation at such a victory, and having thrown
 
@@ -400,7 +400,7 @@ open each folding door, the second being secured only by bolts of less
 
 wonderful construction than the lock, though in that her eye could not
 
-discern anything unusual, a double range of small drawers appeared in
+discern anything unusual, a [[Double|double]] range of small drawers appeared in
 
 view, with some larger drawers above and below them; and in the centre,
 
@@ -410,9 +410,9 @@ probability a cavity of importance.
 
 
 
-Catherine’s heart beat quick, but her courage did not fail her. With a
+Catherine’s heart beat quick, but her [[Courage|courage]] did not fail her. With a
 
-cheek flushed by hope, and an eye straining with curiosity, her fingers
+cheek flushed by [[Hope|hope]], and an eye straining with curiosity, her fingers
 
 grasped the handle of a drawer and drew it forth. It was entirely
 
@@ -420,21 +420,21 @@ empty. With less alarm and greater eagerness she seized a second, a
 
 third, a fourth; each was equally empty. Not one was left unsearched,
 
-and in not one was anything found. Well read in the art of concealing a
+and in not one was anything found. [[Well]] read in the art of concealing a
 
 treasure, the possibility of false linings to the drawers did not
 
 escape her, and she felt round each with anxious acuteness in vain. The
 
-place in the middle alone remained now unexplored; and though she had
+place in the middle [[Alone|alone]] remained now unexplored; and though she had
 
 “never from the first had the smallest idea of finding anything in any
 
 part of the cabinet, and was not in the least disappointed at her ill
 
-success thus far, it would be foolish not to examine it thoroughly
+[[success]] thus far, it would be foolish not to examine it thoroughly
 
-while she was about it.” It was some time however before she could
+while she was about it.” It was some [[Time|time]] however before she could
 
 unfasten the door, the same difficulty occurring in the management of
 
@@ -474,17 +474,17 @@ in one. A lamp could not have expired with more awful effect.
 
 Catherine, for a few moments, was motionless with horror. It was done
 
-completely; not a remnant of light in the wick could give hope to the
+completely; not a remnant of light in the wick could give [[Hope|hope]] to the
 
 rekindling breath. Darkness impenetrable and immovable filled the room.
 
-A violent gust of wind, rising with sudden fury, added fresh horror to
+A violent gust of [[Wind|wind]], rising with sudden fury, added fresh horror to
 
 the moment. Catherine trembled from head to foot. In the pause which
 
 succeeded, a sound like receding footsteps and the closing of a distant
 
-door struck on her affrighted ear. Human nature could support no more.
+door struck on her affrighted ear. Human [[Nature|nature]] could support no more.
 
 A cold sweat stood on her forehead, the manuscript fell from her hand,
 
@@ -492,13 +492,13 @@ and groping her way to the bed, she jumped hastily in, and sought some
 
 suspension of agony by creeping far underneath the clothes. To close
 
-her eyes in sleep that night, she felt must be entirely out of the
+her eyes in [[Sleep|sleep]] that [[Night|night]], she felt must be entirely out of the
 
 question. With a curiosity so justly awakened, and feelings in every
 
-way so agitated, repose must be absolutely impossible. The storm too
+way so agitated, repose must be absolutely impossible. The [[Storm|storm]] too
 
-abroad so dreadful! she had not been used to feel alarm from wind, but
+abroad so dreadful! she had not been used to feel alarm from [[Wind|wind]], but
 
 now every blast seemed fraught with awful intelligence. The manuscript
 
@@ -518,9 +518,9 @@ first rays she was determined to peruse it. But many were the tedious
 
 hours which must yet intervene. She shuddered, tossed about in her bed,
 
-and envied every quiet sleeper. The storm still raged, and various were
+and envied every quiet sleeper. The [[Storm|storm]] still raged, and various were
 
-the noises, more terrific even than the wind, which struck at intervals
+the noises, more terrific even than the [[Wind|wind]], which struck at intervals
 
 on her startled ear. The very curtains of her bed seemed at one moment
 
@@ -528,10 +528,10 @@ in motion, and at another the lock of her door was agitated, as if by
 
 the attempt of somebody to enter. Hollow murmurs seemed to creep along
 
-the gallery, and more than once her blood was chilled by the sound of
+the gallery, and more than once her [[Blood|blood]] was chilled by the sound of
 
 distant moans. Hour after hour passed away, and the wearied Catherine
 
-had heard three proclaimed by all the clocks in the house before the
+had heard three proclaimed by all the clocks in the [[house]] before the
 
 tempest subsided or she unknowingly fell fast asleep.

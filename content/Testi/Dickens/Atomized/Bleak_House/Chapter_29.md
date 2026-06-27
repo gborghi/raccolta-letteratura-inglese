@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 29"
+title: "Bleak [[house|House]] — Chapter 29"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,28 +23,28 @@ Chesney Wold is shut up, carpets are rolled into great scrolls in
 corners of comfortless rooms, bright damask does penance in brown
 holland, carving and gilding puts on mortification, and the Dedlock
 ancestors retire from the light of day again. Around and around the
-house the leaves fall thick, but never fast, for they come circling
+[[house]] the [[Leaves|leaves]] fall thick, but never fast, for they come circling
 down with a dead lightness that is sombre and slow. Let the gardener
-sweep and sweep the turf as he will, and press the leaves into full
-barrows, and wheel them off, still they lie ankle-deep. Howls the
-shrill wind round Chesney Wold; the sharp rain beats, the windows
+sweep and sweep the turf as he will, and press the [[Leaves|leaves]] into full
+barrows, and [[Wheel|wheel]] them off, still they lie ankle-deep. Howls the
+shrill [[Wind|wind]] round Chesney Wold; the sharp rain beats, the windows
 rattle, and the chimneys growl. Mists hide in the avenues, veil the
 points of view, and move in funeral-wise across the rising grounds.
-On all the house there is a cold, blank smell like the smell of a
+On all the [[house]] there is a cold, blank smell like the smell of a
 little church, though something dryer, suggesting that the dead and
 buried Dedlocks walk there in the long nights and leave the flavour
 of their graves behind them.
 
-But the house in town, which is rarely in the same mind as Chesney
-Wold at the same time, seldom rejoicing when it rejoices or mourning
-when it mourns, excepting when a Dedlock dies—the house in town
+But the [[house]] in town, which is rarely in the same mind as Chesney
+Wold at the same [[Time|time]], seldom rejoicing when it rejoices or mourning
+when it mourns, excepting when a Dedlock dies—the [[house]] in town
 shines out awakened. As warm and bright as so much state may be, as
-delicately redolent of pleasant scents that bear no trace of winter
-as hothouse flowers can make it, soft and hushed so that the ticking
-of the clocks and the crisp burning of the fires alone disturb the
+delicately redolent of pleasant scents that bear no trace of [[Winter|winter]]
+as hothouse [[Flowers|flowers]] can make it, soft and hushed so that the ticking
+of the clocks and the crisp burning of the fires [[Alone|alone]] disturb the
 stillness in the rooms, it seems to wrap those chilled bones of Sir
 Leicester’s in rainbow-coloured wool. And Sir Leicester is glad to
-repose in dignified contentment before the great fire in the library,
+repose in dignified contentment before the great [[Fire|fire]] in the library,
 condescendingly perusing the backs of his books or honouring the fine
 arts with a glance of approbation. For he has his pictures, ancient
 and modern. Some of the Fancy Ball School in which art occasionally
@@ -52,12 +52,12 @@ condescends to become a master, which would be best catalogued like
 the miscellaneous articles in a sale. As “Three high-backed chairs, a
 table and cover, long-necked bottle (containing wine), one flask, one
 Spanish female’s costume, three-quarter face portrait of Miss Jogg
-the model, and a suit of armour containing Don Quixote.” Or “One
+the model, and a suit of armour containing [[Don Quixote]].” Or “One
 stone terrace (cracked), one gondola in distance, one Venetian
 senator’s dress complete, richly embroidered white satin costume with
 profile portrait of Miss Jogg the model, one Scimitar superbly
 mounted in gold with jewelled handle, elaborate Moorish dress (very
-rare), and Othello.”
+rare), and [[Othello]].”
 
 Mr. Tulkinghorn comes and goes pretty often, there being estate
 business to do, leases to be renewed, and so on. He sees my Lady
@@ -65,13 +65,13 @@ pretty often, too; and he and she are as composed, and as
 indifferent, and take as little heed of one another, as ever. Yet it
 may be that my Lady fears this Mr. Tulkinghorn and that he knows it.
 It may be that he pursues her doggedly and steadily, with no touch of
-compunction, remorse, or pity. It may be that her beauty and all the
+compunction, remorse, or pity. It may be that her [[Beauty|beauty]] and all the
 state and brilliancy surrounding her only gives him the greater zest
 for what he is set upon and makes him the more inflexible in it.
 Whether he be cold and cruel, whether immovable in what he has made
-his duty, whether absorbed in love of power, whether determined
+his duty, whether absorbed in [[Love|love]] of power, whether determined
 to have nothing hidden from him in ground where he has burrowed
-among secrets all his life, whether he in his heart despises the
+among [[Secrets|secrets]] all his life, whether he in his heart despises the
 splendour of which he is a distant beam, whether he is always
 treasuring up slights and offences in the affability of his gorgeous
 clients—whether he be any of this, or all of this, it may be that my
@@ -82,22 +82,22 @@ ribbons at the knees.
 
 Sir Leicester sits in my Lady’s room—that room in which Mr.
 Tulkinghorn read the affidavit in Jarndyce and Jarndyce—particularly
-complacent. My Lady, as on that day, sits before the fire with her
+complacent. My Lady, as on that day, sits before the [[Fire|fire]] with her
 screen in her hand. Sir Leicester is particularly complacent because
 he has found in his newspaper some congenial remarks bearing directly
 on the floodgates and the framework of society. They apply so happily
 to the late case that Sir Leicester has come from the library to my
 Lady’s room expressly to read them aloud. “The man who wrote this
-article,” he observes by way of preface, nodding at the fire as if he
-were nodding down at the man from a mount, “has a well-balanced
+article,” he observes by way of preface, nodding at the [[Fire|fire]] as if he
+were nodding down at the man from a mount, “has a [[Well|well]]-balanced
 mind.”
 
-The man’s mind is not so well balanced but that he bores my Lady,
+The man’s mind is not so [[Well|well]] balanced but that he bores my Lady,
 who, after a languid effort to listen, or rather a languid
-resignation of herself to a show of listening, becomes distraught and
-falls into a contemplation of the fire as if it were her fire at
+[[Resignation|resignation]] of herself to a show of listening, becomes distraught and
+falls into a contemplation of the [[Fire|fire]] as if it were her [[Fire|fire]] at
 Chesney Wold, and she had never left it. Sir Leicester, quite
-unconscious, reads on through his double eye-glass, occasionally
+unconscious, reads on through his [[Double|double]] eye-glass, occasionally
 stopping to remove his glass and express approval, as “Very true
 indeed,” “Very properly put,” “I have frequently made the same remark
 myself,” invariably losing his place after each observation, and
@@ -134,7 +134,7 @@ declining to accept a bow from the young man as he goes out and
 majestically supposing him to be some shoemaker of intrusive
 appearance.
 
-Lady Dedlock looks imperiously at her visitor when the servant has
+[[Lady Dedlock]] looks imperiously at her visitor when the servant has
 left the room, casting her eyes over him from head to foot. She
 suffers him to stand by the door and asks him what he wants.
 
@@ -158,7 +158,7 @@ short with but little ceremony. Say what you have to say, if you
 please.”
 
 My Lady, with a careless toss of her screen, turns herself towards
-the fire again, sitting almost with her back to the young man of the
+the [[Fire|fire]] again, sitting almost with her back to the young man of the
 name of Guppy.
 
 “With your ladyship’s permission, then,” says the young man, “I will
@@ -168,7 +168,7 @@ of not committing myself in writing, and therefore I did not mention
 to your ladyship the name of the firm with which I am connected and
 in which my standing—and I may add income—is tolerably good. I may
 now state to your ladyship, in confidence, that the name of that firm
-is Kenge and Carboy, of Lincoln’s Inn, which may not be altogether
+is Kenge and Carboy, of [[Lincoln]]’s Inn, which may not be altogether
 unknown to your ladyship in connexion with the case in Chancery of
 Jarndyce and Jarndyce.”
 
@@ -178,7 +178,7 @@ ceased to toss the screen and holds it as if she were listening.
 “Now, I may say to your ladyship at once,” says Mr. Guppy, a little
 emboldened, “it is no matter arising out of Jarndyce and Jarndyce
 that made me so desirous to speak to your ladyship, which conduct I
-have no doubt did appear, and does appear, obtrusive—in fact, almost
+have no [[Doubt|doubt]] did appear, and does appear, obtrusive—in fact, almost
 blackguardly.”
 
 After waiting for a moment to receive some assurance to the contrary,
@@ -199,7 +199,7 @@ myself entirely in your ladyship’s hands. If your ladyship was to
 make any complaint to Kenge and Carboy or to Mr. Tulkinghorn of the
 present visit, I should be placed in a very disagreeable situation.
 That, I openly admit. Consequently, I rely upon your ladyship’s
-honour.”
+[[Honour|honour]].”
 
 My Lady, with a disdainful gesture of the hand that holds the screen,
 assures him of his being worth no complaint from her.
@@ -208,9 +208,9 @@ assures him of his being worth no complaint from her.
 Now—I—dash it!—The fact is that I put down a head or two here of
 the order of the points I thought of touching upon, and they’re
 written short, and I can’t quite make out what they mean. If your
-ladyship will excuse me taking it to the window half a moment, I—”
+ladyship will excuse me taking it to the [[Window|window]] half a moment, I—”
 
-Mr. Guppy, going to the window, tumbles into a pair of love-birds, to
+Mr. Guppy, going to the [[Window|window]], tumbles into a pair of [[Love|love]]-[[Birds|birds]], to
 whom he says in his confusion, “I beg your pardon, I am sure.” This
 does not tend to the greater legibility of his notes. He murmurs,
 growing warm and red and holding the slip of paper now close to his
@@ -219,10 +219,10 @@ know! Yes, to be sure!” And comes back enlightened.
 
 “I am not aware,” says Mr. Guppy, standing midway between my Lady and
 his chair, “whether your ladyship ever happened to hear of, or to
-see, a young lady of the name of Miss Esther Summerson.”
+see, a young lady of the name of Miss [[Esther Summerson]].”
 
 My Lady’s eyes look at him full. “I saw a young lady of that name not
-long ago. This past autumn.”
+long ago. This past [[Autumn|autumn]].”
 
 “Now, did it strike your ladyship that she was like anybody?” asks
 Mr. Guppy, crossing his arms, holding his head on one side, and
@@ -239,16 +239,16 @@ My Lady removes her eyes from him no more.
 “I think your ladyship,” says Mr. Guppy, “can hardly remember Miss
 Summerson’s face?”
 
-“I remember the young lady very well. What has this to do with me?”
+“I remember the young lady very [[Well|well]]. What has this to do with me?”
 
 “Your ladyship, I do assure you that having Miss Summerson’s image
 imprinted on my ’eart—which I mention in confidence—I found, when I
-had the honour of going over your ladyship’s mansion of Chesney Wold
+had the [[Honour|honour]] of going over your ladyship’s mansion of Chesney Wold
 while on a short out in the county of Lincolnshire with a friend,
-such a resemblance between Miss Esther Summerson and your ladyship’s
+such a resemblance between Miss [[Esther Summerson]] and your ladyship’s
 own portrait that it completely knocked me over, so much so that I
 didn’t at the moment even know what it WAS that knocked me over. And
-now I have the honour of beholding your ladyship near (I have often,
+now I have the [[Honour|honour]] of beholding your ladyship near (I have often,
 since that, taken the liberty of looking at your ladyship in your
 carriage in the park, when I dare say you was not aware of me, but I
 never saw your ladyship so near), it’s really more surprising than I
@@ -271,16 +271,16 @@ graceful ease than usual perhaps, and never falters in her steady
 gaze. “A—stop a minute, though!” Mr. Guppy refers again. “E.S.
 twice? Oh, yes! Yes, I see my way now, right on.”
 
-Rolling up the slip of paper as an instrument to point his speech
+[[rolling|Rolling]] up the slip of paper as an instrument to point his speech
 with, Mr. Guppy proceeds.
 
-“Your ladyship, there is a mystery about Miss Esther Summerson’s
+“Your ladyship, there is a mystery about Miss [[Esther Summerson]]’s
 birth and bringing up. I am informed of that fact because—which I
 mention in confidence—I know it in the way of my profession at Kenge
 and Carboy’s. Now, as I have already mentioned to your ladyship, Miss
 Summerson’s image is imprinted on my ’eart. If I could clear this
-mystery for her, or prove her to be well related, or find that having
-the honour to be a remote branch of your ladyship’s family she had a
+mystery for her, or prove her to be [[Well|well]] related, or find that having
+the [[Honour|honour]] to be a remote branch of your ladyship’s family she had a
 right to be made a party in Jarndyce and Jarndyce, why, I might make
 a sort of a claim upon Miss Summerson to look with an eye of more
 dedicated favour on my proposals than she has exactly done as yet. In
@@ -321,21 +321,21 @@ rather given to conversation—and my witness never had an idea
 whether she possessed a single relative. On one occasion, and only
 one, she seems to have been confidential to my witness on a single
 point, and she then told her that the little girl’s real name was not
-Esther Summerson, but Esther Hawdon.”
+[[Esther Summerson]], but Esther Hawdon.”
 
 “My God!”
 
-Mr. Guppy stares. Lady Dedlock sits before him looking him through,
+Mr. Guppy stares. [[Lady Dedlock]] sits before him looking him through,
 with the same dark shade upon her face, in the same attitude even to
 the holding of the screen, with her lips a little apart, her brow a
 little contracted, but for the moment dead. He sees her consciousness
-return, sees a tremor pass across her frame like a ripple over water,
+return, sees a tremor pass across her frame like a ripple over [[Water|water]],
 sees her lips shake, sees her compose them by a great effort, sees
 her force herself back to the knowledge of his presence and of what
 he has said. All this, so quickly, that her exclamation and her dead
 condition seem to have passed away like the features of those
 long-preserved dead bodies sometimes opened up in tombs, which,
-struck by the air like lightning, vanish in a breath.
+struck by the air like [[Lightning|lightning]], vanish in a breath.
 
 “Your ladyship is acquainted with the name of Hawdon?”
 
@@ -349,8 +349,8 @@ struck by the air like lightning, vanish in a breath.
 the case, so far as I have got it up. It’s going on, and I shall
 gather it up closer and closer as it goes on. Your ladyship must
 know—if your ladyship don’t happen, by any chance, to know
-already—that there was found dead at the house of a person named
-Krook, near Chancery Lane, some time ago, a law-writer in great
+already—that there was found dead at the [[house]] of a person named
+Krook, near Chancery Lane, some [[Time|time]] ago, a law-writer in great
 distress. Upon which law-writer there was an inquest, and which
 law-writer was an anonymous character, his name being unknown. But,
 your ladyship, I have discovered very lately that that law-writer’s
@@ -359,12 +359,12 @@ name was Hawdon.”
 “And what is THAT to me?”
 
 “Aye, your ladyship, that’s the question! Now, your ladyship, a queer
-thing happened after that man’s death. A lady started up, a disguised
+thing happened after that man’s [[Death|death]]. A lady started up, a disguised
 lady, your ladyship, who went to look at the scene of action and went
-to look at his grave. She hired a crossing-sweeping boy to show it
+to look at his [[Grave|grave]]. She hired a crossing-sweeping boy to show it
 her. If your ladyship would wish to have the boy produced in
 corroboration of this statement, I can lay my hand upon him at any
-time.”
+[[Time|time]].”
 
 The wretched boy is nothing to my Lady, and she does NOT wish to have
 him produced.
@@ -383,10 +383,10 @@ the young man of the name of Guppy.
 him by which he could be possibly identified. But he did. He left a
 bundle of old letters.”
 
-The screen still goes, as before. All this time her eyes never once
+The screen still goes, as before. All this [[Time|time]] her eyes never once
 release him.
 
-“They were taken and secreted. And to-morrow night, your ladyship,
+“They were taken and secreted. And to-morrow [[Night|night]], your ladyship,
 they will come into my possession.”
 
 “Still I ask you, what is this to me?”
@@ -396,12 +396,12 @@ there’s enough in this chain of circumstances put together—in the
 undoubted strong likeness of this young lady to your ladyship, which
 is a positive fact for a jury; in her having been brought up by Miss
 Barbary; in Miss Barbary stating Miss Summerson’s real name to be
-Hawdon; in your ladyship’s knowing both these names VERY WELL; and in
+Hawdon; in your ladyship’s knowing both these names VERY [[Well|WELL]]; and in
 Hawdon’s dying as he did—to give your ladyship a family interest in
 going further into the case, I will bring these papers here. I don’t
 know what they are, except that they are old letters: I have never
 had them in my possession yet. I will bring those papers here as soon
-as I get them and go over them for the first time with your ladyship.
+as I get them and go over them for the first [[Time|time]] with your ladyship.
 I have told your ladyship my object. I have told your ladyship that I
 should be placed in a very disagreeable situation if any complaint
 was made, and all is in strict confidence.”
@@ -415,7 +415,7 @@ telling anything.
 
 “You may bring the letters,” says my Lady, “if you choose.”
 
-“Your ladyship is not very encouraging, upon my word and honour,”
+“Your ladyship is not very encouraging, upon my word and [[Honour|honour]],”
 says Mr. Guppy, a little injured.
 
 “You may bring the letters,” she repeats in the same tone, “if
@@ -434,19 +434,19 @@ same.”
 
 So the young man makes his bow and goes downstairs, where the
 supercilious Mercury does not consider himself called upon to leave
-his Olympus by the hall-fire to let the young man out.
+his Olympus by the hall-[[Fire|fire]] to let the young man out.
 
 As Sir Leicester basks in his library and dozes over his newspaper,
-is there no influence in the house to startle him, not to say to make
+is there no influence in the [[house]] to startle him, not to say to make
 the very trees at Chesney Wold fling up their knotted arms, the very
 portraits frown, the very armour stir?
 
 No. Words, sobs, and cries are but air, and air is so shut in and
-shut out throughout the house in town that sounds need be uttered
+shut out throughout the [[house]] in town that sounds need be uttered
 trumpet-tongued indeed by my Lady in her chamber to carry any faint
-vibration to Sir Leicester’s ears; and yet this cry is in the house,
+vibration to Sir Leicester’s ears; and yet this cry is in the [[house]],
 going upward from a wild figure on its knees.
 
-“O my child, my child! Not dead in the first hours of her life, as my
+“O my [[Child|child]], my [[Child|child]]! Not dead in the first hours of her life, as my
 cruel sister told me, but sternly nurtured by her, after she had
-renounced me and my name! O my child, O my child!”
+renounced me and my name! O my [[Child|child]], O my [[Child|child]]!”

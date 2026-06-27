@@ -16,15 +16,15 @@ tags:
 
       along the sunken small veins of the eyelids. Through a species of
 
-      unutterable horror and awe, for which the language of mortality
+      unutterable horror and awe, for which the language of [[Mortality|mortality]]
 
       has no sufficiently energetic expression, I felt my heart cease
 
       to beat, my limbs grow rigid where I sat. Yet a sense of duty
 
-      finally operated to restore my self-possession. I could no longer
+      finally operated to restore my [[Self|self]]-possession. I could no longer
 
-      doubt that we had been precipitate in our preparations—that
+      [[Doubt|doubt]] that we had been precipitate in our preparations—that
 
       Rowena still lived. It was necessary that some immediate exertion
 
@@ -36,7 +36,7 @@ tags:
 
       for many minutes—and this I could not venture to do. I therefore
 
-      struggled alone in my endeavors to call back the spirit ill
+      struggled [[Alone|alone]] in my endeavors to call back the spirit ill
 
       hovering. In a short period it was certain, however, that a
 
@@ -46,9 +46,9 @@ tags:
 
       lips became doubly shrivelled and pinched up in the ghastly
 
-      expression of death; a repulsive clamminess and coldness
+      expression of [[Death|death]]; a repulsive clamminess and coldness
 
-      overspread rapidly the surface of the body; and all the usual
+      overspread rapidly the surface of the [[Body|body]]; and all the usual
 
       rigorous illness immediately supervened. I fell back with a
 
@@ -62,7 +62,7 @@ tags:
 
       An hour thus elapsed when (could it be possible?) I was a second
 
-      time aware of some vague sound issuing from the region of the
+      [[Time|time]] aware of some vague sound issuing from the region of the
 
       bed. I listened—in extremity of horror. The sound came again—it
 
@@ -74,7 +74,7 @@ tags:
 
       bosom with the profound awe which had hitherto reigned there
 
-      alone. I felt that my vision grew dim, that my reason wandered;
+      [[Alone|alone]]. I felt that my vision grew dim, that my reason wandered;
 
       and it was only by a violent effort that I at length succeeded in
 
@@ -96,7 +96,7 @@ tags:
 
       the pulsation ceased, the lips resumed the expression of the
 
-      dead, and, in an instant afterward, the whole body took upon
+      dead, and, in an instant afterward, the whole [[Body|body]] took upon
 
       itself the icy chilliness, the livid hue, the intense rigidity,
 
@@ -112,15 +112,15 @@ tags:
 
       sob from the region of the ebony bed. But why shall I minutely
 
-      detail the unspeakable horrors of that night? Why shall I pause
+      detail the unspeakable horrors of that [[Night|night]]? Why shall I pause
 
-      to relate how, time after time, until near the period of the gray
+      to relate how, [[Time|time]] after [[Time|time]], until near the period of the gray
 
-      dawn, this hideous drama of revivification was repeated; how each
+      [[Dawn|dawn]], this hideous drama of revivification was repeated; how each
 
       terrific relapse was only into a sterner and apparently more
 
-      irredeemable death; how each agony wore the aspect of a struggle
+      irredeemable [[Death|death]]; how each agony wore the aspect of a struggle
 
       with some invisible foe; and how each struggle was succeeded by I
 
@@ -130,7 +130,7 @@ tags:
 
 
 
-      The greater part of the fearful night had worn away, and she who
+      The greater part of the fearful [[Night|night]] had worn away, and she who
 
       had been dead, once again stirred—and now more vigorously than
 
@@ -152,17 +152,17 @@ tags:
 
       pressed heavily together, and that the bandages and draperies of
 
-      the grave still imparted their charnel character to the figure, I
+      the [[Grave|grave]] still imparted their charnel character to the figure, I
 
       might have dreamed that Rowena had indeed shaken off, utterly,
 
-      the fetters of Death. But if this idea was not, even then,
+      the fetters of [[Death]]. But if this idea was not, even then,
 
-      altogether adopted, I could at least doubt no longer, when,
+      altogether adopted, I could at least [[Doubt|doubt]] no longer, when,
 
       arising from the bed, tottering, with feeble steps, with closed
 
-      eyes, and with the manner of one bewildered in a dream, the thing
+      eyes, and with the manner of one bewildered in [[A Dream|a dream]], the thing
 
       that was enshrouded advanced boldly and palpably into the middle
 
@@ -184,16 +184,16 @@ tags:
 
       indeed be Rowena at all—the fair-haired, the blue-eyed Lady
 
-      Rowena Trevanion of Tremaine? Why, why should I doubt it? The
+      Rowena Trevanion of Tremaine? Why, why should I [[Doubt|doubt]] it? The
 
       bandage lay heavily about the mouth—but then might it not be the
 
       mouth of the breathing Lady of Tremaine? And the cheeks—there
 
-      were the roses as in her noon of life—yes, these might indeed be
+      were the roses as in her [[Noon|noon]] of life—yes, these might indeed be
 
       the fair cheeks of the living Lady of Tremaine. And the chin,
 
       with its dimples, as in health, might it not be hers?—but had she
 
-      then grown taller since her malady? What inexpressible madness
+      then grown taller since her malady? What inexpressible [[Madness|madness]]

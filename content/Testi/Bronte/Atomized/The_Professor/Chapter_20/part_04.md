@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 19 (part 4)"
+title: "[[The Professor]] — Chapter 19 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ saw, who it was; and, moving neither hand nor foot, I stood some moments
 
 enjoying the security of conviction. I had sought her for a month, and
 
-had never discovered one of her traces--never met a hope, or seized
+had never discovered one of her traces--never met a [[Hope|hope]], or seized
 
 a chance of encountering her anywhere. I had been forced to loosen my
 
@@ -32,7 +32,7 @@ bending suddenly earthward beneath the pressure of despondency--while
 
 following with my eyes the track of sorrow on the turf of a
 
-graveyard--here was my lost jewel dropped on the tear-fed herbage,
+graveyard--here was my lost [[Jewel|jewel]] dropped on the tear-fed herbage,
 
 nestling in the messy and mouldy roots of yew-trees.
 
@@ -40,15 +40,15 @@ nestling in the messy and mouldy roots of yew-trees.
 
 Frances sat very quiet, her elbow on her knee, and her head on her hand.
 
-I knew she could retain a thinking attitude a long time without change;
+I knew she could retain a thinking attitude a long [[Time|time]] without change;
 
 at last, a tear fell; she had been looking at the name on the
 
-stone before her, and her heart had no doubt endured one of those
+stone before her, and her heart had no [[Doubt|doubt]] endured one of those
 
 constrictions with which the desolate living, regretting the dead, are,
 
-at times, so sorely oppressed. Many tears rolled down, which she wiped
+at times, so sorely oppressed. Many [[Tears|tears]] rolled down, which she wiped
 
 away, again and again, with her handkerchief; some distressed sobs
 
@@ -62,11 +62,11 @@ indeed, might have startled her, but the contact of my quiet touch
 
 merely woke attention as I wished; and, though she turned quickly, yet
 
-so lightning-swift is thought--in some minds especially--I believe the
+so [[Lightning|lightning]]-swift is thought--in some minds especially--I believe the
 
-wonder of what--the consciousness of who it was that thus stole unawares
+[[Wonder|wonder]] of what--the consciousness of who it was that thus stole unawares
 
-on her solitude, had passed through her brain, and flashed into her
+on her [[Solitude|solitude]], had passed through her brain, and flashed into her
 
 heart, even before she had effected that hasty movement; at least,
 
@@ -78,27 +78,27 @@ surprise had hardly discomposed her features ere a sentiment of most
 
 vivid joy shone clear and warm on her whole countenance. I had hardly
 
-time to observe that she was wasted and pale, ere called to feel a
+[[Time|time]] to observe that she was wasted and pale, ere called to feel a
 
 responsive inward pleasure by the sense of most full and exquisite
 
 pleasure glowing in the animated flush, and shining in the expansive
 
-light, now diffused over my pupil’s face. It was the summer sun flashing
+light, now diffused over my pupil’s face. It was the [[Summer|summer]] sun flashing
 
-out after the heavy summer shower; and what fertilizes more rapidly than
+out after the heavy [[Summer|summer]] shower; and what fertilizes more rapidly than
 
-that beam, burning almost like fire in its ardour?
+that beam, burning almost like [[Fire|fire]] in its ardour?
 
 
 
 I hate boldness--that boldness which is of the brassy brow and insensate
 
-nerves; but I love the courage of the strong heart, the fervour of the
+nerves; but I [[Love|love]] the [[Courage|courage]] of the strong heart, the fervour of the
 
-generous blood; I loved with passion the light of Frances Evans’ clear
+generous [[Blood|blood]]; I loved with passion the light of Frances Evans’ clear
 
-hazel eye when it did not fear to look straight into mine; I loved the
+hazel eye when it did not [[Fear|fear]] to look straight into mine; I loved the
 
 tones with which she uttered the words--
 
@@ -116,31 +116,31 @@ charmless, for me a treasure--my best object of sympathy on earth,
 
 thinking such thoughts as I thought, feeling such feelings as I felt; my
 
-ideal of the shrine in which to seal my stores of love; personification
+ideal of the shrine in which to seal my stores of [[Love|love]]; personification
 
 of discretion and forethought, of diligence and perseverance, of
 
-self-denial and self-control--those guardians, those trusty keepers of
+[[Self|self]]-denial and [[Self|self]]-control--those guardians, those trusty keepers of
 
 the gift I longed to confer on her--the gift of all my affections;
 
-model of truth and honour, of independence and conscientiousness--those
+model of [[Truth|truth]] and [[Honour|honour]], of independence and conscientiousness--those
 
-refiners and sustainers of an honest life; silent possessor of a well
+refiners and sustainers of an honest life; silent possessor of a [[Well|well]]
 
 of tenderness, of a flame, as genial as still, as pure as quenchless,
 
 of natural feeling, natural passion--those sources of refreshment and
 
-comfort to the sanctuary of home. I knew how quietly and how deeply the
+comfort to the sanctuary of [[Home|home]]. I knew how quietly and how deeply the
 
-well bubbled in her heart; I knew how the more dangerous flame burned
+[[Well|well]] bubbled in her heart; I knew how the more dangerous flame burned
 
-safely under the eye of reason; I had seen when the fire shot up a
+safely under the eye of reason; I had seen when the [[Fire|fire]] shot up a
 
 moment high and vivid, when the accelerated heat troubled life’s current
 
-in its channels; I had seen reason reduce the rebel, and humble its
+in its channels; I had seen reason reduce the [[Rebel|rebel]], and humble its
 
 blaze to embers. I had confidence in Frances Evans; I had respect
 
@@ -148,13 +148,13 @@ for her, and as I drew her arm through mine, and led her out of the
 
 cemetery, I felt I had another sentiment, as strong as confidence, as
 
-firm as respect, more fervid than either--that of love.
+firm as respect, more fervid than either--that of [[Love|love]].
 
 
 
-“Well, my pupil,” said I, as the ominous sounding gate swung to behind
+“[[Well]], my pupil,” said I, as the ominous sounding gate swung to behind
 
-us--“Well, I have found you again: a month’s search has seemed long,
+us--“[[Well]], I have found you again: a month’s search has seemed long,
 
 and I little thought to have discovered my lost sheep straying amongst
 
@@ -188,7 +188,7 @@ troubles ought to have made me forget it.”
 
 “Yes, a fortnight since, and she died full of regret, which I could not
 
-chase from her mind; she kept repeating, even during the last night
+chase from her mind; she kept repeating, even during the last [[Night|night]]
 
 of her existence, ‘Frances, you will be so lonely when I am gone,
 
@@ -206,7 +206,7 @@ was forced to lay her here.”
 
 
 
-“She was ill but a short time, I presume?”
+“She was ill but a short [[Time|time]], I presume?”
 
 
 
@@ -220,4 +220,4 @@ to stay with her and wait on her; I readily got leave.”
 
 
 
-“Monsieur, when I had been at home a week Mdlle. Reuter called one
+“Monsieur, when I had been at [[Home|home]] a week Mdlle. Reuter called one

@@ -20,7 +20,7 @@ tags:
 
       to the ceiling, a complete chaos of almost every species of
 
-      ship-furniture, together with a heterogeneous medley of crates,
+      [[Ship|ship]]-furniture, together with a heterogeneous medley of crates,
 
       hampers, barrels, and bales, so that it seemed a matter no less
 
@@ -42,11 +42,11 @@ tags:
 
       interior, at which I was excessively amused. A mattress from one
 
-      of the cabin berths covered the whole of its bottom, and it
+      of the cabin berths covered the whole of its [[Bottom|bottom]], and it
 
       contained almost every article of mere comfort which could be
 
-      crowded into so small a space, allowing me, at the same time,
+      crowded into so small a space, allowing me, at the same [[Time|time]],
 
       sufficient room for my accommodation, either in a sitting
 
@@ -54,7 +54,7 @@ tags:
 
       some books, pen, ink, and paper, three blankets, a large jug full
 
-      of water, a keg of sea-biscuit, three or four immense Bologna
+      of [[Water|water]], a keg of sea-biscuit, three or four immense Bologna
 
       sausages, an enormous ham, a cold leg of roast mutton, and half a
 
@@ -110,7 +110,7 @@ tags:
 
       coming down to me. At length I heard the trap open and shut, and
 
-      presently he called in a low voice, asking if all was well, and
+      presently he called in a low voice, asking if all was [[Well|well]], and
 
       if there was any thing I wanted. “Nothing,” I replied; “I am as
 
@@ -118,11 +118,11 @@ tags:
 
       under weigh in less than half an hour,” he answered. “I came to
 
-      let you know, and for fear you should be uneasy at my absence. I
+      let you know, and for [[Fear|fear]] you should be uneasy at my absence. I
 
       shall not have a chance of coming down again for some
 
-      time—perhaps for three or four days more. All is going on right
+      [[Time|time]]—perhaps for three or four days more. All is going on right
 
       aboveboard. After I go up and close the trap, do you creep along
 
@@ -130,7 +130,7 @@ tags:
 
       watch there—it may be useful to you, as you have no daylight to
 
-      keep time by. I suppose you can’t tell how long you have been
+      keep [[Time|time]] by. I suppose you can’t tell how long you have been
 
       buried—only three days—this is the twentieth. I would bring the
 
@@ -162,13 +162,13 @@ tags:
 
       of a former position. At length I reached the nail, and securing
 
-      the object of my journey, returned with it in safety. I now
+      the object of my [[Journey|journey]], returned with it in safety. I now
 
       looked over the books which had been so thoughtfully provided,
 
       and selected the expedition of Lewis and Clarke to the mouth of
 
-      the Columbia. With this I amused myself for some time, when,
+      the Columbia. With this I amused myself for some [[Time|time]], when,
 
       growing sleepy, I extinguished the light with great care, and
 
@@ -176,7 +176,7 @@ tags:
 
 
 
-      Upon awakening I felt strangely confused in mind, and some time
+      Upon awakening I felt strangely confused in mind, and some [[Time|time]]
 
       elapsed before I could bring to recollection all the various
 
@@ -192,7 +192,7 @@ tags:
 
       almost ravenous appetite, I bethought myself of the cold mutton,
 
-      some of which I had eaten just before going to sleep, and found
+      some of which I had eaten just before going to [[Sleep|sleep]], and found
 
       excellent. What was my astonishment in discovering it to be in a
 

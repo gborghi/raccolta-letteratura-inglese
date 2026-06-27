@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 19 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 19 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,15 +24,15 @@ Edward remained a week at the cottage; he was earnestly pressed by Mrs.
 
 Dashwood to stay longer; but, as if he were bent only on
 
-self-mortification, he seemed resolved to be gone when his enjoyment
+[[Self|self]]-mortification, he seemed resolved to be gone when his enjoyment
 
 among his friends was at the height. His spirits, during the last two
 
 or three days, though still very unequal, were greatly improved—he grew
 
-more and more partial to the house and environs—never spoke of going
+more and more partial to the [[house]] and environs—never spoke of going
 
-away without a sigh—declared his time to be wholly disengaged—even
+away without a sigh—declared his [[Time|time]] to be wholly disengaged—even
 
 doubted to what place he should go when he left them—but still, go he
 
@@ -44,13 +44,13 @@ marked the turn of his feelings and gave the lie to his actions. He had
 
 no pleasure at Norland; he detested being in town; but either to
 
-Norland or London, he must go. He valued their kindness beyond any
+Norland or [[London]], he must go. He valued their kindness beyond any
 
 thing, and his greatest happiness was in being with them. Yet, he must
 
 leave them at the end of a week, in spite of their wishes and his own,
 
-and without any restraint on his time.
+and without any restraint on his [[Time|time]].
 
 
 
@@ -64,7 +64,7 @@ for every thing strange on the part of her son. Disappointed, however,
 
 and vexed as she was, and sometimes displeased with his uncertain
 
-behaviour to herself, she was very well disposed on the whole to regard
+behaviour to herself, she was very [[Well|well]] disposed on the whole to regard
 
 his actions with all the candid allowances and generous qualifications,
 
@@ -82,7 +82,7 @@ in leaving them, originated in the same fettered inclination, the same
 
 inevitable necessity of temporizing with his mother. The old
 
-well-established grievance of duty against will, parent against child,
+[[Well|well]]-established grievance of duty against will, parent against [[Child|child]],
 
 was the cause of all. She would have been glad to know when these
 
@@ -106,11 +106,11 @@ his finger.
 
 last morning, “you would be a happier man if you had any profession to
 
-engage your time and give an interest to your plans and actions. Some
+engage your [[Time|time]] and give an interest to your plans and actions. Some
 
 inconvenience to your friends, indeed, might result from it—you would
 
-not be able to give them so much of your time. But (with a smile) you
+not be able to give them so much of your [[Time|time]]. But (with a smile) you
 
 would be materially benefited in one particular at least—you would know
 
@@ -158,7 +158,7 @@ young man of eighteen is not in general so earnestly bent on being busy
 
 as to resist the solicitations of his friends to do nothing. I was
 
-therefore entered at Oxford and have been properly idle ever since.”
+therefore entered at [[Oxford]] and have been properly idle ever since.”
 
 
 
@@ -182,17 +182,17 @@ every thing.”
 
 “Come, come; this is all an effusion of immediate want of spirits,
 
-Edward. You are in a melancholy humour, and fancy that any one unlike
+Edward. You are in a [[Melancholy|melancholy]] [[Humour|humour]], and fancy that any one unlike
 
-yourself must be happy. But remember that the pain of parting from
+yourself must be happy. But remember that the [[Pain|pain]] of parting from
 
-friends will be felt by every body at times, whatever be their
+friends will be felt by every [[Body|body]] at times, whatever be their
 
-education or state. Know your own happiness. You want nothing but
+[[Education|education]] or state. Know your own happiness. You want nothing but
 
-patience—or give it a more fascinating name, call it hope. Your mother
+patience—or give it a more fascinating name, call it [[Hope|hope]]. Your mother
 
-will secure to you, in time, that independence you are so anxious for;
+will secure to you, in [[Time|time]], that independence you are so anxious for;
 
 it is her duty, and it will, it must ere long become her happiness to
 
@@ -210,8 +210,8 @@ good to me.”
 
 This desponding turn of mind, though it could not be communicated to
 
-Mrs. Dashwood, gave additional pain to them all in the parting, which
+Mrs. Dashwood, gave additional [[Pain|pain]] to them all in the parting, which
 
 shortly took place, and left an uncomfortable impression on Elinor’s
 
-feelings especially, which required some trouble and time to subdue.
+feelings especially, which required some trouble and [[Time|time]] to subdue.

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 24"
+title: "[[Pride and Prejudice]] — Chapter 24"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -19,20 +19,20 @@ CHAPTER XXIV.
 
 [Illustration]
 
-Miss Bingley’s letter arrived, and put an end to doubt. The very first
-sentence conveyed the assurance of their being all settled in London for
-the winter, and concluded with her brother’s regret at not having had
-time to pay his respects to his friends in Hertfordshire before he left
+Miss Bingley’s letter arrived, and put an end to [[Doubt|doubt]]. The very first
+sentence conveyed the assurance of their being all settled in [[London]] for
+the [[Winter|winter]], and concluded with her brother’s regret at not having had
+[[Time|time]] to pay his respects to his friends in Hertfordshire before he left
 the country.
 
-Hope was over, entirely over; and when Jane could attend to the rest of
+[[Hope]] was over, entirely over; and when Jane could attend to the rest of
 the letter, she found little, except the professed affection of the
 writer, that could give her any comfort. Miss Darcy’s praise occupied
 the chief of it. Her many attractions were again dwelt on; and Caroline
 boasted joyfully of their increasing intimacy, and ventured to predict
 the accomplishment of the wishes which had been unfolded in her former
 letter. She wrote also with great pleasure of her brother’s being an
-inmate of Mr. Darcy’s house, and mentioned with raptures some plans of
+inmate of Mr. Darcy’s [[house]], and mentioned with raptures some plans of
 the latter with regard to new furniture.
 
 Elizabeth, to whom Jane very soon communicated the chief of all this,
@@ -56,24 +56,24 @@ escaped his observation; whichever were the case, though her opinion of
 him must be materially affected by the difference, her sister’s
 situation remained the same, her peace equally wounded.
 
-A day or two passed before Jane had courage to speak of her feelings to
+A day or two passed before Jane had [[Courage|courage]] to speak of her feelings to
 Elizabeth; but at last, on Mrs. Bennet’s leaving them together, after a
 longer irritation than usual about Netherfield and its master, she could
 not help saying,--
 
 “O that my dear mother had more command over herself! she can have no
-idea of the pain she gives me by her continual reflections on him. But I
+idea of the [[Pain|pain]] she gives me by her continual reflections on him. But I
 will not repine. It cannot last long. He will be forgot, and we shall
 all be as we were before.”
 
 Elizabeth looked at her sister with incredulous solicitude, but said
 nothing.
 
-“You doubt me,” cried Jane, slightly colouring; “indeed, you have no
-reason. He may live in my memory as the most amiable man of my
-acquaintance but that is all. I have nothing either to hope or fear, and
-nothing to reproach him with. Thank God I have not _that_ pain. A little
-time, therefore--I shall certainly try to get the better----”
+“You [[Doubt|doubt]] me,” cried Jane, slightly colouring; “indeed, you have no
+reason. He may live in my [[Memory|memory]] as the most amiable man of my
+acquaintance but that is all. I have nothing either to [[Hope|hope]] or [[Fear|fear]], and
+nothing to reproach him with. Thank God I have not _that_ [[Pain|pain]]. A little
+[[Time|time]], therefore--I shall certainly try to get the better----”
 
 With a stronger voice she soon added, “I have this comfort immediately,
 that it has not been more than an error of fancy on my side, and that it
@@ -92,12 +92,12 @@ world respectable, and are hurt if I speak ill of anybody. _I_ only want
 to think _you_ perfect, and you set yourself against it. Do not be
 afraid of my running into any excess, of my encroaching on your
 privilege of universal good-will. You need not. There are few people
-whom I really love, and still fewer of whom I think well. The more I see
+whom I really [[Love|love]], and still fewer of whom I think [[Well|well]]. The more I see
 of the world the more am I dissatisfied with it; and every day confirms
 my belief of the inconsistency of all human characters, and of the
 little dependence that can be placed on the appearance of either merit
 or sense. I have met with two instances lately: one I will not mention,
-the other is Charlotte’s marriage. It is unaccountable! in every view it
+the other is Charlotte’s [[Marriage|marriage]]. It is unaccountable! in every view it
 is unaccountable!”
 
 “My dear Lizzy, do not give way to such feelings as these. They will
@@ -112,23 +112,23 @@ regard and esteem for our cousin.”
 could be benefited by such a belief as this; for were I persuaded that
 Charlotte had any regard for him, I should only think worse of her
 understanding than I now do of her heart. My dear Jane, Mr. Collins is a
-conceited, pompous, narrow-minded, silly man: you know he is, as well as
-I do; and you must feel, as well as I do, that the woman who marries him
+conceited, pompous, narrow-minded, silly man: you know he is, as [[Well|well]] as
+I do; and you must feel, as [[Well|well]] as I do, that the woman who marries him
 cannot have a proper way of thinking. You shall not defend her, though
-it is Charlotte Lucas. You shall not, for the sake of one individual,
+it is [[Charlotte Lucas]]. You shall not, for the sake of one individual,
 change the meaning of principle and integrity, nor endeavour to persuade
 yourself or me, that selfishness is prudence, and insensibility of
 danger security for happiness.”
 
 “I must think your language too strong in speaking of both,” replied
-Jane; “and I hope you will be convinced of it, by seeing them happy
+Jane; “and I [[Hope|hope]] you will be convinced of it, by seeing them happy
 together. But enough of this. You alluded to something else. You
 mentioned _two_ instances. I cannot misunderstand you, but I entreat
-you, dear Lizzy, not to pain me by thinking _that person_ to blame, and
+you, dear Lizzy, not to [[Pain|pain]] me by thinking _that person_ to blame, and
 saying your opinion of him is sunk. We must not be so ready to fancy
 ourselves intentionally injured. We must not expect a lively young man
 to be always so guarded and circumspect. It is very often nothing but
-our own vanity that deceives us. Women fancy admiration means more than
+our own [[Vanity|vanity]] that deceives us. Women fancy admiration means more than
 it does.”
 
 “And men take care that they should.”
@@ -158,11 +158,11 @@ secure it.”
 “Your first position is false. They may wish many things besides his
 happiness: they may wish his increase of wealth and consequence; they
 may wish him to marry a girl who has all the importance of money, great
-connections, and pride.”
+connections, and [[Pride|pride]].”
 
-“Beyond a doubt they do wish him to choose Miss Darcy,” replied Jane;
+“Beyond a [[Doubt|doubt]] they do wish him to choose Miss Darcy,” replied Jane;
 “but this may be from better feelings than you are supposing. They have
-known her much longer than they have known me; no wonder if they love
+known her much longer than they have known me; no [[Wonder|wonder]] if they [[Love|love]]
 her better. But, whatever may be their own wishes, it is very unlikely
 they should have opposed their brother’s. What sister would think
 herself at liberty to do it, unless there were something very
@@ -174,25 +174,25 @@ mistaken--or, at least, it is slight, it is nothing in comparison of
 what I should feel in thinking ill of him or his sisters. Let me take it
 in the best light, in the light in which it may be understood.”
 
-Elizabeth could not oppose such a wish; and from this time Mr. Bingley’s
+Elizabeth could not oppose such a wish; and from this [[Time|time]] Mr. Bingley’s
 name was scarcely ever mentioned between them.
 
-Mrs. Bennet still continued to wonder and repine at his returning no
+Mrs. Bennet still continued to [[Wonder|wonder]] and repine at his returning no
 more; and though a day seldom passed in which Elizabeth did not account
 for it clearly, there seemed little chance of her ever considering it
 with less perplexity. Her daughter endeavoured to convince her of what
 she did not believe herself, that his attentions to Jane had been merely
 the effect of a common and transient liking, which ceased when he saw
 her no more; but though the probability of the statement was admitted at
-the time, she had the same story to repeat every day. Mrs. Bennet’s best
-comfort was, that Mr. Bingley must be down again in the summer.
+the [[Time|time]], she had the same story to repeat every day. Mrs. Bennet’s best
+comfort was, that Mr. Bingley must be down again in the [[Summer|summer]].
 
 Mr. Bennet treated the matter differently. “So, Lizzy,” said he, one
-day, “your sister is crossed in love, I find. I congratulate her. Next
-to being married, a girl likes to be crossed in love a little now and
+day, “your sister is crossed in [[Love|love]], I find. I congratulate her. Next
+to being married, a girl likes to be crossed in [[Love|love]] a little now and
 then. It is something to think of, and gives her a sort of distinction
 among her companions. When is your turn to come? You will hardly bear to
-be long outdone by Jane. Now is your time. Here are officers enough at
+be long outdone by Jane. Now is your [[Time|time]]. Here are officers enough at
 Meryton to disappoint all the young ladies in the country. Let Wickham
 be your man. He is a pleasant fellow, and would jilt you creditably.”
 

@@ -15,68 +15,68 @@ tags:
 
 
 The same, of course, is true of the colossal architecture which we
-call infant education:  an architecture reared wholly by women.
+call infant [[Education|education]]:  an architecture reared wholly by women.
 Nothing can ever overcome that one enormous sex superiority, that even
-the male child is born closer to his mother than to his father.
+the male [[Child|child]] is born closer to his mother than to his father.
 No one, staring at that frightful female privilege, can quite
 believe in the equality of the sexes.  Here and there we read
 of a girl brought up like a tom-boy; but every boy is brought up
 like a tame girl.  The flesh and spirit of femininity surround
-him from the first like the four walls of a house; and even
+him from the first like the four walls of a [[house]]; and even
 the vaguest or most brutal man has been womanized by being born.
 Man that is born of a woman has short days and full of misery;
-but nobody can picture the obscenity and bestial tragedy that would
-belong to such a monster as man that was born of a man.
+but nobody can picture the obscenity and bestial [[Tragedy|tragedy]] that would
+belong to such a [[Monster|monster]] as man that was born of a man.
 
 * * *
 
 XI
 
-THE QUEEN AND THE SUFFRAGETTES
+THE [[Queen|QUEEN]] AND THE SUFFRAGETTES
 
 But, indeed, with this educational matter I must of necessity embroil
 myself later.  The fourth section of discussion is supposed to be
-about the child, but I think it will be mostly about the mother.
+about the [[Child|child]], but I think it will be mostly about the mother.
 In this place I have systematically insisted on the large part
 of life that is governed, not by man with his vote, but by woman
-with her voice, or more often, with her horrible silence.
+with her voice, or more often, with her horrible [[Silence|silence]].
 Only one thing remains to be added.  In a sprawling and explanatory style
-has been traced out the idea that government is ultimately coercion,
-that coercion must mean cold definitions as well as cruel consequences,
+has been traced out the idea that [[government]] is ultimately coercion,
+that coercion must mean cold definitions as [[Well|well]] as cruel consequences,
 and that therefore there is something to be said for the old human habit
 of keeping one-half of humanity out of so harsh and dirty a business.
 But the case is stronger still.
 
 Voting is not only coercion, but collective coercion.
-I think Queen Victoria would have been yet more popular and satisfying
-if she had never signed a death warrant.  I think Queen Elizabeth
-would have stood out as more solid and splendid in history if she
-had not earned (among those who happen to know her history)
+I think [[Queen]] Victoria would have been yet more popular and satisfying
+if she had never signed a [[Death|death]] warrant.  I think [[Queen Elizabeth]]
+would have stood out as more solid and splendid in [[history]] if she
+had not earned (among those who happen to know her [[history]])
 the nickname of Bloody Bess.  I think, in short, that the great historic
 woman is more herself when she is persuasive rather than coercive.
 But I feel all mankind behind me when I say that if a woman has
 this power it should be despotic power--not democratic power.
 There is a much stronger historic argument for giving Miss Pankhurst
-a throne than for giving her a vote.  She might have a crown,
+a throne than for giving her a vote.  She might have a [[Crown|crown]],
 or at least a coronet, like so many of her supporters;
 for these old powers are purely personal and therefore female.
-Miss Pankhurst as a despot might be as virtuous as Queen Victoria,
-and she certainly would find it difficult to be as wicked as Queen Bess,
+Miss Pankhurst as a despot might be as virtuous as [[Queen]] Victoria,
+and she certainly would find it difficult to be as wicked as [[Queen]] Bess,
 but the point is that, good or bad, she would be irresponsible--
 she would not be governed by a rule and by a ruler.
 There are only two ways of governing:  by a rule and by a ruler.
-And it is seriously true to say of a woman, in education and domesticity,
-that the freedom of the autocrat appears to be necessary to her.
+And it is seriously true to say of a woman, in [[Education|education]] and domesticity,
+that the [[Freedom|freedom]] of the autocrat appears to be necessary to her.
 She is never responsible until she is irresponsible.
 In case this sounds like an idle contradiction, I confidently
-appeal to the cold facts of history.  Almost every despotic
+appeal to the cold facts of [[history]].  Almost every despotic
 or oligarchic state has admitted women to its privileges.
 Scarcely one democratic state has ever admitted them to its rights
 The reason is very simple:  that something female is endangered
 much more by the violence of the crowd.  In short, one Pankhurst
-is an exception, but a thousand Pankhursts are a nightmare,
+is an exception, but a thousand Pankhursts are a [[nightmare]],
 a Bacchic orgie, a Witches Sabbath.  For in all legends men have
-thought of women as sublime separately but horrible in a herd.
+thought of women as [[Sublime|sublime]] separately but horrible in a herd.
 
 * * *
 
@@ -92,36 +92,36 @@ in a limited area; and still thinking that she would be none
 the worse for a ballot paper.  The real question is whether this
 old ideal of woman as the great amateur is admitted or not.
 There are many modern things which threaten it much more
-than suffragism; notably the increase of self-supporting women,
+than suffragism; notably the increase of [[Self|self]]-supporting women,
 even in the most severe or the most squalid employments.
-If there be something against nature in the idea of a horde
+If there be something against [[Nature|nature]] in the idea of a horde
 of wild women governing, there is something truly intolerable
 in the idea of a herd of tame women being governed.
 And there are elements in human psychology that make
 this situation particularly poignant or ignominous.
-The ugly exactitudes of business, the bells and clocks the fixed
+The ugly exactitudes of business, [[The Bells|the bells]] and clocks the fixed
 hours and rigid departments, were all meant for the male:
 who, as a rule, can only do one thing and can only with the greatest
 difficulty be induced to do that.  If clerks do not try to shirk
 their work, our whole great commercial system breaks down.
 It is breaking down, under the inroad of women who are adopting
 the unprecedented and impossible course of taking the system
-seriously and doing it well.  Their very efficiency is
-the definition of their slavery.  It is generally a very bad
+seriously and doing it [[Well|well]].  Their very efficiency is
+the definition of their [[Slavery|slavery]].  It is generally a very bad
 sign when one is trusted very much by one's employers.
 And if the evasive clerks have a look of being blackguards,
 the earnest ladies are often something very like blacklegs.
 But the more immediate point is that the modern working woman bears
-a double burden, for she endures both the grinding officialism
-of the new office and the distracting scrupulosity of the old home.
+a [[Double|double]] burden, for she endures both the grinding officialism
+of the new office and the distracting scrupulosity of the old [[Home|home]].
 Few men understand what conscientiousness is.  They understand duty,
 which generally means one duty; but conscientiousness is
 the duty of the universalist.  It is limited by no work days
 or holidays; it is a lawless, limitless, devouring decorum.
 If women are to be subjected to the dull rule of commerce,
 we must find some way of emancipating them from the wild
-rule of conscience.  But I rather fancy you will find it
-easier to leave the conscience and knock off the commerce.
+rule of [[Conscience|conscience]].  But I rather fancy you will find it
+easier to leave the [[Conscience|conscience]] and knock off the commerce.
 As it is, the modern clerk or secretary exhausts herself to put
-one thing straight in the ledger and then goes home to put
-everything straight in the house.
+one thing straight in the ledger and then goes [[Home|home]] to put
+everything straight in the [[house]].

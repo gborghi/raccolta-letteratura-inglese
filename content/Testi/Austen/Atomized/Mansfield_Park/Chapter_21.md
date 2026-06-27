@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 21"
+title: "[[Mansfield Park]] — Chapter 21"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -18,21 +18,21 @@ CHAPTER XXI
 
 
 Sir Thomas’s return made a striking change in the ways of the family,
-independent of Lovers’ Vows. Under his government, Mansfield was an
+independent of [[lovers|Lovers]]’ Vows. Under his [[government]], Mansfield was an
 altered place. Some members of their society sent away, and the spirits
 of many others saddened—it was all sameness and gloom compared with the
 past—a sombre family party rarely enlivened. There was little
 intercourse with the Parsonage. Sir Thomas, drawing back from
-intimacies in general, was particularly disinclined, at this time, for
+intimacies in general, was particularly disinclined, at this [[Time|time]], for
 any engagements but in one quarter. The Rushworths were the only
 addition to his own domestic circle which he could solicit.
 
-Edmund did not wonder that such should be his father’s feelings, nor
+[[Edmund]] did not [[Wonder|wonder]] that such should be his father’s feelings, nor
 could he regret anything but the exclusion of the Grants. “But they,”
 he observed to Fanny, “have a claim. They seem to belong to us; they
 seem to be part of ourselves. I could wish my father were more sensible
 of their very great attention to my mother and sisters while he was
-away. I am afraid they may feel themselves neglected. But the truth is,
+away. I am afraid they may feel themselves neglected. But the [[Truth|truth]] is,
 that my father hardly knows them. They had not been here a twelvemonth
 when he left England. If he knew them better, he would value their
 society as it deserves; for they are in fact exactly the sort of people
@@ -45,13 +45,13 @@ pass away with more enjoyment even to my father.”
 _any_ addition. I think he values the very quietness you speak of, and
 that the repose of his own family circle is all he wants. And it does
 not appear to me that we are more serious than we used to be—I mean
-before my uncle went abroad. As well as I can recollect, it was always
+before my uncle went abroad. As [[Well|well]] as I can recollect, it was always
 much the same. There was never much laughing in his presence; or, if
 there is any difference, it is not more, I think, than such an absence
 has a tendency to produce at first. There must be a sort of shyness;
 but I cannot recollect that our evenings formerly were ever merry,
 except when my uncle was in town. No young people’s are, I suppose,
-when those they look up to are at home”.
+when those they look up to are at [[Home|home]]”.
 
 “I believe you are right, Fanny,” was his reply, after a short
 consideration. “I believe our evenings are rather returned to what they
@@ -60,7 +60,7 @@ lively. Yet, how strong the impression that only a few weeks will give!
 I have been feeling as if we had never lived so before.”
 
 “I suppose I am graver than other people,” said Fanny. “The evenings do
-not appear long to me. I love to hear my uncle talk of the West Indies.
+not appear long to me. I [[Love|love]] to hear my uncle talk of the West Indies.
 I could listen to him for an hour together. It entertains _me_ more
 than many other things have done; but then I am unlike other people, I
 dare say.”
@@ -71,14 +71,14 @@ But when did you, or anybody, ever get a compliment from me, Fanny? Go
 to my father if you want to be complimented. He will satisfy you. Ask
 your uncle what he thinks, and you will hear compliments enough: and
 though they may be chiefly on your person, you must put up with it, and
-trust to his seeing as much beauty of mind in time.”
+trust to his seeing as much [[Beauty|beauty]] of mind in [[Time|time]].”
 
 Such language was so new to Fanny that it quite embarrassed her.
 
 “Your uncle thinks you very pretty, dear Fanny—and that is the long and
 the short of the matter. Anybody but myself would have made something
 more of it, and anybody but you would resent that you had not been
-thought very pretty before; but the truth is, that your uncle never did
+thought very pretty before; but the [[Truth|truth]] is, that your uncle never did
 admire you till now—and now he does. Your complexion is so
 improved!—and you have gained so much countenance!—and your figure—nay,
 Fanny, do not turn away about it—it is but an uncle. If you cannot bear
@@ -95,12 +95,12 @@ only wish you would talk to him more. You are one of those who are too
 silent in the evening circle.”
 
 “But I do talk to him more than I used. I am sure I do. Did not you
-hear me ask him about the slave-trade last night?”
+hear me ask him about the slave-trade last [[Night|night]]?”
 
 “I did—and was in hopes the question would be followed up by others. It
 would have pleased your uncle to be inquired of farther.”
 
-“And I longed to do it—but there was such a dead silence! And while my
+“And I longed to do it—but there was such a dead [[Silence|silence]]! And while my
 cousins were sitting by without speaking a word, or seeming at all
 interested in the subject, I did not like—I thought it would appear as
 if I wanted to set myself off at their expense, by shewing a curiosity
@@ -116,13 +116,13 @@ She certainly understands _you_ better than you are understood by the
 greater part of those who have known you so long; and with regard to
 some others, I can perceive, from occasional lively hints, the
 unguarded expressions of the moment, that she could define _many_ as
-accurately, did not delicacy forbid it. I wonder what she thinks of my
+accurately, did not delicacy forbid it. I [[Wonder|wonder]] what she thinks of my
 father! She must admire him as a fine-looking man, with most
 gentlemanlike, dignified, consistent manners; but perhaps, having seen
 him so seldom, his reserve may be a little repulsive. Could they be
 much together, I feel sure of their liking each other. He would enjoy
 her liveliness and she has talents to value his powers. I wish they met
-more frequently! I hope she does not suppose there is any dislike on
+more frequently! I [[Hope|hope]] she does not suppose there is any dislike on
 his side.”
 
 “She must know herself too secure of the regard of all the rest of
@@ -130,12 +130,12 @@ you,” said Fanny, with half a sigh, “to have any such apprehension. And
 Sir Thomas’s wishing just at first to be only with his family, is so
 very natural, that she can argue nothing from that. After a little
 while, I dare say, we shall be meeting again in the same sort of way,
-allowing for the difference of the time of year.”
+allowing for the difference of the [[Time|time]] of year.”
 
 “This is the first October that she has passed in the country since her
 infancy. I do not call Tunbridge or Cheltenham the country; and
 November is a still more serious month, and I can see that Mrs. Grant
-is very anxious for her not finding Mansfield dull as winter comes on.”
+is very anxious for her not finding Mansfield dull as [[Winter|winter]] comes on.”
 
 Fanny could have said a great deal, but it was safer to say nothing,
 and leave untouched all Miss Crawford’s resources—her accomplishments,
@@ -145,7 +145,7 @@ opinion of herself deserved at least a grateful forbearance, and she
 began to talk of something else.
 
 “To-morrow, I think, my uncle dines at Sotherton, and you and Mr.
-Bertram too. We shall be quite a small party at home. I hope my uncle
+[[Bertram]] too. We shall be quite a small party at [[Home|home]]. I [[Hope|hope]] my uncle
 may continue to like Mr. Rushworth.”
 
 “That is impossible, Fanny. He must like him less after to-morrow’s
@@ -153,17 +153,17 @@ visit, for we shall be five hours in his company. I should dread the
 stupidity of the day, if there were not a much greater evil to
 follow—the impression it must leave on Sir Thomas. He cannot much
 longer deceive himself. I am sorry for them all, and would give
-something that Rushworth and Maria had never met.”
+something that Rushworth and [[Maria]] had never met.”
 
 In this quarter, indeed, disappointment was impending over Sir Thomas.
 Not all his good-will for Mr. Rushworth, not all Mr. Rushworth’s
 deference for him, could prevent him from soon discerning some part of
-the truth—that Mr. Rushworth was an inferior young man, as ignorant in
+the [[Truth|truth]]—that Mr. Rushworth was an inferior young man, as ignorant in
 business as in books, with opinions in general unfixed, and without
 seeming much aware of it himself.
 
 He had expected a very different son-in-law; and beginning to feel
-grave on Maria’s account, tried to understand _her_ feelings. Little
+[[Grave|grave]] on [[Maria]]’s account, tried to understand _her_ feelings. Little
 observation there was necessary to tell him that indifference was the
 most favourable state they could be in. Her behaviour to Mr. Rushworth
 was careless and cold. She could not, did not like him. Sir Thomas
@@ -177,35 +177,35 @@ With solemn kindness Sir Thomas addressed her: told her his fears,
 inquired into her wishes, entreated her to be open and sincere, and
 assured her that every inconvenience should be braved, and the
 connexion entirely given up, if she felt herself unhappy in the
-prospect of it. He would act for her and release her. Maria had a
+prospect of it. He would act for her and release her. [[Maria]] had a
 moment’s struggle as she listened, and only a moment’s: when her father
 ceased, she was able to give her answer immediately, decidedly, and
 with no apparent agitation. She thanked him for his great attention,
 his paternal kindness, but he was quite mistaken in supposing she had
-the smallest desire of breaking through her engagement, or was sensible
+the smallest [[Desire|desire]] of breaking through her engagement, or was sensible
 of any change of opinion or inclination since her forming it. She had
 the highest esteem for Mr. Rushworth’s character and disposition, and
-could not have a doubt of her happiness with him.
+could not have a [[Doubt|doubt]] of her happiness with him.
 
 Sir Thomas was satisfied; too glad to be satisfied, perhaps, to urge
 the matter quite so far as his judgment might have dictated to others.
-It was an alliance which he could not have relinquished without pain;
+It was an alliance which he could not have relinquished without [[Pain|pain]];
 and thus he reasoned. Mr. Rushworth was young enough to improve. Mr.
-Rushworth must and would improve in good society; and if Maria could
+Rushworth must and would improve in good society; and if [[Maria]] could
 now speak so securely of her happiness with him, speaking certainly
-without the prejudice, the blindness of love, she ought to be believed.
+without the prejudice, the blindness of [[Love|love]], she ought to be believed.
 Her feelings, probably, were not acute; he had never supposed them to
 be so; but her comforts might not be less on that account; and if she
 could dispense with seeing her husband a leading, shining character,
-there would certainly be everything else in her favour. A well-disposed
-young woman, who did not marry for love, was in general but the more
+there would certainly be everything else in her favour. A [[Well|well]]-disposed
+young woman, who did not marry for [[Love|love]], was in general but the more
 attached to her own family; and the nearness of Sotherton to Mansfield
-must naturally hold out the greatest temptation, and would, in all
-probability, be a continual supply of the most amiable and innocent
+must naturally hold out the greatest [[Temptation|temptation]], and would, in all
+probability, be a continual supply of the most amiable and [[Innocent|innocent]]
 enjoyments. Such and such-like were the reasonings of Sir Thomas, happy
-to escape the embarrassing evils of a rupture, the wonder, the
+to escape the embarrassing evils of a rupture, the [[Wonder|wonder]], the
 reflections, the reproach that must attend it; happy to secure a
-marriage which would bring him such an addition of respectability and
+[[Marriage|marriage]] which would bring him such an addition of respectability and
 influence, and very happy to think anything of his daughter’s
 disposition that was most favourable for the purpose.
 
@@ -218,18 +218,18 @@ determined only to behave more cautiously to Mr. Rushworth in future,
 that her father might not be again suspecting her.
 
 Had Sir Thomas applied to his daughter within the first three or four
-days after Henry Crawford’s leaving Mansfield, before her feelings were
-at all tranquillised, before she had given up every hope of him, or
+days after [[Henry Crawford]]’s leaving Mansfield, before her feelings were
+at all tranquillised, before she had given up every [[Hope|hope]] of him, or
 absolutely resolved on enduring his rival, her answer might have been
 different; but after another three or four days, when there was no
-return, no letter, no message, no symptom of a softened heart, no hope
+return, no letter, no message, no symptom of a softened heart, no [[Hope|hope]]
 of advantage from separation, her mind became cool enough to seek all
-the comfort that pride and self revenge could give.
+the comfort that [[Pride|pride]] and [[Self|self]] [[Revenge|revenge]] could give.
 
-Henry Crawford had destroyed her happiness, but he should not know that
+[[Henry Crawford]] had destroyed her happiness, but he should not know that
 he had done it; he should not destroy her credit, her appearance, her
 prosperity, too. He should not have to think of her as pining in the
-retirement of Mansfield for _him_, rejecting Sotherton and London,
+retirement of Mansfield for _him_, rejecting Sotherton and [[London]],
 independence and splendour, for _his_ sake. Independence was more
 needful than ever; the want of it at Mansfield more sensibly felt. She
 was less and less able to endure the restraint which her father
@@ -241,12 +241,12 @@ varied not.
 
 To such feelings delay, even the delay of much preparation, would have
 been an evil, and Mr. Rushworth could hardly be more impatient for the
-marriage than herself. In all the important preparations of the mind
-she was complete: being prepared for matrimony by an hatred of home,
+[[Marriage|marriage]] than herself. In all the important preparations of the mind
+she was complete: being prepared for matrimony by an hatred of [[Home|home]],
 restraint, and tranquillity; by the misery of disappointed affection,
 and contempt of the man she was to marry. The rest might wait. The
-preparations of new carriages and furniture might wait for London and
-spring, when her own taste could have fairer play.
+preparations of new carriages and furniture might wait for [[London]] and
+[[spring]], when her own taste could have fairer play.
 
 The principals being all agreed in this respect, it soon appeared that
 a very few weeks would be sufficient for such arrangements as must
@@ -267,7 +267,7 @@ stood with salts in her hand, expecting to be agitated; her aunt tried
 to cry; and the service was impressively read by Dr. Grant. Nothing
 could be objected to when it came under the discussion of the
 neighbourhood, except that the carriage which conveyed the bride and
-bridegroom and Julia from the church-door to Sotherton was the same
+bridegroom and [[Julia]] from the church-door to Sotherton was the same
 chaise which Mr. Rushworth had used for a twelvemonth before. In
 everything else the etiquette of the day might stand the strictest
 investigation.
@@ -285,24 +285,24 @@ smallest insight into the disposition of the niece who had been brought
 up under her eye.
 
 The plan of the young couple was to proceed, after a few days, to
-Brighton, and take a house there for some weeks. Every public place was
-new to Maria, and Brighton is almost as gay in winter as in summer.
-When the novelty of amusement there was over, it would be time for the
-wider range of London.
+Brighton, and take a [[house]] there for some weeks. Every public place was
+new to [[Maria]], and Brighton is almost as gay in [[Winter|winter]] as in [[Summer|summer]].
+When the novelty of amusement there was over, it would be [[Time|time]] for the
+wider range of [[London]].
 
-Julia was to go with them to Brighton. Since rivalry between the
+[[Julia]] was to go with them to Brighton. Since rivalry between the
 sisters had ceased, they had been gradually recovering much of their
 former good understanding; and were at least sufficiently friends to
-make each of them exceedingly glad to be with the other at such a time.
+make each of them exceedingly glad to be with the other at such a [[Time|time]].
 Some other companion than Mr. Rushworth was of the first consequence to
-his lady; and Julia was quite as eager for novelty and pleasure as
-Maria, though she might not have struggled through so much to obtain
+his lady; and [[Julia]] was quite as eager for novelty and pleasure as
+[[Maria]], though she might not have struggled through so much to obtain
 them, and could better bear a subordinate situation.
 
 Their departure made another material change at Mansfield, a chasm
-which required some time to fill up. The family circle became greatly
+which required some [[Time|time]] to fill up. The family circle became greatly
 contracted; and though the Miss Bertrams had latterly added little to
 its gaiety, they could not but be missed. Even their mother missed
 them; and how much more their tenderhearted cousin, who wandered about
-the house, and thought of them, and felt for them, with a degree of
+the [[house]], and thought of them, and felt for them, with a degree of
 affectionate regret which they had never done much to deserve!

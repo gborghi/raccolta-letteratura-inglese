@@ -17,8 +17,8 @@ tags:
 A Sermon on Cheapness
 
 
-It is really time that the absurd pretence of the vices to be
-romantic were given up.  Ever since the time of Byron there has
+It is really [[Time|time]] that the absurd pretence of the vices to be
+romantic were given up.  Ever since the [[Time|time]] of Byron there has
 been vague and foolish conception clinging to all men's minds
 that there is some connection between lawlessness and poetry,
 between orderly images and disorderly acts.  A thousand instances
@@ -27,31 +27,31 @@ blasphemy has been regarded as something bold and splendid,
 as if the very essence of blasphemy were not the commonplace.
 It is the very definition of profanity that it thinks and speaks
 of certain things prosaically, which other men think and speak
-of poetically.  It is thus a defeat of the imagination,
+of poetically.  It is thus a defeat of the [[Imagination|imagination]],
 and a volume full of the wildest pictures and most impious jests
 remains in its essential character a piece of poor literalism,
-a humdrum affair.  The same general truth might be pursued
+a humdrum affair.  The same general [[Truth|truth]] might be pursued
 through all the Ten Commandments.  Murder, for instance,
 is quite overrated, aesthetically.  I am assured by persons on whose
 judgment I rely, and whose experience has, presumably, been wide,
 that the feelings of a murderer are of a quite futile character.
-What could be stupider than kicking to pieces, like a child, a machine
+What could be stupider than kicking to pieces, like a [[Child|child]], a [[Machine|machine]]
 you know nothing about, the variety and ingenuity of which should
-keep any imaginative person watching it delightedly day and night?
-Say we are acquainted with such a human machine; let us say,
+keep any imaginative person watching it delightedly day and [[Night|night]]?
+Say we are acquainted with such a human [[Machine|machine]]; let us say,
 a rich uncle.  A human engine is inexhaustible in its possibilities;
 however long and unrewarding has been our knowledge of the
-avuncular machine, we never know that the very moment that we lift
-the assassin's knife the machine is not about to grind forth some
-exquisite epigram which it would make life worth living to hear,
+avuncular [[Machine|machine]], we never know that the very moment that we lift
+the assassin's knife the [[Machine|machine]] is not about to grind forth some
+exquisite [[Epigram|epigram]] which it would make life worth living to hear,
 or even, by some spasm of internal clockwork, produce a cheque.
 To kill him is clearly prosaic.  Alive, he is a miracle;
 dead, he is merely a debris, a debris of unpleasant gore and quite
 inappropriate and old-fashioned clothes.  Objection is sometimes
 brought against the absolute legal and medical doctrine that life
 should under all circumstances and at all costs be kept burning.
-It may or may not be moral and humane but there can be no doubt
-of its impressiveness as a purely poetical ideal.  It is the desire,
+It may or may not be moral and humane but there can be no [[Doubt|doubt]]
+of its impressiveness as a purely poetical ideal.  It is the [[Desire|desire]],
 so natural in an imaginative man of science, to preserve the only
 thing that can really be of any interest to anyone.
 
@@ -60,14 +60,14 @@ of the general fact of the mean and matter-of-fact character
 of the vices, the wild and thrilling character of the virtues.
 Many other examples might be taken of the raptures
 and roses of virtue, the lilies and languors of vice.
-But an example, stranger both in its truth and in its
+But an example, stranger both in its [[Truth|truth]] and in its
 unfamiliarity than any other, chiefly occupies my mind.
 Of all the conventional virtues there is none that is so completely
 despised by the aesthetic and Bohemian philosophers as economy.
 It is represented as the very meanest of human standards,
 a merit for cowards and greasy burgesses, a thing that is
 even base when it is a virtue and dull when it is a vice.
-But in truth there is no quality so truly romantic as economy.
+But in [[Truth|truth]] there is no quality so truly romantic as economy.
 
 Economy is essentially imaginative because it is a realisation of
 the value of everything.  The real objection to murder, aesthetically
@@ -100,10 +100,10 @@ so transparent and canting a plea as the notion that there
 is anything artistic or romantic in being extravagant.
 The man who does not look at his change is no true poet.
 To give away a penny deliberately is indeed one of the highest
-triumphs of imagination:  it means that the giver can realise
+triumphs of [[Imagination|imagination]]:  it means that the giver can realise
 the meaning of the existence of some ragged family herded
-in the lairs of East London.  But to throw away a penny
-is sheer lack of imagination; it means that the giver cannot
+in the lairs of East [[London]].  But to throw away a penny
+is sheer lack of [[Imagination|imagination]]; it means that the giver cannot
 realise even the meaning of a penny.  It means that he forgets
 the first and most thrilling of all the lessons of the universe,
 the lessons of every seed and germ, the lesson of the infinite
@@ -115,7 +115,7 @@ useful at the first glance; the French cottager turns
 those rags and bones into exquisite and civilised dishes.
 Economy is only another name for universalism; the true poet regards
 every earthly object as having some value and secret utility--
-with the possible exception of a dust-cart. The old romance
+with the possible exception of a [[Dust|dust]]-cart. The old [[Romance|romance]]
 of life was held to consist in expense--in the jewels and perfumes
 of the `Arabian Nights', in the cushion and cigars of Ouida.
 The newer and truer romance will be the romance of cheapness.
@@ -142,14 +142,14 @@ adventures for strange and ideal characters.  And all this blue river
 of dreams is loosened by a halfpenny.'
 
 The Pessimist replied, in his sad, stern way, `Drivel. It is only
-the blue chalk you buy for a halfpenny.  You do not buy the stars
+the blue [[chalk]] you buy for a halfpenny.  You do not buy the [[Stars|stars]]
 for a halfpenny; you do not buy the streets for a halfpenny;
-you do not buy your dreams or your love of drawing or your tastes
+you do not buy your [[Dreams|dreams]] or your [[Love|love]] of drawing or your tastes
 and imaginations for a halfpenny.'
 
-`True,' I replied.  `The stars and the dreams and myself are cheaper
-than chalk:  for I bought them for nothing.'
+`True,' I replied.  `The [[Stars|stars]] and the [[Dreams|dreams]] and myself are cheaper
+than [[chalk]]:  for I bought them for nothing.'
 
-He burst into tears and became immediately convinced of the basis
+He burst into [[Tears|tears]] and became immediately convinced of the basis
 of true religion.  For our very word for God means Economy:
-is not improvidence the opposite of Providence?
+is not improvidence the opposite of [[Providence]]?

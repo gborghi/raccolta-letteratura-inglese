@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 19 (part 7)"
+title: "[[The Professor]] — Chapter 19 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ from which you were dismissed by Mdlle. Reuter?”
 
 “No, monsieur; I have made inquiries everywhere, but they all ask me
 
-for references; and to speak truth, I do not like to apply to the
+for references; and to speak [[Truth|truth]], I do not like to apply to the
 
 directress, because I consider she acted neither justly nor honourably
 
@@ -46,11 +46,11 @@ I will never more ask a favour.”
 
 
 
-“I have still my lace-mending trade; with care it will keep me from
+“I have still my lace-[[mending]] trade; with care it will keep me from
 
-starvation, and I doubt not by dint of exertion to get better employment
+starvation, and I [[Doubt|doubt]] not by dint of exertion to get better employment
 
-yet; it is only a fortnight since I began to try; my courage or hopes
+yet; it is only a fortnight since I began to try; my [[Courage|courage]] or hopes
 
 are by no means worn out yet.”
 
@@ -60,13 +60,13 @@ are by no means worn out yet.”
 
 
 
-“To save enough to cross the Channel: I always look to England as my
+“To save enough to [[Cross|cross]] the Channel: I always look to England as my
 
 Canaan.”
 
 
 
-“Well, well--ere long I shall pay you another visit; good evening now,”
+“[[Well]], [[Well|well]]--ere long I shall pay you another visit; good evening now,”
 
  and I left her rather abruptly; I had much ado to resist a strong inward
 
@@ -120,7 +120,7 @@ of working up the subdued excitement a little higher, she would at last
 
 raise her eyes and give me a certain glance, sweetened with gaiety, and
 
-pointed with defiance, which, to speak truth, thrilled me as nothing had
+pointed with defiance, which, to speak [[Truth|truth]], thrilled me as nothing had
 
 ever done, and made me, in a fashion (though happily she did not know
 
@@ -130,7 +130,7 @@ would maintain their flow, often for some hours, and, as I remarked
 
 before, her health therefrom took a sustenance and vigour which,
 
-previously to the event of her aunt’s death and her dismissal, had
+previously to the event of her aunt’s [[Death|death]] and her dismissal, had
 
 almost recreated her whole frame.
 
@@ -148,19 +148,19 @@ impossible to carry them away with me; difficult to force them back
 
 on their original owner; I had now seen her in her own humble abode,
 
-witnessed the dignity of her poverty, the pride of order, the fastidious
+witnessed the dignity of her [[Poverty|poverty]], the [[Pride|pride]] of order, the fastidious
 
 care of conservatism, obvious in the arrangement and economy of her
 
-little home; I was sure she would not suffer herself to be excused
+little [[Home|home]]; I was sure she would not suffer herself to be excused
 
 paying her debts; I was certain the favour of indemnity would be
 
 accepted from no hand, perhaps least of all from mine: yet these four
 
-five-franc pieces were a burden to my self-respect, and I must get
+five-franc pieces were a burden to my [[Self|self]]-respect, and I must get
 
-rid of them. An expedient--a clumsy one no doubt, but the best I
+rid of them. An expedient--a clumsy one no [[Doubt|doubt]], but the best I
 
 could devise-suggested itself to me. I darted up the stairs, knocked,
 
@@ -174,7 +174,7 @@ here.”
 
 
 
-She instantly rose to seek it; as she turned her back, I--being now
+She instantly [[Rose|rose]] to seek it; as she turned her back, I--being now
 
 at the hearth--noiselessly lifted a little vase, one of a set of china
 
@@ -186,19 +186,19 @@ good evening, mademoiselle,” I made my second exit.
 
 
 
-Brief as my impromptu return had been, it had afforded me time to pick
+Brief as my impromptu return had been, it had afforded me [[Time|time]] to pick
 
 up a heart-ache; I remarked that Frances had already removed the red
 
-embers of her cheerful little fire from the grate: forced to calculate
+embers of her cheerful little [[Fire|fire]] from the grate: forced to calculate
 
 every item, to save in every detail, she had instantly on my departure
 
-retrenched a luxury too expensive to be enjoyed alone.
+retrenched a luxury too expensive to be enjoyed [[Alone|alone]].
 
 
 
-“I am glad it is not yet winter,” thought I; “but in two months more
+“I am glad it is not yet [[Winter|winter]],” thought I; “but in two months more
 
 come the winds and rains of November; would to God that before then I
 
@@ -210,7 +210,7 @@ LIBITUM!”
 
 Already the pavement was drying; a balmy and fresh breeze stirred the
 
-air, purified by lightning; I felt the West behind me, where spread a
+air, purified by [[Lightning|lightning]]; I felt the West behind me, where spread a
 
 sky like opal; azure immingled with crimson: the enlarged sun, glorious
 
@@ -222,13 +222,13 @@ evening rainbow; a perfect rainbow--high, wide, vivid. I looked long;
 
 my eye drank in the scene, and I suppose my brain must have absorbed
 
-it; for that night, after lying awake in pleasant fever a long time,
+it; for that [[Night|night]], after lying awake in pleasant fever a long [[Time|time]],
 
-watching the silent sheet-lightning, which still played among the
+watching the silent sheet-[[Lightning|lightning]], which still played among the
 
-retreating clouds, and flashed silvery over the stars, I at last fell
+retreating clouds, and flashed silvery over the [[Stars|stars]], I at last fell
 
-asleep; and then in a dream were reproduced the setting sun, the bank of
+asleep; and then in [[A Dream|a dream]] were reproduced the setting sun, the bank of
 
 clouds, the mighty rainbow. I stood, methought, on a terrace; I leaned
 
@@ -240,7 +240,7 @@ sea; sea spread to the horizon; sea of changeful green and intense
 
 blue: all was soft in the distance; all vapour-veiled. A spark of gold
 
-glistened on the line between water and air, floated up, approached,
+glistened on the line between [[Water|water]] and air, floated up, approached,
 
 enlarged, changed; the object hung midway between heaven and earth,
 
@@ -258,4 +258,4 @@ bow overhead, and a voice in my heart whispered--
 
 
 
-“Hope smiles on Effort!”
+“[[Hope]] smiles on Effort!”

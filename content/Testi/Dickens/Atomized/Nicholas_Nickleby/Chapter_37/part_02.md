@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 37 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 37 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -19,7 +19,7 @@ morning when he first took possession of the vacant stool, and looked
 about him, more freely and at ease, than he had before enjoyed an
 opportunity of doing. Perhaps they encouraged and stimulated him to
 exertion, for, during the next two weeks, all his spare hours, late at
-night and early in the morning, were incessantly devoted to acquiring
+[[Night|night]] and early in the morning, were incessantly devoted to acquiring
 the mysteries of book-keeping and some other forms of mercantile
 account. To these, he applied himself with such steadiness and
 perseverance that, although he brought no greater amount of previous
@@ -28,12 +28,12 @@ very long sums entered into a ciphering-book at school, and relieved for
 parental inspection by the effigy of a fat swan tastefully flourished
 by the writing-master’s own hand, he found himself, at the end of a
 fortnight, in a condition to report his proficiency to Mr. Linkinwater,
-and to claim his promise that he, Nicholas Nickleby, should now be
+and to claim his promise that he, [[Nicholas Nickleby]], should now be
 allowed to assist him in his graver labours.
 
 It was a sight to behold Tim Linkinwater slowly bring out a massive
 ledger and day-book, and, after turning them over and over, and
-affectionately dusting their backs and sides, open the leaves here and
+affectionately dusting their backs and sides, open the [[Leaves|leaves]] here and
 there, and cast his eyes, half mournfully, half proudly, upon the fair
 and unblotted entries.
 
@@ -45,7 +45,7 @@ Tim closed the book again.
 ‘Come, come,’ said Nicholas, ‘I am all impatience to begin.’
 
 Tim Linkinwater shook his head with an air of mild reproof. Mr. Nickleby
-was not sufficiently impressed with the deep and awful nature of his
+was not sufficiently impressed with the deep and awful [[Nature|nature]] of his
 undertaking. Suppose there should be any mistake--any scratching out!
 
 Young men are adventurous. It is extraordinary what they will rush upon,
@@ -58,16 +58,16 @@ Brothers!
 
 Tim Linkinwater turned pale, and tilting up his stool on the two legs
 nearest Nicholas, looked over his shoulder in breathless anxiety.
-Brother Charles and brother Ned entered the counting-house together; but
+Brother Charles and brother Ned entered the counting-[[house]] together; but
 Tim Linkinwater, without looking round, impatiently waved his hand as a
-caution that profound silence must be observed, and followed the nib of
+caution that profound [[Silence|silence]] must be observed, and followed the nib of
 the inexperienced pen with strained and eager eyes.
 
 The brothers looked on with smiling faces, but Tim Linkinwater smiled
 not, nor moved for some minutes. At length, he drew a long slow breath,
 and still maintaining his position on the tilted stool, glanced at
 brother Charles, secretly pointed with the feather of his pen towards
-Nicholas, and nodded his head in a grave and resolute manner, plainly
+Nicholas, and nodded his head in a [[Grave|grave]] and resolute manner, plainly
 signifying ‘He’ll do.’
 
 Brother Charles nodded again, and exchanged a laughing look with brother
@@ -78,19 +78,19 @@ descended from his stool, and caught him rapturously by the hand.
 ‘He has done it!’ said Tim, looking round at his employers and shaking
 his head triumphantly. ‘His capital B’s and D’s are exactly like mine;
 he dots all his small i’s and crosses every t as he writes it. There
-an’t such a young man as this in all London,’ said Tim, clapping
-Nicholas on the back; ‘not one. Don’t tell me! The city can’t produce
-his equal. I challenge the city to do it!’
+an’t such a young man as this in all [[London]],’ said Tim, clapping
+Nicholas on the back; ‘not one. Don’t tell me! The [[City|city]] can’t produce
+his equal. I challenge the [[City|city]] to do it!’
 
 With this casting down of his gauntlet, Tim Linkinwater struck the desk
 such a blow with his clenched fist, that the old blackbird tumbled off
 his perch with the start it gave him, and actually uttered a feeble
 croak, in the extremity of his astonishment.
 
-‘Well said, Tim--well said, Tim Linkinwater!’ cried brother Charles,
+‘[[Well]] said, Tim--[[Well|well]] said, Tim Linkinwater!’ cried brother Charles,
 scarcely less pleased than Tim himself, and clapping his hands gently
 as he spoke. ‘I knew our young friend would take great pains, and I was
-quite certain he would succeed, in no time. Didn’t I say so, brother
+quite certain he would succeed, in no [[Time|time]]. Didn’t I say so, brother
 Ned?’
 
 ‘You did, my dear brother; certainly, my dear brother, you said so, and
@@ -105,13 +105,13 @@ thought of what would become of these books when I was gone? Do you
 suppose I haven’t often thought that things might go on irregular and
 untidy here, after I was taken away? But now,’ said Tim, extending his
 forefinger towards Nicholas, ‘now, when I’ve shown him a little more,
-I’m satisfied. The business will go on, when I’m dead, as well as it did
+I’m satisfied. The business will go on, when I’m dead, as [[Well|well]] as it did
 when I was alive--just the same--and I shall have the satisfaction of
 knowing that there never were such books--never were such books! No, nor
-never will be such books--as the books of Cheeryble Brothers.’
+never will be such books--as the books of [[Cheeryble Brothers]].’
 
 Having thus expressed his sentiments, Mr. Linkinwater gave vent to
-a short laugh, indicative of defiance to the cities of London and
+a short laugh, indicative of defiance to the cities of [[London]] and
 Westminster, and, turning again to his desk, quietly carried seventy-six
 from the last column he had added up, and went on with his work.
 

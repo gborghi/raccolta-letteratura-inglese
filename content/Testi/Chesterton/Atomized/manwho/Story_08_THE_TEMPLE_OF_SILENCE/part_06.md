@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE TEMPLE OF  SILENCE (part 6)"
+title: "[[manwho]] — THE TEMPLE OF  [[Silence|SILENCE]] (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -18,7 +18,7 @@ was as wrong as being a thief. It seems to me against the whole
 
 normal notion of property that a man should own something because it
 
-flies across his garden. He might as well own the wind, or think he
+flies across his [[Garden|garden]]. He might as [[Well|well]] own the [[Wind|wind]], or think he
 
 could write his name on a morning cloud. Besides, if we want poor
 
@@ -112,7 +112,7 @@ With that he turned his back, evidently resolved to say no more, and
 
 walked past the temple to the extreme end of the islet, where he
 
-stood staring into the water. Fisher followed him, but, when his
+stood staring into the [[Water|water]]. Fisher followed him, but, when his
 
 repeated questions evoked no answer, turned back toward the shore.
 
@@ -156,7 +156,7 @@ married his second wife for her money. (3) Long Adam says the estate
 
 is really his. (4) Long Adam hangs round the island temple, which
 
-looks like a prison. (5) Squire Hawker was not poor when he gave up
+looks like a [[Prison|prison]]. (5) Squire Hawker was not poor when he gave up
 
 the estate. (6) Verner was poor when he got the estate."
 
@@ -166,13 +166,13 @@ He gazed at these notes with a gravity which gradually turned to a
 
 hard smile, threw away his cigarette, and resumed his search for a
 
-short cut to the great house. He soon picked up the path which,
+short cut to the [[Great House|great house]]. He soon picked up the path which,
 
 winding among clipped hedges and flower beds, brought him in front
 
 of its long Palladian facade. It had the usual appearance of being,
 
-not a private house, but a sort of public building sent into exile
+not a private [[house]], but a sort of public building sent into [[Exile|exile]]
 
 in the provinces.
 
@@ -226,7 +226,7 @@ that his name was Franz Werner.
 
 
 
-"No, thank you," replied Fisher.  "I fear this is not a friendly
+"No, thank you," replied Fisher.  "I [[Fear|fear]] this is not a friendly
 
 occasion, and I shall remain standing. Possibly you know that I am
 

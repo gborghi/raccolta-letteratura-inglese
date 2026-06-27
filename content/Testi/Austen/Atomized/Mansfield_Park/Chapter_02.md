@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 2"
+title: "[[Mansfield Park]] — Chapter 2"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,27 +17,27 @@ tags:
 CHAPTER II
 
 
-The little girl performed her long journey in safety; and at
+The little girl performed her long [[Journey|journey]] in safety; and at
 Northampton was met by Mrs. Norris, who thus regaled in the credit of
 being foremost to welcome her, and in the importance of leading her in
 to the others, and recommending her to their kindness.
 
-Fanny Price was at this time just ten years old, and though there might
+[[Fanny Price]] was at this [[Time|time]] just ten years old, and though there might
 not be much in her first appearance to captivate, there was, at least,
 nothing to disgust her relations. She was small of her age, with no
-glow of complexion, nor any other striking beauty; exceedingly timid
+glow of complexion, nor any other striking [[Beauty|beauty]]; exceedingly timid
 and shy, and shrinking from notice; but her air, though awkward, was
 not vulgar, her voice was sweet, and when she spoke her countenance was
-pretty. Sir Thomas and Lady Bertram received her very kindly; and Sir
+pretty. Sir Thomas and Lady [[Bertram]] received her very kindly; and Sir
 Thomas, seeing how much she needed encouragement, tried to be all that
 was conciliating: but he had to work against a most untoward gravity of
-deportment; and Lady Bertram, without taking half so much trouble, or
+deportment; and Lady [[Bertram]], without taking half so much trouble, or
 speaking one word where he spoke ten, by the mere aid of a
 good-humoured smile, became immediately the less awful character of the
 two.
 
-The young people were all at home, and sustained their share in the
-introduction very well, with much good humour, and no embarrassment, at
+The young people were all at [[Home|home]], and sustained their share in the
+introduction very [[Well|well]], with much good [[Humour|humour]], and no embarrassment, at
 least on the part of the sons, who, at seventeen and sixteen, and tall
 of their age, had all the grandeur of men in the eyes of their little
 cousin. The two girls were more at a loss from being younger and in
@@ -48,41 +48,41 @@ confidence increasing from their cousin’s total want of it, they were
 soon able to take a full survey of her face and her frock in easy
 indifference.
 
-They were a remarkably fine family, the sons very well-looking, the
-daughters decidedly handsome, and all of them well-grown and forward of
+They were a remarkably fine family, the sons very [[Well|well]]-looking, the
+daughters decidedly handsome, and all of them [[Well|well]]-grown and forward of
 their age, which produced as striking a difference between the cousins
-in person, as education had given to their address; and no one would
+in person, as [[Education|education]] had given to their address; and no one would
 have supposed the girls so nearly of an age as they really were. There
-were in fact but two years between the youngest and Fanny. Julia
-Bertram was only twelve, and Maria but a year older. The little visitor
+were in fact but two years between the youngest and Fanny. [[Julia]]
+[[Bertram]] was only twelve, and [[Maria]] but a year older. The little visitor
 meanwhile was as unhappy as possible. Afraid of everybody, ashamed of
-herself, and longing for the home she had left, she knew not how to
+herself, and [[Longing|longing]] for the [[Home|home]] she had left, she knew not how to
 look up, and could scarcely speak to be heard, or without crying. Mrs.
 Norris had been talking to her the whole way from Northampton of her
 wonderful good fortune, and the extraordinary degree of gratitude and
 good behaviour which it ought to produce, and her consciousness of
 misery was therefore increased by the idea of its being a wicked thing
-for her not to be happy. The fatigue, too, of so long a journey, became
-soon no trifling evil. In vain were the well-meant condescensions of
+for her not to be happy. The fatigue, too, of so long a [[Journey|journey]], became
+soon no trifling evil. In vain were the [[Well|well]]-meant condescensions of
 Sir Thomas, and all the officious prognostications of Mrs. Norris that
-she would be a good girl; in vain did Lady Bertram smile and make her
+she would be a good girl; in vain did Lady [[Bertram]] smile and make her
 sit on the sofa with herself and pug, and vain was even the sight of a
-gooseberry tart towards giving her comfort; she could scarcely swallow
-two mouthfuls before tears interrupted her, and sleep seeming to be her
+gooseberry tart towards giving her comfort; she could scarcely [[Swallow|swallow]]
+two mouthfuls before [[Tears|tears]] interrupted her, and [[Sleep|sleep]] seeming to be her
 likeliest friend, she was taken to finish her sorrows in bed.
 
 “This is not a very promising beginning,” said Mrs. Norris, when Fanny
 had left the room. “After all that I said to her as we came along, I
 thought she would have behaved better; I told her how much might depend
-upon her acquitting herself well at first. I wish there may not be a
+upon her acquitting herself [[Well|well]] at first. I wish there may not be a
 little sulkiness of temper—her poor mother had a good deal; but we must
-make allowances for such a child—and I do not know that her being sorry
-to leave her home is really against her, for, with all its faults, it
-_was_ her home, and she cannot as yet understand how much she has
+make allowances for such a [[Child|child]]—and I do not know that her being sorry
+to leave her [[Home|home]] is really against her, for, with all its faults, it
+_was_ her [[Home|home]], and she cannot as yet understand how much she has
 changed for the better; but then there is moderation in all things.”
 
-It required a longer time, however, than Mrs. Norris was inclined to
-allow, to reconcile Fanny to the novelty of Mansfield Park, and the
+It required a longer [[Time|time]], however, than Mrs. Norris was inclined to
+allow, to reconcile Fanny to the novelty of [[Mansfield Park]], and the
 separation from everybody she had been used to. Her feelings were very
 acute, and too little understood to be properly attended to. Nobody
 meant to be unkind, but nobody put themselves out of their way to
@@ -90,52 +90,52 @@ secure her comfort.
 
 The holiday allowed to the Miss Bertrams the next day, on purpose to
 afford leisure for getting acquainted with, and entertaining their
-young cousin, produced little union. They could not but hold her cheap
+young cousin, produced little [[Union|union]]. They could not but hold her cheap
 on finding that she had but two sashes, and had never learned French;
 and when they perceived her to be little struck with the duet they were
 so good as to play, they could do no more than make her a generous
 present of some of their least valued toys, and leave her to herself,
 while they adjourned to whatever might be the favourite holiday sport
-of the moment, making artificial flowers or wasting gold paper.
+of the moment, making artificial [[Flowers|flowers]] or wasting gold paper.
 
 Fanny, whether near or from her cousins, whether in the schoolroom, the
 drawing-room, or the shrubbery, was equally forlorn, finding something
-to fear in every person and place. She was disheartened by Lady
-Bertram’s silence, awed by Sir Thomas’s grave looks, and quite overcome
+to [[Fear|fear]] in every person and place. She was disheartened by Lady
+[[Bertram]]’s [[Silence|silence]], awed by Sir Thomas’s [[Grave|grave]] looks, and quite overcome
 by Mrs. Norris’s admonitions. Her elder cousins mortified her by
 reflections on her size, and abashed her by noticing her shyness: Miss
 Lee wondered at her ignorance, and the maid-servants sneered at her
 clothes; and when to these sorrows was added the idea of the brothers
 and sisters among whom she had always been important as playfellow,
-instructress, and nurse, the despondence that sunk her little heart was
+instructress, and [[Nurse|nurse]], the despondence that sunk her little heart was
 severe.
 
-The grandeur of the house astonished, but could not console her. The
+The grandeur of the [[house]] astonished, but could not console her. The
 rooms were too large for her to move in with ease: whatever she touched
 she expected to injure, and she crept about in constant terror of
 something or other; often retreating towards her own chamber to cry;
 and the little girl who was spoken of in the drawing-room when she left
-it at night as seeming so desirably sensible of her peculiar good
-fortune, ended every day’s sorrows by sobbing herself to sleep. A week
+it at [[Night|night]] as seeming so desirably sensible of her peculiar good
+fortune, ended every day’s sorrows by sobbing herself to [[Sleep|sleep]]. A week
 had passed in this way, and no suspicion of it conveyed by her quiet
-passive manner, when she was found one morning by her cousin Edmund,
+passive manner, when she was found one morning by her cousin [[Edmund]],
 the youngest of the sons, sitting crying on the attic stairs.
 
 “My dear little cousin,” said he, with all the gentleness of an
-excellent nature, “what can be the matter?” And sitting down by her, he
+excellent [[Nature|nature]], “what can be the matter?” And sitting down by her, he
 was at great pains to overcome her shame in being so surprised, and
 persuade her to speak openly. Was she ill? or was anybody angry with
-her? or had she quarrelled with Maria and Julia? or was she puzzled
+her? or had she quarrelled with [[Maria]] and [[Julia]]? or was she puzzled
 about anything in her lesson that he could explain? Did she, in short,
 want anything he could possibly get her, or do for her? For a long
 while no answer could be obtained beyond a “no, no—not at all—no, thank
 you”; but he still persevered; and no sooner had he begun to revert to
-her own home, than her increased sobs explained to him where the
+her own [[Home|home]], than her increased sobs explained to him where the
 grievance lay. He tried to console her.
 
 “You are sorry to leave Mama, my dear little Fanny,” said he, “which
 shows you to be a very good girl; but you must remember that you are
-with relations and friends, who all love you, and wish to make you
+with relations and friends, who all [[Love|love]] you, and wish to make you
 happy. Let us walk out in the park, and you shall tell me all about
 your brothers and sisters.”
 
@@ -172,32 +172,32 @@ as your uncle will frank it, it will cost William nothing.”
 frank.”
 
 Fanny thought it a bold measure, but offered no further resistance; and
-they went together into the breakfast-room, where Edmund prepared her
+they went together into the breakfast-room, where [[Edmund]] prepared her
 paper, and ruled her lines with all the goodwill that her brother could
 himself have felt, and probably with somewhat more exactness. He
-continued with her the whole time of her writing, to assist her with
+continued with her the whole [[Time|time]] of her writing, to assist her with
 his penknife or his orthography, as either were wanted; and added to
 these attentions, which she felt very much, a kindness to her brother
 which delighted her beyond all the rest. He wrote with his own hand his
-love to his cousin William, and sent him half a guinea under the seal.
+[[Love|love]] to his cousin William, and sent him half a guinea under the seal.
 Fanny’s feelings on the occasion were such as she believed herself
 incapable of expressing; but her countenance and a few artless words
 fully conveyed all their gratitude and delight, and her cousin began to
 find her an interesting object. He talked to her more, and, from all
 that she said, was convinced of her having an affectionate heart, and a
-strong desire of doing right; and he could perceive her to be farther
+strong [[Desire|desire]] of doing right; and he could perceive her to be farther
 entitled to attention by great sensibility of her situation, and great
-timidity. He had never knowingly given her pain, but he now felt that
+timidity. He had never knowingly given her [[Pain|pain]], but he now felt that
 she required more positive kindness; and with that view endeavoured, in
 the first place, to lessen her fears of them all, and gave her
-especially a great deal of good advice as to playing with Maria and
-Julia, and being as merry as possible.
+especially a great deal of good advice as to playing with [[Maria]] and
+[[Julia]], and being as merry as possible.
 
 From this day Fanny grew more comfortable. She felt that she had a
-friend, and the kindness of her cousin Edmund gave her better spirits
+friend, and the kindness of her cousin [[Edmund]] gave her better spirits
 with everybody else. The place became less strange, and the people less
 formidable; and if there were some amongst them whom she could not
-cease to fear, she began at least to know their ways, and to catch the
+cease to [[Fear|fear]], she began at least to know their ways, and to catch the
 best manner of conforming to them. The little rusticities and
 awkwardnesses which had at first made grievous inroads on the
 tranquillity of all, and not least of herself, necessarily wore away,
@@ -205,15 +205,15 @@ and she was no longer materially afraid to appear before her uncle, nor
 did her aunt Norris’s voice make her start very much. To her cousins
 she became occasionally an acceptable companion. Though unworthy, from
 inferiority of age and strength, to be their constant associate, their
-pleasures and schemes were sometimes of a nature to make a third very
+pleasures and schemes were sometimes of a [[Nature|nature]] to make a third very
 useful, especially when that third was of an obliging, yielding temper;
 and they could not but own, when their aunt inquired into her faults,
-or their brother Edmund urged her claims to their kindness, that “Fanny
+or their brother [[Edmund]] urged her claims to their kindness, that “Fanny
 was good-natured enough.”
 
-Edmund was uniformly kind himself; and she had nothing worse to endure
+[[Edmund]] was uniformly kind himself; and she had nothing worse to endure
 on the part of Tom than that sort of merriment which a young man of
-seventeen will always think fair with a child of ten. He was just
+seventeen will always think fair with a [[Child|child]] of ten. He was just
 entering into life, full of spirits, and with all the liberal
 dispositions of an eldest son, who feels born only for expense and
 enjoyment. His kindness to his little cousin was consistent with his
@@ -231,8 +231,8 @@ they had been long familiar, they thought her prodigiously stupid, and
 for the first two or three weeks were continually bringing some fresh
 report of it into the drawing-room. “Dear mama, only think, my cousin
 cannot put the map of Europe together—or my cousin cannot tell the
-principal rivers in Russia—or, she never heard of Asia Minor—or she
-does not know the difference between water-colours and crayons!—How
+principal rivers in [[Russia]]—or, she never heard of Asia Minor—or she
+does not know the difference between [[Water|water]]-colours and crayons!—How
 strange!—Did you ever hear anything so stupid?”
 
 “My dear,” their considerate aunt would reply, “it is very bad, but you
@@ -240,12 +240,12 @@ must not expect everybody to be as forward and quick at learning as
 yourself.”
 
 “But, aunt, she is really so very ignorant!—Do you know, we asked her
-last night which way she would go to get to Ireland; and she said, she
-should cross to the Isle of Wight. She thinks of nothing but the Isle
+last [[Night|night]] which way she would go to get to Ireland; and she said, she
+should [[Cross|cross]] to the Isle of Wight. She thinks of nothing but the Isle
 of Wight, and she calls it _the_ _Island_, as if there were no other
 island in the world. I am sure I should have been ashamed of myself, if
 I had not known better long before I was so old as she is. I cannot
-remember the time when I did not know a great deal that she has not the
+remember the [[Time|time]] when I did not know a great deal that she has not the
 least notion of yet. How long ago it is, aunt, since we used to repeat
 the chronological order of the kings of England, with the dates of
 their accession, and most of the principal events of their reigns!”
@@ -256,7 +256,7 @@ semi-metals, planets, and distinguished philosophers.”
 
 “Very true indeed, my dears, but you are blessed with wonderful
 memories, and your poor cousin has probably none at all. There is a
-vast deal of difference in memories, as well as in everything else, and
+vast deal of difference in memories, as [[Well|well]] as in everything else, and
 therefore you must make allowance for your cousin, and pity her
 deficiency. And remember that, if you are ever so forward and clever
 yourselves, you should always be modest; for, much as you know already,
@@ -268,7 +268,7 @@ not want to learn either music or drawing.”
 
 “To be sure, my dear, that is very stupid indeed, and shows a great
 want of genius and emulation. But, all things considered, I do not know
-whether it is not as well that it should be so, for, though you know
+whether it is not as [[Well|well]] that it should be so, for, though you know
 (owing to me) your papa and mama are so good as to bring her up with
 you, it is not at all necessary that she should be as accomplished as
 you are;—on the contrary, it is much more desirable that there should
@@ -277,16 +277,16 @@ be a difference.”
 Such were the counsels by which Mrs. Norris assisted to form her
 nieces’ minds; and it is not very wonderful that, with all their
 promising talents and early information, they should be entirely
-deficient in the less common acquirements of self-knowledge, generosity
-and humility. In everything but disposition they were admirably taught.
+deficient in the less common acquirements of [[Self-Knowledge|self-knowledge]], generosity
+and [[Humility|humility]]. In everything but disposition they were admirably taught.
 Sir Thomas did not know what was wanting, because, though a truly
 anxious father, he was not outwardly affectionate, and the reserve of
 his manner repressed all the flow of their spirits before him.
 
-To the education of her daughters Lady Bertram paid not the smallest
-attention. She had not time for such cares. She was a woman who spent
+To the [[Education|education]] of her daughters Lady [[Bertram]] paid not the smallest
+attention. She had not [[Time|time]] for such cares. She was a woman who spent
 her days in sitting, nicely dressed, on a sofa, doing some long piece
-of needlework, of little use and no beauty, thinking more of her pug
+of needlework, of little use and no [[Beauty|beauty]], thinking more of her pug
 than her children, but very indulgent to the latter when it did not put
 herself to inconvenience, guided in everything important by Sir Thomas,
 and in smaller concerns by her sister. Had she possessed greater
@@ -300,15 +300,15 @@ she saw no harm in the poor little thing, and always found her very
 handy and quick in carrying messages, and fetching what she wanted.”
 
 Fanny, with all her faults of ignorance and timidity, was fixed at
-Mansfield Park, and learning to transfer in its favour much of her
-attachment to her former home, grew up there not unhappily among her
-cousins. There was no positive ill-nature in Maria or Julia; and though
+[[Mansfield Park]], and learning to transfer in its favour much of her
+attachment to her former [[Home|home]], grew up there not unhappily among her
+cousins. There was no positive ill-[[Nature|nature]] in [[Maria]] or [[Julia]]; and though
 Fanny was often mortified by their treatment of her, she thought too
 lowly of her own claims to feel injured by it.
 
-From about the time of her entering the family, Lady Bertram, in
-consequence of a little ill-health, and a great deal of indolence, gave
-up the house in town, which she had been used to occupy every spring,
+From about the [[Time|time]] of her entering the family, Lady [[Bertram]], in
+consequence of a little ill-health, and a great deal of [[Indolence|indolence]], gave
+up the [[house]] in town, which she had been used to occupy every [[spring]],
 and remained wholly in the country, leaving Sir Thomas to attend his
 duty in Parliament, with whatever increase or diminution of comfort
 might arise from her absence. In the country, therefore, the Miss
@@ -318,37 +318,37 @@ person, manner, and accomplishments, everything that could satisfy his
 anxiety. His eldest son was careless and extravagant, and had already
 given him much uneasiness; but his other children promised him nothing
 but good. His daughters, he felt, while they retained the name of
-Bertram, must be giving it new grace, and in quitting it, he trusted,
-would extend its respectable alliances; and the character of Edmund,
+[[Bertram]], must be giving it new grace, and in quitting it, he trusted,
+would extend its respectable alliances; and the character of [[Edmund]],
 his strong good sense and uprightness of mind, bid most fairly for
-utility, honour, and happiness to himself and all his connexions. He
+utility, [[Honour|honour]], and happiness to himself and all his connexions. He
 was to be a clergyman.
 
 Amid the cares and the complacency which his own children suggested,
 Sir Thomas did not forget to do what he could for the children of Mrs.
-Price: he assisted her liberally in the education and disposal of her
+Price: he assisted her liberally in the [[Education|education]] and disposal of her
 sons as they became old enough for a determinate pursuit; and Fanny,
 though almost totally separated from her family, was sensible of the
 truest satisfaction in hearing of any kindness towards them, or of
 anything at all promising in their situation or conduct. Once, and once
 only, in the course of many years, had she the happiness of being with
 William. Of the rest she saw nothing: nobody seemed to think of her
-ever going amongst them again, even for a visit, nobody at home seemed
+ever going amongst them again, even for a visit, nobody at [[Home|home]] seemed
 to want her; but William determining, soon after her removal, to be a
 sailor, was invited to spend a week with his sister in Northamptonshire
 before he went to sea. Their eager affection in meeting, their
 exquisite delight in being together, their hours of happy mirth, and
-moments of serious conference, may be imagined; as well as the sanguine
+moments of serious conference, may be imagined; as [[Well|well]] as the sanguine
 views and spirits of the boy even to the last, and the misery of the
 girl when he left her. Luckily the visit happened in the Christmas
 holidays, when she could directly look for comfort to her cousin
-Edmund; and he told her such charming things of what William was to do,
+[[Edmund]]; and he told her such charming things of what William was to do,
 and be hereafter, in consequence of his profession, as made her
-gradually admit that the separation might have some use. Edmund’s
-friendship never failed her: his leaving Eton for Oxford made no change
+gradually admit that the separation might have some use. [[Edmund]]’s
+[[Friendship|friendship]] never failed her: his leaving Eton for [[Oxford]] made no change
 in his kind dispositions, and only afforded more frequent opportunities
 of proving them. Without any display of doing more than the rest, or
-any fear of doing too much, he was always true to her interests, and
+any [[Fear|fear]] of doing too much, he was always true to her interests, and
 considerate of her feelings, trying to make her good qualities
 understood, and to conquer the diffidence which prevented their being
 more apparent; giving her advice, consolation, and encouragement.
@@ -357,9 +357,9 @@ Kept back as she was by everybody else, his single support could not
 bring her forward; but his attentions were otherwise of the highest
 importance in assisting the improvement of her mind, and extending its
 pleasures. He knew her to be clever, to have a quick apprehension as
-well as good sense, and a fondness for reading, which, properly
-directed, must be an education in itself. Miss Lee taught her French,
-and heard her read the daily portion of history; but he recommended the
+[[Well|well]] as good sense, and a fondness for reading, which, properly
+directed, must be an [[Education|education]] in itself. Miss Lee taught her French,
+and heard her read the daily portion of [[history]]; but he recommended the
 books which charmed her leisure hours, he encouraged her taste, and
 corrected her judgment: he made reading useful by talking to her of
 what she read, and heightened its attraction by judicious praise. In

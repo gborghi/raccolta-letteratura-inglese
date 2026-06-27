@@ -15,7 +15,7 @@ tags:
 
 
 CHAPTER X
-STEPHEN BLACKPOOL
+[[Stephen Blackpool|STEPHEN BLACKPOOL]]
 
 
 I ENTERTAIN a weak idea that the English people are as hard-worked as any
@@ -23,20 +23,20 @@ people upon whom the sun shines.  I acknowledge to this ridiculous
 idiosyncrasy, as a reason why I would give them a little more play.
 
 In the hardest working part of Coketown; in the innermost fortifications
-of that ugly citadel, where Nature was as strongly bricked out as killing
+of that ugly citadel, where [[Nature]] was as strongly bricked out as killing
 airs and gases were bricked in; at the heart of the labyrinth of narrow
 courts upon courts, and close streets upon streets, which had come into
 existence piecemeal, every piece in a violent hurry for some one man’s
 purpose, and the whole an unnatural family, shouldering, and trampling,
-and pressing one another to death; in the last close nook of this great
+and pressing one another to [[Death|death]]; in the last close nook of this great
 exhausted receiver, where the chimneys, for want of air to make a
 draught, were built in an immense variety of stunted and crooked shapes,
-as though every house put out a sign of the kind of people who might be
+as though every [[house]] put out a sign of the kind of people who might be
 expected to be born in it; among the multitude of Coketown, generically
 called ‘the Hands,’—a race who would have found more favour with some
-people, if Providence had seen fit to make them only hands, or, like the
+people, if [[Providence]] had seen fit to make them only hands, or, like the
 lower creatures of the seashore, only hands and stomachs—lived a certain
-Stephen Blackpool, forty years of age.
+[[Stephen Blackpool]], forty years of age.
 
 Stephen looked older, but he had had a hard life.  It is said that every
 life has its roses and thorns; there seemed, however, to have been a
@@ -54,31 +54,31 @@ no place among those remarkable ‘Hands,’ who, piecing together their
 broken intervals of leisure through many years, had mastered difficult
 sciences, and acquired a knowledge of most unlikely things.  He held no
 station among the Hands who could make speeches and carry on debates.
-Thousands of his compeers could talk much better than he, at any time.
+Thousands of his compeers could talk much better than he, at any [[Time|time]].
 He was a good power-loom weaver, and a man of perfect integrity.  What
 more he was, or what else he had in him, if anything, let him show for
 himself.
 
 The lights in the great factories, which looked, when they were
 illuminated, like Fairy palaces—or the travellers by express-train said
-so—were all extinguished; and the bells had rung for knocking off for the
-night, and had ceased again; and the Hands, men and women, boy and girl,
-were clattering home.  Old Stephen was standing in the street, with the
+so—were all extinguished; and [[The Bells|the bells]] had rung for knocking off for the
+[[Night|night]], and had ceased again; and the Hands, men and women, boy and girl,
+were clattering [[Home|home]].  Old Stephen was standing in the street, with the
 old sensation upon him which the stoppage of the machinery always
 produced—the sensation of its having worked and stopped in his own head.
 
 ‘Yet I don’t see Rachael, still!’ said he.
 
-It was a wet night, and many groups of young women passed him, with their
+It was a wet [[Night|night]], and many groups of young women passed him, with their
 shawls drawn over their bare heads and held close under their chins to
-keep the rain out.  He knew Rachael well, for a glance at any one of
+keep the rain out.  He knew Rachael [[Well|well]], for a glance at any one of
 these groups was sufficient to show him that she was not there.  At last,
 there were no more to come; and then he turned away, saying in a tone of
 disappointment, ‘Why, then, ha’ missed her!’
 
 But, he had not gone the length of three streets, when he saw another of
 the shawled figures in advance of him, at which he looked so keenly that
-perhaps its mere shadow indistinctly reflected on the wet pavement—if he
+perhaps its mere [[Shadow|shadow]] indistinctly reflected on the wet pavement—if he
 could have seen it without the figure itself moving along from lamp to
 lamp, brightening and fading as it went—would have been enough to tell
 him who was there.  Making his pace at once much quicker and much softer,
@@ -99,10 +99,10 @@ pleasant eyes, she replaced her hood again, and they went on together.
 
 ‘No.’
 
-‘Early t’night, lass?’
+‘Early t’[[Night|night]], lass?’
 
 ‘’Times I’m a little early, Stephen! ’times a little late.  I’m never to
-be counted on, going home.’
+be counted on, going [[Home|home]].’
 
 ‘Nor going t’other way, neither, ’t seems to me, Rachael?’
 
@@ -120,7 +120,7 @@ such old folk, now.’
 
 ‘One of us would be puzzled how to get old, Stephen, without ’t other
 getting so too, both being alive,’ she answered, laughing; ‘but, anyways,
-we’re such old friends, and t’ hide a word of honest truth fro’ one
+we’re such old friends, and t’ hide a word of honest [[Truth|truth]] fro’ one
 another would be a sin and a pity.  ’Tis better not to walk too much
 together.  ’Times, yes!  ’Twould be hard, indeed, if ’twas not to be at
 all,’ she said, with a cheerfulness she sought to communicate to him.
@@ -129,7 +129,7 @@ all,’ she said, with a cheerfulness she sought to communicate to him.
 
 ‘Try to think not; and ’twill seem better.’
 
-‘I’ve tried a long time, and ’ta’nt got better.  But thou’rt right; ’t
+‘I’ve tried a long [[Time|time]], and ’ta’nt got better.  But thou’rt right; ’t
 might mak fok talk, even of thee.  Thou hast been that to me, Rachael,
 through so many year: thou hast done me so much good, and heartened of me
 in that cheering way, that thy word is a law to me.  Ah, lass, and a
@@ -139,7 +139,7 @@ bright good law!  Better than some real ones.’
 an anxious glance at his face.  ‘Let the laws be.’
 
 ‘Yes,’ he said, with a slow nod or two.  ‘Let ’em be.  Let everything be.
-Let all sorts alone.  ’Tis a muddle, and that’s aw.’
+Let all sorts [[Alone|alone]].  ’Tis a muddle, and that’s aw.’
 
 ‘Always a muddle?’ said Rachael, with another gentle touch upon his arm,
 as if to recall him out of the thoughtfulness, in which he was biting the
@@ -155,9 +155,9 @@ for which the favourite undertaker (who turned a handsome sum out of the
 one poor ghastly pomp of the neighbourhood) kept a black ladder, in order
 that those who had done their daily groping up and down the narrow stairs
 might slide out of this working world by the windows.  She stopped at the
-corner, and putting her hand in his, wished him good night.
+corner, and putting her hand in his, wished him good [[Night|night]].
 
-‘Good night, dear lass; good night!’
+‘Good [[Night|night]], dear lass; good [[Night|night]]!’
 
 She went, with her neat figure and her sober womanly step, down the dark
 street, and he stood looking after her until she turned into one of the
@@ -167,17 +167,17 @@ echo in his innermost heart.
 
 When she was lost to his view, he pursued his homeward way, glancing up
 sometimes at the sky, where the clouds were sailing fast and wildly.
-But, they were broken now, and the rain had ceased, and the moon
+But, they were broken now, and the rain had ceased, and the [[Moon|moon]]
 shone,—looking down the high chimneys of Coketown on the deep furnaces
-below, and casting Titanic shadows of the steam-engines at rest, upon the
+below, and casting [[titanic|Titanic]] shadows of the steam-engines at rest, upon the
 walls where they were lodged.  The man seemed to have brightened with the
-night, as he went on.
+[[Night|night]], as he went on.
 
-His home, in such another street as the first, saving that it was
+His [[Home|home]], in such another street as the first, saving that it was
 narrower, was over a little shop.  How it came to pass that any people
 found it worth their while to sell or buy the wretched little toys, mixed
-up in its window with cheap newspapers and pork (there was a leg to be
-raffled for to-morrow-night), matters not here.  He took his end of
+up in its [[Window|window]] with cheap newspapers and pork (there was a leg to be
+raffled for to-morrow-[[Night|night]]), matters not here.  He took his end of
 candle from a shelf, lighted it at another end of candle on the counter,
 without disturbing the mistress of the shop who was asleep in her little
 room, and went upstairs into his lodging.
@@ -193,7 +193,7 @@ table standing there, he stumbled against something.  As he recoiled,
 looking down at it, it raised itself up into the form of a woman in a
 sitting attitude.
 
-‘Heaven’s mercy, woman!’ he cried, falling farther off from the figure.
+‘Heaven’s [[Mercy|mercy]], woman!’ he cried, falling farther off from the figure.
 ‘Hast thou come back again!’
 
 Such a woman!  A disabled, drunken creature, barely able to preserve her
@@ -207,7 +207,7 @@ thing even to see her.
 After an impatient oath or two, and some stupid clawing of herself with
 the hand not necessary to her support, she got her hair away from her
 eyes sufficiently to obtain a sight of him.  Then she sat swaying her
-body to and fro, and making gestures with her unnerved arm, which seemed
+[[Body|body]] to and fro, and making gestures with her unnerved arm, which seemed
 intended as the accompaniment to a fit of laughter, though her face was
 stolid and drowsy.
 
@@ -220,17 +220,17 @@ Yes, back.  Why not?’
 
 Roused by the unmeaning violence with which she cried it out, she
 scrambled up, and stood supporting herself with her shoulders against the
-wall; dangling in one hand by the string, a dunghill-fragment of a
+wall; dangling in one hand by the string, a dunghill-[[Fragment|fragment]] of a
 bonnet, and trying to look scornfully at him.
 
 ‘I’ll sell thee off again, and I’ll sell thee off again, and I’ll sell
 thee off a score of times!’ she cried, with something between a furious
-menace and an effort at a defiant dance.  ‘Come awa’ from th’ bed!’  He
+menace and an effort at a defiant [[Dance|dance]].  ‘Come awa’ from th’ bed!’  He
 was sitting on the side of it, with his face hidden in his hands.  ‘Come
 awa! from ’t.  ’Tis mine, and I’ve a right to t’!’
 
 As she staggered to it, he avoided her with a shudder, and passed—his
 face still hidden—to the opposite end of the room.  She threw herself
 upon the bed heavily, and soon was snoring hard.  He sunk into a chair,
-and moved but once all that night.  It was to throw a covering over her;
+and moved but once all that [[Night|night]].  It was to throw a covering over her;
 as if his hands were not enough to hide her, even in the darkness.

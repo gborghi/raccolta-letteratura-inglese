@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 25"
+title: "[[Great Expectations]] — Chapter 25"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -29,7 +29,7 @@ discovery that it was just of age and a blockhead. Thus, Bentley
 Drummle had come to Mr. Pocket when he was a head taller than that
 gentleman, and half a dozen heads thicker than most gentlemen.
 
-Startop had been spoilt by a weak mother and kept at home when he ought
+Startop had been spoilt by a weak mother and kept at [[Home|home]] when he ought
 to have been at school, but he was devotedly attached to her, and
 admired her beyond measure. He had a woman’s delicacy of feature, and
 was—“as you may see, though you never saw her,” said Herbert to
@@ -37,49 +37,49 @@ me—“exactly like his mother.” It was but natural that I should take to
 him much more kindly than to Drummle, and that, even in the earliest
 evenings of our boating, he and I should pull homeward abreast of one
 another, conversing from boat to boat, while Bentley Drummle came up in
-our wake alone, under the overhanging banks and among the rushes. He
+our wake [[Alone|alone]], under the overhanging banks and among the rushes. He
 would always creep in-shore like some uncomfortable amphibious
 creature, even when the tide would have sent him fast upon his way; and
 I always think of him as coming after us in the dark or by the
-back-water, when our own two boats were breaking the sunset or the
+back-[[Water|water]], when our own two boats were breaking the sunset or the
 moonlight in mid-stream.
 
 Herbert was my intimate companion and friend. I presented him with a
 half-share in my boat, which was the occasion of his often coming down
 to Hammersmith; and my possession of a half-share in his chambers often
-took me up to London. We used to walk between the two places at all
-hours. I have an affection for the road yet (though it is not so
-pleasant a road as it was then), formed in the impressibility of
-untried youth and hope.
+took me up to [[London]]. We used to walk between the two places at all
+hours. I have an affection for the [[Road|road]] yet (though it is not so
+pleasant a [[Road|road]] as it was then), formed in the impressibility of
+untried youth and [[Hope|hope]].
 
 When I had been in Mr. Pocket’s family a month or two, Mr. and Mrs.
 Camilla turned up. Camilla was Mr. Pocket’s sister. Georgiana, whom I
-had seen at Miss Havisham’s on the same occasion, also turned up. She
+had seen at [[Miss Havisham]]’s on the same occasion, also turned up. She
 was a cousin,—an indigestive single woman, who called her rigidity
-religion, and her liver love. These people hated me with the hatred of
+religion, and her liver [[Love|love]]. These people hated me with the hatred of
 cupidity and disappointment. As a matter of course, they fawned upon me
 in my prosperity with the basest meanness. Towards Mr. Pocket, as a
 grown-up infant with no notion of his own interests, they showed the
 complacent forbearance I had heard them express. Mrs. Pocket they held
-in contempt; but they allowed the poor soul to have been heavily
+in contempt; but they allowed the poor [[Soul|soul]] to have been heavily
 disappointed in life, because that shed a feeble reflected light upon
 themselves.
 
 These were the surroundings among which I settled down, and applied
-myself to my education. I soon contracted expensive habits, and began
+myself to my [[Education|education]]. I soon contracted expensive habits, and began
 to spend an amount of money that within a few short months I should
 have thought almost fabulous; but through good and evil I stuck to my
 books. There was no other merit in this, than my having sense enough to
 feel my deficiencies. Between Mr. Pocket and Herbert I got on fast;
 and, with one or the other always at my elbow to give me the start I
-wanted, and clear obstructions out of my road, I must have been as
+wanted, and clear obstructions out of my [[Road|road]], I must have been as
 great a dolt as Drummle if I had done less.
 
 I had not seen Mr. Wemmick for some weeks, when I thought I would write
-him a note and propose to go home with him on a certain evening. He
+him a note and propose to go [[Home|home]] with him on a certain evening. He
 replied that it would give him much pleasure, and that he would expect
-me at the office at six o’clock. Thither I went, and there I found him,
-putting the key of his safe down his back as the clock struck.
+me at the office at six o’[[Clock|clock]]. Thither I went, and there I found him,
+putting the key of his safe down his back as the [[Clock|clock]] struck.
 
 “Did you think of walking down to Walworth?” said he.
 
@@ -88,7 +88,7 @@ putting the key of his safe down his back as the clock struck.
 “Very much,” was Wemmick’s reply, “for I have had my legs under the
 desk all day, and shall be glad to stretch them. Now, I’ll tell you
 what I have got for supper, Mr. Pip. I have got a stewed steak,—which
-is of home preparation,—and a cold roast fowl,—which is from the
+is of [[Home|home]] preparation,—and a cold roast fowl,—which is from the
 cook’s-shop. I think it’s tender, because the master of the shop was a
 Juryman in some cases of ours the other day, and we let him down easy.
 I reminded him of it when I bought the fowl, and I said, “Pick us out a
@@ -96,7 +96,7 @@ good one, old Briton, because if we had chosen to keep you in the box
 another day or two, we could easily have done it.” He said to that,
 “Let me make you a present of the best fowl in the shop.” I let him, of
 course. As far as it goes, it’s property and portable. You don’t object
-to an aged parent, I hope?”
+to an aged parent, I [[Hope|hope]]?”
 
 I really thought he was still speaking of the fowl, until he added,
 “Because I have got an aged parent at my place.” I then said what
@@ -114,12 +114,12 @@ Three of ’em; ain’t there?”
 Although I was not in the habit of counting Drummle as one of my
 intimate associates, I answered, “Yes.”
 
-“Well, he’s going to ask the whole gang,”—I hardly felt complimented by
+“[[Well]], he’s going to ask the whole gang,”—I hardly felt complimented by
 the word,—“and whatever he gives you, he’ll give you good. Don’t look
 forward to variety, but you’ll have excellence. And there’s another rum
-thing in his house,” proceeded Wemmick, after a moment’s pause, as if
+thing in his [[house]],” proceeded Wemmick, after a moment’s pause, as if
 the remark followed on the housekeeper understood; “he never lets a
-door or window be fastened at night.”
+door or [[Window|window]] be fastened at [[Night|night]].”
 
 “Is he never robbed?”
 
@@ -129,7 +129,7 @@ a hundred times, if I have heard him once, say to regular cracksmen in
 our front office, “You know where I live; now, no bolt is ever drawn
 there; why don’t you do a stroke of business with me? Come; can’t I
 tempt you?” Not a man of them, sir, would be bold enough to try it on,
-for love or money.”
+for [[Love|love]] or money.”
 
 “They dread him so much?” said I.
 
@@ -144,11 +144,11 @@ they know it. He’d have their lives, and the lives of scores of ’em.
 He’d have all he could get. And it’s impossible to say what he couldn’t
 get, if he gave his mind to it.”
 
-I was falling into meditation on my guardian’s greatness, when Wemmick
+I was falling into meditation on my guardian’s [[Greatness|greatness]], when Wemmick
 remarked:—
 
 “As to the absence of plate, that’s only his natural depth, you know. A
-river’s its natural depth, and he’s his natural depth. Look at his
+[[River|river]]’s its natural depth, and he’s his natural depth. Look at his
 watch-chain. That’s real enough.”
 
 “It’s very massive,” said I.
@@ -156,43 +156,43 @@ watch-chain. That’s real enough.”
 “Massive?” repeated Wemmick. “I think so. And his watch is a gold
 repeater, and worth a hundred pound if it’s worth a penny. Mr. Pip,
 there are about seven hundred thieves in this town who know all about
-that watch; there’s not a man, a woman, or a child, among them, who
+that watch; there’s not a man, a woman, or a [[Child|child]], among them, who
 wouldn’t identify the smallest link in that chain, and drop it as if it
 was red hot, if inveigled into touching it.”
 
 At first with such discourse, and afterwards with conversation of a
-more general nature, did Mr. Wemmick and I beguile the time and the
-road, until he gave me to understand that we had arrived in the
+more general [[Nature|nature]], did Mr. Wemmick and I beguile the [[Time|time]] and the
+[[Road|road]], until he gave me to understand that we had arrived in the
 district of Walworth.
 
 It appeared to be a collection of back lanes, ditches, and little
 gardens, and to present the aspect of a rather dull retirement.
-Wemmick’s house was a little wooden cottage in the midst of plots of
-garden, and the top of it was cut out and painted like a battery
+Wemmick’s [[house]] was a little wooden cottage in the midst of plots of
+[[Garden|garden]], and the top of it was cut out and painted like a battery
 mounted with guns.
 
 “My own doing,” said Wemmick. “Looks pretty; don’t it?”
 
-I highly commended it, I think it was the smallest house I ever saw;
+I highly commended it, I think it was the smallest [[house]] I ever saw;
 with the queerest gothic windows (by far the greater part of them
 sham), and a gothic door almost too small to get in at.
 
 “That’s a real flagstaff, you see,” said Wemmick, “and on Sundays I run
-up a real flag. Then look here. After I have crossed this bridge, I
+up a real [[Flag|flag]]. Then look here. After I have crossed this bridge, I
 hoist it up—so—and cut off the communication.”
 
 The bridge was a plank, and it crossed a chasm about four feet wide and
-two deep. But it was very pleasant to see the pride with which he
+two deep. But it was very pleasant to see the [[Pride|pride]] with which he
 hoisted it up and made it fast; smiling as he did so, with a relish and
 not merely mechanically.
 
-“At nine o’clock every night, Greenwich time,” said Wemmick, “the gun
+“At nine o’[[Clock|clock]] every [[Night|night]], Greenwich [[Time|time]],” said Wemmick, “the gun
 fires. There he is, you see! And when you hear him go, I think you’ll
 say he’s a Stinger.”
 
 The piece of ordnance referred to, was mounted in a separate fortress,
 constructed of lattice-work. It was protected from the weather by an
-ingenious little tarpaulin contrivance in the nature of an umbrella.
+ingenious little tarpaulin contrivance in the [[Nature|nature]] of an umbrella.
 
 “Then, at the back,” said Wemmick, “out of sight, so as not to impede
 the idea of fortifications,—for it’s a principle with me, if you have
@@ -206,13 +206,13 @@ knock together my own little frame, you see, and grow cucumbers; and
 you’ll judge at supper what sort of a salad I can raise. So, sir,” said
 Wemmick, smiling again, but seriously too, as he shook his head, “if
 you can suppose the little place besieged, it would hold out a devil of
-a time in point of provisions.”
+a [[Time|time]] in point of provisions.”
 
 Then, he conducted me to a bower about a dozen yards off, but which was
 approached by such ingenious twists of path that it took quite a long
-time to get at; and in this retreat our glasses were already set forth.
+[[Time|time]] to get at; and in this retreat our glasses were already set forth.
 Our punch was cooling in an ornamental lake, on whose margin the bower
-was raised. This piece of water (with an island in the middle which
+was raised. This piece of [[Water|water]] (with an island in the middle which
 might have been the salad for supper) was of a circular form, and he
 had constructed a fountain in it, which, when you set a little mill
 going and took a cork out of a pipe, played to that powerful extent
@@ -220,16 +220,16 @@ that it made the back of your hand quite wet.
 
 “I am my own engineer, and my own carpenter, and my own plumber, and my
 own gardener, and my own Jack of all Trades,” said Wemmick, in
-acknowledging my compliments. “Well; it’s a good thing, you know. It
+acknowledging my compliments. “[[Well]]; it’s a good thing, you know. It
 brushes the Newgate cobwebs away, and pleases the Aged. You wouldn’t
 mind being at once introduced to the Aged, would you? It wouldn’t put
 you out?”
 
-I expressed the readiness I felt, and we went into the castle. There we
-found, sitting by a fire, a very old man in a flannel coat: clean,
-cheerful, comfortable, and well cared for, but intensely deaf.
+I expressed the readiness I felt, and we went into the [[Castle|castle]]. There we
+found, sitting by a [[Fire|fire]], a very old man in a flannel coat: clean,
+cheerful, comfortable, and [[Well|well]] cared for, but intensely deaf.
 
-“Well aged parent,” said Wemmick, shaking hands with him in a cordial
+“[[Well]] aged parent,” said Wemmick, shaking hands with him in a cordial
 and jocose way, “how am you?”
 
 “All right, John; all right!” replied the old man.
@@ -241,7 +241,7 @@ him, if you please, like winking!”
 “This is a fine place of my son’s, sir,” cried the old man, while I
 nodded as hard as I possibly could. “This is a pretty pleasure-ground,
 sir. This spot and these beautiful works upon it ought to be kept
-together by the Nation, after my son’s time, for the people’s
+together by the Nation, after my son’s [[Time|time]], for the people’s
 enjoyment.”
 
 “You’re as proud of it as Punch; ain’t you, Aged?” said Wemmick,
@@ -260,24 +260,24 @@ pitch of perfection.
 
 “Is it your own, Mr. Wemmick?”
 
-“O yes,” said Wemmick, “I have got hold of it, a bit at a time. It’s a
+“O yes,” said Wemmick, “I have got hold of it, a bit at a [[Time|time]]. It’s a
 freehold, by George!”
 
-“Is it indeed? I hope Mr. Jaggers admires it?”
+“Is it indeed? I [[Hope|hope]] Mr. Jaggers admires it?”
 
 “Never seen it,” said Wemmick. “Never heard of it. Never seen the Aged.
 Never heard of him. No; the office is one thing, and private life is
-another. When I go into the office, I leave the Castle behind me, and
-when I come into the Castle, I leave the office behind me. If it’s not
+another. When I go into the office, I leave the [[Castle]] behind me, and
+when I come into the [[Castle]], I leave the office behind me. If it’s not
 in any way disagreeable to you, you’ll oblige me by doing the same. I
 don’t wish it professionally spoken about.”
 
-Of course I felt my good faith involved in the observance of his
+Of course I felt my good [[Faith|faith]] involved in the observance of his
 request. The punch being very nice, we sat there drinking it and
-talking, until it was almost nine o’clock. “Getting near gun-fire,”
+talking, until it was almost nine o’[[Clock|clock]]. “Getting near gun-[[Fire|fire]],”
 said Wemmick then, as he laid down his pipe; “it’s the Aged’s treat.”
 
-Proceeding into the Castle again, we found the Aged heating the poker,
+Proceeding into the [[Castle]] again, we found the Aged heating the poker,
 with expectant eyes, as a preliminary to the performance of this great
 nightly ceremony. Wemmick stood with his watch in his hand until the
 moment was come for him to take the red-hot poker from the Aged, and
@@ -289,7 +289,7 @@ of his arm-chair but for holding on by the elbows—cried out exultingly,
 “He’s fired! I heerd him!” and I nodded at the old gentleman until it
 is no figure of speech to declare that I absolutely could not see him.
 
-The interval between that time and supper Wemmick devoted to showing me
+The interval between that [[Time|time]] and supper Wemmick devoted to showing me
 his collection of curiosities. They were mostly of a felonious
 character; comprising the pen with which a celebrated forgery had been
 committed, a distinguished razor or two, some locks of hair, and
@@ -298,7 +298,7 @@ Mr. Wemmick set particular value as being, to use his own words, “every
 one of ’em Lies, sir.” These were agreeably dispersed among small
 specimens of china and glass, various neat trifles made by the
 proprietor of the museum, and some tobacco-stoppers carved by the Aged.
-They were all displayed in that chamber of the Castle into which I had
+They were all displayed in that chamber of the [[Castle]] into which I had
 been first inducted, and which served, not only as the general
 sitting-room but as the kitchen too, if I might judge from a saucepan
 on the hob, and a brazen bijou over the fireplace designed for the
@@ -306,24 +306,24 @@ suspension of a roasting-jack.
 
 There was a neat little girl in attendance, who looked after the Aged
 in the day. When she had laid the supper-cloth, the bridge was lowered
-to give her means of egress, and she withdrew for the night. The supper
-was excellent; and though the Castle was rather subject to dry-rot
+to give her means of egress, and she withdrew for the [[Night|night]]. The supper
+was excellent; and though the [[Castle]] was rather subject to dry-rot
 insomuch that it tasted like a bad nut, and though the pig might have
 been farther off, I was heartily pleased with my whole entertainment.
 Nor was there any drawback on my little turret bedroom, beyond there
 being such a very thin ceiling between me and the flagstaff, that when
 I lay down on my back in bed, it seemed as if I had to balance that
-pole on my forehead all night.
+pole on my forehead all [[Night|night]].
 
 Wemmick was up early in the morning, and I am afraid I heard him
 cleaning my boots. After that, he fell to gardening, and I saw him from
-my gothic window pretending to employ the Aged, and nodding at him in a
+my gothic [[Window|window]] pretending to employ the Aged, and nodding at him in a
 most devoted manner. Our breakfast was as good as the supper, and at
 half-past eight precisely we started for Little Britain. By degrees,
 Wemmick got dryer and harder as we went along, and his mouth tightened
 into a post-office again. At last, when we got to his place of business
 and he pulled out his key from his coat-collar, he looked as
-unconscious of his Walworth property as if the Castle and the
+unconscious of his Walworth property as if the [[Castle]] and the
 drawbridge and the arbour and the lake and the fountain and the Aged,
 had all been blown into space together by the last discharge of the
 Stinger.

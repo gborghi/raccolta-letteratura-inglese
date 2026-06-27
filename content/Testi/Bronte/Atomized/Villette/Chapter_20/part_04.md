@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 20 (part 4)"
+title: "[[Villette]] — Chapter 20 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -24,10 +24,10 @@ shell or a skull-cap of satin; it looked _like_ hair, and waved from
 her head, long, curled, and flowing. She chatted away volubly, and
 seemed full of a light-headed sort of satisfaction with herself and her
 position. I did not look at Dr. Bretton; but I knew that he, too, saw
-Ginevra Fanshawe: he had become so quiet, he answered so briefly his
+[[Ginevra Fanshawe]]: he had become so quiet, he answered so briefly his
 mother’s remarks, he so often suppressed a sigh. Why should he sigh? He
-had confessed a taste for the pursuit of love under difficulties; here
-was full gratification for that taste. His lady-love beamed upon him
+had confessed a taste for the pursuit of [[Love|love]] under difficulties; here
+was full gratification for that taste. His lady-[[Love|love]] beamed upon him
 from a sphere above his own: he could not come near her; he was not
 certain that he could win from her a look. I watched to see if she
 would so far favour him. Our seat was not far from the crimson benches;
@@ -47,10 +47,10 @@ young ladies of the Conservatoire, being very much frightened, made
 rather a tremulous exhibition on the two grand pianos. M. Josef Emanuel
 stood by them while they played; but he had not the tact or influence
 of his kinsman, who, under similar circumstances, would certainly have
-_compelled_ pupils of his to demean themselves with heroism and
-self-possession. M. Paul would have placed the hysteric débutantes
+_compelled_ pupils of his to demean themselves with [[Heroism|heroism]] and
+[[Self|self]]-possession. M. Paul would have placed the hysteric débutantes
 between two fires—terror of the audience, and terror of himself—and
-would have inspired them with the courage of desperation, by making the
+would have inspired them with the [[Courage|courage]] of desperation, by making the
 latter terror incomparably the greater: M. Josef could not do this.
 
 Following the white muslin pianistes, came a fine, full-grown, sulky
@@ -60,11 +60,11 @@ run up and down, and cut such marvellous capers; but a simple Scotch
 melody, played by a rude street minstrel, has often moved me more
 deeply.
 
-Afterwards stepped forth a gentleman, who, bending his body a good deal
-in the direction of the King and Queen, and frequently approaching his
+Afterwards stepped forth a gentleman, who, bending his [[Body|body]] a good deal
+in the direction of the [[King]] and [[Queen]], and frequently approaching his
 white-gloved hand to the region of his heart, vented a bitter outcry
 against a certain “fausse Isabelle.” I thought he seemed especially to
-solicit the Queen’s sympathy; but, unless I am egregiously mistaken,
+solicit the [[Queen]]’s sympathy; but, unless I am egregiously mistaken,
 her Majesty lent her attention rather with the calm of courtesy than
 the earnestness of interest. This gentleman’s state of mind was very
 harrowing, and I was glad when he wound up his musical exposition of
@@ -100,15 +100,15 @@ seen, and I whispered—“Miss Fanshawe is here: have you noticed her?”
 
 “Mrs. Cholmondeley is there with a very grand party. Yes; Ginevra was
 in _her_ train; and Mrs. Cholmondeley was in Lady ——’s train, who was
-in the Queen’s train. If this were not one of the compact little minor
+in the [[Queen]]’s train. If this were not one of the compact little minor
 European courts, whose very formalities are little more imposing than
-familiarities, and whose gala grandeur is but homeliness in Sunday
+familiarities, and whose gala grandeur is but homeliness in [[Sunday]]
 array, it would sound all very fine.”
 
 “Ginevra saw you, I think?”
 
 “So do I think so. I have had my eye on her several times since you
-withdrew yours; and I have had the honour of witnessing a little
+withdrew yours; and I have had the [[Honour|honour]] of witnessing a little
 spectacle which you were spared.”
 
 I did not ask what; I waited voluntary information, which was presently
@@ -117,7 +117,7 @@ given.
 “Miss Fanshawe,” he said, “has a companion with her—a lady of rank. I
 happen to know Lady Sara by sight; her noble mother has called me in
 professionally. She is a proud girl, but not in the least insolent, and
-I doubt whether Ginevra will have gained ground in her estimation by
+I [[Doubt|doubt]] whether Ginevra will have gained ground in her estimation by
 making a butt of her neighbours.”
 
 “What neighbours?”

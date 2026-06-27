@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 8 (part 2)"
+title: "[[Don Quixote]] — Chapter 8 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -30,7 +30,7 @@ and it was not the first errand he had run for Miss Olive Ashley.
 He was the sort of man who is discovered taking care of a dog,
 which is not his dog; in whose rooms are to be found trunks
 and suit-cases which Bill or Charlie will pick up on the way
-from Mesopotamia to New York; who is often left to mind
+from Mesopotamia to [[New York]]; who is often left to mind
 the baggage and might quite conceivably be left to mind the baby.
 Yet it is not enough to say that he did not lose his dignity
 (which, such as it was, was very deep down in him indeed and
@@ -47,7 +47,7 @@ in his unattached sociability and very variegated friend-ships,
 made it come quite natural to anybody to ask him a favour.
 He gravely took out of his pocket-book a piece of old,
 stiff paper, rather like parchment and embrowned with age
-or dust, on which was traced in a faint but finely drawn
+or [[Dust|dust]], on which was traced in a faint but finely drawn
 outline the plumage of one part of the wing of a bird,
 probably intended as a study for the wings of an angel.
 For a few of the plumes were picked out in strokes like flames
@@ -57,28 +57,28 @@ and dusty page.
 
 Nobody could really know how much Murrel was trusted in such matters,
 who did not know what were Olive Ashley's feelings about that
-old scrap of paper scratched with that unfinished sketch.
-For it had been made long ago when she was a child by her father;
+old scrap of paper scratched with that unfinished [[Sketch|sketch]].
+For it had been made long ago when she was a [[Child|child]] by her father;
 who was a remarkable man in more ways than anybody ever knew,
 but especially remarkable as a father.  To him was due the fact
 that all her first thoughts about things had been coloured.
 All those things that for so many people are called culture and come
-at the end of education had been there for her before the beginning.
+at the end of [[Education|education]] had been there for her before the beginning.
 Certain pointed shapes, certain shining colours, were things
 that existed first and set a standard for all this fallen world
 and it was that which she was clumsily trying to express when she
-set her thoughts against all the notions of progress and reform.
+set her thoughts against all the notions of progress and [[Reform|reform]].
 Her nearest and dearest friend would have been amazed to know
-that she caught her breath at the mere memory of certain wavy
+that she caught her breath at the mere [[Memory|memory]] of certain wavy
 bars of silver or escalloped edges of peacock green, as others
-do at the reminder of a lost love.
+do at the reminder of a lost [[Love|love]].
 
-Murrel, as he took this precious fragment from his pocket-book,
+Murrel, as he took this precious [[Fragment|fragment]] from his pocket-book,
 took with it a newer and shinier piece of paper, on which a note
 was written in the words:  "Hendry's Old Illumination Colours;
 shop in Haymarket fifteen years ago.  _Not_ Hendry and Watson.
 Used to be sold in small round glass pots.  J. A. thinks more
-likely in country town than London now."
+likely in country town than [[London]] now."
 
 Armed with these weapons of attack, he was borne up against the counter
 stacked with artists' materials, he himself being wedged between
@@ -91,11 +91,11 @@ and the remarks shot sideways out of her mouth, which were of an
 irritated sort, seemed to be addressed to somebody quite different;
 apparently to somebody behind.
 
-"Never the time and the place and the loved one all together,"
-murmured Murrel with an air of resignation.  "It does not seem
+"Never the [[Time|time]] and the place and the loved one all together,"
+murmured Murrel with an air of [[Resignation|resignation]].  "It does not seem
 perhaps the perfect moment, the perfect combination of conditions,
-in which to open one's heart about Olive's early childhood
-and her fireside dreams about the flaming cherubim, or even to go
+in which to open one's heart about Olive's early [[Childhood|childhood]]
+and her fireside [[Dreams|dreams]] about the flaming cherubim, or even to go
 very deep into the influence of her father on her growing mind.
 And I don't know how else one is exactly to convey how important this is,
 or why any of us should take any particular trouble about it.
@@ -103,16 +103,16 @@ It all comes of having an open mind and sympathising with so many
 different sorts of people.  When I talk to Olive I know that
 the right and wrong colour are just as real to her as the right
 and wrong of anything else; and a dull shade in the red is like
-a shadow on honour or somebody not quite telling the truth.
+a [[Shadow|shadow]] on [[Honour|honour]] or somebody not quite telling the [[Truth|truth]].
 But when I look at this girl, I feel she has every reason to
 congratulate herself, when she says her evening prayers, if she
-hasn't sold six easels instead of five sketch books, or thrown
+hasn't sold six easels instead of five [[Sketch|sketch]] books, or thrown
 all the Indian ink over the people who asked for turpentine."
 
 He resolved to reduce his original explanation to the simplest possible
 terms to start with and expand it afterwards, if he survived.
 Gripping his piece of paper firmly in his hand, he confronted
-the shop girl with the eye of a lion-tamer, and said:
+the shop girl with the eye of a [[Lion|lion]]-tamer, and said:
 "Have you got Hendry's Old Illumination Colours?"
 
 The young woman gazed at him for a few seconds; and there was on her
@@ -120,6 +120,6 @@ face exactly the same expression as if he had spoken to her in Russian
 or Chinese.  She forgot for a moment all that mechanical and merciless
 civility which accompanied the rapid and recognised exchanges.
 She did not beg his pardon or go through any such form.
-She simply said, "Eh?" and her voice rose sharply with that deep,
-incurable, querulous complaint and protest which is the very soul
+She simply said, "Eh?" and her voice [[Rose|rose]] sharply with that deep,
+incurable, querulous complaint and protest which is the very [[Soul|soul]]
 of the accent that we call Cockney.

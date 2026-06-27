@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 8 (part 1)"
+title: "[[Shirley]] — Chapter 8 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,7 +32,7 @@ tartines for his breakfast. What business he transacted there he kept to
 
 himself. Hortense asked no questions: it was not her wont to comment on
 
-his movements, nor his to render an account of them. The secrets of
+his movements, nor his to render an account of them. The [[Secrets|secrets]] of
 
 business--complicated and often dismal mysteries--were buried in his
 
@@ -42,11 +42,11 @@ Joe Scott, or give a start to some foreign correspondent. Indeed, a
 
 general habit of reserve on whatever was important seemed bred in his
 
-mercantile blood.
+mercantile [[Blood|blood]].
 
 
 
-Breakfast over, he went to his counting-house. Henry, Joe Scott's boy,
+Breakfast over, he went to his counting-[[house]]. Henry, Joe Scott's boy,
 
 brought in the letters and the daily papers; Moore seated himself at his
 
@@ -74,19 +74,19 @@ mill. On coming back he sat down to read his newspaper.
 
 The contents seemed not absorbingly interesting; he more than once laid
 
-it across his knee, folded his arms, and gazed into the fire; he
+it across his knee, folded his arms, and gazed into the [[Fire|fire]]; he
 
-occasionally turned his head towards the window; he looked at intervals
+occasionally turned his head towards the [[Window|window]]; he looked at intervals
 
 at his watch; in short, his mind appeared preoccupied. Perhaps he was
 
-thinking of the beauty of the weather--for it was a fine and mild
+thinking of the [[Beauty|beauty]] of the weather--for it was a fine and mild
 
 morning for the season--and wishing to be out in the fields enjoying
 
-it. The door of his counting-house stood wide open. The breeze and
+it. The door of his counting-[[house]] stood wide open. The breeze and
 
-sunshine entered freely; but the first visitant brought no spring
+sunshine entered freely; but the first visitant brought no [[Spring|spring]]
 
 perfume on its wings, only an occasional sulphur-puff from the
 
@@ -112,7 +112,7 @@ take a seat, which he did, making the remark, as he removed his hat (a
 
 very bad one), stowed it away under his chair, and wiped his forehead
 
-with a spotted cotton handkerchief extracted from the hat-crown, that it
+with a spotted cotton handkerchief extracted from the hat-[[Crown|crown]], that it
 
 was "raight dahn warm for Febewerry." Mr. Moore assented--at least he
 
@@ -148,11 +148,11 @@ guest,--
 
 
 
-"Help yourself; there's water in that jar in the corner."
+"Help yourself; there's [[Water|water]] in that jar in the corner."
 
 
 
-"I dunnut knaw that there's mich need, for all a body is dry (thirsty)
+"I dunnut knaw that there's mich need, for all a [[Body|body]] is dry (thirsty)
 
 in a morning," said the fustian gentleman, rising and doing as
 
@@ -194,7 +194,7 @@ talking, nob'dy knows how long. Ye'll need propping."
 
 "I seed him a hauf an hour--nay, happen a quarter of an hour sin', just
 
-afore I set off. He said he aimed to come here, and I sudn't wonder but
+afore I set off. He said he aimed to come here, and I sudn't [[Wonder|wonder]] but
 
 ye'll have old Helstone too. I seed 'em saddling his little nag as I
 
@@ -202,13 +202,13 @@ passed at back o' t' rectory."
 
 
 
-The speaker was a true prophet, for the trot of a little nag's hoofs
+The speaker was a true [[Prophet|prophet]], for the trot of a little nag's hoofs
 
-was, five minutes after, heard in the yard. It stopped, and a well-known
+was, five minutes after, heard in the yard. It stopped, and a [[Well|well]]-known
 
 nasal voice cried aloud, "Boy" (probably addressing Harry Scott, who
 
-usually hung about the premises from 9 a.m. to 5 p.m.), "take my horse
+usually hung about the premises from 9 a.m. to 5 p.m.), "take my [[Horse|horse]]
 
 and lead him into the stable."
 
@@ -224,7 +224,7 @@ livelier than usual.
 
 (turning to the personage with the staff). "Sugden! What! you're going
 
-to work directly? On my word, you lose no time. But I come to ask
+to work directly? On my word, you lose no [[Time|time]]. But I come to ask
 
 explanations. Your message was delivered to me. Are you sure you are on
 
@@ -252,7 +252,7 @@ now sitting in state waiting his arrival."
 
 
 
-Joe Scott had entered unobserved. He now stood, a most sinister phantom,
+Joe Scott had entered unobserved. He now stood, a most sinister [[Phantom|phantom]],
 
 half his person being dyed of the deepest tint of indigo, leaning on the
 

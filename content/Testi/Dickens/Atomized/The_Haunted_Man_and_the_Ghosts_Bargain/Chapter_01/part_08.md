@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 1 (part 8)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -22,28 +22,28 @@ tags:
 I have given, you shall give again, go where you will. Without
 recovering yourself the power that you have yielded up, you shall
 henceforth destroy its like in all whom you approach. Your wisdom has
-discovered that the memory of sorrow, wrong, and trouble is the lot of
+discovered that the [[Memory|memory]] of sorrow, wrong, and trouble is the lot of
 all mankind, and that mankind would be the happier, in its other
 memories, without it. Go! Be its benefactor! Freed from such
 remembrance, from this hour, carry involuntarily the blessing of such
-freedom with you. Its diffusion is inseparable and inalienable from you.
+[[Freedom|freedom]] with you. Its diffusion is inseparable and inalienable from you.
 Go! Be happy in the good you have won, and in the good you do!”
 
-The Phantom, which had held its bloodless hand above him while it spoke,
+The [[Phantom]], which had held its bloodless hand above him while it spoke,
 as if in some unholy invocation, or some ban; and which had gradually
 advanced its eyes so close to his, that he could see how they did not
 participate in the terrible smile upon its face, but were a fixed,
 unalterable, steady horror melted before him and was gone.
 
-As he stood rooted to the spot, possessed by fear and wonder, and
-imagining he heard repeated in melancholy echoes, dying away fainter and
+As he stood rooted to the spot, possessed by [[Fear|fear]] and [[Wonder|wonder]], and
+imagining he heard repeated in [[Melancholy|melancholy]] echoes, dying away fainter and
 fainter, the words, “Destroy its like in all whom you approach!” a shrill
 cry reached his ears. It came, not from the passages beyond the door,
 but from another part of the old building, and sounded like the cry of
 some one in the dark who had lost the way.
 
 He looked confusedly upon his hands and limbs, as if to be assured of his
-identity, and then shouted in reply, loudly and wildly; for there was a
+[[Identity|identity]], and then shouted in reply, loudly and wildly; for there was a
 strangeness and terror upon him, as if he too were lost.
 
 The cry responding, and being nearer, he caught up the lamp, and raised a
@@ -52,7 +52,7 @@ out of the theatre where he lectured,—which adjoined his room.
 Associated with youth and animation, and a high amphitheatre of faces
 which his entrance charmed to interest in a moment, it was a ghostly
 place when all this life was faded out of it, and stared upon him like an
-emblem of Death.
+emblem of [[Death]].
 
 “Halloa!” he cried. “Halloa! This way! Come to the light!” When, as
 he held the curtain with one hand, and with the other raised the lamp and
@@ -61,16 +61,16 @@ him into the room like a wild-cat, and crouched down in a corner.
 
 “What is it?” he said, hastily.
 
-He might have asked “What is it?” even had he seen it well, as presently
+He might have asked “What is it?” even had he seen it [[Well|well]], as presently
 he did when he stood looking at it gathered up in its corner.
 
 A bundle of tatters, held together by a hand, in size and form almost an
 infant’s, but in its greedy, desperate little clutch, a bad old man’s. A
 face rounded and smoothed by some half-dozen years, but pinched and
 twisted by the experiences of a life. Bright eyes, but not youthful.
-Naked feet, beautiful in their childish delicacy,—ugly in the blood and
-dirt that cracked upon them. A baby savage, a young monster, a child who
-had never been a child, a creature who might live to take the outward
+Naked feet, beautiful in their childish delicacy,—ugly in the [[Blood|blood]] and
+dirt that cracked upon them. A baby savage, a young [[Monster|monster]], a [[Child|child]] who
+had never been a [[Child|child]], a creature who might live to take the outward
 form of man, but who, within, would live and perish a mere beast.
 
 Used, already, to be worried and hunted like a beast, the boy crouched
@@ -79,7 +79,7 @@ to ward off the expected blow.
 
 “I’ll bite,” he said, “if you hit me!”
 
-The time had been, and not many minutes since, when such a sight as this
+The [[Time|time]] had been, and not many minutes since, when such a sight as this
 would have wrung the Chemist’s heart. He looked upon it now, coldly; but
 with a heavy effort to remember something—he did not know what—he asked
 the boy what he did there, and whence he came.
@@ -88,11 +88,11 @@ the boy what he did there, and whence he came.
 
 “Who?”
 
-“The woman. Her that brought me here, and set me by the large fire. She
+“The woman. Her that brought me here, and set me by the large [[Fire|fire]]. She
 was so long gone, that I went to look for her, and lost myself. I don’t
 want you. I want the woman.”
 
-He made a spring, so suddenly, to get away, that the dull sound of his
+He made a [[Spring|spring]], so suddenly, to get away, that the dull sound of his
 naked feet upon the floor was near the curtain, when Redlaw caught him by
 his rags.
 
@@ -117,7 +117,7 @@ The Chemist led him to the door. “This way,” he said, looking at him
 still confusedly, but with repugnance and avoidance, growing out of his
 coldness. “I’ll take you to her.”
 
-The sharp eyes in the child’s head, wandering round the room, lighted on
+The sharp eyes in the [[Child|child]]’s head, wandering round the room, lighted on
 the table where the remnants of the dinner were.
 
 “Give me some of that!” he said, covetously.
@@ -138,18 +138,18 @@ him to follow, and was going out of the door, he trembled and stopped.
 
 “The gift that I have given, you shall give again, go where you will!”
 
-The Phantom’s words were blowing in the wind, and the wind blew chill
+The [[Phantom]]’s words were blowing in the [[Wind|wind]], and the [[Wind|wind]] blew chill
 upon him.
 
-“I’ll not go there, to-night,” he murmured faintly. “I’ll go nowhere
-to-night. Boy! straight down this long-arched passage, and past the
-great dark door into the yard,—you see the fire shining on the window
+“I’ll not go there, to-[[Night|night]],” he murmured faintly. “I’ll go nowhere
+to-[[Night|night]]. Boy! straight down this long-arched passage, and past the
+great dark door into the yard,—you see the [[Fire|fire]] shining on the [[Window|window]]
 there.”
 
-“The woman’s fire?” inquired the boy.
+“The woman’s [[Fire|fire]]?” inquired the boy.
 
 He nodded, and the naked feet had sprung away. He came back with his
 lamp, locked his door hastily, and sat down in his chair, covering his
 face like one who was frightened at himself.
 
-For now he was, indeed, alone. Alone, alone.
+For now he was, indeed, [[Alone|alone]]. [[Alone]], [[Alone|alone]].

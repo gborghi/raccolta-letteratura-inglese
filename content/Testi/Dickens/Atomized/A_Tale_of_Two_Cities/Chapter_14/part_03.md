@@ -34,16 +34,16 @@ the horses, and had laid it on the basement of the fountain, and was
 down in the mud and wet, howling over it like a wild animal.
 
 “Pardon, Monsieur the Marquis!” said a ragged and submissive man, “it is
-a child.”
+a [[Child|child]].”
 
-“Why does he make that abominable noise? Is it his child?”
+“Why does he make that abominable noise? Is it his [[Child|child]]?”
 
 “Excuse me, Monsieur the Marquis--it is a pity--yes.”
 
 The fountain was a little removed; for the street opened, where it was,
 into a space some ten or twelve yards square. As the tall man suddenly
 got up from the ground, and came running at the carriage, Monsieur the
-Marquis clapped his hand for an instant on his sword-hilt.
+Marquis clapped his hand for an instant on his [[Sword|sword]]-hilt.
 
 “Killed!” shrieked the man, in wild desperation, extending both arms at
 their length above his head, and staring at him. “Dead!”
@@ -75,7 +75,7 @@ were as silent, however, as the men.
 
 “I know all, I know all,” said the last comer. “Be a brave man, my
 Gaspard! It is better for the poor little plaything to die so, than to
-live. It has died in a moment without pain. Could it have lived an hour
+live. It has died in a moment without [[Pain|pain]]. Could it have lived an hour
 as happily?”
 
 “You are a philosopher, you there,” said the Marquis, smiling. “How do
@@ -91,7 +91,7 @@ they call you?”
 throwing him another gold coin, “and spend it as you will. The horses
 there; are they right?”
 
-Without deigning to look at the assemblage a second time, Monsieur the
+Without deigning to look at the assemblage a second [[Time|time]], Monsieur the
 Marquis leaned back in his seat, and was just being driven away with the
 air of a gentleman who had accidentally broke some common thing, and had
 paid for it, and could afford to pay for it; when his ease was suddenly
@@ -104,7 +104,7 @@ moment before; but the wretched father was grovelling on his face on
 the pavement in that spot, and the figure that stood beside him was the
 figure of a dark stout woman, knitting.
 
-“You dogs!” said the Marquis, but smoothly, and with an unchanged front,
+“You [[dogs]]!” said the Marquis, but smoothly, and with an unchanged front,
 except as to the spots on his nose: “I would ride over any of you very
 willingly, and exterminate you from the earth. If I knew which rascal
 threw at the carriage, and if that brigand were sufficiently near it, he
@@ -120,7 +120,7 @@ leaned back in his seat again, and gave the word “Go on!”
 
 He was driven on, and other carriages came whirling by in quick
 succession; the Minister, the State-Projector, the Farmer-General, the
-Doctor, the Lawyer, the Ecclesiastic, the Grand Opera, the Comedy, the
+Doctor, the Lawyer, the Ecclesiastic, the Grand Opera, the [[Comedy]], the
 whole Fancy Ball in a bright continuous flow, came whirling by. The rats
 had crept out of their holes to look on, and they remained looking
 on for hours; soldiers and police often passing between them and the
@@ -128,10 +128,10 @@ spectacle, and making a barrier behind which they slunk, and through
 which they peeped. The father had long ago taken up his bundle and
 bidden himself away with it, when the women who had tended the bundle
 while it lay on the base of the fountain, sat there watching the running
-of the water and the rolling of the Fancy Ball--when the one woman who
+of the [[Water|water]] and the [[rolling]] of the Fancy Ball--when the one woman who
 had stood conspicuous, knitting, still knitted on with the steadfastness
-of Fate. The water of the fountain ran, the swift river ran, the day ran
-into evening, so much life in the city ran into death according to rule,
-time and tide waited for no man, the rats were sleeping close together
+of Fate. The [[Water|water]] of the fountain ran, the swift [[River|river]] ran, the day ran
+into evening, so much life in the [[City|city]] ran into [[Death|death]] according to rule,
+[[Time|time]] and tide waited for no man, the rats were sleeping close together
 in their dark holes again, the Fancy Ball was lighted up at supper, all
 things ran their course.

@@ -51,7 +51,7 @@ inquiry,’ Fascination coolly answered.
 out your vouchers, and don’t talk Jerusalem palaver.’
 
 The vouchers were produced, and for the next half-hour Mr Fledgeby
-concentrated his sublime attention on them. They and the accounts were
+concentrated his [[Sublime|sublime]] attention on them. They and the accounts were
 all found correct, and the books and the papers resumed their places in
 the bag.
 
@@ -75,7 +75,7 @@ Fledgeby. ‘Can you get it at waste-paper price? That’s the question.’
 
 Riah shook his head, and Fledgeby cast his small eyes down the list.
 They presently began to twinkle, and he no sooner became conscious of
-their twinkling, than he looked up over his shoulder at the grave face
+their twinkling, than he looked up over his shoulder at the [[Grave|grave]] face
 above him, and moved to the chimney-piece. Making a desk of it, he stood
 there with his back to the old man, warming his knees, perusing the list
 at his leisure, and often returning to some lines of it, as though
@@ -96,7 +96,7 @@ Riah in a low voice to take his cue as it should be given him, replied,
 Saint Mary Axe, that I am trying to make terms for an unfortunate friend
 with in a matter of some dishonoured bills. But really Pubsey and Co.
 are so strict with their debtors, and so hard to move, that I seem to be
-wasting my time. Can’t I make ANY terms with you on my friend’s part, Mr
+wasting my [[Time|time]]. Can’t I make ANY terms with you on my friend’s part, Mr
 Riah?’
 
 ‘I am but the representative of another, sir,’ returned the Jew in a low
@@ -113,7 +113,7 @@ his hidden joke.
 ‘Always the same, always the same!’ said Lammle. ‘Mr—’
 
 ‘Riah, Pubsey and Co. Saint Mary Axe,’ Fledgeby put in, as he wiped away
-the tears that trickled from his eyes, so rare was his enjoyment of his
+the [[Tears|tears]] that trickled from his eyes, so rare was his enjoyment of his
 secret joke.
 
 ‘Mr Riah is bound to observe the invariable forms for such cases made
@@ -135,7 +135,7 @@ like to try to make terms with you once again before you go.’
 The old man, who had never raised his eyes during the whole transaction
 of Mr Fledgeby’s joke, silently bowed and passed out by the door which
 Fledgeby opened for him. Having closed it on him, Fledgeby returned to
-Lammle, standing with his back to the bedroom fire, with one hand under
+Lammle, standing with his back to the bedroom [[Fire|fire]], with one hand under
 his coat-skirts, and all his whiskers in the other.
 
 ‘Halloa!’ said Fledgeby. ‘There’s something wrong!’
@@ -144,9 +144,9 @@ his coat-skirts, and all his whiskers in the other.
 
 ‘Because you show it,’ replied Fledgeby in unintentional rhyme.
 
-‘Well then; there is,’ said Lammle; ‘there IS something wrong; the whole
+‘[[Well]] then; there is,’ said Lammle; ‘there IS something wrong; the whole
 thing’s wrong.’
 
 ‘I say!’ remonstrated Fascination very slowly, and sitting down with his
 hands on his knees to stare at his glowering friend with his back to the
-fire.
+[[Fire|fire]].

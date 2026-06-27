@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 3 (part 6)"
+title: "[[manalive]] — Chapter 3 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -15,10 +15,10 @@ tags:
 
 
 "Then he slowly withdrew his eyes from this and looked out eastward
-where the road fell away below us.  The sunset sky was a vault
+where the [[Road|road]] fell away below us.  The sunset sky was a vault
 of rich velvet, fading away into mauve and silver round the edges
 of the dark mountain amphitheatre; and between us and the ravine below
-rose up out of the deeps and went up into the heights the straight
+[[Rose|rose]] up out of the deeps and went up into the heights the straight
 solitary rock we call Green Finger.  Of a queer volcanic colour,
 and wrinkled all over with what looks undecipherable writing,
 it hung there like a Babylonian pillar or needle.
@@ -28,14 +28,14 @@ and before he spoke I knew what he meant.  Beyond the great green
 rock in the purple sky hung a single star.
 
 "`A star in the east,' he said in a strange hoarse voice like one of our
-ancient eagles'. `The wise men followed the star and found the house.
-But if I followed the star, should I find the house?'
+ancient eagles'. `The wise men followed the star and found the [[house]].
+But if I followed the star, should I find the [[house]]?'
 
 "`It depends perhaps,' I said, smiling, `on whether you are a wise man.'
 I refrained from adding that he certainly didn't look it.
 
 "`You may judge for yourself,' he answered.  `I am a man who left his own
-house because he could no longer bear to be away from it.'
+[[house]] because he could no longer bear to be away from it.'
 
 "`It certainly sounds paradoxical,' I said.
 
@@ -57,15 +57,15 @@ Your speech is English, yet you are coming from the west.'
 "`My pilgrimage is not yet accomplished,' he replied sadly.
 `I have become a pilgrim to cure myself of being an exile.'
 
-"Something in the word `pilgrim' awoke down in the roots
+"Something in the word `[[Pilgrim|pilgrim]]' awoke down in the roots
 of my ruinous experience memories of what my fathers had
 felt about the world, and of something from whence I came.
 I looked again at the little pictured lantern at which I had
 not looked for fourteen years.
 
 "`My grandmother,' I said in a low tone, `would have said that we
-were all in exile, and that no earthly house could cure the holy
-home-sickness that forbids us rest.'
+were all in [[Exile|exile]], and that no earthly [[house]] could cure the holy
+[[Home|home]]-sickness that forbids us rest.'
 
 "He was silent a long while, and watched a single eagle drift
 out beyond the Green Finger into the darkening void.
@@ -113,7 +113,7 @@ to put in as evidence the following document:--
 
 "This is to say that I am Ruth Davis, and have been housemaid to
 Mrs. I. Smith at `The Laurels' in Croydon for the last six months.
-When I came the lady was alone, with two children; she was not a widow,
+When I came the lady was [[Alone|alone]], with two children; she was not a widow,
 but her husband was away.  She was left with plenty of money and did not
 seem disturbed about him, though she often hoped he would be back soon.
 She said he was rather eccentric and a little change did him good.
@@ -123,14 +123,14 @@ over the hedge, and planted like a jumping-pole; and over the hedge,
 just like a monkey on a stick, came a huge, horrible man, all hairy
 and ragged like Robinson Crusoe.  I screamed out, but my mistress didn't
 even get out of her chair, but smiled and said he wanted shaving.
-Then he sat down quite calmly at the garden table and took a cup
-of tea, and then I realized that this must be Mr. Smith himself.
+Then he sat down quite calmly at the [[Garden|garden]] table and took a cup
+of tea, and then I realized that this must be Mr. [[smith|Smith]] himself.
 He has stopped here ever since and does not really give much trouble,
 though I sometimes fancy he is a little weak in his head.
 
 						"Ruth Davis.
 
-"P.S.--I forgot to say that he looked round at the garden and said,
+"P.S.--I forgot to say that he looked round at the [[Garden|garden]] and said,
 very loud and strong:  `Oh, what a lovely place you've got;'
 just as if he'd never seen it before."
 
@@ -138,8 +138,8 @@ just as if he'd never seen it before."
 The room had been growing dark and drowsy; the afternoon sun sent one
 heavy shaft of powdered gold across it, which fell with an intangible
 solemnity upon the empty seat of Mary Gray, for the younger women
-had left the court before the more recent of the investigations.
-Mrs. Duke was still asleep, and Innocent Smith, looking like a large
+had left the [[Court|court]] before the more recent of the investigations.
+Mrs. Duke was still asleep, and [[Innocent]] [[smith|Smith]], looking like a large
 hunchback in the twilight, was bending closer and closer to his paper toys.
 But the five men really engaged in the controversy, and concerned not
 to convince the tribunal but to convince each other, still sat round

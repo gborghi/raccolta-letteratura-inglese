@@ -17,14 +17,14 @@ tags:
 Four Stupidities
 
 I HAVE just seen a newspaper paragraph which, whether it refers
-to a fact or merely a suggestion, seems to me to go down pretty well
+to a fact or merely a suggestion, seems to me to go down pretty [[Well|well]]
 into that depth of mindlessness which calls itself the modern mind.
 It is said that influence is being brought to bear on the
-American Government to induce them to break a bottle of water
+American [[government|Government]] to induce them to break a bottle of [[Water|water]]
 instead of a bottle of champagne when they christen a battleship.
 Now it is not easy to deal adequately with the rich stupidity of that.
 It is about five follies thick, stupidity obscuring stupidity until
-one reader can hardly see more than one of the jokes at a time.
+one reader can hardly see more than one of the jokes at a [[Time|time]].
 There is something almost fascinating in the idea of trying
 to disentangle them.
 
@@ -39,25 +39,25 @@ your handkerchief.  A liquor containing alcohol (such as ginger-beer)
 is simply and superstitiously an accursed thing, which is not only not
 to be touched with the lips, but not to be touched with the hands.
 After this case, the more intemperate "Temperance" people cannot
-pretend any longer that their proposal is merely a social reform;
+pretend any longer that their proposal is merely a social [[Reform|reform]];
 it is obviously and literally a mystical taboo.  I do not see what
-right such people have to mock at the savage's fear of a fetish,
+right such people have to mock at the savage's [[Fear|fear]] of a fetish,
 still less at the peasant's respect for the relic of a saint.
-There might surely be such a thing as holy water, if it be so certain
-that there is such a thing as unholy water.
+There might surely be such a thing as holy [[Water|water]], if it be so certain
+that there is such a thing as unholy [[Water|water]].
 
 Second Stupidity.  The extraordinary confusion by which it becomes
 not only wicked to possess wine (though you never drink it),
 but becomes wicked even to destroy it.  This goes, I think,
-much further than this queer materialist madness has yet gone.
-If a champagne bottle is smashed to smithereens over the prow of a ship,
+much further than this queer materialist [[Madness|madness]] has yet gone.
+If a champagne bottle is smashed to smithereens over the prow of a [[Ship|ship]],
 I should have thought the most logical teetotaller would merely have
 been glad that there was one champagne bottle less in the world.
 As he would probably not be a person with any special sympathy
 with the old ceremonials of revelry, that is the only
 possible way in which I can imagine the thing affecting him.
 We in England used to think we could trace a slight streak of
-fanaticism in good Mrs. Carrie Nation, who used to go about breaking
+[[Fanaticism|fanaticism]] in good Mrs. Carrie Nation, who used to go about breaking
 other people's wine and spirit bottles with her little hatchet.
 But now it would appear that Mrs. Carrie Nation was a wobbler,
 one weakly compromising with the fiend of fermented drink,
@@ -97,7 +97,7 @@ I do not despise him because he came afterwards (I believe)
 to see that keeping your hat on is just as much of a form
 as taking it off; and took off his hat like other people.
 But if Penn had strictly confined himself, say, to taking off his
-hatband with laborious care, every time he entered the Royal presence,
+hatband with laborious care, every [[Time|time]] he entered the Royal presence,
 I should say that he had lost both his Quakerism and his sociability.
 He would have lost the independence that refuses recognition
 to the world, and he would not have gained the disputable
@@ -106,9 +106,9 @@ substitute of good manners.  Similarly, I could respect
 who regarded all expenditure on arms, especially on drums,
 flags, or trumpets, as so much babyish waste of money.
 But I should not even have respected them if they had
-proposed that the British Army should fly the White Flag
+proposed that the British Army should fly the White [[Flag]]
 in every battle because it was cheaper than a coloured one.
-Why have a flag at all, if it comes to that?  Or, again, I can
+Why have a [[Flag|flag]] at all, if it comes to that?  Or, again, I can
 understand the unconverted Scrooge with his bowl of gruel;
 and I like the converted Scrooge with his bowl of punch.
 But if Scrooge had insisted every Christmas on having a punch-bowl
@@ -127,10 +127,10 @@ savage or civilized are seized with Satanist panic, a man.
 But it must be somethingvaluable, or the particular thrill,
 wholesome or unwholesome, is not obtained.  It was generally
 the best sheep or the best ox; and in the rare cases of
-human sacrifice, generally somebody like the King's daughter.
+human sacrifice, generally somebody like the [[King]]'s daughter.
 Like all human appetites, it is both good and evil; it has
 many roots, a gesture of generosity, an appeal to the unknown,
 a guarantee against arrogance, a dim idea of not taking all one's
 advantage from fortune:  but they all depend on the value,
 and these men evidently understand none of them, when they
-fill the bottle with water.
+fill the bottle with [[Water|water]].

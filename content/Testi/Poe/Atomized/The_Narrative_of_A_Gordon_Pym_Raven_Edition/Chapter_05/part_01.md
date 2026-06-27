@@ -22,7 +22,7 @@ CHAPTER 5
 
       For some minutes after the cook had left the forecastle, Augustus
 
-      abandoned himself to despair, never hoping to leave the berth
+      abandoned himself to [[Despair|despair]], never hoping to leave the berth
 
       alive. He now came to the resolution of acquainting the first of
 
@@ -32,7 +32,7 @@ CHAPTER 5
 
       thirst in the hold,—for it had been ten days since I was first
 
-      imprisoned, and my jug of water was not a plentiful supply even
+      imprisoned, and my jug of [[Water|water]] was not a plentiful supply even
 
       for four. As he was thinking on this subject, the idea came all
 
@@ -78,7 +78,7 @@ CHAPTER 5
 
       was now heard at the forecastle companion-way, and he had just
 
-      time to put his right hand into its handcuff (the left had not
+      [[Time|time]] to put his right hand into its handcuff (the left had not
 
       been removed) and to draw the rope in a slipknot around his
 
@@ -90,7 +90,7 @@ CHAPTER 5
 
       animal, and thought it would give me pleasure to have him with me
 
-      during the voyage. He went up to our house for him immediately
+      during the voyage. He went up to our [[house]] for him immediately
 
       after first taking me into the hold, but did not think of
 
@@ -110,11 +110,11 @@ CHAPTER 5
 
       him out, and, with a species of good feeling which my friend knew
 
-      well how to appreciate, had now brought him to him in the
+      [[Well|well]] how to appreciate, had now brought him to him in the
 
-      forecastle as a companion, leaving at the same time some salt
+      forecastle as a companion, leaving at the same [[Time|time]] some salt
 
-      junk and potatoes, with a can of water, he then went on deck,
+      junk and potatoes, with a can of [[Water|water]], he then went on deck,
 
       promising to come down with something more to eat on the next
 
@@ -140,7 +140,7 @@ CHAPTER 5
 
       its proper position. For the remainder of the day, however, no
 
-      disturbance occurred, and by night he had completely divided the
+      disturbance occurred, and by [[Night|night]] he had completely divided the
 
       plank. It should here be observed that none of the crew occupied
 
@@ -172,17 +172,17 @@ CHAPTER 5
 
       oil-casks piled nearly as high as the upper deck, there being
 
-      barely room enough left for his body. Upon reaching the hatch he
+      barely room enough left for his [[Body|body]]. Upon reaching the hatch he
 
       found that Tiger had followed him below, squeezing between two
 
       rows of the casks. It was now too late, however, to attempt
 
-      getting to me before dawn, as the chief difficulty lay in passing
+      getting to me before [[Dawn|dawn]], as the chief difficulty lay in passing
 
       through the close stowage in the lower hold. He therefore
 
-      resolved to return, and wait till the next night. With this
+      resolved to return, and wait till the next [[Night|night]]. With this
 
       design, he proceeded to loosen the hatch, so that he might have
 
@@ -192,8 +192,8 @@ CHAPTER 5
 
       opening produced, snuffed for a moment, and then uttered a long
 
-      whine, scratching at the same time, as if anxious to remove the
+      whine, scratching at the same [[Time|time]], as if anxious to remove the
 
-      covering with his paws. There could be no doubt, from his
+      covering with his paws. There could be no [[Doubt|doubt]], from his
 
       behaviour, that he was aware of my being in the hold, and

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 35: IN WHICH MR. PICKWICK THINKS HE HAD BETTER GO TO BATH; AND (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 35: IN WHICH MR. [[Pickwick|PICKWICK]] THINKS HE HAD BETTER GO TO BATH; AND (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -20,7 +20,7 @@ small talk and scandal of the day, with a relish and gusto which
 sufficiently bespoke the intensity of the pleasure they derived from the
 occupation. Mingled with these groups, were three or four match-making
 mammas, appearing to be wholly absorbed by the conversation in which
-they were taking part, but failing not from time to time to cast an
+they were taking part, but failing not from [[Time|time]] to [[Time|time]] to cast an
 anxious sidelong glance upon their daughters, who, remembering the
 maternal injunction to make the best use of their youth, had already
 commenced incipient flirtations in the mislaying scarves, putting on
@@ -45,13 +45,13 @@ glitter, and show; of richly-dressed people, handsome mirrors, chalked
 floors, girandoles and wax-candles; and in all parts of the scene,
 gliding from spot to spot in silent softness, bowing obsequiously to
 this party, nodding familiarly to that, and smiling complacently on all,
-was the sprucely-attired person of Angelo Cyrus Bantam, Esquire, the
+was the sprucely-attired person of [[Angelo]] Cyrus Bantam, Esquire, the
 Master of the Ceremonies.
 
-‘Stop in the tea-room. Take your sixpenn’orth. Then lay on hot water,
+‘Stop in the tea-room. Take your sixpenn’orth. Then lay on hot [[Water|water]],
 and call it tea. Drink it,’ said Mr. Dowler, in a loud voice, directing
-Mr. Pickwick, who advanced at the head of the little party, with Mrs.
-Dowler on his arm. Into the tea-room Mr. Pickwick turned; and catching
+Mr. [[Pickwick]], who advanced at the head of the little party, with Mrs.
+Dowler on his arm. Into the tea-room Mr. [[Pickwick]] turned; and catching
 sight of him, Mr. Bantam corkscrewed his way through the crowd and
 welcomed him with ecstasy.
 
@@ -61,29 +61,29 @@ markable!’
 
 ‘Anybody here?’ inquired Dowler suspiciously.
 
-‘Anybody! The _elite _of Ba--ath. Mr. Pickwick, do you see the old lady
+‘Anybody! The _elite _of Ba--ath. Mr. [[Pickwick]], do you see the old lady
 in the gauze turban?’
 
-‘The fat old lady?’ inquired Mr. Pickwick innocently.
+‘The fat old lady?’ inquired Mr. [[Pickwick]] innocently.
 
 ‘Hush, my dear sir--nobody’s fat or old in Ba--ath. That’s the Dowager
 Lady Snuphanuph.’
 
-‘Is it, indeed?’ said Mr. Pickwick.
+‘Is it, indeed?’ said Mr. [[Pickwick]].
 
 ‘No less a person, I assure you,’ said the Master of the Ceremonies.
-‘Hush. Draw a little nearer, Mr. Pickwick. You see the splendidly-
+‘Hush. Draw a little nearer, Mr. [[Pickwick]]. You see the splendidly-
 dressed young man coming this way?’
 
 ‘The one with the long hair, and the particularly small forehead?’
-inquired Mr. Pickwick.
+inquired Mr. [[Pickwick]].
 
 ‘The same. The richest young man in Ba--ath at this moment. Young Lord
 Mutanhed.’
 
-‘You don’t say so?’ said Mr. Pickwick.
+‘You don’t say so?’ said Mr. [[Pickwick]].
 
-‘Yes. You’ll hear his voice in a moment, Mr. Pickwick. He’ll speak to
+‘Yes. You’ll hear his voice in a moment, Mr. [[Pickwick]]. He’ll speak to
 me. The other gentleman with him, in the red under-waistcoat and dark
 moustache, is the Honourable Mr. Crushton, his bosom friend. How do you
 do, my Lord?’
@@ -96,7 +96,7 @@ do, my Lord?’
 
 ‘Have you seen his Lordship’s mail-cart, Bantam?’ inquired the
 Honourable Mr. Crushton, after a short pause, during which young Lord
-Mutanhed had been endeavouring to stare Mr. Pickwick out of countenance,
+Mutanhed had been endeavouring to stare Mr. [[Pickwick]] out of countenance,
 and Mr. Crushton had been reflecting what subject his Lordship could
 talk about best.
 
@@ -122,24 +122,24 @@ obsequious Mr. Crushton, Lord Mutanhed walked away.
 
 ‘Delightful young man, his Lordship,’ said the Master of the Ceremonies.
 
-‘So I should think,’ rejoined Mr. Pickwick drily.
+‘So I should think,’ rejoined Mr. [[Pickwick]] drily.
 
 The dancing having commenced, the necessary introductions having been
-made, and all preliminaries arranged, Angelo Bantam rejoined Mr.
-Pickwick, and led him into the card-room.
+made, and all preliminaries arranged, [[Angelo]] Bantam rejoined Mr.
+[[Pickwick]], and led him into the card-room.
 
 Just at the very moment of their entrance, the Dowager Lady Snuphanuph
 and two other ladies of an ancient and whist-like appearance, were
 hovering over an unoccupied card-table; and they no sooner set eyes upon
-Mr. Pickwick under the convoy of Angelo Bantam, than they exchanged
+Mr. [[Pickwick]] under the convoy of [[Angelo]] Bantam, than they exchanged
 glances with each other, seeing that he was precisely the very person
 they wanted, to make up the rubber.
 
 ‘My dear Bantam,’ said the Dowager Lady Snuphanuph coaxingly, ‘find us
-some nice creature to make up this table; there’s a good soul.’ Mr.
-Pickwick happened to be looking another way at the moment, so her
+some nice creature to make up this table; there’s a good [[Soul|soul]].’ Mr.
+[[Pickwick]] happened to be looking another way at the moment, so her
 Ladyship nodded her head towards him, and frowned expressively.
 
-‘My friend Mr. Pickwick, my Lady, will be most happy, I am sure,
-remarkably so,’ said the M.C., taking the hint. ‘Mr. Pickwick, Lady
+‘My friend Mr. [[Pickwick]], my Lady, will be most happy, I am sure,
+remarkably so,’ said the M.C., taking the hint. ‘Mr. [[Pickwick]], Lady
 Snuphanuph--Mrs. Colonel Wugsby--Miss Bolo.’

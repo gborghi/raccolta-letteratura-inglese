@@ -22,11 +22,11 @@ had reached in Europe were the limits of human existence;
 at its best it had only reached the same limits anywhere else.
 The Roman stoics did not need any Chinamen to teach them stoicism.
 The Pythagoreans did not need any Hindus to teach them about
-recurrence or the simple life or the beauty of being a vegetarian.
+recurrence or the simple life or the [[Beauty|beauty]] of being a [[vegetarian]].
 In so far as they could get these things from the East, they had already
 got rather too much of them from the East.  The Syncretists were
 as convinced as Theosophists that all religions are really the same.
-And how else could they have extended philosophy merely by
+And how else could they have extended [[philosophy]] merely by
 extending geography?  It can hardly be proposed that they should learn
 a purer religion from the Aztecs or sit at the feet of the Incas
 of Peru.  All the rest of the world was a welter of barbarism.
@@ -37,7 +37,7 @@ across those mighty works of marble and stone, those colossal
 amphitheatres and aqueducts.  Man could do no more.
 
 For it was not the message blazed on the Babylonian wall, that one
-king was found wanting or his one kingdom given to a stranger.
+[[King|king]] was found wanting or his one kingdom given to a stranger.
 It was no such good news as the news of invasion and conquest.
 There was nothing left that could conquer Rome; but there was also
 nothing left that could improve it.  It was the strongest thing that
@@ -49,48 +49,48 @@ The peoples had pooled their resources and still there was not enough.
 The empires had gone into partnership and they were still bankrupt.
 No philosopher who was really philosophical could think anything
 except that, in that central sea, the wave of the world had risen
-to its highest, seeming to touch the stars.  But the wave was
+to its highest, seeming to touch the [[Stars|stars]].  But the wave was
 already stooping; for it was only the wave of the world.
 
-That mythology and that philosophy into which paganism has
+That mythology and that [[philosophy]] into which paganism has
 already been analysed had thus both of them been drained most
-literally to the dregs.  If with the multiplication of magic
+literally to the dregs.  If with the multiplication of [[Magic|magic]]
 the third department, which we have called the demons, was even
 increasingly active, it was never anything but destructive.
 There remains only the fourth element or rather the first;
 that which had been in a sense forgotten because it was the first.
 I mean the primary and overpowering yet impalpable impression that
 the universe after all has one origin and one aim; and because it
-has an aim must have an author.  What became of this great truth
-in the background of men's minds, at this time, it is perhaps more
+has an aim must have an author.  What became of this great [[Truth|truth]]
+in the background of men's minds, at this [[Time|time]], it is perhaps more
 difficult to determine.  Some of the Stoics undoubtedly saw it more
 and more clearly as the clouds of mythology cleared and thinned away;
 and great men among them did much even to the last to lay
-the foundations of a concept of the moral unity of the world.
+the foundations of a concept of the moral [[unity]] of the world.
 The Jews still held their secret certainty of it jealously behind
 high fences of exclusiveness; yet it is intensely characteristic
 of the society and the situation that some fashionable figures,
 especially fashionable ladies, actually embraced Judaism.
 But in the case of many others I fancy there entered at this point
-a new negation.  Atheism became really possible in that abnormal time;
+a new negation.  Atheism became really possible in that abnormal [[Time|time]];
 for atheism is abnormality.  It is not merely the denial of a dogma.
-It is the reversal of a subconscious assumption in the soul;
+It is the reversal of a subconscious assumption in the [[Soul|soul]];
 the sense that there is a meaning and a direction in the world it sees.
 Lucretius, the first evolutionist who endeavoured to substitute
-Evolution for God, had already dangled before men's eyes his dance
+Evolution for God, had already dangled before men's eyes his [[Dance|dance]]
 of glittering atoms, by which he conceived cosmos as created by chaos.
-But it was not his strong poetry or his sad philosophy, as I fancy,
+But it was not his strong poetry or his sad [[philosophy]], as I fancy,
 that made it possible for men to entertain such a vision.
-It was something in the sense of impotence and despair with which men
-shook their fists vainly at the stars, as they saw all the best
+It was something in the sense of impotence and [[Despair|despair]] with which men
+shook their fists vainly at the [[Stars|stars]], as they saw all the best
 work of humanity sinking slowly and helplessly into a swamp.
 They could easily believe that even creation itself was not a
 creation but a perpetual fall, when they saw that the weightiest
 and worthiest of all human creations was falling by its own weight.
-They could fancy that all the stars were falling stars; and that
+They could fancy that all the [[Stars|stars]] were falling [[Stars|stars]]; and that
 the very pillars of their own solemn porticos were bowed under a sort
-of gradual deluge.  To men in that mood there was a reason for atheism
-that is in some sense reasonable.  Mythology might fade and philosophy
+of gradual [[deluge]].  To men in that mood there was a reason for atheism
+that is in some sense reasonable.  Mythology might fade and [[philosophy]]
 might stiffen; but if behind these things there was a reality,
 surely that reality might have sustained things as they sank.
 There was no God; if there had been a God, surely this was the very
@@ -104,7 +104,7 @@ of the Empire; that each group should worship freely and merely
 live a sort of official flourish of thanks to the tolerant Emperor,
 by tossing a little incense to him under his official title of Divus.
 Naturally there was no difficulty about that; or rather it was
-a long time before the world realised that there ever had been even
+a long [[Time|time]] before the world realised that there ever had been even
 a trivial difficulty anywhere.  The members of some Eastern sect
 or secret society or other seemed to have made a scene somewhere;
 nobody could imagine why.  The incident occurred once or twice
@@ -112,12 +112,12 @@ again and began to arouse irritation out of proportion to
 its insignificance.  It was not exactly what these provincials said;
 though of course it sounded queer enough.  They seemed to be saying
 that God was dead and that they themselves had seen him die.
-This might be one of the many manias produced by the despair
+This might be one of the many manias produced by the [[Despair|despair]]
 of the age; only they did not seem particularly despairing.
 They seem quite unnaturally joyful about it, and gave the reason
-that the death of God had allowed them to eat him and drink his blood.
+that the [[Death|death]] of God had allowed them to eat him and drink his [[Blood|blood]].
 According to other accounts God was not exactly dead after all;
-there trailed through the bewildered imagination some sort
+there trailed through the bewildered [[Imagination|imagination]] some sort
 of fantastic procession of the funeral of God, at which the sun
 turned black, but which ended with the dead omnipotence breaking
 out of the tomb and rising again like the sun.  But it was not
@@ -137,7 +137,7 @@ It was as if a new meteoric metal had fallen on the earth;
 it was a difference of substance to the touch.  Those who touched
 their foundation fancied they had struck a rock.
 
-With a strange rapidity, like the changes of a dream,
+With a strange rapidity, like the changes of [[A Dream|a dream]],
 the proportions of things seemed to change in their presence.
 Before most men knew what had happened, these few men were
 palpably present.  They were important enough to be ignored.
@@ -155,10 +155,10 @@ Nobody yet knows very clearly why that level world has thus lost its
 balance about the people in its midst; but they stand unnaturally still
 while the arena and the world seem to revolve round them.  And there
 shone on them in that dark hour a light that has never been darkened;
-a white fire clinging to that group like an unearthly phosphorescence,
-blazing its track through the twilights of history and confounding
+a white [[Fire|fire]] clinging to that group like an unearthly phosphorescence,
+blazing its track through the twilights of [[history]] and confounding
 every effort to confound it with the mists of mythology and theory;
-that shaft of light or lightning by which the world itself has struck
+that shaft of light or [[Lightning|lightning]] by which the world itself has struck
 and isolated and crowned it; by which its own enemies have made it
 more illustrious and its own critics have made it more inexplicable;
 the halo of hatred around the Church of God.

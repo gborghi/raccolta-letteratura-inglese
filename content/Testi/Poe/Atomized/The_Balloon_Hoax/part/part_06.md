@@ -1,5 +1,5 @@
 ---
-title: "The Balloon-Hoax (part 6)"
+title: "[[The Balloon-Hoax]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Balloon-Hoax-(Poe)"
@@ -62,7 +62,7 @@ tags:
 
       counting from shore to shore. No serious accident occurred. No
 
-      real danger was at any time apprehended. The balloon was
+      real danger was at any [[Time|time]] apprehended. The balloon was
 
       exhausted and secured without trouble; and when the MS. from
 

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion"
+title: "[[Persuasion]]"
 author: "Austen"
 unitType: work
 parentWork: "Works/Persuasion-(Austen)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-Persuasion
+[[Persuasion]]
 
 
 
@@ -101,7 +101,7 @@ CHAPTER I.
 
 
 
-Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who,
+[[Sir Walter Elliot]], of Kellynch Hall, in Somersetshire, was a man who,
 
 for his own amusement, never took up any book but the Baronetage; there
 
@@ -117,7 +117,7 @@ into pity and contempt as he turned over the almost endless creations
 
 of the last century; and there, if every other leaf were powerless, he
 
-could read his own history with an interest which never failed. This
+could read his own [[history]] with an interest which never failed. This
 
 was the page at which the favourite volume always opened:
 
@@ -133,7 +133,7 @@ was the page at which the favourite volume always opened:
 
 daughter of James Stevenson, Esq. of South Park, in the county of
 
-Gloucester, by which lady (who died 1800) he has issue Elizabeth, born
+[[Gloucester]], by which lady (who died 1800) he has issue Elizabeth, born
 
 June 1, 1785; Anne, born August 9, 1787; a still-born son, November 5,
 
@@ -157,7 +157,7 @@ wife.
 
 
 
-Then followed the history and rise of the ancient and respectable
+Then followed the [[history]] and rise of the ancient and respectable
 
 family, in the usual terms; how it had been first settled in Cheshire;
 
@@ -183,9 +183,9 @@ second Sir Walter.”
 
 
 
-Vanity was the beginning and the end of Sir Walter Elliot’s character;
+[[Vanity]] was the beginning and the end of [[Sir Walter Elliot]]’s character;
 
-vanity of person and of situation. He had been remarkably handsome in
+[[Vanity|vanity]] of person and of situation. He had been remarkably handsome in
 
 his youth; and, at fifty-four, was still a very fine man. Few women
 
@@ -193,9 +193,9 @@ could think more of their personal appearance than he did, nor could
 
 the valet of any new made lord be more delighted with the place he held
 
-in society. He considered the blessing of beauty as inferior only to
+in society. He considered the blessing of [[Beauty|beauty]] as inferior only to
 
-the blessing of a baronetcy; and the Sir Walter Elliot, who united
+the blessing of a baronetcy; and the [[Sir Walter Elliot]], who united
 
 these gifts, was the constant object of his warmest respect and
 
@@ -247,7 +247,7 @@ This friend, and Sir Walter, did not marry, whatever might have been
 
 anticipated on that head by their acquaintance. Thirteen years had
 
-passed away since Lady Elliot’s death, and they were still near
+passed away since Lady Elliot’s [[Death|death]], and they were still near
 
 neighbours and intimate friends, and one remained a widower, the other
 
@@ -255,9 +255,9 @@ a widow.
 
 
 
-That Lady Russell, of steady age and character, and extremely well
+That [[Lady Russell]], of steady age and character, and extremely [[Well|well]]
 
-provided for, should have no thought of a second marriage, needs no
+provided for, should have no thought of a second [[Marriage|marriage]], needs no
 
 apology to the public, which is rather apt to be unreasonably
 
@@ -295,15 +295,15 @@ weight, her convenience was always to give way—she was only Anne.
 
 
 
-To Lady Russell, indeed, she was a most dear and highly valued
+To [[Lady Russell]], indeed, she was a most dear and highly valued
 
-god-daughter, favourite, and friend. Lady Russell loved them all; but
+god-daughter, favourite, and friend. [[Lady Russell]] loved them all; but
 
 it was only in Anne that she could fancy the mother to revive again.
 
 
 
-A few years before, Anne Elliot had been a very pretty girl, but her
+A few years before, [[Anne Elliot]] had been a very pretty girl, but her
 
 bloom had vanished early; and as even in its height, her father had
 
@@ -313,7 +313,7 @@ features and mild dark eyes from his own), there could be nothing in
 
 them, now that she was faded and thin, to excite his esteem. He had
 
-never indulged much hope, he had now none, of ever reading her name in
+never indulged much [[Hope|hope]], he had now none, of ever reading her name in
 
 any other page of his favourite work. All equality of alliance must
 
@@ -321,7 +321,7 @@ rest with Elizabeth, for Mary had merely connected herself with an old
 
 country family of respectability and large fortune, and had therefore
 
-_given_ all the honour and received none: Elizabeth would, one day or
+_given_ all the [[Honour|honour]] and received none: Elizabeth would, one day or
 
 other, marry suitably.
 
@@ -331,7 +331,7 @@ It sometimes happens that a woman is handsomer at twenty-nine than she
 
 was ten years before; and, generally speaking, if there has been
 
-neither ill health nor anxiety, it is a time of life at which scarcely
+neither ill health nor anxiety, it is a [[Time|time]] of life at which scarcely
 
 any charm is lost. It was so with Elizabeth, still the same handsome
 
@@ -339,7 +339,7 @@ Miss Elliot that she had begun to be thirteen years ago, and Sir Walter
 
 might be excused, therefore, in forgetting her age, or, at least, be
 
-deemed only half a fool, for thinking himself and Elizabeth as blooming
+deemed only half a [[Fool|fool]], for thinking himself and Elizabeth as blooming
 
 as ever, amidst the wreck of the good looks of everybody else; for he
 
@@ -349,7 +349,7 @@ were growing. Anne haggard, Mary coarse, every face in the
 
 neighbourhood worsting, and the rapid increase of the crow’s foot about
 
-Lady Russell’s temples had long been a distress to him.
+[[Lady Russell]]’s temples had long been a distress to him.
 
 
 
@@ -357,15 +357,15 @@ Elizabeth did not quite equal her father in personal contentment.
 
 Thirteen years had seen her mistress of Kellynch Hall, presiding and
 
-directing with a self-possession and decision which could never have
+directing with a [[Self|self]]-possession and decision which could never have
 
 given the idea of her being younger than she was. For thirteen years
 
 had she been doing the honours, and laying down the domestic law at
 
-home, and leading the way to the chaise and four, and walking
+[[Home|home]], and leading the way to the chaise and four, and walking
 
-immediately after Lady Russell out of all the drawing-rooms and
+immediately after [[Lady Russell]] out of all the drawing-rooms and
 
 dining-rooms in the country. Thirteen winters’ revolving frosts had
 
@@ -373,7 +373,7 @@ seen her opening every ball of credit which a scanty neighbourhood
 
 afforded, and thirteen springs shewn their blossoms, as she travelled
 
-up to London with her father, for a few weeks’ annual enjoyment of the
+up to [[London]] with her father, for a few weeks’ annual enjoyment of the
 
 great world. She had the remembrance of all this, she had the
 
@@ -385,13 +385,13 @@ handsome as ever, but she felt her approach to the years of danger, and
 
 would have rejoiced to be certain of being properly solicited by
 
-baronet-blood within the next twelvemonth or two. Then might she again
+baronet-[[Blood|blood]] within the next twelvemonth or two. Then might she again
 
 take up the book of books with as much enjoyment as in her early youth,
 
 but now she liked it not. Always to be presented with the date of her
 
-own birth and see no marriage follow but that of a youngest sister,
+own birth and see no [[Marriage|marriage]] follow but that of a youngest sister,
 
 made the book an evil; and more than once, when her father had left it
 
@@ -403,7 +403,7 @@ pushed it away.
 
 She had had a disappointment, moreover, which that book, and especially
 
-the history of her own family, must ever present the remembrance of.
+the [[history]] of her own family, must ever present the remembrance of.
 
 The heir presumptive, the very William Walter Elliot, Esq., whose
 
@@ -419,7 +419,7 @@ in the event of her having no brother, the future baronet, meant to
 
 marry him, and her father had always meant that she should. He had not
 
-been known to them as a boy; but soon after Lady Elliot’s death, Sir
+been known to them as a boy; but soon after Lady Elliot’s [[Death|death]], Sir
 
 Walter had sought the acquaintance, and though his overtures had not
 
@@ -427,13 +427,13 @@ been met with any warmth, he had persevered in seeking it, making
 
 allowance for the modest drawing-back of youth; and, in one of their
 
-spring excursions to London, when Elizabeth was in her first bloom, Mr
+[[spring]] excursions to [[London]], when Elizabeth was in her first bloom, Mr
 
 Elliot had been forced into the introduction.
 
 
 
-He was at that time a very young man, just engaged in the study of the
+He was at that [[Time|time]] a very young man, just engaged in the study of the
 
 law; and Elizabeth found him extremely agreeable, and every plan in his
 
@@ -441,13 +441,13 @@ favour was confirmed. He was invited to Kellynch Hall; he was talked of
 
 and expected all the rest of the year; but he never came. The following
 
-spring he was seen again in town, found equally agreeable, again
+[[spring]] he was seen again in town, found equally agreeable, again
 
 encouraged, invited, and expected, and again he did not come; and the
 
 next tidings were that he was married. Instead of pushing his fortune
 
-in the line marked out for the heir of the house of Elliot, he had
+in the line marked out for the heir of the [[house]] of Elliot, he had
 
 purchased independence by uniting himself to a rich woman of inferior
 
@@ -455,13 +455,13 @@ birth.
 
 
 
-Sir Walter had resented it. As the head of the house, he felt that he
+Sir Walter had resented it. As the head of the [[house]], he felt that he
 
 ought to have been consulted, especially after taking the young man so
 
 publicly by the hand; “For they must have been seen together,” he
 
-observed, “once at Tattersall’s, and twice in the lobby of the House of
+observed, “once at Tattersall’s, and twice in the lobby of the [[house|House]] of
 
 Commons.” His disapprobation was expressed, but apparently very little
 
@@ -475,13 +475,13 @@ ceased.
 
 
 
-This very awkward history of Mr Elliot was still, after an interval of
+This very awkward [[history]] of Mr Elliot was still, after an interval of
 
 several years, felt with anger by Elizabeth, who had liked the man for
 
 himself, and still more for being her father’s heir, and whose strong
 
-family pride could see only in _him_ a proper match for Sir Walter
+family [[Pride|pride]] could see only in _him_ a proper match for Sir Walter
 
 Elliot’s eldest daughter. There was not a baronet from A to Z whom her
 
@@ -489,11 +489,11 @@ feelings could have so willingly acknowledged as an equal. Yet so
 
 miserably had he conducted himself, that though she was at this present
 
-time (the summer of 1814) wearing black ribbons for his wife, she could
+[[Time|time]] (the [[Summer|summer]] of 1814) wearing black ribbons for his wife, she could
 
 not admit him to be worth thinking of again. The disgrace of his first
 
-marriage might, perhaps, as there was no reason to suppose it
+[[Marriage|marriage]] might, perhaps, as there was no reason to suppose it
 
 perpetuated by offspring, have been got over, had he not done worse;
 
@@ -501,7 +501,7 @@ but he had, as by the accustomary intervention of kind friends, they
 
 had been informed, spoken most disrespectfully of them all, most
 
-slightingly and contemptuously of the very blood he belonged to, and
+slightingly and contemptuously of the very [[Blood|blood]] he belonged to, and
 
 the honours which were hereafter to be his own. This could not be
 
@@ -509,7 +509,7 @@ pardoned.
 
 
 
-Such were Elizabeth Elliot’s sentiments and sensations; such the cares
+Such were [[Elizabeth Elliot]]’s sentiments and sensations; such the cares
 
 to alloy, the agitations to vary, the sameness and the elegance, the
 
@@ -519,7 +519,7 @@ to give interest to a long, uneventful residence in one country circle,
 
 to fill the vacancies which there were no habits of utility abroad, no
 
-talents or accomplishments for home, to occupy.
+talents or accomplishments for [[Home|home]], to occupy.
 
 
 
@@ -543,7 +543,7 @@ died all such right-mindedness, and from that period he had been
 
 constantly exceeding it. It had not been possible for him to spend
 
-less; he had done nothing but what Sir Walter Elliot was imperiously
+less; he had done nothing but what [[Sir Walter Elliot]] was imperiously
 
 called on to do; but blameless as he was, he was not only growing
 
@@ -551,7 +551,7 @@ dreadfully in debt, but was hearing of it so often, that it became vain
 
 to attempt concealing it longer, even partially, from his daughter. He
 
-had given her some hints of it the last spring in town; he had gone so
+had given her some hints of it the last [[spring]] in town; he had gone so
 
 far even as to say, “Can we retrench? Does it occur to you that there
 
@@ -601,7 +601,7 @@ entire, as he had received it.
 
 Their two confidential friends, Mr Shepherd, who lived in the
 
-neighbouring market town, and Lady Russell, were called on to advise them;
+neighbouring market town, and [[Lady Russell]], were called on to advise them;
 
 and both father and daughter seemed to expect that something should be
 
@@ -609,7 +609,7 @@ struck out by one or the other to remove their embarrassments and
 
 reduce their expenditure, without involving the loss of any indulgence
 
-of taste or pride.
+of taste or [[Pride|pride]].
 
 
 
@@ -633,7 +633,7 @@ prompted by anybody else, excused himself from offering the slightest
 
 hint, and only begged leave to recommend an implicit reference to the
 
-excellent judgement of Lady Russell, from whose known good sense he
+excellent judgement of [[Lady Russell]], from whose known good sense he
 
 fully expected to have just such resolute measures advised as he meant
 
@@ -641,7 +641,7 @@ to see finally adopted.
 
 
 
-Lady Russell was most anxiously zealous on the subject, and gave it
+[[Lady Russell]] was most anxiously zealous on the subject, and gave it
 
 much serious consideration. She was a woman rather of sound than of
 
@@ -649,13 +649,13 @@ quick abilities, whose difficulties in coming to any decision in this
 
 instance were great, from the opposition of two leading principles. She
 
-was of strict integrity herself, with a delicate sense of honour; but
+was of strict integrity herself, with a delicate sense of [[Honour|honour]]; but
 
 she was as desirous of saving Sir Walter’s feelings, as solicitous for
 
 the credit of the family, as aristocratic in her ideas of what was due
 
-to them, as anybody of sense and honesty could well be. She was a
+to them, as anybody of sense and honesty could [[Well|well]] be. She was a
 
 benevolent, charitable, good woman, and capable of strong attachments,
 
@@ -685,9 +685,9 @@ under his present difficulties.
 
 
 
-They must retrench; that did not admit of a doubt. But she was very
+They must retrench; that did not admit of a [[Doubt|doubt]]. But she was very
 
-anxious to have it done with the least possible pain to him and
+anxious to have it done with the least possible [[Pain|pain]] to him and
 
 Elizabeth. She drew up plans of economy, she made exact calculations,
 
@@ -703,23 +703,23 @@ Sir Walter. Every emendation of Anne’s had been on the side of honesty
 
 against importance. She wanted more vigorous measures, a more complete
 
-reformation, a quicker release from debt, a much higher tone of
+[[Reformation|reformation]], a quicker release from debt, a much higher tone of
 
 indifference for everything but justice and equity.
 
 
 
-“If we can persuade your father to all this,” said Lady Russell,
+“If we can persuade your father to all this,” said [[Lady Russell]],
 
 looking over her paper, “much may be done. If he will adopt these
 
-regulations, in seven years he will be clear; and I hope we may be able
+regulations, in seven years he will be clear; and I [[Hope|hope]] we may be able
 
 to convince him and Elizabeth, that Kellynch Hall has a respectability
 
 in itself which cannot be affected by these reductions; and that the
 
-true dignity of Sir Walter Elliot will be very far from lessened in the
+true dignity of [[Sir Walter Elliot]] will be very far from lessened in the
 
 eyes of sensible people, by acting like a man of principle. What will
 
@@ -727,15 +727,15 @@ he be doing, in fact, but what very many of our first families have
 
 done, or ought to do? There will be nothing singular in his case; and
 
-it is singularity which often makes the worst part of our suffering, as
+it is singularity which often makes the worst part of our [[Suffering|suffering]], as
 
-it always does of our conduct. I have great hope of prevailing. We must
+it always does of our conduct. I have great [[Hope|hope]] of prevailing. We must
 
 be serious and decided; for after all, the person who has contracted
 
 debts must pay them; and though a great deal is due to the feelings of
 
-the gentleman, and the head of a house, like your father, there is
+the gentleman, and the head of a [[house]], like your father, there is
 
 still more due to the character of an honest man.”
 
@@ -751,19 +751,19 @@ the expedition which the most comprehensive retrenchments could secure,
 
 and saw no dignity in anything short of it. She wanted it to be
 
-prescribed, and felt as a duty. She rated Lady Russell’s influence
+prescribed, and felt as a duty. She rated [[Lady Russell]]’s influence
 
-highly; and as to the severe degree of self-denial which her own
+highly; and as to the severe degree of [[Self|self]]-denial which her own
 
-conscience prompted, she believed there might be little more difficulty
+[[Conscience|conscience]] prompted, she believed there might be little more difficulty
 
-in persuading them to a complete, than to half a reformation. Her
+in persuading them to a complete, than to half a [[Reformation|reformation]]. Her
 
 knowledge of her father and Elizabeth inclined her to think that the
 
 sacrifice of one pair of horses would be hardly less painful than of
 
-both, and so on, through the whole list of Lady Russell’s too gentle
+both, and so on, through the whole list of [[Lady Russell]]’s too gentle
 
 reductions.
 
@@ -771,11 +771,11 @@ reductions.
 
 How Anne’s more rigid requisitions might have been taken is of little
 
-consequence. Lady Russell’s had no success at all: could not be put up
+consequence. [[Lady Russell]]’s had no [[success]] at all: could not be put up
 
 with, were not to be borne. “What! every comfort of life knocked off!
 
-Journeys, London, servants, horses, table—contractions and restrictions
+Journeys, [[London]], servants, horses, table—contractions and restrictions
 
 every where! To live no longer with the decencies even of a private
 
@@ -797,7 +797,7 @@ which ought to dictate, he had no scruple,” he said, “in confessing his
 
 judgement to be entirely on that side. It did not appear to him that
 
-Sir Walter could materially alter his style of living in a house which
+Sir Walter could materially alter his style of living in a [[house]] which
 
 had such a character of hospitality and ancient dignity to support. In
 
@@ -811,33 +811,33 @@ to model his household.”
 
 Sir Walter would quit Kellynch Hall; and after a very few days more of
 
-doubt and indecision, the great question of whither he should go was
+[[Doubt|doubt]] and indecision, the great question of whither he should go was
 
 settled, and the first outline of this important change made out.
 
 
 
-There had been three alternatives, London, Bath, or another house in
+There had been three alternatives, [[London]], Bath, or another [[house]] in
 
-the country. All Anne’s wishes had been for the latter. A small house
+the country. All Anne’s wishes had been for the latter. A small [[house]]
 
-in their own neighbourhood, where they might still have Lady Russell’s
+in their own neighbourhood, where they might still have [[Lady Russell]]’s
 
 society, still be near Mary, and still have the pleasure of sometimes
 
 seeing the lawns and groves of Kellynch, was the object of her
 
-ambition. But the usual fate of Anne attended her, in having something
+[[Ambition|ambition]]. But the usual fate of Anne attended her, in having something
 
 very opposite from her inclination fixed on. She disliked Bath, and did
 
-not think it agreed with her; and Bath was to be her home.
+not think it agreed with her; and Bath was to be her [[Home|home]].
 
 
 
-Sir Walter had at first thought more of London; but Mr Shepherd felt
+Sir Walter had at first thought more of [[London]]; but Mr Shepherd felt
 
-that he could not be trusted in London, and had been skilful enough to
+that he could not be trusted in [[London]], and had been skilful enough to
 
 dissuade him from it, and make Bath preferred. It was a much safer
 
@@ -845,13 +845,13 @@ place for a gentleman in his predicament: he might there be important
 
 at comparatively little expense. Two material advantages of Bath over
 
-London had of course been given all their weight: its more convenient
+[[London]] had of course been given all their weight: its more convenient
 
-distance from Kellynch, only fifty miles, and Lady Russell’s spending
+distance from Kellynch, only fifty miles, and [[Lady Russell]]’s spending
 
-some part of every winter there; and to the very great satisfaction of
+some part of every [[Winter|winter]] there; and to the very great satisfaction of
 
-Lady Russell, whose first views on the projected change had been for
+[[Lady Russell]], whose first views on the projected change had been for
 
 Bath, Sir Walter and Elizabeth were induced to believe that they should
 
@@ -859,9 +859,9 @@ lose neither consequence nor enjoyment by settling there.
 
 
 
-Lady Russell felt obliged to oppose her dear Anne’s known wishes. It
+[[Lady Russell]] felt obliged to oppose her dear Anne’s known wishes. It
 
-would be too much to expect Sir Walter to descend into a small house in
+would be too much to expect Sir Walter to descend into a small [[house]] in
 
 his own neighbourhood. Anne herself would have found the mortifications
 
@@ -873,15 +873,15 @@ considered it as a prejudice and mistake arising, first, from the
 
 circumstance of her having been three years at school there, after her
 
-mother’s death; and secondly, from her happening to be not in perfectly
+mother’s [[Death|death]]; and secondly, from her happening to be not in perfectly
 
-good spirits the only winter which she had afterwards spent there with
+good spirits the only [[Winter|winter]] which she had afterwards spent there with
 
 herself.
 
 
 
-Lady Russell was fond of Bath, in short, and disposed to think it must
+[[Lady Russell]] was fond of Bath, in short, and disposed to think it must
 
 suit them all; and as to her young friend’s health, by passing all the
 
@@ -889,7 +889,7 @@ warm months with her at Kellynch Lodge, every danger would be avoided;
 
 and it was in fact, a change which must do both health and spirits
 
-good. Anne had been too little from home, too little seen. Her spirits
+good. Anne had been too little from [[Home|home]], too little seen. Her spirits
 
 were not high. A larger society would improve them. She wanted her to
 
@@ -897,13 +897,13 @@ be more known.
 
 
 
-The undesirableness of any other house in the same neighbourhood for
+The undesirableness of any other [[house]] in the same neighbourhood for
 
 Sir Walter was certainly much strengthened by one part, and a very
 
 material part of the scheme, which had been happily engrafted on the
 
-beginning. He was not only to quit his home, but to see it in the hands
+beginning. He was not only to quit his [[Home|home]], but to see it in the hands
 
 of others; a trial of fortitude, which stronger heads than Sir Walter’s
 
@@ -915,7 +915,7 @@ profound secret, not to be breathed beyond their own circle.
 
 Sir Walter could not have borne the degradation of being known to
 
-design letting his house. Mr Shepherd had once mentioned the word
+design letting his [[house]]. Mr Shepherd had once mentioned the word
 
 “advertise,” but never dared approach it again. Sir Walter spurned the
 
@@ -931,7 +931,7 @@ that he would let it at all.
 
 
 
-How quick come the reasons for approving what we like! Lady Russell had
+How quick come the reasons for approving what we like! [[Lady Russell]] had
 
 another excellent one at hand, for being extremely glad that Sir Walter
 
@@ -941,7 +941,7 @@ lately forming an intimacy, which she wished to see interrupted. It was
 
 with the daughter of Mr Shepherd, who had returned, after an
 
-unprosperous marriage, to her father’s house, with the additional
+unprosperous [[Marriage|marriage]], to her father’s [[house]], with the additional
 
 burden of two children. She was a clever young woman, who understood
 
@@ -951,15 +951,15 @@ and who had made herself so acceptable to Miss Elliot, as to have been
 
 already staying there more than once, in spite of all that Lady
 
-Russell, who thought it a friendship quite out of place, could hint of
+Russell, who thought it a [[Friendship|friendship]] quite out of place, could hint of
 
 caution and reserve.
 
 
 
-Lady Russell, indeed, had scarcely any influence with Elizabeth, and
+[[Lady Russell]], indeed, had scarcely any influence with Elizabeth, and
 
-seemed to love her, rather because she would love her, than because
+seemed to [[Love|love]] her, rather because she would [[Love|love]] her, than because
 
 Elizabeth deserved it. She had never received from her more than
 
@@ -969,7 +969,7 @@ never succeeded in any point which she wanted to carry, against
 
 previous inclination. She had been repeatedly very earnest in trying to
 
-get Anne included in the visit to London, sensibly open to all the
+get Anne included in the visit to [[London]], sensibly open to all the
 
 injustice and all the discredit of the selfish arrangements which shut
 
@@ -979,7 +979,7 @@ the advantage of her own better judgement and experience; but always in
 
 vain: Elizabeth would go her own way; and never had she pursued it in
 
-more decided opposition to Lady Russell than in this selection of Mrs
+more decided opposition to [[Lady Russell]] than in this selection of Mrs
 
 Clay; turning from the society of so deserving a sister, to bestow her
 
@@ -989,7 +989,7 @@ but the object of distant civility.
 
 
 
-From situation, Mrs Clay was, in Lady Russell’s estimate, a very
+From situation, Mrs Clay was, in [[Lady Russell]]’s estimate, a very
 
 unequal, and in her character she believed a very dangerous companion;
 
@@ -1019,9 +1019,9 @@ morning at Kellynch Hall, as he laid down the newspaper, “that the
 
 present juncture is much in our favour. This peace will be turning all
 
-our rich naval officers ashore. They will be all wanting a home. Could
+our rich naval officers ashore. They will be all wanting a [[Home|home]]. Could
 
-not be a better time, Sir Walter, for having a choice of tenants, very
+not be a better [[Time|time]], Sir Walter, for having a choice of tenants, very
 
 responsible tenants. Many a noble fortune has been made during the war.
 
@@ -1045,7 +1045,7 @@ Mr Shepherd laughed, as he knew he must, at this wit, and then added—
 
 “I presume to observe, Sir Walter, that, in the way of business,
 
-gentlemen of the navy are well to deal with. I have had a little
+gentlemen of the navy are [[Well|well]] to deal with. I have had a little
 
 knowledge of their methods of doing business; and I am free to confess
 
@@ -1065,13 +1065,13 @@ notice and curiosity of the other; consequence has its tax; I, John
 
 Shepherd, might conceal any family-matters that I chose, for nobody
 
-would think it worth their while to observe me; but Sir Walter Elliot
+would think it worth their while to observe me; but [[Sir Walter Elliot]]
 
 has eyes upon him which it may be very difficult to elude; and
 
 therefore, thus much I venture upon, that it will not greatly surprise
 
-me if, with all our caution, some rumour of the truth should get
+me if, with all our caution, some rumour of the [[Truth|truth]] should get
 
 abroad; in the supposition of which, as I was going to observe, since
 
@@ -1079,7 +1079,7 @@ applications will unquestionably follow, I should think any from our
 
 wealthy naval commanders particularly worth attending to; and beg leave
 
-to add, that two hours will bring me over at any time, to save you the
+to add, that two hours will bring me over at any [[Time|time]], to save you the
 
 trouble of replying.”
 
@@ -1093,11 +1093,11 @@ room, he observed sarcastically—
 
 “There are few among the gentlemen of the navy, I imagine, who would
 
-not be surprised to find themselves in a house of this description.”
+not be surprised to find themselves in a [[house]] of this description.”
 
 
 
-“They would look around them, no doubt, and bless their good fortune,”
+“They would look around them, no [[Doubt|doubt]], and bless their good fortune,”
 
 said Mrs Clay, for Mrs Clay was present: her father had driven her
 
@@ -1111,7 +1111,7 @@ and besides their liberality, they are so neat and careful in all their
 
 ways! These valuable pictures of yours, Sir Walter, if you chose to
 
-leave them, would be perfectly safe. Everything in and about the house
+leave them, would be perfectly safe. Everything in and about the [[house]]
 
 would be taken such excellent care of! The gardens and shrubberies
 
@@ -1123,7 +1123,7 @@ afraid, Miss Elliot, of your own sweet flower gardens being neglected.”
 
 “As to all that,” rejoined Sir Walter coolly, “supposing I were induced
 
-to let my house, I have by no means made up my mind as to the
+to let my [[house]], I have by no means made up my mind as to the
 
 privileges to be annexed to it. I am not particularly disposed to
 
@@ -1137,7 +1137,7 @@ pleasure-grounds, is another thing. I am not fond of the idea of my
 
 shrubberies being always approachable; and I should recommend Miss
 
-Elliot to be on her guard with respect to her flower garden. I am very
+Elliot to be on her guard with respect to her flower [[Garden|garden]]. I am very
 
 little disposed to grant a tenant of Kellynch Hall any extraordinary
 
@@ -1171,7 +1171,7 @@ Here Anne spoke—
 
 equal claim with any other set of men, for all the comforts and all the
 
-privileges which any home can give. Sailors work hard enough for their
+privileges which any [[Home|home]] can give. Sailors work hard enough for their
 
 comforts, we must all allow.”
 
@@ -1213,7 +1213,7 @@ father, his father might have disdained to speak to, and of becoming
 
 prematurely an object of disgust himself, than in any other line. One
 
-day last spring, in town, I was in company with two men, striking
+day last [[spring]], in town, I was in company with two men, striking
 
 instances of what I am talking of; Lord St Ives, whose father we all
 
@@ -1253,7 +1253,7 @@ Admiral Baldwin’s age.”
 
 “Nay, Sir Walter,” cried Mrs Clay, “this is being severe indeed. Have a
 
-little mercy on the poor men. We are not all born to be handsome. The
+little [[Mercy|mercy]] on the poor men. We are not all born to be handsome. The
 
 sea is no beautifier, certainly; sailors do grow old betimes; I have
 
@@ -1265,7 +1265,7 @@ active service, are not at all better off: and even in the quieter
 
 professions, there is a toil and a labour of the mind, if not of the
 
-body, which seldom leaves a man’s looks to the natural effect of time.
+[[Body|body]], which seldom [[Leaves|leaves]] a man’s looks to the natural effect of [[Time|time]].
 
 The lawyer plods, quite care-worn; the physician is up at all hours,
 
@@ -1299,15 +1299,15 @@ It seemed as if Mr Shepherd, in this anxiety to bespeak Sir Walter’s
 
 good will towards a naval officer as tenant, had been gifted with
 
-foresight; for the very first application for the house was from an
+foresight; for the very first application for the [[house]] was from an
 
-Admiral Croft, with whom he shortly afterwards fell into company in
+[[Admiral Croft]], with whom he shortly afterwards fell into company in
 
 attending the quarter sessions at Taunton; and indeed, he had received
 
-a hint of the Admiral from a London correspondent. By the report which
+a hint of the Admiral from a [[London]] correspondent. By the report which
 
-he hastened over to Kellynch to make, Admiral Croft was a native of
+he hastened over to Kellynch to make, [[Admiral Croft]] was a native of
 
 Somersetshire, who having acquired a very handsome fortune, was wishing
 
@@ -1337,7 +1337,7 @@ responsible, eligible tenant.
 
 
 
-“And who is Admiral Croft?” was Sir Walter’s cold suspicious inquiry.
+“And who is [[Admiral Croft]]?” was Sir Walter’s cold suspicious inquiry.
 
 
 
@@ -1363,17 +1363,17 @@ about as orange as the cuffs and capes of my livery.”
 
 
 
-Mr Shepherd hastened to assure him, that Admiral Croft was a very hale,
+Mr Shepherd hastened to assure him, that [[Admiral Croft]] was a very hale,
 
-hearty, well-looking man, a little weather-beaten, to be sure, but not
+hearty, [[Well|well]]-looking man, a little weather-beaten, to be sure, but not
 
 much, and quite the gentleman in all his notions and behaviour; not
 
 likely to make the smallest difficulty about terms, only wanted a
 
-comfortable home, and to get into it as soon as possible; knew he must
+comfortable [[Home|home]], and to get into it as soon as possible; knew he must
 
-pay for his convenience; knew what rent a ready-furnished house of that
+pay for his convenience; knew what rent a ready-furnished [[house]] of that
 
 consequence might fetch; should not have been surprised if Sir Walter
 
@@ -1391,11 +1391,11 @@ circumstances of the Admiral’s family, which made him peculiarly
 
 desirable as a tenant. He was a married man, and without children; the
 
-very state to be wished for. A house was never taken good care of, Mr
+very state to be wished for. A [[house]] was never taken good care of, Mr
 
 Shepherd observed, without a lady: he did not know, whether furniture
 
-might not be in danger of suffering as much where there was no lady, as
+might not be in danger of [[Suffering|suffering]] as much where there was no lady, as
 
 where there were many children. A lady, without a family, was the very
 
@@ -1403,13 +1403,13 @@ best preserver of furniture in the world. He had seen Mrs Croft, too;
 
 she was at Taunton with the admiral, and had been present almost all
 
-the time they were talking the matter over.
+the [[Time|time]] they were talking the matter over.
 
 
 
-“And a very well-spoken, genteel, shrewd lady, she seemed to be,”
+“And a very [[Well|well]]-spoken, genteel, shrewd lady, she seemed to be,”
 
-continued he; “asked more questions about the house, and terms, and
+continued he; “asked more questions about the [[house]], and terms, and
 
 taxes, than the Admiral himself, and seemed more conversant with
 
@@ -1439,13 +1439,13 @@ hear the appeal.
 
 “I have no conception whom you can mean, Shepherd; I remember no
 
-gentleman resident at Monkford since the time of old Governor Trent.”
+gentleman resident at Monkford since the [[Time|time]] of old Governor Trent.”
 
 
 
 “Bless me! how very odd! I shall forget my own name soon, I suppose. A
 
-name that I am so very well acquainted with; knew the gentleman so well
+name that I am so very [[Well|well]] acquainted with; knew the gentleman so [[Well|well]]
 
 by sight; seen him a hundred times; came to consult me once, I
 
@@ -1473,7 +1473,7 @@ Mr Shepherd was all gratitude.
 
 “Wentworth was the very name! Mr Wentworth was the very man. He had the
 
-curacy of Monkford, you know, Sir Walter, some time back, for two or
+curacy of Monkford, you know, Sir Walter, some [[Time|time]] back, for two or
 
 three years. Came there about the year —5, I take it. You remember
 
@@ -1505,7 +1505,7 @@ formed of Kellynch Hall, and extreme solicitude for the advantage of
 
 renting it; making it appear as if they ranked nothing beyond the
 
-happiness of being the tenants of Sir Walter Elliot: an extraordinary
+happiness of being the tenants of [[Sir Walter Elliot]]: an extraordinary
 
 taste, certainly, could they have been supposed in the secret of Sir
 
@@ -1515,15 +1515,15 @@ Walter’s estimate of the dues of a tenant.
 
 It succeeded, however; and though Sir Walter must ever look with an
 
-evil eye on anyone intending to inhabit that house, and think them
+evil eye on anyone intending to inhabit that [[house]], and think them
 
-infinitely too well off in being permitted to rent it on the highest
+infinitely too [[Well|well]] off in being permitted to rent it on the highest
 
 terms, he was talked into allowing Mr Shepherd to proceed in the
 
-treaty, and authorising him to wait on Admiral Croft, who still
+treaty, and authorising him to wait on [[Admiral Croft]], who still
 
-remained at Taunton, and fix a day for the house being seen.
+remained at Taunton, and fix a day for the [[house]] being seen.
 
 
 
@@ -1531,23 +1531,23 @@ Sir Walter was not very wise; but still he had experience enough of the
 
 world to feel, that a more unobjectionable tenant, in all essentials,
 
-than Admiral Croft bid fair to be, could hardly offer. So far went his
+than [[Admiral Croft]] bid fair to be, could hardly offer. So far went his
 
-understanding; and his vanity supplied a little additional soothing, in
+understanding; and his [[Vanity|vanity]] supplied a little additional soothing, in
 
 the Admiral’s situation in life, which was just high enough, and not
 
-too high. “I have let my house to Admiral Croft,” would sound extremely
+too high. “I have let my [[house]] to [[Admiral Croft]],” would sound extremely
 
-well; very much better than to any mere _Mr._——; a _Mr._ (save,
+[[Well|well]]; very much better than to any mere _Mr._——; a _Mr._ (save,
 
 perhaps, some half dozen in the nation,) always needs a note of
 
 explanation. An admiral speaks his own consequence, and, at the same
 
-time, can never make a baronet look small. In all their dealings and
+[[Time|time]], can never make a baronet look small. In all their dealings and
 
-intercourse, Sir Walter Elliot must ever have the precedence.
+intercourse, [[Sir Walter Elliot]] must ever have the precedence.
 
 
 
@@ -1595,9 +1595,9 @@ brother, who being made commander in consequence of the action off St
 
 Domingo, and not immediately employed, had come into Somersetshire, in
 
-the summer of 1806; and having no parent living, found a home for half
+the [[Summer|summer]] of 1806; and having no parent living, found a [[Home|home]] for half
 
-a year at Monkford. He was, at that time, a remarkably fine young man,
+a year at Monkford. He was, at that [[Time|time]], a remarkably fine young man,
 
 with a great deal of intelligence, spirit, and brilliancy; and Anne an
 
@@ -1605,11 +1605,11 @@ extremely pretty girl, with gentleness, modesty, taste, and feeling.
 
 Half the sum of attraction, on either side, might have been enough, for
 
-he had nothing to do, and she had hardly anybody to love; but the
+he had nothing to do, and she had hardly anybody to [[Love|love]]; but the
 
 encounter of such lavish recommendations could not fail. They were
 
-gradually acquainted, and when acquainted, rapidly and deeply in love.
+gradually acquainted, and when acquainted, rapidly and deeply in [[Love|love]].
 
 It would be difficult to say which had seen highest perfection in the
 
@@ -1625,17 +1625,17 @@ Troubles soon arose. Sir Walter, on being applied to, without actually
 
 withholding his consent, or saying it should never be, gave it all the
 
-negative of great astonishment, great coldness, great silence, and a
+negative of great astonishment, great coldness, great [[Silence|silence]], and a
 
 professed resolution of doing nothing for his daughter. He thought it a
 
-very degrading alliance; and Lady Russell, though with more tempered
+very degrading alliance; and [[Lady Russell]], though with more tempered
 
-and pardonable pride, received it as a most unfortunate one.
+and pardonable [[Pride|pride]], received it as a most unfortunate one.
 
 
 
-Anne Elliot, with all her claims of birth, beauty, and mind, to throw
+[[Anne Elliot]], with all her claims of birth, [[Beauty|beauty]], and mind, to throw
 
 herself away at nineteen; involve herself at nineteen in an engagement
 
@@ -1647,27 +1647,27 @@ profession, and no connexions to secure even his farther rise in the
 
 profession, would be, indeed, a throwing away, which she grieved to
 
-think of! Anne Elliot, so young; known to so few, to be snatched off by
+think of! [[Anne Elliot]], so young; known to so few, to be snatched off by
 
 a stranger without alliance or fortune; or rather sunk by him into a
 
 state of most wearing, anxious, youth-killing dependence! It must not
 
-be, if by any fair interference of friendship, any representations from
+be, if by any fair interference of [[Friendship|friendship]], any representations from
 
-one who had almost a mother’s love, and mother’s rights, it would be
+one who had almost a mother’s [[Love|love]], and mother’s rights, it would be
 
 prevented.
 
 
 
-Captain Wentworth had no fortune. He had been lucky in his profession;
+[[Captain Wentworth]] had no fortune. He had been lucky in his profession;
 
 but spending freely, what had come freely, had realized nothing. But he
 
 was confident that he should soon be rich: full of life and ardour, he
 
-knew that he should soon have a ship, and soon be on a station that
+knew that he should soon have a [[Ship|ship]], and soon be on a station that
 
 would lead to everything he wanted. He had always been lucky; he knew
 
@@ -1675,13 +1675,13 @@ he should be so still. Such confidence, powerful in its own warmth, and
 
 bewitching in the wit which often expressed it, must have been enough
 
-for Anne; but Lady Russell saw it very differently. His sanguine
+for Anne; but [[Lady Russell]] saw it very differently. His sanguine
 
 temper, and fearlessness of mind, operated very differently on her. She
 
 saw in it but an aggravation of the evil. It only added a dangerous
 
-character to himself. He was brilliant, he was headstrong. Lady Russell
+character to himself. He was brilliant, he was headstrong. [[Lady Russell]]
 
 had little taste for wit, and of anything approaching to imprudence a
 
@@ -1695,7 +1695,7 @@ combat. Young and gentle as she was, it might yet have been possible to
 
 withstand her father’s ill-will, though unsoftened by one kind word or
 
-look on the part of her sister; but Lady Russell, whom she had always
+look on the part of her sister; but [[Lady Russell]], whom she had always
 
 loved and relied on, could not, with such steadiness of opinion, and
 
@@ -1703,7 +1703,7 @@ such tenderness of manner, be continually advising her in vain. She was
 
 persuaded to believe the engagement a wrong thing: indiscreet,
 
-improper, hardly capable of success, and not deserving it. But it was
+improper, hardly capable of [[success]], and not deserving it. But it was
 
 not a merely selfish caution, under which she acted, in putting an end
 
@@ -1711,13 +1711,13 @@ to it. Had she not imagined herself consulting his good, even more than
 
 her own, she could hardly have given him up. The belief of being
 
-prudent, and self-denying, principally for _his_ advantage, was her
+prudent, and [[Self|self]]-denying, principally for _his_ advantage, was her
 
 chief consolation, under the misery of a parting, a final parting; and
 
 every consolation was required, for she had to encounter all the
 
-additional pain of opinions, on his side, totally unconvinced and
+additional [[Pain|pain]] of opinions, on his side, totally unconvinced and
 
 unbending, and of his feeling himself ill used by so forced a
 
@@ -1727,9 +1727,9 @@ relinquishment. He had left the country in consequence.
 
 A few months had seen the beginning and the end of their acquaintance;
 
-but not with a few months ended Anne’s share of suffering from it. Her
+but not with a few months ended Anne’s share of [[Suffering|suffering]] from it. Her
 
-attachment and regrets had, for a long time, clouded every enjoyment of
+attachment and regrets had, for a long [[Time|time]], clouded every enjoyment of
 
 youth, and an early loss of bloom and spirits had been their lasting
 
@@ -1737,13 +1737,13 @@ effect.
 
 
 
-More than seven years were gone since this little history of sorrowful
+More than seven years were gone since this little [[history]] of sorrowful
 
-interest had reached its close; and time had softened down much,
+interest had reached its close; and [[Time|time]] had softened down much,
 
 perhaps nearly all of peculiar attachment to him, but she had been too
 
-dependent on time alone; no aid had been given in change of place
+dependent on [[Time|time]] [[Alone|alone]]; no aid had been given in change of place
 
 (except in one visit to Bath soon after the rupture), or in any novelty
 
@@ -1751,9 +1751,9 @@ or enlargement of society. No one had ever come within the Kellynch
 
 circle, who could bear a comparison with Frederick Wentworth, as he
 
-stood in her memory. No second attachment, the only thoroughly natural,
+stood in her [[Memory|memory]]. No second attachment, the only thoroughly natural,
 
-happy, and sufficient cure, at her time of life, had been possible to
+happy, and sufficient cure, at her [[Time|time]] of life, had been possible to
 
 the nice tone of her mind, the fastidiousness of her taste, in the
 
@@ -1763,19 +1763,19 @@ about two-and-twenty, to change her name, by the young man, who not
 
 long afterwards found a more willing mind in her younger sister; and
 
-Lady Russell had lamented her refusal; for Charles Musgrove was the
+[[Lady Russell]] had lamented her refusal; for Charles Musgrove was the
 
 eldest son of a man, whose landed property and general importance were
 
 second in that country, only to Sir Walter’s, and of good character and
 
-appearance; and however Lady Russell might have asked yet for something
+appearance; and however [[Lady Russell]] might have asked yet for something
 
 more, while Anne was nineteen, she would have rejoiced to see her at
 
 twenty-two so respectably removed from the partialities and injustice
 
-of her father’s house, and settled so permanently near herself. But in
+of her father’s [[house]], and settled so permanently near herself. But in
 
 this case, Anne had left nothing for advice to do; and though Lady
 
@@ -1799,7 +1799,7 @@ alluded to; but Anne, at seven-and-twenty, thought very differently
 
 from what she had been made to think at nineteen. She did not blame
 
-Lady Russell, she did not blame herself for having been guided by her;
+[[Lady Russell]], she did not blame herself for having been guided by her;
 
 but she felt that were any young person, in similar circumstances, to
 
@@ -1807,7 +1807,7 @@ apply to her for counsel, they would never receive any of such certain
 
 immediate wretchedness, such uncertain future good. She was persuaded
 
-that under every disadvantage of disapprobation at home, and every
+that under every disadvantage of disapprobation at [[Home|home]], and every
 
 anxiety attending his profession, all their probable fears, delays, and
 
@@ -1837,21 +1837,21 @@ the other step in rank, and must now, by successive captures, have made
 
 a handsome fortune. She had only navy lists and newspapers for her
 
-authority, but she could not doubt his being rich; and, in favour of
+authority, but she could not [[Doubt|doubt]] his being rich; and, in favour of
 
 his constancy, she had no reason to believe him married.
 
 
 
-How eloquent could Anne Elliot have been! how eloquent, at least, were
+How eloquent could [[Anne Elliot]] have been! how eloquent, at least, were
 
 her wishes on the side of early warm attachment, and a cheerful
 
 confidence in futurity, against that over-anxious caution which seems
 
-to insult exertion and distrust Providence! She had been forced into
+to insult exertion and distrust [[Providence]]! She had been forced into
 
-prudence in her youth, she learned romance as she grew older: the
+prudence in her youth, she learned [[Romance|romance]] as she grew older: the
 
 natural sequel of an unnatural beginning.
 
@@ -1859,9 +1859,9 @@ natural sequel of an unnatural beginning.
 
 With all these circumstances, recollections and feelings, she could not
 
-hear that Captain Wentworth’s sister was likely to live at Kellynch
+hear that [[Captain Wentworth]]’s sister was likely to live at Kellynch
 
-without a revival of former pain; and many a stroll, and many a sigh,
+without a revival of former [[Pain|pain]]; and many a stroll, and many a sigh,
 
 were necessary to dispel the agitation of the idea. She often told
 
@@ -1875,15 +1875,15 @@ apparent unconsciousness, among the only three of her own friends in
 
 the secret of the past, which seemed almost to deny any recollection of
 
-it. She could do justice to the superiority of Lady Russell’s motives
+it. She could do justice to the superiority of [[Lady Russell]]’s motives
 
-in this, over those of her father and Elizabeth; she could honour all
+in this, over those of her father and Elizabeth; she could [[Honour|honour]] all
 
 the better feelings of her calmness; but the general air of oblivion
 
 among them was highly important from whatever it sprung; and in the
 
-event of Admiral Croft’s really taking Kellynch Hall, she rejoiced anew
+event of [[Admiral Croft]]’s really taking Kellynch Hall, she rejoiced anew
 
 over the conviction which had always been most grateful to her, of the
 
@@ -1897,7 +1897,7 @@ received any information of their short-lived engagement. That brother
 
 had been long removed from the country and being a sensible man, and,
 
-moreover, a single man at the time, she had a fond dependence on no
+moreover, a single man at the [[Time|time]], she had a fond dependence on no
 
 human creature’s having heard of it from him.
 
@@ -1907,7 +1907,7 @@ The sister, Mrs Croft, had then been out of England, accompanying her
 
 husband on a foreign station, and her own sister, Mary, had been at
 
-school while it all occurred; and never admitted by the pride of some,
+school while it all occurred; and never admitted by the [[Pride|pride]] of some,
 
 and the delicacy of others, to the smallest knowledge of it afterwards.
 
@@ -1915,7 +1915,7 @@ and the delicacy of others, to the smallest knowledge of it afterwards.
 
 With these supports, she hoped that the acquaintance between herself
 
-and the Crofts, which, with Lady Russell, still resident in Kellynch,
+and the Crofts, which, with [[Lady Russell]], still resident in Kellynch,
 
 and Mary fixed only three miles off, must be anticipated, need not
 
@@ -1949,13 +1949,13 @@ them.
 
 This meeting of the two parties proved highly satisfactory, and decided
 
-the whole business at once. Each lady was previously well disposed for
+the whole business at once. Each lady was previously [[Well|well]] disposed for
 
 an agreement, and saw nothing, therefore, but good manners in the
 
 other; and with regard to the gentlemen, there was such an hearty good
 
-humour, such an open, trusting liberality on the Admiral’s side, as
+[[Humour|humour]], such an open, trusting liberality on the Admiral’s side, as
 
 could not but influence Sir Walter, who had besides been flattered into
 
@@ -1967,9 +1967,9 @@ breeding.
 
 
 
-The house and grounds, and furniture, were approved, the Crofts were
+The [[house]] and grounds, and furniture, were approved, the Crofts were
 
-approved, terms, time, every thing, and every body, was right; and Mr
+approved, terms, [[Time|time]], every thing, and every [[Body|body]], was right; and Mr
 
 Shepherd’s clerks were set to work, without there having been a single
 
@@ -1991,7 +1991,7 @@ the park, “I thought we should soon come to a deal, my dear, in spite
 
 of what they told us at Taunton. The Baronet will never set the Thames
 
-on fire, but there seems to be no harm in him.”—reciprocal compliments,
+on [[Fire|fire]], but there seems to be no harm in him.”—reciprocal compliments,
 
 which would have been esteemed about equal.
 
@@ -2001,13 +2001,13 @@ The Crofts were to have possession at Michaelmas; and as Sir Walter
 
 proposed removing to Bath in the course of the preceding month, there
 
-was no time to be lost in making every dependent arrangement.
+was no [[Time|time]] to be lost in making every dependent arrangement.
 
 
 
-Lady Russell, convinced that Anne would not be allowed to be of any
+[[Lady Russell]], convinced that Anne would not be allowed to be of any
 
-use, or any importance, in the choice of the house which they were
+use, or any importance, in the choice of the [[house]] which they were
 
 going to secure, was very unwilling to have her hurried away so soon,
 
@@ -2027,7 +2027,7 @@ autumnal months in the country, did not think that, everything
 
 considered, she wished to remain. It would be most right, and most
 
-wise, and, therefore must involve least suffering to go with the
+wise, and, therefore must involve least [[Suffering|suffering]] to go with the
 
 others.
 
@@ -2041,7 +2041,7 @@ complaints, and always in the habit of claiming Anne when anything was
 
 the matter, was indisposed; and foreseeing that she should not have a
 
-day’s health all the autumn, entreated, or rather required her, for it
+day’s health all the [[Autumn|autumn]], entreated, or rather required her, for it
 
 was hardly entreaty, to come to Uppercross Cottage, and bear her
 
@@ -2069,17 +2069,17 @@ dear country, readily agreed to stay.
 
 
 
-This invitation of Mary’s removed all Lady Russell’s difficulties, and
+This invitation of Mary’s removed all [[Lady Russell]]’s difficulties, and
 
 it was consequently soon settled that Anne should not go to Bath till
 
-Lady Russell took her, and that all the intervening time should be
+[[Lady Russell]] took her, and that all the intervening [[Time|time]] should be
 
 divided between Uppercross Cottage and Kellynch Lodge.
 
 
 
-So far all was perfectly right; but Lady Russell was almost startled by
+So far all was perfectly right; but [[Lady Russell]] was almost startled by
 
 the wrong of one part of the Kellynch Hall plan, when it burst on her,
 
@@ -2087,7 +2087,7 @@ which was, Mrs Clay’s being engaged to go to Bath with Sir Walter and
 
 Elizabeth, as a most important and valuable assistant to the latter in
 
-all the business before her. Lady Russell was extremely sorry that such
+all the business before her. [[Lady Russell]] was extremely sorry that such
 
 a measure should have been resorted to at all, wondered, grieved, and
 
@@ -2099,7 +2099,7 @@ much use, while Anne could be of none, was a very sore aggravation.
 
 Anne herself was become hardened to such affronts; but she felt the
 
-imprudence of the arrangement quite as keenly as Lady Russell. With a
+imprudence of the arrangement quite as keenly as [[Lady Russell]]. With a
 
 great deal of quiet observation, and a knowledge, which she often
 
@@ -2113,7 +2113,7 @@ the kind. Mrs Clay had freckles, and a projecting tooth, and a clumsy
 
 wrist, which he was continually making severe remarks upon, in her
 
-absence; but she was young, and certainly altogether well-looking, and
+absence; but she was young, and certainly altogether [[Well|well]]-looking, and
 
 possessed, in an acute mind and assiduous pleasing manners, infinitely
 
@@ -2123,7 +2123,7 @@ Anne was so impressed by the degree of their danger, that she could not
 
 excuse herself from trying to make it perceptible to her sister. She
 
-had little hope of success; but Elizabeth, who in the event of such a
+had little [[Hope|hope]] of [[success]]; but Elizabeth, who in the event of such a
 
 reverse would be so much more to be pitied than herself, should never,
 
@@ -2143,7 +2143,7 @@ for each party’s perfectly knowing their situation.
 
 rather better acquainted with her sentiments than you can be, I can
 
-assure you, that upon the subject of marriage they are particularly
+assure you, that upon the subject of [[Marriage|marriage]] they are particularly
 
 nice, and that she reprobates all inequality of condition and rank more
 
@@ -2211,13 +2211,13 @@ spirits; Sir Walter prepared with condescending bows for all the
 
 afflicted tenantry and cottagers who might have had a hint to show
 
-themselves, and Anne walked up at the same time, in a sort of desolate
+themselves, and Anne walked up at the same [[Time|time]], in a sort of desolate
 
 tranquillity, to the Lodge, where she was to spend the first week.
 
 
 
-Her friend was not in better spirits than herself. Lady Russell felt
+Her friend was not in better spirits than herself. [[Lady Russell]] felt
 
 this break-up of the family exceedingly. Their respectability was as
 
@@ -2227,15 +2227,15 @@ habit. It was painful to look upon their deserted grounds, and still
 
 worse to anticipate the new hands they were to fall into; and to escape
 
-the solitariness and the melancholy of so altered a village, and be out
+the solitariness and the [[Melancholy|melancholy]] of so altered a village, and be out
 
 of the way when Admiral and Mrs Croft first arrived, she had determined
 
-to make her own absence from home begin when she must give up Anne.
+to make her own absence from [[Home|home]] begin when she must give up Anne.
 
 Accordingly their removal was made together, and Anne was set down at
 
-Uppercross Cottage, in the first stage of Lady Russell’s journey.
+Uppercross Cottage, in the first stage of [[Lady Russell]]’s [[Journey|journey]].
 
 
 
@@ -2249,11 +2249,11 @@ mansion of the squire, with its high walls, great gates, and old trees,
 
 substantial and unmodernized, and the compact, tight parsonage,
 
-enclosed in its own neat garden, with a vine and a pear-tree trained
+enclosed in its own neat [[Garden|garden]], with a vine and a pear-tree trained
 
-round its casements; but upon the marriage of the young ’squire, it had
+round its casements; but upon the [[Marriage|marriage]] of the young ’squire, it had
 
-received the improvement of a farm-house elevated into a cottage, for
+received the improvement of a farm-[[house]] elevated into a cottage, for
 
 his residence, and Uppercross Cottage, with its veranda, French
 
@@ -2261,31 +2261,31 @@ windows, and other prettiness, was quite as likely to catch the
 
 traveller’s eye as the more consistent and considerable aspect and
 
-premises of the Great House, about a quarter of a mile farther on.
+premises of the [[Great House]], about a quarter of a mile farther on.
 
 
 
 Here Anne had often been staying. She knew the ways of Uppercross as
 
-well as those of Kellynch. The two families were so continually
+[[Well|well]] as those of Kellynch. The two families were so continually
 
 meeting, so much in the habit of running in and out of each other’s
 
-house at all hours, that it was rather a surprise to her to find Mary
+[[house]] at all hours, that it was rather a surprise to her to find Mary
 
-alone; but being alone, her being unwell and out of spirits was almost
+[[Alone|alone]]; but being [[Alone|alone]], her being unwell and out of spirits was almost
 
 a matter of course. Though better endowed than the elder sister, Mary
 
-had not Anne’s understanding nor temper. While well, and happy, and
+had not Anne’s understanding nor temper. While [[Well|well]], and happy, and
 
-properly attended to, she had great good humour and excellent spirits;
+properly attended to, she had great good [[Humour|humour]] and excellent spirits;
 
 but any indisposition sunk her completely. She had no resources for
 
-solitude; and inheriting a considerable share of the Elliot
+[[Solitude|solitude]]; and inheriting a considerable share of the Elliot
 
-self-importance, was very prone to add to every other distress that of
+[[Self|self]]-importance, was very prone to add to every other distress that of
 
 fancying herself neglected and ill-used. In person, she was inferior to
 
@@ -2311,33 +2311,33 @@ morning!”
 
 “I am sorry to find you unwell,” replied Anne. “You sent me such a good
 
-account of yourself on Thursday!”
+account of yourself on [[thursday|Thursday]]!”
 
 
 
-“Yes, I made the best of it; I always do: but I was very far from well
+“Yes, I made the best of it; I always do: but I was very far from [[Well|well]]
 
-at the time; and I do not think I ever was so ill in my life as I have
+at the [[Time|time]]; and I do not think I ever was so ill in my life as I have
 
-been all this morning: very unfit to be left alone, I am sure. Suppose
+been all this morning: very unfit to be left [[Alone|alone]], I am sure. Suppose
 
 I were to be seized of a sudden in some dreadful way, and not able to
 
-ring the bell! So, Lady Russell would not get out. I do not think she
+ring the bell! So, [[Lady Russell]] would not get out. I do not think she
 
-has been in this house three times this summer.”
+has been in this [[house]] three times this [[Summer|summer]].”
 
 
 
 Anne said what was proper, and enquired after her husband. “Oh! Charles
 
-is out shooting. I have not seen him since seven o’clock. He would go,
+is out shooting. I have not seen him since seven o’[[Clock|clock]]. He would go,
 
 though I told him how ill I was. He said he should not stay out long;
 
 but he has never come back, and now it is almost one. I assure you, I
 
-have not seen a soul this whole long morning.”
+have not seen a [[Soul|soul]] this whole long morning.”
 
 
 
@@ -2353,19 +2353,19 @@ word I say, and Walter is growing quite as bad.”
 
 
 
-“Well, you will soon be better now,” replied Anne, cheerfully. “You
+“[[Well]], you will soon be better now,” replied Anne, cheerfully. “You
 
 know I always cure you when I come. How are your neighbours at the
 
-Great House?”
+[[Great House]]?”
 
 
 
 “I can give you no account of them. I have not seen one of them to-day,
 
-except Mr Musgrove, who just stopped and spoke through the window, but
+except Mr Musgrove, who just stopped and spoke through the [[Window|window]], but
 
-without getting off his horse; and though I told him how ill I was, not
+without getting off his [[Horse|horse]]; and though I told him how ill I was, not
 
 one of them have been near me. It did not happen to suit the Miss
 
@@ -2383,7 +2383,7 @@ early.”
 
 much for me. Oh! Anne, I am so very unwell! It was quite unkind of you
 
-not to come on Thursday.”
+not to come on [[thursday|Thursday]].”
 
 
 
@@ -2391,9 +2391,9 @@ not to come on Thursday.”
 
 yourself! You wrote in the cheerfullest manner, and said you were
 
-perfectly well, and in no hurry for me; and that being the case, you
+perfectly [[Well|well]], and in no hurry for me; and that being the case, you
 
-must be aware that my wish would be to remain with Lady Russell to the
+must be aware that my wish would be to remain with [[Lady Russell]] to the
 
 last: and besides what I felt on her account, I have really been so
 
@@ -2413,25 +2413,25 @@ moment; but I can tell you some. I have been making a duplicate of the
 
 catalogue of my father’s books and pictures. I have been several times
 
-in the garden with Mackenzie, trying to understand, and make him
+in the [[Garden|garden]] with Mackenzie, trying to understand, and make him
 
-understand, which of Elizabeth’s plants are for Lady Russell. I have
+understand, which of Elizabeth’s plants are for [[Lady Russell]]. I have
 
 had all my own little concerns to arrange, books and music to divide,
 
-and all my trunks to repack, from not having understood in time what
+and all my trunks to repack, from not having understood in [[Time|time]] what
 
 was intended as to the waggons: and one thing I have had to do, Mary,
 
-of a more trying nature: going to almost every house in the parish, as
+of a more trying [[Nature|nature]]: going to almost every [[house]] in the parish, as
 
 a sort of take-leave. I was told that they wished it. But all these
 
-things took up a great deal of time.”
+things took up a great deal of [[Time|time]].”
 
 
 
-“Oh! well!” and after a moment’s pause, “but you have never asked me
+“Oh! [[Well|well]]!” and after a moment’s pause, “but you have never asked me
 
 one word about our dinner at the Pooles yesterday.”
 
@@ -2443,7 +2443,7 @@ must have been obliged to give up the party.”
 
 
 
-“Oh yes! I went. I was very well yesterday; nothing at all the matter
+“Oh yes! I went. I was very [[Well|well]] yesterday; nothing at all the matter
 
 with me till this morning. It would have been strange if I had not
 
@@ -2451,7 +2451,7 @@ gone.”
 
 
 
-“I am very glad you were well enough, and I hope you had a pleasant
+“I am very glad you were [[Well|well]] enough, and I [[Hope|hope]] you had a pleasant
 
 party.”
 
@@ -2477,19 +2477,19 @@ A little further perseverance in patience and forced cheerfulness on
 
 Anne’s side produced nearly a cure on Mary’s. She could soon sit
 
-upright on the sofa, and began to hope she might be able to leave it by
+upright on the sofa, and began to [[Hope|hope]] she might be able to leave it by
 
-dinner-time. Then, forgetting to think of it, she was at the other end
+dinner-[[Time|time]]. Then, forgetting to think of it, she was at the other end
 
 of the room, beautifying a nosegay; then, she ate her cold meat; and
 
-then she was well enough to propose a little walk.
+then she was [[Well|well]] enough to propose a little walk.
 
 
 
 “Where shall we go?” said she, when they were ready. “I suppose you
 
-will not like to call at the Great House before they have been to see
+will not like to call at the [[Great House]] before they have been to see
 
 you?”
 
@@ -2499,13 +2499,13 @@ you?”
 
 should never think of standing on such ceremony with people I know so
 
-well as Mrs and the Miss Musgroves.”
+[[Well|well]] as Mrs and the Miss Musgroves.”
 
 
 
 “Oh! but they ought to call upon you as soon as possible. They ought to
 
-feel what is due to you as _my_ sister. However, we may as well go and
+feel what is due to you as _my_ sister. However, we may as [[Well|well]] go and
 
 sit with them a little while, and when we have that over, we can enjoy
 
@@ -2519,13 +2519,13 @@ but she had ceased to endeavour to check it, from believing that,
 
 though there were on each side continual subjects of offence, neither
 
-family could now do without it. To the Great House accordingly they
+family could now do without it. To the [[Great House]] accordingly they
 
 went, to sit the full half hour in the old-fashioned square parlour,
 
 with a small carpet and shining floor, to which the present daughters
 
-of the house were gradually giving the proper air of confusion by a
+of the [[house]] were gradually giving the proper air of confusion by a
 
 grand piano-forte and a harp, flower-stands and little tables placed in
 
@@ -2565,7 +2565,7 @@ advantage, their faces were rather pretty, their spirits extremely
 
 good, their manner unembarrassed and pleasant; they were of consequence
 
-at home, and favourites abroad. Anne always contemplated them as some
+at [[Home|home]], and favourites abroad. Anne always contemplated them as some
 
 of the happiest creatures of her acquaintance; but still, saved as we
 
@@ -2585,7 +2585,7 @@ so little herself with either of her sisters.
 
 They were received with great cordiality. Nothing seemed amiss on the
 
-side of the Great House family, which was generally, as Anne very well
+side of the [[Great House]] family, which was generally, as Anne very [[Well|well]]
 
 knew, the least to blame. The half hour was chatted away pleasantly
 
@@ -2641,29 +2641,29 @@ Anne, Sir Walter and your sister are gone; and what part of Bath do you
 
 think they will settle in?” and this, without much waiting for an
 
-answer; or in the young ladies’ addition of, “I hope _we_ shall be in
+answer; or in the young ladies’ addition of, “I [[Hope|hope]] _we_ shall be in
 
-Bath in the winter; but remember, papa, if we do go, we must be in a
+Bath in the [[Winter|winter]]; but remember, papa, if we do go, we must be in a
 
-good situation: none of your Queen Squares for us!” or in the anxious
+good situation: none of your [[Queen]] Squares for us!” or in the anxious
 
-supplement from Mary, of—“Upon my word, I shall be pretty well off,
+supplement from Mary, of—“Upon my word, I shall be pretty [[Well|well]] off,
 
 when you are all gone away to be happy at Bath!”
 
 
 
-She could only resolve to avoid such self-delusion in future, and think
+She could only resolve to avoid such [[Self|self]]-delusion in future, and think
 
 with heightened gratitude of the extraordinary blessing of having one
 
-such truly sympathising friend as Lady Russell.
+such truly sympathising friend as [[Lady Russell]].
 
 
 
 The Mr Musgroves had their own game to guard, and to destroy, their own
 
-horses, dogs, and newspapers to engage them, and the females were fully
+horses, [[dogs]], and newspapers to engage them, and the females were fully
 
 occupied in all the other common subjects of housekeeping, neighbours,
 
@@ -2677,7 +2677,7 @@ one she was now transplanted into. With the prospect of spending at
 
 least two months at Uppercross, it was highly incumbent on her to
 
-clothe her imagination, her memory, and all her ideas in as much of
+clothe her [[Imagination|imagination]], her [[Memory|memory]], and all her ideas in as much of
 
 Uppercross as possible.
 
@@ -2691,7 +2691,7 @@ neither was there anything among the other component parts of the
 
 cottage inimical to comfort. She was always on friendly terms with her
 
-brother-in-law; and in the children, who loved her nearly as well, and
+brother-in-law; and in the children, who loved her nearly as [[Well|well]], and
 
 respected her a great deal more than their mother, she had an object of
 
@@ -2705,9 +2705,9 @@ undoubtedly superior to his wife, but not of powers, or conversation,
 
 or grace, to make the past, as they were connected together, at all a
 
-dangerous contemplation; though, at the same time, Anne could believe,
+dangerous contemplation; though, at the same [[Time|time]], Anne could believe,
 
-with Lady Russell, that a more equal match might have greatly improved
+with [[Lady Russell]], that a more equal match might have greatly improved
 
 him; and that a woman of real understanding might have given more
 
@@ -2715,7 +2715,7 @@ consequence to his character, and more usefulness, rationality, and
 
 elegance to his habits and pursuits. As it was, he did nothing with
 
-much zeal, but sport; and his time was otherwise trifled away, without
+much zeal, but sport; and his [[Time|time]] was otherwise trifled away, without
 
 benefit from books or anything else. He had very good spirits, which
 
@@ -2745,13 +2745,13 @@ As to the management of their children, his theory was much better than
 
 his wife’s, and his practice not so bad. “I could manage them very
 
-well, if it were not for Mary’s interference,” was what Anne often
+[[Well|well]], if it were not for Mary’s interference,” was what Anne often
 
-heard him say, and had a good deal of faith in; but when listening in
+heard him say, and had a good deal of [[Faith|faith]] in; but when listening in
 
 turn to Mary’s reproach of “Charles spoils the children so that I
 
-cannot get them into any order,” she never had the smallest temptation
+cannot get them into any order,” she never had the smallest [[Temptation|temptation]]
 
 to say, “Very true.”
 
@@ -2761,7 +2761,7 @@ One of the least agreeable circumstances of her residence there was her
 
 being treated with too much confidence by all parties, and being too
 
-much in the secret of the complaints of each house. Known to have some
+much in the secret of the complaints of each [[house]]. Known to have some
 
 influence with her sister, she was continually requested, or at least
 
@@ -2783,15 +2783,15 @@ own.”
 
 Mary’s declaration was, “I hate sending the children to the Great
 
-House, though their grandmamma is always wanting to see them, for she
+[[house|House]], though their grandmamma is always wanting to see them, for she
 
 humours and indulges them to such a degree, and gives them so much
 
-trash and sweet things, that they are sure to come back sick and cross
+trash and sweet things, that they are sure to come back sick and [[Cross|cross]]
 
 for the rest of the day.” And Mrs Musgrove took the first opportunity
 
-of being alone with Anne, to say, “Oh! Miss Anne, I cannot help wishing
+of being [[Alone|alone]] with Anne, to say, “Oh! Miss Anne, I cannot help wishing
 
 Mrs Charles had a little of your method with those children. They are
 
@@ -2807,7 +2807,7 @@ how they should be treated—! Bless me! how troublesome they are
 
 sometimes. I assure you, Miss Anne, it prevents my wishing to see them
 
-at our house so often as I otherwise should. I believe Mrs Charles is
+at our [[house]] so often as I otherwise should. I believe Mrs Charles is
 
 not quite pleased with my not inviting them oftener; but you know it is
 
@@ -2825,7 +2825,7 @@ all her servants so steady, that it would be high treason to call it in
 
 question; but I am sure, without exaggeration, that her upper
 
-house-maid and laundry-maid, instead of being in their business, are
+[[house]]-maid and laundry-maid, instead of being in their business, are
 
 gadding about the village, all day long. I meet them wherever I go; and
 
@@ -2863,13 +2863,13 @@ Again, it was Mary’s complaint, that Mrs Musgrove was very apt not to
 
 give her the precedence that was her due, when they dined at the Great
 
-House with other families; and she did not see any reason why she was
+[[house|House]] with other families; and she did not see any reason why she was
 
-to be considered so much at home as to lose her place. And one day when
+to be considered so much at [[Home|home]] as to lose her place. And one day when
 
 Anne was walking with only the Musgroves, one of them after talking of
 
-rank, people of rank, and jealousy of rank, said, “I have no scruple of
+rank, people of rank, and [[Jealousy|jealousy]] of rank, said, “I have no scruple of
 
 observing to _you_, how nonsensical some persons are about their place,
 
@@ -2903,7 +2903,7 @@ for her sister’s benefit.
 
 
 
-In all other respects, her visit began and proceeded very well. Her own
+In all other respects, her visit began and proceeded very [[Well|well]]. Her own
 
 spirits improved by change of place and subject, by being removed three
 
@@ -2919,7 +2919,7 @@ certainly carried nearly as far as possible, for they met every
 
 morning, and hardly ever spent an evening asunder; but she believed
 
-they should not have done so well without the sight of Mr and Mrs
+they should not have done so [[Well|well]] without the sight of Mr and Mrs
 
 Musgrove’s respectable forms in the usual places, or without the
 
@@ -2933,7 +2933,7 @@ having no voice, no knowledge of the harp, and no fond parents, to sit
 
 by and fancy themselves delighted, her performance was little thought
 
-of, only out of civility, or to refresh the others, as she was well
+of, only out of civility, or to refresh the others, as she was [[Well|well]]
 
 aware. She knew that when she played she was giving pleasure only to
 
@@ -2945,7 +2945,7 @@ loss of her dear mother, known the happiness of being listened to, or
 
 encouraged by any just appreciation or real taste. In music she had
 
-been always used to feel alone in the world; and Mr and Mrs Musgrove’s
+been always used to feel [[Alone|alone]] in the world; and Mr and Mrs Musgrove’s
 
 fond partiality for their own daughters’ performance, and total
 
@@ -2955,7 +2955,7 @@ their sakes, than mortification for her own.
 
 
 
-The party at the Great House was sometimes increased by other company.
+The party at the [[Great House]] was sometimes increased by other company.
 
 The neighbourhood was not large, but the Musgroves were visited by
 
@@ -2973,9 +2973,9 @@ in an unpremeditated little ball. There was a family of cousins within
 
 a walk of Uppercross, in less affluent circumstances, who depended on
 
-the Musgroves for all their pleasures: they would come at any time, and
+the Musgroves for all their pleasures: they would come at any [[Time|time]], and
 
-help play at anything, or dance anywhere; and Anne, very much
+help play at anything, or [[Dance|dance]] anywhere; and Anne, very much
 
 preferring the office of musician to a more active post, played country
 
@@ -2983,9 +2983,9 @@ dances to them by the hour together; a kindness which always
 
 recommended her musical powers to the notice of Mr and Mrs Musgrove
 
-more than anything else, and often drew this compliment;—“Well done,
+more than anything else, and often drew this compliment;—“[[Well]] done,
 
-Miss Anne! very well done indeed! Lord bless me! how those little
+Miss Anne! very [[Well|well]] done indeed! Lord bless me! how those little
 
 fingers of yours fly about!”
 
@@ -2993,7 +2993,7 @@ fingers of yours fly about!”
 
 So passed the first three weeks. Michaelmas came; and now Anne’s heart
 
-must be in Kellynch again. A beloved home made over to others; all the
+must be in Kellynch again. A beloved [[Home|home]] made over to others; all the
 
 precious rooms and furniture, groves, and prospects, beginning to own
 
@@ -3025,13 +3025,13 @@ there being no means of her going. She wished, however, to see the
 
 Crofts, and was glad to be within when the visit was returned. They
 
-came: the master of the house was not at home, but the two sisters were
+came: the master of the [[house]] was not at [[Home|home]], but the two sisters were
 
 together; and as it chanced that Mrs Croft fell to the share of Anne,
 
 while the Admiral sat by Mary, and made himself very agreeable by his
 
-good-humoured notice of her little boys, she was well able to watch for
+good-humoured notice of her little boys, she was [[Well|well]] able to watch for
 
 a likeness, and if it failed her in the features, to catch it in the
 
@@ -3055,7 +3055,7 @@ manners were open, easy, and decided, like one who had no distrust of
 
 herself, and no doubts of what to do; without any approach to
 
-coarseness, however, or any want of good humour. Anne gave her credit,
+coarseness, however, or any want of good [[Humour|humour]]. Anne gave her credit,
 
 indeed, for feelings of great consideration towards herself, in all
 
@@ -3067,7 +3067,7 @@ introduction, that there was not the smallest symptom of any knowledge
 
 or suspicion on Mrs Croft’s side, to give a bias of any sort. She was
 
-quite easy on that head, and consequently full of strength and courage,
+quite easy on that head, and consequently full of strength and [[Courage|courage]],
 
 till for a moment electrified by Mrs Croft’s suddenly saying,—
 
@@ -3125,19 +3125,19 @@ much engrossed by proposals of carrying them away in his coat pockets,
 
 &c., to have another moment for finishing or recollecting what he had
 
-begun, Anne was left to persuade herself, as well as she could, that
+begun, Anne was left to persuade herself, as [[Well|well]] as she could, that
 
 the same brother must still be in question. She could not, however,
 
 reach such a degree of certainty, as not to be anxious to hear whether
 
-anything had been said on the subject at the other house, where the
+anything had been said on the subject at the other [[house]], where the
 
 Crofts had previously been calling.
 
 
 
-The folks of the Great House were to spend the evening of this day at
+The folks of the [[Great House]] were to spend the evening of this day at
 
 the Cottage; and it being now too late in the year for such visits to
 
@@ -3159,7 +3159,7 @@ the harp, which was bringing in the carriage.
 
 come on to give you notice, that papa and mamma are out of spirits this
 
-evening, especially mamma; she is thinking so much of poor Richard! And
+evening, especially mamma; she is thinking so much of poor [[Richard]]! And
 
 we agreed it would be best to have the harp, for it seems to amuse her
 
@@ -3167,7 +3167,7 @@ more than the piano-forte. I will tell you why she is out of spirits.
 
 When the Crofts called this morning, (they called here afterwards, did
 
-not they?), they happened to say, that her brother, Captain Wentworth,
+not they?), they happened to say, that her brother, [[Captain Wentworth]],
 
 is just returned to England, or paid off, or something, and is coming
 
@@ -3175,7 +3175,7 @@ to see them almost directly; and most unluckily it came into mamma’s
 
 head, when they were gone, that Wentworth, or something very like it,
 
-was the name of poor Richard’s captain at one time; I do not know when
+was the name of poor [[Richard]]’s captain at one [[Time|time]]; I do not know when
 
 or where, but a great while before he died, poor fellow! And upon
 
@@ -3183,13 +3183,13 @@ looking over his letters and things, she found it was so, and is
 
 perfectly sure that this must be the very man, and her head is quite
 
-full of it, and of poor Richard! So we must be as merry as we can, that
+full of it, and of poor [[Richard]]! So we must be as merry as we can, that
 
 she may not be dwelling upon such gloomy things.”
 
 
 
-The real circumstances of this pathetic piece of family history were,
+The real circumstances of this pathetic piece of family [[history]] were,
 
 that the Musgroves had had the ill fortune of a very troublesome,
 
@@ -3199,9 +3199,9 @@ twentieth year; that he had been sent to sea because he was stupid and
 
 unmanageable on shore; that he had been very little cared for at any
 
-time by his family, though quite as much as he deserved; seldom heard
+[[Time|time]] by his family, though quite as much as he deserved; seldom heard
 
-of, and scarcely at all regretted, when the intelligence of his death
+of, and scarcely at all regretted, when the intelligence of his [[Death|death]]
 
 abroad had worked its way to Uppercross, two years before.
 
@@ -3209,7 +3209,7 @@ abroad had worked its way to Uppercross, two years before.
 
 He had, in fact, though his sisters were now doing all they could for
 
-him, by calling him “poor Richard,” been nothing better than a
+him, by calling him “poor [[Richard]],” been nothing better than a
 
 thick-headed, unfeeling, unprofitable Dick Musgrove, who had never done
 
@@ -3239,13 +3239,13 @@ money.
 
 
 
-In each letter he had spoken well of his captain; but yet, so little
+In each letter he had spoken [[Well|well]] of his captain; but yet, so little
 
 were they in the habit of attending to such matters, so unobservant and
 
 incurious were they as to the names of men or ships, that it had made
 
-scarcely any impression at the time; and that Mrs Musgrove should have
+scarcely any impression at the [[Time|time]]; and that Mrs Musgrove should have
 
 been suddenly struck, this very day, with a recollection of the name of
 
@@ -3263,7 +3263,7 @@ gone for ever, and all the strength of his faults forgotten, had
 
 affected her spirits exceedingly, and thrown her into greater grief for
 
-him than she had known on first hearing of his death. Mr Musgrove was,
+him than she had known on first hearing of his [[Death|death]]. Mr Musgrove was,
 
 in a lesser degree, affected likewise; and when they reached the
 
@@ -3275,7 +3275,7 @@ companions could give them.
 
 
 
-To hear them talking so much of Captain Wentworth, repeating his name
+To hear them talking so much of [[Captain Wentworth]], repeating his name
 
 so often, puzzling over past years, and at last ascertaining that it
 
@@ -3301,7 +3301,7 @@ respect for his character, stamped as it was by poor Dick’s having been
 
 six months under his care, and mentioning him in strong, though not
 
-perfectly well-spelt praise, as “a fine dashing felow, only two
+perfectly [[Well|well]]-spelt praise, as “a fine dashing felow, only two
 
 perticular about the schoolmaster,” were bent on introducing
 
@@ -3327,7 +3327,7 @@ CHAPTER VII.
 
 
 
-A very few days more, and Captain Wentworth was known to be at
+A very few days more, and [[Captain Wentworth]] was known to be at
 
 Kellynch, and Mr Musgrove had called on him, and come back warm in his
 
@@ -3337,7 +3337,7 @@ the end of another week. It had been a great disappointment to Mr
 
 Musgrove to find that no earlier day could be fixed, so impatient was
 
-he to shew his gratitude, by seeing Captain Wentworth under his own
+he to shew his gratitude, by seeing [[Captain Wentworth]] under his own
 
 roof, and welcoming him to all that was strongest and best in his
 
@@ -3349,17 +3349,17 @@ could feel secure even for a week.
 
 
 
-Captain Wentworth made a very early return to Mr Musgrove’s civility,
+[[Captain Wentworth]] made a very early return to Mr Musgrove’s civility,
 
 and she was all but calling there in the same half hour. She and Mary
 
-were actually setting forward for the Great House, where, as she
+were actually setting forward for the [[Great House]], where, as she
 
 afterwards learnt, they must inevitably have found him, when they were
 
-stopped by the eldest boy’s being at that moment brought home in
+stopped by the eldest boy’s being at that moment brought [[Home|home]] in
 
-consequence of a bad fall. The child’s situation put the visit entirely
+consequence of a bad fall. The [[Child|child]]’s situation put the visit entirely
 
 aside; but she could not hear of her escape with indifference, even in
 
@@ -3379,11 +3379,11 @@ send for, the father to have pursued and informed, the mother to
 
 support and keep from hysterics, the servants to control, the youngest
 
-child to banish, and the poor suffering one to attend and soothe;
+[[Child|child]] to banish, and the poor [[Suffering|suffering]] one to attend and soothe;
 
 besides sending, as soon as she recollected it, proper notice to the
 
-other house, which brought her an accession rather of frightened,
+other [[house]], which brought her an accession rather of frightened,
 
 enquiring companions, than of very useful assistants.
 
@@ -3393,15 +3393,15 @@ Her brother’s return was the first comfort; he could take best care of
 
 his wife; and the second blessing was the arrival of the apothecary.
 
-Till he came and had examined the child, their apprehensions were the
+Till he came and had examined the [[Child|child]], their apprehensions were the
 
 worse for being vague; they suspected great injury, but knew not where;
 
 but now the collar-bone was soon replaced, and though Mr Robinson felt
 
-and felt, and rubbed, and looked grave, and spoke low words both to the
+and felt, and rubbed, and looked [[Grave|grave]], and spoke low words both to the
 
-father and the aunt, still they were all to hope the best, and to be
+father and the aunt, still they were all to [[Hope|hope]] the best, and to be
 
 able to part and eat their dinner in tolerable ease of mind; and then
 
@@ -3409,7 +3409,7 @@ it was, just before they parted, that the two young aunts were able so
 
 far to digress from their nephew’s state, as to give the information of
 
-Captain Wentworth’s visit; staying five minutes behind their father and
+[[Captain Wentworth]]’s visit; staying five minutes behind their father and
 
 mother, to endeavour to express how perfectly delighted they were with
 
@@ -3433,9 +3433,9 @@ ought. And in short, he had looked and said everything with such
 
 exquisite grace, that they could assure them all, their heads were both
 
-turned by him; and off they ran, quite as full of glee as of love, and
+turned by him; and off they ran, quite as full of glee as of [[Love|love]], and
 
-apparently more full of Captain Wentworth than of little Charles.
+apparently more full of [[Captain Wentworth]] than of little Charles.
 
 
 
@@ -3445,9 +3445,9 @@ came with their father, through the gloom of the evening, to make
 
 enquiries; and Mr Musgrove, no longer under the first uneasiness about
 
-his heir, could add his confirmation and praise, and hope there would
+his heir, could add his confirmation and praise, and [[Hope|hope]] there would
 
-be now no occasion for putting Captain Wentworth off, and only be sorry
+be now no occasion for putting [[Captain Wentworth]] off, and only be sorry
 
 to think that the cottage party, probably, would not like to leave the
 
@@ -3463,11 +3463,11 @@ adding her warm protestations to theirs.
 
 Charles Musgrove, indeed, afterwards, shewed more of inclination; “the
 
-child was going on so well, and he wished so much to be introduced to
+[[Child|child]] was going on so [[Well|well]], and he wished so much to be introduced to
 
-Captain Wentworth, that, perhaps, he might join them in the evening; he
+[[Captain Wentworth]], that, perhaps, he might join them in the evening; he
 
-would not dine from home, but he might walk in for half an hour.” But
+would not dine from [[Home|home]], but he might walk in for half an hour.” But
 
 in this he was eagerly opposed by his wife, with “Oh! no, indeed,
 
@@ -3477,37 +3477,37 @@ should happen?”
 
 
 
-The child had a good night, and was going on well the next day. It must
+The [[Child|child]] had a good [[Night|night]], and was going on [[Well|well]] the next day. It must
 
-be a work of time to ascertain that no injury had been done to the
+be a work of [[Time|time]] to ascertain that no injury had been done to the
 
 spine; but Mr Robinson found nothing to increase alarm, and Charles
 
 Musgrove began, consequently, to feel no necessity for longer
 
-confinement. The child was to be kept in bed and amused as quietly as
+confinement. The [[Child|child]] was to be kept in bed and amused as quietly as
 
 possible; but what was there for a father to do? This was quite a
 
 female case, and it would be highly absurd in him, who could be of no
 
-use at home, to shut himself up. His father very much wished him to
+use at [[Home|home]], to shut himself up. His father very much wished him to
 
-meet Captain Wentworth, and there being no sufficient reason against
+meet [[Captain Wentworth]], and there being no sufficient reason against
 
 it, he ought to go; and it ended in his making a bold, public
 
 declaration, when he came in from shooting, of his meaning to dress
 
-directly, and dine at the other house.
+directly, and dine at the other [[house]].
 
 
 
-“Nothing can be going on better than the child,” said he; “so I told my
+“Nothing can be going on better than the [[Child|child]],” said he; “so I told my
 
 father, just now, that I would come, and he thought me quite right.
 
-Your sister being with you, my love, I have no scruple at all. You
+Your sister being with you, my [[Love|love]], I have no scruple at all. You
 
 would not like to leave him yourself, but you see I can be of no use.
 
@@ -3529,7 +3529,7 @@ there was only Anne to hear—
 
 “So you and I are to be left to shift by ourselves, with this poor sick
 
-child; and not a creature coming near us all the evening! I knew how it
+[[Child|child]]; and not a creature coming near us all the evening! I knew how it
 
 would be. This is always my luck. If there is anything disagreeable
 
@@ -3539,7 +3539,7 @@ any of them. Very unfeeling! I must say it is very unfeeling of him to
 
 be running away from his poor little boy. Talks of his being going on
 
-so well! How does he know that he is going on well, or that there may
+so [[Well|well]]! How does he know that he is going on [[Well|well]], or that there may
 
 not be a sudden change half an hour hence? I did not think Charles
 
@@ -3549,7 +3549,7 @@ himself, and because I am the poor mother, I am not to be allowed to
 
 stir; and yet, I am sure, I am more unfit than anybody else to be about
 
-the child. My being the mother is the very reason why my feelings
+the [[Child|child]]. My being the mother is the very reason why my feelings
 
 should not be tried. I am not at all equal to it. You saw how
 
@@ -3563,21 +3563,21 @@ shock. You will not be hysterical again. I dare say we shall have
 
 nothing to distress us. I perfectly understand Mr Robinson’s
 
-directions, and have no fears; and indeed, Mary, I cannot wonder at
+directions, and have no fears; and indeed, Mary, I cannot [[Wonder|wonder]] at
 
 your husband. Nursing does not belong to a man; it is not his province.
 
-A sick child is always the mother’s property: her own feelings
+A sick [[Child|child]] is always the mother’s property: her own feelings
 
 generally make it so.”
 
 
 
-“I hope I am as fond of my child as any mother, but I do not know that
+“I [[Hope|hope]] I am as fond of my [[Child|child]] as any mother, but I do not know that
 
 I am of any more use in the sick-room than Charles, for I cannot be
 
-always scolding and teazing the poor child when it is ill; and you saw,
+always scolding and teazing the poor [[Child|child]] when it is ill; and you saw,
 
 this morning, that if I told him to keep quiet, he was sure to begin
 
@@ -3595,7 +3595,7 @@ evening away from the poor boy?”
 
 and she could send us word every hour how he was. I really think
 
-Charles might as well have told his father we would all come. I am not
+Charles might as [[Well|well]] have told his father we would all come. I am not
 
 more alarmed about little Charles now than he is. I was dreadfully
 
@@ -3603,9 +3603,9 @@ alarmed yesterday, but the case is very different to-day.”
 
 
 
-“Well, if you do not think it too late to give notice for yourself,
+“[[Well]], if you do not think it too late to give notice for yourself,
 
-suppose you were to go, as well as your husband. Leave little Charles
+suppose you were to go, as [[Well|well]] as your husband. Leave little Charles
 
 to my care. Mr and Mrs Musgrove cannot think it wrong while I remain
 
@@ -3615,9 +3615,9 @@ with him.”
 
 “Are you serious?” cried Mary, her eyes brightening. “Dear me! that’s a
 
-very good thought, very good, indeed. To be sure, I may just as well go
+very good thought, very good, indeed. To be sure, I may just as [[Well|well]] go
 
-as not, for I am of no use at home—am I? and it only harasses me. You,
+as not, for I am of no use at [[Home|home]]—am I? and it only harasses me. You,
 
 who have not a mother’s feelings, are a great deal the properest
 
@@ -3629,7 +3629,7 @@ Jemima. Oh! I shall certainly go; I am sure I ought if I can, quite as
 
 much as Charles, for they want me excessively to be acquainted with
 
-Captain Wentworth, and I know you do not mind being left alone. An
+[[Captain Wentworth]], and I know you do not mind being left [[Alone|alone]]. An
 
 excellent thought of yours, indeed, Anne. I will go and tell Charles,
 
@@ -3639,13 +3639,13 @@ notice, if anything is the matter; but I dare say there will be nothing
 
 to alarm you. I should not go, you may be sure, if I did not feel quite
 
-at ease about my dear child.”
+at ease about my dear [[Child|child]].”
 
 
 
 The next moment she was tapping at her husband’s dressing-room door,
 
-and as Anne followed her up stairs, she was in time for the whole
+and as Anne followed her up stairs, she was in [[Time|time]] for the whole
 
 conversation, which began with Mary’s saying, in a tone of great
 
@@ -3653,17 +3653,17 @@ exultation—
 
 
 
-“I mean to go with you, Charles, for I am of no more use at home than
+“I mean to go with you, Charles, for I am of no more use at [[Home|home]] than
 
-you are. If I were to shut myself up for ever with the child, I should
+you are. If I were to shut myself up for ever with the [[Child|child]], I should
 
 not be able to persuade him to do anything he did not like. Anne will
 
-stay; Anne undertakes to stay at home and take care of him. It is
+stay; Anne undertakes to stay at [[Home|home]] and take care of him. It is
 
 Anne’s own proposal, and so I shall go with you, which will be a great
 
-deal better, for I have not dined at the other house since Tuesday.”
+deal better, for I have not dined at the other [[house]] since Tuesday.”
 
 
 
@@ -3671,7 +3671,7 @@ deal better, for I have not dined at the other house since Tuesday.”
 
 very glad to have you go; but it seems rather hard that she should be
 
-left at home by herself, to nurse our sick child.”
+left at [[Home|home]] by herself, to [[Nurse|nurse]] our sick [[Child|child]].”
 
 
 
@@ -3681,9 +3681,9 @@ manner being soon sufficient to convince him, where conviction was at
 
 least very agreeable, he had no farther scruples as to her being left
 
-to dine alone, though he still wanted her to join them in the evening,
+to dine [[Alone|alone]], though he still wanted her to join them in the evening,
 
-when the child might be at rest for the night, and kindly urged her to
+when the [[Child|child]] might be at rest for the [[Night|night]], and kindly urged her to
 
 let him come and fetch her, but she was quite unpersuadable; and this
 
@@ -3697,7 +3697,7 @@ she was left with as many sensations of comfort, as were, perhaps, ever
 
 likely to be hers. She knew herself to be of the first utility to the
 
-child; and what was it to her if Frederick Wentworth were only half a
+[[Child|child]]; and what was it to her if Frederick Wentworth were only half a
 
 mile distant, making himself agreeable to others?
 
@@ -3709,11 +3709,11 @@ indifferent, if indifference could exist under such circumstances. He
 
 must be either indifferent or unwilling. Had he wished ever to see her
 
-again, he need not have waited till this time; he would have done what
+again, he need not have waited till this [[Time|time]]; he would have done what
 
 she could not but believe that in his place she should have done long
 
-ago, when events had been early giving him the independence which alone
+ago, when events had been early giving him the independence which [[Alone|alone]]
 
 had been wanting.
 
@@ -3733,9 +3733,9 @@ Charles. He was to come to breakfast, but not at the Cottage, though
 
 that had been proposed at first; but then he had been pressed to come
 
-to the Great House instead, and he seemed afraid of being in Mrs
+to the [[Great House]] instead, and he seemed afraid of being in Mrs
 
-Charles Musgrove’s way, on account of the child, and therefore,
+Charles Musgrove’s way, on account of the [[Child|child]], and therefore,
 
 somehow, they hardly knew how, it ended in Charles’s being to meet him
 
@@ -3757,21 +3757,21 @@ were to meet.
 
 The morning hours of the Cottage were always later than those of the
 
-other house, and on the morrow the difference was so great that Mary
+other [[house]], and on the morrow the difference was so great that Mary
 
 and Anne were not more than beginning breakfast when Charles came in to
 
-say that they were just setting off, that he was come for his dogs,
+say that they were just setting off, that he was come for his [[dogs]],
 
-that his sisters were following with Captain Wentworth; his sisters
+that his sisters were following with [[Captain Wentworth]]; his sisters
 
-meaning to visit Mary and the child, and Captain Wentworth proposing
+meaning to visit Mary and the [[Child|child]], and [[Captain Wentworth]] proposing
 
 also to wait on her for a few minutes if not inconvenient; and though
 
-Charles had answered for the child’s being in no such state as could
+Charles had answered for the [[Child|child]]’s being in no such state as could
 
-make it inconvenient, Captain Wentworth would not be satisfied without
+make it inconvenient, [[Captain Wentworth]] would not be satisfied without
 
 his running on to give notice.
 
@@ -3785,7 +3785,7 @@ most consoling, that it would soon be over. And it was soon over. In
 
 two minutes after Charles’s preparation, the others appeared; they were
 
-in the drawing-room. Her eye half met Captain Wentworth’s, a bow, a
+in the drawing-room. Her eye half met [[Captain Wentworth]]’s, a bow, a
 
 curtsey passed; she heard his voice; he talked to Mary, said all that
 
@@ -3793,7 +3793,7 @@ was right, said something to the Miss Musgroves, enough to mark an easy
 
 footing; the room seemed full, full of persons and voices, but a few
 
-minutes ended it. Charles shewed himself at the window, all was ready,
+minutes ended it. Charles shewed himself at the [[Window|window]], all was ready,
 
 their visitor had bowed and was gone, the Miss Musgroves were gone too,
 
@@ -3859,7 +3859,7 @@ this spontaneous information from Mary:—
 
 
 
-“Captain Wentworth is not very gallant by you, Anne, though he was so
+“[[Captain Wentworth]] is not very gallant by you, Anne, though he was so
 
 attentive to me. Henrietta asked him what he thought of you, when they
 
@@ -3879,7 +3879,7 @@ wound.
 
 “Altered beyond his knowledge.” Anne fully submitted, in silent, deep
 
-mortification. Doubtless it was so, and she could take no revenge, for
+mortification. Doubtless it was so, and she could take no [[Revenge|revenge]], for
 
 he was not altered, or not for the worse. She had already acknowledged
 
@@ -3911,7 +3911,7 @@ without an idea that they would be carried round to her. He had thought
 
 her wretchedly altered, and in the first moment of appeal, had spoken
 
-as he felt. He had not forgiven Anne Elliot. She had used him ill,
+as he felt. He had not forgiven [[Anne Elliot]]. She had used him ill,
 
 deserted and disappointed him; and worse, she had shewn a feebleness of
 
@@ -3919,7 +3919,7 @@ character in doing so, which his own decided, confident temper could
 
 not endure. She had given him up to oblige others. It had been the
 
-effect of over-persuasion. It had been weakness and timidity.
+effect of over-[[Persuasion|persuasion]]. It had been weakness and timidity.
 
 
 
@@ -3927,7 +3927,7 @@ He had been most warmly attached to her, and had never seen a woman
 
 since whom he thought her equal; but, except from some natural
 
-sensation of curiosity, he had no desire of meeting her again. Her
+sensation of curiosity, he had no [[Desire|desire]] of meeting her again. Her
 
 power with him was gone for ever.
 
@@ -3937,13 +3937,13 @@ It was now his object to marry. He was rich, and being turned on shore,
 
 fully intended to settle as soon as he could be properly tempted;
 
-actually looking round, ready to fall in love with all the speed which
+actually looking round, ready to fall in [[Love|love]] with all the [[Speed|speed]] which
 
 a clear head and a quick taste could allow. He had a heart for either
 
 of the Miss Musgroves, if they could catch it; a heart, in short, for
 
-any pleasing young woman who came in his way, excepting Anne Elliot.
+any pleasing young woman who came in his way, excepting [[Anne Elliot]].
 
 This was his only secret exception, when he said to his sister, in
 
@@ -3953,7 +3953,7 @@ answer to her suppositions:—
 
 “Yes, here I am, Sophia, quite ready to make a foolish match. Anybody
 
-between fifteen and thirty may have me for asking. A little beauty, and
+between fifteen and thirty may have me for asking. A little [[Beauty|beauty]], and
 
 a few smiles, and a few compliments to the navy, and I am a lost man.
 
@@ -3965,7 +3965,7 @@ women to make him nice?”
 
 He said it, she knew, to be contradicted. His bright proud eye spoke
 
-the conviction that he was nice; and Anne Elliot was not out of his
+the conviction that he was nice; and [[Anne Elliot]] was not out of his
 
 thoughts, when he more seriously described the woman he should wish to
 
@@ -3977,9 +3977,9 @@ and the last of the description.
 
 “That is the woman I want,” said he. “Something a little inferior I
 
-shall of course put up with, but it must not be much. If I am a fool, I
+shall of course put up with, but it must not be much. If I am a [[Fool|fool]], I
 
-shall be a fool indeed, for I have thought on the subject more than
+shall be a [[Fool|fool]] indeed, for I have thought on the subject more than
 
 most men.”
 
@@ -3997,7 +3997,7 @@ CHAPTER VIII.
 
 
 
-From this time Captain Wentworth and Anne Elliot were repeatedly in the
+From this [[Time|time]] [[Captain Wentworth]] and [[Anne Elliot]] were repeatedly in the
 
 same circle. They were soon dining in company together at Mr
 
@@ -4035,7 +4035,7 @@ unvisited by remembrance any more than herself. There must be the same
 
 immediate association of thought, though she was very far from
 
-conceiving it to be of equal pain.
+conceiving it to be of equal [[Pain|pain]].
 
 
 
@@ -4043,7 +4043,7 @@ They had no conversation together, no intercourse but what the
 
 commonest civility required. Once so much to each other! Now nothing!
 
-There _had_ been a time, when of all the large party now filling the
+There _had_ been a [[Time|time]], when of all the large party now filling the
 
 drawing-room at Uppercross, they would have found it most difficult to
 
@@ -4095,7 +4095,7 @@ Musgrove’s who, overcome by fond regrets, could not help saying—
 
 “Ah! Miss Anne, if it had pleased Heaven to spare my poor son, I dare
 
-say he would have been just such another by this time.”
+say he would have been just such another by this [[Time|time]].”
 
 
 
@@ -4115,7 +4115,7 @@ list, the first that had ever been at Uppercross), and sitting down
 
 together to pore over it, with the professed view of finding out the
 
-ships that Captain Wentworth had commanded.
+ships that [[Captain Wentworth]] had commanded.
 
 
 
@@ -4127,7 +4127,7 @@ ships that Captain Wentworth had commanded.
 
 last man who commanded her. Hardly fit for service then. Reported fit
 
-for home service for a year or two, and so I was sent off to the West
+for [[Home|home]] service for a year or two, and so I was sent off to the West
 
 Indies.”
 
@@ -4139,11 +4139,11 @@ The girls looked all amazement.
 
 “The Admiralty,” he continued, “entertain themselves now and then, with
 
-sending a few hundred men to sea, in a ship not fit to be employed. But
+sending a few hundred men to sea, in a [[Ship|ship]] not fit to be employed. But
 
 they have a great many to provide for; and among the thousands that may
 
-just as well go to the bottom as not, it is impossible for them to
+just as [[Well|well]] go to the [[Bottom|bottom]] as not, it is impossible for them to
 
 distinguish the very set who may be least missed.”
 
@@ -4157,17 +4157,17 @@ sloop, you would not see her equal. Lucky fellow to get her! He knows
 
 there must have been twenty better men than himself applying for her at
 
-the same time. Lucky fellow to get anything so soon, with no more
+the same [[Time|time]]. Lucky fellow to get anything so soon, with no more
 
 interest than his.”
 
 
 
-“I felt my luck, Admiral, I assure you;” replied Captain Wentworth,
+“I felt my luck, Admiral, I assure you;” replied [[Captain Wentworth]],
 
-seriously. “I was as well satisfied with my appointment as you can
+seriously. “I was as [[Well|well]] satisfied with my appointment as you can
 
-desire. It was a great object with me at that time to be at sea; a very
+[[Desire|desire]]. It was a great object with me at that [[Time|time]] to be at sea; a very
 
 great object, I wanted to be doing something.”
 
@@ -4181,13 +4181,13 @@ afloat again.”
 
 
 
-“But, Captain Wentworth,” cried Louisa, “how vexed you must have been
+“But, [[Captain Wentworth]],” cried Louisa, “how vexed you must have been
 
 when you came to the Asp, to see what an old thing they had given you.”
 
 
 
-“I knew pretty well what she was before that day;” said he, smiling. “I
+“I knew pretty [[Well|well]] what she was before that day;” said he, smiling. “I
 
 had no more discoveries to make than you would have as to the fashion
 
@@ -4199,13 +4199,13 @@ last, on some very wet day, is lent to yourself. Ah! she was a dear old
 
 Asp to me. She did all that I wanted. I knew she would. I knew that we
 
-should either go to the bottom together, or that she would be the
+should either go to the [[Bottom|bottom]] together, or that she would be the
 
-making of me; and I never had two days of foul weather all the time I
+making of me; and I never had two days of foul weather all the [[Time|time]] I
 
 was at sea in her; and after taking privateers enough to be very
 
-entertaining, I had the good luck in my passage home the next autumn,
+entertaining, I had the good luck in my passage [[Home|home]] the next [[Autumn|autumn]],
 
 to fall in with the very French frigate I wanted. I brought her into
 
@@ -4213,17 +4213,17 @@ Plymouth; and here another instance of luck. We had not been six hours
 
 in the Sound, when a gale came on, which lasted four days and nights,
 
-and which would have done for poor old Asp in half the time; our touch
+and which would have done for poor old Asp in half the [[Time|time]]; our touch
 
 with the Great Nation not having much improved our condition.
 
 Four-and-twenty hours later, and I should only have been a gallant
 
-Captain Wentworth, in a small paragraph at one corner of the
+[[Captain Wentworth]], in a small paragraph at one corner of the
 
 newspapers; and being lost in only a sloop, nobody would have thought
 
-about me.” Anne’s shudderings were to herself alone; but the Miss
+about me.” Anne’s shudderings were to herself [[Alone|alone]]; but the Miss
 
 Musgroves could be as open as they were sincere, in their exclamations
 
@@ -4237,7 +4237,7 @@ thinking aloud, “so then he went away to the Laconia, and there he met
 
 with our poor boy. Charles, my dear,” (beckoning him to her), “do ask
 
-Captain Wentworth where it was he first met with your poor brother. I
+[[Captain Wentworth]] where it was he first met with your poor brother. I
 
 always forgot.”
 
@@ -4251,7 +4251,7 @@ Wentworth.”
 
 
 
-“Oh! but, Charles, tell Captain Wentworth, he need not be afraid of
+“Oh! but, Charles, tell [[Captain Wentworth]], he need not be afraid of
 
 mentioning poor Dick before me, for it would be rather a pleasure to
 
@@ -4265,7 +4265,7 @@ only nodded in reply, and walked away.
 
 
 
-The girls were now hunting for the Laconia; and Captain Wentworth could
+The girls were now hunting for the Laconia; and [[Captain Wentworth]] could
 
 not deny himself the pleasure of taking the precious volume into his
 
@@ -4289,7 +4289,7 @@ wanted money: worse than myself. He had a wife. Excellent fellow. I
 
 shall never forget his happiness. He felt it all, so much for her sake.
 
-I wished for him again the next summer, when I had still the same luck
+I wished for him again the next [[Summer|summer]], when I had still the same luck
 
 in the Mediterranean.”
 
@@ -4297,13 +4297,13 @@ in the Mediterranean.”
 
 “And I am sure, Sir,” said Mrs Musgrove, “it was a lucky day for _us_,
 
-when you were put captain into that ship. _We_ shall never forget what
+when you were put captain into that [[Ship|ship]]. _We_ shall never forget what
 
 you did.”
 
 
 
-Her feelings made her speak low; and Captain Wentworth, hearing only in
+Her feelings made her speak low; and [[Captain Wentworth]], hearing only in
 
 part, and probably not having Dick Musgrove at all near his thoughts,
 
@@ -4313,7 +4313,7 @@ looked rather in suspense, and as if waiting for more.
 
 “My brother,” whispered one of the girls; “mamma is thinking of poor
 
-Richard.”
+[[Richard]].”
 
 
 
@@ -4323,11 +4323,11 @@ and such an excellent correspondent, while he was under your care! Ah!
 
 it would have been a happy thing, if he had never left you. I assure
 
-you, Captain Wentworth, we are very sorry he ever left you.”
+you, [[Captain Wentworth]], we are very sorry he ever left you.”
 
 
 
-There was a momentary expression in Captain Wentworth’s face at this
+There was a momentary expression in [[Captain Wentworth]]’s face at this
 
 speech, a certain glance of his bright eye, and curl of his handsome
 
@@ -4335,7 +4335,7 @@ mouth, which convinced Anne, that instead of sharing in Mrs Musgrove’s
 
 kind wishes, as to her son, he had probably been at some pains to get
 
-rid of him; but it was too transient an indulgence of self-amusement to
+rid of him; but it was too transient an indulgence of [[Self|self]]-amusement to
 
 be detected by any who understood him less than herself; in another
 
@@ -4359,15 +4359,15 @@ made room for him; they were divided only by Mrs Musgrove. It was no
 
 insignificant barrier, indeed. Mrs Musgrove was of a comfortable,
 
-substantial size, infinitely more fitted by nature to express good
+substantial size, infinitely more fitted by [[Nature|nature]] to express good
 
-cheer and good humour, than tenderness and sentiment; and while the
+cheer and good [[Humour|humour]], than tenderness and sentiment; and while the
 
 agitations of Anne’s slender form, and pensive face, may be considered
 
-as very completely screened, Captain Wentworth should be allowed some
+as very completely screened, [[Captain Wentworth]] should be allowed some
 
-credit for the self-command with which he attended to her large fat
+credit for the [[Self|self]]-command with which he attended to her large fat
 
 sighings over the destiny of a son, whom alive nobody had cared for.
 
@@ -4391,13 +4391,13 @@ The Admiral, after taking two or three refreshing turns about the room
 
 with his hands behind him, being called to order by his wife, now came
 
-up to Captain Wentworth, and without any observation of what he might
+up to [[Captain Wentworth]], and without any observation of what he might
 
 be interrupting, thinking only of his own thoughts, began with—
 
 
 
-“If you had been a week later at Lisbon, last spring, Frederick, you
+“If you had been a week later at Lisbon, last [[spring]], Frederick, you
 
 would have been asked to give a passage to Lady Mary Grierson and her
 
@@ -4413,7 +4413,7 @@ The Admiral abused him for his want of gallantry. He defended himself;
 
 though professing that he would never willingly admit any ladies on
 
-board a ship of his, excepting for a ball, or a visit, which a few
+board a [[Ship|ship]] of his, excepting for a ball, or a visit, which a few
 
 hours might comprehend.
 
@@ -4431,7 +4431,7 @@ Admiral, in rating the claims of women to every personal comfort
 
 _high_, and this is what I do. I hate to hear of women on board, or to
 
-see them on board; and no ship under my command shall ever convey a
+see them on board; and no [[Ship|ship]] under my command shall ever convey a
 
 family of ladies anywhere, if I can help it.”
 
@@ -4443,7 +4443,7 @@ This brought his sister upon him.
 
 “Oh! Frederick! But I cannot believe it of you.—All idle
 
-refinement!—Women may be as comfortable on board, as in the best house
+refinement!—Women may be as comfortable on board, as in the best [[house]]
 
 in England. I believe I have lived as much on board as most women, and
 
@@ -4471,7 +4471,7 @@ superfine, extraordinary sort of gallantry of yours then?”
 
 
 
-“All merged in my friendship, Sophia. I would assist any brother
+“All merged in my [[Friendship|friendship]], Sophia. I would assist any brother
 
 officer’s wife that I could, and I would bring anything of Harville’s
 
@@ -4509,7 +4509,7 @@ her family to Plymouth.”
 
 women were all fine ladies, instead of rational creatures. We none of
 
-us expect to be in smooth water all our days.”
+us expect to be in smooth [[Water|water]] all our days.”
 
 
 
@@ -4529,7 +4529,7 @@ bring him his wife.”
 
 
 
-“Now I have done,” cried Captain Wentworth. “When once married people
+“Now I have done,” cried [[Captain Wentworth]]. “When once married people
 
 begin to attack me with,—‘Oh! you will think very differently, when you
 
@@ -4549,13 +4549,13 @@ to Mrs Croft.
 
 
 
-“Pretty well, ma’am, in the fifteen years of my marriage; though many
+“Pretty [[Well|well]], ma’am, in the fifteen years of my [[Marriage|marriage]]; though many
 
 women have done more. I have crossed the Atlantic four times, and have
 
 been once to the East Indies, and back again, and only once; besides
 
-being in different places about home: Cork, and Lisbon, and Gibraltar.
+being in different places about [[Home|home]]: Cork, and Lisbon, and Gibraltar.
 
 But I never went beyond the Streights, and never was in the West
 
@@ -4581,7 +4581,7 @@ confined; though any reasonable woman may be perfectly happy in one of
 
 them; and I can safely say, that the happiest part of my life has been
 
-spent on board a ship. While we were together, you know, there was
+spent on board a [[Ship|ship]]. While we were together, you know, there was
 
 nothing to be feared. Thank God! I have always been blessed with
 
@@ -4589,15 +4589,15 @@ excellent health, and no climate disagrees with me. A little disordered
 
 always the first twenty-four hours of going to sea, but never knew what
 
-sickness was afterwards. The only time I ever really suffered in body
+sickness was afterwards. The only [[Time|time]] I ever really suffered in [[Body|body]]
 
-or mind, the only time that I ever fancied myself unwell, or had any
+or mind, the only [[Time|time]] that I ever fancied myself unwell, or had any
 
-ideas of danger, was the winter that I passed by myself at Deal, when
+ideas of danger, was the [[Winter|winter]] that I passed by myself at Deal, when
 
 the Admiral (_Captain_ Croft then) was in the North Seas. I lived in
 
-perpetual fright at that time, and had all manner of imaginary
+perpetual fright at that [[Time|time]], and had all manner of imaginary
 
 complaints from not knowing what to do with myself, or when I should
 
@@ -4621,7 +4621,7 @@ over, and he is safe back again.”
 
 The evening ended with dancing. On its being proposed, Anne offered her
 
-services, as usual; and though her eyes would sometimes fill with tears
+services, as usual; and though her eyes would sometimes fill with [[Tears|tears]]
 
 as she sat at the instrument, she was extremely glad to be employed,
 
@@ -4631,7 +4631,7 @@ and desired nothing in return but to be unobserved.
 
 It was a merry, joyous party, and no one seemed in higher spirits than
 
-Captain Wentworth. She felt that he had every thing to elevate him
+[[Captain Wentworth]]. She felt that he had every thing to elevate him
 
 which general attention and deference, and especially the attention of
 
@@ -4639,7 +4639,7 @@ all the young women, could do. The Miss Hayters, the females of the
 
 family of cousins already mentioned, were apparently admitted to the
 
-honour of being in love with him; and as for Henrietta and Louisa, they
+[[Honour|honour]] of being in [[Love|love]] with him; and as for Henrietta and Louisa, they
 
 both seemed so entirely occupied by him, that nothing but the continued
 
@@ -4647,7 +4647,7 @@ appearance of the most perfect good-will between themselves could have
 
 made it credible that they were not decided rivals. If he were a little
 
-spoilt by such universal, such eager admiration, who could wonder?
+spoilt by such universal, such eager admiration, who could [[Wonder|wonder]]?
 
 
 
@@ -4707,7 +4707,7 @@ CHAPTER IX.
 
 
 
-Captain Wentworth was come to Kellynch as to a home, to stay as long as
+[[Captain Wentworth]] was come to Kellynch as to a [[Home|home]], to stay as long as
 
 he liked, being as thoroughly the object of the Admiral’s fraternal
 
@@ -4733,7 +4733,7 @@ It was soon Uppercross with him almost every day. The Musgroves could
 
 hardly be more ready to invite than he to come, particularly in the
 
-morning, when he had no companion at home, for the Admiral and Mrs
+morning, when he had no companion at [[Home|home]], for the Admiral and Mrs
 
 Croft were generally out of doors together, interesting themselves in
 
@@ -4745,7 +4745,7 @@ lately added to their establishment.
 
 
 
-Hitherto there had been but one opinion of Captain Wentworth among the
+Hitherto there had been but one opinion of [[Captain Wentworth]] among the
 
 Musgroves and their dependencies. It was unvarying, warm admiration
 
@@ -4753,7 +4753,7 @@ everywhere; but this intimate footing was not more than established,
 
 when a certain Charles Hayter returned among them, to be a good deal
 
-disturbed by it, and to think Captain Wentworth very much in the way.
+disturbed by it, and to think [[Captain Wentworth]] very much in the way.
 
 
 
@@ -4761,19 +4761,19 @@ Charles Hayter was the eldest of all the cousins, and a very amiable,
 
 pleasing young man, between whom and Henrietta there had been a
 
-considerable appearance of attachment previous to Captain Wentworth’s
+considerable appearance of attachment previous to [[Captain Wentworth]]’s
 
 introduction. He was in orders; and having a curacy in the
 
 neighbourhood, where residence was not required, lived at his father’s
 
-house, only two miles from Uppercross. A short absence from home had
+[[house]], only two miles from Uppercross. A short absence from [[Home|home]] had
 
 left his fair one unguarded by his attentions at this critical period,
 
-and when he came back he had the pain of finding very altered manners,
+and when he came back he had the [[Pain|pain]] of finding very altered manners,
 
-and of seeing Captain Wentworth.
+and of seeing [[Captain Wentworth]].
 
 
 
@@ -4789,7 +4789,7 @@ in the first class of society in the country, the young Hayters would,
 
 from their parents’ inferior, retired, and unpolished way of living,
 
-and their own defective education, have been hardly in any class at
+and their own defective [[Education|education]], have been hardly in any class at
 
 all, but for their connexion with Uppercross, this eldest son of course
 
@@ -4801,7 +4801,7 @@ very superior in cultivation and manners to all the rest.
 
 The two families had always been on excellent terms, there being no
 
-pride on one side, and no envy on the other, and only such a
+[[Pride|pride]] on one side, and no envy on the other, and only such a
 
 consciousness of superiority in the Miss Musgroves, as made them
 
@@ -4815,13 +4815,13 @@ Henrietta _did_ seem to like him.
 
 
 
-Henrietta fully thought so herself, before Captain Wentworth came; but
+Henrietta fully thought so herself, before [[Captain Wentworth]] came; but
 
-from that time Cousin Charles had been very much forgotten.
+from that [[Time|time]] Cousin Charles had been very much forgotten.
 
 
 
-Which of the two sisters was preferred by Captain Wentworth was as yet
+Which of the two sisters was preferred by [[Captain Wentworth]] was as yet
 
 quite doubtful, as far as Anne’s observation reached. Henrietta was
 
@@ -4841,11 +4841,11 @@ young men who came near them, seemed to leave everything to take its
 
 chance. There was not the smallest appearance of solicitude or remark
 
-about them in the Mansion-house; but it was different at the Cottage:
+about them in the Mansion-[[house]]; but it was different at the Cottage:
 
-the young couple there were more disposed to speculate and wonder; and
+the young couple there were more disposed to speculate and [[Wonder|wonder]]; and
 
-Captain Wentworth had not been above four or five times in the Miss
+[[Captain Wentworth]] had not been above four or five times in the Miss
 
 Musgroves’ company, and Charles Hayter had but just reappeared, when
 
@@ -4861,13 +4861,13 @@ extremely delightful.
 
 Charles “had never seen a pleasanter man in his life; and from what he
 
-had once heard Captain Wentworth himself say, was very sure that he had
+had once heard [[Captain Wentworth]] himself say, was very sure that he had
 
 not made less than twenty thousand pounds by the war. Here was a
 
 fortune at once; besides which, there would be the chance of what might
 
-be done in any future war; and he was sure Captain Wentworth was as
+be done in any future war; and he was sure [[Captain Wentworth]] was as
 
 likely a man to distinguish himself as any officer in the navy. Oh! it
 
@@ -4879,7 +4879,7 @@ would be a capital match for either of his sisters.”
 
 any very great honours! If he should ever be made a baronet! ‘Lady
 
-Wentworth’ sounds very well. That would be a noble thing, indeed, for
+Wentworth’ sounds very [[Well|well]]. That would be a noble thing, indeed, for
 
 Henrietta! She would take place of me then, and Henrietta would not
 
@@ -4957,7 +4957,7 @@ man—good, freehold property. No, no; Henrietta might do worse than
 
 marry Charles Hayter; and if she has him, and Louisa can get Captain
 
-Wentworth, I shall be very well satisfied.”
+Wentworth, I shall be very [[Well|well]] satisfied.”
 
 
 
@@ -4967,15 +4967,15 @@ was out of the room, “but it would be shocking to have Henrietta marry
 
 Charles Hayter; a very bad thing for _her_, and still worse for _me;_
 
-and therefore it is very much to be wished that Captain Wentworth may
+and therefore it is very much to be wished that [[Captain Wentworth]] may
 
-soon put him quite out of her head, and I have very little doubt that
+soon put him quite out of her head, and I have very little [[Doubt|doubt]] that
 
 he has. She took hardly any notice of Charles Hayter yesterday. I wish
 
-you had been there to see her behaviour. And as to Captain Wentworth’s
+you had been there to see her behaviour. And as to [[Captain Wentworth]]’s
 
-liking Louisa as well as Henrietta, it is nonsense to say so; for he
+liking Louisa as [[Well|well]] as Henrietta, it is nonsense to say so; for he
 
 certainly _does_ like Henrietta a great deal the best. But Charles is
 
@@ -4989,11 +4989,11 @@ unless you had been determined to give it against me.”
 
 A dinner at Mr Musgrove’s had been the occasion when all these things
 
-should have been seen by Anne; but she had staid at home, under the
+should have been seen by Anne; but she had staid at [[Home|home]], under the
 
 mixed plea of a headache of her own, and some return of indisposition
 
-in little Charles. She had thought only of avoiding Captain Wentworth;
+in little Charles. She had thought only of avoiding [[Captain Wentworth]];
 
 but an escape from being appealed to as umpire was now added to the
 
@@ -5001,11 +5001,11 @@ advantages of a quiet evening.
 
 
 
-As to Captain Wentworth’s views, she deemed it of more consequence that
+As to [[Captain Wentworth]]’s views, she deemed it of more consequence that
 
 he should know his own mind early enough not to be endangering the
 
-happiness of either sister, or impeaching his own honour, than that he
+happiness of either sister, or impeaching his own [[Honour|honour]], than that he
 
 should prefer Henrietta to Louisa, or Louisa to Henrietta. Either of
 
@@ -5013,11 +5013,11 @@ them would, in all probability, make him an affectionate, good-humoured
 
 wife. With regard to Charles Hayter, she had delicacy which must be
 
-pained by any lightness of conduct in a well-meaning young woman, and a
+pained by any lightness of conduct in a [[Well|well]]-meaning young woman, and a
 
 heart to sympathize in any of the sufferings it occasioned; but if
 
-Henrietta found herself mistaken in the nature of her feelings, the
+Henrietta found herself mistaken in the [[Nature|nature]] of her feelings, the
 
 alteration could not be understood too soon.
 
@@ -5027,7 +5027,7 @@ Charles Hayter had met with much to disquiet and mortify him in his
 
 cousin’s behaviour. She had too old a regard for him to be so wholly
 
-estranged as might in two meetings extinguish every past hope, and
+estranged as might in two meetings extinguish every past [[Hope|hope]], and
 
 leave him nothing to do but to keep away from Uppercross: but there was
 
@@ -5041,7 +5041,7 @@ to the height of his wishes, in his prospect of soon quitting his
 
 present curacy, and obtaining that of Uppercross instead. It had then
 
-seemed the object nearest her heart, that Dr Shirley, the rector, who
+seemed the object nearest her heart, that Dr [[Shirley]], the rector, who
 
 for more than forty years had been zealously discharging all the duties
 
@@ -5055,9 +5055,9 @@ it. The advantage of his having to come only to Uppercross, instead of
 
 going six miles another way; of his having, in every respect, a better
 
-curacy; of his belonging to their dear Dr Shirley, and of dear, good Dr
+curacy; of his belonging to their dear Dr [[Shirley]], and of dear, good Dr
 
-Shirley’s being relieved from the duty which he could no longer get
+[[Shirley]]’s being relieved from the duty which he could no longer get
 
 through without most injurious fatigue, had been a great deal, even to
 
@@ -5067,21 +5067,21 @@ alas! the zeal of the business was gone by. Louisa could not listen at
 
 all to his account of a conversation which he had just held with Dr
 
-Shirley: she was at a window, looking out for Captain Wentworth; and
+[[Shirley]]: she was at a [[Window|window]], looking out for [[Captain Wentworth]]; and
 
 even Henrietta had at best only a divided attention to give, and seemed
 
-to have forgotten all the former doubt and solicitude of the
+to have forgotten all the former [[Doubt|doubt]] and solicitude of the
 
 negotiation.
 
 
 
-“Well, I am very glad indeed: but I always thought you would have it; I
+“[[Well]], I am very glad indeed: but I always thought you would have it; I
 
 always thought you sure. It did not appear to me that—in short, you
 
-know, Dr Shirley _must_ have a curate, and you had secured his promise.
+know, Dr [[Shirley]] _must_ have a curate, and you had secured his promise.
 
 Is he coming, Louisa?”
 
@@ -5089,7 +5089,7 @@ Is he coming, Louisa?”
 
 One morning, very soon after the dinner at the Musgroves, at which Anne
 
-had not been present, Captain Wentworth walked into the drawing-room at
+had not been present, [[Captain Wentworth]] walked into the drawing-room at
 
 the Cottage, where were only herself and the little invalid Charles,
 
@@ -5097,13 +5097,13 @@ who was lying on the sofa.
 
 
 
-The surprise of finding himself almost alone with Anne Elliot, deprived
+The surprise of finding himself almost [[Alone|alone]] with [[Anne Elliot]], deprived
 
 his manners of their usual composure: he started, and could only say,
 
 “I thought the Miss Musgroves had been here: Mrs Musgrove told me I
 
-should find them here,” before he walked to the window to recollect
+should find them here,” before he walked to the [[Window|window]] to recollect
 
 himself, and feel how he ought to behave.
 
@@ -5113,17 +5113,17 @@ himself, and feel how he ought to behave.
 
 I dare say,” had been Anne’s reply, in all the confusion that was
 
-natural; and if the child had not called her to come and do something
+natural; and if the [[Child|child]] had not called her to come and do something
 
 for him, she would have been out of the room the next moment, and
 
-released Captain Wentworth as well as herself.
+released [[Captain Wentworth]] as [[Well|well]] as herself.
 
 
 
-He continued at the window; and after calmly and politely saying, “I
+He continued at the [[Window|window]]; and after calmly and politely saying, “I
 
-hope the little boy is better,” was silent.
+[[Hope|hope]] the little boy is better,” was silent.
 
 
 
@@ -5135,11 +5135,11 @@ great satisfaction, she heard some other person crossing the little
 
 vestibule. She hoped, on turning her head, to see the master of the
 
-house; but it proved to be one much less calculated for making matters
+[[house]]; but it proved to be one much less calculated for making matters
 
 easy—Charles Hayter, probably not at all better pleased by the sight of
 
-Captain Wentworth than Captain Wentworth had been by the sight of Anne.
+[[Captain Wentworth]] than [[Captain Wentworth]] had been by the sight of Anne.
 
 
 
@@ -5149,19 +5149,19 @@ others will be here presently.”
 
 
 
-Captain Wentworth, however, came from his window, apparently not
+[[Captain Wentworth]], however, came from his [[Window|window]], apparently not
 
 ill-disposed for conversation; but Charles Hayter soon put an end to
 
 his attempts by seating himself near the table, and taking up the
 
-newspaper; and Captain Wentworth returned to his window.
+newspaper; and [[Captain Wentworth]] returned to his [[Window|window]].
 
 
 
 Another minute brought another addition. The younger boy, a remarkable
 
-stout, forward child, of two years old, having got the door opened for
+stout, forward [[Child|child]], of two years old, having got the door opened for
 
 him by some one without, made his determined appearance among them, and
 
@@ -5213,7 +5213,7 @@ down her head so much, that his little sturdy hands were unfastened
 
 from around her neck, and he was resolutely borne away, before she knew
 
-that Captain Wentworth had done it.
+that [[Captain Wentworth]] had done it.
 
 
 
@@ -5223,11 +5223,11 @@ could not even thank him. She could only hang over little Charles, with
 
 most disordered feelings. His kindness in stepping forward to her
 
-relief, the manner, the silence in which it had passed, the little
+relief, the manner, the [[Silence|silence]] in which it had passed, the little
 
 particulars of the circumstance, with the conviction soon forced on her
 
-by the noise he was studiously making with the child, that he meant to
+by the noise he was studiously making with the [[Child|child]], that he meant to
 
 avoid hearing her thanks, and rather sought to testify that her
 
@@ -5243,15 +5243,15 @@ not stay. It might have been an opportunity of watching the loves and
 
 jealousies of the four—they were now altogether; but she could stay for
 
-none of it. It was evident that Charles Hayter was not well inclined
+none of it. It was evident that Charles Hayter was not [[Well|well]] inclined
 
-towards Captain Wentworth. She had a strong impression of his having
+towards [[Captain Wentworth]]. She had a strong impression of his having
 
-said, in a vext tone of voice, after Captain Wentworth’s interference,
+said, in a vext tone of voice, after [[Captain Wentworth]]’s interference,
 
 “You ought to have minded _me_, Walter; I told you not to teaze your
 
-aunt;” and could comprehend his regretting that Captain Wentworth
+aunt;” and could comprehend his regretting that [[Captain Wentworth]]
 
 should do what he ought to have done himself. But neither Charles
 
@@ -5261,7 +5261,7 @@ had a little better arranged her own. She was ashamed of herself, quite
 
 ashamed of being so nervous, so overcome by such a trifle; but so it
 
-was, and it required a long application of solitude and reflection to
+was, and it required a long application of [[Solitude|solitude]] and reflection to
 
 recover her.
 
@@ -5283,19 +5283,19 @@ Other opportunities of making her observations could not fail to occur.
 
 Anne had soon been in company with all the four together often enough
 
-to have an opinion, though too wise to acknowledge as much at home,
+to have an opinion, though too wise to acknowledge as much at [[Home|home]],
 
 where she knew it would have satisfied neither husband nor wife; for
 
 while she considered Louisa to be rather the favourite, she could not
 
-but think, as far as she might dare to judge from memory and
+but think, as far as she might dare to judge from [[Memory|memory]] and
 
-experience, that Captain Wentworth was not in love with either. They
+experience, that [[Captain Wentworth]] was not in [[Love|love]] with either. They
 
-were more in love with him; yet there it was not love. It was a little
+were more in [[Love|love]] with him; yet there it was not [[Love|love]]. It was a little
 
-fever of admiration; but it might, probably must, end in love with
+fever of admiration; but it might, probably must, end in [[Love|love]] with
 
 some. Charles Hayter seemed aware of being slighted, and yet Henrietta
 
@@ -5307,7 +5307,7 @@ pointing out some of the evils they were exposing themselves to. She
 
 did not attribute guile to any. It was the highest satisfaction to her
 
-to believe Captain Wentworth not in the least aware of the pain he was
+to believe [[Captain Wentworth]] not in the least aware of the [[Pain|pain]] he was
 
 occasioning. There was no triumph, no pitiful triumph in his manner. He
 
@@ -5329,9 +5329,9 @@ dinner; and having been found on the occasion by Mr Musgrove with some
 
 large books before him, Mr and Mrs Musgrove were sure all could not be
 
-right, and talked, with grave faces, of his studying himself to death.
+right, and talked, with [[Grave|grave]] faces, of his studying himself to [[Death|death]].
 
-It was Mary’s hope and belief that he had received a positive dismissal
+It was Mary’s [[Hope|hope]] and belief that he had received a positive dismissal
 
 from Henrietta, and her husband lived under the constant dependence of
 
@@ -5341,13 +5341,13 @@ wise.
 
 
 
-One morning, about this time Charles Musgrove and Captain Wentworth
+One morning, about this [[Time|time]] Charles Musgrove and [[Captain Wentworth]]
 
 being gone a-shooting together, as the sisters in the Cottage were
 
-sitting quietly at work, they were visited at the window by the sisters
+sitting quietly at work, they were visited at the [[Window|window]] by the sisters
 
-from the Mansion-house.
+from the Mansion-[[house]].
 
 
 
@@ -5359,7 +5359,7 @@ they were going to take a _long_ walk, and, therefore, concluded Mary
 
 could not like to go with them; and when Mary immediately replied, with
 
-some jealousy at not being supposed a good walker, “Oh, yes, I should
+some [[Jealousy|jealousy]] at not being supposed a good walker, “Oh, yes, I should
 
 like to join you very much, I am very fond of a long walk;” Anne felt
 
@@ -5399,11 +5399,11 @@ Just as they were setting off, the gentlemen returned. They had taken
 
 out a young dog, who had spoilt their sport, and sent them back early.
 
-Their time and strength, and spirits, were, therefore, exactly ready
+Their [[Time|time]] and strength, and spirits, were, therefore, exactly ready
 
 for this walk, and they entered into it with pleasure. Could Anne have
 
-foreseen such a junction, she would have staid at home; but, from some
+foreseen such a junction, she would have staid at [[Home|home]]; but, from some
 
 feelings of interest and curiosity, she fancied now that it was too
 
@@ -5423,11 +5423,11 @@ with her brother and sister. Her _pleasure_ in the walk must arise from
 
 the exercise and the day, from the view of the last smiles of the year
 
-upon the tawny leaves, and withered hedges, and from repeating to
+upon the tawny [[Leaves|leaves]], and withered hedges, and from repeating to
 
 herself some few of the thousand poetical descriptions extant of
 
-autumn, that season of peculiar and inexhaustible influence on the mind
+[[Autumn|autumn]], that season of peculiar and inexhaustible influence on the mind
 
 of taste and tenderness, that season which had drawn from every poet,
 
@@ -5437,7 +5437,7 @@ feeling. She occupied her mind as much as possible in such like musings
 
 and quotations; but it was not possible, that when within reach of
 
-Captain Wentworth’s conversation with either of the Miss Musgroves, she
+[[Captain Wentworth]]’s conversation with either of the Miss Musgroves, she
 
 should not try to hear it; yet she caught little very remarkable. It
 
@@ -5451,7 +5451,7 @@ sister. This distinction appeared to increase, and there was one speech
 
 of Louisa’s which struck her. After one of the many praises of the day,
 
-which were continually bursting forth, Captain Wentworth added:—
+which were continually bursting forth, [[Captain Wentworth]] added:—
 
 
 
@@ -5461,7 +5461,7 @@ take a long drive this morning; perhaps we may hail them from some of
 
 these hills. They talked of coming into this side of the country. I
 
-wonder whereabouts they will upset to-day. Oh! it does happen very
+[[Wonder|wonder]] whereabouts they will upset to-day. Oh! it does happen very
 
 often, I assure you; but my sister makes nothing of it; she would as
 
@@ -5485,21 +5485,21 @@ It was spoken with enthusiasm.
 
 
 
-“Had you?” cried he, catching the same tone; “I honour you!” And there
+“Had you?” cried he, catching the same tone; “I [[Honour|honour]] you!” And there
 
-was silence between them for a little while.
+was [[Silence|silence]] between them for a little while.
 
 
 
 Anne could not immediately fall into a quotation again. The sweet
 
-scenes of autumn were for a while put by, unless some tender sonnet,
+scenes of [[Autumn|autumn]] were for a while put by, unless some tender [[Sonnet|sonnet]],
 
 fraught with the apt analogy of the declining year, with declining
 
-happiness, and the images of youth and hope, and spring, all gone
+happiness, and the images of youth and [[Hope|hope]], and [[spring]], all gone
 
-together, blessed her memory. She roused herself to say, as they struck
+together, blessed her [[Memory|memory]]. She roused herself to say, as they struck
 
 by order into another path, “Is not this one of the ways to Winthrop?”
 
@@ -5509,25 +5509,25 @@ But nobody heard, or, at least, nobody answered her.
 
 Winthrop, however, or its environs—for young men are, sometimes to be
 
-met with, strolling about near home—was their destination; and after
+met with, strolling about near [[Home|home]]—was their destination; and after
 
 another half mile of gradual ascent through large enclosures, where the
 
 ploughs at work, and the fresh made path spoke the farmer counteracting
 
-the sweets of poetical despondence, and meaning to have spring again,
+the sweets of poetical despondence, and meaning to have [[spring]] again,
 
-they gained the summit of the most considerable hill, which parted
+they gained the summit of the most considerable [[Hill|hill]], which parted
 
 Uppercross and Winthrop, and soon commanded a full view of the latter,
 
-at the foot of the hill on the other side.
+at the foot of the [[Hill|hill]] on the other side.
 
 
 
-Winthrop, without beauty and without dignity, was stretched before
+Winthrop, without [[Beauty|beauty]] and without dignity, was stretched before
 
-them; an indifferent house, standing low, and hemmed in by the barns
+them; an indifferent [[house]], standing low, and hemmed in by the barns
 
 and buildings of a farm-yard.
 
@@ -5535,7 +5535,7 @@ and buildings of a farm-yard.
 
 Mary exclaimed, “Bless me! here is Winthrop. I declare I had no idea!
 
-Well now, I think we had better turn back; I am excessively tired.”
+[[Well]] now, I think we had better turn back; I am excessively tired.”
 
 
 
@@ -5563,7 +5563,7 @@ he recommended the advantage of resting herself a quarter of an hour at
 
 Winthrop, as she felt so tired, she resolutely answered, “Oh! no,
 
-indeed! walking up that hill again would do her more harm than any
+indeed! walking up that [[Hill|hill]] again would do her more harm than any
 
 sitting down could do her good;” and, in short, her look and manner
 
@@ -5579,19 +5579,19 @@ Henrietta should just run down for a few minutes, to see their aunt and
 
 cousins, while the rest of the party waited for them at the top of the
 
-hill. Louisa seemed the principal arranger of the plan; and, as she
+[[Hill|hill]]. Louisa seemed the principal arranger of the plan; and, as she
 
-went a little way with them, down the hill, still talking to Henrietta,
+went a little way with them, down the [[Hill|hill]], still talking to Henrietta,
 
 Mary took the opportunity of looking scornfully around her, and saying
 
-to Captain Wentworth—
+to [[Captain Wentworth]]—
 
 
 
 “It is very unpleasant, having such connexions! But, I assure you, I
 
-have never been in the house above twice in my life.”
+have never been in the [[house]] above twice in my life.”
 
 
 
@@ -5603,13 +5603,13 @@ perfectly knew the meaning of.
 
 
 
-The brow of the hill, where they remained, was a cheerful spot: Louisa
+The brow of the [[Hill|hill]], where they remained, was a cheerful spot: Louisa
 
 returned; and Mary, finding a comfortable seat for herself on the step
 
-of a stile, was very well satisfied so long as the others all stood
+of a stile, was very [[Well|well]] satisfied so long as the others all stood
 
-about her; but when Louisa drew Captain Wentworth away, to try for a
+about her; but when Louisa drew [[Captain Wentworth]] away, to try for a
 
 gleaning of nuts in an adjoining hedge-row, and they were gone by
 
@@ -5623,7 +5623,7 @@ better also. She turned through the same gate, but could not see them.
 
 Anne found a nice seat for her, on a dry sunny bank, under the
 
-hedge-row, in which she had no doubt of their still being, in some spot
+hedge-row, in which she had no [[Doubt|doubt]] of their still being, in some spot
 
 or other. Mary sat down for a moment, but it would not do; she was sure
 
@@ -5635,7 +5635,7 @@ she overtook her.
 
 Anne, really tired herself, was glad to sit down; and she very soon
 
-heard Captain Wentworth and Louisa in the hedge-row, behind her, as if
+heard [[Captain Wentworth]] and Louisa in the hedge-row, behind her, as if
 
 making their way back along the rough, wild sort of channel, down the
 
@@ -5677,7 +5677,7 @@ up, out of nonsensical complaisance!”
 
 you gave just now, which did but confirm my own observations, the last
 
-time I was in company with him, I need not affect to have no
+[[Time|time]] I was in company with him, I need not affect to have no
 
 comprehension of what is going on. I see that more than a mere dutiful
 
@@ -5695,7 +5695,7 @@ decision and firmness, I see. If you value her conduct or happiness,
 
 infuse as much of your own spirit into her as you can. But this, no
 
-doubt, you have been always doing. It is the worst evil of too yielding
+[[Doubt|doubt]], you have been always doing. It is the worst evil of too yielding
 
 and indecisive a character, that no influence over it can be depended
 
@@ -5707,7 +5707,7 @@ he, catching one down from an upper bough, “to exemplify: a beautiful
 
 glossy nut, which, blessed with original strength, has outlived all the
 
-storms of autumn. Not a puncture, not a weak spot anywhere. This nut,”
+storms of [[Autumn|autumn]]. Not a puncture, not a weak spot anywhere. This nut,”
 
 he continued, with playful solemnity, “while so many of his brethren
 
@@ -5743,9 +5743,9 @@ Louisa spoke again.
 
 “Mary is good-natured enough in many respects,” said she; “but she does
 
-sometimes provoke me excessively, by her nonsense and pride—the Elliot
+sometimes provoke me excessively, by her nonsense and [[Pride|pride]]—the Elliot
 
-pride. She has a great deal too much of the Elliot pride. We do so wish
+[[Pride|pride]]. She has a great deal too much of the Elliot [[Pride|pride]]. We do so wish
 
 that Charles had married Anne instead. I suppose you know he wanted to
 
@@ -5753,7 +5753,7 @@ marry Anne?”
 
 
 
-After a moment’s pause, Captain Wentworth said—
+After a moment’s pause, [[Captain Wentworth]] said—
 
 
 
@@ -5769,17 +5769,17 @@ After a moment’s pause, Captain Wentworth said—
 
 
 
-“I do not exactly know, for Henrietta and I were at school at the time;
+“I do not exactly know, for Henrietta and I were at school at the [[Time|time]];
 
 but I believe about a year before he married Mary. I wish she had
 
 accepted him. We should all have liked her a great deal better; and
 
-papa and mamma always think it was her great friend Lady Russell’s
+papa and mamma always think it was her great friend [[Lady Russell]]’s
 
 doing, that she did not. They think Charles might not be learned and
 
-bookish enough to please Lady Russell, and that therefore, she
+bookish enough to please [[Lady Russell]], and that therefore, she
 
 persuaded Anne to refuse him.”
 
@@ -5807,7 +5807,7 @@ back with her to their former station, by the stile, felt some comfort
 
 in their whole party being immediately afterwards collected, and once
 
-more in motion together. Her spirits wanted the solitude and silence
+more in motion together. Her spirits wanted the [[Solitude|solitude]] and [[Silence|silence]]
 
 which only numbers could give.
 
@@ -5817,15 +5817,15 @@ Charles and Henrietta returned, bringing, as may be conjectured,
 
 Charles Hayter with them. The minutiae of the business Anne could not
 
-attempt to understand; even Captain Wentworth did not seem admitted to
+attempt to understand; even [[Captain Wentworth]] did not seem admitted to
 
 perfect confidence here; but that there had been a withdrawing on the
 
 gentleman’s side, and a relenting on the lady’s, and that they were now
 
-very glad to be together again, did not admit a doubt. Henrietta looked
+very glad to be together again, did not admit a [[Doubt|doubt]]. Henrietta looked
 
-a little ashamed, but very well pleased;—Charles Hayter exceedingly
+a little ashamed, but very [[Well|well]] pleased;—Charles Hayter exceedingly
 
 happy: and they were devoted to each other almost from the first
 
@@ -5833,7 +5833,7 @@ instant of their all setting forward for Uppercross.
 
 
 
-Everything now marked out Louisa for Captain Wentworth; nothing could
+Everything now marked out Louisa for [[Captain Wentworth]]; nothing could
 
 be plainer; and where many divisions were necessary, or even where they
 
@@ -5849,7 +5849,7 @@ necessarily belonged. She joined Charles and Mary, and was tired enough
 
 to be very glad of Charles’s other arm; but Charles, though in very
 
-good humour with her, was out of temper with his wife. Mary had shewn
+good [[Humour|humour]] with her, was out of temper with his wife. Mary had shewn
 
 herself disobliging to him, and was now to reap the consequence, which
 
@@ -5869,13 +5869,13 @@ a momentary glance of, and they could hardly get him along at all.
 
 This long meadow bordered a lane, which their footpath, at the end of
 
-it was to cross, and when the party had all reached the gate of exit,
+it was to [[Cross|cross]], and when the party had all reached the gate of exit,
 
-the carriage advancing in the same direction, which had been some time
+the carriage advancing in the same direction, which had been some [[Time|time]]
 
-heard, was just coming up, and proved to be Admiral Croft’s gig. He and
+heard, was just coming up, and proved to be [[Admiral Croft]]’s gig. He and
 
-his wife had taken their intended drive, and were returning home. Upon
+his wife had taken their intended drive, and were returning [[Home|home]]. Upon
 
 hearing how long a walk the young people had engaged in, they kindly
 
@@ -5887,17 +5887,17 @@ invitation was general, and generally declined. The Miss Musgroves were
 
 not at all tired, and Mary was either offended, by not being asked
 
-before any of the others, or what Louisa called the Elliot pride could
+before any of the others, or what Louisa called the Elliot [[Pride|pride]] could
 
-not endure to make a third in a one horse chaise.
+not endure to make a third in a one [[Horse|horse]] chaise.
 
 
 
 The walking party had crossed the lane, and were surmounting an
 
-opposite stile, and the Admiral was putting his horse in motion again,
+opposite stile, and the Admiral was putting his [[Horse|horse]] in motion again,
 
-when Captain Wentworth cleared the hedge in a moment to say something
+when [[Captain Wentworth]] cleared the hedge in a moment to say something
 
 to his sister. The something might be guessed by its effects.
 
@@ -5905,7 +5905,7 @@ to his sister. The something might be guessed by its effects.
 
 “Miss Elliot, I am sure _you_ are tired,” cried Mrs Croft. “Do let us
 
-have the pleasure of taking you home. Here is excellent room for three,
+have the pleasure of taking you [[Home|home]]. Here is excellent room for three,
 
 I assure you. If we were all like you, I believe we might sit four. You
 
@@ -5921,7 +5921,7 @@ came in support of his wife’s; they would not be refused; they
 
 compressed themselves into the smallest possible space to leave her a
 
-corner, and Captain Wentworth, without saying a word, turned to her,
+corner, and [[Captain Wentworth]], without saying a word, turned to her,
 
 and quietly obliged her to be assisted into the carriage.
 
@@ -5947,13 +5947,13 @@ high and unjust resentment, though perfectly careless of her, and
 
 though becoming attached to another, still he could not see her suffer,
 
-without the desire of giving her relief. It was a remainder of former
+without the [[Desire|desire]] of giving her relief. It was a remainder of former
 
-sentiment; it was an impulse of pure, though unacknowledged friendship;
+sentiment; it was an impulse of pure, though unacknowledged [[Friendship|friendship]];
 
 it was a proof of his own warm and amiable heart, which she could not
 
-contemplate without emotions so compounded of pleasure and pain, that
+contemplate without emotions so compounded of pleasure and [[Pain|pain]], that
 
 she knew not which prevailed.
 
@@ -5979,9 +5979,9 @@ this comes of the peace. If it were war now, he would have settled it
 
 long ago. We sailors, Miss Elliot, cannot afford to make long
 
-courtships in time of war. How many days was it, my dear, between the
+courtships in [[Time|time]] of war. How many days was it, my dear, between the
 
-first time of my seeing you and our sitting down together in our
+first [[Time|time]] of my seeing you and our sitting down together in our
 
 lodgings at North Yarmouth?”
 
@@ -5997,11 +5997,11 @@ together. I had known you by character, however, long before.”
 
 
 
-“Well, and I had heard of you as a very pretty girl, and what were we
+“[[Well]], and I had heard of you as a very pretty girl, and what were we
 
 to wait for besides? I do not like having such things so long in hand.
 
-I wish Frederick would spread a little more canvass, and bring us home
+I wish Frederick would spread a little more canvass, and bring us [[Home|home]]
 
 one of these young ladies to Kellynch. Then there would always be
 
@@ -6049,7 +6049,7 @@ CHAPTER XI.
 
 
 
-The time now approached for Lady Russell’s return: the day was even
+The [[Time|time]] now approached for [[Lady Russell]]’s return: the day was even
 
 fixed; and Anne, being engaged to join her as soon as she was
 
@@ -6059,13 +6059,13 @@ beginning to think how her own comfort was likely to be affected by it.
 
 
 
-It would place her in the same village with Captain Wentworth, within
+It would place her in the same village with [[Captain Wentworth]], within
 
 half a mile of him; they would have to frequent the same church, and
 
 there must be intercourse between the two families. This was against
 
-her; but on the other hand, he spent so much of his time at Uppercross,
+her; but on the other hand, he spent so much of his [[Time|time]] at Uppercross,
 
 that in removing thence she might be considered rather as leaving him
 
@@ -6075,7 +6075,7 @@ she must, on this interesting question, be the gainer, almost as
 
 certainly as in her change of domestic society, in leaving poor Mary
 
-for Lady Russell.
+for [[Lady Russell]].
 
 
 
@@ -6085,13 +6085,13 @@ Wentworth at the Hall: those rooms had witnessed former meetings which
 
 would be brought too painfully before her; but she was yet more anxious
 
-for the possibility of Lady Russell and Captain Wentworth never meeting
+for the possibility of [[Lady Russell]] and [[Captain Wentworth]] never meeting
 
 anywhere. They did not like each other, and no renewal of acquaintance
 
-now could do any good; and were Lady Russell to see them together, she
+now could do any good; and were [[Lady Russell]] to see them together, she
 
-might think that he had too much self-possession, and she too little.
+might think that he had too much [[Self|self]]-possession, and she too little.
 
 
 
@@ -6101,7 +6101,7 @@ from Uppercross, where she felt she had been stationed quite long
 
 enough. Her usefulness to little Charles would always give some
 
-sweetness to the memory of her two months’ visit there, but he was
+sweetness to the [[Memory|memory]] of her two months’ visit there, but he was
 
 gaining strength apace, and she had nothing else to stay for.
 
@@ -6109,7 +6109,7 @@ gaining strength apace, and she had nothing else to stay for.
 
 The conclusion of her visit, however, was diversified in a way which
 
-she had not at all imagined. Captain Wentworth, after being unseen and
+she had not at all imagined. [[Captain Wentworth]], after being unseen and
 
 unheard of at Uppercross for two whole days, appeared again among them
 
@@ -6121,29 +6121,29 @@ A letter from his friend, Captain Harville, having found him out at
 
 last, had brought intelligence of Captain Harville’s being settled with
 
-his family at Lyme for the winter; of their being therefore, quite
+his family at Lyme for the [[Winter|winter]]; of their being therefore, quite
 
 unknowingly, within twenty miles of each other. Captain Harville had
 
 never been in good health since a severe wound which he received two
 
-years before, and Captain Wentworth’s anxiety to see him had determined
+years before, and [[Captain Wentworth]]’s anxiety to see him had determined
 
 him to go immediately to Lyme. He had been there for four-and-twenty
 
-hours. His acquittal was complete, his friendship warmly honoured, a
+hours. His acquittal was complete, his [[Friendship|friendship]] warmly honoured, a
 
 lively interest excited for his friend, and his description of the fine
 
 country about Lyme so feelingly attended to by the party, that an
 
-earnest desire to see Lyme themselves, and a project for going thither
+earnest [[Desire|desire]] to see Lyme themselves, and a project for going thither
 
 was the consequence.
 
 
 
-The young people were all wild to see Lyme. Captain Wentworth talked of
+The young people were all wild to see Lyme. [[Captain Wentworth]] talked of
 
 going there again himself, it was only seventeen miles from Uppercross;
 
@@ -6155,41 +6155,41 @@ resolution to go, and besides the pleasure of doing as she liked, being
 
 now armed with the idea of merit in maintaining her own way, bore down
 
-all the wishes of her father and mother for putting it off till summer;
+all the wishes of her father and mother for putting it off till [[Summer|summer]];
 
 and to Lyme they were to go—Charles, Mary, Anne, Henrietta, Louisa, and
 
-Captain Wentworth.
+[[Captain Wentworth]].
 
 
 
 The first heedless scheme had been to go in the morning and return at
 
-night; but to this Mr Musgrove, for the sake of his horses, would not
+[[Night|night]]; but to this Mr Musgrove, for the sake of his horses, would not
 
 consent; and when it came to be rationally considered, a day in the
 
-middle of November would not leave much time for seeing a new place,
+middle of November would not leave much [[Time|time]] for seeing a new place,
 
-after deducting seven hours, as the nature of the country required, for
+after deducting seven hours, as the [[Nature|nature]] of the country required, for
 
-going and returning. They were, consequently, to stay the night there,
+going and returning. They were, consequently, to stay the [[Night|night]] there,
 
 and not to be expected back till the next day’s dinner. This was felt
 
 to be a considerable amendment; and though they all met at the Great
 
-House at rather an early breakfast hour, and set off very punctually,
+[[house|House]] at rather an early breakfast hour, and set off very punctually,
 
-it was so much past noon before the two carriages, Mr Musgrove’s coach
+it was so much past [[Noon|noon]] before the two carriages, Mr Musgrove’s coach
 
 containing the four ladies, and Charles’s curricle, in which he drove
 
-Captain Wentworth, were descending the long hill into Lyme, and
+[[Captain Wentworth]], were descending the long [[Hill|hill]] into Lyme, and
 
 entering upon the still steeper street of the town itself, that it was
 
-very evident they would not have more than time for looking about them,
+very evident they would not have more than [[Time|time]] for looking about them,
 
 before the light and warmth of the day were gone.
 
@@ -6209,7 +6209,7 @@ residents left; and, as there is nothing to admire in the buildings
 
 themselves, the remarkable situation of the town, the principal street
 
-almost hurrying into the water, the walk to the Cobb, skirting round
+almost hurrying into the [[Water|water]], the walk to the Cobb, skirting round
 
 the pleasant little bay, which, in the season, is animated with bathing
 
@@ -6253,7 +6253,7 @@ Lyme understood.
 
 The party from Uppercross passing down by the now deserted and
 
-melancholy looking rooms, and still descending, soon found themselves
+[[Melancholy|melancholy]] looking rooms, and still descending, soon found themselves
 
 on the sea-shore; and lingering only, as all must linger and gaze on a
 
@@ -6261,9 +6261,9 @@ first return to the sea, who ever deserved to look on it at all,
 
 proceeded towards the Cobb, equally their object in itself and on
 
-Captain Wentworth’s account: for in a small house, near the foot of an
+[[Captain Wentworth]]’s account: for in a small [[house]], near the foot of an
 
-old pier of unknown date, were the Harvilles settled. Captain Wentworth
+old pier of unknown date, were the Harvilles settled. [[Captain Wentworth]]
 
 turned in to call on his friend; the others walked on, and he was to
 
@@ -6273,27 +6273,27 @@ join them on the Cobb.
 
 They were by no means tired of wondering and admiring; and not even
 
-Louisa seemed to feel that they had parted with Captain Wentworth long,
+Louisa seemed to feel that they had parted with [[Captain Wentworth]] long,
 
-when they saw him coming after them, with three companions, all well
+when they saw him coming after them, with three companions, all [[Well|well]]
 
 known already, by description, to be Captain and Mrs Harville, and a
 
-Captain Benwick, who was staying with them.
+[[Captain Benwick]], who was staying with them.
 
 
 
-Captain Benwick had some time ago been first lieutenant of the Laconia;
+[[Captain Benwick]] had some [[Time|time]] ago been first lieutenant of the Laconia;
 
-and the account which Captain Wentworth had given of him, on his return
+and the account which [[Captain Wentworth]] had given of him, on his return
 
 from Lyme before, his warm praise of him as an excellent young man and
 
 an officer, whom he had always valued highly, which must have stamped
 
-him well in the esteem of every listener, had been followed by a little
+him [[Well|well]] in the esteem of every listener, had been followed by a little
 
-history of his private life, which rendered him perfectly interesting
+[[history]] of his private life, which rendered him perfectly interesting
 
 in the eyes of all the ladies. He had been engaged to Captain
 
@@ -6303,9 +6303,9 @@ or two waiting for fortune and promotion. Fortune came, his prize-money
 
 as lieutenant being great; promotion, too, came at _last;_ but Fanny
 
-Harville did not live to know it. She had died the preceding summer
+Harville did not live to know it. She had died the preceding [[Summer|summer]]
 
-while he was at sea. Captain Wentworth believed it impossible for man
+while he was at sea. [[Captain Wentworth]] believed it impossible for man
 
 to be more attached to woman than poor Benwick had been to Fanny
 
@@ -6317,23 +6317,23 @@ uniting very strong feelings with quiet, serious, and retiring manners,
 
 and a decided taste for reading, and sedentary pursuits. To finish the
 
-interest of the story, the friendship between him and the Harvilles
+interest of the story, the [[Friendship|friendship]] between him and the Harvilles
 
 seemed, if possible, augmented by the event which closed all their
 
-views of alliance, and Captain Benwick was now living with them
+views of alliance, and [[Captain Benwick]] was now living with them
 
-entirely. Captain Harville had taken his present house for half a year;
+entirely. Captain Harville had taken his present [[house]] for half a year;
 
 his taste, and his health, and his fortune, all directing him to a
 
 residence inexpensive, and by the sea; and the grandeur of the country,
 
-and the retirement of Lyme in the winter, appeared exactly adapted to
+and the retirement of Lyme in the [[Winter|winter]], appeared exactly adapted to
 
-Captain Benwick’s state of mind. The sympathy and good-will excited
+[[Captain Benwick]]’s state of mind. The sympathy and good-will excited
 
-towards Captain Benwick was very great.
+towards [[Captain Benwick]] was very great.
 
 
 
@@ -6355,17 +6355,17 @@ man, with a sensible, benevolent countenance; a little lame; and from
 
 strong features and want of health, looking much older than Captain
 
-Wentworth. Captain Benwick looked, and was, the youngest of the three,
+Wentworth. [[Captain Benwick]] looked, and was, the youngest of the three,
 
 and, compared with either of them, a little man. He had a pleasing face
 
-and a melancholy air, just as he ought to have, and drew back from
+and a [[Melancholy|melancholy]] air, just as he ought to have, and drew back from
 
 conversation.
 
 
 
-Captain Harville, though not equalling Captain Wentworth in manners,
+Captain Harville, though not equalling [[Captain Wentworth]] in manners,
 
 was a perfect gentleman, unaffected, warm, and obliging. Mrs Harville,
 
@@ -6373,15 +6373,15 @@ a degree less polished than her husband, seemed, however, to have the
 
 same good feelings; and nothing could be more pleasant than their
 
-desire of considering the whole party as friends of their own, because
+[[Desire|desire]] of considering the whole party as friends of their own, because
 
-the friends of Captain Wentworth, or more kindly hospitable than their
+the friends of [[Captain Wentworth]], or more kindly hospitable than their
 
 entreaties for their all promising to dine with them. The dinner,
 
 already ordered at the inn, was at last, though unwillingly, accepted
 
-as a excuse; but they seemed almost hurt that Captain Wentworth should
+as a excuse; but they seemed almost hurt that [[Captain Wentworth]] should
 
 have brought any such party to Lyme, without considering it as a thing
 
@@ -6389,7 +6389,7 @@ of course that they should dine with them.
 
 
 
-There was so much attachment to Captain Wentworth in all this, and such
+There was so much attachment to [[Captain Wentworth]] in all this, and such
 
 a bewitching charm in a degree of hospitality so uncommon, so unlike
 
@@ -6419,9 +6419,9 @@ contrivances and nice arrangements of Captain Harville, to turn the
 
 actual space to the best account, to supply the deficiencies of
 
-lodging-house furniture, and defend the windows and doors against the
+lodging-[[house]] furniture, and defend the windows and doors against the
 
-winter storms to be expected. The varieties in the fitting-up of the
+[[Winter|winter]] storms to be expected. The varieties in the fitting-up of the
 
 rooms, where the common necessaries provided by the owner, in the
 
@@ -6447,7 +6447,7 @@ Captain Harville was no reader; but he had contrived excellent
 
 accommodations, and fashioned very pretty shelves, for a tolerable
 
-collection of well-bound volumes, the property of Captain Benwick. His
+collection of [[Well|well]]-bound volumes, the property of [[Captain Benwick]]. His
 
 lameness prevented him from taking much exercise; but a mind of
 
@@ -6465,7 +6465,7 @@ fishing-net at one corner of the room.
 
 Anne thought she left great happiness behind her when they quitted the
 
-house; and Louisa, by whom she found herself walking, burst forth into
+[[house]]; and Louisa, by whom she found herself walking, burst forth into
 
 raptures of admiration and delight on the character of the navy; their
 
@@ -6479,7 +6479,7 @@ live, and they only deserved to be respected and loved.
 
 
 
-They went back to dress and dine; and so well had the scheme answered
+They went back to dress and dine; and so [[Well|well]] had the scheme answered
 
 already, that nothing was found amiss; though its being “so entirely
 
@@ -6491,9 +6491,9 @@ the inn.
 
 
 
-Anne found herself by this time growing so much more hardened to being
+Anne found herself by this [[Time|time]] growing so much more hardened to being
 
-in Captain Wentworth’s company than she had at first imagined could
+in [[Captain Wentworth]]’s company than she had at first imagined could
 
 ever be, that the sitting down to the same table with him now, and the
 
@@ -6509,7 +6509,7 @@ but Captain Harville had promised them a visit in the evening; and he
 
 came, bringing his friend also, which was more than had been expected,
 
-it having been agreed that Captain Benwick had all the appearance of
+it having been agreed that [[Captain Benwick]] had all the appearance of
 
 being oppressed by the presence of so many strangers. He ventured among
 
@@ -6525,23 +6525,23 @@ room, and by recurring to former days, supplied anecdotes in abundance
 
 to occupy and entertain the others, it fell to Anne’s lot to be placed
 
-rather apart with Captain Benwick; and a very good impulse of her
+rather apart with [[Captain Benwick]]; and a very good impulse of her
 
-nature obliged her to begin an acquaintance with him. He was shy, and
+[[Nature|nature]] obliged her to begin an acquaintance with him. He was shy, and
 
 disposed to abstraction; but the engaging mildness of her countenance,
 
-and gentleness of her manners, soon had their effect; and Anne was well
+and gentleness of her manners, soon had their effect; and Anne was [[Well|well]]
 
 repaid the first trouble of exertion. He was evidently a young man of
 
 considerable taste in reading, though principally in poetry; and
 
-besides the persuasion of having given him at least an evening’s
+besides the [[Persuasion|persuasion]] of having given him at least an evening’s
 
 indulgence in the discussion of subjects, which his usual companions
 
-had probably no concern in, she had the hope of being of real use to
+had probably no concern in, she had the [[Hope|hope]] of being of real use to
 
 him in some suggestions as to the duty and benefit of struggling
 
@@ -6561,7 +6561,7 @@ be preferred, and how ranked the _Giaour_ and _The Bride of Abydos;_
 
 and moreover, how the _Giaour_ was to be pronounced, he showed himself
 
-so intimately acquainted with all the tenderest songs of the one poet,
+so intimately acquainted with all the tenderest [[songs]] of the one poet,
 
 and all the impassioned descriptions of hopeless agony of the other; he
 
@@ -6569,13 +6569,13 @@ repeated, with such tremulous feeling, the various lines which imaged a
 
 broken heart, or a mind destroyed by wretchedness, and looked so
 
-entirely as if he meant to be understood, that she ventured to hope he
+entirely as if he meant to be understood, that she ventured to [[Hope|hope]] he
 
 did not always read only poetry, and to say, that she thought it was
 
 the misfortune of poetry to be seldom safely enjoyed by those who
 
-enjoyed it completely; and that the strong feelings which alone could
+enjoyed it completely; and that the strong feelings which [[Alone|alone]] could
 
 estimate it truly were the very feelings which ought to taste it but
 
@@ -6595,7 +6595,7 @@ particularize, mentioned such works of our best moralists, such
 
 collections of the finest letters, such memoirs of characters of worth
 
-and suffering, as occurred to her at the moment as calculated to rouse
+and [[Suffering|suffering]], as occurred to her at the moment as calculated to rouse
 
 and fortify the mind by the highest precepts, and the strongest
 
@@ -6603,11 +6603,11 @@ examples of moral and religious endurances.
 
 
 
-Captain Benwick listened attentively, and seemed grateful for the
+[[Captain Benwick]] listened attentively, and seemed grateful for the
 
 interest implied; and though with a shake of the head, and sighs which
 
-declared his little faith in the efficacy of any books on grief like
+declared his little [[Faith|faith]] in the efficacy of any books on grief like
 
 his, noted down the names of those she recommended, and promised to
 
@@ -6617,7 +6617,7 @@ procure and read them.
 
 When the evening was over, Anne could not but be amused at the idea of
 
-her coming to Lyme to preach patience and resignation to a young man
+her coming to Lyme to preach patience and [[Resignation|resignation]] to a young man
 
 whom she had never seen before; nor could she help fearing, on more
 
@@ -6659,9 +6659,9 @@ till Henrietta suddenly began again with—
 
 “Oh! yes,—I am quite convinced that, with very few exceptions, the
 
-sea-air always does good. There can be no doubt of its having been of
+sea-air always does good. There can be no [[Doubt|doubt]] of its having been of
 
-the greatest service to Dr Shirley, after his illness, last spring
+the greatest service to Dr [[Shirley]], after his illness, last [[spring]]
 
 twelvemonth. He declares himself, that coming to Lyme for a month, did
 
@@ -6675,7 +6675,7 @@ better leave Uppercross entirely, and fix at Lyme. Do not you, Anne? Do
 
 not you agree with me, that it is the best thing he could do, both for
 
-himself and Mrs Shirley? She has cousins here, you know, and many
+himself and Mrs [[Shirley]]? She has cousins here, you know, and many
 
 acquaintance, which would make it cheerful for her, and I am sure she
 
@@ -6683,7 +6683,7 @@ would be glad to get to a place where she could have medical attendance
 
 at hand, in case of his having another seizure. Indeed I think it quite
 
-melancholy to have such excellent people as Dr and Mrs Shirley, who
+[[Melancholy|melancholy]] to have such excellent people as Dr and Mrs [[Shirley]], who
 
 have been doing good all their lives, wearing out their last days in a
 
@@ -6693,17 +6693,17 @@ from all the world. I wish his friends would propose it to him. I
 
 really think they ought. And, as to procuring a dispensation, there
 
-could be no difficulty at his time of life, and with his character. My
+could be no difficulty at his [[Time|time]] of life, and with his character. My
 
-only doubt is, whether anything could persuade him to leave his parish.
+only [[Doubt|doubt]] is, whether anything could persuade him to leave his parish.
 
 He is so very strict and scrupulous in his notions; over-scrupulous I
 
 must say. Do not you think, Anne, it is being over-scrupulous? Do not
 
-you think it is quite a mistaken point of conscience, when a clergyman
+you think it is quite a mistaken point of [[Conscience|conscience]], when a clergyman
 
-sacrifices his health for the sake of duties, which may be just as well
+sacrifices his health for the sake of duties, which may be just as [[Well|well]]
 
 performed by another person? And at Lyme too, only seventeen miles off,
 
@@ -6723,7 +6723,7 @@ standard, for what could be offered but general acquiescence? She said
 
 all that was reasonable and proper on the business; felt the claims of
 
-Dr Shirley to repose as she ought; saw how very desirable it was that
+Dr [[Shirley]] to repose as she ought; saw how very desirable it was that
 
 he should have some active, respectable young man as a resident
 
@@ -6733,11 +6733,11 @@ resident curate’s being married.
 
 
 
-“I wish,” said Henrietta, very well pleased with her companion, “I wish
+“I wish,” said Henrietta, very [[Well|well]] pleased with her companion, “I wish
 
-Lady Russell lived at Uppercross, and were intimate with Dr Shirley. I
+[[Lady Russell]] lived at Uppercross, and were intimate with Dr [[Shirley]]. I
 
-have always heard of Lady Russell as a woman of the greatest influence
+have always heard of [[Lady Russell]] as a woman of the greatest influence
 
 with everybody! I always look upon her as able to persuade a person to
 
@@ -6755,11 +6755,11 @@ also that the course of events and the new interests of Henrietta’s
 
 views should have placed her friend at all in favour with any of the
 
-Musgrove family; she had only time, however, for a general answer, and
+Musgrove family; she had only [[Time|time]], however, for a general answer, and
 
 a wish that such another woman were at Uppercross, before all subjects
 
-suddenly ceased, on seeing Louisa and Captain Wentworth coming towards
+suddenly ceased, on seeing Louisa and [[Captain Wentworth]] coming towards
 
 them. They came also for a stroll till breakfast was likely to be
 
@@ -6781,15 +6781,15 @@ as they passed, Anne’s face caught his eye, and he looked at her with a
 
 degree of earnest admiration, which she could not be insensible of. She
 
-was looking remarkably well; her very regular, very pretty features,
+was looking remarkably [[Well|well]]; her very regular, very pretty features,
 
-having the bloom and freshness of youth restored by the fine wind which
+having the bloom and freshness of youth restored by the fine [[Wind|wind]] which
 
 had been blowing on her complexion, and by the animation of eye which
 
 it had also produced. It was evident that the gentleman, (completely a
 
-gentleman in manner) admired her exceedingly. Captain Wentworth looked
+gentleman in manner) admired her exceedingly. [[Captain Wentworth]] looked
 
 round at her instantly in a way which shewed his noticing of it. He
 
@@ -6797,7 +6797,7 @@ gave her a momentary glance, a glance of brightness, which seemed to
 
 say, “That man is struck with you, and even I, at this moment, see
 
-something like Anne Elliot again.”
+something like [[Anne Elliot]] again.”
 
 
 
@@ -6811,7 +6811,7 @@ nearly run against the very same gentleman, as he came out of an
 
 adjoining apartment. She had before conjectured him to be a stranger
 
-like themselves, and determined that a well-looking groom, who was
+like themselves, and determined that a [[Well|well]]-looking groom, who was
 
 strolling about near the two inns as they came back, should be his
 
@@ -6835,7 +6835,7 @@ They had nearly done breakfast, when the sound of a carriage, (almost
 
 the first they had heard since entering Lyme) drew half the party to
 
-the window. It was a gentleman’s carriage, a curricle, but only coming
+the [[Window|window]]. It was a gentleman’s carriage, a curricle, but only coming
 
 round from the stable-yard to the front door; somebody must be going
 
@@ -6847,7 +6847,7 @@ The word curricle made Charles Musgrove jump up that he might compare
 
 it with his own; the servant in mourning roused Anne’s curiosity, and
 
-the whole six were collected to look, by the time the owner of the
+the whole six were collected to look, by the [[Time|time]] the owner of the
 
 curricle was to be seen issuing from the door amidst the bows and
 
@@ -6855,7 +6855,7 @@ civilities of the household, and taking his seat, to drive off.
 
 
 
-“Ah!” cried Captain Wentworth, instantly, and with half a glance at
+“Ah!” cried [[Captain Wentworth]], instantly, and with half a glance at
 
 Anne, “it is the very man we passed.”
 
@@ -6863,13 +6863,13 @@ Anne, “it is the very man we passed.”
 
 The Miss Musgroves agreed to it; and having all kindly watched him as
 
-far up the hill as they could, they returned to the breakfast table.
+far up the [[Hill|hill]] as they could, they returned to the breakfast table.
 
 The waiter came into the room soon afterwards.
 
 
 
-“Pray,” said Captain Wentworth, immediately, “can you tell us the name
+“Pray,” said [[Captain Wentworth]], immediately, “can you tell us the name
 
 of the gentleman who is just gone away?”
 
@@ -6877,11 +6877,11 @@ of the gentleman who is just gone away?”
 
 “Yes, Sir, a Mr Elliot, a gentleman of large fortune, came in last
 
-night from Sidmouth. Dare say you heard the carriage, sir, while you
+[[Night|night]] from Sidmouth. Dare say you heard the carriage, sir, while you
 
 were at dinner; and going on now for Crewkherne, in his way to Bath and
 
-London.”
+[[London]].”
 
 
 
@@ -6915,13 +6915,13 @@ master was a very rich gentleman, and would be a baronight some day.”
 
 “There! you see!” cried Mary in an ecstasy, “just as I said! Heir to
 
-Sir Walter Elliot! I was sure that would come out, if it was so. Depend
+[[Sir Walter Elliot]]! I was sure that would come out, if it was so. Depend
 
 upon it, that is a circumstance which his servants take care to
 
 publish, wherever he goes. But, Anne, only conceive how extraordinary!
 
-I wish I had looked at him more. I wish we had been aware in time, who
+I wish I had looked at him more. I wish we had been aware in [[Time|time]], who
 
 it was, that he might have been introduced to us. What a pity that we
 
@@ -6931,7 +6931,7 @@ Elliot countenance? I hardly looked at him, I was looking at the
 
 horses; but I think he had something of the Elliot countenance, I
 
-wonder the arms did not strike me! Oh! the great-coat was hanging over
+[[Wonder|wonder]] the arms did not strike me! Oh! the great-coat was hanging over
 
 the panel, and hid the arms, so it did; otherwise, I am sure, I should
 
@@ -6943,9 +6943,9 @@ mourning, one should have known him by the livery.”
 
 “Putting all these very extraordinary circumstances together,” said
 
-Captain Wentworth, “we must consider it to be the arrangement of
+[[Captain Wentworth]], “we must consider it to be the arrangement of
 
-Providence, that you should not be introduced to your cousin.”
+[[Providence]], that you should not be introduced to your cousin.”
 
 
 
@@ -6959,13 +6959,13 @@ desirable.
 
 
 
-At the same time, however, it was a secret gratification to herself to
+At the same [[Time|time]], however, it was a secret gratification to herself to
 
 have seen her cousin, and to know that the future owner of Kellynch was
 
 undoubtedly a gentleman, and had an air of good sense. She would not,
 
-upon any account, mention her having met with him the second time;
+upon any account, mention her having met with him the second [[Time|time]];
 
 luckily Mary did not much attend to their having passed close by him in
 
@@ -6981,7 +6981,7 @@ cousinly little interview must remain a perfect secret.
 
 “Of course,” said Mary, “you will mention our seeing Mr Elliot, the
 
-next time you write to Bath. I think my father certainly ought to hear
+next [[Time|time]] you write to Bath. I think my father certainly ought to hear
 
 of it; do mention all about him.”
 
@@ -6997,7 +6997,7 @@ many years back, she knew; Elizabeth’s particular share in it she
 
 suspected; and that Mr Elliot’s idea always produced irritation in both
 
-was beyond a doubt. Mary never wrote to Bath herself; all the toil of
+was beyond a [[Doubt|doubt]]. Mary never wrote to Bath herself; all the toil of
 
 keeping up a slow and unsatisfactory correspondence with Elizabeth fell
 
@@ -7007,7 +7007,7 @@ on Anne.
 
 Breakfast had not been long over, when they were joined by Captain and
 
-Mrs Harville and Captain Benwick; with whom they had appointed to take
+Mrs Harville and [[Captain Benwick]]; with whom they had appointed to take
 
 their last walk about Lyme. They ought to be setting off for Uppercross
 
@@ -7017,11 +7017,11 @@ as long as they could.
 
 
 
-Anne found Captain Benwick getting near her, as soon as they were all
+Anne found [[Captain Benwick]] getting near her, as soon as they were all
 
 fairly in the street. Their conversation the preceding evening did not
 
-disincline him to seek her again; and they walked together some time,
+disincline him to seek her again; and they walked together some [[Time|time]],
 
 talking as before of Mr Scott and Lord Byron, and still as unable as
 
@@ -7029,7 +7029,7 @@ before, and as unable as any other two readers, to think exactly alike
 
 of the merits of either, till something occasioned an almost general
 
-change amongst their party, and instead of Captain Benwick, she had
+change amongst their party, and instead of [[Captain Benwick]], she had
 
 Captain Harville by her side.
 
@@ -7047,11 +7047,11 @@ what can we do? We cannot part.”
 
 “No,” said Anne, “that I can easily believe to be impossible; but in
 
-time, perhaps—we know what time does in every case of affliction, and
+[[Time|time]], perhaps—we know what [[Time|time]] does in every case of affliction, and
 
 you must remember, Captain Harville, that your friend may yet be called
 
-a young mourner—only last summer, I understand.”
+a young mourner—only last [[Summer|summer]], I understand.”
 
 
 
@@ -7063,7 +7063,7 @@ a young mourner—only last summer, I understand.”
 
 
 
-“Not till the first week of August, when he came home from the Cape,
+“Not till the first week of August, when he came [[Home|home]] from the Cape,
 
 just made into the Grappler. I was at Plymouth dreading to hear of him;
 
@@ -7073,13 +7073,13 @@ There the news must follow him, but who was to tell it? not I. I would
 
 as soon have been run up to the yard-arm. Nobody could do it, but that
 
-good fellow” (pointing to Captain Wentworth). “The Laconia had come
+good fellow” (pointing to [[Captain Wentworth]]). “The Laconia had come
 
 into Plymouth the week before; no danger of her being sent to sea
 
 again. He stood his chance for the rest; wrote up for leave of absence,
 
-but without waiting the return, travelled night and day till he got to
+but without waiting the return, travelled [[Night|night]] and day till he got to
 
 Portsmouth, rowed off to the Grappler that instant, and never left the
 
@@ -7103,13 +7103,13 @@ spoke again, it was of something totally different.
 
 Mrs Harville’s giving it as her opinion that her husband would have
 
-quite walking enough by the time he reached home, determined the
+quite walking enough by the [[Time|time]] he reached [[Home|home]], determined the
 
 direction of all the party in what was to be their last walk; they
 
 would accompany them to their door, and then return and set off
 
-themselves. By all their calculations there was just time for this; but
+themselves. By all their calculations there was just [[Time|time]] for this; but
 
 as they drew near the Cobb, there was such a general wish to walk along
 
@@ -7123,13 +7123,13 @@ interchange of invitations and promises which may be imagined, they
 
 parted from Captain and Mrs Harville at their own door, and still
 
-accompanied by Captain Benwick, who seemed to cling to them to the
+accompanied by [[Captain Benwick]], who seemed to cling to them to the
 
 last, proceeded to make the proper adieus to the Cobb.
 
 
 
-Anne found Captain Benwick again drawing near her. Lord Byron’s “dark
+Anne found [[Captain Benwick]] again drawing near her. Lord Byron’s “dark
 
 blue seas” could not fail of being brought forward by their present
 
@@ -7139,13 +7139,13 @@ was possible. It was soon drawn, perforce another way.
 
 
 
-There was too much wind to make the high part of the new Cobb pleasant
+There was too much [[Wind|wind]] to make the high part of the new Cobb pleasant
 
 for the ladies, and they agreed to get down the steps to the lower, and
 
 all were contented to pass quietly and carefully down the steep flight,
 
-excepting Louisa; she must be jumped down them by Captain Wentworth. In
+excepting Louisa; she must be jumped down them by [[Captain Wentworth]]. In
 
 all their walks, he had had to jump her from the stiles; the sensation
 
@@ -7163,19 +7163,19 @@ am determined I will:” he put out his hands; she was too precipitate by
 
 half a second, she fell on the pavement on the Lower Cobb, and was
 
-taken up lifeless! There was no wound, no blood, no visible bruise; but
+taken up lifeless! There was no wound, no [[Blood|blood]], no visible bruise; but
 
-her eyes were closed, she breathed not, her face was like death. The
+her eyes were closed, she breathed not, her face was like [[Death|death]]. The
 
 horror of the moment to all who stood around!
 
 
 
-Captain Wentworth, who had caught her up, knelt with her in his arms,
+[[Captain Wentworth]], who had caught her up, knelt with her in his arms,
 
 looking on her with a face as pallid as her own, in an agony of
 
-silence. “She is dead! she is dead!” screamed Mary, catching hold of
+[[Silence|silence]]. “She is dead! she is dead!” screamed Mary, catching hold of
 
 her husband, and contributing with his own horror to make him
 
@@ -7183,7 +7183,7 @@ immoveable; and in another moment, Henrietta, sinking under the
 
 conviction, lost her senses too, and would have fallen on the steps,
 
-but for Captain Benwick and Anne, who caught and supported her between
+but for [[Captain Benwick]] and Anne, who caught and supported her between
 
 them.
 
@@ -7191,7 +7191,7 @@ them.
 
 “Is there no one to help me?” were the first words which burst from
 
-Captain Wentworth, in a tone of despair, and as if all his own strength
+[[Captain Wentworth]], in a tone of [[Despair|despair]], and as if all his own strength
 
 were gone.
 
@@ -7205,13 +7205,13 @@ temples; here are salts; take them, take them.”
 
 
 
-Captain Benwick obeyed, and Charles at the same moment, disengaging
+[[Captain Benwick]] obeyed, and Charles at the same moment, disengaging
 
 himself from his wife, they were both with him; and Louisa was raised
 
 up and supported more firmly between them, and everything was done that
 
-Anne had prompted, but in vain; while Captain Wentworth, staggering
+Anne had prompted, but in vain; while [[Captain Wentworth]], staggering
 
 against the wall for his support, exclaimed in the bitterest agony—
 
@@ -7233,7 +7233,7 @@ eagerly suggested—
 
 
 
-“Captain Benwick, would not it be better for Captain Benwick? He knows
+“[[Captain Benwick]], would not it be better for [[Captain Benwick]]? He knows
 
 where a surgeon is to be found.”
 
@@ -7241,7 +7241,7 @@ where a surgeon is to be found.”
 
 Every one capable of thinking felt the advantage of the idea, and in a
 
-moment (it was all done in rapid moments) Captain Benwick had resigned
+moment (it was all done in rapid moments) [[Captain Benwick]] had resigned
 
 the poor corpse-like figure entirely to the brother’s care, and was off
 
@@ -7251,7 +7251,7 @@ for the town with the utmost rapidity.
 
 As to the wretched party left behind, it could scarcely be said which
 
-of the three, who were completely rational, was suffering most: Captain
+of the three, who were completely rational, was [[Suffering|suffering]] most: Captain
 
 Wentworth, Anne, or Charles, who, really a very affectionate brother,
 
@@ -7271,7 +7271,7 @@ instinct supplied, to Henrietta, still tried, at intervals, to suggest
 
 comfort to the others, tried to quiet Mary, to animate Charles, to
 
-assuage the feelings of Captain Wentworth. Both seemed to look to her
+assuage the feelings of [[Captain Wentworth]]. Both seemed to look to her
 
 for directions.
 
@@ -7283,7 +7283,7 @@ heaven’s name, is to be done next?”
 
 
 
-Captain Wentworth’s eyes were also turned towards her.
+[[Captain Wentworth]]’s eyes were also turned towards her.
 
 
 
@@ -7293,7 +7293,7 @@ gently to the inn.”
 
 
 
-“Yes, yes, to the inn,” repeated Captain Wentworth, comparatively
+“Yes, yes, to the inn,” repeated [[Captain Wentworth]], comparatively
 
 collected, and eager to be doing something. “I will carry her myself.
 
@@ -7301,7 +7301,7 @@ Musgrove, take care of the others.”
 
 
 
-By this time the report of the accident had spread among the workmen
+By this [[Time|time]] the report of the accident had spread among the workmen
 
 and boatmen about the Cobb, and many were collected near them, to be
 
@@ -7325,7 +7325,7 @@ had passed along.
 
 They were not off the Cobb, before the Harvilles met them. Captain
 
-Benwick had been seen flying by their house, with a countenance which
+Benwick had been seen flying by their [[house]], with a countenance which
 
 showed something to be wrong; and they had set off immediately,
 
@@ -7335,9 +7335,9 @@ Captain Harville was, he brought senses and nerves that could be
 
 instantly useful; and a look between him and his wife decided what was
 
-to be done. She must be taken to their house; all must go to their
+to be done. She must be taken to their [[house]]; all must go to their
 
-house; and await the surgeon’s arrival there. They would not listen to
+[[house]]; and await the surgeon’s arrival there. They would not listen to
 
 scruples: he was obeyed; they were all beneath his roof; and while
 
@@ -7355,9 +7355,9 @@ apparent consciousness. This had been a proof of life, however, of
 
 service to her sister; and Henrietta, though perfectly incapable of
 
-being in the same room with Louisa, was kept, by the agitation of hope
+being in the same room with Louisa, was kept, by the agitation of [[Hope|hope]]
 
-and fear, from a return of her own insensibility. Mary, too, was
+and [[Fear|fear]], from a return of her own insensibility. Mary, too, was
 
 growing calmer.
 
@@ -7375,7 +7375,7 @@ recovered from: he was by no means hopeless; he spoke cheerfully.
 
 That he did not regard it as a desperate case, that he did not say a
 
-few hours must end it, was at first felt, beyond the hope of most; and
+few hours must end it, was at first felt, beyond the [[Hope|hope]] of most; and
 
 the ecstasy of such a reprieve, the rejoicing, deep and silent, after a
 
@@ -7393,7 +7393,7 @@ of him afterwards, as he sat near a table, leaning over it with folded
 
 arms and face concealed, as if overpowered by the various feelings of
 
-his soul, and trying by prayer and reflection to calm them.
+his [[Soul|soul]], and trying by [[Prayer|prayer]] and reflection to calm them.
 
 
 
@@ -7409,17 +7409,17 @@ each other and consult. That Louisa must remain where she was, however
 
 distressing to her friends to be involving the Harvilles in such
 
-trouble, did not admit a doubt. Her removal was impossible. The
+trouble, did not admit a [[Doubt|doubt]]. Her removal was impossible. The
 
 Harvilles silenced all scruples; and, as much as they could, all
 
 gratitude. They had looked forward and arranged everything before the
 
-others began to reflect. Captain Benwick must give up his room to them,
+others began to reflect. [[Captain Benwick]] must give up his room to them,
 
 and get another bed elsewhere; and the whole was settled. They were
 
-only concerned that the house could accommodate no more; and yet
+only concerned that the [[house]] could accommodate no more; and yet
 
 perhaps, by “putting the children away in the maid’s room, or swinging
 
@@ -7431,19 +7431,19 @@ with regard to any attendance on Miss Musgrove, there need not be the
 
 least uneasiness in leaving her to Mrs Harville’s care entirely. Mrs
 
-Harville was a very experienced nurse, and her nursery-maid, who had
+Harville was a very experienced [[Nurse|nurse]], and her nursery-maid, who had
 
 lived with her long, and gone about with her everywhere, was just such
 
 another. Between these two, she could want no possible attendance by
 
-day or night. And all this was said with a truth and sincerity of
+day or [[Night|night]]. And all this was said with a [[Truth|truth]] and sincerity of
 
 feeling irresistible.
 
 
 
-Charles, Henrietta, and Captain Wentworth were the three in
+Charles, Henrietta, and [[Captain Wentworth]] were the three in
 
 consultation, and for a little while it was only an interchange of
 
@@ -7455,9 +7455,9 @@ and Mrs Musgrove; the lateness of the morning; an hour already gone
 
 since they ought to have been off; the impossibility of being in
 
-tolerable time.” At first, they were capable of nothing more to the
+tolerable [[Time|time]].” At first, they were capable of nothing more to the
 
-purpose than such exclamations; but, after a while, Captain Wentworth,
+purpose than such exclamations; but, after a while, [[Captain Wentworth]],
 
 exerting himself, said—
 
@@ -7489,7 +7489,7 @@ was forced to acknowledge that she could do no good, yet was still
 
 unwilling to be away, till, touched by the thought of her father and
 
-mother, she gave it up; she consented, she was anxious to be at home.
+mother, she gave it up; she consented, she was anxious to be at [[Home|home]].
 
 
 
@@ -7501,9 +7501,9 @@ was open.
 
 
 
-“Then it is settled, Musgrove,” cried Captain Wentworth, “that you
+“Then it is settled, Musgrove,” cried [[Captain Wentworth]], “that you
 
-stay, and that I take care of your sister home. But as to the rest, as
+stay, and that I take care of your sister [[Home|home]]. But as to the rest, as
 
 to the others, if one stays to assist Mrs Harville, I think it need be
 
@@ -7521,7 +7521,7 @@ appeared.
 
 
 
-“You will stay, I am sure; you will stay and nurse her;” cried he,
+“You will stay, I am sure; you will stay and [[Nurse|nurse]] her;” cried he,
 
 turning to her and speaking with a glow, and yet a gentleness, which
 
@@ -7541,21 +7541,21 @@ One thing more, and all seemed arranged. Though it was rather desirable
 
 that Mr and Mrs Musgrove should be previously alarmed by some share of
 
-delay; yet the time required by the Uppercross horses to take them
+delay; yet the [[Time|time]] required by the Uppercross horses to take them
 
-back, would be a dreadful extension of suspense; and Captain Wentworth
+back, would be a dreadful extension of suspense; and [[Captain Wentworth]]
 
 proposed, and Charles Musgrove agreed, that it would be much better for
 
 him to take a chaise from the inn, and leave Mr Musgrove’s carriage and
 
-horses to be sent home the next morning early, when there would be the
+horses to be sent [[Home|home]] the next morning early, when there would be the
 
-farther advantage of sending an account of Louisa’s night.
+farther advantage of sending an account of Louisa’s [[Night|night]].
 
 
 
-Captain Wentworth now hurried off to get everything ready on his part,
+[[Captain Wentworth]] now hurried off to get everything ready on his part,
 
 and to be soon followed by the two ladies. When the plan was made known
 
@@ -7567,7 +7567,7 @@ expected to go away instead of Anne; Anne, who was nothing to Louisa,
 
 while she was her sister, and had the best right to stay in Henrietta’s
 
-stead! Why was not she to be as useful as Anne? And to go home without
+stead! Why was not she to be as useful as Anne? And to go [[Home|home]] without
 
 Charles, too, without her husband! No, it was too unkind. And in short,
 
@@ -7583,13 +7583,13 @@ Anne had never submitted more reluctantly to the jealous and
 
 ill-judging claims of Mary; but so it must be, and they set off for the
 
-town, Charles taking care of his sister, and Captain Benwick attending
+town, Charles taking care of his sister, and [[Captain Benwick]] attending
 
 to her. She gave a moment’s recollection, as they hurried along, to the
 
 little circumstances which the same spots had witnessed earlier in the
 
-morning. There she had listened to Henrietta’s schemes for Dr Shirley’s
+morning. There she had listened to Henrietta’s schemes for Dr [[Shirley]]’s
 
 leaving Uppercross; farther on, she had first seen Mr Elliot; a moment
 
@@ -7599,7 +7599,7 @@ were wrapped up in her welfare.
 
 
 
-Captain Benwick was most considerately attentive to her; and, united as
+[[Captain Benwick]] was most considerately attentive to her; and, united as
 
 they all seemed by the distress of the day, she felt an increasing
 
@@ -7609,7 +7609,7 @@ it might, perhaps, be the occasion of continuing their acquaintance.
 
 
 
-Captain Wentworth was on the watch for them, and a chaise and four in
+[[Captain Wentworth]] was on the watch for them, and a chaise and four in
 
 waiting, stationed for their convenience in the lowest part of the
 
@@ -7629,7 +7629,7 @@ Louisa.
 
 She endeavoured to be composed, and to be just. Without emulating the
 
-feelings of an Emma towards her Henry, she would have attended on
+feelings of an [[Emma]] towards her Henry, she would have attended on
 
 Louisa with a zeal above the common claims of regard, for his sake; and
 
@@ -7693,21 +7693,21 @@ happiness as a very resolute character.
 
 They got on fast. Anne was astonished to recognise the same hills and
 
-the same objects so soon. Their actual speed, heightened by some dread
+the same objects so soon. Their actual [[Speed|speed]], heightened by some dread
 
-of the conclusion, made the road appear but half as long as on the day
+of the conclusion, made the [[Road|road]] appear but half as long as on the day
 
 before. It was growing quite dusk, however, before they were in the
 
-neighbourhood of Uppercross, and there had been total silence among
+neighbourhood of Uppercross, and there had been total [[Silence|silence]] among
 
-them for some time, Henrietta leaning back in the corner, with a shawl
+them for some [[Time|time]], Henrietta leaning back in the corner, with a shawl
 
-over her face, giving the hope of her having cried herself to sleep;
+over her face, giving the [[Hope|hope]] of her having cried herself to [[Sleep|sleep]];
 
-when, as they were going up their last hill, Anne found herself all at
+when, as they were going up their last [[Hill|hill]], Anne found herself all at
 
-once addressed by Captain Wentworth. In a low, cautious voice, he
+once addressed by [[Captain Wentworth]]. In a low, cautious voice, he
 
 said:—
 
@@ -7725,7 +7725,7 @@ Mr and Mrs Musgrove. Do you think this is a good plan?”
 
 She did: he was satisfied, and said no more. But the remembrance of the
 
-appeal remained a pleasure to her, as a proof of friendship, and of
+appeal remained a pleasure to her, as a proof of [[Friendship|friendship]], and of
 
 deference for her judgement, a great pleasure; and when it became a
 
@@ -7761,9 +7761,9 @@ CHAPTER XIII.
 
 
 
-The remainder of Anne’s time at Uppercross, comprehending only two
+The remainder of Anne’s [[Time|time]] at Uppercross, comprehending only two
 
-days, was spent entirely at the Mansion House; and she had the
+days, was spent entirely at the Mansion [[house|House]]; and she had the
 
 satisfaction of knowing herself extremely useful there, both as an
 
@@ -7783,21 +7783,21 @@ few hours afterwards, to bring a later and more particular account. He
 
 was tolerably cheerful. A speedy cure must not be hoped, but everything
 
-was going on as well as the nature of the case admitted. In speaking of
+was going on as [[Well|well]] as the [[Nature|nature]] of the case admitted. In speaking of
 
 the Harvilles, he seemed unable to satisfy his own sense of their
 
-kindness, especially of Mrs Harville’s exertions as a nurse. “She
+kindness, especially of Mrs Harville’s exertions as a [[Nurse|nurse]]. “She
 
 really left nothing for Mary to do. He and Mary had been persuaded to
 
-go early to their inn last night. Mary had been hysterical again this
+go early to their inn last [[Night|night]]. Mary had been hysterical again this
 
 morning. When he came away, she was going to walk out with Captain
 
 Benwick, which, he hoped, would do her good. He almost wished she had
 
-been prevailed on to come home the day before; but the truth was, that
+been prevailed on to come [[Home|home]] the day before; but the [[Truth|truth]] was, that
 
 Mrs Harville left nothing for anybody to do.”
 
@@ -7823,7 +7823,7 @@ brothers, was now living in her deserted nursery to mend stockings and
 
 dress all the blains and bruises she could get near her, and who,
 
-consequently, was only too happy in being allowed to go and help nurse
+consequently, was only too happy in being allowed to go and help [[Nurse|nurse]]
 
 dear Miss Louisa. Vague wishes of getting Sarah thither, had occurred
 
@@ -7875,7 +7875,7 @@ at Uppercross better than in assisting their preparations, and sending
 
 them off at an early hour, though her being left to the solitary range
 
-of the house was the consequence.
+of the [[house]] was the consequence.
 
 
 
@@ -7889,17 +7889,17 @@ few days had made a change indeed!
 
 
 
-If Louisa recovered, it would all be well again. More than former
+If Louisa recovered, it would all be [[Well|well]] again. More than former
 
-happiness would be restored. There could not be a doubt, to her mind
+happiness would be restored. There could not be a [[Doubt|doubt]], to her mind
 
 there was none, of what would follow her recovery. A few months hence,
 
-and the room now so deserted, occupied but by her silent, pensive self,
+and the room now so deserted, occupied but by her silent, pensive [[Self|self]],
 
 might be filled again with all that was happy and gay, all that was
 
-glowing and bright in prosperous love, all that was most unlike Anne
+glowing and bright in prosperous [[Love|love]], all that was most unlike Anne
 
 Elliot!
 
@@ -7911,9 +7911,9 @@ November day, a small thick rain almost blotting out the very few
 
 objects ever to be discerned from the windows, was enough to make the
 
-sound of Lady Russell’s carriage exceedingly welcome; and yet, though
+sound of [[Lady Russell]]’s carriage exceedingly welcome; and yet, though
 
-desirous to be gone, she could not quit the Mansion House, or look an
+desirous to be gone, she could not quit the Mansion [[house|House]], or look an
 
 adieu to the Cottage, with its black, dripping and comfortless veranda,
 
@@ -7921,11 +7921,11 @@ or even notice through the misty glasses the last humble tenements of
 
 the village, without a saddened heart. Scenes had passed in Uppercross
 
-which made it precious. It stood the record of many sensations of pain,
+which made it precious. It stood the record of many sensations of [[Pain|pain]],
 
 once severe, but now softened; and of some instances of relenting
 
-feeling, some breathings of friendship and reconciliation, which could
+feeling, some breathings of [[Friendship|friendship]] and [[Reconciliation|reconciliation]], which could
 
 never be looked for again, and which could never cease to be dear. She
 
@@ -7935,7 +7935,7 @@ been.
 
 
 
-Anne had never entered Kellynch since her quitting Lady Russell’s house
+Anne had never entered Kellynch since her quitting [[Lady Russell]]’s [[house]]
 
 in September. It had not been necessary, and the few occasions of its
 
@@ -7949,19 +7949,19 @@ mistress.
 
 
 
-There was some anxiety mixed with Lady Russell’s joy in meeting her.
+There was some anxiety mixed with [[Lady Russell]]’s joy in meeting her.
 
 She knew who had been frequenting Uppercross. But happily, either Anne
 
-was improved in plumpness and looks, or Lady Russell fancied her so;
+was improved in plumpness and looks, or [[Lady Russell]] fancied her so;
 
 and Anne, in receiving her compliments on the occasion, had the
 
 amusement of connecting them with the silent admiration of her cousin,
 
-and of hoping that she was to be blessed with a second spring of youth
+and of hoping that she was to be blessed with a second [[spring]] of youth
 
-and beauty.
+and [[Beauty|beauty]].
 
 
 
@@ -7975,11 +7975,11 @@ smother among the Musgroves, were now become but of secondary interest.
 
 She had lately lost sight even of her father and sister and Bath. Their
 
-concerns had been sunk under those of Uppercross; and when Lady Russell
+concerns had been sunk under those of Uppercross; and when [[Lady Russell]]
 
 reverted to their former hopes and fears, and spoke her satisfaction in
 
-the house in Camden Place, which had been taken, and her regret that
+the [[house]] in Camden Place, which had been taken, and her regret that
 
 Mrs Clay should still be with them, Anne would have been ashamed to
 
@@ -7987,21 +7987,21 @@ have it known how much more she was thinking of Lyme and Louisa
 
 Musgrove, and all her acquaintance there; how much more interesting to
 
-her was the home and the friendship of the Harvilles and Captain
+her was the [[Home|home]] and the [[Friendship|friendship]] of the Harvilles and Captain
 
-Benwick, than her own father’s house in Camden Place, or her own
+Benwick, than her own father’s [[house]] in Camden Place, or her own
 
 sister’s intimacy with Mrs Clay. She was actually forced to exert
 
-herself to meet Lady Russell with anything like the appearance of equal
+herself to meet [[Lady Russell]] with anything like the appearance of equal
 
-solicitude, on topics which had by nature the first claim on her.
+solicitude, on topics which had by [[Nature|nature]] the first claim on her.
 
 
 
 There was a little awkwardness at first in their discourse on another
 
-subject. They must speak of the accident at Lyme. Lady Russell had not
+subject. They must speak of the accident at Lyme. [[Lady Russell]] had not
 
 been arrived five minutes the day before, when a full account of the
 
@@ -8009,11 +8009,11 @@ whole had burst on her; but still it must be talked of, she must make
 
 enquiries, she must regret the imprudence, lament the result, and
 
-Captain Wentworth’s name must be mentioned by both. Anne was conscious
+[[Captain Wentworth]]’s name must be mentioned by both. Anne was conscious
 
-of not doing it so well as Lady Russell. She could not speak the name,
+of not doing it so [[Well|well]] as [[Lady Russell]]. She could not speak the name,
 
-and look straight forward to Lady Russell’s eye, till she had adopted
+and look straight forward to [[Lady Russell]]’s eye, till she had adopted
 
 the expedient of telling her briefly what she thought of the attachment
 
@@ -8023,13 +8023,13 @@ longer.
 
 
 
-Lady Russell had only to listen composedly, and wish them happy, but
+[[Lady Russell]] had only to listen composedly, and wish them happy, but
 
 internally her heart revelled in angry pleasure, in pleased contempt,
 
 that the man who at twenty-three had seemed to understand somewhat of
 
-the value of an Anne Elliot, should, eight years afterwards, be charmed
+the value of an [[Anne Elliot]], should, eight years afterwards, be charmed
 
 by a Louisa Musgrove.
 
@@ -8041,15 +8041,15 @@ to mark them excepting the receipt of a note or two from Lyme, which
 
 found their way to Anne, she could not tell how, and brought a rather
 
-improving account of Louisa. At the end of that period, Lady Russell’s
+improving account of Louisa. At the end of that period, [[Lady Russell]]’s
 
-politeness could repose no longer, and the fainter self-threatenings of
+politeness could repose no longer, and the fainter [[Self|self]]-threatenings of
 
 the past became in a decided tone, “I must call on Mrs Croft; I really
 
-must call upon her soon. Anne, have you courage to go with me, and pay
+must call upon her soon. Anne, have you [[Courage|courage]] to go with me, and pay
 
-a visit in that house? It will be some trial to us both.”
+a visit in that [[house]]? It will be some trial to us both.”
 
 
 
@@ -8075,17 +8075,17 @@ his tenants, felt the parish to be so sure of a good example, and the
 
 poor of the best attention and relief, that however sorry and ashamed
 
-for the necessity of the removal, she could not but in conscience feel
+for the necessity of the removal, she could not but in [[Conscience|conscience]] feel
 
 that they were gone who deserved not to stay, and that Kellynch Hall
 
 had passed into better hands than its owners’. These convictions must
 
-unquestionably have their own pain, and severe was its kind; but they
+unquestionably have their own [[Pain|pain]], and severe was its kind; but they
 
-precluded that pain which Lady Russell would suffer in entering the
+precluded that [[Pain|pain]] which [[Lady Russell]] would suffer in entering the
 
-house again, and returning through the well-known apartments.
+[[house]] again, and returning through the [[Well|well]]-known apartments.
 
 
 
@@ -8107,7 +8107,7 @@ Mrs Croft always met her with a kindness which gave her the pleasure of
 
 fancying herself a favourite, and on the present occasion, receiving
 
-her in that house, there was particular attention.
+her in that [[house]], there was particular attention.
 
 
 
@@ -8117,7 +8117,7 @@ comparing their latest accounts of the invalid, it appeared that each
 
 lady dated her intelligence from the same hour of yestermorn; that
 
-Captain Wentworth had been in Kellynch yesterday (the first time since
+[[Captain Wentworth]] had been in Kellynch yesterday (the first [[Time|time]] since
 
 the accident), had brought Anne the last note, which she had not been
 
@@ -8127,7 +8127,7 @@ returned again to Lyme, and without any present intention of quitting
 
 it any more. He had enquired after her, she found, particularly; had
 
-expressed his hope of Miss Elliot’s not being the worse for her
+expressed his [[Hope|hope]] of Miss Elliot’s not being the worse for her
 
 exertions, and had spoken of those exertions as great. This was
 
@@ -8157,13 +8157,13 @@ wound it up summarily by exclaiming—
 
 “Ay, a very bad business indeed. A new sort of way this, for a young
 
-fellow to be making love, by breaking his mistress’s head, is not it,
+fellow to be making [[Love|love]], by breaking his mistress’s head, is not it,
 
 Miss Elliot? This is breaking a head and giving a plaster, truly!”
 
 
 
-Admiral Croft’s manners were not quite of the tone to suit Lady
+[[Admiral Croft]]’s manners were not quite of the tone to suit Lady
 
 Russell, but they delighted Anne. His goodness of heart and simplicity
 
@@ -8177,19 +8177,19 @@ little reverie, “to be coming and finding us here. I had not
 
 recollected it before, I declare, but it must be very bad. But now, do
 
-not stand upon ceremony. Get up and go over all the rooms in the house
+not stand upon ceremony. Get up and go over all the rooms in the [[house]]
 
 if you like it.”
 
 
 
-“Another time, Sir, I thank you, not now.”
+“Another [[Time|time]], Sir, I thank you, not now.”
 
 
 
-“Well, whenever it suits you. You can slip in from the shrubbery at any
+“[[Well]], whenever it suits you. You can slip in from the shrubbery at any
 
-time; and there you will find we keep our umbrellas hanging up by that
+[[Time|time]]; and there you will find we keep our umbrellas hanging up by that
 
 door. A good place is not it? But,” (checking himself), “you will not
 
@@ -8199,7 +8199,7 @@ Ay, so it always is, I believe. One man’s ways may be as good as
 
 another’s, but we all like our own best. And so you must judge for
 
-yourself, whether it would be better for you to go about the house or
+yourself, whether it would be better for you to go about the [[house]] or
 
 not.”
 
@@ -8213,13 +8213,13 @@ Anne, finding she might decline it, did so, very gratefully.
 
 thinking a moment. “Very few. We told you about the laundry-door, at
 
-Uppercross. That has been a very great improvement. The wonder was, how
+Uppercross. That has been a very great improvement. The [[Wonder|wonder]] was, how
 
 any family upon earth could bear with the inconvenience of its opening
 
 as it did, so long! You will tell Sir Walter what we have done, and
 
-that Mr Shepherd thinks it the greatest improvement the house ever had.
+that Mr Shepherd thinks it the greatest improvement the [[house]] ever had.
 
 Indeed, I must do ourselves the justice to say, that the few
 
@@ -8235,9 +8235,9 @@ the gentleman I am sure: but I should think, Miss Elliot,” (looking
 
 with serious reflection), “I should think he must be rather a dressy
 
-man for his time of life. Such a number of looking-glasses! oh Lord!
+man for his [[Time|time]] of life. Such a number of looking-glasses! oh Lord!
 
-there was no getting away from one’s self. So I got Sophy to lend me a
+there was no getting away from one’s [[Self|self]]. So I got Sophy to lend me a
 
 hand, and we soon shifted their quarters; and now I am quite snug, with
 
@@ -8255,7 +8255,7 @@ the subject again, to say—
 
 
 
-“The next time you write to your good father, Miss Elliot, pray give
+“The next [[Time|time]] you write to your good father, Miss Elliot, pray give
 
 him my compliments and Mrs Croft’s, and say that we are settled here
 
@@ -8263,9 +8263,9 @@ quite to our liking, and have no fault at all to find with the place.
 
 The breakfast-room chimney smokes a little, I grant you, but it is only
 
-when the wind is due north and blows hard, which may not happen three
+when the [[Wind|wind]] is due north and blows hard, which may not happen three
 
-times a winter. And take it altogether, now that we have been into most
+times a [[Winter|winter]]. And take it altogether, now that we have been into most
 
 of the houses hereabouts and can judge, there is not one that we like
 
@@ -8275,7 +8275,7 @@ hear it.”
 
 
 
-Lady Russell and Mrs Croft were very well pleased with each other: but
+[[Lady Russell]] and Mrs Croft were very [[Well|well]] pleased with each other: but
 
 the acquaintance which this visit began was fated not to proceed far at
 
@@ -8283,13 +8283,13 @@ present; for when it was returned, the Crofts announced themselves to
 
 be going away for a few weeks, to visit their connexions in the north
 
-of the county, and probably might not be at home again before Lady
+of the county, and probably might not be at [[Home|home]] again before Lady
 
 Russell would be removing to Bath.
 
 
 
-So ended all danger to Anne of meeting Captain Wentworth at Kellynch
+So ended all danger to Anne of meeting [[Captain Wentworth]] at Kellynch
 
 Hall, or of seeing him in company with her friend. Everything was safe
 
@@ -8315,7 +8315,7 @@ Though Charles and Mary had remained at Lyme much longer after Mr and
 
 Mrs Musgrove’s going than Anne conceived they could have been at all
 
-wanted, they were yet the first of the family to be at home again; and
+wanted, they were yet the first of the family to be at [[Home|home]] again; and
 
 as soon as possible after their return to Uppercross they drove over to
 
@@ -8325,13 +8325,13 @@ though clear, was exceedingly weak, and her nerves susceptible to the
 
 highest extreme of tenderness; and though she might be pronounced to be
 
-altogether doing very well, it was still impossible to say when she
+altogether doing very [[Well|well]], it was still impossible to say when she
 
-might be able to bear the removal home; and her father and mother, who
+might be able to bear the removal [[Home|home]]; and her father and mother, who
 
-must return in time to receive their younger children for the Christmas
+must return in [[Time|time]] to receive their younger children for the Christmas
 
-holidays, had hardly a hope of being allowed to bring her with them.
+holidays, had hardly a [[Hope|hope]] of being allowed to bring her with them.
 
 
 
@@ -8379,21 +8379,21 @@ very useful, had made really an agreeable fortnight.
 
 
 
-Anne enquired after Captain Benwick. Mary’s face was clouded directly.
+Anne enquired after [[Captain Benwick]]. Mary’s face was clouded directly.
 
 Charles laughed.
 
 
 
-“Oh! Captain Benwick is very well, I believe, but he is a very odd
+“Oh! [[Captain Benwick]] is very [[Well|well]], I believe, but he is a very odd
 
-young man. I do not know what he would be at. We asked him to come home
+young man. I do not know what he would be at. We asked him to come [[Home|home]]
 
 with us for a day or two: Charles undertook to give him some shooting,
 
 and he seemed quite delighted, and, for my part, I thought it was all
 
-settled; when behold! on Tuesday night, he made a very awkward sort of
+settled; when behold! on Tuesday [[Night|night]], he made a very awkward sort of
 
 excuse; ‘he never shot’ and he had ‘been quite misunderstood,’ and he
 
@@ -8403,29 +8403,29 @@ found, that he did not mean to come. I suppose he was afraid of finding
 
 it dull; but upon my word I should have thought we were lively enough
 
-at the Cottage for such a heart-broken man as Captain Benwick.”
+at the Cottage for such a heart-broken man as [[Captain Benwick]].”
 
 
 
-Charles laughed again and said, “Now Mary, you know very well how it
+Charles laughed again and said, “Now Mary, you know very [[Well|well]] how it
 
 really was. It was all your doing,” (turning to Anne). “He fancied that
 
 if he went with us, he should find you close by: he fancied everybody
 
-to be living in Uppercross; and when he discovered that Lady Russell
+to be living in Uppercross; and when he discovered that [[Lady Russell]]
 
-lived three miles off, his heart failed him, and he had not courage to
+lived three miles off, his heart failed him, and he had not [[Courage|courage]] to
 
-come. That is the fact, upon my honour. Mary knows it is.”
+come. That is the fact, upon my [[Honour|honour]]. Mary knows it is.”
 
 
 
 But Mary did not give into it very graciously, whether from not
 
-considering Captain Benwick entitled by birth and situation to be in
+considering [[Captain Benwick]] entitled by birth and situation to be in
 
-love with an Elliot, or from not wanting to believe Anne a greater
+[[Love|love]] with an Elliot, or from not wanting to believe Anne a greater
 
 attraction to Uppercross than herself, must be left to be guessed.
 
@@ -8439,7 +8439,7 @@ She boldly acknowledged herself flattered, and continued her enquiries.
 
 him. “I declare, Charles, I never heard him mention Anne twice all the
 
-time I was there. I declare, Anne, he never talks of you at all.”
+[[Time|time]] I was there. I declare, Anne, he never talks of you at all.”
 
 
 
@@ -8461,7 +8461,7 @@ was spoken of in the highest terms! Now Mary, I declare it was so, I
 
 heard it myself, and you were in the other room. ‘Elegance, sweetness,
 
-beauty.’ Oh! there was no end of Miss Elliot’s charms.”
+[[Beauty|beauty]].’ Oh! there was no end of Miss Elliot’s charms.”
 
 
 
@@ -8469,13 +8469,13 @@ beauty.’ Oh! there was no end of Miss Elliot’s charms.”
 
 credit, if he did. Miss Harville only died last June. Such a heart is
 
-very little worth having; is it, Lady Russell? I am sure you will agree
+very little worth having; is it, [[Lady Russell]]? I am sure you will agree
 
 with me.”
 
 
 
-“I must see Captain Benwick before I decide,” said Lady Russell,
+“I must see [[Captain Benwick]] before I decide,” said [[Lady Russell]],
 
 smiling.
 
@@ -8489,15 +8489,15 @@ setting off again afterwards to pay a formal visit here, he will make
 
 his way over to Kellynch one day by himself, you may depend on it. I
 
-told him the distance and the road, and I told him of the church’s
+told him the distance and the [[Road|road]], and I told him of the church’s
 
-being so very well worth seeing; for as he has a taste for those sort
+being so very [[Well|well]] worth seeing; for as he has a taste for those sort
 
 of things, I thought that would be a good excuse, and he listened with
 
-all his understanding and soul; and I am sure from his manner that you
+all his understanding and [[Soul|soul]]; and I am sure from his manner that you
 
-will have him calling here soon. So, I give you notice, Lady Russell.”
+will have him calling here soon. So, I give you notice, [[Lady Russell]].”
 
 
 
@@ -8515,9 +8515,9 @@ fortnight.”
 
 
 
-“Well, as your joint acquaintance, then, I shall be very happy to see
+“[[Well]], as your joint acquaintance, then, I shall be very happy to see
 
-Captain Benwick.”
+[[Captain Benwick]].”
 
 
 
@@ -8527,13 +8527,13 @@ He is one of the dullest young men that ever lived. He has walked with
 
 me, sometimes, from one end of the sands to the other, without saying a
 
-word. He is not at all a well-bred young man. I am sure you will not
+word. He is not at all a [[Well|well]]-bred young man. I am sure you will not
 
 like him.”
 
 
 
-“There we differ, Mary,” said Anne. “I think Lady Russell would like
+“There we differ, Mary,” said Anne. “I think [[Lady Russell]] would like
 
 him. I think she would be so much pleased with his mind, that she would
 
@@ -8541,9 +8541,9 @@ very soon see no deficiency in his manner.”
 
 
 
-“So do I, Anne,” said Charles. “I am sure Lady Russell would like him.
+“So do I, Anne,” said Charles. “I am sure [[Lady Russell]] would like him.
 
-He is just Lady Russell’s sort. Give him a book, and he will read all
+He is just [[Lady Russell]]’s sort. Give him a book, and he will read all
 
 day long.”
 
@@ -8559,7 +8559,7 @@ Russell would like that?”
 
 
 
-Lady Russell could not help laughing. “Upon my word,” said she, “I
+[[Lady Russell]] could not help laughing. “Upon my word,” said she, “I
 
 should not have supposed that my opinion of any one could have admitted
 
@@ -8579,13 +8579,13 @@ opinion; but I am determined not to judge him beforehand.”
 
 
 
-Lady Russell began talking of something else. Mary spoke with animation
+[[Lady Russell]] began talking of something else. Mary spoke with animation
 
 of their meeting with, or rather missing, Mr Elliot so extraordinarily.
 
 
 
-“He is a man,” said Lady Russell, “whom I have no wish to see. His
+“He is a man,” said [[Lady Russell]], “whom I have no wish to see. His
 
 declining to be on cordial terms with the head of his family, has left
 
@@ -8599,7 +8599,7 @@ midst of the Elliot countenance.
 
 
 
-With regard to Captain Wentworth, though Anne hazarded no enquiries,
+With regard to [[Captain Wentworth]], though Anne hazarded no enquiries,
 
 there was voluntary communication sufficient. His spirits had been
 
@@ -8617,29 +8617,29 @@ going away for a week or ten days, till her head was stronger. He had
 
 talked of going down to Plymouth for a week, and wanted to persuade
 
-Captain Benwick to go with him; but, as Charles maintained to the last,
+[[Captain Benwick]] to go with him; but, as Charles maintained to the last,
 
-Captain Benwick seemed much more disposed to ride over to Kellynch.
+[[Captain Benwick]] seemed much more disposed to ride over to Kellynch.
 
 
 
-There can be no doubt that Lady Russell and Anne were both occasionally
+There can be no [[Doubt|doubt]] that [[Lady Russell]] and Anne were both occasionally
 
-thinking of Captain Benwick, from this time. Lady Russell could not
+thinking of [[Captain Benwick]], from this [[Time|time]]. [[Lady Russell]] could not
 
 hear the door-bell without feeling that it might be his herald; nor
 
 could Anne return from any stroll of solitary indulgence in her
 
-father’s grounds, or any visit of charity in the village, without
+father’s grounds, or any visit of [[Charity|charity]] in the village, without
 
-wondering whether she might see him or hear of him. Captain Benwick
+wondering whether she might see him or hear of him. [[Captain Benwick]]
 
 came not, however. He was either less disposed for it than Charles had
 
 imagined, or he was too shy; and after giving him a week’s indulgence,
 
-Lady Russell determined him to be unworthy of the interest which he had
+[[Lady Russell]] determined him to be unworthy of the interest which he had
 
 been beginning to excite.
 
@@ -8657,7 +8657,7 @@ quarters.
 
 
 
-Lady Russell and Anne paid their compliments to them once, when Anne
+[[Lady Russell]] and Anne paid their compliments to them once, when Anne
 
 could not but feel that Uppercross was already quite alive again.
 
@@ -8681,13 +8681,13 @@ on the other were tressels and trays, bending under the weight of brawn
 
 and cold pies, where riotous boys were holding high revel; the whole
 
-completed by a roaring Christmas fire, which seemed determined to be
+completed by a roaring Christmas [[Fire|fire]], which seemed determined to be
 
 heard, in spite of all the noise of the others. Charles and Mary also
 
 came in, of course, during their visit, and Mr Musgrove made a point of
 
-paying his respects to Lady Russell, and sat down close to her for ten
+paying his respects to [[Lady Russell]], and sat down close to her for ten
 
 minutes, talking with a very raised voice, but from the clamour of the
 
@@ -8709,23 +8709,23 @@ she had suffered herself by observing, with a happy glance round the
 
 room, that after all she had gone through, nothing was so likely to do
 
-her good as a little quiet cheerfulness at home.
+her good as a little quiet cheerfulness at [[Home|home]].
 
 
 
 Louisa was now recovering apace. Her mother could even think of her
 
-being able to join their party at home, before her brothers and sisters
+being able to join their party at [[Home|home]], before her brothers and sisters
 
 went to school again. The Harvilles had promised to come with her and
 
-stay at Uppercross, whenever she returned. Captain Wentworth was gone,
+stay at Uppercross, whenever she returned. [[Captain Wentworth]] was gone,
 
 for the present, to see his brother in Shropshire.
 
 
 
-“I hope I shall remember, in future,” said Lady Russell, as soon as
+“I [[Hope|hope]] I shall remember, in future,” said [[Lady Russell]], as soon as
 
 they were reseated in the carriage, “not to call at Uppercross in the
 
@@ -8733,11 +8733,11 @@ Christmas holidays.”
 
 
 
-Everybody has their taste in noises as well as in other matters; and
+Everybody has their taste in noises as [[Well|well]] as in other matters; and
 
 sounds are quite innoxious, or most distressing, by their sort rather
 
-than their quantity. When Lady Russell not long afterwards, was
+than their quantity. When [[Lady Russell]] not long afterwards, was
 
 entering Bath on a wet afternoon, and driving through the long course
 
@@ -8749,7 +8749,7 @@ newspapermen, muffin-men and milkmen, and the ceaseless clink of
 
 pattens, she made no complaint. No, these were noises which belonged to
 
-the winter pleasures; her spirits rose under their influence; and like
+the [[Winter|winter]] pleasures; her spirits [[Rose|rose]] under their influence; and like
 
 Mrs Musgrove, she was feeling, though not saying, that after being long
 
@@ -8779,7 +8779,7 @@ Elizabeth’s last letter had communicated a piece of news of some
 
 interest. Mr Elliot was in Bath. He had called in Camden Place; had
 
-called a second time, a third; had been pointedly attentive. If
+called a second [[Time|time]], a third; had been pointedly attentive. If
 
 Elizabeth and her father did not deceive themselves, had been taking
 
@@ -8787,7 +8787,7 @@ much pains to seek the acquaintance, and proclaim the value of the
 
 connection, as he had formerly taken pains to shew neglect. This was
 
-very wonderful if it were true; and Lady Russell was in a state of very
+very wonderful if it were true; and [[Lady Russell]] was in a state of very
 
 agreeable curiosity and perplexity about Mr Elliot, already recanting
 
@@ -8809,7 +8809,7 @@ than she could say for many other persons in Bath.
 
 
 
-She was put down in Camden Place; and Lady Russell then drove to her
+She was put down in Camden Place; and [[Lady Russell]] then drove to her
 
 own lodgings, in Rivers Street.
 
@@ -8827,7 +8827,7 @@ CHAPTER XV.
 
 
 
-Sir Walter had taken a very good house in Camden Place, a lofty
+Sir Walter had taken a very good [[house]] in Camden Place, a lofty
 
 dignified situation, such as becomes a man of consequence; and both he
 
@@ -8835,7 +8835,7 @@ and Elizabeth were settled there, much to their satisfaction.
 
 
 
-Anne entered it with a sinking heart, anticipating an imprisonment of
+Anne entered it with a sinking heart, anticipating an [[Imprisonment|imprisonment]] of
 
 many months, and anxiously saying to herself, “Oh! when shall I leave
 
@@ -8843,7 +8843,7 @@ you again?” A degree of unexpected cordiality, however, in the welcome
 
 she received, did her good. Her father and sister were glad to see her,
 
-for the sake of shewing her the house and furniture, and met her with
+for the sake of shewing her the [[house]] and furniture, and met her with
 
 kindness. Her making a fourth, when they sat down to dinner, was
 
@@ -8875,7 +8875,7 @@ all Bath.
 
 They had the pleasure of assuring her that Bath more than answered
 
-their expectations in every respect. Their house was undoubtedly the
+their expectations in every respect. Their [[house]] was undoubtedly the
 
 best in Camden Place; their drawing-rooms had many decided advantages
 
@@ -8893,9 +8893,9 @@ of whom they knew nothing.
 
 
 
-Here were funds of enjoyment. Could Anne wonder that her father and
+Here were funds of enjoyment. Could Anne [[Wonder|wonder]] that her father and
 
-sister were happy? She might not wonder, but she must sigh that her
+sister were happy? She might not [[Wonder|wonder]], but she must sigh that her
 
 father should feel no degradation in his change, should see nothing to
 
@@ -8903,7 +8903,7 @@ regret in the duties and dignity of the resident landholder, should
 
 find so much to be vain of in the littlenesses of a town; and she must
 
-sigh, and smile, and wonder too, as Elizabeth threw open the
+sigh, and smile, and [[Wonder|wonder]] too, as Elizabeth threw open the
 
 folding-doors and walked with exultation from one drawing-room to the
 
@@ -8923,7 +8923,7 @@ pardoned, they were delighted with him. He had been in Bath about a
 
 fortnight; (he had passed through Bath in November, in his way to
 
-London, when the intelligence of Sir Walter’s being settled there had
+[[London]], when the intelligence of Sir Walter’s being settled there had
 
 of course reached him, though only twenty-four hours in the place, but
 
@@ -8965,7 +8965,7 @@ character and general conduct must refute it. He could refer Sir Walter
 
 to all who knew him; and certainly, the pains he had been taking on
 
-this, the first opportunity of reconciliation, to be restored to the
+this, the first opportunity of [[Reconciliation|reconciliation]], to be restored to the
 
 footing of a relation and heir-presumptive, was a strong proof of his
 
@@ -8973,7 +8973,7 @@ opinions on the subject.
 
 
 
-The circumstances of his marriage, too, were found to admit of much
+The circumstances of his [[Marriage|marriage]], too, were found to admit of much
 
 extenuation. This was an article not to be entered on by himself; but a
 
@@ -8987,17 +8987,17 @@ had, at his own particular request, been admitted to their acquaintance
 
 through Mr Elliot, had mentioned one or two things relative to the
 
-marriage, which made a material difference in the discredit of it.
+[[Marriage|marriage]], which made a material difference in the discredit of it.
 
 
 
-Colonel Wallis had known Mr Elliot long, had been well acquainted also
+Colonel Wallis had known Mr Elliot long, had been [[Well|well]] acquainted also
 
 with his wife, had perfectly understood the whole story. She was
 
-certainly not a woman of family, but well educated, accomplished, rich,
+certainly not a woman of family, but [[Well|well]] educated, accomplished, rich,
 
-and excessively in love with his friend. There had been the charm. She
+and excessively in [[Love|love]] with his friend. There had been the charm. She
 
 had sought him. Without that attraction, not all her money would have
 
@@ -9005,7 +9005,7 @@ tempted Elliot, and Sir Walter was, moreover, assured of her having
 
 been a very fine woman. Here was a great deal to soften the business. A
 
-very fine woman with a large fortune, in love with him! Sir Walter
+very fine woman with a large fortune, in [[Love|love]] with him! Sir Walter
 
 seemed to admit it as complete apology; and though Elizabeth could not
 
@@ -9031,13 +9031,13 @@ allowances, she knew, must be made for the ideas of those who spoke.
 
 She heard it all under embellishment. All that sounded extravagant or
 
-irrational in the progress of the reconciliation might have no origin
+irrational in the progress of the [[Reconciliation|reconciliation]] might have no origin
 
 but in the language of the relators. Still, however, she had the
 
 sensation of there being something more than immediately appeared, in
 
-Mr Elliot’s wishing, after an interval of so many years, to be well
+Mr Elliot’s wishing, after an interval of so many years, to be [[Well|well]]
 
 received by them. In a worldly view, he had nothing to gain by being on
 
@@ -9059,13 +9059,13 @@ that he could afford to please himself, he might mean to pay his
 
 addresses to her. Elizabeth was certainly very handsome, with
 
-well-bred, elegant manners, and her character might never have been
+[[Well|well]]-bred, elegant manners, and her character might never have been
 
 penetrated by Mr Elliot, knowing her but in public, and when very young
 
 himself. How her temper and understanding might bear the investigation
 
-of his present keener time of life was another concern and rather a
+of his present keener [[Time|time]] of life was another concern and rather a
 
 fearful one. Most earnestly did she wish that he might not be too nice,
 
@@ -9091,9 +9091,9 @@ especially. He did justice to his very gentlemanlike appearance, his
 
 air of elegance and fashion, his good shaped face, his sensible eye;
 
-but, at the same time, “must lament his being very much under-hung, a
+but, at the same [[Time|time]], “must lament his being very much under-hung, a
 
-defect which time seemed to have increased; nor could he pretend to say
+defect which [[Time|time]] seemed to have increased; nor could he pretend to say
 
 that ten years had not altered almost every feature for the worse. Mr
 
@@ -9143,7 +9143,7 @@ Street, he had counted eighty-seven women go by, one after another,
 
 without there being a tolerable face among them. It had been a frosty
 
-morning, to be sure, a sharp frost, which hardly one woman in a
+morning, to be sure, a sharp [[Frost|frost]], which hardly one woman in a
 
 thousand could stand the test of. But still, there certainly were a
 
@@ -9173,7 +9173,7 @@ sandy-haired.
 
 “How is Mary looking?” said Sir Walter, in the height of his good
 
-humour. “The last time I saw her she had a red nose, but I hope that
+[[Humour|humour]]. “The last [[Time|time]] I saw her she had a red nose, but I [[Hope|hope]] that
 
 may not happen every day.”
 
@@ -9197,9 +9197,9 @@ or a cap, would not be liable to any such misuse, when a knock at the
 
 door suspended everything. “A knock at the door! and so late! It was
 
-ten o’clock. Could it be Mr Elliot? They knew he was to dine in
+ten o’[[Clock|clock]]. Could it be Mr Elliot? They knew he was to dine in
 
-Lansdown Crescent. It was possible that he might stop in his way home
+Lansdown Crescent. It was possible that he might stop in his way [[Home|home]]
 
 to ask them how they did. They could think of no one else. Mrs Clay
 
@@ -9257,7 +9257,7 @@ equally good.
 
 He sat down with them, and improved their conversation very much. There
 
-could be no doubt of his being a sensible man. Ten minutes were enough
+could be no [[Doubt|doubt]] of his being a sensible man. Ten minutes were enough
 
 to certify that. His tone, his expressions, his choice of subject, his
 
@@ -9269,7 +9269,7 @@ wanting to compare opinions respecting the place, but especially
 
 wanting to speak of the circumstance of their happening to be guests in
 
-the same inn at the same time; to give his own route, understand
+the same inn at the same [[Time|time]]; to give his own route, understand
 
 something of hers, and regret that he should have lost such an
 
@@ -9283,11 +9283,11 @@ had heard voices, mirth continually; thought they must be a most
 
 delightful set of people, longed to be with them, but certainly without
 
-the smallest suspicion of his possessing the shadow of a right to
+the smallest suspicion of his possessing the [[Shadow|shadow]] of a right to
 
 introduce himself. If he had but asked who the party were! The name of
 
-Musgrove would have told him enough. “Well, it would serve to cure him
+Musgrove would have told him enough. “[[Well]], it would serve to cure him
 
 of an absurd practice of never asking a question at an inn, which he
 
@@ -9309,7 +9309,7 @@ folly of what they have in view.”
 
 
 
-But he must not be addressing his reflections to Anne alone: he knew
+But he must not be addressing his reflections to Anne [[Alone|alone]]: he knew
 
 it; he was soon diffused again among the others, and it was only at
 
@@ -9327,7 +9327,7 @@ Sir Walter and Elizabeth began to question also, but the difference in
 
 their manner of doing it could not be unfelt. She could only compare Mr
 
-Elliot to Lady Russell, in the wish of really comprehending what had
+Elliot to [[Lady Russell]], in the wish of really comprehending what had
 
 passed, and in the degree of concern for what she must have suffered in
 
@@ -9335,7 +9335,7 @@ witnessing it.
 
 
 
-He staid an hour with them. The elegant little clock on the
+He staid an hour with them. The elegant little [[Clock|clock]] on the
 
 mantel-piece had struck “eleven with its silver sounds,” and the
 
@@ -9349,7 +9349,7 @@ long.
 
 Anne could not have supposed it possible that her first evening in
 
-Camden Place could have passed so well!
+Camden Place could have passed so [[Well|well]]!
 
 
 
@@ -9367,13 +9367,13 @@ CHAPTER XVI.
 
 There was one point which Anne, on returning to her family, would have
 
-been more thankful to ascertain even than Mr Elliot’s being in love
+been more thankful to ascertain even than Mr Elliot’s being in [[Love|love]]
 
-with Elizabeth, which was, her father’s not being in love with Mrs
+with Elizabeth, which was, her father’s not being in [[Love|love]] with Mrs
 
 Clay; and she was very far from easy about it, when she had been at
 
-home a few hours. On going down to breakfast the next morning, she
+[[Home|home]] a few hours. On going down to breakfast the next morning, she
 
 found there had just been a decent pretence on the lady’s side of
 
@@ -9385,7 +9385,7 @@ for Elizabeth was replying in a sort of whisper, “That must not be any
 
 reason, indeed. I assure you I feel it none. She is nothing to me,
 
-compared with you;” and she was in full time to hear her father say,
+compared with you;” and she was in full [[Time|time]] to hear her father say,
 
 “My dear madam, this must not be. As yet, you have seen nothing of
 
@@ -9393,7 +9393,7 @@ Bath. You have been here only to be useful. You must not run away from
 
 us now. You must stay to be acquainted with Mrs Wallis, the beautiful
 
-Mrs Wallis. To your fine mind, I well know the sight of beauty is a
+Mrs Wallis. To your fine mind, I [[Well|well]] know the sight of [[Beauty|beauty]] is a
 
 real gratification.”
 
@@ -9413,7 +9413,7 @@ lady could not but yield to such joint entreaties, and promise to stay.
 
 In the course of the same morning, Anne and her father chancing to be
 
-alone together, he began to compliment her on her improved looks; he
+[[Alone|alone]] together, he began to compliment her on her improved looks; he
 
 thought her “less thin in her person, in her cheeks; her skin, her
 
@@ -9425,9 +9425,9 @@ thing in particular?” “No, nothing.” “Merely Gowland,” he supposed.
 
 “certainly you cannot do better than to continue as you are; you cannot
 
-be better than well; or I should recommend Gowland, the constant use of
+be better than [[Well|well]]; or I should recommend Gowland, the constant use of
 
-Gowland, during the spring months. Mrs Clay has been using it at my
+Gowland, during the [[spring]] months. Mrs Clay has been using it at my
 
 recommendation, and you see what it has done for her. You see how it
 
@@ -9441,13 +9441,13 @@ struck her, especially as it did not appear to Anne that the freckles
 
 were at all lessened. But everything must take its chance. The evil of
 
-a marriage would be much diminished, if Elizabeth were also to marry.
+a [[Marriage|marriage]] would be much diminished, if Elizabeth were also to marry.
 
-As for herself, she might always command a home with Lady Russell.
+As for herself, she might always command a [[Home|home]] with [[Lady Russell]].
 
 
 
-Lady Russell’s composed mind and polite manners were put to some trial
+[[Lady Russell]]’s composed mind and polite manners were put to some trial
 
 on this point, in her intercourse in Camden Place. The sight of Mrs
 
@@ -9455,9 +9455,9 @@ Clay in such favour, and of Anne so overlooked, was a perpetual
 
 provocation to her there; and vexed her as much when she was away, as a
 
-person in Bath who drinks the water, gets all the new publications, and
+person in Bath who drinks the [[Water|water]], gets all the new publications, and
 
-has a very large acquaintance, has time to be vexed.
+has a very large acquaintance, has [[Time|time]] to be vexed.
 
 
 
@@ -9477,7 +9477,7 @@ Everything united in him; good understanding, correct opinions,
 
 knowledge of the world, and a warm heart. He had strong feelings of
 
-family attachment and family honour, without pride or weakness; he
+family attachment and family [[Honour|honour]], without [[Pride|pride]] or weakness; he
 
 lived with the liberality of a man of fortune, without display; he
 
@@ -9495,7 +9495,7 @@ domestic life, which characters of fancied enthusiasm and violent
 
 agitation seldom really possess. She was sure that he had not been
 
-happy in marriage. Colonel Wallis said it, and Lady Russell saw it; but
+happy in [[Marriage|marriage]]. Colonel Wallis said it, and [[Lady Russell]] saw it; but
 
 it had been no unhappiness to sour his mind, nor (she began pretty soon
 
@@ -9509,27 +9509,27 @@ It was now some years since Anne had begun to learn that she and her
 
 excellent friend could sometimes think differently; and it did not
 
-surprise her, therefore, that Lady Russell should see nothing
+surprise her, therefore, that [[Lady Russell]] should see nothing
 
 suspicious or inconsistent, nothing to require more motives than
 
-appeared, in Mr Elliot’s great desire of a reconciliation. In Lady
+appeared, in Mr Elliot’s great [[Desire|desire]] of a [[Reconciliation|reconciliation]]. In Lady
 
 Russell’s view, it was perfectly natural that Mr Elliot, at a mature
 
-time of life, should feel it a most desirable object, and what would
+[[Time|time]] of life, should feel it a most desirable object, and what would
 
 very generally recommend him among all sensible people, to be on good
 
 terms with the head of his family; the simplest process in the world of
 
-time upon a head naturally clear, and only erring in the heyday of
+[[Time|time]] upon a head naturally clear, and only erring in the heyday of
 
 youth. Anne presumed, however, still to smile about it, and at last to
 
-mention “Elizabeth.” Lady Russell listened, and looked, and made only
+mention “Elizabeth.” [[Lady Russell]] listened, and looked, and made only
 
-this cautious reply:—“Elizabeth! very well; time will explain.”
+this cautious reply:—“Elizabeth! very [[Well|well]]; [[Time|time]] will explain.”
 
 
 
@@ -9537,7 +9537,7 @@ It was a reference to the future, which Anne, after a little
 
 observation, felt she must submit to. She could determine nothing at
 
-present. In that house Elizabeth must be first; and she was in the
+present. In that [[house]] Elizabeth must be first; and she was in the
 
 habit of such general observance as “Miss Elliot,” that any
 
@@ -9549,7 +9549,7 @@ on his side might be very excusable. In fact, Anne could never see the
 
 crape round his hat, without fearing that she was the inexcusable one,
 
-in attributing to him such imaginations; for though his marriage had
+in attributing to him such imaginations; for though his [[Marriage|marriage]] had
 
 not been very happy, still it had existed so many years that she could
 
@@ -9571,7 +9571,7 @@ They went through the particulars of their first meeting a great many
 
 times. He gave her to understand that he had looked at her with some
 
-earnestness. She knew it well; and she remembered another person’s look
+earnestness. She knew it [[Well|well]]; and she remembered another person’s look
 
 also.
 
@@ -9607,7 +9607,7 @@ better things from their high ideas of their own situation in life, and
 
 was reduced to form a wish which she had never foreseen; a wish that
 
-they had more pride; for “our cousins Lady Dalrymple and Miss
+they had more [[Pride|pride]]; for “our cousins Lady Dalrymple and Miss
 
 Carteret;” “our cousins, the Dalrymples,” sounded in her ears all day
 
@@ -9621,11 +9621,11 @@ never seen any of the rest of the family; and the difficulties of the
 
 case arose from there having been a suspension of all intercourse by
 
-letters of ceremony, ever since the death of that said late viscount,
+letters of ceremony, ever since the [[Death|death]] of that said late viscount,
 
 when, in consequence of a dangerous illness of Sir Walter’s at the same
 
-time, there had been an unlucky omission at Kellynch. No letter of
+[[Time|time]], there had been an unlucky omission at Kellynch. No letter of
 
 condolence had been sent to Ireland. The neglect had been visited on
 
@@ -9639,15 +9639,15 @@ relationship as closed. How to have this anxious business set to
 
 rights, and be admitted as cousins again, was the question: and it was
 
-a question which, in a more rational manner, neither Lady Russell nor
+a question which, in a more rational manner, neither [[Lady Russell]] nor
 
 Mr Elliot thought unimportant. “Family connexions were always worth
 
 preserving, good company always worth seeking; Lady Dalrymple had taken
 
-a house, for three months, in Laura Place, and would be living in
+a [[house]], for three months, in Laura Place, and would be living in
 
-style. She had been at Bath the year before, and Lady Russell had heard
+style. She had been at Bath the year before, and [[Lady Russell]] had heard
 
 her spoken of as a charming woman. It was very desirable that the
 
@@ -9661,7 +9661,7 @@ Sir Walter, however, would choose his own means, and at last wrote a
 
 very fine letter of ample explanation, regret, and entreaty, to his
 
-right honourable cousin. Neither Lady Russell nor Mr Elliot could
+right honourable cousin. Neither [[Lady Russell]] nor Mr Elliot could
 
 admire the letter; but it did all that was wanted, in bringing three
 
@@ -9699,7 +9699,7 @@ for her birth.
 
 
 
-Lady Russell confessed she had expected something better; but yet “it
+[[Lady Russell]] confessed she had expected something better; but yet “it
 
 was an acquaintance worth having;” and when Anne ventured to speak her
 
@@ -9715,7 +9715,7 @@ their value. Anne smiled and said,
 
 “My idea of good company, Mr Elliot, is the company of clever,
 
-well-informed people, who have a great deal of conversation; that is
+[[Well|well]]-informed people, who have a great deal of conversation; that is
 
 what I call good company.”
 
@@ -9723,13 +9723,13 @@ what I call good company.”
 
 “You are mistaken,” said he gently, “that is not good company; that is
 
-the best. Good company requires only birth, education, and manners, and
+the best. Good company requires only birth, [[Education|education]], and manners, and
 
-with regard to education is not very nice. Birth and good manners are
+with regard to [[Education|education]] is not very nice. Birth and good manners are
 
 essential; but a little learning is by no means a dangerous thing in
 
-good company; on the contrary, it will do very well. My cousin Anne
+good company; on the contrary, it will do very [[Well|well]]. My cousin Anne
 
 shakes her head. She is not satisfied. She is fastidious. My dear
 
@@ -9743,7 +9743,7 @@ good ladies in Laura Place, and enjoy all the advantages of the
 
 connexion as far as possible? You may depend upon it, that they will
 
-move in the first set in Bath this winter, and as rank is rank, your
+move in the first set in Bath this [[Winter|winter]], and as rank is rank, your
 
 being known to be related to them will have its use in fixing your
 
@@ -9759,7 +9759,7 @@ then recollecting herself, and not wishing to be answered, she added,
 
 “I certainly do think there has been by far too much trouble taken to
 
-procure the acquaintance. I suppose” (smiling) “I have more pride than
+procure the acquaintance. I suppose” (smiling) “I have more [[Pride|pride]] than
 
 any of you; but I confess it does vex me, that we should be so
 
@@ -9769,33 +9769,33 @@ sure is a matter of perfect indifference to them.”
 
 
 
-“Pardon me, dear cousin, you are unjust in your own claims. In London,
+“Pardon me, dear cousin, you are unjust in your own claims. In [[London]],
 
 perhaps, in your present quiet style of living, it might be as you say:
 
-but in Bath; Sir Walter Elliot and his family will always be worth
+but in Bath; [[Sir Walter Elliot]] and his family will always be worth
 
 knowing: always acceptable as acquaintance.”
 
 
 
-“Well,” said Anne, “I certainly am proud, too proud to enjoy a welcome
+“[[Well]],” said Anne, “I certainly am proud, too proud to enjoy a welcome
 
 which depends so entirely upon place.”
 
 
 
-“I love your indignation,” said he; “it is very natural. But here you
+“I [[Love|love]] your indignation,” said he; “it is very natural. But here you
 
 are in Bath, and the object is to be established here with all the
 
-credit and dignity which ought to belong to Sir Walter Elliot. You talk
+credit and dignity which ought to belong to [[Sir Walter Elliot]]. You talk
 
 of being proud; I am called proud, I know, and I shall not wish to
 
-believe myself otherwise; for our pride, if investigated, would have
+believe myself otherwise; for our [[Pride|pride]], if investigated, would have
 
-the same object, I have no doubt, though the kind may seem a little
+the same object, I have no [[Doubt|doubt]], though the kind may seem a little
 
 different. In one point, I am sure, my dear cousin,” (he continued,
 
@@ -9813,9 +9813,9 @@ He looked, as he spoke, to the seat which Mrs Clay had been lately
 
 occupying: a sufficient explanation of what he particularly meant; and
 
-though Anne could not believe in their having the same sort of pride,
+though Anne could not believe in their having the same sort of [[Pride|pride]],
 
-she was pleased with him for not liking Mrs Clay; and her conscience
+she was pleased with him for not liking Mrs Clay; and her [[Conscience|conscience]]
 
 admitted that his wishing to promote her father’s getting great
 
@@ -9847,21 +9847,21 @@ She had called on her former governess, and had heard from her of there
 
 being an old schoolfellow in Bath, who had the two strong claims on
 
-her attention of past kindness and present suffering. Miss Hamilton,
+her attention of past kindness and present [[Suffering|suffering]]. Miss Hamilton,
 
-now Mrs Smith, had shewn her kindness in one of those periods of her
+now Mrs [[smith|Smith]], had shewn her kindness in one of those periods of her
 
 life when it had been most valuable. Anne had gone unhappy to school,
 
 grieving for the loss of a mother whom she had dearly loved, feeling
 
-her separation from home, and suffering as a girl of fourteen, of
+her separation from [[Home|home]], and [[Suffering|suffering]] as a girl of fourteen, of
 
-strong sensibility and not high spirits, must suffer at such a time;
+strong sensibility and not high spirits, must suffer at such a [[Time|time]];
 
 and Miss Hamilton, three years older than herself, but still from the
 
-want of near relations and a settled home, remaining another year at
+want of near relations and a settled [[Home|home]], remaining another year at
 
 school, had been useful and good to her in a way which had considerably
 
@@ -9881,7 +9881,7 @@ situation forward in a more decided but very different form.
 
 She was a widow and poor. Her husband had been extravagant; and at his
 
-death, about two years before, had left his affairs dreadfully
+[[Death|death]], about two years before, had left his affairs dreadfully
 
 involved. She had had difficulties of every sort to contend with, and
 
@@ -9901,15 +9901,15 @@ excluded from society.
 
 Their mutual friend answered for the satisfaction which a visit from
 
-Miss Elliot would give Mrs Smith, and Anne therefore lost no time in
+Miss Elliot would give Mrs [[smith|Smith]], and Anne therefore lost no [[Time|time]] in
 
 going. She mentioned nothing of what she had heard, or what she
 
-intended, at home. It would excite no proper interest there. She only
+intended, at [[Home|home]]. It would excite no proper interest there. She only
 
-consulted Lady Russell, who entered thoroughly into her sentiments, and
+consulted [[Lady Russell]], who entered thoroughly into her sentiments, and
 
-was most happy to convey her as near to Mrs Smith’s lodgings in
+was most happy to convey her as near to Mrs [[smith|Smith]]’s lodgings in
 
 Westgate Buildings, as Anne chose to be taken.
 
@@ -9927,11 +9927,11 @@ other had imagined. Twelve years had changed Anne from the blooming,
 
 silent, unformed girl of fifteen, to the elegant little woman of
 
-seven-and-twenty, with every beauty except bloom, and with manners as
+seven-and-twenty, with every [[Beauty|beauty]] except bloom, and with manners as
 
 consciously right as they were invariably gentle; and twelve years had
 
-transformed the fine-looking, well-grown Miss Hamilton, in all the glow
+transformed the fine-looking, [[Well|well]]-grown Miss Hamilton, in all the glow
 
 of health and confidence of superiority, into a poor, infirm, helpless
 
@@ -9945,7 +9945,7 @@ talking over old times.
 
 
 
-Anne found in Mrs Smith the good sense and agreeable manners which she
+Anne found in Mrs [[smith|Smith]] the good sense and agreeable manners which she
 
 had almost ventured to depend on, and a disposition to converse and be
 
@@ -9963,11 +9963,11 @@ In the course of a second visit she talked with great openness, and
 
 Anne’s astonishment increased. She could scarcely imagine a more
 
-cheerless situation in itself than Mrs Smith’s. She had been very fond
+cheerless situation in itself than Mrs [[smith|Smith]]’s. She had been very fond
 
 of her husband: she had buried him. She had been used to affluence: it
 
-was gone. She had no child to connect her with life and happiness
+was gone. She had no [[Child|child]] to connect her with life and happiness
 
 again, no relations to assist in the arrangement of perplexed affairs,
 
@@ -9977,9 +9977,9 @@ limited to a noisy parlour, and a dark bedroom behind, with no
 
 possibility of moving from one to the other without assistance, which
 
-there was only one servant in the house to afford, and she never
+there was only one servant in the [[house]] to afford, and she never
 
-quitted the house but to be conveyed into the warm bath. Yet, in spite
+quitted the [[house]] but to be conveyed into the warm bath. Yet, in spite
 
 of all this, Anne had reason to believe that she had moments only of
 
@@ -9987,7 +9987,7 @@ languor and depression, to hours of occupation and enjoyment. How could
 
 it be? She watched, observed, reflected, and finally determined that
 
-this was not a case of fortitude or of resignation only. A submissive
+this was not a case of fortitude or of [[Resignation|resignation]] only. A submissive
 
 spirit might be patient, a strong understanding would supply
 
@@ -9997,7 +9997,7 @@ mind, that disposition to be comforted, that power of turning readily
 
 from evil to good, and of finding employment which carried her out of
 
-herself, which was from nature alone. It was the choicest gift of
+herself, which was from [[Nature|nature]] [[Alone|alone]]. It was the choicest gift of
 
 Heaven; and Anne viewed her friend as one of those instances in which,
 
@@ -10007,19 +10007,19 @@ every other want.
 
 
 
-There had been a time, Mrs Smith told her, when her spirits had nearly
+There had been a [[Time|time]], Mrs [[smith|Smith]] told her, when her spirits had nearly
 
 failed. She could not call herself an invalid now, compared with her
 
 state on first reaching Bath. Then she had, indeed, been a pitiable
 
-object; for she had caught cold on the journey, and had hardly taken
+object; for she had caught cold on the [[Journey|journey]], and had hardly taken
 
 possession of her lodgings before she was again confined to her bed and
 
-suffering under severe and constant pain; and all this among strangers,
+[[Suffering|suffering]] under severe and constant [[Pain|pain]]; and all this among strangers,
 
-with the absolute necessity of having a regular nurse, and finances at
+with the absolute necessity of having a regular [[Nurse|nurse]], and finances at
 
 that moment particularly unfit to meet any extraordinary expense. She
 
@@ -10033,13 +10033,13 @@ disinterested attachment anywhere, but her illness had proved to her
 
 that her landlady had a character to preserve, and would not use her
 
-ill; and she had been particularly fortunate in her nurse, as a sister
+ill; and she had been particularly fortunate in her [[Nurse|nurse]], as a sister
 
-of her landlady, a nurse by profession, and who had always a home in
+of her landlady, a [[Nurse|nurse]] by profession, and who had always a [[Home|home]] in
 
-that house when unemployed, chanced to be at liberty just in time to
+that [[house]] when unemployed, chanced to be at liberty just in [[Time|time]] to
 
-attend her. “And she,” said Mrs Smith, “besides nursing me most
+attend her. “And she,” said Mrs [[smith|Smith]], “besides nursing me most
 
 admirably, has really proved an invaluable acquaintance. As soon as I
 
@@ -10057,21 +10057,21 @@ acquaintance, of course professionally, among those who can afford to
 
 buy, and she disposes of my merchandise. She always takes the right
 
-time for applying. Everybody’s heart is open, you know, when they have
+[[Time|time]] for applying. Everybody’s heart is open, you know, when they have
 
-recently escaped from severe pain, or are recovering the blessing of
+recently escaped from severe [[Pain|pain]], or are recovering the blessing of
 
-health, and Nurse Rooke thoroughly understands when to speak. She is a
+health, and [[Nurse]] Rooke thoroughly understands when to speak. She is a
 
 shrewd, intelligent, sensible woman. Hers is a line for seeing human
 
-nature; and she has a fund of good sense and observation, which, as a
+[[Nature|nature]]; and she has a fund of good sense and observation, which, as a
 
 companion, make her infinitely superior to thousands of those who
 
-having only received ‘the best education in the world,’ know nothing
+having only received ‘the best [[Education|education]] in the world,’ know nothing
 
-worth attending to. Call it gossip, if you will, but when Nurse Rooke
+worth attending to. Call it gossip, if you will, but when [[Nurse]] Rooke
 
 has half an hour’s leisure to bestow on me, she is sure to have
 
@@ -10081,7 +10081,7 @@ makes one know one’s species better. One likes to hear what is going
 
 on, to be _au fait_ as to the newest modes of being trifling and silly.
 
-To me, who live so much alone, her conversation, I assure you, is a
+To me, who live so much [[Alone|alone]], her conversation, I assure you, is a
 
 treat.”
 
@@ -10091,17 +10091,17 @@ Anne, far from wishing to cavil at the pleasure, replied, “I can easily
 
 believe it. Women of that class have great opportunities, and if they
 
-are intelligent may be well worth listening to. Such varieties of human
+are intelligent may be [[Well|well]] worth listening to. Such varieties of human
 
-nature as they are in the habit of witnessing! And it is not merely in
+[[Nature|nature]] as they are in the habit of witnessing! And it is not merely in
 
-its follies, that they are well read; for they see it occasionally
+its follies, that they are [[Well|well]] read; for they see it occasionally
 
 under every circumstance that can be most interesting or affecting.
 
 What instances must pass before them of ardent, disinterested,
 
-self-denying attachment, of heroism, fortitude, patience, resignation:
+[[Self|self]]-denying attachment, of [[Heroism|heroism]], fortitude, patience, [[Resignation|resignation]]:
 
 of all the conflicts and all the sacrifices that ennoble us most. A
 
@@ -10109,17 +10109,17 @@ sick chamber may often furnish the worth of volumes.”
 
 
 
-“Yes,” said Mrs Smith more doubtingly, “sometimes it may, though I fear
+“Yes,” said Mrs [[smith|Smith]] more doubtingly, “sometimes it may, though I [[Fear|fear]]
 
 its lessons are not often in the elevated style you describe. Here and
 
-there, human nature may be great in times of trial; but generally
+there, human [[Nature|nature]] may be great in times of trial; but generally
 
 speaking, it is its weakness and not its strength that appears in a
 
 sick chamber: it is selfishness and impatience rather than generosity
 
-and fortitude, that one hears of. There is so little real friendship in
+and fortitude, that one hears of. There is so little real [[Friendship|friendship]] in
 
 the world! and unfortunately” (speaking low and tremulously) “there are
 
@@ -10133,7 +10133,7 @@ ought, and the wife had been led among that part of mankind which made
 
 her think worse of the world than she hoped it deserved. It was but a
 
-passing emotion however with Mrs Smith; she shook it off, and soon
+passing emotion however with Mrs [[smith|Smith]]; she shook it off, and soon
 
 added in a different tone—
 
@@ -10169,7 +10169,7 @@ evening in Westgate Buildings. She was not sorry for the excuse. They
 
 were only asked, she was sure, because Lady Dalrymple being kept at
 
-home by a bad cold, was glad to make use of the relationship which had
+[[Home|home]] by a bad cold, was glad to make use of the relationship which had
 
 been so pressed on her; and she declined on her own account with great
 
@@ -10185,15 +10185,15 @@ disdainful, and Sir Walter severe.
 
 
 
-“Westgate Buildings!” said he, “and who is Miss Anne Elliot to be
+“Westgate Buildings!” said he, “and who is Miss [[Anne Elliot]] to be
 
-visiting in Westgate Buildings? A Mrs Smith. A widow Mrs Smith; and who
+visiting in Westgate Buildings? A Mrs [[smith|Smith]]. A widow Mrs [[smith|Smith]]; and who
 
 was her husband? One of five thousand Mr Smiths whose names are to be
 
 met with everywhere. And what is her attraction? That she is old and
 
-sickly. Upon my word, Miss Anne Elliot, you have the most extraordinary
+sickly. Upon my word, Miss [[Anne Elliot]], you have the most extraordinary
 
 taste! Everything that revolts other people, low company, paltry rooms,
 
@@ -10201,7 +10201,7 @@ foul air, disgusting associations are inviting to you. But surely you
 
 may put off this old lady till to-morrow: she is not so near her end, I
 
-presume, but that she may hope to see another day. What is her age?
+presume, but that she may [[Hope|hope]] to see another day. What is her age?
 
 Forty?”
 
@@ -10209,7 +10209,7 @@ Forty?”
 
 “No, sir, she is not one-and-thirty; but I do not think I can put off
 
-my engagement, because it is the only evening for some time which will
+my engagement, because it is the only evening for some [[Time|time]] which will
 
 at once suit her and myself. She goes into the warm bath to-morrow, and
 
@@ -10217,7 +10217,7 @@ for the rest of the week, you know, we are engaged.”
 
 
 
-“But what does Lady Russell think of this acquaintance?” asked
+“But what does [[Lady Russell]] think of this acquaintance?” asked
 
 Elizabeth.
 
@@ -10227,7 +10227,7 @@ Elizabeth.
 
 approves it, and has generally taken me when I have called on Mrs
 
-Smith.”
+[[smith|Smith]].”
 
 
 
@@ -10237,19 +10237,19 @@ of a carriage drawn up near its pavement,” observed Sir Walter. “Sir
 
 Henry Russell’s widow, indeed, has no honours to distinguish her arms,
 
-but still it is a handsome equipage, and no doubt is well known to
+but still it is a handsome equipage, and no [[Doubt|doubt]] is [[Well|well]] known to
 
-convey a Miss Elliot. A widow Mrs Smith lodging in Westgate Buildings!
+convey a Miss Elliot. A widow Mrs [[smith|Smith]] lodging in Westgate Buildings!
 
 A poor widow barely able to live, between thirty and forty; a mere Mrs
 
-Smith, an every-day Mrs Smith, of all people and all names in the
+[[smith|Smith]], an every-day Mrs [[smith|Smith]], of all people and all names in the
 
-world, to be the chosen friend of Miss Anne Elliot, and to be preferred
+world, to be the chosen friend of Miss [[Anne Elliot]], and to be preferred
 
 by her to her own family connections among the nobility of England and
 
-Ireland! Mrs Smith! Such a name!”
+Ireland! Mrs [[smith|Smith]]! Such a name!”
 
 
 
@@ -10263,7 +10263,7 @@ claims to theirs, but her sense of personal respect to her father
 
 prevented her. She made no reply. She left it to himself to recollect,
 
-that Mrs Smith was not the only widow in Bath between thirty and forty,
+that Mrs [[smith|Smith]] was not the only widow in Bath between thirty and forty,
 
 with little to live on, and no surname of dignity.
 
@@ -10279,19 +10279,19 @@ not only been quite at her ladyship’s service themselves, but had
 
 actually been happy to be employed by her in collecting others, and had
 
-been at the trouble of inviting both Lady Russell and Mr Elliot; and Mr
+been at the trouble of inviting both [[Lady Russell]] and Mr Elliot; and Mr
 
 Elliot had made a point of leaving Colonel Wallis early, and Lady
 
 Russell had fresh arranged all her evening engagements in order to wait
 
-on her. Anne had the whole history of all that such an evening could
+on her. Anne had the whole [[history]] of all that such an evening could
 
-supply from Lady Russell. To her, its greatest interest must be, in
+supply from [[Lady Russell]]. To her, its greatest interest must be, in
 
 having been very much talked of between her friend and Mr Elliot; in
 
-having been wished for, regretted, and at the same time honoured for
+having been wished for, regretted, and at the same [[Time|time]] honoured for
 
 staying away in such a cause. Her kind, compassionate visits to this
 
@@ -10311,9 +10311,9 @@ sensations which her friend meant to create.
 
 
 
-Lady Russell was now perfectly decided in her opinion of Mr Elliot. She
+[[Lady Russell]] was now perfectly decided in her opinion of Mr Elliot. She
 
-was as much convinced of his meaning to gain Anne in time as of his
+was as much convinced of his meaning to gain Anne in [[Time|time]] as of his
 
 deserving her, and was beginning to calculate the number of weeks which
 
@@ -10335,11 +10335,11 @@ blushed, and gently shook her head.
 
 
 
-“I am no match-maker, as you well know,” said Lady Russell, “being much
+“I am no match-maker, as you [[Well|well]] know,” said [[Lady Russell]], “being much
 
-too well aware of the uncertainty of all human events and calculations.
+too [[Well|well]] aware of the uncertainty of all human events and calculations.
 
-I only mean that if Mr Elliot should some time hence pay his addresses
+I only mean that if Mr Elliot should some [[Time|time]] hence pay his addresses
 
 to you, and if you should be disposed to accept him, I think there
 
@@ -10357,25 +10357,25 @@ think highly of him,” said Anne; “but we should not suit.”
 
 
 
-Lady Russell let this pass, and only said in rejoinder, “I own that to
+[[Lady Russell]] let this pass, and only said in rejoinder, “I own that to
 
 be able to regard you as the future mistress of Kellynch, the future
 
 Lady Elliot, to look forward and see you occupying your dear mother’s
 
-place, succeeding to all her rights, and all her popularity, as well as
+place, succeeding to all her rights, and all her popularity, as [[Well|well]] as
 
 to all her virtues, would be the highest possible gratification to me.
 
-You are your mother’s self in countenance and disposition; and if I
+You are your mother’s [[Self|self]] in countenance and disposition; and if I
 
 might be allowed to fancy you such as she was, in situation and name,
 
-and home, presiding and blessing in the same spot, and only superior to
+and [[Home|home]], presiding and blessing in the same spot, and only superior to
 
 her in being more highly valued! My dearest Anne, it would give me more
 
-delight than is often felt at my time of life!”
+delight than is often felt at my [[Time|time]] of life!”
 
 
 
@@ -10383,15 +10383,15 @@ Anne was obliged to turn away, to rise, to walk to a distant table,
 
 and, leaning there in pretended employment, try to subdue the feelings
 
-this picture excited. For a few moments her imagination and her heart
+this picture excited. For a few moments her [[Imagination|imagination]] and her heart
 
 were bewitched. The idea of becoming what her mother had been; of
 
 having the precious name of “Lady Elliot” first revived in herself; of
 
-being restored to Kellynch, calling it her home again, her home for
+being restored to Kellynch, calling it her [[Home|home]] again, her [[Home|home]] for
 
-ever, was a charm which she could not immediately resist. Lady Russell
+ever, was a charm which she could not immediately resist. [[Lady Russell]]
 
 said not another word, willing to leave the matter to its own
 
@@ -10417,7 +10417,7 @@ Though they had now been acquainted a month, she could not be satisfied
 
 that she really knew his character. That he was a sensible man, an
 
-agreeable man, that he talked well, professed good opinions, seemed to
+agreeable man, that he talked [[Well|well]], professed good opinions, seemed to
 
 judge properly and as a man of principle, this was all clear enough. He
 
@@ -10433,7 +10433,7 @@ to former practices and pursuits, suggested suspicions not favourable
 
 of what he had been. She saw that there had been bad habits; that
 
-Sunday travelling had been a common thing; that there had been a period
+[[Sunday]] travelling had been a common thing; that there had been a period
 
 of his life (and probably not a short one) when he had been, at least,
 
@@ -10469,27 +10469,27 @@ varied, whose tongue never slipped.
 
 Mr Elliot was too generally agreeable. Various as were the tempers in
 
-her father’s house, he pleased them all. He endured too well, stood too
+her father’s [[house]], he pleased them all. He endured too [[Well|well]], stood too
 
-well with every body. He had spoken to her with some degree of openness
+[[Well|well]] with every [[Body|body]]. He had spoken to her with some degree of openness
 
 of Mrs Clay; had appeared completely to see what Mrs Clay was about,
 
 and to hold her in contempt; and yet Mrs Clay found him as agreeable as
 
-any body.
+any [[Body|body]].
 
 
 
-Lady Russell saw either less or more than her young friend, for she saw
+[[Lady Russell]] saw either less or more than her young friend, for she saw
 
 nothing to excite distrust. She could not imagine a man more exactly
 
 what he ought to be than Mr Elliot; nor did she ever enjoy a sweeter
 
-feeling than the hope of seeing him receive the hand of her beloved
+feeling than the [[Hope|hope]] of seeing him receive the hand of her beloved
 
-Anne in Kellynch church, in the course of the following autumn.
+Anne in Kellynch church, in the course of the following [[Autumn|autumn]].
 
 
 
@@ -10511,7 +10511,7 @@ Bath, was growing very eager for news from Uppercross and Lyme. She
 
 wanted to hear much more than Mary had communicated. It was three weeks
 
-since she had heard at all. She only knew that Henrietta was at home
+since she had heard at all. She only knew that Henrietta was at [[Home|home]]
 
 again; and that Louisa, though considered to be recovering fast, was
 
@@ -10543,7 +10543,7 @@ Crofts who rent Kellynch? What have they brought you?”
 
 “Oh! those letters are convenient passports. They secure an
 
-introduction. I should have visited Admiral Croft, however, at any
+introduction. I should have visited [[Admiral Croft]], however, at any
 
 rate. I know what is due to my tenant.”
 
@@ -10567,11 +10567,11 @@ begun several days back.
 
 
 
-I make no apology for my silence, because I know how little people
+I make no apology for my [[Silence|silence]], because I know how little people
 
 think of letters in such a place as Bath. You must be a great deal too
 
-happy to care for Uppercross, which, as you well know, affords little
+happy to care for Uppercross, which, as you [[Well|well]] know, affords little
 
 to write about. We have had a very dull Christmas; Mr and Mrs Musgrove
 
@@ -10579,17 +10579,17 @@ have not had one dinner party all the holidays. I do not reckon the
 
 Hayters as anybody. The holidays, however, are over at last: I believe
 
-no children ever had such long ones. I am sure I had not. The house was
+no children ever had such long ones. I am sure I had not. The [[house]] was
 
 cleared yesterday, except of the little Harvilles; but you will be
 
-surprised to hear they have never gone home. Mrs Harville must be an
+surprised to hear they have never gone [[Home|home]]. Mrs Harville must be an
 
 odd mother to part with them so long. I do not understand it. They are
 
 not at all nice children, in my opinion; but Mrs Musgrove seems to like
 
-them quite as well, if not better, than her grandchildren. What
+them quite as [[Well|well]], if not better, than her grandchildren. What
 
 dreadful weather we have had! It may not be felt in Bath, with your
 
@@ -10607,7 +10607,7 @@ The carriage is gone to-day, to bring Louisa and the Harvilles
 
 to-morrow. We are not asked to dine with them, however, till the day
 
-after, Mrs Musgrove is so afraid of her being fatigued by the journey,
+after, Mrs Musgrove is so afraid of her being fatigued by the [[Journey|journey]],
 
 which is not very likely, considering the care that will be taken of
 
@@ -10619,7 +10619,7 @@ be acquainted with him too; but I have my usual luck: I am always out
 
 of the way when any thing desirable is going on; always the last of my
 
-family to be noticed. What an immense time Mrs Clay has been staying
+family to be noticed. What an immense [[Time|time]] Mrs Clay has been staying
 
 with Elizabeth! Does she never mean to go away? But perhaps if she were
 
@@ -10627,7 +10627,7 @@ to leave the room vacant, we might not be invited. Let me know what you
 
 think of this. I do not expect my children to be asked, you know. I can
 
-leave them at the Great House very well, for a month or six weeks. I
+leave them at the [[Great House]] very [[Well|well]], for a month or six weeks. I
 
 have this moment heard that the Crofts are going to Bath almost
 
@@ -10639,7 +10639,7 @@ offering to take anything. I do not think they improve at all as
 
 neighbours. We see nothing of them, and this is really an instance of
 
-gross inattention. Charles joins me in love, and everything proper.
+gross inattention. Charles joins me in [[Love|love]], and everything proper.
 
 Yours affectionately,
 
@@ -10649,7 +10649,7 @@ Yours affectionately,
 
 
 
-“I am sorry to say that I am very far from well; and Jemima has just
+“I am sorry to say that I am very far from [[Well|well]]; and Jemima has just
 
 told me that the butcher says there is a bad sore-throat very much
 
@@ -10669,7 +10669,7 @@ envelope, containing nearly as much more.
 
 “I kept my letter open, that I might send you word how Louisa bore her
 
-journey, and now I am extremely glad I did, having a great deal to add.
+[[Journey|journey]], and now I am extremely glad I did, having a great deal to add.
 
 In the first place, I had a note from Mrs Croft yesterday, offering to
 
@@ -10679,7 +10679,7 @@ me, just as it ought; I shall therefore be able to make my letter as
 
 long as I like. The Admiral does not seem very ill, and I sincerely
 
-hope Bath will do him all the good he wants. I shall be truly glad to
+[[Hope|hope]] Bath will do him all the good he wants. I shall be truly glad to
 
 have them back again. Our neighbourhood cannot spare such a pleasant
 
@@ -10689,11 +10689,11 @@ astonish you not a little. She and the Harvilles came on Tuesday very
 
 safely, and in the evening we went to ask her how she did, when we were
 
-rather surprised not to find Captain Benwick of the party, for he had
+rather surprised not to find [[Captain Benwick]] of the party, for he had
 
-been invited as well as the Harvilles; and what do you think was the
+been invited as [[Well|well]] as the Harvilles; and what do you think was the
 
-reason? Neither more nor less than his being in love with Louisa, and
+reason? Neither more nor less than his being in [[Love|love]] with Louisa, and
 
 not choosing to venture to Uppercross till he had had an answer from Mr
 
@@ -10701,33 +10701,33 @@ Musgrove; for it was all settled between him and her before she came
 
 away, and he had written to her father by Captain Harville. True, upon
 
-my honour! Are not you astonished? I shall be surprised at least if you
+my [[Honour|honour]]! Are not you astonished? I shall be surprised at least if you
 
 ever received a hint of it, for I never did. Mrs Musgrove protests
 
-solemnly that she knew nothing of the matter. We are all very well
+solemnly that she knew nothing of the matter. We are all very [[Well|well]]
 
 pleased, however, for though it is not equal to her marrying Captain
 
 Wentworth, it is infinitely better than Charles Hayter; and Mr Musgrove
 
-has written his consent, and Captain Benwick is expected to-day. Mrs
+has written his consent, and [[Captain Benwick]] is expected to-day. Mrs
 
 Harville says her husband feels a good deal on his poor sister’s
 
 account; but, however, Louisa is a great favourite with both. Indeed,
 
-Mrs Harville and I quite agree that we love her the better for having
+Mrs Harville and I quite agree that we [[Love|love]] her the better for having
 
-nursed her. Charles wonders what Captain Wentworth will say; but if you
+nursed her. Charles wonders what [[Captain Wentworth]] will say; but if you
 
 remember, I never thought him attached to Louisa; I never could see
 
-anything of it. And this is the end, you see, of Captain Benwick’s
+anything of it. And this is the end, you see, of [[Captain Benwick]]’s
 
 being supposed to be an admirer of yours. How Charles could take such a
 
-thing into his head was always incomprehensible to me. I hope he will
+thing into his head was always incomprehensible to me. I [[Hope|hope]] he will
 
 be more agreeable now. Certainly not a great match for Louisa Musgrove,
 
@@ -10773,7 +10773,7 @@ pray what brings the Crofts to Bath?”
 
 
 
-“I do not know; but I can hardly suppose that, at Admiral Croft’s time
+“I do not know; but I can hardly suppose that, at [[Admiral Croft]]’s [[Time|time]]
 
 of life, and in his profession, he should not have many acquaintance in
 
@@ -10781,7 +10781,7 @@ such a place as this.”
 
 
 
-“I suspect,” said Sir Walter coolly, “that Admiral Croft will be best
+“I suspect,” said Sir Walter coolly, “that [[Admiral Croft]] will be best
 
 known in Bath as the renter of Kellynch Hall. Elizabeth, may we venture
 
@@ -10815,21 +10815,21 @@ at liberty.
 
 
 
-In her own room, she tried to comprehend it. Well might Charles wonder
+In her own room, she tried to comprehend it. [[Well]] might Charles [[Wonder|wonder]]
 
-how Captain Wentworth would feel! Perhaps he had quitted the field, had
+how [[Captain Wentworth]] would feel! Perhaps he had quitted the field, had
 
-given Louisa up, had ceased to love, had found he did not love her. She
+given Louisa up, had ceased to [[Love|love]], had found he did not [[Love|love]] her. She
 
 could not endure the idea of treachery or levity, or anything akin to
 
 ill usage between him and his friend. She could not endure that such a
 
-friendship as theirs should be severed unfairly.
+[[Friendship|friendship]] as theirs should be severed unfairly.
 
 
 
-Captain Benwick and Louisa Musgrove! The high-spirited, joyous-talking
+[[Captain Benwick]] and Louisa Musgrove! The high-spirited, joyous-talking
 
 Louisa Musgrove, and the dejected, thinking, feeling, reading, Captain
 
@@ -10845,7 +10845,7 @@ family party: since Henrietta’s coming away, they must have been
 
 depending almost entirely on each other, and Louisa, just recovering
 
-from illness, had been in an interesting state, and Captain Benwick was
+from illness, had been in an interesting state, and [[Captain Benwick]] was
 
 not inconsolable. That was a point which Anne had not been able to
 
@@ -10857,13 +10857,13 @@ the idea of his having felt some dawning of tenderness toward herself.
 
 She did not mean, however, to derive much more from it to gratify her
 
-vanity, than Mary might have allowed. She was persuaded that any
+[[Vanity|vanity]], than Mary might have allowed. She was persuaded that any
 
 tolerably pleasing young woman who had listened and seemed to feel for
 
 him would have received the same compliment. He had an affectionate
 
-heart. He must love somebody.
+heart. He must [[Love|love]] somebody.
 
 
 
@@ -10875,13 +10875,13 @@ gain cheerfulness, and she would learn to be an enthusiast for Scott
 
 and Lord Byron; nay, that was probably learnt already; of course they
 
-had fallen in love over poetry. The idea of Louisa Musgrove turned into
+had fallen in [[Love|love]] over poetry. The idea of Louisa Musgrove turned into
 
 a person of literary taste, and sentimental reflection was amusing, but
 
-she had no doubt of its being so. The day at Lyme, the fall from the
+she had no [[Doubt|doubt]] of its being so. The day at Lyme, the fall from the
 
-Cobb, might influence her health, her nerves, her courage, her
+Cobb, might influence her health, her nerves, her [[Courage|courage]], her
 
 character to the end of her life, as thoroughly as it appeared to have
 
@@ -10891,17 +10891,17 @@ influenced her fate.
 
 The conclusion of the whole was, that if the woman who had been
 
-sensible of Captain Wentworth’s merits could be allowed to prefer
+sensible of [[Captain Wentworth]]’s merits could be allowed to prefer
 
 another man, there was nothing in the engagement to excite lasting
 
-wonder; and if Captain Wentworth lost no friend by it, certainly
+[[Wonder|wonder]]; and if [[Captain Wentworth]] lost no friend by it, certainly
 
 nothing to be regretted. No, it was not regret which made Anne’s heart
 
 beat in spite of herself, and brought the colour into her cheeks when
 
-she thought of Captain Wentworth unshackled and free. She had some
+she thought of [[Captain Wentworth]] unshackled and free. She had some
 
 feelings which she was ashamed to investigate. They were too much like
 
@@ -10915,7 +10915,7 @@ evident that no rumour of the news had yet reached them. The visit of
 
 ceremony was paid and returned; and Louisa Musgrove was mentioned, and
 
-Captain Benwick, too, without even half a smile.
+[[Captain Benwick]], too, without even half a smile.
 
 
 
@@ -10941,7 +10941,7 @@ ordered to walk to keep off the gout, and Mrs Croft seemed to go shares
 
 with him in everything, and to walk for her life to do him good. Anne
 
-saw them wherever she went. Lady Russell took her out in her carriage
+saw them wherever she went. [[Lady Russell]] took her out in her carriage
 
 almost every morning, and she never failed to think of them, and never
 
@@ -10963,27 +10963,27 @@ looking as intelligent and keen as any of the officers around her.
 
 
 
-Anne was too much engaged with Lady Russell to be often walking
+Anne was too much engaged with [[Lady Russell]] to be often walking
 
 herself; but it so happened that one morning, about a week or ten days
 
 after the Croft’s arrival, it suited her best to leave her friend, or
 
-her friend’s carriage, in the lower part of the town, and return alone
+her friend’s carriage, in the lower part of the town, and return [[Alone|alone]]
 
 to Camden Place, and in walking up Milsom Street she had the good
 
 fortune to meet with the Admiral. He was standing by himself at a
 
-printshop window, with his hands behind him, in earnest contemplation
+printshop [[Window|window]], with his hands behind him, in earnest contemplation
 
 of some print, and she not only might have passed him unseen, but was
 
-obliged to touch as well as address him before she could catch his
+obliged to touch as [[Well|well]] as address him before she could catch his
 
 notice. When he did perceive and acknowledge her, however, it was done
 
-with all his usual frankness and good humour. “Ha! is it you? Thank
+with all his usual frankness and good [[Humour|humour]]. “Ha! is it you? Thank
 
 you, thank you. This is treating me like a friend. Here I am, you see,
 
@@ -10999,11 +10999,11 @@ cockleshell as that? And yet here are two gentlemen stuck up in it
 
 mightily at their ease, and looking about them at the rocks and
 
-mountains, as if they were not to be upset the next moment, which they
+[[Mountains|mountains]], as if they were not to be upset the next moment, which they
 
-certainly must be. I wonder where that boat was built!” (laughing
+certainly must be. I [[Wonder|wonder]] where that boat was built!” (laughing
 
-heartily); “I would not venture over a horsepond in it. Well,” (turning
+heartily); “I would not venture over a horsepond in it. [[Well]],” (turning
 
 away), “now, where are you bound? Can I go anywhere for you, or with
 
@@ -11013,7 +11013,7 @@ you? Can I be of any use?”
 
 “None, I thank you, unless you will give me the pleasure of your
 
-company the little way our road lies together. I am going home.”
+company the little way our [[Road|road]] lies together. I am going [[Home|home]].”
 
 
 
@@ -11039,7 +11039,7 @@ shall only say, ‘How d’ye do?’ as we pass, however. I shall not stop.
 
 ‘How d’ye do?’ Brigden stares to see anybody with me but my wife. She,
 
-poor soul, is tied by the leg. She has a blister on one of her heels,
+poor [[Soul|soul]], is tied by the leg. She has a blister on one of her heels,
 
 as large as a three-shilling piece. If you look across the street, you
 
@@ -11049,7 +11049,7 @@ both of them! I am glad they are not on this side of the way. Sophy
 
 cannot bear them. They played me a pitiful trick once: got away with
 
-some of my best men. I will tell you the whole story another time.
+some of my best men. I will tell you the whole story another [[Time|time]].
 
 There comes old Sir Archibald Drew and his grandson. Look, he sees us;
 
@@ -11057,7 +11057,7 @@ he kisses his hand to you; he takes you for my wife. Ah! the peace has
 
 come too soon for that younker. Poor old Sir Archibald! How do you like
 
-Bath, Miss Elliot? It suits us very well. We are always meeting with
+Bath, Miss Elliot? It suits us very [[Well|well]]. We are always meeting with
 
 some old friend or other; the streets full of them every morning; sure
 
@@ -11071,7 +11071,7 @@ and Deal. We do not like our lodgings here the worse, I can tell you,
 
 for putting us in mind of those we first had at North Yarmouth. The
 
-wind blows through one of the cupboards just in the same way.”
+[[Wind|wind]] blows through one of the cupboards just in the same way.”
 
 
 
@@ -11091,7 +11091,7 @@ ascending Belmont, he began—
 
 
 
-“Well, now you shall hear something that will surprise you. But first
+“[[Well]], now you shall hear something that will surprise you. But first
 
 of all, you must tell me the name of the young lady I am going to talk
 
@@ -11113,11 +11113,11 @@ did; but now she could safely suggest the name of “Louisa.”
 
 had not such a number of fine Christian names. I should never be out if
 
-they were all Sophys, or something of that sort. Well, this Miss
+they were all Sophys, or something of that sort. [[Well]], this Miss
 
 Louisa, we all thought, you know, was to marry Frederick. He was
 
-courting her week after week. The only wonder was, what they could be
+courting her week after week. The only [[Wonder|wonder]] was, what they could be
 
 waiting for, till the business at Lyme came; then, indeed, it was clear
 
@@ -11141,17 +11141,17 @@ Benwick. You know James Benwick.”
 
 
 
-“A little. I am a little acquainted with Captain Benwick.”
+“A little. I am a little acquainted with [[Captain Benwick]].”
 
 
 
-“Well, she is to marry him. Nay, most likely they are married already,
+“[[Well]], she is to marry him. Nay, most likely they are married already,
 
 for I do not know what they should wait for.”
 
 
 
-“I thought Captain Benwick a very pleasing young man,” said Anne, “and
+“I thought [[Captain Benwick]] a very pleasing young man,” said Anne, “and
 
 I understand that he bears an excellent character.”
 
@@ -11159,7 +11159,7 @@ I understand that he bears an excellent character.”
 
 “Oh! yes, yes, there is not a word to be said against James Benwick. He
 
-is only a commander, it is true, made last summer, and these are bad
+is only a commander, it is true, made last [[Summer|summer]], and these are bad
 
 times for getting on, but he has not another fault that I know of. An
 
@@ -11173,13 +11173,13 @@ soft sort of manner does not do him justice.”
 
 “Indeed you are mistaken there, sir; I should never augur want of
 
-spirit from Captain Benwick’s manners. I thought them particularly
+spirit from [[Captain Benwick]]’s manners. I thought them particularly
 
 pleasing, and I will answer for it, they would generally please.”
 
 
 
-“Well, well, ladies are the best judges; but James Benwick is rather
+“[[Well]], [[Well|well]], ladies are the best judges; but James Benwick is rather
 
 too piano for me; and though very likely it is all our partiality,
 
@@ -11193,7 +11193,7 @@ Anne was caught. She had only meant to oppose the too common idea of
 
 spirit and gentleness being incompatible with each other, not at all to
 
-represent Captain Benwick’s manners as the very best that could
+represent [[Captain Benwick]]’s manners as the very best that could
 
 possibly be; and, after a little hesitation, she was beginning to say,
 
@@ -11217,15 +11217,15 @@ they are all at Uppercross.”
 
 This was an opportunity which Anne could not resist; she said,
 
-therefore, “I hope, Admiral, I hope there is nothing in the style of
+therefore, “I [[Hope|hope]], Admiral, I [[Hope|hope]] there is nothing in the style of
 
-Captain Wentworth’s letter to make you and Mrs Croft particularly
+[[Captain Wentworth]]’s letter to make you and Mrs Croft particularly
 
-uneasy. It did seem, last autumn, as if there were an attachment
+uneasy. It did seem, last [[Autumn|autumn]], as if there were an attachment
 
-between him and Louisa Musgrove; but I hope it may be understood to
+between him and Louisa Musgrove; but I [[Hope|hope]] it may be understood to
 
-have worn out on each side equally, and without violence. I hope his
+have worn out on each side equally, and without violence. I [[Hope|hope]] his
 
 letter does not breathe the spirit of an ill-used man.”
 
@@ -11249,25 +11249,25 @@ she should have him.”
 
 
 
-“Certainly. But what I mean is, that I hope there is nothing in Captain
+“Certainly. But what I mean is, that I [[Hope|hope]] there is nothing in Captain
 
 Wentworth’s manner of writing to make you suppose he thinks himself
 
 ill-used by his friend, which might appear, you know, without its being
 
-absolutely said. I should be very sorry that such a friendship as has
+absolutely said. I should be very sorry that such a [[Friendship|friendship]] as has
 
-subsisted between him and Captain Benwick should be destroyed, or even
+subsisted between him and [[Captain Benwick]] should be destroyed, or even
 
 wounded, by a circumstance of this sort.”
 
 
 
-“Yes, yes, I understand you. But there is nothing at all of that nature
+“Yes, yes, I understand you. But there is nothing at all of that [[Nature|nature]]
 
 in the letter. He does not give the least fling at Benwick; does not so
 
-much as say, ‘I wonder at it, I have a reason of my own for wondering
+much as say, ‘I [[Wonder|wonder]] at it, I have a reason of my own for wondering
 
 at it.’ No, you would not guess, from his way of writing, that he had
 
@@ -11315,13 +11315,13 @@ CHAPTER XIX.
 
 
 
-While Admiral Croft was taking this walk with Anne, and expressing his
+While [[Admiral Croft]] was taking this walk with Anne, and expressing his
 
-wish of getting Captain Wentworth to Bath, Captain Wentworth was
+wish of getting [[Captain Wentworth]] to Bath, [[Captain Wentworth]] was
 
 already on his way thither. Before Mrs Croft had written, he was
 
-arrived, and the very next time Anne walked out, she saw him.
+arrived, and the very next [[Time|time]] Anne walked out, she saw him.
 
 
 
@@ -11331,7 +11331,7 @@ Milsom Street. It began to rain, not much, but enough to make shelter
 
 desirable for women, and quite enough to make it very desirable for
 
-Miss Elliot to have the advantage of being conveyed home in Lady
+Miss Elliot to have the advantage of being conveyed [[Home|home]] in Lady
 
 Dalrymple’s carriage, which was seen waiting at a little distance; she,
 
@@ -11341,7 +11341,7 @@ stepped to Lady Dalrymple, to request her assistance. He soon joined
 
 them again, successful, of course; Lady Dalrymple would be most happy
 
-to take them home, and would call for them in a few minutes.
+to take them [[Home|home]], and would call for them in a few minutes.
 
 
 
@@ -11351,11 +11351,11 @@ with any comfort. Miss Carteret was with her mother; consequently it
 
 was not reasonable to expect accommodation for all the three Camden
 
-Place ladies. There could be no doubt as to Miss Elliot. Whoever
+Place ladies. There could be no [[Doubt|doubt]] as to Miss Elliot. Whoever
 
 suffered inconvenience, she must suffer none, but it occupied a little
 
-time to settle the point of civility between the other two. The rain
+[[Time|time]] to settle the point of civility between the other two. The rain
 
 was a mere trifle, and Anne was most sincere in preferring a walk with
 
@@ -11383,7 +11383,7 @@ It was fixed accordingly, that Mrs Clay should be of the party in the
 
 carriage; and they had just reached this point, when Anne, as she sat
 
-near the window, descried, most decidedly and distinctly, Captain
+near the [[Window|window]], descried, most decidedly and distinctly, Captain
 
 Wentworth walking down the street.
 
@@ -11399,7 +11399,7 @@ confusion. She was lost, and when she had scolded back her senses, she
 
 found the others still waiting for the carriage, and Mr Elliot (always
 
-obliging) just setting off for Union Street on a commission of Mrs
+obliging) just setting off for [[Union]] Street on a commission of Mrs
 
 Clay’s.
 
@@ -11409,7 +11409,7 @@ She now felt a great inclination to go to the outer door; she wanted to
 
 see if it rained. Why was she to suspect herself of another motive?
 
-Captain Wentworth must be out of sight. She left her seat, she would
+[[Captain Wentworth]] must be out of sight. She left her seat, she would
 
 go; one half of her should not be always so much wiser than the other
 
@@ -11417,7 +11417,7 @@ half, or always suspecting the other of being worse than it was. She
 
 would see if it rained. She was sent back, however, in a moment by the
 
-entrance of Captain Wentworth himself, among a party of gentlemen and
+entrance of [[Captain Wentworth]] himself, among a party of gentlemen and
 
 ladies, evidently his acquaintance, and whom he must have joined a
 
@@ -11425,7 +11425,7 @@ little below Milsom Street. He was more obviously struck and confused
 
 by the sight of her than she had ever observed before; he looked quite
 
-red. For the first time, since their renewed acquaintance, she felt
+red. For the first [[Time|time]], since their renewed acquaintance, she felt
 
 that she was betraying the least sensibility of the two. She had the
 
@@ -11435,7 +11435,7 @@ overpowering, blinding, bewildering, first effects of strong surprise
 
 were over with her. Still, however, she had enough to feel! It was
 
-agitation, pain, pleasure, a something between delight and misery.
+agitation, [[Pain|pain]], pleasure, a something between delight and misery.
 
 
 
@@ -11459,11 +11459,11 @@ very much together, got to speak to each other with a considerable
 
 portion of apparent indifference and calmness; but he could not do it
 
-now. Time had changed him, or Louisa had changed him. There was
+now. [[Time]] had changed him, or Louisa had changed him. There was
 
-consciousness of some sort or other. He looked very well, not as if he
+consciousness of some sort or other. He looked very [[Well|well]], not as if he
 
-had been suffering in health or spirits, and he talked of Uppercross,
+had been [[Suffering|suffering]] in health or spirits, and he talked of Uppercross,
 
 of the Musgroves, nay, even of Louisa, and had even a momentary look of
 
@@ -11481,7 +11481,7 @@ him, that there was complete internal recognition on each side; she was
 
 convinced that he was ready to be acknowledged as an acquaintance,
 
-expecting it, and she had the pain of seeing her sister turn away with
+expecting it, and she had the [[Pain|pain]] of seeing her sister turn away with
 
 unalterable coldness.
 
@@ -11499,7 +11499,7 @@ understand that Lady Dalrymple was calling to convey Miss Elliot. At
 
 last Miss Elliot and her friend, unattended but by the servant, (for
 
-there was no cousin returned), were walking off; and Captain Wentworth,
+there was no cousin returned), were walking off; and [[Captain Wentworth]],
 
 watching them, turned again to Anne, and by manner, rather than words,
 
@@ -11557,19 +11557,19 @@ relation and friend. He came in with eagerness, appeared to see and
 
 think only of her, apologised for his stay, was grieved to have kept
 
-her waiting, and anxious to get her away without further loss of time
+her waiting, and anxious to get her away without further loss of [[Time|time]]
 
 and before the rain increased; and in another moment they walked off
 
 together, her arm under his, a gentle and embarrassed glance, and a
 
-“Good morning to you!” being all that she had time for, as she passed
+“Good morning to you!” being all that she had [[Time|time]] for, as she passed
 
 away.
 
 
 
-As soon as they were out of sight, the ladies of Captain Wentworth’s
+As soon as they were out of sight, the ladies of [[Captain Wentworth]]’s
 
 party began talking of them.
 
@@ -11593,7 +11593,7 @@ he is the most agreeable man she ever was in company with.”
 
 
 
-“She is pretty, I think; Anne Elliot; very pretty, when one comes to
+“She is pretty, I think; [[Anne Elliot]]; very pretty, when one comes to
 
 look at her. It is not the fashion to say so, but I confess I admire
 
@@ -11621,19 +11621,19 @@ nothing could exceed his solicitude and care, and though his subjects
 
 were principally such as were wont to be always interesting: praise,
 
-warm, just, and discriminating, of Lady Russell, and insinuations
+warm, just, and discriminating, of [[Lady Russell]], and insinuations
 
 highly rational against Mrs Clay. But just now she could think only of
 
-Captain Wentworth. She could not understand his present feelings,
+[[Captain Wentworth]]. She could not understand his present feelings,
 
-whether he were really suffering much from disappointment or not; and
+whether he were really [[Suffering|suffering]] much from disappointment or not; and
 
 till that point were settled, she could not be quite herself.
 
 
 
-She hoped to be wise and reasonable in time; but alas! alas! she must
+She hoped to be wise and reasonable in [[Time|time]]; but alas! alas! she must
 
 confess to herself that she was not wise yet.
 
@@ -11647,7 +11647,7 @@ recollect it. He might be only passing through. But it was more
 
 probable that he should be come to stay. In that case, so liable as
 
-every body was to meet every body in Bath, Lady Russell would in all
+every [[Body|body]] was to meet every [[Body|body]] in Bath, [[Lady Russell]] would in all
 
 likelihood see him somewhere. Would she recollect him? How would it all
 
@@ -11655,13 +11655,13 @@ be?
 
 
 
-She had already been obliged to tell Lady Russell that Louisa Musgrove
+She had already been obliged to tell [[Lady Russell]] that Louisa Musgrove
 
-was to marry Captain Benwick. It had cost her something to encounter
+was to marry [[Captain Benwick]]. It had cost her something to encounter
 
-Lady Russell’s surprise; and now, if she were by any chance to be
+[[Lady Russell]]’s surprise; and now, if she were by any chance to be
 
-thrown into company with Captain Wentworth, her imperfect knowledge of
+thrown into company with [[Captain Wentworth]], her imperfect knowledge of
 
 the matter might add another shade of prejudice against him.
 
@@ -11679,25 +11679,25 @@ greater part of the street. There were many other men about him, many
 
 groups walking the same way, but there was no mistaking him. She looked
 
-instinctively at Lady Russell; but not from any mad idea of her
+instinctively at [[Lady Russell]]; but not from any mad idea of her
 
 recognising him so soon as she did herself. No, it was not to be
 
-supposed that Lady Russell would perceive him till they were nearly
+supposed that [[Lady Russell]] would perceive him till they were nearly
 
-opposite. She looked at her however, from time to time, anxiously; and
+opposite. She looked at her however, from [[Time|time]] to [[Time|time]], anxiously; and
 
 when the moment approached which must point him out, though not daring
 
 to look again (for her own countenance she knew was unfit to be seen),
 
-she was yet perfectly conscious of Lady Russell’s eyes being turned
+she was yet perfectly conscious of [[Lady Russell]]’s eyes being turned
 
 exactly in the direction for him—of her being, in short, intently
 
 observing him. She could thoroughly comprehend the sort of fascination
 
-he must possess over Lady Russell’s mind, the difficulty it must be for
+he must possess over [[Lady Russell]]’s mind, the difficulty it must be for
 
 her to withdraw her eyes, the astonishment she must be feeling that
 
@@ -11707,19 +11707,19 @@ and in active service too, without robbing him of one personal grace!
 
 
 
-At last, Lady Russell drew back her head. “Now, how would she speak of
+At last, [[Lady Russell]] drew back her head. “Now, how would she speak of
 
 him?”
 
 
 
-“You will wonder,” said she, “what has been fixing my eye so long; but
+“You will [[Wonder|wonder]],” said she, “what has been fixing my eye so long; but
 
-I was looking after some window-curtains, which Lady Alicia and Mrs
+I was looking after some [[Window|window]]-curtains, which Lady Alicia and Mrs
 
-Frankland were telling me of last night. They described the
+Frankland were telling me of last [[Night|night]]. They described the
 
-drawing-room window-curtains of one of the houses on this side of the
+drawing-room [[Window|window]]-curtains of one of the houses on this side of the
 
 way, and this part of the street, as being the handsomest and best hung
 
@@ -11759,25 +11759,25 @@ concert for the benefit of a person patronised by Lady Dalrymple. Of
 
 course they must attend. It was really expected to be a good one, and
 
-Captain Wentworth was very fond of music. If she could only have a few
+[[Captain Wentworth]] was very fond of music. If she could only have a few
 
 minutes conversation with him again, she fancied she should be
 
 satisfied; and as to the power of addressing him, she felt all over
 
-courage if the opportunity occurred. Elizabeth had turned from him,
+[[Courage|courage]] if the opportunity occurred. Elizabeth had turned from him,
 
-Lady Russell overlooked him; her nerves were strengthened by these
+[[Lady Russell]] overlooked him; her nerves were strengthened by these
 
 circumstances; she felt that she owed him attention.
 
 
 
-She had once partly promised Mrs Smith to spend the evening with her;
+She had once partly promised Mrs [[smith|Smith]] to spend the evening with her;
 
 but in a short hurried call she excused herself and put it off, with
 
-the more decided promise of a longer visit on the morrow. Mrs Smith
+the more decided promise of a longer visit on the morrow. Mrs [[smith|Smith]]
 
 gave a most good-humoured acquiescence.
 
@@ -11789,9 +11789,9 @@ Who is your party?”
 
 
 
-Anne named them all. Mrs Smith made no reply; but when she was leaving
+Anne named them all. Mrs [[smith|Smith]] made no reply; but when she was leaving
 
-her said, and with an expression half serious, half arch, “Well, I
+her said, and with an expression half serious, half arch, “[[Well]], I
 
 heartily wish your concert may answer; and do not fail me to-morrow if
 
@@ -11827,7 +11827,7 @@ waited for, they took their station by one of the fires in the Octagon
 
 Room. But hardly were they so settled, when the door opened again, and
 
-Captain Wentworth walked in alone. Anne was the nearest to him, and
+[[Captain Wentworth]] walked in [[Alone|alone]]. Anne was the nearest to him, and
 
 making yet a little advance, she instantly spoke. He was preparing only
 
@@ -11849,11 +11849,11 @@ While they were speaking, a whispering between her father and Elizabeth
 
 caught her ear. She could not distinguish, but she must guess the
 
-subject; and on Captain Wentworth’s making a distant bow, she
+subject; and on [[Captain Wentworth]]’s making a distant bow, she
 
-comprehended that her father had judged so well as to give him that
+comprehended that her father had judged so [[Well|well]] as to give him that
 
-simple acknowledgement of acquaintance, and she was just in time by a
+simple acknowledgement of acquaintance, and she was just in [[Time|time]] by a
 
 side glance to see a slight curtsey from Elizabeth herself. This,
 
@@ -11865,7 +11865,7 @@ nothing, and her spirits improved.
 
 After talking, however, of the weather, and Bath, and the concert,
 
-their conversation began to flag, and so little was said at last, that
+their conversation began to [[Flag|flag]], and so little was said at last, that
 
 she was expecting him to go every moment, but he did not; he seemed in
 
@@ -11879,7 +11879,7 @@ smile, a little glow, he said—
 
 have suffered from the shock, and the more from its not overpowering
 
-you at the time.”
+you at the [[Time|time]].”
 
 
 
@@ -11905,7 +11905,7 @@ concerned in her recovery.”
 
 
 
-“Certainly I could have none. But it appears—I should hope it would be
+“Certainly I could have none. But it appears—I should [[Hope|hope]] it would be
 
 a very happy match. There are on both sides good principles and good
 
@@ -11915,11 +11915,11 @@ temper.”
 
 “Yes,” said he, looking not exactly forward; “but there, I think, ends
 
-the resemblance. With all my soul I wish them happy, and rejoice over
+the resemblance. With all my [[Soul|soul]] I wish them happy, and rejoice over
 
 every circumstance in favour of it. They have no difficulties to
 
-contend with at home, no opposition, no caprice, no delays. The
+contend with at [[Home|home]], no opposition, no caprice, no delays. The
 
 Musgroves are behaving like themselves, most honourably and kindly,
 
@@ -11953,7 +11953,7 @@ reading man; and I confess, that I do consider his attaching himself to
 
 her with some surprise. Had it been the effect of gratitude, had he
 
-learnt to love her, because he believed her to be preferring him, it
+learnt to [[Love|love]] her, because he believed her to be preferring him, it
 
 would have been another thing. But I have no reason to suppose it so.
 
@@ -11997,7 +11997,7 @@ smallest wish for a total change, she only deviated so far as to say—
 
 
 
-“About a fortnight. I could not leave it till Louisa’s doing well was
+“About a fortnight. I could not leave it till Louisa’s doing [[Well|well]] was
 
 quite ascertained. I had been too deeply concerned in the mischief to
 
@@ -12027,19 +12027,19 @@ thought your last impressions of Lyme must have been strong disgust.”
 
 “The last hours were certainly very painful,” replied Anne; “but when
 
-pain is over, the remembrance of it often becomes a pleasure. One does
+[[Pain|pain]] is over, the remembrance of it often becomes a pleasure. One does
 
-not love a place the less for having suffered in it, unless it has been
+not [[Love|love]] a place the less for having suffered in it, unless it has been
 
-all suffering, nothing but suffering, which was by no means the case at
+all [[Suffering|suffering]], nothing but [[Suffering|suffering]], which was by no means the case at
 
 Lyme. We were only in anxiety and distress during the last two hours,
 
 and previously there had been a great deal of enjoyment. So much
 
-novelty and beauty! I have travelled so little, that every fresh place
+novelty and [[Beauty|beauty]]! I have travelled so little, that every fresh place
 
-would be interesting to me; but there is real beauty at Lyme; and in
+would be interesting to me; but there is real [[Beauty|beauty]] at Lyme; and in
 
 short” (with a faint blush at some recollections), “altogether my
 
@@ -12063,9 +12063,9 @@ advanced into the room. The others joined them, and it was a group in
 
 which Anne found herself also necessarily included. She was divided
 
-from Captain Wentworth. Their interesting, almost too interesting
+from [[Captain Wentworth]]. Their interesting, almost too interesting
 
-conversation must be broken up for a time, but slight was the penance
+conversation must be broken up for a [[Time|time]], but slight was the penance
 
 compared with the happiness which brought it on! She had learnt, in the
 
@@ -12075,7 +12075,7 @@ feelings than she dared to think of; and she gave herself up to the
 
 demands of the party, to the needful civilities of the moment, with
 
-exquisite, though agitated sensations. She was in good humour with all.
+exquisite, though agitated sensations. She was in good [[Humour|humour]] with all.
 
 She had received ideas which disposed her to be courteous and kind to
 
@@ -12085,21 +12085,21 @@ all, and to pity every one, as being less happy than herself.
 
 The delightful emotions were a little subdued, when on stepping back
 
-from the group, to be joined again by Captain Wentworth, she saw that
+from the group, to be joined again by [[Captain Wentworth]], she saw that
 
-he was gone. She was just in time to see him turn into the Concert
+he was gone. She was just in [[Time|time]] to see him turn into the Concert
 
 Room. He was gone; he had disappeared, she felt a moment’s regret. But
 
 “they should meet again. He would look for her, he would find her out
 
-before the evening were over, and at present, perhaps, it was as well
+before the evening were over, and at present, perhaps, it was as [[Well|well]]
 
 to be asunder. She was in need of a little interval for recollection.”
 
 
 
-Upon Lady Russell’s appearance soon afterwards, the whole party was
+Upon [[Lady Russell]]’s appearance soon afterwards, the whole party was
 
 collected, and all that remained was to marshal themselves, and proceed
 
@@ -12111,7 +12111,7 @@ as they could.
 
 
 
-Very, very happy were both Elizabeth and Anne Elliot as they walked in.
+Very, very happy were both Elizabeth and [[Anne Elliot]] as they walked in.
 
 Elizabeth arm in arm with Miss Carteret, and looking on the broad back
 
@@ -12119,9 +12119,9 @@ of the dowager Viscountess Dalrymple before her, had nothing to wish
 
 for which did not seem within her reach; and Anne—but it would be an
 
-insult to the nature of Anne’s felicity, to draw any comparison between
+insult to the [[Nature|nature]] of Anne’s felicity, to draw any comparison between
 
-it and her sister’s; the origin of one all selfish vanity, of the other
+it and her sister’s; the origin of one all selfish [[Vanity|vanity]], of the other
 
 all generous attachment.
 
@@ -12141,7 +12141,7 @@ manner and look, had been such as she could see in only one light. His
 
 opinion of Louisa Musgrove’s inferiority, an opinion which he had
 
-seemed solicitous to give, his wonder at Captain Benwick, his feelings
+seemed solicitous to give, his [[Wonder|wonder]] at [[Captain Benwick]], his feelings
 
 as to a first, strong attachment; sentences begun which he could not
 
@@ -12151,11 +12151,11 @@ all, all declared that he had a heart returning to her at least; that
 
 anger, resentment, avoidance, were no more; and that they were
 
-succeeded, not merely by friendship and regard, but by the tenderness
+succeeded, not merely by [[Friendship|friendship]] and regard, but by the tenderness
 
 of the past. Yes, some share of the tenderness of the past. She could
 
-not contemplate the change as implying less. He must love her.
+not contemplate the change as implying less. He must [[Love|love]] her.
 
 
 
@@ -12173,13 +12173,13 @@ to be in the same part of the room, but he was not; her eye could not
 
 reach him; and the concert being just opening, she must consent for a
 
-time to be happy in a humbler way.
+[[Time|time]] to be happy in a humbler way.
 
 
 
 The party was divided and disposed of on two contiguous benches: Anne
 
-was among those on the foremost, and Mr Elliot had manœuvred so well,
+was among those on the foremost, and Mr Elliot had manœuvred so [[Well|well]],
 
 with the assistance of his friend Colonel Wallis, as to have a seat by
 
@@ -12199,7 +12199,7 @@ for the wearisome; and had never liked a concert better, at least
 
 during the first act. Towards the close of it, in the interval
 
-succeeding an Italian song, she explained the words of the song to Mr
+succeeding an Italian [[Song|song]], she explained the words of the [[Song|song]] to Mr
 
 Elliot. They had a concert bill between them.
 
@@ -12207,7 +12207,7 @@ Elliot. They had a concert bill between them.
 
 “This,” said she, “is nearly the sense, or rather the meaning of the
 
-words, for certainly the sense of an Italian love-song must not be
+words, for certainly the sense of an Italian [[Love|love]]-[[Song|song]] must not be
 
 talked of, but it is as nearly the meaning as I can give; for I do not
 
@@ -12235,7 +12235,7 @@ examined by a real proficient.”
 
 “I have not had the pleasure of visiting in Camden Place so long,”
 
-replied he, “without knowing something of Miss Anne Elliot; and I do
+replied he, “without knowing something of Miss [[Anne Elliot]]; and I do
 
 regard her as one who is too modest for the world in general to be
 
@@ -12287,11 +12287,11 @@ but in vain. He delighted in being asked, but he would not tell.
 
 
 
-“No, no, some time or other, perhaps, but not now. He would mention no
+“No, no, some [[Time|time]] or other, perhaps, but not now. He would mention no
 
 names now; but such, he could assure her, had been the fact. He had
 
-many years ago received such a description of Miss Anne Elliot as had
+many years ago received such a description of Miss [[Anne Elliot]] as had
 
 inspired him with the highest idea of her merit, and excited the
 
@@ -12301,15 +12301,15 @@ warmest curiosity to know her.”
 
 Anne could think of no one so likely to have spoken with partiality of
 
-her many years ago as the Mr Wentworth of Monkford, Captain Wentworth’s
+her many years ago as the Mr Wentworth of Monkford, [[Captain Wentworth]]’s
 
 brother. He might have been in Mr Elliot’s company, but she had not
 
-courage to ask the question.
+[[Courage|courage]] to ask the question.
 
 
 
-“The name of Anne Elliot,” said he, “has long had an interesting sound
+“The name of [[Anne Elliot]],” said he, “has long had an interesting sound
 
 to me. Very long has it possessed a charm over my fancy; and, if I
 
@@ -12327,7 +12327,7 @@ Dalrymple were speaking.
 
 
 
-“A well-looking man,” said Sir Walter, “a very well-looking man.”
+“A [[Well|well]]-looking man,” said Sir Walter, “a very [[Well|well]]-looking man.”
 
 
 
@@ -12347,7 +12347,7 @@ the Croft, who rents Kellynch.”
 
 Before Sir Walter had reached this point, Anne’s eyes had caught the
 
-right direction, and distinguished Captain Wentworth standing among a
+right direction, and distinguished [[Captain Wentworth]] standing among a
 
 cluster of men at a little distance. As her eyes fell on him, his
 
@@ -12381,17 +12381,17 @@ The first act was over. Now she hoped for some beneficial change; and,
 
 after a period of nothing-saying amongst the party, some of them did
 
-decide on going in quest of tea. Anne was one of the few who did not
+decide on going in [[Quest|quest]] of tea. Anne was one of the few who did not
 
-choose to move. She remained in her seat, and so did Lady Russell; but
+choose to move. She remained in her seat, and so did [[Lady Russell]]; but
 
 she had the pleasure of getting rid of Mr Elliot; and she did not mean,
 
-whatever she might feel on Lady Russell’s account, to shrink from
+whatever she might feel on [[Lady Russell]]’s account, to shrink from
 
-conversation with Captain Wentworth, if he gave her the opportunity.
+conversation with [[Captain Wentworth]], if he gave her the opportunity.
 
-She was persuaded by Lady Russell’s countenance that she had seen him.
+She was persuaded by [[Lady Russell]]’s countenance that she had seen him.
 
 
 
@@ -12409,7 +12409,7 @@ the gapes, as real or affected taste for it prevailed. To Anne, it
 
 chiefly wore the prospect of an hour of agitation. She could not quit
 
-that room in peace without seeing Captain Wentworth once more, without
+that room in peace without seeing [[Captain Wentworth]] once more, without
 
 the interchange of one friendly look.
 
@@ -12445,7 +12445,7 @@ Such was her situation, with a vacant space at hand, when Captain
 
 Wentworth was again in sight. She saw him not far off. He saw her too;
 
-yet he looked grave, and seemed irresolute, and only by very slow
+yet he looked [[Grave|grave]], and seemed irresolute, and only by very slow
 
 degrees came at last near enough to speak to her. She felt that
 
@@ -12455,15 +12455,15 @@ difference between his present air and what it had been in the Octagon
 
 Room was strikingly great. Why was it? She thought of her father, of
 
-Lady Russell. Could there have been any unpleasant glances? He began by
+[[Lady Russell]]. Could there have been any unpleasant glances? He began by
 
-speaking of the concert gravely, more like the Captain Wentworth of
+speaking of the concert gravely, more like the [[Captain Wentworth]] of
 
 Uppercross; owned himself disappointed, had expected singing; and in
 
 short, must confess that he should not be sorry when it was over. Anne
 
-replied, and spoke in defence of the performance so well, and yet in
+replied, and spoke in defence of the performance so [[Well|well]], and yet in
 
 allowance for his feelings so pleasantly, that his countenance
 
@@ -12471,7 +12471,7 @@ improved, and he replied again with almost a smile. They talked for a
 
 few minutes more; the improvement held; he even looked down towards the
 
-bench, as if he saw a place on it well worth occupying; when at that
+bench, as if he saw a place on it [[Well|well]] worth occupying; when at that
 
 moment a touch on her shoulder obliged Anne to turn round. It came from
 
@@ -12481,7 +12481,7 @@ Italian again. Miss Carteret was very anxious to have a general idea of
 
 what was next to be sung. Anne could not refuse; but never had she
 
-sacrificed to politeness with a more suffering spirit.
+sacrificed to politeness with a more [[Suffering|suffering]] spirit.
 
 
 
@@ -12489,15 +12489,15 @@ A few minutes, though as few as possible, were inevitably consumed; and
 
 when her own mistress again, when able to turn and look as she had done
 
-before, she found herself accosted by Captain Wentworth, in a reserved
+before, she found herself accosted by [[Captain Wentworth]], in a reserved
 
-yet hurried sort of farewell. “He must wish her good night; he was
+yet hurried sort of farewell. “He must wish her good [[Night|night]]; he was
 
-going; he should get home as fast as he could.”
+going; he should get [[Home|home]] as fast as he could.”
 
 
 
-“Is not this song worth staying for?” said Anne, suddenly struck by an
+“Is not this [[Song|song]] worth staying for?” said Anne, suddenly struck by an
 
 idea which made her yet more anxious to be encouraging.
 
@@ -12509,7 +12509,7 @@ and he was gone directly.
 
 
 
-Jealousy of Mr Elliot! It was the only intelligible motive. Captain
+[[Jealousy]] of Mr Elliot! It was the only intelligible motive. Captain
 
 Wentworth jealous of her affection! Could she have believed it a week
 
@@ -12517,7 +12517,7 @@ ago; three hours ago! For a moment the gratification was exquisite.
 
 But, alas! there were very different thoughts to succeed. How was such
 
-jealousy to be quieted? How was the truth to reach him? How, in all the
+[[Jealousy|jealousy]] to be quieted? How was the [[Truth|truth]] to reach him? How, in all the
 
 peculiar disadvantages of their respective situations, would he ever
 
@@ -12541,7 +12541,7 @@ CHAPTER XXI.
 
 Anne recollected with pleasure the next morning her promise of going to
 
-Mrs Smith, meaning that it should engage her from home at the time when
+Mrs [[smith|Smith]], meaning that it should engage her from [[Home|home]] at the [[Time|time]] when
 
 Mr Elliot would be most likely to call; for to avoid Mr Elliot was
 
@@ -12563,25 +12563,25 @@ sentiments, by his early prepossession. It was altogether very
 
 extraordinary; flattering, but painful. There was much to regret. How
 
-she might have felt had there been no Captain Wentworth in the case,
+she might have felt had there been no [[Captain Wentworth]] in the case,
 
-was not worth enquiry; for there was a Captain Wentworth; and be the
+was not worth enquiry; for there was a [[Captain Wentworth]]; and be the
 
 conclusion of the present suspense good or bad, her affection would be
 
-his for ever. Their union, she believed, could not divide her more from
+his for ever. Their [[Union|union]], she believed, could not divide her more from
 
 other men, than their final separation.
 
 
 
-Prettier musings of high-wrought love and eternal constancy, could
+Prettier musings of high-wrought [[Love|love]] and eternal constancy, could
 
 never have passed along the streets of Bath, than Anne was sporting
 
 with from Camden Place to Westgate Buildings. It was almost enough to
 
-spread purification and perfume all the way.
+spread [[Purification|purification]] and perfume all the way.
 
 
 
@@ -12601,17 +12601,17 @@ features and make her rejoice to talk of it. All that she could tell
 
 she told most gladly, but the all was little for one who had been
 
-there, and unsatisfactory for such an enquirer as Mrs Smith, who had
+there, and unsatisfactory for such an enquirer as Mrs [[smith|Smith]], who had
 
 already heard, through the short cut of a laundress and a waiter,
 
-rather more of the general success and produce of the evening than Anne
+rather more of the general [[success]] and produce of the evening than Anne
 
 could relate, and who now asked in vain for several particulars of the
 
-company. Everybody of any consequence or notoriety in Bath was well
+company. Everybody of any consequence or notoriety in Bath was [[Well|well]]
 
-know by name to Mrs Smith.
+know by name to Mrs [[smith|Smith]].
 
 
 
@@ -12653,7 +12653,7 @@ grandeur, round the orchestra, of course.”
 
 in every respect. But happily Lady Dalrymple always chooses to be
 
-farther off; and we were exceedingly well placed, that is, for hearing;
+farther off; and we were exceedingly [[Well|well]] placed, that is, for hearing;
 
 I must not say for seeing, because I appear to have seen very little.”
 
@@ -12693,9 +12693,9 @@ Anne half smiled and said, “Do you see that in my eye?”
 
 “Yes, I do. Your countenance perfectly informs me that you were in
 
-company last night with the person whom you think the most agreeable in
+company last [[Night|night]] with the person whom you think the most agreeable in
 
-the world, the person who interests you at this present time more than
+the world, the person who interests you at this present [[Time|time]] more than
 
 all the rest of the world put together.”
 
@@ -12705,13 +12705,13 @@ A blush overspread Anne’s cheeks. She could say nothing.
 
 
 
-“And such being the case,” continued Mrs Smith, after a short pause, “I
+“And such being the case,” continued Mrs [[smith|Smith]], after a short pause, “I
 
-hope you believe that I do know how to value your kindness in coming to
+[[Hope|hope]] you believe that I do know how to value your kindness in coming to
 
 me this morning. It is really very good of you to come and sit with me,
 
-when you must have so many pleasanter demands upon your time.”
+when you must have so many pleasanter demands upon your [[Time|time]].”
 
 
 
@@ -12719,13 +12719,13 @@ Anne heard nothing of this. She was still in the astonishment and
 
 confusion excited by her friend’s penetration, unable to imagine how
 
-any report of Captain Wentworth could have reached her. After another
+any report of [[Captain Wentworth]] could have reached her. After another
 
-short silence—
+short [[Silence|silence]]—
 
 
 
-“Pray,” said Mrs Smith, “is Mr Elliot aware of your acquaintance with
+“Pray,” said Mrs [[smith|Smith]], “is Mr Elliot aware of your acquaintance with
 
 me? Does he know that I am in Bath?”
 
@@ -12735,13 +12735,13 @@ me? Does he know that I am in Bath?”
 
 shewed her the mistake she had been under. She caught it
 
-instantaneously; and recovering her courage with the feeling of safety,
+instantaneously; and recovering her [[Courage|courage]] with the feeling of safety,
 
 soon added, more composedly, “Are you acquainted with Mr Elliot?”
 
 
 
-“I have been a good deal acquainted with him,” replied Mrs Smith,
+“I have been a good deal acquainted with him,” replied Mrs [[smith|Smith]],
 
 gravely, “but it seems worn out now. It is a great while since we met.”
 
@@ -12753,7 +12753,7 @@ known it, I would have had the pleasure of talking to him about you.”
 
 
 
-“To confess the truth,” said Mrs Smith, assuming her usual air of
+“To confess the [[Truth|truth]],” said Mrs [[smith|Smith]], assuming her usual air of
 
 cheerfulness, “that is exactly the pleasure I want you to have. I want
 
@@ -12767,7 +12767,7 @@ done.”
 
 
 
-“I should be extremely happy; I hope you cannot doubt my willingness to
+“I should be extremely happy; I [[Hope|hope]] you cannot [[Doubt|doubt]] my willingness to
 
 be of even the slightest use to you,” replied Anne; “but I suspect that
 
@@ -12785,7 +12785,7 @@ hesitate to employ me.”
 
 
 
-Mrs Smith gave her a penetrating glance, and then, smiling, said—
+Mrs [[smith|Smith]] gave her a penetrating glance, and then, smiling, said—
 
 
 
@@ -12811,7 +12811,7 @@ imagine I am?”
 
 
 
-Mrs Smith looked at her again, looked earnestly, smiled, shook her
+Mrs [[smith|Smith]] looked at her again, looked earnestly, smiled, shook her
 
 head, and exclaimed—
 
@@ -12839,7 +12839,7 @@ know him better than Colonel Wallis?”
 
 
 
-“My dear Mrs Smith, Mr Elliot’s wife has not been dead much above half
+“My dear Mrs [[smith|Smith]], Mr Elliot’s wife has not been dead much above half
 
 a year. He ought not to be supposed to be paying his addresses to any
 
@@ -12847,7 +12847,7 @@ one.”
 
 
 
-“Oh! if these are your only objections,” cried Mrs Smith, archly, “Mr
+“Oh! if these are your only objections,” cried Mrs [[smith|Smith]], archly, “Mr
 
 Elliot is safe, and I shall give myself no more trouble about him. Do
 
@@ -12861,9 +12861,9 @@ engagements of his own, to avoid and get rid of as he can; very
 
 natural, perhaps. Ninety-nine out of a hundred would do the same. Of
 
-course, he cannot be aware of the importance to me. Well, my dear Miss
+course, he cannot be aware of the importance to me. [[Well]], my dear Miss
 
-Elliot, I hope and trust you will be very happy. Mr Elliot has sense to
+Elliot, I [[Hope|hope]] and trust you will be very happy. Mr Elliot has sense to
 
 understand the value of such a woman. Your peace will not be
 
@@ -12885,7 +12885,7 @@ any thing that has fallen within my observation, to do otherwise. But I
 
 have not known him long; and he is not a man, I think, to be known
 
-intimately soon. Will not this manner of speaking of him, Mrs Smith,
+intimately soon. Will not this manner of speaking of him, Mrs [[smith|Smith]],
 
 convince you that he is nothing to me? Surely this must be calm enough.
 
@@ -12897,7 +12897,7 @@ doing), I shall not accept him. I assure you I shall not. I assure you,
 
 Mr Elliot had not the share which you have been supposing, in whatever
 
-pleasure the concert of last night might afford: not Mr Elliot; it is
+pleasure the concert of last [[Night|night]] might afford: not Mr Elliot; it is
 
 not Mr Elliot that—”
 
@@ -12905,7 +12905,7 @@ not Mr Elliot that—”
 
 She stopped, regretting with a deep blush that she had implied so much;
 
-but less would hardly have been sufficient. Mrs Smith would hardly have
+but less would hardly have been sufficient. Mrs [[smith|Smith]] would hardly have
 
 believed so soon in Mr Elliot’s failure, but from the perception of
 
@@ -12913,7 +12913,7 @@ there being a somebody else. As it was, she instantly submitted, and
 
 with all the semblance of seeing nothing beyond; and Anne, eager to
 
-escape farther notice, was impatient to know why Mrs Smith should have
+escape farther notice, was impatient to know why Mrs [[smith|Smith]] should have
 
 fancied she was to marry Mr Elliot; where she could have received the
 
@@ -12925,7 +12925,7 @@ idea, or from whom she could have heard it.
 
 
 
-“It first came into my head,” replied Mrs Smith, “upon finding how much
+“It first came into my head,” replied Mrs [[smith|Smith]], “upon finding how much
 
 you were together, and feeling it to be the most probable thing in the
 
@@ -12947,35 +12947,35 @@ yesterday?”
 
 
 
-“No. Was not it Mrs Speed, as usual, or the maid? I observed no one in
+“No. Was not it Mrs [[Speed]], as usual, or the maid? I observed no one in
 
 particular.”
 
 
 
-“It was my friend Mrs Rooke; Nurse Rooke; who, by-the-bye, had a great
+“It was my friend Mrs Rooke; [[Nurse]] Rooke; who, by-the-bye, had a great
 
 curiosity to see you, and was delighted to be in the way to let you in.
 
-She came away from Marlborough Buildings only on Sunday; and she it was
+She came away from Marlborough Buildings only on [[Sunday]]; and she it was
 
 who told me you were to marry Mr Elliot. She had had it from Mrs Wallis
 
 herself, which did not seem bad authority. She sat an hour with me on
 
-Monday evening, and gave me the whole history.” “The whole history,”
+Monday evening, and gave me the whole [[history]].” “The whole [[history]],”
 
-repeated Anne, laughing. “She could not make a very long history, I
+repeated Anne, laughing. “She could not make a very long [[history]], I
 
 think, of one such little article of unfounded news.”
 
 
 
-Mrs Smith said nothing.
+Mrs [[smith|Smith]] said nothing.
 
 
 
-“But,” continued Anne, presently, “though there is no truth in my
+“But,” continued Anne, presently, “though there is no [[Truth|truth]] in my
 
 having this claim on Mr Elliot, I should be extremely happy to be of
 
@@ -13019,7 +13019,7 @@ have nothing to trouble you with.”
 
 
 
-“Indeed! Then do tell me what he was at that time of life. I have a
+“Indeed! Then do tell me what he was at that [[Time|time]] of life. I have a
 
 great curiosity to know what Mr Elliot was as a very young man. Was he
 
@@ -13027,13 +13027,13 @@ at all such as he appears now?”
 
 
 
-“I have not seen Mr Elliot these three years,” was Mrs Smith’s answer,
+“I have not seen Mr Elliot these three years,” was Mrs [[smith|Smith]]’s answer,
 
 given so gravely that it was impossible to pursue the subject farther;
 
 and Anne felt that she had gained nothing but an increase of curiosity.
 
-They were both silent: Mrs Smith very thoughtful. At last—
+They were both silent: Mrs [[smith|Smith]] very thoughtful. At last—
 
 
 
@@ -13049,7 +13049,7 @@ were many things to be taken into the account. One hates to be
 
 officious, to be giving bad impressions, making mischief. Even the
 
-smooth surface of family-union seems worth preserving, though there may
+smooth surface of family-[[Union|union]] seems worth preserving, though there may
 
 be nothing durable beneath. However, I have determined; I think I am
 
@@ -13059,11 +13059,11 @@ character. Though I fully believe that, at present, you have not the
 
 smallest intention of accepting him, there is no saying what may
 
-happen. You might, some time or other, be differently affected towards
+happen. You might, some [[Time|time]] or other, be differently affected towards
 
-him. Hear the truth, therefore, now, while you are unprejudiced. Mr
+him. Hear the [[Truth|truth]], therefore, now, while you are unprejudiced. Mr
 
-Elliot is a man without heart or conscience; a designing, wary,
+Elliot is a man without heart or [[Conscience|conscience]]; a designing, wary,
 
 cold-blooded being, who thinks only of himself; whom for his own
 
@@ -13073,7 +13073,7 @@ that could be perpetrated without risk of his general character. He has
 
 no feeling for others. Those whom he has been the chief cause of
 
-leading into ruin, he can neglect and desert without the smallest
+leading into ruin, he can neglect and [[Desert|desert]] without the smallest
 
 compunction. He is totally beyond the reach of any sentiment of justice
 
@@ -13081,7 +13081,7 @@ or compassion. Oh! he is black at heart, hollow and black!”
 
 
 
-Anne’s astonished air, and exclamation of wonder, made her pause, and
+Anne’s astonished air, and exclamation of [[Wonder|wonder]], made her pause, and
 
 in a calmer manner, she added,
 
@@ -13097,7 +13097,7 @@ intimate friend of my dear husband, who trusted and loved him, and
 
 thought him as good as himself. The intimacy had been formed before our
 
-marriage. I found them most intimate friends; and I, too, became
+[[Marriage|marriage]]. I found them most intimate friends; and I, too, became
 
 excessively pleased with Mr Elliot, and entertained the highest opinion
 
@@ -13113,7 +13113,7 @@ inferior in circumstances; he was then the poor one; he had chambers in
 
 the Temple, and it was as much as he could do to support the appearance
 
-of a gentleman. He had always a home with us whenever he chose it; he
+of a gentleman. He had always a [[Home|home]] with us whenever he chose it; he
 
 was always welcome; he was like a brother. My poor Charles, who had the
 
@@ -13129,13 +13129,13 @@ that he often assisted him.”
 
 Anne, “which has always excited my particular curiosity. It must have
 
-been about the same time that he became known to my father and sister.
+been about the same [[Time|time]] that he became known to my father and sister.
 
 I never knew him myself; I only heard of him; but there was a something
 
 in his conduct then, with regard to my father and sister, and
 
-afterwards in the circumstances of his marriage, which I never could
+afterwards in the circumstances of his [[Marriage|marriage]], which I never could
 
 quite reconcile with present times. It seemed to announce a different
 
@@ -13143,7 +13143,7 @@ sort of man.”
 
 
 
-“I know it all, I know it all,” cried Mrs Smith. “He had been
+“I know it all, I know it all,” cried Mrs [[smith|Smith]]. “He had been
 
 introduced to Sir Walter and your sister before I was acquainted with
 
@@ -13153,7 +13153,7 @@ encouraged, and I know he did not choose to go. I can satisfy you,
 
 perhaps, on points which you would little expect; and as to his
 
-marriage, I knew all about it at the time. I was privy to all the fors
+[[Marriage|marriage]], I knew all about it at the [[Time|time]]. I was privy to all the fors
 
 and againsts; I was the friend to whom he confided his hopes and plans;
 
@@ -13171,7 +13171,7 @@ life, and can answer any question you may wish to put.”
 
 have always understood they were not a happy couple. But I should like
 
-to know why, at that time of his life, he should slight my father’s
+to know why, at that [[Time|time]] of his life, he should slight my father’s
 
 acquaintance as he did. My father was certainly disposed to take very
 
@@ -13179,13 +13179,13 @@ kind and proper notice of him. Why did Mr Elliot draw back?”
 
 
 
-“Mr Elliot,” replied Mrs Smith, “at that period of his life, had one
+“Mr Elliot,” replied Mrs [[smith|Smith]], “at that period of his life, had one
 
 object in view: to make his fortune, and by a rather quicker process
 
-than the law. He was determined to make it by marriage. He was
+than the law. He was determined to make it by [[Marriage|marriage]]. He was
 
-determined, at least, not to mar it by an imprudent marriage; and I
+determined, at least, not to mar it by an imprudent [[Marriage|marriage]]; and I
 
 know it was his belief (whether justly or not, of course I cannot
 
@@ -13217,23 +13217,23 @@ me to Mr Elliot?”
 
 
 
-“To be sure I did; very often. I used to boast of my own Anne Elliot,
+“To be sure I did; very often. I used to boast of my own [[Anne Elliot]],
 
 and vouch for your being a very different creature from—”
 
 
 
-She checked herself just in time.
+She checked herself just in [[Time|time]].
 
 
 
-“This accounts for something which Mr Elliot said last night,” cried
+“This accounts for something which Mr Elliot said last [[Night|night]],” cried
 
 Anne. “This explains it. I found he had been used to hear of me. I
 
 could not comprehend how. What wild imaginations one forms where dear
 
-self is concerned! How sure to be mistaken! But I beg your pardon; I
+[[Self|self]] is concerned! How sure to be mistaken! But I beg your pardon; I
 
 have interrupted you. Mr Elliot married then completely for money? The
 
@@ -13243,7 +13243,7 @@ character.”
 
 
 
-Mrs Smith hesitated a little here. “Oh! those things are too common.
+Mrs [[smith|Smith]] hesitated a little here. “Oh! those things are too common.
 
 When one lives in the world, a man or woman’s marrying for money is too
 
@@ -13251,7 +13251,7 @@ common to strike one as it ought. I was very young, and associated only
 
 with the young, and we were a thoughtless, gay set, without any strict
 
-rules of conduct. We lived for enjoyment. I think differently now; time
+rules of conduct. We lived for enjoyment. I think differently now; [[Time|time]]
 
 and sickness and sorrow have given me other notions; but at that period
 
@@ -13271,9 +13271,9 @@ all that he wanted. Her father was a grazier, her grandfather had been
 
 a butcher, but that was all nothing. She was a fine woman, had had a
 
-decent education, was brought forward by some cousins, thrown by chance
+decent [[Education|education]], was brought forward by some cousins, thrown by chance
 
-into Mr Elliot’s company, and fell in love with him; and not a
+into Mr Elliot’s company, and fell in [[Love|love]] with him; and not a
 
 difficulty or a scruple was there on his side, with respect to her
 
@@ -13285,7 +13285,7 @@ esteem Mr Elliot may have for his own situation in life now, as a young
 
 man he had not the smallest value for it. His chance for the Kellynch
 
-estate was something, but all the honour of the family he held as cheap
+estate was something, but all the [[Honour|honour]] of the family he held as cheap
 
 as dirt. I have often heard him declare, that if baronetcies were
 
@@ -13301,7 +13301,7 @@ have proof.”
 
 
 
-“Indeed, my dear Mrs Smith, I want none,” cried Anne. “You have
+“Indeed, my dear Mrs [[smith|Smith]], I want none,” cried Anne. “You have
 
 asserted nothing contradictory to what Mr Elliot appeared to be some
 
@@ -13325,7 +13325,7 @@ you will find on the upper shelf of the closet.”
 
 Anne, seeing her friend to be earnestly bent on it, did as she was
 
-desired. The box was brought and placed before her, and Mrs Smith,
+desired. The box was brought and placed before her, and Mrs [[smith|Smith]],
 
 sighing over it as she unlocked it, said—
 
@@ -13335,7 +13335,7 @@ sighing over it as she unlocked it, said—
 
 portion only of what I had to look over when I lost him. The letter I
 
-am looking for was one written by Mr Elliot to him before our marriage,
+am looking for was one written by Mr Elliot to him before our [[Marriage|marriage]],
 
 and happened to be saved; why, one can hardly imagine. But he was
 
@@ -13357,21 +13357,21 @@ it.”
 
 
 
-This was the letter, directed to “Charles Smith, Esq. Tunbridge Wells,”
+This was the letter, directed to “Charles [[smith|Smith]], Esq. Tunbridge Wells,”
 
-and dated from London, as far back as July, 1803:—
-
-
+and dated from [[London]], as far back as July, 1803:—
 
 
 
-“Dear Smith,
+
+
+“Dear [[smith|Smith]],
 
 
 
 “I have received yours. Your kindness almost overpowers me. I wish
 
-nature had made such hearts as yours more common, but I have lived
+[[Nature|nature]] had made such hearts as yours more common, but I have lived
 
 three-and-twenty years in the world, and have seen none like it. At
 
@@ -13381,11 +13381,11 @@ again. Give me joy: I have got rid of Sir Walter and Miss. They are
 
 gone back to Kellynch, and almost made me swear to visit them this
 
-summer; but my first visit to Kellynch will be with a surveyor, to tell
+[[Summer|summer]]; but my first visit to Kellynch will be with a surveyor, to tell
 
 me how to bring it with best advantage to the hammer. The baronet,
 
-nevertheless, is not unlikely to marry again; he is quite fool enough.
+nevertheless, is not unlikely to marry again; he is quite [[Fool|fool]] enough.
 
 If he does, however, they will leave me in peace, which may be a decent
 
@@ -13395,7 +13395,7 @@ equivalent for the reversion. He is worse than last year.
 
 “I wish I had any name but Elliot. I am sick of it. The name of Walter
 
-I can drop, thank God! and I desire you will never insult me with my
+I can drop, thank God! and I [[Desire|desire]] you will never insult me with my
 
 second W. again, meaning, for the rest of my life, to be only yours
 
@@ -13411,7 +13411,7 @@ truly,
 
 Such a letter could not be read without putting Anne in a glow; and Mrs
 
-Smith, observing the high colour in her face, said—
+[[smith|Smith]], observing the high colour in her face, said—
 
 
 
@@ -13429,7 +13429,7 @@ Anne could not immediately get over the shock and mortification of
 
 finding such words applied to her father. She was obliged to recollect
 
-that her seeing the letter was a violation of the laws of honour, that
+that her seeing the letter was a violation of the laws of [[Honour|honour]], that
 
 no one ought to be judged or to be known by such testimonies, that no
 
@@ -13447,7 +13447,7 @@ were saying. But why be acquainted with us now?”
 
 
 
-“I can explain this too,” cried Mrs Smith, smiling.
+“I can explain this too,” cried Mrs [[smith|Smith]], smiling.
 
 
 
@@ -13459,7 +13459,7 @@ were saying. But why be acquainted with us now?”
 
 will shew him as he is now. I cannot produce written proof again, but I
 
-can give as authentic oral testimony as you can desire, of what he is
+can give as authentic oral testimony as you can [[Desire|desire]], of what he is
 
 now wanting, and what he is now doing. He is no hypocrite now. He truly
 
@@ -13491,23 +13491,23 @@ a very pretty silly wife, to whom he tells things which he had better
 
 not, and he repeats it all to her. She in the overflowing spirits of
 
-her recovery, repeats it all to her nurse; and the nurse knowing my
+her recovery, repeats it all to her [[Nurse|nurse]]; and the [[Nurse|nurse]] knowing my
 
 acquaintance with you, very naturally brings it all to me. On Monday
 
-evening, my good friend Mrs Rooke let me thus much into the secrets of
+evening, my good friend Mrs Rooke let me thus much into the [[Secrets|secrets]] of
 
-Marlborough Buildings. When I talked of a whole history, therefore, you
+Marlborough Buildings. When I talked of a whole [[history]], therefore, you
 
 see I was not romancing so much as you supposed.”
 
 
 
-“My dear Mrs Smith, your authority is deficient. This will not do. Mr
+“My dear Mrs [[smith|Smith]], your authority is deficient. This will not do. Mr
 
 Elliot’s having any views on me will not in the least account for the
 
-efforts he made towards a reconciliation with my father. That was all
+efforts he made towards a [[Reconciliation|reconciliation]] with my father. That was all
 
 prior to my coming to Bath. I found them on the most friendly terms
 
@@ -13519,13 +13519,13 @@ when I arrived.”
 
 
 
-“Indeed, Mrs Smith, we must not expect to get real information in such
+“Indeed, Mrs [[smith|Smith]], we must not expect to get real information in such
 
 a line. Facts or opinions which are to pass through the hands of so
 
 many, to be misconceived by folly in one, and ignorance in another, can
 
-hardly have much truth left.”
+hardly have much [[Truth|truth]] left.”
 
 
 
@@ -13539,7 +13539,7 @@ first inducement. He had seen you indeed, before he came to Bath, and
 
 admired you, but without knowing it to be you. So says my historian, at
 
-least. Is this true? Did he see you last summer or autumn, ‘somewhere
+least. Is this true? Did he see you last [[Summer|summer]] or [[Autumn|autumn]], ‘somewhere
 
 down in the west,’ to use her own words, without knowing it to be you?”
 
@@ -13551,15 +13551,15 @@ Lyme.”
 
 
 
-“Well,” continued Mrs Smith, triumphantly, “grant my friend the credit
+“[[Well]],” continued Mrs [[smith|Smith]], triumphantly, “grant my friend the credit
 
 due to the establishment of the first point asserted. He saw you then
 
-at Lyme, and liked you so well as to be exceedingly pleased to meet
+at Lyme, and liked you so [[Well|well]] as to be exceedingly pleased to meet
 
-with you again in Camden Place, as Miss Anne Elliot, and from that
+with you again in Camden Place, as Miss [[Anne Elliot]], and from that
 
-moment, I have no doubt, had a double motive in his visits there. But
+moment, I have no [[Doubt|doubt]], had a [[Double|double]] motive in his visits there. But
 
 there was another, and an earlier, which I will now explain. If there
 
@@ -13585,7 +13585,7 @@ the danger.”
 
 
 
-Here Mrs Smith paused a moment; but Anne had not a word to say, and she
+Here Mrs [[smith|Smith]] paused a moment; but Anne had not a word to say, and she
 
 continued—
 
@@ -13605,11 +13605,11 @@ for a day or two, as he happened to do a little before Christmas,
 
 Colonel Wallis made him acquainted with the appearance of things, and
 
-the reports beginning to prevail. Now you are to understand, that time
+the reports beginning to prevail. Now you are to understand, that [[Time|time]]
 
 had worked a very material change in Mr Elliot’s opinions as to the
 
-value of a baronetcy. Upon all points of blood and connexion he is a
+value of a baronetcy. Upon all points of [[Blood|blood]] and connexion he is a
 
 completely altered man. Having long had as much money as he could
 
@@ -13627,7 +13627,7 @@ friend could not be very agreeable, and you may guess what it produced;
 
 the resolution of coming back to Bath as soon as possible, and of
 
-fixing himself here for a time, with the view of renewing his former
+fixing himself here for a [[Time|time]], with the view of renewing his former
 
 acquaintance, and recovering such a footing in the family as might give
 
@@ -13681,31 +13681,31 @@ the danger to be lessening or not.”
 
 
 
-“Lessening, I understand,” replied Mrs Smith. “He thinks Mrs Clay
+“Lessening, I understand,” replied Mrs [[smith|Smith]]. “He thinks Mrs Clay
 
 afraid of him, aware that he sees through her, and not daring to
 
 proceed as she might do in his absence. But since he must be absent
 
-some time or other, I do not perceive how he can ever be secure while
+some [[Time|time]] or other, I do not perceive how he can ever be secure while
 
 she holds her present influence. Mrs Wallis has an amusing idea, as
 
-nurse tells me, that it is to be put into the marriage articles when
+[[Nurse|nurse]] tells me, that it is to be put into the [[Marriage|marriage]] articles when
 
 you and Mr Elliot marry, that your father is not to marry Mrs Clay. A
 
 scheme, worthy of Mrs Wallis’s understanding, by all accounts; but my
 
-sensible nurse Rooke sees the absurdity of it. ‘Why, to be sure,
+sensible [[Nurse|nurse]] Rooke sees the absurdity of it. ‘Why, to be sure,
 
 ma’am,’ said she, ‘it would not prevent his marrying anybody else.’
 
-And, indeed, to own the truth, I do not think nurse, in her heart, is a
+And, indeed, to own the [[Truth|truth]], I do not think [[Nurse|nurse]], in her heart, is a
 
 very strenuous opposer of Sir Walter’s making a second match. She must
 
-be allowed to be a favourer of matrimony, you know; and (since self
+be allowed to be a favourer of matrimony, you know; and (since [[Self|self]]
 
 will intrude) who can say that she may not have some flying visions of
 
@@ -13727,7 +13727,7 @@ guide him than selfishness.”
 
 
 
-But Mr Elliot was not done with. Mrs Smith had been carried away from
+But Mr Elliot was not done with. Mrs [[smith|Smith]] had been carried away from
 
 her first direction, and Anne had forgotten, in the interest of her own
 
@@ -13737,7 +13737,7 @@ her attention was now called to the explanation of those first hints,
 
 and she listened to a recital which, if it did not perfectly justify
 
-the unqualified bitterness of Mrs Smith, proved him to have been very
+the unqualified bitterness of Mrs [[smith|Smith]], proved him to have been very
 
 unfeeling in his conduct towards her; very deficient both in justice
 
@@ -13747,11 +13747,11 @@ and compassion.
 
 She learned that (the intimacy between them continuing unimpaired by Mr
 
-Elliot’s marriage) they had been as before always together, and Mr
+Elliot’s [[Marriage|marriage]]) they had been as before always together, and Mr
 
 Elliot had led his friend into expenses much beyond his fortune. Mrs
 
-Smith did not want to take blame to herself, and was most tender of
+[[smith|Smith]] did not want to take blame to herself, and was most tender of
 
 throwing any on her husband; but Anne could collect that their income
 
@@ -13759,7 +13759,7 @@ had never been equal to their style of living, and that from the first
 
 there had been a great deal of general and joint extravagance. From his
 
-wife’s account of him she could discern Mr Smith to have been a man of
+wife’s account of him she could discern Mr [[smith|Smith]] to have been a man of
 
 warm feelings, easy temper, careless habits, and not strong
 
@@ -13767,11 +13767,11 @@ understanding, much more amiable than his friend, and very unlike him,
 
 led by him, and probably despised by him. Mr Elliot, raised by his
 
-marriage to great affluence, and disposed to every gratification of
+[[Marriage|marriage]] to great affluence, and disposed to every gratification of
 
-pleasure and vanity which could be commanded without involving himself,
+pleasure and [[Vanity|vanity]] which could be commanded without involving himself,
 
-(for with all his self-indulgence he had become a prudent man), and
+(for with all his [[Self|self]]-indulgence he had become a prudent man), and
 
 beginning to be rich, just as his friend ought to have found himself to
 
@@ -13785,17 +13785,17 @@ accordingly had been ruined.
 
 
 
-The husband had died just in time to be spared the full knowledge of
+The husband had died just in [[Time|time]] to be spared the full knowledge of
 
 it. They had previously known embarrassments enough to try the
 
-friendship of their friends, and to prove that Mr Elliot’s had better
+[[Friendship|friendship]] of their friends, and to prove that Mr Elliot’s had better
 
-not be tried; but it was not till his death that the wretched state of
+not be tried; but it was not till his [[Death|death]] that the wretched state of
 
 his affairs was fully known. With a confidence in Mr Elliot’s regard,
 
-more creditable to his feelings than his judgement, Mr Smith had
+more creditable to his feelings than his judgement, Mr [[smith|Smith]] had
 
 appointed him the executor of his will; but Mr Elliot would not act,
 
@@ -13811,7 +13811,7 @@ without corresponding indignation.
 
 Anne was shewn some letters of his on the occasion, answers to urgent
 
-applications from Mrs Smith, which all breathed the same stern
+applications from Mrs [[smith|Smith]], which all breathed the same stern
 
 resolution of not engaging in a fruitless trouble, and, under a cold
 
@@ -13829,13 +13829,13 @@ distress, which in former conversations had been merely hinted at, were
 
 dwelt on now with a natural indulgence. Anne could perfectly comprehend
 
-the exquisite relief, and was only the more inclined to wonder at the
+the exquisite relief, and was only the more inclined to [[Wonder|wonder]] at the
 
 composure of her friend’s usual state of mind.
 
 
 
-There was one circumstance in the history of her grievances of
+There was one circumstance in the [[history]] of her grievances of
 
 particular irritation. She had good reason to believe that some
 
@@ -13861,7 +13861,7 @@ of the law. This was a cruel aggravation of actually straitened means.
 
 To feel that she ought to be in better circumstances, that a little
 
-trouble in the right place might do it, and to fear that delay might be
+trouble in the right place might do it, and to [[Fear|fear]] that delay might be
 
 even weakening her claims, was hard to bear.
 
@@ -13871,9 +13871,9 @@ It was on this point that she had hoped to engage Anne’s good offices
 
 with Mr Elliot. She had previously, in the anticipation of their
 
-marriage, been very apprehensive of losing her friend by it; but on
+[[Marriage|marriage]], been very apprehensive of losing her friend by it; but on
 
-being assured that he could have made no attempt of that nature, since
+being assured that he could have made no attempt of that [[Nature|nature]], since
 
 he did not even know her to be in Bath, it immediately occurred, that
 
@@ -13885,7 +13885,7 @@ as far as the observances due to Mr Elliot’s character would allow,
 
 when Anne’s refutation of the supposed engagement changed the face of
 
-everything; and while it took from her the new-formed hope of
+everything; and while it took from her the new-formed [[Hope|hope]] of
 
 succeeding in the object of her first anxiety, left her at least the
 
@@ -13895,7 +13895,7 @@ comfort of telling the whole story her own way.
 
 After listening to this full description of Mr Elliot, Anne could not
 
-but express some surprise at Mrs Smith’s having spoken of him so
+but express some surprise at Mrs [[smith|Smith]]’s having spoken of him so
 
 favourably in the beginning of their conversation. “She had seemed to
 
@@ -13903,11 +13903,11 @@ recommend and praise him!”
 
 
 
-“My dear,” was Mrs Smith’s reply, “there was nothing else to be done. I
+“My dear,” was Mrs [[smith|Smith]]’s reply, “there was nothing else to be done. I
 
 considered your marrying him as certain, though he might not yet have
 
-made the offer, and I could no more speak the truth of him, than if he
+made the offer, and I could no more speak the [[Truth|truth]] of him, than if he
 
 had been your husband. My heart bled for you, as I talked of happiness;
 
@@ -13917,7 +13917,7 @@ it was not absolutely hopeless. He was very unkind to his first wife.
 
 They were wretched together. But she was too ignorant and giddy for
 
-respect, and he had never loved her. I was willing to hope that you
+respect, and he had never loved her. I was willing to [[Hope|hope]] that you
 
 must fare better.”
 
@@ -13929,15 +13929,15 @@ been induced to marry him, as made her shudder at the idea of the
 
 misery which must have followed. It was just possible that she might
 
-have been persuaded by Lady Russell! And under such a supposition,
+have been persuaded by [[Lady Russell]]! And under such a supposition,
 
-which would have been most miserable, when time had disclosed all, too
+which would have been most miserable, when [[Time|time]] had disclosed all, too
 
 late?
 
 
 
-It was very desirable that Lady Russell should be no longer deceived;
+It was very desirable that [[Lady Russell]] should be no longer deceived;
 
 and one of the concluding arrangements of this important conference,
 
@@ -13945,7 +13945,7 @@ which carried them through the greater part of the morning, was, that
 
 Anne had full liberty to communicate to her friend everything relative
 
-to Mrs Smith, in which his conduct was involved.
+to Mrs [[smith|Smith]], in which his conduct was involved.
 
 
 
@@ -13961,15 +13961,15 @@ CHAPTER XXII.
 
 
 
-Anne went home to think over all that she had heard. In one point, her
+Anne went [[Home|home]] to think over all that she had heard. In one point, her
 
 feelings were relieved by this knowledge of Mr Elliot. There was no
 
 longer anything of tenderness due to him. He stood as opposed to
 
-Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil
+[[Captain Wentworth]], in all his own unwelcome obtrusiveness; and the evil
 
-of his attentions last night, the irremediable mischief he might have
+of his attentions last [[Night|night]], the irremediable mischief he might have
 
 done, was considered with sensations unqualified, unperplexed. Pity for
 
@@ -13979,7 +13979,7 @@ respect, in looking around her, or penetrating forward, she saw more to
 
 distrust and to apprehend. She was concerned for the disappointment and
 
-pain Lady Russell would be feeling; for the mortifications which must
+[[Pain|pain]] [[Lady Russell]] would be feeling; for the mortifications which must
 
 be hanging over her father and sister, and had all the distress of
 
@@ -13989,25 +13989,25 @@ She was most thankful for her own knowledge of him. She had never
 
 considered herself as entitled to reward for not slighting an old
 
-friend like Mrs Smith, but here was a reward indeed springing from it!
+friend like Mrs [[smith|Smith]], but here was a reward indeed springing from it!
 
-Mrs Smith had been able to tell her what no one else could have done.
+Mrs [[smith|Smith]] had been able to tell her what no one else could have done.
 
 Could the knowledge have been extended through her family? But this was
 
-a vain idea. She must talk to Lady Russell, tell her, consult with her,
+a vain idea. She must talk to [[Lady Russell]], tell her, consult with her,
 
 and having done her best, wait the event with as much composure as
 
 possible; and after all, her greatest want of composure would be in
 
-that quarter of the mind which could not be opened to Lady Russell; in
+that quarter of the mind which could not be opened to [[Lady Russell]]; in
 
 that flow of anxieties and fears which must be all to herself.
 
 
 
-She found, on reaching home, that she had, as she intended, escaped
+She found, on reaching [[Home|home]], that she had, as she intended, escaped
 
 seeing Mr Elliot; that he had called and paid them a long morning
 
@@ -14027,7 +14027,7 @@ least.”
 
 “Indeed, I do say it. I never saw anybody in my life spell harder for
 
-an invitation. Poor man! I was really in pain for him; for your
+an invitation. Poor man! I was really in [[Pain|pain]] for him; for your
 
 hard-hearted sister, Miss Anne, seems bent on cruelty.”
 
@@ -14057,7 +14057,7 @@ I not say father and son?”
 
 
 
-“Oh! I lay no embargo on any body’s words. If you will have such ideas!
+“Oh! I lay no embargo on any [[Body|body]]’s words. If you will have such ideas!
 
 But, upon my word, I am scarcely sensible of his attentions being
 
@@ -14067,11 +14067,11 @@ beyond those of other men.”
 
 “My dear Miss Elliot!” exclaimed Mrs Clay, lifting her hands and eyes,
 
-and sinking all the rest of her astonishment in a convenient silence.
+and sinking all the rest of her astonishment in a convenient [[Silence|silence]].
 
 
 
-“Well, my dear Penelope, you need not be so alarmed about him. I did
+“[[Well]], my dear Penelope, you need not be so alarmed about him. I did
 
 invite him, you know. I sent him away with smiles. When I found he was
 
@@ -14109,7 +14109,7 @@ now she saw insincerity in everything. His attentive deference to her
 
 father, contrasted with his former language, was odious; and when she
 
-thought of his cruel conduct towards Mrs Smith, she could hardly bear
+thought of his cruel conduct towards Mrs [[smith|Smith]], she could hardly bear
 
 the sight of his present smiles and mildness, or the sound of his
 
@@ -14129,7 +14129,7 @@ quietly as she could, the few steps of unnecessary intimacy she had
 
 been gradually led along. She was accordingly more guarded, and more
 
-cool, than she had been the night before.
+cool, than she had been the [[Night|night]] before.
 
 
 
@@ -14141,7 +14141,7 @@ more solicitation; but the charm was broken: he found that the heat and
 
 animation of a public room was necessary to kindle his modest cousin’s
 
-vanity; he found, at least, that it was not to be done now, by any of
+[[Vanity|vanity]]; he found, at least, that it was not to be done now, by any of
 
 those attempts which he could hazard among the too-commanding claims of
 
@@ -14159,7 +14159,7 @@ Bath the next morning, going early, and that he would be gone the
 
 greater part of two days. He was invited again to Camden Place the very
 
-evening of his return; but from Thursday to Saturday evening his
+evening of his return; but from [[thursday|Thursday]] to Saturday evening his
 
 absence was certain. It was bad enough that a Mrs Clay should be always
 
@@ -14167,13 +14167,13 @@ before her; but that a deeper hypocrite should be added to their party,
 
 seemed the destruction of everything like peace and comfort. It was so
 
-humiliating to reflect on the constant deception practised on her
+humiliating to reflect on the constant [[Deception|deception]] practised on her
 
 father and Elizabeth; to consider the various sources of mortification
 
 preparing for them! Mrs Clay’s selfishness was not so complicate nor so
 
-revolting as his; and Anne would have compounded for the marriage at
+revolting as his; and Anne would have compounded for the [[Marriage|marriage]] at
 
 once, with all its evils, to be clear of Mr Elliot’s subtleties in
 
@@ -14181,7 +14181,7 @@ endeavouring to prevent it.
 
 
 
-On Friday morning she meant to go very early to Lady Russell, and
+On Friday morning she meant to go very early to [[Lady Russell]], and
 
 accomplish the necessary communication; and she would have gone
 
@@ -14197,23 +14197,23 @@ in Rivers Street.
 
 
 
-“Very well,” said Elizabeth, “I have nothing to send but my love. Oh!
+“Very [[Well|well]],” said Elizabeth, “I have nothing to send but my [[Love|love]]. Oh!
 
-you may as well take back that tiresome book she would lend me, and
+you may as [[Well|well]] take back that tiresome book she would lend me, and
 
 pretend I have read it through. I really cannot be plaguing myself for
 
-ever with all the new poems and states of the nation that come out.
+ever with all the new [[Poems|poems]] and states of the nation that come out.
 
-Lady Russell quite bores one with her new publications. You need not
+[[Lady Russell]] quite bores one with her new publications. You need not
 
-tell her so, but I thought her dress hideous the other night. I used to
+tell her so, but I thought her dress hideous the other [[Night|night]]. I used to
 
 think she had some taste in dress, but I was ashamed of her at the
 
 concert. Something so formal and _arrangé_ in her air! and she sits so
 
-upright! My best love, of course.”
+upright! My best [[Love|love]], of course.”
 
 
 
@@ -14221,11 +14221,11 @@ upright! My best love, of course.”
 
 mean to call upon her soon. Make a civil message; but I shall only
 
-leave my card. Morning visits are never fair by women at her time of
+leave my card. Morning visits are never fair by women at her [[Time|time]] of
 
 life, who make themselves up so little. If she would only wear rouge
 
-she would not be afraid of being seen; but last time I called, I
+she would not be afraid of being seen; but last [[Time|time]] I called, I
 
 observed the blinds were let down immediately.”
 
@@ -14251,9 +14251,9 @@ they could put on a decent air of welcome; and as soon as it became
 
 clear that these, their nearest relations, were not arrived with any
 
-views of accommodation in that house, Sir Walter and Elizabeth were
+views of accommodation in that [[house]], Sir Walter and Elizabeth were
 
-able to rise in cordiality, and do the honours of it very well. They
+able to rise in cordiality, and do the honours of it very [[Well|well]]. They
 
 were come to Bath for a few days with Mrs Musgrove, and were at the
 
@@ -14263,11 +14263,11 @@ Elizabeth were walking Mary into the other drawing-room, and regaling
 
 themselves with her admiration, Anne could not draw upon Charles’s
 
-brain for a regular history of their coming, or an explanation of some
+brain for a regular [[history]] of their coming, or an explanation of some
 
 smiling hints of particular business, which had been ostentatiously
 
-dropped by Mary, as well as of some apparent confusion as to whom their
+dropped by Mary, as [[Well|well]] as of some apparent confusion as to whom their
 
 party consisted of.
 
@@ -14305,9 +14305,9 @@ it ended in being his mother’s party, that everything might be
 
 comfortable and easy to Captain Harville; and he and Mary were included
 
-in it by way of general convenience. They had arrived late the night
+in it by way of general convenience. They had arrived late the [[Night|night]]
 
-before. Mrs Harville, her children, and Captain Benwick, remained with
+before. Mrs Harville, her children, and [[Captain Benwick]], remained with
 
 Mr Musgrove and Louisa at Uppercross.
 
@@ -14317,7 +14317,7 @@ Anne’s only surprise was, that affairs should be in forwardness enough
 
 for Henrietta’s wedding-clothes to be talked of. She had imagined such
 
-difficulties of fortune to exist there as must prevent the marriage
+difficulties of fortune to exist there as must prevent the [[Marriage|marriage]]
 
 from being near at hand; but she learned from Charles that, very
 
@@ -14331,7 +14331,7 @@ present income, with almost a certainty of something more permanent
 
 long before the term in question, the two families had consented to the
 
-young people’s wishes, and that their marriage was likely to take place
+young people’s wishes, and that their [[Marriage|marriage]] was likely to take place
 
 in a few months, quite as soon as Louisa’s. “And a very good living it
 
@@ -14353,19 +14353,19 @@ recommendation. Not that he will value it as he ought,” he observed,
 
 “I am extremely glad, indeed,” cried Anne, “particularly glad that this
 
-should happen; and that of two sisters, who both deserve equally well,
+should happen; and that of two sisters, who both deserve equally [[Well|well]],
 
 and who have always been such good friends, the pleasant prospect of
 
 one should not be dimming those of the other—that they should be so
 
-equal in their prosperity and comfort. I hope your father and mother
+equal in their prosperity and comfort. I [[Hope|hope]] your father and mother
 
 are quite happy with regard to both.”
 
 
 
-“Oh! yes. My father would be well pleased if the gentlemen were richer,
+“Oh! yes. My father would be [[Well|well]] pleased if the gentlemen were richer,
 
 but he has no other fault to find. Money, you know, coming down with
 
@@ -14399,7 +14399,7 @@ such hands! Your father and mother seem so totally free from all those
 
 ambitious feelings which have led to so much misconduct and misery,
 
-both in young and old. I hope you think Louisa perfectly recovered
+both in young and old. I [[Hope|hope]] you think Louisa perfectly recovered
 
 now?”
 
@@ -14413,7 +14413,7 @@ laughing or dancing; it is quite different. If one happens only to shut
 
 the door a little hard, she starts and wriggles like a young dab-chick
 
-in the water; and Benwick sits at her elbow, reading verses, or
+in the [[Water|water]]; and Benwick sits at her elbow, reading verses, or
 
 whispering to her, all day long.”
 
@@ -14425,7 +14425,7 @@ know,” said she; “but I do believe him to be an excellent young man.”
 
 
 
-“To be sure he is. Nobody doubts it; and I hope you do not think I am
+“To be sure he is. Nobody doubts it; and I [[Hope|hope]] you do not think I am
 
 so illiberal as to want every man to have the same objects and
 
@@ -14433,13 +14433,13 @@ pleasures as myself. I have a great value for Benwick; and when one can
 
 but get him to talk, he has plenty to say. His reading has done him no
 
-harm, for he has fought as well as read. He is a brave fellow. I got
+harm, for he has fought as [[Well|well]] as read. He is a brave fellow. I got
 
 more acquainted with him last Monday than ever I did before. We had a
 
 famous set-to at rat-hunting all the morning in my father’s great
 
-barns; and he played his part so well that I have liked him the better
+barns; and he played his part so [[Well|well]] that I have liked him the better
 
 ever since.”
 
@@ -14459,17 +14459,17 @@ blessings if she could, but she did not want to lessen theirs.
 
 
 
-The visit passed off altogether in high good humour. Mary was in
+The visit passed off altogether in high good [[Humour|humour]]. Mary was in
 
-excellent spirits, enjoying the gaiety and the change, and so well
+excellent spirits, enjoying the gaiety and the change, and so [[Well|well]]
 
-satisfied with the journey in her mother-in-law’s carriage with four
+satisfied with the [[Journey|journey]] in her mother-in-law’s carriage with four
 
 horses, and with her own complete independence of Camden Place, that
 
 she was exactly in a temper to admire everything as she ought, and
 
-enter most readily into all the superiorities of the house, as they
+enter most readily into all the superiorities of the [[house]], as they
 
 were detailed to her. She had no demands on her father or sister, and
 
@@ -14479,7 +14479,7 @@ drawing-rooms.
 
 
 
-Elizabeth was, for a short time, suffering a good deal. She felt that
+Elizabeth was, for a short [[Time|time]], [[Suffering|suffering]] a good deal. She felt that
 
 Mrs Musgrove and all her party ought to be asked to dine with them; but
 
@@ -14489,7 +14489,7 @@ servants, which a dinner must betray, witnessed by those who had been
 
 always so inferior to the Elliots of Kellynch. It was a struggle
 
-between propriety and vanity; but vanity got the better, and then
+between propriety and [[Vanity|vanity]]; but [[Vanity|vanity]] got the better, and then
 
 Elizabeth was happy again. These were her internal persuasions: “Old
 
@@ -14521,7 +14521,7 @@ Dalrymple and Miss Carteret, who were fortunately already engaged to
 
 come; and she could not have received a more gratifying attention. Miss
 
-Elliot was to have the honour of calling on Mrs Musgrove in the course
+Elliot was to have the [[Honour|honour]] of calling on Mrs Musgrove in the course
 
 of the morning; and Anne walked off with Charles and Mary, to go and
 
@@ -14529,7 +14529,7 @@ see her and Henrietta directly.
 
 
 
-Her plan of sitting with Lady Russell must give way for the present.
+Her plan of sitting with [[Lady Russell]] must give way for the present.
 
 They all three called in Rivers Street for a couple of minutes; but
 
@@ -14537,7 +14537,7 @@ Anne convinced herself that a day’s delay of the intended communication
 
 could be of no consequence, and hastened forward to the White Hart, to
 
-see again the friends and companions of the last autumn, with an
+see again the friends and companions of the last [[Autumn|autumn]], with an
 
 eagerness of good-will which many associations contributed to form.
 
@@ -14557,9 +14557,9 @@ usefulness when they were in distress. It was a heartiness, and a
 
 warmth, and a sincerity which Anne delighted in the more, from the sad
 
-want of such blessings at home. She was entreated to give them as much
+want of such blessings at [[Home|home]]. She was entreated to give them as much
 
-of her time as possible, invited for every day and all day long, or
+of her [[Time|time]] as possible, invited for every day and all day long, or
 
 rather claimed as part of the family; and, in return, she naturally
 
@@ -14567,7 +14567,7 @@ fell into all her wonted ways of attention and assistance, and on
 
 Charles’s leaving them together, was listening to Mrs Musgrove’s
 
-history of Louisa, and to Henrietta’s of herself, giving opinions on
+[[history]] of Louisa, and to Henrietta’s of herself, giving opinions on
 
 business, and recommendations to shops; with intervals of every help
 
@@ -14575,9 +14575,9 @@ which Mary required, from altering her ribbon to settling her accounts;
 
 from finding her keys, and assorting her trinkets, to trying to
 
-convince her that she was not ill-used by anybody; which Mary, well
+convince her that she was not ill-used by anybody; which Mary, [[Well|well]]
 
-amused as she generally was, in her station at a window overlooking the
+amused as she generally was, in her station at a [[Window|window]] overlooking the
 
 entrance to the Pump Room, could not but have her moments of imagining.
 
@@ -14605,7 +14605,7 @@ again. Their last meeting had been most important in opening his
 
 feelings; she had derived from it a delightful conviction; but she
 
-feared from his looks, that the same unfortunate persuasion, which had
+feared from his looks, that the same unfortunate [[Persuasion|persuasion]], which had
 
 hastened him away from the Concert Room, still governed. He did not
 
@@ -14633,7 +14633,7 @@ misconstructions of the most mischievous kind.
 
 
 
-“Anne,” cried Mary, still at her window, “there is Mrs Clay, I am sure,
+“Anne,” cried Mary, still at her [[Window|window]], “there is Mrs Clay, I am sure,
 
 standing under the colonnade, and a gentleman with her. I saw them turn
 
@@ -14653,7 +14653,7 @@ to-morrow.”
 
 
 
-As she spoke, she felt that Captain Wentworth was looking at her, the
+As she spoke, she felt that [[Captain Wentworth]] was looking at her, the
 
 consciousness of which vexed and embarrassed her, and made her regret
 
@@ -14693,7 +14693,7 @@ forgot all about Lyme.”
 
 To pacify Mary, and perhaps screen her own embarrassment, Anne did move
 
-quietly to the window. She was just in time to ascertain that it really
+quietly to the [[Window|window]]. She was just in [[Time|time]] to ascertain that it really
 
 was Mr Elliot, which she had never believed, before he disappeared on
 
@@ -14709,7 +14709,7 @@ going, I suppose, that is all, or I may be mistaken, I might not
 
 attend;” and walked back to her chair, recomposed, and with the
 
-comfortable hope of having acquitted herself well.
+comfortable [[Hope|hope]] of having acquitted herself [[Well|well]].
 
 
 
@@ -14721,15 +14721,15 @@ with—
 
 
 
-“Well, mother, I have done something for you that you will like. I have
+“[[Well]], mother, I have done something for you that you will like. I have
 
-been to the theatre, and secured a box for to-morrow night. A’n’t I a
+been to the theatre, and secured a box for to-morrow [[Night|night]]. A’n’t I a
 
-good boy? I know you love a play; and there is room for us all. It
+good boy? I know you [[Love|love]] a play; and there is room for us all. It
 
-holds nine. I have engaged Captain Wentworth. Anne will not be sorry to
+holds nine. I have engaged [[Captain Wentworth]]. Anne will not be sorry to
 
-join us, I am sure. We all like a play. Have not I done well, mother?”
+join us, I am sure. We all like a play. Have not I done [[Well|well]], mother?”
 
 
 
@@ -14743,9 +14743,9 @@ Mary eagerly interrupted her by exclaiming—
 
 “Good heavens, Charles! how can you think of such a thing? Take a box
 
-for to-morrow night! Have you forgot that we are engaged to Camden
+for to-morrow [[Night|night]]! Have you forgot that we are engaged to Camden
 
-Place to-morrow night? and that we were most particularly asked to meet
+Place to-morrow [[Night|night]]? and that we were most particularly asked to meet
 
 Lady Dalrymple and her daughter, and Mr Elliot, and all the principal
 
@@ -14803,7 +14803,7 @@ scandalous to go for the sake of his heir. What is Mr Elliot to me?”
 
 The careless expression was life to Anne, who saw that Captain
 
-Wentworth was all attention, looking and listening with his whole soul;
+Wentworth was all attention, looking and listening with his whole [[Soul|soul]];
 
 and that the last words brought his enquiring eyes from Charles to
 
@@ -14819,7 +14819,7 @@ invariably serious, most warmly opposing it, and not omitting to make
 
 it known that, however determined to go to Camden Place herself, she
 
-should not think herself very well used, if they went to the play
+should not think herself very [[Well|well]] used, if they went to the play
 
 without her. Mrs Musgrove interposed.
 
@@ -14843,7 +14843,7 @@ for the opportunity it gave her of decidedly saying—
 
 
 
-“If it depended only on my inclination, ma’am, the party at home
+“If it depended only on my inclination, ma’am, the party at [[Home|home]]
 
 (excepting on Mary’s account) would not be the smallest impediment. I
 
@@ -14867,7 +14867,7 @@ that he would go to the play to-morrow if nobody else would.
 
 
 
-Captain Wentworth left his seat, and walked to the fire-place; probably
+[[Captain Wentworth]] left his seat, and walked to the [[Fire|fire]]-place; probably
 
 for the sake of walking away from it soon afterwards, and taking a
 
@@ -14887,7 +14887,7 @@ card-player.”
 
 
 
-“You were not formerly, I know. You did not use to like cards; but time
+“You were not formerly, I know. You did not use to like cards; but [[Time|time]]
 
 makes many changes.”
 
@@ -14903,7 +14903,7 @@ indeed! Eight years and a half is a period.”
 
 
 
-Whether he would have proceeded farther was left to Anne’s imagination
+Whether he would have proceeded farther was left to Anne’s [[Imagination|imagination]]
 
 to ponder over in a calmer hour; for while still hearing the sounds he
 
@@ -14911,7 +14911,7 @@ had uttered, she was startled to other subjects by Henrietta, eager to
 
 make use of the present leisure for getting out, and calling on her
 
-companions to lose no time, lest somebody else should come in.
+companions to lose no [[Time|time]], lest somebody else should come in.
 
 
 
@@ -14937,9 +14937,9 @@ Walter and Miss Elliot, whose entrance seemed to give a general chill.
 
 Anne felt an instant oppression, and wherever she looked saw symptoms
 
-of the same. The comfort, the freedom, the gaiety of the room was over,
+of the same. The comfort, the [[Freedom|freedom]], the gaiety of the room was over,
 
-hushed into cold composure, determined silence, or insipid talk, to
+hushed into cold composure, determined [[Silence|silence]], or insipid talk, to
 
 meet the heartless elegance of her father and sister. How mortifying to
 
@@ -14947,7 +14947,7 @@ feel that it was so!
 
 
 
-Her jealous eye was satisfied in one particular. Captain Wentworth was
+Her jealous eye was satisfied in one particular. [[Captain Wentworth]] was
 
 acknowledged again by each, by Elizabeth more graciously than before.
 
@@ -14963,17 +14963,17 @@ dues of the Musgroves. “To-morrow evening, to meet a few friends: no
 
 formal party.” It was all said very gracefully, and the cards with
 
-which she had provided herself, the “Miss Elliot at home,” were laid on
+which she had provided herself, the “Miss Elliot at [[Home|home]],” were laid on
 
 the table, with a courteous, comprehensive smile to all, and one smile
 
-and one card more decidedly for Captain Wentworth. The truth was, that
+and one card more decidedly for [[Captain Wentworth]]. The [[Truth|truth]] was, that
 
 Elizabeth had been long enough in Bath to understand the importance of
 
 a man of such an air and appearance as his. The past was nothing. The
 
-present was that Captain Wentworth would move about well in her
+present was that [[Captain Wentworth]] would move about [[Well|well]] in her
 
 drawing-room. The card was pointedly given, and Sir Walter and
 
@@ -15005,7 +15005,7 @@ his hand after they were gone, as if deeply considering it.
 
 “Only think of Elizabeth’s including everybody!” whispered Mary very
 
-audibly. “I do not wonder Captain Wentworth is delighted! You see he
+audibly. “I do not [[Wonder|wonder]] [[Captain Wentworth]] is delighted! You see he
 
 cannot put the card out of his hand.”
 
@@ -15027,7 +15027,7 @@ belonged to them. She was earnestly begged to return and dine, and give
 
 them all the rest of the day, but her spirits had been so long exerted
 
-that at present she felt unequal to more, and fit only for home, where
+that at present she felt unequal to more, and fit only for [[Home|home]], where
 
 she might be sure of being as silent as she chose.
 
@@ -15047,7 +15047,7 @@ improving detail of all the embellishments which were to make it the
 
 most completely elegant of its kind in Bath, while harassing herself
 
-with the never-ending question, of whether Captain Wentworth would come
+with the never-ending question, of whether [[Captain Wentworth]] would come
 
 or not? They were reckoning him as certain, but with her it was a
 
@@ -15071,7 +15071,7 @@ after his being supposed to be out of Bath, for having watched in vain
 
 for some intimation of the interview from the lady herself, she
 
-determined to mention it, and it seemed to her there was guilt in Mrs
+determined to mention it, and it seemed to her there was [[Guilt|guilt]] in Mrs
 
 Clay’s face as she listened. It was transient: cleared away in an
 
@@ -15083,7 +15083,7 @@ authority of his, been obliged to attend (perhaps for half an hour) to
 
 his lectures and restrictions on her designs on Sir Walter. She
 
-exclaimed, however, with a very tolerable imitation of nature:—
+exclaimed, however, with a very tolerable [[Imitation|imitation]] of [[Nature|nature]]:—
 
 
 
@@ -15103,7 +15103,7 @@ he might be admitted to-morrow. He was full of ‘to-morrow,’ and it is
 
 very evident that I have been full of it too, ever since I entered the
 
-house, and learnt the extension of your plan and all that had happened,
+[[house]], and learnt the extension of your plan and all that had happened,
 
 or my seeing him could never have gone so entirely out of my head.”
 
@@ -15121,7 +15121,7 @@ CHAPTER XXIII.
 
 
 
-One day only had passed since Anne’s conversation with Mrs Smith; but a
+One day only had passed since Anne’s conversation with Mrs [[smith|Smith]]; but a
 
 keener interest had succeeded, and she was now so little touched by Mr
 
@@ -15131,7 +15131,7 @@ a matter of course the next morning, still to defer her explanatory
 
 visit in Rivers Street. She had promised to be with the Musgroves from
 
-breakfast to dinner. Her faith was plighted, and Mr Elliot’s character,
+breakfast to dinner. Her [[Faith|faith]] was plighted, and Mr Elliot’s character,
 
 like the Sultaness Scheherazade’s head, must live another day.
 
@@ -15145,11 +15145,11 @@ account, and felt it very much on her own, before she was able to
 
 attempt the walk. When she reached the White Hart, and made her way to
 
-the proper apartment, she found herself neither arriving quite in time,
+the proper apartment, she found herself neither arriving quite in [[Time|time]],
 
 nor the first to arrive. The party before her were, Mrs Musgrove,
 
-talking to Mrs Croft, and Captain Harville to Captain Wentworth; and
+talking to Mrs Croft, and Captain Harville to [[Captain Wentworth]]; and
 
 she immediately heard that Mary and Henrietta, too impatient to wait,
 
@@ -15163,7 +15163,7 @@ outwardly composed, and feel herself plunged at once in all the
 
 agitations which she had merely laid her account of tasting a little
 
-before the morning closed. There was no delay, no waste of time. She
+before the morning closed. There was no delay, no waste of [[Time|time]]. She
 
 was deep in the happiness of such misery, or the misery of such
 
@@ -15185,7 +15185,7 @@ turning his back to them all, was engrossed by writing.
 
 
 
-Mrs Musgrove was giving Mrs Croft the history of her eldest daughter’s
+Mrs Musgrove was giving Mrs Croft the [[history]] of her eldest daughter’s
 
 engagement, and just in that inconvenient tone of voice which was
 
@@ -15205,7 +15205,7 @@ had occurred to my sister Hayter, and what the young people had wished,
 
 and what I said at first I never could consent to, but was afterwards
 
-persuaded to think might do very well,” and a great deal in the same
+persuaded to think might do very [[Well|well]],” and a great deal in the same
 
 style of open-hearted communication: minutiae which, even with every
 
@@ -15213,11 +15213,11 @@ advantage of taste and delicacy, which good Mrs Musgrove could not
 
 give, could be properly interesting only to the principals. Mrs Croft
 
-was attending with great good-humour, and whenever she spoke at all, it
+was attending with great good-[[Humour|humour]], and whenever she spoke at all, it
 
 was very sensibly. Anne hoped the gentlemen might each be too much
 
-self-occupied to hear.
+[[Self|self]]-occupied to hear.
 
 
 
@@ -15253,7 +15253,7 @@ speech, “there is nothing I so abominate for young people as a long
 
 engagement. It is what I always protested against for my children. It
 
-is all very well, I used to say, for young people to be engaged, if
+is all very [[Well|well]], I used to say, for young people to be engaged, if
 
 there is a certainty of their being able to marry in six months, or
 
@@ -15265,7 +15265,7 @@ even in twelve; but a long engagement—”
 
 engagement which may be long. To begin without knowing that at such a
 
-time there will be the means of marrying, I hold to be very unsafe and
+[[Time|time]] there will be the means of marrying, I hold to be very unsafe and
 
 unwise, and what I think all parents should prevent as far as they
 
@@ -15279,7 +15279,7 @@ herself, felt it in a nervous thrill all over her; and at the same
 
 moment that her eyes instinctively glanced towards the distant table,
 
-Captain Wentworth’s pen ceased to move, his head was raised, pausing,
+[[Captain Wentworth]]’s pen ceased to move, his head was raised, pausing,
 
 listening, and he turned round the next instant to give a look, one
 
@@ -15299,9 +15299,9 @@ confusion.
 
 
 
-Captain Harville, who had in truth been hearing none of it, now left
+Captain Harville, who had in [[Truth|truth]] been hearing none of it, now left
 
-his seat, and moved to a window, and Anne seeming to watch him, though
+his seat, and moved to a [[Window|window]], and Anne seeming to watch him, though
 
 it was from thorough absence of mind, became gradually sensible that he
 
@@ -15315,7 +15315,7 @@ which denoted the feelings of an older acquaintance than he really was,
 
 strongly enforced the invitation. She roused herself and went to him.
 
-The window at which he stood was at the other end of the room from
+The [[Window|window]] at which he stood was at the other end of the room from
 
 where the two ladies were sitting, and though nearer to Captain
 
@@ -15333,7 +15333,7 @@ small miniature painting, “do you know who that is?”
 
 
 
-“Certainly: Captain Benwick.”
+“Certainly: [[Captain Benwick]].”
 
 
 
@@ -15343,19 +15343,19 @@ not done for her. Miss Elliot, do you remember our walking together at
 
 Lyme, and grieving for him? I little thought then—but no matter. This
 
-was drawn at the Cape. He met with a clever young German artist at the
+was drawn at the Cape. He met with a clever young German [[artist]] at the
 
 Cape, and in compliance with a promise to my poor sister, sat to him,
 
-and was bringing it home for her; and I have now the charge of getting
+and was bringing it [[Home|home]] for her; and I have now the charge of getting
 
 it properly set for another! It was a commission to me! But who else
 
-was there to employ? I hope I can allow for him. I am not sorry,
+was there to employ? I [[Hope|hope]] I can allow for him. I am not sorry,
 
 indeed, to make it over to another. He undertakes it;” (looking towards
 
-Captain Wentworth,) “he is writing about it now.” And with a quivering
+[[Captain Wentworth]],) “he is writing about it now.” And with a quivering
 
 lip he wound up the whole by adding, “Poor Fanny! she would not have
 
@@ -15369,11 +15369,11 @@ believe.”
 
 
 
-“It was not in her nature. She doted on him.”
+“It was not in her [[Nature|nature]]. She doted on him.”
 
 
 
-“It would not be the nature of any woman who truly loved.”
+“It would not be the [[Nature|nature]] of any woman who truly loved.”
 
 
 
@@ -15383,7 +15383,7 @@ sex?” and she answered the question, smiling also, “Yes. We certainly
 
 do not forget you as soon as you forget us. It is, perhaps, our fate
 
-rather than our merit. We cannot help ourselves. We live at home,
+rather than our merit. We cannot help ourselves. We live at [[Home|home]],
 
 quiet, confined, and our feelings prey upon us. You are forced on
 
@@ -15411,15 +15411,15 @@ little family circle, ever since.”
 
 say now, Captain Harville? If the change be not from outward
 
-circumstances, it must be from within; it must be nature, man’s nature,
+circumstances, it must be from within; it must be [[Nature|nature]], man’s [[Nature|nature]],
 
-which has done the business for Captain Benwick.”
+which has done the business for [[Captain Benwick]].”
 
 
 
-“No, no, it is not man’s nature. I will not allow it to be more man’s
+“No, no, it is not man’s [[Nature|nature]]. I will not allow it to be more man’s
 
-nature than woman’s to be inconstant and forget those they do love, or
+[[Nature|nature]] than woman’s to be inconstant and forget those they do [[Love|love]], or
 
 have loved. I believe the reverse. I believe in a true analogy between
 
@@ -15437,7 +15437,7 @@ spirit of analogy will authorise me to assert that ours are the most
 
 tender. Man is more robust than woman, but he is not longer lived;
 
-which exactly explains my view of the nature of their attachments. Nay,
+which exactly explains my view of the [[Nature|nature]] of their attachments. Nay,
 
 it would be too hard upon you, if it were otherwise. You have
 
@@ -15445,7 +15445,7 @@ difficulties, and privations, and dangers enough to struggle with. You
 
 are always labouring and toiling, exposed to every risk and hardship.
 
-Your home, country, friends, all quitted. Neither time, nor health, nor
+Your [[Home|home]], country, friends, all quitted. Neither [[Time|time]], nor health, nor
 
 life, to be called your own. It would be hard, indeed” (with a
 
@@ -15481,9 +15481,9 @@ have caught.
 
 “There is no hurry on my side. I am only ready whenever you are. I am
 
-in very good anchorage here,” (smiling at Anne), “well supplied, and
+in very good anchorage here,” (smiling at Anne), “[[Well|well]] supplied, and
 
-want for nothing. No hurry for a signal at all. Well, Miss Elliot,”
+want for nothing. No hurry for a signal at all. [[Well]], Miss Elliot,”
 
 (lowering his voice), “as I was saying, we shall never agree, I suppose,
 
@@ -15491,13 +15491,13 @@ upon this point. No man and woman would, probably. But let me observe
 
 that all histories are against you—all stories, prose and verse. If I
 
-had such a memory as Benwick, I could bring you fifty quotations in a
+had such a [[Memory|memory]] as Benwick, I could bring you fifty quotations in a
 
 moment on my side the argument, and I do not think I ever opened a book
 
 in my life which had not something to say upon woman’s inconstancy.
 
-Songs and proverbs, all talk of woman’s fickleness. But perhaps you
+[[songs|Songs]] and proverbs, all talk of woman’s fickleness. But perhaps you
 
 will say, these were all written by men.”
 
@@ -15507,7 +15507,7 @@ will say, these were all written by men.”
 
 books. Men have had every advantage of us in telling their own story.
 
-Education has been theirs in so much higher a degree; the pen has been
+[[Education]] has been theirs in so much higher a degree; the pen has been
 
 in their hands. I will not allow books to prove anything.”
 
@@ -15545,7 +15545,7 @@ in, as long as it is in sight, and then turns away and says, ‘God knows
 
 whether we ever meet again!’ And then, if I could convey to you the
 
-glow of his soul when he does see them again; when, coming back after a
+glow of his [[Soul|soul]] when he does see them again; when, coming back after a
 
 twelvemonth’s absence, perhaps, and obliged to put into another port,
 
@@ -15567,7 +15567,7 @@ pressing his own with emotion.
 
 
 
-“Oh!” cried Anne eagerly, “I hope I do justice to all that is felt by
+“Oh!” cried Anne eagerly, “I [[Hope|hope]] I do justice to all that is felt by
 
 you, and by those who resemble you. God forbid that I should undervalue
 
@@ -15583,13 +15583,13 @@ every important exertion, and to every domestic forbearance, so long
 
 as—if I may be allowed the expression—so long as you have an object. I
 
-mean while the woman you love lives, and lives for you. All the
+mean while the woman you [[Love|love]] lives, and lives for you. All the
 
 privilege I claim for my own sex (it is not a very enviable one; you
 
 need not covet it), is that of loving longest, when existence or when
 
-hope is gone.”
+[[Hope|hope]] is gone.”
 
 
 
@@ -15599,7 +15599,7 @@ too full, her breath too much oppressed.
 
 
 
-“You are a good soul,” cried Captain Harville, putting his hand on her
+“You are a good [[Soul|soul]],” cried Captain Harville, putting his hand on her
 
 arm, quite affectionately. “There is no quarrelling with you. And when
 
@@ -15615,7 +15615,7 @@ leave.
 
 “Here, Frederick, you and I part company, I believe,” said she. “I am
 
-going home, and you have an engagement with your friend. To-night we
+going [[Home|home]], and you have an engagement with your friend. To-[[Night|night]] we
 
 may have the pleasure of all meeting again at your party,” (turning to
 
@@ -15623,11 +15623,11 @@ Anne). “We had your sister’s card yesterday, and I understood Frederick
 
 had a card too, though I did not see it; and you are disengaged,
 
-Frederick, are you not, as well as ourselves?”
+Frederick, are you not, as [[Well|well]] as ourselves?”
 
 
 
-Captain Wentworth was folding up a letter in great haste, and either
+[[Captain Wentworth]] was folding up a letter in great haste, and either
 
 could not or would not answer fully.
 
@@ -15643,7 +15643,7 @@ service in half a minute.”
 
 
 
-Mrs Croft left them, and Captain Wentworth, having sealed his letter
+Mrs Croft left them, and [[Captain Wentworth]], having sealed his letter
 
 with great rapidity, was indeed ready, and had even a hurried, agitated
 
@@ -15657,7 +15657,7 @@ out of the room without a look!
 
 
 
-She had only time, however, to move closer to the table where he had
+She had only [[Time|time]], however, to move closer to the table where he had
 
 been writing, when footsteps were heard returning; the door opened, it
 
@@ -15667,7 +15667,7 @@ and instantly crossing the room to the writing table, he drew out a
 
 letter from under the scattered paper, placed it before Anne with eyes
 
-of glowing entreaty fixed on her for a time, and hastily collecting his
+of glowing entreaty fixed on her for a [[Time|time]], and hastily collecting his
 
 gloves, was again out of the room, almost before Mrs Musgrove was aware
 
@@ -15681,7 +15681,7 @@ expression. The letter, with a direction hardly legible, to “Miss A.
 
 E.—,” was evidently the one which he had been folding so hastily. While
 
-supposed to be writing only to Captain Benwick, he had been also
+supposed to be writing only to [[Captain Benwick]], he had been also
 
 addressing her! On the contents of that letter depended all which this
 
@@ -15697,9 +15697,9 @@ had leaned and written, her eyes devoured the following words:
 
 
 
-“I can listen no longer in silence. I must speak to you by such means
+“I can listen no longer in [[Silence|silence]]. I must speak to you by such means
 
-as are within my reach. You pierce my soul. I am half agony, half hope.
+as are within my reach. You pierce my [[Soul|soul]]. I am half agony, half [[Hope|hope]].
 
 Tell me not that I am too late, that such precious feelings are gone
 
@@ -15707,13 +15707,13 @@ for ever. I offer myself to you again with a heart even more your own
 
 than when you almost broke it, eight years and a half ago. Dare not say
 
-that man forgets sooner than woman, that his love has an earlier death.
+that man forgets sooner than woman, that his [[Love|love]] has an earlier [[Death|death]].
 
 I have loved none but you. Unjust I may have been, weak and resentful I
 
-have been, but never inconstant. You alone have brought me to Bath. For
+have been, but never inconstant. You [[Alone|alone]] have brought me to Bath. For
 
-you alone, I think and plan. Have you not seen this? Can you fail to
+you [[Alone|alone]], I think and plan. Have you not seen this? Can you fail to
 
 have understood my wishes? I had not waited even these ten days, could
 
@@ -15745,7 +15745,7 @@ F. W.
 
 your party, as soon as possible. A word, a look, will be enough to
 
-decide whether I enter your father’s house this evening or never.”
+decide whether I enter your father’s [[house]] this evening or never.”
 
 
 
@@ -15753,7 +15753,7 @@ decide whether I enter your father’s house this evening or never.”
 
 Such a letter was not to be soon recovered from. Half an hour’s
 
-solitude and reflection might have tranquillized her; but the ten
+[[Solitude|solitude]] and reflection might have tranquillized her; but the ten
 
 minutes only which now passed before she was interrupted, with all the
 
@@ -15783,11 +15783,11 @@ left her in the quiet possession of that room it would have been her
 
 cure; but to have them all standing or waiting around her was
 
-distracting, and in desperation, she said she would go home.
+distracting, and in desperation, she said she would go [[Home|home]].
 
 
 
-“By all means, my dear,” cried Mrs Musgrove, “go home directly, and
+“By all means, my dear,” cried Mrs Musgrove, “go [[Home|home]] directly, and
 
 take care of yourself, that you may be fit for the evening. I wish
 
@@ -15799,7 +15799,7 @@ and order a chair. She must not walk.”
 
 But the chair would never do. Worse than all! To lose the possibility
 
-of speaking two words to Captain Wentworth in the course of her quiet,
+of speaking two words to [[Captain Wentworth]] in the course of her quiet,
 
 solitary progress up the town (and she felt almost certain of meeting
 
@@ -15809,11 +15809,11 @@ Mrs Musgrove, who thought only of one sort of illness, having assured
 
 herself with some anxiety, that there had been no fall in the case;
 
-that Anne had not at any time lately slipped down, and got a blow on
+that Anne had not at any [[Time|time]] lately slipped down, and got a blow on
 
 her head; that she was perfectly convinced of having had no fall; could
 
-part with her cheerfully, and depend on finding her better at night.
+part with her cheerfully, and depend on finding her better at [[Night|night]].
 
 
 
@@ -15823,13 +15823,13 @@ Anxious to omit no possible precaution, Anne struggled, and said—
 
 “I am afraid, ma’am, that it is not perfectly understood. Pray be so
 
-good as to mention to the other gentlemen that we hope to see your
+good as to mention to the other gentlemen that we [[Hope|hope]] to see your
 
 whole party this evening. I am afraid there had been some mistake; and
 
 I wish you particularly to assure Captain Harville and Captain
 
-Wentworth, that we hope to see them both.”
+Wentworth, that we [[Hope|hope]] to see them both.”
 
 
 
@@ -15853,7 +15853,7 @@ Harville anywhere, remember to give Miss Anne’s message. But indeed, my
 
 dear, you need not be uneasy. Captain Harville holds himself quite
 
-engaged, I’ll answer for it; and Captain Wentworth the same, I dare
+engaged, I’ll answer for it; and [[Captain Wentworth]] the same, I dare
 
 say.”
 
@@ -15869,7 +15869,7 @@ power to send an intelligible sentence by Captain Harville. Another
 
 momentary vexation occurred. Charles, in his real concern and good
 
-nature, would go home with her; there was no preventing him. This was
+[[Nature|nature]], would go [[Home|home]] with her; there was no preventing him. This was
 
 almost cruel. But she could not be long ungrateful; he was sacrificing
 
@@ -15879,11 +15879,11 @@ with him, with no feeling but gratitude apparent.
 
 
 
-They were on Union Street, when a quicker step behind, a something of
+They were on [[Union]] Street, when a quicker step behind, a something of
 
 familiar sound, gave her two moments’ preparation for the sight of
 
-Captain Wentworth. He joined them; but, as if irresolute whether to
+[[Captain Wentworth]]. He joined them; but, as if irresolute whether to
 
 join or to pass on, said nothing, only looked. Anne could command
 
@@ -15897,13 +15897,13 @@ thought, Charles said—
 
 
 
-“Captain Wentworth, which way are you going? Only to Gay Street, or
+“[[Captain Wentworth]], which way are you going? Only to Gay Street, or
 
 farther up the town?”
 
 
 
-“I hardly know,” replied Captain Wentworth, surprised.
+“I hardly know,” replied [[Captain Wentworth]], surprised.
 
 
 
@@ -15923,7 +15923,7 @@ unpacked to the last possible moment, that I might see it; and if I do
 
 not turn back now, I have no chance. By his description, a good deal
 
-like the second size double-barrel of mine, which you shot with one day
+like the second size [[Double|double]]-barrel of mine, which you shot with one day
 
 round Winthrop.”
 
@@ -15935,7 +15935,7 @@ alacrity, a most obliging compliance for public view; and smiles reined
 
 in and spirits dancing in private rapture. In half a minute Charles was
 
-at the bottom of Union Street again, and the other two proceeding
+at the [[Bottom|bottom]] of [[Union]] Street again, and the other two proceeding
 
 together: and soon words enough had passed between them to decide their
 
@@ -15943,7 +15943,7 @@ direction towards the comparatively quiet and retired gravel walk,
 
 where the power of conversation would make the present hour a blessing
 
-indeed, and prepare it for all the immortality which the happiest
+indeed, and prepare it for all the [[Immortality|immortality]] which the happiest
 
 recollections of their own future lives could bestow. There they
 
@@ -15953,11 +15953,11 @@ seemed to secure everything, but which had been followed by so many,
 
 many years of division and estrangement. There they returned again into
 
-the past, more exquisitely happy, perhaps, in their re-union, than when
+the past, more exquisitely happy, perhaps, in their re-[[Union|union]], than when
 
 it had been first projected; more tender, more tried, more fixed in a
 
-knowledge of each other’s character, truth, and attachment; more equal
+knowledge of each other’s character, [[Truth|truth]], and attachment; more equal
 
 to act, more justified in acting. And there, as they slowly paced the
 
@@ -15979,9 +15979,9 @@ end.
 
 
 
-She had not mistaken him. Jealousy of Mr Elliot had been the retarding
+She had not mistaken him. [[Jealousy]] of Mr Elliot had been the retarding
 
-weight, the doubt, the torment. That had begun to operate in the very
+weight, the [[Doubt|doubt]], the torment. That had begun to operate in the very
 
 hour of first meeting her in Bath; that had returned, after a short
 
@@ -16037,7 +16037,7 @@ superiority.
 
 In his preceding attempts to attach himself to Louisa Musgrove (the
 
-attempts of angry pride), he protested that he had for ever felt it to
+attempts of angry [[Pride|pride]]), he protested that he had for ever felt it to
 
 be impossible; that he had not cared, could not care, for Louisa;
 
@@ -16049,13 +16049,13 @@ Louisa’s could so ill bear a comparison, or the perfect unrivalled hold
 
 it possessed over his own. There, he had learnt to distinguish between
 
-the steadiness of principle and the obstinacy of self-will, between the
+the steadiness of principle and the obstinacy of [[Self|self]]-will, between the
 
 darings of heedlessness and the resolution of a collected mind. There
 
 he had seen everything to exalt in his estimation the woman he had
 
-lost; and there begun to deplore the pride, the folly, the madness of
+lost; and there begun to deplore the [[Pride|pride]], the folly, the [[Madness|madness]] of
 
 resentment, which had kept him from trying to regain her when thrown in
 
@@ -16075,7 +16075,7 @@ had begun to feel himself, though alive, not at liberty.
 
 “I found,” said he, “that I was considered by Harville an engaged man!
 
-That neither Harville nor his wife entertained a doubt of our mutual
+That neither Harville nor his wife entertained a [[Doubt|doubt]] of our mutual
 
 attachment. I was startled and shocked. To a degree, I could contradict
 
@@ -16083,7 +16083,7 @@ this instantly; but, when I began to reflect that others might have
 
 felt the same—her own family, nay, perhaps herself—I was no longer at
 
-my own disposal. I was hers in honour if she wished it. I had been
+my own disposal. I was hers in [[Honour|honour]] if she wished it. I had been
 
 unguarded. I had not thought seriously on this subject before. I had
 
@@ -16143,7 +16143,7 @@ result, not the cause of a revival of his warm attachment.
 
 He had remained in Shropshire, lamenting the blindness of his own
 
-pride, and the blunders of his own calculations, till at once released
+[[Pride|pride]], and the blunders of his own calculations, till at once released
 
 from Louisa by the astonishing and felicitous intelligence of her
 
@@ -16161,13 +16161,13 @@ evil, had been dreadful. Within the first five minutes I said, ‘I will
 
 be at Bath on Wednesday,’ and I was. Was it unpardonable to think it
 
-worth my while to come? and to arrive with some degree of hope? You
+worth my while to come? and to arrive with some degree of [[Hope|hope]]? You
 
 were single. It was possible that you might retain the feelings of the
 
 past, as I did; and one encouragement happened to be mine. I could
 
-never doubt that you would be loved and sought by others, but I knew to
+never [[Doubt|doubt]] that you would be loved and sought by others, but I knew to
 
 a certainty that you had refused one man, at least, of better
 
@@ -16185,7 +16185,7 @@ moments. The moment of her stepping forward in the Octagon Room to
 
 speak to him: the moment of Mr Elliot’s appearing and tearing her away,
 
-and one or two subsequent moments, marked by returning hope or
+and one or two subsequent moments, marked by returning [[Hope|hope]] or
 
 increasing despondency, were dwelt on with energy.
 
@@ -16193,23 +16193,23 @@ increasing despondency, were dwelt on with energy.
 
 “To see you,” cried he, “in the midst of those who could not be my
 
-well-wishers; to see your cousin close by you, conversing and smiling,
+[[Well|well]]-wishers; to see your cousin close by you, conversing and smiling,
 
 and feel all the horrible eligibilities and proprieties of the match!
 
-To consider it as the certain wish of every being who could hope to
+To consider it as the certain wish of every being who could [[Hope|hope]] to
 
 influence you! Even if your own feelings were reluctant or indifferent,
 
 to consider what powerful supports would be his! Was it not enough to
 
-make the fool of me which I appeared? How could I look on without
+make the [[Fool|fool]] of me which I appeared? How could I look on without
 
 agony? Was not the very sight of the friend who sat behind you, was not
 
 the recollection of what had been, the knowledge of her influence, the
 
-indelible, immoveable impression of what persuasion had once done—was
+indelible, immoveable impression of what [[Persuasion|persuasion]] had once done—was
 
 it not all against me?”
 
@@ -16219,9 +16219,9 @@ it not all against me?”
 
 suspected me now; the case is so different, and my age is so different.
 
-If I was wrong in yielding to persuasion once, remember that it was to
+If I was wrong in yielding to [[Persuasion|persuasion]] once, remember that it was to
 
-persuasion exerted on the side of safety, not of risk. When I yielded,
+[[Persuasion|persuasion]] exerted on the side of safety, not of risk. When I yielded,
 
 I thought it was to duty, but no duty could be called in aid here. In
 
@@ -16267,13 +16267,13 @@ felt that I had still a motive for remaining here.”
 
 
 
-At last Anne was at home again, and happier than any one in that house
+At last Anne was at [[Home|home]] again, and happier than any one in that [[house]]
 
 could have conceived. All the surprise and suspense, and every other
 
 painful part of the morning dissipated by this conversation, she
 
-re-entered the house so happy as to be obliged to find an alloy in some
+re-entered the [[house]] so happy as to be obliged to find an alloy in some
 
 momentary apprehensions of its being impossible to last. An interval of
 
@@ -16311,7 +16311,7 @@ manners of her father and sister. With the Musgroves, there was the
 
 happy chat of perfect ease; with Captain Harville, the kind-hearted
 
-intercourse of brother and sister; with Lady Russell, attempts at
+intercourse of brother and sister; with [[Lady Russell]], attempts at
 
 conversation, which a delicious consciousness cut short; with Admiral
 
@@ -16321,7 +16321,7 @@ which the same consciousness sought to conceal; and with Captain
 
 Wentworth, some moments of communications continually occurring, and
 
-always the hope of more, and always the knowledge of his being there.
+always the [[Hope|hope]] of more, and always the knowledge of his being there.
 
 
 
@@ -16337,7 +16337,7 @@ the right and wrong, I mean with regard to myself; and I must believe
 
 that I was right, much as I suffered from it, that I was perfectly
 
-right in being guided by the friend whom you will love better than you
+right in being guided by the friend whom you will [[Love|love]] better than you
 
 do now. To me, she was in the place of a parent. Do not mistake me,
 
@@ -16355,27 +16355,27 @@ otherwise, I should have suffered more in continuing the engagement
 
 than I did even in giving it up, because I should have suffered in my
 
-conscience. I have now, as far as such a sentiment is allowable in
+[[Conscience|conscience]]. I have now, as far as such a sentiment is allowable in
 
-human nature, nothing to reproach myself with; and if I mistake not, a
+human [[Nature|nature]], nothing to reproach myself with; and if I mistake not, a
 
 strong sense of duty is no bad part of a woman’s portion.”
 
 
 
-He looked at her, looked at Lady Russell, and looking again at her,
+He looked at her, looked at [[Lady Russell]], and looking again at her,
 
 replied, as if in cool deliberation—
 
 
 
-“Not yet. But there are hopes of her being forgiven in time. I trust to
+“Not yet. But there are hopes of her being forgiven in [[Time|time]]. I trust to
 
-being in charity with her soon. But I too have been thinking over the
+being in [[Charity|charity]] with her soon. But I too have been thinking over the
 
 past, and a question has suggested itself, whether there may not have
 
-been one person more my enemy even than that lady? My own self. Tell me
+been one person more my enemy even than that lady? My own [[Self|self]]. Tell me
 
 if, when I returned to England in the year eight, with a few thousand
 
@@ -16393,7 +16393,7 @@ the engagement then?”
 
 “Good God!” he cried, “you would! It is not that I did not think of it,
 
-or desire it, as what could alone crown all my other success; but I was
+or [[Desire|desire]] it, as what could [[Alone|alone]] [[Crown|crown]] all my other [[success]]; but I was
 
 proud, too proud to ask again. I did not understand you. I shut my
 
@@ -16401,9 +16401,9 @@ eyes, and would not understand you, or do you justice. This is a
 
 recollection which ought to make me forgive every one sooner than
 
-myself. Six years of separation and suffering might have been spared.
+myself. Six years of separation and [[Suffering|suffering]] might have been spared.
 
-It is a sort of pain, too, which is new to me. I have been used to the
+It is a sort of [[Pain|pain]], too, which is new to me. I have been used to the
 
 gratification of believing myself to earn every blessing that I
 
@@ -16429,7 +16429,7 @@ CHAPTER XXIV.
 
 
 
-Who can be in doubt of what followed? When any two young people take it
+Who can be in [[Doubt|doubt]] of what followed? When any two young people take it
 
 into their heads to marry, they are pretty sure by perseverance to
 
@@ -16437,9 +16437,9 @@ carry their point, be they ever so poor, or ever so imprudent, or ever
 
 so little likely to be necessary to each other’s ultimate comfort. This
 
-may be bad morality to conclude with, but I believe it to be truth; and
+may be bad [[morality]] to conclude with, but I believe it to be [[Truth|truth]]; and
 
-if such parties succeed, how should a Captain Wentworth and an Anne
+if such parties succeed, how should a [[Captain Wentworth]] and an Anne
 
 Elliot, with the advantage of maturity of mind, consciousness of right,
 
@@ -16451,7 +16451,7 @@ they met with, for there was little to distress them beyond the want of
 
 graciousness and warmth. Sir Walter made no objection, and Elizabeth
 
-did nothing worse than look cold and unconcerned. Captain Wentworth,
+did nothing worse than look cold and unconcerned. [[Captain Wentworth]],
 
 with five-and-twenty thousand pounds, and as high in his profession as
 
@@ -16461,7 +16461,7 @@ esteemed quite worthy to address the daughter of a foolish, spendthrift
 
 baronet, who had not had principle or sense enough to maintain himself
 
-in the situation in which Providence had placed him, and who could give
+in the situation in which [[Providence]] had placed him, and who could give
 
 his daughter at present but a small part of the share of ten thousand
 
@@ -16469,41 +16469,41 @@ pounds which must be hers hereafter.
 
 
 
-Sir Walter, indeed, though he had no affection for Anne, and no vanity
+Sir Walter, indeed, though he had no affection for Anne, and no [[Vanity|vanity]]
 
 flattered, to make him really happy on the occasion, was very far from
 
 thinking it a bad match for her. On the contrary, when he saw more of
 
-Captain Wentworth, saw him repeatedly by daylight, and eyed him well,
+[[Captain Wentworth]], saw him repeatedly by daylight, and eyed him [[Well|well]],
 
 he was very much struck by his personal claims, and felt that his
 
 superiority of appearance might be not unfairly balanced against her
 
-superiority of rank; and all this, assisted by his well-sounding name,
+superiority of rank; and all this, assisted by his [[Well|well]]-sounding name,
 
 enabled Sir Walter at last to prepare his pen, with a very good grace,
 
-for the insertion of the marriage in the volume of honour.
+for the insertion of the [[Marriage|marriage]] in the volume of [[Honour|honour]].
 
 
 
 The only one among them, whose opposition of feeling could excite any
 
-serious anxiety was Lady Russell. Anne knew that Lady Russell must be
+serious anxiety was [[Lady Russell]]. Anne knew that [[Lady Russell]] must be
 
-suffering some pain in understanding and relinquishing Mr Elliot, and
+[[Suffering|suffering]] some [[Pain|pain]] in understanding and relinquishing Mr Elliot, and
 
 be making some struggles to become truly acquainted with, and do
 
-justice to Captain Wentworth. This however was what Lady Russell had
+justice to [[Captain Wentworth]]. This however was what [[Lady Russell]] had
 
 now to do. She must learn to feel that she had been mistaken with
 
 regard to both; that she had been unfairly influenced by appearances in
 
-each; that because Captain Wentworth’s manners had not suited her own
+each; that because [[Captain Wentworth]]’s manners had not suited her own
 
 ideas, she had been too quick in suspecting them to indicate a
 
@@ -16515,7 +16515,7 @@ their general politeness and suavity, she had been too quick in
 
 receiving them as the certain result of the most correct opinions and
 
-well-regulated mind. There was nothing less for Lady Russell to do,
+[[Well|well]]-regulated mind. There was nothing less for [[Lady Russell]] to do,
 
 than to admit that she had been pretty completely wrong, and to take up
 
@@ -16527,11 +16527,11 @@ There is a quickness of perception in some, a nicety in the discernment
 
 of character, a natural penetration, in short, which no experience in
 
-others can equal, and Lady Russell had been less gifted in this part of
+others can equal, and [[Lady Russell]] had been less gifted in this part of
 
 understanding than her young friend. But she was a very good woman, and
 
-if her second object was to be sensible and well-judging, her first was
+if her second object was to be sensible and [[Well|well]]-judging, her first was
 
 to see Anne happy. She loved Anne better than she loved her own
 
@@ -16539,7 +16539,7 @@ abilities; and when the awkwardness of the beginning was over, found
 
 little hardship in attaching herself as a mother to the man who was
 
-securing the happiness of her other child.
+securing the happiness of her other [[Child|child]].
 
 
 
@@ -16549,11 +16549,11 @@ by the circumstance. It was creditable to have a sister married, and
 
 she might flatter herself with having been greatly instrumental to the
 
-connexion, by keeping Anne with her in the autumn; and as her own
+connexion, by keeping Anne with her in the [[Autumn|autumn]]; and as her own
 
 sister must be better than her husband’s sisters, it was very agreeable
 
-that Captain Wentworth should be a richer man than either Captain
+that [[Captain Wentworth]] should be a richer man than either Captain
 
 Benwick or Charles Hayter. She had something to suffer, perhaps, when
 
@@ -16565,13 +16565,13 @@ future to look forward to, of powerful consolation. Anne had no
 
 Uppercross Hall before her, no landed estate, no headship of a family;
 
-and if they could but keep Captain Wentworth from being made a baronet,
+and if they could but keep [[Captain Wentworth]] from being made a baronet,
 
 she would not change situations with Anne.
 
 
 
-It would be well for the eldest sister if she were equally satisfied
+It would be [[Well|well]] for the eldest sister if she were equally satisfied
 
 with her situation, for a change is not very probable there. She had
 
@@ -16587,7 +16587,7 @@ The news of his cousin Anne’s engagement burst on Mr Elliot most
 
 unexpectedly. It deranged his best plan of domestic happiness, his best
 
-hope of keeping Sir Walter single by the watchfulness which a
+[[Hope|hope]] of keeping Sir Walter single by the watchfulness which a
 
 son-in-law’s rights would have given. But, though discomfited and
 
@@ -16597,7 +16597,7 @@ own enjoyment. He soon quitted Bath; and on Mrs Clay’s quitting it soon
 
 afterwards, and being next heard of as established under his protection
 
-in London, it was evident how double a game he had been playing, and
+in [[London]], it was evident how [[Double|double]] a game he had been playing, and
 
 how determined he was to save himself from being cut out by one artful
 
@@ -16609,7 +16609,7 @@ Mrs Clay’s affections had overpowered her interest, and she had
 
 sacrificed, for the young man’s sake, the possibility of scheming
 
-longer for Sir Walter. She has abilities, however, as well as
+longer for Sir Walter. She has abilities, however, as [[Well|well]] as
 
 affections; and it is now a doubtful point whether his cunning, or
 
@@ -16625,7 +16625,7 @@ It cannot be doubted that Sir Walter and Elizabeth were shocked and
 
 mortified by the loss of their companion, and the discovery of their
 
-deception in her. They had their great cousins, to be sure, to resort
+[[Deception|deception]] in her. They had their great cousins, to be sure, to resort
 
 to for comfort; but they must long feel that to flatter and follow
 
@@ -16635,9 +16635,9 @@ half enjoyment.
 
 
 
-Anne, satisfied at a very early period of Lady Russell’s meaning to
+Anne, satisfied at a very early period of [[Lady Russell]]’s meaning to
 
-love Captain Wentworth as she ought, had no other alloy to the
+[[Love|love]] [[Captain Wentworth]] as she ought, had no other alloy to the
 
 happiness of her prospects than what arose from the consciousness of
 
@@ -16653,21 +16653,21 @@ respectability, of harmony, of good will to offer in return for all the
 
 worth and all the prompt welcome which met her in his brothers and
 
-sisters, was a source of as lively pain as her mind could well be
+sisters, was a source of as lively [[Pain|pain]] as her mind could [[Well|well]] be
 
 sensible of under circumstances of otherwise strong felicity. She had
 
-but two friends in the world to add to his list, Lady Russell and Mrs
+but two friends in the world to add to his list, [[Lady Russell]] and Mrs
 
-Smith. To those, however, he was very well disposed to attach himself.
+[[smith|Smith]]. To those, however, he was very [[Well|well]] disposed to attach himself.
 
-Lady Russell, in spite of all her former transgressions, he could now
+[[Lady Russell]], in spite of all her former transgressions, he could now
 
 value from his heart. While he was not obliged to say that he believed
 
 her to have been right in originally dividing them, he was ready to say
 
-almost everything else in her favour, and as for Mrs Smith, she had
+almost everything else in her favour, and as for Mrs [[smith|Smith]], she had
 
 claims of various kinds to recommend her quickly and permanently.
 
@@ -16675,7 +16675,7 @@ claims of various kinds to recommend her quickly and permanently.
 
 Her recent good offices by Anne had been enough in themselves, and
 
-their marriage, instead of depriving her of one friend, secured her
+their [[Marriage|marriage]], instead of depriving her of one friend, secured her
 
 two. She was their earliest visitor in their settled life; and Captain
 
@@ -16693,7 +16693,7 @@ to his wife.
 
 
 
-Mrs Smith’s enjoyments were not spoiled by this improvement of income,
+Mrs [[smith|Smith]]’s enjoyments were not spoiled by this improvement of income,
 
 with some improvement of health, and the acquisition of such friends to
 
@@ -16705,11 +16705,11 @@ bid defiance even to greater accessions of worldly prosperity. She
 
 might have been absolutely rich and perfectly healthy, and yet be
 
-happy. Her spring of felicity was in the glow of her spirits, as her
+happy. Her [[spring]] of felicity was in the glow of her spirits, as her
 
 friend Anne’s was in the warmth of her heart. Anne was tenderness
 
-itself, and she had the full worth of it in Captain Wentworth’s
+itself, and she had the full worth of it in [[Captain Wentworth]]’s
 
 affection. His profession was all that could ever make her friends wish
 

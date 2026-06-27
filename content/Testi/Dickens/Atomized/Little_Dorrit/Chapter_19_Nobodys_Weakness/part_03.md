@@ -18,10 +18,10 @@ This was Mr Meagles’s invariable habit. Always to object to everything
 while he was travelling, and always to want to get back to it when he
 was not travelling.
 
-‘If it was summer-time,’ said Mr Meagles, ‘which I wish it was on your
+‘If it was [[Summer|summer]]-[[Time|time]],’ said Mr Meagles, ‘which I wish it was on your
 account, and in order that you might see the place at its best, you
-would hardly be able to hear yourself speak for birds. Being practical
-people, we never allow anybody to scare the birds; and the birds, being
+would hardly be able to hear yourself speak for [[Birds|birds]]. Being practical
+people, we never allow anybody to scare the [[Birds|birds]]; and the [[Birds|birds]], being
 practical people too, come about us in myriads. We are delighted to see
 you, Clennam (if you’ll allow me, I shall drop the Mister); I heartily
 assure you, we are delighted.’
@@ -32,23 +32,23 @@ added ‘except once--since we last walked to and fro, looking down at the
 Mediterranean.’
 
 ‘Ah!’ returned Mr Meagles. ‘Something like a look out, _that_ was, wasn’t
-it? I don’t want a military government, but I shouldn’t mind a little
+it? I don’t want a military [[government]], but I shouldn’t mind a little
 allonging and marshonging--just a dash of it--in this neighbourhood
 sometimes. It’s Devilish still.’
 
 Bestowing this eulogium on the retired character of his retreat with a
-dubious shake of the head, Mr Meagles led the way into the house. It was
+dubious shake of the head, Mr Meagles led the way into the [[house]]. It was
 just large enough, and no more; was as pretty within as it was without,
-and was perfectly well-arranged and comfortable. Some traces of the
+and was perfectly [[Well|well]]-arranged and comfortable. Some traces of the
 migratory habits of the family were to be observed in the covered frames
 and furniture, and wrapped-up hangings; but it was easy to see that it
 was one of Mr Meagles’s whims to have the cottage always kept, in their
 absence, as if they were always coming back the day after to-morrow. Of
 articles collected on his various expeditions, there was such a vast
 miscellany that it was like the dwelling of an amiable Corsair. There
-were antiquities from Central Italy, made by the best modern houses in
-that department of industry; bits of mummy from Egypt (and perhaps
-Birmingham); model gondolas from Venice; model villages from
+were antiquities from Central [[Italy]], made by the best modern houses in
+that department of industry; bits of mummy from [[Egypt]] (and perhaps
+Birmingham); model gondolas from [[Venice]]; model villages from
 Switzerland; morsels of tesselated pavement from Herculaneum and
 Pompeii, like petrified minced veal; ashes out of tombs, and lava out of
 Vesuvius; Spanish fans, Spezzian straw hats, Moorish slippers, Tuscan
@@ -67,10 +67,10 @@ _had_ considered them rather fine. One man, who at any rate ought to
 know something of the subject, had declared that ‘Sage, Reading’ (a
 specially oily old gentleman in a blanket, with a swan’s-down tippet for
 a beard, and a web of cracks all over him like rich pie-crust), to be a
-fine Guercino. As for Sebastian del Piombo there, you would judge for
+fine Guercino. As for [[Sebastian]] del Piombo there, you would judge for
 yourself; if it were not his later manner, the question was, Who was it?
 Titian, that might or might not be--perhaps he had only touched it.
-Daniel Doyce said perhaps he hadn’t touched it, but Mr Meagles rather
+[[Daniel Doyce]] said perhaps he hadn’t touched it, but Mr Meagles rather
 declined to overhear the remark.
 
 When he had shown all his spoils, Mr Meagles took them into his own
@@ -81,10 +81,10 @@ for shovelling out money.
 
 ‘Here they are, you see,’ said Mr Meagles. ‘I stood behind these two
 articles five-and-thirty years running, when I no more thought of
-gadding about than I now think of--staying at home. When I left the Bank
+gadding about than I now think of--staying at [[Home|home]]. When I left the Bank
 for good, I asked for them, and brought them away with me. I mention it
-at once, or you might suppose that I sit in my counting-house (as Pet
-says I do), like the king in the poem of the four-and-twenty blackbirds,
+at once, or you might suppose that I sit in my counting-[[house]] (as Pet
+says I do), like the [[King|king]] in the poem of the four-and-twenty blackbirds,
 counting out my money.’
 
 Clennam’s eyes had strayed to a natural picture on the wall, of two
@@ -92,7 +92,7 @@ pretty little girls with their arms entwined. ‘Yes, Clennam,’ said
 Mr Meagles, in a lower voice. ‘There they both are. It was taken some
 seventeen years ago. As I often say to Mother, they were babies then.’
 
-‘Their names?’ said Arthur.
+‘Their names?’ said [[Arthur]].
 
 ‘Ah, to be sure! You have never heard any name but Pet. Pet’s name is
 Minnie; her sister’s Lillie.’
@@ -107,13 +107,13 @@ your portrait.’
 
 ‘D’ye hear that, Mother?’ cried Mr Meagles to his wife, who had followed
 her daughter. ‘It’s always the same, Clennam; nobody can decide. The
-child to your left is Pet.’
+[[Child|child]] to your left is Pet.’
 
-The picture happened to be near a looking-glass. As Arthur looked at
-it again, he saw, by the reflection of the mirror, Tattycoram stop in
+The picture happened to be near a looking-glass. As [[Arthur]] looked at
+it again, he saw, by the reflection of the [[Mirror|mirror]], Tattycoram stop in
 passing outside the door, listen to what was going on, and pass away
 with an angry and contemptuous frown upon her face, that changed its
-beauty into ugliness.
+[[Beauty|beauty]] into ugliness.
 
 ‘But come!’ said Mr Meagles. ‘You have had a long walk, and will be glad
 to get your boots off. As to Daniel here, I suppose he’d never think of

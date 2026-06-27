@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 3: I HAVE A CHANGE (part 3)"
+title: "[[David Copperfield]] — Chapter 3: I HAVE A CHANGE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,14 +19,14 @@ women’s going to bed in another little crib like mine at the opposite
 end of the boat, and to him and Ham hanging up two hammocks for
 themselves on the hooks I had noticed in the roof, in a very luxurious
 state of mind, enhanced by my being sleepy. As slumber gradually stole
-upon me, I heard the wind howling out at sea and coming on across the
+upon me, I heard the [[Wind|wind]] howling out at sea and coming on across the
 flat so fiercely, that I had a lazy apprehension of the great deep
-rising in the night. But I bethought myself that I was in a boat, after
+rising in the [[Night|night]]. But I bethought myself that I was in a boat, after
 all; and that a man like Mr. Peggotty was not a bad person to have on
 board if anything did happen.
 
 Nothing happened, however, worse than morning. Almost as soon as it
-shone upon the oyster-shell frame of my mirror I was out of bed, and out
+shone upon the oyster-shell frame of my [[Mirror|mirror]] I was out of bed, and out
 with little Em’ly, picking up stones upon the beach.
 
 ‘You’re quite a sailor, I suppose?’ I said to Em’ly. I don’t know that I
@@ -41,9 +41,9 @@ head to say this.
 at the mighty ocean. ‘I an’t!’
 
 ‘Ah! but it’s cruel,’ said Em’ly. ‘I have seen it very cruel to some of
-our men. I have seen it tear a boat as big as our house, all to pieces.’
+our men. I have seen it tear a boat as big as our [[house]], all to pieces.’
 
-‘I hope it wasn’t the boat that--’
+‘I [[Hope|hope]] it wasn’t the boat that--’
 
 ‘That father was drownded in?’ said Em’ly. ‘No. Not that one, I never
 see that boat.’
@@ -55,11 +55,11 @@ Little Em’ly shook her head. ‘Not to remember!’
 Here was a coincidence! I immediately went into an explanation how I had
 never seen my own father; and how my mother and I had always lived
 by ourselves in the happiest state imaginable, and lived so then, and
-always meant to live so; and how my father’s grave was in the churchyard
-near our house, and shaded by a tree, beneath the boughs of which I had
-walked and heard the birds sing many a pleasant morning. But there were
+always meant to live so; and how my father’s [[Grave|grave]] was in the churchyard
+near our [[house]], and shaded by a tree, beneath the boughs of which I had
+walked and heard the [[Birds|birds]] sing many a pleasant morning. But there were
 some differences between Em’ly’s orphanhood and mine, it appeared. She
-had lost her mother before her father; and where her father’s grave was
+had lost her mother before her father; and where her father’s [[Grave|grave]] was
 no one knew, except that it was somewhere in the depths of the sea.
 
 ‘Besides,’ said Em’ly, as she looked about for shells and pebbles, ‘your
@@ -69,7 +69,7 @@ a fisherman.’
 
 ‘Dan is Mr. Peggotty, is he?’ said I.
 
-‘Uncle Dan--yonder,’ answered Em’ly, nodding at the boat-house.
+‘Uncle Dan--yonder,’ answered Em’ly, nodding at the boat-[[house]].
 
 ‘Yes. I mean him. He must be very good, I should think?’
 
@@ -77,7 +77,7 @@ a fisherman.’
 coat with diamond buttons, nankeen trousers, a red velvet waistcoat, a
 cocked hat, a large gold watch, a silver pipe, and a box of money.’
 
-I said I had no doubt that Mr. Peggotty well deserved these treasures.
+I said I had no [[Doubt|doubt]] that Mr. Peggotty [[Well|well]] deserved these treasures.
 I must acknowledge that I felt it difficult to picture him quite at his
 ease in the raiment proposed for him by his grateful little niece, and
 that I was particularly doubtful of the policy of the cocked hat; but I
@@ -101,7 +101,7 @@ contemplation of it, and little Em’ly was emboldened to say, shyly,
 
 ‘Don’t you think you are afraid of the sea, now?’
 
-It was quiet enough to reassure me, but I have no doubt if I had seen a
+It was quiet enough to reassure me, but I have no [[Doubt|doubt]] if I had seen a
 moderately large wave come tumbling in, I should have taken to my heels,
 with an awful recollection of her drowned relations. However, I said
 ‘No,’ and I added, ‘You don’t seem to be either, though you say you
@@ -115,7 +115,7 @@ crying out for help. That’s why I should like so much to be a lady. But
 I’m not afraid in this way. Not a bit. Look here!’
 
 She started from my side, and ran along a jagged timber which protruded
-from the place we stood upon, and overhung the deep water at some
+from the place we stood upon, and overhung the deep [[Water|water]] at some
 height, without the least defence. The incident is so impressed on my
 remembrance, that if I were a draughtsman I could draw its form here,
 I dare say, accurately as it was that day, and little Em’ly springing
@@ -127,14 +127,14 @@ to me, and I soon laughed at my fears, and at the cry I had uttered;
 fruitlessly in any case, for there was no one near. But there have been
 times since, in my manhood, many times there have been, when I have
 thought, Is it possible, among the possibilities of hidden things, that
-in the sudden rashness of the child and her wild look so far off, there
+in the sudden rashness of the [[Child|child]] and her wild look so far off, there
 was any merciful attraction of her into danger, any tempting her towards
 him permitted on the part of her dead father, that her life might have
-a chance of ending that day? There has been a time since when I have
+a chance of ending that day? There has been a [[Time|time]] since when I have
 wondered whether, if the life before her could have been revealed to me
-at a glance, and so revealed as that a child could fully comprehend it,
+at a glance, and so revealed as that a [[Child|child]] could fully comprehend it,
 and if her preservation could have depended on a motion of my hand, I
-ought to have held it up to save her. There has been a time since--I do
+ought to have held it up to save her. There has been a [[Time|time]] since--I do
 not say it lasted long, but it has been--when I have asked myself the
 question, would it have been better for little Em’ly to have had the
 waters close above her head that morning in my sight; and when I have

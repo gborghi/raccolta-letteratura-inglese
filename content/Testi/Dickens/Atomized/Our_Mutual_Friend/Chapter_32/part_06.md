@@ -24,8 +24,8 @@ finger at his face, ‘because I have got you in my power. This is a
 secret expedition. If ever you tell of me, I’ll tell of you. I’ll tell
 Ma that you dined at Greenwich.’
 
-‘Well; seriously, my dear,’ observed R. W., with some trepidation of
-manner, ‘it might be as well not to mention it.’
+‘[[Well]]; seriously, my dear,’ observed R. W., with some trepidation of
+manner, ‘it might be as [[Well|well]] not to mention it.’
 
 ‘Aha!’ laughed Bella. ‘I knew you wouldn’t like it, sir! So you keep my
 confidence, and I’ll keep yours. But betray the lovely woman, and you
@@ -34,7 +34,7 @@ like to give your hair a turn, because it has been dreadfully neglected
 in my absence.’
 
 R. W. submitted his head to the operator, and the operator went on
-talking; at the same time putting separate locks of his hair through
+talking; at the same [[Time|time]] putting separate locks of his hair through
 a curious process of being smartly rolled over her two revolving
 forefingers, which were then suddenly pulled out of it in opposite
 lateral directions. On each of these occasions the patient winced and
@@ -44,7 +44,7 @@ winked.
 beg it, borrow it, or steal it; and so I have resolved that I must marry
 it.’
 
-R. W. cast up his eyes towards her, as well as he could under the
+R. W. cast up his eyes towards her, as [[Well|well]] as he could under the
 operating circumstances, and said in a tone of remonstrance, ‘My de-ar
 Bella!’
 
@@ -67,10 +67,10 @@ pleasant childish gravity. ‘Isn’t it shocking?’
 ‘It would be quite so, if you fully knew what you said, my dear, or
 meant it.’
 
-‘Well, Pa, I can only tell you that I mean nothing else. Talk to me of
-love!’ said Bella, contemptuously: though her face and figure certainly
+‘[[Well]], Pa, I can only tell you that I mean nothing else. Talk to me of
+[[Love|love]]!’ said Bella, contemptuously: though her face and figure certainly
 rendered the subject no incongruous one. ‘Talk to me of fiery dragons!
-But talk to me of poverty and wealth, and there indeed we touch upon
+But talk to me of [[Poverty|poverty]] and wealth, and there indeed we touch upon
 realities.’
 
 ‘My De-ar, this is becoming Awful—’ her father was emphatically
@@ -81,21 +81,21 @@ beginning: when she stopped him.
 ‘You know I didn’t, my dear.’
 
 Bella hummed the Dead March in Saul, and said, after all it signified
-very little! But seeing him look grave and downcast, she took him round
+very little! But seeing him look [[Grave|grave]] and downcast, she took him round
 the neck and kissed him back to cheerfulness again.
 
 ‘I didn’t mean that last touch, Pa; it was only said in joke. Now mind!
 You are not to tell of me, and I’ll not tell of you. And more than that;
-I promise to have no secrets from you, Pa, and you may make certain
+I promise to have no [[Secrets|secrets]] from you, Pa, and you may make certain
 that, whatever mercenary things go on, I shall always tell you all about
 them in strict confidence.’
 
 Fain to be satisfied with this concession from the lovely woman, R. W.
 rang the bell, and paid the bill. ‘Now, all the rest of this, Pa,’ said
-Bella, rolling up the purse when they were alone again, hammering it
+Bella, [[rolling]] up the purse when they were [[Alone|alone]] again, hammering it
 small with her little fist on the table, and cramming it into one of the
 pockets of his new waistcoat, ‘is for you, to buy presents with for them
-at home, and to pay bills with, and to divide as you like, and spend
+at [[Home|home]], and to pay bills with, and to divide as you like, and spend
 exactly as you think proper. Last of all take notice, Pa, that it’s
 not the fruit of any avaricious scheme. Perhaps if it was, your little
 mercenary wretch of a daughter wouldn’t make so free with it!’
@@ -103,21 +103,21 @@ mercenary wretch of a daughter wouldn’t make so free with it!’
 After which, she tugged at his coat with both hands, and pulled him all
 askew in buttoning that garment over the precious waistcoat pocket, and
 then tied her dimples into her bonnet-strings in a very knowing way, and
-took him back to London. Arrived at Mr Boffin’s door, she set him with
+took him back to [[London]]. Arrived at Mr Boffin’s door, she set him with
 his back against it, tenderly took him by the ears as convenient handles
-for her purpose, and kissed him until he knocked muffled double knocks
+for her purpose, and kissed him until he knocked muffled [[Double|double]] knocks
 at the door with the back of his head. That done, she once more reminded
 him of their compact and gaily parted from him.
 
-Not so gaily, however, but that tears filled her eyes as he went away
+Not so gaily, however, but that [[Tears|tears]] filled her eyes as he went away
 down the dark street. Not so gaily, but that she several times said,
 ‘Ah, poor little Pa! Ah, poor dear struggling shabby little Pa!’
 before she took heart to knock at the door. Not so gaily, but that the
 brilliant furniture seemed to stare her out of countenance as if it
-insisted on being compared with the dingy furniture at home. Not so
+insisted on being compared with the dingy furniture at [[Home|home]]. Not so
 gaily, but that she fell into very low spirits sitting late in her own
 room, and very heartily wept, as she wished, now that the deceased old
-John Harmon had never made a will about her, now that the deceased young
-John Harmon had lived to marry her. ‘Contradictory things to wish,’ said
+[[John Harmon]] had never made a will about her, now that the deceased young
+[[John Harmon]] had lived to marry her. ‘Contradictory things to wish,’ said
 Bella, ‘but my life and fortunes are so contradictory altogether that
 what can I expect myself to be!’

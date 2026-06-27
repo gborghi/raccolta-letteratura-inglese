@@ -1,5 +1,5 @@
 ---
-title: "CharlesDickens — Chapter 6 (part 1)"
+title: "[[CharlesDickens]] — Chapter 6 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/CharlesDickens-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER VI
 
-DICKENS AND AMERICA
+DICKENS AND [[America|AMERICA]]
 
 The essential of Dickens's character was the conjunction
 of common sense with uncommon sensibility.  The two things
@@ -37,11 +37,11 @@ is a sensibility duly distributed in all normal directions;
 sensibility has come to mean a specialised sensibility in one.
 This is unfortunate, for it is not the sensibility that is bad,
 but the specialising; that is, the lack of sensibility
-to everything else.  A young lady who stays out all night
-to look at the stars should not be blamed for her sensibility
+to everything else.  A young lady who stays out all [[Night|night]]
+to look at the [[Stars|stars]] should not be blamed for her sensibility
 to starlight, but for her insensibility to other people.
-A poet who recites his own verses from ten to five with the tears
-rolling down his face should decidedly be rebuked for his
+A poet who recites his own verses from ten to five with the [[Tears|tears]]
+[[rolling]] down his face should decidedly be rebuked for his
 lack of, sensibility--his lack of sensibility to those grand
 rhythms of the social harmony, crudely called manners.
 For all politeness is a long poem, since it is full of recurrences.
@@ -62,15 +62,15 @@ with the fury of the man of one idea or one line of ideas.
 He had the excess of the eccentric, but not the defects, the narrowness.
 Even when he raved like a maniac he did not rave like a monomaniac.
 He had no particular spot of sensibility or spot of insensibility:
-he was merely a normal man minus a normal self-command. He had no
-special point of mental pain or repugnance, like Ruskin's horror
-of steam and iron, or Mr. Bernard Shaw's permanent irritation
-against romantic love.  He was annoyed at the ordinary annoyances:
-only he was more annoyed than was necessary.  He did not desire
+he was merely a normal man minus a normal [[Self|self]]-command. He had no
+special point of mental [[Pain|pain]] or repugnance, like Ruskin's horror
+of steam and iron, or Mr. Bernard [[Shaw]]'s permanent irritation
+against [[Romantic Love|romantic love]].  He was annoyed at the ordinary annoyances:
+only he was more annoyed than was necessary.  He did not [[Desire|desire]]
 strange delights, blue wine or black women with Baudelaire,
 or cruel sights east of Suez with Mr. Kipling.  He wanted
 what a healthy man wants, only he was ill with wanting it.
-To understand him, in a word, we must keep well in mind
+To understand him, in a word, we must keep [[Well|well]] in mind
 the medical distinction between delicacy and disease.
 Perhaps we shall comprehend it and him more clearly if we think
 of a woman rather than a man.  There was much that was feminine
@@ -80,7 +80,7 @@ and more sane.
 
 This distinction must be especially remembered in all his quarrels.
 And it must be most especially remembered in what may be called
-his great quarrel with America, which we have now to approach.
+his great quarrel with [[America]], which we have now to approach.
 The whole incident is so typical of Dickens's attitude to everything
 and anything, and especially of Dickens's attitude to anything political,
 that I may ask permission to approach the matter by another,
@@ -99,22 +99,22 @@ He was a fierce democrat, but in his best vein he laughed
 at the cocksure Radical of common life, the red-faced man
 who said, "Prove it!" when anybody said anything.  He fought
 for the right to elect:  but he would not whitewash elections.
-He believed in Parliamentary government; but he did not,
+He believed in Parliamentary [[government]]; but he did not,
 like our contemporary newspapers, pretend that Parliament
 is something much more heroic and imposing than it is.
 He fought for the rights of the grossly oppressed Nonconformists,
 but he spat out of his mouth the unction of that too easy
 seriousness with which they oiled everything, and held up to them
-like a horrible mirror the foul fat face of Chadband.  He saw
+like a horrible [[Mirror|mirror]] the foul fat face of Chadband.  He saw
 that Mr. Podsnap thought too little of places outside England.
 But he saw that Mrs. Jellaby thought too much of them.
 In the last book he wrote he gives us, in Mr. Honeythunder,
 a hateful and wholesome picture of all the Liberal catchwords
 pouring out of one illiberal man.  But perhaps the best
-evidence of this steadiness and sanity is the fact that,
+evidence of this steadiness and [[Sanity|sanity]] is the fact that,
 dogmatic as he was, he never tied himself to any passing dogma:
-he never got into any cul de sac or civic or economic fanaticism:
-he went down the broad road of the Revolution.  He never
+he never got into any cul de sac or civic or economic [[Fanaticism|fanaticism]]:
+he went down the broad [[Road|road]] of the Revolution.  He never
 admitted that economically, we must make hells of workhouses,
 any more than Rousseau would have admitted it.  He never said
 the State had no right to teach children or save their bones,
@@ -129,7 +129,7 @@ a politician of any kind.  He was simply a man of very clear,
 airy judgment on things that did not inflame his private temper,
 and he perceived that any theory that tried to run the living
 State entirely on one force and motive was probably nonsense.
-Whenever the Liberal philosophy had embedded in it something
+Whenever the Liberal [[philosophy]] had embedded in it something
 hard and heavy and lifeless, by an instinct he dropped it out.
 He was too romantic, perhaps, but he would have to do only with
 real things.  He may have cared too much about Liberty.  But he

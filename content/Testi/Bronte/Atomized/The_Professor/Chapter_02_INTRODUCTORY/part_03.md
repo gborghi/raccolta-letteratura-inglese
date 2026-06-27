@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 1: INTRODUCTORY (part 3)"
+title: "[[The Professor]] — Chapter 1: INTRODUCTORY (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ all future intercourse.’
 
 
 
-“‘Why,’ said he, ‘I may as well remind you at the very outset of our
+“‘Why,’ said he, ‘I may as [[Well|well]] remind you at the very outset of our
 
 connection, that “no man can serve two masters.” Acquaintance with Lord
 
@@ -36,17 +36,17 @@ inward speculation on the differences which exist in the constitution
 
 of men’s minds. I do not know what inference Mr. Crimsworth drew from
 
-my silence--whether he considered it a symptom of contumacity or an
+my [[Silence|silence]]--whether he considered it a symptom of contumacity or an
 
 evidence of my being cowed by his peremptory manner. After a long and
 
-hard stare at me, he rose sharply from his seat.
+hard stare at me, he [[Rose|rose]] sharply from his seat.
 
 
 
 “‘To-morrow,’ said he, ‘I shall call your attention to some other
 
-points; but now it is supper time, and Mrs. Crimsworth is probably
+points; but now it is supper [[Time|time]], and Mrs. Crimsworth is probably
 
 waiting; will you come?’
 
@@ -62,7 +62,7 @@ affectionate relative now striding before me? or is she better than
 
 these? Shall I, in conversing with her, feel free to show something of
 
-my real nature; or--’ Further conjectures were arrested by my entrance
+my real [[Nature|nature]]; or--’ Further conjectures were arrested by my entrance
 
 into the dining-room.
 
@@ -72,9 +72,9 @@ into the dining-room.
 
 apartment, wainscoted with oak; supper was laid on the table; by the
 
-fire-place, standing as if waiting our entrance, appeared a lady;
+[[Fire|fire]]-place, standing as if waiting our entrance, appeared a lady;
 
-she was young, tall, and well shaped; her dress was handsome and
+she was young, tall, and [[Well|well]] shaped; her dress was handsome and
 
 fashionable: so much my first glance sufficed to ascertain. A gay
 
@@ -94,7 +94,7 @@ at the supper-table in first-rate spirits. Perceiving me, she begged
 
 my pardon for not noticing me before, and then shook hands with me, as
 
-ladies do when a flow of good-humour disposes them to be cheerful to
+ladies do when a flow of good-[[Humour|humour]] disposes them to be cheerful to
 
 all, even the most indifferent of their acquaintance. It was now further
 
@@ -104,7 +104,7 @@ marked but agreeable; her hair was red--quite red. She and Edward
 
 talked much, always in a vein of playful contention; she was vexed, or
 
-pretended to be vexed, that he had that day driven a vicious horse in
+pretended to be vexed, that he had that day driven a vicious [[Horse|horse]] in
 
 the gig, and he made light of her fears. Sometimes she appealed to me.
 
@@ -112,7 +112,7 @@ the gig, and he made light of her fears. Sometimes she appealed to me.
 
 “‘Now, Mr. William, isn’t it absurd in Edward to talk so? He says he
 
-will drive Jack, and no other horse, and the brute has thrown him twice
+will drive Jack, and no other [[Horse|horse]], and the brute has thrown him twice
 
 already.
 
@@ -124,7 +124,7 @@ soon saw also that there was more than girlish--a somewhat infantine
 
 expression in her by no means small features; this lisp and expression
 
-were, I have no doubt, a charm in Edward’s eyes, and would be so to
+were, I have no [[Doubt|doubt]], a charm in Edward’s eyes, and would be so to
 
 those of most men, but they were not to mine. I sought her eye, desirous
 
@@ -132,19 +132,19 @@ to read there the intelligence which I could not discern in her face
 
 or hear in her conversation; it was merry, rather small; by turns I saw
 
-vivacity, vanity, coquetry, look out through its irid, but I watched in
+vivacity, [[Vanity|vanity]], coquetry, look out through its irid, but I watched in
 
-vain for a glimpse of soul. I am no Oriental; white necks, carmine lips
+vain for a glimpse of [[Soul|soul]]. I am no Oriental; white necks, carmine lips
 
 and cheeks, clusters of bright curls, do not suffice for me without that
 
 Promethean spark which will live after the roses and lilies are faded,
 
-the burnished hair grown grey. In sunshine, in prosperity, the flowers
+the burnished hair grown grey. In sunshine, in prosperity, the [[Flowers|flowers]]
 
-are very well; but how many wet days are there in life--November seasons
+are very [[Well|well]]; but how many wet days are there in life--November [[Seasons|seasons]]
 
-of disaster, when a man’s hearth and home would be cold indeed, without
+of disaster, when a man’s hearth and [[Home|home]] would be cold indeed, without
 
 the clear, cheering gleam of intellect.
 
@@ -154,7 +154,7 @@ the clear, cheering gleam of intellect.
 
 involuntary sigh announced my disappointment; she took it as a homage to
 
-her beauty, and Edward, who was evidently proud of his rich and handsome
+her [[Beauty|beauty]], and Edward, who was evidently proud of his rich and handsome
 
 young wife, threw on me a glance--half ridicule, half ire.
 
@@ -172,11 +172,11 @@ of these pictures. They were portraits--a lady and a gentleman, both
 
 costumed in the fashion of twenty years ago. The gentleman was in the
 
-shade. I could not see him well. The lady had the benefit of a full beam
+shade. I could not see him [[Well|well]]. The lady had the benefit of a full beam
 
 from the softly shaded lamp. I presently recognised her; I had seen this
 
-picture before in childhood; it was my mother; that and the companion
+picture before in [[Childhood|childhood]]; it was my mother; that and the companion
 
 picture being the only heir-looms saved out of the sale of my father’s
 
@@ -202,7 +202,7 @@ it was only a picture.
 
 conducted me to my bed-room; in closing my chamber-door, I shut out all
 
-intruders--you, Charles, as well as the rest.
+intruders--you, Charles, as [[Well|well]] as the rest.
 
 
 
@@ -210,13 +210,13 @@ intruders--you, Charles, as well as the rest.
 
 
 
-“WILLIAM CRIMSWORTH.”
+“[[William Crimsworth|WILLIAM CRIMSWORTH]].”
 
 
 
 To this letter I never got an answer; before my old friend received it,
 
-he had accepted a Government appointment in one of the colonies, and was
+he had accepted a [[government|Government]] appointment in one of the colonies, and was
 
 already on his way to the scene of his official labours. What has become
 
@@ -224,7 +224,7 @@ of him since, I know not.
 
 
 
-The leisure time I have at command, and which I intended to employ
+The leisure [[Time|time]] I have at command, and which I intended to employ
 
 for his private benefit, I shall now dedicate to that of the public at
 

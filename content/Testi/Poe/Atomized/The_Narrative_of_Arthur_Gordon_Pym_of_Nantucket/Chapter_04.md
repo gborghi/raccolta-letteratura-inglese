@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 5"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -22,7 +22,7 @@ CHAPTER V.
 
 For some minutes after the cook had left the forecastle, Augustus
 
-abandoned himself to despair, never hoping to leave the berth alive. He
+abandoned himself to [[Despair|despair]], never hoping to leave the berth alive. He
 
 now came to the resolution of acquainting the first of the men who
 
@@ -30,7 +30,7 @@ should come down with my situation, thinking it better to let me take
 
 my chance with the mutineers than perish of thirst in the hold--for it
 
-had been ten days since I was first imprisoned, and my jug of water was
+had been ten days since I was first imprisoned, and my jug of [[Water|water]] was
 
 not a plentiful supply even for four. As he was thinking on this
 
@@ -72,7 +72,7 @@ of soft pine board, an inch thick, and he saw that he should have
 
 little trouble in cutting his way through. A voice was now heard at the
 
-forecastle companion-way, and he had just time to put his right hand
+forecastle companion-way, and he had just [[Time|time]] to put his right hand
 
 into its handcuff (the left had not been removed), and to draw the rope
 
@@ -84,7 +84,7 @@ had been brought on board by Augustus, who knew my attachment to the
 
 animal, and thought it would give me pleasure to have him with me
 
-during the voyage. He went up to our house for him immediately after
+during the voyage. He went up to our [[house]] for him immediately after
 
 first taking me into the hold, but did not think of mentioning the
 
@@ -102,11 +102,11 @@ which, not having room to turn round, he could not extricate himself.
 
 Peters at last let him out, and with a species of good feeling which my
 
-friend knew well how to appreciate, had now brought him to him in the
+friend knew [[Well|well]] how to appreciate, had now brought him to him in the
 
-forecastle as a companion, leaving at the same time some salt junk and
+forecastle as a companion, leaving at the same [[Time|time]] some salt junk and
 
-potatoes, with a can of water; he then went on deck, promising to come
+potatoes, with a can of [[Water|water]]; he then went on deck, promising to come
 
 down with something more to eat on the next day.
 
@@ -128,7 +128,7 @@ he would be able to conceal what had been done by letting the head of
 
 the mattress fall into its proper position. For the remainder of the
 
-day, however, no disturbance occurred, and by night he had completely
+day, however, no disturbance occurred, and by [[Night|night]] he had completely
 
 divided the plank. It should here be observed, that none of the crew
 
@@ -158,17 +158,17 @@ main hatch, although in so doing he had to scramble over tiers of
 
 oil-casks piled nearly as high as the upper deck, there being barely
 
-room enough left for his body. Upon reaching the hatch, he found that
+room enough left for his [[Body|body]]. Upon reaching the hatch, he found that
 
 Tiger had followed him below, squeezing between two rows of the casks.
 
-It was now too late, however, to attempt getting to me before dawn, as
+It was now too late, however, to attempt getting to me before [[Dawn|dawn]], as
 
 the chief difficulty lay in passing through the close stowage in the
 
 lower hold. He therefore resolved to return, and wait till the next
 
-night. With this design he proceeded to loosen the hatch, so that he
+[[Night|night]]. With this design he proceeded to loosen the hatch, so that he
 
 might have as little detention as possible when he should come again.
 
@@ -176,9 +176,9 @@ No sooner had he loosened it than Tiger sprang eagerly to the small
 
 opening produced, snuffed for a moment, and then uttered a long whine,
 
-scratching at the same time, as if anxious to remove the covering with
+scratching at the same [[Time|time]], as if anxious to remove the covering with
 
-his paws. There could be no doubt, from his behaviour, that he was
+his paws. There could be no [[Doubt|doubt]], from his behaviour, that he was
 
 aware of my being in the hold, and Augustus thought it possible that he
 
@@ -212,21 +212,21 @@ as pitch. Paper enough was obtained from the back of a letter--a
 
 duplicate of the forged letter from Mr. Ross. This had been the
 
-original draught; but the handwriting not being sufficiently well
+original draught; but the handwriting not being sufficiently [[Well|well]]
 
 imitated, Augustus had written another, thrusting the first, by good
 
 fortune, into his coat-pocket, where it was now most opportunely
 
-discovered. Ink alone was thus wanting, and a substitute was
+discovered. Ink [[Alone|alone]] was thus wanting, and a substitute was
 
 immediately found for this by means of a slight incision with the
 
 penknife on the back of a finger just above the nail--a copious flow of
 
-blood ensuing, as usual from wounds in that vicinity. The note was now
+[[Blood|blood]] ensuing, as usual from wounds in that vicinity. The note was now
 
-written, as well as it could be in the dark and under the
+written, as [[Well|well]] as it could be in the dark and under the
 
 circumstances. It briefly explained that a mutiny had taken place; that
 
@@ -236,7 +236,7 @@ relief as far as provisions were concerned, but must not venture upon
 
 making any disturbance. It concluded with these words, _"I have
 
-scrawled this with blood--your life depends upon lying close."_
+scrawled this with [[Blood|blood]]--your life depends upon lying close."_
 
 
 
@@ -256,17 +256,17 @@ His handcuffs were then replaced, and also the rope around his ankles.
 
 These arrangements were scarcely completed when Dirk Peters came below,
 
-very drunk, but in excellent humour, and bringing with him my friend's
+very drunk, but in excellent [[Humour|humour]], and bringing with him my friend's
 
 allowance of provision for the day. This consisted of a dozen large
 
-Irish potatoes roasted, and a pitcher of water. He sat for some time on
+Irish potatoes roasted, and a pitcher of [[Water|water]]. He sat for some [[Time|time]] on
 
 a chest by the berth, and talked freely about the mate, and the general
 
 concerns of the brig. His demeanour was exceedingly capricious and even
 
-grotesque. At one time Augustus was much alarmed by his odd conduct. At
+[[Grotesque|grotesque]]. At one [[Time|time]] Augustus was much alarmed by his odd conduct. At
 
 last, however, he went on deck, muttering a promise to bring his
 
@@ -280,7 +280,7 @@ talking unreservedly about their plans. It appeared that they were much
 
 divided among themselves as to their ultimate course, agreeing in no
 
-point except the attack on the ship from the Cape Verd Islands, with
+point except the attack on the [[Ship|ship]] from the Cape Verd Islands, with
 
 which they were in hourly expectation of meeting. As far as could be
 
@@ -314,11 +314,11 @@ profit and pleasure. He dwelt on the world of novelty and amusement to
 
 be found among the innumerable islands of the Pacific, on the perfect
 
-security and freedom from all restraint to be enjoyed, but, more
+security and [[Freedom|freedom]] from all restraint to be enjoyed, but, more
 
 particularly, on the deliciousness of the climate, on the abundant
 
-means of good living, and on the voluptuous beauty of the women. As
+means of good living, and on the voluptuous [[Beauty|beauty]] of the women. As
 
 yet, nothing had been absolutely determined upon; but the pictures of
 
@@ -332,13 +332,13 @@ intentions would be finally carried into effect.
 
 The three men went away in about an hour, and no one else entered the
 
-forecastle all day. Augustus lay quiet until nearly night. He then
+forecastle all day. Augustus lay quiet until nearly [[Night|night]]. He then
 
 freed himself from the rope and irons, and prepared for his attempt. A
 
-bottle was found in one of the berths, and this he filled with water
+bottle was found in one of the berths, and this he filled with [[Water|water]]
 
-from the pitcher left by Peters, storing his pockets at the same time
+from the pitcher left by Peters, storing his pockets at the same [[Time|time]]
 
 with cold potatoes. To his great joy he also came across a lantern,
 
@@ -374,7 +374,7 @@ period breathing so oppressive an air. He called my name repeatedly,
 
 but I made him no reply, and his apprehensions seemed thus to be
 
-confirmed. The brig was rolling violently, and there was so much noise
+confirmed. The brig was [[rolling]] violently, and there was so much noise
 
 in consequence, that it was useless to listen for any weak sound, such
 
@@ -386,13 +386,13 @@ that, by observing the light, I might, if alive, be aware that succour
 
 was approaching. Still nothing was heard from me, and the supposition
 
-of my death began to assume the character of certainty. He determined,
+of my [[Death|death]] began to assume the character of certainty. He determined,
 
 nevertheless, to force a passage, if possible, to the box, and at least
 
-ascertain beyond a doubt the truth of his surmises. He pushed on for
+ascertain beyond a [[Doubt|doubt]] the [[Truth|truth]] of his surmises. He pushed on for
 
-some time in a most pitiable state of anxiety, until, at length, he
+some [[Time|time]] in a most pitiable state of anxiety, until, at length, he
 
 found the pathway utterly blocked up, and that there was no possibility
 
@@ -400,7 +400,7 @@ of making any farther way by the course in which he had set out.
 
 Overcome now by his feelings, he threw himself among the lumber in
 
-despair, and wept like a child. It was at this period that he heard the
+[[Despair|despair]], and wept like a [[Child|child]]. It was at this period that he heard the
 
 crash occasioned by the bottle which I had thrown down. Fortunate,
 
@@ -424,7 +424,7 @@ the forecastle. Before condemning him entirely on this head, the
 
 harassing circumstances which embarrassed him should be taken into
 
-consideration. The night was fast wearing away, and his absence from
+consideration. The [[Night|night]] was fast wearing away, and his absence from
 
 the forecastle might be discovered; and, indeed, would necessarily be
 
@@ -442,7 +442,7 @@ danger would be encountered to no purpose by himself. He had repeatedly
 
 called, and I had made him no answer. I had been now eleven days and
 
-nights with no more water than that contained in the jug which he had
+nights with no more [[Water|water]] than that contained in the jug which he had
 
 left with me, a supply which it was not at all probable I had hoarded
 
@@ -452,31 +452,31 @@ a speedy release. The atmosphere of the hold, too, must have appeared
 
 to him, coming from the comparatively open air of the steerage, of a
 
-nature absolutely poisonous, and by far more intolerable than it had
+[[Nature|nature]] absolutely poisonous, and by far more intolerable than it had
 
 seemed to me upon my first taking up my quarters in the box--the
 
-hatchways at that time having been constantly open for many months
+hatchways at that [[Time|time]] having been constantly open for many months
 
 previous. Add to these considerations that of the scene of bloodshed
 
 and terror so lately witnessed by my friend; his confinement,
 
-privations, and narrow escapes from death; together with the frail and
+privations, and narrow escapes from [[Death|death]]; together with the frail and
 
-equivocal tenure by which he still existed--circumstances all so well
+equivocal tenure by which he still existed--circumstances all so [[Well|well]]
 
 calculated to prostrate every energy of mind--and the reader will be
 
 easily brought, as I have been, to regard his apparent falling off in
 
-friendship and in faith with sentiments rather of sorrow than of anger.
+[[Friendship|friendship]] and in [[Faith|faith]] with sentiments rather of sorrow than of anger.
 
 
 
 The crash of the bottle was distinctly heard, yet Augustus was not sure
 
-that it proceeded from the hold. The doubt, however, was sufficient
+that it proceeded from the hold. The [[Doubt|doubt]], however, was sufficient
 
 inducement to persevere. He clambered up nearly to the orlop deck by
 
@@ -492,9 +492,9 @@ reached me, but I was so entirely overcome by violent agitation as to
 
 be incapable of reply. Confident, now, that his worst apprehensions
 
-were well founded, he descended, with a view of getting back to the
+were [[Well|well]] founded, he descended, with a view of getting back to the
 
-forecastle without loss of time. In his haste some small boxes were
+forecastle without loss of [[Time|time]]. In his haste some small boxes were
 
 thrown down, the noise occasioned by which I heard, as will be
 
@@ -502,9 +502,9 @@ recollected. He had made considerable progress on his return when the
 
 fall of the knife again caused him to hesitate. He retraced his steps
 
-immediately, and, clambering up the stowage a second time, called out
+immediately, and, clambering up the stowage a second [[Time|time]], called out
 
-my name, loudly as before, having watched for a lull. This time I found
+my name, loudly as before, having watched for a lull. This [[Time|time]] I found
 
 voice to answer. Overjoyed at discovering me to be still alive, he now
 

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 32: DESCRIBES, FAR MORE FULLY THAN THE COURT NEWSMAN EVER (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 32: DESCRIBES, FAR MORE FULLY THAN THE [[Court|COURT]] NEWSMAN EVER (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -34,33 +34,33 @@ allowed his feelings to overpower him, and professed that he had ever
 entertained a devoted personal attachment towards Mr. Gunter. To this
 Mr. Gunter replied that, upon the whole, he rather preferred Mr. Noddy
 to his own brother; on hearing which admission, Mr. Noddy magnanimously
-rose from his seat, and proffered his hand to Mr. Gunter. Mr. Gunter
+[[Rose|rose]] from his seat, and proffered his hand to Mr. Gunter. Mr. Gunter
 grasped it with affecting fervour; and everybody said that the whole
 dispute had been conducted in a manner which was highly honourable to
 both parties concerned.
 
 ‘Now,’ said Jack Hopkins, ‘just to set us going again, Bob, I don’t mind
-singing a song.’ And Hopkins, incited thereto by tumultuous applause,
-plunged himself at once into ‘The King, God bless him,’ which he sang as
-loud as he could, to a novel air, compounded of the ‘Bay of Biscay,’ and
-‘A Frog he would.’ The chorus was the essence of the song; and, as each
+singing a [[Song|song]].’ And Hopkins, incited thereto by tumultuous applause,
+plunged himself at once into ‘The [[King]], God bless him,’ which he sang as
+loud as he could, to a [[Novel|novel]] air, compounded of the ‘Bay of Biscay,’ and
+‘A Frog he would.’ The [[Chorus|chorus]] was the essence of the [[Song|song]]; and, as each
 gentleman sang it to the tune he knew best, the effect was very striking
 indeed.
 
-It was at the end of the chorus to the first verse, that Mr. Pickwick
-held up his hand in a listening attitude, and said, as soon as silence
+It was at the end of the [[Chorus|chorus]] to the first verse, that Mr. [[Pickwick]]
+held up his hand in a listening attitude, and said, as soon as [[Silence|silence]]
 was restored--
 
 ‘Hush! I beg your pardon. I thought I heard somebody calling from
 upstairs.’
 
-A profound silence immediately ensued; and Mr. Bob Sawyer was observed
+A profound [[Silence|silence]] immediately ensued; and Mr. Bob Sawyer was observed
 to turn pale.
 
-‘I think I hear it now,’ said Mr. Pickwick. ‘Have the goodness to open
+‘I think I hear it now,’ said Mr. [[Pickwick]]. ‘Have the goodness to open
 the door.’
 
-The door was no sooner opened than all doubt on the subject was removed.
+The door was no sooner opened than all [[Doubt|doubt]] on the subject was removed.
 
 ‘Mr. Sawyer! Mr. Sawyer!’ screamed a voice from the two-pair landing.
 
@@ -71,8 +71,8 @@ dismay. ‘Yes, Mrs. Raddle.’
 shrillness and rapidity of utterance. ‘Ain’t it enough to be swindled
 out of one’s rent, and money lent out of pocket besides, and abused and
 insulted by your friends that dares to call themselves men, without
-having the house turned out of the window, and noise enough made to
-bring the fire-engines here, at two o’clock in the morning?--Turn them
+having the [[house]] turned out of the [[Window|window]], and noise enough made to
+bring the [[Fire|fire]]-engines here, at two o’[[Clock|clock]] in the morning?--Turn them
 wretches away.’
 
 ‘You ought to be ashamed of yourselves,’ said the voice of Mr. Raddle,
@@ -101,15 +101,15 @@ be borne, is it?’
 ‘Not to be endured,’ replied Jack Hopkins; ‘let’s have the other verse,
 Bob. Come, here goes!’
 
-‘No, no, Jack, don’t,’ interposed Bob Sawyer; ‘it’s a capital song, but
+‘No, no, Jack, don’t,’ interposed Bob Sawyer; ‘it’s a capital [[Song|song]], but
 I am afraid we had better not have the other verse. They are very
-violent people, the people of the house.’
+violent people, the people of the [[house]].’
 
 ‘Shall I step upstairs, and pitch into the landlord?’ inquired Hopkins,
 ‘or keep on ringing the bell, or go and groan on the staircase? You may
 command me, Bob.’
 
-‘I am very much indebted to you for your friendship and good-nature,
+‘I am very much indebted to you for your [[Friendship|friendship]] and good-[[Nature|nature]],
 Hopkins,’ said the wretched Mr. Bob Sawyer, ‘but I think the best plan
 to avoid any further dispute is for us to break up at once.’
 
@@ -120,31 +120,31 @@ brutes going?’
 going directly.’
 
 ‘Going!’ said Mrs. Raddle, thrusting her nightcap over the banisters
-just as Mr. Pickwick, followed by Mr. Tupman, emerged from the sitting-
+just as Mr. [[Pickwick]], followed by Mr. Tupman, emerged from the sitting-
 room. ‘Going! what did they ever come for?’
 
-‘My dear ma’am,’ remonstrated Mr. Pickwick, looking up.
+‘My dear ma’am,’ remonstrated Mr. [[Pickwick]], looking up.
 
 ‘Get along with you, old wretch!’ replied Mrs. Raddle, hastily
 withdrawing the nightcap. ‘Old enough to be his grandfather, you willin!
 You’re worse than any of ‘em.’
 
-Mr. Pickwick found it in vain to protest his innocence, so hurried
+Mr. [[Pickwick]] found it in vain to protest his [[innocence]], so hurried
 downstairs into the street, whither he was closely followed by Mr.
 Tupman, Mr. Winkle, and Mr. Snodgrass. Mr. Ben Allen, who was dismally
-depressed with spirits and agitation, accompanied them as far as London
+depressed with spirits and agitation, accompanied them as far as [[London]]
 Bridge, and in the course of the walk confided to Mr. Winkle, as an
 especially eligible person to intrust the secret to, that he was
 resolved to cut the throat of any gentleman, except Mr. Bob Sawyer, who
 should aspire to the affections of his sister Arabella. Having expressed
 his determination to perform this painful duty of a brother with proper
-firmness, he burst into tears, knocked his hat over his eyes, and,
-making the best of his way back, knocked double knocks at the door of
+firmness, he burst into [[Tears|tears]], knocked his hat over his eyes, and,
+making the best of his way back, knocked [[Double|double]] knocks at the door of
 the Borough Market office, and took short naps on the steps alternately,
 until daybreak, under the firm impression that he lived there, and had
 forgotten the key.
 
 The visitors having all departed, in compliance with the rather pressing
-request of Mrs. Raddle, the luckless Mr. Bob Sawyer was left alone, to
+request of Mrs. Raddle, the luckless Mr. Bob Sawyer was left [[Alone|alone]], to
 meditate on the probable events of to-morrow, and the pleasures of the
 evening.

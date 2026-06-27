@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of Verona — Act IV, Scene 4 — exchange (dialogue) [1]"
+title: "The Two Gentlemen of [[Verona]] — Act IV, Scene 4 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)"

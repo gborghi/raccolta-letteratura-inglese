@@ -62,7 +62,7 @@ tags:
 
       emitted. My difficulties had taught me the necessity of caution,
 
-      and I now took time to reflect upon what I was about to do. It
+      and I now took [[Time|time]] to reflect upon what I was about to do. It
 
       was very probable, I considered, that some words were written
 
@@ -76,7 +76,7 @@ tags:
 
       proper manner, as written. There was the greater necessity of
 
-      ascertaining the point in question beyond a doubt, as the
+      ascertaining the point in question beyond a [[Doubt|doubt]], as the
 
       phosphorus remaining would be altogether insufficient for a third
 
@@ -114,7 +114,7 @@ tags:
 
       I had previously done. Having rubbed in the phosphorus, a
 
-      brilliancy ensued as before—but this time several lines of MS. in
+      brilliancy ensued as before—but this [[Time|time]] several lines of MS. in
 
       a large hand, and apparently in red ink, became distinctly
 
@@ -122,13 +122,13 @@ tags:
 
       momentary. Still, had I not been too greatly excited, there would
 
-      have been ample time enough for me to peruse the whole three
+      have been ample [[Time|time]] enough for me to peruse the whole three
 
       sentences before me—for I saw there were three. In my anxiety,
 
       however, to read all at once, I succeeded only in reading the
 
-      seven concluding words, which thus appeared—“blood—your life
+      seven concluding words, which thus appeared—“[[Blood|blood]]—your life
 
       depends upon lying close.”
 
@@ -146,9 +146,9 @@ tags:
 
       and yet indefinable horror with which I was inspired by the
 
-      fragmentary warning thus received. And “blood,” too, that word of
+      fragmentary warning thus received. And “[[Blood|blood]],” too, that word of
 
-      all words—so rife at all times with mystery, and suffering, and
+      all words—so rife at all times with mystery, and [[Suffering|suffering]], and
 
       terror—how trebly full of import did it now appear—how chilly and
 
@@ -156,9 +156,9 @@ tags:
 
       qualify or render it distinct) did its vague syllables fall, amid
 
-      the deep gloom of my prison, into the innermost recesses of my
+      the deep gloom of my [[Prison|prison]], into the innermost recesses of my
 
-      soul!
+      [[Soul|soul]]!
 
 
 
@@ -168,7 +168,7 @@ tags:
 
       be—but I could think of nothing affording a satisfactory solution
 
-      of the mystery. Just after returning from my last journey to the
+      of the mystery. Just after returning from my last [[Journey|journey]] to the
 
       trap, and before my attention had been otherwise directed by the
 
@@ -182,14 +182,14 @@ tags:
 
       accomplish one of these two purposes in the last emergency, had
 
-      given me courage (which I should not otherwise have had) to
+      given me [[Courage|courage]] (which I should not otherwise have had) to
 
       endure the evils of my situation. The few words I had been able
 
       to read, however, had cut me off from these final resources, and
 
-      I now, for the first time, felt all the misery of my fate. In a
+      I now, for the first [[Time|time]], felt all the misery of my fate. In a
 
-      paroxysm of despair I threw myself again upon the mattress,
+      paroxysm of [[Despair|despair]] I threw myself again upon the mattress,
 
-      where, for about the period of a day and night, I lay in a kind
+      where, for about the period of a day and [[Night|night]], I lay in a kind

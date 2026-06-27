@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 7"
+title: "[[Persuasion]] — Chapter 7"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER VII.
 
 
 
-A very few days more, and Captain Wentworth was known to be at
+A very few days more, and [[Captain Wentworth]] was known to be at
 
 Kellynch, and Mr Musgrove had called on him, and come back warm in his
 
@@ -30,7 +30,7 @@ the end of another week. It had been a great disappointment to Mr
 
 Musgrove to find that no earlier day could be fixed, so impatient was
 
-he to shew his gratitude, by seeing Captain Wentworth under his own
+he to shew his gratitude, by seeing [[Captain Wentworth]] under his own
 
 roof, and welcoming him to all that was strongest and best in his
 
@@ -42,17 +42,17 @@ could feel secure even for a week.
 
 
 
-Captain Wentworth made a very early return to Mr Musgrove’s civility,
+[[Captain Wentworth]] made a very early return to Mr Musgrove’s civility,
 
 and she was all but calling there in the same half hour. She and Mary
 
-were actually setting forward for the Great House, where, as she
+were actually setting forward for the [[Great House]], where, as she
 
 afterwards learnt, they must inevitably have found him, when they were
 
-stopped by the eldest boy’s being at that moment brought home in
+stopped by the eldest boy’s being at that moment brought [[Home|home]] in
 
-consequence of a bad fall. The child’s situation put the visit entirely
+consequence of a bad fall. The [[Child|child]]’s situation put the visit entirely
 
 aside; but she could not hear of her escape with indifference, even in
 
@@ -72,11 +72,11 @@ send for, the father to have pursued and informed, the mother to
 
 support and keep from hysterics, the servants to control, the youngest
 
-child to banish, and the poor suffering one to attend and soothe;
+[[Child|child]] to banish, and the poor [[Suffering|suffering]] one to attend and soothe;
 
 besides sending, as soon as she recollected it, proper notice to the
 
-other house, which brought her an accession rather of frightened,
+other [[house]], which brought her an accession rather of frightened,
 
 enquiring companions, than of very useful assistants.
 
@@ -86,15 +86,15 @@ Her brother’s return was the first comfort; he could take best care of
 
 his wife; and the second blessing was the arrival of the apothecary.
 
-Till he came and had examined the child, their apprehensions were the
+Till he came and had examined the [[Child|child]], their apprehensions were the
 
 worse for being vague; they suspected great injury, but knew not where;
 
 but now the collar-bone was soon replaced, and though Mr Robinson felt
 
-and felt, and rubbed, and looked grave, and spoke low words both to the
+and felt, and rubbed, and looked [[Grave|grave]], and spoke low words both to the
 
-father and the aunt, still they were all to hope the best, and to be
+father and the aunt, still they were all to [[Hope|hope]] the best, and to be
 
 able to part and eat their dinner in tolerable ease of mind; and then
 
@@ -102,7 +102,7 @@ it was, just before they parted, that the two young aunts were able so
 
 far to digress from their nephew’s state, as to give the information of
 
-Captain Wentworth’s visit; staying five minutes behind their father and
+[[Captain Wentworth]]’s visit; staying five minutes behind their father and
 
 mother, to endeavour to express how perfectly delighted they were with
 
@@ -126,9 +126,9 @@ ought. And in short, he had looked and said everything with such
 
 exquisite grace, that they could assure them all, their heads were both
 
-turned by him; and off they ran, quite as full of glee as of love, and
+turned by him; and off they ran, quite as full of glee as of [[Love|love]], and
 
-apparently more full of Captain Wentworth than of little Charles.
+apparently more full of [[Captain Wentworth]] than of little Charles.
 
 
 
@@ -138,9 +138,9 @@ came with their father, through the gloom of the evening, to make
 
 enquiries; and Mr Musgrove, no longer under the first uneasiness about
 
-his heir, could add his confirmation and praise, and hope there would
+his heir, could add his confirmation and praise, and [[Hope|hope]] there would
 
-be now no occasion for putting Captain Wentworth off, and only be sorry
+be now no occasion for putting [[Captain Wentworth]] off, and only be sorry
 
 to think that the cottage party, probably, would not like to leave the
 
@@ -156,11 +156,11 @@ adding her warm protestations to theirs.
 
 Charles Musgrove, indeed, afterwards, shewed more of inclination; “the
 
-child was going on so well, and he wished so much to be introduced to
+[[Child|child]] was going on so [[Well|well]], and he wished so much to be introduced to
 
-Captain Wentworth, that, perhaps, he might join them in the evening; he
+[[Captain Wentworth]], that, perhaps, he might join them in the evening; he
 
-would not dine from home, but he might walk in for half an hour.” But
+would not dine from [[Home|home]], but he might walk in for half an hour.” But
 
 in this he was eagerly opposed by his wife, with “Oh! no, indeed,
 
@@ -170,37 +170,37 @@ should happen?”
 
 
 
-The child had a good night, and was going on well the next day. It must
+The [[Child|child]] had a good [[Night|night]], and was going on [[Well|well]] the next day. It must
 
-be a work of time to ascertain that no injury had been done to the
+be a work of [[Time|time]] to ascertain that no injury had been done to the
 
 spine; but Mr Robinson found nothing to increase alarm, and Charles
 
 Musgrove began, consequently, to feel no necessity for longer
 
-confinement. The child was to be kept in bed and amused as quietly as
+confinement. The [[Child|child]] was to be kept in bed and amused as quietly as
 
 possible; but what was there for a father to do? This was quite a
 
 female case, and it would be highly absurd in him, who could be of no
 
-use at home, to shut himself up. His father very much wished him to
+use at [[Home|home]], to shut himself up. His father very much wished him to
 
-meet Captain Wentworth, and there being no sufficient reason against
+meet [[Captain Wentworth]], and there being no sufficient reason against
 
 it, he ought to go; and it ended in his making a bold, public
 
 declaration, when he came in from shooting, of his meaning to dress
 
-directly, and dine at the other house.
+directly, and dine at the other [[house]].
 
 
 
-“Nothing can be going on better than the child,” said he; “so I told my
+“Nothing can be going on better than the [[Child|child]],” said he; “so I told my
 
 father, just now, that I would come, and he thought me quite right.
 
-Your sister being with you, my love, I have no scruple at all. You
+Your sister being with you, my [[Love|love]], I have no scruple at all. You
 
 would not like to leave him yourself, but you see I can be of no use.
 
@@ -222,7 +222,7 @@ there was only Anne to hear—
 
 “So you and I are to be left to shift by ourselves, with this poor sick
 
-child; and not a creature coming near us all the evening! I knew how it
+[[Child|child]]; and not a creature coming near us all the evening! I knew how it
 
 would be. This is always my luck. If there is anything disagreeable
 
@@ -232,7 +232,7 @@ any of them. Very unfeeling! I must say it is very unfeeling of him to
 
 be running away from his poor little boy. Talks of his being going on
 
-so well! How does he know that he is going on well, or that there may
+so [[Well|well]]! How does he know that he is going on [[Well|well]], or that there may
 
 not be a sudden change half an hour hence? I did not think Charles
 
@@ -242,7 +242,7 @@ himself, and because I am the poor mother, I am not to be allowed to
 
 stir; and yet, I am sure, I am more unfit than anybody else to be about
 
-the child. My being the mother is the very reason why my feelings
+the [[Child|child]]. My being the mother is the very reason why my feelings
 
 should not be tried. I am not at all equal to it. You saw how
 
@@ -256,21 +256,21 @@ shock. You will not be hysterical again. I dare say we shall have
 
 nothing to distress us. I perfectly understand Mr Robinson’s
 
-directions, and have no fears; and indeed, Mary, I cannot wonder at
+directions, and have no fears; and indeed, Mary, I cannot [[Wonder|wonder]] at
 
 your husband. Nursing does not belong to a man; it is not his province.
 
-A sick child is always the mother’s property: her own feelings
+A sick [[Child|child]] is always the mother’s property: her own feelings
 
 generally make it so.”
 
 
 
-“I hope I am as fond of my child as any mother, but I do not know that
+“I [[Hope|hope]] I am as fond of my [[Child|child]] as any mother, but I do not know that
 
 I am of any more use in the sick-room than Charles, for I cannot be
 
-always scolding and teazing the poor child when it is ill; and you saw,
+always scolding and teazing the poor [[Child|child]] when it is ill; and you saw,
 
 this morning, that if I told him to keep quiet, he was sure to begin
 
@@ -288,7 +288,7 @@ evening away from the poor boy?”
 
 and she could send us word every hour how he was. I really think
 
-Charles might as well have told his father we would all come. I am not
+Charles might as [[Well|well]] have told his father we would all come. I am not
 
 more alarmed about little Charles now than he is. I was dreadfully
 
@@ -296,9 +296,9 @@ alarmed yesterday, but the case is very different to-day.”
 
 
 
-“Well, if you do not think it too late to give notice for yourself,
+“[[Well]], if you do not think it too late to give notice for yourself,
 
-suppose you were to go, as well as your husband. Leave little Charles
+suppose you were to go, as [[Well|well]] as your husband. Leave little Charles
 
 to my care. Mr and Mrs Musgrove cannot think it wrong while I remain
 
@@ -308,9 +308,9 @@ with him.”
 
 “Are you serious?” cried Mary, her eyes brightening. “Dear me! that’s a
 
-very good thought, very good, indeed. To be sure, I may just as well go
+very good thought, very good, indeed. To be sure, I may just as [[Well|well]] go
 
-as not, for I am of no use at home—am I? and it only harasses me. You,
+as not, for I am of no use at [[Home|home]]—am I? and it only harasses me. You,
 
 who have not a mother’s feelings, are a great deal the properest
 
@@ -322,7 +322,7 @@ Jemima. Oh! I shall certainly go; I am sure I ought if I can, quite as
 
 much as Charles, for they want me excessively to be acquainted with
 
-Captain Wentworth, and I know you do not mind being left alone. An
+[[Captain Wentworth]], and I know you do not mind being left [[Alone|alone]]. An
 
 excellent thought of yours, indeed, Anne. I will go and tell Charles,
 
@@ -332,13 +332,13 @@ notice, if anything is the matter; but I dare say there will be nothing
 
 to alarm you. I should not go, you may be sure, if I did not feel quite
 
-at ease about my dear child.”
+at ease about my dear [[Child|child]].”
 
 
 
 The next moment she was tapping at her husband’s dressing-room door,
 
-and as Anne followed her up stairs, she was in time for the whole
+and as Anne followed her up stairs, she was in [[Time|time]] for the whole
 
 conversation, which began with Mary’s saying, in a tone of great
 
@@ -346,17 +346,17 @@ exultation—
 
 
 
-“I mean to go with you, Charles, for I am of no more use at home than
+“I mean to go with you, Charles, for I am of no more use at [[Home|home]] than
 
-you are. If I were to shut myself up for ever with the child, I should
+you are. If I were to shut myself up for ever with the [[Child|child]], I should
 
 not be able to persuade him to do anything he did not like. Anne will
 
-stay; Anne undertakes to stay at home and take care of him. It is
+stay; Anne undertakes to stay at [[Home|home]] and take care of him. It is
 
 Anne’s own proposal, and so I shall go with you, which will be a great
 
-deal better, for I have not dined at the other house since Tuesday.”
+deal better, for I have not dined at the other [[house]] since Tuesday.”
 
 
 
@@ -364,7 +364,7 @@ deal better, for I have not dined at the other house since Tuesday.”
 
 very glad to have you go; but it seems rather hard that she should be
 
-left at home by herself, to nurse our sick child.”
+left at [[Home|home]] by herself, to [[Nurse|nurse]] our sick [[Child|child]].”
 
 
 
@@ -374,9 +374,9 @@ manner being soon sufficient to convince him, where conviction was at
 
 least very agreeable, he had no farther scruples as to her being left
 
-to dine alone, though he still wanted her to join them in the evening,
+to dine [[Alone|alone]], though he still wanted her to join them in the evening,
 
-when the child might be at rest for the night, and kindly urged her to
+when the [[Child|child]] might be at rest for the [[Night|night]], and kindly urged her to
 
 let him come and fetch her, but she was quite unpersuadable; and this
 
@@ -390,7 +390,7 @@ she was left with as many sensations of comfort, as were, perhaps, ever
 
 likely to be hers. She knew herself to be of the first utility to the
 
-child; and what was it to her if Frederick Wentworth were only half a
+[[Child|child]]; and what was it to her if Frederick Wentworth were only half a
 
 mile distant, making himself agreeable to others?
 
@@ -402,11 +402,11 @@ indifferent, if indifference could exist under such circumstances. He
 
 must be either indifferent or unwilling. Had he wished ever to see her
 
-again, he need not have waited till this time; he would have done what
+again, he need not have waited till this [[Time|time]]; he would have done what
 
 she could not but believe that in his place she should have done long
 
-ago, when events had been early giving him the independence which alone
+ago, when events had been early giving him the independence which [[Alone|alone]]
 
 had been wanting.
 
@@ -426,9 +426,9 @@ Charles. He was to come to breakfast, but not at the Cottage, though
 
 that had been proposed at first; but then he had been pressed to come
 
-to the Great House instead, and he seemed afraid of being in Mrs
+to the [[Great House]] instead, and he seemed afraid of being in Mrs
 
-Charles Musgrove’s way, on account of the child, and therefore,
+Charles Musgrove’s way, on account of the [[Child|child]], and therefore,
 
 somehow, they hardly knew how, it ended in Charles’s being to meet him
 
@@ -450,21 +450,21 @@ were to meet.
 
 The morning hours of the Cottage were always later than those of the
 
-other house, and on the morrow the difference was so great that Mary
+other [[house]], and on the morrow the difference was so great that Mary
 
 and Anne were not more than beginning breakfast when Charles came in to
 
-say that they were just setting off, that he was come for his dogs,
+say that they were just setting off, that he was come for his [[dogs]],
 
-that his sisters were following with Captain Wentworth; his sisters
+that his sisters were following with [[Captain Wentworth]]; his sisters
 
-meaning to visit Mary and the child, and Captain Wentworth proposing
+meaning to visit Mary and the [[Child|child]], and [[Captain Wentworth]] proposing
 
 also to wait on her for a few minutes if not inconvenient; and though
 
-Charles had answered for the child’s being in no such state as could
+Charles had answered for the [[Child|child]]’s being in no such state as could
 
-make it inconvenient, Captain Wentworth would not be satisfied without
+make it inconvenient, [[Captain Wentworth]] would not be satisfied without
 
 his running on to give notice.
 
@@ -478,7 +478,7 @@ most consoling, that it would soon be over. And it was soon over. In
 
 two minutes after Charles’s preparation, the others appeared; they were
 
-in the drawing-room. Her eye half met Captain Wentworth’s, a bow, a
+in the drawing-room. Her eye half met [[Captain Wentworth]]’s, a bow, a
 
 curtsey passed; she heard his voice; he talked to Mary, said all that
 
@@ -486,7 +486,7 @@ was right, said something to the Miss Musgroves, enough to mark an easy
 
 footing; the room seemed full, full of persons and voices, but a few
 
-minutes ended it. Charles shewed himself at the window, all was ready,
+minutes ended it. Charles shewed himself at the [[Window|window]], all was ready,
 
 their visitor had bowed and was gone, the Miss Musgroves were gone too,
 
@@ -552,7 +552,7 @@ this spontaneous information from Mary:—
 
 
 
-“Captain Wentworth is not very gallant by you, Anne, though he was so
+“[[Captain Wentworth]] is not very gallant by you, Anne, though he was so
 
 attentive to me. Henrietta asked him what he thought of you, when they
 
@@ -572,7 +572,7 @@ wound.
 
 “Altered beyond his knowledge.” Anne fully submitted, in silent, deep
 
-mortification. Doubtless it was so, and she could take no revenge, for
+mortification. Doubtless it was so, and she could take no [[Revenge|revenge]], for
 
 he was not altered, or not for the worse. She had already acknowledged
 
@@ -604,7 +604,7 @@ without an idea that they would be carried round to her. He had thought
 
 her wretchedly altered, and in the first moment of appeal, had spoken
 
-as he felt. He had not forgiven Anne Elliot. She had used him ill,
+as he felt. He had not forgiven [[Anne Elliot]]. She had used him ill,
 
 deserted and disappointed him; and worse, she had shewn a feebleness of
 
@@ -612,7 +612,7 @@ character in doing so, which his own decided, confident temper could
 
 not endure. She had given him up to oblige others. It had been the
 
-effect of over-persuasion. It had been weakness and timidity.
+effect of over-[[Persuasion|persuasion]]. It had been weakness and timidity.
 
 
 
@@ -620,7 +620,7 @@ He had been most warmly attached to her, and had never seen a woman
 
 since whom he thought her equal; but, except from some natural
 
-sensation of curiosity, he had no desire of meeting her again. Her
+sensation of curiosity, he had no [[Desire|desire]] of meeting her again. Her
 
 power with him was gone for ever.
 
@@ -630,13 +630,13 @@ It was now his object to marry. He was rich, and being turned on shore,
 
 fully intended to settle as soon as he could be properly tempted;
 
-actually looking round, ready to fall in love with all the speed which
+actually looking round, ready to fall in [[Love|love]] with all the [[Speed|speed]] which
 
 a clear head and a quick taste could allow. He had a heart for either
 
 of the Miss Musgroves, if they could catch it; a heart, in short, for
 
-any pleasing young woman who came in his way, excepting Anne Elliot.
+any pleasing young woman who came in his way, excepting [[Anne Elliot]].
 
 This was his only secret exception, when he said to his sister, in
 
@@ -646,7 +646,7 @@ answer to her suppositions:—
 
 “Yes, here I am, Sophia, quite ready to make a foolish match. Anybody
 
-between fifteen and thirty may have me for asking. A little beauty, and
+between fifteen and thirty may have me for asking. A little [[Beauty|beauty]], and
 
 a few smiles, and a few compliments to the navy, and I am a lost man.
 
@@ -658,7 +658,7 @@ women to make him nice?”
 
 He said it, she knew, to be contradicted. His bright proud eye spoke
 
-the conviction that he was nice; and Anne Elliot was not out of his
+the conviction that he was nice; and [[Anne Elliot]] was not out of his
 
 thoughts, when he more seriously described the woman he should wish to
 
@@ -670,8 +670,8 @@ and the last of the description.
 
 “That is the woman I want,” said he. “Something a little inferior I
 
-shall of course put up with, but it must not be much. If I am a fool, I
+shall of course put up with, but it must not be much. If I am a [[Fool|fool]], I
 
-shall be a fool indeed, for I have thought on the subject more than
+shall be a [[Fool|fool]] indeed, for I have thought on the subject more than
 
 most men.”

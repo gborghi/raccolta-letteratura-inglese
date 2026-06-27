@@ -37,14 +37,14 @@ Most of us have suffered from a certain sort of ladies who, by their
 perverse unselfishness, give more trouble than the selfish; who almost
 clamor for the unpopular dish and scramble for the worst seat.
 Most of us have known parties or expeditions full of this seething
-fuss of self-effacement. From much meaner motives than those of such
+fuss of [[Self|self]]-effacement. From much meaner motives than those of such
 admirable women, our practical politicians keep things in the same
-confusion through the same doubt about their real demands.
+confusion through the same [[Doubt|doubt]] about their real demands.
 There is nothing that so much prevents a settlement as a tangle
 of small surrenders.  We are bewildered on every side by politicians
-who are in favor of secular education, but think it hopeless
-to work for it; who desire total prohibition, but are certain
-they should not demand it; who regret compulsory education,
+who are in favor of secular [[Education|education]], but think it hopeless
+to work for it; who [[Desire|desire]] total prohibition, but are certain
+they should not demand it; who regret compulsory [[Education|education]],
 but resignedly continue it; or who want peasant proprietorship
 and therefore vote for something else.  It is this dazed and
 floundering opportunism that gets in the way of everything.
@@ -85,45 +85,45 @@ Among modern statesmen it really seems to mean that half a loaf
 is better than a whole loaf.
 
 As an instance to sharpen the argument, I take the one case
-of our everlasting education bills.  We have actually contrived
+of our everlasting [[Education|education]] bills.  We have actually contrived
 to invent a new kind of hypocrite.  The old hypocrite,
 Tartuffe or Pecksniff, was a man whose aims were really worldly
 and practical, while he pretended that they were religious.
 The new hypocrite is one whose aims are really religious,
 while he pretends that they are worldly and practical.
 The Rev. Brown, the Wesleyan minister, sturdily declares
-that he cares nothing for creeds, but only for education;
-meanwhile, in truth, the wildest Wesleyanism is tearing his soul.
-The Rev. Smith, of the Church of England, explains gracefully,
-with the Oxford manner, that the only question for him is
-the prosperity and efficiency of the schools; while in truth
+that he cares nothing for creeds, but only for [[Education|education]];
+meanwhile, in [[Truth|truth]], the wildest Wesleyanism is tearing his [[Soul|soul]].
+The Rev. [[smith|Smith]], of the Church of England, explains gracefully,
+with the [[Oxford]] manner, that the only question for him is
+the prosperity and efficiency of the schools; while in [[Truth|truth]]
 all the evil passions of a curate are roaring within him.
 It is a fight of creeds masquerading as policies.
 I think these reverend gentlemen do themselves wrong; I think
 they are more pious than they will admit.  Theology is not
 (as some suppose) expunged as an error.  It is merely concealed,
-like a sin.  Dr. Clifford really wants a theological atmosphere
+like a sin.  Dr. [[Clifford]] really wants a theological atmosphere
 as much as Lord Halifax; only it is a different one.
-If Dr. Clifford would ask plainly for Puritanism and Lord Halifax
+If Dr. [[Clifford]] would ask plainly for [[Puritanism]] and Lord Halifax
 ask plainly for Catholicism, something might be done for them.
 We are all, one hopes, imaginative enough to recognize the dignity
-and distinctness of another religion, like Islam or the cult
-of Apollo.  I am quite ready to respect another man's faith;
-but it is too much to ask that I should respect his doubt,
+and distinctness of another religion, like [[Islam]] or the cult
+of [[Apollo]].  I am quite ready to respect another man's [[Faith|faith]];
+but it is too much to ask that I should respect his [[Doubt|doubt]],
 his worldly hesitations and fictions, his political bargain
 and make-believe. Most Nonconformists with an instinct for
-English history could see something poetic and national about
+English [[history]] could see something poetic and national about
 the Archbishop of Canterbury as an Archbishop of Canterbury.  It is
 when he does the rational British statesman that they very
 justifiably get annoyed.  Most Anglicans with an eye for pluck
-and simplicity could admire Dr. Clifford as a Baptist minister.
+and simplicity could admire Dr. [[Clifford]] as a Baptist minister.
 It is when he says that he is simply a citizen that nobody can
 possibly believe him.
 
 But indeed the case is yet more curious than this.
 The one argument that used to be urged for our creedless
-vagueness was that at least it saved us from fanaticism.
+vagueness was that at least it saved us from [[Fanaticism|fanaticism]].
 But it does not even do that.  On the contrary, it creates
-and renews fanaticism with a force quite peculiar to itself.
+and renews [[Fanaticism|fanaticism]] with a force quite peculiar to itself.
 This is at once so strange and so true that I will ask the reader's
 attention to it with a little more precision.

@@ -1,5 +1,5 @@
 ---
-title: "Pericles — Scene 1 — exchange (dialogue) [1]"
+title: "[[Pericles]] — Scene 1 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/PERICLES-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Gower as Prologue |
+| *(didascalia)* | Enter [[Gower]] as Prologue |

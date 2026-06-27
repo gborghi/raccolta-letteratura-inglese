@@ -1,5 +1,5 @@
 ---
-title: "trees of pride — THE TALE OF THE PEACOCK TREES"
+title: "trees of [[Pride|pride]] — THE TALE OF THE PEACOCK TREES"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/trees-of-pride-(Chesterton)"

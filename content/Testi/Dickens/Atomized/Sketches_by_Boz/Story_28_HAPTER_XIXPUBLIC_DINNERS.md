@@ -17,16 +17,16 @@ tags:
 CHAPTER XIX—PUBLIC DINNERS
 
 
-All public dinners in London, from the Lord Mayor’s annual banquet at
-Guildhall, to the Chimney-sweepers’ anniversary at White Conduit House;
+All public dinners in [[London]], from the [[Lord Mayor]]’s annual banquet at
+Guildhall, to the Chimney-sweepers’ anniversary at White Conduit [[house|House]];
 from the Goldsmiths’ to the Butchers’, from the Sheriffs’ to the
 Licensed Victuallers’; are amusing scenes. Of all entertainments of
 this description, however, we think the annual dinner of some public
-charity is the most amusing. At a Company’s dinner, the people are
+[[Charity|charity]] is the most amusing. At a Company’s dinner, the people are
 nearly all alike—regular old stagers, who make it a matter of business,
 and a thing not to be laughed at. At a political dinner, everybody is
 disagreeable, and inclined to speechify—much the same thing,
-by-the-bye; but at a charity dinner you see people of all sorts, kinds,
+by-the-bye; but at a [[Charity|charity]] dinner you see people of all sorts, kinds,
 and descriptions. The wine may not be remarkably special, to be sure,
 and we have heard some hardhearted monsters grumble at the collection;
 but we really think the amusement to be derived from the occasion,
@@ -34,12 +34,12 @@ sufficient to counterbalance even these disadvantages.
 
 Let us suppose you are induced to attend a dinner of this
 description—‘Indigent Orphans’ Friends’ Benevolent Institution,’ we
-think it is. The name of the charity is a line or two longer, but never
+think it is. The name of the [[Charity|charity]] is a line or two longer, but never
 mind the rest. You have a distinct recollection, however, that you
 purchased a ticket at the solicitation of some charitable friend: and
-you deposit yourself in a hackney-coach, the driver of which—no doubt
+you deposit yourself in a hackney-coach, the driver of which—no [[Doubt|doubt]]
 that you may do the thing in style—turns a deaf ear to your earnest
-entreaties to be set down at the corner of Great Queen-street, and
+entreaties to be set down at the corner of Great [[Queen]]-street, and
 persists in carrying you to the very door of the Freemasons’, round
 which a crowd of people are assembled to witness the entrance of the
 indigent orphans’ friends. You hear great speculations as you pay the
@@ -50,9 +50,9 @@ eventually decided that you are only a ‘wocalist.’
 The first thing that strikes you, on your entrance, is the astonishing
 importance of the committee. You observe a door on the first landing,
 carefully guarded by two waiters, in and out of which stout gentlemen
-with very red faces keep running, with a degree of speed highly
+with very red faces keep running, with a degree of [[Speed|speed]] highly
 unbecoming the gravity of persons of their years and corpulency. You
-pause, quite alarmed at the bustle, and thinking, in your innocence,
+pause, quite alarmed at the bustle, and thinking, in your [[innocence]],
 that two or three people must have been carried out of the dining-room
 in fits, at least. You are immediately undeceived by the
 waiter—‘Up-stairs, if you please, sir; this is the committee-room.’
@@ -64,16 +64,16 @@ Having deposited your hat and cloak, and received a remarkably small
 scrap of pasteboard in exchange (which, as a matter of course, you
 lose, before you require it again), you enter the hall, down which
 there are three long tables for the less distinguished guests, with a
-cross table on a raised platform at the upper end for the reception of
+[[Cross|cross]] table on a raised platform at the upper end for the reception of
 the very particular friends of the indigent orphans. Being fortunate
 enough to find a plate without anybody’s card in it, you wisely seat
 yourself at once, and have a little leisure to look about you. Waiters,
 with wine-baskets in their hands, are placing decanters of sherry down
-the tables, at very respectable distances; melancholy-looking
+the tables, at very respectable distances; [[Melancholy|melancholy]]-looking
 salt-cellars, and decayed vinegar-cruets, which might have belonged to
-the parents of the indigent orphans in their time, are scattered at
+the parents of the indigent orphans in their [[Time|time]], are scattered at
 distant intervals on the cloth; and the knives and forks look as if
-they had done duty at every public dinner in London since the accession
+they had done duty at every public dinner in [[London]] since the accession
 of George the First. The musicians are scraping and grating and
 screwing tremendously—playing no notes but notes of preparation; and
 several gentlemen are gliding along the sides of the tables, looking
@@ -98,7 +98,7 @@ round-faced person, in a dress-stock and blue under-waistcoat. There is
 something peculiar in their air and manner, though you could hardly
 describe what it is; you cannot divest yourself of the idea that they
 have come for some other purpose than mere eating and drinking. You
-have no time to debate the matter, however, for the waiters (who have
+have no [[Time|time]] to [[debate]] the matter, however, for the waiters (who have
 been arranged in lines down the room, placing the dishes on table)
 retire to the lower end; the dark man in the blue coat and bright
 buttons, who has the direction of the music, looks up to the gallery,
@@ -120,39 +120,39 @@ great fools if they own it, and people who can’t have no wish to learn.
 The knives and forks form a pleasing accompaniment to Auber’s music,
 and Auber’s music would form a pleasing accompaniment to the dinner, if
 you could hear anything besides the cymbals. The substantials
-disappear—moulds of jelly vanish like lightning—hearty eaters wipe
+disappear—moulds of jelly vanish like [[Lightning|lightning]]—hearty eaters wipe
 their foreheads, and appear rather overcome by their recent
-exertions—people who have looked very cross hitherto, become remarkably
+exertions—people who have looked very [[Cross|cross]] hitherto, become remarkably
 bland, and ask you to take wine in the most friendly manner
 possible—old gentlemen direct your attention to the ladies’ gallery,
-and take great pains to impress you with the fact that the charity is
+and take great pains to impress you with the fact that the [[Charity|charity]] is
 always peculiarly favoured in this respect—every one appears disposed
 to become talkative—and the hum of conversation is loud and general.
 
-‘Pray, silence, gentlemen, if you please, for _Non nobis_!’ shouts the
+‘Pray, [[Silence|silence]], gentlemen, if you please, for _Non nobis_!’ shouts the
 toast-master with stentorian lungs—a toast-master’s shirt-front,
 waistcoat, and neckerchief, by-the-bye, always exhibit three distinct
-shades of cloudy-white.—‘Pray, silence, gentlemen, for _Non nobis_!’
+shades of cloudy-white.—‘Pray, [[Silence|silence]], gentlemen, for _Non nobis_!’
 The singers, whom you discover to be no other than the very party that
 excited your curiosity at first, after ‘pitching’ their voices
 immediately begin _too-too_ing most dismally, on which the regular old
-stagers burst into occasional cries of—‘Sh—Sh—waiters!—Silence,
+stagers burst into occasional cries of—‘Sh—Sh—waiters!—[[Silence]],
 waiters—stand still, waiters—keep back, waiters,’ and other exorcisms,
 delivered in a tone of indignant remonstrance. The grace is soon
 concluded, and the company resume their seats. The uninitiated portion
 of the guests applaud _Non nobis_ as vehemently as if it were a capital
-comic song, greatly to the scandal and indignation of the regular
+comic [[Song|song]], greatly to the scandal and indignation of the regular
 diners, who immediately attempt to quell this sacrilegious approbation,
 by cries of ‘Hush, hush!’ whereupon the others, mistaking these sounds
 for hisses, applaud more tumultuously than before, and, by way of
-placing their approval beyond the possibility of doubt, shout
+placing their approval beyond the possibility of [[Doubt|doubt]], shout
 ‘_Encore_!’ most vociferously.
 
 The moment the noise ceases, up starts the toast-master:—‘Gentlemen,
 charge your glasses, if you please!’ Decanters having been handed
 about, and glasses filled, the toast-master proceeds, in a regular
 ascending
-scale:—‘Gentlemen—_air_—you—all charged? Pray—silence—gentlemen—for—the
+scale:—‘Gentlemen—_air_—you—all charged? Pray—[[Silence|silence]]—gentlemen—for—the
 cha-i-r!’ The chairman rises, and, after stating that he feels it quite
 unnecessary to preface the toast he is about to propose, with any
 observations whatever, wanders into a maze of sentences, and flounders
@@ -161,25 +161,25 @@ spectacle of mystified humanity, until he arrives at the words,
 ‘constitutional sovereign of these realms,’ at which elderly gentlemen
 exclaim ‘Bravo!’ and hammer the table tremendously with their
 knife-handles. ‘Under any circumstances, it would give him the greatest
-pride, it would give him the greatest pleasure—he might almost say, it
+[[Pride|pride]], it would give him the greatest pleasure—he might almost say, it
 would afford him satisfaction [cheers] to propose that toast. What must
 be his feelings, then, when he has the gratification of announcing,
 that he has received her Majesty’s commands to apply to the Treasurer
 of her Majesty’s Household, for her Majesty’s annual donation of 25_l._
-in aid of the funds of this charity!’ This announcement (which has been
+in aid of the funds of this [[Charity|charity]]!’ This announcement (which has been
 regularly made by every chairman, since the first foundation of the
-charity, forty-two years ago) calls forth the most vociferous applause;
+[[Charity|charity]], forty-two years ago) calls forth the most vociferous applause;
 the toast is drunk with a great deal of cheering and knocking; and ‘God
-save the Queen’ is sung by the ‘professional gentlemen;’ the
-unprofessional gentlemen joining in the chorus, and giving the national
+save the [[Queen]]’ is sung by the ‘professional gentlemen;’ the
+unprofessional gentlemen joining in the [[Chorus|chorus]], and giving the national
 anthem an effect which the newspapers, with great justice, describe as
 ‘perfectly electrical.’
 
 The other ‘loyal and patriotic’ toasts having been drunk with all due
-enthusiasm, a comic song having been well sung by the gentleman with
+enthusiasm, a comic [[Song|song]] having been [[Well|well]] sung by the gentleman with
 the small neckerchief, and a sentimental one by the second of the
 party, we come to the most important toast of the evening—‘Prosperity
-to the charity.’ Here again we are compelled to adopt newspaper
+to the [[Charity|charity]].’ Here again we are compelled to adopt newspaper
 phraseology, and to express our regret at being ‘precluded from giving
 even the substance of the noble lord’s observations.’ Suffice it to
 say, that the speech, which is somewhat of the longest, is rapturously
@@ -198,7 +198,7 @@ heard from all parts of the room.
 After a short interval, occupied in singing and toasting, the secretary
 puts on his spectacles, and proceeds to read the report and list of
 subscriptions, the latter being listened to with great attention. ‘Mr.
-Smith, one guinea—Mr. Tompkins, one guinea—Mr. Wilson, one guinea—Mr.
+[[smith|Smith]], one guinea—Mr. Tompkins, one guinea—Mr. Wilson, one guinea—Mr.
 Hickson, one guinea—Mr. Nixon, one guinea—Mr. Charles Nixon, one
 guinea—[hear, hear!]—Mr. James Nixon, one guinea—Mr. Thomas Nixon, one
 pound one [tremendous applause]. Lord Fitz Binkle, the chairman of the
@@ -211,11 +211,11 @@ concluded, the chairman rises, and proposes the health of the
 secretary, than whom he knows no more zealous or estimable individual.
 The secretary, in returning thanks, observes that _he_ knows no more
 excellent individual than the chairman—except the senior officer of the
-charity, whose health _he_ begs to propose. The senior officer, in
+[[Charity|charity]], whose health _he_ begs to propose. The senior officer, in
 returning thanks, observes that _he_ knows no more worthy man than the
 secretary—except Mr. Walker, the auditor, whose health _he_ begs to
 propose. Mr. Walker, in returning thanks, discovers some other
-estimable individual, to whom alone the senior officer is inferior—and
+estimable individual, to whom [[Alone|alone]] the senior officer is inferior—and
 so they go on toasting and lauding and thanking: the only other toast
 of importance being ‘The Lady Patronesses now present!’ on which all
 the gentlemen turn their faces towards the ladies’ gallery, shouting
@@ -223,8 +223,8 @@ tremendously; and little priggish men, who have imbibed more wine than
 usual, kiss their hands and exhibit distressing contortions of visage.
 
 We have protracted our dinner to so great a length, that we have hardly
-time to add one word by way of grace. We can only entreat our readers
+[[Time|time]] to add one word by way of grace. We can only entreat our readers
 not to imagine, because we have attempted to extract some amusement
-from a charity dinner, that we are at all disposed to underrate, either
-the excellence of the benevolent institutions with which London
+from a [[Charity|charity]] dinner, that we are at all disposed to underrate, either
+the excellence of the benevolent institutions with which [[London]]
 abounds, or the estimable motives of those who support them.

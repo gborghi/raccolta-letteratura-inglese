@@ -20,29 +20,29 @@ The Preparation
 
 When the mail got successfully to Dover, in the course of the forenoon,
 the head drawer at the Royal George Hotel opened the coach-door as his
-custom was. He did it with some flourish of ceremony, for a mail journey
-from London in winter was an achievement to congratulate an adventurous
+custom was. He did it with some flourish of ceremony, for a mail [[Journey|journey]]
+from [[London]] in [[Winter|winter]] was an achievement to congratulate an adventurous
 traveller upon.
 
-By that time, there was only one adventurous traveller left be
+By that [[Time|time]], there was only one adventurous traveller left be
 congratulated: for the two others had been set down at their respective
 roadside destinations. The mildewy inside of the coach, with its damp
 and dirty straw, its disagreeable smell, and its obscurity, was rather
 like a larger dog-kennel. Mr. Lorry, the passenger, shaking himself out
-of it in chains of straw, a tangle of shaggy wrapper, flapping hat, and
+of it in [[Chains|chains]] of straw, a tangle of shaggy wrapper, flapping hat, and
 muddy legs, was rather like a larger sort of dog.
 
 “There will be a packet to Calais, tomorrow, drawer?”
 
-“Yes, sir, if the weather holds and the wind sets tolerable fair. The
+“Yes, sir, if the weather holds and the [[Wind|wind]] sets tolerable fair. The
 tide will serve pretty nicely at about two in the afternoon, sir. Bed,
 sir?”
 
-“I shall not go to bed till night; but I want a bedroom, and a barber.”
+“I shall not go to bed till [[Night|night]]; but I want a bedroom, and a barber.”
 
 “And then breakfast, sir? Yes, sir. That way, sir, if you please.
-Show Concord! Gentleman’s valise and hot water to Concord. Pull off
-gentleman’s boots in Concord. (You will find a fine sea-coal fire, sir.)
+Show Concord! Gentleman’s valise and hot [[Water|water]] to Concord. Pull off
+gentleman’s boots in Concord. (You will find a fine sea-coal [[Fire|fire]], sir.)
 Fetch barber to Concord. Stir about there, now, for Concord!”
 
 The Concord bed-chamber being always assigned to a passenger by the
@@ -51,21 +51,21 @@ head to foot, the room had the odd interest for the establishment of the
 Royal George, that although but one kind of man was seen to go into it,
 all kinds and varieties of men came out of it. Consequently, another
 drawer, and two porters, and several maids and the landlady, were all
-loitering by accident at various points of the road between the Concord
+loitering by accident at various points of the [[Road|road]] between the Concord
 and the coffee-room, when a gentleman of sixty, formally dressed in a
-brown suit of clothes, pretty well worn, but very well kept, with large
+brown suit of clothes, pretty [[Well|well]] worn, but very [[Well|well]] kept, with large
 square cuffs and large flaps to the pockets, passed along on his way to
 his breakfast.
 
 The coffee-room had no other occupant, that forenoon, than the gentleman
-in brown. His breakfast-table was drawn before the fire, and as he sat,
+in brown. His breakfast-table was drawn before the [[Fire|fire]], and as he sat,
 with its light shining on him, waiting for the meal, he sat so still,
 that he might have been sitting for his portrait.
 
 Very orderly and methodical he looked, with a hand on each knee, and a
 loud watch ticking a sonorous sermon under his flapped waist-coat,
 as though it pitted its gravity and longevity against the levity and
-evanescence of the brisk fire. He had a good leg, and was a little vain
+evanescence of the brisk [[Fire|fire]]. He had a good leg, and was a little vain
 of it, for his brown stockings fitted sleek and close, and were of a
 fine texture; his shoes and buckles, too, though plain, were trim. He
 wore an odd little sleek crisp flaxen wig, setting very close to his
@@ -84,22 +84,22 @@ principally occupied with the cares of other people; and perhaps
 second-hand cares, like second-hand clothes, come easily off and on.
 
 Completing his resemblance to a man who was sitting for his portrait,
-Mr. Lorry dropped off to sleep. The arrival of his breakfast roused him,
+Mr. Lorry dropped off to [[Sleep|sleep]]. The arrival of his breakfast roused him,
 and he said to the drawer, as he moved his chair to it:
 
 “I wish accommodation prepared for a young lady who may come here at any
-time to-day. She may ask for Mr. Jarvis Lorry, or she may only ask for a
+[[Time|time]] to-day. She may ask for Mr. [[Jarvis Lorry]], or she may only ask for a
 gentleman from Tellson’s Bank. Please to let me know.”
 
-“Yes, sir. Tellson’s Bank in London, sir?”
+“Yes, sir. Tellson’s Bank in [[London]], sir?”
 
 “Yes.”
 
-“Yes, sir. We have oftentimes the honour to entertain your gentlemen in
-their travelling backwards and forwards betwixt London and Paris, sir. A
-vast deal of travelling, sir, in Tellson and Company’s House.”
+“Yes, sir. We have oftentimes the [[Honour|honour]] to entertain your gentlemen in
+their travelling backwards and forwards betwixt [[London]] and [[Paris]], sir. A
+vast deal of travelling, sir, in Tellson and Company’s [[house|House]].”
 
-“Yes. We are quite a French House, as well as an English one.”
+“Yes. We are quite a French [[house|House]], as [[Well|well]] as an English one.”
 
 “Yes, sir. Not much in the habit of such travelling yourself, I think,
 sir?”
@@ -107,17 +107,17 @@ sir?”
 “Not of late years. It is fifteen years since we--since I--came last
 from France.”
 
-“Indeed, sir? That was before my time here, sir. Before our people’s
-time here, sir. The George was in other hands at that time, sir.”
+“Indeed, sir? That was before my [[Time|time]] here, sir. Before our people’s
+[[Time|time]] here, sir. The George was in other hands at that [[Time|time]], sir.”
 
 “I believe so.”
 
-“But I would hold a pretty wager, sir, that a House like Tellson and
+“But I would hold a pretty wager, sir, that a [[house|House]] like Tellson and
 Company was flourishing, a matter of fifty, not to speak of fifteen
 years ago?”
 
 “You might treble that, and say a hundred and fifty, yet not be far from
-the truth.”
+the [[Truth|truth]].”
 
 “Indeed, sir!”
 
@@ -129,15 +129,15 @@ immemorial usage of waiters in all ages.
 
 When Mr. Lorry had finished his breakfast, he went out for a stroll on
 the beach. The little narrow, crooked town of Dover hid itself away
-from the beach, and ran its head into the chalk cliffs, like a marine
-ostrich. The beach was a desert of heaps of sea and stones tumbling
+from the beach, and ran its head into the [[chalk]] cliffs, like a marine
+ostrich. The beach was a [[Desert|desert]] of heaps of sea and stones tumbling
 wildly about, and the sea did what it liked, and what it liked was
 destruction. It thundered at the town, and thundered at the cliffs, and
 brought the coast down, madly. The air among the houses was of so strong
 a piscatory flavour that one might have supposed sick fish went up to be
 dipped in it, as sick people went down to be dipped in the sea. A little
 fishing was done in the port, and a quantity of strolling about by
-night, and looking seaward: particularly at those times when the tide
+[[Night|night]], and looking seaward: particularly at those times when the tide
 made, and was near flood. Small tradesmen, who did no business whatever,
 sometimes unaccountably realised large fortunes, and it was remarkable
 that nobody in the neighbourhood could endure a lamplighter.
@@ -145,13 +145,13 @@ that nobody in the neighbourhood could endure a lamplighter.
 As the day declined into the afternoon, and the air, which had been
 at intervals clear enough to allow the French coast to be seen, became
 again charged with mist and vapour, Mr. Lorry’s thoughts seemed to cloud
-too. When it was dark, and he sat before the coffee-room fire, awaiting
+too. When it was dark, and he sat before the coffee-room [[Fire|fire]], awaiting
 his dinner as he had awaited his breakfast, his mind was busily digging,
 digging, digging, in the live red coals.
 
 A bottle of good claret after dinner does a digger in the red coals no
 harm, otherwise than as it has a tendency to throw him out of work.
-Mr. Lorry had been idle a long time, and had just poured out his last
+Mr. Lorry had been idle a long [[Time|time]], and had just poured out his last
 glassful of wine with as complete an appearance of satisfaction as is
 ever to be found in an elderly gentleman of a fresh complexion who has
 got to the end of a bottle, when a rattling of wheels came up the narrow
@@ -160,12 +160,12 @@ street, and rumbled into the inn-yard.
 He set down his glass untouched. “This is Mam’selle!” said he.
 
 In a very few minutes the waiter came in to announce that Miss Manette
-had arrived from London, and would be happy to see the gentleman from
+had arrived from [[London]], and would be happy to see the gentleman from
 Tellson’s.
 
 “So soon?”
 
-Miss Manette had taken some refreshment on the road, and required none
+Miss Manette had taken some refreshment on the [[Road|road]], and required none
 then, and was extremely anxious to see the gentleman from Tellson’s
 immediately, if it suited his pleasure and convenience.
 
@@ -180,20 +180,20 @@ graves of black mahogany, and no light to speak of could be expected
 from them until they were dug out.
 
 The obscurity was so difficult to penetrate that Mr. Lorry, picking his
-way over the well-worn Turkey carpet, supposed Miss Manette to be, for
+way over the [[Well|well]]-worn Turkey carpet, supposed Miss Manette to be, for
 the moment, in some adjacent room, until, having got past the two tall
 candles, he saw standing to receive him by the table between them and
-the fire, a young lady of not more than seventeen, in a riding-cloak,
+the [[Fire|fire]], a young lady of not more than seventeen, in a riding-cloak,
 and still holding her straw travelling-hat by its ribbon in her hand. As
 his eyes rested on a short, slight, pretty figure, a quantity of golden
 hair, a pair of blue eyes that met his own with an inquiring look, and
 a forehead with a singular capacity (remembering how young and smooth
 it was), of rifting and knitting itself into an expression that was
-not quite one of perplexity, or wonder, or alarm, or merely of a bright
+not quite one of perplexity, or [[Wonder|wonder]], or alarm, or merely of a bright
 fixed attention, though it included all the four expressions--as his
 eyes rested on these things, a sudden vivid likeness passed before him,
-of a child whom he had held in his arms on the passage across that very
-Channel, one cold time, when the hail drifted heavily and the sea ran
+of a [[Child|child]] whom he had held in his arms on the passage across that very
+Channel, one cold [[Time|time]], when the hail drifted heavily and the sea ran
 high. The likeness passed away, like a breath along the surface of
 the gaunt pier-glass behind her, on the frame of which, a hospital
 procession of negro cupids, several headless and all cripples, were
@@ -218,8 +218,8 @@ Mr. Lorry moved in his chair, and cast a troubled look towards the
 hospital procession of negro cupids. As if _they_ had any help for
 anybody in their absurd baskets!
 
-“--rendered it necessary that I should go to Paris, there to communicate
-with a gentleman of the Bank, so good as to be despatched to Paris for
+“--rendered it necessary that I should go to [[Paris]], there to communicate
+with a gentleman of the Bank, so good as to be despatched to [[Paris]] for
 the purpose.”
 
 “Myself.”
@@ -227,15 +227,15 @@ the purpose.”
 “As I was prepared to hear, sir.”
 
 She curtseyed to him (young ladies made curtseys in those days), with a
-pretty desire to convey to him that she felt how much older and wiser he
+pretty [[Desire|desire]] to convey to him that she felt how much older and wiser he
 was than she. He made her another bow.
 
 “I replied to the Bank, sir, that as it was considered necessary, by
 those who know, and who are so kind as to advise me, that I should go to
-France, and that as I am an orphan and have no friend who could go with
+France, and that as I am an [[Orphan|orphan]] and have no friend who could go with
 me, I should esteem it highly if I might be permitted to place myself,
-during the journey, under that worthy gentleman’s protection. The
-gentleman had left London, but I think a messenger was sent after him to
+during the [[Journey|journey]], under that worthy gentleman’s protection. The
+gentleman had left [[London]], but I think a messenger was sent after him to
 beg the favour of his waiting for me here.”
 
 “I was happy,” said Mr. Lorry, “to be entrusted with the charge. I shall
@@ -244,7 +244,7 @@ be more happy to execute it.”
 “Sir, I thank you indeed. I thank you very gratefully. It was told me
 by the Bank that the gentleman would explain to me the details of the
 business, and that I must prepare myself to find them of a surprising
-nature. I have done my best to prepare myself, and I naturally have a
+[[Nature|nature]]. I have done my best to prepare myself, and I naturally have a
 strong and eager interest to know what they are.”
 
 “Naturally,” said Mr. Lorry. “Yes--I--”
@@ -256,7 +256,7 @@ He did not begin, but, in his indecision, met her glance. The young
 forehead lifted itself into that singular expression--but it was pretty
 and characteristic, besides being singular--and she raised her hand,
 as if with an involuntary action she caught at, or stayed some passing
-shadow.
+[[Shadow|shadow]].
 
 “Are you quite a stranger to me, sir?”
 
@@ -276,7 +276,7 @@ as a young English lady, Miss Manette?”
 
 “Miss Manette, I am a man of business. I have a business charge to
 acquit myself of. In your reception of it, don’t heed me any more than
-if I was a speaking machine--truly, I am not much else. I will, with
+if I was a speaking [[Machine|machine]]--truly, I am not much else. I will, with
 your leave, relate to you, miss, the story of one of our customers.”
 
 “Story!”
@@ -290,26 +290,26 @@ gentleman; a man of great acquirements--a Doctor.”
 
 “Why, yes, of Beauvais. Like Monsieur Manette, your father, the
 gentleman was of Beauvais. Like Monsieur Manette, your father, the
-gentleman was of repute in Paris. I had the honour of knowing him there.
+gentleman was of repute in [[Paris]]. I had the [[Honour|honour]] of knowing him there.
 Our relations were business relations, but confidential. I was at that
-time in our French House, and had been--oh! twenty years.”
+[[Time|time]] in our French [[house|House]], and had been--oh! twenty years.”
 
-“At that time--I may ask, at what time, sir?”
+“At that [[Time|time]]--I may ask, at what [[Time|time]], sir?”
 
 “I speak, miss, of twenty years ago. He married--an English lady--and
 I was one of the trustees. His affairs, like the affairs of many other
 French gentlemen and French families, were entirely in Tellson’s hands.
 In a similar way I am, or I have been, trustee of one kind or other for
 scores of our customers. These are mere business relations, miss;
-there is no friendship in them, no particular interest, nothing like
+there is no [[Friendship|friendship]] in them, no particular interest, nothing like
 sentiment. I have passed from one to another, in the course of my
 business life, just as I pass from one of our customers to another in
 the course of my business day; in short, I have no feelings; I am a mere
-machine. To go on--”
+[[Machine|machine]]. To go on--”
 
 “But this is my father’s story, sir; and I begin to think”--the
 curiously roughened forehead was very intent upon him--“that when I was
-left an orphan through my mother’s surviving my father only two years,
+left an [[Orphan|orphan]] through my mother’s surviving my father only two years,
 it was you who brought me to England. I am almost sure it was you.”
 
 Mr. Lorry took the hesitating little hand that confidingly advanced
@@ -323,8 +323,8 @@ down into her face while she sat looking up into his.
 just now, in saying I had no feelings, and that all the relations I hold
 with my fellow-creatures are mere business relations, when you reflect
 that I have never seen you since. No; you have been the ward of
-Tellson’s House since, and I have been busy with the other business of
-Tellson’s House since. Feelings! I have no time for them, no chance
+Tellson’s [[house|House]] since, and I have been busy with the other business of
+Tellson’s [[house|House]] since. Feelings! I have no [[Time|time]] for them, no chance
 of them. I pass my whole life, miss, in turning an immense pecuniary
 Mangle.”
 
@@ -350,13 +350,13 @@ Her look so discomposed him that he stopped, wandered, and began anew:
 and silently disappeared; if he had been spirited away; if it had not
 been difficult to guess to what dreadful place, though no art could
 trace him; if he had an enemy in some compatriot who could exercise a
-privilege that I in my own time have known the boldest people afraid
-to speak of in a whisper, across the water there; for instance, the
+privilege that I in my own [[Time|time]] have known the boldest people afraid
+to speak of in a whisper, across the [[Water|water]] there; for instance, the
 privilege of filling up blank forms for the consignment of any one
-to the oblivion of a prison for any length of time; if his wife had
-implored the king, the queen, the court, the clergy, for any tidings of
-him, and all quite in vain;--then the history of your father would have
-been the history of this unfortunate gentleman, the Doctor of Beauvais.”
+to the oblivion of a [[Prison|prison]] for any length of [[Time|time]]; if his wife had
+implored the [[King|king]], the [[Queen|queen]], the [[Court|court]], the clergy, for any tidings of
+him, and all quite in vain;--then the [[history]] of your father would have
+been the [[history]] of this unfortunate gentleman, the Doctor of Beauvais.”
 
 “I entreat you to tell me more, sir.”
 
@@ -368,20 +368,20 @@ moment.”
 “You speak collectedly, and you--_are_ collected. That’s good!” (Though
 his manner was less satisfied than his words.) “A matter of business.
 Regard it as a matter of business--business that must be done. Now
-if this doctor’s wife, though a lady of great courage and spirit,
-had suffered so intensely from this cause before her little child was
+if this doctor’s wife, though a lady of great [[Courage|courage]] and spirit,
+had suffered so intensely from this cause before her little [[Child|child]] was
 born--”
 
-“The little child was a daughter, sir.”
+“The little [[Child|child]] was a daughter, sir.”
 
 “A daughter. A-a-matter of business--don’t be distressed. Miss, if the
-poor lady had suffered so intensely before her little child was born,
-that she came to the determination of sparing the poor child the
+poor lady had suffered so intensely before her little [[Child|child]] was born,
+that she came to the determination of sparing the poor [[Child|child]] the
 inheritance of any part of the agony she had known the pains of, by
 rearing her in the belief that her father was dead--No, don’t kneel! In
 Heaven’s name why should you kneel to me!”
 
-“For the truth. O dear, good, compassionate sir, for the truth!”
+“For the [[Truth|truth]]. O dear, good, compassionate sir, for the [[Truth|truth]]!”
 
 “A--a matter of business. You confuse me, and how can I transact
 business if I am confused? Let us be clear-headed. If you could kindly
@@ -392,15 +392,15 @@ much more at my ease about your state of mind.”
 Without directly answering to this appeal, she sat so still when he had
 very gently raised her, and the hands that had not ceased to clasp
 his wrists were so much more steady than they had been, that she
-communicated some reassurance to Mr. Jarvis Lorry.
+communicated some reassurance to Mr. [[Jarvis Lorry]].
 
-“That’s right, that’s right. Courage! Business! You have business before
+“That’s right, that’s right. [[Courage]]! Business! You have business before
 you; useful business. Miss Manette, your mother took this course with
 you. And when she died--I believe broken-hearted--having never slackened
 her unavailing search for your father, she left you, at two years old,
 to grow to be blooming, beautiful, and happy, without the dark cloud
 upon you of living in uncertainty whether your father soon wore his
-heart out in prison, or wasted there through many lingering years.”
+heart out in [[Prison|prison]], or wasted there through many lingering years.”
 
 As he said the words he looked down, with an admiring pity, on the
 flowing golden hair; as if he pictured to himself that it might have
@@ -412,26 +412,26 @@ discovery, of money, or of any other property; but--”
 
 He felt his wrist held closer, and he stopped. The expression in the
 forehead, which had so particularly attracted his notice, and which was
-now immovable, had deepened into one of pain and horror.
+now immovable, had deepened into one of [[Pain|pain]] and horror.
 
 “But he has been--been found. He is alive. Greatly changed, it is too
-probable; almost a wreck, it is possible; though we will hope the best.
-Still, alive. Your father has been taken to the house of an old servant
-in Paris, and we are going there: I, to identify him if I can: you, to
-restore him to life, love, duty, rest, comfort.”
+probable; almost a wreck, it is possible; though we will [[Hope|hope]] the best.
+Still, alive. Your father has been taken to the [[house]] of an old servant
+in [[Paris]], and we are going there: I, to identify him if I can: you, to
+restore him to life, [[Love|love]], duty, rest, comfort.”
 
 A shiver ran through her frame, and from it through his. She said, in a
-low, distinct, awe-stricken voice, as if she were saying it in a dream,
+low, distinct, awe-stricken voice, as if she were saying it in [[A Dream|a dream]],
 
-“I am going to see his Ghost! It will be his Ghost--not him!”
+“I am going to see his [[Ghost]]! It will be his [[Ghost]]--not him!”
 
 Mr. Lorry quietly chafed the hands that held his arm. “There, there,
 there! See now, see now! The best and the worst are known to you, now.
-You are well on your way to the poor wronged gentleman, and, with a fair
-sea voyage, and a fair land journey, you will be soon at his dear side.”
+You are [[Well|well]] on your way to the poor wronged gentleman, and, with a fair
+sea voyage, and a fair land [[Journey|journey]], you will be soon at his dear side.”
 
 She repeated in the same tone, sunk to a whisper, “I have been free, I
-have been happy, yet his Ghost has never haunted me!”
+have been happy, yet his [[Ghost]] has never haunted me!”
 
 “Only one thing more,” said Mr. Lorry, laying stress upon it as a
 wholesome means of enforcing her attention: “he has been found under
@@ -460,7 +460,7 @@ A wild-looking woman, whom even in his agitation, Mr. Lorry observed to
 be all of a red colour, and to have red hair, and to be dressed in some
 extraordinary tight-fitting fashion, and to have on her head a most
 wonderful bonnet like a Grenadier wooden measure, and good measure too,
-or a great Stilton cheese, came running into the room in advance of the
+or a great Stilton [[cheese]], came running into the room in advance of the
 inn servants, and soon settled the question of his detachment from the
 poor young lady, by laying a brawny hand upon his chest, and sending him
 flying back against the nearest wall.
@@ -472,36 +472,36 @@ reflection, simultaneously with his coming against the wall.)
 “Why don’t you go and fetch things, instead of standing there staring
 at me? I am not so much to look at, am I? Why don’t you go and fetch
 things? I’ll let you know, if you don’t bring smelling-salts, cold
-water, and vinegar, quick, I will.”
+[[Water|water]], and vinegar, quick, I will.”
 
 There was an immediate dispersal for these restoratives, and she
 softly laid the patient on a sofa, and tended her with great skill and
 gentleness: calling her “my precious!” and “my bird!” and spreading her
-golden hair aside over her shoulders with great pride and care.
+golden hair aside over her shoulders with great [[Pride|pride]] and care.
 
 “And you in brown!” she said, indignantly turning to Mr. Lorry;
 “couldn’t you tell her what you had to tell her, without frightening her
-to death? Look at her, with her pretty pale face and her cold hands. Do
+to [[Death|death]]? Look at her, with her pretty pale face and her cold hands. Do
 you call _that_ being a Banker?”
 
 Mr. Lorry was so exceedingly disconcerted by a question so hard to
 answer, that he could only look on, at a distance, with much feebler
-sympathy and humility, while the strong woman, having banished the inn
+sympathy and [[Humility|humility]], while the strong woman, having banished the inn
 servants under the mysterious penalty of “letting them know” something
 not mentioned if they stayed there, staring, recovered her charge by a
 regular series of gradations, and coaxed her to lay her drooping head
 upon her shoulder.
 
-“I hope she will do well now,” said Mr. Lorry.
+“I [[Hope|hope]] she will do [[Well|well]] now,” said Mr. Lorry.
 
 “No thanks to you in brown, if she does. My darling pretty!”
 
-“I hope,” said Mr. Lorry, after another pause of feeble sympathy and
-humility, “that you accompany Miss Manette to France?”
+“I [[Hope|hope]],” said Mr. Lorry, after another pause of feeble sympathy and
+[[Humility|humility]], “that you accompany Miss Manette to France?”
 
 “A likely thing, too!” replied the strong woman. “If it was ever
-intended that I should go across salt water, do you suppose Providence
+intended that I should go across salt [[Water|water]], do you suppose [[Providence]]
 would have cast my lot in an island?”
 
-This being another question hard to answer, Mr. Jarvis Lorry withdrew to
+This being another question hard to answer, Mr. [[Jarvis Lorry]] withdrew to
 consider it.

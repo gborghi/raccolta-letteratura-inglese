@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 10)"
+title: "[[The Gold-Bug]] (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       before seizing the insect, which had flown towards him, looked
 
-      about him for a leaf, or something of that nature, by which to
+      about him for a leaf, or something of that [[Nature|nature]], by which to
 
       take hold of it. It was at this moment that his eyes, and mine
 
@@ -26,7 +26,7 @@ tags:
 
       up. Near the spot where we found it, I observed the remnants of
 
-      the hull of what appeared to have been a ship’s long boat. The
+      the hull of what appeared to have been a [[Ship|ship]]’s long boat. The
 
       wreck seemed to have been there for a very great while; for the
 
@@ -34,9 +34,9 @@ tags:
 
 
 
-      “Well, Jupiter picked up the parchment, wrapped the beetle in it,
+      “[[Well]], Jupiter picked up the parchment, wrapped the beetle in it,
 
-      and gave it to me. Soon afterwards we turned to go home, and on
+      and gave it to me. Soon afterwards we turned to go [[Home|home]], and on
 
       the way met Lieutenant G——. I showed him the insect, and he
 
@@ -52,7 +52,7 @@ tags:
 
       at once—you know how enthusiastic he is on all subjects connected
 
-      with Natural History. At the same time, without being conscious
+      with Natural [[history|History]]. At the same [[Time|time]], without being conscious
 
       of it, I must have deposited the parchment in my own pocket.
 
@@ -60,7 +60,7 @@ tags:
 
       “You remember that when I went to the table, for the purpose of
 
-      making a sketch of the beetle, I found no paper where it was
+      making a [[Sketch|sketch]] of the beetle, I found no paper where it was
 
       usually kept. I looked in the drawer, and found none there. I
 
@@ -74,7 +74,7 @@ tags:
 
 
 
-      “No doubt you will think me fanciful—but I had already
+      “No [[Doubt|doubt]] you will think me fanciful—but I had already
 
       established a kind of connexion. I had put together two links of
 
@@ -84,9 +84,9 @@ tags:
 
       depicted upon it. You will, of course, ask ‘where is the
 
-      connexion?’ I reply that the skull, or death’s-head, is the
+      connexion?’ I reply that the skull, or [[Death|death]]’s-head, is the
 
-      well-known emblem of the pirate. The flag of the death’s head is
+      [[Well|well]]-known emblem of the pirate. The [[Flag|flag]] of the [[Death|death]]’s head is
 
       hoisted in all engagements.
 
@@ -98,11 +98,11 @@ tags:
 
       moment are rarely consigned to parchment; since, for the mere
 
-      ordinary purposes of drawing or writing, it is not nearly so well
+      ordinary purposes of drawing or writing, it is not nearly so [[Well|well]]
 
       adapted as paper. This reflection suggested some meaning—some
 
-      relevancy—in the death’s-head. I did not fail to observe, also,
+      relevancy—in the [[Death|death]]’s-head. I did not fail to observe, also,
 
       the form of the parchment. Although one of its corners had been,
 
@@ -156,7 +156,7 @@ tags:
 
       occurred about the period in question. The weather was chilly (oh
 
-      rare and happy accident!), and a fire was blazing upon the
+      rare and happy accident!), and a [[Fire|fire]] was blazing upon the
 
       hearth. I was heated with exercise and sat near the table. You,
 
@@ -172,7 +172,7 @@ tags:
 
       fall listlessly between your knees, and in close proximity to the
 
-      fire. At one moment I thought the blaze had caught it, and was
+      [[Fire|fire]]. At one moment I thought the blaze had caught it, and was
 
       about to caution you, but, before I could speak, you had
 
@@ -182,17 +182,17 @@ tags:
 
       heat had been the agent in bringing to light, upon the parchment,
 
-      the skull which I saw designed upon it. You are well aware that
+      the skull which I saw designed upon it. You are [[Well|well]] aware that
 
-      chemical preparations exist, and have existed time out of mind,
+      chemical preparations exist, and have existed [[Time|time]] out of mind,
 
       by means of which it is possible to write upon either paper or
 
       vellum, so that the characters shall become visible only when
 
-      subjected to the action of fire. Zaffre, digested in aqua regia,
+      subjected to the action of [[Fire|fire]]. Zaffre, digested in aqua regia,
 
-      and diluted with four times its weight of water, is sometimes
+      and diluted with four times its weight of [[Water|water]], is sometimes
 
       employed; a green tint results. The regulus of cobalt, dissolved
 
@@ -204,6 +204,6 @@ tags:
 
 
 
-      “I now scrutinized the death’s-head with care. Its outer
+      “I now scrutinized the [[Death|death]]’s-head with care. Its outer
 
       edges—the edges of the drawing nearest the edge of the

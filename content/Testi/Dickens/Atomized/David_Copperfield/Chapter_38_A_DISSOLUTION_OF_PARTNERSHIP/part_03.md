@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 3)"
+title: "[[David Copperfield]] — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -23,23 +23,23 @@ blame is mine. Dora--’
 designation, ‘to consent to this concealment, and I bitterly regret it.’
 
 ‘You are very much to blame, sir,’ said Mr. Spenlow, walking to and fro
-upon the hearth-rug, and emphasizing what he said with his whole body
+upon the hearth-rug, and emphasizing what he said with his whole [[Body|body]]
 instead of his head, on account of the stiffness of his cravat and
 spine. ‘You have done a stealthy and unbecoming action, Mr. Copperfield.
-When I take a gentleman to my house, no matter whether he is nineteen,
+When I take a gentleman to my [[house]], no matter whether he is nineteen,
 twenty-nine, or ninety, I take him there in a spirit of confidence.
 If he abuses my confidence, he commits a dishonourable action, Mr.
 Copperfield.’
 
 ‘I feel it, sir, I assure you,’ I returned. ‘But I never thought so,
 before. Sincerely, honestly, indeed, Mr. Spenlow, I never thought so,
-before. I love Miss Spenlow to that extent--’
+before. I [[Love|love]] Miss Spenlow to that extent--’
 
 ‘Pooh! nonsense!’ said Mr. Spenlow, reddening. ‘Pray don’t tell me to my
-face that you love my daughter, Mr. Copperfield!’
+face that you [[Love|love]] my daughter, Mr. Copperfield!’
 
 ‘Could I defend my conduct if I did not, sir?’ I returned, with all
-humility.
+[[Humility|humility]].
 
 ‘Can you defend your conduct if you do, sir?’ said Mr. Spenlow, stopping
 short upon the hearth-rug. ‘Have you considered your years, and my
@@ -57,7 +57,7 @@ already engaged--’
 
 ‘I BEG,’ said Mr. Spenlow, more like Punch than I had ever seen him,
 as he energetically struck one hand upon the other--I could not help
-noticing that even in my despair; ‘that YOU Will NOT talk to me of
+noticing that even in my [[Despair|despair]]; ‘that YOU Will NOT talk to me of
 engagements, Mr. Copperfield!’
 
 The otherwise immovable Miss Murdstone laughed contemptuously in one
@@ -68,26 +68,26 @@ substituting a new form of expression for what was so unpalatable to
 him, ‘this concealment, into which I am so unhappy as to have led Miss
 Spenlow, had begun. Since I have been in that altered position, I have
 strained every nerve, I have exerted every energy, to improve it. I am
-sure I shall improve it in time. Will you grant me time--any length of
-time? We are both so young, sir,--’
+sure I shall improve it in [[Time|time]]. Will you grant me [[Time|time]]--any length of
+[[Time|time]]? We are both so young, sir,--’
 
 ‘You are right,’ interrupted Mr. Spenlow, nodding his head a great
 many times, and frowning very much, ‘you are both very young. It’s all
 nonsense. Let there be an end of the nonsense. Take away those letters,
-and throw them in the fire. Give me Miss Spenlow’s letters to throw in
-the fire; and although our future intercourse must, you are aware, be
+and throw them in the [[Fire|fire]]. Give me Miss Spenlow’s letters to throw in
+the [[Fire|fire]]; and although our future intercourse must, you are aware, be
 restricted to the Commons here, we will agree to make no further mention
 of the past. Come, Mr. Copperfield, you don’t want sense; and this is
 the sensible course.’
 
 No. I couldn’t think of agreeing to it. I was very sorry, but there
-was a higher consideration than sense. Love was above all earthly
+was a higher consideration than sense. [[Love]] was above all earthly
 considerations, and I loved Dora to idolatry, and Dora loved me. I
 didn’t exactly say so; I softened it down as much as I could; but I
 implied it, and I was resolute upon it. I don’t think I made myself very
 ridiculous, but I know I was resolute.
 
-‘Very well, Mr. Copperfield,’ said Mr. Spenlow, ‘I must try my influence
+‘Very [[Well|well]], Mr. Copperfield,’ said Mr. Spenlow, ‘I must try my influence
 with my daughter.’
 
 Miss Murdstone, by an expressive sound, a long drawn respiration, which
@@ -105,9 +105,9 @@ possibly take them from Miss Murdstone.
 
 No, I replied with the profoundest respect; nor from him.
 
-‘Very well!’ said Mr. Spenlow.
+‘Very [[Well|well]]!’ said Mr. Spenlow.
 
-A silence succeeding, I was undecided whether to go or stay. At length
+A [[Silence|silence]] succeeding, I was undecided whether to go or stay. At length
 I was moving quietly towards the door, with the intention of saying that
 perhaps I should consult his feelings best by withdrawing: when he said,
 with his hands in his coat pockets, into which it was as much as he
@@ -119,14 +119,14 @@ destitute of worldly possessions, and that my daughter is my nearest and
 dearest relative?’
 
 I hurriedly made him a reply to the effect, that I hoped the error into
-which I had been betrayed by the desperate nature of my love, did not
+which I had been betrayed by the desperate [[Nature|nature]] of my [[Love|love]], did not
 induce him to think me mercenary too?
 
 ‘I don’t allude to the matter in that light,’ said Mr. Spenlow. ‘It
 would be better for yourself, and all of us, if you WERE mercenary, Mr.
 Copperfield--I mean, if you were more discreet and less influenced by
 all this youthful nonsense. No. I merely say, with quite another view,
-you are probably aware I have some property to bequeath to my child?’
+you are probably aware I have some property to bequeath to my [[Child|child]]?’
 
 I certainly supposed so.
 
@@ -141,14 +141,14 @@ I inclined my head in acquiescence.
 
 ‘I should not allow,’ said Mr. Spenlow, with an evident increase of
 pious sentiment, and slowly shaking his head as he poised himself upon
-his toes and heels alternately, ‘my suitable provision for my child to
+his toes and heels alternately, ‘my suitable provision for my [[Child|child]] to
 be influenced by a piece of youthful folly like the present. It is mere
 folly. Mere nonsense. In a little while, it will weigh lighter than
 any feather. But I might--I might--if this silly business were not
 completely relinquished altogether, be induced in some anxious moment
 to guard her from, and surround her with protections against, the
-consequences of any foolish step in the way of marriage. Now, Mr.
-Copperfield, I hope that you will not render it necessary for me to
+consequences of any foolish step in the way of [[Marriage|marriage]]. Now, Mr.
+Copperfield, I [[Hope|hope]] that you will not render it necessary for me to
 open, even for a quarter of an hour, that closed page in the book of
-life, and unsettle, even for a quarter of an hour, grave affairs long
+life, and unsettle, even for a quarter of an hour, [[Grave|grave]] affairs long
 since composed.’

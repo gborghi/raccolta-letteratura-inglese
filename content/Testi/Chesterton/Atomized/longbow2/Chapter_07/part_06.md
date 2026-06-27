@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 7 (part 6)"
+title: "[[longbow2]] — Chapter 7 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -25,7 +25,7 @@ of your scientific conversation goes a long way with me; I know
 what you're like when you're really chatty.  Professor Green will say
 in his satirical way `9920.05,' to which you will reply with quiet
 humour `75.007.' This will be too good an opening for a witty
-fellow like the Professor, who will instantly retort `982.09.' Not
+fellow like [[The Professor|the Professor]], who will instantly retort `982.09.' Not
 in the best taste perhaps, but a great temptation in the heat of debate."
 
 "Commander Blair," said the Professor, "is very kind to let me
@@ -156,7 +156,7 @@ It wasn't a pose with her, it was a poem; there are people like that,
 but very few of them like her.  I tried to keep up my end by telling
 her about the wonders of science, and the great new architecture
 of the air.  And then Sheila used to say, `And what is the good
-of them to me, when you HAVE built them.  I can see a castle
+of them to me, when you HAVE built them.  I can see a [[Castle|castle]]
 build itself without hands out of gigantic rocks of clear jewels
-in the sky every night.'  And she would point to where crimson
+in the sky every [[Night|night]].'  And she would point to where crimson
 or violet clouds hung in the green after-glow over the great Atlantic.

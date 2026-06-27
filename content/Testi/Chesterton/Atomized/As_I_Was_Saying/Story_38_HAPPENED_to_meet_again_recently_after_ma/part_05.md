@@ -19,16 +19,16 @@ dangerous than a more violent prejudice.  It is not the old problem
 of softening almost savage prejudices in the provinces of Europe;
 it is not that Englishmen have any particular tendency to hate
 Frenchmen or Germans; for the English have very little natural
-tendency to hate anything.  It may well be said that there are
+tendency to hate anything.  It may [[Well|well]] be said that there are
 many things, such as some of their own abuses and falsifications,
-which they do not hate enough.  The nature of the error lies in this:
+which they do not hate enough.  The [[Nature|nature]] of the error lies in this:
 that they never by any chance think of an English thing as a
 variation of a European thing.  Only too often they think of a
 European thing as a mere misapplication of an English thing.
 If they saw a portrait of Francis I in a wide flat cap and a
 square-cut jacket, they would not unnaturally say that Francis I
-was dressed like Henry VIII.  The trouble is that they never think,
-even experimentally or fancifully, that Henry VIII was dressed
+was dressed like [[Henry VIII]].  The trouble is that they never think,
+even experimentally or fancifully, that [[Henry VIII]] was dressed
 like Francis I. There would always remain with them a shadowy,
 fantastic idea that Louis Napoleon had borrowed the top-hat of
 Lord Palmerston, and that it could not possibly be the other way round.
@@ -54,46 +54,46 @@ but when power was really supposed to be passing, it was actually
 treated as if it were permanent.  In the days when kings could
 really cut off anybody's head, they were incessantly informed
 by seers and sages that they themselves would soon be cut off.
-When they were real despots with the power of life and death,
-there were real prophets or satirists who told them that death
+When they were real despots with the power of life and [[Death|death]],
+there were real prophets or satirists who told them that [[Death|death]]
 would be the end of their own life.  But nobody ever said this,
 since democratic and liberal ideas were supposed to prevail in the State.
 Nobody told the really temporary ruler that he was temporary, or even
 that he was temporal.  From the beginning of historic things, and almost
 of prehistoric things, there has been this warning against worldly power.
-The Egyptian rulers feasted with the skeleton at the feast.
+The Egyptian rulers feasted with the [[skeleton]] at the feast.
 The Roman conqueror, in his triumph, had a slave towering behind
 his chariot and whispering "Remember that you are mortal."
-The mediaeval Norman king of Sicily, as described in the story,
+The mediaeval Norman [[King|king]] of Sicily, as described in the story,
 was reminded by the religious service that God had put down the mighty
 from their seat.  The later mediaeval princes were familiar with
-the habit of feasting under frescoes and mosaics of the Dance of Death,
-which showed a squalid skeleton carrying away kings in a bag.
+the habit of feasting under frescoes and mosaics of the [[Dance of Death]],
+which showed a squalid [[skeleton]] carrying away kings in a bag.
 Through the whole of the four thousand years of our recorded
-history in Europe, Pagan and Christian, has sounded that sublime
-and subversive dirge--
+[[history]] in Europe, Pagan and Christian, has sounded that [[Sublime|sublime]]
+and subversive [[Dirge|dirge]]--
 
-  The glories of our blood and state
+  The glories of our [[Blood|blood]] and state
   Are shadows, not substantial things.
 
-The very Court chaplains of the great French monarchy preached
+The very [[Court]] chaplains of the great French monarchy preached
 before the _Roi Soleil,_ telling him that even his own sun would set.
 And then, by some quite unaccountable change, there came with
-the nineteenth century the notion of men talking as if they alone
+the nineteenth century the notion of men talking as if they [[Alone|alone]]
 could live in an everlasting sunrise.
 
 Nobody ever did these things to modern politicians.  Nobody insisted
-on a skeleton sitting at Table A, on the right hand of the Lord Mayor
+on a [[skeleton]] sitting at Table A, on the right hand of the [[Lord Mayor]]
 introducing the Prime Minister.  Nobody insisted on the large
 and terrific Toast-Master, after he had, in a voice of thunder,
-craved silence for the Right Honourable the Lord Bundlebury, K.G.,
+craved [[Silence|silence]] for the Right Honourable the Lord Bundlebury, K.G.,
 K.C.M.G., leaning forward and in a low and vibrant voice hissing
 in the ear of that statesman:  "Remember that you are mortal."
 Even in the days of constitutional monarchy, pulpit orations before
-the king do not remind us so much of funeral orations over the king.
+the [[King|king]] do not remind us so much of funeral orations over the [[King|king]].
 But in the case of politicians, as distinct from kings,
-the whole tradition of this truth has totally disappeared.
-No artist covers walls and ledges with decorative designs of Death
+the whole tradition of this [[Truth|truth]] has totally disappeared.
+No [[artist]] covers walls and ledges with decorative designs of [[Death]]
 carrying away Cabinet Ministers in a bag.  No poet writes a mournful
 ode about newspaper proprietors, even when they wear coronets,
 with the ancient burden--
@@ -122,7 +122,7 @@ a thousand things from the _Magnificat_ to _Gulliver's Travels,_
 did in some strange way stop with the epoch of parliamentary rule,
 which was supposed to be popular rule.  Of all the questions asked
 by hecklers at a political meeting to support a parliamentary
-candidate, I gravely and grievously doubt whether any man ever
-rose from the back benches, a sad and saturnine figure, to say:
+candidate, I gravely and grievously [[Doubt|doubt]] whether any man ever
+[[Rose|rose]] from the back benches, a sad and saturnine figure, to say:
 "Mr. Chairman, I should like to ask our candidate whether it has
 ever occurred to him that he will one day die."

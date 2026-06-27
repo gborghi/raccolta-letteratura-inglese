@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 32"
+title: "[[Mansfield Park]] — Chapter 32"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -19,34 +19,34 @@ CHAPTER XXXII
 
 Fanny had by no means forgotten Mr. Crawford when she awoke the next
 morning; but she remembered the purport of her note, and was not less
-sanguine as to its effect than she had been the night before. If Mr.
+sanguine as to its effect than she had been the [[Night|night]] before. If Mr.
 Crawford would but go away! That was what she most earnestly desired:
 go and take his sister with him, as he was to do, and as he returned to
 Mansfield on purpose to do. And why it was not done already she could
 not devise, for Miss Crawford certainly wanted no delay. Fanny had
 hoped, in the course of his yesterday’s visit, to hear the day named;
-but he had only spoken of their journey as what would take place ere
+but he had only spoken of their [[Journey|journey]] as what would take place ere
 long.
 
 Having so satisfactorily settled the conviction her note would convey,
 she could not but be astonished to see Mr. Crawford, as she
-accidentally did, coming up to the house again, and at an hour as early
+accidentally did, coming up to the [[house]] again, and at an hour as early
 as the day before. His coming might have nothing to do with her, but
 she must avoid seeing him if possible; and being then on her way
 upstairs, she resolved there to remain, during the whole of his visit,
-unless actually sent for; and as Mrs. Norris was still in the house,
+unless actually sent for; and as Mrs. Norris was still in the [[house]],
 there seemed little danger of her being wanted.
 
-She sat some time in a good deal of agitation, listening, trembling,
+She sat some [[Time|time]] in a good deal of agitation, listening, trembling,
 and fearing to be sent for every moment; but as no footsteps approached
 the East room, she grew gradually composed, could sit down, and be able
-to employ herself, and able to hope that Mr. Crawford had come and
+to employ herself, and able to [[Hope|hope]] that Mr. Crawford had come and
 would go without her being obliged to know anything of the matter.
 
 Nearly half an hour had passed, and she was growing very comfortable,
 when suddenly the sound of a step in regular approach was heard; a
-heavy step, an unusual step in that part of the house: it was her
-uncle’s; she knew it as well as his voice; she had trembled at it as
+heavy step, an unusual step in that part of the [[house]]: it was her
+uncle’s; she knew it as [[Well|well]] as his voice; she had trembled at it as
 often, and began to tremble again, at the idea of his coming up to
 speak to her, whatever might be the subject. It was indeed Sir Thomas
 who opened the door and asked if she were there, and if he might come
@@ -57,22 +57,22 @@ French and English.
 She was all attention, however, in placing a chair for him, and trying
 to appear honoured; and, in her agitation, had quite overlooked the
 deficiencies of her apartment, till he, stopping short as he entered,
-said, with much surprise, “Why have you no fire to-day?”
+said, with much surprise, “Why have you no [[Fire|fire]] to-day?”
 
-There was snow on the ground, and she was sitting in a shawl. She
+There was [[Snow|snow]] on the ground, and she was sitting in a shawl. She
 hesitated.
 
-“I am not cold, sir: I never sit here long at this time of year.”
+“I am not cold, sir: I never sit here long at this [[Time|time]] of year.”
 
-“But you have a fire in general?”
+“But you have a [[Fire|fire]] in general?”
 
 “No, sir.”
 
 “How comes this about? Here must be some mistake. I understood that you
 had the use of this room by way of making you perfectly comfortable. In
-your bedchamber I know you _cannot_ have a fire. Here is some great
+your bedchamber I know you _cannot_ have a [[Fire|fire]]. Here is some great
 misapprehension which must be rectified. It is highly unfit for you to
-sit, be it only half an hour a day, without a fire. You are not strong.
+sit, be it only half an hour a day, without a [[Fire|fire]]. You are not strong.
 You are chilly. Your aunt cannot be aware of this.”
 
 Fanny would rather have been silent; but being obliged to speak, she
@@ -89,7 +89,7 @@ account, too, I can perfectly comprehend. I know what her sentiments
 have always been. The principle was good in itself, but it may have
 been, and I believe _has_ _been_, carried too far in your case. I am
 aware that there has been sometimes, in some points, a misplaced
-distinction; but I think too well of you, Fanny, to suppose you will
+distinction; but I think too [[Well|well]] of you, Fanny, to suppose you will
 ever harbour resentment on that account. You have an understanding
 which will prevent you from receiving things only in part, and judging
 partially by the event. You will take in the whole of the past, you
@@ -100,7 +100,7 @@ their caution may prove eventually unnecessary, it was kindly meant;
 and of this you may be assured, that every advantage of affluence will
 be doubled by the little privations and restrictions that may have been
 imposed. I am sure you will not disappoint my opinion of you, by
-failing at any time to treat your aunt Norris with the respect and
+failing at any [[Time|time]] to treat your aunt Norris with the respect and
 attention that are due to her. But enough of this. Sit down, my dear. I
 must speak to you for a few minutes, but I will not detain you long.”
 
@@ -116,10 +116,10 @@ she was embarrassed to a degree that made either speaking or looking up
 quite impossible, turned away his own eyes, and without any farther
 pause proceeded in his account of Mr. Crawford’s visit.
 
-Mr. Crawford’s business had been to declare himself the lover of Fanny,
+Mr. Crawford’s business had been to declare himself the [[Lover|lover]] of Fanny,
 make decided proposals for her, and entreat the sanction of the uncle,
 who seemed to stand in the place of her parents; and he had done it all
-so well, so openly, so liberally, so properly, that Sir Thomas,
+so [[Well|well]], so openly, so liberally, so properly, that Sir Thomas,
 feeling, moreover, his own replies, and his own remarks to have been
 very much to the purpose, was exceedingly happy to give the particulars
 of their conversation; and little aware of what was passing in his
@@ -136,7 +136,7 @@ most assured and satisfactory, I may execute the remainder by
 prevailing on you to accompany me downstairs, where, though I cannot
 but presume on having been no unacceptable companion myself, I must
 submit to your finding one still better worth listening to. Mr.
-Crawford, as you have perhaps foreseen, is yet in the house. He is in
+Crawford, as you have perhaps foreseen, is yet in the [[house]]. He is in
 my room, and hoping to see you there.”
 
 There was a look, a start, an exclamation on hearing this, which
@@ -150,7 +150,7 @@ and quite out of my power to return his good opinion.”
 “I do not catch your meaning,” said Sir Thomas, sitting down again.
 “Out of your power to return his good opinion? What is all this? I know
 he spoke to you yesterday, and (as far as I understand) received as
-much encouragement to proceed as a well-judging young woman could
+much encouragement to proceed as a [[Well|well]]-judging young woman could
 permit herself to give. I was very much pleased with what I collected
 to have been your behaviour on the occasion; it shewed a discretion
 highly to be commended. But now, when he has made his overtures so
@@ -170,7 +170,7 @@ intended. I thought it might all pass for nothing with _him_.”
 
 She could say no more; her breath was almost gone.
 
-“Am I to understand,” said Sir Thomas, after a few moments’ silence,
+“Am I to understand,” said Sir Thomas, after a few moments’ [[Silence|silence]],
 “that you mean to _refuse_ Mr. Crawford?”
 
 “Yes, sir.”
@@ -181,7 +181,7 @@ She could say no more; her breath was almost gone.
 
 “Refuse Mr. Crawford! Upon what plea? For what reason?”
 
-“I—I cannot like him, sir, well enough to marry him.”
+“I—I cannot like him, sir, [[Well|well]] enough to marry him.”
 
 “This is very strange!” said Sir Thomas, in a voice of calm
 displeasure. “There is something in this which my comprehension does
@@ -189,7 +189,7 @@ not reach. Here is a young man wishing to pay his addresses to you,
 with everything to recommend him: not merely situation in life,
 fortune, and character, but with more than common agreeableness, with
 address and conversation pleasing to everybody. And he is not an
-acquaintance of to-day; you have now known him some time. His sister,
+acquaintance of to-day; you have now known him some [[Time|time]]. His sister,
 moreover, is your intimate friend, and he has been doing _that_ for
 your brother, which I should suppose would have been almost sufficient
 recommendation to you, had there been no other. It is very uncertain
@@ -200,7 +200,7 @@ and she did feel almost ashamed of herself, after such a picture as her
 uncle had drawn, for not liking Mr. Crawford.
 
 “You must have been aware,” continued Sir Thomas presently, “you must
-have been some time aware of a particularity in Mr. Crawford’s manners
+have been some [[Time|time]] aware of a particularity in Mr. Crawford’s manners
 to you. This cannot have taken you by surprise. You must have observed
 his attentions; and though you always received them very properly (I
 have no accusation to make on that head), I never perceived them to be
@@ -216,15 +216,15 @@ scarcely any one, it is hardly possible that your affections—”
 
 He paused and eyed her fixedly. He saw her lips formed into a _no_,
 though the sound was inarticulate, but her face was like scarlet. That,
-however, in so modest a girl, might be very compatible with innocence;
+however, in so modest a girl, might be very compatible with [[innocence]];
 and chusing at least to appear satisfied, he quickly added, “No, no, I
-know _that_ is quite out of the question; quite impossible. Well, there
+know _that_ is quite out of the question; quite impossible. [[Well]], there
 is nothing more to be said.”
 
 And for a few minutes he did say nothing. He was deep in thought. His
 niece was deep in thought likewise, trying to harden and prepare
 herself against farther questioning. She would rather die than own the
-truth; and she hoped, by a little reflection, to fortify herself beyond
+[[Truth|truth]]; and she hoped, by a little reflection, to fortify herself beyond
 betraying it.
 
 “Independently of the interest which Mr. Crawford’s _choice_ seemed to
@@ -234,12 +234,12 @@ advocate for early marriages, where there are means in proportion, and
 would have every young man, with a sufficient income, settle as soon
 after four-and-twenty as he can. This is so much my opinion, that I am
 sorry to think how little likely my own eldest son, your cousin, Mr.
-Bertram, is to marry early; but at present, as far as I can judge,
+[[Bertram]], is to marry early; but at present, as far as I can judge,
 matrimony makes no part of his plans or thoughts. I wish he were more
-likely to fix.” Here was a glance at Fanny. “Edmund, I consider, from
+likely to fix.” Here was a glance at Fanny. “[[Edmund]], I consider, from
 his dispositions and habits, as much more likely to marry early than
 his brother. _He_, indeed, I have lately thought, has seen the woman he
-could love, which, I am convinced, my eldest son has not. Am I right?
+could [[Love|love]], which, I am convinced, my eldest son has not. Am I right?
 Do you agree with me, my dear?”
 
 “Yes, sir.”
@@ -250,7 +250,7 @@ service: as her unaccountableness was confirmed his displeasure
 increased; and getting up and walking about the room with a frown,
 which Fanny could picture to herself, though she dared not lift up her
 eyes, he shortly afterwards, and in a voice of authority, said, “Have
-you any reason, child, to think ill of Mr. Crawford’s temper?”
+you any reason, [[Child|child]], to think ill of Mr. Crawford’s temper?”
 
 “No, sir.”
 
@@ -258,7 +258,7 @@ She longed to add, “But of his principles I have”; but her heart sunk
 under the appalling prospect of discussion, explanation, and probably
 non-conviction. Her ill opinion of him was founded chiefly on
 observations, which, for her cousins’ sake, she could scarcely dare
-mention to their father. Maria and Julia, and especially Maria, were so
+mention to their father. [[Maria]] and [[Julia]], and especially [[Maria]], were so
 closely implicated in Mr. Crawford’s misconduct, that she could not
 give his character, such as she believed it, without betraying them.
 She had hoped that, to a man like her uncle, so discerning, so
@@ -276,7 +276,7 @@ had formed, and proved yourself of a character the very reverse of what
 I had supposed. For I _had_, Fanny, as I think my behaviour must have
 shewn, formed a very favourable opinion of you from the period of my
 return to England. I had thought you peculiarly free from wilfulness of
-temper, self-conceit, and every tendency to that independence of spirit
+temper, [[Self|self]]-conceit, and every tendency to that independence of spirit
 which prevails so much in modern days, even in young women, and which
 in young women is offensive and disgusting beyond all common offence.
 But you have now shewn me that you can be wilful and perverse; that you
@@ -290,8 +290,8 @@ might be benefited, how _they_ must rejoice in such an establishment
 for you, is nothing to _you_. You think only of yourself, and because
 you do not feel for Mr. Crawford exactly what a young heated fancy
 imagines to be necessary for happiness, you resolve to refuse him at
-once, without wishing even for a little time to consider of it, a
-little more time for cool consideration, and for really examining your
+once, without wishing even for a little [[Time|time]] to consider of it, a
+little more [[Time|time]] for cool consideration, and for really examining your
 own inclinations; and are, in a wild fit of folly, throwing away from
 you such an opportunity of being settled in life, eligibly, honourably,
 nobly settled, as will, probably, never occur to you again. Here is a
@@ -300,52 +300,52 @@ fortune, exceedingly attached to you, and seeking your hand in the most
 handsome and disinterested way; and let me tell you, Fanny, that you
 may live eighteen years longer in the world without being addressed by
 a man of half Mr. Crawford’s estate, or a tenth part of his merits.
-Gladly would I have bestowed either of my own daughters on him. Maria
-is nobly married; but had Mr. Crawford sought Julia’s hand, I should
+Gladly would I have bestowed either of my own daughters on him. [[Maria]]
+is nobly married; but had Mr. Crawford sought [[Julia]]’s hand, I should
 have given it to him with superior and more heartfelt satisfaction than
-I gave Maria’s to Mr. Rushworth.” After half a moment’s pause: “And I
+I gave [[Maria]]’s to Mr. Rushworth.” After half a moment’s pause: “And I
 should have been very much surprised had either of my daughters, on
-receiving a proposal of marriage at any time which might carry with it
+receiving a proposal of [[Marriage|marriage]] at any [[Time|time]] which might carry with it
 only _half_ the eligibility of _this_, immediately and peremptorily,
 and without paying my opinion or my regard the compliment of any
 consultation, put a decided negative on it. I should have been much
 surprised and much hurt by such a proceeding. I should have thought it
 a gross violation of duty and respect. _You_ are not to be judged by
-the same rule. You do not owe me the duty of a child. But, Fanny, if
+the same rule. You do not owe me the duty of a [[Child|child]]. But, Fanny, if
 your heart can acquit you of _ingratitude_—”
 
-He ceased. Fanny was by this time crying so bitterly that, angry as he
+He ceased. Fanny was by this [[Time|time]] crying so bitterly that, angry as he
 was, he would not press that article farther. Her heart was almost
 broke by such a picture of what she appeared to him; by such
 accusations, so heavy, so multiplied, so rising in dreadful gradation!
-Self-willed, obstinate, selfish, and ungrateful. He thought her all
+[[Self]]-willed, obstinate, selfish, and ungrateful. He thought her all
 this. She had deceived his expectations; she had lost his good opinion.
 What was to become of her?
 
-“I am very sorry,” said she inarticulately, through her tears, “I am
+“I am very sorry,” said she inarticulately, through her [[Tears|tears]], “I am
 very sorry indeed.”
 
-“Sorry! yes, I hope you are sorry; and you will probably have reason to
+“Sorry! yes, I [[Hope|hope]] you are sorry; and you will probably have reason to
 be long sorry for this day’s transactions.”
 
 “If it were possible for me to do otherwise” said she, with another
 strong effort; “but I am so perfectly convinced that I could never make
 him happy, and that I should be miserable myself.”
 
-Another burst of tears; but in spite of that burst, and in spite of
+Another burst of [[Tears|tears]]; but in spite of that burst, and in spite of
 that great black word _miserable_, which served to introduce it, Sir
 Thomas began to think a little relenting, a little change of
 inclination, might have something to do with it; and to augur
 favourably from the personal entreaty of the young man himself. He knew
 her to be very timid, and exceedingly nervous; and thought it not
-improbable that her mind might be in such a state as a little time, a
+improbable that her mind might be in such a state as a little [[Time|time]], a
 little pressing, a little patience, and a little impatience, a
-judicious mixture of all on the lover’s side, might work their usual
-effect on. If the gentleman would but persevere, if he had but love
+judicious mixture of all on the [[Lover|lover]]’s side, might work their usual
+effect on. If the gentleman would but persevere, if he had but [[Love|love]]
 enough to persevere, Sir Thomas began to have hopes; and these
-reflections having passed across his mind and cheered it, “Well,” said
-he, in a tone of becoming gravity, but of less anger, “well, child, dry
-up your tears. There is no use in these tears; they can do no good. You
+reflections having passed across his mind and cheered it, “[[Well]],” said
+he, in a tone of becoming gravity, but of less anger, “[[Well|well]], [[Child|child]], dry
+up your [[Tears|tears]]. There is no use in these [[Tears|tears]]; they can do no good. You
 must now come downstairs with me. Mr. Crawford has been kept waiting
 too long already. You must give him your own answer: we cannot expect
 him to be satisfied with less; and you only can explain to him the
@@ -363,7 +363,7 @@ meaning, he walked off by himself, leaving his poor niece to sit and
 cry over what had passed, with very wretched feelings.
 
 Her mind was all disorder. The past, present, future, everything was
-terrible. But her uncle’s anger gave her the severest pain of all.
+terrible. But her uncle’s anger gave her the severest [[Pain|pain]] of all.
 Selfish and ungrateful! to have appeared so to him! She was miserable
 for ever. She had no one to take her part, to counsel, or speak for
 her. Her only friend was absent. He might have softened his father; but
@@ -377,21 +377,21 @@ together.
 In about a quarter of an hour her uncle returned; she was almost ready
 to faint at the sight of him. He spoke calmly, however, without
 austerity, without reproach, and she revived a little. There was
-comfort, too, in his words, as well as his manner, for he began with,
+comfort, too, in his words, as [[Well|well]] as his manner, for he began with,
 “Mr. Crawford is gone: he has just left me. I need not repeat what has
 passed. I do not want to add to anything you may now be feeling, by an
 account of what he has felt. Suffice it, that he has behaved in the
 most gentlemanlike and generous manner, and has confirmed me in a most
 favourable opinion of his understanding, heart, and temper. Upon my
-representation of what you were suffering, he immediately, and with the
+representation of what you were [[Suffering|suffering]], he immediately, and with the
 greatest delicacy, ceased to urge to see you for the present.”
 
 Here Fanny, who had looked up, looked down again. “Of course,”
 continued her uncle, “it cannot be supposed but that he should request
-to speak with you alone, be it only for five minutes; a request too
-natural, a claim too just to be denied. But there is no time fixed;
+to speak with you [[Alone|alone]], be it only for five minutes; a request too
+natural, a claim too just to be denied. But there is no [[Time|time]] fixed;
 perhaps to-morrow, or whenever your spirits are composed enough. For
-the present you have only to tranquillise yourself. Check these tears;
+the present you have only to tranquillise yourself. Check these [[Tears|tears]];
 they do but exhaust you. If, as I am willing to suppose, you wish to
 shew me any observance, you will not give way to these emotions, but
 endeavour to reason yourself into a stronger frame of mind. I advise
@@ -399,7 +399,7 @@ you to go out: the air will do you good; go out for an hour on the
 gravel; you will have the shrubbery to yourself, and will be the better
 for air and exercise. And, Fanny” (turning back again for a moment), “I
 shall make no mention below of what has passed; I shall not even tell
-your aunt Bertram. There is no occasion for spreading the
+your aunt [[Bertram]]. There is no occasion for spreading the
 disappointment; say nothing about it yourself.”
 
 This was an order to be most joyfully obeyed; this was an act of
@@ -409,9 +409,9 @@ Anything might be bearable rather than such reproaches. Even to see Mr.
 Crawford would be less overpowering.
 
 She walked out directly, as her uncle recommended, and followed his
-advice throughout, as far as she could; did check her tears; did
+advice throughout, as far as she could; did check her [[Tears|tears]]; did
 earnestly try to compose her spirits and strengthen her mind. She
-wished to prove to him that she did desire his comfort, and sought to
+wished to prove to him that she did [[Desire|desire]] his comfort, and sought to
 regain his favour; and he had given her another strong motive for
 exertion, in keeping the whole affair from the knowledge of her aunts.
 Not to excite suspicion by her look or manner was now an object worth
@@ -420,8 +420,8 @@ from her aunt Norris.
 
 She was struck, quite struck, when, on returning from her walk and
 going into the East room again, the first thing which caught her eye
-was a fire lighted and burning. A fire! it seemed too much; just at
-that time to be giving her such an indulgence was exciting even painful
+was a [[Fire|fire]] lighted and burning. A [[Fire|fire]]! it seemed too much; just at
+that [[Time|time]] to be giving her such an indulgence was exciting even painful
 gratitude. She wondered that Sir Thomas could have leisure to think of
 such a trifle again; but she soon found, from the voluntary information
 of the housemaid, who came in to attend it, that so it was to be every
@@ -433,7 +433,7 @@ in soliloquy. “Heaven defend me from being ungrateful!”
 She saw nothing more of her uncle, nor of her aunt Norris, till they
 met at dinner. Her uncle’s behaviour to her was then as nearly as
 possible what it had been before; she was sure he did not mean there
-should be any change, and that it was only her own conscience that
+should be any change, and that it was only her own [[Conscience|conscience]] that
 could fancy any; but her aunt was soon quarrelling with her; and when
 she found how much and how unpleasantly her having only walked out
 without her aunt’s knowledge could be dwelt on, she felt all the reason
@@ -441,18 +441,18 @@ she had to bless the kindness which saved her from the same spirit of
 reproach, exerted on a more momentous subject.
 
 “If I had known you were going out, I should have got you just to go as
-far as my house with some orders for Nanny,” said she, “which I have
+far as my [[house]] with some orders for Nanny,” said she, “which I have
 since, to my very great inconvenience, been obliged to go and carry
-myself. I could very ill spare the time, and you might have saved me
+myself. I could very ill spare the [[Time|time]], and you might have saved me
 the trouble, if you would only have been so good as to let us know you
 were going out. It would have made no difference to you, I suppose,
-whether you had walked in the shrubbery or gone to my house.”
+whether you had walked in the shrubbery or gone to my [[house]].”
 
 “I recommended the shrubbery to Fanny as the driest place,” said Sir
 Thomas.
 
 “Oh!” said Mrs. Norris, with a moment’s check, “that was very kind of
-you, Sir Thomas; but you do not know how dry the path is to my house.
+you, Sir Thomas; but you do not know how dry the path is to my [[house]].
 Fanny would have had quite as good a walk there, I assure you, with the
 advantage of being of some use, and obliging her aunt: it is all her
 fault. If she would but have let us know she was going out but there is
@@ -466,8 +466,8 @@ As a general reflection on Fanny, Sir Thomas thought nothing could be
 more unjust, though he had been so lately expressing the same
 sentiments himself, and he tried to turn the conversation: tried
 repeatedly before he could succeed; for Mrs. Norris had not discernment
-enough to perceive, either now, or at any other time, to what degree he
-thought well of his niece, or how very far he was from wishing to have
+enough to perceive, either now, or at any other [[Time|time]], to what degree he
+thought [[Well|well]] of his niece, or how very far he was from wishing to have
 his own children’s merits set off by the depreciation of hers. She was
 talking _at_ Fanny, and resenting this private walk half through the
 dinner.
@@ -477,7 +477,7 @@ composure to Fanny, and more cheerfulness of spirits than she could
 have hoped for after so stormy a morning; but she trusted, in the first
 place, that she had done right: that her judgment had not misled her.
 For the purity of her intentions she could answer; and she was willing
-to hope, secondly, that her uncle’s displeasure was abating, and would
+to [[Hope|hope]], secondly, that her uncle’s displeasure was abating, and would
 abate farther as he considered the matter with more impartiality, and
 felt, as a good man must feel, how wretched, and how unpardonable, how
 hopeless, and how wicked it was to marry without affection.
@@ -487,8 +487,8 @@ she could not but flatter herself that the subject would be finally
 concluded, and Mr. Crawford once gone from Mansfield, that everything
 would soon be as if no such subject had existed. She would not, could
 not believe, that Mr. Crawford’s affection for her could distress him
-long; his mind was not of that sort. London would soon bring its cure.
-In London he would soon learn to wonder at his infatuation, and be
+long; his mind was not of that sort. [[London]] would soon bring its cure.
+In [[London]] he would soon learn to [[Wonder|wonder]] at his infatuation, and be
 thankful for the right reason in her which had saved him from its evil
 consequences.
 
@@ -513,4 +513,4 @@ meant, “I do not think you would answer the purpose at all.”
 
 Mrs. Norris, much discontented, was obliged to compose herself to work
 again; and Fanny, walking off in agitating consciousness, found
-herself, as she anticipated, in another minute alone with Mr. Crawford.
+herself, as she anticipated, in another minute [[Alone|alone]] with Mr. Crawford.

@@ -16,10 +16,10 @@ tags:
 
 Chapter 13
 
-SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER DUST
+SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER [[Dust|DUST]]
 
 
-In all the first bewilderment of her wonder, the most bewilderingly
+In all the first bewilderment of her [[Wonder|wonder]], the most bewilderingly
 wonderful thing to Bella was the shining countenance of Mr Boffin. That
 his wife should be joyous, open-hearted, and genial, or that her face
 should express every quality that was large and trusting, and no quality
@@ -62,39 +62,39 @@ her head. ‘Not a bit of it.’
 
 ‘At least, his name is John, I suppose?’ said Bella.
 
-‘Ah! I should think so, deary!’ cried Mrs Boffin. ‘I should hope so!
-Many and many is the time I have called him by his name of John. But
+‘Ah! I should think so, deary!’ cried Mrs Boffin. ‘I should [[Hope|hope]] so!
+Many and many is the [[Time|time]] I have called him by his name of John. But
 what’s his other name, his true other name? Give a guess, my pretty!’
 
 ‘I can’t guess,’ said Bella, turning her pale face from one to another.
 
 ‘I could,’ cried Mrs Boffin, ‘and what’s more, I did! I found him out,
-all in a flash as I may say, one night. Didn’t I, Noddy?’
+all in a flash as I may say, one [[Night|night]]. Didn’t I, Noddy?’
 
-‘Ay! That the old lady did!’ said Mr Boffin, with stout pride in the
+‘Ay! That the old lady did!’ said Mr Boffin, with stout [[Pride|pride]] in the
 circumstance.
 
 ‘Harkee to me, deary,’ pursued Mrs Boffin, taking Bella’s hands between
-her own, and gently beating on them from time to time. ‘It was after a
-particular night when John had been disappointed—as he thought—in
-his affections. It was after a night when John had made an offer to a
+her own, and gently beating on them from [[Time|time]] to [[Time|time]]. ‘It was after a
+particular [[Night|night]] when John had been disappointed—as he thought—in
+his affections. It was after a [[Night|night]] when John had made an offer to a
 certain young lady, and the certain young lady had refused it. It was
-after a particular night, when he felt himself cast-away-like, and had
-made up his mind to go seek his fortune. It was the very next night. My
+after a particular [[Night|night]], when he felt himself cast-away-like, and had
+made up his mind to go seek his fortune. It was the very next [[Night|night]]. My
 Noddy wanted a paper out of his Secretary’s room, and I says to Noddy,
 “I am going by the door, and I’ll ask him for it.” I tapped at his door,
 and he didn’t hear me. I looked in, and saw him a sitting lonely by his
-fire, brooding over it. He chanced to look up with a pleased kind of
+[[Fire|fire]], brooding over it. He chanced to look up with a pleased kind of
 smile in my company when he saw me, and then in a single moment every
 grain of the gunpowder that had been lying sprinkled thick about him
-ever since I first set eyes upon him as a man at the Bower, took fire!
-Too many a time had I seen him sitting lonely, when he was a poor child,
-to be pitied, heart and hand! Too many a time had I seen him in need of
-being brightened up with a comforting word! Too many and too many a time
+ever since I first set eyes upon him as a man at the Bower, took [[Fire|fire]]!
+Too many a [[Time|time]] had I seen him sitting lonely, when he was a poor [[Child|child]],
+to be pitied, heart and hand! Too many a [[Time|time]] had I seen him in need of
+being brightened up with a comforting word! Too many and too many a [[Time|time]]
 to be mistaken, when that glimpse of him come at last! No, no! I just
 makes out to cry, “I know you now! You’re John!” And he catches me as
 I drops.—So what,’ says Mrs Boffin, breaking off in the rush of her
-speech to smile most radiantly, ‘might you think by this time that your
+speech to smile most radiantly, ‘might you think by this [[Time|time]] that your
 husband’s name was, dear?’
 
 ‘Not,’ returned Bella, with quivering lips; ‘not Harmon? That’s not
@@ -105,11 +105,11 @@ possible?’ demanded Mrs Boffin, in a soothing tone.
 
 ‘He was killed,’ gasped Bella.
 
-‘Thought to be,’ said Mrs Boffin. ‘But if ever John Harmon drew the
-breath of life on earth, that is certainly John Harmon’s arm round your
-waist now, my pretty. If ever John Harmon had a wife on earth, that wife
-is certainly you. If ever John Harmon and his wife had a child on earth,
-that child is certainly this.’
+‘Thought to be,’ said Mrs Boffin. ‘But if ever [[John Harmon]] drew the
+breath of life on earth, that is certainly [[John Harmon]]’s arm round your
+waist now, my pretty. If ever [[John Harmon]] had a wife on earth, that wife
+is certainly you. If ever [[John Harmon]] and his wife had a [[Child|child]] on earth,
+that [[Child|child]] is certainly this.’
 
 By a master-stroke of secret arrangement, the inexhaustible baby here
 appeared at the door, suspended in mid-air by invisible agency. Mrs
@@ -119,12 +119,12 @@ of caresses. It was only this timely appearance that kept Bella from
 swooning. This, and her husband’s earnestness in explaining further to
 her how it had come to pass that he had been supposed to be slain, and
 had even been suspected of his own murder; also, how he had put a pious
-fraud upon her which had preyed upon his mind, as the time for its
+fraud upon her which had preyed upon his mind, as the [[Time|time]] for its
 disclosure approached, lest she might not make full allowance for
 the object with which it had originated, and in which it had fully
 developed.
 
-‘But bless ye, my beauty!’ cried Mrs Boffin, taking him up short at this
+‘But bless ye, my [[Beauty|beauty]]!’ cried Mrs Boffin, taking him up short at this
 point, with another hearty clap of her hands. ‘It wasn’t John only that
 was in it. We was all of us in it.’
 
@@ -137,7 +137,7 @@ between my two hands again,’ cried the comfortable creature, embracing
 her, ‘with that blessed little picter lying on your lap, and you shall
 be told all the story. Now, I’m a going to tell the story. Once, twice,
 three times, and the horses is off. Here they go! When I cries out that
-night, “I know you now, you’re John!”—which was my exact words; wasn’t
+[[Night|night]], “I know you now, you’re John!”—which was my exact words; wasn’t
 they, John?’
 
 ‘Your exact words,’ said John, laying his hand on hers.
@@ -150,12 +150,12 @@ Mr Boffin hitched up a chair, and added his broad brown right hand to
 the heap.
 
 ‘That’s capital!’ said Mrs Boffin, giving it a kiss. ‘Seems quite a
-family building; don’t it? But the horses is off. Well! When I cries
-out that night, “I know you now! you’re John!” John catches of me, it
+family building; don’t it? But the horses is off. [[Well]]! When I cries
+out that [[Night|night]], “I know you now! you’re John!” John catches of me, it
 is true; but I ain’t a light weight, bless ye, and he’s forced to let me
 down. Noddy, he hears a noise, and in he trots, and as soon as I anyways
-comes to myself I calls to him, “Noddy, well I might say as I did say,
-that night at the Bower, for the Lord be thankful this is John!” On
+comes to myself I calls to him, “Noddy, [[Well|well]] I might say as I did say,
+that [[Night|night]] at the Bower, for the Lord be thankful this is John!” On
 which he gives a heave, and down he goes likewise, with his head under
 the writing-table. This brings me round comfortable, and that brings him
 round comfortable, and then John and him and me we all fall a crying for
@@ -169,15 +169,15 @@ Bella looked at him confusedly, and looked again at Mrs Boffin’s radiant
 face.
 
 ‘That’s right, my dear, don’t you mind him,’ said Mrs Boffin, ‘stick
-to me. Well! Then we sits down, gradually gets cool, and holds a
+to me. [[Well]]! Then we sits down, gradually gets cool, and holds a
 confabulation. John, he tells us how he is despairing in his mind on
 accounts of a certain fair young person, and how, if I hadn’t found him
 out, he was going away to seek his fortune far and wide, and had fully
 meant never to come to life, but to leave the property as our wrongful
 inheritance for ever and a day. At which you never see a man so
 frightened as my Noddy was. For to think that he should have come into
-the property wrongful, however innocent, and—more than that—might have
-gone on keeping it to his dying day, turned him whiter than chalk.’
+the property wrongful, however [[Innocent|innocent]], and—more than that—might have
+gone on keeping it to his dying day, turned him whiter than [[chalk]].’
 
 ‘And you too,’ said Mr Boffin.
 
@@ -199,7 +199,7 @@ he was sitting thoughtfully smiling at that broad brown hand of his, and
 either didn’t see it, or would take no notice of it.
 
 ‘“Prove it, John!” we says,’ repeated Mrs Boffin. ‘“Prove it and
-overcome your doubts with triumph, and be happy for the first time in
+overcome your doubts with triumph, and be happy for the first [[Time|time]] in
 your life, and for the rest of your life.” This puts John in a state,
 to be sure. Then we says, “What will content you? If she was to stand up
 for you when you was slighted, if she was to show herself of a generous
@@ -215,27 +215,27 @@ it away from her, and restored it to his broad brown hand.
 ‘From the first, you was always a special favourite of Noddy’s,’ said
 Mrs Boffin, shaking her head. ‘O you were! And if I had been inclined
 to be jealous, I don’t know what I mightn’t have done to you. But as I
-wasn’t—why, my beauty,’ with a hearty laugh and an embrace, ‘I made you
+wasn’t—why, my [[Beauty|beauty]],’ with a hearty laugh and an embrace, ‘I made you
 a special favourite of my own too. But the horses is coming round the
-corner. Well! Then says my Noddy, shaking his sides till he was fit to
+corner. [[Well]]! Then says my Noddy, shaking his sides till he was fit to
 make ’em ache again: “Look out for being slighted and oppressed, John,
 for if ever a man had a hard master, you shall find me from this present
-time to be such to you.” And then he began!’ cried Mrs Boffin, in an
+[[Time|time]] to be such to you.” And then he began!’ cried Mrs Boffin, in an
 ecstacy of admiration. ‘Lord bless you, then he began! And how he DID
 begin; didn’t he!’
 
 Bella looked half frightened, and yet half laughed.
 
 ‘But, bless you,’ pursued Mrs Boffin, ‘if you could have seen him of a
-night, at that time of it! The way he’d sit and chuckle over himself!
+[[Night|night]], at that [[Time|time]] of it! The way he’d sit and chuckle over himself!
 The way he’d say “I’ve been a regular brown bear to-day,” and take
 himself in his arms and hug himself at the thoughts of the brute he had
-pretended. But every night he says to me: “Better and better, old lady.
+pretended. But every [[Night|night]] he says to me: “Better and better, old lady.
 What did we say of her? She’ll come through it, the true golden gold.
 This’ll be the happiest piece of work we ever done.” And then he’d say,
 “I’ll be a grislier old growler to-morrow!” and laugh, he would, till
 John and me was often forced to slap his back, and bring it out of his
-windpipes with a little water.’
+windpipes with a little [[Water|water]].’
 
 Mr Boffin, with his face bent over his heavy hand, made no sound,
 but rolled his shoulders when thus referred to, as if he were vastly
@@ -250,14 +250,14 @@ is such a cheerful, glorious housewife that I can’t afford to be rich
 yet. I must wait a little longer.” Then when baby was born, he says,
 “She is so much better than she ever was, that I can’t afford to be rich
 yet. I must wait a little longer.” And so he goes on and on, till I says
-outright, “Now, John, if you don’t fix a time for setting her up in her
-own house and home, and letting us walk out of it, I’ll turn Informer.”
+outright, “Now, John, if you don’t fix a [[Time|time]] for setting her up in her
+own [[house]] and [[Home|home]], and letting us walk out of it, I’ll turn Informer.”
  Then he says he’ll only wait to triumph beyond what we ever thought
 possible, and to show her to us better than even we ever supposed; and
 he says, “She shall see me under suspicion of having murdered myself,
-and YOU shall see how trusting and how true she’ll be.” Well! Noddy and
+and YOU shall see how trusting and how true she’ll be.” [[Well]]! Noddy and
 me agreed to that, and he was right, and here you are, and the horses is
-in, and the story is done, and God bless you my Beauty, and God bless us
+in, and the story is done, and God bless you my [[Beauty]], and God bless us
 all!’
 
 The pile of hands dispersed, and Bella and Mrs Boffin took a good long
@@ -274,7 +274,7 @@ glee.
 
 ‘I don’t think I have,’ said Mrs Boffin, archly.
 
-‘John dear,’ said Bella, ‘you’re a good nurse; will you please hold
+‘John dear,’ said Bella, ‘you’re a good [[Nurse|nurse]]; will you please hold
 baby?’ Having deposited the Inexhaustible in his arms with those words,
 Bella looked hard at Mr Boffin, who had moved to a table where he was
 leaning his head upon his hand with his face turned away, and, quietly
@@ -282,7 +282,7 @@ settling herself on her knees at his side, and drawing one arm over his
 shoulder, said: ‘Please I beg your pardon, and I made a small mistake of
 a word when I took leave of you last. Please I think you are better (not
 worse) than Hopkins, better (not worse) than Dancer, better (not worse)
-than Blackberry Jones, better (not worse) than any of them! Please
+than Blackberry [[Jones]], better (not worse) than any of them! Please
 something more!’ cried Bella, with an exultant ringing laugh as she
 struggled with him and forced him to turn his delighted face to hers.
 ‘Please I have found out something not yet mentioned. Please I don’t
@@ -305,8 +305,8 @@ determined to show her how much misused and misprized riches could
 do, and often had done, to spoil people; did you? Not caring what she
 thought of you (and Goodness knows THAT was of no consequence!) you
 showed her, in yourself, the most detestable sides of wealth, saying in
-your own mind, “This shallow creature would never work the truth out of
-her own weak soul, if she had a hundred years to do it in; but a glaring
+your own mind, “This shallow creature would never work the [[Truth|truth]] out of
+her own weak [[Soul|soul]], if she had a hundred years to do it in; but a glaring
 instance kept before her may open even her eyes and set her thinking.”
  That was what you said to yourself, was it, sir?’
 
@@ -318,7 +318,7 @@ pulls and one kiss, ‘for you must have thought and meant it. You saw
 that good fortune was turning my stupid head and hardening my silly
 heart—was making me grasping, calculating, insolent, insufferable—and
 you took the pains to be the dearest and kindest fingerpost that ever
-was set up anywhere, pointing out the road that I was taking and the end
+was set up anywhere, pointing out the [[Road|road]] that I was taking and the end
 it led to. Confess instantly!’
 
 ‘John,’ said Mr Boffin, one broad piece of sunshine from head to foot,
@@ -327,7 +327,7 @@ it led to. Confess instantly!’
 ‘You can’t be heard by counsel, sir,’ returned Bella. ‘You must speak
 for yourself. Confess instantly!’
 
-‘Well, my dear,’ said Mr Boffin, ‘the truth is, that when we did go in
+‘[[Well]], my dear,’ said Mr Boffin, ‘the [[Truth|truth]] is, that when we did go in
 for the little scheme that my old lady has pinted out, I did put it to
 John, what did he think of going in for some such general scheme as YOU
 have pinted out? But I didn’t in any way so word it, because I didn’t in
@@ -338,15 +338,15 @@ reg’lar brown bear all round?’
 ‘Confess this minute, sir,’ said Bella, ‘that you did it to correct and
 amend me!’
 
-‘Certainly, my dear child,’ said Mr Boffin, ‘I didn’t do it to harm you;
-you may be sure of that. And I did hope it might just hint a caution.
+‘Certainly, my dear [[Child|child]],’ said Mr Boffin, ‘I didn’t do it to harm you;
+you may be sure of that. And I did [[Hope|hope]] it might just hint a caution.
 Still, it ought to be mentioned that no sooner had my old lady found out
 John, than John made known to her and me that he had had his eye upon a
-thankless person by the name of Silas Wegg. Partly for the punishment of
+thankless person by the name of [[Silas Wegg]]. Partly for the punishment of
 which Wegg, by leading him on in a very unhandsome and underhanded
 game that he was playing, them books that you and me bought so many
-of together (and, by-the-by, my dear, he wasn’t Blackberry Jones, but
-Blewberry) was read aloud to me by that person of the name of Silas Wegg
+of together (and, by-the-by, my dear, he wasn’t Blackberry [[Jones]], but
+Blewberry) was read aloud to me by that person of the name of [[Silas Wegg]]
 aforesaid.’
 
 Bella, who was still on her knees at Mr Boffin’s feet, gradually sank
@@ -370,7 +370,7 @@ nearly blowed us into shivers and smithers, many times.’
 ‘Why?’ asked Bella. ‘How did that happen, when she was in your secret?’
 
 ‘Why, it was a weakness in the old lady,’ said Mr Boffin; ‘and yet, to
-tell you the whole truth and nothing but the truth, I’m rather proud of
+tell you the whole [[Truth|truth]] and nothing but the [[Truth|truth]], I’m rather proud of
 it. My dear, the old lady thinks so high of me that she couldn’t abear
 to see and hear me coming out as a reg’lar brown one. Couldn’t abear
 to make-believe as I meant it! In consequence of which, we was
@@ -406,14 +406,14 @@ other thing you couldn’t understand.’
 
 ‘O yes!’ cried Bella, covering her face with her hands; ‘but that I
 never shall be able to understand as long as I live. It is, how John
-could love me so when I so little deserved it, and how you, Mr and Mrs
+could [[Love|love]] me so when I so little deserved it, and how you, Mr and Mrs
 Boffin, could be so forgetful of yourselves, and take such pains and
 trouble, to make me a little better, and after all to help him to so
 unworthy a wife. But I am very very grateful.’
 
-It was John Harmon’s turn then—John Harmon now for good, and John
+It was [[John Harmon]]’s turn then—[[John Harmon]] now for good, and John
 Rokesmith for nevermore—to plead with her (quite unnecessarily) in
-behalf of his deception, and to tell her, over and over again, that it
+behalf of his [[Deception|deception]], and to tell her, over and over again, that it
 had been prolonged by her own winning graces in her supposed station of
 life. This led on to many interchanges of endearment and enjoyment
 on all sides, in the midst of which the Inexhaustible being observed
@@ -424,17 +424,17 @@ the speckled fist (with difficulty detached from an exceedingly short
 waist), ‘I have already informed my venerable Ma that I know all about
 it!’
 
-Then, said John Harmon, would Mrs John Harmon come and see her house?
-And a dainty house it was, and a tastefully beautiful; and they went
+Then, said [[John Harmon]], would Mrs [[John Harmon]] come and see her [[house]]?
+And a dainty [[house]] it was, and a tastefully beautiful; and they went
 through it in procession; the Inexhaustible on Mrs Boffin’s bosom (still
 staring) occupying the middle station, and Mr Boffin bringing up the
 rear. And on Bella’s exquisite toilette table was an ivory casket, and
 in the casket were jewels the like of which she had never dreamed of,
 and aloft on an upper floor was a nursery garnished as with rainbows;
-‘though we were hard put to it,’ said John Harmon, ‘to get it done in so
-short a time.’
+‘though we were hard put to it,’ said [[John Harmon]], ‘to get it done in so
+short a [[Time|time]].’
 
-The house inspected, emissaries removed the Inexhaustible, who was
+The [[house]] inspected, emissaries removed the Inexhaustible, who was
 shortly afterwards heard screaming among the rainbows; whereupon Bella
 withdrew herself from the presence and knowledge of gemplemorums, and
 the screaming ceased, and smiling Peace associated herself with that
@@ -445,8 +445,8 @@ young olive branch.
 Mr Boffin, submitting to be led on tiptoe to the nursery door, looked in
 with immense satisfaction, although there was nothing to see but Bella
 in a musing state of happiness, seated in a little low chair upon the
-hearth, with her child in her fair young arms, and her soft eyelashes
-shading her eyes from the fire.
+hearth, with her [[Child|child]] in her fair young arms, and her soft eyelashes
+shading her eyes from the [[Fire|fire]].
 
 ‘It looks as if the old man’s spirit had found rest at last; don’t it?’
 said Mrs Boffin.

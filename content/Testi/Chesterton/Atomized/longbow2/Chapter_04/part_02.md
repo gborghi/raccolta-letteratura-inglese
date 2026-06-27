@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 4 (part 2)"
+title: "[[longbow2]] — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -53,7 +53,7 @@ all be if she took it into her head to walk about on two legs,
 like everybody else.'"
 
 
-"Nonsense!" ejaculated Colonel Crane.  "Can't be a child--
+"Nonsense!" ejaculated Colonel Crane.  "Can't be a [[Child|child]]--
 talking about it walking about on two legs."
 
 "After all," said Pierce thoughtfully, "a little girl does walk
@@ -82,14 +82,14 @@ the weird Asiatic atmosphere.  But a monkey on two legs is even less
 unusual than a dog on two legs.  Moreover, the reference to Asiatic
 mystery seems really to refer to something else and not to any animal
 at all.  For he ends up by saying:  `I feel now as if my mind were
-moving in much larger and more ancient spaces of time or eternity;
+moving in much larger and more ancient spaces of [[Time|time]] or [[Eternity|eternity]];
 and as if what I thought at first was an oriental atmosphere was only
-an atmosphere of the orient in the sense of dayspring and the dawn. 
+an atmosphere of the [[Orient|orient]] in the sense of dayspring and the [[Dawn|dawn]]. 
 It has nothing to do with the stagnant occultism of decayed Indian cults;
-it is something that unites a real innocence with the immensities,
-a power as of the mountains with the purity of snow.  This vision
+it is something that unites a real [[innocence]] with the immensities,
+a power as of the [[Mountains|mountains]] with the purity of [[Snow|snow]].  This vision
 does not violate my own religion, but rather reinforces it;
-but I cannot help feeling that I have larger views.  I hope in two
+but I cannot help feeling that I have larger views.  I [[Hope|hope]] in two
 senses to preach liberty in these parts.  So I may live to falsify
 the proverb after all.'
 
@@ -100,18 +100,18 @@ we have all three of us lived to falsify proverbs."
 Hilary Pierce had risen to his feet with the restless action that
 went best with his alert figure.  "Yes," he said; "I suppose we
 can all three of us say we have lived for adventures, or had some
-curious ones anyhow.  And to tell you the truth, the adventure
+curious ones anyhow.  And to tell you the [[Truth|truth]], the adventure
 feeling has come on me very strong at this very minute.  I've got
-the detective fever about that parson of yours.  I should like to get
+the [[Detective|detective]] fever about that parson of yours.  I should like to get
 at the meaning of that letter, as if it were a cipher about buried treasure."
 
 Then he added more gravely:  "And if, as I gather, your clerical
 friend is really a friend worth having, I do seriously advise
 you to keep an eye on him just now.  Writing letters upside-down
-is all very well, and I shouldn't be alarmed about that. 
+is all very [[Well|well]], and I shouldn't be alarmed about that. 
 Lots of people think they've explained things in previous letters
 they never wrote.  I don't think it matters who Snowdrop is,
-or what sort of children or animals he chooses to be fond of. 
+or what sort of children or [[Animals|animals]] he chooses to be fond of. 
 That's all being eccentric in the good old English fashion,
 like poetical tinkers and mad squires.  You're both of you eccentric
 in that sort of way, and it's one of the things I like about you. 
@@ -132,7 +132,7 @@ talk like that, and they were mountebanks or the dupes of mountebanks.
 And I'll tell you another thing.  It's a long shot even with the long
 bow we used to talk about.  It's a pretty wild guess even in this
 rather wild business.  But I have a creepy sort of feeling that if
-you went down to his house and private parlour to see Snowdrop,
+you went down to his [[house]] and private parlour to see Snowdrop,
 you'd be surprised at what you saw."
 
 "What should we see?" asked the Colonel, staring.
@@ -145,6 +145,6 @@ you'd be surprised at what you saw."
 to somebody who didn't seem to be there."
 
 
-Hilary Pierce, fired by his detective fever, made a good many
+Hilary Pierce, fired by his [[Detective|detective]] fever, made a good many
 more inquiries about the Rev. Wilding White, both of his two old
 friends and elsewhere.

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 9 (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -44,10 +44,10 @@ Pinch!’
 ‘Thank you,’ said Tom’s sister heartily; ‘a thousand times.’
 
 ‘Not at all,’ he retorted, patting her gently on the head. ‘Don’t
-mention it. You will make me angry if you do. My sweet child’--to the
+mention it. You will make me angry if you do. My sweet [[Child|child]]’--to the
 pupil--‘farewell! That fairy creature,’ said Mr Pecksniff, looking in
 his pensive mood hard at the footman, as if he meant him, ‘has shed
-a vision on my path, refulgent in its nature, and not easily to be
+a vision on my path, refulgent in its [[Nature|nature]], and not easily to be
 obliterated. My dears, are you ready?’
 
 They were not quite ready yet, for they were still caressing the pupil.
@@ -56,35 +56,35 @@ with each a haughty inclination of the head and a curtsey strangled in
 its birth, flounced into the passage.
 
 The young man had rather a long job in showing them out; for Mr
-Pecksniff’s delight in the tastefulness of the house was such that he
+Pecksniff’s delight in the tastefulness of the [[house]] was such that he
 could not help often stopping (particularly when they were near the
 parlour door) and giving it expression, in a loud voice and very learned
 terms. Indeed, he delivered, between the study and the hall, a
 familiar exposition of the whole science of architecture as applied to
 dwelling-houses, and was yet in the freshness of his eloquence when they
-reached the garden.
+reached the [[Garden|garden]].
 
 ‘If you look,’ said Mr Pecksniff, backing from the steps, with his head
 on one side and his eyes half-shut that he might the better take in
 the proportions of the exterior: ‘If you look, my dears, at the cornice
 which supports the roof, and observe the airiness of its construction,
 especially where it sweeps the southern angle of the building, you will
-feel with me--How do you do, sir? I hope you’re well?’
+feel with me--How do you do, sir? I [[Hope|hope]] you’re [[Well|well]]?’
 
 Interrupting himself with these words, he very politely bowed to a
-middle-aged gentleman at an upper window, to whom he spoke--not because
+middle-aged gentleman at an upper [[Window|window]], to whom he spoke--not because
 the gentleman could hear him (for he certainly could not), but as an
 appropriate accompaniment to his salutation.
 
-‘I have no doubt, my dears,’ said Mr Pecksniff, feigning to point out
+‘I have no [[Doubt|doubt]], my dears,’ said Mr Pecksniff, feigning to point out
 other beauties with his hand, ‘that this is the proprietor. I should be
 glad to know him. It might lead to something. Is he looking this way,
-Charity?’
+[[Charity]]?’
 
-‘He is opening the window pa!’
+‘He is opening the [[Window|window]] pa!’
 
 ‘Ha, ha!’ cried Mr Pecksniff softly. ‘All right! He has found I’m
-professional. He heard me inside just now, I have no doubt. Don’t look!
+professional. He heard me inside just now, I have no [[Doubt|doubt]]. Don’t look!
 With regard to the fluted pillars in the portico, my dears--’
 
 ‘Hallo!’ cried the gentleman.
@@ -105,10 +105,10 @@ heard aright. ‘Did you--?’
 Trespassing. You see a gravel walk, don’t you? What do you think it’s
 meant for? Open the gate there! Show that party out!’
 
-With that he clapped down the window again, and disappeared.
+With that he clapped down the [[Window|window]] again, and disappeared.
 
 Mr Pecksniff put on his hat, and walked with great deliberation and in
-profound silence to the fly, gazing at the clouds as he went, with
+profound [[Silence|silence]] to the fly, gazing at the clouds as he went, with
 great interest. After helping his daughters and Mrs Todgers into that
 conveyance, he stood looking at it for some moments, as if he were not
 quite certain whether it was a carriage or a temple; but having settled
@@ -122,11 +122,11 @@ putting themselves in the humiliating position of seeming to know such
 bold, audacious, cunning, dreadful girls as that. They had expected
 this. They had predicted it to Mrs Todgers, as she (Todgers) could
 depone, that very morning. To this, they added, that the owner of the
-house, supposing them to be Miss Pinch’s friends, had acted, in
+[[house]], supposing them to be Miss Pinch’s friends, had acted, in
 their opinion, quite correctly, and had done no more than, under such
 circumstances, might reasonably have been expected. To that they added
 (with a trifling inconsistency), that he was a brute and a bear; and
-then they merged into a flood of tears, which swept away all wandering
+then they merged into a flood of [[Tears|tears]], which swept away all wandering
 epithets before it.
 
 Perhaps Miss Pinch was scarcely so much to blame in the matter as the
@@ -138,7 +138,7 @@ Pecksniff’s unobtrusive remarks on the establishment, might possibly
 have had some share in their dismissal. Poor Miss Pinch, however, had to
 bear the brunt of it with both parties; being so severely taken to task
 by the Seraph’s mother for having such vulgar acquaintances, that
-she was fain to retire to her own room in tears, which her natural
+she was fain to retire to her own room in [[Tears|tears]], which her natural
 cheerfulness and submission, and the delight of having seen Mr
 Pecksniff, and having received a letter from her brother, were at first
 insufficient to repress.

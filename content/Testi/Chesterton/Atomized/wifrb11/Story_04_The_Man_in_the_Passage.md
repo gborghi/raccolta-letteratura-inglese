@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Man in the Passage"
+title: "[[wifrb11]] — The Man in the Passage"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -18,7 +18,7 @@ tags:
 
 
 TWO men appeared simultaneously at the two ends of a sort of passage
-running along the side of the Apollo Theatre in the Adelphi. 
+running along the side of the [[Apollo]] Theatre in the Adelphi. 
 The evening daylight in the streets was large and luminous,
 opalescent and empty.  The passage was comparatively long and dark,
 so each man could see the other as a mere black silhouette at the other end. 
@@ -27,7 +27,7 @@ for they were both men of striking appearance and they hated each other.
 
      The covered passage opened at one end on one of the steep streets
 of the Adelphi, and at the other on a terrace overlooking
-the sunset-coloured river.  One side of the passage was a blank wall,
+the sunset-coloured [[River|river]].  One side of the passage was a blank wall,
 for the building it supported was an old unsuccessful theatre restaurant,
 now shut up.  The other side of the passage contained two doors,
 one at each end.  Neither was what was commonly called the stage door;
@@ -40,7 +40,7 @@ and entrances, for meeting friends or avoiding them.
      The two men in question were certainly two such friends,
 men who evidently knew the doors and counted on their opening,
 for each approached the door at the upper end with equal coolness
-and confidence.  Not, however, with equal speed; but the man
+and confidence.  Not, however, with equal [[Speed|speed]]; but the man
 who walked fast was the man from the other end of the tunnel,
 so they both arrived before the secret stage door almost at
 the same instant.  They saluted each other with civility,
@@ -56,10 +56,10 @@ the kind of man whose importance is known to everybody who knows.
 The more you mixed with the innermost ring in every polity or profession,
 the more  often you met Sir Wilson Seymour.  He was the one intelligent man
 on twenty unintelligent committees--on every sort of subject,
-from the reform of the Royal Academy to the project of bimetallism
+from the [[Reform|reform]] of the Royal Academy to the project of bimetallism
 for Greater Britain.  In the Arts especially he was omnipotent. 
 He was so unique that nobody could quite decide whether he was
-a great aristocrat who had taken up Art, or a great artist whom
+a great [[aristocrat]] who had taken up Art, or a great [[artist]] whom
 the aristocrats had taken up.  But you could not meet him for five minutes
 without realizing that you had really been ruled by him all your life.
 
@@ -72,7 +72,7 @@ the reverse of feeble.  His hair was silver-grey, but he did not look old;
 it was worn longer than the common yet he did not look effeminate;
 it was curly but it did not look curled.  His carefully pointed beard
 made him look more manly and militant than otherwise, as it does in those
-old admirals of Velazquez with whose dark portraits his house was hung. 
+old admirals of Velazquez with whose dark portraits his [[house]] was hung. 
 His grey gloves were a shade bluer, his silver-knobbed cane a shade longer
 than scores of such gloves and canes flapped and flourished about
 the theatres and the restaurants.
@@ -90,11 +90,11 @@ of caricature then current, Mr Max Beerbohm had represented him as
 a proposition in the fourth book of Euclid.
 
      For he also was a public man, though with quite another
-sort of success.  You did not have to be in the best society
+sort of [[success]].  You did not have to be in the best society
 to have heard of Captain Cutler, of the siege of Hong-Kong,
 and the great march across China.  You could not get away from
 hearing of him wherever you were; his portrait was on every other postcard;
-his maps and battles in every other illustrated paper; songs in his honour
+his maps and battles in every other illustrated paper; [[songs]] in his [[Honour|honour]]
 in every other music-hall turn or on every other barrel-organ. 
 His fame, though probably more temporary, was ten times more wide,
 popular and spontaneous than the other man's.  In thousands of
@@ -107,10 +107,10 @@ contrasted queerly with the glittering interior of the great actress's
 dressing-room.  It was fitted and filled with looking-glasses
 at every angle of refraction, so that they looked like the hundred facets
 of one huge diamond--if one could get inside a diamond. 
-The other features of luxury, a few flowers, a few coloured cushions,
+The other features of luxury, a few [[Flowers|flowers]], a few coloured cushions,
 a few scraps of stage costume, were multiplied by all the mirrors into
-the madness of the Arabian Nights, and danced and changed places
-perpetually as the shuffling attendant shifted a mirror outwards
+the [[Madness|madness]] of the Arabian Nights, and danced and changed places
+perpetually as the shuffling attendant shifted a [[Mirror|mirror]] outwards
 or shot one back against the wall.
 
      They both spoke to the dingy dresser by name, calling him Parkinson,
@@ -118,34 +118,34 @@ and asking for the lady as Miss Aurora Rome.  Parkinson said she was
 in the other room, but he would go and tell her.  A shade crossed the brow
 of both visitors; for the other room was the private room of
 the great actor with whom Miss Aurora was performing, and she was
-of the kind that does not inflame admiration without inflaming jealousy. 
+of the kind that does not inflame admiration without inflaming [[Jealousy|jealousy]]. 
 In about half a minute, however, the inner door opened, and she entered
-as she always did, even in private life, so that the very silence
-seemed to be a roar of applause, and one well-deserved. 
+as she always did, even in private life, so that the very [[Silence|silence]]
+seemed to be a roar of applause, and one [[Well|well]]-deserved. 
 She was clad in a somewhat strange garb of peacock green and
 peacock blue satins, that gleamed like blue and green metals,
 such as delight children and aesthetes, and her heavy, hot brown hair
-framed one of those magic faces which are dangerous to all men,
+framed one of those [[Magic|magic]] faces which are dangerous to all men,
 but especially to boys and to men growing grey.  In company with
 her male colleague, the great American actor, Isidore Bruno,
 she was producing a particularly poetical and fantastic interpretation
-of Midsummer Night's Dream:  in which the artistic prominence was given
-to Oberon and Titania, or in other words to Bruno and herself. 
+of Midsummer [[Night]]'s Dream:  in which the artistic prominence was given
+to [[Oberon]] and [[Titania]], or in other words to Bruno and herself. 
 Set in dreamy and exquisite scenery, and moving in mystical dances,
 the green costume, like burnished beetle-wings, expressed all the
-elusive individuality of an elfin queen.  But when personally confronted
+elusive individuality of an elfin [[Queen|queen]].  But when personally confronted
 in what was still broad daylight, a man looked only at the woman's face.
 
      She greeted both men with the beaming and baffling smile
 which kept so many males at the same just dangerous distance from her. 
-She accepted some flowers from Cutler, which were as tropical and expensive
+She accepted some [[Flowers|flowers]] from Cutler, which were as tropical and expensive
 as his victories; and another sort of present from Sir Wilson Seymour,
 offered later on and more nonchalantly by that gentleman. 
 For it was against his breeding to show eagerness, and against his
-conventional unconventionality to give anything so obvious as flowers. 
+conventional unconventionality to give anything so obvious as [[Flowers|flowers]]. 
 He had picked up a trifle, he said, which was rather a curiosity,
-it was an ancient Greek dagger of the Mycenaean Epoch, and might well
-have been worn in the time of Theseus and Hippolyta.  It was made of brass
+it was an ancient Greek dagger of the Mycenaean Epoch, and might [[Well|well]]
+have been worn in the [[Time|time]] of [[Theseus]] and [[Hippolyta]].  It was made of brass
 like all the Heroic weapons, but, oddly enough, sharp enough
 to prick anyone still.  He had really been attracted to it by
 the leaf-like shape; it was as perfect as a Greek vase. 
@@ -156,7 +156,7 @@ in the play, he hoped she would--
 more of a contrast to the explanatory Seymour than even Captain Cutler. 
 Nearly six-foot-six, and of more than theatrical thews and muscles,
 Isidore Bruno, in the gorgeous leopard skin and golden-brown garments
-of Oberon, looked like a barbaric god.  He leaned on a sort of
+of [[Oberon]], looked like a barbaric god.  He leaned on a sort of
 hunting-spear, which across a theatre looked a slight, silvery wand,
 but which in the small and comparatively crowded room looked as plain as
 a pike-staff--and as menacing.  His vivid black eyes rolled volcanically,
@@ -177,14 +177,14 @@ of any contrast, but said with dull civility: "I believe Miss Rome
 sent for me."
 
      A shrewd observer might have remarked that the emotional temperature
-rather rose at so unemotional an interruption.  The detachment of
+rather [[Rose|rose]] at so unemotional an interruption.  The detachment of
 a professional celibate seemed to reveal to the others that they
 stood round the woman as a ring of amorous rivals; just as a stranger
-coming in with frost on his coat will reveal that a room is like a furnace. 
+coming in with [[Frost|frost]] on his coat will reveal that a room is like a furnace. 
 The presence of the one man who did not care about her
-increased Miss Rome's sense that everybody else was in love with her,
+increased Miss Rome's sense that everybody else was in [[Love|love]] with her,
 and each in a somewhat dangerous way:  the actor with all the appetite
-of a savage and a spoilt child; the soldier with all the simple selfishness
+of a savage and a spoilt [[Child|child]]; the soldier with all the simple selfishness
 of a man of will rather than mind; Sir Wilson with that daily hardening
 concentration with which old Hedonists take to a hobby; nay,
 even the abject Parkinson, who had known her before her triumphs,
@@ -196,7 +196,7 @@ The man like a black wooden Noah (who was not wholly without shrewdness)
 noted it with a considerable but contained amusement.  It was evident
 that the great Aurora, though by no means indifferent to the admiration
 of the other sex, wanted at this moment to get rid of all the men
-who admired her and be left alone with the man who did not--
+who admired her and be left [[Alone|alone]] with the man who did not--
 did not admire her in that sense at least; for the little priest
 did admire and even enjoy the firm feminine diplomacy with which
 she set about her task.  There was, perhaps, only one thing
@@ -215,8 +215,8 @@ really admire Miss Rome as she achieved all these three objects
 in one selected action.
 
      She went across to Captain Cutler and said in her sweetest manner: 
-"I shall value all these flowers, because they must be your
-favourite flowers.  But they won't be complete, you know,
+"I shall value all these [[Flowers|flowers]], because they must be your
+favourite [[Flowers|flowers]].  But they won't be complete, you know,
 without my favourite flower.  Do go over to that shop round the corner
 and get me some lilies-of-the-valley, and then it will be quite lovely."
 
@@ -236,7 +236,7 @@ one of the looking-glasses that brought him up short at the entrance,
 turning his head this way and that like a bewildered bulldog.
 
      "I must show this stupid man where to go," said Aurora
-in a whisper to Seymour, and ran out to the threshold to speed
+in a whisper to Seymour, and ran out to the threshold to [[Speed|speed]]
 the parting guest.
 
      Seymour seemed to be listening, elegant and unconscious
@@ -247,21 +247,21 @@ the end on the terrace above the Thames.  Yet a second or two after
 Seymour's brow darkened again.  A man in his position has so many rivals,
 and he remembered that at the other end of the passage was
 the corresponding entrance to Bruno's private room.  He did not
-lose his dignity; he said some civil words to Father Brown
-about the revival of Byzantine architecture in the Westminster Cathedral,
+lose his dignity; he said some civil words to [[Father Brown]]
+about the revival of Byzantine architecture in the Westminster [[Cathedral]],
 and then, quite naturally, strolled out himself into the upper end
-of the passage.  Father Brown and Parkinson were left alone,
+of the passage.  [[Father Brown]] and Parkinson were left [[Alone|alone]],
 and they were neither of them men with a taste for superfluous conversation. 
 The dresser went round the room, pulling out looking-glasses
 and pushing them in again, his dingy dark coat and trousers looking
 all the more dismal since he was still holding the festive fairy spear
-of King Oberon.  Every time he pulled out the frame of a new glass,
-a new black figure of Father Brown appeared; the absurd glass chamber
+of [[King]] [[Oberon]].  Every [[Time|time]] he pulled out the frame of a new glass,
+a new black figure of [[Father Brown]] appeared; the absurd glass chamber
 was full of Father Browns, upside down in the air like angels,
 turning somersaults like acrobats, turning their backs to everybody
 like very rude persons.
 
-     Father Brown seemed quite unconscious of this cloud of witnesses,
+     [[Father Brown]] seemed quite unconscious of this cloud of witnesses,
 but followed Parkinson with an idly attentive eye till he took himself
 and his absurd spear into the farther room of Bruno.  Then he abandoned
 himself to such abstract meditations as always amused him--
@@ -274,7 +274,7 @@ At the same instant Sir Wilson Seymour burst back into the room,
 white as ivory.  "Who's that man in the passage?" he cried. 
 "Where's that dagger of mine?"
 
-     Before Father Brown could turn in his heavy boots Seymour was
+     Before [[Father Brown]] could turn in his heavy boots Seymour was
 plunging about the room looking for the weapon.  And before he could
 possibly find that weapon or any other, a brisk running of feet
 broke upon the pavement outside, and the square face of Cutler
@@ -284,7 +284,7 @@ a bunch of lilies-of-the-valley.  "What's this?" he cried.
 
      "My tricks!" hissed his pale rival, and made a stride towards him.
 
-     In the instant of time in which all this happened Father Brown
+     In the instant of [[Time|time]] in which all this happened [[Father Brown]]
 stepped out into the top of the passage, looked down it,
 and at once walked briskly towards what he saw.
 
@@ -301,17 +301,17 @@ the passage like a path of gold, and in the midst of it Aurora Rome lay
 lustrous in her robes of green and gold, with her dead face
 turned upwards.  Her dress was torn away as in a struggle,
 leaving the right shoulder bare, but the wound from which
-the blood was welling was on the other side.  The brass dagger
+the [[Blood|blood]] was welling was on the other side.  The brass dagger
 lay flat and gleaming a yard or so away.
 
-     There was a blank stillness for a measurable time, so that
-they could hear far off a flower-girl's laugh outside Charing Cross,
+     There was a blank stillness for a measurable [[Time|time]], so that
+they could hear far off a flower-girl's laugh outside Charing [[Cross]],
 and someone whistling furiously for a taxicab in one of the streets
 off the Strand.  Then the Captain, with a movement so sudden that it
 might have been passion or play-acting, took Sir Wilson Seymour by the
 throat.
 
-     Seymour looked at him steadily without either fight or fear. 
+     Seymour looked at him steadily without either fight or [[Fear|fear]]. 
 "You need not kill me," he said in a voice quite cold; "I shall do
 that on my own account."
 
@@ -320,7 +320,7 @@ with the same icy candour:  "If I find I haven't the nerve
 to do it with that dagger I can do it in a month with drink."
 
      "Drink isn't good enough for me," replied Cutler, "but I'll have
-blood for this before I die.  Not yours--but I think I know whose."
+[[Blood|blood]] for this before I die.  Not yours--but I think I know whose."
 
      And before the others could appreciate his intention
 he snatched up the dagger, sprang at the other door at the lower end
@@ -330,7 +330,7 @@ in his wavering way out of the door and caught sight of the corpse
 lying in the passage.  He moved shakily towards it; looked at it weakly
 with a working face; then moved shakily back into the dressing-room again,
 and sat down suddenly on one of the richly cushioned chairs. 
-Father Brown instantly ran across to him, taking no notice of Cutler
+[[Father Brown]] instantly ran across to him, taking no notice of Cutler
 and the colossal actor, though the room already rang with their blows
 and they began to struggle for the dagger.  Seymour, who retained some
 practical sense, was whistling for the police at the end of the passage.
@@ -338,7 +338,7 @@ practical sense, was whistling for the police at the end of the passage.
      When the police arrived it was to tear the two men
 from an almost ape-like grapple; and, after a few formal inquiries,
 to arrest Isidore Bruno upon a charge of murder, brought against him
-by his furious opponent.  The idea that the great national hero of the hour
+by his furious opponent.  The idea that the great national [[Hero|hero]] of the hour
 had arrested a wrongdoer with his own hand doubtless had its weight
 with the police, who are not without elements of the journalist. 
 They treated Cutler with a certain solemn attention, and pointed out
@@ -346,13 +346,13 @@ that he had got a slight slash on the hand.  Even as Cutler
 bore him back across tilted chair and table, Bruno had twisted
 the dagger out of his grasp and disabled him just below the wrist. 
 The injury was really slight, but till he was removed from the room
-the half-savage prisoner stared at the running blood with a steady smile.
+the half-savage prisoner stared at the running [[Blood|blood]] with a steady smile.
 
      "Looks a cannibal sort of chap, don't he?" said the constable
 confidentially to Cutler.
 
      Cutler made no answer, but said sharply a moment after:
-"We must attend to the...the death..." and his voice escaped
+"We must attend to the...the [[Death|death]]..." and his voice escaped
 from articulation.
 
      "The two deaths," came in the voice of the priest from
@@ -361,27 +361,27 @@ when I got across to him." And he stood looking down at old Parkinson,
 who sat in a black huddle on the gorgeous chair.  He also had
 paid his tribute, not without eloquence, to the woman who had died.
 
-     The silence was first broken by Cutler, who seemed not untouched
+     The [[Silence|silence]] was first broken by Cutler, who seemed not untouched
 by a rough tenderness.  "I wish I was him," he said huskily. 
 "I remember he used to watch her wherever she walked more than--anybody. 
 She was his air, and he's dried up.  He's just dead."
 
      "We are all dead," said Seymour in a strange voice,
-looking down the road.
+looking down the [[Road|road]].
 
-     They took leave of Father Brown at the corner of the road,
+     They took leave of [[Father Brown]] at the corner of the [[Road|road]],
 with some random apologies for any rudeness they might have shown. 
 Both their faces were tragic, but also cryptic.
 
      The mind of the little priest was always a rabbit-warren
 of wild thoughts that jumped too quickly for him to catch them. 
 Like the white tail of a rabbit he had the vanishing thought that
-he was certain of their grief, but not so certain of their innocence.
+he was certain of their grief, but not so certain of their [[innocence]].
 
      "We had better all be going," said Seymour heavily; "we have done
 all we can to help."
 
-     "Will you understand my motives," asked Father Brown quietly,
+     "Will you understand my motives," asked [[Father Brown]] quietly,
 "if I say you have done all you can to hurt?"
 
      They both started as if guiltily, and Cutler said sharply: 
@@ -400,19 +400,19 @@ hurt himself with the dagger."
      "Hurt myself!" exclaimed the Captain, with contempt. 
 "A silly little scratch."
 
-     "Which drew blood," replied the priest, nodding.  "We know there's
-blood on the brass now.  And so we shall never know whether there was
-blood on it before."
+     "Which drew [[Blood|blood]]," replied the priest, nodding.  "We know there's
+[[Blood|blood]] on the brass now.  And so we shall never know whether there was
+[[Blood|blood]] on it before."
 
-     There was a silence; and then Seymour said, with an emphasis
+     There was a [[Silence|silence]]; and then Seymour said, with an emphasis
 quite alien to his daily accent:  "But I saw a man in the passage."
 
      "I know you did," answered the cleric Brown with a face of wood,
 "so did Captain Cutler.  That's what seems so improbable."
 
      Before either could make sufficient sense of it even to answer,
-Father Brown had politely excused himself and gone stumping
-up the road with his stumpy old umbrella.
+[[Father Brown]] had politely excused himself and gone stumping
+up the [[Road|road]] with his stumpy old umbrella.
 
      As modern newspapers are conducted, the most honest
 and most important news is the police news.  If it be true that
@@ -420,9 +420,9 @@ in the twentieth century more space is given to murder than to politics,
 it is for the excellent reason that murder is a more serious subject. 
 But even this would hardly explain the enormous omnipresence and
 widely distributed detail of "The Bruno Case," or "The Passage Mystery,"
-in the Press of London and the provinces.  So vast was the excitement
-that for some weeks the Press really told the truth; and the reports
-of examination and cross-examination, if interminable,
+in the Press of [[London]] and the provinces.  So vast was the excitement
+that for some weeks the Press really told the [[Truth|truth]]; and the reports
+of examination and [[Cross|cross]]-examination, if interminable,
 even if intolerable are at least reliable.  The true reason,
 of course, was the coincidence of persons.  The victim was
 a popular actress; the accused was a popular actor; and the accused
@@ -436,9 +436,9 @@ of Bruno's trial.
 one of those who are jeered at as humorous judges, but who are generally
 much more serious than the serious judges, for their levity comes from
 a living impatience of professional solemnity; while the serious judge
-is really filled with frivolity, because he is filled with vanity. 
+is really filled with frivolity, because he is filled with [[Vanity|vanity]]. 
 All the chief actors being of a worldly importance, the barristers
-were well balanced; the prosecutor for the Crown was Sir Walter Cowdray,
+were [[Well|well]] balanced; the prosecutor for the [[Crown]] was Sir Walter Cowdray,
 a heavy, but weighty advocate of the sort that knows how to seem
 English and trustworthy, and how to be rhetorical with reluctance. 
 The prisoner was defended by Mr Patrick Butler, K.C., who was mistaken
@@ -446,36 +446,36 @@ for a mere flaneur by those who misunderstood the Irish character--
 and those who had not been examined by him.  The medical evidence
 involved no contradictions, the doctor, whom Seymour had summoned
 on the spot, agreeing with the eminent surgeon who had later
-examined the body.  Aurora Rome had been stabbed with some sharp instrument
+examined the [[Body|body]].  Aurora Rome had been stabbed with some sharp instrument
 such as a knife or dagger; some instrument, at least, of which
 the blade was short.  The wound was just over the heart, and she had
 died instantly.  When the doctor first saw her she could hardly
-have been dead for twenty minutes.  Therefore when Father Brown
+have been dead for twenty minutes.  Therefore when [[Father Brown]]
 found her she could hardly have been dead for three.
 
-     Some official detective evidence followed, chiefly concerned with
+     Some official [[Detective|detective]] evidence followed, chiefly concerned with
 the presence or absence of any proof of a struggle; the only suggestion
 of this was the tearing of the dress at the shoulder, and this did not seem
-to fit in particularly well with the direction and finality of the blow. 
+to fit in particularly [[Well|well]] with the direction and finality of the blow. 
 When these details had been supplied, though not explained,
 the first of the important witnesses was called.
 
      Sir Wilson Seymour gave evidence as he did everything else
-that he did at all--not only well, but perfectly.  Though himself
+that he did at all--not only [[Well|well]], but perfectly.  Though himself
 much more of a public man than the judge, he conveyed exactly
-the fine shade of self-effacement before the King's justice;
+the fine shade of [[Self|self]]-effacement before the [[King]]'s justice;
 and though everyone looked at him as they would at the Prime Minister
 or the Archbishop of Canterbury, they could have said nothing
 of his part in it but that it was that of a private gentleman,
 with an accent on the noun.  He was also refreshingly lucid,
 as he was on the committees.  He had been calling on Miss Rome
 at the theatre; he had met Captain Cutler there; they had been joined
-for a short time by the accused, who had then returned to his
+for a short [[Time|time]] by the accused, who had then returned to his
 own dressing-room; they had then been joined by a Roman Catholic priest,
 who asked for the deceased lady and said his name was Brown. 
 Miss Rome had then gone just outside the theatre to the entrance
 of the passage, in order to point out to Captain Cutler a flower-shop
-at which he was to buy her some more flowers; and the witness
+at which he was to buy her some more [[Flowers|flowers]]; and the witness
 had remained in the room, exchanging a few words with the priest. 
 He had then distinctly heard the deceased, having sent the Captain
 on his errand, turn round laughing and run down the passage
@@ -498,9 +498,9 @@ inside the outline.  The passage is of such length that anyone in
 the middle of it appears quite black against the light at the other end."
 The witness lowered his steady eyes once more and added: 
 "I had noticed the fact before, when Captain Cutler first entered it."
-There was another silence, and the judge leaned forward and made a note.
+There was another [[Silence|silence]], and the judge leaned forward and made a note.
 
-     "Well," said Sir Walter patiently, "what was the outline like?
+     "[[Well]]," said Sir Walter patiently, "what was the outline like?
 Was it, for instance, like the figure of the murdered woman?"
 
      "Not in the least," answered Seymour quietly.
@@ -509,7 +509,7 @@ Was it, for instance, like the figure of the murdered woman?"
 
      "It looked to me," replied the witness, "like a tall man."
 
-     Everyone in court kept his eyes riveted on his pen,
+     Everyone in [[Court|court]] kept his eyes riveted on his pen,
 or his umbrella-handle, or his book, or his boots or whatever
 he happened to be looking at.  They seemed to be holding their eyes
 away from the prisoner by main force; but they felt his figure in the dock,
@@ -537,7 +537,7 @@ after all."
 "After all!" he repeated slowly.  "So you did think at first
 it was a woman?"
 
-     Seymour looked troubled for the first time.  "It is hardly
+     Seymour looked troubled for the first [[Time|time]].  "It is hardly
 a point of fact," he said, "but if his lordship would like me
 to answer for my impression, of course I shall do so.  There was something
 about the thing that was not exactly a woman and yet was not quite a man;
@@ -561,9 +561,9 @@ with a too obvious snarl at the prisoner.  But the man was plainly shaken
 with sorrow and sincere anger, and Cowdray quickly excused him
 from confirming facts that were already fairly clear.
 
-     The defending counsel also was again brief in his cross-examination;
+     The defending counsel also was again brief in his [[Cross|cross]]-examination;
 although (as was his custom) even in being brief, he seemed to take
-a long time about it.  "You used a rather remarkable expression," he said,
+a long [[Time|time]] about it.  "You used a rather remarkable expression," he said,
 looking at Cutler sleepily.  "What do you mean by saying that
 it looked more like a beast than a man or a woman?"
 
@@ -587,51 +587,51 @@ was rather heavy and square than otherwise?"
 and rather faint voice.
 
      "Or again, he may not," said Mr Butler, and sat down suddenly
-for the second time.
+for the second [[Time|time]].
 
      The third, witness called by Sir Walter Cowdray was
 the little Catholic clergyman, so little, compared with the others,
 that his head seemed hardly to come above the box, so that it was like
-cross-examining a child.  But unfortunately Sir Walter had somehow
+[[Cross|cross]]-examining a [[Child|child]].  But unfortunately Sir Walter had somehow
 got it into his head (mostly by some ramifications of his family's religion)
-that Father Brown was on the side of the prisoner, because the prisoner
+that [[Father Brown]] was on the side of the prisoner, because the prisoner
 was wicked and foreign and even partly black.  Therefore he
-took Father Brown up sharply whenever that proud pontiff tried
+took [[Father Brown]] up sharply whenever that proud pontiff tried
 to explain anything; and told him to answer yes or no, and tell
-the plain facts without any jesuitry.  When Father Brown began,
+the plain facts without any jesuitry.  When [[Father Brown]] began,
 in his simplicity, to say who he thought the man in the passage was,
 the barrister told him that he did not want his theories.
 
      "A black shape was seen in the passage.  And you say you saw
-the black shape.  Well, what shape was it?"
+the black shape.  [[Well]], what shape was it?"
 
-     Father Brown blinked as under rebuke; but he had long known
-the literal nature of obedience.  "The shape," he said, "was short
+     [[Father Brown]] blinked as under rebuke; but he had long known
+the literal [[Nature|nature]] of obedience.  "The shape," he said, "was short
 and thick, but had two sharp, black projections curved upwards
 on each side of the head or top, rather like horns, and--"
 
-     "Oh! the devil with horns, no doubt," ejaculated Cowdray,
+     "Oh! the devil with horns, no [[Doubt|doubt]]," ejaculated Cowdray,
 sitting down in triumphant jocularity.  "It was the devil come
 to eat Protestants."
 
      "No," said the priest dispassionately; "I know who it was."
 
-     Those in court had been wrought up to an irrational,
+     Those in [[Court|court]] had been wrought up to an irrational,
 but real sense of some monstrosity.  They had forgotten the figure
 in the dock and thought only of the figure in the passage. 
 And the figure in the passage, described by three capable
-and respectable men who had all seen it, was a shifting nightmare:
+and respectable men who had all seen it, was a shifting [[nightmare]]:
 one called it a woman, and the other a beast, and the other a devil....
 
-     The judge was looking at Father Brown with level and piercing eyes. 
+     The judge was looking at [[Father Brown]] with level and piercing eyes. 
 "You are a most extraordinary witness," he said; "but there is something
-about you that makes me think you are trying to tell the truth. 
-Well, who was the man you saw in the passage?"
+about you that makes me think you are trying to tell the [[Truth|truth]]. 
+[[Well]], who was the man you saw in the passage?"
 
-     "He was myself," said Father Brown.
+     "He was myself," said [[Father Brown]].
 
      Butler, K.C., sprang to his feet in an extraordinary stillness,
-and said quite calmly:  "Your lordship will allow me to cross-examine?"
+and said quite calmly:  "Your lordship will allow me to [[Cross|cross]]-examine?"
 And then, without stopping, he shot at Brown the apparently
 disconnected question:  "You have heard about this dagger;
 you know the experts say the crime was committed with a short blade?"
@@ -652,7 +652,7 @@ just when she'd sent for me to settle their family troubles--
 and I came just too late, God forgive me!  But he died penitent--
 he just died of being penitent.  He couldn't bear what he'd done."
 
-     The general impression in court was that the little priest,
+     The general impression in [[Court|court]] was that the little priest,
 who was gobbling away, had literally gone mad in the box. 
 But the judge still looked at him with bright and steady eyes of interest;
 and the counsel for the defence went on with his questions unperturbed.
@@ -670,13 +670,13 @@ of the prisoner's room and lunged with the spear."
 
      "A panel?" repeated the barrister in a curious voice.
 
-     "It was a looking-glass on the other side," explained Father Brown. 
+     "It was a looking-glass on the other side," explained [[Father Brown]]. 
 "When I was in the dressing-room I noticed that some of them
 could probably be slid out into the passage."
 
-     There was another vast and unnatural silence, and this time
+     There was another vast and unnatural [[Silence|silence]], and this [[Time|time]]
 it was the judge who spoke.  "So you really mean that when you
-looked down that passage, the man you saw was yourself--in a mirror?"
+looked down that passage, the man you saw was yourself--in a [[Mirror|mirror]]?"
 
      "Yes, my lord; that was what I was trying to say," said Brown,
 "but they asked me for the shape; and our hats have corners
@@ -688,7 +688,7 @@ when Sir Wilson Seymour saw that wild what-you-call-him with curves
 and a woman's hair and a man's trousers, what he saw was
 Sir Wilson Seymour?"
 
-     "Yes, my lord," said Father Brown.
+     "Yes, my lord," said [[Father Brown]].
 
      "And you mean to say that when Captain Cutler saw that chimpanzee
 with humped shoulders and hog's bristles, he simply saw himself?"
@@ -700,7 +700,7 @@ it was hard to separate the cynicism and the admiration.
 "And can you tell us why," he asked, "you should know your own figure
 in a looking-glass, when two such distinguished men don't?"
 
-     Father Brown blinked even more painfully than before;
+     [[Father Brown]] blinked even more painfully than before;
 then he stammered:  "Really, my lord, I don't know unless it's because
 I don't look at it so often."
 

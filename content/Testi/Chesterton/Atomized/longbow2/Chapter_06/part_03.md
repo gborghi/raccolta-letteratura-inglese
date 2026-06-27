@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 6 (part 3)"
+title: "[[longbow2]] — Chapter 6 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The Professor had begun, as he always began, by saying that it was
+[[The Professor]] had begun, as he always began, by saying that it was
 quite easy to explain; which was doubtless true, as he was always
 explaining it.  But he often ended by affirming fallaciously that it
 was quite easy to understand, and it would be an exaggeration to say
@@ -22,7 +22,7 @@ that it was always understood.  Anyhow, he was just about to read
 his great paper on his great theory at the great Astronomical Congress
 that was to be held that year at Bath; which was one reason why he
 had pitched his astronomical camp, or emplaced his astronomical gun,
-in the house of Farmer Dale on the hills of Somerset.  Mr. Enoch Oates
+in the [[house]] of Farmer Dale on the hills of Somerset.  Mr. Enoch Oates
 could not but feel the lingering hesitation of the landlord when he
 heard that his proteges the Dales were about to admit an unknown
 stranger into their household.  But Pierce sternly reminded him
@@ -42,11 +42,11 @@ rallied him about the theory.  "It is only the proof that is,
 of course, a trifle technical.  Put in a very crude and popular shape,
 it depends on the mathematical formula for the inversion of the sphere."
 
-"What we call turning the world upside down," said Pierce. 
+"What we call turning the [[World Upside Down|world upside down]]," said Pierce. 
 "I'm all in favour of it."
 
 "Everyone knows the idea of relativity applied to motion," went on
-the Professor.  "When you run out of a village in a motor-car,
+[[The Professor|the Professor]].  "When you run out of a village in a motor-car,
 you might say that the village runs away from you."
 
 "The village does run away when Pierce is out motoring," remarked Crane. 
@@ -56,7 +56,7 @@ them with an aeroplane."
 "Indeed?" said the astronomer with some interest.  "An aeroplane
 would make an even better working model.  Compare the movement
 of an aeroplane with what we call merely for convenience the fixity
-of the fixed stars."
+of the fixed [[Stars|stars]]."
 
 "I dare say they got a bit unfixed when Pierce bumped into them,"
 said the Colonel.
@@ -65,7 +65,7 @@ Professor Green sighed in a sad but patient spirit.  He could not help
 being a little disappointed even with the most intelligent outsiders
 with whom he conversed.  Their remarks were pointed but hardly
 to the point.  He felt more and more that he really preferred those
-who made no remarks.  The flowers and the trees made no remarks;
+who made no remarks.  The [[Flowers|flowers]] and the trees made no remarks;
 they stood in rows and allowed him to lecture to them for hours
 on the fallacies of accepted astronomy.  The cow made no remarks. 
 The girl who milked the cow made no remarks; or, if she did,
@@ -90,32 +90,32 @@ that he was the schoolmaster who was being taught.
 The earth and the sky were already beginning to be enriched
 with evening; the blue was already almost a glow like apple-green
 behind the line of branching apple-trees; against it the bulk
-of the farm stood in a darker outline, and for the first time
+of the farm stood in a darker outline, and for the first [[Time|time]]
 he realized something quaint or queer added to that outline by
-his own big telescope stuck up like a gun pointed at the moon. 
+his own big telescope stuck up like a gun pointed at the [[Moon|moon]]. 
 Somehow it looked, he could not tell why, like the beginning
 of a story.  The hollyhocks also looked incredibly tall. 
-To see what he would have called "flowers" so tall as that seemed
+To see what he would have called "[[Flowers|flowers]]" so tall as that seemed
 like seeing a daisy or a dandelion as large as a lamp-post. He
 was positive there was nothing exactly like it in Bloomsbury. 
-These tall flowers also looked like the beginning of a story--
+These tall [[Flowers|flowers]] also looked like the beginning of a story--
 the story of Jack and the Beanstalk.  Though he knew little enough
 of what influences were slowly sinking into him, he felt something
-apt in the last memory.  Whatever was moving within him was something
+apt in the last [[Memory|memory]].  Whatever was moving within him was something
 very far back, something that came before reading and writing. 
 He had some dream, as from a previous life, of dark streaks of field
-under stormy clouds of summer and the sense that the flowers to be
-found there were things like gems.  He was in that country home
-that every cockney child feels he has always had and never visited.
+under stormy clouds of [[Summer|summer]] and the sense that the [[Flowers|flowers]] to be
+found there were things like gems.  He was in that country [[Home|home]]
+that every cockney [[Child|child]] feels he has always had and never visited.
 
-"I have to read my paper to-night," he said abruptly.  "I really
+"I have to read my paper to-[[Night|night]]," he said abruptly.  "I really
 ought to be thinking about it."
 
-"I do hope it will be a success," said the girl; "but I rather
+"I do [[Hope|hope]] it will be a [[success]]," said the girl; "but I rather
 thought you were always thinking about it."
 
-"Well, I was--generally," he said in a rather dazed fashion;
-and indeed it was probably the first time that he had ever found
+"[[Well]], I was--generally," he said in a rather dazed fashion;
+and indeed it was probably the first [[Time|time]] that he had ever found
 himself fully conscious of not thinking about it.  Of what he was
 thinking about he was by no means fully conscious.
 

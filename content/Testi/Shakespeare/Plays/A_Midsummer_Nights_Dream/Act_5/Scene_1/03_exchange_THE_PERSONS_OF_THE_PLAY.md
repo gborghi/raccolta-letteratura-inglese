@@ -16,15 +16,15 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | THE PERSONS OF THE | PLAY |
-| KING JOHN | of England |
-| QUEEN | ELEANOR, his mother |
-| LADY FALCONBRIDGE | Philip the BASTARD, later knighted as Sir Richard Plantagenet, her illegitimate son by King Richard I (Coeur-de-lion) Robert FALCONBRIDGE, her legitimate son James GURNEY, her attendant |
+| [[King John|KING JOHN]] | of England |
+| [[Queen|QUEEN]] | [[Eleanor|ELEANOR]], his mother |
+| LADY FALCONBRIDGE | [[Philip the Bastard|Philip the BASTARD]], later knighted as Sir [[Richard]] Plantagenet, her illegitimate son by [[King]] [[Richard]] I (Coeur-de-[[Lion|lion]]) Robert FALCONBRIDGE, her legitimate son James GURNEY, her attendant |
 | *(didascalia)* | Lady |
-| BLANCHE | of Spain, niece of King John |
-| PRINCE | HENRY, son of King John HUBERT, a follower of King John Earl of SALISBURY Earl of PEMBROKE Earl of ESSEX Lord BIGOT |
-| KING PHILIP | of France |
-| LOUIS THE | DAUPHIN, his son ARTHUR, Duke of Brittaine, nephew of King John Lady coNSTANCE, his mother Duke of AUSTRIA (Limoges) CHÂTILLON, ambassador from France to England Count MELUN |
+| BLANCHE | of Spain, niece of [[King John]] |
+| PRINCE | HENRY, son of [[King John]] [[Hubert|HUBERT]], a follower of [[King John]] [[Earl of Salisbury|Earl of SALISBURY]] Earl of PEMBROKE Earl of ESSEX Lord BIGOT |
+| [[King|KING]] PHILIP | of France |
+| LOUIS THE | [[Dauphin|DAUPHIN]], his son [[arthur|ARTHUR]], Duke of Brittaine, nephew of [[King John]] Lady [[Constance|coNSTANCE]], his mother Duke of AUSTRIA (Limoges) CHÂTILLON, ambassador from France to England Count MELUN |
 | *(didascalia)* | A |
 | CITIZEN | of Angers Cardinal PANDOLF, a legate from the Pope |
-| PETER OF | POMFRET, a prophet |
+| PETER OF | POMFRET, a [[Prophet|prophet]] |
 | SHERIFF | Lords, soldiers, attendants |

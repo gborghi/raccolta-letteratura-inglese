@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — PATRIOTISM AND SPORT"
+title: "[[AllThingsConsidered-8]] — PATRIOTISM AND SPORT"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -22,11 +22,11 @@ patriotic, have fallen into quite a panic over the fact that we
 have been twice beaten in the world of sport, that a Frenchman has
 beaten us at golf, and that Belgians have beaten us at rowing.
 I suppose that the incidents are important to any people who ever
-believed in the self-satisfied English legend on this subject.
+believed in the [[Self|self]]-satisfied English legend on this subject.
 I suppose that there are men who vaguely believe that we could
 never be beaten by a Frenchman, despite the fact that we have
 often been beaten by Frenchmen, and once by a Frenchwoman.
-In the old pictures in _Punch_ you will find a recurring piece of satire.
+In the old pictures in _Punch_ you will find a recurring piece of [[Satire|satire]].
 The English caricaturists always assumed that a Frenchman could not ride
 to hounds or enjoy English hunting.  It did not seem to occur to them
 that all the people who founded English hunting were Frenchmen.
@@ -55,17 +55,17 @@ never depended upon any of these things; that the glory of England has
 never had anything to do with them, except in the opinion of a large
 section of the rich and a loose section of the poor which copies
 the idleness of the rich.  These people will, of course, think too
-much of our failure, just as they thought too much of our success.
+much of our failure, just as they thought too much of our [[success]].
 The typical Jingoes who have admired their countrymen too much for
 being conquerors will, doubtless, despise their countrymen too much
 for being conquered.  But the Englishman with any feeling for England
 will know that athletic failures do not prove that England is weak,
 any more than athletic successes proved that England was strong.
-The truth is that athletics, like all other things, especially modern,
+The [[Truth|truth]] is that athletics, like all other things, especially modern,
 are insanely individualistic.  The Englishmen who win sporting prizes
 are exceptional among Englishmen, for the simple reason that they
 are exceptional even among men.  English athletes represent England
-just about as much as Mr. Barnum's freaks represent America.
+just about as much as Mr. Barnum's freaks represent [[america|America]].
 There are so few of such people in the whole world that it is almost
 a toss-up whether they are found in this or that country.
 
@@ -75,7 +75,7 @@ they are generally not Englishmen at all.  Nay, they are often
 representatives of races of which the average tone is specially
 incompatible with athletics.  For instance, the English are supposed
 to rule the natives of India in virtue of their superior hardiness,
-superior activity, superior health of body and mind.
+superior activity, superior health of [[Body|body]] and mind.
 The Hindus are supposed to be our subjects because they are less
 fond of action, less fond of openness and the open air.  In a word,
 less fond of cricket.  And, substantially, this is probably true,
@@ -89,7 +89,7 @@ good prize-fighters, one or two have been Jews.
 
 This is one of the strongest instances of the particular kind of evil
 that arises from our English form of the worship of athletics.
-It concentrates too much upon the success of individuals.
+It concentrates too much upon the [[success]] of individuals.
 It began, quite naturally and rightly, with wanting England to win.
 The second stage was that it wanted some Englishmen to win.
 The third stage was (in the ecstasy and agony of some special competition)
@@ -129,7 +129,7 @@ of athletic instincts and habits.
 
 It is a good sign in a nation when such things are done badly.
 It shows that all the people are doing them.  And it is a bad sign
-in a nation when such things are done very well, for it shows that only
+in a nation when such things are done very [[Well|well]], for it shows that only
 a few experts and eccentrics are doing them, and that the nation is
 merely looking on.  Suppose that whenever we heard of walking in England
 it always meant walking forty-five miles a day without fatigue.
@@ -155,7 +155,7 @@ and efficient it lost Magersfontein.
 
 In the Waterloo period there was a general rough-and-tumble athleticism
 among average Englishmen.  It cannot be re-created by cricket, or by
-conscription, or by any artificial means.  It was a thing of the soul.
+conscription, or by any artificial means.  It was a thing of the [[Soul|soul]].
 It came out of laughter, religion, and the spirit of the place.
 But it was like the modern French duel in this--that it might happen
 to anybody.  If I were a French journalist it might really happen

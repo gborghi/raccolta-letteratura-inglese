@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 5 (part 4)"
+title: "[[Great Expectations]] — Chapter 5 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 After an hour or so of this travelling, we came to a rough wooden hut
 and a landing-place. There was a guard in the hut, and they challenged,
 and the sergeant answered. Then, we went into the hut, where there was
-a smell of tobacco and whitewash, and a bright fire, and a lamp, and a
+a smell of tobacco and whitewash, and a bright [[Fire|fire]], and a lamp, and a
 stand of muskets, and a drum, and a low wooden bedstead, like an
 overgrown mangle without the machinery, capable of holding about a
 dozen soldiers all at once. Three or four soldiers who lay upon it in
@@ -28,7 +28,7 @@ convict whom I call the other convict was drafted off with his guard,
 to go on board first.
 
 My convict never looked at me, except that once. While we stood in the
-hut, he stood before the fire looking thoughtfully at it, or putting up
+hut, he stood before the [[Fire|fire]] looking thoughtfully at it, or putting up
 his feet by turns upon the hob, and looking thoughtfully at them as if
 he pitied them for their recent adventures. Suddenly, he turned to the
 sergeant, and remarked,—
@@ -68,7 +68,7 @@ Than I’m sorry to say, I’ve eat your pie.”
 
 “God knows you’re welcome to it,—so far as it was ever mine,” returned
 Joe, with a saving remembrance of Mrs. Joe. “We don’t know what you
-have done, but we wouldn’t have you starved to death for it, poor
+have done, but we wouldn’t have you starved to [[Death|death]] for it, poor
 miserable fellow-creatur.—Would us, Pip?”
 
 The something that I had noticed before, clicked in the man’s throat
@@ -77,12 +77,12 @@ were ready, so we followed him to the landing-place made of rough
 stakes and stones, and saw him put into the boat, which was rowed by a
 crew of convicts like himself. No one seemed surprised to see him, or
 interested in seeing him, or glad to see him, or sorry to see him, or
-spoke a word, except that somebody in the boat growled as if to dogs,
+spoke a word, except that somebody in the boat growled as if to [[dogs]],
 “Give way, you!” which was the signal for the dip of the oars. By the
 light of the torches, we saw the black Hulk lying out a little way from
 the mud of the shore, like a wicked Noah’s ark. Cribbed and barred and
-moored by massive rusty chains, the prison-ship seemed in my young eyes
+moored by massive rusty [[Chains|chains]], the [[Prison|prison]]-[[Ship|ship]] seemed in my young eyes
 to be ironed like the prisoners. We saw the boat go alongside, and we
 saw him taken up the side and disappear. Then, the ends of the torches
-were flung hissing into the water, and went out, as if it were all over
+were flung hissing into the [[Water|water]], and went out, as if it were all over
 with him.

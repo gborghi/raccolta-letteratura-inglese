@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 24 (part 2)"
+title: "[[The Professor]] — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,7 +24,7 @@ see her--but----.” He hesitated.
 
 
 
-“Well?”
+“[[Well]]?”
 
 
 
@@ -32,7 +32,7 @@ see her--but----.” He hesitated.
 
 
 
-“Come, then,” said I. We set out. Hunsden no doubt regarded me as a
+“Come, then,” said I. We set out. Hunsden no [[Doubt|doubt]] regarded me as a
 
 rash, imprudent man, thus to show my poor little grisette sweetheart,
 
@@ -44,7 +44,7 @@ harsh husk it pleased him to wear by way of mental mackintosh. He talked
 
 affably, and even gently, as we went along the street; he had never been
 
-so civil to me in his life. We reached the house, entered, ascended the
+so civil to me in his life. We reached the [[house]], entered, ascended the
 
 stair; on gaining the lobby, Hunsden turned to mount a narrower stair
 
@@ -62,13 +62,13 @@ nothing.
 
 
 
-We walked in, and Frances rose from her seat near the table to receive
+We walked in, and Frances [[Rose|rose]] from her seat near the table to receive
 
 us; her mourning attire gave her a recluse, rather conventual, but
 
-withal very distinguished look; its grave simplicity added nothing
+withal very distinguished look; its [[Grave|grave]] simplicity added nothing
 
-to beauty, but much to dignity; the finish of the white collar and
+to [[Beauty|beauty]], but much to dignity; the finish of the white collar and
 
 manchettes sufficed for a relief to the merino gown of solemn black;
 
@@ -76,7 +76,7 @@ ornament was forsworn. Frances curtsied with sedate grace, looking, as
 
 she always did, when one first accosted her, more a woman to respect
 
-than to love; I introduced Mr. Hunsden, and she expressed her happiness
+than to [[Love|love]]; I introduced Mr. Hunsden, and she expressed her happiness
 
 at making his acquaintance in French. The pure and polished accent, the
 
@@ -84,7 +84,7 @@ low yet sweet and rather full voice, produced their effect immediately;
 
 Hunsden spoke French in reply; I had not heard him speak that language
 
-before; he managed it very well. I retired to the window-seat; Mr.
+before; he managed it very [[Well|well]]. I retired to the [[Window|window]]-seat; Mr.
 
 Hunsden, at his hostess’s invitation, occupied a chair near the hearth;
 
@@ -92,9 +92,9 @@ from my position I could see them both, and the room too, at a glance.
 
 The room was so clean and bright, it looked like a little polished
 
-cabinet; a glass filled with flowers in the centre of the table, a
+cabinet; a glass filled with [[Flowers|flowers]] in the centre of the table, a
 
-fresh rose in each china cup on the mantelpiece gave it an air of FETE.
+fresh [[Rose|rose]] in each china cup on the mantelpiece gave it an air of FETE.
 
 Frances was serious, and Mr. Hunsden subdued, but both mutually polite;
 
@@ -110,7 +110,7 @@ with a care that forbade any eccentricity. At last England was
 
 mentioned, and Frances proceeded to ask questions. Animated by degrees,
 
-she began to change, just as a grave night-sky changes at the approach
+she began to change, just as a [[Grave|grave]] [[Night|night]]-sky changes at the approach
 
 of sunrise: first it seemed as if her forehead cleared, then her eyes
 
@@ -126,7 +126,7 @@ She had many things to say to the Englishman just fresh from his
 
 island-country, and she urged him with an enthusiasm of curiosity, which
 
-ere long thawed Hunsden’s reserve as fire thaws a congealed viper. I use
+ere long thawed Hunsden’s reserve as [[Fire|fire]] thaws a congealed viper. I use
 
 this not very flattering comparison because he vividly reminded me of a
 
@@ -134,11 +134,11 @@ snake waking from torpor, as he erected his tall form, reared his head,
 
 before a little declined, and putting back his hair from his broad Saxon
 
-forehead, showed unshaded the gleam of almost savage satire which his
+forehead, showed unshaded the gleam of almost savage [[Satire|satire]] which his
 
 interlocutor’s tone of eagerness and look of ardour had sufficed at
 
-once to kindle in his soul and elicit from his eyes: he was himself;
+once to kindle in his [[Soul|soul]] and elicit from his eyes: he was himself;
 
 as Frances was herself, and in none but his own language would he now
 
@@ -154,7 +154,7 @@ address her.
 
 
 
-“Well, then, you shall have plenty of it; and first, I see you’ve not
+“[[Well]], then, you shall have plenty of it; and first, I see you’ve not
 
 much more sense than some others of my acquaintance” (indicating me
 
@@ -186,9 +186,9 @@ of Swiss sibyl, with high Tory and high Church principles!”
 
 
 
-“I’d be sorry to like it! A little corrupt, venal, lord-and-king-cursed
+“I’d be sorry to like it! A little corrupt, venal, lord-and-[[King|king]]-cursed
 
-nation, full of mucky pride (as they say in ----shire), and helpless
+nation, full of mucky [[Pride|pride]] (as they say in ----shire), and helpless
 
 pauperism; rotten with abuses, worm-eaten with prejudices!”
 
@@ -202,11 +202,11 @@ everywhere, and I thought fewer in England than in other countries.”
 
 “Come to England and see. Come to Birmingham and Manchester; come to St.
 
-Giles’ in London, and get a practical notion of how our system works.
+Giles’ in [[London]], and get a practical notion of how our system works.
 
 Examine the footprints of our august aristocracy; see how they walk
 
-in blood, crushing hearts as they go. Just put your head in at English
+in [[Blood|blood]], crushing hearts as they go. Just put your head in at English
 
 cottage doors; get a glimpse of Famine crouched torpid on black
 
@@ -234,6 +234,6 @@ knowledge; for you cannot appreciate the efforts of industry, the
 
 achievements of enterprise, or the discoveries of science: narrowness
 
-of education and obscurity of position quite incapacitate you
+of [[Education|education]] and obscurity of position quite incapacitate you
 
 from understanding these points; and as to historical and poetical

@@ -15,26 +15,26 @@ tags:
 
 
 “I repeated the medicines I had given her, and I sat at the side of
-the bed until the night was far advanced. She never abated the piercing
+the bed until the [[Night|night]] was far advanced. She never abated the piercing
 quality of her shrieks, never stumbled in the distinctness or the order
 of her words. They were always ‘My husband, my father, and my brother!
 One, two, three, four, five, six, seven, eight, nine, ten, eleven,
 twelve. Hush!’
 
-“This lasted twenty-six hours from the time when I first saw her. I had
+“This lasted twenty-six hours from the [[Time|time]] when I first saw her. I had
 come and gone twice, and was again sitting by her, when she began to
 falter. I did what little could be done to assist that opportunity, and
 by-and-bye she sank into a lethargy, and lay like the dead.
 
-“It was as if the wind and rain had lulled at last, after a long and
-fearful storm. I released her arms, and called the woman to assist me to
+“It was as if the [[Wind|wind]] and rain had lulled at last, after a long and
+fearful [[Storm|storm]]. I released her arms, and called the woman to assist me to
 compose her figure and the dress she had torn. It was then that I knew
 her condition to be that of one in whom the first expectations of being
-a mother have arisen; and it was then that I lost the little hope I had
+a mother have arisen; and it was then that I lost the little [[Hope|hope]] I had
 had of her.
 
 “‘Is she dead?’ asked the Marquis, whom I will still describe as the
-elder brother, coming booted into the room from his horse.
+elder brother, coming booted into the room from his [[Horse|horse]].
 
 “‘Not dead,’ said I; ‘but like to die.’
 
@@ -42,7 +42,7 @@ elder brother, coming booted into the room from his horse.
 at her with some curiosity.
 
 “‘There is prodigious strength,’ I answered him, ‘in sorrow and
-despair.’
+[[Despair|despair]].’
 
 “He first laughed at my words, and then frowned at them. He moved a
 chair with his foot near to mine, ordered the woman away, and said in a
@@ -56,7 +56,7 @@ and not spoken of.’
 
 “I listened to the patient’s breathing, and avoided answering.
 
-“‘Do you honour me with your attention, Doctor?’
+“‘Do you [[Honour|honour]] me with your attention, Doctor?’
 
 “‘Monsieur,’ said I, ‘in my profession, the communications of patients
 are always received in confidence.’ I was guarded in my answer, for I
@@ -71,7 +71,7 @@ resumed my seat, I found both the brothers intent upon me.
 “I write with so much difficulty, the cold is so severe, I am so
 fearful of being detected and consigned to an underground cell and total
 darkness, that I must abridge this narrative. There is no confusion or
-failure in my memory; it can recall, and could detail, every word that
+failure in my [[Memory|memory]]; it can recall, and could detail, every word that
 was ever spoken between me and those brothers.
 
 “She lingered for a week. Towards the last, I could understand some few
@@ -88,7 +88,7 @@ the curtain at the head of the bed when I was there. But when it came to
 that, they seemed careless what communication I might hold with her; as
 if--the thought passed through my mind--I were dying too.
 
-“I always observed that their pride bitterly resented the younger
+“I always observed that their [[Pride|pride]] bitterly resented the younger
 brother’s (as I call him) having crossed swords with a peasant, and that
 peasant a boy. The only consideration that appeared to affect the mind
 of either of them was the consideration that this was highly degrading
@@ -98,13 +98,13 @@ for knowing what I knew from the boy. He was smoother and more polite to
 me than the elder; but I saw this. I also saw that I was an incumbrance
 in the mind of the elder, too.
 
-“My patient died, two hours before midnight--at a time, by my watch,
-answering almost to the minute when I had first seen her. I was alone
+“My patient died, two hours before midnight--at a [[Time|time]], by my watch,
+answering almost to the minute when I had first seen her. I was [[Alone|alone]]
 with her, when her forlorn young head drooped gently on one side, and
 all her earthly wrongs and sorrows ended.
 
 “The brothers were waiting in a room down-stairs, impatient to ride
-away. I had heard them, alone at the bedside, striking their boots with
+away. I had heard them, [[Alone|alone]] at the bedside, striking their boots with
 their riding-whips, and loitering up and down.
 
 “‘At last she is dead?’ said the elder, when I went in.
@@ -131,9 +131,9 @@ have written with this gaunt hand.
 “Early in the morning, the rouleau of gold was left at my door in a
 little box, with my name on the outside. From the first, I had anxiously
 considered what I ought to do. I decided, that day, to write privately
-to the Minister, stating the nature of the two cases to which I had been
+to the Minister, stating the [[Nature|nature]] of the two cases to which I had been
 summoned, and the place to which I had gone: in effect, stating all the
-circumstances. I knew what Court influence was, and what the immunities
+circumstances. I knew what [[Court]] influence was, and what the immunities
 of the Nobles were, and I expected that the matter would never be
 heard of; but, I wished to relieve my own mind. I had kept the matter a
 profound secret, even from my wife; and this, too, I resolved to state

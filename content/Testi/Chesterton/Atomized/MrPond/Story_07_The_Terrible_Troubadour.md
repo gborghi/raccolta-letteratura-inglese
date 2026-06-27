@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Terrible Troubadour"
+title: "[[MrPond]] — The Terrible Troubadour"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/MrPond-(Chesterton)"
@@ -20,7 +20,7 @@ THE TERRIBLE TROUBADOUR
 
 
 
-"In nature you must go very low to find things that go so high."
+"In [[Nature|nature]] you must go very low to find things that go so high."
 
 
 
@@ -194,7 +194,7 @@ rope-ladder and ends with a rope."
 
 Mr. Pond, as he heard the unequal step of his lame friend echoing
 
-away down the paved paths of the garden, relapsed into a gloomy
+away down the paved paths of the [[Garden|garden]], relapsed into a gloomy
 
 mood.  He was quite willing to accept his medical friend merely as
 
@@ -206,13 +206,13 @@ Cyprian was going to tell, it was another story against his
 
 unfortunate friend Peter Gahagan.  And Gahagan was so very
 
-unfortunate as to suggest to some a wild doubt about whether he was
+unfortunate as to suggest to some a wild [[Doubt|doubt]] about whether he was
 
 merely unfortunate.  Some had the sudden and horrible thought that,
 
 perhaps, he was fortunate.  Twice before, he had been mixed up in
 
-matters involving a mysterious and violent death; with, at least, a
+matters involving a mysterious and violent [[Death|death]]; with, at least, a
 
 savour of murder.  In both cases he had been cleared.  But three is
 
@@ -226,7 +226,7 @@ his frankness and fair-mindedness.
 
 
 
-Mr. Pond would never, at any time, have stooped to the stupid idea
+Mr. Pond would never, at any [[Time|time]], have stooped to the stupid idea
 
 that clergymen are stupid.  He did not take his ideas of real life
 
@@ -242,11 +242,11 @@ countryside with him in an indescribable suggestion of depth and
 
 background; he could not talk of common things without, somehow,
 
-suggesting the weather or the turn of night or day; he was a born
+suggesting the weather or the turn of [[Night|night]] or day; he was a born
 
-descriptive writer who only talked.  But nobody could doubt that it
+descriptive writer who only talked.  But nobody could [[Doubt|doubt]] that it
 
-was truth; or, at least, truthfulness.
+was [[Truth|truth]]; or, at least, truthfulness.
 
 
 
@@ -290,7 +290,7 @@ spot.
 
 
 
-Mr. Pond's friend, Sir Hubert Wotton, the well-known diplomatist,
+Mr. Pond's friend, Sir [[Hubert]] Wotton, the [[Well|well]]-known diplomatist,
 
 took the chair; but Mr. Little did not mind who took chairs so long
 
@@ -302,7 +302,7 @@ as he took charge.
 
 special assurance would have induced me to place my client's case
 
-before it.  Sir Hubert and Mr. Pond declare, I understand, that an
+before it.  Sir [[Hubert]] and Mr. Pond declare, I understand, that an
 
 explanation will be demanded here and now."
 
@@ -326,7 +326,7 @@ His friend, Wotton, looked at Pond for a moment with a frosty stare
 
 of surprise; but he stared a great deal more when he was startled
 
-by Gahagan himself, speaking, suddenly, for the first and last time
+by Gahagan himself, speaking, suddenly, for the first and last [[Time|time]]
 
 in all the first hours of the interview.
 
@@ -360,29 +360,29 @@ supervision.  But even as he heard it again in more exact form, he
 
 could not get rid of a feeling that the scene described was
 
-unnaturally vivid to him, but with the vividness of a nightmare.
+unnaturally vivid to him, but with the vividness of a [[nightmare]].
 
 
 
 There was no particular reason, at that stage, for comparing the
 
-story to a nightmare; except that the two principal incidents
+story to a [[nightmare]]; except that the two principal incidents
 
-happened at night.
+happened at [[Night|night]].
 
 
 
-They happened in the vicar's garden, close to the balcony of the
+They happened in the vicar's [[Garden|garden]], close to the balcony of the
 
-vicar's house; and perhaps the impression, which was rather like an
+vicar's [[house]]; and perhaps the impression, which was rather like an
 
-oppression, was somehow connected with another night darkening the
+oppression, was somehow connected with another [[Night|night]] darkening the
 
-night; a living night of vegetation; for it was suggested,
+[[Night|night]]; a living [[Night|night]] of vegetation; for it was suggested,
 
 throughout, that the balcony was loaded with pots and palms and
 
-clutched by climbing plants with heavy and pendent leaves.
+clutched by climbing plants with heavy and pendent [[Leaves|leaves]].
 
 
 
@@ -398,7 +398,7 @@ his creed of blind growth and a groping life-force in a godless
 
 dark; for Green developed his view of development with every fancy
 
-from botany as well as biology.
+from botany as [[Well|well]] as biology.
 
 
 
@@ -410,11 +410,11 @@ to describe in detail.  For the vicar had been obliged to explain,
 
 on both occasions, in order to make his tale intelligible, that the
 
-front of the balcony was scaled from below by a titanic, tropical
+front of the balcony was scaled from below by a [[titanic]], tropical
 
 creeper, with ribbed and interlaced limbs and large, fantastic
 
-leaves.  It is not altogether an exaggeration to say that the
+[[Leaves|leaves]].  It is not altogether an exaggeration to say that the
 
 creeper was the principal character in the story.
 
@@ -422,21 +422,21 @@ creeper was the principal character in the story.
 
 "This business happened during the Great War," explained the
 
-clergyman, "when my daughter and I were living in my house at
+clergyman, "when my daughter and I were living in my [[house]] at
 
 Hanging Burgess.  But the two houses on each side of us were empty,
 
-due to the drainage of human material common at the time.  At
+due to the drainage of human material common at the [[Time|time]].  At
 
 least, they were both empty for a considerable period, though they
 
-were handsome houses with large gardens, sloping down to the river.
+were handsome houses with large gardens, sloping down to the [[River|river]].
 
 Then my friend Dr. Green came down to be my next-door neighbour and
 
 prosecute his scientific researches in a quiet place.  He was
 
-writing a book, you know, on the domestication of animals; dogs and
+writing a book, you know, on the domestication of [[Animals|animals]]; [[dogs]] and
 
 cats and pet marmosets and monkeys, and so on; and my daughter, who
 
@@ -444,21 +444,21 @@ is interested in such pets, helped him a little with his work.
 
 
 
-"It is a happy time to look back upon, for us who were old cronies;
+"It is a happy [[Time|time]] to look back upon, for us who were old cronies;
 
-perhaps because it was a quiet time.
-
-
-
-"And then our solitude was broken, as it seemed by accident, and
-
-all the trouble and tragedy began.
+perhaps because it was a quiet [[Time|time]].
 
 
 
-"First of all, a young artist of the name of Albert Ayres rented
+"And then our [[Solitude|solitude]] was broken, as it seemed by accident, and
 
-the house next door, though he seemed to want it mostly for a base
+all the trouble and [[Tragedy|tragedy]] began.
+
+
+
+"First of all, a young [[artist]] of the name of Albert Ayres rented
+
+the [[house]] next door, though he seemed to want it mostly for a base
 
 in which to leave his baggage, for he was wandering over the
 
@@ -470,13 +470,13 @@ straight away next morning on one of his sketching tours.  I mean
 
 that we cannot, in any case, actually prove what became of him.
 
-Unfortunately, I know only too well what became of him.
+Unfortunately, I know only too [[Well|well]] what became of him.
 
 
 
 "He was an interesting individual; perhaps a little too like the
 
-old notion of an artist; the sort one can hardly call either
+old notion of an [[artist]]; the sort one can hardly call either
 
 carelessly or carefully picturesque; with a halo of yellow hair
 
@@ -490,7 +490,7 @@ relation to the war.  He had been invalided out, and what he was
 
 doing was a necessary job and not a funk-hole; and, at the moment,
 
-he was enjoying a short and very well-earned holiday.
+he was enjoying a short and very [[Well|well]]-earned holiday.
 
 
 
@@ -498,17 +498,17 @@ he was enjoying a short and very well-earned holiday.
 
 subsequent quarrel, even in the last, blackest days of hatred, and,
 
-I hope, of madness, which ended in murder, the Captain never
+I [[Hope|hope]], of [[Madness|madness]], which ended in murder, the Captain never
 
 sneered at his rival upon that point, or assumed anything like the
 
-swagger of khaki.  But, at the time, Captain Gahagan was still in
+swagger of khaki.  But, at the [[Time|time]], Captain Gahagan was still in
 
 khaki, having a very short leave from the front, which he was
 
 supposed to spend at the neighbouring inn, but did spend mostly in
 
-my house.
+my [[house]].
 
 
 
@@ -530,7 +530,7 @@ as follows:
 
 "One evening, just after sunset, or about dusk, I was walking in my
 
-garden with the doctor, and we were joined, shortly afterwards, by
+[[Garden|garden]] with the doctor, and we were joined, shortly afterwards, by
 
 Albert Ayres.  I had just asked my friend Green to drop in and take
 
@@ -570,7 +570,7 @@ had nothing to do with either lameness or Dr. Green.
 
 
 
-"In strolling round the garden we had paused under the giant
+"In strolling round the [[Garden|garden]] we had paused under the giant
 
 creeper that grows out of the flower-bed and shoots right up to the
 
@@ -580,7 +580,7 @@ luxuriousness, when we all had a sort of a shock.  For we saw the
 
 whole creeper move and twist like a monstrous serpent, in that
 
-still garden; every limb of it heaved and writhed and the whole
+still [[Garden|garden]]; every limb of it heaved and writhed and the whole
 
 framework of its foliage was shaken as by some impossibly localized
 
@@ -608,21 +608,21 @@ to receive visitors, but that they generally came in by the front
 
 door.  He asked me, in a rather brazen way, if I had no poetic
 
-sympathy with Romeo and the romance of climbing balconies.  I
+sympathy with [[Romeo]] and the [[Romance|romance]] of climbing balconies.  I
 
 preferred not to reply; but my friend, the doctor, was staring
 
 curiously at the creeper, probably in some freak of his merely
 
-botanical curiosity; and he said, with his faintly acid humour:
+botanical curiosity; and he said, with his faintly acid [[Humour|humour]]:
 
-'Isn't there rather a satire on Romeo in the fact that a weed like
+'Isn't there rather a [[Satire|satire]] on [[Romeo]] in the fact that a weed like
 
 that can climb a balcony?  It isn't quite so common to see a
 
 tropical plant ringing the bell and coming in at the front door.
 
-Climbing doesn't seem a safe way of classifying.  In nature, you
+Climbing doesn't seem a safe way of classifying.  In [[Nature|nature]], you
 
 must go very low to find things that go so high.'"
 
@@ -634,11 +634,11 @@ said was, "I thought so."
 
 
 
-"The artist named Ayres," continued the vicar, "seemed more annoyed
+"The [[artist]] named Ayres," continued the vicar, "seemed more annoyed
 
 than either of us at this absurd adventure; and his comment was
 
-really much more provocative, though he only said, coolly:  'Well,
+really much more provocative, though he only said, coolly:  '[[Well]],
 
 it looks an easy thing to climb; as easy as a great, green ladder.
 
@@ -654,23 +654,23 @@ things, that Gahagan was glaring at him, as he answered sharply:
 
 that they were both glaring at each other; and I guessed, for the
 
-first time, why they hated each other; and what was the meaning of
+first [[Time|time]], why they hated each other; and what was the meaning of
 
-that scene in my quiet garden.
+that scene in my quiet [[Garden|garden]].
 
 
 
-"Well, I will get on as quickly as I can to the culmination of
+"[[Well]], I will get on as quickly as I can to the culmination of
 
 these rash boasts, or challenges, of the two tragic rivals.  For,
 
-indeed, I do not know which of them had the worst tragedy.  Night
+indeed, I do not know which of them had the worst [[Tragedy|tragedy]].  [[Night]]
 
-had fallen and the moon had risen, though it was not very much
+had fallen and the [[Moon|moon]] had risen, though it was not very much
 
-later, cutting up the shady garden into a new pattern of shadows,
+later, cutting up the shady [[Garden|garden]] into a new pattern of shadows,
 
-when I happened to look out of my study window, which is on an
+when I happened to look out of my study [[Window|window]], which is on an
 
 upper floor.
 
@@ -680,11 +680,11 @@ upper floor.
 
 or rather howling, made me put my head, more or less carelessly,
 
-out of the window; I assumed that it was one of Dr. Green's dogs
+out of the [[Window|window]]; I assumed that it was one of Dr. Green's [[dogs]]
 
 and did not think much of the matter; subconsciously, perhaps,
 
-something spectral about the moonstruck garden and the mood that it
+something spectral about the moonstruck [[Garden|garden]] and the mood that it
 
 stirred, or some more mysterious premonition of what was to follow,
 
@@ -694,23 +694,23 @@ was.
 
 
 
-"A clear moon was rising high behind me; most of the shady garden
+"A clear [[Moon|moon]] was rising high behind me; most of the shady [[Garden|garden]]
 
 was in all the denser shade; but there were large, pale patches and
 
 squares of moonshine on the paths and the wall in front of me, cut
 
-out as sharply as the pasteboard frame of some shadow-pantomime.
+out as sharply as the pasteboard frame of some [[Shadow|shadow]]-pantomime.
 
 Perhaps the parallel seized on my fancy, partly because light and
 
-shadow were thus bent or doubled into different planes, vertical or
+[[Shadow|shadow]] were thus bent or doubled into different planes, vertical or
 
 horizontal, like the black and white paper from which children cut
 
 out the figures for such a play.  Anyhow, I did think, instantly
 
-and very vividly, of a shadow-pantomime; and, the next instant, I
+and very vividly, of a [[Shadow|shadow]]-pantomime; and, the next instant, I
 
 saw one of the pantomime figures passing in black silhouette across
 
@@ -718,15 +718,15 @@ the wall.
 
 
 
-"I knew at once whose shadow it was.  Of course, it was drawn out
+"I knew at once whose [[Shadow|shadow]] it was.  Of course, it was drawn out
 
 and distorted; you know how deceptive shadows are; but I could see
 
 the straggling tufts that reminded one of Struwwelpeter; and I
 
-think I told you before that Ayres, the artist, was a little too
+think I told you before that Ayres, the [[artist]], was a little too
 
-like the traditional artist who hasn't had his hair cut.  Also, he
+like the traditional [[artist]] who hasn't had his hair cut.  Also, he
 
 affected that sort of languid stoop that such artists assume; and
 
@@ -740,7 +740,7 @@ exaggerate.
 
 the wall; and it was even more unmistakable.  It was also more
 
-active; it was not only a shadow-pantomime but--in a pretty creepy
+active; it was not only a [[Shadow|shadow]]-pantomime but--in a pretty creepy
 
 sense--a knockabout pantomime."
 
@@ -752,17 +752,17 @@ stared at him, not because his intervention was important, but
 
 because it seemed trivial and totally unnecessary.  But before he
 
-relapsed again into silence, he added:
+relapsed again into [[Silence|silence]], he added:
 
 
 
-"The most deceptive thing about a shadow is that it may be quite
+"The most deceptive thing about a [[Shadow|shadow]] is that it may be quite
 
 accurate."
 
 
 
-"Well, really!" exploded Wotton; but his moderately mild explosion
+"[[Well]], really!" exploded Wotton; but his moderately mild explosion
 
 was overshadowed by one of the abrupt movements which once or twice
 
@@ -780,21 +780,21 @@ courtliness, and said:
 
 paradoxes.  We are all very proud of our Pond and of his paradoxes.
 
-Try them in your bath.  Pond's paradoxes are in every home.  What
+Try them in your bath.  Pond's paradoxes are in every [[Home|home]].  What
 
 would Mother do without Pond's--"
 
 
 
-"Don't be a fool, Gahagan!" said Hubert Wotton; and his voice had a
+"Don't be a [[Fool|fool]], Gahagan!" said [[Hubert]] Wotton; and his voice had a
 
 ring of steel which his friends had always respected.  There was a
 
-silence, in which Mr. Pond said simply:
+[[Silence|silence]], in which Mr. Pond said simply:
 
 
 
-"I never uttered a paradox in my life.  What I said was a truism."
+"I never uttered a [[Paradox|paradox]] in my life.  What I said was a truism."
 
 
 
@@ -820,17 +820,17 @@ flash; but the other I saw plainly enough.
 
 "The first figure, the long-haired figure I had already identified
 
-with the artist, ran very quickly across the moonlit patch and
+with the [[artist]], ran very quickly across the moonlit patch and
 
-vanished into the vast shadow of the creeper that climbed the
+vanished into the vast [[Shadow|shadow]] of the creeper that climbed the
 
-balcony; but there is no doubt that he began to climb the creeper.
+balcony; but there is no [[Doubt|doubt]] that he began to climb the creeper.
 
 
 
 "The second figure stood for a moment, staring, in the full stare
 
-of the moon; and there was no doubt about him at all.  It was
+of the [[Moon|moon]]; and there was no [[Doubt|doubt]] about him at all.  It was
 
 Captain Gahagan, in khaki, and he already had his big service
 
@@ -838,7 +838,7 @@ revolver in his hand.  In a high, unnatural voice he cried after
 
 and cursed the other unfortunate troubadour, who had climbed his
 
-romantic rope-ladder of leaves, exactly as he had climbed it
+romantic rope-ladder of [[Leaves|leaves]], exactly as he had climbed it
 
 himself.
 
@@ -846,9 +846,9 @@ himself.
 
 "At that instant the whole situation became finally clear; for I
 
-saw the hairy head of the unfortunate artist rising out of the
+saw the hairy head of the unfortunate [[artist]] rising out of the
 
-tangle of tropical leaves, in shadow, but all the more unmistakable
+tangle of tropical [[Leaves|leaves]], in [[Shadow|shadow]], but all the more unmistakable
 
 for being haloed in the moonshine.  But the same moonshine fell
 
@@ -912,15 +912,15 @@ creeper himself, though he had already shown how quickly he could
 
 do it.  Unfortunately, he did something else; which he could do
 
-much more quickly.  I saw the blue flash of the pistol-barrel in
+much more quickly.  I saw the blue flash of the [[Pistol|pistol]]-barrel in
 
-the moon, as he lifted it; and then the red flash; and then a puff
+the [[Moon|moon]], as he lifted it; and then the red flash; and then a puff
 
 of smoke detached itself and climbed the sky, like a cloud; and the
 
 man on the green ladder fell crashing like a stone through the
 
-thrashing great leaves to the dark space below.
+thrashing great [[Leaves|leaves]] to the dark space below.
 
 
 
@@ -930,15 +930,15 @@ but I knew, for all practical purposes, that the man was dead; for
 
 his slayer laid hold of one leg of the corpse and dragged it away
 
-down the darkling and descending paths of the garden.  And when I
+down the darkling and descending paths of the [[Garden|garden]].  And when I
 
 heard a distant splash, I knew he had thrown the corpse into the
 
-river.
+[[River|river]].
 
 
 
-"Well, as I told you before, that is my very serious testimony to
+"[[Well]], as I told you before, that is my very serious testimony to
 
 what I saw and knew; but I give it only from a sense of social duty
 
@@ -984,35 +984,35 @@ did not see."
 
 "You have stated it very clearly," said Mr. Pond.  "More clearly
 
-than you know.  But even on the clearest moonlight night, as we
+than you know.  But even on the clearest moonlight [[Night|night]], as we
 
 agreed, shadows can be very deceptive."
 
 
 
-"You've said that before," said Sir Hubert rather irritably.
+"You've said that before," said Sir [[Hubert]] rather irritably.
 
 
 
 "And, as I have also said before," observed the unruffled Mr. Pond,
 
-"a shadow is most misleading when it is precisely correct."
+"a [[Shadow|shadow]] is most misleading when it is precisely correct."
 
 
 
-Silence suddenly fell on the group; and the silence became more and
+[[Silence]] suddenly fell on the group; and the [[Silence|silence]] became more and
 
 more tense, for, after these random shots, which seemed so very
 
 random, fired by Mr. Pond as he retired from the argument, everyone
 
-felt that nothing could now delay the main action.  For some time
+felt that nothing could now delay the main action.  For some [[Time|time]]
 
 it looked rather like inaction; for Gahagan, who had been growing
 
 gloomier and gloomier, still sat kicking his heels, as if he had
 
-nothing to say.  And indeed, when sharply called on by Sir Hubert
+nothing to say.  And indeed, when sharply called on by Sir [[Hubert]]
 
 for his statement, he was, at first, understood to declare
 
@@ -1082,7 +1082,7 @@ was committed by a lot of poor devils on leave from hell; to whom a
 
 holiday was heaven; only it was a very earthly paradise; a little
 
-too like a Moslem paradise.  I did make love to your daughter when
+too like a Moslem paradise.  I did make [[Love|love]] to your daughter when
 
 I had no right to, for I didn't really know my own mind.  None of
 
@@ -1100,11 +1100,11 @@ paused, as with a new embarrassment.
 
 
 
-"Only my rival wasn't the artist with the long hair," said Gahagan.
+"Only my rival wasn't the [[artist]] with the long hair," said Gahagan.
 
 
 
-Hubert Wotton again looked up sharply, with a frowning stare; but
+[[Hubert]] Wotton again looked up sharply, with a frowning stare; but
 
 he spoke quietly as he directed Gahagan to tell his story properly
 
@@ -1114,15 +1114,15 @@ from the start.
 
 "I had better start," said Gahagan, "where the other story started:
 
-just about the time when we both heard the howl of a dog in the
+just about the [[Time|time]] when we both heard the howl of a dog in the
 
-dark garden.  I may explain that I was actually staying with Ayres,
+dark [[Garden|garden]].  I may explain that I was actually staying with Ayres,
 
-the artist, for that night; we had become quite good friends,
+the [[artist]], for that [[Night|night]]; we had become quite good friends,
 
 really; though there may have been a bit of romantic swagger about
 
-the troubadour business at an earlier time.
+the troubadour business at an earlier [[Time|time]].
 
 
 
@@ -1130,11 +1130,11 @@ the troubadour business at an earlier time.
 
 how I happened to be cleaning my service revolver.  Ayres was
 
-looking through some of his sketch-books; and I left him at it when
+looking through some of his [[Sketch|sketch]]-books; and I left him at it when
 
 I went out, just as Mr. Whiteways looked out, in casual curiosity,
 
-over that sudden noise in the night.  Only I heard what he did not
+over that sudden noise in the [[Night|night]].  Only I heard what he did not
 
 hear.  I not only heard what sounded like the howl of a dog, but I
 
@@ -1150,15 +1150,15 @@ the face of Paul Green, that distinguished man of science.  He is
 
 distinguished and he looks distinguished; I remember thinking, at
 
-the time, what a fine head he had, and that the silver moulding of
+the [[Time|time]], what a fine head he had, and that the silver moulding of
 
-his features under the moon made them quite beautiful.  I had a
+his features under the [[Moon|moon]] made them quite beautiful.  I had a
 
 reason for having my attention thus arrested by that silvery mask,
 
 for, at that precise moment, it wore a sort of smile of hatred that
 
-turned one's blood cold.
+turned one's [[Blood|blood]] cold.
 
 
 
@@ -1166,13 +1166,13 @@ turned one's blood cold.
 
 vicar's, except that I did not see everything which happened just
 
-behind my back.  But I swung round in time to see that somebody had
+behind my back.  But I swung round in [[Time|time]] to see that somebody had
 
 run across the path, and begun to climb the creeper.  He climbed it
 
 very quickly, much quicker than I had done, but it was not easy to
 
-see him or recognize him in the dark shadow of the leaves.
+see him or recognize him in the dark [[Shadow|shadow]] of the [[Leaves|leaves]].
 
 
 
@@ -1182,13 +1182,13 @@ high-shouldered stoop that has been described; then I saw, as the
 
 vicar did, the head emerge clear of the foliage, only outlined by
 
-the moon with a sort of bristly halo of hair.  Only then, for the
+the [[Moon|moon]] with a sort of bristly halo of hair.  Only then, for the
 
-second time that night, I saw what the vicar did not see.  The
+second [[Time|time]] that [[Night|night]], I saw what the vicar did not see.  The
 
-Romeo, the climbing troubadour, turned his head, and, for a moment,
+[[Romeo]], the climbing troubadour, turned his head, and, for a moment,
 
-I saw it in profile, a black shape against the moon.  And I said to
+I saw it in profile, a black shape against the [[Moon|moon]].  And I said to
 
 myself:  'My God!  It's a dog, after all.'"
 
@@ -1216,7 +1216,7 @@ about mandrakes and mermaids; but, in many cases, it has been found
 
 since that their tall tales were true.  Anyhow, this chap said
 
-there were men walking about with the heads of dogs.  Now, if
+there were men walking about with the heads of [[dogs]].  Now, if
 
 you'll look at one of the larger apes, like the baboon, you'll see
 
@@ -1284,11 +1284,11 @@ and began to climb the creeper.'"
 
 "I was quite pedantically correct," said Gahagan, waving his hand,
 
-condescendingly.  "I was careful to state that some BODY ran and
+condescendingly.  "I was careful to state that some [[Body|BODY]] ran and
 
 climbed.  I attempted no theological or metaphysical speculations
 
-about the soul of an ape."
+about the [[Soul|soul]] of an ape."
 
 
 
@@ -1300,15 +1300,15 @@ deeply shaken.  "Are you sure the thing I saw was an ape?"
 
 "I was quite close," said the Captain.  "I saw the shape and you
 
-only saw the shadow."
+only saw the [[Shadow|shadow]]."
 
 
 
 "No," said Pond softly, "he saw the shape and could not believe it
 
-because it was the shadow.  That is what I meant by saying a shadow
+because it was the [[Shadow|shadow]].  That is what I meant by saying a [[Shadow|shadow]]
 
-can deceive by accuracy.  Nine times out of ten, a shadow is out of
+can deceive by accuracy.  Nine times out of ten, a [[Shadow|shadow]] is out of
 
 drawing.  But it can happen, in special circumstances, that it is
 
@@ -1318,7 +1318,7 @@ so we are deceived by its not being distorted.  The vicar was not
 
 surprised that the hairy, high-shouldered Mr. Ayres should throw a
 
-shadow looking like a shambling hunchback or a bristly, humped
+[[Shadow|shadow]] looking like a shambling hunchback or a bristly, humped
 
 figure.  But in reality it WAS a bristly, humped figure.  I guessed
 
@@ -1334,15 +1334,15 @@ other was a mistake?"
 
 knew it was an ape, and I guessed it was from the cages or kennels
 
-of the eminent biologist next door.  I had a wild hope it might
+of the eminent biologist next door.  I had a wild [[Hope|hope]] it might
 
 have been meant as some ghastly joke; but I wasn't taking any
 
 risks; I happen to know that sort of anthropoid is no joke.  At the
 
-best, he might easily bite and then--well, there were all sorts of
+best, he might easily bite and then--[[Well|well]], there were all sorts of
 
-nightmare notions half-formed in one's mind.
+[[nightmare]] notions half-formed in one's mind.
 
 
 
@@ -1352,9 +1352,9 @@ pets; vivisection, inoculation, intoxication, drugs--Lord knows
 
 what might be mixed up in it.  So I shot the brute dead, and I'm
 
-afraid I can't apologize.  I threw the body into the river; as you
+afraid I can't apologize.  I threw the [[Body|body]] into the [[River|river]]; as you
 
-know, it's a very rapid and rushing river, and, so far as I know,
+know, it's a very rapid and rushing [[River|river]], and, so far as I know,
 
 nothing more was ever heard of it.  Certainly, Dr. Paul Green did
 
@@ -1374,7 +1374,7 @@ an awful business.
 
 to hear an old acquaintance accused of a horrible action.  It was,
 
-also, what I meant by saying that the key to all this riddle is the
+also, what I meant by saying that the key to all this [[Riddle|riddle]] is the
 
 fact that Dr. Green is lame."
 
@@ -1392,7 +1392,7 @@ say that the doctor is, in a rather literal sense, a mad doctor.
 
 The point is that I think I know what finally drove him mad.  He
 
-had a remarkable personality; he was in love with the lady at the
+had a remarkable personality; he was in [[Love|love]] with the lady at the
 
 Vicarage and had got a good deal of influence there; as Gahagan
 
@@ -1404,11 +1404,11 @@ he was lame.
 
 
 
-"What put the finishing touch to his madness, on that terrible
+"What put the finishing touch to his [[Madness|madness]], on that terrible
 
-summer night under the moon, was something that I think one can
+[[Summer|summer]] [[Night|night]] under the [[Moon|moon]], was something that I think one can
 
-partly understand, with a little imagination; something not
+partly understand, with a little [[Imagination|imagination]]; something not
 
 altogether unnatural, if anything ending in such insanity can be
 
@@ -1436,11 +1436,11 @@ climb better than a man.  'You have to go very low to find things
 
 that go so high.'  Considered as a logical repartee, it was quite a
 
-good one.  But his mind was not running merely on logic and
+good one.  But his mind was not running merely on [[logic]] and
 
-repartee; he was blind and boiling with jealousy and passion, and
+repartee; he was blind and boiling with [[Jealousy|jealousy]] and passion, and
 
-he was a little cracked.  Let's hope he only meant to make a sort
+he was a little cracked.  Let's [[Hope|hope]] he only meant to make a sort
 
 of demonstration; but, anyhow, that was what he was trying to
 
@@ -1470,7 +1470,7 @@ He looked down at his papers, as if consulting them, and then
 
 looked up again, saying, still more sharply, in the style he had
 
-learnt from cross-examinations:  "Is it not true, Captain Gahagan,
+learnt from [[Cross|cross]]-examinations:  "Is it not true, Captain Gahagan,
 
 that you are rather famous for telling remarkable stories?  I have
 
@@ -1480,9 +1480,9 @@ had seen six great sea-serpents, each swallowing the last.  You
 
 reported a remarkable little incident of a giant who was buried up
 
-to the eyebrows in Muswell Hill; and you are supposed to have given
+to the eyebrows in Muswell [[Hill]]; and you are supposed to have given
 
-a very vivid description of a water-spout frozen all the way up to
+a very vivid description of a [[Water|water]]-spout frozen all the way up to
 
 the sky.  Your interesting account of the discovery of the ruins of
 
@@ -1490,11 +1490,11 @@ the Tower of Babel--"
 
 
 
-Sir Hubert Wotton, with all his apparent simplicity, had a quality
+Sir [[Hubert]] Wotton, with all his apparent simplicity, had a quality
 
 of sense that sometimes struck like a sledge-hammer.  He had
 
-preserved the silence of perfect impartiality throughout; but he
+preserved the [[Silence|silence]] of perfect impartiality throughout; but he
 
 suddenly stopped the last splutter of the solicitor's spitefulness,
 
@@ -1516,7 +1516,7 @@ I rule them out."
 
 
 
-"Very well," snapped Mr. Little, "my last question shall be a very
+"Very [[Well|well]]," snapped Mr. Little, "my last question shall be a very
 
 practical one.  If Captain Gahagan only did what he says he did,
 
@@ -1542,7 +1542,7 @@ give it to anybody except Mr. Whiteways."
 
 And, strangely enough perhaps, the moment Mr. Whiteways heard this
 
-refusal he rose also and held out his hand to Gahagan.
+refusal he [[Rose|rose]] also and held out his hand to Gahagan.
 
 
 
@@ -1564,7 +1564,7 @@ irregular conference broke up.
 
 
 
-Gahagan did tell the truth about the last question afterwards, to
+Gahagan did tell the [[Truth|truth]] about the last question afterwards, to
 
 the person to whom he told everything, to Joan Varney, to whom he
 
@@ -1582,7 +1582,7 @@ situation and among a lot of beastly alternatives.  I knew by next
 
 morning that the vicar was saying he had seen me commit murder.
 
-Suppose I contradicted it--well, to begin with, she would have to
+Suppose I contradicted it--[[Well|well]], to begin with, she would have to
 
 know that her old friend, the friend of her pets, was a horrible
 
@@ -1618,11 +1618,11 @@ run she would be--a little proud."
 
 "I think you're right about her," said Joan, in her straight way.
 
-"But, all the same, you ought to have told her the truth."
+"But, all the same, you ought to have told her the [[Truth|truth]]."
 
 
 
-"Joan," he said, "I simply hadn't the courage."
+"Joan," he said, "I simply hadn't the [[Courage|courage]]."
 
 
 
@@ -1634,4 +1634,4 @@ But that's what's the matter with all you fine, fighting
 
 gentlemen."  Her head lifted very slightly.  "You haven't the
 
-courage."
+[[Courage|courage]]."

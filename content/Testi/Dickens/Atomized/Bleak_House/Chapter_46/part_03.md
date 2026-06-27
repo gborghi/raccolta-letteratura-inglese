@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 46 (part 3)"
+title: "Bleak [[house|House]] — Chapter 46 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,7 +22,7 @@ which he leans rattles.
 Allan restrains the woman, merely by a quiet gesture, but
 effectually.
 
-“Richard told me—” He falters. “I mean, I have heard of this—don’t
+“[[Richard]] told me—” He falters. “I mean, I have heard of this—don’t
 mind me for a moment, I will speak presently.”
 
 He turns away and stands for a while looking out at the covered
@@ -40,12 +40,12 @@ hand over his left and his left foot over his right.
 “You hear what she says, and I know it’s true. Have you been here
 ever since?”
 
-“Wishermaydie if I seen Tom-all-Alone’s till this blessed morning,”
+“Wishermaydie if I seen Tom-all-[[Alone]]’s till this blessed morning,”
 replies Jo hoarsely.
 
 “Why have you come here now?”
 
-Jo looks all round the confined court, looks at his questioner no
+Jo looks all round the confined [[Court|court]], looks at his questioner no
 higher than the knees, and finally answers, “I don’t know how to do
 nothink, and I can’t get nothink to do. I’m wery poor and ill, and I
 thought I’d come back here when there warn’t nobody about, and lay
@@ -56,9 +56,9 @@ me—like everybody everywheres.”
 
 “Where have you come from?”
 
-Jo looks all round the court again, looks at his questioner’s knees
+Jo looks all round the [[Court|court]] again, looks at his questioner’s knees
 again, and concludes by laying his profile against the hoarding in a
-sort of resignation.
+sort of [[Resignation|resignation]].
 
 “Did you hear me ask you where you have come from?”
 
@@ -67,13 +67,13 @@ sort of resignation.
 “Now tell me,” proceeds Allan, making a strong effort to overcome his
 repugnance, going very near to him, and leaning over him with an
 expression of confidence, “tell me how it came about that you left
-that house when the good young lady had been so unfortunate as to
-pity you and take you home.”
+that [[house]] when the good young lady had been so unfortunate as to
+pity you and take you [[Home|home]].”
 
-Jo suddenly comes out of his resignation and excitedly declares,
+Jo suddenly comes out of his [[Resignation|resignation]] and excitedly declares,
 addressing the woman, that he never known about the young lady, that
 he never heern about it, that he never went fur to hurt her, that he
-would sooner have hurt his own self, that he’d sooner have had his
+would sooner have hurt his own [[Self|self]], that he’d sooner have had his
 unfortnet ed chopped off than ever gone a-nigh her, and that she wos
 wery good to him, she wos. Conducting himself throughout as if in his
 poor fashion he really meant it, and winding up with some very
@@ -88,10 +88,10 @@ dustn’t, or I would.”
 “But I must know,” returns the other, “all the same. Come, Jo.”
 
 After two or three such adjurations, Jo lifts up his head again,
-looks round the court again, and says in a low voice, “Well, I’ll
+looks round the [[Court|court]] again, and says in a low voice, “[[Well]], I’ll
 tell you something. I was took away. There!”
 
-“Took away? In the night?”
+“Took away? In the [[Night|night]]?”
 
 “Ah!” Very apprehensive of being overheard, Jo looks about him and
 even glances up some ten feet at the top of the hoarding and through
@@ -114,7 +114,7 @@ he DON’T hear.”
 wanst.”
 
 Allan looks at him in perplexity, but discovers some real meaning and
-good faith at the bottom of this bewildering reply. He patiently
+good [[Faith|faith]] at the [[Bottom|bottom]] of this bewildering reply. He patiently
 awaits an explicit answer; and Jo, more baffled by his patience than
 by anything else, at last desperately whispers a name in his ear.
 
@@ -130,7 +130,7 @@ a-moving on to the berryin ground—that’s the move as I’m up to.”
 discharged, then giv me a little money—four half-bulls, wot you may
 call half-crowns—and ses ‘Hook it! Nobody wants you here,’ he ses.
 ‘You hook it. You go and tramp,’ he ses. ‘You move on,’ he ses.
-‘Don’t let me ever see you nowheres within forty mile of London, or
+‘Don’t let me ever see you nowheres within forty mile of [[London]], or
 you’ll repent it.’ So I shall, if ever he doos see me, and he’ll see
 me if I’m above ground,” concludes Jo, nervously repeating all his
 former precautions and investigations.
@@ -147,12 +147,12 @@ it’s all right. For YOU wos wery good to me too, and I knows it.”
 “Now, Jo,” says Allan, keeping his eye upon him, “come with me and I
 will find you a better place than this to lie down and hide in. If I
 take one side of the way and you the other to avoid observation, you
-will not run away, I know very well, if you make me a promise.”
+will not run away, I know very [[Well|well]], if you make me a promise.”
 
 “I won’t, not unless I wos to see HIM a-coming, sir.”
 
-“Very well. I take your word. Half the town is getting up by this
-time, and the whole town will be broad awake in another hour. Come
+“Very [[Well|well]]. I take your word. Half the town is getting up by this
+[[Time|time]], and the whole town will be broad awake in another hour. Come
 along. Good day again, my good woman.”
 
 “Good day again, sir, and I thank you kindly many times again.”
@@ -163,5 +163,5 @@ went fur to hurt her and wot the genlmn ses!” nods and shambles and
 shivers, and smears and blinks, and half laughs and half cries, a
 farewell to her, and takes his creeping way along after Allan
 Woodcourt, close to the houses on the opposite side of the street. In
-this order, the two come up out of Tom-all-Alone’s into the broad
+this order, the two come up out of Tom-all-[[Alone]]’s into the broad
 rays of the sunlight and the purer air.

@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Scandal in the Village (part 3)"
+title: "ball and [[Cross|cross]] — A Scandal in the Village (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -24,19 +24,19 @@ gentleman to fight."
 "We are detaining the lady," said Count Gregory, with politeness;
 and, making a gesture suggesting that he would have taken off
 his hat if he had had one, he strode away up the avenue of trees
-and eventually disappeared.  He was so complete an aristocrat
+and eventually disappeared.  He was so complete an [[aristocrat]]
 that he could offer his back to them all the way up that avenue;
 and his back never once looked uncomfortable.
 
-"You must allow me to see you home," said Bert to the girl,
+"You must allow me to see you [[Home|home]]," said Bert to the girl,
 in a gruff and almost stifled voice; "I think we have only a little
 way to go."
 
-"Only a little way," she said, and smiled once more that night,
-in spite of fatigue and fear and the world and the flesh and the devil.
+"Only a little way," she said, and smiled once more that [[Night|night]],
+in spite of fatigue and [[Fear|fear]] and the world and the flesh and the devil.
 The glowing and transparent blue of twilight had long been covered
-by the opaque and slatelike blue of night, when he handed her
-into the lamp-lit interior of her home.  He went out himself into
+by the opaque and slatelike blue of [[Night|night]], when he handed her
+into the lamp-lit interior of her [[Home|home]].  He went out himself into
 the darkness, walking sturdily, but tearing at his black beard.
 
 All the French or semi-French gentry of the district considered this
@@ -53,15 +53,15 @@ And when this was settled the whole community, as it were,
 turned over again in bed and thought no more about the matter.
 At least there was only one member of it who seemed to
 be restless, and that was she who was commonly most restful.
-On the next night Madeleine Durand went to church as usual;
+On the next [[Night|night]] Madeleine Durand went to church as usual;
 and as usual the stricken Camille was there also.  What was not
 so usual was that when they were a bow-shot from the church
 Madeleine turned round and walked back to him.  "Sir," she began,
 "it is not wrong of me to speak to you," and the very words gave
-him a jar of unexpected truth; for in all the novels he had ever
+him a jar of unexpected [[Truth|truth]]; for in all the novels he had ever
 read she would have begun:  "It is wrong of me to speak to you."
 She went on with wide and serious eyes like an animal's: "It is not
-wrong of me to speak to you, because your soul, or anybody's soul,
+wrong of me to speak to you, because your [[Soul|soul]], or anybody's [[Soul|soul]],
 matters so much more than what the world says about anybody.
 I want to talk to you about what you are going to do."
 
@@ -92,13 +92,13 @@ I thought that as you always go to church--I thought you would
 communicate this morning."
 
 Bert stepped backward with a sort of action she had never seen
-in him before.  It seemed to alter his whole body.
+in him before.  It seemed to alter his whole [[Body|body]].
 
 "You may be right or wrong to risk dying," said the girl, simply;
 "the poor women in our village risk it whenever they have a baby.
 You men are the other half of the world.  I know nothing about when
 you ought to die.  But surely if you are daring to try and find God
-beyond the grave and appeal to Him--you ought to let Him find you
+beyond the [[Grave|grave]] and appeal to Him--you ought to let Him find you
 when He comes and stands there every morning in our little church."
 
 And placid as she was, she made a little gesture of argument,
@@ -109,7 +109,7 @@ and frankly pleading face he retreated as if from the jaws of a dragon.
 His dark black hair and beard looked utterly unnatural against the
 startling pallor of his face.  When at last he said something it was:
 "O God!  I can't stand this!"  He did not say it in French.
-Nor did he, strictly speaking, say it in English.  The truth
+Nor did he, strictly speaking, say it in English.  The [[Truth|truth]]
 (interesting only to anthropologists) is that he said it in Scotch.
 
 "There will be another mass in a matter of eight hours,"
@@ -127,7 +127,7 @@ do as you say--I mean not to do it at all?"
 Then it was that Bert exploded with a brutality which might have come
 from Count Gregory, his criminal opponent.  He advanced upon Madeleine
 with flaming eyes, and almost took her by the two shoulders.  "I do not
-love God," he cried, speaking French with the broadest Scotch accent;
+[[Love|love]] God," he cried, speaking French with the broadest Scotch accent;
 "I do not want to find Him; I do not think He is there to be found.
 I must burst up the show; I must and will say everything.  You are
 the happiest and honestest thing I ever saw in this godless universe.

@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Book 1: POVERTY"
+title: "Little Dorrit — Book 1: [[Poverty|POVERTY]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-BOOK THE FIRST: POVERTY
+BOOK THE FIRST: [[Poverty|POVERTY]]

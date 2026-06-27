@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 8 (part 4)"
+title: "[[GKC-Autobiography]] — Chapter 8 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -17,26 +17,26 @@ tags:
 All this must be kept in mind, when we come to more crucial and
 exciting events in connection with the Eyewitness; I only mention
 this incident here to indicate the lively manner in which the lady
-in question conducted the endless comedy of Fleet Street.
+in question conducted the endless [[Comedy|comedy]] of Fleet Street.
 In connection with the paper above mentioned, of which my brother was
 first the sub-editor and then the editor, there were a hundred such
 anecdotes and amusing episodes.  I fancy I can trace the lady's hand,
-as well as the editor's, in one of the most admirably absurd
+as [[Well|well]] as the editor's, in one of the most admirably absurd
 correspondences I have ever seen in the columns of journalism.
 It all began, if I remember right, with my brother writing something
 about the meeting between H. G. Wells and Booker Washington,
-the famous Negro publicist in America, in which some doubt was thrown
+the famous Negro publicist in [[America]], in which some [[Doubt|doubt]] was thrown
 on how far Mr. Wells understood the difficulties of Mr. Washington,
 and by inference those of the White South in which he worked.
 This view was enforced and exaggerated in a letter dated from Bexley,
 which warned everybody of the real dangers of racial admixture
 and intermarriage; it was signed "White Man."  This produced a fiery
 letter from Mr. Wells, humorously headed, "The White Man of Bexley,"
-as if the man were a sort of monster.  Mr. Wells said he did
+as if the man were a sort of [[Monster|monster]].  Mr. Wells said he did
 not know what life was like "among the pure whites of Bexley,"
 but that elsewhere meeting people did not always mean marrying them;
 "The etiquette is calmer."  Then, I think, a real Negro intervened
-in the debate about his nature and destiny; and signed his letter,
+in the [[debate]] about his [[Nature|nature]] and destiny; and signed his letter,
 "Black Man."  Then came a more detached query, I should guess
 from some Brahmin or Parsee student at some college, pointing out
 that the racial problem was not confined to the races of Africa;
@@ -48,8 +48,8 @@ It ran, I think, as follows:
 
   "Sir,
   May I express my regret that you should continue a  correspondence  which
-causes considerable pain to many innocent persons who, by no fault
-of their own, but by the iron laws of nature, inherit a complexion
+causes considerable [[Pain|pain]] to many [[Innocent|innocent]] persons who, by no fault
+of their own, but by the iron laws of [[Nature|nature]], inherit a complexion
 uncommon among their fellow-creatures and attractive only to the elite.
 Surely we can forget all these differences; and, whatever our
 race or colour, work hand in hand for the broadening of the
@@ -64,7 +64,7 @@ would never cease.  To few correspondents was given such power
 as that of the Mauve Man to paralyse all others with a sense that it
 was impossible to say or do any more.  Some of these controversies
 are referred to in other connections in this book; some of them,
-like my own intermittent controversy with Mr. Bernard Shaw,
+like my own intermittent controversy with Mr. Bernard [[Shaw]],
 have been going on at intervals for the greater part of our lives.
 But the controversy to which my sister-in-law was most deeply and
 warmly committed, as being connected with the work that has since made
@@ -73,20 +73,20 @@ especially against an interference more insulting than indifference:
 the great uniting indignation of our otherwise often diverse group.
 
 She was married to my brother just before he went to the War,
-in a little Roman Catholic church off Fleet Street; for he was already
-of that communion.  He was twice invalided home; he volunteered
-three times for the Front and the third time met his death.
+in a little Roman [[Catholic Church|Catholic church]] off Fleet Street; for he was already
+of that communion.  He was twice invalided [[Home|home]]; he volunteered
+three times for the Front and the third [[Time|time]] met his [[Death|death]].
 In another chapter I shall deal with him more individually,
-and especially with that rarer sort of courage which he showed
-in politics, under instant threats of imprisonment and ruin.
-While in the trenches he wrote an excellent History of America
+and especially with that rarer sort of [[Courage|courage]] which he showed
+in politics, under instant threats of [[Imprisonment|imprisonment]] and ruin.
+While in the trenches he wrote an excellent [[history|History]] of [[America]]
 and a bacchanalian ballade addressed to his fellow-soldiers,
 and having the refrain, "It was in Fleet Street that I learnt
 to drink."  Even his Bohemian loyalty to the legend of the Street
 of Adventure would hardly have stretched itself to saying,
 "It was in Fleet Street that I learnt to think."  For indeed
 he learnt to think in the nursery; and he was one of those who carry
-a sort of innocence of intellectual intensity through all things
+a sort of [[innocence]] of intellectual intensity through all things
 in life, whether they are in Fleet Street or at the Front.
 And my thoughts go back to poor Stephen and many noble madmen I knew,
 who had that quality, when I recall those lines one of our friends

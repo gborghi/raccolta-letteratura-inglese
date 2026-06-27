@@ -22,9 +22,9 @@ Homoeopathic doctrines was, that infinitesimal doses of any medicine
 which would occasion the disease under which the patient laboured,
 supposing him to be in a healthy state, would cure it. Now, it was a
 remarkable circumstance—proved in the evidence—that the deceased Thorn
-employed a woman to follow him about all day with a pail of water,
+employed a woman to follow him about all day with a pail of [[Water|water]],
 assuring her that one drop (a purely homoeopathic remedy, the section
-would observe), placed upon his tongue, after death, would restore him.
+would observe), placed upon his tongue, after [[Death|death]], would restore him.
 What was the obvious inference? That Thorn, who was marching and
 countermarching in osier beds, and other swampy places, was impressed
 with a presentiment that he should be drowned; in which case, had his
@@ -41,7 +41,7 @@ peasantry.
 
 
 ‘SECTION D.—STATISTICS.
-OUT-HOUSE, BLACK BOY AND STOMACH-ACHE.
+OUT-[[house|HOUSE]], BLACK BOY AND STOMACH-ACHE.
 
 
 _President_—Mr. Slug. _Vice-Presidents_—Messrs. Noakes and Styles.
@@ -49,7 +49,7 @@ _President_—Mr. Slug. _Vice-Presidents_—Messrs. Noakes and Styles.
 ‘Mr. Kwakley stated the result of some most ingenious statistical
 inquiries relative to the difference between the value of the
 qualification of several members of Parliament as published to the
-world, and its real nature and amount. After reminding the section that
+world, and its real [[Nature|nature]] and amount. After reminding the section that
 every member of Parliament for a town or borough was supposed to
 possess a clear freehold estate of three hundred pounds per annum, the
 honourable gentleman excited great amusement and laughter by stating
@@ -57,7 +57,7 @@ the exact amount of freehold property possessed by a column of
 legislators, in which he had included himself. It appeared from this
 table, that the amount of such income possessed by each was 0 pounds, 0
 shillings, and 0 pence, yielding an average of the same. (Great
-laughter.) It was pretty well known that there were accommodating
+laughter.) It was pretty [[Well|well]] known that there were accommodating
 gentlemen in the habit of furnishing new members with temporary
 qualifications, to the ownership of which they swore solemnly—of course
 as a mere matter of form. He argued from these _data_ that it was
@@ -77,14 +77,14 @@ _President_—Mr. Grub. _Vice Presidents_—Messrs. Dull and Dummy.
 eye, which had been seen by the author standing in a butcher’s cart at
 the corner of Newgate Market. The communication described the author of
 the paper as having, in the prosecution of a mercantile pursuit,
-betaken himself one Saturday morning last summer from Somers Town to
+betaken himself one Saturday morning last [[Summer|summer]] from Somers Town to
 Cheapside; in the course of which expedition he had beheld the
 extraordinary appearance above described. The pony had one distinct
 eye, and it had been pointed out to him by his friend Captain
-Blunderbore, of the Horse Marines, who assisted the author in his
+Blunderbore, of the [[Horse]] Marines, who assisted the author in his
 search, that whenever he winked this eye he whisked his tail (possibly
 to drive the flies off), but that he always winked and whisked at the
-same time. The animal was lean, spavined, and tottering; and the author
+same [[Time|time]]. The animal was lean, spavined, and tottering; and the author
 proposed to constitute it of the family of _Fitfordogsmeataurious_. It
 certainly did occur to him that there was no case on record of a pony
 with one clearly-defined and distinct organ of vision, winking and
@@ -94,19 +94,19 @@ whisking at the same moment.
 likewise of a pony whisking his tail, but whether they were two ponies
 or the same pony he could not undertake positively to say. At all
 events, he was acquainted with no authenticated instance of a
-simultaneous winking and whisking, and he really could not but doubt
+simultaneous winking and whisking, and he really could not but [[Doubt|doubt]]
 the existence of such a marvellous pony in opposition to all those
 natural laws by which ponies were governed. Referring, however, to the
 mere question of his one organ of vision, might he suggest the
-possibility of this pony having been literally half asleep at the time
+possibility of this pony having been literally half asleep at the [[Time|time]]
 he was seen, and having closed only one eye.
 
 ‘The President observed that, whether the pony was half asleep or fast
-asleep, there could be no doubt that the association was wide awake,
+asleep, there could be no [[Doubt|doubt]] that the association was wide awake,
 and therefore that they had better get the business over, and go to
 dinner. He had certainly never seen anything analogous to this pony,
-but he was not prepared to doubt its existence; for he had seen many
-queerer ponies in his time, though he did not pretend to have seen any
+but he was not prepared to [[Doubt|doubt]] its existence; for he had seen many
+queerer ponies in his [[Time|time]], though he did not pretend to have seen any
 more remarkable donkeys than the other gentlemen around him.
 
 ‘Professor John Ketch was then called upon to exhibit the skull of the

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 19 (part 1)"
+title: "[[Persuasion]] — Chapter 19 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,13 +20,13 @@ CHAPTER XIX.
 
 
 
-While Admiral Croft was taking this walk with Anne, and expressing his
+While [[Admiral Croft]] was taking this walk with Anne, and expressing his
 
-wish of getting Captain Wentworth to Bath, Captain Wentworth was
+wish of getting [[Captain Wentworth]] to Bath, [[Captain Wentworth]] was
 
 already on his way thither. Before Mrs Croft had written, he was
 
-arrived, and the very next time Anne walked out, she saw him.
+arrived, and the very next [[Time|time]] Anne walked out, she saw him.
 
 
 
@@ -36,7 +36,7 @@ Milsom Street. It began to rain, not much, but enough to make shelter
 
 desirable for women, and quite enough to make it very desirable for
 
-Miss Elliot to have the advantage of being conveyed home in Lady
+Miss Elliot to have the advantage of being conveyed [[Home|home]] in Lady
 
 Dalrymple’s carriage, which was seen waiting at a little distance; she,
 
@@ -46,7 +46,7 @@ stepped to Lady Dalrymple, to request her assistance. He soon joined
 
 them again, successful, of course; Lady Dalrymple would be most happy
 
-to take them home, and would call for them in a few minutes.
+to take them [[Home|home]], and would call for them in a few minutes.
 
 
 
@@ -56,11 +56,11 @@ with any comfort. Miss Carteret was with her mother; consequently it
 
 was not reasonable to expect accommodation for all the three Camden
 
-Place ladies. There could be no doubt as to Miss Elliot. Whoever
+Place ladies. There could be no [[Doubt|doubt]] as to Miss Elliot. Whoever
 
 suffered inconvenience, she must suffer none, but it occupied a little
 
-time to settle the point of civility between the other two. The rain
+[[Time|time]] to settle the point of civility between the other two. The rain
 
 was a mere trifle, and Anne was most sincere in preferring a walk with
 
@@ -88,7 +88,7 @@ It was fixed accordingly, that Mrs Clay should be of the party in the
 
 carriage; and they had just reached this point, when Anne, as she sat
 
-near the window, descried, most decidedly and distinctly, Captain
+near the [[Window|window]], descried, most decidedly and distinctly, Captain
 
 Wentworth walking down the street.
 
@@ -104,7 +104,7 @@ confusion. She was lost, and when she had scolded back her senses, she
 
 found the others still waiting for the carriage, and Mr Elliot (always
 
-obliging) just setting off for Union Street on a commission of Mrs
+obliging) just setting off for [[Union]] Street on a commission of Mrs
 
 Clay’s.
 
@@ -114,7 +114,7 @@ She now felt a great inclination to go to the outer door; she wanted to
 
 see if it rained. Why was she to suspect herself of another motive?
 
-Captain Wentworth must be out of sight. She left her seat, she would
+[[Captain Wentworth]] must be out of sight. She left her seat, she would
 
 go; one half of her should not be always so much wiser than the other
 
@@ -122,7 +122,7 @@ half, or always suspecting the other of being worse than it was. She
 
 would see if it rained. She was sent back, however, in a moment by the
 
-entrance of Captain Wentworth himself, among a party of gentlemen and
+entrance of [[Captain Wentworth]] himself, among a party of gentlemen and
 
 ladies, evidently his acquaintance, and whom he must have joined a
 
@@ -130,7 +130,7 @@ little below Milsom Street. He was more obviously struck and confused
 
 by the sight of her than she had ever observed before; he looked quite
 
-red. For the first time, since their renewed acquaintance, she felt
+red. For the first [[Time|time]], since their renewed acquaintance, she felt
 
 that she was betraying the least sensibility of the two. She had the
 
@@ -140,7 +140,7 @@ overpowering, blinding, bewildering, first effects of strong surprise
 
 were over with her. Still, however, she had enough to feel! It was
 
-agitation, pain, pleasure, a something between delight and misery.
+agitation, [[Pain|pain]], pleasure, a something between delight and misery.
 
 
 
@@ -164,11 +164,11 @@ very much together, got to speak to each other with a considerable
 
 portion of apparent indifference and calmness; but he could not do it
 
-now. Time had changed him, or Louisa had changed him. There was
+now. [[Time]] had changed him, or Louisa had changed him. There was
 
-consciousness of some sort or other. He looked very well, not as if he
+consciousness of some sort or other. He looked very [[Well|well]], not as if he
 
-had been suffering in health or spirits, and he talked of Uppercross,
+had been [[Suffering|suffering]] in health or spirits, and he talked of Uppercross,
 
 of the Musgroves, nay, even of Louisa, and had even a momentary look of
 
@@ -186,7 +186,7 @@ him, that there was complete internal recognition on each side; she was
 
 convinced that he was ready to be acknowledged as an acquaintance,
 
-expecting it, and she had the pain of seeing her sister turn away with
+expecting it, and she had the [[Pain|pain]] of seeing her sister turn away with
 
 unalterable coldness.
 
@@ -204,7 +204,7 @@ understand that Lady Dalrymple was calling to convey Miss Elliot. At
 
 last Miss Elliot and her friend, unattended but by the servant, (for
 
-there was no cousin returned), were walking off; and Captain Wentworth,
+there was no cousin returned), were walking off; and [[Captain Wentworth]],
 
 watching them, turned again to Anne, and by manner, rather than words,
 

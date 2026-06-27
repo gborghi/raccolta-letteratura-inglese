@@ -50,7 +50,7 @@ Moreover, the Jews in the West do not seem so much concerned to ask,
 as I have done however tentatively here, whether a larger and less
 local colonial development might really transfer the bulk of Israel
 to a more independent basis, as simply to demand that Jews shall
-continue to control other nations as well as their own.  It might be
+continue to control other nations as [[Well|well]] as their own.  It might be
 worth while for England to take risks to settle the Jewish problem;
 but not to take risks merely to unsettle the Arab problem,
 and leave the Jewish problem unsolved.
@@ -69,7 +69,7 @@ the point of altering a form with historic and even heroic fame in our
 own language, for the sake of reproducing by an arrangement of our
 letters something that is really written in quite different letters,
 and probably pronounced with quite a different accent.  In speaking
-of the great prophet I am therefore resolved to call him Mahomet;
+of the great [[Prophet|prophet]] I am therefore resolved to call him Mahomet;
 and am prepared, on further provocation, to call him Mahound.
 
 G. K. C.
@@ -79,13 +79,13 @@ G. K. C.
 CONTENTS
 
  CHAPTER I      THE WAY OF THE CITIES
- CHAPTER II     THE WAY OF THE DESERT
- CHAPTER III    THE GATES OF THE CITY
- CHAPTER IV     THE PHILOSOPHY OF SIGHT-SEEING
- CHAPTER V      THE STREETS OF THE CITY
- CHAPTER VI     THE GROUPS OF THE CITY
- CHAPTER VII    THE SHADOW OF THE PROBLEM
- CHAPTER VIII   THE OTHER SIDE OF THE DESERT
+ CHAPTER II     THE WAY OF THE [[Desert|DESERT]]
+ CHAPTER III    THE GATES OF THE [[City|CITY]]
+ CHAPTER IV     THE [[philosophy|PHILOSOPHY]] OF SIGHT-SEEING
+ CHAPTER V      THE STREETS OF THE [[City|CITY]]
+ CHAPTER VI     THE GROUPS OF THE [[City|CITY]]
+ CHAPTER VII    THE [[Shadow|SHADOW]] OF THE PROBLEM
+ CHAPTER VIII   THE OTHER SIDE OF THE [[Desert|DESERT]]
  CHAPTER IX     THE BATTLE WITH THE DRAGON
  CHAPTER X      THE ENDLESS EMPIRE
  CHAPTER XI     THE MEANING OF THE CRUSADE
@@ -101,11 +101,11 @@ CHAPTER I
 
 THE WAY OF THE CITIES
 
-It was in the season of Christmas that I came out of my little garden
+It was in the season of Christmas that I came out of my little [[Garden|garden]]
 in that "field of the beeches" between the Chilterns and the Thames,
-and began to walk backwards through history to the place from which
+and began to walk backwards through [[history]] to the place from which
 Christmas came.  For it is often necessary to walk backwards, as a man
-on the wrong road goes back to a sign-post to find the right road.
+on the wrong [[Road|road]] goes back to a sign-post to find the right [[Road|road]].
 The modern man is more like a traveller who has forgotten the name
 of his destination, and has to go back whence he came, even to find out
 where he is going.  That the world has lost its way few will now deny;
@@ -115,45 +115,45 @@ the true map of the modern wanderings; but whether I shall be able
 to say anything of what I saw, this story must show.
 
 I had said farewell to all my friends, or all those with my own limited
-number of legs; and nothing living remained but a dog and a donkey.
+number of legs; and nothing living remained but a dog and a [[donkey]].
 The reader will learn with surprise that my first feeling of fellowship
-went out to the dog; I am well aware that I lay open my guard to a lunge
-of wit.  The dog is rather like a donkey, or a small caricature of one,
+went out to the dog; I am [[Well|well]] aware that I lay open my guard to a lunge
+of wit.  The dog is rather like a [[donkey]], or a small caricature of one,
 with a large black head and long black ears; but in the mood of the
 moment there was rather a moral contrast than a pictorial parallel.
-For the dog did indeed seem to stand for home and everything I was
+For the dog did indeed seem to stand for [[Home|home]] and everything I was
 leaving behind me, with reluctance, especially that season of the year.
 For one thing, he is named after Mr. Winkle, the Christmas guest
-of Mr. Wardle; and there is indeed something Dickensian in his union
+of Mr. Wardle; and there is indeed something Dickensian in his [[Union|union]]
 of domesticity with exuberance.  He jumped about me, barking like
 a small battery, under the impression that I was going for a walk;
 but I could not, alas, take him with me on a stroll to Palestine.
-Incidentally, he would have been out of place; for dogs have not
-their due honour in the East; and this seemed to sharpen my sense
+Incidentally, he would have been out of place; for [[dogs]] have not
+their due [[Honour|honour]] in the East; and this seemed to sharpen my sense
 of my own domestic sentinel as a sort of symbol of the West.
 On the other hand, the East is full of donkeys, often very
 dignified donkeys; and when I turned my attention to the other
-grotesque quadruped, with an even larger head and even longer ears,
+[[Grotesque|grotesque]] quadruped, with an even larger head and even longer ears,
 he seemed to take on a deep shade of oriental mystery.
 I know not why these two absurd creatures tangled themselves up
 so much in my train of thought, like dragons in an illuminated text;
-or ramped like gargoyles on either side of the gateway of my adventure.
-But in truth they were in some sense symbols of the West and the East
+or ramped like [[gargoyles]] on either side of the gateway of my adventure.
+But in [[Truth|truth]] they were in some sense symbols of the West and the East
 after all.  The dog's very lawlessness is but an extravagance
 of loyalty; he will go mad with joy three times on the same day,
-at going out for a walk down the same road.  The modern world
+at going out for a walk down the same [[Road|road]].  The modern world
 is full of fantastic forms of animal worship; a religion generally
 accompanied with human sacrifice.  Yet we hear strangely little of
-the real merits of animals; and one of them surely is this innocence
+the real merits of [[Animals|animals]]; and one of them surely is this [[innocence]]
 of all boredom; perhaps such simplicity is the absence of sin.
 I have some sense myself of the sacred duty of surprise;
-and the need of seeing the old road as a new road.  But I cannot
+and the need of seeing the old [[Road|road]] as a new [[Road|road]].  But I cannot
 claim that whenever I go out for a walk with my family and friends,
 I rush in front of them volleying vociferous shouts of happiness;
 or even leap up round them attempting to lick their faces.  It is in this
 power of beginning again with energy upon familiar and homely things
 that the dog is really the eternal type of the Western civilisation.
-And the donkey is really as different as is the Eastern civilisation.
+And the [[donkey]] is really as different as is the Eastern civilisation.
 His very anarchy is a sort of secrecy; his very revolt is a secret.
 He does not leap up because he wishes to share my walk,
 but to follow his own way, as lonely as the wild ass of Scripture.
@@ -166,63 +166,63 @@ He also breaks fences, eats vegetables, and fulfills other functions;
 between delays and destructions he could ruin a really poor man
 in a day.  I wish this fact were more often remembered, in judging
 whether really poor men have really been cruel to donkeys.
-But I assure the reader that I am not cruel to my donkey; the cruelty
+But I assure the reader that I am not cruel to my [[donkey]]; the cruelty
 is all the other way.  He kicks the people who try to catch him;
 and again I am haunted by a dim human parallel.  For it seems to me
 that many of us, in just detestation of the dirty trick of cruelty
-to animals, have really a great deal of patience with animals;
-more patience, I fear, than many of us have with human beings.
+to [[Animals|animals]], have really a great deal of patience with [[Animals|animals]];
+more patience, I [[Fear|fear]], than many of us have with human beings.
 Suppose I had to go out and catch my secretary in a field
 every morning; and suppose my secretary always kicked me by way
-of beginning the day's work; I wonder whether that day's work
+of beginning the day's work; I [[Wonder|wonder]] whether that day's work
 would resume its normal course as if nothing had happened.
-Nothing graver than these grotesque images and groping speculations
+Nothing graver than these [[Grotesque|grotesque]] images and groping speculations
 would come into my conscious mind just then, though at the back
 of it there was an indescribable sense of regret and parting.
-All through my wanderings the dog remained in my memory as a
+All through my wanderings the dog remained in my [[Memory|memory]] as a
 Dickensian and domestic emblem of England; and if it is difficult
-to take a donkey seriously, it ought to be easiest, at least,
+to take a [[donkey]] seriously, it ought to be easiest, at least,
 for a man who is going to Jerusalem.
 
 There was a cloud of Christmas weather on the great grey beech-woods
-and the silver cross of the cross-roads. For the four roads that meet
+and the silver [[Cross|cross]] of the [[Cross|cross]]-roads. For the four roads that meet
 in the market-place of my little town make one of the largest and
 simplest of such outlines on the map of England; and the shape as it
 shines on that wooded chart always affects me in a singular fashion.
-The sight of the cross-roads is in a true sense the sign of the cross.
+The sight of the [[Cross|cross]]-roads is in a true sense the sign of the [[Cross|cross]].
 For it is the sign of a truly Christian thing; that sharp combination
 of liberty and limitation which we call choice.  A man is entirely
 free to choose between right and left, or between right and wrong.
-As I looked for the last time at the pale roads under the load of cloud,
-I knew that our civilisation had indeed come to the cross-roads.
-As the paths grew fainter, fading under the gathering shadow,
+As I looked for the last [[Time|time]] at the pale roads under the load of cloud,
+I knew that our civilisation had indeed come to the [[Cross|cross]]-roads.
+As the paths grew fainter, fading under the gathering [[Shadow|shadow]],
 I felt rather as if it had lost its way in a forest.
 
-It was at the time when people were talking about some menace
+It was at the [[Time|time]] when people were talking about some menace
 of the end of the world, not apocalyptic but astronomical;
 and the cloud that covered the little town of Beaconsfield might
 have fitted in with such a fancy.  It faded, however, as I left
-the place further behind; and in London the weather, though wet,
+the place further behind; and in [[London]] the weather, though wet,
 was comparatively clear.  It was almost as if Beaconsfield had
 a domestic day of judgment, and an end of the world all to itself.
 In a sense Beaconsfield has four ends of the world, for its
 four corners are named "ends" after the four nearest towns.
-But I was concerned only with the one called London End;
+But I was concerned only with the one called [[London]] End;
 and the very name of it was like a vision of some vain thing at
-once ultimate and infinite.  The very title of London End sounds
+once ultimate and infinite.  The very title of [[London]] End sounds
 like the other end of nowhere, or (what is worse) of everywhere.
-It suggests a sort of derisive riddle; where does London End?  As I
-came up through the vast vague suburbs, it was this sense of London
+It suggests a sort of derisive [[Riddle|riddle]]; where does [[London]] End?  As I
+came up through the vast vague suburbs, it was this sense of [[London]]
 as a shapeless and endless muddle that chiefly filled my mind.
 I seemed still to carry the cloud with me; and when I looked up,
 I almost expected to see the chimney-pots as tangled as the trees.
 
-And in truth if there was now no material fog, there was any amount
+And in [[Truth|truth]] if there was now no material fog, there was any amount
 of mental and moral fog.  The whole industrial world symbolised
-by London had reached a curious complication and confusion,
-not easy to parallel in human history.  It is not a question
-of controversies, but rather of cross-purposes. As I went
-by Charing Cross my eye caught a poster about Labour politics,
+by [[London]] had reached a curious complication and confusion,
+not easy to parallel in human [[history]].  It is not a question
+of controversies, but rather of [[Cross|cross]]-purposes. As I went
+by Charing [[Cross]] my eye caught a poster about Labour politics,
 with something about the threat of Direct Action and a demand
 for Nationalisation.  And quite apart from the merits of the case,
 it struck me that after all the direct action is very indirect,
@@ -234,7 +234,7 @@ Its combines are as big as many commonwealths; and things advertised
 in large letters on the sky cannot plead the shy privileges of privacy.
 Meanwhile the Labour men talk about the need to "nationalise" the mines
 or the land, as if it were not the great difficulty in a plutocracy
-to nationalise the Government, or even to nationalise the nation.
+to nationalise the [[government|Government]], or even to nationalise the nation.
 The Capitalists praise competition while they create monopoly;
 the Socialists urge a strike to turn workmen into soldiers and
 state officials; which is logically a strike against strikes.
@@ -246,28 +246,28 @@ But the point is that when there is something to be said for one thing,
 it is now commonly said in support of the opposite thing.
 Never since the mob called out, "Less bread!  More taxes!"
 in the nonsense story, has there been so truly nonsensical
-a situation as that in which the strikers demand Government
-control and the Government denounces its own control as anarchy.
-The mob howls before the palace gates, "Hateful tyrant, we demand that you
-assume more despotic powers"; and the tyrant thunders from the balcony,
+a situation as that in which the strikers demand [[government|Government]]
+control and the [[government|Government]] denounces its own control as anarchy.
+The mob howls before the palace gates, "Hateful [[Tyrant|tyrant]], we demand that you
+assume more despotic powers"; and the [[Tyrant|tyrant]] thunders from the balcony,
 "Vile rebels, do you dare to suggest that my powers should be extended?"
 There seems to be a little misunderstanding somewhere.
 
-In truth everything I saw told me that there was a large
+In [[Truth|truth]] everything I saw told me that there was a large
 misunderstanding everywhere; a misunderstanding amounting to a mess.
-And as this was the last impression that London left on me, so it
+And as this was the last impression that [[London]] left on me, so it
 was the impression I carried with me about the whole modern problem
-of Western civilisation, as a riddle to be read or a knot to be untied.
+of Western civilisation, as a [[Riddle|riddle]] to be read or a knot to be untied.
 To untie it it is necessary to get hold of the right end of it,
 and especially the other end of it.  We must begin at the beginning;
-we must return to our first origins in history, as we must return
-to our first principles in philosophy.  We must consider how we
+we must return to our first origins in [[history]], as we must return
+to our first principles in [[philosophy]].  We must consider how we
 came to be doing what we do, and even saying what we say.
 As it is, the very terms we use are either meaningless or something
 more than meaningless, inconsistent even with themselves.
 This applies, for instance, to the talk of both sides
 in that Labour controversy, which I merely took in passing,
-because it was the current controversy in London when I left.
+because it was the current controversy in [[London]] when I left.
 The Capitalists say Bolshevism as one might say Boojum.
 It is merely a mystical and imaginative word suggesting horror.
 But it might mean many things; including some just and rational things.
@@ -279,9 +279,9 @@ he would probably prefer to conduct something else besides an omnibus.
 Whatever its exponents mean, it is clearly something different
 from what they say; and even this verbal inconsistency, this mere
 welter of words, is a sign of the common confusion of thought.
-It is this sort of thing that made London seem like a limbo
+It is this sort of thing that made [[London]] seem like a limbo
 of lost words, and possibly of lost wits.  And it is here we find
-the value of what I have called walking backwards through history.
+the value of what I have called walking backwards through [[history]].
 
 It is one of the rare merits of modern mechanical travel that it
 enables us to compare widely different cities in rapid succession.
@@ -290,34 +290,34 @@ separate countries; and though more is lost in missing the countries,
 something is gained in so sharply contrasting the capitals.
 And again it was one of the advantages of my own progress that it
 was a progress backwards; that it happened, as I have said,
-to retrace the course of history to older and older things;
-to Paris and to Rome and to Egypt, and almost, as it were, to Eden.
+to retrace the course of [[history]] to older and older things;
+to [[Paris]] and to Rome and to [[Egypt]], and almost, as it were, to Eden.
 And finally it is one of the advantages of such a return that it
 did really begin to clarify the confusion of names and notions
 in modern society.  I first became conscious of this when I
 went out of the Gare de Lyon and walked along a row of cafes,
 until I saw again a distant column crowned with a dancing figure;
-the freedom that danced over the fall of the Bastille.
+the [[Freedom|freedom]] that danced over the fall of the Bastille.
 Here at least, I thought, is an origin and a standard,
 such as I missed in the mere muddle of industrial opportunism.
 The modern industrial world is not in the least democratic; but it is
 supposed to be democratic, or supposed to be trying to be democratic.
-The ninth century, the time of the Norse invasions, was not saintly
+The ninth century, the [[Time|time]] of the Norse invasions, was not saintly
 in the sense of being filled with saints; it was filled with pirates
 and petty tyrants, and the first feudal anarchy.  But sanctity
 was the only ideal those barbarians had, when they had any at all.
-And democracy is the only ideal the industrial millions have,
+And [[Democracy|democracy]] is the only ideal the industrial millions have,
 when they have any at all.  Sanctity was the light of the Dark Ages,
-or if you will the dream of the Dark Ages.  And democracy is the dream
-of the dark age of industrialism; if it be very much of a dream.
+or if you will the dream of the Dark Ages.  And [[Democracy|democracy]] is the dream
+of the dark age of industrialism; if it be very much of [[A Dream|a dream]].
 It is this which prophets promise to achieve, and politicians pretend
-to achieve, and poets sometimes desire to achieve, and sometimes
-only desire to desire.  In a word, an equal citizenship is quite
+to achieve, and poets sometimes [[Desire|desire]] to achieve, and sometimes
+only [[Desire|desire]] to [[Desire|desire]].  In a word, an equal citizenship is quite
 the reverse of the reality in the modern world; but it is still
 the ideal in the modern world.  At any rate it has no other ideal.
 If the figure that has alighted on the column in the Place de la
 Bastille be indeed the spirit of liberty, it must see a million growths
-in a modern city to make it wish to fly back again into heaven.
+in a modern [[City|city]] to make it wish to fly back again into heaven.
 But our secular society would not know what goddess to put on
 the pillar in its place.
 
@@ -330,29 +330,29 @@ that I adequately realised the next great reality that simplified
 the whole story, and even this particular part of the story.
 I know nothing more abruptly arresting than that sudden steepness,
 as of streets scaling the sky, where stands, now cased in tile and brick
-and stone, that small rock that rose and overshadowed the whole earth;
-the Capitol.  Here in the grey dawn of our history sat the strong
+and stone, that small rock that [[Rose|rose]] and overshadowed the whole earth;
+the Capitol.  Here in the grey [[Dawn|dawn]] of our [[history]] sat the strong
 Republic that set her foot upon the necks of kings; and it was from
 here assuredly that the spirit of the Republic flew like an eagle
 to alight on that far-off pillar in the country of the Gauls.
 For it ought to be remembered (and it is too often forgotten)
-that if Paris inherited what may be called the authority of Rome,
+that if [[Paris]] inherited what may be called the authority of Rome,
 it is equally true that Rome anticipated all that is sometimes
-called the anarchy of Paris.  The expansion of the Roman Empire
+called the anarchy of [[Paris]].  The expansion of the Roman Empire
 was accompanied by a sort of permanent Roman Revolution, fully as
-furious as the French Revolution.  So long as the Roman system was
+furious as the [[French Revolution]].  So long as the Roman system was
 really strong, it was full of riots and mobs and democratic divisions;
-and any number of Bastilles fell as the temple of the victories rose.
+and any number of Bastilles fell as the temple of the victories [[Rose|rose]].
 But though I had but a hurried glance at such things, there were
 among them some that further aided the solution of the problem.
 I saw the larger achievements of the later Romans; and the lesson
-that was still lacking was plainly there.  I saw the Coliseum,
-a monument of that love of looking on at athletic sports,
+that was still lacking was plainly there.  I saw [[The Coliseum|the Coliseum]],
+a monument of that [[Love|love]] of looking on at athletic sports,
 which is noted as a sign of decadence in the Roman Empire and
 of energy in the British Empire.  I saw the Baths of Caracalla,
 witnessing to a cult of cleanliness, adduced also to prove the luxury
 of Ancient Romans and the simplicity of Anglo-Saxons. All it
-really proves either way is a love of washing on a large scale;
+really proves either way is a [[Love|love]] of washing on a large scale;
 which might merely indicate that Caracalla, like other Emperors,
 was a lunatic.  But indeed what such things do indicate,
 if only indirectly, is something which is here much more important.
@@ -362,29 +362,29 @@ while there were many revolutions, there were no strikes.
 The citizens were often rebels; but there were men who were not rebels,
 because they were not citizens.  The ancient world forced a number
 of people to do the work of the world first, before it allowed
-more privileged people to fight about the government of the world.
-The truth is trite enough, of course; it is in the single word Slavery,
+more privileged people to fight about the [[government]] of the world.
+The [[Truth|truth]] is trite enough, of course; it is in the single word [[Slavery]],
 which is not the name of a crime like Simony, but rather of a scheme
 like Socialism.  Sometimes very like Socialism.
 
 Only standing idly on one of those grassy mounds under one of
-those broken arches, I suddenly saw the Labour problem of London,
-as I could not see it in London.  I do not mean that I saw which side
+those broken arches, I suddenly saw the Labour problem of [[London]],
+as I could not see it in [[London]].  I do not mean that I saw which side
 was right, or what solution was reliable, or any partisan points
 or repartees, or any practical details about practical difficulties.
 I mean that I saw what it was; the thing itself and the whole thing.
 The Labour problem of to-day stood up quite simply, like a
 peak at which a man looks back and sees single and solid,
 though when he was walking over it it was a wilderness of rocks.
-The Labour problem is the attempt to have the democracy of Paris
-without the slavery of Rome.  Between the Roman Republic and the
+The Labour problem is the attempt to have the [[Democracy|democracy]] of [[Paris]]
+without the [[Slavery|slavery]] of Rome.  Between the Roman Republic and the
 French Republic something had happened.  Whatever else it was, it was
-the abandonment of the ancient and fundamental human habit of slavery;
+the abandonment of the ancient and fundamental human habit of [[Slavery|slavery]];
 the numbering of men for necessary labour as the normal foundation
 of society, even a society in which citizens were free and equal.
 When the idea of equal citizenship returned to the world, it found
 that world changed by a much more mysterious version of equality.
-So that London, handing on the lamp from Paris as well as Rome,
+So that [[London]], handing on the lamp from [[Paris]] as [[Well|well]] as Rome,
 is faced with a new problem touching the old practice of getting
 the work of the world done somehow.  We have now to assume not
 only that all citizens are equal, but that all men are citizens.
@@ -392,11 +392,11 @@ Capitalism attempted it by combining political equality with
 economic inequality; it assumed the rich could always hire the poor.
 But Capitalism seems to me to have collapsed; to be not only
 a discredited ethic but a bankrupt business.  Whether we shall
-return to pagan slavery, or to small property, or by guilds
+return to pagan [[Slavery|slavery]], or to small property, or by guilds
 or otherwise get to work in a new way, is not the question here.
 The question here was the one I asked myself standing on that green
-mound beside the yellow river; and the answer to it lay ahead of me,
-along the road that ran towards the rising sun.
+mound beside the yellow [[River|river]]; and the answer to it lay ahead of me,
+along the [[Road|road]] that ran towards the rising sun.
 
 What made the difference?  What was it that had happened
 between the rise of the Roman Republic and the rise of the
@@ -411,17 +411,17 @@ of men is in more senses than one a mystery.  It is a mystery which I
 pondered as I stood in the corridor of the train going south from Rome.
 It was at daybreak, and (as it happened) before any one else
 had risen, that I looked out of the long row of windows across
-a great landscape grey with olives and still dark against the dawn.
-The dawn itself looked rather like a row of wonderful windows;
+a great landscape grey with olives and still dark against the [[Dawn|dawn]].
+The [[Dawn|dawn]] itself looked rather like a row of wonderful windows;
 a line of low casements unshuttered and shining under the eaves
 of cloud.  There was a curious clarity about the sunrise;
 as if its sun might be made of glass rather than gold.
-It was the first time I had seen so closely and covering such
+It was the first [[Time|time]] I had seen so closely and covering such
 a landscape the grey convolutions and hoary foliage of the olive;
-and all those twisted trees went by like a dance of dragons in a dream.
+and all those twisted trees went by like a [[Dance|dance]] of dragons in [[A Dream|a dream]].
 The rocking railway-train and the vanishing railway-line seemed to be
 going due east, as if disappearing into the sun; and save for the noise
-of the train there was no sound in all that grey and silver solitude;
+of the train there was no sound in all that grey and silver [[Solitude|solitude]];
 not even the sound of a bird.  Yet the plantations were mostly marked
 out in private plots and bore every trace of the care of private owners.
 It is seldom, I confess, that I so catch the world asleep,
@@ -432,105 +432,105 @@ already grown familiar that suddenly grow strange and significant.
 A million olives must have flashed by before I saw the first olive;
 the first, so to speak, which really waved the olive branch.
 For I remembered at last to what land I was going; and I knew the name
-of the magic which had made all those peasants out of pagan slaves,
+of the [[Magic|magic]] which had made all those peasants out of pagan slaves,
 and has presented to the modern world a new problem of labour
 and liberty.  It was as if I already saw against the clouds
 of daybreak that mountain which takes its title from the olive:
 and standing half visible upon it, a figure at which I did not look.
-_Ex oriente lux_; and I knew what dawn had broken over the ruins of Rome.
+_Ex oriente lux_; and I knew what [[Dawn|dawn]] had broken over the ruins of Rome.
 
 I have taken but this one text or label, out of a hundred such,
 the matter of labour and liberty; and thought it worth
 while to trace it from one blatant and bewildering yellow
-poster in the London streets to its high places in history.
+poster in the [[London]] streets to its high places in [[history]].
 But it is only one example of the way in which a thousand things
 grouped themselves and fell into perspective as I passed farther and
 farther from them, and drew near the central origins of civilisation.
 I do not say that I saw the solution; but I saw the problem.
 In the litter of journalism and the chatter of politics, it is too
 much of a puzzle even to be a problem.  For instance, a friend
-of mine described his book, _The Path to Rome_, as a journey through
-all Europe that the Faith had saved; and I might very well describe
-my own journey as one through all Europe that the War has saved.
+of mine described his book, _The Path to Rome_, as a [[Journey|journey]] through
+all Europe that the [[Faith]] had saved; and I might very [[Well|well]] describe
+my own [[Journey|journey]] as one through all Europe that the War has saved.
 The trail of the actual fighting, of course, was awfully
 apparent everywhere; the plantations of pale crosses seemed to crop
 up on every side like growing things; and the first French villages
-through which I passed had heard in the distance, day and night,
+through which I passed had heard in the distance, day and [[Night|night]],
 the guns of the long battle-line, like the breaking of an endless
-exterior sea of night upon the very borderland of the world.
+exterior sea of [[Night|night]] upon the very borderland of the world.
 I felt it most as we passed the noble towers of Amiens, so near
-the high-water mark of the high tide of barbarism, in that night
-of terror just before the turning of the tide.  For the truth which
+the high-[[Water|water]] mark of the high tide of barbarism, in that [[Night|night]]
+of terror just before the turning of the tide.  For the [[Truth|truth]] which
 thus grew clearer with travel is rightly represented by the metaphor
 of the artillery, as the thunder and surf of a sea beyond the world.
 Whatever else the war was, it was like the resistance of something
 as solid as land, and sometimes as patient and inert as land,
-against something as unstable as water, as weak as water; but also as
-_strong_ as water, as strong as water is in a cataract or a flood.
+against something as unstable as [[Water|water]], as weak as [[Water|water]]; but also as
+_strong_ as [[Water|water]], as strong as [[Water|water]] is in a cataract or a flood.
 It was the resistance of form to formlessness; that version or
 vision of it seemed to clarify itself more and more as I went on.
 It was the defence of that same ancient enclosure in which stood
 the broken columns of the Roman forum and the column in the
-Paris square, and of all other such enclosures down to the domestic
-enclosures of my own dog and donkey.  All had the same design,
+[[Paris]] square, and of all other such enclosures down to the domestic
+enclosures of my own dog and [[donkey]].  All had the same design,
 the marking out of a square for the experiment of liberty;
 of the old civic liberty or the later universal liberty.
 I knew, to take the domestic metaphor, that the watchdog of the West
-had again proved too strong for the wild dogs of the Orient.
-For the foes of such creative limits are chaos and old night, whether they
-are the Northern barbarism that pitted tribal pride and brutal drill
-against the civic ideal of Paris, or the Eastern barbarism that brought
+had again proved too strong for the wild [[dogs]] of the [[Orient]].
+For the foes of such creative limits are chaos and old [[Night|night]], whether they
+are the Northern barbarism that pitted tribal [[Pride|pride]] and brutal drill
+against the civic ideal of [[Paris]], or the Eastern barbarism that brought
 brigands out of the wilds of Asia to sit on the throne of Byzantium.
 And as in the other case, what I saw was something simpler and
 larger than all the disputed details about the war and the peace.
 A man may think it extraordinary, as I do, that the natural dissolution
 of the artificial German Empire into smaller states should have
 actually been prevented by its enemies, when it was already accepted
-in despair by its friends.  For we are now trying hard to hold
+in [[Despair|despair]] by its friends.  For we are now trying hard to hold
 the Prussian system together, having hammered hard for four mortal
 years to burst it asunder.  Or he may think exactly the opposite;
 it makes no difference to the larger fact I have in mind.
 A man may think it simply topsy-turvy, as I do, that we should
 clear the Turks out of Turkey, but leave them in Constantinople.
 For that is driving the barbarians from their own rude tillage
-and pasturage, and giving up to them our own European and Christian city;
+and pasturage, and giving up to them our own European and Christian [[City|city]];
 it is as if the Romans annexed Parthia but surrendered Rome.
 But he may think exactly the opposite; and the larger and simpler
-truth will still be there.  It was that the weeds and wild
+[[Truth|truth]] will still be there.  It was that the weeds and wild
 things had been everywhere breaking into our boundaries,
 climbing over the northern wall or crawling through the eastern gate,
-so that the city would soon have been swallowed in the jungle.
+so that the [[City|city]] would soon have been swallowed in the jungle.
 And whether the lines had been redrawn logically or loosely,
 or particular things cleared with consistency or caprice, a line
 has been drawn somewhere and a clearance has been made somehow.
-The ancient plan of our city has been saved; a city at least
+The ancient plan of our [[City|city]] has been saved; a [[City|city]] at least
 capable of containing citizens.  I felt this in the chance relics
 of the war itself; I felt it twenty times more in those older relics
 which even the war had never touched at all; I felt the change
 as much in the changeless East as in the ever-changing West.
-I felt it when I crossed another great square in Paris to look
+I felt it when I crossed another great square in [[Paris]] to look
 at a certain statue, which I had last seen hung with crape
 and such garlands as we give the dead; but on whose plain
 pedestal nothing now is left but the single word "Strasbourg."
 I felt it when I saw words merely scribbled with a pencil on a wall
 in a poor street in Brindisi; _Italia vittoriosa_.  But I felt it
 as much or even more in things infinitely more ancient and remote;
-in those monuments like mountains that still seem to look down
+in those monuments like [[Mountains|mountains]] that still seem to look down
 upon all modern things.  For these things were more than a trophy
 that had been raised, they were a palladium that had been rescued.
 These were the things that had again been saved from chaos,
-as they were saved at Salamis and Lepanto; and I knew what had
+as they were saved at Salamis and [[lepanto|Lepanto]]; and I knew what had
 saved them or at least in what formation they had been saved.
 I knew that these scattered splendours of antiquity would hardly
 have descended to us at all, to be endangered or delivered,
 if all that pagan world had not crystallised into Christendom.
 
 Crossing seas as smooth as pavements inlaid with turquoise
-and lapis lazuli, and relieved with marble mountains as clear
+and lapis lazuli, and relieved with marble [[Mountains|mountains]] as clear
 and famous as marble statues, it was easy to feel all that had
 been pure and radiant even in the long evening of paganism;
-but that did not make me forget what strong stars had comforted
-the inevitable night.  The historical moral was the same whether
+but that did not make me forget what strong [[Stars|stars]] had comforted
+the inevitable [[Night|night]].  The historical moral was the same whether
 these marble outlines were merely "the isles" seen afar off like
 sunset clouds by the Hebrew prophets, or were felt indeed as Hellas,
 the great archipelago of arts and arms praised by the Greek poets;
@@ -539,63 +539,63 @@ In those wild times and places, the thing that preserved both was
 the only thing that would have permanently preserved either.
 It was but part of the same story when we passed the hoary
 hills that held the primeval culture of Crete, and remembered
-that it may well have been the first home of the Philistines.
+that it may [[Well|well]] have been the first [[Home|home]] of the Philistines.
 It mattered the less by now whether the pagans were best
 represented by Poseidon the deity or by Dagon the demon.
 It mattered the less what gods had blessed the Greeks in their youth
-and liberty; for I knew what god had blessed them in their despair.
-I knew by what sign they had survived the long slavery under
+and liberty; for I knew what god had blessed them in their [[Despair|despair]].
+I knew by what sign they had survived the long [[Slavery|slavery]] under
 Ottoman orientalism; and upon what name they had called in the darkness,
-when there was no light but the horned moon of Mahound.
+when there was no light but the horned [[Moon|moon]] of Mahound.
 If the glory of Greece has survived in some sense, I knew why it
 had ever survived in any sense.  Nor did this feeling of our fixed
 formation fail me when I came to the very gates of Asia and of Africa;
-when there rose out of the same blue seas the great harbour of Alexandria;
+when there [[Rose|rose]] out of the same blue seas the great harbour of Alexandria;
 where had shone the Pharos like the star of Hellas, and where men
 had heard from the lips of Hypatia the last words of Plato.
 I know the Christians tore Hypatia in pieces; but they did not tear
 Plato in pieces.  The wild men that rode behind Omar the Arab would
 have thought nothing of tearing every page of Plato in pieces.
-For it is the nature of all this outer nomadic anarchy that it is
+For it is the [[Nature|nature]] of all this outer nomadic anarchy that it is
 capable sooner or later of tearing anything and everything in pieces;
 it has no instinct of preservation or of the permanent needs of men.
 Where it has passed the ruins remain ruins and are not renewed;
 where it has been resisted and rolled back, the links of our long
-history are never lost.  As I went forward the vision of our
-own civilisation, in the form in which it finally found unity,
+[[history]] are never lost.  As I went forward the vision of our
+own civilisation, in the form in which it finally found [[unity]],
 grew clearer and clearer; nor did I ever know it more certainly
 than when I had left it behind.
 
 For the vision was that of a shape appearing and reappearing among
-shapeless things; and it was a shape I knew.  The imagination was forced
+shapeless things; and it was a shape I knew.  The [[Imagination|imagination]] was forced
 to rise into altitudes infinitely ancient and dizzy with distance,
 as if into the cold colours of primeval dawns, or into the upper
-strata and dead spaces of a daylight older than the sun and moon.
+strata and dead spaces of a daylight older than the sun and [[Moon|moon]].
 But the character of that central clearance still became clearer
-and clearer.  And my memory turned again homewards; and I thought it
+and clearer.  And my [[Memory|memory]] turned again homewards; and I thought it
 was like the vision of a man flying from Northolt, over that little
 market-place beside my own door; who can see nothing below him
-but a waste as of grey forests, and the pale pattern of a cross.
+but a waste as of grey forests, and the pale pattern of a [[Cross|cross]].
 
 = = = = = = = = = = = = = = = =
 
 CHAPTER II
 
-THE WAY OF THE DESERT
+THE WAY OF THE [[Desert|DESERT]]
 
 It may truly be said, touching the type of culture at least,
-that Egypt has an Egyptian lower class, a French middle class and an
+that [[Egypt]] has an Egyptian lower class, a French middle class and an
 English governing class.  Anyhow it is true that the civilisations
 are stratified in this formation, or superimposed in this order.
 It is the first impression produced by the darkness and density
 of the bazaars, the line of the lighted cafes and the blaze
-of the big hotels.  But it contains a much deeper truth in all
+of the big hotels.  But it contains a much deeper [[Truth|truth]] in all
 three cases, and especially in the case of the French influence.
 It is indeed one of the first examples of what I mean by the divisions
 of the West becoming clearer in the ancient centres of the East.
 It is often said that we can only appreciate the work of England in a
 place like India.  In so far as this is true, it is quite equally true
-that we can only appreciate the work of France in a place like Egypt.
+that we can only appreciate the work of France in a place like [[Egypt]].
 But this work is of a peculiar and even paradoxical kind.
 It is too practical to be prominent, and so universal that
 it is unnoticed.
@@ -607,7 +607,7 @@ things are not accepted as French.  They are accepted as human.
 However many foreigners played football, they would still consider
 football an English thing.  But they do not consider fencing
 a French thing, though all the terms of it are still French.
-If a Frenchman were to label his hostelry an inn or a public house
+If a Frenchman were to label his hostelry an inn or a public [[house]]
 (probably written publicouse) we should think him a victim of rather
 advanced Anglomania.  But when an Englishman calls it an hotel,
 we feel no special dread of him either as a dangerous foreigner
@@ -620,18 +620,18 @@ or strange cities, which he studies because of their strangeness.
 He does not become like them, as did some of the Germans,
 or persuade them to become like him, as do most of the French.
 But whether we like or dislike this French capacity, or merely
-appreciate it properly in its place, there can be no doubt
+appreciate it properly in its place, there can be no [[Doubt|doubt]]
 about the cause of that capacity.  The cause is in the spirit
 that is so often regarded as wildly Utopian and unreal.
 The cause is in the abstract creed of equality and citizenship;
-in the possession of a political philosophy that appeals to all men.
-In truth men have never looked low enough for the success
-of the French Revolution.  They have assumed that it claims
+in the possession of a political [[philosophy]] that appeals to all men.
+In [[Truth|truth]] men have never looked low enough for the [[success]]
+of the [[French Revolution]].  They have assumed that it claims
 to be a sort of divine and distant thing, and therefore have
 not noticed it in the nearest and most materialistic things.
 They have watched its wavering in the senate and never seen it
 walking in the streets; though it can be seen in the streets of Cairo
-as in the streets of Paris.
+as in the streets of [[Paris]].
 
 In Cairo a man thinks it English to go into a tea-shop;
 but he does not think it French to go into a cafe. And the people
@@ -653,16 +653,16 @@ which is incessantly forgotten and ought to be incessantly remembered,
 about these cities and provinces of the near East, is that they
 were once as Roman as Gaul.
 
-There is a frivolous and fanciful debate I have often had with a friend,
+There is a frivolous and fanciful [[debate]] I have often had with a friend,
 about whether it is better to find one's way or to lose it, to remember
-the road or to forget it.  I am so constituted as to be capable
-of losing my way in my own village and almost in my own house.
+the [[Road|road]] or to forget it.  I am so constituted as to be capable
+of losing my way in my own village and almost in my own [[house]].
 And I am prepared to maintain the privilege to be a poetic one.
-In truth I am prepared to maintain that both attitudes are valuable,
+In [[Truth|truth]] I am prepared to maintain that both attitudes are valuable,
 and should exist side by side.  And so my friend and I walk side by side
 along the ways of the world, he being full of a rich and humane sentiment,
 because he remembers passing that way a few hundred times since
-his childhood; while to me existence is a perpetual fairy-tale,
+his [[Childhood|childhood]]; while to me existence is a perpetual fairy-tale,
 because I have forgotten all about it.  The lamp-post which moves
 him to a tear of reminiscence wrings from me a cry of astonishment;
 and the wall which to him is as historic as a pyramid is to me
@@ -673,17 +673,17 @@ But in practical politics the French have a certain advantage in knowing
 where they are, and knowing it is where they have been before.
 It is in the Roman Empire.
 
-The position of the English in Egypt or even in Palestine is something
-of a paradox.  The real English claim is never heard in England and never
+The position of the English in [[Egypt]] or even in Palestine is something
+of a [[Paradox|paradox]].  The real English claim is never heard in England and never
 uttered by Englishmen.  We do indeed hear a number of false English
 claims, and other English claims that are rather irrelevant than false.
 We hear pompous and hypocritical suggestions, full of that which so
-often accompanies the sin of pride, the weakness of provinciality.
-We hear suggestions that the English alone can establish anywhere
-a reign of law, justice, mercy, purity and all the rest of it.
+often accompanies the sin of [[Pride|pride]], the weakness of provinciality.
+We hear suggestions that the English [[Alone|alone]] can establish anywhere
+a reign of law, justice, [[Mercy|mercy]], purity and all the rest of it.
 We also hear franker and fairer suggestions that the English
 have after all (as indeed they have) embarked on a spirited
-and stirring adventure; and that there has been a real romance
+and stirring adventure; and that there has been a real [[Romance|romance]]
 in the extending of the British Empire in strange lands.
 But the real case for these semi-eastern occupations is not
 that of extending the British Empire in strange lands.
@@ -693,41 +693,41 @@ for something non-European. It would be much truer to call
 it putting Europe together again after it had been broken.
 It may almost be said of the Britons, considered as the most
 western of Europeans, that they have so completely forgotten
-their own history that they have forgotten even their own rights.
+their own [[history]] that they have forgotten even their own rights.
 At any rate they have forgotten the claims that could reasonably be
 made for them, but which they never think of making for themselves.
 They have not the faintest notion, for instance, of why hundreds of years
-ago an English saint was taken from Egypt, or why an English king
+ago an English saint was taken from [[Egypt]], or why an English [[King|king]]
 was fighting in Palestine.  They merely have a vague idea that George
 of Cappadocia was naturalised much in the same way as George of Hanover.
-They almost certainly suppose that Coeur de Lion in his wanderings
-happened to meet the King of Egypt, as Captain Cook might happen
-to meet the King of the Cannibal Islands.  To understand the past
+They almost certainly suppose that Coeur de [[Lion]] in his wanderings
+happened to meet the [[King]] of [[Egypt]], as Captain Cook might happen
+to meet the [[King]] of the Cannibal Islands.  To understand the past
 connection of England with the near East, it is necessary to understand
 something that lies behind Europe and even behind the Roman Empire;
 something that can only be conveyed by the name of the Mediterranean.
-When people talk, for instance, as if the Crusades were nothing
-more than an aggressive raid against Islam, they seem to forget
-in the strangest way that Islam itself was only an aggressive
+When people talk, for instance, as if the [[Crusades]] were nothing
+more than an aggressive raid against [[Islam]], they seem to forget
+in the strangest way that [[Islam]] itself was only an aggressive
 raid against the old and ordered civilisation in these parts.
 I do not say it in mere hostility to the religion of Mahomet; as will be
 apparent later, I am fully conscious of many values and virtues in it;
-but certainly it was Islam that was the invasion and Christendom
+but certainly it was [[Islam]] that was the invasion and Christendom
 that was the thing invaded.  An Arabian gentleman found riding
-on the road to Paris or hammering on the gates of Vienna can hardly
-complain that we have sought him out in his simple tent in the desert.
+on the [[Road|road]] to [[Paris]] or hammering on the gates of Vienna can hardly
+complain that we have sought him out in his simple tent in the [[Desert|desert]].
 The conqueror of Sicily and Spain cannot reasonably express surprise at
-being an object of morbid curiosity to the people of Italy and France.
-In the city of Cairo the stranger feels many of the Moslem merits,
+being an object of morbid curiosity to the people of [[Italy]] and France.
+In the [[City|city]] of Cairo the stranger feels many of the Moslem merits,
 but he certainly feels the militaristic character of the Moslem glories.
-The crown of the city is the citadel, built by the great Saladin
+The [[Crown|crown]] of the [[City|city]] is the citadel, built by the great Saladin
 but of the spoils of ancient Egyptian architecture; and that fact
 is in its turn very symbolical.  The man was a great conqueror,
 but he certainly behaved like an invader; he spoiled the Egyptians.
 He broke the old temples and tombs and built his own out of fragments.
 Nor is this the only respect in which the citadel of Cairo is set
 high like a sign in heaven.  The sign is also significant because
-from this superb height the traveller first beholds the desert,
+from this superb height the traveller first beholds the [[Desert|desert]],
 out of which the great conquest came.
 
 Every one has heard the great story of the Greeks who cried aloud
@@ -735,59 +735,59 @@ in triumph when they saw the sea afar off; but it is a stranger
 experience to see the earth afar off.  And few of us, strictly speaking,
 have ever seen the earth at all.  In cultivated countries it
 is always clad, as it were, in green garments.  The first sight
-of the desert is like the sight of a naked giant in the distance.
+of the [[Desert|desert]] is like the sight of a naked giant in the distance.
 The image is all the more natural because of the particular formation
-which it takes, at least as it borders upon the fields of Egypt,
+which it takes, at least as it borders upon the fields of [[Egypt]],
 and as it is seen from the high places of Cairo.  Those who have seen
-the desert only in pictures generally think of it as entirely flat.
+the [[Desert|desert]] only in pictures generally think of it as entirely flat.
 But this edge of it at least stands up on the horizon, as a line
 of wrinkled and hollow hills like the scalps of bald men; or worse,
 of bald women.  For it is impossible not to think of such repulsive
-images, in spite of real sublimity of the call to the imagination.
+images, in spite of real sublimity of the call to the [[Imagination|imagination]].
 There is something curiously hostile and inhuman about the first
 appearance of the motionless surges of that dry and dreadful sea.
 Afterwards, if the traveller has happened to linger here and there
-in the outposts of the desert, has seen the British camp at Kantara
-or the graceful French garden town of Ismalia, he comes to take
-the desert as a background, and sometimes a beautiful background;
-a mirror of mighty reflections and changing colours almost as strange
+in the outposts of the [[Desert|desert]], has seen the British camp at Kantara
+or the graceful French [[Garden|garden]] town of Ismalia, he comes to take
+the [[Desert|desert]] as a background, and sometimes a beautiful background;
+a [[Mirror|mirror]] of mighty reflections and changing colours almost as strange
 as the colours of the sea.  But when it is first seen abutting,
 and as it were, advancing, upon the fields and gardens of humanity,
 then it looks indeed like an enemy, or a long line of enemies;
 like a line of tawny wild beasts thus halted with their heads lifted.
 It is the feeling that such vain and sterile sand can yet make
 itself into something like a mountain range; and the traveller
-remembers all the tragedies of the desert, when he lifts up his eyes
+remembers all the tragedies of the [[Desert|desert]], when he lifts up his eyes
 to those accursed hills, from whence no help can come.
 
-But this is only a first glimpse from a city set among green fields;
-and is concerned rather with what the desert has been in its relation
-to men than with what the desert is in itself.  When the mind has
+But this is only a first glimpse from a [[City|city]] set among green fields;
+and is concerned rather with what the [[Desert|desert]] has been in its relation
+to men than with what the [[Desert|desert]] is in itself.  When the mind has
 grown used to its monotony, a curious change takes place which I
 have never seen noted or explained by the students of mental science.
-It may sound strange to say that monotony of its nature becomes novelty.
+It may sound strange to say that monotony of its [[Nature|nature]] becomes novelty.
 But if any one will try the common experiment of saying some ordinary
-word such as "moon" or "man" about fifty times, he will find
+word such as "[[Moon|moon]]" or "man" about fifty times, he will find
 that the expression has become extraordinary by sheer repetition.
 A man has become a strange animal with a name as queer as that of the gnu;
-and the moon something monstrous like the moon-calf. Something
-of this magic of monotony is effected by the monotony of deserts;
+and the [[Moon|moon]] something monstrous like the [[Moon|moon]]-calf. Something
+of this [[Magic|magic]] of monotony is effected by the monotony of deserts;
 and the traveller feels as if he had entered into a secret,
 and was looking at everything from another side.  Something of this
-simplification appears, I think, in the religions of the desert,
-especially in the religion of Islam.  It explains something of the
-super-human hopes that fill the desert prophets concerning the future;
+simplification appears, I think, in the religions of the [[Desert|desert]],
+especially in the religion of [[Islam]].  It explains something of the
+super-human hopes that fill the [[Desert|desert]] prophets concerning the future;
 it explains something also about their barbarous indifference
 to the past.
 
-We think of the desert and its stones as old; but in one sense
+We think of the [[Desert|desert]] and its stones as old; but in one sense
 they are unnaturally new.  They are unused, and perhaps unusable.
 They might be the raw material of a world; only they are so raw
 as to be rejected.  It is not easy to define this quality of
 something primitive, something not mature enough to be fruitful.
 Indeed there is a hard simplicity about many Eastern things that is
 as much crude as archaic.  A palm-tree is very like a tree drawn
-by a child--or by a very futurist artist.  Even a pyramid is like
+by a [[Child|child]]--or by a very futurist [[artist]].  Even a pyramid is like
 a mathematical figure drawn by a schoolmaster teaching children;
 and its very impressiveness is that of an ultimate Platonic abstraction.
 There is something curiously simple about the shape in which
@@ -795,33 +795,33 @@ these colossal crystals of the ancient sands have been cast.
 It is only when we have felt something of this element,
 not only of simplicity, but of crudity, and even in a sense
 of novelty, that we can begin to understand both the immensity
-and the insufficiency of that power that came out of the desert,
+and the insufficiency of that power that came out of the [[Desert|desert]],
 the great religion of Mahomet.
 
-In the red circle of the desert, in the dark and secret place,
-the prophet discovers the obvious things.  I do not say it
+In the red circle of the [[Desert|desert]], in the dark and secret place,
+the [[Prophet|prophet]] discovers the obvious things.  I do not say it
 merely as a sneer, for obvious things are very easily forgotten;
 and indeed every high civilisation decays by forgetting obvious things.
-But it is true that in such a solitude men tend to take very simple
-ideas as if they were entirely new ideas.  There is a love of
+But it is true that in such a [[Solitude|solitude]] men tend to take very simple
+ideas as if they were entirely new ideas.  There is a [[Love|love]] of
 concentration which comes from the lack of comparison.  The lonely
 man looking at the lonely palm-tree does see the elementary truths
 about the palm-tree; and the elementary truths are very essential.
 Thus he does see that though the palm-tree may be a very simple design,
 it was not he who designed it.  It may look like a tree drawn
-by a child, but he is not the child who could draw it.  He has not
-command of that magic slate on which the pictures can come to life,
-or of that magic green chalk of which the green lines can grow.
+by a [[Child|child]], but he is not the [[Child|child]] who could draw it.  He has not
+command of that [[Magic|magic]] slate on which the pictures can come to life,
+or of that [[Magic|magic]] green [[chalk]] of which the green lines can grow.
 He sees at once that a power is at work in whose presence
 he and the palm-tree are alike little children.  In other words,
 he is intelligent enough to believe in God; and the Moslem,
-the man of the desert, is intelligent enough to believe in God.
+the man of the [[Desert|desert]], is intelligent enough to believe in God.
 But his belief is lacking in that humane complexity that comes
 from comparison.  The man looking at the palm-tree does realise
 the simple fact that God made it; while the man looking at
-the lamp-post in a large modern city can be persuaded by a hundred
+the lamp-post in a large modern [[City|city]] can be persuaded by a hundred
 sophistical circumlocutions that he made it himself.  But the man
-in the desert cannot compare the palm-tree with the lamp-post,
+in the [[Desert|desert]] cannot compare the palm-tree with the lamp-post,
 or even with all the other trees which may be better worth looking
 at than the lamp-post. Hence his religion, though true as far
 as it goes, has not the variety and vitality of the churches
@@ -829,46 +829,46 @@ that were designed by men walking in the woods and orchards.
 I speak here of the Moslem type of religion and not of the oriental type
 of ornament, which is much older than the Moslem type of religion.
 But even the oriental type of ornament, admirable as it often is,
-is to the ornament of a gothic cathedral what a fossil forest is
-to a forest full of birds.  In short, the man of the desert tends
-to simplify too much, and to take his first truth for the last truth.
-And as it is with religion so it is with morality.  He who believes
+is to the ornament of a gothic [[Cathedral|cathedral]] what a fossil forest is
+to a forest full of [[Birds|birds]].  In short, the man of the [[Desert|desert]] tends
+to simplify too much, and to take his first [[Truth|truth]] for the last [[Truth|truth]].
+And as it is with religion so it is with [[morality]].  He who believes
 in the existence of God believes in the equality of man.  And it has
-been one of the merits of the Moslem faith that it felt men as men,
+been one of the merits of the Moslem [[Faith|faith]] that it felt men as men,
 and was not incapable of welcoming men of many different races.
 But here again it was so hard and crude that its very equality was
-like a desert rather than a field.  Its very humanity was inhuman.
+like a [[Desert|desert]] rather than a field.  Its very humanity was inhuman.
 
 But though this human sentiment is rather rudimentary it is very real.
-When a man in the desert meets another man, he is really
+When a man in the [[Desert|desert]] meets another man, he is really
 a man; the proverbial two-legged fowl without feathers.
 He is an absolute and elementary shape, like the palm-tree
 or the pyramid.  The discoverer does not pause to consider
 through what gradations he may have been evolved from a camel.
 When the man is a mere dot in the distance, the other man does
-not shout at him and ask whether he had a university education,
+not shout at him and ask whether he had a university [[Education|education]],
 or whether he is quite sure he is purely Teutonic and not Celtic
 or Iberian.  A man is a man; and a man is a very important thing.
-One thing redeems the Moslem morality which can be set over against
+One thing redeems the Moslem [[morality]] which can be set over against
 a mountain of crimes; a considerable deposit of common sense.
 And the first fact of common sense is the common bond of men.
 There is indeed in the Moslem character also a deep and most dangerous
-potentiality of fanaticism of the menace of which something may be
-said later.  Fanaticism sounds like the flat contrary of common sense;
+potentiality of [[Fanaticism|fanaticism]] of the menace of which something may be
+said later.  [[Fanaticism]] sounds like the flat contrary of common sense;
 yet curiously enough they are both sides of the same thing.
-The fanatic of the desert is dangerous precisely because he does
-take his faith as a fact, and not even as a truth in our more
+The fanatic of the [[Desert|desert]] is dangerous precisely because he does
+take his [[Faith|faith]] as a fact, and not even as a [[Truth|truth]] in our more
 transcendental sense.  When he does take up a mystical idea he takes
 it as he takes the man or the palm-tree; that is, quite literally.
 When he does distinguish somebody not as a man but as a Moslem,
 then he divides the Moslem from the non-Moslem exactly as he divides
 the man from the camel.  But even then he recognises the equality of men
 in the sense of the equality of Moslems.  He does not, for instance,
-complicate his conscience with any sham science about races.
+complicate his [[Conscience|conscience]] with any sham science about races.
 In this he has something like an intellectual advantage over
 the Jew, who is generally so much his intellectual superior;
 and even in some ways his spiritual superior.  The Jew has far more
-moral imagination and sympathy with the subtler ideals of the soul.
+moral [[Imagination|imagination]] and sympathy with the subtler ideals of the [[Soul|soul]].
 For instance, it is said that many Jews disbelieve in a future life;
 but if they did believe in a future life, it would be something
 more worthy of the genius of Isaiah and Spinoza.  The Moslem Paradise
@@ -885,27 +885,27 @@ of which the individual is proud in the abstract.
 A Frenchman is proud of France, and therefore may think himself
 unworthy of France.  But a German is proud of being a German;
 and he cannot be too unworthy to be a German when he is a German.
-In short, mere family pride flatters every member of the family;
+In short, mere family [[Pride|pride]] flatters every member of the family;
 it produced the arrogance of the Germans, and it is capable of producing
 a much subtler kind of arrogance in the Jews.  From this particular
-sort of self-deception the more savage man of the desert is free.
+sort of [[Self-Deception|self-deception]] the more savage man of the [[Desert|desert]] is free.
 If he is not considering somebody as a Moslem, he will consider
 him as a man.  At the price of something like barbarism, he has
 at least been saved from ethnology.
 
-But here again the obvious is a limit as well as a light to him.
+But here again the obvious is a limit as [[Well|well]] as a light to him.
 It does not permit, for instance, anything fine or subtle in
-the sentiment of sex.  Islam asserts admirably the equality of men;
+the sentiment of sex.  [[Islam]] asserts admirably the equality of men;
 but it is the equality of males.  No one can deny that a noble
 dignity is possible even to the poorest, who has seen the Arabs
-coming in from the desert to the cities of Palestine or Egypt.
+coming in from the [[Desert|desert]] to the cities of Palestine or [[Egypt]].
 No one can deny that men whose rags are dropping off their backs can
 bear themselves in a way befitting kings or prophets in the great
 stories of Scripture.  No one can be surprised that so many fine
 artists have delighted to draw such models on the spot, and to make
 realistic studies for illustrations to the Old and New Testaments.
-On the road to Cairo one may see twenty groups exactly like that
-of the Holy Family in the pictures of the Flight into Egypt;
+On the [[Road|road]] to Cairo one may see twenty groups exactly like that
+of the Holy Family in the pictures of the Flight into [[Egypt]];
 with only one difference.  The man is riding on the ass.
 
 In the East it is the male who is dignified and even ceremonial.
@@ -914,17 +914,17 @@ that petticoats, which some regard as a garb of humiliation for women
 are really regarded as the only garb of magnificence for men,
 when they wish to be something more than men.  They are worn by kings,
 by priests, and by judges.  The male Moslem, especially in his
-own family, is the king and the priest and the judge.  I do not mean
+own family, is the [[King|king]] and the priest and the judge.  I do not mean
 merely that he is the master, as many would say of the male in many
-Western societies, especially simple and self-governing societies.
+Western societies, especially simple and [[Self|self]]-governing societies.
 I mean something more; I mean that he has not only the kingdom
 and the power but the glory, and even as it were the glamour.
 I mean he has not only the rough leadership that we often give
-to the man, but the special sort of social beauty and stateliness
+to the man, but the special sort of social [[Beauty|beauty]] and stateliness
 that we generally expect only of the woman.  What we mean when we
 say that an ambitious man wants to have a fine woman at the head
 of the dinner-table, that the Moslem world really means when it expects
-to see a fine man at the head of the house.  Even in the street
+to see a fine man at the head of the [[house]].  Even in the street
 he is the peacock, coloured much more splendidly than the peahen.
 Even when clad in comparatively sober and partly European costume,
 as outside the cafes of Cairo and the great cities, he exhibits
@@ -938,54 +938,54 @@ of a priest.  And it is a hat one cannot take off to a lady.
 This fact is familiar enough in talk about Moslem and oriental
 life generally; but I only repeat it in order to refer it back
 to the same simplification which is the advantage and disadvantage
-of the philosophy of the desert.  Chivalry is not an obvious idea.
+of the [[philosophy]] of the [[Desert|desert]].  Chivalry is not an obvious idea.
 It is not as plain as a pike-staff or as a palm-tree. It is a delicate
 balance between the sexes which gives the rarest and most poetic
 kind of pleasure to those who can strike it.  But it is not
-self-evident to a savage merely because he is also a sane man.
+[[Self|self]]-evident to a savage merely because he is also a sane man.
 It often seems to him as much a part of his own coarse common sense
 that all the fame and fun should go to the sex that is stronger
 and less tied, as that all the authority should go to the parents
 rather than the children.  Pity for weakness he can understand;
 and the Moslem is quite capable of giving royal alms to a cripple
-or an orphan.  But reverence for weakness is to him simply meaningless.
+or an [[Orphan|orphan]].  But reverence for weakness is to him simply meaningless.
 It is a mystical idea that is to him no more than a mystery.
 But the same is true touching what may be called the lighter side of
 the more civilised sentiment.  This hard and literal view of life gives
 no place for that slight element of a magnanimous sort of play-acting,
-which has run through all our tales of true lovers in the West.
+which has run through all our tales of true [[lovers]] in the West.
 Wherever there is chivalry there is courtesy; and wherever there
-is courtesy there is comedy.  There is no comedy in the desert.
+is courtesy there is [[Comedy|comedy]].  There is no [[Comedy|comedy]] in the [[Desert|desert]].
 
 Another quite logical and consistent element, in the very logical
 and consistent creed we call Mahometanism, is the element
-that we call Vandalism.  Since such few and obvious things alone
+that we call Vandalism.  Since such few and obvious things [[Alone|alone]]
 are vital, and since a half-artistic half-antiquarian affection
 is not one of these things, and cannot be called obvious,
 it is largely left out.  It is very difficult to say in a few
-well-chosen words exactly what is now the use of the Pyramids.
+[[Well|well]]-chosen words exactly what is now the use of the Pyramids.
 Therefore Saladin, the great Saracen warrior, simply stripped
 the Pyramids to build a military fortress on the heights of Cairo.
 It is a little difficult to define exactly what is a man's duty to
-the Sphinx; and therefore the Mamelukes used it entirely as a target.
-There was little in them of that double feeling, full of pathos and irony,
+[[The Sphinx|the Sphinx]]; and therefore the Mamelukes used it entirely as a target.
+There was little in them of that [[Double|double]] feeling, full of pathos and irony,
 which divided the hearts of the primitive Christians in presence of
 the great pagan literature and art.  This is not concerned with brutal
-outbreaks of revenge which may be found on both sides, or with chivalrous
+outbreaks of [[Revenge|revenge]] which may be found on both sides, or with chivalrous
 caprices of toleration, which may also be found on both sides;
 it is concerned with the inmost mentality of the two religions,
 which must be understood in order to do justice to either.
 The Moslem mind never tended to that mystical mode of "loving yet leaving"
-with which Augustine cried aloud upon the ancient beauty, or Dante
+with which Augustine cried aloud upon the ancient [[Beauty|beauty]], or [[Dante]]
 said farewell to Virgil when he left him in the limbo of the pagans.
 The Moslem traditions, unlike the medieval legends, do not suggest
-the image of a knight who kissed Venus before he killed her.
+the image of a knight who kissed [[Venus]] before he killed her.
 We see in all the Christian ages this combination which is not
 a compromise, but rather a complexity made by two contrary enthusiasms;
-as when the Dark Ages copied out the pagan poems while denying
+as when the Dark Ages copied out the pagan [[Poems|poems]] while denying
 the pagan legends; or when the popes of the Renascence
 imitated the Greek temples while denying the Greek gods.
-This high inconsistency is inconsistent with Islam.  Islam, as I
+This high inconsistency is inconsistent with [[Islam]].  [[Islam]], as I
 have said, takes everything literally, and does not know how to play
 with anything.  And the cause of the contrast is the historical
 cause of which we must be conscious in all studies of this kind.
@@ -994,41 +994,41 @@ reconstructing a whole civilisation, and even a complex civilisation.
 It was the attempt to make a new balance, which differed from the old
 balance of the stoics of Rome; but which could not afford to lose
 its balance any more than they.  It differed because the old system
-was one of many religions under one government, while the new
+was one of many religions under one [[government]], while the new
 was one of many governments under one religion.  But the idea
-of variety in unity remained though it was in a sense reversed.
+of variety in [[unity]] remained though it was in a sense reversed.
 A historical instinct made the men of the new Europe try hard
 to find a place for everything in the system, however much might
 be denied to the individual.  Christians might lose everything,
 but Christendom, if possible, must not lose anything.  The very
-nature of Islam, even at its best, was quite different from this.
+[[Nature|nature]] of [[Islam]], even at its best, was quite different from this.
 Nobody supposed, even subconsciously, that Mahomet meant to restore
-ancient Babylon as medievalism vaguely sought to restore ancient Rome.
+ancient Babylon as medievalism vaguely sought to restore [[Ancient Rome|ancient Rome]].
 Nobody thought that the builders of the Mosque of Omar had looked
 at the Pyramids as the builders of St. Peter's might have looked
-at the Parthenon.  Islam began at the beginning; it was content with
-the idea that it had a great truth; as indeed it had a colossal truth.
-It was so huge a truth that it was hard to see it was a half-truth.
+at the Parthenon.  [[Islam]] began at the beginning; it was content with
+the idea that it had a great [[Truth|truth]]; as indeed it had a colossal [[Truth|truth]].
+It was so huge a [[Truth|truth]] that it was hard to see it was a half-[[Truth|truth]].
 
-Islam was a movement; that is why it has ceased to move.
+[[Islam]] was a movement; that is why it has ceased to move.
 For a movement can only be a mood.  It may be a very necessary movement
 arising from a very noble mood, but sooner or later it must find its
-level in a larger philosophy, and be balanced against other things.
-Islam was a reaction towards simplicity; it was a violent simplification,
+level in a larger [[philosophy]], and be balanced against other things.
+[[Islam]] was a reaction towards simplicity; it was a violent simplification,
 which turned out to be an over-simplification. Stevenson has somewhere
 one of his perfectly picked phrases for an empty-minded man;
 that he has not one thought to rub against another while he waits
 for a train.  The Moslem had one thought, and that a most vital one;
-the greatness of God which levels all men.  But the Moslem had not one
+the [[Greatness|greatness]] of God which levels all men.  But the Moslem had not one
 thought to rub against another, because he really had not another.
 It is the friction of two spiritual things, of tradition and invention,
-or of substance and symbol, from which the mind takes fire.
+or of substance and symbol, from which the mind takes [[Fire|fire]].
 The creeds condemned as complex have something like the secret of sex;
 they can breed thoughts.
 
 An idealistic intellectual remarked recently that there were
 a great many things in the creed for which he had no use.
-He might just as well have said that there were a great many
+He might just as [[Well|well]] have said that there were a great many
 things in the _Encyclopedia Britannica_ for which he had no use.
 It would probably have occurred to him that the work in question
 was meant for humanity and not for him.  But even in the case
@@ -1039,25 +1039,25 @@ to be said for the man in _Pickwick_ who read first about China
 and then about metaphysics and combined his information.
 But however this may be in the famous case of Chinese metaphysics,
 it is this which is chiefly lacking in Arabian metaphysics.
-They suffer, as I have said of the palm-tree in the desert,
+They suffer, as I have said of the palm-tree in the [[Desert|desert]],
 from a lack of the vitality that comes from complexity,
 and of the complexity that comes from comparison.  They suffer
 from having been in a single movement in a single direction;
 from having begun as a mood and ended rather as a mode,
 that is a mere custom or fashion.  But any modern Christian thus
-criticising the Moslem movement will do well to criticise himself
-and his world at the same time.  For in truth most modern things
+criticising the Moslem movement will do [[Well|well]] to criticise himself
+and his world at the same [[Time|time]].  For in [[Truth|truth]] most modern things
 are mere movements in the same sense as the Moslem movement.
 They are at best fashions, in which one thing is exaggerated
 because it has been neglected.  They are at worst mere monomanias,
 in which everything is neglected that one thing may be exaggerated.
-Good or bad, they are alike movements which in their nature can only
+Good or bad, they are alike movements which in their [[Nature|nature]] can only
 move for a certain distance and then stop.  Feminism, for instance,
-is in its nature a movement, and one that must stop somewhere.
-But the Suffragettes no more established a philosophy of the sexes
+is in its [[Nature|nature]] a movement, and one that must stop somewhere.
+But the Suffragettes no more established a [[philosophy]] of the sexes
 by their feminism than the Arabs did by their anti-feminism. A woman
-can find her home on the hustings even less than in the harem;
-but such movements do not really attempt to find a final home for
+can find her [[Home|home]] on the hustings even less than in the harem;
+but such movements do not really attempt to find a final [[Home|home]] for
 anybody or anything.  Bolshevism is a movement; and in my opinion
 a very natural and just movement considered as a revolt against
 the crude cruelty of Capitalism.  But when we find the Bolshevists
@@ -1065,55 +1065,55 @@ making a rule that the drama "must encourage the proletarian spirit,"
 it is obvious that those who say so are not only maniacs but,
 what is more to the point here, are monomaniacs.  Imagine having
 to apply that principle, let us say, to "Charley's Aunt."
-None of these things seek to establish a complete philosophy
-such as Aquinas founded on Aristotle.  The only two modern men
+None of these things seek to establish a complete [[philosophy]]
+such as [[aquinas|Aquinas]] founded on Aristotle.  The only two modern men
 who attempted it were Comte and Herbert Spencer.  Spencer, I think,
 was too small a man to do it at all; and Comte was a great enough
 man to show how difficult it is to do it in modern times.
 None of these movements can do anything but move; they have not
 discovered where to rest.
 
-And this fact brings us back to the man of the desert, who moves
+And this fact brings us back to the man of the [[Desert|desert]], who moves
 and does not rest; but who has many superiorities to the restless
-races of the industrial city.  Men who have been in the Manchester
+races of the [[Industrial City|industrial city]].  Men who have been in the Manchester
 movement in 1860 and the Fabian movement in 1880 cannot sneer
 at a religious mood that lasted for eight hundred years.
 And those who tolerate the degraded homelessness of the slums
-cannot despise the much more dignified homelessness of the desert.
-Nevertheless, the thing is a homelessness and not a home; and there
+cannot despise the much more dignified homelessness of the [[Desert|desert]].
+Nevertheless, the thing is a homelessness and not a [[Home|home]]; and there
 runs through it all the note of the nomad.  The Moslem takes literally,
-as he takes everything, the truth that here we have no abiding city.
+as he takes everything, the [[Truth|truth]] that here we have no abiding [[City|city]].
 He can see no meaning in the mysticism of materialism,
 the sacramental idea that a French poet expressed so nobly,
-when he said that our earthly city is the body of the city of God.
-He has no true notion of building a house, or in our Western
-sense of recognising the kindred points of heaven and home.
+when he said that our earthly [[City|city]] is the [[Body|body]] of the [[City|city]] of God.
+He has no true notion of building a [[house]], or in our Western
+sense of recognising the kindred points of heaven and [[Home|home]].
 Even the exception to this rule is an exception at once terrible
-and touching.  There is one house that the Moslem does build
-like a house and even a home, often with walls and roof and door;
-as square as a cottage, as solid as a fort.  And that is his grave.
+and touching.  There is one [[house]] that the Moslem does build
+like a [[house]] and even a [[Home|home]], often with walls and roof and door;
+as square as a cottage, as solid as a fort.  And that is his [[Grave|grave]].
 A Moslem cemetery is literally like a little village.  It is a village,
-as the saying goes, that one would not care to walk through at night.
+as the saying goes, that one would not care to walk through at [[Night|night]].
 There is something singularly creepy about so strange a street
 of houses, each with a door that might be opened by a dead man.
 But in a less fanciful sense, there is about it something profoundly
-pathetic and human.  Here indeed is the sailor home from sea,
-in the only port he will consent to call his home; here at last
+pathetic and human.  Here indeed is the sailor [[Home|home]] from sea,
+in the only port he will consent to call his [[Home|home]]; here at last
 the nomad confesses the common need of men.  But even about this
-there broods the presence of the desert and its dry bones of reason.
+there broods the presence of the [[Desert|desert]] and its dry bones of reason.
 He will accept nothing between a tent and a tomb.
 
-The philosophy of the desert can only begin over again.
+The [[philosophy]] of the [[Desert|desert]] can only begin over again.
 It cannot grow; it cannot have what Protestants call progress
-and Catholics call development.  There is death and hell
-in the desert when it does begin over again.  There is always
-the possibility that a new prophet will rediscover the old truth;
+and Catholics call development.  There is [[Death|death]] and hell
+in the [[Desert|desert]] when it does begin over again.  There is always
+the possibility that a new [[Prophet|prophet]] will rediscover the old [[Truth|truth]];
 will find again written on the red sands the secret of the obvious.
 But it will always be the same secret, for which thousands
 of these simple and serious and splendidly valiant men will die.
 The highest message of Mahomet is a piece of divine tautology.
 The very cry that God is God is a repetition of words, like the
-repetitions of wide sands and rolling skies.  The very phrase is like
+repetitions of wide sands and [[rolling]] skies.  The very phrase is like
 an everlasting echo, that can never cease to say the same sacred word;
 and when I saw afterwards the mightiest and most magnificent
 of all the mosques of that land, I found that its inscriptions
@@ -1124,7 +1124,7 @@ and dart pattern or the Greek key.  It is as if we could make
 a heraldry of handwriting, or cover a wall-paper with signatures.
 But the literary style is as recurrent as the decorative style;
 perhaps that is why it can be used as a decorative style.
-Phrases are repeated again and again like ornamental stars or flowers.
+Phrases are repeated again and again like ornamental [[Stars|stars]] or [[Flowers|flowers]].
 Many modern people, for example, imagine that the Athanasian Creed
 is full of vain repetitions; but that is because people are too lazy
 to listen to it, or not lucid enough to understand it.  The same
@@ -1132,109 +1132,109 @@ terms are used throughout, as they are in a proposition of Euclid.
 But the steps are all as differentiated and progressive as in a
 proposition of Euclid.  But in the inscriptions of the Mosque whole
 sentences seem to occur, not like the steps of an argument, but rather
-like the chorus of a song.  This is the impression everywhere produced
-by this spirit of the sandy wastes; this is the voice of the desert,
-though the muezzin cries from the high turrets of the city.
+like the [[Chorus|chorus]] of a [[Song|song]].  This is the impression everywhere produced
+by this spirit of the sandy wastes; this is the voice of the [[Desert|desert]],
+though the muezzin cries from the high turrets of the [[City|city]].
 Indeed one is driven to repeating oneself about the repetition,
 so overpowering is the impression of the tall horizons of those
-tremendous plains, brooding upon the soul with all the solemn weight
-of the self-evident.
+tremendous plains, brooding upon the [[Soul|soul]] with all the solemn weight
+of the [[Self|self]]-evident.
 
-There is indeed another aspect of the desert, yet more ancient
+There is indeed another aspect of the [[Desert|desert]], yet more ancient
 and momentous, of which I may speak; but here I only deal
 with its effect on this great religion of simplicity.  For it is
 through the atmosphere of that religion that a man makes his way,
 as so many pilgrims have done, to the goal of this pilgrimage.
-Also this particular aspect remained the more sharply in my memory
+Also this particular aspect remained the more sharply in my [[Memory|memory]]
 because of the suddenness with which I escaped from it.  I had not
 expected the contrast; and it may have coloured all my after experiences.
-I descended from the desert train at Ludd, which had all the look
-of a large camp in the desert; appropriately enough perhaps,
+I descended from the [[Desert|desert]] train at Ludd, which had all the look
+of a large camp in the [[Desert|desert]]; appropriately enough perhaps,
 for it is the traditional birthplace of the soldier St. George.
 At the moment, however, there was nothing rousing or romantic
 about its appearance.  It was perhaps unusually dreary; for heavy
-rain had fallen; and the water stood about in what it is easier
+rain had fallen; and the [[Water|water]] stood about in what it is easier
 to call large puddles than anything so poetic as small pools.
 A motor car sent by friends had halted beside the platform;
 I got into it with a not unusual vagueness about where I
-was going; and it wound its way up miry paths to a more rolling
+was going; and it wound its way up miry paths to a more [[rolling]]
 stretch of country with patches of cactus here and there.
 And then with a curious abruptness I became conscious that
-the whole huge desert had vanished, and I was in a new land.
-The dark red plains had rolled away like an enormous nightmare;
+the whole huge [[Desert|desert]] had vanished, and I was in a new land.
+The dark red plains had rolled away like an enormous [[nightmare]];
 and I found myself in a fresh and exceedingly pleasant dream.
 
 I know it will seem fanciful; but for a moment I really felt as if I
-had come home; or rather to that home behind home for which we
-are all homesick.  The lost memory of it is the life at once
-of faith and of fairy-tale. Groves glowing with oranges rose behind
-hedges of grotesque cactus or prickly pear; which really looked
+had come [[Home|home]]; or rather to that [[Home|home]] behind [[Home|home]] for which we
+are all homesick.  The lost [[Memory|memory]] of it is the life at once
+of [[Faith|faith]] and of fairy-tale. Groves glowing with oranges [[Rose|rose]] behind
+hedges of [[Grotesque|grotesque]] cactus or prickly pear; which really looked
 like green dragons guarding the golden apples of the Hesperides.
-On each side of the road were such flowers as I had never seen
+On each side of the [[Road|road]] were such [[Flowers|flowers]] as I had never seen
 before under the sun; for indeed they seemed to have the sun in them
 rather than the sun on them.  Clusters and crowds of crimson anemones
-were of a red not to be symbolised in blood or wine; but rather
-in the red glass that glows in the window dedicated to a martyr.
-Only in a wild Eastern tale could one picture a pilgrim or
-traveller finding such a garden in the desert; and I thought
-of the oldest tale of all and the garden from which we came.
+were of a red not to be symbolised in [[Blood|blood]] or wine; but rather
+in the red glass that glows in the [[Window|window]] dedicated to a martyr.
+Only in a wild Eastern tale could one picture a [[Pilgrim|pilgrim]] or
+traveller finding such a [[Garden|garden]] in the [[Desert|desert]]; and I thought
+of the oldest tale of all and the [[Garden|garden]] from which we came.
 But there was something in it yet more subtle; which there must
 be in the impression of any earthly paradise.  It is vital to such
-a dream that things familiar should be mixed with things fantastic;
+[[A Dream|a dream]] that things familiar should be mixed with things fantastic;
 as when an actual dream is filled with the faces of old friends.
 Sparrows, which seem to be the same all over the world, were darting
-hither and thither among the flowers; and I had the fancy that they
-were the souls of the town-sparrows of London and the smoky cities,
+hither and thither among the [[Flowers|flowers]]; and I had the fancy that they
+were the souls of the town-sparrows of [[London]] and the smoky cities,
 and now gone wherever the good sparrows go.  And a little way
-up the road before me, on the hill between the cactus hedges,
-I saw a grey donkey trotting; and I could almost have sworn that it
-was the donkey I had left at home.
+up the [[Road|road]] before me, on the [[Hill|hill]] between the cactus hedges,
+I saw a grey [[donkey]] trotting; and I could almost have sworn that it
+was the [[donkey]] I had left at [[Home|home]].
 
 He was trotting on ahead of me, and the outline of his erect
 and elfish ears was dark against the sky.  He was evidently
 going somewhere with great determination; and I thought I knew
 to what appropriate place he was going, and that it was my fate
 to follow him like a moving omen.  I lost sight of him later,
-for I had to complete the journey by train; but the train followed
+for I had to complete the [[Journey|journey]] by train; but the train followed
 the same direction, which was up steeper and steeper hills.
 I began to realise more clearly where I was; and to know that
-the garden in the desert that had bloomed so suddenly about me
-had borne for many desert wanderers the name of the promised land.
-As the rocks rose higher and higher on every side, and hung
+the [[Garden|garden]] in the [[Desert|desert]] that had bloomed so suddenly about me
+had borne for many [[Desert|desert]] wanderers the name of the promised land.
+As the rocks [[Rose|rose]] higher and higher on every side, and hung
 over us like terrible and tangible clouds, I saw in the dim grass
 of the slopes below them something I had never seen before.
 It was a rainbow fallen upon the earth, with no part of it
-against the sky, but only the grasses and the flowers shining
+against the sky, but only the grasses and the [[Flowers|flowers]] shining
 through its fine shades of fiery colour.  I thought this also was
 like an omen; and in such a mood of idle mysticism there fell
 on me another accident which I was content to count for a third.
 For when the train stopped at last in the rain, and there was no other
-vehicle for the last lap of the journey, a very courteous officer,
+vehicle for the last lap of the [[Journey|journey]], a very courteous officer,
 an army surgeon, gave me a seat in an ambulance wagon; and it was
-under the shield of the red cross that I entered Jerusalem.
+under the shield of the red [[Cross|cross]] that I entered Jerusalem.
 
 For suddenly, between a post of the wagon and a wrack of rainy cloud
 I saw it, uplifted and withdrawn under all the arching heavens
-of its history, alone with its benediction and its blasphemy,
-the city that is set upon a hill, and cannot be hid.
+of its [[history]], [[Alone|alone]] with its benediction and its blasphemy,
+the [[City|city]] that is set upon a [[Hill|hill]], and cannot be hid.
 
 = = = = = = = = = = = = = = = =
 
 CHAPTER III
 
-THE GATES OF THE CITY
+THE GATES OF THE [[City|CITY]]
 
 The men I met coming from Jerusalem reported all sorts of
 contradictory impressions; and yet my own impression contradicted
 them all.  Their impressions were doubtless as true as mine;
 but I describe my own because it is true, and because I think it
-points to a neglected truth about the real Jerusalem.  I need not say
-I did not expect the real Jerusalem to be the New Jerusalem; a city
-of charity and peace, any more than a city of chrysolite and pearl.
-I might more reasonably have expected an austere and ascetic place,
+points to a neglected [[Truth|truth]] about the real Jerusalem.  I need not say
+I did not expect the real Jerusalem to be the New Jerusalem; a [[City|city]]
+of [[Charity|charity]] and peace, any more than a [[City|city]] of chrysolite and pearl.
+I might more reasonably have expected an austere and [[ascetic]] place,
 oppressed with the weight of its destiny, with no inns except monasteries,
-and these sealed with the terrible silence of the Trappists;
-an awful city where men speak by signs in the street.
+and these sealed with the terrible [[Silence|silence]] of the Trappists;
+an awful [[City|city]] where men speak by signs in the street.
 I did not need the numberless jokes about Jerusalem to-day,
 to warn me against expecting this; anyhow I did not expect it,
 and certainly I did not find it.  But neither did I find what I
@@ -1254,53 +1254,53 @@ inconvenient enough to make it a decent place for pilgrims.
 Or a stranger might have imagined a place even less Western than Cairo,
 one of those villages of Palestine described in dusty old books
 of Biblical research.  He might remember drawings like diagrams
-representing a well or a wine-press, rather a dry well, so to speak,
+representing a [[Well|well]] or a wine-press, rather a dry [[Well|well]], so to speak,
 and a wine-press very difficult to associate with wine.  These hard
 colourless outlines never did justice to the colour of the East, but even
 to give it the colour of the East would not do justice to Jerusalem.
-If I had anticipated the Bagdad of all our dreams, a maze of bazaars
+If I had anticipated the Bagdad of all our [[Dreams|dreams]], a maze of bazaars
 glowing with gorgeous wares, I should have been wrong again.
 There is quite enough of this vivid and varied colour in Jerusalem,
 but it is not the first fact that arrests the attention,
 and certainly not the first that arrested mine.  I give my own first
 impression as a fact, for what it is worth and exactly as it came.
-I did not expect it, and it was some time before I even understood it.
+I did not expect it, and it was some [[Time|time]] before I even understood it.
 As soon as I was walking inside the walls of Jerusalem, I had
 an overwhelming impression that I was walking in the town of Rye,
 where it looks across the flat sea-meadows towards Winchelsea.
 
 As I tried to explain this eccentric sentiment to myself, I was
 conscious of another which at once completed and contradicted it.
-It was not only like a memory of Rye, it was mixed with a memory
-of the Mount St. Michael, which stands among the sands of
+It was not only like a [[Memory|memory]] of Rye, it was mixed with a [[Memory|memory]]
+of the Mount St. [[Michael]], which stands among the sands of
 Normandy on the other side of the narrow seas.  The first part
 of the sensation is that the traveller, as he walks the stony
 streets between the walls, feels that he is inside a fortress.
-But it is the paradox of such a place that, while he feels in a sense
-that he is in a prison, he also feels that he is on a precipice.
+But it is the [[Paradox|paradox]] of such a place that, while he feels in a sense
+that he is in a [[Prison|prison]], he also feels that he is on a precipice.
 The sense of being uplifted, and set on a high place, comes to him
 through the smallest cranny, or most accidental crack in rock
 or stone; it comes to him especially through those long narrow
 windows in the walls of the old fortifications; those slits
 in the stone through which the medieval archers used their bows
-and the medieval artists used their eyes, with even greater success.
+and the medieval artists used their eyes, with even greater [[success]].
 Those green glimpses of fields far below or of flats far away,
 which delight us and yet make us dizzy (by being both near and far)
 when seen through the windows of Memling, can often be seen from
 the walls of Jerusalem.  Then I remembered that in the same strips
 of medieval landscape could be seen always, here and there, a steep
-hill crowned with a city of towers.  And I knew I had the mystical
-and double pleasure of seeing such a hill and standing on it.
-A city that is set upon a hill cannot be hid; but it is more
-strange when the hill cannot anywhere be hid, even from the citizen
-in the city.
+[[Hill|hill]] crowned with a [[City|city]] of towers.  And I knew I had the mystical
+and [[Double|double]] pleasure of seeing such a [[Hill|hill]] and standing on it.
+A [[City|city]] that is set upon a [[Hill|hill]] cannot be hid; but it is more
+strange when the [[Hill|hill]] cannot anywhere be hid, even from the citizen
+in the [[City|city]].
 
 Then indeed I knew that what I saw was Jerusalem of the Crusaders;
-or at least Jerusalem of the Crusades.  It was a medieval town, with walls
-and gates and a citadel, and built upon a hill to be defended by bowmen.
+or at least Jerusalem of the [[Crusades]].  It was a medieval town, with walls
+and gates and a citadel, and built upon a [[Hill|hill]] to be defended by bowmen.
 The greater part of the actual walls now standing were built by Moslems
 late in the Middle Ages; but they are almost exactly like the walls
-that were being built by the Christians at or before that time.
+that were being built by the Christians at or before that [[Time|time]].
 The Crusader Edward, afterwards Edward the First, reared such
 battlements far away among the rainy hills of Wales.  I do not know
 what elements were originally Gothic or what originally Saracenic.
@@ -1308,20 +1308,20 @@ The Crusaders and the Saracens constantly copied each other while
 they combated each other; indeed it is a fact always to be found
 in such combats.  It is one of the arguments against war that are
 really human, and therefore are never used by humanitarians.
-The curse of war is that it does lead to more international imitation;
-while in peace and freedom men can afford to have national variety.
+The curse of war is that it does lead to more international [[Imitation|imitation]];
+while in peace and [[Freedom|freedom]] men can afford to have national variety.
 But some things in this country were certainly copied from
 the Christian invaders, and even if they are not Christian they
 are in many ways strangely European.  The wall and gates which
 now stand, whatever stood before them and whatever comes after them,
-carry a memory of those men from the West who came here upon
+carry a [[Memory|memory]] of those men from the West who came here upon
 that wild adventure, who climbed this rock and clung to it so
 perilously from the victory of Godfrey to the victory of Saladin;
-and that is why this momentary Eastern exile reminded me so strangely
-of the hill of Rye and of home.
+and that is why this momentary Eastern [[Exile|exile]] reminded me so strangely
+of the [[Hill|hill]] of Rye and of [[Home|home]].
 
 I do not forget, of course, that all these visible walls and towers
-are but the battlements and pinnacles of a buried city, or of many
+are but the battlements and pinnacles of a buried [[City|city]], or of many
 buried cities.  I do not forget that such buildings have foundations
 that are to us almost like fossils; the gigantic fossils of some
 other geological epoch.  Something may be said later of those lost
@@ -1333,39 +1333,39 @@ coloured curtains, the god whose image had never been made by man.
 Here was waged that endless war between the graven gods of the plain
 and the invisible god of the mountain; from here the hosts carrying
 the sacred fish of the Philistines were driven back to the sea
-from which their worship came.  Those who worshipped on this hill
-had come out of bondage in Egypt and went into bondage in Babylon;
+from which their worship came.  Those who worshipped on this [[Hill|hill]]
+had come out of bondage in [[Egypt]] and went into bondage in Babylon;
 small as was their country, there passed before them almost the whole
 pageant of the old pagan world.  All its strange shapes and strong
 almost cruel colours remain in the records of their prophets;
-whose lightest phrase seems heavier than the pyramids of Egypt;
+whose lightest phrase seems heavier than the pyramids of [[Egypt]];
 and whose very words are like winged bulls walking.  All this historic or
 pre-historic interest may be touched on in its turn; but I am not dealing
-here with the historic secrets unearthed by the study of the place,
+here with the historic [[Secrets|secrets]] unearthed by the study of the place,
 but with the historic associations aroused by the sight of it.
 The traveller is in the position of that famous fantastic who tied
-his horse to a wayside cross in the snow, and afterward saw it
-dangling from the church-spire of what had been a buried city.
-But here the cross does not stand as it does on the top of a spire;
+his [[Horse|horse]] to a wayside [[Cross|cross]] in the [[Snow|snow]], and afterward saw it
+dangling from the church-spire of what had been a buried [[City|city]].
+But here the [[Cross|cross]] does not stand as it does on the top of a spire;
 but as it does on the top of an Egyptian obelisk in Rome,--
-where the priests have put a cross on the top of the heathen monument;
-for fear it should walk.  I entirely sympathise with their sentiment;
+where the priests have put a [[Cross|cross]] on the top of the heathen monument;
+for [[Fear|fear]] it should walk.  I entirely sympathise with their sentiment;
 and I shall try to suggest later why I think that symbol
-the logical culmination of heathen as well as Christian things.
+the logical culmination of heathen as [[Well|well]] as Christian things.
 The traveller in the traveller's tale looked up at last and saw,
-from the streets far below, the spire and cross dominating a Gothic city.
-If I looked up in a vision and saw it dominating a Babylonian city,
+from the streets far below, the spire and [[Cross|cross]] dominating a Gothic [[City|city]].
+If I looked up in a vision and saw it dominating a Babylonian [[City|city]],
 that blocked the heavens with monstrous palaces and temples,
 I should still think it natural that it should dominate.
 But the point here is that what I saw above ground was rather the Gothic
 town than the Babylonian; and that it reminded me, if not specially
-of the cross, at least of the soldiers who took the cross.
+of the [[Cross|cross]], at least of the soldiers who took the [[Cross|cross]].
 
 Nor do I forget the long centuries that have passed over the place
 since these medieval walls were built, any more than the far
 more interesting centuries that passed before they were built.
 But any one taking exception to the description on that ground
-may well realise, on consideration, that it is an exception
+may [[Well|well]] realise, on consideration, that it is an exception
 that proves the rule.  There is something very negative about
 Turkish rule; and the best and worst of it is in the word neglect.
 Everything that lived under the vague empire of Constantinople
@@ -1373,22 +1373,22 @@ remained in a state of suspended animation like something frozen
 rather than decayed, like something sleeping rather than dead.
 It was a sort of Arabian spell, like that which turned princes
 and princesses into marble statues in the _Arabian Nights_.
-All that part of the history of the place is a kind of sleep;
+All that part of the [[history]] of the place is a kind of [[Sleep|sleep]];
 and that of a sleeper who hardly knows if he has slept an hour or a
 hundred years.  When I first found myself in the Jaffa Gate of Jerusalem,
 my eye happened to fall on something that might be seen anywhere,
 but which seemed somehow to have a curious significance there.
 Most people are conscious of some common object which still
-strikes them as uncommon; as if it were the first fantastic sketch
-in the sketch-book of nature.  I myself can never overcome the sense
+strikes them as uncommon; as if it were the first fantastic [[Sketch|sketch]]
+in the [[Sketch|sketch]]-[[Book of Nature|book of nature]].  I myself can never overcome the sense
 of something almost unearthly about grass growing upon human buildings.
 There is in it a wild and even horrible fancy, as if houses could
 grow hair.  When I saw that green hair on the huge stone blocks of
 the citadel, though I had seen the same thing on any number of ruins,
 it came to me like an omen or a vision, a curious vision at once
-of chaos and of sleep.  It is said that the grass will not grow
+of chaos and of [[Sleep|sleep]].  It is said that the grass will not grow
 where the Turk sets his foot; but it is the other side of the same
-truth to say that it would grow anywhere but where it ought to grow.
+[[Truth|truth]] to say that it would grow anywhere but where it ought to grow.
 And though in this case it was but an accident and a symbol,
 it was a very true symbol.  We talk of the green banner of the Turk
 having been planted on this or that citadel; and certainly it
@@ -1400,67 +1400,67 @@ Therefore my immediate impression of the walls and gates was
 not contradicted by my consciousness of what came before and
 what came after that medieval period.  It remained primarily
 a thing of walls and gates; a thing which the modern world
-does not perhaps understand so well as the medieval world.
+does not perhaps understand so [[Well|well]] as the medieval world.
 There is involved in it all that idea of definition which those who do
 not like it are fond of describing as dogma.  A wall is like rule;
 and the gates are like the exceptions that prove the rule.
 The man making it has to decide where his rule will run
-and where his exception shall stand.  He cannot have a city
-that is all gates any more than a house that is all windows;
+and where his exception shall stand.  He cannot have a [[City|city]]
+that is all gates any more than a [[house]] that is all windows;
 nor is it possible to have a law that consists entirely of liberties.
-The ancient races and religions that contended for this city agreed
+The ancient races and religions that contended for this [[City|city]] agreed
 with each other in this, when they differed about everything else.
-It was true of practically all of them that when they built a city they
+It was true of practically all of them that when they built a [[City|city]] they
 built a citadel.  That is, whatever strange thing they may have made,
 they regarded it as something to be defined and to be defended.
 
-And from this standpoint the holy city was a happy city;
+And from this standpoint the holy [[City|city]] was a happy [[City|city]];
 it had no suburbs.  That is to say, there are all sorts
 of buildings outside the wall; but they are outside the wall.
 Everybody is conscious of being inside or outside a boundary; but it
 is the whole character of the true suburbs which grow round our great
 industrial towns that they grow, as it were, unconsciously and blindly,
 like grass that covers up a boundary line traced on the earth.
-This indefinite expansion is controlled neither by the soul of the city
+This indefinite expansion is controlled neither by the [[Soul|soul]] of the [[City|city]]
 from within, nor by the resistance of the lands round about.  It destroys
-at once the dignity of a town and the freedom of a countryside.
+at once the dignity of a town and the [[Freedom|freedom]] of a countryside.
 The citizens are too new and numerous for citizenship; yet they
 never learn what there is to be learned of the ancient traditions
 of agriculture.  The first sight of the sharp outline of Jerusalem
-is like a memory of the older types of limitation and liberty.
-Happy is the city that has a wall; and happier still if it
+is like a [[Memory|memory]] of the older types of limitation and liberty.
+Happy is the [[City|city]] that has a wall; and happier still if it
 is a precipice.
 
-Again, Jerusalem might be called a city of staircases.
+Again, Jerusalem might be called a [[City|city]] of staircases.
 Many streets are steep and most actually cut into steps.
-It is, I believe, an element in the controversy about the cave
+It is, I believe, an element in the controversy about the [[Cave|cave]]
 at Bethlehem traditionally connected with the Nativity
-that the sceptics doubt whether any beasts of burden could
+that the sceptics [[Doubt|doubt]] whether any beasts of burden could
 have entered a stable that has to be reached by such steps.
-And indeed to any one in a modern city like London or Liverpool
-it may well appear odd, like a cab-horse climbing a ladder.
+And indeed to any one in a modern [[City|city]] like [[London]] or Liverpool
+it may [[Well|well]] appear odd, like a cab-[[Horse|horse]] climbing a ladder.
 But as a matter of fact, if the asses and goats of Jerusalem
 could not go up and downstairs, they could not go anywhere.
 However this may be, I mention the matter here merely as adding another
 touch to that angular profile which is the impression involved here.
 Strangely enough, there is something that leads up to this impression
-even in the labyrinth of mountains through which the road winds
-its way to the city.  The hills round Jerusalem are themselves
+even in the labyrinth of [[Mountains|mountains]] through which the [[Road|road]] winds
+its way to the [[City|city]].  The hills round Jerusalem are themselves
 often hewn out in terraces, like a huge stairway.  This is mostly
 for the practical and indeed profitable purpose of vineyards;
 and serves for a reminder that this ancient seat of civilisation
-has not lost the tradition of the mercy and the glory of the vine.
+has not lost the tradition of the [[Mercy|mercy]] and the glory of the vine.
 But in outline such a mountain looks much like the mountain
-of Purgatory that Dante saw in his vision, lifted in terraces,
-like titanic steps up to God.  And indeed this shape also is symbolic;
-as symbolic as the pointed profile of the Holy City.
+of Purgatory that [[Dante]] saw in his vision, lifted in terraces,
+like [[titanic]] steps up to God.  And indeed this shape also is symbolic;
+as symbolic as the pointed profile of the Holy [[City]].
 For a creed is like a ladder, while an evolution is only like a slope.
 A spiritual and social evolution is generally a pretty slippery slope;
 a miry slope where it is very easy to slide down again.
 
 Such is something like the sharp and even abrupt impression produced
-by this mountain city; and especially by its wall with gates
-like a house with windows.  A gate, like a window, is primarily
+by this mountain [[City|city]]; and especially by its wall with gates
+like a [[house]] with windows.  A gate, like a [[Window|window]], is primarily
 a picture-frame. The pictures that are found within the frame are
 indeed very various and sometimes very alien.  Within this frame-work
 are indeed to be found things entirely Asiatic, or entirely Moslem,
@@ -1469,7 +1469,7 @@ Nothing could be less like a mere camp of tents pitched by Arabs.
 Nothing could be less like the mere chaos of colour in a temporary
 and tawdry bazaar.  The Arabs are there and the colours are there,
 and they make a glorious picture; but the picture is in a Gothic frame,
-and is seen so to speak through a Gothic window.  And the meaning of all
+and is seen so to speak through a Gothic [[Window|window]].  And the meaning of all
 this is the meaning of all windows, and especially of Gothic windows.
 It is that even light itself is most divine within limits;
 and that even the shining one is most shining, when he takes upon
@@ -1480,36 +1480,36 @@ and primitive, is really very rationalistic.  It turns the town,
 as it were, into a plan of itself, and even into a guide to itself.
 This is especially true, as may be suggested in a moment,
 regarding the direction of the roads leading out of it.
-But anyhow, a man must decide which way he will leave the city;
-he cannot merely drift out of the city as he drifts out of the modern
+But anyhow, a man must decide which way he will leave the [[City|city]];
+he cannot merely drift out of the [[City|city]] as he drifts out of the modern
 cities through a litter of slums.  And there is no better way to get
-a preliminary plan of the city than to follow the wall and fix the gates
-in the memory.  Suppose, for instance, that a man begins in the south
+a preliminary plan of the [[City|city]] than to follow the wall and fix the gates
+in the [[Memory|memory]].  Suppose, for instance, that a man begins in the south
 with the Zion Gate, which bears the ancient name of Jerusalem.
 This, to begin with, will sharpen the medieval and even the Western
 impression first because it is here that he has the strongest
-sentiment of threading the narrow passages of a great castle;
+sentiment of threading the narrow passages of a great [[Castle|castle]];
 but also because the very name of the gate was given to this south-western
-hill by Godfrey and Tancred during the period of the Latin kingdom.
+[[Hill|hill]] by Godfrey and Tancred during the period of the Latin kingdom.
 I believe it is one of the problems of the scholars why the Latin
-conquerors called this hill the Zion Hill, when the other is obviously
-the sacred hill.  Jerusalem is traditionally divided into four hills,
-but for practical purposes into two; the lower eastern hill where
+conquerors called this [[Hill|hill]] the Zion [[Hill]], when the other is obviously
+the sacred [[Hill|hill]].  Jerusalem is traditionally divided into four hills,
+but for practical purposes into two; the lower eastern [[Hill|hill]] where
 stood the Temple, and now stands the great Mosque, and the western
 where is the citadel and the Zion Gate to the south of it.
 I know nothing of such questions; and I attach no importance to
 the notion that has crossed my own mind, and which I only mention
-in passing, for I have no doubt there are a hundred objections to it.
+in passing, for I have no [[Doubt|doubt]] there are a hundred objections to it.
 But it is known that Zion or Sion was the old name of the place
 before it was stormed by David; and even afterwards the Jebusites
-remained on this western hill, and some compromise seems to have
-been made with them.  Is it conceivable, I wonder, that even in
-the twelfth century there lingered some local memory of what had
+remained on this western [[Hill|hill]], and some compromise seems to have
+been made with them.  Is it conceivable, I [[Wonder|wonder]], that even in
+the twelfth century there lingered some local [[Memory|memory]] of what had
 once been a way of distinguishing Sion of the Jebusites from Salem
 of the Jews?  The Zion Gate, however, is only a starting-point here;
 if we go south-eastward from it we descend a steep and rocky path,
 from which can be caught the first and finest vision of what stands
-on the other hill to the east.  The great Mosque of Omar stands
+on the other [[Hill|hill]] to the east.  The great Mosque of Omar stands
 up like a peacock, lustrous with mosaics that are like plumes
 of blue and green.
 
@@ -1527,7 +1527,7 @@ such a building, though he did not build it.  I suppose it is
 rather as if Solomon's Temple had been called David's Temple.
 Omar was a great man and the Mosque was a great work, and the two were
 telescoped together by the excellent common sense of vulgar tradition.
-There could not be a better example of that great truth for
+There could not be a better example of that great [[Truth|truth]] for
 all travellers; that popular tradition is never so right as when it
 is wrong; and that pedantry is never so wrong as when it is right.
 And as for the other objection, that the Dome of the Rock
@@ -1538,13 +1538,13 @@ as Westminster Church; to say nothing of the many modern Englishmen
 for whom it would be more suitable to call it Westminster Museum.
 And for whatever purposes the Moslems may actually use their
 great and glorious sanctuary, at least they have not allowed
-it to become the private house of a particular rich man.
+it to become the private [[house]] of a particular rich man.
 And that is what we have suffered to happen, if not to Westminster Abbey,
 at least to Welbeck Abbey.
 
 The Mosque of Omar (I repeat firmly) stands on the great eastern
 plateau in place of the Temple; and the wall that runs round
-to it on the south side of the city contains only the Dung Gate,
+to it on the south side of the [[City|city]] contains only the Dung Gate,
 on which the fancy need not linger.  All along outside this
 wall the ground falls away into the southern valley; and upon
 the dreary and stony steep opposite is the place called Acaldama.
@@ -1553,32 +1553,32 @@ temple platform, and confronting the eastern wall, across the ravine,
 is the mighty wall of the Mount of Olives.  On this side there
 are several gates now blocked up, of which the most famous,
 the Golden Gate, carries in its very uselessness a testimony
-to the fallen warriors of the cross.  For there is a strange
+to the fallen warriors of the [[Cross|cross]].  For there is a strange
 Moslem legend that through this gate, so solemnly sealed up,
-shall ride the Christian King who shall again rule in Jerusalem.
+shall ride the Christian [[King]] who shall again rule in Jerusalem.
 In the middle of the square enclosure rises the great dark Dome
-of the Rock; and standing near it, a man may see for the first time
+of the Rock; and standing near it, a man may see for the first [[Time|time]]
 in the distance, another dome.  It lies away to the west, but a little
-to the north; and it is surmounted, not by a crescent but a cross.
+to the north; and it is surmounted, not by a crescent but a [[Cross|cross]].
 Many heroes and holy kings have desired to see this thing,
 and have not seen it.
 
-It is very characteristic of the city, with its medieval medley and huddle
+It is very characteristic of the [[City|city]], with its medieval medley and huddle
 of houses, that a man may first see the Church of the Holy Sepulchre
 which is in the west, by going as far as possible to the east.
 All the sights are glimpses; and things far can be visible and things
 near invisible.  The traveller comes on the Moslem dome round a corner;
 and he finds the Christian dome, as it were, behind his own back.
-But if he goes on round the wall to the north-east corner of the Court
+But if he goes on round the wall to the north-east corner of the [[Court]]
 of the Temple, he will find the next entrance; the Gate of St. Stephen.
 On the slope outside, by a strange and suitable coincidence,
-the loose stones which lie on every side of the mountain city
+the loose stones which lie on every side of the mountain [[City|city]]
 seemed to be heaped higher; and across the valley on the skirts
 of the Mount of Olives is the great grey olive of Gethsemane.
 
 On the northern side the valley turns to an artificial trench,
 for the ground here is higher; and the next or northern gate bears
-the name of Herod; though it might well bear the name either
+the name of Herod; though it might [[Well|well]] bear the name either
 of Godfrey or Saladin.  For just outside it stands a pine-tree,
 and beside it a rude bulk of stone; where stood these great
 captains in turn, before they took Jerusalem.  Then the wall runs
@@ -1586,35 +1586,35 @@ on till it comes to the great Damascus Gate, graven I know not
 why with great roses in a style wholly heraldic and occidental,
 and in no way likely to remind us of the rich roses of Damascus;
 though their name has passed into our own English tongue and tradition,
-along with another word for the delicate decoration of the sword.
+along with another word for the delicate decoration of the [[Sword|sword]].
 But at the first glance, at any rate, it is hard to believe that
 the roses on the walls are not the Western roses of York or Lancaster,
 or that the swords which guarded them were not the straight swords
-of England or of France.  Doubtless a deeper and more solemn memory
+of England or of France.  Doubtless a deeper and more solemn [[Memory|memory]]
 ought to return immediately to the mind where that gate looks down
 the great highway; as if one could see, hung over it in the sky for ever,
-the cloud concealing the sunburst that broods upon the road to Damascus.
+the cloud concealing the sunburst that broods upon the [[Road|road]] to Damascus.
 But I am here only confessing the facts or fancies of my first impression;
 and again the fancy that came to me first was not of any such
 alien or awful things.  I did not think of damask or damascene
-or the great Arabian city or even the conversion of St. Paul.
-I thought of my own little house in Buckinghamshire, and how the edge
+or the great Arabian [[City|city]] or even the [[Conversion|conversion]] of St. Paul.
+I thought of my own little [[house]] in Buckinghamshire, and how the edge
 of the country town where it stands is called Aylesbury End,
 merely because it is the corner nearest to Aylesbury.
 That is what I mean by saying that these ancient customs are more
 rational and even utilitarian than the fashions of modernity.
 When a street in a new suburb is called Pretoria Avenue, the clerk
-living there does not set out from his villa with the cheerful hope
-of finding the road lead him to Pretoria.  But the man leaving
+living there does not set out from his villa with the cheerful [[Hope|hope]]
+of finding the [[Road|road]] lead him to Pretoria.  But the man leaving
 Aylesbury End does know it would lead him to Aylesbury; and the man
 going out at the Damascus Gate did know it would lead him to Damascus.
 And the same is true of the next and last of the old entrances,
 the Jaffa Gate in the east; but when I saw that I saw something
-else as well.
+else as [[Well|well]].
 
 I have heard that there is a low doorway at the entrance to a famous
-shrine which is called the Gate of Humility; but indeed in this sense
-all gates are gates of humility, and especially gates of this kind.
+shrine which is called the Gate of [[Humility]]; but indeed in this sense
+all gates are gates of [[Humility|humility]], and especially gates of this kind.
 Any one who has ever looked at a landscape under an archway
 will know what I mean, when I say that it sharpens a pleasure
 with a strange sentiment of privilege.  It adds to the grace
@@ -1622,21 +1622,21 @@ of distance something that makes it not only a grace but a gift.
 Such are the visions of remote places that appear in the low gateways
 of a Gothic town; as if each gateway led into a separate world;
 and almost as if each dome of sky were a different chamber.
-But he who walks round the walls of this city in this spirit will come
+But he who walks round the walls of this [[City|city]] in this spirit will come
 suddenly upon an exception which will surprise him like an earthquake.
 It looks indeed rather like something done by an earthquake;
-an earthquake with a half-witted sense of humour.  Immediately at
+an earthquake with a half-witted sense of [[Humour|humour]].  Immediately at
 the side of one of these humble and human gateways there is a great gap
-in the wall, with a wide road running through it.  There is something
-of unreason in the sight which affects the eye as well as the reason.
+in the wall, with a wide [[Road|road]] running through it.  There is something
+of unreason in the sight which affects the eye as [[Well|well]] as the reason.
 It recalls some crazy tale about the great works of the Wise Men
 of Gotham.  It suggests the old joke about the man who made
-a small hole for the kitten as well as a large hole for the cat.
-Everybody has read about it by this time; but the immediate impression
+a small hole for the kitten as [[Well|well]] as a large hole for the cat.
+Everybody has read about it by this [[Time|time]]; but the immediate impression
 of it is not merely an effect of reading or even of reasoning.
 It looks lop-sided; like something done by a one-eyed giant.
 But it was done by the last prince of the great Prussian imperial system,
-in what was probably the proudest moment in all his life of pride.
+in what was probably the proudest moment in all his life of [[Pride|pride]].
 
 What is true has a way of sounding trite; and what is trite has
 a way of sounding false.  We shall now probably weary the world
@@ -1644,16 +1644,16 @@ with calling the Germans barbaric, just as we very recently wearied
 the world with calling them cultured and progressive and scientific.
 But the thing is true though we say it a thousand times.  And any one who
 wishes to understand the sense in which it is true has only to contemplate
-that fantasy and fallacy in stone; a gate with an open road beside it.
+that fantasy and fallacy in stone; a gate with an open [[Road|road]] beside it.
 The quality I mean, however, is not merely in that particular contrast;
 as of a front door standing by itself in an open field.
 It is also in the origin, the occasion and the whole story of the thing.
 There is above all this supreme stamp of the barbarian; the sacrifice
-of the permanent to the temporary.  When the walls of the Holy City
+of the permanent to the temporary.  When the walls of the Holy [[City]]
 were overthrown for the glory of the German Emperor, it was hardly
 even for that everlasting glory which has been the vision and
-the temptation of great men.  It was for the glory of a single day.
-It was something rather in the nature of a holiday than anything
+the [[Temptation|temptation]] of great men.  It was for the glory of a single day.
+It was something rather in the [[Nature|nature]] of a holiday than anything
 that could be even in the most vainglorious sense a heritage.
 It did not in the ordinary sense make a monument, or even a trophy.
 It destroyed a monument to make a procession.  We might almost say
@@ -1661,24 +1661,24 @@ that it destroyed a trophy to make a triumph.  There is the true
 barbaric touch in this oblivion of what Jerusalem would look like a
 century after, or a year after, or even the day after.  It is this
 which distinguishes the savage tribe on the march after a victory from
-the civilised army establishing a government, even if it be a tyranny.
+the civilised army establishing a [[government]], even if it be a tyranny.
 Hence the very effect of it, like the effect of the whole Prussian
-adventure in history, remains something negative and even nihilistic.
+adventure in [[history]], remains something negative and even nihilistic.
 The Christians made the Church of the Holy Sepulchre and the Moslems
 made the Mosque of Omar; but this is what the most scientific
 culture made at the end of the great century of science.
 It made an enormous hole.  The only positive contribution of
-the nineteenth century to the spot is an unnaturally ugly clock,
+the nineteenth century to the spot is an unnaturally ugly [[Clock|clock]],
 at the top of an ornamental tower, or a tower that was meant to
 be ornamental.  It was erected, I believe, to commemorate the reign
 of Abdul Hamid; and it seems perfectly adapted to its purpose,
 like one of Sir William Watson's sonnets on the same subject.
 But this object only adds a touch of triviality to the much more
-tremendous negative effect of the gap by the gate.  That remains a parable
-as well as a puzzle, under all the changing skies of day and night;
-with the shadows that gather tinder the narrow Gate of Humility;
+tremendous negative effect of the gap by the gate.  That remains a [[Parable|parable]]
+as [[Well|well]] as a puzzle, under all the changing skies of day and [[Night|night]];
+with the shadows that gather tinder the narrow Gate of [[Humility]];
 and beside it, blank as daybreak and abrupt as an abyss, the broad
-road that has led already to destruction.
+[[Road|road]] that has led already to destruction.
 
 The gap remains like a gash, a sort of wound in the walls; but it
 only strengthens by contrast the general sense of their continuity.
@@ -1687,19 +1687,19 @@ the vague impression of the thirteenth or fourteenth century rather
 deepens than dies away.  It is supported more than many would suppose
 even by the figures that appear in the gateways or pass in procession
 under the walls.  The brown Franciscans and the white Dominicans
-would alone give some colour to a memory of the Latin kingdom
+would [[Alone|alone]] give some colour to a [[Memory|memory]] of the Latin kingdom
 of Jerusalem; and there are other examples and effects which are
 less easily imagined in the West.  Thus as I look down the street,
 I see coming out from under an archway a woman wearing a high white
 head-dress very like those we have all seen in a hundred pictures
 of tournaments or hunting parties, or the Canterbury Pilgrimage
-or the Court of Louis XI.  She is as white as a woman of the North;
+or the [[Court]] of Louis XI.  She is as white as a woman of the North;
 and it is not, I think, entirely fanciful to trace a certain
-freedom and dignity in her movement, which is quite different
+[[Freedom|freedom]] and dignity in her movement, which is quite different
 at least from the shuffling walk of the shrouded Moslem women.
 She is a woman of Bethlehem, where a tradition, it is said, still claims
-as a heroic heritage the blood of the Latin knights of the cross.
-This is, of course, but one aspect of the city; but it is one
+as a heroic heritage the [[Blood|blood]] of the Latin knights of the [[Cross|cross]].
+This is, of course, but one aspect of the [[City|city]]; but it is one
 which may be early noted, yet one which is generally neglected.
 As I have said, I had expected many things of Jerusalem,
 but I had not expected this.  I had expected to be disappointed
@@ -1708,13 +1708,13 @@ I had expected to be awed by it; indeed I had expected to be frightened
 of it, as a place dedicated and even doomed by its mission.
 But I had never fancied that it would be possible to be fond of it;
 as one might be fond of a little walled town among the orchards
-of Normandy or the hop-fields of Kent.
+of Normandy or the hop-fields of [[Kent]].
 
 And just then there happened a coincidence that was also something
 like a catastrophe.  I was idly watching, as it moved down
 the narrow street to one of the dark doorways, the head-dress,
 like a tower of white drapery, belonging to the Christian woman
-from the place where Christ was born.  After she had disappeared
+from the place where [[Christ]] was born.  After she had disappeared
 into the darkness of the porch I continued to look vaguely
 at the porch, and thought how easily it might have been a small
 Gothic gate in some old corner of Rouen, or even Canterbury.
@@ -1725,30 +1725,30 @@ Norman gateways look like the gaping mouths of sharks.
 One may see the pointed niches in the walls, shaped like windows
 and serving somewhat the purpose of brackets, on which were
 to stand sacred images possibly removed by the Moslems.
-One may come upon a small court planted with ornamental trees
+One may come upon a small [[Court|court]] planted with ornamental trees
 with some monument in the centre, which makes the precise impression
 of something in a small French town.  There are no Gothic spires,
 but there are numberless Gothic doors and windows; and he who
-first strikes the place at this angle, as it were, may well feel
+first strikes the place at this angle, as it were, may [[Well|well]] feel
 the Northern element as native and the Eastern element as intrusive.
 While I was thinking all these things, something happened which in
 that place was almost a portent.
 
 It was very cold; and there were curious colours in the sky.
-There had been chilly rains from time to time; and the whole
+There had been chilly rains from [[Time|time]] to [[Time|time]]; and the whole
 air seemed to have taken on something sharper than a chill.
 It was as if a door had been opened in the northern corner of the heavens;
 letting in something that changed all the face of the earth.
 Great grey clouds with haloes of lurid pearl and pale-green were coming
-up from the plains or the sea and spreading over the towers of the city.
+up from the plains or the sea and spreading over the towers of the [[City|city]].
 In the middle of the moving mass of grey vapours was a splash
 of paler vapour; a wan white cloud whose white seemed somehow more
 ominous than gloom.  It went over the high citadel like a white
 wild goose flying; and a few white feathers fell.
 
-It was the snow; and it snowed day and night until that Eastern
-city was sealed up like a village in Norway or Northern Scotland.
-It rose in the streets till men might almost have been drowned
+It was the [[Snow|snow]]; and it snowed day and [[Night|night]] until that Eastern
+[[City|city]] was sealed up like a village in Norway or Northern Scotland.
+It [[Rose|rose]] in the streets till men might almost have been drowned
 in it like a sea of solid foam.  And the people of the place told
 me there had been no such thing seen in it in all recent records,
 or perhaps in the records of all its four thousand years.
@@ -1756,20 +1756,20 @@ or perhaps in the records of all its four thousand years.
 All this came later; but for me at the moment, looking at the scene
 in so dreamy a fashion, it seemed merely like a dramatic conclusion
 to my dream.  It was but an accident confirming what was but an aspect.
-But it confirmed it with a strange and almost supernatural completeness.
-The white light out of the window in the north lay on all the roofs
+But it confirmed it with a strange and almost [[Supernatural|supernatural]] completeness.
+The white light out of the [[Window|window]] in the north lay on all the roofs
 and turrets of the mountain town; for there is an aspect in which
-snow looks less like frozen water than like solidified light.
-As the snow accumulated there accumulated also everywhere
-those fantastic effects of frost which seem to fit in with
+[[Snow|snow]] looks less like frozen [[Water|water]] than like solidified light.
+As the [[Snow|snow]] accumulated there accumulated also everywhere
+those fantastic effects of [[Frost|frost]] which seem to fit in with
 the fantastic qualities of medieval architecture; and which
 make an icicle seem like the mere extension of a gargoyle.
 It was the atmosphere that has led so many romancers to make
-medieval Paris a mere black and white study of night and snow.
+medieval [[Paris]] a mere black and white study of [[Night|night]] and [[Snow|snow]].
 Something had redrawn in silver all things from the rude ornament
 on the old gateways to the wrinkles on the ancient hills of Moab.
 Fields of white still spotted with green swept down into the valleys
-between us and the hills; and high above them the Holy City lifted
+between us and the hills; and high above them the Holy [[City]] lifted
 her head into the thunder-clouded heavens, wearing a white head-dress
 like a daughter of the Crusaders.
 
@@ -1777,18 +1777,18 @@ like a daughter of the Crusaders.
 
 CHAPTER IV
 
-THE PHILOSOPHY OF SIGHT-SEEING
+THE [[philosophy|PHILOSOPHY]] OF SIGHT-SEEING
 
 Various cultivated critics told me that I should find
-Jerusalem disappointing; and I fear it will disappoint them that I
-am not disappointed.  Of the city as a city I shall try to say
+Jerusalem disappointing; and I [[Fear|fear]] it will disappoint them that I
+am not disappointed.  Of the [[City|city]] as a [[City|city]] I shall try to say
 something elsewhere; but the things which these critics have
 especially in mind are at once more general and more internal.
 They concern something tawdry, squalid or superstitious about the shrines
 and those who use them.  Now the mistake of critics is not that they
 criticise the world; it is that they never criticise themselves.
 They compare the alien with the ideal; but they do not at the same
-time compare themselves with the ideal; rather they identify
+[[Time|time]] compare themselves with the ideal; rather they identify
 themselves with the ideal.  I have met a tourist who had seen
 the great Pyramid, and who told me that the Pyramid looked small.
 Believe me, the tourist looked much smaller.  There is indeed another
@@ -1809,37 +1809,37 @@ would not be faintly surprised to find such a monument during
 their quiet rambles in a country churchyard.  I asked whether
 each one of them, if he had such a tombstone in the family,
 would not feel it natural, if hardly necessary, to point it out;
-and that with a certain pride.  The same principle of the higher realism
-applies to those who are disappointed with the sight of the Sphinx.
-The Sphinx really exceeds expectations because it escapes expectations.
+and that with a certain [[Pride|pride]].  The same principle of the higher realism
+applies to those who are disappointed with the sight of [[The Sphinx|the Sphinx]].
+[[The Sphinx]] really exceeds expectations because it escapes expectations.
 Monuments commonly look impressive when they are high and often
-when they are distant.  The Sphinx is really unexpected,
+when they are distant.  [[The Sphinx]] is really unexpected,
 because it is found suddenly in a hollow, and unnaturally near.
 Its face is turned away; and the effect is as creepy as coming into a room
 apparently empty, and finding somebody as still as the furniture.
-Or it is as if one found a lion couchant in that hole in the sand;
-as indeed the buried part of the monster is in the form of a
-couchant lion.  If it was a real lion it would hardly be less
+Or it is as if one found a [[Lion|lion]] couchant in that hole in the sand;
+as indeed the buried part of the [[Monster|monster]] is in the form of a
+couchant [[Lion|lion]].  If it was a real [[Lion|lion]] it would hardly be less
 arresting merely because it was near; nor could the first emotion
 of the traveller be adequately described as disappointment.
 In such cases there is generally some profit in looking at the monument
-a second time, or even at our own sensations a second time.
+a second [[Time|time]], or even at our own sensations a second [[Time|time]].
 So I reasoned, striving with wild critics in the wilderness;
-but the only part of the debate which is relevant here can
+but the only part of the [[debate]] which is relevant here can
 be expressed in the statement that I do think the Pyramid big,
 for the deep and simple reason that it is bigger than I am.
-I delicately suggested to those who were disappointed in the Sphinx
-that it was just possible that the Sphinx was disappointed in them.
-The Sphinx has seen Julius Caesar; it has very probably seen St. Francis,
-when he brought his flaming charity to Egypt; it has certainly looked,
+I delicately suggested to those who were disappointed in [[The Sphinx|the Sphinx]]
+that it was just possible that [[The Sphinx|the Sphinx]] was disappointed in them.
+[[The Sphinx]] has seen [[Julius Caesar]]; it has very probably seen St. Francis,
+when he brought his flaming [[Charity|charity]] to [[Egypt]]; it has certainly looked,
 in the first high days of the revolutionary victories, on the face
 of the young Napoleon.  Is it not barely possible, I hinted
 to my friends and fellow-tourists, that after these experiences,
 it might be a little depressed at the sight of you and me?
 But as I say, I only reintroduce my remarks in connection with a
-greater matter than these dead things of the desert; in connection
-with a tomb to which even the Pyramids are but titanic lumber,
-and a presence greater than the Sphinx, since it is not only a riddle
+greater matter than these dead things of the [[Desert|desert]]; in connection
+with a tomb to which even the Pyramids are but [[titanic]] lumber,
+and a presence greater than [[The Sphinx|the Sphinx]], since it is not only a [[Riddle|riddle]]
 but an answer.
 
 Before I go on to deeper defences of any such cult or culture,
@@ -1855,7 +1855,7 @@ the place, and does not reverence the reverence for the place.
 It is he who is supremely concerned about whether a mere object
 is old or new, or whether a mere ornament is gold or gilt.
 In other words, it is he who values the visible things rather
-than the invisible; for no sane man can doubt that invisible things
+than the invisible; for no sane man can [[Doubt|doubt]] that invisible things
 are vivid to the priests and pilgrims of these shrines.
 
 In the midst of emotions that have moved the whole world out
@@ -1865,7 +1865,7 @@ bows down to wood and stone.  For the only thing wrong about that
 admirable man is that he is blind about himself.
 
 No man will really attempt to describe his feelings, when he first
-stood at the gateway of the grave of Christ.  The only record relevant
+stood at the gateway of the [[Grave|grave]] of [[Christ]].  The only record relevant
 here is that I did not feel the reaction, not to say repulsion,
 that many seem to have felt about its formal surroundings.
 
@@ -1875,16 +1875,16 @@ was not particularly noisy or profane or palpably mercenary;
 he was rather more than less sympathetic than the same sort of man
 who might have shown me Westminster Abbey or Stratford-on-Avon. He
 was a small, solemn, owlish old man, a Roman Catholic in religion;
-but so far from deserving the charge of not knowing the Bible,
+but so far from deserving the charge of not knowing the [[Bible]],
 he deserved rather a gentle remonstrance against his assumption
 that nobody else knew it.  If there was anything to smile at,
 in associations so sacred, it was the elaborate simplicity with
 which he told the first facts of the Gospel story, as if he were
 evangelising a savage.  Anyhow, he did not talk like a cheap-jack
 at a stall; but rather like a teacher in an infant school.
-He made it very clear that Jesus Christ was crucified in case
+He made it very clear that Jesus [[Christ]] was crucified in case
 any one should suppose he was beheaded; and often stopped in his
-narrative to repeat that the hero of these events was Jesus Christ,
+narrative to repeat that the [[Hero|hero]] of these events was Jesus [[Christ]],
 lest we should fancy it was Nebuchadnezzar or the Duke of Wellington.
 I do not in the least mind being amused at this; but I have no reason
 whatever for doubting that he may have been a better man than I. I
@@ -1893,8 +1893,8 @@ I parted from him as politely as from one of my own countrymen.
 I also, of course, gave money, as is the custom, to the various monastic
 custodians of the shrines; but I see nothing surprising about that.
 I am not quite so ignorant as not to know that without the monastic
-brotherhoods, supported by such charity, there would not by this
-time be anything to see in Jerusalem at all.  There was only one
+brotherhoods, supported by such [[Charity|charity]], there would not by this
+[[Time|time]] be anything to see in Jerusalem at all.  There was only one
 class of men whose consistent concern was to watch these things,
 from the age of heathens and heresies to the age of Turks and tourists;
 and I am certainly not going to sneer at them for doing no practical work,
@@ -1913,15 +1913,15 @@ that we can meet things quite as curious in our own country.
 
 When the critic says that Jerusalem is disappointing he generally
 means that the popular worship there is weak and degraded,
-and especially that the religious art is gaudy and grotesque.
-In so far as there is any kind of truth in this, it is
-still true that the critic seldom sees the whole truth.
+and especially that the religious art is gaudy and [[Grotesque|grotesque]].
+In so far as there is any kind of [[Truth|truth]] in this, it is
+still true that the critic seldom sees the whole [[Truth|truth]].
 What is wrong with the critic is that he does not criticise himself.
 He does not honestly compare what is weak, in this particular world
 of ideas, with what is weak in his own world of ideas.  I will take
 an example from my own experience, and in a manner at my own expense.
 If I have a native heath it is certainly Kensington High Street,
-off which stands the house of my childhood.  I grew up in that
+off which stands the [[house]] of my [[Childhood|childhood]].  I grew up in that
 thorough-fare which Mr. Max Beerbohm, with his usual easy exactitude
 of phrase, has described as "dapper, with a leaning to the fine arts."
 Dapper was never perhaps a descriptive term for myself;
@@ -1929,35 +1929,35 @@ but it is quite true that I owe a certain taste for the arts
 to the sort of people among whom I was brought up.  It is also true
 that such a taste, in various forms and degrees, was fairly common
 in the world which may be symbolised as Kensington High Street.
-And whether or no it is a tribute, it is certainly a truth that most
+And whether or no it is a tribute, it is certainly a [[Truth|truth]] that most
 people with an artistic turn in Kensington High Street would have been
 very much shocked, in their sense of propriety, if they had seen
 the popular shrines of Jerusalem; the sham gold, the garish colours,
 the fantastic tales and the feverish tumult.  But what I want such
-people to do, and what they never do, is to turn this truth round.
+people to do, and what they never do, is to turn this [[Truth|truth]] round.
 I want them to imagine, not a Kensington aesthete walking down
 David Street to the Holy Sepulchre, but a Greek monk or a Russian
-pilgrim walking down Kensington High Street to Kensington Gardens.
+[[Pilgrim|pilgrim]] walking down Kensington High Street to Kensington Gardens.
 I will not insist here on all the hundred plagues of plutocracy
 that would really surprise such a Christian peasant; especially that
 curse of an irreligious society (unknown in religious societies,
-Moslem as well as Christian) the detestable denial of all dignity
+Moslem as [[Well|well]] as Christian) the detestable denial of all dignity
 to the poor.  I am not speaking now of moral but of artistic things;
 of the concrete arts and crafts used in popular worship.
-Well, my imaginary pilgrim would walk past Kensington Gardens till
+[[Well]], my imaginary [[Pilgrim|pilgrim]] would walk past Kensington Gardens till
 his sight was blasted by a prodigy.  He would either fall on his
 knees as before a shrine, or cover his face as from a sacrilege.
 He would have seen the Albert Memorial.  There is nothing so conspicuous
 in Jerusalem.  There is nothing so gilded and gaudy in Jerusalem.
 Above all, there is nothing in Jerusalem that is on so large
-a scale and at the same time in so gay and glittering a style.
+a scale and at the same [[Time|time]] in so gay and glittering a style.
 My simple Eastern Christian would almost certainly be driven to
 cry aloud, "To what superhuman God was this enormous temple erected?
-I hope it is Christ; but I fear it is Antichrist."  Such, he would think,
-might well be the great and golden image of the Prince of the World,
+I [[Hope|hope]] it is [[Christ]]; but I [[Fear|fear]] it is Antichrist."  Such, he would think,
+might [[Well|well]] be the great and golden image of the Prince of the World,
 set up in this great open space to receive the heathen prayers
 and heathen sacrifices of a lost humanity.  I fancy he would feel
-a desire to be at home again amid the humble shrines of Zion.
+a [[Desire|desire]] to be at [[Home|home]] again amid the humble shrines of Zion.
 I really cannot imagine _what_ he would feel, if he were told
 that the gilded idol was neither a god nor a demon, but a petty
 German prince who had some slight influence in turning us into
@@ -1965,16 +1965,16 @@ the tools of Prussia.
 
 Now I myself, I cheerfully admit, feel that enormity in Kensington Gardens
 as something quite natural.  I feel it so because I have been
-brought up, so to speak, under its shadow; and stared at the graven
+brought up, so to speak, under its [[Shadow|shadow]]; and stared at the graven
 images of Raphael and Shakespeare almost before I knew their names;
 and long before I saw anything funny in their figures being carved,
 on a smaller scale, under the feet of Prince Albert.
 I even took a certain childish pleasure in the gilding of
 the canopy and spire, as if in the golden palace of what was,
-to Peter Pan and all children, something of a fairy garden.
+to Peter Pan and all children, something of a fairy [[Garden|garden]].
 So do the Christians of Jerusalem take pleasure, and possibly
 a childish pleasure, in the gilding of a better palace,
-besides a nobler garden, ornamented with a somewhat worthier aim.
+besides a nobler [[Garden|garden]], ornamented with a somewhat worthier aim.
 But the point is that the people of Kensington, whatever they might
 think about the Holy Sepulchre, do not think anything at all about
 the Albert Memorial.  They are quite unconscious of how strange
@@ -1995,21 +1995,21 @@ surprised at the place of tinsel in our lives as we are at its place
 in theirs.  If we are critical of the petty things they do to glorify
 great things, they would find quite as much to criticise (as in
 Kensington Gardens) in the great things we do to glorify petty things.
-And if we wonder at the way in which they seem to gild the lily,
-they would wonder quite as much at the way we gild the weed.
+And if we [[Wonder|wonder]] at the way in which they seem to gild the lily,
+they would [[Wonder|wonder]] quite as much at the way we gild the weed.
 
 There are countless other examples of course of this principle
-of self-criticism, as the necessary condition of all criticism.
+of [[Self|self]]-criticism, as the necessary condition of all criticism.
 It applies quite as much, for instance, to the other great complaint
 which my Kensington friend would make after the complaint about
 paltry ornament; the complaint about what is commonly called backsheesh.
 Here again there is really something to complain of; though much of
-the fault is not due to Jerusalem, but rather to London and New York.
+the fault is not due to Jerusalem, but rather to [[London]] and [[New York]].
 The worst superstition of Jerusalem, like the worst profligacy
-of Paris, is a thing so much invented for Anglo-Saxons that it might
+of [[Paris]], is a thing so much invented for Anglo-Saxons that it might
 be called an Anglo-Saxon institution.  But here again the critic
 could only really judge fairly if he realised with what abuses
-at home he ought really to compare this particular abuse abroad.
+at [[Home|home]] he ought really to compare this particular abuse abroad.
 He ought to imagine, for example, the feelings of a religious
 Russian peasant if he really understood all the highly-coloured
 advertisements covering High Street Kensington Station.
@@ -2030,11 +2030,11 @@ They disfigure their towns in order to decorate their houses.
 To see such men crowding and clamouring for more wealth would
 really be a more unworthy sight than a scramble of poor guides;
 yet this is what would be conveyed by all the glare of gaudy
-advertisement to anybody who saw and understood it for the first time.
+advertisement to anybody who saw and understood it for the first [[Time|time]].
 Yet for us who are familiar with it all that gaudy advertisement
 fades into a background, just as the gaudy oriental patterns
 fade into a background for those oriental priests and pilgrims.
-Just as the innocent Kensington gentleman is wholly unaware
+Just as the [[Innocent|innocent]] Kensington gentleman is wholly unaware
 that his black top hat is relieved against a background,
 or encircled as by a halo, of a yellow hoarding about mustard,
 so is the poor guide sometimes unaware that his small doings are
@@ -2043,16 +2043,16 @@ only the humbler haloes of the Twelve Apostles.
 
 But all these misunderstandings are merely convenient illustrations and
 introductions, leading up to the great fact of the main misunderstanding.
-It is a misunderstanding of the whole history and philosophy
+It is a misunderstanding of the whole [[history]] and [[philosophy]]
 of the position; that is the whole of the story and the whole
-moral of the story.  The critic of the Christianity of Jerusalem
+moral of the story.  The critic of the [[Christianity]] of Jerusalem
 emphatically manages to miss the point.  The lesson he ought to
 learn from it is one which the Western and modern man needs most,
 and does not even know that he needs.  It is the lesson of constancy.
 These people may decorate their temples with gold or with tinsel;
 but their tinsel has lasted longer than our gold.
 They may build things as costly and ugly as the Albert Memorial;
-but the thing remains a memorial, a thing of immortal memory.
+but the thing remains a memorial, a thing of immortal [[Memory|memory]].
 They do not build it for a passing fashion and then forget it,
 or try hard to forget it.  They may paint a picture of a saint as gaudy
 as any advertisement of a soap; but one saint does not drive out another
@@ -2060,64 +2060,64 @@ saint as one soap drives out another soap.  They do not forget their
 recent idolatries, as the educated English are now trying to forget
 their very recent idolatry of everything German.  These Christian
 bodies have been in Jerusalem for at least fifteen hundred years.
-Save for a few years after the time of Constantine and a few years after
-the First Crusade, they have been practically persecuted all the time.
+Save for a few years after the [[Time|time]] of Constantine and a few years after
+the First Crusade, they have been practically persecuted all the [[Time|time]].
 At least they have been under heathen masters whose attitude towards
-Christendom was hatred and whose type of government was despotism.
+Christendom was hatred and whose type of [[government]] was despotism.
 No man living in the West can form the faintest conception
 of what it must have been to live in the very heart of the East
 through the long and seemingly everlasting epoch of Moslem power.
 A man in Jerusalem was in the centre of the Turkish Empire as a man
 in Rome was in the centre of the Roman Empire.  The imperial power
-of Islam stretched away to the sunrise and the sunset; westward to
-the mountains of Spain and eastward towards the wall of China.
+of [[Islam]] stretched away to the sunrise and the sunset; westward to
+the [[Mountains|mountains]] of Spain and eastward towards the wall of China.
 It must have seemed as if the whole earth belonged to Mahomet to those
-who in this rocky city renewed their hopeless witness to Christ.
+who in this rocky [[City|city]] renewed their hopeless witness to [[Christ]].
 What we have to ask ourselves is not whether we happen in
 all respects to agree with them, but whether we in the same
-condition should even have the courage to agree with ourselves.
+condition should even have the [[Courage|courage]] to agree with ourselves.
 It is not a question of how much of their religion is superstition,
 but of how much of our religion is convention; how much is custom
 and how much a compromise even with custom; how much a thing made facile
-by the security of our own society or the success of our own state.
+by the security of our own society or the [[success]] of our own state.
 These are powerful supports; and the enlightened Englishman,
-from a cathedral town or a suburban chapel, walks these wild
+from a [[Cathedral|cathedral]] town or a suburban chapel, walks these wild
 Eastern places with a certain sense of assurance and stability.
 Even after centuries of Turkish supremacy, such a man feels,
 he would not have descended to such a credulity.  He would
-not be fighting for the Holy Fire or wrangling with beggars
+not be fighting for the Holy [[Fire]] or wrangling with beggars
 in the Holy Sepulchre.  He would not be hanging fantastic
 lamps on a pillar peculiar to the Armenians, or peering into
 the gilded cage that contains the brown Madonna of the Copts.
 He would not be the dupe of such degenerate fables; God forbid.
-He would not be grovelling at such grotesque shrines; no indeed.
+He would not be grovelling at such [[Grotesque|grotesque]] shrines; no indeed.
 He would be many hundred yards away, decorously bowing towards
-a more distant city; where, above the only formal and official
+a more distant [[City|city]]; where, above the only formal and official
 open place in Jerusalem, the mighty mosaics of the Mosque of Omar
 proclaim across the valleys the victory and the glory of Mahomet.
 
 That is the real lesson that the enlightened traveller should learn;
 the lesson about himself.  That is the test that should really be put
-to those who say that the Christianity of Jerusalem is degraded.
-After a thousand years of Turkish tyranny, the religion of a London
+to those who say that the [[Christianity]] of Jerusalem is degraded.
+After a thousand years of Turkish tyranny, the religion of a [[London]]
 fashionable preacher would not be degraded.  It would be destroyed.
 It would not be there at all, to be jeered at by every prosperous tourist
 out of a _train de luxe_.  It is worth while to pause upon the point;
 for nothing has been so wholly missed in our modern religious
 ideals as the ideal of tenacity.  Fashion is called progress.
-Every new fashion is called a new faith.  Every faith is a faith
+Every new fashion is called a new [[Faith|faith]].  Every [[Faith|faith]] is a [[Faith|faith]]
 which offers everything except faithfulness.  It was never so necessary
 to insist that most of the really vital and valuable ideas in the world,
-including Christianity, would never have survived at all if they
-had not survived their own death, even in the sense of dying daily.
+including [[Christianity]], would never have survived at all if they
+had not survived their own [[Death|death]], even in the sense of dying daily.
 The ideal was out of date almost from the first day;
 that is why it is eternal; for whatever is dated is doomed.
 As for our own society, if it proceeds at its present rate of progress
-and improvement, no trace or memory of it will be left at all.
+and improvement, no trace or [[Memory|memory]] of it will be left at all.
 Some think that this would be an improvement in itself.  We have come
 to live morally, as the Japs live literally, in houses of paper.
 But they are pavilions made of the morning papers, which have to be
-burned on the appearance of the evening editions.  Well, a thousand
+burned on the appearance of the evening editions.  [[Well]], a thousand
 years hence the Japs may be ruling in Jerusalem; the modern Japs who
 no longer live in paper houses, but in sweated factories and slums.
 They and the Chinese (that much more dignified and democratic people)
@@ -2129,18 +2129,18 @@ they will still be burning before a crucified creator of the world.
 
 But besides this need of making strange cults the test not of
 themselves but ourselves, the sights of Jerusalem also illustrate
-the other suggestion about the philosophy of sight-seeing. It is true,
-as I have suggested, that after all the Sphinx is larger than I am;
+the other suggestion about the [[philosophy]] of sight-seeing. It is true,
+as I have suggested, that after all [[The Sphinx|the Sphinx]] is larger than I am;
 and on the same principle the painted saints are saintlier
 than I am, and the patient pilgrims more constant than I am.
 But it is also true, as in the lesser matter before mentioned,
-that even those who think the Sphinx small generally do not
+that even those who think [[The Sphinx|the Sphinx]] small generally do not
 notice the small things about it.  They do not even discover
 what is interesting about their own disappointment.  And similarly
 even those who are truly irritated by the unfamiliar fashions
 of worship in a place like Jerusalem, do not know how to discover
 what is interesting in the very existence of what is irritating.
-For instance, they talk of Byzantine decay or barbaric delusion,
+For instance, they talk of Byzantine [[Decay|decay]] or barbaric delusion,
 and they generally go away with an impression that the ritual
 and symbolism is something dating from the Dark Ages.
 But if they would really note the details of their surroundings,
@@ -2152,7 +2152,7 @@ not date from what they would regard as the ages of superstition.
 There really are bad pictures but they are not barbaric pictures;
 they are florid pictures in the last faded realism of the Renascence.
 There really is stiff and ungainly decoration, but it is not
-the harsh or ascetic decoration of a Spanish cloister; it is much
+the harsh or [[ascetic]] decoration of a Spanish cloister; it is much
 more like the pompous yet frivolous decorations of a Parisian hotel.
 In short, in so far as the shrine has really been defaced it
 has not been defaced by the Dark Ages, but rather if anything
@@ -2164,10 +2164,10 @@ I do not particularly mind it myself; for in such great matters I
 do not think taste is the test.  But if taste is to be made the test,
 there is matter for momentary reflection in this fact; for it
 is another example of the weakness of what may be called fashion.
-Voltaire, I believe, erected a sort of temple to God in his own garden;
-and we may be sure that it was in the most exquisite taste of the time.
+Voltaire, I believe, erected a sort of temple to God in his own [[Garden|garden]];
+and we may be sure that it was in the most exquisite taste of the [[Time|time]].
 Nothing would have surprised him more than to learn that,
-fifty years after the success of the French Revolution, almost every
+fifty years after the [[success]] of the [[French Revolution]], almost every
 freethinker of any artistic taste would think his temple far less
 artistically admirable than the nearest gargoyle on Notre Dame.
 Thus it is progress that must be blamed for most of these things:
@@ -2181,7 +2181,7 @@ about what we like.  At least the essentials of these things endure;
 and if they seem to have remained fixed as effigies, at least they
 have not faded like fashion-plates.
 
-It has seemed worth while to insert here this note on the philosophy
+It has seemed worth while to insert here this note on the [[philosophy]]
 of sight-seeing, however dilatory or disproportionate it may seem.
 For I am particularly and positively convinced that unless these things
 can somehow or other be seen in the right historical perspective
@@ -2190,43 +2190,43 @@ And let me say in conclusion that I can not only respect the sincerity,
 but understand the sentiments, of a man who says they are not
 worth seeing at all.  Sight-seeing is a far more difficult and
 disputable matter than many seem to suppose; and a man refusing it
-altogether might be a man of sense and even a man of imagination.
+altogether might be a man of sense and even a man of [[Imagination|imagination]].
 It was the great Wordsworth who refused to revisit Yarrow;
 it was only the small Wordsworth who revisited it after all.
 I remember the first great sight in my own entrance to the Near East,
 when I looked by accident out of the train going to Cairo, and saw far
 away across the luminous flats a faint triangular shape; the Pyramids.
 I could understand a man who had seen it turning his back and retracing
-his whole journey to his own country and his own home, saying, "I will go
+his whole [[Journey|journey]] to his own country and his own [[Home|home]], saying, "I will go
 no further; for I have seen afar off the last houses of the kings."
 I can understand a man who had only seen in the distance Jerusalem
-sitting on the hill going no further and keeping that vision for ever.
+sitting on the [[Hill|hill]] going no further and keeping that vision for ever.
 It would, of course, be said that it was absurd to come at all,
 and to see so little.  To which I answer that in that sense
 it is absurd to come at all.  It is no more fantastic to turn
 back for such a fancy than it was to come for a similar fancy.
-A man cannot eat the Pyramids; he cannot buy or sell the Holy City;
+A man cannot eat the Pyramids; he cannot buy or sell the Holy [[City]];
 there can be no practical aspect either of his coming or going.
 If he has not come for a poetic mood he has come for nothing; if he has
-come for such a mood, he is not a fool to obey that mood.  The way
-to be really a fool is to try to be practical about unpractical things.
+come for such a mood, he is not a [[Fool|fool]] to obey that mood.  The way
+to be really a [[Fool|fool]] is to try to be practical about unpractical things.
 It is to try to collect clouds or preserve moonshine like money.
 Now there is much to be said for the view that to search for a mood
-is in its nature moonshine.  It may be said that this is especially
+is in its [[Nature|nature]] moonshine.  It may be said that this is especially
 true in the crowded and commonplace conditions in which most
 sight-seeing has to be done.  It may be said that thirty tourists
 going together to see a tombstone is really as ridiculous as thirty
-poets going together to write poems about the nightingale.
+poets going together to write [[Poems|poems]] about the [[Nightingale|nightingale]].
 There would be something rather depressing about a crowd
-of travellers, walking over hill and dale after the celebrated
+of travellers, walking over [[Hill|hill]] and dale after the celebrated
 cloud of Wordsworth; especially if the crowd is like the cloud,
 and moveth all together if it move at all.  A vast mob assembled
 on Salisbury Plain to listen to Shelley's skylark would probably
 (after an hour or two) consider it a rather subdued sort of skylarking.
-It may be argued that it is just as illogical to hope to fix beforehand
-the elusive effects of the works of man as of the works of nature.
+It may be argued that it is just as illogical to [[Hope|hope]] to fix beforehand
+the elusive effects of the works of man as of the works of [[Nature|nature]].
 It may be called a contradiction in terms to expect the unexpected.
-It may be counted mere madness to anticipate astonishment, or go
+It may be counted mere [[Madness|madness]] to anticipate astonishment, or go
 in search of a surprise.  To all of which there is only one answer;
 that such anticipation is absurd, and such realisation will
 be disappointing, that images will seem to be idols and idols
@@ -2234,51 +2234,51 @@ will seem to be dolls, unless there be some rudiment of such
 a habit of mind as I have tried to suggest in this chapter.
 No great works will seem great, and no wonders of the world
 will seem wonderful, unless the angle from which they are seen
-is that of historical humility.
+is that of historical [[Humility|humility]].
 
 One more word may be added of a more practical sort.  The place where
 the most passionate convictions on this planet are concentrated is not
 one where it will always be wise, even from a political standpoint,
 to air our plutocratic patronage and our sceptical superiority.
 Strange scenes have already been enacted round that fane where the
-Holy Fire bursts forth to declare that Christ is risen; and whether
-or no we think the thing holy there is no doubt about it being fiery.
+Holy [[Fire]] bursts forth to declare that [[Christ]] is risen; and whether
+or no we think the thing holy there is no [[Doubt|doubt]] about it being fiery.
 Whether or no the superior person is right to expect the unexpected,
 it is possible that something may be revealed to him that he really
-does not expect.  And whatever he may think about the philosophy
+does not expect.  And whatever he may think about the [[philosophy]]
 of sight-seeing, it is not unlikely that he may see some sights.
 
 = = = = = = = = = = = = = = = =
 
 CHAPTER V
 
-THE STREETS OF THE CITY
+THE STREETS OF THE [[City|CITY]]
 
-When Jerusalem had been half buried in snow for two or three days,
+When Jerusalem had been half buried in [[Snow|snow]] for two or three days,
 I remarked to a friend that I was prepared henceforward to justify
-all the Christmas cards.  The cards that spangle Bethlehem with frost
+all the Christmas cards.  The cards that spangle Bethlehem with [[Frost|frost]]
 are generally regarded by the learned merely as vulgar lies.
 At best they are regarded as popular fictions, like that which made
 the shepherds in the Nativity Play talk a broad dialect of Somerset.
 In the deepest sense of course this democratic tradition is truer
-than most history.  But even in the cruder and more concrete sense the
-tradition about the December snow is not quite so false as is suggested.
+than most [[history]].  But even in the cruder and more concrete sense the
+tradition about the December [[Snow|snow]] is not quite so false as is suggested.
 It is not a mere local illusion for Englishmen to picture
-the Holy Child in a snowstorm, as it would be for the Londoners
-to picture him in a London fog.  There can be snow in Jerusalem,
-and there might be snow in Bethlehem; and when we penetrate to the idea
+the Holy [[Child]] in a snowstorm, as it would be for the Londoners
+to picture him in a [[London]] fog.  There can be [[Snow|snow]] in Jerusalem,
+and there might be [[Snow|snow]] in Bethlehem; and when we penetrate to the idea
 behind the image, we find it is not only possible but probable.
 In Palestine, at least in these mountainous parts of Palestine,
-men have the same general sentiment about the seasons as in the West
-or the North.  Snow is a rarity, but winter is a reality.
+men have the same general sentiment about the [[Seasons|seasons]] as in the West
+or the North.  [[Snow]] is a rarity, but [[Winter|winter]] is a reality.
 Whether we regard it as the divine purpose of a mystery or the human
-purpose of a myth, the purpose of putting such a feast in winter
+purpose of a myth, the purpose of putting such a feast in [[Winter|winter]]
 would be just the same in Bethlehem as it would be in Balham.
-Any one thinking of the Holy Child as born in December would mean
-by it exactly what we mean by it; that Christ is not merely a summer
-sun of the prosperous but a winter fire for the unfortunate.
+Any one thinking of the Holy [[Child]] as born in December would mean
+by it exactly what we mean by it; that [[Christ]] is not merely a [[Summer|summer]]
+sun of the prosperous but a [[Winter|winter]] [[Fire|fire]] for the unfortunate.
 
-In other words, the semi-tropical nature of the place, like its
+In other words, the semi-tropical [[Nature|nature]] of the place, like its
 vulgarity and desecration, can be, and are, enormously exaggerated.
 But it is always hard to correct the exaggeration without exaggerating
 the correction.  It would be absurd seriously to deny that Jerusalem
@@ -2286,36 +2286,36 @@ is an Eastern town; but we may say it was Westernised without
 being modernised.  Anyhow, it was medievalised before it was modernised.
 And in the same way it would be absurd to deny that Jerusalem
 is a Southern town, in the sense of being normally out of the way
-of snowstorms, but the truth can be suggested by saying that it
-has always known the quality of snow, but not the quantity.
-And the quantity of snow that fell on this occasion would have
-been something striking and even sensational in Sussex or Kent.
+of snowstorms, but the [[Truth|truth]] can be suggested by saying that it
+has always known the quality of [[Snow|snow]], but not the quantity.
+And the quantity of [[Snow|snow]] that fell on this occasion would have
+been something striking and even sensational in Sussex or [[Kent]].
 And yet another way of putting the proportions of the thing would
 be to say that Jerusalem has been besieged more often and by more
 different kinds of people than any town upon the globe; that it has
 been besieged by Jews and Assyrians, Egyptians and Babylonians, Greeks
 and Romans, Persians and Saracens, Frenchmen and Englishmen;
 but perhaps never before in all its agony of ages has it ever really
-been besieged by winter.  In this case it was not only snowed on,
+been besieged by [[Winter|winter]].  In this case it was not only snowed on,
 it was snowed up.
 
-For some days the city was really in a state of siege.
-If the snow had held for a sufficient number of days it might have
+For some days the [[City|city]] was really in a state of siege.
+If the [[Snow|snow]] had held for a sufficient number of days it might have
 been in a state of famine.  The railway failed between Jerusalem
 and the nearest station.  The roads were impassable between
 Jerusalem and the nearest village, or even the nearest suburb.
-In some places the snow drifted deep enough to bury a man,
+In some places the [[Snow|snow]] drifted deep enough to bury a man,
 and in some places, alas, it did actually bury little children;
 poor little Arabs whose bodies were stiff where they had fallen.
 Many mules were overwhelmed as if by floods, and countless trees struck
-down as if by lightning.  Even when the snow began at last to melt it
+down as if by [[Lightning|lightning]].  Even when the [[Snow|snow]] began at last to melt it
 only threatened to turn the besieged fortress into a sort of island.
-A river that men could not ford flowed between Jerusalem and the Mount
+A [[River|river]] that men could not ford flowed between Jerusalem and the Mount
 of Olives.  Even a man walking about the ordinary streets could easily
-step up to his knees or up to his waist.  Snow stood about like a new
+step up to his knees or up to his waist.  [[Snow]] stood about like a new
 system of natural barricades reared in some new type of revolution.
-I have already remarked that what struck me most about the city was
-the city wall; but now a new white wall stood all round the city;
+I have already remarked that what struck me most about the [[City|city]] was
+the [[City|city]] wall; but now a new white wall stood all round the [[City|city]];
 and one that neither friend nor foe could pass.
 
 But a state of siege, whatever its inconveniences,
@@ -2323,52 +2323,52 @@ is exceedingly convenient for a critic and observer of the town.
 It concentrated all that impression of being something compact and what,
 with less tragic attendant circumstances, one might call cosy.
 It fixed the whole picture in a frame even more absolute than
-the city wall; and it turned the eyes of all spectators inwards.
+the [[City|city]] wall; and it turned the eyes of all spectators inwards.
 Above all, by its very abnormality it accentuated the normal
 divisions and differences of the place; and made it more possible
 to distinguish and describe them like _dramatis personae_.
-The parts they played in the crisis of the snow were very like
+The parts they played in the crisis of the [[Snow|snow]] were very like
 the parts they played in the general crisis of the state.
 And the very cut and colour of the figures, turban and tarbouch,
 khaki and burnous and gabardine, seemed to stand out more sharply
 against that blank background of white.
 
 The first fact of course was a fact of contrast.  When I said that
-the city struck me in its historic aspect as being at least as much
-a memory of the Crusaders as of the Saracens, I did not of course mean
+the [[City|city]] struck me in its historic aspect as being at least as much
+a [[Memory|memory]] of the Crusaders as of the Saracens, I did not of course mean
 to deny the incidental contrasts between this Southern civilisation
 and the civilisation of Europe, especially northern Europe.
 The immediate difference was obvious enough when the gold and
-the gaudy vegetation of so comparatively Asiatic a city were struck
+the gaudy vegetation of so comparatively Asiatic a [[City|city]] were struck
 by this strange blast out of the North.  It was a queer spectacle
-to see a great green palm bowed down under a white load of snow;
+to see a great green palm bowed down under a white load of [[Snow|snow]];
 and it was a stranger and sadder spectacle to see the people accustomed
 to live under such palm-trees bowed down under such unearthly storms.
 Yet the very manner in which they bore it is perhaps the first fact
 to be noted among all the facts that make up the puzzling problem
 of Jerusalem.  Odd as it may sound you can see that the true Orientals
-are not familiar with snow by the very fact that they accept it.
+are not familiar with [[Snow|snow]] by the very fact that they accept it.
 They accept it as we should accept being swallowed by an earthquake;
 because we do not know the answer to an earthquake.  The men from the
-desert do not know the answer to the snow, it seems to them unanswerable.
-But Christians fight with snow in a double sense; they fight with
-snow as they fight with snowballs.  A Moslem left to himself would
+[[Desert|desert]] do not know the answer to the [[Snow|snow]], it seems to them unanswerable.
+But Christians fight with [[Snow|snow]] in a [[Double|double]] sense; they fight with
+[[Snow|snow]] as they fight with snowballs.  A Moslem left to himself would
 no more play with a snowball than make a toy of a thunderbolt.
 And this is really a type of the true problem that was raised
 by the very presence of the English soldier in the street,
-even if he was only shovelling away the snow.
+even if he was only shovelling away the [[Snow|snow]].
 
 It would be far from a bad thing, I fancy, if the rights and wrongs
-of these Bible countries could occasionally be translated into
-Bible language.  And I suggest this here, not in the least because it
+of these [[Bible]] countries could occasionally be translated into
+[[Bible]] language.  And I suggest this here, not in the least because it
 is a religious language, but merely because it is a simple language.
 It may be a good thing, and in many ways it certainly is a good thing,
-that the races native to the Near East, to Egypt or Arabia,
+that the races native to the Near East, to [[Egypt]] or Arabia,
 should come in contact with Western culture; but it will be
 unfortunate if this only means coming in contact with Western
 pedantry and even Western hypocrisy.  As it is there is only too
-much danger that the local complaints against the government may be
-exactly like the official explanations of the government; that is,
+much danger that the local complaints against the [[government]] may be
+exactly like the official explanations of the [[government]]; that is,
 mere strings of long words with very little meaning involved.
 In short, if people are to learn to talk English it will be a refreshing
 finishing touch to their culture if they learn to talk plain English.
@@ -2384,8 +2384,8 @@ with bread, with land, with taxes and children and churches.
 If imperialists and capitalists do thus oppress them, as they
 most certainly often do, then the condition of those more powerful
 persons can also be described in few and simple words; such as
-crime and sin and death and hell.  But when complaints are made,
-as they are sometimes in Palestine and still more in Egypt,
+crime and sin and [[Death|death]] and hell.  But when complaints are made,
+as they are sometimes in Palestine and still more in [[Egypt]],
 in the elaborate and long-winded style of a leading article,
 the sympathetic European is apt to remember how very little confidence
 he has ever felt in his own leading articles.  If an Arab comes
@@ -2394,37 +2394,37 @@ and taken the corn-sheaves from the field of my fathers," I do really
 feel that he towers over me and my perishing industrial civilisation
 with a terrible appeal to eternal things.  I feel he is a figure
 more enduring than a statue, like the figure of Naboth or of Nathan.
-But when that simple son of the desert opens his mouth and says,
-"The self-determination of proletarian class-conscious solidarity
+But when that simple son of the [[Desert|desert]] opens his mouth and says,
+"The [[Self|self]]-determination of proletarian class-conscious solidarity
 as it functions for international reconstruction," and so on,
 why then I must confess to the weakness of feeling my sympathies
 instantly and strangely chilled.  I merely feel inclined to tell him
 that I can talk that sort of pidgin English better than he can.
 If he modelled himself on the great rebels and revolutionists
-of the Bible, it would at least be a considerable improvement
+of the [[Bible]], it would at least be a considerable improvement
 in his literary style.  But as a matter of fact something much
-more solid is involved than literary style.  There is a logic
+more solid is involved than literary style.  There is a [[logic]]
 and justice in the distinction, even in the world of ideas.
-That most people with much more education than the Arab, and therefore
+That most people with much more [[Education|education]] than the Arab, and therefore
 much less excuse than the Arab, entirely ignore that distinction,
 is merely a result of their ignoring ideas, and being satisfied
-with long words.  They like democracy because it is a long word;
+with long words.  They like [[Democracy|democracy]] because it is a long word;
 that is the only thing they do like about it.
 
-People are entitled to self-government; that is, to such
-government as is self-made. They are not necessarily entitled
+People are entitled to [[Self|self]]-[[government]]; that is, to such
+[[government]] as is [[Self|self]]-made. They are not necessarily entitled
 to a special and elaborate machinery that somebody else has made.
 It is their right to make it for themselves, but it is also their
-duty to think of it for themselves.  Self-government of a simple
+duty to think of it for themselves.  [[Self]]-[[government]] of a simple
 kind has existed in numberless simple societies, and I shall
 always think it a horrible responsibility to interfere with it.
-But representative government, or theoretically representative government,
+But representative [[government]], or theoretically representative [[government]],
 of an exceedingly complicated kind, may exist in certain complicated
 societies without their being bound to transfer it to others,
 or even to admire it for themselves.  At any rate, for good or evil,
 they have invented it themselves.  And there is a moral distinction,
 which is perfectly rational and democratic, between such inventions
-and the self-evident rights which no man can claim to have invented.
+and the [[Self|self]]-evident rights which no man can claim to have invented.
 If the Arab says to me, "I don't care a curse for Europe; I demand bread,"
 the reproach is to me both true and terrible.  But if he says,
 "I don't care a curse for Europe; I demand French cookery,
@@ -2433,16 +2433,16 @@ rather an unreasonable Arab.  After all, we invented these things;
 in _auctore auctoritas_.
 
 And of this problem there is a sort of working model in the presence
-of the snow in Palestine, especially in the light of the old proverb
-about the impossibility of snow in Egypt.  Palestine is wilder,
+of the [[Snow|snow]] in Palestine, especially in the light of the old proverb
+about the impossibility of [[Snow|snow]] in [[Egypt]].  Palestine is wilder,
 less wealthy and modernised, more religious and therefore more realistic.
 The issue between the things only a European can do, and the things
 no European has the right to do, is much sharper and clearer
 than the confusions of verbosity.  On the one hand the things
-the English can do are more real things, like clearing away the snow;
+the English can do are more real things, like clearing away the [[Snow|snow]];
 for the very reason that the English are not here, so to speak,
 building on a French pavement but on the bare rocks of the Eastern wilds,
-the contact with Islam and Israel is more simple and direct.
+the contact with [[Islam]] and Israel is more simple and direct.
 And on the other side the discontents and revolts are more real.
 So far from intending to suggest that the Egyptians have no complaints,
 I am very far from meaning that they have no wrongs.  But curiously
@@ -2450,22 +2450,22 @@ enough the wrongs seem to me more real than the complaints.
 The real case against our Egyptian adventure was stated long ago
 by Randolph Churchill, when he denounced "a bondholder's war"; it is
 in the whole business of collecting debts due to cosmopolitan finance.
-But a stranger in Egypt hears little denunciation of cosmopolitan finance,
+But a stranger in [[Egypt]] hears little denunciation of cosmopolitan finance,
 and a great deal of drivel in the way of cosmopolitan idealism.
 When the Palestinians say that usurers menace their land they mean
 the land they dig; an old actuality and not a new abstraction.
 Their revolt may be right or wrong, but it is real;
 and what applies to their revolt applies to their religion.
-There may well be doubts about whether Egypt is a nation, but there
-is no doubt that Jerusalem is a city, and the nations have come
+There may [[Well|well]] be doubts about whether [[Egypt]] is a nation, but there
+is no [[Doubt|doubt]] that Jerusalem is a [[City|city]], and the nations have come
 to its light.
 
-The problem of the snow proved indeed the text for a tale touching
-the practical politics of the city.  The English soldiers cleared
-the snow away; the Arabs sat down satisfied or stoical with
-the snow blocking their own doors or loading their own roofs.
+The problem of the [[Snow|snow]] proved indeed the text for a tale touching
+the practical politics of the [[City|city]].  The English soldiers cleared
+the [[Snow|snow]] away; the Arabs sat down satisfied or stoical with
+the [[Snow|snow]] blocking their own doors or loading their own roofs.
 But the Jews, as the story went, were at length persuaded to clear
-away the snow in front of them, and then demanded a handsome
+away the [[Snow|snow]] in front of them, and then demanded a handsome
 salary for having recovered the use of their own front doors.
 The story is not quite fair; and yet it is not so unfair as it seems.
 Any rational Anti-Semite will agree that such tales, even when they
@@ -2481,22 +2481,22 @@ The Jews argue that this occurs, not because they wish to remain
 idle capitalists, but because they insist on being properly
 paid proletarians.  With all this I shall deal, however, when I
 treat of the Jewish problem itself.  The point for the moment
-is that the episode of the snow did in a superficial way suggest
+is that the episode of the [[Snow|snow]] did in a superficial way suggest
 the parts played by the three parties and the tales told about them.
 To begin with, it is right to say that the English do a great many things,
-as they clear away the snow, simply because nobody else would do them.
+as they clear away the [[Snow|snow]], simply because nobody else would do them.
 They did save the oriental inhabitants from some of the worst
 consequences of the calamity.  Probably they sometimes save
 the inhabitants from something which the inhabitants do not
 regard as a calamity.  It is the danger of all such foreign
 efficiency that it often saves men who do not want to be saved.
 But they do in many cases do things from which Moslems profit,
-but which Moslems by themselves would not propose, let alone perform.
+but which Moslems by themselves would not propose, let [[Alone|alone]] perform.
 And this has a general significance even in our first survey, for it
-suggests a truth easy to abuse, but I think impossible to ignore.
-I mean that there is something non-political about Moslem morality.
+suggests a [[Truth|truth]] easy to abuse, but I think impossible to ignore.
+I mean that there is something non-political about Moslem [[morality]].
 Perverse as it may appear, I suspect that most of their
-political movements result from their non-political morality.
+political movements result from their non-political [[morality]].
 They become politicians because they know they are not political;
 and feel their simple and more or less healthy life is at a disadvantage,
 in face of the political supremacy of the English and the political
@@ -2505,7 +2505,7 @@ subtlety of the Jews.
 For instance, the tradition of Turkish rule is simply a joke.
 All the stories about it are jokes, and often very good jokes.
 My own favourite incident is that which is still commemorated
-in the English cathedral by an enormous hole in the floor.
+in the English [[Cathedral|cathedral]] by an enormous hole in the floor.
 The Turks dug up the pavement looking for concealed English artillery;
 because they had been told that the bishop had given his blessing
 to two canons.  The bishop had indeed recently appointed two canons
@@ -2514,7 +2514,7 @@ the floor of the chancel.  There was another agreeable incident when
 the Turkish authorities, by an impulsive movement of religious toleration,
 sent for a Greek priest to bury Greek soldiers, and told him
 to take his choice in a heap of corpses of all creeds and colours.
-But at once the most curious and the most common touch of comedy
+But at once the most curious and the most common touch of [[Comedy|comedy]]
 is the perpetual social introduction to solid and smiling citizens
 who have been nearly hanged by the Turks.  The fortunate gentleman
 seems still to be regarding his escape with a broad grin.
@@ -2523,22 +2523,22 @@ from the guillotine, or to an affable American who had only just
 vacated the electrical chair, you would feel a faint curiosity
 about the whole story.  If a friend introduced somebody, saying,
 "My friend Robinson; his sentence has been commuted to penal servitude,"
-or "My Uncle William, just come from Dartmoor Prison," your mind
+or "My Uncle William, just come from Dartmoor [[Prison]]," your mind
 and perhaps your lips would faintly form the syllables "What for?"
 But evidently, under Turkish rule, being hanged was like
 being knocked down by a cab; it might happen to anybody.
 This is a parenthesis, since I am only dealing here with the
-superficial experience of the streets, especially in the snow.
-But it will be well to safeguard it by saying that this unpolitical
+superficial experience of the streets, especially in the [[Snow|snow]].
+But it will be [[Well|well]] to safeguard it by saying that this unpolitical
 carelessness and comprehensiveness of the indiscriminate Turk had its
-tragic as well as its comic side.  It was by no means everybody that
+tragic as [[Well|well]] as its comic side.  It was by no means everybody that
 escaped hanging; and there was a tree growing outside the Jaffa Gate
 at which men might still shudder as they pass it in the sunlight.
 It was what a modern revolutionary poet has called bitterly the Tree
 of Man's Making; and what a medieval revolutionary poet called
-the fruit tree in the orchard of the king.  It was the gibbet;
-and lives have dropped from it like leaves from a tree in autumn.
-Yet even on the sterner side, we can trace the truth about
+the fruit tree in the orchard of the [[King|king]].  It was the gibbet;
+and lives have dropped from it like [[Leaves|leaves]] from a tree in [[Autumn|autumn]].
+Yet even on the sterner side, we can trace the [[Truth|truth]] about
 the Moslem fatalism which seems so alien to political actuality.
 There was a popular legend or proverb that this terrible tree
 was in some way bound up with the power of the Turk, and perhaps
@@ -2549,7 +2549,7 @@ It is astonishing how often the Turks seem to have accepted a legend
 or prophecy about their own ultimate failure.  De Quincey mentions
 one of them in the blow that half broke the Palladium of Byzantium.
 It is said that the Moslems themselves predict the entry
-of a Christian king of Jerusalem through the Golden Gate.
+of a Christian [[King|king]] of Jerusalem through the Golden Gate.
 Perhaps that is why they have blocked up the fatal gate;
 but in any case they dealt in that fashion with the fatal tree.
 They elaborately bound and riveted it with iron, as if accepting
@@ -2562,8 +2562,8 @@ In the last chapter I have attempted to suggest a background
 of the battlemented walls with the low gates and narrow windows
 which seem to relieve the liveliest of the coloured groups against
 the neutral tints of the North, and how this was intensified
-when the neutral tints were touched with the positive hue of snow.
-In the same merely impressionist spirit I would here attempt to sketch
+when the neutral tints were touched with the positive hue of [[Snow|snow]].
+In the same merely impressionist spirit I would here attempt to [[Sketch|sketch]]
 some of the externals of the actors in such a scene, though it is
 hard to do justice to such a picture even in the superficial matter
 of the picturesque.  Indeed it is hard to be sufficiently superficial;
@@ -2574,7 +2574,7 @@ We hear much of the gaudy colours of the East; but the most
 striking thing about them is that they are delicate colours.
 It is rare to see a red that is merely like a pillar-box, or a blue
 that is Reckitt's blue; the red is sure to have the enrichment
-of tawny wine or blood oranges, and the blue of peacocks or the sea.
+of tawny wine or [[Blood|blood]] oranges, and the blue of peacocks or the sea.
 In short these people are artistic in the sense that used to be
 called aesthetic; and it is a nameless instinct that preserves
 these nameless tints.  Like all such instincts, it can be
@@ -2584,31 +2584,31 @@ therefore be persuaded by sophists that they prefer the worst.
 But there are other elements emerging from the coloured crowd,
 which are more significant, and therefore more stubborn.
 A stranger entirely ignorant of that world would feel something
-like a chill to the blood when he first saw the black figures
+like a chill to the [[Blood|blood]] when he first saw the black figures
 of the veiled Moslem women, sinister figures without faces.
 It is as if in that world every woman were a widow.  When he realised
 that these were not the masked mutes at a very grisly funeral,
 but merely ladies literally obeying a convention of wearing
 veils in public, he would probably have a reaction of laughter.
 He would be disposed to say flippantly that it must be, a dull life,
-not only for the women but the men; and that a man might well want
+not only for the women but the men; and that a man might [[Well|well]] want
 five wives if he had to marry them before he could even look at them.
 But he will be wise not to be satisfied with such flippancy,
 for the complete veiling of the Moslem women of Jerusalem,
-though not a finer thing than the freedom of the Christian woman
+though not a finer thing than the [[Freedom|freedom]] of the Christian woman
 of Bethlehem, is almost certainly a finer thing than the more
 coquettish compromise of the other Moslem women of Cairo.
 It simply means that the Moslem religion is here more sincerely observed;
 and this in turn is part of something that a sympathetic person will
 soon feel in Jerusalem, if he has come from these more commercial
 cities of the East; a spiritual tone decidedly more delicate
-and dignified, like the clear air about the mountain city.
+and dignified, like the clear air about the mountain [[City|city]].
 Whatever the human vices involved, it is not altogether for
 nothing that this is the holy town of three great religions.
 When all is said, he will feel that there are some tricks that could
 not be played, some trades that could not be plied, some shops
 that could not be opened, within a stone's throw of the Sepulchre.
-This indefinable seriousness has its own fantasies of fanaticism
+This indefinable seriousness has its own fantasies of [[Fanaticism|fanaticism]]
 or formalism; but if these are vices they are not vulgarities.
 There is no stronger example of this than the real Jews of Jerusalem,
 especially those from the ghettoes of eastern Europe.
@@ -2624,23 +2624,23 @@ them too many primeval traditions and laborious loyalties,
 along with their grand though often greasy robes of bronze
 or purple velvet.  They often wear on their heads that odd
 turban of fur worn by the Rabbis in the pictures of Rembrandt.
-And indeed that great name is not irrelevant; for the whole truth
+And indeed that great name is not irrelevant; for the whole [[Truth|truth]]
 at the back of Zionism is in the difference between the picture
 of a Jew by Rembrandt and a picture of a Jew by Sargent.
-For Rembrandt the Rabbi was, in a special and double sense,
+For Rembrandt the Rabbi was, in a special and [[Double|double]] sense,
 a distinguished figure.  He was something distinct from the world
-of the artist, who drew a Rabbi as he would a Brahmin.  But Sargent
-had to treat his sitters as solid citizens of England or America;
+of the [[artist]], who drew a Rabbi as he would a Brahmin.  But Sargent
+had to treat his sitters as solid citizens of England or [[America]];
 and consequently his pictures are direct provocations to a pogrom.
 But the light that Rembrandt loved falls not irreverently on
 the strange hairy haloes that can still be seen on the shaven heads
 of the Jews of Jerusalem.  And I should be sorry for any pogrom
 that brought down any of their grey wisps or whiskers in sorrow
-to the grave.
+to the [[Grave|grave]].
 
 The whole scene indeed, seriousness apart, might be regarded as a
 fantasia for barbers; for the different ways of dressing the hair
-would alone serve as symbols of different races and religions.
+would [[Alone|alone]] serve as symbols of different races and religions.
 Thus the Greek priests of the Orthodox Church, bearded and robed
 in black with black towers upon their heads, have for some
 strange reason their hair bound up behind like a woman's. In
@@ -2648,7 +2648,7 @@ any case they have in their pomp a touch of the bearded bulls
 of Assyrian sculpture; and this strange fashion of curling if not
 oiling the Assyrian bull gives the newcomer an indescribable and
 illogical impression of the unnatural sublimity of archaic art.
-In the Apocalypse somewhere there is an inspiringly unintelligible
+In the [[Apocalypse]] somewhere there is an inspiringly unintelligible
 allusion to men coming on the earth, whose hair is like the hair
 of women and their teeth like the teeth of lions.  I have never been
 bitten by an Orthodox clergyman, and cannot say whether his teeth
@@ -2656,22 +2656,22 @@ are at all leonine; though I have seen seven of them together
 enjoying their lunch at an hotel with decorum and dispatch.
 But the twisting of the hair in the womanish fashion does for us
 touch that note of the abnormal which the mystic meant to convey
-in his poetry, and which others feel rather as a recoil into humour.
+in his poetry, and which others feel rather as a recoil into [[Humour|humour]].
 The best and last touch to this topsy-turvydom was given when a lady,
 observing one of these reverend gentlemen who for some reason did
 not carry this curious coiffure, exclaimed, in a tone of heartrending
 surprise and distress, "Oh, he's bobbed his hair!"
 
 Here again of course even a superficial glance at the pageant
-of the street should not be content with its comedy.  There is
+of the street should not be content with its [[Comedy|comedy]].  There is
 an intellectual interest in the external pomp and air of placid
 power in these ordinary Orthodox parish priests; especially if we
-compare them with the comparatively prosaic and jog-trot good nature
-of the Roman monks, called in this country the Latins.  Mingling in
+compare them with the comparatively prosaic and jog-trot good [[Nature|nature]]
+of the Roman [[Monks|monks]], called in this country the Latins.  Mingling in
 the same crowd with these black-robed pontiffs can be seen shaven men
 in brown habits who seem in comparison to be both busy and obscure.
 These are the sons of St. Francis, who came to the East with a grand
-simplicity and thought to finish the Crusades with a smile.
+simplicity and thought to finish the [[Crusades]] with a smile.
 The spectator will be wise to accept this first contrast that strikes
 the eye with an impartial intellectual interest; it has nothing
 to do with personal character, of course, and many Greek priests
@@ -2685,12 +2685,12 @@ that stands for much that we associate with Protestantism.
 It is Roman Catholicism that is by comparison plain and practical
 and scornful of superstition and concerned for social work.
 It is Greek Catholicism that is stiff with gold and gorgeous
-with ceremonial, with its hold on ancient history and its inheritance
+with ceremonial, with its hold on ancient [[history]] and its inheritance
 of imperial tradition.  In the cant of our own society, we may say
 it is the Roman who rationalises and the Greek who Romanises.
 It is the Roman Catholic who is impatient with Russian and
 Greek childishness, and perpetually appealing for common sense.
-It is the Greek who defends such childishness as childlike faith
+It is the Greek who defends such childishness as childlike [[Faith|faith]]
 and would rebuke such common sense as common scepticism.  I do not
 speak of the theological tenets or even the deeper emotions involved,
 but only, as I have said, of contrasts visible even in the street.
@@ -2710,12 +2710,12 @@ forms of frozen yet fiery colours which we call jewels.
 I have seen the Greek Patriarch, that magnificent old gentleman,
 walking down the street like an emperor in the _Arabian Nights_,
 hung all over with historic jewels as thick as beads or buttons,
-with a gigantic cross of solid emeralds that might have been given him
+with a gigantic [[Cross|cross]] of solid emeralds that might have been given him
 by the green genii of the sea, if any of the genii are Christians.
 These things are toys, but I am entirely in favour of toys;
 and rubies and emeralds are almost as intoxicating as that sort
 of lustrous coloured paper they put inside Christmas crackers.
-This beauty has been best achieved in the North in the glory
+This [[Beauty|beauty]] has been best achieved in the North in the glory
 of coloured glass; and I have seen great Gothic windows
 in which one could really believe that the robes of martyrs
 were giant rubies or the starry sky a single enormous sapphire.
@@ -2729,39 +2729,39 @@ to an Eastern tale.  The Orthodox are at least more oriental
 in the sense of being more ornamental; more flat and decorative.
 The Romans are more Western, I might even say more modern,
 in the sense of having more realism even in their ritualism.
-The Greek cross is a cross; the Roman cross is a crucifix.
+The Greek [[Cross|cross]] is a [[Cross|cross]]; the Roman [[Cross|cross]] is a crucifix.
 
 But these are deeper matters; I am only trying to suggest a sort
-of silhouette of the crowd like the similar silhouette of the city,
+of silhouette of the crowd like the similar silhouette of the [[City|city]],
 a profile or outline of the heads and hats, like the profile of
 the towers and spires.  The tower that makes the Greek priest look
-like a walking catafalque is by no means alone among the horns thus
+like a walking catafalque is by no means [[Alone|alone]] among the horns thus
 fantastically exalted.  There is the peaked hood of the Armenian priest,
-for instance; the stately survival of that strange Monophysite
-heresy which perpetuated itself in pomp and pride mainly through
-the sublime accident of the Crusades.  That black cone also rises
+for instance; the stately [[Survival|survival]] of that strange Monophysite
+heresy which perpetuated itself in pomp and [[Pride|pride]] mainly through
+the [[Sublime|sublime]] accident of the [[Crusades]].  That black cone also rises
 above the crowd with something of the immemorial majesty of a pyramid;
 and rightly so, for it is typical of the prehistoric poetry
-by which these places live that some say it is a surviving memory
+by which these places live that some say it is a surviving [[Memory|memory]]
 of Ararat and the Ark.
 
 Again the high white headgear of the Bethlehem women,
 or to speak more strictly of the Bethlehem wives, has already
-been noted in another connection; but it is well to remark it
+been noted in another connection; but it is [[Well|well]] to remark it
 again among the colours of the crowd, because this at least has
 a significance essential to all criticism of such a crowd.
-Most travellers from the West regard such an Eastern city far too
-much as a Moslem city, like the lady whom Mr. Maurice Baring met who
-travelled all over Russia, and thought all the churches were mosques.
-But in truth it is very hard to generalise about Jerusalem, precisely
+Most travellers from the West regard such an Eastern [[City|city]] far too
+much as a Moslem [[City|city]], like the lady whom Mr. Maurice Baring met who
+travelled all over [[Russia]], and thought all the churches were mosques.
+But in [[Truth|truth]] it is very hard to generalise about Jerusalem, precisely
 because it contains everything, and its contrasts are real contrasts.
-And anybody who doubts that its Christianity is Christian, a thing
+And anybody who doubts that its [[Christianity]] is Christian, a thing
 fighting for our own culture and morals on the borders of Asia,
 need only consider the concrete fact of these women of Bethlehem
 and their costume.  There is no need to sneer in any unsympathetic
-fashion at all the domestic institutions of Islam; the sexes are
+fashion at all the domestic institutions of [[Islam]]; the sexes are
 never quite so stupid as some feminists represent; and I dare say
-a woman often has her own way in a harem as well as in a household.
+a woman often has her own way in a harem as [[Well|well]] as in a household.
 But the broad difference does remain.  And if there be one thing,
 I think, that can safely be said about all Asia and all oriental tribes,
 it is this; that if a married woman wears any distinctive mark,
@@ -2773,14 +2773,14 @@ as among the Jews; it may, I believe, be the blackening of the teeth
 and other queer expedients among the people of the Far East.
 But is never meant to make her look magnificent in public;
 and the Bethlehem wife is made to look magnificent in public.  She not
-only shows all the beauty of her face; and she is often very beautiful.
+only shows all the [[Beauty|beauty]] of her face; and she is often very beautiful.
 She also wears a towering erection which is as unmistakably
 meant to give her consequence as the triple tiara of the Pope.
-A woman wearing such a crown, and wearing it without a veil, does stand,
+A woman wearing such a [[Crown|crown]], and wearing it without a veil, does stand,
 and can only conceivably stand, for what we call the Western view
 of women, but should rather call the Christian view of women.
 This is the sort of dignity which must of necessity come from
-some vague memory of chivalry.  The woman may or may not be,
+some vague [[Memory|memory]] of chivalry.  The woman may or may not be,
 as the legend says, a lineal descendant of a Crusader.
 But whether or no she is his daughter, she is certainly his heiress.
 
@@ -2790,7 +2790,7 @@ For it is not possible to remain content with the fact that the crowd
 offers such varied shapes and colours to the eye, when it also offers
 much deeper divisions and even dilemmas to the intelligence.
 The black dress of the Moslem woman and the white dress of the
-Christian woman are in sober truth as different as black and white.
+Christian woman are in sober [[Truth|truth]] as different as black and white.
 They stand for real principles in a real opposition; and the black and
 white will not easily disappear in the dull grey of our own compromises.
 The one tradition will defend what it regards as modesty, and the other
@@ -2803,7 +2803,7 @@ themselves the protectors of native races and aboriginal rights.
 Whatever view we take of the Moslem Arab, we must at least admit
 that the greater includes the less.  It is manifestly absurd to say
 we have no right to interfere in his country, but have a right
-to interfere in his home.
+to interfere in his [[Home|home]].
 
 It is the intense interest of Jerusalem that there can thus be
 two universes in the same street.  Indeed there are ten rather
@@ -2816,21 +2816,21 @@ of the streets are a true symbol of the varied colours of the souls.
 It is perhaps the only modern place where the war waged between ideas
 has such a visible and vivid heraldry.
 
-And that fact alone may well leave the spectator with one
+And that fact [[Alone|alone]] may [[Well|well]] leave the spectator with one
 final reflection; for it is a matter in which the modern world
-may well have to learn something from the motley rabble of this
+may [[Well|well]] have to learn something from the motley rabble of this
 remote Eastern town.
 
 It may be an odd thing to suggest that a crowd in Bond Street
 or Piccadilly should model itself on this masquerade of religions.
-It would be facile and fascinating to turn it into a satire or
-an extravaganza.  Every good and innocent mind would be gratified
+It would be facile and fascinating to turn it into a [[Satire|satire]] or
+an extravaganza.  Every good and [[Innocent|innocent]] mind would be gratified
 with the image of a bowler hat in the precise proportions of the Dome
-of St. Paul's, and surmounted with a little ball and cross,
+of St. Paul's, and surmounted with a little ball and [[Cross|cross]],
 symbolising the loyalty of some Anglican to his mother church.
 It might even be pleasing to see the street dominated
 with a more graceful top-hat modelled on the Eiffel Tower,
-and signifying the wearer's faith in scientific enterprise,
+and signifying the wearer's [[Faith|faith]] in scientific enterprise,
 or perhaps in its frequent concomitant of political corruption.
 These would be fair Western parallels to the head-dresses of Jerusalem;
 modelled on Mount Ararat or Solomon's Temple, and some may insinuate
@@ -2840,27 +2840,27 @@ of excuse or authority for wearing whiskers, as the Jew can
 for wearing ringlets; and though the Anglican clergyman may indeed
 be very loyal to his mother church, there might be considerable
 hesitation if his mother bade him bind his hair.  Nevertheless a more
-historical view of the London and Jerusalem crowds will show as far
+historical view of the [[London]] and Jerusalem crowds will show as far
 from impossible to domesticate such symbols; that some day a lady's
 jewels might mean something like the sacred jewels of the Patriarch,
 or a lady's furs mean something like the furred turban of the Rabbi.
-History indeed will show us that we are not so much superior to them
+[[history|History]] indeed will show us that we are not so much superior to them
 as inferior to ourselves.
 
-When the Crusaders came to Palestine, and came riding up that road
+When the Crusaders came to Palestine, and came riding up that [[Road|road]]
 from Jaffa where the orange plantations glow on either side, they came
 with motives which may have been mixed and are certainly disputed.
 There may have been different theories among the Crusaders; there are
 certainly different theories among the critics of the Crusaders.
-Many sought God, some gold, some perhaps black magic.  But whatever else
+Many sought God, some gold, some perhaps black [[Magic|magic]].  But whatever else
 they were in search of, they were not in search of the picturesque.
 They were not drawn from a drab civilisation by that mere thirst for
 colour that draws so many modern artists to the bazaars of the East.
-In those days there were colours in the West as well as in the East;
-and a glow in the sunset as well as in the sunrise.  Many of the men
-who rode up that road were dressed to match the most glorious
-orange garden and to rival the most magnificent oriental king.
-King Richard cannot have been considered dowdy, even by comparison,
+In those days there were colours in the West as [[Well|well]] as in the East;
+and a glow in the sunset as [[Well|well]] as in the sunrise.  Many of the men
+who rode up that [[Road|road]] were dressed to match the most glorious
+orange [[Garden|garden]] and to rival the most magnificent oriental [[King|king]].
+[[King]] [[Richard]] cannot have been considered dowdy, even by comparison,
 when he rode on that high red saddle graven with golden lions,
 with his great scarlet hat and his vest of silver crescents.
 That squire of the comparatively unobtrusive household
@@ -2878,14 +2878,14 @@ and I have remarked elsewhere on the highly heraldic lions
 which even the Saracens carved over the gate of St. Stephen.
 But it is the extraordinary and even exasperating fact that it was not
 imitated as the most meaningless sort of modern vulgarity is imitated.
-King Richard's great red hat embroidered with beasts and birds has not
+[[King]] [[Richard]]'s great red hat embroidered with beasts and [[Birds|birds]] has not
 overshadowed the earth so much as the billycock, which no one has yet
 thought of embroidering with any such natural and universal imagery.
 The cockney tourist is not only more likely to set out with
 the intention of knocking them, but he has actually knocked them;
 and Orientals are imitating the tweeds of the tourist more than they
 imitated the stripes of the squire.  It is a curious and perhaps
-melancholy truth that the world is imitating our worst, our weariness
+[[Melancholy|melancholy]] [[Truth|truth]] that the world is imitating our worst, our weariness
 and our dingy decline, when it did not imitate our best and the high
 moment of our morning.
 
@@ -2894,13 +2894,13 @@ becomes an infection.  Possibly it is only when it becomes a very
 virulent disease that it becomes an epidemic.  Possibly again
 that is the meaning both of cosmopolitanism and imperialism.
 Anyhow the tribes sitting by Afric's sunny fountains did
-not take up the song when Francis of Assisi stood on the very
+not take up the [[Song|song]] when Francis of Assisi stood on the very
 mountain of the Middle Ages, singing the Canticle of the Sun.
-When Michael Angelo carved a statue in snow, Eskimos did not
+When [[Michael]] [[Angelo]] carved a statue in [[Snow|snow]], Eskimos did not
 copy him, despite their large natural quarries or resources.
 Laplanders never made a model of the Elgin Marbles, with a frieze
 of reindeers instead of horses; nor did Hottentots try to paint
-Mumbo Jumbo as Raphael had painted Madonnas.  But many a savage king
+Mumbo Jumbo as Raphael had painted Madonnas.  But many a savage [[King|king]]
 has worn a top-hat, and the barbarian has sometimes been so debased
 as to add to it a pair of trousers.  Explosive bullets and the brutal
 factory system numbers of advanced natives are anxious to possess.
@@ -2909,13 +2909,13 @@ of the eye in the parti-coloured crowd before me, that brought back
 my mind to the chief problem and peril of our position in Palestine,
 on which I touched earlier in this chapter; the peril which is largely
 at the back both of the just and of the unjust objections to Zionism.
-It is the fear that the West, in its modern mercantile mood,
+It is the [[Fear|fear]] that the West, in its modern mercantile mood,
 will send not its best but its worst.  The artisan way of putting it,
 from the point of view of the Arab, is that it will mean not
 so much the English merchant as the Jewish money-lender. I shall
 write elsewhere of better types of Jew and the truths they
 really represent; but the Jewish money-lender is in a curious
-and complex sense the representative of this unfortunate paradox.
+and complex sense the representative of this unfortunate [[Paradox|paradox]].
 He is not only unpopular both in the East and West, but he is unpopular
 in the West for being Eastern and in the East for being Western.
 He is accused in Europe of Asiatic crookedness and secrecy,
@@ -2925,30 +2925,30 @@ the merely mercantile Jew is the oriental who has lost his long robe,
 which leads to a dangerous liveliness in the legs.  He bustles
 and hustles too much; and in Palestine some of the unpopularity
 even of the better sort of Jew is simply due to his restlessness.
-But there remains a fear that it will not be a question of the
+But there remains a [[Fear|fear]] that it will not be a question of the
 better sort of Jew, or of the better sort of British influence.
 The same ignominious inversion which reproduces everywhere the factory
 chimney without the church tower, which spreads a cockney commerce
 but not a Christian culture, has given many men a vague feeling
 that the influence of modern civilisation will surround these ragged
 but coloured groups with something as dreary and discoloured,
-as unnatural and as desolate as the unfamiliar snow in which they
+as unnatural and as desolate as the unfamiliar [[Snow|snow]] in which they
 were shivering as I watched them.  There seemed a sort of sinister
 omen in this strange visitation that the north had sent them;
-in the fact that when the north wind blew at last, it had only
-scattered on them this silver dust of death.
+in the fact that when the north [[Wind|wind]] blew at last, it had only
+scattered on them this silver [[Dust|dust]] of [[Death|death]].
 
-It may be that this more melancholy mood was intensified by that
-pale landscape and those impassable ways.  I do not dislike snow;
+It may be that this more [[Melancholy|melancholy]] mood was intensified by that
+pale landscape and those impassable ways.  I do not dislike [[Snow|snow]];
 on the contrary I delight in it; and if it had drifted as deep in my
 own country against my own door I should have thought it the triumph
-of Christmas, and a thing as comic as my own dog and donkey.
+of Christmas, and a thing as comic as my own dog and [[donkey]].
 But the people in the coloured rags did dislike it; and the effects of it
 were not comic but tragic.  The news that came in seemed in that little
 lonely town like the news of a great war, or even of a great defeat.
 Men fell to regarding it, as they have fallen too much to regarding
 the war, merely as an unmixed misery, and here the misery was
-really unmixed.  As the snow began to melt corpses were found in it,
+really unmixed.  As the [[Snow|snow]] began to melt corpses were found in it,
 homes were hopelessly buried, and even the gradual clearing of the roads
 only brought him stories of the lonely hamlets lost in the hills.
 It seemed as if a breath of the aimless destruction that wanders
@@ -2957,13 +2957,13 @@ but the weary rebuilding of ruins and the numbering of the dead.
 
 Only as I went out of the Jaffa Gate, a man told me that the tree
 of the hundred deaths, that was the type of the eternal Caliphate
-of the Crescent, was cast down and lying broken in the snow.
+of the Crescent, was cast down and lying broken in the [[Snow|snow]].
 
 = = = = = = = = = = = = = = = =
 
 CHAPTER VI
 
-THE GROUPS OF THE CITY
+THE GROUPS OF THE [[City|CITY]]
 
 Palestine is a striped country; that is the first effect of landscape
 on the eye.  It runs in great parallel lines wavering into vast hills
@@ -2979,10 +2979,10 @@ the hues are not the dreary hues of ruin.  What earth there is is commonly
 a red clay richer than that of Devon; a red clay of which it would
 be easy to believe that the giant limbs of the first man were made.
 What grass there is is not only an enamel of emerald, but is
-literally crowded with those crimson anemones which might well have
+literally crowded with those crimson anemones which might [[Well|well]] have
 called forth the great saying touching Solomon in all his glory.
 And even what rock there is is coloured with a thousand secondary
-and tertiary tints, as are the walls and streets of the Holy City
+and tertiary tints, as are the walls and streets of the Holy [[City]]
 which is built from the quarries of these hills.  For the old
 stones of the old Jerusalem are as precious as the precious stones
 of the New Jerusalem; and at certain moments of morning or of sunset,
@@ -2999,15 +2999,15 @@ were to the primitive poets and sages as visible as they are to us;
 and the strong and simple words in which they describe them
 do not prove that they did not realise them.  When Wordsworth
 speaks of "the clouds that gather round the setting sun,"
-we assume that he has seen every shadow of colour and every
+we assume that he has seen every [[Shadow|shadow]] of colour and every
 curve of form; but when the Hebrew poet says "He hath made
 the clouds his chariot"; we do not always realise that he was
 full of indescribable emotions aroused by indescribable sights.
 We vaguely assume that the very sky was plainer in primitive times.
-We feel as if there had been a fashion in sunsets; or as if dawn
+We feel as if there had been a fashion in sunsets; or as if [[Dawn|dawn]]
 was always grey in the Stone Age or brown in the Bronze Age.
 
-But there is another parable written in those long lines of many-coloured
+But there is another [[Parable|parable]] written in those long lines of many-coloured
 clay and stone.  Palestine is in every sense a stratified country.
 It is not only true in the natural sense, as here where the clay has
 fallen away and left visible the very ribs of the hills.  It is true
@@ -3020,8 +3020,8 @@ does not run between states but between stratified layers.
 The Jew did not appear beside the Canaanite but on top of the Canaanite;
 the Greek not beside the Jew but on top of the Jew; the Moslem not
 beside the Christian but on top of the Christian.  It is not merely
-a house divided against itself, but one divided across itself.
-It is a house in which the first floor is fighting the second floor,
+a [[house]] divided against itself, but one divided across itself.
+It is a [[house]] in which the first floor is fighting the second floor,
 in which the basement is oppressed from above and attics are besieged
 from below.  There is a great deal of gunpowder in the cellars;
 and people are by no means comfortable even on the roof.
@@ -3037,7 +3037,7 @@ still seems fragmentary.
 
 We are always told that the Turk kept the peace between
 the Christian sects.  It would be nearer the nerve of vital
-truth to say that he made the war between the Christian sects.
+[[Truth|truth]] to say that he made the war between the Christian sects.
 But it would be nearer still to say that the war is something
 not made by Turks but made up by infidels.  The tourist visiting
 the churches is often incredulous about the tall tales told about them;
@@ -3047,12 +3047,12 @@ war perpetually waged by Christian against Christian in Jerusalem.
 It freshens the free sense of adventure to wander through those
 crooked and cavernous streets, expecting every minute to see the
 Armenian Patriarch trying to stick a knife into the Greek Patriarch;
-just as it would add to the romance of London to linger about Lambeth
-and Westminster in the hope of seeing the Archbishop of Canterbury locked
+just as it would add to the [[Romance|romance]] of [[London]] to linger about Lambeth
+and Westminster in the [[Hope|hope]] of seeing the Archbishop of Canterbury locked
 in a deadly grapple with the President of the Wesleyan Conference.
 And if we return to our homes at evening without having actually seen
 these things with the eye of flesh, the vision has none the less shone
-on our path, and led us round many corners with alertness and with hope.
+on our path, and led us round many corners with alertness and with [[Hope|hope]].
 But in bald fact religion does not involve perpetual war in the East,
 any more than patriotism involves perpetual war in the West.
 What it does involve in both cases is a defensive attitude;
@@ -3061,37 +3061,37 @@ an armed peace.
 
 I have already explained the sense in which I say that the Moslems
 are unhistoric or even anti-historic. Perhaps it would be near
-the truth to say that they are prehistoric.  They attach themselves
+the [[Truth|truth]] to say that they are prehistoric.  They attach themselves
 to the tremendous truisms which men might have realised before they
 had any political experience at all; which might have been scratched
 with primitive knives of flint upon primitive pots of clay.
 Being simple and sincere, they do not escape the need for legends;
 I might almost say that, being honest, they do not escape the need
 for lies.  But their mood is not historic, they do not wish to grapple
-with the past; they do not love its complexities; nor do they
+with the past; they do not [[Love|love]] its complexities; nor do they
 understand the enthusiasm for its details and even its doubts.
 Now in all this the Moslems of a place like Jerusalem are the very
-opposite of the Christians of Jerusalem.  The Christianity of Jerusalem is
-highly historic, and cannot be understood without historical imagination.
+opposite of the Christians of Jerusalem.  The [[Christianity]] of Jerusalem is
+highly historic, and cannot be understood without historical [[Imagination|imagination]].
 And this is not the strong point perhaps of those among us who generally
 record their impressions of the place.  As the educated Englishman
-does not know the history of England, it would be unreasonable
-to expect him to know the history of Moab or of Mesopotamia.
+does not know the [[history]] of England, it would be unreasonable
+to expect him to know the [[history]] of Moab or of Mesopotamia.
 He receives the impression, in visiting the shrines of Jerusalem,
 of a number of small sects squabbling about small things.
 In short, he has before him a tangle of trivialities, which include
-the Roman Empire in the West and in the East, the Catholic Church
+the Roman Empire in the West and in the East, the [[Catholic Church]]
 in its two great divisions, the Jewish race, the memories of Greece
-and Egypt, and the whole Mahometan world in Asia and Africa.
+and [[Egypt]], and the whole Mahometan world in Asia and Africa.
 It may be that he regards these as small things; but I should be glad
-if he would cast his eye over human history, and tell me what are
-the large things.  The truth is that the things that meet to-day in
+if he would cast his eye over human [[history]], and tell me what are
+the large things.  The [[Truth|truth]] is that the things that meet to-day in
 Jerusalem are by far the greatest things that the world has yet seen.
 If they are not important nothing on this earth is important,
 and certainly not the impressions of those who happen to be bored
 by them.  But to understand them it is necessary to have something
-which is much commoner in Jerusalem than in Oxford or Boston;
-that sort of living history which we call tradition.
+which is much commoner in Jerusalem than in [[Oxford]] or Boston;
+that sort of living [[history]] which we call tradition.
 
 For instance, the critic generally begins by dismissing these conflicts
 with the statement that they are all about small points of theology.
@@ -3104,16 +3104,16 @@ An atheist and a theist only differ by a single letter; yet theologians
 are so subtle as to distinguish definitely between the two.
 But though I do not in any case allow that it is idle to be concerned
 about theology, as a matter of actual fact these quarrels are not
-chiefly concerned about theology.  They are concerned about history.
+chiefly concerned about theology.  They are concerned about [[history]].
 They are concerned with the things about which the only human sort
-of history is concerned; great memories of great men, great battles
-for great ideas, the love of brave people for beautiful places,
-and the faith by which the dead are alive.  It is quite true that with
+of [[history]] is concerned; great memories of great men, great battles
+for great ideas, the [[Love|love]] of brave people for beautiful places,
+and the [[Faith|faith]] by which the dead are alive.  It is quite true that with
 this historic sense men inherit heavy responsibilities and revenges,
 fury and sorrow and shame.  It is also true that without it men die,
 and nobody even digs their graves.
 
-The truth is that these quarrels are rather about patriotism than
+The [[Truth|truth]] is that these quarrels are rather about patriotism than
 about religion, in the sense of theology.  That is, they are just such
 heroic passions about the past as we call in the West by the name
 of nationalism; but they are conditioned by the extraordinarily
@@ -3130,57 +3130,57 @@ And we must imagine through all this the thin but tough threads
 of tradition everywhere tangled and yet everywhere unbroken.
 We must picture a new map made out of the broken fragments of the old map;
 and yet with every one remembering the old map and ignoring the new.
-In short we must try to imagine, or rather we must try to hope,
+In short we must try to imagine, or rather we must try to [[Hope|hope]],
 that our own memories would be as long and our own loyalties
 as steady as the memories and loyalties of the little crowd
-in Jerusalem; and hope, or pray, that we could only be as rigid,
+in Jerusalem; and [[Hope|hope]], or pray, that we could only be as rigid,
 as rabid and as bigoted as are these benighted people.
-Then perhaps we might preserve all our distinctions of truth
-and falsehood in a chaos of time and space.
+Then perhaps we might preserve all our distinctions of [[Truth|truth]]
+and falsehood in a chaos of [[Time|time]] and space.
 
 We have to conceive that the Tomb of Napoleon is in the middle
 of Stratford-on-Avon, and that the Nelson Column is erected
 on the field of Bannockburn; that Westminster Abbey has taken
 wings and flown away to the most romantic situation on the Rhine,
 and that the wooden "Victory" is stranded, like the Ark on Ararat,
-on the top of the Hill of Tara; that the pilgrims to the shrine
+on the top of the [[Hill]] of Tara; that the pilgrims to the shrine
 of Lourdes have to look for it in the Island of Runnymede,
 and that the only existing German statue of Bismarck is to be found
-in the Pantheon at Paris.  This intolerable topsy-turvydom is no
+in the Pantheon at [[Paris]].  This intolerable topsy-turvydom is no
 exaggeration of the way in which stories cut across each other and sites
-are imposed on each other in the historic chaos of the Holy City.
+are imposed on each other in the historic chaos of the Holy [[City]].
 Now we in the West are very lucky in having our nations normally
 distributed into their native lands; so that good patriots can talk
 about themselves without perpetually annoying their neighbours.
 Some of the pacifists tell us that national frontiers and divisions
 are evil because they exasperate us to war.  It would be far truer
 to say that national frontiers and divisions keep us at peace.
-It would be far truer to say that we can always love each
+It would be far truer to say that we can always [[Love|love]] each
 other so long as we do not see each other.  But the people
 of Jerusalem are doomed to have difference without division.
 They are driven to set pillar against pillar in the same temple,
-while we can set city against city across the plains of the world.
+while we can set [[City|city]] against [[City|city]] across the plains of the world.
 While for us a church rises from its foundations as naturally
 as a flower springs from a flower-bed, they have to bless the soil
-and curse the stones that stand on it.  While the land we love
+and curse the stones that stand on it.  While the land we [[Love|love]]
 is solid under our feet to the earth's centre, they have to see
-all they love and hate lying in strata like alternate night and day,
+all they [[Love|love]] and hate lying in strata like alternate [[Night|night]] and day,
 as incompatible and as inseparable.  Their entanglements are tragic,
 but they are not trumpery or accidental.  Everything has a meaning;
 they are loyal to great names as men are loyal to great nations;
-they have differences about which they feel bound to dispute to the death;
-but in their death they are not divided.
+they have differences about which they feel bound to dispute to the [[Death|death]];
+but in their [[Death|death]] they are not divided.
 
 Jerusalem is a small town of big things; and the average modern
-city is a big town full of small things.  All the most important
-and interesting powers in history are here gathered within the area
+[[City|city]] is a big town full of small things.  All the most important
+and interesting powers in [[history]] are here gathered within the area
 of a quiet village; and if they are not always friends, at least they
 are necessarily neighbours.  This is a point of intellectual interest,
 and even intensity, that is far too little realised.  It is a matter
 of modern complaint that in a place like Jerusalem the Christian
 groups do not always regard each other with Christian feelings.
 It is said that they fight each other; but at least they meet each other.
-In a great industrial city like London or Liverpool, how often do they
+In a great [[Industrial City|industrial city]] like [[London]] or Liverpool, how often do they
 even meet each other?  In a large town men live in small cliques,
 which are much narrower than classes; but in this small town they
 live at least by large contacts, even if they are conflicts.
@@ -3191,7 +3191,7 @@ and asking the advice of a Franciscan friar who was standing smiling
 in the same shop.  I have met the same representative of the Church
 of England, at a luncheon party with the wildest Zionist Jews,
 and with the Grand Mufti, the head of the Moslem religion.
-Suppose the same Englishman had been, as he might well have been,
+Suppose the same Englishman had been, as he might [[Well|well]] have been,
 an eloquent and popular vicar in Chelsea or Hampstead.  How often
 would he have met a Franciscan or a Zionist?  Not once in a year.
 How often would he have met a Moslem or a Greek Syrian?  Not once
@@ -3214,21 +3214,21 @@ there is intensely exciting, not because the factions fight,
 but rather because they do not fight.  Of the abnormal crisis
 when they did fight, and the abnormal motives that made them fight,
 I shall have something to say later on.  But it was true for a great
-part of the time that what was picturesque and thrilling was not
+part of the [[Time|time]] that what was picturesque and thrilling was not
 the war but the peace.  The sensation of being in this little town
 is rather like that of being at a great international congress.
-It is like that moving and glittering social satire, in which
+It is like that moving and glittering social [[Satire|satire]], in which
 diplomatists can join in a waltz who may soon be joining in a war.
 For the religious and political parties have yet another point
 in common with separate nations; that even within this narrow
 space the complicated curve of their frontiers is really more
 or less fixed, and certainly not particularly fluctuating.
-Persecution is impossible and conversion is not at all common.
+Persecution is impossible and [[Conversion|conversion]] is not at all common.
 The very able Anglo-Catholic leader, to whom I have already referred,
-uttered to me a paradox that was a very practical truth.
+uttered to me a [[Paradox|paradox]] that was a very practical [[Truth|truth]].
 He said he felt exasperated with the Christian sects,
-not for their fanaticism but for their lack of fanaticism.
-He meant their lack of any fervour and even of any hope,
+not for their [[Fanaticism|fanaticism]] but for their lack of [[Fanaticism|fanaticism]].
+He meant their lack of any fervour and even of any [[Hope|hope]],
 of converting each other to their respective religions.
 An Armenian may be quite as proud of the Armenian Church as a Frenchman
 of the French nation, yet he may no more expect to make a Moslem an
@@ -3244,7 +3244,7 @@ between the rival leaders, there is a natural tendency to that sort
 of wit which consists in veiled allusion to a very open secret.
 Each mail feels that there are heavy forces behind a small point,
 as the weight of the fencer is behind the point of the rapier.
-And the point can be yet more pointed because the politics of the city,
+And the point can be yet more pointed because the politics of the [[City|city]],
 when I was there, included several men with a taste and talent for such
 polished intercourse; including especially two men whose experience
 and culture would have been remarkable in any community in the world;
@@ -3255,17 +3255,17 @@ layer of Western officialism, we might indeed find it not inconvenient
 to take these two men as representing the chief realities about it.
 Dr. Glazebrook, the representative of the United States,
 has the less to do with the internal issues of the country; but his
-mere presence and history is so strangely picturesque that he might
-be put among the first reasons for finding the city interesting.
+mere presence and [[history]] is so strangely picturesque that he might
+be put among the first reasons for finding the [[City|city]] interesting.
 He is an old man now, for he actually began life as a soldier in the
 Southern and Secessionist army, and still keeps alive in every detail,
 not merely the virtues but the very gestures of the old Southern
-and Secessionist aristocrat.
+and Secessionist [[aristocrat]].
 
 He afterward became a clergyman of the Episcopalian Church, and served
 as a chaplain in the Spanish-American war, then, at an age when most
 men have long retired from the most peaceful occupations, he was sent
-out by President Wilson to the permanent battlefield of Palestine.
+out by President Wilson to the permanent [[Battlefield|battlefield]] of Palestine.
 The brilliant services he performed there, in the protection of British
 and American subjects, are here chiefly interesting as throwing
 a backward light on the unearthly topsy-turvydom of Turkish rule.
@@ -3279,40 +3279,40 @@ whether the Sultan is good or bad, and he gives the same Vizier
 a thousand pounds or a thousand lashes.  I have heard Dr. Glazebrook
 describe a whole day of hideous hesitation, in which fugitives
 for whom he pleaded were allowed four times to embark and four
-times were brought back again to their prison.  There is something
-there dizzy as well as dark, a whirlpool in the very heart of Asia;
+times were brought back again to their [[Prison|prison]].  There is something
+there dizzy as [[Well|well]] as dark, a whirlpool in the very heart of Asia;
 and something wilder than our own worst oppressions in the peril
 of those men who looked up and saw above all the power of Asiatic arms,
 their hopes hanging on a rocking mind like that of a maniac.
-The tyrant let them go at last, avowedly out of a simple sentiment
+The [[Tyrant|tyrant]] let them go at last, avowedly out of a simple sentiment
 for the white hair of the consul, and the strange respect that many
 Moslems feel for the minister of any religion.  Once at least
 the trembling rock of barbaric rule nearly fell on him and killed him.
 By a sudden movement of lawlessness the Turkish military authorities
 sent to him, demanding the English documents left in his custody.
 He refused to give them up; and he knew what he was doing.
-In standing firm he was not even standing like Nurse Cavell against
+In standing firm he was not even standing like [[Nurse]] Cavell against
 organised Prussia under the full criticism of organised Europe.
 He was rather standing in a den of brigands, most of whom
 had never heard of the international rules they violated.
 Finally by another freak of friendliness they left him and his
-papers alone; but the old man had to wait many days in doubt,
+papers [[Alone|alone]]; but the old man had to wait many days in [[Doubt|doubt]],
 not knowing what they would do, since they did not know themselves.
 I do not know what were his thoughts, or whether they were far from
 Palestine and all possibilities that tyranny might return and reign
-for ever.  But I have sometimes fancied that, in that ghastly silence,
+for ever.  But I have sometimes fancied that, in that ghastly [[Silence|silence]],
 he may have heard again only the guns of Lee and the last battle
 in the Wilderness.
 
 If the mention of the American Consul refers back to the oppression
 of the past, the mention of the Military Governor brings back
-all the problems of the present.  Here I only sketch these groups
+all the problems of the present.  Here I only [[Sketch|sketch]] these groups
 as I first found them in the present; and it must be remembered
 that my present is already past.  All this was before the latest
-change from military to civil government, but the mere name
+change from military to civil [[government]], but the mere name
 of Colonel Storrs raises a question which is rather misunderstood
 in relation to that change itself.  Many of our journalists,
-especially at the time of the last and worst of the riots,
+especially at the [[Time|time]] of the last and worst of the riots,
 wrote as if it would be a change from some sort of stiff militarism
 to a liberal policy akin to parliamentarism.  I think this a fallacy,
 and a fallacy not uncommon in journalism, which is professedly
@@ -3332,14 +3332,14 @@ now still more strange to forget that most men are soldiers.  I fancy
 there are now few things more representative than the British Army;
 certainly it is much more representative than the British Parliament.
 The men I knew, and whom I remember with so much gratitude, working under
-General Bols at the seat of government on the Mount of Olives,
+General Bols at the seat of [[government]] on the Mount of Olives,
 were certainly not narrowed by any military professionalism, and had if
 anything the mark of quite different professions.  One was a very shrewd
 and humorous lawyer employed on legal problems about enemy property,
 another was a young schoolmaster, with keen and clear ideas,
-or rather ideals, about education for all the races in Palestine.
+or rather ideals, about [[Education|education]] for all the races in Palestine.
 These men did not cease to be themselves because they were all
-dressed in khaki; and if Colonel Storrs recurs first to the memory,
+dressed in khaki; and if Colonel Storrs recurs first to the [[Memory|memory]],
 it is not because he had become a colonel in the trade of soldiering,
 but because he is the sort of man who could talk equally about
 all these other trades and twenty more.  Incidentally, and by way
@@ -3350,12 +3350,12 @@ and broke off short in his recollection of this partially revived
 national tongue; whereupon the Governor of Jerusalem finished
 his Hebrew speech for him--whether to exactly the same effect
 or not it would be impertinent to inquire.  He is a man rather
-recalling the eighteenth century aristocrat, with his love of wit
+recalling the eighteenth century [[aristocrat]], with his [[Love|love]] of wit
 and classical learning; one of that small group of the governing
 class that contains his uncle, Harry Cust, and was warmed with
 the generous culture of George Wyndham.  It was a purely mechanical
-distinction between the military and civil government that would
-lend to such figures the stiffness of a drumhead court martial.
+distinction between the military and civil [[government]] that would
+lend to such figures the stiffness of a drumhead [[Court|court]] martial.
 And even those who differed with him accused him in practice,
 not of militarist lack of sympathy with any of those he ruled,
 but rather with too imaginative a sympathy with some of them.
@@ -3364,8 +3364,8 @@ newspapers afterwards is often amusing enough; but I have only mentioned
 the matter because there is a real danger in so crude a differentiation.
 It would be a bad thing if a system military in form but representative
 in fact gave place to a system representative in form but financial
-in fact.  That is what the Arabs and many of the English fear;
-and with the mention of that fear we come to the next stratum
+in fact.  That is what the Arabs and many of the English [[Fear|fear]];
+and with the mention of that [[Fear|fear]] we come to the next stratum
 after the official.  It must be remembered that I am not at this
 stage judging these groups, but merely very rapidly sketching them,
 like figures and costumes in the street.
@@ -3379,7 +3379,7 @@ is a man for whom I conceived a respect long ago when he protested,
 as a professional physician, against the subjection of the poor
 to medical interference to the destruction of all moral independence.
 He criticised with great effect the proposal of legislators to kidnap
-anybody else's child whom they chose to suspect of a feeblemindedness
+anybody else's [[Child|child]] whom they chose to suspect of a feeblemindedness
 they were themselves too feeble-minded to define.  It was defended,
 very characteristically, by a combination of precedent and progress;
 and we were told that it only extended the principle of the lunacy laws.
@@ -3387,7 +3387,7 @@ That is to say, it only extended the principle of the lunacy laws
 to people whom no sane man would call lunatics.  It is as if they
 were to alter the terms of a quarantine law from "lepers"
 to "light-haired persons"; and then say blandly that the principle
-was the same.  The humour and human sympathy of a Jewish doctor was
+was the same.  The [[Humour|humour]] and human sympathy of a Jewish doctor was
 very welcome to us when we were accused of being Anti-Semites, and we
 afterwards asked Dr. Eder for his own views on the Jewish problem.
 We found he was then a very strong Zionist; and this was long before
@@ -3399,7 +3399,7 @@ To my mind the most serious point now against it is that the millionaires
 are for it.  But it is enough to note here the reality of the ideal
 in men like Dr. Eder and Dr. Weizmann, and doubtless many others.
 The only defect that need be noted, as a mere detail of portraiture,
-is a certain excessive vigilance and jealousy and pertinacity in
+is a certain excessive vigilance and [[Jealousy|jealousy]] and pertinacity in
 the wrong place, which sometimes makes the genuine Zionists unpopular
 with the English, who themselves suffer unpopularity for supporting them.
 For though I am called an Anti-Semite, there were really periods of
@@ -3415,14 +3415,14 @@ I never expected it, and even now I do not fully understand it.
 But it is the fact that the native Moslems are more Anti-Semitic
 than the native Christians.  Both are more or less so; and have formed
 a sort of alliance out of the fact.  The banner carried by the mob
-bore the Arabic inscription "Moslems and Christians are brothers."
+bore the Arabic [[Inscription|inscription]] "Moslems and Christians are brothers."
 It is as if the little wedge of Zionism had closed up the cracks
-of the Crusades.
+of the [[Crusades]].
 
 Of the Christian crowds in that partnership, and the Christian creeds
 they are proud to inherit, I have already suggested something;
-it is only as well to note that I have put them out of their strict order
-in the stratification of history.  It is too often forgotten that in
+it is only as [[Well|well]] to note that I have put them out of their strict order
+in the stratification of [[history]].  It is too often forgotten that in
 these countries the Christian culture is older than the Moslem culture.
 I for one regret that the old Pax Romana was broken up by the Arabs;
 and hold that in the long run there was more life in that Byzantine
@@ -3430,16 +3430,16 @@ decline than in that Semitic revival.  And I will add what I cannot
 here develop or defend; that in the long run it is best that the
 Pax Romana should return; and that the suzerainty of those lands
 at least will have to be Christian, and neither Moslem nor Jewish.
-To defend it is to defend a philosophy; but I do hold that there is
-in that philosophy, for all the talk of its persecutions in the past,
+To defend it is to defend a [[philosophy]]; but I do hold that there is
+in that [[philosophy]], for all the talk of its persecutions in the past,
 a possibility of comprehension and many-sided sympathy which is
 not in the narrow intensity either of the Moslem or the Jew.
-Christianity is really the right angle of that triangle,
+[[Christianity]] is really the right angle of that triangle,
 and the other two are very acute angles.
 
 But in the meetings that led up to the riots it is the more Moslem
 part of the mixed crowds that I chiefly remember; which touches
-the same truth that the Christians are the more potentially tolerant.
+the same [[Truth|truth]] that the Christians are the more potentially tolerant.
 But many of the Moslem leaders are as dignified and human as many
 of the Zionist leaders; the Grand Mufti is a man I cannot imagine
 as either insulting anybody, or being conceivably the object of insult.
@@ -3448,16 +3448,16 @@ believe to one of the Arab aristocratic houses (the Grand Mufti is
 a descendant of Mahomet) and I shall not forget his first appearance
 at the first of the riotous meetings in which I found myself.
 I will give it as the first of two final impressions with which I
-will end this chapter, I fear on a note of almost anarchic noise,
+will end this chapter, I [[Fear|fear]] on a note of almost anarchic noise,
 the unearthly beating and braying of the Eastern gongs and horns
-of two fierce desert faiths against each other.
+of two fierce [[Desert|desert]] faiths against each other.
 
 I first saw from the balcony of the hotel the crowd of riotors come
-rolling up the street.  In front of them went two fantastic figures
-turning like teetotums in an endless dance and twirling two crooked
+[[rolling]] up the street.  In front of them went two fantastic figures
+turning like teetotums in an endless [[Dance|dance]] and twirling two crooked
 and naked scimitars, as the Irish were supposed to twirl shillelaghs.
 I thought it a delightful way of opening a political meeting;
-and I wished we could do it at home at the General Election.
+and I wished we could do it at [[Home|home]] at the General Election.
 I wish that instead of the wearisome business of Mr. Bonar Law
 taking the chair, and Mr. Lloyd George addressing the meeting,
 Mr. Law and Mr. Lloyd George would only hop and caper in front of
@@ -3466,21 +3466,21 @@ and crossing a pair of umbrellas in a thousand invisible patterns.
 But this political announcement or advertisement, though more intelligent
 than our own, had, as I could readily believe, another side to it.
 I was told that it was often a prelude to ordinary festivals,
-such as weddings; and no doubt it remains from some ancient ritual dance
+such as weddings; and no [[Doubt|doubt]] it remains from some ancient ritual [[Dance|dance]]
 of a religious character.  But I could imagine that it might sometimes
 seem to a more rational taste to have too religious a character.
 I could imagine that those dancing men might indeed be dancing dervishes,
 with their heads going round in a more irrational sense than
 their bodies.  I could imagine that at some moments it might suck
-the soul into what I have called in metaphor the whirlpool of Asia,
+the [[Soul|soul]] into what I have called in metaphor the whirlpool of Asia,
 or the whirlwind of a world whipped like a top with a raging monotony;
-the cyclone of eternity.  That is not the sort of rhythm nor
-the sort of religion by which I myself should hope to save the soul;
+the cyclone of [[Eternity|eternity]].  That is not the sort of rhythm nor
+the sort of religion by which I myself should [[Hope|hope]] to save the [[Soul|soul]];
 but it is intensely interesting to the mind and even the eye, and I
 went downstairs and wedged myself into the thick and thronging press.
 It surged through the gap by the gate, where men climbed
 lamp-posts and roared out speeches, and more especially recited
-national poems in rich resounding voices; a really moving effect,
+national [[Poems|poems]] in rich resounding voices; a really moving effect,
 at least for one who could not understand a word that was said.
 Feeling had already gone as far as knocking Jews' hats off and other
 popular sports, but not as yet on any universal and systematic scale;
@@ -3499,31 +3499,31 @@ Just as the old agricultural Arabs hate the Zionists as the
 instruments of new Western business grab and sharp practice;
 so the old peddling and pedantic but intensely pious Jews hate
 the Zionists as the instruments of new Western atheism of free thought.
-Only I fear that when the storm breaks, such distinctions
+Only I [[Fear|fear]] that when the [[Storm|storm]] breaks, such distinctions
 are swept away.
 
-The storm was certainly rising.  Outside the Jaffa Gate the road
+The [[Storm|storm]] was certainly rising.  Outside the Jaffa Gate the [[Road|road]]
 runs up steeply and is split in two by the wedge of a high building,
-looking as narrow as a tower and projecting like the prow of a ship.
+looking as narrow as a tower and projecting like the prow of a [[Ship|ship]].
 There is something almost theatrical about its position and stage
-properties, its one high-curtained window and balcony, with a sort
-of pole or flag-staff; for the place is official or rather municipal.
-Round it swelled the crowd, with its songs and poems and
+properties, its one high-curtained [[Window|window]] and balcony, with a sort
+of pole or [[Flag|flag]]-staff; for the place is official or rather municipal.
+Round it swelled the crowd, with its [[songs]] and [[Poems|poems]] and
 passionate rhetoric in a kind of crescendo, and then suddenly
-the curtain of the window rose like the curtain of the theatre,
+the curtain of the [[Window|window]] [[Rose|rose]] like the curtain of the theatre,
 and we saw on that high balcony the red fez and the tall figure
 of the Mahometan Mayor of Jerusalem.
 
 I did not understand his Arabic observations; but I know
 when a man is calming a mob, and the mob did become calmer.
-It was as if a storm swelled in the night and gradually died away
-in a grey morning; but there are perpetual mutterings of that storm.
+It was as if a [[Storm|storm]] swelled in the [[Night|night]] and gradually died away
+in a grey morning; but there are perpetual mutterings of that [[Storm|storm]].
 My point for the moment is that the exasperations come chiefly from
 the two extremes of the two great Semitic traditions of monotheism;
 and certainly not primarily from those poor Eastern Christians
-of whose fanaticism we have been taught to make fun.
-From time to time there are gleams of the extremities of Eastern
-fanaticism which are almost ghastly to Western feeling.
+of whose [[Fanaticism|fanaticism]] we have been taught to make fun.
+From [[Time|time]] to [[Time|time]] there are gleams of the extremities of Eastern
+[[Fanaticism|fanaticism]] which are almost ghastly to Western feeling.
 They seem to crack the polish of the dignified leaders of the Arab
 aristocracy and the Zionist school of culture, and reveal a
 volcanic substance of which only oriental creeds have been made.
@@ -3531,9 +3531,9 @@ One day a wild Jewish proclamation is passed from hand to hand,
 denouncing disloyal Jews who refuse the teaching Hebrew; telling doctors
 to let them die and hospitals to let them rot, ringing with the old
 unmistakable and awful accent that bade men dash their children
-against the stones.  Another day the city would be placarded with
+against the stones.  Another day the [[City|city]] would be placarded with
 posters printed in Damascus, telling the Jews who looked to Palestine
-for a national home that they should find it a national cemetery.
+for a national [[Home|home]] that they should find it a national cemetery.
 And when these cries clash it is like the clash of those two
 crooked Eastern swords, that crossed and recrossed and revolved
 like blazing wheels, in the vanguard of the marching mob.
@@ -3541,12 +3541,12 @@ like blazing wheels, in the vanguard of the marching mob.
 I felt the fullest pressure of the problem when I first walked round
 the whole of the Haram enclosure, the courts of the old Temple,
 where the high muezzin towers now stand at every corner,
-and heard the clear voices of the call to prayer.  The sky was
-laden with a storm that became the snowstorm; and it was the time
+and heard the clear voices of the call to [[Prayer|prayer]].  The sky was
+laden with a [[Storm|storm]] that became the snowstorm; and it was the [[Time|time]]
 at which the old Jews beat their hands and mourn over what are
 believed to be the last stones of the Temple.  There was a movement
 in my own mind that was attuned to these things, and impressed by
-the strait limits and steep sides of that platform of the mountains;
+the strait limits and steep sides of that platform of the [[Mountains|mountains]];
 for the sense of crisis is not only in the intensity of the ideals,
 but in the very conditions of the reality, the reality with which this
 chapter began.  And the burden of it is the burden of Palestine;
@@ -3557,29 +3557,29 @@ There is no place for the Temple of Solomon but on the ruins of
 the Mosque of Omar.  There is no place for the nation of the Jews
 but in the country of the Arabs.  And these whispers came to me
 first not as intellectual conclusions upon the conditions of the case,
-of which I should have much more to say and to hope; but rather
+of which I should have much more to say and to [[Hope|hope]]; but rather
 as hints of something immediate and menacing and yet mysterious.
 I felt almost a momentary impulse to flee from the place, like one
 who has received an omen.  For two voices had met in my ears;
 and within the same narrow space and in the same dark hour,
-electric and yet eclipsed with cloud, I had heard Islam crying
+electric and yet eclipsed with cloud, I had heard [[Islam]] crying
 from the turret and Israel wailing at the wall.
 
 = = = = = = = = = = = = = = = =
 
 CHAPTER VII
 
-THE SHADOW OF THE PROBLEM
+THE [[Shadow|SHADOW]] OF THE PROBLEM
 
 A traveller sees the hundred branches of a tree long before he is
 near enough to see its single and simple root; he generally sees
 the scattered or sprawling suburbs of a town long before he has looked
 upon the temple or the market-place. So far I have given impressions
 of the most motley things merely as they came, in chronological
-and not in logical order; the first flying vision of Islam as a sort
+and not in logical order; the first flying vision of [[Islam]] as a sort
 of sea, with something both of the equality and the emptiness and
 the grandeur of its purple seas of sand; the first sharp silhouette
-of Jerusalem, like Mount St. Michael, lifting above that merely
+of Jerusalem, like Mount St. [[Michael]], lifting above that merely
 Moslem flood a crag still crowned with the towers of the Crusaders;
 the mere kaleidoscope of the streets, with little more than a hint
 of the heraldic meaning of the colours; a merely personal impression
@@ -3601,7 +3601,7 @@ heroes were neglected, and left to the lowest dregs of the rabble;
 since the portraits of Benbow and Nelson, when exhibited to the public,
 were painted on wood by the crudest and most incompetent artists.
 He would not perhaps fully appreciate the fine shade of
-social status and utility implied in a public-house sign.
+social status and utility implied in a public-[[house]] sign.
 He might not realise that the sign of Nelson could be hung on
 high everywhere, because the reputation of Nelson was high everywhere,
 not because it was low anywhere; that his bad portrait was really
@@ -3611,23 +3611,23 @@ pictures of admirals and the wooden pictures of angels.
 Still less will he appreciate the intense spiritual atmosphere,
 that makes the real difference between an ikon and an inn-sign,
 and makes the inns of England, noble and national as they are,
-relatively the homes of Christian charity but hardly a Christian faith.
+relatively the homes of Christian [[Charity|charity]] but hardly a Christian [[Faith|faith]].
 He can hardly bring himself to believe that Syrians can be as fond
 of religion as Englishmen of beer.
 
 Nobody can do justice to these cults who has not some sympathy with
 the power of a mystical idea to transmute the meanest and most trivial
-objects with a kind of magic.  It is easy to talk of superstitiously
+objects with a kind of [[Magic|magic]].  It is easy to talk of superstitiously
 attaching importance to sticks and stones, but the whole poetry
 of life consists of attaching importance to sticks and stones;
 and not only to those tall sticks we call the trees or those large
-stones we call the mountains.  Anything that gives to the sticks of our
+stones we call the [[Mountains|mountains]].  Anything that gives to the sticks of our
 own furniture, or the stones of our own backyard, even a reflected
 or indirect divinity is good for the dignity of life; and this
 is often achieved by the dedication of similar and special things.
-At least we should desire to see the profane things transfigured
+At least we should [[Desire|desire]] to see the profane things transfigured
 by the sacred, rather than the sacred disenchanted by the profane;
-and it was a prophet walking on the walls of this mountain city,
+and it was a [[Prophet|prophet]] walking on the walls of this mountain [[City|city]],
 who said that in his vision all the bowls should be as the bowls
 before the altar, and on every pot in Jerusalem should be written
 Holy unto the Lord.
@@ -3640,7 +3640,7 @@ a string of lamps from a Greek pillar by means of a nail, and their
 subsequent alarm when their nail was washed by the owners of the pillar;
 a sort of symbol that their nail had finally fallen into the hands
 of the enemy.  It strikes us as odd that a nail should be so valuable
-or so vivid to the imagination.  And yet, to men so close to Calvary,
+or so vivid to the [[Imagination|imagination]].  And yet, to men so close to Calvary,
 even nails are not entirely commonplace.
 
 All this, regarding a decent delay and respect for religion or
@@ -3662,7 +3662,7 @@ As they are the only judges of whether their antiquities are
 really authorities, so they are the only judges of whether their
 novelties are really necessities.  As I pointed out more than once
 to many of my friends in Jerusalem, we should be very much annoyed
-if artistic visitors from Asia took similar liberties in London.
+if artistic visitors from Asia took similar liberties in [[London]].
 It would be bad enough if they proposed to conduct excavations
 in Pimlico or Paddington, without much reference to the people
 who lived there; but it would be worse if they began to relieve them
@@ -3674,56 +3674,56 @@ We should be pleased at the African's appreciation of Johnson;
 but our pleasure would not be unmixed.  Suppose when you or I are
 in the act of stepping into a taxi-cab, an excitable Coptic Christian
 were to leap from behind a lamp-post, and implore us to save
-the grand old growler or the cab called the gondola of London.
+the grand old growler or the cab called the gondola of [[London]].
 I admit and enjoy the poetry of the hansom; I admit and enjoy
-the personality of the true cabman of the old four-wheeler, upon whose
+the personality of the true [[cabman]] of the old four-wheeler, upon whose
 massive manhood descended something of the tremendous tradition
-of Tony Weller.  But I am not so certain as I should like to be,
+of [[Tony Weller]].  But I am not so certain as I should like to be,
 that I should at that moment enjoy the personality of the Copt.
 For these reasons it seems really desirable, or at least defensible,
 to defer any premature reconstruction of disputed things,
-and to begin this book as a mere note-book or sketch-book
+and to begin this book as a mere note-book or [[Sketch|sketch]]-book
 of things as they are, or at any rate as they appear.
 It was in this irregular order, and in this illogical disproportion,
-that things did in fact appear to me, and it was some time before I saw
+that things did in fact appear to me, and it was some [[Time|time]] before I saw
 any real generalisation that would reduce my impressions to order.
 I saw that the groups disagreed, and to some extent why they disagreed,
 long before I could seriously consider anything on which they would
 be likely to agree.  I have therefore confined the first section
 of this book to a mere series of such impressions, and left to the last
 section a study of the problem and an attempt at the solution.
-Between these two I have inserted a sort of sketch of what seemed to me
+Between these two I have inserted a sort of [[Sketch|sketch]] of what seemed to me
 the determining historical events that make the problem what it is.
 Of these I will only say for the moment that, whether by a coincidence
 or for some deeper cause, I feel it myself to be a case of first
-thoughts being best; and that some further study of history served
+thoughts being best; and that some further study of [[history]] served
 rather to solidify what had seemed merely a sort of vision.
-I might almost say that I fell in love with Jerusalem at first sight;
+I might almost say that I fell in [[Love|love]] with Jerusalem at first sight;
 and the final impression, right or wrong, served only to fix
-the fugitive fancy which had seen, in the snow on the city,
-the white crown of a woman of Bethlehem.
+the fugitive fancy which had seen, in the [[Snow|snow]] on the [[City|city]],
+the white [[Crown|crown]] of a woman of Bethlehem.
 
 But there is another cause for my being content for the moment,
 with this mere chaos of contrasts.  There is a very real reason
-for emphasising those contrasts, and for shunning the temptation
+for emphasising those contrasts, and for shunning the [[Temptation|temptation]]
 to shut our eyes to them even considered as contrasts.
 It is necessary to insist that the contrasts are not easy to turn
 into combinations; that the red robes of Rome and the green
-scarves of Islam will not very easily fade into a dingy russet;
+scarves of [[Islam]] will not very easily fade into a dingy russet;
 that the gold of Byzantium and the brass of Babylon will require
 a hot furnace to melt them into any kind of amalgam.  The reason
 for this is akin to what has already been said about Jerusalem as a
 knot of realities.  It is especially a knot of popular realities.
 Although it is so small a place, or rather because it is so
 small a place, it is a domain and a dominion for the masses.
-Democracy is never quite democratic except when it is quite direct;
+[[Democracy]] is never quite democratic except when it is quite direct;
 and it is never quite direct except when it is quite small.
 So soon as a mob has grown large enough to have delegates it has
 grown large enough to have despots; indeed the despots are often
 much the more representative of the two.  Now in a place so small
 as Jerusalem, what we call the rank and file really counts.
 And it is generally true, in religions especially, that the real
-enthusiasm or even fanaticism is to be found in the rank and file.
+enthusiasm or even [[Fanaticism|fanaticism]] is to be found in the rank and file.
 In all intense religions it is the poor who are more religious
 and the rich who are more irreligious.  It is certainly so with
 the creeds and causes that come to a collision in Jerusalem.
@@ -3733,7 +3733,7 @@ have shown when the Persian conqueror broke the Babylonian bondage.
 It was rather the plutocratic princes of Jewry who long hung back
 and hesitated about Zionism.  The mass of Mahometans really are
 ready to combine against the Zionists as they might have combined
-against the Crusades.  It is rather the responsible Mahometan
+against the [[Crusades]].  It is rather the responsible Mahometan
 leaders who will naturally be found more moderate and diplomatic.
 This popular spirit may take a good or a bad form; and a mob may cry
 out many things, right and wrong.  But a mob cries out "No Popery";
@@ -3748,15 +3748,15 @@ No rabble could roar at the top of its voice the collectivist
 formula of "The nationalisation of all the means of production,
 distribution, and exchange."  The mob of Jerusalem is no
 exception to the rule, but rather an extreme example of it.
-The mob of Jerusalem has cried some remarkable things in its time;
+The mob of Jerusalem has cried some remarkable things in its [[Time|time]];
 but they were not pedantic and they were not evasive.
 There was a day when it cried a single word; "Crucify." It was
 a thing to darken the sun and rend the veil of the temple;
-but there was no doubt about what it meant.
+but there was no [[Doubt|doubt]] about what it meant.
 
 This is an age of minorities; of minorities powerful and predominant,
 partly through the power of wealth and partly through the idolatry
-of education.  Their powers appeared in every crisis of the Great War,
+of [[Education|education]].  Their powers appeared in every crisis of the Great War,
 when a small group of pacifists and internationalists, a microscopic
 minority in every country, were yet constantly figuring as diplomatists
 and intermediaries and men on whose attitude great issues might depend.
@@ -3764,9 +3764,9 @@ A man like Mr. Macdonald, not a workman nor a formal or real
 representative of workmen, was followed everywhere by the limelight;
 while the millions of workmen who worked and fought were out
 of focus and therefore looked like a fog.  Just as such figures
-give a fictitious impression of unity between the crowds fighting
+give a fictitious impression of [[unity]] between the crowds fighting
 for different flags and frontiers, so there are similar figures
-giving a fictitious unity to the crowds following different creeds.
+giving a fictitious [[unity]] to the crowds following different creeds.
 There are already Moslems who are Modernists; there have always
 been a ruling class of Jews who are Materialists.  Perhaps it
 would be true to say about much of the philosophical controversy
@@ -3794,45 +3794,45 @@ with the impotent and even invisible majority.  And my sympathies,
 when I go beyond the things I myself believe, are with all
 the poor Jews who do believe in Judaism and all the Mahometans
 who do believe in Mahometanism, not to mention so obscure a crowd
-as the Christians who do believe in Christianity.  I feel I have
+as the Christians who do believe in [[Christianity]].  I feel I have
 more morally and even intellectually in common with these people,
 and even the religions of these people, than with the supercilious
 negations that make up the most part of what is called enlightenment.
 It is these masses whom we ought to consider everywhere; but it
 is especially these masses whom we must consider in Jerusalem.
 And the reason is in the reality I have described; that the place
-is like a Greek city or a medieval parish; it is sufficiently
-small and simple to be a democracy.  This is not a university town
+is like a Greek [[City|city]] or a medieval parish; it is sufficiently
+small and simple to be a [[Democracy|democracy]].  This is not a university town
 full of philosophies; it is a Zion of the hundred sieges raging
 with religions; not a place where resolutions can be voted and amended,
 but a place where men can be crowned and crucified.
 
 There is one small thing neglected in all our talk
-about self-determination; and that is determination.
+about [[Self|self]]-determination; and that is determination.
 There is a great deal more difference than there is between most
-motions and amendments between the things for which a democracy
-will vote and the things on which a democracy is determined.
+motions and amendments between the things for which a [[Democracy|democracy]]
+will vote and the things on which a [[Democracy|democracy]] is determined.
 You can take a vote among Jews and Christians and Moslems about whether
 lamp-posts should be painted green or portraits of politicians painted
 at all, and even their solid unanimity may be solid indifference.
-Most of what is called self-determination is like that; but there
-is no self-determination about it.  The people are not determined.
+Most of what is called [[Self|self]]-determination is like that; but there
+is no [[Self|self]]-determination about it.  The people are not determined.
 You cannot take a vote when the people are determined.
 You accept a vote, or something very much more obvious than a vote.
 
 Now it may be that in Jerusalem there is not one people but rather
 three or four; but each is a real people, having its public opinion,
-its public policy, its flag and almost, as I have said, its frontier.
+its public policy, its [[Flag|flag]] and almost, as I have said, its frontier.
 It is not a question of persuading weak and wavering voters, at a vague
 parliamentary election, to vote on the other side for a change, to choose
 afresh between two middle-class gentlemen, who look exactly alike and
 only differ on a question about which nobody knows or cares anything.
 It is a question of contrasts that will almost certainly remain contrasts,
-except under the flood of some spiritual conversion which cannot
+except under the flood of some spiritual [[Conversion|conversion]] which cannot
 be foreseen and certainly cannot be enforced.  We cannot enrol
 these people under our religion, because we have not got one.
-We can enrol them under our government, and if we are obliged to do that,
-the obvious essential is that like Roman rule before Christianity,
+We can enrol them under our [[government]], and if we are obliged to do that,
+the obvious essential is that like Roman rule before [[Christianity]],
 or the English rule in India it should profess to be impartial if only
 by being irreligious.  That is why I willingly set down for the moment
 only the first impressions of a stranger in a strange country.
@@ -3857,7 +3857,7 @@ because an accident had made us insular and even provincial.
 So in India where we have treated the peoples as different from
 ourselves and from each other we have at least partly succeeded.
 So in Ireland, where we have tried to make them agree with us
-and each other, we have made one never-ending nightmare.
+and each other, we have made one never-ending [[nightmare]].
 
 We can no more subject the world to the English compromise than to the
 English climate; and both are things of incalculable cloud and twilight.
@@ -3878,7 +3878,7 @@ You may think what they say fantastic, or what they mean fanatical,
 but they do not say one thing and mean another.  The Greek
 may or may not have a right to say he is Orthodox, but he means
 that he is Orthodox; in a very different sense from that in which
-a man supporting a new Home Rule Bill means that he is Unionist.
+a man supporting a new [[Home]] Rule Bill means that he is Unionist.
 A Moslem would stop the sale of strong drink because he is a Moslem.
 But he is not quite so muddleheaded as to profess to stop it because
 he is a Liberal, and a particular supporter of the party of liberty.
@@ -3889,15 +3889,15 @@ a more logical notion of what he means when he calls himself
 an Anglo-Catholic than when he calls himself an Anglo-Saxon. But
 the old Jew with the drooping ringlets, shuffling in and out
 of the little black booths of Jerusalem, would not condescend
-to say he is a child of anything like the Anglo-Saxon race.
-He does not say he is a child of the Aramaico-Semitic race.
-He says he is a child of the Chosen Race, brought with thunder
-and with miracles and with mighty battles out of the land of Egypt
-and out of the house of bondage.  In other words, he says something
+to say he is a [[Child|child]] of anything like the Anglo-Saxon race.
+He does not say he is a [[Child|child]] of the Aramaico-Semitic race.
+He says he is a [[Child|child]] of the Chosen Race, brought with thunder
+and with miracles and with mighty battles out of the land of [[Egypt]]
+and out of the [[house]] of bondage.  In other words, he says something
 that means something, and something that he really means.
 One of the white Dominicans or brown Franciscans, from the great
-monasteries of the Holy City, may or may not be right in maintaining
-that a Papacy is necessary to the unity of Christendom.
+monasteries of the Holy [[City]], may or may not be right in maintaining
+that a Papacy is necessary to the [[unity]] of Christendom.
 But he does not pass his life in proving that the Papacy
 is not a Papacy, as many of our liberal constitutionalists
 pass it in proving that the Monarchy is not a Monarchy.
@@ -3905,19 +3905,19 @@ The Greek priests spend an hour on what seems to the sceptic
 mere meaningless formalities of the preparation of the Mass.
 But they would not spend a minute if they were themselves sceptics
 and thought them meaningless formalities, as most modern people do
-think of the formalities about Black Rod or the Bar of the House.
+think of the formalities about Black Rod or the Bar of the [[house|House]].
 They would be far less ritualistic than we are, if they cared
 as little for the Mass as we do for the Mace.  Hence it is
 necessary for us to realise that these rude and simple worshippers,
 of all the different forms of worship, really would be bewildered
 by the ritual dances and elaborate ceremonial antics of John Bull,
-as by the superstitious forms and almost supernatural incantations
+as by the superstitious forms and almost [[Supernatural|supernatural]] incantations
 of most of what we call plain English.
 
 Now I take it we retain enough realism and common sense not to
 wish to transfer these complicated conventions and compromises
-to a land of such ruthless logic and such rending divisions.
-We may hope to reproduce our laws, we do not want to reproduce our
+to a land of such ruthless [[logic]] and such rending divisions.
+We may [[Hope|hope]] to reproduce our laws, we do not want to reproduce our
 legal fictions.  We do not want to insist on everybody referring
 to Mr. Peter or Mr. Paul, as the honourable member for Waddy Walleh;
 because a retiring Parliamentarian has to become Steward
@@ -3935,12 +3935,12 @@ that we shall too easily deny the problem rather than that we shall
 too severely criticise the solution.  But I would conclude this chapter
 with one practical criticism which seems to me to follow directly
 from all that is said here of our legal fictions and local anomalies.
-One thing at least has been done by our own Government, which is entirely
+One thing at least has been done by our own [[government|Government]], which is entirely
 according to the ritual or routine of our own Parliament.  It is a
 parliament of Pooh Bah, where anybody may be Lord High Everything Else.
 It is a parliament of Alice in Wonderland, where the name of a thing is
 different from what it is called, and even from what its name is called.
-It is death and destruction to send out these fictions into a
+It is [[Death|death]] and destruction to send out these fictions into a
 foreign daylight, where they will be seen as things and not theories.
 And knowing all this, I cannot conceive the reason, or even
 the meaning, of sending out Sir Herbert Samuel as the British
@@ -3954,11 +3954,11 @@ as I have always defended it, consists in maintaining that it
 would be better for all parties if Israel had the dignity
 and distinctive responsibility of a separate nation; and that
 this should be effected, if possible, or so far as possible,
-by giving the Jews a national home, preferably in Palestine.
-But where is Sir Herbert Samuel's national home?  If it is in
+by giving the Jews a national [[Home|home]], preferably in Palestine.
+But where is Sir Herbert Samuel's national [[Home|home]]?  If it is in
 Palestine he cannot go there as a representative of England.
 If it is in England, he is so far a living proof that a Jew does
-not need a national home in Palestine.  If there is any point
+not need a national [[Home|home]] in Palestine.  If there is any point
 in the Zionist argument at all, you have chosen precisely the wrong
 man and sent him to precisely the wrong country.  You have asserted
 not the independence but the dependence of Israel, and yet you have
@@ -3973,13 +3973,13 @@ You make a Jew admit he is not a Jew but an Englishman; even while you
 allow all his enemies to revile him because he is not an Englishman
 but a Jew.
 
-Now this sort of confusion or compromise is as local as a London fog.
-A London fog is tolerable in London, indeed I think it is very
-enjoyable in London.  There is a beauty in that brown twilight
-as well as in the clear skies of the Orient and the South.
+Now this sort of confusion or compromise is as local as a [[London]] fog.
+A [[London]] fog is tolerable in [[London]], indeed I think it is very
+enjoyable in [[London]].  There is a [[Beauty|beauty]] in that brown twilight
+as [[Well|well]] as in the clear skies of the [[Orient]] and the South.
 But it is simply horribly dangerous for a Londoner to carry
 his cloud of fog about with him, in the crystalline air about
-the crags of Zion, or under the terrible stars of the desert.
+the crags of Zion, or under the terrible [[Stars|stars]] of the [[Desert|desert]].
 There men see differences with almost unnatural clearness,
 and call things by savagely simple names.  We in England may
 consider all sorts of aspects of a man like Sir Herbert Samuel;
@@ -3991,45 +3991,45 @@ in Palestine will see only one aspect, and it will be a very personal
 aspect indeed.  For the enthusiastic Moslems he will simply be a Jew;
 for the enthusiastic Zionists he will not really be a Zionist.
 For them he will always be the type of Jew who would be willing
-to remain in London, and who is ready to represent Westminster.
+to remain in [[London]], and who is ready to represent Westminster.
 Meanwhile, for the masses of Moslems and Christians, he will
 only be the aggravation in practice of the very thing of which
 he is the denial in theory.  He will not mean that Palestine
 is not surrendered to the Jews, but only that England is.
-Now I have nothing as yet to do with the truth of that suggestion;
+Now I have nothing as yet to do with the [[Truth|truth]] of that suggestion;
 I merely give it as an example of the violent and unexpected
 reactions we shall produce if we thrust our own unrealities amid
-the red-hot realities of the Near East; it is like pushing a snow man
-into a furnace.  I have no objection to a snow man as a part of our
+the red-hot realities of the Near East; it is like pushing a [[Snow|snow]] man
+into a furnace.  I have no objection to a [[Snow|snow]] man as a part of our
 own Christmas festivities; indeed, as has already been suggested,
 I think such festivities a great glory of English life.
-But I have seen the snow melting in the steep places about Jerusalem;
+But I have seen the [[Snow|snow]] melting in the steep places about Jerusalem;
 and I know what a cataract it could feed.
 
 As I considered these things a deepening disquiet possessed me,
 and my thoughts were far away from where I stood.  After all,
 the English did not indulge in this doubling of parts and muddling
-of mistaken identity in their real and unique success in India.
+of mistaken [[Identity|identity]] in their real and unique [[success]] in India.
 They may have been wrong or right but they were realistic about Moslems
 and Hindoos; they did not say Moslems were Hindoos, or send a highly
-intelligent Hindoo from Oxford to rule Moslems as an Englishman.
+intelligent Hindoo from [[Oxford]] to rule Moslems as an Englishman.
 They may not have cared for things like the ideal of Zionism;
 but they understood the common sense of Zionism, the desirability
 of distinguishing between entirely different things.
 But I remembered that of late their tact had often failed them
-even in their chief success in India; and that every hour
+even in their chief [[success]] in India; and that every hour
 brought worse and wilder news of their failure in Ireland.
-I remembered that in the Early Victorian time, against the advice
+I remembered that in the Early Victorian [[Time|time]], against the advice
 only of the wisest and subtlest of the Early Victorians, we had tied
 ourselves to the triumphant progress of industrial capitalism; and that
-progress had now come to a crisis and what might well be a crash.
+progress had now come to a crisis and what might [[Well|well]] be a crash.
 And now, on the top of all, our fine patriotic tradition of foreign
 policy seemed to be doing these irrational and random things.
-A sort of fear took hold of me; and it was not for the Holy Land
+A sort of [[Fear|fear]] took hold of me; and it was not for the Holy Land
 that I feared.
 
 A cold wave went over me, like that unreasonable change and chill
-with which a man far from home fancies his house has been burned down,
+with which a man far from [[Home|home]] fancies his [[house]] has been burned down,
 or that those dear to him are dead.  For one horrible moment at least I
 wondered if we had come to the end of compromise and comfortable nonsense,
 and if at last the successful stupidity of England would topple
@@ -4037,35 +4037,35 @@ over like the successful wickedness of Prussia; because God is not
 mocked by the denial of reason any more than the denial of justice.
 And I fancied the very crowds of Jerusalem retorted on me words
 spoken to them long ago; that a great voice crying of old along
-the Via Dolorosa was rolled back on me like thunder from the mountains;
+the Via Dolorosa was rolled back on me like thunder from the [[Mountains|mountains]];
 and that all those alien faces are turned against us to-day,
-bidding us weep not for them, who have faith and clarity and a purpose,
+bidding us weep not for them, who have [[Faith|faith]] and clarity and a purpose,
 but weep for ourselves and for our children.
 
 = = = = = = = = = = = = = = = =
 
 CHAPTER VIII
 
-THE OTHER SIDE OF THE DESERT
+THE OTHER SIDE OF THE [[Desert|DESERT]]
 
-There was a story in Jerusalem so true or so well told that I can see
+There was a story in Jerusalem so true or so [[Well|well]] told that I can see
 the actors in it like figures in coloured costumes on a lighted stage.
 It occurred during the last days of Turkish occupation, while the
 English advance was still halted before Gaza, and heroically enduring
-the slow death of desert warfare.  There were German and Austrian
+the slow [[Death|death]] of [[Desert|desert]] warfare.  There were German and Austrian
 elements present in the garrison with the Turks, though the three
 allies seem to have held strangely aloof from each other.
 In the Austrian group there was an Austrian lady, "who had some dignity
 or other," like Lord Lundy's grandmother.  She was very beautiful,
 very fashionable, somewhat frivolous, but with fits of Catholic devotion.
 She had some very valuable Christian virtues, such as indiscriminate
-charity for the poor and indiscriminate loathing for the Prussians.
-She was a nurse; she was also a nuisance.  One day she was driving
+[[Charity|charity]] for the poor and indiscriminate loathing for the Prussians.
+She was a [[Nurse|nurse]]; she was also a nuisance.  One day she was driving
 just outside the Jaffa Gate, when she saw one of those figures
-which make the Holy City seem like the eternal crisis of an epic.
+which make the Holy [[City]] seem like the eternal crisis of an [[Epic|epic]].
 Such a man will enter the gate in the most ghastly rags as if
-he were going to be crowned king in the city; with his head
-lifted as if he saw apocalyptic stars in heaven, and a gesture at
+he were going to be crowned [[King|king]] in the [[City|city]]; with his head
+lifted as if he saw apocalyptic [[Stars|stars]] in heaven, and a gesture at
 which the towers might fall.  This man was ragged beyond all that
 moving rag-heap; he was as gaunt as a gallows tree, and the thing
 he was uttering with arms held up to heaven was evidently a curse.
@@ -4076,13 +4076,13 @@ soon returned in state and said, "Your Serene High Sublimity
 (or whatever it is), he says he is cursing the English."  Her pity
 and patriotism were alike moved; and she again sent the plenipotentiary
 to discover why he cursed the English, or what tale of wrong or ruin
-at English hands lay behind the large gestures of his despair.
-A second time the wooden intermediary returned and said,
+at English hands lay behind the large gestures of his [[Despair|despair]].
+A second [[Time|time]] the wooden intermediary returned and said,
 "Your Ecstatic Excellency (or whatever be the correct form),
 he says he is cursing the English because they don't come."
 
 There are a great many morals to this story, besides the general
-truth to which it testifies; that the Turkish rule was not
+[[Truth|truth]] to which it testifies; that the Turkish rule was not
 popular even with Moslems, and that the German war was not
 particularly popular even with Turks.  When all deductions are
 made for the patriot as a partisan, and his way of picking up
@@ -4094,7 +4094,7 @@ had to fall back when they had actually entered Gaza, and could not
 for long afterwards continue their advance on Jerusalem.  This kind
 of criticism of military operations is always, of course, worthless.
 In journalists it is generally worthless without being even harmless.
-There were some in London whose pessimistic wailing was less excusable
+There were some in [[London]] whose pessimistic wailing was less excusable
 than that of the poor Arab in Jerusalem; who cursed the English with
 the addition of being English themselves, who did it, not as he did,
 before one foreigner, but before all foreign opinion; and who
@@ -4102,9 +4102,9 @@ advertised their failure in a sort of rags less reputable than his.
 No one can judge of a point like the capture and loss of Gaza,
 unless he knows a huge mass of technical and local detail that can
 only be known to the staff on the spot; it is not a question
-of lack of water but of exactly how little water; not of the
+of lack of [[Water|water]] but of exactly how little [[Water|water]]; not of the
 arrival of reinforcements but of exactly how much reinforcement;
-not of whether time presses, but of exactly how much time there is.
+not of whether [[Time|time]] presses, but of exactly how much [[Time|time]] there is.
 Nobody can know these things who is editing a newspaper at the other
 end of the world; and these are the things which, for the soldier
 on the spot, make all the difference between jumping over a paling
@@ -4112,43 +4112,43 @@ and jumping over a precipice.  Even the latter, as the philosophic
 relativist will eagerly point out, is only a matter of degree.
 But this is a parenthesis; for the purpose with which I mentioned
 the anecdote is something different.  It is the text of another and
-somewhat more elusive truth; some appreciation of which is necessary
+somewhat more elusive [[Truth|truth]]; some appreciation of which is necessary
 to a sympathy with the more profound problems of Palestine.
 And it might be expressed thus; it is a proverb that the Eastern
 methods seem to us slow; that the Arabs trail along on labouring
 camels while the Europeans flash by on motors or mono-planes. But
 there is another and stranger sense in which we do seem to them slow,
 and they do seem to themselves to have a secret of swiftness.
-There is a sense in which we here touch the limits of a land of lightning;
-across which, as in a dream, the motor-car can be seen crawling
+There is a sense in which we here touch the limits of a land of [[Lightning|lightning]];
+across which, as in [[A Dream|a dream]], the motor-car can be seen crawling
 like a snail.
 
-I have said that there is another side to the desert; though there
+I have said that there is another side to the [[Desert|desert]]; though there
 is something queer in talking of another side to something so bare
 and big and oppressively obvious.  But there is another side besides
 the big and bare truths, like giant bones, that the Moslem has
 found there; there is, so to speak, an obverse of the obvious.
-And to suggest what I mean I must go back again to the desert and
+And to suggest what I mean I must go back again to the [[Desert|desert]] and
 the days I spent there, being carted from camp to camp and giving
 what were courteously described as lectures.  All I can say is that if
 those were lectures, I cannot imagine why everybody is not a lecturer.
 Perhaps the secret is already out; and multitudes of men in evening dress
-are already dotted about the desert, wandering in search of an audience.
-Anyhow in my own wanderings I found myself in the high narrow house
-of the Base Commandant at Kantara, the only house in the whole
+are already dotted about the [[Desert|desert]], wandering in search of an audience.
+Anyhow in my own wanderings I found myself in the high narrow [[house]]
+of the Base Commandant at Kantara, the only [[house]] in the whole
 circle of the horizon; and from the wooden balustrade and verandah,
 running round the top of it, could be seen nine miles of tents.
-Sydney Smith said that the bulbous domes of the Brighton Pavilion
-looked as if St. Paul's Cathedral had come down there and littered;
+Sydney [[smith|Smith]] said that the bulbous domes of the Brighton Pavilion
+looked as if St. Paul's [[Cathedral]] had come down there and littered;
 and that grey vista of countless cones looked rather as if the
 Great Pyramid had multiplied itself on the prolific scale of the herring.
 Nor was even such a foolish fancy without its serious side; for though
 these pyramids would pass, the plan of them was also among the mightiest
-of the works of man; and the king in every pyramid was alive.
+of the works of man; and the [[King|king]] in every pyramid was alive.
 For this was the great camp that was the pivot of the greatest campaign;
 and from that balcony I had looked on something all the more
 historic because it may never be seen again.  As the dusk fell
-and the moon brightened above that great ghostly city of canvas,
+and the [[Moon|moon]] brightened above that great ghostly [[City|city]] of canvas,
 I had fallen into talk with three or four of the officers at the base;
 grizzled and hard-headed men talking with all the curious and almost
 colourless common sense of the soldier.  All that they said was objective;
@@ -4161,33 +4161,33 @@ lightly enough but not contemptuously, and in particular another
 of the proverbial prophecies about the term of Turkish power.
 They said there was an old saying that the Turk would never depart
 until the Nile flowed through Palestine; and this at least
-was evidently a proverb of pride and security, like many such;
+was evidently a proverb of [[Pride|pride]] and security, like many such;
 as who should say until the sea is dry or the sun rises in the west.
 And one of them smiled and made a small gesture as of attention.
-And in the silence of that moonlit scene we heard the clanking of a pump.
-The water from the Nile had been brought in pipes across the desert.
+And in the [[Silence|silence]] of that moonlit scene we heard the clanking of a pump.
+The [[Water|water]] from the Nile had been brought in pipes across the [[Desert|desert]].
 
 And I thought that the symbol was a sound one, apart from all vanities;
 for this is indeed the special sort of thing that Christendom
-can do, and that Islam by itself would hardly care to do.
-I heard more afterwards of that water, which was eventually carried
+can do, and that [[Islam]] by itself would hardly care to do.
+I heard more afterwards of that [[Water|water]], which was eventually carried
 up the hills to Jerusalem, when I myself followed it thither;
-and all I heard bore testimony to this truth so far as it goes; the sense
-among the natives themselves of something magic in our machinery,
-and that in the main a white magic; the sense of all the more solid sort
+and all I heard bore testimony to this [[Truth|truth]] so far as it goes; the sense
+among the natives themselves of something [[Magic|magic]] in our machinery,
+and that in the main a white [[Magic|magic]]; the sense of all the more solid sort
 of social service that belongs rather to the West than to the East.
-When the fountain first flowed in the Holy City in the mountains,
+When the fountain first flowed in the Holy [[City]] in the [[Mountains|mountains]],
 and Father Waggett blessed it for the use of men, it is said that
 an old Arab standing by said, in the plain and powerful phraseology
 of his people:  "The Turks were here for five hundred years,
-and they never gave us a cup of cold water."
+and they never gave us a cup of cold [[Water|water]]."
 
-I put first this minimum of truth about the validity of Western
+I put first this minimum of [[Truth|truth]] about the validity of Western
 work because the same conversation swerved slowly, as it were,
 to the Eastern side.  These same men, who talked of all things
 as if they were chairs and tables, began to talk quite calmly of
 things more amazing than table-turning. They were as wonderful as if
-the water had come there like the wind, without any pipes or pumps;
+the [[Water|water]] had come there like the [[Wind|wind]], without any pipes or pumps;
 or if Father Waggett had merely struck the rock like Moses.
 They spoke of a solitary soldier at the end of a single telephone wire
 across the wastes, hearing of something that had that moment happened
@@ -4195,11 +4195,11 @@ hundreds of miles away, and then coming upon a casual Bedouin who knew
 it already.  They spoke of the whole tribes moving and on the march,
 upon news that could only come a little later by the swiftest wires
 of the white man.  They offered no explanation of these things;
-they simply knew they were there, like the palm-trees and the moon.
+they simply knew they were there, like the palm-trees and the [[Moon|moon]].
 They did not say it was "telepathy"; they lived much too close to
 realities for that.  That word, which will instantly leap to the lips
 of too many of my readers, strikes me as merely an evidence of two
-of our great modern improvements; the love of long words and the loss
+of our great modern improvements; the [[Love|love]] of long words and the loss
 of common sense.  It may have been telepathy, whatever that is;
 but a man must be almost stunned with stupidity if he is satisfied
 to say telepathy as if he were saying telegraphy.  If everybody
@@ -4230,24 +4230,24 @@ address to the unseen powers may be vague and universal, but the words
 they are said to address to us are parochial and even private.
 While the Higher Thought Centre would widen worship everywhere
 to a temple not made with hands, the Psychical Research Society
-is conducting practical experiments round a haunted house.
-Men may become cosmopolitans, but ghosts remain patriots.
-Men may or may not expect an act of healing to take place at a holy well,
-but nobody expects it ten miles from the well; and even the sceptic who
-comes to expose the ghost-haunted churchyard has to haunt the churchyard
-like a ghost.  There may be something faintly amusing about the idea
+is conducting practical experiments round a haunted [[house]].
+Men may become cosmopolitans, but [[Ghosts|ghosts]] remain patriots.
+Men may or may not expect an act of healing to take place at a holy [[Well|well]],
+but nobody expects it ten miles from the [[Well|well]]; and even the sceptic who
+comes to expose the [[Ghost|ghost]]-haunted churchyard has to haunt the churchyard
+like a [[Ghost|ghost]].  There may be something faintly amusing about the idea
 of demi-gods with door-knockers and dinner tables, and demons,
-one may almost say, keeping the home fires burning.  But the driving
+one may almost say, keeping the [[Home|home]] fires burning.  But the driving
 force of this dark mystery of locality is all the more indisputable
 because it drives against most modern theories and associations.
-The truth is that, upon a more transcendental consideration,
-we do not know what place is any more than we know what time is.
+The [[Truth|truth]] is that, upon a more transcendental consideration,
+we do not know what place is any more than we know what [[Time|time]] is.
 We do not know of the unknown powers that they cannot concentrate
-in space as in time, or find in a spot something that corresponds
+in space as in [[Time|time]], or find in a spot something that corresponds
 to a crisis.  And if this be felt everywhere, it is necessarily
 and abnormally felt in those alleged holy places and sacred spots.
 It is felt supremely in all those lands of the Near East which lie
-about the holy hill of Zion.
+about the holy [[Hill|hill]] of Zion.
 
 In these lands an impression grows steadily on the mind much too
 large for most of the recent religious or scientific definitions.
@@ -4260,25 +4260,25 @@ But I should diminish my meaning if I suggested it as a mere
 score in the Victorian game of Scripture versus Science.
 Some much larger mystery veils the origins of man than most partisans
 on either side have realised; and in these strange primeval plains
-the traveller does realise it.  It was never so well expressed
+the traveller does realise it.  It was never so [[Well|well]] expressed
 as by one of the most promising of those whose literary possibilities
 were gloriously broken off by the great war; Lieutenant Warre-Cornish
-who left a strange and striking fragment, about a man who came
+who left a strange and striking [[Fragment|fragment]], about a man who came
 to these lands with a mystical idea of forcing himself back
-against the stream of time into the very fountain of creation.
+against the stream of [[Time|time]] into the very fountain of creation.
 This is a parenthesis; but before resuming the more immediate
 matter of the supernormal tricks of the tribes of the East,
-it is well to recognise this very real if much more general historic
+it is [[Well|well]] to recognise this very real if much more general historic
 impression about the particular lands in which they lived.
 I have called it a historic impression; but it might more truly be called
 a prehistoric impression.  It is best expressed in symbol by saying
-that the legendary site of the Garden of Eden is in Mesopotamia.
-It is equally well expressed in concrete experience by saying that,
+that the legendary site of the [[Garden]] of Eden is in Mesopotamia.
+It is equally [[Well|well]] expressed in concrete experience by saying that,
 when I was in these parts, a learned man told me that the primitive form
-of wheat had just, for the first time, been discovered in Palestine.
+of wheat had just, for the first [[Time|time]], been discovered in Palestine.
 
 The feeling that fills the traveller may be faintly suggested thus;
-that here, in this legendary land between Asia and Europe, may well
+that here, in this legendary land between Asia and Europe, may [[Well|well]]
 have happened whatever did happen; that through this Eastern gate,
 if any, entered whatever made and changed the world.  Whatever else
 this narrow strip of land may seem like, it does really seem,
@@ -4288,37 +4288,37 @@ Here have been civilisations as old as any barbarism; to all
 appearance perhaps older than any barbarism.  Here is the camel;
 the enormous unnatural friend of man; the prehistoric pet.
 He is never known to have been wild, and might make a man fancy
-that all wild animals had once been tame.  As I said elsewhere,
+that all wild [[Animals|animals]] had once been tame.  As I said elsewhere,
 all might be a runaway menagerie; the whale a cow that went swimming
 and never came back, the tiger a large cat that took the prize
 (and the prize-giver) and escaped to the jungle.  This is not
 (I venture to think) true; but it is true as Pithecanthropus and
 Primitive Man and all the other random guesses from dubious bits
-of bone and stone.  And the truth is some third thing, too tremendous
+of bone and stone.  And the [[Truth|truth]] is some third thing, too tremendous
 to be remembered by men.  Whatever it was, perhaps the camel saw it;
 but from the expression on the face of that old family servant,
 I feel sure that he will never tell.
 
-I have called this the other side of the desert; and in another
+I have called this the other side of the [[Desert|desert]]; and in another
 sense it is literally the other side.  It is the other shore
 of that shifting and arid sea.  Looking at it from the West
-and considering mainly the case of the Moslem, we feel the desert
+and considering mainly the case of the Moslem, we feel the [[Desert|desert]]
 is but a barren border-land of Christendom; but seen from
 the other side it is the barrier between us and a heathendom far
 more mysterious and even monstrous than anything Moslem can be.
 Indeed it is necessary to realise this more vividly in order to feel
-the virtue of the Moslem movement.  It belonged to the desert,
+the virtue of the Moslem movement.  It belonged to the [[Desert|desert]],
 but in one sense it was rather a clearance in the cloud that rests
-upon the desert; a rift of pale but clean light in volumes
+upon the [[Desert|desert]]; a rift of pale but clean light in volumes
 of vapour rolled on it like smoke from the strange lands beyond.
 It conceived a fixed hatred of idolatry, partly because its face was
 turned towards the multitudinous idolatries of the lands of sunrise;
 and as I looked Eastward I seemed to be conscious of the beginnings
-of that other world; and saw, like a forest of arms or a dream full
+of that other world; and saw, like a forest of arms or [[A Dream|a dream]] full
 of faces, the gods of Asia on their thousand thrones.
 
-It is not a mere romance that calls it a land of magic,
-or even of black magic.  Those who carry that atmosphere to us
+It is not a mere [[Romance|romance]] that calls it a land of [[Magic|magic]],
+or even of black [[Magic|magic]].  Those who carry that atmosphere to us
 are not the romanticists but the realists.  Every one can feel
 it in the work of Mr. Rudyard Kipling; and when I once remarked
 on his repulsive little masterpiece called "The Mark of the Beast,"
@@ -4326,20 +4326,20 @@ to a rather cynical Anglo-Indian officer, he observed moodily, "It's a
 beastly story.  But those devils really can do jolly queer things."
 It is but to take a commonplace example out of countless more
 notable ones to mention the many witnesses to the mango trick.
-Here again we have from time to time to weep over the weak-mindedness
+Here again we have from [[Time|time]] to [[Time|time]] to weep over the weak-mindedness
 that hurriedly dismisses it as the practice of hypnotism.
 It is as if people were asked to explain how one unarmed Indian
 had killed three hundred men, and they said it was only the practice
 of human sacrifice.  Nothing that we know as hypnotism will enable a man
 to alter the eyes in the heads of a huge crowd of total strangers;
 wide awake in broad daylight; and if it is hypnotism, it is
-something so appallingly magnified as to need a new magic to explain
+something so appallingly magnified as to need a new [[Magic|magic]] to explain
 the explanation; certainly something that explains it better
-than a Greek word for sleep.  But the impression of these special
+than a Greek word for [[Sleep|sleep]].  But the impression of these special
 instances is but one example of a more universal impression of
 the Asiatic atmosphere; and that atmosphere itself is only an example
 of something vaster still for which I am trying to find words.
-Asia stands for something which the world in the West as well
+Asia stands for something which the world in the West as [[Well|well]]
 as the East is more and more feeling as a presence, and even
 a pressure.  It might be called the spiritual world let loose;
 or a sort of psychical anarchy; a jungle of mango plants.
@@ -4360,8 +4360,8 @@ They might be better described as reverent materialists;
 or at any rate monists.  They had at least at the back
 of their minds a clear and consistent concept of their rather
 clockwork cosmos; that is why they could not admit the smallest
-speck of the supernatural into their clockwork.  But to-day it is
-very hard for a scientific man to say where the supernatural ends
+speck of the [[Supernatural|supernatural]] into their clockwork.  But to-day it is
+very hard for a scientific man to say where the [[Supernatural|supernatural]] ends
 or the natural begins, or what name should be given to either.
 The word agnostic has ceased to be a polite word for atheist.
 It has become a real word for a very real state of mind,
@@ -4369,27 +4369,27 @@ conscious of many possibilities beyond that of the atheist,
 and not excluding that of the polytheist.  It is no longer a question
 of defining or denying a simple central power, but of balancing
 the brain in a bewilderment of new powers which seem to overlap
-and might even conflict.  Nature herself has become unnatural.
-The wind is blowing from the other side of the desert, not now with
+and might even conflict.  [[Nature]] herself has become unnatural.
+The [[Wind|wind]] is blowing from the other side of the [[Desert|desert]], not now with
 noble truism "There is no God but God," but rather with that other
 motto out of the deeper anarchy of Asia, drawn out by Mr. Kipling,
 in the shape of a native proverb, in the very story already mentioned;
 "Your gods and my gods, do you or I know which is the stronger?"
 There was a mystical story I read somewhere in my boyhood,
-of which the only image that remains is that of a rose-bush growing
+of which the only image that remains is that of a [[Rose|rose]]-bush growing
 mysteriously in the middle of a room.  Taking this image for the sake
 of argument, we can easily fancy a man half-conscious and convinced
-that he is delirious, or still partly in a dream, because he sees
-such a magic bush growing irrationally in the middle of his bedroom.
+that he is delirious, or still partly in [[A Dream|a dream]], because he sees
+such a [[Magic|magic]] bush growing irrationally in the middle of his bedroom.
 All the walls and furniture are familiar and solid, the table,
-the clock, the telephone, the looking glass or what not; there is
+the [[Clock|clock]], the telephone, the looking glass or what not; there is
 nothing unnatural but this one hovering hallucination or optical
 delusion of green and red.  Now that was very much the view taken
-of the Rose of Sharon, the mystical rose of the sacred tradition
+of the [[Rose]] of Sharon, the mystical [[Rose|rose]] of the sacred tradition
 of Palestine, by any educated man about 1850, when the rationalism
 of the eighteenth century was supposed to have found full
 support in the science of the nineteenth.  He had a sentiment
-about a rose:  he was still glad it had fragrance or atmosphere;
+about a [[Rose|rose]]:  he was still glad it had fragrance or atmosphere;
 though he remembered with a slight discomfort that it had thorns.
 But what bothered him about it was that it was impossible.
 And what made him think it impossible was it was inconsistent
@@ -4402,11 +4402,11 @@ and senseless contradiction to an otherwise complete cosmos.
 For the furniture fitted in bit by bit and better and better;
 and the bedroom seemed to grow more and more solid.
 The man recognised the portrait of himself over the mantelpiece or
-the medicine bottles on the table, like the dying lover in Browning.
+the medicine bottles on the table, like the dying [[Lover|lover]] in Browning.
 In other words, science so far had steadily solidified things;
 Newton had measured the walls and ceiling and made a calculus
 of their three dimensions.  Darwin was already arranging
-the animals in rank as neatly as a row of chairs, or Faraday
+the [[Animals|animals]] in rank as neatly as a row of chairs, or Faraday
 the chemical elements as clearly as a row of medicine bottles.
 From the middle of the eighteenth century to the middle of the nineteenth,
 science was not only making discoveries, but all the discoveries
@@ -4414,32 +4414,32 @@ were in one direction.  Science is still making discoveries;
 but they are in the opposite direction.
 
 For things are rather different when the man in the bed
-next looks at the bedroom.  Not only is the rose-bush still
+next looks at the bedroom.  Not only is the [[Rose|rose]]-bush still
 very obvious; but the other things are looking very odd.
 The perspective seems to have gone crooked; the walls seem to vary
 in measurement till the man thinks he is going mad.  The wall-paper
 has a new pattern, of strange spirals instead of round dots.
 The table seems to have moved by itself across the room and thrown
-the medicine bottles out of the window.  The telephone has vanished
-from the wall; the mirror does not reflect what is in front of it.
+the medicine bottles out of the [[Window|window]].  The telephone has vanished
+from the wall; the [[Mirror|mirror]] does not reflect what is in front of it.
 The portrait of himself over the mantelpiece has a face that is
 not his own.
 
 That is something like a vision of the vital change in the whole
-trend of natural philosophy in the last twenty or thirty years.
+trend of natural [[philosophy]] in the last twenty or thirty years.
 It matters little whether we regard it as the deepening
 or the destruction of the scientific universe.
 It matters little whether we say that grander abysses have
-opened in it, or merely that the bottom has fallen out of it.
-It is quite self-evident that scientific men are at war with wilder
+opened in it, or merely that the [[Bottom|bottom]] has fallen out of it.
+It is quite [[Self|self]]-evident that scientific men are at war with wilder
 and more unfathomable fancies than the facts of the age of Huxley.
 I attempt no controversy about any of the particular cases:
 it is the cumulative effect of all of them that makes the impression
 one of common sense.  It is really true that the perspective and
 dimensions of the man's bedroom have altered; the disciples of Einstein
 will tell him that straight lines are curved and perhaps measure
-more one way than the other; if that is not a nightmare, what is?
-It is really true that the clock has altered, for time has turned
+more one way than the other; if that is not a [[nightmare]], what is?
+It is really true that the [[Clock|clock]] has altered, for [[Time|time]] has turned
 into the fourth dimension or something entirely different;
 and the telephone may fairly be said to have faded from view in favour
 of the invisible telepath.  It is true that the pattern of the paper
@@ -4452,7 +4452,7 @@ that few still pretend that is entirely done by the spiritualists.
 I am not dealing with doctrines but with doubts; with the mere fact
 that all these things have grown deeper and more bewildering.
 Some people really are throwing their medicine bottles out
-of the window; and some of them at least are working purely
+of the [[Window|window]]; and some of them at least are working purely
 psychological cures of a sort that would once have been called
 miraculous healing.  I do not say we know how far this could go;
 it is my whole point that we do not know, that we are in contact
@@ -4467,36 +4467,36 @@ of Professor Einstein, even the law of gravity is behaving
 with lamentable levity.
 
 And when the man looks at the portrait of himself he really does not
-see himself.  He sees his Other Self, which some say is the opposite
-of his ordinary self; his Subconscious Self or his Subliminal Self,
-said to rage and rule in his dreams, or a suppressed self which hates him
+see himself.  He sees his Other [[Self]], which some say is the opposite
+of his ordinary [[Self|self]]; his Subconscious [[Self]] or his Subliminal [[Self]],
+said to rage and rule in his [[Dreams|dreams]], or a suppressed [[Self|self]] which hates him
 though it is hidden from him; or the Alter Ego of a Dual Personality.
 It is not to my present purpose to discuss the merit of
 these speculations, or whether they be medicinal or morbid.
 My purpose is served in pointing out the plain historical fact;
-that if you had talked to a Utilitarian and Rationalist of Bentham's time,
-who told men to follow "enlightened self-interest," he would have been
+that if you had talked to a Utilitarian and Rationalist of Bentham's [[Time|time]],
+who told men to follow "enlightened [[Self|self]]-interest," he would have been
 considerably bewildered if you had replied brightly and briskly,
-"And to which self do you refer; the sub-conscious, the conscious,
+"And to which [[Self|self]] do you refer; the sub-conscious, the conscious,
 the latently criminal or suppressed, or others that we fortunately have
 in stock?"  When the man looks at his own portrait in his own bedroom,
 it does really melt into the face of a stranger or flicker into
 the face of a fiend.  When he looks at the bedroom itself, in short,
 it becomes clearer and clearer that it is exactly this comfortable
 and solid part of the vision that is altering and breaking up.
-It is the walls and furniture that are only a dream or memory.
-And when he looks again at the incongruous rose-bush, he seems
-to smell as well as see; and he stretches forth his hand, and his
+It is the walls and furniture that are only [[A Dream|a dream]] or [[Memory|memory]].
+And when he looks again at the incongruous [[Rose|rose]]-bush, he seems
+to smell as [[Well|well]] as see; and he stretches forth his hand, and his
 finger bleeds upon a thorn.
 
 It will not be altogether surprising if the story ends with the man
 recovering full consciousness, and finding he has been convalescing in a
-hammock in a rose-garden. It is not so very unreasonable when you come
+hammock in a [[Rose|rose]]-[[Garden|garden]]. It is not so very unreasonable when you come
 to think of it; or at least when you come to think of the whole of it.
 He was not wrong in thinking the whole must be a consistent whole,
 and that one part seemed inconsistent with the other.
 He was only wrong about which part was wrong through being inconsistent
-with the other.  Now the whole of the rationalistic doubt about
+with the other.  Now the whole of the rationalistic [[Doubt|doubt]] about
 the Palestinian legends, from its rise in the early eighteenth
 century out of the last movements of the Renascence, was founded
 on the fixity of facts.  Miracles were monstrosities because they
@@ -4504,20 +4504,20 @@ were against natural law, which was necessarily immutable law.
 The prodigies of the Old Testament or the mighty works of the New
 were extravagances because they were exceptions; and they were
 exceptions because there was a rule, and that an immutable rule.
-In short, there was no rose-tree growing out of the carpet of a trim
-and tidy bedroom; because rose-trees do not grow out of carpets
+In short, there was no [[Rose|rose]]-tree growing out of the carpet of a trim
+and tidy bedroom; because [[Rose|rose]]-trees do not grow out of carpets
 in trim and tidy bedrooms.  So far it seemed reasonable enough.
 But it left out one possibility; that a man can dream about a room
-as well as a rose; and that a man can doubt about a rule as well
+as [[Well|well]] as a [[Rose|rose]]; and that a man can [[Doubt|doubt]] about a rule as [[Well|well]]
 as an exception.
 
-As soon as the men of science began to doubt the rules of the game,
+As soon as the men of science began to [[Doubt|doubt]] the rules of the game,
 the game was up.  They could no longer rule out all the old marvels
 as impossible, in face of the new marvels which they had to admit
 as possible.  They were themselves dealing now with a number of
 unknown quantities; what is the power of mind over matter; when is
-matter an illusion of mind; what is identity, what is individuality,
-is there a limit to logic in the last extremes of mathematics?
+matter an illusion of mind; what is [[Identity|identity]], what is individuality,
+is there a limit to [[logic]] in the last extremes of mathematics?
 They knew by a hundred hints that their non-miraculous world was no
 longer watertight; that floods were coming in from somewhere in which
 they were already out of their depth, and down among very fantastical
@@ -4530,10 +4530,10 @@ or even I, need here depend on those particular stories;
 I mean that the difficulty now is to draw a line, and a new line,
 after the obliteration of an old and much more obvious line.
 Any one can draw it for himself, as a matter of mere taste in probability;
-but we have not made a philosophy until we can draw it for others.
+but we have not made a [[philosophy]] until we can draw it for others.
 And the modern men of science cannot draw it for others.
 Men could easily mark the contrast between the force of gravity
-and the fable of the Ascension.  They cannot all be made to see
+and the [[Fable|fable]] of the Ascension.  They cannot all be made to see
 any such contrast between the levitation that is now discussed as a
 possibility and the ascension which is still derided as a miracle.
 I do not even say that there is not a great difference between them;
@@ -4541,18 +4541,18 @@ I say that science is now plunged too deep in new doubts
 and possibilities to have authority to define the difference.
 I say the more it knows of what seems to have happened, or what is
 said to have happened, in many modern drawing-rooms, the less it
-knows what did or did not happen on that lofty and legendary hill,
+knows what did or did not happen on that lofty and legendary [[Hill|hill]],
 where a spire rises over Jerusalem and can be seen beyond Jordan.
 
 But with that part of the Palestinian story which is told in the
 New Testament I am not directly concerned till the next chapter;
-and the matter here is a more general one.  The truth is that through
+and the matter here is a more general one.  The [[Truth|truth]] is that through
 a thousand channels something has returned to the modern mind.
-It is not Christianity.  On the contrary, it would be truer
+It is not [[Christianity]].  On the contrary, it would be truer
 to say that it is paganism.  In reality it is in a very special
 sense paganism; because it is polytheism.  The word will startle
 many people, but not the people who know the modern world best.
-When I told a distinguished psychologist at Oxford that I differed
+When I told a distinguished psychologist at [[Oxford]] that I differed
 from his view of the universe, he answered, "Why universe?
 Why should it not be a multiverse?"  The essence of polytheism is
 the worship of gods who are not God; that is, who are not necessarily
@@ -4565,7 +4565,7 @@ if anybody is, a genius among moderns and a modern among geniuses,
 really did this very thing; he selected a god who was really
 more like a daemon.  He called his book _God, the Invisible King_;
 but the curious point was that he specially insisted that his God differed
-from other people's God in the very fact that he was not a king.
+from other people's God in the very fact that he was not a [[King|king]].
 He was very particular in explaining that his deity did not
 rule in any almighty or infinite sense; but merely influenced,
 like any wandering spirit.  Nor was he particularly invisible,
@@ -4579,7 +4579,7 @@ this disrespectfully, but on the contrary very sympathetically;
 I think it worthy of so great a man to appreciate and answer the general
 sense of a richer and more adventurous spiritual world around us.
 It is a great emancipation from the leaden materialism which weighed
-on men of imagination forty years ago.  But my point for the moment
+on men of [[Imagination|imagination]] forty years ago.  But my point for the moment
 is that the mode of the emancipation was pagan or even polytheistic,
 in the real philosophical sense that it was the selection of a
 single spirit, out of many there might be in the spiritual world.
@@ -4588,7 +4588,7 @@ creator or even necessarily his overlord) there is nothing to prevent
 Mr. William Archer, also emancipated, from adoring another god in
 another temple; or Mr. Arnold Bennett, should he similarly liberate
 his mind, from bowing down to a third god in a third temple.
-My imagination rather fails me, I confess, in evoking the image
+My [[Imagination|imagination]] rather fails me, I confess, in evoking the image
 and symbolism of Mr. Bennett's or Mr. Archer's idolatries;
 and if I had to choose between the three, I should probably be found
 as an acolyte in the shrine of Mr. Wells.  But, anyhow, the trend
@@ -4597,7 +4597,7 @@ civilisation of paganism.
 
 There is the same modern mark in Spiritualism.  Spiritualism also
 has the trend of polytheism, if it be in a form more akin to
-ancestor-worship. But whether it be the invocation of ghosts or of gods,
+ancestor-worship. But whether it be the invocation of [[Ghosts|ghosts]] or of gods,
 the mark of it is that it invokes something less than the divine;
 nor am I at all quarrelling with it on that account.  I am merely
 describing the drift of the day; and it seems clear that it is towards
@@ -4605,16 +4605,16 @@ the summoning of spirits to our aid whatever their position in the
 unknown world, and without any clear doctrinal plan of that world.
 The most probable result would seem to be a multitude of psychic cults,
 personal and impersonal, from the vaguest reverence for the powers
-of nature to the most concrete appeal to crystals or mascots.
+of [[Nature|nature]] to the most concrete appeal to crystals or mascots.
 When I say that the agnostics have discovered agnosticism,
 and have now recovered from the shock, I do not mean merely to sneer
-at the identity of the word agnosticism with the word ignorance.
+at the [[Identity|identity]] of the word agnosticism with the word ignorance.
 On the contrary, I think ignorance the greater thing; for ignorance
 can be creative.  And the thing it can create, and soon probably
 will create, is one of the lost arts of the world; a mythology.
 
 In a word, the modern world will probably end exactly where the
-Bible begins.  In that inevitable setting of spirit against spirit,
+[[Bible]] begins.  In that inevitable setting of spirit against spirit,
 or god against god, we shall soon be in a position to do more
 justice not only to the New Testament, but to the Old Testament.
 Our descendants may very possibly do the very thing we scoff
@@ -4628,35 +4628,35 @@ from the collision with colossal idolatries and towering spiritual
 tyrannies, may emerge only as a God of Battles and a Lord of Hosts.
 Here between the dark wastes and the clouded mountain was fought
 out what must seem even to the indifferent a wrestle of giants
-driving the world out of its course; Jehovah of the mountains
-casting down Baal of the desert and Dagon of the sea.  Here wandered
+driving the world out of its course; Jehovah of the [[Mountains|mountains]]
+casting down Baal of the [[Desert|desert]] and Dagon of the sea.  Here wandered
 and endured that strange and terrible and tenacious people who held
 high above all their virtues and their vices one indestructible idea;
 that they were but the tools in that tremendous hand.
 Here was the first triumph of those who, in some sense beyond
 our understanding, had rightly chosen among the powers invisible,
 and found their choice a great god above all gods.  So the future
-may suffer not from the loss but the multiplicity of faith;
+may suffer not from the loss but the multiplicity of [[Faith|faith]];
 and its fate be far more like the cloudy and mythological war
-in the desert than like the dry radiance of theism or monism.
-I have said nothing here of my own faith, or of that name on which,
-I am well persuaded, the world will be most wise to call.
+in the [[Desert|desert]] than like the dry radiance of theism or monism.
+I have said nothing here of my own [[Faith|faith]], or of that name on which,
+I am [[Well|well]] persuaded, the world will be most wise to call.
 But I do believe that the tradition founded in that far tribal battle,
 in that far Eastern land, did indeed justify itself by leading
-up to a lasting truth; and that it will once again be justified
+up to a lasting [[Truth|truth]]; and that it will once again be justified
 of all its children.  What has survived through an age of atheism
 as the most indestructible would survive through an age of polytheism
 as the most indispensable.  If among many gods it could not presently
 be proved to be the strongest, some would still know it was the best.
 Its central presence would endure through times of cloud and confusion,
 in which it was judged only as a myth among myths or a man among men.
-Even the old heathen test of humanity and the apparition of the body,
+Even the old heathen test of humanity and the apparition of the [[Body|body]],
 touching which I have quoted the verse about the pagan polytheist
 as sung by the neo-pagan poet, is a test which that incarnate
 mystery will abide the best.  And however much or little our
 spiritual inquirers may lift the veil from their invisible kings,
 they will not find a vision more vivid than a man walking unveiled
-upon the mountains, seen of men and seeing; a visible god.
+upon the [[Mountains|mountains]], seen of men and seeing; a visible god.
 
 = = = = = = = = = = = = = = = =
 
@@ -4665,54 +4665,54 @@ CHAPTER IX
 THE BATTLE WITH THE DRAGON
 
 Lydda or Ludd has already been noted as the legendary birthplace
-of St. George, and as the camp on the edge of the desert from which,
+of St. George, and as the camp on the edge of the [[Desert|desert]] from which,
 as it happened, I caught the first glimpse of the coloured
 fields of Palestine that looked like the fields of Paradise.
 Being an encampment of soldiers, it seems an appropriate place for
 St. George; and indeed it may be said that all that red and empty land
 has resounded with his name like a shield of copper or of bronze.
 The name was not even confined to the cries of the Christians;
-a curious imaginative hospitality in the Moslem mind, a certain innocent
+a curious imaginative hospitality in the Moslem mind, a certain [[Innocent|innocent]]
 and imitative enthusiasm, made the Moslems also half-accept a sort
-of Christian mythology, and make an abstract hero of St. George.
-It is said that Coeur de Lion on these very sands first invoked
-the soldier saint to bless the English battle-line, and blazon his cross
+of Christian mythology, and make an abstract [[Hero|hero]] of St. George.
+It is said that Coeur de [[Lion]] on these very sands first invoked
+the soldier saint to bless the English battle-line, and blazon his [[Cross|cross]]
 on the English banners.  But the name occurs not only in the stories
-of the victory of Richard, but in the enemy stories that led up
+of the victory of [[Richard]], but in the enemy stories that led up
 to the great victory of Saladin.  In that obscure and violent quarrel
 which let loose the disaster of Hattin, when the Grand Master
 of the Templars, Gerard the Englishman from Bideford in Devon,
-drove with demented heroism his few lances against a host, there fell
+drove with demented [[Heroism|heroism]] his few lances against a host, there fell
 among those radiant fanatics one Christian warrior, who had made
-with his single sword such a circle of the slain, that the victorious
-Moslems treated even his dead body as something supernatural;
-and bore it away with them with honour, saying it was the body
+with his single [[Sword|sword]] such a circle of the slain, that the victorious
+Moslems treated even his dead [[Body|body]] as something [[Supernatural|supernatural]];
+and bore it away with them with [[Honour|honour]], saying it was the [[Body|body]]
 of St. George.
 
 But if the purpose of the camp be appropriate to the story of St. George,
 the position of the camp might be considered appropriate to the more
 fantastic story of St. George and the Dragon.  The symbolic struggle
-between man and monster might very well take place somewhere where
-the green culture of the fields meets the red desolation of the desert.
+between man and [[Monster|monster]] might very [[Well|well]] take place somewhere where
+the green culture of the fields meets the red desolation of the [[Desert|desert]].
 As a matter of fact, I dare say, legend locates the duel itself
 somewhere else, but I am only making use of the legend as a legend,
 or even as a convenient figure of speech.  I would only use it
-here to make a kind of picture which may clarify a kind of paradox,
+here to make a kind of picture which may clarify a kind of [[Paradox|paradox]],
 very vital to our present attitude towards all Palestinian traditions,
-including those that are more sacred even than St. George.  This paradox
+including those that are more sacred even than St. George.  This [[Paradox|paradox]]
 has already been touched on in the last chapter about polytheistic
 spirits or superstitions such as surrounded the Old Testament,
-but it is yet more true of the criticisms and apologetics surrounding
-the New Testament.  And the paradox is this; that we never find
+but it is yet more true of the criticisms and [[Apologetics|apologetics]] surrounding
+the New Testament.  And the [[Paradox|paradox]] is this; that we never find
 our own religion so right as when we find we are wrong about it.
 I mean that we are finally convinced not by the sort of evidence we
 are looking for, but by the sort of evidence we are not looking for.
 We are convinced when we come on a ratification that is almost as abrupt
 as a refutation.  That is the point about the wireless telegraphy
-or wordless telepathy of the Bedouins.  A supernatural trick in a dingy
+or wordless telepathy of the Bedouins.  A [[Supernatural|supernatural]] trick in a dingy
 tribe wandering in dry places is not the sort of supernaturalism
 we should expect to find; it is only the sort that we do find.
-These rocks of the desert, like the bones of a buried giant,
+These rocks of the [[Desert|desert]], like the bones of a buried giant,
 do not seem to stick out where they ought to, but they stick out,
 and we fall over them.
 
@@ -4725,17 +4725,17 @@ in spite of all the nonsense about dragons and the chimera with wings
 and claws that has somehow interwreathed itself with his image.
 Perhaps he is a little biased by patriotism or other ethical aims;
 and thinks the saint a good social ideal.  Perhaps he knows that
-early Christianity, so far from being a religion of pacifists,
+early [[Christianity]], so far from being a religion of pacifists,
 was largely a religion of soldiers.  Anyhow he thinks St. George
 himself a quite sufficiently solid and historical figure;
-and has little doubt that records or traces can be found of him.
+and has little [[Doubt|doubt]] that records or traces can be found of him.
 Now the point is this; suppose that man goes to the land of
 the legendary combat; and finds comparatively few or faint traces
 of the personality of St. George.  But suppose he _does_ find,
-on that very field of combat, the bones of a gigantic monster unlike
+on that very field of combat, the bones of a gigantic [[Monster|monster]] unlike
 every other creature except the legendary dragon.  Or suppose he only
 finds ancient Eastern sculptures and hieroglyphics representing maidens,
-being sacrificed to such a monster, and making it quite clear that
+being sacrificed to such a [[Monster|monster]], and making it quite clear that
 even within historic times one of those sacrificed was a princess.
 It is surely clear that he will be considerably impressed by
 this confirmation, not of the part he did believe, but actually
@@ -4749,7 +4749,7 @@ It is needless to inform the reader, I trust, that I do not think
 this particular case in the least likely; or that I am only using it
 for the sake of lucidity.  Even as it stands, it would not necessarily
 make a man believe the traditional story, but it would make him
-guess that it was some sort of tradition of some sort of truth;
+guess that it was some sort of tradition of some sort of [[Truth|truth]];
 that there was something in it, and much more in it than even
 he himself had imagined.  And the point of it would be precisely
 that his reason had not anticipated the extent of his revelation.
@@ -4762,22 +4762,22 @@ this will happen touching this particular tale of Palestine.
 But this is precisely what really has happened touching
 the most sacred and tremendous of all the tales of Palestine.
 This is precisely what has happened touching that central figure,
-round which the monster and the champion are alike only
-ornamental symbols; and by the right of whose tragedy even
-St. George's Cross does not belong to St. George.  It is not likely
-to be true of the desert duel between George and the Dragon;
-but it is already true of the desert duel between Jesus and the Devil.
+round which the [[Monster|monster]] and the champion are alike only
+ornamental symbols; and by the right of whose [[Tragedy|tragedy]] even
+St. George's [[Cross]] does not belong to St. George.  It is not likely
+to be true of the [[Desert|desert]] duel between George and the Dragon;
+but it is already true of the [[Desert|desert]] duel between Jesus and the Devil.
 St. George is but a servant and the Dragon is but a symbol,
-but it is precisely about the central reality, the mystery of Christ
-and His mastery of the powers of darkness, that this very paradox
+but it is precisely about the central reality, the mystery of [[Christ]]
+and His mastery of the powers of darkness, that this very [[Paradox|paradox]]
 has proved itself a fact.
 
 Going down from Jerusalem to Jericho I was more than once
-moved by a flippant and possibly profane memory of the swine
+moved by a flippant and possibly profane [[Memory|memory]] of the swine
 that rushed down a steep place into the sea.  I do not insist on
 the personal parallel; for whatever my points of resemblance to a pig
-I am not a flying pig, a pig with wings of speed and precipitancy;
-and if I am possessed of a devil, it is not the blue devil of suicide.
+I am not a flying pig, a pig with wings of [[Speed|speed]] and precipitancy;
+and if I am possessed of a devil, it is not the blue devil of [[suicide]].
 But the phrase came back into my mind because going down to
 the Dead Sea does really involve rushing down a steep place.
 Indeed it gives a strange impression that the whole of Palestine
@@ -4792,25 +4792,25 @@ they cannot give the bottomless vision of this long descent.
 We went in a little rocking Ford car down steep and jagged roads
 among ribbed and columned cliffs; but the roads below soon failed
 us altogether; and the car had to tumble like a tank over rocky
-banks and into empty river-beds, long before it came to the sinister
+banks and into empty [[River|river]]-beds, long before it came to the sinister
 and discoloured landscapes of the Dead Sea.  And the distance looks
-far enough on the map, and seems long enough in the motor journey,
+far enough on the map, and seems long enough in the motor [[Journey|journey]],
 to make a man feel he has come to another part of the world;
 yet so much is it all a single fall of land that even when he gets
 out beyond Jordan in the wild country of the Shereef he can still
 look back and see, small and faint as if in the clouds, the spire
-of the Russian church (I fancy) upon the hill of the Ascension.
-And though the story of the swine is attached in truth to another place,
+of the Russian church (I fancy) upon the [[Hill|hill]] of the Ascension.
+And though the story of the swine is attached in [[Truth|truth]] to another place,
 I was still haunted with its fanciful appropriateness to this one,
 because of the very steepness of this larger slope and the mystery
 of that larger sea.  I even had the fancy that one might fish
 for them and find them in such a sea, turned into monsters;
 sea-swine or four-legged fishes, swollen and with evil eyes,
-grown over with sea-grass for bristles; the ghosts of Gadara.
+grown over with sea-grass for bristles; the [[Ghosts|ghosts]] of Gadara.
 
 And then it came back to me, as a curiosity and almost a coincidence,
 that the same strange story had actually been selected as the text
-for the central controversy of the Victorian Age between Christianity
+for the central controversy of the Victorian Age between [[Christianity]]
 and criticism.  The two champions were two of the greatest men
 of the nineteenth century; Huxley representing scientific scepticism
 and Gladstone scriptural orthodoxy.  The scriptural champion
@@ -4828,72 +4828,72 @@ was going, and the probable position of the next generation.
 What he thought indisputable is disputed; and what he thought dead
 is rather too much alive.
 
-Huxley was not only a man of genius in logic and rhetoric; he was
-a man of a very manly and generous morality.  Morally he deserves
+Huxley was not only a man of genius in [[logic]] and rhetoric; he was
+a man of a very manly and generous [[morality]].  Morally he deserves
 much more sympathy than many of the mystics who have supplanted him.
 But they have supplanted him.  In the more mental fashions
 of the day, most of what he thought would stand has fallen,
 and most of what he thought would fall is standing yet.
 In the Gadarene controversy with Gladstone, he announced it
 as his purpose to purge the Christian ideal, which he thought
-self-evidently sublime, of the Christian demonology, which he thought
-self-evidently ridiculous.  And yet if we take any typical man
-of the next generation, we shall very probably find Huxley's sublime
+[[Self|self]]-evidently [[Sublime|sublime]], of the Christian demonology, which he thought
+[[Self|self]]-evidently ridiculous.  And yet if we take any typical man
+of the next generation, we shall very probably find Huxley's [[Sublime|sublime]]
 thing scoffed at, and Huxley's ridiculous thing taken seriously.
-I imagine a very typical child of the age succeeding Huxley's may
+I imagine a very typical [[Child|child]] of the age succeeding Huxley's may
 be found in Mr. George Moore.  He has one of the most critical,
 appreciative and atmospheric talents of the age.  He has lived in most
 of the sets of the age, and through most of the fashions of the age.
-He has held, at one time or another, most of the opinions of the age.
+He has held, at one [[Time|time]] or another, most of the opinions of the age.
 Above all, he has not only thought for himself, but done it
-with peculiar pomp and pride; he would consider himself the freest
+with peculiar pomp and [[Pride|pride]]; he would consider himself the freest
 of all freethinkers.  Let us take him as a type and a test of what has
 really happened to Huxley's analysis of the gold and the dross.
 Huxley quoted as the indestructible ideal the noble passage in Micah,
 beginning "He hath shewed thee, 0 man, that which is good";
 and asked scornfully whether anybody was ever likely to suggest
-that justice was worthless or that mercy was unlovable,
+that justice was worthless or that [[Mercy|mercy]] was unlovable,
 and whether anything would diminish the distance between ourselves
 and the ideals that we reverence.  And yet already, perhaps,
 Mr. George Moore was anticipating Nietzsche, sailing near,
-as he said, "the sunken rocks about the cave of Zarathustra."
+as he said, "the sunken rocks about the [[Cave|cave]] of Zarathustra."
 He said, if I remember right, that Cromwell should be admired
-for his injustice.  He implied that Christ should be condemned,
+for his injustice.  He implied that [[Christ]] should be condemned,
 not because he destroyed the swine, but because he delivered the sick.
-In short he found justice quite worthless and mercy quite unlovable;
-and as for humility and the distance between himself and his ideals,
-he seemed rather to suggest (at this time at least) that his somewhat
+In short he found justice quite worthless and [[Mercy|mercy]] quite unlovable;
+and as for [[Humility|humility]] and the distance between himself and his ideals,
+he seemed rather to suggest (at this [[Time|time]] at least) that his somewhat
 varying ideals were only interesting because they had belonged
 to himself.  Some of this, it is true, was only in the _Confessions
 of a Young Man_; but it is the whole point here that they were then
 the confessions of a young man, and that Huxley's in comparison
-were the confessions of an old man.  The trend of the new time,
+were the confessions of an old man.  The trend of the new [[Time|time]],
 in very varying degrees, was tending to undermine, not merely
 the Christian demonology, not merely the Christian theology,
 not merely the Christian religion, but definitely the Christian
 ethical ideal, which had seemed to the great agnostic as secure
-as the stars.
+as the [[Stars|stars]].
 
-But while the world was mocking the morality he had assumed,
+But while the world was mocking the [[morality]] he had assumed,
 it was bringing back the mysticism he had mocked.  The next phase
-of Mr. George Moore himself, whom I have taken as a type of the time,
+of Mr. George Moore himself, whom I have taken as a type of the [[Time|time]],
 was the serious and sympathetic consideration of Irish mysticism,
 as embodied in Mr. W. B. Yeats.  I have myself heard Mr. Yeats,
-about that time, tell a story, to illustrate how concrete and even
-comic is the reality of the supernatural, saying that he knew
+about that [[Time|time]], tell a story, to illustrate how concrete and even
+comic is the reality of the [[Supernatural|supernatural]], saying that he knew
 a farmer whom the fairies had dragged out of bed and beaten.
 Now suppose Mr. Yeats had told Mr. Moore, then moving in this
 glamorous atmosphere, another story of the same sort.
 Suppose he had said that the farmer's pigs had fallen under
 the displeasure of some magician of the sort he celebrates,
 who had conjured bad fairies into the quadrupeds, so that they
-went in a wild dance down to the village pond.  Would Mr. Moore
+went in a wild [[Dance|dance]] down to the village pond.  Would Mr. Moore
 have thought that story any more incredible than the other?
 Would he have thought it worse than a thousand other things that a
 modern mystic may lawfully believe?  Would he have risen to his feet
 and told Mr. Yeats that all was over between them?  Not a bit of it.
 He would at least have listened with a serious, nay, a solemn face.
-He would think it a grim little grotesque of rustic diablerie,
+He would think it a grim little [[Grotesque|grotesque]] of rustic diablerie,
 a quaint tale of goblins, neither less nor more improbable
 than hundreds of psychic fantasies or farces for which there is
 really a good deal of evidence.  He would be ready to entertain
@@ -4902,15 +4902,15 @@ As for the more vulgar and universal fashions that have followed
 after the Celtic movement, they have left such trifles far behind.
 And they have been directed not by imaginative artists
 like Mr. Yeats or even Mr. Moore, but by solid scientific
-students like Sir William Crookes and Sir Arthur Conan Doyle.
+students like Sir William Crookes and Sir [[Arthur]] Conan Doyle.
 I find it easier to imagine an evil spirit agitating the legs
 of a pig than a good spirit agitating the legs of a table.
 But I will not here enter into the argument, since I am only
 trying to describe the atmosphere.  Whatever has happened in more
 recent years, what Huxley expected has certainly not happened.
-There has been a revolt against Christian morality, and where there
+There has been a revolt against Christian [[morality]], and where there
 has not been a return of Christian mysticism, it has been a return of
-the mysticism without the Christianity.  Mysticism itself has returned,
+the mysticism without the [[Christianity]].  Mysticism itself has returned,
 with all its moons and twilights, its talismans and spells.
 Mysticism itself has returned, and brought with it seven devils
 worse than itself.
@@ -4924,7 +4924,7 @@ defend it, but he would not go out of his way to dwell on it.
 It is an excellent working model of what I mean by finding
 an unexpected support, and finding it in an unexpected quarter.
 It is not theological but psychological study that has brought us
-back into this dark underworld of the soul, where even identity
+back into this dark underworld of the [[Soul|soul]], where even [[Identity|identity]]
 seems to dissolve or divide, and men are not even themselves.
 I do not say that psychologists admit the discovery of demoniacs;
 and if they did they would doubtless call them something else,
@@ -4935,27 +4935,27 @@ from diabolic possession.  And if the dogma of subconsciousness
 allows of agnosticism, the agnosticism cuts both ways.
 A man cannot say there is a part of him of which he is quite unconscious,
 and only conscious that it is not in contact with the unknown.
-He cannot say there is a sealed chamber or cellar under his house,
+He cannot say there is a sealed chamber or cellar under his [[house]],
 of which he knows nothing whatever; but that he is quite certain that it
 cannot have an underground passage leading anywhere else in the world.
 He cannot say he knows nothing whatever about its size or shape
 or appearance, except that it certainly does not contain a relic
 of the finger-joint of St. Catherine of Alexandria, or that it
-certainly is not haunted by the ghost of King Herod Agrippa.
+certainly is not haunted by the [[Ghost|ghost]] of [[King]] Herod Agrippa.
 If there is any sort of legend or tradition or plausible probability
 which says that it is, he cannot call a thing impossible where he is
 not only ignorant but even unconscious.  It comes back therefore
 to the same reality, that the old compact cosmos depended on a
 compact consciousness.  If we are dealing with unknown quantities,
 we cannot deny their connection with other unknown quantities.
-If I have a self of which I can say nothing, how can I even say
-that it is my own self?  How can I even say that I always had it,
+If I have a [[Self|self]] of which I can say nothing, how can I even say
+that it is my own [[Self|self]]?  How can I even say that I always had it,
 or that it did not come from somewhere else?  It is clear that we
 are in very deep waters, whether or no we have rushed down a steep
 place to fall into them.
 
 It will be noted that what we really lack here is not
-the supernatural but only the healthy supernatural.
+the [[Supernatural|supernatural]] but only the healthy [[Supernatural|supernatural]].
 It is not the miracle, but only the miracle of healing.
 I warmly sympathise with those who think most of this rather morbid,
 and nearer the diabolic than the divine, but to call a thing
@@ -4970,12 +4970,12 @@ In the story of Gadara we have left out nothing except the Redeemer,
 we have kept the devils and the swine.
 
 In other words, we have not found St. George; but we have found
-the Dragon.  We have found in the desert, as I have said,
-the bones of the monster we did not believe in, more plainly than
-the footprints of the hero we did.  We have found them not because we
+the Dragon.  We have found in the [[Desert|desert]], as I have said,
+the bones of the [[Monster|monster]] we did not believe in, more plainly than
+the footprints of the [[Hero|hero]] we did.  We have found them not because we
 expected to find them, for our progressive minds look to the promise
 of something much brighter and even better; not because we wanted
-to find them, for our modern mood, as well as our human nature,
+to find them, for our modern mood, as [[Well|well]] as our human [[Nature|nature]],
 is entirely in favour of more amiable and reassuring things;
 not because we thought it even possible to find them, for we really
 thought it impossible so far as we ever thought of it at all.
@@ -4998,12 +4998,12 @@ unreason as far as it will go, seeing whether the brain will crack
 under the conception that space is curved, or that parallel
 straight lines always meet.  And the science of Freud would make it
 essentially impossible to say how far our reason or unreason does go,
-or where it stops.  For if a man is ignorant of his other self,
-how can he possibly know that the other self is ignorant?
-He can no longer say with pride that at least he knows that
+or where it stops.  For if a man is ignorant of his other [[Self|self]],
+how can he possibly know that the other [[Self|self]] is ignorant?
+He can no longer say with [[Pride|pride]] that at least he knows that
 he knows nothing.  That is exactly what he does not know.
 The floor has fallen out of his mind and the abyss below may
-contain subconscious certainties as well as subconscious doubts.
+contain subconscious certainties as [[Well|well]] as subconscious doubts.
 He is too ignorant even to ignore; and he must confess himself
 an agnostic about whether he is an agnostic.
 
@@ -5016,31 +5016,31 @@ But I am not talking of the true relations of reason and mystery,
 but of the historical fact that mystery has invaded the peculiar
 realms of reason; especially the European realms of the motor
 and the telephone.  When we have a man like Mr. William Archer,
-lecturing mystically on dreams and psychoanalysis, and saying
+lecturing mystically on [[Dreams|dreams]] and psychoanalysis, and saying
 it is clear that God did not make man a reasonable creature,
 those acquainted with the traditions and distinguished record
 of that dry and capable Scot will consider the fact a prodigy.
 I confess it never occurred to me that Mr. Archer was of such stuff
-as dreams are made of; and if he is becoming a mystic in his old age
+as [[Dreams|dreams]] are made of; and if he is becoming a mystic in his old age
 (I use the phrase in a mystical and merely relative sense)
 we may take it that the occult oriental flood is rising fast,
 and reaching places that are not only high but dry.
 But the change is much more apparent to a man who has chanced
-to stray into those orient hills where those occult streams
+to stray into those [[Orient|orient]] hills where those occult streams
 have always risen, and especially in this land that lies
 between Asia, where the occult is almost the obvious, and Europe,
 where it is always returning with a fresher and younger vigour.
-The truth becomes strangely luminous in this wilderness between
+The [[Truth|truth]] becomes strangely luminous in this wilderness between
 two worlds, where the rocks stand out stark like the very bones
 of the Dragon.
 
 As I went down that sloping wall or shoulder of the world
-from the Holy City on the mountain to the buried Cities of
+from the Holy [[City]] on the mountain to the buried Cities of
 the Plain, I seemed to see more and more clearly all this Western
 evolution of Eastern mystery, and how on this one high place,
 as on a pivot, the whole purpose of mankind had swerved.
 I took up again the train of thought which I had trailed through
-the desert, as described in the last chapter, about the gods of Asia
+the [[Desert|desert]], as described in the last chapter, about the gods of Asia
 and of the ancient dispensation, and I found it led me along
 these hills to a sort of vista or vision of the new dispensation
 and of Christendom.  Considered objectively, and from the outside,
@@ -5050,113 +5050,113 @@ was undoubtedly, when thus considered, one tribe among many
 tribes worshipping one god among many gods, but it is quite
 as much an evident external fact that the god has become God.
 Still stated objectively, the story is that the tribe having this
-religion produced a new prophet, claiming to be more than a prophet.
-The old religion killed the new prophet; but the new prophet killed
+religion produced a new [[Prophet|prophet]], claiming to be more than a [[Prophet|prophet]].
+The old religion killed the new [[Prophet|prophet]]; but the new [[Prophet|prophet]] killed
 the old religion.  He died to destroy it, and it died in destroying him.
 Now it may be reaffirmed equally realistically that there was nothing
 normal about the case or its consequences.  The things that took part
-in that tragedy have never been the same since, and have never been
+in that [[Tragedy|tragedy]] have never been the same since, and have never been
 like anything else in the world.  The Church is not like other religions;
 its very crimes were unique.  The Jews are not like other races;
 they remain as unique to everybody else as they are to themselves.
 The Roman Empire did not pass like other empires; it did not perish
 like Babylon and Assyria.  It went through a most extraordinary
-remorse amounting to madness and resuscitation into sanity,
-which is equally strange in history whether it seems as ghastly
+remorse amounting to [[Madness|madness]] and resuscitation into [[Sanity|sanity]],
+which is equally strange in [[history]] whether it seems as ghastly
 as a galvanised corpse or as glorious as a god risen from the dead.
-The very land and city are not like other lands and cities.
+The very land and [[City|city]] are not like other lands and cities.
 The concentration and conflict in Jerusalem to-day, whether we
 regard them as a reconquest by Christendom or a conspiracy of Jews
 or a part of the lingering quarrel with Moslems, are alike the effect
 of forces gathered and loosened in that one mysterious moment
-in the history of the city.  They equally proclaim the paradox
+in the [[history]] of the [[City|city]].  They equally proclaim the [[Paradox|paradox]]
 of its insignificance and its importance.
 
-But above all the prophet was not and is not like other prophets;
+But above all the [[Prophet|prophet]] was not and is not like other prophets;
 and the proof of it is to be found not primarily among
 those who believe in him, but among those who do not.
 He is not dead, even where he is denied.  What is the use of a modern
-man saying that Christ is only a thing like Atys or Mithras,
-when the next moment he is reproaching Christianity for not
-following Christ?  He does not suddenly lose his temper and talk
+man saying that [[Christ]] is only a thing like Atys or Mithras,
+when the next moment he is reproaching [[Christianity]] for not
+following [[Christ]]?  He does not suddenly lose his temper and talk
 about our most unmithraic conduct, as he does (very justly as a rule)
 about our most unchristian conduct.  We do not find a group of ardent
 young agnostics, in the middle of a great war, tried as traitors
 for their extravagant interpretation of remarks attributed to Atys.
-It is improbable that Tolstoy wrote a book to prove that all modern
-ills could be cured by literal obedience to all the orders of Adonis.
+It is improbable that [[tolstoy|Tolstoy]] wrote a book to prove that all modern
+ills could be cured by literal obedience to all the orders of [[Adonis]].
 We do not find wild Bolshevists calling themselves Mithraic Socialists
 as many of them call themselves Christian Socialists.  Leaving orthodoxy
-and even sanity entirely on one side, the very heresies and insanities
-of our time prove that after nearly two thousand years the issue
+and even [[Sanity|sanity]] entirely on one side, the very heresies and insanities
+of our [[Time|time]] prove that after nearly two thousand years the issue
 is still living and the name is quite literally one to conjure with.
 Let the critics try to conjure with any of the other names.
 In the real centres of modern inquiry and mental activity,
 they will not move even a mystic with the name of Mithras
 as they will move a materialist with the name of Jesus.
-There are men who deny God and accept Christ.
+There are men who deny God and accept [[Christ]].
 
 But this lingering yet living power in the legend, even for
 those to whom it is little more than a legend, has another
 relevancy to the particular point here.  Jesus of Nazareth,
-merely humanly considered, has thus become a hero of humanitarianism.
+merely humanly considered, has thus become a [[Hero|hero]] of [[Humanitarianism|humanitarianism]].
 Even the eighteenth-century deists in denying his divinity generally
 took pains to exalt his humanity.  Of the nineteenth-century
 revolutionists it is really an understatement to say that they exalted
 him as a man; for indeed they rather exalted him as a superman.
 That is to say, many of them represented him as a man preaching
-a decisively superior and ever strange morality, not only
+a decisively superior and ever strange [[morality]], not only
 in advance of his age but practically in advance of our age.
 They made of his mystical counsels of perfection a sort of Socialism
 or Pacifism or Communism, which they themselves still see rather
 as something that ought to be or that will be; the extreme limit
-of universal love.  I am not discussing here whether they are
+of universal [[Love|love]].  I am not discussing here whether they are
 right or not; I say they have in fact found in the same figure
-a type of humanitarianism and the care for human happiness.
+a type of [[Humanitarianism|humanitarianism]] and the care for human happiness.
 Every one knows the striking and sometimes staggering utterances
 that do really support and illustrate this side of the teaching.
 Modern idealists are naturally moved by such things as the intensely
-poetic paradox about the lilies of the field; which for them has
+poetic [[Paradox|paradox]] about the lilies of the field; which for them has
 a joy in life and living things like that of Shelley or Whitman,
-combined with a return to simplicity beyond that of Tolstoy or Thoreau.
-Indeed I rather wonder that those, whose merely historic or humanistic
+combined with a return to simplicity beyond that of [[tolstoy|Tolstoy]] or Thoreau.
+Indeed I rather [[Wonder|wonder]] that those, whose merely historic or humanistic
 view of the case would allow of such criticism without incongruity,
 have not made some study of the purely poetical or oratorical structure
 of such passages.  Certainly there are few finer examples of the swift
-architecture of style than that single fragment about the flowers;
+architecture of style than that single [[Fragment|fragment]] about the [[Flowers|flowers]];
 the almost idle opening of a chance reference to a wild flower,
 the sudden unfolding of the small purple blossom into pavilions
-and palaces and the great name of the national history; and then with
+and palaces and the great name of the national [[history]]; and then with
 a turn of the hand like a gesture of scorn, the change to the grass
 that to-day is and to-morrow is cast into the oven.  Then follows,
 as so often in the Gospels, the "how much more" which is like a
-celestial flight of stairs, a ladder of imaginative logic.  Indeed this
+celestial flight of stairs, a ladder of imaginative [[logic]].  Indeed this
 _a fortiori_, and this power of thinking on three levels, is (I may
 remark incidentally) a thing very much needed in modern discussion.
 Many minds apparently cannot stretch to three dimensions,
 or to thinking that a cube can go beyond a surface as a surface
 goes beyond a line; for instance, that the citizen is infinitely
-above all ranks, and yet the soul is infinitely above the citizen.
+above all ranks, and yet the [[Soul|soul]] is infinitely above the citizen.
 But we are only concerned at the moment with the sides of this
 many-sided mystery which happen to be really in sympathy with
 the modern mood.  Judged even by our modern tests of emancipated
-art or ideal economics, it is admitted that Christ understood all
+art or ideal economics, it is admitted that [[Christ]] understood all
 that is rather crudely embodied in Socialism or the Simple Life.
 I purposely insist first on this optimistic, I might almost say this
 pantheistic or even this pagan aspect of the Christian Gospels.
-For it is only when we understand that Christ, considered merely
-as a prophet, can be and is a popular leader in the love of natural
+For it is only when we understand that [[Christ]], considered merely
+as a [[Prophet|prophet]], can be and is a popular leader in the [[Love|love]] of natural
 things, that we can feel that tremendous and tragic energy of his
 testimony to an ugly reality, the existence of unnatural things.
 Instead of taking a text as I have done, take a whole Gospel and read
 it steadily and honestly and straight through at a sitting, and you
 will certainly have one impression, whether of a myth or of a man.
-It is that the exorcist towers above the poet and even the prophet;
+It is that the exorcist towers above the poet and even the [[Prophet|prophet]];
 that the story between Cana and Calvary is one long war with demons.
-He understood better than a hundred poets the beauty of
-the flowers of the battle-field; but he came out to battle.
+He understood better than a hundred poets the [[Beauty|beauty]] of
+the [[Flowers|flowers]] of the battle-field; but he came out to battle.
 And if most of his words mean anything they do mean that there
-is at our very feet, like a chasm concealed among the flowers,
+is at our very feet, like a chasm concealed among the [[Flowers|flowers]],
 an unfathomable evil.
 
 In short, I would here only hint delicately that perhaps
@@ -5164,29 +5164,29 @@ the mind which admittedly knew much of what we think we know
 about ethics and economics, knew a little more than we are
 beginning to know about psychology and psychic phenomena.
 I remember reading, not without amusement, a severe and trenchant
-article in the _Hibbert Journal_, in which Christ's admission
-of demonology was alone thought enough to dispose of his divinity.
-The one sentence of the article, which I cherish in my memory
+article in the _Hibbert Journal_, in which [[Christ]]'s admission
+of demonology was [[Alone|alone]] thought enough to dispose of his divinity.
+The one sentence of the article, which I cherish in my [[Memory|memory]]
 through all the changing years, ran thus:  "If he was God,
 he knew there was no such thing as diabolical possession."
 It did not seem to strike the _Hibbert_ critic that this line
-of criticism raises the question, not of whether Christ is God,
+of criticism raises the question, not of whether [[Christ]] is God,
 but of whether the critic in the _Hibbert Journal_ is God.
 About that mystery as about the other I am for the moment agnostic;
 but I should have thought that the meditations of Omniscience
 on the problem of evil might be allowed, even by an agnostic,
-to be a little difficult to discover.  Of Christ in the Gospels
+to be a little difficult to discover.  Of [[Christ]] in the Gospels
 and in modern life I will merely for the moment say this; that if
 he was God, as the critic put it, it seems possible that he knew
-the next discovery in science, as well as the last, not to mention
+the next discovery in science, as [[Well|well]] as the last, not to mention
 (what is more common in rationalistic culture) the last but three.
 And what will be the next discovery in psychological science nobody
 can imagine; and we can only say that if it reveals demons and their
 name is Legion, we can hardly be much surprised now.  But at any rate
 the days are over of Omniscience like that of the _Hibbert_ critic,
 who knows exactly what he would know if he were God Almighty.
-What is pain?  What is evil?  What did they mean by devils?
-What do we mean by madness?  The rising generation, when asked
+What is [[Pain|pain]]?  What is evil?  What did they mean by devils?
+What do we mean by [[Madness|madness]]?  The rising generation, when asked
 by a venerable Victorian critic and catechist, "What does God know?"
 will hardly think it unreasonably flippant to answer, "God knows."
 
@@ -5199,8 +5199,8 @@ subconscious as the subconsciousness about which I was reflecting.
 I had fallen again into the old habit of forgetting where I was going,
 and seeing things with one eye off, in a blind abstraction.
 I awoke from a sort of trance of absentmindedness in a landscape
-that might well awaken anybody.  It might awaken a man sleeping;
-but he would think he was still in a nightmare.  It might wake
+that might [[Well|well]] awaken anybody.  It might awaken a man sleeping;
+but he would think he was still in a [[nightmare]].  It might wake
 the dead, but they would probably think they were in hell.
 Halfway down the slope the hills had taken on a certain pallor which had
 about it something primitive, as if the colours were not yet created.
@@ -5215,29 +5215,29 @@ It was very different in the final stage of the descent, where my mind
 woke up from its meditations.  One can only say that the whole landscape
 was like a leper.  It was of a wasting white and silver and grey,
 with mere dots of decadent vegetation like the green spots of a plague.
-In shape it not only rose into horns and crests like waves
+In shape it not only [[Rose|rose]] into horns and crests like waves
 or clouds, but I believe it actually alters like waves or clouds,
 visibly but with a loathsome slowness.  The swamp is alive.
 And I found again a certain advantage in forgetfulness;
 for I saw all this incredible country before I even remembered
-its name, or the ancient tradition about its nature.
+its name, or the ancient tradition about its [[Nature|nature]].
 Then even the green plague-spots failed, and everything seemed
 to fall away into a universal blank under the staring sun,
 as I came, in the great spaces of the circle of a lifeless sea,
-into the silence of Sodom and Gomorrah.
+into the [[Silence|silence]] of Sodom and Gomorrah.
 
 For these are the foundations of a fallen world, and a sea
 below the seas on which men sail.  Seas move like clouds and
-fishes float like birds above the level of the sunken land.
-And it is here that tradition has laid the tragedy of the mighty
-perversion of the imagination of man; the monstrous birth and death
-of abominable things.  I say such things in no mood of spiritual pride;
+fishes float like [[Birds|birds]] above the level of the sunken land.
+And it is here that tradition has laid the [[Tragedy|tragedy]] of the mighty
+perversion of the [[Imagination|imagination]] of man; the monstrous birth and [[Death|death]]
+of abominable things.  I say such things in no mood of spiritual [[Pride|pride]];
 such things are hideous not because they are distant but because
 they are near to us; in all our brains, certainly in mine,
 were buried things as bad as any buried under that bitter sea,
 and if He did not come to do battle with them, even in the darkness
 of the brain of man, I know not why He came.  Certainly it
-was not only to talk about flowers or to talk about Socialism.
+was not only to talk about [[Flowers|flowers]] or to talk about Socialism.
 The more truly we can see life as a fairy-tale, the more clearly the tale
 resolves itself into war with the Dragon who is wasting fairyland.
 I will not enter on the theology behind the symbol; but I
@@ -5246,7 +5246,7 @@ I remember distinguished men among the liberal theologians,
 who found it more difficult to believe in one devil than in many.
 They admitted in the New Testament an attestation to evil spirits,
 but not to a general enemy of mankind.  As some are said
-to want the drama of Hamlet without the Prince of Denmark,
+to want the drama of [[Hamlet]] without the Prince of [[Denmark]],
 they would have the drama of Hell without the Prince of Darkness.
 I say nothing of these things, save that the language of the
 Gospel seems to me to go much more singly to a single issue.
@@ -5258,17 +5258,17 @@ he did not say in that hour of triumph, "All are aspects of one
 harmonious whole" or "The universe evolves through progress
 to perfection" or "All things find their end in Nirvana"
 or "The dewdrop slips into the shining sea."  He looked up and said,
-"I saw Satan fall like lightning from heaven."
+"I saw [[Satan]] fall like [[Lightning|lightning]] from heaven."
 
-Then I looked up and saw in the long jagged lines of road and rock
+Then I looked up and saw in the long jagged lines of [[Road|road]] and rock
 and cleft something of the swiftness of such a thunderbolt.
 What I saw seemed not so much a scene as an act; as when
-abruptly Michael barred the passage of the Lord of Pride.
+abruptly [[Michael]] barred the passage of the Lord of [[Pride]].
 Below me all the empire of evil was splashed and scattered
 upon the plain, like a wine-cup shattered into a star.
-Sodom lay like Satan, flat upon the floor of the world.  And far away
+Sodom lay like [[Satan]], flat upon the floor of the world.  And far away
 and aloft, faint with height and distance, small but still visible,
-stood up the spire of the Ascension like the sword of the Archangel,
+stood up the spire of the Ascension like the [[Sword|sword]] of the Archangel,
 lifted in salute after a stroke.
 
 = = = = = = = = = = = = = = = =
@@ -5282,16 +5282,16 @@ that popular sayings are false, as that they mean more than they say.
 We cannot appreciate the full force of the phrase until we have
 seen the fact.  We make a picture of the things we do not know
 out of the things we know; and suppose the traveller's tale
-to mean no more abroad than it would at home.  If a man acquainted
+to mean no more abroad than it would at [[Home|home]].  If a man acquainted
 only with English churches is told about certain French churches
 that they are much frequented, he makes an English picture.
 He imagines a definite dense crowd of people in their best
-clothes going all together at eleven o'clock, and all coming back
+clothes going all together at eleven o'[[Clock|clock]], and all coming back
 together to lunch.  He does not picture the peculiar impression
 he would gain on the spot; of chance people going in and out of
 the church all day, sometimes for quite short periods, as if it
 were a sort of sacred inn.  Or suppose a man knowing only English
-beer-shops hears for the first time of a German beer-garden,
+beer-shops hears for the first [[Time|time]] of a German beer-[[Garden|garden]],
 he probably does not imagine the slow ritual of the place.
 He does not know that unless the drinker positively slams down the top
 of his beer-mug with a resounding noise and a decisive gesture,
@@ -5299,9 +5299,9 @@ beer will go on flowing into it as from a natural fountain;
 the drinking of beer being regarded as the normal state of man,
 and the cessation of it a decisive and even dramatic departure.
 I do not give this example in contempt; heaven forbid.
-I have had so much to say of the inhuman side of Prussianised Germany
+I have had so much to say of the inhuman side of Prussianised [[Germany]]
 that I am glad to be able to pay a passing tribute to those more
-generous German traditions which we hope may revive and make Germany
+generous German traditions which we [[Hope|hope]] may revive and make [[Germany]]
 once more a part of Christendom.  I merely give it as an instance
 of the way in which things we have all heard of, like church-going
 or beer-drinking, in foreign lands, mean much more, and something
@@ -5311,9 +5311,9 @@ or temples in the Near East:  "The Bedouins camp in the ruins."
 When I have read a hundred times that Arabs camp in some deserted town
 or temple near the Nile or the Euphrates, I always thought of gipsies
 near some place like Stonehenge.  They would make their own rude shelter
-near the stones, perhaps sheltering behind them to light a fire;
+near the stones, perhaps sheltering behind them to light a [[Fire|fire]];
 and for the rest, generations of gipsies might camp there without
-making much difference.  The thing I saw more than once in Egypt
+making much difference.  The thing I saw more than once in [[Egypt]]
 and Palestine was much more curious.  It was as if the gipsies set
 to work to refurnish Stonehenge and make it a commodious residence.
 It was as if they spread a sort of giant umbrella over the circle
@@ -5322,8 +5322,8 @@ turn the old Druid temple into a sort of patchwork pavilion.
 In one sense there is much more vandalism, and in another sense
 much more practicality; but it is a practicality that always stops
 short of the true creative independence of going off and building
-a house of their own.  That is the attitude of the Arab; and it runs
-through all his history.  Noble as is his masterpiece of the Mosque
+a [[house]] of their own.  That is the attitude of the Arab; and it runs
+through all his [[history]].  Noble as is his masterpiece of the Mosque
 of Omar, there is something about it of that patchwork pavilion.
 It was based on Christian work, it was built with fragments,
 it was content with things that fastidious architects call fictions
@@ -5335,9 +5335,9 @@ an exact cube in form with the most startling incongruity in colour.
 He needs the form and he does not mind the incongruity, nor does
 he mind the fact that somebody else has done the solid part and
 he has only done the ramshackle part.  You can say that he is nobly
-superior to jealousy, or that he is without artistic ambition,
+superior to [[Jealousy|jealousy]], or that he is without artistic [[Ambition|ambition]],
 or that he is too much of a nomad to mind living half in somebody
-else's house and half in his own.  The real quality is probably too
+else's [[house]] and half in his own.  The real quality is probably too
 subtle for any simple praise or blame; we can only say that there
 is in the wandering Moslem a curious kind of limited common sense;
 which might even be called a short-sighted common sense.
@@ -5347,52 +5347,52 @@ That is the note of these nomads in all the things in which they
 have succeeded and failed.  In that sense they are constructive
 and in that sense unconstructive; in that sense artistic and in that
 sense inartistic; in that sense practical and in that sense unpractical;
-in that sense cunning and in that sense innocent.  The curtains they
+in that sense cunning and in that sense [[Innocent|innocent]].  The curtains they
 would hang round Stonehenge might be of beautifully selected colours.
 The banners they waved from Stonehenge might be defended with glorious
-courage and enthusiasm.  The prayers they recited in Stonehenge
+[[Courage|courage]] and enthusiasm.  The prayers they recited in Stonehenge
 might be essentially worthy of human dignity, and certainly a great
 improvement on its older associations of human sacrifice.  All this
-is true of Islam and the idolatries and negations are often replaced.
+is true of [[Islam]] and the idolatries and negations are often replaced.
 But they would not have built Stonehenge; they would scarcely,
 so to speak, have troubled to lift a stone of Stonehenge.
 They would not have built Stonehenge; how much less Salisbury
-or Glastonbury or Lincoln.
+or Glastonbury or [[Lincoln]].
 
 That is the element about the Arab influence which makes it,
-after its ages of supremacy and in a sense of success, remain in a
+after its ages of supremacy and in a sense of [[success]], remain in a
 subtle manner superficial.  When a man first sees the Eastern deserts,
 he sees this influence as I first described it, very present
 and powerful, almost omnipresent and omnipotent.  But I fancy that to me
 and to others it is partly striking only because it is strange.
-Islam is so different to Christendom that to see it at all is at
+[[Islam]] is so different to Christendom that to see it at all is at
 first like entering a new world.  But, in my own case at any rate,
 as the strange colours became more customary, and especially as I saw
-more of the established seats of history, the cities and the framework
+more of the established seats of [[history]], the cities and the framework
 of the different states, I became conscious of something else.
 It was something underneath, undestroyed and even in a sense unaltered.
 It was something neither Moslem nor modern; not merely oriental and yet
 very different from the new occidental nations from which I came.
-For a long time I could not put a name to this historical atmosphere.
+For a long [[Time|time]] I could not put a name to this historical atmosphere.
 Then one day, standing in one of the Greek churches, one of those houses
 of gold full of hard highly coloured pictures, I fancied it came to me.
 It was the Empire.  And certainly not the raid of Asiatic bandits
 we call the Turkish Empire.  The thing which had caught my eye
 in that coloured interior was the carving of a two-headed eagle
-in such a position as to make it almost as symbolic as a cross.
-Every one has heard, of course, of the situation which this might well
+in such a position as to make it almost as symbolic as a [[Cross|cross]].
+Every one has heard, of course, of the situation which this might [[Well|well]]
 suggest, the suggestion that the Russian Church was far too much of an
-Established Church and the White Czar encroached upon the White Christ.
+Established Church and the White Czar encroached upon the White [[Christ]].
 But as a fact the eagle I saw was not borrowed from the Russian Empire;
 it would be truer to say that the Empire was borrowed from the eagle.
-The double eagle is the ancient emblem of the double empire of Rome
+The [[Double|double]] eagle is the ancient emblem of the [[Double|double]] empire of Rome
 and of Byzantium; the one head looking to the west and the other to
 the east, as if it spread its wings from the sunrise to the sunset.
-Unless I am mistaken, it was only associated with Russia as late
+Unless I am mistaken, it was only associated with [[Russia]] as late
 as Peter the Great, though it had been the badge of Austria
 as the representative of the Holy Roman Empire.  And what I
 felt brooding over that shrine and that landscape was something
-older not only than Turkey or Russia but than Austria itself.
+older not only than Turkey or [[Russia]] but than Austria itself.
 I began to understand a sort of evening light that lies over
 Palestine and Syria; a sense of smooth ruts of custom such
 as are said to give a dignity to the civilisation of China.
@@ -5419,9 +5419,9 @@ and Caesar my lord was at Byzantium.
 
 But it is necessary to remember next that this empire was not
 always at its evening.  Byzantium was not always Byzantine.
-Nor was the seat of that power always in the city of Constantine,
-which was primarily a mere outpost of the city of Caesar.
-We must remember Rome as well as Byzantium; as indeed
+Nor was the seat of that power always in the [[City|city]] of Constantine,
+which was primarily a mere outpost of the [[City|city]] of Caesar.
+We must remember Rome as [[Well|well]] as Byzantium; as indeed
 nobody would remember Byzantium if it were not for Rome.
 The more I saw of a hundred little things the more my mind revolved
 round that original idea which may be called the Mediterranean;
@@ -5434,30 +5434,30 @@ we may say that in certain cases the word Roman actually means Greek.
 The Greek Patriarch is sometimes called the Roman Patriarch;
 while the real Roman Patriarch, who actually comes from Rome, is only
 called the Latin Patriarch, as if he came from any little town in Latium.
-The truth behind this confusion is the truth about five hundred
+The [[Truth|truth]] behind this confusion is the [[Truth|truth]] about five hundred
 very vital years, which are concealed even from cultivated Englishmen
 by two vague falsehoods; the notion that the Roman Empire was merely
 decadent and the notion that the Middle Ages were merely dark.
 As a fact, even the Dark Ages were not merely dark.
 And even the Byzantine Empire was not merely Byzantine.
 It seems a little unfair that we should take the very title
-of decay from that Christian city, for surely it was yet
-more stiff and sterile when it had become a Moslem city.
+of [[Decay|decay]] from that Christian [[City|city]], for surely it was yet
+more stiff and sterile when it had become a Moslem [[City|city]].
 I am not so exacting as to ask any one to popularise such a word
 as "Constantinopolitan." But it would surely be a better word for
 stiffness and sterility to call it Stamboulish.  But for the Moslems
 and other men of the Near East what counted about Byzantium was
 that it still inherited the huge weight of the name of Rome.
-Rome had come east and reared against them this Roman city,
+Rome had come east and reared against them this Roman [[City|city]],
 and though and priest or soldier who came out of it might be
 speaking as a Greek, he was ruling as a Roman.  Its critics in
 these days of criticism may regard it as a corrupt civilisation.
 But its enemies in the day of battle only regarded it as civilisation.
 Saladin, the greatest of the Saracens, did not call Greek bishops
 degenerate dreamers or dingy outcasts, he called them, with a
-sounder historical instinct, "The monks of the imperial race."
-The survival of the word merely means that even when the imperial
-city fell behind them, they did not surrender their claim
+sounder historical instinct, "The [[Monks|monks]] of the imperial race."
+The [[Survival|survival]] of the word merely means that even when the imperial
+[[City|city]] fell behind them, they did not surrender their claim
 to defy all Asia in the name of the Christian Emperor.
 That is but one example out of twenty, but that is why in this
 distant place to this day the Greeks who are separated from the see
@@ -5471,17 +5471,17 @@ race from the north can be disposed of by the simple question:
 why did not the Teutonic race make them in the north?
 Why was not the Parthenon originally built in the neighbourhood
 of Potsdam, or did ten Hansa towns compete to be the birthplace
-of Homer?  Perhaps they do by this time; but their local illusion
+of Homer?  Perhaps they do by this [[Time|time]]; but their local illusion
 is no longer largely shared.  Anyhow it seems strange that the roads
 of the Romans should be due to the inspiration of the Teutons;
 and that parliaments should begin in Spain because they came
-from Germany.  If I looked about in these parts for a local emblem
-like that of the eagle, I might very well find it in the lion.
-The lion is common enough, of course, in Christian art both
+from [[Germany]].  If I looked about in these parts for a local emblem
+like that of the eagle, I might very [[Well|well]] find it in the [[Lion|lion]].
+The [[Lion|lion]] is common enough, of course, in Christian art both
 hagiological and heraldic.  Besides the cavern of Bethlehem of which I
 shall speak presently, is the cavern of St. Jerome, where he lived
-with that real or legendary lion who was drawn by the delicate
-humour of Carpaccio and a hundred other religious painters.
+with that real or legendary [[Lion|lion]] who was drawn by the delicate
+[[Humour|humour]] of Carpaccio and a hundred other religious painters.
 That it should appear in Christian art is natural; that it should
 appear in Moslem art is much more singular, seeing that Moslems
 are in theory forbidden so to carve images of living things.
@@ -5492,35 +5492,35 @@ and the best judges seem to agree that, like so much of the Saracenic
 shell of Zion, they were partly at least copied from the shields
 and crests of the Crusaders.
 
-And the lions graven over the gate of St. Stephen might well be
+And the lions graven over the gate of St. Stephen might [[Well|well]] be
 the text for a whole book on the subject.  For if they indicate,
 however indirectly, the presence of the Latins of the twelfth century,
 they also indicate the earlier sources from which the Latin life had
 itself been drawn.  The two lions are pacing, passant as the heralds
 would say, in two opposite directions almost as if prowling to and fro.
-And this also might well be symbolic as well as heraldic.
-For if the Crusaders brought the lion southward in spite of
+And this also might [[Well|well]] be symbolic as [[Well|well]] as heraldic.
+For if the Crusaders brought the [[Lion|lion]] southward in spite of
 the conventional fancy of Moslem decoration, it was only because
-the Romans had previously brought the lion northward to the cold
-seas and the savage forests.  The image of the lion came from north
-to south, only because the idea of the lion had long ago come
-from south to north.  The Christian had a symbolic lion he had
-never seen, and the Moslem had a real lion that he refused to draw.
+the Romans had previously brought the [[Lion|lion]] northward to the cold
+seas and the savage forests.  The image of the [[Lion|lion]] came from north
+to south, only because the idea of the [[Lion|lion]] had long ago come
+from south to north.  The Christian had a symbolic [[Lion|lion]] he had
+never seen, and the Moslem had a real [[Lion|lion]] that he refused to draw.
 For we could deduce from the case of this single creature
 the fact that all our civilisation came from the Mediterranean,
 and the folly of pretending that it came from the North Sea.
 Those two heraldic shapes over the gate may be borrowed from the Norman
 or Angevin shield now quartered in the Royal Arms of England.  They may
-have been copied, directly or indirectly, from that great Angevin King
-of England whose title credited him with the heart of a lion.
+have been copied, directly or indirectly, from that great Angevin [[King]]
+of England whose title credited him with the heart of a [[Lion|lion]].
 They may have in some far-off fashion the same ancestry as the boast
-or jest of our own comic papers when they talk about the British Lion.
+or jest of our own comic papers when they talk about the British [[Lion]].
 But why are there lions, though of French or feudal origin,
-on the flag of England?  There might as well be camels or crocodiles,
+on the [[Flag|flag]] of England?  There might as [[Well|well]] be camels or crocodiles,
 for all the apparent connection with England or with France.
-Why was an English king described as having the heart of a lion, any more
+Why was an English [[King|king]] described as having the heart of a [[Lion|lion]], any more
 than of a tiger?  Why do your patriotic cartoons threaten the world
-with the wrath of the British Lion; it is really as strange as if they
+with the wrath of the British [[Lion]]; it is really as strange as if they
 warned it against stimulating the rage of the British rhinoceros.
 Why did not the French and English princes find in the wild boars,
 that were the objects of their hunting, the subjects of their heraldry?
@@ -5534,36 +5534,36 @@ of John Bull is foreign.  The surname comes through France from Rome;
 and the Christian name comes through Rome from Palestine.  If there
 had really been any justification for the Teutonic generalisation,
 we should expect the surname to be "ox" and not "bull"; and we should
-expect the hero standing as godfather to be Odin or Siegfried, and not
-the prophet who lived on locusts in the wilderness of Palestine or the
+expect the [[Hero|hero]] standing as godfather to be Odin or Siegfried, and not
+the [[Prophet|prophet]] who lived on locusts in the wilderness of Palestine or the
 mystic who mused with his burning eyes on the blue seas around Patmos.
-If our national hero is John Bull and not Olaf the Ox, it is ultimately
+If our national [[Hero|hero]] is John Bull and not Olaf the Ox, it is ultimately
 because that blue sea has run like a blue thread through all the
 tapestries of our traditions; or in other words because our culture,
 like that of France or Flanders, came originally from the Mediterranean.
 And if this is true of our use of the word "bull," it is obviously
-even truer of our use of the word "lion." The later emblem is enough
+even truer of our use of the word "[[Lion|lion]]." The later emblem is enough
 to show that the culture came, not only from the Mediterranean,
-but from the southern as well as the northern side of the Mediterranean.
+but from the southern as [[Well|well]] as the northern side of the Mediterranean.
 In other words, the Roman Empire ran all round the great inland sea;
 the very name of which meant, not merely the sea in the middle of
 the land, but more especially the sea in the middle of all the lands
 that mattered most to civilisation.  One of these, and the one
 that in the long run has mattered most of all, was Palestine.
 
-In this lies the deepest difference between a man like Richard
-the Lion Heart and any of the countless modern English soldiers
-in Palestine who have been quite as lion-hearted as he.
+In this lies the deepest difference between a man like [[Richard]]
+the [[Lion]] Heart and any of the countless modern English soldiers
+in Palestine who have been quite as [[Lion|lion]]-hearted as he.
 His superiority was not moral but intellectual; it consisted in
 knowing where he was and why he was there.  It arose from the fact
-that in his time there remained a sort of memory of the Roman Empire,
+that in his [[Time|time]] there remained a sort of [[Memory|memory]] of the Roman Empire,
 which some would have re-established as a Holy Roman Empire.
-Christendom was still almost one commonwealth; and it seemed to Richard
+Christendom was still almost one commonwealth; and it seemed to [[Richard]]
 quite natural to go from one edge of it that happened to be called
 England to the opposite edge of it that happened to be called Palestine.
 We may think him right or wrong in the particular quarrel,
-we may think him innocent or unscrupulous in his incidental methods;
-but there is next to no doubt whatever that he did regard
+we may think him [[Innocent|innocent]] or unscrupulous in his incidental methods;
+but there is next to no [[Doubt|doubt]] whatever that he did regard
 himself not merely as conquering but as re-conquering a realm.
 He was not like a man attacking total strangers on a hitherto
 undiscovered island.  He was not opening up a new country,
@@ -5575,10 +5575,10 @@ if our modern educational system is further expanded and enforced,
 the whole of the past of Palestine may be entirely forgotten;
 and a traveller in happier days may have all the fresher sentiments
 of one stepping on a new and nameless soil.  Disregarding any dim
-and lingering legends among the natives, he may then have the honour
+and lingering legends among the natives, he may then have the [[Honour|honour]]
 of calling Sinai by the name of Mount Higgins, or marking on
 a new map the site of Bethlehem with the name of Brownsville.
-But King Richard, adventurous as he was, could not experience the full
+But [[King]] [[Richard]], adventurous as he was, could not experience the full
 freshness of this sort of adventure.  He was not riding into Asia thus
 romantically and at random; indeed he was not riding into Asia at all.
 He was riding into Europa Irredenta.
@@ -5596,10 +5596,10 @@ I meant a curious impression that, in these Eastern provinces,
 though the Empire had been more defeated it has been less disturbed.
 There is a greater clarity in that ancient air; and fewer clouds of real
 revolution and novelty have come between them and their ancient sun.
-This may seem an enigma and a paradox; seeing that here a foreign
+This may seem [[An Enigma|an enigma]] and a [[Paradox|paradox]]; seeing that here a foreign
 religion has successfully fought and ruled.  But indeed the enigma
 is also the explanation.  In the East the continuity of culture
-has only been interrupted by negative things that Islam has done.
+has only been interrupted by negative things that [[Islam]] has done.
 In the West it has been interrupted by positive things that
 Christendom itself has done.  In the West the past of Christendom
 has its perspective blocked up by its own creations; in the East
@@ -5607,25 +5607,25 @@ it is a true perspective of interminable corridors, with round
 Byzantine arches and proud Byzantine pillars.  That, I incline
 to fancy, is the real difference that a man come from the west
 of Europe feels in the east of Europe, it is a gap or a void.
-It is the absence of the grotesque energy of Gothic, the absence
+It is the absence of the [[Grotesque|grotesque]] energy of Gothic, the absence
 of the experiments of parliament and popular representation,
 the absence of medieval chivalry, the absence of modern nationality.
 In the East the civilisation lived on, or if you will, lingered on;
-in the West it died and was reborn.  But for a long time, it should
+in the West it died and was reborn.  But for a long [[Time|time]], it should
 be remembered, it must have seemed to the East merely that it died.
 The realms of Rome had disappeared in clouds of barbaric war,
 while the realms of Byzantium were still golden and gorgeous in the sun.
 The men of the East did not realise that their splendour was stiffening
-and growing sterile, and even the early successes of Islam may not
+and growing sterile, and even the early successes of [[Islam]] may not
 have revealed to them that their rule was not only stiff but brittle.
 It was something else that was destined to reveal it.
-The Crusades meant many things; but in this matter they meant one thing,
-which was like a word carried to them on the great west wind.
-And the word was like that in an old Irish song:  "The west is awake."
+The [[Crusades]] meant many things; but in this matter they meant one thing,
+which was like a word carried to them on the great west [[Wind|wind]].
+And the word was like that in an old Irish [[Song|song]]:  "The west is awake."
 They heard in the distance the cries of unknown crowds and felt
 the earth shaking with the march of mobs; and behind them came
 the trampling of horses and the noise of harness and of horns of war;
-new kings calling out commands and hosts of young men full of hope
+new kings calling out commands and hosts of young men full of [[Hope|hope]]
 crying out in the old Roman tongue "Id Deus vult," Rome was risen
 from the dead.
 
@@ -5642,12 +5642,12 @@ Bethlehem contains something impossible to describe, yet driving
 me beyond expression to a desperate attempt at description.
 The church is entered through a door so small that it it might fairly
 be called a hole, in which many have seen, and I think truly,
-a symbol of some idea of humility.  It is also said that the wall
+a symbol of some idea of [[Humility|humility]].  It is also said that the wall
 was pierced in this way to prevent the appearance of a camel
 during divine service, but even that explanation would only repeat
-the same suggestion through the parable of the needle's eye.
+the same suggestion through the [[Parable|parable]] of the needle's eye.
 Personally I should guess that, in so far as the purpose was practical,
-it was meant to keep out much more dangerous animals than camels,
+it was meant to keep out much more dangerous [[Animals|animals]] than camels,
 as, for instance, Turks.  For the whole church has clearly been
 turned into a fortress, windows are bricked up and walls thickened
 in some or all of its thousand years of religious war.  In the blank
@@ -5657,9 +5657,9 @@ in the strange interlude between the decline of Rome and the rise
 of Mahomet.  For when the Persians who had destroyed Jerusalem rode
 out in triumph to the village of Bethlehem, they looked up and saw
 above the door a picture in coloured stone, a picture of themselves.
-They were following a strange star and worshipping an unknown child.
-For a Christian artist, following some ancient Eastern tradition
-containing an eternal truth, had drawn the three wise men with
+They were following a strange star and worshipping an unknown [[Child|child]].
+For a Christian [[artist]], following some ancient Eastern tradition
+containing an eternal [[Truth|truth]], had drawn the three wise men with
 the long robes and high head-dresses of Persia.  The worshippers
 of the sun had come westward for the worship of the star.
 But whether that part of the church were bare and bald as it is
@@ -5673,25 +5673,25 @@ with the acanthus in the manner of the Corinthian school.
 They were carved and set up at the command of Constantine;
 and beyond them, at the other end of the church beside the altar,
 is the dark stairway that descends under the canopies of rock
-to the stable where Christ was born.
+to the stable where [[Christ]] was born.
 
 Of all the things I have seen the most convincing, and as it
 were crushing, were these red columns of Constantine.
 In explanation of the sentiment there are a thousand things that want
 saying and cannot be said.  Never have I felt so vividly the great
-fact of our history; that the Christian religion is like a huge
-bridge across a boundless sea, which alone connects us with the men
+fact of our [[history]]; that the Christian religion is like a huge
+bridge across a boundless sea, which [[Alone|alone]] connects us with the men
 who made the world, and yet have utterly vanished from the world.
-To put it curtly and very crudely on this point alone it was
+To put it curtly and very crudely on this point [[Alone|alone]] it was
 possible to sympathise with a Roman and not merely to admire him.
-All his pagan remains are but sublime fossils; for we can never know
+All his pagan remains are but [[Sublime|sublime]] fossils; for we can never know
 the life that was in them.  We know that here and there was a temple
-to Venus or there an altar to Vesta; but who knows or pretends to know
-what he really felt about Venus or Vesta?  Was a Vestal Virgin
+to [[Venus]] or there an altar to Vesta; but who knows or pretends to know
+what he really felt about [[Venus]] or Vesta?  Was a Vestal Virgin
 like a Christian Virgin, or something profoundly different?
-Was he quite serious about Venus, like a diabolist, or merely frivolous
-about Venus, like a Christian?  If the spirit was different from ours
-we cannot hope to understand it, and if the spirit was like ours,
+Was he quite serious about [[Venus]], like a [[diabolist]], or merely frivolous
+about [[Venus]], like a Christian?  If the spirit was different from ours
+we cannot [[Hope|hope]] to understand it, and if the spirit was like ours,
 the spirit was expressed in images that no longer express it.
 But it is here that he and I meet; and salute the same images
 in the end.
@@ -5704,15 +5704,15 @@ Here halted that imperial civilisation, when it had marched in triumph
 through the whole world; here in the evening of its days it came
 trailing in all its panoply in the pathway of the three kings.
 For it came following not only a falling but a fallen star and one
-that dived before them into a birthplace darker than a grave.
+that dived before them into a birthplace darker than a [[Grave|grave]].
 And the lord of the laurels, clad in his sombre crimson, looked down
-into that darkness, and then looked up, and saw that all the stars
+into that darkness, and then looked up, and saw that all the [[Stars|stars]]
 in his own sky were dead.  They were deities no longer but only
-a brilliant dust, scattered down the vain void of Lucretius.
-The stars were as stale as they were strong; they would never die
+a brilliant [[Dust|dust]], scattered down the vain void of Lucretius.
+The [[Stars|stars]] were as stale as they were strong; they would never die
 for they had never lived; they were cursed with an incurable
-immortality that was but the extension of mortality; they were
-chained in the chains of causation and unchangeable as the dead.
+[[Immortality|immortality]] that was but the extension of [[Mortality|mortality]]; they were
+chained in the [[Chains|chains]] of causation and unchangeable as the dead.
 There are not many men in the modern world who do not know that mood,
 though it was not discovered by the moderns; it was the final and
 seemingly fixed mood of nearly all the ancients.  Only above the black
@@ -5743,39 +5743,39 @@ by a man who can tell a story without seeing the point of
 the story, considered as a story or even considered as a lie.
 And a man who sees the rags and the royal purple as a clumsy
 inconsistency is merely missing the meaning of a deliberate design.
-He is like a man who should hear the story of King Cophetua and the beggar
+He is like a man who should hear the story of [[King]] Cophetua and the beggar
 maid and say doubtfully that it was hard to recognise it as really _a
 mariage de convenance_; a phrase which (I may remark in parenthesis but
-not without passion) is not the French for "a marriage of convenience,"
+not without passion) is not the French for "a [[Marriage|marriage]] of convenience,"
 any more than _hors d'oeuvre_ is the French for "out of work";
 but may be more rightly rendered in English as "a suitable match."
-But nobody thought the match of the king and the beggar maid
+But nobody thought the match of the [[King|king]] and the beggar maid
 conventionally a suitable match; and nobody would ever have
 thought the story worth telling if it had been.  It is like saying
 that Diogenes, remaining in his tub after the offer of Alexander,
 must have been unaware of the opportunities of Greek architecture;
 or like saying that Nebuchadnezzar eating grass is clearly inconsistent
-with court etiquette, or not to be found in any fashionable cookery book.
+with [[Court|court]] etiquette, or not to be found in any fashionable cookery book.
 I do not mind the learned sceptic saying it is a legend or a lie;
 but I weep for him when he cannot see the gist of it, I might even
 say the joke of it.  I do not object to his rejecting the story
 as a tall story; but I find it deplorable when he cannot see
 the point or end or upshot of the tall story, the very pinnacle
-or spire of that sublime tower.
+or spire of that [[Sublime|sublime]] tower.
 
-This dull type of doubt clouds the consideration of many
+This dull type of [[Doubt|doubt]] clouds the consideration of many
 sacred things as it does that of the shrine of Bethlehem.
 It is applied to the divine reality of Bethlehem itself,
 as when sceptics still sneer at the littleness, the localism,
 the provincial particularity and obscurity of that divine origin;
 as if Christians could be confounded and silenced by a contrast
-which Christians in ten thousand hymns, songs and sermons have
+which Christians in ten thousand hymns, [[songs]] and sermons have
 incessantly shouted and proclaimed.  In this capital case, of course,
 the same principle holds.  A man may think the tale is incredible;
 but it would never have been told at all if it had not been incongruous.
 But this particular case of the lesser contrast, that between the imperial
-pomp and the rustic poverty of the carpenter and the shepherds,
-is alone enough to illustrate the strange artistic fallacy involved.
+pomp and the rustic [[Poverty|poverty]] of the carpenter and the shepherds,
+is [[Alone|alone]] enough to illustrate the strange artistic fallacy involved.
 If it be the point that an emperor came to worship a carpenter,
 it is as artistically necessary to make the emperor imperial
 as to make the carpenter humble; if we wish to make plain to plain
@@ -5785,19 +5785,19 @@ the shepherds should have crooks.  And if modern intellectuals
 do not know it, it is because nobody has really been mad enough
 even to try to make modern intellectualism popular.  Now this
 conception of pomp as a popular thing, this conception of a concession
-to common human nature in colour and symbol, has a considerable
+to common human [[Nature|nature]] in colour and symbol, has a considerable
 bearing on many misunderstandings about the original enthusiasm
-that spread from the cave of Bethlehem over the whole Roman Empire.
+that spread from the [[Cave|cave]] of Bethlehem over the whole Roman Empire.
 It is a curious fact that the moderns have mostly rebuked
-historic Christianity, not for being narrow, but for being broad.
-They have rebuked it because it did prove itself the desire of
+historic [[Christianity]], not for being narrow, but for being broad.
+They have rebuked it because it did prove itself the [[Desire|desire]] of
 all nations, because it did satisfy the cravings of many creeds,
-because it did prove itself to idolaters as something as magic
+because it did prove itself to idolaters as something as [[Magic|magic]]
 as their idols, or did prove itself to patriots something as lovable
 as their native land.  In many other matters indeed, besides this
 popular art, we may find examples of the same illogical prejudice.
 Nothing betrays more curiously the bias of historians against
-the Christian faith than the fact that they blame in Christians
+the Christian [[Faith|faith]] than the fact that they blame in Christians
 the very human indulgences that they have praised in heathens.
 The same arts and allegories, the same phraseologies and philosophies,
 which appear first as proofs of heathen health turn up later
@@ -5808,23 +5808,23 @@ the grandeur that was Rome, but the Church was infamous because it
 satisfied the Greek intellect and wielded the Roman power.
 
 Now on the first example of the attempt of theology to meet
-the claims of philosophy I will not here dwell at length.
+the claims of [[philosophy]] I will not here dwell at length.
 I will only remark in passing that it is an utter fallacy
 to suggest, as for instance Mr. Wells suggests in his fascinating
 _Outline of History_, that the subtleties of theology were
 a mere falling away from the simplicities of religion.
 Religion may be better simple for those who find it simple;
 but there are bound to be many who in any case find it subtle,
-among those who think about it and especially those who doubt about it.
+among those who think about it and especially those who [[Doubt|doubt]] about it.
 To take an example, there is no saying which the humanitarians
 of a broad religion more commonly offer as a model of simplicity
-than that most mystical affirmation "God is Love."  And there is
+than that most mystical affirmation "God is [[Love]]."  And there is
 no theological quarrel of the Councils of the Church which they,
 especially Mr. Wells, more commonly deride as bitter and barren than
-that at the Council of Nicea about the Co-eternity of the Divine Son.
+that at the Council of Nicea about the Co-[[Eternity|eternity]] of the Divine Son.
 Yet the subtle statement is simply a metaphysical explanation
 of the simple statement; and it would be quite possible even to
-make it a popular explanation, by saying that God could not love
+make it a popular explanation, by saying that God could not [[Love|love]]
 when there was nothing to be loved.  Now the Church Councils
 were originally very popular, not to say riotous assemblies.
 So far from being undemocratic, they were rather too democratic;
@@ -5837,23 +5837,23 @@ and that the traces of it have finally tended to fade from the
 official religion of the East.  It was far otherwise with the more
 poetical and therefore more practical religion of the West.
 It was far otherwise with that direct appeal to pathos and affection
-in the highly coloured picture of the Shepherd and the King.
+in the highly coloured picture of the Shepherd and the [[King]].
 In the West the world not only prolonged its life but recovered
 its youth.  That is the meaning of the movement I have described
-as the awakening of the West and the resurrection of Rome.
+as the awakening of the West and the [[Resurrection|resurrection]] of Rome.
 And the whole point of that movement, as I propose to suggest,
 was that it was a popular movement.  It had returned with exactly
 that strange and simple energy that belongs to the story of Bethlehem.
 Not in vain had Constantine come clad in purple to look down into
-that dark cave at his feet; nor did the star mislead him when it seemed
+that dark [[Cave|cave]] at his feet; nor did the star mislead him when it seemed
 to end in the entrails of the earth.  The men who followed him passed on,
 as it were, through the low and vaulted tunnel of the Dark Ages;
 but they had found the way, and the only way, out of that world
-of death, and their journey ended in the land of the living.
+of [[Death|death]], and their [[Journey|journey]] ended in the land of the living.
 They came out into a world more wonderful than the eyes of men
 have looked on before or after; they heard the hammers of hundreds
 of happy craftsmen working for once according to their own will,
-and saw St. Francis walking with his halo a cloud of birds.
+and saw St. Francis walking with his halo a cloud of [[Birds|birds]].
 
 = = = = = = = = = = = = = = = =
 
@@ -5863,10 +5863,10 @@ THE MEANING OF THE CRUSADE
 
 There are three examples of Western work on the great eastern slope
 of the Mount of Olives; and they form a sort of triangle illustrating
-the truth about the different influences of the West on the East.
-At the foot of the hill is the garden kept by the Franciscans
+the [[Truth|truth]] about the different influences of the West on the East.
+At the foot of the [[Hill|hill]] is the [[Garden|garden]] kept by the Franciscans
 on the alleged site of Gethsemane, and containing the hoary olive
-that is supposed to be the terrible tree of the agony of Christ.
+that is supposed to be the terrible tree of the agony of [[Christ]].
 Given the great age and slow growth of the olives, the tradition
 is not so unreasonable as some may suppose.  But whether or not it
 is historically right, it is not artistically wrong.  The instinct,
@@ -5880,9 +5880,9 @@ like a grotto than a tree.  Hence it does not seem so unnatural
 that it should be treated as a holy grotto; or that this strange
 vegetation should claim to stand for ever like a sculptured monument.
 Even the shimmering or shivering silver foliage of the living
-olive might well have a legend like that of the aspen; as if it
-had grown grey with fear from the apocalyptic paradox of a divine
-vision of death.  A child from one of the villages said to me,
+olive might [[Well|well]] have a legend like that of the aspen; as if it
+had grown grey with [[Fear|fear]] from the apocalyptic [[Paradox|paradox]] of a divine
+vision of [[Death|death]].  A [[Child|child]] from one of the villages said to me,
 in broken English, that it was the place where God said his prayers.
 I for one could not ask for a finer or more defiant statement
 of all that separates the Christian from the Moslem or the Jew;
@@ -5891,17 +5891,17 @@ _credo quia impossibile_.
 Around this terrible spot the Franciscans have done something which will
 strike many good and thoughtful people as quite fantastically inadequate;
 and which strikes me as fantastically but precisely right.
-They have laid out the garden simply as a garden, in a way
+They have laid out the [[Garden|garden]] simply as a [[Garden|garden]], in a way
 that is completely natural because it is completely artificial.
-They have made flower-beds in the shape of stars and moons,
-and coloured them with flowers like those in the backyard of a cottage.
+They have made flower-beds in the shape of [[Stars|stars]] and moons,
+and coloured them with [[Flowers|flowers]] like those in the backyard of a cottage.
 The combination of these bright patterns in the sunshine
-with the awful shadow in the centre is certainly an incongruity
+with the awful [[Shadow|shadow]] in the centre is certainly an incongruity
 in the sense of a contrast.  But it is a poetical contrast,
-like that of birds building in a temple or flowers growing on a tomb.
+like that of [[Birds|birds]] building in a temple or [[Flowers|flowers]] growing on a tomb.
 The best way of suggesting what I for one feel about it would
 be something like this; suppose we imagine a company of children,
-such as those whom Christ blessed in Jerusalem, afterwards put
+such as those whom [[Christ]] blessed in Jerusalem, afterwards put
 permanently in charge of a field full of his sorrow; it is probable that,
 if they could do anything with it, they would do something like this.
 They might cut it up into quaint shapes and dot it with red
@@ -5910,52 +5910,52 @@ is anything better that grown up people could do, since anything
 that the greatest of them could do must be, must look quite as small.
 "Shall I, the gnat that dances in Thy ray, dare to be reverent?"
 The Franciscans have not dared to be reverent; they have only dared
-to be cheerful.  It may be too awful an adventure of the imagination
-to imagine Christ in that garden.  But there is not the smallest
+to be cheerful.  It may be too awful an adventure of the [[Imagination|imagination]]
+to imagine [[Christ]] in that [[Garden|garden]].  But there is not the smallest
 difficulty about imagining St. Francis there; and that is something
 to say of an institution which is eight hundred years old.
 
-Immediately above this little garden, overshadowing and almost
+Immediately above this little [[Garden|garden]], overshadowing and almost
 overhanging it, is a gorgeous gilded building with golden domes
 and minarets glittering in the sun, and filling a splendid situation
 with almost shameless splendour; the Russian church built over
-the upper part of the garden, belonging to the Orthodox-Greeks.
+the upper part of the [[Garden|garden]], belonging to the Orthodox-Greeks.
 Here again many Western travellers will be troubled; and will think
 that golden building much too like a fairy palace in a pantomime.
 But here again I shall differ from them, though perhaps less strongly.
 It may be that the pleasure is childish rather than childlike;
-but I can imagine a child clapping his hands at the mere sight
+but I can imagine a [[Child|child]] clapping his hands at the mere sight
 of those great domes like bubbles of gold against the blue sky.
 It is a little like Aladdin's Palace, but it has a place in art
 as Aladdin has a place in literature; especially since it is
 oriental literature.  Those wise missionaries in China who were not
 afraid to depict the Twelve Apostles in the costume of Chinamen
 might have built such a church in a land of glittering mosques.
-And as it is said that the Russian has in him something of the child
+And as it is said that the Russian has in him something of the [[Child|child]]
 and something of the oriental, such a style may be quite sincere,
 and have even a certain simplicity in its splendour.
 It is genuine of its kind; it was built for those who like it;
 and those who do not like it can look at something else.  This sort
 of thing may be called tawdry, but it is not what I call meretricious.
-What I call really meretricious can be found yet higher on the hill;
+What I call really meretricious can be found yet higher on the [[Hill|hill]];
 towering to the sky and dominating all the valleys.
 
-The nature of the difference, I think, is worth noting.
+The [[Nature|nature]] of the difference, I think, is worth noting.
 The German Hospice, which served as a sort of palace for the
 German Emperor, is a very big building with a very high tower,
 planned I believe with great efficiency, solidity and comfort,
 and fitted with a thousand things that mark its modernity
-compared with the things around, with the quaint garden
+compared with the things around, with the quaint [[Garden|garden]]
 of the Franciscans or the fantastic temple of the Russians.
 It is what I can only describe as a handsome building; rather as
 the more vulgar of the Victorian wits used to talk about a fine woman.
 By calling it a handsome building I mean that from the top of its dizzy
-tower to the bottom of its deepest foundations there is not one line
-or one tint of beauty.  This negative fact, however, would be nothing;
-it might be honestly ugly and utilitarian like a factory or a prison;
+tower to the [[Bottom|bottom]] of its deepest foundations there is not one line
+or one tint of [[Beauty|beauty]].  This negative fact, however, would be nothing;
+it might be honestly ugly and utilitarian like a factory or a [[Prison|prison]];
 but it is not.  It is as pretentious as the gilded dome below it;
 and it is pretentious in a wicked way where the other is pretentious
-in a good and innocent way.  What annoys me about it is that it
+in a good and [[Innocent|innocent]] way.  What annoys me about it is that it
 was not built by children, or even by savages, but by professors;
 and the professors could profess the art and could not practise it.
 The architects knew everything about a Romanesque building except
@@ -5965,7 +5965,7 @@ the world, to do this one particular thing; and then did it wrong.
 They did it wrong, not through superstition, not through fanatical
 exaggeration, not through provincial ignorance, but through pure,
 profound, internal, intellectual incompetence; that intellectual
-incompetence which so often goes with intellectual pride.
+incompetence which so often goes with intellectual [[Pride|pride]].
 I will mention only one matter out of a hundred.  All the columns
 in the Kaiser's Chapel are in one way very suitable to their place;
 every one of them has a swelled head.  The column itself is slender
@@ -5986,7 +5986,7 @@ And to all this is added the intolerable intuition; that the Russians
 and the Franciscans, even if we credit them with fantastic ignorance,
 are at least looking up at the sky; and we know how the learned
 Germans would look down upon them, from their monstrous tower
-upon the hill.
+upon the [[Hill|hill]].
 
 And this is as true of the moral as of the artistic elements
 in the modern Jerusalem.  To show that I am not unjustly partisan,
@@ -5997,7 +5997,7 @@ practice to include a figure of the founder in such church decorations.
 The real example of that startling moral stupidity which marked
 the barbaric imperialism can be found in another figure of which,
 curiously enough, considerably less notice seems to have been taken.
-It is the more remarkable because it is but an artistic shadow of
+It is the more remarkable because it is but an artistic [[Shadow|shadow]] of
 the actual fact; and merely records in outline and relief the temporary
 masquerade in which the man walked about in broad daylight.
 I mean the really astounding trick of dressing himself up as a Crusader.
@@ -6012,20 +6012,20 @@ and supremacy of the Turks.  In other words, he came to
 Jerusalem solely because the Crusaders had lost Jerusalem;
 he came there solely because the Crusaders had been routed,
 ruined, butchered before and after the disaster of Hattin:
-because the Cross had gone down in blood before the Crescent,
-under which alone he could ride in with safety.  Under those
+because the [[Cross]] had gone down in [[Blood|blood]] before the Crescent,
+under which [[Alone|alone]] he could ride in with safety.  Under those
 circumstances to dress up as a Crusader, as if for a fancy dress ball,
-was a mixture of madness and vulgarity which literally stops the breath.
+was a mixture of [[Madness|madness]] and vulgarity which literally stops the breath.
 There is no need whatever to blame him for being in alliance with
 the Turks; hundreds of people have been in alliance with the Turks;
 the English especially have been far too much in alliance with them.
 But if any one wants to appreciate the true difference, distinct from all
 the cant of newspaper nationality, between the English and the Germans
-(who were classed together by the same newspapers a little time
+(who were classed together by the same newspapers a little [[Time|time]]
 before the war) let him take this single incident as a test.
 Lord Palmerston, for instance, was a firm friend of the Turks.
 Imagine Lord Palmerston appearing in chain mail and the shield
-of a Red Cross Knight.
+of a Red [[Cross]] Knight.
 
 It is obvious enough that Palmerston would have said that he cared
 no more for the Crusade than for the Siege of Troy; that his diplomacy
@@ -6033,84 +6033,84 @@ was directed by practical patriotic considerations of the moment;
 and that he regarded the religious wars of the twelfth century
 as a rubbish heap of remote superstitions.  In this he would be
 quite wrong, but quite intelligible and quite sincere; an English
-aristocrat of the nineteenth century inheriting from the English
+[[aristocrat]] of the nineteenth century inheriting from the English
 aristocrats of the eighteenth century; whose views were simply
-those of Voltaire.  And these things are something of an allegory.
-For the Voltairian version of the Crusades is still by far
-the most reasonable of all merely hostile views of the Crusades.
+those of Voltaire.  And these things are something of an [[Allegory|allegory]].
+For the Voltairian version of the [[Crusades]] is still by far
+the most reasonable of all merely hostile views of the [[Crusades]].
 If they were not a creative movement of religion, then they were
 simply a destructive movement of superstition; and whether we agree
 with Voltaire in calling it superstition or with Villehardouin in
 calling it religion, at least both these very clear-headed Frenchmen
 would agree that the motive did exist and did explain the facts.
 But just as there is a clumsy German building with statues that at once
-patronise and parody the Crusaders, so there is a clumsy German theory
-that at once patronises and minimises the Crusades.  According to this
-theory the essential truth about a Crusade was that it was not a Crusade.
+patronise and [[Parody|parody]] the Crusaders, so there is a clumsy German theory
+that at once patronises and minimises the [[Crusades]].  According to this
+theory the essential [[Truth|truth]] about a Crusade was that it was not a Crusade.
 It was something that the professors, in the old days before the war,
 used to call a Teutonic Folk-Wandering. Godfrey and St. Louis
-were not, as Villehardouin would say, fighting for the truth;
+were not, as Villehardouin would say, fighting for the [[Truth|truth]];
 they were not even, as Voltaire would say, fighting for what they
-thought was the truth; this was only what they thought they thought,
+thought was the [[Truth|truth]]; this was only what they thought they thought,
 and they were really thinking of something entirely different.
 They were not moved either by piety or priestcraft, but by a new
-and unexpected nomadism.  They were not inspired either by faith
-or fanaticism, but by an unusually aimless taste for foreign travel.
+and unexpected nomadism.  They were not inspired either by [[Faith|faith]]
+or [[Fanaticism|fanaticism]], but by an unusually aimless taste for foreign travel.
 This theory that the war of the two great religions could be
 explained by "Wanderlust" was current about twenty years ago among
-the historical professors of Germany, and with many of their other views,
+the historical professors of [[Germany]], and with many of their other views,
 was often accepted by the historical professors of England.
 It was swallowed by an earthquake, along with other rubbish,
 in the year 1914.
 
 Since then, so far as I know, the only person who has been
 patient enough to dig it up again is Mr. Ezra Pound.
-He is well known as an American poet; and he is, I believe,
+He is [[Well|well]] known as an American poet; and he is, I believe,
 a man of great talent and information.  His attempt to recover
 the old Teutonic theory of the Folk-Wandering of Peter the Hermit
 was expressed, however, in prose; in an article in the _New Age_.
-I have no reason to doubt that he was to be counted among the most
+I have no reason to [[Doubt|doubt]] that he was to be counted among the most
 loyal of our allies; but he is evidently one of those who,
 quite without being Pro-German, still manage to be German.
 The Teutonic theory was very Teutonic; like the German Hospice
-on the hill it was put together with great care and knowledge
-and it is rotten from top to bottom.  I do not understand,
+on the [[Hill|hill]] it was put together with great care and knowledge
+and it is rotten from top to [[Bottom|bottom]].  I do not understand,
 for that matter, why that alliance which we enjoy with Mr. Pound
 should not be treated in the same way as the other historical event;
 or why the war should not be an example of the Wanderlust.
 Surely the American Army in France must have drifted eastward merely
 through the same vague nomadic need as the Christian Army in Palestine.
-Surely Pershing as well as Peter the Hermit was merely a rather restless
+Surely Pershing as [[Well|well]] as Peter the Hermit was merely a rather restless
 gentleman who found his health improved by frequent change of scene.
 The Americans said, and perhaps thought, that they were fighting
-for democracy; and the Crusaders said, and perhaps thought,
-that they were fighting for Christianity.  But as we know what
+for [[Democracy|democracy]]; and the Crusaders said, and perhaps thought,
+that they were fighting for [[Christianity]].  But as we know what
 the Crusaders meant better than they did themselves, I cannot
 quite understand why we do not enjoy the same valuable omniscience
 about the Americans.  Indeed I do not see why we should not enjoy it
 (for it would be very enjoyable) about any individual American.
 Surely it was this vague vagabond spirit that moved Mr. Pound,
 not only to come to England, but in a fashion to come to Fleet Street.
-A dim tribal tendency, vast and invisible as the wind, carried him
-and his article like an autumn leaf to alight on the _New Age_ doorstep.
+A dim tribal tendency, vast and invisible as the [[Wind|wind]], carried him
+and his article like an [[Autumn|autumn]] leaf to alight on the _New Age_ doorstep.
 Or a blind aboriginal impulse, wholly without rational motive,
 led him one day to put on his hat, and go out with his article
 in an envelope and put it in a pillar-box. It is vain to correct
-by cold logic the power of such primitive appetites; nature herself
+by cold [[logic]] the power of such primitive appetites; [[Nature|nature]] herself
 was behind the seemingly random thoughtlessness of the deed.
 And now that it is irrevocably done, he can look back on it and trace
 the large lines of an awful law of averages; wherein it is ruled
 by a ruthless necessity that a certain number of such Americans
-should write a certain number of such articles, as the leaves fall
-or the flowers return.
+should write a certain number of such articles, as the [[Leaves|leaves]] fall
+or the [[Flowers|flowers]] return.
 
 In plain words, this sort of theory is a blasphemy against
-the intellectual dignity of man.  It is a blunder as well as
+the intellectual dignity of man.  It is a blunder as [[Well|well]] as
 a blasphemy; for it goes miles out of its way to find a bestial
 explanation when there is obviously a human explanation.
-It is as if a man told me that a dim survival of the instincts of a
+It is as if a man told me that a dim [[Survival|survival]] of the instincts of a
 quadruped was the reason of my sitting on a chair with four legs.
-I answer that I do it because I foresee that there may be grave
+I answer that I do it because I foresee that there may be [[Grave|grave]]
 disadvantages in sitting on a chair with one leg.  Or it is as if I
 were told that I liked to swim in the sea, solely because some early
 forms of amphibian life came out of the sea on to the shore.
@@ -6120,7 +6120,7 @@ to swim on the land.  In short this sort of vague evolutionary
 theorising simply amounts to finding an unconvincing explanation
 of something that needs no explanation.  And the case is really quite
 as simple with great political and religious movements by which man
-has from time to time changed the world in this or that respect
+has from [[Time|time]] to [[Time|time]] changed the world in this or that respect
 in which he happened to think it would be the better for a change.
 The Crusade was a religious movement, but it was also a perfectly
 rational movement; one might almost say a rationalist movement.
@@ -6136,12 +6136,12 @@ I for one have often defended and even encouraged patriotic war,
 and should always be ready to defend and encourage patriotic passion.
 But it cannot be denied that there is more of mere passion,
 of mere preference and prejudice, in short of mere personal accident,
-in fighting another nation than in fighting another faith.
+in fighting another nation than in fighting another [[Faith|faith]].
 The Crusader is in every sense more rational than the modern
 conscript or professional soldier.  He is more rational in
 his object, which is the intelligent and intelligible object
-of conversion; where the modern militarist has an object much
-more confused by momentary vanity and one-sided satisfaction.
+of [[Conversion|conversion]]; where the modern militarist has an object much
+more confused by momentary [[Vanity|vanity]] and one-sided satisfaction.
 The Crusader wished to make Jerusalem a Christian town;
 but the Englishman does not wish to make Berlin an English town.
 He has only a healthy hatred of it as a Prussian town.
@@ -6151,16 +6151,16 @@ He only wished to make the Frenchman admire a Prussian;
 and not only were the means he adopted somewhat ill-considered for
 this purpose, but the purpose itself is looser and more irrational.
 The object of all war is peace; but the object of religious
-war is mental as well as material peace; it is agreement.
+war is mental as [[Well|well]] as material peace; it is agreement.
 In short religious war aims ultimately at equality, where national
-war aims relatively at superiority.  Conversion is the one sort
+war aims relatively at superiority.  [[Conversion]] is the one sort
 of conquest in which the conquered must rejoice.
 
-In that sense alone it is foolish for us in the West to sneer
+In that sense [[Alone|alone]] it is foolish for us in the West to sneer
 at those who kill men when a foot is set in a holy place,
 when we ourselves kill hundreds of thousands when a foot is put
 across a frontier.  It is absurd for us to despise those who shed
-blood for a relic when we have shed rivers of blood for a rag.
+[[Blood|blood]] for a relic when we have shed rivers of [[Blood|blood]] for a rag.
 But above all the Crusade, or, for that matter, the Jehad,
 is by far the most philosophical sort of fighting, not only
 in its conception of ending the difference, but in its mere act
@@ -6170,10 +6170,10 @@ and his religion does not matter.  It is to say he is affected
 by the town he lives in, but not by the world he lives in.
 It is to say that he is altered when he is a fellow-citizen walking
 under new lamp-posts, but not altered when he is another creature walking
-under strange stars.  It is exactly as if we were to say that two people
-ought to live in the same house, but it need not be in the same town.
+under strange [[Stars|stars]].  It is exactly as if we were to say that two people
+ought to live in the same [[house]], but it need not be in the same town.
 It is exactly as if we said that so long as the address included
-York it did not matter whether it was New York; or that so long
+York it did not matter whether it was [[New York]]; or that so long
 as a man is in Essex we do not care whether he is in England.
 
 Christendom would have been entirely justified in the abstract
@@ -6187,31 +6187,31 @@ but about our much more doubtful possession of enjoyment;
 not about the fiscal divisions between us and foreigners
 but about the spiritual divisions even between us and friends.
 These are the things that differ profoundly with differing views
-of the ultimate nature of the universe.  For the things of our country
+of the ultimate [[Nature|nature]] of the universe.  For the things of our country
 are often distant; but the things of our cosmos are always near;
 we can shut our doors upon the wheeled traffic of our native town;
 but in our own inmost chamber we hear the sound that never ceases;
-that wheel which Dante and a popular proverb have dared
-to christen as the love that makes the world go round.
-For this is the great paradox of life; that there are not only
+that [[Wheel|wheel]] which [[Dante]] and a popular proverb have dared
+to christen as the [[Love|love]] that makes the world go round.
+For this is the great [[Paradox|paradox]] of life; that there are not only
 wheels within wheels, but the larger wheels within the smaller.
-When a whole community rests on one conception of life and death
+When a whole community rests on one conception of life and [[Death|death]]
 and the origin of things, it is quite entitled to watch the rise
 of another community founded on another conception as the rise
 of something certain to be different and likely to be hostile.
 Indeed, as I have pointed out touching certain political theories,
-we already admit this truth in its small and questionable examples.
+we already admit this [[Truth|truth]] in its small and questionable examples.
 We only deny the large and obvious examples.
 
 Christendom might quite reasonably have been alarmed if it had not
-been attacked.  But as a matter of history it had been attacked.
+been attacked.  But as a matter of [[history]] it had been attacked.
 The Crusader would have been quite justified in suspecting the Moslem
 even if the Moslem had merely been a new stranger; but as a matter
-of history he was already an old enemy.  The critic of the Crusade
+of [[history]] he was already an old enemy.  The critic of the Crusade
 talks as if it had sought out some inoffensive tribe or temple in the
 interior of Thibet, which was never discovered until it was invaded.
 They seem entirely to forget that long before the Crusaders had dreamed
-of riding to Jerusalem, the Moslems had almost ridden into Paris.
+of riding to Jerusalem, the Moslems had almost ridden into [[Paris]].
 They seem to forget that if the Crusaders nearly conquered Palestine,
 it was but a return upon the Moslems who had nearly conquered Europe.
 There was no need for them to argue by an appeal to reason, as I
@@ -6233,20 +6233,20 @@ of an animal.  But a man so intelligent would not have made a mistake
 so extraordinary but for another error which it is here very essential
 to consider.  To suggest that men engaged, rightly or wrongly,
 in so logical a military and political operation were only migrating
-like birds or swarming like bees is as ridiculous as to say that
-the Prohibition campaign in America was only an animal reversion
-towards lapping as the dog lappeth, or Rowland Hill's introduction
+like [[Birds|birds]] or swarming like [[Bees|bees]] is as ridiculous as to say that
+the Prohibition campaign in [[America]] was only an animal reversion
+towards lapping as the dog lappeth, or Rowland [[Hill]]'s introduction
 of postage stamps an animal taste for licking as the cat licks.
 Why should we provide other people with a remote reason for their
 own actions, when they themselves are ready to tell us the reason,
 and it is a perfectly reasonable reason?
 
-I have compared this pompous imposture of scientific history to
+I have compared this pompous imposture of scientific [[history]] to
 the pompous and clumsy building of the scientific Germans on the Mount
 of Olives, because it substitutes in the same way a modern stupidity
 for the medieval simplicity.  But just as the German Hospice after
 all stands on a fine site, and might have been a fine building,
-so there is after all another truth, somewhat analogous,
+so there is after all another [[Truth|truth]], somewhat analogous,
 which the German historians of the Folk-Wanderings might possibly
 have meant, as distinct from all that they have actually said.
 There is indeed one respect in which the case of the Crusade does
@@ -6261,22 +6261,22 @@ but rather the revolutionary spirit.
 
 The First Crusade was not a racial migration; it was something much
 more intellectual and dignified; a riot.  In order to understand this
-religious war we must class it, not so much with the wars of history
-as with the revolutions of history.  As I shall try to show briefly
+religious war we must class it, not so much with the wars of [[history]]
+as with the revolutions of [[history]].  As I shall try to show briefly
 on a later page, it not only had all the peculiar good and the peculiar
-evil of things like the French Revolution or the Russian Revolution,
+evil of things like the [[French Revolution]] or the Russian Revolution,
 but it was a more purely popular revolution than either of them.
 The truly modern mind will of course regard the contention that it
 was popular as tantamount to a confession that it was animal.
 In these days when papers and speeches are full of words like
-democracy and self-determination, anything really resembling
+[[Democracy|democracy]] and [[Self|self]]-determination, anything really resembling
 the movement of a mass of angry men is regarded as no better than
 a stampede of bulls or a scurry of rats.  The new sociologists
 call it the herd instinct, just as the old reactionaries called it
 the many-headed beast.  But both agree in implying that it is hardly
 worth while to count how many head there are of such cattle.
 In face of such fashionable comparisons it will seem comparatively
-mild to talk of migration as it occurs among birds or insects.
+mild to talk of migration as it occurs among [[Birds|birds]] or [[Insects|insects]].
 Nevertheless we may venture to state with some confidence
 that both the sociologists and the reactionaries are wrong.
 It does not follow that human beings become less than human because their
@@ -6285,19 +6285,19 @@ are mindless solely from the fact that they are all of one mind.
 In plain fact the virtues of a mob cannot be found in a herd
 of bulls or a pack of wolves, any more than the crimes of a mob
 can be committed by a flock of sheep or a shoal of herrings.
-Birds have never been known to besiege and capture an empty cage
+[[Birds]] have never been known to besiege and capture an empty cage
 of an aviary, on a point of principle, merely because it had kept a few
-other birds in captivity, as the mob besieged and captured the almost
+other [[Birds|birds]] in captivity, as the mob besieged and captured the almost
 empty Bastille, merely because it was the fortress of a historic tyranny.
 And rats have never been known to die by thousands merely in order
 to visit a particular trap in which a particular rat had perished,
 as the poor peasants of the First Crusade died in thousands for a
-far-off sight of the Sepulchre or a fragment of the true cross.
+far-off sight of the Sepulchre or a [[Fragment|fragment]] of the true [[Cross|cross]].
 In this sense indeed the Crusade was not rationalistic, if the rat
 is the only rationalist.  But it will seem more truly rational
 to point out that the inspiration of such a crowd is not in such
-instincts as we share with the animals, but precisely in such ideas
-as the animals never (with all their virtues) understand.
+instincts as we share with the [[Animals|animals]], but precisely in such ideas
+as the [[Animals|animals]] never (with all their virtues) understand.
 
 What is peculiar about the First Crusade is that it was in quite
 a new and abnormal sense a popular movement.  I might almost say
@@ -6305,26 +6305,26 @@ it was the only popular movement there ever was in the world.
 For it was not a thing which the populace followed; it was actually
 a thing which the populace led.  It was not only essentially
 a revolution, but it was the only revolution I know of in which
-the masses began by acting alone, and practically without any
+the masses began by acting [[Alone|alone]], and practically without any
 support from any of the classes.  When they had acted, the classes
 came in; and it is perfectly true, and indeed only natural,
-that the masses alone failed where the two together succeeded.
+that the masses [[Alone|alone]] failed where the two together succeeded.
 But it was the uneducated who educated the educated.
 The case of the Crusade is emphatically not a case in which certain
 ideas were first suggested by a few philosophers, and then preached
-by demagogues to the democracy.  This was to a great extent true
-of the French Revolution; it was probably yet more true of the
+by demagogues to the [[Democracy|democracy]].  This was to a great extent true
+of the [[French Revolution]]; it was probably yet more true of the
 Russian Revolution; and we need not here pause upon the fine shade
 of difference that Rousseau was right and Karl Marx was wrong.
 In the First Crusade it was the ordinary man who was right or wrong.
 He came out in a fury at the insult to his own little images or
 private prayers, as if he had come out to fight with his own domestic
 poker or private carving-knife. He was not armed with new weapons
-of wit and logic served round from the arsenal of an academy.
-There was any amount of wit and logic in the academies of the Middle Ages;
-but the typical leader of the Crusade was not Abelard or Aquinas
+of wit and [[logic]] served round from the arsenal of an academy.
+There was any amount of wit and [[logic]] in the academies of the Middle Ages;
+but the typical leader of the Crusade was not Abelard or [[aquinas|Aquinas]]
 but Peter the Hermit, who can hardly be called even a popular leader,
-but rather a popular flag.  And it was his army, or rather
+but rather a popular [[Flag|flag]].  And it was his army, or rather
 his enormous rabble, that first marched across the world to die
 for the deliverance of Jerusalem.
 
@@ -6353,17 +6353,17 @@ a course which naturally fills modern society with an anger verging
 on alarm.  A perversity leads me to weep rather more over the many
 slaughtered peasants than over the few slaughtered usurers;
 but in any case the peasants certainly were not slaughtered in vain.
-The common conscience of all classes, in a time when all had
+The common [[Conscience|conscience]] of all classes, in a [[Time|time]] when all had
 a common creed, was aroused, and a new army followed of a very
 different type of skill and training; led by most of the ablest
 captains and by some of the most chivalrous gentlemen of the age.
 For curiously enough, the host contained more than one cultured
 gentleman who was as simple a Christian as any peasant,
 and as recklessly ready to be butchered or tortured for the mere
-name of Christ.
+name of [[Christ]].
 
-It is a tag of the materialists that the truth about history
-rubs away the romance of history.  It is dear to the modern mind
+It is a tag of the materialists that the [[Truth|truth]] about [[history]]
+rubs away the [[Romance|romance]] of [[history]].  It is dear to the modern mind
 because it is depressing; but it does not happen to be true.
 Nothing emerges more clearly from a study that is truly realistic,
 than the curious fact that romantic people were really romantic.
@@ -6373,30 +6373,30 @@ Godfrey de Bouillon, to have been merely a brutal baron.
 The historical facts are all in favour of his having been much
 more like a knight of the Round Table.  In fact he was a far
 better man than most of the knights of the Round Table, in whose
-characters the fabulist, knowing that he was writing a fable,
-was tactful enough to introduce a larger admixture of vice.  Truth is
+characters the fabulist, knowing that he was writing a [[Fable|fable]],
+was tactful enough to introduce a larger admixture of vice.  [[Truth]] is
 not only stranger than fiction, but often saintlier than fiction.
-For truth is real, while fiction is bound to be realistic.
+For [[Truth|truth]] is real, while fiction is bound to be realistic.
 Curiously enough Godfrey seems to have been heroic even in those
 admirable accidents which are generally and perhaps rightly regarded
 as the trappings of fiction.  Thus he was of heroic stature,
 a handsome red-bearded man of great personal strength and daring;
 and he was himself the first man over the wall of Jerusalem,
-like any boy hero in a boy's adventure story.  But he was also,
+like any boy [[Hero|hero]] in a boy's adventure story.  But he was also,
 the realist will be surprised to hear, a perfectly honest man,
 and a perfectly genuine practiser of the theoretical magnanimity
 of knighthood.  Everything about him suggests it; from his first
-conversion from the imperial to the papal (and popular) cause, to his
-great refusal of the kinghood of the city he had taken; "I will
-not wear a crown of gold where my Master wore a crown of thorns."
+[[Conversion|conversion]] from the imperial to the papal (and popular) cause, to his
+great refusal of the kinghood of the [[City|city]] he had taken; "I will
+not wear a [[Crown|crown]] of gold where my Master wore a [[Crown|crown]] of thorns."
 He was a just ruler, and the laws he made were full of the plainest
 public spirit.  But even if we dismiss all that was written
 of him by Christian chroniclers because they might be his friends
 (which would be a pathetic and exaggerated compliment to the harmonious
-unity of Crusaders and of Christians) he would still remain
+[[unity]] of Crusaders and of Christians) he would still remain
 sufficiently assoiled and crowned with the words of his enemies.
 For a Saracen chronicler wrote of him, with a fine simplicity,
-that if all truth and honour had otherwise withered off the earth,
+that if all [[Truth|truth]] and [[Honour|honour]] had otherwise withered off the earth,
 there would still remain enough of them so long as Duke Godfrey was alive.
 
 Allied with Godfrey were Tancred the Italian, Raymond of Toulouse
@@ -6415,170 +6415,170 @@ wail together, the importance of the demagogue, Peter the Hermit,
 in spite of his unmilitary character, and the wide differences between
 the designs of the leaders and the actions of the rank and file.
 It was a crowd of rude and simple men that cast themselves
-on the sacred dust at the first sight of the little mountain
+on the sacred [[Dust|dust]] at the first sight of the little mountain
 town which they had tramped for two thousand miles to see.
 Tancred saw it first from the slope by the village of Bethlehem,
 which had opened its gates willingly to his hundred Italian knights;
 for Bethlehem then as now was an island of Christendom in the sea
-of Islam.  Meanwhile Godfrey came up the road from Jaffa,
+of [[Islam]].  Meanwhile Godfrey came up the [[Road|road]] from Jaffa,
 and crossing the mountain ridge, saw also with his living eyes
-his vision of the world's desire.  But the poorest men about him
-probably felt the same as he; all ranks knelt together in the dust,
+his vision of the world's [[Desire|desire]].  But the poorest men about him
+probably felt the same as he; all ranks knelt together in the [[Dust|dust]],
 and the whole story is one wave of numberless and nameless men.
-It was a mob that had risen like a man for the faith.
-It was a mob that had truly been tortured like a man for the faith.
-It was already transfigured by pain as well as passion.
-Those that know war in those deserts through the summer months,
+It was a mob that had risen like a man for the [[Faith|faith]].
+It was a mob that had truly been tortured like a man for the [[Faith|faith]].
+It was already transfigured by [[Pain|pain]] as [[Well|well]] as passion.
+Those that know war in those deserts through the [[Summer|summer]] months,
 even with modern supplies and appliances and modern maps and calculations,
 know that it could only be described as a hell full of heroes.
 What it must have been to those little local serfs and peasants from
 the Northern villages, who had never dreamed in nightmares of such
 landscapes or such a sun, who knew not how men lived at all in such
 a furnace and could neither guess the alleviations nor get them,
-is beyond the imagination of man.  They arrived dying with thirst,
+is beyond the [[Imagination|imagination]] of man.  They arrived dying with thirst,
 dropping with weariness, lamenting the loss of the dead that rotted
-along their road; they arrived shrivelled to rags or already raving
+along their [[Road|road]]; they arrived shrivelled to rags or already raving
 with fever and they did what they had come to do.
 
-Above all, it is clear that they had the vices as well as the virtues
+Above all, it is clear that they had the vices as [[Well|well]] as the virtues
 of a mob.  The shocking massacre in which they indulged in the sudden
-relaxation of success is quite obviously a massacre by a mob.
+relaxation of [[success]] is quite obviously a massacre by a mob.
 It is all the more profoundly revolutionary because it must have
 been for the most part a French mob.  It was of the same order
-as the Massacre of September, and it is but a part of the same truth
-that the First Crusade was as revolutionary as the French Revolution.
+as the Massacre of September, and it is but a part of the same [[Truth|truth]]
+that the First Crusade was as revolutionary as the [[French Revolution]].
 It was of the same order as the Massacre of St. Bartholomew,
-which was also a piece of purely popular fanaticism, directed
+which was also a piece of purely popular [[Fanaticism|fanaticism]], directed
 against what was also regarded as an anti-national aristocracy.
-It is practically self-evident that the Christian commanders were
+It is practically [[Self|self]]-evident that the Christian commanders were
 opposed to it, and tried to stop it.  Tancred promised their lives
 to the Moslems in the mosque, but the mob clearly disregarded him.
 Raymond of Toulouse himself saved those in the Tower of David,
 and managed to send them safely with their property to Ascalon.
-But revolution with all its evil as well as its good was loose
-and raging in the streets of the Holy City.  And in nothing do we
+But revolution with all its evil as [[Well|well]] as its good was loose
+and raging in the streets of the Holy [[City]].  And in nothing do we
 see that spirit of revolution more clearly than in the sight
 of all those peasants and serfs and vassals, in that one wild
-moment in revolt, not only against the conquered lords of Islam,
+moment in revolt, not only against the conquered lords of [[Islam]],
 but even against the conquering lords of Christendom.
 
 The whole strain of the siege indeed had been one of high and even
 horrible excitement.  Those who tell us to-day about the psychology
 of the crowd will agree that men who have so suffered and so succeeded
 are not normal; that their brains are in a dreadful balance which may
-turn either way.  They entered the city at last in a mood in which they
-might all have become monks; and instead they all became murderers.
+turn either way.  They entered the [[City|city]] at last in a mood in which they
+might all have become [[Monks|monks]]; and instead they all became murderers.
 A brilliant general, who played a decisive part in our own recent
-Palestinian campaign, told me with a sort of grim humour that he hardly
+Palestinian campaign, told me with a sort of grim [[Humour|humour]] that he hardly
 wondered at the story; for he himself had entered Jerusalem in a sort
 of fury of disappointment; "We went through such a hell to get there,
 and now it's spoilt for all of us."  Such is the heavy irony that
-hangs over our human nature, making it enter the Holy City as if it
-were the Heavenly City, and more than any earthly city can be.
+hangs over our human [[Nature|nature]], making it enter the Holy [[City]] as if it
+were the Heavenly [[City]], and more than any earthly [[City|city]] can be.
 But the struggle which led to the scaling of Jerusalem in the
 First Crusade was something much wilder and more incalculable than
-anything that can be conceived in modern war.  We can hardly wonder
+anything that can be conceived in modern war.  We can hardly [[Wonder|wonder]]
 that the crusading crowd saw the town in front of them as a sort
 of tower full of demons, and the hills around them as an enchanted
 and accursed land.  For in one very real sense it really was so;
 for all the elements and expedients were alike unknown qualities.
-All their enemies' methods were secrets sprung upon them.
+All their enemies' methods were [[Secrets|secrets]] sprung upon them.
 All their own methods were new things made out of nothing.
 They wondered alike what would be done on the other side and what
 could be done on their own side; every movement against them
 was a stab out of the darkness and every movement they made
 was a leap in the dark.  First, on the one side, we have Tancred
-trying to take the whole fortified city by climbing up a single
+trying to take the whole fortified [[City|city]] by climbing up a single
 slender ladder, as if a man tried to lasso the peak of a mountain.
 Then we have the flinging from the turrets of a strange
-and frightful fiery rain, as if water itself had caught fire.
-It was afterwards known as the Greek Fire and was probably petroleum;
-but to those who had never seen (or felt) it before it may well have
+and frightful fiery rain, as if [[Water|water]] itself had caught [[Fire|fire]].
+It was afterwards known as the Greek [[Fire]] and was probably petroleum;
+but to those who had never seen (or felt) it before it may [[Well|well]] have
 seemed the flaming oil of witchcraft.  Then Godfrey and the wiser
 of the warriors set about to build wooden siege-towers and found
 they had next to no wood to build them.  There was scarcely anything
-in that rocky waste but the dwarf trees of olive; a poetic fantasy
+in that rocky waste but the [[Dwarf|dwarf]] trees of olive; a poetic fantasy
 woven about that war in after ages described them as hindered
 even in their wood-cutting by the demons of that weird place.
-And indeed the fancy had an essential truth, for the very nature
-of the land fought against them; and each of those dwarf trees,
-hard and hollow and twisted, may well have seemed like a grinning goblin.
+And indeed the fancy had an essential [[Truth|truth]], for the very [[Nature|nature]]
+of the land fought against them; and each of those [[Dwarf|dwarf]] trees,
+hard and hollow and twisted, may [[Well|well]] have seemed like a grinning goblin.
 It is said that they found timbers by accident in a cavern;
 they tore down the beams from ruined houses; at last they got into touch
 with some craftsmen from Genoa who went to work more successfully;
 skinning the cattle, who had died in heaps, and covering the timbers.
 They built three high towers on rollers, and men and beasts dragged
-them heavily against the high towers of the city.  The catapults
-of the city answered them, the cataracts of devouring fire came down;
+them heavily against the high towers of the [[City|city]].  The catapults
+of the [[City|city]] answered them, the cataracts of devouring [[Fire|fire]] came down;
 the wooden towers swayed and tottered, and two of them suddenly stuck
 motionless and useless.  And as the darkness fell a great flare
 must have told them that the third and last was in flames.
 
-All that night Godfrey was toiling to retrieve the disaster.
+All that [[Night|night]] Godfrey was toiling to retrieve the disaster.
 He took down the whole tower from where it stood and raised
-it again on the high ground to the north of the city which is
+it again on the high ground to the north of the [[City|city]] which is
 now marked by the pine tree that grows outside Herod's gate.
-And all the time he toiled, it was said, sinister sorcerers sat
+And all the [[Time|time]] he toiled, it was said, sinister sorcerers sat
 upon the battlements, working unknown marvels for the undoing
 of the labour of man.  If the great knight had a touch of such
 symbolism on his own side, he might have seen in his own strife
 with the solid timber something of the craft that had surrounded
 the birth of his creed, and the sacred trade of the carpenter.
 And indeed the very pattern of all carpentry is cruciform, and there
-is something more than an accident in the allegory.  The transverse
+is something more than an accident in the [[Allegory|allegory]].  The transverse
 position of the timber does indeed involve many of those mathematical
 that are analogous to moral truths and almost every structural
-shape has the shadow of the mystic rood, as the three dimensions
-have a shadow of the Trinity.  Here is the true mystery of equality;
+shape has the [[Shadow|shadow]] of the mystic rood, as the three dimensions
+have a [[Shadow|shadow]] of the Trinity.  Here is the true mystery of equality;
 since the longer beam might lengthen itself to infinity, and never
 be nearer to the symbolic shape without the help of the shorter.
 Here is that war and wedding between two contrary forces, resisting and
 supporting each other; the meeting-place of contraries which we,
 by a sort of pietistic pun, still call the crux of the question.
-Here is our angular and defiant answer to the self-devouring circle
+Here is our angular and defiant answer to the [[Self|self]]-devouring circle
 of Asia.  It may be improbable, though it is far from impossible
 (for the age was philosophical enough) that a man like Godfrey
 thus extended the mystical to the metaphysical; but the writer
-of a real romance about him would be well within his rights in making
+of a real [[Romance|romance]] about him would be [[Well|well]] within his rights in making
 him see the symbolism of his own tower, a tower rising above
-him through the clouds of night as if taking hold on the heaven
+him through the clouds of [[Night|night]] as if taking hold on the heaven
 or showing its network of beams black against the daybreak;
 scaling the skies and open to all the winds, a ladder and a labyrinth,
 repeating till it was lost in the twilight the pattern of the sign
-of the cross.
+of the [[Cross|cross]].
 
-When dawn was come all those starving peasants may well have stood
-before the high impregnable walls in the broad daylight of despair.
-Even their nightmares during the night, of unearthly necromancers
+When [[Dawn|dawn]] was come all those starving peasants may [[Well|well]] have stood
+before the high impregnable walls in the broad daylight of [[Despair|despair]].
+Even their nightmares during the [[Night|night]], of unearthly necromancers
 looking down at them from the battlements and with signs and spells
-paralysing all their potential toils, may well have been a sort
+paralysing all their potential toils, may [[Well|well]] have been a sort
 of pessimistic consolation, anticipating and accounting for failure.
-The Holy City had become for them a fortress full of fiends, when Godfrey
-de Bouillon again set himself sword in hand upon the wooden tower and gave
+The Holy [[City]] had become for them a fortress full of fiends, when Godfrey
+de Bouillon again set himself [[Sword|sword]] in hand upon the wooden tower and gave
 the order once more to drag it tottering towards the towers on either
 side of the postern gate.  So they crawled again across the fosse
-full of the slain, dragging their huge house of timber behind them,
+full of the slain, dragging their huge [[house]] of timber behind them,
 and all the blast and din of war broke again about their heads.
 A hail of bolts hammered such shields as covered them for a canopy,
 stones and rocks fell on them and crushed them like flies in
-the mire, and from the engines of the Greek Fire all the torrents
+the mire, and from the engines of the Greek [[Fire]] all the torrents
 of their torment came down on them like red rivers of hell.
 For indeed the souls of those peasants must have been sickened
 with something of the topsy-turvydom felt by too many peasants of our
-own time under the frightful flying batteries of scientific war;
+own [[Time|time]] under the frightful flying batteries of scientific war;
 a blasphemy of inverted battle in which hell itself has occupied heaven.
 Something of the vapours vomited by such cruel chemistry may
-have mingled with the dust of battle, and darkened such light
+have mingled with the [[Dust|dust]] of battle, and darkened such light
 as showed where shattering rocks were rending a roof of shields,
 to men bowed and blinded as they are by such labour of dragging
-and such a hailstorm of death.  They may have heard through
+and such a hailstorm of [[Death|death]].  They may have heard through
 all the racket of nameless noises the high minaret cries
-of Moslem triumph rising shriller like a wind in shrill pipes,
+of Moslem triumph rising shriller like a [[Wind|wind]] in shrill pipes,
 and known little else of what was happening above or beyond them.
 It was most likely that they laboured and strove in that lower darkness,
 not knowing that high over their heads, and up above the cloud
 of battle, the tower of timber and the tower of stone had touched
-and met in mid-heaven; and great Godfrey, alone and alive,
+and met in mid-heaven; and great Godfrey, [[Alone|alone]] and alive,
 had leapt upon the wall of Jerusalem.
 
 = = = = = = = = = = = = = = = =
@@ -6592,7 +6592,7 @@ the first page of it a phrase about the necessity of going back
 to the old even to find the new, as a man retraces his steps
 to a sign-post. The common sense of that process is indeed most
 mysteriously misunderstood.  Any suggestion that progress has at
-any time taken the wrong turning is always answered by the argument
+any [[Time|time]] taken the wrong turning is always answered by the argument
 that men idealise the past, and make a myth of the Age of Gold.
 If my progressive guide has led me into a morass or a man-trap
 by turning to the left by the red pillar-box, instead of to
@@ -6618,12 +6618,12 @@ the wrong one.
 
 Now it is quite true that there is less general human testimony
 to the notion of a New Jerusalem in the future than to the notion
-of a Golden Age in the past.  But neither of those ideas, whether or
+of a [[Golden Age]] in the past.  But neither of those ideas, whether or
 no they are illusions, are any answer to the question of a plain
-man in the plain position of this parable; a man who has to find
+man in the plain position of this [[Parable|parable]]; a man who has to find
 some guidance in the past if he is to get any good in the future.
 What he positively knows, in any case, is the complete collapse
-of the present.  Now that is the exact truth about the thing so often
+of the present.  Now that is the exact [[Truth|truth]] about the thing so often
 rebuked as a romantic and unreal return of modern men to medieval things.
 They suppose they have taken the wrong turning, because they know
 they are in the wrong place.  To know that, it is necessary not to
@@ -6633,25 +6633,25 @@ the average as that they feel sure the modern world is below the average.
 They do not start either with the idea that man is meant to live
 in a New Jerusalem of pearl and sapphire in the future, or that a man
 was meant to live in a picturesque and richly-painted tavern of the past;
-but with a strong inward and personal persuasion that a man was
+but with a strong inward and personal [[Persuasion|persuasion]] that a man was
 not meant to live in a man-trap.
 
 For there is and will be more and more a turn of total change
-in all our talk and writing about history.  Everything in the past
+in all our talk and writing about [[history]].  Everything in the past
 was praised if it had led up to the present, and blamed if it
 would have led up to anything else.  In short everybody has been
-searching the past for the secret of our success.  Very soon
+searching the past for the secret of our [[success]].  Very soon
 everybody may be searching the past for the secret of our failure.
 They may be talking in such terms as they use after a motor smash
 or a bankruptcy; where was the blunder?  They may be writing such books
 as generals write after a military defeat; whose was the fault?
 The failure will be assumed even in being explained.
 
-For industrialism is no longer a vulgar success.
+For industrialism is no longer a vulgar [[success]].
 On the contrary, it is now too tragic even to be vulgar.
-Under the cloud of doom the modern city has taken on something
+Under the cloud of doom the modern [[City|city]] has taken on something
 of the dignity of Babel or Babylon.  Whether we call it the nemesis
-of Capitalism or the nightmare of Bolshevism makes no difference;
+of Capitalism or the [[nightmare]] of Bolshevism makes no difference;
 the rich grumble as much as the poor; every one is discontented, and none
 more than those who are chiefly discontented with the discontent.
 About that discord we are in perfect harmony; about that disease we
@@ -6664,16 +6664,16 @@ that we may or may not await another century or another world
 to see the New Jerusalem rebuilt and shining on our fields;
 but in the flesh we shall see Babylon fall.
 
-But there is another way in which that metaphor of the forked road
+But there is another way in which that metaphor of the forked [[Road|road]]
 will make the position plain.  Medieval society was not the right place;
-it was only the right turning.  It was only the right road;
-or perhaps only the beginning of the right road.  The medieval age
+it was only the right turning.  It was only the right [[Road|road]];
+or perhaps only the beginning of the right [[Road|road]].  The medieval age
 was very far from being the age in which everything went right.
-It would be nearer the truth I mean to call it the age in which
+It would be nearer the [[Truth|truth]] I mean to call it the age in which
 everything went wrong.  It was the moment when things might have
-developed well, and did develop badly.  Or rather, to be yet
-more exact, it was the moment when they were developing well,
-and yet they were driven to develop badly.  This was the history
+developed [[Well|well]], and did develop badly.  Or rather, to be yet
+more exact, it was the moment when they were developing [[Well|well]],
+and yet they were driven to develop badly.  This was the [[history]]
 of all the medieval states and of none more than medieval Jerusalem;
 indeed there were signs of some serious idea of making it the model
 medieval state.  Of this notion of Jerusalem as the New Jerusalem,
@@ -6682,7 +6682,7 @@ something may be said in a moment.  But meanwhile there was a more
 important part played by Jerusalem, I think, in all that great
 progress and reaction which has left us the problem of modern Europe.
 And the suggestion of it is bound up with the former suggestion,
-about the difference between the goal and the right road that
+about the difference between the goal and the right [[Road|road]] that
 might have led to it.  It is bound up with that quality of the
 civilisation in question, that it was potential rather than perfect;
 and there is no need to idealise it in order to regret it.
@@ -6701,11 +6701,11 @@ for that is guesswork.  But we can say that it had done
 certain definite things and was conscious of having done them;
 that it had long and even literally rested on its laurels.
 But suppose that Rome had fallen when she had only half defeated Carthage,
-or when she had only half conquered Gaul, or even when the city was
+or when she had only half conquered Gaul, or even when the [[City|city]] was
 Christian but most of the provinces still heathen.  Then we should
 have said, not merely that Rome had not done what she might have done,
 but that she had not done what she was actually doing.  And that is
-very much the truth in the matter of the medieval civilisation.
+very much the [[Truth|truth]] in the matter of the medieval civilisation.
 It was not merely that the medievals left undone what they might
 have done, but they left undone what they were doing.  This potential
 promise is proved not only in their successes but in their failures.
@@ -6723,24 +6723,24 @@ of course, not only about the state of the crafts but about the status
 of the craftsman.  The best proof that the system of the guilds
 had an undeveloped good in it is that the most advanced modern men
 are now going back five hundred years to get the good out of it.
-The best proof that a rich house was brought to ruin is that our
+The best proof that a rich [[house]] was brought to ruin is that our
 very pioneers are now digging in the ruins to find the riches.
 That the new guildsmen add a great deal that never belonged
-to the old guildsmen is not only a truth, but is part of
-the truth I maintain here.  The new guildsmen add what the old
+to the old guildsmen is not only a [[Truth|truth]], but is part of
+the [[Truth|truth]] I maintain here.  The new guildsmen add what the old
 guildsmen would have added if they had not died young.
 When we renew a frustrated thing we do not renew the frustration.
 But if there are some things in the new that were not in the old,
 there were certainly some things in the old that are not yet
-visible in the new; such as individual humour in the handiwork.
-The point here, however, is not merely that the worker worked well
+visible in the new; such as individual [[Humour|humour]] in the handiwork.
+The point here, however, is not merely that the worker worked [[Well|well]]
 but that he was working better; not merely that his mind was free
-but that it was growing freer.  All this popular power and humour was
+but that it was growing freer.  All this popular power and [[Humour|humour]] was
 increasing everywhere, when something touched it and it withered away.
-The frost had struck it in the spring.
+The [[Frost|frost]] had struck it in the [[spring]].
 
 Some people complain that the working man of our own day does
-not show an individual interest in his work.  But it will be well
+not show an individual interest in his work.  But it will be [[Well|well]]
 to realise that they would be much more annoyed with him if he did.
 The medieval workman took so individual an interest in his work
 that he would call up devils entirely on his own account,
@@ -6750,20 +6750,20 @@ as ugly as devils; carving anti-clerical caricatures on the very seats
 and stalls of the clerics.  If a modern householder, on entering his
 own bathroom, found that the plumber had twisted the taps into the images
 of two horned and grinning fiends, he would be faintly surprised.
-If the householder, on returning at evening to his house,
+If the householder, on returning at evening to his [[house]],
 found the door-knocker distorted into a repulsive likeness
 of himself, his surprise might even be tinged with disapproval.
-It may be just as well that builders and bricklayers do not
-gratuitously attach gargoyles to our smaller residential villas.
-But well or ill, it is certainly true that this feature of a
+It may be just as [[Well|well]] that builders and bricklayers do not
+gratuitously attach [[gargoyles]] to our smaller residential villas.
+But [[Well|well]] or ill, it is certainly true that this feature of a
 flexible popular fancy has never reappeared in any school of
 architecture or any state of society since the medieval decline.
 The great classical buildings of the Renascence were swept as bare
 of it as any villa in Balham.  But those who best appreciate this
 loss to popular art will be the first to agree that at its best it
-retained a touch of the barbaric as well as the popular.  While we can
-admire these matters of the grotesque, we can admit that their work
-was sometimes unintentionally as well as intentionally grotesque.
+retained a touch of the barbaric as [[Well|well]] as the popular.  While we can
+admire these matters of the [[Grotesque|grotesque]], we can admit that their work
+was sometimes unintentionally as [[Well|well]] as intentionally [[Grotesque|grotesque]].
 Some of the carving did remain so rude that the angels were almost
 as ugly as the devils.  But this is the very point upon which I
 would here insist; the mystery of why men who were so obviously
@@ -6771,14 +6771,14 @@ only beginning should have so suddenly stopped.
 
 Men with medieval sympathies are sometimes accused, absurdly enough,
 of trying to prove that the medieval period was perfect.
-In truth the whole case for it is that it was imperfect.
-It was imperfect as an unripe fruit or a growing child is imperfect.
+In [[Truth|truth]] the whole case for it is that it was imperfect.
+It was imperfect as an unripe fruit or a growing [[Child|child]] is imperfect.
 Indeed it was imperfect in that very particular fashion which most
 modern thinkers generally praise, more than they ever praise maturity.
 It was something now much more popular than an age of perfection;
 it was an age of progress.  It was perhaps the one real age of progress
-in all history.  Men have seldom moved with such rapidity and such
-unity from barbarism to civilisation as they did from the end of
+in all [[history]].  Men have seldom moved with such rapidity and such
+[[unity]] from barbarism to civilisation as they did from the end of
 the Dark Ages to the times of the universities and the parliaments,
 the cathedrals and the guilds.  Up to a certain point we may say
 that everything, at whatever stage of improvement, was full
@@ -6789,31 +6789,31 @@ It recalls one of these typical medieval speculations, full of
 the very fantasy of free will, in which the schoolmen tried to fancy
 the fate of every herb or animal if Adam had not eaten the apple.
 It remains, in a cant historical phrase, one of the great
-might-have-beens of history.
+might-have-beens of [[history]].
 
 I have said that it died young; but perhaps it would be truer to say that
 it suddenly grew old.  Like Godfrey and many of its great champions in
 Jerusalem, it was overtaken in the prime of life by a mysterious malady.
-The more a man reads of history the less easy he will find it to explain
-that secret and rapid decay of medieval civilisation from within.
+The more a man reads of [[history]] the less easy he will find it to explain
+that secret and rapid [[Decay|decay]] of medieval civilisation from within.
 Only a few generations separated the world that worshipped St. Francis
 from the world that burned Joan of Arc.  One would think there
 might be no more than a date and a number between the white mystery
 of Louis the Ninth and the black mystery of Louis the Eleventh.
 This is the very real historical mystery; the more realistic is our study
 of medieval things, the more puzzled we shall be about the peculiar
-creeping paralysis which affected things so virile and so full of hope.
-There was a growth of moral morbidity as well as social inefficiency,
+creeping paralysis which affected things so virile and so full of [[Hope|hope]].
+There was a growth of moral morbidity as [[Well|well]] as social inefficiency,
 especially in the governing classes; for even to the end the guildsmen
 and the peasants remained much more vigorous.  How it ended we all know;
-personally I should say that they got the Reformation and deserved it.
-But it matters nothing to the truth here whether the Reformation
-was a just revolt and revenge or an unjust culmination and conquest.
+personally I should say that they got the [[Reformation]] and deserved it.
+But it matters nothing to the [[Truth|truth]] here whether the [[Reformation]]
+was a just revolt and [[Revenge|revenge]] or an unjust culmination and conquest.
 It is common ground to Catholics and Protestants of intelligence
 that evils preceded and produced the schism; and that evils
 were produced by it and have pursued it down to our own day.
 We know it if only in the one example, that the schism begat
-the Thirty Years' War, and the Thirty Years' War begat the
+the [[Thirty Years' War]], and the [[Thirty Years' War]] begat the
 Seven Years' War, and the Seven Years' War begat the Great War,
 which has passed like a pestilence through our own homes.
 After the schism Prussia could relapse into heathenry and erect
@@ -6822,39 +6822,39 @@ But it can still be reasonably asked what begat the schism; and it can
 still be reasonably answered; something that went wrong with medievalism.
 But what was it that went wrong?
 
-When I looked for the last time on the towers of Zion I had a
+When I looked for the last [[Time|time]] on the towers of Zion I had a
 fixed fancy that I knew what it was.  It is a thing that cannot
 be proved or disproved; it must sound merely an ignorant guess.
 But I believe myself that it died of disappointment.
 I believe the whole medieval society failed, because the heart
 went out of it with the loss of Jerusalem.  Let it be observed
 that I do not say the loss of the war, or even the Crusade.
-For the war against Islam was not lost.  The Moslem was overthrown
+For the war against [[Islam]] was not lost.  The Moslem was overthrown
 in the real battle-field, which was Spain; he was menaced in Africa;
 his imperial power was already stricken and beginning slowly to decline.
 I do not mean the political calculations about a Mediterranean war.
 I do not even mean the Papal conceptions about the Holy War.
-I mean the purely popular picture of the Holy City.
+I mean the purely popular picture of the Holy [[City]].
 For while the aristocratic thing was a view, the vulgar thing was
 a vision; something with which all stories stop, something where
 the rainbow ends, something over the hills and far away.
-In Spain they had been victorious; but their castle was not even
-a castle in Spain.  It was a castle east of the sun and west
-of the moon, and the fairy prince could find it no more.
+In Spain they had been victorious; but their [[Castle|castle]] was not even
+a [[Castle|castle]] in Spain.  It was a [[Castle|castle]] east of the sun and west
+of the [[Moon|moon]], and the fairy prince could find it no more.
 Indeed that idle image out of the nursery books fits it very exactly.
 For its mystery was and is in standing in the middle, or as they
 said in the very centre of the earth.  It is east of the sun
-of Europe, which fills the world with a daylight of sanity,
-and ripens real and growing things.  It is west of the moon of Asia,
-mysterious and archaic with its cold volcanoes, silver mirror
+of Europe, which fills the world with a daylight of [[Sanity|sanity]],
+and ripens real and growing things.  It is west of the [[Moon|moon]] of Asia,
+mysterious and archaic with its cold volcanoes, silver [[Mirror|mirror]]
 for poets and a most fatal magnet for lunatics.
 
 Anyhow the fall of Jerusalem, and in that sense the failure of
-the Crusades, had a widespread effect, as I should myself suggest,
+the [[Crusades]], had a widespread effect, as I should myself suggest,
 for the reason I have myself suggested.  Because it had been a
 popular movement, it was a popular disappointment; and because it had
 been a popular movement, its ideal was an image; a particular picture
-in the imagination.  For poor men are almost always particularists;
+in the [[Imagination|imagination]].  For poor men are almost always particularists;
 and nobody has ever seen such a thing as a mob of pantheists.
 I have seen in some of that lost literature of the old guilds,
 which is now everywhere coming to light, a list of the stage
@@ -6866,14 +6866,14 @@ The list of those crude pieces of stage furniture had a curious colour
 of poetry about it, like the impromptu apparatus of a nursery charade;
 a cloud, an idol with a club, and notably among the rest, the walls
 and towers of Jerusalem.  I can imagine them patiently painted and gilded
-as a special feature, like the two tubs of Mr. Vincent Crummles.
+as a special feature, like the two tubs of Mr. [[Vincent Crummles]].
 But I can also imagine that towards the end of the Middle Ages,
 the master of the revels might begin to look at those towers
-of wood and pasteboard with a sort of pain, and perhaps put them
-away in a corner, as a child will tire of a toy especially if it
+of wood and pasteboard with a sort of [[Pain|pain]], and perhaps put them
+away in a corner, as a [[Child|child]] will tire of a toy especially if it
 is associated with a disappointment or a dismal misunderstanding.
-There is noticeable in some of the later popular poems a
-disposition to sulk about the Crusades.  But though the popular
+There is noticeable in some of the later popular [[Poems|poems]] a
+disposition to sulk about the [[Crusades]].  But though the popular
 feeling had been largely poetical, the same thing did in its
 degree occur in the political realm that was purely practical.
 The Moslem had been checked, but he had not been checked enough.
@@ -6882,7 +6882,7 @@ and three-quarters of the wars of the modern world, were due
 to the fact that he was not checked enough.
 
 The only thing to do with unconquerable things is to conquer them.
-That alone will cure them of invincibility; or what is worse, their own
+That [[Alone|alone]] will cure them of invincibility; or what is worse, their own
 vision of invincibility.  That was the conviction of those of us who
 would not accept what we considered a premature peace with Prussia.
 That is why we would not listen either to the Tory Pro-Germanism
@@ -6895,20 +6895,20 @@ the more narrow the escapes, the more certain will be the escape.
 And indeed if he does escape it will seem a miracle, and almost
 a divine intervention, not only to the pursued but to the pursuers.
 The evil thing will chiefly appear unconquerable to those who try
-to conquer it.  It will seem after all to have a secret of success;
+to conquer it.  It will seem after all to have a secret of [[success]];
 and those who failed against it will hide in their hearts
 a secret of failure.  It was that secret of failure, I fancy,
 that slowly withered from within the high hopes of the Middle Ages.
-Christianity and chivalry had measured their force against Mahound,
-and Mahound had not fallen; the shadow of his horned helmet,
+[[Christianity]] and chivalry had measured their force against Mahound,
+and Mahound had not fallen; the [[Shadow|shadow]] of his horned helmet,
 the crest of the Crescent, still lay across their sunnier lands;
 the Horns of Hattin.  The streams of life that flowed to guilds
 and schools and orders of knighthood and brotherhoods of friars
 were strangely changed and chilled.  So, if the peace had left
 Prussianism secure even in Prussia, I believe that all the liberal
 ideals of the Latins, and all the liberties of the English,
-and the whole theory of a democratic experiment in America,
-would have begun to die of a deep and even subconscious despair.
+and the whole theory of a democratic experiment in [[America]],
+would have begun to die of a deep and even subconscious [[Despair|despair]].
 A vote, a jury, a newspaper, would not be as they are,
 things of which it is hard to make the right use, or any use;
 they would be things of which nobody would even try to make any use.
@@ -6929,7 +6929,7 @@ seem to have accused of being little better than a bandit.
 And it is the irony of the incident that Raymond got into trouble
 for making a dubious peace with the Saracens, while Renaud got
 into trouble by making an equally dubious war on the Saracens.
-Renaud exacted from Moslem travellers on a certain road what
+Renaud exacted from Moslem travellers on a certain [[Road|road]] what
 he regarded as a sort of feudal toll or tax, and they regarded
 as a brigand ransom; and when they did not pay he attacked them.
 This was regarded as a breach of the truce; but probably it would
@@ -6942,20 +6942,20 @@ merely a robber, especially in his own eyes; and there seems
 to be a much better case for him than many modern writers allow.
 But the very fact of such charges being bandied among the factions
 shows a certain fall from the first days under the headship of
-the house of Bouillon.  No slanderer ever suggested that Godfrey
+the [[house]] of Bouillon.  No slanderer ever suggested that Godfrey
 was a traitor; no enemy ever asserted that Godfrey was only a thief.
 It is fairly clear that there had been a degeneration; but most people
 hardly realise sufficiently that there had been a very great thing
 from which to degenerate.
 
-The first Crusades had really had some notion of Jerusalem as a
+The first [[Crusades]] had really had some notion of Jerusalem as a
 New Jerusalem.  I mean they had really had a vision of the place being
 not only a promised land but a Utopia or even an Earthly Paradise.
 The outstanding fact and feature which is seldom seized is this:
 that the social experiment in Palestine was rather in advance of
 the social experiments in the rest of Christendom.  Having to begin
 at the beginning, they really began with what they considered the best
-ideas of their time; like any group of Socialists founding an ideal
+ideas of their [[Time|time]]; like any group of Socialists founding an ideal
 Commonwealth in a modern colony.  A specialist on this period,
 Colonel Conder of the Palestine Exploration, has written that the core
 of the Code was founded on the recommendations of Godfrey himself
@@ -6963,10 +6963,10 @@ in his "Letters of the Sepulchre"; and he observes concerning it:
 "The basis of these laws was found in Justinian's code, and they
 presented features as yet quite unknown in Europe, especially in their
 careful provision of justice for the bourgeois and the peasant,
-and for the trading communes whose fleets were so necessary to the king.
+and for the trading communes whose fleets were so necessary to the [[King|king]].
 Not only were free men judged by juries of their equals, but the same
 applied to those who were technically serfs and actually aborigines."
-The original arrangements of the Native Court seem to me singularly
+The original arrangements of the Native [[Court]] seem to me singularly
 liberal, even by modern standards of the treatment of natives.
 That in many such medieval codes citizens were still called serfs is
 no more final than the fact that in many modern capitalist newspapers
@@ -6975,18 +6975,18 @@ was that he was a tenant at least as permanent as a peasant.
 He "went with the land"; and there are a good many hopeless tramps
 starving in streets, or sleeping in ditches, who might not be sorry
 if they could go with a little land.  It would not be very much
-worse than homelessness and hunger to go with a good kitchen garden
+worse than homelessness and hunger to go with a good kitchen [[Garden|garden]]
 of which you could always eat most of the beans and turnips;
 or to go with a good cornfield of which you could take a considerable
 proportion of the corn.  There has been many a modern man would have been
 none the worse for "going" about burdened with such a green island,
-or dragging the chains of such a tangle of green living things.
+or dragging the [[Chains|chains]] of such a tangle of green living things.
 As a fact, of course, this system throughout Christendom was already
 evolving rapidly into a pure peasant proprietorship; and it will be
 long before industrialism evolves by itself into anything so equal
 or so free.  Above all, there appears notably that universal mark
 of the medieval movement; the voluntary liberation of slaves.
-But we may willingly allow that something of the earlier success
+But we may willingly allow that something of the earlier [[success]]
 of all this was due to the personal qualities of the first knights
 fresh from the West; and especially to the personal justice
 and moderation of Godfrey and some of his immediate kindred.
@@ -6994,8 +6994,8 @@ Godfrey died young; his successors had mostly short periods of power,
 largely through the prevalence of malaria and the absence of medicine.
 Royal marriages with the more oriental tradition of the Armenian
 princes brought in new elements of luxury and cynicism;
-and by the time of the disputed truce of Raymond of Tripoli,
-the crown had descended to a man named Guy of Lusignan who seems
+and by the [[Time|time]] of the disputed truce of Raymond of Tripoli,
+the [[Crown|crown]] had descended to a man named Guy of Lusignan who seems
 to have been regarded as a somewhat unsatisfactory character.
 He had quarrelled with Raymond, who was ruler of Galilee, and a
 curious and rather incomprehensible concession made by the latter,
@@ -7004,42 +7004,42 @@ led to alleged Moslem insults to Nazareth, and the outbreak of the furious
 Templar, Gerard of Bideford, of which mention has been made already.
 But the most serious threat to them and their New Jerusalem
 was the emergence among the Moslems of a man of military genius,
-and the fact that all that land lay now under the shadow of the ambition
+and the fact that all that land lay now under the [[Shadow|shadow]] of the [[Ambition|ambition]]
 and ardour of Saladin.
 
 With the breach of the truce, or even the tale of it, the common
 danger of Christians was apparent; and Raymond of Tripoli repaired
-to the royal headquarters to consult with his late enemy the king;
+to the royal headquarters to consult with his late enemy the [[King|king]];
 but he seems to have been almost openly treated as a traitor.
 Gerard of Bideford, the fanatic who was Grand Master of the Templars,
-forced the king's hand against the advice of the wiser soldier,
+forced the [[King|king]]'s hand against the advice of the wiser soldier,
 who had pointed out the peril of perishing of thirst in the waterless
 wastes between them and the enemy.  Into those wastes they advanced,
-and they were already weary and unfit for warfare by the time
+and they were already weary and unfit for warfare by the [[Time|time]]
 they came in sight of the strange hills that will be remembered
 for ever under the name of the Horns of Hattin.  On those hills,
 a few hours later, the last knights of an army of which half had
-fallen gathered in a final defiance and despair round the relic
-they carried in their midst, a fragment of the True Cross.
+fallen gathered in a final defiance and [[Despair|despair]] round the relic
+they carried in their midst, a [[Fragment|fragment]] of the True [[Cross]].
 In that hour fell, as I have fancied, more hopes than they themselves
 could number, and the glory departed from the Middle Ages.
 There fell with them all that New Jerusalem which was the symbol
 of a new world, all those great and growing promises and possibilities
 of Christendom of which this vision was the centre, all that "justice
 for the bourgeois and the peasant, and for the trading communes,"
-all the guilds that gained their charters by fighting for the Cross,
+all the guilds that gained their charters by fighting for the [[Cross]],
 all the hopes of a happier transformation of the Roman Law wedded
-to charity and to chivalry.  There was the first slip and the great
+to [[Charity|charity]] and to chivalry.  There was the first slip and the great
 swerving of our fate; and in that wilderness we lost all the things
 we should have loved, and shall need so long a labour to find again.
 
 Raymond of Tripoli had hewn his way through the enemy and ridden
-away to Tyre.  The king, with a few of the remaining nobles,
+away to Tyre.  The [[King|king]], with a few of the remaining nobles,
 including Renaud de Chatillon, were brought before Saladin in his tent.
 There occurred a scene strangely typical of the mingled strains
 in the creed or the culture that triumphed on that day;
 the stately Eastern courtesy and hospitality; the wild Eastern
-hatred and self-will. Saladin welcomed the king and gracefully
+hatred and [[Self|self]]-will. Saladin welcomed the [[King|king]] and gracefully
 gave him a cup of sherbet, which he passed to Renaud.
 "It is thou and not I who hast given him to drink," said the Saracen,
 preserving the precise letter of the punctilio of hospitality.
@@ -7052,24 +7052,24 @@ disliked them, and by another because they were Christian priests.
 There is a strong bias against the Christians and in favour of
 the Moslems and the Jews in most of the Victorian historical works,
 especially historical novels.  And most people of modern,
-or rather of very recent times got all their notions of history
+or rather of very recent times got all their notions of [[history]]
 from dipping into historical novels.  In those romances the Jew is
 always the oppressed where in reality he was often the oppressor.
 In those romances the Arab is always credited with oriental dignity
 and courtesy and never with oriental crookedness and cruelty.
-The same injustice is introduced into history, which by means
+The same injustice is introduced into [[history]], which by means
 of selection and omission can be made as fictitious as any fiction.
 Twenty historians mention the way in which the maddened Christian
 mob murdered the Moslems after the capture of Jerusalem, for one who
-mentions that the Moslem commander commanded in cold blood the murder
+mentions that the Moslem commander commanded in cold [[Blood|blood]] the murder
 of some two hundred of his most famous and valiant enemies after
 the victory of Hattin.  The former cannot be shown to have been the act
 of Tancred, while the latter was quite certainly the act of Saladin.
 Yet Tancred is described as at best a doubtful character,
-while Saladin is represented as a Bayard without fear or blame.
+while Saladin is represented as a Bayard without [[Fear|fear]] or blame.
 Both of them doubtless were ordinary faulty fighting men, but they
-are not judged by an equal balance.  It may seem a paradox that there
-should be this prejudice in Western history in favour of Eastern heroes.
+are not judged by an equal balance.  It may seem a [[Paradox|paradox]] that there
+should be this prejudice in Western [[history]] in favour of Eastern heroes.
 But the cause is clear enough; it is the remains of the revolt among many
 Europeans against their own old religious organisation, which naturally
 made them hunt through all ages for its crimes and its victims.
@@ -7081,7 +7081,7 @@ In this atmosphere of natural and even pardonable prejudice arose
 the habit of contrasting the intolerance of the Crusaders with
 the toleration shown by the Moslems.  Now as there are two sides
 to everything, it would undoubtedly be quite possible to tell
-the tale of the Crusades, correctly enough in detail, and in such
+the tale of the [[Crusades]], correctly enough in detail, and in such
 a way as entirely to justify the Moslems and condemn the Crusaders.
 But any such real record of the Moslem case would have very
 little to do with any questions of tolerance or intolerance,
@@ -7091,47 +7091,47 @@ liberty and equality, as the moderns have not thought out any logical
 theory of toleration at all (for their vague generalisations can
 always be upset by twenty tests from Thugs to Christian Science)
 it would obviously be unreasonable to expect the moderns
-to understand the much clearer philosophy of the Moslems.
+to understand the much clearer [[philosophy]] of the Moslems.
 But some rough suggestion of what was really involved may be found
 convenient in this case.
 
-Islam was not originally a movement directed against Christianity at all.
+[[Islam]] was not originally a movement directed against [[Christianity]] at all.
 It did not face westwards, so to speak; it faced eastwards towards
 the idolatries of Asia.  But Mahomet believed that these idols
 could be fought more successfully with a simpler kind of creed;
-one might almost say with a simpler kind of Christianity.
+one might almost say with a simpler kind of [[Christianity]].
 For he included many things which we in the West commonly suppose not
-only to be peculiar to Christianity but to be peculiar to Catholicism.
+only to be peculiar to [[Christianity]] but to be peculiar to Catholicism.
 Many things have been rejected by Protestantism that are not
 rejected by Mahometanism.  Thus the Moslems believe in Purgatory,
-and they give at least a sort of dignity to the Mother of Christ.
+and they give at least a sort of dignity to the Mother of [[Christ]].
 About such things as these they have little of the bitterness that rankles
 in the Jews and is said sometimes to become hideously vitriolic.  While I
 was in Palestine a distinguished Moslem said to a Christian resident:
-"We also, as well as you, honour the Mother of Christ.
+"We also, as [[Well|well]] as you, [[Honour|honour]] the Mother of [[Christ]].
 Never do we speak of her but we call her the Lady Miriam.
 I dare not tell you what the Jews call her."
 
 The real mistake of the Moslems is something much more modern in its
 application than any particular or passing persecution of Christians
 as such.  It lay in the very fact that they did think they had a
-simpler and saner sort of Christianity, as do many modern Christians.
+simpler and saner sort of [[Christianity]], as do many modern Christians.
 They thought it could be made universal merely by being
 made uninteresting.  Now a man preaching what he thinks is a platitude
-is far more intolerant than a man preaching what he admits is a paradox.
-It was exactly because it seemed self-evident, to Moslems as
+is far more intolerant than a man preaching what he admits is a [[Paradox|paradox]].
+It was exactly because it seemed [[Self|self]]-evident, to Moslems as
 to Bolshevists, that their simple creed was suited to everybody,
 that they wished in that particular sweeping fashion to impose it
-on everybody.  It was because Islam was broad that Moslems were narrow.
+on everybody.  It was because [[Islam]] was broad that Moslems were narrow.
 And because it was not a hard religion it was a heavy rule.
-Because it was without a self-correcting complexity, it allowed
+Because it was without a [[Self|self]]-correcting complexity, it allowed
 of those simple and masculine but mostly rather dangerous
 appetites that show themselves in a chieftain or a lord.
 As it had the simplest sort of religion, monotheism, so it had
-the simplest sort of government, monarchy.  There was exactly
+the simplest sort of [[government]], monarchy.  There was exactly
 the same direct spirit in its despotism as in its deism.
 The Code, the Common Law, the give and take of charters
-and chivalric vows, did not grow in that golden desert.
+and chivalric vows, did not grow in that golden [[Desert|desert]].
 The great sun was in the sky and the great Saladin was in his tent,
 and he must be obeyed unless he were assassinated.  Those who
 complain of our creeds as elaborate often forget that the elaborate
@@ -7140,36 +7140,36 @@ and that they are elaborate because they are emancipated.
 And the real moral of the relations of the two great religions is
 something much more subtle and sincere than any mere atrocity tales
 against Turks.  It is the same as the moral of the Christian refusal
-of a Pagan Pantheon in which Christ should rank with Ammon and Apollo.
+of a Pagan Pantheon in which [[Christ]] should rank with Ammon and [[Apollo]].
 Twice the Christian Church refused what seemed like a handsome
-offer of a large latitudinarian sort; once to include Christ as a
-god and once to include him as a prophet; once by the admission
+offer of a large latitudinarian sort; once to include [[Christ]] as a
+god and once to include him as a [[Prophet|prophet]]; once by the admission
 of all idols and once by the abandonment of all idols.
-Twice the Church took the risk and twice the Church survived alone
-and succeeded alone, filling the world with her own children;
-and leaving her rivals in a desert, where the idols were dead
+Twice the Church took the risk and twice the Church survived [[Alone|alone]]
+and succeeded [[Alone|alone]], filling the world with her own children;
+and leaving her rivals in a [[Desert|desert]], where the idols were dead
 and the iconoclasts were dying.
 
-But all this history has been hidden by a prejudice more
+But all this [[history]] has been hidden by a prejudice more
 general than the particular case of Saracens and Crusaders.
 The modern, or rather the Victorian prejudice against Crusaders
-is positive and not relative; and it would still desire to
+is positive and not relative; and it would still [[Desire|desire]] to
 condemn Tancred if it could not acquit Saladin.  Indeed it is
 a prejudice not so much against Crusaders as against Christians.
 It will not give to these heroes of religious war the fair measure
 it gives to the heroes of ordinary patriotic and imperial war.
-There never was a nobler hero than Nelson, or one more national
+There never was a nobler [[Hero|hero]] than Nelson, or one more national
 or more normal.  Yet Nelson quite certainly did do what Tancred
 almost certainly did not do; break his own word by giving up his own
 brave enemies to execution.  If the cause of Nelson in other times
 comes to be treated as the creed of Tancred has often in recent
-times been treated, this incident alone will be held sufficient
+times been treated, this incident [[Alone|alone]] will be held sufficient
 to prove not only that Nelson was a liar and a scoundrel, but that
-he did not love England at all, did not love Lady Hamilton at all,
+he did not [[Love|love]] England at all, did not [[Love|love]] Lady Hamilton at all,
 that he sailed in English ships only to pocket the prize money
 of French ships, and would as willingly have sailed in French ships
-for the prize money of English ships.  That is the sort of dull dust
-of gold that has been shaken like the drifting dust of the desert
+for the prize money of English ships.  That is the sort of dull [[Dust|dust]]
+of gold that has been shaken like the drifting [[Dust|dust]] of the [[Desert|desert]]
 over the swords and the relics, the crosses and the clasped
 hands of the men who marched to Jerusalem or died at Hattin.
 In these medieval pilgrims every inconsistency is a hypocrisy; while in
@@ -7179,47 +7179,47 @@ the whole reaction against the pilgrimage had its origin there;
 and because it was this at least that finally lost Jerusalem.
 Elsewhere in Palestine, to say nothing of Africa and Spain,
 splendid counter-strokes were still being delivered from the West,
-not the least being the splendid rescue by Richard of England.
+not the least being the splendid rescue by [[Richard]] of England.
 But I still think that with the mere name of that tiny town upon
 the hills the note of the whole human revolution had been struck,
 was changed and was silent.  All the other names were only the names
 of Eastern towns; but that was nearer to a man than his neighbours;
-a village inside his village, a house inside his house.
+a village inside his village, a [[house]] inside his [[house]].
 
-There is a hill above Bethlehem of a strange shape, with a flat top
+There is a [[Hill|hill]] above Bethlehem of a strange shape, with a flat top
 which makes it look oddly like an island, habitable though uninhabited,
 when all Moab heaves about it and beyond it as with the curves
 and colours of a sea.  Its stability suggests in some strange
 fashion what may often be felt in these lands with the longest
 record of culture; that there may be not only a civilisation
-but even a chivalry older than history.  Perhaps the table-land
+but even a chivalry older than [[history]].  Perhaps the table-land
 with its round top has a romantic reminiscence of a round table.
 Perhaps it is only a fantastic effect of evening, for it is felt
 most when the low skies are swimming with the colours of sunset,
 and in the shadows the shattered rocks about its base take on
-the shapes of titanic paladins fighting and falling around it.
-I only know that the mere shape of the hill and vista of the landscape
+the shapes of [[titanic]] paladins fighting and falling around it.
+I only know that the mere shape of the [[Hill|hill]] and vista of the landscape
 suggested such visions and it was only afterwards that I heard
 the local legend, which says it is here that some of the Christian
-knights made their last stand after they lost Jerusalem and which
+knights made their [[Last Stand|last stand]] after they lost Jerusalem and which
 names this height The Mountain of the Latins.
 
 They fell, and the ages rolled on them the rocks of scorn;
 they were buried in jests and buffooneries.  As the Renascence
 expanded into the rationalism of recent centuries, nothing seemed
-so ridiculous as to butcher and bleed in a distant desert not only
+so ridiculous as to butcher and bleed in a distant [[Desert|desert]] not only
 for a tomb, but an empty tomb.  The last legend of them withered
 under the wit of Cervantes, though he himself had fought in the last
-Crusade at Lepanto.  They were kicked about like dead donkeys
+Crusade at [[lepanto|Lepanto]].  They were kicked about like dead donkeys
 by the cool vivacity of Voltaire; who went off, very symbolically,
-to dance attendance on the new drill-sergeant of the Prussians.
+to [[Dance|dance]] attendance on the new drill-sergeant of the Prussians.
 They were dissected like strange beasts by the serene disgust
 of Gibbon, more serene than the similar horror with which
-he regarded the similar violence of the French Revolution.
-By our own time even the flippancy has become a platitude.
+he regarded the similar violence of the [[French Revolution]].
+By our own [[Time|time]] even the flippancy has become a platitude.
 They have long been the butt of every penny-a-liner who can talk of a
 helmet as a tin pot, of every caricaturist on a comic paper who can draw
-a fat man falling off a bucking horse; of every pushing professional
+a fat man falling off a bucking [[Horse|horse]]; of every pushing professional
 politician who can talk about the superstitions of the Middle Ages.
 Great men and small have agreed to contemn them; they were renounced
 by their children and refuted by their biographers; they were exposed,
@@ -7229,22 +7229,22 @@ They were proved wrong, and they were right.  They were judged
 finally and forgotten, and they were right.  Centuries after
 their fall the full experience and development of political
 discovery has shown beyond question that they were right.
-For there is a very simple test of the truth; that the very
-thing which was dismissed, as a dream of the ages of faith,
+For there is a very simple test of the [[Truth|truth]]; that the very
+thing which was dismissed, as [[A Dream|a dream]] of the ages of [[Faith|faith]],
 we have been forced to turn into a fact in the ages of fact.
 It is now more certain than it ever was before that Europe must
 rescue some lordship, or overlordship, of these old Roman provinces.
-Whether it is wise for England alone to claim Palestine, whether it
+Whether it is wise for England [[Alone|alone]] to claim Palestine, whether it
 would be better if the Entente could do so, I think a serious question.
 But in some form they are reverting for the Roman Empire.
 Every opportunity has been given for any other empire that could
 be its equal, and especially for the great dream of a mission
-for Imperial Islam.  If ever a human being had a run for his money,
+for Imperial [[Islam]].  If ever a human being had a run for his money,
 it was the Sultan of the Moslems riding on his Arab steed.
 His empire expanded over and beyond the great Greek empire of Byzantium;
 a last charge of the chivalry of Poland barely stopped it at the very
 gates of Vienna.  He was free to unfold everything that was in him,
-and he unfolded the death that was in him.  He reigned and he could
+and he unfolded the [[Death|death]] that was in him.  He reigned and he could
 not rule; he was successful and he did not succeed.  His baffled
 and retreating enemies left him standing, and he could not stand.
 He fell finally with that other half-heathen power in the North,
@@ -7252,33 +7252,33 @@ with which he had made an alliance against the remains of Roman
 and Byzantine culture.  He fell because barbarism cannot stand;
 because even when it succeeds it rather falls on its foes and
 crushes them.  And after all these things, after all these ages,
-with a wearier philosophy, with a heavier heart, we have been forced
+with a wearier [[philosophy]], with a heavier heart, we have been forced
 to do again the very thing that the Crusaders were derided for doing.
-What Western men failed to do for the faith, other Western men
-have been forced to do even without the faith.  The sons of Tancred
+What Western men failed to do for the [[Faith|faith]], other Western men
+have been forced to do even without the [[Faith|faith]].  The sons of Tancred
 are again in Tripoli.  The heirs of Raymond are again in Syria.
 And men from the Midlands or the Northumbrian towns went again
 through a furnace of thirst and fever and furious fighting,
-to gain the same water-courses and invest the same cities as of old.
-They trod the hills of Galilee and the Horns of Hattin threw no shadow
+to gain the same [[Water|water]]-courses and invest the same cities as of old.
+They trod the hills of Galilee and the Horns of Hattin threw no [[Shadow|shadow]]
 on their souls; they crossed dark and disastrous fields whose fame
 had been hidden from them, and avenged the fathers they had forgotten.
 And the most cynical of modern diplomatists, making their settlement
 by the most sceptical of modern philosophies, can find no practical
 or even temporary solution for this sacred land, except to bring it
-again under the crown of Coeur de Lion and the cross of St. George.
+again under the [[Crown|crown]] of Coeur de [[Lion]] and the [[Cross|cross]] of St. George.
 
 There came in through the crooked entry beside the great gap
 in the wall a tall soldier, dismounting and walking and wearing
-only the dust-hued habit of modern war.  There went no trumpet
-before him, neither did he enter by the Golden Gate; but the silence
-of the deserts was full of a phantom acclamation, as when from far
-away a wind brings in a whisper the cheering of many thousand men.
+only the [[Dust|dust]]-hued habit of modern war.  There went no trumpet
+before him, neither did he enter by the Golden Gate; but the [[Silence|silence]]
+of the deserts was full of a [[Phantom|phantom]] acclamation, as when from far
+away a [[Wind|wind]] brings in a whisper the cheering of many thousand men.
 For in that hour a long-lost cry found fulfilment, and something
 counted irrational returned in the reason of things.
 And at last even the wise understood, and at last even the learned
 were enlightened on a need truly and indeed international, which a mob
-in a darker age had known by the light of nature; something that
+in a darker age had known by the light of [[Nature|nature]]; something that
 could be denied and delayed and evaded, but not escaped for ever.
 _Id Deus vult_.
 
@@ -7292,7 +7292,7 @@ There is an attitude for which my friends and I were for a long period
 rebuked and even reviled; and of which at the present period we are
 less likely than ever to repent.  It was always called Anti-Semitism;
 but it was always much more true to call it Zionism.  At any rate
-it was much nearer to the nature of the thing to call it Zionism,
+it was much nearer to the [[Nature|nature]] of the thing to call it Zionism,
 whether or no it can find its geographical concentration in Zion.
 The substance of this heresy was exceedingly simple.  It consisted
 entirely in saying that Jews are Jews; and as a logical consequence
@@ -7307,9 +7307,9 @@ any trace of this detail of their discipline; and even the Russian
 pilgrims were said to be equally negligent in the matter.
 The point for the moment, however, is that if I was violently opposed
 to anything, it was not to Jews, but to that sort of remark about Jews;
-or rather to the silly and craven fear of making it a remark about Jews.
+or rather to the silly and craven [[Fear|fear]] of making it a remark about Jews.
 But my friends and I had in some general sense a policy in the matter;
-and it was in substance the desire to give Jews the dignity
+and it was in substance the [[Desire|desire]] to give Jews the dignity
 and status of a separate nation.  We desired that in some fashion,
 and so far as possible, Jews should be represented by Jews, should live
 in a society of Jews, should be judged by Jews and ruled by Jews.
@@ -7324,7 +7324,7 @@ become far more Anti-Semitic than I am or ever was.
 I have heard people talking with real injustice about the Jews,
 who once seemed to think it an injustice to talk about them
 at all.  But, above all, I have seen with my own eyes wild mobs
-marching through a great city, raving not only against Jews,
+marching through a great [[City|city]], raving not only against Jews,
 but against the English for identifying themselves with the Jews.
 I have seen the whole prestige of England brought into peril,
 merely by the trick of talking about two nations as if they were one.
@@ -7339,9 +7339,9 @@ The first was when all the Victorian historians and philosophers
 had told us that our German cousin was a cousin german
 and even germane; something naturally near and sympathetic.
 That also was an identification; that also was an assimilation;
-that also was a union of hearts.  For the second time in a few
+that also was a [[Union|union]] of hearts.  For the second [[Time|time]] in a few
 short years, English politicians and journalists have discovered
-the dreadful revenge of reality.  To pretend that something is what it
+the dreadful [[Revenge|revenge]] of reality.  To pretend that something is what it
 is not is business that can easily be fashionable and sometimes popular.
 But the thing we have agreed to regard as what it is not will always
 abruptly punish and pulverise us, merely by being what it is.
@@ -7364,7 +7364,7 @@ We might believe ourselves in the view that a Jew is an Englishman;
 but there was no reason why they should regard him as
 an Englishman, since they already recognised him as a Jew.
 This is the whole present problem of the Jew in Palestine;
-and it must be solved either by the logic of Zionism or the logic
+and it must be solved either by the [[logic]] of Zionism or the [[logic]]
 of purely English supremacy and, impartiality; and not by what
 seems to everybody in Palestine a monstrous muddle of the two.
 But of course it is not only the peril in Palestine that has made
@@ -7374,7 +7374,7 @@ The same journalists who politely describe Jews as Russians are
 now very impolitely describing certain Russians who are Jews.
 Many who had no particular objection to Jews as Capitalists
 have a very great objection to them as Bolshevists.  Those who
-had an innocent unconsciousness of the nationality of Eckstein,
+had an [[Innocent|innocent]] unconsciousness of the nationality of Eckstein,
 even when he called himself Eckstein, have managed to discover
 the nationality of Braunstein, even, when he calls, himself Trotsky.
 And much of this peril also might easily have been lessened,
@@ -7397,27 +7397,27 @@ I myself wholly reject Bolshevism, not because its actions
 are violent, but because its very thought is materialistic and mean.
 And if this preference is true even of Bolshevism, it is ten times
 truer of Zionism.  It really seems to me rather hard that the full
-storm of fury should have burst about the Jews, at the very moment
+[[Storm|storm]] of fury should have burst about the Jews, at the very moment
 when some of them at least have felt the call of a far cleaner ideal;
 and that when we have tolerated their tricks with our country,
 we should turn on them precisely when they seek in sincerity
 for their own.
 
 But in order to judge this Jewish possibility, we must understand
-more fully the nature of the Jewish problem.  We must consider it
+more fully the [[Nature|nature]] of the Jewish problem.  We must consider it
 from the start, because there are still many who do not know that
 there is a Jewish problem.  That problem has its proof, of course,
-in the history of the Jew, and the fact that he came from the East.
+in the [[history]] of the Jew, and the fact that he came from the East.
 A Jew will sometimes complain of the injustice of describing
-him as a man of the East; but in truth another very real
+him as a man of the East; but in [[Truth|truth]] another very real
 injustice may be involved in treating him as a man of the West.
 Very often even the joke against the Jew is rather a joke against
 those who have made the joke; that is, a joke against what they
 have made out of the Jew.  This is true especially, for instance,
 of many points of religion and ritual.  Thus we cannot help feeling,
-for instance, that there is something a little grotesque about
+for instance, that there is something a little [[Grotesque|grotesque]] about
 the Hebrew habit of putting on a top-hat as an act of worship.
-It is vaguely mixed up with another line of humour, about another
+It is vaguely mixed up with another line of [[Humour|humour]], about another
 class of Jew, who wears a large number of hats; and who must not
 therefore be credited with an extreme or extravagant religious zeal,
 leading him to pile up a pagoda of hats towards heaven.
@@ -7445,7 +7445,7 @@ but it has also created the topper.  We of the West must bear
 the burden, as best we may, both of the responsibility and of the hat.
 It is solely the special type and shape of hat that makes the Hebrew
 ritual seem ridiculous.  Performed in the old original Hebrew
-fashion it is not ridiculous, but rather if anything sublime.
+fashion it is not ridiculous, but rather if anything [[Sublime|sublime]].
 For the original fashion was an oriental fashion; and the Jews
 are orientals; and the mark of all such orientals is the wearing
 of long and loose draperies.  To throw those loose draperies
@@ -7453,9 +7453,9 @@ over the head is decidedly a dignified and even poetic gesture.
 One can imagine something like justice done to its majesty
 and mystery in one of the great dark drawings of William Blake.
 It may be true, and personally I think it is true, that the Hebrew
-covering of the head signifies a certain stress on the fear of God,
+covering of the head signifies a certain stress on the [[Fear|fear]] of God,
 which is the beginning of wisdom, while the Christian uncovering
-of the head suggests rather the love of God that is the end of wisdom.
+of the head suggests rather the [[Love|love]] of God that is the end of wisdom.
 But this has nothing to do with the taste and dignity of the ceremony;
 and to do justice to these we must treat the Jew as an oriental;
 we must even dress him as an oriental.
@@ -7477,7 +7477,7 @@ green necktie from round his neck, and winding it round his head.
 Yet the reply would be the right one; and would be equally logical
 and artistic.  As soon as the green tie had become a green turban,
 it might look as appropriate and even attractive as the green turban
-of any pilgrim of Mecca or any descendant of Mahomet, who walks
+of any [[Pilgrim|pilgrim]] of Mecca or any descendant of Mahomet, who walks
 with a stately air through the streets of Jaffa or Jerusalem.
 The bright colours that make the Margate Jews hideous are no brighter
 than those that make the Moslem crowd picturesque.  They are only worn
@@ -7493,18 +7493,18 @@ I have felt disposed to say:  let all liberal legislation stand,
 let all literal and legal civic equality stand; let a Jew occupy any
 political or social position which he can gain in open competition;
 let us not listen for a moment to any suggestions of reactionary
-restrictions or racial privilege.  Let a Jew be Lord Chief justice,
+restrictions or racial privilege.  Let a Jew be [[Lord Chief Justice|Lord Chief justice]],
 if his exceptional veracity and reliability have clearly marked
 him out for that post.  Let a Jew be Archbishop of Canterbury,
 if our national religion has attained to that receptive
 breadth that would render such a transition unobjectionable
 and even unconscious.  But let there be one single-clause bill;
 one simple and sweeping law about Jews, and no other.
-Be it enacted, by the King's Most Excellent Majesty, by and with
+Be it enacted, by the [[King]]'s Most Excellent Majesty, by and with
 the advice of the Lords Spiritual and Temporal and the Commons in
 Parliament assembled, that every Jew must be dressed like an Arab.
 Let him sit on the Woolsack, but let him sit there dressed as an Arab.
-Let him preach in St. Paul's Cathedral, but let him preach there
+Let him preach in St. Paul's [[Cathedral]], but let him preach there
 dressed as an Arab.  It is not my point at present to dwell on
 the pleasing if flippant fancy of how much this would transform
 the political scene; of the dapper figure of Sir Herbert Samuel
@@ -7516,26 +7516,26 @@ to any Jew, and to our own recovery of healthier relations with him.
 The point is that we should know where we are; and he would know
 where he is, which is in a foreign land.
 
-This is but a parenthesis and a parable, but it brings us to
+This is but a parenthesis and a [[Parable|parable]], but it brings us to
 the concrete controversial matter which is the Jewish problem.
-Only a few years ago it was regarded as a mark of a blood-thirsty
+Only a few years ago it was regarded as a mark of a [[Blood|blood]]-thirsty
 disposition to admit that the Jewish problem was a problem,
 or even that the Jew was a Jew.  Through much misunderstanding certain
-friends of mine and myself have persisted in disregarding the silence
+friends of mine and myself have persisted in disregarding the [[Silence|silence]]
 thus imposed; but facts have fought for us more effectively than words.
-By this time nobody is more conscious of the Jewish problem
+By this [[Time|time]] nobody is more conscious of the Jewish problem
 than the most intelligent and idealistic of the Jews.  The folly
 of the fashion by which Jews often concealed their Jewish names,
-must surely be manifest by this time even to those who concealed them.
+must surely be manifest by this [[Time|time]] even to those who concealed them.
 To mention but one example of the way in which this fiction
 falsified the relations of everybody and everything, it is enough
 to note that it involved the Jews themselves in a quite new
 and quite needless unpopularity in the first years of the war.
 A poor little Jewish tailor, who called himself by a German name merely
-because he lived for a short time in a German town, was instantly
+because he lived for a short [[Time|time]] in a German town, was instantly
 mobbed in Whitechapel for his share in the invasion of Belgium.
-He was cross-examined about why he had damaged the tower of Rheims;
-and talked to as if he had killed Nurse Cavell with his own pair
+He was [[Cross|cross]]-examined about why he had damaged the tower of Rheims;
+and talked to as if he had killed [[Nurse]] Cavell with his own pair
 of shears.  It was very unjust; quite as unjust as it would be to ask
 Bethmann-Hollweg why he had stabbed Eglon or hewn Agag in pieces.
 But it was partly at least the fault of the Jew himself,
@@ -7556,21 +7556,21 @@ of poor people.  It was done by confining the controversy to a small
 world of wealth and refinement, remote from all the real facts involved.
 For the rich are the most ignorant people on earth, and the best
 that can be said for them, in cases like these, is that their
-ignorance often reaches the point of innocence.
+ignorance often reaches the point of [[innocence]].
 
 I will take a typical case, which sums up the whole of this
 absurd fashion.  There was a controversy in the columns
-of an important daily paper, some time ago, on the subject
-of the character of Shylock in Shakespeare.  Actors and authors
+of an important daily paper, some [[Time|time]] ago, on the subject
+of the character of [[Shylock]] in Shakespeare.  Actors and authors
 of distinction, including some of the most brilliant of living Jews,
 argued the matter from the most varied points of view.
 Some said that Shakespeare was prevented by the prejudices
-of his time from having a complete sympathy with Shylock.
-Some said that Shakespeare was only restrained by fear of the powers
-of his time from expressing his complete sympathy with Shylock.
+of his [[Time|time]] from having a complete sympathy with [[Shylock]].
+Some said that Shakespeare was only restrained by [[Fear|fear]] of the powers
+of his [[Time|time]] from expressing his complete sympathy with [[Shylock]].
 Some wondered how or why Shakespeare had got hold of such a queer
 story as that of the pound of flesh, and what it could possibly have
-to do with so dignified and intellectual a character as Shylock.
+to do with so dignified and intellectual a character as [[Shylock]].
 In short, some wondered why a man of genius should be so much
 of an Anti-Semite, and some stoutly declared that he must
 have been a Pro-Semite. But all of them in a sense admitted
@@ -7579,47 +7579,47 @@ The correspondence filled column after column and went on for weeks.
 And from one end of that correspondence to the other, no human
 being even so much as mentioned the word "usury." It is exactly
 as if twenty clever critics were set down to talk for a month about
-the play of Macbeth, and were all strictly forbidden to mention
+the play of [[Macbeth]], and were all strictly forbidden to mention
 the word "murder."
 
 The play called _The Merchant of Venice_ happens to be about usury,
-and its story is a medieval satire on usury.  It is the fashion
-to say that it is a clumsy and grotesque story; but as a fact it
+and its story is a medieval [[Satire|satire]] on usury.  It is the fashion
+to say that it is a clumsy and [[Grotesque|grotesque]] story; but as a fact it
 is an exceedingly good story.  It is a perfect and pointed story
 for its purpose, which is to convey the moral of the story.  And the
-moral is that the logic of usury is in its nature at war with life,
-and might logically end in breaking into the bloody house of life.
+moral is that the [[logic]] of usury is in its [[Nature|nature]] at war with life,
+and might logically end in breaking into the bloody [[house]] of life.
 In other words, if a creditor can always claim a man's tools or a
-man's home, he might quite as justly claim one of his arms or legs.
+man's [[Home|home]], he might quite as justly claim one of his arms or legs.
 This principle was not only embodied in medieval satires but in very
 sound medieval laws, which set a limit on the usurer who was trying
 to take away a man's livelihood, as the usurer in the play is trying
 to take away a man's life.  And if anybody thinks that usury can
 never go to lengths wicked enough to be worthy of so wild an image,
 then that person either knows nothing about it or knows too much.
-He is either one of the innocent rich who have never been the victims
+He is either one of the [[Innocent|innocent]] rich who have never been the victims
 of money-lenders, or else one of the more powerful and influential
 rich who are money-lenders themselves.
 
 All this, I say, is a fact that must be faced, but there is another side
 to the case, and it is this that the genius of Shakespeare discovered.
 What he did do, and what the medieval satirist did not do, was to attempt
-to understand Shylock; in the true sense to sympathise with Shylock
-the money-lender, as he sympathised with Macbeth the murderer.
+to understand [[Shylock]]; in the true sense to sympathise with [[Shylock]]
+the money-lender, as he sympathised with [[Macbeth]] the murderer.
 It was not to deny that the man was an usurer, but to assert
 that the usurer was a man.  And the Elizabethan dramatist does
-make him a man, where the medieval satirist made him a monster.
+make him a man, where the medieval satirist made him a [[Monster|monster]].
 Shakespeare not only makes him a man but a perfectly
-sincere and self-respecting man.  But the point is this:
+sincere and [[Self|self]]-respecting man.  But the point is this:
 that he is a sincere man who sincerely believes in usury.
-He is a self-respecting man who does not despise himself
+He is a [[Self|self]]-respecting man who does not despise himself
 for being a usurer.  In one word, he regards usury as normal.
 In that word is the whole problem of the popular impression of the Jews.
 What Shakespeare suggested about the Jew in a subtle and sympathetic way,
 millions of plain men everywhere would suggest about him in a
 rough and ready way.  Regarding the Jew in relation to his ideas
 about interest, they think either that he is simply immoral;
-or that if he is moral, then he has a different morality.
+or that if he is moral, then he has a different [[morality]].
 There is a great deal more to be said about how far this is true,
 and about what are its causes and excuses if it is true.
 But it is an old story, surely, that the worst of all cures is
@@ -7633,7 +7633,7 @@ form of Anti-Semitism. In the controversies of Palestine and Syria,
 for instance, it is very common to hear the answer that the Jew is no
 worse than the Armenian.  The Armenian also is said to be unpopular
 as a money-lender and a mercantile upstart; yet the Armenian figures
-as a martyr for the Christian faith and a victim of the Moslem fury.
+as a martyr for the Christian [[Faith|faith]] and a victim of the Moslem fury.
 But this is one of those arguments which really carry their own answer.
 It is like the sceptical saying that man is only an animal,
 which of itself provokes the retort, "What an animal!"
@@ -7644,7 +7644,7 @@ talk of the competition of Armenians among Welsh shop-keepers,
 or of the crowd of Armenians on Brighton Parade?  Can Armenian usury
 be a common topic of talk in a camp in California and in a club
 in Piccadilly?  Does Shakespeare show us a tragic Armenian towering
-over the great Venice of the Renascence?  Does Dickens show us
+over the great [[Venice]] of the Renascence?  Does Dickens show us
 a realistic Armenian teaching in the thieves' kitchens of the slums?
 When we meet Mr. Vernon Vavasour, that brilliant financier, do we
 speculate on the probability of his really having an Armenian name
@@ -7653,10 +7653,10 @@ of people, from the peasants of Poland to the peasants of Portugal,
 can agree more or less upon the special subject of Armenia?  Obviously it
 is not in the least true; obviously the Armenian question is only
 a local question of certain Christians, who may be more avaricious
-than other Christians.  But it is the truth about the Jews.
-It is only half the truth, and one which by itself would be very unjust
-to the Jews.  But it is the truth, and we must realise it as sharply
-and clearly as we can.  The truth is that it is rather strange
+than other Christians.  But it is the [[Truth|truth]] about the Jews.
+It is only half the [[Truth|truth]], and one which by itself would be very unjust
+to the Jews.  But it is the [[Truth|truth]], and we must realise it as sharply
+and clearly as we can.  The [[Truth|truth]] is that it is rather strange
 that the Jews should be so anxious for international agreements.
 For one of the few really international agreements is a suspicion
 of the Jews.
@@ -7678,41 +7678,41 @@ The comparison helps us to clear away some of the cloudy evasions
 by which modern men have tried to escape from that experience.
 It is absurd to say that people are only prejudiced against the money
 methods of the Jews because the medieval church has left behind a hatred
-of their religion.  We might as well say that people only protect
+of their religion.  We might as [[Well|well]] say that people only protect
 the chickens from the gipsies because the medieval church undoubtedly
 condemned fortune-telling. It is unreasonable for a Jew to complain
-that Shakespeare makes Shylock and not Antonio the ruthless money-lender;
-or that Dickens makes Fagin and not Sikes the receiver of stolen goods.
-It is as if a gipsy were to complain when a novelist describes a child
+that Shakespeare makes [[Shylock]] and not [[Antonio]] the ruthless money-lender;
+or that Dickens makes [[Fagin]] and not Sikes the receiver of stolen goods.
+It is as if a gipsy were to complain when a novelist describes a [[Child|child]]
 as stolen by the gipsies, and not by the curate or the mothers' meeting.
 It is to complain of facts and probabilities.  There may be good gipsies;
 there may be good qualities which specially belong to them as gipsies;
 many students of the strange race have, for instance, praised a
-certain dignity and self-respect among the women of the Romany.
+certain dignity and [[Self|self]]-respect among the women of the Romany.
 But no student ever praised them for an exaggerated respect
 for private property, and the whole argument about gipsy theft can
 be roughly repeated about Hebrew usury.  Above all, there is one
 other respect in which the comparison is even more to the point.
 It is the essential fact of the whole business, that the Jews do not
 become national merely by becoming a political part of any nation.
-We might as well say that the gipsies had villas in Clapham,
+We might as [[Well|well]] say that the gipsies had villas in Clapham,
 when their caravans stood on Clapham Common.
 
 But, of course, even this comparison between the two wandering peoples
 fails in the presence of the greater problem.  Here again even the attempt
-at a parallel leaves the primary thing more unique.  The gipsies do
+at a parallel [[Leaves|leaves]] the primary thing more unique.  The gipsies do
 not become municipal merely by passing through a number of parishes,
 and it would seem equally obvious that a Jew need not become English
-merely by passing through England on his way from Germany to America.
+merely by passing through England on his way from [[Germany]] to [[America]].
 But the gipsy not only is not municipal, but he is not called municipal.
 His caravan is not immediately painted outside with the number and name
-of 123 Laburnam Road, Clapham.  The municipal authorities generally
+of 123 Laburnam [[Road]], Clapham.  The municipal authorities generally
 notice the wheels attached to the new cottage, and therefore do not
 fall into the error.  The gipsy may halt in a particular parish,
 but he is not as a rule immediately made a parish councillor.
 The cases in which a travelling tinker has been suddenly made
 the mayor of an important industrial town must be comparatively rare.
-And if the poor vagabonds of the Romany blood are bullied by mayors
+And if the poor vagabonds of the Romany [[Blood|blood]] are bullied by mayors
 and magistrates, kicked off the land by landlords, pursued by policemen
 and generally knocked about from pillar to post, nobody raises
 an outcry that _they_ are the victims of religious persecution;
@@ -7731,7 +7731,7 @@ the modern societies they live in also grant them vital forms of national
 political power.  Here the vagrant is already as rich as a miser
 and the vagrant is actually made a mayor.  As will be seen shortly,
 there is a Jewish side of the story which leads really to the same
-ending of the story; but the truth stated here is quite independent
+ending of the story; but the [[Truth|truth]] stated here is quite independent
 of any sympathetic or unsympathetic view of the race in question.
 It is a question of fact, which a sensible Jew can afford to recognise,
 and which the most sensible Jews do very definitely recognise.
@@ -7744,7 +7744,7 @@ in the five great capitals of Europe.  Nobody can pretend that the
 Seventh Day Baptists are the seven grandchildren of one grandfather,
 scattered systematically among the warring nations of the earth.
 Nobody thinks the Plymouth Brothers are literally brothers,
-or that they are likely to be quite as powerful in Paris or in
+or that they are likely to be quite as powerful in [[Paris]] or in
 Petrograd as in Plymouth.
 
 The Jewish problem can be stated very simply after all.
@@ -7754,7 +7754,7 @@ This may not appear to matter to those who do not believe in nations,
 those who really think there ought not to be any nations.
 But I literally fail to understand anybody who does believe in patriotism
 thinking that this state of affairs can be consistent with it.
-It is in its nature intolerable, from a national standpoint,
+It is in its [[Nature|nature]] intolerable, from a national standpoint,
 that a man admittedly powerful in one nation should be bound
 to a man equally powerful in another nation, by ties more private
 and personal even than nationality.  Even when the purpose is not
@@ -7769,12 +7769,12 @@ civilised nation of the Jews.
 For what may be criticised here as Anti-Semitism is only the negative
 side of Zionism.  For the sake of convenience I have begun by stating
 it in terms of the universal popular impression which some call
-a popular prejudice.  But such a truth of differentiation is equally
+a popular prejudice.  But such a [[Truth|truth]] of differentiation is equally
 true on both its different sides.  Suppose somebody proposes to mix up
-England and America, under some absurd name like the Anglo-Saxon Empire.
+England and [[America]], under some absurd name like the Anglo-Saxon Empire.
 One man may say, "Why should the jolly English inns and villages
 be swamped by these priggish provincial Yankees?"  Another may say,
-"Why should the real democracy of a young country be tied to your
+"Why should the real [[Democracy|democracy]] of a young country be tied to your
 snobbish old squirarchy?"  But both these views are only versions
 of the same view of a great American:  "God never made one people
 good enough to rule another."
@@ -7788,7 +7788,7 @@ they do not deny that Jews may be unpopular; they do not deny that there
 may be other than superstitious reasons for their unpopularity.
 They are not obliged to maintain that when a Piccadilly dandy talks
 about being in the hands of the Jews he is moved by the theological
-fanaticism that prevails in Piccadilly; or that when a silly youth on
+[[Fanaticism|fanaticism]] that prevails in Piccadilly; or that when a silly youth on
 Derby Day says he was done by a dirty Jew, he is merely conforming to that
 Christian orthodoxy which is one of the strict traditions of the Turf.
 They are not, like some other Jews, forced to pay so extravagant
@@ -7810,17 +7810,17 @@ which to produce, and they are cosmopolitans rather than patriots
 because they have no country of their own for which to be patriotic.
 They can no more become farmers while they are vagrant than they
 could have built the Temple of Solomon while they were building
-the Pyramids of Egypt.  They can no more feel the full stream
-of nationalism while they wander in the desert of nomadism than
+the Pyramids of [[Egypt]].  They can no more feel the full stream
+of nationalism while they wander in the [[Desert|desert]] of nomadism than
 they could bathe in the waters of Jordan while they were weeping
-by the waters of Babylon.  For exile is the worst kind of bondage.
+by the waters of Babylon.  For [[Exile|exile]] is the worst kind of bondage.
 In insisting upon that at least the Zionists have insisted upon
-a profound truth, with many applications to many other moral issues.
+a profound [[Truth|truth]], with many applications to many other moral issues.
 It is true that for any one whose heart is set on a particular
-home or shrine, to be locked out is to be locked in.
-The narrowest possible prison for him is the whole world.
+[[Home|home]] or shrine, to be locked out is to be locked in.
+The narrowest possible [[Prison|prison]] for him is the whole world.
 
-It will be well to notice briefly, however, how the principle
+It will be [[Well|well]] to notice briefly, however, how the principle
 applies to the two Anti-Semitic arguments already considered.
 The first is the charge of usury and unproductive loans, the second
 the charge either of treason or of unpatriotic detachment.
@@ -7831,7 +7831,7 @@ the unproductive loan is only a minor form of the unproductive labour.
 It is certainly true that the latter complaint is, if possible,
 commoner than the former, especially in comparatively simple
 communities like those of Palestine.  A very honest Moslem Arab
-said to me, with a singular blend of simplicity and humour, "A Jew
+said to me, with a singular blend of simplicity and [[Humour|humour]], "A Jew
 does not work; but he grows rich.  You never see a Jew working;
 and yet they grow rich.  What I want to know is, why do we not
 all do the same?  Why do we not also do this and become rich?"
@@ -7846,7 +7846,7 @@ many laborious Jewish blacksmiths, many active Jewish hedgers
 and ditchers, or even many energetic Jewish hunters and fishermen.
 In short, the popular impression is tolerably true to life,
 as popular impressions very often are; though it is not fashionable
-to say so in these days of democracy and self-determination. Jews
+to say so in these days of [[Democracy|democracy]] and [[Self|self]]-determination. Jews
 do not generally work on the land, or in any of the handicrafts
 that are akin to the land; but the Zionists reply that this is
 because it can never really be their own land.  That is Zionism,
@@ -7855,43 +7855,43 @@ and that has really a practical place in the past and future of Zion.
 Patriotism is not merely dying for the nation.  It is dying
 with the nation.  It is regarding the fatherland not merely
 as a real resting-place like an inn, but as a final resting-place,
-like a house or even a grave.  Even the most Jingo of the Jews
-do not feel like this about their adopted country; and I doubt
+like a [[house]] or even a [[Grave|grave]].  Even the most Jingo of the Jews
+do not feel like this about their adopted country; and I [[Doubt|doubt]]
 if the most intelligent of the Jews would pretend that they did.
 Even if we can bring ourselves to believe that Disraeli lived
 for England, we cannot think that he would have died with her.
 If England had sunk in the Atlantic he would not have sunk with her,
-but easily floated over to America to stand for the Presidency.
+but easily floated over to [[America]] to stand for the Presidency.
 Even if we are profoundly convinced that Mr. Beit or Mr. Eckstein
-had patriotic tears in his eyes when he obtained a gold concession
-from Queen Victoria, we cannot believe that in her absence he would
+had patriotic [[Tears|tears]] in his eyes when he obtained a gold concession
+from [[Queen]] Victoria, we cannot believe that in her absence he would
 have refused a similar concession from the German Emperor.
 When the Jew in France or in England says he is a good patriot
 he only means that he is a good citizen, and he would put it
-more truly if he said he was a good exile.  Sometimes indeed
+more truly if he said he was a good [[Exile|exile]].  Sometimes indeed
 he is an abominably bad citizen, and a most exasperating and
-execrable exile, but I am not talking of that side of the case.
-I am assuming that a man like Disraeli did really make a romance
-of England, that a man like Dernburg did really make a romance
-of Germany, and it is still true that though it was a romance,
-they would not have allowed it to be a tragedy.  They would have
+execrable [[Exile|exile]], but I am not talking of that side of the case.
+I am assuming that a man like Disraeli did really make a [[Romance|romance]]
+of England, that a man like Dernburg did really make a [[Romance|romance]]
+of [[Germany]], and it is still true that though it was a [[Romance|romance]],
+they would not have allowed it to be a [[Tragedy|tragedy]].  They would have
 seen that the story had a happy ending, especially for themselves.
 These Jews would not have died with any Christian nation.
 
 But the Jews did die with Jerusalem.  That is the first and
-last great truth in Zionism.  Jerusalem was destroyed and Jews
+last great [[Truth|truth]] in Zionism.  Jerusalem was destroyed and Jews
 were destroyed with it, men who cared no longer to live because
-the city of their faith had fallen.  It may be questioned whether
-all the Zionists have all the sublime insanity of the Zealots.
+the [[City|city]] of their [[Faith|faith]] had fallen.  It may be questioned whether
+all the Zionists have all the [[Sublime|sublime]] insanity of the Zealots.
 But at least it is not nonsense to suggest that the Zionists
 might feel like this about Zion.  It is nonsense to suggest
 that they would ever feel like this about Dublin or Moscow.
-And so far at least the truth both in Semitism and Anti-Semitism
+And so far at least the [[Truth|truth]] both in Semitism and Anti-Semitism
 is included in Zionism.
 
 It is a commonplace that the infamous are more famous than the famous.
 Byron noted, with his own misanthropic moral, that we think more
-of Nero the monster who killed his mother than of Nero the noble
+of Nero the [[Monster|monster]] who killed his mother than of Nero the noble
 Roman who defeated Hannibal.  The name of Julian more often suggests
 Julian the Apostate than Julian the Saint; though the latter crowned
 his canonisation with the sacred glory of being the patron saint
@@ -7906,7 +7906,7 @@ illustration of the same injustice; for, by comparison with the other,
 Jude the faithful might almost be called Jude the obscure.
 The critic who said, whether innocently or ironically, "What wicked
 men these early Christians were!" was certainly more successful
-in innocence than in irony; for he seems to have been innocent or
+in [[innocence]] than in irony; for he seems to have been [[Innocent|innocent]] or
 ignorant of the whole idea of the Christian communion.  Judas Iscariot
 was one of the very earliest of all possible early Christians.
 And the whole point about him was that his hand was in the same dish;
@@ -7918,7 +7918,7 @@ And if you shout out "Judas" to a politician in the thick of a political
 tumult, you will have some difficulty in soothing him afterwards,
 with the assurance that you had merely traced in him something
 of that splendid zeal and valour which dragged down the tyranny
-of Antiochus, in the day of the great deliverance of Israel.
+of [[Antiochus]], in the day of the great deliverance of Israel.
 
 Those two possible uses of the name of Judas would give us yet another
 compact embodiment of the case for Zionism.  Numberless international
@@ -7926,13 +7926,13 @@ Jews have gained the bad name of Judas, and some have certainly
 earned it.  If you have gained or earned the good name of Judas,
 it can quite fairly and intelligently be affirmed that this was not
 the fault of the Jews, but of the peculiar position of the Jews.
-A man can betray like Judas Iscariot in another man's house;
+A man can betray like Judas Iscariot in another man's [[house]];
 but a man cannot fight like Judas Maccabeus for another man's temple.
 There is no more truly rousing revolutionary story amid all the stories
 of mankind, there is no more perfect type of the element of chivalry
 in rebellion, than that magnificent tale of the Maccabee who stabbed
-from underneath the elephant of Antiochus and died under the fall
-of that huge and living castle.  But it would be unreasonable to ask
+from underneath the elephant of [[Antiochus]] and died under the fall
+of that huge and living [[Castle|castle]].  But it would be unreasonable to ask
 Mr. Montagu to stick a knife into the elephant on which Lord Curzon,
 let us say, was riding in all the pomp of Asiatic imperialism.
 For Mr. Montagu would not be liberating his own land; and therefore
@@ -7944,7 +7944,7 @@ in the affair of Panama, it must be admitted that these exhibit
 a humbler and more humdrum type of civic duty, and do not remind
 us of the more reckless virtues of the Maccabees or the Zealots.
 A man may be a good citizen of anywhere, but he cannot be a national
-hero of nowhere; and for this particular type of patriotic passion
+[[Hero|hero]] of nowhere; and for this particular type of patriotic passion
 it is necessary to have a _patria_.  The Zionists therefore are
 maintaining a perfectly reasonable proposition, both about the charge
 of usury and the charge of treason, if they claim that both could
@@ -7954,14 +7954,14 @@ Unfortunately they are not always reasonable about their own
 reasonable proposition.  Some of them have a most unlucky habit
 of ignoring, and therefore implicitly denying, the very evil
 that they are wisely trying to cure.  I have already remarked
-this irritating innocence in the first of the two questions;
-the criticism that sees everything in Shylock except the point of him,
+this irritating [[innocence]] in the first of the two questions;
+the criticism that sees everything in [[Shylock]] except the point of him,
 or the point of his knife.  How in the politics of Palestine at this
 moment this first question is in every sense the primary question.
 Palestine has hardly as yet a patriotism to be betrayed; but it
 certainly has a peasantry to be oppressed, and especially to be
 oppressed as so many peasantries have been with usury and forestalling.
-The Syrians and Arabs and all the agricultural and pastoral populations
+The Syrians and Arabs and all the agricultural and [[Pastoral|pastoral]] populations
 of Palestine are, rightly or wrongly, alarmed and angered at the advent
 of the Jews to power; for the perfectly practical and simple
 reason of the reputation which the Jews have all over the world.
@@ -7973,7 +7973,7 @@ is not unnatural.  It may be the result of persecution, but it
 is one that has definitely resulted.  It may be the consequence
 of a misunderstanding; but it is a misunderstanding that must itself
 be understood.  Rightly or wrongly, certain people in Palestine
-fear the coming of the Jews as they fear the coming of the locusts;
+[[Fear|fear]] the coming of the Jews as they [[Fear|fear]] the coming of the locusts;
 they regard them as parasites that feed on a community by a
 thousand methods of financial intrigue and economic exploitation.
 I could understand the Jews indignantly denying this, or eagerly
@@ -7987,15 +7987,15 @@ I will give one curious example from one of the best and most
 brilliant of the Zionists.  Dr. Weizmann is a man of large mind
 and human sympathies; and it is difficult to believe that any one
 with so fine a sense of humanity can be entirely empty of anything
-like a sense of humour.  Yet, in the middle of a very temperate
+like a sense of [[Humour|humour]].  Yet, in the middle of a very temperate
 and magnanimous address on "Zionist Policy," he can actually
 say a thing like this, "The Arabs need us with our knowledge,
 and our experience and our money.  If they do not have us they
 will fall into the hands of others, they will fall among sharks."
-One is tempted for the moment to doubt whether any one else
+One is tempted for the moment to [[Doubt|doubt]] whether any one else
 in the world could have said that, except the Jew with his strange
 mixture of brilliancy and blindness, of subtlety and simplicity.
-It is much as if President Wilson were to say, "Unless America deals
+It is much as if President Wilson were to say, "Unless [[America]] deals
 with Mexico, it will be dealt with by some modern commercial power,
 that has trust-magnates and hustling millionaires."  But would
 President Wilson say it?  It is as if the German Chancellor had said,
@@ -8010,7 +8010,7 @@ perhaps be in danger of massacres."  I suspect that a Turk would see
 the joke, even if it were as grim a joke as the massacres themselves.
 If the Zionists wish to quiet the fears of the Arabs, surely the
 first thing to do is to discover what the Arabs are afraid of.
-And very little investigation will reveal the simple truth that they
+And very little investigation will reveal the simple [[Truth|truth]] that they
 are very much afraid of sharks; and that in their book of symbolic
 or heraldic zoology it is the Jew who is adorned with the dorsal fin
 and the crescent of cruel teeth.  This may be a fairy-tale about
@@ -8027,13 +8027,13 @@ But they can hardly be mistaken in attributing to the respectable
 professor what he himself considers as his claims to respect.
 And as the imagery about the shark may be too metaphorical
 or almost mythological, there is not the smallest difficulty in
-stating in plain words what the Arabs fear in the Jews.  They fear,
+stating in plain words what the Arabs [[Fear|fear]] in the Jews.  They [[Fear|fear]],
 in exact terms, their knowledge and their experience and their money.
-The Arabs fear exactly the three things which he says they need.
+The Arabs [[Fear|fear]] exactly the three things which he says they need.
 Only the Arabs would call it a knowledge of financial trickery
 and an experience of political intrigue, and the power given
 by hoards of money not only of their own but of other peoples.
-About Dr. Weizmann and the true Zionists this is self-evidently unjust;
+About Dr. Weizmann and the true Zionists this is [[Self|self]]-evidently unjust;
 but about Jewish influence of the more visible and vulgar kind
 it has to be proved to be unjust.  Feeling as I do the force
 of the real case for Zionism, I venture most earnestly
@@ -8042,19 +8042,19 @@ But above all I implore them not to be content with assuring us again
 and again of their knowledge and their experience and their money.
 That is what people dread like a pestilence or an earthquake;
 their knowledge and their experience and their money.
-It is needless for Dr. Weizmann to tell us that he does not desire
+It is needless for Dr. Weizmann to tell us that he does not [[Desire|desire]]
 to enter Palestine like a Junker or drive thousands of Arabs forcibly
 out of the land; nobody supposes that Dr. Weizmann looks like a Junker;
 and nobody among the enemies of the Jews says that they have driven
 their foes in that fashion since the wars with the Canaanites.
 But for the Jews to reassure us by insisting on their own economic
-culture or commercial education is exactly like the Junkers
+culture or commercial [[Education|education]] is exactly like the Junkers
 reassuring us by insisting on the unquestioned supremacy of
 their Kaiser or the unquestioned obedience of their soldiers.
 Men bar themselves in their houses, or even hide themselves
 in their cellars, when such virtues are abroad in the land.
 
-In short the fear of the Jews in Palestine, reasonable or unreasonable,
+In short the [[Fear|fear]] of the Jews in Palestine, reasonable or unreasonable,
 is a thing that must be answered by reason.  It is idle for the unpopular
 thing to answer with boasts, especially boasts of the very quality
 that makes it unpopular.  But I think it could be answered by reason,
@@ -8065,15 +8065,15 @@ deal with the particular virtues which they are generally accused
 of not showing.  It is necessary to understand this more thoroughly
 than it is generally understood, and especially better than it
 is usually stated in the language of fashionable controversy.
-For the question involves the whole success or failure of Zionism.
-Many of the Zionists know it; but I rather doubt whether most of
+For the question involves the whole [[success]] or failure of Zionism.
+Many of the Zionists know it; but I rather [[Doubt|doubt]] whether most of
 the Anti-Zionists know that they know it.  And some of the phrases
 of the Zionists, such as those that I have noted, too often tend
 to produce the impression that they ignore when they are not ignorant.
 They are not ignorant; and they do not ignore in practice;
 even when an intellectual habit makes them seem to ignore in theory.
 Nobody who has seen a Jewish rural settlement, such as Rishon,
-can doubt that some Jews are sincerely filled with the vision
+can [[Doubt|doubt]] that some Jews are sincerely filled with the vision
 of sitting under their own vine and fig-tree, and even with its
 accompanying lesson that it is first necessary to grow the fig-tree
 and the vine.
@@ -8083,24 +8083,24 @@ It will not succeed by the number of successes, but rather
 by the number of failures, or what the world (and certainly
 not least the Jewish world) has generally called failures.
 It will be tested, not by whether Jews can climb to the top
-of the ladder, but by whether Jews can remain at the bottom;
+of the ladder, but by whether Jews can remain at the [[Bottom|bottom]];
 not by whether they have a hundred arts of becoming important,
 but by whether they have any skill in the art of remaining insignificant.
 It is often noted that the intelligent Israelite can rise to positions
-of power and trust outside Israel, like Witte in Russia or Rufus Isaacs
+of power and trust outside Israel, like Witte in [[Russia]] or Rufus Isaacs
 in England.  It is generally bad, I think, for their adopted country;
 but in any case it is no good for the particular problem of their
 own country.  Palestine cannot have a population of Prime Ministers
 and Chief Justices; and if those they rule and judge are not Jews,
 then we have not established a commonwealth but only an oligarchy.
 It is said again that the ancient Jews turned their enemies
-into hewers of wood and drawers of water.  The modern Jews have
-to turn themselves into hewers of wood and drawers of water.
+into hewers of wood and drawers of [[Water|water]].  The modern Jews have
+to turn themselves into hewers of wood and drawers of [[Water|water]].
 If they cannot do that, they cannot turn themselves into citizens,
 but only into a kind of alien bureaucrats, of all kinds
 the most perilous and the most imperilled.  Hence a Jewish
-state will not be a success when the Jews in it are successful,
-or even when the Jews in it are statesmen.  It will be a success
+state will not be a [[success]] when the Jews in it are successful,
+or even when the Jews in it are statesmen.  It will be a [[success]]
 when the Jews in it are scavengers, when the Jews in it are sweeps,
 when they are dockers and ditchers and porters and hodmen.
 When the Zionist can point proudly to a Jewish navvy who has _not_
@@ -8114,11 +8114,11 @@ the captivity of Zion.
 Zionists of whose sincerity I am personally convinced,
 and of whose intelligence anybody would be convinced, have told
 me that there really is, in places like Rishon, something like a
-beginning of this spirit; the love of the peasant for his land.
+beginning of this spirit; the [[Love|love]] of the peasant for his land.
 One lady, even in expressing her conviction of it, called it "this
-very un-Jewish characteristic."  She was perfectly well aware both of
+very un-Jewish characteristic."  She was perfectly [[Well|well]] aware both of
 the need of it in the Jewish land, and the lack of it in the Jewish race.
-In short she was well aware of the truth of that seemingly topsy-turvy
+In short she was [[Well|well]] aware of the [[Truth|truth]] of that seemingly topsy-turvy
 test I have suggested; that of whether men are worthy to be drudges.
 When a humorous and humane Jew thus accepts the test, and honestly
 expects the Jewish people to pass it, then I think the claim
@@ -8128,9 +8128,9 @@ circumstances to set it altogether aside.  It is our whole complaint
 against the Jew that he does not till the soil or toil with the spade;
 it is very hard on him to refuse him if he really says, "Give me
 a soil and I will till it; give me a spade and I will use it."
-It is our whole reason for distrusting him that he cannot really love
+It is our whole reason for distrusting him that he cannot really [[Love|love]]
 any of the lands in which he wanders; it seems rather indefensible to be
-deaf to him if he really says, "Give me a land and I will love it."
+deaf to him if he really says, "Give me a land and I will [[Love|love]] it."
 I would certainly give him a land or some instalment of the land,
 (in what general sense I will try to suggest a little later) so long
 as his conduct on it was watched and tested according to the principles
@@ -8141,9 +8141,9 @@ that is he must belong to the soil and not merely make the soil
 belong to him.  He must have the simplicity, and what many would
 call the stupidity of the peasant.  He must not only call a spade
 a spade, but regard it as a spade and not as a speculation.
-By some true conversion the urban and modern man must be not
+By some true [[Conversion|conversion]] the urban and modern man must be not
 only on the soil, but of the soil, and free from our urban trick
-of inventing the word dirt for the dust to which we shall return.
+of inventing the word dirt for the [[Dust|dust]] to which we shall return.
 He must be washed in mud, that he may be clean.
 
 How far this can really happen it is very hard for anybody,
@@ -8152,7 +8152,7 @@ It is admitted that there is much Arab and Syrian labour employed;
 and this in itself would leave all the danger of the Jew
 as a mere capitalist.  The Jews explain it, however, by saying
 that the Arabs will work for a lower wage, and that this is
-necessarily a great temptation to the struggling colonists.
+necessarily a great [[Temptation|temptation]] to the struggling colonists.
 In this they may be acting naturally as colonists, but it is none
 the less clear that they are not yet acting literally as labourers.
 It may not be their fault that they are not proving themselves to
@@ -8163,8 +8163,8 @@ agricultural labourer, if he is a decently paid agricultural labourer.
 On the other hand, the leaders of these local experiments,
 if they have not yet shown the higher materialism of peasants,
 most certainly do not show the lower materialism of capitalists.
-There can be no doubt of the patriotic and even poetic spirit in which
-many of them hope to make their ancient wilderness blossom like the rose.
+There can be no [[Doubt|doubt]] of the patriotic and even poetic spirit in which
+many of them [[Hope|hope]] to make their ancient wilderness blossom like the [[Rose|rose]].
 They at least would still stand among the great prophets of Israel,
 and none the less though they prophesied in vain.
 
@@ -8181,9 +8181,9 @@ of a business pressure from the more brutal and businesslike type
 of Jew, which arouses very violent and very just indignation.
 When I was in Jerusalem it was openly said that Jewish financiers
 had complained of the low rate of interest at which loans were made
-by the government to the peasantry, and even that the government
+by the [[government]] to the peasantry, and even that the [[government]]
 had yielded to them.  If this were true it was a heavier reproach
-to the government even than to the Jews.  But the general truth
+to the [[government]] even than to the Jews.  But the general [[Truth|truth]]
 is that such a state of feeling seems to make the simple and solid
 patriotism of a Palestinian Jewish nation practically impossible,
 and forces us to consider some alternative or some compromise.
@@ -8213,14 +8213,14 @@ places in adjacent parts or in many other parts of the world.
 They might be affiliated to some official centre in Palestine,
 or even in Jerusalem, where there would naturally be at least some
 great religious headquarters of the scattered race and religion.
-The nature of that religious centre it must be for Jews to decide;
+The [[Nature|nature]] of that religious centre it must be for Jews to decide;
 but I think if I were a Jew I would build the Temple without
 bothering about the site of the Temple.  That they should
 have the old site, of course, is not to be thought of;
 it would raise a Holy War from Morocco to the marches of China.
 But seeing that some of the greatest of the deeds of Israel were done,
-and some of the most glorious of the songs of Israel sung,
-when their only temple was a box carried about in the desert,
+and some of the most glorious of the [[songs]] of Israel sung,
+when their only temple was a box carried about in the [[Desert|desert]],
 I cannot think that the mere moving of the situation of the place
 of sacrifice need even mean so much to that historic tradition
 as it would to many others.  That the Jews should have some high
@@ -8232,15 +8232,15 @@ that the Jews have no more right there than the Jebusites.
 If there are Jebusites they are Jebusites without knowing it.
 I think it sufficiently answered in the fine phrase of an English priest,
 in many ways more Anti-Semitic than I:  "The people that remembers
-has a right."  The very worst of the Jews, as well as the very best,
+has a right."  The very worst of the Jews, as [[Well|well]] as the very best,
 do in some sense remember.  They are hated and persecuted and
-frightened into false names and double lives; but they remember.
+frightened into false names and [[Double|double]] lives; but they remember.
 They lie, they swindle, they betray, they oppress; but they remember.
 The more we happen to hate such elements among the Hebrews the more
 we admire the manly and magnificent elements among the more vague
-and vagrant tribes of Palestine, the more we must admit that paradox.
-The unheroic have the heroic memory; and the heroic people
-have no memory.
+and vagrant tribes of Palestine, the more we must admit that [[Paradox|paradox]].
+The unheroic have the heroic [[Memory|memory]]; and the heroic people
+have no [[Memory|memory]].
 
 But whatever the Jewish nation might wish to do about a national shrine
 or other supreme centre, the suggestion for the moment is that something
@@ -8255,10 +8255,10 @@ rid of the Jewish problem, and I do not see why we should obtain
 all their advantage and none of our own.  Therefore I would leave
 as few Jews as possible in other established nations, and to these
 I would give a special position best described as privilege;
-some sort of self-governing enclave with special laws and exemptions;
+some sort of [[Self|self]]-governing enclave with special laws and exemptions;
 for instance, I would certainly excuse them from conscription,
 which I think a gross injustice in their case. [Footnote: Of course
-the privileged exile would also lose the rights of a native.]
+the privileged [[Exile|exile]] would also lose the rights of a native.]
 A Jew might be treated as respectfully as a foreign ambassador,
 but a foreign ambassador is a foreigner.  Finally, I would give
 the same privileged position to all Jews everywhere, as an alternative
@@ -8269,23 +8269,23 @@ so much failed as peasants as succeeded as capitalists.
 There is one word to be added; it will be noted that inevitably
 and even against some of my own desires, the argument has returned
 to that recurrent conclusion, which was found in the Roman Empire
-and the Crusades.  The European can do justice to the Jew;
+and the [[Crusades]].  The European can do justice to the Jew;
 but it must be the European who does it.  Such a possibility
 as I have thrown out, and any other possibility that any one can
 think of, becomes at once impossible without some idea of a general
 suzerainty of Christendom over the lands of the Moslem and the Jew.
 Personally, I think it would be better if it were a general
 suzerainty of Christendom, rather than a particular supremacy
-of England.  And I feel this, not from a desire to restrain
-the English power, but rather from a desire to defend it.
+of England.  And I feel this, not from a [[Desire|desire]] to restrain
+the English power, but rather from a [[Desire|desire]] to defend it.
 I think there is not a little danger to England in the diplomatic
 situation involved; but that is a diplomatic question that it
 is neither within my power or duty to discuss adequately.
 But if I think it would be wiser for France and England together
 to hold Syria and Palestine together rather than separately,
 that only completes and clinches the conclusion that has haunted me,
-with almost uncanny recurrence, since I first saw Jerusalem
-sitting on the hill like a turreted town in England or in France;
+with almost [[Uncanny|uncanny]] recurrence, since I first saw Jerusalem
+sitting on the [[Hill|hill]] like a turreted town in England or in France;
 and for one moment the dark dome of it was again the Templum Domini,
 and the tower on it was the Tower of Tancred.
 
@@ -8293,19 +8293,19 @@ Anyhow with the failure of Zionism would fall the last
 and best attempt at a rationalistic theory of the Jew.
 We should be left facing a mystery which no other rationalism has
 ever come so near to providing within rational cause and cure.
-Whatever we do, we shall not return to that insular innocence and
+Whatever we do, we shall not return to that insular [[innocence]] and
 comfortable unconsciousness of Christendom, in which the Victorian
 agnostics could suppose that the Semitic problem was a brief
 medieval insanity.  In this as in greater things, even if we lost
-our faith we could not recover our agnosticism.  We can never
+our [[Faith|faith]] we could not recover our agnosticism.  We can never
 recover agnosticism, any more than any other kind of ignorance.
-We know that there is a Jewish problem; we only hope that there
+We know that there is a Jewish problem; we only [[Hope|hope]] that there
 is a Jewish solution.  If there is not, there is no other.
 We cannot believe again that the Jew is an Englishman with certain
 theological theories, any more than we can believe again any other part
 of the optimistic materialism whose temple is the Albert Memorial.
 A scheme of guilds may be attempted and may be a failure;
-but never again can we respect mere Capitalism for its success.
+but never again can we respect mere Capitalism for its [[success]].
 An attack may be made on political corruption, and it may be a failure;
 but never again can we believe that our politics are not corrupt.
 And so Zionism may be attempted and may be a failure;
@@ -8313,15 +8313,15 @@ but never again can we ourselves be at ease in Zion.
 Or rather, I should say, if the Jew cannot be at ease in Zion we
 can never again persuade ourselves that he is at ease out of Zion.
 We can only salute as it passes that restless and mysterious figure,
-knowing at last that there must be in him something mystical as well
-as mysterious; that whether in the sense of the sorrows of Christ
-or of the sorrows of Cain, he must pass by, for he belongs to God.
+knowing at last that there must be in him something mystical as [[Well|well]]
+as mysterious; that whether in the sense of the sorrows of [[Christ]]
+or of the sorrows of [[Cain]], he must pass by, for he belongs to God.
 
 = = = = = = = = = = = = = = = =
 
 CONCLUSION
 
-To have worn a large scallop shell in my hat in the streets of London
+To have worn a large scallop shell in my hat in the streets of [[London]]
 might have been deemed ostentatious, to say nothing of carrying a staff
 like a long pole; and wearing sandals might have proclaimed rather
 that I had not come from Jerusalem but from Letchworth, which some
@@ -8338,39 +8338,39 @@ and columns of crimson marble, had all shrivelled up and dwindled
 down to that one small thread of red metal round my finger.
 I could not help having a feeling, like Aladdin, that if I
 rubbed the ring perhaps all those towers would rise again.
-And there was a sort of feeling of truth in the fancy after all.
+And there was a sort of feeling of [[Truth|truth]] in the fancy after all.
 We talk of the changeless East; but in one sense the impression
 of it is really rather changing, with its wandering tribes and its
-shifting sands, in which the genii of the East might well build
+shifting sands, in which the genii of the East might [[Well|well]] build
 the palace or the paradise of a day.  As I saw the low and solid
 English cottages rising around me amid damp delightful thickets
 under rainy skies, I felt that in a deeper sense it is rather
 we who build for permanence or at least for a sort of peace.
 It is something more than comfort; a relative and reasonable contentment.
 And there came back on me like a boomerang a rather indescribable
-thought which had circled round my head through most of my journey;
+thought which had circled round my head through most of my [[Journey|journey]];
 that Christendom is like a gigantic bronze come out of the furnace
-of the Near East; that in Asia is only the fire and in Europe
+of the Near East; that in Asia is only the [[Fire|fire]] and in Europe
 the form.  The nearest to what I mean was suggested in that
 very striking book _Form and Colour_, by Mr. March Philips.
-When I spoke of the idols of Asia, many moderns may well have murmured
+When I spoke of the idols of Asia, many moderns may [[Well|well]] have murmured
 against such a description of the ideals of Buddha or Mrs. Besant.
 To which I can only reply that I do know a little about the ideals,
 and I think I prefer the idols.  I have far more sympathy with
 the enthusiasm for a nice green or yellow idol, with nine arms
-and three heads, than with the philosophy ultimately represented
+and three heads, than with the [[philosophy]] ultimately represented
 by the snake devouring his tail; the awful sceptical argument
 in a circle by which everything begins and ends in the mind.
 I would far rather be a fetish worshipper and have a little fun,
 than be an oriental pessimist expected always to smile like an optimist.
 Now it seems to me that the fighting Christian creed is the one
 thing that has been in that mystical circle and broken out of it,
-and become something real as well.  It has gone westward by a sort
+and become something real as [[Well|well]].  It has gone westward by a sort
 of centrifugal force, like a stone from a sling; and so made
 the revolving Eastern mind, as the Franciscan said in Jerusalem,
 do something at last.
 
-Anyhow, although I carried none of the trappings of a pilgrim I felt
+Anyhow, although I carried none of the trappings of a [[Pilgrim|pilgrim]] I felt
 strongly disposed to take the privileges of one.  I wanted to be
 entertained at the firesides of total strangers, in the medieval manner,
 and to tell them interminable tales of my travels.  I wanted to linger
@@ -8379,14 +8379,14 @@ out of the train at several wayside stations, where I saw secluded
 cottages which might be brightened by a little news from the Holy Land.
 For it seemed to me that all my fellow-countrymen must be my friends;
 all these English places had come much closer together after travels
-that seemed in comparison as vast as the spaces between the stars.
-The hop-fields of Kent seemed to me like outlying parts of my own
-kitchen garden; and London itself to be really situated at London End.
-London was perhaps the largest of the suburbs of Beaconsfield.
-By the time I came to Beaconsfield itself, dusk was dropping
-over the beechwoods and the white cross-roads. The distance seemed
+that seemed in comparison as vast as the spaces between the [[Stars|stars]].
+The hop-fields of [[Kent]] seemed to me like outlying parts of my own
+kitchen [[Garden|garden]]; and [[London]] itself to be really situated at [[London]] End.
+[[London]] was perhaps the largest of the suburbs of Beaconsfield.
+By the [[Time|time]] I came to Beaconsfield itself, dusk was dropping
+over the beechwoods and the white [[Cross|cross]]-roads. The distance seemed
 to grow deeper and richer with darkness as I went up the long
-lanes towards my home; and in that distance, as I drew nearer,
+lanes towards my [[Home|home]]; and in that distance, as I drew nearer,
 I heard the barking of a dog.
 
 = = = = = = = = = = = = = = = =

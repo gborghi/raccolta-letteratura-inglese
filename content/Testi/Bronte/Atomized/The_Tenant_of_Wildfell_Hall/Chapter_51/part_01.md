@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 51 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 51 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 We will now turn to a certain still, cold, cloudy afternoon about the
 
-commencement of December, when the first fall of snow lay thinly
+commencement of December, when the first fall of [[Snow|snow]] lay thinly
 
 scattered over the blighted fields and frozen roads, or stored more
 
@@ -30,7 +30,7 @@ thickly in the hollows of the deep cart-ruts and footsteps of men and
 
 horses impressed in the now petrified mire of last month’s drenching
 
-rains. I remember it well, for I was walking home from the vicarage
+rains. I remember it [[Well|well]], for I was walking [[Home|home]] from the vicarage
 
 with no less remarkable a personage than Miss Eliza Millward by my
 
@@ -38,7 +38,7 @@ side. I had been to call upon her father,—a sacrifice to civility
 
 undertaken entirely to please my mother, not myself, for I hated to go
 
-near the house; not merely on account of my antipathy to the once so
+near the [[house]]; not merely on account of my antipathy to the once so
 
 bewitching Eliza, but because I had not half forgiven the old gentleman
 
@@ -48,11 +48,11 @@ constrained to acknowledge himself mistaken in his former judgment, he
 
 still maintained that she had done wrong to leave her husband; it was a
 
-violation of her sacred duties as a wife, and a tempting of Providence
+violation of her sacred duties as a wife, and a tempting of [[Providence]]
 
-by laying herself open to temptation; and nothing short of bodily
+by laying herself open to [[Temptation|temptation]]; and nothing short of bodily
 
-ill-usage (and that of no trifling nature) could excuse such a step—nor
+ill-usage (and that of no trifling [[Nature|nature]]) could excuse such a step—nor
 
 even that, for in such a case she ought to appeal to the laws for
 
@@ -66,7 +66,7 @@ the room, ready equipped for a walk.
 
 “I was just coming to see your sister, Mr. Markham,” said she; “and so,
 
-if you have no objection, I’ll accompany you home. I like company when
+if you have no objection, I’ll accompany you [[Home|home]]. I like company when
 
 I’m walking out—don’t you?”
 
@@ -84,9 +84,9 @@ So we proceeded together.
 
 
 
-“Shall I find Rose at home, do you think?” said she, as we closed the
+“Shall I find [[Rose]] at [[Home|home]], do you think?” said she, as we closed the
 
-garden gate, and set our faces towards Linden-Car.
+[[Garden|garden]] gate, and set our faces towards Linden-Car.
 
 
 
@@ -130,7 +130,7 @@ befallen her.
 
 about it, I can tell you, for—alas, alas!—she’s going to be married
 
-next Thursday!”
+next [[thursday|Thursday]]!”
 
 
 
@@ -156,17 +156,17 @@ next Thursday!”
 
 “What makes you look so pale then?” said she, smiling with delight at
 
-my emotion. “Is it anger at poor me for telling such a fib? Well, I
+my emotion. “Is it anger at poor me for telling such a fib? [[Well]], I
 
-only ‘tell the tale as ’twas told to me:’ I don’t vouch for the truth
+only ‘tell the tale as ’twas told to me:’ I don’t vouch for the [[Truth|truth]]
 
-of it; but at the same time, I don’t see what reason Sarah should have
+of it; but at the same [[Time|time]], I don’t see what reason Sarah should have
 
 for deceiving me, or her informant for deceiving her; and that was what
 
 she told me the footman told her:—that Mrs. Huntingdon was going to be
 
-married on Thursday, and Mr. Lawrence was gone to the wedding. She did
+married on [[thursday|Thursday]], and Mr. Lawrence was gone to the wedding. She did
 
 tell me the name of the gentleman, but I’ve forgotten that. Perhaps you
 
@@ -190,7 +190,7 @@ her?—a Mr.—oh, dear! Mr.—”
 
 
 
-“Well, you know, that’s what they told me,” said she, composedly
+“[[Well]], you know, that’s what they told me,” said she, composedly
 
 staring me in the face. And then she broke out into a long shrill laugh
 
@@ -204,19 +204,19 @@ ha, ha!—did you think to marry her yourself? Dear, dear, what a
 
 pity!—ha, ha, ha! Gracious, Mr. Markham, are you going to faint? Oh,
 
-mercy! shall I call this man? Here, Jacob—” But checking the word on
+[[Mercy|mercy]]! shall I call this man? Here, Jacob—” But checking the word on
 
 her lips, I seized her arm and gave it, I think, a pretty severe
 
-squeeze, for she shrank into herself with a faint cry of pain or
+squeeze, for she shrank into herself with a faint cry of [[Pain|pain]] or
 
 terror; but the spirit within her was not subdued: instantly rallying,
 
-she continued, with well-feigned concern, “What can I do for you? Will
+she continued, with [[Well|well]]-feigned concern, “What can I do for you? Will
 
-you have some water—some brandy? I daresay they have some in the
+you have some [[Water|water]]—some brandy? I daresay they have some in the
 
-public-house down there, if you’ll let me run.”
+public-[[house]] down there, if you’ll let me run.”
 
 
 
@@ -242,7 +242,7 @@ since you are in such a merry mood, Miss Eliza, you must be good enough
 
 company for yourself; and therefore I shall leave you to finish your
 
-walk alone—for, now I think of it, I have business elsewhere; so
+walk [[Alone|alone]]—for, now I think of it, I have business elsewhere; so
 
 good-evening.”
 
@@ -252,7 +252,7 @@ With that I left her (smothering her malicious laughter) and turned
 
 aside into the fields, springing up the bank, and pushing through the
 
-nearest gap in the hedge. Determined at once to prove the truth—or
+nearest gap in the hedge. Determined at once to prove the [[Truth|truth]]—or
 
 rather the falsehood—of her story, I hastened to Woodford as fast as my
 
@@ -266,10 +266,10 @@ and stubble, and lane, clearing hedges and ditches and hurdles, till I
 
 came to the young squire’s gates. Never till now had I known the full
 
-fervour of my love—the full strength of my hopes, not wholly crushed
+fervour of my [[Love|love]]—the full strength of my hopes, not wholly crushed
 
 even in my hours of deepest despondency, always tenaciously clinging to
 
 the thought that one day she might be mine, or, if not that, at least
 
-that something of my memory, some slight remembrance of our friendship
+that something of my [[Memory|memory]], some slight remembrance of our [[Friendship|friendship]]

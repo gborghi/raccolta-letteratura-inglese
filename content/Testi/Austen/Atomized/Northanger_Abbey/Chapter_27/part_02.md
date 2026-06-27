@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 26 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 26 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -18,7 +18,7 @@ tags:
 
 
 
-“Why! how can you ask the question? Because no time is to be lost in
+“Why! how can you ask the question? Because no [[Time|time]] is to be lost in
 
 frightening my old housekeeper out of her wits, because I must go and
 
@@ -50,7 +50,7 @@ made such a point of your providing nothing extraordinary: besides, if
 
 he had not said half so much as he did, he has always such an excellent
 
-dinner at home, that sitting down to a middling one for one day could
+dinner at [[Home|home]], that sitting down to a middling one for one day could
 
 not signify.”
 
@@ -58,13 +58,13 @@ not signify.”
 
 “I wish I could reason like you, for his sake and my own. Good-bye. As
 
-to-morrow is Sunday, Eleanor, I shall not return.”
+to-morrow is [[Sunday]], [[Eleanor]], I shall not return.”
 
 
 
-He went; and, it being at any time a much simpler operation to
+He went; and, it being at any [[Time|time]] a much simpler operation to
 
-Catherine to doubt her own judgment than Henry’s, she was very soon
+Catherine to [[Doubt|doubt]] her own judgment than Henry’s, she was very soon
 
 obliged to give him credit for being right, however disagreeable to her
 
@@ -90,25 +90,25 @@ letter would certainly come in his absence; and Wednesday she was very
 
 sure would be wet. The past, present, and future were all equally in
 
-gloom. Her brother so unhappy, and her loss in Isabella so great; and
+gloom. Her brother so unhappy, and her loss in [[Isabella]] so great; and
 
-Eleanor’s spirits always affected by Henry’s absence! what was there to
+[[Eleanor]]’s spirits always affected by Henry’s absence! what was there to
 
 interest or amuse her? She was tired of the woods and the
 
 shrubberies—always so smooth and so dry; and the abbey in itself was no
 
-more to her now than any other house. The painful remembrance of the
+more to her now than any other [[house]]. The painful remembrance of the
 
 folly it had helped to nourish and perfect was the only emotion which
 
-could spring from a consideration of the building. What a revolution in
+could [[spring]] from a consideration of the building. What a revolution in
 
 her ideas! she, who had so longed to be in an abbey! now, there was
 
-nothing so charming to her imagination as the unpretending comfort of a
+nothing so charming to her [[Imagination|imagination]] as the unpretending comfort of a
 
-well-connected parsonage, something like Fullerton, but better:
+[[Well|well]]-connected parsonage, something like Fullerton, but better:
 
 Fullerton had its faults, but Woodston probably had none. If Wednesday
 
@@ -118,7 +118,7 @@ should ever come!
 
 It did come, and exactly when it might be reasonably looked for. It
 
-came—it was fine—and Catherine trod on air. By ten o’clock, the chaise
+came—it was fine—and Catherine trod on air. By ten o’[[Clock|clock]], the chaise
 
 and four conveyed the trio from the abbey; and, after an agreeable
 
@@ -132,7 +132,7 @@ apology necessary for the flatness of the country, and the size of the
 
 village; but in her heart she preferred it to any place she had ever
 
-been at, and looked with great admiration at every neat house above the
+been at, and looked with great admiration at every neat [[house]] above the
 
 rank of a cottage, and at all the little chandler’s shops which they
 
@@ -140,9 +140,9 @@ passed. At the further end of the village, and tolerably disengaged
 
 from the rest of it, stood the parsonage, a new-built substantial stone
 
-house, with its semicircular sweep and green gates; and, as they drove
+[[house]], with its semicircular sweep and green gates; and, as they drove
 
-up to the door, Henry, with the friends of his solitude, a large
+up to the door, Henry, with the friends of his [[Solitude|solitude]], a large
 
 Newfoundland puppy and two or three terriers, was ready to receive and
 
@@ -150,7 +150,7 @@ make much of them.
 
 
 
-Catherine’s mind was too full, as she entered the house, for her either
+Catherine’s mind was too full, as she entered the [[house]], for her either
 
 to observe or to say a great deal; and, till called on by the General
 
@@ -164,7 +164,7 @@ guarded to say so, and the coldness of her praise disappointed him.
 
 
 
-“We are not calling it a good house,” said he. “We are not comparing it
+“We are not calling it a good [[house]],” said he. “We are not comparing it
 
 with Fullerton and Northanger—we are considering it as a mere
 
@@ -188,7 +188,7 @@ Catherine did not hear enough of this speech to understand or be pained
 
 by it; and other subjects being studiously brought forward and
 
-supported by Henry, at the same time that a tray full of refreshments
+supported by Henry, at the same [[Time|time]] that a tray full of refreshments
 
 was introduced by his servant, the General was shortly restored to his
 
@@ -196,13 +196,13 @@ complacency, and Catherine to all her usual ease of spirits.
 
 
 
-The room in question was of a commodious, well-proportioned size, and
+The room in question was of a commodious, [[Well|well]]-proportioned size, and
 
 handsomely fitted up as a dining-parlour; and on their quitting it to
 
 walk round the grounds, she was shown, first into a smaller apartment,
 
-belonging peculiarly to the master of the house, and made unusually
+belonging peculiarly to the master of the [[house]], and made unusually
 
 tidy on the occasion; and afterwards into what was to be the
 
@@ -230,7 +230,7 @@ very speedily be furnished: it waits only for a lady’s taste!”
 
 
 
-“Well, if it was my house, I should never sit anywhere else. Oh! what a
+“[[Well]], if it was my [[house]], I should never sit anywhere else. Oh! what a
 
 sweet little cottage there is among the trees—apple trees, too! it is
 
@@ -274,7 +274,7 @@ visit to the stables to examine some improvements, and a charming game
 
 of play with a litter of puppies just able to roll about, brought them
 
-to four o’clock, when Catherine scarcely thought it could be three. At
+to four o’[[Clock|clock]], when Catherine scarcely thought it could be three. At
 
 four they were to dine, and at six to set off on their return. Never
 
@@ -298,11 +298,11 @@ oiled.
 
 
 
-At six o’clock, the General having taken his coffee, the carriage again
+At six o’[[Clock|clock]], the General having taken his coffee, the carriage again
 
 received them; and so gratifying had been the tenor of his conduct
 
-throughout the whole visit, so well assured was her mind on the subject
+throughout the whole visit, so [[Well|well]] assured was her mind on the subject
 
 of his expectations, that, could she have felt equally confident of the
 

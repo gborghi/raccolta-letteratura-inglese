@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-“And no one knew where you were gone, Captain Cuttle?” cried Walter
+“And no one knew where you were gone, [[Captain Cuttle]]?” cried Walter
 hastily.
 
 “Bless your heart, Wal”r,” said the Captain, shaking his head, “she’d
 never have allowed o’ my coming to take charge o’ this here property.
-Nothing could be done but cut and run. Lord love you, Wal”r!” said the
+Nothing could be done but cut and run. Lord [[Love|love]] you, Wal”r!” said the
 Captain, “you’ve only seen her in a calm! But see her when her angry
 passions rise—and make a note on!”
 
 “I’d give it her!” remarked the Nipper, softly.
 
 “Would you, do you think, my dear?” returned the Captain, with feeble
-admiration. “Well, my dear, it does you credit. But there ain’t no wild
+admiration. “[[Well]], my dear, it does you credit. But there ain’t no wild
 animal I wouldn’t sooner face myself. I only got my chest away by means
 of a friend as nobody’s a match for. It was no good sending any letter
 there. She wouldn’t take in any letter, bless you,” said the Captain,
 “under them circumstances! Why, you could hardly make it worth a man’s
 while to be the postman!”
 
-“Then it’s pretty clear, Captain Cuttle, that all of us, and you and
+“Then it’s pretty clear, [[Captain Cuttle]], that all of us, and you and
 Uncle Sol especially,” said Walter, “may thank Mrs MacStinger for no
 small anxiety.”
 
@@ -60,27 +60,27 @@ satisfaction of Uncle Sol; and very sensible Mr Toots was of the
 delicacy with which Walter made his name and services important, and
 his presence necessary to their little council.
 
-“Mr Toots,” said Walter, on parting with him at the house door, “we
+“Mr Toots,” said Walter, on parting with him at the [[house]] door, “we
 shall see each other to-morrow morning?”
 
 “Lieutenant Walters,” returned Mr Toots, grasping his hand fervently,
 “I shall certainly be present.”
 
-“This is the last night we shall meet for a long time—the last night we
+“This is the last [[Night|night]] we shall meet for a long [[Time|time]]—the last [[Night|night]] we
 may ever meet,” said Walter. “Such a noble heart as yours, must feel, I
-think, when another heart is bound to it. I hope you know that I am
+think, when another heart is bound to it. I [[Hope|hope]] you know that I am
 very grateful to you?”
 
 “Walters,” replied Mr Toots, quite touched, “I should be glad to feel
 that you had reason to be so.”
 
-“Florence,” said Walter, “on this last night of her bearing her own
+“Florence,” said Walter, “on this last [[Night|night]] of her bearing her own
 name, has made me promise—it was only just now, when you left us
-together—that I would tell you—with her dear love—”
+together—that I would tell you—with her dear [[Love|love]]—”
 
 Mr Toots laid his hand upon the doorpost, and his eyes upon his hand.
 
-“—With her dear love,” said Walter, “that she can never have a friend
+“—With her dear [[Love|love]],” said Walter, “that she can never have a friend
 whom she will value above you. That the recollection of your true
 consideration for her always, can never be forgotten by her. That she
 remembers you in her prayers tonight, and hopes that you will think of
@@ -101,13 +101,13 @@ Mr Toots was accompanied by the Chicken, whom he had of late brought
 with him every evening, and left in the shop, with an idea that
 unforeseen circumstances might arise from without, in which the prowess
 of that distinguished character would be of service to the Midshipman.
-The Chicken did not appear to be in a particularly good humour on this
+The Chicken did not appear to be in a particularly good [[Humour|humour]] on this
 occasion. Either the gas-lamps were treacherous, or he cocked his eye
 in a hideous manner, and likewise distorted his nose, when Mr Toots,
-crossing the road, looked back over his shoulder at the room where
-Florence slept. On the road home, he was more demonstrative of
+crossing the [[Road|road]], looked back over his shoulder at the room where
+Florence slept. On the [[Road|road]] [[Home|home]], he was more demonstrative of
 aggressive intentions against the other foot-passengers, than comported
-with a professor of the peaceful art of self-defence. Arrived at home,
+with a professor of the peaceful art of [[Self|self]]-defence. Arrived at [[Home|home]],
 instead of leaving Mr Toots in his apartments when he had escorted him
 thither, he remained before him weighing his white hat in both hands by
 the brim, and twitching his head and nose (both of which had been many
@@ -115,7 +115,7 @@ times broken, and but indifferently repaired), with an air of decided
 disrespect.
 
 His patron being much engaged with his own thoughts, did not observe
-this for some time, nor indeed until the Chicken, determined not to be
+this for some [[Time|time]], nor indeed until the Chicken, determined not to be
 overlooked, had made divers clicking sounds with his tongue and teeth,
 to attract attention.
 
@@ -147,8 +147,8 @@ it is. It’s mean.”
 nose. “There! Now, Master! Wot! When you could go and blow on this here
 match to the stiff’un;” by which depreciatory appellation it has been
 since supposed that the Game One intended to signify Mr Dombey; “and
-when you could knock the winner and all the kit of ’em dead out o’ wind
-and time, are you going to give in? To give in?” said the Chicken, with
+when you could knock the winner and all the kit of ’em dead out o’ [[Wind|wind]]
+and [[Time|time]], are you going to give in? To give in?” said the Chicken, with
 contemptuous emphasis. “Wy, it’s mean!”
 
 “Chicken,” said Mr Toots, severely, “you’re a perfect Vulture! Your
@@ -176,6 +176,6 @@ seemed equally unable to get beyond that point, and to stop short of
 it. “That’s where it is; it’s mean!”
 
 So Mr Toots and the Chicken agreed to part on this incompatibility of
-moral perception; and Mr Toots lying down to sleep, dreamed happily of
-Florence, who had thought of him as her friend upon the last night of
-her maiden life, and who had sent him her dear love.
+moral perception; and Mr Toots lying down to [[Sleep|sleep]], dreamed happily of
+Florence, who had thought of him as her friend upon the last [[Night|night]] of
+her maiden life, and who had sent him her dear [[Love|love]].

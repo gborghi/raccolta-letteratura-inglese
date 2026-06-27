@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 14"
+title: "[[Sense and Sensibility]] — Chapter 14"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,11 +20,11 @@ CHAPTER XIV.
 
 
 
-The sudden termination of Colonel Brandon’s visit at the park, with his
+The sudden termination of [[Colonel Brandon]]’s visit at the park, with his
 
 steadiness in concealing its cause, filled the mind, and raised the
 
-wonder of Mrs. Jennings for two or three days; she was a great
+[[Wonder|wonder]] of Mrs. Jennings for two or three days; she was a great
 
 wonderer, as every one must be who takes a very lively interest in all
 
@@ -40,7 +40,7 @@ them all.
 
 
 
-“Something very melancholy must be the matter, I am sure,” said she. “I
+“Something very [[Melancholy|melancholy]] must be the matter, I am sure,” said she. “I
 
 could see it in his face. Poor man! I am afraid his circumstances may
 
@@ -50,9 +50,9 @@ thousand a year, and his brother left everything sadly involved. I do
 
 think he must have been sent for about money matters, for what else can
 
-it be? I wonder whether it is so. I would give anything to know the
+it be? I [[Wonder|wonder]] whether it is so. I would give anything to know the
 
-truth of it. Perhaps it is about Miss Williams and, by the bye, I dare
+[[Truth|truth]] of it. Perhaps it is about Miss Williams and, by the bye, I dare
 
 say it is, because he looked so conscious when I mentioned her. May be
 
@@ -64,11 +64,11 @@ Miss Williams. It is not so very likely he should be distressed in his
 
 circumstances _now_, for he is a very prudent man, and to be sure must
 
-have cleared the estate by this time. I wonder what it can be! May be
+have cleared the estate by this [[Time|time]]. I [[Wonder|wonder]] what it can be! May be
 
 his sister is worse at Avignon, and has sent for him over. His setting
 
-off in such a hurry seems very like it. Well, I wish him out of all his
+off in such a hurry seems very like it. [[Well]], I wish him out of all his
 
 trouble with all my heart, and a good wife into the bargain.”
 
@@ -80,19 +80,19 @@ fresh conjecture, and all seeming equally probable as they arose.
 
 Elinor, though she felt really interested in the welfare of Colonel
 
-Brandon, could not bestow all the wonder on his going so suddenly away,
+Brandon, could not bestow all the [[Wonder|wonder]] on his going so suddenly away,
 
 which Mrs. Jennings was desirous of her feeling; for besides that the
 
 circumstance did not in her opinion justify such lasting amazement or
 
-variety of speculation, her wonder was otherwise disposed of. It was
+variety of speculation, her [[Wonder|wonder]] was otherwise disposed of. It was
 
-engrossed by the extraordinary silence of her sister and Willoughby on
+engrossed by the extraordinary [[Silence|silence]] of her sister and Willoughby on
 
 the subject, which they must know to be peculiarly interesting to them
 
-all. As this silence continued, every day made it appear more strange
+all. As this [[Silence|silence]] continued, every day made it appear more strange
 
 and more incompatible with the disposition of both. Why they should not
 
@@ -104,7 +104,7 @@ imagine.
 
 
 
-She could easily conceive that marriage might not be immediately in
+She could easily conceive that [[Marriage|marriage]] might not be immediately in
 
 their power; for though Willoughby was independent, there was no reason
 
@@ -114,15 +114,15 @@ or seven hundred a year; but he lived at an expense to which that
 
 income could hardly be equal, and he had himself often complained of
 
-his poverty. But for this strange kind of secrecy maintained by them
+his [[Poverty|poverty]]. But for this strange kind of secrecy maintained by them
 
 relative to their engagement, which in fact concealed nothing at all,
 
 she could not account; and it was so wholly contradictory to their
 
-general opinions and practice, that a doubt sometimes entered her mind
+general opinions and practice, that a [[Doubt|doubt]] sometimes entered her mind
 
-of their being really engaged, and this doubt was enough to prevent her
+of their being really engaged, and this [[Doubt|doubt]] was enough to prevent her
 
 making any inquiry of Marianne.
 
@@ -132,11 +132,11 @@ Nothing could be more expressive of attachment to them all, than
 
 Willoughby’s behaviour. To Marianne it had all the distinguishing
 
-tenderness which a lover’s heart could give, and to the rest of the
+tenderness which a [[Lover|lover]]’s heart could give, and to the rest of the
 
 family it was the affectionate attention of a son and a brother. The
 
-cottage seemed to be considered and loved by him as his home; many more
+cottage seemed to be considered and loved by him as his [[Home|home]]; many more
 
 of his hours were spent there than at Allenham; and if no general
 
@@ -150,13 +150,13 @@ favourite pointer at her feet.
 
 
 
-One evening in particular, about a week after Colonel Brandon left the
+One evening in particular, about a week after [[Colonel Brandon]] left the
 
 country, his heart seemed more than usually open to every feeling of
 
 attachment to the objects around him; and on Mrs. Dashwood’s happening
 
-to mention her design of improving the cottage in the spring, he warmly
+to mention her design of improving the cottage in the [[Spring|spring]], he warmly
 
 opposed every alteration of a place which affection had established as
 
@@ -192,7 +192,7 @@ whom I loved, for all the improvements in the world. Depend upon it
 
 that whatever unemployed sum may remain, when I make up my accounts in
 
-the spring, I would even rather lay it uselessly by than dispose of it
+the [[Spring|spring]], I would even rather lay it uselessly by than dispose of it
 
 in a manner so painful to you. But are you really so attached to this
 
@@ -232,7 +232,7 @@ Barton.”
 
 of better rooms and a broader staircase, you will hereafter find your
 
-own house as faultless as you now do this.”
+own [[house]] as faultless as you now do this.”
 
 
 
@@ -246,13 +246,13 @@ my affection, which no other can possibly share.”
 
 Mrs. Dashwood looked with pleasure at Marianne, whose fine eyes were
 
-fixed so expressively on Willoughby, as plainly denoted how well she
+fixed so expressively on Willoughby, as plainly denoted how [[Well|well]] she
 
 understood him.
 
 
 
-“How often did I wish,” added he, “when I was at Allenham this time
+“How often did I wish,” added he, “when I was at Allenham this [[Time|time]]
 
 twelvemonth, that Barton cottage were inhabited! I never passed within
 
@@ -260,7 +260,7 @@ view of it without admiring its situation, and grieving that no one
 
 should live in it. How little did I then think that the very first news
 
-I should hear from Mrs. Smith, when I next came into the country, would
+I should hear from Mrs. [[smith|Smith]], when I next came into the country, would
 
 be that Barton cottage was taken: and I felt an immediate satisfaction
 
@@ -270,7 +270,7 @@ what happiness I should experience from it, can account for. Must it
 
 not have been so, Marianne?” speaking to her in a lowered voice. Then
 
-continuing his former tone, he said, “And yet this house you would
+continuing his former tone, he said, “And yet this [[house]] you would
 
 spoil, Mrs. Dashwood? You would rob it of its simplicity by imaginary
 
@@ -280,7 +280,7 @@ began, and in which so many happy hours have been since spent by us
 
 together, you would degrade to the condition of a common entrance, and
 
-every body would be eager to pass through the room which has hitherto
+every [[Body|body]] would be eager to pass through the room which has hitherto
 
 contained within itself more real accommodation and comfort than any
 
@@ -300,7 +300,7 @@ be attempted.
 
 Extend it a little farther, and it will make me happy. Tell me that not
 
-only your house will remain the same, but that I shall ever find you
+only your [[house]] will remain the same, but that I shall ever find you
 
 and yours as unchanged as your dwelling; and that you will always
 
@@ -324,4 +324,4 @@ walk to the park, to call on Lady Middleton.”
 
 
 
-He engaged to be with them by four o’clock.
+He engaged to be with them by four o’[[Clock|clock]].

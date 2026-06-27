@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 6 (part 3)"
+title: "[[Villette]] — Chapter 6 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,14 +15,14 @@ tags:
 
 
 Foreigners say that it is only English girls who can thus be trusted to
-travel alone, and deep is their wonder at the daring confidence of
+travel [[Alone|alone]], and deep is their [[Wonder|wonder]] at the daring confidence of
 English parents and guardians. As for the “jeunes Meess,” by some their
 intrepidity is pronounced masculine and “inconvenant,” others regard
 them as the passive victims of an educational and theological system
 which wantonly dispenses with proper “surveillance.” Whether this
 particular young lady was of the sort that can the most safely be left
 unwatched, I do not know: or, rather did not _then_ know; but it soon
-appeared that the dignity of solitude was not to her taste. She paced
+appeared that the dignity of [[Solitude|solitude]] was not to her taste. She paced
 the deck once or twice backwards and forwards; she looked with a little
 sour air of disdain at the flaunting silks and velvets, and the bears
 which thereon danced attendance, and eventually she approached me and
@@ -47,10 +47,10 @@ pleased me better than her other talk.
 
 “I am seventeen” (a little piqued).
 
-“You hardly look sixteen. Do you like travelling alone?”
+“You hardly look sixteen. Do you like travelling [[Alone|alone]]?”
 
 “Bah! I care nothing about it. I have crossed the Channel ten times,
-alone; but then I take care never to be long alone: I always make
+[[Alone|alone]]; but then I take care never to be long [[Alone|alone]]: I always make
 friends.”
 
 “You will scarcely make many friends this voyage, I think” (glancing at
@@ -70,17 +70,17 @@ She stared, then carelessly ran on:
 
 “I am going to school. Oh, the number of foreign schools I have been at
 in my life! And yet I am quite an ignoramus. I know nothing—nothing in
-the world—I assure you; except that I play and dance beautifully,—and
+the world—I assure you; except that I play and [[Dance|dance]] beautifully,—and
 French and German of course I know, to speak; but I can’t read or write
-them very well. Do you know they wanted me to translate a page of an
+them very [[Well|well]]. Do you know they wanted me to translate a page of an
 easy German book into English the other day, and I couldn’t do it. Papa
 was so mortified: he says it looks as if M. de Bassompierre—my godpapa,
 who pays all my school-bills—had thrown away all his money. And then,
-in matters of information—in history, geography, arithmetic, and so on,
+in matters of information—in [[history]], geography, arithmetic, and so on,
 I am quite a baby; and I write English so badly—such spelling and
 grammar, they tell me. Into the bargain I have quite forgotten my
 religion; they call me a Protestant, you know, but really I am not sure
-whether I am one or not: I don’t well know the difference between
+whether I am one or not: I don’t [[Well|well]] know the difference between
 Romanism and Protestantism. However, I don’t in the least care for
 that. I was a Lutheran once at Bonn—dear Bonn!—charming Bonn!—where
 there were so many handsome students. Every nice girl in our school had
@@ -92,18 +92,18 @@ say. I was excessively happy at Bonn!”
 
 “Oh! at—_chose_,” said she.
 
-Now, Miss Ginevra Fanshawe (such was this young person’s name) only
+Now, Miss [[Ginevra Fanshawe]] (such was this young person’s name) only
 substituted this word “_chose_” in temporary oblivion of the real name.
 It was a habit she had: “_chose_” came in at every turn in her
 conversation—the convenient substitute for any missing word in any
-language she might chance at the time to be speaking. French girls
+language she might chance at the [[Time|time]] to be speaking. French girls
 often do the like; from them she had caught the custom. “_Chose_,”
-however, I found in this instance, stood for Villette—the great capital
+however, I found in this instance, stood for [[Villette]]—the great capital
 of the great kingdom of Labassecour.
 
-“Do you like Villette?” I asked.
+“Do you like [[Villette]]?” I asked.
 
-“Pretty well. The natives, you know, are intensely stupid and vulgar;
+“Pretty [[Well|well]]. The natives, you know, are intensely stupid and vulgar;
 but there are some nice English families.”
 
 “Are you in a school?”
@@ -112,7 +112,7 @@ but there are some nice English families.”
 
 “A good one?”
 
-“Oh, no! horrid: but I go out every Sunday, and care nothing about the
+“Oh, no! horrid: but I go out every [[Sunday]], and care nothing about the
 _maîtresses_ or the _professeurs_, or the _élèves_, and send lessons
 _au diable_ (one daren’t say that in English, you know, but it sounds
 quite right in French); and thus I get on charmingly…. You are laughing
@@ -131,9 +131,9 @@ find it.”
 “As poor as Job.”
 
 (After a pause) “Bah! how unpleasant! But _I_ know what it is to be
-poor: they are poor enough at home—papa and mamma, and all of them.
+poor: they are poor enough at [[Home|home]]—papa and mamma, and all of them.
 Papa is called Captain Fanshawe; he is an officer on half-pay, but
-well-descended, and some of our connections are great enough; but my
+[[Well|well]]-descended, and some of our connections are great enough; but my
 uncle and godpapa De Bassompierre, who lives in France, is the only one
 that helps us: he educates us girls. I have five sisters and three
 brothers. By-and-by we are to marry—rather elderly gentlemen, I
@@ -142,7 +142,7 @@ married now to a man much older-looking than papa. Augusta is very
 beautiful—not in my style—but dark; her husband, Mr. Davies, had the
 yellow fever in India, and he is still the colour of a guinea; but then
 he is rich, and Augusta has her carriage and establishment, and we all
-think she has done perfectly well. Now, this is better than ‘earning a
+think she has done perfectly [[Well|well]]. Now, this is better than ‘earning a
 living,’ as you say. By the way, are you clever?”
 
 “No—not at all.”

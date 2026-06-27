@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — E.2.  If an individual Project Gutenberg-tm electronic work is derived"
+title: "[[LordKitchener]] — E.2.  If an individual Project Gutenberg-tm electronic work is derived"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

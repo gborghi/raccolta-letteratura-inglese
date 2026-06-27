@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 21 (part 5)"
+title: "[[Shirley]] — Chapter 21 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -38,15 +38,15 @@ that they thought me 'a bore.' The servants, it was signified, 'detested
 
 me;' _why_, I could never clearly comprehend. My pupils, I was told,
 
-'however much they might love me, and how deep soever the interest I
+'however much they might [[Love|love]] me, and how deep soever the interest I
 
 might take in them, could not be my friends.' It was intimated that I
 
-must 'live alone, and never transgress the invisible but rigid line
+must 'live [[Alone|alone]], and never transgress the invisible but rigid line
 
 which established the difference between me and my employers.' My life
 
-in this house was sedentary, solitary, constrained, joyless, toilsome.
+in this [[house]] was sedentary, solitary, constrained, joyless, toilsome.
 
 The dreadful crushing of the animal spirits, the ever-prevailing sense
 
@@ -54,17 +54,17 @@ of friendlessness and homelessness consequent on this state of things
 
 began ere long to produce mortal effects on my constitution. I sickened.
 
-The lady of the house told me coolly I was the victim of 'wounded
+The lady of the [[house]] told me coolly I was the victim of 'wounded
 
-vanity.' She hinted that if I did not make an effort to quell my
+[[Vanity|vanity]].' She hinted that if I did not make an effort to quell my
 
 'ungodly discontent,' to cease 'murmuring against God's appointment,'
 
-and to cultivate the profound humility befitting my station, my mind
+and to cultivate the profound [[Humility|humility]] befitting my station, my mind
 
 would very likely 'go to pieces' on the rock that wrecked most of my
 
-sisterhood--morbid self-esteem--and that I should die an inmate of a
+sisterhood--morbid [[Self|self]]-esteem--and that I should die an inmate of a
 
 lunatic asylum.
 
@@ -80,7 +80,7 @@ governess. 'Doubtless they had their trials; but,' she averred, with a
 
 manner it makes me smile now to recall--'but it must be so. _She_' (Miss
 
-H.) 'had neither view, hope, nor _wish_ to see these things remedied;
+H.) 'had neither view, [[Hope|hope]], nor _wish_ to see these things remedied;
 
 for in the inherent constitution of English habits, feelings, and
 
@@ -96,21 +96,21 @@ and the decorum of English families exact.'
 
 "I remember I sighed as Miss Hardman quitted my bedside. She caught the
 
-sound, and turning, said severely, 'I fear, Miss Grey, you have
+sound, and turning, said severely, 'I [[Fear|fear]], Miss Grey, you have
 
-inherited in fullest measure the worst sin of our fallen nature--the sin
+inherited in fullest measure the worst sin of our fallen [[Nature|nature]]--the sin
 
-of pride. You are proud, and therefore you are ungrateful too. Mamma
+of [[Pride|pride]]. You are proud, and therefore you are ungrateful too. Mamma
 
 pays you a handsome salary, and if you had average sense you would
 
 thankfully put up with much that is fatiguing to do and irksome to bear,
 
-since it is so well made worth your while.'
+since it is so [[Well|well]] made worth your while.'
 
 
 
-"Miss Hardman, my love, was a very strong-minded young lady, of most
+"Miss Hardman, my [[Love|love]], was a very strong-minded young lady, of most
 
 distinguished talents. The aristocracy are decidedly a very superior
 
@@ -118,7 +118,7 @@ class, you know, both physically, and morally, and mentally; as a high
 
 Tory I acknowledge that. I could not describe the dignity of her voice
 
-and mien as she addressed me thus; still, I fear she was selfish, my
+and mien as she addressed me thus; still, I [[Fear|fear]] she was selfish, my
 
 dear. I would never wish to speak ill of my superiors in rank, but I
 
@@ -134,7 +134,7 @@ would say--'WE need the imprudences, extravagances, mistakes, and crimes
 
 of a certain number of fathers to sow the seed from which WE reap the
 
-harvest of governesses. The daughters of trades-people, however well
+harvest of governesses. The daughters of trades-people, however [[Well|well]]
 
 educated, must necessarily be underbred, and as such unfit to be
 
@@ -170,7 +170,7 @@ superiors. Implicit submission to authorities, scrupulous deference to
 
 our betters (under which term I, of course, include the higher classes
 
-of society), are, in my opinion, indispensable to the well-being of
+of society), are, in my opinion, indispensable to the [[Well|well]]-being of
 
 every community. All I mean to say, my dear, is that you had better not
 
@@ -184,21 +184,21 @@ I cannot but feel that, were you to fall under auspices such as theirs,
 
 you would contend a while courageously with your doom, then you would
 
-pine and grow too weak for your work; you would come home--if you still
+pine and grow too weak for your work; you would come [[Home|home]]--if you still
 
-had a home--broken down. Those languishing years would follow of which
+had a [[Home|home]]--broken down. Those languishing years would follow of which
 
 none but the invalid and her immediate friends feel the heart-sickness
 
 and know the burden. Consumption or decline would close the chapter.
 
-Such is the history of many a life. I would not have it yours. My dear,
+Such is the [[history]] of many a life. I would not have it yours. My dear,
 
 we will now walk about a little, if you please."
 
 
 
-They both rose, and slowly paced a green natural terrace bordering the
+They both [[Rose|rose]], and slowly paced a green natural terrace bordering the
 
 chasm.
 

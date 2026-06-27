@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 11 (part 1)"
+title: "[[Persuasion]] — Chapter 11 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XI.
 
 
 
-The time now approached for Lady Russell’s return: the day was even
+The [[Time|time]] now approached for [[Lady Russell]]’s return: the day was even
 
 fixed; and Anne, being engaged to join her as soon as she was
 
@@ -30,13 +30,13 @@ beginning to think how her own comfort was likely to be affected by it.
 
 
 
-It would place her in the same village with Captain Wentworth, within
+It would place her in the same village with [[Captain Wentworth]], within
 
 half a mile of him; they would have to frequent the same church, and
 
 there must be intercourse between the two families. This was against
 
-her; but on the other hand, he spent so much of his time at Uppercross,
+her; but on the other hand, he spent so much of his [[Time|time]] at Uppercross,
 
 that in removing thence she might be considered rather as leaving him
 
@@ -46,7 +46,7 @@ she must, on this interesting question, be the gainer, almost as
 
 certainly as in her change of domestic society, in leaving poor Mary
 
-for Lady Russell.
+for [[Lady Russell]].
 
 
 
@@ -56,13 +56,13 @@ Wentworth at the Hall: those rooms had witnessed former meetings which
 
 would be brought too painfully before her; but she was yet more anxious
 
-for the possibility of Lady Russell and Captain Wentworth never meeting
+for the possibility of [[Lady Russell]] and [[Captain Wentworth]] never meeting
 
 anywhere. They did not like each other, and no renewal of acquaintance
 
-now could do any good; and were Lady Russell to see them together, she
+now could do any good; and were [[Lady Russell]] to see them together, she
 
-might think that he had too much self-possession, and she too little.
+might think that he had too much [[Self|self]]-possession, and she too little.
 
 
 
@@ -72,7 +72,7 @@ from Uppercross, where she felt she had been stationed quite long
 
 enough. Her usefulness to little Charles would always give some
 
-sweetness to the memory of her two months’ visit there, but he was
+sweetness to the [[Memory|memory]] of her two months’ visit there, but he was
 
 gaining strength apace, and she had nothing else to stay for.
 
@@ -80,7 +80,7 @@ gaining strength apace, and she had nothing else to stay for.
 
 The conclusion of her visit, however, was diversified in a way which
 
-she had not at all imagined. Captain Wentworth, after being unseen and
+she had not at all imagined. [[Captain Wentworth]], after being unseen and
 
 unheard of at Uppercross for two whole days, appeared again among them
 
@@ -92,29 +92,29 @@ A letter from his friend, Captain Harville, having found him out at
 
 last, had brought intelligence of Captain Harville’s being settled with
 
-his family at Lyme for the winter; of their being therefore, quite
+his family at Lyme for the [[Winter|winter]]; of their being therefore, quite
 
 unknowingly, within twenty miles of each other. Captain Harville had
 
 never been in good health since a severe wound which he received two
 
-years before, and Captain Wentworth’s anxiety to see him had determined
+years before, and [[Captain Wentworth]]’s anxiety to see him had determined
 
 him to go immediately to Lyme. He had been there for four-and-twenty
 
-hours. His acquittal was complete, his friendship warmly honoured, a
+hours. His acquittal was complete, his [[Friendship|friendship]] warmly honoured, a
 
 lively interest excited for his friend, and his description of the fine
 
 country about Lyme so feelingly attended to by the party, that an
 
-earnest desire to see Lyme themselves, and a project for going thither
+earnest [[Desire|desire]] to see Lyme themselves, and a project for going thither
 
 was the consequence.
 
 
 
-The young people were all wild to see Lyme. Captain Wentworth talked of
+The young people were all wild to see Lyme. [[Captain Wentworth]] talked of
 
 going there again himself, it was only seventeen miles from Uppercross;
 
@@ -126,41 +126,41 @@ resolution to go, and besides the pleasure of doing as she liked, being
 
 now armed with the idea of merit in maintaining her own way, bore down
 
-all the wishes of her father and mother for putting it off till summer;
+all the wishes of her father and mother for putting it off till [[Summer|summer]];
 
 and to Lyme they were to go—Charles, Mary, Anne, Henrietta, Louisa, and
 
-Captain Wentworth.
+[[Captain Wentworth]].
 
 
 
 The first heedless scheme had been to go in the morning and return at
 
-night; but to this Mr Musgrove, for the sake of his horses, would not
+[[Night|night]]; but to this Mr Musgrove, for the sake of his horses, would not
 
 consent; and when it came to be rationally considered, a day in the
 
-middle of November would not leave much time for seeing a new place,
+middle of November would not leave much [[Time|time]] for seeing a new place,
 
-after deducting seven hours, as the nature of the country required, for
+after deducting seven hours, as the [[Nature|nature]] of the country required, for
 
-going and returning. They were, consequently, to stay the night there,
+going and returning. They were, consequently, to stay the [[Night|night]] there,
 
 and not to be expected back till the next day’s dinner. This was felt
 
 to be a considerable amendment; and though they all met at the Great
 
-House at rather an early breakfast hour, and set off very punctually,
+[[house|House]] at rather an early breakfast hour, and set off very punctually,
 
-it was so much past noon before the two carriages, Mr Musgrove’s coach
+it was so much past [[Noon|noon]] before the two carriages, Mr Musgrove’s coach
 
 containing the four ladies, and Charles’s curricle, in which he drove
 
-Captain Wentworth, were descending the long hill into Lyme, and
+[[Captain Wentworth]], were descending the long [[Hill|hill]] into Lyme, and
 
 entering upon the still steeper street of the town itself, that it was
 
-very evident they would not have more than time for looking about them,
+very evident they would not have more than [[Time|time]] for looking about them,
 
 before the light and warmth of the day were gone.
 
@@ -180,7 +180,7 @@ residents left; and, as there is nothing to admire in the buildings
 
 themselves, the remarkable situation of the town, the principal street
 
-almost hurrying into the water, the walk to the Cobb, skirting round
+almost hurrying into the [[Water|water]], the walk to the Cobb, skirting round
 
 the pleasant little bay, which, in the season, is animated with bathing
 

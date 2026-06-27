@@ -17,25 +17,25 @@ tags:
 CHAPTER XIV—VAUXHALL-GARDENS BY DAY
 
 
-There was a time when if a man ventured to wonder how Vauxhall-gardens
+There was a [[Time|time]] when if a man ventured to [[Wonder|wonder]] how Vauxhall-gardens
 would look by day, he was hailed with a shout of derision at the
 absurdity of the idea. Vauxhall by daylight! A porter-pot without
-porter, the House of Commons without the Speaker, a gas-lamp without
+porter, the [[house|House]] of Commons without the Speaker, a gas-lamp without
 the gas—pooh, nonsense, the thing was not to be thought of. It was
 rumoured, too, in those times, that Vauxhall-gardens by day, were the
 scene of secret and hidden experiments; that there, carvers were
 exercised in the mystic art of cutting a moderate-sized ham into slices
 thin enough to pave the whole of the grounds; that beneath the shade of
 the tall trees, studious men were constantly engaged in chemical
-experiments, with the view of discovering how much water a bowl of
+experiments, with the view of discovering how much [[Water|water]] a bowl of
 negus could possibly bear; and that in some retired nooks, appropriated
 to the study of ornithology, other sage and learned men were, by a
 process known only to themselves, incessantly employed in reducing
 fowls to a mere combination of skin and bone.
 
 Vague rumours of this kind, together with many others of a similar
-nature, cast over Vauxhall-gardens an air of deep mystery; and as there
-is a great deal in the mysterious, there is no doubt that to a good
+[[Nature|nature]], cast over Vauxhall-gardens an air of deep mystery; and as there
+is a great deal in the mysterious, there is no [[Doubt|doubt]] that to a good
 many people, at all events, the pleasure they afforded was not a little
 enhanced by this very circumstance.
 
@@ -43,9 +43,9 @@ Of this class of people we confess to having made one. We loved to
 wander among these illuminated groves, thinking of the patient and
 laborious researches which had been carried on there during the day,
 and witnessing their results in the suppers which were served up
-beneath the light of lamps and to the sound of music at night. The
+beneath the light of lamps and to the sound of music at [[Night|night]]. The
 temples and saloons and cosmoramas and fountains glittered and sparkled
-before our eyes; the beauty of the lady singers and the elegant
+before our eyes; the [[Beauty|beauty]] of the lady singers and the elegant
 deportment of the gentlemen, captivated our hearts; a few hundred
 thousand of additional lamps dazzled our senses; a bowl or two of punch
 bewildered our brains; and we were happy.
@@ -60,8 +60,8 @@ fatal presentiment—perhaps the weather; whatever it was, we did _not_
 go until the second or third announcement of a race between two
 balloons tempted us, and we went.
 
-We paid our shilling at the gate, and then we saw for the first time,
-that the entrance, if there had been any magic about it at all, was now
+We paid our shilling at the gate, and then we saw for the first [[Time|time]],
+that the entrance, if there had been any [[Magic|magic]] about it at all, was now
 decidedly disenchanted, being, in fact, nothing more nor less than a
 combination of very roughly-painted boards and sawdust. We glanced at
 the orchestra and supper-room as we hurried past—we just recognised
@@ -70,11 +70,11 @@ there, at least, we should not be disappointed. We reached it, and
 stood rooted to the spot with mortification and astonishment. _That_
 the Moorish tower—that wooden shed with a door in the centre, and daubs
 of crimson and yellow all round, like a gigantic watch-case! _That_ the
-place where night after night we had beheld the undaunted Mr. Blackmore
-make his terrific ascent, surrounded by flames of fire, and peals of
+place where [[Night|night]] after [[Night|night]] we had beheld the undaunted Mr. Blackmore
+make his terrific ascent, surrounded by flames of [[Fire|fire]], and peals of
 artillery, and where the white garments of Madame Somebody (we forget
 even her name now), who nobly devoted her life to the manufacture of
-fireworks, had so often been seen fluttering in the wind, as she called
+fireworks, had so often been seen fluttering in the [[Wind|wind]], as she called
 up a red, blue, or party-coloured light to illumine her temple! _That_
 the—but at this moment the bell rung; the people scampered away,
 pell-mell, to the spot from whence the sound proceeded; and we, from
@@ -90,12 +90,12 @@ small gentleman, in a dress coat, led on a particularly tall lady in a
 blue sarcenet pelisse and bonnet of the same, ornamented with large
 white feathers, and forthwith commenced a plaintive duet.
 
-We knew the small gentleman well; we had seen a lithographed semblance
+We knew the small gentleman [[Well|well]]; we had seen a lithographed semblance
 of him, on many a piece of music, with his mouth wide open as if in the
 act of singing; a wine-glass in his hand; and a table with two
 decanters and four pine-apples on it in the background. The tall lady,
 too, we had gazed on, lost in raptures of admiration, many and many a
-time—how different people _do_ look by daylight, and without punch, to
+[[Time|time]]—how different people _do_ look by daylight, and without punch, to
 be sure! It was a beautiful duet: first the small gentleman asked a
 question, and then the tall lady answered it; then the small gentleman
 and the tall lady sang together most melodiously; then the small
@@ -113,18 +113,18 @@ stood near us, would have fainted with excess of joy. A marvellously
 facetious gentleman that comic singer is; his distinguishing
 characteristics are, a wig approaching to the flaxen, and an aged
 countenance, and he bears the name of one of the English counties, if
-we recollect right. He sang a very good song about the seven ages, the
+we recollect right. He sang a very good [[Song|song]] about the seven ages, the
 first half-hour of which afforded the assembly the purest delight; of
 the rest we can make no report, as we did not stay to hear any more.
 
 We walked about, and met with a disappointment at every turn; our
 favourite views were mere patches of paint; the fountain that had
 sparkled so showily by lamp-light, presented very much the appearance
-of a water-pipe that had burst; all the ornaments were dingy, and all
+of a [[Water|water]]-pipe that had burst; all the ornaments were dingy, and all
 the walks gloomy. There was a spectral attempt at rope-dancing in the
 little open theatre. The sun shone upon the spangled dresses of the
 performers, and their evolutions were about as inspiriting and
-appropriate as a country-dance in a family vault. So we retraced our
+appropriate as a country-[[Dance|dance]] in a family vault. So we retraced our
 steps to the firework-ground, and mingled with the little crowd of
 people who were contemplating Mr. Green.
 
@@ -151,10 +151,10 @@ that impressed the crowd with the opinion that he was an oracle.
 ‘Ah, you’re very right, sir,’ said another gentleman, with his wife,
 and children, and mother, and wife’s sister, and a host of female
 friends, in all the gentility of white pocket-handkerchiefs, frills,
-and spencers, ‘Mr. Green is a steady hand, sir, and there’s no fear
+and spencers, ‘Mr. Green is a steady hand, sir, and there’s no [[Fear|fear]]
 about him.’
 
-‘Fear!’ said the little man: ‘isn’t it a lovely thing to see him and
+‘[[Fear]]!’ said the little man: ‘isn’t it a lovely thing to see him and
 his wife a going up in one balloon, and his own son and _his_ wife a
 jostling up against them in another, and all of them going twenty or
 thirty mile in three hours or so, and then coming back in pochayses? I
@@ -174,13 +174,13 @@ out again.’
 ‘Make yourself easy about that there, my dear,’ replied the little man.
 ‘If he was so much as to move a inch without leave, Green would jist
 fetch him a crack over the head with the telescope, as would send him
-into the bottom of the basket in no time, and stun him till they come
+into the [[Bottom|bottom]] of the basket in no [[Time|time]], and stun him till they come
 down again.’
 
 ‘Would he, though?’ inquired the other man.
 
 ‘Yes, would he,’ replied the little one, ‘and think nothing of it,
-neither, if he was the king himself. Green’s presence of mind is
+neither, if he was the [[King|king]] himself. Green’s presence of mind is
 wonderful.’
 
 Just at this moment all eyes were directed to the preparations which
@@ -199,7 +199,7 @@ little friend solemnly protesting, long after they were reduced to mere
 specks in the air, that he could still distinguish the white hat of Mr.
 Green. The gardens disgorged their multitudes, boys ran up and down
 screaming ‘bal-loon;’ and in all the crowded thoroughfares people
-rushed out of their shops into the middle of the road, and having
+rushed out of their shops into the middle of the [[Road|road]], and having
 stared up in the air at two little black objects till they almost
 dislocated their necks, walked slowly in again, perfectly satisfied.
 
@@ -219,5 +219,5 @@ sound being thrown back from its surface into the car; and the whole
 concluded with a slight allusion to another ascent next Wednesday, all
 of which was very instructive and very amusing, as our readers will see
 if they look to the papers. If we have forgotten to mention the date,
-they have only to wait till next summer, and take the account of the
-first ascent, and it will answer the purpose equally well.
+they have only to wait till next [[Summer|summer]], and take the account of the
+first ascent, and it will answer the purpose equally [[Well|well]].

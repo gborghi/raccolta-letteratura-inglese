@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -24,7 +24,7 @@ tumult.
 
 Once more was a joint reply returned; and, though the words were
 inaudible, Sam saw by the motion of the two pairs of lips that they had
-uttered the magic word ‘Pickwick.’
+uttered the [[Magic|magic]] word ‘[[Pickwick]].’
 
 This was enough. In another minute Mr. Weller had made his way through
 the crowd, stopped the chairmen, and confronted the portly Grummer.
@@ -44,13 +44,13 @@ gen’l’m’n, who looks as if he’d just escaped from a giant’s carrywan,
 for his wery ‘andsome suggestion; but I should prefer your givin’ me a
 answer to my question, if it’s all the same to you.--How are you, Sir?’
 This last observation was addressed with a patronising air to Mr.
-Pickwick, who was peeping through the front window.
+[[Pickwick]], who was peeping through the front [[Window|window]].
 
 Mr. Grummer, perfectly speechless with indignation, dragged the
-truncheon with the brass crown from its particular pocket, and
+truncheon with the brass [[Crown|crown]] from its particular pocket, and
 flourished it before Sam’s eyes.
 
-‘Ah,’ said Sam, ‘it’s wery pretty, ‘specially the crown, which is
+‘Ah,’ said Sam, ‘it’s wery pretty, ‘specially the [[Crown|crown]], which is
 uncommon like the real one.’
 
 ‘Stand back!’ said the outraged Mr. Grummer. By way of adding force to
@@ -75,15 +75,15 @@ was overpowered by numbers and taken prisoner. The procession then
 reformed; the chairmen resumed their stations; and the march was re-
 commenced.
 
-Mr. Pickwick’s indignation during the whole of this proceeding was
+Mr. [[Pickwick]]’s indignation during the whole of this proceeding was
 beyond all bounds. He could just see Sam upsetting the specials, and
 flying about in every direction; and that was all he could see, for the
 sedan doors wouldn’t open, and the blinds wouldn’t pull up. At length,
 with the assistance of Mr. Tupman, he managed to push open the roof; and
-mounting on the seat, and steadying himself as well as he could, by
-placing his hand on that gentleman’s shoulder, Mr. Pickwick proceeded to
+mounting on the seat, and steadying himself as [[Well|well]] as he could, by
+placing his hand on that gentleman’s shoulder, Mr. [[Pickwick]] proceeded to
 address the multitude; to dwell upon the unjustifiable manner in which
 he had been treated; and to call upon them to take notice that his
 servant had been first assaulted. In this order they reached the
-magistrate’s house; the chairmen trotting, the prisoners following, Mr.
-Pickwick oratorising, and the crowd shouting.
+magistrate’s [[house]]; the chairmen trotting, the prisoners following, Mr.
+[[Pickwick]] oratorising, and the crowd shouting.

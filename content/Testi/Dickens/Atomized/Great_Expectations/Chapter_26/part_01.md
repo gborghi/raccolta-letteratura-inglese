@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 26 (part 1)"
+title: "[[Great Expectations]] — Chapter 26 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -26,14 +26,14 @@ which Wemmick had prepared me to receive. “No ceremony,” he stipulated,
 “and no dinner dress, and say to-morrow.” I asked him where we should
 come to (for I had no idea where he lived), and I believe it was in his
 general objection to make anything like an admission, that he replied,
-“Come here, and I’ll take you home with me.” I embrace this opportunity
+“Come here, and I’ll take you [[Home|home]] with me.” I embrace this opportunity
 of remarking that he washed his clients off, as if he were a surgeon or
 a dentist. He had a closet in his room, fitted up for the purpose,
 which smelt of the scented soap like a perfumer’s shop. It had an
 unusually large jack-towel on a roller inside the door, and he would
 wash his hands, and wipe them and dry them all over this towel,
-whenever he came in from a police court or dismissed a client from his
-room. When I and my friends repaired to him at six o’clock next day, he
+whenever he came in from a police [[Court|court]] or dismissed a client from his
+room. When I and my friends repaired to him at six o’[[Clock|clock]] next day, he
 seemed to have been engaged on a case of a darker complexion than
 usual, for we found him with his head butted into this closet, not only
 washing his hands, but laving his face and gargling his throat. And
@@ -50,8 +50,8 @@ the streets, and whenever that happened he talked louder to me; but he
 never otherwise recognised anybody, or took notice that anybody
 recognised him.
 
-He conducted us to Gerrard Street, Soho, to a house on the south side
-of that street. Rather a stately house of its kind, but dolefully in
+He conducted us to Gerrard Street, Soho, to a [[house]] on the south side
+of that street. Rather a stately [[house]] of its kind, but dolefully in
 want of painting, and with dirty windows. He took out his key and
 opened the door, and we all went into a stone hall, bare, gloomy, and
 little used. So, up a dark brown staircase into a series of three dark
@@ -61,7 +61,7 @@ what kind of loops I thought they looked like.
 
 Dinner was laid in the best of these rooms; the second was his
 dressing-room; the third, his bedroom. He told us that he held the
-whole house, but rarely used more of it than we saw. The table was
+whole [[house]], but rarely used more of it than we saw. The table was
 comfortably laid—no silver in the service, of course—and at the side of
 his chair was a capacious dumb-waiter, with a variety of bottles and
 decanters on it, and four dishes of fruit for dessert. I noticed
@@ -69,12 +69,12 @@ throughout, that he kept everything under his own hand, and distributed
 everything himself.
 
 There was a bookcase in the room; I saw from the backs of the books,
-that they were about evidence, criminal law, criminal biography,
+that they were about evidence, criminal law, criminal [[Biography|biography]],
 trials, acts of Parliament, and such things. The furniture was all very
 solid and good, like his watch-chain. It had an official look, however,
 and there was nothing merely ornamental to be seen. In a corner was a
 little table of papers with a shaded lamp: so that he seemed to bring
-the office home with him in that respect too, and to wheel it out of an
+the office [[Home|home]] with him in that respect too, and to [[Wheel|wheel]] it out of an
 evening and fall to work.
 
 As he had scarcely seen my three companions until now,—for he and I had
@@ -83,7 +83,7 @@ and took a searching look at them. To my surprise, he seemed at once to
 be principally if not solely interested in Drummle.
 
 “Pip,” said he, putting his large hand on my shoulder and moving me to
-the window, “I don’t know one from the other. Who’s the Spider?”
+the [[Window|window]], “I don’t know one from the other. Who’s the Spider?”
 
 “The spider?” said I.
 
@@ -107,7 +107,7 @@ pale, with large faded eyes, and a quantity of streaming hair. I cannot
 say whether any diseased affection of the heart caused her lips to be
 parted as if she were panting, and her face to bear a curious
 expression of suddenness and flutter; but I know that I had been to see
-Macbeth at the theatre, a night or two before, and that her face looked
+[[Macbeth]] at the theatre, a [[Night|night]] or two before, and that her face looked
 to me as if it were all disturbed by fiery air, like the faces I had
 seen rise out of the Witches’ caldron.
 

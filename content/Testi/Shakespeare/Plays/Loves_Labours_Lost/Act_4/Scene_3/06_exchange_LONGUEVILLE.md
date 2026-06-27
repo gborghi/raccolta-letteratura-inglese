@@ -1,5 +1,5 @@
 ---
-title: "Loves Labours Lost — Act IV, Scene 3 — exchange (LONGUEVILLE) [6]"
+title: "Loves Labours Lost — Act IV, Scene 3 — exchange ([[Longueville|LONGUEVILLE]]) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/LOVE’S-LABOUR’S-LOST-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| LONGUEVILLE | (coming forward) Dumaine, thy love is far from charity, That in love’s grief desir‘st society. You may look pale, but I should blush, I know, To be o’erheard and taken napping so. |
+| [[Longueville|LONGUEVILLE]] | (coming forward) [[Dumaine]], thy [[Love|love]] is far from [[Charity|charity]], That in [[Love|love]]’s grief desir‘st society. You may look pale, but I should blush, I know, To be o’erheard and taken napping so. |

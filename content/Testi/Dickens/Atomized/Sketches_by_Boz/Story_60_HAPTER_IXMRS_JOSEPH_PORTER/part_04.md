@@ -33,23 +33,23 @@ orchestra prevented his singing a note. The fishermen, who were hired
 for the occasion, revolted to the very life, positively refusing to
 play without an increased allowance of spirits; and, their demand being
 complied with, getting drunk in the eruption-scene as naturally as
-possible. The red fire, which was burnt at the conclusion of the second
-act, not only nearly suffocated the audience, but nearly set the house
-on fire into the bargain; and, as it was, the remainder of the piece
+possible. The red [[Fire|fire]], which was burnt at the conclusion of the second
+act, not only nearly suffocated the audience, but nearly set the [[house]]
+on [[Fire|fire]] into the bargain; and, as it was, the remainder of the piece
 was acted in a thick fog.
 
 In short, the whole affair was, as Mrs. Joseph Porter triumphantly told
-everybody, ‘a complete failure.’ The audience went home at four o’clock
-in the morning, exhausted with laughter, suffering from severe
+everybody, ‘a complete failure.’ The audience went [[Home|home]] at four o’[[Clock|clock]]
+in the morning, exhausted with laughter, [[Suffering|suffering]] from severe
 headaches, and smelling terribly of brimstone and gunpowder. The
 Messrs. Gattleton, senior and junior, retired to rest, with the vague
-idea of emigrating to Swan River early in the ensuing week.
+idea of emigrating to Swan [[River]] early in the ensuing week.
 
-Rose Villa has once again resumed its wonted appearance; the
+[[Rose]] Villa has once again resumed its wonted appearance; the
 dining-room furniture has been replaced; the tables are as nicely
 polished as formerly; the horsehair chairs are ranged against the wall,
-as regularly as ever; Venetian blinds have been fitted to every window
-in the house to intercept the prying gaze of Mrs. Joseph Porter. The
+as regularly as ever; Venetian blinds have been fitted to every [[Window|window]]
+in the [[house]] to intercept the prying gaze of Mrs. Joseph Porter. The
 subject of theatricals is never mentioned in the Gattleton family,
 unless, indeed, by Uncle Tom, who cannot refrain from sometimes
 expressing his surprise and regret at finding that his nephews and

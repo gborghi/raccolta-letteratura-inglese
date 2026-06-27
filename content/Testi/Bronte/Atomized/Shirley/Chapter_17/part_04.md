@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 17 (part 4)"
+title: "[[Shirley]] — Chapter 17 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,7 +18,7 @@ oatcake to give to Mr. Sam's favourite pointers."
 
 
 
-"You know the surest path to the heart of each swain, I doubt not," said
+"You know the surest path to the heart of each swain, I [[Doubt|doubt]] not," said
 
 Moore quietly. He looked very content to have at last secured his
 
@@ -34,7 +34,7 @@ thought, to look at him, that he was a poor, struggling man seated
 
 beside a rich woman; the calm of equality stilled his aspect; perhaps
 
-that calm, too, reigned in his soul. Now and then, from the way in which
+that calm, too, reigned in his [[Soul|soul]]. Now and then, from the way in which
 
 he looked down on Miss Keeldar as he addressed her, you would have
 
@@ -68,7 +68,7 @@ moment thanks were returned she quitted the table, and hastened to
 
 follow her cousin Hortense, who, with Miss Mann, had already sought the
 
-open air. Robert Moore had risen when she did--perhaps he meant to speak
+open air. [[Robert Moore]] had risen when she did--perhaps he meant to speak
 
 to her; but there was yet a parting word to exchange with Miss Keeldar,
 
@@ -88,29 +88,29 @@ literally.
 
 "You are a very great stranger," she said austerely, as her pupil held
 
-and pressed her hand. The pupil knew her too well to remonstrate or
+and pressed her hand. The pupil knew her too [[Well|well]] to remonstrate or
 
 complain of coldness. She let the punctilious whim pass, sure that her
 
 natural _bonté_ (I use this French word because it expresses just what I
 
-mean--neither goodness nor good-nature, but something between the two)
+mean--neither goodness nor good-[[Nature|nature]], but something between the two)
 
 would presently get the upper hand. It did. Hortense had no sooner
 
-examined her face well, and observed the change its somewhat wasted
+examined her face [[Well|well]], and observed the change its somewhat wasted
 
 features betrayed, than her mien softened. Kissing her on both cheeks,
 
 she asked anxiously after her health. Caroline answered gaily. It would,
 
-however, have been her lot to undergo a long cross-examination, followed
+however, have been her lot to undergo a long [[Cross|cross]]-examination, followed
 
 by an endless lecture on this head, had not Miss Mann called off the
 
-attention of the questioner by requesting to be conducted home. The poor
+attention of the questioner by requesting to be conducted [[Home|home]]. The poor
 
-invalid was already fatigued. Her weariness made her cross--too cross
+invalid was already fatigued. Her weariness made her [[Cross|cross]]--too [[Cross|cross]]
 
 almost to speak to Caroline; and besides, that young person's white
 
@@ -118,25 +118,25 @@ dress and lively look were displeasing in the eyes of Miss Mann. The
 
 everyday garb of brown stuff or gray gingham, and the everyday air of
 
-melancholy, suited the solitary spinster better; she would hardly know
+[[Melancholy|melancholy]], suited the solitary spinster better; she would hardly know
 
-her young friend to-night, and quitted her with a cool nod. Hortense
+her young friend to-[[Night|night]], and quitted her with a cool nod. Hortense
 
-having promised to accompany her home, they departed together.
+having promised to accompany her [[Home|home]], they departed together.
 
 
 
-Caroline now looked round for Shirley. She saw the rainbow scarf and
+Caroline now looked round for [[Shirley]]. She saw the rainbow scarf and
 
-purple dress in the centre of a throng of ladies, all well known to
+purple dress in the centre of a throng of ladies, all [[Well|well]] known to
 
 herself, but all of the order whom she systematically avoided whenever
 
 avoidance was possible. Shyer at some moments than at others, she felt
 
-just now no courage at all to join this company. She could not, however,
+just now no [[Courage|courage]] at all to join this company. She could not, however,
 
-stand alone where all others went in pairs or parties; so she approached
+stand [[Alone|alone]] where all others went in pairs or parties; so she approached
 
 a group of her own scholars, great girls, or rather young women, who
 
@@ -178,9 +178,9 @@ soon set her at her ease.
 
 Mr. Sam Wynne coming up with great haste, to insist on the elder girls
 
-joining in the game as well as the younger ones, Caroline was again left
+joining in the game as [[Well|well]] as the younger ones, Caroline was again left
 
-alone. She was meditating a quiet retreat to the house, when Shirley,
+[[Alone|alone]]. She was meditating a quiet retreat to the [[house]], when [[Shirley]],
 
 perceiving from afar her isolation, hastened to her side.
 
@@ -192,9 +192,9 @@ crowds, Caroline."
 
 
 
-"But it will be depriving you of a pleasure, Shirley, to take you from
+"But it will be depriving you of a pleasure, [[Shirley]], to take you from
 
-all these fine people, who court your society so assiduously, and to
+all these fine people, who [[Court|court]] your society so assiduously, and to
 
 whom you can, without art or effort, make yourself so pleasant."
 
@@ -206,7 +206,7 @@ insipid, barren work, talking and laughing with the good gentlefolks of
 
 Briarfield. I have been looking out for your white dress for the last
 
-ten minutes. I like to watch those I love in a crowd, and to compare
+ten minutes. I like to watch those I [[Love|love]] in a crowd, and to compare
 
 them with others. I have thus compared you. You resemble none of the
 

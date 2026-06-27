@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 8 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -43,13 +43,13 @@ the palm of his right hand to get a good grip of the cane, ‘you’re an
 incorrigible young scoundrel, and as the last thrashing did you no good,
 we must see what another will do towards beating it out of you.’
 
-With this, and wholly disregarding a piteous cry for mercy, Mr. Squeers
+With this, and wholly disregarding a piteous cry for [[Mercy|mercy]], Mr. Squeers
 fell upon the boy and caned him soundly: not leaving off, indeed, until
 his arm was tired out.
 
 ‘There,’ said Squeers, when he had quite done; ‘rub away as hard as you
 like, you won’t rub that off in a hurry. Oh! you won’t hold that noise,
-won’t you? Put him out, Smike.’
+won’t you? Put him out, [[Smike]].’
 
 The drudge knew better from long experience, than to hesitate about
 obeying, so he bundled the victim out by a side-door, and Mr. Squeers
@@ -75,14 +75,14 @@ Another boy stood up, and the schoolmaster looked over the letter as
 before.
 
 ‘Graymarsh’s maternal aunt,’ said Squeers, when he had possessed himself
-of the contents, ‘is very glad to hear he’s so well and happy, and sends
+of the contents, ‘is very glad to hear he’s so [[Well|well]] and happy, and sends
 her respectful compliments to Mrs. Squeers, and thinks she must be an
 angel. She likewise thinks Mr. Squeers is too good for this world; but
 hopes he may long be spared to carry on the business. Would have sent
 the two pair of stockings as desired, but is short of money, so forwards
-a tract instead, and hopes Graymarsh will put his trust in Providence.
+a tract instead, and hopes Graymarsh will put his trust in [[Providence]].
 Hopes, above all, that he will study in everything to please Mr. and Mrs
-Squeers, and look upon them as his only friends; and that he will love
+Squeers, and look upon them as his only friends; and that he will [[Love|love]]
 Master Squeers; and not object to sleeping five in a bed, which no
 Christian should. Ah!’ said Squeers, folding it up, ‘a delightful
 letter. Very affecting indeed.’
@@ -91,7 +91,7 @@ It was affecting in one sense, for Graymarsh’s maternal aunt was
 strongly supposed, by her more intimate friends, to be no other than his
 maternal parent; Squeers, however, without alluding to this part of the
 story (which would have sounded immoral before boys), proceeded with
-the business by calling out ‘Mobbs,’ whereupon another boy rose, and
+the business by calling out ‘Mobbs,’ whereupon another boy [[Rose|rose]], and
 Graymarsh resumed his seat.
 
 ‘Mobbs’s step-mother,’ said Squeers, ‘took to her bed on hearing that he
@@ -99,12 +99,12 @@ wouldn’t eat fat, and has been very ill ever since. She wishes to know,
 by an early post, where he expects to go to, if he quarrels with
 his vittles; and with what feelings he could turn up his nose at the
 cow’s-liver broth, after his good master had asked a blessing on it.
-This was told her in the London newspapers--not by Mr. Squeers, for he is
+This was told her in the [[London]] newspapers--not by Mr. Squeers, for he is
 too kind and too good to set anybody against anybody--and it has vexed
 her so much, Mobbs can’t think. She is sorry to find he is discontented,
 which is sinful and horrid, and hopes Mr. Squeers will flog him into
 a happier state of mind; with which view, she has also stopped his
-halfpenny a week pocket-money, and given a double-bladed knife with a
+halfpenny a week pocket-money, and given a [[Double|double]]-bladed knife with a
 corkscrew in it to the Missionaries, which she had bought on purpose for
 him.’
 
@@ -128,12 +128,12 @@ elastic, for hats and caps of all dimensions were alike to him.
 This business dispatched, a few slovenly lessons were performed, and
 Squeers retired to his fireside, leaving Nicholas to take care of the
 boys in the school-room, which was very cold, and where a meal of bread
-and cheese was served out shortly after dark.
+and [[cheese]] was served out shortly after dark.
 
 There was a small stove at that corner of the room which was nearest
 to the master’s desk, and by it Nicholas sat down, so depressed and
-self-degraded by the consciousness of his position, that if death could
-have come upon him at that time, he would have been almost happy to meet
+[[Self|self]]-degraded by the consciousness of his position, that if [[Death|death]] could
+have come upon him at that [[Time|time]], he would have been almost happy to meet
 it. The cruelty of which he had been an unwilling witness, the coarse
 and ruffianly behaviour of Squeers even in his best moods, the filthy
 place, the sights and sounds about him, all contributed to this state of
@@ -142,5 +142,5 @@ he actually seemed--no matter what unhappy train of circumstances had
 brought him to that pass--to be the aider and abettor of a system which
 filled him with honest disgust and indignation, he loathed himself, and
 felt, for the moment, as though the mere consciousness of his present
-situation must, through all time to come, prevent his raising his head
+situation must, through all [[Time|time]] to come, prevent his raising his head
 again.

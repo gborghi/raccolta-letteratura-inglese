@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 38 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 38 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 affection. Let her injure you no further; abstract yourself from her,
 
-and stand alone.”
+and stand [[Alone|alone]].”
 
 
 
@@ -26,7 +26,7 @@ upon me, “you have injured me too by this ungenerous concealment!”
 
 
 
-There was a sudden revulsion in my feelings. Something rose within me,
+There was a sudden revulsion in my feelings. Something [[Rose|rose]] within me,
 
 and urged me to resent this harsh return for my heartfelt sympathy, and
 
@@ -34,13 +34,13 @@ defend myself with answering severity. Happily, I did not yield to the
 
 impulse. I saw his anguish as, suddenly smiting his forehead, he turned
 
-abruptly to the window, and, looking upward at the placid sky, murmured
+abruptly to the [[Window|window]], and, looking upward at the placid sky, murmured
 
 passionately, “O God, that I might die!”—and felt that to add one drop
 
 of bitterness to that already overflowing cup would be ungenerous
 
-indeed. And yet I fear there was more coldness than gentleness in the
+indeed. And yet I [[Fear|fear]] there was more coldness than gentleness in the
 
 quiet tone of my reply:—“I might offer many excuses that some would
 
@@ -62,7 +62,7 @@ possessed—”
 
 “I confess I was wrong,” continued I, without regarding this bitter
 
-interruption; “but whether want of courage or mistaken kindness was the
+interruption; “but whether want of [[Courage|courage]] or mistaken kindness was the
 
 cause of my error, I think you blame me too severely. I told Lady
 
@@ -78,13 +78,13 @@ trusted she had altered her course.”
 
 
 
-He continued gazing from the window while I spoke, and did not answer,
+He continued gazing from the [[Window|window]] while I spoke, and did not answer,
 
 but, stung by the recollections my words awakened, stamped his foot
 
 upon the floor, ground his teeth, and corrugated his brow, like one
 
-under the influence of acute physical pain.
+under the influence of acute physical [[Pain|pain]].
 
 
 
@@ -156,21 +156,21 @@ so, with such a husband?”
 
 “I have noticed a change in your appearance since the first years of
 
-your marriage,” pursued he: “I observed it to—to that infernal demon,”
+your [[Marriage|marriage]],” pursued he: “I observed it to—to that infernal demon,”
 
 he muttered between his teeth; “and he said it was your own sour temper
 
 that was eating away your bloom: it was making you old and ugly before
 
-your time, and had already made his fireside as comfortless as a
+your [[Time|time]], and had already made his fireside as comfortless as a
 
 convent cell. You smile, Mrs. Huntingdon; nothing moves you. I wish my
 
-nature were as calm as yours.”
+[[Nature|nature]] were as calm as yours.”
 
 
 
-“My nature was not originally calm,” said I. “I have learned to appear
+“My [[Nature|nature]] was not originally calm,” said I. “I have learned to appear
 
 so by dint of hard lessons and many repeated efforts.”
 
@@ -184,7 +184,7 @@ At this juncture Mr. Hattersley burst into the room.
 
 seeing me. “I didn’t know it was a _tête-à-tête_. Cheer up, man,” he
 
-continued, giving Lord Lowborough a thump on the back, which caused the
+continued, giving [[Lord Lowborough]] a thump on the back, which caused the
 
 latter to recoil from him with looks of ineffable disgust and
 
@@ -236,11 +236,11 @@ happens—why, that’ll be all right too, I daresay, to a desperate fellow
 
 like you. Come now, give me your hand, and don’t look so black upon it.
 
-Name time and place, and I’ll manage the rest.”
+Name [[Time|time]] and place, and I’ll manage the rest.”
 
 
 
-“That,” answered the more low, deliberate voice of Lord Lowborough, “is
+“That,” answered the more low, deliberate voice of [[Lord Lowborough]], “is
 
 just the remedy my own heart, or the devil within it, suggested—to meet
 
@@ -250,7 +250,7 @@ both, it would be an _inexpressible_ relief to me, if—”
 
 
 
-“Just so! Well then,—”
+“Just so! [[Well]] then,—”
 
 
 

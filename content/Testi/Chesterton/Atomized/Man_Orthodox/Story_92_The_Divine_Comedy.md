@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Divine Comedy"
+title: "Man Orthodox — The Divine [[Comedy]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-THE DIVINE COMEDY
+THE DIVINE [[Comedy|COMEDY]]

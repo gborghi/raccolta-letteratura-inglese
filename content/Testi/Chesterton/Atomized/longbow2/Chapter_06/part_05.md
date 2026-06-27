@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 6 (part 5)"
+title: "[[longbow2]] — Chapter 6 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -31,7 +31,7 @@ But Hunter didn't go on admiring the old landlords; he deserted
 to the new landlords as soon as they got the land.  His conservatism
 was too snobbish to conserve anything.  I wanted to import pigs,
 and I went on importing pigs, though my methods of smuggling
-might land me in a mad-house. But Enoch Oates, the millionaire,
+might land me in a mad-[[house]]. But Enoch Oates, the millionaire,
 didn't go on importing pork; he went off at once on some new stunt,
 first on the booming of his purses, and afterwards on the admirable
 stunt of starting English farms.  The business mind isn't steadfast;
@@ -49,8 +49,8 @@ Materialism isn't like stone; it's like mud, and liquid mud at that."
 inclined to add something to it.  On a rough reckoning of the chances
 in modern England, I should say the situation is something like this. 
 In that dubious and wavering atmosphere it is very unlikely
-there would ever be a revolution, or any very vital reform. 
-But if there were, I believe on my soul that it might be successful. 
+there would ever be a revolution, or any very vital [[Reform|reform]]. 
+But if there were, I believe on my [[Soul|soul]] that it might be successful. 
 I believe everything else would be too weak and wobbly to stand up
 against it."
 
@@ -65,7 +65,7 @@ compactly and clearly stated in the newspaper report, at which
 the friends of the experimentalists found themselves gazing with
 more than their usual bewilderment on the following morning. 
 The Colonel, sitting at his club with his favourite daily paper
-spread out before him, was regarding with a grave wonder a paragraph
+spread out before him, was regarding with a [[Grave|grave]] [[Wonder|wonder]] a paragraph
 that began with the following head-lines:
 
 
@@ -76,7 +76,7 @@ that began with the following head-lines:
 
 "A scene equally distressing and astonishing took place at the third
 meeting of the Astronomical Society now holding its congress
-at Bath.  Professor Oliver Green, one of the most promising of
+at Bath.  Professor [[Oliver]] Green, one of the most promising of
 the younger astronomers, was set down in the syllabus to deliver
 a lecture on `Relativity in Relation to Planetary Motion.' 
 About an hour before the lecture, however, the authorities received
@@ -97,23 +97,23 @@ a still more improbable of a more mobile but equally monstrous form
 of life, resting on four trunks or columns which swung in rotation,
 and terminating in some curious curved appendages, when a young man
 in the front row, whose demeanour had shown an increasing levity,
-called out abruptly:  `Why, that's a cow!'  To this the professor,
+called out abruptly:  `Why, that's a cow!'  To this [[The Professor|the professor]],
 abandoning abruptly all pretence of scientific dignity, replied by
 shouting in a voice like thunder:  `Yes, of course it's a cow;
 and you fellows would never have noticed a cow, even if she jumped
-over the moon!'  The unfortunate professor then began to rave
+over the [[Moon|moon]]!'  The unfortunate professor then began to rave
 in the most incoherent manner, throwing his arms about and shouting
 aloud that he and his fellow scientists were all a pack of noodles
 who had never looked at the world they were walking on, which contained
 the most miraculous things.  But the latter part of his remarks,
 which appeared to be an entirely irrelevant outburst in praise of
-the beauty of Woman, were interrupted by the Chairman and officials
+the [[Beauty|beauty]] of Woman, were interrupted by the Chairman and officials
 of the Congress, who called for medical and constabulary interference. 
 No less a person than Sir Horace Hunter, who, although best known
 as a psycho-physiologist, has taken all knowledge for his province
 and was present to show his interest in astronomical progress,
 was able to certify on the spot that the unfortunate Green was
-clearly suffering from dementia, which was immediately corroborated
+clearly [[Suffering|suffering]] from dementia, which was immediately corroborated
 by a local doctor, so that the unhappy man might be removed without
 further scandal.
 
@@ -128,6 +128,6 @@ from the doctors and police, and carry him outside the building.
 Those pursuing the fugitives found themselves at first confronted
 with a new mystery, in the form of their complete disappearance. 
 It has since been discovered that they actually escaped by aeroplane;
-the young man, whose name is said to be Pierce, being a well-known
+the young man, whose name is said to be Pierce, being a [[Well|well]]-known
 aviator formerly connected with the Flying Corps.  The other young man,
 who assisted him and acted as pilot, has not yet been identified."

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 47 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 47 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘Then why don’t you shut him up? we pay enough for county institutions,
-damn ‘em. But thou’d rather drag him about to excite charity--of course.
+damn ‘em. But thou’d rather drag him about to excite [[Charity|charity]]--of course.
 Ay, I know thee.’
 
 Now, this gentleman had various endearing appellations among his
@@ -27,8 +27,8 @@ was a pity there were not more like him, and that because there were
 not, the country was going to rack and ruin every day. He was in the
 commission of the peace, and could write his name almost legibly; but
 his greatest qualifications were, that he was more severe with poachers,
-was a better shot, a harder rider, had better horses, kept better dogs,
-could eat more solid food, drink more strong wine, go to bed every night
+was a better shot, a harder rider, had better horses, kept better [[dogs]],
+could eat more solid food, drink more strong wine, go to bed every [[Night|night]]
 more drunk and get up every morning more sober, than any man in the
 county. In knowledge of horseflesh he was almost equal to a farrier, in
 stable learning he surpassed his own head groom, and in gluttony not
@@ -37,7 +37,7 @@ himself, but he was extremely patriotic, and usually drove his voters
 up to the poll with his own hands. He was warmly attached to church
 and state, and never appointed to the living in his gift any but a
 three-bottle man and a first-rate fox-hunter. He mistrusted the honesty
-of all poor people who could read and write, and had a secret jealousy
+of all poor people who could read and write, and had a secret [[Jealousy|jealousy]]
 of his own wife (a young lady whom he had married for what his friends
 called ‘the good old English reason,’ that her father’s property
 adjoined his own) for possessing those accomplishments in a greater
@@ -45,16 +45,16 @@ degree than himself. In short, Barnaby being an idiot, and Grip a
 creature of mere brute instinct, it would be very hard to say what this
 gentleman was.
 
-He rode up to the door of a handsome house approached by a great flight
-of steps, where a man was waiting to take his horse, and led the way
+He rode up to the door of a handsome [[house]] approached by a great flight
+of steps, where a man was waiting to take his [[Horse|horse]], and led the way
 into a large hall, which, spacious as it was, was tainted with the
-fumes of last night’s stale debauch. Greatcoats, riding-whips, bridles,
+fumes of last [[Night|night]]’s stale debauch. Greatcoats, riding-whips, bridles,
 top-boots, spurs, and such gear, were strewn about on all sides, and
-formed, with some huge stags’ antlers, and a few portraits of dogs and
+formed, with some huge stags’ antlers, and a few portraits of [[dogs]] and
 horses, its principal embellishments.
 
 Throwing himself into a great chair (in which, by the bye, he often
-snored away the night, when he had been, according to his admirers, a
+snored away the [[Night|night]], when he had been, according to his admirers, a
 finer country gentleman than usual) he bade the man to tell his mistress
 to come down: and presently there appeared, a little flurried, as it
 seemed, by the unwonted summons, a lady much younger than himself, who
@@ -78,9 +78,9 @@ She answered yes.
 into his breeches pockets. ‘She’ll tell thee so, of course. Most likely
 he’s hired, at so much a day. There. Get on. Make him do something.’
 
-Grip having by this time recovered his urbanity, condescended, at
+Grip having by this [[Time|time]] recovered his urbanity, condescended, at
 Barnaby’s solicitation, to repeat his various phrases of speech, and to
-go through the whole of his performances with the utmost success. The
+go through the whole of his performances with the utmost [[success]]. The
 corks, and the never say die, afforded the gentleman so much delight
 that he demanded the repetition of this part of the entertainment, until
 Grip got into his basket, and positively refused to say another word,
@@ -115,7 +115,7 @@ He was evidently about to make a very passionate retort, when a few
 murmured words from his wife happening to catch his ear, he turned
 sharply round, and said, ‘Eh? What?’
 
-‘We can hardly expect them to sell the bird, against their own desire,’
+‘We can hardly expect them to sell the bird, against their own [[Desire|desire]],’
 she faltered. ‘If they prefer to keep him--’
 
 ‘Prefer to keep him!’ he echoed. ‘These people, who go tramping about
@@ -127,21 +127,21 @@ the widow, ‘I say, yes.’
 Barnaby’s mother pleaded guilty to the accusation, and hoped there was
 no harm in it.
 
-‘No harm!’ said the gentleman. ‘No. No harm. No harm, ye old rebel, not
+‘No harm!’ said the gentleman. ‘No. No harm. No harm, ye old [[Rebel|rebel]], not
 a bit of harm. If my clerk was here, I’d set ye in the stocks, I would,
 or lay ye in jail for prowling up and down, on the look-out for petty
 larcenies, ye limb of a gipsy. Here, Simon, put these pilferers out,
-shove ‘em into the road, out with ‘em! Ye don’t want to sell the bird,
-ye that come here to beg, don’t ye? If they an’t out in double-quick,
-set the dogs upon ‘em!’
+shove ‘em into the [[Road|road]], out with ‘em! Ye don’t want to sell the bird,
+ye that come here to beg, don’t ye? If they an’t out in [[Double|double]]-quick,
+set the [[dogs]] upon ‘em!’
 
 They waited for no further dismissal, but fled precipitately, leaving
-the gentleman to storm away by himself (for the poor lady had already
-retreated), and making a great many vain attempts to silence Grip, who,
-excited by the noise, drew corks enough for a city feast as they hurried
+the gentleman to [[Storm|storm]] away by himself (for the poor lady had already
+retreated), and making a great many vain attempts to [[Silence|silence]] Grip, who,
+excited by the noise, drew corks enough for a [[City|city]] feast as they hurried
 down the avenue, and appeared to congratulate himself beyond measure on
 having been the cause of the disturbance. When they had nearly reached
 the lodge, another servant, emerging from the shrubbery, feigned to
-be very active in ordering them off, but this man put a crown into the
+be very active in ordering them off, but this man put a [[Crown|crown]] into the
 widow’s hand, and whispering that his lady sent it, thrust them gently
 from the gate.

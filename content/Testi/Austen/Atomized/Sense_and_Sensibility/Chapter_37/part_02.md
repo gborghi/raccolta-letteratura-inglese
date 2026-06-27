@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 37 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 37 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-with it as any body else would with eight. Lord! how snug they might
+with it as any [[Body|body]] else would with eight. Lord! how snug they might
 
 live in such another cottage as yours—or a little bigger—with two
 
@@ -24,7 +24,7 @@ my Betty has a sister out of place, that would fit them exactly.”
 
 
 
-Here Mrs. Jennings ceased, and as Elinor had had time enough to collect
+Here Mrs. Jennings ceased, and as Elinor had had [[Time|time]] enough to collect
 
 her thoughts, she was able to give such an answer, and make such
 
@@ -36,7 +36,7 @@ in it; that Mrs. Jennings (as she had of late often hoped might be the
 
 case) had ceased to imagine her at all attached to Edward; and happy
 
-above all the rest, in the absence of Marianne, she felt very well able
+above all the rest, in the absence of Marianne, she felt very [[Well|well]] able
 
 to speak of the affair without embarrassment, and to give her judgment,
 
@@ -50,11 +50,11 @@ She could hardly determine what her own expectation of its event really
 
 was; though she earnestly tried to drive away the notion of its being
 
-possible to end otherwise at last, than in the marriage of Edward and
+possible to end otherwise at last, than in the [[Marriage|marriage]] of Edward and
 
 Lucy. What Mrs. Ferrars would say and do, though there could not be a
 
-doubt of its nature, she was anxious to hear; and still more anxious to
+[[Doubt|doubt]] of its [[Nature|nature]], she was anxious to hear; and still more anxious to
 
 know how Edward would conduct himself. For _him_ she felt much
 
@@ -66,9 +66,9 @@ that little;—for the rest of the party none at all.
 
 As Mrs. Jennings could talk on no other subject, Elinor soon saw the
 
-necessity of preparing Marianne for its discussion. No time was to be
+necessity of preparing Marianne for its discussion. No [[Time|time]] was to be
 
-lost in undeceiving her, in making her acquainted with the real truth,
+lost in undeceiving her, in making her acquainted with the real [[Truth|truth]],
 
 and in endeavouring to bring her to hear it talked of by others,
 
@@ -96,9 +96,9 @@ be done, and Elinor therefore hastened to perform it.
 
 She was very far from wishing to dwell on her own feelings, or to
 
-represent herself as suffering much, any otherwise than as the
+represent herself as [[Suffering|suffering]] much, any otherwise than as the
 
-self-command she had practised since her first knowledge of Edward’s
+[[Self|self]]-command she had practised since her first knowledge of Edward’s
 
 engagement, might suggest a hint of what was practicable to Marianne.
 
@@ -120,7 +120,7 @@ of imprudence, was readily offered.
 
 
 
-But Marianne for some time would give credit to neither. Edward seemed
+But Marianne for some [[Time|time]] would give credit to neither. Edward seemed
 
 a second Willoughby; and acknowledging as Elinor did, that she _had_
 
@@ -142,11 +142,11 @@ could convince her, a better knowledge of mankind.
 
 Her first communication had reached no farther than to state the fact
 
-of the engagement, and the length of time it had existed.—Marianne’s
+of the engagement, and the length of [[Time|time]] it had existed.—Marianne’s
 
 feelings had then broken in, and put an end to all regularity of
 
-detail; and for some time all that could be done was to soothe her
+detail; and for some [[Time|time]] all that could be done was to soothe her
 
 distress, lessen her alarms, and combat her resentment. The first
 
@@ -166,7 +166,7 @@ last November, she told me in confidence of her engagement.”
 
 At these words, Marianne’s eyes expressed the astonishment which her
 
-lips could not utter. After a pause of wonder, she exclaimed—
+lips could not utter. After a pause of [[Wonder|wonder]], she exclaimed—
 
 
 
@@ -198,7 +198,7 @@ you been supported?”
 
 be secret. I owed it to her, therefore, to avoid giving any hint of the
 
-truth; and I owed it to my family and friends, not to create in them a
+[[Truth|truth]]; and I owed it to my family and friends, not to create in them a
 
 solicitude about me, which it could not be in my power to satisfy.”
 
@@ -220,7 +220,7 @@ my trust, I never could have convinced you.”
 
 
 
-“Yes. But I did not love only him; and while the comfort of others was
+“Yes. But I did not [[Love|love]] only him; and while the comfort of others was
 
 dear to me, I was glad to spare them from knowing how much I felt. Now,
 

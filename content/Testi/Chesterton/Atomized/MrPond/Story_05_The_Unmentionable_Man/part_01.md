@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Unmentionable Man (part 1)"
+title: "[[MrPond]] — The Unmentionable Man (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -30,7 +30,7 @@ said he could not see the sense of things; and was deaf to the
 
 wistful questions of his friend Gahagan, about whether he might
 
-perhaps see the nonsense.  There was no nonsense about Sir Hubert
+perhaps see the nonsense.  There was no nonsense about Sir [[Hubert]]
 
 Wotton; and there was a great deal of nonsense about Captain
 
@@ -64,15 +64,15 @@ to give our friend his high and rightful rank in the biological
 
 order.  I need not trouble you with the arguments.  Pond wears a
 
-beard.  He and the oyster alone confront the world of modern
+beard.  He and the oyster [[Alone|alone]] confront the world of modern
 
 fashions with such a decoration.  When he shuts up his head he is
 
-as close as an oyster.  When he persuades us to swallow something,
+as close as an oyster.  When he persuades us to [[Swallow|swallow]] something,
 
 it is only afterwards (as we have often agreed) that we realize
 
-what a monster of the deep we have swallowed.  But, above all,
+what a [[Monster|monster]] of the deep we have swallowed.  But, above all,
 
 within that oyster are the paradoxes; which are pearls of great
 
@@ -92,7 +92,7 @@ This question of deporting dangerous characters, even when they are
 
 only suspects, has some curious and baffling problems.  I remember
 
-one rather queer case, in which a government had to consider the
+one rather queer case, in which a [[government]] had to consider the
 
 deporting of a desirable alien--"
 
@@ -134,35 +134,35 @@ wanted him to stay, and that was why it seemed obvious that he must
 
 go.  He was something which, without profanity, I trust, I might
 
-call the desire of all nations; or what poets have described as the
+call the [[Desire|desire]] of all nations; or what poets have described as the
 
-world's desire.  And yet he was not deported.  Although he was
+world's [[Desire|desire]].  And yet he was not deported.  Although he was
 
-desired, he was not deported.  That is the only real paradox."
+desired, he was not deported.  That is the only real [[Paradox|paradox]]."
 
 
 
-"Oh," said the staring Wotton.  "So that's the real paradox."
+"Oh," said the staring Wotton.  "So that's the real [[Paradox|paradox]]."
 
 
 
 "You should remember something of the case, Wotton," went on Mr.
 
-Pond.  "It was about that time when we went over to Paris together
+Pond.  "It was about that [[Time|time]] when we went over to [[Paris]] together
 
 about a rather delicate--"
 
 
 
-"Pond in Paris," murmured Gahagan.  "Pond in his Pagan Youth, when
+"Pond in [[Paris]]," murmured Gahagan.  "Pond in his Pagan Youth, when
 
-(as Swinburne says so beautifully) 'Love was the pearl of his
+(as Swinburne says so beautifully) '[[Love]] was the pearl of his
 
-oyster and Venus rose red out of wine.'"
+oyster and [[Venus]] [[Rose|rose]] red out of wine.'"
 
 
 
-"Paris is on the way to many capitals," replied Pond with
+"[[Paris]] is on the way to many capitals," replied Pond with
 
 diplomatic reserve.  "In any case, there is no need to define the
 
@@ -182,13 +182,13 @@ equality; in face of a world deeply disturbed about economic
 
 equality.  When I went there, a strike in the transport services
 
-had brought the life of the capital to a deadlock; the Government
+had brought the life of the capital to a deadlock; the [[government|Government]]
 
 was accused of being under the influence of a millionaire named
 
 Kramp, who controlled the lines involved; and the crisis was the
 
-more alarming because it was insisted (on the Government side) that
+more alarming because it was insisted (on the [[government|Government]] side) that
 
 the strike was secretly engineered by the famous terrorist,
 
@@ -222,7 +222,7 @@ various ways.  The first case was commonplace enough, it might
 
 seem; consisting merely of talking to a bookseller who was
 
-otherwise a fairly ordinary shopkeeper, but well acquainted with
+otherwise a fairly ordinary shopkeeper, but [[Well|well]] acquainted with
 
 early eighteenth-century scientific books; and the period was a
 

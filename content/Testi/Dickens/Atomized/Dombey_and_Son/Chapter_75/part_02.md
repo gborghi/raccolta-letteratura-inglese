@@ -18,19 +18,19 @@ They were at that very moment going out at the door in one of Walter’s
 trunks. A porter carrying off his baggage on a truck for shipment at
 the docks on board the Son and Heir, had got possession of them; and
 wheeled them away under the very eye of the insensible Midshipman
-before their owner had well finished speaking.
+before their owner had [[Well|well]] finished speaking.
 
-But that ancient mariner might have been excused his insensibility to
+But that [[Ancient Mariner|ancient mariner]] might have been excused his insensibility to
 the treasure as it rolled away. For, under his eye at the same moment,
 accurately within his range of observation, coming full into the sphere
 of his startled and intensely wide-awake look-out, were Florence and
-Susan Nipper: Florence looking up into his face half timidly, and
+[[Susan Nipper]]: Florence looking up into his face half timidly, and
 receiving the whole shock of his wooden ogling!
 
 More than this, they passed into the shop, and passed in at the parlour
 door before they were observed by anybody but the Midshipman. And
 Walter, having his back to the door, would have known nothing of their
-apparition even then, but for seeing his Uncle spring out of his own
+apparition even then, but for seeing his Uncle [[spring]] out of his own
 chair, and nearly tumble over another.
 
 [Illustration]
@@ -45,7 +45,7 @@ turn. “Here!”
 Why, It was so possible and so actual, that, while the words were on
 his lips, Florence hurried past him; took Uncle Sol’s snuff-coloured
 lapels, one in each hand; kissed him on the cheek; and turning, gave
-her hand to Walter with a simple truth and earnestness that was her
+her hand to Walter with a simple [[Truth|truth]] and earnestness that was her
 own, and no one else’s in the world!
 
 “Going away, Walter?” said Florence.
@@ -59,7 +59,7 @@ too.”
 
 “Goodness knows,” exclaimed Miss Nipper, “there’s a many we could spare
 instead, if numbers is a object, Mrs Pipchin as a overseer would come
-cheap at her weight in gold, and if a knowledge of black slavery should
+cheap at her weight in gold, and if a knowledge of black [[Slavery|slavery]] should
 be required, them Blimbers is the very people for the sitiwation.”
 
 With that Miss Nipper untied her bonnet strings, and after looking
@@ -93,15 +93,15 @@ Walter held it for some moments in his own, and could not bear to let
 it go.
 
 Yet Walter did not hold it as he might have held it once, nor did its
-touch awaken those old day-dreams of his boyhood that had floated past
+touch awaken those old day-[[Dreams|dreams]] of his boyhood that had floated past
 him sometimes even lately, and confused him with their indistinct and
-broken shapes. The purity and innocence of her endearing manner, and
+broken shapes. The purity and [[innocence]] of her endearing manner, and
 its perfect trustfulness, and the undisguised regard for him that lay
 so deeply seated in her constant eyes, and glowed upon her fair face
 through the smile that shaded—for alas! it was a smile too sad to
 brighten—it, were not of their romantic race. They brought back to his
-thoughts the early death-bed he had seen her tending, and the love the
-child had borne her; and on the wings of such remembrances she seemed
+thoughts the early [[Death|death]]-bed he had seen her tending, and the [[Love|love]] the
+[[Child|child]] had borne her; and on the wings of such remembrances she seemed
 to rise up, far above his idle fancies, into clearer and serener air.
 
 “I—I am afraid I must call you Walter’s Uncle, Sir,” said Florence to
@@ -111,38 +111,38 @@ the old man, “if you’ll let me.”
 
 “We always knew you by that name, and talked of you,” said Florence,
 glancing round, and sighing gently. “The nice old parlour! Just the
-same! How well I recollect it!”
+same! How [[Well|well]] I recollect it!”
 
 Old Sol looked first at her, then at his nephew, and then rubbed his
-hands, and rubbed his spectacles, and said below his breath, “Ah! time,
-time, time!”
+hands, and rubbed his spectacles, and said below his breath, “Ah! [[Time|time]],
+[[Time|time]], [[Time|time]]!”
 
-There was a short silence; during which Susan Nipper skilfully
+There was a short [[Silence|silence]]; during which [[Susan Nipper]] skilfully
 impounded two extra cups and saucers from the cupboard, and awaited the
 drawing of the tea with a thoughtful air.
 
 “I want to tell Walter’s Uncle,” said Florence, laying her hand timidly
 upon the old man’s as it rested on the table, to bespeak his attention,
-“something that I am anxious about. He is going to be left alone, and
+“something that I am anxious about. He is going to be left [[Alone|alone]], and
 if he will allow me—not to take Walter’s place, for that I couldn’t do,
 but to be his true friend and help him if I ever can while Walter is
 away, I shall be very much obliged to him indeed. Will you? May I,
 Walter’s Uncle?”
 
 The Instrument-maker, without speaking, put her hand to his lips, and
-Susan Nipper, leaning back with her arms crossed, in the chair of
+[[Susan Nipper]], leaning back with her arms crossed, in the chair of
 presidency into which she had voted herself, bit one end of her bonnet
 strings, and heaved a gentle sigh as she looked up at the skylight.
 
 “You will let me come to see you,” said Florence, “when I can; and you
 will tell me everything about yourself and Walter; and you will have no
-secrets from Susan when she comes and I do not, but will confide in us,
+[[Secrets|secrets]] from Susan when she comes and I do not, but will confide in us,
 and trust us, and rely upon us. And you’ll try to let us be a comfort
 to you? Will you, Walter’s Uncle?”
 
 The sweet face looking into his, the gentle pleading eyes, the soft
 voice, and the light touch on his arm made the more winning by a
-child’s respect and honour for his age, that gave to all an air of
-graceful doubt and modest hesitation—these, and her natural
+[[Child|child]]’s respect and [[Honour|honour]] for his age, that gave to all an air of
+graceful [[Doubt|doubt]] and modest hesitation—these, and her natural
 earnestness, so overcame the poor old Instrument-maker, that he only
 answered:

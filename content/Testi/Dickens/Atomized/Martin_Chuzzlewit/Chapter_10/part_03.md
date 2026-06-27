@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 10 (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 10 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -17,11 +17,11 @@ tags:
 Oh vividly! A thousand times!
 
 ‘We uttered no complaint,’ said Mr Pecksniff. ‘Occasionally we had the
-presumption to console ourselves with the remark that Truth would in
+presumption to console ourselves with the remark that [[Truth]] would in
 the end prevail, and Virtue be triumphant; but not often. My loves, you
 recollect?’
 
-Recollect! Could he doubt it! Dearest pa, what strange unnecessary
+Recollect! Could he [[Doubt|doubt]] it! Dearest pa, what strange unnecessary
 questions!
 
 ‘And when I saw you,’ resumed Mr Pecksniff, with still greater
@@ -30,13 +30,13 @@ of dwelling, I said you were mistaken in me, my dear sir; that was all,
 I think?’
 
 ‘No--not all,’ said Martin, who had been sitting with his hand upon his
-brow for some time past, and now looked up again; ‘you said much more,
+brow for some [[Time|time]] past, and now looked up again; ‘you said much more,
 which, added to other circumstances that have come to my knowledge,
 opened my eyes. You spoke to me, disinterestedly, on behalf of--I
 needn’t name him. You know whom I mean.’
 
 Trouble was expressed in Mr Pecksniff’s visage, as he pressed his hot
-hands together, and replied, with humility, ‘Quite disinterestedly, sir,
+hands together, and replied, with [[Humility|humility]], ‘Quite disinterestedly, sir,
 I assure you.’
 
 ‘I know it,’ said old Martin, in his quiet way. ‘I am sure of it. I said
@@ -50,7 +50,7 @@ place, I know what passed behind my back, you see!’
 ‘You amaze me, sir!’ cried Mr Pecksniff; which was true enough.
 
 ‘My knowledge of your proceedings,’ said the old man, does not stop at
-this. You have a new inmate in your house.’
+this. You have a new inmate in your [[house]].’
 
 ‘Yes, sir,’ rejoined the architect, ‘I have.’
 
@@ -61,14 +61,14 @@ this. You have a new inmate in your house.’
 ‘For any shelter he can find,’ the old man answered. ‘He has deceived
 you.’
 
-‘I hope not’ said Mr Pecksniff, eagerly. ‘I trust not. I have been
-extremely well disposed towards that young man. I hope it cannot be
+‘I [[Hope|hope]] not’ said Mr Pecksniff, eagerly. ‘I trust not. I have been
+extremely [[Well|well]] disposed towards that young man. I [[Hope|hope]] it cannot be
 shown that he has forfeited all claim to my protection. Deceit--deceit,
 my dear Mr Chuzzlewit, would be final. I should hold myself bound, on
 proof of deceit, to renounce him instantly.’
 
 The old man glanced at both his fair supporters, but especially at
-Miss Mercy, whom, indeed, he looked full in the face, with a greater
+Miss [[Mercy]], whom, indeed, he looked full in the face, with a greater
 demonstration of interest than had yet appeared in his features. His
 gaze again encountered Mr Pecksniff, as he said, composedly:
 
@@ -81,14 +81,14 @@ tremendous!’
 ‘You know the fact?’ repeated Martin
 
 ‘Surely not without his grandfather’s consent and approbation my dear
-sir!’ cried Mr Pecksniff. ‘Don’t tell me that. For the honour of human
-nature, say you’re not about to tell me that!’
+sir!’ cried Mr Pecksniff. ‘Don’t tell me that. For the [[Honour|honour]] of human
+[[Nature|nature]], say you’re not about to tell me that!’
 
 ‘I thought he had suppressed it,’ said the old man.
 
 The indignation felt by Mr Pecksniff at this terrible disclosure, was
 only to be equalled by the kindling anger of his daughters. What! Had
-they taken to their hearth and home a secretly contracted serpent; a
+they taken to their hearth and [[Home|home]] a secretly contracted serpent; a
 crocodile, who had made a furtive offer of his hand; an imposition on
 society; a bankrupt bachelor with no effects, trading with the spinster
 world on false pretences! And oh, to think that he should have disobeyed
@@ -98,7 +98,7 @@ nothing at all of mother--horrible, horrible! To turn him out with
 ignominy would be treatment much too good. Was there nothing else that
 could be done to him? Had he incurred no legal pains and penalties?
 Could it be that the statutes of the land were so remiss as to have
-affixed no punishment to such delinquency? Monster; how basely had they
+affixed no punishment to such delinquency? [[Monster]]; how basely had they
 been deceived!
 
 ‘I am glad to find you second me so warmly,’ said the old man holding up
@@ -107,29 +107,29 @@ is a pleasure to me to find you so full of zeal. We will consider that
 topic as disposed of.’
 
 ‘No, my dear sir,’ cried Mr Pecksniff, ‘not as disposed of, until I have
-purged my house of this pollution.’
+purged my [[house]] of this pollution.’
 
-‘That will follow,’ said the old man, ‘in its own time. I look upon that
+‘That will follow,’ said the old man, ‘in its own [[Time|time]]. I look upon that
 as done.’
 
 ‘You are very good, sir,’ answered Mr Pecksniff, shaking his hand. ‘You
-do me honour. You MAY look upon it as done, I assure you.’
+do me [[Honour|honour]]. You MAY look upon it as done, I assure you.’
 
-‘There is another topic,’ said Martin, ‘on which I hope you will assist
+‘There is another topic,’ said Martin, ‘on which I [[Hope|hope]] you will assist
 me. You remember Mary, cousin?’
 
 ‘The young lady that I mentioned to you, my dears, as having interested
 me so very much,’ remarked Mr Pecksniff. ‘Excuse my interrupting you,
 sir.’
 
-‘I told you her history?’ said the old man.
+‘I told you her [[history]]?’ said the old man.
 
 ‘Which I also mentioned, you will recollect, my dears,’ cried Mr
 Pecksniff. ‘Silly girls, Mr Chuzzlewit--quite moved by it, they were!’
 
 ‘Why, look now!’ said Martin, evidently pleased; ‘I feared I should have
 had to urge her case upon you, and ask you to regard her favourably for
-my sake. But I find you have no jealousies! Well! You have no cause
+my sake. But I find you have no jealousies! [[Well]]! You have no cause
 for any, to be sure. She has nothing to gain from me, my dears, and she
 knows it.’
 
@@ -141,15 +141,15 @@ said the old man thoughfully; ‘but it is too late to think of that. You
 would receive her courteously, young ladies, and be kind to her, if need
 were?’
 
-Where was the orphan whom the two Miss Pecksniffs would not have
-cherished in their sisterly bosom! But when that orphan was commended to
-their care by one on whom the dammed-up love of years was gushing forth,
+Where was the [[Orphan|orphan]] whom the two Miss Pecksniffs would not have
+cherished in their sisterly bosom! But when that [[Orphan|orphan]] was commended to
+their care by one on whom the dammed-up [[Love|love]] of years was gushing forth,
 what exhaustless stores of pure affection yearned to expend themselves
 upon her!
 
 An interval ensued, during which Mr Chuzzlewit, in an absent frame of
 mind, sat gazing at the ground, without uttering a word; and as it was
-plain that he had no desire to be interrupted in his meditations, Mr
+plain that he had no [[Desire|desire]] to be interrupted in his meditations, Mr
 Pecksniff and his daughters were profoundly silent also. During the
 whole of the foregoing dialogue, he had borne his part with a cold,
 passionless promptitude, as though he had learned and painfully

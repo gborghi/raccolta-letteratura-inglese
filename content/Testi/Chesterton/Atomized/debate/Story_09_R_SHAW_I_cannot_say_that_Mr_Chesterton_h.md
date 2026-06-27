@@ -1,5 +1,5 @@
 ---
-title: "debate — R. SHAW:  I cannot say that Mr. Chesterton has succeeded in forcing"
+title: "[[debate]] — R. [[Shaw|SHAW]]:  I cannot say that Mr. Chesterton has succeeded in forcing"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/debate-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-MR. SHAW:  I cannot say that Mr. Chesterton has succeeded in forcing
+MR. [[Shaw|SHAW]]:  I cannot say that Mr. Chesterton has succeeded in forcing
 a difference of opinion on me.  There are, I suppose, at least some
 people in this room who have heard me orating on this platform at
 lectures of the Fabian Society, and they must have been considerably
@@ -47,7 +47,7 @@ this meeting.  What was the very first thing the League said must
 be done?  It said the coal-mines must be nationalized.  Instead of saying
 that the miner's means of production must he made his own property,
 it was forced to advocate making national property of the coal mines.
-These coal-mines, when nationalized, will not be managed by the House
+These coal-mines, when nationalized, will not be managed by the [[house|House]]
 of Commons:  if they were you would very soon have no coal.
 But neither will they be managed by the miners.  If you ask the man
 working in the mine to manage the mine he will say, "Not me, governor!
@@ -60,7 +60,7 @@ talking as though the means of production were machines.
 I submit to you that the real means of production in this
 country are men and women, and that consequently you always
 have the maximum control of the individual over the means
-of production, because it means self-control over his own person.
+of production, because it means [[Self|self]]-control over his own person.
 But he must surrender that control to the manager of the mine
 because he does not know how to manage it himself.
 Under the present capitalistic system he has to surrender it
@@ -81,7 +81,7 @@ to the nationalization of everything else.
 I have to allow for the pressure of facts because, as a playwright,
 I think of all problems in terms of actual men and women.
 Mr. Chesterton lets himself idealize them sometimes as virtuous
-peasant proprietors and self-managing petty capitalists.
+peasant proprietors and [[Self|self]]-managing petty capitalists.
 
 The capitalist and the landlord have their own particular ways
 of robbing the poor; but their legal rights are quite different.
@@ -89,15 +89,15 @@ It is a very direct way on the part of the landlord.
 He may do exactly what he likes with the land he owns.
 If I own a large part of Scotland I can turn the people
 off the land practically into the sea, or across the sea.
-I can take women in child-bearing and throw them into
-the snow and leave them there.  That has been done.
+I can take women in [[Child|child]]-bearing and throw them into
+the [[Snow|snow]] and leave them there.  That has been done.
 I can do it for no better reason than I think it is better
 to shoot deer on the land than allow people to live on it.
 They might frighten the deer.
 
 But now compare that with the ownership of my umbrella.  As a matter
-of fact the umbrella I have to-night belongs to my wife; but I think
-she will permit me to call it mine for the purpose of the debate.
+of fact the umbrella I have to-[[Night|night]] belongs to my wife; but I think
+she will permit me to call it mine for the purpose of the [[debate]].
 Now I have a very limited legal right to the use of that umbrella.
 I cannot do as I like with it.  For instance, certain passages
 in Mr. Chesterton's speech tempted me to get up and smite him over
@@ -135,10 +135,10 @@ as a malefactor, than in treating a murderer as a malefactor?
 Having said that much about the property part of the business,
 1 think I have succeeded in establishing that Mr. Chesterton does
 not disagree with me.  I should like to say I do not believe
-in Democracy.  I do believe in Catholicism; but I hold that the
+in [[Democracy]].  I do believe in Catholicism; but I hold that the
 Irish Episcopal Protestant Church, of which I was baptized a member,
 takes the name of Catholicism in vain; that the Roman Church has
 also taken it in vain; and so with the Greek Church and the rest.
 My Catholicism is really catholic Catholicism:  that is what I
-believe in, as apart from this voting business and democracy.
+believe in, as apart from this voting business and [[Democracy|democracy]].
 Does Mr. Chesterton agree with me on that?

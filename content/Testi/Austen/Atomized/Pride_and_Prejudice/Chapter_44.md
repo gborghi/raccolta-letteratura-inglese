@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 44"
+title: "[[Pride and Prejudice]] — Chapter 44"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -26,10 +26,10 @@ But her conclusion was false; for on the very morning after their own
 arrival at Lambton these visitors came. They had been walking about the
 place with some of their new friends, and were just returned to the inn
 to dress themselves for dining with the same family, when the sound of a
-carriage drew them to a window, and they saw a gentleman and lady in a
+carriage drew them to a [[Window|window]], and they saw a gentleman and lady in a
 curricle driving up the street. Elizabeth, immediately recognizing the
 livery, guessed what it meant, and imparted no small degree of surprise
-to her relations, by acquainting them with the honour which she
+to her relations, by acquainting them with the [[Honour|honour]] which she
 expected. Her uncle and aunt were all amazement; and the embarrassment
 of her manner as she spoke, joined to the circumstance itself, and many
 of the circumstances of the preceding day, opened to them a new idea on
@@ -43,7 +43,7 @@ dreaded lest the partiality of the brother should have said too much in
 her favour; and, more than commonly anxious to please, she naturally
 suspected that every power of pleasing would fail her.
 
-She retreated from the window, fearful of being seen; and as she walked
+She retreated from the [[Window|window]], fearful of being seen; and as she walked
 up and down the room, endeavouring to compose herself, saw such looks of
 inquiring surprise in her uncle and aunt as made everything worse.
 
@@ -58,13 +58,13 @@ her beyond a monosyllable.
 Miss Darcy was tall, and on a larger scale than Elizabeth; and, though
 little more than sixteen, her figure was formed, and her appearance
 womanly and graceful. She was less handsome than her brother, but there
-was sense and good-humour in her face, and her manners were perfectly
+was sense and good-[[Humour|humour]] in her face, and her manners were perfectly
 unassuming and gentle. Elizabeth, who had expected to find in her as
 acute and unembarrassed an observer as ever Mr. Darcy had been, was much
 relieved by discerning such different feelings.
 
 They had not been long together before Darcy told her that Bingley was
-also coming to wait on her; and she had barely time to express her
+also coming to wait on her; and she had barely [[Time|time]] to express her
 satisfaction, and prepare for such a visitor, when Bingley’s quick step
 was heard on the stairs, and in a moment he entered the room. All
 Elizabeth’s anger against him had been long done away; but had she still
@@ -79,14 +79,14 @@ them, indeed, excited a lively attention. The suspicions which had just
 arisen of Mr. Darcy and their niece, directed their observation towards
 each with an earnest, though guarded, inquiry; and they soon drew from
 those inquiries the full conviction that one of them at least knew what
-it was to love. Of the lady’s sensations they remained a little in
-doubt; but that the gentleman was overflowing with admiration was
+it was to [[Love|love]]. Of the lady’s sensations they remained a little in
+[[Doubt|doubt]]; but that the gentleman was overflowing with admiration was
 evident enough.
 
 Elizabeth, on her side, had much to do. She wanted to ascertain the
 feelings of each of her visitors, she wanted to compose her own, and to
 make herself agreeable to all; and in the latter object, where she
-feared most to fail, she was most sure of success, for those to whom
+feared most to fail, she was most sure of [[success]], for those to whom
 she endeavoured to give pleasure were pre-possessed in her favour.
 Bingley was ready, Georgiana was eager, and Darcy determined, to be
 pleased.
@@ -112,11 +112,11 @@ a recollection of Jane, not untinctured by tenderness, and a wish of
 saying more that might lead to the mention of her, had he dared. He
 observed to her, at a moment when the others were talking together, and
 in a tone which had something of real regret, that it “was a very long
-time since he had had the pleasure of seeing her;” and, before she could
+[[Time|time]] since he had had the pleasure of seeing her;” and, before she could
 reply, he added, “It is above eight months. We have not met since the
 26th of November, when we were all dancing together at Netherfield.”
 
-Elizabeth was pleased to find his memory so exact; and he afterwards
+Elizabeth was pleased to find his [[Memory|memory]] so exact; and he afterwards
 took occasion to ask her, when unattended to by any of the rest, whether
 _all_ her sisters were at Longbourn. There was not much in the question,
 nor in the preceding remark; but there was a look and a manner which
@@ -137,8 +137,8 @@ change was so great, and struck so forcibly on her mind, that she could
 hardly restrain her astonishment from being visible. Never, even in the
 company of his dear friends at Netherfield, or his dignified relations
 at Rosings, had she seen him so desirous to please, so free from
-self-consequence or unbending reserve, as now, when no importance could
-result from the success of his endeavours, and when even the
+[[Self|self]]-consequence or unbending reserve, as now, when no importance could
+result from the [[success]] of his endeavours, and when even the
 acquaintance of those to whom his attentions were addressed, would draw
 down the ridicule and censure of the ladies both of Netherfield and
 Rosings.
@@ -160,20 +160,20 @@ Bingley expressed great pleasure in the certainty of seeing Elizabeth
 again, having still a great deal to say to her, and many inquiries to
 make after all their Hertfordshire friends. Elizabeth, construing all
 this into a wish of hearing her speak of her sister, was pleased; and
-on this account, as well as some others, found herself, when their
+on this account, as [[Well|well]] as some others, found herself, when their
 visitors left them, capable of considering the last half hour with some
 satisfaction, though while it was passing the enjoyment of it had been
-little. Eager to be alone, and fearful of inquiries or hints from her
+little. Eager to be [[Alone|alone]], and fearful of inquiries or hints from her
 uncle and aunt, she stayed with them only long enough to hear their
 favourable opinion of Bingley, and then hurried away to dress.
 
-But she had no reason to fear Mr. and Mrs. Gardiner’s curiosity; it was
+But she had no reason to [[Fear|fear]] Mr. and Mrs. Gardiner’s curiosity; it was
 not their wish to force her communication. It was evident that she was
 much better acquainted with Mr. Darcy than they had before any idea of;
-it was evident that he was very much in love with her. They saw much to
+it was evident that he was very much in [[Love|love]] with her. They saw much to
 interest, but nothing to justify inquiry.
 
-Of Mr. Darcy it was now a matter of anxiety to think well; and, as far
+Of Mr. Darcy it was now a matter of anxiety to think [[Well|well]]; and, as far
 as their acquaintance reached, there was no fault to find. They could
 not be untouched by his politeness; and had they drawn his character
 from their own feelings and his servant’s report, without any reference
@@ -184,14 +184,14 @@ that the authority of a servant, who had known him since he was four
 years old, and whose own manners indicated respectability, was not to be
 hastily rejected. Neither had anything occurred in the intelligence of
 their Lambton friends that could materially lessen its weight. They had
-nothing to accuse him of but pride; pride he probably had, and if not,
+nothing to accuse him of but [[Pride|pride]]; [[Pride|pride]] he probably had, and if not,
 it would certainly be imputed by the inhabitants of a small market town
 where the family did not visit. It was acknowledged, however, that he
 was a liberal man, and did much good among the poor.
 
 With respect to Wickham, the travellers soon found that he was not held
 there in much estimation; for though the chief of his concerns with the
-son of his patron were imperfectly understood, it was yet a well-known
+son of his patron were imperfectly understood, it was yet a [[Well|well]]-known
 fact that, on his quitting Derbyshire, he had left many debts behind
 him, which Mr. Darcy afterwards discharged.
 
@@ -203,13 +203,13 @@ certainly did not hate him. No; hatred had vanished long ago, and she
 had almost as long been ashamed of ever feeling a dislike against him,
 that could be so called. The respect created by the conviction of his
 valuable qualities, though at first unwillingly admitted, had for some
-time ceased to be repugnant to her feelings; and it was now heightened
-into somewhat of a friendlier nature by the testimony so highly in his
+[[Time|time]] ceased to be repugnant to her feelings; and it was now heightened
+into somewhat of a friendlier [[Nature|nature]] by the testimony so highly in his
 favour, and bringing forward his disposition in so amiable a light,
 which yesterday had produced. But above all, above respect and esteem,
 there was a motive within her of good-will which could not be
 overlooked. It was gratitude;--gratitude, not merely for having once
-loved her, but for loving her still well enough to forgive all the
+loved her, but for loving her still [[Well|well]] enough to forgive all the
 petulance and acrimony of her manner in rejecting him, and all the
 unjust accusations accompanying her rejection. He who, she had been
 persuaded, would avoid her as his greatest enemy, seemed, on this
@@ -217,8 +217,8 @@ accidental meeting, most eager to preserve the acquaintance; and
 without any indelicate display of regard, or any peculiarity of manner,
 where their two selves only were concerned, was soliciting the good
 opinion of her friends, and bent on making her known to his sister. Such
-a change in a man of so much pride excited not only astonishment but
-gratitude--for to love, ardent love, it must be attributed; and, as
+a change in a man of so much [[Pride|pride]] excited not only astonishment but
+gratitude--for to [[Love|love]], ardent [[Love|love]], it must be attributed; and, as
 such, its impression on her was of a sort to be encouraged, as by no
 means unpleasing, though it could not be exactly defined. She respected,
 she esteemed, she was grateful to him, she felt a real interest in his
@@ -238,12 +238,12 @@ she asked herself the reason, she had very little to say in reply.
 
 Mr. Gardiner left them soon after breakfast. The fishing scheme had been
 renewed the day before, and a positive engagement made of his meeting
-some of the gentlemen at Pemberley by noon.
+some of the gentlemen at Pemberley by [[Noon|noon]].
 
 
 
 
 [Illustration:
 
-     “Engaged by the river”
+     “Engaged by the [[River|river]]”
 ]

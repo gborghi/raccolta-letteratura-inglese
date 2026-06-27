@@ -39,9 +39,9 @@ is one of the easiest achievements in life to offend your family when
 your family want to get rid of you. Fledgeby’s mother’s family had
 been very much offended with her for being poor, and broke with her
 for becoming comparatively rich. Fledgeby’s mother’s family was the
-Snigsworth family. She had even the high honour to be cousin to Lord
+Snigsworth family. She had even the high [[Honour|honour]] to be cousin to Lord
 Snigsworth—so many times removed that the noble Earl would have had no
-compunction in removing her one time more and dropping her clean outside
+compunction in removing her one [[Time|time]] more and dropping her clean outside
 the cousinly pale; but cousin for all that.
 
 Among her pre-matrimonial transactions with Fledgeby’s father,
@@ -53,12 +53,12 @@ say objective interchanges of boot-jacks, backgammon boards, and other
 such domestic missiles, between Fledgeby’s father and Fledgeby’s mother,
 and those led to Fledgeby’s mother spending as much money as she
 could, and to Fledgeby’s father doing all he couldn’t to restrain her.
-Fledgeby’s childhood had been, in consequence, a stormy one; but the
-winds and the waves had gone down in the grave, and Fledgeby flourished
-alone.
+Fledgeby’s [[Childhood|childhood]] had been, in consequence, a stormy one; but the
+winds and the waves had gone down in the [[Grave|grave]], and Fledgeby flourished
+[[Alone|alone]].
 
 He lived in chambers in the Albany, did Fledgeby, and maintained a
-spruce appearance. But his youthful fire was all composed of sparks from
+spruce appearance. But his youthful [[Fire|fire]] was all composed of sparks from
 the grindstone; and as the sparks flew off, went out, and never warmed
 anything, be sure that Fledgeby had his tools at the grindstone, and
 turned it with a wary eye.
@@ -98,7 +98,7 @@ the same thing. Now, Lammle, I am never going to answer questions.’
 ‘Never mind. It seemed so, but things are not always what they seem. I
 saw a man examined as a witness in Westminster Hall. Questions put to
 him seemed the simplest in the world, but turned out to be anything
-rather than that, after he had answered ’em. Very well. Then he should
+rather than that, after he had answered ’em. Very [[Well|well]]. Then he should
 have held his tongue. If he had held his tongue he would have kept out
 of scrapes that he got into.’
 
@@ -131,23 +131,23 @@ Fledgeby, should I have proposed our little compact of advantage, to my
 Fledgeby?’
 
 ‘Ah!’ remarked Fascination, shaking his head slyly. ‘But I am not to
-be got at in that way. I am not vain. That sort of vanity don’t pay,
+be got at in that way. I am not vain. That sort of [[Vanity|vanity]] don’t pay,
 Lammle. No, no, no. Compliments only make me hold my tongue the more.’
 
 Alfred Lammle pushed his plate away (no great sacrifice under the
 circumstances of there being so little in it), thrust his hands in his
-pockets, leaned back in his chair, and contemplated Fledgeby in silence.
+pockets, leaned back in his chair, and contemplated Fledgeby in [[Silence|silence]].
 Then he slowly released his left hand from its pocket, and made that
-bush of his whiskers, still contemplating him in silence. Then he slowly
-broke silence, and slowly said: ‘What—the—Dev-il is this fellow about
+bush of his whiskers, still contemplating him in [[Silence|silence]]. Then he slowly
+broke [[Silence|silence]], and slowly said: ‘What—the—Dev-il is this fellow about
 this morning?’
 
 ‘Now, look here, Lammle,’ said Fascination Fledgeby, with the meanest
 of twinkles in his meanest of eyes: which were too near together, by
-the way: ‘look here, Lammle; I am very well aware that I didn’t show to
-advantage last night, and that you and your wife—who, I consider, is
+the way: ‘look here, Lammle; I am very [[Well|well]] aware that I didn’t show to
+advantage last [[Night|night]], and that you and your wife—who, I consider, is
 a very clever woman and an agreeable woman—did. I am not calculated to
-show to advantage under that sort of circumstances. I know very well you
+show to advantage under that sort of circumstances. I know very [[Well|well]] you
 two did show to advantage, and managed capitally. But don’t you on that
 account come talking to me as if I was your doll and puppet, because I
 am not.
@@ -160,7 +160,7 @@ upon it: ‘all this because of one simple natural question!’
 of myself. I don’t like your coming over me with your Georgianas, as if
 you was her proprietor and mine too.’
 
-‘Well, when you are in the gracious mind to say anything about it of
+‘[[Well]], when you are in the gracious mind to say anything about it of
 yourself,’ retorted Lammle, ‘pray do.’
 
 ‘I have done it. I have said you managed capitally. You and your wife
@@ -198,12 +198,12 @@ Whether this young gentleman (for he was but three-and-twenty) combined
 with the miserly vice of an old man, any of the open-handed vices of
 a young one, was a moot point; so very honourably did he keep his own
 counsel. He was sensible of the value of appearances as an investment,
-and liked to dress well; but he drove a bargain for every moveable about
+and liked to dress [[Well|well]]; but he drove a bargain for every moveable about
 him, from the coat on his back to the china on his breakfast-table;
 and every bargain by representing somebody’s ruin or somebody’s loss,
 acquired a peculiar charm for him. It was a part of his avarice to take,
 within narrow bounds, long odds at races; if he won, he drove harder
-bargains; if he lost, he half starved himself until next time. Why money
+bargains; if he lost, he half starved himself until next [[Time|time]]. Why money
 should be so precious to an Ass too dull and mean to exchange it for any
 other satisfaction, is strange; but there is no animal so sure to get
 laden with it, as the Ass who sees nothing written on the face of the
@@ -247,7 +247,7 @@ thought it must end in ina.’
 ‘Why, you play—if you can—the Concertina, you know,’ replied
 Fledgeby, meditating very slowly. ‘And you have—when you catch it—the
 Scarlatina. And you can come down from a balloon in a parach—no you
-can’t though. Well, say Georgeute—I mean Georgiana.’
+can’t though. [[Well]], say Georgeute—I mean Georgiana.’
 
 ‘You were going to remark of Georgiana—?’ Lammle moodily hinted, after
 waiting in vain.
@@ -264,12 +264,12 @@ this:—what I say, not what you say. I say having my late governor
 and my late mother in my eye—that Georgiana don’t seem to be of the
 pitching-in order.’
 
-The respected Mr Lammle was a bully, by nature and by usual practice.
+The respected Mr Lammle was a bully, by [[Nature|nature]] and by usual practice.
 Perceiving, as Fledgeby’s affronts cumulated, that conciliation by no
 means answered the purpose here, he now directed a scowling look
 into Fledgeby’s small eyes for the effect of the opposite treatment.
 Satisfied by what he saw there, he burst into a violent passion and
-struck his hand upon the table, making the china ring and dance.
+struck his hand upon the table, making the china ring and [[Dance|dance]].
 
 ‘You are a very offensive fellow, sir,’ cried Mr Lammle, rising. ‘You
 are a highly offensive scoundrel. What do you mean by this behaviour?’
@@ -310,7 +310,7 @@ which event can only be of my and my wife’s bringing about! This fellow,
 Fledgeby, presumes to be impertinent to me, Lammle. Give me your nose
 sir!’
 
-‘No! Stop! I beg your pardon,’ said Fledgeby, with humility.
+‘No! Stop! I beg your pardon,’ said Fledgeby, with [[Humility|humility]].
 
 ‘What do you say, sir?’ demanded Mr Lammle, seeming too furious to
 understand.
@@ -318,12 +318,12 @@ understand.
 ‘I beg your pardon,’ repeated Fledgeby.
 
 ‘Repeat your words louder, sir. The just indignation of a gentleman has
-sent the blood boiling to my head. I don’t hear you.’
+sent the [[Blood|blood]] boiling to my head. I don’t hear you.’
 
 ‘I say,’ repeated Fledgeby, with laborious explanatory politeness, ‘I
 beg your pardon.’
 
-Mr Lammle paused. ‘As a man of honour,’ said he, throwing himself into a
+Mr Lammle paused. ‘As a man of [[Honour|honour]],’ said he, throwing himself into a
 chair, ‘I am disarmed.’
 
 Mr Fledgeby also took a chair, though less demonstratively, and by
@@ -333,7 +333,7 @@ personal and delicate, not to say public, character; but he overcame
 his scruples by degrees, and modestly took that liberty under an implied
 protest.
 
-‘Lammle,’ he said sneakingly, when that was done, ‘I hope we are friends
+‘Lammle,’ he said sneakingly, when that was done, ‘I [[Hope|hope]] we are friends
 again?’
 
 ‘Mr Fledgeby,’ returned Lammle, ‘say no more.’
@@ -347,18 +347,18 @@ again?’
 They shook hands, and on Mr Lammle’s part, in particular, there ensued
 great geniality. For, he was quite as much of a dastard as the other,
 and had been in equal danger of falling into the second place for good,
-when he took heart just in time, to act upon the information conveyed to
+when he took heart just in [[Time|time]], to act upon the information conveyed to
 him by Fledgeby’s eye.
 
 The breakfast ended in a perfect understanding. Incessant machinations
-were to be kept at work by Mr and Mrs Lammle; love was to be made for
+were to be kept at work by Mr and Mrs Lammle; [[Love|love]] was to be made for
 Fledgeby, and conquest was to be insured to him; he on his part
 very humbly admitting his defects as to the softer social arts, and
 entreating to be backed to the utmost by his two able coadjutors.
 
 Little recked Mr Podsnap of the traps and toils besetting his Young
 Person. He regarded her as safe within the Temple of Podsnappery, hiding
-the fulness of time when she, Georgiana, should take him, Fitz-Podsnap,
+the fulness of [[Time|time]] when she, Georgiana, should take him, Fitz-Podsnap,
 who with all his worldly goods should her endow. It would call a blush
 into the cheek of his standard Young Person to have anything to do with
 such matters save to take as directed, and with worldly goods as per
@@ -367,22 +367,22 @@ man? I, Podsnap. Perish the daring thought that any smaller creation
 should come between!
 
 It was a public holiday, and Fledgeby did not recover his spirits or his
-usual temperature of nose until the afternoon. Walking into the City in
+usual temperature of nose until the afternoon. Walking into the [[City]] in
 the holiday afternoon, he walked against a living stream setting out of
 it; and thus, when he turned into the precincts of St Mary Axe, he found
 a prevalent repose and quiet there. A yellow overhanging plaster-fronted
-house at which he stopped was quiet too. The blinds were all drawn down,
-and the inscription Pubsey and Co. seemed to doze in the counting-house
-window on the ground-floor giving on the sleepy street.
+[[house]] at which he stopped was quiet too. The blinds were all drawn down,
+and the [[Inscription|inscription]] Pubsey and Co. seemed to doze in the counting-[[house]]
+[[Window|window]] on the ground-floor giving on the sleepy street.
 
 Fledgeby knocked and rang, and Fledgeby rang and knocked, but no
 one came. Fledgeby crossed the narrow street and looked up at the
-house-windows, but nobody looked down at Fledgeby. He got out of temper,
+[[house]]-windows, but nobody looked down at Fledgeby. He got out of temper,
 crossed the narrow street again, and pulled the housebell as if it were
-the house’s nose, and he were taking a hint from his late experience.
+the [[house]]’s nose, and he were taking a hint from his late experience.
 His ear at the keyhole seemed then, at last, to give him assurance that
 something stirred within. His eye at the keyhole seemed to confirm his
-ear, for he angrily pulled the house’s nose again, and pulled and pulled
+ear, for he angrily pulled the [[house]]’s nose again, and pulled and pulled
 and continued to pull, until a human nose appeared in the dark doorway.
 
 ‘Now you sir!’ cried Fledgeby. ‘These are nice games!’
@@ -405,10 +405,10 @@ with holidays? Shut the door.’
 With his former action the old man obeyed. In the entry hung his rusty
 large-brimmed low-crowned hat, as long out of date as his coat; in the
 corner near it stood his staff—no walking-stick but a veritable staff.
-Fledgeby turned into the counting-house, perched himself on a business
+Fledgeby turned into the counting-[[house]], perched himself on a business
 stool, and cocked his hat. There were light boxes on shelves in the
-counting-house, and strings of mock beads hanging up. There were samples
-of cheap clocks, and samples of cheap vases of flowers. Foreign toys,
+counting-[[house]], and strings of mock beads hanging up. There were samples
+of cheap clocks, and samples of cheap vases of [[Flowers|flowers]]. Foreign toys,
 all.
 
 Perched on the stool with his hat cocked on his head and one of his legs
@@ -426,27 +426,27 @@ scratching his head with the brim of his hat.
 
 ‘In the cellar, that you didn’t hear?’
 
-‘On the house-top.’
+‘On the [[house]]-top.’
 
-‘Upon my soul! That’s a way of doing business.’
+‘Upon my [[Soul|soul]]! That’s a way of doing business.’
 
-‘Sir,’ the old man represented with a grave and patient air, ‘there must
+‘Sir,’ the old man represented with a [[Grave|grave]] and patient air, ‘there must
 be two parties to the transaction of business, and the holiday has left
-me alone.’
+me [[Alone|alone]].’
 
 ‘Ah! Can’t be buyer and seller too. That’s what the Jews say; ain’t it?’
 
 ‘At least we say truly, if we say so,’ answered the old man with a
 smile.
 
-‘Your people need speak the truth sometimes, for they lie enough,’
+‘Your people need speak the [[Truth|truth]] sometimes, for they lie enough,’
 remarked Fascination Fledgeby.
 
 ‘Sir, there is,’ returned the old man with quiet emphasis, ‘too much
 untruth among all denominations of men.’
 
 Rather dashed, Fascination Fledgeby took another scratch at his
-intellectual head with his hat, to gain time for rallying.
+intellectual head with his hat, to gain [[Time|time]] for rallying.
 
 ‘For instance,’ he resumed, as though it were he who had spoken last,
 ‘who but you and I ever heard of a poor Jew?’
@@ -474,7 +474,7 @@ garment worn by the noble youth before him. It was humbly done, but
 picturesquely, and was not abasing to the doer.
 
 ‘You won’t say more, I see,’ said Fledgeby, looking at him as if he
-would like to try the effect of extracting a double-tooth or two, ‘and
+would like to try the effect of extracting a [[Double|double]]-tooth or two, ‘and
 so it’s of no use my putting it to you. But confess this, Riah; who
 believes you to be poor now?’
 
@@ -482,8 +482,8 @@ believes you to be poor now?’
 
 ‘There you’re right,’ assented Fledgeby.
 
-‘No one,’ repeated the old man with a grave slow wave of his head. ‘All
-scout it as a fable. Were I to say “This little fancy business is not
+‘No one,’ repeated the old man with a [[Grave|grave]] slow wave of his head. ‘All
+scout it as a [[Fable|fable]]. Were I to say “This little fancy business is not
 mine”;’ with a lithe sweep of his easily-turning hand around him,
 to comprehend the various objects on the shelves; ‘“it is the little
 business of a Christian young gentleman who places me, his servant, in
@@ -491,7 +491,7 @@ trust and charge here, and to whom I am accountable for every single
 bead,” they would laugh. When, in the larger money-business, I tell the
 borrowers—’
 
-‘I say, old chap!’ interposed Fledgeby, ‘I hope you mind what you DO
+‘I say, old chap!’ interposed Fledgeby, ‘I [[Hope|hope]] you mind what you DO
 tell ’em?’
 
 ‘Sir, I tell them no more than I am about to repeat. When I tell them,
@@ -523,7 +523,7 @@ an inch of his grey hair, an inch of his coat-skirt, an inch of his
 hat-brim, an inch of his walking-staff, would be to relinquish hundreds
 of pounds.
 
-‘Look here, Riah,’ said Fledgeby, mollified by these self-approving
+‘Look here, Riah,’ said Fledgeby, mollified by these [[Self|self]]-approving
 considerations. ‘I want to go a little more into buying-up queer bills.
 Look out in that direction.’
 
@@ -543,23 +543,23 @@ Monday morning.’
 
 Riah drew some folding tablets from his breast and noted it down.
 
-‘That’s all I wanted to say at the present time,’ continued Fledgeby in
+‘That’s all I wanted to say at the present [[Time|time]],’ continued Fledgeby in
 a grudging vein, as he got off the stool, ‘except that I wish you’d take
 the air where you can hear the bell, or the knocker, either one of the
-two or both. By-the-by how DO you take the air at the top of the house?
+two or both. By-the-by how DO you take the air at the top of the [[house]]?
 Do you stick your head out of a chimney-pot?’
 
-‘Sir, there are leads there, and I have made a little garden there.’
+‘Sir, there are leads there, and I have made a little [[Garden|garden]] there.’
 
 ‘To bury your money in, you old dodger?’
 
-‘A thumbnail’s space of garden would hold the treasure I bury, master,’
+‘A thumbnail’s space of [[Garden|garden]] would hold the treasure I bury, master,’
 said Riah. ‘Twelve shillings a week, even when they are an old man’s
 wages, bury themselves.’
 
 ‘I should like to know what you really are worth,’ returned Fledgeby,
 with whom his growing rich on that stipend and gratitude was a very
-convenient fiction. ‘But come! Let’s have a look at your garden on the
+convenient fiction. ‘But come! Let’s have a look at your [[Garden|garden]] on the
 tiles, before I go!’
 
 The old man took a step back, and hesitated.
@@ -575,7 +575,7 @@ whose premises these are?’
 his eyes on Riah’s beard as he felt for his own; ‘having company on my
 premises, you know!’
 
-‘Come up and see the guests, sir. I hope for your admission that they
+‘Come up and see the guests, sir. I [[Hope|hope]] for your admission that they
 can do no harm.’
 
 Passing him with a courteous reverence, specially unlike any action that
@@ -583,30 +583,30 @@ Mr Fledgeby could for his life have imparted to his own head and hands,
 the old man began to ascend the stairs. As he toiled on before, with his
 palm upon the stair-rail, and his long black skirt, a very gaberdine,
 overhanging each successive step, he might have been the leader in some
-pilgrimage of devotional ascent to a prophet’s tomb. Not troubled by any
-such weak imagining, Fascination Fledgeby merely speculated on the time
+pilgrimage of devotional ascent to a [[Prophet|prophet]]’s tomb. Not troubled by any
+such weak imagining, Fascination Fledgeby merely speculated on the [[Time|time]]
 of life at which his beard had begun, and thought once more what a good
 ’un he was for the part.
 
 Some final wooden steps conducted them, stooping under a low penthouse
-roof, to the house-top. Riah stood still, and, turning to his master,
+roof, to the [[house]]-top. Riah stood still, and, turning to his master,
 pointed out his guests.
 
-Lizzie Hexam and Jenny Wren. For whom, perhaps with some old instinct of
+[[Lizzie Hexam]] and [[Jenny Wren]]. For whom, perhaps with some old instinct of
 his race, the gentle Jew had spread a carpet. Seated on it, against
 no more romantic object than a blackened chimney-stack over which some
 bumble creeper had been trained, they both pored over one book; both
 with attentive faces; Jenny with the sharper; Lizzie with the more
 perplexed. Another little book or two were lying near, and a common
 basket of common fruit, and another basket full of strings of beads and
-tinsel scraps. A few boxes of humble flowers and evergreens completed
-the garden; and the encompassing wilderness of dowager old chimneys
+tinsel scraps. A few boxes of humble [[Flowers|flowers]] and evergreens completed
+the [[Garden|garden]]; and the encompassing wilderness of dowager old chimneys
 twirled their cowls and fluttered their smoke, rather as if they were
 bridling, and fanning themselves, and looking on in a state of airy
 surprise.
 
-Taking her eyes off the book, to test her memory of something in it,
-Lizzie was the first to see herself observed. As she rose, Miss Wren
+Taking her eyes off the book, to test her [[Memory|memory]] of something in it,
+Lizzie was the first to see herself observed. As she [[Rose|rose]], Miss Wren
 likewise became conscious, and said, irreverently addressing the great
 chief of the premises: ‘Whoever you are, I can’t get up, because my
 back’s bad and my legs are queer.’
@@ -637,7 +637,7 @@ evident purpose of drawing out the dressmaker, ‘through their coming
 here to buy of our damage and waste for Miss Jenny’s millinery. Our
 waste goes into the best of company, sir, on her rosy-cheeked little
 customers. They wear it in their hair, and on their ball-dresses, and
-even (so she tells me) are presented at Court with it.’
+even (so she tells me) are presented at [[Court]] with it.’
 
 ‘Ah!’ said Fledgeby, on whose intelligence this doll-fancy made rather
 strong demands; ‘she’s been buying that basketful to-day, I suppose?’
@@ -653,7 +653,7 @@ him. ‘How much for this now?’
 Riah confirmed her with two nods, as Fledgeby looked to him. A nod for
 each shilling.
 
-‘Well,’ said Fledgeby, poking into the contents of the basket with his
+‘[[Well]],’ said Fledgeby, poking into the contents of the basket with his
 forefinger, ‘the price is not so bad. You have got good measure, Miss
 What-is-it.’
 
@@ -678,11 +678,11 @@ don’t know what the rest of this place is to us; does he, Lizzie? It’s
 the quiet, and the air.’
 
 ‘The quiet!’ repeated Fledgeby, with a contemptuous turn of his head
-towards the City’s roar. ‘And the air!’ with a ‘Poof!’ at the smoke.
+towards the [[City]]’s roar. ‘And the air!’ with a ‘Poof!’ at the smoke.
 
 ‘Ah!’ said Jenny. ‘But it’s so high. And you see the clouds rushing
 on above the narrow streets, not minding them, and you see the golden
-arrows pointing at the mountains in the sky from which the wind comes,
+arrows pointing at the [[Mountains|mountains]] in the sky from which the [[Wind|wind]] comes,
 and you feel as if you were dead.’
 
 The little creature looked above her, holding up her slight transparent
@@ -700,16 +700,16 @@ Her eyes fell on the old man, who, with his hands folded, quietly looked
 on.
 
 ‘Why it was only just now,’ said the little creature, pointing at him,
-‘that I fancied I saw him come out of his grave! He toiled out at
+‘that I fancied I saw him come out of his [[Grave|grave]]! He toiled out at
 that low door so bent and worn, and then he took his breath and stood
-upright, and looked all round him at the sky, and the wind blew upon
+upright, and looked all round him at the sky, and the [[Wind|wind]] blew upon
 him, and his life down in the dark was over!—Till he was called back
 to life,’ she added, looking round at Fledgeby with that lower look of
 sharpness. ‘Why did you call him back?’
 
 ‘He was long enough coming, anyhow,’ grumbled Fledgeby.
 
-‘But you are not dead, you know,’ said Jenny Wren. ‘Get down to life!’
+‘But you are not dead, you know,’ said [[Jenny Wren]]. ‘Get down to life!’
 
 Mr Fledgeby seemed to think it rather a good suggestion, and with a nod
 turned round. As Riah followed to attend him down the stairs, the little
@@ -718,7 +718,7 @@ Come back, and be dead!’ And still as they went down they heard the
 little sweet voice, more and more faintly, half calling and half
 singing, ‘Come back and be dead, Come back and be dead!’
 
-When they got down into the entry, Fledgeby, pausing under the shadow of
+When they got down into the entry, Fledgeby, pausing under the [[Shadow|shadow]] of
 the broad old hat, and mechanically poising the staff, said to the old
 man:
 
@@ -726,7 +726,7 @@ man:
 
 ‘And as good as handsome,’ answered Riah.
 
-‘At all events,’ observed Fledgeby, with a dry whistle, ‘I hope she
+‘At all events,’ observed Fledgeby, with a dry whistle, ‘I [[Hope|hope]] she
 ain’t bad enough to put any chap up to the fastenings, and get the
 premises broken open. You look out. Keep your weather eye awake and
 don’t make any more acquaintances, however handsome. Of course you
@@ -743,7 +743,7 @@ to his lips: though so lightly that the wearer knew nothing of it.
 
 Thus, Fascination Fledgeby went his way, exulting in the artful
 cleverness with which he had turned his thumb down on a Jew, and the old
-man went his different way up-stairs. As he mounted, the call or song
+man went his different way up-stairs. As he mounted, the call or [[Song|song]]
 began to sound in his ears again, and, looking above, he saw the face
 of the little creature looking down out of a Glory of her long bright
 radiant hair, and musically repeating to him, like a vision:

@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 1"
+title: "[[Northanger Abbey]] — Chapter 1"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER 1
 
 
 
-No one who had ever seen Catherine Morland in her infancy would have
+No one who had ever seen [[Catherine Morland]] in her infancy would have
 
 supposed her born to be an heroine. Her situation in life, the
 
@@ -30,7 +30,7 @@ were all equally against her. Her father was a clergyman, without being
 
 neglected, or poor, and a very respectable man, though his name was
 
-Richard—and he had never been handsome. He had a considerable
+[[Richard]]—and he had never been handsome. He had a considerable
 
 independence besides two good livings—and he was not in the least
 
@@ -58,15 +58,15 @@ thin awkward figure, a sallow skin without colour, dark lank hair, and
 
 strong features—so much for her person; and not less unpropitious for
 
-heroism seemed her mind. She was fond of all boys’ plays, and greatly
+[[Heroism|heroism]] seemed her mind. She was fond of all boys’ plays, and greatly
 
 preferred cricket not merely to dolls, but to the more heroic
 
 enjoyments of infancy, nursing a dormouse, feeding a canary-bird, or
 
-watering a rose-bush. Indeed she had no taste for a garden; and if she
+watering a [[Rose|rose]]-bush. Indeed she had no taste for a [[Garden|garden]]; and if she
 
-gathered flowers at all, it was chiefly for the pleasure of mischief—at
+gathered [[Flowers|flowers]] at all, it was chiefly for the pleasure of mischief—at
 
 least so it was conjectured from her always preferring those which she
 
@@ -82,7 +82,7 @@ teaching her only to repeat the “Beggar’s Petition”; and after all, her
 
 next sister, Sally, could say it better than she did. Not that
 
-Catherine was always stupid—by no means; she learnt the fable of “The
+Catherine was always stupid—by no means; she learnt the [[Fable|fable]] of “The
 
 Hare and Many Friends” as quickly as any girl in England. Her mother
 
@@ -120,19 +120,19 @@ stubborn, scarcely ever quarrelsome, and very kind to the little ones,
 
 with few interruptions of tyranny; she was moreover noisy and wild,
 
-hated confinement and cleanliness, and loved nothing so well in the
+hated confinement and cleanliness, and loved nothing so [[Well|well]] in the
 
-world as rolling down the green slope at the back of the house.
+world as [[rolling]] down the green slope at the back of the [[house]].
 
 
 
-Such was Catherine Morland at ten. At fifteen, appearances were
+Such was [[Catherine Morland]] at ten. At fifteen, appearances were
 
-mending; she began to curl her hair and long for balls; her complexion
+[[mending]]; she began to curl her hair and long for balls; her complexion
 
 improved, her features were softened by plumpness and colour, her eyes
 
-gained more animation, and her figure more consequence. Her love of
+gained more animation, and her figure more consequence. Her [[Love|love]] of
 
 dirt gave way to an inclination for finery, and she grew clean as she
 
@@ -146,7 +146,7 @@ her ears now and then; and how welcome were the sounds! to look
 
 _almost_ pretty is an acquisition of higher delight to a girl who has
 
-been looking plain the first fifteen years of her life than a beauty
+been looking plain the first fifteen years of her life than a [[Beauty|beauty]]
 
 from her cradle can ever receive.
 
@@ -154,13 +154,13 @@ from her cradle can ever receive.
 
 Mrs. Morland was a very good woman, and wished to see her children
 
-everything they ought to be; but her time was so much occupied in
+everything they ought to be; but her [[Time|time]] was so much occupied in
 
 lying-in and teaching the little ones, that her elder daughters were
 
 inevitably left to shift for themselves; and it was not very wonderful
 
-that Catherine, who had by nature nothing heroic about her, should
+that Catherine, who had by [[Nature|nature]] nothing heroic about her, should
 
 prefer cricket, baseball, riding on horseback, and running about the
 
@@ -198,7 +198,7 @@ From Gray, that
 
 “Many a flower is born to blush unseen,
 
-“And waste its fragrance on the desert air.”
+“And waste its fragrance on the [[Desert|desert]] air.”
 
 
 
@@ -246,7 +246,7 @@ That
 
 
 
-And that a young woman in love always looks—
+And that a young woman in [[Love|love]] always looks—
 
 
 
@@ -260,7 +260,7 @@ And that a young woman in love always looks—
 
 So far her improvement was sufficient—and in many other points she came
 
-on exceedingly well; for though she could not write sonnets, she
+on exceedingly [[Well|well]]; for though she could not write sonnets, she
 
 brought herself to read them; and though there seemed no chance of her
 
@@ -270,13 +270,13 @@ her own composition, she could listen to other people’s performance
 
 with very little fatigue. Her greatest deficiency was in the pencil—she
 
-had no notion of drawing—not enough even to attempt a sketch of her
+had no notion of drawing—not enough even to attempt a [[Sketch|sketch]] of her
 
-lover’s profile, that she might be detected in the design. There she
+[[Lover|lover]]’s profile, that she might be detected in the design. There she
 
 fell miserably short of the true heroic height. At present she did not
 
-know her own poverty, for she had no lover to portray. She had reached
+know her own [[Poverty|poverty]], for she had no [[Lover|lover]] to portray. She had reached
 
 the age of seventeen, without having seen one amiable youth who could
 
@@ -304,7 +304,7 @@ But when a young lady is to be a heroine, the perverseness of forty
 
 surrounding families cannot prevent her. Something must and will happen
 
-to throw a hero in her way.
+to throw a [[Hero|hero]] in her way.
 
 
 

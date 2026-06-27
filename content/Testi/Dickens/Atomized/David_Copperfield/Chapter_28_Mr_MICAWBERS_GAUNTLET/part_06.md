@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 6)"
+title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,7 +19,7 @@ laughing, on the character of Mr. Micawber and the old relations between
 us, when I heard a quick step ascending the stairs. At first, I thought
 it was Traddles coming back for something Mrs. Micawber had left behind;
 but as the step approached, I knew it, and felt my heart beat high, and
-the blood rush to my face, for it was Steerforth’s.
+the [[Blood|blood]] rush to my face, for it was Steerforth’s.
 
 I was never unmindful of Agnes, and she never left that sanctuary in my
 thoughts--if I may call it so--where I had placed her from the first.
@@ -34,20 +34,20 @@ it.
 ‘Why, Daisy, old boy, dumb-foundered!’ laughed Steerforth, shaking
 my hand heartily, and throwing it gaily away. ‘Have I detected you in
 another feast, you Sybarite! These Doctors’ Commons fellows are the
-gayest men in town, I believe, and beat us sober Oxford people all to
+gayest men in town, I believe, and beat us sober [[Oxford]] people all to
 nothing!’ His bright glance went merrily round the room, as he took
 the seat on the sofa opposite to me, which Mrs. Micawber had recently
-vacated, and stirred the fire into a blaze.
+vacated, and stirred the [[Fire|fire]] into a blaze.
 
 ‘I was so surprised at first,’ said I, giving him welcome with all
 the cordiality I felt, ‘that I had hardly breath to greet you with,
 Steerforth.’
 
-‘Well, the sight of me is good for sore eyes, as the Scotch say,’
+‘[[Well]], the sight of me is good for sore eyes, as the Scotch say,’
 replied Steerforth, ‘and so is the sight of you, Daisy, in full bloom.
 How are you, my Bacchanal?’
 
-‘I am very well,’ said I; ‘and not at all Bacchanalian tonight, though I
+‘I am very [[Well|well]],’ said I; ‘and not at all Bacchanalian tonight, though I
 confess to another party of three.’
 
 ‘All of whom I met in the street, talking loud in your praise,’ returned
@@ -58,17 +58,17 @@ laughed heartily at my feeble portrait of that gentleman, and said he
 was a man to know, and he must know him. ‘But who do you suppose our
 other friend is?’ said I, in my turn.
 
-‘Heaven knows,’ said Steerforth. ‘Not a bore, I hope? I thought he
+‘Heaven knows,’ said Steerforth. ‘Not a bore, I [[Hope|hope]]? I thought he
 looked a little like one.’
 
 ‘Traddles!’ I replied, triumphantly.
 
 ‘Who’s he?’ asked Steerforth, in his careless way.
 
-‘Don’t you remember Traddles? Traddles in our room at Salem House?’
+‘Don’t you remember Traddles? Traddles in our room at Salem [[house|House]]?’
 
 ‘Oh! That fellow!’ said Steerforth, beating a lump of coal on the top
-of the fire, with the poker. ‘Is he as soft as ever? And where the deuce
+of the [[Fire|fire]], with the poker. ‘Is he as soft as ever? And where the deuce
 did you pick him up?’
 
 I extolled Traddles in reply, as highly as I could; for I felt that
@@ -81,19 +81,19 @@ beating on the lump of coal with the poker. I observed that he did the
 same thing while I was getting out the remains of the pigeon-pie, and so
 forth.
 
-‘Why, Daisy, here’s a supper for a king!’ he exclaimed, starting out of
-his silence with a burst, and taking his seat at the table. ‘I shall do
+‘Why, Daisy, here’s a supper for a [[King|king]]!’ he exclaimed, starting out of
+his [[Silence|silence]] with a burst, and taking his seat at the table. ‘I shall do
 it justice, for I have come from Yarmouth.’
 
-‘I thought you came from Oxford?’ I returned.
+‘I thought you came from [[Oxford]]?’ I returned.
 
 ‘Not I,’ said Steerforth. ‘I have been seafaring--better employed.’
 
 ‘Littimer was here today, to inquire for you,’ I remarked, ‘and I
-understood him that you were at Oxford; though, now I think of it, he
+understood him that you were at [[Oxford]]; though, now I think of it, he
 certainly did not say so.’
 
-‘Littimer is a greater fool than I thought him, to have been inquiring
+‘Littimer is a greater [[Fool|fool]] than I thought him, to have been inquiring
 for me at all,’ said Steerforth, jovially pouring out a glass of wine,
 and drinking to me. ‘As to understanding him, you are a cleverer fellow
 than most of us, Daisy, if you can do that.’
@@ -104,7 +104,7 @@ have been at Yarmouth, Steerforth!’ interested to know all about it.
 
 ‘No,’ he returned. ‘An escapade of a week or so.’
 
-‘And how are they all? Of course, little Emily is not married yet?’
+‘And how are they all? Of course, [[Little Emily|little Emily]] is not married yet?’
 
 ‘Not yet. Going to be, I believe--in so many weeks, or months, or
 something or other. I have not seen much of ‘em. By the by’; he laid
@@ -113,7 +113,7 @@ and began feeling in his pockets; ‘I have a letter for you.’
 
 ‘From whom?’
 
-‘Why, from your old nurse,’ he returned, taking some papers out of his
+‘Why, from your old [[Nurse|nurse]],’ he returned, taking some papers out of his
 breast pocket. “‘J. Steerforth, Esquire, debtor, to The Willing
 Mind”; that’s not it. Patience, and we’ll find it presently. Old
 what’s-his-name’s in a bad way, and it’s about that, I believe.’
@@ -124,7 +124,7 @@ what’s-his-name’s in a bad way, and it’s about that, I believe.’
 ‘it’s all over with poor Barkis, I am afraid. I saw a little apothecary
 there--surgeon, or whatever he is--who brought your worship into the
 world. He was mighty learned about the case, to me; but the upshot of
-his opinion was, that the carrier was making his last journey rather
+his opinion was, that the carrier was making his last [[Journey|journey]] rather
 fast.---Put your hand into the breast pocket of my great-coat on the
 chair yonder, and I think you’ll find the letter. Is it there?’
 

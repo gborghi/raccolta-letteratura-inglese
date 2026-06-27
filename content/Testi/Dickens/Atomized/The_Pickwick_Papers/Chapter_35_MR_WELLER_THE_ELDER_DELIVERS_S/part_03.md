@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Yes,’ replied his father, ‘I’ve been here before, in my time. Go on,
+‘Yes,’ replied his father, ‘I’ve been here before, in my [[Time|time]]. Go on,
 Sammy.’
 
 ‘“Lovely creetur,”’ repeated Sam.
@@ -80,11 +80,11 @@ Sammy?’
 
 ‘Ah! what, indeed?’ replied Sam.
 
-‘You might jist as well call her a griffin, or a unicorn, or a king’s
-arms at once, which is wery well known to be a collection o’ fabulous
-animals,’ added Mr. Weller.
+‘You might jist as [[Well|well]] call her a griffin, or a unicorn, or a [[King|king]]’s
+arms at once, which is wery [[Well|well]] known to be a collection o’ fabulous
+[[Animals|animals]],’ added Mr. Weller.
 
-‘Just as well,’ replied Sam.
+‘Just as [[Well|well]],’ replied Sam.
 
 ‘Drive on, Sammy,’ said Mr. Weller.
 
@@ -104,9 +104,9 @@ that rayther strong,’ said Sam, looking up.
 Mr. Weller nodded approvingly, and Sam resumed.
 
 ‘“So I take the privilidge of the day, Mary, my dear--as the gen’l’m’n
-in difficulties did, ven he valked out of a Sunday--to tell you that the
-first and only time I see you, your likeness was took on my hart in much
-quicker time and brighter colours than ever a likeness was took by the
+in difficulties did, ven he valked out of a [[Sunday]]--to tell you that the
+first and only [[Time|time]] I see you, your likeness was took on my hart in much
+quicker [[Time|time]] and brighter colours than ever a likeness was took by the
 profeel macheen (wich p’raps you may have heerd on Mary my dear) altho
 it _does _finish a portrait and put the frame and glass on complete,
 with a hook at the end to hang it up by, and all in two minutes and a
@@ -126,7 +126,7 @@ said.--My dear Mary I will now conclude.” That’s all,’ said Sam.
 ‘Not a bit on it,’ said Sam; ‘she’ll vish there wos more, and that’s the
 great art o’ letter-writin’.’
 
-‘Well,’ said Mr. Weller, ‘there’s somethin’ in that; and I wish your
+‘[[Well]],’ said Mr. Weller, ‘there’s somethin’ in that; and I wish your
 mother-in-law ‘ud only conduct her conwersation on the same gen-teel
 principle. Ain’t you a-goin’ to sign it?’
 
@@ -136,7 +136,7 @@ principle. Ain’t you a-goin’ to sign it?’
 
 ‘Won’t do,’ said Sam. ‘Never sign a walentine with your own name.’
 
-‘Sign it “Pickwick,” then,’ said Mr. Weller; ‘it’s a wery good name, and
+‘Sign it “[[Pickwick]],” then,’ said Mr. Weller; ‘it’s a wery good name, and
 a easy one to spell.’
 
 The wery thing,’ said Sam. ‘I _could _end with a werse; what do you
@@ -144,14 +144,14 @@ think?’
 
 ‘I don’t like it, Sam,’ rejoined Mr. Weller. ‘I never know’d a
 respectable coachman as wrote poetry, ‘cept one, as made an affectin’
-copy o’ werses the night afore he was hung for a highway robbery; and he
+copy o’ werses the [[Night|night]] afore he was hung for a highway robbery; and he
 wos only a Cambervell man, so even that’s no rule.’
 
 But Sam was not to be dissuaded from the poetical idea that had occurred
 to him, so he signed the letter--
 
 
-‘Your love-sick Pickwick.’
+‘Your [[Love|love]]-sick [[Pickwick]].’
 
 And having folded it, in a very intricate manner, squeezed a downhill
 direction in one corner: ‘To Mary, Housemaid, at Mr. Nupkins’s, Mayor’s,
@@ -167,7 +167,7 @@ son.
 
 ‘Vell,’ said Mr. Weller, ‘Now I s’pose he’ll want to call some witnesses
 to speak to his character, or p’rhaps to prove a alleybi. I’ve been a-
-turnin’ the bis’ness over in my mind, and he may make his-self easy,
+turnin’ the bis’ness over in my mind, and he may make his-[[Self|self]] easy,
 Sammy. I’ve got some friends as’ll do either for him, but my adwice ‘ud
 be this here--never mind the character, and stick to the alleybi.
 Nothing like a alleybi, Sammy, nothing.’ Mr. Weller looked very profound

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 5: I AM SENT AWAY FROM HOME (part 2)"
+title: "[[David Copperfield]] — Chapter 5: I AM SENT AWAY FROM [[Home|HOME]] (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -16,11 +16,11 @@ tags:
 
 The coach was in the yard, shining very much all over, but without any
 horses to it as yet; and it looked in that state as if nothing was
-more unlikely than its ever going to London. I was thinking this, and
+more unlikely than its ever going to [[London]]. I was thinking this, and
 wondering what would ultimately become of my box, which Mr. Barkis had
 put down on the yard-pavement by the pole (he having driven up the yard
 to turn his cart), and also what would ultimately become of me, when a
-lady looked out of a bow-window where some fowls and joints of meat were
+lady looked out of a bow-[[Window|window]] where some fowls and joints of meat were
 hanging up, and said:
 
 ‘Is that the little gentleman from Blunderstone?’
@@ -44,7 +44,7 @@ out, ‘William! show the coffee-room!’ upon which a waiter came running
 out of a kitchen on the opposite side of the yard to show it, and seemed
 a good deal surprised when he was only to show it to me.
 
-It was a large long room with some large maps in it. I doubt if I could
+It was a large long room with some large maps in it. I [[Doubt|doubt]] if I could
 have felt much stranger if the maps had been real foreign countries, and
 I cast away in the middle of them. I felt it was taking a liberty to
 sit down, with my cap in my hand, on the corner of the chair nearest the
@@ -60,7 +60,7 @@ I thanked him, and took my seat at the board; but found it extremely
 difficult to handle my knife and fork with anything like dexterity,
 or to avoid splashing myself with the gravy, while he was standing
 opposite, staring so hard, and making me blush in the most dreadful
-manner every time I caught his eye. After watching me into the second
+manner every [[Time|time]] I caught his eye. After watching me into the second
 chop, he said:
 
 ‘There’s half a pint of ale for you. Will you have it now?’
@@ -92,8 +92,8 @@ tumbler, ‘ordered a glass of this ale--WOULD order it--I told him
 not--drank it, and fell dead. It was too old for him. It oughtn’t to be
 drawn; that’s the fact.’
 
-I was very much shocked to hear of this melancholy accident, and said I
-thought I had better have some water.
+I was very much shocked to hear of this [[Melancholy|melancholy]] accident, and said I
+thought I had better have some [[Water|water]].
 
 ‘Why you see,’ said the waiter, still looking at the light through the
 tumbler, with one of his eyes shut up, ‘our people don’t like things
@@ -103,7 +103,7 @@ throw my head back, and take it off quick. Shall I?’
 
 I replied that he would much oblige me by drinking it, if he thought
 he could do it safely, but by no means otherwise. When he did throw his
-head back, and take it off quick, I had a horrible fear, I confess,
+head back, and take it off quick, I had a horrible [[Fear|fear]], I confess,
 of seeing him meet the fate of the lamented Mr. Topsawyer, and fall
 lifeless on the carpet. But it didn’t hurt him. On the contrary, I
 thought he seemed the fresher for it.
@@ -113,7 +113,7 @@ chops?’
 
 ‘Chops,’ I said.
 
-‘Lord bless my soul!’ he exclaimed, ‘I didn’t know they were chops. Why,
+‘Lord bless my [[Soul|soul]]!’ he exclaimed, ‘I didn’t know they were chops. Why,
 a chop’s the very thing to take off the bad effects of that beer! Ain’t
 it lucky?’
 
@@ -149,7 +149,7 @@ for the pen and ink and paper, to write to Peggotty. He not only brought
 it immediately, but was good enough to look over me while I wrote the
 letter. When I had finished it, he asked me where I was going to school.
 
-I said, ‘Near London,’ which was all I knew.
+I said, ‘Near [[London]],’ which was all I knew.
 
 ‘Oh! my eye!’ he said, looking very low-spirited, ‘I am sorry for that.’
 

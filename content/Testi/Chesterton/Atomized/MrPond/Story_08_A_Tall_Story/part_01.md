@@ -1,5 +1,5 @@
 ---
-title: "MrPond — A Tall Story (part 1)"
+title: "[[MrPond]] — A Tall Story (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -20,9 +20,9 @@ A TALL STORY
 
 
 
-They had been discussing the new troubles in Germany: the three old
+They had been discussing the new troubles in [[Germany]]: the three old
 
-friends, Sir Hubert Wotton, the famous official; Mr. Pond, the
+friends, Sir [[Hubert]] Wotton, the famous official; Mr. Pond, the
 
 obscure official; and Captain Gahagan, who never did a stroke of
 
@@ -44,9 +44,9 @@ Captain to rather excessive flights of showing-off.
 
 Captain Gahagan looked like a Regency buck; Mr. Pond looked like a
 
-round-eyed fish, with the beard and brow of Socrates; Sir Hubert
+round-eyed fish, with the beard and brow of Socrates; Sir [[Hubert]]
 
-Wotton looked like Sir Hubert Wotton--it summed up a very sound and
+Wotton looked like Sir [[Hubert]] Wotton--it summed up a very sound and
 
 virile quality in him, for which his friends had a great respect.
 
@@ -76,7 +76,7 @@ think it was a damned shame that they should be kicked out or
 
 kicked at all.  But I fancy they must be kicking themselves, for
 
-having been so faithful to Germany and even, everywhere else,
+having been so faithful to [[Germany]] and even, everywhere else,
 
 pretty generally pro-German."
 
@@ -90,7 +90,7 @@ all kept rather quiet, as I have reason to know; for the thing
 
 happened, in some sense, in my department.  I have generally found
 
-spy stories the dullest of all forms of detective fiction; in my
+spy stories the dullest of all forms of [[Detective Fiction|detective fiction]]; in my
 
 own modest researches into the light literature of murder, I
 
@@ -118,7 +118,7 @@ being extraordinary; one would be too small to be noticed, another
 
 too tall to be seen; one was apparently paralysed in a hospital and
 
-got out of the window at night--"
+got out of the [[Window|window]] at [[Night|night]]--"
 
 
 
@@ -146,7 +146,7 @@ a thousand instances that would meet the case.  Take, for example,
 
 the case of my unfortunate friends the Balham-Browns who lived at
 
-Muswell Hill.  Mr. Balham-Brown had just come home from the office
+Muswell [[Hill]].  Mr. Balham-Brown had just come [[Home|home]] from the office
 
 (of the Imperial and International Lead-Piping Company) and was
 
@@ -168,13 +168,13 @@ spitefulness of the scientific world, Professor Pooter countered
 
 with the theory that Jupiter buried the Titans, one under Etna,
 
-another under Ossa, and a third under Muswell Hill.  Anyhow, the
+another under Ossa, and a third under Muswell [[Hill]].  Anyhow, the
 
 villa of my ill-fated friends the Balham-Browns was ruined, and the
 
 whole suburb overturned as by an earthquake, in order to excavate
 
-the monster.  When his head alone emerged, it was like a colossal
+the [[Monster|monster]].  When his head [[Alone|alone]] emerged, it was like a colossal
 
 sphinx; and Mrs. Balham-Brown complained to the authorities that
 
@@ -182,7 +182,7 @@ the face frightened her, because it was too large.  Mr. Pond, who
 
 happened to be passing at the moment, immediately produced a
 
-paradox (of which he always carries a small supply) and said that,
+[[Paradox|paradox]] (of which he always carries a small supply) and said that,
 
 on the contrary, they would soon find that the face was too small.
 
@@ -206,13 +206,13 @@ walk across the Atlantic, where even he was apparently submerged.
 
 It is believed that the unfortunate creature was going to give
 
-lectures in America; driven by that mysterious instinct which leads
+lectures in [[America]]; driven by that mysterious instinct which leads
 
 any person who is notorious for any reason to adopt that course."
 
 
 
-"Well, have you done?" demanded Joan.  "We know all about you and
+"[[Well]], have you done?" demanded Joan.  "We know all about you and
 
 your yarns; and they don't mean anything.  But when Mr. Pond says
 
@@ -222,7 +222,7 @@ what can he possibly mean?"
 
 
 
-"Well," said Mr. Pond, coughing slightly, "it was really a part of
+"[[Well]]," said Mr. Pond, coughing slightly, "it was really a part of
 
 the story to which I was alluding just now.  I did not notice
 

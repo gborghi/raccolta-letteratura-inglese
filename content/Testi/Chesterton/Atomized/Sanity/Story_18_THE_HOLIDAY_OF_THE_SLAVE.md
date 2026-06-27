@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE HOLIDAY OF THE SLAVE"
+title: "[[Sanity]] — THE HOLIDAY OF THE SLAVE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"

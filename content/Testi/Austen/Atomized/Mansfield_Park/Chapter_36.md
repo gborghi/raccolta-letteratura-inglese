@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 36"
+title: "[[Mansfield Park]] — Chapter 36"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,12 +17,12 @@ tags:
 CHAPTER XXXVI
 
 
-Edmund now believed himself perfectly acquainted with all that Fanny
+[[Edmund]] now believed himself perfectly acquainted with all that Fanny
 could tell, or could leave to be conjectured of her sentiments, and he
 was satisfied. It had been, as he before presumed, too hasty a measure
-on Crawford’s side, and time must be given to make the idea first
+on Crawford’s side, and [[Time|time]] must be given to make the idea first
 familiar, and then agreeable to her. She must be used to the
-consideration of his being in love with her, and then a return of
+consideration of his being in [[Love|love]] with her, and then a return of
 affection might not be very distant.
 
 He gave this opinion as the result of the conversation to his father;
@@ -30,17 +30,17 @@ and recommended there being nothing more said to her: no farther
 attempts to influence or persuade; but that everything should be left
 to Crawford’s assiduities, and the natural workings of her own mind.
 
-Sir Thomas promised that it should be so. Edmund’s account of Fanny’s
+Sir Thomas promised that it should be so. [[Edmund]]’s account of Fanny’s
 disposition he could believe to be just; he supposed she had all those
 feelings, but he must consider it as very unfortunate that she _had_;
 for, less willing than his son to trust to the future, he could not
-help fearing that if such very long allowances of time and habit were
+help fearing that if such very long allowances of [[Time|time]] and habit were
 necessary for her, she might not have persuaded herself into receiving
 his addresses properly before the young man’s inclination for paying
 them were over. There was nothing to be done, however, but to submit
-quietly and hope the best.
+quietly and [[Hope|hope]] the best.
 
-The promised visit from “her friend,” as Edmund called Miss Crawford,
+The promised visit from “her friend,” as [[Edmund]] called Miss Crawford,
 was a formidable threat to Fanny, and she lived in continual terror of
 it. As a sister, so partial and so angry, and so little scrupulous of
 what she said, and in another light so triumphant and secure, she was
@@ -48,17 +48,17 @@ in every way an object of painful alarm. Her displeasure, her
 penetration, and her happiness were all fearful to encounter; and the
 dependence of having others present when they met was Fanny’s only
 support in looking forward to it. She absented herself as little as
-possible from Lady Bertram, kept away from the East room, and took no
+possible from Lady [[Bertram]], kept away from the East room, and took no
 solitary walk in the shrubbery, in her caution to avoid any sudden
 attack.
 
 She succeeded. She was safe in the breakfast-room, with her aunt, when
 Miss Crawford did come; and the first misery over, and Miss Crawford
 looking and speaking with much less particularity of expression than
-she had anticipated, Fanny began to hope there would be nothing worse
+she had anticipated, Fanny began to [[Hope|hope]] there would be nothing worse
 to be endured than a half-hour of moderate agitation. But here she
 hoped too much; Miss Crawford was not the slave of opportunity. She was
-determined to see Fanny alone, and therefore said to her tolerably
+determined to see Fanny [[Alone|alone]], and therefore said to her tolerably
 soon, in a low voice, “I must speak to you for a few minutes
 somewhere”; words that Fanny felt all over her, in all her pulses and
 all her nerves. Denial was impossible. Her habits of ready submission,
@@ -90,14 +90,14 @@ were, just in this part of the room: here was your cousin, here was I,
 here were the chairs. Oh! why will such things ever pass away?”
 
 Happily for her companion, she wanted no answer. Her mind was entirely
-self-engrossed. She was in a reverie of sweet remembrances.
+[[Self|self]]-engrossed. She was in a reverie of sweet remembrances.
 
 “The scene we were rehearsing was so very remarkable! The subject of it
 so very—very—what shall I say? He was to be describing and recommending
 matrimony to me. I think I see him now, trying to be as demure and
 composed as Anhalt ought, through the two long speeches. ‘When two
-sympathetic hearts meet in the marriage state, matrimony may be called
-a happy life.’ I suppose no time can ever wear out the impression I
+sympathetic hearts meet in the [[Marriage|marriage]] state, matrimony may be called
+a happy life.’ I suppose no [[Time|time]] can ever wear out the impression I
 have of his looks and voice as he said those words. It was curious,
 very curious, that we should have such a scene to play! If I had the
 power of recalling any one week of my existence, it should be that
@@ -109,7 +109,7 @@ unwelcome uncle. Poor Sir Thomas, who was glad to see you? Yet, Fanny,
 do not imagine I would now speak disrespectfully of Sir Thomas, though
 I certainly did hate him for many a week. No, I do him justice now. He
 is just what the head of such a family should be. Nay, in sober
-sadness, I believe I now love you all.” And having said so, with a
+sadness, I believe I now [[Love|love]] you all.” And having said so, with a
 degree of tenderness and consciousness which Fanny had never seen in
 her before, and now thought only too becoming, she turned away for a
 moment to recover herself. “I have had a little fit since I came into
@@ -118,17 +118,17 @@ smile, “but it is over now; so let us sit down and be comfortable; for
 as to scolding you, Fanny, which I came fully intending to do, I have
 not the heart for it when it comes to the point.” And embracing her
 very affectionately, “Good, gentle Fanny! when I think of this being
-the last time of seeing you for I do not know how long, I feel it quite
-impossible to do anything but love you.”
+the last [[Time|time]] of seeing you for I do not know how long, I feel it quite
+impossible to do anything but [[Love|love]] you.”
 
 Fanny was affected. She had not foreseen anything of this, and her
-feelings could seldom withstand the melancholy influence of the word
+feelings could seldom withstand the [[Melancholy|melancholy]] influence of the word
 “last.” She cried as if she had loved Miss Crawford more than she
 possibly could; and Miss Crawford, yet farther softened by the sight of
 such emotion, hung about her with fondness, and said, “I hate to leave
 you. I shall see no one half so amiable where I am going. Who says we
 shall not be sisters? I know we shall. I feel that we are born to be
-connected; and those tears convince me that you feel it too, dear
+connected; and those [[Tears|tears]] convince me that you feel it too, dear
 Fanny.”
 
 Fanny roused herself, and replying only in part, said, “But you are
@@ -142,19 +142,19 @@ Bertrams in general. You have all so much more _heart_ among you than
 one finds in the world at large. You all give me a feeling of being
 able to trust and confide in you, which in common intercourse one knows
 nothing of. I wish I had settled with Mrs. Fraser not to go to her till
-after Easter, a much better time for the visit, but now I cannot put
+after Easter, a much better [[Time|time]] for the visit, but now I cannot put
 her off. And when I have done with her I must go to her sister, Lady
 Stornaway, because _she_ was rather my most particular friend of the
 two, but I have not cared much for _her_ these three years.”
 
 After this speech the two girls sat many minutes silent, each
-thoughtful: Fanny meditating on the different sorts of friendship in
+thoughtful: Fanny meditating on the different sorts of [[Friendship|friendship]] in
 the world, Mary on something of less philosophic tendency. _She_ first
 spoke again.
 
 “How perfectly I remember my resolving to look for you upstairs, and
 setting off to find my way to the East room, without having an idea
-whereabouts it was! How well I remember what I was thinking of as I
+whereabouts it was! How [[Well|well]] I remember what I was thinking of as I
 came along, and my looking in and seeing you here sitting at this table
 at work; and then your cousin’s astonishment, when he opened the door,
 at seeing me here! To be sure, your uncle’s returning that very
@@ -163,40 +163,40 @@ evening! There never was anything quite like it.”
 Another short fit of abstraction followed, when, shaking it off, she
 thus attacked her companion.
 
-“Why, Fanny, you are absolutely in a reverie. Thinking, I hope, of one
+“Why, Fanny, you are absolutely in a reverie. Thinking, I [[Hope|hope]], of one
 who is always thinking of you. Oh! that I could transport you for a
-short time into our circle in town, that you might understand how your
+short [[Time|time]] into our circle in town, that you might understand how your
 power over Henry is thought of there! Oh! the envyings and
-heartburnings of dozens and dozens; the wonder, the incredulity that
+heartburnings of dozens and dozens; the [[Wonder|wonder]], the [[Incredulity|incredulity]] that
 will be felt at hearing what you have done! For as to secrecy, Henry is
-quite the hero of an old romance, and glories in his chains. You should
-come to London to know how to estimate your conquest. If you were to
+quite the [[Hero|hero]] of an old [[Romance|romance]], and glories in his [[Chains|chains]]. You should
+come to [[London]] to know how to estimate your conquest. If you were to
 see how he is courted, and how I am courted for his sake! Now, I am
-well aware that I shall not be half so welcome to Mrs. Fraser in
-consequence of his situation with you. When she comes to know the truth
+[[Well|well]] aware that I shall not be half so welcome to Mrs. Fraser in
+consequence of his situation with you. When she comes to know the [[Truth|truth]]
 she will, very likely, wish me in Northamptonshire again; for there is
 a daughter of Mr. Fraser, by a first wife, whom she is wild to get
 married, and wants Henry to take. Oh! she has been trying for him to
-such a degree. Innocent and quiet as you sit here, you cannot have an
+such a degree. [[Innocent]] and quiet as you sit here, you cannot have an
 idea of the _sensation_ that you will be occasioning, of the curiosity
 there will be to see you, of the endless questions I shall have to
 answer! Poor Margaret Fraser will be at me for ever about your eyes and
 your teeth, and how you do your hair, and who makes your shoes. I wish
 Margaret were married, for my poor friend’s sake, for I look upon the
 Frasers to be about as unhappy as most other married people. And yet it
-was a most desirable match for Janet at the time. We were all
+was a most desirable match for Janet at the [[Time|time]]. We were all
 delighted. She could not do otherwise than accept him, for he was rich,
 and she had nothing; but he turns out ill-tempered and _exigeant_, and
 wants a young woman, a beautiful young woman of five-and-twenty, to be
-as steady as himself. And my friend does not manage him well; she does
+as steady as himself. And my friend does not manage him [[Well|well]]; she does
 not seem to know how to make the best of it. There is a spirit of
 irritation which, to say nothing worse, is certainly very ill-bred. In
-their house I shall call to mind the conjugal manners of Mansfield
+their [[house]] I shall call to mind the conjugal manners of Mansfield
 Parsonage with respect. Even Dr. Grant does shew a thorough confidence
 in my sister, and a certain consideration for her judgment, which makes
 one feel there _is_ attachment; but of that I shall see nothing with
 the Frasers. I shall be at Mansfield for ever, Fanny. My own sister as
-a wife, Sir Thomas Bertram as a husband, are my standards of
+a wife, [[Sir Thomas Bertram]] as a husband, are my standards of
 perfection. Poor Janet has been sadly taken in, and yet there was
 nothing improper on her side: she did not run into the match
 inconsiderately; there was no want of foresight. She took three days to
@@ -210,10 +210,10 @@ comfort. I have not so much to say for my friend Flora, who jilted a
 very nice young man in the Blues for the sake of that horrid Lord
 Stornaway, who has about as much sense, Fanny, as Mr. Rushworth, but
 much worse-looking, and with a blackguard character. I _had_ my doubts
-at the time about her being right, for he has not even the air of a
+at the [[Time|time]] about her being right, for he has not even the air of a
 gentleman, and now I am sure she was wrong. By the bye, Flora Ross was
-dying for Henry the first winter she came out. But were I to attempt to
-tell you of all the women whom I have known to be in love with him, I
+dying for Henry the first [[Winter|winter]] she came out. But were I to attempt to
+tell you of all the women whom I have known to be in [[Love|love]] with him, I
 should never have done. It is you, only you, insensible Fanny, who can
 think of him with anything like indifference. But are you so insensible
 as you profess yourself? No, no, I see you are not.”
@@ -228,7 +228,7 @@ possible but that you must have had some thoughts on the subject, some
 surmises as to what might be. You must have seen that he was trying to
 please you by every attention in his power. Was not he devoted to you
 at the ball? And then before the ball, the necklace! Oh! you received
-it just as it was meant. You were as conscious as heart could desire. I
+it just as it was meant. You were as conscious as heart could [[Desire|desire]]. I
 remember it perfectly.”
 
 “Do you mean, then, that your brother knew of the necklace beforehand?
@@ -239,17 +239,17 @@ ashamed to say that it had never entered my head, but I was delighted
 to act on his proposal for both your sakes.”
 
 “I will not say,” replied Fanny, “that I was not half afraid at the
-time of its being so, for there was something in your look that
+[[Time|time]] of its being so, for there was something in your look that
 frightened me, but not at first; I was as unsuspicious of it at
 first—indeed, indeed I was. It is as true as that I sit here. And had I
 had an idea of it, nothing should have induced me to accept the
 necklace. As to your brother’s behaviour, certainly I was sensible of a
-particularity: I had been sensible of it some little time, perhaps two
+particularity: I had been sensible of it some little [[Time|time]], perhaps two
 or three weeks; but then I considered it as meaning nothing: I put it
 down as simply being his way, and was as far from supposing as from
 wishing him to have any serious thoughts of me. I had not, Miss
 Crawford, been an inattentive observer of what was passing between him
-and some part of this family in the summer and autumn. I was quiet, but
+and some part of this family in the [[Summer|summer]] and [[Autumn|autumn]]. I was quiet, but
 I was not blind. I could not but see that Mr. Crawford amused himself
 in gallantries which did mean nothing.”
 
@@ -259,21 +259,21 @@ affections. I have often scolded him for it, but it is his only fault;
 and there is this to be said, that very few young ladies have any
 affections worth caring for. And then, Fanny, the glory of fixing one
 who has been shot at by so many; of having it in one’s power to pay off
-the debts of one’s sex! Oh! I am sure it is not in woman’s nature to
+the debts of one’s sex! Oh! I am sure it is not in woman’s [[Nature|nature]] to
 refuse such a triumph.”
 
-Fanny shook her head. “I cannot think well of a man who sports with any
+Fanny shook her head. “I cannot think [[Well|well]] of a man who sports with any
 woman’s feelings; and there may often be a great deal more suffered
 than a stander-by can judge of.”
 
-“I do not defend him. I leave him entirely to your mercy, and when he
+“I do not defend him. I leave him entirely to your [[Mercy|mercy]], and when he
 has got you at Everingham, I do not care how much you lecture him. But
 this I will say, that his fault, the liking to make girls a little in
-love with him, is not half so dangerous to a wife’s happiness as a
-tendency to fall in love himself, which he has never been addicted to.
+[[Love|love]] with him, is not half so dangerous to a wife’s happiness as a
+tendency to fall in [[Love|love]] himself, which he has never been addicted to.
 And I do seriously and truly believe that he is attached to you in a
 way that he never was to any woman before; that he loves you with all
-his heart, and will love you as nearly for ever as possible. If any man
+his heart, and will [[Love|love]] you as nearly for ever as possible. If any man
 ever loved a woman for ever, I think Henry will do as much for you.”
 
 Fanny could not avoid a faint smile, but had nothing to say.
@@ -289,7 +289,7 @@ She had made a sure push at Fanny’s feelings here.
 “I know he must have exerted himself very much, for I know the parties
 he had to move. The Admiral hates trouble, and scorns asking favours;
 and there are so many young men’s claims to be attended to in the same
-way, that a friendship and energy, not very determined, is easily put
+way, that a [[Friendship|friendship]] and energy, not very determined, is easily put
 by. What a happy creature William must be! I wish we could see him.”
 
 Poor Fanny’s mind was thrown into the most distressing of all its
@@ -301,16 +301,16 @@ suddenly called her attention by saying: “I should like to sit talking
 with you here all day, but we must not forget the ladies below, and so
 good-bye, my dear, my amiable, my excellent Fanny, for though we shall
 nominally part in the breakfast-parlour, I must take leave of you here.
-And I do take leave, longing for a happy reunion, and trusting that
+And I do take leave, [[Longing|longing]] for a happy reunion, and trusting that
 when we meet again, it will be under circumstances which may open our
-hearts to each other without any remnant or shadow of reserve.”
+hearts to each other without any remnant or [[Shadow|shadow]] of reserve.”
 
 A very, very kind embrace, and some agitation of manner, accompanied
 these words.
 
 “I shall see your cousin in town soon: he talks of being there
 tolerably soon; and Sir Thomas, I dare say, in the course of the
-spring; and your eldest cousin, and the Rushworths, and Julia, I am
+[[spring]]; and your eldest cousin, and the Rushworths, and [[Julia]], I am
 sure of meeting again and again, and all but you. I have two favours to
 ask, Fanny: one is your correspondence. You must write to me. And the
 other, that you will often call on Mrs. Grant, and make her amends for
@@ -330,10 +330,10 @@ It was over, and she had escaped without reproaches and without
 detection. Her secret was still her own; and while that was the case,
 she thought she could resign herself to almost everything.
 
-In the evening there was another parting. Henry Crawford came and sat
-some time with them; and her spirits not being previously in the
+In the evening there was another parting. [[Henry Crawford]] came and sat
+some [[Time|time]] with them; and her spirits not being previously in the
 strongest state, her heart was softened for a while towards him,
-because he really seemed to feel. Quite unlike his usual self, he
+because he really seemed to feel. Quite unlike his usual [[Self|self]], he
 scarcely said anything. He was evidently oppressed, and Fanny must
 grieve for him, though hoping she might never see him again till he
 were the husband of some other woman.
@@ -341,6 +341,6 @@ were the husband of some other woman.
 When it came to the moment of parting, he would take her hand, he would
 not be denied it; he said nothing, however, or nothing that she heard,
 and when he had left the room, she was better pleased that such a token
-of friendship had passed.
+of [[Friendship|friendship]] had passed.
 
 On the morrow the Crawfords were gone.

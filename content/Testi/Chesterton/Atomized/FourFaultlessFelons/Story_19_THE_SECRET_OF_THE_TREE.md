@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE SECRET OF THE TREE"
+title: "[[FourFaultlessFelons]] — THE SECRET OF THE TREE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -32,25 +32,25 @@ And her first feeling, under her last shock, was a primitive human
 
 feeling that for her isolation had come to an end. She had found
 
-something more crushing and complicated than she could carry alone, and
+something more crushing and complicated than she could carry [[Alone|alone]], and
 
 she must have a friend.
 
 
 
-She therefore went straight out of the front door and down the road to
+She therefore went straight out of the front door and down the [[Road|road]] to
 
-find a friend. She went to find a charlatan, a schemer, a grotesque lying
+find a friend. She went to find a charlatan, a schemer, a [[Grotesque|grotesque]] lying
 
 mystagogue, a man who had done her and hers the most abominable wrong,
 
-and she found him just going into his own house, with the brass plate
+and she found him just going into his own [[house]], with the brass plate
 
 outside it. Something not to be formulated in words told her that, in
 
 some dark, distorted, undiscoverable way he was on her side, and that he
 
-would manage to get whatever he chose to try for. She stopped the villain
+would manage to get whatever he chose to try for. She stopped the [[Villain|villain]]
 
 of her strange story and spoke to him quite naturally, as if he were her
 
@@ -102,7 +102,7 @@ him. It had to be done in rather a hurry."
 
 She drew a deep breath and there dawned upon her gradually, like
 
-something seen in the distance, a memory and a meaning.
+something seen in the distance, a [[Memory|memory]] and a meaning.
 
 
 
@@ -116,15 +116,15 @@ shoved him from under the car."
 
 
 
-"But on both occasions," she said, "you only jumped just in time."
+"But on both occasions," she said, "you only jumped just in [[Time|time]]."
 
 
 
-Then she went into the house alone; her mind was still stratified with
+Then she went into the [[house]] [[Alone|alone]]; her mind was still stratified with
 
 terror; the notion of her father as a monkey, as a lunatic, as something
 
-worse. And yet in a corner of her sunken subconscious soul something was
+worse. And yet in a corner of her sunken subconscious [[Soul|soul]] something was
 
 singing, because her friend was not so wicked after all.
 
@@ -156,13 +156,13 @@ condition in any case. But I am responsible in other ways, too, and you
 
 may take it from me that a man in my position will put no obstacles in
 
-your way in doing your duty. I hope you have no objection, for the
+your way in doing your duty. I [[Hope|hope]] you have no objection, for the
 
-moment, to explaining the general nature of your business to me."
+moment, to explaining the general [[Nature|nature]] of your business to me."
 
 
 
-"Well, sir," said the Inspector, "so far as that is concerned, it's
+"[[Well]], sir," said the Inspector, "so far as that is concerned, it's
 
 generally rather a relief in these cases to be able to talk to a third
 
@@ -212,7 +212,7 @@ chance that he will escape."
 
 
 
-There was a silence, which was broken by a slight scurry outside and a
+There was a [[Silence|silence]], which was broken by a slight scurry outside and a
 
 telegraph-boy ran up the steps with a wire for the Inspector. That
 
@@ -238,7 +238,7 @@ AN HOUR. HARRINGTON.
 
 "That is from my superior officer." said the official. "The chief
 
-detective who has been studying this matter on the spot. Indeed, one of
+[[Detective|detective]] who has been studying this matter on the spot. Indeed, one of
 
 the chief detectives in the world today, I suppose."
 
@@ -254,7 +254,7 @@ under the name of Mr. Wilmot? And live next door?"
 
 
 
-"Well, your friend behaved so much like a burglar that I guessed he must
+"[[Well]], your friend behaved so much like a burglar that I guessed he must
 
 be a policeman," said Judson, "and he said he had the best authority; I
 
@@ -274,9 +274,9 @@ have guessed it."
 
 
 
-"What he found," said the doctor, "was the skeleton of a man, stuffed
+"What he found," said the doctor, "was the [[skeleton]] of a man, stuffed
 
-into the hollow of the tree, evidently having been there for a long time,
+into the hollow of the tree, evidently having been there for a long [[Time|time]],
 
 marked by an unmistakable injury to the occiput, done by violence and
 
@@ -320,9 +320,9 @@ little, and seemed to approve of what he studied. Then he said with a
 
 smile: "I suppose you are one of those amateur detectives who read
 
-detective stories, or even write them. Well, I don't deny this is a bit
+[[Detective|detective]] stories, or even write them. [[Well]], I don't deny this is a bit
 
-of a detective story. And there is one question that's always turning up
+of a [[Detective|detective]] story. And there is one question that's always turning up
 
 in books and talk of that sort, and it's rather relevant here. You've
 
@@ -334,13 +334,13 @@ crime?"
 
 He ruminated a little and then went on. "From our point of view, the
 
-great problem in any crime of killing is always what to do with the body.
+great problem in any crime of killing is always what to do with the [[Body|body]].
 
 I expect that fact has saved many a man from being murdered. The fact
 
 that he is more dangerous to his enemy dead than alive. All sorts of
 
-tricks are tried; dismembering and dispersing the body, throwing it into
+tricks are tried; dismembering and dispersing the [[Body|body]], throwing it into
 
 kilns and furnaces, putting it under concrete floors, like Dr. Crippen.
 
@@ -382,11 +382,11 @@ killed, doubtless when his other companion's back was turned, and if he
 
 got away with it, would have skulked back and tried to scratch a shallow
 
-grave in the sandy heath. Or tried to cart away the corpse in a box under
+[[Grave|grave]] in the sandy heath. Or tried to cart away the corpse in a box under
 
 the eyes of all the servants at the inn. That is the difference between
 
-him and a man with imagination-an artist. The artist attempted something
+him and a man with [[Imagination|imagination]]-an [[artist]]. The [[artist]] attempted something
 
 perfectly wild and new, and apparently absurd; but something that has
 
@@ -402,21 +402,21 @@ in those few moments, when the other student had gone on ahead and was
 
 hidden beyond the sprawling tree, he struck Morse a mortal blow with his
 
-left hand and threw his body into the yawning cavern in the tree. It was
+left hand and threw his [[Body|body]] into the yawning cavern in the tree. It was
 
 a solitary spot and naturally nobody actually saw him do the deed. But
 
 long after the medical student had gone on to the hotel and caught a
 
-train to London, another traveller on the moor saw Windrush sitting
+train to [[London]], another traveller on the moor saw Windrush sitting
 
 staring at the tree and the pools, in a dark reverie doubtless full of
 
 his daring scheme. And it is an odd thing that even the passer-by thought
 
-his solitary figure looked as tragic as Cain, and the pools under the red
+his solitary figure looked as tragic as [[Cain]], and the pools under the red
 
-sunset looked like blood.
+sunset looked like [[Blood|blood]].
 
 
 
@@ -430,7 +430,7 @@ animal, without anybody thinking it any sillier than it seemed. You will
 
 notice that his caging grew more strict; when people began to touch or
 
-examine the tree, he locked everybody out of the garden. Except
+examine the tree, he locked everybody out of the [[Garden|garden]]. Except
 
 Harrington-and, apparently, you."
 
@@ -438,13 +438,13 @@ Harrington-and, apparently, you."
 
 "I suppose," said Judson, "that Harrington, or Wilmot, or whatever you
 
-call him, told you that the artist admitted being ambidexterous-doing
+call him, told you that the [[artist]] admitted being ambidexterous-doing
 
-things with his left hand as well as his right."
+things with his left hand as [[Well|well]] as his right."
 
 
 
-"Quite so," replied the Inspector. "Well, Dr. Judson, I have obliged you
+"Quite so," replied the Inspector. "[[Well]], Dr. Judson, I have obliged you
 
 and told you practically all I know at present. If there is anything more
 
@@ -472,7 +472,7 @@ never hang Walter Windrush."
 
 "Because," said the doctor, beaming at him, "Walter Windrush has been in
 
-a lunatic asylum for some little time. He was certified in the regular
+a lunatic asylum for some little [[Time|time]]. He was certified in the regular
 
 old official manner"--he talked of it as of something that happened a
 
@@ -486,7 +486,7 @@ development of power in the left hand."
 
 Inspector Brandon was staring like one stunned at the brisk and smiling
 
-doctor, who rose to his feet as if the interview were over. But even as
+doctor, who [[Rose|rose]] to his feet as if the interview were over. But even as
 
 he stepped towards the door, he found his exit blocked by the presence of
 
@@ -500,7 +500,7 @@ the name of Mr. Wilmot.
 
 "Back again," said Wilmot, or Harrington, his smile widening to a grin,
 
-"and apparently just in time."
+"and apparently just in [[Time|time]]."
 
 
 
@@ -512,7 +512,7 @@ anything the matter?"
 
 
 
-"No," said the great detective; "nothing is the matter. Except that we
+"No," said the great [[Detective|detective]]; "nothing is the matter. Except that we
 
 are after the wrong man."
 
@@ -566,7 +566,7 @@ convincing theory."
 
 
 
-"But," went on the detective thoughtfully, "as a man of science, you were
+"But," went on the [[Detective|detective]] thoughtfully, "as a man of science, you were
 
 nevertheless ready to entertain the possibility, even if it were the
 
@@ -582,11 +582,11 @@ untrue."
 
 
 
-"Well, I take full responsibility for the unexpected collapse of my
+"[[Well]], I take full responsibility for the unexpected collapse of my
 
-theory," said the great detective, with his agreeable smile. "You must
+theory," said the great [[Detective|detective]], with his agreeable smile. "You must
 
-not blame the Inspector; the whole of that story of the artist criminal
+not blame the Inspector; the whole of that story of the [[artist]] criminal
 
 and his original scheme of concealment was my idea, and an infernally
 
@@ -608,7 +608,7 @@ the real murderer."
 
 
 
-Amid the startled silence that followed he added, as in a pleasant
+Amid the startled [[Silence|silence]] that followed he added, as in a pleasant
 
 abstraction: "That grand and bold artistic crime we dreamed of was, like
 
@@ -628,7 +628,7 @@ other student."
 
 movements of the other student, and of everybody who could be involved.
 
-He took the train to London that evening and, a month after, went to New
+He took the train to [[London]] that evening and, a month after, went to New
 
 York on business and thence to the Argentine, where he set up a
 
@@ -642,13 +642,13 @@ real criminal does. He bolted."
 
 
 
-Dr. Judson seemed to find his voice for the first time since the last
+Dr. Judson seemed to find his voice for the first [[Time|time]] since the last
 
 turn of events, and it was like the voice of a new man.
 
 
 
-"Are you quite certain," he said at last, "that Windrush is innocent
+"Are you quite certain," he said at last, "that Windrush is [[Innocent|innocent]]
 
 after all?"
 
@@ -668,7 +668,7 @@ man of special knowledge. The man called Duveen, whom we know to have
 
 been present, and to have had a stronger motive than Windrush (for he was
 
-ruined and in fear of exposure), was and is a man with exactly that
+ruined and in [[Fear|fear]] of exposure), was and is a man with exactly that
 
 special knowledge. He is a surgeon and a skilful man. He is also a
 
@@ -696,7 +696,7 @@ Harrington calmly; "I do say I am certain now."
 
 "Dr. Judson says," said that physician himself, springing up like a
 
-spring released; "Dr. Judson says that everything that Dr. Judson has
+[[spring]] released; "Dr. Judson says that everything that Dr. Judson has
 
 said for the last forty-eight hours is a pack of lies! Dr. Judson says
 
@@ -744,7 +744,7 @@ doddering old fraud! He wrote one book that was boomed when I was a baby,
 
 and he's never opened a book since. I saw all the new books on his table
 
-with none of the leaves cut. And the way he talked about prehistoric man
+with none of the [[Leaves|leaves]] cut. And the way he talked about prehistoric man
 
 was more prehistoric than fossils. As if any serious scientific man now
 
@@ -766,7 +766,7 @@ he'll have to sign the countermanding of it."
 
 
 
-"Oh, very well," cried the impetuous Judson, who had already scribbled
+"Oh, very [[Well|well]]," cried the impetuous Judson, who had already scribbled
 
 something on a page and was already rushing from the room, "I'll cut
 
@@ -780,9 +780,9 @@ round and get him to sign it, too."
 
 In the track of the headlong Judson, they trailed round with tolerable
 
-rapidity to that stately and pillared house in the West End, the house
+rapidity to that stately and pillared [[house]] in the West End, the [[house]]
 
-with the sombre blinds, which the doctor had once visited alone. The
+with the sombre blinds, which the doctor had once visited [[Alone|alone]]. The
 
 scene between him and the stately Dr. Doone was rather curious. Now that
 

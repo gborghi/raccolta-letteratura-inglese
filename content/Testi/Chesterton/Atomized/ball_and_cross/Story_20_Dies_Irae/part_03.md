@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — Dies Irae (part 3)"
+title: "ball and [[Cross|cross]] — Dies Irae (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -18,7 +18,7 @@ tags:
 
 Even as they spoke the main doors were burst open in mere brutal panic,
 and all the officers and subordinates of the asylum rushed away
-across the garden pursued by the smoke.  But among the ticketed
+across the [[Garden|garden]] pursued by the smoke.  But among the ticketed
 maniacs not a man or woman moved.
 
 "We hate dying," said Turnbull, with composure, "but we hate you
@@ -37,12 +37,12 @@ face continued to leer down upon the smoke-stung crowd below.
 Then at last he said in a silken voice and with a smile
 of final satisfaction:
 
-"By the way, I fear I am very absent minded.  There is one man specially
+"By the way, I [[Fear|fear]] I am very absent minded.  There is one man specially
 whom, somehow, I always forget.  I always leave him lying about.
-Once I mislaid him on the Cross of St. Paul's. So silly of me;
+Once I mislaid him on the [[Cross]] of St. Paul's. So silly of me;
 and now I've forgotten him in one of those little cells where
-your fire is burning.  Very unfortunate--especially for him."
-And nodding genially, he climbed into his flying ship.
+your [[Fire|fire]] is burning.  Very unfortunate--especially for him."
+And nodding genially, he climbed into his flying [[Ship|ship]].
 
 MacIan stood motionless for two minutes, and then rushed down
 one of the suffocating corridors till he found the flames.
@@ -56,7 +56,7 @@ to come within cry of the cells he had once known.  It was impossible,
 however, to see the spot where the old man lay dead or alive;
 not now through darkness, but through scorching and aching light.
 The site of the old half-wit's cell was now the heart of a standing
-forest of fire--the flames as thick and yellow as a cornfield.
+forest of [[Fire|fire]]--the flames as thick and yellow as a cornfield.
 Their incessant shrieking and crackling was like a mob
 shouting against an orator.  Yet through all that deafening
 density MacIan thought he heard a small and separate sound.
@@ -68,11 +68,11 @@ he's still alive, and shouting for help."
 
 "Listen!" said Turnbull, and lifted one finger from his clenched hand.
 
-"Or else he is shrieking with pain," protested MacIan.
+"Or else he is shrieking with [[Pain|pain]]," protested MacIan.
 "I will not endure it."
 
 "Listen!" repeated Turnbull, grimly.  "Did you ever hear anyone
-shout for help or shriek with pain in that voice?"
+shout for help or shriek with [[Pain|pain]] in that voice?"
 
 The small shrill sounds which came through the crash of the conflagration
 were indeed of an odd sort, and MacIan turned a face of puzzled
@@ -80,7 +80,7 @@ inquiry to his companion.
 
 "He is singing," said Turnbull, simply.
 
-A remaining rampart fell, crushing the fire, and through the diminished
+A remaining rampart fell, crushing the [[Fire|fire]], and through the diminished
 din of it the voice of the little old lunatic came clearer.
 In the heart of that white-hot hell he was singing like a bird.
 What he was singing it was not very easy to follow, but it seemed
@@ -88,7 +88,7 @@ to be something about playing in the golden hay.
 
 "Good Lord!" cried Turnbull, bitterly, "there seem to be some
 advantages in really being an idiot."  Then advancing to the fringe
-of the fire he called out on chance to the invisible singer:
+of the [[Fire|fire]] he called out on chance to the invisible singer:
 "Can you come out?  Are you cut off?"
 
 "God help us all!" said MacIan, with a shudder; "he's laughing now."
@@ -98,46 +98,46 @@ he was now shaking out peals of silvery and hilarious laughter.
 As he listened, MacIan's two eyes began to glow, as if a strange
 thought had come into his head.
 
-"Fool, come out and save yourself!" shouted Turnbull.
+"[[Fool]], come out and save yourself!" shouted Turnbull.
 
 "No, by Heaven! that is not the way," cried Evan, suddenly.
 "Father," he shouted, "come out and save us all!"
 
-The fire, though it had dropped in one or two places, was, upon the whole,
+The [[Fire|fire]], though it had dropped in one or two places, was, upon the whole,
 higher and more unconquerable than ever.  Separate tall flames shot up and
-spread out above them like the fiery cloisters of some infernal cathedral,
-or like a grove of red tropical trees in the garden of the devil.
-Higher yet in the purple hollow of the night the topmost flames
-leapt again and again fruitlessly at the stars, like golden dragons
+spread out above them like the fiery cloisters of some infernal [[Cathedral|cathedral]],
+or like a grove of red tropical trees in the [[Garden|garden]] of the devil.
+Higher yet in the purple hollow of the [[Night|night]] the topmost flames
+leapt again and again fruitlessly at the [[Stars|stars]], like golden dragons
 chained but struggling.  The towers and domes of the oppressive smoke
-seemed high and far enough to drown distant planets in a London fog.
+seemed high and far enough to drown distant planets in a [[London]] fog.
 But if we exhausted all frantic similes for that frantic scene,
-the main impression about the fire would still be its ranked
+the main impression about the [[Fire|fire]] would still be its ranked
 upstanding rigidity and a sort of roaring stillness.
-It was literally a wall of fire.
+It was literally a wall of [[Fire|fire]].
 
 "Father," cried MacIan, once more, "come out of it and save us all!"
 Turnbull was staring at him as he cried.
 
-The tall and steady forest of fire must have been already a portent
+The tall and steady forest of [[Fire|fire]] must have been already a portent
 visible to the whole circle of land and sea.  The red flush of it
 lit up the long sides of white ships far out in the German Ocean,
 and picked out like piercing rubies the windows in the villages
 on the distant heights.  If any villagers or sailors were looking
 towards it they must have seen a strange sight as MacIan cried
-out for the third time.
+out for the third [[Time|time]].
 
-That forest of fire wavered, and was cloven in the centre;
+That forest of [[Fire|fire]] wavered, and was cloven in the centre;
 and then the whole of one half of it leaned one way as a cornfield
-leans all one way under the load of the wind.  Indeed, it looked
-as if a great wind had sprung up and driven the great fire aslant.
-Its smoke was no longer sent up to choke the stars, but was
+leans all one way under the load of the [[Wind|wind]].  Indeed, it looked
+as if a great [[Wind|wind]] had sprung up and driven the great [[Fire|fire]] aslant.
+Its smoke was no longer sent up to choke the [[Stars|stars]], but was
 trailed and dragged across county after county like one dreadful
 banner of defeat.
 
-But it was not the wind; or, if it was the wind, it was two winds
+But it was not the [[Wind|wind]]; or, if it was the [[Wind|wind]], it was two winds
 blowing in opposite directions.  For while one half of the huge
-fire sloped one way towards the inland heights, the other half,
+[[Fire|fire]] sloped one way towards the inland heights, the other half,
 at exactly the same angle, sloped out eastward towards the sea.
 So that earth and ocean could behold, where there had been a mere
 fiery mass, a thing divided like a V--a cloven tongue of flame.
@@ -148,5 +148,5 @@ opened down the middle, and, reeling back in two great golden billows,
 hung on each side as huge and harmless as two sloping hills lie
 on each side of a valley.  Down the centre of this trough, or chasm,
 a little path ran, cleared of all but ashes, and down this little
-path was walking a little old man singing as if he were alone
-in a wood in spring.
+path was walking a little old man singing as if he were [[Alone|alone]]
+in a wood in [[Spring|spring]].

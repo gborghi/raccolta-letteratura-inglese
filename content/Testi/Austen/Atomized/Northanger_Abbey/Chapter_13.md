@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 12"
+title: "[[Northanger Abbey]] — Chapter 12"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -38,9 +38,9 @@ Catherine cheerfully complied, and being properly equipped, was more
 
 impatient than ever to be at the pump-room, that she might inform
 
-herself of General Tilney’s lodgings, for though she believed they were
+herself of [[General Tilney]]’s lodgings, for though she believed they were
 
-in Milsom Street, she was not certain of the house, and Mrs. Allen’s
+in Milsom Street, she was not certain of the [[house]], and Mrs. Allen’s
 
 wavering convictions only made it more doubtful. To Milsom Street she
 
@@ -52,13 +52,13 @@ conduct, and be forgiven; tripping lightly through the church-yard, and
 
 resolutely turning away her eyes, that she might not be obliged to see
 
-her beloved Isabella and her dear family, who, she had reason to
+her beloved [[Isabella]] and her dear family, who, she had reason to
 
-believe, were in a shop hard by. She reached the house without any
+believe, were in a shop hard by. She reached the [[house]] without any
 
 impediment, looked at the number, knocked at the door, and inquired for
 
-Miss Tilney. The man believed Miss Tilney to be at home, but was not
+Miss Tilney. The man believed Miss Tilney to be at [[Home|home]], but was not
 
 quite certain. Would she be pleased to send up her name? She gave her
 
@@ -68,7 +68,7 @@ not quite confirm his words, said he had been mistaken, for that Miss
 
 Tilney was walked out. Catherine, with a blush of mortification, left
 
-the house. She felt almost persuaded that Miss Tilney _was_ at home,
+the [[house]]. She felt almost persuaded that Miss Tilney _was_ at [[Home|home]],
 
 and too much offended to admit her; and as she retired down the street,
 
@@ -76,13 +76,13 @@ could not withhold one glance at the drawing-room windows, in
 
 expectation of seeing her there, but no one appeared at them. At the
 
-bottom of the street, however, she looked back again, and then, not at
+[[Bottom|bottom]] of the street, however, she looked back again, and then, not at
 
-a window, but issuing from the door, she saw Miss Tilney herself. She
+a [[Window|window]], but issuing from the door, she saw Miss Tilney herself. She
 
 was followed by a gentleman, whom Catherine believed to be her father,
 
-and they turned up towards Edgar’s Buildings. Catherine, in deep
+and they turned up towards [[Edgar]]’s Buildings. Catherine, in deep
 
 mortification, proceeded on her way. She could almost be angry herself
 
@@ -100,11 +100,11 @@ rudeness in return it might justly make her amenable.
 
 Dejected and humbled, she had even some thoughts of not going with the
 
-others to the theatre that night; but it must be confessed that they
+others to the theatre that [[Night|night]]; but it must be confessed that they
 
 were not of long continuance, for she soon recollected, in the first
 
-place, that she was without any excuse for staying at home; and, in the
+place, that she was without any excuse for staying at [[Home|home]]; and, in the
 
 second, that it was a play she wanted very much to see. To the theatre
 
@@ -114,19 +114,19 @@ she feared that, amongst the many perfections of the family, a fondness
 
 for plays was not to be ranked; but perhaps it was because they were
 
-habituated to the finer performances of the London stage, which she
+habituated to the finer performances of the [[London]] stage, which she
 
-knew, on Isabella’s authority, rendered everything else of the kind
+knew, on [[Isabella]]’s authority, rendered everything else of the kind
 
 “quite horrid.” She was not deceived in her own expectation of
 
-pleasure; the comedy so well suspended her care that no one, observing
+pleasure; the [[Comedy|comedy]] so [[Well|well]] suspended her care that no one, observing
 
 her during the first four acts, would have supposed she had any
 
 wretchedness about her. On the beginning of the fifth, however, the
 
-sudden view of Mr. Henry Tilney and his father, joining a party in the
+sudden view of Mr. [[Henry Tilney]] and his father, joining a party in the
 
 opposite box, recalled her to anxiety and distress. The stage could no
 
@@ -154,9 +154,9 @@ explanation. Feelings rather natural than heroic possessed her; instead
 
 of considering her own dignity injured by this ready
 
-condemnation—instead of proudly resolving, in conscious innocence, to
+condemnation—instead of proudly resolving, in conscious [[innocence]], to
 
-show her resentment towards him who could harbour a doubt of it, to
+show her resentment towards him who could harbour a [[Doubt|doubt]] of it, to
 
 leave to him all the trouble of seeking an explanation, and to
 
@@ -170,7 +170,7 @@ explaining its cause.
 
 
 
-The play concluded—the curtain fell—Henry Tilney was no longer to be
+The play concluded—the curtain fell—[[Henry Tilney]] was no longer to be
 
 seen where he had hitherto sat, but his father remained, and perhaps he
 
@@ -226,15 +226,15 @@ stopped, I would have jumped out and run after you.”
 
 Is there a Henry in the world who could be insensible to such a
 
-declaration? Henry Tilney at least was not. With a yet sweeter smile,
+declaration? [[Henry Tilney]] at least was not. With a yet sweeter smile,
 
 he said everything that need be said of his sister’s concern, regret,
 
-and dependence on Catherine’s honour. “Oh, do not say Miss Tilney was
+and dependence on Catherine’s [[Honour|honour]]. “Oh, do not say Miss Tilney was
 
 not angry,” cried Catherine, “because I know she was; for she would not
 
-see me this morning when I called; I saw her walk out of the house the
+see me this morning when I called; I saw her walk out of the [[house]] the
 
 next minute after my leaving it; I was hurt, but I was not affronted.
 
@@ -242,15 +242,15 @@ Perhaps you did not know I had been there.”
 
 
 
-“I was not within at the time; but I heard of it from Eleanor, and she
+“I was not within at the [[Time|time]]; but I heard of it from [[Eleanor]], and she
 
 has been wishing ever since to see you, to explain the reason of such
 
-incivility; but perhaps I can do it as well. It was nothing more than
+incivility; but perhaps I can do it as [[Well|well]]. It was nothing more than
 
 that my father—they were just preparing to walk out, and he being
 
-hurried for time, and not caring to have it put off—made a point of her
+hurried for [[Time|time]], and not caring to have it put off—made a point of her
 
 being denied. That was all, I do assure you. She was very much vexed,
 
@@ -288,13 +288,13 @@ angry.”
 
 
 
-“Well, nobody would have thought you had no right who saw your face.”
+“[[Well]], nobody would have thought you had no right who saw your face.”
 
 He replied by asking her to make room for him, and talking of the play.
 
 
 
-He remained with them some time, and was only too agreeable for
+He remained with them some [[Time|time]], and was only too agreeable for
 
 Catherine to be contented when he went away. Before they parted,
 
@@ -310,15 +310,15 @@ world.
 
 While talking to each other, she had observed with some surprise that
 
-John Thorpe, who was never in the same part of the house for ten
+[[John Thorpe]], who was never in the same part of the [[house]] for ten
 
-minutes together, was engaged in conversation with General Tilney; and
+minutes together, was engaged in conversation with [[General Tilney]]; and
 
 she felt something more than surprise when she thought she could
 
 perceive herself the object of their attention and discourse. What
 
-could they have to say of her? She feared General Tilney did not like
+could they have to say of her? She feared [[General Tilney]] did not like
 
 her appearance: she found it was implied in his preventing her
 
@@ -344,7 +344,7 @@ had travelled from her heart almost to the tip of her tongue, by
 
 asking, in a consequential manner, whether she had seen him talking
 
-with General Tilney: “He is a fine old fellow, upon my soul! stout,
+with [[General Tilney]]: “He is a fine old fellow, upon my [[Soul|soul]]! stout,
 
 active—looks as young as his son. I have a great regard for him, I
 
@@ -386,7 +386,7 @@ Bath.”
 
 
 
-“And what do you think I said?”—lowering his voice—“well done, General,
+“And what do you think I said?”—lowering his voice—“[[Well|well]] done, General,
 
 said I; I am quite of your mind.”
 
@@ -394,7 +394,7 @@ said I; I am quite of your mind.”
 
 Here Catherine, who was much less gratified by his admiration than by
 
-General Tilney’s, was not sorry to be called away by Mr. Allen. Thorpe,
+[[General Tilney]]’s, was not sorry to be called away by Mr. Allen. Thorpe,
 
 however, would see her to her chair, and, till she entered it,
 
@@ -404,10 +404,10 @@ entreating him to have done.
 
 
 
-That General Tilney, instead of disliking, should admire her, was very
+That [[General Tilney]], instead of disliking, should admire her, was very
 
 delightful; and she joyfully thought that there was not one of the
 
-family whom she need now fear to meet. The evening had done more, much
+family whom she need now [[Fear|fear]] to meet. The evening had done more, much
 
 more, for her than could have been expected.

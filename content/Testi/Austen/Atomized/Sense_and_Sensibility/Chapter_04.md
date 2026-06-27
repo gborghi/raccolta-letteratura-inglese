@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 4"
+title: "[[Sense and Sensibility]] — Chapter 4"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -36,7 +36,7 @@ deficient in natural taste, though he has not had opportunities of
 
 improving it. Had he ever been in the way of learning, I think he would
 
-have drawn very well. He distrusts his own judgment in such matters so
+have drawn very [[Well|well]]. He distrusts his own judgment in such matters so
 
 much, that he is always unwilling to give his opinion on any picture;
 
@@ -52,7 +52,7 @@ the kind of approbation which Elinor described as excited in him by the
 
 drawings of other people, was very far from that rapturous delight,
 
-which, in her opinion, could alone be called taste. Yet, though smiling
+which, in her opinion, could [[Alone|alone]] be called taste. Yet, though smiling
 
 within herself at the mistake, she honoured her sister for that blind
 
@@ -60,7 +60,7 @@ partiality to Edward which produced it.
 
 
 
-“I hope, Marianne,” continued Elinor, “you do not consider him as
+“I [[Hope|hope]], Marianne,” continued Elinor, “you do not consider him as
 
 deficient in general taste. Indeed, I think I may say that you cannot,
 
@@ -106,7 +106,7 @@ Marianne was rejoiced to find her sister so easily pleased.
 
 “Of his sense and his goodness,” continued Elinor, “no one can, I
 
-think, be in doubt, who has seen him often enough to engage him in
+think, be in [[Doubt|doubt]], who has seen him often enough to engage him in
 
 unreserved conversation. The excellence of his understanding and his
 
@@ -126,9 +126,9 @@ have seen a great deal of him, have studied his sentiments and heard
 
 his opinion on subjects of literature and taste; and, upon the whole, I
 
-venture to pronounce that his mind is well-informed, enjoyment of books
+venture to pronounce that his mind is [[Well|well]]-informed, enjoyment of books
 
-exceedingly great, his imagination lively, his observation just and
+exceedingly great, his [[Imagination|imagination]] lively, his observation just and
 
 correct, and his taste delicate and pure. His abilities in every
 
@@ -140,7 +140,7 @@ hardly be called handsome, till the expression of his eyes, which are
 
 uncommonly good, and the general sweetness of his countenance, is
 
-perceived. At present, I know him so well, that I think him really
+perceived. At present, I know him so [[Well|well]], that I think him really
 
 handsome; or at least, almost so. What say you, Marianne?”
 
@@ -148,7 +148,7 @@ handsome; or at least, almost so. What say you, Marianne?”
 
 “I shall very soon think him handsome, Elinor, if I do not now. When
 
-you tell me to love him as a brother, I shall no more see imperfection
+you tell me to [[Love|love]] him as a brother, I shall no more see imperfection
 
 in his face, than I now do in his heart.”
 
@@ -166,7 +166,7 @@ attachment agreeable to her. She knew that what Marianne and her mother
 
 conjectured one moment, they believed the next—that with them, to wish
 
-was to hope, and to hope was to expect. She tried to explain the real
+was to [[Hope|hope]], and to [[Hope|hope]] was to expect. She tried to explain the real
 
 state of the case to her sister.
 
@@ -196,7 +196,7 @@ that I meant no offence to you, by speaking, in so quiet a way, of my
 
 own feelings. Believe them to be stronger than I have declared; believe
 
-them, in short, to be such as his merit, and the suspicion—the hope of
+them, in short, to be such as his merit, and the suspicion—the [[Hope|hope]] of
 
 his affection for me may warrant, without imprudence or folly. But
 
@@ -204,13 +204,13 @@ farther than this you must _not_ believe. I am by no means assured of
 
 his regard for me. There are moments when the extent of it seems
 
-doubtful; and till his sentiments are fully known, you cannot wonder at
+doubtful; and till his sentiments are fully known, you cannot [[Wonder|wonder]] at
 
 my wishing to avoid any encouragement of my own partiality, by
 
 believing or calling it more than it is. In my heart I feel
 
-little—scarcely any doubt of his preference. But there are other points
+little—scarcely any [[Doubt|doubt]] of his preference. But there are other points
 
 to be considered besides his inclination. He is very far from being
 
@@ -228,9 +228,9 @@ fortune or high rank.”
 
 
 
-Marianne was astonished to find how much the imagination of her mother
+Marianne was astonished to find how much the [[Imagination|imagination]] of her mother
 
-and herself had outstripped the truth.
+and herself had outstripped the [[Truth|truth]].
 
 
 
@@ -258,7 +258,7 @@ believed it. There was, at times, a want of spirits about him which, if
 
 it did not denote indifference, spoke of something almost as
 
-unpromising. A doubt of her regard, supposing him to feel it, need not
+unpromising. A [[Doubt|doubt]] of her regard, supposing him to feel it, need not
 
 give him more than inquietude. It would not be likely to produce that
 
@@ -268,9 +268,9 @@ cause might be found in the dependent situation which forbade the
 
 indulgence of his affection. She knew that his mother neither behaved
 
-to him so as to make his home comfortable at present, nor to give him
+to him so as to make his [[Home|home]] comfortable at present, nor to give him
 
-any assurance that he might form a home for himself, without strictly
+any assurance that he might form a [[Home|home]] for himself, without strictly
 
 attending to her views for his aggrandizement. With such a knowledge as
 
@@ -280,25 +280,25 @@ far from depending on that result of his preference of her, which her
 
 mother and sister still considered as certain. Nay, the longer they
 
-were together the more doubtful seemed the nature of his regard; and
+were together the more doubtful seemed the [[Nature|nature]] of his regard; and
 
 sometimes, for a few painful minutes, she believed it to be no more
 
-than friendship.
+than [[Friendship|friendship]].
 
 
 
 But, whatever might really be its limits, it was enough, when perceived
 
-by his sister, to make her uneasy, and at the same time, (which was
+by his sister, to make her uneasy, and at the same [[Time|time]], (which was
 
 still more common,) to make her uncivil. She took the first opportunity
 
 of affronting her mother-in-law on the occasion, talking to her so
 
-expressively of her brother’s great expectations, of Mrs. Ferrars’s
+expressively of her brother’s [[Great Expectations|great expectations]], of Mrs. Ferrars’s
 
-resolution that both her sons should marry well, and of the danger
+resolution that both her sons should marry [[Well|well]], and of the danger
 
 attending any young woman who attempted to _draw him in;_ that Mrs.
 
@@ -316,9 +316,9 @@ exposed another week to such insinuations.
 
 In this state of her spirits, a letter was delivered to her from the
 
-post, which contained a proposal particularly well timed. It was the
+post, which contained a proposal particularly [[Well|well]] timed. It was the
 
-offer of a small house, on very easy terms, belonging to a relation of
+offer of a small [[house]], on very easy terms, belonging to a relation of
 
 her own, a gentleman of consequence and property in Devonshire. The
 
@@ -326,13 +326,13 @@ letter was from this gentleman himself, and written in the true spirit
 
 of friendly accommodation. He understood that she was in need of a
 
-dwelling; and though the house he now offered her was merely a cottage,
+dwelling; and though the [[house]] he now offered her was merely a cottage,
 
 he assured her that everything should be done to it which she might
 
 think necessary, if the situation pleased her. He earnestly pressed
 
-her, after giving the particulars of the house and garden, to come with
+her, after giving the particulars of the [[house]] and [[Garden|garden]], to come with
 
 her daughters to Barton Park, the place of his own residence, from
 
@@ -346,9 +346,9 @@ his letter was written in so friendly a style as could not fail of
 
 giving pleasure to his cousin; more especially at a moment when she was
 
-suffering under the cold and unfeeling behaviour of her nearer
+[[Suffering|suffering]] under the cold and unfeeling behaviour of her nearer
 
-connections. She needed no time for deliberation or inquiry. Her
+connections. She needed no [[Time|time]] for deliberation or inquiry. Her
 
 resolution was formed as she read. The situation of Barton, in a county
 
@@ -360,7 +360,7 @@ possible advantage belonging to the place, was now its first
 
 recommendation. To quit the neighbourhood of Norland was no longer an
 
-evil; it was an object of desire; it was a blessing, in comparison of
+evil; it was an object of [[Desire|desire]]; it was a blessing, in comparison of
 
 the misery of continuing her daughter-in-law’s guest; and to remove for
 
@@ -384,7 +384,7 @@ at some distance from Norland, than immediately amongst their present
 
 acquaintance. On _that_ head, therefore, it was not for her to oppose
 
-her mother’s intention of removing into Devonshire. The house, too, as
+her mother’s intention of removing into Devonshire. The [[house]], too, as
 
 described by Sir John, was on so simple a scale, and the rent so
 

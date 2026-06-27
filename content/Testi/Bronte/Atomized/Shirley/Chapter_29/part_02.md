@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 29 (part 2)"
+title: "[[Shirley]] — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-I was alone in the drawing-room, seeking a book of Henry's, she entered,
+I was [[Alone|alone]] in the drawing-room, seeking a book of Henry's, she entered,
 
 dressed for a concert at Stilbro'. Shyness--_her_ shyness, not
 
@@ -22,7 +22,7 @@ mine--drew a silver veil between us. Much cant have I heard and read
 
 about 'maiden modesty,' but, properly used, and not hackneyed, the words
 
-are good and appropriate words. As she passed to the window, after
+are good and appropriate words. As she passed to the [[Window|window]], after
 
 tacitly but gracefully recognizing me, I could call her nothing in my
 
@@ -30,7 +30,7 @@ own mind save 'stainless virgin.' To my perception, a delicate
 
 splendour robed her, and the modesty of girlhood was her halo. I may be
 
-the most fatuous, as I am one of the plainest, of men, but in truth that
+the most fatuous, as I am one of the plainest, of men, but in [[Truth|truth]] that
 
 shyness of hers touched me exquisitely; it flattered my finest
 
@@ -44,19 +44,19 @@ averted her head to hide the suffusion of her cheek.
 
 "I know this is the talk of a dreamer--of a rapt, romantic lunatic. I
 
-_do_ dream. I _will_ dream now and then; and if she has inspired romance
+_do_ dream. I _will_ dream now and then; and if she has inspired [[Romance|romance]]
 
 into my prosaic composition, how can I help it?
 
 
 
-"What a child she is sometimes! What an unsophisticated, untaught thing!
+"What a [[Child|child]] she is sometimes! What an unsophisticated, untaught thing!
 
 I see her now looking up into my face, and entreating me to prevent them
 
 from smothering her, and to be sure and give her a strong narcotic. I
 
-see her confessing that she was not so self-sufficing, so independent of
+see her confessing that she was not so [[Self|self]]-sufficing, so independent of
 
 sympathy, as people thought. I see the secret tear drop quietly from her
 
@@ -74,15 +74,15 @@ power to sustain her, as a husband should sustain his wife.
 
 foibles, that bring her near to me, that nestle her to my heart, that
 
-fold her about with my love, and that for a most selfish but
+fold her about with my [[Love|love]], and that for a most selfish but
 
 deeply-natural reason. These faults are the steps by which I mount to
 
-ascendency over her. If she rose a trimmed, artificial mound, without
+ascendency over her. If she [[Rose|rose]] a trimmed, artificial mound, without
 
 inequality, what vantage would she offer the foot? It is the natural
 
-hill, with its mossy breaks and hollows, whose slope invites ascent,
+[[Hill|hill]], with its mossy breaks and hollows, whose slope invites ascent,
 
 whose summit it is pleasure to gain.
 
@@ -90,7 +90,7 @@ whose summit it is pleasure to gain.
 
 "To leave metaphor. It delights my eye to look on her. She suits me. If
 
-I were a king and she the housemaid that swept my palace-stairs, across
+I were a [[King|king]] and she the housemaid that swept my palace-stairs, across
 
 all that space between us my eye would recognize her qualities; a true
 
@@ -98,15 +98,15 @@ pulse would beat for her in my heart, though an unspanned gulf made
 
 acquaintance impossible. If I were a gentleman, and she waited on me as
 
-a servant, I could not help liking that Shirley. Take from her her
+a servant, I could not help liking that [[Shirley]]. Take from her her
 
-education; take her ornaments, her sumptuous dress, all extrinsic
+[[Education|education]]; take her ornaments, her sumptuous dress, all extrinsic
 
 advantages; take all grace, but such as the symmetry of her form renders
 
 inevitable; present her to me at a cottage door, in a stuff gown; let
 
-her offer me there a draught of water, with that smile, with that warm
+her offer me there a draught of [[Water|water]], with that smile, with that warm
 
 good-will with which she now dispenses manorial hospitality--I should
 
@@ -124,7 +124,7 @@ pleasure; whenever I left her, it would be with regret.
 
 has money! In the lock hang the keys of all her repositories, of her
 
-very jewel-casket. There is a purse in that little satin bag; I see the
+very [[Jewel|jewel]]-casket. There is a purse in that little satin bag; I see the
 
 tassel of silver beads hanging out. That spectacle would provoke my
 
@@ -158,9 +158,9 @@ better I like her. She is never wilder than when equipped in her habit
 
 and hat, never less manageable than when she and Zoë come in fiery from
 
-a race with the wind on the hills; and I confess it--to this mute page I
+a race with the [[Wind|wind]] on the hills; and I confess it--to this mute page I
 
-may confess it--I have waited an hour in the court for the chance of
+may confess it--I have waited an hour in the [[Court|court]] for the chance of
 
 witnessing her return, and for the dearer chance of receiving her in my
 
@@ -182,7 +182,7 @@ me unreluctantly. Is she conscious how my strength rejoices to serve
 
 her? I myself am not her slave--I declare it--but my faculties gather
 
-to her beauty, like the genii to the glisten of the lamp. All my
+to her [[Beauty|beauty]], like the genii to the glisten of the lamp. All my
 
 knowledge, all my prudence, all my calm, and all my power stand in her
 

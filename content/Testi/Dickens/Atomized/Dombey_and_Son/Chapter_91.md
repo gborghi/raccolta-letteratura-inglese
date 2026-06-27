@@ -21,40 +21,40 @@ The Happy Pair
 The dark blot on the street is gone. Mr Dombey’s mansion, if it be a
 gap among the other houses any longer, is only so because it is not to
 be vied with in its brightness, and haughtily casts them off. The
-saying is, that home is home, be it never so homely. If it hold good in
-the opposite contingency, and home is home be it never so stately, what
+saying is, that [[Home|home]] is [[Home|home]], be it never so homely. If it hold good in
+the opposite contingency, and [[Home|home]] is [[Home|home]] be it never so stately, what
 an altar to the Household Gods is raised up here!
 
 Lights are sparkling in the windows this evening, and the ruddy glow of
 fires is warm and bright upon the hangings and soft carpets, and the
 dinner waits to be served, and the dinner-table is handsomely set
 forth, though only for four persons, and the side board is cumbrous
-with plate. It is the first time that the house has been arranged for
+with plate. It is the first [[Time|time]] that the [[house]] has been arranged for
 occupation since its late changes, and the happy pair are looked for
 every minute.
 
 Only second to the wedding morning, in the interest and expectation it
-engenders among the household, is this evening of the coming home. Mrs
+engenders among the household, is this evening of the coming [[Home|home]]. Mrs
 Perch is in the kitchen taking tea; and has made the tour of the
 establishment, and priced the silks and damasks by the yard, and
 exhausted every interjection in the dictionary and out of it expressive
-of admiration and wonder. The upholsterer’s foreman, who has left his
+of admiration and [[Wonder|wonder]]. The upholsterer’s foreman, who has left his
 hat, with a pocket-handkerchief in it, both smelling strongly of
-varnish, under a chair in the hall, lurks about the house, gazing
+varnish, under a chair in the hall, lurks about the [[house]], gazing
 upwards at the cornices, and downward at the carpets, and occasionally,
 in a silent transport of enjoyment, taking a rule out of his pocket,
 and skirmishingly measuring expensive objects, with unutterable
 feelings. Cook is in high spirits, and says give her a place where
 there’s plenty of company (as she’ll bet you sixpence there will be
 now), for she is of a lively disposition, and she always was from a
-child, and she don’t mind who knows it; which sentiment elicits from
+[[Child|child]], and she don’t mind who knows it; which sentiment elicits from
 the breast of Mrs Perch a responsive murmur of support and approbation.
-All the housemaid hopes is, happiness for ’em—but marriage is a
+All the housemaid hopes is, happiness for ’em—but [[Marriage|marriage]] is a
 lottery, and the more she thinks about it, the more she feels the
 independence and the safety of a single life. Mr Towlinson is saturnine
 and grim, and says that’s his opinion too, and give him War besides,
 and down with the French—for this young man has a general impression
-that every foreigner is a Frenchman, and must be by the laws of nature.
+that every foreigner is a Frenchman, and must be by the laws of [[Nature|nature]].
 
 At each new sound of wheels, they all stop, whatever they are saying,
 and listen; and more than once there is a general starting up and a cry
@@ -65,7 +65,7 @@ reverie!
 
 Florence is ready to receive her father and her new Mama. Whether the
 emotions that are throbbing in her breast originate in pleasure or in
-pain, she hardly knows. But the fluttering heart sends added colour to
+[[Pain|pain]], she hardly knows. But the fluttering heart sends added colour to
 her cheeks, and brightness to her eyes; and they say downstairs,
 drawing their heads together—for they always speak softly when they
 speak of her—how beautiful Miss Florence looks tonight, and what a
@@ -73,12 +73,12 @@ sweet young lady she has grown, poor dear! A pause succeeds; and then
 Cook, feeling, as president, that her sentiments are waited for,
 wonders whether—and there stops. The housemaid wonders too, and so does
 Mrs Perch, who has the happy social faculty of always wondering when
-other people wonder, without being at all particular what she wonders
+other people [[Wonder|wonder]], without being at all particular what she wonders
 at. Mr Towlinson, who now descries an opportunity of bringing down the
 spirits of the ladies to his own level, says wait and see; he wishes
-some people were well out of this. Cook leads a sigh then, and a murmur
+some people were [[Well|well]] out of this. Cook leads a sigh then, and a murmur
 of “Ah, it’s a strange world, it is indeed!” and when it has gone round
-the table, adds persuasively, “but Miss Florence can’t well be the
+the table, adds persuasively, “but Miss Florence can’t [[Well|well]] be the
 worse for any change, Tom.” Mr Towlinson’s rejoinder, pregnant with
 frightful meaning, is “Oh, can’t she though!” and sensible that a mere
 man can scarcely be more prophetic, or improve upon that, he holds his
@@ -90,15 +90,15 @@ youthful costume, with short sleeves. At present, however, her ripe
 charms are blooming in the shade of her own apartments, whence she had
 not emerged since she took possession of them a few hours ago, and
 where she is fast growing fretful, on account of the postponement of
-dinner. The maid who ought to be a skeleton, but is in truth a buxom
-damsel, is, on the other hand, in a most amiable state: considering her
+dinner. The maid who ought to be a [[skeleton]], but is in [[Truth|truth]] a buxom
+[[Damsel|damsel]], is, on the other hand, in a most amiable state: considering her
 quarterly stipend much safer than heretofore, and foreseeing a great
 improvement in her board and lodging.
 
-Where are the happy pair, for whom this brave home is waiting? Do
-steam, tide, wind, and horses, all abate their speed, to linger on such
+Where are the happy pair, for whom this brave [[Home|home]] is waiting? Do
+steam, tide, [[Wind|wind]], and horses, all abate their [[Speed|speed]], to linger on such
 happiness? Does the swarm of loves and graces hovering about them
-retard their progress by its numbers? Are there so many flowers in
+retard their progress by its numbers? Are there so many [[Flowers|flowers]] in
 their happy path, that they can scarcely move along, without
 entanglement in thornless roses, and sweetest briar?
 
@@ -126,7 +126,7 @@ shown before. It even expressed a kind of faint surprise, and not a
 disagreeable surprise, at sight of her. She dared not raise her eyes to
 his any more; but she felt that he looked at her once again, and not
 less favourably. Oh what a thrill of joy shot through her, awakened by
-even this intangible and baseless confirmation of her hope that she
+even this intangible and baseless confirmation of her [[Hope|hope]] that she
 would learn to win him, through her new and beautiful Mama!
 
 “You will not be long dressing, Mrs Dombey, I presume?” said Mr Dombey.
@@ -138,13 +138,13 @@ would learn to win him, through her new and beautiful Mama!
 With that Mr Dombey stalked away to his own dressing-room, and Mrs
 Dombey went upstairs to hers. Mrs Skewton and Florence repaired to the
 drawing-room, where that excellent mother considered it incumbent on
-her to shed a few irrepressible tears, supposed to be forced from her
+her to shed a few irrepressible [[Tears|tears]], supposed to be forced from her
 by her daughter’s felicity; and which she was still drying, very
 gingerly, with a laced corner of her pocket-handkerchief, when her
 son-in-law appeared.
 
 “And how, my dearest Dombey, did you find that delightfullest of
-cities, Paris?” she asked, subduing her emotion.
+cities, [[Paris]]?” she asked, subduing her emotion.
 
 “It was cold,” returned Mr Dombey.
 
@@ -154,13 +154,13 @@ cities, Paris?” she asked, subduing her emotion.
 
 “Fie, my dearest Dombey!” archly; “dull!”
 
-“It made that impression upon me, Madam,” said Mr Dombey, with grave
+“It made that impression upon me, Madam,” said Mr Dombey, with [[Grave|grave]]
 politeness. “I believe Mrs Dombey found it dull too. She mentioned once
 or twice that she thought it so.”
 
-“Why, you naughty girl!” cried Mrs Skewton, rallying her dear child,
+“Why, you naughty girl!” cried Mrs Skewton, rallying her dear [[Child|child]],
 who now entered, “what dreadfully heretical things have you been saying
-about Paris?”
+about [[Paris]]?”
 
 Edith raised her eyebrows with an air of weariness; and passing the
 folding-doors which were thrown open to display the suite of rooms in
@@ -169,19 +169,19 @@ passed, sat down by Florence.
 
 “My dear Dombey,” said Mrs Skewton, “how charmingly these people have
 carried out every idea that we hinted. They have made a perfect palace
-of the house, positively.”
+of the [[house]], positively.”
 
 “It is handsome,” said Mr Dombey, looking round. “I directed that no
 expense should be spared; and all that money could do, has been done, I
 believe.”
 
-“And what can it not do, dear Dombey?” observed Cleopatra.
+“And what can it not do, dear Dombey?” observed [[Cleopatra]].
 
 “It is powerful, Madam,” said Mr Dombey.
 
 He looked in his solemn way towards his wife, but not a word said she.
 
-“I hope, Mrs Dombey,” addressing her after a moment’s silence, with
+“I [[Hope|hope]], Mrs Dombey,” addressing her after a moment’s [[Silence|silence]], with
 especial distinctness; “that these alterations meet with your
 approval?”
 
@@ -193,44 +193,44 @@ inseparable from it; but the contempt with which it received any appeal
 to admiration, respect, or consideration on the ground of his riches,
 no matter how slight or ordinary in itself, was a new and different
 expression, unequalled in intensity by any other of which it was
-capable. Whether Mr Dombey, wrapped in his own greatness, was at all
+capable. Whether Mr Dombey, wrapped in his own [[Greatness|greatness]], was at all
 aware of this, or no, there had not been wanting opportunities already
 for his complete enlightenment; and at that moment it might have been
 effected by the one glance of the dark eye that lighted on him, after
 it had rapidly and scornfully surveyed the theme of his
-self-glorification. He might have read in that one glance that nothing
+[[Self|self]]-glorification. He might have read in that one glance that nothing
 that his wealth could do, though it were increased ten thousand fold,
 could win him for its own sake, one look of softened recognition from
-the defiant woman, linked to him, but arrayed with her whole soul
+the defiant woman, linked to him, but arrayed with her whole [[Soul|soul]]
 against him. He might have read in that one glance that even for its
 sordid and mercenary influence upon herself, she spurned it, while she
 claimed its utmost power as her right, her bargain—as the base and
 worthless recompense for which she had become his wife. He might have
-read in it that, ever baring her own head for the lightning of her own
-contempt and pride to strike, the most innocent allusion to the power
+read in it that, ever baring her own head for the [[Lightning|lightning]] of her own
+contempt and [[Pride|pride]] to strike, the most [[Innocent|innocent]] allusion to the power
 of his riches degraded her anew, sunk her deeper in her own respect,
 and made the blight and waste within her more complete.
 
-But dinner was announced, and Mr Dombey led down Cleopatra; Edith and
+But dinner was announced, and Mr Dombey led down [[Cleopatra]]; Edith and
 his daughter following. Sweeping past the gold and silver demonstration
 on the sideboard as if it were heaped-up dirt, and deigning to bestow
 no look upon the elegancies around her, she took her place at his board
-for the first time, and sat, like a statue, at the feast.
+for the first [[Time|time]], and sat, like a statue, at the feast.
 
-Mr Dombey, being a good deal in the statue way himself, was well enough
+Mr Dombey, being a good deal in the statue way himself, was [[Well|well]] enough
 pleased to see his handsome wife immovable and proud and cold. Her
 deportment being always elegant and graceful, this as a general
 behaviour was agreeable and congenial to him. Presiding, therefore,
 with his accustomed dignity, and not at all reflecting on his wife by
 any warmth or hilarity of his own, he performed his share of the
 honours of the table with a cool satisfaction; and the installation
-dinner, though not regarded downstairs as a great success, or very
+dinner, though not regarded downstairs as a great [[success]], or very
 promising beginning, passed off, above, in a sufficiently polite,
 genteel, and frosty manner.
 
 Soon after tea, Mrs Skewton, who affected to be quite overcome and worn
 out by her emotions of happiness, arising in the contemplation of her
-dear child united to the man of her heart, but who, there is reason to
+dear [[Child|child]] united to the man of her heart, but who, there is reason to
 suppose, found this family party somewhat dull, as she yawned for one
 hour continually behind her fan, retired to bed. Edith, also, silently
 withdrew and came back no more. Thus, it happened that Florence, who
@@ -246,15 +246,15 @@ come and go here, Florence, as you please. This is not my private
 room.”
 
 Florence entered, and sat down at a distant little table with her work:
-finding herself for the first time in her life—for the very first time
-within her memory from her infancy to that hour—alone with her father,
-as his companion. She, his natural companion, his only child, who in
-her lonely life and grief had known the suffering of a breaking heart;
-who, in her rejected love, had never breathed his name to God at night,
+finding herself for the first [[Time|time]] in her life—for the very first [[Time|time]]
+within her [[Memory|memory]] from her infancy to that hour—[[Alone|alone]] with her father,
+as his companion. She, his natural companion, his only [[Child|child]], who in
+her lonely life and grief had known the [[Suffering|suffering]] of a breaking heart;
+who, in her rejected [[Love|love]], had never breathed his name to God at [[Night|night]],
 but with a tearful blessing, heavier on him than a curse; who had
 prayed to die young, so she might only die in his arms; who had, all
 through, repaid the agony of slight and coldness, and dislike, with
-patient unexacting love, excusing him, and pleading for him, like his
+patient unexacting [[Love|love]], excusing him, and pleading for him, like his
 better angel!
 
 She trembled, and her eyes were dim. His figure seemed to grow in
@@ -262,20 +262,20 @@ height and bulk before her as he paced the room: now it was all blurred
 and indistinct; now clear again, and plain; and now she seemed to think
 that this had happened, just the same, a multitude of years ago. She
 yearned towards him, and yet shrunk from his approach. Unnatural
-emotion in a child, innocent of wrong! Unnatural the hand that had
-directed the sharp plough, which furrowed up her gentle nature for the
+emotion in a [[Child|child]], [[Innocent|innocent]] of wrong! Unnatural the hand that had
+directed the sharp plough, which furrowed up her gentle [[Nature|nature]] for the
 sowing of its seeds!
 
 Bent upon not distressing or offending him by her distress, Florence
 controlled herself, and sat quietly at her work. After a few more turns
 across and across the room, he left off pacing it; and withdrawing into
 a shadowy corner at some distance, where there was an easy chair,
-covered his head with a handkerchief, and composed himself to sleep.
+covered his head with a handkerchief, and composed himself to [[Sleep|sleep]].
 
 It was enough for Florence to sit there watching him; turning her eyes
-towards his chair from time to time; watching him with her thoughts,
+towards his chair from [[Time|time]] to [[Time|time]]; watching him with her thoughts,
 when her face was intent upon her work; and sorrowfully glad to think
-that he _could_ sleep, while she was there, and that he was not made
+that he _could_ [[Sleep|sleep]], while she was there, and that he was not made
 restless by her strange and long-forbidden presence.
 
 What would have been her thoughts if she had known that he was steadily
@@ -293,31 +293,31 @@ once attracted, seemed to have no power to turn his eyes away!
 And what were his thoughts meanwhile? With what emotions did he prolong
 the attentive gaze covertly directed on his unknown daughter? Was there
 reproach to him in the quiet figure and the mild eyes? Had he begun to
-feel her disregarded claims and did they touch him home at last, and
+feel her disregarded claims and did they touch him [[Home|home]] at last, and
 waken him to some sense of his cruel injustice?
 
 There are yielding moments in the lives of the sternest and harshest
-men, though such men often keep their secret well. The sight of her in
-her beauty, almost changed into a woman without his knowledge, may have
-struck out some such moments even in his life of pride. Some passing
-thought that he had had a happy home within his reach—had had a
+men, though such men often keep their secret [[Well|well]]. The sight of her in
+her [[Beauty|beauty]], almost changed into a woman without his knowledge, may have
+struck out some such moments even in his life of [[Pride|pride]]. Some passing
+thought that he had had a happy [[Home|home]] within his reach—had had a
 household spirit bending at his feet—had overlooked it in his
 stiffnecked sullen arrogance, and wandered away and lost himself, may
 have engendered them. Some simple eloquence distinctly heard, though
 only uttered in her eyes, unconscious that he read them as “By the
-death-beds I have tended, by the childhood I have suffered, by our
-meeting in this dreary house at midnight, by the cry wrung from me in
+[[Death|death]]-beds I have tended, by the [[Childhood|childhood]] I have suffered, by our
+meeting in this dreary [[house]] at midnight, by the cry wrung from me in
 the anguish of my heart, oh, father, turn to me and seek a refuge in my
-love before it is too late!” may have arrested them. Meaner and lower
+[[Love|love]] before it is too late!” may have arrested them. Meaner and lower
 thoughts, as that his dead boy was now superseded by new ties, and he
 could forgive the having been supplanted in his affection, may have
 occasioned them. The mere association of her as an ornament, with all
 the ornament and pomp about him, may have been sufficient. But as he
 looked, he softened to her, more and more. As he looked, she became
-blended with the child he had loved, and he could hardly separate the
+blended with the [[Child|child]] he had loved, and he could hardly separate the
 two. As he looked, he saw her for an instant by a clearer and a
-brighter light, not bending over that child’s pillow as his
-rival—monstrous thought—but as the spirit of his home, and in the
+brighter light, not bending over that [[Child|child]]’s pillow as his
+rival—monstrous thought—but as the spirit of his [[Home|home]], and in the
 action tending himself no less, as he sat once more with his bowed-down
 head upon his hand at the foot of the little bed. He felt inclined to
 speak to her, and call her to him. The words “Florence, come here!”
@@ -341,7 +341,7 @@ Edith.
 “Softly, dear Mama. Papa is asleep.”
 
 It was Edith now. She looked towards the corner where he was, and he
-knew that face and manner very well.
+knew that face and manner very [[Well|well]].
 
 “I scarcely thought you could be here, Florence.”
 
@@ -361,34 +361,34 @@ Florence.
 
 “Do you think he will, Florence?” said Edith, looking full upon her.
 
-Florence drooped her head, and rose, and put up her work-basket. Edith
+Florence drooped her head, and [[Rose|rose]], and put up her work-basket. Edith
 drew her hand through her arm, and they went out of the room like
 sisters. Her very step was different and new to him, Mr Dombey thought,
 as his eyes followed her to the door.
 
 He sat in his shadowy corner so long, that the church clocks struck the
-hour three times before he moved that night. All that while his face
+hour three times before he moved that [[Night|night]]. All that while his face
 was still intent upon the spot where Florence had been seated. The room
 grew darker, as the candles waned and went out; but a darkness gathered
-on his face, exceeding any that the night could cast, and rested there.
+on his face, exceeding any that the [[Night|night]] could cast, and rested there.
 
-Florence and Edith, seated before the fire in the remote room where
-little Paul had died, talked together for a long time. Diogenes, who
+Florence and Edith, seated before the [[Fire|fire]] in the remote room where
+little Paul had died, talked together for a long [[Time|time]]. Diogenes, who
 was of the party, had at first objected to the admission of Edith, and,
 even in deference to his mistress’s wish, had only permitted it under
 growling protest. But, emerging by little and little from the
 ante-room, whither he had retired in dudgeon, he soon appeared to
 comprehend, that with the most amiable intentions he had made one of
 those mistakes which will occasionally arise in the best-regulated
-dogs’ minds; as a friendly apology for which he stuck himself up on end
-between the two, in a very hot place in front of the fire, and sat
+[[dogs]]’ minds; as a friendly apology for which he stuck himself up on end
+between the two, in a very hot place in front of the [[Fire|fire]], and sat
 panting at it, with his tongue out, and a most imbecile expression of
 countenance, listening to the conversation.
 
 It turned, at first, on Florence’s books and favourite pursuits, and on
-the manner in which she had beguiled the interval since the marriage.
+the manner in which she had beguiled the interval since the [[Marriage|marriage]].
 The last theme opened up to her a subject which lay very near her
-heart, and she said, with the tears starting to her eyes:
+heart, and she said, with the [[Tears|tears]] starting to her eyes:
 
 “Oh, Mama! I have had a great sorrow since that day.”
 
@@ -397,14 +397,14 @@ heart, and she said, with the tears starting to her eyes:
 “Yes. Poor Walter is drowned.”
 
 Florence spread her hands before her face, and wept with all her heart.
-Many as were the secret tears which Walter’s fate had cost her, they
+Many as were the secret [[Tears|tears]] which Walter’s fate had cost her, they
 flowed yet, when she thought or spoke of him.
 
 “But tell me, dear,” said Edith, soothing her. “Who was Walter? What
 was he to you?”
 
 “He was my brother, Mama. After dear Paul died, we said we would be
-brother and sister. I had known him a long time—from a little child. He
+brother and sister. I had known him a long [[Time|time]]—from a little [[Child|child]]. He
 knew Paul, who liked him very much; Paul said, almost at the last,
 ‘Take care of Walter, dear Papa! I was fond of him!’ Walter had been
 brought in to see him, and was there then—in this room.”
@@ -422,28 +422,28 @@ bosom, “I know that you have seen—”
 
 “Stay! Stop, Florence.” Edith turned so pale, and spoke so earnestly,
 that Florence did not need her restraining hand upon her lips. “Tell me
-all about Walter first; let me understand this history all through.”
+all about Walter first; let me understand this [[history]] all through.”
 
 Florence related it, and everything belonging to it, even down to the
-friendship of Mr Toots, of whom she could hardly speak in her distress
+[[Friendship|friendship]] of Mr Toots, of whom she could hardly speak in her distress
 without a tearful smile, although she was deeply grateful to him. When
 she had concluded her account, to the whole of which Edith, holding her
-hand, listened with close attention, and when a silence had succeeded,
+hand, listened with close attention, and when a [[Silence|silence]] had succeeded,
 Edith said:
 
 “What is it that you know I have seen, Florence?”
 
 “That I am not,” said Florence, with the same mute appeal, and the same
 quick concealment of her face as before, “that I am not a favourite
-child, Mama. I never have been. I have never known how to be. I have
+[[Child|child]], Mama. I never have been. I have never known how to be. I have
 missed the way, and had no one to show it to me. Oh, let me learn from
-you how to become dearer to Papa Teach me! you, who can so well!” and
+you how to become dearer to Papa Teach me! you, who can so [[Well|well]]!” and
 clinging closer to her, with some broken fervent words of gratitude and
 endearment, Florence, relieved of her sad secret, wept long, but not as
 painfully as of yore, within the encircling arms of her new mother.
 
 Pale even to her lips, and with a face that strove for composure until
-its proud beauty was as fixed as death, Edith looked down upon the
+its proud [[Beauty|beauty]] was as fixed as [[Death|death]], Edith looked down upon the
 weeping girl, and once kissed her. Then gradually disengaging herself,
 and putting Florence away, she said, stately, and quiet as a marble
 image, and in a voice that deepened as she spoke, but had no other
@@ -454,20 +454,20 @@ me!”
 
 “Not learn from you?” repeated Florence, in surprise.
 
-“That I should teach you how to love, or be loved, Heaven forbid!” said
+“That I should teach you how to [[Love|love]], or be loved, Heaven forbid!” said
 Edith. “If you could teach me, that were better; but it is too late.
 You are dear to me, Florence. I did not think that anything could ever
-be so dear to me, as you are in this little time.”
+be so dear to me, as you are in this little [[Time|time]].”
 
 She saw that Florence would have spoken here, so checked her with her
 hand, and went on.
 
 “I will be your true friend always. I will cherish you, as much, if not
-as well as anyone in this world could. You may trust in me—I know it
+as [[Well|well]] as anyone in this world could. You may trust in me—I know it
 and I say it, dear,—with the whole confidence even of your pure heart.
 There are hosts of women whom he might have married, better and truer
 in all other respects than I am, Florence; but there is not one who
-could come here, his wife, whose heart could beat with greater truth to
+could come here, his wife, whose heart could beat with greater [[Truth|truth]] to
 you than mine does.”
 
 “I know it, dear Mama!” cried Florence. “From that first most happy day
@@ -476,9 +476,9 @@ I have known it.”
 “Most happy day!” Edith seemed to repeat the words involuntarily, and
 went on. “Though the merit is not mine, for I thought little of you
 until I saw you, let the undeserved reward be mine in your trust and
-love. And in this—in this, Florence; on the first night of my taking up
+[[Love|love]]. And in this—in this, Florence; on the first [[Night|night]] of my taking up
 my abode here; I am led on as it is best I should be, to say it for the
-first and last time.”
+first and last [[Time|time]].”
 
 Florence, without knowing why, felt almost afraid to hear her proceed,
 but kept her eyes riveted on the beautiful face so fixed upon her own.
@@ -486,11 +486,11 @@ but kept her eyes riveted on the beautiful face so fixed upon her own.
 “Never seek to find in me,” said Edith, laying her hand upon her
 breast, “what is not here. Never if you can help it, Florence, fall off
 from me because it is not here. Little by little you will know me
-better, and the time will come when you will know me, as I know myself.
+better, and the [[Time|time]] will come when you will know me, as I know myself.
 Then, be as lenient to me as you can, and do not turn to bitterness the
 only sweet remembrance I shall have.”
 
-The tears that were visible in her eyes as she kept them fixed on
+The [[Tears|tears]] that were visible in her eyes as she kept them fixed on
 Florence, showed that the composed face was but as a handsome mask; but
 she preserved it, and continued:
 
@@ -498,54 +498,54 @@ she preserved it, and continued:
 will soon, if you cannot now—there is no one on this earth less
 qualified to set it right or help you, Florence, than I. Never ask me
 why, or speak to me about it or of my husband, more. There should be,
-so far, a division, and a silence between us two, like the grave
+so far, a division, and a [[Silence|silence]] between us two, like the [[Grave|grave]]
 itself.”
 
-She sat for some time silent; Florence scarcely venturing to breathe
-meanwhile, as dim and imperfect shadows of the truth, and all its daily
+She sat for some [[Time|time]] silent; Florence scarcely venturing to breathe
+meanwhile, as dim and imperfect shadows of the [[Truth|truth]], and all its daily
 consequences, chased each other through her terrified, yet incredulous
-imagination. Almost as soon as she had ceased to speak, Edith’s face
+[[Imagination|imagination]]. Almost as soon as she had ceased to speak, Edith’s face
 began to subside from its set composure to that quieter and more
 relenting aspect, which it usually wore when she and Florence were
-alone together. She shaded it, after this change, with her hands; and
+[[Alone|alone]] together. She shaded it, after this change, with her hands; and
 when she arose, and with an affectionate embrace bade Florence
-good-night, went quickly, and without looking round.
+good-[[Night|night]], went quickly, and without looking round.
 
 But when Florence was in bed, and the room was dark except for the glow
-of the fire, Edith returned, and saying that she could not sleep, and
+of the [[Fire|fire]], Edith returned, and saying that she could not [[Sleep|sleep]], and
 that her dressing-room was lonely, drew a chair upon the hearth, and
 watched the embers as they died away. Florence watched them too from
 her bed, until they, and the noble figure before them, crowned with its
 flowing hair, and in its thoughtful eyes reflecting back their light,
 became confused and indistinct, and finally were lost in slumber.
 
-In her sleep, however, Florence could not lose an undefined impression
-of what had so recently passed. It formed the subject of her dreams,
+In her [[Sleep|sleep]], however, Florence could not lose an undefined impression
+of what had so recently passed. It formed the subject of her [[Dreams|dreams]],
 and haunted her; now in one shape, now in another; but always
-oppressively; and with a sense of fear. She dreamed of seeking her
+oppressively; and with a sense of [[Fear|fear]]. She dreamed of seeking her
 father in wildernesses, of following his track up fearful heights, and
 down into deep mines and caverns; of being charged with something that
-would release him from extraordinary suffering—she knew not what, or
+would release him from extraordinary [[Suffering|suffering]]—she knew not what, or
 why—yet never being able to attain the goal and set him free. Then she
 saw him dead, upon that very bed, and in that very room, and knew that
 he had never loved her to the last, and fell upon his cold breast,
-passionately weeping. Then a prospect opened, and a river flowed, and a
+passionately weeping. Then a prospect opened, and a [[River|river]] flowed, and a
 plaintive voice she knew, cried, “It is running on, Floy! It has never
 stopped! You are moving with it!” And she saw him at a distance
 stretching out his arms towards her, while a figure such as Walter’s
 used to be, stood near him, awfully serene and still. In every vision,
 Edith came and went, sometimes to her joy, sometimes to her sorrow,
-until they were alone upon the brink of a dark grave, and Edith
+until they were [[Alone|alone]] upon the brink of a dark [[Grave|grave]], and Edith
 pointing down, she looked and saw—what!—another Edith lying at the
-bottom.
+[[Bottom|bottom]].
 
 In the terror of this dream, she cried out and awoke, she thought. A
 soft voice seemed to whisper in her ear, “Florence, dear Florence, it
-is nothing but a dream!” and stretching out her arms, she returned the
+is nothing but [[A Dream|a dream]]!” and stretching out her arms, she returned the
 caress of her new Mama, who then went out at the door in the light of
 the grey morning. In a moment, Florence sat up wondering whether this
 had really taken place or not; but she was only certain that it was
-grey morning indeed, and that the blackened ashes of the fire were on
-the hearth, and that she was alone.
+grey morning indeed, and that the blackened ashes of the [[Fire|fire]] were on
+the hearth, and that she was [[Alone|alone]].
 
-So passed the night on which the happy pair came home.
+So passed the [[Night|night]] on which the happy pair came [[Home|home]].

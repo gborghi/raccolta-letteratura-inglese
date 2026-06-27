@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 14"
+title: "[[Shirley]] — Chapter 14"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,15 +18,15 @@ CHAPTER XIV.
 
 
 
-SHIRLEY SEEKS TO BE SAVED BY WORKS.
+[[Shirley|SHIRLEY]] SEEKS TO BE SAVED BY WORKS.
 
 
 
 
 
-"Of course, I know he will marry Shirley," were her first words when she
+"Of course, I know he will marry [[Shirley]]," were her first words when she
 
-rose in the morning. "And he ought to marry her. She can help him," she
+[[Rose|rose]] in the morning. "And he ought to marry her. She can help him," she
 
 added firmly. "But I shall be forgotten when they _are_ married," was
 
@@ -36,11 +36,11 @@ what--_what_ shall I do when Robert is taken quite from me? Where shall
 
 I turn? _My_ Robert! I wish I could justly call him mine. But I am
 
-poverty and incapacity; Shirley is wealth and power. And she is beauty
+[[Poverty|poverty]] and incapacity; [[Shirley]] is wealth and power. And she is [[Beauty|beauty]]
 
-too, and love. I cannot deny it. This is no sordid suit. She loves
+too, and [[Love|love]]. I cannot deny it. This is no sordid suit. She loves
 
-him--not with inferior feelings. She loves, or _will_ love, as he must
+him--not with inferior feelings. She loves, or _will_ [[Love|love]], as he must
 
 feel proud to be loved. Not a valid objection can be made. Let them be
 
@@ -54,7 +54,7 @@ endurable. Once let that pair be united, and I will certainly leave
 
 them. As for lingering about, playing the hypocrite, and pretending to
 
-calm sentiments of friendship, when my soul will be wrung with other
+calm sentiments of [[Friendship|friendship]], when my [[Soul|soul]] will be wrung with other
 
 feelings, I shall not descend to such degradation. As little could I
 
@@ -62,7 +62,7 @@ fill the place of their mutual friend as that of their deadly foe; as
 
 little could I stand between them as trample over them. Robert is a
 
-first-rate man--in my eyes. I _have_ loved, _do_ love, and _must___ love
+first-rate man--in my eyes. I _have_ loved, _do_ [[Love|love]], and _must___ [[Love|love]]
 
 him. I would be his wife if I could; as I cannot, I must go where I
 
@@ -70,7 +70,7 @@ shall never see him. There is but one alternative--to cleave to him as
 
 if I were a part of him, or to be sundered from him wide as the two
 
-poles of a sphere.--Sunder me then, Providence. Part us speedily."
+poles of a sphere.--Sunder me then, [[Providence]]. Part us speedily."
 
 
 
@@ -78,7 +78,7 @@ Some such aspirations as these were again working in her mind late in
 
 the afternoon, when the apparition of one of the personages haunting her
 
-thoughts passed the parlour window. Miss Keeldar sauntered slowly by,
+thoughts passed the parlour [[Window|window]]. Miss Keeldar sauntered slowly by,
 
 her gait, her countenance, wearing that mixture of wistfulness and
 
@@ -102,15 +102,15 @@ promised?" was her address to Caroline as she entered the room.
 
 
 
-"I was not in the humour," replied Miss Helstone, very truly.
+"I was not in the [[Humour|humour]]," replied Miss Helstone, very truly.
 
 
 
-Shirley had already fixed on her a penetrating eye.
+[[Shirley]] had already fixed on her a penetrating eye.
 
 
 
-"No," she said; "I see you are not in the humour for loving me. You are
+"No," she said; "I see you are not in the [[Humour|humour]] for loving me. You are
 
 in one of your sunless, inclement moods, when one feels a
 
@@ -120,7 +120,7 @@ Are you aware of it?"
 
 
 
-"Do you mean to stay long, Shirley?"
+"Do you mean to stay long, [[Shirley]]?"
 
 
 
@@ -138,25 +138,25 @@ And this she did, and then stood on the rug with her hands behind her.
 
 gazing keenly, though not inimically--rather indeed pityingly--at
 
-Caroline. "Wonderfully self-supported you look, you solitude-seeking,
+Caroline. "Wonderfully [[Self|self]]-supported you look, you [[Solitude|solitude]]-seeking,
 
-wounded deer. Are you afraid Shirley will worry you if she discovers
+wounded deer. Are you afraid [[Shirley]] will worry you if she discovers
 
 that you are hurt, and that you bleed?"
 
 
 
-"I never do fear Shirley."
+"I never do [[Fear|fear]] [[Shirley]]."
 
 
 
-"But sometimes you dislike her; often you avoid her. Shirley can feel
+"But sometimes you dislike her; often you avoid her. [[Shirley]] can feel
 
-when she is slighted and shunned. If you had not walked home in the
+when she is slighted and shunned. If you had not walked [[Home|home]] in the
 
-company you did last night, you would have been a different girl to-day.
+company you did last [[Night|night]], you would have been a different girl to-day.
 
-What time did you reach the rectory?"
+What [[Time|time]] did you reach the rectory?"
 
 
 
@@ -170,17 +170,17 @@ or Moore, who lingered so?"
 
 
 
-"Shirley, you talk nonsense."
+"[[Shirley]], you talk nonsense."
 
 
 
-"_He_ talked nonsense--that I doubt not; or he looked it, which is a
+"_He_ talked nonsense--that I [[Doubt|doubt]] not; or he looked it, which is a
 
 thousand times worse. I see the reflection of his eyes on your forehead
 
 at this moment. I feel disposed to call him out, if I could only get a
 
-trustworthy second. I feel desperately irritated. I felt so last night,
+trustworthy second. I feel desperately irritated. I felt so last [[Night|night]],
 
 and have felt it all day."
 
@@ -190,7 +190,7 @@ and have felt it all day."
 
 silent, over-modest thing; and you don't deserve that I should pour out
 
-my secrets into your lap without an invitation. Upon my word, I could
+my [[Secrets|secrets]] into your lap without an invitation. Upon my word, I could
 
 have found it in my heart to have dogged Moore yesterday evening with
 
@@ -198,7 +198,7 @@ dire intent. I have pistols, and can use them."
 
 
 
-"Stuff, Shirley! Which would you have shot--me or Robert?"
+"Stuff, [[Shirley]]! Which would you have shot--me or Robert?"
 
 
 
@@ -236,13 +236,13 @@ advance Moore's fortune you would cut off your right hand."
 
 
 
-"But not tell lies. And if I speak the truth, I must assure you that he
+"But not tell lies. And if I speak the [[Truth|truth]], I must assure you that he
 
-was just civil to me last night--that was all."
+was just civil to me last [[Night|night]]--that was all."
 
 
 
-"I never asked what he was. I can guess. I saw him from the window take
+"I never asked what he was. I can guess. I saw him from the [[Window|window]] take
 
 your hand in his long fingers, just as he went out at my gate."
 
@@ -262,7 +262,7 @@ broken up by his manœuvres. He keeps intruding between you and me.
 
 Without him we should be good friends; but that six feet of puppyhood
 
-makes a perpetually-recurring eclipse of our friendship. Again and again
+makes a perpetually-recurring eclipse of our [[Friendship|friendship]]. Again and again
 
 he crosses and obscures the disc I want always to see clear; ever and
 
@@ -270,7 +270,7 @@ anon he renders me to you a mere bore and nuisance."
 
 
 
-"No, Shirley, no."
+"No, [[Shirley]], no."
 
 
 
@@ -278,7 +278,7 @@ anon he renders me to you a mere bore and nuisance."
 
 hard. You are naturally somewhat reserved, but I am a social personage,
 
-who cannot live alone. If we were but left unmolested, I have that
+who cannot live [[Alone|alone]]. If we were but left unmolested, I have that
 
 regard for you that I could bear you in my presence for ever, and not
 
@@ -288,7 +288,7 @@ say as much respecting me."
 
 
 
-"Shirley, I can say anything you wish. Shirley, I like you."
+"[[Shirley]], I can say anything you wish. [[Shirley]], I like you."
 
 
 
@@ -298,7 +298,7 @@ say as much respecting me."
 
 "I shall not. I am every day growing more accustomed to--fonder of you.
 
-You know I am too English to get up a vehement friendship all at once;
+You know I am too English to get up a vehement [[Friendship|friendship]] all at once;
 
 but you are so much better than common--you are so different to
 
@@ -324,37 +324,37 @@ certainly are not happy."
 
 "Not at all. I mean rather that unhappy people are often preoccupied,
 
-and not in the mood for discoursing with companions of my nature.
+and not in the mood for discoursing with companions of my [[Nature|nature]].
 
 Moreover, there is a sort of unhappiness which not only depresses, but
 
-corrodes; and that, I fear, is your portion. Will pity do you any good,
+corrodes; and that, I [[Fear|fear]], is your portion. Will pity do you any good,
 
-Lina? If it will, take some from Shirley; she offers largely, and
+Lina? If it will, take some from [[Shirley]]; she offers largely, and
 
 warrants the article genuine."
 
 
 
-"Shirley, I never had a sister--you never had a sister; but it flashes
+"[[Shirley]], I never had a sister--you never had a sister; but it flashes
 
 on me at this moment how sisters feel towards each other--affection
 
 twined with their life, which no shocks of feeling can uproot, which
 
-little quarrels only trample an instant, that it may spring more freshly
+little quarrels only trample an instant, that it may [[Spring|spring]] more freshly
 
 when the pressure is removed; affection that no passion can ultimately
 
-outrival, with which even love itself cannot do more than compete in
+outrival, with which even [[Love|love]] itself cannot do more than compete in
 
-force and truth. Love hurts us so, Shirley. It is so tormenting, so
+force and [[Truth|truth]]. [[Love]] hurts us so, [[Shirley]]. It is so tormenting, so
 
 racking, and it burns away our strength with its flame. In affection is
 
-no pain and no fire, only sustenance and balm. I am supported and
+no [[Pain|pain]] and no [[Fire|fire]], only sustenance and balm. I am supported and
 
-soothed when you--that is, _you only_--are near, Shirley. Do you
+soothed when you--that is, _you only_--are near, [[Shirley]]. Do you
 
 believe me now?"
 
@@ -366,7 +366,7 @@ friends, then, Lina, in spite of the black eclipse?"
 
 
 
-"We really are," returned the other, drawing Shirley towards her, and
+"We really are," returned the other, drawing [[Shirley]] towards her, and
 
 making her sit down, "chance what may."
 
@@ -382,17 +382,17 @@ her departure. She then delayed a few minutes in the passage to say,
 
 "Caroline, I wish to tell you that I have a great weight on my mind; my
 
-conscience is quite uneasy as if I had committed, or was going to
+[[Conscience|conscience]] is quite uneasy as if I had committed, or was going to
 
-commit, a crime. It is not my _private_ conscience, you must understand,
+commit, a crime. It is not my _private_ [[Conscience|conscience]], you must understand,
 
-but my landed-proprietor and lord-of-the-manor conscience. I have got
+but my landed-proprietor and lord-of-the-manor [[Conscience|conscience]]. I have got
 
 into the clutch of an eagle with iron talons. I have fallen under a
 
 stern influence, which I scarcely approve, but cannot resist. Something
 
-will be done ere long, I fear, which it by no means pleases me to think
+will be done ere long, I [[Fear|fear]], which it by no means pleases me to think
 
 of. To ease my mind, and to prevent harm as far as I can, I mean to
 
@@ -408,7 +408,7 @@ step up to Fieldhead. I have some notion of putting myself under her
 
 tuition. Won't she have a precious pupil? Drop a hint to her, Lina,
 
-that, though a well-meaning, I am rather a neglected character, and then
+that, though a [[Well|well]]-meaning, I am rather a neglected character, and then
 
 she will feel less scandalized at my ignorance about clothing societies
 
@@ -416,9 +416,9 @@ and such things."
 
 
 
-On the morrow Caroline found Shirley sitting gravely at her desk, with
+On the morrow Caroline found [[Shirley]] sitting gravely at her desk, with
 
-an account-book, a bundle of banknotes, and a well-filled purse before
+an account-book, a bundle of banknotes, and a [[Well|well]]-filled purse before
 
 her. She was looking mighty serious, but a little puzzled. She said she
 
@@ -428,7 +428,7 @@ the hall, trying to find out where she could retrench; that she had also
 
 just given audience to Mrs. Gill, the cook, and had sent that person
 
-away with a notion that her (Shirley's) brain was certainly crazed. "I
+away with a notion that her ([[Shirley]]'s) brain was certainly crazed. "I
 
 have lectured her on the duty of being careful," said she, "in a way
 
@@ -450,7 +450,7 @@ never get up illuminations at Fieldhead, but I could not ask the meaning
 
 of sundry quite unaccountable pounds of candles. We do not wash for the
 
-parish, yet I viewed in silence items of soap and bleaching-powder
+parish, yet I viewed in [[Silence|silence]] items of soap and bleaching-powder
 
 calculated to satisfy the solicitude of the most anxious inquirer after
 
@@ -472,13 +472,13 @@ confessions to me. I found it impossible to get up the spirit even to
 
 hint, much less to prove, to her that she was a cheat. I have no calm
 
-dignity, no true courage about me."
+dignity, no true [[Courage|courage]] about me."
 
 
 
-"Shirley, what fit of self-injustice is this? My uncle, who is not given
+"[[Shirley]], what fit of [[Self|self]]-injustice is this? My uncle, who is not given
 
-to speak well of women, says there are not ten thousand men in England
+to speak [[Well|well]] of women, says there are not ten thousand men in England
 
 as genuinely fearless as you."
 
@@ -486,9 +486,9 @@ as genuinely fearless as you."
 
 "I am fearless, physically; I am never nervous about danger. I was not
 
-startled from self-possession when Mr. Wynne's great red bull rose with
+startled from [[Self|self]]-possession when Mr. Wynne's great red bull [[Rose|rose]] with
 
-a bellow before my face, as I was crossing the cowslip lea alone,
+a bellow before my face, as I was crossing the cowslip lea [[Alone|alone]],
 
 stooped his begrimed, sullen head, and made a run at me; but I was
 
@@ -496,7 +496,7 @@ afraid of seeing Mrs. Gill brought to shame and confusion of face. You
 
 have twice--ten times--my strength of mind on certain subjects,
 
-Caroline. You, whom no persuasion can induce to pass a bull, however
+Caroline. You, whom no [[Persuasion|persuasion]] can induce to pass a bull, however
 
 quiet he looks, would have firmly shown my housekeeper she had done
 
@@ -516,9 +516,9 @@ Lina? Had I not better distribute the cash at once?"
 
 
 
-"No, indeed, Shirley; you will not manage properly. I have often noticed
+"No, indeed, [[Shirley]]; you will not manage properly. I have often noticed
 
-that your only notion of charity is to give shillings and half-crowns in
+that your only notion of [[Charity|charity]] is to give shillings and half-crowns in
 
 a careless, free-handed sort of way, which is liable to continual abuse.
 
@@ -528,7 +528,7 @@ of scrapes. You suggested Miss Ainley yourself; to Miss Ainley I will
 
 apply. And, meantime, promise to keep quiet, and not begin throwing away
 
-your money. What a great deal you have, Shirley! You must feel very rich
+your money. What a great deal you have, [[Shirley]]! You must feel very rich
 
 with all that?"
 
@@ -540,35 +540,35 @@ responsible for its disposal; and really this responsibility weighs on
 
 my mind more heavily than I could have expected. They say that there are
 
-some families almost starving to death in Briarfield. Some of my own
+some families almost starving to [[Death|death]] in Briarfield. Some of my own
 
 cottagers are in wretched circumstances. I must and will help them."
 
 
 
-"Some people say we shouldn't give alms to the poor, Shirley."
+"Some people say we shouldn't give alms to the poor, [[Shirley]]."
 
 
 
 "They are great fools for their pains. For those who are not hungry, it
 
-is easy to palaver about the degradation of charity, and so on: but they
+is easy to palaver about the degradation of [[Charity|charity]], and so on: but they
 
-forget the brevity of life, as well as its bitterness. We have none of
+forget the brevity of life, as [[Well|well]] as its bitterness. We have none of
 
-us long to live. Let us help each other through seasons of want and woe
+us long to live. Let us help each other through [[Seasons|seasons]] of want and woe
 
-as well as we can, without heeding in the least the scruples of vain
+as [[Well|well]] as we can, without heeding in the least the scruples of vain
 
-philosophy."
-
-
-
-"But you do help others, Shirley. You give a great deal as it is."
+[[philosophy]]."
 
 
 
-"Not enough. I must give more, or, I tell you, my brother's blood will
+"But you do help others, [[Shirley]]. You give a great deal as it is."
+
+
+
+"Not enough. I must give more, or, I tell you, my brother's [[Blood|blood]] will
 
 some day be crying to Heaven against me. For, after all, if political
 
@@ -576,13 +576,13 @@ incendiaries come here to kindle conflagration in the neighbourhood, and
 
 my property is attacked, I shall defend it like a tigress--I know I
 
-shall. Let me listen to Mercy as long as she is near me. Her voice once
+shall. Let me listen to [[Mercy]] as long as she is near me. Her voice once
 
 drowned by the shout of ruffian defiance, and I shall be full of
 
 impulses to resist and quell. If once the poor gather and rise in the
 
-form of the mob, I shall turn against them as an aristocrat; if they
+form of the mob, I shall turn against them as an [[aristocrat]]; if they
 
 bully me, I must defy: if they attack, I must resist, and I will."
 
@@ -602,17 +602,17 @@ if once they violently wrong me or mine, and then presume to dictate to
 
 us, I shall quite forget pity for their wretchedness and respect for
 
-their poverty, in scorn of their ignorance and wrath at their
+their [[Poverty|poverty]], in scorn of their ignorance and wrath at their
 
 insolence."
 
 
 
-"Shirley, how your eyes flash!"
+"[[Shirley]], how your eyes flash!"
 
 
 
-"Because my soul burns. Would you, any more than me, let Robert be borne
+"Because my [[Soul|soul]] burns. Would you, any more than me, let Robert be borne
 
 down by numbers?"
 
@@ -622,7 +622,7 @@ down by numbers?"
 
 it. If I could be such a friend to him as you can be, I would stand by
 
-him, as you mean to stand by him, till death."
+him, as you mean to stand by him, till [[Death|death]]."
 
 
 
@@ -632,13 +632,13 @@ lids; but I saw a kindled spark. However, it is not yet come to
 
 fighting. What I want to do is to _prevent_ mischief. I cannot forget,
 
-either day or night, that these embittered feelings of the poor against
+either day or [[Night|night]], that these embittered feelings of the poor against
 
-the rich have been generated in suffering: they would neither hate nor
+the rich have been generated in [[Suffering|suffering]]: they would neither hate nor
 
 envy us if they did not deem us so much happier than themselves. To
 
-allay this suffering, and thereby lessen this hate, let me, out of my
+allay this [[Suffering|suffering]], and thereby lessen this hate, let me, out of my
 
 abundance, give abundantly; and that the donation may go farther, let it
 
@@ -650,7 +650,7 @@ practical sense into our councils. So go and fetch Miss Ainley."
 
 Without another word Caroline put on her bonnet and departed. It may,
 
-perhaps, appear strange that neither she nor Shirley thought of
+perhaps, appear strange that neither she nor [[Shirley]] thought of
 
 consulting Mrs. Pryor on their scheme; but they were wise in abstaining.
 
@@ -668,7 +668,7 @@ almsgiving suited her; but in public plans, on a large scale, she could
 
 take no part; as to originating them, that was out of the question. This
 
-Shirley knew, and therefore she did not trouble Mrs. Pryor by unavailing
+[[Shirley]] knew, and therefore she did not trouble Mrs. Pryor by unavailing
 
 conferences, which could only remind her of her own deficiencies, and do
 
@@ -680,7 +680,7 @@ It was a bright day for Miss Ainley when she was summoned to Fieldhead
 
 to deliberate on projects so congenial to her; when she was seated with
 
-all honour and deference at a table with paper, pen, ink, and--what was
+all [[Honour|honour]] and deference at a table with paper, pen, ink, and--what was
 
 best of all--cash before her, and requested to draw up a regular plan
 
@@ -702,9 +702,9 @@ acquired of the condition of her fellow-creatures around her.
 
 
 
-Shirley placed at her disposal £300, and at sight of the money Miss
+[[Shirley]] placed at her disposal £300, and at sight of the money Miss
 
-Ainley's eyes filled with joyful tears; for she already saw the hungry
+Ainley's eyes filled with joyful [[Tears|tears]]; for she already saw the hungry
 
 fed, the naked clothed, the sick comforted thereby. She quickly drew up
 
@@ -746,7 +746,7 @@ of sins.
 
 
 
-Shirley, knowing this harmless infatuation on the part of her
+[[Shirley]], knowing this harmless infatuation on the part of her
 
 recently-chosen prime minister, stipulated expressly that the curates
 
@@ -760,7 +760,7 @@ some sagacity, and Mr. Hall, at least, had sympathy and loving-kindness
 
 for his fellow-men; but as for the youth under them, they must be set
 
-aside, kept down, and taught that subordination and silence best became
+aside, kept down, and taught that subordination and [[Silence|silence]] best became
 
 their years and capacity.
 
@@ -786,7 +786,7 @@ personage evinced such open scorn of the offering, she had never
 
 ventured to renew it. To Donne she always served the treat, and was
 
-happy to see his approbation of it proved beyond a doubt by the fact of
+happy to see his approbation of it proved beyond a [[Doubt|doubt]] by the fact of
 
 his usually eating two pieces of cake, and putting a third in his
 
@@ -810,7 +810,7 @@ privy council.
 
 
 
-Shirley managed to get the senior priesthood together accordingly, and
+[[Shirley]] managed to get the senior priesthood together accordingly, and
 
 before the old maid's arrival, she had, further, talked all the
 
@@ -826,7 +826,7 @@ latter we know. She had rather a friendly feeling for both, especially
 
 for old Helstone; and it cost her no trouble to be quite delightful to
 
-them. She took them round the garden; she gathered them flowers; she was
+them. She took them round the [[Garden|garden]]; she gathered them [[Flowers|flowers]]; she was
 
 like a kind daughter to them. Mr. Hall she left to Caroline--or rather,
 
@@ -842,7 +842,7 @@ something of a book-worm he was, near-sighted, spectacled, now and then
 
 abstracted. To old ladies he was kind as a son. To men of every
 
-occupation and grade he was acceptable. The truth, simplicity, frankness
+occupation and grade he was acceptable. The [[Truth|truth]], simplicity, frankness
 
 of his manners, the nobleness of his integrity, the reality and
 
@@ -854,11 +854,11 @@ highly. It was only with young, handsome, fashionable, and stylish
 
 ladies he felt a little shy. Being himself a plain man--plain in aspect,
 
-plain in manners, plain in speech--he seemed to fear their dash,
+plain in manners, plain in speech--he seemed to [[Fear|fear]] their dash,
 
 elegance, and airs. But Miss Helstone had neither dash nor airs, and her
 
-native elegance was of a very quiet order--quiet as the beauty of a
+native elegance was of a very quiet order--quiet as the [[Beauty|beauty]] of a
 
 ground-loving hedge-flower. He was a fluent, cheerful, agreeable talker.
 
@@ -886,9 +886,9 @@ like himself, made him happy in his single state; he considered it too
 
 late to change. Besides, he had known Caroline as a pretty little girl.
 
-She had sat on his knee many a time; he had bought her toys and given
+She had sat on his knee many a [[Time|time]]; he had bought her toys and given
 
-her books; he felt that her friendship for him was mixed with a sort of
+her books; he felt that her [[Friendship|friendship]] for him was mixed with a sort of
 
 filial respect; he could not have brought himself to attempt to give
 
@@ -908,13 +908,13 @@ thoughtless would have scorned, indeed, as quite worthless and
 
 unattractive--a middle-aged widow and two plain, spectacled old
 
-maids--yet which had its own quiet value, as many a suffering and
+maids--yet which had its own quiet value, as many a [[Suffering|suffering]] and
 
 friendless human being knew.
 
 
 
-Shirley opened the business and showed the plan.
+[[Shirley]] opened the business and showed the plan.
 
 
 
@@ -932,7 +932,7 @@ apprehended that female craft was at work, and that something in
 
 petticoats was somehow trying underhand to acquire too much influence,
 
-and make itself of too much importance. Shirley caught and comprehended
+and make itself of too much importance. [[Shirley]] caught and comprehended
 
 the expression. "This scheme is nothing," said she carelessly. "It is
 
@@ -952,7 +952,7 @@ Helstone, begged permission to install him in it. For a minute he was a
 
 little stiff, and stood wrinkling his copper-coloured forehead
 
-strangely. At last he muttered, "Well, you are neither my wife nor my
+strangely. At last he muttered, "[[Well]], you are neither my wife nor my
 
 daughter, so I'll be led for once; but mind--I know I _am_ led. Your
 
@@ -960,7 +960,7 @@ little female manœuvres don't blind me."
 
 
 
-"Oh!" said Shirley, dipping the pen in the ink, and putting it into his
+"Oh!" said [[Shirley]], dipping the pen in the ink, and putting it into his
 
 hand, "you must regard me as Captain Keeldar to-day. This is quite a
 
@@ -1002,7 +1002,7 @@ them--with which boon they were content.
 
 
 
-Shirley stood behind the rectors, leaning over their shoulders now and
+[[Shirley]] stood behind the rectors, leaning over their shoulders now and
 
 then to glance at the rules drawn up and the list of cases making out,
 
@@ -1012,7 +1012,7 @@ smile--a smile not ill-natured, but significant--too significant to be
 
 generally thought amiable. Men rarely like such of their fellows as read
 
-their inward nature too clearly and truly. It is good for women,
+their inward [[Nature|nature]] too clearly and truly. It is good for women,
 
 especially, to be endowed with a soft blindness; to have mild, dim eyes,
 
@@ -1028,13 +1028,13 @@ pair of blue eyes, that were usually thought sleepy, secretly on the
 
 alert, and I knew by their expression--an expression which chilled my
 
-blood, it was in that quarter so wondrously unexpected--that for years
+[[Blood|blood]], it was in that quarter so wondrously unexpected--that for years
 
-they had been accustomed to silent soul-reading. The world called the
+they had been accustomed to silent [[Soul|soul]]-reading. The world called the
 
 owner of these blue eyes _bonne petite femme_ (she was not an
 
-Englishwoman). I learned her nature afterwards--got it off by
+Englishwoman). I learned her [[Nature|nature]] afterwards--got it off by
 
 heart--studied it in its farthest, most hidden recesses. She was the
 
@@ -1056,7 +1056,7 @@ vivant_--he was naturally an abstemious man, indifferent to luxury; but
 
 Boultby and Helstone both liked good cookery. The _recherché_ supper
 
-consequently put them into excellent humour. They did justice to it,
+consequently put them into excellent [[Humour|humour]]. They did justice to it,
 
 though in a gentlemanly way--not in the mode Mr. Donne would have done
 

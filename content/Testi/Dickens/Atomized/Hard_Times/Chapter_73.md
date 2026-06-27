@@ -18,17 +18,17 @@ CHAPTER V
 FOUND
 
 
-DAY and night again, day and night again.  No Stephen Blackpool.  Where
+DAY and [[Night|night]] again, day and [[Night|night]] again.  No [[Stephen Blackpool]].  Where
 was the man, and why did he not come back?
 
-Every night, Sissy went to Rachael’s lodging, and sat with her in her
+Every [[Night|night]], Sissy went to Rachael’s lodging, and sat with her in her
 small neat room.  All day, Rachael toiled as such people must toil,
 whatever their anxieties.  The smoke-serpents were indifferent who was
-lost or found, who turned out bad or good; the melancholy mad elephants,
+lost or found, who turned out bad or good; the [[Melancholy|melancholy]] mad elephants,
 like the Hard Fact men, abated nothing of their set routine, whatever
-happened.  Day and night again, day and night again.  The monotony was
-unbroken.  Even Stephen Blackpool’s disappearance was falling into the
-general way, and becoming as monotonous a wonder as any piece of
+happened.  Day and [[Night|night]] again, day and [[Night|night]] again.  The monotony was
+unbroken.  Even [[Stephen Blackpool]]’s disappearance was falling into the
+general way, and becoming as monotonous a [[Wonder|wonder]] as any piece of
 machinery in Coketown.
 
 ‘I misdoubt,’ said Rachael, ‘if there is as many as twenty left in all
@@ -36,26 +36,26 @@ this place, who have any trust in the poor dear lad now.’
 
 She said it to Sissy, as they sat in her lodging, lighted only by the
 lamp at the street corner.  Sissy had come there when it was already
-dark, to await her return from work; and they had since sat at the window
+dark, to await her return from work; and they had since sat at the [[Window|window]]
 where Rachael had found her, wanting no brighter light to shine on their
 sorrowful talk.
 
 ‘If it hadn’t been mercifully brought about, that I was to have you to
 speak to,’ pursued Rachael, ‘times are, when I think my mind would not
-have kept right.  But I get hope and strength through you; and you
+have kept right.  But I get [[Hope|hope]] and strength through you; and you
 believe that though appearances may rise against him, he will be proved
 clear?’
 
 ‘I do believe so,’ returned Sissy, ‘with my whole heart.  I feel so
 certain, Rachael, that the confidence you hold in yours against all
-discouragement, is not like to be wrong, that I have no more doubt of him
+discouragement, is not like to be wrong, that I have no more [[Doubt|doubt]] of him
 than if I had known him through as many years of trial as you have.’
 
 ‘And I, my dear,’ said Rachel, with a tremble in her voice, ‘have known
 him through them all, to be, according to his quiet ways, so faithful to
 everything honest and good, that if he was never to be heard of more, and
 I was to live to be a hundred years old, I could say with my last breath,
-God knows my heart.  I have never once left trusting Stephen Blackpool!’
+God knows my heart.  I have never once left trusting [[Stephen Blackpool]]!’
 
 ‘We all believe, up at the Lodge, Rachael, that he will be freed from
 suspicion, sooner or later.’
@@ -77,7 +77,7 @@ sitting by her side, was obliged to listen with attention.
 ‘I can’t at all times keep out of my mind, mistrustings of some one.  I
 can’t think who ’tis, I can’t think how or why it may be done, but I
 mistrust that some one has put Stephen out of the way.  I mistrust that
-by his coming back of his own accord, and showing himself innocent before
+by his coming back of his own accord, and showing himself [[Innocent|innocent]] before
 them all, some one would be confounded, who—to prevent that—has stopped
 him, and put him out of the way.’
 
@@ -90,30 +90,30 @@ Sissy shuddered, and turned paler yet.
 ‘When it makes its way into my mind, dear,’ said Rachael, ‘and it will
 come sometimes, though I do all I can to keep it out, wi’ counting on to
 high numbers as I work, and saying over and over again pieces that I knew
-when I were a child—I fall into such a wild, hot hurry, that, however
+when I were a [[Child|child]]—I fall into such a wild, hot hurry, that, however
 tired I am, I want to walk fast, miles and miles.  I must get the better
-of this before bed-time.  I’ll walk home wi’ you.’
+of this before bed-[[Time|time]].  I’ll walk [[Home|home]] wi’ you.’
 
-‘He might fall ill upon the journey back,’ said Sissy, faintly offering a
-worn-out scrap of hope; ‘and in such a case, there are many places on the
-road where he might stop.’
+‘He might fall ill upon the [[Journey|journey]] back,’ said Sissy, faintly offering a
+worn-out scrap of [[Hope|hope]]; ‘and in such a case, there are many places on the
+[[Road|road]] where he might stop.’
 
 ‘But he is in none of them.  He has been sought for in all, and he’s not
 there.’
 
 ‘True,’ was Sissy’s reluctant admission.
 
-‘He’d walk the journey in two days.  If he was footsore and couldn’t
+‘He’d walk the [[Journey|journey]] in two days.  If he was footsore and couldn’t
 walk, I sent him, in the letter he got, the money to ride, lest he should
 have none of his own to spare.’
 
-‘Let us hope that to-morrow will bring something better, Rachael.  Come
+‘Let us [[Hope|hope]] that to-morrow will bring something better, Rachael.  Come
 into the air!’
 
 Her gentle hand adjusted Rachael’s shawl upon her shining black hair in
-the usual manner of her wearing it, and they went out.  The night being
+the usual manner of her wearing it, and they went out.  The [[Night|night]] being
 fine, little knots of Hands were here and there lingering at street
-corners; but it was supper-time with the greater part of them, and there
+corners; but it was supper-[[Time|time]] with the greater part of them, and there
 were but few people in the streets.
 
 ‘You’re not so hurried now, Rachael, and your hand is cooler.’
@@ -122,50 +122,50 @@ were but few people in the streets.
 ‘Times when I can’t, I turn weak and confused.’
 
 ‘But you must not begin to fail, Rachael, for you may be wanted at any
-time to stand by Stephen.  To-morrow is Saturday.  If no news comes
-to-morrow, let us walk in the country on Sunday morning, and strengthen
+[[Time|time]] to stand by Stephen.  To-morrow is Saturday.  If no news comes
+to-morrow, let us walk in the country on [[Sunday]] morning, and strengthen
 you for another week.  Will you go?’
 
 ‘Yes, dear.’
 
-They were by this time in the street where Mr. Bounderby’s house stood.
+They were by this [[Time|time]] in the street where Mr. Bounderby’s [[house]] stood.
 The way to Sissy’s destination led them past the door, and they were
 going straight towards it.  Some train had newly arrived in Coketown,
 which had put a number of vehicles in motion, and scattered a
 considerable bustle about the town.  Several coaches were rattling before
 them and behind them as they approached Mr. Bounderby’s, and one of the
 latter drew up with such briskness as they were in the act of passing the
-house, that they looked round involuntarily.  The bright gaslight over
+[[house]], that they looked round involuntarily.  The bright gaslight over
 Mr. Bounderby’s steps showed them Mrs. Sparsit in the coach, in an
 ecstasy of excitement, struggling to open the door; Mrs. Sparsit seeing
 them at the same moment, called to them to stop.
 
 ‘It’s a coincidence,’ exclaimed Mrs. Sparsit, as she was released by the
-coachman.  ‘It’s a Providence!  Come out, ma’am!’ then said Mrs. Sparsit,
+coachman.  ‘It’s a [[Providence]]!  Come out, ma’am!’ then said Mrs. Sparsit,
 to some one inside, ‘come out, or we’ll have you dragged out!’
 
 Hereupon, no other than the mysterious old woman descended.  Whom Mrs.
 Sparsit incontinently collared.
 
-‘Leave her alone, everybody!’ cried Mrs. Sparsit, with great energy.
+‘Leave her [[Alone|alone]], everybody!’ cried Mrs. Sparsit, with great energy.
 ‘Let nobody touch her.  She belongs to me.  Come in, ma’am!’ then said
 Mrs. Sparsit, reversing her former word of command.  ‘Come in, ma’am, or
 we’ll have you dragged in!’
 
 The spectacle of a matron of classical deportment, seizing an ancient
-woman by the throat, and hauling her into a dwelling-house, would have
-been under any circumstances, sufficient temptation to all true English
+woman by the throat, and hauling her into a dwelling-[[house]], would have
+been under any circumstances, sufficient [[Temptation|temptation]] to all true English
 stragglers so blest as to witness it, to force a way into that
-dwelling-house and see the matter out.  But when the phenomenon was
-enhanced by the notoriety and mystery by this time associated all over
+dwelling-[[house]] and see the matter out.  But when the phenomenon was
+enhanced by the notoriety and mystery by this [[Time|time]] associated all over
 the town with the Bank robbery, it would have lured the stragglers in,
 with an irresistible attraction, though the roof had been expected to
 fall upon their heads.  Accordingly, the chance witnesses on the ground,
 consisting of the busiest of the neighbours to the number of some
 five-and-twenty, closed in after Sissy and Rachael, as they closed in
-after Mrs. Sparsit and her prize; and the whole body made a disorderly
+after Mrs. Sparsit and her prize; and the whole [[Body|body]] made a disorderly
 irruption into Mr. Bounderby’s dining-room, where the people behind lost
-not a moment’s time in mounting on the chairs, to get the better of the
+not a moment’s [[Time|time]] in mounting on the chairs, to get the better of the
 people in front.
 
 ‘Fetch Mr. Bounderby down!’ cried Mrs. Sparsit.  ‘Rachael, young woman;
@@ -228,12 +228,12 @@ Bounderby.
 ‘My own boy!  She threatened me that if I resisted her, I should be
 brought by constables, and it was better to come quietly than make that
 stir in such a’—Mrs. Pegler glanced timidly but proudly round the
-walls—‘such a fine house as this.  Indeed, indeed, it is not my fault!
+walls—‘such a fine [[house]] as this.  Indeed, indeed, it is not my fault!
 My dear, noble, stately boy!  I have always lived quiet, and secret,
 Josiah, my dear.  I have never broken the condition once.  I have never
 said I was your mother.  I have admired you at a distance; and if I have
 come to town sometimes, with long times between, to take a proud peep at
-you, I have done it unbeknown, my love, and gone away again.’
+you, I have done it unbeknown, my [[Love|love]], and gone away again.’
 
 Mr. Bounderby, with his hands in his pockets, walked in impatient
 mortification up and down at the side of the long dining-table, while the
@@ -249,13 +249,13 @@ unnatural and inhuman treatment of him.’
 ‘_Me_ unnatural!’ cried poor old Mrs. Pegler.  ‘_Me_ inhuman!  To my dear
 boy?’
 
-‘Dear!’ repeated Mr. Gradgrind.  ‘Yes; dear in his self-made prosperity,
+‘Dear!’ repeated Mr. Gradgrind.  ‘Yes; dear in his [[Self|self]]-made prosperity,
 madam, I dare say.  Not very dear, however, when you deserted him in his
 infancy, and left him to the brutality of a drunken grandmother.’
 
 ‘_I_ deserted my Josiah!’ cried Mrs. Pegler, clasping her hands.  ‘Now,
 Lord forgive you, sir, for your wicked imaginations, and for your scandal
-against the memory of my poor mother, who died in my arms before Josiah
+against the [[Memory|memory]] of my poor mother, who died in my arms before Josiah
 was born.  May you repent of it, sir, and live to know better!’
 
 She was so very earnest and injured, that Mr. Gradgrind, shocked by the
@@ -269,13 +269,13 @@ Never!  For shame on you!  My dear boy knows, and will give _you_ to
 know, that though he come of humble parents, he come of parents that
 loved him as dear as the best could, and never thought it hardship on
 themselves to pinch a bit that he might write and cipher beautiful, and
-I’ve his books at home to show it!  Aye, have I!’ said Mrs. Pegler, with
-indignant pride.  ‘And my dear boy knows, and will give _you_ to know,
+I’ve his books at [[Home|home]] to show it!  Aye, have I!’ said Mrs. Pegler, with
+indignant [[Pride|pride]].  ‘And my dear boy knows, and will give _you_ to know,
 sir, that after his beloved father died, when he was eight years old, his
 mother, too, could pinch a bit, as it was her duty and her pleasure and
-her pride to do it, to help him out in life, and put him ’prentice.  And
+her [[Pride|pride]] to do it, to help him out in life, and put him ’prentice.  And
 a steady lad he was, and a kind master he had to lend him a hand, and
-well he worked his own way forward to be rich and thriving.  And _I_’ll
+[[Well|well]] he worked his own way forward to be rich and thriving.  And _I_’ll
 give you to know, sir—for this my dear boy won’t—that though his mother
 kept but a little village shop, he never forgot her, but pensioned me on
 thirty pound a year—more than I want, for I put by out of it—only making
@@ -284,8 +284,8 @@ about him, and not trouble him.  And I never have, except with looking at
 him once a year, when he has never knowed it.  And it’s right,’ said poor
 old Mrs. Pegler, in affectionate championship, ‘that I _should_ keep down
 in my own part, and I have no doubts that if I was here I should do a
-many unbefitting things, and I am well contented, and I can keep my pride
-in my Josiah to myself, and I can love for love’s own sake!  And I am
+many unbefitting things, and I am [[Well|well]] contented, and I can keep my [[Pride|pride]]
+in my Josiah to myself, and I can [[Love|love]] for [[Love|love]]’s own sake!  And I am
 ashamed of you, sir,’ said Mrs. Pegler, lastly, ‘for your slanders and
 suspicions.  And I never stood here before, nor never wanted to stand
 here when my dear son said no.  And I shouldn’t be here now, if it hadn’t
@@ -306,7 +306,7 @@ whether they’re satisfied or not, perhaps they’ll be so good as to
 disperse.  I’m not bound to deliver a lecture on my family affairs, I
 have not undertaken to do it, and I’m not a going to do it.  Therefore
 those who expect any explanation whatever upon that branch of the
-subject, will be disappointed—particularly Tom Gradgrind, and he can’t
+subject, will be disappointed—particularly [[Tom Gradgrind]], and he can’t
 know it too soon.  In reference to the Bank robbery, there has been a
 mistake made, concerning my mother.  If there hadn’t been
 over-officiousness it wouldn’t have been made, and I hate
@@ -315,8 +315,8 @@ over-officiousness at all times, whether or no. Good evening!’
 Although Mr. Bounderby carried it off in these terms, holding the door
 open for the company to depart, there was a blustering sheepishness upon
 him, at once extremely crestfallen and superlatively absurd.  Detected as
-the Bully of humility, who had built his windy reputation upon lies, and
-in his boastfulness had put the honest truth as far away from him as if
+the Bully of [[Humility|humility]], who had built his windy reputation upon lies, and
+in his boastfulness had put the honest [[Truth|truth]] as far away from him as if
 he had advanced the mean claim (there is no meaner) to tack himself on to
 a pedigree, he cut a most ridiculous figure.  With the people filing off
 at the door he held, who he knew would carry what had passed to the whole
@@ -324,22 +324,22 @@ town, to be given to the four winds, he could not have looked a Bully
 more shorn and forlorn, if he had had his ears cropped.  Even that
 unlucky female, Mrs. Sparsit, fallen from her pinnacle of exultation into
 the Slough of Despond, was not in so bad a plight as that remarkable man
-and self-made Humbug, Josiah Bounderby of Coketown.
+and [[Self|self]]-made Humbug, [[Josiah Bounderby]] of Coketown.
 
 Rachael and Sissy, leaving Mrs. Pegler to occupy a bed at her son’s for
-that night, walked together to the gate of Stone Lodge and there parted.
+that [[Night|night]], walked together to the gate of Stone Lodge and there parted.
 Mr. Gradgrind joined them before they had gone very far, and spoke with
-much interest of Stephen Blackpool; for whom he thought this signal
-failure of the suspicions against Mrs. Pegler was likely to work well.
+much interest of [[Stephen Blackpool]]; for whom he thought this signal
+failure of the suspicions against Mrs. Pegler was likely to work [[Well|well]].
 
 As to the whelp; throughout this scene as on all other late occasions, he
 had stuck close to Bounderby.  He seemed to feel that as long as
 Bounderby could make no discovery without his knowledge, he was so far
 safe.  He never visited his sister, and had only seen her once since she
-went home: that is to say on the night when he still stuck close to
+went [[Home|home]]: that is to say on the [[Night|night]] when he still stuck close to
 Bounderby, as already related.
 
-There was one dim unformed fear lingering about his sister’s mind, to
+There was one dim unformed [[Fear|fear]] lingering about his sister’s mind, to
 which she never gave utterance, which surrounded the graceless and
 ungrateful boy with a dreadful mystery.  The same dark possibility had
 presented itself in the same shapeless guise, this very day, to Sissy,
@@ -349,13 +349,13 @@ harbouring any suspicion of her brother in connexion with the robbery,
 she and Sissy had held no confidence on the subject, save in that one
 interchange of looks when the unconscious father rested his gray head on
 his hand; but it was understood between them, and they both knew it.
-This other fear was so awful, that it hovered about each of them like a
-ghostly shadow; neither daring to think of its being near herself, far
+This other [[Fear|fear]] was so awful, that it hovered about each of them like a
+ghostly [[Shadow|shadow]]; neither daring to think of its being near herself, far
 less of its being near the other.
 
 And still the forced spirit which the whelp had plucked up, throve with
-him.  If Stephen Blackpool was not the thief, let him show himself.  Why
+him.  If [[Stephen Blackpool]] was not the thief, let him show himself.  Why
 didn’t he?
 
-Another night.  Another day and night.  No Stephen Blackpool.  Where was
+Another [[Night|night]].  Another day and [[Night|night]].  No [[Stephen Blackpool]].  Where was
 the man, and why did he not come back?

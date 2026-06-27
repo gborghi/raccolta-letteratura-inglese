@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 29 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 29 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,14 +17,14 @@ tags:
 CHAPTER 29
 
 Of the Proceedings of Nicholas, and certain Internal Divisions in the
-Company of Mr. Vincent Crummles
+Company of Mr. [[Vincent Crummles]]
 
 
-The unexpected success and favour with which his experiment at
+The unexpected [[success]] and favour with which his experiment at
 Portsmouth had been received, induced Mr. Crummles to prolong his stay in
 that town for a fortnight beyond the period he had originally assigned
-for the duration of his visit, during which time Nicholas personated a
-vast variety of characters with undiminished success, and attracted so
+for the duration of his visit, during which [[Time|time]] Nicholas personated a
+vast variety of characters with undiminished [[success]], and attracted so
 many people to the theatre who had never been seen there before, that
 a benefit was considered by the manager a very promising speculation.
 Nicholas assenting to the terms proposed, the benefit was had, and by it
@@ -33,71 +33,71 @@ he realised no less a sum than twenty pounds.
 Possessed of this unexpected wealth, his first act was to enclose
 to honest John Browdie the amount of his friendly loan, which he
 accompanied with many expressions of gratitude and esteem, and many
-cordial wishes for his matrimonial happiness. To Newman Noggs he
+cordial wishes for his matrimonial happiness. To [[Newman Noggs]] he
 forwarded one half of the sum he had realised, entreating him to take
 an opportunity of handing it to Kate in secret, and conveying to her the
-warmest assurances of his love and affection. He made no mention of the
+warmest assurances of his [[Love|love]] and affection. He made no mention of the
 way in which he had employed himself; merely informing Newman that
 a letter addressed to him under his assumed name at the Post Office,
 Portsmouth, would readily find him, and entreating that worthy friend to
 write full particulars of the situation of his mother and sister, and
-an account of all the grand things that Ralph Nickleby had done for them
-since his departure from London.
+an account of all the grand things that [[Ralph Nickleby]] had done for them
+since his departure from [[London]].
 
-‘You are out of spirits,’ said Smike, on the night after the letter had
+‘You are out of spirits,’ said [[Smike]], on the [[Night|night]] after the letter had
 been dispatched.
 
 ‘Not I!’ rejoined Nicholas, with assumed gaiety, for the confession
-would have made the boy miserable all night; ‘I was thinking about my
-sister, Smike.’
+would have made the boy miserable all [[Night|night]]; ‘I was thinking about my
+sister, [[Smike]].’
 
 ‘Sister!’
 
 ‘Ay.’
 
-‘Is she like you?’ inquired Smike.
+‘Is she like you?’ inquired [[Smike]].
 
 ‘Why, so they say,’ replied Nicholas, laughing, ‘only a great deal
 handsomer.’
 
-‘She must be VERY beautiful,’ said Smike, after thinking a little while
+‘She must be VERY beautiful,’ said [[Smike]], after thinking a little while
 with his hands folded together, and his eyes bent upon his friend.
 
-‘Anybody who didn’t know you as well as I do, my dear fellow, would say
+‘Anybody who didn’t know you as [[Well|well]] as I do, my dear fellow, would say
 you were an accomplished courtier,’ said Nicholas.
 
-‘I don’t even know what that is,’ replied Smike, shaking his head.
+‘I don’t even know what that is,’ replied [[Smike]], shaking his head.
 ‘Shall I ever see your sister?’
 
 ‘To be sure,’ cried Nicholas; ‘we shall all be together one of these
-days--when we are rich, Smike.’
+days--when we are rich, [[Smike]].’
 
 ‘How is it that you, who are so kind and good to me, have nobody to be
-kind to you?’ asked Smike. ‘I cannot make that out.’
+kind to you?’ asked [[Smike]]. ‘I cannot make that out.’
 
 ‘Why, it is a long story,’ replied Nicholas, ‘and one you would
-have some difficulty in comprehending, I fear. I have an enemy--you
+have some difficulty in comprehending, I [[Fear|fear]]. I have an enemy--you
 understand what that is?’
 
-‘Oh, yes, I understand that,’ said Smike.
+‘Oh, yes, I understand that,’ said [[Smike]].
 
-‘Well, it is owing to him,’ returned Nicholas. ‘He is rich, and not so
+‘[[Well]], it is owing to him,’ returned Nicholas. ‘He is rich, and not so
 easily punished as YOUR old enemy, Mr. Squeers. He is my uncle, but he is
-a villain, and has done me wrong.’
+a [[Villain|villain]], and has done me wrong.’
 
-‘Has he though?’ asked Smike, bending eagerly forward. ‘What is his
+‘Has he though?’ asked [[Smike]], bending eagerly forward. ‘What is his
 name? Tell me his name.’
 
-‘Ralph--Ralph Nickleby.’
+‘Ralph--[[Ralph Nickleby]].’
 
-‘Ralph Nickleby,’ repeated Smike. ‘Ralph. I’ll get that name by heart.’
+‘[[Ralph Nickleby]],’ repeated [[Smike]]. ‘Ralph. I’ll get that name by heart.’
 
 He had muttered it over to himself some twenty times, when a loud knock
 at the door disturbed him from his occupation. Before he could open it,
 Mr. Folair, the pantomimist, thrust in his head.
 
 Mr. Folair’s head was usually decorated with a very round hat, unusually
-high in the crown, and curled up quite tight in the brims. On the
+high in the [[Crown|crown]], and curled up quite tight in the brims. On the
 present occasion he wore it very much on one side, with the back part
 forward in consequence of its being the least rusty; round his neck he
 wore a flaming red worsted comforter, whereof the straggling ends peeped
@@ -141,7 +141,7 @@ having his nose pulled in the presence of the company.
 as he has invited two or three professional friends to witness the
 ceremony, and cannot disappoint them upon any account whatever.
 
-“PORTSMOUTH, TUESDAY NIGHT.”
+“PORTSMOUTH, TUESDAY [[Night|NIGHT]].”
 
 Indignant as he was at this impertinence, there was something so
 exquisitely absurd in such a cartel of defiance, that Nicholas was

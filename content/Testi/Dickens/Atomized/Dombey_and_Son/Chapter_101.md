@@ -18,18 +18,18 @@ CHAPTER XLV.
 The Trusty Agent
 
 
-Edith went out alone that day, and returned home early. It was but a
-few minutes after ten o’clock, when her carriage rolled along the
+Edith went out [[Alone|alone]] that day, and returned [[Home|home]] early. It was but a
+few minutes after ten o’[[Clock|clock]], when her carriage rolled along the
 street in which she lived.
 
 There was the same enforced composure on her face, that there had been
 when she was dressing; and the wreath upon her head encircled the same
 cold and steady brow. But it would have been better to have seen its
-leaves and flowers reft into fragments by her passionate hand, or
+[[Leaves|leaves]] and [[Flowers|flowers]] reft into fragments by her passionate hand, or
 rendered shapeless by the fitful searches of a throbbing and bewildered
 brain for any resting-place, than adorning such tranquillity. So
 obdurate, so unapproachable, so unrelenting, one would have thought
-that nothing could soften such a woman’s nature, and that everything in
+that nothing could soften such a woman’s [[Nature|nature]], and that everything in
 life had hardened it.
 
 Arrived at her own door, she was alighting, when some one coming
@@ -39,15 +39,15 @@ she then knew whose arm it was.
 
 “How is your patient, Sir?” she asked, with a curled lip.
 
-“He is better,” returned Carker. “He is doing very well. I have left
-him for the night.”
+“He is better,” returned Carker. “He is doing very [[Well|well]]. I have left
+him for the [[Night|night]].”
 
 She bent her head, and was passing up the staircase, when he followed
-and said, speaking at the bottom:
+and said, speaking at the [[Bottom|bottom]]:
 
 “Madam! May I beg the favour of a minute’s audience?”
 
-She stopped and turned her eyes back “It is an unseasonable time, Sir,
+She stopped and turned her eyes back “It is an unseasonable [[Time|time]], Sir,
 and I am fatigued. Is your business urgent?”
 
 “It is very urgent, returned Carker. “As I am so fortunate as to have
@@ -62,7 +62,7 @@ how beautiful she was.
 “In the morning room, Ma’am.”
 
 “Show the way there!” Turning her eyes again on the attentive gentleman
-at the bottom of the stairs, and informing him with a slight motion of
+at the [[Bottom|bottom]] of the stairs, and informing him with a slight motion of
 her head, that he was at liberty to follow, she passed on.
 
 “I beg your pardon! Madam! Mrs Dombey!” cried the soft and nimble
@@ -70,7 +70,7 @@ Carker, at her side in a moment. “May I be permitted to entreat that
 Miss Dombey is not present?”
 
 She confronted him, with a quick look, but with the same
-self-possession and steadiness.
+[[Self|self]]-possession and steadiness.
 
 “I would spare Miss Dombey,” said Carker, in a low voice, “the
 knowledge of what I have to say. At least, Madam, I would leave it to
@@ -81,7 +81,7 @@ monstrous in me if I did otherwise.”
 She slowly withdrew her eyes from his face, and turning to the servant,
 said, “Some other room.” He led the way to a drawing-room, which he
 speedily lighted up and then left them. While he remained, not a word
-was spoken. Edith enthroned herself upon a couch by the fire; and Mr
+was spoken. Edith enthroned herself upon a couch by the [[Fire|fire]]; and Mr
 Carker, with his hat in his hand and his eyes bent upon the carpet,
 stood before her, at some little distance.
 
@@ -89,7 +89,7 @@ stood before her, at some little distance.
 you to hear me.”
 
 “To be addressed by Mrs Dombey,” he returned, “even in accents of
-unmerited reproach, is an honour I so greatly esteem, that although I
+unmerited reproach, is an [[Honour|honour]] I so greatly esteem, that although I
 were not her servant in all things, I should defer to such a wish, most
 readily.”
 
@@ -98,7 +98,7 @@ Carker raised his eyes, as if he were going to counterfeit surprise,
 but she met them, and stopped him, if such were his intention; “with
 any message to me, do not attempt to deliver it, for I will not receive
 it. I need scarcely ask you if you are come on such an errand. I have
-expected you some time.”
+expected you some [[Time|time]].”
 
 “It is my misfortune,” he replied, “to be here, wholly against my will,
 for such a purpose. Allow me to say that I am here for two purposes.
@@ -117,8 +117,8 @@ speaking with a rising passion that inflated her proud nostril and her
 swelling neck, and stirred the delicate white down upon a robe she
 wore, thrown loosely over shoulders that could bear its snowy
 neighbourhood, “Why do you present yourself to me, as you have done,
-and speak to me of love and duty to my husband, and pretend to think
-that I am happily married, and that I honour him? How dare you venture
+and speak to me of [[Love|love]] and duty to my husband, and pretend to think
+that I am happily married, and that I [[Honour|honour]] him? How dare you venture
 so to affront me, when you know—_I_ do not know better, Sir: I have
 seen it in your every glance, and heard it in your every word—that in
 place of affection between us there is aversion and contempt, and that
@@ -128,7 +128,7 @@ and to my sense of the insult you have put upon me, I should have slain
 you!”
 
 She had asked him why he did this. Had she not been blinded by her
-pride and wrath, and self-humiliation,—which she was, fiercely as she
+[[Pride|pride]] and wrath, and [[Self|self]]-humiliation,—which she was, fiercely as she
 bent her gaze upon him,—she would have seen the answer in his face. To
 bring her to this declaration.
 
@@ -172,7 +172,7 @@ not believe—”
 
 A haughty smile gave him reason to observe that he might repeat this.
 
-“I say, which I did not believe,—the time was likely to come, when such
+“I say, which I did not believe,—the [[Time|time]] was likely to come, when such
 an understanding as we have now arrived at, would be serviceable.”
 
 “Serviceable to whom, Sir?” she demanded scornfully.
@@ -188,13 +188,13 @@ commendation,’ and to speak in that tone of disparagement, even of him:
 being his chief counsellor and flatterer!”
 
 “Counsellor,—yes,” said Carker. “Flatterer,—no. A little reservation I
-fear I must confess to. But our interest and convenience commonly
+[[Fear|fear]] I must confess to. But our interest and convenience commonly
 oblige many of us to make professions that we cannot feel. We have
 partnerships of interest and convenience, friendships of interest and
 convenience, dealings of interest and convenience, marriages of
 interest and convenience, every day.”
 
-She bit her blood-red lip; but without wavering in the dark, stern
+She bit her [[Blood|blood]]-red lip; but without wavering in the dark, stern
 watch she kept upon him.
 
 “Madam,” said Mr Carker, sitting down in a chair that was near her,
@@ -216,7 +216,7 @@ possible to live with Mr Dombey as his wife, at once without submitting
 to him, and without coming into such violent collision with him. But,
 Madam, you did not know Mr Dombey (as you have since ascertained), when
 you thought that. You did not know how exacting and how proud he is, or
-how he is, if I may say so, the slave of his own greatness, and goes
+how he is, if I may say so, the slave of his own [[Greatness|greatness]], and goes
 yoked to his own triumphal car like a beast of burden, with no idea on
 earth but that it is behind him and is to be drawn on, over everything
 and through everything.”
@@ -255,7 +255,7 @@ would not have been about him; and it has always been, from the
 beginning, the very staple of his life. Mr Dombey has had to deal, in
 short, with none but submissive and dependent persons, who have bowed
 the knee, and bent the neck, before him. He has never known what it is
-to have angry pride and strong resentment opposed to him.”
+to have angry [[Pride|pride]] and strong resentment opposed to him.”
 
 “But he will know it now!” she seemed to say; though her lips did not
 part, nor her eyes falter. He saw the soft down tremble once again, and
@@ -269,7 +269,7 @@ consequence of the warp in his mind, that he—can I give a better
 instance than this!—he sincerely believes (you will excuse the folly of
 what I am about to say; it not being mine) that his severe expression
 of opinion to his present wife, on a certain special occasion she may
-remember, before the lamented death of Mrs Skewton, produced a
+remember, before the lamented [[Death|death]] of Mrs Skewton, produced a
 withering effect, and for the moment quite subdued her!”
 
 Edith laughed. How harshly and unmusically need not be described. It is
@@ -317,7 +317,7 @@ still were, regarding each other as before; “I am in a difficulty here.
 You have told me you will receive no message, and you have forbidden me
 to return to that subject; but the two subjects are so closely
 entwined, I find, that unless you will accept this vague caution from
-one who has now the honour to possess your confidence, though the way
+one who has now the [[Honour|honour]] to possess your confidence, though the way
 to it has been through your displeasure, I must violate the injunction
 you have laid upon me.”
 
@@ -353,12 +353,12 @@ to say what unforeseen consequences might arise, or how soon, from your
 being unacquainted with his state of mind. I understand Miss Dombey is
 concerned, now, at the dismissal of her old servant, which is likely to
 have been a minor consequence in itself. You don’t blame me for
-requesting that Miss Dombey might not be present. May I hope so?”
+requesting that Miss Dombey might not be present. May I [[Hope|hope]] so?”
 
 “I do not. Please to leave me, Sir.”
 
 “I knew that your regard for the young lady, which is very sincere and
-strong, I am well persuaded, would render it a great unhappiness to
+strong, I am [[Well|well]] persuaded, would render it a great unhappiness to
 you, ever to be a prey to the reflection that you had injured her
 position and ruined her future hopes,” said Carker hurriedly, but
 eagerly.
@@ -376,7 +376,7 @@ to lead him to suppose that I have deferred doing so, for want of
 opportunity, or for any other reason. It will be necessary that you
 should enable me to consult with you very soon.”
 
-“At any time but now,” she answered.
+“At any [[Time|time]] but now,” she answered.
 
 “You will understand, when I wish to see you, that Miss Dombey is not
 to be present; and that I seek an interview as one who has the
@@ -394,23 +394,23 @@ reached the door, said:
 “I am forgiven, and have explained my fault. May I—for Miss Dombey’s
 sake, and for my own—take your hand before I go?”
 
-She gave him the gloved hand she had maimed last night. He took it in
+She gave him the gloved hand she had maimed last [[Night|night]]. He took it in
 one of his, and kissed it, and withdrew. And when he had closed the
 door, he waved the hand with which he had taken hers, and thrust it in
 his breast.
 
-Edith saw no one that night, but locked her door, and kept herself
-alone.
+Edith saw no one that [[Night|night]], but locked her door, and kept herself
+[[Alone|alone]].
 
 She did not weep; she showed no greater agitation, outwardly, than when
-she was riding home. She laid as proud a head upon her pillow as she
-had borne in her carriage; and her prayer ran thus:
+she was riding [[Home|home]]. She laid as proud a head upon her pillow as she
+had borne in her carriage; and her [[Prayer|prayer]] ran thus:
 
-“May this man be a liar! For if he has spoken truth, she is lost to me,
-and I have no hope left!”
+“May this man be a liar! For if he has spoken [[Truth|truth]], she is lost to me,
+and I have no [[Hope|hope]] left!”
 
-This man, meanwhile, went home musing to bed, thinking, with a dainty
+This man, meanwhile, went [[Home|home]] musing to bed, thinking, with a dainty
 pleasure, how imperious her passion was, how she had sat before him in
-her beauty, with the dark eyes that had never turned away but once; how
+her [[Beauty|beauty]], with the dark eyes that had never turned away but once; how
 the white down had fluttered; how the bird’s feathers had been strewn
 upon the ground.

@@ -16,7 +16,7 @@ tags:
 
 "Lost Leader, The," 46.
 
-"Lover's Quarrel, A," 50.
+"[[Lover]]'s Quarrel, A," 50.
 
 "Luigi," 45.
 
@@ -31,11 +31,11 @@ Maeterlinck, 164, 184.
 
 Manning, Cardinal, 91.
 
-Mary Queen of Scots, 29.
+Mary [[Queen]] of Scots, 29.
 
 "Master Hugues of Saxe-Gotha," 147.
 
-"May and Death." 21.
+"May and [[Death]]." 21.
 
 Mazzini, 89.
 
@@ -46,7 +46,7 @@ Mill, John Stuart, 26, 56.
 
 Milsand, 119.
 
-Milton, 137.
+[[Milton]], 137.
 
 Monckton-Milnes, 26, 100.
 
@@ -65,7 +65,7 @@ Napoleon, 42, 89.
 
 Napoleon III., 56, 92, 121.
 
-"Never the Time and the Place," 127.
+"Never the [[Time]] and the Place," 127.
 
 Newman, Cardinal, 193.
 
@@ -74,7 +74,7 @@ Norwood, 18.
 
 O
 
-"Ode on the Intimations of Immortality" (Wordsworth), 136.
+"Ode on the Intimations of [[Immortality]]" (Wordsworth), 136.
 
 "Ode on a Grecian Urn" (Keats), 137.
 
@@ -93,11 +93,11 @@ _Paracelsus_, 22, 25, 26, 41, 47, 158.
 
 "Paracelsus," 24, 25.
 
-Painting, Poems on, 83.
+Painting, [[Poems]] on, 83.
 
 Palgrave, Francis, 117.
 
-Paris, 94.
+[[Paris]], 94.
 
 _Parleyings with certain Persons of Importance in their Day_, 22, 128, 158.
 
@@ -121,7 +121,7 @@ Pius IX., Church under, 88.
 
 Plato, 21, 23.
 
-Poe, Edgar Allan, 144.
+Poe, [[Edgar]] Allan, 144.
 
 Poetry, Pessimistic school of, 130.
 
@@ -135,7 +135,7 @@ _Prince Hohenstiel-Schwangau_, 121-122.
 
 _Princess, The_ (Tennyson), 148.
 
-"Prometheus Unbound" (Shelley), 137.
+"[[Prometheus]] Unbound" (Shelley), 137.
 
 Prussia, 88, 89.
 
@@ -148,7 +148,7 @@ R
 
 "Rabbi Ben Ezra," 201.
 
-_Red-Cotton Night-Cap Country_, 122-124.
+_Red-Cotton [[Night]]-Cap Country_, 122-124.
 
 _Return of the Druses, The_, 51-53.
 
@@ -168,7 +168,7 @@ Royalists, 30.
 
 Ruskin, 16, 55, 56, 91, 115.
 
-Russia, 88.
+[[Russia]], 88.
 
 
 S
@@ -185,7 +185,7 @@ Shakespeare Society, 129.
 
 Sharp, Mr. William, 133.
 
-Shaw, Mr. Bernard, 165.
+[[Shaw]], Mr. Bernard, 165.
 
 Shelley, 15, 16, 17,19, 56, 136, 141, 143.
 
@@ -197,7 +197,7 @@ Silverthorne (Browning's cousin), 21.
 
 "Sludge," 51, 52, 150, 189, 200.
 
-Smith, Elder (publishers), 110.
+[[smith|Smith]], Elder (publishers), 110.
 
 "Soliloquy of the Spanish Cloister, The," 47.
 
@@ -257,9 +257,9 @@ University College, 14.
 V
 
 
-Venice, 131.
+[[Venice]], 131.
 
-Victor of Sardinia, King, 23.
+Victor of Sardinia, [[King]], 23.
 
 Vogler, Abt, 23.
 
@@ -273,7 +273,7 @@ Watts, Mr. G.F., 112.
 
 Whitman, Walt, 21, 43, 49, 114, 165, 184.
 
-"Why I am a Liberal" (sonnet), 86.
+"Why I am a Liberal" ([[Sonnet|sonnet]]), 86.
 
 Wiedermann, William, 12.
 
@@ -314,13 +314,13 @@ _Crown 8vo. Gilt tops. Flat backs. 2s. net each._
     CRABBE. By the Rev. Canon AINGER.
     JANE AUSTEN. By the Rev. Canon BEECHING.
     HOBBES. By Sir LESLIE STEPHEN, K.C.B.
-    ADAM SMITH. By FRANCIS W. HIRST.
-    SYDNEY SMITH. By GEORGE W.E. RUSSELL.
+    ADAM [[smith|SMITH]]. By FRANCIS W. HIRST.
+    SYDNEY [[smith|SMITH]]. By GEORGE W.E. RUSSELL.
     FANNY BURNEY. By AUSTIN DOBSON.
-    JEREMY TAYLOR. By EDMUND GOSSE.
+    JEREMY TAYLOR. By [[Edmund|EDMUND]] GOSSE.
     ANDREW MARVELL. By AUGUSTINE BIRRELL, K.C.
-    DANTE GABRIEL ROSSETTI. By A.C. BENSON.
-    MARIA EDGEWORTH. By the Hon. EMILY LAWLESS.
+    [[Dante|DANTE]] GABRIEL ROSSETTI. By A.C. BENSON.
+    [[Maria|MARIA]] EDGEWORTH. By the Hon. EMILY LAWLESS.
     MRS. GASKELL. By CLEMENT SHORTER.
     THOMAS MOORE. By STEPHEN GWYNN.
 
@@ -332,7 +332,7 @@ _Library Edition. Uniform with the above. 2s. net each._
 
     ADDISON. By W.J. COURTHOPE.
     BACON. By Dean CHURCH.
-    BENTLEY. By Sir RICHARD JEBB.
+    BENTLEY. By Sir [[Richard|RICHARD]] JEBB.
     BUNYAN. By J.A. FROUDE.
     BURKE. By JOHN MORLEY.
     BURNS. By Principal SHAIRP.
@@ -340,7 +340,7 @@ _Library Edition. Uniform with the above. 2s. net each._
     CARLYLE. By Professor NICHOL.
     CHAUCER. By Dr. A.W. WARD.
     COLERIDGE. By H.D. TRAILL.
-    COWPER. By GOLDWIN SMITH.
+    COWPER. By GOLDWIN [[smith|SMITH]].
     DEFOE. By W. MINTO.
     DEQUINCEY. By Prof. MASSON.
     DICKENS. By Dr. A.W. WARD.
@@ -348,16 +348,16 @@ _Library Edition. Uniform with the above. 2s. net each._
     FIELDING. By AUSTIN DOBSON.
     GIBBON. By J.C. MORISON.
     GOLDSMITH. By W. BLACK.
-    GRAY. By EDMUND GOSSE.
+    GRAY. By [[Edmund|EDMUND]] GOSSE.
     HAWTHORNE. By HENRY JAMES.
     HUME. By Prof. HUXLEY, F.R.S.
     JOHNSON. By Sir LESLIE STEPHEN, K.C.B.
     KEATS. By SIDNEY COLVIN.
-    LAMB, CHARLES. By Canon AINGER.
+    [[Lamb|LAMB]], CHARLES. By Canon AINGER.
     LANDOR. By SIDNEY COLVIN.
     LOCKE. By THOMAS FOWLER.
     MACAULAY. By J.C. MORISON.
-    MILTON. By MARK PATTISON.
+    [[Milton|MILTON]]. By MARK PATTISON.
     POPE. By Sir LESLIE STEPHEN, K.C.B.
     SCOTT. By R.H. HUTTON.
     SHELLEY. By J.A. SYMONDS.
@@ -370,13 +370,13 @@ _Library Edition. Uniform with the above. 2s. net each._
     THACKERAY. By ANTHONY TROLLOPE.
     WORDSWORTH. By F.W.H. MYERS.
 
-  MACMILLAN AND CO., LTD., LONDON.
+  MACMILLAN AND CO., LTD., [[London|LONDON]].
 
        *       *       *       *       *
 
 ENGLISH MEN OF ACTION SERIES.
 
-Crown 8vo. Cloth. With Portraits. 2s. 6d. each.
+[[Crown]] 8vo. Cloth. With Portraits. 2s. 6d. each.
 
 
     CAMPBELL (COLIN). By ARCHIBALD FORBES.
@@ -386,18 +386,18 @@ Crown 8vo. Cloth. With Portraits. 2s. 6d. each.
     DRAKE. By JULIAN CORBETT.
     DUNDONALD. By the Hon. J.W. FORTESCUE.
     GORDON (General). By Sir W. BUTLER.
-    HASTINGS (Warren). By Sir A. LYALL.
+    [[Hastings|HASTINGS]] (Warren). By Sir A. LYALL.
     HAVELOCK (Sir Henry). By A. FORBES.
-    HENRY V. By the Rev. A.J. CHURCH.
-    LAWRENCE (Lord). By Sir RICHARD TEMPLE.
+    [[Henry V|HENRY V]]. By the Rev. A.J. CHURCH.
+    LAWRENCE (Lord). By Sir [[Richard|RICHARD]] TEMPLE.
     LIVINGSTONE. By THOMAS HUGHES.
     MONK. By JULIAN CORBETT.
-    MONTROSE. By MOWBRAY MORRIS.
+    MONTROSE. By [[Mowbray|MOWBRAY]] MORRIS.
     NAPIER (Sir Charles). By Colonel Sir W. BUTLER.
     NELSON. By Prof. J.K. LAUGHTON.
     PETERBOROUGH. By W. STEBBING.
     RODNEY. By DAVID HANNAY.
     STRAFFORD. By H.D. TRAILL.
-    WARWICK, the King-Maker By C.W. OMAN.
+    WARWICK, the [[King]]-Maker By C.W. OMAN.
     WELLINGTON. By GEORGE HOOPER.
     WOLFE. By A.G. BRADLEY.

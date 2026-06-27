@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 4"
+title: "[[TheCrimesOfEngland]] — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"

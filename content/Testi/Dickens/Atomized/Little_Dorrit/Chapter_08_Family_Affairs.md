@@ -17,7 +17,7 @@ tags:
 CHAPTER 5. Family Affairs
 
 
-As the city clocks struck nine on Monday morning, Mrs Clennam was
+As the [[City|city]] clocks struck nine on Monday morning, [[Mrs Clennam]] was
 wheeled by Jeremiah Flintwinch of the cut-down aspect to her tall
 cabinet. When she had unlocked and opened it, and had settled herself
 at its desk, Jeremiah withdrew--as it might be, to hang himself more
@@ -26,8 +26,8 @@ effectually--and her son appeared.
 ‘Are you any better this morning, mother?’
 
 She shook her head, with the same austere air of luxuriousness that she
-had shown over-night when speaking of the weather. ‘I shall never be
-better any more. It is well for me, Arthur, that I know it and can bear
+had shown over-[[Night|night]] when speaking of the weather. ‘I shall never be
+better any more. It is [[Well|well]] for me, [[arthur|Arthur]], that I know it and can bear
 it.’
 
 Sitting with her hands laid separately upon the desk, and the tall
@@ -43,7 +43,7 @@ thoughts.
 ‘Shall I speak of our affairs, mother? Are you inclined to enter upon
 business?’
 
-‘Am I inclined, Arthur? Rather, are you? Your father has been dead a
+‘Am I inclined, [[arthur|Arthur]]? Rather, are you? Your father has been dead a
 year and more. I have been at your disposal, and waiting your pleasure,
 ever since.’
 
@@ -61,30 +61,30 @@ of either it afforded her.
 
 ‘Besides, mother, you being sole executrix, and having the direction and
 management of the estate, there remained little business, or I might say
-none, that I could transact, until you had had time to arrange matters
+none, that I could transact, until you had had [[Time|time]] to arrange matters
 to your satisfaction.’
 
 ‘The accounts are made out,’ she returned. ‘I have them here. The
 vouchers have all been examined and passed. You can inspect them when
-you like, Arthur; now, if you please.’
+you like, [[arthur|Arthur]]; now, if you please.’
 
 ‘It is quite enough, mother, to know that the business is completed.
 Shall I proceed then?’
 
 ‘Why not?’ she said, in her frozen way.
 
-‘Mother, our House has done less and less for some years past, and our
+‘Mother, our [[house|House]] has done less and less for some years past, and our
 dealings have been progressively on the decline. We have never shown
 much confidence, or invited much; we have attached no people to us; the
-track we have kept is not the track of the time; and we have been
+track we have kept is not the track of the [[Time|time]]; and we have been
 left far behind. I need not dwell on this to you, mother. You know it
 necessarily.’
 
 ‘I know what you mean,’ she answered, in a qualified tone.
 
-‘Even this old house in which we speak,’ pursued her son, ‘is an
-instance of what I say. In my father’s earlier time, and in his uncle’s
-time before him, it was a place of business--really a place of business,
+‘Even this old [[house]] in which we speak,’ pursued her son, ‘is an
+instance of what I say. In my father’s earlier [[Time|time]], and in his uncle’s
+[[Time|time]] before him, it was a place of business--really a place of business,
 and business resort. Now, it is a mere anomaly and incongruity here, out
 of date and out of purpose. All our consignments have long been made to
 Rovinghams’ the commission-merchants; and although, as a check upon
@@ -94,7 +94,7 @@ have influenced my father’s fortunes equally, if you had lived in any
 private dwelling: would they not?’
 
 ‘Do you consider,’ she returned, without answering his question, ‘that
-a house serves no purpose, Arthur, in sheltering your infirm and
+a [[house]] serves no purpose, [[arthur|Arthur]], in sheltering your infirm and
 afflicted--justly infirm and righteously afflicted--mother?’
 
 ‘I was speaking only of business purposes.’
@@ -112,8 +112,8 @@ apprehensions that you would--’
 
 ‘You knew I would. You knew _me_,’ she interrupted.
 
-Her son paused for a moment. He had struck fire out of her, and was
-surprised. ‘Well!’ she said, relapsing into stone. ‘Go on. Let me hear.’
+Her son paused for a moment. He had struck [[Fire|fire]] out of her, and was
+surprised. ‘[[Well]]!’ she said, relapsing into stone. ‘Go on. Let me hear.’
 
 ‘You have anticipated, mother, that I decide for my part, to abandon
 the business. I have done with it. I will not take upon myself to advise
@@ -132,17 +132,17 @@ the defaulter whose appeal lay to the tribunal where those severe eyes
 presided. Great need had the rigid woman of her mystical religion,
 veiled in gloom and darkness, with lightnings of cursing, vengeance, and
 destruction, flashing through the sable clouds. Forgive us our debts as
-we forgive our debtors, was a prayer too poor in spirit for her. Smite
+we forgive our debtors, was a [[prayer]] too poor in spirit for her. Smite
 Thou my debtors, Lord, wither them, crush them; do Thou as I would do,
 and Thou shalt have my worship: this was the impious tower of stone she
 built up to scale Heaven.
 
-‘Have you finished, Arthur, or have you anything more to say to me? I
+‘Have you finished, [[arthur|Arthur]], or have you anything more to say to me? I
 think there can be nothing else. You have been short, but full of
 matter!’
 
 ‘Mother, I have yet something more to say. It has been upon my mind,
-night and day, this long time. It is far more difficult to say than what
+[[Night|night]] and day, this long [[Time|time]]. It is far more difficult to say than what
 I have said. That concerned myself; this concerns us all.’
 
 ‘Us all! Who are us all?’
@@ -150,12 +150,12 @@ I have said. That concerned myself; this concerns us all.’
 ‘Yourself, myself, my dead father.’
 
 She took her hands from the desk; folded them in her lap; and sat
-looking towards the fire, with the impenetrability of an old Egyptian
+looking towards the [[Fire|fire]], with the impenetrability of an old Egyptian
 sculpture.
 
 ‘You knew my father infinitely better than I ever knew him; and his
 reserve with me yielded to you. You were much the stronger, mother, and
-directed him. As a child, I knew it as well as I know it now. I knew
+directed him. As a [[Child|child]], I knew it as [[Well|well]] as I know it now. I knew
 that your ascendancy over him was the cause of his going to China to
 take care of the business there, while you took care of it here (though
 I do not even now know whether these were really terms of separation
@@ -172,8 +172,8 @@ his will:
 suspect--’
 
 At the word Suspect, she turned her eyes momentarily upon her son, with
-a dark frown. She then suffered them to seek the fire, as before; but
-with the frown fixed above them, as if the sculptor of old Egypt had
+a dark frown. She then suffered them to seek the [[Fire|fire]], as before; but
+with the frown fixed above them, as if the sculptor of old [[Egypt]] had
 indented it in the hard granite face, to frown for ages.
 
 ‘--that he had any secret remembrance which caused him trouble of
@@ -182,7 +182,7 @@ suggesting that; or ever spoke to him upon it, or ever heard him hint at
 such a thing?’
 
 ‘I do not understand what kind of secret remembrance you mean to infer
-that your father was a prey to,’ she returned, after a silence. ‘You
+that your father was a prey to,’ she returned, after a [[Silence|silence]]. ‘You
 speak so mysteriously.’
 
 ‘Is it possible, mother,’ her son leaned forward to be the nearer to her
@@ -194,9 +194,9 @@ Looking at him wrathfully, she bent herself back in her chair to keep
 him further off, but gave him no reply.
 
 ‘I am deeply sensible, mother, that if this thought has never at any
-time flashed upon you, it must seem cruel and unnatural in me, even in
-this confidence, to breathe it. But I cannot shake it off. Time and
-change (I have tried both before breaking silence) do nothing to wear it
+[[Time|time]] flashed upon you, it must seem cruel and unnatural in me, even in
+this confidence, to breathe it. But I cannot shake it off. [[Time]] and
+change (I have tried both before breaking [[Silence|silence]]) do nothing to wear it
 out.  Remember, I was with my father. Remember, I saw his face when he
 gave the watch into my keeping, and struggled to express that he sent it
 as a token you would understand, to you. Remember, I saw him at the last
@@ -208,10 +208,10 @@ us examine sacredly whether there is any wrong entrusted to us to set
 right. No one can help towards it, mother, but you.’
 
 Still so recoiling in her chair that her overpoised weight moved it,
-from time to time, a little on its wheels, and gave her the appearance
-of a phantom of fierce aspect gliding away from him, she interposed her
+from [[Time|time]] to [[Time|time]], a little on its wheels, and gave her the appearance
+of a [[Phantom|phantom]] of fierce aspect gliding away from him, she interposed her
 left arm, bent at the elbow with the back of her hand towards her face,
-between herself and him, and looked at him in a fixed silence.
+between herself and him, and looked at him in a fixed [[Silence|silence]].
 
 ‘In grasping at money and in driving hard bargains--I have begun, and I
 must speak of such things now, mother--some one may have been grievously
@@ -219,15 +219,15 @@ deceived, injured, ruined. You were the moving power of all this
 machinery before my birth; your stronger spirit has been infused into
 all my father’s dealings for more than two score years. You can set
 these doubts at rest, I think, if you will really help me to discover
-the truth. Will you, mother?’
+the [[Truth|truth]]. Will you, mother?’
 
-He stopped in the hope that she would speak. But her grey hair was not
+He stopped in the [[Hope|hope]] that she would speak. But her grey hair was not
 more immovable in its two folds, than were her firm lips.
 
 ‘If reparation can be made to any one, if restitution can be made to any
 one, let us know it and make it. Nay, mother, if within my means, let
 _me_ make it. I have seen so little happiness come of money; it has
-brought within my knowledge so little peace to this house, or to any one
+brought within my knowledge so little peace to this [[house]], or to any one
 belonging to it, that it is worth less to me than to another. It can buy
 me nothing that will not be a reproach and misery to me, if I am haunted
 by a suspicion that it darkened my father’s last hours with remorse, and
@@ -249,17 +249,17 @@ stroking his face. ‘I thought you would be. I was pretty sure of it.’
 
 ‘Flintwinch!’ said the mother, ‘look at my son. Look at him!’
 
-‘Well, I _am_ looking at him,’ said Flintwinch.
+‘[[Well]], I _am_ looking at him,’ said Flintwinch.
 
 She stretched out the arm with which she had shielded herself, and as
 she went on, pointed at the object of her anger.
 
 ‘In the very hour of his return almost--before the shoe upon his foot is
-dry--he asperses his father’s memory to his mother! Asks his mother
+dry--he asperses his father’s [[Memory|memory]] to his mother! Asks his mother
 to become, with him, a spy upon his father’s transactions through a
 lifetime! Has misgivings that the goods of this world which we have
 painfully got together early and late, with wear and tear and toil and
-self-denial, are so much plunder; and asks to whom they shall be given
+[[Self|self]]-denial, are so much plunder; and asks to whom they shall be given
 up, as reparation and restitution!’
 
 Although she said this raging, she said it in a voice so far from being
@@ -268,7 +268,7 @@ spoke with great distinctness.
 
 ‘Reparation!’ said she. ‘Yes, truly! It is easy for him to talk of
 reparation, fresh from journeying and junketing in foreign lands, and
-living a life of vanity and pleasure. But let him look at me, in prison,
+living a life of [[Vanity|vanity]] and pleasure. But let him look at me, in [[Prison|prison]],
 and in bonds here. I endure without murmuring, because it is appointed
 that I shall so make reparation for my sins. Reparation! Is there none
 in this room? Has there been none here this fifteen years?’
@@ -282,10 +282,10 @@ according to their varying manner, every day.
 ‘Flintwinch, give me that book!’
 
 The old man handed it to her from the table. She put two fingers between
-the leaves, closed the book upon them, and held it up to her son in
+the [[Leaves|leaves]], closed the book upon them, and held it up to her son in
 a threatening way.
 
-‘In the days of old, Arthur, treated of in this commentary, there were
+‘In the days of old, [[arthur|Arthur]], treated of in this commentary, there were
 pious men, beloved of the Lord, who would have cursed their sons for
 less than this: who would have sent them forth, and sent whole nations
 forth, if such had supported them, to be avoided of God and man, and
@@ -293,7 +293,7 @@ perish, down to the baby at the breast. But I only tell you that if you
 ever renew that theme with me, I will renounce you; I will so dismiss
 you through that doorway, that you had better have been motherless from
 your cradle. I will never see or know you more. And if, after all, you
-were to come into this darkened room to look upon me lying dead, my body
+were to come into this darkened room to look upon me lying dead, my [[Body|body]]
 should bleed, if I could make it, when you came near me.’
 
 In part relieved by the intensity of this threat, and in part (monstrous
@@ -305,19 +305,19 @@ silent.
 two, will you let me ask (as I _have_ been called in, and made a third)
 what is all this about?’
 
-‘Take your version of it,’ returned Arthur, finding it left to him to
+‘Take your version of it,’ returned [[arthur|Arthur]], finding it left to him to
 speak, ‘from my mother. Let it rest there. What I have said, was said to
 my mother only.’
 
 ‘Oh!’ returned the old man. ‘From your mother? Take it from your mother?
-Well! But your mother mentioned that you had been suspecting your father.
-That’s not dutiful, Mr Arthur. Who will you be suspecting next?’
+[[Well]]! But your mother mentioned that you had been suspecting your father.
+That’s not dutiful, Mr [[arthur|Arthur]]. Who will you be suspecting next?’
 
-‘Enough,’ said Mrs Clennam, turning her face so that it was addressed
+‘Enough,’ said [[Mrs Clennam]], turning her face so that it was addressed
 for the moment to the old man only. ‘Let no more be said about this.’
 
 ‘Yes, but stop a bit, stop a bit,’ the old man persisted. ‘Let us see
-how we stand. Have you told Mr Arthur that he mustn’t lay offences at
+how we stand. Have you told Mr [[arthur|Arthur]] that he mustn’t lay offences at
 his father’s door? That he has no right to do it? That he has no ground
 to go upon?’
 
@@ -325,9 +325,9 @@ to go upon?’
 
 ‘Ah! Exactly,’ said the old man. ‘You tell him so now. You hadn’t told
 him so before, and you tell him so now. Ay, ay! That’s right! You know I
-stood between you and his father so long, that it seems as if death had
+stood between you and his father so long, that it seems as if [[Death|death]] had
 made no difference, and I was still standing between you. So I will, and
-so in fairness I require to have that plainly put forward. Arthur, you
+so in fairness I require to have that plainly put forward. [[arthur|Arthur]], you
 please to hear that you have no right to mistrust your father, and have
 no ground to go upon.’
 
@@ -335,14 +335,14 @@ He put his hands to the back of the wheeled chair, and muttering to
 himself, slowly wheeled his mistress back to her cabinet. ‘Now,’ he
 resumed, standing behind her: ‘in case I should go away leaving things
 half done, and so should be wanted again when you come to the other half
-and get into one of your flights, has Arthur told you what he means to
+and get into one of your flights, has [[arthur|Arthur]] told you what he means to
 do about the business?’
 
 ‘He has relinquished it.’
 
 ‘In favour of nobody, I suppose?’
 
-Mrs Clennam glanced at her son, leaning against one of the windows. He
+[[Mrs Clennam]] glanced at her son, leaning against one of the windows. He
 observed the look and said, ‘To my mother, of course. She does what she
 pleases.’
 
@@ -350,44 +350,44 @@ pleases.’
 out of the disappointment of my expectations that my son, in the prime
 of his life, would infuse new youth and strength into it, and make it
 of great profit and power, it would be in advancing an old and faithful
-servant. Jeremiah, the captain deserts the ship, but you and I will sink
+servant. Jeremiah, the captain deserts the [[Ship|ship]], but you and I will sink
 or float with it.’
 
 Jeremiah, whose eyes glistened as if they saw money, darted a sudden
 look at the son, which seemed to say, ‘I owe _you_ no thanks for this;
 _you_ have done nothing towards it!’ and then told the mother that he
-thanked her, and that Affery thanked her, and that he would never desert
-her, and that Affery would never desert her. Finally, he hauled up his
-watch from its depths, and said, ‘Eleven. Time for your oysters!’ and with
+thanked her, and that Affery thanked her, and that he would never [[Desert|desert]]
+her, and that Affery would never [[Desert|desert]] her. Finally, he hauled up his
+watch from its depths, and said, ‘Eleven. [[Time]] for your oysters!’ and with
 that change of subject, which involved no change of expression or manner,
 rang the bell.
 
-But Mrs Clennam, resolved to treat herself with the greater rigour for
+But [[Mrs Clennam]], resolved to treat herself with the greater rigour for
 having been supposed to be unacquainted with reparation, refused to
 eat her oysters when they were brought. They looked tempting; eight in
 number, circularly set out on a white plate on a tray covered with a
 white napkin, flanked by a slice of buttered French roll, and a little
-compact glass of cool wine and water; but she resisted all persuasions,
-and sent them down again--placing the act to her credit, no doubt, in
+compact glass of cool wine and [[Water|water]]; but she resisted all persuasions,
+and sent them down again--placing the act to her credit, no [[Doubt|doubt]], in
 her Eternal Day-Book.
 
 This refection of oysters was not presided over by Affery, but by the
 girl who had appeared when the bell was rung; the same who had been in
-the dimly-lighted room last night. Now that he had an opportunity of
-observing her, Arthur found that her diminutive figure, small features,
+the dimly-lighted room last [[Night|night]]. Now that he had an opportunity of
+observing her, [[arthur|Arthur]] found that her diminutive figure, small features,
 and slight spare dress, gave her the appearance of being much younger
 than she was. A woman, probably of not less than two-and-twenty, she
 might have been passed in the street for little more than half that
-age. Not that her face was very youthful, for in truth there was more
+age. Not that her face was very youthful, for in [[Truth|truth]] there was more
 consideration and care in it than naturally belonged to her utmost
 years; but she was so little and light, so noiseless and shy, and
 appeared so conscious of being out of place among the three hard elders,
 that she had all the manner and much of the appearance of a subdued
-child.
+[[Child|child]].
 
 In a hard way, and in an uncertain way that fluctuated between patronage
 and putting down, the sprinkling from a watering-pot and hydraulic
-pressure, Mrs Clennam showed an interest in this dependent. Even in the
+pressure, [[Mrs Clennam]] showed an interest in this dependent. Even in the
 moment of her entrance, upon the violent ringing of the bell, when the
 mother shielded herself with that singular action from the son, Mrs
 Clennam’s eyes had had some individual recognition in them, which seemed
@@ -408,7 +408,7 @@ extraordinary repugnance to dining in company; would never do so, if
 it were possible to escape. Would always plead that she had this bit of
 work to begin first, or that bit of work to finish first; and would, of
 a certainty, scheme and plan--not very cunningly, it would seem, for she
-deceived no one--to dine alone. Successful in this, happy in carrying
+deceived no one--to dine [[Alone|alone]]. Successful in this, happy in carrying
 off her plate anywhere, to make a table of her lap, or a box, or the
 ground, or even as was supposed, to stand on tip-toe, dining moderately
 at a mantel-shelf; the great anxiety of Little Dorrit’s day was set at
@@ -423,14 +423,14 @@ of busy hands, and a shabby dress--it must needs have been very shabby
 to look at all so, being so neat--were Little Dorrit as she sat at work.
 
 For these particulars or generalities concerning Little Dorrit, Mr
-Arthur was indebted in the course of the day to his own eyes and to Mrs
+[[arthur|Arthur]] was indebted in the course of the day to his own eyes and to Mrs
 Affery’s tongue. If Mrs Affery had had any will or way of her own, it
 would probably have been unfavourable to Little Dorrit. But as ‘them two
 clever ones’--Mrs Affery’s perpetual reference, in whom her personality
 was swallowed up--were agreed to accept Little Dorrit as a matter of
 course, she had nothing for it but to follow suit. Similarly, if the
 two clever ones had agreed to murder Little Dorrit by candlelight, Mrs
-Affery, being required to hold the candle, would no doubt have done it.
+Affery, being required to hold the candle, would no [[Doubt|doubt]] have done it.
 
 In the intervals of roasting the partridge for the invalid chamber, and
 preparing a baking-dish of beef and pudding for the dining-room, Mrs
@@ -440,16 +440,16 @@ resistance to the two clever ones. It appeared to have become a perfect
 passion with Mrs Flintwinch, that the only son should be pitted against
 them.
 
-In the course of the day, too, Arthur looked through the whole house.
+In the course of the day, too, [[arthur|Arthur]] looked through the whole [[house]].
 Dull and dark he found it. The gaunt rooms, deserted for years upon
 years, seemed to have settled down into a gloomy lethargy from which
 nothing could rouse them again. The furniture, at once spare and
 lumbering, hid in the rooms rather than furnished them, and there was
-no colour in all the house; such colour as had ever been there, had long
+no colour in all the [[house]]; such colour as had ever been there, had long
 ago started away on lost sunbeams--got itself absorbed, perhaps, into
-flowers, butterflies, plumage of birds, precious stones, what not. There
+[[Flowers|flowers]], butterflies, plumage of [[Birds|birds]], precious stones, what not. There
 was not one straight floor from the foundation to the roof; the ceilings
-were so fantastically clouded by smoke and dust, that old women might
+were so fantastically clouded by smoke and [[Dust|dust]], that old women might
 have told fortunes in them better than in grouts of tea; the dead-cold
 hearths showed no traces of having ever been warmed but in heaps of soot
 that had tumbled down the chimneys, and eddied about in little
@@ -458,7 +458,7 @@ a drawing-room, there were a pair of meagre mirrors, with dismal
 processions of black figures carrying black garlands, walking round
 the frames; but even these were short of heads and legs, and one
 undertaker-like Cupid had swung round on its own axis and got upside
-down, and another had fallen off altogether. The room Arthur Clennam’s
+down, and another had fallen off altogether. The room [[Arthur Clennam]]’s
 deceased father had occupied for business purposes, when he first
 remembered him, was so unaltered that he might have been imagined still
 to keep it invisibly, as his visible relict kept her room up-stairs;
@@ -466,50 +466,50 @@ Jeremiah Flintwinch still going between them negotiating. His picture,
 dark and gloomy, earnestly speechless on the wall, with the eyes
 intently looking at his son as they had looked when life departed from
 them, seemed to urge him awfully to the task he had attempted; but as
-to any yielding on the part of his mother, he had now no hope, and as to
-any other means of setting his distrust at rest, he had abandoned hope a
-long time. Down in the cellars, as up in the bed-chambers, old objects
-that he well remembered were changed by age and decay, but were still in
+to any yielding on the part of his mother, he had now no [[Hope|hope]], and as to
+any other means of setting his distrust at rest, he had abandoned [[Hope|hope]] a
+long [[Time|time]]. Down in the cellars, as up in the bed-chambers, old objects
+that he [[Well|well]] remembered were changed by age and [[Decay|decay]], but were still in
 their old places; even to empty beer-casks hoary with cobwebs, and empty
 wine-bottles with fur and fungus choking up their throats. There, too,
 among unusual bottle-racks and pale slants of light from the yard above,
 was the strong room stored with old ledgers, which had as musty and
 corrupt a smell as if they were regularly balanced, in the dead small
-hours, by a nightly resurrection of old book-keepers.
+hours, by a nightly [[Resurrection|resurrection]] of old book-keepers.
 
 The baking-dish was served up in a penitential manner on a shrunken
-cloth at an end of the dining-table, at two o’clock, when he dined with
+cloth at an end of the dining-table, at two o’[[Clock|clock]], when he dined with
 Mr Flintwinch, the new partner. Mr Flintwinch informed him that his
-mother had recovered her equanimity now, and that he need not fear her
+mother had recovered her equanimity now, and that he need not [[Fear|fear]] her
 again alluding to what had passed in the morning. ‘And don’t you lay
-offences at your father’s door, Mr Arthur,’ added Jeremiah, ‘once for
+offences at your father’s door, Mr [[arthur|Arthur]],’ added Jeremiah, ‘once for
 all, don’t do it! Now, we have done with the subject.’
 
 Mr Flintwinch had been already rearranging and dusting his own
-particular little office, as if to do honour to his accession to new
+particular little office, as if to do [[Honour|honour]] to his accession to new
 dignity. He resumed this occupation when he was replete with beef, had
 sucked up all the gravy in the baking-dish with the flat of his knife,
 and had drawn liberally on a barrel of small beer in the scullery. Thus
 refreshed, he tucked up his shirt-sleeves and went to work again; and Mr
-Arthur, watching him as he set about it, plainly saw that his father’s
-picture, or his father’s grave, would be as communicative with him as
+[[arthur|Arthur]], watching him as he set about it, plainly saw that his father’s
+picture, or his father’s [[Grave|grave]], would be as communicative with him as
 this old man.
 
 ‘Now, Affery, woman,’ said Mr Flintwinch, as she crossed the hall. ‘You
-hadn’t made Mr Arthur’s bed when I was up there last. Stir yourself.
+hadn’t made Mr [[arthur|Arthur]]’s bed when I was up there last. Stir yourself.
 Bustle.’
 
-But Mr Arthur found the house so blank and dreary, and was so unwilling
+But Mr [[arthur|Arthur]] found the [[house]] so blank and dreary, and was so unwilling
 to assist at another implacable consignment of his mother’s enemies
 (perhaps himself among them) to mortal disfigurement and immortal ruin,
-that he announced his intention of lodging at the coffee-house where he
+that he announced his intention of lodging at the coffee-[[house]] where he
 had left his luggage. Mr Flintwinch taking kindly to the idea of getting
 rid of him, and his mother being indifferent, beyond considerations of
 saving, to most domestic arrangements that were not bounded by the walls
 of her own chamber, he easily carried this point without new offence.
 Daily business hours were agreed upon, which his mother, Mr Flintwinch,
 and he, were to devote together to a necessary checking of books and
-papers; and he left the home he had so lately found, with depressed
+papers; and he left the [[Home|home]] he had so lately found, with depressed
 heart.
 
 But Little Dorrit?

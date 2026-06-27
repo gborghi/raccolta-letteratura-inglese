@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 37"
+title: "[[Shirley]] — Chapter 37"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -48,7 +48,7 @@ Impossible to trust ourselves with the touching tale of your deeds and
 
 destinies. Are you not aware, Peter, that a discriminating public has
 
-its crotchets; that the unvarnished truth does not answer; that plain
+its crotchets; that the unvarnished [[Truth|truth]] does not answer; that plain
 
 facts will not digest? Do you not know that the squeak of the real pig
 
@@ -60,13 +60,13 @@ shrieking hysterics, and there would be a wild cry for sal-volatile and
 
 burnt feathers. "Impossible!" would be pronounced here; "untrue!" would
 
-be responded there; "inartistic!" would be solemnly decided. Note well.
+be responded there; "inartistic!" would be solemnly decided. Note [[Well|well]].
 
-Whenever you present the actual, simple truth, it is, somehow, always
+Whenever you present the actual, simple [[Truth|truth]], it is, somehow, always
 
 denounced as a lie--they disown it, cast it off, throw it on the parish;
 
-whereas the product of your own imagination, the mere figment, the sheer
+whereas the product of your own [[Imagination|imagination]], the mere figment, the sheer
 
 fiction, is adopted, petted, termed pretty, proper, sweetly natural--the
 
@@ -144,7 +144,7 @@ quite unique. He begged of high and low--of the shoeless cottage brat
 
 and the coroneted duke. He sent out begging-letters far and wide--to old
 
-Queen Charlotte, to the princesses her daughters, to her sons the royal
+[[Queen]] Charlotte, to the princesses her daughters, to her sons the royal
 
 dukes, to the Prince Regent, to Lord Castlereagh, to every member of the
 
@@ -152,7 +152,7 @@ ministry then in office; and, what is more remarkable, he screwed
 
 something out of every one of these personages. It is on record that he
 
-got five pounds from the close-fisted old lady Queen Charlotte, and two
+got five pounds from the close-fisted old lady [[Queen]] Charlotte, and two
 
 guineas from the royal profligate her eldest son. When Mr. Donne set out
 
@@ -174,7 +174,7 @@ Perhaps I ought to remark that on the premature and sudden vanishing of
 
 Mr. Malone from the stage of Briarfield parish (you cannot know how it
 
-happened, reader; your curiosity must be robbed to pay your elegant love
+happened, reader; your curiosity must be robbed to pay your elegant [[Love|love]]
 
 of the pretty and pleasing), there came as his successor another Irish
 
@@ -188,7 +188,7 @@ conscientious as Peter was rampant, boisterous, and---- This last
 
 epithet I choose to suppress, because it would let the cat out of the
 
-bag. He laboured faithfully in the parish. The schools, both Sunday and
+bag. He laboured faithfully in the parish. The schools, both [[Sunday]] and
 
 day schools, flourished under his sway like green bay trees. Being
 
@@ -210,15 +210,15 @@ rational, diligent and charitable.
 
 
 
-I doubt not a justice-loving public will have remarked, ere this, that I
+I [[Doubt|doubt]] not a justice-loving public will have remarked, ere this, that I
 
 have thus far shown a criminal remissness in pursuing, catching, and
 
 bringing to condign punishment the would-be assassin of Mr. Robert
 
-Moore. Here was a fine opening to lead my willing readers a dance, at
+Moore. Here was a fine opening to lead my willing readers a [[Dance|dance]], at
 
-once decorous and exciting--a dance of law and gospel, of the dungeon,
+once decorous and exciting--a [[Dance|dance]] of law and gospel, of the dungeon,
 
 the dock, and the "dead-thraw." You might have liked it, reader, but _I_
 
@@ -248,11 +248,11 @@ prudently resolved to let the matter quietly drop, which they did.
 
 Mr. Moore knew who had shot him, and all Briarfield knew. It was no
 
-other than Michael Hartley, the half-crazed weaver once before alluded
+other than [[Michael]] Hartley, the half-crazed weaver once before alluded
 
 to, a frantic Antinomian in religion, and a mad leveller in politics.
 
-The poor soul died of delirium tremens a year after the attempt on
+The poor [[Soul|soul]] died of delirium tremens a year after the attempt on
 
 Moore, and Robert gave his wretched widow a guinea to bury him.
 
@@ -262,9 +262,9 @@ Moore, and Robert gave his wretched widow a guinea to bury him.
 
 
 
-The winter is over and gone; spring has followed with beamy and shadowy,
+The [[Winter|winter]] is over and gone; [[Spring|spring]] has followed with beamy and shadowy,
 
-with flowery and showery flight. We are now in the heart of summer--in
+with flowery and showery flight. We are now in the heart of [[Summer|summer]]--in
 
 mid-June--the June of 1812.
 
@@ -272,13 +272,13 @@ mid-June--the June of 1812.
 
 It is burning weather. The air is deep azure and red gold. It fits the
 
-time; it fits the age; it fits the present spirit of the nations. The
+[[Time|time]]; it fits the age; it fits the present spirit of the nations. The
 
 nineteenth century wantons in its giant adolescence; the Titan boy
 
-uproots mountains in his game, and hurls rocks in his wild sport. This
+uproots [[Mountains|mountains]] in his game, and hurls rocks in his wild sport. This
 
-summer Bonaparte is in the saddle; he and his host scour Russian
+[[Summer|summer]] Bonaparte is in the saddle; he and his host scour Russian
 
 deserts. He has with him Frenchmen and Poles, Italians and children of
 
@@ -286,17 +286,17 @@ the Rhine, six hundred thousand strong. He marches on old Moscow. Under
 
 old Moscow's walls the rude Cossack waits him. Barbarian stoic! he waits
 
-without fear of the boundless ruin rolling on. He puts his trust in a
+without [[Fear|fear]] of the boundless ruin [[rolling]] on. He puts his trust in a
 
-snow-cloud; the wilderness, the wind, and the hail-storm are his refuge;
+[[Snow|snow]]-cloud; the wilderness, the [[Wind|wind]], and the hail-[[Storm|storm]] are his refuge;
 
-his allies are the elements--air, fire, water. And what are these? Three
+his allies are the elements--air, [[Fire|fire]], [[Water|water]]. And what are these? Three
 
 terrible archangels ever stationed before the throne of Jehovah. They
 
 stand clothed in white, girdled with golden girdles; they uplift vials,
 
-brimming with the wrath of God. Their time is the day of vengeance;
+brimming with the wrath of God. Their [[Time|time]] is the day of vengeance;
 
 their signal, the word of the Lord of hosts, "thundering with the voice
 
@@ -304,9 +304,9 @@ of His excellency."
 
 
 
-"Hast thou entered into the treasures of the snow? or hast thou seen the
+"Hast thou entered into the treasures of the [[Snow|snow]]? or hast thou seen the
 
-treasures of the hail, which I have reserved against the time of
+treasures of the hail, which I have reserved against the [[Time|time]] of
 
 trouble, against the day of battle and war?
 
@@ -316,9 +316,9 @@ trouble, against the day of battle and war?
 
 
 
-It is done. The earth is scorched with fire; the sea becomes "as the
+It is done. The earth is scorched with [[Fire|fire]]; the sea becomes "as the
 
-blood of a dead man;" the islands flee away; the mountains are not
+[[Blood|blood]] of a dead man;" the islands flee away; the [[Mountains|mountains]] are not
 
 found.
 
@@ -330,7 +330,7 @@ generalissimo, for their own salvation's sake. In this year he took
 
 Badajos, he fought the field of Vittoria, he captured Pampeluna, he
 
-stormed San Sebastian; in this year he won Salamanca.
+stormed San [[Sebastian]]; in this year he won Salamanca.
 
 
 
@@ -360,7 +360,7 @@ now at a triumph in your line. On the 18th of June 1812 the Orders in
 
 Council were repealed, and the blockaded ports thrown open. You know
 
-very well--such of you as are old enough to remember--you made Yorkshire
+very [[Well|well]]--such of you as are old enough to remember--you made Yorkshire
 
 and Lancashire shake with your shout on that occasion. The ringers
 
@@ -368,9 +368,9 @@ cracked a bell in Briarfield belfry; it is dissonant to this day. The
 
 Association of Merchants and Manufacturers dined together at Stilbro',
 
-and one and all went home in such a plight as their wives would never
+and one and all went [[Home|home]] in such a plight as their wives would never
 
-wish to witness more. Liverpool started and snorted like a river-horse
+wish to witness more. Liverpool started and snorted like a [[River|river]]-[[Horse|horse]]
 
 roused amongst his reeds by thunder. Some of the American merchants felt
 
@@ -384,9 +384,9 @@ lose themselves at some future day. Stocks which had been accumulating
 
 for years now went off in a moment, in the twinkling of an eye.
 
-Warehouses were lightened, ships were laden; work abounded, wages rose;
+Warehouses were lightened, ships were laden; work abounded, wages [[Rose|rose]];
 
-the good time seemed come. These prospects might be delusive, but they
+the good [[Time|time]] seemed come. These prospects might be delusive, but they
 
 were brilliant--to some they were even true. At that epoch, in that
 
@@ -400,9 +400,9 @@ single month of June, many a solid fortune was realized.
 
 When a whole province rejoices, the humblest of its inhabitants tastes a
 
-festal feeling; the sound of public bells rouses the most secluded
+festal feeling; the sound of public [[Bells|bells]] rouses the most secluded
 
-abode, as if with a call to be gay. And so Caroline Helstone thought,
+abode, as if with a call to be gay. And so [[Caroline Helstone]] thought,
 
 when she dressed herself more carefully than usual on the day of this
 
@@ -428,11 +428,11 @@ Louis had presaged difficulties, and he had found them--in fact, his
 
 mistress had shown herself exquisitely provoking, putting off her
 
-marriage day by day, week by week, month by month, at first coaxing him
+[[Marriage|marriage]] day by day, week by week, month by month, at first coaxing him
 
 with soft pretences of procrastination, and in the end rousing his whole
 
-deliberate but determined nature to revolt against her tyranny, at once
+deliberate but determined [[Nature|nature]] to revolt against her tyranny, at once
 
 so sweet and so intolerable.
 
@@ -442,17 +442,17 @@ It had needed a sort of tempest-shock to bring her to the point; but
 
 there she was at last, fettered to a fixed day. There she lay, conquered
 
-by love, and bound with a vow.
+by [[Love|love]], and bound with a vow.
 
 
 
 Thus vanquished and restricted, she pined, like any other chained
 
-denizen of deserts. Her captor alone could cheer her; his society only
+denizen of deserts. Her captor [[Alone|alone]] could cheer her; his society only
 
 could make amends for the lost privilege of liberty. In his absence she
 
-sat or wandered alone, spoke little, and ate less.
+sat or wandered [[Alone|alone]], spoke little, and ate less.
 
 
 
@@ -492,17 +492,17 @@ approaching nuptials, but Fortune had destined her another part.
 
 
 
-She came home in time to water her plants. She had performed this little
+She came [[Home|home]] in [[Time|time]] to [[Water|water]] her plants. She had performed this little
 
-task. The last flower attended to was a rose-tree, which bloomed in a
+task. The last flower attended to was a [[Rose|rose]]-tree, which bloomed in a
 
-quiet green nook at the back of the house. This plant had received the
+quiet green nook at the back of the [[house]]. This plant had received the
 
 refreshing shower; she was now resting a minute. Near the wall stood a
 
-fragment of sculptured stone--a monkish relic--once, perhaps, the base
+[[Fragment|fragment]] of sculptured stone--a monkish relic--once, perhaps, the base
 
-of a cross. She mounted it, that she might better command the view. She
+of a [[Cross|cross]]. She mounted it, that she might better command the view. She
 
 had still the watering pot in one hand; with the other her pretty dress
 
@@ -514,11 +514,11 @@ side against the sky; beyond a solitary thorn at the head of a solitary
 
 lane far off. She surveyed the dusk moors, where bonfires were kindling.
 
-The summer evening was warm; the bell-music was joyous; the blue smoke
+The [[Summer|summer]] evening was warm; the bell-music was joyous; the blue smoke
 
 of the fires looked soft, their red flame bright. Above them, in the sky
 
-whence the sun had vanished, twinkled a silver point--the star of love.
+whence the sun had vanished, twinkled a silver point--the star of [[Love|love]].
 
 
 
@@ -532,7 +532,7 @@ the touch unstartled.
 
 
 
-"I am looking at Venus, mamma. See, she is beautiful. How white her
+"I am looking at [[Venus]], mamma. See, she is beautiful. How white her
 
 lustre is, compared with the deep red of the bonfires!"
 
@@ -552,11 +552,11 @@ had a long conversation with her. Where, meantime, have you been?"
 
 
 
-"To Fieldhead. Shirley is as naughty as ever, Robert. She will neither
+"To Fieldhead. [[Shirley]] is as naughty as ever, Robert. She will neither
 
-say Yes nor No to any question put. She sits alone. I cannot tell
+say Yes nor No to any question put. She sits [[Alone|alone]]. I cannot tell
 
-whether she is melancholy or nonchalant. If you rouse her or scold her,
+whether she is [[Melancholy|melancholy]] or nonchalant. If you rouse her or scold her,
 
 she gives you a look, half wistful, half reckless, which sends you away
 
@@ -576,7 +576,7 @@ any one can. She tries him, however. He has had a stormy courtship for
 
 such a calm character; but you see it all ends in victory for him.
 
-Caroline, I have sought you to ask an audience. Why are those bells
+Caroline, I have sought you to ask an audience. Why are those [[Bells|bells]]
 
 ringing?"
 
@@ -588,7 +588,7 @@ are pleased, are you not?"
 
 
 
-"Yesterday evening at this time I was packing some books for a
+"Yesterday evening at this [[Time|time]] I was packing some books for a
 
 sea-voyage. They were the only possessions, except some clothes, seeds,
 
@@ -606,7 +606,7 @@ Her little fingers fastened on his arm; she spoke and looked affrighted.
 
 
 
-"Not now--not now. Examine my face--yes, look at me well. Is the despair
+"Not now--not now. Examine my face--yes, look at me [[Well|well]]. Is the [[Despair|despair]]
 
 of parting legible thereon?"
 
@@ -616,7 +616,7 @@ She looked into an illuminated countenance, whose characters were all
 
 beaming, though the page itself was dusk. This face, potent in the
 
-majesty of its traits, shed down on her hope, fondness, delight.
+majesty of its traits, shed down on her [[Hope|hope]], fondness, delight.
 
 
 
@@ -636,7 +636,7 @@ the cloth I have in my warehouses will be taken off my hands, and
 
 commissions given me for much more. This day lays for my fortunes a
 
-broad, firm foundation, on which, for the first time in my life, I can
+broad, firm foundation, on which, for the first [[Time|time]] in my life, I can
 
 securely build."
 
@@ -656,11 +656,11 @@ breath.
 
 
 
-"At last! Oh, Providence is kind! Thank Him, Robert."
+"At last! Oh, [[Providence]] is kind! Thank Him, Robert."
 
 
 
-"I do thank Providence."
+"I do thank [[Providence]]."
 
 
 
@@ -672,7 +672,7 @@ breath.
 
 liberal plans, do some good, be less selfish. _Now_, Caroline, I can
 
-have a house--a home which I can truly call mine--and _now_----"
+have a [[house]]--a [[Home|home]] which I can truly call mine--and _now_----"
 
 
 
@@ -680,7 +680,7 @@ He paused, for his deep voice was checked.
 
 
 
-"And _now_," he resumed--"now I can think of marriage, _now_ I can seek
+"And _now_," he resumed--"now I can think of [[Marriage|marriage]], _now_ I can seek
 
 a wife."
 
@@ -692,17 +692,17 @@ This was no moment for her to speak. She did not speak.
 
 "Will Caroline, who meekly hopes to be forgiven as she forgives--will
 
-she pardon all I have made her suffer, all that long pain I have
+she pardon all I have made her suffer, all that long [[Pain|pain]] I have
 
-wickedly caused her, all that sickness of body and mind she owed to me?
+wickedly caused her, all that sickness of [[Body|body]] and mind she owed to me?
 
-Will she forget what she knows of my poor ambition, my sordid schemes?
+Will she forget what she knows of my poor [[Ambition|ambition]], my sordid schemes?
 
 Will she let me expiate these things? Will she suffer me to prove that,
 
 as I once deserted cruelly, trifled wantonly, injured basely, I can now
 
-love faithfully, cherish fondly, treasure tenderly?"
+[[Love|love]] faithfully, cherish fondly, treasure tenderly?"
 
 
 
@@ -722,17 +722,17 @@ His hand was in Caroline's still; a gentle pressure answered him.
 
 necessity for her society is blended with my life. Not more jealous
 
-shall I be of the blood whose flow moves my pulses than of her happiness
+shall I be of the [[Blood|blood]] whose flow moves my pulses than of her happiness
 
-and well-being."
-
-
-
-"I love you, too, Robert, and will take faithful care of you."
+and [[Well|well]]-being."
 
 
 
-"Will you take faithful care of me? Faithful care! As if that rose
+"I [[Love|love]] you, too, Robert, and will take faithful care of you."
+
+
+
+"Will you take faithful care of me? Faithful care! As if that [[Rose|rose]]
 
 should promise to shelter from tempest this hard gray stone! But she
 
@@ -740,7 +740,7 @@ _will_ care for me, in her way. These hands will be the gentle
 
 ministrants of every comfort I can taste. I know the being I seek to
 
-entwine with my own will bring me a solace, a charity, a purity, to
+entwine with my own will bring me a solace, a [[Charity|charity]], a purity, to
 
 which, of myself, I am a stranger."
 
@@ -768,7 +768,7 @@ it."
 
 "Tell me what you wish, what you would like, and I will consider if it
 
-is possible to consent. But I cannot desert her, even for you. I cannot
+is possible to consent. But I cannot [[Desert|desert]] her, even for you. I cannot
 
 break her heart, even for your sake."
 
@@ -804,7 +804,7 @@ independent?"
 
 
 
-"She told me that, with a gentle pride that reminded me of somebody
+"She told me that, with a gentle [[Pride|pride]] that reminded me of somebody
 
 else."
 
@@ -818,7 +818,7 @@ else."
 
 reserve and discretion, she were something quite opposite, I should not
 
-fear her."
+[[Fear|fear]] her."
 
 
 
@@ -828,11 +828,11 @@ nod. Moore smiled.
 
 
 
-"Louis and I are not of the order of men who fear their mothers-in-law,
+"Louis and I are not of the order of men who [[Fear|fear]] their mothers-in-law,
 
 Cary. Our foes never have been, nor will be, those of our own household.
 
-I doubt not my mother-in-law will make much of me."
+I [[Doubt|doubt]] not my mother-in-law will make much of me."
 
 
 
@@ -870,7 +870,7 @@ gentleman as at your own fireside."
 
 
 
-"A eulogium I like; it is very sweet. I am well pleased my Caroline
+"A eulogium I like; it is very sweet. I am [[Well|well]] pleased my Caroline
 
 should view me in this light."
 
@@ -880,7 +880,7 @@ should view me in this light."
 
 
 
-"Not quite, I hope?"
+"Not quite, I [[Hope|hope]]?"
 
 
 
@@ -910,7 +910,7 @@ Robert----"
 
 
 
-"Well, what now? What is the new thought?"
+"[[Well]], what now? What is the new thought?"
 
 
 
@@ -942,7 +942,7 @@ This war _must_ ere long draw to a close. Trade is likely to prosper for
 
 some years to come. There may be a brief misunderstanding between
 
-England and America, but that will not last. What would you think if,
+England and [[America]], but that will not last. What would you think if,
 
 one day--perhaps ere another ten years elapse--Louis and I divide
 
@@ -954,7 +954,7 @@ and has, besides, an intellect of his own of no trifling calibre. His
 
 mind is slow but strong. It must work. It may work deliberately, but it
 
-will work well. He will be made magistrate of the district--Shirley says
+will work [[Well|well]]. He will be made magistrate of the district--[[Shirley]] says
 
 he shall. She would proceed impetuously and prematurely to obtain for
 
@@ -964,17 +964,17 @@ will be in no haste. Ere he has been master of Fieldhead a year all the
 
 district will feel his quiet influence, and acknowledge his unassuming
 
-superiority. A magistrate is wanted; they will, in time, invest him with
+superiority. A magistrate is wanted; they will, in [[Time|time]], invest him with
 
 the office voluntarily and unreluctantly. Everybody admires his future
 
-wife, and everybody will, in time, like him. He is of the _pâte_
+wife, and everybody will, in [[Time|time]], like him. He is of the _pâte_
 
 generally approved, _bon comme le pain_--daily bread for the most
 
 fastidious, good for the infant and the aged, nourishing for the poor,
 
-wholesome for the rich. Shirley, in spite of her whims and oddities, her
+wholesome for the rich. [[Shirley]], in spite of her whims and oddities, her
 
 dodges and delays, has an infatuated fondness for him. She will one day
 
@@ -986,9 +986,9 @@ His advice will be always judicious, his help always good-natured. Ere
 
 long both will be in inconvenient request. He will have to impose
 
-restrictions. As for me, if I succeed as I intend to do, my success will
+restrictions. As for me, if I succeed as I intend to do, my [[success]] will
 
-add to his and Shirley's income. I can double the value of their mill
+add to his and [[Shirley]]'s income. I can [[Double|double]] the value of their mill
 
 property. I can line yonder barren Hollow with lines of cottages and
 
@@ -1008,13 +1008,13 @@ paved street. There shall be cottages in the dark ravine, and cottages
 
 on the lonely slopes. The rough pebbled track shall be an even, firm,
 
-broad, black, sooty road, bedded with the cinders from my mill; and my
+broad, black, sooty [[Road|road]], bedded with the cinders from my mill; and my
 
 mill, Caroline--my mill shall fill its present yard."
 
 
 
-"Horrible! You will change our blue hill-country air into the Stilbro'
+"Horrible! You will change our blue [[Hill|hill]]-country air into the Stilbro'
 
 smoke atmosphere."
 
@@ -1044,7 +1044,7 @@ Bilberry Moss? What will flourish on Rushedge?"
 
 Hollow's Mill from far and near; and Joe Scott shall give them work, and
 
-Louis Moore, Esq., shall let them a tenement, and Mrs. Gill shall mete
+[[Louis Moore]], Esq., shall let them a tenement, and Mrs. Gill shall mete
 
 them a portion till the first pay-day."
 
@@ -1054,9 +1054,9 @@ She smiled up in his face.
 
 
 
-"Such a Sunday school as you will have, Cary! such collections as you
+"Such a [[Sunday]] school as you will have, Cary! such collections as you
 
-will get! such a day school as you and Shirley and Miss Ainley will have
+will get! such a day school as you and [[Shirley]] and Miss Ainley will have
 
 to manage between you! The mill shall find salaries for a master and
 
@@ -1072,7 +1072,7 @@ extortion of about a hundred kisses.
 
 
 
-"Extravagant day-dreams," said Moore, with a sigh and smile, "yet
+"Extravagant day-[[Dreams|dreams]]," said Moore, with a sigh and smile, "yet
 
 perhaps we may realize some of them. Meantime, the dew is falling. Mrs.
 
@@ -1084,11 +1084,11 @@ Moore, I shall take you in."
 
 
 
-It is August. The bells clash out again, not only through Yorkshire, but
+It is August. [[The Bells|The bells]] clash out again, not only through Yorkshire, but
 
 through England. From Spain the voice of a trumpet has sounded long; it
 
-now waxes louder and louder; it proclaims Salamanca won. This night is
+now waxes louder and louder; it proclaims Salamanca won. This [[Night|night]] is
 
 Briarfield to be illuminated. On this day the Fieldhead tenantry dine
 
@@ -1098,7 +1098,7 @@ festal purpose; the schools have a grand treat. This morning there were
 
 two marriages solemnized in Briarfield church--Louis Gérard Moore, Esq.,
 
-late of Antwerp, to Shirley, daughter of the late Charles Cave Keeldar,
+late of Antwerp, to [[Shirley]], daughter of the late Charles [[Cave]] Keeldar,
 
 Esq., of Fieldhead; Robert Gérard Moore, Esq., of Hollow's Mill, to
 
@@ -1120,11 +1120,11 @@ Henry Sympson and Martin Yorke.
 
 
 
-I suppose Robert Moore's prophecies were, partially at least, fulfilled.
+I suppose [[Robert Moore]]'s prophecies were, partially at least, fulfilled.
 
 The other day I passed up the Hollow, which tradition says was once
 
-green, and lone, and wild; and there I saw the manufacturer's day-dreams
+green, and lone, and wild; and there I saw the manufacturer's day-[[Dreams|dreams]]
 
 embodied in substantial stone and brick and ashes--the cinder-black
 
@@ -1132,7 +1132,7 @@ highway, the cottages, and the cottage gardens; there I saw a mighty
 
 mill, and a chimney ambitious as the tower of Babel. I told my old
 
-housekeeper when I came home where I had been.
+housekeeper when I came [[Home|home]] where I had been.
 
 
 
@@ -1154,7 +1154,7 @@ dresses. Mrs. Robert was quieter like. Mrs. Louis smiled when she
 
 talked. She had a real, happy, glad, good-natured look; but she had een
 
-that pierced a body through. There is no such ladies nowadays."
+that pierced a [[Body|body]] through. There is no such ladies nowadays."
 
 
 
@@ -1166,7 +1166,7 @@ that pierced a body through. There is no such ladies nowadays."
 
 again, when there was neither mill, nor cot, nor hall, except Fieldhead,
 
-within two miles of it. I can tell, one summer evening, fifty years
+within two miles of it. I can tell, one [[Summer|summer]] evening, fifty years
 
 syne, my mother coming running in just at the edge of dark, almost
 
@@ -1186,7 +1186,7 @@ The story is told. I think I now see the judicious reader putting on his
 
 spectacles to look for the moral. It would be an insult to his sagacity
 
-to offer directions. I only say, God speed him in the quest!
+to offer directions. I only say, God [[Speed|speed]] him in the [[Quest|quest]]!
 
 
 
@@ -1246,7 +1246,7 @@ _Uniform with this Volume and Same Price._
 
 
 
-=Michael Strogoff.= JULES VERNE.
+=[[Michael]] Strogoff.= JULES VERNE.
 
 
 
@@ -1256,9 +1256,9 @@ _Uniform with this Volume and Same Price._
 
 
 
-This famous American novel has for many years been a classic in every
+This famous American [[Novel|novel]] has for many years been a classic in every
 
-home. It is a masterpiece of the best type of domestic fiction.
+[[Home|home]]. It is a masterpiece of the best type of domestic fiction.
 
 
 
@@ -1268,13 +1268,13 @@ home. It is a masterpiece of the best type of domestic fiction.
 
 
 
-This brilliant romance tells of the last stand of the great English
+This brilliant [[Romance|romance]] tells of the [[Last Stand|last stand]] of the great English
 
 leader, Hereward, against the advance of the Normans. The scene is
 
 largely laid in the Fen country, and every page is a record of fierce
 
-strife. The fall of Hereward is one of the greatest death scenes in
+strife. The fall of Hereward is one of the greatest [[Death|death]] scenes in
 
 literature.
 
@@ -1282,35 +1282,35 @@ literature.
 
 
 
-=David Copperfield--I.= CHARLES DICKENS.
+=[[David Copperfield]]--I.= CHARLES DICKENS.
 
 
 
 
 
-=David Copperfield--II.= CHARLES DICKENS.
+=[[David Copperfield]]--II.= CHARLES DICKENS.
 
 
 
-"David Copperfield" is, by general consent, Dickens's masterpiece,
+"[[David Copperfield]]" is, by general consent, Dickens's masterpiece,
 
 showing, as it does, all his peculiar merits in their highest form. It
 
 is the most autobiographical of his novels, and the one into which he
 
-put most of his philosophy of life.
+put most of his [[philosophy]] of life.
 
 
 
 
 
-=Jane Eyre.= CHARLOTTE BRONTË.
+=[[Jane Eyre]].= CHARLOTTE BRONTË.
 
 
 
-"Jane Eyre" is Charlotte Brontë's first and most famous work. It was the
+"[[Jane Eyre]]" is Charlotte Brontë's first and most famous work. It was the
 
-first realistic novel, in the modern sense of the word, in English
+first realistic [[Novel|novel]], in the modern sense of the word, in English
 
 literature, and its influence has been beyond reckoning. It ranks as one
 
@@ -1324,27 +1324,27 @@ of the great novels of the nineteenth century.
 
 
 
-This is the humorous classic of Oxford life. Published more than half a
+This is the humorous classic of [[Oxford]] life. Published more than half a
 
-century ago, its humour is as fresh to-day as ever.
-
-
-
-
-
-=Pickwick Papers--I.= CHARLES DICKENS.
+century ago, its [[Humour|humour]] is as fresh to-day as ever.
 
 
 
 
 
-=Pickwick Papers--II.= CHARLES DICKENS.
+=[[Pickwick]] Papers--I.= CHARLES DICKENS.
 
 
 
-Every year sees a new edition of "Pickwick," and the world still asks
 
-for more. It is one of the world's greatest romances of the road, where
+
+=[[Pickwick]] Papers--II.= CHARLES DICKENS.
+
+
+
+Every year sees a new edition of "[[Pickwick]]," and the world still asks
+
+for more. It is one of the world's greatest romances of the [[Road|road]], where
 
 adventures fall to those who seek them. It is also a faithful and loving
 
@@ -1356,17 +1356,17 @@ may become a wiser people, but we shall never again be so humorous.
 
 
 
-=Windsor Castle.= HARRISON AINSWORTH.
+=Windsor [[Castle]].= HARRISON AINSWORTH.
 
 
 
 The romances of Harrison Ainsworth need no advertisement. In this, as in
 
-his "Tower of London" and "Old St. Paul's," he has taken one of
+his "Tower of [[London]]" and "Old St. Paul's," he has taken one of
 
 England's great historical sites, and woven around it an appropriate
 
-romance.
+[[Romance|romance]].
 
 
 
@@ -1378,13 +1378,13 @@ romance.
 
 "Peg Woffington" was the first of Charles Reade's romances, and was
 
-founded upon his comedy, "Masks and Faces." The story of the famous
+founded upon his [[Comedy|comedy]], "Masks and Faces." The story of the famous
 
-Irish actress who dazzled London in the eighteenth century, and with
+Irish actress who dazzled [[London]] in the eighteenth century, and with
 
-whom Garrick was in love, has been made the foundation of a charming
+whom Garrick was in [[Love|love]], has been made the foundation of a charming
 
-romance.
+[[Romance|romance]].
 
 
 
@@ -1396,7 +1396,7 @@ romance.
 
 The only book of jests that has ever attained an honourable place in
 
-literature. Its wealth of genuine humour is a perpetual refutation of
+literature. Its wealth of genuine [[Humour|humour]] is a perpetual refutation of
 
 the old slander that Scots joke "wi' deeficulty."
 
@@ -1404,13 +1404,13 @@ the old slander that Scots joke "wi' deeficulty."
 
 
 
-=Parables from Nature.= Mrs. GATTY.
+=Parables from [[Nature]].= Mrs. GATTY.
 
 
 
 This is one of the great children's books of the world. It was a classic
 
-in our grandmothers' time, and possesses that imperishable charm which
+in our grandmothers' [[Time|time]], and possesses that imperishable charm which
 
 makes it as attractive to-day as when it was first written.
 
@@ -1422,7 +1422,7 @@ makes it as attractive to-day as when it was first written.
 
 
 
-The greatest romance of the road in English literature, telling of all
+The greatest [[Romance|romance]] of the [[Road|road]] in English literature, telling of all
 
 the byways and humours of that older England which is fast disappearing.
 
@@ -1434,7 +1434,7 @@ the byways and humours of that older England which is fast disappearing.
 
 
 
-This delightful book has become a possession of childhood and youth. It
+This delightful book has become a possession of [[Childhood|childhood]] and youth. It
 
 has captured the affections of millions of young people in two
 
@@ -1446,19 +1446,19 @@ of Miss Alcott's breezy, hopeful, genial, and tender writings.
 
 
 
-=Pride and Prejudice.= JANE AUSTEN.
+=[[Pride and Prejudice]].= JANE AUSTEN.
 
 
 
-=Sense and Sensibility.= JANE AUSTEN.
+=[[Sense and Sensibility]].= JANE AUSTEN.
 
 
 
 Sir Walter Scott was among the earliest to detect the merits of Miss
 
-Austen's work, and of recent years her humour and her keen insight into
+Austen's work, and of recent years her [[Humour|humour]] and her keen insight into
 
-human nature have been abundantly recognized, so that to-day she is
+human [[Nature|nature]] have been abundantly recognized, so that to-day she is
 
 probably the most read novelist of her period. In Sir Walter Scott's
 
@@ -1492,17 +1492,17 @@ commonplace things and characters interesting."
 
 
 
-Victor Hugo took the romantic novel as invented by Sir Walter Scott and
+Victor Hugo took the romantic [[Novel|novel]] as invented by Sir Walter Scott and
 
 gave it a new and philosophic interest. All his great romances have a
 
 purpose. "Les Misérables" exposes the tyranny of human laws; "The
 
-Toilers of the Sea" shows the conflict of man with nature; "The Laughing
+Toilers of the Sea" shows the conflict of man with [[Nature|nature]]; "The Laughing
 
 Man" expounds the tyranny of the aristocratic ideal as exemplified in
 
-England. But being a great artist as well as a great thinker, he never
+England. But being a great [[Artist|artist]] as [[Well|well]] as a great thinker, he never
 
 turned his romances into pamphlets. Drama is always his aim, and no
 
@@ -1518,7 +1518,7 @@ novelist has attained more often the supreme dramatic moment.
 
 This is a reprint of Miss Yonge's most famous tale. It has been said of
 
-her that she domesticated the historical romance, which owed its origin
+her that she domesticated the historical [[Romance|romance]], which owed its origin
 
 to Sir Walter Scott, and her characters were for long the ideal figures
 
@@ -1552,7 +1552,7 @@ There are many who think this the greatest of all historical novels, and
 
 it is certain that there are few better. It is not a story so much as a
 
-vast and varied transcript of life. It is also a delightful romance, and
+vast and varied transcript of life. It is also a delightful [[Romance|romance]], and
 
 Gerard and Margaret are among the immortals of fiction.
 
@@ -1564,11 +1564,11 @@ Gerard and Margaret are among the immortals of fiction.
 
 
 
-This is the only novel of George Eliot's in which the scene is laid
+This is the only [[Novel|novel]] of George Eliot's in which the scene is laid
 
-outside her own country. It is a story of Florence during the time of
+outside her own country. It is a story of Florence during the [[Time|time]] of
 
-the Renaissance, a marvellous picture of the intellectual and moral
+the [[Renaissance]], a marvellous picture of the intellectual and moral
 
 ferment which the New Learning created. With amazing learning and
 
@@ -1576,7 +1576,7 @@ insight the author portrays the souls of men and women, and her study of
 
 a weak man and a strong woman has rarely been surpassed in English
 
-literature for dramatic power and moral truth.
+literature for dramatic power and moral [[Truth|truth]].
 
 
 
@@ -1588,9 +1588,9 @@ literature for dramatic power and moral truth.
 
 This, the shortest and the most exquisite of George Eliot's tales,
 
-represents her great powers at their best. In the picture of the hero
+represents her great powers at their best. In the picture of the [[Hero|hero]]
 
-she shows a profound understanding of human nature, and the feelings
+she shows a profound understanding of human [[Nature|nature]], and the feelings
 
 which were then moving rural and industrial England.
 
@@ -1612,7 +1612,7 @@ One of the Waverley novels which has always been deservedly popular.
 
 
 
-The story is a tragedy on the lines of Greek drama, and the ending has
+The story is a [[Tragedy|tragedy]] on the lines of Greek drama, and the ending has
 
 been pronounced by great critics to be the most moving in prose
 
@@ -1646,7 +1646,7 @@ daughter.
 
 
 
-=Tom Cringle's Log.= MICHAEL SCOTT.
+=Tom Cringle's Log.= [[Michael|MICHAEL]] SCOTT.
 
 
 
@@ -1654,7 +1654,7 @@ A brilliant story of West Indian life by an author who combined abundant
 
 personal experience with keen observation, sprightly temper, and
 
-delightful humour. "Tom Cringle's Log" has been many times reprinted,
+delightful [[Humour|humour]]. "Tom Cringle's Log" has been many times reprinted,
 
 and has lost nothing of its popularity and power to please.
 
@@ -1662,17 +1662,17 @@ and has lost nothing of its popularity and power to please.
 
 
 
-=Lamb's Tales from Shakespeare.=
+=[[Lamb]]'s Tales from Shakespeare.=
 
 
 
 Tens of thousands of readers have been led to Shakespeare by the
 
-charmingly told stories which Charles and Mary Lamb, about a hundred
+charmingly told stories which Charles and Mary [[Lamb]], about a hundred
 
 years ago, extracted from the plays of the greatest dramatist of all
 
-time. Though produced by Lamb at the very outset of his literary career,
+[[Time|time]]. Though produced by [[Lamb]] at the very outset of his literary career,
 
 these stories betray that unique and finished art, that delightful
 
@@ -1694,7 +1694,7 @@ On its first appearance, in 1850, it immediately leaped high into public
 
 favour, and attained the distinction of an unmistakable classic. The
 
-tragedy of Hester Prynne and Arthur Dimmesdale is wrought out in the
+[[Tragedy|tragedy]] of Hester Prynne and [[arthur|Arthur]] Dimmesdale is wrought out in the
 
 midst of an austere Puritan community, which exacts the bitterest
 
@@ -1742,7 +1742,7 @@ CONDENSED LIST.
 
     10. The Old Curiosity Shop.
 
-    11. Oliver Twist.
+    11. [[Oliver Twist]].
 
     12. Kenilworth.
 
@@ -1768,23 +1768,23 @@ CONDENSED LIST.
 
     23. The Channings.
 
-    24. The Pilgrim's Progress.
+    24. The [[Pilgrim]]'s Progress.
 
-    25. Pride and Prejudice.
+    25. [[Pride and Prejudice]].
 
     26. Quentin Durward.
 
-    27. Villette.
+    27. [[Villette]].
 
     28. Hard Times.
 
-    29. Child's History of England.
+    29. [[Child]]'s [[history|History]] of England.
 
-    30. The Bible in Spain.
+    30. The [[Bible]] in Spain.
 
     31. Gulliver's Travels.
 
-    32. Sense and Sensibility.
+    32. [[Sense and Sensibility]].
 
     33. Kate Coventry.
 
@@ -1808,7 +1808,7 @@ CONDENSED LIST.
 
     43. A Book of Golden Deeds.
 
-    44. Great Expectations.
+    44. [[Great Expectations]].
 
     45. Guy Mannering.
 
@@ -1824,7 +1824,7 @@ CONDENSED LIST.
 
     51. The Vicar of Wakefield.
 
-    52. Emma.
+    52. [[Emma]].
 
     53. Lavengro.
 
@@ -1836,11 +1836,11 @@ CONDENSED LIST.
 
     57. Tom Cringle's Log.
 
-    58. Lamb's Tales from Shakespeare.
+    58. [[Lamb]]'s Tales from Shakespeare.
 
     59. The Scarlet Letter.
 
-    60. Old Mortality.
+    60. Old [[Mortality]].
 
     61. The Romany Rye.
 
@@ -1860,19 +1860,19 @@ CONDENSED LIST.
 
     69. Fair Maid of Perth.
 
-    70. Parables from Nature.
+    70. Parables from [[Nature]].
 
     71. Peg Woffington.
 
-    72. Windsor Castle.
+    72. Windsor [[Castle]].
 
-    73. Edmund Burke.
+    73. [[Edmund]] Burke.
 
     74. Ingoldsby Legends.
 
-    75. Pickwick Papers.--I.
+    75. [[Pickwick]] Papers.--I.
 
-    76. Pickwick Papers.--II.
+    76. [[Pickwick]] Papers.--II.
 
     77. Verdant Green.
 
@@ -1882,17 +1882,17 @@ CONDENSED LIST.
 
     80. Two Years Before the Mast.
 
-    81. Jane Eyre.
+    81. [[Jane Eyre]].
 
-    82. David Copperfield.--I.
+    82. [[David Copperfield]].--I.
 
-    83. David Copperfield.--II.
+    83. [[David Copperfield]].--II.
 
     84. Hereward the Wake.
 
     85. Wide Wide World.
 
-    86. Michael Strogoff.
+    86. [[Michael]] Strogoff.
 
 
 
@@ -2054,17 +2054,17 @@ THOMAS NELSON AND SONS.
 
     Page 145
 
-    stones on the road? _changed to_
+    stones on the [[Road|road]]? _changed to_
 
-    stones on the road.
+    stones on the [[Road|road]].
 
 
 
     Page 393
 
-    "Shirley, my woman _changed to_
+    "[[Shirley]], my woman _changed to_
 
-    'Shirley, my woman
+    '[[Shirley]], my woman
 
 
 

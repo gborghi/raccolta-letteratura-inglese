@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-It was well for us, that we were in this humour, for the road we went
+It was [[Well|well]] for us, that we were in this [[Humour|humour]], for the [[Road|road]] we went
 over that day, was certainly enough to have shaken tempers that were not
-resolutely at Set Fair, down to some inches below Stormy.  At one time we
-were all flung together in a heap at the bottom of the coach, and at
+resolutely at Set Fair, down to some inches below Stormy.  At one [[Time|time]] we
+were all flung together in a heap at the [[Bottom|bottom]] of the coach, and at
 another we were crushing our heads against the roof.  Now, one side was
 down deep in the mire, and we were holding on to the other.  Now, the
 coach was lying on the tails of the two wheelers; and now it was rearing
@@ -27,15 +27,15 @@ they would say ‘Unharness us.  It can’t be done.’  The drivers on these
 roads, who certainly get over the ground in a manner which is quite
 miraculous, so twist and turn the team about in forcing a passage,
 corkscrew fashion, through the bogs and swamps, that it was quite a
-common circumstance on looking out of the window, to see the coachman
+common circumstance on looking out of the [[Window|window]], to see the coachman
 with the ends of a pair of reins in his hands, apparently driving
 nothing, or playing at horses, and the leaders staring at one
 unexpectedly from the back of the coach, as if they had some idea of
 getting up behind.  A great portion of the way was over what is called a
-corduroy road, which is made by throwing trunks of trees into a marsh,
+corduroy [[Road|road]], which is made by throwing trunks of trees into a marsh,
 and leaving them to settle there.  The very slightest of the jolts with
 which the ponderous carriage fell from log to log, was enough, it seemed,
-to have dislocated all the bones in the human body.  It would be
+to have dislocated all the bones in the human [[Body|body]].  It would be
 impossible to experience a similar set of sensations, in any other
 circumstances, unless perhaps in attempting to go up to the top of St.
 Paul’s in an omnibus.  Never, never once, that day, was the coach in any
@@ -44,18 +44,18 @@ coaches.  Never did it make the smallest approach to one’s experience of
 the proceedings of any sort of vehicle that goes on wheels.
 
 Still, it was a fine day, and the temperature was delicious, and though
-we had left Summer behind us in the west, and were fast leaving Spring,
-we were moving towards Niagara and home.  We alighted in a pleasant wood
+we had left [[Summer]] behind us in the west, and were fast leaving [[Spring]],
+we were moving towards Niagara and [[Home|home]].  We alighted in a pleasant wood
 towards the middle of the day, dined on a fallen tree, and leaving our
 best fragments with a cottager, and our worst with the pigs (who swarm in
 this part of the country like grains of sand on the sea-shore, to the
 great comfort of our commissariat in Canada), we went forward again,
 gaily.
 
-As night came on, the track grew narrower and narrower, until at last it
+As [[Night|night]] came on, the track grew narrower and narrower, until at last it
 so lost itself among the trees, that the driver seemed to find his way by
 instinct.  We had the comfort of knowing, at least, that there was no
-danger of his falling asleep, for every now and then a wheel would strike
+danger of his falling asleep, for every now and then a [[Wheel|wheel]] would strike
 against an unseen stump with such a jerk, that he was fain to hold on
 pretty tight and pretty quick, to keep himself upon the box.  Nor was
 there any reason to dread the least danger from furious driving, inasmuch
@@ -70,10 +70,10 @@ are quite astonishing in their number and reality.  Now, there is a
 Grecian urn erected in the centre of a lonely field; now there is a woman
 weeping at a tomb; now a very commonplace old gentleman in a white
 waistcoat, with a thumb thrust into each arm-hole of his coat; now a
-student poring on a book; now a crouching negro; now, a horse, a dog, a
+student poring on a book; now a crouching negro; now, a [[Horse|horse]], a dog, a
 cannon, an armed man; a hunch-back throwing off his cloak and stepping
 forth into the light.  They were often as entertaining to me as so many
-glasses in a magic lantern, and never took their shapes at my bidding,
+glasses in a [[Magic|magic]] lantern, and never took their shapes at my bidding,
 but seemed to force themselves upon me, whether I would or no; and
 strange to say, I sometimes recognised in them counterparts of figures
 once familiar to me in pictures attached to childish books, forgotten
@@ -86,32 +86,32 @@ lightened too, for three whole hours; each flash being very bright, and
 blue, and long; and as the vivid streaks came darting in among the
 crowded branches, and the thunder rolled gloomily above the tree tops,
 one could scarcely help thinking that there were better neighbourhoods at
-such a time than thick woods afforded.
+such a [[Time|time]] than thick woods afforded.
 
-At length, between ten and eleven o’clock at night, a few feeble lights
+At length, between ten and eleven o’[[Clock|clock]] at [[Night|night]], a few feeble lights
 appeared in the distance, and Upper Sandusky, an Indian village, where we
 were to stay till morning, lay before us.
 
-They were gone to bed at the log Inn, which was the only house of
+They were gone to bed at the log Inn, which was the only [[house]] of
 entertainment in the place, but soon answered to our knocking, and got
 some tea for us in a sort of kitchen or common room, tapestried with old
 newspapers, pasted against the wall.  The bed-chamber to which my wife
 and I were shown, was a large, low, ghostly room; with a quantity of
 withered branches on the hearth, and two doors without any fastening,
-opposite to each other, both opening on the black night and wild country,
+opposite to each other, both opening on the black [[Night|night]] and wild country,
 and so contrived, that one of them always blew the other open: a novelty
 in domestic architecture, which I do not remember to have seen before,
 and which I was somewhat disconcerted to have forced on my attention
 after getting into bed, as I had a considerable sum in gold for our
 travelling expenses, in my dressing-case.  Some of the luggage, however,
-piled against the panels, soon settled this difficulty, and my sleep
-would not have been very much affected that night, I believe, though it
+piled against the panels, soon settled this difficulty, and my [[Sleep|sleep]]
+would not have been very much affected that [[Night|night]], I believe, though it
 had failed to do so.
 
 My Boston friend climbed up to bed, somewhere in the roof, where another
 guest was already snoring hugely.  But being bitten beyond his power of
-endurance, he turned out again, and fled for shelter to the coach, which
-was airing itself in front of the house.  This was not a very politic
+[[Endurance|endurance]], he turned out again, and fled for shelter to the coach, which
+was airing itself in front of the [[house]].  This was not a very politic
 step, as it turned out; for the pigs scenting him, and looking upon the
 coach as a kind of pie with some manner of meat inside, grunted round it
 so hideously, that he was afraid to come out again, and lay there

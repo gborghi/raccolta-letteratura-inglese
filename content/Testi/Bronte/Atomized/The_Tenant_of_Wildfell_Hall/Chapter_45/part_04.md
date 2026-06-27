@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 45 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -30,7 +30,7 @@ at will from flower to flower, sipping sweet honey from their cups, or
 
 basking in their sunny petals. If these little creatures knew how great
 
-a change awaited them, no doubt they would regret it; but would not all
+a change awaited them, no [[Doubt|doubt]] they would regret it; but would not all
 
 such sorrow be misplaced? And if that illustration will not move you,
 
@@ -64,7 +64,7 @@ same individuals as before. But, Gilbert, can you really derive no
 
 consolation from the thought that we may meet together where there is
 
-no more pain and sorrow, no more striving against sin, and struggling
+no more [[Pain|pain]] and sorrow, no more striving against sin, and struggling
 
 of the spirit against the flesh; where both will behold the same
 
@@ -74,21 +74,21 @@ fountain of light and goodness—that Being whom both will worship with
 
 the same intensity of holy ardour—and where pure and happy creatures
 
-both will love with the same divine affection? If you cannot, never
+both will [[Love|love]] with the same divine affection? If you cannot, never
 
 write to me!”
 
 
 
-“Helen, I can! if faith would never fail.”
+“[[Helen]], I can! if [[Faith|faith]] would never fail.”
 
 
 
-“Now, then,” exclaimed she, “while this hope is strong within us—”
+“Now, then,” exclaimed she, “while this [[Hope|hope]] is strong within us—”
 
 
 
-“We will part,” I cried. “You shall not have the pain of another effort
+“We will part,” I cried. “You shall not have the [[Pain|pain]] of another effort
 
 to dismiss me. I will go at once; but—”
 
@@ -96,7 +96,7 @@ to dismiss me. I will go at once; but—”
 
 I did not put my request in words: she understood it instinctively, and
 
-_this_ time she yielded too—or rather, there was nothing so deliberate
+_this_ [[Time|time]] she yielded too—or rather, there was nothing so deliberate
 
 as requesting or yielding in the matter: there was a sudden impulse
 
@@ -112,23 +112,23 @@ spoke she held me so fast that, without violence, I could not have
 
 obeyed her. At length, however, by some heroic effort, we tore
 
-ourselves apart, and I rushed from the house.
+ourselves apart, and I rushed from the [[house]].
 
 
 
-I have a confused remembrance of seeing little Arthur running up the
+I have a confused remembrance of seeing little [[arthur|Arthur]] running up the
 
-garden-walk to meet me, and of bolting over the wall to avoid him—and
+[[Garden|garden]]-walk to meet me, and of bolting over the wall to avoid him—and
 
 subsequently running down the steep fields, clearing the stone fences
 
 and hedges as they came in my way, till I got completely out of sight
 
-of the old hall and down to the bottom of the hill; and then of long
+of the old hall and down to the [[Bottom|bottom]] of the [[Hill|hill]]; and then of long
 
-hours spent in bitter tears and lamentations, and melancholy musings in
+hours spent in bitter [[Tears|tears]] and lamentations, and [[Melancholy|melancholy]] musings in
 
-the lonely valley, with the eternal music in my ears, of the west wind
+the lonely valley, with the eternal music in my ears, of the west [[Wind|wind]]
 
 rushing through the overshadowing trees, and the brook babbling and
 
@@ -138,11 +138,11 @@ fixed on the deep, chequered shades restlessly playing over the bright
 
 sunny grass at my feet, where now and then a withered leaf or two would
 
-come dancing to share the revelry; but my heart was away up the hill in
+come dancing to share the revelry; but my heart was away up the [[Hill|hill]] in
 
-that dark room where she was weeping desolate and alone—she whom I was
+that dark room where she was weeping desolate and [[Alone|alone]]—she whom I was
 
-not to comfort, not to see again, till years or suffering had overcome
+not to comfort, not to see again, till years or [[Suffering|suffering]] had overcome
 
 us both, and torn our spirits from their perishing abodes of clay.
 
@@ -166,7 +166,7 @@ accusation, if the revelation must be made. I deferred it, however,
 
 till the evening, when my spirits were more composed, and when—oh,
 
-wonderful perversity of human nature!—some faint germs of indefinite
+wonderful perversity of human [[Nature|nature]]!—some faint germs of indefinite
 
 hopes were beginning to rise in my mind; not that I intended to cherish
 

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 40 (part 3)"
+title: "[[Great Expectations]] — Chapter 40 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-“Well, dear boy, the danger ain’t so great. Without I was informed
+“[[Well]], dear boy, the danger ain’t so great. Without I was informed
 agen, the danger ain’t so much to signify. There’s Jaggers, and there’s
 Wemmick, and there’s you. Who else is there to inform?”
 
 “Is there no chance person who might identify you in the street?” said
 I.
 
-“Well,” he returned, “there ain’t many. Nor yet I don’t intend to
+“[[Well]],” he returned, “there ain’t many. Nor yet I don’t intend to
 advertise myself in the newspapers by the name of A.M. come back from
 Botany Bay; and years have rolled away, and who’s to gain by it? Still,
 look’ee here, Pip. If the danger had been fifty times as great, I
@@ -42,16 +42,16 @@ others has done afore, others can do agen. As to the where and how of
 living, dear boy, give me your own opinions on it.”
 
 “You take it smoothly now,” said I, “but you were very serious last
-night, when you swore it was Death.”
+[[Night|night]], when you swore it was [[Death]].”
 
-“And so I swear it is Death,” said he, putting his pipe back in his
-mouth, “and Death by the rope, in the open street not fur from this,
+“And so I swear it is [[Death]],” said he, putting his pipe back in his
+mouth, “and [[Death]] by the rope, in the open street not fur from this,
 and it’s serious that you should fully understand it to be so. What
 then, when that’s once done? Here I am. To go back now ’ud be as bad as
 to stand ground—worse. Besides, Pip, I’m here, because I’ve meant it by
 you, years and years. As to what I dare, I’m a old bird now, as has
 dared all manner of traps since first he was fledged, and I’m not
-afeerd to perch upon a scarecrow. If there’s Death hid inside of it,
+afeerd to perch upon a scarecrow. If there’s [[Death]] hid inside of it,
 there is, and let him come out, and I’ll face him, and then I’ll
 believe in him and not afore. And now let me have a look at my
 gentleman agen.”
@@ -75,13 +75,13 @@ To state that my terrible patron carried this little black book about
 the world solely to swear people on in cases of emergency, would be to
 state what I never quite established; but this I can say, that I never
 knew him put it to any other use. The book itself had the appearance of
-having been stolen from some court of justice, and perhaps his
+having been stolen from some [[Court|court]] of justice, and perhaps his
 knowledge of its antecedents, combined with his own experience in that
 wise, gave him a reliance on its powers as a sort of legal spell or
 charm. On this first occasion of his producing it, I recalled how he
 had made me swear fidelity in the churchyard long ago, and how he had
-described himself last night as always swearing to his resolutions in
-his solitude.
+described himself last [[Night|night]] as always swearing to his resolutions in
+his [[Solitude|solitude]].
 
 As he was at present dressed in a seafaring slop suit, in which he
 looked as if he had some parrots and cigars to dispose of, I next
@@ -101,19 +101,19 @@ get out to further them until two or three in the afternoon. He was to
 remain shut up in the chambers while I was gone, and was on no account
 to open the door.
 
-There being to my knowledge a respectable lodging-house in Essex
+There being to my knowledge a respectable lodging-[[house]] in Essex
 Street, the back of which looked into the Temple, and was almost within
-hail of my windows, I first of all repaired to that house, and was so
+hail of my windows, I first of all repaired to that [[house]], and was so
 fortunate as to secure the second floor for my uncle, Mr. Provis. I
 then went from shop to shop, making such purchases as were necessary to
 the change in his appearance. This business transacted, I turned my
 face, on my own account, to Little Britain. Mr. Jaggers was at his
 desk, but, seeing me enter, got up immediately and stood before his
-fire.
+[[Fire|fire]].
 
 “Now, Pip,” said he, “be careful.”
 
-“I will, sir,” I returned. For, coming along I had thought well of what
+“I will, sir,” I returned. For, coming along I had thought [[Well|well]] of what
 I was going to say.
 
 “Don’t commit yourself,” said Mr. Jaggers, “and don’t commit any one.
@@ -123,7 +123,7 @@ anything; I am not curious.”
 Of course I saw that he knew the man was come.
 
 “I merely want, Mr. Jaggers,” said I, “to assure myself that what I
-have been told is true. I have no hope of its being untrue, but at
+have been told is true. I have no [[Hope|hope]] of its being untrue, but at
 least I may verify it.”
 
 Mr. Jaggers nodded. “But did you say ‘told’ or ‘informed’?” he asked

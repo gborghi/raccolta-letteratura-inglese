@@ -21,7 +21,7 @@ Echoing Footsteps
 A wonderful corner for echoes, it has been remarked, that corner where
 the Doctor lived. Ever busily winding the golden thread which bound
 her husband, and her father, and herself, and her old directress and
-companion, in a life of quiet bliss, Lucie sat in the still house in
+companion, in a life of quiet bliss, Lucie sat in the still [[house]] in
 the tranquilly resounding corner, listening to the echoing footsteps of
 years.
 
@@ -29,20 +29,20 @@ At first, there were times, though she was a perfectly happy young wife,
 when her work would slowly fall from her hands, and her eyes would be
 dimmed. For, there was something coming in the echoes, something light,
 afar off, and scarcely audible yet, that stirred her heart too much.
-Fluttering hopes and doubts--hopes, of a love as yet unknown to her:
+Fluttering hopes and doubts--hopes, of a [[Love|love]] as yet unknown to her:
 doubts, of her remaining upon earth, to enjoy that new delight--divided
 her breast. Among the echoes then, there would arise the sound of
-footsteps at her own early grave; and thoughts of the husband who would
+footsteps at her own early [[Grave|grave]]; and thoughts of the husband who would
 be left so desolate, and who would mourn for her so much, swelled to her
 eyes, and broke like waves.
 
-That time passed, and her little Lucie lay on her bosom. Then, among the
+That [[Time|time]] passed, and her little Lucie lay on her bosom. Then, among the
 advancing echoes, there was the tread of her tiny feet and the sound of
 her prattling words. Let greater echoes resound as they would, the young
 mother at the cradle side could always hear those coming. They came, and
-the shady house was sunny with a child’s laugh, and the Divine friend of
+the shady [[house]] was sunny with a [[Child|child]]’s laugh, and the Divine friend of
 children, to whom in her trouble she had confided hers, seemed to take
-her child in his arms, as He took the child of old, and made it a sacred
+her [[Child|child]] in his arms, as He took the [[Child|child]] of old, and made it a sacred
 joy to her.
 
 Ever busily winding the golden thread that bound them all together,
@@ -50,29 +50,29 @@ weaving the service of her happy influence through the tissue of all
 their lives, and making it predominate nowhere, Lucie heard in the
 echoes of years none but friendly and soothing sounds. Her husband’s
 step was strong and prosperous among them; her father’s firm and equal.
-Lo, Miss Pross, in harness of string, awakening the echoes, as an
+Lo, [[Miss Pross]], in harness of string, awakening the echoes, as an
 unruly charger, whip-corrected, snorting and pawing the earth under the
-plane-tree in the garden!
+plane-tree in the [[Garden|garden]]!
 
 Even when there were sounds of sorrow among the rest, they were not
 harsh nor cruel. Even when golden hair, like her own, lay in a halo on a
 pillow round the worn face of a little boy, and he said, with a radiant
 smile, “Dear papa and mamma, I am very sorry to leave you both, and to
 leave my pretty sister; but I am called, and I must go!” those were not
-tears all of agony that wetted his young mother’s cheek, as the spirit
+[[Tears|tears]] all of agony that wetted his young mother’s cheek, as the spirit
 departed from her embrace that had been entrusted to it. Suffer them and
 forbid them not. They see my Father’s face. O Father, blessed words!
 
 Thus, the rustling of an Angel’s wings got blended with the other
 echoes, and they were not wholly of earth, but had in them that breath
-of Heaven. Sighs of the winds that blew over a little garden-tomb were
+of Heaven. Sighs of the winds that blew over a little [[Garden|garden]]-tomb were
 mingled with them also, and both were audible to Lucie, in a hushed
-murmur--like the breathing of a summer sea asleep upon a sandy shore--as
+murmur--like the breathing of a [[Summer|summer]] sea asleep upon a sandy shore--as
 the little Lucie, comically studious at the task of the morning, or
 dressing a doll at her mother’s footstool, chattered in the tongues of
 the Two Cities that were blended in her life.
 
-The Echoes rarely answered to the actual tread of Sydney Carton. Some
+The Echoes rarely answered to the actual tread of [[Sydney Carton]]. Some
 half-dozen times a year, at most, he claimed his privilege of coming in
 uninvited, and would sit among them through the evening, as he had once
 done often. He never came there heated with wine. And one other thing
@@ -89,14 +89,14 @@ and he kept his place with her as she grew. The little boy had spoken of
 him, almost at the last. “Poor Carton! Kiss him for me!”
 
 Mr. Stryver shouldered his way through the law, like some great engine
-forcing itself through turbid water, and dragged his useful friend in
+forcing itself through turbid [[Water|water]], and dragged his useful friend in
 his wake, like a boat towed astern. As the boat so favoured is usually
-in a rough plight, and mostly under water, so, Sydney had a swamped
+in a rough plight, and mostly under [[Water|water]], so, Sydney had a swamped
 life of it. But, easy and strong custom, unhappily so much easier and
-stronger in him than any stimulating sense of desert or disgrace, made
+stronger in him than any stimulating sense of [[Desert|desert]] or disgrace, made
 it the life he was to lead; and he no more thought of emerging from his
-state of lion’s jackal, than any real jackal may be supposed to think of
-rising to be a lion. Stryver was rich; had married a florid widow with
+state of [[Lion|lion]]’s jackal, than any real jackal may be supposed to think of
+rising to be a [[Lion|lion]]. Stryver was rich; had married a florid widow with
 property and three boys, who had nothing particularly shining about them
 but the straight hair of their dumpling heads.
 
@@ -104,15 +104,15 @@ These three young gentlemen, Mr. Stryver, exuding patronage of the most
 offensive quality from every pore, had walked before him like three
 sheep to the quiet corner in Soho, and had offered as pupils to
 Lucie’s husband: delicately saying “Halloa! here are three lumps of
-bread-and-cheese towards your matrimonial picnic, Darnay!” The polite
-rejection of the three lumps of bread-and-cheese had quite bloated Mr.
+bread-and-[[cheese]] towards your matrimonial picnic, Darnay!” The polite
+rejection of the three lumps of bread-and-[[cheese]] had quite bloated Mr.
 Stryver with indignation, which he afterwards turned to account in the
 training of the young gentlemen, by directing them to beware of the
-pride of Beggars, like that tutor-fellow. He was also in the habit of
+[[Pride|pride]] of Beggars, like that tutor-fellow. He was also in the habit of
 declaiming to Mrs. Stryver, over his full-bodied wine, on the arts
 Mrs. Darnay had once put in practice to “catch” him, and on the
 diamond-cut-diamond arts in himself, madam, which had rendered him “not
-to be caught.” Some of his King’s Bench familiars, who were occasionally
+to be caught.” Some of his [[King]]’s Bench familiars, who were occasionally
 parties to the full-bodied wine and the lie, excused him for the
 latter by saying that he had told it so often, that he believed
 it himself--which is surely such an incorrigible aggravation of an
@@ -122,34 +122,34 @@ off to some suitably retired spot, and there hanged out of the way.
 These were among the echoes to which Lucie, sometimes pensive, sometimes
 amused and laughing, listened in the echoing corner, until her little
 daughter was six years old. How near to her heart the echoes of her
-child’s tread came, and those of her own dear father’s, always active
-and self-possessed, and those of her dear husband’s, need not be told.
-Nor, how the lightest echo of their united home, directed by herself
+[[Child|child]]’s tread came, and those of her own dear father’s, always active
+and [[Self|self]]-possessed, and those of her dear husband’s, need not be told.
+Nor, how the lightest echo of their united [[Home|home]], directed by herself
 with such a wise and elegant thrift that it was more abundant than any
 waste, was music to her. Nor, how there were echoes all about her, sweet
 in her ears, of the many times her father had told her that he found her
 more devoted to him married (if that could be) than single, and of the
 many times her husband had said to her that no cares and duties seemed
-to divide her love for him or her help to him, and asked her “What is
-the magic secret, my darling, of your being everything to all of us,
+to divide her [[Love|love]] for him or her help to him, and asked her “What is
+the [[Magic|magic]] secret, my darling, of your being everything to all of us,
 as if there were only one of us, yet never seeming to be hurried, or to
 have too much to do?”
 
 But, there were other echoes, from a distance, that rumbled menacingly
-in the corner all through this space of time. And it was now, about
+in the corner all through this space of [[Time|time]]. And it was now, about
 little Lucie’s sixth birthday, that they began to have an awful sound,
-as of a great storm in France with a dreadful sea rising.
+as of a great [[Storm|storm]] in France with a dreadful sea rising.
 
-On a night in mid-July, one thousand seven hundred and eighty-nine, Mr.
+On a [[Night|night]] in mid-July, one thousand seven hundred and eighty-nine, Mr.
 Lorry came in late, from Tellson’s, and sat himself down by Lucie and
-her husband in the dark window. It was a hot, wild night, and they were
-all three reminded of the old Sunday night when they had looked at the
-lightning from the same place.
+her husband in the dark [[Window|window]]. It was a hot, wild [[Night|night]], and they were
+all three reminded of the old [[Sunday]] [[Night|night]] when they had looked at the
+[[Lightning|lightning]] from the same place.
 
 “I began to think,” said Mr. Lorry, pushing his brown wig back, “that
-I should have to pass the night at Tellson’s. We have been so full of
+I should have to pass the [[Night|night]] at Tellson’s. We have been so full of
 business all day, that we have not known what to do first, or which way
-to turn. There is such an uneasiness in Paris, that we have actually a
+to turn. There is such an uneasiness in [[Paris]], that we have actually a
 run of confidence upon us! Our customers over there, seem not to be able
 to confide their property to us fast enough. There is positively a mania
 among some of them for sending it to England.”
@@ -170,25 +170,25 @@ Manette?”
 
 “Here he is,” said the Doctor, entering the dark room at the moment.
 
-“I am quite glad you are at home; for these hurries and forebodings by
+“I am quite glad you are at [[Home|home]]; for these hurries and forebodings by
 which I have been surrounded all day long, have made me nervous without
-reason. You are not going out, I hope?”
+reason. You are not going out, I [[Hope|hope]]?”
 
 “No; I am going to play backgammon with you, if you like,” said the
 Doctor.
 
 “I don’t think I do like, if I may speak my mind. I am not fit to be
-pitted against you to-night. Is the teaboard still there, Lucie? I can’t
+pitted against you to-[[Night|night]]. Is the teaboard still there, Lucie? I can’t
 see.”
 
 “Of course, it has been kept for you.”
 
-“Thank ye, my dear. The precious child is safe in bed?”
+“Thank ye, my dear. The precious [[Child|child]] is safe in bed?”
 
 “And sleeping soundly.”
 
-“That’s right; all safe and well! I don’t know why anything should be
-otherwise than safe and well here, thank God; but I have been so put out
+“That’s right; all safe and [[Well|well]]! I don’t know why anything should be
+otherwise than safe and [[Well|well]] here, thank God; but I have been so put out
 all day, and I am not as young as I was! My tea, my dear! Thank ye. Now,
 come and take your place in the circle, and let us sit quiet, and hear
 the echoes about which you have your theory.”
@@ -201,19 +201,19 @@ are very numerous and very loud, though, are they not? Only hear them!”
 Headlong, mad, and dangerous footsteps to force their way into anybody’s
 life, footsteps not easily made clean again if once stained red, the
 footsteps raging in Saint Antoine afar off, as the little circle sat in
-the dark London window.
+the dark [[London]] [[Window|window]].
 
 Saint Antoine had been, that morning, a vast dusky mass of scarecrows
 heaving to and fro, with frequent gleams of light above the billowy
 heads, where steel blades and bayonets shone in the sun. A tremendous
 roar arose from the throat of Saint Antoine, and a forest of naked arms
-struggled in the air like shrivelled branches of trees in a winter wind:
+struggled in the air like shrivelled branches of trees in a [[Winter|winter]] [[Wind|wind]]:
 all the fingers convulsively clutching at every weapon or semblance of a
 weapon that was thrown up from the depths below, no matter how far off.
 
 Who gave them out, whence they last came, where they began, through what
-agency they crookedly quivered and jerked, scores at a time, over the
-heads of the crowd, like a kind of lightning, no eye in the throng could
+agency they crookedly quivered and jerked, scores at a [[Time|time]], over the
+heads of the crowd, like a kind of [[Lightning|lightning]], no eye in the throng could
 have told; but, muskets were being distributed--so were cartridges,
 powder, and ball, bars of iron and wood, knives, axes, pikes, every
 weapon that distracted ingenuity could discover or devise. People who
@@ -234,9 +234,9 @@ another, laboured and strove in the thickest of the uproar.
 One and Two, separate and put yourselves at the head of as many of these
 patriots as you can. Where is my wife?”
 
-“Eh, well! Here you see me!” said madame, composed as ever, but not
+“Eh, [[Well|well]]! Here you see me!” said madame, composed as ever, but not
 knitting to-day. Madame’s resolute right hand was occupied with an axe,
-in place of the usual softer implements, and in her girdle were a pistol
+in place of the usual softer implements, and in her girdle were a [[Pistol|pistol]]
 and a cruel knife.
 
 “Where do you go, my wife?”
@@ -248,30 +248,30 @@ of women, by-and-bye.”
 friends, we are ready! The Bastille!”
 
 With a roar that sounded as if all the breath in France had been shaped
-into the detested word, the living sea rose, wave on wave, depth on
-depth, and overflowed the city to that point. Alarm-bells ringing, drums
+into the detested word, the living sea [[Rose|rose]], wave on wave, depth on
+depth, and overflowed the [[City|city]] to that point. Alarm-[[Bells|bells]] ringing, drums
 beating, the sea raging and thundering on its new beach, the attack
 began.
 
-Deep ditches, double drawbridge, massive stone walls, eight great
-towers, cannon, muskets, fire and smoke. Through the fire and through
-the smoke--in the fire and in the smoke, for the sea cast him up against
+Deep ditches, [[Double|double]] drawbridge, massive stone walls, eight great
+towers, cannon, muskets, [[Fire|fire]] and smoke. Through the [[Fire|fire]] and through
+the smoke--in the [[Fire|fire]] and in the smoke, for the sea cast him up against
 a cannon, and on the instant he became a cannonier--Defarge of the
 wine-shop worked like a manful soldier, Two fierce hours.
 
 Deep ditch, single drawbridge, massive stone walls, eight great towers,
-cannon, muskets, fire and smoke. One drawbridge down! “Work, comrades
+cannon, muskets, [[Fire|fire]] and smoke. One drawbridge down! “Work, comrades
 all, work! Work, Jacques One, Jacques Two, Jacques One Thousand, Jacques
 Two Thousand, Jacques Five-and-Twenty Thousand; in the name of all
 the Angels or the Devils--which you prefer--work!” Thus Defarge of the
 wine-shop, still at his gun, which had long grown hot.
 
-“To me, women!” cried madame his wife. “What! We can kill as well as
+“To me, women!” cried madame his wife. “What! We can kill as [[Well|well]] as
 the men when the place is taken!” And to her, with a shrill thirsty
 cry, trooping women variously armed, but all armed alike in hunger and
-revenge.
+[[Revenge|revenge]].
 
-Cannon, muskets, fire and smoke; but, still the deep ditch, the single
+Cannon, muskets, [[Fire|fire]] and smoke; but, still the deep ditch, the single
 drawbridge, the massive stone walls, and the eight great towers. Slight
 displacements of the raging sea, made by the falling wounded. Flashing
 weapons, blazing torches, smoking waggonloads of wet straw, hard work
@@ -282,9 +282,9 @@ single drawbridge, and the massive stone walls, and the eight great
 towers, and still Defarge of the wine-shop at his gun, grown doubly hot
 by the service of Four fierce hours.
 
-A white flag from within the fortress, and a parley--this dimly
-perceptible through the raging storm, nothing audible in it--suddenly
-the sea rose immeasurably wider and higher, and swept Defarge of the
+A white [[Flag|flag]] from within the fortress, and a parley--this dimly
+perceptible through the raging [[Storm|storm]], nothing audible in it--suddenly
+the sea [[Rose|rose]] immeasurably wider and higher, and swept Defarge of the
 wine-shop over the lowered drawbridge, past the massive stone outer
 walls, in among the eight great towers surrendered!
 
@@ -293,7 +293,7 @@ draw his breath or turn his head was as impracticable as if he had been
 struggling in the surf at the South Sea, until he was landed in the
 outer courtyard of the Bastille. There, against an angle of a wall, he
 made a struggle to look about him. Jacques Three was nearly at his side;
-Madame Defarge, still heading some of her women, was visible in the
+[[Madame Defarge]], still heading some of her women, was visible in the
 inner distance, and her knife was in her hand. Everywhere was tumult,
 exultation, deafening and maniacal bewilderment, astounding noise, yet
 furious dumb-show.
@@ -310,9 +310,9 @@ furious dumb-show.
 
 Of all these cries, and ten thousand incoherences, “The Prisoners!” was
 the cry most taken up by the sea that rushed in, as if there were an
-eternity of people, as well as of time and space. When the foremost
-billows rolled past, bearing the prison officers with them, and
-threatening them all with instant death if any secret nook remained
+[[Eternity|eternity]] of people, as [[Well|well]] as of [[Time|time]] and space. When the foremost
+billows rolled past, bearing the [[Prison|prison]] officers with them, and
+threatening them all with instant [[Death|death]] if any secret nook remained
 undisclosed, Defarge laid his strong hand on the breast of one of
 these men--a man with a grey head, who had a lighted torch in his
 hand--separated him from the rest, and got him between himself and the
@@ -354,11 +354,11 @@ Through gloomy vaults where the light of day had never shone, past
 hideous doors of dark dens and cages, down cavernous flights of steps,
 and again up steep rugged ascents of stone and brick, more like dry
 waterfalls than staircases, Defarge, the turnkey, and Jacques Three,
-linked hand and arm, went with all the speed they could make. Here and
+linked hand and arm, went with all the [[Speed|speed]] they could make. Here and
 there, especially at first, the inundation started on them and swept by;
 but when they had done descending, and were winding and climbing up a
-tower, they were alone. Hemmed in here by the massive thickness of walls
-and arches, the storm within the fortress and without was only audible
+tower, they were [[Alone|alone]]. Hemmed in here by the massive thickness of walls
+and arches, the [[Storm|storm]] within the fortress and without was only audible
 to them in a dull, subdued way, as if the noise out of which they had
 come had almost destroyed their sense of hearing.
 
@@ -368,7 +368,7 @@ in:
 
 “One hundred and five, North Tower!”
 
-There was a small, heavily-grated, unglazed window high in the wall,
+There was a small, heavily-grated, unglazed [[Window|window]] high in the wall,
 with a stone screen before it, so that the sky could be only seen by
 stooping low and looking up. There was a small chimney, heavily barred
 across, a few feet within. There was a heap of old feathery wood-ashes
@@ -386,7 +386,7 @@ The man obeyed, and Defarge followed the light closely with his eyes.
 
 “Alexandre Manette,” said Defarge in his ear, following the letters
 with his swart forefinger, deeply engrained with gunpowder. “And here he
-wrote ‘a poor physician.’ And it was he, without doubt, who scratched
+wrote ‘a poor physician.’ And it was he, without [[Doubt|doubt]], who scratched
 a calendar on this stone. What is that in your hand? A crowbar? Give it
 me!”
 
@@ -402,7 +402,7 @@ light higher, you!”
 With a menacing look at the turnkey he crawled upon the hearth, and,
 peering up the chimney, struck and prised at its sides with the crowbar,
 and worked at the iron grating across it. In a few minutes, some mortar
-and dust came dropping down, which he averted his face to avoid; and
+and [[Dust|dust]] came dropping down, which he averted his face to avoid; and
 in it, and in the old wood-ashes, and in a crevice in the chimney
 into which his weapon had slipped or wrought itself, he groped with a
 cautious touch.
@@ -420,12 +420,12 @@ retraced their way to the courtyard; seeming to recover their sense
 of hearing as they came down, until they were in the raging flood once
 more.
 
-They found it surging and tossing, in quest of Defarge himself. Saint
+They found it surging and tossing, in [[Quest|quest]] of Defarge himself. Saint
 Antoine was clamorous to have its wine-shop keeper foremost in the guard
 upon the governor who had defended the Bastille and shot the people.
 Otherwise, the governor would not be marched to the Hotel de Ville for
 judgment. Otherwise, the governor would escape, and the people’s
-blood (suddenly of some value, after many years of worthlessness) be
+[[Blood|blood]] (suddenly of some value, after many years of worthlessness) be
 unavenged.
 
 In the howling universe of passion and contention that seemed to
@@ -443,25 +443,25 @@ upon his neck, and with her cruel knife--long ready--hewed off his head.
 
 The hour was come, when Saint Antoine was to execute his horrible idea
 of hoisting up men for lamps to show what he could be and do. Saint
-Antoine’s blood was up, and the blood of tyranny and domination by the
+Antoine’s [[Blood|blood]] was up, and the [[Blood|blood]] of tyranny and domination by the
 iron hand was down--down on the steps of the Hotel de Ville where the
-governor’s body lay--down on the sole of the shoe of Madame Defarge
-where she had trodden on the body to steady it for mutilation. “Lower
+governor’s [[Body|body]] lay--down on the sole of the shoe of [[Madame Defarge]]
+where she had trodden on the [[Body|body]] to steady it for mutilation. “Lower
 the lamp yonder!” cried Saint Antoine, after glaring round for a new
-means of death; “here is one of his soldiers to be left on guard!” The
+means of [[Death|death]]; “here is one of his soldiers to be left on guard!” The
 swinging sentinel was posted, and the sea rushed on.
 
 The sea of black and threatening waters, and of destructive upheaving
 of wave against wave, whose depths were yet unfathomed and whose forces
 were yet unknown. The remorseless sea of turbulently swaying shapes,
-voices of vengeance, and faces hardened in the furnaces of suffering
+voices of vengeance, and faces hardened in the furnaces of [[Suffering|suffering]]
 until the touch of pity could make no mark on them.
 
 But, in the ocean of faces where every fierce and furious expression was
 in vivid life, there were two groups of faces--each seven in number--so
 fixedly contrasting with the rest, that never did sea roll which bore
 more memorable wrecks with it. Seven faces of prisoners, suddenly
-released by the storm that had burst their tomb, were carried high
+released by the [[Storm|storm]] that had burst their tomb, were carried high
 overhead: all scared, all lost, all wondering and amazed, as if the Last
 Day were come, and those who rejoiced around them were lost spirits.
 Other seven faces there were, carried higher, seven dead faces, whose
@@ -473,9 +473,9 @@ IT!”
 
 Seven prisoners released, seven gory heads on pikes, the keys of the
 accursed fortress of the eight strong towers, some discovered letters
-and other memorials of prisoners of old time, long dead of broken
+and other memorials of prisoners of old [[Time|time]], long dead of broken
 hearts,--such, and such--like, the loudly echoing footsteps of Saint
-Antoine escort through the Paris streets in mid-July, one thousand seven
+Antoine escort through the [[Paris]] streets in mid-July, one thousand seven
 hundred and eighty-nine. Now, Heaven defeat the fancy of Lucie Darnay,
 and keep these feet far out of her life! For, they are headlong, mad,
 and dangerous; and in the years so long after the breaking of the cask

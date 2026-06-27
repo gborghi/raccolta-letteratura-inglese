@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 7 (part 3)"
+title: "[[Persuasion]] — Chapter 7 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,9 +16,9 @@ tags:
 
 that had been proposed at first; but then he had been pressed to come
 
-to the Great House instead, and he seemed afraid of being in Mrs
+to the [[Great House]] instead, and he seemed afraid of being in Mrs
 
-Charles Musgrove’s way, on account of the child, and therefore,
+Charles Musgrove’s way, on account of the [[Child|child]], and therefore,
 
 somehow, they hardly knew how, it ended in Charles’s being to meet him
 
@@ -40,21 +40,21 @@ were to meet.
 
 The morning hours of the Cottage were always later than those of the
 
-other house, and on the morrow the difference was so great that Mary
+other [[house]], and on the morrow the difference was so great that Mary
 
 and Anne were not more than beginning breakfast when Charles came in to
 
-say that they were just setting off, that he was come for his dogs,
+say that they were just setting off, that he was come for his [[dogs]],
 
-that his sisters were following with Captain Wentworth; his sisters
+that his sisters were following with [[Captain Wentworth]]; his sisters
 
-meaning to visit Mary and the child, and Captain Wentworth proposing
+meaning to visit Mary and the [[Child|child]], and [[Captain Wentworth]] proposing
 
 also to wait on her for a few minutes if not inconvenient; and though
 
-Charles had answered for the child’s being in no such state as could
+Charles had answered for the [[Child|child]]’s being in no such state as could
 
-make it inconvenient, Captain Wentworth would not be satisfied without
+make it inconvenient, [[Captain Wentworth]] would not be satisfied without
 
 his running on to give notice.
 
@@ -68,7 +68,7 @@ most consoling, that it would soon be over. And it was soon over. In
 
 two minutes after Charles’s preparation, the others appeared; they were
 
-in the drawing-room. Her eye half met Captain Wentworth’s, a bow, a
+in the drawing-room. Her eye half met [[Captain Wentworth]]’s, a bow, a
 
 curtsey passed; she heard his voice; he talked to Mary, said all that
 
@@ -76,7 +76,7 @@ was right, said something to the Miss Musgroves, enough to mark an easy
 
 footing; the room seemed full, full of persons and voices, but a few
 
-minutes ended it. Charles shewed himself at the window, all was ready,
+minutes ended it. Charles shewed himself at the [[Window|window]], all was ready,
 
 their visitor had bowed and was gone, the Miss Musgroves were gone too,
 
@@ -142,7 +142,7 @@ this spontaneous information from Mary:—
 
 
 
-“Captain Wentworth is not very gallant by you, Anne, though he was so
+“[[Captain Wentworth]] is not very gallant by you, Anne, though he was so
 
 attentive to me. Henrietta asked him what he thought of you, when they
 
@@ -162,7 +162,7 @@ wound.
 
 “Altered beyond his knowledge.” Anne fully submitted, in silent, deep
 
-mortification. Doubtless it was so, and she could take no revenge, for
+mortification. Doubtless it was so, and she could take no [[Revenge|revenge]], for
 
 he was not altered, or not for the worse. She had already acknowledged
 
@@ -194,7 +194,7 @@ without an idea that they would be carried round to her. He had thought
 
 her wretchedly altered, and in the first moment of appeal, had spoken
 
-as he felt. He had not forgiven Anne Elliot. She had used him ill,
+as he felt. He had not forgiven [[Anne Elliot]]. She had used him ill,
 
 deserted and disappointed him; and worse, she had shewn a feebleness of
 
@@ -202,7 +202,7 @@ character in doing so, which his own decided, confident temper could
 
 not endure. She had given him up to oblige others. It had been the
 
-effect of over-persuasion. It had been weakness and timidity.
+effect of over-[[Persuasion|persuasion]]. It had been weakness and timidity.
 
 
 
@@ -210,7 +210,7 @@ He had been most warmly attached to her, and had never seen a woman
 
 since whom he thought her equal; but, except from some natural
 
-sensation of curiosity, he had no desire of meeting her again. Her
+sensation of curiosity, he had no [[Desire|desire]] of meeting her again. Her
 
 power with him was gone for ever.
 
@@ -220,13 +220,13 @@ It was now his object to marry. He was rich, and being turned on shore,
 
 fully intended to settle as soon as he could be properly tempted;
 
-actually looking round, ready to fall in love with all the speed which
+actually looking round, ready to fall in [[Love|love]] with all the [[Speed|speed]] which
 
 a clear head and a quick taste could allow. He had a heart for either
 
 of the Miss Musgroves, if they could catch it; a heart, in short, for
 
-any pleasing young woman who came in his way, excepting Anne Elliot.
+any pleasing young woman who came in his way, excepting [[Anne Elliot]].
 
 This was his only secret exception, when he said to his sister, in
 
@@ -236,7 +236,7 @@ answer to her suppositions:—
 
 “Yes, here I am, Sophia, quite ready to make a foolish match. Anybody
 
-between fifteen and thirty may have me for asking. A little beauty, and
+between fifteen and thirty may have me for asking. A little [[Beauty|beauty]], and
 
 a few smiles, and a few compliments to the navy, and I am a lost man.
 
@@ -248,7 +248,7 @@ women to make him nice?”
 
 He said it, she knew, to be contradicted. His bright proud eye spoke
 
-the conviction that he was nice; and Anne Elliot was not out of his
+the conviction that he was nice; and [[Anne Elliot]] was not out of his
 
 thoughts, when he more seriously described the woman he should wish to
 
@@ -260,8 +260,8 @@ and the last of the description.
 
 “That is the woman I want,” said he. “Something a little inferior I
 
-shall of course put up with, but it must not be much. If I am a fool, I
+shall of course put up with, but it must not be much. If I am a [[Fool|fool]], I
 
-shall be a fool indeed, for I have thought on the subject more than
+shall be a [[Fool|fool]] indeed, for I have thought on the subject more than
 
 most men.”

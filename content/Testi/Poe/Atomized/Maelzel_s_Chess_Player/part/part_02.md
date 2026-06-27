@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 2)"
+title: "[[Maelzel's Chess-Player]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       But if these machines were ingenious, what shall we think of the
 
-      calculating machine of Mr. Babbage? What shall we think of an
+      calculating [[Machine|machine]] of Mr. Babbage? What shall we think of an
 
       engine of wood and metal which can not only compute astronomical
 
@@ -26,13 +26,13 @@ tags:
 
       power of correcting its possible errors? What shall we think of a
 
-      machine which can not only accomplish all this, but actually
+      [[Machine|machine]] which can not only accomplish all this, but actually
 
       print off its elaborate results, when obtained, without the
 
       slightest intervention of the intellect of man? It will, perhaps,
 
-      be said, in reply, that a machine such as we have described is
+      be said, in reply, that a [[Machine|machine]] such as we have described is
 
       altogether above comparison with the Chess-Player of Maelzel. By
 
@@ -40,11 +40,11 @@ tags:
 
       assume (what should never for a moment be assumed) that the
 
-      Chess-Player is a _pure machine, _and performs its operations
+      Chess-Player is a _pure [[Machine|machine]], _and performs its operations
 
       without any immediate human agency. Arithmetical or algebraical
 
-      calculations are, from their very nature, fixed and determinate.
+      calculations are, from their very [[Nature|nature]], fixed and determinate.
 
       Certain _data _being given, certain results necessarily and
 
@@ -122,9 +122,9 @@ tags:
 
       then no analogy whatever between the operations of the
 
-      Chess-Player, and those of the calculating machine of Mr.
+      Chess-Player, and those of the calculating [[Machine|machine]] of Mr.
 
-      Babbage, and if we choose to call the former a _pure machine _we
+      Babbage, and if we choose to call the former a _pure [[Machine|machine]] _we
 
       must be prepared to admit that it is, beyond all comparison, the
 
@@ -150,7 +150,7 @@ tags:
 
       brought to bear. Before entering upon this subject it would be as
 
-      well to give a brief history and description of the Chess-Player
+      [[Well|well]] to give a brief [[history]] and description of the Chess-Player
 
       for the benefit of such of our readers as may never have had an
 
@@ -166,9 +166,9 @@ tags:
 
       its present possessor. {2*} Soon after its completion it was
 
-      exhibited in Presburg, Paris, Vienna, and other continental
+      exhibited in Presburg, [[Paris]], Vienna, and other continental
 
-      cities. In 1783 and 1784, it was taken to London by Mr. Maelzel.
+      cities. In 1783 and 1784, it was taken to [[London]] by Mr. Maelzel.
 
       Of late years it has visited the principal towns in the United
 

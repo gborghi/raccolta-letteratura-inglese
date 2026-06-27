@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 4 (part 3)"
+title: "[[GKC-Autobiography]] — Chapter 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 Most of this happened when I was at the art school; but even
 when I had left it, this very casual connection was continued,
-in a queer way, by the coincidence that I worked for a short time
+in a queer way, by the coincidence that I worked for a short [[Time|time]]
 in the office of a publisher who rather specialised in spiritualistic
 and theosophical literature, known under the general title of
 the occult.  It was not entirely my fault, if it was not the fault
@@ -38,13 +38,13 @@ away with something like a faint shriek.  "No, no," she cried,
 it would be very bad for me, she said, to read her Life."
 I ventured to say, or stammer, with all the crudity of common speech,
 "But Anna Kingsford is dead."  "She told me this morning,"
-repeated the lady, "that I must not read the book."  "Well," I said,
-"I hope Dr. Kingsford hasn't been giving that advice to many people;
+repeated the lady, "that I must not read the book."  "[[Well]]," I said,
+"I [[Hope|hope]] Dr. Kingsford hasn't been giving that advice to many people;
 it would be rather bad for the business.  It seems rather malicious
 of Dr. Kingsford."
 
 I soon found that malicious was a mild word for Dr. Anna Kingsford.
-With all respect to her shade, which is to me the shadow of a shade,
+With all respect to her shade, which is to me the [[Shadow|shadow]] of a shade,
 I should have said then, and I think I should say now, that the more
 charitable word was "mad." I mention the matter here because,
 while it involves no contradiction of the cosmic theory of Spiritualism,
@@ -57,13 +57,13 @@ She also had very visionary but very intimate interviews with
 various eminent public men, apparently in places of torment;
 I remember one with Mr. Gladstone, in which a discussion about Ireland
 and the Sudan was interrupted by Mr. Gladstone gradually growing
-red-hot from inside.  "Feeling that he would wish to be alone,"
+red-hot from inside.  "Feeling that he would wish to be [[Alone|alone]],"
 said Dr. Anna Kingsford with delicacy, "I passed out";
-and she must now, I fear, pass out of this fragmentary narrative.
-I hope I do her no injustice; I am fairly sure she was full of many
-generous enthusiasms; but I pin my faith, as my father would say,
+and she must now, I [[Fear|fear]], pass out of this fragmentary narrative.
+I [[Hope|hope]] I do her no injustice; I am fairly sure she was full of many
+generous enthusiasms; but I pin my [[Faith|faith]], as my father would say,
 to that fine tact and sense of social decorum, which told her
-that turning completely red-hot is what no gentleman would desire
+that turning completely red-hot is what no gentleman would [[Desire|desire]]
 to do in the presence of a lady.
 
 On the whole, the jolliest Spiritualist I ever met, at least until
@@ -80,7 +80,7 @@ need it quite as much; while it would give to Spiritualism a sound,
 shrewd and successful business side, vastly increase its popularity,
 and give to some of its followers an indefinable air of contact with
 concrete objective matters and what is coarsely called common sense,
-which some of them, as I felt at the time, seemed in some fashion
+which some of them, as I felt at the [[Time|time]], seemed in some fashion
 to lack.  I need not speculate on it here.
 
 For the rest, while I am on the topic, I may assure the reader that I
@@ -93,17 +93,17 @@ Flemish Professor of French, is certainly one of the most striking
 men I have known; but he never struck my path till long afterwards;
 but it is undoubtedly the fact that we were expecting him to dinner
 and my wife beheld the unmistakable long figure and pointed beard
-from a window; after which he vanished utterly from the landscape.
+from a [[Window|window]]; after which he vanished utterly from the landscape.
 What made the story really creepy was that just afterwards a very
 young Scotsman appeared at the door, asking for Dr. Sarolea.
 The Scotsman remained to dinner; but not the wraith.  He was to
 have come down with the wraith; who (as it turned out afterwards)
 had awaited him with some irritation at the National Liberal Club.
-One theory was that his rage had precipitated his astral body down
-to Beaconsfield, but was spent just before he reached the house.
+One theory was that his rage had precipitated his astral [[Body|body]] down
+to Beaconsfield, but was spent just before he reached the [[house]].
 Another obvious theory, which my more materialistic mind
 naturally preferred, was that he had been murdered by the young man
-and hidden in the pond in my garden; but subsequent detective search
+and hidden in the pond in my [[Garden|garden]]; but subsequent [[Detective|detective]] search
 found this to be unsound.  I only mention my alternative theory,
 which I very much prefer, because it is impossible to mention
 Dr. Sarolea, even at this premature stage of the story, without saying
@@ -114,19 +114,19 @@ the monstrosities of the world.  When last I saw him he gave me
 the impression of buying the neighbouring houses right and left
 to find room for his library.  What, I asked myself, what is more
 probable than that a man of this sort should find himself in later
-life in the exact position of Faust?  And what is more reasonable,
+life in the exact position of [[Faust]]?  And what is more reasonable,
 what more probable, than that Mephistopheles should have met him
-at the corner of the road as he came up from Beaconsfield station;
-and propounded the old contract, by which, with a single blast of magic,
+at the corner of the [[Road|road]] as he came up from Beaconsfield station;
+and propounded the old contract, by which, with a single blast of [[Magic|magic]],
 he should be turned into the handsome young man who a moment later
 was knocking at my door?  This psychic theory would be supported
-by the fact that the young man is now doing well in politics;
+by the fact that the young man is now doing [[Well|well]] in politics;
 and quite unshaken, of course, by the fact that Dr. Sarolea (I am
 happy to say) is still alive and active in Edinburgh.
 The only difficulty about it is one which also affects my triumphant
 theory that Shakespeare wrote Bacon (controversially far stronger
-than the converse), which paralysed my father's faith in the story
-of the public-house; and leads me to suspect that this rather odd
+than the converse), which paralysed my father's [[Faith|faith]] in the story
+of the public-[[house]]; and leads me to suspect that this rather odd
 incident was one of those fairly ordinary oddities; as when we mistake
 a stranger for a friend; and then meet the friend afterwards.
 In short, the only objection to my complete and convincing psychic

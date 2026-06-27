@@ -1,5 +1,5 @@
 ---
-title: "Wild Ducks — Asparagus"
+title: "Wild Ducks — [[asparagus|Asparagus]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Wild-Ducks-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-Asparagus
+[[asparagus|Asparagus]]
 
 At about twenty-one minutes past two today I suddenly saw that
-asparagus is the secret of aristocracy.  I was trying to put
+[[asparagus]] is the secret of aristocracy.  I was trying to put
 long limp stalks into my mouth, when the idea came into my head;
 and the stalk failed to do so.  I do not refer to any merely metaphorical
 and superficial comparisons which could easily be made between them.
@@ -26,11 +26,11 @@ merely that a little button at the top might be bright green.
 We might draw the moral that average aristocrats are made out much
 stronger than they are; and illustrate it from average asparagi.
 They say that any stick is good enough to beat a dog with; but did
-anyone ever try to beat a dog with a stick of asparagus?  We might draw
+anyone ever try to beat a dog with a stick of [[asparagus]]?  We might draw
 the moral that aristocratic traditions are made out much more popular
 than they really were.  'Norman' gets mispronounced as English.
 In this way three French leopards were somehow turned into British lions.
-And in this way also the solemn word Asparagus, which means nothing
+And in this way also the solemn word [[asparagus|Asparagus]], which means nothing
 so far as I know, was turned by the populace into `sparrowgrass',
 which means two of the most picturesque things in the world.
 Asparagus, which I presume to have been the name of a Roman pro-consul,
@@ -105,14 +105,14 @@ It must tell a new tale every day or perish, like the lady
 of the Arabian Nights.  Tennyson, who was too much touched
 with this aristocratic--or snobbish--Futurism, wrote, `Lest one
 good custom should corrupt the world', which really means lest
-everybody should learn the right way of eating asparagus.
+everybody should learn the right way of eating [[asparagus]].
 And so, out of luxury and waste and weariness, the fever they
 call Progress came into the world.
 
-Do you tell me they don't eat asparagus with their fingers now?
+Do you tell me they don't eat [[asparagus]] with their fingers now?
 Do I not know that in some of the best houses they have little
 tongs for each person, which are charming?  Have I not heard
-that asparagus is now lowered into the open mouth on a string,
+that [[asparagus]] is now lowered into the open mouth on a string,
 or shot into the mouth with a small gun, or eaten with the toes, or not
 eaten at all?  No; I do not know, that is what I wish to point out.
 They have changed the password.

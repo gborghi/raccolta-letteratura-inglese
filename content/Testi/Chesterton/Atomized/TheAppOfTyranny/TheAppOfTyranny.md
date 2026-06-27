@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny"
+title: "[[TheAppOfTyranny]]"
 author: "Chesterton"
 unitType: work
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -67,19 +67,19 @@ THE FACTS OF THE CASE
 
 Unless we are all mad, there is at the back of the most bewildering
 
-business a story: and if we are all mad, there is no such thing as madness.
+business a story: and if we are all mad, there is no such thing as [[Madness|madness]].
 
-If I set a house on fire, it is quite true that I may illuminate many other
+If I set a [[house]] on [[Fire|fire]], it is quite true that I may illuminate many other
 
-people's weaknesses as well as my own. It may be that the master of the
+people's weaknesses as [[Well|well]] as my own. It may be that the master of the
 
-house was burned because he was drunk; it may be that the mistress of the
+[[house]] was burned because he was drunk; it may be that the mistress of the
 
-house was burned because she was stingy, and perished arguing about the
+[[house]] was burned because she was stingy, and perished arguing about the
 
-expense of the fire-escape. It is, nevertheless, broadly true that they
+expense of the [[Fire|fire]]-escape. It is, nevertheless, broadly true that they
 
-both were burned because I set fire to their house. That is the story of
+both were burned because I set [[Fire|fire]] to their [[house]]. That is the story of
 
 the thing. The mere facts of the story about the present European
 
@@ -87,11 +87,11 @@ conflagration are quite as easy to tell.
 
 Before we go on to the deeper things which make this war the most sincere
 
-war of human history, it is easy to answer the question of why England came
+war of human [[history]], it is easy to answer the question of why England came
 
 to be in it at all, as one asks how a man fell down a coal-hole, or failed
 
-to keep an appointment. Facts are not the whole truth. But facts are facts,
+to keep an appointment. Facts are not the whole [[Truth|truth]]. But facts are facts,
 
 and in this case the facts are few and simple. Prussia, France, and
 
@@ -103,7 +103,7 @@ promised that if she might break in, through her own broken promise and
 
 ours, she would break in and not steal. In other words, we were offered at
 
-the same instant a promise of faith in the future and a proposal of perjury
+the same instant a promise of [[Faith|faith]] in the future and a proposal of perjury
 
 in the present. Those interested in human origin may refer to an old
 
@@ -113,7 +113,7 @@ historical essays, wrote of Frederick the Great, the founder of this
 
 unchanging Prussian policy. After describing how Frederick broke the
 
-guarantee he had signed on behalf of Maria Theresa, he then describes how
+guarantee he had signed on behalf of [[Maria]] Theresa, he then describes how
 
 Frederick sought to put things straight by a promise that was an insult.
 
@@ -131,47 +131,47 @@ have been written by me.
 
 Upon the immediate logical and legal origin of the English interest there
 
-can be no rational debate. There are some things so simple that one can
+can be no rational [[debate]]. There are some things so simple that one can
 
 almost prove them with plans and diagrams, as in Euclid. One could make a
 
 kind of comic calendar of what would have happened to the English
 
-diplomatist if he had been silenced every time by Prussian diplomacy.
+diplomatist if he had been silenced every [[Time|time]] by Prussian diplomacy.
 
 Suppose we arrange it in the form of a kind of diary.
 
-July 24. Germany invades Belgium.
+July 24. [[Germany]] invades Belgium.
 
 July 25. England declares war.
 
-July 26. Germany promises not to annex Belgium.
+July 26. [[Germany]] promises not to annex Belgium.
 
 July 27. England withdraws from the war.
 
-July 28. Germany annexes Belgium. England declares war.
+July 28. [[Germany]] annexes Belgium. England declares war.
 
-July 29. Germany promises not to annex France. England withdraws from the
+July 29. [[Germany]] promises not to annex France. England withdraws from the
 
 war.
 
-July 30. Germany annexes France. England declares war.
+July 30. [[Germany]] annexes France. England declares war.
 
-July 31. Germany promises not to annex England.
+July 31. [[Germany]] promises not to annex England.
 
-Aug. 1. England withdraws from the war. Germany invades England...
+Aug. 1. England withdraws from the war. [[Germany]] invades England...
 
 How long is anybody expected to go with that sort of game, or keep peace at
 
-that illimitable price? How long must we pursue a road in which promises
+that illimitable price? How long must we pursue a [[Road|road]] in which promises
 
 are all fetishes in front of us and all fragments behind us? No: upon the
 
 cold facts of the final negotiations, as told by any of the diplomatists in
 
-any of the documents, there is no doubt about the story. And no doubt about
+any of the documents, there is no [[Doubt|doubt]] about the story. And no [[Doubt|doubt]] about
 
-the villain of the story.
+the [[Villain|villain]] of the story.
 
 These are the last facts--the facts which involved England. It is equally
 
@@ -179,13 +179,13 @@ easy to state the first facts--the facts which involved Europe. The Prince
 
 who practically ruled Austria was shot by certain persons whom the Austrian
 
-Government believed to be conspirators from Servia. The Austrian Government
+[[government|Government]] believed to be conspirators from Servia. The Austrian [[government|Government]]
 
 piled up arms and armies, but said not a word either to Servia their
 
-suspect or Italy their ally. From the documents it would seem that Austria
+suspect or [[Italy]] their ally. From the documents it would seem that Austria
 
-kept everybody in the dark, except Prussia. It is probably nearer the truth
+kept everybody in the dark, except Prussia. It is probably nearer the [[Truth|truth]]
 
 to say that Prussia kept everybody in the dark, including Austria. But all
 
@@ -201,9 +201,9 @@ hours. In other words, the sovereign of Servia was practically told to take
 
 off not only the laurels of two great campaigns but his own lawful and
 
-national crown, and to do it in a time in which no respectable citizen is
+national [[Crown|crown]], and to do it in a [[Time|time]] in which no respectable citizen is
 
-expected to discharge an hotel bill. Servia asked for time, for
+expected to discharge an hotel bill. Servia asked for [[Time|time]], for
 
 arbitration--in short, for peace. But Prussia had already begun to
 
@@ -233,11 +233,11 @@ professional rhetoricians of Prussia, who are sent out to instruct and
 
 correct the minds of Americans or Scandinavians. It consists of going into
 
-convulsions of incredulity and scorn at the mention of Russia's
+convulsions of [[Incredulity|incredulity]] and scorn at the mention of [[Russia]]'s
 
 responsibility for Servia or England's responsibility for Belgium; and
 
-suggesting that, treaty or no treaty, frontier or no frontier, Russia would
+suggesting that, treaty or no treaty, frontier or no frontier, [[Russia]] would
 
 be out to slay Teutons or England to steal colonies. Here, as elsewhere, I
 
@@ -255,7 +255,7 @@ The fact remains that we did not do what the Germans did. We did not
 
 invade Holland to seize a naval and commercial advantage: and whether they
 
-say that we wished to do it in our greed, or feared to do it in our
+say that we wished to do it in our [[Greed|greed]], or feared to do it in our
 
 cowardice, the fact remains that we did not do it. Unless this common-sense
 
@@ -269,9 +269,9 @@ to lie with the person who keeps the contract. Surely it cannot be
 
 dishonest to be honest--even if honesty is the best policy. Imagine the
 
-most complex maze of indirect motives; and still the man who keeps faith
+most complex maze of indirect motives; and still the man who keeps [[Faith|faith]]
 
-for money cannot possibly be worse than the man who breaks faith for money.
+for money cannot possibly be worse than the man who breaks [[Faith|faith]] for money.
 
 It will be noted that this ultimate test applies in the same way to Servia
 
@@ -301,7 +301,7 @@ Lastly, there is an attitude not unknown in the crisis against which I
 
 should particularly like to protest. I should address my protest especially
 
-to those lovers and pursuers of Peace who, very short-sightedly, have
+to those [[lovers]] and pursuers of Peace who, very short-sightedly, have
 
 occasionally adopted it. I mean the attitude which is impatient of these
 
@@ -325,7 +325,7 @@ supremely wrong upon their own principles of arbitration and international
 
 peace.
 
-These sincere and high-minded peace-lovers are always telling us that
+These sincere and high-minded peace-[[lovers]] are always telling us that
 
 citizens no longer settle their quarrels by private violence; and that
 
@@ -343,7 +343,7 @@ the head with the kitchen chopper, what do we do? Do we all join hands,
 
 like children playing Mulberry Bush, and say "We are all responsible for
 
-this; but let us hope it will not spread. Let us hope for the happy day
+this; but let us [[Hope|hope]] it will not spread. Let us [[Hope|hope]] for the happy day
 
 when he shall leave off chopping at the man's head; and when nobody shall
 
@@ -367,9 +367,9 @@ Given this, it is indeed true that behind these facts there are truths;
 
 truths of a terrible, of a spiritual sort. In mere fact, the Germanic power
 
-has been wrong about Servia, wrong about Russia, wrong about Belgium, wrong
+has been wrong about Servia, wrong about [[Russia]], wrong about Belgium, wrong
 
-about England, wrong about Italy. But there was a reason for its being
+about England, wrong about [[Italy]]. But there was a reason for its being
 
 wrong everywhere; and of that root reason, which has moved half the world
 
@@ -381,19 +381,19 @@ the locating, after more than a hundred years of recriminations and wrong
 
 explanations, of the modern European evil: the finding of the fountain from
 
-which poison has flowed upon all the nations of the earth.
+which [[Poison|poison]] has flowed upon all the nations of the earth.
 
 I
 
 THE WAR ON THE WORD
 
-It will hardly be denied that there is one lingering doubt in many, who
+It will hardly be denied that there is one lingering [[Doubt|doubt]] in many, who
 
-recognise unavoidable self-defence in the instant parry of the English
+recognise unavoidable [[Self|self]]-defence in the instant parry of the English
 
-sword, and who have no great love for the sweeping sabre of Sadowa and
+[[Sword|sword]], and who have no great [[Love|love]] for the sweeping sabre of Sadowa and
 
-Sedan. That doubt is the doubt whether Russia, as compared with Prussia, is
+Sedan. That [[Doubt|doubt]] is the [[Doubt|doubt]] whether [[Russia]], as compared with Prussia, is
 
 sufficiently decent and democratic to be the ally of liberal and civilised
 
@@ -423,15 +423,15 @@ given discussion, it does not even matter if it means something else in
 
 some other and quite distinct discussion. We have a perfect right to say
 
-that the width of a window comes to four feet; even if we instantly and
+that the width of a [[Window|window]] comes to four feet; even if we instantly and
 
 cheerfully change the subject to the larger mammals; and say that an
 
-elephant has four feet. The identity of the words does not matter, because
+elephant has four feet. The [[Identity|identity]] of the words does not matter, because
 
-there is no doubt at all about the meanings; because nobody is likely to
+there is no [[Doubt|doubt]] at all about the meanings; because nobody is likely to
 
-think of an elephant as four foot long, or of a window as having tusks and
+think of an elephant as four foot long, or of a [[Window|window]] as having tusks and
 
 a curly trunk.
 
@@ -447,7 +447,7 @@ think, really mean something that really exists, name or no name. Both mean
 
 different things. And if we ask what these different things are, we shall
 
-understand why England and France prefer Russia; and consider Prussia the
+understand why England and France prefer [[Russia]]; and consider Prussia the
 
 really dangerous barbarian of the two. To begin with, it goes so much
 
@@ -463,7 +463,7 @@ between us and the Alliance. But not long before, the flogging of women by
 
 an Austrian general led to that officer being thrashed in the streets of
 
-London by Barclay and Perkins' draymen. And as for the third power, the
+[[London]] by Barclay and Perkins' draymen. And as for the third power, the
 
 Prussians, it seems clear that they have treated Belgian women in a style
 
@@ -475,7 +475,7 @@ use of the word on either side. When the German Emperor complains of our
 
 allying ourselves with a barbaric and half-oriental power he is not (I
 
-assure you) shedding tears over the grave of Kosciusko. And when I say (as
+assure you) shedding [[Tears|tears]] over the [[Grave|grave]] of Kosciusko. And when I say (as
 
 I do most heartily) that the German Emperor is a barbarian, I am not merely
 
@@ -495,7 +495,7 @@ If the German calls the Russian barbarous he presumably means imperfectly
 
 civilised. There is a certain path along which Western nations have
 
-proceeded in recent times; and it is tenable that Russia has not proceeded
+proceeded in recent times; and it is tenable that [[Russia]] has not proceeded
 
 so far as the others: that she has less of the special modern system in
 
@@ -509,13 +509,13 @@ Therefore he is, in the German sense, a barbarian. Poor fellows like Gorky
 
 and Dostoieffsky have to form their own reflections on the scenery, without
 
-the assistance of large quotations from Schiller on garden seats; or
+the assistance of large quotations from Schiller on [[Garden|garden]] seats; or
 
 inscriptions directing them to pause and thank the All-Father for the
 
 finest view in Hesse-Pumpernickel. The Russians, having nothing but their
 
-faith, their fields, their great courage, and their self-governing
+[[Faith|faith]], their fields, their great [[Courage|courage]], and their [[Self|self]]-governing
 
 communes, are quite cut off from what is called (in the fashionable street
 
@@ -523,7 +523,7 @@ in Frankfort) The True, The Beautiful and The Good. There is a real sense
 
 in which one can call such backwardness barbaric; by comparison with the
 
-Kaiserstrasse; and in that sense it is true of Russia.
+Kaiserstrasse; and in that sense it is true of [[Russia]].
 
 Now we, the French and English, do not mean this when we call the Prussians
 
@@ -603,13 +603,13 @@ simplifications; and imagines that we have never heard of them. And, as I
 
 have said, his limited but very sincere lunacy concentrates chiefly in a
 
-desire to destroy two ideas, the twin root ideas of rational society. The
+[[Desire|desire]] to destroy two ideas, the twin root ideas of rational society. The
 
 first is the idea of record and promise: the second is the idea of
 
 reciprocity.
 
-It is plain that the promise, or extension of responsibility through time,
+It is plain that the promise, or extension of responsibility through [[Time|time]],
 
 is what chiefly distinguishes us, I will not say from savages, but from
 
@@ -617,25 +617,25 @@ brutes and reptiles. This was noted by the shrewdness of the Old Testament,
 
 when it summed up the dark irresponsible enormity of Leviathan in the words
 
-"Will he make a pact with thee?" The promise, like the wheel, is unknown in
+"Will he make a pact with thee?" The promise, like the [[Wheel|wheel]], is unknown in
 
-Nature: and is the first mark of man. Referring only to human civilisation
+[[Nature]]: and is the first mark of man. Referring only to human civilisation
 
 it may be said with seriousness, that in the beginning was the Word. The
 
-vow is to the man what the song is to the bird, or the bark to the dog; his
+vow is to the man what the [[Song|song]] is to the bird, or the bark to the dog; his
 
 voice, whereby he is known. Just as a man who cannot keep an appointment is
 
 not fit even to fight a duel, so the man who cannot keep an appointment
 
-with himself is not sane enough even for suicide. It is not easy to mention
+with himself is not sane enough even for [[suicide]]. It is not easy to mention
 
 anything on which the enormous apparatus of human life can be said to
 
 depend. But if it depends on anything, it is on this frail cord, flung from
 
-the forgotten hills of yesterday to the invisible mountains of to-morrow.
+the forgotten hills of yesterday to the invisible [[Mountains|mountains]] of to-morrow.
 
 On that solitary string hangs everything from Armageddon to an almanac,
 
@@ -643,9 +643,9 @@ from a successful revolution to a return ticket. On that solitary string
 
 the Barbarian is hacking heavily, with a sabre which is fortunately blunt.
 
-Any one can see this well enough, merely by reading the last negotiations
+Any one can see this [[Well|well]] enough, merely by reading the last negotiations
 
-between London and Berlin. The Prussians had made a new discovery in
+between [[London]] and Berlin. The Prussians had made a new discovery in
 
 international politics: that it may often be convenient to make a promise;
 
@@ -699,7 +699,7 @@ civilisations, even much lower civilisations, even remote and repulsive
 
 civilisations, depend as much as our own on this primary principle on which
 
-the super-morality of Potsdam declares open War. Even savages promise
+the super-[[morality]] of Potsdam declares open War. Even savages promise
 
 things; and respect those who keep their promises. Even Orientals write
 
@@ -717,9 +717,9 @@ There is doubtless a dense labyrinth of duplicity in the East, and perhaps
 
 more guile in the individual Asiatic than in the individual German. But we
 
-are not talking of the violations of human morality in various parts of the
+are not talking of the violations of human [[morality]] in various parts of the
 
-world. We are talking about a new and inhuman morality, which denies
+world. We are talking about a new and inhuman [[morality]], which denies
 
 altogether the day of obligation. The Prussians have been told by their
 
@@ -733,9 +733,9 @@ the case of Belgium, which might make it seem an exception that proved the
 
 rule. He distinctly argued, as on a principle applicable to other cases,
 
-that victory was a necessity and honour was a scrap of paper. And it is
+that victory was a necessity and [[Honour|honour]] was a scrap of paper. And it is
 
-evident that the half-educated Prussian imagination really cannot get any
+evident that the half-educated Prussian [[Imagination|imagination]] really cannot get any
 
 further than this. It cannot see that if everybody's action were entirely
 
@@ -747,13 +747,13 @@ Berlin philosopher is really on a lower mental level than the Arab who
 
 respects the salt, or the Brahmin who preserves the caste. And in this
 
-quarrel we have a right to come with scimitars as well as sabres, with bows
+quarrel we have a right to come with scimitars as [[Well|well]] as sabres, with bows
 
-as well as rifles, with assegai and tomahawk and boomerang, because there
+as [[Well|well]] as rifles, with assegai and tomahawk and boomerang, because there
 
 is in all these at least a seed of civilisation that these intellectual
 
-anarchists would kill. And if they should find us in our last stand girt
+anarchists would kill. And if they should find us in our [[Last Stand|last stand]] girt
 
 with such strange swords and following unfamiliar ensigns, and ask us for
 
@@ -763,11 +763,11 @@ fight for the trust and for the tryst; for fixed memories and the possible
 
 meeting of men; for all that makes life anything but an uncontrollable
 
-nightmare. We fight for the long arm of honour and remembrance; for all
+[[nightmare]]. We fight for the long arm of [[Honour|honour]] and remembrance; for all
 
 that can lift a man above the quicksands of his moods, and give him the
 
-mastery of time."
+mastery of [[Time|time]]."
 
 II
 
@@ -783,11 +783,11 @@ vow or the contract, which Prussian intellectualism would destroy. I urged
 
 that the Prussian is a spiritual Barbarian, because he is not bound by his
 
-own past, any more than a man in a dream. He avows that when he promised to
+own past, any more than a man in [[A Dream|a dream]]. He avows that when he promised to
 
 respect a frontier on Monday, he did not foresee what he calls "the
 
-necessity" of not respecting it on Tuesday. In short, he is like a child,
+necessity" of not respecting it on Tuesday. In short, he is like a [[Child|child]],
 
 who at the end of all reasonable explanations and reminders of admitted
 
@@ -795,17 +795,17 @@ arrangements, has no answer except "But I _want_ to."
 
 There is another idea in human arrangements so fundamental as to be
 
-forgotten; but now for the first time denied. It may be called the idea of
+forgotten; but now for the first [[Time|time]] denied. It may be called the idea of
 
 reciprocity; or, in better English, of give and take. The Prussian appears
 
 to be quite intellectually incapable of this thought. He cannot, I think,
 
-conceive the idea that is the foundation of all comedy; that, in the eyes
+conceive the idea that is the foundation of all [[Comedy|comedy]]; that, in the eyes
 
 of the other man, he is only the other man. And if we carry this clue
 
-through the institutions of Prussianised Germany, we shall find how
+through the institutions of Prussianised [[Germany]], we shall find how
 
 curiously his mind has been limited in the matter. The German differs from
 
@@ -821,17 +821,17 @@ they would still be singing sadly about how fast and true stands the watch
 
 on Rhine; and what a shame it would be if any one took their own little
 
-river away from them. That is what I mean by not being reciprocal: and you
+[[River|river]] away from them. That is what I mean by not being reciprocal: and you
 
 will find it in all that they do: as in all that is done by savages.
 
-Here, again, it is very necessary to avoid confusing this soul of the
+Here, again, it is very necessary to avoid confusing this [[Soul|soul]] of the
 
 savage with mere savagery in the sense of brutality or butchery; in which
 
 the Greeks, the French and all the most civilised nations have indulged in
 
-hours of abnormal panic or revenge. Accusations of cruelty are generally
+hours of abnormal panic or [[Revenge|revenge]]. Accusations of cruelty are generally
 
 mutual. But it is the point about the Prussian that with him nothing is
 
@@ -849,9 +849,9 @@ world believes all he sees in the newspapers; and no journalist believes a
 
 quarter of it. We should, therefore, be quite ready in the ordinary way to
 
-take a great deal off the tales of German atrocities; to doubt this story
+take a great deal off the tales of German atrocities; to [[Doubt|doubt]] this story
 
-or deny that. But there is one thing that we cannot doubt or deny: the seal
+or deny that. But there is one thing that we cannot [[Doubt|doubt]] or deny: the seal
 
 and authority of the Emperor. In the Imperial proclamation the fact that
 
@@ -861,7 +861,7 @@ ground of their frightfulness. It was a military necessity to terrify the
 
 peaceful populations with something that was not civilised, something that
 
-was hardly human. Very well. That is an intelligible policy: and in that
+was hardly human. Very [[Well|well]]. That is an intelligible policy: and in that
 
 sense an intelligible argument. An army endangered by foreigners may do the
 
@@ -873,7 +873,7 @@ States, to complain that the English are using Dum-dum bullets and
 
 violating various regulations of the Hague Conference. I pass for the
 
-present the question of whether there is a word of truth in these charges.
+present the question of whether there is a word of [[Truth|truth]] in these charges.
 
 I am content to gaze rapturously at the blinking eyes of the True, or
 
@@ -893,7 +893,7 @@ free to break the law; and also to appeal to the law. It is said that the
 
 Prussian officers play at a game called Kriegsspiel, or the War Game. But
 
-in truth they could not play at any game; for the essence of every game is
+in [[Truth|truth]] they could not play at any game; for the essence of every game is
 
 that the rules are the same on both sides.
 
@@ -903,21 +903,21 @@ is not a case of mere bloodshed or military bravado. The duel, for
 
 example, can legitimately be called a barbaric thing; but the word is here
 
-used in another sense. There are duels in Germany; but so there are in
+used in another sense. There are duels in [[Germany]]; but so there are in
 
-France, Italy, Belgium, and Spain; indeed, there are duels wherever there
+France, [[Italy]], Belgium, and Spain; indeed, there are duels wherever there
 
-are dentists, newspapers, Turkish baths, time-tables, and all the curses of
+are dentists, newspapers, Turkish baths, [[Time|time]]-tables, and all the curses of
 
-civilisation; except in England and a corner of America. You may happen to
+civilisation; except in England and a corner of [[america|America]]. You may happen to
 
 regard the duel as a historic relic of the more barbaric States on which
 
-these modern States were built. It might equally well be maintained that
+these modern States were built. It might equally [[Well|well]] be maintained that
 
 the duel is everywhere the sign of high civilisation; being the sign of its
 
-more delicate sense of honour, its more vulnerable vanity, or its greater
+more delicate sense of [[Honour|honour]], its more vulnerable [[Vanity|vanity]], or its greater
 
 dread of social disrepute. But whichever of the two views you take, you
 
@@ -941,7 +941,7 @@ we hear numberless stories, some of them certainly true. It might be called
 
 the one-sided duel. I mean the idea that there is some sort of dignity in
 
-drawing the sword upon a man who has not got a sword; a waiter, or a shop
+drawing the [[Sword|sword]] upon a man who has not got a [[Sword|sword]]; a waiter, or a shop
 
 assistant, or even a schoolboy. One of the officers of the Kaiser in the
 
@@ -955,7 +955,7 @@ Others besides German soldiers have slain the defenceless, for loot or lust
 
 or private malice, like any other murderer. The point is that nowhere else
 
-but in Prussian Germany is any theory of honour mixed up with such things;
+but in Prussian [[Germany]] is any theory of [[Honour|honour]] mixed up with such things;
 
 any more than with poisoning or picking pockets. No French, English,
 
@@ -965,7 +965,7 @@ own character by sticking his sabre through some ridiculous greengrocer who
 
 had nothing in his hand but a cucumber. It would seem as if the word which
 
-is translated from the German as "honour" must really mean something quite
+is translated from the German as "[[Honour|honour]]" must really mean something quite
 
 different in German. It seems to mean something more like what we should
 
@@ -981,17 +981,17 @@ war, we are glorifying different things. Our medals are wrought like his,
 
 but they do not mean the same thing; our regiments are cheered as his are,
 
-but the thought in the heart is not the same; the Iron Cross is on the
+but the thought in the heart is not the same; the Iron [[Cross]] is on the
 
-bosom of his king, but it is not the sign of our God. For we, alas, follow
+bosom of his [[King|king]], but it is not the sign of our God. For we, alas, follow
 
-our God with many relapses and self-contradictions, but he follows his very
+our God with many relapses and [[Self|self]]-contradictions, but he follows his very
 
 consistently. Through all the things that we have examined, the view of
 
 national boundaries, the view of military methods, the view of personal
 
-honour and self-defence, there runs in their case something of an atrocious
+[[Honour|honour]] and [[Self|self]]-defence, there runs in their case something of an atrocious
 
 simplicity; something too simple for us to understand: the idea that glory
 
@@ -1003,7 +1003,7 @@ them. Let us leave, for the moment, the relation between man and man in
 
 the thing called the duel. Let us take the relation between man and woman,
 
-in that immortal duel which we call a marriage. Here again we shall find
+in that immortal duel which we call a [[Marriage|marriage]]. Here again we shall find
 
 that other Christian civilisations aim at some kind of equality; even if
 
@@ -1011,9 +1011,9 @@ the balance be irrational or dangerous. Thus, the two extremes of the
 
 treatment of women might be represented by what are called the respectable
 
-classes in America and in France. In America they choose the risk of
+classes in [[america|America]] and in France. In [[america|America]] they choose the risk of
 
-comradeship; in France the compensation of courtesy. In America it is
+[[Comradeship|comradeship]]; in France the compensation of courtesy. In [[america|America]] it is
 
 practically possible for any young gentleman to take any young lady for
 
@@ -1029,9 +1029,9 @@ holy terror. By both extremes the woman gets something back out of life.
 
 There is only one place where she gets little or nothing back; and that is
 
-the north of Germany. France and America aim alike at equality; America by
+the north of [[Germany]]. France and [[america|America]] aim alike at equality; [[america|America]] by
 
-similarity; France by dissimilarity. But North Germany does definitely
+similarity; France by dissimilarity. But North [[Germany]] does definitely
 
 aim at inequality. The woman stands up, with no more irritation than a
 
@@ -1045,9 +1045,9 @@ will be observed that he does not say "poker"; which might come more
 
 naturally to the mind of a more common or Christian wife-beater. But then a
 
-poker is a part of domesticity; and might be used by the wife as well as
+poker is a part of domesticity; and might be used by the wife as [[Well|well]] as
 
-the husband. In fact, it often is. The sword and the whip are the weapons
+the husband. In fact, it often is. The [[Sword|sword]] and the whip are the weapons
 
 of a privileged caste.
 
@@ -1057,9 +1057,9 @@ the most distant of all differences, that of the remote and unrelated races
 
 who have seldom seen each other's faces, and never been tinged with each
 
-other's blood. Here we still find the same unvarying Prussian principle.
+other's [[Blood|blood]]. Here we still find the same unvarying Prussian principle.
 
-Any European might feel a genuine fear of the Yellow Peril; and many
+Any European might feel a genuine [[Fear|fear]] of the Yellow Peril; and many
 
 Englishmen, Frenchmen, and Russians have felt and expressed it. Many might
 
@@ -1069,9 +1069,9 @@ he ever advances against us he will trample and torture and utterly
 
 destroy, in a way that Eastern people do, but Western people do not. Nor do
 
-I doubt the German Emperor's sincerity when he sought to point out to us
+I [[Doubt|doubt]] the German Emperor's sincerity when he sought to point out to us
 
-how abnormal and abominable such a nightmare campaign would be, supposing
+how abnormal and abominable such a [[nightmare]] campaign would be, supposing
 
 that it could ever come. But now comes the comic irony; which never fails
 
@@ -1085,13 +1085,13 @@ them, in so many words, to be Huns: and leave nothing living or standing
 
 behind them. In fact, he frankly offered a new army corps of aboriginal
 
-Tartars to the Far East, within such time as it may take a bewildered
+Tartars to the Far East, within such [[Time|time]] as it may take a bewildered
 
 Hanoverian to turn into a Tartar. Any one who has the painful habit of
 
 personal thought, will perceive here at once the non-reciprocal principle
 
-again. Boiled down to its bones of logic, it means simply this: "I am a
+again. Boiled down to its bones of [[logic]], it means simply this: "I am a
 
 German and you are a Chinaman. Therefore I, being a German, have a right
 
@@ -1133,13 +1133,13 @@ men. Certainly there can be no better summary of the savage than this,
 
 which as we have seen, unfits him for the duel. He is the man who cannot
 
-love--no, nor even hate--his neighbour as himself.
+[[Love|love]]--no, nor even hate--his neighbour as himself.
 
 But this quality in Prussia does have one effect which has reference to the
 
 same question of the lower civilisations. It disposes once and for all at
 
-least of the civilising mission of Germany. Evidently the Germans are the
+least of the civilising mission of [[Germany]]. Evidently the Germans are the
 
 last people in the world to be trusted with the task. They are as
 
@@ -1169,7 +1169,7 @@ in serious official documents, that the difference between him and us is a
 
 difference between "the master-race and the inferior-race." The collapse of
 
-German philosophy always occurs at the beginning rather than the end of an
+German [[philosophy]] always occurs at the beginning rather than the end of an
 
 argument; and the difficulty here is that there is no way of testing which
 
@@ -1177,9 +1177,9 @@ is a master-race except by asking which is your own race. If you cannot
 
 find out (as is usually the case) you fall back on the absurd occupation of
 
-writing history about pre-historic times. But I suggest quite seriously
+writing [[history]] about pre-historic times. But I suggest quite seriously
 
-that if the Germans can give their philosophy to the Hottentots, there is
+that if the Germans can give their [[philosophy]] to the Hottentots, there is
 
 no reason why they should not give their sense of superiority to the
 
@@ -1195,7 +1195,7 @@ so black as he is painted. For this principle of a quite unproved racial
 
 supremacy is the last and worst of the refusals of reciprocity. The
 
-Prussian calls all men to admire the beauty of his large blue eyes. If they
+Prussian calls all men to admire the [[Beauty|beauty]] of his large blue eyes. If they
 
 do, it is because they have inferior eyes: if they don't, it is because
 
@@ -1205,7 +1205,7 @@ Wherever the most miserable remnant of our race, astray and dried up in
 
 deserts, or buried forever under the fall of bad civilisations, has some
 
-feeble memory that men are men, that bargains are bargains, that there are
+feeble [[Memory|memory]] that men are men, that bargains are bargains, that there are
 
 two sides to a question, or even that it takes two to make a quarrel--that
 
@@ -1215,7 +1215,7 @@ the splintered stone. For the Prussian begins all his culture by that act
 
 which is the destruction of all creative thought and constructive action.
 
-He breaks that mirror in the mind, in which a man can see the face of his
+He breaks that [[Mirror|mirror]] in the mind, in which a man can see the face of his
 
 friend or foe.
 
@@ -1235,11 +1235,11 @@ idea of the barbaric to the idea of the oriental, the case is even more
 
 curious. There is nothing particularly Tartar in Russian affairs, except
 
-the fact that Russia expelled the Tartars. The Eastern invader occupied
+the fact that [[Russia]] expelled the Tartars. The Eastern invader occupied
 
 and crushed the country for many years; but that is equally true of Greece,
 
-of Spain and even of Austria. If Russia has suffered from the East she has
+of Spain and even of Austria. If [[Russia]] has suffered from the East she has
 
 suffered in order to resist it: and it is rather hard that the very miracle
 
@@ -1255,15 +1255,15 @@ consider the old Eastern rule as a wound, but not as a stain.
 
 Copper-coloured men out of Africa overruled for centuries the religion and
 
-patriotism of Spaniards. Yet I have never heard that Don Quixote was an
+patriotism of Spaniards. Yet I have never heard that [[Don Quixote]] was an
 
-African fable on the lines of Uncle Remus. I have never heard that the
+African [[Fable|fable]] on the lines of Uncle Remus. I have never heard that the
 
 heavy black in the pictures of Velasquez was due to a negro ancestry. In
 
-the case of Spain, which is close to us, we can recognise the resurrection
+the case of Spain, which is close to us, we can recognise the [[Resurrection|resurrection]]
 
-of a Christian and cultured nation after its age of bondage. But Russia is
+of a Christian and cultured nation after its age of bondage. But [[Russia]] is
 
 rather remote; and those to whom nations are but names in newspapers can
 
@@ -1285,13 +1285,13 @@ they drove out the Danes. In short, some temporary submergence under the
 
 savage flood was the fate of many of the most civilised states of
 
-Christendom; and it is quite ridiculous to argue that Russia, which
+Christendom; and it is quite ridiculous to argue that [[Russia]], which
 
 wrestled hardest, must have recovered least. Everywhere, doubtless, the
 
 East spread a sort of enamel over the conquered countries, but everywhere
 
-the enamel cracked. Actual history, in fact, is exactly opposite to the
+the enamel cracked. Actual [[history]], in fact, is exactly opposite to the
 
 cheap proverb invented against the Muscovite. It is not true to say
 
@@ -1301,11 +1301,11 @@ barbaric dominion it was truer to say, "Scratch a Tartar and you find a
 
 Russian." It was the civilisation that survived under all the barbarism.
 
-This vital romance of Russia, this revolution against Asia, can be proved
+This vital [[Romance|romance]] of [[Russia]], this revolution against Asia, can be proved
 
-in pure fact: not only from the almost superhuman activity of Russia during
+in pure fact: not only from the almost superhuman activity of [[Russia]] during
 
-the struggle, but also (which is much rarer as human history goes) by her
+the struggle, but also (which is much rarer as human [[history]] goes) by her
 
 quite consistent conduct since. She is the only great nation which has
 
@@ -1313,7 +1313,7 @@ really expelled the Mongol from her country, and continued to protest
 
 against the presence of the Mongol in her continent. Knowing what he had
 
-been in Russia, she knew what he would be in Europe. In this she pursued a
+been in [[Russia]], she knew what he would be in Europe. In this she pursued a
 
 logical line of thought which was, if anything, too unsympathetic with the
 
@@ -1327,9 +1327,9 @@ under the Palmerston régime; even the young Italians sent troops to the
 
 Crimea; and of Prussia and her Austrian vassal it is nowadays needless to
 
-speak. For good or evil, it is the fact of history that Russia is the only
+speak. For good or evil, it is the fact of [[history]] that [[Russia]] is the only
 
-Power in Europe that has never supported the Crescent against the Cross.
+Power in Europe that has never supported the Crescent against the [[Cross]].
 
 That, doubtless, will appear an unimportant matter; but it may become
 
@@ -1357,19 +1357,19 @@ semi-oriental power, we deny. That he has supported an entirely oriental
 
 power cannot be denied--no, not even by the man who did it.
 
-But here is to be noted the essential difference between Russia and
+But here is to be noted the essential difference between [[Russia]] and
 
 Prussia; especially by those who use the ordinary Liberal arguments against
 
-the latter. Russia has a policy which she pursues, if you will, through
+the latter. [[Russia]] has a policy which she pursues, if you will, through
 
-evil and good; but at least so as to produce good as well as evil. Let it
+evil and good; but at least so as to produce good as [[Well|well]] as evil. Let it
 
 be granted that the policy has made her oppressive to the Finns and the
 
 Poles--though the Russian Poles feel far less oppressed than do the
 
-Prussian Poles. But it is a mere historic fact, that if Russia has been a
+Prussian Poles. But it is a mere historic fact, that if [[Russia]] has been a
 
 despot to some small nations, she has been a deliverer to others. She did,
 
@@ -1383,13 +1383,13 @@ the Hohenzollerns have never gone astray into the path of enlightenment.
 
 They have been in alliance with almost everybody off and on; with France,
 
-with England, with Austria, with Russia. Can any one candidly say that they
+with England, with Austria, with [[Russia]]. Can any one candidly say that they
 
 have left on any one of these people the faintest impress of progress or
 
 liberation? Prussia was the enemy of the French Monarchy; but a worse
 
-enemy of the French Revolution. Prussia had been an enemy of the Czar; but
+enemy of the [[French Revolution]]. Prussia had been an enemy of the Czar; but
 
 she was a worse enemy of the Duma. Prussia totally disregarded Austrian
 
@@ -1397,13 +1397,13 @@ rights; but she is to-day quite ready to inflict Austrian wrongs. This is
 
 the strong particular difference between the one empire and the other.
 
-Russia is pursuing certain intelligible and sincere ends, which to her at
+[[Russia]] is pursuing certain intelligible and sincere ends, which to her at
 
 least are ideals, and for which, therefore, she will make sacrifices and
 
 will protect the weak. But the North German soldier is a sort of abstract
 
-tyrant, everywhere and always on the side of materialistic tyranny. This
+[[Tyrant|tyrant]], everywhere and always on the side of materialistic tyranny. This
 
 Teuton in uniform has been found in strange places; shooting farmers before
 
@@ -1411,13 +1411,13 @@ Saratoga and flogging soldiers in Surrey, hanging niggers in Africa and
 
 raping girls in Wicklow; but never, by some mysterious fatality, lending a
 
-hand to the freeing of a single city or the independence of one solitary
+hand to the freeing of a single [[City|city]] or the independence of one solitary
 
-flag. Wherever scorn and prosperous oppression are, there is the Prussian;
+[[Flag|flag]]. Wherever scorn and prosperous oppression are, there is the Prussian;
 
 unconsciously consistent, instinctively restrictive, innocently evil;
 
-"following darkness like a dream."
+"following darkness like [[A Dream|a dream]]."
 
 Suppose we heard of a person (gifted with some longevity) who had helped
 
@@ -1451,21 +1451,21 @@ halter called "Stolypin's Necktie." As a fact, there were many other things
 
 interesting about Stolypin besides his necktie: his policy of peasant
 
-proprietorship, his extraordinary personal courage, and certainly none more
+proprietorship, his extraordinary personal [[Courage|courage]], and certainly none more
 
-interesting than that movement in his death agony, when he made the sign of
+interesting than that movement in his [[Death|death]] agony, when he made the sign of
 
-the cross towards the Czar, as the crown and captain of his Christianity.
+the [[Cross|cross]] towards the Czar, as the [[Crown|crown]] and captain of his [[Christianity]].
 
-But the Kaiser does not regard the Czar as the captain of Christianity. Far
+But the Kaiser does not regard the Czar as the captain of [[Christianity]]. Far
 
 from it. What he supported in Stolypin was the necktie and nothing but the
 
-necktie: the gallows and not the cross. The Russian ruler did believe that
+necktie: the gallows and not the [[Cross|cross]]. The Russian ruler did believe that
 
-the Orthodox Church was orthodox. The Austrian Archduke did really desire
+the Orthodox Church was orthodox. The Austrian Archduke did really [[Desire|desire]]
 
-to make the Catholic Church catholic. He did really believe that he was
+to make the [[Catholic Church]] catholic. He did really believe that he was
 
 being Pro-Catholic in being Pro-Austrian. But the Kaiser cannot be
 
@@ -1473,15 +1473,15 @@ Pro-Catholic, and therefore cannot have been really Pro-Austrian, he was
 
 simply and solely Anti-Servian. Nay, even in the cruel and sterile strength
 
-of Turkey, any one with imagination can see something of the tragedy and
+of Turkey, any one with [[Imagination|imagination]] can see something of the [[Tragedy|tragedy]] and
 
 therefore of the tenderness of true belief. The worst that can be said of
 
 the Moslems is, as the poet put it, they offered to man the choice of the
 
-Koran or the sword. The best that can be said for the German is that he
+Koran or the [[Sword|sword]]. The best that can be said for the German is that he
 
-does not care about the Koran, but is satisfied if he can have the sword.
+does not care about the Koran, but is satisfied if he can have the [[Sword|sword]].
 
 And for me, I confess, even the sins of these three other striving empires
 
@@ -1515,9 +1515,9 @@ But in Prussia the governing class is really a governing class: and a very
 
 few people are needed to think along these lines to make all the other
 
-people act along them. And the paradox of Prussia is this: that while its
+people act along them. And the [[Paradox|paradox]] of Prussia is this: that while its
 
-princes and nobles have no other aim on this earth but to destroy democracy
+princes and nobles have no other aim on this earth but to destroy [[democracy]]
 
 wherever it shows itself, they have contrived to get themselves trusted,
 
@@ -1537,15 +1537,15 @@ of the Prussian people, and most of the Prussian people believe it. It is
 
 thus much easier for the warlords to go everywhere and impose a hopeless
 
-slavery upon every one, for they have already imposed a sort of hopeful
+[[Slavery|slavery]] upon every one, for they have already imposed a sort of hopeful
 
-slavery on their own simple race.
+[[Slavery|slavery]] on their own simple race.
 
-And when men shall speak to us of the hoary iniquities of Russia and of how
+And when men shall speak to us of the hoary iniquities of [[Russia]] and of how
 
 antiquated is the Russian system, we shall answer "Yes; that is the
 
-superiority of Russia." Their institutions are part of their history,
+superiority of [[Russia]]." Their institutions are part of their [[history]],
 
 whether as relics or fossils. Their abuses have really been uses: that is
 
@@ -1563,15 +1563,15 @@ thumbscrews, a whole humming workshop of wheels and racks, of the newest
 
 and neatest pattern, with which to win back Europe to the Reaction ...
 
-_infandum renovare dolorem_. And if we wish to test the truth of this, it
+_infandum renovare dolorem_. And if we wish to test the [[Truth|truth]] of this, it
 
-can be done by the same method which showed us that Russia, if her race or
+can be done by the same method which showed us that [[Russia]], if her race or
 
 religion could sometimes make her an invader and an oppressor, could also
 
 be made an emancipator and a knight errant. In the same way, if the Russian
 
-institutions are old-fashioned, they honestly exhibit the good as well as
+institutions are old-fashioned, they honestly exhibit the good as [[Well|well]] as
 
 the bad that can be found in old-fashioned things. In their police system
 
@@ -1593,7 +1593,7 @@ Here again the Prussian has no accidental merits, none of those lucky
 
 survivals, none of those late repentances, which make the patchwork glory
 
-of Russia. Here all is sharpened to a point and pointed to a purpose and
+of [[Russia]]. Here all is sharpened to a point and pointed to a purpose and
 
 that purpose, if words and acts have any meaning at all, is the destruction
 
@@ -1663,13 +1663,13 @@ supreme skill and valour of the Germans in repelling such an attack.
 
 Somehow it must be made a common and obvious collapse for England; and yet
 
-a daring and unexpected triumph for Germany. In trying to express these
+a daring and unexpected triumph for [[Germany]]. In trying to express these
 
 contradictory conceptions simultaneously, he got rather mixed. Therefore he
 
-bade Germania fill all her vales and mountains with the dying agonies of
+bade Germania fill all her vales and [[Mountains|mountains]] with the dying agonies of
 
-this almost invisible earwig; and let the impure blood of this cockroach
+this almost invisible earwig; and let the impure [[Blood|blood]] of this cockroach
 
 redden the Rhine down to the sea.
 
@@ -1691,7 +1691,7 @@ Prussians have strictly observed both in breach and observance. We note it
 
 in their open annexation of lands wholly inhabited by negroes, such as
 
-Denmark. We note it equally in their instant and joyful recognition of the
+[[Denmark]]. We note it equally in their instant and joyful recognition of the
 
 flaxen hair and light blue eyes of the Turks. But it is still the abstract
 
@@ -1699,7 +1699,7 @@ principle of Professor Harnack which interests me most; and in following it
 
 I have the same complexity of enquiry, but the same simplicity of result.
 
-Comparing the Professor's concern about "Teutonism" with his unconcern
+Comparing [[The Professor|the Professor]]'s concern about "Teutonism" with his unconcern
 
 about Belgium, I can only reach the following result: "A man need not keep
 
@@ -1715,11 +1715,11 @@ scrap of waste-paper. Here again the pendants under consideration exhibit
 
 the illogical perversity that makes the brain reel. There is obligation and
 
-there is no obligation: sometimes it appears that Germany and England must
+there is no obligation: sometimes it appears that [[Germany]] and England must
 
-keep faith with each other; sometimes that Germany need not keep faith with
+keep [[Faith|faith]] with each other; sometimes that [[Germany]] need not keep [[Faith|faith]] with
 
-anybody and anything; sometimes that we alone among European peoples are
+anybody and anything; sometimes that we [[Alone|alone]] among European peoples are
 
 almost entitled to be Germans; sometimes that beside us Russians and
 
@@ -1731,7 +1731,7 @@ Teutonism.
 
 Professor Haeckel, another of the witnesses raised up against us, attained
 
-to some celebrity at one time through proving the remarkable resemblance
+to some celebrity at one [[Time|time]] through proving the remarkable resemblance
 
 between two different things by printing duplicate pictures of the same
 
@@ -1743,7 +1743,7 @@ Harnack knows what a German is like. When he wants to imagine what an
 
 Englishman is like, he simply photographs the same German over again. In
 
-both cases there is probably sincerity as well as simplicity. Haeckel was
+both cases there is probably sincerity as [[Well|well]] as simplicity. Haeckel was
 
 so certain that the species illustrated in embryo really are closely
 
@@ -1767,7 +1767,7 @@ sense that neither of them are negroes. They are, in everything good and
 
 evil, more unlike than any other two men we can take at random from the
 
-great European family. They are opposite from the roots of their history,
+great European family. They are opposite from the roots of their [[history]],
 
 nay, of their geography. It is an understatement to call Britain insular.
 
@@ -1775,7 +1775,7 @@ Britain is not only an island, but an island slashed by the sea till it
 
 nearly splits into three islands; and even the Midlands can almost smell
 
-the salt. Germany is a powerful, beautiful and fertile inland country,
+the salt. [[Germany]] is a powerful, beautiful and fertile inland country,
 
 which can only find the sea by one or two twisted and narrow paths, as
 
@@ -1783,7 +1783,7 @@ people find a subterranean lake. Thus the British Navy is really national
 
 because it is natural; it has co-hered out of hundreds of accidental
 
-adventures of ships and shipmen before Chaucer's time and after it. But the
+adventures of ships and shipmen before Chaucer's [[Time|time]] and after it. But the
 
 German Navy is an artificial thing; as artificial as a constructed Alp
 
@@ -1791,7 +1791,7 @@ would be in England. William II has simply copied the British Navy as
 
 Frederick II copied the French Army: and this Japanese or anti-like
 
-assiduity in imitation is one of the hundred qualities which the Germans
+assiduity in [[Imitation|imitation]] is one of the hundred qualities which the Germans
 
 have and the English markedly have not. There are other German
 
@@ -1799,7 +1799,7 @@ superiorities which are very much superior. The one or two really jolly
 
 things that the Germans have got are precisely the things which the English
 
-haven't got: notably a real habit of popular music and of the ancient songs
+haven't got: notably a real habit of popular music and of the ancient [[songs]]
 
 of the people, not merely spreading from the towns or caught from the
 
@@ -1815,21 +1815,21 @@ all, they differ in what is the most English of all English traits; that
 
 shame which the French may be right in calling "the bad shame"; for it is
 
-certainly mixed up with pride and suspicion, the upshot of which we call
+certainly mixed up with [[Pride|pride]] and suspicion, the upshot of which we call
 
 shyness. Even an Englishman's rudeness is often rooted in his being
 
 embarrassed. But a German's rudeness is rooted in his never being
 
-embarrassed. He eats and makes love noisily. He never feels a speech or a
+embarrassed. He eats and makes [[Love|love]] noisily. He never feels a speech or a
 
-song or a sermon or a large meal to be what the English call "out of place"
+[[Song|song]] or a sermon or a large meal to be what the English call "out of place"
 
 in particular circumstances. When Germans are patriotic and religious they
 
 have no reactions against patriotism and religion as have the English and
 
-the French. Nay, the mistake of Germany in the modern disaster largely
+the French. Nay, the mistake of [[Germany]] in the modern disaster largely
 
 arose from the facts that she thought England was simple when England is
 
@@ -1843,7 +1843,7 @@ corrupt. They could not seize the subtlety by which a rather used-up
 
 English gentleman might sell a coronet when he would not sell a fortress;
 
-might lower the public standards and yet refuse to lower the flag. In
+might lower the public standards and yet refuse to lower the [[Flag|flag]]. In
 
 short, the Germans are quite sure that they understand us entirely, because
 
@@ -1851,9 +1851,9 @@ they do not understand us at all. Possibly if they began to understand us
 
 they might hate us even more: but I would rather be hated for some small
 
-but real reason than pursued with love on account of all kinds of qualities
+but real reason than pursued with [[Love|love]] on account of all kinds of qualities
 
-which I do not possess and which I do not desire. And when the Germans get
+which I do not possess and which I do not [[Desire|desire]]. And when the Germans get
 
 their first genuine glimpse of what modern England is like they will
 
@@ -1885,9 +1885,9 @@ said Nietzsche, "that we may give birth to a dancing star."
 
 In these slight notes I have suggested the principal strong points of the
 
-Prussian character. A failure in honour which almost amounts to a failure
+Prussian character. A failure in [[Honour|honour]] which almost amounts to a failure
 
-in memory: an egomania that is honestly blind to the fact that the other
+in [[Memory|memory]]: an egomania that is honestly blind to the fact that the other
 
 party is an ego; and, above all, an actual itch for tyranny and
 
@@ -1907,13 +1907,13 @@ Teutons were not sufficiently evolved. Or they will say that they were
 
 just sufficiently evolved to show that they were not Teutons. Probably they
 
-will say both. But the truth is that all that they call evolution should
+will say both. But the [[Truth|truth]] is that all that they call evolution should
 
 rather be called evasion. They tell us they are opening windows of
 
-enlightenment and doors of progress. The truth is that they are breaking up
+enlightenment and doors of progress. The [[Truth|truth]] is that they are breaking up
 
-the whole house of the human intellect, that they may abscond in any
+the whole [[house]] of the human intellect, that they may abscond in any
 
 direction. There is an ominous and almost monstrous parallel between the
 
@@ -1925,7 +1925,7 @@ really routes of escape.
 
 LETTERS TO AN OLD GARIBALDIAN
 
-Italy, twice hast thou spoken; and time is athirst
+[[Italy]], twice hast thou spoken; and [[Time|time]] is athirst
 
 for the third.
 
@@ -1933,7 +1933,7 @@ for the third.
 
 My Dear ------
 
-It is a long time since we met; and I fear these letters may never reach
+It is a long [[Time|time]] since we met; and I [[Fear|fear]] these letters may never reach
 
 you. But in these violent times I remember with a curious vividness how you
 
@@ -1941,7 +1941,7 @@ brandished a paintbrush about your easel when I was a boy; and how it
 
 thrilled me to think that you had so brandished a bayonet against the
 
-Teutons--I hope with the same precision and happy results. Round about
+Teutons--I [[Hope|hope]] with the same precision and happy results. Round about
 
 that period, the very pigments seemed to have some sort of picturesque
 
@@ -1951,23 +1951,23 @@ and terrible about Venetian Red; and something quite catastrophic about
 
 Burnt Sienna. But somehow or other, when I saw in the street yesterday the
 
-colours on your flag, it reminded me of the colours on your palette.
+colours on your [[Flag|flag]], it reminded me of the colours on your palette.
 
-You need not fear that I shall try to entangle you or your countrymen in
+You need not [[Fear|fear]] that I shall try to entangle you or your countrymen in
 
-the matters which it is for Italians alone to decide. You know the perils
+the matters which it is for Italians [[Alone|alone]] to decide. You know the perils
 
-of either course much better than I do. Italy, most assuredly, has no need
+of either course much better than I do. [[Italy]], most assuredly, has no need
 
-to prove her courage. She has risked everything in standing out that she
+to prove her [[Courage|courage]]. She has risked everything in standing out that she
 
-could risk by coming in. The proclamations and press of Germany make it
+could risk by coming in. The proclamations and press of [[Germany]] make it
 
 plain that the Germans have risen to a height of sensibility hardly to be
 
-distinguished from madness. Supposing the nightmare of a Prussian victory,
+distinguished from [[Madness|madness]]. Supposing the [[nightmare]] of a Prussian victory,
 
-they will revenge themselves on things more remote than the Triple
+they will [[Revenge|revenge]] themselves on things more remote than the Triple
 
 Alliance. There was a promise of peace between them and Belgium; there was
 
@@ -1975,9 +1975,9 @@ none between them and England. The promise to Belgium they broke. The
 
 promise of England they invented. It is called the Treaty of Teutonism. No
 
-one ever heard of it in this country; but it seems well known in academic
+one ever heard of it in this country; but it seems [[Well|well]] known in academic
 
-circles in Germany. It seems to be something, connected with the colour of
+circles in [[Germany]]. It seems to be something, connected with the colour of
 
 one's hair. But I repeat that I am not concerned to interfere with your
 
@@ -1991,7 +1991,7 @@ now for the formation of foreign opinion is to talk about what he really
 
 understands, the condition of British opinion. It is as simple as it is
 
-solid. For the first time, perhaps, what we call the United Kingdom
+solid. For the first [[Time|time]], perhaps, what we call the United Kingdom
 
 entirely deserves its name. There has been nothing like such unanimity
 
@@ -2011,13 +2011,13 @@ Those of us who, like the present writer, repudiated the South African war
 
 from its beginnings, had yet a divided heart in the matter, and felt
 
-certain aspects of it as glorious as well as infamous. The first fact I can
+certain aspects of it as glorious as [[Well|well]] as infamous. The first fact I can
 
 offer you is the unquestionable fact that all these doubts and divisions
 
 have ceased. Nor have they ceased by any compromise; but by a universal
 
-flash of faith--or, if you will, of suspicion. Nor were our internal
+flash of [[Faith|faith]]--or, if you will, of suspicion. Nor were our internal
 
 conflicts lightly abandoned; nor our reconciliations an easy matter. I am,
 
@@ -2025,7 +2025,7 @@ as you are, a democrat and a citizen of Europe; and my friends and I had
 
 grown to loathe the plutocracy and privilege which sat in the high places
 
-of our country with a loathing which we thought no love could cast out. Of
+of our country with a loathing which we thought no [[Love|love]] could cast out. Of
 
 these rich men I will not speak here; with your permission, I will not
 
@@ -2033,15 +2033,15 @@ think of them. War is a terrible business in any case; and to some
 
 intellectual temperaments this is the most terrible part of it. That war
 
-takes the young; that war sunders the lovers; that all over Europe brides
+takes the young; that war sunders the [[lovers]]; that all over Europe brides
 
 and bridegrooms are parting at the church door: all that is only a
 
-commonplace to commonplace people. To give up one's love for one's country
+commonplace to commonplace people. To give up one's [[Love|love]] for one's country
 
 is very great. But to give up one's hate for one's country, this may also
 
-have in it something of pride and something of purification.
+have in it something of [[Pride|pride]] and something of [[Purification|purification]].
 
 What is it that has made the British peoples thus defer not only their
 
@@ -2067,11 +2067,11 @@ It is the spirit of second-rate civilisation; and the distinction involves
 
 the most important differences. Granted that it could exist, pure barbarism
 
-could not last long; as pure babyhood cannot last long. Of his own nature
+could not last long; as pure babyhood cannot last long. Of his own [[Nature|nature]]
 
-the baby is interested in the ticking of a watch; and the time will come
+the baby is interested in the ticking of a watch; and the [[Time|time]] will come
 
-when you will have to tell him, if you only tell him the wrong time. And
+when you will have to tell him, if you only tell him the wrong [[Time|time]]. And
 
 that is exactly what the second-rate civilisation does.
 
@@ -2081,7 +2081,7 @@ and incomplete civilisation always sets itself up to be copied. And in the
 
 case here considered, the German thinks that it is not only his business to
 
-spread education, but to spread compulsory education. "Science combined
+spread [[Education|education]], but to spread compulsory [[Education|education]]. "Science combined
 
 with organisation," says Professor Ostwald of Berlin University, "makes us
 
@@ -2099,15 +2099,15 @@ explain shortly why we think so, I thought of you. For this is a matter so
 
 large that I know not how to express it except in terms of artists like
 
-you, in the service of beauty and the faith in freedom. Prussia, at least
+you, in the service of [[Beauty|beauty]] and the [[Faith|faith]] in [[Freedom|freedom]]. Prussia, at least
 
 cannot help me; Lord Palmerston, I believe, called it a country of damned
 
-professors. Lord Palmerston, I fear, used the word "damned" more or less
+professors. Lord Palmerston, I [[Fear|fear]], used the word "damned" more or less
 
 flippantly. I use it reverently.
 
-Rome, at her very weakest, has always been a river that wanders and widens
+Rome, at her very weakest, has always been a [[River|river]] that wanders and widens
 
 and that waters many fields. Berlin, at its strongest, will never be
 
@@ -2115,7 +2115,7 @@ anything but a whirlpool, which seeks its own centre, and is sucked down.
 
 It would only narrow all the rest of Europe, as it has already narrowed all
 
-the rest of Germany. There is a spirit of diseased egoism, which at last
+the rest of [[Germany]]. There is a spirit of diseased egoism, which at last
 
 makes all things spin upon one pin-point in the brain. It is a spirit
 
@@ -2123,15 +2123,15 @@ expressed more often in the slangs than in the tongues of men. The English
 
 call it a fad. I do not know what the Italians call it; the Prussians call
 
-it philosophy.
+it [[philosophy]].
 
 Here is the sort of instance that made me think of you. What would you feel
 
-first, let us say, if I mentioned Michael Angelo? For the first moment,
+first, let us say, if I mentioned [[Michael]] [[Angelo]]? For the first moment,
 
 perhaps, boredom: such as I feel when Americans ask me about
 
-Stratford-on-Avon. But, supposing that just fear quieted, you would feel
+Stratford-on-Avon. But, supposing that just [[Fear|fear]] quieted, you would feel
 
 what I and every one else can feel. It might be the sense of the majestic
 
@@ -2145,11 +2145,11 @@ flank and chest and throat in "The Slave," which is like an earthquake
 
 lifting a whole landscape; it might be that tremendous Madonna, whose
 
-charity is more strong than death. Anyhow, your thoughts would be something
+[[Charity|charity]] is more strong than [[Death|death]]. Anyhow, your thoughts would be something
 
-worthy of the man's terrible paganism and his more terrible Christianity.
+worthy of the man's terrible paganism and his more terrible [[Christianity]].
 
-Who but God could have graven Michael Angelo; who came so near to graving
+Who but God could have graven [[Michael]] [[Angelo]]; who came so near to graving
 
 the Mother of God?
 
@@ -2169,7 +2169,7 @@ Lombard Beonrad, corresponding to the word Bonroth. Corresponding names are
 
 Mackrodt, Osterroth, Leonard." And so on, and so on, and so on. "In his
 
-face he has always been well-coloured...the eyes might be called small
+face he has always been [[Well|well]]-coloured...the eyes might be called small
 
 rather than large, of the colour of horn, but variable with 'flecks' of
 
@@ -2193,13 +2193,13 @@ though originally of German family he was a hybrid between the North and
 
 West brunette race."
 
-Would you take the trouble to prove that Michael Angelo was an Italian that
+Would you take the trouble to prove that [[Michael]] [[Angelo]] was an Italian that
 
 this man takes to prove that he was a German? Of course not. The only
 
 impression this man (who is a recognised Prussian historian) produces on
 
-your mind or mine is that he does not care about Michael Angelo. For you,
+your mind or mine is that he does not care about [[Michael]] [[Angelo]]. For you,
 
 being an Italian, are therefore something more than an Italian; and I being
 
@@ -2211,13 +2211,13 @@ dead Prussians, in the catacombs of Rome or under the ruins of Troy. If he
 
 can find one blue eye lying about somewhere, he is satisfied. He has no
 
-philosophy. He has a hobby, which is collecting Germans. It would probably
+[[philosophy]]. He has a hobby, which is collecting Germans. It would probably
 
 be vain for you and me to point out that we could prove anything by the
 
 sort of ingenuity which finds the German "rothe" in Buonarotti. We could
 
-have great fun depriving Germany of all her geniuses in that style. We
+have great fun depriving [[Germany]] of all her geniuses in that style. We
 
 could say that Moltke must have been an Italian, from the old Latin root
 
@@ -2233,7 +2233,7 @@ between us and the Prussian professor is simply that we are not mad.
 
 The father of Frederick the Great, the founder of the more modern
 
-Hohenzollerns, was mad. His madness consisted of stealing giants; like an
+Hohenzollerns, was mad. His [[Madness|madness]] consisted of stealing giants; like an
 
 unscrupulous travelling showman. Any man much over six foot high, whether
 
@@ -2241,7 +2241,7 @@ he were called the Russian Giant or the Irish Giant or the Chinese Giant or
 
 the Hottentot Giant, was in danger of being kidnapped and imprisoned in a
 
-Prussian uniform. It is the same mean sort of madness that is working in
+Prussian uniform. It is the same mean sort of [[Madness|madness]] that is working in
 
 Prussian professors such as the one I have quoted. They can get no further
 
@@ -2253,7 +2253,7 @@ Leonardo da Vinci, and Shakespeare himself are among the monstrosities
 
 exhibited at Frederick-William fair--on grounds as good as those quoted
 
-above. But I have put this particular case before you, as an artist rather
+above. But I have put this particular case before you, as an [[artist]] rather
 
 than an Italian, to show what I mean when I object to a "German future for
 
@@ -2265,7 +2265,7 @@ conceited and small-minded; but which also has that kind of pertinacity
 
 which always belongs to lunatics. It wants to be able to congratulate
 
-itself on Michael Angelo; never to congratulate the world. It is the spirit
+itself on [[Michael]] [[Angelo]]; never to congratulate the world. It is the spirit
 
 that can be seen in those who go bald trying to trace a genealogy; or go
 
@@ -2273,25 +2273,25 @@ bankrupt trying to make out a claim to some remote estate. The Prussian has
 
 the inconsistency of the _parvenu_; he will labour to prove that he is
 
-related to some gentleman of the Renaissance, even while he boasts of being
+related to some gentleman of the [[Renaissance]], even while he boasts of being
 
 able to "buy him up." If the Italians were really great, why--they were
 
-really Germans; and if they weren't really Germans, well then, they weren't
+really Germans; and if they weren't really Germans, [[Well|well]] then, they weren't
 
 really great. It is an occupation for an old maid.
 
-Three or four hundred years ago, in the sad silence that had followed the
+Three or four hundred years ago, in the sad [[Silence|silence]] that had followed the
 
 comparative failure of the noble effort of the Middle Ages, there came upon
 
-all Europe a storm out of the south. Its tumult is of many tongues; one can
+all Europe a [[Storm|storm]] out of the south. Its tumult is of many tongues; one can
 
 hear in it the laughter of Rabelais, or, for that matter, the lyrics of
 
-Shakespeare; but the dark heart of the storm was indeed more austral and
+Shakespeare; but the dark heart of the [[Storm|storm]] was indeed more austral and
 
-volcanic; a noise of thunderous wings and the name of Michael the
+volcanic; a noise of thunderous wings and the name of [[Michael]] the
 
 Archangel. And when it had shocked and purified the world and passed, a
 
@@ -2329,29 +2329,29 @@ be doubted by people like you. One of the German papers pathetically said
 
 that, though the mangling of Malines and Rheims was very sad, it was a
 
-comfort to think that yet nobler works of art would spring up wherever the
+comfort to think that yet nobler works of art would [[spring]] up wherever the
 
-German culture had passed in triumph. From the point of view of humour, it
+German culture had passed in triumph. From the point of view of [[Humour|humour]], it
 
 is really rather sad that they never will. The German Emperor's idea of a
 
-Gothic cathedral is as provocative to the fancy as Mrs. Todgers' idea of a
+Gothic [[Cathedral|cathedral]] is as provocative to the fancy as Mrs. Todgers' idea of a
 
 wooden leg. But I think it perfectly probable that they really intended to
 
 set up such beautiful buildings as they could. Having been blasphemous
 
-enough to ruin such things, they might well be blasphemous enough to
+enough to ruin such things, they might [[Well|well]] be blasphemous enough to
 
-replace them. Even if the Prussian attempt on Paris had not wholly
+replace them. Even if the Prussian attempt on [[Paris]] had not wholly
 
-collapsed as it has, I doubt whether the Prussians would have destroyed
+collapsed as it has, I [[Doubt|doubt]] whether the Prussians would have destroyed
 
-everything. I doubt whether they would even have destroyed the Venus de
+everything. I [[Doubt|doubt]] whether they would even have destroyed the [[Venus]] de
 
 Milo. More probably they would have put a pair of arms on it, designed by
 
-some rising German artist--the Emperor or somebody. And the two arms thus
+some rising German [[artist]]--the Emperor or somebody. And the two arms thus
 
 added would look at once like the arms of a woman at a wash-tub. The
 
@@ -2363,7 +2363,7 @@ it. And if they put on a spire, what a spire it would be! What an
 
 extinguisher for that clear and almost transparent Christian candle! Have
 
-you read some of the German explanations of Hamlet? Did I tell you that
+you read some of the German explanations of [[Hamlet]]? Did I tell you that
 
 Leonardo's hair must have been German hair, because so many of his
 
@@ -2395,13 +2395,13 @@ with two enemies extra and one ally the less. If the Germans, instead of
 
 sending spies to study the Belgian soil, had sent spies to consider the
 
-Belgian soul, they would have been saved hard work for a week or two. They
+Belgian [[Soul|soul]], they would have been saved hard work for a week or two. They
 
 have failed in controversy. I suppose it might be called a failure in
 
 controversy to say that England may be keeping her word for some wicked
 
-purpose; while Germany may be breaking her word for some noble purpose. And
+purpose; while [[Germany]] may be breaking her word for some noble purpose. And
 
 that is practically all that the Germans can manage to say. They say that
 
@@ -2411,7 +2411,7 @@ whirled us into the mad course of respecting a treaty we had signed. They
 
 can find in us no treason except that we keep our treaties: failing to do
 
-this I call failing in controversy. They have failed in popular persuasion.
+this I call failing in controversy. They have failed in popular [[Persuasion|persuasion]].
 
 They have had a very good opportunity. The British Empire does contain many
 
@@ -2431,7 +2431,7 @@ nations are neutral, Prussia can hardly bear them to be patriotic. Even
 
 when they are courting every one else they can praise no one but
 
-themselves. They fail in diplomacy, they fail in debate, they fail even in
+themselves. They fail in diplomacy, they fail in [[debate]], they fail even in
 
 demagogy. They have stupid plots, stupid explanations, and even stupid
 
@@ -2441,7 +2441,7 @@ fail in finding people stupid enough to carry them out.
 
 Now, it is this question I would ask you to consider; you, as a good middle
 
-type of the Latins, a Liberal but a Catholic, an artist but a soldier. The
+type of the Latins, a Liberal but a Catholic, an [[artist]] but a soldier. The
 
 danger to the whole civilisation of which Rome was the fountain lies in
 
@@ -2463,9 +2463,9 @@ undiplomatic thing that can be done; they concealed a breach of partnership
 
 without even concealing the concealment. They instigated the intrigue in
 
-Austria in such a way that Italy could honestly claim all the freedom of
+Austria in such a way that [[Italy]] could honestly claim all the [[Freedom|freedom]] of
 
-past ignorance, combined with all the disillusionment of present knowledge.
+past ignorance, combined with all the [[Disillusionment|disillusionment]] of present knowledge.
 
 They so ran the Triple Alliance that they had to admit your grievance, at
 
@@ -2477,11 +2477,11 @@ Chancellor's diplomacy not insinuating but simply insulting; I swear I
 
 would be a better diplomatist myself. In the same way, there is no danger
 
-of people like you being corrupted in controversy. There is no fear that
+of people like you being corrupted in controversy. There is no [[Fear|fear]] that
 
 the professors who pullulate all over the Baltic Plain will overcome the
 
-Latins in logic. Some of them even claim to be super-logical; and say they
+Latins in [[logic]]. Some of them even claim to be super-logical; and say they
 
 are too big for syllogisms; generally having found even one syllogism too
 
@@ -2505,17 +2505,17 @@ amount of nonsense about you; but they understand a little better. They do
 
 not write exactly like this, which is from the most public and accepted
 
-Prussian political philosopher (Chamberlain). "Who can live in Italy
+Prussian political philosopher (Chamberlain). "Who can live in [[Italy]]
 
 to-day and mix with its amiable and highly gifted inhabitants without
 
-feeling with pain that here a great nation is lost, irredeemably lost,
+feeling with [[Pain|pain]] that here a great nation is lost, irredeemably lost,
 
 because it lacks the inner driving power," etc., which has brought Von
 
-Kluck so triumphantly through Paris. Even a half-educated Englishman, who
+Kluck so triumphantly through [[Paris]]. Even a half-educated Englishman, who
 
-has heard of no Italian poet except Dante, knows that he was something more
+has heard of no Italian poet except [[Dante]], knows that he was something more
 
 than amiable. Even a positively illiterate Frenchman, who has heard of no
 
@@ -2523,21 +2523,21 @@ Italian warrior except Napoleon, knows that it was not in "inner driving
 
 force" that the artilleryman in question was deficient. "Who can live in
 
-Italy to-day?" Evidently the Prussian philosopher can't. His impressions
+[[Italy]] to-day?" Evidently the Prussian philosopher can't. His impressions
 
 are taken from Italian operas; not from Italian streets; certainly not from
 
-Italian fields. As a matter of fact such images of Italy as burn in the
+Italian fields. As a matter of fact such images of [[Italy]] as burn in the
 
 memories of most open-minded Northerners who have been there, are of
 
 exactly the other kind. I for one should be inclined to say, "Who can live
 
-in Italy to-day without feeling that a woman feeding children, or a man
+in [[Italy]] to-day without feeling that a woman feeding children, or a man
 
-chopping wood, may almost touch him with fear with the fulness of their
+chopping wood, may almost touch him with [[Fear|fear]] with the fulness of their
 
-humanity: so that he can almost smell blood, as one smells burning?"
+humanity: so that he can almost smell [[Blood|blood]], as one smells burning?"
 
 Italians often look lazy; that is, they look as if they would not move; but
 
@@ -2547,7 +2547,7 @@ formula fitted the Italians, it seems scarcely calculated to please them.
 
 For the Prussians, then, with the failure of their diplomacy, the failure
 
-of their philosophy, we may also place the failure of their appeals to a
+of their [[philosophy]], we may also place the failure of their appeals to a
 
 foreign people. The Prussian writer may continue his attempts to soothe
 
@@ -2557,11 +2557,11 @@ great Italians must have been something else. But the method seems to me
 
 ill adapted to popular propaganda; and I cannot but say that on this third
 
-point of persuasion, the German attempt is not striking.
+point of [[Persuasion|persuasion]], the German attempt is not striking.
 
 Now all this is important for this reason. If you consider it carefully
 
-you will see why Europe must, at whatever cost, break Germany in battle:
+you will see why Europe must, at whatever cost, break [[Germany]] in battle:
 
 and put an end to her military and material power to _do_ things. If we all
 
@@ -2611,7 +2611,7 @@ makes their case peculiar: like that of a Chinaman copying something, or a
 
 half-witted servant taking a message. If they had the power to put black
 
-and white posts round the grave of Virgil, or dig up Dante to see if he had
+and white posts round the [[Grave|grave]] of Virgil, or dig up [[Dante]] to see if he had
 
 yellow hair, the mere _doing_ of it which for some of us would be the most
 
@@ -2641,13 +2641,13 @@ they will find such restrictions chilling and irksome. They will ask some
 
 professor on what principle they are discarding it. But if they have
 
-promised to shoot the cross off a church spire, or empty the inkpot into
+promised to shoot the [[Cross|cross]] off a church spire, or empty the inkpot into
 
-somebody's beer, or bring home somebody's ears in their pocket for the
+somebody's beer, or bring [[Home|home]] somebody's ears in their pocket for the
 
 pleasure of their families, I think in these cases they would feel a sort
 
-of a shadow of what civilised men feel in the fulfilment of a promise, as
+of a [[Shadow|shadow]] of what civilised men feel in the fulfilment of a promise, as
 
 distinct from the making of it. And, in consideration of such cases, I
 
@@ -2669,7 +2669,7 @@ have been ashamed to bribe a new enemy like England to betray an old enemy
 
 like France. I thought a man would have been ashamed to punish the pure
 
-self-defence of folk so offenceless as the Belgians. These hopes must go
+[[Self|self]]-defence of folk so offenceless as the Belgians. These hopes must go
 
 from us, my friend. There is only one thing of which the Prussian would be
 
@@ -2693,11 +2693,11 @@ suppose, the German. Anyhow, it is true that there is a recognisable and
 
 real thing which might be called fidelity (or perhaps monotony) which
 
-exists in Germans in about the same style as in dogs and niggers. The North
+exists in Germans in about the same style as in [[dogs]] and niggers. The North
 
 Teuton really has in this respect the simplicities of the savage and the
 
-lower animals; that he has no reactions. He does not laugh at himself. He
+lower [[Animals|animals]]; that he has no reactions. He does not laugh at himself. He
 
 does not want to kick himself. He does not, like most of us, repent--or
 
@@ -2723,11 +2723,11 @@ braces him as it does us. Good luck never frightens him as it does us. It
 
 can be seen in what the French call Chauvinism and we call Jingoism. For us
 
-it is fireworks; for him it is daylight. On Mafeking Night, celebrating a
+it is fireworks; for him it is daylight. On Mafeking [[Night]], celebrating a
 
-small but picturesque success against the Boers, nearly everybody in London
+small but picturesque [[success]] against the Boers, nearly everybody in [[London]]
 
-came out waving little flags. Nearly everybody in London is now heartily
+came out waving little flags. Nearly everybody in [[London]] is now heartily
 
 ashamed of it. But it would never occur to the Prussians not to ride their
 
@@ -2735,25 +2735,25 @@ high horses with the freshest insolence for the far-off victory of Sedan;
 
 though on that very anniversary the star of their fate had turned scornful
 
-in the sky, and Von Kluck was in retreat from Paris. Above all, the
+in the sky, and Von Kluck was in retreat from [[Paris]]. Above all, the
 
 Prussian does not feel annoyed, as I do, when foreigners praise his country
 
 for all the wrong reasons. The Prussian will allow you to praise him for
 
-any reasons, for any length of time, for any eternity of folly; he is there
+any reasons, for any length of [[Time|time]], for any [[Eternity|eternity]] of folly; he is there
 
 to be praised. Probably he is proud of this; probably he thinks he has a
 
-good digestion, because the poison of praise does not make him sick. He
+good digestion, because the [[Poison|poison]] of praise does not make him sick. He
 
-thinks the absence of such doubt, or self-knowledge, makes for composure,
+thinks the absence of such [[Doubt|doubt]], or [[Self-Knowledge|self-knowledge]], makes for composure,
 
 grandeur, a colossal calm, a superior race--in short, the whole claim of
 
-the Teutons to be the highest spiritual product of Nature and Evolution.
+the Teutons to be the highest spiritual product of [[Nature]] and Evolution.
 
-But as I have noticed a calm unity even more complete, not only in dogs and
+But as I have noticed a calm [[unity]] even more complete, not only in [[dogs]] and
 
 negroes, but in slugs, slow-worms, mangoldwurzels, moss, mud and bits of
 
@@ -2781,7 +2781,7 @@ wiser to discuss the details of the Greek and Roman past, which we can
 
 follow, rather than the details of their own future, about which we are
 
-naturally not so well informed. Well, every dome they build, every pillar
+naturally not so [[Well|well]] informed. [[Well]], every dome they build, every pillar
 
 they put upright, every pedestal for epitaph or panel for decoration, every
 
@@ -2799,11 +2799,11 @@ are perpetually rioting for one thing or another." I said I supposed he
 
 would have had no scruple in extinguishing Athens, Rome, Florence and
 
-Paris; for they were always rioting for one thing or another. His reply
+[[Paris]]; for they were always rioting for one thing or another. His reply
 
 indicated, I thought, that he felt about Cæsar or Rienzi very much as the
 
-Scotch Presbyterian Minister felt about Christ, when he was reminded of the
+Scotch Presbyterian Minister felt about [[Christ]], when he was reminded of the
 
 corn-plucking on the Sabbath, and said, "Weel, I dinna think the better of
 
@@ -2811,11 +2811,11 @@ him." In other words he was quite positive, like all his countrymen, that
 
 he could impose a sort of Pax Germanica, which would satisfy all the needs
 
-of order and of freedom forever; leaving no need for revolutions or
+of order and of [[Freedom|freedom]] forever; leaving no need for revolutions or
 
-reactions. I am myself of a different opinion. When I was a child, when the
+reactions. I am myself of a different opinion. When I was a [[Child|child]], when the
 
-toy-trade of Germany had begun to flood this country, there was a priggish
+toy-trade of [[Germany]] had begun to flood this country, there was a priggish
 
 British couplet, engraven on the minds of governesses, which ran--
 
@@ -2831,17 +2831,17 @@ they were caught in the infernal wheels of the modern civilisation of
 
 factories. But, for the present, I am only concerned to say that I do not
 
-accept this line of historical division. I do not think history supports
+accept this line of historical division. I do not think [[history]] supports
 
 the view that those who could break things could not make them.
 
 This is the least intrusive approach by which I can touch on a topic that
 
-must of necessity be a delicate one; yet which may well be a difficulty
+must of necessity be a delicate one; yet which may [[Well|well]] be a difficulty
 
 among Latins like yourself. Against this preposterous Prussian upstart we
 
-have not only to protect our unity; we have even to protect our quarrels.
+have not only to protect our [[unity]]; we have even to protect our quarrels.
 
 And the deepest of the reactions or revolts of which I have spoken is the
 
@@ -2851,7 +2851,7 @@ cloven the Christian from the Liberal ideal. It would ill become me, in
 
 whose country there is neither such clear doctrine nor such combative
 
-democracy, to suppose it can be easy for any of you to close up such sacred
+[[democracy]], to suppose it can be easy for any of you to close up such sacred
 
 wounds. There must still be Catholics who feel they can never forgive a
 
@@ -2867,7 +2867,7 @@ turnip-face of _ce type là_, as the French say, who conceives that he can
 
 make them both like himself and yet remain superior to both.
 
-I implore you to keep out of the hands of this Fool the quarrel of the
+I implore you to keep out of the hands of this [[Fool]] the quarrel of the
 
 great saints and of the great blasphemers. He will do to religion what he
 
@@ -2879,7 +2879,7 @@ pure white. The other day the Director of Museums in Berlin was said to be
 
 setting about the creation of a new kind of Art: German Art. Philosophers
 
-and men of science were at the same time directed to meet round the table
+and men of science were at the same [[Time|time]] directed to meet round the table
 
 and found a new Religion: German Religion. How can such people appreciate
 
@@ -2897,11 +2897,11 @@ victory in Flanders. And I suppose (now I come to think of it) that the
 
 Germans do.
 
-By the fulness of your faith and even the fulness of your despair, you that
+By the fulness of your [[Faith|faith]] and even the fulness of your [[Despair|despair]], you that
 
 remember Rome, have earned a right to prevent all our quarrels being
 
-quenched in such cold water from the north. But it is not too much to say
+quenched in such cold [[Water|water]] from the north. But it is not too much to say
 
 that neither religion at its worst nor republicanism at its worst ever
 
@@ -2915,11 +2915,11 @@ called it being merely a citizen; or being merely a sinner. There has
 
 always been something which your ancestors called _Verecundia_; which is at
 
-once humility and dignity. Whatever our faults, we do not do exactly as
+once [[Humility|humility]] and dignity. Whatever our faults, we do not do exactly as
 
-the Prussians do. We do not bellow day and night to draw attention to our
+the Prussians do. We do not bellow day and [[Night|night]] to draw attention to our
 
-own stern silence. We do not praise ourselves solely because nobody else
+own stern [[Silence|silence]]. We do not praise ourselves solely because nobody else
 
 will praise us. I, for one, say at the end of these letters, as I said at
 
@@ -2945,15 +2945,15 @@ the name of Prussia is not the signal for hopeful prayers and joyful
 
 dances? I am that German who has civilised Belgium; and delicately trimmed
 
-the frontiers of Denmark. And I may tell you, with the fulness of
+the frontiers of [[Denmark]]. And I may tell you, with the fulness of
 
 conviction, that I have never failed, and shall never fail in anything.
 
-Permit me, therefore, to bless your house by the passage of my beautiful
+Permit me, therefore, to bless your [[house]] by the passage of my beautiful
 
-boots; that I may burgle the house next door."
+boots; that I may burgle the [[house]] next door."
 
-And then something European that is prouder than pride will rise up in me;
+And then something European that is prouder than [[Pride|pride]] will rise up in me;
 
 and I shall answer:--
 
@@ -2961,7 +2961,7 @@ and I shall answer:--
 
 South Africa; who knows all his mistakes, who is heavy with all his sins.
 
-And he tells you, Faultless Being, with a truth as deep as his own guilt,
+And he tells you, Faultless Being, with a [[Truth|truth]] as deep as his own [[Guilt|guilt]],
 
 and as deathless as his own remembrance, that you shall not pass this way."
 
@@ -3091,7 +3091,7 @@ copying, distributing, performing, displaying or creating derivative
 
 works based on the work as long as all references to Project Gutenberg
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 
 Gutenberg-tm mission of promoting free access to electronic works by
 
@@ -3193,7 +3193,7 @@ active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may [[convert]] to and distribute this work in any binary,
 
 compressed, marked up, nonproprietary or proprietary form, including any
 
@@ -3283,7 +3283,7 @@ electronic work or group of works on different terms than are set
 
 forth in this agreement, you must obtain permission in writing from
 
-both the Project Gutenberg Literary Archive Foundation and Michael
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]
 
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
@@ -3459,7 +3459,7 @@ Fairbanks, AK, 99712., but its volunteers and employees are scattered
 
 throughout numerous locations.  Its business office is located at
 
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email
 
 business@pglaf.org.  Email contact links and up to date contact
 
@@ -3485,7 +3485,7 @@ spread public support and donations to carry out its mission of
 
 increasing the number of public domain and licensed works that can be
 
-freely distributed in machine readable form accessible by the widest
+freely distributed in [[Machine|machine]] readable form accessible by the widest
 
 array of equipment including outdated equipment.  Many small donations
 
@@ -3521,7 +3521,7 @@ International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States.  U.S. laws [[Alone|alone]] swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -3535,7 +3535,7 @@ Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor [[Michael]] S. Hart is the originator of the Project Gutenberg-tm
 
 concept of a library of electronic works that could be freely shared
 

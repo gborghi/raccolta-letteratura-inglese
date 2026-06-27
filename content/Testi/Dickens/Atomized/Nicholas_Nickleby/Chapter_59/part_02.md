@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 59 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 59 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,8 +16,8 @@ tags:
 
 ‘Mr. Nickleby, sir,’ returned brother Charles: no less mildly than
 before, but firmly too: ‘I come here against my will, sorely and
-grievously against my will. I have never been in this house before; and,
-to speak my mind, sir, I don’t feel at home or easy in it, and have no
+grievously against my will. I have never been in this [[house]] before; and,
+to speak my mind, sir, I don’t feel at [[Home|home]] or easy in it, and have no
 wish ever to be here again. You do not guess the subject on which I come
 to speak to you; you do not indeed. I am sure of that, or your manner
 would be a very different one.’
@@ -30,8 +30,8 @@ look without reserve.
 
 ‘Oh, by all means, if you please,’ returned Ralph drily. ‘Here are walls
 to speak to, sir, a desk, and two stools: most attentive auditors, and
-certain not to interrupt you. Go on, I beg; make my house yours, and
-perhaps by the time I return from my walk, you will have finished what
+certain not to interrupt you. Go on, I beg; make my [[house]] yours, and
+perhaps by the [[Time|time]] I return from my walk, you will have finished what
 you have to say, and will yield me up possession again.’
 
 So saying, he buttoned his coat, and turning into the passage, took down
@@ -46,15 +46,15 @@ not to me!’
 ‘I am no angel, Heaven knows,’ returned brother Charles, shaking his
 head, ‘but an erring and imperfect man; nevertheless, there is
 one quality which all men have, in common with the angels, blessed
-opportunities of exercising, if they will; mercy. It is an errand of
-mercy that brings me here. Pray let me discharge it.’
+opportunities of exercising, if they will; [[Mercy|mercy]]. It is an errand of
+[[Mercy|mercy]] that brings me here. Pray let me discharge it.’
 
-‘I show no mercy,’ retorted Ralph with a triumphant smile, ‘and I
-ask none. Seek no mercy from me, sir, in behalf of the fellow who has
+‘I show no [[Mercy|mercy]],’ retorted Ralph with a triumphant smile, ‘and I
+ask none. Seek no [[Mercy|mercy]] from me, sir, in behalf of the fellow who has
 imposed upon your childish credulity, but let him expect the worst that
 I can do.’
 
-‘HE ask mercy at your hands!’ exclaimed the old merchant warmly; ‘ask it
+‘HE ask [[Mercy|mercy]] at your hands!’ exclaimed the old merchant warmly; ‘ask it
 at his, sir; ask it at his. If you will not hear me now, when you may,
 hear me when you must, or anticipate what I would say, and take measures
 to prevent our ever meeting again. Your nephew is a noble lad, sir, an
@@ -64,42 +64,42 @@ you have been recently engaged, and find it difficult of pursuing, come
 to me and my brother Ned, and Tim Linkinwater, sir, and we’ll explain
 it for you--and come soon, or it may be too late, and you may have it
 explained with a little more roughness, and a little less delicacy--and
-never forget, sir, that I came here this morning, in mercy to you, and
+never forget, sir, that I came here this morning, in [[Mercy|mercy]] to you, and
 am still ready to talk to you in the same spirit.’
 
 With these words, uttered with great emphasis and emotion, brother
-Charles put on his broad-brimmed hat, and, passing Ralph Nickleby
+Charles put on his broad-brimmed hat, and, passing [[Ralph Nickleby]]
 without any other remark, trotted nimbly into the street. Ralph looked
-after him, but neither moved nor spoke for some time: when he broke what
-almost seemed the silence of stupefaction, by a scornful laugh.
+after him, but neither moved nor spoke for some [[Time|time]]: when he broke what
+almost seemed the [[Silence|silence]] of stupefaction, by a scornful laugh.
 
-‘This,’ he said, ‘from its wildness, should be another of those dreams
-that have so broken my rest of late. In mercy to me! Pho! The old
+‘This,’ he said, ‘from its wildness, should be another of those [[Dreams|dreams]]
+that have so broken my rest of late. In [[Mercy|mercy]] to me! Pho! The old
 simpleton has gone mad.’
 
 Although he expressed himself in this derisive and contemptuous manner,
 it was plain that, the more Ralph pondered, the more ill at ease he
 became, and the more he laboured under some vague anxiety and alarm,
-which increased as the time passed on and no tidings of Newman Noggs
+which increased as the [[Time|time]] passed on and no tidings of [[Newman Noggs]]
 arrived. After waiting until late in the afternoon, tortured by various
 apprehensions and misgivings, and the recollection of the warning which
 his nephew had given him when they last met: the further confirmation of
 which now presented itself in one shape of probability, now in another,
-and haunted him perpetually: he left home, and, scarcely knowing why,
+and haunted him perpetually: he left [[Home|home]], and, scarcely knowing why,
 save that he was in a suspicious and agitated mood, betook himself to
-Snawley’s house. His wife presented herself; and, of her, Ralph inquired
-whether her husband was at home.
+Snawley’s [[house]]. His wife presented herself; and, of her, Ralph inquired
+whether her husband was at [[Home|home]].
 
 ‘No,’ she said sharply, ‘he is not indeed, and I don’t think he will be
-at home for a very long time; that’s more.’
+at [[Home|home]] for a very long [[Time|time]]; that’s more.’
 
 ‘Do you know who I am?’ asked Ralph.
 
-‘Oh yes, I know you very well; too well, perhaps, and perhaps he does
+‘Oh yes, I know you very [[Well|well]]; too [[Well|well]], perhaps, and perhaps he does
 too, and sorry am I that I should have to say it.’
 
-‘Tell him that I saw him through the window-blind above, as I crossed
-the road just now, and that I would speak to him on business,’ said
+‘Tell him that I saw him through the [[Window|window]]-blind above, as I crossed
+the [[Road|road]] just now, and that I would speak to him on business,’ said
 Ralph. ‘Do you hear?’
 
 ‘I hear,’ rejoined Mrs. Snawley, taking no further notice of the request.
@@ -123,15 +123,15 @@ retorted the dame. ‘Take care that other people know when to hold
 theirs.’
 
 ‘You jade,’ said Ralph, ‘if your husband has been idiot enough to trust
-you with his secrets, keep them; keep them, she-devil that you are!’
+you with his [[Secrets|secrets]], keep them; keep them, she-devil that you are!’
 
-‘Not so much his secrets as other people’s secrets, perhaps,’ retorted
-the woman; ‘not so much his secrets as yours. None of your black looks
-at me! You’ll want ‘em all, perhaps, for another time. You had better
+‘Not so much his [[Secrets|secrets]] as other people’s [[Secrets|secrets]], perhaps,’ retorted
+the woman; ‘not so much his [[Secrets|secrets]] as yours. None of your black looks
+at me! You’ll want ‘em all, perhaps, for another [[Time|time]]. You had better
 keep ‘em.’
 
-‘Will you,’ said Ralph, suppressing his passion as well as he could,
+‘Will you,’ said Ralph, suppressing his passion as [[Well|well]] as he could,
 and clutching her tightly by the wrist; ‘will you go to your husband and
-tell him that I know he is at home, and that I must see him? And
+tell him that I know he is at [[Home|home]], and that I must see him? And
 will you tell me what it is that you and he mean by this new style of
 behaviour?’

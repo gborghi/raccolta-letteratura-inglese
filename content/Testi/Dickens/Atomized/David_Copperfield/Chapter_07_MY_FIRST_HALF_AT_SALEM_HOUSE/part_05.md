@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM HOUSE (part 5)"
+title: "[[David Copperfield]] — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE]] (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,10 +21,10 @@ politeness:
 you please, to set him right before the assembled school.’
 
 ‘He is right, sir, without correction,’ returned Mr. Mell, in the midst
-of a dead silence; ‘what he has said is true.’
+of a dead [[Silence|silence]]; ‘what he has said is true.’
 
 ‘Be so good then as declare publicly, will you,’ said Mr. Creakle,
-putting his head on one side, and rolling his eyes round the school,
+putting his head on one side, and [[rolling]] his eyes round the school,
 ‘whether it ever came to my knowledge until this moment?’
 
 ‘I believe not directly,’ he returned.
@@ -37,16 +37,16 @@ has been, here.’
 
 ‘I apprehend, if you come to that,’ said Mr. Creakle, with his veins
 swelling again bigger than ever, ‘that you’ve been in a wrong position
-altogether, and mistook this for a charity school. Mr. Mell, we’ll part,
+altogether, and mistook this for a [[Charity|charity]] school. Mr. Mell, we’ll part,
 if you please. The sooner the better.’
 
-‘There is no time,’ answered Mr. Mell, rising, ‘like the present.’
+‘There is no [[Time|time]],’ answered Mr. Mell, rising, ‘like the present.’
 
 ‘Sir, to you!’ said Mr. Creakle.
 
 ‘I take my leave of you, Mr. Creakle, and all of you,’ said Mr. Mell,
 glancing round the room, and again patting me gently on the shoulders.
-‘James Steerforth, the best wish I can leave you is that you may come to
+‘[[James Steerforth]], the best wish I can leave you is that you may come to
 be ashamed of what you have done today. At present I would prefer to see
 you anything rather than a friend, to me, or to anyone in whom I feel an
 interest.’
@@ -56,18 +56,18 @@ flute and a few books from his desk, and leaving the key in it for his
 successor, he went out of the school, with his property under his arm.
 Mr. Creakle then made a speech, through Tungay, in which he thanked
 Steerforth for asserting (though perhaps too warmly) the independence
-and respectability of Salem House; and which he wound up by shaking
+and respectability of Salem [[house|House]]; and which he wound up by shaking
 hands with Steerforth, while we gave three cheers--I did not quite know
 what for, but I supposed for Steerforth, and so joined in them ardently,
 though I felt miserable. Mr. Creakle then caned Tommy Traddles for
-being discovered in tears, instead of cheers, on account of Mr. Mell’s
+being discovered in [[Tears|tears]], instead of cheers, on account of Mr. Mell’s
 departure; and went back to his sofa, or his bed, or wherever he had
 come from.
 
 We were left to ourselves now, and looked very blank, I recollect, on
-one another. For myself, I felt so much self-reproach and contrition for
+one another. For myself, I felt so much [[Self|self]]-reproach and contrition for
 my part in what had happened, that nothing would have enabled me to keep
-back my tears but the fear that Steerforth, who often looked at me, I
+back my [[Tears|tears]] but the [[Fear|fear]] that Steerforth, who often looked at me, I
 saw, might think it unfriendly--or, I should rather say, considering our
 relative ages, and the feeling with which I regarded him, undutiful--if
 I showed the emotion which distressed me. He was very angry with
@@ -89,7 +89,7 @@ him his situation.’
 ‘His feelings?’ repeated Steerforth disdainfully. ‘His feelings will
 soon get the better of it, I’ll be bound. His feelings are not like
 yours, Miss Traddles. As to his situation--which was a precious one,
-wasn’t it?--do you suppose I am not going to write home, and take care
+wasn’t it?--do you suppose I am not going to write [[Home|home]], and take care
 that he gets some money? Polly?’
 
 We thought this intention very noble in Steerforth, whose mother was
@@ -99,7 +99,7 @@ and exalted Steerforth to the skies: especially when he told us, as he
 condescended to do, that what he had done had been done expressly for
 us, and for our cause; and that he had conferred a great boon upon us
 by unselfishly doing it. But I must say that when I was going on with a
-story in the dark that night, Mr. Mell’s old flute seemed more than once
+story in the dark that [[Night|night]], Mr. Mell’s old flute seemed more than once
 to sound mournfully in my ears; and that when at last Steerforth was
 tired, and I lay down in my bed, I fancied it playing so sorrowfully
 somewhere, that I was quite wretched.
@@ -111,7 +111,7 @@ master came from a grammar school; and before he entered on his duties,
 dined in the parlour one day, to be introduced to Steerforth. Steerforth
 approved of him highly, and told us he was a Brick. Without exactly
 understanding what learned distinction was meant by this, I respected
-him greatly for it, and had no doubt whatever of his superior knowledge:
+him greatly for it, and had no [[Doubt|doubt]] whatever of his superior knowledge:
 though he never took the pains with me--not that I was anybody--that Mr.
 Mell had taken.
 

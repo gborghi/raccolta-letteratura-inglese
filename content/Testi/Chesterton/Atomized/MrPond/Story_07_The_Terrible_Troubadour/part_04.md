@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Terrible Troubadour (part 4)"
+title: "[[MrPond]] — The Terrible Troubadour (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-like the traditional artist who hasn't had his hair cut.  Also, he
+like the traditional [[Artist|artist]] who hasn't had his hair cut.  Also, he
 
 affected that sort of languid stoop that such artists assume; and
 
@@ -28,7 +28,7 @@ exaggerate.
 
 the wall; and it was even more unmistakable.  It was also more
 
-active; it was not only a shadow-pantomime but--in a pretty creepy
+active; it was not only a [[Shadow|shadow]]-pantomime but--in a pretty creepy
 
 sense--a knockabout pantomime."
 
@@ -40,17 +40,17 @@ stared at him, not because his intervention was important, but
 
 because it seemed trivial and totally unnecessary.  But before he
 
-relapsed again into silence, he added:
+relapsed again into [[Silence|silence]], he added:
 
 
 
-"The most deceptive thing about a shadow is that it may be quite
+"The most deceptive thing about a [[Shadow|shadow]] is that it may be quite
 
 accurate."
 
 
 
-"Well, really!" exploded Wotton; but his moderately mild explosion
+"[[Well]], really!" exploded Wotton; but his moderately mild explosion
 
 was overshadowed by one of the abrupt movements which once or twice
 
@@ -68,21 +68,21 @@ courtliness, and said:
 
 paradoxes.  We are all very proud of our Pond and of his paradoxes.
 
-Try them in your bath.  Pond's paradoxes are in every home.  What
+Try them in your bath.  Pond's paradoxes are in every [[Home|home]].  What
 
 would Mother do without Pond's--"
 
 
 
-"Don't be a fool, Gahagan!" said Hubert Wotton; and his voice had a
+"Don't be a [[Fool|fool]], Gahagan!" said [[Hubert]] Wotton; and his voice had a
 
 ring of steel which his friends had always respected.  There was a
 
-silence, in which Mr. Pond said simply:
+[[Silence|silence]], in which Mr. Pond said simply:
 
 
 
-"I never uttered a paradox in my life.  What I said was a truism."
+"I never uttered a [[Paradox|paradox]] in my life.  What I said was a truism."
 
 
 
@@ -108,17 +108,17 @@ flash; but the other I saw plainly enough.
 
 "The first figure, the long-haired figure I had already identified
 
-with the artist, ran very quickly across the moonlit patch and
+with the [[Artist|artist]], ran very quickly across the moonlit patch and
 
-vanished into the vast shadow of the creeper that climbed the
+vanished into the vast [[Shadow|shadow]] of the creeper that climbed the
 
-balcony; but there is no doubt that he began to climb the creeper.
+balcony; but there is no [[Doubt|doubt]] that he began to climb the creeper.
 
 
 
 "The second figure stood for a moment, staring, in the full stare
 
-of the moon; and there was no doubt about him at all.  It was
+of the [[Moon|moon]]; and there was no [[Doubt|doubt]] about him at all.  It was
 
 Captain Gahagan, in khaki, and he already had his big service
 
@@ -126,7 +126,7 @@ revolver in his hand.  In a high, unnatural voice he cried after
 
 and cursed the other unfortunate troubadour, who had climbed his
 
-romantic rope-ladder of leaves, exactly as he had climbed it
+romantic rope-ladder of [[Leaves|leaves]], exactly as he had climbed it
 
 himself.
 
@@ -134,9 +134,9 @@ himself.
 
 "At that instant the whole situation became finally clear; for I
 
-saw the hairy head of the unfortunate artist rising out of the
+saw the hairy head of the unfortunate [[Artist|artist]] rising out of the
 
-tangle of tropical leaves, in shadow, but all the more unmistakable
+tangle of tropical [[Leaves|leaves]], in [[Shadow|shadow]], but all the more unmistakable
 
 for being haloed in the moonshine.  But the same moonshine fell
 
@@ -200,15 +200,15 @@ creeper himself, though he had already shown how quickly he could
 
 do it.  Unfortunately, he did something else; which he could do
 
-much more quickly.  I saw the blue flash of the pistol-barrel in
+much more quickly.  I saw the blue flash of the [[Pistol|pistol]]-barrel in
 
-the moon, as he lifted it; and then the red flash; and then a puff
+the [[Moon|moon]], as he lifted it; and then the red flash; and then a puff
 
 of smoke detached itself and climbed the sky, like a cloud; and the
 
 man on the green ladder fell crashing like a stone through the
 
-thrashing great leaves to the dark space below.
+thrashing great [[Leaves|leaves]] to the dark space below.
 
 
 
@@ -218,15 +218,15 @@ but I knew, for all practical purposes, that the man was dead; for
 
 his slayer laid hold of one leg of the corpse and dragged it away
 
-down the darkling and descending paths of the garden.  And when I
+down the darkling and descending paths of the [[Garden|garden]].  And when I
 
 heard a distant splash, I knew he had thrown the corpse into the
 
-river.
+[[River|river]].
 
 
 
-"Well, as I told you before, that is my very serious testimony to
+"[[Well]], as I told you before, that is my very serious testimony to
 
 what I saw and knew; but I give it only from a sense of social duty
 

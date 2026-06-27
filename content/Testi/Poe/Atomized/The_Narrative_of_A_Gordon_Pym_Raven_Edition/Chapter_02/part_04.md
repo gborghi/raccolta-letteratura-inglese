@@ -18,7 +18,7 @@ tags:
 
       experienced upon awakening, I began to suppose that I must have
 
-      slept for an inordinately long period of time. The close
+      slept for an inordinately long period of [[Time|time]]. The close
 
       atmosphere of the hold might have had something to do with this,
 
@@ -32,7 +32,7 @@ tags:
 
       disturbance by opening the trap or otherwise, and, having wound
 
-      up the watch, contented myself as well as possible.
+      up the watch, contented myself as [[Well|well]] as possible.
 
 
 
@@ -42,15 +42,15 @@ tags:
 
       of the grossest inattention. What alarmed me chiefly was, that
 
-      the water in my jug was reduced to about half a pint, and I was
+      the [[Water|water]] in my jug was reduced to about half a pint, and I was
 
-      suffering much from thirst, having eaten freely of the Bologna
+      [[Suffering|suffering]] much from thirst, having eaten freely of the Bologna
 
       sausages after the loss of my mutton. I became very uneasy, and
 
       could no longer take any interest in my books. I was overpowered,
 
-      too, with a desire to sleep, yet trembled at the thought of
+      too, with a [[Desire|desire]] to [[Sleep|sleep]], yet trembled at the thought of
 
       indulging it, lest there might exist some pernicious influence,
 
@@ -70,7 +70,7 @@ tags:
 
       him—but I could think of none which would account for his
 
-      suffering me to remain so long a prisoner, except, indeed, his
+      [[Suffering|suffering]] me to remain so long a prisoner, except, indeed, his
 
       having suddenly died or fallen overboard, and upon this idea I
 
@@ -102,17 +102,17 @@ tags:
 
       or get at least a little fresh air through the opening, and a
 
-      further supply of water from the stateroom. While occupied with
+      further supply of [[Water|water]] from the stateroom. While occupied with
 
       this thought, however, I fell in spite of every exertion to the
 
-      contrary, into a state of profound sleep, or rather stupor. My
+      contrary, into a state of profound [[Sleep|sleep]], or rather stupor. My
 
-      dreams were of the most terrific description. Every species of
+      [[Dreams|dreams]] were of the most terrific description. Every species of
 
       calamity and horror befell me. Among other miseries I was
 
-      smothered to death between huge pillows, by demons of the most
+      smothered to [[Death|death]] between huge pillows, by demons of the most
 
       ghastly and ferocious aspect. Immense serpents held me in their
 
@@ -122,25 +122,25 @@ tags:
 
       and awe-inspiring character, spread themselves out before me.
 
-      Immensely tall trunks of trees, gray and leafless, rose up in
+      Immensely tall trunks of trees, gray and leafless, [[Rose|rose]] up in
 
       endless succession as far as the eye could reach. Their roots
 
-      were concealed in wide-spreading morasses, whose dreary water lay
+      were concealed in wide-spreading morasses, whose dreary [[Water|water]] lay
 
       intensely black, still, and altogether terrible, beneath. And the
 
       strange trees seemed endowed with a human vitality, and waving to
 
-      and fro their skeleton arms, were crying to the silent waters for
+      and fro their [[skeleton]] arms, were crying to the silent waters for
 
-      mercy, in the shrill and piercing accents of the most acute agony
+      [[Mercy|mercy]], in the shrill and piercing accents of the most acute agony
 
-      and despair. The scene changed; and I stood, naked and alone,
+      and [[Despair|despair]]. The scene changed; and I stood, naked and [[Alone|alone]],
 
       amidst the burning sand-plains of Sahara. At my feet lay crouched
 
-      a fierce lion of the tropics. Suddenly his wild eyes opened and
+      a fierce [[Lion|lion]] of the tropics. Suddenly his wild eyes opened and
 
       fell upon me. With a conclusive bound he sprang to his feet, and
 
@@ -152,9 +152,9 @@ tags:
 
       I at last found myself partially awake. My dream, then, was not
 
-      all a dream. Now, at least, I was in possession of my senses. The
+      all [[A Dream|a dream]]. Now, at least, I was in possession of my senses. The
 
-      paws of some huge and real monster were pressing heavily upon my
+      paws of some huge and real [[Monster|monster]] were pressing heavily upon my
 
       bosom—his hot breath was in my ear—and his white and ghastly
 
@@ -172,7 +172,7 @@ tags:
 
       helpless, and, I fancied, a dying condition beneath him. I felt
 
-      that my powers of body and mind were fast leaving me—in a word,
+      that my powers of [[Body|body]] and mind were fast leaving me—in a word,
 
       that I was perishing, and perishing of sheer fright. My brain
 
@@ -186,6 +186,6 @@ tags:
 
       fury of the animal. He precipitated himself at full length upon
 
-      my body; but what was my astonishment, when, with a long and low
+      my [[Body|body]]; but what was my astonishment, when, with a long and low
 
       whine, he commenced licking my face and hands with the greatest

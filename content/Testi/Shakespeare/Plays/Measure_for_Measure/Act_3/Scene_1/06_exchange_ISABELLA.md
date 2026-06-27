@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act III, Scene 1 — exchange (ISABELLA) [6]"
+title: "Measure for Measure — Act III, Scene 1 — exchange ([[Isabella|ISABELLA]]) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/MEASURE-FOR-MEASURE-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ISABELLA | What a merit were it in death to take this poor maid from the world! What corruption in this life, that it will let this man live! But how out of this can she avail? |
+| [[Isabella|ISABELLA]] | What a merit were it in [[Death|death]] to take this poor maid from the world! What corruption in this life, that it will let this man live! But how out of this can she avail? |
 | DUKE | It is a rupture that you may easily heal, and the cure of it not only saves your brother, but keeps you from dishonour in doing it. |
-| ISABELLA | Show me how, good father. |
+| [[Isabella|ISABELLA]] | Show me how, good father. |

@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 5 (part 3)"
+title: "[[longbow2]] — Chapter 5 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"It was against that background of ancient night," went on the young
+"It was against that background of ancient [[Night|night]]," went on the young
 man dreamily, "that the fantastic shapes and fiery colours of our
 carnival could really be seen.  So long as he came here with his black
 coat and beautiful society manners there was a foil to our follies. 
@@ -28,7 +28,7 @@ to go mad.  Then I could have been shocked at his behaviour
 on Mondays, Wednesdays, and Fridays, and he could have been
 shocked at my behaviour on Tuesdays, Thursdays, and Saturdays. 
 But there is no moral value in going mad when nobody is shocked. 
-If Crane leaves off being shocked, what are we to do?"
+If Crane [[Leaves|leaves]] off being shocked, what are we to do?"
 
 "I know what we want," began Pierce excitedly.
 
@@ -41,8 +41,8 @@ If Crane leaves off being shocked, what are we to do?"
 conventional all through, not a humbug like Crane.  I mean,
 I want a solid, serious, business man, a hard-headed, practical man
 of affairs, a man to whom vast commercial interests are committed. 
-In a word, I want a fool; some beautiful, rounded, homogenous fool,
-in whose blameless face, as in a round mirror, all our fancies
+In a word, I want a [[Fool|fool]]; some beautiful, rounded, homogenous [[Fool|fool]],
+in whose blameless face, as in a round [[Mirror|mirror]], all our fancies
 may really be reflected and renewed.  I want a very successful man,
 a very wealthy man, a man--"
 
@@ -53,14 +53,14 @@ a very wealthy man, a man--"
 
 "Are the lords of the world so little known?" asked Hood. 
 "Enoch Oates is Pork, and nearly everything else; Enoch Oates
-is turning civilization into one vast sausage-machine. Didn't
+is turning civilization into one vast sausage-[[Machine|machine]]. Didn't
 I ever tell you how Hilary ran into him over that pig affair?"
 
 "He's the very man you want," cried Hilary Pierce enthusiastically. 
 "I know him, and I believe I can get him.  Being a millionaire,
 he's entirely ignorant.  Being an American, he's entirely in earnest. 
-He's got just that sort of negative Nonconformist conscience of New
-England that balances the positive money-getting of New York.  If we
+He's got just that sort of negative Nonconformist [[Conscience|conscience]] of New
+England that balances the positive money-getting of [[New York]].  If we
 want to surprise anybody we'll surprise him.  Let's ask Enoch Oates
 to dinner."
 
@@ -69,7 +69,7 @@ to dinner."
 "Of course not," replied Hood.  "He'll be only too pleased to take
 it seriously.  Did you ever know an American who didn't like seeing
 the Sights?  And if you don't know you're a Sight with that cabbage
-on your head, it's time an American tourist taught you."
+on your head, it's [[Time|time]] an American tourist taught you."
 
 "Besides, there's a difference," said Pierce.  "I wouldn't ask
 a fellow like that doctor, Horace Hunter--"
@@ -97,18 +97,18 @@ peculiarly English, and mark an aristocracy at its ease in the saddle.
 Curiously enough, if the American had one point in common with a
 Continental noble of ancient lineage (whom his daughter might have
 married any day), it was that they would both be a little more on
-the defensive, living in the midst of democracy.  Mr. Oates was
+the defensive, living in the midst of [[democracy]].  Mr. Oates was
 perfectly polite, but there was something a little rigid about him. 
 He walked to his chair rather stiffly and sat down rather heavily. 
 He was a powerful, ponderous man with a large sallow face, a little
 suggestive of a corpulent Red Indian.  He had a ruminant eye,
 and an equally ruminant manner of chewing an unlighted cigar. 
-These were signs that might well have gone with a habit of silence. 
+These were signs that might [[Well|well]] have gone with a habit of [[Silence|silence]]. 
 But they did not.
 
 Mr. Oates's conversation might not be brilliant, but it was continuous. 
 Pierce and his friends had begun with some notion of dangling their
-own escapades before him, like dancing dolls before a child; they had
+own escapades before him, like dancing dolls before a [[Child|child]]; they had
 told him something of the affair of the Colonel and his cabbage,
 of the captain and his pigs, of the parson and his elephant;
 but they soon found that their hearer had not come there merely
@@ -135,7 +135,7 @@ thirty thousand dollars on new works, where I'd get the raw material
 for a red cent.  I saw right away that was the point to freeze on to;
 that I just got a chance to sell something I didn't need to buy;
 something that could be sort of given away like old match-ends. I
-figured out it would be better by a long chalk to let the other
+figured out it would be better by a long [[chalk]] to let the other
 guys rear the stock and sell me their refuse for next to nix,
 so I could get ahead with turning it into the goods.  So I started
 in right away and got there at the first go off with an increase

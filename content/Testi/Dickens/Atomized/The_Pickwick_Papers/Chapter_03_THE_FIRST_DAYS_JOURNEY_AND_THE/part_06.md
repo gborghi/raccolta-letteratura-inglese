@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 2: THE FIRST DAY’S JOURNEY, AND THE FIRST EVENING’S ADVENTURES; (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 2: THE FIRST DAY’S [[Journey|JOURNEY]], AND THE FIRST EVENING’S ADVENTURES; (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘Mr. Smithie, Mrs. Smithie, and the Misses Smithie,’ was the next
 announcement.
 
-‘What’s Mr. Smithie?’ inquired Mr. Tracy Tupman.
+‘What’s Mr. Smithie?’ inquired Mr. [[Tracy Tupman]].
 
 ‘Something in the yard,’ replied the stranger. Mr. Smithie bowed
 deferentially to Sir Thomas Clubber; and Sir Thomas Clubber acknowledged
@@ -60,20 +60,20 @@ whose rich dress and profusion of ornament bespoke her a most desirable
 addition to a limited income.
 
 Upon the doctor, and the widow, the eyes of both Mr. Tupman and his
-companion had been fixed for some time, when the stranger broke silence.
+companion had been fixed for some [[Time|time]], when the stranger broke [[Silence|silence]].
 
 ‘Lots of money--old girl--pompous doctor--not a bad idea--good fun,’
 were the intelligible sentences which issued from his lips. Mr. Tupman
 looked inquisitively in his face.
 
-‘I’ll dance with the widow,’ said the stranger.
+‘I’ll [[Dance|dance]] with the widow,’ said the stranger.
 
 ‘Who is she?’ inquired Mr. Tupman.
 
 ‘Don’t know--never saw her in all my life--cut out the doctor--here
 goes.’ And the stranger forthwith crossed the room; and, leaning against
 a mantel-piece, commenced gazing with an air of respectful and
-melancholy admiration on the fat countenance of the little old lady. Mr.
+[[Melancholy|melancholy]] admiration on the fat countenance of the little old lady. Mr.
 Tupman looked on, in mute astonishment. The stranger progressed rapidly;
 the little doctor danced with another lady; the widow dropped her fan;
 the stranger picked it up, and presented it--a smile--a bow--a curtsey--
@@ -93,9 +93,9 @@ Slammer--Doctor Slammer of the 97th rejected! Impossible! It could not
 be! Yes, it was; there they were. What! introducing his friend! Could he
 believe his eyes! He looked again, and was under the painful necessity
 of admitting the veracity of his optics; Mrs. Budger was dancing with
-Mr. Tracy Tupman; there was no mistaking the fact. There was the widow
+Mr. [[Tracy Tupman]]; there was no mistaking the fact. There was the widow
 before him, bouncing bodily here and there, with unwonted vigour; and
-Mr. Tracy Tupman hopping about, with a face expressive of the most
+Mr. [[Tracy Tupman]] hopping about, with a face expressive of the most
 intense solemnity, dancing (as a good many people do) as if a quadrille
 were not a thing to be laughed at, but a severe trial to the feelings,
 which it requires inflexible resolution to encounter.
@@ -130,6 +130,6 @@ liberal landlord--very foolish--very--lemonade much better--hot rooms--
 elderly gentlemen--suffer for it in the morning--cruel--cruel;’ and he
 moved on a step or two.
 
-‘You are stopping in this house, Sir,’ said the indignant little man;
+‘You are stopping in this [[house]], Sir,’ said the indignant little man;
 ‘you are intoxicated now, Sir; you shall hear from me in the morning,
 sir. I shall find you out, sir; I shall find you out.’

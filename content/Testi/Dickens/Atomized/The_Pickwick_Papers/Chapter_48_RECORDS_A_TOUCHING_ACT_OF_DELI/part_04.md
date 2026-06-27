@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -50,14 +50,14 @@ Dodson, ma’am, or a more humane man than Fogg. It was their duty in the
 way of business, to take you in execution for them costs; but they were
 anxious to spare your feelings as much as they could. What a comfort it
 must be, to you, to think how it’s been done! This is the Fleet, ma’am.
-Wish you good-night, Mrs. Bardell. Good-night, Tommy!’
+Wish you good-[[Night|night]], Mrs. Bardell. Good-[[Night|night]], Tommy!’
 
 As Jackson hurried away in company with the man with the ash stick
 another man, with a key in his hand, who had been looking on, led the
 bewildered female to a second short flight of steps leading to a
 doorway. Mrs. Bardell screamed violently; Tommy roared; Mrs. Cluppins
 shrunk within herself; and Mrs. Sanders made off, without more ado. For
-there stood the injured Mr. Pickwick, taking his nightly allowance of
+there stood the injured Mr. [[Pickwick]], taking his nightly allowance of
 air; and beside him leant Samuel Weller, who, seeing Mrs. Bardell, took
 his hat off with mock reverence, while his master turned indignantly on
 his heel.

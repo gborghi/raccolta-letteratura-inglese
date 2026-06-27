@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — Y DEAR BROTHER,—I can no longer refuse myself the pleasure of"
+title: "[[Lady Susan]] — Y DEAR BROTHER,—I can no longer refuse myself the pleasure of"
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -20,7 +20,7 @@ profiting by your kind invitation when we last parted of spending some
 
 weeks with you at Churchhill, and, therefore, if quite convenient to
 
-you and Mrs. Vernon to receive me at present, I shall hope within a few
+you and Mrs. Vernon to receive me at present, I shall [[Hope|hope]] within a few
 
 days to be introduced to a sister whom I have so long desired to be
 
@@ -46,7 +46,7 @@ daughter. The long illness of her dear father prevented my paying her
 
 that attention which duty and affection equally dictated, and I have
 
-too much reason to fear that the governess to whose care I consigned
+too much reason to [[Fear|fear]] that the governess to whose care I consigned
 
 her was unequal to the charge. I have therefore resolved on placing her
 
@@ -94,7 +94,7 @@ Langford.
 
 You were mistaken, my dear Alicia, in supposing me fixed at this place
 
-for the rest of the winter: it grieves me to say how greatly you were
+for the rest of the [[Winter|winter]]: it grieves me to say how greatly you were
 
 mistaken, for I have seldom spent three months more agreeably than
 
@@ -106,7 +106,7 @@ would be when I first came to Langford, and Mainwaring is so uncommonly
 
 pleasing that I was not without apprehensions for myself. I remember
 
-saying to myself, as I drove to the house, “I like this man, pray
+saying to myself, as I drove to the [[house]], “I like this man, pray
 
 Heaven no harm come of it!” But I was determined to be discreet, to
 
@@ -122,7 +122,7 @@ the numbers resorting hither, except Sir James Martin, on whom I
 
 bestowed a little notice, in order to detach him from Miss Mainwaring;
 
-but, if the world could know my motive _there_ they would honour me. I
+but, if the world could know my motive _there_ they would [[Honour|honour]] me. I
 
 have been called an unkind mother, but it was the sacred impulse of
 
@@ -148,7 +148,7 @@ certainly should: but I must own myself rather romantic in that
 
 respect, and that riches only will not satisfy me. The event of all
 
-this is very provoking: Sir James is gone, Maria highly incensed, and
+this is very provoking: Sir James is gone, [[Maria]] highly incensed, and
 
 Mrs. Mainwaring insupportably jealous; so jealous, in short, and so
 
@@ -160,19 +160,19 @@ addressing him: but there your husband stands my friend; and the
 
 kindest, most amiable action of his life was his throwing her off for
 
-ever on her marriage. Keep up his resentment, therefore, I charge you.
+ever on her [[Marriage|marriage]]. Keep up his resentment, therefore, I charge you.
 
-We are now in a sad state; no house was ever more altered; the whole
+We are now in a sad state; no [[house]] was ever more altered; the whole
 
-party are at war, and Mainwaring scarcely dares speak to me. It is time
+party are at war, and Mainwaring scarcely dares speak to me. It is [[Time|time]]
 
 for me to be gone; I have therefore determined on leaving them, and
 
-shall spend, I hope, a comfortable day with you in town within this
+shall spend, I [[Hope|hope]], a comfortable day with you in town within this
 
 week. If I am as little in favour with Mr. Johnson as ever, you must
 
-come to me at 10 Wigmore street; but I hope this may not be the case,
+come to me at 10 Wigmore street; but I [[Hope|hope]] this may not be the case,
 
 for as Mr. Johnson, with all his faults, is a man to whom that great
 
@@ -182,7 +182,7 @@ with his wife, his slighting me has an awkward look.
 
 
 
-I take London in my way to that insupportable spot, a country village;
+I take [[London]] in my way to that insupportable spot, a country village;
 
 for I am really going to Churchhill. Forgive me, my dear friend, it is
 
@@ -244,7 +244,7 @@ power to keep our promise of spending our Christmas with you; and we
 
 are prevented that happiness by a circumstance which is not likely to
 
-make us any amends. Lady Susan, in a letter to her brother-in-law, has
+make us any amends. [[Lady Susan]], in a letter to her brother-in-law, has
 
 declared her intention of visiting us almost immediately; and as such a
 
@@ -256,13 +256,13 @@ such an event, nor can I now account for her ladyship’s conduct;
 
 Langford appeared so exactly the place for her in every respect, as
 
-well from the elegant and expensive style of living there, as from her
+[[Well|well]] from the elegant and expensive style of living there, as from her
 
 particular attachment to Mr. Mainwaring, that I was very far from
 
 expecting so speedy a distinction, though I always imagined from her
 
-increasing friendship for us since her husband’s death that we should,
+increasing [[Friendship|friendship]] for us since her husband’s [[Death|death]] that we should,
 
 at some future period, be obliged to receive her. Mr. Vernon, I think,
 
@@ -270,7 +270,7 @@ was a great deal too kind to her when he was in Staffordshire; her
 
 behaviour to him, independent of her general character, has been so
 
-inexcusably artful and ungenerous since our marriage was first in
+inexcusably artful and ungenerous since our [[Marriage|marriage]] was first in
 
 agitation that no one less amiable and mild than himself could have
 
@@ -302,26 +302,26 @@ share of my regard; and I shall certainly endeavour to guard myself
 
 against their influence, if not accompanied by something more
 
-substantial. She expresses a most eager desire of being acquainted with
+substantial. She expresses a most eager [[Desire|desire]] of being acquainted with
 
 me, and makes very gracious mention of my children but I am not quite
 
 weak enough to suppose a woman who has behaved with inattention, if not
 
-with unkindness, to her own child, should be attached to any of mine.
+with unkindness, to her own [[Child|child]], should be attached to any of mine.
 
-Miss Vernon is to be placed at a school in London before her mother
+Miss Vernon is to be placed at a school in [[London]] before her mother
 
 comes to us which I am glad of, for her sake and my own. It must be to
 
 her advantage to be separated from her mother, and a girl of sixteen
 
-who has received so wretched an education, could not be a very
+who has received so wretched an [[Education|education]], could not be a very
 
 desirable companion here. Reginald has long wished, I know, to see the
 
-captivating Lady Susan, and we shall depend on his joining our party
+captivating [[Lady Susan]], and we shall depend on his joining our party
 
-soon. I am glad to hear that my father continues so well; and am, with
+soon. I am glad to hear that my father continues so [[Well|well]]; and am, with
 
-best love, &c.,
+best [[Love|love]], &c.,

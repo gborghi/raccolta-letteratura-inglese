@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of Silence (part 5)"
+title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -27,13 +27,13 @@ a second glance the twilight of the twinkling trees. There was
 something fascinating about that unexpected gate, like the opening
 
 of a fairy tale.
-Horne Fisher had in him something of the aristocrat, which is very
+Horne Fisher had in him something of the [[aristocrat]], which is very
 
 near to the anarchist. It was characteristic of him that he turned
 
 into this dark and irregular entry as casually as into his own front
 
-door, merely thinking that it would be a short cut to the house. He
+door, merely thinking that it would be a short cut to the [[house]]. He
 
 made his way through the dim wood for some distance and with some
 
@@ -43,9 +43,9 @@ light, in lines of silver, which he did not at first understand. The
 
 next moment he had come out into the daylight at the top of a steep
 
-bank, at the bottom of which a path ran round the rim of a large
+bank, at the [[Bottom|bottom]] of which a path ran round the rim of a large
 
-ornamental lake. The sheet of water which he had seen shimmering
+ornamental lake. The sheet of [[Water|water]] which he had seen shimmering
 
 through the trees was of considerable extent, but was walled in on
 
@@ -88,15 +88,15 @@ did; and I suppose even the Druids believed in Druidism. But the
 
 eighteenth-century gentleman who built these temples didn't believe
 
-in Venus or Mercury any more than we do; that's why the reflection
+in [[Venus]] or Mercury any more than we do; that's why the reflection
 
-of those pale pillars in the lake is truly only the shadow of a
+of those pale pillars in the lake is truly only the [[Shadow|shadow]] of a
 
 shade. They were men of the age of Reason; they, who filled their
 
-gardens with these stone nymphs, had less hope than any men in all
+gardens with these stone nymphs, had less [[Hope|hope]] than any men in all
 
-history of really meeting a nymph in the forest."
+[[history]] of really meeting a nymph in the forest."
 His monologue stopped abruptly with a sharp noise like a thundercrack
 
 that rolled in dreary echoes round the dismal mere. He knew at once
@@ -116,17 +116,17 @@ him more. A ring of dense trees ran round the back of the island
 
 temple, framing the facade of it in dark foliage, and he could have
 
-sworn he saw a stir as of something moving among the leaves. The
+sworn he saw a stir as of something moving among the [[Leaves|leaves]]. The
 
 next moment his suspicion was confirmed, for a rather ragged figure
 
-came from under the shadow of the temple and began to move along the
+came from under the [[Shadow|shadow]] of the temple and began to move along the
 
 causeway that led to the bank. Even at that distance the figure was
 
 conspicuous by its great height and Fisher could see that the man
 
-carried a gun under his arm. There came back into his memory at once
+carried a gun under his arm. There came back into his [[Memory|memory]] at once
 
 the name Long Adam, the poacher.
 With a rapid sense of strategy he sometimes showed, Fisher sprang
@@ -145,14 +145,14 @@ against it, he stood as if at bay; he was a comparatively young man,
 
 with fine lines in his lean face and figure and a mop of ragged red
 
-hair. The look in his eyes might well have been disquieting to
+hair. The look in his eyes might [[Well|well]] have been disquieting to
 
-anyone left alone with him on an island in the middle of a lake.
+anyone left [[Alone|alone]] with him on an island in the middle of a lake.
 "Good morning," said Horne Fisher, pleasantly. "I thought at first
 
 you were a murderer. But it seems unlikely, somehow, that the
 
-partridge rushed between us and died for love of me, like the
+partridge rushed between us and died for [[Love|love]] of me, like the
 
 heroines in the romances; so I suppose you are a poacher."
 "I suppose you would call me a poacher," answered the man; and his
@@ -163,7 +163,7 @@ had that hard fastidiousness to be found in those who have made a
 
 fight for their own refinement among rough surroundings. "I consider
 
-I have a perfect right to shoot game in this place. But I am well
+I have a perfect right to shoot game in this place. But I am [[Well|well]]
 
 aware that people of your sort take me for a thief, and I suppose
 
@@ -186,7 +186,7 @@ was as wrong as being a thief. It seems to me against the whole
 
 normal notion of property that a man should own something because it
 
-flies across his garden. He might as well own the wind, or think he
+flies across his [[Garden|garden]]. He might as [[Well|well]] own the [[Wind|wind]], or think he
 
 could write his name on a morning cloud. Besides, if we want poor
 

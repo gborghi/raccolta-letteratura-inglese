@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 12"
+title: "[[Emma]] — Chapter 12"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -18,12 +18,12 @@ CHAPTER XII
 
 
 One thing only was wanting to make the prospect of the ball completely
-satisfactory to Emma—its being fixed for a day within the granted term
-of Frank Churchill’s stay in Surry; for, in spite of Mr. Weston’s
+satisfactory to [[Emma]]—its being fixed for a day within the granted term
+of [[Frank Churchill]]’s stay in Surry; for, in spite of Mr. Weston’s
 confidence, she could not think it so very impossible that the
 Churchills might not allow their nephew to remain a day beyond his
 fortnight. But this was not judged feasible. The preparations must take
-their time, nothing could be properly ready till the third week were
+their [[Time|time]], nothing could be properly ready till the third week were
 entered on, and for a few days they must be planning, proceeding and
 hoping in uncertainty—at the risk—in her opinion, the great risk, of
 its being all in vain.
@@ -31,75 +31,75 @@ its being all in vain.
 Enscombe however was gracious, gracious in fact, if not in word. His
 wish of staying longer evidently did not please; but it was not
 opposed. All was safe and prosperous; and as the removal of one
-solicitude generally makes way for another, Emma, being now certain of
+solicitude generally makes way for another, [[Emma]], being now certain of
 her ball, began to adopt as the next vexation Mr. Knightley’s provoking
-indifference about it. Either because he did not dance himself, or
+indifference about it. Either because he did not [[Dance|dance]] himself, or
 because the plan had been formed without his being consulted, he seemed
 resolved that it should not interest him, determined against its
 exciting any present curiosity, or affording him any future amusement.
-To her voluntary communications Emma could get no more approving reply,
+To her voluntary communications [[Emma]] could get no more approving reply,
 than,
 
-“Very well. If the Westons think it worth while to be at all this
+“Very [[Well|well]]. If the Westons think it worth while to be at all this
 trouble for a few hours of noisy entertainment, I have nothing to say
 against it, but that they shall not chuse pleasures for me.—Oh! yes, I
 must be there; I could not refuse; and I will keep as much awake as I
-can; but I would rather be at home, looking over William Larkins’s
+can; but I would rather be at [[Home|home]], looking over William Larkins’s
 week’s account; much rather, I confess.—Pleasure in seeing dancing!—not
 I, indeed—I never look at it—I do not know who does.—Fine dancing, I
 believe, like virtue, must be its own reward. Those who are standing by
 are usually thinking of something very different.”
 
-This Emma felt was aimed at her; and it made her quite angry. It was
-not in compliment to Jane Fairfax however that he was so indifferent,
+This [[Emma]] felt was aimed at her; and it made her quite angry. It was
+not in compliment to [[Jane Fairfax]] however that he was so indifferent,
 or so indignant; he was not guided by _her_ feelings in reprobating the
 ball, for _she_ enjoyed the thought of it to an extraordinary degree.
 It made her animated—open hearted—she voluntarily said;—
 
-“Oh! Miss Woodhouse, I hope nothing may happen to prevent the ball.
+“Oh! Miss Woodhouse, I [[Hope|hope]] nothing may happen to prevent the ball.
 What a disappointment it would be! I do look forward to it, I own, with
 _very_ great pleasure.”
 
-It was not to oblige Jane Fairfax therefore that he would have
+It was not to oblige [[Jane Fairfax]] therefore that he would have
 preferred the society of William Larkins. No!—she was more and more
 convinced that Mrs. Weston was quite mistaken in that surmise. There
 was a great deal of friendly and of compassionate attachment on his
-side—but no love.
+side—but no [[Love|love]].
 
 Alas! there was soon no leisure for quarrelling with Mr. Knightley. Two
 days of joyful security were immediately followed by the over-throw of
 every thing. A letter arrived from Mr. Churchill to urge his nephew’s
 instant return. Mrs. Churchill was unwell—far too unwell to do without
-him; she had been in a very suffering state (so said her husband) when
+him; she had been in a very [[Suffering|suffering]] state (so said her husband) when
 writing to her nephew two days before, though from her usual
-unwillingness to give pain, and constant habit of never thinking of
+unwillingness to give [[Pain|pain]], and constant habit of never thinking of
 herself, she had not mentioned it; but now she was too ill to trifle,
 and must entreat him to set off for Enscombe without delay.
 
-The substance of this letter was forwarded to Emma, in a note from Mrs.
+The substance of this letter was forwarded to [[Emma]], in a note from Mrs.
 Weston, instantly. As to his going, it was inevitable. He must be gone
 within a few hours, though without feeling any real alarm for his aunt,
 to lessen his repugnance. He knew her illnesses; they never occurred
 but for her own convenience.
 
-Mrs. Weston added, “that he could only allow himself time to hurry to
+Mrs. Weston added, “that he could only allow himself [[Time|time]] to hurry to
 Highbury, after breakfast, and take leave of the few friends there whom
 he could suppose to feel any interest in him; and that he might be
 expected at Hartfield very soon.”
 
-This wretched note was the finale of Emma’s breakfast. When once it had
+This wretched note was the finale of [[Emma]]’s breakfast. When once it had
 been read, there was no doing any thing, but lament and exclaim. The
 loss of the ball—the loss of the young man—and all that the young man
 might be feeling!—It was too wretched!—Such a delightful evening as it
-would have been!—Every body so happy! and she and her partner the
+would have been!—Every [[Body|body]] so happy! and she and her partner the
 happiest!—“I said it would be so,” was the only consolation.
 
 Her father’s feelings were quite distinct. He thought principally of
 Mrs. Churchill’s illness, and wanted to know how she was treated; and
-as for the ball, it was shocking to have dear Emma disappointed; but
-they would all be safer at home.
+as for the ball, it was shocking to have dear [[Emma]] disappointed; but
+they would all be safer at [[Home|home]].
 
-Emma was ready for her visitor some time before he appeared; but if
+[[Emma]] was ready for her visitor some [[Time|time]] before he appeared; but if
 this reflected at all upon his impatience, his sorrowful look and total
 want of spirits when he did come might redeem him. He felt the going
 away almost too much to speak of it. His dejection was most evident. He
@@ -108,13 +108,13 @@ himself, it was only to say,
 
 “Of all horrid things, leave-taking is the worst.”
 
-“But you will come again,” said Emma. “This will not be your only visit
+“But you will come again,” said [[Emma]]. “This will not be your only visit
 to Randalls.”
 
 “Ah!—(shaking his head)—the uncertainty of when I may be able to
 return!—I shall try for it with a zeal!—It will be the object of all my
-thoughts and cares!—and if my uncle and aunt go to town this spring—but
-I am afraid—they did not stir last spring—I am afraid it is a custom
+thoughts and cares!—and if my uncle and aunt go to town this [[spring]]—but
+I am afraid—they did not stir last [[spring]]—I am afraid it is a custom
 gone for ever.”
 
 “Our poor ball must be quite given up.”
@@ -130,20 +130,20 @@ rather have been merry than wise.”
 “If I can come again, we are still to have our ball. My father depends
 on it. Do not forget your engagement.”
 
-Emma looked graciously.
+[[Emma]] looked graciously.
 
 “Such a fortnight as it has been!” he continued; “every day more
 precious and more delightful than the day before!—every day making me
 less fit to bear any other place. Happy those, who can remain at
 Highbury!”
 
-“As you do us such ample justice now,” said Emma, laughing, “I will
+“As you do us such ample justice now,” said [[Emma]], laughing, “I will
 venture to ask, whether you did not come a little doubtfully at first?
 Do not we rather surpass your expectations? I am sure we do. I am sure
 you did not much expect to like us. You would not have been so long in
 coming, if you had had a pleasant idea of Highbury.”
 
-He laughed rather consciously; and though denying the sentiment, Emma
+He laughed rather consciously; and though denying the sentiment, [[Emma]]
 was convinced that it had been so.
 
 “And you must be off this very morning?”
@@ -153,17 +153,17 @@ must be off immediately. I am almost afraid that every moment will
 bring him.”
 
 “Not five minutes to spare even for your friends Miss Fairfax and Miss
-Bates? How unlucky! Miss Bates’s powerful, argumentative mind might
+Bates? How unlucky! [[Miss Bates]]’s powerful, argumentative mind might
 have strengthened yours.”
 
 “Yes—I _have_ called there; passing the door, I thought it better. It
 was a right thing to do. I went in for three minutes, and was detained
-by Miss Bates’s being absent. She was out; and I felt it impossible not
+by [[Miss Bates]]’s being absent. She was out; and I felt it impossible not
 to wait till she came in. She is a woman that one may, that one _must_
 laugh at; but that one would not wish to slight. It was better to pay
 my visit, then”—
 
-He hesitated, got up, walked to a window.
+He hesitated, got up, walked to a [[Window|window]].
 
 “In short,” said he, “perhaps, Miss Woodhouse—I think you can hardly be
 quite without suspicion”—
@@ -171,7 +171,7 @@ quite without suspicion”—
 He looked at her, as if wanting to read her thoughts. She hardly knew
 what to say. It seemed like the forerunner of something absolutely
 serious, which she did not wish. Forcing herself to speak, therefore,
-in the hope of putting it by, she calmly said,
+in the [[Hope|hope]] of putting it by, she calmly said,
 
 “You are quite in the right; it was most natural to pay your visit,
 then”—
@@ -182,18 +182,18 @@ him sigh. It was natural for him to feel that he had _cause_ to sigh.
 He could not believe her to be encouraging him. A few awkward moments
 passed, and he sat down again; and in a more determined manner said,
 
-“It was something to feel that all the rest of my time might be given
+“It was something to feel that all the rest of my [[Time|time]] might be given
 to Hartfield. My regard for Hartfield is most warm”—
 
-He stopt again, rose again, and seemed quite embarrassed.—He was more
-in love with her than Emma had supposed; and who can say how it might
+He stopt again, [[Rose|rose]] again, and seemed quite embarrassed.—He was more
+in [[Love|love]] with her than [[Emma]] had supposed; and who can say how it might
 have ended, if his father had not made his appearance? Mr. Woodhouse
 soon followed; and the necessity of exertion made him composed.
 
 A very few minutes more, however, completed the present trial. Mr.
 Weston, always alert when business was to be done, and as incapable of
 procrastinating any evil that was inevitable, as of foreseeing any that
-was doubtful, said, “It was time to go;” and the young man, though he
+was doubtful, said, “It was [[Time|time]] to go;” and the young man, though he
 might and did sigh, could not but agree, to take leave.
 
 “I shall hear about you all,” said he; “that is my chief consolation. I
@@ -204,8 +204,8 @@ interested in the absent!—she will tell me every thing. In her letters
 I shall be at dear Highbury again.”
 
 A very friendly shake of the hand, a very earnest “Good-bye,” closed
-the speech, and the door had soon shut out Frank Churchill. Short had
-been the notice—short their meeting; he was gone; and Emma felt so
+the speech, and the door had soon shut out [[Frank Churchill]]. Short had
+been the notice—short their meeting; he was gone; and [[Emma]] felt so
 sorry to part, and foresaw so great a loss to their little society from
 his absence as to begin to be afraid of being too sorry, and feeling it
 too much.
@@ -219,18 +219,18 @@ fortnight, and forlorn must be the sinking from it into the common
 course of Hartfield days. To complete every other recommendation, he
 had _almost_ told her that he loved her. What strength, or what
 constancy of affection he might be subject to, was another point; but
-at present she could not doubt his having a decidedly warm admiration,
-a conscious preference of herself; and this persuasion, joined to all
-the rest, made her think that she _must_ be a little in love with him,
+at present she could not [[Doubt|doubt]] his having a decidedly warm admiration,
+a conscious preference of herself; and this [[Persuasion|persuasion]], joined to all
+the rest, made her think that she _must_ be a little in [[Love|love]] with him,
 in spite of every previous determination against it.
 
 “I certainly must,” said she. “This sensation of listlessness,
 weariness, stupidity, this disinclination to sit down and employ
 myself, this feeling of every thing’s being dull and insipid about the
-house!— I must be in love; I should be the oddest creature in the world
-if I were not—for a few weeks at least. Well! evil to some is always
+[[house]]!— I must be in [[Love|love]]; I should be the oddest creature in the world
+if I were not—for a few weeks at least. [[Well]]! evil to some is always
 good to others. I shall have many fellow-mourners for the ball, if not
-for Frank Churchill; but Mr. Knightley will be happy. He may spend the
+for [[Frank Churchill]]; but Mr. Knightley will be happy. He may spend the
 evening with his dear William Larkins now if he likes.”
 
 Mr. Knightley, however, shewed no triumphant happiness. He could not
@@ -239,13 +239,13 @@ have contradicted him if he had; but he said, and very steadily, that
 he was sorry for the disappointment of the others, and with
 considerable kindness added,
 
-“You, Emma, who have so few opportunities of dancing, you are really
+“You, [[Emma]], who have so few opportunities of dancing, you are really
 out of luck; you are very much out of luck!”
 
-It was some days before she saw Jane Fairfax, to judge of her honest
+It was some days before she saw [[Jane Fairfax]], to judge of her honest
 regret in this woeful change; but when they did meet, her composure was
-odious. She had been particularly unwell, however, suffering from
+odious. She had been particularly unwell, however, [[Suffering|suffering]] from
 headache to a degree, which made her aunt declare, that had the ball
 taken place, she did not think Jane could have attended it; and it was
-charity to impute some of her unbecoming indifference to the languor of
+[[Charity|charity]] to impute some of her unbecoming indifference to the languor of
 ill-health.

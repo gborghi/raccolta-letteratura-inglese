@@ -1,5 +1,5 @@
 ---
-title: "The Assignation (part 1)"
+title: "[[The Assignation]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Assignation-(Poe)"
@@ -17,18 +17,18 @@ tags:
 Stay for me there! I will not fail.
      To meet thee in that hollow vale.
 
-(_Exequy on the death of his wife, by Henry King, Bishop of
+(_Exequy on the [[Death|death]] of his wife, by Henry [[King]], Bishop of
 Chichester_.)
 
       Ill-fated and mysterious man!—bewildered in the brilliancy of
-      thine own imagination, and fallen in the flames of thine own
+      thine own [[Imagination|imagination]], and fallen in the flames of thine own
       youth! Again in fancy I behold thee! Once more thy form hath
       risen before me!—not—oh! not as thou art—in the cold valley and
-      shadow—but as thou _shouldst be_—squandering away a life of
-      magnificent meditation in that city of dim visions, thine own
-      Venice—which is a star-beloved Elysium of the sea, and the wide
+      [[Shadow|shadow]]—but as thou _shouldst be_—squandering away a life of
+      magnificent meditation in that [[City|city]] of dim visions, thine own
+      [[Venice]]—which is a star-beloved Elysium of the sea, and the wide
       windows of whose Palladian palaces look down with a deep and
-      bitter meaning upon the secrets of her silent waters. Yes! I
+      bitter meaning upon the [[Secrets|secrets]] of her silent waters. Yes! I
       repeat it—as thou _shouldst be_. There are surely other worlds
       than this—other thoughts than the thoughts of the multitude—other
       speculations than the speculations of the sophist. Who then shall
@@ -36,21 +36,21 @@ Chichester_.)
       hours, or denounce those occupations as a wasting away of life,
       which were but the overflowings of thine everlasting energies?
 
-      It was at Venice, beneath the covered archway there called the
-      _Ponte di Sospiri_, that I met for the third or fourth time the
+      It was at [[Venice]], beneath the covered archway there called the
+      _Ponte di Sospiri_, that I met for the third or fourth [[Time|time]] the
       person of whom I speak. It is with a confused recollection that I
       bring to mind the circumstances of that meeting. Yet I
       remember—ah! how should I forget?—the deep midnight, the Bridge
-      of Sighs, the beauty of woman, and the Genius of Romance that
+      of Sighs, the [[Beauty|beauty]] of woman, and the Genius of [[Romance]] that
       stalked up and down the narrow canal.
 
-      It was a night of unusual gloom. The great clock of the Piazza
+      It was a [[Night|night]] of unusual gloom. The great [[Clock|clock]] of the Piazza
       had sounded the fifth hour of the Italian evening. The square of
       the Campanile lay silent and deserted, and the lights in the old
-      Ducal Palace were dying fast away. I was returning home from the
+      Ducal Palace were dying fast away. I was returning [[Home|home]] from the
       Piazetta, by way of the Grand Canal. But as my gondola arrived
       opposite the mouth of the canal San Marco, a female voice from
-      its recesses broke suddenly upon the night, in one wild,
+      its recesses broke suddenly upon the [[Night|night]], in one wild,
       hysterical, and long continued shriek. Startled at the sound, I
       sprang upon my feet: while the gondolier, letting slip his single
       oar, lost it in the pitchy darkness beyond a chance of recovery,
@@ -62,52 +62,52 @@ Chichester_.)
       Palace, turned all at once that deep gloom into a livid and
       preternatural day.
 
-      A child, slipping from the arms of its own mother, had fallen
-      from an upper window of the lofty structure into the deep and dim
+      A [[Child|child]], slipping from the arms of its own mother, had fallen
+      from an upper [[Window|window]] of the lofty structure into the deep and dim
       canal. The quiet waters had closed placidly over their victim;
       and, although my own gondola was the only one in sight, many a
       stout swimmer, already in the stream, was seeking in vain upon
       the surface, the treasure which was to be found, alas! only
       within the abyss. Upon the broad black marble flagstones at the
-      entrance of the palace, and a few steps above the water, stood a
+      entrance of the palace, and a few steps above the [[Water|water]], stood a
       figure which none who then saw can have ever since forgotten. It
-      was the Marchesa Aphrodite—the adoration of all Venice—the gayest
+      was the Marchesa Aphrodite—the adoration of all [[Venice]]—the gayest
       of the gay—the most lovely where all were beautiful—but still the
       young wife of the old and intriguing Mentoni, and the mother of
-      that fair child, her first and only one, who now, deep beneath
-      the murky water, was thinking in bitterness of heart upon her
+      that fair [[Child|child]], her first and only one, who now, deep beneath
+      the murky [[Water|water]], was thinking in bitterness of heart upon her
       sweet caresses, and exhausting its little life in struggles to
       call upon her name.
 
-      She stood alone. Her small, bare, and silvery feet gleamed in the
-      black mirror of marble beneath her. Her hair, not as yet more
-      than half loosened for the night from its ball-room array,
+      She stood [[Alone|alone]]. Her small, bare, and silvery feet gleamed in the
+      black [[Mirror|mirror]] of marble beneath her. Her hair, not as yet more
+      than half loosened for the [[Night|night]] from its ball-room array,
       clustered, amid a shower of diamonds, round and round her
       classical head, in curls like those of the young hyacinth. A
       snowy-white and gauze-like drapery seemed to be nearly the sole
-      covering to her delicate form; but the mid-summer and midnight
+      covering to her delicate form; but the mid-[[Summer|summer]] and midnight
       air was hot, sullen, and still, and no motion in the statue-like
       form itself, stirred even the folds of that raiment of very vapor
       which hung around it as the heavy marble hangs around the Niobe.
       Yet—strange to say!—her large lustrous eyes were not turned
-      downwards upon that grave wherein her brightest hope lay
-      buried—but riveted in a widely different direction! The prison of
+      downwards upon that [[Grave|grave]] wherein her brightest [[Hope|hope]] lay
+      buried—but riveted in a widely different direction! The [[Prison|prison]] of
       the Old Republic is, I think, the stateliest building in all
-      Venice—but how could that lady gaze so fixedly upon it, when
-      beneath her lay stifling her only child? Yon dark, gloomy niche,
-      too, yawns right opposite her chamber window—what, then, _could_
+      [[Venice]]—but how could that lady gaze so fixedly upon it, when
+      beneath her lay stifling her only [[Child|child]]? Yon dark, gloomy niche,
+      too, yawns right opposite her chamber [[Window|window]]—what, then, _could_
       there be in its shadows—in its architecture—in its ivy-wreathed
       and solemn cornices—that the Marchesa di Mentoni had not wondered
       at a thousand times before? Nonsense!—Who does not remember that,
-      at such a time as this, the eye, like a shattered mirror,
+      at such a [[Time|time]] as this, the eye, like a shattered [[Mirror|mirror]],
       multiplies the images of its sorrow, and sees in innumerable
       far-off places, the woe which is close at hand?
 
       Many steps above the Marchesa, and within the arch of the
-      water-gate, stood, in full dress, the Satyr-like figure of
+      [[Water|water]]-gate, stood, in full dress, the Satyr-like figure of
       Mentoni himself. He was occasionally occupied in thrumming a
-      guitar, and seemed _ennuye_ to the very death, as at intervals he
-      gave directions for the recovery of his child. Stupefied and
+      guitar, and seemed _ennuye_ to the very [[Death|death]], as at intervals he
+      gave directions for the recovery of his [[Child|child]]. Stupefied and
       aghast, I had myself no power to move from the upright position I
       had assumed upon first hearing the shriek, and must have
       presented to the eyes of the agitated group a spectral and

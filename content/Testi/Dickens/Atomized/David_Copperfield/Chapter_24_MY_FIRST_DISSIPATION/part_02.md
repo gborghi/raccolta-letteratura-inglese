@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 2)"
+title: "[[David Copperfield]] — Chapter 24: MY FIRST DISSIPATION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 I acted on Mrs. Crupp’s opinion, and gave the order at the pastry-cook’s
 myself. Walking along the Strand, afterwards, and observing a hard
-mottled substance in the window of a ham and beef shop, which resembled
+mottled substance in the [[Window|window]] of a ham and beef shop, which resembled
 marble, but was labelled ‘Mock Turtle’, I went in and bought a slab of
 it, which I have since seen reason to believe would have sufficed for
 fifteen people. This preparation, Mrs. Crupp, after some difficulty,
@@ -24,8 +24,8 @@ consented to warm up; and it shrunk so much in a liquid state, that we
 found it what Steerforth called ‘rather a tight fit’ for four.
 
 These preparations happily completed, I bought a little dessert in
-Covent Garden Market, and gave a rather extensive order at a retail
-wine-merchant’s in that vicinity. When I came home in the afternoon, and
+Covent [[Garden]] Market, and gave a rather extensive order at a retail
+wine-merchant’s in that vicinity. When I came [[Home|home]] in the afternoon, and
 saw the bottles drawn up in a square on the pantry floor, they looked
 so numerous (though there were two missing, which made Mrs. Crupp very
 uncomfortable), that I was absolutely frightened at them.
@@ -37,26 +37,26 @@ more than twenty. I observed that the latter always spoke of himself
 indefinitely, as ‘a man’, and seldom or never in the first person
 singular.
 
-‘A man might get on very well here, Mr. Copperfield,’ said
+‘A man might get on very [[Well|well]] here, Mr. Copperfield,’ said
 Markham--meaning himself.
 
 ‘It’s not a bad situation,’ said I, ‘and the rooms are really
 commodious.’
 
-‘I hope you have both brought appetites with you?’ said Steerforth.
+‘I [[Hope|hope]] you have both brought appetites with you?’ said Steerforth.
 
-‘Upon my honour,’ returned Markham, ‘town seems to sharpen a man’s
+‘Upon my [[Honour|honour]],’ returned Markham, ‘town seems to sharpen a man’s
 appetite. A man is hungry all day long. A man is perpetually eating.’
 
 Being a little embarrassed at first, and feeling much too young to
 preside, I made Steerforth take the head of the table when dinner was
 announced, and seated myself opposite to him. Everything was very good;
 we did not spare the wine; and he exerted himself so brilliantly to make
-the thing pass off well, that there was no pause in our festivity. I was
+the thing pass off [[Well|well]], that there was no pause in our festivity. I was
 not quite such good company during dinner as I could have wished to be,
 for my chair was opposite the door, and my attention was distracted by
 observing that the handy young man went out of the room very often, and
-that his shadow always presented itself, immediately afterwards, on the
+that his [[Shadow|shadow]] always presented itself, immediately afterwards, on the
 wall of the entry, with a bottle at its mouth. The ‘young gal’ likewise
 occasioned me some uneasiness: not so much by neglecting to wash the
 plates, as by breaking them. For being of an inquisitive disposition,
@@ -77,7 +77,7 @@ I began, by being singularly cheerful and light-hearted; all sorts of
 half-forgotten things to talk about, came rushing into my mind, and made
 me hold forth in a most unwonted manner. I laughed heartily at my own
 jokes, and everybody else’s; called Steerforth to order for not passing
-the wine; made several engagements to go to Oxford; announced that
+the wine; made several engagements to go to [[Oxford]]; announced that
 I meant to have a dinner-party exactly like that, once a week, until
 further notice; and madly took so much snuff out of Grainger’s box, that
 I was obliged to go into the pantry, and have a private fit of sneezing
@@ -97,11 +97,11 @@ hands with him, and I said (in two words)
 ‘Steerforth--you’retheguidingstarofmyexistence.’
 
 I went on, by finding suddenly that somebody was in the middle of a
-song. Markham was the singer, and he sang ‘When the heart of a man is
+[[Song|song]]. Markham was the singer, and he sang ‘When the heart of a man is
 depressed with care’. He said, when he had sung it, he would give us
 ‘Woman!’ I took objection to that, and I couldn’t allow it. I said
 it was not a respectful way of proposing the toast, and I would never
-permit that toast to be drunk in my house otherwise than as ‘The
+permit that toast to be drunk in my [[house]] otherwise than as ‘The
 Ladies!’ I was very high with him, mainly I think because I saw
 Steerforth and Grainger laughing at me--or at him--or at both of us. He
 said a man was not to be dictated to. I said a man was. He said a man
@@ -112,14 +112,14 @@ that I was a devilish good fellow. I instantly proposed his health.
 
 Somebody was smoking. We were all smoking. I was smoking, and trying
 to suppress a rising tendency to shudder. Steerforth had made a speech
-about me, in the course of which I had been affected almost to tears.
+about me, in the course of which I had been affected almost to [[Tears|tears]].
 I returned thanks, and hoped the present company would dine with me
-tomorrow, and the day after--each day at five o’clock, that we might
+tomorrow, and the day after--each day at five o’[[Clock|clock]], that we might
 enjoy the pleasures of conversation and society through a long evening.
 I felt called upon to propose an individual. I would give them my aunt.
-Miss Betsey Trotwood, the best of her sex!
+Miss [[Betsey Trotwood]], the best of her sex!
 
-Somebody was leaning out of my bedroom window, refreshing his forehead
+Somebody was leaning out of my bedroom [[Window|window]], refreshing his forehead
 against the cool stone of the parapet, and feeling the air upon his
 face. It was myself. I was addressing myself as ‘Copperfield’, and
 saying, ‘Why did you try to smoke? You might have known you couldn’t

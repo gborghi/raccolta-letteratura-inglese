@@ -21,8 +21,8 @@ Are raised, here they receive
 The supplication of a dead man’s hand  
 Under the twinkle of a fading star.  
 Is it like this  
-In death’s other kingdom  
-Waking alone  
+In [[Death|death]]’s other kingdom  
+Waking [[Alone|alone]]  
 At the hour when we are  
 Trembling with tenderness  
 Lips that would kiss  

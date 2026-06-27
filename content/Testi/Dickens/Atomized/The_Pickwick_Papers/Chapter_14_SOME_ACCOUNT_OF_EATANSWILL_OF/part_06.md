@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -16,17 +16,17 @@ tags:
 
 ‘There’s Winkle,’ said Mr. Tupman, pulling his friend by the sleeve.
 
-‘Where!’ said Mr. Pickwick, putting on his spectacles, which he had
+‘Where!’ said Mr. [[Pickwick]], putting on his spectacles, which he had
 fortunately kept in his pocket hitherto.
 
-‘There,’ said Mr. Tupman, ‘on the top of that house.’ And there, sure
+‘There,’ said Mr. Tupman, ‘on the top of that [[house]].’ And there, sure
 enough, in the leaden gutter of a tiled roof, were Mr. Winkle and Mrs.
 Pott, comfortably seated in a couple of chairs, waving their
-handkerchiefs in token of recognition--a compliment which Mr. Pickwick
+handkerchiefs in token of recognition--a compliment which Mr. [[Pickwick]]
 returned by kissing his hand to the lady.
 
 The proceedings had not yet commenced; and as an inactive crowd is
-generally disposed to be jocose, this very innocent action was
+generally disposed to be jocose, this very [[Innocent|innocent]] action was
 sufficient to awaken their facetiousness.
 
 ‘Oh, you wicked old rascal,’ cried one voice, ‘looking arter the girls,
@@ -42,16 +42,16 @@ are you?’
 roar of laughter.
 
 As these taunts were accompanied with invidious comparisons between Mr.
-Pickwick and an aged ram, and several witticisms of the like nature; and
-as they moreover rather tended to convey reflections upon the honour of
-an innocent lady, Mr. Pickwick’s indignation was excessive; but as
-silence was proclaimed at the moment, he contented himself by scorching
+[[Pickwick]] and an aged ram, and several witticisms of the like [[Nature|nature]]; and
+as they moreover rather tended to convey reflections upon the [[Honour|honour]] of
+an [[Innocent|innocent]] lady, Mr. [[Pickwick]]’s indignation was excessive; but as
+[[Silence|silence]] was proclaimed at the moment, he contented himself by scorching
 the mob with a look of pity for their misguided minds, at which they
 laughed more boisterously than ever.
 
-‘Silence!’ roared the mayor’s attendants.
+‘[[Silence]]!’ roared the mayor’s attendants.
 
-‘Whiffin, proclaim silence,’ said the mayor, with an air of pomp
+‘Whiffin, proclaim [[Silence|silence]],’ said the mayor, with an air of pomp
 befitting his lofty station. In obedience to this command the crier
 performed another concerto on the bell, whereupon a gentleman in the
 crowd called out ‘Muffins’; which occasioned another laugh.
@@ -63,11 +63,11 @@ representative in the room of our late--’
 
 Here the mayor was interrupted by a voice in the crowd.
 
-‘Suc-cess to the mayor!’ cried the voice, ‘and may he never desert the
+‘Suc-cess to the mayor!’ cried the voice, ‘and may he never [[Desert|desert]] the
 nail and sarspan business, as he got his money by.’
 
 This allusion to the professional pursuits of the orator was received
-with a storm of delight, which, with a bell-accompaniment, rendered the
+with a [[Storm|storm]] of delight, which, with a bell-accompaniment, rendered the
 remainder of his speech inaudible, with the exception of the concluding
 sentence, in which he thanked the meeting for the patient attention with
 which they heard him throughout--an expression of gratitude which
@@ -75,15 +75,15 @@ elicited another burst of mirth, of about a quarter of an hour’s
 duration.
 
 Next, a tall, thin gentleman, in a very stiff white neckerchief, after
-being repeatedly desired by the crowd to ‘send a boy home, to ask
+being repeatedly desired by the crowd to ‘send a boy [[Home|home]], to ask
 whether he hadn’t left his voice under the pillow,’ begged to nominate a
 fit and proper person to represent them in Parliament. And when he said
-it was Horatio Fizkin, Esquire, of Fizkin Lodge, near Eatanswill, the
+it was [[Horatio]] Fizkin, Esquire, of Fizkin Lodge, near Eatanswill, the
 Fizkinites applauded, and the Slumkeyites groaned, so long, and so
-loudly, that both he and the seconder might have sung comic songs in
+loudly, that both he and the seconder might have sung comic [[songs]] in
 lieu of speaking, without anybody’s being a bit the wiser.
 
-The friends of Horatio Fizkin, Esquire, having had their innings, a
+The friends of [[Horatio]] Fizkin, Esquire, having had their innings, a
 little choleric, pink-faced man stood forward to propose another fit and
 proper person to represent the electors of Eatanswill in Parliament; and
 very swimmingly the pink-faced gentleman would have got on, if he had
@@ -98,7 +98,7 @@ of half an hour’s length, and wouldn’t be stopped, because he had sent
 it all to the Eatanswill _Gazette_, and the Eatanswill _Gazette_ had
 already printed it, every word.
 
-Then Horatio Fizkin, Esquire, of Fizkin Lodge, near Eatanswill,
+Then [[Horatio]] Fizkin, Esquire, of Fizkin Lodge, near Eatanswill,
 presented himself for the purpose of addressing the electors; which he
 no sooner did, than the band employed by the Honourable Samuel Slumkey,
 commenced performing with a power to which their strength in the morning
@@ -109,22 +109,22 @@ crowd; and a scene of struggling, and pushing, and fighting, succeeded,
 to which we can no more do justice than the mayor could, although he
 issued imperative orders to twelve constables to seize the ringleaders,
 who might amount in number to two hundred and fifty, or thereabouts. At
-all these encounters, Horatio Fizkin, Esquire, of Fizkin Lodge, and his
-friends, waxed fierce and furious; until at last Horatio Fizkin,
+all these encounters, [[Horatio]] Fizkin, Esquire, of Fizkin Lodge, and his
+friends, waxed fierce and furious; until at last [[Horatio]] Fizkin,
 Esquire, of Fizkin Lodge, begged to ask his opponent, the Honourable
 Samuel Slumkey, of Slumkey Hall, whether that band played by his
 consent; which question the Honourable Samuel Slumkey declining to
-answer, Horatio Fizkin, Esquire, of Fizkin Lodge, shook his fist in the
+answer, [[Horatio]] Fizkin, Esquire, of Fizkin Lodge, shook his fist in the
 countenance of the Honourable Samuel Slumkey, of Slumkey Hall; upon
-which the Honourable Samuel Slumkey, his blood being up, defied Horatio
+which the Honourable Samuel Slumkey, his [[Blood|blood]] being up, defied [[Horatio]]
 Fizkin, Esquire, to mortal combat. At this violation of all known rules
 and precedents of order, the mayor commanded another fantasia on the
-bell, and declared that he would bring before himself, both Horatio
+bell, and declared that he would bring before himself, both [[Horatio]]
 Fizkin, Esquire, of Fizkin Lodge, and the Honourable Samuel Slumkey, of
 Slumkey Hall, and bind them over to keep the peace. Upon this terrific
 denunciation, the supporters of the two candidates interfered, and after
 the friends of each party had quarrelled in pairs, for three-quarters of
-an hour, Horatio Fizkin, Esquire, touched his hat to the Honourable
-Samuel Slumkey; the Honourable Samuel Slumkey touched his to Horatio
+an hour, [[Horatio]] Fizkin, Esquire, touched his hat to the Honourable
+Samuel Slumkey; the Honourable Samuel Slumkey touched his to [[Horatio]]
 Fizkin, Esquire; the band was stopped; the crowd were partially quieted;
-and Horatio Fizkin, Esquire, was permitted to proceed.
+and [[Horatio]] Fizkin, Esquire, was permitted to proceed.

@@ -1,5 +1,5 @@
 ---
-title: "A Predicament (part 4)"
+title: "[[A Predicament]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/A-Predicament-(Poe)"
@@ -28,7 +28,7 @@ tags:
 
       (possibly a concerted plot) as its fellow. Both rolled out of the
 
-      gutter together, and in truth I was very glad to get rid of them.
+      gutter together, and in [[Truth|truth]] I was very glad to get rid of them.
 
 
 
@@ -50,7 +50,7 @@ tags:
 
       sorry to see the head which had occasioned me so much
 
-      embarrassment at length make a final separation from my body. It
+      embarrassment at length make a final separation from my [[Body|body]]. It
 
       first rolled down the side of the steeple, then lodge, for a few
 
@@ -66,11 +66,11 @@ tags:
 
       incomprehensible character. My senses were here and there at one
 
-      and the same moment. With my head I imagined, at one time, that
+      and the same moment. With my head I imagined, at one [[Time|time]], that
 
       I, the head, was the real Signora Psyche Zenobia—at another I
 
-      felt convinced that myself, the body, was the proper identity. To
+      felt convinced that myself, the [[Body|body]], was the proper [[Identity|identity]]. To
 
       clear my ideas on this topic I felt in my pocket for my
 
@@ -100,7 +100,7 @@ tags:
 
 
 
-      thus comparing me to the hero who, in the heat of the combat, not
+      thus comparing me to the [[Hero|hero]] who, in the heat of the combat, not
 
       perceiving that he was dead, continued to contest the battle with
 
@@ -108,7 +108,7 @@ tags:
 
       getting down from my elevation, and I did so. What it was that
 
-      Pompey saw so very peculiar in my appearance I have never yet
+      [[Pompey]] saw so very peculiar in my appearance I have never yet
 
       been able to find out. The fellow opened his mouth from ear to
 
@@ -116,7 +116,7 @@ tags:
 
       nuts between the lids. Finally, throwing off his overcoat, he
 
-      made one spring for the staircase and disappeared. I hurled after
+      made one [[spring]] for the staircase and disappeared. I hurled after
 
       the scoundrel these vehement words of Demosthenes—
 
@@ -128,17 +128,17 @@ tags:
 
       and then turned to the darling of my heart, to the one-eyed! the
 
-      shaggy-haired Diana. Alas! what a horrible vision affronted my
+      shaggy-haired [[Diana]]. Alas! what a horrible vision affronted my
 
       eyes? Was that a rat I saw skulking into his hole? Are these the
 
       picked bones of the little angel who has been cruelly devoured by
 
-      the monster? Ye gods! and what do I behold—is that the departed
+      the [[Monster|monster]]? Ye gods! and what do I behold—is that the departed
 
-      spirit, the shade, the ghost, of my beloved puppy, which I
+      spirit, the shade, the [[Ghost|ghost]], of my beloved puppy, which I
 
-      perceive sitting with a grace so melancholy, in the corner?
+      perceive sitting with a grace so [[Melancholy|melancholy]], in the corner?
 
       Hearken! for she speaks, and, heavens! it is in the German of
 

@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 22 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -52,9 +52,9 @@ _Tekeli-li! Tekeli-li!_
 
 
 
-Presently we saw a large body go off into the hills, whence they
+Presently we saw a large [[Body|body]] go off into the hills, whence they
 
-returned in a short time, carrying stakes of wood. These they brought
+returned in a short [[Time|time]], carrying stakes of wood. These they brought
 
 to the station where the crowd was the thickest, which now separated so
 
@@ -68,7 +68,7 @@ carcass of the strange animal with the scarlet teeth and claws which
 
 the schooner had picked up at sea on the eighteenth of January. Captain
 
-Guy had had the body preserved for the purpose of stuffing the skin and
+Guy had had the [[Body|body]] preserved for the purpose of stuffing the skin and
 
 taking it to England. I remember he had given some directions about it
 

@@ -19,17 +19,17 @@ his silent fighting of his way through the mental condition of this
 period might have been a little meritorious. In the constant effort not
 to be betrayed into a new phase of the besetting sin of his experience,
 the pursuit of selfish objects by low and small means, and to hold
-instead to some high principle of honour and generosity, there might
+instead to some high principle of [[Honour|honour]] and generosity, there might
 have been a little merit. In the resolution not even to avoid Mr
-Meagles’s house, lest, in the selfish sparing of himself, he should
+Meagles’s [[house]], lest, in the selfish sparing of himself, he should
 bring any slight distress upon the daughter through making her the cause
 of an estrangement which he believed the father would regret, there
 might have been a little merit. In the modest truthfulness of always
 keeping in view the greater equality of Mr Gowan’s years and the greater
 attractions of his person and manner, there might have been a little
 merit. In doing all this and much more, in a perfectly unaffected way
-and with a manful and composed constancy, while the pain within him
-(peculiar as his life and history) was very sharp, there might have been
+and with a manful and composed constancy, while the [[Pain|pain]] within him
+(peculiar as his life and [[history]]) was very sharp, there might have been
 some quiet strength of character. But, after the resolution he had made,
 of course he could have no such merits as these; and such a state of
 mind was nobody’s--nobody’s.
@@ -45,9 +45,9 @@ element in his state of mind.
 
 ‘I quite regret you were not with us yesterday,’ said Mr Henry Gowan,
 calling on Clennam the next morning. ‘We had an agreeable day up the
-river there.’
+[[River|river]] there.’
 
-So he had heard, Arthur said.
+So he had heard, [[arthur|Arthur]] said.
 
 ‘From your partner?’ returned Henry Gowan. ‘What a dear old fellow he
 is!’
@@ -61,15 +61,15 @@ Here was one of the many little rough points that had a tendency to
 grate on Clennam’s hearing. He put it aside by merely repeating that he
 had a high regard for Mr Doyce.
 
-‘He is charming! To see him mooning along to that time of life,
+‘He is charming! To see him mooning along to that [[Time|time]] of life,
 laying down nothing by the way and picking up nothing by the way, is
-delightful. It warms a man. So unspoilt, so simple, such a good soul!
+delightful. It warms a man. So unspoilt, so simple, such a good [[Soul|soul]]!
 Upon my life Mr Clennam, one feels desperately worldly and wicked in
-comparison with such an innocent creature. I speak for myself, let me
+comparison with such an [[Innocent|innocent]] creature. I speak for myself, let me
 add, without including you. You are genuine also.’
 
 ‘Thank you for the compliment,’ said Clennam, ill at ease; ‘you are too,
-I hope?’
+I [[Hope|hope]]?’
 
 ‘So so,’ rejoined the other. ‘To be candid with you, tolerably. I am
 not a great impostor. Buy one of my pictures, and I assure you,
@@ -83,7 +83,7 @@ the more you give him, the more he’ll impose upon you. They all do it.’
 market. Give almost any man I know ten pounds, and he will impose upon
 you to a corresponding extent; a thousand pounds--to a corresponding
 extent; ten thousand pounds--to a corresponding extent. So great the
-success, so great the imposition. But what a capital world it is!’ cried
+[[success]], so great the imposition. But what a capital world it is!’ cried
 Gowan with warm enthusiasm. ‘What a jolly, excellent, lovable world it
 is!’
 
@@ -96,7 +96,7 @@ was chiefly acted on by--’
 Office.’
 
 ‘Ah! Don’t be hard upon the Barnacles,’ said Gowan, laughing afresh,
-‘they are darling fellows! Even poor little Clarence, the born idiot of
+‘they are darling fellows! Even poor little [[Clarence]], the born idiot of
 the family, is the most agreeable and most endearing blockhead! And by
 Jupiter, with a kind of cleverness in him too that would astonish you!’
 
@@ -106,15 +106,15 @@ Jupiter, with a kind of cleverness in him too that would astonish you!’
 which reduced everything in the wide world to the same light weight,
 ‘though I can’t deny that the Circumlocution Office may ultimately
 shipwreck everybody and everything, still, that will probably not be in
-our time--and it’s a school for gentlemen.’
+our [[Time|time]]--and it’s a school for gentlemen.’
 
 ‘It’s a very dangerous, unsatisfactory, and expensive school to the
 people who pay to keep the pupils there, I am afraid,’ said Clennam,
 shaking his head.
 
 ‘Ah! You are a terrible fellow,’ returned Gowan, airily. ‘I can
-understand how you have frightened that little donkey, Clarence, the
-most estimable of moon-calves (I really love him) nearly out of his
+understand how you have frightened that little [[donkey]], [[Clarence]], the
+most estimable of [[Moon|moon]]-calves (I really [[Love|love]] him) nearly out of his
 wits. But enough of him, and of all the rest of them. I want to present
 you to my mother, Mr Clennam. Pray do me the favour to give me the
 opportunity.’
@@ -123,7 +123,7 @@ In nobody’s state of mind, there was nothing Clennam would have desired
 less, or would have been more at a loss how to avoid.
 
 ‘My mother lives in a most primitive manner down in that dreary
-red-brick dungeon at Hampton Court,’ said Gowan. ‘If you would make
+red-brick dungeon at Hampton [[Court]],’ said Gowan. ‘If you would make
 your own appointment, suggest your own day for permitting me to take
 you there to dinner, you would be bored and she would be charmed. Really
 that’s the state of the case.’
@@ -133,7 +133,7 @@ great deal that was simple in the best sense, because unpractised and
 unused; and in his simplicity and modesty, he could only say that he was
 happy to place himself at Mr Gowan’s disposal. Accordingly he said it,
 and the day was fixed. And a dreaded day it was on his part, and a very
-unwelcome day when it came and they went down to Hampton Court together.
+unwelcome day when it came and they went down to Hampton [[Court]] together.
 
 The venerable inhabitants of that venerable pile seemed, in those times,
 to be encamped there like a sort of civilised gipsies. There was a
@@ -155,6 +155,6 @@ eyes of their receivers, pretended not to smell cooking three feet off;
 people, confronting closets accidentally left open, pretended not to see
 bottles; visitors with their heads against a partition of thin canvas,
 and a page and a young female at high words on the other side, made
-believe to be sitting in a primeval silence. There was no end to the
-small social accommodation-bills of this nature which the gipsies of
+believe to be sitting in a primeval [[Silence|silence]]. There was no end to the
+small social accommodation-bills of this [[Nature|nature]] which the gipsies of
 gentility were constantly drawing upon, and accepting for, one another.

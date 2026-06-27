@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 5)"
+title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -38,8 +38,8 @@ utmost delicacy and ceremony, at the state of my affections. Nothing
 but the serious assurance of his friend Copperfield to the contrary,
 he observed, could deprive him of the impression that his friend
 Copperfield loved and was beloved. After feeling very hot and
-uncomfortable for some time, and after a good deal of blushing,
-stammering, and denying, I said, having my glass in my hand, ‘Well! I
+uncomfortable for some [[Time|time]], and after a good deal of blushing,
+stammering, and denying, I said, having my glass in my hand, ‘[[Well]]! I
 would give them D.!’ which so excited and gratified Mr. Micawber,
 that he ran with a glass of punch into my bedroom, in order that Mrs.
 Micawber might drink D., who drank it with enthusiasm, crying from
@@ -50,13 +50,13 @@ Our conversation, afterwards, took a more worldly turn; Mr. Micawber
 telling us that he found Camden Town inconvenient, and that the first
 thing he contemplated doing, when the advertisement should have been the
 cause of something satisfactory turning up, was to move. He mentioned
-a terrace at the western end of Oxford Street, fronting Hyde Park, on
+a terrace at the western end of [[Oxford]] Street, fronting Hyde Park, on
 which he had always had his eye, but which he did not expect to attain
 immediately, as it would require a large establishment. There would
 probably be an interval, he explained, in which he should content
-himself with the upper part of a house, over some respectable place of
+himself with the upper part of a [[house]], over some respectable place of
 business--say in Piccadilly,--which would be a cheerful situation for
-Mrs. Micawber; and where, by throwing out a bow-window, or carrying up
+Mrs. Micawber; and where, by throwing out a bow-[[Window|window]], or carrying up
 the roof another story, or making some little alteration of that sort,
 they might live, comfortably and reputably, for a few years. Whatever
 was reserved for him, he expressly said, or wherever his abode might be,
@@ -72,18 +72,18 @@ tea for us in a most agreeable manner; and, whenever I went near her, in
 handing about the tea-cups and bread-and-butter, asked me, in a whisper,
 whether D. was fair, or dark, or whether she was short, or tall: or
 something of that kind; which I think I liked. After tea, we discussed a
-variety of topics before the fire; and Mrs. Micawber was good enough
+variety of topics before the [[Fire|fire]]; and Mrs. Micawber was good enough
 to sing us (in a small, thin, flat voice, which I remembered to have
 considered, when I first knew her, the very table-beer of acoustics) the
 favourite ballads of ‘The Dashing White Sergeant’, and ‘Little Tafflin’.
-For both of these songs Mrs. Micawber had been famous when she lived at
-home with her papa and mama. Mr. Micawber told us, that when he heard
+For both of these [[songs]] Mrs. Micawber had been famous when she lived at
+[[Home|home]] with her papa and mama. Mr. Micawber told us, that when he heard
 her sing the first one, on the first occasion of his seeing her beneath
 the parental roof, she had attracted his attention in an extraordinary
 degree; but that when it came to Little Tafflin, he had resolved to win
 that woman or perish in the attempt.
 
-It was between ten and eleven o’clock when Mrs. Micawber rose to replace
+It was between ten and eleven o’[[Clock|clock]] when Mrs. Micawber [[Rose|rose]] to replace
 her cap in the whitey-brown paper parcel, and to put on her bonnet. Mr.
 Micawber took the opportunity of Traddles putting on his great-coat, to
 slip a letter into my hand, with a whispered request that I would read
@@ -112,15 +112,15 @@ Copperfield; but--I am afraid I have lent him that already.’
 
 ‘No,’ said Traddles. ‘Not for that one. This is the first I have heard
 of that one. I have been thinking that he will most likely propose that
-one, on the way home. Mine’s another.’
+one, on the way [[Home|home]]. Mine’s another.’
 
-‘I hope there will be nothing wrong about it,’ said I. ‘I hope not,’
+‘I [[Hope|hope]] there will be nothing wrong about it,’ said I. ‘I [[Hope|hope]] not,’
 said Traddles. ‘I should think not, though, because he told me, only the
 other day, that it was provided for. That was Mr. Micawber’s expression,
 “Provided for.”’
 
 Mr. Micawber looking up at this juncture to where we were standing, I
-had only time to repeat my caution. Traddles thanked me, and descended.
+had only [[Time|time]] to repeat my caution. Traddles thanked me, and descended.
 But I was much afraid, when I observed the good-natured manner in which
 he went down with the cap in his hand, and gave Mrs. Micawber his arm,
 that he would be carried into the Money Market neck and heels.

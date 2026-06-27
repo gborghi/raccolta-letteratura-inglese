@@ -19,24 +19,24 @@ CHAPTER 16
 The sun was setting when they reached the wicket-gate at which the path
 began, and, as the rain falls upon the just and unjust alike, it shed
 its warm tint even upon the resting-places of the dead, and bade them
-be of good hope for its rising on the morrow.  The church was old and
+be of good [[Hope|hope]] for its rising on the morrow.  The church was old and
 grey, with ivy clinging to the walls, and round the porch.  Shunning
 the tombs, it crept about the mounds, beneath which slept poor humble
 men: twining for them the first wreaths they had ever won, but wreaths
 less liable to wither and far more lasting in their kind, than some
-which were graven deep in stone and marble, and told in pompous terms
+which were graven deep in [[Stone and Marble|stone and marble]], and told in pompous terms
 of virtues meekly hidden for many a year, and only revealed at last to
 executors and mourning legatees.
 
-The clergyman’s horse, stumbling with a dull blunt sound among the
+The clergyman’s [[Horse|horse]], stumbling with a dull blunt sound among the
 graves, was cropping the grass; at once deriving orthodox consolation
-from the dead parishioners, and enforcing last Sunday’s text that this
+from the dead parishioners, and enforcing last [[Sunday]]’s text that this
 was what all flesh came to; a lean ass who had sought to expound it
 also, without being qualified and ordained, was pricking his ears in an
 empty pound hard by, and looking with hungry eyes upon his priestly
 neighbour.
 
-The old man and the child quitted the gravel path, and strayed among
+The old man and the [[Child|child]] quitted the gravel path, and strayed among
 the tombs; for there the ground was soft, and easy to their tired feet.
 As they passed behind the church, they heard voices near at hand, and
 presently came on those who had spoken.
@@ -44,11 +44,11 @@ presently came on those who had spoken.
 They were two men who were seated in easy attitudes upon the grass, and
 so busily engaged as to be at first unconscious of intruders.  It was
 not difficult to divine that they were of a class of itinerant
-showmen--exhibitors of the freaks of Punch--for, perched cross-legged
-upon a tombstone behind them, was a figure of that hero himself, his
+showmen--exhibitors of the freaks of Punch--for, perched [[Cross|cross]]-legged
+upon a tombstone behind them, was a figure of that [[Hero|hero]] himself, his
 nose and chin as hooked and his face as beaming as usual.  Perhaps his
 imperturbable character was never more strikingly developed, for he
-preserved his usual equable smile notwithstanding that his body was
+preserved his usual equable smile notwithstanding that his [[Body|body]] was
 dangling in a most uncomfortable position, all loose and limp and
 shapeless, while his long peaked cap, unequally balanced against his
 exceedingly slight legs, threatened every instant to bring him toppling
@@ -56,7 +56,7 @@ down.
 
 In part scattered upon the ground at the feet of the two men, and in
 part jumbled together in a long flat box, were the other persons of the
-Drama.  The hero’s wife and one child, the hobby-horse, the doctor, the
+Drama.  The [[Hero|hero]]’s wife and one [[Child|child]], the hobby-[[Horse|horse]], the doctor, the
 foreign gentleman who not being familiar with the language is unable in
 the representation to express his ideas otherwise than by the utterance
 of the word ‘Shallabalah’ three distinct times, the radical neighbour
@@ -70,23 +70,23 @@ the radical neighbour, who had been beaten bald.
 
 They raised their eyes when the old man and his young companion were
 close upon them, and pausing in their work, returned their looks of
-curiosity.  One of them, the actual exhibitor no doubt, was a little
+curiosity.  One of them, the actual exhibitor no [[Doubt|doubt]], was a little
 merry-faced man with a twinkling eye and a red nose, who seemed to have
-unconsciously imbibed something of his hero’s character.  The
+unconsciously imbibed something of his [[Hero|hero]]’s character.  The
 other--that was he who took the money--had rather a careful and
 cautious look, which was perhaps inseparable from his occupation also.
 
 The merry man was the first to greet the strangers with a nod; and
 following the old man’s eyes, he observed that perhaps that was the
-first time he had ever seen a Punch off the stage.  (Punch, it may be
+first [[Time|time]] he had ever seen a Punch off the stage.  (Punch, it may be
 remarked, seemed to be pointing with the tip of his cap to a most
 flourishing epitaph, and to be chuckling over it with all his heart.)
 
 ‘Why do you come here to do this?’ said the old man, sitting down
 beside them, and looking at the figures with extreme delight.
 
-‘Why you see,’ rejoined the little man, ‘we’re putting up for to-night
-at the public-house yonder, and it wouldn’t do to let ‘em see the
+‘Why you see,’ rejoined the little man, ‘we’re putting up for to-[[Night|night]]
+at the public-[[house]] yonder, and it wouldn’t do to let ‘em see the
 present company undergoing repair.’
 
 ‘No!’ cried the old man, making signs to Nell to listen, ‘why not, eh?
@@ -99,7 +99,7 @@ without his wig?--certainly not.’
 
 ‘Good!’ said the old man, venturing to touch one of the puppets, and
 drawing away his hand with a shrill laugh.  ‘Are you going to show ‘em
-to-night?  are you?’
+to-[[Night|night]]?  are you?’
 
 ‘That is the intention, governor,’ replied the other, ‘and unless I’m
 much mistaken, Tommy Codlin is a calculating at this minute what we’ve
@@ -115,8 +115,8 @@ front of the curtain and see the public’s faces as I do, you’d know
 human natur’ better.’
 
 ‘Ah! it’s been the spoiling of you, Tommy, your taking to that branch,’
-rejoined his companion.  ‘When you played the ghost in the reg’lar
-drama in the fairs, you believed in everything--except ghosts.  But now
+rejoined his companion.  ‘When you played the [[Ghost|ghost]] in the reg’lar
+drama in the fairs, you believed in everything--except [[Ghosts|ghosts]].  But now
 you’re a universal mistruster.  I never see a man so changed.’
 
 ‘Never mind,’ said Mr Codlin, with the air of a discontented
@@ -131,4 +131,4 @@ You haven’t got a needle and thread I suppose?’
 
 The little man shook his head, and scratched it ruefully as he
 contemplated this severe indisposition of a principal performer.
-Seeing that they were at a loss, the child said timidly:
+Seeing that they were at a loss, the [[Child|child]] said timidly:

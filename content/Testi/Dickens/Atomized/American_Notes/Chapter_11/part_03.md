@@ -15,7 +15,7 @@ tags:
 
 
 ‘This may suit _you_, this may, but it don’t suit _me_.  This may be all
-very well with Down Easters, and men of Boston raising, but it won’t suit
+very [[Well|well]] with Down Easters, and men of Boston raising, but it won’t suit
 my figure nohow; and no two ways about _that_; and so I tell you.  Now!
 I’m from the brown forests of Mississippi, _I_ am, and when the sun
 shines on me, it does shine—a little.  It don’t glimmer where _I_ live,
@@ -44,9 +44,9 @@ o’ my raising.  You may act for yourselves, _you_ may.  I have pinted out
 the way.  Down Easters and Johnny Cakes can follow if they please.  I
 an’t a Johnny Cake, I an’t.  I am from the brown forests of the
 Mississippi, I am’—and so on, as before.  He was unanimously voted one of
-the tables for his bed at night—there is a great contest for the
+the tables for his bed at [[Night|night]]—there is a great contest for the
 tables—in consideration for his public services: and he had the warmest
-corner by the stove throughout the rest of the journey.  But I never
+corner by the stove throughout the rest of the [[Journey|journey]].  But I never
 could find out that he did anything except sit there; nor did I hear him
 speak again until, in the midst of the bustle and turmoil of getting the
 luggage ashore in the dark at Pittsburg, I stumbled over him as he sat
@@ -55,7 +55,7 @@ with a short laugh of defiance, ‘I an’t a Johnny Cake,—I an’t.  I’m fr
 the brown forests of the Mississippi, I am, damme!’  I am inclined to
 argue from this, that he had never left off saying so; but I could not
 make an affidavit of that part of the story, if required to do so by my
-Queen and Country.
+[[Queen]] and Country.
 
 As we have not reached Pittsburg yet, however, in the order of our
 narrative, I may go on to remark that breakfast was perhaps the least
@@ -72,42 +72,42 @@ occasional appearance on the table-cloth of a kind of Game, not mentioned
 in the Bill of Fare.
 
 And yet despite these oddities—and even they had, for me at least, a
-humour of their own—there was much in this mode of travelling which I
-heartily enjoyed at the time, and look back upon with great pleasure.
-Even the running up, bare-necked, at five o’clock in the morning, from
-the tainted cabin to the dirty deck; scooping up the icy water, plunging
+[[Humour|humour]] of their own—there was much in this mode of travelling which I
+heartily enjoyed at the [[Time|time]], and look back upon with great pleasure.
+Even the running up, bare-necked, at five o’[[Clock|clock]] in the morning, from
+the tainted cabin to the dirty deck; scooping up the icy [[Water|water]], plunging
 one’s head into it, and drawing it out, all fresh and glowing with the
 cold; was a good thing.  The fast, brisk walk upon the towing-path,
-between that time and breakfast, when every vein and artery seemed to
-tingle with health; the exquisite beauty of the opening day, when light
+between that [[Time|time]] and breakfast, when every vein and artery seemed to
+tingle with health; the exquisite [[Beauty|beauty]] of the opening day, when light
 came gleaming off from everything; the lazy motion of the boat, when one
 lay idly on the deck, looking through, rather than at, the deep blue sky;
-the gliding on at night, so noiselessly, past frowning hills, sullen with
+the gliding on at [[Night|night]], so noiselessly, past frowning hills, sullen with
 dark trees, and sometimes angry in one red, burning spot high up, where
-unseen men lay crouching round a fire; the shining out of the bright
-stars undisturbed by noise of wheels or steam, or any other sound than
-the limpid rippling of the water as the boat went on: all these were pure
+unseen men lay crouching round a [[Fire|fire]]; the shining out of the bright
+[[Stars|stars]] undisturbed by noise of wheels or steam, or any other sound than
+the limpid rippling of the [[Water|water]] as the boat went on: all these were pure
 delights.
 
 Then there were new settlements and detached log-cabins and frame-houses,
 full of interest for strangers from an old country: cabins with simple
 ovens, outside, made of clay; and lodgings for the pigs nearly as good as
 many of the human quarters; broken windows, patched with worn-out hats,
-old clothes, old boards, fragments of blankets and paper; and home-made
+old clothes, old boards, fragments of blankets and paper; and [[Home|home]]-made
 dressers standing in the open air without the door, whereon was ranged
 the household store, not hard to count, of earthen jars and pots.  The
 eye was pained to see the stumps of great trees thickly strewn in every
 field of wheat, and seldom to lose the eternal swamp and dull morass,
 with hundreds of rotten trunks and twisted branches steeped in its
-unwholesome water.  It was quite sad and oppressive, to come upon great
+unwholesome [[Water|water]].  It was quite sad and oppressive, to come upon great
 tracts where settlers had been burning down the trees, and where their
 wounded bodies lay about, like those of murdered creatures, while here
 and there some charred and blackened giant reared aloft two withered
-arms, and seemed to call down curses on his foes.  Sometimes, at night,
+arms, and seemed to call down curses on his foes.  Sometimes, at [[Night|night]],
 the way wound through some lonely gorge, like a mountain pass in
-Scotland, shining and coldly glittering in the light of the moon, and so
+Scotland, shining and coldly glittering in the light of the [[Moon|moon]], and so
 closed in by high steep hills all round, that there seemed to be no
 egress save through the narrower path by which we had come, until one
-rugged hill-side seemed to open, and shutting out the moonlight as we
+rugged [[Hill|hill]]-side seemed to open, and shutting out the moonlight as we
 passed into its gloomy throat, wrapped our new course in shade and
 darkness.

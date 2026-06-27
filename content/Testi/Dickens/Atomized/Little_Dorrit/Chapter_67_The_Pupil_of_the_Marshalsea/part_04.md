@@ -25,14 +25,14 @@ far above me in all respects at all times. As likewise,’ added John,
 His chivalrous feeling towards all that belonged to her made him so very
 respectable, in spite of his small stature and his rather weak legs, and
 his very weak hair, and his poetical temperament, that a Goliath might
-have sat in his place demanding less consideration at Arthur’s hands.
+have sat in his place demanding less consideration at [[arthur|Arthur]]’s hands.
 
 ‘You speak, John,’ he said, with cordial admiration, ‘like a Man.’
 
-‘Well, sir,’ returned John, brushing his hand across his eyes, ‘then I
+‘[[Well]], sir,’ returned John, brushing his hand across his eyes, ‘then I
 wish you’d do the same.’
 
-He was quick with this unexpected retort, and it again made Arthur
+He was quick with this unexpected retort, and it again made [[arthur|Arthur]]
 regard him with a wondering expression of face.
 
 ‘Leastways,’ said John, stretching his hand across the tea-tray, ‘if too
@@ -42,7 +42,7 @@ open, though a turnkey? Why did I get you the room which I knew you’d
 like best? Why did I carry up your things? Not that I found ‘em heavy;
 I don’t mention ‘em on that accounts; far from it. Why have I cultivated
 you in the manner I have done since the morning? On the ground of your
-own merits? No. They’re very great, I’ve no doubt at all; but not on the
+own merits? No. They’re very great, I’ve no [[Doubt|doubt]] at all; but not on the
 ground of them. Another’s merits have had their weight, and have had far
 more weight with Me. Then why not speak free?’
 
@@ -51,17 +51,17 @@ so true a respect for your character, that if I have appeared to be less
 sensible than I really am of the fact that the kind services you have
 rendered me to-day are attributable to my having been trusted by
 Miss Dorrit as her friend--I confess it to be a fault, and I ask your
-forgiveness.’
+[[Forgiveness|forgiveness]].’
 
 ‘Oh! why not,’ John repeated with returning scorn, ‘why not speak free!’
 
-‘I declare to you,’ returned Arthur, ‘that I do not understand you.
+‘I declare to you,’ returned [[arthur|Arthur]], ‘that I do not understand you.
 Look at me. Consider the trouble I have been in. Is it likely that I
-would wilfully add to my other self-reproaches, that of being ungrateful
+would wilfully add to my other [[Self|self]]-reproaches, that of being ungrateful
 or treacherous to you. I do not understand you.’
 
-John’s incredulous face slowly softened into a face of doubt. He rose,
-backed into the garret-window of the room, beckoned Arthur to come
+John’s incredulous face slowly softened into a face of [[Doubt|doubt]]. He [[Rose|rose]],
+backed into the garret-[[Window|window]] of the room, beckoned [[arthur|Arthur]] to come
 there, and stood looking at him thoughtfully.
 
 ‘Mr Clennam, do you mean to say that you don’t know?’
@@ -75,22 +75,22 @@ Clennam looked at the spikes, and looked at John; and looked at the
 spikes, and looked at John.
 
 ‘He says What! And what is more,’ exclaimed Young John, surveying him in
-a doleful maze, ‘he appears to mean it! Do you see this window, sir?’
+a doleful maze, ‘he appears to mean it! Do you see this [[Window|window]], sir?’
 
-‘Of course I see this window.’
+‘Of course I see this [[Window|window]].’
 
 ‘See this room?’
 
 ‘Why, of course I see this room.’
 
 ‘That wall opposite, and that yard down below? They have all been
-witnesses of it, from day to day, from night to night, from week to
+witnesses of it, from day to day, from [[Night|night]] to [[Night|night]], from week to
 week, from month to month. For how often have I seen Miss Dorrit here
 when she has not seen me!’
 
 ‘Witnesses of what?’ said Clennam.
 
-‘Of Miss Dorrit’s love.’
+‘Of Miss Dorrit’s [[Love|love]].’
 
 ‘For whom?’
 
@@ -103,7 +103,7 @@ upon him, its effect could not have been to shake him more. He stood
 amazed; his eyes looking at John; his lips parted, and seeming now and
 then to form the word ‘Me!’ without uttering it; his hands dropped at
 his sides; his whole appearance that of a man who has been awakened from
-sleep, and stupefied by intelligence beyond his full comprehension.
+[[Sleep|sleep]], and stupefied by intelligence beyond his full comprehension.
 
 ‘Me!’ he at length said aloud.
 
@@ -114,11 +114,11 @@ are completely mistaken.’
 
 ‘I mistaken, sir!’ said Young John. ‘_I_ completely mistaken on that
 subject! No, Mr Clennam, don’t tell me so. On any other, if you like,
-for I don’t set up to be a penetrating character, and am well aware of
+for I don’t set up to be a penetrating character, and am [[Well|well]] aware of
 my own deficiencies. But, _I_ mistaken on a point that has caused me
 more smart in my breast than a flight of savages’ arrows could have
-done! _I_ mistaken on a point that almost sent me into my grave, as
-I sometimes wished it would, if the grave could only have been made
+done! _I_ mistaken on a point that almost sent me into my [[Grave|grave]], as
+I sometimes wished it would, if the [[Grave|grave]] could only have been made
 compatible with the tobacco-business and father and mother’s feelings! I
 mistaken on a point that, even at the present moment, makes me take out
 my pocket-handkerchief like a great girl, as people say: though I am sure
@@ -126,7 +126,7 @@ I don’t know why a great girl should be a term of reproach, for every
 rightly constituted male mind loves ‘em great and small. Don’t tell me
 so, don’t tell me so!’
 
-Still highly respectable at bottom, though absurd enough upon the
+Still highly respectable at [[Bottom|bottom]], though absurd enough upon the
 surface, Young John took out his pocket-handkerchief with a genuine
 absence both of display and concealment, which is only to be seen in
 a man with a great deal of good in him, when he takes out his
@@ -134,14 +134,14 @@ pocket-handkerchief for the purpose of wiping his eyes. Having dried
 them, and indulged in the harmless luxury of a sob and a sniff, he put
 it up again.
 
-The touch was still in its influence so like a blow that Arthur could
+The touch was still in its influence so like a blow that [[arthur|Arthur]] could
 not get many words together to close the subject with. He assured John
 Chivery when he had returned his handkerchief to his pocket, that he
-did all honour to his disinterestedness and to the fidelity of his
+did all [[Honour|honour]] to his disinterestedness and to the fidelity of his
 remembrance of Miss Dorrit. As to the impression on his mind, of which
 he had just relieved it--here John interposed, and said, ‘No impression!
-Certainty!’--as to that, they might perhaps speak of it at another time,
+Certainty!’--as to that, they might perhaps speak of it at another [[Time|time]],
 but would say no more now. Feeling low-spirited and weary, he would go
-back to his room, with John’s leave, and come out no more that night.
-John assented, and he crept back in the shadow of the wall to his own
+back to his room, with John’s leave, and come out no more that [[Night|night]].
+John assented, and he crept back in the [[Shadow|shadow]] of the wall to his own
 lodging.

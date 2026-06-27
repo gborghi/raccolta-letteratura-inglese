@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 8 (part 2)"
+title: "[[longbow2]] — Chapter 8 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-"The recent success of the agrarian protest," began Hood cheerfully
-as his wife rose swiftly to receive two more visitors.  These were
-Professor Green and Commander Bellew Blair; for a queer friendship
+"The recent [[success]] of the agrarian protest," began Hood cheerfully
+as his wife [[Rose|rose]] swiftly to receive two more visitors.  These were
+Professor Green and Commander Bellew Blair; for a queer [[Friendship|friendship]]
 had long linked together the most practical and the most unpractical
-of the brothers of the Long Bow.  The friendship, as Pierce remarked,
+of the brothers of the Long Bow.  The [[Friendship|friendship]], as Pierce remarked,
 was firmly rooted in the square root of minus infinity.
 
-"How beautiful your garden is looking," said Blair to his hostess. 
+"How beautiful your [[Garden|garden]] is looking," said Blair to his hostess. 
 "One so seldom sees flower-beds like that now; but I shall always
 think the old gardeners were right."
 
 "Most things are old-fashioned here, I'm afraid," replied Elizabeth,
 "but I always like them like that.  And how are the children?"
 
-"The recent success of the agrarian protest," remarked her husband
+"The recent [[success]] of the agrarian protest," remarked her husband
 in a clear voice, "is doubtless--"
 
 "Really," she said, laughing, "you are too ridiculous for anything. 
-Why in the world should you want to read out the history of the war
-to the people who were in it, and know quite well already what
+Why in the world should you want to read out the [[history]] of the war
+to the people who were in it, and know quite [[Well|well]] already what
 really happened?"
 
 "I beg your pardon," said Colonel Crane.  "Very improper to
@@ -44,7 +44,7 @@ of what never happened."
 
 "Why, then you'd better go on reading, Hood," said Hilary Pierce. 
 "The Colonel wants to know whether he was killed in battle;
-or whether there was any truth in that story that he was hanged
+or whether there was any [[Truth|truth]] in that story that he was hanged
 as a spy on the very tree he had climbed when running away as
 a deserter."
 
@@ -56,7 +56,7 @@ as a whole."
 
 "Perhaps," began Blair, "we had better--"
 
-"The recent success of the agrarian protest," remarked Hood
+"The recent [[success]] of the agrarian protest," remarked Hood
 in authoritative tones, "is doubtless to be attributed largely
 to the economic advantage belonging to an agrarian population. 
 It can feed the town or refuse to feed the town; and this question
@@ -66,7 +66,7 @@ Paddington Station in the first days of the rebellion.  Men who
 had grown used to seeing on innumerable mornings the innumerable
 ranks and rows of great milk-cans, looking leaden in a grey
 and greasy light, found themselves faced with a blank, in which
-those neglected things shone in the memory like stolen silver. 
+those neglected things shone in the [[Memory|memory]] like stolen silver. 
 It was true, as Sir Horace Hunter eagerly pointed out when he was
 put in command of the highly hygienic problem of the milk supply,
 that there would be no difficulty about manufacturing the metal cans,
@@ -76,7 +76,7 @@ been of the opinion, the learned doctor explained, that the shape
 of the cans, especially the small cans left outside poor houses,
 left much to be desired, and the whole process of standing these
 small objects about in the basements of private houses was open
-to grave objection in the matter of waste of space.  The public,
+to [[Grave|grave]] objection in the matter of waste of space.  The public,
 however, showed an indifference to this new issue and a disposition
 to go back on the old demand for milk; in which matter, they said,
 there was an unfair advantage for the man who possessed a cow over
@@ -94,7 +94,7 @@ There was every reason to believe that the people, especially the
 young people, of the village often evaded the regulation about the
 gutta-percha masks, and the rule requiring the worker to paint himself
 all over with an antiseptic gum; and the sending of inspectors from
-London to see that these rules were enforced led to lamentable scenes
+[[London]] to see that these rules were enforced led to lamentable scenes
 of violence.  It would be an error, however, to attribute the whole
 of this great social convulsion to any local agricultural dispute. 
 The causes must also be sought in the general state of society,
@@ -105,28 +105,28 @@ in the form of Land Nationalization; and the General Election
 which was the result of this departure fell largely into the hands
 of his lieutenants like Hunter and Low.  It soon became apparent
 that some of the illusions of the Eden epoch had worn rather thin. 
-It was found that the democracy could not always be intimidated
-even by the threat of consulting them about the choice of a Government.
+It was found that the [[democracy]] could not always be intimidated
+even by the threat of consulting them about the choice of a [[government|Government]].
 
 "Nor can it be denied that the General Election of 19-- was from
 the first rendered somewhat unreal by certain legal fictions
 which had long been spreading.  There was a custom, originating in
-the harmless and humane deception used upon excited maiden ladies
+the harmless and humane [[Deception|deception]] used upon excited maiden ladies
 from the provinces, by which the private secretaries of the Prime
 Minister would present themselves as that politician himself;
-sometimes completing the innocent illusion by brushing their hair,
+sometimes completing the [[Innocent|innocent]] illusion by brushing their hair,
 waxing their moustaches or wearing their eyeglasses in the manner
 of their master.  When this custom was extended to public platforms it
 cannot be denied that it became more questionable.  In the last days
 of that venerable statesman it has been asserted that there were no
-less than five Lloyd Georges touring the country at the same time,
+less than five Lloyd Georges touring the country at the same [[Time|time]],
 and that the contemporary Chancellor of the Exchequer had appeared
-simultaneously in three cities on the same night, while the original
+simultaneously in three cities on the same [[Night|night]], while the original
 of all these replicas, the popular and brilliant Chancellor himself,
-was enjoying a well-earned rest by the Lake of Como.  The incident
+was enjoying a [[Well|well]]-earned rest by the Lake of Como.  The incident
 of two identical Lord Smiths appearing side by side on the same
 platform (through a miscalculation of the party agents), though
-received with good humour and honest merriment by the audience,
+received with good [[Humour|humour]] and honest merriment by the audience,
 did but little good to the serious credit of parliamentary institutions. 
 There was of course a certain exaggeration in the suggestion
 of the satirist that a whole column of identical Prime Ministers,

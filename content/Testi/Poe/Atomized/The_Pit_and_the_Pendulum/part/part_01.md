@@ -1,5 +1,5 @@
 ---
-title: "The Pit and the Pendulum (part 1)"
+title: "[[The Pit and the Pendulum]] (part 1)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -19,16 +19,16 @@ Impia tortorum longos hic turba furores
      Mors ubi dira fuit vita salusque patent.
 
 [_Quatrain composed for the gates of a market to be erected upon the
-site of the Jacobin Club House at Paris_.]
+site of the Jacobin Club [[house|House]] at Paris_.]
 
-      I was sick—sick unto death with that long agony; and when they at
+      I was sick—sick unto [[Death|death]] with that long agony; and when they at
       length unbound me, and I was permitted to sit, I felt that my
       senses were leaving me. The sentence—the dread sentence of
-      death—was the last of distinct accentuation which reached my
+      [[Death|death]]—was the last of distinct accentuation which reached my
       ears. After that, the sound of the inquisitorial voices seemed
-      merged in one dreamy indeterminate hum. It conveyed to my soul
+      merged in one dreamy indeterminate hum. It conveyed to my [[Soul|soul]]
       the idea of _revolution_—perhaps from its association in fancy
-      with the burr of a mill wheel. This only for a brief period, for
+      with the burr of a mill [[Wheel|wheel]]. This only for a brief period, for
       presently I heard no more. Yet, for a while, I saw—but with how
       terrible an exaggeration! I saw the lips of the black-robed
       judges. They appeared to me white—whiter than the sheet upon
@@ -42,28 +42,28 @@ site of the Jacobin Club House at Paris_.]
       horror, the soft and nearly imperceptible waving of the sable
       draperies which enwrapped the walls of the apartment. And then my
       vision fell upon the seven tall candles upon the table. At first
-      they wore the aspect of charity, and seemed white and slender
+      they wore the aspect of [[Charity|charity]], and seemed white and slender
       angels who would save me; but then, all at once, there came a
       most deadly nausea over my spirit, and I felt every fibre in my
       frame thrill as if I had touched the wire of a galvanic battery,
       while the angel forms became meaningless spectres, with heads of
       flame, and I saw that from them there would be no help. And then
       there stole into my fancy, like a rich musical note, the thought
-      of what sweet rest there must be in the grave. The thought came
+      of what sweet rest there must be in the [[Grave|grave]]. The thought came
       gently and stealthily, and it seemed long before it attained full
       appreciation; but just as my spirit came at length properly to
       feel and entertain it, the figures of the judges vanished, as if
       magically, from before me; the tall candles sank into
       nothingness; their flames went out utterly; the blackness of
       darkness supervened; all sensations appeared swallowed up in a
-      mad rushing descent as of the soul into Hades. Then silence, and
-      stillness, night were the universe.
+      mad rushing descent as of the [[Soul|soul]] into Hades. Then [[Silence|silence]], and
+      stillness, [[Night|night]] were the universe.
 
       I had swooned; but still will not say that all of consciousness
       was lost. What of it there remained I will not attempt to define,
       or even to describe; yet all was not lost. In the deepest
-      slumber—no! In delirium—no! In a swoon—no! In death—no! even in
-      the grave all is not lost. Else there is no immortality for man.
+      slumber—no! In delirium—no! In a swoon—no! In [[Death|death]]—no! even in
+      the [[Grave|grave]] all is not lost. Else there is no [[Immortality|immortality]] for man.
       Arousing from the most profound of slumbers, we break the
       gossamer web of some dream. Yet in a second afterward, (so frail
       may that web have been) we remember not that we have dreamed. In
@@ -80,19 +80,19 @@ site of the Jacobin Club House at Paris_.]
       swooned, is not he who finds strange palaces and wildly familiar
       faces in coals that glow; is not he who beholds floating in
       mid-air the sad visions that the many may not view; is not he who
-      ponders over the perfume of some novel flower; is not he whose
+      ponders over the perfume of some [[Novel|novel]] flower; is not he whose
       brain grows bewildered with the meaning of some musical cadence
       which has never before arrested his attention.
 
       Amid frequent and thoughtful endeavors to remember; amid earnest
       struggles to regather some token of the state of seeming
-      nothingness into which my soul had lapsed, there have been
-      moments when I have dreamed of success; there have been brief,
+      nothingness into which my [[Soul|soul]] had lapsed, there have been
+      moments when I have dreamed of [[success]]; there have been brief,
       very brief periods when I have conjured up remembrances which the
       lucid reason of a later epoch assures me could have had reference
       only to that condition of seeming unconsciousness. These shadows
-      of memory tell, indistinctly, of tall figures that lifted and
-      bore me in silence down—down—still down—till a hideous dizziness
+      of [[Memory|memory]] tell, indistinctly, of tall figures that lifted and
+      bore me in [[Silence|silence]] down—down—still down—till a hideous dizziness
       oppressed me at the mere idea of the interminableness of the
       descent. They tell also of a vague horror at my heart, on account
       of that heart’s unnatural stillness. Then comes a sense of sudden
@@ -100,19 +100,19 @@ site of the Jacobin Club House at Paris_.]
       ghastly train!) had outrun, in their descent, the limits of the
       limitless, and paused from the wearisomeness of their toil. After
       this I call to mind flatness and dampness; and then all is
-      madness—the madness of a memory which busies itself among
+      [[Madness|madness]]—the [[Madness|madness]] of a [[Memory|memory]] which busies itself among
       forbidden things.
 
-      Very suddenly there came back to my soul motion and sound—the
+      Very suddenly there came back to my [[Soul|soul]] motion and sound—the
       tumultuous motion of the heart, and, in my ears, the sound of its
       beating. Then a pause in which all is blank. Then again sound,
       and motion, and touch—a tingling sensation pervading my frame.
       Then the mere consciousness of existence, without thought—a
       condition which lasted long. Then, very suddenly, thought, and
       shuddering terror, and earnest endeavor to comprehend my true
-      state. Then a strong desire to lapse into insensibility. Then a
-      rushing revival of soul and a successful effort to move. And now
-      a full memory of the trial, of the judges, of the sable
+      state. Then a strong [[Desire|desire]] to lapse into insensibility. Then a
+      rushing revival of [[Soul|soul]] and a successful effort to move. And now
+      a full [[Memory|memory]] of the trial, of the judges, of the sable
       draperies, of the sentence, of the sickness, of the swoon. Then
       entire forgetfulness of all that followed; of all that a later
       day and much earnestness of endeavor have enabled me vaguely to

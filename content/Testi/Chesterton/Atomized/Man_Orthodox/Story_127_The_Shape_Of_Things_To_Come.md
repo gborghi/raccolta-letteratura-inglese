@@ -20,7 +20,7 @@ The earnest Freethinkers need not worry themselves so much
 about the persecutions of the past.  Before the Liberal idea
 is dead or triumphant, we shall see wars and persecutions
 the like of which the world has never seen.  They need not
-reserve their tears for the victims of Bonner or Claverhouse.
+reserve their [[Tears|tears]] for the victims of Bonner or Claverhouse.
 They may weep for themselves and for their children.
 
                                            Daily News, February 18th, 1905

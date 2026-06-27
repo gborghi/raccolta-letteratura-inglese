@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Tennyson"
+title: "[[VariedTypes]] — Tennyson"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -30,7 +30,7 @@ perhaps, to serve as a pamphlet against his opponents. If a critic has,
 
 as he ought to have, any of the functions anciently attributed to a
 
-prophet, it ought not to be difficult for him to prophesy that Tennyson
+[[Prophet|prophet]], it ought not to be difficult for him to prophesy that Tennyson
 
 will pass through a period of facile condemnation and neglect before we
 
@@ -38,7 +38,7 @@ arrive at the true appreciation of his work. The same thing has happened
 
 to the most vigorous of essayists, Macaulay, and the most vigorous of
 
-romancers, Dickens, because we live in a time when mere vigour is
+romancers, Dickens, because we live in a [[Time|time]] when mere vigour is
 
 considered a vulgar thing. The same idle and frigid reaction will almost
 
@@ -54,7 +54,7 @@ The attempts which have been made to discredit the poetical position of
 
 Tennyson are in the main dictated by an entire misunderstanding of the
 
-nature of poetry. When critics like Matthew Arnold, for example, suggest
+[[Nature|nature]] of poetry. When critics like Matthew Arnold, for example, suggest
 
 that his poetry is deficient in elaborate thought, they only prove, as
 
@@ -98,7 +98,7 @@ Men are very much too ready to speak of men's work being ordinary, when
 
 we consider that, properly considered, every man is extraordinary. The
 
-average man is a tribal fable, like the Man-Wolf or the Wise Man of the
+average man is a tribal [[Fable|fable]], like the Man-Wolf or the Wise Man of the
 
 Stoics. In every man's heart there is a revolution; how much more in
 
@@ -106,7 +106,7 @@ every poet's? The supreme business of criticism is to discover that part
 
 of a man's work which is his and to ignore that part which belongs to
 
-others. Why should any critic of poetry spend time and attention on that
+others. Why should any critic of poetry spend [[Time|time]] and attention on that
 
 part of a man's work which is unpoetical? Why should any man be
 
@@ -116,7 +116,7 @@ is to discover the importance of men and not their crimes. It is true
 
 that the Greek word critic carries with it the meaning of a judge, and
 
-up to this point of history judges have had to do with the valuation of
+up to this point of [[history]] judges have had to do with the valuation of
 
 men's sins, and not with the valuation of their virtues.
 
@@ -130,11 +130,11 @@ of genius, into those things which he really inaugurated. Underneath all
 
 his exterior of polished and polite rectitude there was in him a genuine
 
-fire of novelty; only that, like all the able men of his period, he
+[[Fire|fire]] of novelty; only that, like all the able men of his period, he
 
 disguised revolution under the name of evolution. He is only a very
 
-shallow critic who cannot see an eternal rebel in the heart of the
+shallow critic who cannot see an eternal [[Rebel|rebel]] in the heart of the
 
 Conservative.
 
@@ -152,13 +152,13 @@ vision of fact which science had recently revealed to mankind.
 
 Scientific discoveries seem commonly fables as fantastic in the ears of
 
-poets as poems in the ears of men of science. The poet is always a
+poets as [[Poems|poems]] in the ears of men of science. The poet is always a
 
 Ptolemaist; for him the sun still rises and the earth stands still.
 
 Tennyson really worked the essence of modern science into his poetical
 
-constitution, so that its appalling birds and frightful flowers were
+constitution, so that its appalling [[Birds|birds]] and frightful [[Flowers|flowers]] were
 
 really part of his literary imagery. To him blind and brutal monsters,
 
@@ -166,7 +166,7 @@ the products of the wild babyhood of the Universe, were as the daisies
 
 and the nightingales were to Keats; he absolutely realised the great
 
-literary paradox mentioned in the Book of Job: "He saw Behemoth, and he
+literary [[Paradox|paradox]] mentioned in the Book of Job: "He saw Behemoth, and he
 
 played with him as with a bird."
 
@@ -178,7 +178,7 @@ poetry are those instances in which this outrageous scientific
 
 phraseology becomes natural and unconscious. Tennyson wrote one of his
 
-own exquisite lyrics describing the exultation of a lover on the evening
+own exquisite lyrics describing the exultation of a [[Lover|lover]] on the evening
 
 before his bridal day. This would be an occasion, if ever there was one,
 
@@ -186,13 +186,13 @@ for falling back on those ancient and assured falsehoods of the domed
 
 heaven and the flat earth in which generations of poets have made us
 
-feel at home. We can imagine the poet in such a lyric saluting the
+feel at [[Home|home]]. We can imagine the poet in such a [[Lyric|lyric]] saluting the
 
-setting sun and prophesying the sun's resurrection. There is something
+setting sun and prophesying the sun's [[Resurrection|resurrection]]. There is something
 
-extraordinarily typical of Tennyson's scientific faith in the fact that
+extraordinarily typical of Tennyson's scientific [[Faith|faith]] in the fact that
 
-this, one of the most sentimental and elemental of his poems, opens with
+this, one of the most sentimental and elemental of his [[Poems|poems]], opens with
 
 the two lines:
 
@@ -204,7 +204,7 @@ the two lines:
 
 
 
-Rivers had often been commanded to flow by poets, and flowers to blossom
+Rivers had often been commanded to flow by poets, and [[Flowers|flowers]] to blossom
 
 in their season, and both were doubtless grateful for the permission.
 
@@ -222,7 +222,7 @@ There was, again, another poetic element entirely peculiar to Tennyson,
 
 which his critics have, in many cases, ridiculously confused with a
 
-fault. This was the fact that Tennyson stood alone among modern poets
+fault. This was the fact that Tennyson stood [[Alone|alone]] among modern poets
 
 in the attempt to give a poetic character to the conception of Liberal
 
@@ -250,7 +250,7 @@ passion; the passion of great judges. That Tennyson felt that lyrical
 
 enthusiasm could be devoted to established customs, to indefensible and
 
-ineradicable national constitutions, to the dignity of time and the
+ineradicable national constitutions, to the dignity of [[Time|time]] and the
 
 empire of unutterable common sense, all this did not make him a tamer
 
@@ -268,7 +268,7 @@ and patrician theory of poetry. "Dialect," he says, "mostly falls below
 
 the dignity of art." I cannot feel myself that art has any dignity
 
-higher than the indwelling and divine dignity of human nature. Great
+higher than the indwelling and divine dignity of human [[Nature|nature]]. Great
 
 poets like Burns were far more undignified when they clothed their
 
@@ -276,9 +276,9 @@ thoughts in what Mr. Morton Luce calls "the seemly raiment of cultured
 
 speech" than when they clothed them in the headlong and flexible patois
 
-in which they thought and prayed and quarrelled and made love. If
+in which they thought and prayed and quarrelled and made [[Love|love]]. If
 
-Tennyson failed (which I do not admit) in such poems as "The Northern
+Tennyson failed (which I do not admit) in such [[Poems|poems]] as "The Northern
 
 Farmer," it was not because he used too much of the spirit of the
 

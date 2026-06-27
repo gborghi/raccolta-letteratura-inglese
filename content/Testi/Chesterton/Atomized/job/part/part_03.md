@@ -32,14 +32,14 @@ accept a kind of controversial equality with His accusers.
 He is willing to regard it as if it were a fair intellectual duel:
 "Gird up now thy loins like a man; for I will demand of thee,
 and answer thou me."  The everlasting adopts an enormous
-and sardonic humility.  He is quite willing to be prosecuted.
+and sardonic [[Humility|humility]].  He is quite willing to be prosecuted.
 He only asks for the right which every prosecuted person possesses;
-He asks to be allowed to cross-examine the witness for the prosecution.
+He asks to be allowed to [[Cross|cross]]-examine the witness for the prosecution.
 And He carries yet further the correctness of the legal parallel.
 For the first question, essentially speaking, which He asks
 of Job is the question that any criminal accused by Job would
 be most entitled to ask.  He asks Job who he is.  And Job,
-being a man of candid intellect, takes a little time to consider,
+being a man of candid intellect, takes a little [[Time|time]] to consider,
 and comes to the conclusion that he does not know.
 
 This is the first great fact to notice about the speech of God,
@@ -49,23 +49,23 @@ used sometimes by supreme and sometimes by mediocre minds,
 that has ever since been the logical weapon of the true mystic.
 Socrates, as I have said, used it when he showed that if you only
 allowed him enough sophistry he could destroy all the sophists.
-Jesus Christ used it when He reminded the Sadducees, who could
-not imagine the nature of marriage in heaven, that if it came
-to that they had not really imagined the nature of marriage at all.
+Jesus [[Christ]] used it when He reminded the Sadducees, who could
+not imagine the [[Nature|nature]] of [[Marriage|marriage]] in heaven, that if it came
+to that they had not really imagined the [[Nature|nature]] of [[Marriage|marriage]] at all.
 In the break up of Christian theology in the eighteenth century,
 Butler used it, when he pointed out that rationalistic arguments could
 be used as much against vague religion as against doctrinal religion,
 as much against rationalist ethics as against Christian ethics.
 It is the root and reason of the fact that men who have religious
-faith have also philosophic doubt, like Cardinal Newman, Mr. Balfour,
+[[Faith|faith]] have also philosophic [[Doubt|doubt]], like Cardinal Newman, Mr. Balfour,
 or Mr. Mallock.  These are the small streams of the delta;
 the Book of Job is the first great cataract that creates
-the river.  In dealing with the arrogant asserter of doubt,
+the [[River|river]].  In dealing with the arrogant asserter of [[Doubt|doubt]],
 it is not the right method to tell him to stop doubting.
 It is rather the right method to tell him to go on doubting,
-to doubt a little more, to doubt every day newer and wilder things
+to [[Doubt|doubt]] a little more, to [[Doubt|doubt]] every day newer and wilder things
 in the universe, until at last, by some strange enlightenment,
-he may begin to doubt himself.  This, I say, is the first fact
+he may begin to [[Doubt|doubt]] himself.  This, I say, is the first fact
 touching the speech; the fine inspiration by which God comes
 in at the end, not to answer riddles, but to propound them.
 The other great fact which, taken together with this one,
@@ -95,7 +95,7 @@ as far as men are concerned, it is that it cannot be explained.
 He insists on the inexplicableness of everything;
 "Hath the rain a father? . . . Out of whose womb came the ice?"
 He goes farther, and insists on the positive and palpable unreason
-of things; "Hast thou sent the rain upon the desert where no
+of things; "Hast thou sent the rain upon the [[Desert|desert]] where no
 man is, and upon the wilderness wherein there is no man?"
 God will make man see things, if it is only against the black
 background of nonentity.  God will make Job see a startling universe
@@ -103,10 +103,10 @@ if He can only do it by making Job see an idiotic universe.
 To startle man God becomes for an instant a blasphemer;
 one might almost say that God becomes for an instant an atheist.
 He unrolls before Job a long panorama of created things,
-the horse, the eagle, the raven, the wild ass, the peacock,
+the [[Horse|horse]], the eagle, [[The Raven|the raven]], the wild ass, the peacock,
 the ostrich, the crocodile.  He so describes each of them
-that it sounds like a monster walking in the sun.
-The whole is a sort of psalm or rhapsody of the sense of wonder.
+that it sounds like a [[Monster|monster]] walking in the sun.
+The whole is a sort of psalm or rhapsody of the sense of [[Wonder|wonder]].
 The maker of all things is astonished at the things He has
 Himself made.  This we may call the third point.  Job puts forward
 a note of interrogation; God answers with a note of exclamation.
@@ -128,10 +128,10 @@ Almighty Himself were scarcely aware that He was letting them out.
 For instance, there is that famous passage where Jehovah with
 devastating sarcasm, asks Job where he was when the foundations
 of the world were laid, and then (as if merely fixing a date)
-mentions the time when the sons of God shouted for joy.
+mentions the [[Time|time]] when the sons of God shouted for joy.
 One cannot help feeling, even upon this meagre information,
 that they must have had something to shout about.  Or again,
-when God is speaking of snow and hail in the mere catalogue
+when God is speaking of [[Snow|snow]] and hail in the mere catalogue
 of the physical cosmos, He speaks of them as a treasury that He
 has laid up against the day of battle--a hint of some huge
 Armageddon in which evil shall be at last overthrown.

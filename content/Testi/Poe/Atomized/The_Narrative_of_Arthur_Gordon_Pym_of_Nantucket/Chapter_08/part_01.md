@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 9 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,25 +20,25 @@ CHAPTER IX.
 
 
 
-Luckily, just before night, all four of us had lashed ourselves firmly
+Luckily, just before [[Night|night]], all four of us had lashed ourselves firmly
 
 to the fragments of the windlass, lying in this manner as flat upon the
 
-deck as possible. This precaution alone saved us from destruction. As
+deck as possible. This precaution [[Alone|alone]] saved us from destruction. As
 
-it was, we were all more or less stunned by the immense weight of water
+it was, we were all more or less stunned by the immense weight of [[Water|water]]
 
 which tumbled upon us, and which did not roll from above us until we
 
 were nearly exhausted. As soon as I could recover breath, I called
 
-aloud to my companions. Augustus alone replied, saying, "It is all over
+aloud to my companions. Augustus [[Alone|alone]] replied, saying, "It is all over
 
-with us, and may God have mercy upon our souls." By-and-by both the
+with us, and may God have [[Mercy|mercy]] upon our souls." By-and-by both the
 
-others were enabled to speak, when they exhorted us to take courage, as
+others were enabled to speak, when they exhorted us to take [[Courage|courage]], as
 
-there was still hope; it being impossible, from the nature of the
+there was still [[Hope|hope]]; it being impossible, from the [[Nature|nature]] of the
 
 cargo, that the brig could go down, and there being every chance that
 
@@ -50,15 +50,15 @@ vessel with a cargo of empty oil-casks would not sink, I had been
 
 hitherto so confused in mind as to have overlooked this consideration
 
-altogether; and the danger which I had for some time regarded as the
+altogether; and the danger which I had for some [[Time|time]] regarded as the
 
-most imminent was that of foundering. As hope revived within me, I made
+most imminent was that of foundering. As [[Hope|hope]] revived within me, I made
 
 use of every opportunity to strengthen the lashings which held me to
 
 the remains of the windlass, and in this occupation I soon discovered
 
-that my companions were also busy. The night was as dark as it could
+that my companions were also busy. The [[Night|night]] was as dark as it could
 
 possibly be, and the horrible shrieking din and confusion which
 
@@ -68,7 +68,7 @@ with the sea, or rather we were encircled with a towering ridge of
 
 foam, a portion of which swept over us every instant. It is not too
 
-much to say that our heads were not fairly out of water more than one
+much to say that our heads were not fairly out of [[Water|water]] more than one
 
 second in three. Although we lay close together, no one of us could see
 
@@ -76,7 +76,7 @@ the other, or, indeed, any portion of the brig itself, upon which we
 
 were so tempestuously hurled about. At intervals we called one to the
 
-other, thus endeavouring to keep alive hope, and render consolation and
+other, thus endeavouring to keep alive [[Hope|hope]], and render consolation and
 
 encouragement to such of us as stood most in need of it. The feeble
 
@@ -92,7 +92,7 @@ overboard--yet to render him aid was a thing altogether out of the
 
 question. Fortunately, his station was more secure than that of any of
 
-the rest of us; for the upper part of his body lying just beneath a
+the rest of us; for the upper part of his [[Body|body]] lying just beneath a
 
 portion of the shattered windlass, the seas, as they tumbled in upon
 
@@ -108,13 +108,13 @@ liable to be washed off than otherwise would have been the case. The
 
 heel, as I have before stated, was to larboard, about one half of the
 
-deck being constantly under water. The seas, therefore, which struck us
+deck being constantly under [[Water|water]]. The seas, therefore, which struck us
 
 to starboard were much broken by the vessel's side, only reaching us in
 
 fragments as we lay flat on our faces; while those which came from
 
-larboard, being what are called back-water seas, and obtaining little
+larboard, being what are called back-[[Water|water]] seas, and obtaining little
 
 hold upon us on account of our posture, had not sufficient force to
 
@@ -126,29 +126,29 @@ In this frightful situation we lay until the day broke so as to show us
 
 more fully the horrors which surrounded us. The brig was a mere log,
 
-rolling about at the mercy of every wave; the gale was upon the
+[[rolling]] about at the [[Mercy|mercy]] of every wave; the gale was upon the
 
 increase, if anything, blowing indeed a complete hurricane, and there
 
 appeared to us no earthly prospect of deliverance. For several hours we
 
-held on in silence, expecting every moment that our lashings would
+held on in [[Silence|silence]], expecting every moment that our lashings would
 
 either give way, that the remains of the windlass would go by the
 
 board, or that some of the huge seas, which roared in every direction
 
-around us and above us, would drive the hulk so far beneath the water
+around us and above us, would drive the hulk so far beneath the [[Water|water]]
 
 that we should be drowned before it could regain the surface. By the
 
-mercy of God, however, we were preserved from these imminent dangers,
+[[Mercy|mercy]] of God, however, we were preserved from these imminent dangers,
 
 and about midday were cheered by the light of the blessed sun. Shortly
 
 afterward we could perceive a sensible diminution in the force of the
 
-wind, when, now for the first time since the latter part of the evening
+[[Wind|wind]], when, now for the first [[Time|time]] since the latter part of the evening
 
 before, Augustus spoke, asking Peters, who lay closest to him, if he
 
@@ -158,7 +158,7 @@ at first made to this question, we all concluded that the hybrid had
 
 been drowned where he lay; but presently, to our great joy, he spoke,
 
-although very feebly, saying that he was in great pain, being so cut by
+although very feebly, saying that he was in great [[Pain|pain]], being so cut by
 
 the tightness of his lashings across the stomach, that he must either
 
@@ -186,7 +186,7 @@ As the evening drew on, the sea had fallen so much that scarcely more
 
 than one wave broke over the hulk from windward in the course of five
 
-minutes, and the wind had abated a great deal, although still blowing a
+minutes, and the [[Wind|wind]] had abated a great deal, although still blowing a
 
 severe gale. I had not heard any of my companions speak for hours, and
 

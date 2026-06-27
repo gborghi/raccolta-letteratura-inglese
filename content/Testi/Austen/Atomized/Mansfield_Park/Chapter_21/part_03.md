@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 21 (part 3)"
+title: "[[Mansfield Park]] — Chapter 21 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -16,12 +16,12 @@ tags:
 
 To such feelings delay, even the delay of much preparation, would have
 been an evil, and Mr. Rushworth could hardly be more impatient for the
-marriage than herself. In all the important preparations of the mind
-she was complete: being prepared for matrimony by an hatred of home,
+[[Marriage|marriage]] than herself. In all the important preparations of the mind
+she was complete: being prepared for matrimony by an hatred of [[Home|home]],
 restraint, and tranquillity; by the misery of disappointed affection,
 and contempt of the man she was to marry. The rest might wait. The
-preparations of new carriages and furniture might wait for London and
-spring, when her own taste could have fairer play.
+preparations of new carriages and furniture might wait for [[London]] and
+[[spring]], when her own taste could have fairer play.
 
 The principals being all agreed in this respect, it soon appeared that
 a very few weeks would be sufficient for such arrangements as must
@@ -42,7 +42,7 @@ stood with salts in her hand, expecting to be agitated; her aunt tried
 to cry; and the service was impressively read by Dr. Grant. Nothing
 could be objected to when it came under the discussion of the
 neighbourhood, except that the carriage which conveyed the bride and
-bridegroom and Julia from the church-door to Sotherton was the same
+bridegroom and [[Julia]] from the church-door to Sotherton was the same
 chaise which Mr. Rushworth had used for a twelvemonth before. In
 everything else the etiquette of the day might stand the strictest
 investigation.
@@ -60,24 +60,24 @@ smallest insight into the disposition of the niece who had been brought
 up under her eye.
 
 The plan of the young couple was to proceed, after a few days, to
-Brighton, and take a house there for some weeks. Every public place was
-new to Maria, and Brighton is almost as gay in winter as in summer.
-When the novelty of amusement there was over, it would be time for the
-wider range of London.
+Brighton, and take a [[house]] there for some weeks. Every public place was
+new to [[Maria]], and Brighton is almost as gay in [[Winter|winter]] as in [[Summer|summer]].
+When the novelty of amusement there was over, it would be [[Time|time]] for the
+wider range of [[London]].
 
-Julia was to go with them to Brighton. Since rivalry between the
+[[Julia]] was to go with them to Brighton. Since rivalry between the
 sisters had ceased, they had been gradually recovering much of their
 former good understanding; and were at least sufficiently friends to
-make each of them exceedingly glad to be with the other at such a time.
+make each of them exceedingly glad to be with the other at such a [[Time|time]].
 Some other companion than Mr. Rushworth was of the first consequence to
-his lady; and Julia was quite as eager for novelty and pleasure as
-Maria, though she might not have struggled through so much to obtain
+his lady; and [[Julia]] was quite as eager for novelty and pleasure as
+[[Maria]], though she might not have struggled through so much to obtain
 them, and could better bear a subordinate situation.
 
 Their departure made another material change at Mansfield, a chasm
-which required some time to fill up. The family circle became greatly
+which required some [[Time|time]] to fill up. The family circle became greatly
 contracted; and though the Miss Bertrams had latterly added little to
 its gaiety, they could not but be missed. Even their mother missed
 them; and how much more their tenderhearted cousin, who wandered about
-the house, and thought of them, and felt for them, with a degree of
+the [[house]], and thought of them, and felt for them, with a degree of
 affectionate regret which they had never done much to deserve!

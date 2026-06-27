@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Miracle of Moon Crescent (part 3)"
+title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -61,10 +61,10 @@ that the justice of God should take him by the hair and the vengeance
 of hell by the heels, and he should be torn asunder like Judas
 and the world know him no more.'
 
-`Well, it doesn't matter now what else I said to the poor, crazy fellow;
+`[[Well]], it doesn't matter now what else I said to the poor, crazy fellow;
 he went away quieted down a little, and I went round to the back
 of the building to inspect.  And sure enough, in the little alley
-at the foot of this wall there lay a rusty antiquated pistol;
+at the foot of this wall there lay a rusty antiquated [[Pistol|pistol]];
 I know enough about pistols to know it had been loaded only with a
 little powder, there were the black marks of powder and smoke on the wall,
 and even the mark of the muzzle, but not even a dent of any bullet.
@@ -81,10 +81,10 @@ could have reached him, even if your friend hadn't fired blank.
 There's no other entrance to this place but this door, and we've
 been standing outside it ever since.'
 
-`All the same,' said Father Brown, gravely, `I should like to look
+`All the same,' said [[Father Brown]], gravely, `I should like to look
 in and see.'
 
-`Well, you can't,' retorted the other.  `Good Lord, you don't
+`[[Well]], you can't,' retorted the other.  `Good Lord, you don't
 tell me you think anything of the curse.'
 
 `You forget,' said the millionaire, with a slight sneer,
@@ -121,12 +121,12 @@ carrying the pamphlet, but serenely passing the door.
 `He'll go and sit on the bench by the floor--clerk and twiddle
 his thumbs till he's wanted; but he won't go in before then;
 and nor will I. I reckon we both know which side our bread
-is buttered, and it'd take a good many of Father Brown's saint
+is buttered, and it'd take a good many of [[Father Brown]]'s saint
 and angels to make us forget it.'
 
 `As for saints and angels--` began the priest.
 
 `It's all nonsense,' repeated Fenner.  `I don't want to say
-anything offensive, but that sort of thing may be very well
+anything offensive, but that sort of thing may be very [[Well|well]]
 for crypts and cloisters and all sorts of moonshiny places.
-But ghosts can't get through a closed door in an American hotel.'
+But [[Ghosts|ghosts]] can't get through a closed door in an American hotel.'

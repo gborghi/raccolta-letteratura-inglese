@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 37 (part 1)"
+title: "[[Great Expectations]] — Chapter 37 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,16 +17,16 @@ tags:
 Chapter XXXVII.
 
 
-Deeming Sunday the best day for taking Mr. Wemmick’s Walworth
-sentiments, I devoted the next ensuing Sunday afternoon to a pilgrimage
-to the Castle. On arriving before the battlements, I found the Union
+Deeming [[Sunday]] the best day for taking Mr. Wemmick’s Walworth
+sentiments, I devoted the next ensuing [[Sunday]] afternoon to a pilgrimage
+to the [[Castle]]. On arriving before the battlements, I found the [[Union]]
 Jack flying and the drawbridge up; but undeterred by this show of
 defiance and resistance, I rang at the gate, and was admitted in a most
 pacific manner by the Aged.
 
 “My son, sir,” said the old man, after securing the drawbridge, “rather
 had it in his mind that you might happen to drop in, and he left word
-that he would soon be home from his afternoon’s walk. He is very
+that he would soon be [[Home|home]] from his afternoon’s walk. He is very
 regular in his walks, is my son. Very regular in everything, is my
 son.”
 
@@ -57,7 +57,7 @@ meaning understood.
 
 “No,” said the old gentleman; “the warehousing, the warehousing. First,
 over yonder;” he appeared to mean up the chimney, but I believe he
-intended to refer me to Liverpool; “and then in the City of London
+intended to refer me to Liverpool; “and then in the [[City]] of [[London]]
 here. However, having an infirmity—for I am hard of hearing, sir—”
 
 I expressed in pantomime the greatest astonishment.
@@ -73,7 +73,7 @@ me to say anything that would have amused him half as much as this
 imaginary pleasantry, when I was startled by a sudden click in the wall
 on one side of the chimney, and the ghostly tumbling open of a little
 wooden flap with “JOHN” upon it. The old man, following my eyes, cried
-with great triumph, “My son’s come home!” and we both went out to the
+with great triumph, “My son’s come [[Home|home]]!” and we both went out to the
 drawbridge.
 
 It was worth any money to see Wemmick waving a salute to me from the
@@ -91,7 +91,7 @@ before and behind, made her figure very like a boy’s kite; and I might
 have pronounced her gown a little too decidedly orange, and her gloves
 a little too intensely green. But she seemed to be a good sort of
 fellow, and showed a high regard for the Aged. I was not long in
-discovering that she was a frequent visitor at the Castle; for, on our
+discovering that she was a frequent visitor at the [[Castle]]; for, on our
 going in, and my complimenting Wemmick on his ingenious contrivance for
 announcing himself to the Aged, he begged me to give my attention for a
 moment to the other side of the chimney, and disappeared. Presently
@@ -100,7 +100,7 @@ Skiffins” on it; then Miss Skiffins shut up and John tumbled open; then
 Miss Skiffins and John both tumbled open together, and finally shut up
 together. On Wemmick’s return from working these mechanical appliances,
 I expressed the great admiration with which I regarded them, and he
-said, “Well, you know, they’re both pleasant and useful to the Aged.
+said, “[[Well]], you know, they’re both pleasant and useful to the Aged.
 And by George, sir, it’s a thing worth mentioning, that of all the
 people who come to this gate, the secret of those pulls is only known
 to the Aged, Miss Skiffins, and me!”
@@ -113,27 +113,27 @@ gloves during the evening as an outward and visible sign that there was
 company), Wemmick invited me to take a walk with him round the
 property, and see how the island looked in wintertime. Thinking that he
 did this to give me an opportunity of taking his Walworth sentiments, I
-seized the opportunity as soon as we were out of the Castle.
+seized the opportunity as soon as we were out of the [[Castle]].
 
 Having thought of the matter with care, I approached my subject as if I
 had never hinted at it before. I informed Wemmick that I was anxious in
-behalf of Herbert Pocket, and I told him how we had first met, and how
-we had fought. I glanced at Herbert’s home, and at his character, and
+behalf of [[Herbert Pocket]], and I told him how we had first met, and how
+we had fought. I glanced at Herbert’s [[Home|home]], and at his character, and
 at his having no means but such as he was dependent on his father for;
 those, uncertain and unpunctual. I alluded to the advantages I had
 derived in my first rawness and ignorance from his society, and I
 confessed that I feared I had but ill repaid them, and that he might
-have done better without me and my expectations. Keeping Miss Havisham
+have done better without me and my expectations. Keeping [[Miss Havisham]]
 in the background at a great distance, I still hinted at the
 possibility of my having competed with him in his prospects, and at the
-certainty of his possessing a generous soul, and being far above any
+certainty of his possessing a generous [[Soul|soul]], and being far above any
 mean distrusts, retaliations, or designs. For all these reasons (I told
 Wemmick), and because he was my young companion and friend, and I had a
 great affection for him, I wished my own good fortune to reflect some
 rays upon him, and therefore I sought advice from Wemmick’s experience
 and knowledge of men and affairs, how I could best try with my
 resources to help Herbert to some present income,—say of a hundred a
-year, to keep him in good hope and heart,—and gradually to buy him on
+year, to keep him in good [[Hope|hope]] and heart,—and gradually to buy him on
 to some small partnership. I begged Wemmick, in conclusion, to
 understand that my help must always be rendered without Herbert’s
 knowledge or suspicion, and that there was no one else in the world

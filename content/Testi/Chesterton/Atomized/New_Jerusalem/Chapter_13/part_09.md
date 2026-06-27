@@ -27,9 +27,9 @@ of a business pressure from the more brutal and businesslike type
 of Jew, which arouses very violent and very just indignation.
 When I was in Jerusalem it was openly said that Jewish financiers
 had complained of the low rate of interest at which loans were made
-by the government to the peasantry, and even that the government
+by the [[government]] to the peasantry, and even that the [[government]]
 had yielded to them.  If this were true it was a heavier reproach
-to the government even than to the Jews.  But the general truth
+to the [[government]] even than to the Jews.  But the general [[Truth|truth]]
 is that such a state of feeling seems to make the simple and solid
 patriotism of a Palestinian Jewish nation practically impossible,
 and forces us to consider some alternative or some compromise.
@@ -59,14 +59,14 @@ places in adjacent parts or in many other parts of the world.
 They might be affiliated to some official centre in Palestine,
 or even in Jerusalem, where there would naturally be at least some
 great religious headquarters of the scattered race and religion.
-The nature of that religious centre it must be for Jews to decide;
+The [[Nature|nature]] of that religious centre it must be for Jews to decide;
 but I think if I were a Jew I would build the Temple without
 bothering about the site of the Temple.  That they should
 have the old site, of course, is not to be thought of;
 it would raise a Holy War from Morocco to the marches of China.
 But seeing that some of the greatest of the deeds of Israel were done,
-and some of the most glorious of the songs of Israel sung,
-when their only temple was a box carried about in the desert,
+and some of the most glorious of the [[songs]] of Israel sung,
+when their only temple was a box carried about in the [[Desert|desert]],
 I cannot think that the mere moving of the situation of the place
 of sacrifice need even mean so much to that historic tradition
 as it would to many others.  That the Jews should have some high
@@ -78,15 +78,15 @@ that the Jews have no more right there than the Jebusites.
 If there are Jebusites they are Jebusites without knowing it.
 I think it sufficiently answered in the fine phrase of an English priest,
 in many ways more Anti-Semitic than I:  "The people that remembers
-has a right."  The very worst of the Jews, as well as the very best,
+has a right."  The very worst of the Jews, as [[Well|well]] as the very best,
 do in some sense remember.  They are hated and persecuted and
-frightened into false names and double lives; but they remember.
+frightened into false names and [[Double|double]] lives; but they remember.
 They lie, they swindle, they betray, they oppress; but they remember.
 The more we happen to hate such elements among the Hebrews the more
 we admire the manly and magnificent elements among the more vague
-and vagrant tribes of Palestine, the more we must admit that paradox.
-The unheroic have the heroic memory; and the heroic people
-have no memory.
+and vagrant tribes of Palestine, the more we must admit that [[Paradox|paradox]].
+The unheroic have the heroic [[Memory|memory]]; and the heroic people
+have no [[Memory|memory]].
 
 But whatever the Jewish nation might wish to do about a national shrine
 or other supreme centre, the suggestion for the moment is that something
@@ -101,10 +101,10 @@ rid of the Jewish problem, and I do not see why we should obtain
 all their advantage and none of our own.  Therefore I would leave
 as few Jews as possible in other established nations, and to these
 I would give a special position best described as privilege;
-some sort of self-governing enclave with special laws and exemptions;
+some sort of [[Self|self]]-governing enclave with special laws and exemptions;
 for instance, I would certainly excuse them from conscription,
 which I think a gross injustice in their case. [Footnote: Of course
-the privileged exile would also lose the rights of a native.]
+the privileged [[Exile|exile]] would also lose the rights of a native.]
 A Jew might be treated as respectfully as a foreign ambassador,
 but a foreign ambassador is a foreigner.  Finally, I would give
 the same privileged position to all Jews everywhere, as an alternative

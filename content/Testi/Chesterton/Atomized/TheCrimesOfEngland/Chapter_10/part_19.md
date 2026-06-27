@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 19)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 19)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 pedlars. Mystics from the beginning had made vows of peace--but they
 
-added to them vows of poverty. Vows of poverty were not in the
+added to them vows of [[Poverty|poverty]]. Vows of [[Poverty|poverty]] were not in the
 
 Cobdenite's line. Then, again, there was the positive praise of Prussia,
 
@@ -24,19 +24,19 @@ to which steadily worsening case the Carlyleans were already committed.
 
 But beyond these, there was something else, a spirit which had more
 
-infected us as a whole. That spirit was the spirit of Hamlet. We gave
+infected us as a whole. That spirit was the spirit of [[Hamlet]]. We gave
 
 the grand name of "evolution" to a notion that things do themselves. Our
 
-wealth, our insularity, our gradual loss of faith, had so dazed us that
+wealth, our insularity, our gradual loss of [[Faith|faith]], had so dazed us that
 
-the old Christian England haunted us like a ghost in whom we could not
+the old Christian England haunted us like a [[Ghost|ghost]] in whom we could not
 
-quite believe. An aristocrat like Palmerston, loving freedom and hating
+quite believe. An [[aristocrat]] like Palmerston, loving [[Freedom|freedom]] and hating
 
 the upstart despotism, must have looked on at its cold brutality not
 
-without that ugly question which Hamlet asked himself--am I a coward?
+without that ugly question which [[Hamlet]] asked himself--am I a coward?
 
 
 
@@ -52,7 +52,7 @@ without that ugly question which Hamlet asked himself--am I a coward?
 
 
 
-We made dumb our anger and our honour; but it has not brought us peace.
+We made dumb our anger and our [[Honour|honour]]; but it has not brought us peace.
 
 
 
@@ -70,9 +70,9 @@ Among the minor crimes of England may be classed the shallow criticism
 
 and easy abandonment of Napoleon III. The Victorian English had a very
 
-bad habit of being influenced by words and at the same time pretending
+bad habit of being influenced by words and at the same [[Time|time]] pretending
 
-to despise them. They would build their whole historical philosophy upon
+to despise them. They would build their whole historical [[philosophy]] upon
 
 two or three titles, and then refuse to get even the titles right. The
 
@@ -98,7 +98,7 @@ Arts. His irritation would have increased if the Art Master had promised
 
 him a sea-piece and had brought him a piece of the sea; or if, during
 
-the decoration of his house, the same aesthetic humourist had undertaken
+the decoration of his [[house]], the same aesthetic humourist had undertaken
 
 to procure some Indian Red and had produced a Red Indian.
 
@@ -124,7 +124,7 @@ class of England did not now depend upon rotten boroughs, but upon
 
 rotten representatives. Therefore he did not understand Bonapartism. He
 
-did not understand that French democracy became more democratic, not
+did not understand that French [[democracy]] became more democratic, not
 
 less, when it turned all France into one constituency which elected one
 
@@ -140,11 +140,11 @@ about and taken for granted by the best Parliamentarians--Mr. Balfour,
 
 for instance--and we hear the one partly French and wholly Jacobin
 
-historian of the French Revolution recommending for the English evil a
+historian of the [[French Revolution]] recommending for the English evil a
 
-revival of the power of the Crown. It seems that so far from having left
+revival of the power of the [[Crown]]. It seems that so far from having left
 
-Louis Napoleon far behind in the grey dust of the dead despotisms, it is
+Louis Napoleon far behind in the grey [[Dust|dust]] of the dead despotisms, it is
 
 not at all improbable that our most extreme revolutionary developments
 
@@ -160,7 +160,7 @@ express the idea of an elective and popular origin; as against such a
 
 phrase as "the German Emperor," which expresses an almost
 
-transcendental tribal patriarchate, or such a phrase as "King of
+transcendental tribal patriarchate, or such a phrase as "[[King]] of
 
 Prussia," which suggests personal ownership of a whole territory. To
 
@@ -170,21 +170,21 @@ despotism, but forbid any riot against aristocracy. Yet the idea
 
 expressed in "The Emperor of the French" is not dead, but rather risen
 
-from the dead. It is the idea that while a government may pretend to be
+from the dead. It is the idea that while a [[government]] may pretend to be
 
-a popular government, only a person can be really popular. Indeed, the
+a popular [[government]], only a person can be really popular. Indeed, the
 
-idea is still the crown of American democracy, as it was for a time the
+idea is still the [[Crown|crown]] of American [[democracy]], as it was for a [[Time|time]] the
 
-crown of French democracy. The very powerful official who makes the
+[[Crown|crown]] of French [[democracy]]. The very powerful official who makes the
 
-choice of that great people for peace or war, might very well be called,
+choice of that great people for peace or war, might very [[Well|well]] be called,
 
 not the President of the United States, but the President of the
 
-Americans. In Italy we have seen the King and the mob prevail over the
+Americans. In [[Italy]] we have seen the [[King]] and the mob prevail over the
 
-conservatism of the Parliament, and in Russia the new popular policy
+conservatism of the Parliament, and in [[Russia]] the new popular policy
 
 sacramentally symbolised by the Czar riding at the head of the new
 
@@ -200,11 +200,11 @@ written one last royal title across the sky; the loss of palace and
 
 capital and territory have but isolated and made evident the people that
 
-has not been lost; not laws but the love of exiles, not soil but the
+has not been lost; not laws but the [[Love|love]] of exiles, not soil but the
 
 souls of men, still make certain that five true words shall yet be
 
-written in the corrupt and fanciful chronicles of mankind: "The King of
+written in the corrupt and fanciful chronicles of mankind: "The [[King]] of
 
 the Belgians."
 

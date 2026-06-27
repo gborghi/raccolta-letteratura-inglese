@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 50 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 50 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -30,10 +30,10 @@ His companion said nothing, but there was something in his manner which
 galled Sir Mulberry to add, with nearly as much ferocity as if his
 friend had been Nicholas himself:
 
-‘I sent Jenkins to old Nickleby before eight o’clock this morning. He’s
+‘I sent Jenkins to old Nickleby before eight o’[[Clock|clock]] this morning. He’s
 a staunch one; he was back with me before the messenger. I had it all
 from him in the first five minutes. I know where this hound is to be met
-with; time and place both. But there’s no need to talk; tomorrow will
+with; [[Time|time]] and place both. But there’s no need to talk; tomorrow will
 soon be here.’
 
 ‘And wha-at’s to be done tomorrow?’ inquired Lord Frederick.
@@ -41,14 +41,14 @@ soon be here.’
 Sir Mulberry Hawk honoured him with an angry glance, but condescended
 to return no verbal answer to this inquiry. Both walked sullenly on, as
 though their thoughts were busily occupied, until they were quite clear
-of the crowd, and almost alone, when Sir Mulberry wheeled round to
+of the crowd, and almost [[Alone|alone]], when Sir Mulberry wheeled round to
 return.
 
 ‘Stop,’ said his companion, ‘I want to speak to you in earnest. Don’t
 turn back. Let us walk here, a few minutes.’
 
-‘What have you to say to me, that you could not say yonder as well as
-here?’ returned his Mentor, disengaging his arm.
+‘What have you to say to me, that you could not say yonder as [[Well|well]] as
+here?’ returned his [[Mentor]], disengaging his arm.
 
 ‘Hawk,’ rejoined the other, ‘tell me; I must know.’
 
@@ -57,14 +57,14 @@ must know, of course there’s no escape for me. Must know!’
 
 ‘Must ask then,’ returned Lord Frederick, ‘and must press you for a
 plain and straightforward answer. Is what you have just said only a
-mere whim of the moment, occasioned by your being out of humour and
+mere whim of the moment, occasioned by your being out of [[Humour|humour]] and
 irritated, or is it your serious intention, and one that you have
 actually contemplated?’
 
-‘Why, don’t you remember what passed on the subject one night, when I
+‘Why, don’t you remember what passed on the subject one [[Night|night]], when I
 was laid up with a broken limb?’ said Sir Mulberry, with a sneer.
 
-‘Perfectly well.’
+‘Perfectly [[Well|well]].’
 
 ‘Then take that for an answer, in the devil’s name,’ replied Sir
 Mulberry, ‘and ask me for no other.’
@@ -74,7 +74,7 @@ latter’s general habit of submission, that, for the moment, the young
 man seemed half afraid to pursue the subject. He soon overcame this
 feeling, however, if it had restrained him at all, and retorted angrily:
 
-‘If I remember what passed at the time you speak of, I expressed a
+‘If I remember what passed at the [[Time|time]] you speak of, I expressed a
 strong opinion on this subject, and said that, with my knowledge or
 consent, you never should do what you threaten now.’
 
@@ -91,11 +91,11 @@ mine. It’s mine already. I am more compromised than I should be, as it
 is.’
 
 ‘Do as you please, and what you please, for yourself,’ said Sir
-Mulberry, affecting an easy good-humour. ‘Surely that must content
+Mulberry, affecting an easy good-[[Humour|humour]]. ‘Surely that must content
 you! Do nothing for me; that’s all. I advise no man to interfere in
 proceedings that I choose to take. I am sure you know me better than
-to do so. The fact is, I see, you mean to offer me advice. It is well
-meant, I have no doubt, but I reject it. Now, if you please, we will
+to do so. The fact is, I see, you mean to offer me advice. It is [[Well|well]]
+meant, I have no [[Doubt|doubt]], but I reject it. Now, if you please, we will
 return to the carriage. I find no entertainment here, but quite the
 reverse. If we prolong this conversation, we might quarrel, which would
 be no proof of wisdom in either you or me.’
@@ -109,8 +109,8 @@ if his dominion were to last, it must be established now. He knew that
 the moment he became violent, the young man would become violent too.
 He had, many times, been enabled to strengthen his influence, when
 any circumstance had occurred to weaken it, by adopting this cool and
-laconic style; and he trusted to it now, with very little doubt of its
-entire success.
+laconic style; and he trusted to it now, with very little [[Doubt|doubt]] of its
+entire [[success]].
 
 But while he did this, and wore the most careless and indifferent
 deportment that his practised arts enabled him to assume, he inwardly
@@ -136,11 +136,11 @@ and the circumstances which led to it, had arrived at a manly and
 honest conclusion. Sir Mulberry’s coarse and insulting behaviour on
 the occasion in question had produced a deep impression on his mind; a
 strong suspicion of his having led him on to pursue Miss Nickleby for
-purposes of his own, had been lurking there for some time; he was really
+purposes of his own, had been lurking there for some [[Time|time]]; he was really
 ashamed of his share in the transaction, and deeply mortified by the
 misgiving that he had been gulled. He had had sufficient leisure to
 reflect upon these things, during their late retirement; and, at times,
-when his careless and indolent nature would permit, had availed himself
+when his careless and indolent [[Nature|nature]] would permit, had availed himself
 of the opportunity. Slight circumstances, too, had occurred to increase
 his suspicion. It wanted but a very slight circumstance to kindle his
 wrath against Sir Mulberry. This his disdainful and insolent tone in

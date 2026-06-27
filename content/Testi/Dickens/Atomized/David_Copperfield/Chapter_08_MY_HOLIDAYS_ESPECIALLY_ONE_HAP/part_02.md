@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 2)"
+title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,16 +15,16 @@ tags:
 
 
 It seemed that I had not been expected so soon, the carrier being much
-before his usual time. It seemed, too, that Mr. and Miss Murdstone had
+before his usual [[Time|time]]. It seemed, too, that Mr. and Miss Murdstone had
 gone out upon a visit in the neighbourhood, and would not return before
-night. I had never hoped for this. I had never thought it possible that
+[[Night|night]]. I had never hoped for this. I had never thought it possible that
 we three could be together undisturbed, once more; and I felt, for the
-time, as if the old days were come back.
+[[Time|time]], as if the old days were come back.
 
 We dined together by the fireside. Peggotty was in attendance to wait
 upon us, but my mother wouldn’t let her do it, and made her dine with
 us. I had my own old plate, with a brown view of a man-of-war in full
-sail upon it, which Peggotty had hoarded somewhere all the time I
+sail upon it, which Peggotty had hoarded somewhere all the [[Time|time]] I
 had been away, and would not have had broken, she said, for a hundred
 pounds. I had my own old mug with David on it, and my own old little
 knife and fork that wouldn’t cut.
@@ -55,7 +55,7 @@ never said a word to me about it. He knows better. If he was to make so
 bold as say a word to me, I should slap his face.’
 
 Her own was as red as ever I saw it, or any other face, I think; but she
-only covered it again, for a few moments at a time, when she was taken
+only covered it again, for a few moments at a [[Time|time]], when she was taken
 with a violent fit of laughter; and after two or three of those attacks,
 went on with her dinner.
 
@@ -83,7 +83,7 @@ perhaps. What should I ever do without you!’
 
 ‘Me leave you, my precious!’ cried Peggotty. ‘Not for all the world and
 his wife. Why, what’s put that in your silly little head?’--For Peggotty
-had been used of old to talk to my mother sometimes like a child.
+had been used of old to talk to my mother sometimes like a [[Child|child]].
 
 But my mother made no answer, except to thank her, and Peggotty went
 running on in her own fashion.
@@ -91,15 +91,15 @@ running on in her own fashion.
 ‘Me leave you? I think I see myself. Peggotty go away from you? I should
 like to catch her at it! No, no, no,’ said Peggotty, shaking her head,
 and folding her arms; ‘not she, my dear. It isn’t that there ain’t some
-Cats that would be well enough pleased if she did, but they sha’n’t be
-pleased. They shall be aggravated. I’ll stay with you till I am a cross
+Cats that would be [[Well|well]] enough pleased if she did, but they sha’n’t be
+pleased. They shall be aggravated. I’ll stay with you till I am a [[Cross|cross]]
 cranky old woman. And when I’m too deaf, and too lame, and too blind,
 and too mumbly for want of teeth, to be of any use at all, even to be
 found fault with, than I shall go to my Davy, and ask him to take me
 in.’
 
 ‘And, Peggotty,’ says I, ‘I shall be glad to see you, and I’ll make you
-as welcome as a queen.’
+as welcome as a [[Queen|queen]].’
 
 ‘Bless your dear heart!’ cried Peggotty. ‘I know you will!’ And she
 kissed me beforehand, in grateful acknowledgement of my hospitality.
@@ -109,20 +109,20 @@ cradle, and nursed it. After that, she cleared the dinner table;
 after that, came in with another cap on, and her work-box, and the
 yard-measure, and the bit of wax-candle, all just the same as ever.
 
-We sat round the fire, and talked delightfully. I told them what a hard
+We sat round the [[Fire|fire]], and talked delightfully. I told them what a hard
 master Mr. Creakle was, and they pitied me very much. I told them what a
 fine fellow Steerforth was, and what a patron of mine, and Peggotty said
 she would walk a score of miles to see him. I took the little baby in
 my arms when it was awake, and nursed it lovingly. When it was asleep
 again, I crept close to my mother’s side according to my old custom,
-broken now a long time, and sat with my arms embracing her waist, and my
+broken now a long [[Time|time]], and sat with my arms embracing her waist, and my
 little red cheek on her shoulder, and once more felt her beautiful
 hair drooping over me--like an angel’s wing as I used to think, I
 recollect--and was very happy indeed.
 
-While I sat thus, looking at the fire, and seeing pictures in the
+While I sat thus, looking at the [[Fire|fire]], and seeing pictures in the
 red-hot coals, I almost believed that I had never been away; that Mr.
-and Miss Murdstone were such pictures, and would vanish when the fire
+and Miss Murdstone were such pictures, and would vanish when the [[Fire|fire]]
 got low; and that there was nothing real in all that I remembered, save
 my mother, Peggotty, and I.
 
@@ -135,7 +135,7 @@ darning can have come from. From my earliest infancy she seems to have
 been always employed in that class of needlework, and never by any
 chance in any other.
 
-‘I wonder,’ said Peggotty, who was sometimes seized with a fit of
+‘I [[Wonder|wonder]],’ said Peggotty, who was sometimes seized with a fit of
 wondering on some most unexpected topic, ‘what’s become of Davy’s
 great-aunt?’ ‘Lor, Peggotty!’ observed my mother, rousing herself from a
 reverie, ‘what nonsense you talk!’

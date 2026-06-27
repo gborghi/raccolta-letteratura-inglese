@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 47 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 47 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -23,23 +23,23 @@ occupy the foremost place; not only because it supports and upholds
 us when we most require to be sustained, but because in this source of
 consolation there is something, we have reason to believe, of the divine
 spirit; something of that goodness which detects amidst our own evil
-doings, a redeeming quality; something which, even in our fallen nature,
+doings, a redeeming quality; something which, even in our fallen [[Nature|nature]],
 we possess in common with the angels; which had its being in the old
-time when they trod the earth, and lingers on it yet, in pity.
+[[Time|time]] when they trod the earth, and lingers on it yet, in pity.
 
-How often, on their journey, did the widow remember with a grateful
+How often, on their [[Journey|journey]], did the widow remember with a grateful
 heart, that out of his deprivation Barnaby’s cheerfulness and affection
 sprung! How often did she call to mind that but for that, he might have
 been sullen, morose, unkind, far removed from her--vicious, perhaps, and
-cruel! How often had she cause for comfort, in his strength, and hope,
-and in his simple nature! Those feeble powers of mind which rendered him
+cruel! How often had she cause for comfort, in his strength, and [[Hope|hope]],
+and in his simple [[Nature|nature]]! Those feeble powers of mind which rendered him
 so soon forgetful of the past, save in brief gleams and flashes,--even
 they were a comfort now. The world to him was full of happiness; in
 every tree, and plant, and flower, in every bird, and beast, and tiny
-insect whom a breath of summer wind laid low upon the ground, he had
+insect whom a breath of [[Summer|summer]] [[Wind|wind]] laid low upon the ground, he had
 delight. His delight was hers; and where many a wise son would have
 made her sorrowful, this poor light-hearted idiot filled her breast with
-thankfulness and love.
+thankfulness and [[Love|love]].
 
 Their stock of money was low, but from the hoard she had told into the
 blind man’s hand, the widow had withheld one guinea. This, with the few
@@ -48,13 +48,13 @@ a goodly sum in bank. Moreover they had Grip in company; and when they
 must otherwise have changed the guinea, it was but to make him exhibit
 outside an alehouse door, or in a village street, or in the grounds or
 gardens of a mansion of the better sort, and scores who would have given
-nothing in charity, were ready to bargain for more amusement from the
+nothing in [[Charity|charity]], were ready to bargain for more amusement from the
 talking bird.
 
 One day--for they moved slowly, and although they had many rides in
-carts and waggons, were on the road a week--Barnaby, with Grip upon his
+carts and waggons, were on the [[Road|road]] a week--Barnaby, with Grip upon his
 shoulder and his mother following, begged permission at a trim lodge to
-go up to the great house, at the other end of the avenue, and show his
+go up to the [[Great House|great house]], at the other end of the avenue, and show his
 raven. The man within was inclined to give them admittance, and was
 indeed about to do so, when a stout gentleman with a long whip in his
 hand, and a flushed face which seemed to indicate that he had had his
@@ -82,7 +82,7 @@ linen drying on hedges, and stray poultry, eh? What hast got in that
 basket, lazy hound?’
 
 ‘Grip, Grip, Grip--Grip the clever, Grip the wicked, Grip the
-knowing--Grip, Grip, Grip,’ cried the raven, whom Barnaby had shut up
+knowing--Grip, Grip, Grip,’ cried [[The Raven|the raven]], whom Barnaby had shut up
 on the approach of this stern personage. ‘I’m a devil I’m a devil I’m a
 devil, Never say die Hurrah Bow wow wow, Polly put the kettle on we’ll
 all have tea.’
@@ -91,32 +91,32 @@ all have tea.’
 him.’
 
 Barnaby, thus condescendingly addressed, produced his bird, but not
-without much fear and trembling, and set him down upon the ground; which
+without much [[Fear|fear]] and trembling, and set him down upon the ground; which
 he had no sooner done than Grip drew fifty corks at least, and then
-began to dance; at the same time eyeing the gentleman with surprising
+began to [[Dance|dance]]; at the same [[Time|time]] eyeing the gentleman with surprising
 insolence of manner, and screwing his head so much on one side that he
 appeared desirous of screwing it off upon the spot.
 
 The cork-drawing seemed to make a greater impression on the gentleman’s
-mind, than the raven’s power of speech, and was indeed particularly
+mind, than [[The Raven|the raven]]’s power of speech, and was indeed particularly
 adapted to his habits and capacity. He desired to have that done again,
 but despite his being very peremptory, and notwithstanding that Barnaby
 coaxed to the utmost, Grip turned a deaf ear to the request, and
-preserved a dead silence.
+preserved a dead [[Silence|silence]].
 
-‘Bring him along,’ said the gentleman, pointing to the house. But Grip,
+‘Bring him along,’ said the gentleman, pointing to the [[house]]. But Grip,
 who had watched the action, anticipated his master, by hopping on before
 them;--constantly flapping his wings, and screaming ‘cook!’ meanwhile,
 as a hint perhaps that there was company coming, and a small collation
 would be acceptable.
 
 Barnaby and his mother walked on, on either side of the gentleman on
-horseback, who surveyed each of them from time to time in a proud and
+horseback, who surveyed each of them from [[Time|time]] to [[Time|time]] in a proud and
 coarse manner, and occasionally thundered out some question, the tone
 of which alarmed Barnaby so much that he could find no answer, and, as
 a matter of course, could make him no reply. On one of these occasions,
 when the gentleman appeared disposed to exercise his horsewhip, the
-widow ventured to inform him in a low voice and with tears in her eyes,
+widow ventured to inform him in a low voice and with [[Tears|tears]] in her eyes,
 that her son was of weak mind.
 
 ‘An idiot, eh?’ said the gentleman, looking at Barnaby as he spoke. ‘And

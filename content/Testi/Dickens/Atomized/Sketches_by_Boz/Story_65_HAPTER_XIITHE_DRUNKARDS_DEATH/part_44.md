@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 44)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 44)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -35,7 +35,7 @@ resident in this town. Frantic on discovering the loss of her
 favourite, the lady rushed distractedly into the street, calling in the
 most heart-rending and pathetic manner upon the passengers to restore
 her, her Augustus,—for so the deceased was named, in affectionate
-remembrance of a former lover of his mistress, to whom he bore a
+remembrance of a former [[Lover|lover]] of his mistress, to whom he bore a
 striking personal resemblance, which renders the circumstances
 additionally affecting. I am not yet in a condition to inform you what
 circumstance induced the bereaved lady to direct her steps to the hotel
@@ -47,10 +47,10 @@ features of Professor Muff were much scratched and lacerated by the
 injured lady; and that Professor Nogo, besides sustaining several
 severe bites, has lost some handfuls of hair from the same cause. It
 must be some consolation to these gentlemen to know that their ardent
-attachment to scientific pursuits has alone occasioned these unpleasant
+attachment to scientific pursuits has [[Alone|alone]] occasioned these unpleasant
 consequences; for which the sympathy of a grateful country will
 sufficiently reward them. The unfortunate lady remains at the Pig and
-Tinder-box, and up to this time is reported in a very precarious state.
+Tinder-box, and up to this [[Time|time]] is reported in a very precarious state.
 
 ‘I need scarcely tell you that this unlooked-for catastrophe has cast a
 damp and gloom upon us in the midst of our exhilaration; natural in any
@@ -62,8 +62,8 @@ by the whole of his acquaintance.’
 
 
 ‘I take the last opportunity before sealing my parcel to inform you
-that the boy who fell through the pastrycook’s window is not dead, as
-was universally believed, but alive and well. The report appears to
+that the boy who fell through the pastrycook’s [[Window|window]] is not dead, as
+was universally believed, but alive and [[Well|well]]. The report appears to
 have had its origin in his mysterious disappearance. He was found half
 an hour since on the premises of a sweet-stuff maker, where a raffle
 had been announced for a second-hand seal-skin cap and a tambourine;
@@ -74,7 +74,7 @@ cheerfulness. It is proposed to get up a subscription for him without
 delay.
 
 ‘Everybody is nervously anxious to see what to-morrow will bring forth.
-If any one should arrive in the course of the night, I have left strict
+If any one should arrive in the course of the [[Night|night]], I have left strict
 directions to be called immediately. I should have sat up, indeed, but
 the agitating events of this day have been too much for me.
 
@@ -86,14 +86,14 @@ very strange!’
 
 ‘All is now over; and, upon one point at least, I am at length enabled
 to set the minds of your readers at rest. The three professors arrived
-at ten minutes after two o’clock, and, instead of taking up their
+at ten minutes after two o’[[Clock|clock]], and, instead of taking up their
 quarters at the Original Pig, as it was universally understood in the
 course of yesterday that they would assuredly have done, drove straight
 to the Pig and Tinder-box, where they threw off the mask at once, and
 openly announced their intention of remaining. Professor Wheezy may
 reconcile this very extraordinary conduct with _his_ notions of fair
 and equitable dealing, but I would recommend Professor Wheezy to be
-cautious how he presumes too far upon his well-earned reputation. How
+cautious how he presumes too far upon his [[Well|well]]-earned reputation. How
 such a man as Professor Snore, or, which is still more extraordinary,
 such an individual as Professor Doze, can quietly allow himself to be
 mixed up with such proceedings as these, you will naturally inquire.
@@ -104,10 +104,10 @@ to give utterance to them just now.’
 
 
 ‘The town is filling fast; eighteenpence has been offered for a bed and
-refused. Several gentlemen were under the necessity last night of
+refused. Several gentlemen were under the necessity last [[Night|night]] of
 sleeping in the brick fields, and on the steps of doors, for which they
-were taken before the magistrates in a body this morning, and committed
-to prison as vagrants for various terms. One of these persons I
+were taken before the magistrates in a [[Body|body]] this morning, and committed
+to [[Prison|prison]] as vagrants for various terms. One of these persons I
 understand to be a highly-respectable tinker, of great practical skill,
 who had forwarded a paper to the President of Section D. Mechanical
 Science, on the construction of pipkins with copper bottoms and

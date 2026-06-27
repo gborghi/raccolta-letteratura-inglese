@@ -16,12 +16,12 @@ tags:
 I. The Burial of the Dead  
     April is the cruellest month, breeding  
 Lilacs out of the dead land, mixing  
-Memory and desire, stirring  
-Dull roots with spring rain.  
-Winter kept us warm, covering  
-Earth in forgetful snow, feeding  
+[[Memory]] and [[Desire|desire]], stirring  
+Dull roots with [[Spring|spring]] rain.  
+[[Winter]] kept us warm, covering  
+Earth in forgetful [[Snow|snow]], feeding  
 A little life with dried tubers.  
-Summer surprised us, coming over the Starnbergersee  
+[[Summer]] surprised us, coming over the Starnbergersee  
 With a shower of rain; we stopped in the colonnade,  
 10 And went on in sunlight, into the Hofgarten,  
 
@@ -32,8 +32,8 @@ And when we were children, staying at the archduke’s,
 My cousin’s, he took me out on a sled.  
 And I was frightened. He said, Marie,  
 Marie, hold on tight. And down we went.  
-In the mountains, there you feel free.  
-I read, much of the night, and go south in the winter.  
+In the [[Mountains|mountains]], there you feel free.  
+I read, much of the [[Night|night]], and go south in the [[Winter|winter]].  
     What are the roots that clutch, what branches grow  
 20 Out of this stony rubbish? Son of man,  
 
@@ -41,32 +41,32 @@ I read, much of the night, and go south in the winter.
 You cannot say, or guess, for you know only  
 A heap of broken images, where the sun beats,  
 And the dead tree gives no shelter, the cricket no relief,  
-And the dry stone no sound of water. Only  
-There is shadow under this red rock,  
-(Come in under the shadow of this red rock),  
+And the dry stone no sound of [[Water|water]]. Only  
+There is [[Shadow|shadow]] under this red rock,  
+(Come in under the [[Shadow|shadow]] of this red rock),  
 And I will show you something different from either  
-Your shadow at morning striding behind you  
-Or your shadow at evening rising to meet you;  
-30 I will show you fear in a handful of dust.  
+Your [[Shadow|shadow]] at morning striding behind you  
+Or your [[Shadow|shadow]] at evening rising to meet you;  
+30 I will show you [[Fear|fear]] in a handful of [[Dust|dust]].  
 
 
-Frisch weht der Wind  
+Frisch weht der [[Wind]]  
 Der Heimat zu  
 Mein Irisch Kind  
 Wo weilest du?  
 ‘You gave me hyacinths first a year ago;  
 ‘They called me the hyacinth girl.’  
-— Yet when we came back, late, from the hyacinth garden,  
+— Yet when we came back, late, from the hyacinth [[Garden|garden]],  
 Your arms full, and your hair wet, I could not  
 Speak, and my eyes failed, I was neither  
 40 Living nor dead, and I knew nothing,  
 
 
-Looking into the heart of light, the silence.  
+Looking into the heart of light, the [[Silence|silence]].  
 Oed’ und leer das Meer.  
 
 
-    Madame Sosostris, famous clairvoyante,  
+    [[Madame Sosostris]], famous clairvoyante,  
 Had a bad cold, nevertheless  
 Is known to be the wisest woman in Europe,  
 With a wicked pack of cards. Here, said she,  
@@ -76,31 +76,31 @@ Here is Belladonna, the Lady of the Rocks,
 50 The lady of situations.  
 
 
-Here is the man with three staves, and here the Wheel,  
+Here is the man with three staves, and here the [[Wheel]],  
 And here is the one-eyed merchant, and this card,  
 Which is blank, is something he carries on his back,  
 Which I am forbidden to see. I do not find  
-The Hanged Man. Fear death by water.  
+The Hanged Man. [[Fear]] [[Death|death]] by [[Water|water]].  
 I see crowds of people, walking round in a ring.  
 Thank you. If you see dear Mrs. Equitone,  
 Tell her I bring the horoscope myself:  
 One must be so careful these days.  
-60    Unreal City,  
+60    Unreal [[City]],  
 
 
-Under the brown fog of a winter dawn,  
-A crowd flowed over London Bridge, so many,  
-I had not thought death had undone so many.  
+Under the brown fog of a [[Winter|winter]] [[Dawn|dawn]],  
+A crowd flowed over [[London]] Bridge, so many,  
+I had not thought [[Death|death]] had undone so many.  
 Sighs, short and infrequent, were exhaled,  
 And each man fixed his eyes before his feet.  
-Flowed up the hill and down King William Street,  
+Flowed up the [[Hill|hill]] and down [[King]] William Street,  
 To where Saint Mary Woolnoth kept the hours  
 With a dead sound on the final stroke of nine.  
 There I saw one I knew, and stopped him, crying: ‘Stetson!  
 70 ‘You who were with me in the ships at Mylae!  
-‘That corpse you planted last year in your garden,  
+‘That corpse you planted last year in your [[Garden|garden]],  
 ‘Has it begun to sprout? Will it bloom this year?  
-‘Or has the sudden frost disturbed its bed?  
+‘Or has the sudden [[Frost|frost]] disturbed its bed?  
 ‘O keep the Dog far hence, that’s friend to men,  
 ‘Or with his nails he’ll dig it up again!  
 ‘You! hypocrite lecteur! — mon semblable, — mon frère!’  
@@ -115,13 +115,13 @@ Held up by standards wrought with fruited vines
 (Another hid his eyes behind his wing)  
 Doubled the flames of sevenbranched candelabra  
 Reflecting light upon the table as  
-The glitter of her jewels rose to meet it,  
+The glitter of her jewels [[Rose|rose]] to meet it,  
 From satin cases poured in rich profusion.  
 In vials of ivory and coloured glass  
 Unstoppered, lurked her strange synthetic perfumes,  
 Unguent, powdered, or liquid — troubled, confused  
 And drowned the sense in odours; stirred by the air  
-90 That freshened from the window, these ascended  
+90 That freshened from the [[Window|window]], these ascended  
 
 
 In fattening the prolonged candle-flames,  
@@ -131,15 +131,15 @@ Huge sea-wood fed with copper
 Burned green and orange, framed by the coloured stone,  
 In which sad light a carvèd dolphin swam.  
 Above the antique mantel was displayed  
-As though a window gave upon the sylvan scene  
-The change of Philomel, by the barbarous king  
-100 So rudely forced; yet there the nightingale  
+As though a [[Window|window]] gave upon the sylvan scene  
+The change of Philomel, by the barbarous [[King|king]]  
+100 So rudely forced; yet there the [[Nightingale|nightingale]]  
 
 
-Filled all the desert with inviolable voice  
+Filled all the [[Desert|desert]] with inviolable voice  
 And still she cried, and still the world pursues,  
 ‘Jug Jug’ to dirty ears.  
-And other withered stumps of time  
+And other withered stumps of [[Time|time]]  
 Were told upon the walls; staring forms  
 Leaned out, leaning, hushing the room enclosed.  
 Footsteps shuffled on the stair.  
@@ -155,8 +155,8 @@ Spread out in fiery points
     I think we are in rats’ alley  
 Where the dead men lost their bones.  
     ‘What is that noise?’  
-                                The wind under the door.  
-‘What is that noise now? What is the wind doing?’  
+                                The [[Wind|wind]] under the door.  
+‘What is that noise now? What is the [[Wind|wind]] doing?’  
 120                                Nothing again nothing.  
 
 
@@ -176,7 +176,7 @@ It’s so elegant
 I shall rush out as I am, and walk the street  
 With my hair down, so. What shall we do tomorrow?  
 What shall we ever do?’  
-                                                  The hot water at ten.  
+                                                  The hot [[Water|water]] at ten.  
 And if it rains, a closed car at four.  
 And we shall play a game of chess,  
 Pressing lidless eyes and waiting for a knock upon the door.  
@@ -184,20 +184,20 @@ Pressing lidless eyes and waiting for a knock upon the door.
 140 I didn’t mince my words, I said to her myself,  
 
 
-HURRY UP PLEASE ITS TIME  
+HURRY UP PLEASE ITS [[Time|TIME]]  
 Now Albert’s coming back, make yourself a bit smart.  
 He’ll want to know what you done with that money he gave you  
 To get yourself some teeth. He did, I was there.  
 You have them all out, Lil, and get a nice set,  
 He said, I swear, I can’t bear to look at you.  
 And no more can’t I, I said, and think of poor Albert,  
-He’s been in the army four years, he wants a good time,  
+He’s been in the army four years, he wants a good [[Time|time]],  
 And if you don’t give it him, there’s others will, I said.  
 150 Oh is there, she said. Something o’ that, I said.  
 
 
 Then I’ll know who to thank, she said, and give me a straight look.  
-HURRY UP PLEASE ITS TIME  
+HURRY UP PLEASE ITS [[Time|TIME]]  
 If you don’t like it you can get on with it, I said.  
 Others can pick and choose if you can’t.  
 But if Albert makes off, it won’t be for lack of telling.  
@@ -209,18 +209,18 @@ It’s them pills I took, to bring it off, she said.
 
 
 The chemist said it would be all right, but I’ve never been the same.  
-You are a proper fool, I said.  
+You are a proper [[Fool|fool]], I said.  
 
 
-Well, if Albert won’t leave you alone, there it is, I said,  
+[[Well]], if Albert won’t leave you [[Alone|alone]], there it is, I said,  
 What you get married for if you don’t want children?  
-HURRY UP PLEASE ITS TIME  
-Well, that Sunday Albert was home, they had a hot gammon,  
-And they asked me in to dinner, to get the beauty of it hot —  
-HURRY UP PLEASE ITS TIME  
-HURRY UP PLEASE ITS TIME  
+HURRY UP PLEASE ITS [[Time|TIME]]  
+[[Well]], that [[Sunday]] Albert was [[Home|home]], they had a hot gammon,  
+And they asked me in to dinner, to get the [[Beauty|beauty]] of it hot —  
+HURRY UP PLEASE ITS [[Time|TIME]]  
+HURRY UP PLEASE ITS [[Time|TIME]]  
 170 Goonight Bill. Goonight Lou. Goonight May. Goonight.  
 
 
 Ta ta. Goonight. Goonight.  
-Good night, ladies, good night, sweet ladies, good night, good night.  
+Good [[Night|night]], ladies, good [[Night|night]], sweet ladies, good [[Night|night]], good [[Night|night]].  

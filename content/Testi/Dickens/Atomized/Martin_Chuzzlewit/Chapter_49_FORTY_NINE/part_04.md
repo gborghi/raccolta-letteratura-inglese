@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 49: FORTY NINE (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 49: FORTY NINE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -24,13 +24,13 @@ may, as viands possessing some acidity of their own, have encouraged and
 increased this failing in Mrs Prig; and every application to the teapot
 certainly did; for it was often remarked of her by her friends, that
 she was most contradictory when most elevated. It is certain that her
-countenance became about this time derisive and defiant, and that she
+countenance became about this [[Time|time]] derisive and defiant, and that she
 sat with her arms folded, and one eye shut up, in a somewhat offensive,
 because obstrusively intelligent, manner.
 
 Mrs Gamp observing this, felt it the more necessary that Mrs Prig should
 know her place, and be made sensible of her exact station in society, as
-well as of her obligations to herself. She therefore assumed an air of
+[[Well|well]] as of her obligations to herself. She therefore assumed an air of
 greater patronage and importance, as she went on to answer Mrs Prig a
 little more in detail.
 
@@ -42,12 +42,12 @@ Chuffey’s friends has made propojals for his bein’ took care on, and has
 said to me, “Mrs Gamp, WILL you undertake it? We couldn’t think,” they
 says, “of trusting him to nobody but you, for, Sairey, you are gold as
 has passed the furnage. Will you undertake it, at your own price, day
-and night, and by your own self?” “No,” I says, “I will not. Do not
+and [[Night|night]], and by your own [[Self|self]]?” “No,” I says, “I will not. Do not
 reckon on it. There is,” I says, “but one creetur in the world as I would
 undertake on sech terms, and her name is Harris. But,” I says, “I
 am acquainted with a friend, whose name is Betsey Prig, that I can
 recommend, and will assist me. Betsey,” I says, “is always to be trusted
-under me, and will be guided as I could desire.”’
+under me, and will be guided as I could [[Desire|desire]].”’
 
 Here Mrs Prig, without any abatement of her offensive manner again
 counterfeited abstraction of mind, and stretched out her hand to the
@@ -67,28 +67,28 @@ Mrs Gamp resumed:
 
 ‘Bother Mrs Harris!’ said Betsey Prig.
 
-Mrs Gamp looked at her with amazement, incredulity, and indignation;
+Mrs Gamp looked at her with amazement, [[Incredulity|incredulity]], and indignation;
 when Mrs Prig, shutting her eye still closer, and folding her arms still
 tighter, uttered these memorable and tremendous words:
 
 ‘I don’t believe there’s no sich a person!’
 
 After the utterance of which expressions, she leaned forward, and
-snapped her fingers once, twice, thrice; each time nearer to the face of
-Mrs Gamp, and then rose to put on her bonnet, as one who felt that there
+snapped her fingers once, twice, thrice; each [[Time|time]] nearer to the face of
+Mrs Gamp, and then [[Rose|rose]] to put on her bonnet, as one who felt that there
 was now a gulf between them, which nothing could ever bridge across.
 
 The shock of this blow was so violent and sudden, that Mrs Gamp sat
 staring at nothing with uplifted eyes, and her mouth open as if she
 were gasping for breath, until Betsey Prig had put on her bonnet and
 her shawl, and was gathering the latter about her throat. Then Mrs Gamp
-rose--morally and physically rose--and denounced her.
+[[Rose|rose]]--morally and physically [[Rose|rose]]--and denounced her.
 
 ‘What!’ said Mrs Gamp, ‘you bage creetur, have I know’d Mrs Harris five
 and thirty year, to be told at last that there ain’t no sech a person
 livin’! Have I stood her friend in all her troubles, great and small,
 for it to come at last to sech a end as this, which her own sweet picter
-hanging up afore you all the time, to shame your Bragian words! But well
+hanging up afore you all the [[Time|time]], to shame your Bragian words! But [[Well|well]]
 you mayn’t believe there’s no sech a creetur, for she wouldn’t demean
 herself to look at you, and often has she said, when I have made mention
 of your name, which, to my sinful sorrow, I have done, “What, Sairey
@@ -126,7 +126,7 @@ see how you get on without me. I won’t have nothink to do with him.’
 you!’
 
 She was prevented from witnessing the actual retirement of Mrs Prig from
-the room, notwithstanding the great desire she had expressed to behold
+the room, notwithstanding the great [[Desire|desire]] she had expressed to behold
 it, by that lady, in her angry withdrawal, coming into contact with the
 bedstead, and bringing down the previously mentioned pippins; three or
 four of which came rattling on the head of Mrs Gamp so smartly, that

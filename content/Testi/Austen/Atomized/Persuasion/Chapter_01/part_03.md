@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 1 (part 3)"
+title: "[[Persuasion]] — Chapter 1 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -18,7 +18,7 @@ pardoned.
 
 
 
-Such were Elizabeth Elliot’s sentiments and sensations; such the cares
+Such were [[Elizabeth Elliot]]’s sentiments and sensations; such the cares
 
 to alloy, the agitations to vary, the sameness and the elegance, the
 
@@ -28,7 +28,7 @@ to give interest to a long, uneventful residence in one country circle,
 
 to fill the vacancies which there were no habits of utility abroad, no
 
-talents or accomplishments for home, to occupy.
+talents or accomplishments for [[Home|home]], to occupy.
 
 
 
@@ -52,7 +52,7 @@ died all such right-mindedness, and from that period he had been
 
 constantly exceeding it. It had not been possible for him to spend
 
-less; he had done nothing but what Sir Walter Elliot was imperiously
+less; he had done nothing but what [[Sir Walter Elliot]] was imperiously
 
 called on to do; but blameless as he was, he was not only growing
 
@@ -60,7 +60,7 @@ dreadfully in debt, but was hearing of it so often, that it became vain
 
 to attempt concealing it longer, even partially, from his daughter. He
 
-had given her some hints of it the last spring in town; he had gone so
+had given her some hints of it the last [[spring]] in town; he had gone so
 
 far even as to say, “Can we retrench? Does it occur to you that there
 
@@ -110,7 +110,7 @@ entire, as he had received it.
 
 Their two confidential friends, Mr Shepherd, who lived in the
 
-neighbouring market town, and Lady Russell, were called on to advise them;
+neighbouring market town, and [[Lady Russell]], were called on to advise them;
 
 and both father and daughter seemed to expect that something should be
 
@@ -118,4 +118,4 @@ struck out by one or the other to remove their embarrassments and
 
 reduce their expenditure, without involving the loss of any indulgence
 
-of taste or pride.
+of taste or [[Pride|pride]].

@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 2"
+title: "Napoleon of Notting [[Hill]] — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -35,49 +35,49 @@ evidently a gentleman who had come down in the world.
 "And how does your commerce go, you strange guardian of the past?"
 said Wayne, affably.
 
-"Well, sir, not very well," replied the man, with that patient voice
+"[[Well]], sir, not very [[Well|well]]," replied the man, with that patient voice
 of his class which is one of the most heart-breaking things in the world.
 "Things are terribly quiet."
 
 Wayne's eyes shone suddenly.
 
 "A great saying," he said, "worthy of a man whose merchandise
-is human history.  Terribly quiet; that is in two words the spirit
+is human [[history]].  Terribly quiet; that is in two words the spirit
 of this age, as I have felt it from my cradle.  I sometimes wondered
-how many other people felt the oppression of this union between quietude
-and terror.  I see blank well-ordered streets, and men in black
+how many other people felt the oppression of this [[Union|union]] between quietude
+and terror.  I see blank [[Well|well]]-ordered streets, and men in black
 moving about inoffensively, sullenly.  It goes on day after day,
-day after day, and nothing happens; but to me it is like a dream
+day after day, and nothing happens; but to me it is like [[A Dream|a dream]]
 from which I might awake screaming.  To me the straightness
 of our life is the straightness of a thin cord stretched tight.
 Its stillness is terrible.  It might snap with a noise like thunder.
 And you who sit, amid the debris of the great wars, you who sit,
-as it were, upon a battlefield, you know that war was less terrible
+as it were, upon a [[Battlefield|battlefield]], you know that war was less terrible
 than this evil peace; you know that the idle lads who carried
 those swords under Francis or Elizabeth, the rude Squire or Baron
 who swung that mace about in Picardy or Northumberland battles,
 may have been terribly noisy, but were not, like us, terribly quiet."
 
-Whether it was a faint embarrassment of conscience as to the
+Whether it was a faint embarrassment of [[Conscience|conscience]] as to the
 original source and date of the weapons referred to, or merely an
 engrained depression, the guardian of the past looked, if anything,
 a little more worried.
 
-"But I do not think," continued Wayne, "that this horrible silence
+"But I do not think," continued Wayne, "that this horrible [[Silence|silence]]
 of modernity will last, though I think for the present it will increase.
-What a farce is this modern liberality.  Freedom of speech means
+What a farce is this modern liberality.  [[Freedom]] of speech means
 practically in our modern civilization that we must only talk
 about unimportant things.  We must not talk about religion, for that
-is illiberal; we must not talk about bread and cheese, for that is
-talking shop; we must not talk about death, for that is depressing;
+is illiberal; we must not talk about bread and [[cheese]], for that is
+talking shop; we must not talk about [[Death|death]], for that is depressing;
 we must not talk about birth, for that is indelicate.  It cannot last.
 Something must break this strange indifference, this strange
-dreamy egoism, this strange loneliness of millions in a crowd.
+dreamy egoism, this strange [[Loneliness|loneliness]] of millions in a crowd.
 Something must break it.  Why should it not be you and I?  Can you
 do nothing else but guard relics?"
 
 The shopman wore a gradually clearing expression, which would
-have led those unsympathetic with the cause of the Red Lion
+have led those unsympathetic with the cause of the Red [[Lion]]
 to think that the last sentence was the only one to which he had
 attached any meaning.
 
@@ -85,7 +85,7 @@ attached any meaning.
 quite know what to be either."
 
 "Why not," said Wayne, gently having reached the crisis of his
-delicate persuasion "why not be a Colonel?"
+delicate [[Persuasion|persuasion]] "why not be a Colonel?"
 
 It was at this point, in all probability, that the interview
 began to yield more disappointing results.  The man appeared
@@ -93,20 +93,20 @@ inclined at first to regard the suggestion of becoming a Colonel
 as outside the sphere of immediate and relevant discussion.
 A long exposition of the inevitable war of independence,
 coupled with the purchase of a doubtful sixteenth-century
-sword for an exaggerated price, seemed to resettle matters.
-Wayne left the shop, however, somewhat infected with the melancholy
+[[Sword|sword]] for an exaggerated price, seemed to resettle matters.
+Wayne left the shop, however, somewhat infected with the [[Melancholy|melancholy]]
 of its owner.
 
-That melancholy was completed at the barber's.
+That [[Melancholy|melancholy]] was completed at the barber's.
 
-"Shaving, sir?" inquired that artist from inside his shop.
+"Shaving, sir?" inquired that [[Artist|artist]] from inside his shop.
 
 "War!" replied Wayne, standing on the threshold.
 
 "I beg your pardon," said the other sharply.
 
 "War!" said Wayne, warmly.  "But not for anything inconsistent
-with the beautiful and the civilized arts.  War for beauty.
+with the beautiful and the civilized arts.  War for [[Beauty|beauty]].
 War for society.  War for peace.  A great chance is offered you
 of repelling that slander which, in defiance of the lives of so
 many artists, attributes poltroonery to those who beautify and polish
@@ -119,13 +119,13 @@ any of your sort here.  You get out."
 And he came forward with the desperate annoyance of a mild
 person when enraged.
 
-Adam Wayne laid his hand for a moment on the sword, then dropped it.
+[[Adam Wayne]] laid his hand for a moment on the [[Sword|sword]], then dropped it.
 
-"Notting Hill," he said, "will need her bolder sons;" and he turned
+"Notting [[Hill]]," he said, "will need her bolder sons;" and he turned
 gloomily to the toy-shop.
 
 It was one of those queer little shops so constantly seen in
-the side streets of London, which must be called toy-shops only
+the side streets of [[London]], which must be called toy-shops only
 because toys upon the whole predominate; for the remainder of goods
 seem to consist of almost everything else in the world...tobacco,
 exercise-books, sweet-stuff, novelettes, halfpenny paper clips,
@@ -142,45 +142,45 @@ He stepped to the counter with a depression which he rapidly conquered
 as he addressed the man on the other side of it...a man of short stature,
 and hair prematurely white, and the look of a large baby.
 
-"Sir," said Wayne, "I am going from house to house in this street of ours,
+"Sir," said Wayne, "I am going from [[house]] to [[house]] in this street of ours,
 seeking to stir up some sense of the danger which now threatens
-our city.  Nowhere have I felt my duty so difficult as here.
+our [[City|city]].  Nowhere have I felt my duty so difficult as here.
 For the toy-shop keeper has to do with all that remains to us of Eden
 before the first wars began.  You sit here meditating continually
-upon the wants of that wonderful time when every staircase leads
-to the stars, and every garden-path to the other end of nowhere.
+upon the wants of that wonderful [[Time|time]] when every staircase leads
+to the [[Stars|stars]], and every [[Garden|garden]]-path to the other end of nowhere.
 Is it thoughtlessly, do you think, that I strike the dark old drum
 of peril in the paradise of children?  But consider a moment;
 do not condemn me hastily.  Even that paradise itself contains
 the rumour or beginning of that danger, just as the Eden that was made
-for perfection contained the terrible tree.  For judge childhood,
+for perfection contained the terrible tree.  For judge [[Childhood|childhood]],
 even by your own arsenal of its pleasures.  You keep bricks;
 you make yourself thus, doubtless, the witness of the constructive
 instinct older than the destructive.  You keep dolls; you make
 yourself the priest of that divine idolatry.  You keep Noah's Arks;
-you perpetuate the memory of the salvation of all life as a precious,
+you perpetuate the [[Memory|memory]] of the salvation of all life as a precious,
 an irreplaceable thing.  But do you keep only, sir, the symbols
-of this prehistoric sanity, this childish rationality of the earth?
+of this prehistoric [[Sanity|sanity]], this childish rationality of the earth?
 Do you not keep more terrible things?  What are those boxes,
 seemingly of lead soldiers, that I see in that glass case?
-Are they not witnesses to that terror and beauty, that desire for a
-lovely death, which could not be excluded even from the immortality
+Are they not witnesses to that terror and [[Beauty|beauty]], that [[Desire|desire]] for a
+lovely [[Death|death]], which could not be excluded even from the [[Immortality|immortality]]
 of Eden?  Do not despise the lead soldiers, Mr. Turnbull."
 
 "I don't," said Mr. Turnbull, of the toy-shop, shortly,
 but with great emphasis.
 
 "I am glad to hear it," replied Wayne.  "I confess that I feared
-for my military schemes the awful innocence of your profession.
+for my military schemes the awful [[innocence]] of your profession.
 How, I thought to myself, will this man, used only to the wooden
-swords that give pleasure, think of the steel swords that give pain?
+swords that give pleasure, think of the steel swords that give [[Pain|pain]]?
 But I am at least partly reassured.  Your tone suggests to me that I have
 at least the entry of a gate of your fairyland...the gate through which
 the soldiers enter, for it cannot be denied...I ought, sir, no longer
 to deny, that it is of soldiers that I come to speak.  Let your gentle
 employment make you merciful towards the troubles of the world.
 Let your own silvery experience tone down our sanguine sorrows.
-For there is war in Notting Hill."
+For there is war in Notting [[Hill]]."
 
 The little toy-shop keeper sprang up suddenly, slapping his fat
 hands like two fans on the counter.
@@ -192,7 +192,7 @@ Wayne was almost taken aback by this outburst.
 
 "I am delighted," he stammered.  "I had no notion..."
 
-He sprang out of the way just in time to avoid Mr. Turnbull,
+He sprang out of the way just in [[Time|time]] to avoid Mr. Turnbull,
 who took a flying leap over the counter and dashed to the front
 of the shop.
 
@@ -205,7 +205,7 @@ flapping outside his shop.
 
 Wayne bent over them, and read on one:
 
-"LAST FIGHTING.  REDUCTION OF THE CENTRAL DERVISH CITY.  REMARKABLE, ETC."
+"LAST FIGHTING.  REDUCTION OF THE CENTRAL DERVISH [[City|CITY]].  REMARKABLE, ETC."
 
 On the other he read:
 
@@ -222,7 +222,7 @@ outside your shop?"
 "Because," said the other simply, "they are the records of the last war.
 You mentioned war just now.  It happens to be my hobby."
 
-Wayne lifted his large blue eyes with an infantile wonder.
+Wayne lifted his large blue eyes with an infantile [[Wonder|wonder]].
 
 "Come with me," said Turnbull, shortly, and led him into a parlour
 at the back of the shop.
@@ -233,14 +233,14 @@ part of the shopkeeper's stock.  The visitor would have thought
 nothing of it if it had not been for a certain odd grouping of them,
 which did not seem either entirely commercial or entirely haphazard.
 
-"You are acquainted, no doubt," said Turnbull, turning his big eyes
-upon Wayne "you are acquainted, no doubt, with the arrangement
+"You are acquainted, no [[Doubt|doubt]]," said Turnbull, turning his big eyes
+upon Wayne "you are acquainted, no [[Doubt|doubt]], with the arrangement
 of the American and Nicaraguan troops in the last battle."
 And he waved his hand towards the table.
 
 "I am afraid not," said Wayne.  "I..."
 
-"Ah, you were at that time occupied too much, perhaps with
+"Ah, you were at that [[Time|time]] occupied too much, perhaps with
 the Dervish affair.  You will find it in this corner."
 And he pointed to a part of the floor where there was another
 arrangement of children's soldiers grouped here and there.
@@ -252,14 +252,14 @@ arrangement of children's soldiers grouped here and there.
 Wayne appeared convulsed with a singular, suppressed excitement.
 
 "In that case," he said, "I may approach you with an unusual degree
-of confidence.  Touching the matter of the defence of Notting Hill, I..."
+of confidence.  Touching the matter of the defence of Notting [[Hill]], I..."
 
-"Defence of Notting Hill?  Yes, sir.  This way, sir," said Turnbull,
+"Defence of Notting [[Hill]]?  Yes, sir.  This way, sir," said Turnbull,
 with great perturbation.  "Just step into this side room;"
 and he led Wayne into another apartment, in which the table
 was entirely covered with an arrangement of children's bricks.
 A second glance at it told Wayne that the bricks were arranged
-in the form of a precise and perfect plan of Notting Hill.
+in the form of a precise and perfect plan of Notting [[Hill]].
 "Sir," said Turnbull, impressively, "you have, by a kind of accident,
 hit upon the whole secret of my life.  As a boy, I grew up among the last
 wars of the world, when Nicaragua was taken and the dervishes wiped out.
@@ -278,23 +278,23 @@ It seems to interest you too."
 "If it were ever attacked," repeated Wayne, awed into an
 almost mechanical.  enunciation.  "Mr. Turnbull, it is attacked.
 Thank Heaven, I am bringing to at least one human being the news
-that is at bottom the only good news to any son of Adam.  Your life has
+that is at [[Bottom|bottom]] the only good news to any son of Adam.  Your life has
 not been useless.  Your work has not been play.  Now, when the hair
 is already grey on your head, Turnbull, you shall have your youth.
 God has not destroyed it, He has only deferred it.  Let us sit down here,
-and you shall explain to me this military map of Notting Hill.
-For you and I have to defend Notting Hill together."
+and you shall explain to me this military map of Notting [[Hill]].
+For you and I have to defend Notting [[Hill]] together."
 
 Mr. Turnbull looked at the other for a moment, then hesitated,
 and then sat down beside the bricks and the stranger.
-He did not rise again for seven hours, when the dawn broke.
+He did not rise again for seven hours, when the [[Dawn|dawn]] broke.
 
 . . . . .
 
-The headquarters of Provost Adam Wayne and his Commander-in-Chief
+The headquarters of Provost [[Adam Wayne]] and his Commander-in-Chief
 consisted of a small and somewhat unsuccessful milk-shop at the corner
 of Pump Street.  The blank white morning had only just begun
-to break over the blank London buildings when Wayne and Turnbull
+to break over the blank [[London]] buildings when Wayne and Turnbull
 were to be found seated in the cheerless and unswept shop.
 Wayne had something feminine in his character; he belonged to that
 class of persons who forget their meals when anything interesting
@@ -303,13 +303,13 @@ glasses of milk, and, with a glass standing empty beside him,
 he was writing and sketching and dotting and crossing out with
 inconceivable rapidity with a pencil and a piece of paper.
 Turnbull was of that more masculine type in which a sense of
-responsibility increases the appetite, and with his sketch-map
+responsibility increases the appetite, and with his [[Sketch|sketch]]-map
 beside him he was dealing strenuously with a pile of sandwiches
 in a paper packet, and a tankard of ale from the tavern opposite,
 whose shutters had just been taken down.  Neither of them spoke,
 and there was no sound in the living stillness except the scratching
 of Wayne's pencil and the squealing of an aimless-looking cat.
-At length Wayne broke the silence by saying:
+At length Wayne broke the [[Silence|silence]] by saying:
 
 "Seventeen pounds, eight shillings and nine-pence."
 
@@ -321,32 +321,32 @@ What did you do with it?"
 "Ah, that is rather interesting!" replied Turnbull, with his mouth full.
 "I used that five pounds in a kindly and philanthropic act."
 
-Wayne was gazing with mystification in his queer and innocent eyes.
+Wayne was gazing with [[Mystification|mystification]] in his queer and [[Innocent|innocent]] eyes.
 
 "I used that five pounds," continued the other, "in giving no less
-than forty little London boys rides in hansom cabs."
+than forty little [[London]] boys rides in hansom cabs."
 
 "Are you insane?" asked the Provost.
 
 "It is only my light touch," returned Turnbull.  "These hansom-cab
 rides will raise the tone...raise the tone, my dear fellow...of
-our London youths, widen their horizon, brace their nervous system,
-make them acquainted with the various public monuments of our great city.
-Education, Wayne, education.  How many excellent thinkers have pointed out
-that political reform is useless until we produce a cultured populace.
+our [[London]] youths, widen their horizon, brace their nervous system,
+make them acquainted with the various public monuments of our great [[City|city]].
+[[Education]], Wayne, [[Education|education]].  How many excellent thinkers have pointed out
+that political [[Reform|reform]] is useless until we produce a cultured populace.
 So that twenty years hence, when these boys are grown up..."
 
 "Mad!" said Wayne, laying down his pencil; "and five pounds gone!"
 
-"You are in error," explained Turnbull.  "You grave creatures
+"You are in error," explained Turnbull.  "You [[Grave|grave]] creatures
 can never be brought to understand how much quicker work
 really goes with the assistance of nonsense and good meals.
 Stripped of its decorative beauties, my statement was strictly accurate.
-Last night I gave forty half-crowns to forty little boys,
-and sent them all over London to take hansom cabs.  I told them
-in every case to tell the cabman to bring them to this spot.
+Last [[Night|night]] I gave forty half-crowns to forty little boys,
+and sent them all over [[London]] to take hansom cabs.  I told them
+in every case to tell the [[cabman]] to bring them to this spot.
 In half an hour from now the declaration of war will be posted up.
-At the same time the cabs will have begun to come in, you will have
+At the same [[Time|time]] the cabs will have begun to come in, you will have
 ordered out the guard, the little boys will drive up in state,
 we shall commandeer the horses for cavalry, use the cabs for barricade,
 and give the men the choice between serving in our ranks and detention

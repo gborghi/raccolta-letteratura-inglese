@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘What did he do that for?’ inquired Mr. Pickwick abruptly; for he was
+‘What did he do that for?’ inquired Mr. [[Pickwick]] abruptly; for he was
 considerably startled by this tragical termination of the narrative.
 
 ‘Wot did he do it for, Sir?’ reiterated Sam. ‘Wy, in support of his
@@ -22,18 +22,18 @@ great principle that crumpets wos wholesome, and to show that he
 wouldn’t be put out of his way for nobody!’
 
 With such like shiftings and changings of the discourse, did Mr. Weller
-meet his master’s questioning on the night of his taking up his
+meet his master’s questioning on the [[Night|night]] of his taking up his
 residence in the Fleet. Finding all gentle remonstrance useless, Mr.
-Pickwick at length yielded a reluctant consent to his taking lodgings by
+[[Pickwick]] at length yielded a reluctant consent to his taking lodgings by
 the week, of a bald-headed cobbler, who rented a small slip room in one
 of the upper galleries. To this humble apartment Mr. Weller moved a
-mattress and bedding, which he hired of Mr. Roker; and, by the time he
-lay down upon it at night, was as much at home as if he had been bred in
-the prison, and his whole family had vegetated therein for three
+mattress and bedding, which he hired of Mr. Roker; and, by the [[Time|time]] he
+lay down upon it at [[Night|night]], was as much at [[Home|home]] as if he had been bred in
+the [[Prison|prison]], and his whole family had vegetated therein for three
 generations.
 
 ‘Do you always smoke arter you goes to bed, old cock?’ inquired Mr.
-Weller of his landlord, when they had both retired for the night.
+Weller of his landlord, when they had both retired for the [[Night|night]].
 
 ‘Yes, I does, young bantam,’ replied the cobbler.
 
@@ -41,7 +41,7 @@ Weller of his landlord, when they had both retired for the night.
 deal table?’ said Sam.
 
 ‘’Cause I was always used to a four-poster afore I came here, and I find
-the legs of the table answer just as well,’ replied the cobbler.
+the legs of the table answer just as [[Well|well]],’ replied the cobbler.
 
 ‘You’re a character, sir,’ said Sam.
 
@@ -56,22 +56,22 @@ the apartment being illumined by the light of a rush-candle, and the
 cobbler’s pipe, which was glowing below the table, like a red-hot coal.
 The conversation, brief as it was, predisposed Mr. Weller strongly in
 his landlord’s favour; and, raising himself on his elbow, he took a more
-lengthened survey of his appearance than he had yet had either time or
+lengthened survey of his appearance than he had yet had either [[Time|time]] or
 inclination to make.
 
 He was a sallow man--all cobblers are; and had a strong bristly beard--
 all cobblers have. His face was a queer, good-tempered, crooked-featured
 piece of workmanship, ornamented with a couple of eyes that must have
-worn a very joyous expression at one time, for they sparkled yet. The
-man was sixty, by years, and Heaven knows how old by imprisonment, so
+worn a very joyous expression at one [[Time|time]], for they sparkled yet. The
+man was sixty, by years, and Heaven knows how old by [[Imprisonment|imprisonment]], so
 that his having any look approaching to mirth or contentment, was
 singular enough. He was a little man, and, being half doubled up as he
 lay in bed, looked about as long as he ought to have been without his
 legs. He had a great red pipe in his mouth, and was smoking, and staring
 at the rush-light, in a state of enviable placidity.
 
-‘Have you been here long?’ inquired Sam, breaking the silence which had
-lasted for some time.
+‘Have you been here long?’ inquired Sam, breaking the [[Silence|silence]] which had
+lasted for some [[Time|time]].
 
 ‘Twelve year,’ replied the cobbler, biting the end of his pipe as he
 spoke.
@@ -80,10 +80,10 @@ spoke.
 
 The cobbler nodded.
 
-‘Well, then,’ said Sam, with some sternness, ‘wot do you persevere in
+‘[[Well]], then,’ said Sam, with some sternness, ‘wot do you persevere in
 bein’ obstinit for, vastin’ your precious life away, in this here
 magnified pound? Wy don’t you give in, and tell the Chancellorship that
-you’re wery sorry for makin’ his court contemptible, and you won’t do so
+you’re wery sorry for makin’ his [[Court|court]] contemptible, and you won’t do so
 no more?’
 
 The cobbler put his pipe in the corner of his mouth, while he smiled,
@@ -99,13 +99,13 @@ that you got into debt, eh?’
 
 ‘Never owed a farden,’ said the cobbler; ‘try again.’
 
-‘Well, perhaps,’ said Sam, ‘you bought houses, wich is delicate English
+‘[[Well]], perhaps,’ said Sam, ‘you bought houses, wich is delicate English
 for goin’ mad; or took to buildin’, wich is a medical term for bein’
 incurable.’
 
 The cobbler shook his head and said, ‘Try again.’
 
-‘You didn’t go to law, I hope?’ said Sam suspiciously.
+‘You didn’t go to law, I [[Hope|hope]]?’ said Sam suspiciously.
 
 ‘Never in my life,’ replied the cobbler. ‘The fact is, I was ruined by
 having money left me.’
@@ -130,9 +130,9 @@ of the day.
 ‘How should I know where he went?’ said the cobbler, speaking through
 his nose in an intense enjoyment of his pipe. ‘He went off dead.’
 
-‘Oh, that indeed,’ said Sam. ‘Well?’
+‘Oh, that indeed,’ said Sam. ‘[[Well]]?’
 
-‘Well,’ said the cobbler, ‘he left five thousand pound behind him.’
+‘[[Well]],’ said the cobbler, ‘he left five thousand pound behind him.’
 
 ‘And wery gen-teel in him so to do,’ said Sam.
 
@@ -143,7 +143,7 @@ his relation, you see.’
 
 ‘And being surrounded by a great number of nieces and nevys, as was
 always quarrelling and fighting among themselves for the property, he
-makes me his executor, and leaves the rest to me in trust, to divide it
+makes me his executor, and [[Leaves|leaves]] the rest to me in trust, to divide it
 among ‘em as the will prowided.’
 
 ‘Wot do you mean by leavin’ it on trust?’ inquired Sam, waking up a
@@ -154,7 +154,7 @@ little. ‘If it ain’t ready-money, were’s the use on it?’
 ‘I don’t think that,’ said Sam, shaking his head. ‘There’s wery little
 trust at that shop. Hows’ever, go on.’
 
-Well,’ said the cobbler, ‘when I was going to take out a probate of the
+[[Well]],’ said the cobbler, ‘when I was going to take out a probate of the
 will, the nieces and nevys, who was desperately disappointed at not
 getting all the money, enters a caveat against it.’
 

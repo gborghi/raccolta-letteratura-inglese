@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 52 (part 4)"
+title: "Bleak [[house|House]] — Chapter 52 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,20 +14,20 @@ tags:
 </nav>
 
 
-“’Tis curious,” said he. “And yet I thought so at the time!”
+“’Tis curious,” said he. “And yet I thought so at the [[Time|time]]!”
 
 My guardian asked him what he meant.
 
 “Why, sir,” he answered, “when my ill fortune took me to the dead
-man’s staircase on the night of his murder, I saw a shape so like
+man’s staircase on the [[Night|night]] of his murder, I saw a shape so like
 Miss Summerson’s go by me in the dark that I had half a mind to speak
 to it.”
 
 For an instant I felt such a shudder as I never felt before or since
-and hope I shall never feel again.
+and [[Hope|hope]] I shall never feel again.
 
 “It came downstairs as I went up,” said the trooper, “and crossed the
-moonlighted window with a loose black mantle on; I noticed a deep
+moonlighted [[Window|window]] with a loose black mantle on; I noticed a deep
 fringe to it. However, it has nothing to do with the present subject,
 excepting that Miss Summerson looked so like it at the moment that it
 came into my head.”
@@ -39,7 +39,7 @@ distinctly daring to ask myself any question, increased, and that I
 was indignantly sure of there being no possibility of a reason for my
 being afraid.
 
-We three went out of the prison and walked up and down at some short
+We three went out of the [[Prison|prison]] and walked up and down at some short
 distance from the gate, which was in a retired place. We had not
 waited long when Mr. and Mrs. Bagnet came out too and quickly joined
 us.
@@ -70,11 +70,11 @@ too breathless to proceed, occasioning Mr. Bagnet to say, “Old girl!
 Tell ’em!”
 
 “Why, then, miss,” the old girl proceeded, untying the strings of her
-bonnet for more air, “you could as soon move Dover Castle as move
+bonnet for more air, “you could as soon move Dover [[Castle]] as move
 George on this point unless you had got a new power to move him with.
 And I have got it!”
 
-“You are a jewel of a woman,” said my guardian. “Go on!”
+“You are a [[Jewel|jewel]] of a woman,” said my guardian. “Go on!”
 
 “Now, I tell you, miss,” she proceeded, clapping her hands in her
 hurry and agitation a dozen times in every sentence, “that what he
@@ -112,7 +112,7 @@ sturdy pace, and turned the corner, and was gone.
 “Mr. Bagnet,” said my guardian. “Do you mean to let her go in that
 way?”
 
-“Can’t help it,” he returned. “Made her way home once from another
+“Can’t help it,” he returned. “Made her way [[Home|home]] once from another
 quarter of the world. With the same grey cloak. And same umbrella.
 Whatever the old girl says, do. Do it! Whenever the old girl says,
 I’LL do it. She does it.”

@@ -1,5 +1,5 @@
 ---
-title: "Henry VI Part One — Act V, Scene 7 — exchange (GLOUCESTER) [4]"
+title: "[[Henry VI]] Part One — Act V, Scene 7 — exchange ([[Gloucester|GLOUCESTER]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-VI-PART-ONE-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| GLOUCESTER | Ay, grief, I fear me, both at first and last. Exit |
-| SIIEFOLK | Thus Suffolk hath prevailed, and thus he goes As did the youthful Paris once to Greece, With hope to find the like event in love, But prosper better than the Trojan did. Margaret shall now be queen and rule the King; But I will rule both her, the King, and realm. Exit |
+| [[Gloucester|GLOUCESTER]] | Ay, grief, I [[Fear|fear]] me, both at first and last. Exit |
+| SIIEFOLK | Thus Suffolk hath prevailed, and thus he goes As did the youthful [[Paris]] once to Greece, With [[Hope|hope]] to find the like event in [[Love|love]], But prosper better than the Trojan did. Margaret shall now be [[Queen|queen]] and rule the [[King]]; But I will rule both her, the [[King]], and realm. Exit |
 | BY WILLIAM | SHAKESPEARE, WITH GEORGE PEELE |

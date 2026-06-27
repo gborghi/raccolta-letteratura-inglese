@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 3 (part 3)"
+title: "[[Persuasion]] — Chapter 3 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -28,13 +28,13 @@ hear the appeal.
 
 “I have no conception whom you can mean, Shepherd; I remember no
 
-gentleman resident at Monkford since the time of old Governor Trent.”
+gentleman resident at Monkford since the [[Time|time]] of old Governor Trent.”
 
 
 
 “Bless me! how very odd! I shall forget my own name soon, I suppose. A
 
-name that I am so very well acquainted with; knew the gentleman so well
+name that I am so very [[Well|well]] acquainted with; knew the gentleman so [[Well|well]]
 
 by sight; seen him a hundred times; came to consult me once, I
 
@@ -62,7 +62,7 @@ Mr Shepherd was all gratitude.
 
 “Wentworth was the very name! Mr Wentworth was the very man. He had the
 
-curacy of Monkford, you know, Sir Walter, some time back, for two or
+curacy of Monkford, you know, Sir Walter, some [[Time|time]] back, for two or
 
 three years. Came there about the year —5, I take it. You remember
 
@@ -94,7 +94,7 @@ formed of Kellynch Hall, and extreme solicitude for the advantage of
 
 renting it; making it appear as if they ranked nothing beyond the
 
-happiness of being the tenants of Sir Walter Elliot: an extraordinary
+happiness of being the tenants of [[Sir Walter Elliot]]: an extraordinary
 
 taste, certainly, could they have been supposed in the secret of Sir
 
@@ -104,15 +104,15 @@ Walter’s estimate of the dues of a tenant.
 
 It succeeded, however; and though Sir Walter must ever look with an
 
-evil eye on anyone intending to inhabit that house, and think them
+evil eye on anyone intending to inhabit that [[house]], and think them
 
-infinitely too well off in being permitted to rent it on the highest
+infinitely too [[Well|well]] off in being permitted to rent it on the highest
 
 terms, he was talked into allowing Mr Shepherd to proceed in the
 
-treaty, and authorising him to wait on Admiral Croft, who still
+treaty, and authorising him to wait on [[Admiral Croft]], who still
 
-remained at Taunton, and fix a day for the house being seen.
+remained at Taunton, and fix a day for the [[house]] being seen.
 
 
 
@@ -120,23 +120,23 @@ Sir Walter was not very wise; but still he had experience enough of the
 
 world to feel, that a more unobjectionable tenant, in all essentials,
 
-than Admiral Croft bid fair to be, could hardly offer. So far went his
+than [[Admiral Croft]] bid fair to be, could hardly offer. So far went his
 
-understanding; and his vanity supplied a little additional soothing, in
+understanding; and his [[Vanity|vanity]] supplied a little additional soothing, in
 
 the Admiral’s situation in life, which was just high enough, and not
 
-too high. “I have let my house to Admiral Croft,” would sound extremely
+too high. “I have let my [[house]] to [[Admiral Croft]],” would sound extremely
 
-well; very much better than to any mere _Mr._——; a _Mr._ (save,
+[[Well|well]]; very much better than to any mere _Mr._——; a _Mr._ (save,
 
 perhaps, some half dozen in the nation,) always needs a note of
 
 explanation. An admiral speaks his own consequence, and, at the same
 
-time, can never make a baronet look small. In all their dealings and
+[[Time|time]], can never make a baronet look small. In all their dealings and
 
-intercourse, Sir Walter Elliot must ever have the precedence.
+intercourse, [[Sir Walter Elliot]] must ever have the precedence.
 
 
 

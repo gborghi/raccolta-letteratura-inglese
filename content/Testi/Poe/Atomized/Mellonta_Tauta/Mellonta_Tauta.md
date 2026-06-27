@@ -1,5 +1,5 @@
 ---
-title: "Mellonta Tauta"
+title: "[[Mellonta Tauta]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Mellonta-Tauta-(Poe)"
@@ -21,9 +21,9 @@ TO THE EDITORS OF THE LADY’S BOOK:
 
       I have the honor of sending you, for your magazine, an article
 
-      which I hope you will be able to comprehend rather more
+      which I [[Hope|hope]] you will be able to comprehend rather more
 
-      distinctly than I do myself. It is a translation, by my friend,
+      distinctly than I do myself. It is a [[Translation|translation]], by my friend,
 
       Martin Van Buren Mavis, (sometimes called the “Poughkeepsie
 
@@ -31,7 +31,7 @@ TO THE EDITORS OF THE LADY’S BOOK:
 
       tightly corked up in a jug floating in the Mare Tenebrarum—a sea
 
-      well described by the Nubian geographer, but seldom visited
+      [[Well|well]] described by the Nubian geographer, but seldom visited
 
       now-a-days, except for the transcendentalists and divers for
 
@@ -43,7 +43,7 @@ TO THE EDITORS OF THE LADY’S BOOK:
 
 
 
-      EDGAR A. POE
+      [[Edgar|EDGAR]] A. POE
 
 
 
@@ -77,7 +77,7 @@ ON BOARD BALLOON “SKYLARK”
 
       Nobody to talk to. Nothing to do. When one has nothing to do,
 
-      then is the time to correspond with ones friends. You perceive,
+      then is the [[Time|time]] to correspond with ones friends. You perceive,
 
       then, why it is that I write you this letter—it is on account of
 
@@ -101,15 +101,15 @@ ON BOARD BALLOON “SKYLARK”
 
       than positive torture. Upon my word we have not made more than a
 
-      hundred miles the hour since leaving home! The very birds beat
+      hundred miles the hour since leaving [[Home|home]]! The very [[Birds|birds]] beat
 
       us—at least some of them. I assure you that I do not exaggerate
 
-      at all. Our motion, no doubt, seems slower than it actually
+      at all. Our motion, no [[Doubt|doubt]], seems slower than it actually
 
       is—this on account of our having no objects about us by which to
 
-      estimate our velocity, and on account of our going with the wind.
+      estimate our velocity, and on account of our going with the [[Wind|wind]].
 
       To be sure, whenever we meet a balloon we have a chance of
 
@@ -139,7 +139,7 @@ ON BOARD BALLOON “SKYLARK”
 
       species of earth-worm. The worm was carefully fed on mulberries—a
 
-      kind of fruit resembling a water-melon—and, when sufficiently
+      kind of fruit resembling a [[Water|water]]-melon—and, when sufficiently
 
       fat, was crushed in a mill. The paste thus arising was called
 
@@ -155,9 +155,9 @@ ON BOARD BALLOON “SKYLARK”
 
       surrounding the seed-vessels of a plant vulgarly called
 
-      euphorbium, and at that time botanically termed milk-weed. This
+      euphorbium, and at that [[Time|time]] botanically termed milk-weed. This
 
-      latter kind of silk was designated as silk-buckingham, on account
+      latter kind of silk was designated as silk-[[Buckingham|buckingham]], on account
 
       of its superior durability, and was usually prepared for use by
 
@@ -167,7 +167,7 @@ ON BOARD BALLOON “SKYLARK”
 
       in common use. This caoutchouc was occasionally called Indian
 
-      rubber or rubber of twist, and was no doubt one of the numerous
+      rubber or rubber of twist, and was no [[Doubt|doubt]] one of the numerous
 
       fungi. Never tell me again that I am not at heart an antiquarian.
 
@@ -223,7 +223,7 @@ ON BOARD BALLOON “SKYLARK”
 
       section of floating telegraph wires. I learn that when this
 
-      species of telegraph was first put into operation by Horse, it
+      species of telegraph was first put into operation by [[Horse]], it
 
       was considered quite impossible to convey the wires over sea, but
 
@@ -243,7 +243,7 @@ ON BOARD BALLOON “SKYLARK”
 
       Ayesher. Is it not truly remarkable that, before the magnificent
 
-      light shed upon philosophy by Humanity, the world was accustomed
+      light shed upon [[philosophy]] by Humanity, the world was accustomed
 
       to regard War and Pestilence as calamities? Do you know that
 
@@ -311,9 +311,9 @@ ON BOARD BALLOON “SKYLARK”
 
       the people of the singular fancy that there existed but two
 
-      possible roads for the attainment of Truth! Believe it if you
+      possible roads for the attainment of [[Truth]]! Believe it if you
 
-      can! It appears that long, long ago, in the night of Time, there
+      can! It appears that long, long ago, in the [[Night|night]] of [[Time]], there
 
       lived a Turkish philosopher (or Hindoo possibly) called Aries
 
@@ -321,11 +321,11 @@ ON BOARD BALLOON “SKYLARK”
 
       was termed the deductive or a priori mode of investigation. He
 
-      started with what he maintained to be axioms or “self-evident
+      started with what he maintained to be axioms or “[[Self|self]]-evident
 
       truths,” and thence proceeded “logically” to results. His
 
-      greatest disciples were one Neuclid, and one Cant. Well, Aries
+      greatest disciples were one Neuclid, and one Cant. [[Well]], Aries
 
       Tottle flourished supreme until advent of one Hog, surnamed the
 
@@ -339,13 +339,13 @@ ON BOARD BALLOON “SKYLARK”
 
       called—into general laws. Aries Tottle’s mode, in a word, was
 
-      based on noumena; Hog’s on phenomena. Well, so great was the
+      based on noumena; Hog’s on phenomena. [[Well]], so great was the
 
       admiration excited by this latter system that, at its first
 
       introduction, Aries Tottle fell into disrepute; but finally he
 
-      recovered ground and was permitted to divide the realm of Truth
+      recovered ground and was permitted to divide the realm of [[Truth]]
 
       with his more modern rival. The savans now maintained the
 
@@ -373,13 +373,13 @@ ON BOARD BALLOON “SKYLARK”
 
       especially, that a virtual end was put to all thinking, properly
 
-      so called. No man dared utter a truth to which he felt himself
+      so called. No man dared utter a [[Truth|truth]] to which he felt himself
 
-      indebted to his Soul alone. It mattered not whether the truth was
+      indebted to his [[Soul]] [[Alone|alone]]. It mattered not whether the [[Truth|truth]] was
 
-      even demonstrably a truth, for the bullet-headed savans of the
+      even demonstrably a [[Truth|truth]], for the bullet-headed savans of the
 
-      time regarded only the road by which he had attained it. They
+      [[Time|time]] regarded only the [[Road|road]] by which he had attained it. They
 
       would not even look at the end. “Let us see the means,” they
 
@@ -389,17 +389,17 @@ ON BOARD BALLOON “SKYLARK”
 
       Ram) nor under the category Hog, why then the savans went no
 
-      farther, but pronounced the “theorist” a fool, and would have
+      farther, but pronounced the “theorist” a [[Fool|fool]], and would have
 
-      nothing to do with him or his truth.
+      nothing to do with him or his [[Truth|truth]].
 
 
 
       Now, it cannot be maintained, even, that by the crawling system
 
-      the greatest amount of truth would be attained in any long series
+      the greatest amount of [[Truth|truth]] would be attained in any long series
 
-      of ages, for the repression of imagination was an evil not to be
+      of ages, for the repression of [[Imagination|imagination]] was an evil not to be
 
       compensated for by any superior certainty in the ancient modes of
 
@@ -431,7 +431,7 @@ ON BOARD BALLOON “SKYLARK”
 
       the long “established” axioms had been rejected. For example—“Ex
 
-      nihilo nihil fit”; “a body cannot act where it is not”; “there
+      nihilo nihil fit”; “a [[Body|body]] cannot act where it is not”; “there
 
       cannot exist antipodes”; “darkness cannot come out of light”—all
 
@@ -441,7 +441,7 @@ ON BOARD BALLOON “SKYLARK”
 
       speak, seen to be untenable. How absurd in these people, then, to
 
-      persist in putting faith in “axioms” as immutable bases of Truth!
+      persist in putting [[Faith|faith]] in “axioms” as immutable bases of [[Truth]]!
 
       But even out of the mouths of their soundest reasoners it is easy
 
@@ -457,13 +457,13 @@ ON BOARD BALLOON “SKYLARK”
 
       have been the rudiment of the Amriccan. Pundit says it is
 
-      decidedly the cleverest ancient work on its topic, Logic. The
+      decidedly the cleverest ancient work on its topic, [[logic|Logic]]. The
 
       author (who was much thought of in his day) was one Miller, or
 
       Mill; and we find it recorded of him, as a point of some
 
-      importance, that he had a mill-horse called Bentham. But let us
+      importance, that he had a mill-[[Horse|horse]] called Bentham. But let us
 
       glance at the treatise!
 
@@ -473,9 +473,9 @@ ON BOARD BALLOON “SKYLARK”
 
       properly, “is in no case to be received as a criterion of
 
-      axiomatic truth.” What modern in his senses would ever think of
+      axiomatic [[Truth|truth]].” What modern in his senses would ever think of
 
-      disputing this truism? The only wonder with us must be, how it
+      disputing this truism? The only [[Wonder|wonder]] with us must be, how it
 
       happened that Mr. Mill conceived it necessary even to hint at any
 
@@ -483,11 +483,11 @@ ON BOARD BALLOON “SKYLARK”
 
       What have we here?—“Contradictories cannot both be true—that is,
 
-      cannot co-exist in nature.” Here Mr. Mill means, for example,
+      cannot co-exist in [[Nature|nature]].” Here Mr. Mill means, for example,
 
       that a tree must be either a tree or not a tree—that it cannot be
 
-      at the same time a tree and not a tree. Very well; but I ask him
+      at the same [[Time|time]] a tree and not a tree. Very [[Well|well]]; but I ask him
 
       why. His reply is this—and never pretends to be any thing else
 
@@ -499,23 +499,23 @@ ON BOARD BALLOON “SKYLARK”
 
       “ability or inability to conceive is in no case to be received as
 
-      a criterion of axiomatic truth.”
+      a criterion of axiomatic [[Truth|truth]].”
 
 
 
       Now I do not complain of these ancients so much because their
 
-      logic is, by their own showing, utterly baseless, worthless and
+      [[logic]] is, by their own showing, utterly baseless, worthless and
 
       fantastic altogether, as because of their pompous and imbecile
 
-      proscription of all other roads of Truth, of all other means for
+      proscription of all other roads of [[Truth]], of all other means for
 
       its attainment than the two preposterous paths—the one of
 
       creeping and the one of crawling—to which they have dared to
 
-      confine the Soul that loves nothing so well as to soar.
+      confine the [[Soul]] that loves nothing so [[Well|well]] as to soar.
 
 
 
@@ -523,9 +523,9 @@ ON BOARD BALLOON “SKYLARK”
 
       these ancient dogmaticians to have determined by which of their
 
-      two roads it was that the most important and most sublime of all
+      two roads it was that the most important and most [[Sublime|sublime]] of all
 
-      their truths was, in effect, attained? I mean the truth of
+      their truths was, in effect, attained? I mean the [[Truth|truth]] of
 
       Gravitation. Newton owed it to Kepler. Kepler admitted that his
 
@@ -557,7 +557,7 @@ ON BOARD BALLOON “SKYLARK”
 
       not passing strange that, with their eternal prattling about
 
-      roads to Truth, these bigoted people missed what we now so
+      roads to [[Truth]], these bigoted people missed what we now so
 
       clearly perceive to be the great highway—that of Consistency?
 
@@ -565,7 +565,7 @@ ON BOARD BALLOON “SKYLARK”
 
       from the works of God the vital fact that a perfect consistency
 
-      must be an absolute truth! How plain has been our progress since
+      must be an absolute [[Truth|truth]]! How plain has been our progress since
 
       the late announcement of this proposition! Investigation has been
 
@@ -573,7 +573,7 @@ ON BOARD BALLOON “SKYLARK”
 
       to the true and only true thinkers, the men of ardent
 
-      imagination. These latter theorize. Can you not fancy the shout
+      [[Imagination|imagination]]. These latter theorize. Can you not fancy the shout
 
       of scorn with which my words would be received by our progenitors
 
@@ -589,7 +589,7 @@ ON BOARD BALLOON “SKYLARK”
 
       because it is a consistency, to be an absolute and an
 
-      unquestionable truth.
+      unquestionable [[Truth|truth]].
 
 
 
@@ -617,7 +617,7 @@ ON BOARD BALLOON “SKYLARK”
 
       travelling. Nothing to be seen though—nothing to be done but
 
-      flirt, feast and dance in the magnificent saloons. Do you
+      flirt, feast and [[Dance|dance]] in the magnificent saloons. Do you
 
       remember what an odd sensation was experienced when, by chance,
 
@@ -637,11 +637,11 @@ ON BOARD BALLOON “SKYLARK”
 
       measure marked out about nine hundred years ago! In fact, he goes
 
-      so far as to assert that actual traces of a road are still
+      so far as to assert that actual traces of a [[Road|road]] are still
 
       discernible—traces referable to a period quite as remote as that
 
-      mentioned. The track, it appears was double only; ours, you know,
+      mentioned. The track, it appears was [[Double|double]] only; ours, you know,
 
       has twelve paths; and three or four new ones are in preparation.
 
@@ -653,7 +653,7 @@ ON BOARD BALLOON “SKYLARK”
 
       feet—is considered, indeed, scarcely secure enough. For my part,
 
-      I make no doubt that a track of some sort must have existed in
+      I make no [[Doubt|doubt]] that a track of some sort must have existed in
 
       very remote times, as Pundit asserts; for nothing can be clearer,
 
@@ -669,7 +669,7 @@ ON BOARD BALLOON “SKYLARK”
 
       April 5.—I am almost devoured by _ennui_. Pundit is the only
 
-      conversible person on board; and he, poor soul! can speak of
+      conversible person on board; and he, poor [[Soul|soul]]! can speak of
 
       nothing but antiquities. He has been occupied all the day in the
 
@@ -679,7 +679,7 @@ ON BOARD BALLOON “SKYLARK”
 
       existed in a sort of every-man-for-himself confederacy, after the
 
-      fashion of the “prairie dogs” that we read of in fable. He says
+      fashion of the “prairie [[dogs]]” that we read of in [[Fable|fable]]. He says
 
       that they started with the queerest idea conceivable, viz: that
 
@@ -695,17 +695,17 @@ ON BOARD BALLOON “SKYLARK”
 
       nobody’s, and that the “Republic” (so the absurd thing was
 
-      called) was without a government at all. It is related, however,
+      called) was without a [[government]] at all. It is related, however,
 
       that the first circumstance which disturbed, very particularly,
 
-      the self-complacency of the philosophers who constructed this
+      the [[Self|self]]-complacency of the philosophers who constructed this
 
       “Republic,” was the startling discovery that universal suffrage
 
       gave opportunity for fraudulent schemes, by means of which any
 
-      desired number of votes might at any time be polled, without the
+      desired number of votes might at any [[Time|time]] be polled, without the
 
       possibility of prevention or even detection, by any party which
 
@@ -715,7 +715,7 @@ ON BOARD BALLOON “SKYLARK”
 
       evident the consequences, which were that rascality must
 
-      predominate—in a word, that a republican government could never
+      predominate—in a word, that a republican [[government]] could never
 
       be any thing but a rascally one. While the philosophers, however,
 
@@ -751,15 +751,15 @@ ON BOARD BALLOON “SKYLARK”
 
       upon the face of the earth—unless we except the case of the
 
-      “prairie dogs,” an exception which seems to demonstrate, if
+      “prairie [[dogs]],” an exception which seems to demonstrate, if
 
-      anything, that democracy is a very admirable form of
+      anything, that [[democracy]] is a very admirable form of
 
-      government—for dogs.
+      [[government]]—for [[dogs]].
 
 
 
-      April 6.—Last night had a fine view of Alpha Lyrae, whose disk,
+      April 6.—Last [[Night|night]] had a fine view of Alpha Lyrae, whose disk,
 
       through our captain’s spy-glass, subtends an angle of half a
 
@@ -821,7 +821,7 @@ ON BOARD BALLOON “SKYLARK”
 
       failure to be rendered visible by the incalculable host of
 
-      glorious suns glaring in all directions about it? No doubt what
+      glorious suns glaring in all directions about it? No [[Doubt|doubt]] what
 
       he finally maintained was merely a centre of gravity common to
 
@@ -841,9 +841,9 @@ ON BOARD BALLOON “SKYLARK”
 
       merely the mathematical, in contradistinction from the practical,
 
-      idea—is, in sober fact, the practical conception which alone we
+      idea—is, in sober fact, the practical conception which [[Alone|alone]] we
 
-      have any right to entertain in respect to those Titanic circles
+      have any right to entertain in respect to those [[titanic|Titanic]] circles
 
       with which we have to deal, at least in fancy, when we suppose
 
@@ -855,7 +855,7 @@ ON BOARD BALLOON “SKYLARK”
 
       circuit so unutterable! It would scarcely be paradoxical to say
 
-      that a flash of lightning itself, travelling forever upon the
+      that a flash of [[Lightning|lightning]] itself, travelling forever upon the
 
       circumference of this inconceivable circle, would still forever
 
@@ -873,7 +873,7 @@ ON BOARD BALLOON “SKYLARK”
 
       that a decisive curvature had become apparent during the brief
 
-      period of their astronomical history—during the mere point—during
+      period of their astronomical [[history]]—during the mere point—during
 
       the utter nothingness of two or three thousand years! How
 
@@ -887,13 +887,13 @@ ON BOARD BALLOON “SKYLARK”
 
 
 
-      April 7.—Continued last night our astronomical amusements. Had a
+      April 7.—Continued last [[Night|night]] our astronomical amusements. Had a
 
       fine view of the five Neptunian asteroids, and watched with much
 
       interest the putting up of a huge impost on a couple of lintels
 
-      in the new temple at Daphnis in the moon. It was amusing to think
+      in the new temple at Daphnis in the [[Moon|moon]]. It was amusing to think
 
       that creatures so diminutive as the lunarians, and bearing so
 
@@ -921,9 +921,9 @@ ON BOARD BALLOON “SKYLARK”
 
       ground for a new fountain at Paradise, the Emperor’s principal
 
-      pleasure garden. Paradise, it appears, has been, literally
+      pleasure [[Garden|garden]]. Paradise, it appears, has been, literally
 
-      speaking, an island time out of mind—that is to say, its northern
+      speaking, an island [[Time|time]] out of mind—that is to say, its northern
 
       boundary was always (as far back as any record extends) a
 
@@ -951,7 +951,7 @@ ON BOARD BALLOON “SKYLARK”
 
       sufficient data (in the shape of coins, medals or inscriptions)
 
-      wherewith to build up even the ghost of a theory concerning the
+      wherewith to build up even the [[Ghost|ghost]] of a theory concerning the
 
       manners, customs, &c., &c., &c., of the aboriginal inhabitants.
 
@@ -983,7 +983,7 @@ ON BOARD BALLOON “SKYLARK”
 
       unaccountably, this deformity was looked upon altogether in the
 
-      light of a beauty. One or two pictures of these singular women
+      light of a [[Beauty|beauty]]. One or two pictures of these singular women
 
       have in fact, been miraculously preserved. They look very odd,
 
@@ -991,11 +991,11 @@ ON BOARD BALLOON “SKYLARK”
 
 
 
-      Well, these few details are nearly all that have descended to us
+      [[Well]], these few details are nearly all that have descended to us
 
       respecting the ancient Knickerbockers. It seems, however, that
 
-      while digging in the centre of the emperors garden, (which, you
+      while digging in the centre of the emperors [[Garden|garden]], (which, you
 
       know, covers the whole island), some of the workmen unearthed a
 
@@ -1007,7 +1007,7 @@ ON BOARD BALLOON “SKYLARK”
 
       On one of its surfaces was a marble slab with (only think of it!)
 
-      an inscription—a legible inscription. Pundit is in ecstacies.
+      an [[Inscription|inscription]]—a legible [[Inscription|inscription]]. Pundit is in ecstacies.
 
       Upon detaching the slab, a cavity appeared, containing a leaden
 
@@ -1015,7 +1015,7 @@ ON BOARD BALLOON “SKYLARK”
 
       documents which appear to resemble newspapers, with other matters
 
-      of intense interest to the antiquarian! There can be no doubt
+      of intense interest to the antiquarian! There can be no [[Doubt|doubt]]
 
       that all these are genuine Amriccan relics belonging to the tribe
 
@@ -1023,7 +1023,7 @@ ON BOARD BALLOON “SKYLARK”
 
       filled with fac-similes of the coins, MSS., typography, &c., &c.
 
-      I copy for your amusement the Knickerbocker inscription on the
+      I copy for your amusement the Knickerbocker [[Inscription|inscription]] on the
 
       marble slab:—
 
@@ -1031,7 +1031,7 @@ ON BOARD BALLOON “SKYLARK”
 
           This Corner Stone of a Monument to
 
-                  The Memory of
+                  The [[Memory]] of
 
                 GEORGE WASHINGTON
 
@@ -1053,11 +1053,11 @@ ON BOARD BALLOON “SKYLARK”
 
           Washington Monument Association of
 
-                the city of New York
+                the [[City|city]] of [[New York]]
 
 
 
-      This, as I give it, is a verbatim translation done by Pundit
+      This, as I give it, is a verbatim [[Translation|translation]] done by Pundit
 
       himself, so there can be no mistake about it. From the few words
 
@@ -1071,21 +1071,21 @@ ON BOARD BALLOON “SKYLARK”
 
       mere indication of the design to erect a monument at some future
 
-      time; a corner-stone being cautiously laid by itself “solitary
+      [[Time|time]]; a corner-stone being cautiously laid by itself “solitary
 
-      and alone” (excuse me for quoting the great American poet
+      and [[Alone|alone]]” (excuse me for quoting the great American poet
 
       Benton!), as a guarantee of the magnanimous intention. We
 
-      ascertain, too, very distinctly, from this admirable inscription,
+      ascertain, too, very distinctly, from this admirable [[Inscription|inscription]],
 
-      the how as well as the where and the what, of the great surrender
+      the how as [[Well|well]] as the where and the what, of the great surrender
 
       in question. As to the where, it was Yorktown (wherever that
 
-      was), and as to the what, it was General Cornwallis (no doubt
+      was), and as to the what, it was General Cornwallis (no [[Doubt|doubt]]
 
-      some wealthy dealer in corn). He was surrendered. The inscription
+      some wealthy dealer in corn). He was surrendered. The [[Inscription|inscription]]
 
       commemorates the surrender of—what?—why, “of Lord Cornwallis.”
 
@@ -1101,19 +1101,19 @@ ON BOARD BALLOON “SKYLARK”
 
       “under the auspices of the Washington Monument Association”—no
 
-      doubt a charitable institution for the depositing of
+      [[Doubt|doubt]] a charitable institution for the depositing of
 
       corner-stones.—But, Heaven bless me! what is the matter? Ah, I
 
       see—the balloon has collapsed, and we shall have a tumble into
 
-      the sea. I have, therefore, only time enough to add that, from a
+      the sea. I have, therefore, only [[Time|time]] enough to add that, from a
 
       hasty inspection of the fac-similes of newspapers, &c., &c., I
 
       find that the great men in those days among the Amriccans, were
 
-      one John, a smith, and one Zacchary, a tailor.
+      one John, a [[smith]], and one Zacchary, a tailor.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 62)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 62)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
 _learn_ anything from each other in this way. We have many things to
 
-learn from America; but we only listen to those Americans who have still
+learn from [[America]]; but we only listen to those Americans who have still
 
 to learn them. Thus, for instance, we do not import the small farm but
 
-only the big shop. In other words, we hear nothing of the democracy of
+only the big shop. In other words, we hear nothing of the [[democracy]] of
 
 the Middle West, but everything of the plutocracy of the middleman, who
 
@@ -28,9 +28,9 @@ is probably as unpopular in the Middle West as the miller in the Middle
 
 Ages. If Mr. Elihu K. Pike could be transplanted bodily from the
 
-neighbourhood of his home town of Marathon, Neb., with his farm and his
+neighbourhood of his [[Home|home]] town of Marathon, Neb., with his farm and his
 
-frame-house and all its fittings, and they could be set down exactly in
+frame-[[house]] and all its fittings, and they could be set down exactly in
 
 the spot now occupied by Selfridge's (which could be easily cleared away
 
@@ -58,21 +58,21 @@ pleasant domestic ritual and pastime, and is the American equivalent of
 
 the glory of roasting chestnuts. Above all, many of us would learn for
 
-the first time that a man can really live and walk about upon something
+the first [[Time|time]] that a man can really live and walk about upon something
 
 more productive than a pavement; and that when he does so he can really
 
-be a free man, and have no lord but the law. Instead of that, America
+be a free man, and have no lord but the law. Instead of that, [[America]]
 
-can give nothing to London but those multiple modern shops, of which it
+can give nothing to [[London]] but those multiple modern shops, of which it
 
-has too many already. I know that many people entertain the innocent
+has too many already. I know that many people entertain the [[Innocent|innocent]]
 
 illusion that big shops are more efficient than small ones; but that is
 
 only because the big combinations have the monopoly of advertisement as
 
-well as trade. The big shop is not in the least remarkable for
+[[Well|well]] as trade. The big shop is not in the least remarkable for
 
 efficiency; it is only too big to be blamed for its inefficiency. It is
 
@@ -98,11 +98,11 @@ employ one or any of its barristers, when we are in temporary danger of
 
 being hanged. We go to men who own their own tools and are responsible
 
-for the use of their own talents. And the same truth applies to that
+for the use of their own talents. And the same [[Truth|truth]] applies to that
 
 other modern method of advertisement, which has also so largely fallen
 
-across us like the gigantic shadow of America. Nations do not arm
+across us like the gigantic [[Shadow|shadow]] of [[America]]. Nations do not arm
 
 themselves for a mortal struggle by remembering which sort of submarine
 
@@ -132,7 +132,7 @@ die. But though we modern people are indeed patients, in the sense of
 
 being merely receptive and accepting things with astonishing patience,
 
-we are not dead yet; and we have lingering gleams of sanity.
+we are not dead yet; and we have lingering gleams of [[Sanity|sanity]].
 
 
 
@@ -140,7 +140,7 @@ For the best things do not travel. As I appear here as a traveller, I
 
 may say with all modesty that the best people do not travel either. Both
 
-in England and America the normal people are the national people; and I
+in England and [[America]] the normal people are the national people; and I
 
 repeat that I think they are growing more and more national. I do not
 
@@ -150,9 +150,9 @@ I do not want it bridged by all this slang journalism and blatant
 
 advertisement. I have called all that commercial publicity the gigantic
 
-shadow of America. It may be the shadow of America, but it is not the
+[[Shadow|shadow]] of [[America]]. It may be the [[Shadow|shadow]] of [[America]], but it is not the
 
-light of America. The light lies far beyond, a level light upon the
+light of [[America]]. The light lies far beyond, a level light upon the
 
 lands of sunset, where it shines upon wide places full of a very simple
 
@@ -174,19 +174,19 @@ _Lincoln and Lost Causes_
 
 It has already been remarked here that the English know a great deal
 
-about past American literature, but nothing about past American history.
+about past American literature, but nothing about past American [[history]].
 
-They do not know either, of course, as well as they know the present
+They do not know either, of course, as [[Well|well]] as they know the present
 
 American advertising, which is the least important of the three. But it
 
-is worth noting once more how little they know of the history, and how
+is worth noting once more how little they know of the [[history]], and how
 
-illogically that little is chosen. They have heard, no doubt, of the
+illogically that little is chosen. They have heard, no [[Doubt|doubt]], of the
 
-fame and the greatness of Henry Clay. He is a cigar. But it would be
+fame and the [[Greatness|greatness]] of Henry Clay. He is a cigar. But it would be
 
-unwise to cross-examine any Englishman, who may be consuming that luxury
+unwise to [[Cross|cross]]-examine any Englishman, who may be consuming that luxury
 
 at the moment, about the Missouri Compromise or the controversies with
 

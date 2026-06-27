@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 29)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 29)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-would surrender his brief span in the sunshine, if he could hope to beat
+would surrender his brief span in the sunshine, if he could [[Hope|hope]] to beat
 
-his ploughshare into a sword. The nations of the earth were not to
+his ploughshare into a [[Sword|sword]]. The nations of the earth were not to
 
 surrender to the Kaiser; they were to surrender to Krupp, his master and
 
@@ -28,21 +28,21 @@ already surrendered to Krupp. Through every cogwheel in that
 
 incomparable machinery, through every link in that iron and unending
 
-chain, ran the mastery and the skill of a certain kind of artist; an
+chain, ran the mastery and the skill of a certain kind of [[Artist|artist]]; an
 
-artist whose hands are never idle through dreaming or drawn back in
+[[Artist|artist]] whose hands are never idle through dreaming or drawn back in
 
-disgust or lifted in wonder or in wrath; but sure and tireless in their
+disgust or lifted in [[Wonder|wonder]] or in wrath; but sure and tireless in their
 
 touch upon the thousand little things that make the invisible machinery
 
-of life. That artist was there in triumph; but he had no name. The
+of life. That [[Artist|artist]] was there in triumph; but he had no name. The
 
 ancient world called him the Slave.
 
 
 
-From this advancing machine of millions, the slighter array of the
+From this advancing [[Machine|machine]] of millions, the slighter array of the
 
 Allies, and especially the British at their ultimate outpost, saved
 
@@ -58,17 +58,17 @@ by leaping back again and again. Sometimes the pursuer was, so to speak,
 
 so much on top of his prey that it could not even give way to him; but
 
-had to hit such blows as it could in the hope of checking him for the
+had to hit such blows as it could in the [[Hope|hope]] of checking him for the
 
 instant needed for escape. Sometimes the oncoming wave was so close that
 
 a small individual accident, the capture of one man, would mean the
 
-washing out of a whole battalion. For day after day this living death
+washing out of a whole battalion. For day after day this living [[Death|death]]
 
-endured. And day after day a certain dark truth began to be revealed,
+endured. And day after day a certain dark [[Truth|truth]] began to be revealed,
 
-bit by bit, certainly to the incredulous wonder of the Prussians, quite
+bit by bit, certainly to the incredulous [[Wonder|wonder]] of the Prussians, quite
 
 possibly to the surprise of the French, and quite as possibly to the
 
@@ -78,7 +78,7 @@ British soldiers. That singular thing may be expressed in a variety of
 
 ways; but it would be almost certainly expressed insufficiently by
 
-anyone who had not had the moral courage to face the facts about his
+anyone who had not had the moral [[Courage|courage]] to face the facts about his
 
 country in the last decades before the war. It may perhaps be best
 
@@ -94,15 +94,15 @@ the unresting and tormented retreat; the British Generals had refused it
 
 and continued to fight a losing fight in the open for the sake of the
 
-common plan. At night an enormous multitude of Germans had come
+common plan. At [[Night|night]] an enormous multitude of Germans had come
 
-unexpectedly through the forest and caught a smaller body of the British
+unexpectedly through the forest and caught a smaller [[Body|body]] of the British
 
 in Landrecies; failed to dislodge them and lost a whole battalion in
 
 that battle of the darkness. At the extreme end of the line
 
-Smith-Dorrien's division, who seemed to be nearly caught or cut off, had
+[[smith|Smith]]-Dorrien's division, who seemed to be nearly caught or cut off, had
 
 fought with one gun against four, and so hammered the Germans that they
 
@@ -110,23 +110,23 @@ were forced to let go their hold; and the British were again free. When
 
 the blowing up of a bridge announced that they had crossed the last
 
-river, something other than that battered remnant was saved; it was the
+[[River|river]], something other than that battered remnant was saved; it was the
 
-honour of the thing by which we live.
+[[Honour|honour]] of the thing by which we live.
 
 
 
 The driven and defeated line stood at last almost under the walls of
 
-Paris; and the world waited for the doom of the city. The gates seemed
+[[Paris]]; and the world waited for the doom of the [[City|city]]. The gates seemed
 
 to stand open; and the Prussian was to ride into it for the third and
 
-the last time: for the end of its long epic of liberty and equality was
+the last [[Time|time]]: for the end of its long [[Epic|epic]] of liberty and equality was
 
 come. And still the very able and very French individual on whom rested
 
-the last hope of the seemingly hopeless Alliance stood unruffled as a
+the last [[Hope|hope]] of the seemingly hopeless Alliance stood unruffled as a
 
 rock, in every angle of his sky-blue jacket and his bulldog figure. He
 
@@ -134,7 +134,7 @@ had called his bewildered soldiers back when they had broken the
 
 invasion at Guise; he had silently digested the responsibility of
 
-dragging on the retreat, as in despair, to the last desperate leagues
+dragging on the retreat, as in [[Despair|despair]], to the last desperate leagues
 
 before the capital; and he stood and watched. And even as he watched the
 
@@ -142,7 +142,7 @@ whole huge invasion swerved.
 
 
 
-Out through Paris and out and around beyond Paris, other men in dim blue
+Out through [[Paris]] and out and around beyond [[Paris]], other men in dim blue
 
 coats swung out in long lines upon the plain, slowly folding upon Von
 
@@ -154,23 +154,23 @@ dashed across the Allies' line at a desperate angle, to smash it in the
 
 centre as with a hammer. It was less desperate than it seemed; for he
 
-counted, and might well count, on the moral and physical bankruptcy of
+counted, and might [[Well|well]] count, on the moral and physical bankruptcy of
 
 the British line and the end of the French line immediately in front of
 
-him, which for six days and nights he had chased before him like autumn
+him, which for six days and nights he had chased before him like [[Autumn|autumn]]
 
-leaves before a whirlwind. Not unlike autumn leaves, red-stained,
+[[Leaves|leaves]] before a whirlwind. Not unlike [[Autumn|autumn]] [[Leaves|leaves]], red-stained,
 
-dust-hued, and tattered, they lay there as if swept into a corner. But
+[[Dust|dust]]-hued, and tattered, they lay there as if swept into a corner. But
 
 even as their conquerors wheeled eastwards, their bugles blew the
 
 charge; and the English went forward through the wood that is called
 
-Creçy, and stamped it with their seal for the second time, in the
+Creçy, and stamped it with their seal for the second [[Time|time]], in the
 
-highest moment of all the secular history of man.
+highest moment of all the secular [[history]] of man.
 
 
 
@@ -184,17 +184,17 @@ brotherhood in arms or in arts, against that which is and has been
 
 radically unknightly and radically unbrotherly from the beginning. Much
 
-was to happen after--murder and flaming folly and madness in earth and
+was to happen after--murder and flaming folly and [[Madness|madness]] in earth and
 
 sea and sky; but all men knew in their hearts that the third Prussian
 
 thrust had failed, and Christendom was delivered once more. The empire
 
-of blood and iron rolled slowly back towards the darkness of the
+of [[Blood|blood]] and iron rolled slowly back towards the darkness of the
 
 northern forests; and the great nations of the West went forward; where
 
-side by side as after a long lover's quarrel, went the ensigns of St.
+side by side as after a long [[Lover|lover]]'s quarrel, went the ensigns of St.
 
 Denys and St. George.
 

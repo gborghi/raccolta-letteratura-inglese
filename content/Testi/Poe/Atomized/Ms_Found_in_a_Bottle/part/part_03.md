@@ -1,5 +1,5 @@
 ---
-title: "Ms. Found in a Bottle (part 3)"
+title: "[[Ms. Found in a Bottle]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Ms.-Found-in-a-Bottle-(Poe)"
@@ -22,11 +22,11 @@ tags:
 
       horror and astonishment, was that she bore up under a press of
 
-      sail in the very teeth of that supernatural sea, and of that
+      sail in the very teeth of that [[Supernatural|supernatural]] sea, and of that
 
       ungovernable hurricane. When we first discovered her, her bows
 
-      were alone to be seen, as she rose slowly from the dim and
+      were [[Alone|alone]] to be seen, as she [[Rose|rose]] slowly from the dim and
 
       horrible gulf beyond her. For a moment of intense terror she
 
@@ -36,7 +36,7 @@ tags:
 
 
 
-      At this instant, I know not what sudden self-possession came over
+      At this instant, I know not what sudden [[Self|self]]-possession came over
 
       my spirit. Staggering as far aft as I could, I awaited fearlessly
 
@@ -46,7 +46,7 @@ tags:
 
       The shock of the descending mass struck her, consequently, in
 
-      that portion of her frame which was already under water, and the
+      that portion of her frame which was already under [[Water|water]], and the
 
       inevitable result was to hurl me, with irresistible violence,
 
@@ -54,7 +54,7 @@ tags:
 
 
 
-      As I fell, the ship hove in stays, and went about; and to the
+      As I fell, the [[Ship|ship]] hove in stays, and went about; and to the
 
       confusion ensuing I attributed my escape from the notice of the
 
@@ -66,13 +66,13 @@ tags:
 
       hardly tell. An indefinite sense of awe, which at first sight of
 
-      the navigators of the ship had taken hold of my mind, was perhaps
+      the navigators of the [[Ship|ship]] had taken hold of my mind, was perhaps
 
       the principle of my concealment. I was unwilling to trust myself
 
       with a race of people who had offered, to the cursory glance I
 
-      had taken, so many points of vague novelty, doubt, and
+      had taken, so many points of vague novelty, [[Doubt|doubt]], and
 
       apprehension. I therefore thought proper to contrive a
 
@@ -80,7 +80,7 @@ tags:
 
       of the shifting-boards, in such a manner as to afford me a
 
-      convenient retreat between the huge timbers of the ship.
+      convenient retreat between the huge timbers of the [[Ship|ship]].
 
 
 
@@ -106,7 +106,7 @@ tags:
 
       His manner was a wild mixture of the peevishness of second
 
-      childhood, and the solemn dignity of a God. He at length went on
+      [[Childhood|childhood]], and the solemn dignity of a God. He at length went on
 
       deck, and I saw him no more.
 
@@ -116,27 +116,27 @@ tags:
 
       A feeling, for which I have no name, has taken possession of my
 
-      soul —a sensation which will admit of no analysis, to which the
+      [[Soul|soul]] —a sensation which will admit of no analysis, to which the
 
-      lessons of bygone times are inadequate, and for which I fear
+      lessons of bygone times are inadequate, and for which I [[Fear|fear]]
 
       futurity itself will offer me no key. To a mind constituted like
 
       my own, the latter consideration is an evil. I shall never—I know
 
-      that I shall never—be satisfied with regard to the nature of my
+      that I shall never—be satisfied with regard to the [[Nature|nature]] of my
 
       conceptions. Yet it is not wonderful that these conceptions are
 
       indefinite, since they have their origin in sources so utterly
 
-      novel. A new sense—a new entity is added to my soul.
+      [[Novel|novel]]. A new sense—a new entity is added to my [[Soul|soul]].
 
 
 
 
 
-      It is long since I first trod the deck of this terrible ship, and
+      It is long since I first trod the deck of this terrible [[Ship|ship]], and
 
       the rays of my destiny are, I think, gathering to a focus.
 
@@ -152,7 +152,7 @@ tags:
 
       cabin, and took thence the materials with which I write, and have
 
-      written. I shall from time to time continue this journal. It is
+      written. I shall from [[Time|time]] to [[Time|time]] continue this journal. It is
 
       true that I may not find an opportunity of transmitting it to the
 
@@ -174,13 +174,13 @@ tags:
 
       any notice, among a pile of ratlin-stuff and old sails in the
 
-      bottom of the yawl. While musing upon the singularity of my fate,
+      [[Bottom|bottom]] of the yawl. While musing upon the singularity of my fate,
 
       I unwittingly daubed with a tar-brush the edges of a
 
       neatly-folded studding-sail which lay near me on a barrel. The
 
-      studding-sail is now bent upon the ship, and the thoughtless
+      studding-sail is now bent upon the [[Ship|ship]], and the thoughtless
 
       touches of the brush are spread out into the word DISCOVERY.
 
@@ -188,13 +188,13 @@ tags:
 
       I have made many observations lately upon the structure of the
 
-      vessel. Although well armed, she is not, I think, a ship of war.
+      vessel. Although [[Well|well]] armed, she is not, I think, a [[Ship|ship]] of war.
 
       Her rigging, build, and general equipment, all negative a
 
       supposition of this kind. What she is not, I can easily
 
-      perceive—what she is I fear it is impossible to say. I know not
+      perceive—what she is I [[Fear|fear]] it is impossible to say. I know not
 
       how it is, but in scrutinizing her strange model and singular
 
@@ -206,10 +206,10 @@ tags:
 
       always mixed up with such indistinct shadows of recollection, an
 
-      unaccountable memory of old foreign chronicles and ages long ago.
+      unaccountable [[Memory|memory]] of old foreign chronicles and ages long ago.
 
 
 
 
 
-      I have been looking at the timbers of the ship. She is built of a
+      I have been looking at the timbers of the [[Ship|ship]]. She is built of a

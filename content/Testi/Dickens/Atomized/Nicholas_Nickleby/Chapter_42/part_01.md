@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 42 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 42 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,13 +20,13 @@ Illustrative of the convivial Sentiment, that the best of Friends must
 sometimes part
 
 
-The pavement of Snow Hill had been baking and frying all day in the
+The pavement of [[Snow]] [[Hill]] had been baking and frying all day in the
 heat, and the twain Saracens’ heads guarding the entrance to the
 hostelry of whose name and sign they are the duplicate presentments,
 looked--or seemed, in the eyes of jaded and footsore passers-by, to
 look--more vicious than usual, after blistering and scorching in the
 sun, when, in one of the inn’s smallest sitting-rooms, through whose
-open window there rose, in a palpable steam, wholesome exhalations from
+open [[Window|window]] there [[Rose|rose]], in a palpable steam, wholesome exhalations from
 reeking coach-horses, the usual furniture of a tea-table was displayed
 in neat and inviting order, flanked by large joints of roast and boiled,
 a tongue, a pigeon pie, a cold fowl, a tankard of ale, and other little
@@ -38,7 +38,7 @@ Mr. John Browdie, with his hands in his pockets, hovered restlessly about
 these delicacies, stopping occasionally to whisk the flies out of the
 sugar-basin with his wife’s pocket-handkerchief, or to dip a teaspoon in
 the milk-pot and carry it to his mouth, or to cut off a little knob of
-crust, and a little corner of meat, and swallow them at two gulps like a
+crust, and a little corner of meat, and [[Swallow|swallow]] them at two gulps like a
 couple of pills. After every one of these flirtations with the eatables,
 he pulled out his watch, and declared with an earnestness quite pathetic
 that he couldn’t undertake to hold out two minutes longer.
@@ -46,9 +46,9 @@ that he couldn’t undertake to hold out two minutes longer.
 ‘Tilly!’ said John to his lady, who was reclining half awake and half
 asleep upon a sofa.
 
-‘Well, John!’
+‘[[Well]], John!’
 
-‘Well, John!’ retorted her husband, impatiently. ‘Dost thou feel
+‘[[Well]], John!’ retorted her husband, impatiently. ‘Dost thou feel
 hoongry, lass?’
 
 ‘Not very,’ said Mrs. Browdie.
@@ -64,10 +64,10 @@ or a parcel.
 
 ‘A gen’l’man, sir.’
 
-‘Stars and garthers, chap!’ said John, ‘wa’at dost thou coom and say
+‘[[Stars]] and garthers, chap!’ said John, ‘wa’at dost thou coom and say
 thot for? In wi’ ‘un.’
 
-‘Are you at home, sir?’
+‘Are you at [[Home|home]], sir?’
 
 ‘At whoam!’ cried John, ‘I wish I wur; I’d ha tea’d two hour ago. Why, I
 told t’oother chap to look sharp ootside door, and tell ‘un d’rectly he
@@ -85,9 +85,9 @@ directed towards his wife. ‘There she be--we shan’t quarrel about her
 noo--eh? Ecod, when I think o’ thot--but thou want’st soom’at to eat.
 Fall to, mun, fall to, and for wa’at we’re aboot to receive--’
 
-No doubt the grace was properly finished, but nothing more was heard,
+No [[Doubt|doubt]] the grace was properly finished, but nothing more was heard,
 for John had already begun to play such a knife and fork, that his
-speech was, for the time, gone.
+speech was, for the [[Time|time]], gone.
 
 ‘I shall take the usual licence, Mr. Browdie,’ said Nicholas, as he
 placed a chair for the bride.
@@ -105,7 +105,7 @@ quite at whoam, will ‘ee?’
 
 ‘And wa’at may thot be?’ asked John.
 
-‘That you make me a godfather the very first time you have occasion for
+‘That you make me a godfather the very first [[Time|time]] you have occasion for
 one.’
 
 ‘Eh! d’ye hear thot?’ cried John, laying down his knife and fork. ‘A
@@ -116,22 +116,22 @@ ha! ha!’
 Never was man so tickled with a respectable old joke, as John Browdie
 was with this. He chuckled, roared, half suffocated himself by laughing
 large pieces of beef into his windpipe, roared again, persisted in
-eating at the same time, got red in the face and black in the forehead,
+eating at the same [[Time|time]], got red in the face and black in the forehead,
 coughed, cried, got better, went off again laughing inwardly, got worse,
 choked, had his back thumped, stamped about, frightened his wife, and
-at last recovered in a state of the last exhaustion and with the water
+at last recovered in a state of the last exhaustion and with the [[Water|water]]
 streaming from his eyes, but still faintly ejaculating, ‘A godfeyther--a
 godfeyther, Tilly!’ in a tone bespeaking an exquisite relish of the
-sally, which no suffering could diminish.
+sally, which no [[Suffering|suffering]] could diminish.
 
-‘You remember the night of our first tea-drinking?’ said Nicholas.
+‘You remember the [[Night|night]] of our first tea-drinking?’ said Nicholas.
 
 ‘Shall I e’er forget it, mun?’ replied John Browdie.
 
-‘He was a desperate fellow that night though, was he not, Mrs. Browdie?’
-said Nicholas. ‘Quite a monster!’
+‘He was a desperate fellow that [[Night|night]] though, was he not, Mrs. Browdie?’
+said Nicholas. ‘Quite a [[Monster|monster]]!’
 
-‘If you had only heard him as we were going home, Mr. Nickleby, you’d
+‘If you had only heard him as we were going [[Home|home]], Mr. Nickleby, you’d
 have said so indeed,’ returned the bride. ‘I never was so frightened in
 all my life.’
 

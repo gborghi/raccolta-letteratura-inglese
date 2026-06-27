@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 11"
+title: "The Mystery of [[Edwin Drood]] — Chapter 11"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -18,7 +18,7 @@ CHAPTER XI.
 A PICTURE AND A RING
 
 
-Behind the most ancient part of Holborn, London, where certain gabled
+Behind the most ancient part of Holborn, [[London]], where certain gabled
 houses some centuries of age still stand looking on the public way, as
 if disconsolately looking for the Old Bourne that has long run dry, is
 a little nook composed of two irregular quadrangles, called Staple Inn.
@@ -27,11 +27,11 @@ street, imparts to the relieved pedestrian the sensation of having put
 cotton in his ears, and velvet soles on his boots. It is one of those
 nooks where a few smoky sparrows twitter in smoky trees, as though they
 called to one another, “Let us play at country,” and where a few feet
-of garden-mould and a few yards of gravel enable them to do that
+of [[Garden|garden]]-mould and a few yards of gravel enable them to do that
 refreshing violence to their tiny understandings. Moreover, it is one
 of those nooks which are legal nooks; and it contains a little Hall,
 with a little lantern in its roof: to what obstructive purposes
-devoted, and at whose expense, this history knoweth not.
+devoted, and at whose expense, this [[history]] knoweth not.
 
 In the days when Cloisterham took offence at the existence of a
 railroad afar off, as menacing that sensitive constitution, the
@@ -40,14 +40,14 @@ is to be in exactly equal degrees croaked about, trembled for, and
 boasted of, whatever happens to anything, anywhere in the world: in
 those days no neighbouring architecture of lofty proportions had arisen
 to overshadow Staple Inn. The westering sun bestowed bright glances on
-it, and the south-west wind blew into it unimpeded.
+it, and the south-west [[Wind|wind]] blew into it unimpeded.
 
-Neither wind nor sun, however, favoured Staple Inn one December
-afternoon towards six o’clock, when it was filled with fog, and candles
+Neither [[Wind|wind]] nor sun, however, favoured Staple Inn one December
+afternoon towards six o’[[Clock|clock]], when it was filled with fog, and candles
 shed murky and blurred rays through the windows of all its
 then-occupied sets of chambers; notably from a set of chambers in a
-corner house in the little inner quadrangle, presenting in black and
-white over its ugly portal the mysterious inscription:
+corner [[house]] in the little inner quadrangle, presenting in black and
+white over its ugly portal the mysterious [[Inscription|inscription]]:
 
 P
 J
@@ -56,27 +56,27 @@ T
 
 
 In which set of chambers, never having troubled his head about the
-inscription, unless to bethink himself at odd times on glancing up at
+[[Inscription|inscription]], unless to bethink himself at odd times on glancing up at
 it, that haply it might mean Perhaps John Thomas, or Perhaps Joe Tyler,
-sat Mr. Grewgious writing by his fire.
+sat Mr. Grewgious writing by his [[Fire|fire]].
 
 Who could have told, by looking at Mr. Grewgious, whether he had ever
-known ambition or disappointment? He had been bred to the Bar, and had
+known [[Ambition|ambition]] or disappointment? He had been bred to the Bar, and had
 laid himself out for chamber practice; to draw deeds; “convey the wise
-it call,” as Pistol says. But Conveyancing and he had made such a very
-indifferent marriage of it that they had separated by consent—if there
+it call,” as [[Pistol]] says. But Conveyancing and he had made such a very
+indifferent [[Marriage|marriage]] of it that they had separated by consent—if there
 can be said to be separation where there has never been coming
 together.
 
 No. Coy Conveyancing would not come to Mr. Grewgious. She was wooed,
 not won, and they went their several ways. But an Arbitration being
-blown towards him by some unaccountable wind, and he gaining great
+blown towards him by some unaccountable [[Wind|wind]], and he gaining great
 credit in it as one indefatigable in seeking out right and doing right,
-a pretty fat Receivership was next blown into his pocket by a wind more
+a pretty fat Receivership was next blown into his pocket by a [[Wind|wind]] more
 traceable to its source. So, by chance, he had found his niche.
 Receiver and Agent now, to two rich estates, and deputing their legal
 business, in an amount worth having, to a firm of solicitors on the
-floor below, he had snuffed out his ambition (supposing him to have
+floor below, he had snuffed out his [[Ambition|ambition]] (supposing him to have
 ever lighted it), and had settled down with his snuffers for the rest
 of his life under the dry vine and fig-tree of P. J. T., who planted in
 seventeen-forty-seven.
@@ -87,8 +87,8 @@ be represented as having lumbered it, so conscientious and precise was
 their orderly arrangement. The apprehension of dying suddenly, and
 leaving one fact or one figure with any incompleteness or obscurity
 attaching to it, would have stretched Mr. Grewgious stone-dead any day.
-The largest fidelity to a trust was the life-blood of the man. There
-are sorts of life-blood that course more quickly, more gaily, more
+The largest fidelity to a trust was the life-[[Blood|blood]] of the man. There
+are sorts of life-[[Blood|blood]] that course more quickly, more gaily, more
 attractively; but there is no better sort in circulation.
 
 There was no luxury in his room. Even its comforts were limited to its
@@ -100,30 +100,30 @@ elsewise remained turned up like a shining mahogany shield. Behind it,
 when standing thus on the defensive, was a closet, usually containing
 something good to drink. An outer room was the clerk’s room; Mr.
 Grewgious’s sleeping-room was across the common stair; and he held some
-not empty cellarage at the bottom of the common stair. Three hundred
+not empty cellarage at the [[Bottom|bottom]] of the common stair. Three hundred
 days in the year, at least, he crossed over to the hotel in Furnival’s
 Inn for his dinner, and after dinner crossed back again, to make the
 most of these simplicities until it should become broad business day
 once more, with P. J. T., date seventeen-forty-seven.
 
-As Mr. Grewgious sat and wrote by his fire that afternoon, so did the
-clerk of Mr. Grewgious sit and write by _his_ fire. A pale,
+As Mr. Grewgious sat and wrote by his [[Fire|fire]] that afternoon, so did the
+clerk of Mr. Grewgious sit and write by _his_ [[Fire|fire]]. A pale,
 puffy-faced, dark-haired person of thirty, with big dark eyes that
 wholly wanted lustre, and a dissatisfied doughy complexion, that seemed
 to ask to be sent to the baker’s, this attendant was a mysterious
 being, possessed of some strange power over Mr. Grewgious. As though he
-had been called into existence, like a fabulous Familiar, by a magic
+had been called into existence, like a fabulous Familiar, by a [[Magic|magic]]
 spell which had failed when required to dismiss him, he stuck tight to
 Mr. Grewgious’s stool, although Mr. Grewgious’s comfort and convenience
 would manifestly have been advanced by dispossessing him. A gloomy
 person with tangled locks, and a general air of having been reared
-under the shadow of that baleful tree of Java which has given shelter
+under the [[Shadow|shadow]] of that baleful tree of Java which has given shelter
 to more lies than the whole botanical kingdom, Mr. Grewgious,
 nevertheless, treated him with unaccountable consideration.
 
 “Now, Bazzard,” said Mr. Grewgious, on the entrance of his clerk:
-looking up from his papers as he arranged them for the night: “what is
-in the wind besides fog?”
+looking up from his papers as he arranged them for the [[Night|night]]: “what is
+in the [[Wind|wind]] besides fog?”
 
 “Mr. Drood,” said Bazzard.
 
@@ -145,7 +145,7 @@ How do you do, Mr. Edwin? Dear me, you’re choking!”
 Cayenne pepper.”
 
 “Is it really so bad as that? Pray undo your wrappers. It’s fortunate I
-have so good a fire; but Mr. Bazzard has taken care of me.”
+have so good a [[Fire|fire]]; but Mr. Bazzard has taken care of me.”
 
 “No I haven’t,” said Mr. Bazzard at the door.
 
@@ -155,7 +155,7 @@ beg! Coming out of such an atmosphere, in _my_ chair.”
 
 Edwin took the easy-chair in the corner; and the fog he had brought in
 with him, and the fog he took off with his greatcoat and neck-shawl,
-was speedily licked up by the eager fire.
+was speedily licked up by the eager [[Fire|fire]].
 
 “I look,” said Edwin, smiling, “as if I had come to stop.”
 
@@ -208,9 +208,9 @@ or commissariat department. Because he mightn’t like it.”
 “His own way?” returned Mr. Grewgious. “O dear no! Poor fellow, you
 quite mistake him. If he had his own way, he wouldn’t be here.”
 
-“I wonder where he would be!” Edwin thought. But he only thought it,
+“I [[Wonder|wonder]] where he would be!” Edwin thought. But he only thought it,
 because Mr. Grewgious came and stood himself with his back to the other
-corner of the fire, and his shoulder-blades against the chimneypiece,
+corner of the [[Fire|fire]], and his shoulder-blades against the chimneypiece,
 and collected his skirts for easy conversation.
 
 “I take it, without having the gift of prophecy, that you have done me
@@ -227,10 +227,10 @@ sharpen me up a bit in any proceedings? Eh, Mr. Edwin?”
 
 Mr. Grewgious had meant to be arch—not that he in the remotest degree
 expressed that meaning—and had brought himself into scarcely
-supportable proximity with the fire, as if to burn the fullest effect
+supportable proximity with the [[Fire|fire]], as if to burn the fullest effect
 of his archness into himself, as other subtle impressions are burnt
 into hard metals. But his archness suddenly flying before the composed
-face and manner of his visitor, and only the fire remaining, he started
+face and manner of his visitor, and only the [[Fire|fire]] remaining, he started
 and rubbed himself.
 
 “I have lately been down yonder,” said Mr. Grewgious, rearranging his
@@ -247,8 +247,8 @@ Edwin coloured a little as he explained: “I call Rosa Pussy.”
 affable.”
 
 Edwin glanced at his face, uncertain whether or no he seriously
-objected to the appellation. But Edwin might as well have glanced at
-the face of a clock.
+objected to the appellation. But Edwin might as [[Well|well]] have glanced at
+the face of a [[Clock|clock]].
 
 “A pet name, sir,” he explained again.
 
@@ -266,7 +266,7 @@ anything about the Landlesses?”
 “No,” said Mr. Grewgious. “What is the Landlesses? An estate? A villa?
 A farm?”
 
-“A brother and sister. The sister is at the Nuns’ House, and has become
+“A brother and sister. The sister is at the Nuns’ [[house|House]], and has become
 a great friend of P—”
 
 “PRosa’s,” Mr. Grewgious struck in, with a fixed face.
@@ -278,7 +278,7 @@ been described to you, or presented to you perhaps?”
 
 Bazzard returned, accompanied by two waiters—an immovable waiter, and a
 flying waiter; and the three brought in with them as much fog as gave a
-new roar to the fire. The flying waiter, who had brought everything on
+new roar to the [[Fire|fire]]. The flying waiter, who had brought everything on
 his shoulders, laid the cloth with amazing rapidity and dexterity;
 while the immovable waiter, who had brought nothing, found fault with
 him. The flying waiter then highly polished all the glasses he had
@@ -287,11 +287,11 @@ waiter then flew across Holborn for the soup, and flew back again, and
 then took another flight for the made-dish, and flew back again, and
 then took another flight for the joint and poultry, and flew back
 again, and between whiles took supplementary flights for a great
-variety of articles, as it was discovered from time to time that the
+variety of articles, as it was discovered from [[Time|time]] to [[Time|time]] that the
 immovable waiter had forgotten them all. But let the flying waiter
 cleave the air as he might, he was always reproached on his return by
 the immovable waiter for bringing fog with him, and being out of
-breath. At the conclusion of the repast, by which time the flying
+breath. At the conclusion of the repast, by which [[Time|time]] the flying
 waiter was severely blown, the immovable waiter gathered up the
 tablecloth under his arm with a grand air, and having sternly (not to
 say with indignation) looked on at the flying waiter while he set the
@@ -302,7 +302,7 @@ the flying waiter before him out of the room.
 
 It was like a highly-finished miniature painting representing My Lords
 of the Circumlocution Department, Commandership-in-Chief of any sort,
-Government. It was quite an edifying little picture to be hung on the
+[[government|Government]]. It was quite an edifying little picture to be hung on the
 line in the National Gallery.
 
 As the fog had been the proximate cause of this sumptuous repast, so
@@ -315,8 +315,8 @@ parenthetically, that the leg of this young man, in its application to
 the door, evinced the finest sense of touch: always preceding himself
 and tray (with something of an angling air about it), by some seconds:
 and always lingering after he and the tray had disappeared, like
-Macbeth’s leg when accompanying him off the stage with reluctance to
-the assassination of Duncan.
+[[Macbeth]]’s leg when accompanying him off the stage with reluctance to
+the assassination of [[Duncan]].
 
 The host had gone below to the cellar, and had brought up bottles of
 ruby, straw-coloured, and golden drinks, which had ripened long ago in
@@ -335,7 +335,7 @@ manner influenced. But, in his wooden way, he had observant eyes for
 Edwin; and when at the end of dinner, he motioned Edwin back to his own
 easy-chair in the fireside corner, and Edwin sank luxuriously into it
 after very brief remonstrance, Mr. Grewgious, as he turned his seat
-round towards the fire too, and smoothed his head and face, might have
+round towards the [[Fire|fire]] too, and smoothed his head and face, might have
 been seen looking at his visitor between his smoothing fingers.
 
 “Bazzard!” said Mr. Grewgious, suddenly turning to him.
@@ -344,19 +344,19 @@ been seen looking at his visitor between his smoothing fingers.
 consuming meat and drink in a workmanlike manner, though mostly in
 speechlessness.
 
-“I drink to you, Bazzard; Mr. Edwin, success to Mr. Bazzard!”
+“I drink to you, Bazzard; Mr. Edwin, [[success]] to Mr. Bazzard!”
 
-“Success to Mr. Bazzard!” echoed Edwin, with a totally unfounded
+“[[success|Success]] to Mr. Bazzard!” echoed Edwin, with a totally unfounded
 appearance of enthusiasm, and with the unspoken addition: “What in, I
-wonder!”
+[[Wonder|wonder]]!”
 
 “And May!” pursued Mr. Grewgious—“I am not at liberty to be
 definite—May!—my conversational powers are so very limited that I know
-I shall not come well out of this—May!—it ought to be put
-imaginatively, but I have no imagination—May!—the thorn of anxiety is
+I shall not come [[Well|well]] out of this—May!—it ought to be put
+imaginatively, but I have no [[Imagination|imagination]]—May!—the thorn of anxiety is
 as nearly the mark as I am likely to get—May it come out at last!”
 
-Mr. Bazzard, with a frowning smile at the fire, put a hand into his
+Mr. Bazzard, with a frowning smile at the [[Fire|fire]], put a hand into his
 tangled locks, as if the thorn of anxiety were there; then into his
 waistcoat, as if it were there; then into his pockets, as if it were
 there. In all these movements he was closely followed by the eyes of
@@ -380,13 +380,13 @@ fascinating Miss Rosa. Bazzard, the fair and fascinating Miss Rosa!”
 
 “And so do I!” said Edwin.
 
-“Lord bless me,” cried Mr. Grewgious, breaking the blank silence which
+“Lord bless me,” cried Mr. Grewgious, breaking the blank [[Silence|silence]] which
 of course ensued: though why these pauses _should_ come upon us when we
 have performed any small social rite, not directly inducive of
-self-examination or mental despondency, who can tell? “I am a
+[[Self|self]]-examination or mental despondency, who can tell? “I am a
 particularly Angular man, and yet I fancy (if I may use the word, not
 having a morsel of fancy), that I could draw a picture of a true
-lover’s state of mind, to-night.”
+[[Lover|lover]]’s state of mind, to-[[Night|night]].”
 
 “Let us follow you, sir,” said Bazzard, “and have the picture.”
 
@@ -394,35 +394,35 @@ lover’s state of mind, to-night.”
 “and will throw in a few touches from the life. I dare say it is wrong
 in many particulars, and wants many touches from the life, for I was
 born a Chip, and have neither soft sympathies nor soft experiences.
-Well! I hazard the guess that the true lover’s mind is completely
+[[Well]]! I hazard the guess that the true [[Lover|lover]]’s mind is completely
 permeated by the beloved object of his affections. I hazard the guess
 that her dear name is precious to him, cannot be heard or repeated
 without emotion, and is preserved sacred. If he has any distinguishing
 appellation of fondness for her, it is reserved for her, and is not for
 common ears. A name that it would be a privilege to call her by, being
-alone with her own bright self, it would be a liberty, a coldness, an
-insensibility, almost a breach of good faith, to flaunt elsewhere.”
+[[Alone|alone]] with her own bright [[Self|self]], it would be a liberty, a coldness, an
+insensibility, almost a breach of good [[Faith|faith]], to flaunt elsewhere.”
 
 It was wonderful to see Mr. Grewgious sitting bolt upright, with his
 hands on his knees, continuously chopping this discourse out of
-himself: much as a charity boy with a very good memory might get his
+himself: much as a [[Charity|charity]] boy with a very good [[Memory|memory]] might get his
 catechism said: and evincing no correspondent emotion whatever, unless
 in a certain occasional little tingling perceptible at the end of his
 nose.
 
 “My picture,” Mr. Grewgious proceeded, “goes on to represent (under
-correction from you, Mr. Edwin), the true lover as ever impatient to be
+correction from you, Mr. Edwin), the true [[Lover|lover]] as ever impatient to be
 in the presence or vicinity of the beloved object of his affections; as
 caring very little for his case in any other society; and as constantly
 seeking that. If I was to say seeking that, as a bird seeks its nest, I
 should make an ass of myself, because that would trench upon what I
 understand to be poetry; and I am so far from trenching upon poetry at
-any time, that I never, to my knowledge, got within ten thousand miles
-of it. And I am besides totally unacquainted with the habits of birds,
-except the birds of Staple Inn, who seek their nests on ledges, and in
+any [[Time|time]], that I never, to my knowledge, got within ten thousand miles
+of it. And I am besides totally unacquainted with the habits of [[Birds|birds]],
+except the [[Birds|birds]] of Staple Inn, who seek their nests on ledges, and in
 gutter-pipes and chimneypots, not constructed for them by the
-beneficent hand of Nature. I beg, therefore, to be understood as
-foregoing the bird’s-nest. But my picture does represent the true lover
+beneficent hand of [[Nature]]. I beg, therefore, to be understood as
+foregoing the bird’s-nest. But my picture does represent the true [[Lover|lover]]
 as having no existence separable from that of the beloved object of his
 affections, and as living at once a doubled life and a halved life. And
 if I do not clearly express what I mean by that, it is either for the
@@ -431,15 +431,15 @@ mean, or that having no meaning, I do not mean what I fail to express.
 Which, to the best of my belief, is not the case.”
 
 Edwin had turned red and turned white, as certain points of this
-picture came into the light. He now sat looking at the fire, and bit
+picture came into the light. He now sat looking at the [[Fire|fire]], and bit
 his lip.
 
 “The speculations of an Angular man,” resumed Mr. Grewgious, still
 sitting and speaking exactly as before, “are probably erroneous on so
 globular a topic. But I figure to myself (subject, as before, to Mr.
 Edwin’s correction), that there can be no coolness, no lassitude, no
-doubt, no indifference, no half fire and half smoke state of mind, in a
-real lover. Pray am I at all near the mark in my picture?”
+[[Doubt|doubt]], no indifference, no half [[Fire|fire]] and half smoke state of mind, in a
+real [[Lover|lover]]. Pray am I at all near the mark in my picture?”
 
 As abrupt in his conclusion as in his commencement and progress, he
 jerked this inquiry at Edwin, and stopped when one might have supposed
@@ -452,7 +452,7 @@ me—”
 
 “I should say, then, sir,” Edwin went on, embarrassed, “that the
 picture you have drawn is generally correct; but I submit that perhaps
-you may be rather hard upon the unlucky lover.”
+you may be rather hard upon the unlucky [[Lover|lover]].”
 
 “Likely so,” assented Mr. Grewgious, “likely so. I am a hard man in the
 grain.”
@@ -465,24 +465,24 @@ unexpectedly striking in with:
 
 “No to be sure; he _may_ not!”
 
-After that, they all sat silent; the silence of Mr. Bazzard being
+After that, they all sat silent; the [[Silence|silence]] of Mr. Bazzard being
 occasioned by slumber.
 
 “His responsibility is very great, though,” said Mr. Grewgious at
-length, with his eyes on the fire.
+length, with his eyes on the [[Fire|fire]].
 
-Edwin nodded assent, with _his_ eyes on the fire.
+Edwin nodded assent, with _his_ eyes on the [[Fire|fire]].
 
 “And let him be sure that he trifles with no one,” said Mr. Grewgious;
 “neither with himself, nor with any other.”
 
-Edwin bit his lip again, and still sat looking at the fire.
+Edwin bit his lip again, and still sat looking at the [[Fire|fire]].
 
 “He must not make a plaything of a treasure. Woe betide him if he does!
-Let him take that well to heart,” said Mr. Grewgious.
+Let him take that [[Well|well]] to heart,” said Mr. Grewgious.
 
 Though he said these things in short sentences, much as the
-supposititious charity boy just now referred to might have repeated a
+supposititious [[Charity|charity]] boy just now referred to might have repeated a
 verse or two from the Book of Proverbs, there was something dreamy (for
 so literal a man) in the way in which he now shook his right forefinger
 at the live coals in the grate, and again fell silent.
@@ -494,7 +494,7 @@ Edwin. Let me help you. I’ll help Bazzard too, though he _is_ asleep.
 He mightn’t like it else.”
 
 He helped them both, and helped himself, and drained his glass, and
-stood it bottom upward on the table, as though he had just caught a
+stood it [[Bottom|bottom]] upward on the table, as though he had just caught a
 bluebottle in it.
 
 “And now, Mr. Edwin,” he proceeded, wiping his mouth and hands upon his
@@ -515,40 +515,40 @@ sir.”
 “Not a business-like acknowledgment,” returned Mr. Grewgious; “however,
 let that pass. Now, in that document you have observed a few words of
 kindly allusion to its being left to me to discharge a little trust,
-confided to me in conversation, at such time as I in my discretion may
+confided to me in conversation, at such [[Time|time]] as I in my discretion may
 think best.”
 
 “Yes, sir.”
 
 “Mr. Edwin, it came into my mind just now, when I was looking at the
-fire, that I could, in my discretion, acquit myself of that trust at no
-better time than the present. Favour me with your attention, half a
+[[Fire|fire]], that I could, in my discretion, acquit myself of that trust at no
+better [[Time|time]] than the present. Favour me with your attention, half a
 minute.”
 
 He took a bunch of keys from his pocket, singled out by the
 candle-light the key he wanted, and then, with a candle in his hand,
-went to a bureau or escritoire, unlocked it, touched the spring of a
+went to a bureau or escritoire, unlocked it, touched the [[Spring|spring]] of a
 little secret drawer, and took from it an ordinary ring-case made for a
 single ring. With this in his hand, he returned to his chair. As he
 held it up for the young man to see, his hand trembled.
 
-“Mr. Edwin, this rose of diamonds and rubies delicately set in gold,
+“Mr. Edwin, this [[Rose|rose]] of diamonds and rubies delicately set in gold,
 was a ring belonging to Miss Rosa’s mother. It was removed from her
-dead hand, in my presence, with such distracted grief as I hope it may
+dead hand, in my presence, with such distracted grief as I [[Hope|hope]] it may
 never be my lot to contemplate again. Hard man as I am, I am not hard
 enough for that. See how bright these stones shine!” opening the case.
 “And yet the eyes that were so much brighter, and that so often looked
 upon them with a light and a proud heart, have been ashes among ashes,
-and dust among dust, some years! If I had any imagination (which it is
-needless to say I have not), I might imagine that the lasting beauty of
+and [[Dust|dust]] among [[Dust|dust]], some years! If I had any [[Imagination|imagination]] (which it is
+needless to say I have not), I might imagine that the lasting [[Beauty|beauty]] of
 these stones was almost cruel.”
 
 He closed the case again as he spoke.
 
 “This ring was given to the young lady who was drowned so early in her
 beautiful and happy career, by her husband, when they first plighted
-their faith to one another. It was he who removed it from her
-unconscious hand, and it was he who, when his death drew very near,
+their [[Faith|faith]] to one another. It was he who removed it from her
+unconscious hand, and it was he who, when his [[Death|death]] drew very near,
 placed it in mine. The trust in which I received it, was, that, you and
 Miss Rosa growing to manhood and womanhood, and your betrothal
 prospering and coming to maturity, I should give it to you to place
@@ -562,7 +562,7 @@ gave him the ring.
 “Your placing it on her finger,” said Mr. Grewgious, “will be the
 solemn seal upon your strict fidelity to the living and the dead. You
 are going to her, to make the last irrevocable preparations for your
-marriage. Take it with you.”
+[[Marriage|marriage]]. Take it with you.”
 
 The young man took the little case, and placed it in his breast.
 
@@ -581,7 +581,7 @@ accuse him of having been asleep.
 
 “I follow you, sir,” said Bazzard, “and I have been following you.”
 
-“In discharge of a trust, I have handed Mr. Edwin Drood a ring of
+“In discharge of a trust, I have handed Mr. [[Edwin Drood]] a ring of
 diamonds and rubies. You see?”
 
 Edwin reproduced the little case, and opened it; and Bazzard looked
@@ -590,16 +590,16 @@ into it.
 “I follow you both, sir,” returned Bazzard, “and I witness the
 transaction.”
 
-Evidently anxious to get away and be alone, Edwin Drood now resumed his
-outer clothing, muttering something about time and appointments. The
+Evidently anxious to get away and be [[Alone|alone]], [[Edwin Drood]] now resumed his
+outer clothing, muttering something about [[Time|time]] and appointments. The
 fog was reported no clearer (by the flying waiter, who alighted from a
 speculative flight in the coffee interest), but he went out into it;
 and Bazzard, after his manner, “followed” him.
 
-Mr. Grewgious, left alone, walked softly and slowly to and fro, for an
-hour and more. He was restless to-night, and seemed dispirited.
+Mr. Grewgious, left [[Alone|alone]], walked softly and slowly to and fro, for an
+hour and more. He was restless to-[[Night|night]], and seemed dispirited.
 
-“I hope I have done right,” he said. “The appeal to him seemed
+“I [[Hope|hope]] I have done right,” he said. “The appeal to him seemed
 necessary. It was hard to lose the ring, and yet it must have gone from
 me very soon.”
 
@@ -607,24 +607,24 @@ He closed the empty little drawer with a sigh, and shut and locked the
 escritoire, and came back to the solitary fireside.
 
 “Her ring,” he went on. “Will it come back to me? My mind hangs about
-her ring very uneasily to-night. But that is explainable. I have had it
-so long, and I have prized it so much! I wonder—”
+her ring very uneasily to-[[Night|night]]. But that is explainable. I have had it
+so long, and I have prized it so much! I [[Wonder|wonder]]—”
 
-He was in a wondering mood as well as a restless; for, though he
+He was in a wondering mood as [[Well|well]] as a restless; for, though he
 checked himself at that point, and took another walk, he resumed his
 wondering when he sat down again.
 
-“I wonder (for the ten-thousandth time, and what a weak fool I, for
+“I [[Wonder|wonder]] (for the ten-thousandth [[Time|time]], and what a weak [[Fool|fool]] I, for
 what can it signify now!) whether he confided the charge of their
-orphan child to me, because he knew—Good God, how like her mother she
+[[Orphan|orphan]] [[Child|child]] to me, because he knew—Good God, how like her mother she
 has become!”
 
-“I wonder whether he ever so much as suspected that some one doted on
+“I [[Wonder|wonder]] whether he ever so much as suspected that some one doted on
 her, at a hopeless, speechless distance, when he struck in and won her.
-I wonder whether it ever crept into his mind who that unfortunate some
+I [[Wonder|wonder]] whether it ever crept into his mind who that unfortunate some
 one was!”
 
-“I wonder whether I shall sleep to-night! At all events, I will shut
+“I [[Wonder|wonder]] whether I shall [[Sleep|sleep]] to-[[Night|night]]! At all events, I will shut
 out the world with the bedclothes, and try.”
 
 Mr. Grewgious crossed the staircase to his raw and foggy bedroom, and

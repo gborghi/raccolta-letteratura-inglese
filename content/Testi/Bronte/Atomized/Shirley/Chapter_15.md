@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 15"
+title: "[[Shirley]] — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,9 +24,9 @@ MR. DONNE'S EXODUS.
 
 
 
-The next day Shirley expressed to Caroline how delighted she felt that
+The next day [[Shirley]] expressed to Caroline how delighted she felt that
 
-the little party had gone off so well.
+the little party had gone off so [[Well|well]].
 
 
 
@@ -40,11 +40,11 @@ of no importance to us; but gentlemen seem to retain something of the
 
 _naïveté_ of children about food, and one likes to please them--that is,
 
-when they show the becoming, decent self-government of our admirable
+when they show the becoming, decent [[Self|self]]-[[government]] of our admirable
 
 rectors. I watch Moore sometimes, to try and discover how he can be
 
-pleased; but he has not that child's simplicity about him. Did you ever
+pleased; but he has not that [[Child|child]]'s simplicity about him. Did you ever
 
 find out his accessible point, Caroline? you have seen more of him than
 
@@ -60,7 +60,7 @@ Miss Keeldar's lead respecting the discussion of her cousin's character.
 
 Left to herself, she would never have touched on the subject; but when
 
-invited, the temptation of talking about him of whom she was ever
+invited, the [[Temptation|temptation]] of talking about him of whom she was ever
 
 thinking was irresistible. "But," she added, "I really don't know what
 
@@ -70,7 +70,7 @@ presently baffled by finding he was watching me."
 
 
 
-"There it is!" exclaimed Shirley. "You can't fix your eyes on him but
+"There it is!" exclaimed [[Shirley]]. "You can't fix your eyes on him but
 
 his presently flash on you. He is never off his guard. He won't give you
 
@@ -86,11 +86,11 @@ singularly. How does it affect you?"
 
 
 
-This question was a specimen of one of Shirley's sharp, sudden turns.
+This question was a specimen of one of [[Shirley]]'s sharp, sudden turns.
 
 Caroline used to be fluttered by them at first, but she had now got into
 
-the way of parrying these home-thrusts like a little Quakeress.
+the way of parrying these [[Home|home]]-thrusts like a little Quakeress.
 
 
 
@@ -98,9 +98,9 @@ the way of parrying these home-thrusts like a little Quakeress.
 
 
 
-"Here he comes!" suddenly exclaimed Shirley, breaking off, starting up
+"Here he comes!" suddenly exclaimed [[Shirley]], breaking off, starting up
 
-and running to the window. "Here comes a diversion. I never told you of
+and running to the [[Window|window]]. "Here comes a diversion. I never told you of
 
 a superb conquest I have made lately--made at those parties to which I
 
@@ -112,7 +112,7 @@ bell--and, by all that's delicious! there are two of them. Do they never
 
 hunt, then, except in couples? You may have one, Lina, and you may take
 
-your choice. I hope I am generous enough. Listen to Tartar!"
+your choice. I [[Hope|hope]] I am generous enough. Listen to Tartar!"
 
 
 
@@ -128,7 +128,7 @@ succeeded.
 
 
 
-"Listen!" again cried Shirley, laughing. "You would think that the
+"Listen!" again cried [[Shirley]], laughing. "You would think that the
 
 prelude to a bloody onslaught. They will be frightened. They don't know
 
@@ -154,7 +154,7 @@ there was a yell--a scutter--a run--a positive tumult.
 
 
 
-"He really is worrying them!" exclaimed Shirley. "They have struck him.
+"He really is worrying them!" exclaimed [[Shirley]]. "They have struck him.
 
 A blow is what he is not used to, and will not take."
 
@@ -164,13 +164,13 @@ Out she ran. A gentleman was fleeing up the oak staircase, making for
 
 refuge in the gallery or chambers in hot haste; another was backing fast
 
-to the stairfoot, wildly flourishing a knotty stick, at the same time
+to the stairfoot, wildly flourishing a knotty stick, at the same [[Time|time]]
 
 reiterating, "Down! down! down!" while the tawny dog bayed, bellowed,
 
 howled at him, and a group of servants came bundling from the kitchen.
 
-The dog made a spring; the second gentleman turned tail and rushed after
+The dog made a [[Spring|spring]]; the second gentleman turned tail and rushed after
 
 his comrade. The first was already safe in a bedroom; he held the door
 
@@ -192,7 +192,7 @@ She was caressing the said Tartar. He lay crouched at her feet, his fore
 
 paws stretched out, his tail still in threatening agitation, his
 
-nostrils snorting, his bulldog eyes conscious of a dull fire. He was an
+nostrils snorting, his bulldog eyes conscious of a dull [[Fire|fire]]. He was an
 
 honest, phlegmatic, stupid, but stubborn canine character. He loved his
 
@@ -204,7 +204,7 @@ with a stick, and that put a demon into him at once.
 
 
 
-"Mr. Malone, how do you do?" continued Shirley, lifting up her mirth-lit
+"Mr. Malone, how do you do?" continued [[Shirley]], lifting up her mirth-lit
 
 face to the gallery. "That is not the way to the oak parlour; that is
 
@@ -226,7 +226,7 @@ reassure him."
 
 
 
-"It appears you did. Well, come down, if you please.--John" (turning to
+"It appears you did. [[Well]], come down, if you please.--John" (turning to
 
 her manservant), "go upstairs and liberate Mr. Donne.--Take care, Mr.
 
@@ -234,7 +234,7 @@ Malone; the stairs are slippery."
 
 
 
-In truth they were, being of polished oak. The caution came a little
+In [[Truth|truth]] they were, being of polished oak. The caution came a little
 
 late for Malone. He had slipped already in his stately descent, and was
 
@@ -248,9 +248,9 @@ Tartar seemed to think the visitor's descent effected with unwarranted
 
 _éclat_, and accordingly he growled once more. Malone, however, was no
 
-coward. The spring of the dog had taken him by surprise, but he passed
+coward. The [[Spring|spring]] of the dog had taken him by surprise, but he passed
 
-him now in suppressed fury rather than fear. If a look could have
+him now in suppressed fury rather than [[Fear|fear]]. If a look could have
 
 strangled Tartar, he would have breathed no more. Forgetting politeness
 
@@ -264,21 +264,21 @@ been his wife, he would have made a glorious husband at the moment. In
 
 each hand he seemed as if he would have liked to clutch one and gripe
 
-her to death.
+her to [[Death|death]].
 
 
 
-However, Shirley took pity. She ceased to laugh; and Caroline was too
+However, [[Shirley]] took pity. She ceased to laugh; and Caroline was too
 
 true a lady to smile even at any one under mortification. Tartar was
 
-dismissed; Peter Augustus was soothed--for Shirley had looks and tones
+dismissed; Peter Augustus was soothed--for [[Shirley]] had looks and tones
 
 that might soothe a very bull. He had sense to feel that, since he could
 
 not challenge the owner of the dog, he had better be civil. And civil he
 
-tried to be; and his attempts being well received, he grew presently
+tried to be; and his attempts being [[Well|well]] received, he grew presently
 
 _very_ civil and quite himself again. He had come, indeed, for the
 
@@ -288,7 +288,7 @@ portents had met him on his first admission to Fieldhead; but that
 
 passage got over, charming and fascinating he resolved to be. Like
 
-March, having come in like a lion, he purposed to go out like a lamb.
+March, having come in like a [[Lion|lion]], he purposed to go out like a [[Lamb|lamb]].
 
 
 
@@ -336,7 +336,7 @@ he circled with the bandana and bound firmly together. It was evident
 
 he felt this device to be worth an encore; he repeated it more than
 
-once. The second performance sent Shirley to the window, to laugh her
+once. The second performance sent [[Shirley]] to the [[Window|window]], to laugh her
 
 silent but irrepressible laugh unseen; it turned Caroline's head aside,
 
@@ -364,7 +364,7 @@ management.
 
 
 
-From the length of time that elapsed, it appeared that John had some
+From the length of [[Time|time]] that elapsed, it appeared that John had some
 
 difficulty in persuading Mr. Donne to descend. At length, however, that
 
@@ -374,15 +374,15 @@ door, did he seem in the slightest degree ashamed or confused--not a
 
 whit. Donne, indeed, was of that coldly phlegmatic, immovably
 
-complacent, densely self-satisfied nature which is insensible to shame.
+complacent, densely [[Self|self]]-satisfied [[Nature|nature]] which is insensible to shame.
 
 He had never blushed in his life; no humiliation could abash him; his
 
 nerves were not capable of sensation enough to stir his life and make
 
-colour mount to his cheek; he had no fire in his blood and no modesty in
+colour mount to his cheek; he had no [[Fire|fire]] in his [[Blood|blood]] and no modesty in
 
-his soul; he was a frontless, arrogant, decorous slip of the
+his [[Soul|soul]]; he was a frontless, arrogant, decorous slip of the
 
 commonplace--conceited, inane, insipid; and this gentleman had a notion
 
@@ -394,9 +394,9 @@ a taste to be pleased, a heart to be reached in courtship. His notion
 
 was, when he should have formally visited her a few times, to write a
 
-letter proposing marriage. Then he calculated she would accept him for
+letter proposing [[Marriage|marriage]]. Then he calculated she would accept him for
 
-love of his office; then they would be married; then he should be master
+[[Love|love]] of his office; then they would be married; then he should be master
 
 of Fieldhead; and he should live very comfortably, have servants at his
 
@@ -406,11 +406,11 @@ have suspected his intentions when he addressed his intended bride in an
 
 impertinent, injured tone--"A very dangerous dog that, Miss Keeldar. I
 
-wonder you should keep such an animal."
+[[Wonder|wonder]] you should keep such an animal."
 
 
 
-"Do you, Mr. Donne? Perhaps you will wonder more when I tell you I am
+"Do you, Mr. Donne? Perhaps you will [[Wonder|wonder]] more when I tell you I am
 
 very fond of him."
 
@@ -428,7 +428,7 @@ fond of that brute--'tis so ugly--a mere carter's dog. Pray hang him."
 
 "And purchase in his stead some sweetly pooty pug or poodle--something
 
-appropriate to the fair sex. Ladies generally like lap-dogs."
+appropriate to the fair sex. Ladies generally like lap-[[dogs]]."
 
 
 
@@ -442,21 +442,21 @@ is universally allowed."
 
 
 
-"Tartar frightened you terribly, Mr. Donne. I hope you won't take any
+"Tartar frightened you terribly, Mr. Donne. I [[Hope|hope]] you won't take any
 
 harm."
 
 
 
-"That I shall, no doubt. He gave me a turn I shall not soon forget. When
+"That I shall, no [[Doubt|doubt]]. He gave me a turn I shall not soon forget. When
 
-I _sor_ him" (such was Mr. Donne's pronunciation) "about to spring, I
+I _sor_ him" (such was Mr. Donne's pronunciation) "about to [[Spring|spring]], I
 
 thought I should have fainted."
 
 
 
-"Perhaps you did faint in the bedroom; you were a long time there."
+"Perhaps you did faint in the bedroom; you were a long [[Time|time]] there."
 
 
 
@@ -482,9 +482,9 @@ is that? I declare the man has told a falsehood! The dog is there!"
 
 
 
-And indeed Tartar walked past the glass door opening to the garden,
+And indeed Tartar walked past the glass door opening to the [[Garden|garden]],
 
-stiff, tawny, and black-muzzled as ever. He still seemed in bad humour.
+stiff, tawny, and black-muzzled as ever. He still seemed in bad [[Humour|humour]].
 
 He was growling again, and whistling a half-strangled whistle, being an
 
@@ -492,11 +492,11 @@ inheritance from the bulldog side of his ancestry.
 
 
 
-"There are other visitors coming," observed Shirley, with that provoking
+"There are other visitors coming," observed [[Shirley]], with that provoking
 
-coolness which the owners of formidable-looking dogs are apt to show
+coolness which the owners of formidable-looking [[dogs]] are apt to show
 
-while their animals are all bristle and bay. Tartar sprang down the
+while their [[Animals|animals]] are all bristle and bay. Tartar sprang down the
 
 pavement towards the gate, bellowing _avec explosion_. His mistress
 
@@ -514,13 +514,13 @@ know us? Good-morning, old boy!"
 
 
 
-And little Mr. Sweeting, whose conscious good nature made him
+And little Mr. Sweeting, whose conscious good [[Nature|nature]] made him
 
-comparatively fearless of man, woman, child, or brute, came through the
+comparatively fearless of man, woman, [[Child|child]], or brute, came through the
 
 gate, caressing the guardian. His vicar, Mr. Hall, followed. He had no
 
-fear of Tartar either, and Tartar had no ill-will to him. He snuffed
+[[Fear|fear]] of Tartar either, and Tartar had no ill-will to him. He snuffed
 
 both the gentlemen round, and then, as if concluding that they were
 
@@ -536,7 +536,7 @@ showed himself obstinately insensible.
 
 
 
-Shirley advanced to meet Messrs. Hall and Sweeting, shaking hands with
+[[Shirley]] advanced to meet Messrs. Hall and Sweeting, shaking hands with
 
 them cordially. They were come to tell her of certain successes they had
 
@@ -554,7 +554,7 @@ the aspect of a smiling Melanchthon.
 
 
 
-Instead of re-entering the house, they strayed through the garden, the
+Instead of re-entering the [[house]], they strayed through the [[Garden|garden]], the
 
 ladies walking one on each side of Mr. Hall. It was a breezy sunny day;
 
@@ -564,19 +564,19 @@ ringlets. Both of them looked pretty--one gay. Mr. Hall spoke oftenest
 
 to his brilliant companion, looked most frequently at the quiet one.
 
-Miss Keeldar gathered handfuls of the profusely blooming flowers whose
+Miss Keeldar gathered handfuls of the profusely blooming [[Flowers|flowers]] whose
 
 perfume filled the enclosure. She gave some to Caroline, telling her to
 
 choose a nosegay for Mr. Hall; and with her lap filled with delicate and
 
-splendid blossoms, Caroline sat down on the steps of a summer-house. The
+splendid blossoms, Caroline sat down on the steps of a [[Summer|summer]]-[[house]]. The
 
 vicar stood near her, leaning on his cane.
 
 
 
-Shirley, who could not be inhospitable, now called out the neglected
+[[Shirley]], who could not be inhospitable, now called out the neglected
 
 pair in the oak parlour. She convoyed Donne past his dread enemy Tartar,
 
@@ -586,7 +586,7 @@ Donne was not grateful--he never _was_ grateful for kindness and
 
 attention--but he was glad of the safeguard. Miss Keeldar, desirous of
 
-being impartial, offered the curates flowers. They accepted them with
+being impartial, offered the curates [[Flowers|flowers]]. They accepted them with
 
 native awkwardness. Malone seemed specially at a loss, when a bouquet
 
@@ -598,7 +598,7 @@ implying that he considered this offering a homage to his merits, and an
 
 attempt on the part of the heiress to ingratiate herself into his
 
-priceless affections. Sweeting alone received the posy like a smart,
+priceless affections. Sweeting [[Alone|alone]] received the posy like a smart,
 
 sensible little man, as he was, putting it gallantly and nattily into
 
@@ -612,11 +612,11 @@ gave him some commission, which made his eyes sparkle with glee. Away he
 
 flew, round by the courtyard to the kitchen. No need to give him
 
-directions; he was always at home everywhere. Ere long he reappeared,
+directions; he was always at [[Home|home]] everywhere. Ere long he reappeared,
 
 carrying a round table, which he placed under the cedar; then he
 
-collected six garden-chairs from various nooks and bowers in the
+collected six [[Garden|garden]]-chairs from various nooks and bowers in the
 
 grounds, and placed them in a circle. The parlour-maid--Miss Keeldar
 
@@ -630,7 +630,7 @@ chicken, ham, and tarts.
 
 
 
-This sort of impromptu regale it was Shirley's delight to offer any
+This sort of impromptu regale it was [[Shirley]]'s delight to offer any
 
 chance guests; and nothing pleased her better than to have an alert,
 
@@ -652,17 +652,17 @@ contributed but little to its vivacity, the chief part they played in it
 
 being what concerned the knife, fork, and wine-glass; but where four
 
-such natures as Mr. Hall, David Sweeting, Shirley, and Caroline were
+such natures as Mr. Hall, David Sweeting, [[Shirley]], and Caroline were
 
 assembled in health and amity, on a green lawn, under a sunny sky,
 
-amidst a wilderness of flowers, there could not be ungenial dullness.
+amidst a wilderness of [[Flowers|flowers]], there could not be ungenial dullness.
 
 
 
 In the course of conversation Mr. Hall reminded the ladies that
 
-Whitsuntide was approaching, when the grand united Sunday-school
+Whitsuntide was approaching, when the grand united [[Sunday]]-school
 
 tea-drinking and procession of the three parishes of Briarfield,
 
@@ -672,7 +672,7 @@ her post as teacher, he said, and he hoped Miss Keeldar would not be
 
 wanting. He hoped she would make her first public appearance amongst
 
-them at that time. Shirley was not the person to miss an occasion of
+them at that [[Time|time]]. [[Shirley]] was not the person to miss an occasion of
 
 this sort. She liked festive excitement, a gathering of happiness, a
 
@@ -694,15 +694,15 @@ near me, Mr. Hall?"
 
 "I shall not fail, _Deo volente_," said he.--"I have occupied the place
 
-on her right hand at these monster tea-drinkings for the last six
+on her right hand at these [[Monster|monster]] tea-drinkings for the last six
 
 years," he proceeded, turning to Miss Keeldar. "They made her a
 
-Sunday-school teacher when she was a little girl of twelve. She is not
+[[Sunday]]-school teacher when she was a little girl of twelve. She is not
 
-particularly self-confident by nature, as you may have observed; and the
+particularly [[Self|self]]-confident by [[Nature|nature]], as you may have observed; and the
 
-first time she had to 'take a tray,' as the phrase is, and make tea in
+first [[Time|time]] she had to 'take a tray,' as the phrase is, and make tea in
 
 public, there was some piteous trembling and flushing. I observed the
 
@@ -720,7 +720,7 @@ the tea for her like any old woman."
 
 
 
-"You were. You told me so with an earnest sincerity that repaid me well,
+"You were. You told me so with an earnest sincerity that repaid me [[Well|well]],
 
 inasmuch as it was not like the majority of little ladies of twelve,
 
@@ -766,11 +766,11 @@ single, like your sister Margaret, Mr. Hall."
 
 
 
-"Very well. You might do worse. Margaret is not unhappy. She has her
+"Very [[Well|well]]. You might do worse. Margaret is not unhappy. She has her
 
 books for a pleasure, and her brother for a care, and is content. If
 
-ever you want a home, if the day should come when Briarfield rectory is
+ever you want a [[Home|home]], if the day should come when Briarfield rectory is
 
 yours no longer, come to Nunnely vicarage. Should the old maid and
 
@@ -778,7 +778,7 @@ bachelor be still living, they will make you tenderly welcome."
 
 
 
-"There are your flowers. Now," said Caroline, who had kept the nosegay
+"There are your [[Flowers|flowers]]. Now," said Caroline, who had kept the nosegay
 
 she had selected for him till this moment, "_you_ don't care for a
 
@@ -794,7 +794,7 @@ three of the blue blossoms and put them in my souvenir."
 
 And she took out a small book with enamelled cover and silver clasp,
 
-wherein, having opened it, she inserted the flowers, writing round them
+wherein, having opened it, she inserted the [[Flowers|flowers]], writing round them
 
 in pencil, "To be kept for the sake of the Rev. Cyril Hall, my friend.
 
@@ -804,7 +804,7 @@ May --, 18--."
 
 The Rev. Cyril Hall, on his part, also placed a sprig in safety between
 
-the leaves of a pocket Testament. He only wrote on the margin,
+the [[Leaves|leaves]] of a pocket Testament. He only wrote on the margin,
 
 "Caroline."
 
@@ -816,7 +816,7 @@ he continued (the curates, by-the-bye, during this conversation, were
 
 too much occupied with their own jokes to notice what passed at the
 
-other end of the table), "I hope you are laughing at this trait of
+other end of the table), "I [[Hope|hope]] you are laughing at this trait of
 
 '_exaltation_' in the old gray-headed vicar; but the fact is, I am so
 
@@ -824,7 +824,7 @@ used to comply with the requests of this young friend of yours, I don't
 
 know how to refuse her when she tells me to do anything. You would say
 
-it is not much in my way to traffic with flowers and forget-me-nots;
+it is not much in my way to traffic with [[Flowers|flowers]] and forget-me-nots;
 
 but, you see, when requested to be sentimental, I am obedient."
 
@@ -840,25 +840,25 @@ me so, and I know what pleases him."
 
 pleasures. May God long preserve to you the blessings of peace and
 
-innocence! By which phrase I mean _comparative_ innocence; for in His
+[[innocence]]! By which phrase I mean _comparative_ [[innocence]]; for in His
 
-sight, I am well aware, _none_ are pure. What to our human perceptions
+sight, I am [[Well|well]] aware, _none_ are pure. What to our human perceptions
 
 looks spotless as we fancy angels, is to Him but frailty, needing the
 
-blood of His Son to cleanse, and the strength of His Spirit to sustain.
+[[Blood|blood]] of His Son to cleanse, and the strength of His Spirit to sustain.
 
-Let us each and all cherish humility--I, as you, my young friends; and
+Let us each and all cherish [[Humility|humility]]--I, as you, my young friends; and
 
-we may well do it when we look into our own hearts, and see there
+we may [[Well|well]] do it when we look into our own hearts, and see there
 
 temptations, inconsistencies, propensities, even we blush to recognize.
 
 And it is not youth, nor good looks, nor grace, nor any gentle outside
 
-charm which makes either beauty or goodness in God's eyes.--Young
+charm which makes either [[Beauty|beauty]] or goodness in God's eyes.--Young
 
-ladies, when your mirror or men's tongues flatter you, remember that, in
+ladies, when your [[Mirror|mirror]] or men's tongues flatter you, remember that, in
 
 the sight of her Maker, Mary Ann Ainley--a woman whom neither glass nor
 
@@ -866,7 +866,7 @@ lips have ever panegyrized--is fairer and better than either of you. She
 
 is indeed," he added, after a pause--"she is indeed. You young things,
 
-wrapt up in yourselves and in earthly hopes, scarcely live as Christ
+wrapt up in yourselves and in earthly hopes, scarcely live as [[Christ]]
 
 lived. Perhaps you cannot do it yet, while existence is so sweet and
 
@@ -886,13 +886,13 @@ please."
 
 
 
-"Well," said Shirley nonchalantly, "what is it? I listen. All of me is
+"[[Well]]," said [[Shirley]] nonchalantly, "what is it? I listen. All of me is
 
 ear that is not eye."
 
 
 
-"I hope part of you is hand also," returned Donne, in his vulgarly
+"I [[Hope|hope]] part of you is hand also," returned Donne, in his vulgarly
 
 presumptuous and familiar style, "and part purse. It is to the hand and
 
@@ -908,7 +908,7 @@ of you----"
 
 "To beg of you a subscription to a school. I and Dr. Boultby intend to
 
-erect one in the hamlet of Ecclefigg, which is under our vicarage of
+erect one in the [[Hamlet|hamlet]] of Ecclefigg, which is under our vicarage of
 
 Whinbury. The Baptists have got possession of it. They have a chapel
 
@@ -924,7 +924,7 @@ there, and we want to dispute the ground."
 
 
 
-"Admirable creature!" muttered Shirley, under her breath. "Exquisite
+"Admirable creature!" muttered [[Shirley]], under her breath. "Exquisite
 
 address! Fine style! What raptures he excites in me!" Then aloud, "I am
 
@@ -950,13 +950,13 @@ Ecclefigg are a parcel of brutes; we want to civilize them."
 
 
 
-"I hope not--I expect success; but we must have money. There is the
+"I [[Hope|hope]] not--I expect [[success]]; but we must have money. There is the
 
 paper. Pray give a handsome sum."
 
 
 
-When asked for money, Shirley rarely held back. She put down her name
+When asked for money, [[Shirley]] rarely held back. She put down her name
 
 for £5. After the £300 she had lately given, and the many smaller sums
 
@@ -992,7 +992,7 @@ ashamed to give five pounds for a public object."
 
 
 
-Shirley, so rarely haughty, looked so now. Her slight frame became
+[[Shirley]], so rarely haughty, looked so now. Her slight frame became
 
 nerved; her distinguished face quickened with scorn.
 
@@ -1036,7 +1036,7 @@ the south."
 
 
 
-Shirley leaned forwards on the table, her nostrils dilating a little,
+[[Shirley]] leaned forwards on the table, her nostrils dilating a little,
 
 her taper fingers interlaced and compressing each other hard.
 
@@ -1058,7 +1058,7 @@ propa carriage or a reg'la butla is kep; and as to the poor--just look
 
 at them when they come crowding about the church doors on the occasion
 
-of a marriage or a funeral, clattering in clogs; the men in their
+of a [[Marriage|marriage]] or a funeral, clattering in clogs; the men in their
 
 shirt-sleeves and wool-combers' aprons, the women in mob-caps and
 
@@ -1068,19 +1068,19 @@ amongst them to rout their rabble-ranks. He-he! what fun it would be!"
 
 
 
-"There! you have reached the climax," said Shirley quietly. "You have
+"There! you have reached the climax," said [[Shirley]] quietly. "You have
 
 reached the climax," she repeated, turning her glowing glance towards
 
 him. "You cannot go beyond it, and," she added with emphasis, "you
 
-_shall_ not, in my house."
+_shall_ not, in my [[house]]."
 
 
 
-Up she rose--nobody could control her now, for she was
+Up she [[Rose|rose]]--nobody could control her now, for she was
 
-exasperated--straight she walked to her garden gates, wide she flung
+exasperated--straight she walked to her [[Garden|garden]] gates, wide she flung
 
 them open.
 
@@ -1092,7 +1092,7 @@ this pavement no more."
 
 
 
-Donne was astounded. He had thought all the time he was showing himself
+Donne was astounded. He had thought all the [[Time|time]] he was showing himself
 
 off to high advantage, as a lofty-souled person of the first "ton;" he
 
@@ -1102,13 +1102,13 @@ disdain of everything in Yorkshire? What more conclusive proof could be
 
 given that he was better than anything there? And yet here was he about
 
-to be turned like a dog out of a Yorkshire garden! Where, under such
+to be turned like a dog out of a Yorkshire [[Garden|garden]]! Where, under such
 
 circumstances, was the "concatenation accordingly"?
 
 
 
-"Rid me of you instantly--instantly!" reiterated Shirley, as he
+"Rid me of you instantly--instantly!" reiterated [[Shirley]], as he
 
 lingered.
 

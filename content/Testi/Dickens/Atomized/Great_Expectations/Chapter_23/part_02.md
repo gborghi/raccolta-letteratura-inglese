@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 23 (part 2)"
+title: "[[Great Expectations]] — Chapter 23 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -25,30 +25,30 @@ cry.
 
 “Yes, ma’am,” I said again, with the same object as before.
 
-“—That it _is_ hard,” said Mrs. Coiler, “to have dear Mr. Pocket’s time
+“—That it _is_ hard,” said Mrs. Coiler, “to have dear Mr. Pocket’s [[Time|time]]
 and attention diverted from dear Mrs. Pocket.”
 
-I could not help thinking that it might be harder if the butcher’s time
+I could not help thinking that it might be harder if the butcher’s [[Time|time]]
 and attention were diverted from dear Mrs. Pocket; but I said nothing,
 and indeed had enough to do in keeping a bashful watch upon my company
 manners.
 
 It came to my knowledge, through what passed between Mrs. Pocket and
 Drummle while I was attentive to my knife and fork, spoon, glasses, and
-other instruments of self-destruction, that Drummle, whose Christian
+other instruments of [[Self|self]]-destruction, that Drummle, whose Christian
 name was Bentley, was actually the next heir but one to a baronetcy. It
 further appeared that the book I had seen Mrs. Pocket reading in the
-garden was all about titles, and that she knew the exact date at which
+[[Garden|garden]] was all about titles, and that she knew the exact date at which
 her grandpapa would have come into the book, if he ever had come at
 all. Drummle didn’t say much, but in his limited way (he struck me as a
 sulky kind of fellow) he spoke as one of the elect, and recognised Mrs.
 Pocket as a woman and a sister. No one but themselves and Mrs. Coiler
 the toady neighbour showed any interest in this part of the
 conversation, and it appeared to me that it was painful to Herbert; but
-it promised to last a long time, when the page came in with the
+it promised to last a long [[Time|time]], when the page came in with the
 announcement of a domestic affliction. It was, in effect, that the cook
 had mislaid the beef. To my unutterable amazement, I now, for the first
-time, saw Mr. Pocket relieve his mind by going through a performance
+[[Time|time]], saw Mr. Pocket relieve his mind by going through a performance
 that struck me as very extraordinary, but which made no impression on
 anybody else, and with which I soon became as familiar as the rest. He
 laid down the carving-knife and fork,—being engaged in carving, at the
@@ -85,7 +85,7 @@ the table; which was announced to all present by a prodigious
 concussion.
 
 “Dear, dear! Give it me back, Mum,” said Flopson; “and Miss Jane, come
-and dance to baby, do!”
+and [[Dance|dance]] to baby, do!”
 
 One of the little girls, a mere mite who seemed to have prematurely
 taken upon herself some charge of the others, stepped out of her place
@@ -96,7 +96,7 @@ and we all laughed and were glad.
 
 Flopson, by dint of doubling the baby at the joints like a Dutch doll,
 then got it safely into Mrs. Pocket’s lap, and gave it the nut-crackers
-to play with; at the same time recommending Mrs. Pocket to take notice
+to play with; at the same [[Time|time]] recommending Mrs. Pocket to take notice
 that the handles of that instrument were not likely to agree with its
 eyes, and sharply charging Miss Jane to look after the same. Then, the
 two nurses left the room, and had a lively scuffle on the staircase
@@ -110,9 +110,9 @@ baby on her lap, who did most appalling things with the nut-crackers.
 At length little Jane, perceiving its young brains to be imperilled,
 softly left her place, and with many small artifices coaxed the
 dangerous weapon away. Mrs. Pocket finishing her orange at about the
-same time, and not approving of this, said to Jane,—
+same [[Time|time]], and not approving of this, said to Jane,—
 
-“You naughty child, how dare you? Go and sit down this instant!”
+“You naughty [[Child|child]], how dare you? Go and sit down this instant!”
 
 “Mamma dear,” lisped the little girl, “baby ood have put hith eyeth
 out.”

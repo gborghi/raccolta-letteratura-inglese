@@ -18,20 +18,20 @@ And there, with his noble friend and relative Lord Decimus, was
 William Barnacle, who had made the ever-famous coalition with Tudor
 Stiltstalking, and who always kept ready his own particular recipe for
 How not to do it; sometimes tapping the Speaker, and drawing it fresh
-out of him, with a ‘First, I will beg you, sir, to inform the House what
+out of him, with a ‘First, I will beg you, sir, to inform the [[house|House]] what
 Precedent we have for the course into which the honourable gentleman
 would precipitate us;’ sometimes asking the honourable gentleman to
 favour him with his own version of the Precedent; sometimes telling
 the honourable gentleman that he (William Barnacle) would search for a
 Precedent; and oftentimes crushing the honourable gentleman flat on
 the spot by telling him there was no Precedent. But Precedent and
-Precipitate were, under all circumstances, the well-matched pair of
+Precipitate were, under all circumstances, the [[Well|well]]-matched pair of
 battle-horses of this able Circumlocutionist. No matter that the unhappy
 honourable gentleman had been trying in vain, for twenty-five years, to
 precipitate William Barnacle into this--William Barnacle still put it to
-the House, and (at second-hand or so) to the country, whether he was to
+the [[house|House]], and (at second-hand or so) to the country, whether he was to
 be precipitated into this. No matter that it was utterly irreconcilable
-with the nature of things and course of events that the wretched
+with the [[Nature|nature]] of things and course of events that the wretched
 honourable gentleman could possibly produce a Precedent for
 this--William Barnacle would nevertheless thank the honourable gentleman
 for that ironical cheer, and would close with him upon that issue, and
@@ -45,7 +45,7 @@ people.
 And there, too, was another Barnacle, a lively one, who had leaped
 through twenty places in quick succession, and was always in two or
 three at once, and who was the much-respected inventor of an art
-which he practised with great success and admiration in all Barnacle
+which he practised with great [[success]] and admiration in all Barnacle
 Governments. This was, when he was asked a Parliamentary question on
 any one topic, to return an answer on any other. It had done immense
 service, and brought him into high esteem with the Circumlocution
@@ -59,13 +59,13 @@ or not to make houses; and they did all their hearing, and ohing, and
 cheering, and barking, under directions from the heads of the family;
 and they put dummy motions on the paper in the way of other men’s
 motions; and they stalled disagreeable subjects off until late in the
-night and late in the session, and then with virtuous patriotism cried
+[[Night|night]] and late in the session, and then with virtuous patriotism cried
 out that it was too late; and they went down into the country, whenever
 they were sent, and swore that Lord Decimus had revived trade from a
 swoon, and commerce from a fit, and had doubled the harvest of corn,
 quadrupled the harvest of hay, and prevented no end of gold from flying
 out of the Bank. Also these Barnacles were dealt, by the heads of the
-family, like so many cards below the court-cards, to public meetings and
+family, like so many cards below the [[Court|court]]-cards, to public meetings and
 dinners; where they bore testimony to all sorts of services on the part
 of their noble and honourable relatives, and buttered the Barnacles on
 all sorts of toasts. And they stood, under similar orders, at all sorts
@@ -80,7 +80,7 @@ applicants for such places, the names of some or of every one of these
 hungry and adhesive Barnacles were down.
 
 It was necessarily but a sprinkling of any class of Barnacles that
-attended the marriage, for there were not two score in all, and what
+attended the [[Marriage|marriage]], for there were not two score in all, and what
 is that subtracted from Legion! But the sprinkling was a swarm in the
 Twickenham cottage, and filled it. A Barnacle (assisted by a Barnacle)
 married the happy pair, and it behoved Lord Decimus Tite Barnacle
@@ -90,20 +90,20 @@ The entertainment was not as agreeable and natural as it might have
 been. Mr Meagles, hove down by his good company while he highly
 appreciated it, was not himself. Mrs Gowan was herself, and that did not
 improve him. The fiction that it was not Mr Meagles who had stood in the
-way, but that it was the Family greatness, and that the Family greatness
+way, but that it was the Family [[Greatness|greatness]], and that the Family [[Greatness|greatness]]
 had made a concession, and there was now a soothing unanimity, pervaded
 the affair, though it was never openly expressed. Then the Barnacles
 felt that they for their parts would have done with the Meagleses when
 the present patronising occasion was over; and the Meagleses felt the
 same for their parts. Then Gowan asserting his rights as a disappointed
 man who had his grudge against the family, and who, perhaps, had allowed
-his mother to have them there, as much in the hope it might give them
+his mother to have them there, as much in the [[Hope|hope]] it might give them
 some annoyance as with any other benevolent object, aired his pencil and
-his poverty ostentatiously before them, and told them he hoped in time
-to settle a crust of bread and cheese on his wife, and that he begged
+his [[Poverty|poverty]] ostentatiously before them, and told them he hoped in [[Time|time]]
+to settle a crust of bread and [[cheese]] on his wife, and that he begged
 such of them as (more fortunate than himself) came in for any good
 thing, and could buy a picture, to please to remember the poor painter.
-Then Lord Decimus, who was a wonder on his own Parliamentary pedestal,
+Then Lord Decimus, who was a [[Wonder|wonder]] on his own Parliamentary pedestal,
 turned out to be the windiest creature here: proposing happiness to the
 bride and bridegroom in a series of platitudes that would have made the
 hair of any sincere disciple and believer stand on end; and trotting,
@@ -150,16 +150,16 @@ sacrifice for Mr and Mrs Meagles’s good, which they always conveyed to
 Mr John Bull in their official condescension to that most unfortunate
 creature.
 
-A miserable blank remained in the house and in the hearts of the father
+A miserable blank remained in the [[house]] and in the hearts of the father
 and mother and Clennam. Mr Meagles called only one remembrance to his
 aid, that really did him good.
 
-‘It’s very gratifying, Arthur,’ he said, ‘after all, to look back upon.’
+‘It’s very gratifying, [[arthur|Arthur]],’ he said, ‘after all, to look back upon.’
 
 ‘The past?’ said Clennam.
 
 ‘Yes--but I mean the company.’
 
-It had made him much more low and unhappy at the time, but now it really
+It had made him much more low and unhappy at the [[Time|time]], but now it really
 did him good. ‘It’s very gratifying,’ he said, often repeating the
 remark in the course of the evening. ‘Such high company!’

@@ -1,5 +1,5 @@
 ---
-title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 7)"
+title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 'Professor,' cried Fenner, 'I'd swear on my deathbed that door never
 opened.'
 
-'Recent experiments,' went on the professor, quietly, 'have suggested
+'Recent experiments,' went on [[The Professor|the professor]], quietly, 'have suggested
 that our consciousness is not continuous, but is a succession of very
 rapid impressions like a cinema; it is possible that somebody or
 something may, so to speak, slip in or out between the scenes. It acts
@@ -36,8 +36,8 @@ the bench, but I guess he didn't distract us much.'
 
 'You never know how much,' replied Vair; 'it might have been that or
 more likely your eyes following some gesture of the priest as he told
-his tale of magic. It was in one of those black flashes that Mr Warren
-Wynd slipped out of his door and went to his death. That is the most
+his tale of [[Magic|magic]]. It was in one of those black flashes that Mr Warren
+Wynd slipped out of his door and went to his [[Death|death]]. That is the most
 probable explanation. It is an illustration of the new discovery. The
 mind is not a continuous line, but rather a dotted line.'
 
@@ -53,7 +53,7 @@ a miracle, as disbelieve in any man having any right to believe in a
 fact. The priest tells me that a man can appeal to a God I know nothing
 about to avenge him by the laws of some higher justice that I know
 nothing about. There's nothing for me to say except that I know nothing
-about it. But, at least, if the poor Paddy's prayer and pistol could be
+about it. But, at least, if the poor Paddy's [[prayer]] and [[Pistol|pistol]] could be
 heard in a higher world, that higher world might act in some way that
 seems odd to us. But you ask me to disbelieve the facts of this world as
 they appear to my own five wits. According to you, a whole procession of
@@ -63,7 +63,7 @@ in our minds. Miracles of the monkish sort, like materializing a
 crocodile or hanging a cloak on a sunbeam, seem quite sane compared to
 you.'
 
-'Oh, well,' said Professor Vair, rather curtly, 'if you are resolved to
+'Oh, [[Well|well]],' said Professor Vair, rather curtly, 'if you are resolved to
 believe in your priest and his miraculous Irishman I can say no more.
 I'm afraid you have not had an opportunity of studying psychology.'
 
@@ -77,7 +77,7 @@ explosively.
 'Raving lunatics!' cried Fenner in a fume. 'What the devil do they think
 is to happen to the world if nobody knows whether he's seen anything or
 not? I wish I'd blown his silly head off with a blank charge, and then
-explained that I did it in a blind flash. Father Brown's miracle may be
+explained that I did it in a blind flash. [[Father Brown]]'s miracle may be
 miraculous or no, but he said it would happen and it did happen. All
 these blasted cranks can do is to see a thing happen and then say it
 didn't. Look here, I think we owe it to the padre to testify to his
@@ -87,24 +87,24 @@ as he said it would.'
 
 'I quite agree,' said the millionaire. 'It may be the beginning of
 mighty big things in the spiritual line; but anyhow, the man who's in
-the spiritual line himself, Father Brown, has certainly scored over this
+the spiritual line himself, [[Father Brown]], has certainly scored over this
 business.'
 
-A few days afterwards Father Brown received a very polite note signed
+A few days afterwards [[Father Brown]] received a very polite note signed
 Silas T. Vandam, and asking him if he would attend at a stated hour at
 the apartment which was the scene of the disappearance, in order to take
 steps for the establishment of that marvellous occurrence. The
 occurrence itself had already begun to break out in the newspapers, and
 was being taken up everywhere by the enthusiasts of occultism. Father
-Brown saw the flaring posters inscribed 'Suicide of Vanishing Man', and
-'Man's Curse Hangs Philanthropist', as he passed towards Moon Crescent
+Brown saw the flaring posters inscribed '[[suicide|Suicide]] of Vanishing Man', and
+'Man's Curse Hangs Philanthropist', as he passed towards [[Moon]] Crescent
 and mounted the steps on the way to the elevator. He found the little
 group much as he left it, Vandam, Alboin, and the secretary; but there
 was an entirely new respectfulness and even reverence in their tone
 towards himself. They were standing by Wynd's desk, on which lay a large
 paper and writing materials; they turned to greet him.
 
-'Father Brown,' said the spokesman, who was the white - haired
+'[[Father Brown]],' said the spokesman, who was the white - haired
 Westerner, somewhat sobered with his responsibility, 'we asked you here
 in the first place to offer our apologies and our thanks. We recognize
 that it was you that spotted the spiritual manifestation from the first.
@@ -117,7 +117,7 @@ notifying the exact facts to the Psychical Research Society, because the
 newspaper accounts are not what you might call exact. We've stated how
 the curse was spoken out in the street; how the man was sealed up here
 in a room like a box; how the curse dissolved him straight into thin
-air, and in some unthinkable way materialized him as a suicide hoisted
+air, and in some unthinkable way materialized him as a [[suicide]] hoisted
 on a gallows. That's all we can say about it; but all that we know, and
 have seen with our own eyes. And as you were the first to believe in the
 miracle, we all feel that you ought to be the first to sign.'

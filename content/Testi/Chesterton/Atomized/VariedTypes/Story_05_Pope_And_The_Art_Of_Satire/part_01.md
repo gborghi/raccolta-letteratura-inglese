@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Pope And The Art Of Satire (part 1)"
+title: "[[VariedTypes]] — Pope And The Art Of [[Satire]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-POPE AND THE ART OF SATIRE
+POPE AND THE ART OF [[Satire|SATIRE]]
 
 
 
@@ -30,9 +30,9 @@ goes, one may justifiably answer by asking anyone to try. It may be
 
 easier really to have wit, than really, in the boldest and most enduring
 
-sense, to have imagination. But it is immeasurably easier to pretend to
+sense, to have [[Imagination|imagination]]. But it is immeasurably easier to pretend to
 
-have imagination than to pretend to have wit. A man may indulge in a
+have [[Imagination|imagination]] than to pretend to have wit. A man may indulge in a
 
 sham rhapsody, because it may be the triumph of a rhapsody to be
 
@@ -52,9 +52,9 @@ liberty of wisdom used by the minority of great geniuses, neither did it
 
 permit of the great liberty of folly which is used by the majority of
 
-small writers. A prophet could not be a poet in those days, perhaps, but
+small writers. A [[Prophet|prophet]] could not be a poet in those days, perhaps, but
 
-at least a fool could not be a poet. If we take, for the sake of
+at least a [[Fool|fool]] could not be a poet. If we take, for the sake of
 
 example, such a line as Pope's:
 
@@ -70,7 +70,7 @@ such a line, perhaps. But a minor poet could not.
 
 
 
-Supposing that a lyric poet of the new school really had to deal with
+Supposing that a [[Lyric|lyric]] poet of the new school really had to deal with
 
 such an idea as that expressed in Pope's line about Man:
 
@@ -82,7 +82,7 @@ such an idea as that expressed in Pope's line about Man:
 
 Is it really so certain that he would go deeper into the matter than
 
-that old antithetical jingle goes? I venture to doubt whether he would
+that old antithetical jingle goes? I venture to [[Doubt|doubt]] whether he would
 
 really be any wiser or weirder or more imaginative or more profound.
 
@@ -126,11 +126,11 @@ Have we really learnt to think more broadly? Or have we only learnt to
 
 spread our thoughts thinner? I have a dark suspicion that a modern poet
 
-might manufacture an admirable lyric out of almost every line of Pope.
+might manufacture an admirable [[Lyric|lyric]] out of almost every line of Pope.
 
 
 
-There is, of course, an idea in our time that the very antithesis of the
+There is, of course, an idea in our [[Time|time]] that the very antithesis of the
 
 typical line of Pope is a mark of artificiality. I shall have occasion
 
@@ -138,7 +138,7 @@ more than once to point out that nothing in the world has ever been
 
 artificial. But certainly antithesis is not artificial. An element of
 
-paradox runs through the whole of existence itself. It begins in the
+[[Paradox|paradox]] runs through the whole of existence itself. It begins in the
 
 realm of ultimate physics and metaphysics, in the two facts that we
 
@@ -146,15 +146,15 @@ cannot imagine a space that is infinite, and that we cannot imagine a
 
 space that is finite. It runs through the inmost complications of
 
-divinity, in that we cannot conceive that Christ in the wilderness was
+divinity, in that we cannot conceive that [[Christ]] in the wilderness was
 
 truly pure, unless we also conceive that he desired to sin. It runs, in
 
 the same manner, through all the minor matters of morals, so that we
 
-cannot imagine courage existing except in conjunction with fear, or
+cannot imagine [[Courage|courage]] existing except in conjunction with [[Fear|fear]], or
 
-magnanimity existing except in conjunction with some temptation to
+magnanimity existing except in conjunction with some [[Temptation|temptation]] to
 
 meanness. If Pope and his followers caught this echo of natural
 
@@ -176,17 +176,17 @@ But to Pope civilisation was still an exciting experiment. Its perruques
 
 and ruffles were to him what feathers and bangles are to a South Sea
 
-Islander--the real romance of civilisation. And in all the forms of art
+Islander--the real [[Romance|romance]] of civilisation. And in all the forms of art
 
 which peculiarly belong to civilisation, he was supreme. In one
 
-especially he was supreme--the great and civilised art of satire. And in
+especially he was supreme--the great and civilised art of [[Satire|satire]]. And in
 
 this we have fallen away utterly.
 
 
 
-We have had a great revival in our time of the cult of violence and
+We have had a great revival in our [[Time|time]] of the cult of violence and
 
 hostility. Mr. Henley and his young men have an infinite number of
 
@@ -196,9 +196,9 @@ It is not a placid or untroubled position to be Mr. Henley's enemy,
 
 though we know that it is certainly safer than to be his friend. And
 
-yet, despite all this, these people produce no satire. Political and
+yet, despite all this, these people produce no [[Satire|satire]]. Political and
 
-social satire is a lost art, like pottery and stained glass. It may be
+social [[Satire|satire]] is a lost art, like pottery and stained glass. It may be
 
 worth while to make some attempt to point out a reason for this.
 
@@ -206,21 +206,21 @@ worth while to make some attempt to point out a reason for this.
 
 It may seem a singular observation to say that we are not generous
 
-enough to write great satire. This, however, is approximately a very
+enough to write great [[Satire|satire]]. This, however, is approximately a very
 
-accurate way of describing the case. To write great satire, to attack a
+accurate way of describing the case. To write great [[Satire|satire]], to attack a
 
 man so that he feels the attack and half acknowledges its justice, it is
 
 necessary to have a certain intellectual magnanimity which realises the
 
-merits of the opponent as well as his defects. This is, indeed, only
+merits of the opponent as [[Well|well]] as his defects. This is, indeed, only
 
-another way of putting the simple truth that in order to attack an army
+another way of putting the simple [[Truth|truth]] that in order to attack an army
 
 we must know not only its weak points, but also its strong points.
 
-England in the present season and spirit fails in satire for the same
+England in the present season and spirit fails in [[Satire|satire]] for the same
 
 simple reason that it fails in war: it despises the enemy. In matters of
 

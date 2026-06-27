@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Fairy Tale of Father Brown"
+title: "[[wifrb11]] — The Fairy Tale of [[Father Brown]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -14,35 +14,35 @@ tags:
 </nav>
 
 
-                    The Fairy Tale of Father Brown
+                    The Fairy Tale of [[Father Brown]]
 
-THE picturesque city and state of Heiligwaldenstein was one of those
+THE picturesque [[City|city]] and state of Heiligwaldenstein was one of those
 toy kingdoms of which certain parts of the German Empire still consist. 
-It had come under the Prussian hegemony quite late in history--
-hardly fifty years before the fine summer day when Flambeau and
-Father Brown found themselves sitting in its gardens and drinking its beer. 
+It had come under the Prussian hegemony quite late in [[history]]--
+hardly fifty years before the fine [[Summer|summer]] day when [[Flambeau]] and
+[[Father Brown]] found themselves sitting in its gardens and drinking its beer. 
 There had been not a little of war and wild justice there within
-living memory, as soon will be shown.  But in merely looking at it
+living [[Memory|memory]], as soon will be shown.  But in merely looking at it
 one could not dismiss that impression of childishness which is
-the most charming side of Germany--those little pantomime,
-paternal monarchies in which a king seems as domestic as a cook. 
+the most charming side of [[Germany]]--those little pantomime,
+paternal monarchies in which a [[King|king]] seems as domestic as a cook. 
 The German soldiers by the innumerable sentry-boxes looked strangely like
-German toys, and the clean-cut battlements of the castle,
+German toys, and the clean-cut battlements of the [[Castle|castle]],
 gilded by the sunshine, looked the more like the gilt gingerbread. 
 For it was brilliant weather.  The sky was as Prussian a blue as
 Potsdam itself could require, but it was yet more like that lavish and
-glowing use of the colour which a child extracts from a shilling paint-box. 
+glowing use of the colour which a [[Child|child]] extracts from a shilling paint-box. 
 Even the grey-ribbed trees looked young, for the pointed buds on them
 were still pink, and in a pattern against the strong blue looked like
 innumerable childish figures.
 
      Despite his prosaic appearance and generally practical walk of life,
-Father Brown was not without a certain streak of romance in his composition,
+[[Father Brown]] was not without a certain streak of [[Romance|romance]] in his composition,
 though he generally kept his daydreams to himself, as many children do. 
 Amid the brisk, bright colours of such a day, and in the heraldic
 framework of such a town, he did feel rather as if he had entered
 a fairy tale.  He took a childish pleasure, as a younger brother might,
-in the formidable sword-stick which Flambeau always flung as he walked,
+in the formidable [[Sword|sword]]-stick which [[Flambeau]] always flung as he walked,
 and which now stood upright beside his tall mug of Munich. 
 Nay, in his sleepy irresponsibility, he even found himself eyeing the
 knobbed and clumsy head of his own shabby umbrella, with some
@@ -50,7 +50,7 @@ faint memories of the ogre's club in a coloured toy-book.
 But he never composed anything in the form of fiction, unless it be
 the tale that follows:
 
-     "I wonder," he said, "whether one would have real adventures
+     "I [[Wonder|wonder]]," he said, "whether one would have real adventures
 in a place like this, if one put oneself in the way?  It's a splendid
 back-scene for them, but I always have a kind of feeling that they
 would fight you with pasteboard sabres more than real, horrible swords."
@@ -59,25 +59,25 @@ would fight you with pasteboard sabres more than real, horrible swords."
 not only fight with swords, but kill without swords.  And there's
 worse than that."
 
-     "Why, what do you mean?" asked Father Brown.
+     "Why, what do you mean?" asked [[Father Brown]].
 
      "Why," replied the other, "I should say this was the only place
 in Europe where a man was ever shot without firearms."
 
-     "Do you mean a bow and arrow?" asked Brown in some wonder.
+     "Do you mean a bow and arrow?" asked Brown in some [[Wonder|wonder]].
 
-     "I mean a bullet in the brain," replied Flambeau. 
+     "I mean a bullet in the brain," replied [[Flambeau]]. 
 "Don't you know the story of the late Prince of this place? 
 It was one of the great police mysteries about twenty years ago. 
 You remember, of course, that this place was forcibly annexed
-at the time of Bismarck's very earliest schemes of consolidation--
+at the [[Time|time]] of Bismarck's very earliest schemes of consolidation--
 forcibly, that is, but not at all easily.  The empire (or what wanted
 to be one) sent Prince Otto of Grossenmark to rule the place
 in the Imperial interests.  We saw his portrait in the gallery there--
 a handsome old gentleman if he'd had any hair or eyebrows,
 and hadn't been wrinkled all over like a vulture; but he had
 things to harass him, as I'll explain in a minute.  He was a soldier
-of distinguished skill and success, but he didn't have altogether
+of distinguished skill and [[success]], but he didn't have altogether
 an easy job with this little place.  He was defeated in several battles
 by the celebrated Arnhold brothers--the three guerrilla patriots
 to whom Swinburne wrote a poem, you remember:
@@ -90,11 +90,11 @@ to whom Swinburne wrote a poem, you remember:
 Or something of that kind.  Indeed, it is by no means certain
 that the occupation would ever have been successful had not one of
 the three brothers, Paul, despicably, but very decisively declined
-to abide these things any longer, and, by surrendering all the secrets
+to abide these things any longer, and, by surrendering all the [[Secrets|secrets]]
 of the insurrection, ensured its overthrow and his own ultimate promotion
 to the post of chamberlain to Prince Otto.  After this, Ludwig,
-the one genuine hero among Mr Swinburne's heroes, was killed,
-sword in hand, in the capture of the city; and the third, Heinrich,
+the one genuine [[Hero|hero]] among Mr Swinburne's heroes, was killed,
+[[Sword|sword]] in hand, in the capture of the [[City|city]]; and the third, Heinrich,
 who, though not a traitor, had always been tame and even timid
 compared with his active brothers, retired into something like a hermitage,
 became converted to a Christian quietism which was almost Quakerish,
@@ -103,7 +103,7 @@ They tell me that not long ago he could still be seen about
 the neighbourhood occasionally, a man in a black cloak, nearly blind,
 with very wild, white hair, but a face of astonishing softness."
 
-     "I know," said Father Brown.  "I saw him once."
+     "I know," said [[Father Brown]].  "I saw him once."
 
      His friend looked at him in some surprise.  "I didn't know
 you'd been here before," he said.  "Perhaps you know as much about it
@@ -113,42 +113,42 @@ in that drama."
 
      "You mean that the Prince, too, died long before?"
 
-     "Died," repeated Flambeau, "and that's about as much as we can say. 
+     "Died," repeated [[Flambeau]], "and that's about as much as we can say. 
 You must understand that towards the end of his life he began
 to have those tricks of the nerves not uncommon with tyrants. 
-He multiplied the ordinary daily and nightly guard round his castle
+He multiplied the ordinary daily and nightly guard round his [[Castle|castle]]
 till there seemed to be more sentry-boxes than houses in the town,
-and doubtful characters were shot without mercy.  He lived almost entirely
+and doubtful characters were shot without [[Mercy|mercy]].  He lived almost entirely
 in a little room that was in the very centre of the enormous labyrinth
 of all the other rooms, and even in this he erected another sort of
 central cabin or cupboard, lined with steel, like a safe or a battleship. 
 Some say that under the floor of this again was a secret hole in the earth,
 no more than large enough to hold him, so that, in his anxiety
-to avoid the grave, he was willing to go into a place pretty much like it. 
+to avoid the [[Grave|grave]], he was willing to go into a place pretty much like it. 
 But he went further yet.  The populace had been supposed to be disarmed
 ever since the suppression of the revolt, but Otto now insisted,
 as governments very seldom insist, on an absolute and literal disarmament. 
 It was carried out, with extraordinary thoroughness and severity,
-by very well-organized officials over a small and familiar area, and,
+by very [[Well|well]]-organized officials over a small and familiar area, and,
 so far as human strength and science can be absolutely certain of anything,
 Prince Otto was absolutely certain that nobody could introduce so much as
-a toy pistol into Heiligwaldenstein."
+a toy [[Pistol|pistol]] into Heiligwaldenstein."
 
      "Human science can never be quite certain of things like that,"
-said Father Brown, still looking at the red budding of the branches
+said [[Father Brown]], still looking at the red budding of the branches
 over his head, "if only because of the difficulty about definition
 and connotation.  What is a weapon?  People have been murdered
 with the mildest domestic comforts; certainly with tea-kettles,
 probably with tea-cosies.  On the other hand, if you showed
-an Ancient Briton a revolver, I doubt if he would know it was a weapon--
+an Ancient Briton a revolver, I [[Doubt|doubt]] if he would know it was a weapon--
 until it was fired into him, of course.  Perhaps somebody introduced
 a firearm so new that it didn't even look like a firearm. 
 Perhaps it looked like a thimble or something.  Was the bullet
 at all peculiar?"
 
-     "Not that I ever heard of," answered Flambeau; "but my information
+     "Not that I ever heard of," answered [[Flambeau]]; "but my information
 is fragmentary, and only comes from my old friend Grimm. 
-He was a very able detective in the German service, and he tried
+He was a very able [[Detective|detective]] in the German service, and he tried
 to arrest me; I arrested him instead, and we had many interesting chats. 
 He was in charge here of the inquiry about Prince Otto, but I forgot
 to ask him anything about the bullet.  According to Grimm,
@@ -159,20 +159,20 @@ of his dark lager at a draught, and then resumed:
 to appear in one of the outer rooms, because he had to receive
 certain visitors whom he really wished to meet.  They were geological
 experts sent to investigate the old question of the alleged supply of gold
-from the rocks round here, upon which (as it was said) the small city-state
+from the rocks round here, upon which (as it was said) the small [[City|city]]-state
 had so long maintained its credit and been able to negotiate with
 its neighbours even under the ceaseless bombardment of bigger armies. 
 Hitherto it had never been found by the most exacting inquiry
 which could--"
 
-     "Which could be quite certain of discovering a toy pistol,"
-said Father Brown with a smile.  "But what about the brother who ratted? 
+     "Which could be quite certain of discovering a toy [[Pistol|pistol]],"
+said [[Father Brown]] with a smile.  "But what about the brother who ratted? 
 Hadn't he anything to tell the Prince?"
 
-     "He always asseverated that he did not know," replied Flambeau;
+     "He always asseverated that he did not know," replied [[Flambeau]];
 "that this was the one secret his brothers had not told him. 
 It is only right to say that it received some support from
-fragmentary words--spoken by the great Ludwig in the hour of death,
+fragmentary words--spoken by the great Ludwig in the hour of [[Death|death]],
 when he looked at Heinrich but pointed at Paul, and said,
 `You have not told him...' and was soon afterwards incapable of speech. 
 Anyhow, the deputation of distinguished geologists and mineralogists
@@ -425,7 +425,7 @@ with broad, blunt visages and blinking eyes.  For the first time
 something troubled the Prince, but his courage and diplomatic sense
 stood firm.
 
-     "`I fear we have not met,' he said, `since that awful cannonade
+     "`I [[Fear|fear]] we have not met,' he said, `since that awful cannonade
 in which your poor brother died.'
 
      "`All my brothers died,' said the old man, still looking
@@ -433,7 +433,7 @@ across the valley.  Then, for one instant turning on Otto his drooping,
 delicate features, and the wintry hair that seemed to drip
 over his eyebrows like icicles, he added:  `You see, I am dead, too.'
 
-     "`I hope you'll understand,' said the Prince, controlling himself
+     "`I [[Hope|hope]] you'll understand,' said the Prince, controlling himself
 almost to a point of conciliation, `that I do not come here to haunt you,
 as a mere ghost of those great quarrels.  We will not talk about
 who was right or wrong in that, but at least there was one point
@@ -445,13 +445,13 @@ above the suspicion that...'
      "The old man in the black gown had hitherto continued to gaze at him
 with watery blue eyes and a sort of weak wisdom in his face. 
 But when the word `gold' was said he held out his hand as if
-in arrest of something, and turned away his face to the mountains.
+in arrest of something, and turned away his face to the [[Mountains|mountains]].
 
      "`He has spoken of gold,' he said.  `He has spoken of
 things not lawful.  Let him cease to speak.'
 
      "Otto had the vice of his Prussian type and tradition,
-which is to regard success not as an incident but as a quality. 
+which is to regard [[success]] not as an incident but as a quality. 
 He conceived himself and his like as perpetually conquering peoples
 who were perpetually being conquered.  Consequently, he was ill acquainted
 with the emotion of surprise, and ill prepared for the next movement,
@@ -462,8 +462,8 @@ like a tourniquet.  It was fully forty seconds before he even realized
 that the two Hungarian servants had done it, and that they had done it
 with his own military scarf.
 
-     "The old man went again weakly to his great brazen-supported Bible,
-turned over the leaves, with a patience that had something horrible
+     "The old man went again weakly to his great brazen-supported [[Bible]],
+turned over the [[Leaves|leaves]], with a patience that had something horrible
 about it, till he came to the Epistle of St James, and then began to read: 
 `The tongue is a little member, but--'
 
@@ -513,9 +513,9 @@ was not in its usual place.
 and then a shot that shrieked as it came and then was stilled suddenly
 by impact.  Otto of Grossenmark lay very peacefully among the fairy
 trees, and would do no more harm either with gold or steel; only the
-silver pencil of the moon would pick out and trace here and there the
+silver pencil of the [[Moon|moon]] would pick out and trace here and there the
 intricate ornament of his uniform, or the old wrinkles on his brow. 
-May God have mercy on his soul.
+May God have [[Mercy|mercy]] on his [[Soul|soul]].
 
      "The sentry who had fired, according to the strict orders
 of the garrison, naturally ran forward to find some trace of his quarry. 
@@ -533,27 +533,27 @@ that there was a fairy tale, after all, in that little wood,
 horrible as was its occasion.  Whether the young lady named Hedwig
 had any previous knowledge of the soldier she saved and eventually married,
 or whether she came accidentally upon the accident and their intimacy
-began that night, we shall probably never know.  But we can know,
+began that [[Night|night]], we shall probably never know.  But we can know,
 I fancy, that this Hedwig was a heroine, and deserved to marry a man
-who became something of a hero.  She did the bold and the wise thing. 
+who became something of a [[Hero|hero]].  She did the bold and the wise thing. 
 She persuaded the sentry to go back to his post, in which place
 there was nothing to connect him with the disaster; he was but one of
 the most loyal and orderly of fifty such sentries within call. 
-She remained by the body and gave the alarm; and there was nothing
+She remained by the [[Body|body]] and gave the alarm; and there was nothing
 to connect her with the disaster either, since she had not got,
 and could not have, any firearms.
 
-     "Well," said Father Brown rising cheerfully "I hope they're happy."
+     "[[Well]]," said [[Father Brown]] rising cheerfully "I [[Hope|hope]] they're happy."
 
      "Where are you going?" asked his friend.
 
      "I'm going to have another look at that portrait of the Chamberlain,
 the Arnhold who betrayed his brethren," answered the priest. 
-"I wonder what part--I wonder if a man is less a traitor when he is
+"I [[Wonder|wonder]] what part--I [[Wonder|wonder]] if a man is less a traitor when he is
 twice a traitor?"
 
      And he ruminated long before the portrait of a white-haired man
 with black eyebrows and a pink, painted sort of smile that seemed
 to contradict the black warning in his eyes.
 
-End of this Project Gutenberg Etext of The Wisdom of Father Brown
+End of this Project Gutenberg Etext of The Wisdom of [[Father Brown]]

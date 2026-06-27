@@ -1,5 +1,5 @@
 ---
-title: "Common Man — The Erastian On The Establishment (part 5)"
+title: "[[Common Man]] — The Erastian On The Establishment (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -16,22 +16,22 @@ tags:
 
 WALTER DE LA MARE It has not always been sufficiently understood
 that a critic of poetry should be a poetical critic.
-Literary history is littered with the disasters of good critics
+Literary [[history]] is littered with the disasters of good critics
 who become bad critics, merely by colliding with good poets.
 But one of the first facts which a good poetical critic will realise,
 is one which the poet of necessity realises:  the limitation of language,
-and especially the poverty and clumsiness of the language of praise.
+and especially the [[Poverty|poverty]] and clumsiness of the language of praise.
 There is hardly any praise of poets that does not sound
 as if they were all the same sort of poets, and this is true
 even when the praise is intended to say precisely the opposite.
 Thus the habit of calling somebody "unique" has become universal,
 and we may insist that a man is original, and still leave the impression
-that originality is about as rare as original sin.
+that originality is about as rare as [[Original Sin|original sin]].
 
 But this difficulty applies in a special way to Mr. Walter de la
 Mare and his poetry, because the common poetical terms of praise for
 that poetry are also applied to a totally different sort of poetry.
-He stands very close, in time and place and appearance,
+He stands very close, in [[Time|time]] and place and appearance,
 to a group of writers, most of them good writers and some of them
 great writers, from whom he is really quite free and distinct.
 Only the epithets applied to him are also applied to them.
@@ -41,32 +41,32 @@ and wild charm for children, and the rest, we are driven to use
 a number of terms that have now become a little trite, perhaps,
 as applied to other talented persons who are utterly different.
 The fountains, the foundations, the primary principles of
-imagination and the view of life, are really quite different
+[[Imagination|imagination]] and the view of life, are really quite different
 in a man like Mr. de la Mare from all that they are, let us say,
 in a man like Sir James Barrie or a man like Mr. A. A. Milne.
 This, I need hardly say, has nothing to do with depreciating
 these authors, but only with appreciating each author for his own sake.
 Yet there is a sort of tangle of tradition, and a recognised
-traffic in certain subjects, which may well confuse a modern
+traffic in certain subjects, which may [[Well|well]] confuse a modern
 reader about all this sort of literature of fancy.  For instance;
 we might start by saying that the tradition of Treasure Island
 and its pirates was continued in Peter Pan and its pirates.
 We might say that the elvish children of Peter Pan were
 continued in the elvish children of When We Were Very Young.
 And then we might imagine vaguely that all this sort of thing,
-the bottle of rum and the crocodile's dinner and the king's breakfast,
+the bottle of rum and the crocodile's dinner and the [[King|king]]'s breakfast,
 were all somehow stuffed or stirred up together in a hotch-potch called
 Peacock Pie.  But this is to miss the whole point about the poet,
 and especially where he is rather more than a poet.  It would be easy
 to link him up with the tradition of Treasure Island; for he has
-himself written a very fascinating fantasia about Desert Islands.
+himself written a very fascinating fantasia about [[Desert]] Islands.
 But the association would be an error, for he has not really laid
 up for himself treasure in the same sort of treasure islands.
 There is really a sort of dynasty, a Scottish dynasty, of Stevenson
 and Barrie.  But it descended on the infantile side to Scots like
 Kenneth Graham and on the manly, or at least boyish side to Scots
 like John Buchan.  It has nothing to do with Walter de la Mare;
-because his philosophy is different.  One way of putting it would
+because his [[philosophy]] is different.  One way of putting it would
 be to say that, poetic as are the fairy-tales of the Scots,
 they are the fairy-tales of the Sceptics.  The fairy-tales
 of de la Mare are not those of the Sceptic but of the Mystic.
@@ -77,24 +77,24 @@ strictly speaking, it is written by men who do not believe;
 and even written for children who do not believe;
 children who quite logically and legitimately make believe.
 But de la Mare's world is not merely a world of illusion;
-it is in quite another sense a world of imagination.  It is a real
+it is in quite another sense a world of [[Imagination|imagination]].  It is a real
 world of which the reality can only be represented to us by images.
 De la Mare does not, in the material sense, believe that there is
 an ogre who crawls round houses and is turned back by the influence
-of the Holy Child; any more than Barrie believes that there is
+of the Holy [[Child]]; any more than Barrie believes that there is
 an immortal little boy who plays physically in Kensington Gardens.
 But de la Mare does believe that there is a devouring
-evil that is always warring with innocence and happiness;
-and Barrie does not believe that innocence and happiness go on
+evil that is always warring with [[innocence]] and happiness;
+and Barrie does not believe that [[innocence]] and happiness go on
 having an uninterrupted legal occupation of Kensington Gardens.
-Stories of the school of Peter Pan are radiant and refreshing dreams;
-but they are dreams.  They are the dreams of somebody taking
-refuge from real life in an inner life of the imagination;
+Stories of the school of Peter Pan are radiant and refreshing [[Dreams|dreams]];
+but they are [[Dreams|dreams]].  They are the [[Dreams|dreams]] of somebody taking
+refuge from real life in an [[Inner Life|inner life]] of the [[Imagination|imagination]];
 but not necessarily of somebody believing that there is also
-a larger universal life corresponding to that imagination.
+a larger universal life corresponding to that [[Imagination|imagination]].
 The first is a fabulist but the second is a symbolist; as if we
-were to compare the talking animals of La Fontaine with the typical
-animals of Blake.  Blake (though certainly mad in a quiet way)
+were to compare the talking [[Animals|animals]] of La Fontaine with the typical
+[[Animals|animals]] of Blake.  Blake (though certainly mad in a quiet way)
 probably did not believe that golden lions and tigers walked
 about on the hills of Albion; and La Fontaine did not believe
 that garrulous lions engaged in chatty conversation with foxes.
@@ -110,4 +110,4 @@ The Mad Prince, like the Mad Poet, in the person of poor Blake, is,
 after all, something essentially different from The Mad Hatter.
 There are hollow undertones in his queer questions, about green grass
 for graves, which do really re-echo from things deep and secret
-as the grave.
+as the [[Grave|grave]].

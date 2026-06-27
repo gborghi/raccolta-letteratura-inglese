@@ -22,7 +22,7 @@ Sir Barnet and Lady Skettles, very good people, resided in a pretty
 villa at Fulham, on the banks of the Thames; which was one of the most
 desirable residences in the world when a rowing-match happened to be
 going past, but had its little inconveniences at other times, among
-which may be enumerated the occasional appearance of the river in the
+which may be enumerated the occasional appearance of the [[River|river]] in the
 drawing-room, and the contemporaneous disappearance of the lawn and
 shrubbery.
 
@@ -30,9 +30,9 @@ Sir Barnet Skettles expressed his personal consequence chiefly through
 an antique gold snuffbox, and a ponderous silk pocket-kerchief, which
 he had an imposing manner of drawing out of his pocket like a banner
 and using with both hands at once. Sir Barnet’s object in life was
-constantly to extend the range of his acquaintance. Like a heavy body
-dropped into water—not to disparage so worthy a gentleman by the
-comparison—it was in the nature of things that Sir Barnet must spread
+constantly to extend the range of his acquaintance. Like a heavy [[Body|body]]
+dropped into [[Water|water]]—not to disparage so worthy a gentleman by the
+comparison—it was in the [[Nature|nature]] of things that Sir Barnet must spread
 an ever widening circle about him, until there was no room left. Or,
 like a sound in air, the vibration of which, according to the
 speculation of an ingenious modern philosopher, may go on travelling
@@ -51,12 +51,12 @@ people, or in painting or sculpturing people, or in acting people, or
 in anything of that sort?” Possibly the patient answered yes, and
 mentioned somebody, of whom Sir Barnet had no more personal knowledge
 than of Ptolemy the Great. Sir Barnet replied, that nothing on earth
-was easier, as he knew him very well: immediately called on the
+was easier, as he knew him very [[Well|well]]: immediately called on the
 aforesaid somebody, left his card, wrote a short note,—“My dear
-Sir—penalty of your eminent position—friend at my house naturally
+Sir—penalty of your eminent position—friend at my [[house]] naturally
 desirous—Lady Skettles and myself participate—trust that genius being
 superior to ceremonies, you will do us the distinguished favour of
-giving us the pleasure,” etc, etc.—and so killed a brace of birds with
+giving us the pleasure,” etc, etc.—and so killed a brace of [[Birds|birds]] with
 one stone, dead as door-nails.
 
 With the snuff-box and banner in full force, Sir Barnet Skettles
@@ -72,10 +72,10 @@ little, and that her voice should tremble as it softly answered in the
 negative.
 
 Skettles Junior, much stiffened as to his cravat, and sobered down as
-to his spirits, was at home for the holidays, and appeared to feel
+to his spirits, was at [[Home|home]] for the holidays, and appeared to feel
 himself aggrieved by the solicitude of his excellent mother that he
 should be attentive to Florence. Another and a deeper injury under
-which the soul of young Barnet chafed, was the company of Dr and Mrs
+which the [[Soul|soul]] of young Barnet chafed, was the company of Dr and Mrs
 Blimber, who had been invited on a visit to the paternal roof-tree, and
 of whom the young gentleman often said he would have preferred their
 passing the vacation at Jericho.
@@ -94,33 +94,33 @@ Barnet, courteously.
 Mrs Blimber replied, with a sweet smile and a shake of her sky-blue
 cap, that if Sir Barnet could have made her known to Cicero, she would
 have troubled him; but such an introduction not being feasible, and she
-already enjoying the friendship of himself and his amiable lady, and
+already enjoying the [[Friendship|friendship]] of himself and his amiable lady, and
 possessing with the Doctor her husband their joint confidence in regard
 to their dear son—here young Barnet was observed to curl his nose—she
 asked no more.
 
 Sir Barnet was fain, under these circumstances, to content himself for
-the time with the company assembled. Florence was glad of that; for she
+the [[Time|time]] with the company assembled. Florence was glad of that; for she
 had a study to pursue among them, and it lay too near her heart, and
 was too precious and momentous, to yield to any other interest.
 
-There were some children staying in the house. Children who were as
+There were some children staying in the [[house]]. Children who were as
 frank and happy with fathers and with mothers as those rosy faces
-opposite home. Children who had no restraint upon their love, and
+opposite [[Home|home]]. Children who had no restraint upon their [[Love|love]], and
 freely showed it. Florence sought to learn their secret; sought to find
 out what it was she had missed; what simple art they knew, and she knew
 not; how she could be taught by them to show her father that she loved
-him, and to win his love again.
+him, and to win his [[Love|love]] again.
 
 Many a day did Florence thoughtfully observe these children. On many a
-bright morning did she leave her bed when the glorious sun rose, and
-walking up and down upon the river’s bank, before anyone in the house
+bright morning did she leave her bed when the glorious sun [[Rose|rose]], and
+walking up and down upon the [[River|river]]’s bank, before anyone in the [[house]]
 was stirring, look up at the windows of their rooms, and think of them,
 asleep, so gently tended and affectionately thought of. Florence would
-feel more lonely then, than in the great house all alone; and would
+feel more lonely then, than in the [[Great House|great house]] all [[Alone|alone]]; and would
 think sometimes that she was better there than here, and that there was
 greater peace in hiding herself than in mingling with others of her
 age, and finding how unlike them all she was. But attentive to her
 study, though it touched her to the quick at every little leaf she
 turned in the hard book, Florence remained among them, and tried, with
-patient hope, to gain the knowledge that she wearied for.
+patient [[Hope|hope]], to gain the knowledge that she wearied for.

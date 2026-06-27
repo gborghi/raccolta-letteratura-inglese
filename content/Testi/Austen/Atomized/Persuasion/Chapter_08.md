@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 8"
+title: "[[Persuasion]] — Chapter 8"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER VIII.
 
 
 
-From this time Captain Wentworth and Anne Elliot were repeatedly in the
+From this [[Time|time]] [[Captain Wentworth]] and [[Anne Elliot]] were repeatedly in the
 
 same circle. They were soon dining in company together at Mr
 
@@ -58,7 +58,7 @@ unvisited by remembrance any more than herself. There must be the same
 
 immediate association of thought, though she was very far from
 
-conceiving it to be of equal pain.
+conceiving it to be of equal [[Pain|pain]].
 
 
 
@@ -66,7 +66,7 @@ They had no conversation together, no intercourse but what the
 
 commonest civility required. Once so much to each other! Now nothing!
 
-There _had_ been a time, when of all the large party now filling the
+There _had_ been a [[Time|time]], when of all the large party now filling the
 
 drawing-room at Uppercross, they would have found it most difficult to
 
@@ -118,7 +118,7 @@ Musgrove’s who, overcome by fond regrets, could not help saying—
 
 “Ah! Miss Anne, if it had pleased Heaven to spare my poor son, I dare
 
-say he would have been just such another by this time.”
+say he would have been just such another by this [[Time|time]].”
 
 
 
@@ -138,7 +138,7 @@ list, the first that had ever been at Uppercross), and sitting down
 
 together to pore over it, with the professed view of finding out the
 
-ships that Captain Wentworth had commanded.
+ships that [[Captain Wentworth]] had commanded.
 
 
 
@@ -150,7 +150,7 @@ ships that Captain Wentworth had commanded.
 
 last man who commanded her. Hardly fit for service then. Reported fit
 
-for home service for a year or two, and so I was sent off to the West
+for [[Home|home]] service for a year or two, and so I was sent off to the West
 
 Indies.”
 
@@ -162,11 +162,11 @@ The girls looked all amazement.
 
 “The Admiralty,” he continued, “entertain themselves now and then, with
 
-sending a few hundred men to sea, in a ship not fit to be employed. But
+sending a few hundred men to sea, in a [[Ship|ship]] not fit to be employed. But
 
 they have a great many to provide for; and among the thousands that may
 
-just as well go to the bottom as not, it is impossible for them to
+just as [[Well|well]] go to the [[Bottom|bottom]] as not, it is impossible for them to
 
 distinguish the very set who may be least missed.”
 
@@ -180,17 +180,17 @@ sloop, you would not see her equal. Lucky fellow to get her! He knows
 
 there must have been twenty better men than himself applying for her at
 
-the same time. Lucky fellow to get anything so soon, with no more
+the same [[Time|time]]. Lucky fellow to get anything so soon, with no more
 
 interest than his.”
 
 
 
-“I felt my luck, Admiral, I assure you;” replied Captain Wentworth,
+“I felt my luck, Admiral, I assure you;” replied [[Captain Wentworth]],
 
-seriously. “I was as well satisfied with my appointment as you can
+seriously. “I was as [[Well|well]] satisfied with my appointment as you can
 
-desire. It was a great object with me at that time to be at sea; a very
+[[Desire|desire]]. It was a great object with me at that [[Time|time]] to be at sea; a very
 
 great object, I wanted to be doing something.”
 
@@ -204,13 +204,13 @@ afloat again.”
 
 
 
-“But, Captain Wentworth,” cried Louisa, “how vexed you must have been
+“But, [[Captain Wentworth]],” cried Louisa, “how vexed you must have been
 
 when you came to the Asp, to see what an old thing they had given you.”
 
 
 
-“I knew pretty well what she was before that day;” said he, smiling. “I
+“I knew pretty [[Well|well]] what she was before that day;” said he, smiling. “I
 
 had no more discoveries to make than you would have as to the fashion
 
@@ -222,13 +222,13 @@ last, on some very wet day, is lent to yourself. Ah! she was a dear old
 
 Asp to me. She did all that I wanted. I knew she would. I knew that we
 
-should either go to the bottom together, or that she would be the
+should either go to the [[Bottom|bottom]] together, or that she would be the
 
-making of me; and I never had two days of foul weather all the time I
+making of me; and I never had two days of foul weather all the [[Time|time]] I
 
 was at sea in her; and after taking privateers enough to be very
 
-entertaining, I had the good luck in my passage home the next autumn,
+entertaining, I had the good luck in my passage [[Home|home]] the next [[Autumn|autumn]],
 
 to fall in with the very French frigate I wanted. I brought her into
 
@@ -236,17 +236,17 @@ Plymouth; and here another instance of luck. We had not been six hours
 
 in the Sound, when a gale came on, which lasted four days and nights,
 
-and which would have done for poor old Asp in half the time; our touch
+and which would have done for poor old Asp in half the [[Time|time]]; our touch
 
 with the Great Nation not having much improved our condition.
 
 Four-and-twenty hours later, and I should only have been a gallant
 
-Captain Wentworth, in a small paragraph at one corner of the
+[[Captain Wentworth]], in a small paragraph at one corner of the
 
 newspapers; and being lost in only a sloop, nobody would have thought
 
-about me.” Anne’s shudderings were to herself alone; but the Miss
+about me.” Anne’s shudderings were to herself [[Alone|alone]]; but the Miss
 
 Musgroves could be as open as they were sincere, in their exclamations
 
@@ -260,7 +260,7 @@ thinking aloud, “so then he went away to the Laconia, and there he met
 
 with our poor boy. Charles, my dear,” (beckoning him to her), “do ask
 
-Captain Wentworth where it was he first met with your poor brother. I
+[[Captain Wentworth]] where it was he first met with your poor brother. I
 
 always forgot.”
 
@@ -274,7 +274,7 @@ Wentworth.”
 
 
 
-“Oh! but, Charles, tell Captain Wentworth, he need not be afraid of
+“Oh! but, Charles, tell [[Captain Wentworth]], he need not be afraid of
 
 mentioning poor Dick before me, for it would be rather a pleasure to
 
@@ -288,7 +288,7 @@ only nodded in reply, and walked away.
 
 
 
-The girls were now hunting for the Laconia; and Captain Wentworth could
+The girls were now hunting for the Laconia; and [[Captain Wentworth]] could
 
 not deny himself the pleasure of taking the precious volume into his
 
@@ -312,7 +312,7 @@ wanted money: worse than myself. He had a wife. Excellent fellow. I
 
 shall never forget his happiness. He felt it all, so much for her sake.
 
-I wished for him again the next summer, when I had still the same luck
+I wished for him again the next [[Summer|summer]], when I had still the same luck
 
 in the Mediterranean.”
 
@@ -320,13 +320,13 @@ in the Mediterranean.”
 
 “And I am sure, Sir,” said Mrs Musgrove, “it was a lucky day for _us_,
 
-when you were put captain into that ship. _We_ shall never forget what
+when you were put captain into that [[Ship|ship]]. _We_ shall never forget what
 
 you did.”
 
 
 
-Her feelings made her speak low; and Captain Wentworth, hearing only in
+Her feelings made her speak low; and [[Captain Wentworth]], hearing only in
 
 part, and probably not having Dick Musgrove at all near his thoughts,
 
@@ -336,7 +336,7 @@ looked rather in suspense, and as if waiting for more.
 
 “My brother,” whispered one of the girls; “mamma is thinking of poor
 
-Richard.”
+[[Richard]].”
 
 
 
@@ -346,11 +346,11 @@ and such an excellent correspondent, while he was under your care! Ah!
 
 it would have been a happy thing, if he had never left you. I assure
 
-you, Captain Wentworth, we are very sorry he ever left you.”
+you, [[Captain Wentworth]], we are very sorry he ever left you.”
 
 
 
-There was a momentary expression in Captain Wentworth’s face at this
+There was a momentary expression in [[Captain Wentworth]]’s face at this
 
 speech, a certain glance of his bright eye, and curl of his handsome
 
@@ -358,7 +358,7 @@ mouth, which convinced Anne, that instead of sharing in Mrs Musgrove’s
 
 kind wishes, as to her son, he had probably been at some pains to get
 
-rid of him; but it was too transient an indulgence of self-amusement to
+rid of him; but it was too transient an indulgence of [[Self|self]]-amusement to
 
 be detected by any who understood him less than herself; in another
 
@@ -382,15 +382,15 @@ made room for him; they were divided only by Mrs Musgrove. It was no
 
 insignificant barrier, indeed. Mrs Musgrove was of a comfortable,
 
-substantial size, infinitely more fitted by nature to express good
+substantial size, infinitely more fitted by [[Nature|nature]] to express good
 
-cheer and good humour, than tenderness and sentiment; and while the
+cheer and good [[Humour|humour]], than tenderness and sentiment; and while the
 
 agitations of Anne’s slender form, and pensive face, may be considered
 
-as very completely screened, Captain Wentworth should be allowed some
+as very completely screened, [[Captain Wentworth]] should be allowed some
 
-credit for the self-command with which he attended to her large fat
+credit for the [[Self|self]]-command with which he attended to her large fat
 
 sighings over the destiny of a son, whom alive nobody had cared for.
 
@@ -414,13 +414,13 @@ The Admiral, after taking two or three refreshing turns about the room
 
 with his hands behind him, being called to order by his wife, now came
 
-up to Captain Wentworth, and without any observation of what he might
+up to [[Captain Wentworth]], and without any observation of what he might
 
 be interrupting, thinking only of his own thoughts, began with—
 
 
 
-“If you had been a week later at Lisbon, last spring, Frederick, you
+“If you had been a week later at Lisbon, last [[spring]], Frederick, you
 
 would have been asked to give a passage to Lady Mary Grierson and her
 
@@ -436,7 +436,7 @@ The Admiral abused him for his want of gallantry. He defended himself;
 
 though professing that he would never willingly admit any ladies on
 
-board a ship of his, excepting for a ball, or a visit, which a few
+board a [[Ship|ship]] of his, excepting for a ball, or a visit, which a few
 
 hours might comprehend.
 
@@ -454,7 +454,7 @@ Admiral, in rating the claims of women to every personal comfort
 
 _high_, and this is what I do. I hate to hear of women on board, or to
 
-see them on board; and no ship under my command shall ever convey a
+see them on board; and no [[Ship|ship]] under my command shall ever convey a
 
 family of ladies anywhere, if I can help it.”
 
@@ -466,7 +466,7 @@ This brought his sister upon him.
 
 “Oh! Frederick! But I cannot believe it of you.—All idle
 
-refinement!—Women may be as comfortable on board, as in the best house
+refinement!—Women may be as comfortable on board, as in the best [[house]]
 
 in England. I believe I have lived as much on board as most women, and
 
@@ -494,7 +494,7 @@ superfine, extraordinary sort of gallantry of yours then?”
 
 
 
-“All merged in my friendship, Sophia. I would assist any brother
+“All merged in my [[Friendship|friendship]], Sophia. I would assist any brother
 
 officer’s wife that I could, and I would bring anything of Harville’s
 
@@ -532,7 +532,7 @@ her family to Plymouth.”
 
 women were all fine ladies, instead of rational creatures. We none of
 
-us expect to be in smooth water all our days.”
+us expect to be in smooth [[Water|water]] all our days.”
 
 
 
@@ -552,7 +552,7 @@ bring him his wife.”
 
 
 
-“Now I have done,” cried Captain Wentworth. “When once married people
+“Now I have done,” cried [[Captain Wentworth]]. “When once married people
 
 begin to attack me with,—‘Oh! you will think very differently, when you
 
@@ -572,13 +572,13 @@ to Mrs Croft.
 
 
 
-“Pretty well, ma’am, in the fifteen years of my marriage; though many
+“Pretty [[Well|well]], ma’am, in the fifteen years of my [[Marriage|marriage]]; though many
 
 women have done more. I have crossed the Atlantic four times, and have
 
 been once to the East Indies, and back again, and only once; besides
 
-being in different places about home: Cork, and Lisbon, and Gibraltar.
+being in different places about [[Home|home]]: Cork, and Lisbon, and Gibraltar.
 
 But I never went beyond the Streights, and never was in the West
 
@@ -604,7 +604,7 @@ confined; though any reasonable woman may be perfectly happy in one of
 
 them; and I can safely say, that the happiest part of my life has been
 
-spent on board a ship. While we were together, you know, there was
+spent on board a [[Ship|ship]]. While we were together, you know, there was
 
 nothing to be feared. Thank God! I have always been blessed with
 
@@ -612,15 +612,15 @@ excellent health, and no climate disagrees with me. A little disordered
 
 always the first twenty-four hours of going to sea, but never knew what
 
-sickness was afterwards. The only time I ever really suffered in body
+sickness was afterwards. The only [[Time|time]] I ever really suffered in [[Body|body]]
 
-or mind, the only time that I ever fancied myself unwell, or had any
+or mind, the only [[Time|time]] that I ever fancied myself unwell, or had any
 
-ideas of danger, was the winter that I passed by myself at Deal, when
+ideas of danger, was the [[Winter|winter]] that I passed by myself at Deal, when
 
 the Admiral (_Captain_ Croft then) was in the North Seas. I lived in
 
-perpetual fright at that time, and had all manner of imaginary
+perpetual fright at that [[Time|time]], and had all manner of imaginary
 
 complaints from not knowing what to do with myself, or when I should
 
@@ -644,7 +644,7 @@ over, and he is safe back again.”
 
 The evening ended with dancing. On its being proposed, Anne offered her
 
-services, as usual; and though her eyes would sometimes fill with tears
+services, as usual; and though her eyes would sometimes fill with [[Tears|tears]]
 
 as she sat at the instrument, she was extremely glad to be employed,
 
@@ -654,7 +654,7 @@ and desired nothing in return but to be unobserved.
 
 It was a merry, joyous party, and no one seemed in higher spirits than
 
-Captain Wentworth. She felt that he had every thing to elevate him
+[[Captain Wentworth]]. She felt that he had every thing to elevate him
 
 which general attention and deference, and especially the attention of
 
@@ -662,7 +662,7 @@ all the young women, could do. The Miss Hayters, the females of the
 
 family of cousins already mentioned, were apparently admitted to the
 
-honour of being in love with him; and as for Henrietta and Louisa, they
+[[Honour|honour]] of being in [[Love|love]] with him; and as for Henrietta and Louisa, they
 
 both seemed so entirely occupied by him, that nothing but the continued
 
@@ -670,7 +670,7 @@ appearance of the most perfect good-will between themselves could have
 
 made it credible that they were not decided rivals. If he were a little
 
-spoilt by such universal, such eager admiration, who could wonder?
+spoilt by such universal, such eager admiration, who could [[Wonder|wonder]]?
 
 
 

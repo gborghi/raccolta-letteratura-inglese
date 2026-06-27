@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 17"
+title: "[[The Professor]] — Chapter 17"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -28,7 +28,7 @@ and Evans, in addition to her French surname, also whence she derived
 
 her good accent. I had forgotten both points, or, rather, our colloquy
 
-had been so brief that I had not had time to bring them forward;
+had been so brief that I had not had [[Time|time]] to bring them forward;
 
 moreover, I had not half tested her powers of speaking English; all I
 
@@ -54,7 +54,7 @@ approached her.
 
 “Your book an instant.” Such was the mode in which I often began these
 
-brief dialogues; the time was always just at the conclusion of the
+brief dialogues; the [[Time|time]] was always just at the conclusion of the
 
 lesson; and motioning to her to rise, I installed myself in her place,
 
@@ -66,7 +66,7 @@ use between master and pupil; the rather because I perceived that in
 
 proportion as my manner grew austere and magisterial, hers became easy
 
-and self-possessed--an odd contradiction, doubtless, to the ordinary
+and [[Self|self]]-possessed--an odd contradiction, doubtless, to the ordinary
 
 effect in such cases; but so it was.
 
@@ -74,7 +74,7 @@ effect in such cases; but so it was.
 
 “A pencil,” said I, holding out my hand without looking at her. (I am
 
-now about to sketch a brief report of the first of these conferences.)
+now about to [[Sketch|sketch]] a brief report of the first of these conferences.)
 
 She gave me one, and while I underlined some errors in a grammatical
 
@@ -184,7 +184,7 @@ more facility?”
 
 
 
-“And you do homage to her memory by forgetting her language. Have the
+“And you do homage to her [[Memory|memory]] by forgetting her language. Have the
 
 goodness to put French out of your mind so long as I converse with
 
@@ -202,7 +202,7 @@ tongue.”
 
 
 
-“Yes, sir, I spoke the English more than the French when I was a child.”
+“Yes, sir, I spoke the English more than the French when I was a [[Child|child]].”
 
 
 
@@ -230,7 +230,7 @@ tongue.”
 
 
 
-“Do you live alone?”
+“Do you live [[Alone|alone]]?”
 
 
 
@@ -254,7 +254,7 @@ tongue.”
 
 
 
-“For which, mademoiselle, if you were a child I should certainly devise
+“For which, mademoiselle, if you were a [[Child|child]] I should certainly devise
 
 some slight punishment; at your age--you must be two or three and
 
@@ -266,7 +266,7 @@ twenty, I should think?”
 
 
 
-“Well, nineteen is a mature age, and, having attained it, you ought to
+“[[Well]], nineteen is a mature age, and, having attained it, you ought to
 
 be so solicitous for your own improvement, that it should not be needful
 
@@ -304,11 +304,11 @@ An odd question, and bluntly put; it excited a second smile.
 
 
 
-“Why, monsieur, I am not inattentive--am I? I learn my lessons well--”
+“Why, monsieur, I am not inattentive--am I? I learn my lessons [[Well|well]]--”
 
 
 
-“Oh, a child can do that! and what more do you do?”
+“Oh, a [[Child|child]] can do that! and what more do you do?”
 
 
 
@@ -316,7 +316,7 @@ An odd question, and bluntly put; it excited a second smile.
 
 
 
-“Oh, certainly, not much; but you are a teacher, are you not, as well as
+“Oh, certainly, not much; but you are a teacher, are you not, as [[Well|well]] as
 
 a pupil?”
 
@@ -326,7 +326,7 @@ a pupil?”
 
 
 
-“You teach lace-mending?”
+“You teach lace-[[mending]]?”
 
 
 
@@ -342,7 +342,7 @@ a pupil?”
 
 
 
-“Why do you pursue it? Why do you not rather teach history, geography,
+“Why do you pursue it? Why do you not rather teach [[history]], geography,
 
 grammar, even arithmetic?”
 
@@ -388,9 +388,9 @@ dogmatical tone I had adopted:--
 
 “It is sad, however, that you should be brought up in ignorance of the
 
-most ordinary branches of education; had you known something of history
+most ordinary branches of [[Education|education]]; had you known something of [[history]]
 
-and grammar you might, by degrees, have relinquished your lace-mending
+and grammar you might, by degrees, have relinquished your lace-[[mending]]
 
 drudgery, and risen in the world.”
 
@@ -400,7 +400,7 @@ drudgery, and risen in the world.”
 
 
 
-“How? By a knowledge of English alone? That will not suffice; no
+“How? By a knowledge of English [[Alone|alone]]? That will not suffice; no
 
 respectable family will receive a governess whose whole stock of
 
@@ -434,7 +434,7 @@ at your tongue’s end.”
 
 
 
-“Monsieur, I have had many lessons both in grammar, history, geography,
+“Monsieur, I have had many lessons both in grammar, [[history]], geography,
 
 and arithmetic. I have gone through a course of each study.”
 
@@ -446,7 +446,7 @@ send you to school?”
 
 
 
-“By lace-mending; by the thing monsieur despises so much.”
+“By lace-[[mending]]; by the thing monsieur despises so much.”
 
 
 
@@ -456,7 +456,7 @@ explain to me in English how such a result was produced by such means.”
 
 
 
-“Monsieur, I begged my aunt to have me taught lace-mending soon after
+“Monsieur, I begged my aunt to have me taught lace-[[mending]] soon after
 
 we came to Brussels, because I knew it was a METIER, a trade which was
 
@@ -472,7 +472,7 @@ in the studies I have mentioned; some of it I spent in buying books,
 
 English books especially; soon I shall try to find a place of governess,
 
-or school-teacher, when I can write and speak English well; but it will
+or school-teacher, when I can write and speak English [[Well|well]]; but it will
 
 be difficult, because those who know I have been a lace-mender will
 
@@ -514,7 +514,7 @@ bonne amie, de retourner chez vous tout de suite.”
 
 
 
-In silence, without a word of thanks for this officious warning, Mdlle.
+In [[Silence|silence]], without a word of thanks for this officious warning, Mdlle.
 
 Henri collected her books; she moved to me respectfully, endeavoured to
 
@@ -528,7 +528,7 @@ Where there is one grain of perseverance or wilfulness in the
 
 composition, trifling obstacles are ever known rather to stimulate than
 
-discourage. Mdlle. Reuter might as well have spared herself the trouble
+discourage. Mdlle. Reuter might as [[Well|well]] have spared herself the trouble
 
 of giving that intimation about the weather (by-the-by her prediction
 
@@ -546,13 +546,13 @@ there?”
 
 
 
-Accustomed by this time to the calculated abruptness of my manner, it no
+Accustomed by this [[Time|time]] to the calculated abruptness of my manner, it no
 
 longer discomposed or surprised her, and she answered with only so
 
 much of hesitation as was rendered inevitable by the difficulty she
 
-experienced in improvising the translation of her thoughts from French
+experienced in improvising the [[Translation|translation]] of her thoughts from French
 
 to English.
 
@@ -606,7 +606,7 @@ little animal subterranean--une taupe--comment dit-on?”
 
 
 
-“Well, mademoiselle--what then? Proceed.”
+“[[Well]], mademoiselle--what then? Proceed.”
 
 
 
@@ -624,7 +624,7 @@ learnt but little, and seen but little; my life there was in a circle;
 
 I walked the same round every day; I could not get out of it; had I
 
-rested--remained there even till my death, I should never have enlarged
+rested--remained there even till my [[Death|death]], I should never have enlarged
 
 it, because I am poor and not skilful, I have not great acquirements;
 
@@ -638,7 +638,7 @@ change again if I went to England. I knew something of the bourgeois of
 
 Geneva, now I know something of the bourgeois of Brussels; if I went to
 
-London, I would know something of the bourgeois of London. Can you make
+[[London]], I would know something of the bourgeois of [[London]]. Can you make
 
 any sense out of what I say, monsieur, or is it all obscure?”
 
@@ -664,7 +664,7 @@ improves; besides, I work under difficulties; here I only teach sewing,
 
 I can show no power in sewing, no superiority--it is a subordinate
 
-art; then I have no associates in this house, I am isolated; I am too a
+art; then I have no associates in this [[house]], I am isolated; I am too a
 
 heretic, which deprives me of influence.”
 
@@ -684,7 +684,7 @@ have here.”
 
 difficulties for such as I everywhere, and if I must contend, and
 
-perhaps be conquered, I would rather submit to English pride than to
+perhaps be conquered, I would rather submit to English [[Pride|pride]] than to
 
 Flemish coarseness; besides, monsieur--”
 
@@ -706,13 +706,13 @@ enough.”
 
 more honest than Catholics; a Romish school is a building with porous
 
-walls, a hollow floor, a false ceiling; every room in this house,
+walls, a hollow floor, a false ceiling; every room in this [[house]],
 
-monsieur, has eyeholes and ear-holes, and what the house is, the
+monsieur, has eyeholes and ear-holes, and what the [[house]] is, the
 
 inhabitants are, very treacherous; they all think it lawful to tell
 
-lies; they all call it politeness to profess friendship where they feel
+lies; they all call it politeness to profess [[Friendship|friendship]] where they feel
 
 hatred.”
 
@@ -728,7 +728,7 @@ right and wrong?”
 
 “On the contrary, monsieur--the children are the most sincere; they have
 
-not yet had time to become accomplished in duplicity; they will tell
+not yet had [[Time|time]] to become accomplished in duplicity; they will tell
 
 lies, but they do it inartificially, and you know they are lying; but
 
@@ -756,4 +756,4 @@ chercher--voyez-vous.”
 
 smiling, with that same bitter, derisive smile I had seen on her lips
 
-once before, she hastily rose and made her exit.
+once before, she hastily [[Rose|rose]] and made her exit.

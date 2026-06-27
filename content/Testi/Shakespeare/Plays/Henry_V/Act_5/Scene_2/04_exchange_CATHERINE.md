@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act V, Scene 2 — exchange (CATHERINE) [4]"
+title: "[[Henry V]] — Act V, Scene 2 — exchange (CATHERINE) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CATHERINE | Sauf votre honneur, me understand well. |
+| CATHERINE | Sauf votre honneur, me understand [[Well|well]]. |

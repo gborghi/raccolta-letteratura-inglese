@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 34 (part 5)"
+title: "Bleak [[house|House]] — Chapter 34 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 The clerk referring the question to them with his eye, and Mr. George
-not turning round from the almanac over the fire-place. Mr. Bagnet
+not turning round from the almanac over the [[Fire|fire]]-place. Mr. Bagnet
 takes upon himself to reply, “Yes, ma’am. Formerly.”
 
 “I thought so. I was sure of it. My heart warms, gentlemen, at the
@@ -29,21 +29,21 @@ your pardon for troubling you, sir. God bless you, gentlemen!”
 
 There is something very touching in the earnestness of the old lady’s
 voice and in the tremble that goes through her quaint old figure. But
-Mr. George is so occupied with the almanac over the fire-place
+Mr. George is so occupied with the almanac over the [[Fire|fire]]-place
 (calculating the coming months by it perhaps) that he does not look
 round until she has gone away and the door is closed upon her.
 
 “George,” Mr. Bagnet gruffly whispers when he does turn from the
 almanac at last. “Don’t be cast down! ‘Why, soldiers, why—should we
-be melancholy, boys?’ Cheer up, my hearty!”
+be [[Melancholy|melancholy]], boys?’ Cheer up, my hearty!”
 
 The clerk having now again gone in to say that they are still there
 and Mr. Tulkinghorn being heard to return with some irascibility,
 “Let ’em come in then!” they pass into the great room with the
-painted ceiling and find him standing before the fire.
+painted ceiling and find him standing before the [[Fire|fire]].
 
-“Now, you men, what do you want? Sergeant, I told you the last time I
-saw you that I don’t desire your company here.”
+“Now, you men, what do you want? Sergeant, I told you the last [[Time|time]] I
+saw you that I don’t [[Desire|desire]] your company here.”
 
 Sergeant replies—dashed within the last few minutes as to his usual
 manner of speech, and even as to his usual carriage—that he has
@@ -56,24 +56,24 @@ no occasion to come here to learn that, I suppose?”
 
 Sergeant is sorry to say that he is not prepared with the money.
 
-“Very well! Then the other man—this man, if this is he—must pay it
+“Very [[Well|well]]! Then the other man—this man, if this is he—must pay it
 for you.”
 
 Sergeant is sorry to add that the other man is not prepared with the
 money either.
 
-“Very well! Then you must pay it between you or you must both be sued
+“Very [[Well|well]]! Then you must pay it between you or you must both be sued
 for it and both suffer. You have had the money and must refund it.
 You are not to pocket other people’s pounds, shillings, and pence and
 escape scot-free.”
 
-The lawyer sits down in his easy-chair and stirs the fire. Mr. George
+The lawyer sits down in his easy-chair and stirs the [[Fire|fire]]. Mr. George
 hopes he will have the goodness to—“I tell you, sergeant, I have
 nothing to say to you. I don’t like your associates and don’t want
 you here. This matter is not at all in my course of practice and is
 not in my office. Mr. Smallweed is good enough to offer these affairs
 to me, but they are not in my way. You must go to Melchisedech’s in
-Clifford’s Inn.”
+[[Clifford]]’s Inn.”
 
 “I must make an apology to you, sir,” says Mr. George, “for pressing
 myself upon you with so little encouragement—which is almost as
@@ -81,12 +81,12 @@ unpleasant to me as it can be to you—but would you let me say a
 private word to you?”
 
 Mr. Tulkinghorn rises with his hands in his pockets and walks into
-one of the window recesses. “Now! I have no time to waste.” In the
+one of the [[Window|window]] recesses. “Now! I have no [[Time|time]] to waste.” In the
 midst of his perfect assumption of indifference, he directs a sharp
 look at the trooper, taking care to stand with his own back to the
 light and to have the other with his face towards it.
 
-“Well, sir,” says Mr. George, “this man with me is the other party
+“[[Well]], sir,” says Mr. George, “this man with me is the other party
 implicated in this unfortunate affair—nominally, only nominally—and
 my sole object is to prevent his getting into trouble on my account.
 He is a most respectable man with a wife and family, formerly in the
@@ -124,7 +124,7 @@ breath, “I must do it, sir.”
 
 So Mr. Tulkinghorn, putting on his spectacles, sits down and writes
 the undertaking, which he slowly reads and explains to Bagnet, who
-has all this time been staring at the ceiling and who puts his hand
+has all this [[Time|time]] been staring at the ceiling and who puts his hand
 on his bald head again, under this new verbal shower-bath, and seems
 exceedingly in need of the old girl through whom to express his
 sentiments. The trooper then takes from his breast-pocket a folded
@@ -135,7 +135,7 @@ him.”
 Look at a millstone, Mr. George, for some change in its expression,
 and you will find it quite as soon as in the face of Mr. Tulkinghorn
 when he opens and reads the letter! He refolds it and lays it in his
-desk with a countenance as unperturbable as death.
+desk with a countenance as unperturbable as [[Death|death]].
 
 Nor has he anything more to say or do but to nod once in the same
 frigid and discourteous manner and to say briefly, “You can go. Show

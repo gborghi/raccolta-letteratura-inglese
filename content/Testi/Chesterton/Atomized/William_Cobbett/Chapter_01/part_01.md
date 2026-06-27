@@ -23,9 +23,9 @@ As originally planned, only a little while ago,
 it was to have been called `The Neglect of Cobbett.'
 It is not unimportant to realise how recent has been the change.
 It is but a year or two ago that I had the great and
-(it is to be feared) the undeserved honour of reading a paper
+(it is to be feared) the undeserved [[Honour|honour]] of reading a paper
 an the subject to the Royal Society of Literature on my
-admission to that body, which certainly consists almost
+admission to that [[Body|body]], which certainly consists almost
 entirely of men who know much more about literature than I do.
 It was a graceful formality on such an occasion for the least
 learned person in the room to lecture to all the rest.
@@ -39,7 +39,7 @@ taken place.  It is true that it is not until the first
 beginnings of the revival that we ever even hear of the neglect.
 Until that moment even the neglect is neglected.
 When I delivered the highly amateur address in question,
-the memory was already stirring, in others besides myself.
+the [[Memory|memory]] was already stirring, in others besides myself.
 But it is not out of egotism that I give this example;
 but because it happens to illustrate the first fact to be
 realised about the present position of Cobbett.
@@ -58,20 +58,20 @@ to the academic admirer. Now I mean by the revival of Cobbett
 the revival of the things that Cobbett wished to revive.
 They were things which until a little while ago nobody imagined
 there was the slightest chance of reviving; such as liberty,
-England, the family, the honour of the yeoman, and so on.
+England, the family, the [[Honour|honour]] of the yeoman, and so on.
 Many of the learned who, on the occasion above mentioned, were very
 indulgent to my own eccentric enthusiasm, would even now be a little
 puzzled if that enthusiasm became something more than an eccentricity.
 Cobbett had been for them a man who praised an extravagant
 and impossible England in exact and excellent English.
-It must seem strange indeed that one who can never hope
-to write such English can yet hope to see such an England.
+It must seem strange indeed that one who can never [[Hope|hope]]
+to write such English can yet [[Hope|hope]] to see such an England.
 The critics must feel like cultivated gentlemen who, after long
 relishing Jeremy Taylor's diction, should abruptly receive
 an unwelcome invitation to give an exhibition of Holy Dying.
 They must feel like scholars who should have lingered lovingly
 all their lives over the lapidary Babylonian jests and vast
-verbal incantations of the wonderful essay on Urn-Burial;
+verbal incantations of the wonderful [[Essay|essay]] on Urn-Burial;
 and then have lived to see it sold by the hundred as the popular
 pamphlet of a bustling modern movement in favour of cremation.
 
@@ -83,7 +83,7 @@ lecturing because it concerned something that may be repeated here,
 as relevant to the first essentials of the subject.  Many professors
 have in a merely literary sense recognised Cobbett as a model;
 but few have modelled themselves upon their model.  They were always
-ready to hope that their pupils would write such good English.
+ready to [[Hope|hope]] that their pupils would write such good English.
 But they would have been mildly surprised if any pupil had written
 such plain English.  Yet, as I pointed out on that occasion,
 the strongest quality of Cobbett as a stylist is in the use he made
@@ -95,7 +95,7 @@ And it is precisely these violent passages that especially bring
 out not only the best capacities of Cobbett but also the best
 capacities of English.  I was and am therefore ready to repeat
 what I said in my little lecture, and to repeat it quite seriously,
-though it was the subject at the time of merely amused comment.
+though it was the subject at the [[Time|time]] of merely amused comment.
 I pointed out that in the formation of the noble and beautiful
 English language, out of so many local elements, nothing had
 emerged more truly beautiful than the sort of English
@@ -104,7 +104,7 @@ I pointed out that English excels in certain angular consonants
 and abrupt terminations that make it extraordinarily effective
 for the expression of the fighting spirit and a fierce contempt.
 How fortunate is the condition of the Englishman who can kick people;
-and how relatively melancholy that of the Frenchman who can only give
+and how relatively [[Melancholy|melancholy]] that of the Frenchman who can only give
 them a blow of the foot!  If we say that two people fight like cat
 and dog, the very words seem to have in them a shindy of snaps
 and screams and scratches.  If we say `comme le chat et le chien,'
@@ -154,15 +154,15 @@ laughter and was genially criticised in the newspapers as a joke.
 It was regarded not only as a piece of mild buffoonery but as a sort
 of eighteenth-century masquerade; as if I only wished to bring back
 cudgels and cutlasses along with wigs and three-cornered hats.
-It was assumed that nobody could possibly seriously hope, or even
+It was assumed that nobody could possibly seriously [[Hope|hope]], or even
 seriously expect, to hear again the old Billingsgate of the hustings
 and the election fight.  And yet, since those criticisms were written,
-only a very little time ago, that sort of very Early English has
+only a very little [[Time|time]] ago, that sort of very Early English has
 suddenly been heard, if not in journalism, at least in politics.
-By a strange paradox, even the House of Commons has heard the sound
+By a strange [[Paradox|paradox]], even the [[house|House]] of Commons has heard the sound
 of common speech, not wholly unconnected with common sense.
 Labour members and young Tories have both been heard talking
-like men in the street.  Mr. Jack Jones, by his interruptions,
+like men in the street.  Mr. Jack [[Jones]], by his interruptions,
 has made himself a judicious patron of this literary revival,
 this attempt to save the heritage of English culture;
 and Mr. Kirkwood has said things about capitalists of which even

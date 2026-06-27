@@ -1,5 +1,5 @@
 ---
-title: "Landor's Cottage (part 5)"
+title: "[[Landor's Cottage]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Landor's-Cottage-(Poe)"
@@ -16,11 +16,11 @@ tags:
 
       At her most courteous of invitations, I entered—passing first
       into a tolerably wide vestibule. Having come mainly to observe, I
-      took notice that to my right as I stepped in, was a window, such
-      as those in front of the house; to the left, a door leading into
+      took notice that to my right as I stepped in, was a [[Window|window]], such
+      as those in front of the [[house]]; to the left, a door leading into
       the principal room; while, opposite me, an open door enabled me
       to see a small apartment, just the size of the vestibule,
-      arranged as a study, and having a large bow window looking out to
+      arranged as a study, and having a large bow [[Window|window]] looking out to
       the north.
 
       Passing into the parlor, I found myself with Mr. Landor—for this,
@@ -30,7 +30,7 @@ tags:
       than the personal appearance of the tenant.
 
       The north wing, I now saw, was a bed-chamber, its door opened
-      into the parlor. West of this door was a single window, looking
+      into the parlor. West of this door was a single [[Window|window]], looking
       toward the brook. At the west end of the parlor, were a
       fireplace, and a door leading into the west wing—probably a
       kitchen.
@@ -61,11 +61,11 @@ tags:
       is impossible to conceive anything more graceful.
 
       On the table were a few books; a large, square, crystal bottle of
-      some novel perfume; a plain ground glass _astral_ (not solar)
+      some [[Novel|novel]] perfume; a plain ground glass _astral_ (not solar)
       lamp with an Italian shade; and a large vase of
-      resplendently-blooming flowers. Flowers, indeed, of gorgeous
+      resplendently-blooming [[Flowers|flowers]]. [[Flowers]], indeed, of gorgeous
       colours and delicate odour formed the sole mere decoration of the
-      apartment. The fire-place was nearly filled with a vase of
+      apartment. The [[Fire|fire]]-place was nearly filled with a vase of
       brilliant geranium. On a triangular shelf in each angle of the
       room stood also a similar vase, varied only as to its lovely
       contents. One or two smaller bouquets adorned the mantel, and

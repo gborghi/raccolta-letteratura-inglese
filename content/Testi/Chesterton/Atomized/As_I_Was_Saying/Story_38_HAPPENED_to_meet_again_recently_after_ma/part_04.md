@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-And it is expressed in the paradox that the very mildest of all party
+And it is expressed in the [[Paradox|paradox]] that the very mildest of all party
 systems was expressed in the military regimentation of its benches
 or the heraldic fixity of its badges.  Foreigners had fights,
-which were not designed and occurred from time to time.
-We had a sham fight, which was designed, and which occurred all the time.
-But behind that sham fight was much more of unity; possibly far too
-much unity.  Therefore the Totalitarian State, with its one badge,
+which were not designed and occurred from [[Time|time]] to [[Time|time]].
+We had a sham fight, which was designed, and which occurred all the [[Time|time]].
+But behind that sham fight was much more of [[unity]]; possibly far too
+much [[unity]].  Therefore the Totalitarian State, with its one badge,
 its one bench and its one party, is not a cure for the old evils of
 the English party system.  It was much too Totalitarian a State already.
 Its apparent party divisions were merely a popular sport,
@@ -32,31 +32,31 @@ of the same colour.
 
 _XIX About White Fronts_
 
-A TREMENDOUS international truth dawned upon me the other day
+A TREMENDOUS international [[Truth|truth]] dawned upon me the other day
 in connexion with the subject of dress clothes, which we rather
 incorrectly call evening dress.  For in that shade of difference
 there is a deep and strange division, and a sort of abyss
 yawns between England and Europe.  The occasion of the thought
 may appear somewhat trivial for so vast and solemn a matter.
 I met an educated and experienced Englishman, in a great Italian
-city in which he had apparently lived for about fifteen years.
+[[City|city]] in which he had apparently lived for about fifteen years.
 But the power of detachment in some English exiles is extraordinary.
 This honest gentleman was snorting with fury and contempt because
 a very famous foreign author had just given a lecture in the town;
 and this benighted foreigner had outraged the primary laws of the cosmos
-by wearing a white shirt-front, though it was only five o'clock
-in the afternoon.  Now, I have not lived in Italy for fifteen years;
-but I had not lived in London up to the age of fifteen without
+by wearing a white shirt-front, though it was only five o'[[Clock|clock]]
+in the afternoon.  Now, I have not lived in [[Italy]] for fifteen years;
+but I had not lived in [[London]] up to the age of fifteen without
 hearing from somebody who knew something about the world that white
 shirt-fronts do not mean the same thing in Europe that they mean
 in England.  They do not stand for evening dress; they only stand
 for full dress; for formal or official dress.  Sometimes, I believe,
 they are worn by students going in for important examinations.
 When I had a private audience with the Pope, I wore what we call
-evening dress, though it was eleven o'clock in the morning.
+evening dress, though it was eleven o'[[Clock|clock]] in the morning.
 I did the same when I had an interview with Mussolini.  It is simply
 the recognized uniform worn to express any sort of special respect
-for a special occasion; as Englishmen would wear Court dress at Court.
+for a special occasion; as Englishmen would wear [[Court]] dress at [[Court]].
 But in England it has had a particular evolution and adaptation
 to a particular social purpose, doubtless for various local reasons.
 I suspect that one cause was the common habit of the English gentry
@@ -68,7 +68,7 @@ But there is nothing central or essential about this particular
 use of the thing.  What we call evening dress has nothing about
 it especially suggestive of the evening.  Rather, we might say,
 its black and white effects suggest the strong light and shade
-of broad daylight, and might be a fitting uniform for noon.
+of broad daylight, and might be a fitting uniform for [[Noon|noon]].
 Anyhow, it is not specially suggestive of twilight.
 So poetical a people as the English, if they had wanted
 to invent vestments full of the subdued glow of the gloaming,
@@ -93,7 +93,7 @@ in Surbiton, while living physically in Florence, that he had
 never so much as heard in all those fifteen years that foreigners
 wore shirt-fronts on a different system of etiquette.  He regarded
 the poor foreign gentleman as some sort of impossible swaggering snob,
-whose raging vanity and vulgarity could not be restrained from
+whose raging [[Vanity|vanity]] and vulgarity could not be restrained from
 beginning to put on evening dress immediately after lunch.
 This seems to me a very extraordinary state of things; very comic
 and rather tragic, in these days when so much may depend upon
@@ -102,8 +102,8 @@ Christian nations understanding each other.
 I do not want the English or anybody else to be international in the sense
 of cosmopolitan.  Christendom has developed in a national form; and men
 who have no patriotism are not inside Europe but rather outside it.
-A Frenchman who does not love France, an Englishman who does not
-love England, is a bad European and not a good European.  He has no
+A Frenchman who does not [[Love|love]] France, an Englishman who does not
+[[Love|love]] England, is a bad European and not a good European.  He has no
 sympathy with some of the strongest motives of all other Europeans.
 But the case I mean is something quite different from the case
 for cosmopolitanism.  Indeed, the case is exactly the other way.
@@ -113,13 +113,13 @@ can be any differences at all.  It does not come from valuing a local
 thing as local, but from exactly the opposite error of supposing
 that it must be universal.
 
-The English are not Nationalist enough.  They love their nation;
-but they love it almost without knowing that it is a nation.
+The English are not Nationalist enough.  They [[Love|love]] their nation;
+but they [[Love|love]] it almost without knowing that it is a nation.
 And even when such an emotion is both natural and noble, there is
 always some miscalculation or confusion when things are not loved
-strictly according to their own nature; as there are people who
-cannot be persuaded to love a dog as a dog or a child as a child.
-An attachment to particular variations of custom or humour is
+strictly according to their own [[Nature|nature]]; as there are people who
+cannot be persuaded to [[Love|love]] a dog as a dog or a [[Child|child]] as a [[Child|child]].
+An attachment to particular variations of custom or [[Humour|humour]] is
 weakened when it is watered down to a sort of false generalization.
 Now, the common English error is excellently illustrated in that trivial
 topic of dress clothes.  The English do not say, "This is the English

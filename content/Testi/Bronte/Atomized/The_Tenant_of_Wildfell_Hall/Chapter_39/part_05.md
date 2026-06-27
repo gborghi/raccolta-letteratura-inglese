@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 39 (part 5)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,13 +20,13 @@ imagined that I should have been able to endure it as calmly, and to
 
 repel their insults as firmly and as boldly as I had done? A hardness
 
-such as this is taught by rough experience and despair alone.
+such as this is taught by rough experience and [[Despair|despair]] [[Alone|alone]].
 
 
 
 Such thoughts as these chased one another through my mind, as I paced
 
-to and fro the room, and longed—oh, _how_ I longed—to take my child and
+to and fro the room, and longed—oh, _how_ I longed—to take my [[Child|child]] and
 
 leave them now, without an hour’s delay! But it could not be; there was
 
@@ -64,15 +64,15 @@ cautious woman, but she so hates her master, and so loves her mistress
 
 and her nursling, that after several ejaculations, a few faint
 
-objections, and many tears and lamentations that I should be brought to
+objections, and many [[Tears|tears]] and lamentations that I should be brought to
 
 such a pass, she applauded my resolution and consented to aid me with
 
-all her might: on one condition only: that she might share my exile:
+all her might: on one condition only: that she might share my [[Exile|exile]]:
 
-otherwise, she was utterly inexorable, regarding it as perfect madness
+otherwise, she was utterly inexorable, regarding it as perfect [[Madness|madness]]
 
-for me and Arthur to go alone. With touching generosity, she modestly
+for me and [[arthur|Arthur]] to go [[Alone|alone]]. With touching generosity, she modestly
 
 offered to aid me with her little hoard of savings, hoping I would
 
@@ -86,15 +86,15 @@ hoard of my own, and my preparations are so far advanced that I am
 
 looking forward to a speedy emancipation. Only let the stormy severity
 
-of this winter weather be somewhat abated, and then, some morning, Mr.
+of this [[Winter|winter]] weather be somewhat abated, and then, some morning, Mr.
 
 Huntingdon will come down to a solitary breakfast-table, and perhaps be
 
-clamouring through the house for his invisible wife and child, when
+clamouring through the [[house]] for his invisible wife and [[Child|child]], when
 
 they are some fifty miles on their way to the Western world, or it may
 
-be more: for we shall leave him hours before the dawn, and it is not
+be more: for we shall leave him hours before the [[Dawn|dawn]], and it is not
 
 probable he will discover the loss of both until the day is far
 
@@ -118,7 +118,7 @@ gravely asked,—“Mamma, why are you wicked?”
 
 
 
-“Who told you I was wicked, love?”
+“Who told you I was wicked, [[Love|love]]?”
 
 
 
@@ -126,11 +126,11 @@ gravely asked,—“Mamma, why are you wicked?”
 
 
 
-“No, Arthur, Rachel never said so, I am certain.”
+“No, [[arthur|Arthur]], Rachel never said so, I am certain.”
 
 
 
-“Well, then, it was papa,” replied he, thoughtfully. Then, after a
+“[[Well]], then, it was papa,” replied he, thoughtfully. Then, after a
 
 reflective pause, he added, “At least, I’ll tell you how it was I got
 
@@ -144,7 +144,7 @@ mamma, that’s why I think you must be wicked: and I wish you wouldn’t.”
 
 
 
-“My dear child, I am not. Those are bad words, and wicked people often
+“My dear [[Child|child]], I am not. Those are bad words, and wicked people often
 
 say them of others better than themselves. Those words cannot make
 
@@ -152,7 +152,7 @@ people be damned, nor show that they deserve it. God will judge us by
 
 our own thoughts and deeds, not by what others say about us. And when
 
-you hear such words spoken, Arthur, remember never to repeat them: it
+you hear such words spoken, [[arthur|Arthur]], remember never to repeat them: it
 
 is wicked to say such things of others, not to have them said against
 
@@ -202,12 +202,12 @@ mind from the subject.
 
 “I’m sorry papa’s wicked,” said he mournfully, at length, “for I don’t
 
-want him to go to hell.” And so saying he burst into tears.
+want him to go to hell.” And so saying he burst into [[Tears|tears]].
 
 
 
-I consoled him with the hope that perhaps his papa would alter and
+I consoled him with the [[Hope|hope]] that perhaps his papa would alter and
 
-become good before he died—; but is it not time to deliver him from
+become good before he died—; but is it not [[Time|time]] to deliver him from
 
 such a parent?

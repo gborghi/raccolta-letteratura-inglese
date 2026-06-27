@@ -17,19 +17,19 @@ tags:
 CHAPTER 8. The Dowager Mrs Gowan is reminded that ‘It Never Does’
 
 
-While the waters of Venice and the ruins of Rome were sunning themselves
+While the waters of [[Venice]] and the ruins of Rome were sunning themselves
 for the pleasure of the Dorrit family, and were daily being sketched
 out of all earthly proportion, lineament, and likeness, by travelling
 pencils innumerable, the firm of Doyce and Clennam hammered away in
 Bleeding Heart Yard, and the vigorous clink of iron upon iron was heard
 there through the working hours.
 
-The younger partner had, by this time, brought the business into sound
+The younger partner had, by this [[Time|time]], brought the business into sound
 trim; and the elder, left free to follow his own ingenious devices, had
 done much to enhance the character of the factory. As an ingenious man,
 he had necessarily to encounter every discouragement that the ruling
-powers for a length of time had been able by any means to put in the way
-of this class of culprits; but that was only reasonable self-defence in
+powers for a length of [[Time|time]] had been able by any means to put in the way
+of this class of culprits; but that was only reasonable [[Self|self]]-defence in
 the powers, since How to do it must obviously be regarded as the natural
 and mortal enemy of How not to do it. In this was to be found the basis
 of the wise system, by tooth and nail upheld by the Circumlocution
@@ -41,11 +41,11 @@ though invention were on a par with felony. The system had uniformly
 found great favour with the Barnacles, and that was only reasonable,
 too; for one who worthily invents must be in earnest, and the Barnacles
 abhorred and dreaded nothing half so much. That again was very
-reasonable; since in a country suffering under the affliction of a great
-amount of earnestness, there might, in an exceeding short space of time,
+reasonable; since in a country [[Suffering|suffering]] under the affliction of a great
+amount of earnestness, there might, in an exceeding short space of [[Time|time]],
 be not a single Barnacle left sticking to a post.
 
-Daniel Doyce faced his condition with its pains and penalties attached
+[[Daniel Doyce]] faced his condition with its pains and penalties attached
 to it, and soberly worked on for the work’s sake. Clennam cheering him
 with a hearty co-operation, was a moral support to him, besides doing
 good service in his business relation. The concern prospered, and the
@@ -84,9 +84,9 @@ the qualification I have named.’
 compliments, but we know we are not--I shall have the advantage of as
 plain an explanation as can be given.’
 
-‘Well!’ said Daniel, in his steady even way, ‘I’ll try to make it so.’
+‘[[Well]]!’ said Daniel, in his steady even way, ‘I’ll try to make it so.’
 
-He had the power, often to be found in union with such a character, of
+He had the power, often to be found in [[Union|union]] with such a character, of
 explaining what he himself perceived, and meant, with the direct force
 and distinctness with which it struck his own mind. His manner of
 demonstration was so orderly and neat and simple, that it was not easy
@@ -108,7 +108,7 @@ was that it was established on irrefragable laws.
 Not only that evening, but for several succeeding evenings, Clennam was
 quite charmed by this investigation. The more he pursued it, and the
 oftener he glanced at the grey head bending over it, and the shrewd eye
-kindling with pleasure in it and love of it--instrument for probing his
+kindling with pleasure in it and [[Love|love]] of it--instrument for probing his
 heart though it had been made for twelve long years--the less he could
 reconcile it to his younger energy to let it go without one effort more.
 At length he said:

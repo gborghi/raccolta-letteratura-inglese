@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 6)"
+title: "[[Shirley]] — Chapter 7 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-her, but she wished to become superior to her present self, so as to
+her, but she wished to become superior to her present [[Self|self]], so as to
 
 feel less scared by their dignity.
 
@@ -78,7 +78,7 @@ who are not _au fait_ to the mysteries of the "Jew-basket" and
 
 the capacity of a good-sized family clothes-basket, dedicated to the
 
-purpose of conveying from house to house a monster collection of
+purpose of conveying from [[house]] to [[house]] a [[Monster|monster]] collection of
 
 pin-cushions, needle-books, card-racks, workbags, articles of infant
 
@@ -88,15 +88,15 @@ Christian ladies of a parish, and sold perforce to the heathenish
 
 gentlemen thereof, at prices unblushingly exorbitant. The proceeds of
 
-such compulsory sales are applied to the conversion of the Jews, the
+such compulsory sales are applied to the [[Conversion|conversion]] of the Jews, the
 
-seeking up of the ten missing tribes, or to the regeneration of the
+seeking up of the ten missing tribes, or to the [[Regeneration|regeneration]] of the
 
 interesting coloured population of the globe. Each lady contributor
 
 takes it in her turn to keep the basket a month, to sew for it, and to
 
-foist off its contents on a shrinking male public. An exciting time it
+foist off its contents on a shrinking male public. An exciting [[Time|time]] it
 
 is when that turn comes round. Some active-minded woman, with a good
 
@@ -108,7 +108,7 @@ hundred per cent. above cost price, for articles quite useless to them;
 
 other feebler souls object to it, and would rather see the prince of
 
-darkness himself at their door any morning than that phantom basket,
+darkness himself at their door any morning than that [[Phantom|phantom]] basket,
 
 brought with "Mrs. Rouse's compliments; and please, ma'am, she says it's
 
@@ -136,7 +136,7 @@ morning. We shall never have enow."
 
 
 
-"Only three and a loaf. I wish these fine folk would stay at home till
+"Only three and a loaf. I wish these fine folk would stay at [[Home|home]] till
 
 they're asked; and I want to finish trimming my hat" (bonnet she meant).
 
@@ -146,7 +146,7 @@ they're asked; and I want to finish trimming my hat" (bonnet she meant).
 
 a certain energy, "Fanny must run down to Briarfield and buy some
 
-muffins and crumpets and some biscuits. And don't be cross, Eliza; we
+muffins and crumpets and some biscuits. And don't be [[Cross|cross]], Eliza; we
 
 can't help it now."
 
@@ -170,7 +170,7 @@ cream-ewer, and sugar-basin.
 
 "Yes; and now get it ready as quickly as you can, for the sooner we have
 
-tea over the sooner they will go--at least, I hope so. Heigh-ho! I wish
+tea over the sooner they will go--at least, I [[Hope|hope]] so. Heigh-ho! I wish
 
 they were gone," she sighed, as she returned to the drawing-room.
 
@@ -188,9 +188,9 @@ interest in hearing any of them, or in speaking to them. How they will
 
 gabble when the curates come in, and how weary I shall grow with
 
-listening to them! But I suppose I am a selfish fool. These are very
+listening to them! But I suppose I am a selfish [[Fool|fool]]. These are very
 
-respectable gentlefolks. I ought, no doubt, to be proud of their
+respectable gentlefolks. I ought, no [[Doubt|doubt]], to be proud of their
 
 countenance. I don't say they are not as good as I am--far from it--but
 
@@ -204,7 +204,7 @@ She went in.
 
 Yorkshire people in those days took their tea round the table, sitting
 
-well into it, with their knees duly introduced under the mahogany. It
+[[Well|well]] into it, with their knees duly introduced under the mahogany. It
 
 was essential to have a multitude of plates of bread and butter, varied
 
@@ -222,11 +222,11 @@ with green parsley, so much the better.
 
 Eliza, the rector's cook, fortunately knew her business as provider. She
 
-had been put out of humour a little at first, when the invaders came so
+had been put out of [[Humour|humour]] a little at first, when the invaders came so
 
 unexpectedly in such strength; but it appeared that she regained her
 
-cheerfulness with action, for in due time the tea was spread forth in
+cheerfulness with action, for in due [[Time|time]] the tea was spread forth in
 
 handsome style, and neither ham, tarts, nor marmalade were wanting among
 

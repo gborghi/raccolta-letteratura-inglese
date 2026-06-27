@@ -36,13 +36,13 @@ This is she.
 
 It is.
 
-“Hah! Evrémonde has an assignation elsewhere. Lucie, her child. English.
+“Hah! Evrémonde has an assignation elsewhere. Lucie, her [[Child|child]]. English.
 This is she?”
 
 She and no other.
 
-“Kiss me, child of Evrémonde. Now, thou hast kissed a good Republican;
-something new in thy family; remember it! Sydney Carton. Advocate.
+“Kiss me, [[Child|child]] of Evrémonde. Now, thou hast kissed a good Republican;
+something new in thy family; remember it! [[Sydney Carton]]. Advocate.
 English. Which is he?”
 
 He lies here, in this corner of the carriage. He, too, is pointed out.
@@ -54,29 +54,29 @@ he is not in strong health, and has separated sadly from a friend who is
 under the displeasure of the Republic.
 
 “Is that all? It is not a great deal, that! Many are under the
-displeasure of the Republic, and must look out at the little window.
-Jarvis Lorry. Banker. English. Which is he?”
+displeasure of the Republic, and must look out at the little [[Window|window]].
+[[Jarvis Lorry]]. Banker. English. Which is he?”
 
 “I am he. Necessarily, being the last.”
 
-It is Jarvis Lorry who has replied to all the previous questions. It
-is Jarvis Lorry who has alighted and stands with his hand on the coach
+It is [[Jarvis Lorry]] who has replied to all the previous questions. It
+is [[Jarvis Lorry]] who has alighted and stands with his hand on the coach
 door, replying to a group of officials. They leisurely walk round the
 carriage and leisurely mount the box, to look at what little luggage it
 carries on the roof; the country-people hanging about, press nearer to
-the coach doors and greedily stare in; a little child, carried by its
+the coach doors and greedily stare in; a little [[Child|child]], carried by its
 mother, has its short arm held out for it, that it may touch the wife of
-an aristocrat who has gone to the Guillotine.
+an [[aristocrat]] who has gone to the Guillotine.
 
-“Behold your papers, Jarvis Lorry, countersigned.”
+“Behold your papers, [[Jarvis Lorry]], countersigned.”
 
 “One can depart, citizen?”
 
-“One can depart. Forward, my postilions! A good journey!”
+“One can depart. Forward, my postilions! A good [[Journey|journey]]!”
 
 “I salute you, citizens.--And the first danger passed!”
 
-These are again the words of Jarvis Lorry, as he clasps his hands, and
+These are again the words of [[Jarvis Lorry]], as he clasps his hands, and
 looks upward. There is terror in the carriage, there is weeping, there
 is the heavy breathing of the insensible traveller.
 
@@ -88,7 +88,7 @@ it would rouse suspicion.”
 
 “Look back, look back, and see if we are pursued!”
 
-“The road is clear, my dearest. So far, we are not pursued.”
+“The [[Road|road]] is clear, my dearest. So far, we are not pursued.”
 
 Houses in twos and threes pass by us, solitary farms, ruinous buildings,
 dye-works, tanneries, and the like, open country, avenues of leafless
@@ -102,9 +102,9 @@ anything but stopping.
 Out of the open country, in again among ruinous buildings, solitary
 farms, dye-works, tanneries, and the like, cottages in twos and threes,
 avenues of leafless trees. Have these men deceived us, and taken us back
-by another road? Is not this the same place twice over? Thank Heaven,
+by another [[Road|road]]? Is not this the same place twice over? Thank Heaven,
 no. A village. Look back, look back, and see if we are pursued! Hush!
-the posting-house.
+the posting-[[house]].
 
 Leisurely, our four horses are taken out; leisurely, the coach stands in
 the little street, bereft of horses, and with no likelihood upon it
@@ -112,18 +112,18 @@ of ever moving again; leisurely, the new horses come into visible
 existence, one by one; leisurely, the new postilions follow, sucking and
 plaiting the lashes of their whips; leisurely, the old postilions count
 their money, make wrong additions, and arrive at dissatisfied results.
-All the time, our overfraught hearts are beating at a rate that would
+All the [[Time|time]], our overfraught hearts are beating at a rate that would
 far outstrip the fastest gallop of the fastest horses ever foaled.
 
 At length the new postilions are in their saddles, and the old are left
-behind. We are through the village, up the hill, and down the hill, and
+behind. We are through the village, up the [[Hill|hill]], and down the [[Hill|hill]], and
 on the low watery grounds. Suddenly, the postilions exchange speech with
 animated gesticulation, and the horses are pulled up, almost on their
 haunches. We are pursued?
 
 “Ho! Within the carriage there. Speak then!”
 
-“What is it?” asks Mr. Lorry, looking out at window.
+“What is it?” asks Mr. Lorry, looking out at [[Window|window]].
 
 “How many did they say?”
 
@@ -135,13 +135,13 @@ haunches. We are pursued?
 
 “I said so! A brave number! My fellow-citizen here would have it
 forty-two; ten more heads are worth having. The Guillotine goes
-handsomely. I love it. Hi forward. Whoop!”
+handsomely. I [[Love|love]] it. Hi forward. Whoop!”
 
-The night comes on dark. He moves more; he is beginning to revive, and
+The [[Night|night]] comes on dark. He moves more; he is beginning to revive, and
 to speak intelligibly; he thinks they are still together; he asks him,
 by his name, what he has in his hand. O pity us, kind Heaven, and help
 us! Look out, look out, and see if we are pursued.
 
-The wind is rushing after us, and the clouds are flying after us, and
-the moon is plunging after us, and the whole wild night is in pursuit of
+The [[Wind|wind]] is rushing after us, and the clouds are flying after us, and
+the [[Moon|moon]] is plunging after us, and the whole wild [[Night|night]] is in pursuit of
 us; but, so far, we are pursued by nothing else.

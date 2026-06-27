@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 3"
+title: "[[Emma]] — Chapter 3"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER III
 
 
-This little explanation with Mr. Knightley gave Emma considerable
+This little explanation with Mr. Knightley gave [[Emma]] considerable
 pleasure. It was one of the agreeable recollections of the ball, which
 she walked about the lawn the next morning to enjoy.—She was extremely
 glad that they had come to so good an understanding respecting the
@@ -30,21 +30,21 @@ to another happy result—the cure of Harriet’s infatuation.—From
 Harriet’s manner of speaking of the circumstance before they quitted
 the ballroom, she had strong hopes. It seemed as if her eyes were
 suddenly opened, and she were enabled to see that Mr. Elton was not the
-superior creature she had believed him. The fever was over, and Emma
-could harbour little fear of the pulse being quickened again by
+superior creature she had believed him. The fever was over, and [[Emma]]
+could harbour little [[Fear|fear]] of the pulse being quickened again by
 injurious courtesy. She depended on the evil feelings of the Eltons for
 supplying all the discipline of pointed neglect that could be farther
-requisite.—Harriet rational, Frank Churchill not too much in love, and
-Mr. Knightley not wanting to quarrel with her, how very happy a summer
+requisite.—Harriet rational, [[Frank Churchill]] not too much in [[Love|love]], and
+Mr. Knightley not wanting to quarrel with her, how very happy a [[Summer|summer]]
 must be before her!
 
-She was not to see Frank Churchill this morning. He had told her that
+She was not to see [[Frank Churchill]] this morning. He had told her that
 he could not allow himself the pleasure of stopping at Hartfield, as he
-was to be at home by the middle of the day. She did not regret it.
+was to be at [[Home|home]] by the middle of the day. She did not regret it.
 
 Having arranged all these matters, looked them through, and put them
-all to rights, she was just turning to the house with spirits freshened
-up for the demands of the two little boys, as well as of their
+all to rights, she was just turning to the [[house]] with spirits freshened
+up for the demands of the two little boys, as [[Well|well]] as of their
 grandpapa, when the great iron sweep-gate opened, and two persons
 entered whom she had never less expected to see together—Frank
 Churchill, with Harriet leaning on his arm—actually Harriet!—A moment
@@ -56,18 +56,18 @@ sinking into a chair fainted away.
 
 A young lady who faints, must be recovered; questions must be answered,
 and surprizes be explained. Such events are very interesting, but the
-suspense of them cannot last long. A few minutes made Emma acquainted
+suspense of them cannot last long. A few minutes made [[Emma]] acquainted
 with the whole.
 
-Miss Smith, and Miss Bickerton, another parlour boarder at Mrs.
+Miss [[smith|Smith]], and Miss Bickerton, another parlour boarder at Mrs.
 Goddard’s, who had been also at the ball, had walked out together, and
-taken a road, the Richmond road, which, though apparently public enough
+taken a [[Road|road]], the Richmond [[Road|road]], which, though apparently public enough
 for safety, had led them into alarm.—About half a mile beyond Highbury,
 making a sudden turn, and deeply shaded by elms on each side, it became
 for a considerable stretch very retired; and when the young ladies had
 advanced some way into it, they had suddenly perceived at a small
 distance before them, on a broader patch of greensward by the side, a
-party of gipsies. A child on the watch, came towards them to beg; and
+party of gipsies. A [[Child|child]] on the watch, came towards them to beg; and
 Miss Bickerton, excessively frightened, gave a great scream, and
 calling on Harriet to follow her, ran up a steep bank, cleared a slight
 hedge at the top, and made the best of her way by a short cut back to
@@ -87,13 +87,13 @@ use her ill.—She was then able to walk, though but slowly, and was
 moving away—but her terror and her purse were too tempting, and she was
 followed, or rather surrounded, by the whole gang, demanding more.
 
-In this state Frank Churchill had found her, she trembling and
+In this state [[Frank Churchill]] had found her, she trembling and
 conditioning, they loud and insolent. By a most fortunate chance his
 leaving Highbury had been delayed so as to bring him to her assistance
 at this critical moment. The pleasantness of the morning had induced
-him to walk forward, and leave his horses to meet him by another road,
+him to walk forward, and leave his horses to meet him by another [[Road|road]],
 a mile or two beyond Highbury—and happening to have borrowed a pair of
-scissors the night before of Miss Bates, and to have forgotten to
+scissors the [[Night|night]] before of [[Miss Bates]], and to have forgotten to
 restore them, he had been obliged to stop at her door, and go in for a
 few minutes: he was therefore later than he had intended; and being on
 foot, was unseen by the whole party till almost close to them. The
@@ -106,25 +106,25 @@ place.
 
 This was the amount of the whole story,—of his communication and of
 Harriet’s as soon as she had recovered her senses and speech.—He dared
-not stay longer than to see her well; these several delays left him not
-another minute to lose; and Emma engaging to give assurance of her
+not stay longer than to see her [[Well|well]]; these several delays left him not
+another minute to lose; and [[Emma]] engaging to give assurance of her
 safety to Mrs. Goddard, and notice of there being such a set of people
 in the neighbourhood to Mr. Knightley, he set off, with all the
 grateful blessings that she could utter for her friend and herself.
 
 Such an adventure as this,—a fine young man and a lovely young woman
 thrown together in such a way, could hardly fail of suggesting certain
-ideas to the coldest heart and the steadiest brain. So Emma thought, at
+ideas to the coldest heart and the steadiest brain. So [[Emma]] thought, at
 least. Could a linguist, could a grammarian, could even a mathematician
 have seen what she did, have witnessed their appearance together, and
-heard their history of it, without feeling that circumstances had been
+heard their [[history]] of it, without feeling that circumstances had been
 at work to make them peculiarly interesting to each other?—How much
-more must an imaginist, like herself, be on fire with speculation and
+more must an imaginist, like herself, be on [[Fire|fire]] with speculation and
 foresight!—especially with such a groundwork of anticipation as her
 mind had already made.
 
 It was a very extraordinary thing! Nothing of the sort had ever
-occurred before to any young ladies in the place, within her memory; no
+occurred before to any young ladies in the place, within her [[Memory|memory]]; no
 rencontre, no alarm of the kind;—and now it had happened to the very
 person, and at the very hour, when the other very person was chancing
 to pass by to rescue her!—It certainly was very extraordinary!—And
@@ -147,30 +147,30 @@ interference. There could be no harm in a scheme, a mere passive
 scheme. It was no more than a wish. Beyond it she would on no account
 proceed.
 
-Emma’s first resolution was to keep her father from the knowledge of
+[[Emma]]’s first resolution was to keep her father from the knowledge of
 what had passed,—aware of the anxiety and alarm it would occasion: but
 she soon felt that concealment must be impossible. Within half an hour
 it was known all over Highbury. It was the very event to engage those
 who talk most, the young and the low; and all the youth and servants in
 the place were soon in the happiness of frightful news. The last
-night’s ball seemed lost in the gipsies. Poor Mr. Woodhouse trembled as
-he sat, and, as Emma had foreseen, would scarcely be satisfied without
+[[Night|night]]’s ball seemed lost in the gipsies. Poor Mr. Woodhouse trembled as
+he sat, and, as [[Emma]] had foreseen, would scarcely be satisfied without
 their promising never to go beyond the shrubbery again. It was some
 comfort to him that many inquiries after himself and Miss Woodhouse
-(for his neighbours knew that he loved to be inquired after), as well
-as Miss Smith, were coming in during the rest of the day; and he had
+(for his neighbours knew that he loved to be inquired after), as [[Well|well]]
+as Miss [[smith|Smith]], were coming in during the rest of the day; and he had
 the pleasure of returning for answer, that they were all very
-indifferent—which, though not exactly true, for she was perfectly well,
-and Harriet not much otherwise, Emma would not interfere with. She had
-an unhappy state of health in general for the child of such a man, for
+indifferent—which, though not exactly true, for she was perfectly [[Well|well]],
+and Harriet not much otherwise, [[Emma]] would not interfere with. She had
+an unhappy state of health in general for the [[Child|child]] of such a man, for
 she hardly knew what indisposition was; and if he did not invent
 illnesses for her, she could make no figure in a message.
 
 The gipsies did not wait for the operations of justice; they took
 themselves off in a hurry. The young ladies of Highbury might have
-walked again in safety before their panic began, and the whole history
-dwindled soon into a matter of little importance but to Emma and her
-nephews:—in her imagination it maintained its ground, and Henry and
+walked again in safety before their panic began, and the whole [[history]]
+dwindled soon into a matter of little importance but to [[Emma]] and her
+nephews:—in her [[Imagination|imagination]] it maintained its ground, and Henry and
 John were still asking every day for the story of Harriet and the
 gipsies, and still tenaciously setting her right if she varied in the
 slightest particular from the original recital.

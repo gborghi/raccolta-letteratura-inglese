@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 2 (part 4)"
+title: "[[queertrades]] — Chapter 2 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -23,19 +23,19 @@ and sometimes so reactionary.  Are you a modern, Basil?"
 the crowded drawing-room.
 
 This caused a slight diversion, and some eyes were turned away
-from our slim friend with the Oriental face for the first time
+from our slim friend with the Oriental face for the first [[Time|time]]
 that afternoon.  Two people, however, still looked at him.
-One was the daughter of the house, Muriel Beaumont, who gazed at
+One was the daughter of the [[house]], Muriel Beaumont, who gazed at
 him with great violet eyes and with the intense and awful thirst
 of the female upper class for verbal amusement and stimulus.
 The other was Sir Walter Cholmondeliegh, who looked at him with a still
-and sullen but unmistakable desire to throw him out of the window.
+and sullen but unmistakable [[Desire|desire]] to throw him out of the [[Window|window]].
 
 He sat there, coiled rather than seated on the easy chair;
 everything from the curves of his smooth limbs to the coils
 of his silvered hair suggesting the circles of a serpent more than
 the straight limbs of a man--the unmistakable, splendid serpentine
-gentleman we had seen walking in North London, his eyes shining
+gentleman we had seen walking in North [[London]], his eyes shining
 with repeated victory.
 
 "What I can't understand, Mr Wimpole," said Muriel Beaumont
@@ -64,7 +64,7 @@ Grant walked across the room and tapped the red-moustached secretary
 on the shoulder.  That gentleman was leaning against the wall
 regarding the whole scene with a great deal of gloom; but, I fancied,
 with very particular gloom when his eyes fell on the young lady
-of the house rapturously listening to Wimpole.
+of the [[house]] rapturously listening to Wimpole.
 
 "May I have a word with you outside, Drummond?" asked Grant.
 "It is about business.  Lady Beaumont will excuse us."
@@ -119,7 +119,7 @@ Sir Walter hates him."
 This speech affected me with a genuine sense of esteem and pity for
 the young man; that is, of pity for him because of his obviously hopeless
 worship of Miss Beaumont, and of esteem for him because of the direct
-realistic account of the history of Wimpole which he had given.
+realistic account of the [[history]] of Wimpole which he had given.
 Still, I was sorry that he seemed so steadily set against the man,
 and could not help referring it to an instinct of his personal relations,
 however nobly disguised from himself.
@@ -138,11 +138,11 @@ within a few minutes, in the street outside.
 "What is?"  I asked, baldly enough.
 
 "This affair.  Listen to me, my old friend.  Lord and Lady Beaumont
-have just invited you and me to a grand dinner-party this very night,
-at which Mr Wimpole will be in all his glory.  Well, there is nothing
+have just invited you and me to a grand dinner-party this very [[Night|night]],
+at which Mr Wimpole will be in all his glory.  [[Well]], there is nothing
 very extraordinary about that.  The extraordinary thing is that we
 are not going."
 
-"Well, really," I said, "it is already six o'clock and I doubt if we
-could get home and dress.  I see nothing extraordinary in the fact
+"[[Well]], really," I said, "it is already six o'[[Clock|clock]] and I [[Doubt|doubt]] if we
+could get [[Home|home]] and dress.  I see nothing extraordinary in the fact
 that we are not going."

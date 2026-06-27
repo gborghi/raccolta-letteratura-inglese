@@ -27,14 +27,14 @@ two fingers and a thumb, with which, in fact, all the
 mightiest or most ingenious works of man have been done.
 Everything turns on the co-operation of that trinity of digits:
 the pen, the pencil, the bow of the violin, and even
-the foil or the sword.  In this respect Punch and Judy
+the foil or the [[Sword|sword]].  In this respect Punch and Judy
 has a purity and classical simplicity as a form of art,
 superior even to what is more commonly called the puppet show--
 the more mechanical system of marionettes that work on wires.
 And there is this final touch of disgrace in the neglect of it:
 that while marionettes are mostly a foreign amusement, Punch has
-become a purely English survival.  It is very English, it is
+become a purely English [[Survival|survival]].  It is very English, it is
 really popular, it is within the reach of comparatively poor men.
-Who can wonder that it is dying out?
+Who can [[Wonder|wonder]] that it is dying out?
 
-                                Illustrated London News, October 8th, 1921
+                                Illustrated [[London]] News, October 8th, 1921

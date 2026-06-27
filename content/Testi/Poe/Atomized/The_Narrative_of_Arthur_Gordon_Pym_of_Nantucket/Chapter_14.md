@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 15"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 15"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -34,7 +34,7 @@ longitude 12° 8' W.
 
 
 
-This group, now so well known, and which consists of three circular
+This group, now so [[Well|well]] known, and which consists of three circular
 
 islands, was first discovered by the Portuguese, and was visited
 
@@ -60,17 +60,17 @@ tableland arises a lofty cone like that of Teneriffe. The lower half of
 
 this cone is clothed with trees of good size, but the upper region is
 
-barren rock, usually hidden among the clouds, and covered with snow
+barren rock, usually hidden among the clouds, and covered with [[Snow|snow]]
 
 during the greater part of the year. There are no shoals or other
 
 dangers about the island, the shores being remarkably bold and the
 
-water deep. On the northwestern coast is a bay, with a beach of black
+[[Water|water]] deep. On the northwestern coast is a bay, with a beach of black
 
 sand, where a landing with boats can be easily effected, provided there
 
-be a southerly wind. Plenty of excellent water may here be readily
+be a southerly [[Wind|wind]]. Plenty of excellent [[Water|water]] may here be readily
 
 procured; also cod, and other fish, may be taken with hook and line.
 
@@ -90,7 +90,7 @@ nothing growing upon it except a few stunted shrubs.
 
 
 
-Nightingale Island, the smallest and most southerly, is in latitude 37°
+[[Nightingale]] Island, the smallest and most southerly, is in latitude 37°
 
 26' S., longitude 12° 12' W. Off its southern extremity is a high ledge
 
@@ -106,29 +106,29 @@ The shores of these islands abound, in the proper season, with sea
 
 lions, sea elephants, the hair and fur seal, together with a great
 
-variety of oceanic birds. Whales are also plenty in their vicinity.
+variety of oceanic [[Birds|birds]]. Whales are also plenty in their vicinity.
 
-Owing to the ease with which these various animals were here formerly
+Owing to the ease with which these various [[Animals|animals]] were here formerly
 
 taken, the group has been much visited since its discovery. The Dutch
 
 and French frequented it at a very early period. In 1790, Captain
 
-Patten, of the ship Industry, of Philadelphia, made Tristan d'Acunha,
+Patten, of the [[Ship|ship]] Industry, of Philadelphia, made Tristan d'Acunha,
 
 where he remained seven months (from August, 1790, to April, 1791) for
 
-the purpose of collecting sealskins. In this time he gathered no less
+the purpose of collecting sealskins. In this [[Time|time]] he gathered no less
 
 than five thousand six hundred, and says that he would have had no
 
-difficulty in loading a large ship with oil in three weeks. Upon his
+difficulty in loading a large [[Ship|ship]] with oil in three weeks. Upon his
 
 arrival he found no quadrupeds, with the exception of a few wild
 
 goats--the island now abounds with all our most valuable domestic
 
-animals, which have been introduced by subsequent navigators.
+[[Animals|animals]], which have been introduced by subsequent navigators.
 
 
 
@@ -160,17 +160,17 @@ furnished by the American minister at Rio Janeiro. This settlement,
 
 however, was finally abandoned, and in 1817 the islands were taken
 
-possession of by the British government, who sent a detachment for that
+possession of by the British [[government]], who sent a detachment for that
 
-purpose from the Cape of Good Hope. They did not, however, retain them
+purpose from the Cape of Good [[Hope]]. They did not, however, retain them
 
 long; but, upon the evacuation of the country as a British possession,
 
 two or three English families took up their residence there
 
-independently of the government. On the twenty-fifth of March, 1824,
+independently of the [[government]]. On the twenty-fifth of March, 1824,
 
-the Berwick, Captain Jeffrey, from London to Van Diemen's Land, arrived
+the Berwick, Captain Jeffrey, from [[London]] to Van Diemen's Land, arrived
 
 at the place, where they found an Englishman of the name of Glass,
 
@@ -184,7 +184,7 @@ climate and of the productiveness of the soil. The population occupied
 
 themselves chiefly in collecting sealskins and sea elephant oil, with
 
-which they traded to the Cape of Good Hope, Glass owning a small
+which they traded to the Cape of Good [[Hope]], Glass owning a small
 
 schooner. At the period of our arrival the governor was still a
 
@@ -192,7 +192,7 @@ resident, but his little community had multiplied, there being
 
 fifty-six persons upon Tristan, besides a smaller settlement of seven
 
-on Nightingale Island. We had no difficulty in procuring almost every
+on [[Nightingale]] Island. We had no difficulty in procuring almost every
 
 kind of refreshment which we required--sheep, hogs, bullocks, rabbits,
 
@@ -218,9 +218,9 @@ respecting whose existence a great diversity of opinion has existed.
 
 These islands are said to have been discovered as early as 1762, by the
 
-commander of the ship Aurora. In 1790, Captain Manuel de Oyarvido, in
+commander of the [[Ship|ship]] Aurora. In 1790, Captain Manuel de Oyarvido, in
 
-the ship Princess, belonging to the Royal Philippine Company, sailed,
+the [[Ship|ship]] Princess, belonging to the Royal Philippine Company, sailed,
 
 as he asserts, directly among them. In 1794, the Spanish corvette
 
@@ -286,9 +286,9 @@ dispute.[3]
 
 [Footnote 3: Among the vessels which at various times have professed to
 
-meet with the Auroras may be mentioned the ship San Miguel, in 1769;
+meet with the Auroras may be mentioned the [[Ship|ship]] San Miguel, in 1769;
 
-the ship Aurora, in 1774; the brig Pearl, in 1779; and the ship
+the [[Ship|ship]] Aurora, in 1774; the brig Pearl, in 1779; and the [[Ship|ship]]
 
 Dolores, in 1790. They all agree in giving the mean latitude
 
@@ -312,11 +312,11 @@ degrees south, as far as the meridian of fifty degrees west. We then
 
 stood to the north as far as the parallel of fifty-two degrees south,
 
-when we turned to the eastward, and kept our parallel by double
+when we turned to the eastward, and kept our parallel by [[Double|double]]
 
 altitudes, morning and evening, and meridian altitudes of the planets
 
-and moon. Having thus gone eastwardly to the meridian of the western
+and [[Moon|moon]]. Having thus gone eastwardly to the meridian of the western
 
 coast of Georgia, we kept that meridian until we were in the latitude
 
@@ -334,7 +334,7 @@ satisfied that, whatever islands might have existed in this vicinity at
 
 any former period, no vestige of them remained at the present day.
 
-Since my return home I find that the same ground was traced over with
+Since my return [[Home|home]] I find that the same ground was traced over with
 
 equal care in 1822 by Captain Johnson, of the American schooner Henry,
 

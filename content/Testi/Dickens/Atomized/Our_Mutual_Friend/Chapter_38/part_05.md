@@ -30,7 +30,7 @@ Bella, looking up.
 Boffin. ‘Patrons and Patronesses, and Vice-Patrons and Vice-Patronesses,
 and Deceased Patrons and Deceased Patronesses, and Ex-Vice-Patrons and
 Ex-Vice-Patronesses, what does it all mean in the books of the Charities
-that come pouring in on Rokesmith as he sits among ’em pretty well up to
+that come pouring in on Rokesmith as he sits among ’em pretty [[Well|well]] up to
 his neck! If Mr Tom Noakes gives his five shillings ain’t he a Patron,
 and if Mrs Jack Styles gives her five shillings ain’t she a Patroness?
 What the deuce is it all about? If it ain’t stark staring impudence,
@@ -49,7 +49,7 @@ Institution’s going to be built, it seems to me that the bricks and
 mortar ain’t made of half so much consequence as the Patrons and
 Patronesses; no, nor yet the objects. I wish somebody would tell me
 whether other countries get Patronized to anything like the extent of
-this one! And as to the Patrons and Patronesses themselves, I wonder
+this one! And as to the Patrons and Patronesses themselves, I [[Wonder|wonder]]
 they’re not ashamed of themselves. They ain’t Pills, or Hair-Washes, or
 Invigorating Nervous Essences, to be puffed in that way!’
 
@@ -87,12 +87,12 @@ yonder at the Bower, for instance. Wouldn’t you like to see the
 Bower, and know a retired literary man of the name of Wegg that lives
 there—WITH a wooden leg?’
 
-Old Betty was proof even against this temptation, and fell to adjusting
+Old Betty was proof even against this [[Temptation|temptation]], and fell to adjusting
 her black bonnet and shawl.
 
 ‘I wouldn’t let you go, now it comes to this, after all,’ said Mr
-Boffin, ‘if I didn’t hope that it may make a man and a workman of
-Sloppy, in as short a time as ever a man and workman was made yet. Why,
+Boffin, ‘if I didn’t [[Hope|hope]] that it may make a man and a workman of
+Sloppy, in as short a [[Time|time]] as ever a man and workman was made yet. Why,
 what have you got there, Betty? Not a doll?’
 
 It was the man in the Guards who had been on duty over Johnny’s bed.
@@ -103,6 +103,6 @@ and blooming neck, and said, repeating Johnny’s words: ‘A kiss for the
 boofer lady.’
 
 The Secretary looked on from a doorway at the boofer lady thus
-encircled, and still looked on at the boofer lady standing alone there,
+encircled, and still looked on at the boofer lady standing [[Alone|alone]] there,
 when the determined old figure with its steady bright eyes was trudging
 through the streets, away from paralysis and pauperism.

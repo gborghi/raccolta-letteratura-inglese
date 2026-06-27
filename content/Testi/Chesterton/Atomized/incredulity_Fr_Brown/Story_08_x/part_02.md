@@ -1,5 +1,5 @@
 ---
-title: "incredulity Fr Brown — ' (part 2)"
+title: "[[Incredulity|incredulity]] Fr Brown — ' (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-'But an historical novel,' answered Dr Barnet. 'The Darnaways all went
-to sleep a few centuries ago, when things were really done that we only
+'But an [[Historical Novel|historical novel]],' answered Dr Barnet. 'The Darnaways all went
+to [[Sleep|sleep]] a few centuries ago, when things were really done that we only
 read of in romances. Yes; I believe there's some family tradition by
 which second or third cousins always marry when they stand in a certain
 relation of age, in order to unite the property. A damned silly
@@ -26,34 +26,34 @@ so rotten.'
 'I should hardly say,' answered Payne a little stuffily, 'that they had
 all gone rotten.'
 
-'Well,' replied the doctor, 'the young man doesn't look rotten, of
+'[[Well]],' replied the doctor, 'the young man doesn't look rotten, of
 course, though he's certainly lame.'
 
 'The young man!' cried Payne, who was suddenly and unreasonably angry.
-'Well, if you think the young lady looks rotten, I think it's you who
+'[[Well]], if you think the young lady looks rotten, I think it's you who
 have rotten taste.'
 
 The doctor's face grew dark and bitter. 'I fancy I know more about it
 than you do,' he snapped.
 
-They completed the walk in silence, each feeling that he had been
+They completed the walk in [[Silence|silence]], each feeling that he had been
 irrationally rude and had suffered equally irrational rudeness; and
-Payne was left to brood alone on the matter, for his friend Wood had
+Payne was left to brood [[Alone|alone]] on the matter, for his friend Wood had
 remained behind to attend to some of his business in connexion with the
 pictures.
 
 Payne took very full advantage of the invitation extended by the
 colonial cousin, who wanted somebody to cheer him up. During the next
-few weeks he saw a good deal of the dark interior of the Darnaway home;
+few weeks he saw a good deal of the dark interior of the Darnaway [[Home|home]];
 though it might be said that he did not confine himself entirely to
-cheering up the colonial cousin. The lady's melancholy was of longer
+cheering up the colonial cousin. The lady's [[Melancholy|melancholy]] was of longer
 standing and perhaps needed more lifting; anyhow, he showed a laborious
-readiness to lift it. He was not without a conscience, however, and the
+readiness to lift it. He was not without a [[Conscience|conscience]], however, and the
 situation made him doubtful and uncomfortable. Weeks went by and nobody
 could discover from the demeanour of the new Darnaway whether he
 considered himself engaged according to the old compact or no. He went
 mooning about the dark galleries and stood staring vacantly at the dark
-and sinister picture. The shades of that prison - house were certainly
+and sinister picture. The shades of that [[Prison|prison]] - [[house]] were certainly
 beginning to close on him, and there was little of his Australian
 assurance left. But Payne could discover nothing upon the point that
 concerned him most. Once he attempted to confide in his friend Martin
@@ -95,7 +95,7 @@ It seems to me your position is very unreasonable.'
 'Of course it's all a tangle,' said Wood rather crossly, and went on
 hammering at the frame of a canvas.
 
-Suddenly, one morning, the new heir broke his long and baffling silence.
+Suddenly, one morning, the new heir broke his long and baffling [[Silence|silence]].
 He did it in a curious fashion, a little crude, as was his way, but with
 an obvious anxiety to do the right thing. He asked frankly for advice,
 not of this or that individual as Payne had done, but collectively as of
@@ -108,7 +108,7 @@ information, calling a sort of family council at which he put his cards
 on the table. It might be said that he flung down his cards on the
 table, for he did it with a rather desperate air, like one who had been
 harassed for days and nights by the increasing pressure of a problem. In
-that short time the shadows of that place of low windows and sinking
+that short [[Time|time]] the shadows of that place of low windows and sinking
 pavements had curiously changed him, and increased a certain resemblance
 that crept through all their memories.
 
@@ -119,7 +119,7 @@ black, and Wood and Darnaway habitually wore dark grey suits that looked
 almost like black. Perhaps this incongruity had been what the young man
 had meant by calling him a human being. At that moment the young man
 himself turned abruptly in his chair and began to talk. A moment after
-the dazed artist knew that he was talking about the most tremendous
+the dazed [[Artist|artist]] knew that he was talking about the most tremendous
 thing in the world.
 
 'Is there anything in it?' he was saying. 'That is what I've come to

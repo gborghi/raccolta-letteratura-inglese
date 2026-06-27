@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 2"
+title: "[[Pride and Prejudice]] — Chapter 2"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -26,7 +26,7 @@ paid she had no knowledge of it. It was then disclosed in the following
 manner. Observing his second daughter employed in trimming a hat, he
 suddenly addressed her with,--
 
-“I hope Mr. Bingley will like it, Lizzy.”
+“I [[Hope|hope]] Mr. Bingley will like it, Lizzy.”
 
 “We are not in a way to know _what_ Mr. Bingley likes,” said her mother,
 resentfully, “since we are not to visit.”
@@ -65,7 +65,7 @@ Mr. Bingley to _her_.”
 “Impossible, Mr. Bennet, impossible, when I am not acquainted with him
 myself; how can you be so teasing?”
 
-“I honour your circumspection. A fortnight’s acquaintance is certainly
+“I [[Honour|honour]] your circumspection. A fortnight’s acquaintance is certainly
 very little. One cannot know what a man really is by the end of a
 fortnight. But if _we_ do not venture, somebody else will; and after
 all, Mrs. Long and her nieces must stand their chance; and, therefore,
@@ -99,8 +99,8 @@ was over, she began to declare that it was what she had expected all the
 while.
 
 “How good it was in you, my dear Mr. Bennet! But I knew I should
-persuade you at last. I was sure you loved your girls too well to
-neglect such an acquaintance. Well, how pleased I am! And it is such a
+persuade you at last. I was sure you loved your girls too [[Well|well]] to
+neglect such an acquaintance. [[Well]], how pleased I am! And it is such a
 good joke, too, that you should have gone this morning, and never said a
 word about it till now.”
 
@@ -109,10 +109,10 @@ as he spoke, he left the room, fatigued with the raptures of his wife.
 
 “What an excellent father you have, girls,” said she, when the door was
 shut. “I do not know how you will ever make him amends for his kindness;
-or me either, for that matter. At our time of life, it is not so
+or me either, for that matter. At our [[Time|time]] of life, it is not so
 pleasant, I can tell you, to be making new acquaintances every day; but
-for your sakes we would do anything. Lydia, my love, though you _are_
-the youngest, I dare say Mr. Bingley will dance with you at the next
+for your sakes we would do anything. Lydia, my [[Love|love]], though you _are_
+the youngest, I dare say Mr. Bingley will [[Dance|dance]] with you at the next
 ball.”
 
 “Oh,” said Lydia, stoutly, “I am not afraid; for though I _am_ the
@@ -129,5 +129,5 @@ dinner.
 
 [Illustration:
 
-     “He rode a black horse”
+     “He rode a black [[Horse|horse]]”
 ]

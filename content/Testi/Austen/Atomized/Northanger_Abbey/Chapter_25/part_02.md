@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 24 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 24 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-companion. It would be impossible to explain to Eleanor the suspicions,
+companion. It would be impossible to explain to [[Eleanor]] the suspicions,
 
 from which the other had, in all likelihood, been hitherto happily
 
@@ -30,17 +30,17 @@ the way to the apartment she was now perfectly mistress; and as she
 
 wished to get it over before Henry’s return, who was expected on the
 
-morrow, there was no time to be lost. The day was bright, her courage
+morrow, there was no [[Time|time]] to be lost. The day was bright, her [[Courage|courage]]
 
-high; at four o’clock, the sun was now two hours above the horizon, and
+high; at four o’[[Clock|clock]], the sun was now two hours above the horizon, and
 
 it would be only her retiring to dress half an hour earlier than usual.
 
 
 
-It was done; and Catherine found herself alone in the gallery before
+It was done; and Catherine found herself [[Alone|alone]] in the gallery before
 
-the clocks had ceased to strike. It was no time for thought; she
+the clocks had ceased to strike. It was no [[Time|time]] for thought; she
 
 hurried on, slipped with the least possible noise through the folding
 
@@ -54,7 +54,7 @@ room was before her; but it was some minutes before she could advance
 
 another step. She beheld what fixed her to the spot and agitated every
 
-feature. She saw a large, well-proportioned apartment, an handsome
+feature. She saw a large, [[Well|well]]-proportioned apartment, an handsome
 
 dimity bed, arranged as unoccupied with an housemaid’s care, a bright
 
@@ -64,7 +64,7 @@ warm beams of a western sun gaily poured through two sash windows!
 
 Catherine had expected to have her feelings worked, and worked they
 
-were. Astonishment and doubt first seized them; and a shortly
+were. Astonishment and [[Doubt|doubt]] first seized them; and a shortly
 
 succeeding ray of common sense added some bitter emotions of shame. She
 
@@ -136,7 +136,7 @@ her lips did not afford. She moved on towards the gallery. “And may I
 
 not, in my turn,” said he, as he pushed back the folding doors, “ask
 
-how _you_ came here? This passage is at least as extraordinary a road
+how _you_ came here? This passage is at least as extraordinary a [[Road|road]]
 
 from the breakfast-parlour to your apartment, as that staircase can be
 
@@ -176,9 +176,9 @@ from the offices in common use?”
 
 
 
-“Very; and does Eleanor leave you to find your way into all the rooms
+“Very; and does [[Eleanor]] leave you to find your way into all the rooms
 
-in the house by yourself?”
+in the [[house]] by yourself?”
 
 
 
@@ -212,13 +212,13 @@ She could not contradict it, and therefore suffered herself to be
 
 detained, though her dread of further questions made her, for the first
 
-time in their acquaintance, wish to leave him. They walked slowly up
+[[Time|time]] in their acquaintance, wish to leave him. They walked slowly up
 
 the gallery. “Have you had any letter from Bath since I saw you?”
 
 
 
-“No, and I am very much surprised. Isabella promised so faithfully to
+“No, and I am very much surprised. [[Isabella]] promised so faithfully to
 
 write directly.”
 

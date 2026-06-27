@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 20 (part 2)"
+title: "Bleak [[house|House]] — Chapter 20 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,7 +23,7 @@ he inserts in the letter-box, and then putting on the tall hat at the
 angle of inclination at which Mr. Guppy wears his, informs his patron
 that they may now make themselves scarce.
 
-Accordingly they betake themselves to a neighbouring dining-house, of
+Accordingly they betake themselves to a neighbouring dining-[[house]], of
 the class known among its frequenters by the denomination slap-bang,
 where the waitress, a bouncing young female of forty, is supposed to
 have made some impression on the susceptible Smallweed, of whom it
@@ -40,7 +40,7 @@ that his father was John Doe and his mother the only female member of
 the Roe family, also that his first long-clothes were made from a
 blue bag.
 
-Into the dining-house, unaffected by the seductive show in the window
+Into the dining-[[house]], unaffected by the seductive show in the [[Window|window]]
 of artificially whitened cauliflowers and poultry, verdant baskets of
 peas, coolly blooming cucumbers, and joints ready for the spit, Mr.
 Smallweed leads the way. They know him there and defer to him. He has
@@ -63,7 +63,7 @@ Babel but what is really a pile of plates and flat tin dish-covers.
 Mr. Smallweed, approving of what is set before him, conveys
 intelligent benignity into his ancient eye and winks upon her. Then,
 amid a constant coming in, and going out, and running about, and a
-clatter of crockery, and a rumbling up and down of the machine which
+clatter of crockery, and a rumbling up and down of the [[Machine|machine]] which
 brings the nice cuts from the kitchen, and a shrill crying for more
 nice cuts down the speaking-pipe, and a shrill reckoning of the cost
 of nice cuts that have been disposed of, and a general flush and
@@ -74,14 +74,14 @@ legal triumvirate appease their appetites.
 
 Mr. Jobling is buttoned up closer than mere adornment might require.
 His hat presents at the rims a peculiar appearance of a glistening
-nature, as if it had been a favourite snail-promenade. The same
+[[Nature|nature]], as if it had been a favourite snail-promenade. The same
 phenomenon is visible on some parts of his coat, and particularly at
 the seams. He has the faded appearance of a gentleman in embarrassed
 circumstances; even his light whiskers droop with something of a
 shabby air.
 
 His appetite is so vigorous that it suggests spare living for some
-little time back. He makes such a speedy end of his plate of veal and
+little [[Time|time]] back. He makes such a speedy end of his plate of veal and
 ham, bringing it to a close while his companions are yet midway in
 theirs, that Mr. Guppy proposes another. “Thank you, Guppy,” says Mr.
 Jobling, “I really don’t know but what I WILL take another.”
@@ -94,12 +94,12 @@ his pint pot of half-and-half (also renewed) and stretches out his
 legs and rubs his hands. Beholding him in which glow of contentment,
 Mr. Guppy says, “You are a man again, Tony!”
 
-“Well, not quite yet,” says Mr. Jobling. “Say, just born.”
+“[[Well]], not quite yet,” says Mr. Jobling. “Say, just born.”
 
-“Will you take any other vegetables? Grass? Peas? Summer cabbage?”
+“Will you take any other vegetables? Grass? Peas? [[Summer]] cabbage?”
 
 “Thank you, Guppy,” says Mr. Jobling. “I really don’t know but what I
-WILL take summer cabbage.”
+WILL take [[Summer|summer]] cabbage.”
 
 Order given; with the sarcastic addition (from Mr. Smallweed) of
 “Without slugs, Polly!” And cabbage produced.
@@ -126,7 +126,7 @@ you? Thank you, Mr. Guppy, I don’t know but what I WILL take a marrow
 pudding.”
 
 Three marrow puddings being produced, Mr. Jobling adds in a pleasant
-humour that he is coming of age fast. To these succeed, by command of
+[[Humour|humour]] that he is coming of age fast. To these succeed, by command of
 Mr. Smallweed, “three Cheshires,” and to those “three small rums.”
 This apex of the entertainment happily reached, Mr. Jobling puts up
 his legs on the carpeted seat (having his own side of the box to

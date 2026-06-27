@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -13,15 +13,15 @@ tags:
 </nav>
 
 
-By late accounts from Rotterdam, that city seems to be in a high
+By late accounts from Rotterdam, that [[City|city]] seems to be in a high
 
       state of philosophical excitement. Indeed, phenomena have there
 
-      occurred of a nature so completely unexpected—so entirely
+      occurred of a [[Nature|nature]] so completely unexpected—so entirely
 
-      novel—so utterly at variance with preconceived opinions—as to
+      [[Novel|novel]]—so utterly at variance with preconceived opinions—as to
 
-      leave no doubt on my mind that long ere this all Europe is in an
+      leave no [[Doubt|doubt]] on my mind that long ere this all Europe is in an
 
       uproar, all physics in a ferment, all reason and astronomy
 
@@ -35,7 +35,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       mentioned, were assembled in the great square of the Exchange in
 
-      the well-conditioned city of Rotterdam. The day was
+      the [[Well|well]]-conditioned [[City|city]] of Rotterdam. The day was
 
       warm—unusually so for the season—there was hardly a breath of air
 
@@ -47,7 +47,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       fitful manner the blue vault of the firmament. Nevertheless,
 
-      about noon, a slight but remarkable agitation became apparent in
+      about [[Noon|noon]], a slight but remarkable agitation became apparent in
 
       the assembly: the clattering of ten thousand tongues succeeded;
 
@@ -101,7 +101,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       In the meantime, however, lower and still lower toward the goodly
 
-      city, came the object of so much curiosity, and the cause of so
+      [[City|city]], came the object of so much curiosity, and the cause of so
 
       much smoke. In a very few minutes it arrived near enough to be
 
@@ -135,15 +135,15 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       apex, and, around the upper rim or base of the cone, a circle of
 
-      little instruments, resembling sheep-bells, which kept up a
+      little instruments, resembling sheep-[[Bells|bells]], which kept up a
 
       continual tinkling to the tune of Betty Martin. But still worse.
 
-      Suspended by blue ribbons to the end of this fantastic machine,
+      Suspended by blue ribbons to the end of this fantastic [[Machine|machine]],
 
       there hung, by way of car, an enormous drab beaver hat, with a
 
-      brim superlatively broad, and a hemispherical crown with a black
+      brim superlatively broad, and a hemispherical [[Crown|crown]] with a black
 
       band and a silver buckle. It is, however, somewhat remarkable
 
@@ -181,13 +181,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      The balloon (for such no doubt it was) had now descended to
+      The balloon (for such no [[Doubt|doubt]] it was) had now descended to
 
       within a hundred feet of the earth, allowing the crowd below a
 
       sufficiently distinct view of the person of its occupant. This
 
-      was in truth a very droll little somebody. He could not have been
+      was in [[Truth|truth]] a very droll little somebody. He could not have been
 
       more than two feet in height; but this altitude, little as it
 
@@ -197,15 +197,15 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       of a circular rim reaching as high as the breast, and rigged on
 
-      to the cords of the balloon. The body of the little man was more
+      to the cords of the balloon. The [[Body|body]] of the little man was more
 
       than proportionately broad, giving to his entire figure a
 
       rotundity highly absurd. His feet, of course, could not be seen
 
-      at all, although a horny substance of suspicious nature was
+      at all, although a horny substance of suspicious [[Nature|nature]] was
 
-      occasionally protruded through a rent in the bottom of the car,
+      occasionally protruded through a rent in the [[Bottom|bottom]] of the car,
 
       or to speak more properly, in the top of the hat. His hands were
 
@@ -217,7 +217,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       cheeks, although wrinkled with age, were broad, puffy, and
 
-      double; but of ears of any kind or character there was not a
+      [[Double|double]]; but of ears of any kind or character there was not a
 
       semblance to be discovered upon any portion of his head. This odd
 
@@ -229,7 +229,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       white taffety cap was set jauntily on one side of his head; and,
 
-      to complete his equipment, a blood-red silk handkerchief
+      to complete his equipment, a [[Blood|blood]]-red silk handkerchief
 
       enveloped his throat, and fell down, in a dainty manner, upon his
 
@@ -293,15 +293,15 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       one-and-twenty distinct and furious whiffs from his pipe, to
 
-      which he held fast the whole time with all his might, and to
+      which he held fast the whole [[Time|time]] with all his might, and to
 
-      which he intends holding fast until the day of his death.
+      which he intends holding fast until the day of his [[Death|death]].
 
 
 
       In the meantime the balloon arose like a lark, and, soaring far
 
-      away above the city, at length drifted quietly behind a cloud
+      away above the [[City|city]], at length drifted quietly behind a cloud
 
       similar to that from which it had so oddly emerged, and was thus
 
@@ -337,7 +337,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       “To their Excellencies Von Underduk and Rub-a-dub, President and
 
-      Vice-President of the States’ College of Astronomers, in the city
+      Vice-President of the States’ College of Astronomers, in the [[City|city]]
 
       of Rotterdam.
 
@@ -355,7 +355,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       however, it so please your Excellencies, I, the writer of this
 
-      communication, am the identical Hans Pfaall himself. It is well
+      communication, am the identical Hans Pfaall himself. It is [[Well|well]]
 
       known to most of my fellow citizens, that for the period of forty
 
@@ -363,19 +363,19 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       the head of the alley called Sauerkraut, in which I resided at
 
-      the time of my disappearance. My ancestors have also resided
+      the [[Time|time]] of my disappearance. My ancestors have also resided
 
-      therein time out of mind—they, as well as myself, steadily
+      therein [[Time|time]] out of mind—they, as [[Well|well]] as myself, steadily
 
       following the respectable and indeed lucrative profession of
 
-      mending of bellows. For, to speak the truth, until of late years,
+      [[mending]] of bellows. For, to speak the [[Truth|truth]], until of late years,
 
       that the heads of all the people have been set agog with
 
       politics, no better business than my own could an honest citizen
 
-      of Rotterdam either desire or deserve. Credit was good,
+      of Rotterdam either [[Desire|desire]] or deserve. Credit was good,
 
       employment was never wanting, and on all hands there was no lack
 
@@ -385,19 +385,19 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       and all that sort of thing. People who were formerly, the very
 
-      best customers in the world, had now not a moment of time to
+      best customers in the world, had now not a moment of [[Time|time]] to
 
       think of us at all. They had, so they said, as much as they could
 
       do to read about the revolutions, and keep up with the march of
 
-      intellect and the spirit of the age. If a fire wanted fanning, it
+      intellect and the spirit of the age. If a [[Fire|fire]] wanted fanning, it
 
-      could readily be fanned with a newspaper, and as the government
+      could readily be fanned with a newspaper, and as the [[government]]
 
-      grew weaker, I have no doubt that leather and iron acquired
+      grew weaker, I have no [[Doubt|doubt]] that leather and iron acquired
 
-      durability in proportion, for, in a very short time, there was
+      durability in proportion, for, in a very short [[Time|time]], there was
 
       not a pair of bellows in all Rotterdam that ever stood in need of
 
@@ -413,23 +413,23 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       Duns, in the meantime, left me little leisure for contemplation.
 
-      My house was literally besieged from morning till night, so that
+      My [[house]] was literally besieged from morning till [[Night|night]], so that
 
       I began to rave, and foam, and fret like a caged tiger against
 
       the bars of his enclosure. There were three fellows in particular
 
-      who worried me beyond endurance, keeping watch continually about
+      who worried me beyond [[Endurance|endurance]], keeping watch continually about
 
       my door, and threatening me with the law. Upon these three I
 
-      internally vowed the bitterest revenge, if ever I should be so
+      internally vowed the bitterest [[Revenge|revenge]], if ever I should be so
 
       happy as to get them within my clutches; and I believe nothing in
 
       the world but the pleasure of this anticipation prevented me from
 
-      putting my plan of suicide into immediate execution, by blowing
+      putting my plan of [[suicide]] into immediate execution, by blowing
 
       my brains out with a blunderbuss. I thought it best, however, to
 
@@ -443,7 +443,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       “One day, having given my creditors the slip, and feeling more
 
-      than usually dejected, I continued for a long time to wander
+      than usually dejected, I continued for a long [[Time|time]] to wander
 
       about the most obscure streets without object whatever, until at
 
@@ -461,31 +461,31 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       somewhat similar name. I had some little tincture of information
 
-      on matters of this nature, and soon became more and more absorbed
+      on matters of this [[Nature|nature]], and soon became more and more absorbed
 
       in the contents of the book, reading it actually through twice
 
       before I awoke to a recollection of what was passing around me.
 
-      By this time it began to grow dark, and I directed my steps
+      By this [[Time|time]] it began to grow dark, and I directed my steps
 
-      toward home. But the treatise had made an indelible impression on
+      toward [[Home|home]]. But the treatise had made an indelible impression on
 
       my mind, and, as I sauntered along the dusky streets, I revolved
 
-      carefully over in my memory the wild and sometimes unintelligible
+      carefully over in my [[Memory|memory]] the wild and sometimes unintelligible
 
       reasonings of the writer. There are some particular passages
 
-      which affected my imagination in a powerful and extraordinary
+      which affected my [[Imagination|imagination]] in a powerful and extraordinary
 
       manner. The longer I meditated upon these the more intense grew
 
-      the interest which had been excited within me. The limited nature
+      the interest which had been excited within me. The limited [[Nature|nature]]
 
-      of my education in general, and more especially my ignorance on
+      of my [[Education|education]] in general, and more especially my ignorance on
 
-      subjects connected with natural philosophy, so far from rendering
+      subjects connected with natural [[philosophy]], so far from rendering
 
       me diffident of my own ability to comprehend what I had read, or
 
@@ -493,9 +493,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       in consequence, merely served as a farther stimulus to
 
-      imagination; and I was vain enough, or perhaps reasonable enough,
+      [[Imagination|imagination]]; and I was vain enough, or perhaps reasonable enough,
 
-      to doubt whether those crude ideas which, arising in
+      to [[Doubt|doubt]] whether those crude ideas which, arising in
 
       ill-regulated minds, have all the appearance, may not often in
 
@@ -505,17 +505,17 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       farther, profundity itself might not, in matters of a purely
 
-      speculative nature, be detected as a legitimate source of falsity
+      speculative [[Nature|nature]], be detected as a legitimate source of falsity
 
       and error. In other words, I believed, and still do believe, that
 
-      truth, is frequently of its own essence, superficial, and that,
+      [[Truth|truth]], is frequently of its own essence, superficial, and that,
 
       in many cases, the depth lies more in the abysses where we seek
 
       her, than in the actual situations wherein she may be found.
 
-      Nature herself seemed to afford me corroboration of these ideas.
+      [[Nature]] herself seemed to afford me corroboration of these ideas.
 
       In the contemplation of the heavenly bodies it struck me forcibly
 
@@ -525,9 +525,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       undeviating attention, as when I suffered my eye only to glance
 
-      in its vicinity alone. I was not, of course, at that time aware
+      in its vicinity [[Alone|alone]]. I was not, of course, at that [[Time|time]] aware
 
-      that this apparent paradox was occasioned by the center of the
+      that this apparent [[Paradox|paradox]] was occasioned by the center of the
 
       visual area being less susceptible of feeble impressions of light
 
@@ -551,11 +551,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “It was late when I reached home, and I went immediately to bed.
+      “It was late when I reached [[Home|home]], and I went immediately to bed.
 
-      My mind, however, was too much occupied to sleep, and I lay the
+      My mind, however, was too much occupied to [[Sleep|sleep]], and I lay the
 
-      whole night buried in meditation. Arising early in the morning,
+      whole [[Night|night]] buried in meditation. Arising early in the morning,
 
       and contriving again to escape the vigilance of my creditors, I
 
@@ -563,11 +563,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       little ready money I possessed, in the purchase of some volumes
 
-      of Mechanics and Practical Astronomy. Having arrived at home
+      of Mechanics and Practical Astronomy. Having arrived at [[Home|home]]
 
       safely with these, I devoted every spare moment to their perusal,
 
-      and soon made such proficiency in studies of this nature as I
+      and soon made such proficiency in studies of this [[Nature|nature]] as I
 
       thought sufficient for the execution of my plan. In the intervals
 
@@ -623,7 +623,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       and two astronomical instruments not so generally known. I then
 
-      took opportunities of conveying by night, to a retired situation
+      took opportunities of conveying by [[Night|night]], to a retired situation
 
       east of Rotterdam, five iron-bound casks, to contain about fifty
 
@@ -663,7 +663,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       individual in question may attempt a balloon ascension with the
 
-      novel gas and material I have spoken of, and I do not wish to
+      [[Novel|novel]] gas and material I have spoken of, and I do not wish to
 
       deprive him of the honor of a very singular invention.
 
@@ -707,13 +707,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       apparatus for condensation of the atmospheric air. I found this
 
-      machine, however, to require considerable alteration before it
+      [[Machine|machine]], however, to require considerable alteration before it
 
       could be adapted to the purposes to which I intended making it
 
       applicable. But, with severe labor and unremitting perseverance,
 
-      I at length met with entire success in all my preparations. My
+      I at length met with entire [[success]] in all my preparations. My
 
       balloon was soon completed. It would contain more than forty
 
@@ -741,17 +741,17 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       little money I had left, and bade her farewell. Indeed I had no
 
-      fear on her account. She was what people call a notable woman,
+      [[Fear|fear]] on her account. She was what people call a notable woman,
 
       and could manage matters in the world without my assistance. I
 
-      believe, to tell the truth, she always looked upon me as an idle
+      believe, to tell the [[Truth|truth]], she always looked upon me as an idle
 
       boy, a mere make-weight, good for nothing but building castles in
 
       the air, and was rather glad to get rid of me. It was a dark
 
-      night when I bade her good-bye, and taking with me, as
+      [[Night|night]] when I bade her good-bye, and taking with me, as
 
       aides-de-camp, the three creditors who had given me so much
 
@@ -765,7 +765,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “It was the first of April. The night, as I said before, was
+      “It was the first of April. The [[Night|night]], as I said before, was
 
       dark; there was not a star to be seen; and a drizzling rain,
 
@@ -799,7 +799,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       devil, and that, in short, what I was now doing was nothing
 
-      better than it should be. I was, therefore, in great fear of
+      better than it should be. I was, therefore, in great [[Fear|fear]] of
 
       their leaving me altogether. I contrived, however, to pacify them
 
@@ -809,13 +809,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       they gave, of course, their own interpretation; fancying, no
 
-      doubt, that at all events I should come into possession of vast
+      [[Doubt|doubt]], that at all events I should come into possession of vast
 
       quantities of ready money; and provided I paid them all I owed,
 
       and a trifle more, in consideration of their services, I dare say
 
-      they cared very little what became of either my soul or my
+      they cared very little what became of either my [[Soul|soul]] or my
 
       carcass.
 
@@ -827,7 +827,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       implements in it—not forgetting the condensing apparatus, a
 
-      copious supply of water, and a large quantity of provisions, such
+      copious supply of [[Water|water]], and a large quantity of provisions, such
 
       as pemmican, in which much nutriment is contained in
 
@@ -835,7 +835,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       pigeons and a cat. It was now nearly daybreak, and I thought it
 
-      high time to take my departure. Dropping a lighted cigar on the
+      high [[Time|time]] to take my departure. Dropping a lighted cigar on the
 
       ground, as if by accident, I took the opportunity, in stooping to
 
@@ -861,13 +861,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       when, roaring and rumbling up after me in the most horrible and
 
-      tumultuous manner, came so dense a hurricane of fire, and smoke,
+      tumultuous manner, came so dense a hurricane of [[Fire|fire]], and smoke,
 
       and sulphur, and legs and arms, and gravel, and burning wood, and
 
       blazing metal, that my very heart sunk within me, and I fell down
 
-      in the bottom of the car, trembling with unmitigated terror.
+      in the [[Bottom|bottom]] of the car, trembling with unmitigated terror.
 
       Indeed, I now perceived that I had entirely overdone the
 
@@ -875,19 +875,19 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       be experienced. Accordingly, in less than a second, I felt all
 
-      the blood in my body rushing to my temples, and immediately
+      the [[Blood|blood]] in my [[Body|body]] rushing to my temples, and immediately
 
       thereupon, a concussion, which I shall never forget, burst
 
-      abruptly through the night and seemed to rip the very firmament
+      abruptly through the [[Night|night]] and seemed to rip the very firmament
 
-      asunder. When I afterward had time for reflection, I did not fail
+      asunder. When I afterward had [[Time|time]] for reflection, I did not fail
 
       to attribute the extreme violence of the explosion, as regarded
 
       myself, to its proper cause—my situation directly above it, and
 
-      in the line of its greatest power. But at the time, I thought
+      in the line of its greatest power. But at the [[Time|time]], I thought
 
       only of preserving my life. The balloon at first collapsed, then
 
@@ -901,7 +901,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       face outwards, by a piece of slender cord about three feet in
 
-      length, which hung accidentally through a crevice near the bottom
+      length, which hung accidentally through a crevice near the [[Bottom|bottom]]
 
       of the wicker-work, and in which, as I fell, my left foot became
 
@@ -921,7 +921,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       “How long I remained in this state it is impossible to say. It
 
-      must, however, have been no inconsiderable time, for when I
+      must, however, have been no inconsiderable [[Time|time]], for when I
 
       partially recovered the sense of existence, I found the day
 
@@ -935,7 +935,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       might have been anticipated. Indeed, there was much of incipient
 
-      madness in the calm survey which I began to take of my situation.
+      [[Madness|madness]] in the calm survey which I began to take of my situation.
 
       I drew up to my eyes each of my hands, one after the other, and
 
@@ -971,7 +971,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       never, for a moment, looked upon my ultimate safety as a question
 
-      susceptible of doubt. For a few minutes I remained wrapped in the
+      susceptible of [[Doubt|doubt]]. For a few minutes I remained wrapped in the
 
       profoundest meditation. I have a distinct recollection of
 
@@ -995,7 +995,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       brought them, however, after some trouble, at right angles to the
 
-      body of the buckle, and was glad to find them remain firm in that
+      [[Body|body]] of the buckle, and was glad to find them remain firm in that
 
       position. Holding the instrument thus obtained within my teeth, I
 
@@ -1007,7 +1007,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       fast the buckle, and the other end I tied, for greater security,
 
-      tightly around my wrist. Drawing now my body upwards, with a
+      tightly around my wrist. Drawing now my [[Body|body]] upwards, with a
 
       prodigious exertion of muscular force, I succeeded, at the very
 
@@ -1017,7 +1017,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “My body was now inclined towards the side of the car, at an
+      “My [[Body|body]] was now inclined towards the side of the car, at an
 
       angle of about forty-five degrees; but it must not be understood
 
@@ -1027,7 +1027,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       plane of the horizon; for the change of situation which I had
 
-      acquired, had forced the bottom of the car considerably outwards
+      acquired, had forced the [[Bottom|bottom]] of the car considerably outwards
 
       from my position, which was accordingly one of the most imminent
 
@@ -1041,7 +1041,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       which I was suspended had chanced to hang over the upper edge,
 
-      instead of through a crevice near the bottom of the car,—I say it
+      instead of through a crevice near the [[Bottom|bottom]] of the car,—I say it
 
       may be readily conceived that, in either of these supposed cases,
 
@@ -1065,21 +1065,21 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       dismay, and a chilling sense of utter helplessness and ruin. In
 
-      fact, the blood so long accumulating in the vessels of my head
+      fact, the [[Blood|blood]] so long accumulating in the vessels of my head
 
       and throat, and which had hitherto buoyed up my spirits with
 
-      madness and delirium, had now begun to retire within their proper
+      [[Madness|madness]] and delirium, had now begun to retire within their proper
 
       channels, and the distinctness which was thus added to my
 
       perception of the danger, merely served to deprive me of the
 
-      self-possession and courage to encounter it. But this weakness
+      [[Self|self]]-possession and [[Courage|courage]] to encounter it. But this weakness
 
-      was, luckily for me, of no very long duration. In good time came
+      was, luckily for me, of no very long duration. In good [[Time|time]] came
 
-      to my rescue the spirit of despair, and, with frantic cries and
+      to my rescue the spirit of [[Despair|despair]], and, with frantic cries and
 
       struggles, I jerked my way bodily upwards, till at length,
 
@@ -1091,7 +1091,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “It was not until some time afterward that I recovered myself
+      “It was not until some [[Time|time]] afterward that I recovered myself
 
       sufficiently to attend to the ordinary cares of the balloon. I
 
@@ -1101,11 +1101,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       fortunately, I had lost neither ballast nor provisions. Indeed, I
 
-      had so well secured them in their places, that such an accident
+      had so [[Well|well]] secured them in their places, that such an accident
 
       was entirely out of the question. Looking at my watch, I found it
 
-      six o’clock. I was still rapidly ascending, and my barometer gave
+      six o’[[Clock|clock]]. I was still rapidly ascending, and my barometer gave
 
       a present altitude of three and three-quarter miles. Immediately
 
@@ -1117,33 +1117,33 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       a domino. Bringing my telescope to bear upon it, I plainly
 
-      discerned it to be a British ninety four-gun ship, close-hauled,
+      discerned it to be a British ninety four-gun [[Ship|ship]], close-hauled,
 
       and pitching heavily in the sea with her head to the W.S.W.
 
-      Besides this ship, I saw nothing but the ocean and the sky, and
+      Besides this [[Ship|ship]], I saw nothing but the ocean and the sky, and
 
       the sun, which had long arisen.
 
 
 
-      “It is now high time that I should explain to your Excellencies
+      “It is now high [[Time|time]] that I should explain to your Excellencies
 
       the object of my perilous voyage. Your Excellencies will bear in
 
       mind that distressed circumstances in Rotterdam had at length
 
-      driven me to the resolution of committing suicide. It was not,
+      driven me to the resolution of committing [[suicide]]. It was not,
 
       however, that to life itself I had any positive disgust, but that
 
-      I was harassed beyond endurance by the adventitious miseries
+      I was harassed beyond [[Endurance|endurance]] by the adventitious miseries
 
       attending my situation. In this state of mind, wishing to live,
 
       yet wearied with life, the treatise at the stall of the
 
-      bookseller opened a resource to my imagination. I then finally
+      bookseller opened a resource to my [[Imagination|imagination]]. I then finally
 
       made up my mind. I determined to depart, yet live—to leave the
 
@@ -1151,13 +1151,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       resolved, let what would ensue, to force a passage, if I could,
 
-      to the moon. Now, lest I should be supposed more of a madman than
+      to the [[Moon|moon]]. Now, lest I should be supposed more of a madman than
 
-      I actually am, I will detail, as well as I am able, the
+      I actually am, I will detail, as [[Well|well]] as I am able, the
 
       considerations which led me to believe that an achievement of
 
-      this nature, although without doubt difficult, and incontestably
+      this [[Nature|nature]], although without [[Doubt|doubt]] difficult, and incontestably
 
       full of danger, was not absolutely, to a bold spirit, beyond the
 
@@ -1165,7 +1165,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “The moon’s actual distance from the earth was the first thing to
+      “The [[Moon|moon]]’s actual distance from the earth was the first thing to
 
       be attended to. Now, the mean or average interval between the
 
@@ -1175,13 +1175,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       interval, but it must be borne in mind that the form of the
 
-      moon’s orbit being an ellipse of eccentricity amounting to no
+      [[Moon|moon]]’s orbit being an ellipse of eccentricity amounting to no
 
       less than 0.05484 of the major semi-axis of the ellipse itself,
 
       and the earth’s centre being situated in its focus, if I could,
 
-      in any manner, contrive to meet the moon, as it were, in its
+      in any manner, contrive to meet the [[Moon|moon]], as it were, in its
 
       perigee, the above mentioned distance would be materially
 
@@ -1191,7 +1191,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       would have to deduct the radius of the earth, say 4,000, and the
 
-      radius of the moon, say 1,080, in all 5,080, leaving an actual
+      radius of the [[Moon|moon]], say 1,080, in all 5,080, leaving an actual
 
       interval to be traversed, under average circumstances, of 231,920
 
@@ -1199,11 +1199,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       Travelling on land has been repeatedly accomplished at the rate
 
-      of thirty miles per hour, and indeed a much greater speed may be
+      of thirty miles per hour, and indeed a much greater [[Speed|speed]] may be
 
       anticipated. But even at this velocity, it would take me no more
 
-      than 322 days to reach the surface of the moon. There were,
+      than 322 days to reach the surface of the [[Moon|moon]]. There were,
 
       however, many particulars inducing me to believe that my average
 
@@ -1231,7 +1231,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       from the elevation of Cotopaxi, we have surmounted one-half the
 
-      material, or, at all events, one-half the ponderable, body of air
+      material, or, at all events, one-half the ponderable, [[Body|body]] of air
 
       incumbent upon our globe. It is also calculated that at an
 
@@ -1255,11 +1255,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       may be called, comparatively speaking, the immediate vicinity of
 
-      the earth itself; and, at the same time, it is taken for granted
+      the earth itself; and, at the same [[Time|time]], it is taken for granted
 
       that animal life is and must be essentially incapable of
 
-      modification at any given unattainable distance from the surface.
+      modification at any given [[Unattainable|unattainable]] distance from the surface.
 
       Now, all such reasoning and from such data must, of course, be
 
@@ -1271,7 +1271,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       when compared with the eighty miles in question; and I could not
 
-      help thinking that the subject admitted room for doubt and great
+      help thinking that the subject admitted room for [[Doubt|doubt]] and great
 
       latitude for speculation.
 
@@ -1361,11 +1361,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       the horizon obliquely upward, and follows generally the direction
 
-      of the sun’s equator. It appeared to me evidently in the nature
+      of the sun’s equator. It appeared to me evidently in the [[Nature|nature]]
 
       of a rare atmosphere extending from the sun outward, beyond the
 
-      orbit of Venus at least, and I believed indefinitely farther.(*2)
+      orbit of [[Venus]] at least, and I believed indefinitely farther.(*2)
 
       Indeed, this medium I could not suppose confined to the path of
 
@@ -1393,7 +1393,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       quantity for the purposes of respiration. This would remove the
 
-      chief obstacle in a journey to the moon. I had indeed spent some
+      chief obstacle in a [[Journey|journey]] to the [[Moon|moon]]. I had indeed spent some
 
       money and great labor in adapting the apparatus to the object
 
@@ -1471,7 +1471,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       of the earth’s attraction would be superseded by that of the
 
-      moon. In accordance with these ideas, I did not think it worth
+      [[Moon|moon]]. In accordance with these ideas, I did not think it worth
 
       while to encumber myself with more provisions than would be
 
@@ -1483,33 +1483,33 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       me some little disquietude. It has been observed, that, in
 
-      balloon ascensions to any considerable height, besides the pain
+      balloon ascensions to any considerable height, besides the [[Pain|pain]]
 
       attending respiration, great uneasiness is experienced about the
 
-      head and body, often accompanied with bleeding at the nose, and
+      head and [[Body|body]], often accompanied with bleeding at the nose, and
 
       other symptoms of an alarming kind, and growing more and more
 
       inconvenient in proportion to the altitude attained.(*3) This was
 
-      a reflection of a nature somewhat startling. Was it not probable
+      a reflection of a [[Nature|nature]] somewhat startling. Was it not probable
 
       that these symptoms would increase indefinitely, or at least
 
-      until terminated by death itself? I finally thought not. Their
+      until terminated by [[Death|death]] itself? I finally thought not. Their
 
       origin was to be looked for in the progressive removal of the
 
-      customary atmospheric pressure upon the surface of the body, and
+      customary atmospheric pressure upon the surface of the [[Body|body]], and
 
-      consequent distention of the superficial blood-vessels—not in any
+      consequent distention of the superficial [[Blood|blood]]-vessels—not in any
 
       positive disorganization of the animal system, as in the case of
 
       difficulty in breathing, where the atmospheric density is
 
-      chemically insufficient for the due renovation of blood in a
+      chemically insufficient for the due renovation of [[Blood|blood]] in a
 
       ventricle of the heart. Unless for default of this renovation, I
 
@@ -1521,9 +1521,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       cause, not the effect, of respiration. In a word, I conceived
 
-      that, as the body should become habituated to the want of
+      that, as the [[Body|body]] should become habituated to the want of
 
-      atmospheric pressure, the sensations of pain would gradually
+      atmospheric pressure, the sensations of [[Pain|pain]] would gradually
 
       diminish—and to endure them while they continued, I relied with
 
@@ -1559,7 +1559,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       will be explained in the sequel. I as yet suffered no bodily
 
-      inconvenience, breathing with great freedom, and feeling no pain
+      inconvenience, breathing with great [[Freedom|freedom]], and feeling no [[Pain|pain]]
 
       whatever in the head. The cat was lying very demurely upon my
 
@@ -1569,11 +1569,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       their escape, were busily employed in picking up some grains of
 
-      rice scattered for them in the bottom of the car.
+      rice scattered for them in the [[Bottom|bottom]] of the car.
 
 
 
-      “At twenty minutes past six o’clock, the barometer showed an
+      “At twenty minutes past six o’[[Clock|clock]], the barometer showed an
 
       elevation of 26,400 feet, or five miles to a fraction. The
 
@@ -1599,17 +1599,17 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       a sixteen-hundredth part of the whole surface of the globe. The
 
-      sea appeared unruffled as a mirror, although, by means of the
+      sea appeared unruffled as a [[Mirror|mirror]], although, by means of the
 
       spy-glass, I could perceive it to be in a state of violent
 
-      agitation. The ship was no longer visible, having drifted away,
+      agitation. The [[Ship|ship]] was no longer visible, having drifted away,
 
       apparently to the eastward. I now began to experience, at
 
-      intervals, severe pain in the head, especially about the
+      intervals, severe [[Pain|pain]] in the head, especially about the
 
-      ears—still, however, breathing with tolerable freedom. The cat
+      ears—still, however, breathing with tolerable [[Freedom|freedom]]. The cat
 
       and pigeons seemed to suffer no inconvenience whatsoever.
 
@@ -1623,19 +1623,19 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       be sure, a singular recontre, for I had not believed it possible
 
-      that a cloud of this nature could be sustained at so great an
+      that a cloud of this [[Nature|nature]] could be sustained at so great an
 
       elevation. I thought it best, however, to throw out two
 
       five-pound pieces of ballast, reserving still a weight of one
 
-      hundred and sixty-five pounds. Upon so doing, I soon rose above
+      hundred and sixty-five pounds. Upon so doing, I soon [[Rose|rose]] above
 
       the difficulty, and perceived immediately, that I had obtained a
 
       great increase in my rate of ascent. In a few seconds after my
 
-      leaving the cloud, a flash of vivid lightning shot from one end
+      leaving the cloud, a flash of vivid [[Lightning|lightning]] shot from one end
 
       of it to the other, and caused it to kindle up, throughout its
 
@@ -1645,17 +1645,17 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       may picture the sublimity which might have been exhibited by a
 
-      similar phenomenon taking place amid the darkness of the night.
+      similar phenomenon taking place amid the darkness of the [[Night|night]].
 
       Hell itself might have been found a fitting image. Even as it
 
       was, my hair stood on end, while I gazed afar down within the
 
-      yawning abysses, letting imagination descend, as it were, and
+      yawning abysses, letting [[Imagination|imagination]] descend, as it were, and
 
       stalk about in the strange vaulted halls, and ruddy gulfs, and
 
-      red ghastly chasms of the hideous and unfathomable fire. I had
+      red ghastly chasms of the hideous and unfathomable [[Fire|fire]]. I had
 
       indeed made a narrow escape. Had the balloon remained a very
 
@@ -1667,7 +1667,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       perils, although little considered, are perhaps the greatest
 
-      which must be encountered in balloons. I had by this time,
+      which must be encountered in balloons. I had by this [[Time|time]],
 
       however, attained too great an elevation to be any longer uneasy
 
@@ -1675,15 +1675,15 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “I was now rising rapidly, and by seven o’clock the barometer
+      “I was now rising rapidly, and by seven o’[[Clock|clock]] the barometer
 
       indicated an altitude of no less than nine miles and a half. I
 
       began to find great difficulty in drawing my breath. My head,
 
-      too, was excessively painful; and, having felt for some time a
+      too, was excessively painful; and, having felt for some [[Time|time]] a
 
-      moisture about my cheeks, I at length discovered it to be blood,
+      moisture about my cheeks, I at length discovered it to be [[Blood|blood]],
 
       which was oozing quite fast from the drums of my ears. My eyes,
 
@@ -1723,19 +1723,19 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       of her mouth, staggered to and fro in the car as if under the
 
-      influence of poison. I now too late discovered the great rashness
+      influence of [[Poison|poison]]. I now too late discovered the great rashness
 
       of which I had been guilty in discharging the ballast, and my
 
-      agitation was excessive. I anticipated nothing less than death,
+      agitation was excessive. I anticipated nothing less than [[Death|death]],
 
-      and death in a few minutes. The physical suffering I underwent
+      and [[Death|death]] in a few minutes. The physical [[Suffering|suffering]] I underwent
 
       contributed also to render me nearly incapable of making any
 
       exertion for the preservation of my life. I had, indeed, little
 
-      power of reflection left, and the violence of the pain in my head
+      power of reflection left, and the violence of the [[Pain|pain]] in my head
 
       seemed to be greatly on the increase. Thus I found that my senses
 
@@ -1747,11 +1747,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       and the possible consequences to myself, should I return,
 
-      operated to deter me for the moment. I lay down in the bottom of
+      operated to deter me for the moment. I lay down in the [[Bottom|bottom]] of
 
       the car, and endeavored to collect my faculties. In this I so far
 
-      succeeded as to determine upon the experiment of losing blood.
+      succeeded as to determine upon the experiment of losing [[Blood|blood]].
 
       Having no lancet, however, I was constrained to perform the
 
@@ -1759,19 +1759,19 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       opening a vein in my right arm, with the blade of my penknife.
 
-      The blood had hardly commenced flowing when I experienced a
+      The [[Blood|blood]] had hardly commenced flowing when I experienced a
 
-      sensible relief, and by the time I had lost about half a moderate
+      sensible relief, and by the [[Time|time]] I had lost about half a moderate
 
       basin full, most of the worst symptoms had abandoned me entirely.
 
       I nevertheless did not think it expedient to attempt getting on
 
-      my feet immediately; but, having tied up my arm as well as I
+      my feet immediately; but, having tied up my arm as [[Well|well]] as I
 
       could, I lay still for about a quarter of an hour. At the end of
 
-      this time I arose, and found myself freer from absolute pain of
+      this [[Time|time]] I arose, and found myself freer from absolute [[Pain|pain]] of
 
       any kind than I had been during the last hour and a quarter of my
 
@@ -1793,15 +1793,15 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       pleased at the occurrence. It would afford me a chance of
 
-      bringing to a kind of test the truth of a surmise, which, more
+      bringing to a kind of test the [[Truth|truth]] of a surmise, which, more
 
       than anything else, had influenced me in attempting this
 
-      ascension. I had imagined that the habitual endurance of the
+      ascension. I had imagined that the habitual [[Endurance|endurance]] of the
 
       atmospheric pressure at the surface of the earth was the cause,
 
-      or nearly so, of the pain attending animal existence at a
+      or nearly so, of the [[Pain|pain]] attending animal existence at a
 
       distance above the surface. Should the kittens be found to suffer
 
@@ -1813,7 +1813,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “By eight o’clock I had actually attained an elevation of
+      “By eight o’[[Clock|clock]] I had actually attained an elevation of
 
       seventeen miles above the surface of the earth. Thus it seemed to
 
@@ -1865,7 +1865,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       speck, the dark Mediterranean sea, dotted with shining islands as
 
-      the heaven is dotted with stars, spread itself out to the
+      the heaven is dotted with [[Stars|stars]], spread itself out to the
 
       eastward as far as my vision extended, until its entire mass of
 
@@ -1875,11 +1875,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       the mighty cataract. Overhead, the sky was of a jetty black, and
 
-      the stars were brilliantly visible.
+      the [[Stars|stars]] were brilliantly visible.
 
 
 
-      “The pigeons about this time seeming to undergo much suffering, I
+      “The pigeons about this [[Time|time]] seeming to undergo much [[Suffering|suffering]], I
 
       determined upon giving them their liberty. I first untied one of
 
@@ -1897,7 +1897,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       descend as I had expected, but struggled with great vehemence to
 
-      get back, uttering at the same time very shrill and piercing
+      get back, uttering at the same [[Time|time]] very shrill and piercing
 
       cries. He at length succeeded in regaining his former station on
 
@@ -1913,13 +1913,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       with great velocity, making use of his wings with ease, and in a
 
-      perfectly natural manner. In a very short time he was out of
+      perfectly natural manner. In a very short [[Time|time]] he was out of
 
-      sight, and I have no doubt he reached home in safety. Puss, who
+      sight, and I have no [[Doubt|doubt]] he reached [[Home|home]] in safety. Puss, who
 
       seemed in a great measure recovered from her illness, now made a
 
-      hearty meal of the dead bird and then went to sleep with much
+      hearty meal of the dead bird and then went to [[Sleep|sleep]] with much
 
       apparent satisfaction. Her kittens were quite lively, and so far
 
@@ -1929,7 +1929,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       “At a quarter-past eight, being no longer able to draw breath
 
-      without the most intolerable pain, I proceeded forthwith to
+      without the most intolerable [[Pain|pain]], I proceeded forthwith to
 
       adjust around the car the apparatus belonging to the condenser.
 
@@ -1955,13 +1955,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       manner placed. That is to say, it (the bag) was drawn over the
 
-      whole bottom of the car, up its sides, and so on, along the
+      whole [[Bottom|bottom]] of the car, up its sides, and so on, along the
 
       outside of the ropes, to the upper rim or hoop where the net-work
 
       is attached. Having pulled the bag up in this way, and formed a
 
-      complete enclosure on all sides, and at bottom, it was now
+      complete enclosure on all sides, and at [[Bottom|bottom]], it was now
 
       necessary to fasten up its top or mouth, by passing its material
 
@@ -1975,7 +1975,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       the hoop, but attached by a series of running loops or nooses. I
 
-      therefore undid only a few of these loops at one time, leaving
+      therefore undid only a few of these loops at one [[Time|time]], leaving
 
       the car suspended by the remainder. Having thus inserted a
 
@@ -2045,7 +2045,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       horizontal direction. In that portion of the cloth forming the
 
-      bottom, was likewise, a fourth window, of the same kind, and
+      [[Bottom|bottom]], was likewise, a fourth [[Window|window]], of the same kind, and
 
       corresponding with a small aperture in the floor of the car
 
@@ -2061,7 +2061,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       matter of little consequence; for had I even been able to place a
 
-      window at top, the balloon itself would have prevented my making
+      [[Window|window]] at top, the balloon itself would have prevented my making
 
       any use of it.
 
@@ -2073,15 +2073,15 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       adapted in its inner edge to the windings of a screw. In this rim
 
-      was screwed the large tube of the condenser, the body of the
+      was screwed the large tube of the condenser, the [[Body|body]] of the
 
-      machine being, of course, within the chamber of gum-elastic.
+      [[Machine|machine]] being, of course, within the chamber of gum-elastic.
 
       Through this tube a quantity of the rare atmosphere circumjacent
 
-      being drawn by means of a vacuum created in the body of the
+      being drawn by means of a vacuum created in the [[Body|body]] of the
 
-      machine, was thence discharged, in a state of condensation, to
+      [[Machine|machine]], was thence discharged, in a state of condensation, to
 
       mingle with the thin air already in the chamber. This operation
 
@@ -2089,17 +2089,17 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       atmosphere proper for all the purposes of respiration. But in so
 
-      confined a space it would, in a short time, necessarily become
+      confined a space it would, in a short [[Time|time]], necessarily become
 
       foul, and unfit for use from frequent contact with the lungs. It
 
-      was then ejected by a small valve at the bottom of the car—the
+      was then ejected by a small valve at the [[Bottom|bottom]] of the car—the
 
       dense air readily sinking into the thinner atmosphere below. To
 
       avoid the inconvenience of making a total vacuum at any moment
 
-      within the chamber, this purification was never accomplished all
+      within the chamber, this [[Purification|purification]] was never accomplished all
 
       at once, but in a gradual manner—the valve being opened only for
 
@@ -2111,7 +2111,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       and kittens in a small basket, and suspended it outside the car
 
-      to a button at the bottom, close by the valve, through which I
+      to a button at the [[Bottom|bottom]], close by the valve, through which I
 
       could feed them at any moment when necessary. I did this at some
 
@@ -2123,23 +2123,23 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “By the time I had fully completed these arrangements and filled
+      “By the [[Time|time]] I had fully completed these arrangements and filled
 
       the chamber as explained, it wanted only ten minutes of nine
 
-      o’clock. During the whole period of my being thus employed, I
+      o’[[Clock|clock]]. During the whole period of my being thus employed, I
 
       endured the most terrible distress from difficulty of
 
       respiration, and bitterly did I repent the negligence or rather
 
-      fool-hardiness, of which I had been guilty, of putting off to the
+      [[Fool|fool]]-hardiness, of which I had been guilty, of putting off to the
 
       last moment a matter of so much importance. But having at length
 
       accomplished it, I soon began to reap the benefit of my
 
-      invention. Once again I breathed with perfect freedom and
+      invention. Once again I breathed with perfect [[Freedom|freedom]] and
 
       ease—and indeed why should I not? I was also agreeably surprised
 
@@ -2155,7 +2155,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       the uneasiness attending the removal of atmospheric pressure had
 
-      actually worn off, as I had expected, and that much of the pain
+      actually worn off, as I had expected, and that much of the [[Pain|pain]]
 
       endured for the last two hours should have been attributed
 
@@ -2163,9 +2163,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “At twenty minutes before nine o’clock—that is to say, a short
+      “At twenty minutes before nine o’[[Clock|clock]]—that is to say, a short
 
-      time prior to my closing up the mouth of the chamber, the mercury
+      [[Time|time]] prior to my closing up the mouth of the chamber, the mercury
 
       attained its limit, or ran down, in the barometer, which, as I
 
@@ -2173,13 +2173,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       indicated an altitude on my part of 132,000 feet, or
 
-      five-and-twenty miles, and I consequently surveyed at that time
+      five-and-twenty miles, and I consequently surveyed at that [[Time|time]]
 
       an extent of the earth’s area amounting to no less than the three
 
       hundred-and-twentieth part of its entire superficies. At nine
 
-      o’clock I had again lost sight of land to the eastward, but not
+      o’[[Clock|clock]] I had again lost sight of land to the eastward, but not
 
       before I became aware that the balloon was drifting rapidly to
 
@@ -2189,7 +2189,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       masses of cloud which floated to and fro. I observed now that
 
-      even the lightest vapors never rose to more than ten miles above
+      even the lightest vapors never [[Rose|rose]] to more than ten miles above
 
       the level of the sea.
 
@@ -2221,15 +2221,15 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “By ten o’clock I found that I had very little to occupy my
+      “By ten o’[[Clock|clock]] I found that I had very little to occupy my
 
       immediate attention. Affairs went swimmingly, and I believed the
 
-      balloon to be going upward with a speed increasing momently
+      balloon to be going upward with a [[Speed|speed]] increasing momently
 
       although I had no longer any means of ascertaining the
 
-      progression of the increase. I suffered no pain or uneasiness of
+      progression of the increase. I suffered no [[Pain|pain]] or uneasiness of
 
       any kind, and enjoyed better spirits than I had at any period
 
@@ -2247,21 +2247,21 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       meanwhile I could not help making anticipations. Fancy revelled
 
-      in the wild and dreamy regions of the moon. Imagination, feeling
+      in the wild and dreamy regions of the [[Moon|moon]]. [[Imagination]], feeling
 
       herself for once unshackled, roamed at will among the
 
       ever-changing wonders of a shadowy and unstable land. Now there
 
-      were hoary and time-honored forests, and craggy precipices, and
+      were hoary and [[Time|time]]-honored forests, and craggy precipices, and
 
       waterfalls tumbling with a loud noise into abysses without a
 
-      bottom. Then I came suddenly into still noonday solitudes, where
+      [[Bottom|bottom]]. Then I came suddenly into still noonday solitudes, where
 
-      no wind of heaven ever intruded, and where vast meadows of
+      no [[Wind|wind]] of heaven ever intruded, and where vast meadows of
 
-      poppies, and slender, lily-looking flowers spread themselves out
+      poppies, and slender, lily-looking [[Flowers|flowers]] spread themselves out
 
       a weary distance, all silent and motionless forever. Then again I
 
@@ -2269,9 +2269,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       dim and vague lake, with a boundary line of clouds. And out of
 
-      this melancholy water arose a forest of tall eastern trees, like
+      this [[Melancholy|melancholy]] [[Water|water]] arose a forest of tall eastern trees, like
 
-      a wilderness of dreams. And I have in mind that the shadows of
+      a wilderness of [[Dreams|dreams]]. And I have in mind that the shadows of
 
       the trees which fell upon the lake remained not on the surface
 
@@ -2285,19 +2285,19 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       thoughtfully, “is the very reason why the waters of this lake
 
-      grow blacker with age, and more melancholy as the hours run on.”
+      grow blacker with age, and more [[Melancholy|melancholy]] as the hours run on.”
 
       But fancies such as these were not the sole possessors of my
 
-      brain. Horrors of a nature most stern and most appalling would
+      brain. Horrors of a [[Nature|nature]] most stern and most appalling would
 
       too frequently obtrude themselves upon my mind, and shake the
 
-      innermost depths of my soul with the bare supposition of their
+      innermost depths of my [[Soul|soul]] with the bare supposition of their
 
       possibility. Yet I would not suffer my thoughts for any length of
 
-      time to dwell upon these latter speculations, rightly judging the
+      [[Time|time]] to dwell upon these latter speculations, rightly judging the
 
       real and palpable dangers of the voyage sufficient for my
 
@@ -2305,7 +2305,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “At five o’clock, p.m., being engaged in regenerating the
+      “At five o’[[Clock|clock]], p.m., being engaged in regenerating the
 
       atmosphere within the chamber, I took that opportunity of
 
@@ -2317,13 +2317,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       but my experiment with the kittens had resulted very strangely. I
 
-      had expected, of course, to see them betray a sense of pain,
+      had expected, of course, to see them betray a sense of [[Pain|pain]],
 
       although in a less degree than their mother, and this would have
 
       been sufficient to confirm my opinion concerning the habitual
 
-      endurance of atmospheric pressure. But I was not prepared to find
+      [[Endurance|endurance]] of atmospheric pressure. But I was not prepared to find
 
       them, upon close examination, evidently enjoying a high degree of
 
@@ -2345,21 +2345,21 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       strata near the earth, he might endure tortures of a similar
 
-      nature to those I had so lately experienced. It has since been to
+      [[Nature|nature]] to those I had so lately experienced. It has since been to
 
       me a matter of deep regret that an awkward accident, at this
 
-      time, occasioned me the loss of my little family of cats, and
+      [[Time|time]], occasioned me the loss of my little family of cats, and
 
       deprived me of the insight into this matter which a continued
 
       experiment might have afforded. In passing my hand through the
 
-      valve, with a cup of water for the old puss, the sleeves of my
+      valve, with a cup of [[Water|water]] for the old puss, the sleeves of my
 
       shirt became entangled in the loop which sustained the basket,
 
-      and thus, in a moment, loosened it from the bottom. Had the whole
+      and thus, in a moment, loosened it from the [[Bottom|bottom]]. Had the whole
 
       actually vanished into air, it could not have shot from my sight
 
@@ -2371,23 +2371,23 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       disappearance with all that it contained. My good wishes followed
 
-      it to the earth, but of course, I had no hope that either cat or
+      it to the earth, but of course, I had no [[Hope|hope]] that either cat or
 
       kittens would ever live to tell the tale of their misfortune.
 
 
 
-      “At six o’clock, I perceived a great portion of the earth’s
+      “At six o’[[Clock|clock]], I perceived a great portion of the earth’s
 
-      visible area to the eastward involved in thick shadow, which
+      visible area to the eastward involved in thick [[Shadow|shadow]], which
 
       continued to advance with great rapidity, until, at five minutes
 
       before seven, the whole surface in view was enveloped in the
 
-      darkness of night. It was not, however, until long after this
+      darkness of [[Night|night]]. It was not, however, until long after this
 
-      time that the rays of the setting sun ceased to illumine the
+      [[Time|time]] that the rays of the setting sun ceased to illumine the
 
       balloon; and this circumstance, although of course fully
 
@@ -2411,13 +2411,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “At ten o’clock, feeling sleepy, I determined to lie down for the
+      “At ten o’[[Clock|clock]], feeling sleepy, I determined to lie down for the
 
-      rest of the night; but here a difficulty presented itself, which,
+      rest of the [[Night|night]]; but here a difficulty presented itself, which,
 
       obvious as it may appear, had escaped my attention up to the very
 
-      moment of which I am now speaking. If I went to sleep as I
+      moment of which I am now speaking. If I went to [[Sleep|sleep]] as I
 
       proposed, how could the atmosphere in the chamber be regenerated
 
@@ -2433,7 +2433,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       after the dangers I had undergone, I should look upon this
 
-      business in so serious a light, as to give up all hope of
+      business in so serious a light, as to give up all [[Hope|hope]] of
 
       accomplishing my ultimate design, and finally make up my mind to
 
@@ -2447,7 +2447,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       rendered them habitual. It was very certain that I could not do
 
-      without sleep; but I might easily bring myself to feel no
+      without [[Sleep|sleep]]; but I might easily bring myself to feel no
 
       inconvenience from being awakened at intervals of an hour during
 
@@ -2477,7 +2477,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       awake, but to be aroused from slumber at regular intervals of
 
-      time. I at length hit upon the following expedient, which, simple
+      [[Time|time]]. I at length hit upon the following expedient, which, simple
 
       as it may seem, was hailed by me, at the moment of discovery, as
 
@@ -2499,7 +2499,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       circumstance favored me greatly in the project I now determined
 
-      to adopt. My supply of water had been put on board in kegs
+      to adopt. My supply of [[Water|water]] had been put on board in kegs
 
       containing five gallons each, and ranged very securely around the
 
@@ -2513,7 +2513,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       keg, and steadied it in a horizontal position. About eight inches
 
-      immediately below these ropes, and four feet from the bottom of
+      immediately below these ropes, and four feet from the [[Bottom|bottom]] of
 
       the car I fastened another shelf—but made of thin plank, being
 
@@ -2529,7 +2529,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       as might happen, until, after a few experiments, it arrived at
 
-      that exact degree of tightness, at which the water, oozing from
+      that exact degree of tightness, at which the [[Water|water]], oozing from
 
       the hole, and falling into the pitcher below, would fill the
 
@@ -2537,7 +2537,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       course, was a matter briefly and easily ascertained, by noticing
 
-      the proportion of the pitcher filled in any given time. Having
+      the proportion of the pitcher filled in any given [[Time|time]]. Having
 
       arranged all this, the rest of the plan is obvious. My bed was so
 
@@ -2551,7 +2551,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       which was somewhat lower than the rim. It was also evident, that
 
-      the water thus falling from a height of more than four feet,
+      the [[Water|water]] thus falling from a height of more than four feet,
 
       could not do otherwise than fall upon my face, and that the sure
 
@@ -2561,7 +2561,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “It was fully eleven by the time I had completed these
+      “It was fully eleven by the [[Time|time]] I had completed these
 
       arrangements, and I immediately betook myself to bed, with full
 
@@ -2577,7 +2577,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       my slumber caused me even less discomfort than I had anticipated;
 
-      and when I finally arose for the day, it was seven o’clock, and
+      and when I finally arose for the day, it was seven o’[[Clock|clock]], and
 
       the sun had attained many degrees above the line of my horizon.
 
@@ -2607,7 +2607,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       accurate a survey as I could wish. Much, however, might be
 
-      ascertained. Nothing else of an extraordinary nature occurred
+      ascertained. Nothing else of an extraordinary [[Nature|nature]] occurred
 
       during the day. My apparatus all continued in good order, and the
 
@@ -2619,7 +2619,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       bed, although it was for many hours afterward broad daylight all
 
-      around my immediate situation. The water-clock was punctual in
+      around my immediate situation. The [[Water|water]]-[[Clock|clock]] was punctual in
 
       its duty, and I slept until next morning soundly, with the
 
@@ -2657,7 +2657,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       while nearly the whole visible surface of the earth continued to
 
-      be involved in darkness. In time, however, the light spread
+      be involved in darkness. In [[Time|time]], however, the light spread
 
       itself over all, and I again saw the line of ice to the
 
@@ -2683,11 +2683,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       that if the balloon held its present course, it would soon arrive
 
-      above the Frozen Ocean, and I had now little doubt of ultimately
+      above the Frozen Ocean, and I had now little [[Doubt|doubt]] of ultimately
 
       seeing the Pole. During the whole of the day I continued to near
 
-      the ice. Toward night the limits of my horizon very suddenly and
+      the ice. Toward [[Night|night]] the limits of my horizon very suddenly and
 
       materially increased, owing undoubtedly to the earth’s form being
 
@@ -2707,7 +2707,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       what there could be no hesitation in supposing the northern Pole
 
-      itself. It was there, beyond a doubt, and immediately beneath my
+      itself. It was there, beyond a [[Doubt|doubt]], and immediately beneath my
 
       feet; but, alas! I had now ascended to so vast a distance, that
 
@@ -2719,9 +2719,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       second of April, and twenty minutes before nine A.M. of the same
 
-      day (at which time the barometer ran down), it might be fairly
+      day (at which [[Time|time]] the barometer ran down), it might be fairly
 
-      inferred that the balloon had now, at four o’clock in the morning
+      inferred that the balloon had now, at four o’[[Clock|clock]] in the morning
 
       of April the seventh, reached a height of not less, certainly,
 
@@ -2729,7 +2729,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       appear immense, but the estimate upon which it is calculated gave
 
-      a result in all probability far inferior to the truth. At all
+      a result in all probability far inferior to the [[Truth|truth]]. At all
 
       events I undoubtedly beheld the whole of the earth’s major
 
@@ -2751,7 +2751,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       distance from the point of sight, to admit of any very accurate
 
-      examination. Nevertheless, what could be seen was of a nature
+      examination. Nevertheless, what could be seen was of a [[Nature|nature]]
 
       singular and exciting. Northwardly from that huge rim before
 
@@ -2779,7 +2779,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       blackness. Farther than this, little could be ascertained. By
 
-      twelve o’clock the circular centre had materially decreased in
+      twelve o’[[Clock|clock]] the circular centre had materially decreased in
 
       circumference, and by seven P.M. I lost sight of it entirely; the
 
@@ -2817,7 +2817,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       perceive that the balloon now hovered above the range of great
 
-      lakes in the continent of North America, and was holding a
+      lakes in the continent of North [[America]], and was holding a
 
       course, due south, which would bring me to the tropics. This
 
@@ -2825,13 +2825,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       satisfaction, and I hailed it as a happy omen of ultimate
 
-      success. Indeed, the direction I had hitherto taken, had filled
+      [[success]]. Indeed, the direction I had hitherto taken, had filled
 
       me with uneasiness; for it was evident that, had I continued it
 
       much longer, there would have been no possibility of my arriving
 
-      at the moon at all, whose orbit is inclined to the ecliptic at
+      at the [[Moon|moon]] at all, whose orbit is inclined to the ecliptic at
 
       only the small angle of 5° 8′ 48″.
 
@@ -2851,7 +2851,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       “April 10th. I was suddenly aroused from slumber, about five
 
-      o’clock this morning, by a loud, crackling, and terrific sound,
+      o’[[Clock|clock]] this morning, by a loud, crackling, and terrific sound,
 
       for which I could in no manner account. It was of very brief
 
@@ -2879,7 +2879,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       diameter of the earth, and a considerable increase, now
 
-      observable for the first time, in that of the moon itself, which
+      observable for the first [[Time|time]], in that of the [[Moon|moon]] itself, which
 
       wanted only a few days of being full. It now required long and
 
@@ -2921,7 +2921,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       which now subtended from the balloon an angle of very little more
 
-      than twenty-five degrees. The moon could not be seen at all,
+      than twenty-five degrees. The [[Moon|moon]] could not be seen at all,
 
       being nearly in my zenith. I still continued in the plane of the
 
@@ -2937,9 +2937,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       point of perigee—in other words, holding the direct course which
 
-      would bring it immediately to the moon in that part of its orbit
+      would bring it immediately to the [[Moon|moon]] in that part of its orbit
 
-      the nearest to the earth. The moon itself was directly overhead,
+      the nearest to the earth. The [[Moon|moon]] itself was directly overhead,
 
       and consequently hidden from my view. Great and long-continued
 
@@ -2951,9 +2951,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       now be traced upon the earth with anything approaching
 
-      distinctness. About twelve o’clock I became aware, for the third
+      distinctness. About twelve o’[[Clock|clock]] I became aware, for the third
 
-      time, of that appalling sound which had so astonished me before.
+      [[Time|time]], of that appalling sound which had so astonished me before.
 
       It now, however, continued for some moments, and gathered
 
@@ -2971,7 +2971,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       astonishment had in some degree subsided, I had little difficulty
 
-      in supposing it to be some mighty volcanic fragment ejected from
+      in supposing it to be some mighty volcanic [[Fragment|fragment]] ejected from
 
       that world to which I was so rapidly approaching, and, in all
 
@@ -2983,27 +2983,27 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “April 16th. To-day, looking upward as well as I could, through
+      “April 16th. To-day, looking upward as [[Well|well]] as I could, through
 
       each of the side windows alternately, I beheld, to my great
 
-      delight, a very small portion of the moon’s disk protruding, as
+      delight, a very small portion of the [[Moon|moon]]’s disk protruding, as
 
       it were, on all sides beyond the huge circumference of the
 
-      balloon. My agitation was extreme; for I had now little doubt of
+      balloon. My agitation was extreme; for I had now little [[Doubt|doubt]] of
 
       soon reaching the end of my perilous voyage. Indeed, the labor
 
       now required by the condenser had increased to a most oppressive
 
-      degree, and allowed me scarcely any respite from exertion. Sleep
+      degree, and allowed me scarcely any respite from exertion. [[Sleep]]
 
       was a matter nearly out of the question. I became quite ill, and
 
       my frame trembled with exhaustion. It was impossible that human
 
-      nature could endure this state of intense suffering much longer.
+      [[Nature|nature]] could endure this state of intense [[Suffering|suffering]] much longer.
 
       During the now brief interval of darkness a meteoric stone again
 
@@ -3021,7 +3021,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       had greatly diminished; on the fifteenth a still more remarkable
 
-      decrease was observable; and, on retiring on the night of the
+      decrease was observable; and, on retiring on the [[Night|night]] of the
 
       sixteenth, I had noticed an angle of no more than about seven
 
@@ -3059,11 +3059,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       length reflection came to my relief. I paused; I considered; and
 
-      I began to doubt. The matter was impossible. I could not in any
+      I began to [[Doubt|doubt]]. The matter was impossible. I could not in any
 
       reason have so rapidly come down. Besides, although I was
 
-      evidently approaching the surface below me, it was with a speed
+      evidently approaching the surface below me, it was with a [[Speed|speed]]
 
       by no means commensurate with the velocity I had at first so
 
@@ -3079,9 +3079,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       the surface of my mother earth. The latter was indeed over my
 
-      head, and completely hidden by the balloon, while the moon—the
+      head, and completely hidden by the balloon, while the [[Moon|moon]]—the
 
-      moon itself in all its glory—lay beneath me, and at my feet.
+      [[Moon|moon]] itself in all its glory—lay beneath me, and at my feet.
 
 
 
@@ -3103,7 +3103,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       precisely, where the gravitation of the balloon toward the earth
 
-      should be less powerful than its gravitation toward the moon. To
+      should be less powerful than its gravitation toward the [[Moon|moon]]. To
 
       be sure I arose from a sound slumber, with all my senses in
 
@@ -3115,7 +3115,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       easy and gradual manner, and it is by no means clear that, had I
 
-      even been awake at the time of the occurrence, I should have been
+      even been awake at the [[Time|time]] of the occurrence, I should have been
 
       made aware of it by any internal evidence of an inversion—that is
 
@@ -3129,11 +3129,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       my situation, and emerging from the terror which had absorbed
 
-      every faculty of my soul, my attention was, in the first place,
+      every faculty of my [[Soul|soul]], my attention was, in the first place,
 
       wholly directed to the contemplation of the general physical
 
-      appearance of the moon. It lay beneath me like a chart—and
+      appearance of the [[Moon|moon]]. It lay beneath me like a chart—and
 
       although I judged it to be still at no inconsiderable distance,
 
@@ -3141,9 +3141,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       most striking and altogether unaccountable distinctness. The
 
-      entire absence of ocean or sea, and indeed of any lake or river,
+      entire absence of ocean or sea, and indeed of any lake or [[River|river]],
 
-      or body of water whatsoever, struck me, at first glance, as the
+      or [[Body|body]] of [[Water|water]] whatsoever, struck me, at first glance, as the
 
       most extraordinary feature in its geological condition. Yet,
 
@@ -3153,7 +3153,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       hemisphere in sight was covered with innumerable volcanic
 
-      mountains, conical in shape, and having more the appearance of
+      [[Mountains|mountains]], conical in shape, and having more the appearance of
 
       artificial than of natural protuberance. The highest among them
 
@@ -3177,7 +3177,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “April 18th. To-day I found an enormous increase in the moon’s
+      “April 18th. To-day I found an enormous increase in the [[Moon|moon]]’s
 
       apparent bulk—and the evidently accelerated velocity of my
 
@@ -3185,7 +3185,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       in the earliest stage of my speculations upon the possibility of
 
-      a passage to the moon, the existence, in its vicinity, of an
+      a passage to the [[Moon|moon]], the existence, in its vicinity, of an
 
       atmosphere, dense in proportion to the bulk of the planet, had
 
@@ -3201,7 +3201,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       my opinion by certain observations of Mr. Schroeter, of
 
-      Lilienthal. He observed the moon when two days and a half old, in
+      Lilienthal. He observed the [[Moon|moon]] when two days and a half old, in
 
       the evening soon after sunset, before the dark part was visible,
 
@@ -3217,7 +3217,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       prolongation of the cusps beyond the semicircle, I thought, must
 
-      have arisen from the refraction of the sun’s rays by the moon’s
+      have arisen from the refraction of the sun’s rays by the [[Moon|moon]]’s
 
       atmosphere. I computed, also, the height of the atmosphere (which
 
@@ -3225,7 +3225,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       twilight more luminous than the light reflected from the earth
 
-      when the moon is about 32° from the new) to be 1,356 Paris feet;
+      when the [[Moon|moon]] is about 32° from the new) to be 1,356 [[Paris]] feet;
 
       in this view, I supposed the greatest height capable of
 
@@ -3237,7 +3237,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       it is stated that at an occultation of Jupiter’s satellites, the
 
-      third disappeared after having been about 1″ or 2″ of time
+      third disappeared after having been about 1″ or 2″ of [[Time|time]]
 
       indistinct, and the fourth became indiscernible near the
 
@@ -3259,7 +3259,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       surface of the satellite. And, indeed, I had now every reason to
 
-      be terrified. My distance from the moon was comparatively
+      be terrified. My distance from the [[Moon|moon]] was comparatively
 
       trifling, while the labor required by the condenser was
 
@@ -3269,9 +3269,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      “April 19th. This morning, to my great joy, about nine o’clock,
+      “April 19th. This morning, to my great joy, about nine o’[[Clock|clock]],
 
-      the surface of the moon being frightfully near, and my
+      the surface of the [[Moon|moon]] being frightfully near, and my
 
       apprehensions excited to the utmost, the pump of my condenser at
 
@@ -3281,7 +3281,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       By eleven, very little labor was necessary at the apparatus; and
 
-      at twelve o’clock, with some hesitation, I ventured to unscrew
+      at twelve o’[[Clock|clock]], with some hesitation, I ventured to unscrew
 
       the tourniquet, when, finding no inconvenience from having done
 
@@ -3299,7 +3299,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       I best could, in consideration of my leaving them behind me
 
-      momently in my approach to the denser strata near the moon. This
+      momently in my approach to the denser strata near the [[Moon|moon]]. This
 
       approach, however, was still impetuous in the extreme; and it
 
@@ -3331,7 +3331,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       terrible impetuosity. I lost not a moment, accordingly, in
 
-      throwing overboard first my ballast, then my water-kegs, then my
+      throwing overboard first my ballast, then my [[Water|water]]-kegs, then my
 
       condensing apparatus and gum-elastic chamber, and finally every
 
@@ -3345,7 +3345,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       car itself, which was of no inconsiderable weight, and thus,
 
-      clinging with both hands to the net-work, I had barely time to
+      clinging with both hands to the net-work, I had barely [[Time|time]] to
 
       observe that the whole country, as far as the eye could reach,
 
@@ -3353,7 +3353,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       tumbled headlong into the very heart of a fantastical-looking
 
-      city, and into the middle of a vast crowd of ugly little people,
+      [[City|city]], and into the middle of a vast crowd of ugly little people,
 
       who none of them uttered a single syllable, or gave themselves
 
@@ -3371,7 +3371,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       heavens overhead, and tipped on one of its edges with a crescent
 
-      border of the most brilliant gold. No traces of land or water
+      border of the most brilliant gold. No traces of land or [[Water|water]]
 
       could be discovered, and the whole was clouded with variable
 
@@ -3393,7 +3393,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       adventures yet remain to be related. And indeed your Excellencies
 
-      may well imagine that, after a residence of five years upon a
+      may [[Well|well]] imagine that, after a residence of five years upon a
 
       planet not only deeply interesting in its own peculiar character,
 
@@ -3421,7 +3421,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       the point beneath the sun to the point the farthest from it; of a
 
-      variable zone of running water; of the people themselves; of
+      variable zone of running [[Water|water]]; of the people themselves; of
 
       their manners, customs, and political institutions; of their
 
@@ -3435,7 +3435,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       inter-communication; of the incomprehensible connection between
 
-      each particular individual in the moon with some particular
+      each particular individual in the [[Moon|moon]] with some particular
 
       individual on the earth—a connection analogous with, and
 
@@ -3449,13 +3449,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       so please your Excellencies—above all, of those dark and hideous
 
-      mysteries which lie in the outer regions of the moon—regions
+      mysteries which lie in the outer regions of the [[Moon|moon]]—regions
 
       which, owing to the almost miraculous accordance of the
 
       satellite’s rotation on its own axis with its sidereal revolution
 
-      about the earth, have never yet been turned, and, by God’s mercy,
+      about the earth, have never yet been turned, and, by God’s [[Mercy|mercy]],
 
       never shall be turned, to the scrutiny of the telescopes of man.
 
@@ -3463,7 +3463,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       to be brief, I must have my reward. I am pining for a return to
 
-      my family and to my home; and as the price of any farther
+      my family and to my [[Home|home]]; and as the price of any farther
 
       communication on my part—in consideration of the light which I
 
@@ -3471,13 +3471,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       physical and metaphysical science—I must solicit, through the
 
-      influence of your honorable body, a pardon for the crime of which
+      influence of your honorable [[Body|body]], a pardon for the crime of which
 
-      I have been guilty in the death of the creditors upon my
+      I have been guilty in the [[Death|death]] of the creditors upon my
 
       departure from Rotterdam. This, then, is the object of the
 
-      present paper. Its bearer, an inhabitant of the moon, whom I have
+      present paper. Its bearer, an inhabitant of the [[Moon|moon]], whom I have
 
       prevailed upon, and properly instructed, to be my messenger to
 
@@ -3511,7 +3511,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       dignity, as to turn round three times upon his heel in the
 
-      quintessence of astonishment and admiration. There was no doubt
+      quintessence of astonishment and admiration. There was no [[Doubt|doubt]]
 
       about the matter—the pardon should be obtained. So at least
 
@@ -3521,19 +3521,19 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       brother in science, and without saying a word, began to make the
 
-      best of his way home to deliberate upon the measures to be
+      best of his way [[Home|home]] to deliberate upon the measures to be
 
       adopted. Having reached the door, however, of the burgomaster’s
 
-      dwelling, the professor ventured to suggest that as the messenger
+      dwelling, [[The Professor|the professor]] ventured to suggest that as the messenger
 
-      had thought proper to disappear—no doubt frightened to death by
+      had thought proper to disappear—no [[Doubt|doubt]] frightened to [[Death|death]] by
 
       the savage appearance of the burghers of Rotterdam—the pardon
 
-      would be of little use, as no one but a man of the moon would
+      would be of little use, as no one but a man of the [[Moon|moon]] would
 
-      undertake a voyage to so vast a distance. To the truth of this
+      undertake a voyage to so vast a distance. To the [[Truth|truth]] of this
 
       observation the burgomaster assented, and the matter was
 
@@ -3565,17 +3565,17 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      Secondly. That an odd little dwarf and bottle conjurer, both of
+      Secondly. That an odd little [[Dwarf|dwarf]] and bottle conjurer, both of
 
       whose ears, for some misdemeanor, have been cut off close to his
 
-      head, has been missing for several days from the neighboring city
+      head, has been missing for several days from the neighboring [[City|city]]
 
       of Bruges.
 
 
 
-      Well—what of that?
+      [[Well]]—what of that?
 
 
 
@@ -3583,9 +3583,9 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       balloon were newspapers of Holland, and therefore could not have
 
-      been made in the moon. They were dirty papers—very dirty—and
+      been made in the [[Moon|moon]]. They were dirty papers—very dirty—and
 
-      Gluck, the printer, would take his Bible oath to their having
+      Gluck, the printer, would take his [[Bible]] oath to their having
 
       been printed in Rotterdam.
 
@@ -3595,11 +3595,11 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      Fourthly, That Hans Pfaall himself, the drunken villain, and the
+      Fourthly, That Hans Pfaall himself, the drunken [[Villain|villain]], and the
 
       three very idle gentlemen styled his creditors, were all seen, no
 
-      longer than two or three days ago, in a tippling house in the
+      longer than two or three days ago, in a tippling [[house]] in the
 
       suburbs, having just returned, with money in their pockets, from
 
@@ -3615,7 +3615,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       ought to be generally received, that the College of Astronomers
 
-      in the city of Rotterdam, as well as other colleges in all other
+      in the [[City|city]] of Rotterdam, as [[Well|well]] as other colleges in all other
 
       parts of the world,—not to mention colleges and astronomers in
 
@@ -3635,7 +3635,7 @@ Notes to Hans Pfaal
 
       (*1) NOTE—Strictly speaking, there is but little similarity
 
-      between the above sketchy trifle and the celebrated “Moon-Story”
+      between the above sketchy trifle and the celebrated “[[Moon]]-Story”
 
       of Mr. Locke; but as both have the character of _hoaxes_
 
@@ -3643,7 +3643,7 @@ Notes to Hans Pfaal
 
       earnest), and as both hoaxes are on the same subject, the
 
-      moon—moreover, as both attempt to give plausibility by scientific
+      [[Moon|moon]]—moreover, as both attempt to give plausibility by scientific
 
       detail—the author of “Hans Pfaall” thinks it necessary to say, in
 
@@ -3651,19 +3651,19 @@ Notes to Hans Pfaal
 
       “Southern Literary Messenger” about three weeks before the
 
-      commencement of Mr. L’s in the “New York Sun.” Fancying a
+      commencement of Mr. L’s in the “[[New York]] Sun.” Fancying a
 
-      likeness which, perhaps, does not exist, some of the New York
+      likeness which, perhaps, does not exist, some of the [[New York]]
 
       papers copied “Hans Pfaall,” and collated it with the
 
-      “Moon-Hoax,” by way of detecting the writer of the one in the
+      “[[Moon]]-Hoax,” by way of detecting the writer of the one in the
 
       writer of the other.
 
 
 
-      As many more persons were actually gulled by the “Moon-Hoax” than
+      As many more persons were actually gulled by the “[[Moon]]-Hoax” than
 
       would be willing to acknowledge the fact, it may here afford some
 
@@ -3673,7 +3673,7 @@ Notes to Hans Pfaal
 
       sufficient to establish its real character. Indeed, however rich
 
-      the imagination displayed in this ingenious fiction, it wanted
+      the [[Imagination|imagination]] displayed in this ingenious fiction, it wanted
 
       much of the force which might have been given it by a more
 
@@ -3683,13 +3683,13 @@ Notes to Hans Pfaal
 
       ignorance which is so generally prevalent upon subjects of an
 
-      astronomical nature.
+      astronomical [[Nature|nature]].
 
 
 
-      The moon’s distance from the earth is, in round numbers, 240,000
+      The [[Moon|moon]]’s distance from the earth is, in round numbers, 240,000
 
-      miles. If we desire to ascertain how near, apparently, a lens
+      miles. If we [[Desire|desire]] to ascertain how near, apparently, a lens
 
       would bring the satellite (or any distant object), we, of course,
 
@@ -3699,17 +3699,17 @@ Notes to Hans Pfaal
 
       makes his lens have a power of 42,000 times. By this divide
 
-      240,000 (the moon’s real distance), and we have five miles and
+      240,000 (the [[Moon|moon]]’s real distance), and we have five miles and
 
       five sevenths, as the apparent distance. No animal at all could
 
       be seen so far; much less the minute points particularized in the
 
-      story. Mr. L. speaks about Sir John Herschel’s perceiving flowers
+      story. Mr. L. speaks about Sir John Herschel’s perceiving [[Flowers|flowers]]
 
       (the Papaver rheas, etc.), and even detecting the color and the
 
-      shape of the eyes of small birds. Shortly before, too, he has
+      shape of the eyes of small [[Birds|birds]]. Shortly before, too, he has
 
       himself observed that the lens would not render perceptible
 
@@ -3739,11 +3739,11 @@ Notes to Hans Pfaal
 
       the great extremes of light and darkness to which all the
 
-      inhabitants of our side of the moon are periodically subjected.”
+      inhabitants of our side of the [[Moon|moon]] are periodically subjected.”
 
       But this cannot be thought a very “acute” observation of the
 
-      Doctor’s. The inhabitants of our side of the moon have,
+      Doctor’s. The inhabitants of our side of the [[Moon|moon]] have,
 
       evidently, no darkness at all, so there can be nothing of the
 
@@ -3775,7 +3775,7 @@ Notes to Hans Pfaal
 
       spots by former astronomers, Mr. L. has entered into details
 
-      regarding oceans and other large bodies of water in the moon;
+      regarding oceans and other large bodies of [[Water|water]] in the [[Moon|moon]];
 
       whereas there is no astronomical point more positively
 
@@ -3783,7 +3783,7 @@ Notes to Hans Pfaal
 
       the boundary between light and darkness (in the crescent or
 
-      gibbous moon) where this boundary crosses any of the dark places,
+      gibbous [[Moon|moon]]) where this boundary crosses any of the dark places,
 
       the line of division is found to be rough and jagged; but, were
 
@@ -3805,7 +3805,7 @@ Notes to Hans Pfaal
 
       must our thirteen times larger globe have exercised upon this
 
-      satellite when an embryo in the womb of time, the passive subject
+      satellite when an embryo in the womb of [[Time|time]], the passive subject
 
       of chemical affinity!” This is very fine; but it should be
 
@@ -3815,11 +3815,11 @@ Notes to Hans Pfaal
 
       intended, is not only thirteen, but forty-nine times larger than
 
-      the moon. A similar objection applies to the whole of the
+      the [[Moon|moon]]. A similar objection applies to the whole of the
 
       concluding pages, where, by way of introduction to some
 
-      discoveries in Saturn, the philosophical correspondent enters
+      discoveries in [[Saturn]], the philosophical correspondent enters
 
       into a minute schoolboy account of that planet—this to the
 
@@ -3831,7 +3831,7 @@ Notes to Hans Pfaal
 
       the fiction. Let us imagine the power actually possessed of
 
-      seeing animals upon the moon’s surface—what would first arrest
+      seeing [[Animals|animals]] upon the [[Moon|moon]]’s surface—what would first arrest
 
       the attention of an observer from the earth? Certainly neither
 
@@ -3855,11 +3855,11 @@ Notes to Hans Pfaal
 
 
 
-      It might as well be remarked, in conclusion, that the size, and
+      It might as [[Well|well]] be remarked, in conclusion, that the size, and
 
       particularly the powers of the man-bats (for example, their
 
-      ability to fly in so rare an atmosphere—if, indeed, the moon have
+      ability to fly in so rare an atmosphere—if, indeed, the [[Moon|moon]] have
 
       any), with most of the other fancies in regard to animal and
 
@@ -3883,7 +3883,7 @@ Notes to Hans Pfaal
 
       There is a real and very definite limit to optical discovery
 
-      among the stars—a limit whose nature need only be stated to be
+      among the [[Stars|stars]]—a limit whose [[Nature|nature]] need only be stated to be
 
       understood. If, indeed, the casting of large lenses were all that
 
@@ -3899,7 +3899,7 @@ Notes to Hans Pfaal
 
       evil there is no remedy within human ability; for an object is
 
-      seen by means of that light alone which proceeds from itself,
+      seen by means of that light [[Alone|alone]] which proceeds from itself,
 
       whether direct or reflected. Thus the only “artificial” light
 
@@ -3907,15 +3907,15 @@ Notes to Hans Pfaal
 
       he should be able to throw—not upon the “focal object of vision,”
 
-      but upon the real object to be viewed—to wit: upon the moon. It
+      but upon the real object to be viewed—to wit: upon the [[Moon|moon]]. It
 
       has been easily calculated that, when the light proceeding from a
 
       star becomes so diffused as to be as weak as the natural light
 
-      proceeding from the whole of the stars, in a clear and moonless
+      proceeding from the whole of the [[Stars|stars]], in a clear and moonless
 
-      night, then the star is no longer visible for any practical
+      [[Night|night]], then the star is no longer visible for any practical
 
       purpose.
 
@@ -3943,7 +3943,7 @@ Notes to Hans Pfaal
 
       Dominique Gonzales, Aduanturier Espagnol, autrem?t dit le Courier
 
-      volant. Mis en notre langve par J. B. D. A. Paris, chez Francois
+      volant. Mis en notre langve par J. B. D. A. [[Paris]], chez Francois
 
       Piot, pres la Fontaine de Saint Benoist. Et chez J. Goignard, au
 
@@ -3981,11 +3981,11 @@ Notes to Hans Pfaal
 
       being ill during a sea voyage, the crew abandoned him, together
 
-      with a negro servant, on the island of St. Helena. To increase
+      with a negro servant, on the island of St. [[Helena]]. To increase
 
       the chances of obtaining food, the two separate, and live as far
 
-      apart as possible. This brings about a training of birds, to
+      apart as possible. This brings about a training of [[Birds|birds]], to
 
       serve the purpose of carrier-pigeons between them. By and by
 
@@ -3993,9 +3993,9 @@ Notes to Hans Pfaal
 
       is gradually increased. At length the idea is entertained of
 
-      uniting the force of a great number of the birds, with a view to
+      uniting the force of a great number of the [[Birds|birds]], with a view to
 
-      raising the author himself. A machine is contrived for the
+      raising the author himself. A [[Machine|machine]] is contrived for the
 
       purpose, and we have a minute description of it, which is
 
@@ -4007,7 +4007,7 @@ Notes to Hans Pfaal
 
       borne aloft by a multitude of wild swans _(ganzas)_ who had
 
-      strings reaching from their tails to the machine.
+      strings reaching from their tails to the [[Machine|machine]].
 
 
 
@@ -4017,13 +4017,13 @@ Notes to Hans Pfaal
 
       until near the end of the book. The _ganzas,_ with whom he had
 
-      become so familiar, were not really denizens of St. Helena, but
+      become so familiar, were not really denizens of St. [[Helena]], but
 
-      of the moon. Thence it had been their custom, time out of mind,
+      of the [[Moon|moon]]. Thence it had been their custom, [[Time|time]] out of mind,
 
       to migrate annually to some portion of the earth. In proper
 
-      season, of course, they would return home; and the author,
+      season, of course, they would return [[Home|home]]; and the author,
 
       happening, one day, to require their services for a short voyage,
 
@@ -4033,7 +4033,7 @@ Notes to Hans Pfaal
 
       that the people enjoy extreme happiness; that they have no _law;_
 
-      that they die without pain; that they are from ten to thirty feet
+      that they die without [[Pain|pain]]; that they are from ten to thirty feet
 
       in height; that they live five thousand years; that they have an
 
@@ -4051,37 +4051,37 @@ Notes to Hans Pfaal
 
 
 
-“I must not forget here, that the stars appeared only on that side of
+“I must not forget here, that the [[Stars|stars]] appeared only on that side of
 
-the globe turned toward the moon, and that the closer they were to it
+the globe turned toward the [[Moon|moon]], and that the closer they were to it
 
-the larger they seemed. I have also me and the earth. As to the stars,
+the larger they seemed. I have also me and the earth. As to the [[Stars|stars]],
 
-_since there was no night where I was, they always had the same
+_since there was no [[Night|night]] where I was, they always had the same
 
 appearance; not brilliant, as usual, but pale, and very nearly like the
 
-moon of a morning. _But few of them were visible, and these ten times
+[[Moon|moon]] of a morning. _But few of them were visible, and these ten times
 
-larger (as well as I could judge) than they seem to the inhabitants of
+larger (as [[Well|well]] as I could judge) than they seem to the inhabitants of
 
-the earth. The moon, which wanted two days of being full, was of a
+the earth. The [[Moon|moon]], which wanted two days of being full, was of a
 
 terrible bigness.
 
 
 
-“I must not forget here, that the stars appeared only on that side of
+“I must not forget here, that the [[Stars|stars]] appeared only on that side of
 
-the globe turned toward the moon, and that the closer they were to it
+the globe turned toward the [[Moon|moon]], and that the closer they were to it
 
 the larger they seemed. I have also to inform you that, whether it was
 
 calm weather or stormy, I found myself _always immediately between the
 
-moon and the earth._ I_ _was convinced of this for two reasons-because
+[[Moon|moon]] and the earth._ I_ _was convinced of this for two reasons-because
 
-my birds always flew in a straight line; and because whenever we
+my [[Birds|birds]] always flew in a straight line; and because whenever we
 
 attempted to rest, _we were carried insensibly around the globe of the
 
@@ -4093,7 +4093,7 @@ of the Equinoctial, commonly called the poles of the world, but upon
 
 those of the Zodiac, a question of which I propose to speak more at
 
-length here-after, when I shall have leisure to refresh my memory in
+length here-after, when I shall have leisure to refresh my [[Memory|memory]] in
 
 regard to the astrology which I learned at Salamanca when young, and
 
@@ -4105,7 +4105,7 @@ have since forgotten.”
 
       some claim to attention, as affording a naive specimen of the
 
-      current astronomical notions of the time. One of these assumed,
+      current astronomical notions of the [[Time|time]]. One of these assumed,
 
       that the “gravitating power” extended but a short distance from
 
@@ -4115,7 +4115,7 @@ have since forgotten.”
 
 
 
-      There have been other “voyages to the moon,” but none of higher
+      There have been other “voyages to the [[Moon|moon]],” but none of higher
 
       merit than the one just mentioned. That of Bergerac is utterly
 
@@ -4123,7 +4123,7 @@ have since forgotten.”
 
       Review” will be found quite an elaborate criticism upon a certain
 
-      “journey” of the kind in question—a criticism in which it is
+      “[[Journey|journey]]” of the kind in question—a criticism in which it is
 
       difficult to say whether the critic most exposes the stupidity of
 
@@ -4135,7 +4135,7 @@ have since forgotten.”
 
       the Signor Gonzales. The adventurer, in digging the earth,
 
-      happens to discover a peculiar metal for which the moon has a
+      happens to discover a peculiar metal for which the [[Moon|moon]] has a
 
       strong attraction, and straightway constructs of it a box, which,
 
@@ -4145,13 +4145,13 @@ have since forgotten.”
 
       a _jeu d’ esprit_ not altogether contemptible, and has been
 
-      translated into German. Thomas, the hero, was, in fact, the
+      translated into German. Thomas, the [[Hero|hero]], was, in fact, the
 
       gamekeeper of an Irish peer, whose eccentricities gave rise to
 
       the tale. The “flight” is made on an eagle’s back, from Hungry
 
-      Hill, a lofty mountain at the end of Bantry Bay.
+      [[Hill]], a lofty mountain at the end of Bantry Bay.
 
 
 
@@ -4169,9 +4169,9 @@ have since forgotten.”
 
       _verisimilitude,_ in the application of scientific principles (so
 
-      far as the whimsical nature of the subject would permit), to the
+      far as the whimsical [[Nature|nature]] of the subject would permit), to the
 
-      actual passage between the earth and the moon.
+      actual passage between the earth and the [[Moon|moon]].
 
 
 
@@ -4195,29 +4195,29 @@ have since forgotten.”
 
       (*4) Hevelius writes that he has several times found, in skies
 
-      perfectly clear, when even stars of the sixth and seventh
+      perfectly clear, when even [[Stars|stars]] of the sixth and seventh
 
       magnitude were conspicuous, that, at the same altitude of the
 
-      moon, at the same elongation from the earth, and with one and the
+      [[Moon|moon]], at the same elongation from the earth, and with one and the
 
-      same excellent telescope, the moon and its maculae did not appear
+      same excellent telescope, the [[Moon|moon]] and its maculae did not appear
 
       equally lucid at all times. From the circumstances of the
 
       observation, it is evident that the cause of this phenomenon is
 
-      not either in our air, in the tube, in the moon, or in the eye of
+      not either in our air, in the tube, in the [[Moon|moon]], or in the eye of
 
       the spectator, but must be looked for in something (an
 
-      atmosphere?) existing about the moon.
+      atmosphere?) existing about the [[Moon|moon]].
 
 
 
-      Cassini frequently observed Saturn, Jupiter, and the fixed stars,
+      Cassini frequently observed [[Saturn]], Jupiter, and the fixed [[Stars|stars]],
 
-      when approaching the moon to occultation, to have their circular
+      when approaching the [[Moon|moon]] to occultation, to have their circular
 
       figure changed into an oval one; and, in other occultations, he
 
@@ -4225,6 +4225,6 @@ have since forgotten.”
 
       that at some times and not at others, there is a dense matter
 
-      encompassing the moon wherein the rays of the stars are
+      encompassing the [[Moon|moon]] wherein the rays of the [[Stars|stars]] are
 
       refracted.

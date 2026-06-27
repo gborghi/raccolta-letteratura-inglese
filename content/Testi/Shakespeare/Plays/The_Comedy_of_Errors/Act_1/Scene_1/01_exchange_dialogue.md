@@ -1,5 +1,5 @@
 ---
-title: "The Comedy of Errors — Act I, Scene 1 — exchange (dialogue) [1]"
+title: "The [[Comedy]] of Errors — Act I, Scene 1 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-COMEDY-OF-ERRORS-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Solinus, the Duke of Ephesus, with Egeon the Merchant of Syracuse, Jailer, and other attendants |
-| EGEON | Proceed, Solinus, to procure my fall, And by the doom of death end woes and all. |
+| *(didascalia)* | Enter Solinus, the Duke of Ephesus, with [[Egeon]] the Merchant of Syracuse, Jailer, and other attendants |
+| [[Egeon|EGEON]] | Proceed, Solinus, to procure my fall, And by the doom of [[Death|death]] end woes and all. |

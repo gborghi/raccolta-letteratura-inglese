@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 16)"
+title: "[[The Mystery of Marie Roget]] (part 16)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -20,9 +20,9 @@ tags:
 
       remained in the thicket specified, for a longer period than a
 
-      single week—for a longer period than from one Sunday to the next.
+      single week—for a longer period than from one [[Sunday]] to the next.
 
-      Those who know any thing of the vicinity of Paris, know the
+      Those who know any thing of the vicinity of [[Paris]], know the
 
       extreme difficulty of finding seclusion unless at a great
 
@@ -32,11 +32,11 @@ tags:
 
       for a moment to be imagined. Let any one who, being at heart a
 
-      lover of nature, is yet chained by duty to the dust and heat of
+      [[Lover|lover]] of [[Nature|nature]], is yet chained by duty to the [[Dust|dust]] and heat of
 
       this great metropolis—let any such one attempt, even during the
 
-      weekdays, to slake his thirst for solitude amid the scenes of
+      weekdays, to slake his thirst for [[Solitude|solitude]] amid the scenes of
 
       natural loveliness which immediately surround us. At every second
 
@@ -50,11 +50,11 @@ tags:
 
       abound—here are the temples most desecrate. With sickness of the
 
-      heart the wanderer will flee back to the polluted Paris as to a
+      heart the wanderer will flee back to the polluted [[Paris]] as to a
 
       less odious because less incongruous sink of pollution. But if
 
-      the vicinity of the city is so beset during the working days of
+      the vicinity of the [[City|city]] is so beset during the working days of
 
       the week, how much more so on the Sabbath! It is now especially
 
@@ -62,7 +62,7 @@ tags:
 
       customary opportunities of crime, the town blackguard seeks the
 
-      precincts of the town, not through love of the rural, which in
+      precincts of the town, not through [[Love|love]] of the rural, which in
 
       his heart he despises, but by way of escape from the restraints
 
@@ -70,7 +70,7 @@ tags:
 
       and the green trees, than the utter license of the country. Here,
 
-      at the road-side inn, or beneath the foliage of the woods, he
+      at the [[Road|road]]-side inn, or beneath the foliage of the woods, he
 
       indulges, unchecked by any eye except those of his boon
 
@@ -82,11 +82,11 @@ tags:
 
       repeat that the circumstance of the articles in question having
 
-      remained undiscovered, for a longer period than from one Sunday
+      remained undiscovered, for a longer period than from one [[Sunday]]
 
       to another, in any thicket in the immediate neighborhood of
 
-      Paris, is to be looked upon as little less than miraculous.
+      [[Paris]], is to be looked upon as little less than miraculous.
 
 
 
@@ -118,7 +118,7 @@ tags:
 
       of the public attention by them directed, the articles were found
 
-      by the boys; but the suspicion might and may well have been, that
+      by the boys; but the suspicion might and may [[Well|well]] have been, that
 
       the articles were not before found by the boys, for the reason
 
@@ -154,7 +154,7 @@ tags:
 
       throne? Those who would hesitate at such a wager, have either
 
-      never been boys themselves, or have forgotten the boyish nature.
+      never been boys themselves, or have forgotten the boyish [[Nature|nature]].
 
       I repeat—it is exceedingly hard to comprehend how the articles
 

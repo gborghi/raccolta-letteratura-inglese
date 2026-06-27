@@ -25,7 +25,7 @@ Edited by
 
 DOROTHY COLLINS
 
-These essays cover a wide range of time and source.  The Spice
+These essays cover a wide range of [[Time|time]] and source.  The Spice
 of Life was written only three months before G.K. Chesterton died.
 None of them has appeared in a collection before.
 
@@ -37,19 +37,19 @@ Part One:  Essays on Literature in General
 
 Sentimental Literature
 
-How to Write a Detective Story
+How to Write a [[Detective]] Story
 
-Humour
+[[Humour]]
 
 Fiction as Food
 
-The Soul in Every Legend
+The [[Soul]] in Every Legend
 
 Part Two:  On Particular Books and Writers
 
 The Macbeths
 
-The Tragedy of King Lear
+The [[Tragedy]] of [[King Lear]]
 
 The Everlasting Nights
 
@@ -69,15 +69,15 @@ Part Three:  Thought and Belief
 
 Anti-Religious Thought in the Eighteenth Century
 
-The Camp and the Cathedral
+The Camp and the [[Cathedral]]
 
 The Religious Aspect of Westminster Abbey
 
-The Religious Aim of Education
+The Religious Aim of [[Education]]
 
-The Philosophy of Islands
+The [[philosophy|Philosophy]] of Islands
 
-Part Four:  At Home and Abroad
+Part Four:  At [[Home]] and Abroad
 
 On Holidays
 
@@ -107,35 +107,35 @@ On Fragments
 
 Sources
 
-THE ESSAY by G. K. Chesterton.
+THE [[Essay|ESSAY]] by G. K. Chesterton.
 
-THE ESSAY is the only literary form which confesses, in its very name,
+THE [[Essay|ESSAY]] is the only literary form which confesses, in its very name,
 that the rash act known as writing is really a leap in the dark.
-When men try to write a tragedy, they do not call the tragedy
-a try-on. Those who have toiled through the twelve books of an epic,
+When men try to write a [[Tragedy|tragedy]], they do not call the [[Tragedy|tragedy]]
+a try-on. Those who have toiled through the twelve books of an [[Epic|epic]],
 writing it with their own hands, have seldom pretended that they
-have merely tossed off an epic as an experiment.  But an essay,
-by its very name as well as its very nature, really is a try-on
-and really is an experiment.  A man does not really write an essay.
-He does really essay to write an essay.  One result is that,
-while there are many famous essays, there is fortunately no model essay.
-The perfect essay has never been written, for the simple reason
-that the essay has never really been written.  Men have tried
+have merely tossed off an [[Epic|epic]] as an experiment.  But an [[Essay|essay]],
+by its very name as [[Well|well]] as its very [[Nature|nature]], really is a try-on
+and really is an experiment.  A man does not really write an [[Essay|essay]].
+He does really [[Essay|essay]] to write an [[Essay|essay]].  One result is that,
+while there are many famous essays, there is fortunately no model [[Essay|essay]].
+The perfect [[Essay|essay]] has never been written, for the simple reason
+that the [[Essay|essay]] has never really been written.  Men have tried
 to write something, to find out what it was supposed to be.
-In this respect the essay is a typically modern product and is
+In this respect the [[Essay|essay]] is a typically modern product and is
 full of the future and the praise of experiment and adventure.
 In itself it remains somewhat elusive, and I will own that I am
-haunted with a faint suspicion that the essay will probably become
+haunted with a faint suspicion that the [[Essay|essay]] will probably become
 rather more cogent and dogmatic, merely because of the deep and deadly
 divisions which ethical and economic problems may force upon us.
-But let us hope there will always be a place for the essay that is
-really an essay.  St. Thomas Aquinas, with his usual common sense,
+But let us [[Hope|hope]] there will always be a place for the [[Essay|essay]] that is
+really an [[Essay|essay]].  St. Thomas [[aquinas|Aquinas]], with his usual common sense,
 said that neither the active nor the contemplative life could
 be lived without relaxation, in the form of jokes and games.
-The drama or the epic might be called the active life of literature;
-the sonnet or the ode the contemplative life.  The essay is the joke.
+The drama or the [[Epic|epic]] might be called the active life of literature;
+the [[Sonnet|sonnet]] or the ode the contemplative life.  The [[Essay|essay]] is the joke.
 
-Extract from introductory essay by G. K. Chesterton to Essays
+Extract from introductory [[Essay|essay]] by G. K. Chesterton to Essays
 of the Year.  See pp.  173-5 for all sources.
 
 PART ONE:  LITERATURE IN GENERAL
@@ -487,7 +487,7 @@ of certain different secretions in the human body; as, for instance,
 that the predominance of phlegm produced the phlegmatic humour.
 By the time of the full consolidation of the English language,
 it had thus become possible for Ben Jonson and others to use
-the word `humour' rather in the sense of `the ruling passion'.
+the word `[[Humour|humour]]' rather in the sense of `the ruling passion'.
 With this there necessarily went an idea of exaggeration;
 and by the end of the process the character of a humorist was
 more or less identical with what we should call an eccentric.
@@ -501,34 +501,34 @@ The blend, and the beginnings of the modern meaning, may perhaps be dated
 at about the time of Walter Scott's Waverley Novels; when Guy Mannering
 complains of Councillor Pleydell as `a crack-brained humorist'.
 For Pleydell is indeed laughed at for his little vanities or whims;
-but he himself joins in the laugh and sees the humour of his humour.
+but he himself joins in the laugh and sees the [[Humour|humour]] of his [[Humour|humour]].
 Since then the word has come to be used more and more exclusively
-of conscious humour; and generally of a rather deep and delicate
+of conscious [[Humour|humour]]; and generally of a rather deep and delicate
 appreciation of the absurdities of others.
 
-Nevertheless there clings to the word Humour, especially when
+Nevertheless there clings to the word [[Humour]], especially when
 balanced against the word Wit, a sort of tradition or atmosphere
 that belongs to the old eccentrics whose eccentricity was always
 wilful and not infrequently blind.  The distinction is a fine one;
 but one of the elements remaining in this blend is a certain sense
-of being laughed at, as well as of laughing.  It involves some
+of being laughed at, as [[Well|well]] as of laughing.  It involves some
 confession of human weakness; whereas wit is rather the human intellect
 exerting its full strength, though perhaps upon a small point.
 Wit is reason on its judgment seat; and though the offenders may be
 touched lightly, the point is that the judge is not touched at all.
-But humour always has in it some idea of the humorist himself being
+But [[Humour|humour]] always has in it some idea of the humorist himself being
 at a disadvantage and caught in the entanglements and contradictions
-of human life.  It is a grave error to underrate Wit as something trivial;
-for certain purposes of satire it can truly be the sword
-of the spirit, and the satirist bears not the sword in vain.
-But it is essential to wit that he should bear the sword with ease;
+of human life.  It is a [[Grave|grave]] error to underrate Wit as something trivial;
+for certain purposes of [[Satire|satire]] it can truly be the [[Sword|sword]]
+of the spirit, and the satirist bears not the [[Sword|sword]] in vain.
+But it is essential to wit that he should bear the [[Sword|sword]] with ease;
 that for the wit the weapon should be light if the blow be heavy;
 that there should be no question of his being encumbered with his
-instrument or laying open his guard.  But humour can be of the
+instrument or laying open his guard.  But [[Humour|humour]] can be of the
 finest and yet lay open the guard or confess its inconsistency.
 When Voltaire said, commenting on the judicial murder of Byng, "In England
 they kill one Admiral to encourage the others," it would immediately
-be recognized as humour.  But we rightly class Voltaire as a wit,
+be recognized as [[Humour|humour]].  But we rightly class Voltaire as a wit,
 because he represents the consistent human reason detesting
 an inconsistency.  We shall be very wrong if we despise him as a wit,
 for that French clearness has depths of irony; there is, for instance,
@@ -808,26 +808,26 @@ to write about him.
 I was a great reader of novels until I began to review them,
 when I naturally left off reading them.  I do not mean to admit that I
 did them any injustice; I studied and sampled them with the purpose
-of being strictly fair; but I do not call that `novel reading'
+of being strictly fair; but I do not call that `[[Novel|novel]] reading'
 in the old enchanting sense.  If I read them thoroughly I still read
 them rapidly; which is quite against my instincts for the mere luxury
 of reading.  When I was a boy and really had a new adventure story,
-when I was a young man and read my first few detective stories,
+when I was a young man and read my first few [[Detective|detective]] stories,
 I did not enjoy precipitation, but actually enjoyed delay.
 The pleasure was so intense that I was always putting it off.
-For it is one of the two or three big blunders in modern morality to
+For it is one of the two or three big blunders in modern [[morality]] to
 suppose that the strongest eagerness expresses itself in extravagance.
 The strongest eagerness always expresses itself in thrift.
-That is why the French Revolution was French and not English;
+That is why the [[French Revolution]] was French and not English;
 why the careful peasants have turned the world upside-down,
 while the careless labourers have cheerfully left it as it was.
-When a child's soul is in the most starry ecstasy of greed
+When a [[Child|child]]'s [[Soul|soul]] is in the most starry ecstasy of [[Greed|greed]]
 he desires to have his cake, not to eat it.  I am English myself,
 and I have never managed to be thrifty about anything else.
 
-But about my early novel reading I was as thrifty as a French peasant--
+But about my early [[Novel|novel]] reading I was as thrifty as a French peasant--
 and as greedy.  I loved to look at the mere solid bulk of a
-sensational novel as one looks at the solid bulk of a cheese;
+sensational [[Novel|novel]] as one looks at the solid bulk of a [[cheese]];
 to open the first page, dally with the first paragraph, and then
 shut it again, feeling how little pleasure I had lost as yet.
 And my favourite novelists are still those great nineteenth-century
@@ -841,28 +841,28 @@ Burden_ must not only be read quickly but fiercely; they describe
 a short, sharp struggle; the mood both of writer and reader
 is heroic and abnormal, like that of two men fighting a duel.
 But Scott, Thackeray, and Dickens had the mysterious trick or talent
-of the inexhaustible novel.
+of the inexhaustible [[Novel|novel]].
 
 Even when we have come to the end of the story we somehow feel
-that it is endless.  People say they have read Pickwick five times
+that it is endless.  People say they have read [[Pickwick]] five times
 or fifty times or five hundred times.  For my part I have only read
-Pickwick once.  Since then I have lived in Pickwick; walked into it
+[[Pickwick]] once.  Since then I have lived in [[Pickwick]]; walked into it
 when and where I chose, as a man walks into his club.  But whenever
 I have walked in, it seemed to me that I found something new.
 I am not sure that stringent modern artists like Stevenson or Mr. Belloc
 do not actually suffer from the strictness and swiftness of their art.
-If a book is a book to be lived in, it should be (like a house
+If a book is a book to be lived in, it should be (like a [[house]]
 to be lived in) a little untidy.
 
-Apart from such chaotic classics as these, my own taste in novel
+Apart from such chaotic classics as these, my own taste in [[Novel|novel]]
 reading is one which I am prepared in a rather especial manner,
 not only to declare, but to defend.  My taste is for the
-sensational novel, the detective story, the story about death,
+sensational [[Novel|novel]], the [[Detective|detective]] story, the story about [[Death|death]],
 robbery and secret societies; a taste which I share in common
 with the bulk at least of the male population of this world.
-There was a time in my own melodramatic boyhood when I became quite
+There was a [[Time|time]] in my own melodramatic boyhood when I became quite
 fastidious in this respect.  I would look at the first chapter
-of any new novel as a final test of its merits.  If there was a
+of any new [[Novel|novel]] as a final test of its merits.  If there was a
 murdered man under the sofa in the first chapter, I read the story.
 If there was no murdered man under the sofa in the first chapter,
 I dismissed the story as tea-table twaddle, which it often really was.
@@ -872,33 +872,33 @@ I have come to compromise with the tea-table and to be less
 insistent about the sofa.  As long as a corpse or two turns up
 in the second, the third, nay even the fourth or fifth chapter,
 I make allowance for human weakness, and I ask no more.
-But a novel without any death in it is still to me a novel without
+But a [[Novel|novel]] without any [[Death|death]] in it is still to me a [[Novel|novel]] without
 any life in it.  I admit that the very best of the tea-table
-novels are great art--for instance, Emma or Northanger Abbey.
+novels are great art--for instance, [[Emma]] or [[Northanger Abbey]].
 Sheer elemental genius can make a work of art out of anything.
 Michelangelo might make a statue out of mud, and Jane Austen could
-make a novel out of tea--that much more contemptible substance.
+make a [[Novel|novel]] out of tea--that much more contemptible substance.
 But on the whole I think that a tale about one man killing another
 man is more likely to have something in it than a tale in which,
 all the characters are talking trivialities without any of that instant
-and silent presence of death which is one of the strong spiritual
-bonds of all mankind.  I still prefer the novel in which one person
-does another person to death to the novel in which all the persons
+and silent presence of [[Death|death]] which is one of the strong spiritual
+bonds of all mankind.  I still prefer the [[Novel|novel]] in which one person
+does another person to [[Death|death]] to the [[Novel|novel]] in which all the persons
 are feebly (and vainly) trying to get the others to come to life.
 
 But I have another and more important quarrel about the
-sensational novel.  There seems to be a very general idea that
-the romance of the tomahawk will be (or will run the risk of being)
-more immoral than the romance of the teapot.  This I violently deny.
+sensational [[Novel|novel]].  There seems to be a very general idea that
+the [[Romance|romance]] of the tomahawk will be (or will run the risk of being)
+more immoral than the [[Romance|romance]] of the teapot.  This I violently deny.
 And in this I have the support of practically all the old moral
 traditions of our civilization and of every civilization.
 High or low, good or bad, clever or stupid, a moral story almost always
 meant a murderous story.  For the old Greeks a moral play was one full
-of madness and slaying.  For the great medievals a moral play was one
+of [[Madness|madness]] and slaying.  For the great medievals a moral play was one
 which exhibited the dancing of the devil and the open jaws of hell.
 For the great Protestant moralists of the seventeenth and eighteenth
 centuries a moral story meant a story in which a parricide was
-struck by lightning or a boy was drowned for fishing on a Sunday.
+struck by [[Lightning|lightning]] or a boy was drowned for fishing on a [[Sunday]].
 For the more rationalistic moralists of the eighteenth century,
 such as Hogarth, Richardson, and the author of Sandford and Merton,
 all agreed that shocking calamities could properly be indicated
@@ -911,12 +911,12 @@ But I believe that sensational novels are the most moral part
 of modern fiction, and I believe it upon two converging lines,
 such as make all real conviction.  It is, I think,
 the fact that melodramatic fiction is moral and not immoral.
-And it is, I think, the abstract truth that any literature
+And it is, I think, the abstract [[Truth|truth]] that any literature
 that represents our life as dangerous and startling is truer
 than any literature that represents it as dubious and languid.
 For life is a fight and is not a conversation.
 
-THE SOUL IN EVERY LEGEND
+THE [[Soul|SOUL]] IN EVERY LEGEND
 
 I THINK it was that very fine and subtle writer, Vernon Lee, who lapsed
 into literary heresy by saying that a poet is always a pantheist.
@@ -926,16 +926,16 @@ It was precisely because Walt Whitman sometimes tried on principle
 to be a pantheist, that so great a genius just missed being a poet.
 Shelley did not miss being a poet; but he did miss being a pantheist.
 A deep imaginative instinct, beyond all his cheap philosophies,
-made him always do something which is the soul of imagination,
+made him always do something which is the [[Soul|soul]] of [[Imagination|imagination]],
 but the very opposite of universalism.  It made him insulate
 the object of which he wrote; making the cloud or the bird as
-solitary as possible in the sky.  Imagination demands an image.
+solitary as possible in the sky.  [[Imagination]] demands an image.
 An image demands a background.  The background should be equal
 and level, or vast and vague, but only for the sake of the image.
 In writing of the skylark Shelley compares that unfortunate
-wild fowl to a lady in a tower, to a star, to a rose, to all
+wild fowl to a lady in a tower, to a star, to a [[Rose|rose]], to all
 sorts of things that are not in the least like a skylark.
-But they all have one touch, the touch of separation and solitude.
+But they all have one touch, the touch of separation and [[Solitude|solitude]].
 Now pantheism means that nothing is thus separated; that the divine
 essence is equally distributed at any given moment in all the atoms
 of the universe; and that he who would see it imaginatively
@@ -944,49 +944,49 @@ the poet; whatever may have been done by Shelley the prig.
 When he heard the skylark speaking to him like a spirit out of heaven,
 I deny that he heard at the same moment the crowing of cocks,
 the screaming of cockatoos, the gobbling of turkeys, the cawing of rooks,
-the clucking of hens and the pandemonium of the parrot-house at the Zoo;
+the clucking of hens and the pandemonium of the parrot-[[house]] at the Zoo;
 or that for him, at that moment, all these things mingled in one
 harmony or music of the spheres.
 
 I do not deny that the poet may write an ode to a parrot
-as well as to a skylark; or for that matter a serenade to a
+as [[Well|well]] as to a skylark; or for that matter a serenade to a
 penguin or a pelican.  But he will prefer the parrot outside
-the parrot-house. He will prefer the pelican in the wilderness.
+the parrot-[[house]]. He will prefer the pelican in the wilderness.
 In short, he will aim at seeing the object against a background,
 as one sees a star in the sky or an island in the sea.  He will aim
 at seeing the object in the strict sense of distinguishing the object.
-And this element of distinction would alone distinguish such a poet
+And this element of distinction would [[Alone|alone]] distinguish such a poet
 from the vulgar universality of the ordinary pantheist.  For the rest,
-Shelley's poetry very seldom expressed Shelley's philosophy.
+Shelley's poetry very seldom expressed Shelley's [[philosophy]].
 When once he began to sing, he generally sang the creeds that he refused
 to say.  In the skylark, for instance, he does not in the least
-proclaim the doctrine of Universal Nature or the Immanence of God.
-What he does proclaim is the doctrine of Original Sin, or the Fall
+proclaim the doctrine of Universal [[Nature]] or the Immanence of God.
+What he does proclaim is the doctrine of [[Original Sin]], or the Fall
 of Man.  When the skylark ceases merely to flutter and begins really
 to fly, to sweep and to soar; when the verse takes on the swing
 and powerful pulsation of great poetry, it is not even about
 the isolation of the bird but the stranger isolation of the man.
-"We look before and after . . . our sweetest songs are those that tell
+"We look before and after . . . our sweetest [[songs]] are those that tell
 of saddest thought."
 
   But if we could scorn
-  Hate and pride and fear,
+  Hate and [[Pride|pride]] and [[Fear|fear]],
   If we were things born
   Not to shed a tear --
 
 There the pantheistic poet is telling a tale not told by all
 the parrots in the Zoological Gardens; but rather by the Bird
-of Paradise that came with us out of the Garden of Eden.
+of Paradise that came with us out of the [[Garden]] of Eden.
 
-Mr. Bernard Shaw, in a preface to one of his plays, advances a thesis
-in science and then propounds it as a thesis in philosophy.
-It might well be described as a progressive pantheism, as compared
+Mr. Bernard [[Shaw]], in a preface to one of his plays, advances a thesis
+in science and then propounds it as a thesis in [[philosophy]].
+It might [[Well|well]] be described as a progressive pantheism, as compared
 with the static pantheism more commonly associated with pantheists.
-The current criticism will probably be that it is all very well for
-Mr. Shaw to talk philosophy, but he knows nothing about science.
+The current criticism will probably be that it is all very [[Well|well]] for
+Mr. [[Shaw]] to talk [[philosophy]], but he knows nothing about science.
 To me this seems the exact contrary of the fact.  He has always
-been very well equipped with facts in his scientific controversies;
-and his logic, of which I can judge better, seems to me very
+been very [[Well|well]] equipped with facts in his scientific controversies;
+and his [[logic]], of which I can judge better, seems to me very
 conclusive on the purely scientific question.  He is strictly
 scientific in refusing the test of cutting off a mouse's tail,
 for instance, as affecting the question of acquired characteristics.
@@ -994,73 +994,73 @@ As he very sensibly points out, an arbitrary amputation
 by somebody else is not an acquired characteristic at all;
 any more than we can talk of a man acquiring a railway accident.
 The Lamarckian suggestion is that the will counts; and nobody wills
-a railway accident.  I think Mr. Shaw is entirely successful in
-his science; where I begin to doubt is precisely in his philosophy,
-and especially when he propounds it as a religion.  And I doubt it
+a railway accident.  I think Mr. [[Shaw]] is entirely successful in
+his science; where I begin to [[Doubt|doubt]] is precisely in his [[philosophy]],
+and especially when he propounds it as a religion.  And I [[Doubt|doubt]] it
 because it ignores, as the more static pantheism ignores the same
-rather indescribable element which I can only call identity.
+rather indescribable element which I can only call [[Identity|identity]].
 I can only dimly describe it as the conviction that it is It.
 
-Mr. Shaw suggests that we should all pool our legends and treat them
+Mr. [[Shaw]] suggests that we should all pool our legends and treat them
 all equally as legends; that is, as allegories.  This, I fancy,
 is very much what was really done by the Neo-Platonists and
 other syncretists of the pagan sunset on the Mediterranean.
 They made a pool of all the legends; and it was rather a stagnant pool.
 Indeed the Mediterranean itself would henceforth have been little
-more than a stagnant pool, but for the wind of the spirit that blew
+more than a stagnant pool, but for the [[Wind|wind]] of the spirit that blew
 on it from Bethlehem and Calvary; that is from real places alive
 with stories at least believed to be real.  When the new world found
-something to follow, it had to be a man and not a myth, a tragedy
+something to follow, it had to be a man and not a myth, a [[Tragedy|tragedy]]
 and not a mummery.  If the new world finds a new religion now,
 it is much more likely to be in Spiritualist miracles and a Spiritualist
 plan of heaven and earth, all to be believed down to the last detail,
 than in the weary impartiality of the pool of the Neo-Platonists.
 That pool may be a sea into which all religions ultimately run.
-It is certainly not a spring in which any religions originally rise.
-We shall never make a new legend by advertising for an allegory.
+It is certainly not a [[spring]] in which any religions originally rise.
+We shall never make a new legend by advertising for an [[Allegory|allegory]].
 The great myth comes from men who believe they have found a
-great truth, at least at first and that a vivid and final truth.
-If there be, as I believe, such a central truth, this is the only way
-in which men can receive that truth.  But even if it be only a delusion,
+great [[Truth|truth]], at least at first and that a vivid and final [[Truth|truth]].
+If there be, as I believe, such a central [[Truth|truth]], this is the only way
+in which men can receive that [[Truth|truth]].  But even if it be only a delusion,
 this is the only way in which it can be denied.
 
 In short, it is not enough for a religion to include everything.
 It must include everything and something over.  That is it
-must include everything and include something as well.
+must include everything and include something as [[Well|well]].
 It must answer that deep and mysterious human demand for everything;
-even if the nature of that demand be too deep to be easily defined
-in logic.  It will never cease to be described in poetry.
+even if the [[Nature|nature]] of that demand be too deep to be easily defined
+in [[logic]].  It will never cease to be described in poetry.
 We might almost say that all poetry is a description of it.
 Even when you have only natural religion, you will still have
-supernatural poetry.  And it will be poetic because it is particular,
+[[Supernatural|supernatural]] poetry.  And it will be poetic because it is particular,
 not because it is general.  The new priest may proclaim, "The sea is God,
 the land is God and the sky is God; but yet there are not three Gods,
 but one God."  But even if the old priest be silenced, the old
-poet will always answer, "God is in a cave; God is in a stable;
-God is disguised and hidden.  I alone know where he is; he is
+poet will always answer, "God is in a [[Cave|cave]]; God is in a stable;
+God is disguised and hidden.  I [[Alone|alone]] know where he is; he is
 herding the cattle of Admetus; he is pouring out the wine of Cana."
 The new republic may make the philosophical declaration, "We hold
-these truths to be self-evident, that all trees were evolved
+these truths to be [[Self|self]]-evident, that all trees were evolved
 equal and endowed with the dignity of creative evolution."
-But if in the silence that follows we overhear the poor nurse
+But if in the [[Silence|silence]] that follows we overhear the poor [[Nurse|nurse]]
 or the peasant mother telling fairy-tales to the children, she will
-always be saying, "And in the seventh garden beyond the seventh gate
+always be saying, "And in the seventh [[Garden|garden]] beyond the seventh gate
 was the tree with the golden apples", or "They sailed and sailed
 till they came to an island, and in the island was a meadow,
 and in the meadow the tree of life."
 
 Now according to the old rationalistic criticism, it was enough to say
 of a fancy that it was fanciful.  It was enough to say that a religion
-was a romance, and a romance a delusion.  But men like Mr. Shaw
+was a [[Romance|romance]], and a [[Romance|romance]] a delusion.  But men like Mr. [[Shaw]]
 have already left that behind, in the years of wandering starting
 from the Dublin of the Protestants and the Darwin of the Professors.
-They already realized that there is "a soul in every dogma",
+They already realized that there is "a [[Soul|soul]] in every dogma",
 that religion cannot be left out of account, that rationalism
 cannot be left in control.  Now if we are to look sympathetically
-for the soul in every dogma, surely we must look for that something
-in the soul which makes it clothe itself in every case in a particular
-and personal body.  If this particularism always stubbornly
-recurs even in poetry, how can it be left out of philosophy?
+for the [[Soul|soul]] in every dogma, surely we must look for that something
+in the [[Soul|soul]] which makes it clothe itself in every case in a particular
+and personal [[Body|body]].  If this particularism always stubbornly
+recurs even in poetry, how can it be left out of [[philosophy]]?
 What is the meaning of this incurable itch to give to airy nothing,
 or still more airy everything, a local habitation and a name?
 Why is it always something at once odd and objective, a precious
@@ -1080,31 +1080,31 @@ element in mythology, what is the real meaning of that element in it?
 I can see only one possible answer that satisfies the new more
 serious and sympathetic study of religion, even among sceptics;
 and that is that there really is something to which all these fancies
-are what forgeries are to a signature; that if the soul could
-be satisfied with the truth it would find it a tale as particular,
+are what forgeries are to a signature; that if the [[Soul|soul]] could
+be satisfied with the [[Truth|truth]] it would find it a tale as particular,
 as positive and as personal; that the light which we follow first
 as a wide white star actually narrows as we draw nearer to it,
 till we find that trailing meteor is something like a light in a
-window or a candle in a room.
+[[Window|window]] or a candle in a room.
 
 PART TWO:  PARTICULAR BOOKS AND WRITERS
 
 THE MACBETHS
 
-IN STUDYING any eternal tragedy the first question necessarily is
-what part of tragedy is eternal.  If there be any element in man's
+IN STUDYING any eternal [[Tragedy|tragedy]] the first question necessarily is
+what part of [[Tragedy|tragedy]] is eternal.  If there be any element in man's
 work which is in any sense permanent it must have this characteristic,
 that it rebukes first one generation and then another, but rebukes
 them always in opposite directions and for opposite faults.
 The ideal world is always sane.  The real world is always mad.
-But it is mad about a different thing every time;
+But it is mad about a different thing every [[Time|time]];
 all the things that have been are changing and inconstant.
 The only thing that is really reliable is the thing that has
 never been.  All very great classics of art are a rebuke
 to extravagance not in one direction but in all directions.
-The figure of a Greek Venus is a rebuke to the fat women of Rubens
+The figure of a Greek [[Venus]] is a rebuke to the fat women of Rubens
 and also a rebuke to the thin women of Aubrey Beardsley.
-In the same way, Christianity, which in its early years fought
+In the same way, [[Christianity]], which in its early years fought
 the Manicheans because they did not believe in anything but spirit,
 has now to fight the Manicheans because they do not believe in
 anything but matter.  This is perhaps the test of a very great work
@@ -1116,40 +1116,40 @@ too bad in one way and too bad also in the opposite way, then you
 may be sure that it is very good.
 
 This preface is essential if we are to profit by the main meaning
-of Macbeth.  For the play is so very great that it covers much more
+of [[Macbeth]].  For the play is so very great that it covers much more
 than it appears to cover; it will certainly survive our age as it has
 survived its own; it will certainly leave the twentieth century behind
 as calmly and completely as it has left the seventeenth century behind.
 Hence if we ask for the meaning of this classic we must necessarily
-ask the meaning for our own time.  It might have another shade
-of meaning for another period of time.  If, as is possible,
-there should be a barbaric return and if history is any kind of guide,
+ask the meaning for our own [[Time|time]].  It might have another shade
+of meaning for another period of [[Time|time]].  If, as is possible,
+there should be a barbaric return and if [[history]] is any kind of guide,
 it will destroy everything else before it destroys great literature.
 The high and civilized sadness of Virgil was enjoyed literally
 through the darkest instant of the Dark Ages.  Long after a wealthier
 generation has destroyed Parliament they will retain Shakespeare.
-Men will enjoy the greatest tragedy of Shakespeare even in the thick
-of the greatest tragedy of Europe.
+Men will enjoy the greatest [[Tragedy|tragedy]] of Shakespeare even in the thick
+of the greatest [[Tragedy|tragedy]] of Europe.
 
 It is quite possible that Shakespeare may come to be
 enjoyed by men far simpler than the men for whom he wrote.
-Voltaire called him a great savage; we may come to the time far
+Voltaire called him a great savage; we may come to the [[Time|time]] far
 darker than the Dark Ages when he will really be enjoyed by savages.
-Then the story of Macbeth will be read by a man in the actual position
-of Macbeth.  Then the Thane of Glamis may profit by the disastrous
+Then the story of [[Macbeth]] will be read by a man in the actual position
+of [[Macbeth]].  Then the Thane of Glamis may profit by the disastrous
 superstitions of the Thane of Cawdor.  Then the Thane of Cawdor
-may really resist the impulse to be King of Scotland.  There would
-be a very simple but a real moral if Macbeth could read Macbeth.
-"Do not listen to evil spirits; do not let your ambition run away
+may really resist the impulse to be [[King]] of Scotland.  There would
+be a very simple but a real moral if [[Macbeth]] could read [[Macbeth]].
+"Do not listen to evil spirits; do not let your [[Ambition|ambition]] run away
 with you; do not murder old gentlemen in bed; do not kill other
 people's wives and children as a part of diplomacy; for if you do
-these things it is highly probable that you will have a bad time."
-That is the lesson that Macbeth would have learnt from Macbeth;
+these things it is highly probable that you will have a bad [[Time|time]]."
+That is the lesson that [[Macbeth]] would have learnt from [[Macbeth]];
 that is the lesson that some barbarians of the future may
-possibly learn from Macbeth.  And it is a true lesson.
+possibly learn from [[Macbeth]].  And it is a true lesson.
 Great work has something to say quite simply to the simple.
-The barbarians would understand Macbeth as a solid warning against
-vague and violent ambition; and it is such a warning, and they
+The barbarians would understand [[Macbeth]] as a solid warning against
+vague and violent [[Ambition|ambition]]; and it is such a warning, and they
 would take along with it this lesson also, which is none the worse
 because perhaps only the barbarians could adequately understand it.
 "Distrust those malevolent spirits who speak flatteringly to you.
@@ -1162,28 +1162,28 @@ because it is itself eternal.  And let us realize that such
 a lesson will be in our own day not absolute but suited to
 the particular vices or particular misfortunes of that day.
 We are not in any danger at the moment of the positive
-and con crete actions which correspond to those of Macbeth.
+and con crete actions which correspond to those of [[Macbeth]].
 The good old habit of murdering kings (which was the salvation
 of so many commonwealths in the past) has fallen into desuetude.
 The idea of such a play must be for us (and for our sins) more subtle.
 The idea is more subtle but it is almost inexpressibly great.
 Let us before reading the play consider if only for a moment what is
-the main idea of Macbeth for modern men.
+the main idea of [[Macbeth]] for modern men.
 
-One great idea on which all tragedy builds is the idea of the
+One great idea on which all [[Tragedy|tragedy]] builds is the idea of the
 continuity of human life.  The one thing a man cannot do is exactly
-what all modern artists and free lovers are always trying to do.
+what all modern artists and free [[lovers]] are always trying to do.
 He cannot cut his life up into separate sections.  The case of the modern
-claim for freedom in love is the first and most obvious that occurs
+claim for [[Freedom|freedom]] in [[Love|love]] is the first and most obvious that occurs
 to the mind; therefore I use it for this purpose of illustration.
-You cannot have an idyll with Maria and an episode with Jane; there is
+You cannot have an idyll with [[Maria]] and an episode with Jane; there is
 no such thing as an episode.  There is no such thing as an idyll.
-It is idle to talk about abolishing the tragedy of marriage when you
-cannot abolish the tragedy of sex.  Every flirtation is a marriage;
-it is a marriage in this frightful sense; that it is irrevocable.
+It is idle to talk about abolishing the [[Tragedy|tragedy]] of [[Marriage|marriage]] when you
+cannot abolish the [[Tragedy|tragedy]] of sex.  Every flirtation is a [[Marriage|marriage]];
+it is a [[Marriage|marriage]] in this frightful sense; that it is irrevocable.
 I have taken this case of sexual relations as one out of a hundred;
 but of any case in human life the thing is true.  The basis
-of all tragedy is that man lives a coherent and continuous life.
+of all [[Tragedy|tragedy]] is that man lives a coherent and continuous life.
 It is only a worm that you can cut in two and leave the severed
 parts still alive.  You can cut a worm up into episodes and they
 are still living episodes.  You can cut a worm up into idylls
@@ -1191,34 +1191,34 @@ and they are quite brisk and lively idylls.  You can do all this
 to him precisely because he is a worm.  You cannot cut a man
 up and leave him kicking, precisely because he is a man.
 We know this because man even in his lowest and darkest manifestation
-has always this characteristic of physical and psychological unity.
-His identity continues long enough to see the end of many of his
+has always this characteristic of physical and psychological [[unity]].
+His [[Identity|identity]] continues long enough to see the end of many of his
 own acts; he cannot be cut off from his past with a hatchet;
 as he sows so shall he reap.
 
-This then is the basis of all tragedy, this living and perilous
+This then is the basis of all [[Tragedy|tragedy]], this living and perilous
 continuity which does not exist in the lower creatures.
-This is the basis of all tragedy, and this is certainly the basis
-of Macbeth.  The great ideas of Macbeth, uttered in the first few
+This is the basis of all [[Tragedy|tragedy]], and this is certainly the basis
+of [[Macbeth]].  The great ideas of [[Macbeth]], uttered in the first few
 scenes with a tragic energy which has never been equalled perhaps
 in Shakespeare or out of him, is the idea of the enormous mistake
 a man makes if he supposes that one decisive act will clear his way.
-Macbeth's ambition, though selfish and someway sullen, is not in itself
+[[Macbeth]]'s [[Ambition|ambition]], though selfish and someway sullen, is not in itself
 criminal or morbid.  He wins the title of Glamis in honourable war;
 he deserves and gets the title of Cawdor; he is rising in the world
-and has a not ignoble exhilaration in doing so.  Suddenly a new ambition
+and has a not ignoble exhilaration in doing so.  Suddenly a new [[Ambition|ambition]]
 is presented to him (of the agency and atmosphere which presents it
 I shall speak in a moment) and he realizes that nothing lies across
-his path to the Crown of Scotland except the sleeping body of Duncan.
+his path to the [[Crown]] of Scotland except the sleeping [[Body|body]] of [[Duncan]].
 If he does that one cruel thing, he can be infinitely kind and happy.
 
 Here, I say, is the first and most formidable of the great actualities
-of Macbeth.  You cannot do a mad thing in order to reach sanity.
-Macbeth's mad resolve is not a cure even for his own irresolution.
+of [[Macbeth]].  You cannot do a mad thing in order to reach [[Sanity|sanity]].
+[[Macbeth]]'s mad resolve is not a cure even for his own irresolution.
 He was indecisive before his decision.  He is, if possible,
 more indecisive after he has decided.  The crime does not get
 rid of the problem.  Its effect is so bewildering that one
-may say that the crime does not get rid of the temptation.
+may say that the crime does not get rid of the [[Temptation|temptation]].
 Make a morbid decision and you will only become more morbid;
 do a lawlesss thing and you will only get into an atmosphere much
 more suffocating than that of law.  Indeed, it is a mistake to speak
@@ -1410,8 +1410,8 @@ until it was comparatively easy, at the end of the Victorian era,
 for somebody like Bernard Shaw to propose an Edwardian massacre
 of Bards and almost to insinuate that the swan was a goose.
 Most of the trouble came from what are called `Familiar Quotations',
-which were hardly even representative or self-explanatory quotations.
-In almost all the well-known passages from Shakespeare,
+which were hardly even representative or [[Self|self]]-explanatory quotations.
+In almost all the [[Well|well]]-known passages from Shakespeare,
 to quote the passage is to miss the point.  It is almost needless
 to note what may be called the vulgar examples; as in the case
 of those who say that Shakespeare asks, "What is in a name?";
@@ -1426,30 +1426,30 @@ in which it has poignancy, in the mouth of a girl commanded to hate
 a man she loves, because of a name that seems to her to have nothing
 to do with him.  The play now under consideration is no exception
 to this disastrous rule.  The old woman who complained that
-the tragedy of Hamlet was so full of quotations would have found
-almost as many in the tragedy of King Lear.  And they would have
-had the same character as those from Hamlet or Romeo and Juliet:
+the [[Tragedy|tragedy]] of [[Hamlet]] was so full of quotations would have found
+almost as many in the [[Tragedy|tragedy]] of [[King Lear]].  And they would have
+had the same character as those from [[Hamlet]] or [[Romeo]] and [[Juliet]]:
 that those who leave out the context really leave out the conception.
 They have a mysterious power of making the world weary of a few
 fixed and disconnected words, and yet leaving the world entirely
 ignorant of the real meaning of those words.
 
-Thus, in the play of King Lear, there are certain words which everybody
+Thus, in the play of [[King Lear]], there are certain words which everybody
 has heard hundreds of times, in connections either intentionally or
 unintentionally absurd.  We have all read or heard of somebody saying,
-"How sharper than a serpent's tooth it is to have a thankless child."
+"How sharper than a serpent's tooth it is to have a thankless [[Child|child]]."
 Somehow the very words sound as if they were mouthed by some
-tipsy actor or silly and senile person in a comic novel.
+tipsy actor or silly and senile person in a comic [[Novel|novel]].
 I do not know why these particular words, as words, should be
 selected for citation.  Shakespeare was a casual writer;
 he was often especially careless about metaphors, careless about
 making them and careless about mixing them.  There is nothing
 particularly notable about this particular metaphor of the tooth;
-it might just as well have been a wolf's tooth or a tiger's tooth.
+it might just as [[Well|well]] have been a wolf's tooth or a tiger's tooth.
 The lines quoted only become remarkable when we read them with
 the rest of the scene, and with a very much more remarkable passage,
 which is never quoted at all.  The whole point of Lear's remark
-is that, when buffeted by the first insult of Goneril, he breaks
+is that, when buffeted by the first insult of [[Goneril]], he breaks
 forth into a blasting bodily curse upon the woman, praying first
 that she may have no children, then that she may have horrible
 and unnatural children, that she may give birth to a monstrosity,
@@ -1459,21 +1459,21 @@ I cannot imagine why only the weakest lines in the speech are
 everlastingly repeated, and the strongest lines in it are never
 mentioned at all.
 
-A man might well harden into the horrid suspicion that most people have
+A man might [[Well|well]] harden into the horrid suspicion that most people have
 hardly read the play at all, when he remembers how many things there
 are in it that are not repeated, and yet would certainly be remembered.
 There are things in it that no man who has read them can ever forget.
-Amid all the thunders of the storm, it comes like a new clap of thunder,
-when the thought first crosses the mad king's mind that he must
-not complain of wind and storm and lightning, because they are not
+Amid all the thunders of the [[Storm|storm]], it comes like a new clap of thunder,
+when the thought first crosses the mad [[King|king]]'s mind that he must
+not complain of [[Wind|wind]] and [[Storm|storm]] and [[Lightning|lightning]], because they are not
 his daughters.  "I never gave you kingdoms, called you children."
 And I imagine that the great imaginative invention of the English,
-the thing called Nonsense, never rose to such a height and sublimity
-of unreason and horror, as when the Fool juggles with time and space
+the thing called Nonsense, never [[Rose|rose]] to such a height and sublimity
+of unreason and horror, as when the [[Fool]] juggles with [[Time|time]] and space
 and tomorrow and yesterday, as he says soberly at the end of his rant:
-"This prophecy Merlin shall make; for I live before his time."  This is
+"This prophecy Merlin shall make; for I live before his [[Time|time]]."  This is
 one of the Shakespearian shocks or blows that take the breath away.
-But in the same scene of the storm and the desolate wandering,
+But in the same scene of the [[Storm|storm]] and the desolate wandering,
 there is another example of the sort of thing I mean in the matter
 of quotation.  It is not so strong an example, because the words
 are very beautiful in themselves; and have often been applied
@@ -1485,15 +1485,15 @@ or more or less pardonable profligate, was "more sinned against
 than sinning".  But the words thus used have not a hundredth
 part of the point and power of the words as used by Lear.
 The point of the passage is that he himself challenges the cosmic
-powers to a complete examination; that he finds in his despair
+powers to a complete examination; that he finds in his [[Despair|despair]]
 a sort of dizzy detachment of the intellect, and strikes
 the balance to his own case with a kind of insane impartiality.
-Regarding the storm that rages round him as a universal rending
+Regarding the [[Storm|storm]] that rages round him as a universal rending
 and uprooting of everything, something that will pluck out the roots
 of all things, even the darkest and foulest roots of the heart
 of man deceitful above all things and desperately wicked,
-he affirms in the face of the most appalling self-knowledge,
-clear and blasting as the lightning, that his sufferings must still
+he affirms in the face of the most appalling [[Self-Knowledge|self-knowledge]],
+clear and blasting as the [[Lightning|lightning]], that his sufferings must still
 be greater than his sins.  It is possibly the most tremendous thing
 a man ever said; whether or no any man had the right to say it.
 It would be hard to beat it even in the Book of Job.  And it does
@@ -1505,9 +1505,9 @@ There are certain abstractions very strong in Shakespeare's mind,
 without which his plays are much misunderstood by modern people,
 who look to them for nothing whatever except realistic details
 about individuals.  For instance, there runs through the whole
-play of King Lear, as there runs through the whole play of Richard
+play of [[King Lear]], as there runs through the whole play of [[Richard]]
 the Second, an abstraction which was an actuality of awful
-vividness to the man of Shakespeare's time; the idea of the King.
+vividness to the man of Shakespeare's [[Time|time]]; the idea of the [[King]].
 Under the name of Divine Right, a very unlucky name, it was mixed up
 with Parliamentary and sectarian quarrels which afterwards altogether
 dwarfed and diminished its dignity.  But Divine Right was originally
@@ -1515,14 +1515,14 @@ much more human than that.  It resolved itself roughly into this;
 that there are three forms in which men can accept the idea
 of justice or the authority of the commonwealth; in the form of
 an assembly, in the form of a document, or in the form of a man.
-King Lear is a man; but he is or has been a sacramental or sacred man;
+[[King Lear]] is a man; but he is or has been a sacramental or sacred man;
 and that is why he can be a desecrated man.  Even those who prefer
 to be governed by the scroll of the law, or by the assembly of
 the tribe, must understand that men have wished, and may again wish,
 to be governed by a man; and that where this wish has existed
 the man does become, not indeed divine, but certainly different.
-It is not an accident that Lear is a king as well as a father,
-and that Goneril and Regan are not only daughters but traitors.
+It is not an accident that Lear is a [[King|king]] as [[Well|well]] as a father,
+and that [[Goneril]] and [[Regan]] are not only daughters but traitors.
 Treason, or what is felt as treason, does break the heart of the world;
 and it has seldom been so nearly broken as here.
 
@@ -1531,12 +1531,12 @@ THE EVERLASTING NIGHTS
 No one has any business with the Arabian Nights who objects
 to bulk in literature.  It is a curious thing which may be noticed
 by all literary critics, that literature is the only thing
-in which bulk is considered a defect.  The truth is, of course,
+in which bulk is considered a defect.  The [[Truth|truth]] is, of course,
 that size is an element of value in literature.  If the quality
 be really ascertained, the amount, even if indefinitely increased,
 becomes a merit.  A man would as soon think of saying that the field
-was over-crowded with flowers, that the sky had a surplus population
-of stars, as of saying that there were too many good stories.
+was over-crowded with [[Flowers|flowers]], that the sky had a surplus population
+of [[Stars|stars]], as of saying that there were too many good stories.
 The Arabian Nights is a collection of extraordinarily good stories,
 and while the modern aesthetic critic will probably find the book
 too long, the person with a taste for literature will find it too short.
@@ -1547,35 +1547,35 @@ all possible perfections.
 Now length in the case of the Arabian Nights is not a mere
 material accident; it is one of the essential qualities,
 one of the essential virtues of the book.  A short Arabian Nights
-is as unthinkable as a neat wilderness or a snug cathedral.
+is as unthinkable as a neat wilderness or a snug [[Cathedral|cathedral]].
 The whole plan of the book is one vast conspiracy to entrap the reader
 into a condition of everlasting attention.  By a supreme stroke of genius
 the compiler expressed this in the primary framework and outline.
 He made the teller of the stories a person inspired to prolong
-the stories infinitely by the devouring desire of life.
+the stories infinitely by the devouring [[Desire|desire]] of life.
 It made the wish for an everlasting story one with the wish for an
 everlasting earthly existence.  He made Scheherezade suddenly paralyze
-the tyrant when the sword was uplifted by a vision of all the stories
+the [[Tyrant|tyrant]] when the [[Sword|sword]] was uplifted by a vision of all the stories
 that remained to be told in the world.  She lured him into the golden
 and enchanted chamber of the first story and then the work was done.
 He could not get away from the puzzling and alluring sequence
 of that chain of tales, that endless series of delightful mantraps.
 Rooms within rooms opened their tempting and tantalizing doors, stories
 within stories promised a complicated and even confusing pleasure.
-The tyrant can sway kingdoms, and command multitudes,
+The [[Tyrant|tyrant]] can sway kingdoms, and command multitudes,
 but he cannot discover exactly what happened to a fabulous
 prince or princess unless he asks for it.  He has to wait,
 almost to fawn upon a wretched slave for the fag-end of an old tale.
 Never in any other book, perhaps, has such a splendid tribute been
-offered to the pride and omnipotence of art.
+offered to the [[Pride|pride]] and omnipotence of art.
 
 This is the real idea behind the Arabian Nights.  The richness
-which first strikes the imagination in reading it is a mere symbol.
+which first strikes the [[Imagination|imagination]] in reading it is a mere symbol.
 The richness of gold, silver and jewels is a mere figure and
 representation of that which is the essential idea, the deep
 and enduring richness of life.  The preciousness of emerald
-and amethyst and sandalwood is only the parable and expression of
-the preciousness of stones, dust, and dogs running in the streets.
+and amethyst and sandalwood is only the [[Parable|parable]] and expression of
+the preciousness of stones, [[Dust|dust]], and [[dogs]] running in the streets.
 In the Arabian Nights everything has a story to tell.  Three men
 come together; one is leading a gazelle, another a dog, another a mule.
 But the gazelle is an enchanted human being, the dog is a transformed
@@ -1592,10 +1592,10 @@ sat down to teach.  There are not, perhaps, many points of resemblance
 between two such products of Oriental literature as The Book of Job
 and the Arabian Nights.  But there is this in common between them,
 that we feel that both must have been narrated by somebody who was
-sitting down, while Ulysses the typical Greek, was toiling with oar
+sitting down, while [[Ulysses]] the typical Greek, was toiling with oar
 and rudder to discover new isles and peninsulas, Job, the typical Jew,
 was reviewing the whole of heaven and earth while sitting on
-a dust-heap. Similarly, the Sultan of the Indies heard the tales
+a [[Dust|dust]]-heap. Similarly, the Sultan of the Indies heard the tales
 of the four quarters of the earth while sitting on a cushion.
 The essential point, the essential lesson of these Oriental
 literatures is the clear and most moral lesson of idleness.
@@ -1640,7 +1640,7 @@ really connected with the most fighting Christianity of falling Rome
 or with the most heathen traditions hidden in the hills of Wales.
 But the word `Mappe' or `Malory' will always mean King Arthur;
 even though we find older and better origins than the Mabinogian;
-or write later and worse versions than the `Idylls of the King.'
+or write later and worse versions than the `Idylls of the [[King]].'
 The nursery fairy-tales may have come out of Asia with the
 Indo-European race, now fortunately extinct; they may have been
 invented by some fine French lady or gentlemen like Perrault:
@@ -1794,12 +1794,12 @@ and try to compare them or say what they were like, it will quite
 certainly sound as though I were praising one and blaming the other.
 This is simply because we cannot vary praise as we vary blame.
 One of these men was Charles Dodgson, commonly known as Lewis Carroll,
-a don at Oxford and a very Victorian English clergyman, the other was
+a don at [[Oxford]] and a very Victorian English clergyman, the other was
 Hans Christian Andersen, a queer, cranky and visionary Danish peasant,
 and the author of immortal tales.
 
 When I say that Lewis Carroll was very Victorian, that will sound
-like a reproach, though it ought to be a compliment as well
+like a reproach, though it ought to be a compliment as [[Well|well]]
 as a reproach--only it is so much more difficult to find words
 to fit what was good in Victorian England than what was bad in it.
 If I say that Dodgson the don was conventional or comfortable
@@ -1810,7 +1810,7 @@ do go along with conventions and comforts.
 
 It is abominably stupid to call the Victorian Age merely conventional
 and comfortable, and to forget the fact that it produced a new
-kind of poetry which was supremely wild and supremely innocent.
+kind of poetry which was supremely wild and supremely [[Innocent|innocent]].
 It was the poetry of pure nonsense, which has never been
 known in the world before and may never be known again.
 Lewis Carroll was not the only example:  Edward Lear, I think,
@@ -2044,7 +2044,7 @@ He is praised for being `true to life', while his true merit is not
 that he is true to life, but alive.  It is common to hear a man
 say when Dickens is accused of exaggeration, "I have met a man
 exactly like Pecksniff."  Of course, to begin with, he has not met
-a person like Pecksniff any more than he has met one like Caliban.
+a person like Pecksniff any more than he has met one like [[Caliban]].
 And further, if he had met a man exactly like Pecksniff,
 it would go far to show that Dickens was not a great novelist.
 Since no two men in real life are exactly like each other, so no
@@ -2178,11 +2178,11 @@ For it is only the things which are deliberately built to last
 for ever which cannot do so.
 
 The real reason of the temporary eclipse of the fame of Dickens
-is not that he was a faulty artist but that he expressed almost
+is not that he was a faulty [[Artist|artist]] but that he expressed almost
 faultlessly a certain class of thoughts and emotions which happen
 at this moment to be almost absent from the cultivated class.
 It was not that he expressed badly but that we know nothing at all
-about the kind of thought and sentiment that he expressed well.
+about the kind of thought and sentiment that he expressed [[Well|well]].
 It was not that he had a deficiency in his art, it is we that have
 a deficiency in our experience.  The work of Dickens appears to us
 rambling and shapeless for precisely the same reason that the work
@@ -2191,9 +2191,9 @@ There is a mood at the back of the whole work of Dickens as much
 as there is a mood at the back of the whole work of Maeterlinck;
 and it must be confessed with shame, as far as I am concerned,
 that our mood is the mood of Maeterlinck and not the mood of Dickens.
-To `E.A.B.' and his school, `Pickwick' is not exactly either good or bad;
-it is simply not a novel at all.  To the very best critics of Dickens'
-time, `Pelleas and Melisande' would have been something not exactly
+To `E.A.B.' and his school, `[[Pickwick]]' is not exactly either good or bad;
+it is simply not a [[Novel|novel]] at all.  To the very best critics of Dickens'
+[[Time|time]], `Pelleas and Melisande' would have been something not exactly
 good or bad but simply not a drama at all.  If they had seen it
 acted they would not have thought that the drama was deteriorating.
 They would only have thought that they themselves were going mad.
@@ -2217,11 +2217,11 @@ Not the most secret volume of eighteenth-century atheism had conceived
 in its wrath and satire such a celestial parody as these painters
 had conceived in their humility and faith.  Such was the impression
 which Christian art produced on the whole of the `age des philosophes':
-that it was an example of an almost shocking innocence like a baby's
+that it was an example of an almost shocking [[innocence]] like a baby's
 picture of God.
 
 Then came the nineteenth century when man felt again
-the same emotions which had been felt in the time of Giotto.
+the same emotions which had been felt in the [[Time|time]] of Giotto.
 Men of the boldest and most liberal intellects began to dream
 the great medieval dream of a united and devout Christendom.
 Men of the ripest taste and opinion began to join celibate
@@ -2238,7 +2238,7 @@ a quaint and delicate severity.  The landscapes that looked absurd
 now looked enchanted; they were lit with the morning of the world.
 The faces that had been hideous had grown beautiful like the face
 of a good man when we have come to know him and cannot imagine
-any other features being the perfect picture of his soul.
+any other features being the perfect picture of his [[Soul|soul]].
 This is what has happened again and again in the world and will
 continue to happen until the end.  When a set of emotions are
 unfamiliar to a people, the art which expresses them will appear
@@ -2264,16 +2264,16 @@ that what he calls formlessness was in fact a well-known and
 celebrated artistic form among the elder and more convivial writers.
 The sprawling and seemingly disconnected novel of comic adventure
 was a recognized and excellent form of art.  Recent criticism I
-believe is accustomed to describe it as the `picaresque' novel.
+believe is accustomed to describe it as the `picaresque' [[Novel|novel]].
 For when we come to think of it, the whole point is very simple.
 The new impressionist method of brevity, restraint, and an adhesion
 to one central image or incident is the right and proper literary
 form to express the kind of things which the new Impressionist
-novel wishes to express; the little ironies, the sad small stories
-that end without an ending; the faces that are too bitter for tears.
+[[Novel|novel]] wishes to express; the little ironies, the sad small stories
+that end without an ending; the faces that are too bitter for [[Tears|tears]].
 About these sort of things it may be said, not as a commonplace phrase,
 but as a sound and telling rule of art, that the less said about
-them the better.  One flash of literary lightning revealing a woman
+them the better.  One flash of literary [[Lightning|lightning]] revealing a woman
 dead in a garret with a victorious army marching by is enough
 if the sentiment concerned is the sentiment of a pitiful irony.
 But it is not enough if the sentiment is that of the ancient
@@ -2288,10 +2288,10 @@ misfortune we all desire to say little and that the words in a French
 short story should be few, like the words in a house of mourning.
 But the moment we come into the atmosphere of positive delight
 and exultation a new element enters in, the desire to linger.
-Books like `Pickwick' are the most lingering.  Men linger over
+Books like `[[Pickwick]]' are the most lingering.  Men linger over
 their walks, over their talks, over their stories, over their dinners.
 All the characters seem friends who are talking together far into
-an immortal night to which no grey morning ever comes.
+an immortal [[Night|night]] to which no grey morning ever comes.
 
 The formlessness of `Pickwick' is therefore its form.
 This mood of exuberance has two natural expressions, the desire
@@ -2768,8 +2768,8 @@ as if it had been built only by the barbarians who destroyed it.
 Yet that would have been a parallel to the very word `Gothic'
 which we are still compelled by custom to use.  The medieval world did
 not talk about Plato and Cicero as fools occupied with futilities;
-yet that is exactly how a more modern world talked of the philosophy
-of Aquinas and sometimes even of the purely philosophic parts of Dante.
+yet that is exactly how a more modern world talked of the [[philosophy]]
+of [[aquinas|Aquinas]] and sometimes even of the purely philosophic parts of [[Dante]].
 The Christians recognized an awful spiritual chasm dividing them
 from their great ancestors; but they recognized that their ancestors
 were great.  At no moment in all those two thousand years was
@@ -2777,20 +2777,20 @@ the legend lost that Virgil was something magnificent, whether as a
 magician in the Dark Ages or a model classic in the Middle Ages.
 In religion and morals there had indeed been a shuddering recoil;
 but it was a recoil from over-civilization, not a complacent
-contempt for savagery.  They thought the Coliseum had been
+contempt for savagery.  They thought [[The Coliseum|the Coliseum]] had been
 the arena of bestial abominations; of beasts, employed by men
 in a spirit too base to be called beastly; and so it had.
-But they did not think the Coliseum had been made by beasts;
+But they did not think [[The Coliseum|the Coliseum]] had been made by beasts;
 or look at its labyrinth of arches with contemptuous curiosity,
-as at the rude instinctive architecture of an ant-hill. In all
-that mixture of regret and pain and fascination, with which paganism
+as at the rude instinctive architecture of an ant-[[Hill|hill]]. In all
+that mixture of regret and [[Pain|pain]] and fascination, with which paganism
 has haunted the Christian centuries, there was never a touch
-of the innocent vulgarity with which even the Victorians sometimes
-talked of monks as if they were monkeys.
+of the [[Innocent|innocent]] vulgarity with which even the Victorians sometimes
+talked of [[Monks|monks]] as if they were monkeys.
 
 Now the lifting of this load of obscurantism was a thing largely done
-by the light of nature, by men like William Cobbett or William Morris.
-And the light of nature showed them very simple and solid
+by the light of [[Nature|nature]], by men like William Cobbett or William Morris.
+And the light of [[Nature|nature]] showed them very simple and solid
 things like the large churches in the English countrysides.
 These things are the unanswerable arguments of the amateur.
 These are the big guns that he can really bring up in order to outflank
@@ -2801,7 +2801,7 @@ he could not have access to his own huge empty parish church.
 It required no spectacles to see a church spire; and the stones
 of Winchester needed no interpreter to translate them from the Latin.
 These facts were soon found sufficient, to anyone who would use
-his senses; and it became more and more self-evident that men
+his senses; and it became more and more [[Self|self]]-evident that men
 had been about some very big business in medieval times.
 The researches of later and more learned scholars confirmed the random
 commonsense of Cobbett or Morris.  But ignorant men had originally
@@ -2821,7 +2821,7 @@ It resembles them largely because the method is scientific.
 It resembles them still more because the labour is servile.
 You could build a Roman aqueduct and improve on a Roman aqueduct
 with scientific appliances.  But you cannot build a Gothic
-cathedral with servile labour.  People who want to work in
+[[Cathedral|cathedral]] with servile labour.  People who want to work in
 that way must put up with the Pyramids and the Eiffel Tower.
 And this brings me to a final consideration, in this matter of Roman
 and medieval remains, which has often intrigued and attracted me
@@ -2831,57 +2831,57 @@ that are hid from the wise and understanding are the things that are
 too large for them to see.
 
 I have often wondered whether the vastness and vitality of the legends
-that descend from the Dark Ages, such as the legends of King Arthur
+that descend from the Dark Ages, such as the legends of [[King Arthur]]
 and the Round Table, were due to this comparative continuity between
 the last strength of the Empire and the first strength of the Church.
 I mean that there may have been a moment, even in Britain,
 when that majesty of the old pagan civilization still stood unchanged,
-save that it was no longer pagan.  The combination of the old pride
-in being Roman with the new pride in being Christian may have created a
-militant morality really not unlike its later form of medieval chivalry.
+save that it was no longer pagan.  The combination of the old [[Pride|pride]]
+in being Roman with the new [[Pride|pride]] in being Christian may have created a
+militant [[morality]] really not unlike its later form of medieval chivalry.
 In other words, the popular tradition may not be so far wrong
 when it talks of some dim fighter in the fifth century as a knight.
 It may not be so far wrong when it talks of the table where those fighters
 feasted as the original model of knighthood.  It is only by a sort
-of symbol that we clothe the body of that British king in thirteenth
+of symbol that we clothe the [[Body|body]] of that British [[King|king]] in thirteenth
 century armour; but it may be something more than a symbol which
 clothes his spirit with the thirteenth century conception of arms.
-If ever history did repeat itself, the mood of the first Crusaders
-who fought with the Saracens might really very well have repeated,
-as in a mirror, the mood of the last baptized Romans and Romanized Britons
+If ever [[history]] did repeat itself, the mood of the first Crusaders
+who fought with the Saracens might really very [[Well|well]] have repeated,
+as in a [[Mirror|mirror]], the mood of the last baptized Romans and Romanized Britons
 who fought with the Saxons.  It is really a historical fallacy
 to say that the courtliness and polish of Sir Lancelot would
-not have existed in that barbarous time.  Courtliness and polish
+not have existed in that barbarous [[Time|time]].  Courtliness and polish
 are exactly the things that would have existed in one of the last
-of the Romanized Christians in comparison with his barbarous time.
+of the Romanized Christians in comparison with his barbarous [[Time|time]].
 It is a blunder to say that the virginity and the vision of Sir Galahad
 are a later romantic fiction added to a half-heathen struggle.
 Virginity and visions are exactly the ideas that would have shone among
 the last champions of a Catholic culture in a half-heathen struggle.
-In this matter of Arthurian legend, I am disposed to suspect that
+In this matter of [[Arthurian Legend|Arthurian legend]], I am disposed to suspect that
 the romantic view is really the realistic view, and the right view.
-If others doubt it, it will not be because of any realistic arguments
-of history against it.  It will be because others do not feel
+If others [[Doubt|doubt]] it, it will not be because of any realistic arguments
+of [[history]] against it.  It will be because others do not feel
 as I do the enormous argument from the scale of popular stories;
-the sense that a story we have all heard from childhood is something
-solid and colossal, like a Gothic cathedral or a Roman camp.
+the sense that a story we have all heard from [[Childhood|childhood]] is something
+solid and colossal, like a Gothic [[Cathedral|cathedral]] or a Roman camp.
 
 THE RELIGIOUS ASPECT OF WESTMINSTER ABBEY
 
-EVERY NOW and again in the long and weary history of literature and
+EVERY NOW and again in the long and weary [[history]] of literature and
 journalism something is said that is important, something that blows
-a trumpet and calls a halt.  For the first time, perhaps for many years
+a trumpet and calls a halt.  For the first [[Time|time]], perhaps for many years
 we have suddenly to stop and think.  There remains the essential
 difference between a sentence that is read once and a sentence
 that is read twice.  Now, one of these arresting and transfiguring
 hints can be found in Hilaire Belloc's The Historic Thames.  He says
-it was a mere accident of history that the phrase Westminster Abbey
+it was a mere accident of [[history]] that the phrase Westminster Abbey
 does not sound to us today like the phrase Welbeck Abbey.
 It would give the modern English a great shock if Westminster Abbey
 were turned into a suite of rooms for the Duke of Westminster.
 Yet it gives them no shock that Welbeck Abbey should be turned into
 a suite of rooms for the Duke of Portland.  Yet God was worshipped,
-I suppose, in Welbeck Abbey as well as in Westminster Abbey.
+I suppose, in Welbeck Abbey as [[Well|well]] as in Westminster Abbey.
 The first fact about Westminster Abbey, considered as a religious
 institution, is as simple as it is sardonic.  It is the great
 religious institution of the Middle Ages that managed to survive.
@@ -2890,41 +2890,41 @@ The whole of this theme is, of course, subject to exaggeration
 on both sides.  One of the ablest men I have ever known summed up
 all the tombs at Westminster which tourists go to see in the curt
 and confident formula:  "Westminster Abbey is to be venerated,
-not because of those that sleep therein, but rather in spite of them."
-Many may call this a harsh paradox; but if they walk round
+not because of those that [[Sleep|sleep]] therein, but rather in spite of them."
+Many may call this a harsh [[Paradox|paradox]]; but if they walk round
 the Abbey seriously and slowly, and really observe what petty
 politicians and third-rate generals have cumbered the ground
 there with their cold and clumsy monuments, I do not think that
-they will wholly deny the truth of that idle but bitter jest.
+they will wholly deny the [[Truth|truth]] of that idle but bitter jest.
 A very great part of the funereal art in the Abbey can really be
 expressed only by one of those colossal epigrams which can be found
 in the Gospels more than anywhere else.  It is, indeed, such statuary
 as would be made by the dead burying their dead.
 
 It is true that anyone knowing the savour either of England
-or Christianity will have the religious emotion as well as
+or [[Christianity]] will have the religious emotion as [[Well|well]] as
 the patriotic by the low Gothic tomb of Chaucer.  But this,
 if it be examined, is an exception that proves the rule.
-For Chaucer was buried there when the popular Christianity
+For Chaucer was buried there when the popular [[Christianity]]
 of the Middle Ages still coloured this church like all others.
 It would be appropriate in any case that Chaucer should be
 in Westminster Abbey, even if it were exactly what it was
-when he used to look out of his London window at its towers.
+when he used to look out of his [[London]] [[Window|window]] at its towers.
 But it would be far more appropriate if men like Pitt or Macaulay
-were buried in St. Paul's Cathedral; the new Renaissance St. Paul's,
+were buried in St. Paul's [[Cathedral]]; the new [[Renaissance]] St. Paul's,
 which seems built as a pantheon for the heathen but heroic
 aristocrats of the seventeenth and eighteenth centuries.
 Florid pillars and posturing statues are appropriate to them;
-most of them died rather defying death than looking for immortality.
+most of them died rather defying [[Death|death]] than looking for [[Immortality|immortality]].
 And it is really a part of their patriotic, but not Christian
 spirit that their figures should, as it were, stand frozen for ever
-in some gesture of eloquence or pride.  No imaginative person will
+in some gesture of eloquence or [[Pride|pride]].  No imaginative person will
 wholly fail to respond to the emotion expressed about a murdered
-Renaissance prince by a great English Renaissance poet:
+[[Renaissance]] prince by a great English [[Renaissance]] poet:
 
   He is there
   Up like a Roman statue and will stand
-  Till dawn has made him marble.
+  Till [[Dawn|dawn]] has made him marble.
 
 But to Chaucer all this would have been utterly incomprehensible
 in connection with a church.  In that connection he would have thought
@@ -2932,7 +2932,7 @@ it as insolent and vulgar as a waxwork show.  For he lived before
 the great lords had become the legend of England, instead of the
 great saints.  Chaucer, whatever his own faults or vanities might be,
 would certainly have been the first to admit that it was the Abbey
-that sanctified his dust and not his dust that sanctified the Abbey.
+that sanctified his [[Dust|dust]] and not his [[Dust|dust]] that sanctified the Abbey.
 He would not have thought of it as a gallery or public record
 office where the names and deeds of great poets could be found,
 though it is likely enough that he knew he was a great poet, and even,
@@ -2943,24 +2943,24 @@ in the Dies Irae.  I am not here choosing by ethical preference between
 the two attitudes; still less do I despise either one or the other.
 The name of Nelson, for instance, will always be not only
 an inspiring but, properly understood, a purifying name.
-And it seems quite appropriate for Nelson, in his own time, type,
+And it seems quite appropriate for Nelson, in his own [[Time|time]], type,
 station and tradition, to cry out, "A peerage or Westminster Abbey!"
-meaning by Westminster Abbey merely glory and death.
-But I doubt if Chaucer could have been made to understand what
+meaning by Westminster Abbey merely glory and [[Death|death]].
+But I [[Doubt|doubt]] if Chaucer could have been made to understand what
 a peerage could possibly have to do with Westminster Abbey.
 Warriors at least as valiant and victorious as Nelson were
 buried in Chaucer's day--the Black Prince, for instance.
 Warriors at least as valiant and victorious as Nelson were buried
-at Westminster in the Middle Ages--Henry V, for instance.
+at Westminster in the Middle Ages--[[Henry V]], for instance.
 But when their images were carved on their tombs at all they
-were carved with closed eyes and hands pointed in prayer.
-And I have seen one such monument, in Salisbury Cathedral, I think,
+were carved with closed eyes and hands pointed in [[Prayer|prayer]].
+And I have seen one such monument, in Salisbury [[Cathedral]], I think,
 in which the man lies in dumb supplication, but the dog at his feet
 has risen erect and watchful, having heard the trumpet of God.
 It has nothing to do with men being religious men in the modern sense,
 or even with their being good men.  It is a matter of a great popular
 religion which never affects anybody except when it affects everybody.
-King John would have been quite incapable of imagining himself
+[[King John]] would have been quite incapable of imagining himself
 exhibited in a church in any other attitude.
 
 I am not here discussing, of course, anything about the ecclesiastical
@@ -2971,17 +2971,17 @@ It continued markedly in George Herbert, and most unmistakably in
 Bishop Ken.  But all that is a controversy with which, fortunately, we are
 not here concerned.  My point for the moment is purely political;
 I say that the rise of England into a great modern nation,
-the particular kind of aristocracy that ruled it while it rose;
+the particular kind of aristocracy that ruled it while it [[Rose|rose]];
 the greater severance for various reasons from the other European nations,
 and everything that culminated in the victorious war against Napoleon
-and the established peace of Queen Victoria--I say that all this did,
+and the established peace of [[Queen]] Victoria--I say that all this did,
 in fact, produce a type of public spirit and public art in which the old
 religious significance of the Abbey sometimes almost disappeared.
 The idea increased that Westminster Abbey was a pantheon,
 more sensible, but no less secular, than the absurd Valhalla
 that the Kaiser had at Berlin, where some petty Teuton prince
 was represented as a giant and Goethe put beside him as a pigmy.
-That singular mixture of humour and shame which is the English
+That singular mixture of [[Humour|humour]] and shame which is the English
 temperament, saved us from doing anything so bad as that.
 Our statues, at the worst, were only conspicuous by being
 bad statues, like the old statue of the Duke of Wellington.
@@ -2996,44 +2996,44 @@ for the tombs.
 All that the Abbey meant to the ethics and atmosphere of this
 island from its earliest foundations is a thing not easy to state
 to the average modern reader.  For the average modern reader,
-however well educated, is always taught the tale of the early Middle Ages
+however [[Well|well]] educated, is always taught the tale of the early Middle Ages
 in such a way that it makes no sense.  This is because the main concern
 of the Middle Ages was the same as the main concern of this article;
 and it is almost always entirely left out.  To take one working
 instance at random, the ordinary schoolboy of a good school, such as
 the school I went to, is always told, and therefore naturally believes,
-that Richard Coeur de Lion was a romantic and irresponsible
-ne'er-do-well who went away to the Crusades for the same reason
-that an adventurer takes the King's shilling or a schoolboy runs
+that [[Richard]] Coeur de [[Lion]] was a romantic and irresponsible
+ne'er-do-[[Well|well]] who went away to the [[Crusades]] for the same reason
+that an adventurer takes the [[King]]'s shilling or a schoolboy runs
 away to sea--an itch for fighting or an impatience of honest work.
-Now, whatever Richard's temperament may have been (and, no doubt,
+Now, whatever [[Richard]]'s temperament may have been (and, no [[Doubt|doubt]],
 it was adventurous) this explanation simply does not cover the facts.
 Especially it does not cover these two facts--that John,
-who stopped to rule, was quite as fond of fighting as Richard,
-and did it very well; and that Philip Augustus of France, who went
-on the Crusade with Richard, was not particularly fond of fighting,
+who stopped to rule, was quite as fond of fighting as [[Richard]],
+and did it very [[Well|well]]; and that Philip Augustus of France, who went
+on the Crusade with [[Richard]], was not particularly fond of fighting,
 and would very much have liked to stop and rule.  The key that is
 lost here is simply a little thing called the Christian religion,
 in which all these men, good and bad, believed, and which was in a
 mortal peril from which the Christian peoples simply expected their
 Kings to defend it.  Now, we could find a somewhat similar instance
 of the religious element being missed, and the whole business being
-therefore unmeaning, in the earlier history of Westminster Abbey.
+therefore unmeaning, in the earlier [[history]] of Westminster Abbey.
 The usual way of writing in England about the times before and after
 the Norman Conquest is to represent it at best as what Carlyle
 called a "rude stalwart age"; an age of crowned freebooters,
-who neither asked nor gave mercy; an age of race conquering race
+who neither asked nor gave [[Mercy|mercy]]; an age of race conquering race
 with a sort of savage fair play and a more or less useful settlement;
-in short, a time when instincts laid a foundation on which ethics
+in short, a [[Time|time]] when instincts laid a foundation on which ethics
 had yet to build.  Anyone taking this ordinary heathen and dynastic
 view of the business would see something very fierce and final
 in the coincidence which Freeman maintained, that the Saxon Harold
 was crowned in Westminster Abbey almost immediately before he was
-killed at Hastings, and that the victorious Duke of Normandy was
+killed at [[Hastings]], and that the victorious Duke of Normandy was
 certainly crowned in Westminster Abbey almost immediately afterwards.
-The blood and iron theory of the Dark Ages would see in this
+The [[Blood|blood]] and iron theory of the Dark Ages would see in this
 the overwhelming of a race by a race; the soft, unguarded Saxons
-with their soft, unguarded King, Edward the Confessor, swept to
+with their soft, unguarded [[King]], Edward the Confessor, swept to
 nowhere by a raid of aliens clad in iron, appealing to nothing
 but force, and caring nothing for England.  But the person holding
 this theory would instantly be pulled up short, and extremely
@@ -3042,8 +3042,8 @@ that happened in Westminster Abbey after the Normans were in full
 possession of it was the canonization of Edward the Confessor.
 Stated in the modern manner, his difficulty would stand something
 like this:  What made a number of William's own Norman bishops,
-French gentlemen like any other, join in glorifying the memory
-of an old fool who had failed to save the Saxons from the victorious
+French gentlemen like any other, join in glorifying the [[Memory|memory]]
+of an old [[Fool|fool]] who had failed to save the Saxons from the victorious
 arms of their own uncles and cousins?  Why should mere strong men,
 mere victors, bow down to the very weakest man of the defeated party
 and the subject race?  Here, again, the key is always left out;
@@ -3064,11 +3064,11 @@ were inferior to saints.  If we say of the men in the ages during
 which the Abbey was first erected, that they did not curb their coarse
 and cruel appetites, that in so far as they were tyrants and usurpers
 they went on being tyrants and usurpers, we shall probably be right.
-But if we read into them a modern philosophy of force,
-and imagine that they despised monks or despised meekness, we shall
-be exactly as wrong as if we supposed that all City men despise
-a soldier for having been fool enough to have gone under fire.
-Christianity was to these men exactly what patriotism is to
+But if we read into them a modern [[philosophy]] of force,
+and imagine that they despised [[Monks|monks]] or despised meekness, we shall
+be exactly as wrong as if we supposed that all [[City]] men despise
+a soldier for having been [[Fool|fool]] enough to have gone under [[Fire|fire]].
+[[Christianity]] was to these men exactly what patriotism is to
 modern Englishmen; the one sacred bond which even the most evil
 men would not like to own they had betrayed.
 
@@ -3078,46 +3078,46 @@ Take the case of two celebrated men of the later Middle Ages,
 a father and a son, who were perhaps as responsible as anyone
 for the last turn taken by the medieval civilization in England,
 and who are both more or less connected with the place.  I mean
-Henry IV, called Bolingbroke, and his son, the victor of Agincourt.
+[[Henry IV]], called Bolingbroke, and his son, the victor of Agincourt.
 There is nobody who has heard of Westminster Abbey who has not
 heard of the Jerusalem Chamber.  There may even be few who have
 heard of the Jerusalem Chamber who have not been told by some
 guide-book or cicerone that Henry of Bolingbroke died there.
 But I think there are very much fewer people who would instantly remember
 (though the fact is known, of course, to all students of such things)
-that this very selfish, cynical and materialistic usurper found
+that this very selfish, cynical and materialistic [[Usurper|usurper]] found
 a strange spiritual comfort in dying in the Jerusalem Chamber,
 because it seemed to him a half fulfillment of a vow which
 had haunted his life, a vow to die or recover Jerusalem.
 The sentiment, in fact, was almost exactly the same as had moved
 a much more heroic man in a much more heroic medieval period,
-King Robert Bruce, to send his best warrior out of a much-menaced country,
+[[King]] Robert Bruce, to send his best warrior out of a much-menaced country,
 to carry his heart to the Holy Land, since he himself had never
-managed to carry there his powerful body and his powerful brain.
+managed to carry there his powerful [[Body|body]] and his powerful brain.
 To such men Westminster Abbey was not a national and finally
 satisfying thing.  To such men Westminster Abbey was even a pis aller.
 When we have understood that, we have some glimpse of that burning
-concentration of the Christian conscience which made the Christendom
+concentration of the Christian [[Conscience|conscience]] which made the Christendom
 of the Middle Ages almost one nation.  But when modern humanitarians
 talk of international solidarity and the need for a United States
 of Europe, I do not notice that they give much praise to the Popes
-and the Crusades who so nearly made it a reality.
+and the [[Crusades]] who so nearly made it a reality.
 
-The case of Henry V carries me back to an instance of which I
+The case of [[Henry V]] carries me back to an instance of which I
 am not so sure, and of which I have not the details by me.
 But I am certain that I read in some quarter of competent learning
-and authority that Henry V's entry into Paris was marked by proceedings
+and authority that [[Henry V]]'s entry into [[Paris]] was marked by proceedings
 which would very much astonish any good modern English poet,
 if he were called upon to write a patriotic poem on the event.
 To do these modern men of genius justice, I think it would have
 considerably surprised Shakespeare himself, for though Shakespeare
 was unquestionably in sympathy with the medieval type of religion
 in such vital matters as the admission or the purgation of sin,
-the note of international and European Christianity had been somewhat
-lost even by his time.  In the account I read, so far as I remember,
-the principal interest displayed by Henry V entering Paris
-after Agincourt was a strong desire to pay homage to the various
-relics of celebrated saints which were preserved in that city.
+the note of international and European [[Christianity]] had been somewhat
+lost even by his [[Time|time]].  In the account I read, so far as I remember,
+the principal interest displayed by [[Henry V]] entering [[Paris]]
+after Agincourt was a strong [[Desire|desire]] to pay homage to the various
+relics of celebrated saints which were preserved in that [[City|city]].
 So that the conqueror of France, though in many ways a rather
 exceptionally rude and ruthless conqueror may almost be said to have
 passed a considerable part of his triumphal progress on his knees.
@@ -3127,7 +3127,7 @@ which really strike the note of the extraordinary and universal
 conviction of medieval men, and exactly what the men who really
 made the Abbey would have meant by its religious aspect.
 
-I am not writing controversially and I do not desire in this
+I am not writing controversially and I do not [[Desire|desire]] in this
 place to diminish the credit of the Imperial type of patriotism,
 but in the matter of spiritual atmospheres it is not untrue to say
 that if Chaucer or even Sackville, had read Mr. Kipling's poetry
@@ -3138,7 +3138,7 @@ or tail of what he meant when he said:
   Where the Abbey makes us We.
 
 They would not have been able to understand how a vague Darwinian
-like Cecil Rhodes, who called a lonely hill in Africa "his church",
+like Cecil Rhodes, who called a lonely [[Hill|hill]] in Africa "his church",
 could have anything to do with the Abbey at all.  It is not necessary
 to take so extreme a view in order to see that the two alternative
 courses which the religion of Western Europe may take are in a
@@ -3151,32 +3151,32 @@ the institution will almost certainly become more of one thing
 or more of the other.  Our religion will either become more
 and more what the religion of the old Roman poets and historians
 so largely became, a certain savour of sanctity clinging round
-the emblems of patriotism and civic pride, so that the tattered flags
+the emblems of patriotism and civic [[Pride|pride]], so that the tattered flags
 above the altar will be at last more sacred than the altar itself.
 Or it will become more and more what that mysterious energy was before
 which the Roman religion of the poets and the historians perished--
-a voice out of the catacombs and a cry from the Cross.
+a voice out of the catacombs and a cry from the [[Cross]].
 
-THE RELIGIOUS AIM OF EDUCATION
+THE RELIGIOUS AIM OF [[Education|EDUCATION]]
 
 By G.K. Chesterton
 
 From The Torchbearer, 1925
 
 IT IS ONLY by a definite and even deliberate narrowing
-of the mind that we can keep religion out of education.
+of the mind that we can keep religion out of [[Education|education]].
 I do not deny that it may in certain cases be the least of many evils;
 that it may be a sort of loyalty to a political compromise;
 that it is certainly better than a political injustice.
-But secular education is a limitation, if it be only a self-limitation.
-The natural thing is to say what you think about nature;
-and especially, so to speak, about the nature of nature.
+But secular [[Education|education]] is a limitation, if it be only a [[Self|self]]-limitation.
+The natural thing is to say what you think about [[Nature|nature]];
+and especially, so to speak, about the [[Nature|nature]] of [[Nature|nature]].
 The first and most obvious thing that a person is interested in is
 what sort of world he is living in; and why he is living in it.
 If you do not know, of course, you will not be able to say;
 but the mere fact of not being able to answer the question
 that the other person is most likely to ask, may or may not be
-what some people call education, but it is not a very brilliant
+what some people call [[Education|education]], but it is not a very brilliant
 exhibition of instruction.  If you have convictions upon these cosmic
 and fundamental things, whether negative or positive, you are an
 instructor who is on one most important point refusing to instruct.
@@ -3195,7 +3195,7 @@ He is not wearing blinkers, which implies deliberately limiting
 the field of his own vision.  His vision may be in our view an illusion;
 but if it is very vivid to him, we cannot blame him for describing it;
 and anyhow he is describing the whole of it.  If there is such a thing
-in the world as a donkey deliberately wearing blinkers, it is the
+in the world as a [[donkey]] deliberately wearing blinkers, it is the
 enlightened educationist who is always making a nervous effort to keep
 out of his task of imparting knowledge any reference to the things
 that men from the beginning of the world have most wanted to know.
@@ -3213,13 +3213,13 @@ a lamp-post or even in a lighter moment try to climb a lamp-post.
 But it is not a strange or specialist sort of knowledge to note
 about a lamp-post that it has a lamp.
 
-Now secular education really means that everybody shall make a point
+Now secular [[Education|education]] really means that everybody shall make a point
 of looking down at the pavement, lest by some fatal chance somebody
-should look up at the lamp.  The lamp of faith that did in fact
-illuminate the street for the mass of mankind in most ages of history,
-was not only a wandering fire seen floating in the air by visionaries;
+should look up at the lamp.  The lamp of [[Faith|faith]] that did in fact
+illuminate the street for the mass of mankind in most ages of [[history]],
+was not only a wandering [[Fire|fire]] seen floating in the air by visionaries;
 it was also for most people the explanation of the post.
-If a low cloud like a London fog must indeed cover that flame,
+If a low cloud like a [[London]] fog must indeed cover that flame,
 then it is an objective fact that the object will remain chiefly
 as an object to be bumped into.  I am not blaming anybody who can
 only manage to regard the world in that highly objective light.
@@ -3233,7 +3233,7 @@ is a large objective obstacle.  I only say that there is a difference,
 and not a small or secondary difference, between those who know
 and those who do not know what the post is for.
 
-The deepest of all desires for knowledge is the desire
+The deepest of all desires for knowledge is the [[Desire|desire]]
 to know what the world is for and what we are for.
 Those who believe they can answer that question must at least be
 allowed to answer it as the first question and not as the last.
@@ -3243,31 +3243,31 @@ dogmatic dogma that nobody else can answer it if he can't. But no man
 has a right to answer it, or even to arrange for it being answered,
 as if it were a sort of peculiar and pedantic additional question,
 which only a peculiar and pedantic sort of pupil would be likely to ask.
-Secular education is more sensible than making religion one of the extras;
+Secular [[Education|education]] is more sensible than making religion one of the extras;
 like learning fret-work or Portuguese.  And this principle is important
-in the controversy about religious education, because it involves
+in the controversy about religious [[Education|education]], because it involves
 the whole question which was so prominent in the controversy,
 the question of what is called 'atmosphere'. All that it means is,
 that anybody who has a right to answer this question has a right
 to answer it as if it were the sort of question that it is;
-a question affecting the nature of the whole world and the purpose
+a question affecting the [[Nature|nature]] of the whole world and the purpose
 of every part of human life.  If a man is to teach religion,
 it is absurd to ask him to teach it as if it were something else,
 that did not apply to all the activities of man.  The expression 'a
 religious hour' is something very like a contradiction in terms.
 And it is amusing to note that the same casual sceptic who is always
 sneering at the orthodox for their forms and limitations, who is always
-talking of their Sunday religion and their separation of things
+talking of their [[Sunday]] religion and their separation of things
 sacred and profane, is generally the very man who is most ready
 to make fun of the idea of a religious atmosphere in the schools.
 That is to say he of all people objects most to sacred and profane
 things being united and to a religion that works on week-days
-as well as on Sundays.  The truth is that the idea of atmosphere
+as [[Well|well]] as on Sundays.  The [[Truth|truth]] is that the idea of atmosphere
 is simply a piece of the elementary psychology of children.
 In any other matter, these people would be the first to tell us
-that education must take note of all the influences forming the mind,
+that [[Education|education]] must take note of all the influences forming the mind,
 however apparently light or accidental.  They will go wild with dismay
-if the child has to look at the wrong wall-paper; they will set
+if the [[Child|child]] has to look at the wrong wall-paper; they will set
 themselves seriously to see that he has the right picture of the wombat;
 but they tell us not to trouble whether he has the right picture
 of the world.
@@ -3275,25 +3275,25 @@ of the world.
 I am not implying, of course, that there is no value in a secular
 social enthusiasm; or even that, in the language that some use
 sincerely and even usefully, it may not deserve to be called religion.
-What I doubt is whether it can in this sense deserve to be
+What I [[Doubt|doubt]] is whether it can in this sense deserve to be
 called reason.  It does not satisfy the primary intellectual hunger
-about the meaning of life, that certain people may mean well,
-even when they doubt whether it means anything.  The truth is
+about the meaning of life, that certain people may mean [[Well|well]],
+even when they [[Doubt|doubt]] whether it means anything.  The [[Truth|truth]] is
 that there is implied in almost all idealism a number of ideas
 which the idealists have seldom really followed out as ideas.
 There is the notion of a choice that is mysteriously offered and
 followed by equally mysterious consequences; of a mystical value
-attached to one part of our nature without any authority to value it;
+attached to one part of our [[Nature|nature]] without any authority to value it;
 of a sort of ultimate tryst with nobody in particular; in short all
-the rich tints of a London fog surrounding a lamp-post without a lamp.
+the rich tints of a [[London]] fog surrounding a lamp-post without a lamp.
 I am very far from lacking in respect for all this groping idealism;
 I only say, that by its own confession, it is very incomplete
-compared with that of anybody who has a complete philosophy,
+compared with that of anybody who has a complete [[philosophy]],
 because he has a creed.  And I mean no offence when I say that anybody
-who has this sort of education is literally a half-educated person.
+who has this sort of [[Education|education]] is literally a half-educated person.
 
 But there is another aspect of the case, which illustrates the real
-truth in the rather rustic Puritanism of the people who made a fuss
+[[Truth|truth]] in the rather rustic [[Puritanism]] of the people who made a fuss
 about Darwinism in Dayton.  To some of us it seems strange that such
 very antiquated Protestantism should be supposed to represent religion.
 It seems stranger that such very antiquated Darwinism should be
@@ -3301,7 +3301,7 @@ supposed to represent science.  But as a matter of fact the protest
 and prosecution on that occasion did represent something.
 It stood for a strong popular instinct, not without justification,
 that science is being made to mean more than science ever really says.
-An evolutionary education is something very different from an education
+An evolutionary [[Education|education]] is something very different from an [[Education|education]]
 about evolution.  Just as a religious school openly and avowedly
 gives a religious atmosphere, as a scientific class does sometimes
 covertly or unconsciously give a materialistic atmosphere.
@@ -3309,10 +3309,10 @@ A secularist teacher has just as much difficulty as a priest would have,
 in not giving his own answer to the questions that are most
 worth answering.  He also is a little annoyed at not being allowed
 to put the first things first.  He tends more and more to turn
-his science into a philosophy.  It makes the matter too disputable
-and provocative perhaps to call that philosophy materialistic.
+his science into a [[philosophy]].  It makes the matter too disputable
+and provocative perhaps to call that [[philosophy]] materialistic.
 It is more polite and equally pointed to call it monistic.
-But the point is that this philosophy has in it something altogether
+But the point is that this [[philosophy]] has in it something altogether
 alien, not only to all religions that refer back to the will of God,
 but even to all moralities that revolve upon the will of man.
 Rightly or wrongly, its image of the universe is not that of a post
@@ -3320,7 +3320,7 @@ put up with the design of having a lamp on it; it is rather that
 of a post that grew like a tree; a lamp-post that eventually grew
 its own lamp.  Now considering this vision of vague growth simply
 as an atmosphere and an impression on the minds of the young,
-(apart from its truth or falsehood) there is no doubt that it
+(apart from its [[Truth|truth]] or falsehood) there is no [[Doubt|doubt]] that it
 tends so far as it goes to the notion of most things being much
 of a muchness, being all equally inevitable fruits of the same tree;
 and certainly not towards the idea of moral choice and conflict;
@@ -3330,20 +3330,20 @@ light and darkness.
 I am not writing controversially or trying to pin anybody with this
 as an individual necessity.  I am writing educationally and considering
 the probable psychological impression of certain atmospheres
-and fine shades.  I say that a great deal of evolution in education
-would not make that education very insistent on the ideas of free
-will and fighting morality; of dramatic choice and challenge.
+and fine shades.  I say that a great deal of evolution in [[Education|education]]
+would not make that [[Education|education]] very insistent on the ideas of free
+will and fighting [[morality]]; of dramatic choice and challenge.
 Why should one fruit challenge another fruit on the same tree; or how can
 there be a black and white choice between its slow gradations of green?
 So that even if we ignore the primary question of religion in the sense
 of the purpose of creation, there is the same sort of problem about
 religion even if we use it in the sense of the purpose of doing good.
 If a man believes that there is between vice and virtue a chasm
-like that of life and death, he will want to say so.  And if other
+like that of life and [[Death|death]], he will want to say so.  And if other
 people only say that everything is a growth of evolution, he will not
 admit that they have said what he wishes to say.  It is not merely
-a question of secular education that seems indifferent to religion,
-but of scientific education that seems rather indifferent to ethics.
+a question of secular [[Education|education]] that seems indifferent to religion,
+but of scientific [[Education|education]] that seems rather indifferent to ethics.
 I am talking about educational effects, as educationists do;
 and decline any sort of sentimental recrimination about the pure
 and noble aims of men of science.  Many who would despise anything
@@ -3351,7 +3351,7 @@ so classical as the teaching of rhetoric, are always ready with
 any amount of rhetoric in praise of the teaching of science.
 I am not attacking the teaching of science, still less the teachers
 of science; I am saying the teaching of evolution, if it becomes
-an atmosphere, cannot be an atmosphere favourable to moral fire
+an atmosphere, cannot be an atmosphere favourable to moral [[Fire|fire]]
 or a fighting spirit.  To put it shortly, the teaching of evolution
 is hardly the training for revolution.
 
@@ -3361,20 +3361,20 @@ When a reformer can only say to a slave-driver, "You are evolving
 too slow; you ought to have emerged from the slave-state,"
 the slave-driver has only to answer, "You are evolving too fast;
 you ought to wait for the twenty-first century."  Such an argument
-will hardly set in a flame the fanaticism of Harper's Ferry.
+will hardly set in a flame the [[Fanaticism|fanaticism]] of Harper's Ferry.
 It seems to me, therefore, that the poor Puritans of Tennessee
 are not altogether wrong, as a matter of educational psychology,
-if they say that evolutionary education, even if it is not an attack
+if they say that evolutionary [[Education|education]], even if it is not an attack
 on Christian doctrine, may become an atmosphere very alien to
 Christian morals; or indeed any manly and combative sort of morals.
 After the doctrine that existence is a thing of design, the next most
 interesting doctrine is that life is a thing of choice; and even if men
-were all taught to be atheists, I doubt whether mere evolutionism
+were all taught to be atheists, I [[Doubt|doubt]] whether mere evolutionism
 would have taught them to be really spirited and warlike atheists.
 And to see atheists lose their one great virtue of ferocity would
 indeed be a serious loss to religion.
 
-THE PHILOSOPHY OF ISLANDS
+THE [[philosophy|PHILOSOPHY]] OF ISLANDS
 
 From The Venture Annual, 1903
 
@@ -3385,21 +3385,21 @@ that we could not tell which was creature and which was clothes.
 We could see that it had, say, six red tufts on its head,
 but we should not know whether they were a highly respectable
 head-covering or simply a head.  We should see that the tail
-ended in three yellow stars, but it would be difficult for us
+ended in three yellow [[Stars|stars]], but it would be difficult for us
 to know whether this was part of a ritual or simply a tail.
-Well, man has been from the beginning of time this unknown monster.
+[[Well]], man has been from the beginning of [[Time|time]] this unknown [[Monster|monster]].
 People have always differed about what part of him belonged to himself,
 and what part was merely an accident.  People have said successively
 that it was natural to him to do everything and anything that was diverse
 and mutually contradictory; that it was natural to him to worship God,
-and natural to him to be an atheist; natural to him to drink water,
+and natural to him to be an atheist; natural to him to drink [[Water|water]],
 and natural to him to drink wine; natural to him to be equal,
 natural to be unequal; natural to obey kings, natural to kill them.
 The divergence is quite sufficient to justify us in asking if there
 are not many things that are really natural, which really appear
 early and strong in every normal human being, which are not embodied
 in any of his after affairs.  Whether there are not morbidities
-which are as fresh and recurrent as the flowers of spring.
+which are as fresh and recurrent as the [[Flowers|flowers]] of [[spring]].
 Whether there are not superstitions whose darkness is as wholesome
 as the darkness that falls nightly on all living things.
 Whether we have not treated things essential as portents;
@@ -3427,10 +3427,10 @@ when, as a matter of fact, if there is any eccentricity involved,
 we are too eccentric to understand them.  A poor man, as it is
 weirdly ordained, is definable as a man who has not got much money;
 to hear philanthropists talk about him one would think he was a kangaroo.
-A child is a human being who has not grown up; to hear educationists
+A [[Child|child]] is a human being who has not grown up; to hear educationists
 talk one would think he was some variety of a deep-sea fish.
 The case of the sexes is at once more obvious and more difficult.
-The stoic philosophy and the early church discussed woman as if she
+The stoic [[philosophy]] and the early church discussed woman as if she
 were an institution, and in many cases decided to abolish her.
 The modern feminine output of literature discusses man as if
 he were an institution, and decides to abolish him.  It can only
@@ -3443,8 +3443,8 @@ primary and prominent, are the very things that philosophers have taught
 us to regard as sophisticated and over-civilized. The things which really
 come first are the things which we are accustomed to think come last.
 The instinct for a pompous intricate and recurring ceremonial,
-for instance, comes to a child like an organic hunger; he asks
-for a formality as he might ask for a drink of water.
+for instance, comes to a [[Child|child]] like an organic hunger; he asks
+for a formality as he might ask for a drink of [[Water|water]].
 
 Those who think, for instance, that the thing called
 superstition is something heavily artificial, are very numerous;
@@ -3454,14 +3454,14 @@ that has called one course of action lawful and another unlawful,
 that has called one piece of ground sacred and another profane.
 Nothing it would seem, except a large and powerful conspiracy could
 account for men so strangely distinguishing between one field and another,
-between one city and another, between one nation and another.
+between one [[City|city]] and another, between one nation and another.
 To all those who think in this way there is only one answer to be given.
 It is to approach each of them and whisper in his ear:  "Did you or did
-you not as a child try to step on every alternate paving-stone?
+you not as a [[Child|child]] try to step on every alternate paving-stone?
 Was that artificial and a superstition?  Did priests come in the dead
-of night and mark out by secret signs the stones on which you
+of [[Night|night]] and mark out by secret signs the stones on which you
 are allowed to tread?  Were children threatened with the oubliette
-or the fire of Smithfield if they failed to step on the right stone?
+or the [[Fire|fire]] of Smithfield if they failed to step on the right stone?
 Has the Church issued a bill `Quisquam non pavemente'?"  No!  On this
 point on which we were really free, we invented our servitude.
 We chose to say that between the first and the third paving-stone there
@@ -3595,35 +3595,35 @@ rational restraints, irresponsible.  Interfering with a holiday
 was almost like interfering with a dream.  And the whole project
 of using holidays as anything else but holidays was really absent
 from the mind.  The notion of `combining amusement with instruction'
-would have seemed like the notion of combining sleep with insomnia.
+would have seemed like the notion of combining [[Sleep|sleep]] with insomnia.
 Great spiritual authorities have told us to watch and pray.
-Great spiritual influences, I think, also tell us to believe and sleep.
+Great spiritual influences, I think, also tell us to believe and [[Sleep|sleep]].
 But neither god nor priest nor devil ever had the impudence to tell
-us to watch and sleep.
+us to watch and [[Sleep|sleep]].
 
 And that is the contradiction made by the modern cranks about holidays.
 It would be a typical and triumphant work of modern science to take
-charge of a child day and night; to give him the drugs that would
-keep him half asleep all day, and the dreams that would keep him
-half awake all night.
+charge of a [[Child|child]] day and [[Night|night]]; to give him the drugs that would
+keep him half asleep all day, and the [[Dreams|dreams]] that would keep him
+half awake all [[Night|night]].
 
 In this connection I think the educational arrangement about holidays
 has long been a ludicrous mistake.  Holiday tasks are a mistake.
-Home-work is a mistake.  Give the boy or girl less holidays if you
+[[Home]]-work is a mistake.  Give the boy or girl less holidays if you
 think they need less.  But be sufficiently businesslike to get the best
 out of the boy or girl for whatever concession you make to them.
 If you can excuse anyone from work, you can excuse him from worry.
-Leisure is a food, like sleep; liberty is a food, like sleep.
+Leisure is a food, like [[Sleep|sleep]]; liberty is a food, like [[Sleep|sleep]].
 Leisure is a matter of quality rather than quantity.  Five minutes
 lasts longer when one cannot be disturbed than five hours when one
-may be disturbed.  Restrict the liberty in point of time; restrict it
+may be disturbed.  Restrict the liberty in point of [[Time|time]]; restrict it
 in point of space; but do not restrict it in point of quality.
 If you give somebody only three seconds' holiday--then, by all
-the remains of your ruined sense of honour, leave him alone
+the remains of your ruined sense of [[Honour|honour]], leave him [[Alone|alone]]
 for three seconds.
 
 Let me take an example which involves a particular sort of holiday
-that is fairly popular and national.  During the summer, the big
+that is fairly popular and national.  During the [[Summer|summer]], the big
 railway stations will be found thronged with the bags and babies
 of innumerable families going to seaside resorts.  Each traveller is
 (I need hardly say) murmuring to himself the lines of Swinburne:
@@ -3640,12 +3640,12 @@ very difficult to enforce, say, at Margate or Broadstairs.
 But even if it be true, as I were loth to believe, that some
 holiday-makers do not murmur Swinburne's lines as they start, I am
 still firmly convinced that most holiday-makers like the sea because it
-is some kind of outlook upon some kind of loneliness and liberty.
-It is the only kind of loneliness and liberty.  It is the only plain,
-straight line in Nature.  It is the only empty place on earth.
-It is the one open window; to Jones, as it was to Keats.
+is some kind of outlook upon some kind of [[Loneliness|loneliness]] and liberty.
+It is the only kind of [[Loneliness|loneliness]] and liberty.  It is the only plain,
+straight line in [[Nature]].  It is the only empty place on earth.
+It is the one open [[Window|window]]; to [[Jones]], as it was to Keats.
 
-I think it was Richard Jefferies who said that all men ought
+I think it was [[Richard]] Jefferies who said that all men ought
 to be idle; and that we should get all the work we wanted done
 by harnessing to our machinery the tremendous tides of the sea.
 Something analogous was suggested by Mr. Wells; but I disagree with it.
@@ -3665,10 +3665,10 @@ THE PEASANT
 
 THE GENIUS who shall write a real philosophical pantomime (a thing
 untried, I think, since Aristophanes) should find many handy symbols
-in the harlequinades of our youth.  The donkey who comes in two suggests
-infinite speculations about organic unity and by divergent evolution.
+in the harlequinades of our youth.  The [[donkey]] who comes in two suggests
+infinite speculations about organic [[unity]] and by divergent evolution.
 The policeman made into sausages would be excellent machinery
-either for a Socialistic satire or for a satire on Socialism.
+either for a Socialistic [[Satire|satire]] or for a [[Satire|satire]] on Socialism.
 And the red-hot poker quite exactly expresses that most terrible
 and profound thing in human affairs--a fierce domesticity.
 
@@ -3678,8 +3678,8 @@ state of our society today.  We all remember that beginning
 of the Transformation Scene when the front scene is still there,
 but the back scene begins to glow through it.  The heroine is still
 in the dungeon; but the walls grow more and more transparent;
-and something else (probably the Garden of the Fairy Volatile)
-is apparent at the same time.
+and something else (probably the [[Garden]] of the Fairy Volatile)
+is apparent at the same [[Time|time]].
 
 I have exactly the same sensations about our old Victorian political
 methods and the social realities that are now behind them.  I do not
@@ -3688,13 +3688,13 @@ see it there; it is the England of my boyhood, and I rather like it.
 But simultaneously with these symbolic figures, these representatives
 and estates of the realm, I can see the Things that are behind.
 Another England is shining through political England; whether it will
-be very like the Garden of the Fairy Volatile remains to be seen.
-This fact, that the Government and the Commonwealth are often on two
+be very like the [[Garden]] of the Fairy Volatile remains to be seen.
+This fact, that the [[government|Government]] and the Commonwealth are often on two
 different planes of reality, has one peculiar result, too little noticed,
 on our attitude towards foreigners.  There are the same names
 all over Europe--Parliament, Army, Church, Land, and so on.
 But these words often stand for astonishingly different things;
-for widely varying degrees of realism or ritual or memory or conspiracy
+for widely varying degrees of realism or ritual or [[Memory|memory]] or conspiracy
 or indifference.  When a man has even one concrete experience of some
 foreign thing, he will generally find it to be in quite another
 world from that foreign country as it appears in the newspapers.
@@ -3704,19 +3704,19 @@ of the Ministry which came as abruptly as that tragic blow out
 of the air which a few weeks before had struck one of its members
 dead where he stood.
 
-Now I happened to be in France when the news of this tragedy
+Now I happened to be in France when the news of this [[Tragedy|tragedy]]
 was scattered abroad, and I want to try and convey an atmosphere
 which I felt, and which I felt to be France itself.  To us in
 England France seemed to be full of all this crisis and disaster.
 This was something like what one felt upon the actual scene of it.
 
 I was away in those eastern highlands, where France (so to speak)
-clings to the rising mountains, till they break away and shoot up
+clings to the rising [[Mountains|mountains]], till they break away and shoot up
 into the sky as Switzerland.  More to the north was that gap that is
-the great gate into Germany and is guarded by the Lion of Belfort.
+the great gate into [[Germany]] and is guarded by the [[Lion]] of Belfort.
 Among these hills I met a peasant who was like thousands of the peasants
 all round:  a Jack-of-all-trades. Among other things he owned a ramshackle
-carriage with an excellent horse, with which he could drive me anywhere;
+carriage with an excellent [[Horse|horse]], with which he could drive me anywhere;
 and he was, as far as appearance goes, rather like a very rude beggar.
 His clothes were coarse and threadbare, his face was rugged, but sharp;
 he was always in a sweat from drudgeries.  A man who looked like
@@ -4190,24 +4190,24 @@ added as in feeble self-defence, "Africanus."
 
 He inquired whether I meant that the man was an African.  I feared,
 in any case, that the word `African' would not instantly summon up
-before his imagination the figure of St. Augustine; or even of Hannibal.
+before his [[Imagination|imagination]] the figure of St. Augustine; or even of Hannibal.
 It would more probably suggest to him a coal-black negro.
 So I said that I was sure he was not an African; I believed
 he was a Roman; certainly he was a Roman General; and I thought
-it was too early in history for a Roman General to have really
+it was too early in [[history]] for a Roman General to have really
 belonged to what were afterwards the Roman Provinces.
 I had always understood that Carthage, or the Carthaginian influence,
-practically prevailed over all these parts at that time.
+practically prevailed over all these parts at that [[Time|time]].
 And even as I said the words a thought came to me, like a blinding
 and even a blasting light.
 
 The traveller was very legitimately bored.  After the mysterious
 manner of his kind, he was not bored with sightseeing,
-but he was bored with history; especially ancient history.
+but he was bored with [[history]]; especially ancient [[history]].
 I do not blame him for that; I only puzzle upon why a man bored
-with history should take endless trouble to visit historic sites.
+with [[history]] should take endless trouble to visit historic sites.
 He was patently one of those who think that all those things happened
-such a long time ago that they cannot make much difference now.
+such a long [[Time|time]] ago that they cannot make much difference now.
 But it had suddenly occurred to me that this rather remote example
 really might, perhaps, make a great deal of difference now.
 I tried to tell him so; and he must have formed the impression
@@ -4215,30 +4215,30 @@ that I was raving mad.
 
 "Would it be all the same," I asked, "if that little boy were thrown
 into a furnace as a religious ceremony, when his family went to
-church on Sunday?  That is what Carthage did; it worshipped Moloch;
+church on [[Sunday]]?  That is what Carthage did; it worshipped Moloch;
 and sacrificed batches of babies as a regular religious ritual.
 That is what Scipio Africanus did; he defeated Carthage, when it
 had nearly defeated the world.  Somehow, I seem to feel a fine
 shade of difference."
 
 My companion did not reply; and I continued to watch the archer;
-and though Apollo was a Pagan god, I am glad that such a sun-god
-slew the Punic Python; and that even before the Faith, those ancient
+and though [[Apollo]] was a Pagan god, I am glad that such a sun-god
+slew the Punic Python; and that even before the [[Faith]], those ancient
 arrows cast down Moloch for us all.
 
 THE REAL ISSUE
 
 THE FOLLOWING incident took place the other day outside a crowded
-cafe in Paris.  It also took place outside half a hundred other cafes
-in Paris and half a million other cafes scattered through about
+cafe in [[Paris]].  It also took place outside half a hundred other cafes
+in [[Paris]] and half a million other cafes scattered through about
 two-thirds of Christendom.  The incident or something like it,
 was so natural as to seem trivial in such places; and probably nobody
 noticed it except two persons seated near that one small table.
 One of them was a wealthy American lady who had seen the sights
-of Paris.  The other was a journalist, astray in foreign parts,
+of [[Paris]].  The other was a journalist, astray in foreign parts,
 who had resolutely refused to see them.
 
-There sat at this small table a poor Frenchman with his wife and child;
+There sat at this small table a poor Frenchman with his wife and [[Child|child]];
 he was rather shabbier than what we should call an artisan,
 but he was probably a small shopkeeper; he was independent;
 it had never occurred to him to pretend to be a gentleman.
@@ -4255,9 +4255,9 @@ and equality, gave him another gulp out of her glass of beer.
 At that moment a lame man came by begging; and the man at the table
 (who would have been turned away from many of our respectable
 houses as a beggar himself), took some small coins from his pocket
-and gave them to the child, with a few words in an undertone.
-The child then gave them to the beggar.  That was all.
-But one of the two strangers in that city knew he had been
+and gave them to the [[Child|child]], with a few words in an undertone.
+The [[Child|child]] then gave them to the beggar.  That was all.
+But one of the two strangers in that [[City|city]] knew he had been
 looking at the palladium and high citadel, round which rages
 the whole human war of our civilization and our century;
 and that all men are divided precisely and sharply by what they
@@ -4422,18 +4422,18 @@ is to be a judge, but in nothing is the jury system more medieval
 that every good man will primarily care more for his babies
 or his bullocks than for the codes and thrones of legality;
 and that, therefore, he must be summoned to a jury.  That is perhaps
-what Christ meant when he described the Kingdom of Heaven as sending
+what [[Christ]] meant when he described the Kingdom of Heaven as sending
 into the highways and byeways, and compelling them to come in;
 perhaps He meant that if you want the simple and modest mortal you
 must call him.  However this may be with the Kingdom of Heaven,
-it is assuredly so with the Kingdom of Earth.  The other method leaves
+it is assuredly so with the Kingdom of Earth.  The other method [[Leaves|leaves]]
 us open to that offensive class which comes without being called,
 the vulgarly and basely ambitious, who are already destroying England.
 
 The other element in the case is so very long that I will here make it
 very short.  The Parish Constable, nominated by a District Council,
 is one of the very few reminders of a certain natural notion
-of self-government which modern science and modern discipline
+of [[Self|self]]-[[government]] which modern science and modern discipline
 have made very difficult to retain.  For the present I will put
 it merely in this way:  What would any six streets in Hoxton
 or Whitechapel give if they could elect (however indirectly)
@@ -4441,10 +4441,10 @@ the policeman who should stand at the street corner?
 
 CAPONE'S PAL
 
-I HAVE sometimes shocked the conventions of our time by defending
+I HAVE sometimes shocked the conventions of our [[Time|time]] by defending
 Private Property; and pointing out that Private Property has
 really been destroyed by Private Enterprise.  In connection with
-this paradox, that our common conscience does really disapprove
+this [[Paradox|paradox]], that our common [[Conscience|conscience]] does really disapprove
 of a thief, I came upon a very curious case the other day;
 an actual incident which I will leave to speak for itself.
 It seemed to me to combine amusement with instruction.
@@ -4462,12 +4462,12 @@ but a Spaniard speaking American.  Some accident of talk led me to
 admit that I followed the low trade of literature; whereupon he leapt
 into new life and proclaimed that he also had written a book.
 He showed me the book.  It seemed to me on a hasty glance,
-rather a good book, written with spirit and humour; but it was
+rather a good book, written with spirit and [[Humour|humour]]; but it was
 simply his own memoirs as a gunman and a gangster under Al Capone.
 It was a perfectly honest record of dishonesty; and described robbing
 and racketeering without any of the cant that excuses capitalism.
 Still, there was something warming to a melodramatic mind in being
-alone with a gunman.  He was dark and brooding and suddenly broke
+[[Alone|alone]] with a gunman.  He was dark and brooding and suddenly broke
 off to say, "I shan't write another book."
 
 "No," I said applauding warmly, "keeping a bar is much better
@@ -4478,7 +4478,7 @@ And at this he was transfigured into tremendous and vibrant vitality.
 He shouted till the tavern shook with the crimes of his publisher.
 He said that his publisher had cheated him at every turn.
 He said he had to rush round the world to see that all his publishers
-and translators were not doing him out of his well-earned money.
+and translators were not doing him out of his [[Well|well]]-earned money.
 I think it quite likely that they were.  I also have no illusions
 about publishing or other phases of modern plutocracy.
 But I thought it was faintly ironical.  I reminded him of Byron's
@@ -4491,13 +4491,13 @@ saying that Barrabas was a publisher.
 
 ON LOSING ONE'S HEAD
 
-WHEN I was a little boy I had an imagination, though this has long been
+WHEN I was a little boy I had an [[Imagination|imagination]], though this has long been
 washed out of me by the wordy abstractions of politics and journalism.
-For imagination, real imagination, is never a vague thing of vistas.
-Real imagination is always materialistic; for imagination consists
+For [[Imagination|imagination]], real [[Imagination|imagination]], is never a vague thing of vistas.
+Real [[Imagination|imagination]] is always materialistic; for [[Imagination|imagination]] consists
 of images, generally graven images.  There is a mad literalism
-about imagination; and when I had it I turned everything that
-any one mentioned into a concrete body and a staring shape.
+about [[Imagination|imagination]]; and when I had it I turned everything that
+any one mentioned into a concrete [[Body|body]] and a staring shape.
 Thus, I would hear grown-up people using ordinary proverbs and
 figures of speech; pale, worn-out proverbs, battered and colourless
 figures of speech.  But every one of these phrases sprang out
@@ -4507,27 +4507,27 @@ of nautical metaphors.  Thus, when I heard that my uncle on a sea
 voyage "had got his sea legs" I pictured the most horrible bodily
 transformations in my uncle.  Had my uncle now got four legs?
 Or had it been necessary for his two original and (to my eye)
-unobjectionable legs to be amputated by the ship's doctor?
+unobjectionable legs to be amputated by the [[Ship|ship]]'s doctor?
 Did the new legs arrive as a sort of extra luggage, or did they
 loathsomely grow upon him, like hair or fungoids, with all the awful
-unnaturalness of Nature?  I pictured my uncle's sea legs as two
+unnaturalness of [[Nature]]?  I pictured my uncle's sea legs as two
 green and glittering members, covered with scales like fishes,
 and bearing some resemblance to the two fish tails with which exuberant
-Renaissance artists sometimes provided Tritons and mermaids.
+[[Renaissance]] artists sometimes provided Tritons and mermaids.
 Again when I heard (in some seafaring connection) that "the
 Captain kept his weather eye open," I assumed with faultless
-infantile logic that he kept the other one quite shut.
-And in some dreams I rather pictured the Captain's weather eye as being
+infantile [[logic]] that he kept the other one quite shut.
+And in some [[Dreams|dreams]] I rather pictured the Captain's weather eye as being
 some separate and eccentric kind of eye, like that of a Cyclops;
-an eye of blue sky or lightning that opened suddenly in his hat
+an eye of blue sky or [[Lightning|lightning]] that opened suddenly in his hat
 or his coat-tails and blazed through black fantastic tempests;
-a strange star of the storm.
+a strange star of the [[Storm|storm]].
 
 But there were many cases, even among more terrestrial and commonplace
 metaphors, where the material metaphor photographed itself on my fancy.
 One of them was the phrase about a man "Losing his heart."
 A man, considered as a material envelope, seemed so securely done up
-that how the heart could get out of the body was a problem analogous
+that how the heart could get out of the [[Body|body]] was a problem analogous
 to that of how the apple could get into the dumpling.  Perhaps, I mused,
 the phrase about a man having his heart in his mouth might throw
 some light on the somewhat revolting phrase, which spoke of a man
@@ -4538,7 +4538,7 @@ the sort of thing that might happen to anybody.  Indeed, by this
 dream of symbolic decapitation I was much haunted in infancy
 and am not infrequently inspired and comforted even to this day.
 Whatever other metaphors may mean, this metaphor of the lost head has
-some primary and poetic meaning; and I have written many bad poems,
+some primary and poetic meaning; and I have written many bad [[Poems|poems]],
 bad fairy tales, and bad apologues in my industrious attempt
 to find it out and declare it.  The connection between the animal
 and intellectual meaning of it became close and even confused.
@@ -4552,60 +4552,60 @@ as ladies do their ridiculous handbags.
 
 Indeed, this drifting and dancing dream of decapitation, in which
 kings and saints figured with gothic fantasticality, had a kind
-of allegory in the core of it.  The separation of body and head is
-a sort of symbol of that separation of body and soul which is made
+of [[Allegory|allegory]] in the core of it.  The separation of [[Body|body]] and head is
+a sort of symbol of that separation of [[Body|body]] and [[Soul|soul]] which is made
 by all the heresies and the sophistries, which are the nightmares
-of the mind.  The mere materialist is a body that has lost its head;
-the mere spiritualist is a head that has mislaid its body.
+of the mind.  The mere materialist is a [[Body|body]] that has lost its head;
+the mere spiritualist is a head that has mislaid its [[Body|body]].
 Under the same symbol can be found the old distinction between the sinner
 and the heretic about which theology has uttered many paradoxes,
 more profitable to study than some modern people fancy.
 For there is one kind of man who takes off his head and throws
 it in the gutter, who dethrones and forgets the reason that
 should be his ruler and witness; and the horrible headless
-body strides away over cities and sanctuaries, breaking them
-down and treading them into mire and blood.  He is the criminal;
+[[Body|body]] strides away over cities and sanctuaries, breaking them
+down and treading them into mire and [[Blood|blood]].  He is the criminal;
 but there is another figure equally sinister and strange.
-This man forgets his body, with all its instinctive honesties
-and recurrent sanities and laws of God; he leaves his body working
-in the fields like a slave; and the head goes away to think alone.
+This man forgets his [[Body|body]], with all its instinctive honesties
+and recurrent sanities and laws of God; he [[Leaves|leaves]] his [[Body|body]] working
+in the fields like a slave; and the head goes away to think [[Alone|alone]].
 The head, detached and dehumanized, thinks faster and faster
-like a clock gone mad; it is never heated by any generous blood,
+like a [[Clock|clock]] gone mad; it is never heated by any generous [[Blood|blood]],
 never softened by any healthy fatigue, never checked or warned by any
 of the terrible tocsins of instinct.  The head thinks because it
-cannot do anything else; because it cannot feel or doubt or know.
+cannot do anything else; because it cannot feel or [[Doubt|doubt]] or know.
 This man is the heretic; and in this way all the heresies were made.
-The anarchist goes off his head and the sophist goes off his body;
+The anarchist goes off his head and the sophist goes off his [[Body|body]];
 I will not renew the old dispute about which is the worse amputation;
 but I should recommend the prudent reader to avoid both.
 
 THE SPICE OF LIFE**
 
 FORGIVE ME if I begin by enacting the part which I have played at
-so many dinner-parties, I mean the part of the skeleton at the feast.
+so many dinner-parties, I mean the part of the [[skeleton]] at the feast.
 Pardon me if the first few words that reach you resemble a hollow
-voice from the tomb.  For the truth is that the very title of this
+voice from the tomb.  For the [[Truth|truth]] is that the very title of this
 series makes me feel a little funereal.  When I was asked to speak
 on the Spice of Life, I am sorry to say that the first thought
 that crossed my perverse and morbid mind was that spices, as spices,
-are quite as much associated with death as with life.  Corpses embalmed
+are quite as much associated with [[Death|death]] as with life.  Corpses embalmed
 and preserved were always swathed amid spices; mummies also, I suppose.
 I am no Egyptologist to decide the point.  But even if they were,
 you would hardly go sniffing round a mummy in the British Museum,
 drawing deep breaths and saying, "This is indeed the spice of life."
-Egypt was almost a civilization organized as a funeral procession;
+[[Egypt]] was almost a civilization organized as a funeral procession;
 it is hardly an exaggeration to say that the living lived to serve
 the dead.  And yet I suppose that an actual Egyptian walking
 about alive, was in no hurry to be spiced.  Or take a homelier
-scene nearer home.  Suppose you are chased by a mad bull;
-we will not debate which animal enjoys more of the spice of life;
+scene nearer [[Home|home]].  Suppose you are chased by a mad bull;
+we will not [[debate]] which animal enjoys more of the spice of life;
 but both at the moment will give unmistakable signs of life.
 But the quadruped must wait until he is killed and cut up into cold beef,
-before he can have the pride and privilege of being spiced beef.
+before he can have the [[Pride|pride]] and privilege of being spiced beef.
 In short, I want you to remember first of all that there has been
-in history, not only the spice of life, but something else that
-may fairly be called the spice of death.  And I mention it first
-because it is a sort of parable; and there are a good many things
+in [[history]], not only the spice of life, but something else that
+may fairly be called the spice of [[Death|death]].  And I mention it first
+because it is a sort of [[Parable|parable]]; and there are a good many things
 in the modern world that seem to me to be dead, not to say damned,
 and yet are considered very spicy.
 
@@ -4626,7 +4626,7 @@ But while I resist the suggestion that we must eat beef without
 mustard, I do recognize that there is now a much deeper and more
 subtle danger that men may want to eat mustard without beef.
 I mean that they may lose their appetite; their appetite for beef
-and bread and cheese and the broad daylight of life; and depend
+and bread and [[cheese]] and the broad daylight of life; and depend
 entirely on spices and condiments.  I have even been blamed for
 defending the spices of life against what was called the Simple Life.
 I have been blamed for making myself a champion of beer and skittles.
@@ -4634,13 +4634,13 @@ Fortunately, if I was a champion of skittles, there was never any
 danger of my being a champion at skittles.  But I have played ordinary
 games like skittles, always badly; but all healthy people will agree
 that you never enjoy a game till you enjoy being beaten at the game.
-I have even played golf in Scotland before Arthur Balfour brought
+I have even played golf in Scotland before [[arthur|Arthur]] Balfour brought
 it to England and it became a fashion and then a religion.
 I have been since inhibited by a difficulty in regarding a game
 as a religion, and the horrid secret of my failure is that I
 never could quite see the difference between cricket and golf,
 as I played them when I was a boy, and puss-in-the-corner
-and honey-pots as I played them when I was a child.
+and honey-pots as I played them when I was a [[Child|child]].
 Perhaps those nursery games are now forgotten; anyhow, I will not reveal
 what good games they were, lest they should become fashionable.
 If once they were taken seriously in that most serious world,
@@ -4751,7 +4751,7 @@ the spirituality that finds this ordinary life entirely without spice.
 I know very well that Mr. Eliot described the desolation he found
 more than the desolation he felt.  But I think that `The Waste Land'
 was at least a world in which he had wandered.  And as I am describing
-the recent world, I may as well describe it as he has described it,
+the recent world, I may as [[Well|well]] describe it as he has described it,
 in `The Hollow Men'--though nobody would describe him as a hollow man.
 This is the impression of many impressions.
 
@@ -4801,48 +4801,48 @@ But when we look stupidly at a post we see what a post means.
 In such a trance of divine imbecility I remember once staring at
 the paving-stones under my feet, until I went off into a sort of dream of
 paving-stones. They passed perpetually under my feet like flat and silent
-waves of stones, and all the time I was asking myself what they were.
+waves of stones, and all the [[Time|time]] I was asking myself what they were.
 Street after street I passed, looking at the ground like a cow.
 And then it suddenly seemed to me that they were all gravestones;
 the gravestones of innumerable and utterly forgotten men.
-For under every one of them, almost certainly, there was human dust.
+For under every one of them, almost certainly, there was human [[Dust|dust]].
 I seemed to see fantastic epitaphs on them, commemorating the deeds
 of heroes who are too old and too great to be remembered.
-There, for instance, was the man who found fire and the man
-who made the first wheel; men too necessary to be ever named.
-There were the dim poets who gave names to the flowers, and have
+There, for instance, was the man who found [[Fire|fire]] and the man
+who made the first [[Wheel|wheel]]; men too necessary to be ever named.
+There were the dim poets who gave names to the [[Flowers|flowers]], and have
 utterly lost their own.
 
 And among those imaginary benefactors in all ages I seemed to see one
 class especially predominant.  I mean the people who in the dim beginning
-of time united one thing artificially, but permanently, with another.
-What primeval priest, for instance, married bread and cheese?
+of [[Time|time]] united one thing artificially, but permanently, with another.
+What primeval priest, for instance, married bread and [[cheese]]?
 Who was the wild visionary (of later times) who, after ransacking
 all the forests, and counting all the fruits of the earth,
 discovered that almonds and raisins had been looking for each other
 since the world began?  Who, above all, discovered such a thing as
-the happy marriage between music and literature?  The men who are least
+the happy [[Marriage|marriage]] between music and literature?  The men who are least
 known from the past are certainly the men who made this combination.
 And the men who are best known at the present day are certainly
 those who are tearing such combinations in pieces.
 
 This is the worst element in our anarchic world of today.
 The whole is one vast system of separation--an enormous philosophical
-Divorce Court.  The theory of art for art's sake, for instance,
+[[divorce|Divorce]] [[Court]].  The theory of art for art's sake, for instance,
 as applied to painting, was a proposal to separate a picture from
 the subject of the picture.  Sentiment would be better without art,
 art would be better without sentiment.  In other words, a picture
 would be a better picture if it were not a picture of anything.
 And a subject would be all the better subject if you did not paint it.
 Such moderns easily might, I think some moderns really have,
-applied the same principle to that ancient combination called a song.
+applied the same principle to that ancient combination called a [[Song|song]].
 A very modern poet might easily say that the words would convey
 their own natural rhythms much better without a tune.  A very modern
-musician might easily say that the only perfectly musical songs
-would be songs without words.  No one has yet had the star-defying
-audacity to hint at a separation between bread and cheese.
+musician might easily say that the only perfectly musical [[songs]]
+would be [[songs]] without words.  No one has yet had the star-defying
+audacity to hint at a separation between bread and [[cheese]].
 But we must be prepared to have it said before long by some profligate
-aesthete that bread would be more breadish without cheese, and that cheese
+aesthete that bread would be more breadish without [[cheese]], and that [[cheese]]
 would be more exquisitely and penetratingly cheesy without bread.
 We must be prepared, I say, for a perpetual tendency towards
 such cleavages; and we must be prepared to answer them by insisting
@@ -4853,7 +4853,7 @@ joined let no man sunder.
 
 This endless process of separation of everything from everything
 else has a good example, for instance, in the case of religion.
-Religion, a human and historic religion, like Christianity
+Religion, a human and historic religion, like [[Christianity]]
 or Buddhism or some great periods of Paganism was, as a matter
 of fact, a combination of all the important parts of life.
 Every one of the main human interests was in old times made a part
@@ -4861,19 +4861,19 @@ of the creed.  Every one of those human interests is now put apart
 by itself, as if it were a monomania like collecting stamps.
 A religion, as understood by humanity in the past,
 always consisted at least of the following elements.  First, of a
-theory of ultimate truth and of the nature of the universe.
+theory of ultimate [[Truth|truth]] and of the [[Nature|nature]] of the universe.
 That is now put by itself and called Metaphysics.  Second, of a
 groping communication with some being other than man.
 This is now put by itself and called Psychical Research.
 Third, of a strict rule of behaviour, with many irritating vetoes.
 This is now put by itself and called Ethics.  Fourth, of a certain
 flamboyant tendency to break out into colours and symbols, to do wild
-and beautiful things with flowers or with garments or with fire.
+and beautiful things with [[Flowers|flowers]] or with garments or with [[Fire|fire]].
 This is now put by itself and called Art.  Fifth, of a tendency
 to feel that matter and locality can be sacred, that certain soils
-or features of the landscape can be a part of the peace of the soul.
+or features of the landscape can be a part of the peace of the [[Soul|soul]].
 This is now put by itself and called Patriotism.  And the typically
-modern men are mainly proud of having thus torn up the original unity
+modern men are mainly proud of having thus torn up the original [[unity]]
 of the religious idea.  Ethics for ethics' sake, and art for art's
 sake are like the tatters of what was once the seamless robe.
 They have parted his garments among them, and for his vesture they
@@ -4885,43 +4885,43 @@ by
 
 G. K. Chesterton
 
-On the Essay An extract from the last paragraph of an introductory essay
+On the [[Essay]] An extract from the last paragraph of an introductory [[Essay|essay]]
 to Essays of the Year 1931-32. Published by The Argonaut Press, 1932
 
 ESSAYS ON LITERATURE IN GENERAL
 
 Sentimental Literature The Speaker, July 27,1901
 
-How to Write a Detective G. K's Weekly, October 17,
+How to Write a [[Detective]] G. K's Weekly, October 17,
 
 Story
 
-Humour Encyclopaedia Britannica.  Written May 1928
+[[Humour]] Encyclopaedia Britannica.  Written May 1928
 
-Fiction as Food Composite essay.  I "Fiction as Food"
+Fiction as Food Composite [[Essay|essay]].  I "Fiction as Food"
 from The Lending Library and Book Borrower's Record, Nov., 1934.
 
-II "Novel-Reading",
+II "[[Novel]]-Reading",
 
 T. P's Weekly, April 7, 1911
 
-The Soul in Every Legend New Witness, July 15, 1921
+The [[Soul]] in Every Legend New Witness, July 15, 1921
 
 ON PARTICULAR BOOKS AND WRITERS
 
 The Macbeths Date unknown.  First published
 
-John o' London's Weekly, Jan. 5 1951
+John o' [[London]]'s Weekly, Jan. 5 1951
 
-The Tragedy of King Lear Introduction to an illustrated edition
-of King Lear published by David Magee, San Francisco, 1950--
+The [[Tragedy]] of [[King Lear]] Introduction to an illustrated edition
+of [[King Lear]] published by David Magee, San Francisco, 1950--
 Illustrated by Yunge
 
 The Everlasting Nights Daily News, November 7, 1901
 
 Aesop's Fables Introduction to a limited edition of Aesop's Fables
-published by William Heinemann, London and Doubleday Page & Co.,
-New York, 1912.  Illustrated by Arthur Rackham
+published by William Heinemann, [[London]] and Doubleday Page & Co.,
+[[New York]], 1912.  Illustrated by [[arthur|Arthur]] Rackham
 
 Both Sides of the Looking--The Listener, November 29.  1933
 
@@ -4941,23 +4941,23 @@ Published by T. Fisher Unwin, 1917
 THOUGHT AND BELIEF
 
 Anti-Religious Thought in Contributed to An Outline of
-the Eighteenth Century Christianity; the Story of
-our Civilization.  Vol.  IV.  Christianity and Modern Thought, 1926.
-The Waverley Book Co., London
+the Eighteenth Century [[Christianity]]; the Story of
+our Civilization.  Vol.  IV.  [[Christianity]] and Modern Thought, 1926.
+The Waverley Book Co., [[London]]
 
 The Camp and the New Witness, September 22,
 
-Cathedral
+[[Cathedral]]
 
-The Religious Aspect of Signed essay.  Date and origin
+The Religious Aspect of Signed [[Essay|essay]].  Date and origin
 
 Westminster Abbey unknown
 
-The Religious Aim of The Torchbearer, 1925 Education
+The Religious Aim of The Torchbearer, 1925 [[Education]]
 
-The Philosophy of Islands The Venture Annual, 1903
+The [[philosophy|Philosophy]] of Islands The Venture Annual, 1903
 
-AT HOME AND ABROAD
+AT [[Home|HOME]] AND ABROAD
 
 On Holidays New Witness, May 21, 1914
 
@@ -4969,7 +4969,7 @@ Bethlehem and the Great New Witness, December 8, 1922
 
 Cities
 
-The Sacredness of Sites Illustrated London News, January 11, 1930
+The Sacredness of Sites Illustrated [[London]] News, January 11, 1930
 
 Scipio and the Children G. K's Weekly, May 30, 1935
 
@@ -4979,7 +4979,7 @@ THE SPICE OF LIFE
 
 The Comic Constable Daily News, April 2, 1910
 
-Capone's Pal New York American, July 12, 1935
+Capone's Pal [[New York]] American, July 12, 1935
 
 On Losing One's Head The Odd Volume Annual, 1910
 

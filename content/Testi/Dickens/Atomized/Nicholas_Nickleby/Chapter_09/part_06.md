@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 9 (part 6)"
+title: "[[Nicholas Nickleby]] — Chapter 9 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -24,19 +24,19 @@ congratulated herself upon not being possessed of the envious feeling of
 other people; whereupon Miss Squeers made some general remark touching
 the danger of associating with low persons; in which Miss Price entirely
 coincided: observing that it was very true indeed, and she had thought
-so a long time.
+so a long [[Time|time]].
 
 ‘’Tilda,’ exclaimed Miss Squeers with dignity, ‘I hate you.’
 
-‘Ah! There’s no love lost between us, I assure you,’ said Miss Price,
+‘Ah! There’s no [[Love|love]] lost between us, I assure you,’ said Miss Price,
 tying her bonnet strings with a jerk. ‘You’ll cry your eyes out, when
 I’m gone; you know you will.’
 
 ‘I scorn your words, Minx,’ said Miss Squeers.
 
 ‘You pay me a great compliment when you say so,’ answered the miller’s
-daughter, curtseying very low. ‘Wish you a very good-night, ma’am, and
-pleasant dreams attend your sleep!’
+daughter, curtseying very low. ‘Wish you a very good-[[Night|night]], ma’am, and
+pleasant [[Dreams|dreams]] attend your [[Sleep|sleep]]!’
 
 With this parting benediction, Miss Price swept from the room, followed
 by the huge Yorkshireman, who exchanged with Nicholas, at parting, that
@@ -44,7 +44,7 @@ peculiarly expressive scowl with which the cut-and-thrust counts, in
 melodramatic performances, inform each other they will meet again.
 
 They were no sooner gone, than Miss Squeers fulfilled the prediction of
-her quondam friend by giving vent to a most copious burst of tears,
+her quondam friend by giving vent to a most copious burst of [[Tears|tears]],
 and uttering various dismal lamentations and incoherent words. Nicholas
 stood looking on for a few seconds, rather doubtful what to do, but
 feeling uncertain whether the fit would end in his being embraced,
@@ -62,7 +62,7 @@ He listened for a few minutes, but all was quiet.
 ‘I was glad,’ he murmured, ‘to grasp at any relief from the sight of
 this dreadful place, or the presence of its vile master. I have set
 these people by the ears, and made two new enemies, where, Heaven knows,
-I needed none. Well, it is a just punishment for having forgotten, even
+I needed none. [[Well]], it is a just punishment for having forgotten, even
 for an hour, what is around me now!’
 
 So saying, he felt his way among the throng of weary-hearted sleepers,

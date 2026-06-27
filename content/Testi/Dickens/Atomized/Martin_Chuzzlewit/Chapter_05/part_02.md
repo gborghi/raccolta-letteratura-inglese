@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 5 (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,7 +21,7 @@ quick step, and sang as he went--for certain in a very loud voice, but
 not unmusically. He was a young fellow, of some five or six-and-twenty
 perhaps, and was dressed in such a free and fly-away fashion, that the
 long ends of his loose red neckcloth were streaming out behind him
-quite as often as before; and the bunch of bright winter berries in the
+quite as often as before; and the bunch of bright [[Winter|winter]] berries in the
 buttonhole of his velveteen coat was as visible to Mr Pinch’s rearward
 observation, as if he had worn that garment wrong side foremost. He
 continued to sing with so much energy, that he did not hear the sound
@@ -29,8 +29,8 @@ of wheels until it was close behind him; when he turned a whimsical
 face and a very merry pair of blue eyes on Mr Pinch, and checked himself
 directly.
 
-‘Why, Mark?’ said Tom Pinch, stopping. ‘Who’d have thought of seeing you
-here? Well! this is surprising!’
+‘Why, Mark?’ said [[Tom Pinch]], stopping. ‘Who’d have thought of seeing you
+here? [[Well]]! this is surprising!’
 
 Mark touched his hat, and said, with a very sudden decrease of vivacity,
 that he was going to Salisbury.
@@ -39,38 +39,38 @@ that he was going to Salisbury.
 pleasure. ‘Really, I didn’t think you were half such a tight-made
 fellow, Mark!’
 
-‘Thankee, Mr Pinch. Pretty well for that, I believe. It’s not my fault,
+‘Thankee, Mr Pinch. Pretty [[Well|well]] for that, I believe. It’s not my fault,
 you know. With regard to being spruce, sir, that’s where it is, you
 see.’ And here he looked particularly gloomy.
 
 ‘Where what is?’ Mr Pinch demanded.
 
 ‘Where the aggravation of it is. Any man may be in good spirits and good
-temper when he’s well dressed. There an’t much credit in that. If I was
+temper when he’s [[Well|well]] dressed. There an’t much credit in that. If I was
 very ragged and very jolly, then I should begin to feel I had gained a
 point, Mr Pinch.’
 
 ‘So you were singing just now, to bear up, as it were, against being
-well dressed, eh, Mark?’ said Pinch.
+[[Well|well]] dressed, eh, Mark?’ said Pinch.
 
 ‘Your conversation’s always equal to print, sir,’ rejoined Mark, with a
 broad grin. ‘That was it.’
 
-‘Well!’ cried Pinch, ‘you are the strangest young man, Mark, I ever knew
+‘[[Well]]!’ cried Pinch, ‘you are the strangest young man, Mark, I ever knew
 in my life. I always thought so; but now I am quite certain of it. I am
 going to Salisbury, too. Will you get in? I shall be very glad of your
 company.’
 
 The young fellow made his acknowledgments and accepted the offer;
 stepping into the carriage directly, and seating himself on the very
-edge of the seat with his body half out of it, to express his being
+edge of the seat with his [[Body|body]] half out of it, to express his being
 there on sufferance, and by the politeness of Mr Pinch. As they went
 along, the conversation proceeded after this manner.
 
 ‘I more than half believed, just now, seeing you so very smart,’ said
 Pinch, ‘that you must be going to be married, Mark.’
 
-‘Well, sir, I’ve thought of that, too,’ he replied. ‘There might be some
+‘[[Well]], sir, I’ve thought of that, too,’ he replied. ‘There might be some
 credit in being jolly with a wife, ‘specially if the children had the
 measles and that, and was very fractious indeed. But I’m a’most afraid
 to try it. I don’t see my way clear.’
@@ -102,12 +102,12 @@ astonishment. ‘Why, Mark, you take my breath away!’
 ‘Yes, sir,’ he rejoined, looking straight before him and a long way off,
 as men do sometimes when they cogitate profoundly. ‘What’s the use of my
 stopping at the Dragon? It an’t at all the sort of place for ME. When
-I left London (I’m a Kentish man by birth, though), and took that
+I left [[London]] (I’m a Kentish man by birth, though), and took that
 situation here, I quite made up my mind that it was the dullest little
 out-of-the-way corner in England, and that there would be some credit in
 being jolly under such circumstances. But, Lord, there’s no dullness at
-the Dragon! Skittles, cricket, quoits, nine-pins, comic songs, choruses,
-company round the chimney corner every winter’s evening. Any man could
+the Dragon! Skittles, cricket, quoits, nine-pins, comic [[songs]], choruses,
+company round the chimney corner every [[Winter|winter]]’s evening. Any man could
 be jolly at the Dragon. There’s no credit in THAT.’
 
 ‘But if common report be true for once, Mark, as I think it is, being
@@ -117,7 +117,7 @@ cause of half this merriment, and set it going.’
 ‘There may be something in that, too, sir,’ answered Mark. ‘But that’s
 no consolation.’
 
-‘Well!’ said Mr Pinch, after a short silence, his usually subdued tone
+‘[[Well]]!’ said Mr Pinch, after a short [[Silence|silence]], his usually subdued tone
 being even now more subdued than ever. ‘I can hardly think enough of
 what you tell me. Why, what will become of Mrs Lupin, Mark?’
 
@@ -134,7 +134,7 @@ I know.’
 ‘I never,’ Mark replied, in some confusion, ‘said nothing as was in a
 direct way courting-like to her, nor she to me, but I don’t know what I
 mightn’t do one of these odd times, and what she mightn’t say in answer.
-Well, sir, THAT wouldn’t suit.’
+[[Well]], sir, THAT wouldn’t suit.’
 
 ‘Not to be landlord of the Dragon, Mark?’ cried Mr Pinch.
 

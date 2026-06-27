@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 4)"
+title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -23,7 +23,7 @@ dear Mr. Copperfield, to which I am irresistibly brought? Am I wrong in
 saying, it is clear that we must live?’
 
 I answered ‘Not at all!’ and Traddles answered ‘Not at all!’ and I found
-myself afterwards sagely adding, alone, that a person must either live
+myself afterwards sagely adding, [[Alone|alone]], that a person must either live
 or die.
 
 ‘Just so,’ returned Mrs. Micawber, ‘It is precisely that. And the fact
@@ -36,10 +36,10 @@ wrong, but I have formed that opinion.’
 
 Both Traddles and I applauded it highly.
 
-‘Very well,’ said Mrs. Micawber. ‘Then what do I recommend? Here is Mr.
+‘Very [[Well|well]],’ said Mrs. Micawber. ‘Then what do I recommend? Here is Mr.
 Micawber with a variety of qualifications--with great talent--’
 
-‘Really, my love,’ said Mr. Micawber.
+‘Really, my [[Love|love]],’ said Mr. Micawber.
 
 ‘Pray, my dear, allow me to conclude. Here is Mr. Micawber, with a
 variety of qualifications, with great talent--I should say, with genius,
@@ -81,7 +81,7 @@ sum of money--on a bill.’
 
 Mr. Micawber, leaning back in his chair, trifled with his eye-glass
 and cast his eyes up at the ceiling; but I thought him observant of
-Traddles, too, who was looking at the fire.
+Traddles, too, who was looking at the [[Fire|fire]].
 
 ‘If no member of my family,’ said Mrs. Micawber, ‘is possessed of
 sufficient natural feeling to negotiate that bill--I believe there is a
@@ -91,7 +91,7 @@ Mr. Micawber, with his eyes still cast up at the ceiling, suggested
 ‘Discount.’
 
 ‘To discount that bill,’ said Mrs. Micawber, ‘then my opinion is, that
-Mr. Micawber should go into the City, should take that bill into the
+Mr. Micawber should go into the [[City]], should take that bill into the
 Money Market, and should dispose of it for what he can get. If the
 individuals in the Money Market oblige Mr. Micawber to sustain a great
 sacrifice, that is between themselves and their consciences. I view
@@ -99,10 +99,10 @@ it, steadily, as an investment. I recommend Mr. Micawber, my dear Mr.
 Copperfield, to do the same; to regard it as an investment which is sure
 of return, and to make up his mind to any sacrifice.’
 
-I felt, but I am sure I don’t know why, that this was self-denying
+I felt, but I am sure I don’t know why, that this was [[Self|self]]-denying
 and devoted in Mrs. Micawber, and I uttered a murmur to that effect.
 Traddles, who took his tone from me, did likewise, still looking at the
-fire.
+[[Fire|fire]].
 
 ‘I will not,’ said Mrs. Micawber, finishing her punch, and gathering her
 scarf about her shoulders, preparatory to her withdrawal to my bedroom:
@@ -110,16 +110,16 @@ scarf about her shoulders, preparatory to her withdrawal to my bedroom:
 pecuniary affairs. At your fireside, my dear Mr. Copperfield, and in the
 presence of Mr. Traddles, who, though not so old a friend, is quite one
 of ourselves, I could not refrain from making you acquainted with the
-course I advise Mr. Micawber to take. I feel that the time is arrived
+course I advise Mr. Micawber to take. I feel that the [[Time|time]] is arrived
 when Mr. Micawber should exert himself and--I will add--assert himself,
 and it appears to me that these are the means. I am aware that I am
 merely a female, and that a masculine judgement is usually considered
 more competent to the discussion of such questions; still I must not
-forget that, when I lived at home with my papa and mama, my papa was in
-the habit of saying, “Emma’s form is fragile, but her grasp of a subject
-is inferior to none.” That my papa was too partial, I well know; but
+forget that, when I lived at [[Home|home]] with my papa and mama, my papa was in
+the habit of saying, “[[Emma]]’s form is fragile, but her grasp of a subject
+is inferior to none.” That my papa was too partial, I [[Well|well]] know; but
 that he was an observer of character in some degree, my duty and my
-reason equally forbid me to doubt.’
+reason equally forbid me to [[Doubt|doubt]].’
 
 With these words, and resisting our entreaties that she would grace
 the remaining circulation of the punch with her presence, Mrs. Micawber

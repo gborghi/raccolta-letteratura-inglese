@@ -18,7 +18,7 @@ tags:
 
 Abbey the supreme threw the customer’s halfpence into the till, and,
 seating herself in her fireside-chair, resumed the newspaper she had
-been reading. She was a tall, upright, well-favoured woman, though
+been reading. She was a tall, upright, [[Well|well]]-favoured woman, though
 severe of countenance, and had more of the air of a schoolmistress than
 mistress of the Six Jolly Fellowship Porters. The man on the other side
 of the half-door, was a waterside-man with a squinting leer, and he eyed
@@ -36,7 +36,7 @@ Potterson beheld him knuckling his low forehead, and ducking at her with
 his head, as if he were asking leave to fling himself head foremost over
 the half-door and alight on his feet in the bar.
 
-‘Well?’ said Miss Potterson, with a manner as short as she herself was
+‘[[Well]]?’ said Miss Potterson, with a manner as short as she herself was
 long, ‘say your half word. Bring it out.’
 
 ‘Miss Potterson! Ma’am! Would you ’sxcuse me taking the liberty of
@@ -55,16 +55,16 @@ asking, is it my character that you take objections to?’
 ‘You really are so cruel hard upon me! What I was going to make
 inquiries was no more than, might you have any apprehensions—leastways
 beliefs or suppositions—that the company’s property mightn’t be
-altogether to be considered safe, if I used the house too regular?’
+altogether to be considered safe, if I used the [[house]] too regular?’
 
 ‘What do you want to know for?’
 
-‘Well, Miss Abbey, respectfully meaning no offence to you, it would
+‘[[Well]], Miss Abbey, respectfully meaning no offence to you, it would
 be some satisfaction to a man’s mind, to understand why the Fellowship
 Porters is not to be free to such as me, and is to be free to such as
 Gaffer.’
 
-The face of the hostess darkened with some shadow of perplexity, as she
+The face of the hostess darkened with some [[Shadow|shadow]] of perplexity, as she
 replied: ‘Gaffer has never been where you have been.’
 
 ‘Signifying in Quod, Miss? Perhaps not. But he may have merited it. He
@@ -100,8 +100,8 @@ asked Miss Abbey.
 his evil head.
 
 Miss Abbey knitted her brow at him, as he darkly leered at her. ‘If
-you’re out upon the river pretty nigh every tide, and if you want to
-find a man or woman in the river, you’ll greatly help your luck, Miss
+you’re out upon the [[River|river]] pretty nigh every tide, and if you want to
+find a man or woman in the [[River|river]], you’ll greatly help your luck, Miss
 Abbey, by knocking a man or woman on the head aforehand and pitching ’em
 in.’
 
@@ -120,29 +120,29 @@ his pint pot and swaggered off to the taproom.
 
 Gaffer was not there, but a pretty strong muster of Miss Abbey’s pupils
 were, who exhibited, when occasion required, the greatest docility. On
-the clock’s striking ten, and Miss Abbey’s appearing at the door, and
+the [[Clock|clock]]’s striking ten, and Miss Abbey’s appearing at the door, and
 addressing a certain person in a faded scarlet jacket, with ‘George
-Jones, your time’s up! I told your wife you should be punctual,’
-Jones submissively rose, gave the company good-night, and retired. At
+[[Jones]], your [[Time|time]]’s up! I told your wife you should be punctual,’
+[[Jones]] submissively [[Rose|rose]], gave the company good-[[Night|night]], and retired. At
 half-past ten, on Miss Abbey’s looking in again, and saying, ‘William
 Williams, Bob Glamour, and Jonathan, you are all due,’ Williams, Bob,
 and Jonathan with similar meekness took their leave and evaporated.
-Greater wonder than these, when a bottle-nosed person in a glazed hat
+Greater [[Wonder|wonder]] than these, when a bottle-nosed person in a glazed hat
 had after some considerable hesitation ordered another glass of gin and
-water of the attendant potboy, and when Miss Abbey, instead of sending
+[[Water|water]] of the attendant potboy, and when Miss Abbey, instead of sending
 it, appeared in person, saying, ‘Captain Joey, you have had as much as
 will do you good,’ not only did the captain feebly rub his knees and
-contemplate the fire without offering a word of protest, but the rest
+contemplate the [[Fire|fire]] without offering a word of protest, but the rest
 of the company murmured, ‘Ay, ay, Captain! Miss Abbey’s right; you
 be guided by Miss Abbey, Captain.’ Nor, was Miss Abbey’s vigilance in
 anywise abated by this submission, but rather sharpened; for, looking
 round on the deferential faces of her school, and descrying two other
 young persons in need of admonition, she thus bestowed it: ‘Tom Tootle,
-it’s time for a young fellow who’s going to be married next month, to
-be at home and asleep. And you needn’t nudge him, Mr Jack Mullins, for
+it’s [[Time|time]] for a young fellow who’s going to be married next month, to
+be at [[Home|home]] and asleep. And you needn’t nudge him, Mr Jack Mullins, for
 I know your work begins early tomorrow, and I say the same to you.
-So come! Good-night, like good lads!’ Upon which, the blushing Tootle
+So come! Good-[[Night|night]], like good lads!’ Upon which, the blushing Tootle
 looked to Mullins, and the blushing Mullins looked to Tootle, on the
-question who should rise first, and finally both rose together and went
+question who should rise first, and finally both [[Rose|rose]] together and went
 out on the broad grin, followed by Miss Abbey; in whose presence the
 company did not take the liberty of grinning likewise.

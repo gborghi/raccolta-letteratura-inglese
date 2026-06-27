@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Looking at the fire, as if she were forgetful, for the moment, of
+Looking at the [[Fire|fire]], as if she were forgetful, for the moment, of
 having any auditor, she continued in a dreamy way, as she wound the
 long tress of hair tight round and round her hand.
 
@@ -22,10 +22,10 @@ long tress of hair tight round and round her hand.
 such things, in our degree; only wretchedness and ruin. Wretchedness
 and ruin came on me—came on me.”
 
-Raising her eyes swiftly from their moody gaze upon the fire, to
+Raising her eyes swiftly from their moody gaze upon the [[Fire|fire]], to
 Harriet’s face, she said:
 
-“I am wasting time, and there is none to spare; yet if I hadn’t thought
+“I am wasting [[Time|time]], and there is none to spare; yet if I hadn’t thought
 of all, I shouldn’t be here now. Wretchedness and ruin came on me, I
 say. I was made a short-lived toy, and flung aside more cruelly and
 carelessly than even such things are. By whose hand do you think?”
@@ -36,14 +36,14 @@ carelessly than even such things are. By whose hand do you think?”
 made a Devil of me. I sunk in wretchedness and ruin, lower and lower
 yet. I was concerned in a robbery—in every part of it but the gains—and
 was found out, and sent to be tried, without a friend, without a penny.
-Though I was but a girl, I would have gone to Death, sooner than ask
+Though I was but a girl, I would have gone to [[Death]], sooner than ask
 him for a word, if a word of his could have saved me. I would! To any
-death that could have been invented. But my mother, covetous always,
+[[Death|death]] that could have been invented. But my mother, covetous always,
 sent to him in my name, told the true story of my case, and humbly
 prayed and petitioned for a small last gift—for not so many pounds as I
 have fingers on this hand. Who was it, do you think, who snapped his
 fingers at me in my misery, lying, as he believed, at his feet, and
-left me without even this poor sign of remembrance; well satisfied that
+left me without even this poor sign of remembrance; [[Well|well]] satisfied that
 I should be sent abroad, beyond the reach of farther trouble to him,
 and should die, and rot there? Who was this, do you think?”
 
@@ -56,8 +56,8 @@ brother James.”
 Harriet trembled more and more, but did not avert her eyes from the
 eager look that rested on them.
 
-“When I knew you were his sister—which was on that night—I came back,
-weary and lame, to spurn your gift. I felt that night as if I could
+“When I knew you were his sister—which was on that [[Night|night]]—I came back,
+weary and lame, to spurn your gift. I felt that [[Night|night]] as if I could
 have travelled, weary and lame, over the whole world, to stab him, if I
 could have found him in a lonely place with no one near. Do you believe
 that I was earnest in all that?”
@@ -77,9 +77,9 @@ information of him to that man?”
 the manner of his flight, who knew where he and the companion of his
 flight were gone? What if I had made him utter all his knowledge, word
 by word, before his enemy, concealed to hear it? What if I had sat by
-at the time, looking into this enemy’s face, and seeing it change till
+at the [[Time|time]], looking into this enemy’s face, and seeing it change till
 it was scarcely human? What if I had seen him rush away, mad, in
-pursuit? What if I knew, now, that he was on his road, more fiend than
+pursuit? What if I knew, now, that he was on his [[Road|road]], more fiend than
 man, and must, in so many hours, come up with him?”
 
 “Remove your hand!” said Harriet, recoiling. “Go away! Your touch is
@@ -89,7 +89,7 @@ dreadful to me!”
 of the interruption. “Do I speak and look as if I really had? Do you
 believe what I am saying?”
 
-“I fear I must. Let my arm go!”
+“I [[Fear|fear]] I must. Let my arm go!”
 
 “Not yet. A moment more. You can think what my revengeful purpose must
 have been, to last so long, and urge me to do this?”
@@ -101,34 +101,34 @@ quietly on the ground, with my touch upon your arm, with my eyes upon
 your face, you may believe that there is no common earnestness in what
 I say, and that no common struggle has been battling in my breast. I am
 ashamed to speak the words, but I relent. I despise myself; I have
-fought with myself all day, and all last night; but I relent towards
+fought with myself all day, and all last [[Night|night]]; but I relent towards
 him without reason, and wish to repair what I have done, if it is
 possible. I wouldn’t have them come together while his pursuer is so
-blind and headlong. If you had seen him as he went out last night, you
+blind and headlong. If you had seen him as he went out last [[Night|night]], you
 would know the danger better.”
 
 “How can it be prevented? What can I do?” cried Harriet.
 
-“All night long,” pursued the other, hurriedly, “I had dreams of
-him—and yet I didn’t sleep—in his blood. All day, I have had him near
+“All [[Night|night]] long,” pursued the other, hurriedly, “I had [[Dreams|dreams]] of
+him—and yet I didn’t [[Sleep|sleep]]—in his [[Blood|blood]]. All day, I have had him near
 me.”
 
 “What can I do?” cried Harriet, shuddering at these words.
 
 “If there is anyone who’ll write, or send, or go to him, let them lose
-no time. He is at Dijon. Do you know the name, and where it is?”
+no [[Time|time]]. He is at Dijon. Do you know the name, and where it is?”
 
 “Yes.”
 
 “Warn him that the man he has made his enemy is in a frenzy, and that
 he doesn’t know him if he makes light of his approach. Tell him that he
-is on the road—I know he is!—and hurrying on. Urge him to get away
-while there is time—if there is time—and not to meet him yet. A month
+is on the [[Road|road]]—I know he is!—and hurrying on. Urge him to get away
+while there is [[Time|time]]—if there is [[Time|time]]—and not to meet him yet. A month
 or so will make years of difference. Let them not encounter, through
-me. Anywhere but there! Any time but now! Let his foe follow him, and
+me. Anywhere but there! Any [[Time|time]] but now! Let his foe follow him, and
 find him for himself, but not through me! There is enough upon my head
 without.”
 
-The fire ceased to be reflected in her jet black hair, uplifted face,
+The [[Fire|fire]] ceased to be reflected in her jet black hair, uplifted face,
 and eager eyes; her hand was gone from Harriet’s arm; and the place
 where she had been was empty.

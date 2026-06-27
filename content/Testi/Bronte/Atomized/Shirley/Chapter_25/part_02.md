@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 25 (part 2)"
+title: "[[Shirley]] — Chapter 25 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 indicate a preference. With what trembling pleasure and anxious care did
 
-not her nurse prepare what was selected! How she watched her as she
+not her [[Nurse|nurse]] prepare what was selected! How she watched her as she
 
 partook of it!
 
@@ -24,13 +24,13 @@ partook of it!
 
 Nourishment brought strength. She could sit up. Then she longed to
 
-breathe the fresh air, to revisit her flowers, to see how the fruit had
+breathe the fresh air, to revisit her [[Flowers|flowers]], to see how the fruit had
 
-ripened. Her uncle, always liberal, had bought a garden-chair for her
+ripened. Her uncle, always liberal, had bought a [[Garden|garden]]-chair for her
 
 express use. He carried her down in his own arms, and placed her in it
 
-himself, and William Farren was there to wheel her round the walks, to
+himself, and William Farren was there to [[Wheel|wheel]] her round the walks, to
 
 show her what he had done amongst her plants, to take her directions for
 
@@ -42,13 +42,13 @@ William and she found plenty to talk about. They had a dozen topics in
 
 common--interesting to them, unimportant to the rest of the world. They
 
-took a similar interest in animals, birds, insects, and plants; they
+took a similar interest in [[Animals|animals]], [[Birds|birds]], [[Insects|insects]], and plants; they
 
 held similar doctrines about humanity to the lower creation, and had a
 
-similar turn for minute observation on points of natural history. The
+similar turn for minute observation on points of natural [[history]]. The
 
-nest and proceedings of some ground-bees, which had burrowed in the turf
+nest and proceedings of some ground-[[Bees|bees]], which had burrowed in the turf
 
 under an old cherry-tree, was one subject of interest; the haunts of
 
@@ -64,7 +64,7 @@ formed Miss Helstone's and Farren's favourite periodical. She would have
 
 subscribed for it, and to him each number would duly have been lent;
 
-both would have put implicit faith and found great savour in its
+both would have put implicit [[Faith|faith]] and found great savour in its
 
 marvellous anecdotes of animal sagacity.
 
@@ -74,7 +74,7 @@ This is a digression, but it suffices to explain why Caroline would have
 
 no other hand than William's to guide her chair, and why his society and
 
-conversation sufficed to give interest to her garden-airings.
+conversation sufficed to give interest to her [[Garden|garden]]-airings.
 
 
 
@@ -84,7 +84,7 @@ ease with a "man of the people." _She_ found it impossible to speak to
 
 him otherwise than stiffly. She felt as if a great gulf lay between her
 
-caste and his, and that to cross it or meet him half-way would be to
+caste and his, and that to [[Cross|cross]] it or meet him half-way would be to
 
 degrade herself. She gently asked Caroline, "Are you not afraid, my
 
@@ -118,7 +118,7 @@ failed to give him his due.
 
 The evening restored Caroline entirely to her mother, and Mrs. Pryor
 
-liked the evening; for then, alone with her daughter, no human shadow
+liked the evening; for then, [[Alone|alone]] with her daughter, no human [[Shadow|shadow]]
 
 came between her and what she loved. During the day she would have her
 
@@ -130,13 +130,13 @@ kept up. Anything like familiarity would have bred contempt at once in
 
 one or both these personages; but by dint of strict civility and
 
-well-maintained distance they got on very smoothly.
+[[Well|well]]-maintained distance they got on very smoothly.
 
 
 
 Towards the servants Mrs. Pryor's bearing was not uncourteous, but shy,
 
-freezing, ungenial. Perhaps it was diffidence rather than pride which
+freezing, ungenial. Perhaps it was diffidence rather than [[Pride|pride]] which
 
 made her appear so haughty; but, as was to be expected, Fanny and Eliza
 
@@ -150,15 +150,15 @@ else dejected, chill, and taciturn.
 
 
 
-This mood changed to Caroline's influence, and to that influence alone.
+This mood changed to Caroline's influence, and to that influence [[Alone|alone]].
 
 The dependent fondness of her nursling, the natural affection of her
 
-child, came over her suavely. Her frost fell away, her rigidity unbent;
+[[Child|child]], came over her suavely. Her [[Frost|frost]] fell away, her rigidity unbent;
 
 she grew smiling and pliant. Not that Caroline made any wordy profession
 
-of love--that would ill have suited Mrs. Pryor; she would have read
+of [[Love|love]]--that would ill have suited Mrs. Pryor; she would have read
 
 therein the proof of insincerity--but she hung on her with easy
 
@@ -198,7 +198,7 @@ lecture her parent; and that parent, instead of being hurt, felt a
 
 sensation of pleasure in discovering that the girl _dared_ lecture her,
 
-that she was so much at home with her.
+that she was so much at [[Home|home]] with her.
 
 
 

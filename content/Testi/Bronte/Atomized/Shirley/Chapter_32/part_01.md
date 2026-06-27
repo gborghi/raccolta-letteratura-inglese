@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 32 (part 1)"
+title: "[[Shirley]] — Chapter 32 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,17 +26,17 @@ THE SCHOOLBOY AND THE WOOD-NYMPH.
 
 Briarmains being nearer than the Hollow, Mr. Yorke had conveyed his
 
-young comrade there. He had seen him laid in the best bed of the house,
+young comrade there. He had seen him laid in the best bed of the [[house]],
 
 as carefully as if he had been one of his own sons. The sight of his
 
-blood, welling from the treacherously inflicted wound, made him indeed
+[[Blood|blood]], welling from the treacherously inflicted wound, made him indeed
 
 the son of the Yorkshire gentleman's heart. The spectacle of the sudden
 
-event, of the tall, straight shape prostrated in its pride across the
+event, of the tall, straight shape prostrated in its [[Pride|pride]] across the
 
-road, of the fine southern head laid low in the dust, of that youth in
+[[Road|road]], of the fine southern head laid low in the [[Dust|dust]], of that youth in
 
 prime flung at once before him pallid, lifeless, helpless--this was the
 
@@ -54,7 +54,7 @@ This utter dependence of the speechless, bleeding youth (as a youth he
 
 regarded him) on his benevolence secured that benevolence most
 
-effectually. Well did Mr. Yorke like to have power, and to use it. He
+effectually. [[Well]] did Mr. Yorke like to have power, and to use it. He
 
 had now between his hands power over a fellow-creature's life. It suited
 
@@ -68,15 +68,15 @@ was quite in her way and to her taste. Some women would have been
 
 terror-struck to see a gory man brought in over their threshold, and
 
-laid down in their hall in the "howe of the night." There, you would
+laid down in their hall in the "howe of the [[Night|night]]." There, you would
 
 suppose, was subject-matter for hysterics. No. Mrs. Yorke went into
 
-hysterics when Jessie would not leave the garden to come to her
+hysterics when Jessie would not leave the [[Garden|garden]] to come to her
 
 knitting, or when Martin proposed starting for Australia, with a view to
 
-realize freedom and escape the tyranny of Matthew; but an attempted
+realize [[Freedom|freedom]] and escape the tyranny of Matthew; but an attempted
 
 murder near her door--a half-murdered man in her best bed--set her
 
@@ -86,7 +86,7 @@ straight, cheered her spirits, gave her cap the dash of a turban.
 
 Mrs. Yorke was just the woman who, while rendering miserable the
 
-drudging life of a simple maid-servant, would nurse like a heroine a
+drudging life of a simple maid-servant, would [[Nurse|nurse]] like a heroine a
 
 hospital full of plague patients. She almost loved Moore. Her tough
 
@@ -96,11 +96,11 @@ charge--left in her arms, as dependent on her as her youngest-born in
 
 the cradle. Had she seen a domestic or one of her daughters give him a
 
-draught of water or smooth his pillow, she would have boxed the
+draught of [[Water|water]] or smooth his pillow, she would have boxed the
 
-intruder's ears. She chased Jessie and Rose from the upper realm of the
+intruder's ears. She chased Jessie and [[Rose]] from the upper realm of the
 
-house; she forbade the housemaids to set their foot in it.
+[[house]]; she forbade the housemaids to set their foot in it.
 
 
 
@@ -114,17 +114,17 @@ meddling. As it was, he became, for the present, the apple of their eye.
 
 
 
-Strange! Louis Moore was permitted to come--to sit down on the edge of
+Strange! [[Louis Moore]] was permitted to come--to sit down on the edge of
 
 the bed and lean over the pillow; to hold his brother's hand, and press
 
-his pale forehead with his fraternal lips; and Mrs. Yorke bore it well.
+his pale forehead with his fraternal lips; and Mrs. Yorke bore it [[Well|well]].
 
 She suffered him to stay half the day there; she once suffered him to
 
-sit up all night in the chamber; she rose herself at five o'clock of a
+sit up all [[Night|night]] in the chamber; she [[Rose|rose]] herself at five o'[[Clock|clock]] of a
 
-wet November morning, and with her own hands lit the kitchen fire, and
+wet November morning, and with her own hands lit the kitchen [[Fire|fire]], and
 
 made the brothers a breakfast, and served it to them herself.
 
@@ -166,11 +166,11 @@ watched them with the same suspicion, and judged them with the same
 
 severity. Hortense, too, from the very first showed no manner of
 
-jealousy of Mrs. Yorke's attentions to Robert--she let her keep the post
+[[Jealousy|jealousy]] of Mrs. Yorke's attentions to Robert--she let her keep the post
 
-of nurse with little interference; and, for herself, found ceaseless
+of [[Nurse|nurse]] with little interference; and, for herself, found ceaseless
 
-occupation in fidgeting about the house, holding the kitchen under
+occupation in fidgeting about the [[house]], holding the kitchen under
 
 surveillance, reporting what passed there, and, in short, making herself
 
@@ -186,7 +186,7 @@ Mr. MacTurk, the surgeon to whom Moore's case had been committed,
 
 pronounced his wound of a dangerous, but, he trusted, not of a hopeless
 
-character. At first he wished to place with him a nurse of his own
+character. At first he wished to place with him a [[Nurse|nurse]] of his own
 
 selection; but this neither Mrs. Yorke nor Hortense would hear of. They
 
@@ -200,7 +200,7 @@ Doubtless they executed the trust to the best of their ability; but
 
 something got wrong. The bandages were displaced or tampered with; great
 
-loss of blood followed. MacTurk, being summoned, came with steed afoam.
+loss of [[Blood|blood]] followed. MacTurk, being summoned, came with steed afoam.
 
 He was one of those surgeons whom it is dangerous to vex--abrupt in his
 

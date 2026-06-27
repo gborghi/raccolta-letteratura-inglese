@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 2)"
+title: "[[Shirley]] — Chapter 7 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,7 +20,7 @@ will either come here, or ask me to go there."
 
 
 
-She recommenced combing her hair, long as a mermaid's. Turning her head
+She recommenced combing her hair, long as a [[Mermaid|mermaid]]'s. Turning her head
 
 as she arranged it she saw her own face and form in the glass. Such
 
@@ -42,7 +42,7 @@ undiminished gladness she sought her couch.
 
 
 
-And in undiminished gladness she rose the next day. As she entered her
+And in undiminished gladness she [[Rose|rose]] the next day. As she entered her
 
 uncle's breakfast-room, and with soft cheerfulness wished him
 
@@ -52,13 +52,13 @@ instant, his niece was growing "a fine girl." Generally she was quiet
 
 and timid with him--very docile, but not communicative; this morning,
 
-however, she found many things to say. Slight topics alone might be
+however, she found many things to say. Slight topics [[Alone|alone]] might be
 
 discussed between them; for with a woman--a girl--Mr. Helstone would
 
-touch on no other. She had taken an early walk in the garden, and she
+touch on no other. She had taken an early walk in the [[Garden|garden]], and she
 
-told him what flowers were beginning to spring there; she inquired when
+told him what [[Flowers|flowers]] were beginning to [[Spring|spring]] there; she inquired when
 
 the gardener was to come and trim the borders; she informed him that
 
@@ -66,7 +66,7 @@ certain starlings were beginning to build their nests in the
 
 church-tower (Briarfield church was close to Briarfield rectory); she
 
-wondered the tolling of the bells in the belfry did not scare them.
+wondered the tolling of [[The Bells|the bells]] in the belfry did not scare them.
 
 
 
@@ -82,7 +82,7 @@ observations dropped by her revered relative.
 
 
 
-"Uncle," said she, "whenever you speak of marriage you speak of it
+"Uncle," said she, "whenever you speak of [[Marriage|marriage]] you speak of it
 
 scornfully. Do you think people shouldn't marry?"
 
@@ -98,7 +98,7 @@ women."
 
 
 
-"Millions of marriages are unhappy. If everybody confessed the truth,
+"Millions of marriages are unhappy. If everybody confessed the [[Truth|truth]],
 
 perhaps all are more or less so."
 
@@ -202,9 +202,9 @@ custom of uncle and niece to separate, and not to meet again till
 
 dinner; but to-day the niece, instead of quitting the room, went to the
 
-window-seat, and sat down there. Mr. Helstone looked round uneasily once
+[[Window|window]]-seat, and sat down there. Mr. Helstone looked round uneasily once
 
-or twice, as if he wished her away; but she was gazing from the window,
+or twice, as if he wished her away; but she was gazing from the [[Window|window]],
 
 and did not seem to mind him: so he continued the perusal of his morning
 
@@ -218,7 +218,7 @@ little knew, meantime, what thoughts were busy in his niece's
 
 mind--thoughts the conversation of the past half-hour had revived but
 
-not generated; tumultuous were they now, as disturbed bees in a hive,
+not generated; tumultuous were they now, as disturbed [[Bees|bees]] in a hive,
 
 but it was years since they had first made their cells in her brain.
 
@@ -226,7 +226,7 @@ but it was years since they had first made their cells in her brain.
 
 She was reviewing his character, his disposition, repeating his
 
-sentiments on marriage. Many a time had she reviewed them before, and
+sentiments on [[Marriage|marriage]]. Many a [[Time|time]] had she reviewed them before, and
 
 sounded the gulf between her own mind and his; and then, on the other
 
@@ -250,6 +250,6 @@ it was--some weeks that she had spent with him in a great town
 
 somewhere, when she had had no maid to dress her or take care of her;
 
-when she had been shut up, day and night, in a high garret-room, without
+when she had been shut up, day and [[Night|night]], in a high garret-room, without
 
 a carpet, with a bare uncurtained bed, and scarcely any other furniture;

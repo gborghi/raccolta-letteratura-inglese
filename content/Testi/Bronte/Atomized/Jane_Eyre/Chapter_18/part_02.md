@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 18 (part 2)"
+title: "[[Jane Eyre]] — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -26,7 +26,7 @@ his knees, and his eyes bent on the ground. I knew Mr. Rochester;
 though the begrimed face, the disordered dress (his coat hanging loose
 from one arm, as if it had been almost torn from his back in a
 scuffle), the desperate and scowling countenance, the rough, bristling
-hair might well have disguised him. As he moved, a chain clanked; to
+hair might [[Well|well]] have disguised him. As he moved, a chain clanked; to
 his wrists were attached fetters.
 
 “Bridewell!” exclaimed Colonel Dent, and the charade was solved.
@@ -45,14 +45,14 @@ her.
 “Alas! yes: the more’s the pity! Nothing could be more becoming to your
 complexion than that ruffian’s rouge.”
 
-“You would like a hero of the road then?”
+“You would like a [[Hero|hero]] of the [[Road|road]] then?”
 
-“An English hero of the road would be the next best thing to an Italian
+“An English [[Hero|hero]] of the [[Road|road]] would be the next best thing to an Italian
 bandit; and that could only be surpassed by a Levantine pirate.”
 
-“Well, whatever I am, remember you are my wife; we were married an hour
+“[[Well]], whatever I am, remember you are my wife; we were married an hour
 since, in the presence of all these witnesses.” She giggled, and her
-colour rose.
+colour [[Rose|rose]].
 
 “Now, Dent,” continued Mr. Rochester, “it is your turn.” And as the
 other party withdrew, he and his band took the vacated seats. Miss
@@ -68,9 +68,9 @@ Miss Ingram, and Miss Ingram to him; I see her incline her head towards
 him, till the jetty curls almost touch his shoulder and wave against
 his cheek; I hear their mutual whisperings; I recall their interchanged
 glances; and something even of the feeling roused by the spectacle
-returns in memory at this moment.
+returns in [[Memory|memory]] at this moment.
 
-I have told you, reader, that I had learnt to love Mr. Rochester: I
+I have told you, reader, that I had learnt to [[Love|love]] Mr. Rochester: I
 could not unlove him now, merely because I found that he had ceased to
 notice me—because I might pass hours in his presence, and he would
 never once turn his eyes in my direction—because I saw all his
@@ -82,22 +82,22 @@ sure he would soon marry this very lady—because I read daily in her a
 proud security in his intentions respecting her—because I witnessed
 hourly in him a style of courtship which, if careless and choosing
 rather to be sought than to seek, was yet, in its very carelessness,
-captivating, and in its very pride, irresistible.
+captivating, and in its very [[Pride|pride]], irresistible.
 
-There was nothing to cool or banish love in these circumstances, though
-much to create despair. Much too, you will think, reader, to engender
-jealousy: if a woman, in my position, could presume to be jealous of a
+There was nothing to cool or banish [[Love|love]] in these circumstances, though
+much to create [[Despair|despair]]. Much too, you will think, reader, to engender
+[[Jealousy|jealousy]]: if a woman, in my position, could presume to be jealous of a
 woman in Miss Ingram’s. But I was not jealous: or very rarely;—the
-nature of the pain I suffered could not be explained by that word. Miss
-Ingram was a mark beneath jealousy: she was too inferior to excite the
-feeling. Pardon the seeming paradox; I mean what I say. She was very
+[[Nature|nature]] of the [[Pain|pain]] I suffered could not be explained by that word. Miss
+Ingram was a mark beneath [[Jealousy|jealousy]]: she was too inferior to excite the
+feeling. Pardon the seeming [[Paradox|paradox]]; I mean what I say. She was very
 showy, but she was not genuine: she had a fine person, many brilliant
-attainments; but her mind was poor, her heart barren by nature: nothing
+attainments; but her mind was poor, her heart barren by [[Nature|nature]]: nothing
 bloomed spontaneously on that soil; no unforced natural fruit delighted
 by its freshness. She was not good; she was not original: she used to
 repeat sounding phrases from books: she never offered, nor had, an
 opinion of her own. She advocated a high tone of sentiment; but she did
-not know the sensations of sympathy and pity; tenderness and truth were
+not know the sensations of sympathy and pity; tenderness and [[Truth|truth]] were
 not in her. Too often she betrayed this, by the undue vent she gave to
 a spiteful antipathy she had conceived against little Adèle: pushing
 her away with some contumelious epithet if she happened to approach
@@ -108,11 +108,11 @@ Yes; the future bridegroom, Mr. Rochester himself, exercised over his
 intended a ceaseless surveillance; and it was from this sagacity—this
 guardedness of his—this perfect, clear consciousness of his fair one’s
 defects—this obvious absence of passion in his sentiments towards her,
-that my ever-torturing pain arose.
+that my ever-torturing [[Pain|pain]] arose.
 
 I saw he was going to marry her, for family, perhaps political reasons,
 because her rank and connections suited him; I felt he had not given
-her his love, and that her qualifications were ill adapted to win from
+her his [[Love|love]], and that her qualifications were ill adapted to win from
 him that treasure. This was the point—this was where the nerve was
 touched and teased—this was where the fever was sustained and fed: _she
 could not charm him_.
@@ -122,14 +122,14 @@ sincerely laid his heart at her feet, I should have covered my face,
 turned to the wall, and (figuratively) have died to them. If Miss
 Ingram had been a good and noble woman, endowed with force, fervour,
 kindness, sense, I should have had one vital struggle with two
-tigers—jealousy and despair: then, my heart torn out and devoured, I
+tigers—[[Jealousy|jealousy]] and [[Despair|despair]]: then, my heart torn out and devoured, I
 should have admired her—acknowledged her excellence, and been quiet for
 the rest of my days: and the more absolute her superiority, the deeper
 would have been my admiration—the more truly tranquil my quiescence.
 But as matters really stood, to watch Miss Ingram’s efforts at
 fascinating Mr. Rochester, to witness their repeated failure—herself
 unconscious that they did fail; vainly fancying that each shaft
-launched hit the mark, and infatuatedly pluming herself on success,
-when her pride and self-complacency repelled further and further what
+launched hit the mark, and infatuatedly pluming herself on [[success]],
+when her [[Pride|pride]] and [[Self|self]]-complacency repelled further and further what
 she wished to allure—to witness _this_, was to be at once under
 ceaseless excitation and ruthless restraint.

@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-But to the deepest soul, it seems a shame to pick and choose from
+But to the deepest [[Soul|soul]], it seems a shame to pick and choose from
 the riches Shakspere has left us--to criticise his infinitely royal,
 multiform quality--to gauge, with optic glasses, the dazzle of his
 sun-like beams.
@@ -36,49 +36,49 @@ will be assign'd them on that great roster of geniuses and genius which
 can only be finish'd by the slow but sure balancing of the centuries
 with their ample average--I of course cannot tell. But as we know him,
 from his recorded utterances, and after nearly one century, and its
-diligence of collections, songs, letters, anecdotes, presenting the
+diligence of collections, [[songs]], letters, anecdotes, presenting the
 figure of the canny Scotchman in a fullness and detail wonderfully
 complete, and the lines mainly by his own hand, he forms to-day, in some
 respects, the most interesting personality among singers. Then there are
-many things in Burns's poems and character that specially endear him to
-America. He was essentially a Republican--would have been at home in
+many things in Burns's [[Poems|poems]] and character that specially endear him to
+[[America]]. He was essentially a Republican--would have been at [[Home|home]] in
 the Western United States, and probably become eminent there. He was
 an average sample of the good-natured, warm-blooded, proud-spirited,
 amative, alimentive, convivial, young and early-middle-aged man of the
 decent-born middle classes everywhere and any how. Without the race of
-which he is a distinct specimen, (and perhaps his poems) America and
-her powerful Democracy could not exist to-day--could not project with
+which he is a distinct specimen, (and perhaps his [[Poems|poems]]) [[America]] and
+her powerful [[democracy|Democracy]] could not exist to-day--could not project with
 unparallel'd historic sway into the future.
 
 Perhaps the peculiar coloring of the era of Burns needs always first
 to be consider'd. It included the times of the '76-'83 Revolution in
-America, of the French Revolution, and an unparallel'd chaos development
+[[America]], of the [[French Revolution]], and an unparallel'd chaos development
 in Europe and elsewhere. In every department, shining and strange names,
-like stars, some rising, some in meridian, some declining--Voltaire,
+like [[Stars|stars]], some rising, some in meridian, some declining--Voltaire,
 Franklin, Washington, Kant, Goethe, Fulton, Napoleon, mark the era.
 And while so much, and of grandest moment, fit for the trumpet of the
-world's fame, was being transacted--that little tragi-comedy of R. B,'s
-life and death was going on in a country by-place in Scotland!
+world's fame, was being transacted--that little tragi-[[Comedy|comedy]] of R. B,'s
+life and [[Death|death]] was going on in a country by-place in Scotland!
 
 Burns's correspondence, generally collected and publish'd since his
-death, gives wonderful glints into both the amiable and weak (and worse
-than weak) parts of his portraiture, habits, good and bad luck, ambition
+[[Death|death]], gives wonderful glints into both the amiable and weak (and worse
+than weak) parts of his portraiture, habits, good and bad luck, [[Ambition|ambition]]
 and associations. His letters to Mrs. Dunlop, Mrs. McLehose, (Clarinda,)
 Mr. Thompson, Dr. Moore, Robert Muir, Mr. Cunningham, Miss Margaret
-Chalmers, Peter Hill, Richard Brown, Mrs. Riddel, Robert Ainslie, and
+Chalmers, Peter [[Hill]], [[Richard]] Brown, Mrs. Riddel, Robert Ainslie, and
 Robert Graham, afford valuable lights and shades to the outline, and
 with numerous others, help to a touch here, and fill-in there, of
-poet and poems. There are suspicions, it is true, of "the Genteel
+poet and [[Poems|poems]]. There are suspicions, it is true, of "the Genteel
 Letter-Writer," with scraps and words from "the Manual of French
-Quotations," and, in the love-letters, some hollow mouthings. Yet we
+Quotations," and, in the [[Love|love]]-letters, some hollow mouthings. Yet we
 wouldn't on any account lack the letters. A full and true portrait is
 always what is wanted; veracity at every hazard. Besides, do we not
-all see by this time that the story of Burns, even for its own sake,
+all see by this [[Time|time]] that the story of Burns, even for its own sake,
 requires the record of the whole and several, with nothing left out?
 Completely and every point minutely told out its fullest, explains and
 justifies itself--(as perhaps almost any life does.) He is very close
 to the earth. He pick'd up his best words and tunes directly from the
-Scotch home-singers, but tells Thompson they would not please his, T.'s,
+Scotch [[Home|home]]-singers, but tells Thompson they would not please his, T.'s,
 "learn'd lugs," adding, "I call them simple--you would pronounce them
 silly." Yes, indeed; the idiom was undoubtedly his happiest hit. Yet
 Dr. Moore, in 1789, writes to Burns, "If I were to offer an opinion, it
@@ -97,8 +97,8 @@ amid the crowded clusters, galaxies, of the old world--and fairly
 inquiring and suggesting what out of these myriads he too may be to
 the Western Republic. In the first place no poet on record so fully
 bequeaths his own personal magnetism,[39] nor illustrates more pointedly
-how one's verses, by time and reading, can so curiously fuse with the
-versifier's own life and death, and give final light and shade to all.
+how one's verses, by [[Time|time]] and reading, can so curiously fuse with the
+versifier's own life and [[Death|death]], and give final light and shade to all.
 
 I would say a large part of the fascination of Burns's homely, simple
 dialect-melodies is due, for all current and future readers, to
@@ -109,21 +109,21 @@ his life, his being taboo'd and in debt, sick and sore, yaw'd as by
 contending gales, deeply dissatisfied with everything, most of all with
 himself--high-spirited too--(no man ever really higher-spirited than
 Robert Burns.) I think it a perfectly legitimate part too. At any rate
-it has come to be an impalpable aroma through which only both the songs
+it has come to be an impalpable aroma through which only both the [[songs]]
 and their singer must henceforth be read and absorb'd. Through that
 view-medium of misfortune--of a noble spirit in low environments, and of
-a squalid and premature death--we view the undoubted facts, (giving, as
+a squalid and premature [[Death|death]]--we view the undoubted facts, (giving, as
 we read them now, a sad kind of pungency,) that Burns's were, before all
 else, the lyrics of illicit loves and carousing intoxication. Perhaps
 even it is this strange, impalpable _post-mortem_ comment and influence
 referr'd to, that gives them their contrast, attraction, making the
 zest of their author's after fame. If he had lived steady, fat, moral,
-comfortable, well-to-do years, on his own grade, (let alone, what of
+comfortable, [[Well|well]]-to-do years, on his own grade, (let [[Alone|alone]], what of
 course was out of the question, the ease and velvet and rosewood and
 copious royalties of Tennyson or Victor Hugo or Longfellow,) and died
-well-ripen'd and respectable, where could have come in that burst
-of passionate sobbing and remorse which well'd forth instantly
+[[Well|well]]-ripen'd and respectable, where could have come in that burst
+of passionate sobbing and remorse which [[Well|well]]'d forth instantly
 and generally in Scotland, and soon follow'd everywhere among
-English-speaking races, on the announcement of his death? and which,
+English-speaking races, on the announcement of his [[Death|death]]? and which,
 with no sign of stopping, only regulated and vein'd with fitting
 appreciation, flows deeply, widely yet?

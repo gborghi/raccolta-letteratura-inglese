@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 3)"
+title: "[[The Gold-Bug]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -28,7 +28,7 @@ tags:
 
       and he soldiers up, and as white as a gose? And den he keep a
 
-      syphon all de time—”
+      syphon all de [[Time|time]]—”
 
 
 
@@ -46,7 +46,7 @@ tags:
 
       had a big stick ready cut for to gib him deuced good beating when
 
-      he did come—but Ise sich a fool dat I hadn’t de heart arter
+      he did come—but Ise sich a [[Fool|fool]] dat I hadn’t de heart arter
 
       all—he look so berry poorly.”
 
@@ -56,7 +56,7 @@ tags:
 
       too severe with the poor fellow—don’t flog him, Jupiter—he can’t
 
-      very well stand it—but can you form no idea of what has
+      very [[Well|well]] stand it—but can you form no idea of what has
 
       occasioned this illness, or rather this change of conduct? Has
 
@@ -98,7 +98,7 @@ tags:
 
       Massa Will cotch him fuss, but had for to let him go ’gin mighty
 
-      quick, I tell you—den was de time he must ha’ got de bite. I did
+      quick, I tell you—den was de [[Time|time]] he must ha’ got de bite. I did
 
       n’t like de look oh de bug mouff, myself, no how, so I would n’t
 
@@ -124,17 +124,17 @@ tags:
 
 
 
-      “But how do you know he dreams about gold?”
+      “But how do you know he [[Dreams|dreams]] about gold?”
 
 
 
-      “How I know? why ’cause he talk about it in he sleep—dat’s how I
+      “How I know? why ’cause he talk about it in he [[Sleep|sleep]]—dat’s how I
 
       nose.”
 
 
 
-      “Well, Jup, perhaps you are right; but to what fortunate
+      “[[Well]], Jup, perhaps you are right; but to what fortunate
 
       circumstance am I to attribute the honor of a visit from you
 
@@ -156,7 +156,7 @@ tags:
 
 
 
-      “MY DEAR ——Why have I not seen you for so long a time? I hope you
+      “MY DEAR ——Why have I not seen you for so long a [[Time|time]]? I [[Hope|hope]] you
 
       have not been so foolish as to take offence at any little
 
@@ -170,9 +170,9 @@ tags:
 
 
 
-      “I have not been quite well for some days past, and poor old Jup
+      “I have not been quite [[Well|well]] for some days past, and poor old Jup
 
-      annoys me, almost beyond endurance, by his well-meant attentions.
+      annoys me, almost beyond [[Endurance|endurance]], by his [[Well|well]]-meant attentions.
 
       Would you believe it?—he had prepared a huge stick, the other
 
@@ -180,7 +180,7 @@ tags:
 
       spending the day, _solus_, among the hills on the main land. I
 
-      verily believe that my ill looks alone saved me a flogging.
+      verily believe that my ill looks [[Alone|alone]] saved me a flogging.
 
 
 
@@ -226,7 +226,7 @@ tags:
 
       Upon reaching the wharf, I noticed a scythe and three spades, all
 
-      apparently new, lying in the bottom of the boat in which we were
+      apparently new, lying in the [[Bottom|bottom]] of the boat in which we were
 
       to embark.
 

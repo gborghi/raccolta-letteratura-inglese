@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 31 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 31 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-for her; but the search was as fruitless as it was melancholy. I could
+for her; but the search was as fruitless as it was [[Melancholy|melancholy]]. I could
 
 not trace her beyond her first seducer, and there was every reason to
 
-fear that she had removed from him only to sink deeper in a life of
+[[Fear|fear]] that she had removed from him only to sink deeper in a life of
 
 sin. Her legal allowance was not adequate to her fortune, nor
 
@@ -36,13 +36,13 @@ had been six months in England, I _did_ find her. Regard for a former
 
 servant of my own, who had since fallen into misfortune, carried me to
 
-visit him in a spunging-house, where he was confined for debt; and
+visit him in a spunging-[[house]], where he was confined for debt; and
 
-there, in the same house, under a similar confinement, was my
+there, in the same [[house]], under a similar confinement, was my
 
-unfortunate sister. So altered—so faded—worn down by acute suffering of
+unfortunate sister. So altered—so faded—worn down by acute [[Suffering|suffering]] of
 
-every kind! hardly could I believe the melancholy and sickly figure
+every kind! hardly could I believe the [[Melancholy|melancholy]] and sickly figure
 
 before me, to be the remains of the lovely, blooming, healthful girl,
 
@@ -54,9 +54,9 @@ pained you too much already. That she was, to all appearance, in the
 
 last stage of a consumption, was—yes, in such a situation it was my
 
-greatest comfort. Life could do nothing for her, beyond giving time for
+greatest comfort. Life could do nothing for her, beyond giving [[Time|time]] for
 
-a better preparation for death; and that was given. I saw her placed in
+a better preparation for [[Death|death]]; and that was given. I saw her placed in
 
 comfortable lodgings, and under proper attendants; I visited her every
 
@@ -74,7 +74,7 @@ friend.
 
 
 
-“Your sister, I hope, cannot be offended,” said he, “by the resemblance
+“Your sister, I [[Hope|hope]], cannot be offended,” said he, “by the resemblance
 
 I have fancied between her and my poor disgraced relation. Their fates,
 
@@ -82,7 +82,7 @@ their fortunes, cannot be the same; and had the natural sweet
 
 disposition of the one been guarded by a firmer mind, or a happier
 
-marriage, she might have been all that you will live to see the other
+[[Marriage|marriage]], she might have been all that you will live to see the other
 
 be. But to what does all this lead? I seem to have been distressing you
 
@@ -90,27 +90,27 @@ for nothing. Ah! Miss Dashwood—a subject such as this—untouched for
 
 fourteen years—it is dangerous to handle it at all! I _will_ be more
 
-collected—more concise. She left to my care her only child, a little
+collected—more concise. She left to my care her only [[Child|child]], a little
 
 girl, the offspring of her first guilty connection, who was then about
 
-three years old. She loved the child, and had always kept it with her.
+three years old. She loved the [[Child|child]], and had always kept it with her.
 
 It was a valued, a precious trust to me; and gladly would I have
 
-discharged it in the strictest sense, by watching over her education
+discharged it in the strictest sense, by watching over her [[Education|education]]
 
-myself, had the nature of our situations allowed it; but I had no
+myself, had the [[Nature|nature]] of our situations allowed it; but I had no
 
-family, no home; and my little Eliza was therefore placed at school. I
+family, no [[Home|home]]; and my little Eliza was therefore placed at school. I
 
-saw her there whenever I could, and after the death of my brother,
+saw her there whenever I could, and after the [[Death|death]] of my brother,
 
 (which happened about five years ago, and which left to me the
 
 possession of the family property,) she visited me at Delaford. I
 
-called her a distant relation; but I am well aware that I have in
+called her a distant relation; but I am [[Well|well]] aware that I have in
 
 general been suspected of a much nearer connection with her. It is now
 
@@ -120,27 +120,27 @@ removed her from school, to place her under the care of a very
 
 respectable woman, residing in Dorsetshire, who had the charge of four
 
-or five other girls of about the same time of life; and for two years I
+or five other girls of about the same [[Time|time]] of life; and for two years I
 
 had every reason to be pleased with her situation. But last February,
 
 almost a twelvemonth back, she suddenly disappeared. I had allowed her,
 
-(imprudently, as it has since turned out,) at her earnest desire, to go
+(imprudently, as it has since turned out,) at her earnest [[Desire|desire]], to go
 
 to Bath with one of her young friends, who was attending her father
 
 there for his health. I knew him to be a very good sort of man, and I
 
-thought well of his daughter—better than she deserved, for, with a most
+thought [[Well|well]] of his daughter—better than she deserved, for, with a most
 
 obstinate and ill-judged secrecy, she would tell nothing, would give no
 
-clue, though she certainly knew all. He, her father, a well-meaning,
+clue, though she certainly knew all. He, her father, a [[Well|well]]-meaning,
 
 but not a quick-sighted man, could really, I believe, give no
 
-information; for he had been generally confined to the house, while the
+information; for he had been generally confined to the [[house]], while the
 
 girls were ranging over the town and making what acquaintance they
 
@@ -168,7 +168,7 @@ Delaford, and I received it on the very morning of our intended party
 
 to Whitwell; and this was the reason of my leaving Barton so suddenly,
 
-which I am sure must at the time have appeared strange to every body,
+which I am sure must at the [[Time|time]] have appeared strange to every [[Body|body]],
 
 and which I believe gave offence to some. Little did Mr. Willoughby
 
@@ -184,9 +184,9 @@ of your sister? No, he had already done that, which no man who _can_
 
 feel for another would do. He had left the girl whose youth and
 
-innocence he had seduced, in a situation of the utmost distress, with
+[[innocence]] he had seduced, in a situation of the utmost distress, with
 
-no creditable home, no help, no friends, ignorant of his address! He
+no creditable [[Home|home]], no help, no friends, ignorant of his address! He
 
 had left her, promising to return; he neither returned, nor wrote, nor
 

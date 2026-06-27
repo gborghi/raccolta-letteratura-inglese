@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 22)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 22)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-explain its development from a dream to a nightmare, and the
+explain its development from [[A Dream|a dream]] to a [[nightmare]], and the
 
 hair's-breadth escape by which it did not hurl us to destruction, as it
 
@@ -22,39 +22,39 @@ seems to be hurling the Turk? It is a certain spirit; and we must not
 
 ask for too logical a definition of it, for the people whom it possesses
 
-disown logic; and the whole thing is not so much a theory as a confusion
+disown [[logic]]; and the whole thing is not so much a theory as a confusion
 
 of thought. Its widest and most elementary character is adumbrated in
 
 the word Teutonism or Pan-Germanism; and with this (which was what
 
-appeared to win in 1870) we had better begin. The nature of
+appeared to win in 1870) we had better begin. The [[Nature|nature]] of
 
 Pan-Germanism may be allegorised and abbreviated somewhat thus:
 
 
 
-The horse asserts that all other creatures are morally bound to
+The [[Horse|horse]] asserts that all other creatures are morally bound to
 
 sacrifice their interests to his, on the specific ground that he
 
 possesses all noble and necessary qualities, and is an end in himself.
 
-It is pointed out in answer that when climbing a tree the horse is less
+It is pointed out in answer that when climbing a tree the [[Horse|horse]] is less
 
-graceful than the cat; that lovers and poets seldom urge the horse to
+graceful than the cat; that [[lovers]] and poets seldom urge the [[Horse|horse]] to
 
-make a noise all night like the nightingale; that when submerged for
+make a noise all [[Night|night]] like the [[Nightingale|nightingale]]; that when submerged for
 
-some long time under water, he is less happy than the haddock; and that
+some long [[Time|time]] under [[Water|water]], he is less happy than the haddock; and that
 
 when he is cut open pearls are less often found in him than in an
 
 oyster. He is not content to answer (though, being a muddle-headed
 
-horse, he does use this answer also) that having an undivided hoof is
+[[Horse|horse]], he does use this answer also) that having an undivided hoof is
 
-more than pearls or oceans or all ascension or song. He reflects for a
+more than pearls or oceans or all ascension or [[Song|song]]. He reflects for a
 
 few years on the subject of cats; and at last discovers in the cat "the
 
@@ -64,37 +64,37 @@ _are_ horses, and wave on every tree-top the tail which is the equine
 
 banner. Nightingales are found to have legs, which explains their power
 
-of song. Haddocks are vertebrates; and therefore are sea-horses. And
+of [[Song|song]]. Haddocks are vertebrates; and therefore are sea-horses. And
 
 though the oyster outwardly presents dissimilarities which seem to
 
-divide him from the horse, he is by the all-filling nature-might of the
+divide him from the [[Horse|horse]], he is by the all-filling [[Nature|nature]]-might of the
 
-same horse-moving energy sustained.
+same [[Horse|horse]]-moving energy sustained.
 
 
 
-Now this horse is intellectually the wrong horse. It is not perhaps
+Now this [[Horse|horse]] is intellectually the wrong [[Horse|horse]]. It is not perhaps
 
-going too far to say that this horse is a donkey. For it is obviously
+going too far to say that this [[Horse|horse]] is a [[donkey]]. For it is obviously
 
 within even the intellectual resources of a haddock to answer, "But if a
 
-haddock is a horse, why should I yield to you any more than you to me?
+haddock is a [[Horse|horse]], why should I yield to you any more than you to me?
 
-Why should that singing horse commonly called the nightingale, or that
+Why should that singing [[Horse|horse]] commonly called the [[Nightingale|nightingale]], or that
 
-climbing horse hitherto known as the cat, fall down and worship you
+climbing [[Horse|horse]] hitherto known as the cat, fall down and worship you
 
 because of your horsehood? If all our native faculties are the
 
-accomplishments of a horse--why then you are only another horse without
+accomplishments of a [[Horse|horse]]--why then you are only another [[Horse|horse]] without
 
-any accomplishments." When thus gently reasoned with, the horse flings
+any accomplishments." When thus gently reasoned with, the [[Horse|horse]] flings
 
 up his heels, kicks the cat, crushes the oyster, eats the haddock and
 
-pursues the nightingale, and that is how the war began.
+pursues the [[Nightingale|nightingale]], and that is how the war began.
 
 
 
@@ -106,21 +106,21 @@ Sea-Germans, as our haddocks were only sea-horses. They do really say
 
 that the nightingales of Tuscany or the pearls of Hellas must somehow be
 
-German birds or German jewels. They do maintain that the Italian
+German [[Birds|birds]] or German jewels. They do maintain that the Italian
 
-Renaissance was really the German Renaissance, pure Germans having
+[[Renaissance]] was really the German [[Renaissance]], pure Germans having
 
-Italian names when they were painters, as cockneys sometimes have when
+Italian names when they were painters, as [[cockneys]] sometimes have when
 
 they are hair-dressers. They suggest that Jesus and the great Jews were
 
 Teutonic. One Teutonist I read actually explained the fresh energy of
 
-the French Revolution and the stale privileges of its German enemies by
+the [[French Revolution]] and the stale privileges of its German enemies by
 
-saying that the Germanic soul awoke in France and attacked the Latin
+saying that the Germanic [[Soul|soul]] awoke in France and attacked the Latin
 
-influence in Germany. On the advantages of this method I need not dwell:
+influence in [[Germany]]. On the advantages of this method I need not dwell:
 
 if you are annoyed at Jack Johnson knocking out an English
 
@@ -128,11 +128,11 @@ prize-fighter, you have only to say that it was the whiteness of the
 
 black man that won and the blackness of the white man that was beaten.
 
-But about the Italian Renaissance they are less general and will go into
+But about the Italian [[Renaissance]] they are less general and will go into
 
 detail. They will discover (in their researches into 'istry, as Mr.
 
-Gandish said) that Michael Angelo's surname was Buonarotti; and they
+Gandish said) that [[Michael]] [[Angelo]]'s surname was Buonarotti; and they
 
 will point out that the word "roth" is very like the word "rot." Which,
 
@@ -140,7 +140,7 @@ in one sense, is true enough. Most Englishmen will be content to say it
 
 is all rot and pass on. It is all of a piece with the preposterous
 
-Prussian history, which talks, for instance, about the "perfect
+Prussian [[history]], which talks, for instance, about the "perfect
 
 religious tolerance of the Goths"; which is like talking about the legal
 
@@ -150,7 +150,7 @@ were Germans; though he may perhaps have met some Germans who were Jews.
 
 But deeper than any such practical reply, lies the deep inconsistency of
 
-the parable. It is simply this; that if Teutonism be used for
+the [[Parable|parable]]. It is simply this; that if Teutonism be used for
 
 comprehension it cannot be used for conquest. If all intelligent peoples
 
@@ -184,13 +184,13 @@ find he is a Slav. So much for Pan-Germanism.
 
 But though Teutonism is indefinable, or at least is by the Teutons
 
-undefined, it is not unreal. A vague but genuine soul does possess all
+undefined, it is not unreal. A vague but genuine [[Soul|soul]] does possess all
 
 peoples who boast of Teutonism; and has possessed ourselves, in so far
 
 as we have been touched by that folly. Not a race, but rather a
 
-religion, the thing exists; and in 1870 its sun was at noon. We can most
+religion, the thing exists; and in 1870 its sun was at [[Noon|noon]]. We can most
 
 briefly describe it under three heads.
 

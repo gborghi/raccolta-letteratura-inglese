@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 6 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 6 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -40,8 +40,8 @@ miscreants!”
 
 “‘Denouncing a public miscreant—’”—the old lady resumed, “‘to get our
 little affair of business off my mind. I have spoken with my two wards,
-Neville and Helena Landless, on the subject of their defective
-education, and they give in to the plan proposed; as I should have
+Neville and [[Helena Landless]], on the subject of their defective
+[[Education|education]], and they give in to the plan proposed; as I should have
 taken good care they did, whether they liked it or not.’”
 
 “And it is another most extraordinary thing,” remarked the Minor Canon
@@ -52,19 +52,19 @@ dear, for interrupting.”
 
 “‘Therefore, dear Madam, you will please prepare your son, the Rev. Mr.
 Septimus, to expect Neville as an inmate to be read with, on Monday
-next. On the same day Helena will accompany him to Cloisterham, to take
-up her quarters at the Nuns’ House, the establishment recommended by
+next. On the same day [[Helena]] will accompany him to Cloisterham, to take
+up her quarters at the Nuns’ [[house|House]], the establishment recommended by
 yourself and son jointly. Please likewise to prepare for her reception
 and tuition there. The terms in both cases are understood to be exactly
 as stated to me in writing by yourself, when I opened a correspondence
-with you on this subject, after the honour of being introduced to you
-at your sister’s house in town here. With compliments to the Rev. Mr.
+with you on this subject, after the [[Honour|honour]] of being introduced to you
+at your sister’s [[house]] in town here. With compliments to the Rev. Mr.
 Septimus, I am, Dear Madam, Your affectionate brother (In
 Philanthropy), LUKE HONEYTHUNDER.’”
 
-“Well, Ma,” said Septimus, after a little more rubbing of his ear, “we
-must try it. There can be no doubt that we have room for an inmate, and
-that I have time to bestow upon him, and inclination too. I must
+“[[Well]], Ma,” said Septimus, after a little more rubbing of his ear, “we
+must try it. There can be no [[Doubt|doubt]] that we have room for an inmate, and
+that I have [[Time|time]] to bestow upon him, and inclination too. I must
 confess to feeling rather glad that he is not Mr. Honeythunder himself.
 Though that seems wretchedly prejudiced—does it not?—for I never saw
 him. Is he a large man, Ma?”
@@ -84,11 +84,11 @@ Mrs. Crisparkle’s sister, another piece of Dresden china, and matching
 her so neatly that they would have made a delightful pair of ornaments
 for the two ends of any capacious old-fashioned chimneypiece, and by
 right should never have been seen apart, was the childless wife of a
-clergyman holding Corporation preferment in London City. Mr.
+clergyman holding Corporation preferment in [[London]] [[City]]. Mr.
 Honeythunder in his public character of Professor of Philanthropy had
 come to know Mrs. Crisparkle during the last re-matching of the china
 ornaments (in other words during her last annual visit to her sister),
-after a public occasion of a philanthropic nature, when certain devoted
+after a public occasion of a philanthropic [[Nature|nature]], when certain devoted
 orphans of tender years had been glutted with plum buns, and plump
 bumptiousness. These were all the antecedents known in Minor Canon
 Corner of the coming pupils.
@@ -113,25 +113,25 @@ Would eight at a friendly dinner at all put you out, Ma?”
 
 So it was settled that way: and when Mr. Crisparkle called with his
 mother upon Miss Twinkleton, to arrange for the reception of Miss
-Helena Landless at the Nuns’ House, the two other invitations having
+[[Helena Landless]] at the Nuns’ [[house|House]], the two other invitations having
 reference to that establishment were proffered and accepted. Miss
 Twinkleton did, indeed, glance at the globes, as regretting that they
 were not formed to be taken out into society; but became reconciled to
 leaving them behind. Instructions were then despatched to the
-Philanthropist for the departure and arrival, in good time for dinner,
-of Mr. Neville and Miss Helena; and stock for soup became fragrant in
+Philanthropist for the departure and arrival, in good [[Time|time]] for dinner,
+of Mr. Neville and Miss [[Helena]]; and stock for soup became fragrant in
 the air of Minor Canon Corner.
 
 In those days there was no railway to Cloisterham, and Mr. Sapsea said
 there never would be. Mr. Sapsea said more; he said there never should
 be. And yet, marvellous to consider, it has come to pass, in these
 days, that Express Trains don’t think Cloisterham worth stopping at,
-but yell and whirl through it on their larger errands, casting the dust
+but yell and whirl through it on their larger errands, casting the [[Dust|dust]]
 off their wheels as a testimony against its insignificance. Some remote
-fragment of Main Line to somewhere else, there was, which was going to
+[[Fragment|fragment]] of Main Line to somewhere else, there was, which was going to
 ruin the Money Market if it failed, and Church and State if it
 succeeded, and (of course), the Constitution, whether or no; but even
 that had already so unsettled Cloisterham traffic, that the traffic,
-deserting the high road, came sneaking in from an unprecedented part of
+deserting the high [[Road|road]], came sneaking in from an unprecedented part of
 the country by a back stable-way, for many years labelled at the
 corner: “Beware of the Dog.”

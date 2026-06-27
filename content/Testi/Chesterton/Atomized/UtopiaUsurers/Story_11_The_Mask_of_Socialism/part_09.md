@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 9)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -56,7 +56,7 @@ fatigue!"
 
 I do really believe that this is one of the ways in which God (don't get
 
-flurried, Nature if you like) is unexpectedly avenged on things infamous
+flurried, [[Nature]] if you like) is unexpectedly avenged on things infamous
 
 and unreasonable. And this method is that men's moral and even physical
 
@@ -70,15 +70,15 @@ bored with their articles; the point is that they are. The work is done
 
 worse because it is done weakly and without human enthusiasm. And it
 
-is done weakly because of the truth we have told so many times in this
+is done weakly because of the [[Truth|truth]] we have told so many times in this
 
 book: that it is not done for monarchy, for which men will die; or for
 
-democracy, for which men will die; or even for aristocracy, for which
+[[Democracy|democracy]], for which men will die; or even for aristocracy, for which
 
 many men have died. It is done for a thing called Capitalism: which
 
-stands out quite clearly in history in many curious ways. But the most
+stands out quite clearly in [[history]] in many curious ways. But the most
 
 curious thing about it is that no man has loved it; and no man died for
 
@@ -116,7 +116,7 @@ the idea that the responsible person is responsible.
 
 For instance, it is almost specially so with the one or two things in
 
-which the British Government, or the British public, really are behaving
+which the British [[government|Government]], or the British public, really are behaving
 
 badly. The first, and worst of them, is the non-extension of the
 
@@ -136,9 +136,9 @@ Among the rich a bankruptcy may be as safe as a bank. Considering the
 
 class from which private soldiers are taken, there is an atrocious
 
-meanness in the idea of buying their blood abroad, while we sell their
+meanness in the idea of buying their [[Blood|blood]] abroad, while we sell their
 
-sticks at home. The English language, by the way, is full of delicate
+sticks at [[Home|home]]. The English language, by the way, is full of delicate
 
 paradoxes. We talk of the private soldiers because they are really
 
@@ -172,9 +172,9 @@ not believe for a moment that the English people feel any such insane
 
 fastidiousness. Are the English artists who practise the particularly
 
-English art of water-colour to be forbidden to use Prussian blue? Are
+English art of [[Water|water]]-colour to be forbidden to use Prussian blue? Are
 
-all old ladies to shoot their Pomeranian dogs? But though England would
+all old ladies to shoot their Pomeranian [[dogs]]? But though England would
 
 laugh at this, she will get the credit of it, and will continue: until
 

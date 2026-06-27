@@ -16,20 +16,20 @@ tags:
 
 V
 
-The Extraordinary Cabman
+The Extraordinary [[cabman|Cabman]]
 
-From time to time I have introduced into this newspaper
+From [[Time|time]] to [[Time|time]] I have introduced into this newspaper
 column the narration of incidents that have really occurred.
 I do not mean to insinuate that in this respect it stands
-alone among newspaper columns.  I mean only that I have found
-that my meaning was better expressed by some practical parable
+[[Alone|alone]] among newspaper columns.  I mean only that I have found
+that my meaning was better expressed by some practical [[Parable|parable]]
 out of daily life than by any other method; therefore I
-propose to narrate the incident of the extraordinary cabman,
+propose to narrate the incident of the extraordinary [[cabman]],
 which occurred to me only three days ago, and which,
 slight as it apparently is, aroused in me a moment of genuine
-emotion bordering upon despair.
+emotion bordering upon [[Despair|despair]].
 
-On the day that I met the strange cabman I had been lunching
+On the day that I met the strange [[cabman]] I had been lunching
 in a little restaurant in Soho in company with three or four
 of my best friends.  My best friends are all either bottomless
 sceptics or quite uncontrollable believers, so our discussion
@@ -64,18 +64,18 @@ Now when this argument was over, or at least when it was cut short
 (for it will never be over), I went away with one of my companions,
 who in the confusion and comparative insanity of a General Election
 had somehow become a member of Parliament, and I drove with him in a cab
-from the corner of Leicester-square to the members' entrance of the House
+from the corner of Leicester-square to the members' entrance of the [[house|House]]
 of Commons, where the police received me with a quite unusual tolerance.
 Whether they thought that he was my keeper or that I was his keeper
 is a discussion between us which still continues.
 
 It is necessary in this narrative to preserve the utmost exactitude
-of detail.  After leaving my friend at the House I took the cab
+of detail.  After leaving my friend at the [[house|House]] I took the cab
 on a few hundred yards to an office in Victoria-street which I
 had to visit.  I then got out and offered him more than his fare.
-He looked at it, but not with the surly doubt and general
+He looked at it, but not with the surly [[Doubt|doubt]] and general
 disposition to try it on which is not unknown among normal cabmen.
-But this was no normal, perhaps, no human, cabman.  He looked at it
+But this was no normal, perhaps, no human, [[cabman]].  He looked at it
 with a dull and infantile astonishment, clearly quite genuine.
 "Do you know, sir," he said, "you've only given me 1s.8d?"
 I remarked, with some surprise, that I did know it.
@@ -91,23 +91,23 @@ loosening a kind of cataract of scorn, "why we ain't been near
 Leicester-square to-day. You hailed me outside Euston Station,
 and you said----" "Are you mad, or am I?"  I asked with scientific calm.
 
-I looked at the man.  No ordinary dishonest cabman would
+I looked at the man.  No ordinary dishonest [[cabman]] would
 think of creating so solid and colossal and creative a lie.
-And this man was not a dishonest cabman.  If ever a human
+And this man was not a dishonest [[cabman]].  If ever a human
 face was heavy and simple and humble, and with great big
 blue eyes protruding like a frog's, if ever (in short)
 a human face was all that a human face should be,
-it was the face of that resentful and respectful cabman.
+it was the face of that resentful and respectful [[cabman]].
 I looked up and down the street; an unusually dark twilight
 seemed to be coming on.  And for one second the old
-nightmare of the sceptic put its finger on my nerve.
+[[nightmare]] of the sceptic put its finger on my nerve.
 What was certainty?  Was anybody certain of anything?
 Heavens! to think of the dull rut of the sceptics who go
 on asking whether we possess a future life.  The exciting
 question for real scepticism is whether we possess a past life.
 What is a minute ago, rationalistically considered, except a
-tradition and a picture?  The darkness grew deeper from the road.
-The cabman calmly gave me the most elaborate details of the gesture,
+tradition and a picture?  The darkness grew deeper from the [[Road|road]].
+The [[cabman]] calmly gave me the most elaborate details of the gesture,
 the words, the complex but consistent course of action which I
 had adopted since that remarkable occasion when I had hailed
 him outside Euston Station.  How did I know (my sceptical
@@ -115,13 +115,13 @@ friends would say) that I had not hailed him outside Euston.
 I was firm about my assertion; he was quite equally firm about his.
 He was obviously quite as honest a man as I, and a member
 of a much more respectable profession.  In that moment
-the universe and the stars swung just a hair's breadth from
+the universe and the [[Stars|stars]] swung just a hair's breadth from
 their balance, and the foundations of the earth were moved.
-But for the same reason that I believe in Democracy, for the same
+But for the same reason that I believe in [[democracy|Democracy]], for the same
 reason that I believe in free will, for the same reason that I
 believe in fixed character of virtue, the reason that could
 only be expressed by saying that I do not choose to be a lunatic,
-I continued to believe that this honest cabman was wrong,
+I continued to believe that this honest [[cabman]] was wrong,
 and I repeated to him that I had really taken him at the corner
 of Leicester-square. He began with the same evident and
 ponderous sincerity, "You hailed me outside Euston Station,
@@ -133,13 +133,13 @@ as if he had been lit up like a lamp from the inside.
 "Why, I beg your pardon, sir," he said.  "I beg your pardon.
 I beg your pardon.  You took me from Leicester-square. I remember now.
 I beg your pardon."  And with that this astonishing man let out
-his whip with a sharp crack at his horse and went trundling away.
+his whip with a sharp crack at his [[Horse|horse]] and went trundling away.
 The whole of which interview, before the banner of St. George I swear,
 is strictly true.
 
 . . . . .
 
-I looked at the strange cabman as he lessened in the distance
+I looked at the strange [[cabman]] as he lessened in the distance
 and the mists.  I do not know whether I was right in fancying
 that although his face had seemed so honest there was something
 unearthly and demoniac about him when seen from behind.

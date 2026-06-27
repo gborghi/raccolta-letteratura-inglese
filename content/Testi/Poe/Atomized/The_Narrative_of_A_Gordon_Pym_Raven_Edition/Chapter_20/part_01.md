@@ -26,7 +26,7 @@ CHAPTER 20
 
       we had ever seen, and the ducks surpassed our best species of
 
-      wild fowl, being exceedingly tender, juicy, and well-flavoured.
+      wild fowl, being exceedingly tender, juicy, and [[Well|well]]-flavoured.
 
       Besides these, the savages brought us, upon our making them
 
@@ -38,7 +38,7 @@ CHAPTER 20
 
       benefit in restoring those of our men who had shown symptoms of
 
-      disease. In a very short time we had not a single person on the
+      disease. In a very short [[Time|time]] we had not a single person on the
 
       sick-list. We had also plenty of other kinds of fresh provisions,
 
@@ -46,7 +46,7 @@ CHAPTER 20
 
       the mussel in shape, but with the taste of an oyster. Shrimps,
 
-      too, and prawns were abundant, and albatross and other birds’
+      too, and prawns were abundant, and albatross and other [[Birds|birds]]’
 
       eggs with dark shells. We took in, too, a plentiful stock of the
 
@@ -64,7 +64,7 @@ CHAPTER 20
 
       the schooner, where our barterings were carried on with every
 
-      appearance of good faith, and a degree of order which their
+      appearance of good [[Faith|faith]], and a degree of order which their
 
       conduct at the village of _Klock-klock_ had not led us to expect
 
@@ -126,7 +126,7 @@ CHAPTER 20
 
 
 
-      A description of the nature of this important article of
+      A description of the [[Nature|nature]] of this important article of
 
       commerce, and the method of preparing it, may prove of some
 
@@ -136,7 +136,7 @@ CHAPTER 20
 
       comprehensive notice of the substance is taken from a modern
 
-      history of a voyage to the South Seas.
+      [[history]] of a voyage to the South Seas.
 
 
 
@@ -152,11 +152,11 @@ CHAPTER 20
 
       Chinese market, where it commands a great price, perhaps as much
 
-      as their much-talked-of edible birds’ nests, which are properly
+      as their much-talked-of edible [[Birds|birds]]’ nests, which are properly
 
       made up of the gelatinous matter picked up by a species of
 
-      swallow from the body of these molluscae. They have no shell, no
+      [[Swallow|swallow]] from the [[Body|body]] of these molluscae. They have no shell, no
 
       legs, nor any prominent part, except an _absorbing_ and an
 
@@ -164,7 +164,7 @@ CHAPTER 20
 
       caterpillars or worms, they creep in shallow waters, in which,
 
-      when low, they can be seen by a kind of swallow, the sharp bill
+      when low, they can be seen by a kind of [[Swallow|swallow]], the sharp bill
 
       of which, inserted in the soft animal, draws a gummy and
 
@@ -182,15 +182,15 @@ CHAPTER 20
 
       less than two feet long. They were nearly round, a little
 
-      flattish on one side, which lies next to the bottom of the sea;
+      flattish on one side, which lies next to the [[Bottom|bottom]] of the sea;
 
       and they are from one to eight inches thick. They crawl up into
 
-      shallow water at particular seasons of the year, probably for the
+      shallow [[Water|water]] at particular [[Seasons|seasons]] of the year, probably for the
 
       purpose of gendering, as we often find them in pairs. It is when
 
-      the sun has the most power on the water, rendering it tepid, that
+      the sun has the most power on the [[Water|water]], rendering it tepid, that
 
       they approach the shore; and they often go up into places so
 
@@ -198,8 +198,8 @@ CHAPTER 20
 
       to the beat of the sun. But they do not bring forth their young
 
-      in shallow water, as we never see any of their progeny, and
+      in shallow [[Water|water]], as we never see any of their progeny, and
 
-      full-grown ones are always observed coming in from deep water.
+      full-grown ones are always observed coming in from deep [[Water|water]].
 
       They feed principally on that class of zoophytes which produce

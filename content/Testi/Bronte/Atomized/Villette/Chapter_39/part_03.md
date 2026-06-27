@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 37 (part 3)"
+title: "[[Villette]] — Chapter 37 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -16,24 +16,24 @@ tags:
 
 “You touch me there,” said he.
 
-“Look at the aristocracy of Villette—you would not like them, sir?”
+“Look at the aristocracy of [[Villette]]—you would not like them, sir?”
 
 “I should not—never a duc, baron, or vicomte of the lot.”
 
 “I am told many of these persons think about her, sir,” I went on,
-gaining courage on finding that I met attention rather than repulse.
+gaining [[Courage|courage]] on finding that I met attention rather than repulse.
 “Other suitors will come, therefore, if Dr. Bretton is refused.
 Wherever you go, I suppose, aspirants will not be wanting. Independent
-of heiress-ship, it appears to me that Paulina charms most of those who
+of heiress-[[Ship|ship]], it appears to me that [[Paulina]] charms most of those who
 see her.”
 
-“Does she? How? My little girl is not thought a beauty.”
+“Does she? How? My little girl is not thought a [[Beauty|beauty]].”
 
 “Sir, Miss de Bassompierre is very beautiful.”
 
 “Nonsense!—begging your pardon, Miss Snowe, but I think you are too
 partial. I like Polly: I like all her ways and all her looks—but then I
-am her father; and even I never thought about beauty. She is amusing,
+am her father; and even I never thought about [[Beauty|beauty]]. She is amusing,
 fairy-like, interesting to me;—you must be mistaken in supposing her
 handsome?”
 
@@ -61,18 +61,18 @@ its womanliness made me smile.”
 drawing-room?”
 
 “I did; but I thought it was by way of relaxation—as one might amuse
-one’s self with a pretty infant.”
+one’s [[Self|self]] with a pretty infant.”
 
 “Sir, she demeaned herself with distinction; and I heard the French
 gentlemen say she was ‘pétrie d’esprit et de graces.’ Dr. Bretton
 thought the same.”
 
-“She is a good, dear child, that is certain; and I _do_ believe she has
+“She is a good, dear [[Child|child]], that is certain; and I _do_ believe she has
 some character. When I think of it, I was once ill; Polly nursed me;
 they thought I should die; she, I recollect, grew at once stronger and
 tenderer as I grew worse in health. And as I recovered, what a sunbeam
 she was in my sick-room! Yes; she played about my chair as noiselessly
-and as cheerful as light. And now she is sought in marriage! I don’t
+and as cheerful as light. And now she is sought in [[Marriage|marriage]]! I don’t
 want to part with her,” said he, and he groaned.
 
 “You have known Dr. and Mrs. Bretton so long,” I suggested, “it would
@@ -82,32 +82,32 @@ He reflected rather gloomily.
 
 “True. I have long known Louisa Bretton,” he murmured. “She and I are
 indeed old, old friends; a sweet, kind girl she was when she was young.
-You talk of beauty, Miss Snowe! _she_ was handsome, if you will—tall,
-straight, and blooming—not the mere child or elf my Polly seems to me:
+You talk of [[Beauty|beauty]], Miss Snowe! _she_ was handsome, if you will—tall,
+straight, and blooming—not the mere [[Child|child]] or elf my Polly seems to me:
 at eighteen, Louisa had a carriage and stature fit for a princess. She
 is a comely and a good woman now. The lad is like her; I have always
-thought so, and favoured and wished him well. Now he repays me by this
-robbery! My little treasure used to love her old father dearly and
+thought so, and favoured and wished him [[Well|well]]. Now he repays me by this
+robbery! My little treasure used to [[Love|love]] her old father dearly and
 truly. It is all over now, doubtless—I am an incumbrance.”
 
 The door opened—his “little treasure” came in. She was dressed, so to
-speak, in evening beauty; that animation which sometimes comes with the
-close of day, warmed her eye and cheek; a tinge of summer crimson
+speak, in evening [[Beauty|beauty]]; that animation which sometimes comes with the
+close of day, warmed her eye and cheek; a tinge of [[Summer|summer]] crimson
 heightened her complexion; her curls fell full and long on her lily
-neck; her white dress suited the heat of June. Thinking me alone, she
+neck; her white dress suited the heat of June. Thinking me [[Alone|alone]], she
 had brought in her hand the letter just written—brought it folded but
 unsealed. I was to read it. When she saw her father, her tripping step
 faltered a little, paused a moment—the colour in her cheek flowed rosy
 over her whole face.
 
-“Polly,” said M. de Bassompierre, in a low voice, with a grave smile,
+“Polly,” said M. de Bassompierre, in a low voice, with a [[Grave|grave]] smile,
 “do you blush at seeing papa? That is something new.”
 
 “I don’t blush—I never _do_ blush,” affirmed she, while another eddy
 from the heart sent up its scarlet. “But I thought you were in the
 dining-room, and I wanted Lucy.”
 
-“You thought I was with John Graham Bretton, I suppose? But he has just
+“You thought I was with John [[Graham Bretton]], I suppose? But he has just
 been called out: he will be back soon, Polly. He can post your letter
 for you; it will save Matthieu a ‘course,’ as he calls it.”
 
@@ -134,15 +134,15 @@ just to satisfy.”
 
 “No, papa—not Mrs. Bretton.”
 
-“Who, then, my little daughter? Tell papa the truth.”
+“Who, then, my little daughter? Tell papa the [[Truth|truth]].”
 
 “Oh, papa!” she cried with earnestness, “I will—I _will_ tell you the
-truth—all the truth; I am glad to tell you—glad, though I tremble.”
+[[Truth|truth]]—all the [[Truth|truth]]; I am glad to tell you—glad, though I tremble.”
 
 She _did_ tremble: growing excitement, kindling feeling, and also
-gathering courage, shook her.
+gathering [[Courage|courage]], shook her.
 
-“I hate to hide my actions from you, papa. I fear you and love you
+“I hate to hide my actions from you, papa. I [[Fear|fear]] you and [[Love|love]] you
 above everything but God. Read the letter; look at the address.”
 
 She laid it on his knee. He took it up and read it through; his hand
@@ -154,9 +154,9 @@ amaze.
 “Can _she_ write so—the little thing that stood at my knee but
 yesterday? Can she feel so?”
 
-“Papa, is it wrong? Does it pain you?”
+“Papa, is it wrong? Does it [[Pain|pain]] you?”
 
-“There is nothing wrong in it, my innocent little Mary; but it pains
+“There is nothing wrong in it, my [[Innocent|innocent]] little Mary; but it pains
 me.”
 
 “But, papa, listen! You shall not be pained by me. I would give up

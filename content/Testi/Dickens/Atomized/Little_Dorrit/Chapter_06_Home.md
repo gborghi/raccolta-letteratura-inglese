@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 3: Home"
+title: "Little Dorrit — Chapter 3: [[Home]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-CHAPTER 3. Home
+CHAPTER 3. [[Home]]
 
 
-It was a Sunday evening in London, gloomy, close, and stale. Maddening
-church bells of all degrees of dissonance, sharp and flat, cracked
+It was a [[Sunday]] evening in [[London]], gloomy, close, and stale. Maddening
+church [[Bells|bells]] of all degrees of dissonance, sharp and flat, cracked
 and clear, fast and slow, made the brick-and-mortar echoes hideous.
-Melancholy streets, in a penitential garb of soot, steeped the souls of
+[[Melancholy]] streets, in a penitential garb of soot, steeped the souls of
 the people who were condemned to look at them out of windows, in dire
 despondency. In every thoroughfare, up almost every alley, and down
 almost every turning, some doleful bell was throbbing, jerking, tolling,
-as if the Plague were in the city and the dead-carts were going round.
+as if the Plague were in the [[City|city]] and the dead-carts were going round.
 Everything was bolted and barred that could by possibility furnish
-relief to an overworked people. No pictures, no unfamiliar animals, no
-rare plants or flowers, no natural or artificial wonders of the ancient
+relief to an overworked people. No pictures, no unfamiliar [[Animals|animals]], no
+rare plants or [[Flowers|flowers]], no natural or artificial wonders of the ancient
 world--all _taboo_ with that enlightened strictness, that the ugly South
-Sea gods in the British Museum might have supposed themselves at home
+Sea gods in the British Museum might have supposed themselves at [[Home|home]]
 again. Nothing to see but streets, streets, streets. Nothing to breathe
 but streets, streets, streets. Nothing to change the brooding mind,
 or raise it up. Nothing for the spent toiler to do, but to compare the
@@ -37,40 +37,40 @@ monotony of his seventh day with the monotony of his six days, think
 what a weary life he led, and make the best of it--or the worst,
 according to the probabilities.
 
-At such a happy time, so propitious to the interests of religion and
-morality, Mr Arthur Clennam, newly arrived from Marseilles by way of
-Dover, and by Dover coach the Blue-eyed Maid, sat in the window of a
-coffee-house on Ludgate Hill. Ten thousand responsible houses surrounded
+At such a happy [[Time|time]], so propitious to the interests of religion and
+[[morality]], Mr [[Arthur Clennam]], newly arrived from Marseilles by way of
+Dover, and by Dover coach the Blue-eyed Maid, sat in the [[Window|window]] of a
+coffee-[[house]] on Ludgate [[Hill]]. Ten thousand responsible houses surrounded
 him, frowning as heavily on the streets they composed, as if they were
 every one inhabited by the ten young men of the Calender’s story, who
-blackened their faces and bemoaned their miseries every night. Fifty
+blackened their faces and bemoaned their miseries every [[Night|night]]. Fifty
 thousand lairs surrounded him where people lived so unwholesomely that
-fair water put into their crowded rooms on Saturday night, would be
-corrupt on Sunday morning; albeit my lord, their county member, was
-amazed that they failed to sleep in company with their butcher’s meat.
+fair [[Water|water]] put into their crowded rooms on Saturday [[Night|night]], would be
+corrupt on [[Sunday]] morning; albeit my lord, their county member, was
+amazed that they failed to [[Sleep|sleep]] in company with their butcher’s meat.
 Miles of close wells and pits of houses, where the inhabitants gasped
 for air, stretched far away towards every point of the compass. Through
 the heart of the town a deadly sewer ebbed and flowed, in the place of
-a fine fresh river. What secular want could the million or so of
+a fine fresh [[River|river]]. What secular want could the million or so of
 human beings whose daily labour, six days in the week, lay among these
 Arcadian objects, from the sweet sameness of which they had no escape
-between the cradle and the grave--what secular want could they possibly
+between the cradle and the [[Grave|grave]]--what secular want could they possibly
 have upon their seventh day? Clearly they could want nothing but a
 stringent policeman.
 
-Mr Arthur Clennam sat in the window of the coffee-house on Ludgate Hill,
-counting one of the neighbouring bells, making sentences and burdens of
-songs out of it in spite of himself, and wondering how many sick
-people it might be the death of in the course of the year. As the hour
+Mr [[Arthur Clennam]] sat in the [[Window|window]] of the coffee-[[house]] on Ludgate [[Hill]],
+counting one of the neighbouring [[Bells|bells]], making sentences and burdens of
+[[songs]] out of it in spite of himself, and wondering how many sick
+people it might be the [[Death|death]] of in the course of the year. As the hour
 approached, its changes of measure made it more and more exasperating.
 At the quarter, it went off into a condition of deadly-lively
 importunity, urging the populace in a voluble manner to Come to church,
 Come to church, Come to church! At the ten minutes, it became aware
 that the congregation would be scanty, and slowly hammered out in low
 spirits, They _won’t_ come, they _won’t_ come, they _won’t_ come! At the
-five minutes, it abandoned hope, and shook every house in the
+five minutes, it abandoned [[Hope|hope]], and shook every [[house]] in the
 neighbourhood for three hundred seconds, with one dismal swing per
-second, as a groan of despair.
+second, as a groan of [[Despair|despair]].
 
 ‘Thank Heaven!’ said Clennam, when the hour struck, and the bell
 stopped.
@@ -80,28 +80,28 @@ procession would not stop with the bell, but continued to march on.
 ‘Heaven forgive me,’ said he, ‘and those who trained me. How I have
 hated this day!’
 
-There was the dreary Sunday of his childhood, when he sat with his hands
+There was the dreary [[Sunday]] of his [[Childhood|childhood]], when he sat with his hands
 before him, scared out of his senses by a horrible tract which commenced
-business with the poor child by asking him in its title, why he was
+business with the poor [[Child|child]] by asking him in its title, why he was
 going to Perdition?--a piece of curiosity that he really, in a frock and
 drawers, was not in a condition to satisfy--and which, for the further
 attraction of his infant mind, had a parenthesis in every other line
 with some such hiccupping reference as 2 Ep. Thess. c. iii, v. 6 &
-7. There was the sleepy Sunday of his boyhood, when, like a military
+7. There was the sleepy [[Sunday]] of his boyhood, when, like a military
 deserter, he was marched to chapel by a picquet of teachers three times
 a day, morally handcuffed to another boy; and when he would willingly
 have bartered two meals of indigestible sermon for another ounce or
 two of inferior mutton at his scanty dinner in the flesh. There was the
-interminable Sunday of his nonage; when his mother, stern of face and
-unrelenting of heart, would sit all day behind a Bible--bound, like her
+interminable [[Sunday]] of his nonage; when his mother, stern of face and
+unrelenting of heart, would sit all day behind a [[Bible]]--bound, like her
 own construction of it, in the hardest, barest, and straitest boards,
 with one dinted ornament on the cover like the drag of a chain, and a
-wrathful sprinkling of red upon the edges of the leaves--as if it, of
+wrathful sprinkling of red upon the edges of the [[Leaves|leaves]]--as if it, of
 all books! were a fortification against sweetness of temper, natural
-affection, and gentle intercourse. There was the resentful Sunday of a
+affection, and gentle intercourse. There was the resentful [[Sunday]] of a
 little later, when he sat down glowering and glooming through the tardy
 length of the day, with a sullen sense of injury in his heart, and no
-more real knowledge of the beneficent history of the New Testament than
+more real knowledge of the beneficent [[history]] of the New Testament than
 if he had been bred among idolaters. There was a legion of Sundays,
 all days of unserviceable bitterness and mortification, slowly passing
 before him.
@@ -114,16 +114,16 @@ bed-room?’
 ‘Chaymaid!’ cried the waiter. ‘Gelen box num seven wish see room!’
 
 ‘Stay!’ said Clennam, rousing himself. ‘I was not thinking of what I
-said; I answered mechanically. I am not going to sleep here. I am going
-home.’
+said; I answered mechanically. I am not going to [[Sleep|sleep]] here. I am going
+[[Home|home]].’
 
-‘Deed, sir? Chaymaid! Gelen box num seven, not go sleep here, gome.’
+‘Deed, sir? Chaymaid! Gelen box num seven, not go [[Sleep|sleep]] here, gome.’
 
 He sat in the same place as the day died, looking at the dull houses
 opposite, and thinking, if the disembodied spirits of former inhabitants
 were ever conscious of them, how they must pity themselves for their old
-places of imprisonment. Sometimes a face would appear behind the dingy
-glass of a window, and would fade away into the gloom as if it had seen
+places of [[Imprisonment|imprisonment]]. Sometimes a face would appear behind the dingy
+glass of a [[Window|window]], and would fade away into the gloom as if it had seen
 enough of life and had vanished out of it. Presently the rain began to
 fall in slanting lines between him and those houses, and people began
 to collect under cover of the public passage opposite, and to look out
@@ -136,27 +136,27 @@ going his rounds now; and as the fiery jets sprang up under his touch,
 one might have fancied them astonished at being suffered to introduce
 any show of brightness into such a dismal scene.
 
-Mr Arthur Clennam took up his hat and buttoned his coat, and walked out.
+Mr [[Arthur Clennam]] took up his hat and buttoned his coat, and walked out.
 In the country, the rain would have developed a thousand fresh scents,
 and every drop would have had its bright association with some beautiful
-form of growth or life. In the city, it developed only foul stale
+form of growth or life. In the [[City|city]], it developed only foul stale
 smells, and was a sickly, lukewarm, dirt-stained, wretched addition to
 the gutters.
 
 He crossed by St Paul’s and went down, at a long angle, almost to the
-water’s edge, through some of the crooked and descending streets which
-lie (and lay more crookedly and closely then) between the river and
+[[Water|water]]’s edge, through some of the crooked and descending streets which
+lie (and lay more crookedly and closely then) between the [[River|river]] and
 Cheapside. Passing, now the mouldy hall of some obsolete Worshipful
 Company, now the illuminated windows of a Congregationless Church that
 seemed to be waiting for some adventurous Belzoni to dig it out and
-discover its history; passing silent warehouses and wharves, and here
-and there a narrow alley leading to the river, where a wretched little
+discover its [[history]]; passing silent warehouses and wharves, and here
+and there a narrow alley leading to the [[River|river]], where a wretched little
 bill, FOUND DROWNED, was weeping on the wet wall; he came at last to the
-house he sought. An old brick house, so dingy as to be all but black,
-standing by itself within a gateway. Before it, a square court-yard
+[[house]] he sought. An old brick [[house]], so dingy as to be all but black,
+standing by itself within a gateway. Before it, a square [[Court|court]]-yard
 where a shrub or two and a patch of grass were as rank (which is saying
 much) as the iron railings enclosing them were rusty; behind it,
-a jumble of roots. It was a double house, with long, narrow,
+a jumble of roots. It was a [[Double|double]] [[house]], with long, narrow,
 heavily-framed windows. Many years ago, it had had it in its mind to
 slide down sideways; it had been propped up, however, and was leaning on
 some half-dozen gigantic crutches: which gymnasium for the neighbouring
@@ -164,21 +164,21 @@ cats, weather-stained, smoke-blackened, and overgrown with weeds,
 appeared in these latter days to be no very sure reliance.
 
 ‘Nothing changed,’ said the traveller, stopping to look round. ‘Dark and
-miserable as ever. A light in my mother’s window, which seems never to
-have been extinguished since I came home twice a year from school, and
-dragged my box over this pavement. Well, well, well!’
+miserable as ever. A light in my mother’s [[Window|window]], which seems never to
+have been extinguished since I came [[Home|home]] twice a year from school, and
+dragged my box over this pavement. [[Well]], [[Well|well]], [[Well|well]]!’
 
 He went up to the door, which had a projecting canopy in carved work
-of festooned jack-towels and children’s heads with water on the brain,
+of festooned jack-towels and children’s heads with [[Water|water]] on the brain,
 designed after a once-popular monumental pattern, and knocked. A
 shuffling step was soon heard on the stone floor of the hall, and the
 door was opened by an old man, bent and dried, but with keen eyes.
 
 He had a candle in his hand, and he held it up for a moment to assist
-his keen eyes. ‘Ah, Mr Arthur?’ he said, without any emotion, ‘you are
+his keen eyes. ‘Ah, Mr [[arthur|Arthur]]?’ he said, without any emotion, ‘you are
 come at last? Step in.’
 
-Mr Arthur stepped in and shut the door.
+Mr [[arthur|Arthur]] stepped in and shut the door.
 
 ‘Your figure is filled out, and set,’ said the old man, turning to look
 at him with the light raised again, and shaking his head; ‘but you don’t
@@ -188,15 +188,15 @@ come up to your father in my opinion. Nor yet your mother.’
 
 ‘She is as she always is now. Keeps her room when not actually
 bedridden, and hasn’t been out of it fifteen times in as many years,
-Arthur.’ They had walked into a spare, meagre dining-room. The old man
+[[arthur|Arthur]].’ They had walked into a spare, meagre dining-room. The old man
 had put the candlestick upon the table, and, supporting his right elbow
 with his left hand, was smoothing his leathern jaws while he looked at
 the visitor. The visitor offered his hand. The old man took it coldly
 enough, and seemed to prefer his jaws, to which he returned as soon as
 he could.
 
-‘I doubt if your mother will approve of your coming home on the Sabbath,
-Arthur,’ he said, shaking his head warily.
+‘I [[Doubt|doubt]] if your mother will approve of your coming [[Home|home]] on the Sabbath,
+[[arthur|Arthur]],’ he said, shaking his head warily.
 
 ‘You wouldn’t have me go away again?’
 
@@ -204,10 +204,10 @@ Arthur,’ he said, shaking his head warily.
 stood between your father and mother for a number of years. I don’t
 pretend to stand between your mother and you.’
 
-‘Will you tell her that I have come home?’
+‘Will you tell her that I have come [[Home|home]]?’
 
-‘Yes, Arthur, yes. Oh, to be sure! I’ll tell her that you have come
-home. Please to wait here. You won’t find the room changed.’ He took
+‘Yes, [[arthur|Arthur]], yes. Oh, to be sure! I’ll tell her that you have come
+[[Home|home]]. Please to wait here. You won’t find the room changed.’ He took
 another candle from a cupboard, lighted it, left the first on the table,
 and went upon his errand. He was a short, bald old man, in a
 high-shouldered black coat and waistcoat, drab breeches, and long drab
@@ -217,62 +217,62 @@ of decoration but a watch, which was lowered into the depths of its
 proper pocket by an old black ribbon, and had a tarnished copper key
 moored above it, to show where it was sunk. His head was awry, and
 he had a one-sided, crab-like way with him, as if his foundations had
-yielded at about the same time as those of the house, and he ought to
+yielded at about the same [[Time|time]] as those of the [[house]], and he ought to
 have been propped up in a similar manner.
 
-‘How weak am I,’ said Arthur Clennam, when he was gone, ‘that I could
-shed tears at this reception! I, who have never experienced anything
+‘How weak am I,’ said [[Arthur Clennam]], when he was gone, ‘that I could
+shed [[Tears|tears]] at this reception! I, who have never experienced anything
 else; who have never expected anything else.’
 
-He not only could, but did. It was the momentary yielding of a nature
-that had been disappointed from the dawn of its perceptions, but had not
+He not only could, but did. It was the momentary yielding of a [[Nature|nature]]
+that had been disappointed from the [[Dawn|dawn]] of its perceptions, but had not
 quite given up all its hopeful yearnings yet. He subdued it, took up the
 candle, and examined the room. The old articles of furniture were in
-their old places; the Plagues of Egypt, much the dimmer for the fly and
-smoke plagues of London, were framed and glazed upon the walls. There
+their old places; the Plagues of [[Egypt]], much the dimmer for the fly and
+smoke plagues of [[London]], were framed and glazed upon the walls. There
 was the old cellaret with nothing in it, lined with lead, like a sort of
 coffin in compartments; there was the old dark closet, also with nothing
-in it, of which he had been many a time the sole contents, in days of
+in it, of which he had been many a [[Time|time]] the sole contents, in days of
 punishment, when he had regarded it as the veritable entrance to that
 bourne to which the tract had found him galloping. There was the large,
-hard-featured clock on the sideboard, which he used to see bending its
+hard-featured [[Clock|clock]] on the sideboard, which he used to see bending its
 figured brows upon him with a savage joy when he was behind-hand with
 his lessons, and which, when it was wound up once a week with an iron
 handle, used to sound as if it were growling in ferocious anticipation
 of the miseries into which it would bring him. But here was the old man
-come back, saying, ‘Arthur, I’ll go before and light you.’
+come back, saying, ‘[[arthur|Arthur]], I’ll go before and light you.’
 
-Arthur followed him up the staircase, which was panelled off into spaces
+[[arthur|Arthur]] followed him up the staircase, which was panelled off into spaces
 like so many mourning tablets, into a dim bed-chamber, the floor of
-which had gradually so sunk and settled, that the fire-place was in a
+which had gradually so sunk and settled, that the [[Fire|fire]]-place was in a
 dell. On a black bier-like sofa in this hollow, propped up behind with
 one great angular black bolster like the block at a state execution in
 the good old times, sat his mother in a widow’s dress.
 
 She and his father had been at variance from his earliest remembrance.
-To sit speechless himself in the midst of rigid silence, glancing in
+To sit speechless himself in the midst of rigid [[Silence|silence]], glancing in
 dread from the one averted face to the other, had been the peacefullest
-occupation of his childhood. She gave him one glassy kiss, and four
+occupation of his [[Childhood|childhood]]. She gave him one glassy kiss, and four
 stiff fingers muffled in worsted. This embrace concluded, he sat down on
-the opposite side of her little table. There was a fire in the grate,
-as there had been night and day for fifteen years. There was a kettle on
-the hob, as there had been night and day for fifteen years. There was a
-little mound of damped ashes on the top of the fire, and another little
-mound swept together under the grate, as there had been night and day
+the opposite side of her little table. There was a [[Fire|fire]] in the grate,
+as there had been [[Night|night]] and day for fifteen years. There was a kettle on
+the hob, as there had been [[Night|night]] and day for fifteen years. There was a
+little mound of damped ashes on the top of the [[Fire|fire]], and another little
+mound swept together under the grate, as there had been [[Night|night]] and day
 for fifteen years. There was a smell of black dye in the airless room,
-which the fire had been drawing out of the crape and stuff of the
+which the [[Fire|fire]] had been drawing out of the crape and stuff of the
 widow’s dress for fifteen months, and out of the bier-like sofa for
 fifteen years.
 
 ‘Mother, this is a change from your old active habits.’
 
-‘The world has narrowed to these dimensions, Arthur,’ she replied,
-glancing round the room. ‘It is well for me that I never set my heart
+‘The world has narrowed to these dimensions, [[arthur|Arthur]],’ she replied,
+glancing round the room. ‘It is [[Well|well]] for me that I never set my heart
 upon its hollow vanities.’
 
 The old influence of her presence and her stern strong voice, so
 gathered about her son, that he felt conscious of a renewal of the timid
-chill and reserve of his childhood.
+chill and reserve of his [[Childhood|childhood]].
 
 ‘Do you never leave your room, mother?’
 
@@ -284,38 +284,38 @@ for--tell him for how long,’ she said, speaking over her shoulder.
 ‘A dozen year next Christmas,’ returned a cracked voice out of the
 dimness behind.
 
-‘Is that Affery?’ said Arthur, looking towards it.
+‘Is that Affery?’ said [[arthur|Arthur]], looking towards it.
 
 The cracked voice replied that it was Affery: and an old woman came
 forward into what doubtful light there was, and kissed her hand once;
 then subsided again into the dimness.
 
-‘I am able,’ said Mrs Clennam, with a slight motion of her
+‘I am able,’ said [[Mrs Clennam]], with a slight motion of her
 worsted-muffled right hand toward a chair on wheels, standing before a
 tall writing cabinet close shut up, ‘I am able to attend to my business
 duties, and I am thankful for the privilege. It is a great privilege.
-But no more of business on this day. It is a bad night, is it not?’
+But no more of business on this day. It is a bad [[Night|night]], is it not?’
 
 ‘Yes, mother.’
 
-‘Does it snow?’
+‘Does it [[Snow|snow]]?’
 
-‘Snow, mother? And we only yet in September?’
+‘[[Snow]], mother? And we only yet in September?’
 
-‘All seasons are alike to me,’ she returned, with a grim kind of
-luxuriousness. ‘I know nothing of summer and winter, shut up here.
+‘All [[Seasons|seasons]] are alike to me,’ she returned, with a grim kind of
+luxuriousness. ‘I know nothing of [[Summer|summer]] and [[Winter|winter]], shut up here.
 The Lord has been pleased to put me beyond all that.’ With her cold grey
 eyes and her cold grey hair, and her immovable face, as stiff as the
 folds of her stony head-dress,--her being beyond the reach of the
-seasons seemed but a fit sequence to her being beyond the reach of all
+[[Seasons|seasons]] seemed but a fit sequence to her being beyond the reach of all
 changing emotions.
 
 On her little table lay two or three books, her handkerchief, a pair of
 steel spectacles newly taken off, and an old-fashioned gold watch in a
-heavy double case. Upon this last object her son’s eyes and her own now
+heavy [[Double|double]] case. Upon this last object her son’s eyes and her own now
 rested together.
 
-‘I see that you received the packet I sent you on my father’s death,
+‘I see that you received the packet I sent you on my father’s [[Death|death]],
 safely, mother.’
 
 ‘You see.’
@@ -328,65 +328,65 @@ his watch should be sent straight to you.’
 ‘It was not until the last, that he expressed the wish; when he could
 only put his hand upon it, and very indistinctly say to me “your
 mother.” A moment before, I thought him wandering in his mind, as he
-had been for many hours--I think he had no consciousness of pain in his
+had been for many hours--I think he had no consciousness of [[Pain|pain]] in his
 short illness--when I saw him turn himself in his bed and try to open
 it.’
 
 ‘Was your father, then, not wandering in his mind when he tried to open
 it?’
 
-‘No. He was quite sensible at that time.’
+‘No. He was quite sensible at that [[Time|time]].’
 
-Mrs Clennam shook her head; whether in dismissal of the deceased or
+[[Mrs Clennam]] shook her head; whether in dismissal of the deceased or
 opposing herself to her son’s opinion, was not clearly expressed.
 
-‘After my father’s death I opened it myself, thinking there might be,
+‘After my father’s [[Death|death]] I opened it myself, thinking there might be,
 for anything I knew, some memorandum there. However, as I need not tell
 you, mother, there was nothing but the old silk watch-paper worked in
-beads, which you found (no doubt) in its place between the cases, where
+beads, which you found (no [[Doubt|doubt]]) in its place between the cases, where
 I found and left it.’
 
-Mrs Clennam signified assent; then added, ‘No more of business on this
-day,’ and then added, ‘Affery, it is nine o’clock.’
+[[Mrs Clennam]] signified assent; then added, ‘No more of business on this
+day,’ and then added, ‘Affery, it is nine o’[[Clock|clock]].’
 
 Upon this, the old woman cleared the little table, went out of the room,
 and quickly returned with a tray on which was a dish of little rusks and
 a small precise pat of butter, cool, symmetrical, white, and plump. The
 old man who had been standing by the door in one attitude during the
 whole interview, looking at the mother up-stairs as he had looked at the
-son down-stairs, went out at the same time, and, after a longer absence,
+son down-stairs, went out at the same [[Time|time]], and, after a longer absence,
 returned with another tray on which was the greater part of a bottle
 of port wine (which, to judge by his panting, he had brought from the
 cellar), a lemon, a sugar-basin, and a spice box. With these materials
 and the aid of the kettle, he filled a tumbler with a hot and
 odorous mixture, measured out and compounded with as much nicety as a
-physician’s prescription. Into this mixture Mrs Clennam dipped certain
+physician’s prescription. Into this mixture [[Mrs Clennam]] dipped certain
 of the rusks, and ate them; while the old woman buttered certain other
-of the rusks, which were to be eaten alone. When the invalid had eaten
+of the rusks, which were to be eaten [[Alone|alone]]. When the invalid had eaten
 all the rusks and drunk all the mixture, the two trays were removed;
 and the books and the candle, watch, handkerchief, and spectacles were
 replaced upon the table. She then put on the spectacles and read certain
 passages aloud from a book--sternly, fiercely, wrathfully--praying that
 her enemies (she made them by her tone and manner expressly hers) might
-be put to the edge of the sword, consumed by fire, smitten by plagues
-and leprosy, that their bones might be ground to dust, and that they
+be put to the edge of the [[Sword|sword]], consumed by [[Fire|fire]], smitten by plagues
+and leprosy, that their bones might be ground to [[Dust|dust]], and that they
 might be utterly exterminated. As she read on, years seemed to fall
-away from her son like the imaginings of a dream, and all the old dark
-horrors of his usual preparation for the sleep of an innocent child to
+away from her son like the imaginings of [[A Dream|a dream]], and all the old dark
+horrors of his usual preparation for the [[Sleep|sleep]] of an [[Innocent|innocent]] [[Child|child]] to
 overshadow him.
 
-She shut the book and remained for a little time with her face shaded by
+She shut the book and remained for a little [[Time|time]] with her face shaded by
 her hand. So did the old man, otherwise still unchanged in attitude; so,
 probably, did the old woman in her dimmer part of the room. Then the
 sick woman was ready for bed.
 
-‘Good night, Arthur. Affery will see to your accommodation. Only touch
+‘Good [[Night|night]], [[arthur|Arthur]]. Affery will see to your accommodation. Only touch
 me, for my hand is tender.’ He touched the worsted muffling of her
 hand--that was nothing; if his mother had been sheathed in brass there
 would have been no new barrier between them--and followed the old man
 and woman down-stairs.
 
-The latter asked him, when they were alone together among the heavy
+The latter asked him, when they were [[Alone|alone]] together among the heavy
 shadows of the dining-room, would he have some supper?
 
 ‘No, Affery, no supper.’
@@ -402,13 +402,13 @@ to bring it you.’
 
 No; nor would he have that, either.
 
-‘It’s no reason, Arthur,’ said the old woman, bending over him to
+‘It’s no reason, [[arthur|Arthur]],’ said the old woman, bending over him to
 whisper, ‘that because I am afeared of my life of ‘em, you should be.
 You’ve got half the property, haven’t you?’
 
 ‘Yes, yes.’
 
-‘Well then, don’t you be cowed. You’re clever, Arthur, an’t you?’
+‘[[Well]] then, don’t you be cowed. You’re clever, [[arthur|Arthur]], an’t you?’
 
 He nodded, as she seemed to expect an answer in the affirmative.
 
@@ -425,33 +425,33 @@ be but a clever one to do that!’
 His shuffling footstep coming towards them caused her to retreat to the
 other end of the room. Though a tall, hard-favoured, sinewy old woman,
 who in her youth might have enlisted in the Foot Guards without much
-fear of discovery, she collapsed before the little keen-eyed crab-like
+[[Fear|fear]] of discovery, she collapsed before the little keen-eyed crab-like
 old man.
 
 ‘Now, Affery,’ said he, ‘now, woman, what are you doing? Can’t you find
-Master Arthur something or another to pick at?’
+Master [[arthur|Arthur]] something or another to pick at?’
 
-Master Arthur repeated his recent refusal to pick at anything.
+Master [[arthur|Arthur]] repeated his recent refusal to pick at anything.
 
-‘Very well, then,’ said the old man; ‘make his bed. Stir yourself.’ His
+‘Very [[Well|well]], then,’ said the old man; ‘make his bed. Stir yourself.’ His
 neck was so twisted that the knotted ends of his white cravat usually
 dangled under one ear; his natural acerbity and energy, always
-contending with a second nature of habitual repression, gave his
+contending with a second [[Nature|nature]] of habitual repression, gave his
 features a swollen and suffused look; and altogether, he had a weird
-appearance of having hanged himself at one time or other, and of having
+appearance of having hanged himself at one [[Time|time]] or other, and of having
 gone about ever since, halter and all, exactly as some timely hand had
 cut him down.
 
-‘You’ll have bitter words together to-morrow, Arthur; you and your
+‘You’ll have bitter words together to-morrow, [[arthur|Arthur]]; you and your
 mother,’ said Jeremiah. ‘Your having given up the business on your
-father’s death--which she suspects, though we have left it to you to
+father’s [[Death|death]]--which she suspects, though we have left it to you to
 tell her--won’t go off smoothly.’
 
-‘I have given up everything in life for the business, and the time came
+‘I have given up everything in life for the business, and the [[Time|time]] came
 for me to give up that.’
 
 ‘Good!’ cried Jeremiah, evidently meaning Bad. ‘Very good! only don’t
-expect me to stand between your mother and you, Arthur. I stood between
+expect me to stand between your mother and you, [[arthur|Arthur]]. I stood between
 your mother and your father, fending off this, and fending off that, and
 getting crushed and pounded betwixt em; and I’ve done with such work.’
 
@@ -459,28 +459,28 @@ getting crushed and pounded betwixt em; and I’ve done with such work.’
 
 ‘Good. I’m glad to hear it; because I should have had to decline it, if
 I had been. That’s enough--as your mother says--and more than enough of
-such matters on a Sabbath night. Affery, woman, have you found what you
+such matters on a Sabbath [[Night|night]]. Affery, woman, have you found what you
 want yet?’
 
 She had been collecting sheets and blankets from a press, and hastened
-to gather them up, and to reply, ‘Yes, Jeremiah.’ Arthur Clennam helped
-her by carrying the load himself, wished the old man good night, and
-went up-stairs with her to the top of the house.
+to gather them up, and to reply, ‘Yes, Jeremiah.’ [[Arthur Clennam]] helped
+her by carrying the load himself, wished the old man good [[Night|night]], and
+went up-stairs with her to the top of the [[house]].
 
-They mounted up and up, through the musty smell of an old close house,
+They mounted up and up, through the musty smell of an old close [[house]],
 little used, to a large garret bed-room. Meagre and spare, like all the
 other rooms, it was even uglier and grimmer than the rest, by being the
 place of banishment for the worn-out furniture. Its movables were ugly
 old chairs with worn-out seats, and ugly old chairs without any seats;
 a threadbare patternless carpet, a maimed table, a crippled wardrobe,
-a lean set of fire-irons like the skeleton of a set deceased, a
+a lean set of [[Fire|fire]]-irons like the [[skeleton]] of a set deceased, a
 washing-stand that looked as if it had stood for ages in a hail of
 dirty soapsuds, and a bedstead with four bare atomies of posts, each
 terminating in a spike, as if for the dismal accommodation of lodgers
-who might prefer to impale themselves. Arthur opened the long low
-window, and looked out upon the old blasted and blackened forest of
+who might prefer to impale themselves. [[arthur|Arthur]] opened the long low
+[[Window|window]], and looked out upon the old blasted and blackened forest of
 chimneys, and the old red glare in the sky, which had seemed to him once
-upon a time but a nightly reflection of the fiery environment that was
+upon a [[Time|time]] but a nightly reflection of the fiery environment that was
 presented to his childish fancy in all directions, let it look where it
 would.
 
@@ -517,21 +517,21 @@ myself?’
 
 ‘O’ course,’ said Mrs Flintwinch. ‘It was no doing o’ mine. I’d never
 thought of it. I’d got something to do, without thinking, indeed! She
-kept me to it (as well as he) when she could go about, and she could go
+kept me to it (as [[Well|well]] as he) when she could go about, and she could go
 about then.’
 
-‘Well?’
+‘[[Well]]?’
 
-‘Well?’ echoed Mrs Flintwinch. ‘That’s what I said myself. Well! What’s
+‘[[Well]]?’ echoed Mrs Flintwinch. ‘That’s what I said myself. [[Well]]! What’s
 the use of considering? If them two clever ones have made up their minds
 to it, what’s left for _me_ to do? Nothing.’
 
 ‘Was it my mother’s project, then?’
 
-‘The Lord bless you, Arthur, and forgive me the wish!’ cried Affery,
+‘The Lord bless you, [[arthur|Arthur]], and forgive me the wish!’ cried Affery,
 speaking always in a low tone. ‘If they hadn’t been both of a mind in
 it, how could it ever have been? Jeremiah never courted me; t’ant likely
-that he would, after living in the house with me and ordering me
+that he would, after living in the [[house]] with me and ordering me
 about for as many years as he’d done. He said to me one day, he said,
 “Affery,” he said, “now I am going to tell you something. What do you
 think of the name of Flintwinch?” “What do I think of it?” I says.
@@ -542,9 +542,9 @@ Mrs Flintwinch went on to spread the upper sheet over the bed, and the
 blanket over that, and the counterpane over that, as if she had quite
 concluded her story.
 
-‘Well?’ said Arthur again.
+‘[[Well]]?’ said [[arthur|Arthur]] again.
 
-‘Well?’ echoed Mrs Flintwinch again. ‘How could I help myself? He said
+‘[[Well]]?’ echoed Mrs Flintwinch again. ‘How could I help myself? He said
 to me, “Affery, you and me must be married, and I’ll tell you why. She’s
 failing in health, and she’ll want pretty constant attendance up in
 her room, and we shall have to be much with her, and there’ll be nobody
@@ -553,11 +553,11 @@ be more convenient. She’s of my opinion,” he said, “so if you’ll put
 your bonnet on next Monday morning at eight, we’ll get it over.”’ Mrs
 Flintwinch tucked up the bed.
 
-‘Well?’
+‘[[Well]]?’
 
-‘Well?’ repeated Mrs Flintwinch, ‘I think so! I sits me down and says
-it. Well!--Jeremiah then says to me, “As to banns, next Sunday being the
-third time of asking (for I’ve put ‘em up a fortnight), is my reason for
+‘[[Well]]?’ repeated Mrs Flintwinch, ‘I think so! I sits me down and says
+it. [[Well]]!--Jeremiah then says to me, “As to banns, next [[Sunday]] being the
+third [[Time|time]] of asking (for I’ve put ‘em up a fortnight), is my reason for
 naming Monday. She’ll speak to you about it herself, and now she’ll find
 you prepared, Affery.” That same day she spoke to me, and she said, “So,
 Affery, I understand that you and Jeremiah are going to be married. I
@@ -569,9 +569,9 @@ smothering instead of a wedding,’ Mrs Flintwinch cast about in her mind
 with great pains for this form of expression, ‘I couldn’t have said a
 word upon it, against them two clever ones.’
 
-‘In good faith, I believe so.’
+‘In good [[Faith|faith]], I believe so.’
 
-‘And so you may, Arthur.’
+‘And so you may, [[arthur|Arthur]].’
 
 ‘Affery, what girl was that in my mother’s room just now?’
 
@@ -581,18 +581,18 @@ word upon it, against them two clever ones.’
 corner?’
 
 ‘Oh! She? Little Dorrit? _She_‘s nothing; she’s a whim of--hers.’ It was
-a peculiarity of Affery Flintwinch that she never spoke of Mrs Clennam
+a peculiarity of Affery Flintwinch that she never spoke of [[Mrs Clennam]]
 by name. ‘But there’s another sort of girls than that about. Have you
 forgot your old sweetheart? Long and long ago, I’ll be bound.’
 
 ‘I suffered enough from my mother’s separating us, to remember her. I
-recollect her very well.’
+recollect her very [[Well|well]].’
 
 ‘Have you got another?’
 
 ‘No.’
 
-‘Here’s news for you, then. She’s well to do now, and a widow. And if
+‘Here’s news for you, then. She’s [[Well|well]] to do now, and a widow. And if
 you like to have her, why you can.’
 
 ‘And how do you know that, Affery?’
@@ -602,14 +602,14 @@ the stairs!’ She was gone in a moment.
 
 Mrs Flintwinch had introduced into the web that his mind was busily
 weaving, in that old workshop where the loom of his youth had stood, the
-last thread wanting to the pattern. The airy folly of a boy’s love had
-found its way even into that house, and he had been as wretched under
-its hopelessness as if the house had been a castle of romance. Little
+last thread wanting to the pattern. The airy folly of a boy’s [[Love|love]] had
+found its way even into that [[house]], and he had been as wretched under
+its hopelessness as if the [[house]] had been a [[Castle|castle]] of [[Romance|romance]]. Little
 more than a week ago at Marseilles, the face of the pretty girl from
 whom he had parted with regret, had had an unusual interest for him, and
 a tender hold upon him, because of some resemblance, real or imagined,
 to this first face that had soared out of his gloomy life into the
-bright glories of fancy. He leaned upon the sill of the long low window,
+bright glories of fancy. He leaned upon the sill of the long low [[Window|window]],
 and looking out upon the blackened forest of chimneys again, began to
 dream; for it had been the uniform tendency of this man’s life--so much
 was wanting in it to think about, so much that might have been better

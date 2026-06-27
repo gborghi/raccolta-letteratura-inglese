@@ -28,7 +28,7 @@ CHAPTER 16
 
       information received at Tristan d’Acunha induced him to steer to
 
-      the southward, in the hope of falling in with some small islands
+      the southward, in the [[Hope|hope]] of falling in with some small islands
 
       said to lie about the parallel of 60 degrees S., longitude 41
 
@@ -52,7 +52,7 @@ CHAPTER 16
 
       Before entering upon this portion of my narrative, it may be as
 
-      well, for the information of those readers who have paid little
+      [[Well|well]], for the information of those readers who have paid little
 
       attention to the progress of discovery in these regions, to give
 
@@ -80,7 +80,7 @@ CHAPTER 16
 
       difficulty in forcing a passage. At this period Captain Cook
 
-      supposed, from the vast number of birds to be seen, and from
+      supposed, from the vast number of [[Birds|birds]] to be seen, and from
 
       other indications, that he was in the near vicinity of land. He
 
@@ -96,7 +96,7 @@ CHAPTER 16
 
       penetrating much farther; for upon reaching latitude 67 degrees
 
-      15’ they found all farther progress impeded by an immense body of
+      15’ they found all farther progress impeded by an immense [[Body|body]] of
 
       ice, extending all along the southern horizon as far as the eye
 
@@ -104,9 +104,9 @@ CHAPTER 16
 
       of it, miles in extent, formed a compact mass, rising eighteen or
 
-      twenty feet above the water. It being late in the season, and no
+      twenty feet above the [[Water|water]]. It being late in the season, and no
 
-      hope entertained of rounding these obstructions, Captain Cook now
+      [[Hope|hope]] entertained of rounding these obstructions, Captain Cook now
 
       reluctantly turned to the northward.
 
@@ -120,7 +120,7 @@ CHAPTER 16
 
       67 degrees 31’, longitude 142 degrees 54’ W., the cold was
 
-      excessive, with heavy gales and fog. Here also birds were
+      excessive, with heavy gales and fog. Here also [[Birds|birds]] were
 
       abundant; the albatross, the penguin, and the peterel especially.
 
@@ -146,7 +146,7 @@ CHAPTER 16
 
       terminated in the extreme background by gigantic ranges of ice
 
-      mountains, the one towering above the other. Captain Cook
+      [[Mountains|mountains]], the one towering above the other. Captain Cook
 
       concluded that this vast field reached the southern pole or was
 
@@ -176,7 +176,7 @@ CHAPTER 16
 
       the sixth of January—and we should not be surprised if a portion
 
-      of the icy mountains described was attached to the main body of
+      of the icy [[Mountains|mountains]] described was attached to the main [[Body|body]] of
 
       Palmer’s Land, or to some other portions of land lying farther to
 
@@ -186,7 +186,7 @@ CHAPTER 16
 
       In 1803, Captains Kreutzenstern and Lisiausky were dispatched by
 
-      Alexander of Russia for the purpose of circumnavigating the
+      Alexander of [[Russia]] for the purpose of circumnavigating the
 
       globe. In endeavouring to get south, they made no farther than 59
 
@@ -228,7 +228,7 @@ CHAPTER 16
 
       15’, no fields, and only three islands of ice were visible. It is
 
-      somewhat remarkable that, although vast flocks of birds were
+      somewhat remarkable that, although vast flocks of [[Birds|birds]] were
 
       seen, and other usual indications of land, and although, south of
 
@@ -250,7 +250,7 @@ CHAPTER 16
 
       degrees 27’ E. The following passage is extracted from his
 
-      journal of that date. “The wind soon freshened to an eleven-knot
+      journal of that date. “The [[Wind|wind]] soon freshened to an eleven-knot
 
       breeze, and we embraced this opportunity of making to the west;
 
@@ -272,9 +272,9 @@ CHAPTER 16
 
       sea was now entirely free of field ice, and there were not more
 
-      than a dozen ice islands in sight. At the same time the
+      than a dozen ice islands in sight. At the same [[Time|time]] the
 
-      temperature of the air and water was at least thirteen degrees
+      temperature of the air and [[Water|water]] was at least thirteen degrees
 
       higher (more mild) than we had ever found it between the
 
@@ -282,7 +282,7 @@ CHAPTER 16
 
       70 degrees 14’ S., and the temperature of the air was
 
-      forty-seven, and that of the water forty-four. In this situation
+      forty-seven, and that of the [[Water|water]] forty-four. In this situation
 
       I found the variation to be 14 degrees 27’ easterly, per
 
@@ -290,7 +290,7 @@ CHAPTER 16
 
       circle, on different meridians, and have uniformly found the
 
-      temperature, both of the air and the water, to become more and
+      temperature, both of the air and the [[Water|water]], to become more and
 
       more mild the farther I advanced beyond the sixty-fifth degree of
 
@@ -306,11 +306,11 @@ CHAPTER 16
 
       circumference, and more than five hundred feet above the surface
 
-      of the water.”
+      of the [[Water|water]].”
 
 
 
-      Being nearly destitute of fuel and water, and without proper
+      Being nearly destitute of fuel and [[Water|water]], and without proper
 
       instruments, it being also late in the season, Captain Morrell
 
@@ -336,7 +336,7 @@ CHAPTER 16
 
       In 1831, Captain Briscoe, in the employ of the Messieurs Enderby,
 
-      whale-ship owners of London, sailed in the brig Lively for the
+      whale-[[Ship|ship]] owners of [[London]], sailed in the brig Lively for the
 
       South Seas, accompanied by the cutter Tula. On the twenty-eighth
 
@@ -344,7 +344,7 @@ CHAPTER 16
 
       degrees 31’ E., he descried land, and “clearly discovered through
 
-      the snow the black peaks of a range of mountains running E. S.
+      the [[Snow|snow]] the black peaks of a range of [[Mountains|mountains]] running E. S.
 
       E.” He remained in this neighbourhood during the whole of the
 
@@ -354,7 +354,7 @@ CHAPTER 16
 
       Finding it impossible to make further discovery during this
 
-      season, he returned northward to winter in Van Diemen’s Land.
+      season, he returned northward to [[Winter|winter]] in Van Diemen’s Land.
 
 
 
@@ -370,13 +370,13 @@ CHAPTER 16
 
       landing on the latter, and took possession of it in the name of
 
-      William IV, calling it Adelaide’s Island, in honour of the
+      William IV, calling it Adelaide’s Island, in [[Honour|honour]] of the
 
-      English queen. These particulars being made known to the Royal
+      English [[Queen|queen]]. These particulars being made known to the Royal
 
-      Geographical Society of London, the conclusion was drawn by that
+      Geographical Society of [[London]], the conclusion was drawn by that
 
-      body “that there is a continuous tract of land extending from 47
+      [[Body|body]] “that there is a continuous tract of land extending from 47
 
       degrees 30’ E. to 69 degrees 29’ W. longitude, running the
 

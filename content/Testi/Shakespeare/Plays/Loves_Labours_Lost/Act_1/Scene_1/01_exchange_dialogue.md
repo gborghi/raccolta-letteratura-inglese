@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Ferdinand, King of Navarre, Biron, Longueville, and Dumaine |
+| *(didascalia)* | Enter [[Ferdinand]], [[King]] of Navarre, Biron, [[Longueville]], and [[Dumaine]] |

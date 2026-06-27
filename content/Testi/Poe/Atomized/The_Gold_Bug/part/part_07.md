@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 7)"
+title: "[[The Gold-Bug]] (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -54,21 +54,21 @@ tags:
 
       interruption which might have enabled me to get the wanderer
 
-      home. The noise was, at length, very effectually silenced by
+      [[Home|home]]. The noise was, at length, very effectually silenced by
 
       Jupiter, who, getting out of the hole with a dogged air of
 
       deliberation, tied the brute’s mouth up with one of his
 
-      suspenders, and then returned, with a grave chuckle, to his task.
+      suspenders, and then returned, with a [[Grave|grave]] chuckle, to his task.
 
 
 
-      When the time mentioned had expired, we had reached a depth of
+      When the [[Time|time]] mentioned had expired, we had reached a depth of
 
       five feet, and yet no signs of any treasure became manifest. A
 
-      general pause ensued, and I began to hope that the farce was at
+      general pause ensued, and I began to [[Hope|hope]] that the farce was at
 
       an end. Legrand, however, although evidently much disconcerted,
 
@@ -86,13 +86,13 @@ tags:
 
       reluctantly, to put on his coat, which he had thrown off at the
 
-      beginning of his labor. In the mean time I made no remark.
+      beginning of his labor. In the mean [[Time|time]] I made no remark.
 
       Jupiter, at a signal from his master, began to gather up his
 
       tools. This done, and the dog having been unmuzzled, we turned in
 
-      profound silence towards home.
+      profound [[Silence|silence]] towards [[Home|home]].
 
 
 
@@ -108,7 +108,7 @@ tags:
 
       “You scoundrel,” said Legrand, hissing out the syllables from
 
-      between his clenched teeth—“you infernal black villain!—speak, I
+      between his clenched teeth—“you infernal black [[Villain|villain]]!—speak, I
 
       tell you!—answer me this instant, without
 
@@ -160,7 +160,7 @@ tags:
 
 
 
-      “Well, then, was it this eye or that through which you dropped
+      “[[Well]], then, was it this eye or that through which you dropped
 
       the beetle?”—here Legrand touched each of Jupiter’s eyes.
 
@@ -176,7 +176,7 @@ tags:
 
 
 
-      Here my friend, about whose madness I now saw, or fancied that I
+      Here my friend, about whose [[Madness|madness]] I now saw, or fancied that I
 
       saw, certain indications of method, removed the peg which marked
 

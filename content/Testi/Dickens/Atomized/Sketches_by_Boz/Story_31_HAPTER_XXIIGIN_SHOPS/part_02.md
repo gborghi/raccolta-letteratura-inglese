@@ -17,7 +17,7 @@ tags:
 You turn the corner. What a change! All is light and brilliancy. The
 hum of many voices issues from that splendid gin-shop which forms the
 commencement of the two streets opposite; and the gay building with the
-fantastically ornamented parapet, the illuminated clock, the
+fantastically ornamented parapet, the illuminated [[Clock|clock]], the
 plate-glass windows surrounded by stucco rosettes, and its profusion of
 gas-lights in richly-gilt burners, is perfectly dazzling when
 contrasted with the darkness and dirt we have just left. The interior
@@ -28,7 +28,7 @@ a light brass rail, and bearing such inscriptions, as ‘Old Tom, 549;’
 ‘Young Tom, 360;’ ‘Samson, 1421’—the figures agreeing, we presume, with
 ‘gallons,’ understood. Beyond the bar is a lofty and spacious saloon,
 full of the same enticing vessels, with a gallery running round it,
-equally well furnished. On the counter, in addition to the usual spirit
+equally [[Well|well]] furnished. On the counter, in addition to the usual spirit
 apparatus, are two or three little baskets of cakes and biscuits, which
 are carefully secured at top with wicker-work, to prevent their
 contents being unlawfully abstracted. Behind it, are two
@@ -53,7 +53,7 @@ at one of the young ladies with singular coolness, and calls for a
 carefully looking every way but the right one, to show that the wink
 had no effect upon her. ‘For me, Mary, my dear,’ replies the gentleman
 in brown. ‘My name an’t Mary as it happens,’ says the young girl,
-rather relaxing as she delivers the change. ‘Well, if it an’t, it ought
+rather relaxing as she delivers the change. ‘[[Well]], if it an’t, it ought
 to be,’ responds the irresistible one; ‘all the Marys as ever _I_ see,
 was handsome gals.’ Here the young lady, not precisely remembering how
 blushes are managed in such cases, abruptly ends the flirtation by
@@ -78,27 +78,27 @@ occasional stragglers—cold, wretched-looking creatures, in the last
 stage of emaciation and disease. The knot of Irish labourers at the
 lower end of the place, who have been alternately shaking hands with,
 and threatening the life of each other, for the last hour, become
-furious in their disputes, and finding it impossible to silence one
+furious in their disputes, and finding it impossible to [[Silence|silence]] one
 man, who is particularly anxious to adjust the difference, they resort
 to the expedient of knocking him down and jumping on him afterwards.
 The man in the fur cap, and the potboy rush out; a scene of riot and
 confusion ensues; half the Irishmen get shut out, and the other half
-get shut in; the potboy is knocked among the tubs in no time; the
+get shut in; the potboy is knocked among the tubs in no [[Time|time]]; the
 landlord hits everybody, and everybody hits the landlord; the barmaids
 scream; the police come in; the rest is a confused mixture of arms,
 legs, staves, torn coats, shouting, and struggling. Some of the party
-are borne off to the station-house, and the remainder slink home to
+are borne off to the station-[[house]], and the remainder slink [[Home|home]] to
 beat their wives for complaining, and kick the children for daring to
 be hungry.
 
 We have sketched this subject very slightly, not only because our
 limits compel us to do so, but because, if it were pursued farther, it
-would be painful and repulsive. Well-disposed gentlemen, and charitable
+would be painful and repulsive. [[Well]]-disposed gentlemen, and charitable
 ladies, would alike turn with coldness and disgust from a description
 of the drunken besotted men, and wretched broken-down miserable women,
 who form no inconsiderable portion of the frequenters of these haunts;
 forgetting, in the pleasant consciousness of their own rectitude, the
-poverty of the one, and the temptation of the other. Gin-drinking is a
+[[Poverty|poverty]] of the one, and the [[Temptation|temptation]] of the other. Gin-drinking is a
 great vice in England, but wretchedness and dirt are a greater; and
 until you improve the homes of the poor, or persuade a half-famished
 wretch not to seek relief in the temporary oblivion of his own misery,
@@ -106,5 +106,5 @@ with the pittance which, divided among his family, would furnish a
 morsel of bread for each, gin-shops will increase in number and
 splendour. If Temperance Societies would suggest an antidote against
 hunger, filth, and foul air, or could establish dispensaries for the
-gratuitous distribution of bottles of Lethe-water, gin-palaces would be
+gratuitous distribution of bottles of Lethe-[[Water|water]], gin-palaces would be
 numbered among the things that were.

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 7 (part 5)"
+title: "[[The Professor]] — Chapter 7 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,7 +20,7 @@ her cautious, chaperon-like proceedings; besides, nobody ever spoke of
 
 her as young. I remember I was very much amused when I first heard her
 
-Christian name; it was Zoraide--Mademoiselle Zoraide Reuter. But the
+Christian name; it was Zoraide--Mademoiselle [[Zoraide Reuter]]. But the
 
 continental nations do allow themselves vagaries in the choice of names,
 
@@ -80,7 +80,7 @@ recoiled with repugnance from any occupation that demanded close study
 
 or deep thought. Had the abhorred effort been extorted from them by
 
-injudicious and arbitrary measures on the part of the Professor, they
+injudicious and arbitrary measures on the part of [[The Professor|the Professor]], they
 
 would have resisted as obstinately, as clamorously, as desperate swine;
 
@@ -118,7 +118,7 @@ learning, remove every pebble from the track; but then you must finally
 
 insist with decision on the pupil taking your arm and allowing himself
 
-to be led quietly along the prepared road. When I had brought down my
+to be led quietly along the prepared [[Road|road]]. When I had brought down my
 
 lesson to the lowest level of my dullest pupil’s capacity--when I
 
@@ -134,6 +134,6 @@ and my influence, by degrees, became established on a firm basis. “The
 
 boy is father to the man,” it is said; and so I often thought when
 
-looked at my boys and remembered the political history of their
+looked at my boys and remembered the political [[history]] of their
 
 ancestors. Pelet’s school was merely an epitome of the Belgian nation.

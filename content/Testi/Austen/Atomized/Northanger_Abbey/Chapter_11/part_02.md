@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 10 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 10 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 thought he must be gone. Was not the young lady he danced with on
 
-Monday a Miss Smith?”
+Monday a Miss [[smith|Smith]]?”
 
 
 
@@ -24,7 +24,7 @@ Monday a Miss Smith?”
 
 
 
-“I dare say she was very glad to dance. Do you think her pretty?”
+“I dare say she was very glad to [[Dance|dance]]. Do you think her pretty?”
 
 
 
@@ -42,7 +42,7 @@ Monday a Miss Smith?”
 
 Mrs. Hughes now joined them, and asked Miss Tilney if she was ready to
 
-go. “I hope I shall have the pleasure of seeing you again soon,” said
+go. “I [[Hope|hope]] I shall have the pleasure of seeing you again soon,” said
 
 Catherine. “Shall you be at the cotillion ball to-morrow?”
 
@@ -62,7 +62,7 @@ smallest consciousness of having explained them.
 
 
 
-She went home very happy. The morning had answered all her hopes, and
+She went [[Home|home]] very happy. The morning had answered all her hopes, and
 
 the evening of the following day was now the object of expectation, the
 
@@ -72,15 +72,15 @@ occasion became her chief concern. She cannot be justified in it. Dress
 
 is at all times a frivolous distinction, and excessive solicitude about
 
-it often destroys its own aim. Catherine knew all this very well; her
+it often destroys its own aim. Catherine knew all this very [[Well|well]]; her
 
 great aunt had read her a lecture on the subject only the Christmas
 
-before; and yet she lay awake ten minutes on Wednesday night debating
+before; and yet she lay awake ten minutes on Wednesday [[Night|night]] debating
 
 between her spotted and her tamboured muslin, and nothing but the
 
-shortness of the time prevented her buying a new one for the evening.
+shortness of the [[Time|time]] prevented her buying a new one for the evening.
 
 This would have been an error in judgment, great though not uncommon,
 
@@ -100,19 +100,19 @@ unsusceptible of peculiar tenderness towards the spotted, the sprigged,
 
 the mull, or the jackonet. Woman is fine for her own satisfaction
 
-alone. No man will admire her the more, no woman will like her the
+[[Alone|alone]]. No man will admire her the more, no woman will like her the
 
 better for it. Neatness and fashion are enough for the former, and a
 
 something of shabbiness or impropriety will be most endearing to the
 
-latter. But not one of these grave reflections troubled the
+latter. But not one of these [[Grave|grave]] reflections troubled the
 
 tranquillity of Catherine.
 
 
 
-She entered the rooms on Thursday evening with feelings very different
+She entered the rooms on [[thursday|Thursday]] evening with feelings very different
 
 from what had attended her thither the Monday before. She had then been
 
@@ -120,13 +120,13 @@ exulting in her engagement to Thorpe, and was now chiefly anxious to
 
 avoid his sight, lest he should engage her again; for though she could
 
-not, dared not expect that Mr. Tilney should ask her a third time to
+not, dared not expect that Mr. Tilney should ask her a third [[Time|time]] to
 
-dance, her wishes, hopes, and plans all centred in nothing less. Every
+[[Dance|dance]], her wishes, hopes, and plans all centred in nothing less. Every
 
 young lady may feel for my heroine in this critical moment, for every
 
-young lady has at some time or other known the same agitation. All have
+young lady has at some [[Time|time]] or other known the same agitation. All have
 
 been, or at least all have believed themselves to be, in danger from
 
@@ -136,7 +136,7 @@ anxious for the attentions of someone whom they wished to please. As
 
 soon as they were joined by the Thorpes, Catherine’s agony began; she
 
-fidgeted about if John Thorpe came towards her, hid herself as much as
+fidgeted about if [[John Thorpe]] came towards her, hid herself as much as
 
 possible from his view, and when he spoke to her pretended not to hear
 
@@ -146,9 +146,9 @@ saw nothing of the Tilneys.
 
 
 
-“Do not be frightened, my dear Catherine,” whispered Isabella, “but I
+“Do not be frightened, my dear Catherine,” whispered [[Isabella]], “but I
 
-am really going to dance with your brother again. I declare positively
+am really going to [[Dance|dance]] with your brother again. I declare positively
 
 it is quite shocking. I tell him he ought to be ashamed of himself, but
 
@@ -160,19 +160,19 @@ moment.”
 
 
 
-Catherine had neither time nor inclination to answer. The others walked
+Catherine had neither [[Time|time]] nor inclination to answer. The others walked
 
-away, John Thorpe was still in view, and she gave herself up for lost.
+away, [[John Thorpe]] was still in view, and she gave herself up for lost.
 
 That she might not appear, however, to observe or expect him, she kept
 
-her eyes intently fixed on her fan; and a self-condemnation for her
+her eyes intently fixed on her fan; and a [[Self|self]]-condemnation for her
 
 folly, in supposing that among such a crowd they should even meet with
 
-the Tilneys in any reasonable time, had just passed through her mind,
+the Tilneys in any reasonable [[Time|time]], had just passed through her mind,
 
-when she suddenly found herself addressed and again solicited to dance,
+when she suddenly found herself addressed and again solicited to [[Dance|dance]],
 
 by Mr. Tilney himself. With what sparkling eyes and ready motion she
 
@@ -180,7 +180,7 @@ granted his request, and with how pleasing a flutter of heart she went
 
 with him to the set, may be easily imagined. To escape, and, as she
 
-believed, so narrowly escape John Thorpe, and to be asked, so
+believed, so narrowly escape [[John Thorpe]], and to be asked, so
 
 immediately on his joining her, asked by Mr. Tilney, as if he had
 
@@ -192,15 +192,15 @@ any greater felicity.
 
 Scarcely had they worked themselves into the quiet possession of a
 
-place, however, when her attention was claimed by John Thorpe, who
+place, however, when her attention was claimed by [[John Thorpe]], who
 
 stood behind her. “Heyday, Miss Morland!” said he. “What is the meaning
 
-of this? I thought you and I were to dance together.”
+of this? I thought you and I were to [[Dance|dance]] together.”
 
 
 
-“I wonder you should think so, for you never asked me.”
+“I [[Wonder|wonder]] you should think so, for you never asked me.”
 
 
 
@@ -216,7 +216,7 @@ since Monday. Yes; I remember, I asked you while you were waiting in
 
 the lobby for your cloak. And here have I been telling all my
 
-acquaintance that I was going to dance with the prettiest girl in the
+acquaintance that I was going to [[Dance|dance]] with the prettiest girl in the
 
 room; and when they see you standing up with somebody else, they will
 

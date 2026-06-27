@@ -1,5 +1,5 @@
 ---
-title: "All Is True (Henry VIII) — Act IV, Scene 1 — exchange (GRIFFITH) [5]"
+title: "All Is True ([[Henry VIII]]) — Act IV, Scene 1 — exchange (GRIFFITH) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| GRIFFITH | Noble madam, Men’s evil manners live in brass, their virtues We write in water. May it please your highness To hear me speak his good now? |
+| GRIFFITH | Noble madam, Men’s evil manners live in brass, their virtues We write in [[Water|water]]. May it please your highness To hear me speak his good now? |
 | KATHERINE | Yes, good Griffith, I were malicious else. |

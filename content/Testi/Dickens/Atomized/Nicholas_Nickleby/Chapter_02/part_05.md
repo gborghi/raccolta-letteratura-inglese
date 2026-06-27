@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 2 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 2 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Then, the gentleman who had been at Crockford’s all night, and who
+Then, the gentleman who had been at Crockford’s all [[Night|night]], and who
 looked something the worse about the eyes in consequence, came forward
 to tell his fellow-countrymen what a speech he meant to make in favour
 of that petition whenever it should be presented, and how desperately he
@@ -33,24 +33,24 @@ quite into the shade.
 And when the petition had been read and was about to be adopted, there
 came forward the Irish member (who was a young gentleman of ardent
 temperament,) with such a speech as only an Irish member can make,
-breathing the true soul and spirit of poetry, and poured forth with such
+breathing the true [[Soul|soul]] and spirit of poetry, and poured forth with such
 fervour, that it made one warm to look at him; in the course whereof,
 he told them how he would demand the extension of that great boon to his
 native country; how he would claim for her equal rights in the muffin
 laws as in all other laws; and how he yet hoped to see the day when
-crumpets should be toasted in her lowly cabins, and muffin bells should
+crumpets should be toasted in her lowly cabins, and muffin [[Bells|bells]] should
 ring in her rich green valleys. And, after him, came the Scotch member,
 with various pleasant allusions to the probable amount of profits, which
-increased the good humour that the poetry had awakened; and all the
+increased the good [[Humour|humour]] that the poetry had awakened; and all the
 speeches put together did exactly what they were intended to do, and
 established in the hearers’ minds that there was no speculation
-so promising, or at the same time so praiseworthy, as the United
+so promising, or at the same [[Time|time]] so praiseworthy, as the United
 Metropolitan Improved Hot Muffin and Crumpet Baking and Punctual
 Delivery Company.
 
 So, the petition in favour of the bill was agreed upon, and the meeting
 adjourned with acclamations, and Mr. Nickleby and the other directors
 went to the office to lunch, as they did every day at half-past one
-o’clock; and to remunerate themselves for which trouble, (as the company
+o’[[Clock|clock]]; and to remunerate themselves for which trouble, (as the company
 was yet in its infancy,) they only charged three guineas each man for
 every such attendance.

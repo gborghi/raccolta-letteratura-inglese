@@ -1,5 +1,5 @@
 ---
-title: "Sanity — A SUMMARY (part 2)"
+title: "[[Sanity]] — A SUMMARY (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -20,13 +20,13 @@ rapid collapse.  But taking monopolist capitalism in a country where it
 is still in the vulgar sense successful, as in the United States,
 we only see more clearly, and on a more colossal scale, the long
 and descending perspectives that point down to Byzantium or Pekin.
-It is perfectly obvious that the whole business is a machine
+It is perfectly obvious that the whole business is a [[Machine|machine]]
 for manufacturing tenth-rate things, and keeping people ignorant
 of first-rate things.  Most civilized systems have declined from
 a height; but this starts on a low level and in a flat place;
 and what it would be like when it had really crushed all its critics
 and rivals and made its monopoly watertight for two hundred years,
-the most morbid imagination will find it hard to imagine.
+the most morbid [[Imagination|imagination]] will find it hard to imagine.
 But whatever the last stage of the story, no sane man any longer
 doubts that we are seeing the first stages of it.  There is no longer
 any difference in tone and type between collectivist and ordinary
@@ -35,11 +35,11 @@ its organization.  Private things are already public in the worst
 sense of the word; that is, they are impersonal and dehumanized.
 Public things are already private in the worst sense of the word;
 that is, they are mysterious and secretive and largely corrupt.
-The new sort of Business Government will combine everything
+The new sort of Business [[government|Government]] will combine everything
 that is bad in all the plans for a better world.  There will
-be no eccentricity; no humour; no noble disdain of the world.
+be no eccentricity; no [[Humour|humour]]; no noble disdain of the world.
 There will be nothing but a loathsome thing called Social Service;
-which means slavery without loyalty.  This Service will be one
+which means [[Slavery|slavery]] without loyalty.  This Service will be one
 of the ideals.  I forgot to mention that there will be ideals.
 All the wealthiest men in the movement have made it quite clear
 that they are in possession of a number of these little comforts.
@@ -49,7 +49,7 @@ The philanthropists in question will probably be surprised
 to learn that some of us regard this prospect very much as we
 should regard the theory that we are to be evolved back into apes.
 We therefore consider whether it is even yet conceivable to restore
-that long-forgotten thing called Self-Government: that is,
+that long-forgotten thing called [[Self]]-[[government|Government]]: that is,
 the power of the citizen in some degree to direct his own life
 and construct his own environment; to eat what he likes, to wear what
 he chooses, and to have (what the Trust must of necessity deny him)
@@ -68,16 +68,16 @@ prospect with hatred and contempt, can save them from it.
 I say that they can save me from it, and themselves from it,
 if they also regard it with hatred and contempt.  But it must be
 done in the spirit of a religion, of a revolution, and (I will add)
-of a renunciation.  They must want to do it as they want to drive
+of a [[Renunciation|renunciation]].  They must want to do it as they want to drive
 invaders out of a country or to stop the spread of a plague.
 And in this respect our critics have a curious way of arguing in
 a circle.  They ask why we trouble to denounce what we cannot destroy;
 and offer an ideal we cannot attain.  They say we are merely
-throwing away dirty water before we can get clean; or rather
-that we are merely analysing the animalculae in the dirty water,
+throwing away dirty [[Water|water]] before we can get clean; or rather
+that we are merely analysing the animalculae in the dirty [[Water|water]],
 while we do not even venture to throw it away.  Why do we make men
 discontented with conditions with which they must be content?
-Why revile an intolerable slavery that must be tolerated?
+Why revile an intolerable [[Slavery|slavery]] that must be tolerated?
 But when we in turn ask why our ideal is impossible or why
 the evil is indestructible, they answer in effect, "Because you
 cannot persuade people to want it destroyed."  Possibly; but,
@@ -104,15 +104,15 @@ or religious protest--when they really wanted to protest.
 Under the same general rule, I have remarked that a real life
 on the land, men not only dwelling on the land but living off it,
 would be an adventure involving both stubbornness and abnegation.
-But it would not be half so ascetic as the sort of adventure which it
+But it would not be half so [[ascetic]] as the sort of adventure which it
 is a commonplace to attribute to colonists and empire-builders;
 it is nothing to what has been normally shown by millions
-of soldiers and monks.  Only it is true that monks have a faith,
-that soldiers have a flag, and that even empire-builders were
+of soldiers and [[Monks|monks]].  Only it is true that [[Monks|monks]] have a [[Faith|faith]],
+that soldiers have a [[Flag|flag]], and that even empire-builders were
 presumably under the impression that they could assist the Empire.
 But it does not seem to me quite inconceivable, in the varieties
 of religious experience, that men might take as much notice
-of earth as monks do of heaven; that people might really believe
-in the spades that create as well as in the swords that destroy;
+of earth as [[Monks|monks]] do of heaven; that people might really believe
+in the spades that create as [[Well|well]] as in the swords that destroy;
 and that the English who have colonized everywhere else might begin
 to colonize England.

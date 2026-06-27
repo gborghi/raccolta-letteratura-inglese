@@ -18,15 +18,15 @@ When all was ready, this man, still taking his last hurried charges from
 his comrades and the surgeon after the windlass had begun to lower him,
 disappeared into the pit.  The rope went out as before, the signal was
 made as before, and the windlass stopped.  No man removed his hand from
-it now.  Every one waited with his grasp set, and his body bent down to
-the work, ready to reverse and wind in.  At length the signal was given,
+it now.  Every one waited with his grasp set, and his [[Body|body]] bent down to
+the work, ready to reverse and [[Wind|wind]] in.  At length the signal was given,
 and all the ring leaned forward.
 
 For, now, the rope came in, tightened and strained to its utmost as it
 appeared, and the men turned heavily, and the windlass complained.  It
 was scarcely endurable to look at the rope, and think of its giving way.
 But, ring after ring was coiled upon the barrel of the windlass safely,
-and the connecting chains appeared, and finally the bucket with the two
+and the connecting [[Chains|chains]] appeared, and finally the bucket with the two
 men holding on at the sides—a sight to make the head swim, and oppress
 the heart—and tenderly supporting between them, slung and tied within,
 the figure of a poor, crushed, human creature.
@@ -36,12 +36,12 @@ this form, almost without form, was moved very slowly from its iron
 deliverance, and laid upon the bed of straw.  At first, none but the
 surgeon went close to it.  He did what he could in its adjustment on the
 couch, but the best that he could do was to cover it.  That gently done,
-he called to him Rachael and Sissy.  And at that time the pale, worn,
+he called to him Rachael and Sissy.  And at that [[Time|time]] the pale, worn,
 patient face was seen looking up at the sky, with the broken right hand
 lying bare on the outside of the covering garments, as if waiting to be
 taken by another hand.
 
-They gave him drink, moistened his face with water, and administered some
+They gave him drink, moistened his face with [[Water|water]], and administered some
 drops of cordial and wine.  Though he lay quite motionless looking up at
 the sky, he smiled and said, ‘Rachael.’  She stooped down on the grass at
 his side, and bent over him until her eyes were between his and the sky,
@@ -51,7 +51,7 @@ for he could not so much as turn them to look at her.
 
 She took his hand.  He smiled again and said, ‘Don’t let ’t go.’
 
-‘Thou’rt in great pain, my own dear Stephen?’
+‘Thou’rt in great [[Pain|pain]], my own dear Stephen?’
 
 ‘I ha’ been, but not now.  I ha’ been—dreadful, and dree, and long, my
 dear—but ’tis ower now.  Ah, Rachael, aw a muddle!  Fro’ first to last, a
@@ -65,14 +65,14 @@ brothers, dear to thousands an’ thousands, an’ keeping ’em fro’ want and
 hunger.  I ha’ fell into a pit that ha’ been wi’ th’ Firedamp crueller
 than battle.  I ha’ read on ’t in the public petition, as onny one may
 read, fro’ the men that works in pits, in which they ha’ pray’n and
-pray’n the lawmakers for Christ’s sake not to let their work be murder to
-’em, but to spare ’em for th’ wives and children that they loves as well
+pray’n the lawmakers for [[Christ]]’s sake not to let their work be murder to
+’em, but to spare ’em for th’ wives and children that they loves as [[Well|well]]
 as gentlefok loves theirs.  When it were in work, it killed wi’out need;
-when ’tis let alone, it kills wi’out need.  See how we die an’ no need,
+when ’tis let [[Alone|alone]], it kills wi’out need.  See how we die an’ no need,
 one way an’ another—in a muddle—every day!’
 
 He faintly said it, without any anger against any one.  Merely as the
-truth.
+[[Truth|truth]].
 
 ‘Thy little sister, Rachael, thou hast not forgot her.  Thou’rt not like
 to forget her now, and me so nigh her.  Thou know’st—poor, patient,
@@ -82,7 +82,7 @@ o’ sickly air as had’n no need to be, an’ awlung o’ working people’s
 miserable homes.  A muddle!  Aw a muddle!’
 
 Louisa approached him; but he could not see her, lying with his face
-turned up to the night sky.
+turned up to the [[Night|night]] sky.
 
 ‘If aw th’ things that tooches us, my dear, was not so muddled, I
 should’n ha’ had’n need to coom heer.  If we was not in a muddle among
@@ -93,30 +93,30 @@ ha’ suspect’n me.  But look up yonder, Rachael!  Look aboove!’
 
 Following his eyes, she saw that he was gazing at a star.
 
-      [Picture: Stephen Blackpool recovered from the Old Hell Shaft]
+      [Picture: [[Stephen Blackpool]] recovered from the Old Hell Shaft]
 
-‘It ha’ shined upon me,’ he said reverently, ‘in my pain and trouble down
+‘It ha’ shined upon me,’ he said reverently, ‘in my [[Pain|pain]] and trouble down
 below.  It ha’ shined into my mind.  I ha’ look’n at ’t and thowt o’
 thee, Rachael, till the muddle in my mind have cleared awa, above a bit,
-I hope.  If soom ha’ been wantin’ in unnerstan’in me better, I, too, ha’
+I [[Hope|hope]].  If soom ha’ been wantin’ in unnerstan’in me better, I, too, ha’
 been wantin’ in unnerstan’in them better.  When I got thy letter, I
 easily believen that what the yoong ledy sen and done to me, and what her
 brother sen and done to me, was one, and that there were a wicked plot
 betwixt ’em.  When I fell, I were in anger wi’ her, an’ hurryin on t’ be
 as onjust t’ her as oothers was t’ me.  But in our judgments, like as in
-our doins, we mun bear and forbear.  In my pain an’ trouble, lookin up
+our doins, we mun bear and forbear.  In my [[Pain|pain]] an’ trouble, lookin up
 yonder,—wi’ it shinin on me—I ha’ seen more clear, and ha’ made it my
-dyin prayer that aw th’ world may on’y coom toogether more, an’ get a
+dyin [[prayer]] that aw th’ world may on’y coom toogether more, an’ get a
 better unnerstan’in o’ one another, than when I were in ’t my own weak
 seln.’
 
 Louisa hearing what he said, bent over him on the opposite side to
 Rachael, so that he could see her.
 
-‘You ha’ heard?’ he said, after a few moments’ silence.  ‘I ha’ not
+‘You ha’ heard?’ he said, after a few moments’ [[Silence|silence]].  ‘I ha’ not
 forgot you, ledy.’
 
-‘Yes, Stephen, I have heard you.  And your prayer is mine.’
+‘Yes, Stephen, I have heard you.  And your [[prayer]] is mine.’
 
 ‘You ha’ a father.  Will yo tak’ a message to him?’
 
@@ -134,7 +134,7 @@ Mr. Gradgrind was troubled and asked how?
 
 ‘Sir,’ was the reply: ‘yor son will tell yo how.  Ask him.  I mak no
 charges: I leave none ahint me: not a single word.  I ha’ seen an’ spok’n
-wi’ yor son, one night.  I ask no more o’ yo than that yo clear me—an’ I
+wi’ yor son, one [[Night|night]].  I ask no more o’ yo than that yo clear me—an’ I
 trust to yo to do ’t.’
 
 The bearers being now ready to carry him away, and the surgeon being
@@ -143,14 +143,14 @@ go in front of the litter.  Before it was raised, and while they were
 arranging how to go, he said to Rachael, looking upward at the star:
 
 ‘Often as I coom to myseln, and found it shinin’ on me down there in my
-trouble, I thowt it were the star as guided to Our Saviour’s home.  I
+trouble, I thowt it were the star as guided to Our Saviour’s [[Home|home]].  I
 awmust think it be the very star!’
 
 They lifted him up, and he was overjoyed to find that they were about to
 take him in the direction whither the star seemed to him to lead.
 
 ‘Rachael, beloved lass!  Don’t let go my hand.  We may walk toogether
-t’night, my dear!’
+t’[[Night|night]], my dear!’
 
 ‘I will hold thy hand, and keep beside thee, Stephen, all the way.’
 
@@ -158,7 +158,7 @@ t’night, my dear!’
 
 They carried him very gently along the fields, and down the lanes, and
 over the wide landscape; Rachael always holding the hand in hers.  Very
-few whispers broke the mournful silence.  It was soon a funeral
+few whispers broke the mournful [[Silence|silence]].  It was soon a funeral
 procession.  The star had shown him where to find the God of the poor;
-and through humility, and sorrow, and forgiveness, he had gone to his
+and through [[Humility|humility]], and sorrow, and [[Forgiveness|forgiveness]], he had gone to his
 Redeemer’s rest.

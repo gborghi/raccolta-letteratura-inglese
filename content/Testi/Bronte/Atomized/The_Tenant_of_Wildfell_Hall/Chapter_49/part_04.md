@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 49 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 49 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-nature upon Him, who was raised to heaven even in His glorified human
+[[Nature|nature]] upon Him, who was raised to heaven even in His glorified human
 
-body, in whom the fulness of the Godhead shines.’
+[[Body|body]], in whom the fulness of the Godhead shines.’
 
 
 
@@ -26,21 +26,21 @@ shuddering horror, he tightened his grasp on my hand and arm, and,
 
 groaning and lamenting, still clung to me with that wild, desperate
 
-earnestness so harrowing to my soul, because I know I cannot help him.
+earnestness so harrowing to my [[Soul|soul]], because I know I cannot help him.
 
 I did my best to soothe and comfort him.
 
 
 
-“‘Death is so terrible,’ he cried, ‘I cannot bear it! _You_ don’t know,
+“‘[[Death]] is so terrible,’ he cried, ‘I cannot bear it! _You_ don’t know,
 
-Helen—you can’t imagine what it is, because you haven’t it before you!
+[[Helen]]—you can’t imagine what it is, because you haven’t it before you!
 
 and when I’m buried, you’ll return to your old ways and be as happy as
 
 ever, and all the world will go on just as busy and merry as if I had
 
-never been; while I—’ He burst into tears.
+never been; while I—’ He burst into [[Tears|tears]].
 
 
 
@@ -58,7 +58,7 @@ should plead for me.’
 
 “‘No man can deliver his brother, nor make agreement unto God for him,’
 
-I replied: ‘it cost more to redeem their souls—it cost the blood of an
+I replied: ‘it cost more to redeem their souls—it cost the [[Blood|blood]] of an
 
 incarnate God, perfect and sinless in Himself, to redeem us from the
 
@@ -74,7 +74,7 @@ comprehend them. He cannot linger long. He suffers dreadfully, and so
 
 do those that wait upon him. But I will not harass you with further
 
-details: I have said enough, I think, to convince you that I did well
+details: I have said enough, I think, to convince you that I did [[Well|well]]
 
 to go to him.”
 
@@ -86,7 +86,7 @@ to go to him.”
 
 
 
-Poor, poor Helen! dreadful indeed her trials must have been! And I
+Poor, poor [[Helen]]! dreadful indeed her trials must have been! And I
 
 could do nothing to lessen them—nay, it almost seemed as if I had
 
@@ -110,19 +110,19 @@ Dec. 5th.
 
 
 
-He is gone at last. I sat beside him all night, with my hand fast
+He is gone at last. I sat beside him all [[Night|night]], with my hand fast
 
 locked in his, watching the changes of his features and listening to
 
-his failing breath. He had been silent a long time, and I thought he
+his failing breath. He had been silent a long [[Time|time]], and I thought he
 
 would never speak again, when he murmured, faintly but
 
-distinctly,—“Pray for me, Helen!”
+distinctly,—“Pray for me, [[Helen]]!”
 
 
 
-“I do pray for you, every hour and every minute, Arthur; but you must
+“I do pray for you, every hour and every minute, [[arthur|Arthur]]; but you must
 
 pray for yourself.”
 
@@ -130,9 +130,9 @@ pray for yourself.”
 
 His lips moved, but emitted no sound;—then his looks became unsettled;
 
-and, from the incoherent, half-uttered words that escaped him from time
+and, from the incoherent, half-uttered words that escaped him from [[Time|time]]
 
-to time, supposing him to be now unconscious, I gently disengaged my
+to [[Time|time]], supposing him to be now unconscious, I gently disengaged my
 
 hand from his, intending to steal away for a breath of air, for I was
 
@@ -146,11 +146,11 @@ not grief; it was exhaustion, that, till then, I had been enabled
 
 successfully to combat. Oh, Frederick! none can imagine the miseries,
 
-bodily and mental, of that death-bed! How could I endure to think that
+bodily and mental, of that [[Death|death]]-bed! How could I endure to think that
 
-that poor trembling soul was hurried away to everlasting torment? it
+that poor trembling [[Soul|soul]] was hurried away to everlasting torment? it
 
-would drive me mad. But, thank God, I have hope—not only from a vague
+would drive me mad. But, thank God, I have [[Hope|hope]]—not only from a vague
 
 dependence on the possibility that penitence and pardon might have
 
@@ -164,7 +164,7 @@ He hath made, _will_ bless it in the end!
 
 
 
-His body will be consigned on Thursday to that dark grave he so much
+His [[Body|body]] will be consigned on [[thursday|Thursday]] to that dark [[Grave|grave]] he so much
 
 dreaded; but the coffin must be closed as soon as possible. If you will
 
@@ -172,4 +172,4 @@ attend the funeral, come quickly, for I need help.
 
 
 
-HELEN HUNTINGDON.
+[[Helen Huntingdon|HELEN HUNTINGDON]].

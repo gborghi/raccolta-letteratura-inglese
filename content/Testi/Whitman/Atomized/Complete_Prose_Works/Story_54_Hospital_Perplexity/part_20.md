@@ -26,7 +26,7 @@ of the other. Hours, days, in my Long Island youth and early manhood,
 I haunted the shores of Rockaway or Coney island, or away east to the
 Hamptons or Montauk. Once, at the latter place, (by the old lighthouse,
 nothing but sea-tossings in sight in every direction as far as the eye
-could reach,) I remember well, I felt that I must one day write a book
+could reach,) I remember [[Well|well]], I felt that I must one day write a book
 expressing this liquid, mystic theme. Afterward, I recollect, how it
 came to me that instead of any special lyrical or epical or literary
 attempt, the sea-shore should be an invisible _influence_, a pervading
@@ -38,31 +38,31 @@ handling--quite satisfied if I could indirectly show that we have met
 and fused, even if only once, but enough--that we have really absorb'd
 each other and understand each other.)
 
-There is a dream, a picture, that for years at intervals, (sometimes
-quite long ones, but surely again, in time,) has come noiselessly up
+There is [[A Dream|a dream]], a picture, that for years at intervals, (sometimes
+quite long ones, but surely again, in [[Time|time]],) has come noiselessly up
 before me, and I really believe, fiction as it is, has enter'd largely
 into my practical life--certainly into my writings, and shaped and
 color'd them. It is nothing more or less than a stretch of interminable
 white-brown sand, hard and smooth and broad, with the ocean perpetually,
-grandly, rolling in upon it, with slow-measured sweep, with rustle and
+grandly, [[rolling]] in upon it, with slow-measured sweep, with rustle and
 hiss and foam, and many a thump as of low bass drums. This scene, this
 picture, I say, has risen before me at times for years. Sometimes I wake
-at night and can hear and see it plainly.
+at [[Night|night]] and can hear and see it plainly.
 
 
-IN MEMORY OF THOMAS PAINE.
+IN [[Memory|MEMORY]] OF THOMAS PAINE.
 
-_Spoken at Lincoln Hall, Philadelphia, Sunday, Jan. 28, '77, for 140th
+_Spoken at [[Lincoln]] Hall, Philadelphia, [[Sunday]], Jan. 28, '77, for 140th
 anniversary of T. P.'s birthday._
 
-Some thirty-five years ago, in New York city, at Tammany hall, of
-which place I was then a frequenter, I happen'd to become quite well
+Some thirty-five years ago, in [[New York]] [[City|city]], at Tammany hall, of
+which place I was then a frequenter, I happen'd to become quite [[Well|well]]
 acquainted with Thomas Paine's perhaps most intimate chum, and certainly
 his later years' very frequent companion, a remarkably fine old man,
 Col. Fellows, who may yet be remember'd by some stray relics of that
 period and spot. If you will allow me, I will first give a description
 of the Colonel himself. He was tall, of military bearing, aged about 78,
-I should think, hair white as snow, clean-shaved on the face, dress'd
+I should think, hair white as [[Snow|snow]], clean-shaved on the face, dress'd
 very neatly, a tail-coat of blue cloth with metal buttons, buff vest,
 pantaloons of drab color, and his neck, breast and wrists showing the
 whitest of linen. Under all circumstances, fine manners; a good but not
@@ -75,13 +75,13 @@ thick-hair'd, closely-cropt white head. The judges and young lawyers,
 with whom he was ever a favorite, and the subject of respect, used to
 call him Aristides. It was the general opinion among them that if manly
 rectitude and the instincts of absolute justice remain'd vital anywhere
-about New York City Hall, or Tammany, they were to be found in Col.
+about [[New York]] [[City]] Hall, or Tammany, they were to be found in Col.
 Fellows. He liked young men, and enjoy'd to leisurely talk with them
 over a social glass of toddy, after his day's work, (he on these
 occasions never drank but one glass,) and it was at reiterated meetings
 of this kind in old Tammany's back parlor of those days, that he told
 me much about Thomas Paine. At one of our interviews he gave me a minute
-account of Paine's sickness and death. In short, from those talks, I
+account of Paine's sickness and [[Death|death]]. In short, from those talks, I
 was and am satisfied that my old friend, with his mark'd advantages, had
 mentally, morally and emotionally gauged the author of "Common Sense,"
 and besides giving me a good portrait of his appearance and manners, had
@@ -90,15 +90,15 @@ taken the true measure of his interior character.
 Paine's practical demeanor, and much of his theoretical belief, was a
 mixture of the French and English schools of a century ago, and the best
 of both. Like most old-fashion'd people, he drank a glass or two every
-day, but was no tippler, nor intemperate, let alone being a drunkard.
-He lived simply and economically, but quite well--was always cheery and
+day, but was no tippler, nor intemperate, let [[Alone|alone]] being a drunkard.
+He lived simply and economically, but quite [[Well|well]]--was always cheery and
 courteous, perhaps occasionally a little blunt, having very positive
-opinions upon politics, religion, and so forth. That he labor'd well and
+opinions upon politics, religion, and so forth. That he labor'd [[Well|well]] and
 wisely for the States in the trying period of their parturition, and in
 the seeds of their character, there seems to me no question. I dare
-not say how much of what our Union is owning and enjoying to-day--its
+not say how much of what our [[Union]] is owning and enjoying to-day--its
 independence--its ardent belief in, and substantial practice of
-radical human rights--and the severance of its government from all
+radical human rights--and the severance of its [[government]] from all
 ecclesiastical and superstitious dominion--I dare not say how much of
 all this is owing to Thomas Paine, but I am inclined to think a good
 portion of it decidedly is.
@@ -106,21 +106,21 @@ portion of it decidedly is.
 But I was not going either into an analysis or eulogium of the man.
 I wanted to carry you back a generation or two, and give you by
 indirection a moment's glance--and also to ventilate a very earnest and
-I believe authentic opinion, nay conviction, of that time, the fruit
+I believe authentic opinion, nay conviction, of that [[Time|time]], the fruit
 of the interviews I have mention'd, and of questioning and
-cross-questioning, clench'd by my best information since, that Thomas
+[[Cross|cross]]-questioning, clench'd by my best information since, that Thomas
 Paine had a noble personality, as exhibited in presence, face, voice,
 dress, manner, and what may be call'd his atmosphere and magnetism,
 especially the later years of his life. I am sure of it. Of the foul and
 foolish fictions yet told about the circumstances of his decease, the
 absolute fact is that as he lived a good life, after its kind, he died
-calmly and philosophically, as became him. He served the embryo Union
-with most precious service--a service that every man, woman and child
+calmly and philosophically, as became him. He served the embryo [[Union]]
+with most precious service--a service that every man, woman and [[Child|child]]
 in our thirty-eight States is to some extent receiving the benefit of
 to-day--and I for one here cheerfully, reverently throw my pebble on the
-cairn of his memory. As we all know, the season demands--or rather, will
-it ever be out of season?--that America learn to better dwell on her
+cairn of his [[Memory|memory]]. As we all know, the season demands--or rather, will
+it ever be out of season?--that [[america|America]] learn to better dwell on her
 choicest possession, the legacy of her good and faithful men--that she
-well preserve their fame, if unquestion'd--or, if need be, that she fail
+[[Well|well]] preserve their fame, if unquestion'd--or, if need be, that she fail
 not to dissipate what clouds have intruded on that fame, and burnish it
 newer, truer and brighter, continually.

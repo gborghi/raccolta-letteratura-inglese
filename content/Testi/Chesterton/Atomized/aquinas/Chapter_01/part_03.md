@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 1 (part 3)"
+title: "[[aquinas]] — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -21,34 +21,34 @@ that was once said about superstition, the Dark Ages and the sterility
 of Scholasticism, it was in every sense a movement of enlargement,
 always moving towards greater light and even greater liberty.
 Second, in spite of all that was said later on about progress
-and the Renaissance and forerunners of modern thought, it was
+and the [[Renaissance]] and forerunners of modern thought, it was
 almost entirely a movement of orthodox theological enthusiasm,
 unfolded from within.  It was not a compromise with the world,
 or a surrender to heathens or heretics, or even a mere borrowing
 of external aids, even when it did borrow them.  In so far as it
 did reach out to the light of common day, it was like the action
-of a plant which by its own force thrusts out its leaves into the sun;
-not like the action of one who merely lets daylight into a prison.
+of a plant which by its own force thrusts out its [[Leaves|leaves]] into the sun;
+not like the action of one who merely lets daylight into a [[Prison|prison]].
 
 In short, it was what is technically called a Development in doctrine.
 But there seems to be a queer ignorance, not only about
 the technical, but the natural meaning of the word Development.
 The critics of Catholic theology seem to suppose that it is not so
 much an evolution as an evasion; that it is at best an adaptation.
-They fancy that its very success is the success of surrender.
+They fancy that its very [[success]] is the [[success]] of surrender.
 But that is not the natural meaning of the word Development.
-When we talk of a child being well-developed, we mean
+When we talk of a [[Child|child]] being [[Well|well]]-developed, we mean
 that he has grown bigger and stronger with his own strength;
 not that he is padded with borrowed pillows or walks on stilts
 to make him look taller.  When we say that a puppy develops into
 a dog, we do not mean that his growth is a gradual compromise
 with a cat; we mean that he becomes more doggy and not less.
 Development is the expansion of all the possibilities and implications
-of a doctrine, as there is time to distinguish them and draw
+of a doctrine, as there is [[Time|time]] to distinguish them and draw
 them out; and the point here is that the enlargement of medieval
 theology was simply the full comprehension of that theology.
 And it is of primary importance to realise this fact first,
-about the time of the great Dominican and the first Franciscan,
+about the [[Time|time]] of the great Dominican and the first Franciscan,
 because their tendency, humanistic and naturalistic in a hundred ways,
 was truly the development of the supreme doctrine, which was
 also the dogma of all dogmas.  It is in this that the popular
@@ -62,24 +62,24 @@ of two things which simultaneously eat each other, as the perfect
 form of unification.  But it is not so with living things.
 St. Francis was content to call himself the Troubadour of God;
 but not content with the God of the Troubadours.  St. Thomas did not
-reconcile Christ to Aristotle; he reconciled Aristotle to Christ.
+reconcile [[Christ]] to Aristotle; he reconciled Aristotle to [[Christ]].
 
 Yes; in spite of the contrasts that are as conspicuous and even comic
 as the comparison between the fat man and the thin man, the tall
 man and the short:  in spite of the contrast between the vagabond
-and the student, between the apprentice and the aristocrat,
-between the book-hater and the book-lover, between the wildest
+and the student, between the apprentice and the [[aristocrat]],
+between the book-hater and the book-[[Lover|lover]], between the wildest
 of all missionaries and the mildest of all professors, the great
-fact of medieval history is that these two great men were doing
+fact of medieval [[history]] is that these two great men were doing
 the same great work; one in the study and the other in the street.
-They were not bringing something new into Christianity; in the sense
-of something heathen or heretical into Christianity; on the contrary,
-they were bringing Christianity into Christendom.  But they were
+They were not bringing something new into [[Christianity]]; in the sense
+of something heathen or heretical into [[Christianity]]; on the contrary,
+they were bringing [[Christianity]] into Christendom.  But they were
 bringing it back against the pressure of certain historic tendencies,
 which had hardened into habits in many great schools and authorities
 in the Christian Church; and they were using tools and weapons which
 seemed to many people to be associated with heresy or heathenry.
-St. Francis used Nature much as St. Thomas used Aristotle;
+St. Francis used [[Nature]] much as St. Thomas used Aristotle;
 and to some they seemed to be using a Pagan goddess and a Pagan sage.
 What they were really doing, and especially what St. Thomas
 was really doing, will form the main matter of these pages;
@@ -88,13 +88,13 @@ more popular saint; because we may thus sum up the substance of it
 in the most popular way.  Perhaps it would sound too paradoxical to say
 that these two saints saved us from Spirituality; a dreadful doom.
 Perhaps it may be misunderstood if I say that St. Francis, for all his
-love of animals, saved us from being Buddhists; and that St. Thomas,
-for all his love of Greek philosophy, saved us from being Platonists.
-But it is best to say the truth in its simplest form; that they
+[[Love|love]] of [[Animals|animals]], saved us from being Buddhists; and that St. Thomas,
+for all his [[Love|love]] of Greek [[philosophy]], saved us from being Platonists.
+But it is best to say the [[Truth|truth]] in its simplest form; that they
 both reaffirmed the Incarnation, by bringing God back to earth.
 
 This analogy, which may seem rather remote, is really perhaps
-the best practical preface to the philosophy of St. Thomas.
+the best practical preface to the [[philosophy]] of St. Thomas.
 As we shall have to consider more closely later on, the purely spiritual
 or mystical side of Catholicism had very much got the upper hand
 in the first Catholic centuries; through the genius of Augustine,
@@ -106,9 +106,9 @@ weighed down what we should now roughly call the Western element;
 though it has as good a right to be called the Christian element:
 since its common sense is but the holy familiarity of the word
 made flesh.  Anyhow, it must suffice for the moment to say that
-theologians had somewhat stiffened into a sort of Platonic pride
+theologians had somewhat stiffened into a sort of Platonic [[Pride|pride]]
 in the possession of intangible and untranslatable truths within;
 as if no part of their wisdom had any root anywhere in the real world.
-Now the first thing that Aquinas did, though by no means
+Now the first thing that [[aquinas|Aquinas]] did, though by no means
 the last, was to say to these pure transcendentalists something
 substantially like this.

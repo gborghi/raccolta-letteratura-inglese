@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 10 (part 4)"
+title: "[[Jane Eyre]] — Chapter 10 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -16,17 +16,17 @@ tags:
 
 “Georgiana is handsome, I suppose, Bessie?”
 
-“Very. She went up to London last winter with her mama, and there
-everybody admired her, and a young lord fell in love with her: but his
+“Very. She went up to [[London]] last [[Winter|winter]] with her mama, and there
+everybody admired her, and a young lord fell in [[Love|love]] with her: but his
 relations were against the match; and—what do you think?—he and Miss
 Georgiana made it up to run away; but they were found out and stopped.
 It was Miss Reed that found them out: I believe she was envious; and
 now she and her sister lead a cat and dog life together; they are
 always quarrelling—”
 
-“Well, and what of John Reed?”
+“[[Well]], and what of John Reed?”
 
-“Oh, he is not doing so well as his mama could wish. He went to
+“Oh, he is not doing so [[Well|well]] as his mama could wish. He went to
 college, and he got—plucked, I think they call it: and then his uncles
 wanted him to be a barrister, and study the law: but he is such a
 dissipated young man, they will never make much of him, I think.”
@@ -38,7 +38,7 @@ has such thick lips.”
 
 “And Mrs. Reed?”
 
-“Missis looks stout and well enough in the face, but I think she’s not
+“Missis looks stout and [[Well|well]] enough in the face, but I think she’s not
 quite easy in her mind: Mr. John’s conduct does not please her—he
 spends a deal of money.”
 
@@ -54,13 +54,13 @@ I perceived that Bessie’s glance, though it expressed regard, did in no
 shape denote admiration.
 
 “No, Miss Jane, not exactly: you are genteel enough; you look like a
-lady, and it is as much as ever I expected of you: you were no beauty
-as a child.”
+lady, and it is as much as ever I expected of you: you were no [[Beauty|beauty]]
+as a [[Child|child]].”
 
 I smiled at Bessie’s frank answer: I felt that it was correct, but I
 confess I was not quite indifferent to its import: at eighteen most
 people wish to please, and the conviction that they have not an
-exterior likely to second that desire brings anything but
+exterior likely to second that [[Desire|desire]] brings anything but
 gratification.
 
 “I dare say you are clever, though,” continued Bessie, by way of
@@ -72,16 +72,16 @@ There was one in the room; Bessie went and opened it, and then asked me
 to sit down and give her a tune: I played a waltz or two, and she was
 charmed.
 
-“The Miss Reeds could not play as well!” said she exultingly. “I always
+“The Miss Reeds could not play as [[Well|well]]!” said she exultingly. “I always
 said you would surpass them in learning: and can you draw?”
 
 “That is one of my paintings over the chimney-piece.” It was a
-landscape in water colours, of which I had made a present to the
+landscape in [[Water|water]] colours, of which I had made a present to the
 superintendent, in acknowledgment of her obliging mediation with the
 committee on my behalf, and which she had framed and glazed.
 
-“Well, that is beautiful, Miss Jane! It is as fine a picture as any
-Miss Reed’s drawing-master could paint, let alone the young ladies
+“[[Well]], that is beautiful, Miss Jane! It is as fine a picture as any
+Miss Reed’s drawing-master could paint, let [[Alone|alone]] the young ladies
 themselves, who could not come near it: and have you learnt French?”
 
 “Yes, Bessie, I can both read it and speak it.”
@@ -97,13 +97,13 @@ kinsfolk, the Eyres?”
 
 “Never in my life.”
 
-“Well, you know Missis always said they were poor and quite despicable:
+“[[Well]], you know Missis always said they were poor and quite despicable:
 and they may be poor; but I believe they are as much gentry as the
 Reeds are; for one day, nearly seven years ago, a Mr. Eyre came to
 Gateshead and wanted to see you; Missis said you were at school fifty
 miles off; he seemed so much disappointed, for he could not stay: he
-was going on a voyage to a foreign country, and the ship was to sail
-from London in a day or two. He looked quite a gentleman, and I believe
+was going on a voyage to a foreign country, and the [[Ship|ship]] was to sail
+from [[London]] in a day or two. He looked quite a gentleman, and I believe
 he was your father’s brother.”
 
 “What foreign country was he going to, Bessie?”
@@ -117,7 +117,7 @@ tell me—”
 
 “So he went?”
 
-“Yes; he did not stay many minutes in the house: Missis was very high
+“Yes; he did not stay many minutes in the [[house]]: Missis was very high
 with him; she called him afterwards a ‘sneaking tradesman.’ My Robert
 believes he was a wine-merchant.”
 

@@ -18,13 +18,13 @@ In this sense we may agree with the newspaper correspondent;
 that the Reformers were not Revolutionists.  We can reassure that simple
 gentleman of our full realisation that they were not Bolshevists.
 We can entirely absolve the Cranmers and the Cromwells of any restless
-desire to raise the proletariat.  We can clear the great names of Burleigh
+[[Desire|desire]] to raise the proletariat.  We can clear the great names of Burleigh
 and Bacon of the stain of any dangerous sympathy with the poor.
 The distinguishing mark of the Reformers was a profound respect
 for the powers that be, but an even profounder respect for the wealth
 that was to be; and a really unfathomable reverence for the wealth
 that was to be their own.  Some people like that spirit,
-and regard it as the soundest foundation of stable government;
+and regard it as the soundest foundation of stable [[government]];
 we need not argue about it here.  It is, broadly speaking,
 what is regarded as respectability by all those who have nothing else
 to respect.  Certainly nobody could confuse it with revolution.
@@ -33,13 +33,13 @@ another fashion, also more or less favourable to the Reformers.
 Capitalism was not only solid, it was in a sense candid.  It set up
 a class to be worshipped openly and frankly because of its wealth.
 That is the point at the moment and the real contrast between this
-and the older mediaeval order.  Such wealth was the abuse of the monks
+and the older mediaeval order.  Such wealth was the abuse of the [[Monks|monks]]
 and abbots; it was the use of the merchants and the squires.
 The avaricious abbot violated his ideals.  The avaricious employer
 had no ideals to violate.  For there never has been, properly speaking,
 such a thing as the ideal good of Capitalism; though there are any
 number of good men who are Capitalists following other ideals.
-The Reformation, especially in England, was above all the abandonment
+The [[Reformation]], especially in England, was above all the abandonment
 of the attempt to rule the world by ideals, or even by ideas.
 The attempt had undoubtedly failed, in part, because those who
 were supposed to be the idealists failed to uphold the ideals;
@@ -59,18 +59,18 @@ Cecil had obtained the power of having any of his neighbours hanged.
 Facts are at least solid while they last; but the fatal thing about
 them is that they do not last.  It is only the ideas that last.
 And to-day a man may be called Russell and have considerably less
-money than a man who is called Rockefeller; and history may see
+money than a man who is called Rockefeller; and [[history]] may see
 the amazing spectacle of a man called Cecil largely thrust out
 of practical politics and called an idealist and a failure.
 
 The same progress of Capitalism that made the squires has
 destroyed the squires.  The same commercial advance that exalted
-England before Europe has abased England before America.
+England before Europe has abased England before [[America]].
 Exactly in so far as we have our affections healthily attached to this
 adventurous and patriotic England of the last few centuries, we shall
 see that our affections and attachments are bound to be betrayed.
 The process called practical, the attempt to rule merely by facts,
-has in its own nature the essence of all betrayal.  We discover
+has in its own [[Nature|nature]] the essence of all betrayal.  We discover
 that facts, which seem so solid, are of all things the most fluid.
 As the professors and the prigs say, facts are always evolving;
 in other words, they are always evading or escaping or running away.
@@ -88,11 +88,11 @@ ever seen; and which are for all practical purposes imaginary.
 So ends the adventure of trusting only to facts; it ends in a fairyland
 of fantastic abstractions.
 
-We must go back to the idea of government by ideas.  There is just
-that grain of truth in the already mentioned fantasy of Communism.
+We must go back to the idea of [[government]] by ideas.  There is just
+that grain of [[Truth|truth]] in the already mentioned fantasy of Communism.
 But there were many richer, and subtler and better balanced ideas
 even in the mediaeval make-up of Catholicism.  I repeat that this
-Catholicism was ruined by Catholics as well as Protestants.
+Catholicism was ruined by Catholics as [[Well|well]] as Protestants.
 Mediaeval sins hampered and corrupted mediaeval ideas,
 before the Reformers decided to throw away all ideas.
 But that was the right thing to follow, or to try to follow; and there
@@ -102,25 +102,25 @@ But many more modern men are more disastrously failing in the attempt
 to live without them.  And through that failure we shall gradually
 come to understand the real advantages of that ancient scheme
 which only partly failed; according to which, in theory at least,
-the man of peace was higher than the man of war, and poverty
+the man of peace was higher than the man of war, and [[Poverty|poverty]]
 superior to wealth.
 
-There is one quaint little phrase in Macaulay's essay on Bacon;
+There is one quaint little phrase in Macaulay's [[Essay|essay]] on Bacon;
 that great outbreak of the Philistines against the Philosophers.
 In one small sentence the great Philistine betrays the weakness
 of his whole argument of utility.  Speaking scornfully of
-the Schoolmen, he says that St. Thomas Aquinas would doubtless
+the Schoolmen, he says that St. Thomas [[aquinas|Aquinas]] would doubtless
 (such was his simplicity) have thought it more important to engage
 in the manufacture of syllogisms than in the manufacture of gunpowder.
 Not even the Gunpowder Plot could prevent that sturdy
 Protestant from assuming that gunpowder is always useful.
-Since his time we have seen a good deal more gunpowder.
+Since his [[Time|time]] we have seen a good deal more gunpowder.
 One does not need to be a pacifist to think that gunpowder
 need hardly go on being useful on quite such a grand scale.
 And a great part of the world has now reached a mood of reaction,
 in which it is disposed to cry out, "If there are any syllogisms that will
 save us from all this gunpowder, for God's sake let us listen to them."
-Even logic they are prepared, in their despair, to accept.
+Even [[logic]] they are prepared, in their [[Despair|despair]], to accept.
 They will not only listen to religion, they will even perhaps listen
 to reason, if it will promise them a little peace.
 

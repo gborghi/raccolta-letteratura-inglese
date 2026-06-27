@@ -1,5 +1,5 @@
 ---
-title: "The Landscape Garden (part 1)"
+title: "[[The Landscape Garden]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Landscape-Garden-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The garden like a lady fair was cut
+The [[Garden|garden]] like a lady fair was cut
 
          That lay as if she slumbered in delight,
 
@@ -24,11 +24,11 @@ The garden like a lady fair was cut
 
          In a large round set with flow’rs of light:
 
-     The flowers de luce and the round sparks of dew
+     The [[Flowers|flowers]] de luce and the round sparks of dew
 
-     That hung upon their azure leaves, did show
+     That hung upon their azure [[Leaves|leaves]], did show
 
-     Like twinkling stars that sparkle in the ev’ning blue.
+     Like twinkling [[Stars|stars]] that sparkle in the ev’ning blue.
 
                     —GILES FLETCHER
 
@@ -40,7 +40,7 @@ The garden like a lady fair was cut
 
       of good gifts ever lavished upon him by fortune. From his cradle
 
-      to his grave, a gale of the blandest prosperity bore him along.
+      to his [[Grave|grave]], a gale of the blandest prosperity bore him along.
 
       Nor do I use the word Prosperity in its mere wordly or external
 
@@ -56,7 +56,7 @@ The garden like a lady fair was cut
 
       Ellison, I fancy, that I have seen refuted the dogma—that in
 
-      man’s physical and spiritual nature, lies some hidden principle,
+      man’s physical and spiritual [[Nature|nature]], lies some hidden principle,
 
       the antagonist of Bliss. An intimate and anxious examination of
 
@@ -86,9 +86,9 @@ The garden like a lady fair was cut
 
       part the result of preconcert. It is, indeed evident, that with
 
-      less of the instinctive philosophy which, now and then, stands so
+      less of the instinctive [[philosophy]] which, now and then, stands so
 
-      well in the stead of experience, Mr. Ellison would have found
+      [[Well|well]] in the stead of experience, Mr. Ellison would have found
 
       himself precipitated, by the very extraordinary successes of his
 
@@ -96,7 +96,7 @@ The garden like a lady fair was cut
 
       of preeminent endowments. But it is by no means my present object
 
-      to pen an essay on Happiness. The ideas of my friend may be
+      to pen an [[Essay|essay]] on Happiness. The ideas of my friend may be
 
       summed up in a few words. He admitted but four unvarying laws, or
 
@@ -114,9 +114,9 @@ The garden like a lady fair was cut
 
       instanced the high ecstasies of the fox-hunter. His second
 
-      principle was the love of woman. His third was the contempt of
+      principle was the [[Love|love]] of woman. His third was the contempt of
 
-      ambition. His fourth was an object of unceasing pursuit; and he
+      [[Ambition|ambition]]. His fourth was an object of unceasing pursuit; and he
 
       held that, other things being equal, the extent of happiness was
 
@@ -128,7 +128,7 @@ The garden like a lady fair was cut
 
       profusion of good gifts lavished upon him by Fortune. In personal
 
-      grace and beauty he exceeded all men. His intellect was of that
+      grace and [[Beauty|beauty]] he exceeded all men. His intellect was of that
 
       order to which the attainment of knowledge is less a labor than a
 
@@ -156,19 +156,19 @@ The garden like a lady fair was cut
 
       fortune, and, having no very immediate connexions, conceived the
 
-      whim of suffering his wealth to accumulate for a century after
+      whim of [[Suffering|suffering]] his wealth to accumulate for a century after
 
       his decease. Minutely and sagaciously directing the various modes
 
       of investment, he bequeathed the aggregate amount to the nearest
 
-      of blood, bearing the name Ellison, who should be alive at the
+      of [[Blood|blood]], bearing the name Ellison, who should be alive at the
 
       end of the hundred years. Many futile attempts had been made to
 
       set aside this singular bequest; their ex post facto character
 
-      rendered them abortive; but the attention of a jealous government
+      rendered them abortive; but the attention of a jealous [[government]]
 
       was aroused, and a decree finally obtained, forbidding all
 
@@ -188,7 +188,7 @@ The garden like a lady fair was cut
 
       the mode of its disposal. The gigantic magnitude and the
 
-      immediately available nature of the sum, dazzled and bewildered
+      immediately available [[Nature|nature]] of the sum, dazzled and bewildered
 
       all who thought upon the topic. The possessor of any appreciable
 
@@ -198,6 +198,6 @@ The garden like a lady fair was cut
 
       citizen, it would have been easy to suppose him engaging to
 
-      supreme excess in the fashionable extravagances of his time; or
+      supreme excess in the fashionable extravagances of his [[Time|time]]; or
 
       busying himself with political intrigues; or aiming at

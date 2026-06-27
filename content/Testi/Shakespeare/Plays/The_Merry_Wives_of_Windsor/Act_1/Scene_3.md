@@ -16,51 +16,51 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Sir John Falstaff, Bardolph, Nim, Pistol, and Robin |
+| *(didascalia)* | Enter Sir John [[Falstaff]], Bardolph, Nim, [[Pistol]], and Robin |
 | SIR JOHN | Mine Host of the Garter! |
 | *(didascalia)* | Enter the Host of the Garter |
 | HOST | What says my bully rook? Speak scholarly and wisely. |
 | SIR JOHN | Truly, mine Host, I must turn away some of my followers. |
 | HOST | Discard, bully Hercules, cashier. Let them wag. Trot, trot. |
 | SIR JOHN | I sit at ten pounds a week. |
-| HOST | Thou’rt an emperor: Caesar, kaiser, and pheezer. I will entertain Bardolph. He shall draw, he shall tap. Said I well, bully Hector? 11 |
+| HOST | Thou’rt an emperor: Caesar, kaiser, and pheezer. I will entertain Bardolph. He shall draw, he shall tap. Said I [[Well|well]], bully [[Hector]]? 11 |
 | SIR JOHN | Do so, good mine Host. |
 | HOST | I have spoke; let him follow. (To Bardolph) Let me see thee froth and lime. I am at a word: follow. Exit |
 | SIR JOHN | Bardolph, follow him. A tapster is a good trade. An old cloak makes a new jerkin; a withered servingman a fresh tapster. Go; adieu. |
 | BARDOLPH | It is a life that I have desired. I will thrive. |
 | *(didascalia)* | Exit |
-| PISTOL | O base Hungarian wight, wilt thou the spigot wield? |
-| NIM | He was gotten in drink; his mind is not heroic. Is not the humour conceited? |
-| SIR JOHN | I am glad I am so acquit of this tinderbox. His thefts were too open. His filching was like an unskilful singer: he kept not time.<br>Him The good humour is to steal at a minute’s rest. |
-| PISTOL | ‘Convey’ the wise it call. ‘Steal’? Foh, a fico for the<br>phrase! |
-| SIR JOHN | Well, sirs, I am almost out at heels. |
-| PISTOL | Why then, let kibes ensue. |
+| [[Pistol|PISTOL]] | O base Hungarian wight, wilt thou the spigot wield? |
+| NIM | He was gotten in drink; his mind is not heroic. Is not the [[Humour|humour]] conceited? |
+| SIR JOHN | I am glad I am so acquit of this tinderbox. His thefts were too open. His filching was like an unskilful singer: he kept not [[Time|time]].<br>Him The good [[Humour|humour]] is to steal at a minute’s rest. |
+| [[Pistol|PISTOL]] | ‘Convey’ the wise it call. ‘Steal’? Foh, a fico for the<br>phrase! |
+| SIR JOHN | [[Well]], sirs, I am almost out at heels. |
+| [[Pistol|PISTOL]] | Why then, let kibes ensue. |
 | SIR JOHN | There is no remedy: I must cony-catch, I must shift. |
-| PISTOL | Young ravens must have food. |
+| [[Pistol|PISTOL]] | Young ravens must have food. |
 | SIR JOHN | Which of you know Ford of this town? |
-| PISTOL | I ken the wight. He is of substance good. |
+| [[Pistol|PISTOL]] | I ken the wight. He is of substance good. |
 | SIR JOHN | My honest lads, I will tell you what I am about. |
-| PISTOL | Two yards and more. |
-| SIR JOHN | No quips now, Pistol. Indeed, I am in the waist two yards about. But I am now about no waste; I am about thrift. Briefly, I do mean to make love to Ford’s wife. I spy entertainment in her. She discourses, she carves, she gives the leer of invitation. I can construe the action of her familiar style; and the hardest voice of her behaviour, to be Englished rightly, is ‘I am Sir John Falstaff’s’. |
-| PISTOL | He hath studied her well, and translated her will: out of honesty, into English. |
-| NIM | The anchor is deep. Will that humour pass? |
+| [[Pistol|PISTOL]] | Two yards and more. |
+| SIR JOHN | No quips now, [[Pistol]]. Indeed, I am in the waist two yards about. But I am now about no waste; I am about thrift. Briefly, I do mean to make [[Love|love]] to Ford’s wife. I spy entertainment in her. She discourses, she carves, she gives the leer of invitation. I can construe the action of her familiar style; and the hardest voice of her behaviour, to be Englished rightly, is ‘I am Sir John [[Falstaff]]’s’. |
+| [[Pistol|PISTOL]] | He hath studied her [[Well|well]], and translated her will: out of honesty, into English. |
+| NIM | The anchor is deep. Will that [[Humour|humour]] pass? |
 | SIR JOHN | Now, the report goes, she has all the rule of her husband’s purse; he hath a legion of angels. |
-| PISTOL | As many devils entertain, and ‘To her, boy!’ say I. |
-| NIM | The humour rises; it is good. Humour me the angels! |
+| [[Pistol|PISTOL]] | As many devils entertain, and ‘To her, boy!’ say I. |
+| NIM | The [[Humour|humour]] rises; it is good. [[Humour]] me the angels! |
 | SIR JOHN | (showing letters) I have writ me here a letter to her—and here another to Page’s wife, who even now gave me good eyes too, examined my parts with most judicious oeillades; sometimes the beam of her view gilded my foot, sometimes my portly belly. |
-| PISTOL | Then did the sun on dunghill shine. |
-| NIM | I thank thee for that humour. |
-| SIR JOHN | O, she did so course o’er my exteriors, with such a greedy intention, that the appetite of her eye did seem to scorch me up like a burning-glass! Here’s another letter to her. She bears the purse too. She is a region in Guiana, all gold and bounty. I will be cheaters to them both, and they shall be exchequers to me. They shall be my East and West Indies, and I will trade to them both. (Giving a letter to Pistol) Go bear thou this letter to Mistress Page, (giving a letter to Nim) and thou this to Mistress Ford. We will thrive, lads, we will thrive. |
-| PISTOL | (returning the letter)<br>Shall I Sir Pandarus of Troy become,<br>And by my side wear steel? Then Lucifer take all. |
-| NIM | (returning the letter) I will run no base humour. Here, take the humour-letter. I will keep the haviour of reputation. |
-| SIR JOHN | (to Robin)<br>Hold, sirrah. Bear you these letters tightly.<br>Sail like my pinnace to these golden shores.<br>He gives Robin the letters<br>Rogues, hence, avaunt! Vanish like hailstones! Go!<br>Trudge, plod, away o’th’ hoof, seek shelter, pack!<br>Falstaff will learn the humour of the age:<br>French thrift, you rogues—myself and skirted page. |
+| [[Pistol|PISTOL]] | Then did the sun on dunghill shine. |
+| NIM | I thank thee for that [[Humour|humour]]. |
+| SIR JOHN | O, she did so course o’er my exteriors, with such a greedy intention, that the appetite of her eye did seem to scorch me up like a burning-glass! Here’s another letter to her. She bears the purse too. She is a region in Guiana, all gold and bounty. I will be cheaters to them both, and they shall be exchequers to me. They shall be my East and West Indies, and I will trade to them both. (Giving a letter to [[Pistol]]) Go bear thou this letter to [[Mistress Page]], (giving a letter to Nim) and thou this to [[Mistress Ford]]. We will thrive, lads, we will thrive. |
+| [[Pistol|PISTOL]] | (returning the letter)<br>Shall I Sir [[Pandarus]] of Troy become,<br>And by my side wear steel? Then [[Lucifer]] take all. |
+| NIM | (returning the letter) I will run no base [[Humour|humour]]. Here, take the [[Humour|humour]]-letter. I will keep the haviour of reputation. |
+| SIR JOHN | (to Robin)<br>Hold, sirrah. Bear you these letters tightly.<br>Sail like my pinnace to these golden shores.<br>He gives Robin the letters<br>Rogues, hence, avaunt! Vanish like hailstones! Go!<br>Trudge, plod, away o’th’ hoof, seek shelter, pack!<br>[[Falstaff]] will learn the [[Humour|humour]] of the age:<br>French thrift, you rogues—myself and skirted page. |
 | *(didascalia)* | Exeunt Sir John and Robin |
-| PISTOL | Let vultures gripe thy guts!—for gourd and fullam<br>holds,<br>And high and low beguiles the rich and poor.<br>Tester I’ll have in pouch when thou shalt lack,<br>Base Phrygian Turk! |
-| NIM | I have operations which be humours of revenge. |
-| PISTOL | Wilt thou revenge? |
-| NIM | By welkin and her stars! |
-| PISTOL | With wit or steel? |
-| NIM | With both the humours, I.<br>I will discuss the humour of this love to Ford. |
-| PISTOL | And I to Page shall eke unfold<br>How Falstaff, varlet vile,<br>His dove will prove, his gold will hold,<br>And his soft couch defile. |
-| NIM | My humour shall not cool. I will incense Ford to deal with poison; I will possess him with yellowness; for this revolt of mine is dangerous. That is my true humour. |
-| PISTOL | Thou art the Mars of malcontents.<br>I second thee. Troop on. Exeunt |
+| [[Pistol|PISTOL]] | Let vultures gripe thy guts!—for gourd and fullam<br>holds,<br>And high and low beguiles the rich and poor.<br>Tester I’ll have in pouch when thou shalt lack,<br>Base Phrygian Turk! |
+| NIM | I have operations which be humours of [[Revenge|revenge]]. |
+| [[Pistol|PISTOL]] | Wilt thou [[Revenge|revenge]]? |
+| NIM | By welkin and her [[Stars|stars]]! |
+| [[Pistol|PISTOL]] | With wit or steel? |
+| NIM | With both the humours, I.<br>I will discuss the [[Humour|humour]] of this [[Love|love]] to Ford. |
+| [[Pistol|PISTOL]] | And I to Page shall eke unfold<br>How [[Falstaff]], varlet vile,<br>His dove will prove, his gold will hold,<br>And his soft couch defile. |
+| NIM | My [[Humour|humour]] shall not cool. I will incense Ford to deal with [[Poison|poison]]; I will possess him with yellowness; for this revolt of mine is dangerous. That is my true [[Humour|humour]]. |
+| [[Pistol|PISTOL]] | Thou art the Mars of malcontents.<br>I second thee. Troop on. Exeunt |

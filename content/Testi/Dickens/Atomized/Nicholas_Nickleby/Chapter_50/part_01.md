@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 50 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 50 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,8 +25,8 @@ cloudless sky, and shining in its fullest splendour. Every gaudy colour
 that fluttered in the air from carriage seat and garish tent top, shone
 out in its gaudiest hues. Old dingy flags grew new again, faded gilding
 was re-burnished, stained rotten canvas looked a snowy white, the very
-beggars’ rags were freshened up, and sentiment quite forgot its charity
-in its fervent admiration of poverty so picturesque.
+beggars’ rags were freshened up, and sentiment quite forgot its [[Charity|charity]]
+in its fervent admiration of [[Poverty|poverty]] so picturesque.
 
 It was one of those scenes of life and animation, caught in its very
 brightest and freshest moments, which can scarcely fail to please;
@@ -39,11 +39,11 @@ though they be, suggest a drop of comfort. It is a pleasant thing to see
 that the sun has been there; to know that the air and light are on them
 every day; to feel that they ARE children, and lead children’s lives;
 that if their pillows be damp, it is with the dews of Heaven, and not
-with tears; that the limbs of their girls are free, and that they are
+with [[Tears|tears]]; that the limbs of their girls are free, and that they are
 not crippled by distortions, imposing an unnatural and horrible penance
 upon their sex; that their lives are spent, from day to day, at least
 among the waving trees, and not in the midst of dreadful engines which
-make young children old before they know what childhood is, and give
+make young children old before they know what [[Childhood|childhood]] is, and give
 them the exhaustion and infirmity of age, without, like age, the
 privilege to die. God send that old nursery tales were true, and that
 gypsies stole such children by the score!
@@ -52,14 +52,14 @@ The great race of the day had just been run; and the close lines of
 people, on either side of the course, suddenly breaking up and pouring
 into it, imparted a new liveliness to the scene, which was again all
 busy movement. Some hurried eagerly to catch a glimpse of the winning
-horse; others darted to and fro, searching, no less eagerly, for the
-carriages they had left in quest of better stations. Here, a little knot
+[[Horse|horse]]; others darted to and fro, searching, no less eagerly, for the
+carriages they had left in [[Quest|quest]] of better stations. Here, a little knot
 gathered round a pea and thimble table to watch the plucking of some
 unhappy greenhorn; and there, another proprietor with his confederates
 in various disguises--one man in spectacles; another, with an eyeglass
-and a stylish hat; a third, dressed as a farmer well to do in the world,
+and a stylish hat; a third, dressed as a farmer [[Well|well]] to do in the world,
 with his top-coat over his arm and his flash notes in a large leathern
-pocket-book; and all with heavy-handled whips to represent most innocent
+pocket-book; and all with heavy-handled whips to represent most [[Innocent|innocent]]
 country fellows who had trotted there on horseback--sought, by loud and
 noisy talk and pretended play, to entrap some unwary customer, while the
 gentlemen confederates (of more villainous aspect still, in clean linen
@@ -82,8 +82,8 @@ gambling, and mummery.
 Of the gambling-booths there was a plentiful show, flourishing in all
 the splendour of carpeted ground, striped hangings, crimson cloth,
 pinnacled roofs, geranium pots, and livery servants. There were the
-Stranger’s club-house, the Athenaeum club-house, the Hampton club-house,
-the St James’s club-house, and half a mile of club-houses to play IN;
+Stranger’s club-[[house]], the Athenaeum club-[[house]], the Hampton club-[[house]],
+the St James’s club-[[house]], and half a mile of club-houses to play IN;
 and there were ROUGE-ET-NOIR, French hazard, and other games to play AT.
 It is into one of these booths that our story takes its way.
 
@@ -106,7 +106,7 @@ Of these, one was a man of six or eight and fifty, who sat on a chair
 near one of the entrances of the booth, with his hands folded on the
 top of his stick, and his chin appearing above them. He was a tall, fat,
 long-bodied man, buttoned up to the throat in a light green coat, which
-made his body look still longer than it was. He wore, besides, drab
+made his [[Body|body]] look still longer than it was. He wore, besides, drab
 breeches and gaiters, a white neckerchief, and a broad-brimmed white
 hat. Amid all the buzzing noise of the games, and the perpetual passing
 in and out of the people, he seemed perfectly calm and abstracted,
@@ -122,7 +122,7 @@ fixed in a trance, or under the influence of opium. People turned round
 and looked at him; he made no gesture, caught nobody’s eye, let them
 pass away, and others come on and be succeeded by others, and took no
 notice. When he did move, it seemed wonderful how he could have seen
-anything to occasion it. And so, in truth, it was. But there was not a
+anything to occasion it. And so, in [[Truth|truth]], it was. But there was not a
 face that passed in or out, which this man failed to see; not a gesture
 at any one of the three tables that was lost upon him; not a word,
 spoken by the bankers, but reached his ear; not a winner or loser he

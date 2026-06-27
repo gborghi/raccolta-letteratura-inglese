@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 8 (part 1)"
+title: "[[Don Quixote]] — Chapter 8 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -21,15 +21,15 @@ THE MISADVENTURES OF MONKEY
 Murrel stood staring in the porch at the figure which appeared dark
 against the outer landscape; and all the fanciful part of him,
 which was largely subconscious, was stirred by half serious fancies.
-No black cat or white crow or piebald horse or any such proverbial
+No black cat or white crow or piebald [[Horse|horse]] or any such proverbial
 prodigy could have been so inscrutable an omen at the beginning
-of his journey as this strange appearance of the Shaven Syndicalist.
+of his [[Journey|journey]] as this strange appearance of the Shaven Syndicalist.
 Meanwhile Braintree stared back at him with a hardihood almost
 amounting to hostility, despite their mutual affection; he could no
 longer thrust out his beard, but he thrust out his chin so as to make
 it seem equally big and aggressive.
 
-But Murrel only said genially, "You are coming to help us, I hope."
+But Murrel only said genially, "You are coming to help us, I [[Hope|hope]]."
 He was a tactful person and he did not say, "You are coming to help us,
 after all."  But he understood in a flash all that had happened;
 he understood Olive Ashley's country walks and her abstraction and
@@ -38,8 +38,8 @@ Poor Braintree had been caught on the rebound, in the reaction
 after his depressing experiment as a drunken reveller.
 He might have easily gone on bullying her along with all the other nobs,
 so long as he had the sensation of marching into their palace with
-the populace behind him.  But since the night when Murrel himself
-had sown the seed of doubt about his friend's democratic status,
+the populace behind him.  But since the [[Night|night]] when Murrel himself
+had sown the seed of [[Doubt|doubt]] about his friend's democratic status,
 the latter had become merely an intensely sensitive and rather
 introspective individual; and one on whom graciousness and a
 delicate sympathy were certainly not altogether thrown away.
@@ -48,7 +48,7 @@ which remained rather cloudy; but he did not allow the faintest
 trace of intelligence to appear in his tone of voice.
 
 "Yes," replied Braintree stolidly, "Miss Ashley told me somebody
-had to come in and help.  I wonder you don't do it yourself."
+had to come in and help.  I [[Wonder|wonder]] you don't do it yourself."
 
 "Not much," replied Murrel.  "I said at the beginning that if they
 would insult me by calling me a stage-manager, at least I wasn't wicked
@@ -58,13 +58,13 @@ another sort of commission in my case."
 
 "Indeed?" inquired Braintree.  "Now I come to look at you, you look as if
 you were going out to seek your fortunes in the goldfields or somewhere."
-And he eyed with some wonder the equipment of his friend, who carried
+And he eyed with some [[Wonder|wonder]] the equipment of his friend, who carried
 a knapsack, a resolute looking walking-stick and a leather belt apparently
 supporting a sheath-knife.
 
 "Yes," said Murrel, "I am armed to the teeth.  I am going on
 active service--going to the Front."  Then after a pause he added,
-"The truth is I'm going shopping."
+"The [[Truth|truth]] is I'm going shopping."
 
 "Oh," said the wondering Braintree.
 
@@ -72,7 +72,7 @@ active service--going to the Front."  Then after a pause he added,
 "If I fall in the first charge at the Bargain Counter,
 say that my last thought was fixed firmly on Julian Archer.
 Put up a little stone on the spot where I fell, and when
-the Spring Sales come back with all their birds and flowers,
+the [[Spring]] Sales come back with all their [[Birds|birds]] and [[Flowers|flowers]],
 remember me.  Farewell.  I wish you luck."
 
 And waving his resolute walking-stick in the air with gestures
@@ -80,7 +80,7 @@ of benediction, he betook himself briskly along the path through
 the park, leaving the dark figure in the porch looking rather
 doubtfully after him.
 
-The birds of spring, which he had just invoked so pathetically,
+The [[Birds|birds]] of [[Spring|spring]], which he had just invoked so pathetically,
 were indeed singing in the bright plantation of little trees
 through which he went; the light green tufts of leafage
 had themselves something of the look of sprouting feathers.
@@ -90,7 +90,7 @@ as if ready to soar into the air, in the wake of the great pink
 and white cloud that went before him overhead like a cherubic
 herald in the sky.  Something childish in his memories awoke;
 and he could almost have fancied that he was a fairy prince
-and his clumsy walking-stick was a sword.  Then he remembered
+and his clumsy walking-stick was a [[Sword|sword]].  Then he remembered
 that his enterprise was not to take him into forests and valleys
 but into the labyrinth of commonplace and cockney towns;
 and his plain and pleasant and shrewd face was wrinkled
@@ -115,7 +115,7 @@ and some part of the other.  There were crowds of people inside
 trying to get out and crowds of people outside trying to get in,
 reinforced by more crowds of people not trying to get in,
 but standing and staring in at the windows without the least
-ambition to get anywhere.
+[[Ambition|ambition]] to get anywhere.
 
 At intervals in the crawling crush he came on big bland men
 who waved him on with beautifully curved motions of the hand;
@@ -131,7 +131,7 @@ in these endless gilded galleries and subterranean halls there
 was a department devoted to Artists' Materials; but there
 was no indication of how far away it was or how long it
 would take, at the present rate of progress, to get there.
-Every now and then they came on the huge shaft or well of a lift;
+Every now and then they came on the huge shaft or [[Well|well]] of a lift;
 and the congestion was slightly relieved by some people being
 swallowed up by the earth and others vanishing into the ceiling.
 Eventually he himself found he was one of those fated,

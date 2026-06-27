@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — An Atheistic Nightmare"
+title: "Man Orthodox — An Atheistic [[nightmare|Nightmare]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-AN ATHEISTIC NIGHTMARE
+AN ATHEISTIC [[nightmare|NIGHTMARE]]

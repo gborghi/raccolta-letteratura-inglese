@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 7 (part 4)"
+title: "[[longbow2]] — Chapter 7 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 "I think I will have a talk to our American friend Mr. Oates."
 
-Whether from a sense of humour or a sense of justice, Lord Eden
+Whether from a sense of [[Humour|humour]] or a sense of justice, Lord Eden
 summoned Enoch Oates before the same special jury of three;
 or summoned them before him, as the case may be.  For it was even more
 difficult than before to read the exact secret of Eden's sympathies
@@ -26,7 +26,7 @@ Then he said quite suddenly:
 
 "Do you know anything about those letters, by the way?"
 
-The American presented his poker face to the company for some time
+The American presented his poker face to the company for some [[Time|time]]
 without reply.  Then he said:
 
 "And what makes you think I know anything about them?"
@@ -35,14 +35,14 @@ without reply.  Then he said:
 "we know you're hand and glove with all those lunatics in the League
 of the Long Bow who are kicking up all this shindy."
 
-"Well," said Oates calmly, "I'll never deny I like some of their ways. 
+"[[Well]]," said Oates calmly, "I'll never deny I like some of their ways. 
 I like live wires myself; and, after all, they're about the liveliest
 thing in this old country.  And I'll tell you more.  I like people
 who take trouble; and, believe me, they do take trouble.  You say
-they're all nuts; but I reckon there really is method in their madness. 
+they're all nuts; but I reckon there really is method in their [[Madness|madness]]. 
 They take trouble to keep those crazy vows of theirs.  You spoke
 about the fellows who carried off the astronomer in an aeroplane. 
-Well, I know Bellew Blair, the man who worked with Pierce
+[[Well]], I know Bellew Blair, the man who worked with Pierce
 in that stunt, and believe me he's not a man to be sniffed at. 
 He's one of the finest experts in aeronautics in the country;
 and if he's gone over to them, it means there's something in their
@@ -50,17 +50,17 @@ notion for a scientific intellect to take hold of.  It was Blair
 that worked that pig stunt for Hilary Pierce; made a great gas-bag
 shaped like a sow and gave all the little pigs parachutes."
 
-"Well, there you are," cried Hunter.  "Of all the lunacy--"
+"[[Well]], there you are," cried Hunter.  "Of all the lunacy--"
 
 "I remember Commander Blair in the War," said the Prime Minister
 quietly.  "Bellows Blair, they called him.  He did expert work: 
 some new scheme with dirigible balloons.  But I was only going
-to ask Mr. Oates whether he happens to know where Welkin Castle is."
+to ask Mr. Oates whether he happens to know where Welkin [[Castle]] is."
 
 "Must be somewhere near here," suggested Normantowers,
 "as the letters seem to come by hand."
 
-"Well, I don't know," said Enoch Oates doubtfully.  "I know a man
+"[[Well]], I don't know," said Enoch Oates doubtfully.  "I know a man
 living in Ely, who had one of those letters delivered by hand. 
 And I know another near Land's End who thought the letter must have
 come from somebody living near.  As you say, they all seem to come
@@ -68,7 +68,7 @@ by hand."
 
 "By what hand?" asked the Prime Minister, with a queer, grim expression.
 
-"Mr. Oates," said Lord Normantowers firmly, "where IS Welkin Castle?"
+"Mr. Oates," said Lord Normantowers firmly, "where IS Welkin [[Castle]]?"
 
 "Why, it's everywhere, in a manner of speaking," said Mr. Oates
 reflectively.  "It's anywhere, anyhow.  Gee--!" he broke off suddenly: 
@@ -83,7 +83,7 @@ the answer to."
 
 "Where the unstamped letters come from," replied Lord Eden.
 
-Luminous and enormous, there heaved up above the garden trees
+Luminous and enormous, there heaved up above the [[Garden|garden]] trees
 something that looked at first like a coloured cloud; it was
 flushed with light such as lies on clouds opposite the sunset,
 a light at once warm and wan; and it shone like an opaque flame. 
@@ -91,21 +91,21 @@ But as it came closer it grew more and more incredible.  It took on
 solid proportions and perspective, as if a cloud could brush and crush
 the dark tree-tops. It was something never seen before in the sky;
 it was a cubist cloud.  Men gazing at such a sunset cloud-land often
-imagine they see castles and cities of an almost uncanny completeness. 
+imagine they see castles and cities of an almost [[Uncanny|uncanny]] completeness. 
 But there would be a possible point of completeness at which they
 would cry aloud, or perhaps shriek aloud, as at a sign in heaven;
 and that completeness had come.  The big luminous object that sailed
-above the garden was outlined in battlements and turrets like a
-fairy castle; but with an architectural exactitude impossible
+above the [[Garden|garden]] was outlined in battlements and turrets like a
+fairy [[Castle|castle]]; but with an architectural exactitude impossible
 in any cloudland.  With the very look of it a phrase and a proverb
 leapt into the mind.
 
 "There, my lord!" cried Oates, suddenly lifting his nasal and
 drawling voice and pointing, "there's that dream you told me about. 
-There's your castle in the air."
+There's your [[Castle|castle]] in the air."
 
-As the shadow of the flying thing travelled over the sun-lit lawn,
-they looked up and saw for the first time that the lower part
+As the [[Shadow|shadow]] of the flying thing travelled over the sun-lit lawn,
+they looked up and saw for the first [[Time|time]] that the lower part
 of the edifice hung downwards like the car of a great balloon. 
 They remembered the aeronautical tricks of Commander Blair and Captain
 Pierce and the model of the monstrous pig.  As it passed over
@@ -119,7 +119,7 @@ stand staring wildly in a wilderness of waste-paper; but the keen
 and experienced eyes of Lord Eden recognized the material which,
 in political elections, is somewhat satirically called "literature."
 
-It took the twelve private secretaries some time to pick them all up
+It took the twelve private secretaries some [[Time|time]] to pick them all up
 and make the lawn neat and tidy again.  On examination they proved
 to be mainly of two kinds:  one a sort of electioneering pamphlet
 of the League of the Long Bow, and the other a somewhat airy fantasy
@@ -128,8 +128,8 @@ which Lord Eden studied more attentively, though with a grim smile,
 began with the sentence in large letters:
 
 
-"An Englishman's House Is No Longer His Castle On The Soil Of England. 
-If It Is To Be His Castle, It Must Be A Castle In The Air.
+"An Englishman's [[house|House]] Is No Longer His [[Castle]] On The Soil Of England. 
+If It Is To Be His [[Castle]], It Must Be A [[Castle]] In The Air.
 
 "If There Seem To Be Something Unfamiliar And Even Fanciful In
 The Idea, We Reply That It Is Not Half So Fantastic To Own Your Own
@@ -146,6 +146,6 @@ of "the blue meadows of the new realm," and he was so obliging
 as to accompany the explanation with diagrams of space showing
 the exact ornithological boundaries in dotted lines.  There were other
 equally scientific documents dealing with the treatment of clouds,
-the driving of birds to graze on insects, and so on.  The whole
+the driving of [[Birds|birds]] to graze on [[Insects|insects]], and so on.  The whole
 of this section concluded with the great social and economic slogan: 
 "Three Acres and a Crow."

@@ -68,15 +68,15 @@ dwell, truly enough, upon the sound ethical justification of
 
 Savonarola's anger, upon the hideous and extravagant character of the
 
-crimes which polluted the palaces of the Renaissance. But they need not
+crimes which polluted the palaces of the [[Renaissance]]. But they need not
 
-be so anxious to show that Savonarola was no ascetic, that he merely
+be so anxious to show that Savonarola was no [[ascetic]], that he merely
 
 picked out the black specks of wickedness with the priggish
 
 enlightenment of a member of an Ethical Society. Probably he did hate
 
-the civilisation of his time, and not merely its sins; and that is
+the civilisation of his [[Time|time]], and not merely its sins; and that is
 
 precisely where he was infinitely more profound than a modern moralist.
 
@@ -96,7 +96,7 @@ would call harmful. Sometimes it meant an exceedingly enlightened hatred
 
 of what no one but a narrow moralist would call harmless. Ascetics are
 
-sometimes more advanced than the average man, as well as less.
+sometimes more advanced than the average man, as [[Well|well]] as less.
 
 
 
@@ -108,17 +108,17 @@ quiescence, against getting used to happiness, the mystic sin by which
 
 all creation fell. He was preaching that severity which is the
 
-sign-manual of youth and hope. He was preaching that alertness, that
+sign-manual of youth and [[Hope|hope]]. He was preaching that alertness, that
 
 clean agility and vigilance, which is as necessary to gain pleasure as
 
-to gain holiness, as indispensable in a lover as in a monk. A critic has
+to gain holiness, as indispensable in a [[Lover|lover]] as in a monk. A critic has
 
 truly pointed out that Savonarola could not have been fundamentally
 
-anti-aesthetic, since he had such friends as Michael Angelo, Botticelli,
+anti-aesthetic, since he had such friends as [[Michael]] [[Angelo]], Botticelli,
 
-and Luca della Robbia. The fact is that this purification and austerity
+and Luca della Robbia. The fact is that this [[Purification|purification]] and austerity
 
 are even more necessary for the appreciation of life and laughter than
 
@@ -126,7 +126,7 @@ for anything else. To let no bird fly past unnoticed, to spell patiently
 
 the stones and weeds, to have the mind a storehouse of sunset, requires
 
-a discipline in pleasure, and an education in gratitude.
+a discipline in pleasure, and an [[Education|education]] in gratitude.
 
 
 
@@ -138,33 +138,33 @@ leads to endless inventions and no discoveries, in which new things grow
 
 old with confounding rapidity, but in which no old things ever grow new.
 
-The monstrosity of the crimes of the Renaissance was not a mark of
+The monstrosity of the crimes of the [[Renaissance]] was not a mark of
 
-imagination; it was a mark, as all monstrosity is, of the loss of
+[[Imagination|imagination]]; it was a mark, as all monstrosity is, of the loss of
 
-imagination. It is only when a man has really ceased to see a horse as
+[[Imagination|imagination]]. It is only when a man has really ceased to see a [[Horse|horse]] as
 
 it is, that he invents a centaur, only when he can no longer be
 
 surprised at an ox, that he worships the devil. Diablerie is the
 
-stimulant of the jaded fancy; it is the dram-drinking of the artist.
+stimulant of the jaded fancy; it is the dram-drinking of the [[artist]].
 
 Savonarola addressed himself to the hardest of all earthly tasks, that
 
-of making men turn back and wonder at the simplicities they had learnt
+of making men turn back and [[Wonder|wonder]] at the simplicities they had learnt
 
 to ignore. It is strange that the most unpopular of all doctrines is
 
-the doctrine which declares the common life divine. Democracy, of which
+the doctrine which declares the common life divine. [[democracy|Democracy]], of which
 
 Savonarola was so fiery an exponent, is the hardest of gospels; there is
 
 nothing that so terrifies men as the decree that they are all kings.
 
-Christianity, in Savonarola's mind, identical with democracy, is the
+[[Christianity]], in Savonarola's mind, identical with [[democracy]], is the
 
-hardest of gospels; there is nothing that so strikes men with fear as
+hardest of gospels; there is nothing that so strikes men with [[Fear|fear]] as
 
 the saying that they are all the sons of God.
 
@@ -180,69 +180,69 @@ mere men of genius, that they conceive the reign of the Medici to be an
 
 improvement on that of the great Florentine republican. It is such men
 
-as these and their civilisation that we have at the present day to fear.
+as these and their civilisation that we have at the present day to [[Fear|fear]].
 
 We are surrounded on many sides by the same symptoms as those which
 
 awoke the unquenchable wrath of Savonarola--a hedonism that is more sick
 
-of happiness than an invalid is sick of pain, an art sense that seeks
+of happiness than an invalid is sick of [[Pain|pain]], an art sense that seeks
 
-the assistance of crime since it has exhausted nature. In many modern
+the assistance of crime since it has exhausted [[Nature|nature]]. In many modern
 
-works we find veiled and horrible hints of a truly Renaissance sense of
+works we find veiled and horrible hints of a truly [[Renaissance]] sense of
 
-the beauty of blood, the poetry of murder. The bankrupt and depraved
+the [[Beauty|beauty]] of [[Blood|blood]], the poetry of murder. The bankrupt and depraved
 
-imagination does not see that a living man is far more dramatic than a
+[[Imagination|imagination]] does not see that a living man is far more dramatic than a
 
-dead one. Along with this, as in the time of the Medici, goes the
+dead one. Along with this, as in the [[Time|time]] of the Medici, goes the
 
 falling back into the arms of despotism, the hunger for the strong man
 
-which is unknown among strong men. The masterful hero is worshipped as
+which is unknown among strong men. The masterful [[Hero|hero]] is worshipped as
 
-he is worshipped by the readers of the 'Bow Bells Novelettes,' and for
+he is worshipped by the readers of the 'Bow [[Bells]] Novelettes,' and for
 
 the same reason--a profound sense of personal weakness. That tendency to
 
-devolve our duties descends on us, which is the soul of slavery, alike
+devolve our duties descends on us, which is the [[Soul|soul]] of [[Slavery|slavery]], alike
 
 whether for its menial tasks it employs serfs or emperors. Against all
 
 this the great clerical republican stands in everlasting protest,
 
-preferring his failure to his rival's success. The issue is still
+preferring his failure to his rival's [[success]]. The issue is still
 
-between him and Lorenzo, between the responsibilities of liberty and the
+between him and [[Lorenzo]], between the responsibilities of liberty and the
 
-licence of slavery, between the perils of truth and the security of
+licence of [[Slavery|slavery]], between the perils of [[Truth|truth]] and the security of
 
-silence, between the pleasure of toil and the toil of pleasure. The
+[[Silence|silence]], between the pleasure of toil and the toil of pleasure. The
 
-supporters of Lorenzo the Magnificent are assuredly among us, men for
+supporters of [[Lorenzo]] the Magnificent are assuredly among us, men for
 
 whom even nations and empires only exist to satisfy the moment, men to
 
-whom the last hot hour of summer is better than a sharp and wintry
+whom the last hot hour of [[Summer|summer]] is better than a sharp and wintry
 
-spring. They have an art, a literature, a political philosophy, which
+[[Spring|spring]]. They have an art, a literature, a political [[philosophy]], which
 
 are all alike valued for their immediate effect upon the taste, not for
 
 what they promise of the destiny of the spirit. Their statuettes and
 
-sonnets are rounded and perfect, while 'Macbeth' is in comparison a
+sonnets are rounded and perfect, while '[[Macbeth]]' is in comparison a
 
-fragment, and the Moses of Michael Angelo a hint. Their campaigns and
+[[Fragment|fragment]], and the Moses of [[Michael]] [[Angelo]] a hint. Their campaigns and
 
 battles are always called triumphant, while Caesar and Cromwell wept for
 
 many humiliations. And the end of it all is the hell of no resistance,
 
-the hell of an unfathomable softness, until the whole nature recoils
+the hell of an unfathomable softness, until the whole [[Nature|nature]] recoils
 
-into madness and the chamber of civilisation is no longer merely a
+into [[Madness|madness]] and the chamber of civilisation is no longer merely a
 
 cushioned apartment, but a padded cell.
 
@@ -272,14 +272,14 @@ Mr M'Hardy says, in defending Savonarola, that the number of fine works
 
 of art destroyed in the Burning of the Vanities has been much
 
-exaggerated. I confess that I hope the pile contained stacks of
+exaggerated. I confess that I [[Hope|hope]] the pile contained stacks of
 
 incomparable masterpieces if the sacrifice made that one real moment
 
-more real. Of one thing I am sure, that Savonarola's friend Michael
+more real. Of one thing I am sure, that Savonarola's friend [[Michael]]
 
-Angelo would have piled all his own statues one on top of the other, and
+[[Angelo]] would have piled all his own statues one on top of the other, and
 
 burnt them to ashes, if only he had been certain that the glow
 
-transfiguring the sky was the dawn of a younger and wiser world.
+transfiguring the sky was the [[Dawn|dawn]] of a younger and wiser world.

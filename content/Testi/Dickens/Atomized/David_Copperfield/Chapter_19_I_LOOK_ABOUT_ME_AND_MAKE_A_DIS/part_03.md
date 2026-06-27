@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 3)"
+title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -23,7 +23,7 @@ his spirit, not his constitution, that he ventured on so boldly. Annie,
 my dear, I am sure you must perfectly recollect that your cousin
 never was strong--not what can be called ROBUST, you know,’ said Mrs.
 Markleham, with emphasis, and looking round upon us generally, ‘--from
-the time when my daughter and himself were children together, and
+the [[Time|time]] when my daughter and himself were children together, and
 walking about, arm-in-arm, the livelong day.’
 
 Annie, thus addressed, made no reply.
@@ -33,10 +33,10 @@ Mr. Wickfield.
 
 ‘Ill!’ replied the Old Soldier. ‘My dear sir, he’s all sorts of things.’
 
-‘Except well?’ said Mr. Wickfield.
+‘Except [[Well|well]]?’ said Mr. Wickfield.
 
-‘Except well, indeed!’ said the Old Soldier. ‘He has had dreadful
-strokes of the sun, no doubt, and jungle fevers and agues, and every
+‘Except [[Well|well]], indeed!’ said the Old Soldier. ‘He has had dreadful
+strokes of the sun, no [[Doubt|doubt]], and jungle fevers and agues, and every
 kind of thing you can mention. As to his liver,’ said the Old Soldier
 resignedly, ‘that, of course, he gave up altogether, when he first went
 out!’
@@ -51,14 +51,14 @@ Say? Not he. You might drag him at the heels of four wild horses first.’
 
 ‘Annie, my dear,’ returned her mother, ‘once for all, I must really beg
 that you will not interfere with me, unless it is to confirm what I say.
-You know as well as I do that your cousin Maldon would be dragged at the
+You know as [[Well|well]] as I do that your cousin Maldon would be dragged at the
 heels of any number of wild horses--why should I confine myself to four!
 I WON’T confine myself to four--eight, sixteen, two-and-thirty, rather
 than say anything calculated to overturn the Doctor’s plans.’
 
 ‘Wickfield’s plans,’ said the Doctor, stroking his face, and looking
 penitently at his adviser. ‘That is to say, our joint plans for him. I
-said myself, abroad or at home.’
+said myself, abroad or at [[Home|home]].’
 
 ‘And I said’ added Mr. Wickfield gravely, ‘abroad. I was the means of
 sending him abroad. It’s my responsibility.’
@@ -71,9 +71,9 @@ overturn the Doctor’s plans. I know him,’ said the Old Soldier, fanning
 herself, in a sort of calm prophetic agony, ‘and I know he’ll die there,
 sooner than he’ll overturn the Doctor’s plans.’
 
-‘Well, well, ma’am,’ said the Doctor cheerfully, ‘I am not bigoted to
+‘[[Well]], [[Well|well]], ma’am,’ said the Doctor cheerfully, ‘I am not bigoted to
 my plans, and I can overturn them myself. I can substitute some other
-plans. If Mr. Jack Maldon comes home on account of ill health, he must
+plans. If Mr. Jack Maldon comes [[Home|home]] on account of ill health, he must
 not be allowed to go back, and we must endeavour to make some more
 suitable and fortunate provision for him in this country.’
 
@@ -87,8 +87,8 @@ her old playfellow; and entertained us with some particulars concerning
 other deserving members of her family, whom it was desirable to set on
 their deserving legs.
 
-All this time, her daughter Annie never once spoke, or lifted up her
-eyes. All this time, Mr. Wickfield had his glance upon her as she sat
+All this [[Time|time]], her daughter Annie never once spoke, or lifted up her
+eyes. All this [[Time|time]], Mr. Wickfield had his glance upon her as she sat
 by his own daughter’s side. It appeared to me that he never thought of
 being observed by anyone; but was so intent upon her, and upon his own
 thoughts in connexion with her, as to be quite absorbed. He now asked
@@ -98,9 +98,9 @@ to whom he had written?
 ‘Why, here,’ said Mrs. Markleham, taking a letter from the chimney-piece
 above the Doctor’s head, ‘the dear fellow says to the Doctor
 himself--where is it? Oh!--“I am sorry to inform you that my health is
-suffering severely, and that I fear I may be reduced to the necessity
-of returning home for a time, as the only hope of restoration.” That’s
-pretty plain, poor fellow! His only hope of restoration! But Annie’s
+[[Suffering|suffering]] severely, and that I [[Fear|fear]] I may be reduced to the necessity
+of returning [[Home|home]] for a [[Time|time]], as the only [[Hope|hope]] of restoration.” That’s
+pretty plain, poor fellow! His only [[Hope|hope]] of restoration! But Annie’s
 letter is plainer still. Annie, show me that letter again.’
 
 ‘Not now, mama,’ she pleaded in a low tone.
@@ -109,7 +109,7 @@ letter is plainer still. Annie, show me that letter again.’
 ridiculous persons in the world,’ returned her mother, ‘and perhaps the
 most unnatural to the claims of your own family. We never should have
 heard of the letter at all, I believe, unless I had asked for it myself.
-Do you call that confidence, my love, towards Doctor Strong? I am
+Do you call that confidence, my [[Love|love]], towards Doctor Strong? I am
 surprised. You ought to know better.’
 
 The letter was reluctantly produced; and as I handed it to the old lady,
@@ -125,7 +125,7 @@ at us in a state of placid satisfaction. ‘Now I have found it. “You may
 not be surprised to hear, Annie,”--no, to be sure, knowing that he never
 was really strong; what did I say just now?--“that I have undergone
 so much in this distant place, as to have decided to leave it at all
-hazards; on sick leave, if I can; on total resignation, if that is
+hazards; on sick leave, if I can; on total [[Resignation|resignation]], if that is
 not to be obtained. What I have endured, and do endure here, is
 insupportable.” And but for the promptitude of that best of creatures,’
 said Mrs. Markleham, telegraphing the Doctor as before, and refolding

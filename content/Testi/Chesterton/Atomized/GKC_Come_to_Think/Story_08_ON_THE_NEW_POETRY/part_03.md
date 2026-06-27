@@ -44,7 +44,7 @@ told that he was subscribing to the doctrine of the Fall of Man.
 But he certainly was; and that was why his words at that moment
 really become weighty and human.  `We look before and after and
 pine for what is not' has the sound of a great tolling bell.
-Nobody needs to be told that some spiritual tragedy has already
+Nobody needs to be told that some spiritual [[Tragedy|tragedy]] has already
 happened to the race of him who cries aloud:
 
 `But if we could scorn Hate and pride and fear; If we were things

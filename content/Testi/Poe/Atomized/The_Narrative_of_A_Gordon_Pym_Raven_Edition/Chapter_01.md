@@ -20,7 +20,7 @@ CHAPTER 1
 
 
 
-      My name is Arthur Gordon Pym. My father was a respectable trader
+      My name is [[arthur|Arthur]] Gordon Pym. My father was a respectable trader
 
       in sea-stores at Nantucket, where I was born. My maternal
 
@@ -36,21 +36,21 @@ CHAPTER 1
 
       in the world, and I expected to inherit the most of his property
 
-      at his death. He sent me, at six years of age, to the school of
+      at his [[Death|death]]. He sent me, at six years of age, to the school of
 
       old Mr. Ricketts, a gentleman with only one arm and of eccentric
 
-      manners—he is well known to almost every person who has visited
+      manners—he is [[Well|well]] known to almost every person who has visited
 
       New Bedford. I stayed at his school until I was sixteen, when I
 
-      left him for Mr. E. Ronald’s academy on the hill. Here I became
+      left him for Mr. E. Ronald’s academy on the [[Hill|hill]]. Here I became
 
       intimate with the son of Mr. Barnard, a sea-captain, who
 
       generally sailed in the employ of Lloyd and Vredenburgh—Mr.
 
-      Barnard is also very well known in New Bedford, and has many
+      Barnard is also very [[Well|well]] known in New Bedford, and has many
 
       relations, I am certain, in Edgarton. His son was named Augustus,
 
@@ -60,9 +60,9 @@ CHAPTER 1
 
       always talking to me of his adventures in the South Pacific
 
-      Ocean. I used frequently to go home with him, and remain all day,
+      Ocean. I used frequently to go [[Home|home]] with him, and remain all day,
 
-      and sometimes all night. We occupied the same bed, and he would
+      and sometimes all [[Night|night]]. We occupied the same bed, and he would
 
       be sure to keep me awake until almost light, telling me stories
 
@@ -70,9 +70,9 @@ CHAPTER 1
 
       visited in his travels. At last I could not help being interested
 
-      in what he said, and by degrees I felt the greatest desire to go
+      in what he said, and by degrees I felt the greatest [[Desire|desire]] to go
 
-      to sea. I owned a sailboat called the Ariel, and worth about
+      to sea. I owned a sailboat called the [[Ariel]], and worth about
 
       seventy-five dollars. She had a half-deck or cuddy, and was
 
@@ -90,25 +90,25 @@ CHAPTER 1
 
       I will relate one of these adventures by way of introduction to a
 
-      longer and more momentous narrative. One night there was a party
+      longer and more momentous narrative. One [[Night|night]] there was a party
 
       at Mr. Barnard’s, and both Augustus and myself were not a little
 
       intoxicated toward the close of it. As usual, in such cases, I
 
-      took part of his bed in preference to going home. He went to
+      took part of his bed in preference to going [[Home|home]]. He went to
 
-      sleep, as I thought, very quietly (it being near one when the
+      [[Sleep|sleep]], as I thought, very quietly (it being near one when the
 
       party broke up), and without saying a word on his favorite topic.
 
-      It might have been half an hour from the time of our getting in
+      It might have been half an hour from the [[Time|time]] of our getting in
 
       bed, and I was just about falling into a doze, when he suddenly
 
       started up, and swore with a terrible oath that he would not go
 
-      to sleep for any Arthur Pym in Christendom, when there was so
+      to [[Sleep|sleep]] for any [[arthur|Arthur]] Pym in Christendom, when there was so
 
       glorious a breeze from the southwest. I never was so astonished
 
@@ -122,7 +122,7 @@ CHAPTER 1
 
       sober in his life. He was only tired, he added, of lying in bed
 
-      on such a fine night like a dog, and was determined to get up and
+      on such a fine [[Night|night]] like a dog, and was determined to get up and
 
       dress, and go out on a frolic with the boat. I can hardly tell
 
@@ -146,7 +146,7 @@ CHAPTER 1
 
 
 
-      We lost no time in getting on our clothes and hurrying down to
+      We lost no [[Time|time]] in getting on our clothes and hurrying down to
 
       the boat. She was lying at the old decayed wharf by the
 
@@ -154,15 +154,15 @@ CHAPTER 1
 
       against the rough logs. Augustus got into her and bailed her, for
 
-      she was nearly half full of water. This being done, we hoisted
+      she was nearly half full of [[Water|water]]. This being done, we hoisted
 
       jib and mainsail, kept full, and started boldly out to sea.
 
 
 
-      The wind, as I before said, blew freshly from the southwest. The
+      The [[Wind|wind]], as I before said, blew freshly from the southwest. The
 
-      night was very clear and cold. Augustus had taken the helm, and I
+      [[Night|night]] was very clear and cold. Augustus had taken the helm, and I
 
       stationed myself by the mast, on the deck of the cuddy. We flew
 
@@ -170,17 +170,17 @@ CHAPTER 1
 
       casting loose from the wharf. I now asked my companion what
 
-      course he intended to steer, and what time he thought it probable
+      course he intended to steer, and what [[Time|time]] he thought it probable
 
       we should get back. He whistled for a few minutes, and then said
 
-      crustily: “_I_ am going to sea—_you_ may go home if you think
+      crustily: “_I_ am going to sea—_you_ may go [[Home|home]] if you think
 
       proper.” Turning my eyes upon him, I perceived at once that, in
 
       spite of his assumed _nonchalance_, he was greatly agitated. I
 
-      could see him distinctly by the light of the moon—his face was
+      could see him distinctly by the light of the [[Moon|moon]]—his face was
 
       paler than any marble, and his hand shook so excessively that he
 
@@ -190,13 +190,13 @@ CHAPTER 1
 
       knew little about the management of a boat, and was now depending
 
-      entirely upon the nautical skill of my friend. The wind, too, had
+      entirely upon the nautical skill of my friend. The [[Wind|wind]], too, had
 
       suddenly increased, as we were fast getting out of the lee of the
 
       land—still I was ashamed to betray any trepidation, and for
 
-      almost half an hour maintained a resolute silence. I could stand
+      almost half an hour maintained a resolute [[Silence|silence]]. I could stand
 
       it no longer, however, and spoke to Augustus about the propriety
 
@@ -204,7 +204,7 @@ CHAPTER 1
 
       answer, or took any notice of my suggestion. “By-and-by,” said he
 
-      at length—“time enough—home by-and-by.” I had expected a similar
+      at length—“[[Time|time]] enough—[[Home|home]] by-and-by.” I had expected a similar
 
       reply, but there was something in the tone of these words which
 
@@ -222,9 +222,9 @@ CHAPTER 1
 
       apparent surprise, letting go the tiller at the same moment, and
 
-      falling forward into the bottom of the boat—“matter—why, nothing
+      falling forward into the [[Bottom|bottom]] of the boat—“matter—why, nothing
 
-      is the—matter—going home—d—d—don’t you see?” The whole truth now
+      is the—matter—going [[Home|home]]—d—d—don’t you see?” The whole [[Truth|truth]] now
 
       flashed upon me. I flew to him and raised him up. He was
 
@@ -232,9 +232,9 @@ CHAPTER 1
 
       see. His eyes were perfectly glazed; and as I let him go in the
 
-      extremity of my despair, he rolled like a mere log into the
+      extremity of my [[Despair|despair]], he rolled like a mere log into the
 
-      bilge-water, from which I had lifted him. It was evident that,
+      bilge-[[Water|water]], from which I had lifted him. It was evident that,
 
       during the evening, he had drunk far more than I suspected, and
 
@@ -242,15 +242,15 @@ CHAPTER 1
 
       highly-concentrated state of intoxication—a state which, like
 
-      madness, frequently enables the victim to imitate the outward
+      [[Madness|madness]], frequently enables the victim to imitate the outward
 
       demeanour of one in perfect possession of his senses. The
 
-      coolness of the night air, however, had had its usual effect—the
+      coolness of the [[Night|night]] air, however, had had its usual effect—the
 
       mental energy began to yield before its influence—and the
 
-      confused perception which he no doubt then had of his perilous
+      confused perception which he no [[Doubt|doubt]] then had of his perilous
 
       situation had assisted in hastening the catastrophe. He was now
 
@@ -266,9 +266,9 @@ CHAPTER 1
 
       timid and irresolute. I knew that I was altogether incapable of
 
-      managing the boat, and that a fierce wind and strong ebb tide
+      managing the boat, and that a fierce [[Wind|wind]] and strong ebb tide
 
-      were hurrying us to destruction. A storm was evidently gathering
+      were hurrying us to destruction. A [[Storm|storm]] was evidently gathering
 
       behind us; we had neither compass nor provisions; and it was
 
@@ -282,7 +282,7 @@ CHAPTER 1
 
       the possibility of making any exertion. The boat was going
 
-      through the water at a terrible rate—full before the wind—no reef
+      through the [[Water|water]] at a terrible rate—full before the [[Wind|wind]]—no reef
 
       in either jib or mainsail—running her bows completely under the
 
@@ -294,35 +294,35 @@ CHAPTER 1
 
       kept steady, and gradually I recovered some degree of presence of
 
-      mind. Still the wind was increasing fearfully, and whenever we
+      mind. Still the [[Wind|wind]] was increasing fearfully, and whenever we
 
-      rose from a plunge forward, the sea behind fell combing over our
+      [[Rose|rose]] from a plunge forward, the sea behind fell combing over our
 
-      counter, and deluged us with water. I was so utterly benumbed,
+      counter, and deluged us with [[Water|water]]. I was so utterly benumbed,
 
       too, in every limb, as to be nearly unconscious of sensation. At
 
-      length I summoned up the resolution of despair, and rushing to
+      length I summoned up the resolution of [[Despair|despair]], and rushing to
 
       the mainsail let it go by the run. As might have been expected,
 
-      it flew over the bows, and, getting drenched with water, carried
+      it flew over the bows, and, getting drenched with [[Water|water]], carried
 
-      away the mast short off by the board. This latter accident alone
+      away the mast short off by the board. This latter accident [[Alone|alone]]
 
       saved me from instant destruction. Under the jib only, I now
 
-      boomed along before the wind, shipping heavy seas occasionally
+      boomed along before the [[Wind|wind]], shipping heavy seas occasionally
 
       over the counter, but relieved from the terror of immediate
 
-      death. I took the helm, and breathed with greater freedom as I
+      [[Death|death]]. I took the helm, and breathed with greater [[Freedom|freedom]] as I
 
       found that there yet remained to us a chance of ultimate escape.
 
-      Augustus still lay senseless in the bottom of the boat; and as
+      Augustus still lay senseless in the [[Bottom|bottom]] of the boat; and as
 
-      there was imminent danger of his drowning (the water being nearly
+      there was imminent danger of his drowning (the [[Water|water]] being nearly
 
       a foot deep just where he fell), I contrived to raise him
 
@@ -330,7 +330,7 @@ CHAPTER 1
 
       rope round his waist, and lashing it to a ringbolt in the deck of
 
-      the cuddy. Having thus arranged every thing as well as I could in
+      the cuddy. Having thus arranged every thing as [[Well|well]] as I could in
 
       my chilled and agitated condition, I recommended myself to God,
 
@@ -350,11 +350,11 @@ CHAPTER 1
 
       experienced at that moment. My hair stood erect on my head—I felt
 
-      the blood congealing in my veins—my heart ceased utterly to beat,
+      the [[Blood|blood]] congealing in my veins—my heart ceased utterly to beat,
 
       and without having once raised my eyes to learn the source of my
 
-      alarm, I tumbled headlong and insensible upon the body of my
+      alarm, I tumbled headlong and insensible upon the [[Body|body]] of my
 
       fallen companion.
 
@@ -362,19 +362,19 @@ CHAPTER 1
 
       I found myself, upon reviving, in the cabin of a large
 
-      whaling-ship (the Penguin) bound to Nantucket. Several persons
+      whaling-[[Ship|ship]] (the Penguin) bound to Nantucket. Several persons
 
-      were standing over me, and Augustus, paler than death, was busily
+      were standing over me, and Augustus, paler than [[Death|death]], was busily
 
       occupied in chafing my hands. Upon seeing me open my eyes, his
 
       exclamations of gratitude and joy excited alternate laughter and
 
-      tears from the rough-looking personages who were present. The
+      [[Tears|tears]] from the rough-looking personages who were present. The
 
       mystery of our being in existence was now soon explained. We had
 
-      been run down by the whaling-ship, which was close-hauled,
+      been run down by the whaling-[[Ship|ship]], which was close-hauled,
 
       beating up to Nantucket with every sail she could venture to set,
 
@@ -386,7 +386,7 @@ CHAPTER 1
 
       in contact—their shouts of warning upon seeing us were what so
 
-      terribly alarmed me. The huge ship, I was told, rode immediately
+      terribly alarmed me. The huge [[Ship|ship]], I was told, rode immediately
 
       over us with as much ease as our own little vessel would have
 
@@ -396,7 +396,7 @@ CHAPTER 1
 
       the victim—there was a slight grating sound to be heard mingling
 
-      with the roar of wind and water, as the frail bark which was
+      with the roar of [[Wind|wind]] and [[Water|water]], as the frail bark which was
 
       swallowed up rubbed for a moment along the keel of her
 
@@ -404,7 +404,7 @@ CHAPTER 1
 
       remembered was dismasted) some mere shell cut adrift as useless,
 
-      the captain (Captain E. T. V. Block, of New London) was for
+      the captain (Captain E. T. V. Block, of New [[London]]) was for
 
       proceeding on his course without troubling himself further about
 
@@ -418,7 +418,7 @@ CHAPTER 1
 
       was no business of his to be eternally watching for egg-shells;
 
-      that the ship should not put about for any such nonsense; and if
+      that the [[Ship|ship]] should not put about for any such nonsense; and if
 
       there was a man run down, it was nobody’s fault but his own, he
 
@@ -426,7 +426,7 @@ CHAPTER 1
 
       Henderson, the first mate, now took the matter up, being justly
 
-      indignant, as well as the whole ship’s crew, at a speech evincing
+      indignant, as [[Well|well]] as the whole [[Ship|ship]]’s crew, at a speech evincing
 
       so base a degree of heartless atrocity. He spoke plainly, seeing
 
@@ -440,7 +440,7 @@ CHAPTER 1
 
       on one side, and seizing the helm, gave the word, in a firm
 
-      voice, Hard-a-lee! The men flew to their posts, and the ship went
+      voice, Hard-a-lee! The men flew to their posts, and the [[Ship|ship]] went
 
       cleverly about. All this had occupied nearly five minutes, and it
 
@@ -456,59 +456,59 @@ CHAPTER 1
 
       which are attributed by the wise and pious to the special
 
-      interference of Providence.
+      interference of [[Providence]].
 
 
 
-      While the ship was yet in stays, the mate lowered the jolly-boat
+      While the [[Ship|ship]] was yet in stays, the mate lowered the jolly-boat
 
       and jumped into her with the very two men, I believe, who spoke
 
       up as having seen me at the helm. They had just left the lee of
 
-      the vessel (the moon still shining brightly) when she made a long
+      the vessel (the [[Moon|moon]] still shining brightly) when she made a long
 
       and heavy roll to windward, and Henderson, at the same moment,
 
-      starting up in his seat bawled out to his crew to back water. He
+      starting up in his seat bawled out to his crew to back [[Water|water]]. He
 
-      would say nothing else—repeating his cry impatiently, back water!
+      would say nothing else—repeating his cry impatiently, back [[Water|water]]!
 
-      back water! The men put back as speedily as possible, but by this
+      back [[Water|water]]! The men put back as speedily as possible, but by this
 
-      time the ship had gone round, and gotten fully under headway,
+      [[Time|time]] the [[Ship|ship]] had gone round, and gotten fully under headway,
 
       although all hands on board were making great exertions to take
 
       in sail. In despite of the danger of the attempt, the mate clung
 
-      to the main-chains as soon as they came within his reach. Another
+      to the main-[[Chains|chains]] as soon as they came within his reach. Another
 
       huge lurch now brought the starboard side of the vessel out of
 
-      water nearly as far as her keel, when the cause of his anxiety
+      [[Water|water]] nearly as far as her keel, when the cause of his anxiety
 
-      was rendered obvious enough. The body of a man was seen to be
+      was rendered obvious enough. The [[Body|body]] of a man was seen to be
 
       affixed in the most singular manner to the smooth and shining
 
-      bottom (the Penguin was coppered and copper-fastened), and
+      [[Bottom|bottom]] (the Penguin was coppered and copper-fastened), and
 
       beating violently against it with every movement of the hull.
 
       After several ineffectual efforts, made during the lurches of the
 
-      ship, and at the imminent risk of swamping the boat I was finally
+      [[Ship|ship]], and at the imminent risk of swamping the boat I was finally
 
       disengaged from my perilous situation and taken on board—for the
 
-      body proved to be my own. It appeared that one of the
+      [[Body|body]] proved to be my own. It appeared that one of the
 
       timber-bolts having started and broken a passage through the
 
-      copper, it had arrested my progress as I passed under the ship,
+      copper, it had arrested my progress as I passed under the [[Ship|ship]],
 
-      and fastened me in so extraordinary a manner to her bottom. The
+      and fastened me in so extraordinary a manner to her [[Bottom|bottom]]. The
 
       head of the bolt had made its way through the collar of the green
 
@@ -528,9 +528,9 @@ CHAPTER 1
 
 
 
-      In the meantime, Henderson had again put off from the ship,
+      In the meantime, Henderson had again put off from the [[Ship|ship]],
 
-      although the wind was now blowing almost a hurricane. He had not
+      although the [[Wind|wind]] was now blowing almost a hurricane. He had not
 
       been gone many minutes when he fell in with some fragments of our
 
@@ -544,7 +544,7 @@ CHAPTER 1
 
       signals to return were made them by Captain Block, and although
 
-      every moment on the water in so frail a boat was fraught to them
+      every moment on the [[Water|water]] in so frail a boat was fraught to them
 
       with the most imminent and deadly peril. Indeed, it is nearly
 
@@ -560,15 +560,15 @@ CHAPTER 1
 
 
 
-      After searching in vain for about the period of time just
+      After searching in vain for about the period of [[Time|time]] just
 
-      mentioned, it was determined to get back to the ship. They had
+      mentioned, it was determined to get back to the [[Ship|ship]]. They had
 
       scarcely made this resolve when a feeble cry arose from a dark
 
       object that floated rapidly by. They pursued and soon overtook
 
-      it. It proved to be the entire deck of the Ariel’s cuddy.
+      it. It proved to be the entire deck of the [[Ariel]]’s cuddy.
 
       Augustus was struggling near it, apparently in the last agonies.
 
@@ -582,17 +582,17 @@ CHAPTER 1
 
       doing, it appeared, had been ultimately the means of preserving
 
-      his life. The Ariel was slightly put together, and in going down
+      his life. The [[Ariel]] was slightly put together, and in going down
 
       her frame naturally went to pieces; the deck of the cuddy, as
 
-      might have been expected, was lifted, by the force of the water
+      might have been expected, was lifted, by the force of the [[Water|water]]
 
       rushing in, entirely from the main timbers, and floated (with
 
-      other fragments, no doubt) to the surface—Augustus was buoyed up
+      other fragments, no [[Doubt|doubt]]) to the surface—Augustus was buoyed up
 
-      with it, and thus escaped a terrible death.
+      with it, and thus escaped a terrible [[Death|death]].
 
 
 
@@ -600,11 +600,11 @@ CHAPTER 1
 
       before he could give any account of himself, or be made to
 
-      comprehend the nature of the accident which had befallen our
+      comprehend the [[Nature|nature]] of the accident which had befallen our
 
       boat. At length he became thoroughly aroused, and spoke much of
 
-      his sensations while in the water. Upon his first attaining any
+      his sensations while in the [[Water|water]]. Upon his first attaining any
 
       degree of consciousness, he found himself beneath the surface,
 
@@ -622,13 +622,13 @@ CHAPTER 1
 
       greatest degree clouded and confused. He now knew that some
 
-      accident had occurred, and that he was in the water, although his
+      accident had occurred, and that he was in the [[Water|water]], although his
 
       mouth was above the surface, and he could breathe with some
 
-      freedom. Possibly, at this period the deck was drifting rapidly
+      [[Freedom|freedom]]. Possibly, at this period the deck was drifting rapidly
 
-      before the wind, and drawing him after it, as he floated upon his
+      before the [[Wind|wind]], and drawing him after it, as he floated upon his
 
       back. Of course, as long as he could have retained this position,
 
@@ -646,9 +646,9 @@ CHAPTER 1
 
       of his struggles he had not the faintest recollection of the
 
-      Ariel, nor of the matters in connexion with the source of his
+      [[Ariel]], nor of the matters in connexion with the source of his
 
-      disaster. A vague feeling of terror and despair had taken entire
+      disaster. A vague feeling of terror and [[Despair|despair]] had taken entire
 
       possession of his faculties. When he was finally picked up, every
 
@@ -658,7 +658,7 @@ CHAPTER 1
 
       became fully aware of his condition. In regard to myself—I was
 
-      resuscitated from a state bordering very nearly upon death (and
+      resuscitated from a state bordering very nearly upon [[Death|death]] (and
 
       after every other means had been tried in vain for three hours
 
@@ -672,15 +672,15 @@ CHAPTER 1
 
 
 
-      The Penguin got into port about nine o’clock in the morning,
+      The Penguin got into port about nine o’[[Clock|clock]] in the morning,
 
       after encountering one of the severest gales ever experienced off
 
       Nantucket. Both Augustus and myself managed to appear at Mr.
 
-      Barnard’s in time for breakfast—which, luckily, was somewhat
+      Barnard’s in [[Time|time]] for breakfast—which, luckily, was somewhat
 
-      late, owing to the party over night. I suppose all at the table
+      late, owing to the party over [[Night|night]]. I suppose all at the table
 
       were too much fatigued themselves to notice our jaded
 
@@ -688,7 +688,7 @@ CHAPTER 1
 
       scrutiny. Schoolboys, however, can accomplish wonders in the way
 
-      of deception, and I verily believe not one of our friends in
+      of [[Deception|deception]], and I verily believe not one of our friends in
 
       Nantucket had the slightest suspicion that the terrible story
 
@@ -696,13 +696,13 @@ CHAPTER 1
 
       sea and drowned some thirty or forty poor devils, had reference
 
-      either to the Ariel, my companion, or myself. We two have since
+      either to the [[Ariel]], my companion, or myself. We two have since
 
       very frequently talked the matter over—but never without a
 
       shudder. In one of our conversations Augustus frankly confessed
 
-      to me, that in his whole life he had at no time experienced so
+      to me, that in his whole life he had at no [[Time|time]] experienced so
 
       excruciating a sense of dismay, as when on board our little boat
 

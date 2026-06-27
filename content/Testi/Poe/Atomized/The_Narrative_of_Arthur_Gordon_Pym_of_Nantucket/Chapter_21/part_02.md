@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 22 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
 number of more than a hundred and fifty, the most of them having
 
-succeeded in scrambling up the chains and over the boarding nettings
+succeeded in scrambling up the [[Chains|chains]] and over the boarding nettings
 
 even before the matches had been applied to the larboard guns. Nothing
 
@@ -36,7 +36,7 @@ pitiable scene indeed of havoc and tumultuous outrage. The decks were
 
 split open and ripped up; the cordage, sails, and everything moveable
 
-on deck demolished as if by magic; while, by dint of pushing at the
+on deck demolished as if by [[Magic|magic]]; while, by dint of pushing at the
 
 stern, towing with the canoes, and hauling at the sides, as they swam
 
@@ -58,11 +58,11 @@ the black skin, and become a partaker in the spoils.
 
 Too-wit's descent left us at liberty to quit our hiding-place and
 
-reconnoitre the hill in the vicinity of the chasm. At about fifty yards
+reconnoitre the [[Hill|hill]] in the vicinity of the chasm. At about fifty yards
 
-from the mouth of it we saw a small spring of water, at which we slaked
+from the mouth of it we saw a small [[spring]] of [[Water|water]], at which we slaked
 
-the burning thirst that now consumed us. Not far from the spring we
+the burning thirst that now consumed us. Not far from the [[spring]] we
 
 discovered several of the filbert-bushes which I mentioned before. Upon
 
@@ -100,7 +100,7 @@ supply of food enough to last us for a week.
 
 We now went out again to look about us, and ventured a considerable
 
-distance down the southern declivity of the hill, but met with nothing
+distance down the southern declivity of the [[Hill|hill]], but met with nothing
 
 else which could serve us for food. We therefore collected a quantity
 
@@ -110,7 +110,7 @@ natives on their way to the village, laden with the plunder of the
 
 vessel, and who, we were apprehensive, might discover us in passing
 
-beneath the hill.
+beneath the [[Hill|hill]].
 
 
 
@@ -132,7 +132,7 @@ position; for we were now completely excluded from observation, as long
 
 as we chose to remain within the ravine itself, and not venture out
 
-upon the hill. We could perceive no traces of the savages having ever
+upon the [[Hill|hill]]. We could perceive no traces of the savages having ever
 
 been within this hollow; but, indeed, when we came to reflect upon the
 
@@ -146,9 +146,9 @@ the thought of being secure from molestation as fearful lest there
 
 should be absolutely no means left us for descent. We resolved to
 
-explore the summit of the hill thoroughly, when a good opportunity
+explore the summit of the [[Hill|hill]] thoroughly, when a good opportunity
 
-should offer. In the mean time we watched the motions of the savages
+should offer. In the mean [[Time|time]] we watched the motions of the savages
 
 through our loophole.
 
@@ -156,7 +156,7 @@ through our loophole.
 
 They had already made a complete wreck of the vessel, and were now
 
-preparing to set her on fire. In a little while we saw the smoke
+preparing to set her on [[Fire|fire]]. In a little while we saw the smoke
 
 ascending in huge volumes from her main-hatchway, and, shortly
 
@@ -164,7 +164,7 @@ afterward, a dense mass of flame burst up from the forecastle. The
 
 rigging, masts, and what remained of the sails caught immediately, and
 
-the fire spread rapidly along the decks. Still a great many of the
+the [[Fire|fire]] spread rapidly along the decks. Still a great many of the
 
 savages retained their stations about her, hammering with large stones,
 
@@ -192,7 +192,7 @@ recommencing, when suddenly a mass of smoke puffed up from the decks,
 
 resembling a black and heavy thunder-cloud--then, as if from its
 
-bowels, arose a tall stream of vivid fire to the height, apparently, of
+bowels, arose a tall stream of vivid [[Fire|fire]] to the height, apparently, of
 
 a quarter of a mile--then there came a sudden circular expansion of the
 

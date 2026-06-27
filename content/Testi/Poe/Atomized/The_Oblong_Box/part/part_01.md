@@ -1,5 +1,5 @@
 ---
-title: "The Oblong Box (part 1)"
+title: "[[The Oblong Box]] (part 1)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -15,7 +15,7 @@ tags:
 
 Some years ago, I engaged passage from Charleston, S. C., to the
 
-      city of New York, in the fine packet-ship “Independence,” Captain
+      [[City|city]] of [[New York]], in the fine packet-[[Ship|ship]] “Independence,” Captain
 
       Hardy. We were to sail on the fifteenth of the month (June),
 
@@ -31,15 +31,15 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       acquaintances, and among other names, I was rejoiced to see that
 
-      of Mr. Cornelius Wyatt, a young artist, for whom I entertained
+      of Mr. Cornelius Wyatt, a young [[artist]], for whom I entertained
 
-      feelings of warm friendship. He had been with me a fellow-student
+      feelings of warm [[Friendship|friendship]]. He had been with me a fellow-student
 
       at C—— University, where we were very much together. He had the
 
       ordinary temperament of genius, and was a compound of
 
-      misanthropy, sensibility, and enthusiasm. To these qualities he
+      [[Misanthropy|misanthropy]], sensibility, and enthusiasm. To these qualities he
 
       united the warmest and truest heart which ever beat in a human
 
@@ -77,9 +77,9 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       enigma. At last I reached a conclusion which wrought in me great
 
-      wonder why I had not arrived at it before. “It is a servant of
+      [[Wonder|wonder]] why I had not arrived at it before. “It is a servant of
 
-      course,” I said; “what a fool I am, not sooner to have thought of
+      course,” I said; “what a [[Fool|fool]] I am, not sooner to have thought of
 
       so obvious a solution!” And then I again repaired to the list—but
 
@@ -103,7 +103,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
 
 
-      Wyatt’s two sisters I knew very well, and most amiable and clever
+      Wyatt’s two sisters I knew very [[Well|well]], and most amiable and clever
 
       girls they were. His wife he had newly married, and I had never
 
@@ -111,17 +111,17 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       however, and in his usual style of enthusiasm. He described her
 
-      as of surpassing beauty, wit, and accomplishment. I was,
+      as of surpassing [[Beauty|beauty]], wit, and accomplishment. I was,
 
       therefore, quite anxious to make her acquaintance.
 
 
 
-      On the day in which I visited the ship (the fourteenth), Wyatt
+      On the day in which I visited the [[Ship|ship]] (the fourteenth), Wyatt
 
       and party were also to visit it—so the captain informed me—and I
 
-      waited on board an hour longer than I had designed, in hope of
+      waited on board an hour longer than I had designed, in [[Hope|hope]] of
 
       being presented to the bride, but then an apology came. “Mrs. W.
 
@@ -147,7 +147,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       them with much perseverance, I had nothing to do but to return
 
-      home and digest my impatience at leisure.
+      [[Home|home]] and digest my impatience at leisure.
 
 
 
@@ -155,15 +155,15 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       nearly a week. It came at length, however, and I immediately went
 
-      on board. The ship was crowded with passengers, and every thing
+      on board. The [[Ship|ship]] was crowded with passengers, and every thing
 
       was in the bustle attendant upon making sail. Wyatt’s party
 
       arrived in about ten minutes after myself. There were the two
 
-      sisters, the bride, and the artist—the latter in one of his
+      sisters, the bride, and the [[artist]]—the latter in one of his
 
-      customary fits of moody misanthropy. I was too well used to
+      customary fits of moody [[Misanthropy|misanthropy]]. I was too [[Well|well]] used to
 
       these, however, to pay them any special attention. He did not
 
@@ -183,27 +183,27 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       long experience advised me not to trust, with too implicit a
 
-      reliance, the enthusiastic descriptions of my friend, the artist,
+      reliance, the enthusiastic descriptions of my friend, the [[artist]],
 
       when indulging in comments upon the loveliness of woman. When
 
-      beauty was the theme, I well knew with what facility he soared
+      [[Beauty|beauty]] was the theme, I [[Well|well]] knew with what facility he soared
 
       into the regions of the purely ideal.
 
 
 
-      The truth is, I could not help regarding Mrs. Wyatt as a
+      The [[Truth|truth]] is, I could not help regarding Mrs. Wyatt as a
 
       decidedly plain-looking woman. If not positively ugly, she was
 
       not, I think, very far from it. She was dressed, however, in
 
-      exquisite taste—and then I had no doubt that she had captivated
+      exquisite taste—and then I had no [[Doubt|doubt]] that she had captivated
 
       my friend’s heart by the more enduring graces of the intellect
 
-      and soul. She said very few words, and passed at once into her
+      and [[Soul|soul]]. She said very few words, and passed at once into her
 
       state-room with Mr. W.
 

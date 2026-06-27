@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 12"
+title: "[[The Professor]] — Chapter 12"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -34,11 +34,11 @@ there was metal in it, both lead and iron.
 
 
 
-Let the idealists, the dreamers about earthly angel and human flowers,
+Let the idealists, the dreamers about earthly angel and human [[Flowers|flowers]],
 
-just look here while I open my portfolio and show them a sketch or
+just look here while I open my portfolio and show them a [[Sketch|sketch]] or
 
-two, pencilled after nature. I took these sketches in the second-class
+two, pencilled after [[Nature|nature]]. I took these sketches in the second-class
 
 schoolroom of Mdlle. Reuter’s establishment, where about a hundred
 
@@ -54,7 +54,7 @@ Belgians, Austrians, and Prussians. The majority belonged to the class
 
 bourgeois; but there were many countesses, there were the daughters of
 
-two generals and of several colonels, captains, and government EMPLOYES;
+two generals and of several colonels, captains, and [[government]] EMPLOYES;
 
 these ladies sat side by side with young females destined to be
 
@@ -88,11 +88,11 @@ friendships were forbidden by the rules of the school, and no one girl
 
 seemed to cultivate more regard for another than was just necessary to
 
-secure a companion when solitude would have been irksome. They were each
+secure a companion when [[Solitude|solitude]] would have been irksome. They were each
 
 and all supposed to have been reared in utter unconsciousness of vice.
 
-The precautions used to keep them ignorant, if not innocent, were
+The precautions used to keep them ignorant, if not [[Innocent|innocent]], were
 
 innumerable. How was it, then, that scarcely one of those girls having
 
@@ -124,9 +124,9 @@ The first picture is a full length of Aurelia Koslow, a German fraulein,
 
 or rather a half-breed between German and Russian. She is eighteen years
 
-of age, and has been sent to Brussels to finish her education; she is
+of age, and has been sent to Brussels to finish her [[Education|education]]; she is
 
-of middle size, stiffly made, body long, legs short, bust much developed
+of middle size, stiffly made, [[Body|body]] long, legs short, bust much developed
 
 but not compactly moulded, waist disproportionately compressed by an
 
@@ -160,7 +160,7 @@ observing her at all times; but from what I see of the state of her
 
 desk, books, and papers, I should say she is slovenly and even dirty;
 
-her outward dress, as I have said, is well attended to, but in passing
+her outward dress, as I have said, is [[Well|well]] attended to, but in passing
 
 behind her bench, I have remarked that her neck is gray for want of
 
@@ -170,7 +170,7 @@ one feels tempted to pass the hand over, much less to run the fingers
 
 through. Aurelia’s conduct in class, at least when I am present, is
 
-something extraordinary, considered as an index of girlish innocence.
+something extraordinary, considered as an index of girlish [[innocence]].
 
 The moment I enter the room, she nudges her next neighbour and indulges
 
@@ -210,13 +210,13 @@ Dronsart: this is a Belgian, rather low of stature, in form heavy,
 
 with broad waist, short neck and limbs, good red and white complexion,
 
-features well chiselled and regular, well-cut eyes of a clear brown
+features [[Well|well]] chiselled and regular, [[Well|well]]-cut eyes of a clear brown
 
 colour, light brown hair, good teeth, age not much above fifteen, but as
 
 full-grown as a stout young Englishwoman of twenty. This portrait gives
 
-the idea of a somewhat dumpy but good-looking damsel, does it not? Well,
+the idea of a somewhat dumpy but good-looking [[Damsel|damsel]], does it not? [[Well]],
 
 when I looked along the row of young heads, my eye generally stopped at
 
@@ -254,7 +254,7 @@ dead, her Catalonian father was a merchant residing in the ---- Isles,
 
 where Juanna had been born and whence she was sent to Europe to be
 
-educated. I wonder that any one, looking at that girl’s head and
+educated. I [[Wonder|wonder]] that any one, looking at that girl’s head and
 
 countenance, would have received her under their roof. She had precisely
 
@@ -262,7 +262,7 @@ the same shape of skull as Pope Alexander the Sixth; her organs
 
 of benevolence, veneration, conscientiousness, adhesiveness, were
 
-singularly small, those of self-esteem, firmness, destructiveness,
+singularly small, those of [[Self|self]]-esteem, firmness, destructiveness,
 
 combativeness, preposterously large; her head sloped up in the penthouse
 
@@ -288,7 +288,7 @@ cipher. Mdlle. Trista thought fit to trouble my first lessons with a
 
 coarse work-day sort of turbulence; she made noises with her mouth like
 
-a horse, she ejected her saliva, she uttered brutal expressions; behind
+a [[Horse|horse]], she ejected her saliva, she uttered brutal expressions; behind
 
 and below her were seated a band of very vulgar, inferior-looking
 
@@ -298,7 +298,7 @@ and imbecility of intellect whose frequency in the Low Countries would
 
 seem to furnish proof that the climate is such as to induce degeneracy
 
-of the human mind and body; these, I soon found, were completely under
+of the human mind and [[Body|body]]; these, I soon found, were completely under
 
 her influence, and with their aid she got up and sustained a swinish
 
@@ -342,7 +342,7 @@ Doubtless it will be thought that I ought now, by way of contrast, to
 
 show something charming; some gentle virgin head, circled with a halo,
 
-some sweet personification of innocence, clasping the dove of peace to
+some sweet personification of [[innocence]], clasping the dove of peace to
 
 her bosom. No: I saw nothing of the sort, and therefore cannot portray
 
@@ -350,9 +350,9 @@ it. The pupil in the school possessing the happiest disposition was
 
 a young girl from the country, Louise Path; she was sufficiently
 
-benevolent and obliging, but not well taught nor well mannered;
+benevolent and obliging, but not [[Well|well]] taught nor [[Well|well]] mannered;
 
-moreover, the plague-spot of dissimulation was in her also; honour and
+moreover, the plague-spot of dissimulation was in her also; [[Honour|honour]] and
 
 principle were unknown to her, she had scarcely heard their names. The
 
@@ -366,7 +366,7 @@ physical organization was defective; weak health stunted her growth and
 
 chilled her spirits, and then, destined as she was for the cloister,
 
-her whole soul was warped to a conventual bias, and in the tame, trained
+her whole [[Soul|soul]] was warped to a conventual bias, and in the tame, trained
 
 subjection of her manner, one read that she had already prepared herself
 
@@ -384,13 +384,13 @@ liked, or what, from innate conviction, she thought it right to do. The
 
 poor little future religieuse had been early taught to make the dictates
 
-of her own reason and conscience quite subordinate to the will of
+of her own reason and [[Conscience|conscience]] quite subordinate to the will of
 
 her spiritual director. She was the model pupil of Mdlle. Reuter’s
 
 establishment; pale, blighted image, where life lingered feebly, but
 
-whence the soul had been conjured by Romish wizard-craft!
+whence the [[Soul|soul]] had been conjured by Romish wizard-craft!
 
 
 
@@ -402,13 +402,13 @@ chiefly of broken adventurers, whom debt or dishonour had driven from
 
 their own country. These poor girls had never known the advantages
 
-of settled homes, decorous example, or honest Protestant education;
+of settled homes, decorous example, or honest Protestant [[Education|education]];
 
 resident a few months now in one Catholic school, now in another, as
 
-their parents wandered from land to land--from France to Germany, from
+their parents wandered from land to land--from France to [[Germany]], from
 
-Germany to Belgium--they had picked up some scanty instruction, many bad
+[[Germany]] to Belgium--they had picked up some scanty instruction, many bad
 
 habits, losing every notion even of the first elements of religion and
 
@@ -416,7 +416,7 @@ morals, and acquiring an imbecile indifference to every sentiment that
 
 can elevate humanity; they were distinguishable by an habitual look
 
-of sullen dejection, the result of crushed self-respect and constant
+of sullen dejection, the result of crushed [[Self|self]]-respect and constant
 
 browbeating from their Popish fellow-pupils, who hated them as English,
 
@@ -426,7 +426,7 @@ and scorned them as heretics.
 
 The second class were British English. Of these I did not encounter half
 
-a dozen during the whole time of my attendance at the seminary; their
+a dozen during the whole [[Time|time]] of my attendance at the seminary; their
 
 characteristics were clean but careless dress, ill-arranged hair
 
@@ -434,13 +434,13 @@ characteristics were clean but careless dress, ill-arranged hair
 
 figures, white and taper hands, features more irregular, but also more
 
-intellectual than those of the Belgians, grave and modest countenances,
+intellectual than those of the Belgians, [[Grave|grave]] and modest countenances,
 
 a general air of native propriety and decency; by this last circumstance
 
-alone I could at a glance distinguish the daughter of Albion and
+[[Alone|alone]] I could at a glance distinguish the daughter of Albion and
 
-nursling of Protestantism from the foster-child of Rome, the PROTEGEE
+nursling of Protestantism from the foster-[[Child|child]] of Rome, the PROTEGEE
 
 of Jesuistry: proud, too, was the aspect of these British girls; at once
 
@@ -472,7 +472,7 @@ but in character genuine Parisian coquette, perfidious, mercenary, and
 
 dry-hearted. A fourth maitresse I sometimes saw who seemed to come daily
 
-to teach needlework, or netting, or lace-mending, or some such flimsy
+to teach needlework, or netting, or lace-[[mending]], or some such flimsy
 
 art; but of her I never had more than a passing glimpse, as she sat in
 
@@ -486,7 +486,7 @@ air for a maitresse, otherwise it was not striking; of character I
 
 should think she possessed but little, as her pupils seemed constantly
 
-“en revolte” against her authority. She did not reside in the house; her
+“en revolte” against her authority. She did not reside in the [[house]]; her
 
 name, I think, was Mdlle. Henri.
 
@@ -518,7 +518,7 @@ frequently failed to enforce; she liked to stand in comparison, or
 
 rather--contrast, with those who surrounded her, and to know that in
 
-personal as well as mental advantages, she bore away the undisputed
+personal as [[Well|well]] as mental advantages, she bore away the undisputed
 
 palm of preference--(the three teachers were all plain.) Her pupils she
 
@@ -528,7 +528,7 @@ office of recompenser and eulogist, and abandoning to her subalterns
 
 every invidious task of blame and punishment, that they all regarded her
 
-with deference, if not with affection; her teachers did not love her,
+with deference, if not with affection; her teachers did not [[Love|love]] her,
 
 but they submitted because they were her inferiors in everything; the
 
@@ -568,9 +568,9 @@ though mute mortification. Still she persevered, and at last, I am bound
 
 to confess it, her finger, essaying, proving every atom of the casket,
 
-touched its secret spring, and for a moment the lid sprung open; she
+touched its secret [[spring]], and for a moment the lid sprung open; she
 
-laid her hand on the jewel within; whether she stole and broke it, or
+laid her hand on the [[Jewel|jewel]] within; whether she stole and broke it, or
 
 whether the lid shut again with a snap on her fingers, read on, and you
 
@@ -618,23 +618,23 @@ I was not disappointed, for she sat in the class during the whole of my
 
 subsequent lesson, and often looked at me almost with affection. At four
 
-o’clock she accompanied me out of the schoolroom, asking with solicitude
+o’[[Clock|clock]] she accompanied me out of the schoolroom, asking with solicitude
 
 after my health, then scolding me sweetly because I spoke too loud and
 
 gave myself too much trouble; I stopped at the glass-door which led into
 
-the garden, to hear her lecture to the end; the door was open, it was a
+the [[Garden|garden]], to hear her lecture to the end; the door was open, it was a
 
 very fine day, and while I listened to the soothing reprimand, I looked
 
-at the sunshine and flowers, and felt very happy. The day-scholars began
+at the sunshine and [[Flowers|flowers]], and felt very happy. The day-scholars began
 
 to pour from the schoolrooms into the passage.
 
 
 
-“Will you go into the garden a minute or two,” asked she, “till they are
+“Will you go into the [[Garden|garden]] a minute or two,” asked she, “till they are
 
 gone?”
 
@@ -654,35 +654,35 @@ In another minute I and the directress were walking side by side down
 
 the alley bordered with fruit-trees, whose white blossoms were then in
 
-full blow as well as their tender green leaves. The sky was blue, the
+full blow as [[Well|well]] as their tender green [[Leaves|leaves]]. The sky was blue, the
 
 air still, the May afternoon was full of brightness and fragrance.
 
-Released from the stifling class, surrounded with flowers and foliage,
+Released from the stifling class, surrounded with [[Flowers|flowers]] and foliage,
 
 with a pleasing, smiling, affable woman at my side--how did I feel? Why,
 
-very enviably. It seemed as if the romantic visions my imagination had
+very enviably. It seemed as if the romantic visions my [[Imagination|imagination]] had
 
-suggested of this garden, while it was yet hidden from me by the jealous
+suggested of this [[Garden|garden]], while it was yet hidden from me by the jealous
 
 boards, were more than realized; and, when a turn in the alley shut out
 
-the view of the house, and some tall shrubs excluded M. Pelet’s
+the view of the [[house]], and some tall shrubs excluded M. Pelet’s
 
 mansion, and screened us momentarily from the other houses, rising
 
 amphitheatre-like round this green spot, I gave my arm to Mdlle. Reuter,
 
-and led her to a garden-chair, nestled under some lilacs near. She sat
+and led her to a [[Garden|garden]]-chair, nestled under some lilacs near. She sat
 
 down; I took my place at her side. She went on talking to me with that
 
 ease which communicates ease, and, as I listened, a revelation dawned
 
-in my mind that I was on the brink of falling in love. The dinner-bell
+in my mind that I was on the brink of falling in [[Love|love]]. The dinner-bell
 
-rang, both at her house and M. Pelet’s; we were obliged to part; I
+rang, both at her [[house]] and M. Pelet’s; we were obliged to part; I
 
 detained her a moment as she was moving away.
 
@@ -720,35 +720,35 @@ future.
 
 Certainly that May day was a lovely one, and it closed in moonlight
 
-night of summer warmth and serenity. I remember this well; for, having
+[[Night|night]] of [[Summer|summer]] warmth and serenity. I remember this [[Well|well]]; for, having
 
 sat up late that evening, correcting devoirs, and feeling weary and
 
 a little oppressed with the closeness of my small room, I opened the
 
-often-mentioned boarded window, whose boards, however, I had persuaded
+often-mentioned boarded [[Window|window]], whose boards, however, I had persuaded
 
 old Madame Pelet to have removed since I had filled the post of
 
-professor in the pensionnat de demoiselles, as, from that time, it
+professor in the pensionnat de demoiselles, as, from that [[Time|time]], it
 
 was no longer “inconvenient” for me to overlook my own pupils at their
 
-sports. I sat down in the window-seat, rested my arm on the sill,
+sports. I sat down in the [[Window|window]]-seat, rested my arm on the sill,
 
 and leaned out: above me was the clear-obscure of a cloudless
 
-night sky--splendid moonlight subdued the tremulous sparkle of the
+[[Night|night]] sky--splendid moonlight subdued the tremulous sparkle of the
 
-stars--below lay the garden, varied with silvery lustre and deep shade,
+[[Stars|stars]]--below lay the [[Garden|garden]], varied with silvery lustre and deep shade,
 
 and all fresh with dew--a grateful perfume exhaled from the closed
 
-blossoms of the fruit-trees--not a leaf stirred, the night was
+blossoms of the fruit-trees--not a leaf stirred, the [[Night|night]] was
 
-breezeless. My window looked directly down upon a certain walk of Mdlle.
+breezeless. My [[Window|window]] looked directly down upon a certain walk of Mdlle.
 
-Reuter’s garden, called “l’allee defendue,” so named because the pupils
+Reuter’s [[Garden|garden]], called “l’allee defendue,” so named because the pupils
 
 were forbidden to enter it on account of its proximity to the boys’
 
@@ -756,15 +756,15 @@ school. It was here that the lilacs and laburnums grew especially thick;
 
 this was the most sheltered nook in the enclosure, its shrubs screened
 
-the garden-chair where that afternoon I had sat with the young
+the [[Garden|garden]]-chair where that afternoon I had sat with the young
 
 directress. I need not say that my thoughts were chiefly with her as
 
 I leaned from the lattice, and let my eye roam, now over the walks and
 
-borders of the garden, now along the many-windowed front of the house
+borders of the [[Garden|garden]], now along the many-windowed front of the [[house]]
 
-which rose white beyond the masses of foliage. I wondered in what part
+which [[Rose|rose]] white beyond the masses of foliage. I wondered in what part
 
 of the building was situated her apartment; and a single light, shining
 
@@ -776,7 +776,7 @@ through the persiennes of one croisee, seemed to direct me to it.
 
 is a fascinating little woman,” I continued in voiceless soliloquy; “her
 
-image forms a pleasant picture in memory; I know she is not what the
+image forms a pleasant picture in [[Memory|memory]]; I know she is not what the
 
 world calls pretty--no matter, there is harmony in her aspect, and I
 
@@ -784,9 +784,9 @@ like it; her brown hair, her blue eye, the freshness of her cheek, the
 
 whiteness of her neck, all suit my taste. Then I respect her talent;
 
-the idea of marrying a doll or a fool was always abhorrent to me: I know
+the idea of marrying a doll or a [[Fool|fool]] was always abhorrent to me: I know
 
-that a pretty doll, a fair fool, might do well enough for the honeymoon;
+that a pretty doll, a fair [[Fool|fool]], might do [[Well|well]] enough for the honeymoon;
 
 but when passion cooled, how dreadful to find a lump of wax and wood
 
@@ -798,7 +798,7 @@ rest of my dreary life with a creature incapable of understanding what
 
 I said, of appreciating what I thought, or of sympathizing with what I
 
-felt! “Now, Zoraide Reuter,” thought I, “has tact, CARACTERE, judgment,
+felt! “Now, [[Zoraide Reuter]],” thought I, “has tact, CARACTERE, judgment,
 
 discretion; has she heart? What a good, simple little smile played
 
@@ -812,7 +812,7 @@ the efforts made by a bland temper to traverse quietly perplexing
 
 difficulties? And as to interest, she wishes to make her way in the
 
-world, no doubt, and who can blame her? Even if she be truly deficient
+world, no [[Doubt|doubt]], and who can blame her? Even if she be truly deficient
 
 in sound principle, is it not rather her misfortune than her fault? She
 
@@ -838,7 +838,7 @@ a bugle, very skilfully played, in the neighbourhood of the park, I
 
 thought, or on the Place Royale. So sweet were the tones, so subduing
 
-their effect at that hour, in the midst of silence and under the
+their effect at that hour, in the midst of [[Silence|silence]] and under the
 
 quiet reign of moonlight, I ceased to think, that I might listen more
 
@@ -848,11 +848,11 @@ gone; my ear prepared to repose on the absolute hush of midnight once
 
 more. No. What murmur was that which, low, and yet near and approaching
 
-nearer, frustrated the expectation of total silence? It was some one
+nearer, frustrated the expectation of total [[Silence|silence]]? It was some one
 
 conversing--yes, evidently, an audible, though subdued voice spoke in
 
-the garden immediately below me. Another answered; the first voice was
+the [[Garden|garden]] immediately below me. Another answered; the first voice was
 
 that of a man, the second that of a woman; and a man and a woman I saw
 
@@ -862,7 +862,7 @@ could but discern a dusk outline of each, but a ray of moonlight met
 
 them at the termination of the walk, when they were under my very nose,
 
-and revealed very plainly, very unequivocally, Mdlle. Zoraide Reuter,
+and revealed very plainly, very unequivocally, Mdlle. [[Zoraide Reuter]],
 
 arm-in-arm, or hand-in-hand (I forget which) with my principal,
 
@@ -906,17 +906,17 @@ trousseau.”
 
 devotedly as I do: my torment is your sport; you scruple not to stretch
 
-my soul on the rack of jealousy; for, deny it as you will, I am certain
+my [[Soul|soul]] on the rack of [[Jealousy|jealousy]]; for, deny it as you will, I am certain
 
 you have cast encouraging glances on that school-boy, Crimsworth; he has
 
-presumed to fall in love, which he dared not have done unless you had
+presumed to fall in [[Love|love]], which he dared not have done unless you had
 
-given him room to hope.”
+given him room to [[Hope|hope]].”
 
 
 
-“What do you say, Francois? Do you say Crimsworth is in love with me?”
+“What do you say, Francois? Do you say Crimsworth is in [[Love|love]] with me?”
 
 
 
@@ -974,7 +974,7 @@ least, from her reply.
 
 “What folly! How could I prefer an unknown foreigner to you? And
 
-then--not to flatter your vanity--Crimsworth could not bear comparison
+then--not to flatter your [[Vanity|vanity]]--Crimsworth could not bear comparison
 
 with you either physically or mentally; he is not a handsome man at all;
 
@@ -990,16 +990,16 @@ from the chair in which they had been seated, moved away. I waited their
 
 return, but soon the opening and shutting of a door informed me that
 
-they had re-entered the house; I listened a little longer, all was
+they had re-entered the [[house]]; I listened a little longer, all was
 
 perfectly still; I listened more than an hour--at last I heard M. Pelet
 
 come in and ascend to his chamber. Glancing once more towards the long
 
-front of the garden-house, I perceived that its solitary light was
+front of the [[Garden|garden]]-[[house]], I perceived that its solitary light was
 
-at length extinguished; so, for a time, was my faith in love and
+at length extinguished; so, for a [[Time|time]], was my [[Faith|faith]] in [[Love|love]] and
 
-friendship. I went to bed, but something feverish and fiery had got into
+[[Friendship|friendship]]. I went to bed, but something feverish and fiery had got into
 
-my veins which prevented me from sleeping much that night.
+my veins which prevented me from sleeping much that [[Night|night]].

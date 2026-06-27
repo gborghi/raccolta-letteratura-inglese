@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 13 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-his sufferings, wishing for nothing but death. This evening we ate the
+his sufferings, wishing for nothing but [[Death|death]]. This evening we ate the
 
-last of our olives, and found the water in our jug so putrid that we
+last of our olives, and found the [[Water|water]] in our jug so putrid that we
 
-could not swallow it at all without the addition of wine. Determined to
+could not [[Swallow|swallow]] it at all without the addition of wine. Determined to
 
 kill our tortoise in the morning.
 
 
 
-_July 31._ After a night of excessive anxiety and fatigue, owing to the
+_July 31._ After a [[Night|night]] of excessive anxiety and fatigue, owing to the
 
 position of the hulk, we set about killing and cutting up our tortoise.
 
@@ -46,21 +46,21 @@ until we had consumed the rest. We concluded to restrict ourselves to
 
 about four ounces of the meat per day; the whole would thus last us
 
-thirteen days. A brisk shower, with severe thunder and lightning, came
+thirteen days. A brisk shower, with severe thunder and [[Lightning|lightning]], came
 
-on about dusk, but lasted so short a time that we only succeeded in
+on about dusk, but lasted so short a [[Time|time]] that we only succeeded in
 
-catching about half a pint of water. The whole of this, by common
+catching about half a pint of [[Water|water]]. The whole of this, by common
 
 consent, was given to Augustus, who now appeared to be in the last
 
-extremity. He drank the water from the sheet as we caught it (we
+extremity. He drank the [[Water|water]] from the sheet as we caught it (we
 
 holding it above him as he lay so as to let it run into his mouth), for
 
-we had now nothing left capable of holding water, unless we had chosen
+we had now nothing left capable of holding [[Water|water]], unless we had chosen
 
-to empty out our wine from the carboy, or the stale water from the jug.
+to empty out our wine from the carboy, or the stale [[Water|water]] from the jug.
 
 Either of these expedients would have been resorted to had the shower
 
@@ -90,11 +90,11 @@ swallowing any liquid, without great difficulty.
 
 _August 1._ A continuance of the same calm weather, with an
 
-oppressively hot sun. Suffered exceedingly from thirst, the water in
+oppressively hot sun. Suffered exceedingly from thirst, the [[Water|water]] in
 
 the jug being absolutely putrid and swarming with vermin. We contrived,
 
-nevertheless, to swallow a portion of it by mixing it with wine--our
+nevertheless, to [[Swallow|swallow]] a portion of it by mixing it with wine--our
 
 thirst, however, was but little abated. We found more relief by bathing
 
@@ -106,23 +106,23 @@ saw clearly that Augustus could not be saved; that he was evidently
 
 dying. We could do nothing to relieve his sufferings, which appeared to
 
-be great. About twelve o'clock he expired in strong convulsions, and
+be great. About twelve o'[[Clock|clock]] he expired in strong convulsions, and
 
-without having spoken for several hours. His death filled us with the
+without having spoken for several hours. His [[Death|death]] filled us with the
 
 most gloomy forebodings, and had so great an effect upon our spirits
 
 that we sat motionless by the corpse during the whole day, and never
 
-addressed each other except in a whisper. It was not until some time
+addressed each other except in a whisper. It was not until some [[Time|time]]
 
-after dark that we took courage to get up and throw the body overboard.
+after dark that we took [[Courage|courage]] to get up and throw the [[Body|body]] overboard.
 
 It was then loathsome beyond expression, and so far decayed that, as
 
 Peters attempted to lift it, an entire leg came off in his grasp. As
 
-the mass of putrefaction slipped over the vessel's side into the water,
+the mass of putrefaction slipped over the vessel's side into the [[Water|water]],
 
 the glare of phosphoric light with which it was surrounded plainly
 
@@ -136,15 +136,15 @@ extremity of horror at the sound.
 
 
 
-_August 2._ The same fearfully calm and hot weather. The dawn found us
+_August 2._ The same fearfully calm and hot weather. The [[Dawn|dawn]] found us
 
-in a state of pitiable dejection as well as bodily exhaustion. The
+in a state of pitiable dejection as [[Well|well]] as bodily exhaustion. The
 
-water in the jug was now absolutely useless, being a thick gelatinous
+[[Water|water]] in the jug was now absolutely useless, being a thick gelatinous
 
 mass; nothing but frightful-looking worms mingled with slime. We threw
 
-it out, and washed the jug well in the sea, afterward pouring a little
+it out, and washed the jug [[Well|well]] in the sea, afterward pouring a little
 
 vinegar in it from our bottles of pickled tortoise. Our thirst could
 
@@ -162,13 +162,13 @@ During the whole day we anxiously sought an opportunity of bathing, but
 
 to no purpose; for the hulk was now entirely besieged on all sides with
 
-sharks--no doubt the identical monsters who had devoured our poor
+sharks--no [[Doubt|doubt]] the identical monsters who had devoured our poor
 
 companion on the evening before, and who were in momentary expectation
 
 of another similar feast. This circumstance occasioned us the most
 
-bitter regret, and filled us with the most depressing and melancholy
+bitter regret, and filled us with the most depressing and [[Melancholy|melancholy]]
 
 forebodings. We had experienced indescribable relief in bathing, and to
 
@@ -192,7 +192,7 @@ dusk, but, to our extreme anguish, passed over without discharging
 
 itself. It is quite impossible to conceive our sufferings from thirst
 
-at this period. We passed a sleepless night, both on this account and
+at this period. We passed a sleepless [[Night|night]], both on this account and
 
 through dread of the sharks.
 

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 9 (part 3)"
+title: "Bleak [[house|House]] — Chapter 9 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,7 +21,7 @@ other. “He IS the most wonderful creature! I wouldn’t take ten
 thousand guineas for that bird. I have left an annuity for his sole
 support in case he should outlive me. He is, in sense and attachment,
 a phenomenon. And his father before him was one of the most
-astonishing birds that ever lived!”
+astonishing [[Birds|birds]] that ever lived!”
 
 The subject of this laudation was a very little canary, who was so
 tame that he was brought down by Mr. Boythorn’s man, on his
@@ -31,13 +31,13 @@ most implacable and passionate sentiments, with this fragile mite of
 a creature quietly perched on his forehead, was to have a good
 illustration of his character, I thought.
 
-“By my soul, Jarndyce,” he said, very gently holding up a bit of
+“By my [[Soul|soul]], Jarndyce,” he said, very gently holding up a bit of
 bread to the canary to peck at, “if I were in your place I would
 seize every master in Chancery by the throat to-morrow morning and
 shake him until his money rolled out of his pockets and his bones
 rattled in his skin. I would have a settlement out of somebody, by
 fair means or by foul. If you would empower me to do it, I would do
-it for you with the greatest satisfaction!” (All this time the very
+it for you with the greatest satisfaction!” (All this [[Time|time]] the very
 small canary was eating out of his hand.)
 
 “I thank you, Lawrence, but the suit is hardly at such a point at
@@ -47,15 +47,15 @@ bar.”
 
 “There never was such an infernal cauldron as that Chancery on the
 face of the earth!” said Mr. Boythorn. “Nothing but a mine below it
-on a busy day in term time, with all its records, rules, and
+on a busy day in term [[Time|time]], with all its records, rules, and
 precedents collected in it and every functionary belonging to it
 also, high and low, upward and downward, from its son the
 Accountant-General to its father the Devil, and the whole blown to
-atoms with ten thousand hundredweight of gunpowder, would reform it
+atoms with ten thousand hundredweight of gunpowder, would [[Reform|reform]] it
 in the least!”
 
 It was impossible not to laugh at the energetic gravity with which he
-recommended this strong measure of reform. When we laughed, he threw
+recommended this strong measure of [[Reform|reform]]. When we laughed, he threw
 up his head and shook his broad chest, and again the whole country
 seemed to echo to his “Ha, ha, ha!” It had not the least effect in
 disturbing the bird, whose sense of security was complete and who
@@ -70,45 +70,45 @@ yourself!”
 “The fellow has brought actions against ME for trespass, and I have
 brought actions against HIM for trespass,” returned Mr. Boythorn. “By
 heaven, he is the proudest fellow breathing. It is morally impossible
-that his name can be Sir Leicester. It must be Sir Lucifer.”
+that his name can be Sir Leicester. It must be Sir [[Lucifer]].”
 
 “Complimentary to our distant relation!” said my guardian laughingly
-to Ada and Richard.
+to Ada and [[Richard]].
 
 “I would beg Miss Clare’s pardon and Mr. Carstone’s pardon,” resumed
 our visitor, “if I were not reassured by seeing in the fair face of
 the lady and the smile of the gentleman that it is quite unnecessary
 and that they keep their distant relation at a comfortable distance.”
 
-“Or he keeps us,” suggested Richard.
+“Or he keeps us,” suggested [[Richard]].
 
-“By my soul,” exclaimed Mr. Boythorn, suddenly firing another volley,
+“By my [[Soul|soul]],” exclaimed Mr. Boythorn, suddenly firing another volley,
 “that fellow is, and his father was, and his grandfather was, the
 most stiff-necked, arrogant imbecile, pig-headed numskull, ever, by
-some inexplicable mistake of Nature, born in any station of life but
+some inexplicable mistake of [[Nature]], born in any station of life but
 a walking-stick’s! The whole of that family are the most solemnly
 conceited and consummate blockheads! But it’s no matter; he should
 not shut up my path if he were fifty baronets melted into one and
 living in a hundred Chesney Wolds, one within another, like the ivory
 balls in a Chinese carving. The fellow, by his agent, or secretary,
-or somebody, writes to me ‘Sir Leicester Dedlock, Baronet, presents
+or somebody, writes to me ‘[[Sir Leicester Dedlock]], Baronet, presents
 his compliments to Mr. Lawrence Boythorn, and has to call his
 attention to the fact that the green pathway by the old
-parsonage-house, now the property of Mr. Lawrence Boythorn, is Sir
+parsonage-[[house]], now the property of Mr. Lawrence Boythorn, is Sir
 Leicester’s right of way, being in fact a portion of the park of
 Chesney Wold, and that Sir Leicester finds it convenient to close up
 the same.’ I write to the fellow, ‘Mr. Lawrence Boythorn presents his
-compliments to Sir Leicester Dedlock, Baronet, and has to call HIS
+compliments to [[Sir Leicester Dedlock]], Baronet, and has to call HIS
 attention to the fact that he totally denies the whole of Sir
 Leicester Dedlock’s positions on every possible subject and has to
 add, in reference to closing up the pathway, that he will be glad to
 see the man who may undertake to do it.’ The fellow sends a most
-abandoned villain with one eye to construct a gateway. I play upon
-that execrable scoundrel with a fire-engine until the breath is
-nearly driven out of his body. The fellow erects a gate in the night.
+abandoned [[Villain|villain]] with one eye to construct a gateway. I play upon
+that execrable scoundrel with a [[Fire|fire]]-engine until the breath is
+nearly driven out of his [[Body|body]]. The fellow erects a gate in the [[Night|night]].
 I chop it down and burn it in the morning. He sends his myrmidons to
 come over the fence and pass and repass. I catch them in humane man
-traps, fire split peas at their legs, play upon them with the
+traps, [[Fire|fire]] split peas at their legs, play upon them with the
 engine—resolve to free mankind from the insupportable burden of the
 existence of those lurking ruffians. He brings actions for trespass;
 I bring actions for trespass. He brings actions for assault and
@@ -117,12 +117,12 @@ ha!”
 
 To hear him say all this with unimaginable energy, one might have
 thought him the angriest of mankind. To see him at the very same
-time, looking at the bird now perched upon his thumb and softly
+[[Time|time]], looking at the bird now perched upon his thumb and softly
 smoothing its feathers with his forefinger, one might have thought
-him the gentlest. To hear him laugh and see the broad good nature of
+him the gentlest. To hear him laugh and see the broad good [[Nature|nature]] of
 his face then, one might have supposed that he had not a care in the
 world, or a dispute, or a dislike, but that his whole existence was a
-summer joke.
+[[Summer|summer]] joke.
 
 “No, no,” he said, “no closing up of my paths by any Dedlock! Though
 I willingly confess,” here he softened in a moment, “that Lady

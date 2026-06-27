@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 23 (part 2)"
+title: "[[Wuthering Heights]] — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -25,7 +25,7 @@ with passion.
 and leaning back his head to enjoy the agitation of the other
 disputant, who stood behind.
 
-“Hush, Master Heathcliff!” I said; “that’s your father’s tale, too, I
+“Hush, Master [[Heathcliff]]!” I said; “that’s your father’s tale, too, I
 suppose.”
 
 “It isn’t: you hold your tongue!” he answered. “She did, she did,
@@ -38,9 +38,9 @@ me. As to his cousin, she wept with all her might, aghast at the
 mischief she had done: though she said nothing. I held him till the fit
 exhausted itself. Then he thrust me away, and leant his head down
 silently. Catherine quelled her lamentations also, took a seat
-opposite, and looked solemnly into the fire.
+opposite, and looked solemnly into the [[Fire|fire]].
 
-“How do you feel now, Master Heathcliff?” I inquired, after waiting ten
+“How do you feel now, Master [[Heathcliff]]?” I inquired, after waiting ten
 minutes.
 
 “I wish _she_ felt as I do,” he replied: “spiteful, cruel thing!
@@ -50,20 +50,20 @@ better to-day: and there—” his voice died in a whimper.
 “_I_ didn’t strike you!” muttered Cathy, chewing her lip to prevent
 another burst of emotion.
 
-He sighed and moaned like one under great suffering, and kept it up for
+He sighed and moaned like one under great [[Suffering|suffering]], and kept it up for
 a quarter of an hour; on purpose to distress his cousin apparently, for
-whenever he caught a stifled sob from her he put renewed pain and
+whenever he caught a stifled sob from her he put renewed [[Pain|pain]] and
 pathos into the inflexions of his voice.
 
 “I’m sorry I hurt you, Linton,” she said at length, racked beyond
-endurance. “But _I_ couldn’t have been hurt by that little push, and I
+[[Endurance|endurance]]. “But _I_ couldn’t have been hurt by that little push, and I
 had no idea that you could, either: you’re not much, are you, Linton?
-Don’t let me go home thinking I’ve done you harm. Answer! speak to me.”
+Don’t let me go [[Home|home]] thinking I’ve done you harm. Answer! speak to me.”
 
 “I can’t speak to you,” he murmured; “you’ve hurt me so that I shall
-lie awake all night choking with this cough. If you had it you’d know
+lie awake all [[Night|night]] choking with this cough. If you had it you’d know
 what it was; but _you’ll_ be comfortably asleep while I’m in agony, and
-nobody near me. I wonder how you would like to pass those fearful
+nobody near me. I [[Wonder|wonder]] how you would like to pass those fearful
 nights!” And he began to wail aloud, for very pity of himself.
 
 “Since you are in the habit of passing dreadful nights,” I said, “it
@@ -78,15 +78,15 @@ me to go, Linton?”
 from her, “unless you alter it for the worse by teasing me into a
 fever.”
 
-“Well, then, I must go?” she repeated.
+“[[Well]], then, I must go?” she repeated.
 
-“Let me alone, at least,” said he; “I can’t bear your talking.”
+“Let me [[Alone|alone]], at least,” said he; “I can’t bear your talking.”
 
 She lingered, and resisted my persuasions to departure a tiresome
 while; but as he neither looked up nor spoke, she finally made a
 movement to the door, and I followed. We were recalled by a scream.
 Linton had slid from his seat on to the hearthstone, and lay writhing
-in the mere perverseness of an indulged plague of a child, determined
+in the mere perverseness of an indulged plague of a [[Child|child]], determined
 to be as grievous and harassing as it can. I thoroughly gauged his
 disposition from his behaviour, and saw at once it would be folly to
 attempt humouring him. Not so my companion: she ran back in terror,
@@ -94,13 +94,13 @@ knelt down, and cried, and soothed, and entreated, till he grew quiet
 from lack of breath: by no means from compunction at distressing her.
 
 “I shall lift him on to the settle,” I said, “and he may roll about as
-he pleases: we can’t stop to watch him. I hope you are satisfied, Miss
+he pleases: we can’t stop to watch him. I [[Hope|hope]] you are satisfied, Miss
 Cathy, that _you_ are not the person to benefit him; and that his
 condition of health is not occasioned by attachment to you. Now, then,
 there he is! Come away: as soon as he knows there is nobody by to care
 for his nonsense, he’ll be glad to lie still.”
 
-She placed a cushion under his head, and offered him some water; he
+She placed a cushion under his head, and offered him some [[Water|water]]; he
 rejected the latter, and tossed uneasily on the former, as if it were a
 stone or a block of wood. She tried to put it more comfortably.
 
@@ -116,13 +116,13 @@ He twined himself up to her, as she half knelt by the settle, and
 converted her shoulder into a support.
 
 “No, that won’t do,” I said. “You’ll be content with the cushion,
-Master Heathcliff. Miss has wasted too much time on you already: we
+Master [[Heathcliff]]. Miss has wasted too much [[Time|time]] on you already: we
 cannot remain five minutes longer.”
 
 “Yes, yes, we can!” replied Cathy. “He’s good and patient now. He’s
 beginning to think I shall have far greater misery than he will
-to-night, if I believe he is the worse for my visit: and then I dare
-not come again. Tell the truth about it, Linton; for I mustn’t come, if
+to-[[Night|night]], if I believe he is the worse for my visit: and then I dare
+not come again. Tell the [[Truth|truth]] about it, Linton; for I mustn’t come, if
 I have hurt you.”
 
 “You must come, to cure me,” he answered. “You ought to come, because
@@ -135,7 +135,7 @@ you want me: you would wish to see me sometimes, really?”
 
 “I told you I did,” he replied impatiently. “Sit on the settle and let
 me lean on your knee. That’s as mamma used to do, whole afternoons
-together. Sit quite still and don’t talk: but you may sing a song, if
+together. Sit quite still and don’t talk: but you may sing a [[Song|song]], if
 you can sing; or you may say a nice long interesting ballad—one of
 those you promised to teach me; or a story. I’d rather have a ballad,
 though: begin.”
@@ -143,8 +143,8 @@ though: begin.”
 Catherine repeated the longest she could remember. The employment
 pleased both mightily. Linton would have another, and after that
 another, notwithstanding my strenuous objections; and so they went on
-until the clock struck twelve, and we heard Hareton in the court,
+until the [[Clock|clock]] struck twelve, and we heard Hareton in the [[Court|court]],
 returning for his dinner.
 
 “And to-morrow, Catherine, will you be here to-morrow?” asked young
-Heathcliff, holding her frock as she rose reluctantly.
+[[Heathcliff]], holding her frock as she [[Rose|rose]] reluctantly.

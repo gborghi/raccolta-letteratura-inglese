@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 41 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 41 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 Mrs Varden having cut in, looked at a box upon the mantelshelf, painted
-in imitation of a very red-brick dwelling-house, with a yellow roof;
+in [[Imitation|imitation]] of a very red-brick dwelling-[[house]], with a yellow roof;
 having at top a real chimney, down which voluntary subscribers dropped
 their silver, gold, or pence, into the parlour; and on the door the
 counterfeit presentment of a brass plate, whereon was legibly inscribed
@@ -35,18 +35,18 @@ his features with her quarter’s money.
 ‘Oh, mim,’ said Miggs, ‘don’t relude to that. I had no intentions, mim,
 that nobody should know. Such sacrifices as I can make, are quite a
 widder’s mite. It’s all I have,’ cried Miggs with a great burst of
-tears--for with her they never came on by degrees--‘but it’s made up to
-me in other ways; it’s well made up.’
+[[Tears|tears]]--for with her they never came on by degrees--‘but it’s made up to
+me in other ways; it’s [[Well|well]] made up.’
 
 This was quite true, though not perhaps in the sense that Miggs
-intended. As she never failed to keep her self-denial full in Mrs
+intended. As she never failed to keep her [[Self|self]]-denial full in Mrs
 Varden’s view, it drew forth so many gifts of caps and gowns and other
-articles of dress, that upon the whole the red-brick house was perhaps
+articles of dress, that upon the whole the red-brick [[house]] was perhaps
 the best investment for her small capital she could possibly have hit
 upon; returning her interest, at the rate of seven or eight per cent in
 money, and fifty at least in personal repute and credit.
 
-‘You needn’t cry, Miggs,’ said Mrs Varden, herself in tears; ‘you
+‘You needn’t cry, Miggs,’ said Mrs Varden, herself in [[Tears|tears]]; ‘you
 needn’t be ashamed of it, though your poor mistress IS on the same
 side.’
 
@@ -56,20 +56,20 @@ families and have dislikes, and not give satisfactions. That to make
 divisions was a thing she could not abear to think of, neither could her
 feelings let her do it. That if it was master’s wishes as she and him
 should part, it was best they should part, and she hoped he might be
-the happier for it, and always wished him well, and that he might find
+the happier for it, and always wished him [[Well|well]], and that he might find
 somebody as would meet his dispositions. It would be a hard trial, she
-said, to part from such a missis, but she could meet any suffering when
-her conscience told her she was in the rights, and therefore she was
+said, to part from such a missis, but she could meet any [[Suffering|suffering]] when
+her [[Conscience|conscience]] told her she was in the rights, and therefore she was
 willing even to go that lengths. She did not think, she added, that she
 could long survive the separations, but, as she was hated and looked
 upon unpleasant, perhaps her dying as soon as possible would be the best
 endings for all parties. With this affecting conclusion, Miss Miggs shed
-more tears, and sobbed abundantly.
+more [[Tears|tears]], and sobbed abundantly.
 
 ‘Can you bear this, Varden?’ said his wife in a solemn voice, laying
 down her knife and fork.
 
-‘Why, not very well, my dear,’ rejoined the locksmith, ‘but I try to
+‘Why, not very [[Well|well]], my dear,’ rejoined the locksmith, ‘but I try to
 keep my temper.’
 
 ‘Don’t let there be words on my account, mim,’ sobbed Miggs. ‘It’s much
@@ -99,29 +99,29 @@ she rather loved the more indeed, the greater persecution she sustained.
 Mrs Varden approved of this meek and forgiving spirit in high terms,
 and incidentally declared as a closing article of agreement, that Dolly
 should accompany her to the Clerkenwell branch of the association, that
-very night. This was an extraordinary instance of her great prudence and
+very [[Night|night]]. This was an extraordinary instance of her great prudence and
 policy; having had this end in view from the first, and entertaining
 a secret misgiving that the locksmith (who was bold when Dolly was in
 question) would object, she had backed Miss Miggs up to this point, in
 order that she might have him at a disadvantage. The manoeuvre succeeded
-so well that Gabriel only made a wry face, and with the warning he had
+so [[Well|well]] that Gabriel only made a wry face, and with the warning he had
 just had, fresh in his mind, did not dare to say one word.
 
 The difference ended, therefore, in Miggs being presented with a gown
-by Mrs Varden and half-a-crown by Dolly, as if she had eminently
-distinguished herself in the paths of morality and goodness. Mrs V.,
-according to custom, expressed her hope that Varden would take a lesson
-from what had passed and learn more generous conduct for the time to
+by Mrs Varden and half-a-[[Crown|crown]] by Dolly, as if she had eminently
+distinguished herself in the paths of [[morality]] and goodness. Mrs V.,
+according to custom, expressed her [[Hope|hope]] that Varden would take a lesson
+from what had passed and learn more generous conduct for the [[Time|time]] to
 come; and the dinner being now cold and nobody’s appetite very much
 improved by what had passed, they went on with it, as Mrs Varden said,
 ‘like Christians.’
 
-As there was to be a grand parade of the Royal East London Volunteers
+As there was to be a grand parade of the Royal East [[London]] Volunteers
 that afternoon, the locksmith did no more work; but sat down comfortably
 with his pipe in his mouth, and his arm round his pretty daughter’s
-waist, looking lovingly on Mrs V., from time to time, and exhibiting
-from the crown of his head to the sole of his foot, one smiling surface
-of good humour. And to be sure, when it was time to dress him in his
+waist, looking lovingly on Mrs V., from [[Time|time]] to [[Time|time]], and exhibiting
+from the [[Crown|crown]] of his head to the sole of his foot, one smiling surface
+of good [[Humour|humour]]. And to be sure, when it was [[Time|time]] to dress him in his
 regimentals, and Dolly, hanging about him in all kinds of graceful
 winning ways, helped to button and buckle and brush him up and get him
 into one of the tightest coats that ever was made by mortal tailor, he

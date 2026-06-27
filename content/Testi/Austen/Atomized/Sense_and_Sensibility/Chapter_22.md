@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 22"
+title: "[[Sense and Sensibility]] — Chapter 22"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ Marianne, who had never much toleration for any thing like
 
 impertinence, vulgarity, inferiority of parts, or even difference of
 
-taste from herself, was at this time particularly ill-disposed, from
+taste from herself, was at this [[Time|time]] particularly ill-disposed, from
 
 the state of her spirits, to be pleased with the Miss Steeles, or to
 
@@ -48,7 +48,7 @@ Lucy was naturally clever; her remarks were often just and amusing; and
 
 as a companion for half an hour Elinor frequently found her agreeable;
 
-but her powers had received no aid from education: she was ignorant and
+but her powers had received no aid from [[Education|education]]: she was ignorant and
 
 illiterate; and her deficiency of all mental improvement, her want of
 
@@ -58,7 +58,7 @@ Miss Dashwood, in spite of her constant endeavour to appear to
 
 advantage. Elinor saw, and pitied her for, the neglect of abilities
 
-which education might have rendered so respectable; but she saw, with
+which [[Education|education]] might have rendered so respectable; but she saw, with
 
 less tenderness of feeling, the thorough want of delicacy, of
 
@@ -94,7 +94,7 @@ expressed it, as she answered that she had never seen Mrs. Ferrars.
 
 
 
-“Indeed!” replied Lucy; “I wonder at that, for I thought you must have
+“Indeed!” replied Lucy; “I [[Wonder|wonder]] at that, for I thought you must have
 
 seen her at Norland sometimes. Then, perhaps, you cannot tell me what
 
@@ -114,7 +114,7 @@ curiosity; “I know nothing of her.”
 
 way,” said Lucy, eyeing Elinor attentively as she spoke; “but perhaps
 
-there may be reasons—I wish I might venture; but however I hope you
+there may be reasons—I wish I might venture; but however I [[Hope|hope]] you
 
 will do me the justice of believing that I do not mean to be
 
@@ -124,7 +124,7 @@ impertinent.”
 
 Elinor made her a civil reply, and they walked on for a few minutes in
 
-silence. It was broken by Lucy, who renewed the subject again by
+[[Silence|silence]]. It was broken by Lucy, who renewed the subject again by
 
 saying, with some hesitation,
 
@@ -134,9 +134,9 @@ saying, with some hesitation,
 
 would rather do any thing in the world than be thought so by a person
 
-whose good opinion is so well worth having as yours. And I am sure I
+whose good opinion is so [[Well|well]] worth having as yours. And I am sure I
 
-should not have the smallest fear of trusting _you;_ indeed, I should
+should not have the smallest [[Fear|fear]] of trusting _you;_ indeed, I should
 
 be very glad of your advice how to manage in such an uncomfortable
 
@@ -158,11 +158,11 @@ into her character.”
 
 
 
-“I dare say you are, and I am sure I do not at all wonder at it. But if
+“I dare say you are, and I am sure I do not at all [[Wonder|wonder]] at it. But if
 
 I dared tell you all, you would not be so much surprised. Mrs. Ferrars
 
-is certainly nothing to me at present—but the time _may_ come—how soon
+is certainly nothing to me at present—but the [[Time|time]] _may_ come—how soon
 
 it will come must depend upon herself—when we may be very intimately
 
@@ -198,13 +198,13 @@ assertion attended it. She turned towards Lucy in silent amazement,
 
 unable to divine the reason or object of such a declaration; and though
 
-her complexion varied, she stood firm in incredulity, and felt in no
+her complexion varied, she stood firm in [[Incredulity|incredulity]], and felt in no
 
 danger of an hysterical fit, or a swoon.
 
 
 
-“You may well be surprised,” continued Lucy; “for to be sure you could
+“You may [[Well|well]] be surprised,” continued Lucy; “for to be sure you could
 
 have had no idea of it before; for I dare say he never dropped the
 
@@ -212,7 +212,7 @@ smallest hint of it to you or any of your family; because it was always
 
 meant to be a great secret, and I am sure has been faithfully kept so
 
-by me to this hour. Not a soul of all my relations know of it but Anne,
+by me to this hour. Not a [[Soul|soul]] of all my relations know of it but Anne,
 
 and I never should have mentioned it to you, if I had not felt the
 
@@ -238,7 +238,7 @@ heard was at first too great for words; but at length forcing herself
 
 to speak, and to speak cautiously, she said, with calmness of manner,
 
-which tolerably well concealed her surprise and solicitude—“May I ask
+which tolerably [[Well|well]] concealed her surprise and solicitude—“May I ask
 
 if your engagement is of long standing?”
 
@@ -298,9 +298,9 @@ was almost always with us afterwards. I was very unwilling to enter
 
 into it, as you may imagine, without the knowledge and approbation of
 
-his mother; but I was too young, and loved him too well, to be so
+his mother; but I was too young, and loved him too [[Well|well]], to be so
 
-prudent as I ought to have been. Though you do not know him so well as
+prudent as I ought to have been. Though you do not know him so [[Well|well]] as
 
 me, Miss Dashwood, you must have seen enough of him to be sensible he
 
@@ -312,7 +312,7 @@ is very capable of making a woman sincerely attached to him.”
 
 a moment’s reflection, she added, with revived security of Edward’s
 
-honour and love, and her companion’s falsehood—“Engaged to Mr. Edward
+[[Honour|honour]] and [[Love|love]], and her companion’s falsehood—“Engaged to Mr. Edward
 
 Ferrars!—I confess myself so totally surprised at what you tell me,
 
@@ -322,7 +322,7 @@ person or name. We cannot mean the same Mr. Ferrars.”
 
 
 
-“We can mean no other,” cried Lucy, smiling. “Mr. Edward Ferrars, the
+“We can mean no other,” cried Lucy, smiling. “Mr. [[Edward Ferrars]], the
 
 eldest son of Mrs. Ferrars, of Park Street, and brother of your
 
@@ -354,7 +354,7 @@ it.”
 
 
 
-She was silent.—Elinor’s security sunk; but her self-command did not
+She was silent.—Elinor’s security sunk; but her [[Self|self]]-command did not
 
 sink with it.
 
@@ -380,7 +380,7 @@ drew for.—I have had it above these three years.”
 
 She put it into her hands as she spoke; and when Elinor saw the
 
-painting, whatever other doubts her fear of a too hasty decision, or
+painting, whatever other doubts her [[Fear|fear]] of a too hasty decision, or
 
 her wish of detecting falsehood might suffer to linger in her mind, she
 
@@ -402,11 +402,11 @@ opportunity.”
 
 “You are quite in the right,” replied Elinor calmly. They then
 
-proceeded a few paces in silence. Lucy spoke first.
+proceeded a few paces in [[Silence|silence]]. Lucy spoke first.
 
 
 
-“I am sure,” said she, “I have no doubt in the world of your faithfully
+“I am sure,” said she, “I have no [[Doubt|doubt]] in the world of your faithfully
 
 keeping this secret, because you must know of what importance it is to
 
@@ -458,7 +458,7 @@ not a creature whose advice I can ask. Anne is the only person that
 
 knows of it, and she has no judgment at all; indeed, she does me a
 
-great deal more harm than good, for I am in constant fear of her
+great deal more harm than good, for I am in constant [[Fear|fear]] of her
 
 betraying me. She does not know how to hold her tongue, as you must
 
@@ -468,13 +468,13 @@ t’other day, when Edward’s name was mentioned by Sir John, lest she
 
 should out with it all. You can’t think how much I go through in my
 
-mind from it altogether. I only wonder that I am alive after what I
+mind from it altogether. I only [[Wonder|wonder]] that I am alive after what I
 
 have suffered for Edward’s sake these last four years. Every thing in
 
 such suspense and uncertainty; and seeing him so seldom—we can hardly
 
-meet above twice a-year. I am sure I wonder my heart is not quite
+meet above twice a-year. I am sure I [[Wonder|wonder]] my heart is not quite
 
 broke.”
 
@@ -512,7 +512,7 @@ you.”
 
 
 
-“To be sure,” continued Lucy, after a few minutes silence on both
+“To be sure,” continued Lucy, after a few minutes [[Silence|silence]] on both
 
 sides, “his mother must provide for him sometime or other; but poor
 
@@ -542,9 +542,9 @@ circumstance in favour of Lucy’s veracity; “I remember he told us, that
 
 he had been staying a fortnight with some friends near Plymouth.” She
 
-remembered too, her own surprise at the time, at his mentioning nothing
+remembered too, her own surprise at the [[Time|time]], at his mentioning nothing
 
-farther of those friends, at his total silence with respect even to
+farther of those friends, at his total [[Silence|silence]] with respect even to
 
 their names.
 
@@ -558,9 +558,9 @@ their names.
 
 
 
-“I begged him to exert himself for fear you should suspect what was the
+“I begged him to exert himself for [[Fear|fear]] you should suspect what was the
 
-matter; but it made him so melancholy, not being able to stay more than
+matter; but it made him so [[Melancholy|melancholy]], not being able to stay more than
 
 a fortnight with us, and seeing me so much affected. Poor fellow! I am
 
@@ -572,13 +572,13 @@ from her pocket and carelessly showing the direction to Elinor. “You
 
 know his hand, I dare say,—a charming one it is; but that is not
 
-written so well as usual. He was tired, I dare say, for he had just
+written so [[Well|well]] as usual. He was tired, I dare say, for he had just
 
 filled the sheet to me as full as possible.”
 
 
 
-Elinor saw that it _was_ his hand, and she could doubt no longer. This
+Elinor saw that it _was_ his hand, and she could [[Doubt|doubt]] no longer. This
 
 picture, she had allowed herself to believe, might have been
 
@@ -594,7 +594,7 @@ could hardly stand; but exertion was indispensably necessary; and she
 
 struggled so resolutely against the oppression of her feelings, that
 
-her success was speedy, and for the time complete.
+her [[success]] was speedy, and for the [[Time|time]] complete.
 
 
 

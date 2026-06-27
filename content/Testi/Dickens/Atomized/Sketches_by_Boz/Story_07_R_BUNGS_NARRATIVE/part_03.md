@@ -23,7 +23,7 @@ she made, brought in a young lady of about nineteen or twenty, who, I
 suppose, had been a-listening at the door, and who had got a little boy
 in her arms: she sat him down in the lady’s lap, without speaking, and
 she hugged the poor little fellow to her bosom, and cried over him,
-till even old Fixem put on his blue spectacles to hide the two tears,
+till even old Fixem put on his blue spectacles to hide the two [[Tears|tears]],
 that was a-trickling down, one on each side of his dirty face. “Now,
 dear ma,” says the young lady, “you know how much you have borne. For
 all our sakes—for pa’s sake,” says she, “don’t give way to this!”—“No,
@@ -49,10 +49,10 @@ up, and looked at Fixem; the old fellow nodded to me significantly, so
 I ran my pen through the “_Mini_” I had just written, and left the
 miniature on the table.
 
-‘Well, sir, to make short of a long story, I was left in possession,
+‘[[Well]], sir, to make short of a long story, I was left in possession,
 and in possession I remained; and though I was an ignorant man, and the
-master of the house a clever one, I saw what he never did, but what he
-would give worlds now (if he had ’em) to have seen in time. I saw, sir,
+master of the [[house]] a clever one, I saw what he never did, but what he
+would give worlds now (if he had ’em) to have seen in [[Time|time]]. I saw, sir,
 that his wife was wasting away, beneath cares of which she never
 complained, and griefs she never told. I saw that she was dying before
 his eyes; I knew that one exertion from him might have saved her, but
@@ -63,9 +63,9 @@ caught sight of her, in the clothes she used to wear, which looked
 shabby even upon her, and would have been scarcely decent on any one
 else, that if I was a gentleman it would wring my very heart to see the
 woman that was a smart and merry girl when I courted her, so altered
-through her love for me. Bitter cold and damp weather it was, yet,
+through her [[Love|love]] for me. Bitter cold and damp weather it was, yet,
 though her dress was thin, and her shoes none of the best, during the
-whole three days, from morning to night, she was out of doors running
+whole three days, from morning to [[Night|night]], she was out of doors running
 about to try and raise the money. The money _was_ raised and the
 execution was paid out. The whole family crowded into the room where I
 was, when the money arrived. The father was quite happy as the
@@ -73,12 +73,12 @@ inconvenience was removed—I dare say he didn’t know how; the children
 looked merry and cheerful again; the eldest girl was bustling about,
 making preparations for the first comfortable meal they had had since
 the distress was put in; and the mother looked pleased to see them all
-so. But if ever I saw death in a woman’s face, I saw it in hers that
-night.
+so. But if ever I saw [[Death|death]] in a woman’s face, I saw it in hers that
+[[Night|night]].
 
 ‘I was right, sir,’ continued Mr. Bung, hurriedly passing his
 coat-sleeve over his face; ‘the family grew more prosperous, and good
 fortune arrived. But it was too late. Those children are motherless
-now, and their father would give up all he has since gained—house,
-home, goods, money: all that he has, or ever can have, to restore the
+now, and their father would give up all he has since gained—[[house]],
+[[Home|home]], goods, money: all that he has, or ever can have, to restore the
 wife he has lost.’

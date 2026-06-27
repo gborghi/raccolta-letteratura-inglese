@@ -20,9 +20,9 @@ You ask for items, details of my early life--of genealogy and
 parentage, particularly of the women of my ancestry, and of its far-back
 Netherlands stock on the maternal side--of the region where I was
 born and raised, and my mother and father before me, and theirs before
-them--with a word about Brooklyn and New York cities, the times I lived
+them--with a word about Brooklyn and [[New York]] cities, the times I lived
 there as lad and young man. You say you want to get at these details
-mainly as the go-befores and embryons of "Leaves of Grass." Very good;
+mainly as the go-befores and embryons of "[[Leaves]] of Grass." Very good;
 you shall have at least some specimens of them all. I have often thought
 of the meaning of such things--that one can only encompass and complete
 matters of that kind by 'exploring behind, perhaps very far behind,

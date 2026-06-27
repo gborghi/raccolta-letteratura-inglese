@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 29 (part 1)"
+title: "[[Shirley]] — Chapter 29 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,13 +18,13 @@ CHAPTER XXIX.
 
 
 
-LOUIS MOORE.
+[[Louis Moore|LOUIS MOORE]].
 
 
 
 
 
-Louis Moore was used to a quiet life. Being a quiet man, he endured it
+[[Louis Moore]] was used to a quiet life. Being a quiet man, he endured it
 
 better than most men would. Having a large world of his own in his own
 
@@ -44,25 +44,25 @@ mother and sisters, who are now at the priory. Kind gentleman as the
 
 baronet is, he asked the tutor too; but the tutor would much sooner have
 
-made an appointment with the ghost of the Earl of Huntingdon to meet
+made an appointment with the [[Ghost|ghost]] of the Earl of Huntingdon to meet
 
 him, and a shadowy ring of his merry men, under the canopy of the
 
 thickest, blackest, oldest oak in Nunnely Forest. Yes, he would rather
 
-have appointed tryst with a phantom abbess, or mist-pale nun, among the
+have appointed tryst with a [[Phantom|phantom]] abbess, or mist-pale nun, among the
 
 wet and weedy relics of that ruined sanctuary of theirs, mouldering in
 
-the core of the wood. Louis Moore longs to have something near him
+the core of the wood. [[Louis Moore]] longs to have something near him
 
-to-night; but not the boy-baronet, nor his benevolent but stern mother,
+to-[[Night|night]]; but not the boy-baronet, nor his benevolent but stern mother,
 
-nor his patrician sisters, nor one soul of the Sympsons.
+nor his patrician sisters, nor one [[Soul|soul]] of the Sympsons.
 
 
 
-This night is not calm; the equinox still struggles in its storms. The
+This [[Night|night]] is not calm; the equinox still struggles in its storms. The
 
 wild rains of the day are abated; the great single cloud disparts and
 
@@ -70,17 +70,17 @@ rolls away from heaven, not passing and leaving a sea all sapphire, but
 
 tossed buoyant before a continued, long-sounding, high-rushing moonlight
 
-tempest. The moon reigns glorious, glad of the gale, as glad as if she
+tempest. The [[Moon|moon]] reigns glorious, glad of the gale, as glad as if she
 
-gave herself to his fierce caress with love. No Endymion will watch for
+gave herself to his fierce caress with [[Love|love]]. No [[Endymion]] will watch for
 
-his goddess to-night. There are no flocks out on the mountains; and it
+his goddess to-[[Night|night]]. There are no flocks out on the [[Mountains|mountains]]; and it
 
-is well, for to-night she welcomes Æolus.
+is [[Well|well]], for to-[[Night|night]] she welcomes Æolus.
 
 
 
-Moore, sitting in the schoolroom, heard the storm roar round the other
+Moore, sitting in the schoolroom, heard the [[Storm|storm]] roar round the other
 
 gable and along the hall-front. This end was sheltered. He wanted no
 
@@ -100,15 +100,15 @@ branch-screened lattice of his own apartment, admitted unimpeded the
 
 dark-blue, the silver-fleeced, the stirring and sweeping vision of the
 
-autumn night-sky. He carried no candle; unneeded was lamp or fire. The
+[[Autumn|autumn]] [[Night|night]]-sky. He carried no candle; unneeded was lamp or [[Fire|fire]]. The
 
-broad and clear though cloud-crossed and fluctuating beam of the moon
+broad and clear though cloud-crossed and fluctuating beam of the [[Moon|moon]]
 
 shone on every floor and wall.
 
 
 
-Moore wanders through all the rooms. He seems following a phantom from
+Moore wanders through all the rooms. He seems following a [[Phantom|phantom]] from
 
 parlour to parlour. In the oak room he stops. This is not chill, and
 
@@ -126,7 +126,7 @@ could you see him standing before it. There is as much interest now in
 
 his eye, and as much significance in his face, as if in this household
 
-solitude he had found a living companion, and was going to speak to it.
+[[Solitude|solitude]] he had found a living companion, and was going to speak to it.
 
 
 
@@ -158,7 +158,7 @@ Whence did she acquire the gift to be heedless and never offend? There
 
 is always something to chide in her, and the reprimand never settles in
 
-displeasure on the heart, but, for her lover or her husband, when it had
+displeasure on the heart, but, for her [[Lover|lover]] or her husband, when it had
 
 trickled a while in words, would naturally melt from his lips in a kiss.
 
@@ -176,11 +176,11 @@ his evening's comfort.
 
 
 
-He dropped the curtains over the broad window and regal moon. He shut
+He dropped the curtains over the broad [[Window|window]] and regal [[Moon|moon]]. He shut
 
-out sovereign and court and starry armies; he added fuel to the hot but
+out sovereign and [[Court|court]] and starry armies; he added fuel to the hot but
 
-fast-wasting fire; he lit a candle, of which there were a pair on the
+fast-wasting [[Fire|fire]]; he lit a candle, of which there were a pair on the
 
 table; he placed another chair opposite that near the workstand; and
 
@@ -194,9 +194,9 @@ Stoop over his shoulder fearlessly, and read as he scribbles.
 
 
 
-"It is nine o'clock; the carriage will not return before eleven, I am
+"It is nine o'[[Clock|clock]]; the carriage will not return before eleven, I am
 
-certain. Freedom is mine till then; till then I may occupy her room, sit
+certain. [[Freedom]] is mine till then; till then I may occupy her room, sit
 
 opposite her chair, rest my elbow on her table, have her little
 
@@ -204,15 +204,15 @@ mementoes about me.
 
 
 
-"I used rather to like Solitude--to fancy her a somewhat quiet and
+"I used rather to like [[Solitude]]--to fancy her a somewhat quiet and
 
 serious, yet fair nymph; an Oread, descending to me from lone
 
 mountain-passes, something of the blue mist of hills in her array and of
 
-their chill breeze in her breath, but much also of their solemn beauty
+their chill breeze in her breath, but much also of their solemn [[Beauty|beauty]]
 
-in her mien. I once could court her serenely, and imagine my heart
+in her mien. I once could [[Court|court]] her serenely, and imagine my heart
 
 easier when I held her to it--all mute, but majestic.
 
@@ -224,9 +224,9 @@ sat so near my side; since she opened the trouble of her mind to me,
 
 asked my protection, appealed to my strength--since that hour I abhor
 
-Solitude. Cold abstraction, fleshless skeleton, daughter, mother, and
+[[Solitude]]. Cold abstraction, fleshless [[skeleton]], daughter, mother, and
 
-mate of Death!
+mate of [[Death]]!
 
 
 

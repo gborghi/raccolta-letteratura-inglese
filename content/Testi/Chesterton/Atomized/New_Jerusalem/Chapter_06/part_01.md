@@ -16,7 +16,7 @@ tags:
 
 CHAPTER VI
 
-THE GROUPS OF THE CITY
+THE GROUPS OF THE [[City|CITY]]
 
 Palestine is a striped country; that is the first effect of landscape
 on the eye.  It runs in great parallel lines wavering into vast hills
@@ -32,10 +32,10 @@ the hues are not the dreary hues of ruin.  What earth there is is commonly
 a red clay richer than that of Devon; a red clay of which it would
 be easy to believe that the giant limbs of the first man were made.
 What grass there is is not only an enamel of emerald, but is
-literally crowded with those crimson anemones which might well have
+literally crowded with those crimson anemones which might [[Well|well]] have
 called forth the great saying touching Solomon in all his glory.
 And even what rock there is is coloured with a thousand secondary
-and tertiary tints, as are the walls and streets of the Holy City
+and tertiary tints, as are the walls and streets of the Holy [[City]]
 which is built from the quarries of these hills.  For the old
 stones of the old Jerusalem are as precious as the precious stones
 of the New Jerusalem; and at certain moments of morning or of sunset,
@@ -52,15 +52,15 @@ were to the primitive poets and sages as visible as they are to us;
 and the strong and simple words in which they describe them
 do not prove that they did not realise them.  When Wordsworth
 speaks of "the clouds that gather round the setting sun,"
-we assume that he has seen every shadow of colour and every
+we assume that he has seen every [[Shadow|shadow]] of colour and every
 curve of form; but when the Hebrew poet says "He hath made
 the clouds his chariot"; we do not always realise that he was
 full of indescribable emotions aroused by indescribable sights.
 We vaguely assume that the very sky was plainer in primitive times.
-We feel as if there had been a fashion in sunsets; or as if dawn
+We feel as if there had been a fashion in sunsets; or as if [[Dawn|dawn]]
 was always grey in the Stone Age or brown in the Bronze Age.
 
-But there is another parable written in those long lines of many-coloured
+But there is another [[Parable|parable]] written in those long lines of many-coloured
 clay and stone.  Palestine is in every sense a stratified country.
 It is not only true in the natural sense, as here where the clay has
 fallen away and left visible the very ribs of the hills.  It is true
@@ -73,8 +73,8 @@ does not run between states but between stratified layers.
 The Jew did not appear beside the Canaanite but on top of the Canaanite;
 the Greek not beside the Jew but on top of the Jew; the Moslem not
 beside the Christian but on top of the Christian.  It is not merely
-a house divided against itself, but one divided across itself.
-It is a house in which the first floor is fighting the second floor,
+a [[house]] divided against itself, but one divided across itself.
+It is a [[house]] in which the first floor is fighting the second floor,
 in which the basement is oppressed from above and attics are besieged
 from below.  There is a great deal of gunpowder in the cellars;
 and people are by no means comfortable even on the roof.
@@ -90,7 +90,7 @@ still seems fragmentary.
 
 We are always told that the Turk kept the peace between
 the Christian sects.  It would be nearer the nerve of vital
-truth to say that he made the war between the Christian sects.
+[[Truth|truth]] to say that he made the war between the Christian sects.
 But it would be nearer still to say that the war is something
 not made by Turks but made up by infidels.  The tourist visiting
 the churches is often incredulous about the tall tales told about them;
@@ -100,12 +100,12 @@ war perpetually waged by Christian against Christian in Jerusalem.
 It freshens the free sense of adventure to wander through those
 crooked and cavernous streets, expecting every minute to see the
 Armenian Patriarch trying to stick a knife into the Greek Patriarch;
-just as it would add to the romance of London to linger about Lambeth
-and Westminster in the hope of seeing the Archbishop of Canterbury locked
+just as it would add to the [[Romance|romance]] of [[London]] to linger about Lambeth
+and Westminster in the [[Hope|hope]] of seeing the Archbishop of Canterbury locked
 in a deadly grapple with the President of the Wesleyan Conference.
 And if we return to our homes at evening without having actually seen
 these things with the eye of flesh, the vision has none the less shone
-on our path, and led us round many corners with alertness and with hope.
+on our path, and led us round many corners with alertness and with [[Hope|hope]].
 But in bald fact religion does not involve perpetual war in the East,
 any more than patriotism involves perpetual war in the West.
 What it does involve in both cases is a defensive attitude;
@@ -114,34 +114,34 @@ an armed peace.
 
 I have already explained the sense in which I say that the Moslems
 are unhistoric or even anti-historic. Perhaps it would be near
-the truth to say that they are prehistoric.  They attach themselves
+the [[Truth|truth]] to say that they are prehistoric.  They attach themselves
 to the tremendous truisms which men might have realised before they
 had any political experience at all; which might have been scratched
 with primitive knives of flint upon primitive pots of clay.
 Being simple and sincere, they do not escape the need for legends;
 I might almost say that, being honest, they do not escape the need
 for lies.  But their mood is not historic, they do not wish to grapple
-with the past; they do not love its complexities; nor do they
+with the past; they do not [[Love|love]] its complexities; nor do they
 understand the enthusiasm for its details and even its doubts.
 Now in all this the Moslems of a place like Jerusalem are the very
-opposite of the Christians of Jerusalem.  The Christianity of Jerusalem is
-highly historic, and cannot be understood without historical imagination.
+opposite of the Christians of Jerusalem.  The [[Christianity]] of Jerusalem is
+highly historic, and cannot be understood without historical [[Imagination|imagination]].
 And this is not the strong point perhaps of those among us who generally
 record their impressions of the place.  As the educated Englishman
-does not know the history of England, it would be unreasonable
-to expect him to know the history of Moab or of Mesopotamia.
+does not know the [[history]] of England, it would be unreasonable
+to expect him to know the [[history]] of Moab or of Mesopotamia.
 He receives the impression, in visiting the shrines of Jerusalem,
 of a number of small sects squabbling about small things.
 In short, he has before him a tangle of trivialities, which include
-the Roman Empire in the West and in the East, the Catholic Church
+the Roman Empire in the West and in the East, the [[Catholic Church]]
 in its two great divisions, the Jewish race, the memories of Greece
-and Egypt, and the whole Mahometan world in Asia and Africa.
+and [[Egypt]], and the whole Mahometan world in Asia and Africa.
 It may be that he regards these as small things; but I should be glad
-if he would cast his eye over human history, and tell me what are
-the large things.  The truth is that the things that meet to-day in
+if he would cast his eye over human [[history]], and tell me what are
+the large things.  The [[Truth|truth]] is that the things that meet to-day in
 Jerusalem are by far the greatest things that the world has yet seen.
 If they are not important nothing on this earth is important,
 and certainly not the impressions of those who happen to be bored
 by them.  But to understand them it is necessary to have something
-which is much commoner in Jerusalem than in Oxford or Boston;
-that sort of living history which we call tradition.
+which is much commoner in Jerusalem than in [[Oxford]] or Boston;
+that sort of living [[history]] which we call tradition.

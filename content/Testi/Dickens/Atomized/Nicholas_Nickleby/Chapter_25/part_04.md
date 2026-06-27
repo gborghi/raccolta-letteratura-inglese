@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 25 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 25 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -32,15 +32,15 @@ that Mrs. Crummles had been more than a mother to her, and after that,
 that Mr. Crummles had been more than a father to her, and after that,
 that the Master Crummleses and Miss Ninetta Crummles had been more
 than brothers and sisters to her. These various remembrances being each
-accompanied with a series of hugs, occupied a long time, and they were
-obliged to drive to church very fast, for fear they should be too late.
+accompanied with a series of hugs, occupied a long [[Time|time]], and they were
+obliged to drive to church very fast, for [[Fear|fear]] they should be too late.
 
 The procession consisted of two flys; in the first of which were Miss
 Bravassa (the fourth bridesmaid), Mrs. Crummles, the collector, and Mr
 Folair, who had been chosen as his second on the occasion. In the other
 were the bride, Mr. Crummles, Miss Snevellicci, Miss Ledrook, and the
 phenomenon. The costumes were beautiful. The bridesmaids were quite
-covered with artificial flowers, and the phenomenon, in particular,
+covered with artificial [[Flowers|flowers]], and the phenomenon, in particular,
 was rendered almost invisible by the portable arbour in which she was
 enshrined. Miss Ledrook, who was of a romantic turn, wore in her breast
 the miniature of some field-officer unknown, which she had purchased, a
@@ -60,7 +60,7 @@ his assumed character he had determined to be greatly overcome, and,
 consequently, when they entered the church, the sobs of the affectionate
 parent were so heart-rending that the pew-opener suggested the propriety
 of his retiring to the vestry, and comforting himself with a glass of
-water before the ceremony began.
+[[Water|water]] before the ceremony began.
 
 The procession up the aisle was beautiful. The bride, with the four
 bridesmaids, forming a group previously arranged and rehearsed; the
@@ -79,7 +79,7 @@ preparations, which were on a more extensive scale than was quite
 agreeable to the collector. ‘Breakfast, breakfast.’
 
 No second invitation was required. The company crowded and squeezed
-themselves at the table as well as they could, and fell to, immediately:
+themselves at the table as [[Well|well]] as they could, and fell to, immediately:
 Miss Petowker blushing very much when anybody was looking, and eating
 very much when anybody was NOT looking; and Mr. Lillyvick going to work
 as though with the cool resolve, that since the good things must be paid
@@ -105,7 +105,7 @@ with indignant astonishment.
 
 ‘To hang himself!’ repeated Mr. Lillyvick.
 
-A profound silence came upon all, for Mr. Lillyvick was dignified beyond
+A profound [[Silence|silence]] came upon all, for Mr. Lillyvick was dignified beyond
 expression.
 
 ‘To hang himself!’ cried Mr. Lillyvick again. ‘Is any parallel attempted
@@ -119,7 +119,7 @@ me of a noose, and Henrietta Pe--’
 ‘Lillyvick,’ suggested Mr. Crummles.
 
 ‘--And Henrietta Lillyvick in the same breath?’ said the collector. ‘In
-this house, in the presence of Mr. and Mrs. Crummles, who have brought
+this [[house]], in the presence of Mr. and Mrs. Crummles, who have brought
 up a talented and virtuous family, to be blessings and phenomenons, and
 what not, are we to hear talk of nooses?’
 

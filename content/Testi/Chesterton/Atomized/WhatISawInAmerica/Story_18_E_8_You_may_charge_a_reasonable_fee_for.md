@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — E.8.  You may charge a reasonable fee for copies of or providing"
+title: "[[WhatISawInAmerica]] — E.8.  You may charge a reasonable fee for copies of or providing"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

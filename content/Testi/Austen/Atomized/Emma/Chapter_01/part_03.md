@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 1 (part 3)"
+title: "[[Emma]] — Chapter 1 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-“Dear Emma bears every thing so well,” said her father. “But, Mr.
+“Dear [[Emma]] bears every thing so [[Well|well]],” said her father. “But, Mr.
 Knightley, she is really very sorry to lose poor Miss Taylor, and I am
 sure she _will_ miss her more than she thinks for.”
 
-Emma turned away her head, divided between tears and smiles. “It is
-impossible that Emma should not miss such a companion,” said Mr.
-Knightley. “We should not like her so well as we do, sir, if we could
-suppose it; but she knows how much the marriage is to Miss Taylor’s
+[[Emma]] turned away her head, divided between [[Tears|tears]] and smiles. “It is
+impossible that [[Emma]] should not miss such a companion,” said Mr.
+Knightley. “We should not like her so [[Well|well]] as we do, sir, if we could
+suppose it; but she knows how much the [[Marriage|marriage]] is to Miss Taylor’s
 advantage; she knows how very acceptable it must be, at Miss Taylor’s
-time of life, to be settled in a home of her own, and how important to
+[[Time|time]] of life, to be settled in a [[Home|home]] of her own, and how important to
 her to be secure of a comfortable provision, and therefore cannot allow
-herself to feel so much pain as pleasure. Every friend of Miss Taylor
+herself to feel so much [[Pain|pain]] as pleasure. Every friend of Miss Taylor
 must be glad to have her so happily married.”
 
-“And you have forgotten one matter of joy to me,” said Emma, “and a
+“And you have forgotten one matter of joy to me,” said [[Emma]], “and a
 very considerable one—that I made the match myself. I made the match,
 you know, four years ago; and to have it take place, and be proved in
 the right, when so many people said Mr. Weston would never marry again,
@@ -41,12 +41,12 @@ matches.”
 
 “I promise you to make none for myself, papa; but I must, indeed, for
 other people. It is the greatest amusement in the world! And after such
-success, you know!—Every body said that Mr. Weston would never marry
+[[success]], you know!—Every [[Body|body]] said that Mr. Weston would never marry
 again. Oh dear, no! Mr. Weston, who had been a widower so long, and who
 seemed so perfectly comfortable without a wife, so constantly occupied
 either in his business in town or among his friends here, always
 acceptable wherever he went, always cheerful—Mr. Weston need not spend
-a single evening in the year alone if he did not like it. Oh no! Mr.
+a single evening in the year [[Alone|alone]] if he did not like it. Oh no! Mr.
 Weston certainly would never marry again. Some people even talked of a
 promise to his wife on her deathbed, and others of the son and the
 uncle not letting him. All manner of solemn nonsense was talked on the
@@ -56,26 +56,26 @@ subject, but I believed none of it.
 with him in Broadway Lane, when, because it began to drizzle, he darted
 away with so much gallantry, and borrowed two umbrellas for us from
 Farmer Mitchell’s, I made up my mind on the subject. I planned the
-match from that hour; and when such success has blessed me in this
+match from that hour; and when such [[success]] has blessed me in this
 instance, dear papa, you cannot think that I shall leave off
 match-making.”
 
-“I do not understand what you mean by ‘success,’” said Mr. Knightley.
-“Success supposes endeavour. Your time has been properly and delicately
+“I do not understand what you mean by ‘[[success]],’” said Mr. Knightley.
+“[[success|Success]] supposes endeavour. Your [[Time|time]] has been properly and delicately
 spent, if you have been endeavouring for the last four years to bring
-about this marriage. A worthy employment for a young lady’s mind! But
+about this [[Marriage|marriage]]. A worthy employment for a young lady’s mind! But
 if, which I rather imagine, your making the match, as you call it,
 means only your planning it, your saying to yourself one idle day, ‘I
 think it would be a very good thing for Miss Taylor if Mr. Weston were
 to marry her,’ and saying it again to yourself every now and then
-afterwards, why do you talk of success? Where is your merit? What are
+afterwards, why do you talk of [[success]]? Where is your merit? What are
 you proud of? You made a lucky guess; and _that_ is all that can be
 said.”
 
 “And have you never known the pleasure and triumph of a lucky guess?—I
 pity you.—I thought you cleverer—for, depend upon it a lucky guess is
 never merely luck. There is always some talent in it. And as to my poor
-word ‘success,’ which you quarrel with, I do not know that I am so
+word ‘[[success]],’ which you quarrel with, I do not know that I am so
 entirely without any claim to it. You have drawn two pretty pictures;
 but I think there may be a third—a something between the do-nothing and
 the do-all. If I had not promoted Mr. Weston’s visits here, and given
@@ -88,7 +88,7 @@ unaffected woman like Miss Taylor, may be safely left to manage their
 own concerns. You are more likely to have done harm to yourself, than
 good to them, by interference.”
 
-“Emma never thinks of herself, if she can do good to others,” rejoined
+“[[Emma]] never thinks of herself, if she can do good to others,” rejoined
 Mr. Woodhouse, understanding but in part. “But, my dear, pray do not
 make any more matches; they are silly things, and break up one’s family
 circle grievously.”
@@ -96,10 +96,10 @@ circle grievously.”
 “Only one more, papa; only for Mr. Elton. Poor Mr. Elton! You like Mr.
 Elton, papa,—I must look about for a wife for him. There is nobody in
 Highbury who deserves him—and he has been here a whole year, and has
-fitted up his house so comfortably, that it would be a shame to have
+fitted up his [[house]] so comfortably, that it would be a shame to have
 him single any longer—and I thought when he was joining their hands
 to-day, he looked so very much as if he would like to have the same
-kind office done for him! I think very well of Mr. Elton, and this is
+kind office done for him! I think very [[Well|well]] of Mr. Elton, and this is
 the only way I have of doing him a service.”
 
 “Mr. Elton is a very pretty young man, to be sure, and a very good
@@ -108,8 +108,8 @@ him any attention, my dear, ask him to come and dine with us some day.
 That will be a much better thing. I dare say Mr. Knightley will be so
 kind as to meet him.”
 
-“With a great deal of pleasure, sir, at any time,” said Mr. Knightley,
+“With a great deal of pleasure, sir, at any [[Time|time]],” said Mr. Knightley,
 laughing, “and I agree with you entirely, that it will be a much better
-thing. Invite him to dinner, Emma, and help him to the best of the fish
+thing. Invite him to dinner, [[Emma]], and help him to the best of the fish
 and the chicken, but leave him to chuse his own wife. Depend upon it, a
 man of six or seven-and-twenty can take care of himself.”

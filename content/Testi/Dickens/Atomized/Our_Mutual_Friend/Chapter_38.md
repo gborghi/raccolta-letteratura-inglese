@@ -19,39 +19,39 @@ Chapter 14
 STRONG OF PURPOSE
 
 
-The sexton-task of piling earth above John Harmon all night long, was
-not conducive to sound sleep; but Rokesmith had some broken morning
-rest, and rose strengthened in his purpose. It was all over now. No
-ghost should trouble Mr and Mrs Boffin’s peace; invisible and voiceless,
-the ghost should look on for a little while longer at the state of
+The sexton-task of piling earth above [[John Harmon]] all [[Night|night]] long, was
+not conducive to sound [[Sleep|sleep]]; but Rokesmith had some broken morning
+rest, and [[Rose|rose]] strengthened in his purpose. It was all over now. No
+[[Ghost|ghost]] should trouble Mr and Mrs Boffin’s peace; invisible and voiceless,
+the [[Ghost|ghost]] should look on for a little while longer at the state of
 existence out of which it had departed, and then should for ever cease
 to haunt the scenes in which it had no place.
 
 He went over it all again. He had lapsed into the condition in which
 he found himself, as many a man lapses into many a condition, without
 perceiving the accumulative power of its separate circumstances. When
-in the distrust engendered by his wretched childhood and the action for
+in the distrust engendered by his wretched [[Childhood|childhood]] and the action for
 evil—never yet for good within his knowledge then—of his father and
 his father’s wealth on all within their influence, he conceived the idea
-of his first deception, it was meant to be harmless, it was to last
+of his first [[Deception|deception]], it was meant to be harmless, it was to last
 but a few hours or days, it was to involve in it only the girl so
 capriciously forced upon him and upon whom he was so capriciously
-forced, and it was honestly meant well towards her. For, if he had
-found her unhappy in the prospect of that marriage (through her heart
+forced, and it was honestly meant [[Well|well]] towards her. For, if he had
+found her unhappy in the prospect of that [[Marriage|marriage]] (through her heart
 inclining to another man or for any other cause), he would seriously
 have said: ‘This is another of the old perverted uses of the
 misery-making money. I will let it go to my and my sister’s only
 protectors and friends.’ When the snare into which he fell so
 outstripped his first intention as that he found himself placarded by
-the police authorities upon the London walls for dead, he confusedly
+the police authorities upon the [[London]] walls for dead, he confusedly
 accepted the aid that fell upon him, without considering how firmly it
 must seem to fix the Boffins in their accession to the fortune. When he
 saw them, and knew them, and even from his vantage-ground of inspection
 could find no flaw in them, he asked himself, ‘And shall I come to life
 to dispossess such people as these?’ There was no good to set against
 the putting of them to that hard proof. He had heard from Bella’s own
-lips when he stood tapping at the door on that night of his taking
-the lodgings, that the marriage would have been on her part thoroughly
+lips when he stood tapping at the door on that [[Night|night]] of his taking
+the lodgings, that the [[Marriage|marriage]] would have been on her part thoroughly
 mercenary. He had since tried her, in his own unknown person and
 supposed station, and she not only rejected his advances but resented
 them. Was it for him to have the shame of buying her, or the meanness of
@@ -60,15 +60,15 @@ inheritance, he must do the former; and by coming to life and rejecting
 it, he must do the latter.
 
 Another consequence that he had never foreshadowed, was the implication
-of an innocent man in his supposed murder. He would obtain complete
+of an [[Innocent|innocent]] man in his supposed murder. He would obtain complete
 retraction from the accuser, and set the wrong right; but clearly the
-wrong could never have been done if he had never planned a deception.
-Then, whatever inconvenience or distress of mind the deception cost him,
+wrong could never have been done if he had never planned a [[Deception|deception]].
+Then, whatever inconvenience or distress of mind the [[Deception|deception]] cost him,
 it was manful repentantly to accept as among its consequences, and make
 no complaint.
 
-Thus John Rokesmith in the morning, and it buried John Harmon still many
-fathoms deeper than he had been buried in the night.
+Thus John Rokesmith in the morning, and it buried [[John Harmon]] still many
+fathoms deeper than he had been buried in the [[Night|night]].
 
 Going out earlier than he was accustomed to do, he encountered the
 cherub at the door. The cherub’s way was for a certain space his way,
@@ -80,7 +80,7 @@ The cherub felt very conscious of it, and modestly remarked:
 ‘A present from my daughter Bella, Mr Rokesmith.’
 
 The words gave the Secretary a stroke of pleasure, for he remembered the
-fifty pounds, and he still loved the girl. No doubt it was very weak—it
+fifty pounds, and he still loved the girl. No [[Doubt|doubt]] it was very weak—it
 always IS very weak, some authorities hold—but he loved the girl.
 
 ‘I don’t know whether you happen to have read many books of African
@@ -88,29 +88,29 @@ Travel, Mr Rokesmith?’ said R. W.
 
 ‘I have read several.’
 
-‘Well, you know, there’s usually a King George, or a King Boy, or a King
-Sambo, or a King Bill, or Bull, or Rum, or Junk, or whatever name the
+‘[[Well]], you know, there’s usually a [[King]] George, or a [[King]] Boy, or a [[King]]
+Sambo, or a [[King]] Bill, or Bull, or Rum, or Junk, or whatever name the
 sailors may have happened to give him.’
 
 ‘Where?’ asked Rokesmith.
 
-‘Anywhere. Anywhere in Africa, I mean. Pretty well everywhere, I may
+‘Anywhere. Anywhere in Africa, I mean. Pretty [[Well|well]] everywhere, I may
 say; for black kings are cheap—and I think’—said R. W., with an
 apologetic air, ‘nasty’.
 
 ‘I am much of your opinion, Mr Wilfer. You were going to say—?’
 
-‘I was going to say, the king is generally dressed in a London hat only,
+‘I was going to say, the [[King|king]] is generally dressed in a [[London]] hat only,
 or a Manchester pair of braces, or one epaulette, or an uniform coat
 with his legs in the sleeves, or something of that kind.’
 
 ‘Just so,’ said the Secretary.
 
 ‘In confidence, I assure you, Mr Rokesmith,’ observed the cheerful
-cherub, ‘that when more of my family were at home and to be provided
-for, I used to remind myself immensely of that king. You have no idea,
+cherub, ‘that when more of my family were at [[Home|home]] and to be provided
+for, I used to remind myself immensely of that [[King|king]]. You have no idea,
 as a single man, of the difficulty I have had in wearing more than one
-good article at a time.’
+good article at a [[Time|time]].’
 
 ‘I can easily believe it, Mr Wilfer.’
 
@@ -118,26 +118,26 @@ good article at a time.’
 of the amiable, delicate, and considerate affection of my daughter
 Bella. If she had been a little spoilt, I couldn’t have thought so very
 much of it, under the circumstances. But no, not a bit. And she is so
-very pretty! I hope you agree with me in finding her very pretty, Mr
+very pretty! I [[Hope|hope]] you agree with me in finding her very pretty, Mr
 Rokesmith?’
 
 ‘Certainly I do. Every one must.’
 
-‘I hope so,’ said the cherub. ‘Indeed, I have no doubt of it. This is a
+‘I [[Hope|hope]] so,’ said the cherub. ‘Indeed, I have no [[Doubt|doubt]] of it. This is a
 great advancement for her in life, Mr Rokesmith. A great opening of her
 prospects?’
 
 ‘Miss Wilfer could have no better friends than Mr and Mrs Boffin.’
 
 ‘Impossible!’ said the gratified cherub. ‘Really I begin to think things
-are very well as they are. If Mr John Harmon had lived—’
+are very [[Well|well]] as they are. If Mr [[John Harmon]] had lived—’
 
 ‘He is better dead,’ said the Secretary.
 
 ‘No, I won’t go so far as to say that,’ urged the cherub, a little
 remonstrant against the very decisive and unpitying tone; ‘but he
 mightn’t have suited Bella, or Bella mightn’t have suited him, or fifty
-things, whereas now I hope she can choose for herself.’
+things, whereas now I [[Hope|hope]] she can choose for herself.’
 
 ‘Has she—as you place the confidence in me of speaking on the subject,
 you will excuse my asking—has she—perhaps—chosen?’ faltered the
@@ -153,20 +153,20 @@ is a regular league and covenant of confidence. It was ratified only the
 other day. The ratification dates from—these,’ said the cherub,
 giving a little pull at the lappels of his coat and the pockets of his
 trousers. ‘Oh no, she has not chosen. To be sure, young George Sampson,
-in the days when Mr John Harmon—’
+in the days when Mr [[John Harmon]]—’
 
 ‘Who I wish had never been born!’ said the Secretary, with a gloomy
 brow.
 
 R. W. looked at him with surprise, as thinking he had contracted an
 unaccountable spite against the poor deceased, and continued: ‘In the
-days when Mr John Harmon was being sought out, young George Sampson
+days when Mr [[John Harmon]] was being sought out, young George Sampson
 certainly was hovering about Bella, and Bella let him hover. But it
 never was seriously thought of, and it’s still less than ever to be
 thought of now. For Bella is ambitious, Mr Rokesmith, and I think I may
-predict will marry fortune. This time, you see, she will have the person
+predict will marry fortune. This [[Time|time]], you see, she will have the person
 and the property before her together, and will be able to make her
-choice with her eyes open. This is my road. I am very sorry to part
+choice with her eyes open. This is my [[Road|road]]. I am very sorry to part
 company so soon. Good morning, sir!’
 
 The Secretary pursued his way, not very much elevated in spirits by this
@@ -186,7 +186,7 @@ the start of him early and walked up.’
 ‘You have wonderful energy,’ returned Rokesmith. ‘You are as young as I
 am.’
 
-Betty Higden gravely shook her head. ‘I am strong for my time of life,
+Betty Higden gravely shook her head. ‘I am strong for my [[Time|time]] of life,
 sir, but not young, thank the Lord!’
 
 ‘Are you thankful for not being young?’
@@ -201,7 +201,7 @@ and the end would be a weary way off, don’t you see? But never mind me;
 of mine but what that he can do right by your kind lady and gentleman
 and do his work for me, both together. Now he can’t. To give himself up
 to being put in the way of arning a good living and getting on, he must
-give me up. Well; he won’t.’
+give me up. [[Well]]; he won’t.’
 
 ‘I respect him for it,’ said Rokesmith.
 
@@ -220,26 +220,26 @@ the Secretary repeated, ‘Run away from him?’
 of her mouth, there was a vigour of purpose not to be doubted.
 
 ‘Come, come!’ said the Secretary. ‘We must talk about this. Let us take
-our time over it, and try to get at the true sense of the case and the
+our [[Time|time]] over it, and try to get at the true sense of the case and the
 true course, by degrees.’
 
 ‘Now, lookee here, by dear,’ returned old Betty—‘asking your excuse
-for being so familiar, but being of a time of life a’most to be your
+for being so familiar, but being of a [[Time|time]] of life a’most to be your
 grandmother twice over. Now, lookee, here. ’Tis a poor living and a
 hard as is to be got out of this work that I’m a doing now, and but for
 Sloppy I don’t know as I should have held to it this long. But it did
-just keep us on, the two together. Now that I’m alone—with even Johnny
+just keep us on, the two together. Now that I’m [[Alone|alone]]—with even Johnny
 gone—I’d far sooner be upon my feet and tiring of myself out, than a
-sitting folding and folding by the fire. And I’ll tell you why. There’s
+sitting folding and folding by the [[Fire|fire]]. And I’ll tell you why. There’s
 a deadness steals over me at times, that the kind of life favours and I
 don’t like. Now, I seem to have Johnny in my arms—now, his mother—now,
-his mother’s mother—now, I seem to be a child myself, a lying once
+his mother’s mother—now, I seem to be a [[Child|child]] myself, a lying once
 again in the arms of my own mother—then I get numbed, thought and
 sense, till I start out of my seat, afeerd that I’m a growing like the
 poor old people that they brick up in the Unions, as you may sometimes
 see when they let ’em out of the four walls to have a warm in the sun,
 crawling quite scared about the streets. I was a nimble girl, and have
-always been a active body, as I told your lady, first time ever I see
+always been a active [[Body|body]], as I told your lady, first [[Time|time]] ever I see
 her good face. I can still walk twenty mile if I am put to it. I’d far
 better be a walking than a getting numbed and dreary. I’m a good fair
 knitter, and can make many little things to sell. The loan from your
@@ -250,11 +250,11 @@ labour. And what more can I want?’
 
 ‘And this is your plan,’ said the Secretary, ‘for running away?’
 
-‘Show me a better! My deary, show me a better! Why, I know very well,’
-said old Betty Higden, ‘and you know very well, that your lady and
-gentleman would set me up like a queen for the rest of my life, if so be
+‘Show me a better! My deary, show me a better! Why, I know very [[Well|well]],’
+said old Betty Higden, ‘and you know very [[Well|well]], that your lady and
+gentleman would set me up like a [[Queen|queen]] for the rest of my life, if so be
 that we could make it right among us to have it so. But we can’t make it
-right among us to have it so. I’ve never took charity yet, nor yet has
+right among us to have it so. I’ve never took [[Charity|charity]] yet, nor yet has
 any one belonging to me. And it would be forsaking of myself indeed, and
 forsaking of my children dead and gone, and forsaking of their children
 dead and gone, to set up a contradiction now at last.’
@@ -262,9 +262,9 @@ dead and gone, to set up a contradiction now at last.’
 ‘It might come to be justifiable and unavoidable at last,’ the Secretary
 gently hinted, with a slight stress on the word.
 
-‘I hope it never will! It ain’t that I mean to give offence by being
+‘I [[Hope|hope]] it never will! It ain’t that I mean to give offence by being
 anyways proud,’ said the old creature simply, ‘but that I want to be of
-a piece like, and helpful of myself right through to my death.’
+a piece like, and helpful of myself right through to my [[Death|death]].’
 
 ‘And to be sure,’ added the Secretary, as a comfort for her, ‘Sloppy
 will be eagerly looking forward to his opportunity of being to you what
@@ -279,11 +279,11 @@ ask of their good friendliness to let me do, and why I ask it.’
 The Secretary felt that there was no gainsaying what was urged by
 this brave old heroine, and he presently repaired to Mrs Boffin and
 recommended her to let Betty Higden have her way, at all events for the
-time. ‘It would be far more satisfactory to your kind heart, I know,’
+[[Time|time]]. ‘It would be far more satisfactory to your kind heart, I know,’
 he said, ‘to provide for her, but it may be a duty to respect this
 independent spirit.’ Mrs Boffin was not proof against the consideration
 set before her. She and her husband had worked too, and had brought
-their simple faith and honour clean out of dustheaps. If they owed a
+their simple [[Faith|faith]] and [[Honour|honour]] clean out of dustheaps. If they owed a
 duty to Betty Higden, of a surety that duty must be done.
 
 ‘But, Betty,’ said Mrs Boffin, when she accompanied John Rokesmith back
@@ -296,9 +296,9 @@ to his room, and shone upon her with the light of her radiant face,
 ‘When would you go?’
 
 ‘Now,’ was the bright and ready answer. ‘To-day, my deary, to-morrow.
-Bless ye, I am used to it. I know many parts of the country well. When
-nothing else was to be done, I have worked in many a market-garden afore
-now, and in many a hop-garden too.’
+Bless ye, I am used to it. I know many parts of the country [[Well|well]]. When
+nothing else was to be done, I have worked in many a market-[[Garden|garden]] afore
+now, and in many a hop-[[Garden|garden]] too.’
 
 ‘If I give my consent to your going, Betty—which Mr Rokesmith thinks I
 ought to do—’
@@ -310,9 +310,9 @@ knowledge. We must know all about you.’
 
 ‘Yes, my deary, but not through letter-writing, because
 letter-writing—indeed, writing of most sorts hadn’t much come up for
-such as me when I was young. But I shall be to and fro. No fear of
+such as me when I was young. But I shall be to and fro. No [[Fear|fear]] of
 my missing a chance of giving myself a sight of your reviving face.
-Besides,’ said Betty, with logical good faith, ‘I shall have a debt to
+Besides,’ said Betty, with logical good [[Faith|faith]], ‘I shall have a debt to
 pay off, by littles, and naturally that would bring me back, if nothing
 else would.’
 
@@ -336,10 +336,10 @@ the mangle, or to knock a broken piece of furniture together, in a
 surprising manner. As to constructing toys for the Minders, out of
 nothing, he had done that daily. And once as many as a dozen people had
 got together in the lane to see the neatness with which he fitted the
-broken pieces of a foreign monkey’s musical instrument. ‘That’s well,’
+broken pieces of a foreign monkey’s musical instrument. ‘That’s [[Well|well]],’
 said the Secretary. ‘It will not be hard to find a trade for him.’
 
-John Harmon being buried under mountains now, the Secretary that very
+[[John Harmon]] being buried under [[Mountains|mountains]] now, the Secretary that very
 same day set himself to finish his affairs and have done with him. He
 drew up an ample declaration, to be signed by Rogue Riderhood (knowing
 he could get his signature to it, by making him another and much shorter
@@ -375,7 +375,7 @@ Sloppy, stood in need of some instruction. If he, the Secretary, engaged
 that schoolmaster to impart it to him, the channel might be opened. The
 next point was, did Mrs Boffin know the schoolmaster’s name? No, but she
 knew where the school was. Quite enough. Promptly the Secretary wrote
-to the master of that school, and that very evening Bradley Headstone
+to the master of that school, and that very evening [[Bradley Headstone]]
 answered in person.
 
 The Secretary stated to the schoolmaster how the object was, to send to
@@ -385,7 +385,7 @@ schoolmaster was willing to undertake the charge of such a pupil. The
 Secretary inquired on what terms? The schoolmaster stated on what terms.
 Agreed and disposed of.
 
-‘May I ask, sir,’ said Bradley Headstone, ‘to whose good opinion I owe a
+‘May I ask, sir,’ said [[Bradley Headstone]], ‘to whose good opinion I owe a
 recommendation to you?’
 
 ‘You should know that I am not the principal here. I am Mr Boffin’s
@@ -394,9 +394,9 @@ you may have heard some public mention; the Harmon property.’
 
 ‘Mr Harmon,’ said Bradley: who would have been a great deal more at a
 loss than he was, if he had known to whom he spoke: ‘was murdered and
-found in the river.’
+found in the [[River|river]].’
 
-‘Was murdered and found in the river.’
+‘Was murdered and found in the [[River|river]].’
 
 ‘It was not—’
 
@@ -405,13 +405,13 @@ you. Mr Boffin heard of you through a certain Mr Lightwood. I think you
 know Mr Lightwood, or know of him?’
 
 ‘I know as much of him as I wish to know, sir. I have no acquaintance
-with Mr Lightwood, and I desire none. I have no objection to Mr
+with Mr Lightwood, and I [[Desire|desire]] none. I have no objection to Mr
 Lightwood, but I have a particular objection to some of Mr Lightwood’s
 friends—in short, to one of Mr Lightwood’s friends. His great friend.’
 
 He could hardly get the words out, even then and there, so fierce did
 he grow (though keeping himself down with infinite pains of repression),
-when the careless and contemptuous bearing of Eugene Wrayburn rose
+when the careless and contemptuous bearing of [[Eugene Wrayburn]] [[Rose|rose]]
 before his mind.
 
 The Secretary saw there was a strong feeling here on some sore point,
@@ -419,12 +419,12 @@ and he would have made a diversion from it, but for Bradley’s holding to
 it in his cumbersome way.
 
 ‘I have no objection to mention the friend by name,’ he said, doggedly.
-‘The person I object to, is Mr Eugene Wrayburn.’
+‘The person I object to, is Mr [[Eugene Wrayburn]].’
 
 The Secretary remembered him. In his disturbed recollection of that
-night when he was striving against the drugged drink, there was but a
+[[Night|night]] when he was striving against the drugged drink, there was but a
 dim image of Eugene’s person; but he remembered his name, and his manner
-of speaking, and how he had gone with them to view the body, and where
+of speaking, and how he had gone with them to view the [[Body|body]], and where
 he had stood, and what he had said.
 
 ‘Pray, Mr Headstone, what is the name,’ he asked, again trying to make a
@@ -437,7 +437,7 @@ of his whole face.
 
 ‘She is sufficiently remarkable to be very superior to Mr Eugene
 Wrayburn—though an ordinary person might be that,’ said the
-schoolmaster; ‘and I hope you will not think it impertinent in me, sir,
+schoolmaster; ‘and I [[Hope|hope]] you will not think it impertinent in me, sir,
 to ask why you put the two names together?’
 
 ‘By mere accident,’ returned the Secretary. ‘Observing that Mr Wrayburn
@@ -455,7 +455,7 @@ representation of his?’
 
 ‘I took the liberty to ask,’ said Bradley, after casting his eyes on
 the ground, ‘because he is capable of making any representation, in the
-swaggering levity of his insolence. I—I hope you will not misunderstand
+swaggering levity of his insolence. I—I [[Hope|hope]] you will not misunderstand
 me, sir. I—I am much interested in this brother and sister, and the
 subject awakens very strong feelings within me. Very, very, strong
 feelings.’ With a shaking hand, Bradley took out his handkerchief and
@@ -474,7 +474,7 @@ I ask respecting the brother and sister, or either of them, I ask for
 myself out of my own interest in the subject, and not in my official
 character, or on Mr Boffin’s behalf. How I come to be interested, I need
 not explain. You know the father’s connection with the discovery of Mr
-Harmon’s body.’
+Harmon’s [[Body|body]].’
 
 ‘Sir,’ replied Bradley, very restlessly indeed, ‘I know all the
 circumstances of that case.’
@@ -501,14 +501,14 @@ expressive.’
 
 ‘And there is such a man?’ said the Secretary.
 
-Bradley Headstone knotted his brows, and squared his large lower jaw,
+[[Bradley Headstone]] knotted his brows, and squared his large lower jaw,
 and fixed his eyes on the ground with an air of determination that
 seemed unnecessary to the occasion, as he replied: ‘And there is such a
 man.’
 
 The Secretary had no reason or excuse for prolonging the conversation,
 and it ended here. Within three hours the oakum-headed apparition once
-more dived into the Leaving Shop, and that night Rogue Riderhood’s
+more dived into the Leaving Shop, and that [[Night|night]] Rogue Riderhood’s
 recantation lay in the post office, addressed under cover to Lizzie
 Hexam at her right address.
 
@@ -543,7 +543,7 @@ Bella, looking up.
 Boffin. ‘Patrons and Patronesses, and Vice-Patrons and Vice-Patronesses,
 and Deceased Patrons and Deceased Patronesses, and Ex-Vice-Patrons and
 Ex-Vice-Patronesses, what does it all mean in the books of the Charities
-that come pouring in on Rokesmith as he sits among ’em pretty well up to
+that come pouring in on Rokesmith as he sits among ’em pretty [[Well|well]] up to
 his neck! If Mr Tom Noakes gives his five shillings ain’t he a Patron,
 and if Mrs Jack Styles gives her five shillings ain’t she a Patroness?
 What the deuce is it all about? If it ain’t stark staring impudence,
@@ -562,7 +562,7 @@ Institution’s going to be built, it seems to me that the bricks and
 mortar ain’t made of half so much consequence as the Patrons and
 Patronesses; no, nor yet the objects. I wish somebody would tell me
 whether other countries get Patronized to anything like the extent of
-this one! And as to the Patrons and Patronesses themselves, I wonder
+this one! And as to the Patrons and Patronesses themselves, I [[Wonder|wonder]]
 they’re not ashamed of themselves. They ain’t Pills, or Hair-Washes, or
 Invigorating Nervous Essences, to be puffed in that way!’
 
@@ -600,12 +600,12 @@ yonder at the Bower, for instance. Wouldn’t you like to see the
 Bower, and know a retired literary man of the name of Wegg that lives
 there—WITH a wooden leg?’
 
-Old Betty was proof even against this temptation, and fell to adjusting
+Old Betty was proof even against this [[Temptation|temptation]], and fell to adjusting
 her black bonnet and shawl.
 
 ‘I wouldn’t let you go, now it comes to this, after all,’ said Mr
-Boffin, ‘if I didn’t hope that it may make a man and a workman of
-Sloppy, in as short a time as ever a man and workman was made yet. Why,
+Boffin, ‘if I didn’t [[Hope|hope]] that it may make a man and a workman of
+Sloppy, in as short a [[Time|time]] as ever a man and workman was made yet. Why,
 what have you got there, Betty? Not a doll?’
 
 It was the man in the Guards who had been on duty over Johnny’s bed.
@@ -616,6 +616,6 @@ and blooming neck, and said, repeating Johnny’s words: ‘A kiss for the
 boofer lady.’
 
 The Secretary looked on from a doorway at the boofer lady thus
-encircled, and still looked on at the boofer lady standing alone there,
+encircled, and still looked on at the boofer lady standing [[Alone|alone]] there,
 when the determined old figure with its steady bright eyes was trudging
 through the streets, away from paralysis and pauperism.

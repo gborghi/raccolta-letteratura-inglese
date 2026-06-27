@@ -16,21 +16,21 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Don John and Borachio |
-| DON JOHN | It is so. The Count Claudio shall marry the daughter of Leonato. |
-| BORACHIO | Yea, my lord, but I can cross it. |
-| DON JOHN | Any bar, any cross, any impediment will be medicinable to me. I am sick in displeasure to him, and whatsoever comes athwart his affection ranges evenly with mine. How canst thou cross this marriage? |
+| *(didascalia)* | Enter [[Don John]] and Borachio |
+| [[Don John|DON JOHN]] | It is so. The Count [[Claudio]] shall marry the daughter of [[Leonato]]. |
+| BORACHIO | Yea, my lord, but I can [[Cross|cross]] it. |
+| [[Don John|DON JOHN]] | Any bar, any [[Cross|cross]], any impediment will be medicinable to me. I am sick in displeasure to him, and whatsoever comes athwart his affection ranges evenly with mine. How canst thou [[Cross|cross]] this [[Marriage|marriage]]? |
 | BORACHIO | Not honestly, my lord, but so covertly that no dishonesty shall appear in me. |
-| DON JOHN | Show me briefly how. |
-| BORACHIO | I think I told your lordship a year since how much I am in the favour of Margaret, the waiting gentlewoman to Hero. |
-| DON JOHN | I remember. |
-| BORACHIO | I can at any unseasonable instant of the night appoint her to look out at her lady’s chamber window. |
-| DON JOHN | What life is in that to be the death of this marriage? |
-| BORACHIO | The poison of that lies in you to temper. Go you to the Prince your brother. Spare not to tell him that he hath wronged his honour in marrying the renowned Claudio—whose estimation do you mightily hold up—to a contaminated stale, such a one as Hero. |
-| DON JOHN | What proof shall I make of that? |
-| BORACHIO | Proof enough to misuse the Prince, to vex Claudio, to undo Hero, and kill Leonato. Look you for any other issue? |
-| DON JOHN | Only to despite them I will endeavour anything. |
-| BORACHIO | Go then. Find me a meet hour to draw Don Pedro and the Count Claudio alone. Tell them that you know that Hero loves me. Intend a kind of zeal both to the Prince and Claudio as in love of your brother’s honour who hath made this match, and his friend’s reputation who is thus like to be cozened with the semblance of a maid, that you have discovered thus. They will scarcely believe this without trial. Offer them instances, which shall bear no less likelihood than to see me at her chamber window, hear me call Margaret Hero, hear Margaret term me Claudio. And bring them to see this the very night before the intended wedding, for in the mean time I will so fashion the matter that Hero shall be absent, and there shall appear such seeming truth of Hero’s disloyalty that jealousy shall be called assurance, and all the preparation overthrown. |
-| DON JOHN | Grow this to what adverse issue it can, I will put it in practice. Be cunning in the working this, and thy fee is a thousand ducats. |
+| [[Don John|DON JOHN]] | Show me briefly how. |
+| BORACHIO | I think I told your lordship a year since how much I am in the favour of Margaret, the waiting gentlewoman to [[Hero]]. |
+| [[Don John|DON JOHN]] | I remember. |
+| BORACHIO | I can at any unseasonable instant of the [[Night|night]] appoint her to look out at her lady’s chamber [[Window|window]]. |
+| [[Don John|DON JOHN]] | What life is in that to be the [[Death|death]] of this [[Marriage|marriage]]? |
+| BORACHIO | The [[Poison|poison]] of that lies in you to temper. Go you to the Prince your brother. Spare not to tell him that he hath wronged his [[Honour|honour]] in marrying the renowned [[Claudio]]—whose estimation do you mightily hold up—to a contaminated stale, such a one as [[Hero]]. |
+| [[Don John|DON JOHN]] | What proof shall I make of that? |
+| BORACHIO | Proof enough to misuse the Prince, to vex [[Claudio]], to undo [[Hero]], and kill [[Leonato]]. Look you for any other issue? |
+| [[Don John|DON JOHN]] | Only to despite them I will endeavour anything. |
+| BORACHIO | Go then. Find me a meet hour to draw [[Don Pedro]] and the Count [[Claudio]] [[Alone|alone]]. Tell them that you know that [[Hero]] loves me. Intend a kind of zeal both to the Prince and [[Claudio]] as in [[Love|love]] of your brother’s [[Honour|honour]] who hath made this match, and his friend’s reputation who is thus like to be cozened with the semblance of a maid, that you have discovered thus. They will scarcely believe this without trial. Offer them instances, which shall bear no less likelihood than to see me at her chamber [[Window|window]], hear me call Margaret [[Hero]], hear Margaret term me [[Claudio]]. And bring them to see this the very [[Night|night]] before the intended wedding, for in the mean [[Time|time]] I will so fashion the matter that [[Hero]] shall be absent, and there shall appear such seeming [[Truth|truth]] of [[Hero]]’s disloyalty that [[Jealousy|jealousy]] shall be called assurance, and all the preparation overthrown. |
+| [[Don John|DON JOHN]] | Grow this to what adverse issue it can, I will put it in practice. Be cunning in the working this, and thy fee is a thousand ducats. |
 | BORACHIO | Be you constant in the accusation, and my cunning shall not shame me. |
-| DON JOHN | I will presently go learn their day of marriage. Exeunt |
+| [[Don John|DON JOHN]] | I will presently go learn their day of [[Marriage|marriage]]. Exeunt |

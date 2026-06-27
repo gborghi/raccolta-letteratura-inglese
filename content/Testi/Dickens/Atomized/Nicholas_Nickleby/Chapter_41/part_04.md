@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 41 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 41 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -32,7 +32,7 @@ organ before the East India Company) can parallel. I am not a youth,
 ma’am, as you see; and although beings like you can never grow old, I
 venture to presume that we are fitted for each other.’
 
-‘Really, Kate, my love!’ said Mrs. Nickleby faintly, and looking another
+‘Really, Kate, my [[Love|love]]!’ said Mrs. Nickleby faintly, and looking another
 way.
 
 ‘I have estates, ma’am,’ said the old gentleman, flourishing his right
@@ -41,21 +41,21 @@ very fast; ‘jewels, lighthouses, fish-ponds, a whalery of my own in the
 North Sea, and several oyster-beds of great profit in the Pacific Ocean.
 If you will have the kindness to step down to the Royal Exchange and
 to take the cocked-hat off the stoutest beadle’s head, you will find my
-card in the lining of the crown, wrapped up in a piece of blue paper. My
+card in the lining of the [[Crown|crown]], wrapped up in a piece of blue paper. My
 walking-stick is also to be seen on application to the chaplain of
-the House of Commons, who is strictly forbidden to take any money for
-showing it. I have enemies about me, ma’am,’ he looked towards his house
+the [[house|House]] of Commons, who is strictly forbidden to take any money for
+showing it. I have enemies about me, ma’am,’ he looked towards his [[house]]
 and spoke very low, ‘who attack me on all occasions, and wish to secure
 my property. If you bless me with your hand and heart, you can apply to
 the Lord Chancellor or call out the military if necessary--sending my
 toothpick to the commander-in-chief will be sufficient--and so clear the
-house of them before the ceremony is performed. After that, love, bliss
-and rapture; rapture, love and bliss. Be mine, be mine!’
+[[house]] of them before the ceremony is performed. After that, [[Love|love]], bliss
+and rapture; rapture, [[Love|love]] and bliss. Be mine, be mine!’
 
 Repeating these last words with great rapture and enthusiasm, the old
 gentleman put on his black velvet cap again, and looking up into the
 sky in a hasty manner, said something that was not quite intelligible
-concerning a balloon he expected, and which was rather after its time.
+concerning a balloon he expected, and which was rather after its [[Time|time]].
 
 ‘Be mine, be mine!’ repeated the old gentleman.
 
@@ -74,7 +74,7 @@ Mrs. Nickleby.
 ‘It can scarcely be expected, sir,’ said Mrs. Nickleby, fixing her eyes
 modestly on the ground, ‘that I should tell a stranger whether I feel
 flattered and obliged by such proposals, or not. They certainly are made
-under very singular circumstances; still at the same time, as far as
+under very singular circumstances; still at the same [[Time|time]], as far as
 it goes, and to a certain extent of course’ (Mrs. Nickleby’s customary
 qualification), ‘they must be gratifying and agreeable to one’s
 feelings.’
@@ -94,7 +94,7 @@ it’s quite impossible, quite. As to my being young enough to marry
 again, that perhaps may be so, or it may not be; but I couldn’t think
 of it for an instant, not on any account whatever. I said I never would,
 and I never will. It’s a very painful thing to have to reject proposals,
-and I would much rather that none were made; at the same time this is
+and I would much rather that none were made; at the same [[Time|time]] this is
 the answer that I determined long ago to make, and this is the answer I
 shall always give.’
 

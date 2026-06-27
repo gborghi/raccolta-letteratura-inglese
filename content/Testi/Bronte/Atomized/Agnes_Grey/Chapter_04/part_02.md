@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 4 (part 2)"
+title: "[[Agnes Grey]] — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -29,15 +29,15 @@ absurdly than ever their mother had done.
 
 I confess I was somewhat troubled at this change: I feared the
 consequences of her displeasure, and even made some efforts to recover
-the ground I had lost—and with better apparent success than I could
-have anticipated. At one time, I, merely in common civility, asked
+the ground I had lost—and with better apparent [[success]] than I could
+have anticipated. At one [[Time|time]], I, merely in common civility, asked
 after her cough; immediately her long visage relaxed into a smile, and
-she favoured me with a particular history of that and her other
-infirmities, followed by an account of her pious resignation, delivered
+she favoured me with a particular [[history]] of that and her other
+infirmities, followed by an account of her pious [[Resignation|resignation]], delivered
 in the usual emphatic, declamatory style, which no writing can portray.
 
-“But there’s one remedy for all, my dear, and that’s resignation” (a
-toss of the head), “resignation to the will of heaven!” (an uplifting
+“But there’s one remedy for all, my dear, and that’s [[Resignation|resignation]]” (a
+toss of the head), “[[Resignation|resignation]] to the will of heaven!” (an uplifting
 of the hands and eyes). “It has always supported me through all my
 trials, and always will do” (a succession of nods). “But then, it isn’t
 everybody that can say that” (a shake of the head); “but I’m one of the
@@ -48,16 +48,16 @@ of Scripture, misquoted or misapplied, and religious exclamations so
 redolent of the ludicrous in the style of delivery and manner of
 bringing in, if not in the expressions themselves, that I decline
 repeating them, she withdrew; tossing her large head in high
-good-humour—with herself at least—and left me hoping that, after all,
+good-[[Humour|humour]]—with herself at least—and left me hoping that, after all,
 she was rather weak than wicked.
 
-At her next visit to Wellwood House, I went so far as to say I was glad
-to see her looking so well. The effect of this was magical: the words,
+At her next visit to Wellwood [[house|House]], I went so far as to say I was glad
+to see her looking so [[Well|well]]. The effect of this was magical: the words,
 intended as a mark of civility, were received as a flattering
 compliment; her countenance brightened up, and from that moment she
 became as gracious and benign as heart could wish—in outward semblance
 at least. From what I now saw of her, and what I heard from the
-children, I know that, in order to gain her cordial friendship, I had
+children, I know that, in order to gain her cordial [[Friendship|friendship]], I had
 but to utter a word of flattery at each convenient opportunity: but
 this was against my principles; and for lack of this, the capricious
 old dame soon deprived me of her favour again, and I believe did me
@@ -69,7 +69,7 @@ dislike—chiefly shown by her in secret detractions and calumniations;
 by the other, in an excess of frigid formality in her demeanour; and no
 fawning flattery of the elder could thaw away the wall of ice which the
 younger interposed between them. But with her son, the old lady had
-better success: he would listen to all she had to say, provided she
+better [[success]]: he would listen to all she had to say, provided she
 could soothe his fretful temper, and refrain from irritating him by her
 own asperities; and I have reason to believe that she considerably
 strengthened his prejudice against me. She would tell him that I
@@ -80,7 +80,7 @@ would all go to ruin.
 Thus urged, he would frequently give himself the trouble of watching
 them from the windows during their play; at times, he would follow them
 through the grounds, and too often came suddenly upon them while they
-were dabbling in the forbidden well, talking to the coachman in the
+were dabbling in the forbidden [[Well|well]], talking to the coachman in the
 stables, or revelling in the filth of the farm-yard—and I, meanwhile,
 wearily standing by, having previously exhausted my energy in vain
 attempts to get them away. Often, too, he would unexpectedly pop his
@@ -93,24 +93,24 @@ case) I happened to be exalting my voice to enforce order, I was using
 undue violence, and setting the girls a bad example by such
 ungentleness of tone and language.
 
-I remember one afternoon in spring, when, owing to the rain, they could
+I remember one afternoon in [[Spring|spring]], when, owing to the rain, they could
 not go out; but, by some amazing good fortune, they had all finished
 their lessons, and yet abstained from running down to tease their
 parents—a trick that annoyed me greatly, but which, on rainy days, I
 seldom could prevent their doing; because, below, they found novelty
-and amusement—especially when visitors were in the house; and their
+and amusement—especially when visitors were in the [[house]]; and their
 mother, though she bid me keep them in the schoolroom, would never
 chide them for leaving it, or trouble herself to send them back. But
 this day they appeared satisfied with their present abode, and what is
 more wonderful still, seemed disposed to play together without
 depending on me for amusement, and without quarrelling with each other.
 Their occupation was a somewhat puzzling one: they were all squatted
-together on the floor by the window, over a heap of broken toys and a
-quantity of birds’ eggs—or rather egg-shells, for the contents had
+together on the floor by the [[Window|window]], over a heap of broken toys and a
+quantity of [[Birds|birds]]’ eggs—or rather egg-shells, for the contents had
 luckily been abstracted. These shells they had broken up and were
 pounding into small fragments, to what end I could not imagine; but so
 long as they were quiet and not in positive mischief, I did not care;
-and, with a feeling of unusual repose, I sat by the fire, putting the
+and, with a feeling of unusual repose, I sat by the [[Fire|fire]], putting the
 finishing stitches to a frock for Mary Ann’s doll; intending, when that
 was done, to begin a letter to my mother. Suddenly the door opened, and
 the dingy head of Mr. Bloomfield looked in.

@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 9"
+title: "[[Don Quixote]] — Chapter 9"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -21,7 +21,7 @@ THE MYSTERY OF A HANSOM CAB
 A day later he stood in a seaside town where a steep street shot down
 to the sea; ridge below ridge of grey slate roofs looking like rings
 of a whirlpool as if that dreary town were being sucked into the sea.
-It was the dream of a suicide so a broken man might feel the wave
+It was the dream of a [[suicide]] so a broken man might feel the wave
 of the world wash him away.
 
 Looking down the descending curve of the dreary street Murrel
@@ -31,12 +31,12 @@ it was a milk can left outside the low door in an area.
 But it looked as if it had been left there for a hundred years.
 The second was a stray cat; the cat did not look sad so much as
 simply indifferent; it might have been a wild dog or any such wanderer
-prowling about a city of the dead.  The third was more curious;
+prowling about a [[City|city]] of the dead.  The third was more curious;
 it was a hansom cab standing outside one of the houses;
 but a hansom cab that partook of the same almost sinister antiquity.
 All this happened before the hansom cab had become an extinct
 creature to be reserved only in museums; but this hansom cab
-might well have been in a museum side by side with a Sedan chair.
+might [[Well|well]] have been in a museum side by side with a Sedan chair.
 In fact it was rather like a Sedan chair.  Being of a pattern still
 to be found here and there in provincial towns; made of brown
 polished wood and inlaid with other ornamental woods or woods once
@@ -45,12 +45,12 @@ and having two folding doors that gave the occupant the sensation
 of being locked up in an ancient eighteenth century cabinet.
 Still, with all its oddity, it was unmistakably a hansom cab;
 that unique vehicle which the alien eyes of a clever Jew saw as
-the gondola of London.  Most of us know by this time that when we
+the gondola of [[London]].  Most of us know by this [[Time|time]] that when we
 are told that the pattern of something has been much improved,
 it means that all its distinctive characters have disappeared.
 Everybody has motor cabs; but nobody ever thought of having such
 a thing as a motor hansom cab.  With the old pattern vanished
-the particular romance of the gondola (to which Disraeli was
+the particular [[Romance|romance]] of the gondola (to which Disraeli was
 perhaps referring), the fact that there is only room for two.
 Worse still there vanished something supremely special and striking
 and peculiar to England; the dizzy and almost divine elevation
@@ -74,9 +74,9 @@ that seemed to match the provincial remoteness of the whole scene.
 Even as Murrel approached, the man, as if weary with waiting
 for his fare, laboriously descended from his lofty place
 and stood for a moment staring down the street at the scene.
-Murrel had by this time pretty well perfected his detective
-art of pumping the great democracy and he soon fell into a
-conversation with the cabman.  It was the sort of conversation
+Murrel had by this [[Time|time]] pretty [[Well|well]] perfected his [[Detective|detective]]
+art of pumping the great [[democracy]] and he soon fell into a
+conversation with the [[cabman]].  It was the sort of conversation
 which he considered most suited to his purposes; that is it
 was a conversation of which the first three quarters had
 nothing whatever to do with anything that he wanted to know.
@@ -86,16 +86,16 @@ to his end as almost to deserve to be called a short cut.
 At last, however, he began to discover things that were
 not without interest.  He had found out that the cab was
 quite a historical antiquity in another way, and eminently
-worthy of a museum; for the cab belonged to the cabman.
+worthy of a museum; for the cab belonged to the [[cabman]].
 His thoughts went back vaguely to that first conversation,
 with Braintree and Olive Ashley, about the paint-box belonging
 to the painter and, by inference, the mine to the miner.
 He wondered whether the vague pleasure he felt in the present
-preposterous vehicle was not a tribute to some truth.
-But he also discovered other things.  He found that the cabman
+preposterous vehicle was not a tribute to some [[Truth|truth]].
+But he also discovered other things.  He found that the [[cabman]]
 was very much bored with his fare; but was also in a hazy
 way afraid of him.  He was bored with that unknown gentleman
-because he kept him waiting outside one house after another
+because he kept him waiting outside one [[house]] after another
 in a tedious and interminable pilgrimage round the whole town.
 But he was also slightly in awe of him because he seemed
 to have some sort of official right to visit all these places
@@ -104,21 +104,21 @@ Though his progression was so slow it seemed that his
 manner was very hasty; or what is now called hustling.
 One felt that he had commandeered rather than called the cab.
 He was somebody who was in a frightful hurry and yet had
-a great deal of time to spare for each of his visits.
+a great deal of [[Time|time]] to spare for each of his visits.
 It was therefore evident that he was either an American
-or a person connected with the Government.
+or a person connected with the [[government|Government]].
 
 Bit by bit, it came out that he was a doctor, a medical man having
 some sort of official claim to visit a variety of persons.
-The cabman, of course, did not know his name; but his name was
+The [[cabman]], of course, did not know his name; but his name was
 the least important part of him.  What was much more important
-was another name; a name that the cabman did happen to know.
+was another name; a name that the [[cabman]] did happen to know.
 It seemed that the next stoppage of the crawling cab would be a little
 further down the street, outside the lodgings where lived a man
-whom the cabman had sometimes met in the neighbouring public house;
+whom the [[cabman]] had sometimes met in the neighbouring public [[house]];
 a curious card by the name of Hendry.
 
-Murrel having, by this circuitous route, at last reached his desire,
+Murrel having, by this circuitous route, at last reached his [[Desire|desire]],
 almost leapt like an unleashed hound.  He inquired the number
 in the street which was honoured by Mr. Hendry's residence;
 and almost immediately after went striding down the steep
@@ -131,7 +131,7 @@ He faced round and fortunately spoke at once.  The door
 had opened by little more than a crack; and the first fact
 it revealed was that the chain was still up across it.
 Within, much more dimly, he began to discern inside that high
-and dark house the glimmering features and figure of a human being.
+and dark [[house]] the glimmering features and figure of a human being.
 The figure was slim and the features were both pointed and pallid.
 But something almost atmospheric told him that the figure
 was feminine and even young; and when he heard the voice,
@@ -155,13 +155,13 @@ had occasion in such cases to plant a foot in the doorway.
 She was not unacquainted with the art of slamming the door
 on it so as to pinch it or procure its prompt removal.
 But Murrel remembered things he had heard said in the public
-house and in the shop at the beginning of his journey;
+[[house]] and in the shop at the beginning of his [[Journey|journey]];
 and he used the phrase that had never been heard in that
 street and had almost been forgotten by that woman.
 An instinct made him take off his hat and say:
 "Is Dr. Hendry in?"
 
-Man does not live by bread alone, but mostly by etiquette and above
+Man does not live by bread [[Alone|alone]], but mostly by etiquette and above
 all by consideration.  It is by consideration that even the hungry
 live and by the lack of it that they die.  It was a very determining
 detail that Hendry had once been proud of his doctor's degree;
@@ -180,13 +180,13 @@ Soon after he found himself mounting a very steep and narrow flight
 of stairs in almost total darkness; and soon after that abruptly
 allowed to fall into a frowsy little room, littered with such
 articles as were just too worthless to sell or even to pawn;
-where sat the man for whom he had gone on his erratic journey
+where sat the man for whom he had gone on his erratic [[Journey|journey]]
 to search, as Stanley went to search for Livingstone.
 
 Dr. Hendry had a head of hair rather like the grey top of a
 withering thistle; one almost expected it to wither visibly
 before one's eyes and the parts of the puff-ball to part and drift
-away drearily on the wind.  But otherwise he was rather neater
+away drearily on the [[Wind|wind]].  But otherwise he was rather neater
 than might have been expected; though the effect may have been
 produced by his being very tightly and tidily buttoned up to
 the throat; as is said to be sometimes the habit of the hungry.
@@ -207,15 +207,15 @@ For that dark room, in which he was sealed up and forgotten like a
 dead man in a tomb, had heard once more a human voice asking for
 Hendry's Illumination Colours.
 
-He rose on his thin and wavering legs and went without a word
+He [[Rose|rose]] on his thin and wavering legs and went without a word
 to a shelf on which stood a number of highly incompatible objects,
 and took down an old tin box which he brought to the table
 and began rather tremulously to open.  It contained two
-or three round and squat glass bottles covered with dust;
+or three round and squat glass bottles covered with [[Dust|dust]];
 and when he saw them it seemed as if his tongue was loosened.
 
 "They should be used with the vehicle in the box," he said.
-"Many people try to use them with oil or water, or all sorts of things";
+"Many people try to use them with oil or [[Water|water]], or all sorts of things";
 though indeed it was at least thirty years since anybody had ever
 tried to use them with anything.
 
@@ -227,14 +227,14 @@ with quite a consequential air.  "I shall always be ready to give
 any advice . . . any advice that can be of any use, I'm sure."
 He cleared his throat with quite a formidable return of fullness
 in his voice.  "The thing to remember, first of all, of course,
-is that this type of colouring is in its nature opaque.
+is that this type of colouring is in its [[Nature|nature]] opaque.
 So many people confuse the fact that it is brilliant with some
 notion of its being transparent.  I myself have always seen
 that the confusion arose through the parallel of stained glass.
 Both, of course, were typically medieval crafts, and Morris
 was very keen on both of them.  But I remember how wild
 he used to be if anybody forgot that glass is transparent.
-'If anybody paints a single thing in a window that looks really solid,'
+'If anybody paints a single thing in a [[Window|window]] that looks really solid,'
 he used to say, 'he ought to be made to sit on it.'"
 
 Murrel resumed his enquiry.
@@ -244,7 +244,7 @@ helped you a great deal in making these colours?"
 
 The old gentleman shook his head thoughtfully.
 
-"Chemistry alone would hardly have taught me all I know," he said.
+"Chemistry [[Alone|alone]] would hardly have taught me all I know," he said.
 "It is a question of optics.  It is a question of physiology."
 He suddenly thrust his beard across the table and said rapidly in a
 hissing voice, "It is even more a question of pathological psychology."
@@ -297,7 +297,7 @@ Colour-blindness. You mean that all this has arisen because
 nearly everybody is colour-blind."
 
 "Nearly everybody subjected to the peculiar conditions of this period
-of the earth's history," corrected the doctor in a kindly manner.
+of the earth's [[history]]," corrected the doctor in a kindly manner.
 "As to the duration of the epidemic, or its possible periodicity,
 that is another matter.  If you would care to see a number of notes
 I have compiled--"
@@ -311,7 +311,7 @@ to celebrate the occasion of his becoming colour-blind."
 said Dr. Hendry, "and it seems to me that my hypothesis holds the field."
 
 "It seems to me that the big shop holds the field," said Murrel,
-"and I wonder whether that shop girl who offered me chalks and red
+"and I [[Wonder|wonder]] whether that shop girl who offered me chalks and red
 ink knows about her scientific origin."
 
 "I remember my old friend Potter used to say," observed the other,
@@ -336,9 +336,9 @@ He was moving towards the door, when he was suddenly stopped
 by an almost startling transformation in the young lady.
 She still stood in a rather rigid fashion behind her father's chair.
 But her eyes, which were both dark and bright, shifted and shot,
-as it were, in a shining obliquity towards the window; and every line in
+as it were, in a shining obliquity towards the [[Window|window]]; and every line in
 her not ungraceful figure turned into a straight line like a steel rod.
-In the dead silence a sound could be heard through the half-open window.
+In the dead [[Silence|silence]] a sound could be heard through the half-open [[Window|window]].
 It was the sound of the large and lumbering wheels of the antiquated
 hansom cab drawing up at the door.
 
@@ -355,7 +355,7 @@ which in practice only swept over the poor streets, had given medical
 and other officials very abrupt and arbitrary powers over people supposed
 to fall short of the full efficiency of the manager of the stores.
 He thought it only too likely that the discoverer of the remarkable
-scientific theory of colour-blindness as a cause of social decay
+scientific theory of colour-blindness as a cause of social [[Decay|decay]]
 might appear to fall short of that efficiency.  Indeed, it would
 even seem that his own daughter thought so, from her desperate
 efforts to steer the poor old gentleman away from the topic.
@@ -370,7 +370,7 @@ in with her voice of steel.
 
 "It's been like that all along," she said.  "First they kick
 him into the gutter and then they blame him for being there.
-It's as if you hammered a child on the head till he was stunned
+It's as if you hammered a [[Child|child]] on the head till he was stunned
 and stupid and then abused him for being a dunce."
 
 "Your father," observed the visitor doubtfully, "does not strike
@@ -385,19 +385,19 @@ rather menacing voice.
 
 The question was in some sense answered, not by the person to whom it
 was addressed, but by a deep and rather guttural voice coming up the black
-well of the staircase, from somebody who was mounting the stairs.
+[[Well|well]] of the staircase, from somebody who was mounting the stairs.
 The crazy stairs creaked and even shook under him as he mounted,
 for he was a heavy man, and as he emerged into the half-light from
-the little window on the landing he seemed to fill up the whole
+the little [[Window|window]] on the landing he seemed to fill up the whole
 entrance with a bulk of big overcoat and broad shoulders.
 The face that was thus turned up to the light reminded Murrel
 for the first moment of something between a walrus and a whale;
-it was as if some deep-sea monster was rising out of the deeps
-and turning up its round and pale and fishy face like a moon.
+it was as if some deep-sea [[Monster|monster]] was rising out of the deeps
+and turning up its round and pale and fishy face like a [[Moon|moon]].
 When he looked at the man more carefully and less fancifully
 he saw that the effect came from very fair hair being very closely
 cropped in contrast with a moustache like a pair of pale tusks,
-and from the light of the window on the round spectacles.
+and from the light of the [[Window|window]] on the round spectacles.
 
 This was Dr. Gambrel, who spoke perfectly good English, but stumbled
 on the steep stairs and swore softly in some other speech.
@@ -409,12 +409,12 @@ into the room.
 "I suppose I'm a lunatic, too?"  Miss Hendry replied, "I'm quite
 ready to be anything my father is supposed to be."
 
-"Well, well, it's all very painful," said the doctor recovering his
+"[[Well]], [[Well|well]], it's all very painful," said the doctor recovering his
 composure and with it something more like a callous benevolence.
 "But there's nothing to be gained by shilly-shallying over it.
 You'd much better let me see your father at once."
 
-"Oh, very well," she replied.  "I suppose I shall have to."
+"Oh, very [[Well|well]]," she replied.  "I suppose I shall have to."
 
 She turned abruptly and opened the door which let them both
 into the little dingy room where Dr. Hendry was sitting.
@@ -427,7 +427,7 @@ the moment too fiercely flustered to define especially.
 As for the young woman, she looked at the room with a stare
 of stony astonishment.
 
-There was no other door to the room; Dr. Hendry was sitting alone
+There was no other door to the room; Dr. Hendry was sitting [[Alone|alone]]
 at his table, and Mr. Douglas Murrel had totally disappeared.
 
 Before Dr. Gambrel could remark on the fact or even become fully
@@ -445,11 +445,11 @@ owing to certain optical diseases which--"
 Dr. Gambrel had the power of the modern state, which is
 perhaps greater than that of any state, at least, so far
 as the departments over which it ranges are concerned.
-He had the power to invade this house and break up this
+He had the power to invade this [[house]] and break up this
 family and do what he liked with this member of it;
 but even he had not the power to stop him talking.
 In spite of all official efforts, Dr. Hendry's lecture
-on Colour-Blindness went on for a considerable time.
+on Colour-Blindness went on for a considerable [[Time|time]].
 It continued while the more responsible doctor edged him
 gradually towards the door, while he led him down the stairs,
 and at least until he managed to drag him out on to the doorstep.
@@ -459,28 +459,28 @@ to the lecture which had begun in the room upstairs.
 
 . . . . . . . .
 
-The cabman perched upon the ancient cab was a patient character
-and had need to be.  He had been waiting outside the house
-of the Hendrys for some time, when something happened which was
+The [[cabman]] perched upon the ancient cab was a patient character
+and had need to be.  He had been waiting outside the [[house]]
+of the Hendrys for some [[Time|time]], when something happened which was
 certainly more calculated to entertain his leisure than anything
 that had happened yet.
 
 It consisted of a gentleman apparently falling out of
 the sky on to the top of the cab, and righting himself
-with some difficulty in the act of nearly rolling off it.
+with some difficulty in the act of nearly [[rolling]] off it.
 This unexpected visitor, when eventually he came the right
-way up, revealed to the astonished cabman the face and form
+way up, revealed to the astonished [[cabman]] the face and form
 of the gentleman with whom he had had a chat recently a little
-further down the road.  A prolonged stare at the newcomer,
-followed by a prolonged stare at the window just above revealed
+further down the [[Road|road]].  A prolonged stare at the newcomer,
+followed by a prolonged stare at the [[Window|window]] just above revealed
 to the driver that the former had not actually dropped from heaven,
-but only from the window-sill. But though the incident was not
+but only from the [[Window|window]]-sill. But though the incident was not
 by definition a miracle, it was certainly something of a marvel.
-Those privileged to see Murrel fall off the window-sill
+Those privileged to see Murrel fall off the [[Window|window]]-sill
 on to the top of the hansom cab might have formed a theory
 about why he had originally been called Monkey.
 
-The cabman was still more surprised when his new companion smiled across
+The [[cabman]] was still more surprised when his new companion smiled across
 at him in an agreeable manner and said, like one resuming a conversation:
 "As I was saying--"
 
@@ -494,17 +494,17 @@ and said, confidentially:  "Look here, old fellow, I want to
 buy your cab."
 
 Murrel was not entirely unacquainted with the scientific regulation,
-under which was being enacted the last act of the tragedy of
+under which was being enacted the last act of the [[Tragedy|tragedy]] of
 Hendry's Illumination Colours.  He remembered having had an argument
-a long time ago with Julian Archer who was great on the subject.
+a long [[Time|time]] ago with Julian Archer who was great on the subject.
 It was a part of that quality in Julian Archer which fitted
 him so specially and supremely to be a public man.
 He could become suddenly and quite sincerely hot on any subject,
 so long as it was the subject filling the newspapers at the moment.
-If the King of Albania (whose private life, alas, leaves so much
+If the [[King]] of Albania (whose private life, alas, [[Leaves|leaves]] so much
 to be desired) were at that moment on bad terms with the sixth
 German princess who had married into his family, Mr. Julian Archer
-was instantly transformed into a knight-errant ready to cross
+was instantly transformed into a knight-errant ready to [[Cross|cross]]
 Europe on her behalf, without any reference to the other five
 princesses who were not for the moment in the public eye.
 The type and the individual will be completely misunderstood,
@@ -557,16 +557,16 @@ It was called Spinal Repulsion and traced brain trouble
 in all those who sat on the edges of chairs, as Hendry did.
 Dr. Gambrel had collected quite a large number of poor people off
 the edges of chairs; fit symbol of the insecure ledge of their lives.
-He was quite prepared to explain this theory in the court,
+He was quite prepared to explain this theory in the [[Court|court]],
 but he had no opportunity of explaining it in the cab.
 
 There was something macabre about the progress of the cab
 crawling up the steep streets of that grey seaside town.
 From infancy he had felt the phrase "a crawling cab" had a touch
-of nightmare; as if the cab crept after its fares and swallowed
-them with its yawning jaws.  The horse had an angular outline:
+of [[nightmare]]; as if the cab crept after its fares and swallowed
+them with its yawning jaws.  The [[Horse|horse]] had an angular outline:
 the dark woods inlaying the cab the hint of a coffin.
-The road grew steeper, the street rearing against the cabhorse
+The [[Road|road]] grew steeper, the street rearing against the cabhorse
 or the cabhorse against the cab.  But they came to a standstill
 before a porch with two pillars between which they saw
 the grey-green sea.

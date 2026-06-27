@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Ghost of Gideon Wise (part 2)"
+title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -15,28 +15,28 @@ tags:
 
 
 The third man also had a curious taste in drinks, and his drink was
-symbolic of him.  For what stood in front of the poet Home was a glass
+symbolic of him.  For what stood in front of the poet [[Home]] was a glass
 of milk, and its very mildness seemed in that setting to have something
 sinister about it, as if its opaque and colourless colour were of some
 leprous paste more poisonous than the dead sick green of absinthe.
-Yet in truth the mildness was so far genuine enough; for Henry Home
-came to the camp of revolution along a very different road and
+Yet in [[Truth|truth]] the mildness was so far genuine enough; for Henry [[Home]]
+came to the camp of revolution along a very different [[Road|road]] and
 from very different origins from those of Jake, the common tub--
 thumper, and Elias, the cosmopolitan wire--puller.  He had had what is
-called a careful upbringing, had gone to chapel in his childhood,
+called a careful upbringing, had gone to chapel in his [[Childhood|childhood]],
 and carried through life a teetotalism which he could not shake
-off when he cast away such trifles as Christianity and marriage.
+off when he cast away such trifles as [[Christianity]] and [[Marriage|marriage]].
 He had fair hair and a fine face that might have looked like Shelley,
 if he had not weakened the chin with a little foreign fringe of beard.
 Somehow the beard made him look more like a woman; it was as if those
 few golden hairs were all he could do.
 
 When the journalist entered, the notorious Jake was talking,
-as he generally was.  Home had uttered some casual and conventional
+as he generally was.  [[Home]] had uttered some casual and conventional
 phrase about `Heaven forbid' something or other, and this was quite
 enough to set Jake off with a torrent of profanity.
 
-`Heaven forbid! and that's about all it bally well does do,' he said.
+`Heaven forbid! and that's about all it bally [[Well|well]] does do,' he said.
 `Heaven never does anything but forbid this, that and the other;
 forbids us to strike, and forbids us to fight, and forbids us to shoot
 the damned usurers and blood--suckers where they sit.  Why doesn't
@@ -59,12 +59,12 @@ eyes of Elias, he told him of the threat of Stein.
 `I was prepared for something of that sort,' said the smiling
 Elias without moving; `I may say quite prepared.'
 
-`Dirty dogs!' exploded Jake.  `If a poor man said a thing
+`Dirty [[dogs]]!' exploded Jake.  `If a poor man said a thing
 like that he'd go to penal servitude.  But I reckon they'll go
 somewhere worse before they guess.  If they don't go to hell,
 I don't know where the hell they'll go to--`
 
-Home made a movement of protest, perhaps not so much at what the man
+[[Home]] made a movement of protest, perhaps not so much at what the man
 was saying as at what he was going to say, and Elias cut the speech
 short with cold exactitude.
 
@@ -78,14 +78,14 @@ trial of strength will be quite according to plan.'
 
 As he spoke in a quite quiet and dignified fashion,
 something in his motionless yellow face and his great goggles
-started a faint fear creeping up the journalist's spine.
+started a faint [[Fear|fear]] creeping up the journalist's spine.
 Halket's savage face might seem to have a snarl in its very
 silhouette when seen sideways; but when seen face to face,
 the smouldering rage in his eyes had also something of anxiety,
-as if the ethical and economic riddle were after all a little too
-much for him; and Home seemed even more hanging on wires of worry
-and self--criticism.  But about this third man with the goggles,
-who spoke so sensibly and simply, there was something uncanny;
+as if the ethical and economic [[Riddle|riddle]] were after all a little too
+much for him; and [[Home]] seemed even more hanging on wires of worry
+and [[Self|self]]--criticism.  But about this third man with the goggles,
+who spoke so sensibly and simply, there was something [[Uncanny|uncanny]];
 it was like a dead man talking at the table.
 
 As Byrne went out with his message of defiance, and passed along
@@ -101,7 +101,7 @@ You're not likely to be in this little conspiracy.'
 `Mine is a rather older conspiracy,' replied Father Brown smiling,'
 but it is quite a widespread conspiracy.'
 
-`Well,' replied Byrne,' you can't imagine any of the people here being
+`[[Well]],' replied Byrne,' you can't imagine any of the people here being
 within a thousand miles of your concern.'
 
 `It is not always easy to tell,' replied the priest equably;

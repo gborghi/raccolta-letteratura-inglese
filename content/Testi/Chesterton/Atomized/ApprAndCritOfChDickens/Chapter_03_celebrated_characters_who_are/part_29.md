@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 29)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 29)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -20,11 +20,11 @@ are tainted with the bitterness of absinthe. Yet because of the very
 
 simplicity of Dickens's moral tastes it is impossible to speak
 
-adequately of them; and Joe Gargery must stand as he stands in the book,
+adequately of them; and [[Joe Gargery]] must stand as he stands in the book,
 
 a thing too obvious to be understood. But this may be said of him in one
 
-of his minor aspects, that he stands for a certain long-suffering in the
+of his minor aspects, that he stands for a certain long-[[Suffering|suffering]] in the
 
 English poor, a certain weary patience and politeness which almost
 
@@ -50,7 +50,7 @@ _Our Mutual Friend_ marks a happy return to the earlier manner of
 
 Dickens at the end of Dickens's life. One might call it a sort of Indian
 
-summer of his farce. Those who most truly love Dickens love the earlier
+[[Summer|summer]] of his farce. Those who most truly [[Love|love]] Dickens [[Love|love]] the earlier
 
 Dickens; and any return to his farce must be welcomed, like a young man
 
@@ -94,7 +94,7 @@ two things can at least be said--that this class does understand the
 
 meaning of the word "friend" and the meaning of the word "mutual." I
 
-know that for some long time before he had been slowly and subtly sucked
+know that for some long [[Time|time]] before he had been slowly and subtly sucked
 
 into the whirlpool of the fashionable views of later England. I know
 
@@ -114,19 +114,19 @@ Cloisterham at the expense of the dissenting demagogue, Honeythunder; I
 
 know that he even took the last and most disastrous step in the modern
 
-English reaction. While blaming the old Cloisterham monks (who were
+English reaction. While blaming the old Cloisterham [[Monks|monks]] (who were
 
 democratic), he praised the old-world peace that they had left behind
 
 them--an old-world peace which is simply one of the last amusements of
 
-aristocracy. The modern rich feel quite at home with the dead monks.
+aristocracy. The modern rich feel quite at [[Home|home]] with the dead [[Monks|monks]].
 
 They would have felt anything but comfortable with the live ones. I
 
-know, in short, how the simple democracy of Dickens was gradually dimmed
+know, in short, how the simple [[Democracy|democracy]] of Dickens was gradually dimmed
 
-by the decay and reaction of the middle of the nineteenth century. I
+by the [[Decay|decay]] and reaction of the middle of the nineteenth century. I
 
 know that he fell into some of the bad habits of aristocratic
 
@@ -138,7 +138,7 @@ the very title of one of his best books was a vulgarism. It is pleasant
 
 to contemplate this last unconscious knock in the eye for the gentility
 
-with which Dickens was half impressed. Dickens is the old self-made man;
+with which Dickens was half impressed. Dickens is the old [[Self-Made Man|self-made man]];
 
 you may take him or leave him. He has its disadvantages and its merits.
 
@@ -152,7 +152,7 @@ If it were a mere matter of the accident of a name it would not be worth
 
 while thus to dwell on it, even as a preface. But the title is in this
 
-respect typical of the tale. The novel called _Our Mutual Friend_ is in
+respect typical of the tale. The [[Novel|novel]] called _Our Mutual Friend_ is in
 
 many ways a real reaction towards the earlier Dickens manner. I have
 
@@ -160,7 +160,7 @@ remarked that _Little Dorrit_ was a reversion to the form of the first
 
 books, but not to their spirit; _Our Mutual Friend_ is a reversion to
 
-the spirit as well as the form. Compare, for instance, the public
+the spirit as [[Well|well]] as the form. Compare, for instance, the public
 
 figures that make a background in each book. Mr. Merdle is a commercial
 
@@ -170,7 +170,7 @@ commercial man having no great connection with the plot. This is
 
 altogether in the spirit of the earlier books; the whole point of an
 
-early Dickens novel was to have as many people as possible entirely
+early Dickens [[Novel|novel]] was to have as many people as possible entirely
 
 unconnected with the plot. But exactly because both studies are
 
@@ -184,21 +184,21 @@ is a happy and hilarious description. It recalls the days when he hunted
 
 great game; when he went out of his way to entrap such adorable monsters
 
-as Mr. Pecksniff or Mr. Vincent Crummles. With these wild beings we
+as Mr. Pecksniff or Mr. [[Vincent Crummles]]. With these wild beings we
 
 never bother about the cause of their coming. Such guests in a story
 
-may be uninvited, but they are never _de trop_. They earn their night's
+may be uninvited, but they are never _de trop_. They earn their [[Night|night]]'s
 
 lodging in any tale by being so uproariously amusing; like little Tommy
 
 Tucker in the legend, they sing for their supper. This is really the
 
-marked truth about _Our Mutual Friend_, as a stage in the singular
+marked [[Truth|truth]] about _Our Mutual Friend_, as a stage in the singular
 
 latter career of Dickens. It is like the leaping up and flaming of a
 
-slowly dying fire. The best things in the book are in the old best
+slowly dying [[Fire|fire]]. The best things in the book are in the old best
 
 manner of the author. They have that great Dickens quality of being
 

@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 5"
+title: "[[TheCrimesOfEngland]] — Chapter 5"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -22,7 +22,7 @@ THE LOST ENGLAND
 
 
 
-Truth about England and Ireland--Murder
+[[Truth]] about England and Ireland--Murder
 
 and the Two Travellers--Real Defence
 

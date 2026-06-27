@@ -14,46 +14,46 @@ tags:
 </nav>
 
 
-The mob can never rebel unless it is conservative, at least enough
+The mob can never [[Rebel|rebel]] unless it is conservative, at least enough
 to have conserved some reasons for rebelling.  It is the most
 awful thought in all our anarchy, that most of the ancient blows
-struck for freedom would not be struck at all to-day, because of
+struck for [[Freedom|freedom]] would not be struck at all to-day, because of
 the obscuration of the clean, popular customs from which they came.
 The insult that brought down the hammer of Wat Tyler might now
 be called a medical examination.  That which Virginius loathed
-and avenged as foul slavery might now be praised as free love.
+and avenged as foul [[Slavery|slavery]] might now be praised as free [[Love|love]].
 The cruel taunt of Foulon, "Let them eat grass," might now be
-represented as the dying cry of an idealistic vegetarian.
+represented as the dying cry of an idealistic [[vegetarian]].
 Those great scissors of science that would snip off the curls
 of the poor little school children are ceaselessly snapping
 closer and closer to cut off all the corners and fringes
 of the arts and honors of the poor.  Soon they will be twisting
 necks to suit clean collars, and hacking feet to fit new boots.
-It never seems to strike them that the body is more than raiment;
+It never seems to strike them that the [[Body|body]] is more than raiment;
 that the Sabbath was made for man; that all institutions shall
 be judged and damned by whether they have fitted the normal flesh
-and spirit.  It is the test of political sanity to keep your head.
-It is the test of artistic sanity to keep your hair on.
+and spirit.  It is the test of political [[Sanity|sanity]] to keep your head.
+It is the test of artistic [[Sanity|sanity]] to keep your hair on.
 
-Now the whole parable and purpose of these last pages, and indeed of all
+Now the whole [[Parable|parable]] and purpose of these last pages, and indeed of all
 these pages, is this:  to assert that we must instantly begin all over
 again, and begin at the other end.  I begin with a little girl's hair.
 That I know is a good thing at any rate.  Whatever else is evil,
-the pride of a good mother in the beauty of her daughter is good.
+the [[Pride|pride]] of a good mother in the [[Beauty|beauty]] of her daughter is good.
 It is one of those adamantine tendernesses which are the touchstones
 of every age and race.  If other things are against it, other things
 must go down.  If landlords and laws and sciences are against it,
 landlords and laws and sciences must go down.  With the red hair of one
-she-urchin in the gutter I will set fire to all modern civilization.
+she-urchin in the gutter I will set [[Fire|fire]] to all modern civilization.
 Because a girl should have long hair, she should have clean hair;
-because she should have clean hair, she should not have an unclean home:
-because she should not have an unclean home, she should have a free
+because she should have clean hair, she should not have an unclean [[Home|home]]:
+because she should not have an unclean [[Home|home]], she should have a free
 and leisured mother; because she should have a free mother, she should
 not have an usurious landlord; because there should not be an usurious
 landlord, there should be a redistribution of property; because there
 should be a redistribution of property, there shall be a revolution.
 That little urchin with the gold-red hair, whom I have just watched
-toddling past my house, she shall not be lopped and lamed and altered;
+toddling past my [[house]], she shall not be lopped and lamed and altered;
 her hair shall not be cut short like a convict's; no, all the kingdoms
 of the earth shall be hacked about and mutilated to suit her.
 She is the human and sacred image; all around her the social fabric
@@ -71,32 +71,32 @@ I
 
 ON FEMALE SUFFRAGE
 
-Not wishing to overload this long essay with too many parentheses,
+Not wishing to overload this long [[Essay|essay]] with too many parentheses,
 apart from its thesis of progress and precedent, I append here three
 notes on points of detail that may possibly be misunderstood.
 
 The first refers to the female controversy.  It may seem
 to many that I dismiss too curtly the contention that all women
-should have votes, even if most women do not desire them.
+should have votes, even if most women do not [[Desire|desire]] them.
 It is constantly said in this connection that males have
 received the vote (the agricultural laborers for instance)
 when only a minority of them were in favor of it.  Mr. Galsworthy,
-one of the few fine fighting intellects of our time, has talked
+one of the few fine fighting intellects of our [[Time|time]], has talked
 this language in the "Nation."  Now, broadly, I have only to
-answer here, as everywhere in this book, that history is not a
-toboggan slide, but a road to be reconsidered and even retraced.
+answer here, as everywhere in this book, that [[history]] is not a
+toboggan slide, but a [[Road|road]] to be reconsidered and even retraced.
 If we really forced General Elections upon free laborers who
 definitely disliked General Elections, then it was a thoroughly
 undemocratic thing to do; if we are democrats we ought to undo it.
 We want the will of the people, not the votes of the people;
 and to give a man a vote against his will is to make voting
-more valuable than the democracy it declares.
+more valuable than the [[democracy]] it declares.
 
 But this analogy is false, for a plain and particular reason.
 Many voteless women regard a vote as unwomanly.
 Nobody says that most voteless men regarded a vote as unmanly.
 Nobody says that any voteless men regarded it as unmanly.
-Not in the stillest hamlet or the most stagnant fen could you
+Not in the stillest [[Hamlet|hamlet]] or the most stagnant fen could you
 find a yokel or a tramp who thought he lost his sexual dignity
 by being part of a political mob.  If he did not care about a vote
 it was solely because he did not know about a vote; he did not
@@ -111,17 +111,17 @@ as unfeminine.  That is, as insulting certain affirmative traditions
 to which they are attached.  You may think such a view prejudiced;
 but I violently deny that any democrat has a right to override
 such prejudices, if they are popular and positive.  Thus he would
-not have a right to make millions of Moslems vote with a cross
+not have a right to make millions of Moslems vote with a [[Cross|cross]]
 if they had a prejudice in favor of voting with a crescent.
-Unless this is admitted, democracy is a farce we need scarcely keep up.
+Unless this is admitted, [[democracy]] is a farce we need scarcely keep up.
 If it is admitted, the Suffragists have not merely to awaken
-an indifferent, but to convert a hostile majority.
+an indifferent, but to [[convert]] a hostile majority.
 
 * * *
 
 II
 
-ON CLEANLINESS IN EDUCATION
+ON CLEANLINESS IN [[Education|EDUCATION]]
 
 On re-reading my protest, which I honestly think much needed,
 against our heathen idolatry of mere ablution, I see that it
@@ -132,8 +132,8 @@ Let it be insisted on even as much as now; but let other
 things be insisted on much more.  I am even ready to admit
 that cleanliness is next to godliness; but the moderns
 will not even admit godliness to be next to cleanliness.
-In their talk about Thomas Becket and such saints and heroes
-they make soap more important than soul; they reject godliness
+In their talk about [[Thomas Becket]] and such saints and heroes
+they make soap more important than [[Soul|soul]]; they reject godliness
 whenever it is not cleanliness.  If we resent this about remote
 saints and heroes, we should resent it more about the many saints
 and heroes of the slums, whose unclean hands cleanse the world.
@@ -160,8 +160,8 @@ This book deals with what is wrong, wrong in our root of
 argument and effort.  This wrong is, I say, that we will go
 forward because we dare not go back.  Thus the Socialist says
 that property is already concentrated into Trusts and Stores:
-the only hope is to concentrate it further in the State.  I say
-the only hope is to unconcentrate it; that is, to repent and return;
+the only [[Hope|hope]] is to concentrate it further in the State.  I say
+the only [[Hope|hope]] is to unconcentrate it; that is, to repent and return;
 the only step forward is the step backward.
 
 But in connection with this distribution I have laid myself open to
@@ -171,13 +171,13 @@ in the means.  It is not at all too late to restore an approximately
 rational state of English possessions without any mere confiscation.
 A policy of buying out landlordism, steadily adopted in England
 as it has already been adopted in Ireland (notably in Mr. Wyndham's
-wise and fruitful Act), would in a very short time release the lower
+wise and fruitful Act), would in a very short [[Time|time]] release the lower
 end of the see-saw and make the whole plank swing more level.
 The objection to this course is not at all that it would not do,
 only that it will not be done.  If we leave things as they are,
 there will almost certainly be a crash of confiscation.
 If we hesitate, we shall soon have to hurry.  But if we start doing
-it quickly we have still time to do it slowly.
+it quickly we have still [[Time|time]] to do it slowly.
 
 This point, however, is not essential to my book.  All I have to urge
 between these two boards is that I dislike the big Whiteley shop,

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 9"
+title: "[[Martin Chuzzlewit]] — Chapter 9"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,8 +19,8 @@ CHAPTER NINE
 TOWN AND TODGER’S
 
 
-Surely there never was, in any other borough, city, or hamlet in the
-world, such a singular sort of a place as Todgers’s. And surely London,
+Surely there never was, in any other borough, [[City|city]], or [[Hamlet|hamlet]] in the
+world, such a singular sort of a place as Todgers’s. And surely [[London]],
 to judge from that part of it which hemmed Todgers’s round and hustled
 it, and crushed it, and stuck its brick-and-mortar elbows into it, and
 kept the air from it, and stood perpetually between it and the
@@ -30,21 +30,21 @@ to which Todgers’s belonged.
 
 You couldn’t walk about Todgers’s neighbourhood, as you could in any
 other neighbourhood. You groped your way for an hour through lanes and
-byways, and court-yards, and passages; and you never once emerged upon
+byways, and [[Court|court]]-yards, and passages; and you never once emerged upon
 anything that might be reasonably called a street. A kind of resigned
 distraction came over the stranger as he trod those devious mazes, and,
 giving himself up for lost, went in and out and round about and quietly
 turned back again when he came to a dead wall or was stopped by an
 iron railing, and felt that the means of escape might possibly present
-themselves in their own good time, but that to anticipate them was
+themselves in their own good [[Time|time]], but that to anticipate them was
 hopeless. Instances were known of people who, being asked to dine at
-Todgers’s, had travelled round and round for a weary time, with its very
+Todgers’s, had travelled round and round for a weary [[Time|time]], with its very
 chimney-pots in view; and finding it, at last, impossible of attainment,
-had gone home again with a gentle melancholy on their spirits,
+had gone [[Home|home]] again with a gentle [[Melancholy|melancholy]] on their spirits,
 tranquil and uncomplaining. Nobody had ever found Todgers’s on a verbal
 direction, though given within a few minutes’ walk of it. Cautious
 emigrants from Scotland or the North of England had been known to reach
-it safely, by impressing a charity-boy, town-bred, and bringing him
+it safely, by impressing a [[Charity|charity]]-boy, town-bred, and bringing him
 along with them; or by clinging tenaciously to the postman; but these
 were rare exceptions, and only went to prove the rule that Todgers’s was
 in a labyrinth, whereof the mystery was known but to a chosen few.
@@ -53,24 +53,24 @@ Several fruit-brokers had their marts near Todgers’s; and one of the
 first impressions wrought upon the stranger’s senses was of oranges--of
 damaged oranges--with blue and green bruises on them, festering in
 boxes, or mouldering away in cellars. All day long, a stream of porters
-from the wharves beside the river, each bearing on his back a bursting
+from the wharves beside the [[River|river]], each bearing on his back a bursting
 chest of oranges, poured slowly through the narrow passages; while
-underneath the archway by the public-house, the knots of those who
-rested and regaled within, were piled from morning until night. Strange
+underneath the archway by the public-[[house]], the knots of those who
+rested and regaled within, were piled from morning until [[Night|night]]. Strange
 solitary pumps were found near Todgers’s hiding themselves for the most
-part in blind alleys, and keeping company with fire-ladders. There were
+part in blind alleys, and keeping company with [[Fire|fire]]-ladders. There were
 churches also by dozens, with many a ghostly little churchyard, all
 overgrown with such straggling vegetation as springs up spontaneously
 from damp, and graves, and rubbish. In some of these dingy
 resting-places which bore much the same analogy to green churchyards,
 as the pots of earth for mignonette and wall-flower in the windows
 overlooking them did to rustic gardens, there were trees; tall trees;
-still putting forth their leaves in each succeeding year, with such a
+still putting forth their [[Leaves|leaves]] in each succeeding year, with such a
 languishing remembrance of their kind (so one might fancy, looking on
-their sickly boughs) as birds in cages have of theirs. Here, paralysed
-old watchmen guarded the bodies of the dead at night, year after year,
+their sickly boughs) as [[Birds|birds]] in cages have of theirs. Here, paralysed
+old watchmen guarded the bodies of the dead at [[Night|night]], year after year,
 until at last they joined that solemn brotherhood; and, saving that they
-slept below the ground a sounder sleep than even they had ever known
+slept below the ground a sounder [[Sleep|sleep]] than even they had ever known
 above it, and were shut up in another kind of box, their condition can
 hardly be said to have undergone any material change when they, in turn,
 were watched themselves.
@@ -81,23 +81,23 @@ revelry and feasting often came; but now these mansions, only used
 for storehouses, were dark and dull, and, being filled with wool, and
 cotton, and the like--such heavy merchandise as stifles sound and stops
 the throat of echo--had an air of palpable deadness about them which,
-added to their silence and desertion, made them very grim. In like
+added to their [[Silence|silence]] and desertion, made them very grim. In like
 manner, there were gloomy courtyards in these parts, into which few but
 belated wayfarers ever strayed, and where vast bags and packs of goods,
 upward or downward bound, were for ever dangling between heaven and
 earth from lofty cranes There were more trucks near Todgers’s than
-you would suppose whole city could ever need; not active trucks, but
+you would suppose whole [[City|city]] could ever need; not active trucks, but
 a vagabond race, for ever lounging in the narrow lanes before
 their masters’ doors and stopping up the pass; so that when a stray
 hackney-coach or lumbering waggon came that way, they were the cause of
-such an uproar as enlivened the whole neighbourhood, and made the bells
+such an uproar as enlivened the whole neighbourhood, and made [[The Bells|the bells]]
 in the next churchtower vibrate again. In the throats and maws of dark
 no-thoroughfares near Todgers’s, individual wine-merchants and wholesale
 dealers in grocery-ware had perfect little towns of their own; and, deep
 among the foundations of these buildings, the ground was undermined and
 burrowed out into stables, where cart-horses, troubled by rats, might be
-heard on a quiet Sunday rattling their halters, as disturbed spirits in
-tales of haunted houses are said to clank their chains.
+heard on a quiet [[Sunday]] rattling their halters, as disturbed spirits in
+tales of haunted houses are said to clank their [[Chains|chains]].
 
 To tell of half the queer old taverns that had a drowsy and secret
 existence near Todgers’s, would fill a goodly book; while a second
@@ -112,26 +112,26 @@ deplored the degeneracy of the times; which that particular member
 of each little club who kept the keys of the nearest church,
 professionally, always attributed to the prevalence of dissent and
 irreligion; though the major part of the company inclined to the belief
-that virtue went out with hair-powder, and that Old England’s greatness
+that virtue went out with hair-powder, and that Old England’s [[Greatness|greatness]]
 had decayed amain with barbers.
 
-As to Todgers’s itself--speaking of it only as a house in that
+As to Todgers’s itself--speaking of it only as a [[house]] in that
 neighbourhood, and making no reference to its merits as a commercial
 boarding establishment--it was worthy to stand where it did. There was
-one staircase-window in it, at the side of the house, on the ground
+one staircase-[[Window|window]] in it, at the side of the [[house]], on the ground
 floor; which tradition said had not been opened for a hundred years at
 least, and which, abutting on an always dirty lane, was so begrimed and
 coated with a century’s mud, that no one pane of glass could possibly
 fall out, though all were cracked and broken twenty times. But the grand
 mystery of Todgers’s was the cellarage, approachable only by a little
-back door and a rusty grating; which cellarage within the memory of man
-had had no connection with the house, but had always been the freehold
+back door and a rusty grating; which cellarage within the [[Memory|memory]] of man
+had had no connection with the [[house]], but had always been the freehold
 property of somebody else, and was reported to be full of wealth; though
 in what shape--whether in silver, brass, or gold, or butts of wine,
 or casks of gun-powder--was matter of profound uncertainty and supreme
 indifference to Todgers’s and all its inmates.
 
-The top of the house was worthy of notice. There was a sort of terrace
+The top of the [[house]] was worthy of notice. There was a sort of terrace
 on the roof, with posts and fragments of rotten lines, once intended to
 dry clothes upon; and there were two or three tea-chests out there,
 full of earth, with forgotten plants in them, like old walking-sticks.
@@ -139,11 +139,11 @@ Whoever climbed to this observatory, was stunned at first from having
 knocked his head against the little door in coming out; and after that,
 was for the moment choked from having looked perforce, straight down the
 kitchen chimney; but these two stages over, there were things to gaze
-at from the top of Todgers’s, well worth your seeing too. For first
-and foremost, if the day were bright, you observed upon the house-tops,
-stretching far away, a long dark path; the shadow of the Monument; and
+at from the top of Todgers’s, [[Well|well]] worth your seeing too. For first
+and foremost, if the day were bright, you observed upon the [[house]]-tops,
+stretching far away, a long dark path; the [[Shadow|shadow]] of the Monument; and
 turning round, the tall original was close beside you, with every hair
-erect upon his golden head, as if the doings of the city frightened him.
+erect upon his golden head, as if the doings of the [[City|city]] frightened him.
 Then there were steeples, towers, belfries, shining vanes, and masts of
 ships; a very forest. Gables, housetops, garret-windows, wilderness upon
 wilderness. Smoke and noise enough for all the world at once.
@@ -156,7 +156,7 @@ seemed to be turning gravely to each other every now and then, and
 whispering the result of their separate observation of what was going
 on below. Others, of a crook-backed shape, appeared to be maliciously
 holding themselves askew, that they might shut the prospect out and
-baffle Todgers’s. The man who was mending a pen at an upper window over
+baffle Todgers’s. The man who was [[mending]] a pen at an upper [[Window|window]] over
 the way, became of paramount importance in the scene, and made a blank
 in it, ridiculously disproportionate in its extent, when he retired. The
 gambols of a piece of cloth upon the dyer’s pole had far more interest
@@ -172,14 +172,14 @@ head-foremost.
 So said the two Miss Pecksniffs, when they retired with Mrs Todgers from
 this place of espial, leaving the youthful porter to close the door
 and follow them downstairs; who, being of a playful temperament, and
-contemplating with a delight peculiar to his sex and time of life, any
+contemplating with a delight peculiar to his sex and [[Time|time]] of life, any
 chance of dashing himself into small fragments, lingered behind to walk
 upon the parapet.
 
-It being the second day of their stay in London, the Miss Pecksniffs
-and Mrs Todgers were by this time highly confidential, insomuch that the
+It being the second day of their stay in [[London]], the Miss Pecksniffs
+and Mrs Todgers were by this [[Time|time]] highly confidential, insomuch that the
 last-named lady had already communicated the particulars of three early
-disappointments of a tender nature; and had furthermore possessed her
+disappointments of a tender [[Nature|nature]]; and had furthermore possessed her
 young friends with a general summary of the life, conduct, and character
 of Mr Todgers. Who, it seemed, had cut his matrimonial career rather
 short, by unlawfully running away from his happiness, and establishing
@@ -196,28 +196,28 @@ dreamy shadowing forth of her own visage.
 ‘It’s a speaking likeness!’ cried the two Miss Pecksniffs.
 
 ‘It was considered so once,’ said Mrs Todgers, warming herself in a
-gentlemanly manner at the fire; ‘but I hardly thought you would have
+gentlemanly manner at the [[Fire|fire]]; ‘but I hardly thought you would have
 known it, my loves.’
 
 They would have known it anywhere. If they could have met with it in
-the street, or seen it in a shop window, they would have cried ‘Good
+the street, or seen it in a shop [[Window|window]], they would have cried ‘Good
 gracious! Mrs Todgers!’
 
 ‘Presiding over an establishment like this, makes sad havoc with the
-features, my dear Miss Pecksniffs,’ said Mrs Todgers. ‘The gravy alone,
+features, my dear Miss Pecksniffs,’ said Mrs Todgers. ‘The gravy [[Alone|alone]],
 is enough to add twenty years to one’s age, I do assure you.’
 
 ‘Lor’!’ cried the two Miss Pecksniffs.
 
 ‘The anxiety of that one item, my dears,’ said Mrs Todgers, ‘keeps the
 mind continually upon the stretch. There is no such passion in human
-nature, as the passion for gravy among commercial gentlemen. It’s
+[[Nature|nature]], as the passion for gravy among commercial gentlemen. It’s
 nothing to say a joint won’t yield--a whole animal wouldn’t yield--the
 amount of gravy they expect each day at dinner. And what I have
 undergone in consequence,’ cried Mrs Todgers, raising her eyes and
 shaking her head, ‘no one would believe!’
 
-‘Just like Mr Pinch, Merry!’ said Charity. ‘We have always noticed it in
+‘Just like Mr Pinch, Merry!’ said [[Charity]]. ‘We have always noticed it in
 him, you remember?’
 
 ‘Yes, my dear,’ giggled Merry, ‘but we have never given it him, you
@@ -227,7 +227,7 @@ know.’
 themselves, are able to take your own way,’ said Mrs Todgers; ‘but in
 a commercial establishment, where any gentleman may say any Saturday
 evening, “Mrs Todgers, this day week we part, in consequence of the
-cheese,” it is not so easy to preserve a pleasant understanding. Your pa
+[[cheese]],” it is not so easy to preserve a pleasant understanding. Your pa
 was kind enough,’ added the good lady, ‘to invite me to take a ride with
 you to-day; and I think he mentioned that you were going to call upon
 Miss Pinch. Any relation to the gentleman you were speaking of just now,
@@ -239,7 +239,7 @@ call him a gentleman. My dear Cherry, Pinch a gentleman! The idea!’
 ‘What a wicked girl you are!’ cried Mrs Todgers, embracing her with
 great affection. ‘You are quite a quiz, I do declare! My dear Miss
 Pecksniff, what a happiness your sister’s spirits must be to your pa and
-self!’
+[[Self|self]]!’
 
 ‘He’s the most hideous, goggle-eyed creature, Mrs Todgers, in
 existence,’ resumed Merry: ‘quite an ogre. The ugliest, awkwardest
@@ -247,13 +247,13 @@ frightfullest being, you can imagine. This is his sister, so I leave you
 to suppose what SHE is. I shall be obliged to laugh outright, I know
 I shall!’ cried the charming girl, ‘I never shall be able to keep my
 countenance. The notion of a Miss Pinch presuming to exist at all is
-sufficient to kill one, but to see her--oh my stars!’
+sufficient to kill one, but to see her--oh my [[Stars|stars]]!’
 
-Mrs Todgers laughed immensely at the dear love’s humour, and declared
+Mrs Todgers laughed immensely at the dear [[Love|love]]’s [[Humour|humour]], and declared
 she was quite afraid of her, that she was. She was so very severe.
 
 ‘Who is severe?’ cried a voice at the door. ‘There is no such thing as
-severity in our family, I hope!’ And then Mr Pecksniff peeped smilingly
+severity in our family, I [[Hope|hope]]!’ And then Mr Pecksniff peeped smilingly
 into the room, and said, ‘May I come in, Mrs Todgers?’
 
 Mrs Todgers almost screamed, for the little door of communication
@@ -264,7 +264,7 @@ eye; and having done so, said, though not without confusion, ‘Oh yes, Mr
 Pecksniff, you can come in, if you please.’
 
 ‘How are we to-day,’ said Mr Pecksniff, jocosely, ‘and what are our
-plans? Are we ready to go and see Tom Pinch’s sister? Ha, ha, ha! Poor
+plans? Are we ready to go and see [[Tom Pinch]]’s sister? Ha, ha, ha! Poor
 Thomas Pinch!’
 
 ‘Are we ready,’ returned Mrs Todgers, nodding her head with mysterious
@@ -272,61 +272,61 @@ intelligence, ‘to send a favourable reply to Mr Jinkins’s round-robin?
 That’s the first question, Mr Pecksniff.’
 
 ‘Why Mr Jinkins’s robin, my dear madam?’ asked Mr Pecksniff, putting one
-arm round Mercy, and the other round Mrs Todgers, whom he seemed, in the
-abstraction of the moment, to mistake for Charity. ‘Why Mr Jinkins’s?’
+arm round [[Mercy]], and the other round Mrs Todgers, whom he seemed, in the
+abstraction of the moment, to mistake for [[Charity]]. ‘Why Mr Jinkins’s?’
 
 ‘Because he began to get it up, and indeed always takes the lead in the
-house,’ said Mrs Todgers, playfully. ‘That’s why, sir.’
+[[house]],’ said Mrs Todgers, playfully. ‘That’s why, sir.’
 
 ‘Jinkins is a man of superior talents,’ observed Mr Pecksniff. ‘I have
-conceived a great regard for Jinkins. I take Jinkins’s desire to pay
+conceived a great regard for Jinkins. I take Jinkins’s [[Desire|desire]] to pay
 polite attention to my daughters, as an additional proof of the friendly
 feeling of Jinkins, Mrs Todgers.’
 
-‘Well now,’ returned that lady, ‘having said so much, you must say the
+‘[[Well]] now,’ returned that lady, ‘having said so much, you must say the
 rest, Mr Pecksniff; so tell the dear young ladies all about it.’
 
 With these words she gently eluded Mr Pecksniff’s grasp, and took Miss
-Charity into her own embrace; though whether she was impelled to this
+[[Charity]] into her own embrace; though whether she was impelled to this
 proceeding solely by the irrepressible affection she had conceived for
 that young lady, or whether it had any reference to a lowering, not to
 say distinctly spiteful expression which had been visible in her face
 for some moments, has never been exactly ascertained. Be this as it may,
-Mr Pecksniff went on to inform his daughters of the purport and history
+Mr Pecksniff went on to inform his daughters of the purport and [[history]]
 of the round-robin aforesaid, which was in brief, that the commercial
 gentlemen who helped to make up the sum and substance of that noun of
-multitude signifying many, called Todgers’s, desired the honour of their
-presence at the general table, so long as they remained in the house,
-and besought that they would grace the board at dinner-time next
-day, the same being Sunday. He further said, that Mrs Todgers being a
+multitude signifying many, called Todgers’s, desired the [[Honour|honour]] of their
+presence at the general table, so long as they remained in the [[house]],
+and besought that they would grace the board at dinner-[[Time|time]] next
+day, the same being [[Sunday]]. He further said, that Mrs Todgers being a
 consenting party to this invitation, he was willing, for his part, to
 accept it; and so left them that he might write his gracious answer, the
 while they armed themselves with their best bonnets for the utter defeat
 and overthrow of Miss Pinch.
 
-Tom Pinch’s sister was governess in a family, a lofty family; perhaps
+[[Tom Pinch]]’s sister was governess in a family, a lofty family; perhaps
 the wealthiest brass and copper founders’ family known to mankind.
-They lived at Camberwell; in a house so big and fierce, that its mere
-outside, like the outside of a giant’s castle, struck terror into vulgar
+They lived at Camberwell; in a [[house]] so big and fierce, that its mere
+outside, like the outside of a giant’s [[Castle|castle]], struck terror into vulgar
 minds and made bold persons quail. There was a great front gate; with a
 great bell, whose handle was in itself a note of admiration; and a
-great lodge; which being close to the house, rather spoilt the look-out
+great lodge; which being close to the [[house]], rather spoilt the look-out
 certainly but made the look-in tremendous. At this entry, a great porter
 kept constant watch and ward; and when he gave the visitor high leave
 to pass, he rang a second great bell, responsive to whose note a great
-footman appeared in due time at the great halldoor, with such great
+footman appeared in due [[Time|time]] at the great halldoor, with such great
 tags upon his liveried shoulder that he was perpetually entangling and
 hooking himself among the chairs and tables, and led a life of torment
 which could scarcely have been surpassed, if he had been a blue-bottle
 in a world of cobwebs.
 
 To this mansion Mr Pecksniff, accompanied by his daughters and Mrs
-Todgers, drove gallantly in a one-horse fly. The foregoing ceremonies
-having been all performed, they were ushered into the house; and so, by
+Todgers, drove gallantly in a one-[[Horse|horse]] fly. The foregoing ceremonies
+having been all performed, they were ushered into the [[house]]; and so, by
 degrees, they got at last into a small room with books in it, where Mr
 Pinch’s sister was at that moment instructing her eldest pupil; to wit,
 a premature little woman of thirteen years old, who had already arrived
-at such a pitch of whalebone and education that she had nothing girlish
+at such a pitch of whalebone and [[Education|education]] that she had nothing girlish
 about her, which was a source of great rejoicing to all her relations
 and friends.
 
@@ -338,16 +338,16 @@ which he would have announced visitors to the cook.
 
 ‘Visitors for Miss Pinch!’
 
-Miss Pinch rose hastily; with such tokens of agitation as plainly
-declared that her list of callers was not numerous. At the same time,
+Miss Pinch [[Rose|rose]] hastily; with such tokens of agitation as plainly
+declared that her list of callers was not numerous. At the same [[Time|time]],
 the little pupil became alarmingly upright, and prepared herself to take
 mental notes of all that might be said and done. For the lady of the
-establishment was curious in the natural history and habits of the
+establishment was curious in the natural [[history]] and habits of the
 animal called Governess, and encouraged her daughters to report thereon
 whenever occasion served; which was, in reference to all parties
 concerned, very laudable, improving, and pleasant.
 
-It is a melancholy fact; but it must be related, that Mr Pinch’s sister
+It is a [[Melancholy|melancholy]] fact; but it must be related, that Mr Pinch’s sister
 was not at all ugly. On the contrary, she had a good face; a very mild
 and prepossessing face; and a pretty little figure--slight and short,
 but remarkable for its neatness. There was something of her brother,
@@ -358,7 +358,7 @@ Pecksniffs, that those young ladies naturally regarded her with great
 indignation, feeling that this was by no means what they had come to
 see.
 
-Miss Mercy, as having the larger share of gaiety, bore up the best
+Miss [[Mercy]], as having the larger share of gaiety, bore up the best
 against this disappointment, and carried it off, in outward show at
 least, with a titter; but her sister, not caring to hide her disdain,
 expressed it pretty openly in her looks. As to Mrs Todgers, she leaned
@@ -372,25 +372,25 @@ Thomas Pinch. My name--compose yourself, Miss Pinch--is Pecksniff.’
 
 The good man emphasised these words as though he would have said, ‘You
 see in me, young person, the benefactor of your race; the patron of your
-house; the preserver of your brother, who is fed with manna daily from
+[[house]]; the preserver of your brother, who is fed with manna daily from
 my table; and in right of whom there is a considerable balance in my
 favour at present standing in the books beyond the sky. But I have no
-pride, for I can afford to do without it!’
+[[Pride|pride]], for I can afford to do without it!’
 
-The poor girl felt it all as if it had been Gospel truth. Her brother
+The poor girl felt it all as if it had been Gospel [[Truth|truth]]. Her brother
 writing in the fullness of his simple heart, had often told her so, and
 how much more! As Mr Pecksniff ceased to speak, she hung her head, and
 dropped a tear upon his hand.
 
-‘Oh very well, Miss Pinch!’ thought the sharp pupil, ‘crying before
+‘Oh very [[Well|well]], Miss Pinch!’ thought the sharp pupil, ‘crying before
 strangers, as if you didn’t like the situation!’
 
-‘Thomas is well,’ said Mr Pecksniff; ‘and sends his love and this
+‘Thomas is [[Well|well]],’ said Mr Pecksniff; ‘and sends his [[Love|love]] and this
 letter. I cannot say, poor fellow, that he will ever be distinguished in
-our profession; but he has the will to do well, which is the next thing
+our profession; but he has the will to do [[Well|well]], which is the next thing
 to having the power; and, therefore, we must bear with him. Eh?’
 
-‘I know he has the will, sir,’ said Tom Pinch’s sister, ‘and I know how
+‘I know he has the will, sir,’ said [[Tom Pinch]]’s sister, ‘and I know how
 kindly and considerately you cherish it, for which neither he nor I can
 ever be grateful enough, as we very often say in writing to each
 other. The young ladies too,’ she added, glancing gratefully at his two
@@ -400,15 +400,15 @@ daughters, ‘I know how much we owe to them.’
 sister is saying something you will be glad to hear, I think.’
 
 ‘We can’t take any merit to ourselves, papa!’ cried Cherry, as they
-both apprised Tom Pinch’s sister, with a curtsey, that they would
-feel obliged if she would keep her distance. ‘Mr Pinch’s being so well
-provided for is owing to you alone, and we can only say how glad we are
+both apprised [[Tom Pinch]]’s sister, with a curtsey, that they would
+feel obliged if she would keep her distance. ‘Mr Pinch’s being so [[Well|well]]
+provided for is owing to you [[Alone|alone]], and we can only say how glad we are
 to hear that he is as grateful as he ought to be.’
 
-‘Oh very well, Miss Pinch!’ thought the pupil again. ‘Got a grateful
+‘Oh very [[Well|well]], Miss Pinch!’ thought the pupil again. ‘Got a grateful
 brother, living on other people’s kindness!’
 
-‘It was very kind of you,’ said Tom Pinch’s sister, with Tom’s own
+‘It was very kind of you,’ said [[Tom Pinch]]’s sister, with Tom’s own
 simplicity and Tom’s own smile, ‘to come here; very kind indeed; though
 how great a kindness you have done me in gratifying my wish to see you,
 and to thank you with my own lips, you, who make so light of benefits
@@ -418,7 +418,7 @@ conferred, can scarcely think.’
 
 ‘It makes me happy too,’ said Ruth Pinch, who now that her first
 surprise was over, had a chatty, cheerful way with her, and a
-single-hearted desire to look upon the best side of everything, which
+single-hearted [[Desire|desire]] to look upon the best side of everything, which
 was the very moral and image of Tom; ‘very happy to think that you will
 be able to tell him how more than comfortably I am situated here, and
 how unnecessary it is that he should ever waste a regret on my being
@@ -426,19 +426,19 @@ cast upon my own resources. Dear me! So long as I heard that he was
 happy, and he heard that I was,’ said Tom’s sister, ‘we could both bear,
 without one impatient or complaining thought, a great deal more than
 ever we have had to endure, I am very certain.’ And if ever the plain
-truth were spoken on this occasionally false earth, Tom’s sister spoke
+[[Truth|truth]] were spoken on this occasionally false earth, Tom’s sister spoke
 it when she said that.
 
 ‘Ah!’ cried Mr Pecksniff whose eyes had in the meantime wandered to the
-pupil; ‘certainly. And how do YOU do, my very interesting child?’
+pupil; ‘certainly. And how do YOU do, my very interesting [[Child|child]]?’
 
-‘Quite well, I thank you, sir,’ replied that frosty innocent.
+‘Quite [[Well|well]], I thank you, sir,’ replied that frosty [[Innocent|innocent]].
 
 ‘A sweet face this, my dears,’ said Mr Pecksniff, turning to his
 daughters. ‘A charming manner!’
 
 Both young ladies had been in ecstasies with the scion of a wealthy
-house (through whom the nearest road and shortest cut to her parents
+[[house]] (through whom the nearest [[Road|road]] and shortest cut to her parents
 might be supposed to lie) from the first. Mrs Todgers vowed that
 anything one quarter so angelic she had never seen. ‘She wanted but
 a pair of wings, a dear,’ said that good woman, ‘to be a young
@@ -450,8 +450,8 @@ friend,’ said Mr Pecksniff, producing one of his professional cards,
 
 ‘And Mrs Todgers, pa,’ said Merry.
 
-‘And Mrs Todgers, of London,’ added Mr Pecksniff; ‘that I, and my
-daughters, and Mrs Todgers, of London, did not intrude upon them, as our
+‘And Mrs Todgers, of [[London]],’ added Mr Pecksniff; ‘that I, and my
+daughters, and Mrs Todgers, of [[London]], did not intrude upon them, as our
 object simply was to take some notice of Miss Pinch, whose brother is a
 young man in my employment; but that I could not leave this very chaste
 mansion, without adding my humble tribute, as an Architect, to
@@ -490,10 +490,10 @@ Pinch!’
 ‘Thank you,’ said Tom’s sister heartily; ‘a thousand times.’
 
 ‘Not at all,’ he retorted, patting her gently on the head. ‘Don’t
-mention it. You will make me angry if you do. My sweet child’--to the
+mention it. You will make me angry if you do. My sweet [[Child|child]]’--to the
 pupil--‘farewell! That fairy creature,’ said Mr Pecksniff, looking in
 his pensive mood hard at the footman, as if he meant him, ‘has shed
-a vision on my path, refulgent in its nature, and not easily to be
+a vision on my path, refulgent in its [[Nature|nature]], and not easily to be
 obliterated. My dears, are you ready?’
 
 They were not quite ready yet, for they were still caressing the pupil.
@@ -502,35 +502,35 @@ with each a haughty inclination of the head and a curtsey strangled in
 its birth, flounced into the passage.
 
 The young man had rather a long job in showing them out; for Mr
-Pecksniff’s delight in the tastefulness of the house was such that he
+Pecksniff’s delight in the tastefulness of the [[house]] was such that he
 could not help often stopping (particularly when they were near the
 parlour door) and giving it expression, in a loud voice and very learned
 terms. Indeed, he delivered, between the study and the hall, a
 familiar exposition of the whole science of architecture as applied to
 dwelling-houses, and was yet in the freshness of his eloquence when they
-reached the garden.
+reached the [[Garden|garden]].
 
 ‘If you look,’ said Mr Pecksniff, backing from the steps, with his head
 on one side and his eyes half-shut that he might the better take in
 the proportions of the exterior: ‘If you look, my dears, at the cornice
 which supports the roof, and observe the airiness of its construction,
 especially where it sweeps the southern angle of the building, you will
-feel with me--How do you do, sir? I hope you’re well?’
+feel with me--How do you do, sir? I [[Hope|hope]] you’re [[Well|well]]?’
 
 Interrupting himself with these words, he very politely bowed to a
-middle-aged gentleman at an upper window, to whom he spoke--not because
+middle-aged gentleman at an upper [[Window|window]], to whom he spoke--not because
 the gentleman could hear him (for he certainly could not), but as an
 appropriate accompaniment to his salutation.
 
-‘I have no doubt, my dears,’ said Mr Pecksniff, feigning to point out
+‘I have no [[Doubt|doubt]], my dears,’ said Mr Pecksniff, feigning to point out
 other beauties with his hand, ‘that this is the proprietor. I should be
 glad to know him. It might lead to something. Is he looking this way,
-Charity?’
+[[Charity]]?’
 
-‘He is opening the window pa!’
+‘He is opening the [[Window|window]] pa!’
 
 ‘Ha, ha!’ cried Mr Pecksniff softly. ‘All right! He has found I’m
-professional. He heard me inside just now, I have no doubt. Don’t look!
+professional. He heard me inside just now, I have no [[Doubt|doubt]]. Don’t look!
 With regard to the fluted pillars in the portico, my dears--’
 
 ‘Hallo!’ cried the gentleman.
@@ -551,10 +551,10 @@ heard aright. ‘Did you--?’
 Trespassing. You see a gravel walk, don’t you? What do you think it’s
 meant for? Open the gate there! Show that party out!’
 
-With that he clapped down the window again, and disappeared.
+With that he clapped down the [[Window|window]] again, and disappeared.
 
 Mr Pecksniff put on his hat, and walked with great deliberation and in
-profound silence to the fly, gazing at the clouds as he went, with
+profound [[Silence|silence]] to the fly, gazing at the clouds as he went, with
 great interest. After helping his daughters and Mrs Todgers into that
 conveyance, he stood looking at it for some moments, as if he were not
 quite certain whether it was a carriage or a temple; but having settled
@@ -568,11 +568,11 @@ putting themselves in the humiliating position of seeming to know such
 bold, audacious, cunning, dreadful girls as that. They had expected
 this. They had predicted it to Mrs Todgers, as she (Todgers) could
 depone, that very morning. To this, they added, that the owner of the
-house, supposing them to be Miss Pinch’s friends, had acted, in
+[[house]], supposing them to be Miss Pinch’s friends, had acted, in
 their opinion, quite correctly, and had done no more than, under such
 circumstances, might reasonably have been expected. To that they added
 (with a trifling inconsistency), that he was a brute and a bear; and
-then they merged into a flood of tears, which swept away all wandering
+then they merged into a flood of [[Tears|tears]], which swept away all wandering
 epithets before it.
 
 Perhaps Miss Pinch was scarcely so much to blame in the matter as the
@@ -584,7 +584,7 @@ Pecksniff’s unobtrusive remarks on the establishment, might possibly
 have had some share in their dismissal. Poor Miss Pinch, however, had to
 bear the brunt of it with both parties; being so severely taken to task
 by the Seraph’s mother for having such vulgar acquaintances, that
-she was fain to retire to her own room in tears, which her natural
+she was fain to retire to her own room in [[Tears|tears]], which her natural
 cheerfulness and submission, and the delight of having seen Mr
 Pecksniff, and having received a letter from her brother, were at first
 insufficient to repress.
@@ -593,27 +593,27 @@ As to Mr Pecksniff, he told them in the fly, that a good action was its
 own reward; and rather gave them to understand, that if he could have
 been kicked in such a cause, he would have liked it all the better. But
 this was no comfort to the young ladies, who scolded violently the whole
-way back, and even exhibited, more than once, a keen desire to attack
+way back, and even exhibited, more than once, a keen [[Desire|desire]] to attack
 the devoted Mrs Todgers; on whose personal appearance, but particularly
 on whose offending card and hand-basket, they were secretly inclined to
 lay the blame of half their failure.
 
 Todgers’s was in a great bustle that evening, partly owing to some
 additional domestic preparations for the morrow, and partly to the
-excitement always inseparable in that house from Saturday night, when
+excitement always inseparable in that [[house]] from Saturday [[Night|night]], when
 every gentleman’s linen arrived at a different hour in its own little
 bundle, with his private account pinned on the outside. There was always
 a great clinking of pattens downstairs, too, until midnight or so, on
 Saturdays; together with a frequent gleaming of mysterious lights in
 the area; much working at the pump; and a constant jangling of the iron
-handle of the pail. Shrill altercations from time to time arose between
+handle of the pail. Shrill altercations from [[Time|time]] to [[Time|time]] arose between
 Mrs Todgers and unknown females in remote back kitchens; and sounds were
 occasionally heard, indicative of small articles of iron mongery and
 hardware being thrown at the boy. It was the custom of that youth on
 Saturdays, to roll up his shirt sleeves to his shoulders, and pervade
-all parts of the house in an apron of coarse green baize; moreover, he
+all parts of the [[house]] in an apron of coarse green baize; moreover, he
 was more strongly tempted on Saturdays than on other days (it being a
-busy time), to make excursive bolts into the neighbouring alleys when he
+busy [[Time|time]]), to make excursive bolts into the neighbouring alleys when he
 answered the door, and there to play at leap-frog and other sports with
 vagrant lads, until pursued and brought back by the hair of his head or
 the lobe of his ear; thus he was quite a conspicuous feature among the
@@ -621,14 +621,14 @@ peculiar incidents of the last day in the week at Todgers’s.
 
 He was especially so on this particular Saturday evening, and honoured
 the Miss Pecksniffs with a deal of notice; seldom passing the door
-of Mrs Todgers’s private room, where they sat alone before the fire,
+of Mrs Todgers’s private room, where they sat [[Alone|alone]] before the [[Fire|fire]],
 working by the light of a solitary candle, without putting in his head
 and greeting them with some such compliments as, ‘There you are agin!’
 ‘An’t it nice?’--and similar humorous attentions.
 
 ‘I say,’ he whispered, stopping in one of his journeys to and fro,
 ‘young ladies, there’s soup to-morrow. She’s a-making it now. An’t she
-a-putting in the water? Oh! not at all neither!’
+a-putting in the [[Water|water]]? Oh! not at all neither!’
 
 In the course of answering another knock, he thrust in his head again.
 
@@ -651,7 +651,7 @@ already mentioned. When he had completed his preparations, he grinned
 at the sisters, and expressed his belief that the approaching collation
 would be of ‘rather a spicy sort.’
 
-‘Will it be long, before it’s ready, Bailey?’ asked Mercy.
+‘Will it be long, before it’s ready, Bailey?’ asked [[Mercy]].
 
 ‘No,’ said Bailey, ‘it IS cooked. When I come up, she was dodging among
 the tender pieces with a fork, and eating of ‘em.’
@@ -661,13 +661,13 @@ received a manual compliment on the head, which sent him staggering
 against the wall; and Mrs Todgers, dish in hand, stood indignantly
 before him.
 
-‘Oh you little villain!’ said that lady. ‘Oh you bad, false boy!’
+‘Oh you little [[Villain|villain]]!’ said that lady. ‘Oh you bad, false boy!’
 
 ‘No worse than yerself,’ retorted Bailey, guarding his head, on a
 principle invented by Mr Thomas Cribb. ‘Ah! Come now! Do that again,
 will yer?’
 
-‘He’s the most dreadful child,’ said Mrs Todgers, setting down the dish,
+‘He’s the most dreadful [[Child|child]],’ said Mrs Todgers, setting down the dish,
 ‘I ever had to deal with. The gentlemen spoil him to that extent, and
 teach him such things, that I’m afraid nothing but hanging will ever do
 him any good.’
@@ -679,22 +679,22 @@ table-beer for then, and destroying my constitooshun?’
 open. ‘Do you hear me? Go along!’
 
 After two or three dexterous feints, he went, and was seen no more that
-night, save once, when he brought up some tumblers and hot water, and
+[[Night|night]], save once, when he brought up some tumblers and hot [[Water|water]], and
 much disturbed the two Miss Pecksniffs by squinting hideously behind
 the back of the unconscious Mrs Todgers. Having done this justice to his
 wounded feelings, he retired underground; where, in company with a swarm
 of black beetles and a kitchen candle, he employed his faculties in
-cleaning boots and brushing clothes until the night was far advanced.
+cleaning boots and brushing clothes until the [[Night|night]] was far advanced.
 
 Benjamin was supposed to be the real name of this young retainer but he
 was known by a great variety of names. Benjamin, for instance, had been
 converted into Uncle Ben, and that again had been corrupted into Uncle;
-which, by an easy transition, had again passed into Barnwell, in memory
+which, by an easy transition, had again passed into Barnwell, in [[Memory|memory]]
 of the celebrated relative in that degree who was shot by his nephew
-George, while meditating in his garden at Camberwell. The gentlemen at
-Todgers’s had a merry habit, too, of bestowing upon him, for the time
+George, while meditating in his [[Garden|garden]] at Camberwell. The gentlemen at
+Todgers’s had a merry habit, too, of bestowing upon him, for the [[Time|time]]
 being, the name of any notorious malefactor or minister; and sometimes
-when current events were flat they even sought the pages of history for
+when current events were flat they even sought the pages of [[history]] for
 these distinctions; as Mr Pitt, Young Brownrigg, and the like. At the
 period of which we write, he was generally known among the gentlemen as
 Bailey junior; a name bestowed upon him in contradistinction, perhaps,
@@ -702,10 +702,10 @@ to Old Bailey; and possibly as involving the recollection of an
 unfortunate lady of the same name, who perished by her own hand early in
 life, and has been immortalised in a ballad.
 
-The usual Sunday dinner-hour at Todgers’s was two o’clock--a suitable
-time, it was considered for all parties; convenient to Mrs Todgers, on
+The usual [[Sunday]] dinner-hour at Todgers’s was two o’[[Clock|clock]]--a suitable
+[[Time|time]], it was considered for all parties; convenient to Mrs Todgers, on
 account of the bakers; and convenient to the gentlemen with reference
-to their afternoon engagements. But on the Sunday which was to introduce
+to their afternoon engagements. But on the [[Sunday]] which was to introduce
 the two Miss Pecksniffs to a full knowledge of Todgers’s and its
 society, the dinner was postponed until five, in order that everything
 might be as genteel as the occasion demanded.
@@ -718,14 +718,14 @@ called him ‘collars’ on the spot. At about a quarter before five, a
 deputation, consisting of Mr Jinkins, and another gentleman, whose
 name was Gander, knocked at the door of Mrs Todgers’s room, and, being
 formally introduced to the two Miss Pecksniffs by their parent who was
-in waiting, besought the honour of conducting them upstairs.
+in waiting, besought the [[Honour|honour]] of conducting them upstairs.
 
 The drawing-room at Todgers’s was out of the common style; so much so
 indeed, that you would hardly have taken it to be a drawingroom, unless
 you were told so by somebody who was in the secret. It was floor-clothed
 all over; and the ceiling, including a great beam in the middle,
 was papered. Besides the three little windows, with seats in them,
-commanding the opposite archway, there was another window looking point
+commanding the opposite archway, there was another [[Window|window]] looking point
 blank, without any compromise at all about it into Jinkins’s bedroom;
 and high up, all along one side of the wall was a strip of panes of
 glass, two-deep, giving light to the staircase. There were the oddest
@@ -735,16 +735,16 @@ door itself (which was painted black) had two great glass eyes in its
 forehead, with an inquisitive green pupil in the middle of each.
 
 Here the gentlemen were all assembled. There was a general cry of ‘Hear,
-hear!’ and ‘Bravo Jink!’ when Mr Jinkins appeared with Charity on his
+hear!’ and ‘Bravo Jink!’ when Mr Jinkins appeared with [[Charity]] on his
 arm; which became quite rapturous as Mr Gander followed, escorting
-Mercy, and Mr Pecksniff brought up the rear with Mrs Todgers.
+[[Mercy]], and Mr Pecksniff brought up the rear with Mrs Todgers.
 
 Then the presentations took place. They included a gentleman of a
 sporting turn, who propounded questions on jockey subjects to the
-editors of Sunday papers, which were regarded by his friends as rather
+editors of [[Sunday]] papers, which were regarded by his friends as rather
 stiff things to answer; and they included a gentleman of a theatrical
 turn, who had once entertained serious thoughts of ‘coming out,’ but
-had been kept in by the wickedness of human nature; and they included
+had been kept in by the wickedness of human [[Nature|nature]]; and they included
 a gentleman of a debating turn, who was strong at speech-making; and a
 gentleman of a literary turn, who wrote squibs upon the rest, and
 knew the weak side of everybody’s character but his own. There was a
@@ -763,8 +763,8 @@ sparkling pleasantry was now retailed from mouth to mouth, under the
 title of Gander’s Last, and was received in all parts of the room with
 great applause. Mr Jinkins it may be added, was much the oldest of
 the party; being a fish-salesman’s book-keeper, aged forty. He was the
-oldest boarder also; and in right of his double seniority, took the lead
-in the house, as Mrs Todgers had already said.
+oldest boarder also; and in right of his [[Double|double]] seniority, took the lead
+in the [[house]], as Mrs Todgers had already said.
 
 There was considerable delay in the production of dinner, and poor Mrs
 Todgers, being reproached in confidence by Jinkins, slipped in and out,
@@ -773,22 +773,22 @@ had no such thing upon her mind, and hadn’t been out at all. But there
 was no hitch in the conversation nevertheless; for one gentleman, who
 travelled in the perfumery line, exhibited an interesting nick-nack,
 in the way of a remarkable cake of shaving soap which he had lately
-met with in Germany; and the gentleman of a literary turn repeated (by
-desire) some sarcastic stanzas he had recently produced on the freezing
-of the tank at the back of the house. These amusements, with the
-miscellaneous conversation arising out of them, passed the time
+met with in [[Germany]]; and the gentleman of a literary turn repeated (by
+[[Desire|desire]]) some sarcastic stanzas he had recently produced on the freezing
+of the tank at the back of the [[house]]. These amusements, with the
+miscellaneous conversation arising out of them, passed the [[Time|time]]
 splendidly, until dinner was announced by Bailey junior in these terms:
 
 ‘The wittles is up!’
 
 On which notice they immediately descended to the banquet-hall; some of
 the more facetious spirits in the rear taking down gentlemen as if they
-were ladies, in imitation of the fortunate possessors of the two Miss
+were ladies, in [[Imitation|imitation]] of the fortunate possessors of the two Miss
 Pecksniffs.
 
 Mr Pecksniff said grace--a short and pious grace, involving a blessing
 on the appetites of those present, and committing all persons who had
-nothing to eat, to the care of Providence; whose business (so said the
+nothing to eat, to the care of [[Providence]]; whose business (so said the
 grace, in effect) it clearly was, to look after them. This done, they
 fell to with less ceremony than appetite; the table groaning beneath the
 weight, not only of the delicacies whereof the Miss Pecksniffs had been
@@ -799,14 +799,14 @@ bottles of stout, bottles of wine, bottles of ale, and divers other
 strong drinks, native and foreign.
 
 All this was highly agreeable to the two Miss Pecksniffs, who were in
-immense request; sitting one on either hand of Mr Jinkins at the bottom
+immense request; sitting one on either hand of Mr Jinkins at the [[Bottom|bottom]]
 of the table; and who were called upon to take wine with some new
 admirer every minute. They had hardly ever felt so pleasant, and so full
-of conversation, in their lives; Mercy, in particular, was uncommonly
+of conversation, in their lives; [[Mercy]], in particular, was uncommonly
 brilliant, and said so many good things in the way of lively repartee
 that she was looked upon as a prodigy. ‘In short,’ as that young lady
-observed, ‘they felt now, indeed, that they were in London, and for the
-first time too.’
+observed, ‘they felt now, indeed, that they were in [[London]], and for the
+first [[Time|time]] too.’
 
 Their young friend Bailey sympathized in these feelings to the
 fullest extent, and, abating nothing of his patronage, gave them every
@@ -814,14 +814,14 @@ encouragement in his power; favouring them, when the general attention
 was diverted from his proceedings, with many nods and winks and other
 tokens of recognition, and occasionally touching his nose with a
 corkscrew, as if to express the Bacchanalian character of the meeting.
-In truth, perhaps even the spirits of the two Miss Pecksniffs, and the
+In [[Truth|truth]], perhaps even the spirits of the two Miss Pecksniffs, and the
 hungry watchfulness of Mrs Todgers, were less worthy of note than the
 proceedings of this remarkable boy, whom nothing disconcerted or put out
 of his way. If any piece of crockery, a dish or otherwise, chanced to
 slip through his hands (which happened once or twice), he let it go with
 perfect good breeding, and never added to the painful emotions of the
 company by exhibiting the least regret. Nor did he, by hurrying to and
-fro, disturb the repose of the assembly, as many well-trained servants
+fro, disturb the repose of the assembly, as many [[Well|well]]-trained servants
 do; on the contrary, feeling the hopelessness of waiting upon so large a
 party, he left the gentlemen to help themselves to what they wanted, and
 seldom stirred from behind Mr Jinkins’s chair, where, with his hands
@@ -829,36 +829,36 @@ in his pockets, and his legs planted pretty wide apart, he led the
 laughter, and enjoyed the conversation.
 
 The dessert was splendid. No waiting either. The pudding-plates had been
-washed in a little tub outside the door while cheese was on, and though
+washed in a little tub outside the door while [[cheese]] was on, and though
 they were moist and warm with friction, still there they were again,
-up to the mark, and true to time. Quarts of almonds; dozens of oranges;
+up to the mark, and true to [[Time|time]]. Quarts of almonds; dozens of oranges;
 pounds of raisins; stacks of biffins; soup-plates full of nuts.--Oh,
 Todgers’s could do it when it chose! mind that.
 
 Then more wine came on; red wines and white wines; and a large china
 bowl of punch, brewed by the gentleman of a convivial turn, who adjured
 the Miss Pecksniffs not to be despondent on account of its dimensions,
-as there were materials in the house for the decoction of half a dozen
+as there were materials in the [[house]] for the decoction of half a dozen
 more of the same size. Good gracious, how they laughed! How they coughed
 when they sipped it, because it was so strong; and how they laughed
 again when somebody vowed that but for its colour it might have been
 mistaken, in regard of its innocuous qualities, for new milk! What a
 shout of ‘No!’ burst from the gentlemen when they pathetically implored
-Mr Jinkins to suffer them to qualify it with hot water; and how
+Mr Jinkins to suffer them to qualify it with hot [[Water|water]]; and how
 blushingly, by little and little, did each of them drink her whole
 glassful, down to its very dregs!
 
-Now comes the trying time. The sun, as Mr Jinkins says (gentlemanly
+Now comes the trying [[Time|time]]. The sun, as Mr Jinkins says (gentlemanly
 creature, Jinkins--never at a loss!), is about to leave the firmament.
 ‘Miss Pecksniff!’ says Mrs Todgers, softly, ‘will you--?’ ‘Oh dear, no
 more, Mrs Todgers.’ Mrs Todgers rises; the two Miss Pecksniffs rise; all
-rise. Miss Mercy Pecksniff looks downward for her scarf. Where is it?
+rise. Miss [[Mercy]] Pecksniff looks downward for her scarf. Where is it?
 Dear me, where CAN it be? Sweet girl, she has it on; not on her fair
 neck, but loose upon her flowing figure. A dozen hands assist her. She
 is all confusion. The youngest gentleman in company thirsts to murder
 Jinkins. She skips and joins her sister at the door. Her sister has her
 arm about the waist of Mrs Todgers. She winds her arm around her sister.
-Diana, what a picture! The last things visible are a shape and a skip.
+[[Diana]], what a picture! The last things visible are a shape and a skip.
 ‘Gentlemen, let us drink the ladies!’
 
 The enthusiasm is tremendous. The gentleman of a debating turn rises in
@@ -878,10 +878,10 @@ feels that a mysterious influence pervades the man who claims that being
 in the pink scarf for his daughter.
 
 What saith Mr Pecksniff in reply? Or rather let the question be, What
-leaves he unsaid? Nothing. More punch is called for, and produced, and
+[[Leaves|leaves]] he unsaid? Nothing. More punch is called for, and produced, and
 drunk. Enthusiasm mounts still higher. Every man comes out freely in
 his own character. The gentleman of a theatrical turn recites. The vocal
-gentleman regales them with a song. Gander leaves the Gander of all
+gentleman regales them with a [[Song|song]]. Gander [[Leaves|leaves]] the Gander of all
 former feasts whole leagues behind. HE rises to propose a toast. It is,
 The Father of Todgers’s. It is their common friend Jink--it is old
 Jink, if he may call him by that familiar and endearing appellation. The
@@ -900,7 +900,7 @@ reminds them, amidst thunders of encouragement, that they have heard of
 a somewhat similar establishment in Cannon Street; and that they have
 heard it praised. He wishes to draw no invidious comparisons; he would
 be the last man to do it; but when that Cannon Street establishment
-shall be able to produce such a combination of wit and beauty as has
+shall be able to produce such a combination of wit and [[Beauty|beauty]] as has
 graced that board that day, and shall be able to serve up (all things
 considered) such a dinner as that of which they have just partaken, he
 will be happy to talk to it. Until then, gentlemen, he will stick to
@@ -911,26 +911,26 @@ saving the youngest gentleman’s in company. He sits apart, with his
 elbow on the back of a vacant chair, and glares disdainfully at Jinkins.
 Gander, in a convulsing speech, gives them the health of Bailey junior;
 hiccups are heard; and a glass is broken. Mr Jinkins feels that it is
-time to join the ladies. He proposes, as a final sentiment, Mrs Todgers.
+[[Time|time]] to join the ladies. He proposes, as a final sentiment, Mrs Todgers.
 She is worthy to be remembered separately. Hear, hear. So she is; no
-doubt of it. They all find fault with her at other times; but every man
+[[Doubt|doubt]] of it. They all find fault with her at other times; but every man
 feels now, that he could die in her defence.
 
 They go upstairs, where they are not expected so soon; for Mrs Todgers
-is asleep, Miss Charity is adjusting her hair, and Mercy, who has made
-a sofa of one of the window-seats is in a gracefully recumbent attitude.
+is asleep, Miss [[Charity]] is adjusting her hair, and [[Mercy]], who has made
+a sofa of one of the [[Window|window]]-seats is in a gracefully recumbent attitude.
 She is rising hastily, when Mr Jinkins implores her, for all their
 sakes, not to stir; she looks too graceful and too lovely, he remarks,
 to be disturbed. She laughs, and yields, and fans herself, and drops
 her fan, and there is a rush to pick it up. Being now installed, by one
-consent, as the beauty of the party, she is cruel and capricious, and
+consent, as the [[Beauty|beauty]] of the party, she is cruel and capricious, and
 sends gentlemen on messages to other gentlemen, and forgets all about
 them before they can return with the answer, and invents a thousand
 tortures, rending their hearts to pieces. Bailey brings up the tea and
-coffee. There is a small cluster of admirers round Charity; but they
+coffee. There is a small cluster of admirers round [[Charity]]; but they
 are only those who cannot get near her sister. The youngest gentleman
 in company is pale, but collected, and still sits apart; for his spirit
-loves to hold communion with itself, and his soul recoils from noisy
+loves to hold communion with itself, and his [[Soul|soul]] recoils from noisy
 revellers. She has a consciousness of his presence and adoration.
 He sees it flashing sometimes in the corner of her eye. Have a care,
 Jinkins, ere you provoke a desperate man to frenzy!
@@ -949,7 +949,7 @@ Todgers!’
 ‘My goodness!’ exclaimed that lady. ‘How low you are in your spirits,
 sir!’
 
-‘I am a man, my dear madam,’ said Mr Pecksniff, shedding tears and
+‘I am a man, my dear madam,’ said Mr Pecksniff, shedding [[Tears|tears]] and
 speaking with an imperfect articulation, ‘but I am also a father. I
 am also a widower. My feelings, Mrs Todgers, will not consent to be
 entirely smothered, like the young children in the Tower. They are grown
@@ -969,10 +969,10 @@ property.’
 ‘Those are her daughters,’ said Mr Pecksniff, pointing out the young
 ladies, with increased emotion.
 
-Mrs Todgers had no doubt about it.
+Mrs Todgers had no [[Doubt|doubt]] about it.
 
-‘Mercy and Charity,’ said Mr Pecksniff, ‘Charity and Mercy. Not unholy
-names, I hope?’
+‘[[Mercy]] and [[Charity]],’ said Mr Pecksniff, ‘[[Charity]] and [[Mercy]]. Not unholy
+names, I [[Hope|hope]]?’
 
 ‘Mr Pecksniff!’ cried Mrs Todgers. ‘What a ghastly smile! Are you ill,
 sir?’
@@ -983,18 +983,18 @@ faint voice, ‘Chronic.’
 ‘Cholic?’ cried the frightened Mrs Todgers.
 
 ‘Chron-ic,’ he repeated with some difficulty. ‘Chron-ic. A chronic
-disorder. I have been its victim from childhood. It is carrying me to my
-grave.’
+disorder. I have been its victim from [[Childhood|childhood]]. It is carrying me to my
+[[Grave|grave]].’
 
 ‘Heaven forbid!’ cried Mrs Todgers.
 
-‘Yes, it is,’ said Mr Pecksniff, reckless with despair. ‘I am rather
+‘Yes, it is,’ said Mr Pecksniff, reckless with [[Despair|despair]]. ‘I am rather
 glad of it, upon the whole. You are like her, Mrs Todgers.’
 
 ‘Don’t squeeze me so tight, pray, Mr Pecksniff. If any of the gentlemen
 should notice us.’
 
-‘For her sake,’ said Mr Pecksniff. ‘Permit me--in honour of her memory.
+‘For her sake,’ said Mr Pecksniff. ‘Permit me--in [[Honour|honour]] of her [[Memory|memory]].
 For the sake of a voice from the tomb. You are VERY like her Mrs
 Todgers! What a world this is!’
 
@@ -1007,7 +1007,7 @@ hand, Mrs Todgers.’
 
 The lady hesitated, and said ‘she didn’t like.’
 
-‘Has a voice from the grave no influence?’ said Mr Pecksniff, with,
+‘Has a voice from the [[Grave|grave]] no influence?’ said Mr Pecksniff, with,
 dismal tenderness. ‘This is irreligious! My dear creature.’
 
 ‘Hush!’ urged Mrs Todgers. ‘Really you mustn’t.’
@@ -1016,13 +1016,13 @@ dismal tenderness. ‘This is irreligious! My dear creature.’
 voice; it’s her voice.’
 
 Mrs Pecksniff deceased, must have had an unusually thick and husky voice
-for a lady, and rather a stuttering voice, and to say the truth somewhat
+for a lady, and rather a stuttering voice, and to say the [[Truth|truth]] somewhat
 of a drunken voice, if it had ever borne much resemblance to that in
 which Mr Pecksniff spoke just then. But perhaps this was delusion on his
 part.
 
 ‘It has been a day of enjoyment, Mrs Todgers, but still it has been a
-day of torture. It has reminded me of my loneliness. What am I in the
+day of torture. It has reminded me of my [[Loneliness|loneliness]]. What am I in the
 world?’
 
 ‘An excellent gentleman, Mr Pecksniff,’ said Mrs Todgers.
@@ -1031,7 +1031,7 @@ world?’
 
 ‘There is no better man living,’ said Mrs Todgers, ‘I am sure.’
 
-Mr Pecksniff smiled through his tears, and slightly shook his head. ‘You
+Mr Pecksniff smiled through his [[Tears|tears]], and slightly shook his head. ‘You
 are very good,’ he said, ‘thank you. It is a great happiness to me, Mrs
 Todgers, to make young people happy. The happiness of my pupils is my
 chief object. I dote upon ‘em. They dote upon me too--sometimes.’
@@ -1055,26 +1055,26 @@ confidence, Mrs Todgers?’
 
 ‘To Parents and Guardians,’ repeated Mr Pecksniff. ‘An eligible
 opportunity now offers, which unites the advantages of the best
-practical architectural education with the comforts of a home, and the
+practical architectural [[Education|education]] with the comforts of a [[Home|home]], and the
 constant association with some, who, however humble their sphere and
 limited their capacity--observe!--are not unmindful of their moral
 responsibilities.’
 
 Mrs Todgers looked a little puzzled to know what this might mean, as
-well she might; for it was, as the reader may perchance remember, Mr
+[[Well|well]] she might; for it was, as the reader may perchance remember, Mr
 Pecksniff’s usual form of advertisement when he wanted a pupil; and
 seemed to have no particular reference, at present, to anything. But Mr
 Pecksniff held up his finger as a caution to her not to interrupt him.
 
 ‘Do you know any parent or guardian, Mrs Todgers,’ said Mr Pecksniff,
 ‘who desires to avail himself of such an opportunity for a young
-gentleman? An orphan would be preferred. Do you know of any orphan with
+gentleman? An [[Orphan|orphan]] would be preferred. Do you know of any [[Orphan|orphan]] with
 three or four hundred pound?’
 
 Mrs Todgers reflected, and shook her head.
 
-‘When you hear of an orphan with three or four hundred pound,’ said Mr
-Pecksniff, ‘let that dear orphan’s friends apply, by letter post-paid,
+‘When you hear of an [[Orphan|orphan]] with three or four hundred pound,’ said Mr
+Pecksniff, ‘let that dear [[Orphan|orphan]]’s friends apply, by letter post-paid,
 to S. P., Post Office, Salisbury. I don’t know who he is exactly. Don’t
 be alarmed, Mrs Todgers,’ said Mr Pecksniff, falling heavily against
 her; ‘Chronic--chronic! Let’s have a little drop of something to drink.’
@@ -1085,7 +1085,7 @@ pa’s took very poorly!’
 Mr Pecksniff straightened himself by a surprising effort, as every
 one turned hastily towards him; and standing on his feet, regarded the
 assembly with a look of ineffable wisdom. Gradually it gave place to
-a smile; a feeble, helpless, melancholy smile; bland, almost to
+a smile; a feeble, helpless, [[Melancholy|melancholy]] smile; bland, almost to
 sickliness. ‘Do not repine, my friends,’ said Mr Pecksniff, tenderly.
 ‘Do not weep for me. It is chronic.’ And with these words, after making
 a futile attempt to pull off his shoes, he fell into the fireplace.
@@ -1095,25 +1095,25 @@ hair upon his head was singed, he had him on the hearth-rug--her father!
 
 She was almost beside herself. So was her sister. Jinkins consoled them
 both. They all consoled them. Everybody had something to say, except the
-youngest gentleman in company, who with a noble self-devotion did the
+youngest gentleman in company, who with a noble [[Self|self]]-devotion did the
 heavy work, and held up Mr Pecksniff’s head without being taken notice
 of by anybody. At last they gathered round, and agreed to carry him
 upstairs to bed. The youngest gentleman in company was rebuked by
 Jinkins for tearing Mr Pecksniff’s coat! Ha, ha! But no matter.
 
 They carried him upstairs, and crushed the youngest gentleman at every
-step. His bedroom was at the top of the house, and it was a long way;
-but they got him there in course of time. He asked them frequently
-on the road for a little drop of something to drink. It seemed an
+step. His bedroom was at the top of the [[house]], and it was a long way;
+but they got him there in course of [[Time|time]]. He asked them frequently
+on the [[Road|road]] for a little drop of something to drink. It seemed an
 idiosyncrasy. The youngest gentleman in company proposed a draught of
-water. Mr Pecksniff called him opprobious names for the suggestion.
+[[Water|water]]. Mr Pecksniff called him opprobious names for the suggestion.
 
 Jinkins and Gander took the rest upon themselves, and made him as
 comfortable as they could, on the outside of his bed; and when he seemed
-disposed to sleep, they left him. But before they had all gained the
-bottom of the staircase, a vision of Mr Pecksniff, strangely attired,
+disposed to [[Sleep|sleep]], they left him. But before they had all gained the
+[[Bottom|bottom]] of the staircase, a vision of Mr Pecksniff, strangely attired,
 was seen to flutter on the top landing. He desired to collect their
-sentiments, it seemed, upon the nature of human life.
+sentiments, it seemed, upon the [[Nature|nature]] of human life.
 
 ‘My friends,’ cried Mr Pecksniff, looking over the banisters, ‘let us
 improve our minds by mutual inquiry and discussion. Let us be moral. Let
@@ -1123,7 +1123,7 @@ us contemplate existence. Where is Jinkins?’
 
 ‘To bed!’ said Mr Pecksniff. ‘Bed! ‘Tis the voice of the sluggard, I
 hear him complain, you have woke me too soon, I must slumber again. If
-any young orphan will repeat the remainder of that simple piece from
+any young [[Orphan|orphan]] will repeat the remainder of that simple piece from
 Doctor Watts’s collection, an eligible opportunity now offers.’
 
 Nobody volunteered.
@@ -1131,10 +1131,10 @@ Nobody volunteered.
 ‘This is very soothing,’ said Mr Pecksniff, after a pause. ‘Extremely
 so. Cool and refreshing; particularly to the legs! The legs of the
 human subject, my friends, are a beautiful production. Compare them with
-wooden legs, and observe the difference between the anatomy of nature
+wooden legs, and observe the difference between the anatomy of [[Nature|nature]]
 and the anatomy of art. Do you know,’ said Mr Pecksniff, leaning over
 the banisters, with an odd recollection of his familiar manner among
-new pupils at home, ‘that I should very much like to see Mrs Todgers’s
+new pupils at [[Home|home]], ‘that I should very much like to see Mrs Todgers’s
 notion of a wooden leg, if perfectly agreeable to herself!’
 
 As it appeared impossible to entertain any reasonable hopes of him after
@@ -1144,11 +1144,11 @@ he was out again; nor, when they had repeated the process, had they
 descended the first flight, before he was out again. In a word, as often
 as he was shut up in his own room, he darted out afresh, charged
 with some new moral sentiment, which he continually repeated over the
-banisters, with extraordinary relish, and an irrepressible desire for
+banisters, with extraordinary relish, and an irrepressible [[Desire|desire]] for
 the improvement of his fellow creatures that nothing could subdue.
 
 Under these circumstances, when they had got him into bed for the
-thirtieth time or so, Mr Jinkins held him, while his companion went
+thirtieth [[Time|time]] or so, Mr Jinkins held him, while his companion went
 downstairs in search of Bailey junior, with whom he presently returned.
 That youth having been apprised of the service required of him, was in
 great spirits, and brought up a stool, a candle, and his supper; to the
@@ -1157,8 +1157,8 @@ comfort.
 
 When he had completed his arrangements, they locked Mr Pecksniff in,
 and left the key on the outside; charging the young page to listen
-attentively for symptoms of an apoplectic nature, with which the patient
+attentively for symptoms of an apoplectic [[Nature|nature]], with which the patient
 might be troubled, and, in case of any such presenting themselves, to
 summon them without delay. To which Mr Bailey modestly replied that
-‘he hoped he knowed wot o’clock it wos in gineral, and didn’t date his
+‘he hoped he knowed wot o’[[Clock|clock]] it wos in gineral, and didn’t date his
 letters to his friends from Todgers’s for nothing.’

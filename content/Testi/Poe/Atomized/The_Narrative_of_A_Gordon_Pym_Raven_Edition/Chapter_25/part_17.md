@@ -24,17 +24,17 @@ tags:
 
       the hills, you have described, with the minutest accuracy, the
 
-      Indian city of Benares, upon the Holy River. The riots, the
+      Indian [[City|city]] of Benares, upon the Holy [[River]]. The riots, the
 
       combat, the massacre, were the actual events of the insurrection
 
-      of Cheyte Sing, which took place in 1780, when Hastings was put
+      of Cheyte Sing, which took place in 1780, when [[Hastings]] was put
 
       in imminent peril of his life. The man escaping by the string of
 
       turbans was Cheyte Sing himself. The party in the kiosk were
 
-      sepoys and British officers, headed by Hastings. Of this party I
+      sepoys and British officers, headed by [[Hastings]]. Of this party I
 
       was one, and did all I could to prevent the rash and fatal sally
 
@@ -50,7 +50,7 @@ tags:
 
       these things amid the hills, I was engaged in detailing them upon
 
-      paper here at home.”
+      paper here at [[Home|home]].”
 
 
 
@@ -60,7 +60,7 @@ tags:
 
 
 
-      “We have the painful duty of announcing the death of Mr. Augustus
+      “We have the painful duty of announcing the [[Death|death]] of Mr. Augustus
 
       Bedlo, a gentleman whose amiable manners and many virtues have
 
@@ -76,9 +76,9 @@ tags:
 
       cause was one of especial singularity. In an excursion to the
 
-      Ragged Mountains, a few days since, a slight cold and fever were
+      Ragged [[Mountains]], a few days since, a slight cold and fever were
 
-      contracted, attended with great determination of blood to the
+      contracted, attended with great determination of [[Blood|blood]] to the
 
       head. To relieve this, Dr. Templeton resorted to topical
 
@@ -138,7 +138,7 @@ tags:
 
       “Then,” said I mutteringly, as I turned upon my heel, “then
 
-      indeed has it come to pass that one truth is stranger than any
+      indeed has it come to pass that one [[Truth|truth]] is stranger than any
 
       fiction—for Bedloe, without the e, what is it but Oldeb
 
@@ -160,7 +160,7 @@ THE SPECTACLES
 
 
 
-      Many years ago, it was the fashion to ridicule the idea of “love
+      Many years ago, it was the fashion to ridicule the idea of “[[Love|love]]
 
       at first sight;” but those who think, not less than those who
 
@@ -180,7 +180,7 @@ THE SPECTACLES
 
       am about to make will add another to the already almost
 
-      innumerable instances of the truth of the position.
+      innumerable instances of the [[Truth|truth]] of the position.
 
 
 
@@ -208,7 +208,7 @@ THE SPECTACLES
 
       I assumed the name, Simpson, with some reluctance, as in my true
 
-      patronym, Froissart, I felt a very pardonable pride—believing
+      patronym, Froissart, I felt a very pardonable [[Pride|pride]]—believing
 
       that I could trace a descent from the immortal author of the
 
@@ -218,7 +218,7 @@ THE SPECTACLES
 
       some of my immediate predecessors. My father was a Monsieur
 
-      Froissart, of Paris. His wife—my mother, whom he married at
+      Froissart, of [[Paris]]. His wife—my mother, whom he married at
 
       fifteen—was a Mademoiselle Croissart, eldest daughter of
 
@@ -228,6 +228,6 @@ THE SPECTACLES
 
       Voissart, very singularly, had married a lady of similar name—a
 
-      Mademoiselle Moissart. She, too, was quite a child when married;
+      Mademoiselle Moissart. She, too, was quite a [[Child|child]] when married;
 
       and her mother, also, Madame Moissart, was only fourteen when led

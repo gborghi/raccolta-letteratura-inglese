@@ -1,5 +1,5 @@
 ---
-title: "Common Man — The Dangers Of Necromancy"
+title: "[[Common Man]] — The Dangers Of Necromancy"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -31,10 +31,10 @@ are alike mere myths and guesses at what man can never know.
 But I think that is a narrow negation, sprung from special spiritual
 conditions in Upper Tooting.  My idea of broadmindedness is to sympathise
 with so many of these separate spiritual atmospheres as possible;
-to respect or love the Buddhists of Tibet or the agnostics of Tooting
-for their many real virtues and capacities, but to have a philosophy
+to respect or [[Love|love]] the Buddhists of Tibet or the agnostics of Tooting
+for their many real virtues and capacities, but to have a [[philosophy]]
 which explains each of them in turn and does not merely generalise
-from one of them.  This I have found in the Catholic philosophy;
+from one of them.  This I have found in the Catholic [[philosophy]];
 but that is not the question here, except in so far as there is,
 I think, just this difference:  that the largeness of the other
 schemes is an unreal largeness of generalisation, whereas the
@@ -43,15 +43,15 @@ Anybody can say that all Africans are black, but it is not the same
 as having a wide experience of Africa.
 
 This difference about the obvious in generalisation struck
-me sharply, and with some amusement, in a debate on Spiritualism
-in the Daily News.  A well-known secularist said that it is all
-very well to say that scientific men and intelligent people
+me sharply, and with some amusement, in a [[debate]] on Spiritualism
+in the Daily News.  A [[Well|well]]-known secularist said that it is all
+very [[Well|well]] to say that scientific men and intelligent people
 accept Spiritualism; but (he added, as with a sort of hiss)
 remember that wise men for ages actually accepted Witchcraft.
 He returned more than once to this biting and blasting word;
 and the argument obviously was, "Modern spirit-rapping by men like Lodge
 may look very plausible and scientific; but a ghastly fate awaits you;
-you will be the derision of history; you will be compared to the brutal,
+you will be the derision of [[history]]; you will be compared to the brutal,
 brainless, bestially ignorant people who believed in Witchcraft.
 Ha, ha, how will you like that?"
 
@@ -68,22 +68,22 @@ the habit of invoking evil spirits, often because they were evil,
 has existed in far too vast a variety of different cultures,
 classes and social conditions to be a chance piece of childish credulity.
 Experience will show that it is not true that it disappears
-everywhere before the advance of education; on the contrary,
+everywhere before the advance of [[Education|education]]; on the contrary,
 some of its most evil ministers have been the most highly educated.
 Record will show that it is not true that it marks barbarism rather
 than civilisation; there was more devil-worship in the cities of Hannibal
 and Montezuma than among the Esquimaux or the Australian bushmen.
 And any real knowledge of modern cities will show that it is going
-on in London and Paris today.
+on in [[London]] and [[Paris]] today.
 
-The truth is that the eighteenth and nineteenth centuries had
+The [[Truth|truth]] is that the eighteenth and nineteenth centuries had
 their little local limitations, which are already breaking down.
 Wishing to expel the superhuman and exalt the human, they grossly
 simplified the human.  The great Huxley (on whose name be praise)
-said in the innocence of his heart, "It may be doubted if any man
+said in the [[innocence]] of his heart, "It may be doubted if any man
 ever really said, 'Evil, be thou my good.'"  He could not believe
-that any scepticism could touch common morality, by which he really
-meant Christian morality.  But such innocence is also ignorance.
+that any scepticism could touch common [[morality]], by which he really
+meant Christian [[morality]].  But such [[innocence]] is also ignorance.
 Nothing is more certain than that certain highly lucid,
 cultivated and deliberate men have said, "Evil, be thou my good";
 men like Gilles de Rais and the Marquis de Sade.  Please God they
@@ -94,7 +94,7 @@ of this world; and called evil forces from beyond.  There is very
 good evidence that some of them got what they asked for.
 
 Now a Catholic starts with all this realistic experience of humanity
-and history.  A Spiritualist generally starts with the recent
+and [[history]].  A Spiritualist generally starts with the recent
 nineteenth-century optimism, in which his creed was born,
 which vaguely assumes that if there is anything spiritual,
 it is happier, higher, lovelier and loftier than anything we yet know;
@@ -108,4 +108,4 @@ One sentimental fashion may assume there are no cannibals;
 another optimistic fashion that there are no devil-worshippers--
 or no devils.  But there are.  That is the fact of experience
 that is the key to many mysteries, including the mysterious policy
-of the Roman Catholic Church.
+of the Roman [[Catholic Church]].

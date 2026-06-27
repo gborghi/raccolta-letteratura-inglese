@@ -18,10 +18,10 @@ tags:
 
 “Permit me,” said the Doctor, “one moment. Allow me to present Mrs
 Blimber and my daughter; who will be associated with the domestic life
-of our young Pilgrim to Parnassus Mrs Blimber,” for the lady, who had
+of our young [[Pilgrim]] to Parnassus Mrs Blimber,” for the lady, who had
 perhaps been in waiting, opportunely entered, followed by her daughter,
 that fair Sexton in spectacles, “Mr Dombey. My daughter Cornelia, Mr
-Dombey. Mr Dombey, my love,” pursued the Doctor, turning to his wife,
+Dombey. Mr Dombey, my [[Love|love]],” pursued the Doctor, turning to his wife,
 “is so confiding as to—do you see our little friend?”
 
 Mrs Blimber, in an excess of politeness, of which Mr Dombey was the
@@ -32,8 +32,8 @@ lineaments, and turning again to Mr Dombey, said, with a sigh, that she
 envied his dear son.
 
 “Like a bee, Sir,” said Mrs Blimber, with uplifted eyes, “about to
-plunge into a garden of the choicest flowers, and sip the sweets for
-the first time Virgil, Horace, Ovid, Terence, Plautus, Cicero. What a
+plunge into a [[Garden|garden]] of the choicest [[Flowers|flowers]], and sip the sweets for
+the first [[Time|time]] Virgil, Horace, Ovid, Terence, Plautus, Cicero. What a
 world of honey have we here. It may appear remarkable, Mr Dombey, in
 one who is a wife—the wife of such a husband—”
 
@@ -43,7 +43,7 @@ one who is a wife—the wife of such a husband—”
 with an engaging smile.
 
 Mr Dombey answered “Not at all:” applying those words, it is to be
-presumed, to the partiality, and not to the forgiveness.
+presumed, to the partiality, and not to the [[Forgiveness|forgiveness]].
 
 “And it may seem remarkable in one who is a mother also,” resumed Mrs
 Blimber.
@@ -80,9 +80,9 @@ much at finding himself among strangers, and chuckled aloud.
 “An addition to our little Portico, Toots,” said the Doctor; “Mr
 Dombey’s son.”
 
-Young Toots blushed again; and finding, from a solemn silence which
+Young Toots blushed again; and finding, from a solemn [[Silence|silence]] which
 prevailed, that he was expected to say something, said to Paul, “How
-are you?” in a voice so deep, and a manner so sheepish, that if a lamb
+are you?” in a voice so deep, and a manner so sheepish, that if a [[Lamb|lamb]]
 had roared it couldn’t have been more surprising.
 
 “Ask Mr Feeder, if you please, Toots,” said the Doctor, “to prepare a
@@ -118,7 +118,7 @@ swiftly vanished, and appeared no more.
 Mr Dombey and his conductress were soon heard coming downstairs again,
 talking all the way; and presently they re-entered the Doctor’s study.
 
-“I hope, Mr Dombey,” said the Doctor, laying down his book, “that the
+“I [[Hope|hope]], Mr Dombey,” said the Doctor, laying down his book, “that the
 arrangements meet your approval.”
 
 “They are excellent, Sir,” said Mr Dombey.
@@ -134,7 +134,7 @@ permission, Doctor and Mrs Blimber, visit Paul now and then.”
 “Always happy to see her,” said Mrs Blimber.
 
 “I think,” said Mr Dombey, “I have given all the trouble I need, and
-may take my leave. Paul, my child,” he went close to him, as he sat
+may take my leave. Paul, my [[Child|child]],” he went close to him, as he sat
 upon the table. “Good-bye.”
 
 “Good-bye, Papa.”

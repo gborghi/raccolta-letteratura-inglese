@@ -1,5 +1,5 @@
 ---
-title: "The Flying Inn — Chapter 10: THE CHARACTER OF QUOODLE (part 3)"
+title: "The Flying Inn — Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Flying-Inn-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-“You are right,” said Joan, looking at him with some wonder, “I have felt like that myself.”
+“You are right,” said Joan, looking at him with some [[Wonder|wonder]], “I have felt like that myself.”
 
 
 
 
-“This art,” went on Ivywood as in a dream, “does indeed take the wings of the morning and abide in the uttermost parts of the sea. They say it contains no form of life, but surely we can read its alphabet as easily as the red hieroglyphics of sunrise and sunset which are on the fringes of the robe of God.”
+“This art,” went on Ivywood as in [[A Dream|a dream]], “does indeed take the wings of the morning and abide in the uttermost parts of the sea. They say it contains no form of life, but surely we can read its alphabet as easily as the red hieroglyphics of sunrise and sunset which are on the fringes of the robe of God.”
 
 
 
@@ -29,7 +29,7 @@ tags:
 
 
 
-Mr. Quoodle could stand it no longer. He had evidently formed a very low opinion of the turret chamber and of oriental art generally, but seeing Joan’s attention once more transferred to his rival, he trotted out into the longer room, and finding the gap in the woodwork which was soon to be boarded up, but which still opened on an old dark staircase, he went “galumphing” down the stairs.
+Mr. [[quoodle|Quoodle]] could stand it no longer. He had evidently formed a very low opinion of the turret chamber and of oriental art generally, but seeing Joan’s attention once more transferred to his rival, he trotted out into the longer room, and finding the gap in the woodwork which was soon to be boarded up, but which still opened on an old dark staircase, he went “galumphing” down the stairs.
 
 
 
@@ -39,17 +39,17 @@ Lord Ivywood gently placed the bird on the girl’s own finger, and went to one 
 
 
 
-“Look here,” he said, “doesn’t this express what we both feel? Isn’t this the sort of fairy-tale house that ought to hang on the last wall of the world?”
+“Look here,” he said, “doesn’t this express what we both feel? Isn’t this the sort of fairy-tale [[house]] that ought to hang on the last wall of the world?”
 
 
 
 
-And he motioned her to the window-sill, just outside which hung the bird’s empty cage, beautifully wrought in brass or some of the yellow metals.
+And he motioned her to the [[Window|window]]-sill, just outside which hung the bird’s empty cage, beautifully wrought in brass or some of the yellow metals.
 
 
 
 
-“Why that is the best of all!” cried Lady Joan. “It makes one feel as if it really were the Arabian Nights. As if this were a tower of the gigantic Genii with turrets up to the moon; and this were an enchanted Prince caged in a golden palace suspended by the evening star.”
+“Why that is the best of all!” cried Lady Joan. “It makes one feel as if it really were the Arabian Nights. As if this were a tower of the gigantic Genii with turrets up to the [[Moon|moon]]; and this were an enchanted Prince caged in a golden palace suspended by the [[Evening Star|evening star]].”
 
 
 
@@ -79,7 +79,7 @@ Ivywood turned with a mild, grey eye.
 
 
 
-The dog after whom she inquired had in truth trundled down a dark, winding staircase and turned into the daylight, into a part of the garden he had never seen before; nor, indeed, had anybody else for some time past. It was altogether tangled and overgrown with weeds, and the only trace of human handiwork, the wreck of an old Gothic Chapel, stood waist high in numberless nettles and soiled with crawling fungoids. Most of these merely discoloured the grey crumbling stone with shades of bronze or brown; but some of them, particularly on the side farthest from the house, were of orange or purple tints almost bright enough for Lord Ivywood’s oriental decoration. Some fanciful eyes that fell on the place afterward found something like an allegory in those graven and broken saints or archangels feeding such fiery and ephemeral parasites as those toadstools like blood or gold. But Mr. Quoodle had never set himself up as an allegorist, and he merely trotted deeper and deeper into the grey-green English jungle. He grumbled very much at the thistles and nettles, much as a city man will grumble at the jostling of a crowd. But he continued to press forward, with his nose near the ground, as if he had already smelt something that interested him. And, indeed, he had smelt something in which a dog, except on special occasions, is much more interested than he is in dogs. Breaking through a last barrier of high and hoary purple thistles he came out on a semicircle of somewhat clearer ground, dotted with slender trees, and having, by way of back scene, the brown brick arch of an old tunnel. The tunnel was boarded up with a very irregular fence or mask made of motley wooden lathes, and looked, somehow, rather like a pantomime cottage. In front of this a sturdy man in very shabby shooting clothes was standing attending to a battered old frying-pan which he held over a rather irregular flame which, small as it was, smelt strongly of burnt rum. In the frying-pan, and also on the top of a cask or barrel that served for a table hard by, were a number of the grey, brown, and even orange fungi which were plastered over the stone angels and dragons of the fallen chapel.
+The dog after whom she inquired had in [[Truth|truth]] trundled down a dark, winding staircase and turned into the daylight, into a part of the [[Garden|garden]] he had never seen before; nor, indeed, had anybody else for some [[Time|time]] past. It was altogether tangled and overgrown with weeds, and the only trace of human handiwork, the wreck of an old Gothic Chapel, stood waist high in numberless nettles and soiled with crawling fungoids. Most of these merely discoloured the grey crumbling stone with shades of bronze or brown; but some of them, particularly on the side farthest from the [[house]], were of orange or purple tints almost bright enough for Lord Ivywood’s oriental decoration. Some fanciful eyes that fell on the place afterward found something like an [[Allegory|allegory]] in those graven and broken saints or archangels feeding such fiery and [[ephemeral]] parasites as those toadstools like [[Blood|blood]] or gold. But Mr. [[quoodle|Quoodle]] had never set himself up as an allegorist, and he merely trotted deeper and deeper into the grey-green English jungle. He grumbled very much at the thistles and nettles, much as a [[City|city]] man will grumble at the jostling of a crowd. But he continued to press forward, with his nose near the ground, as if he had already smelt something that interested him. And, indeed, he had smelt something in which a dog, except on special occasions, is much more interested than he is in [[dogs]]. Breaking through a last barrier of high and hoary purple thistles he came out on a semicircle of somewhat clearer ground, dotted with slender trees, and having, by way of back scene, the brown brick arch of an old tunnel. The tunnel was boarded up with a very irregular fence or mask made of motley wooden lathes, and looked, somehow, rather like a pantomime cottage. In front of this a sturdy man in very shabby shooting clothes was standing attending to a battered old frying-pan which he held over a rather irregular flame which, small as it was, smelt strongly of burnt rum. In the frying-pan, and also on the top of a cask or barrel that served for a table hard by, were a number of the grey, brown, and even orange fungi which were plastered over the stone angels and dragons of the fallen chapel.
 
 
 
@@ -94,22 +94,22 @@ The dog trotted across to him and began nosing and sniffing round his dilapidate
 
 
 
-A very crooked kind of window in the upper part of the pantomime cottage burst open and an enormous head, with erect, startling, and almost scarlet hair and blue eyes as big as a bullfrog’s, was thrust out above the scene.
+A very crooked kind of [[Window|window]] in the upper part of the pantomime cottage burst open and an enormous head, with erect, startling, and almost scarlet hair and blue eyes as big as a bullfrog’s, was thrust out above the scene.
 
 
 
 
-“Hump,” cried the ogre. “Me moral counsels have been thrown away. In the last week I’ve sung you fourteen and a half songs of me own composition; instead of which you go about stealing dogs. You’re following in the path of Parson Whats-his-name in every way, I’m afraid.”
+“Hump,” cried the ogre. “Me moral counsels have been thrown away. In the last week I’ve sung you fourteen and a half [[songs]] of me own composition; instead of which you go about stealing [[dogs]]. You’re following in the path of Parson Whats-his-name in every way, I’m afraid.”
 
 
 
 
-“No,” said the man with the frying pan, impartially, “Parson Whitelady struck a very good path for doubling on Pebblewick, that I was glad to follow. But I think he was quite silly to steal dogs. He was young and brought up pious. I know too much about dogs to steal one.”
+“No,” said the man with the frying pan, impartially, “Parson Whitelady struck a very good path for doubling on Pebblewick, that I was glad to follow. But I think he was quite silly to steal [[dogs]]. He was young and brought up pious. I know too much about [[dogs]] to steal one.”
 
 
 
 
-“Well,” asked the large red-haired man, “and how do you get a dog like that?”
+“[[Well]],” asked the large red-haired man, “and how do you get a dog like that?”
 
 
 

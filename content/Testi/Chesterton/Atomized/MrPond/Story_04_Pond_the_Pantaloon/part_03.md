@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Pond the Pantaloon (part 3)"
+title: "[[MrPond]] — Pond the Pantaloon (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -42,7 +42,7 @@ than anybody would send an important letter by registered post."
 
 
 
-"Well, you must pardon my dullness," said Sir Hubert, "but, as a
+"[[Well]], you must pardon my dullness," said Sir [[Hubert]], "but, as a
 
 matter of fact, I have heard of people sending an important letter
 
@@ -68,7 +68,7 @@ amusement.
 
 to prevent a document from being dropped down a drain, or thrown
 
-into a dustbin, or used to light the fire or to make a bird's nest,
+into a dustbin, or used to light the [[Fire|fire]] or to make a bird's nest,
 
 or any other accident of neglect, then it is a good thing to draw
 
@@ -98,7 +98,7 @@ and sent along with a thousand others looking exactly the same."
 
 It is a tribute to the essential shrewdness, underlying the
 
-apparent woodenness of Wotton and Dyer, that the paradox of Pond
+apparent woodenness of Wotton and Dyer, that the [[Paradox|paradox]] of Pond
 
 prevailed.  The documents, however, were too bulky to be treated as
 
@@ -130,9 +130,9 @@ country.  Now if we were in--"
 
 He shut his mouth rather sharply, as a discreet knock sounded on
 
-the door, and Sir Hubert's clerk glided in to say he had discharged
+the door, and Sir [[Hubert]]'s clerk glided in to say he had discharged
 
-his commission.  Sir Hubert did not see him at first, his frowning
+his commission.  Sir [[Hubert]] did not see him at first, his frowning
 
 gaze being fixed on the railway-map of the route to be pursued; and
 
@@ -150,7 +150,7 @@ costume; but his wide face had that indescribable look which is
 
 sometimes seen, of which we can only say that it suggests the large
 
-head on the little figure of a dwarf, or perhaps that sunken
+head on the little figure of a [[Dwarf|dwarf]], or perhaps that sunken
 
 between the shoulders of a hunchback; the face is not normal, even
 
@@ -162,7 +162,7 @@ noticeably ill at ease when he silently handed papers to his
 
 superior; and, last but not least, that he had started visibly when
 
-he saw the detective from Scotland Yard.
+he saw the [[Detective|detective]] from Scotland Yard.
 
 
 
@@ -196,7 +196,7 @@ enter or leave the station.
 
 "I have told our people they mustn't even let US out of the
 
-station," he said, "without close examination, for fear somebody
+station," he said, "without close examination, for [[Fear|fear]] somebody
 
 should have a fancy for dressing up as Mr. Pond."
 
@@ -210,13 +210,13 @@ station; and one can hardly say it looks particularly festive."
 
 
 
-Nothing, indeed, can well look more desolate than one of the
+Nothing, indeed, can [[Well|well]] look more desolate than one of the
 
 numerous side platforms of an empty railway-station on a dreary
 
-winter day; unless it is the empty Third Class Waiting-Room which
+[[Winter|winter]] day; unless it is the empty Third Class Waiting-Room which
 
-is provided to be a human refuge from the winter blast.  Somehow
+is provided to be a human refuge from the [[Winter|winter]] blast.  Somehow
 
 the waiting-room looks even less human than the platform from which
 

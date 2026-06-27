@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON. (part 2)"
+title: "[[Lady Susan]] — ATHERINE VERNON. (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -18,7 +18,7 @@ This was no explanation; I begged her to tell me what she meant. At
 
 that moment we were interrupted by a knock at the door: it was
 
-Reginald, who came, by Lady Susan’s direction, to call Frederica down.
+Reginald, who came, by [[Lady Susan]]’s direction, to call Frederica down.
 
 “It is Mr. De Courcy!” said she, colouring violently. “Mamma has sent
 
@@ -26,7 +26,7 @@ for me; I must go.” We all three went down together; and I saw my
 
 brother examining the terrified face of Frederica with surprize. In the
 
-breakfast-room we found Lady Susan, and a young man of gentlemanlike
+breakfast-room we found [[Lady Susan]], and a young man of gentlemanlike
 
 appearance, whom she introduced by the name of Sir James Martin—the
 
@@ -36,17 +36,17 @@ pains to detach from Miss Mainwaring; but the conquest, it seems, was
 
 not designed for herself, or she has since transferred it to her
 
-daughter; for Sir James is now desperately in love with Frederica, and
+daughter; for Sir James is now desperately in [[Love|love]] with Frederica, and
 
 with full encouragement from mamma. The poor girl, however, I am sure,
 
-dislikes him; and though his person and address are very well, he
+dislikes him; and though his person and address are very [[Well|well]], he
 
 appears, both to Mr. Vernon and me, a very weak young man. Frederica
 
 looked so shy, so confused, when we entered the room, that I felt for
 
-her exceedingly. Lady Susan behaved with great attention to her
+her exceedingly. [[Lady Susan]] behaved with great attention to her
 
 visitor; and yet I thought I could perceive that she had no particular
 
@@ -62,15 +62,15 @@ Susan three times that he had seen Mrs. Johnson a few evenings before.
 
 He now and then addressed Frederica, but more frequently her mother.
 
-The poor girl sat all this time without opening her lips—her eyes cast
+The poor girl sat all this [[Time|time]] without opening her lips—her eyes cast
 
 down, and her colour varying every instant; while Reginald observed all
 
-that passed in perfect silence. At length Lady Susan, weary, I believe,
+that passed in perfect [[Silence|silence]]. At length [[Lady Susan]], weary, I believe,
 
 of her situation, proposed walking; and we left the two gentlemen
 
-together, to put on our pelisses. As we went upstairs Lady Susan begged
+together, to put on our pelisses. As we went upstairs [[Lady Susan]] begged
 
 permission to attend me for a few moments in my dressing-room, as she
 
@@ -104,7 +104,7 @@ Frederica continued at school it had better not be known to exist; but
 
 now, as I am convinced that Frederica is too old ever to submit to
 
-school confinement, and have, therefore, begun to consider her union
+school confinement, and have, therefore, begun to consider her [[Union|union]]
 
 with Sir James as not very distant, I had intended within a few days to
 
@@ -144,9 +144,9 @@ sensations foreign to my heart; and therefore I trust you will believe
 
 me when I declare, that much as I had heard in your praise before I
 
-knew you, I had no idea that I should ever love you as I now do; and I
+knew you, I had no idea that I should ever [[Love|love]] you as I now do; and I
 
-must further say that your friendship towards me is more particularly
+must further say that your [[Friendship|friendship]] towards me is more particularly
 
 gratifying because I have reason to believe that some attempts were
 
@@ -164,7 +164,7 @@ present happiness.” What can one say of such a woman, my dear mother?
 
 Such earnestness, such solemnity of expression! and yet I cannot help
 
-suspecting the truth of everything she says. As for Reginald, I believe
+suspecting the [[Truth|truth]] of everything she says. As for Reginald, I believe
 
 he does not know what to make of the matter. When Sir James came, he
 
@@ -172,7 +172,7 @@ appeared all astonishment and perplexity; the folly of the young man
 
 and the confusion of Frederica entirely engrossed him; and though a
 
-little private discourse with Lady Susan has since had its effect, he
+little private discourse with [[Lady Susan]] has since had its effect, he
 
 is still hurt, I am sure, at her allowing of such a man’s attentions to
 
@@ -184,4 +184,4 @@ very impertinent, but he took the liberty of a relation; and concluded
 
 by wishing, with a laugh, that he might be really one very soon. Even
 
-Lady Susan seemed a little disconcerted by this forwardness; in her
+[[Lady Susan]] seemed a little disconcerted by this forwardness; in her

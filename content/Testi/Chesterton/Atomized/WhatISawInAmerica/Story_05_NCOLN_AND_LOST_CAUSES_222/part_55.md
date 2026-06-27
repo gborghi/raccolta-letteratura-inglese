@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 55)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 55)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 to an age and not to a nation. But some American police methods are evil
 
-past all parallel; and the detective can be more crooked than a hundred
+past all parallel; and the [[Detective|detective]] can be more crooked than a hundred
 
 crooks. But in the States it is not only possible that the policeman is
 
@@ -30,7 +30,7 @@ Christian seek relief in strong language and a trust in heaven--not to
 
 say in hell. And yet books even more popular than O. Henry's are those
 
-of the 'sob-sisterhood' who swim in lachrymose lakes after love-lorn
+of the 'sob-sisterhood' who swim in lachrymose lakes after [[Love|love]]-lorn
 
 spinsters, who pass their lives in reclaiming and consoling such tramps.
 
@@ -44,7 +44,7 @@ policeman does not confine himself fastidiously to bludgeoning bishops;
 
 his truncheon finds plenty of poor people's heads to hit; and yet I
 
-believe on my soul he has a sort of sympathy with poor people not to be
+believe on my [[Soul|soul]] he has a sort of sympathy with poor people not to be
 
 found in the police of more aristocratic states. I believe he also reads
 
@@ -54,11 +54,11 @@ fact, there is much of such pathos in an American magazine (my sole
 
 companion on many happy railway journeys) which is not only devoted to
 
-detective stories, but apparently edited by detectives. In these stories
+[[Detective|detective]] stories, but apparently edited by detectives. In these stories
 
 also there is the honest, popular astonishment at the Upper Ten
 
-expressed by the astronomical detective, if indeed he was a detective
+expressed by the astronomical [[Detective|detective]], if indeed he was a [[Detective|detective]]
 
 and not a demon from the dark Red-Indian forests that faded to the
 
@@ -102,13 +102,13 @@ hypothesis; it may be a fancy; it may be a forgery. But it is always an
 
 idol in the true sense of an image; and an image in the true sense of a
 
-thing mastering the imagination and not the reason. The power of these
+thing mastering the [[Imagination|imagination]] and not the reason. The power of these
 
 talismanic pictures is almost hypnotic to modern humanity. We can never
 
 forget that we have seen a portrait of the Missing Link; though we
 
-should instantly detect the lapse of logic into superstition, if we were
+should instantly detect the lapse of [[logic]] into superstition, if we were
 
 told that the old Greek agnostics had made a statue of the Unknown God.
 
@@ -118,13 +118,13 @@ same trick of fancy. We accept in a blind and literal spirit, not only
 
 images of speculation, but even figures of speech. The nineteenth
 
-century prided itself on having lost its faith in myths, and proceeded
+century prided itself on having lost its [[Faith|faith]] in myths, and proceeded
 
-to put all its faith in metaphors. It dismissed the old doctrines about
+to put all its [[Faith|faith]] in metaphors. It dismissed the old doctrines about
 
 the way of life and the light of the world; and then it proceeded to
 
-talk as if the light of truth were really and literally a light, that
+talk as if the light of [[Truth|truth]] were really and literally a light, that
 
 could be absorbed by merely opening our eyes; or as if the path of
 
@@ -132,15 +132,15 @@ progress were really and truly a path, to be found by merely following
 
 our noses. Thus the purpose of God is an idea, true or false; but the
 
-purpose of Nature is merely a metaphor; for obviously if there is no God
+purpose of [[Nature]] is merely a metaphor; for obviously if there is no God
 
 there is no purpose. Yet while men, by an imaginative instinct, spoke of
 
 the purpose of God with a grand agnosticism, as something too large to
 
-be seen, something reaching out to worlds and to eternities, they speak
+be seen, something reaching out to worlds and to [[eternities]], they speak
 
-of the purpose of Nature in particular and practical problems of curing
+of the purpose of [[Nature]] in particular and practical problems of curing
 
 babies or cutting up rabbits. This power of the modern metaphor must be
 
@@ -148,15 +148,15 @@ understood, by way of an introduction, if we are to understand one of
 
 the chief errors, at once evasive and pervasive, which perplex the
 
-problem of America.
+problem of [[America]].
 
 
 
-America is always spoken of as a young nation; and whether or no this be
+[[America]] is always spoken of as a young nation; and whether or no this be
 
 a valuable and suggestive metaphor, very few people notice that it is a
 
-metaphor at all. If somebody said that a certain deserving charity had
+metaphor at all. If somebody said that a certain deserving [[Charity|charity]] had
 
 just gone into trousers, we should recognise that it was a figure of
 
@@ -170,13 +170,13 @@ these phrases would mean the only thing that can possibly be meant by
 
 calling a corporate association of all sorts of people 'young'; that is,
 
-that a certain institution has only existed for a certain time. I am not
+that a certain institution has only existed for a certain [[Time|time]]. I am not
 
 now denying that such a corporate nationality may happen to have a
 
 psychology comparatively analogous to the psychology of youth. I am not
 
-even denying that America has it. I am only pointing out, to begin with,
+even denying that [[America]] has it. I am only pointing out, to begin with,
 
 that we must free ourselves from the talismanic tyranny of a metaphor
 
@@ -188,7 +188,7 @@ metaphors are metaphorical. They have some sort of hazy notion that
 
 American society must be growing, must be promising, must have the
 
-virtues of hope or the faults of ignorance, merely _because_ it has only
+virtues of [[Hope|hope]] or the faults of ignorance, merely _because_ it has only
 
 had a separate existence since the eighteenth century. And that is
 
@@ -198,6 +198,6 @@ limited liability company will soon have its second teeth.
 
 
 
-Now in truth this particular conception of American hopefulness would be
+Now in [[Truth|truth]] this particular conception of American hopefulness would be
 
-anything but hopeful for America. If the argument really were, as it is
+anything but hopeful for [[America]]. If the argument really were, as it is

@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 1: Sun and Shadow"
+title: "Little Dorrit — Chapter 1: Sun and [[Shadow]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,49 +14,49 @@ tags:
 </nav>
 
 
-CHAPTER 1. Sun and Shadow
+CHAPTER 1. Sun and [[Shadow]]
 
 
 Thirty years ago, Marseilles lay burning in the sun, one day.
 
 A blazing sun upon a fierce August day was no greater rarity in southern
-France then, than at any other time, before or since. Everything in
+France then, than at any other [[Time|time]], before or since. Everything in
 Marseilles, and about Marseilles, had stared at the fervid sky, and been
 stared at in return, until a staring habit had become universal there.
 Strangers were stared out of countenance by staring white houses,
-staring white walls, staring white streets, staring tracts of arid road,
+staring white walls, staring white streets, staring tracts of arid [[Road|road]],
 staring hills from which verdure was burnt away. The only things to be
 seen not fixedly staring and glaring were the vines drooping under their
 load of grapes. These did occasionally wink a little, as the hot air
-barely moved their faint leaves.
+barely moved their faint [[Leaves|leaves]].
 
-There was no wind to make a ripple on the foul water within the harbour,
+There was no [[Wind|wind]] to make a ripple on the foul [[Water|water]] within the harbour,
 or on the beautiful sea without. The line of demarcation between the two
 colours, black and blue, showed the point which the pure sea would not
 pass; but it lay as quiet as the abominable pool, with which it never
 mixed. Boats without awnings were too hot to touch; ships blistered at
-their moorings; the stones of the quays had not cooled, night or
+their moorings; the stones of the quays had not cooled, [[Night|night]] or
 day, for months. Hindoos, Russians, Chinese, Spaniards, Portuguese,
 Englishmen, Frenchmen, Genoese, Neapolitans, Venetians, Greeks, Turks,
 descendants from all the builders of Babel, come to trade at Marseilles,
 sought the shade alike--taking refuge in any hiding-place from a sea too
 intensely blue to be looked at, and a sky of purple, set with one great
-flaming jewel of fire.
+flaming [[Jewel|jewel]] of [[Fire|fire]].
 
 The universal stare made the eyes ache. Towards the distant line of
 Italian coast, indeed, it was a little relieved by light clouds of mist,
 slowly rising from the evaporation of the sea, but it softened nowhere
-else. Far away the staring roads, deep in dust, stared from the
-hill-side, stared from the hollow, stared from the interminable
+else. Far away the staring roads, deep in [[Dust|dust]], stared from the
+[[Hill|hill]]-side, stared from the hollow, stared from the interminable
 plain. Far away the dusty vines overhanging wayside cottages, and the
 monotonous wayside avenues of parched trees without shade, drooped
-beneath the stare of earth and sky. So did the horses with drowsy bells,
+beneath the stare of earth and sky. So did the horses with drowsy [[Bells|bells]],
 in long files of carts, creeping slowly towards the interior; so did
 their recumbent drivers, when they were awake, which rarely happened;
 so did the exhausted labourers in the fields. Everything that lived or
 grew, was oppressed by the glare; except the lizard, passing swiftly
 over rough stone walls, and the cicala, chirping his dry hot chirp, like
-a rattle. The very dust was scorched brown, and something quivered in
+a rattle. The very [[Dust|dust]] was scorched brown, and something quivered in
 the atmosphere as if the air itself were panting.
 
 Blinds, shutters, curtains, awnings, were all closed and drawn to keep
@@ -64,14 +64,14 @@ out the stare. Grant it but a chink or keyhole, and it shot in like a
 white-hot arrow. The churches were the freest from it. To come out of
 the twilight of pillars and arches--dreamily dotted with winking lamps,
 dreamily peopled with ugly old shadows piously dozing, spitting, and
-begging--was to plunge into a fiery river, and swim for life to the
+begging--was to plunge into a fiery [[River|river]], and swim for life to the
 nearest strip of shade. So, with people lounging and lying wherever
-shade was, with but little hum of tongues or barking of dogs, with
-occasional jangling of discordant church bells and rattling of vicious
+shade was, with but little hum of tongues or barking of [[dogs]], with
+occasional jangling of discordant church [[Bells|bells]] and rattling of vicious
 drums, Marseilles, a fact to be strongly smelt and tasted, lay broiling
 in the sun one day.
 
-In Marseilles that day there was a villainous prison. In one of its
+In Marseilles that day there was a villainous [[Prison|prison]]. In one of its
 chambers, so repulsive a place that even the obtrusive stare blinked at
 it, and left it to such refuse of reflected light as it could find for
 itself, were two men. Besides the two men, a notched and disfigured
@@ -82,9 +82,9 @@ the chamber held, exclusive of rats and other unseen vermin, in addition
 to the seen vermin, the two men.
 
 It received such light as it got through a grating of iron bars
-fashioned like a pretty large window, by means of which it could be
+fashioned like a pretty large [[Window|window]], by means of which it could be
 always inspected from the gloomy staircase on which the grating gave.
-There was a broad strong ledge of stone to this grating where the bottom
+There was a broad strong ledge of stone to this grating where the [[Bottom|bottom]]
 of it was let into the masonry, three or four feet above the ground.
 Upon it, one of the two men lolled, half sitting and half lying, with
 his knees drawn up, and his feet and shoulders planted against the
@@ -92,12 +92,12 @@ opposite sides of the aperture. The bars were wide enough apart to
 admit of his thrusting his arm through to the elbow; and so he held on
 negligently, for his greater ease.
 
-A prison taint was on everything there. The imprisoned air, the
+A [[Prison|prison]] taint was on everything there. The imprisoned air, the
 imprisoned light, the imprisoned damps, the imprisoned men, were all
 deteriorated by confinement. As the captive men were faded and haggard,
 so the iron was rusty, the stone was slimy, the wood was rotten, the air
-was faint, the light was dim. Like a well, like a vault, like a tomb,
-the prison had no knowledge of the brightness outside, and would have
+was faint, the light was dim. Like a [[Well|well]], like a vault, like a tomb,
+the [[Prison|prison]] had no knowledge of the brightness outside, and would have
 kept its polluted atmosphere intact in one of the spice islands of the
 Indian ocean.
 
@@ -109,7 +109,7 @@ never shines in here!’
 He was waiting to be fed, looking sideways through the bars that he
 might see the further down the stairs, with much of the expression of
 a wild beast in similar expectation. But his eyes, too close together,
-were not so nobly set in his head as those of the king of beasts are in
+were not so nobly set in his head as those of the [[King|king]] of beasts are in
 his, and they were sharp rather than bright--pointed weapons with little
 surface to betray them. They had no depth or change; they glittered,
 and they opened and shut. So far, and waiving their use to himself, a
@@ -121,45 +121,45 @@ all, and a quantity of dry hair, of no definable colour, in its shaggy
 state, but shot with red. The hand with which he held the grating
 (seamed all over the back with ugly scratches newly healed), was
 unusually small and plump; would have been unusually white but for the
-prison grime.
+[[Prison|prison]] grime.
 
 The other man was lying on the stone floor, covered with a coarse brown
 coat.
 
-‘Get up, pig!’ growled the first. ‘Don’t sleep when I am hungry.’
+‘Get up, pig!’ growled the first. ‘Don’t [[Sleep|sleep]] when I am hungry.’
 
 ‘It’s all one, master,’ said the pig, in a submissive manner, and not
-without cheerfulness; ‘I can wake when I will, I can sleep when I will.
+without cheerfulness; ‘I can wake when I will, I can [[Sleep|sleep]] when I will.
 It’s all the same.’
 
-As he said it, he rose, shook himself, scratched himself, tied his brown
+As he said it, he [[Rose|rose]], shook himself, scratched himself, tied his brown
 coat loosely round his neck by the sleeves (he had previously used it
 as a coverlet), and sat down upon the pavement yawning, with his back
 against the wall opposite to the grating.
 
 ‘Say what the hour is,’ grumbled the first man.
 
-‘The mid-day bells will ring--in forty minutes.’ When he made the
-little pause, he had looked round the prison-room, as if for certain
+‘The mid-day [[Bells|bells]] will ring--in forty minutes.’ When he made the
+little pause, he had looked round the [[Prison|prison]]-room, as if for certain
 information.
 
-‘You are a clock. How is it that you always know?’
+‘You are a [[Clock|clock]]. How is it that you always know?’
 
 ‘How can I say? I always know what the hour is, and where I am. I was
-brought in here at night, and out of a boat, but I know where I am. See
+brought in here at [[Night|night]], and out of a boat, but I know where I am. See
 here! Marseilles harbour;’ on his knees on the pavement, mapping it all
 out with a swarthy forefinger; ‘Toulon (where the galleys are), Spain
 over there, Algiers over _there_. Creeping away to the left here, Nice.
 Round by the Cornice to Genoa. Genoa Mole and Harbour. Quarantine
-Ground. City there; terrace gardens blushing with the bella donna. Here,
+Ground. [[City]] there; terrace gardens blushing with the bella donna. Here,
 Porto Fino. Stand out for Leghorn. Out again for Civita Vecchia, so away
 to--hey! there’s no room for Naples;’ he had got to the wall by this
-time; ‘but it’s all one; it’s in there!’
+[[Time|time]]; ‘but it’s all one; it’s in there!’
 
 He remained on his knees, looking up at his fellow-prisoner with a
-lively look for a prison. A sunburnt, quick, lithe, little man, though
+lively look for a [[Prison|prison]]. A sunburnt, quick, lithe, little man, though
 rather thickset. Earrings in his brown ears, white teeth lighting up his
-grotesque brown face, intensely black hair clustering about his brown
+[[Grotesque|grotesque]] brown face, intensely black hair clustering about his brown
 throat, a ragged red shirt open at his brown breast. Loose, seaman-like
 trousers, decent shoes, a long red cap, a red sash round his waist, and
 a knife in it.
@@ -175,14 +175,14 @@ The other man spat suddenly on the pavement, and gurgled in his throat.
 Some lock below gurgled in _its_ throat immediately afterwards, and then
 a door crashed. Slow steps began ascending the stairs; the prattle of
 a sweet little voice mingled with the noise they made; and the
-prison-keeper appeared carrying his daughter, three or four years old,
+[[Prison|prison]]-keeper appeared carrying his daughter, three or four years old,
 and a basket.
 
 ‘How goes the world this forenoon, gentlemen? My little one, you see,
-going round with me to have a peep at her father’s birds. Fie, then!
-Look at the birds, my pretty, look at the birds.’
+going round with me to have a peep at her father’s [[Birds|birds]]. Fie, then!
+Look at the [[Birds|birds]], my pretty, look at the [[Birds|birds]].’
 
-He looked sharply at the birds himself, as he held the child up at
+He looked sharply at the [[Birds|birds]] himself, as he held the [[Child|child]] up at
 the grate, especially at the little bird, whose activity he seemed to
 mistrust. ‘I have brought your bread, Signor John Baptist,’ said he
 (they all spoke in French, but the little man was an Italian); ‘and if I
@@ -194,52 +194,52 @@ as he smiled.
 ‘Oh! but the master wins,’ returned the jailer, with a passing look of
 no particular liking at the other man, ‘and you lose. It’s quite another
 thing. You get husky bread and sour drink by it; and he gets sausage of
-Lyons, veal in savoury jelly, white bread, strachino cheese, and good
-wine by it. Look at the birds, my pretty!’
+Lyons, veal in savoury jelly, white bread, strachino [[cheese]], and good
+wine by it. Look at the [[Birds|birds]], my pretty!’
 
-‘Poor birds!’ said the child.
+‘Poor [[Birds|birds]]!’ said the [[Child|child]].
 
 The fair little face, touched with divine compassion, as it peeped
-shrinkingly through the grate, was like an angel’s in the prison. John
-Baptist rose and moved towards it, as if it had a good attraction for
+shrinkingly through the grate, was like an angel’s in the [[Prison|prison]]. John
+Baptist [[Rose|rose]] and moved towards it, as if it had a good attraction for
 him. The other bird remained as before, except for an impatient glance
 at the basket.
 
 ‘Stay!’ said the jailer, putting his little daughter on the outer ledge
-of the grate, ‘she shall feed the birds. This big loaf is for Signor
+of the grate, ‘she shall feed the [[Birds|birds]]. This big loaf is for Signor
 John Baptist. We must break it to get it through into the cage. So,
 there’s a tame bird to kiss the little hand! This sausage in a vine
-leaf is for Monsieur Rigaud. Again--this veal in savoury jelly is for
-Monsieur Rigaud. Again--these three white little loaves are for Monsieur
-Rigaud. Again, this cheese--again, this wine--again, this tobacco--all
-for Monsieur Rigaud. Lucky bird!’
+leaf is for Monsieur [[Rigaud]]. Again--this veal in savoury jelly is for
+Monsieur [[Rigaud]]. Again--these three white little loaves are for Monsieur
+[[Rigaud]]. Again, this [[cheese]]--again, this wine--again, this tobacco--all
+for Monsieur [[Rigaud]]. Lucky bird!’
 
-The child put all these things between the bars into the soft, Smooth,
-well-shaped hand, with evident dread--more than once drawing back
+The [[Child|child]] put all these things between the bars into the soft, Smooth,
+[[Well|well]]-shaped hand, with evident dread--more than once drawing back
 her own and looking at the man with her fair brow roughened into an
 expression half of fright and half of anger. Whereas she had put the
 lump of coarse bread into the swart, scaled, knotted hands of John
 Baptist (who had scarcely as much nail on his eight fingers and two
-thumbs as would have made out one for Monsieur Rigaud), with ready
+thumbs as would have made out one for Monsieur [[Rigaud]]), with ready
 confidence; and, when he kissed her hand, had herself passed it
-caressingly over his face. Monsieur Rigaud, indifferent to this
+caressingly over his face. Monsieur [[Rigaud]], indifferent to this
 distinction, propitiated the father by laughing and nodding at the
 daughter as often as she gave him anything; and, so soon as he had
 all his viands about him in convenient nooks of the ledge on which he
 rested, began to eat with an appetite.
 
-When Monsieur Rigaud laughed, a change took place in his face, that
+When Monsieur [[Rigaud]] laughed, a change took place in his face, that
 was more remarkable than prepossessing. His moustache went up under his
 nose, and his nose came down over his moustache, in a very sinister and
 cruel manner.
 
 ‘There!’ said the jailer, turning his basket upside down to beat the
 crumbs out, ‘I have expended all the money I received; here is the note
-of it, and _that’s_ a thing accomplished. Monsieur Rigaud, as I expected
+of it, and _that’s_ a thing accomplished. Monsieur [[Rigaud]], as I expected
 yesterday, the President will look for the pleasure of your society at
 an hour after mid-day, to-day.’
 
-‘To try me, eh?’ said Rigaud, pausing, knife in hand and morsel in
+‘To try me, eh?’ said [[Rigaud]], pausing, knife in hand and morsel in
 mouth.
 
 ‘You have said it. To try you.’
@@ -255,42 +255,42 @@ The jailer shrugged his shoulders.
 quickness, and gesticulating with both his hands and all his fingers,
 as if he were threatening to tear him to pieces. ‘My friend, how is it
 possible for me to tell how long you are to lie here? What do I know,
-John Baptist Cavalletto? Death of my life! There are prisoners here
+John Baptist Cavalletto? [[Death]] of my life! There are prisoners here
 sometimes, who are not in such a devil of a hurry to be tried.’
 
-He seemed to glance obliquely at Monsieur Rigaud in this remark; but
-Monsieur Rigaud had already resumed his meal, though not with quite so
+He seemed to glance obliquely at Monsieur [[Rigaud]] in this remark; but
+Monsieur [[Rigaud]] had already resumed his meal, though not with quite so
 quick an appetite as before.
 
-‘Adieu, my birds!’ said the keeper of the prison, taking his pretty
-child in his arms, and dictating the words with a kiss.
+‘Adieu, my [[Birds|birds]]!’ said the keeper of the [[Prison|prison]], taking his pretty
+[[Child|child]] in his arms, and dictating the words with a kiss.
 
-‘Adieu, my birds!’ the pretty child repeated.
+‘Adieu, my [[Birds|birds]]!’ the pretty [[Child|child]] repeated.
 
-Her innocent face looked back so brightly over his shoulder, as he
-walked away with her, singing her the song of the child’s game:
+Her [[Innocent|innocent]] face looked back so brightly over his shoulder, as he
+walked away with her, singing her the [[Song|song]] of the [[Child|child]]’s game:
 
-     ‘Who passes by this road so late?
+     ‘Who passes by this [[Road|road]] so late?
           Compagnon de la Majolaine!
-     Who passes by this road so late?
+     Who passes by this [[Road|road]] so late?
           Always gay!’
 
-that John Baptist felt it a point of honour to reply at the grate, and
-in good time and tune, though a little hoarsely:
+that John Baptist felt it a point of [[Honour|honour]] to reply at the grate, and
+in good [[Time|time]] and tune, though a little hoarsely:
 
-     ‘Of all the king’s knights ‘tis the flower,
+     ‘Of all the [[King|king]]’s knights ‘tis the flower,
          Compagnon de la Majolaine!
-     Of all the king’s knights ‘tis the flower,
+     Of all the [[King|king]]’s knights ‘tis the flower,
           Always gay!’
 
 Which accompanied them so far down the few steep stairs, that the
-prison-keeper had to stop at last for his little daughter to hear the
-song out, and repeat the Refrain while they were yet in sight. Then the
-child’s head disappeared, and the prison-keeper’s head disappeared, but
+[[Prison|prison]]-keeper had to stop at last for his little daughter to hear the
+[[Song|song]] out, and repeat the Refrain while they were yet in sight. Then the
+[[Child|child]]’s head disappeared, and the [[Prison|prison]]-keeper’s head disappeared, but
 the little voice prolonged the strain until the door clashed.
 
-Monsieur Rigaud, finding the listening John Baptist in his way before
-the echoes had ceased (even the echoes were the weaker for imprisonment,
+Monsieur [[Rigaud]], finding the listening John Baptist in his way before
+the echoes had ceased (even the echoes were the weaker for [[Imprisonment|imprisonment]],
 and seemed to lag), reminded him with a push of his foot that he had
 better resume his own darker place. The little man sat down again
 upon the pavement with the negligent ease of one who was thoroughly
@@ -300,9 +300,9 @@ through them as if to clear them off were a sort of game.
 
 Perhaps he glanced at the Lyons sausage, and perhaps he glanced at the
 veal in savoury jelly, but they were not there long, to make his mouth
-water; Monsieur Rigaud soon dispatched them, in spite of the president
+[[Water|water]]; Monsieur [[Rigaud]] soon dispatched them, in spite of the president
 and tribunal, and proceeded to suck his fingers as clean as he could,
-and to wipe them on his vine leaves. Then, as he paused in his drink
+and to wipe them on his vine [[Leaves|leaves]]. Then, as he paused in his drink
 to contemplate his fellow-prisoner, his moustache went up, and his nose
 came down.
 
@@ -318,16 +318,16 @@ so--like a fried fish. Or so--like Lyons sausage,’ said John Baptist,
 demonstrating the various cuts on the bread he held, and soberly chewing
 what he had in his mouth.
 
-‘Here!’ cried Monsieur Rigaud. ‘You may drink. You may finish this.’
+‘Here!’ cried Monsieur [[Rigaud]]. ‘You may drink. You may finish this.’
 
 It was no great gift, for there was mighty little wine left; but Signor
 Cavalletto, jumping to his feet, received the bottle gratefully, turned
 it upside down at his mouth, and smacked his lips.
 
-‘Put the bottle by with the rest,’ said Rigaud.
+‘Put the bottle by with the rest,’ said [[Rigaud]].
 
 The little man obeyed his orders, and stood ready to give him a lighted
-match; for he was now rolling his tobacco into cigarettes by the aid of
+match; for he was now [[rolling]] his tobacco into cigarettes by the aid of
 little squares of paper which had been brought in with it.
 
 ‘Here! You may have one.’
@@ -335,23 +335,23 @@ little squares of paper which had been brought in with it.
 ‘A thousand thanks, my master!’ John Baptist said in his own language,
 and with the quick conciliatory manner of his own countrymen.
 
-Monsieur Rigaud arose, lighted a cigarette, put the rest of his stock
+Monsieur [[Rigaud]] arose, lighted a cigarette, put the rest of his stock
 into a breast-pocket, and stretched himself out at full length upon the
 bench. Cavalletto sat down on the pavement, holding one of his ankles in
 each hand, and smoking peacefully. There seemed to be some uncomfortable
-attraction of Monsieur Rigaud’s eyes to the immediate neighbourhood of
+attraction of Monsieur [[Rigaud]]’s eyes to the immediate neighbourhood of
 that part of the pavement where the thumb had been in the plan. They
 were so drawn in that direction, that the Italian more than once
 followed them to and back from the pavement in some surprise.
 
-‘What an infernal hole this is!’ said Monsieur Rigaud, breaking a long
+‘What an infernal hole this is!’ said Monsieur [[Rigaud]], breaking a long
 pause. ‘Look at the light of day. Day? the light of yesterday week, the
 light of six months ago, the light of six years ago. So slack and dead!’
 
-It came languishing down a square funnel that blinded a window in the
+It came languishing down a square funnel that blinded a [[Window|window]] in the
 staircase wall, through which the sky was never seen--nor anything else.
 
-‘Cavalletto,’ said Monsieur Rigaud, suddenly withdrawing his gaze from
+‘Cavalletto,’ said Monsieur [[Rigaud]], suddenly withdrawing his gaze from
 this funnel to which they had both involuntarily turned their eyes, ‘you
 know me for a gentleman?’
 
@@ -359,7 +359,7 @@ know me for a gentleman?’
 
 ‘How long have we been here?’
 
-‘I, eleven weeks, to-morrow night at midnight. You, nine weeks and three
+‘I, eleven weeks, to-morrow [[Night|night]] at midnight. You, nine weeks and three
 days, at five this afternoon.’
 
 ‘Have I ever done anything here? Ever touched the broom, or spread
@@ -386,7 +386,7 @@ our familiar English ‘I believe you!’
 
 ‘Haha! You are right! A gentleman I am! And a gentleman I’ll live, and
 a gentleman I’ll die! It’s my intent to be a gentleman. It’s my game.
-Death of my soul, I play it out wherever I go!’
+[[Death]] of my [[Soul|soul]], I play it out wherever I go!’
 
 He changed his posture to a sitting one, crying with a triumphant air:
 
@@ -395,7 +395,7 @@ of a mere smuggler;--shut up with a poor little contraband trader, whose
 papers are wrong, and whom the police lay hold of besides, for placing
 his boat (as a means of getting beyond the frontier) at the disposition
 of other little people whose papers are wrong; and he instinctively
-recognises my position, even by this light and in this place. It’s well
+recognises my position, even by this light and in this place. It’s [[Well|well]]
 done! By Heaven! I win, however the game goes.’
 
 Again his moustache went up, and his nose came down.
@@ -413,9 +413,9 @@ ready for shaving. You know where they keep the razor.’
 Signor Cavalletto took his cigarette from between his parted lips, and
 showed more momentary discomfiture than might have been expected.
 
-‘I am a’--Monsieur Rigaud stood up to say it--‘I am a cosmopolitan
+‘I am a’--Monsieur [[Rigaud]] stood up to say it--‘I am a cosmopolitan
 gentleman. I own no particular country. My father was Swiss--Canton de
-Vaud. My mother was French by blood, English by birth. I myself was born
+Vaud. My mother was French by [[Blood|blood]], English by birth. I myself was born
 in Belgium. I am a citizen of the world.’
 
 His theatrical air, as he stood with one arm on his hip within the folds
@@ -438,32 +438,32 @@ witness to his gentility that had often done him good service before.
 ‘Two years ago I came to Marseilles. I admit that I was poor; I had been
 ill. When your lawyers, your politicians, your intriguers, your men of
 the Exchange fall ill, and have not scraped money together, _they_ become
-poor. I put up at the Cross of Gold,--kept then by Monsieur Henri
+poor. I put up at the [[Cross]] of Gold,--kept then by Monsieur Henri
 Barronneau--sixty-five at least, and in a failing state of health. I had
-lived in the house some four months when Monsieur Henri Barronneau had
+lived in the [[house]] some four months when Monsieur Henri Barronneau had
 the misfortune to die;--at any rate, not a rare misfortune, that. It
 happens without any aid of mine, pretty often.’
 
 John Baptist having smoked his cigarette down to his fingers’ ends,
-Monsieur Rigaud had the magnanimity to throw him another. He lighted the
+Monsieur [[Rigaud]] had the magnanimity to throw him another. He lighted the
 second at the ashes of the first, and smoked on, looking sideways at his
 companion, who, preoccupied with his own case, hardly looked at him.
 
 ‘Monsieur Barronneau left a widow. She was two-and-twenty. She had
-gained a reputation for beauty, and (which is often another thing) was
-beautiful. I continued to live at the Cross of Gold. I married Madame
+gained a reputation for [[Beauty|beauty]], and (which is often another thing) was
+beautiful. I continued to live at the [[Cross]] of Gold. I married Madame
 Barronneau. It is not for me to say whether there was any great
 disparity in such a match. Here I stand, with the contamination of a
 jail upon me; but it is possible that you may think me better suited to
 her than her former husband was.’
 
 He had a certain air of being a handsome man--which he was not; and
-a certain air of being a well-bred man--which he was not. It was mere
+a certain air of being a [[Well|well]]-bred man--which he was not. It was mere
 swagger and challenge; but in this particular, as in many others,
 blustering assertion goes for proof, half over the world.
 
 ‘Be it as it may, Madame Barronneau approved of me. _That_ is not to
-prejudice me, I hope?’
+prejudice me, I [[Hope|hope]]?’
 
 His eye happening to light upon John Baptist with this inquiry, that
 little man briskly shook his head in the negative, and repeated in an
@@ -471,57 +471,57 @@ argumentative tone under his breath, altro, altro, altro, altro--an
 infinite number of times.
 
 ‘Now came the difficulties of our position. I am proud. I say nothing
-in defence of pride, but I am proud. It is also my character to govern.
+in defence of [[Pride|pride]], but I am proud. It is also my character to govern.
 I can’t submit; I must govern. Unfortunately, the property of Madame
-Rigaud was settled upon herself. Such was the insane act of her late
+[[Rigaud]] was settled upon herself. Such was the insane act of her late
 husband. More unfortunately still, she had relations. When a wife’s
 relations interpose against a husband who is a gentleman, who is proud,
 and who must govern, the consequences are inimical to peace. There
-was yet another source of difference between us. Madame Rigaud was
+was yet another source of difference between us. Madame [[Rigaud]] was
 unfortunately a little vulgar. I sought to improve her manners and
 ameliorate her general tone; she (supported in this likewise by her
 relations) resented my endeavours. Quarrels began to arise between us;
 and, propagated and exaggerated by the slanders of the relations of
-Madame Rigaud, to become notorious to the neighbours. It has been said
-that I treated Madame Rigaud with cruelty. I may have been seen to slap
+Madame [[Rigaud]], to become notorious to the neighbours. It has been said
+that I treated Madame [[Rigaud]] with cruelty. I may have been seen to slap
 her face--nothing more. I have a light hand; and if I have been seen
-apparently to correct Madame Rigaud in that manner, I have done it
+apparently to correct Madame [[Rigaud]] in that manner, I have done it
 almost playfully.’
 
-If the playfulness of Monsieur Rigaud were at all expressed by his smile
-at this point, the relations of Madame Rigaud might have said that
+If the playfulness of Monsieur [[Rigaud]] were at all expressed by his smile
+at this point, the relations of Madame [[Rigaud]] might have said that
 they would have much preferred his correcting that unfortunate woman
 seriously.
 
 ‘I am sensitive and brave. I do not advance it as a merit to be
 sensitive and brave, but it is my character. If the male relations of
-Madame Rigaud had put themselves forward openly, I should have known how
+Madame [[Rigaud]] had put themselves forward openly, I should have known how
 to deal with them. They knew that, and their machinations were conducted
-in secret; consequently, Madame Rigaud and I were brought into frequent
+in secret; consequently, Madame [[Rigaud]] and I were brought into frequent
 and unfortunate collision. Even when I wanted any little sum of money
 for my personal expenses, I could not obtain it without collision--and
-I, too, a man whose character it is to govern! One night, Madame Rigaud
-and myself were walking amicably--I may say like lovers--on a height
-overhanging the sea. An evil star occasioned Madame Rigaud to advert to
+I, too, a man whose character it is to govern! One [[Night|night]], Madame [[Rigaud]]
+and myself were walking amicably--I may say like [[lovers]]--on a height
+overhanging the sea. An evil star occasioned Madame [[Rigaud]] to advert to
 her relations; I reasoned with her on that subject, and remonstrated on
 the want of duty and devotion manifested in her allowing herself to be
-influenced by their jealous animosity towards her husband. Madame Rigaud
-retorted; I retorted; Madame Rigaud grew warm; I grew warm, and provoked
+influenced by their jealous animosity towards her husband. Madame [[Rigaud]]
+retorted; I retorted; Madame [[Rigaud]] grew warm; I grew warm, and provoked
 her. I admit it. Frankness is a part of my character. At length, Madame
-Rigaud, in an access of fury that I must ever deplore, threw herself
-upon me with screams of passion (no doubt those that were overheard
+[[Rigaud]], in an access of fury that I must ever deplore, threw herself
+upon me with screams of passion (no [[Doubt|doubt]] those that were overheard
 at some distance), tore my clothes, tore my hair, lacerated my hands,
-trampled and trod the dust, and finally leaped over, dashing herself to
-death upon the rocks below. Such is the train of incidents which
-malice has perverted into my endeavouring to force from Madame Rigaud
+trampled and trod the [[Dust|dust]], and finally leaped over, dashing herself to
+[[Death|death]] upon the rocks below. Such is the train of incidents which
+malice has perverted into my endeavouring to force from Madame [[Rigaud]]
 a relinquishment of her rights; and, on her persistence in a refusal to
 make the concession I required, struggling with her--assassinating her!’
 
-He stepped aside to the ledge where the vine leaves yet lay strewn
+He stepped aside to the ledge where the vine [[Leaves|leaves]] yet lay strewn
 about, collected two or three, and stood wiping his hands upon them,
 with his back to the light.
 
-‘Well,’ he demanded after a silence, ‘have you nothing to say to all
+‘[[Well]],’ he demanded after a [[Silence|silence]], ‘have you nothing to say to all
 that?’
 
 ‘It’s ugly,’ returned the little man, who had risen, and was brightening
@@ -529,7 +529,7 @@ his knife upon his shoe, as he leaned an arm against the wall.
 
 ‘What do you mean?’
 
-John Baptist polished his knife in silence.
+John Baptist polished his knife in [[Silence|silence]].
 
 ‘Do you mean that I have not represented the case correctly?’
 
@@ -540,42 +540,42 @@ for ‘Oh, by no means!’
 
 ‘Presidents and tribunals are so prejudiced.’
 
-‘Well,’ cried the other, uneasily flinging the end of his cloak over his
+‘[[Well]],’ cried the other, uneasily flinging the end of his cloak over his
 shoulder with an oath, ‘let them do their worst!’
 
 ‘Truly I think they will,’ murmured John Baptist to himself, as he bent
 his head to put his knife in his sash.
 
 Nothing more was said on either side, though they both began walking
-to and fro, and necessarily crossed at every turn. Monsieur Rigaud
+to and fro, and necessarily crossed at every turn. Monsieur [[Rigaud]]
 sometimes stopped, as if he were going to put his case in a new light,
 or make some irate remonstrance; but Signor Cavalletto continuing to
-go slowly to and fro at a grotesque kind of jog-trot pace with his eyes
+go slowly to and fro at a [[Grotesque|grotesque]] kind of jog-trot pace with his eyes
 turned downward, nothing came of these inclinings.
 
 By-and-by the noise of the key in the lock arrested them both. The sound
 of voices succeeded, and the tread of feet. The door clashed, the voices
-and the feet came on, and the prison-keeper slowly ascended the stairs,
+and the feet came on, and the [[Prison|prison]]-keeper slowly ascended the stairs,
 followed by a guard of soldiers.
 
-‘Now, Monsieur Rigaud,’ said he, pausing for a moment at the grate, with
+‘Now, Monsieur [[Rigaud]],’ said he, pausing for a moment at the grate, with
 his keys in his hands, ‘have the goodness to come out.’
 
 ‘I am to depart in state, I see?’
 
 ‘Why, unless you did,’ returned the jailer, ‘you might depart in so many
 pieces that it would be difficult to get you together again. There’s a
-crowd, Monsieur Rigaud, and it doesn’t love you.’
+crowd, Monsieur [[Rigaud]], and it doesn’t [[Love|love]] you.’
 
 He passed on out of sight, and unlocked and unbarred a low door in the
 corner of the chamber. ‘Now,’ said he, as he opened it and appeared
 within, ‘come out.’
 
 There is no sort of whiteness in all the hues under the sun at all like
-the whiteness of Monsieur Rigaud’s face as it was then. Neither is there
+the whiteness of Monsieur [[Rigaud]]’s face as it was then. Neither is there
 any expression of the human countenance at all like that expression in
 every little line of which the frightened heart is seen to beat. Both
-are conventionally compared with death; but the difference is the whole
+are conventionally compared with [[Death|death]]; but the difference is the whole
 deep gulf between the struggle done, and the fight at its most desperate
 extremity.
 
@@ -586,12 +586,12 @@ the side gallery on which the door opened, without taking any further
 notice of Signor Cavalletto. As to that little man himself, his whole
 attention had become absorbed in getting near the door and looking out
 at it. Precisely as a beast might approach the opened gate of his den
-and eye the freedom beyond, he passed those few moments in watching and
+and eye the [[Freedom|freedom]] beyond, he passed those few moments in watching and
 peering, until the door was closed upon him.
 
 There was an officer in command of the soldiers; a stout, serviceable,
-profoundly calm man, with his drawn sword in his hand, smoking a cigar.
-He very briefly directed the placing of Monsieur Rigaud in the midst of
+profoundly calm man, with his drawn [[Sword|sword]] in his hand, smoking a cigar.
+He very briefly directed the placing of Monsieur [[Rigaud]] in the midst of
 the party, put himself with consummate indifference at their head, gave
 the word ‘march!’ and so they all went jingling down the staircase. The
 door clashed--the key turned--and a ray of unusual light, and a breath
@@ -603,7 +603,7 @@ or roused bear of the smaller species--the prisoner, now left solitary,
 had jumped upon the ledge, to lose no glimpse of this departure. As he
 yet stood clasping the grate with both hands, an uproar broke upon his
 hearing; yells, shrieks, oaths, threats, execrations, all comprehended
-in it, though (as in a storm) nothing but a raging swell of sound
+in it, though (as in a [[Storm|storm]]) nothing but a raging swell of sound
 distinctly heard.
 
 Excited into a still greater resemblance to a caged wild animal by his
@@ -615,20 +615,20 @@ better prisoners have worn their noble hearts out so; no man thinking
 of it; not even the beloved of their souls realising it; great kings
 and governors, who had made them captive, careering in the sunlight
 jauntily, and men cheering them on. Even the said great personages dying
-in bed, making exemplary ends and sounding speeches; and polite history,
+in bed, making exemplary ends and sounding speeches; and polite [[history]],
 more servile than their instruments, embalming them!
 
 At last, John Baptist, now able to choose his own spot within the
-compass of those walls for the exercise of his faculty of going to sleep
+compass of those walls for the exercise of his faculty of going to [[Sleep|sleep]]
 when he would, lay down upon the bench, with his face turned over on his
 crossed arms, and slumbered. In his submission, in his lightness, in his
-good humour, in his short-lived passion, in his easy contentment with
-hard bread and hard stones, in his ready sleep, in his fits and starts,
+good [[Humour|humour]], in his short-lived passion, in his easy contentment with
+hard bread and hard stones, in his ready [[Sleep|sleep]], in his fits and starts,
 altogether a true son of the land that gave him birth.
 
 The wide stare stared itself out for one while; the Sun went down in
-a red, green, golden glory; the stars came out in the heavens, and the
-fire-flies mimicked them in the lower air, as men may feebly imitate
+a red, green, golden glory; the [[Stars|stars]] came out in the heavens, and the
+[[Fire|fire]]-flies mimicked them in the lower air, as men may feebly imitate
 the goodness of a better order of beings; the long dusty roads and the
 interminable plains were in repose--and so deep a hush was on the sea,
-that it scarcely whispered of the time when it shall give up its dead.
+that it scarcely whispered of the [[Time|time]] when it shall give up its dead.

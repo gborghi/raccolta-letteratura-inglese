@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 11 (part 2)"
+title: "[[Don Quixote]] — Chapter 11 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -35,7 +35,7 @@ with a spear."
 For indeed Mr. Herne was still in the theatrical costume of an Outlaw,
 having apparently forgotten to change his clothes when he drifted
 to his dressing-room; and the long hunting-spear on which he leaned
-in his blank verse soliloquies was still grasped unconsciously
+in his [[Blank Verse|blank verse]] soliloquies was still grasped unconsciously
 in his hand.
 
 "I say," exclaimed Braintree, "aren't you going to get into any
@@ -59,7 +59,7 @@ Some of them, especially the ladies, were in a transitional
 state before the full splendours of the afternoon.
 For there was that afternoon at Seawood Abbey a grand political
 and social reception eclipsing even that which had attempted
-the education of Mr. Braintree.  Needless to say it contained
+the [[Education|education]] of Mr. Braintree.  Needless to say it contained
 most of the same unmistakable figures with many more in addition.
 Sir Howard Pryce was there, wearing if not the white flower
 of a blameless life at least the white waistcoat of a Victorian
@@ -68,15 +68,15 @@ He had lately passed equally blamelessly from Soap to Dyes,
 of which he was a financial pillar and a partner in certain
 commercial interests of Lord Seawood.  Mr. Aubrey Wister was there,
 wearing his exquisite blend of artistic and fashionable raiment;
-wearing also his long moustache and melancholy smile.
+wearing also his long moustache and [[Melancholy|melancholy]] smile.
 Mr. Hanbury, squire and traveller, was there, wearing nothing
-that could be noticed in particular and wearing it very well.
+that could be noticed in particular and wearing it very [[Well|well]].
 Lord Eden was there, wearing his single eyeglass and the hair
 that looked like a yellow wig.  Mr. Julian Archer was there,
 wearing clothes so good that they are hardly ever seen on
 a living man but only on the ideal beings in tailors' shops.
-And Mr. Michael Herne was there, still wearing a suit of green
-rags suitable to a royal outlaw in exile and quite unsuitable
+And Mr. [[Michael]] Herne was there, still wearing a suit of green
+rags suitable to a royal outlaw in [[Exile|exile]] and quite unsuitable
 to the present occasion.
 
 Braintree was not a conventional person but he was brought up
@@ -89,12 +89,12 @@ Herne appeared to be rather sulky in his last phase.
 
 "Dress as what," he asked.
 
-"Well, dress as yourself, I suppose," answered the other.
-"Give your celebrated imitation of Mr. Michael Herne."
+"[[Well]], dress as yourself, I suppose," answered the other.
+"Give your celebrated [[Imitation|imitation]] of Mr. [[Michael]] Herne."
 
-Michael Herne lifted his rather hang-dog head with a jerk and stared
+[[Michael]] Herne lifted his rather hang-dog head with a jerk and stared
 at the other for a moment with almost blinding concentration; and then
-moved away towards the house, presumably to perform the belated toilet.
+moved away towards the [[house]], presumably to perform the belated toilet.
 And Mr. John Braintree did the only thing he ever did do in these rather
 uncongenial assemblies; went in search of Miss Olive Ashley.
 
@@ -102,9 +102,9 @@ Their conversation was lengthy and largely theoretical; and it
 is a remarkable fact that even after the afternoon guests had gone
 and dinner loomed in the distance, when Olive had retired to dress
 and then reappeared in a violet and silver vesture of rather
-unusual richness, they encountered each other again in the garden,
+unusual richness, they encountered each other again in the [[Garden|garden]],
 by the broken monument where they had their first dispute.
-But they encountered something else as well.
+But they encountered something else as [[Well|well]].
 
 Mr. Herne, the librarian, was standing beside that scrap of grey
 sculpture like a green statue; it might have been a bronze statue
@@ -121,13 +121,13 @@ and said rather huskily.
 "Am I ever going to change? . . . Or never change?"
 
 She seemed to see something suddenly pictured in his staring eyes that
-started her trembling a little and she half shrank into the shadow of the
+started her trembling a little and she half shrank into the [[Shadow|shadow]] of the
 man beside her, who struck in with something like a defensive authority:
 "Are you going to get into ordinary clothes, I mean?"
 
 "What do you mean by ordinary clothes?" asked Herne.
 
-"Well," replied Braintree, with a short laugh, "I suppose I mean
+"[[Well]]," replied Braintree, with a short laugh, "I suppose I mean
 the sort of clothes I wear; though I've never been considered exactly
 a leader of fashion."  He smiled a moment in his grim fashion and added,
 "Nobody here will insist on your wearing a red tie."

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 7 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 7 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ dear little bonnet and shawl from my sight, nor did I feel that all
 
 those intervening objects lay between my happiness and me; for, to
 
-confess the truth, I was too happy in the company of Mrs. Graham to
+confess the [[Truth|truth]], I was too happy in the company of Mrs. Graham to
 
 regret the absence of Eliza Millward.
 
@@ -32,11 +32,11 @@ The former, it is true, was most provokingly unsociable at
 
 first—seemingly bent upon talking to no one but Mary Millward and
 
-Arthur. She and Mary journeyed along together, generally with the child
+[[arthur|Arthur]]. She and Mary journeyed along together, generally with the [[Child|child]]
 
-between them;—but where the road permitted, I always walked on the
+between them;—but where the [[Road|road]] permitted, I always walked on the
 
-other side of her, Richard Wilson taking the other side of Miss
+other side of her, [[Richard]] Wilson taking the other side of Miss
 
 Millward, and Fergus roving here and there according to his fancy; and,
 
@@ -68,7 +68,7 @@ her eyes, and, if possible, to win her esteem.
 
 At length our walk was ended. The increasing height and boldness of the
 
-hills had for some time intercepted the prospect; but, on gaining the
+hills had for some [[Time|time]] intercepted the prospect; but, on gaining the
 
 summit of a steep acclivity, and looking downward, an opening lay
 
@@ -94,7 +94,7 @@ it with a gaze that assured me she was not disappointed. She had very
 
 fine eyes, by-the-by—I don’t know whether I have told you before, but
 
-they were full of soul, large, clear, and nearly black—not brown, but
+they were full of [[Soul|soul]], large, clear, and nearly black—not brown, but
 
 very dark grey. A cool, reviving breeze blew from the sea—soft, pure,
 
@@ -112,13 +112,13 @@ almost a smile of exalted, glad intelligence as her eye met mine. Never
 
 had she looked so lovely: never had my heart so warmly cleaved to her
 
-as now. Had we been left two minutes longer standing there alone, I
+as now. Had we been left two minutes longer standing there [[Alone|alone]], I
 
 cannot answer for the consequences. Happily for my discretion, perhaps
 
 for my enjoyment during the remainder of the day, we were speedily
 
-summoned to the repast—a very respectable collation, which Rose,
+summoned to the repast—a very respectable collation, which [[Rose]],
 
 assisted by Miss Wilson and Eliza, who, having shared her seat in the
 
@@ -134,7 +134,7 @@ Mrs. Graham seated herself at a distance from me. Eliza was my nearest
 
 neighbour. She exerted herself to be agreeable, in her gentle,
 
-unobtrusive way, and was, no doubt, as fascinating and charming as
+unobtrusive way, and was, no [[Doubt|doubt]], as fascinating and charming as
 
 ever, if I could only have felt it. But soon my heart began to warm
 
@@ -144,7 +144,7 @@ together—as far as I could see—throughout the protracted social meal.
 
 
 
-When that was over, Rose summoned Fergus to help her to gather up the
+When that was over, [[Rose]] summoned Fergus to help her to gather up the
 
 fragments, and the knives, dishes, &c., and restore them to the
 
@@ -154,11 +154,11 @@ having begged Miss Millward to take charge of her precious son, and
 
 strictly enjoined him not to wander from his new guardian’s side, she
 
-left us and proceeded along the steep, stony hill, to a loftier, more
+left us and proceeded along the steep, stony [[Hill|hill]], to a loftier, more
 
 precipitous eminence at some distance, whence a still finer prospect
 
-was to be had, where she preferred taking her sketch, though some of
+was to be had, where she preferred taking her [[Sketch|sketch]], though some of
 
 the ladies told her it was a frightful place, and advised her not to
 
@@ -182,15 +182,15 @@ been enlivened by her presence, though I knew it not; and now that she
 
 was gone, Eliza’s playful nonsense ceased to amuse me—nay, grew
 
-wearisome to my soul, and I grew weary of amusing her: I felt myself
+wearisome to my [[Soul|soul]], and I grew weary of amusing her: I felt myself
 
 drawn by an irresistible attraction to that distant point where the
 
-fair artist sat and plied her solitary task—and not long did I attempt
+fair [[Artist|artist]] sat and plied her solitary task—and not long did I attempt
 
 to resist it: while my little neighbour was exchanging a few words with
 
-Miss Wilson, I rose and cannily slipped away. A few rapid strides, and
+Miss Wilson, I [[Rose|rose]] and cannily slipped away. A few rapid strides, and
 
 a little active clambering, soon brought me to the place where she was
 
@@ -202,6 +202,6 @@ shore.
 
 
 
-She did not hear me coming: the falling of my shadow across her paper
+She did not hear me coming: the falling of my [[Shadow|shadow]] across her paper
 
 gave her an electric start; and she looked hastily round—any other lady

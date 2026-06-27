@@ -18,11 +18,11 @@ There his master, so subtle and vigilant of eye, that Rob quaked before
 him, more than half expecting to be taxed with Mrs Brown, gave him the
 usual morning’s box of papers for Mr Dombey, and a note for Mrs Dombey:
 merely nodding his head as an enjoinder to be careful, and to use
-dispatch—a mysterious admonition, fraught in the Grinder’s imagination
+dispatch—a mysterious admonition, fraught in the Grinder’s [[Imagination|imagination]]
 with dismal warnings and threats; and more powerful with him than any
 words.
 
-Alone again, in his own room, Mr Carker applied himself to work, and
+[[Alone]] again, in his own room, Mr Carker applied himself to work, and
 worked all day. He saw many visitors; overlooked a number of documents;
 went in and out, to and from, sundry places of mercantile resort; and
 indulged in no more abstraction until the day’s business was done. But,
@@ -34,18 +34,18 @@ intently fixed upon the ground, when his brother entered to bring back
 some letters that had been taken out in the course of the day. He put
 them quietly on the table, and was going immediately, when Mr Carker
 the Manager, whose eyes had rested on him, on his entrance, as if they
-had all this time had him for the subject of their contemplation,
+had all this [[Time|time]] had him for the subject of their contemplation,
 instead of the office-floor, said:
 
-“Well, John Carker, and what brings you here?”
+“[[Well]], John Carker, and what brings you here?”
 
 His brother pointed to the letters, and was again withdrawing.
 
-“I wonder,” said the Manager, “that you can come and go, without
+“I [[Wonder|wonder]],” said the Manager, “that you can come and go, without
 inquiring how our master is”.
 
-“We had word this morning in the Counting House, that Mr Dombey was
-doing well,” replied his brother.
+“We had word this morning in the Counting [[house|House]], that Mr Dombey was
+doing [[Well|well]],” replied his brother.
 
 “You are such a meek fellow,” said the Manager, with a smile,—“but you
 have grown so, in the course of years—that if any harm came to him,
@@ -72,23 +72,23 @@ devil! are you man or mouse?”
 “It would be strange if any two persons could be together for so many
 years, especially as superior and inferior, without each having
 something to complain of in the other—as he thought, at all events,”
-replied John Carker. “But apart from my history here—”
+replied John Carker. “But apart from my [[history]] here—”
 
-“His history here!” exclaimed the Manager. “Why, there it is. The very
+“His [[history]] here!” exclaimed the Manager. “Why, there it is. The very
 fact that makes him an extreme case, puts him out of the whole chapter!
-Well?”
+[[Well]]?”
 
 “Apart from that, which, as you hint, gives me a reason to be thankful
-that I alone (happily for all the rest) possess, surely there is no one
-in the House who would not say and feel at least as much. You do not
+that I [[Alone|alone]] (happily for all the rest) possess, surely there is no one
+in the [[house|House]] who would not say and feel at least as much. You do not
 think that anybody here would be indifferent to a mischance or
-misfortune happening to the head of the House, or anything than truly
+misfortune happening to the head of the [[house|House]], or anything than truly
 sorry for it?”
 
 “You have good reason to be bound to him too!” said the Manager,
 contemptuously. “Why, don’t you believe that you are kept here, as a
 cheap example, and a famous instance of the clemency of Dombey and Son,
-redounding to the credit of the illustrious House?”
+redounding to the credit of the illustrious [[house|House]]?”
 
 “No,” replied his brother, mildly, “I have long believed that I am kept
 here for more kind and disinterested reasons.”
@@ -115,7 +115,7 @@ beginning, I know, for your great ability and trustfulness), and who
 communicate more freely with Mr Dombey than anyone, and stand, it may
 be said, on equal terms with him, and have been favoured and enriched
 by him—that it would be a mistake to suppose that it is only you who
-are tender of his welfare and reputation. There is no one in the House,
+are tender of his welfare and reputation. There is no one in the [[house|House]],
 from yourself down to the lowest, I sincerely believe, who does not
 participate in that feeling.”
 

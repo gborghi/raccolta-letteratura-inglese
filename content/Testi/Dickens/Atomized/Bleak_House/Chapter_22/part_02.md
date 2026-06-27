@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 22 (part 2)"
+title: "Bleak [[house|House]] — Chapter 22 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -39,11 +39,11 @@ intelligent in such things. What do you say to this, Bucket?”
 
 “It’s very plain, sir. Since our people have moved this boy on, and
 he’s not to be found on his old lay, if Mr. Snagsby don’t object to
-go down with me to Tom-all-Alone’s and point him out, we can have him
-here in less than a couple of hours’ time. I can do it without Mr.
+go down with me to Tom-all-[[Alone]]’s and point him out, we can have him
+here in less than a couple of hours’ [[Time|time]]. I can do it without Mr.
 Snagsby, of course, but this is the shortest way.”
 
-“Mr. Bucket is a detective officer, Snagsby,” says the lawyer in
+“Mr. Bucket is a [[Detective|detective]] officer, Snagsby,” says the lawyer in
 explanation.
 
 “Is he indeed, sir?” says Mr. Snagsby with a strong tendency in his
@@ -54,7 +54,7 @@ place in question,” pursues the lawyer, “I shall feel obliged to you
 if you will do so.”
 
 In a moment’s hesitation on the part of Mr. Snagsby, Bucket dips down
-to the bottom of his mind.
+to the [[Bottom|bottom]] of his mind.
 
 “Don’t you be afraid of hurting the boy,” he says. “You won’t do
 that. It’s all right as far as the boy’s concerned. We shall only
@@ -64,7 +64,7 @@ job for him. I promise you, as a man, that you shall see the boy sent
 away all right. Don’t you be afraid of hurting him; you an’t going to
 do that.”
 
-“Very well, Mr. Tulkinghorn!” cries Mr. Snagsby cheerfully. And
+“Very [[Well|well]], Mr. Tulkinghorn!” cries Mr. Snagsby cheerfully. And
 reassured, “Since that’s the case—”
 
 “Yes! And lookee here, Mr. Snagsby,” resumes Bucket, taking him aside
@@ -87,7 +87,7 @@ Don’t you see? Quiet!”
 
 “I don’t mind telling YOU,” says Bucket with an engaging appearance
 of frankness, “that as far as I can understand it, there seems to be
-a doubt whether this dead person wasn’t entitled to a little
+a [[Doubt|doubt]] whether this dead person wasn’t entitled to a little
 property, and whether this female hasn’t been up to some games
 respecting that property, don’t you see?”
 
@@ -100,16 +100,16 @@ want.”
 
 “To be sure,” returns Mr. Snagsby with a nod.
 
-“On account of which, and at the same time to oblige a—do you call
+“On account of which, and at the same [[Time|time]] to oblige a—do you call
 it, in your business, customer or client? I forget how my uncle used
 to call it.”
 
 “Why, I generally say customer myself,” replies Mr. Snagsby.
 
 “You’re right!” returns Mr. Bucket, shaking hands with him quite
-affectionately. “—On account of which, and at the same time to
+affectionately. “—On account of which, and at the same [[Time|time]] to
 oblige a real good customer, you mean to go down with me, in
-confidence, to Tom-all-Alone’s and to keep the whole thing quiet ever
+confidence, to Tom-all-[[Alone]]’s and to keep the whole thing quiet ever
 afterwards and never mention it to any one. That’s about your
 intentions, if I understand you?”
 

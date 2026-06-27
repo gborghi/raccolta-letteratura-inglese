@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 22"
+title: "[[The Professor]] — Chapter 22"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,13 +18,13 @@ CHAPTER XXII
 
 
 
-A WEEK is gone; LE JOUR DES NOCES arrived; the marriage was solemnized
+A WEEK is gone; LE JOUR DES NOCES arrived; the [[Marriage|marriage]] was solemnized
 
 at St. Jacques; Mdlle. Zoraide became Madame Pelet, NEE Reuter; and, in
 
 about an hour after this transformation, “the happy pair,” as newspapers
 
-phrase it, were on their way to Paris; where, according to previous
+phrase it, were on their way to [[Paris]]; where, according to previous
 
 arrangement, the honeymoon was to be spent. The next day I quitted the
 
@@ -36,11 +36,11 @@ half an hour my clothes were arranged in a commode, my books on a shelf,
 
 and the “flitting” was effected. I should not have been unhappy that day
 
-had not one pang tortured me--a longing to go to the Rue Notre Dame
+had not one pang tortured me--a [[Longing|longing]] to go to the Rue Notre Dame
 
 aux Neiges, resisted, yet irritated by an inward resolve to avoid
 
-that street till such time as the mist of doubt should clear from my
+that street till such [[Time|time]] as the mist of [[Doubt|doubt]] should clear from my
 
 prospects.
 
@@ -52,9 +52,9 @@ to do; at that hour I knew Frances would be equally released from
 
 occupation; I thought she might possibly be wishing for her master, I
 
-knew I wished for my pupil. Imagination began with her low whispers,
+knew I wished for my pupil. [[Imagination]] began with her low whispers,
 
-infusing into my soul the soft tale of pleasures that might be.
+infusing into my [[Soul|soul]] the soft tale of pleasures that might be.
 
 
 
@@ -74,7 +74,7 @@ you have the secret of awakening what expression you will, and you can
 
 choose amongst that pleasant variety. With you she will sit silent as
 
-long as it suits you to talk alone; you can hold her under a potent
+long as it suits you to talk [[Alone|alone]]; you can hold her under a potent
 
 spell: intelligent as she is, eloquent as she can be, you can seal her
 
@@ -96,23 +96,23 @@ may handle them safely.”
 
 
 
-“I will NOT go was my answer to the sweet temptress. A man is master
+“I will NOT go was my answer to the sweet [[Temptress|temptress]]. A man is master
 
 of himself to a certain point, but not beyond it. Could I seek Frances
 
-to-night, could I sit with her alone in a quiet room, and address her
+to-[[Night|night]], could I sit with her [[Alone|alone]] in a quiet room, and address her
 
 only in the language of Reason and Affection?”
 
 
 
-“No,” was the brief, fervent reply of that Love which had conquered and
+“No,” was the brief, fervent reply of that [[Love]] which had conquered and
 
 now controlled me.
 
 
 
-Time seemed to stagnate; the sun would not go down; my watch ticked, but
+[[Time]] seemed to stagnate; the sun would not go down; my watch ticked, but
 
 I thought the hands were paralyzed.
 
@@ -126,7 +126,7 @@ I wondered whether the “locataire,” now mounting to his apartments, were
 
 as unsettled in mind and condition as I was, or whether he lived in the
 
-calm of certain resources, and in the freedom of unfettered feelings.
+calm of certain resources, and in the [[Freedom|freedom]] of unfettered feelings.
 
 What! was he coming in person to solve the problem hardly proposed in
 
@@ -156,7 +156,7 @@ nonchalance seemed to intimate that it was much the same thing whether
 
 I answered or not. The fact is, I found it desirable to have recourse to
 
-my good friends “les besicles;” not exactly to ascertain the identity of
+my good friends “les besicles;” not exactly to ascertain the [[Identity|identity]] of
 
 my visitor--for I already knew him, confound his impudence! but to see
 
@@ -168,9 +168,9 @@ deliberately; adjusting them so as not to hurt the bridge of my nose
 
 or get entangled in my short tufts of dun hair. I was sitting in the
 
-window-seat, with my back to the light, and I had him VIS-A-VIS; a
+[[Window|window]]-seat, with my back to the light, and I had him VIS-A-VIS; a
 
-position he would much rather have had reversed; for, at any time, he
+position he would much rather have had reversed; for, at any [[Time|time]], he
 
 preferred scrutinizing to being scrutinized. Yes, it was HE, and no
 
@@ -178,7 +178,7 @@ mistake, with his six feet of length arranged in a sitting attitude;
 
 with his dark travelling surtout with its velvet collar, his gray
 
-pantaloons, his black stock, and his face, the most original one Nature
+pantaloons, his black stock, and his face, the most original one [[Nature]]
 
 ever modelled, yet the least obtrusively so; not one feature that could
 
@@ -190,7 +190,7 @@ to address him, I sat and stared at my ease.
 
 
 
-“Oh, that’s your game--is it?” said he at last. “Well, we’ll see which
+“Oh, that’s your game--is it?” said he at last. “[[Well]], we’ll see which
 
 is soonest tired.” And he slowly drew out a fine cigar-case, picked one
 
@@ -202,7 +202,7 @@ had been in his own room, in Grove-street, X---shire, England. I knew
 
 he was capable of continuing in that attitude till midnight, if he
 
-conceived the whim, so I rose, and taking the book from his hand, I
+conceived the whim, so I [[Rose|rose]], and taking the book from his hand, I
 
 said,--
 
@@ -216,7 +216,7 @@ said,--
 
 spell being broken, he went on: “I thought you lived at Pelet’s; I went
 
-there this afternoon expecting to be starved to death by sitting in
+there this afternoon expecting to be starved to [[Death|death]] by sitting in
 
 a boarding-school drawing-room, and they told me you were gone, had
 
@@ -264,7 +264,7 @@ come near me more, so long as the tide of fortune bore me smoothly on
 
 its surface; but the painted furniture, the bare walls, the cheerless
 
-solitude of my room relaxed his rigid pride, and I know not what
+[[Solitude|solitude]] of my room relaxed his rigid [[Pride|pride]], and I know not what
 
 softening change had taken place both in his voice and look ere he spoke
 
@@ -302,15 +302,15 @@ in such matters.”
 
 
 
-“He served me once very well; I have no claim on him, and am not in the
+“He served me once very [[Well|well]]; I have no claim on him, and am not in the
 
-humour to bother him again.”
+[[Humour|humour]] to bother him again.”
 
 
 
 “Oh, if you’re bashful, and dread being intrusive, you need only
 
-commission me. I shall see him to-night; I can put in a word.”
+commission me. I shall see him to-[[Night|night]]; I can put in a word.”
 
 
 
@@ -324,9 +324,9 @@ positively adding another item to the account.”
 
 
 
-“If the wind sits that way, I’m satisfied. I thought my unexampled
+“If the [[Wind|wind]] sits that way, I’m satisfied. I thought my unexampled
 
-generosity in turning you out of that accursed counting-house would be
+generosity in turning you out of that accursed counting-[[house]] would be
 
 duly appreciated some day: ‘Cast your bread on the waters, and it
 
@@ -338,13 +338,13 @@ common herd. In the meantime, to put all humbug aside and talk sense for
 
 a few moments, you would be greatly the better of a situation, and what
 
-is more, you are a fool if you refuse to take one from any hand that
+is more, you are a [[Fool|fool]] if you refuse to take one from any hand that
 
 offers it.”
 
 
 
-“Very well, Mr. Hunsden; now you have settled that point, talk of
+“Very [[Well|well]], Mr. Hunsden; now you have settled that point, talk of
 
 something else. What news from X----?”
 
@@ -354,7 +354,7 @@ something else. What news from X----?”
 
 before we get to X----. Is this Miss Zenobie” (Zoraide, interposed
 
-I)--“well, Zoraide--is she really married to Pelet?”
+I)--“[[Well|well]], Zoraide--is she really married to Pelet?”
 
 
 
@@ -432,7 +432,7 @@ Hunsden triumphed: his eyes--his laugh announced victory.
 
 
 
-“At your exemplary composure. Well, lad, I’ll not bore you; I see how
+“At your exemplary composure. [[Well]], lad, I’ll not bore you; I see how
 
 it is: Zoraide has jilted you--married some one richer, as any sensible
 
@@ -444,9 +444,9 @@ I made no reply--I let him think so, not feeling inclined to enter into
 
 an explanation of the real state of things, and as little to forge a
 
-false account; but it was not easy to blind Hunsden; my very silence,
+false account; but it was not easy to blind Hunsden; my very [[Silence|silence]],
 
-instead of convincing him that he had hit the truth, seemed to render
+instead of convincing him that he had hit the [[Truth|truth]], seemed to render
 
 him doubtful about it; he went on:--
 
@@ -458,7 +458,7 @@ are amongst rational people: you offered her your youth and your
 
 talents--such as they are--in exchange for her position and money: I
 
-don’t suppose you took appearance, or what is called LOVE, into the
+don’t suppose you took appearance, or what is called [[Love|LOVE]], into the
 
 account--for I understand she is older than you, and Brown says, rather
 
@@ -476,7 +476,7 @@ so--business-like and legitimate. And now we’ll talk of something else.”
 
 “Do,” said I, very glad to dismiss the topic, and especially glad to
 
-have baffled the sagacity of my cross-questioner--if, indeed, I had
+have baffled the sagacity of my [[Cross|cross]]-questioner--if, indeed, I had
 
 baffled it; for though his words now led away from the dangerous point,
 
@@ -516,7 +516,7 @@ all.”
 
 
 
-“That was your fault, not theirs. There are sensible, as well as
+“That was your fault, not theirs. There are sensible, as [[Well|well]] as
 
 handsome women in X----; women it is worth any man’s while to talk to,
 
@@ -542,11 +542,11 @@ you are generally unpopular, it is because you deserve to be so.”
 
 
 
-“No, you are not content; you see beauty always turning its back on
+“No, you are not content; you see [[Beauty|beauty]] always turning its back on
 
 you; you are mortified and then you sneer. I verily believe all that is
 
-desirable on earth--wealth, reputation, love--will for ever to you be
+desirable on earth--wealth, reputation, [[Love|love]]--will for ever to you be
 
 the ripe grapes on the high trellis: you’ll look up at them; they will
 
@@ -560,7 +560,7 @@ sour.”
 
 Cutting as these words might have been under some circumstances, they
 
-drew no blood now. My life was changed; my experience had been varied
+drew no [[Blood|blood]] now. My life was changed; my experience had been varied
 
 since I left X----, but Hunsden could not know this; he had seen me only
 
@@ -576,13 +576,13 @@ be scorned as worthless. He could not be aware that since then youth and
 
 loveliness had been to me everyday objects; that I had studied them at
 
-leisure and closely, and had seen the plain texture of truth under
+leisure and closely, and had seen the plain texture of [[Truth|truth]] under
 
 the embroidery of appearance; nor could he, keen-sighted as he
 
 was, penetrate into my heart, search my brain, and read my peculiar
 
-sympathies and antipathies; he had not known me long enough, or well
+sympathies and antipathies; he had not known me long enough, or [[Well|well]]
 
 enough, to perceive how low my feelings would ebb under some influences,
 
@@ -590,9 +590,9 @@ powerful over most minds; how high, how fast they would flow under
 
 other influences, that perhaps acted with the more intense force on me,
 
-because they acted on me alone. Neither could he suspect for an instant
+because they acted on me [[Alone|alone]]. Neither could he suspect for an instant
 
-the history of my communications with Mdlle. Reuter; secret to him
+the [[history]] of my communications with Mdlle. Reuter; secret to him
 
 and to all others was the tale of her strange infatuation; her
 
@@ -608,7 +608,7 @@ sarcasm; it kept me unbent by shame, and unstirred by wrath. But of all
 
 this I could say nothing--nothing decisive at least; uncertainty sealed
 
-my lips, and during the interval of silence by which alone I replied to
+my lips, and during the interval of [[Silence|silence]] by which [[Alone|alone]] I replied to
 
 Mr. Hunsden, I made up my mind to be for the present wholly misjudged
 
@@ -626,7 +626,7 @@ sense, every false step I made would be a good lesson.
 
 Just then I turned my face a little to the light; the approach of
 
-twilight, and my position in the window-seat, had, for the last ten
+twilight, and my position in the [[Window|window]]-seat, had, for the last ten
 
 minutes, prevented him from studying my countenance; as I moved,
 
@@ -634,7 +634,7 @@ however, he caught an expression which he thus interpreted:--
 
 
 
-“Confound it! How doggedly self-approving the lad looks! I thought he
+“Confound it! How doggedly [[Self|self]]-approving the lad looks! I thought he
 
 was fit to die with shame, and there he sits grinning smiles, as good as
 
@@ -648,15 +648,15 @@ independent of both Fate and Fortune.’”
 
 “Hunsden--you spoke of grapes; I was thinking of a fruit I like better
 
-than your X---- hot-house grapes--an unique fruit, growing wild, which I
+than your X---- hot-[[house]] grapes--an unique fruit, growing wild, which I
 
-have marked as my own, and hope one day to gather and taste. It is of no
+have marked as my own, and [[Hope|hope]] one day to gather and taste. It is of no
 
 use your offering me the draught of bitterness, or threatening me with
 
-death by thirst: I have the anticipation of sweetness on my palate; the
+[[Death|death]] by thirst: I have the anticipation of sweetness on my palate; the
 
-hope of freshness on my lips; I can reject the unsavoury, and endure the
+[[Hope|hope]] of freshness on my lips; I can reject the unsavoury, and endure the
 
 exhausting.”
 
@@ -666,7 +666,7 @@ exhausting.”
 
 
 
-“Till the next opportunity for effort; and as the prize of success will
+“Till the next opportunity for effort; and as the prize of [[success]] will
 
 be a treasure after my own heart, I’ll bring a bull’s strength to the
 
@@ -676,7 +676,7 @@ struggle.”
 
 “Bad luck crushes bulls as easily as bullaces; and, I believe, the fury
 
-dogs you: you were born with a wooden spoon in your mouth, depend on
+[[dogs]] you: you were born with a wooden spoon in your mouth, depend on
 
 it.”
 
@@ -690,7 +690,7 @@ wooden spoon will shovel up broth.”
 
 
 
-Hunsden rose: “I see,” said he; “I suppose you’re one of those who
+Hunsden [[Rose|rose]]: “I see,” said he; “I suppose you’re one of those who
 
 develop best unwatched, and act best unaided--work your own way. Now,
 
@@ -712,15 +712,15 @@ turned:--
 
 
 
-“What! Edward Crimsworth?”
+“What! [[Edward Crimsworth]]?”
 
 
 
-“Precisely; and his wife went home to her father’s; when affairs went
+“Precisely; and his wife went [[Home|home]] to her father’s; when affairs went
 
 awry, his temper sympathized with them; he used her ill; I told you he
 
-would be a tyrant to her some day; as to him--”
+would be a [[Tyrant|tyrant]] to her some day; as to him--”
 
 
 
@@ -730,7 +730,7 @@ would be a tyrant to her some day; as to him--”
 
 “Nothing extraordinary--don’t be alarmed; he put himself under the
 
-protection of the court, compounded with his creditors--tenpence in
+protection of the [[Court|court]], compounded with his creditors--tenpence in
 
 the pound; in six weeks set up again, coaxed back his wife, and is
 
@@ -742,7 +742,7 @@ flourishing like a green bay-tree.”
 
 
 
-“Everything--from the grand piano down to the rolling-pin.”
+“Everything--from the grand piano down to the [[rolling]]-pin.”
 
 
 
@@ -786,7 +786,7 @@ sou.”
 
 I did. “But surely,” I thought to myself, “I shall not always be so
 
-poverty-stricken; I may one day buy it back yet.--Who purchased it? do
+[[Poverty|poverty]]-stricken; I may one day buy it back yet.--Who purchased it? do
 
 you know?” I asked.
 
@@ -796,11 +796,11 @@ you know?” I asked.
 
 the unpractical man--to imagine all the world is interested in what
 
-interests himself! Now, good night--I’m off for Germany to-morrow
+interests himself! Now, good [[Night|night]]--I’m off for [[Germany]] to-morrow
 
 morning; I shall be back here in six weeks, and possibly I may call
 
-and see you again; I wonder whether you’ll be still out of place!”
+and see you again; I [[Wonder|wonder]] whether you’ll be still out of place!”
 
  he laughed, as mockingly, as heartlessly as Mephistopheles, and so
 
@@ -822,11 +822,11 @@ knew.
 
 
 
-A ruffled mind makes a restless pillow; I slept little on the night
+A ruffled mind makes a restless pillow; I slept little on the [[Night|night]]
 
 after this interview; towards morning I began to doze, but hardly had my
 
-slumber become sleep, when I was roused from it by hearing a noise in
+slumber become [[Sleep|sleep]], when I was roused from it by hearing a noise in
 
 my sitting room, to which my bed-room adjoined--a step, and a shoving of
 
@@ -836,7 +836,7 @@ of the door it ceased. I listened; not a mouse stirred; perhaps I
 
 had dreamt it; perhaps a locataire had made a mistake, and entered my
 
-apartment instead of his own. It was yet but five o’clock; neither I nor
+apartment instead of his own. It was yet but five o’[[Clock|clock]]; neither I nor
 
 the day were wide awake; I turned, and was soon unconscious. When I did
 
@@ -878,7 +878,7 @@ being at length removed, I lifted from the case a large picture, in a
 
 magnificent frame; leaning it against a chair, in a position where the
 
-light from the window fell favourably upon it, I stepped back--already I
+light from the [[Window|window]] fell favourably upon it, I stepped back--already I
 
 had mounted my spectacles. A portrait-painter’s sky (the most sombre and
 
@@ -922,17 +922,17 @@ spoke:--
 
 
 
-“There is a sort of stupid pleasure in giving a child sweets, a fool his
+“There is a sort of stupid pleasure in giving a [[Child|child]] sweets, a [[Fool|fool]] his
 
-bells, a dog a bone. You are repaid by seeing the child besmear his face
+[[Bells|bells]], a dog a bone. You are repaid by seeing the [[Child|child]] besmear his face
 
-with sugar; by witnessing how the fool’s ecstasy makes a greater fool of
+with sugar; by witnessing how the [[Fool|fool]]’s ecstasy makes a greater [[Fool|fool]] of
 
-him than ever; by watching the dog’s nature come out over his bone.
+him than ever; by watching the dog’s [[Nature|nature]] come out over his bone.
 
-In giving William Crimsworth his mother’s picture, I give him sweets,
+In giving [[William Crimsworth]] his mother’s picture, I give him sweets,
 
-bells, and bone all in one; what grieves me is, that I cannot behold
+[[Bells|bells]], and bone all in one; what grieves me is, that I cannot behold
 
 the result; I would have added five shillings more to my bid if the
 
@@ -944,7 +944,7 @@ auctioneer could only have promised me that pleasure.
 
 
 
-“P.S.--You said last night you positively declined adding another item
+“P.S.--You said last [[Night|night]] you positively declined adding another item
 
 to your account with me; don’t you think I’ve saved you that trouble?”
 
@@ -954,7 +954,7 @@ I muffled the picture in its green baize covering, restored it to the
 
 case, and having transported the whole concern to my bed-room, put it
 
-out of sight under my bed. My pleasure was now poisoned by pungent pain;
+out of sight under my bed. My pleasure was now poisoned by pungent [[Pain|pain]];
 
 I determined to look no more till I could look at my ease. If Hunsden
 
@@ -970,9 +970,9 @@ Too anxious to remain any longer quiescent, I had no sooner breakfasted,
 
 than I repaired once more to M. Vandenhuten’s, scarcely hoping to find
 
-him at home; for a week had barely elapsed since my first call: but
+him at [[Home|home]]; for a week had barely elapsed since my first call: but
 
-fancying I might be able to glean information as to the time when his
+fancying I might be able to glean information as to the [[Time|time]] when his
 
 return was expected. A better result awaited me than I had anticipated,
 
@@ -982,7 +982,7 @@ to Brussels on business for the day. He received me with the quiet
 
 kindness of a sincere though not excitable man. I had not sat five
 
-minutes alone with him in his bureau, before I became aware of a sense
+minutes [[Alone|alone]] with him in his bureau, before I became aware of a sense
 
 of ease in his presence, such as I rarely experienced with strangers.
 
@@ -1014,17 +1014,17 @@ both to plan and to practise, to conceive and to realize. The Dutchman
 
 was benevolent, the Englishman susceptible; in short our characters
 
-dovetailed, but my mind having more fire and action than his,
+dovetailed, but my mind having more [[Fire|fire]] and action than his,
 
 instinctively assumed and kept the predominance.
 
 
 
-This point settled, and my position well ascertained, I addressed him
+This point settled, and my position [[Well|well]] ascertained, I addressed him
 
 on the subject of my affairs with that genuine frankness which full
 
-confidence can alone inspire. It was a pleasure to him to be so appealed
+confidence can [[Alone|alone]] inspire. It was a pleasure to him to be so appealed
 
 to; he thanked me for giving him this opportunity of using a little
 
@@ -1034,7 +1034,7 @@ so much to be helped, as to be put into the way of helping myself;
 
 of him I did not want exertion--that was to be my part--but only
 
-information and recommendation. Soon after I rose to go. He held out his
+information and recommendation. Soon after I [[Rose|rose]] to go. He held out his
 
 hand at parting--an action of greater significance with foreigners
 
@@ -1052,7 +1052,7 @@ The next fortnight was a period of many alternations; my existence
 
 during its lapse resembled a sky of one of those autumnal nights which
 
-are specially haunted by meteors and falling stars. Hopes and fears,
+are specially haunted by meteors and falling [[Stars|stars]]. Hopes and fears,
 
 expectations and disappointments, descended in glancing showers from
 
@@ -1062,7 +1062,7 @@ each vanishing apparition. M. Vandenhuten aided me faithfully; he set me
 
 on the track of several places, and himself made efforts to secure
 
-them for me; but for a long time solicitation and recommendation were
+them for me; but for a long [[Time|time]] solicitation and recommendation were
 
 vain--the door either shut in my face when I was about to walk in,
 
@@ -1072,7 +1072,7 @@ useless. Feverish and roused, no disappointment arrested me; defeat
 
 following fast on defeat served as stimulants to will. I forgot
 
-fastidiousness, conquered reserve, thrust pride from me: I asked, I
+fastidiousness, conquered reserve, thrust [[Pride|pride]] from me: I asked, I
 
 persevered, I remonstrated, I dunned. It is so that openings are forced
 

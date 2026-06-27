@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 12 (part 4)"
+title: "[[Shirley]] — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -36,11 +36,11 @@ gives him a caress."
 
 
 
-"Handsome fellow!" said Shirley, with enthusiasm. Her eyes sparkled.
+"Handsome fellow!" said [[Shirley]], with enthusiasm. Her eyes sparkled.
 
 
 
-"Is he not handsome? Has he not fine eyes and well-cut features, and a
+"Is he not handsome? Has he not fine eyes and [[Well|well]]-cut features, and a
 
 clear, princely forehead?"
 
@@ -56,15 +56,15 @@ I knew you would."
 
 
 
-"I was well inclined to him before I saw him. I liked him when I did see
+"I was [[Well|well]] inclined to him before I saw him. I liked him when I did see
 
-him. I admire him now. There is charm in beauty for itself, Caroline;
+him. I admire him now. There is charm in [[Beauty|beauty]] for itself, Caroline;
 
 when it is blent with goodness, there is a powerful charm."
 
 
 
-"When mind is added, Shirley?"
+"When mind is added, [[Shirley]]?"
 
 
 
@@ -76,13 +76,13 @@ when it is blent with goodness, there is a powerful charm."
 
 
 
-"Remember the croaking of the frogs of Egypt. He is a noble being. I
+"Remember the croaking of the frogs of [[Egypt]]. He is a noble being. I
 
 tell you when they _are_ good they are the lords of the creation--they
 
 are the sons of God. Moulded in their Maker's image, the minutest spark
 
-of His spirit lifts them almost above mortality. Indisputably, a great,
+of His spirit lifts them almost above [[Mortality|mortality]]. Indisputably, a great,
 
 good, handsome man is the first of created things."
 
@@ -96,13 +96,13 @@ good, handsome man is the first of created things."
 
 my left hand dispute for precedence with my right? Shall my heart
 
-quarrel with my pulse? Shall my veins be jealous of the blood which
+quarrel with my pulse? Shall my veins be jealous of the [[Blood|blood]] which
 
 fills them?"
 
 
 
-"Men and women, husbands and wives, quarrel horribly, Shirley."
+"Men and women, husbands and wives, quarrel horribly, [[Shirley]]."
 
 
 
@@ -142,7 +142,7 @@ there are but false gods to adore. I disdain to be a pagan."
 
 "Not to-day, but to-morrow I shall fetch you to spend the evening with
 
-me. Caroline Helstone, if you really are what at present to me you seem,
+me. [[Caroline Helstone]], if you really are what at present to me you seem,
 
 you and I will suit. I have never in my whole life been able to talk to
 
@@ -156,9 +156,9 @@ good-bye."
 
 
 
-Mrs. Pryor seemed as well disposed to cultivate Caroline's acquaintance
+Mrs. Pryor seemed as [[Well|well]] disposed to cultivate Caroline's acquaintance
 
-as Shirley. She, who went nowhere else, called on an early day at the
+as [[Shirley]]. She, who went nowhere else, called on an early day at the
 
 rectory. She came in the afternoon, when the rector happened to be out.
 
@@ -166,7 +166,7 @@ It was rather a close day; the heat of the weather had flushed her, and
 
 she seemed fluttered too by the circumstance of entering a strange
 
-house, for it appeared her habits were most retiring and secluded. When
+[[house]], for it appeared her habits were most retiring and secluded. When
 
 Miss Helstone went to her in the dining-room she found her seated on the
 
@@ -178,7 +178,7 @@ hysterical.
 
 
 
-Caroline marvelled somewhat at this unusual want of self-command in a
+Caroline marvelled somewhat at this unusual want of [[Self|self]]-command in a
 
 lady of her years, and also at the lack of real strength in one who
 
@@ -212,9 +212,9 @@ topics. In a miscellaneous company Mrs. Pryor rarely opened her lips,
 
 or, if obliged to speak, she spoke under restraint, and consequently not
 
-well; in dialogue she was a good converser. Her language, always a
+[[Well|well]]; in dialogue she was a good converser. Her language, always a
 
-little formal, was well chosen; her sentiments were just; her
+little formal, was [[Well|well]] chosen; her sentiments were just; her
 
 information was varied and correct. Caroline felt it pleasant to listen
 
@@ -248,9 +248,9 @@ portrait from the life, I presume?"
 
 
 
-"It is, and is said to be a good likeness. Before her marriage she was
+"It is, and is said to be a good likeness. Before her [[Marriage|marriage]] she was
 
-accounted the beauty of the district."
+accounted the [[Beauty|beauty]] of the district."
 
 
 
@@ -276,13 +276,13 @@ being amused by lively chat?"
 
 "In company he is. But he always says he could never do with a talking
 
-wife. He must have quiet at home. You go out to gossip, he affirms; you
+wife. He must have quiet at [[Home|home]]. You go out to gossip, he affirms; you
 
-come home to read and reflect."
+come [[Home|home]] to read and reflect."
 
 
 
-"Mrs. Matthewson lived but a few years after her marriage, I think I
+"Mrs. Matthewson lived but a few years after her [[Marriage|marriage]], I think I
 
 have heard?"
 

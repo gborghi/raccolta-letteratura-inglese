@@ -1,5 +1,5 @@
 ---
-title: "The Ballad of the White Horse — Book III"
+title: "The Ballad of the White [[Horse]] — Book III"
 author: "Chesterton"
 unitType: section
 parentWork: "Works/The-Ballad-of-the-White-Horse-(Chesterton)"
@@ -18,12 +18,12 @@ BOOK III
 THE HARP OF ALFRED  
 
 N a tree that yawned and twisted  
-       The King’s few goods were flung,  
+       The [[King]]’s few goods were flung,  
      A mass-book mildewed, line by line,  
      And weapons and a skin of wine,  
        And an old harp unstrung. [5]  
      By the yawning tree in the twilight  
-       The King unbound his sword,  
+       The [[King]] unbound his [[Sword|sword]],  
      Severed the harp of all his goods,  
      And there in the cool and soundless woods  
        Sounded a single chord. [10]  
@@ -31,7 +31,7 @@ N a tree that yawned and twisted
        The sullen flies in swarm,  
      And went unarmed over the hills,  
        With the harp upon his arm.  
-     Until he came to the White Horse Vale [15]  
+     Until he came to the White [[Horse]] Vale [15]  
        And saw across the plains,  
      In the twilight high and far and fell,  
      Like the fiery terraces of hell,  
@@ -42,56 +42,56 @@ N a tree that yawned and twisted
      Ran around England red as morn,  
      Fires over Glastonbury Thorn—  
        Fires out on Ely Fen. [25]  
-     And as he went by White Horse Vale  
+     And as he went by White [[Horse]] Vale  
        He saw lie wan and wide  
-     The old horse graven, God knows when,  
+     The old [[Horse|horse]] graven, God knows when,  
      By gods or beasts or what things then  
      Walked a new world instead of men [30]  
-       And scrawled on the hill-side.  
-     And when he came to White Horse Down  
-       The great White Horse was grey,  
+       And scrawled on the [[Hill|hill]]-side.  
+     And when he came to White [[Horse]] Down  
+       The great White [[Horse]] was grey,  
      For it was ill scoured of the weed,  
      And lichen and thorn could crawl and feed, [35]  
-     Since the foes of settled house and creed  
+     Since the foes of settled [[house]] and creed  
        Had swept old works away.  
-     King Alfred gazed all sorrowful  
+     [[King Alfred]] gazed all sorrowful  
        At thistle and mosses grey,  
      Till a rally of Danes with shield and bill [40]  
-     Rolled drunk over the dome of the hill,  
+     Rolled drunk over the dome of the [[Hill|hill]],  
      And, hearing of his harp and skill,  
        They dragged him to their play.  
      And as they went through the high green grass  
        They roared like the great green sea; [45]  
-     But when they came to the red camp fire  
+     But when they came to the red camp [[Fire|fire]]  
        They were silent suddenly.  
      And as they went up the wastes away  
        They went reeling to and fro;  
-       But when they came to the red camp fire [50]  
+       But when they came to the red camp [[Fire|fire]] [50]  
        They stood all in a row.  
      For golden in the firelight,  
        With a smile carved on his lips,  
      And a beard curled right cunningly,  
      Was Guthrum of the Northern Sea, [55]  
        The emperor of the ships—  
-     With three great earls King Guthrum  
-       Went the rounds from fire to fire,  
-     With Harold, nephew of the King,  
+     With three great earls [[King]] Guthrum  
+       Went the rounds from [[Fire|fire]] to [[Fire|fire]],  
+     With Harold, nephew of the [[King]],  
      And Ogier of the Stone and Sling, [60]  
      And Elf, whose gold lute had a string  
-       That sighed like all desire.  
+       That sighed like all [[Desire|desire]].  
      The Earls of the Great Army  
        That no men born could tire,  
      Whose flames anear him or aloof [65]  
      Took hold of towers or walls of proof,  
-     Fire over Glastonbury roof  
-       And out on Ely, fire.  
+     [[Fire]] over Glastonbury roof  
+       And out on Ely, [[Fire|fire]].  
      And Guthrum heard the soldiers’ tale  
        And bade the stranger play; [70]  
      Not harshly, but as one on high,  
      On a marble pillar in the sky,  
      Who sees all folk that live and die—  
        Pigmy and far away.  
-     And Alfred, King of Wessex, [75]  
+     And Alfred, [[King]] of Wessex, [75]  
        Looked on his conqueror—  
      And his hands hardened; but he played,  
      And leaving all later hates unsaid,  
@@ -100,16 +100,16 @@ N a tree that yawned and twisted
      He sang of war in the warm wet shires,  
        Where rain nor fruitage fails,  
      Where England of the motley states  
-     Deepens like a garden to the gates  
+     Deepens like a [[Garden|garden]] to the gates  
        In the purple walls of Wales. [85]  
      He sang of the seas of savage heads  
        And the seas and seas of spears,  
      Boiling all over Offa’s Dyke,  
-     What time a Wessex club could strike  
+     What [[Time|time]] a Wessex club could strike  
        The kings of the mountaineers. [90]  
      Till Harold laughed and snatched the harp,  
-       The kinsman of the King,  
-     A big youth, beardless like a child,  
+       The kinsman of the [[King]],  
+     A big youth, beardless like a [[Child|child]],  
      Whom the new wine of war sent wild,  
        Smote, and began to sing— [95]  
      And he cried of the ships as eagles  
@@ -124,25 +124,25 @@ N a tree that yawned and twisted
        And gat of it little joy— [105]  
      But we, but we shall enjoy the world,  
        The whole huge world a toy.  
-     “Great wine like blood from Burgundy,  
+     “Great wine like [[Blood|blood]] from Burgundy,  
        Cloaks like the clouds from Tyre,  
      And marble like solid moonlight, [110]  
-       And gold like frozen fire.  
+       And gold like frozen [[Fire|fire]].  
      “Smells that a man might swill in a cup,  
        Stones that a man might eat,  
      And the great smooth women like ivory  
      That the Turks sell in the street.” [115]  
      He sang the throne of the thief of the world,  
-       And the gods that love the thief;  
+       And the gods that [[Love|love]] the thief;  
      And he yelled aloud at the cloister-yards,  
        Where men go gathering grief.  
-     “Well have you sung, O stranger, [120]  
-       Of death on the dyke in Wales,  
+     “[[Well]] have you sung, O stranger, [120]  
+       Of [[Death|death]] on the dyke in Wales,  
      Your chief was a bracelet-giver;  
-     But the red unbroken river  
+     But the red unbroken [[River|river]]  
      Of a race runs not for ever,  
        But suddenly it fails. [125]  
-     “Doubtless your sires were sword-swingers  
+     “Doubtless your sires were [[Sword|sword]]-swingers  
        When they waded fresh from foam,  
      Before they were turned to women  
        By the god of the nails from Rome;  
@@ -150,49 +150,49 @@ N a tree that yawned and twisted
        Who neither lust nor smite,  
      Thunder of Thor, we hunt you,  
        A hare on the mountain height.”  
-     King Guthrum smiled a little,  
+     [[King]] Guthrum smiled a little,  
        And said, “It is enough, [135]  
      Nephew, let Elf retune the string;  
      A boy must needs like bellowing,  
-     But the old ears of a careful king  
-       Are glad of songs less rough.”  
+     But the old ears of a careful [[King|king]]  
+       Are glad of [[songs]] less rough.”  
      Blue-eyed was Elf the minstrel, [140]  
        With womanish hair and ring,  
-     Yet heavy was his hand on sword,  
+     Yet heavy was his hand on [[Sword|sword]],  
        Though light upon the string.  
      And as he stirred the strings of the harp  
        To notes but four or five, [145]  
      The heart of each man moved in him  
        Like a babe buried alive.  
-     And they felt the land of the folk-songs  
+     And they felt the land of the folk-[[songs]]  
        Spread southward of the Dane,  
      And they heard the good Rhine flowing [150]  
        In the heart of all Allemagne.  
-     They felt the land of the folk-songs,  
+     They felt the land of the folk-[[songs]],  
        Where the gifts hang on the tree,  
      Where the girls give ale at morning  
-       And the tears come easily. [155]  
+       And the [[Tears|tears]] come easily. [155]  
      The mighty people, womanlike,  
-       That have pleasure in their pain  
+       That have pleasure in their [[Pain|pain]]  
      As he sang of Balder beautiful,  
        Whom the heavens loved in vain.  
      As he sang of Balder beautiful, [160]  
        Whom the heavens could not save,  
-     Till the world was like a sea of tears  
-       And every soul a wave.  
+     Till the world was like a sea of [[Tears|tears]]  
+       And every [[Soul|soul]] a wave.  
      “There is always a thing forgotten  
-       When all the world goes well; [165]  
+       When all the world goes [[Well|well]]; [165]  
      A thing forgotten, as long ago  
      When the gods forgot the mistletoe,  
-     And soundless as an arrow of snow  
+     And soundless as an arrow of [[Snow|snow]]  
        The arrow of anguish fell.  
      “The thing on the blind side of the heart, [170]  
        On the wrong side of the door,  
      The green plant groweth, menacing  
-     Almighty lovers in the spring;  
+     Almighty [[lovers]] in the [[Spring|spring]];  
      There is always a forgotten thing,  
-       And love is not secure.” [175]  
-     And all that sat by the fire were sad,  
+       And [[Love|love]] is not secure.” [175]  
+     And all that sat by the [[Fire|fire]] were sad,  
        Save Ogier, who was stern,  
      And his eyes hardened, even to stones,  
        As he took the harp in turn;  
@@ -209,14 +209,14 @@ N a tree that yawned and twisted
      Gods that are best unsung. [190]  
      “And a man grows ugly for women,  
        And a man grows dull with ale,  
-     Well if he find in his soul at last  
+     [[Well]] if he find in his [[Soul|soul]] at last  
        Fury, that does not fail.  
      “The wrath of the gods behind the gods [195]  
        Who would rend all gods and men,  
-     Well if the old man’s heart hath still  
+     [[Well]] if the old man’s heart hath still  
      Wheels sped of rage and roaring will,  
      Like cataracts to break down and kill,  
-       Well for the old man then— [200]  
+       [[Well]] for the old man then— [200]  
      “While there is one tall shrine to shake,  
        Or one live man to rend;  
      For the wrath of the gods behind the gods  
@@ -226,7 +226,7 @@ N a tree that yawned and twisted
      When the taut rope parts under the pull,  
      And the barest branch is beautiful  
        One moment, while it breaks.  
-     “So rides my soul upon the sea [210]  
+     “So rides my [[Soul|soul]] upon the sea [210]  
        That drinks the howling ships,  
      Though in black jest it bows and nods  
      Under the moons with silver rods,  
@@ -243,10 +243,10 @@ N a tree that yawned and twisted
      A noise about them and behind,  
      Shall hear an awful voice, and find  
        Foam in the courts of heaven. [225]  
-     “And you that sit by the fire are young,  
+     “And you that sit by the [[Fire|fire]] are young,  
        And true loves wait for you;  
-     But the King and I grow old, grow old,  
-       And hate alone is true.” [230]  
+     But the [[King]] and I grow old, grow old,  
+       And hate [[Alone|alone]] is true.” [230]  
      And Guthrum shook his head but smiled,  
        For he was a mighty clerk,  
      And had read lines in the Latin books,  
@@ -259,24 +259,24 @@ N a tree that yawned and twisted
        Even Guthrum of the Danes, [240]  
      With wide eyes bright as the one long day  
        On the long polar plains.  
-     For he sang of a wheel returning,  
+     For he sang of a [[Wheel|wheel]] returning,  
        And the mire trod back to mire,  
      And how red hells and golden heavens [245]  
-       Are castles in the fire.  
+       Are castles in the [[Fire|fire]].  
      “It is good to sit where the good tales go,  
        To sit as our fathers sat;  
      But the hour shall come after his youth,  
-     When a man shall know not tales but truth, [250]  
+     When a man shall know not tales but [[Truth|truth]], [250]  
        And his heart fail thereat.  
      “When he shall read what is written  
      So plain in clouds and clods,  
-     When he shall hunger without hope  
+     When he shall hunger without [[Hope|hope]]  
        Even for evil gods. [255]  
      “For this is a heavy matter,  
-       And the truth is cold to tell;  
+       And the [[Truth|truth]] is cold to tell;  
      Do we not know, have we not heard,  
-     The soul is like a lost bird,  
-       The body a broken shell. [260]  
+     The [[Soul|soul]] is like a lost bird,  
+       The [[Body|body]] a broken shell. [260]  
      “And a man hopes, being ignorant  
        Till in white woods apart  
      He finds at last the lost bird dead:  
@@ -291,23 +291,23 @@ N a tree that yawned and twisted
      But the great sea is bitter  
        That washes all the world.  
      “Strong are the Roman roses,  
-       Or the free flowers of the heath, [275]  
+       Or the free [[Flowers|flowers]] of the heath, [275]  
      But every flower, like a flower of the sea,  
-       Smelleth with the salt of death.  
+       Smelleth with the salt of [[Death|death]].  
      “And the heart of the locked battle  
      Is the happiest place for men;  
      When shrieking souls as shafts go by [280]  
      And many have died and all may die;  
      Though this word be a mystery,  
-       Death is most distant then.  
-     “Death blazes bright above the cup,  
-       And clear above the crown; [285]  
+       [[Death]] is most distant then.  
+     “[[Death]] blazes bright above the cup,  
+       And clear above the [[Crown|crown]]; [285]  
      But in that dream of battle  
        We seem to tread it down.  
-     “Wherefore I am a great king,  
+     “Wherefore I am a great [[King|king]],  
        And waste the world in vain,  
      Because man hath not other power, [290]  
-     Save that in dealing death for dower,  
+     Save that in dealing [[Death|death]] for dower,  
      He may forget it for an hour  
        To remember it again.”  
      And slowly his hands and thoughtfully  
@@ -319,8 +319,8 @@ N a tree that yawned and twisted
      And swept the framework barred, [300]  
      And his stroke had all the rattle and spark  
        Of horses flying hard.  
-     “When God put man in a garden  
-       He girt him with a sword,  
+     “When God put man in a [[Garden|garden]]  
+       He girt him with a [[Sword|sword]],  
      And sent him forth a free knight [305]  
        That might betray his lord;  
      “He brake Him and betrayed Him,  
@@ -333,26 +333,26 @@ N a tree that yawned and twisted
        Than rise with all your gods.  
      “What have the strong gods given? [315]  
        Where have the glad gods led?  
-     When Guthrum sits on a hero’s throne  
+     When Guthrum sits on a [[Hero|hero]]’s throne  
        And asks if he is dead?  
      “Sirs, I am but a nameless man,  
-       A rhymester without home, [320]  
+       A rhymester without [[Home|home]], [320]  
      Yet since I come of the Wessex clay  
-       And carry the cross of Rome,  
+       And carry the [[Cross|cross]] of Rome,  
      “I will even answer the mighty earl  
        That asked of Wessex men  
      Why they be meek and monkish folk, [325]  
      And bow to the White Lord’s broken yoke;  
-     What sign have we save blood and smoke?  
+     What sign have we save [[Blood|blood]] and smoke?  
        Here is my answer then.  
-     “That on you is fallen the shadow,  
+     “That on you is fallen the [[Shadow|shadow]],  
        And not upon the Name; [330]  
      That though we scatter and though we fly,  
      And you hang over us like the sky,  
      You are more tired of victory,  
        Than we are tired of shame.  
      “That though you hunt the Christian man [335]  
-       Like a hare on the hill-side,  
+       Like a hare on the [[Hill|hill]]-side,  
      The hare has still more heart to run  
        Than you have heart to ride.  
      “That though all lances split on you,  
@@ -360,12 +360,12 @@ N a tree that yawned and twisted
      We have more lust again to lose  
        Than you to win again.  
      “Your lord sits high in the saddle,  
-       A broken-hearted king,  
-     But our King Alfred, lost from fame, [345]  
+       A broken-hearted [[King|king]],  
+     But our [[King Alfred]], lost from fame, [345]  
      Fallen among foes or bonds of shame,  
      In I know not what mean trade or name,  
-       Has still some song to sing;  
-     “Our monks go robed in rain and snow,  
+       Has still some [[Song|song]] to sing;  
+     “Our [[Monks|monks]] go robed in rain and [[Snow|snow]],  
        But the heart of flame therein, [350]  
      But you go clothed in feasts and flames,  
        When all is ice within;  
@@ -376,16 +376,16 @@ N a tree that yawned and twisted
      “Nor monkish order only  
        Slides down, as field to fen,  
      All things achieved and chosen pass,  
-     As the “White Horse fades in the grass, [360]  
+     As the “White [[Horse]] fades in the grass, [360]  
        No work of Christian men.  
      “Ere the sad gods that made your gods  
        Saw their sad sunrise pass,  
-     The White Horse of the White Horse Vale,  
+     The White [[Horse]] of the White [[Horse]] Vale,  
      That you have left to darken and fail, [365]  
        Was cut out of the grass.  
      “Therefore your end is on you,  
        Is on you and your kings,  
-     Not for a fire in Ely fen,  
+     Not for a [[Fire|fire]] in Ely fen,  
      Not that your gods are nine or ten, [370]  
      But because it is only Christian men  
        Guard even heathen things.  
@@ -393,9 +393,9 @@ N a tree that yawned and twisted
        Calling it good. I know  
      What spirit with whom you blindly band [375]  
      Hath blessed destruction with his hand;  
-     Yet by God’s death the stars shall stand  
+     Yet by God’s [[Death|death]] the [[Stars|stars]] shall stand  
        And the small apples grow.”  
-     And the King, with harp on shoulder,  
-       Stood up and ceased his song; [380]  
+     And the [[King]], with harp on shoulder,  
+       Stood up and ceased his [[Song|song]]; [380]  
      And the owls moaned from the mighty trees,  
        And the Danes laughed loud and long.  

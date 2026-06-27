@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 25)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 25)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-  America.]
+  [[america|America]].]
 
 
 
@@ -32,19 +32,19 @@ AMERICAN NOTES
 
 _American Notes_ was written soon after Dickens had returned from his
 
-first visit to America. That visit had, of course, been a great epoch in
+first visit to [[america|America]]. That visit had, of course, been a great epoch in
 
 his life; but how much of an epoch men did not truly realise until, some
 
-time after, in the middle of a quiet story about Salisbury and a
+[[Time|time]] after, in the middle of a quiet story about Salisbury and a
 
-ridiculous architect, his feelings flamed out and flared up to the stars
+ridiculous architect, his feelings flamed out and flared up to the [[Stars|stars]]
 
 in _Martin Chuzzlewit_. The _American Notes_ are, however, interesting,
 
 because in them he betrays his feelings when he does not know that he is
 
-betraying them. Dickens's first visit to America was, from his own point
+betraying them. Dickens's first visit to [[america|America]] was, from his own point
 
 of view, and at the beginning, a happy and festive experiment. It is
 
@@ -64,13 +64,13 @@ pure optimism; he believed so readily that men were going to be good to
 
 him that an injury to him was something more than an injury: it was a
 
-shock. What was the exact nature of the American shock must, however, be
+shock. What was the exact [[Nature|nature]] of the American shock must, however, be
 
 more carefully stated.
 
 
 
-The famous quarrel between Dickens and America, which finds its most
+The famous quarrel between Dickens and [[america|America]], which finds its most
 
 elaborate expression in _American Notes_, though its most brilliant
 
@@ -82,13 +82,13 @@ be said is this. This old Anglo-American quarrel was much more
 
 fundamentally friendly than most Anglo-American alliances. In Dickens's
 
-day each nation understood the other enough to argue. In our time
+day each nation understood the other enough to argue. In our [[Time|time]]
 
 neither nation understands itself even enough to quarrel. There was an
 
 English tradition, from Fox and eighteenth-century England; there was an
 
-American tradition from Franklin and eighteenth-century America; and
+American tradition from Franklin and eighteenth-century [[america|America]]; and
 
 they were still close enough together to discuss their differences with
 
@@ -98,11 +98,11 @@ eighteenth-century belief in a liberal civilisation was still a dogma;
 
 for dogma is the only thing that makes argument or reasoning possible.
 
-America, under all its swagger, did still really believe that Europe was
+[[america|America]], under all its swagger, did still really believe that Europe was
 
 its fountain and its mother, because Europe was more fully civilised.
 
-Dickens, under all his disgust, did still believe that America was in
+Dickens, under all his disgust, did still believe that [[america|America]] was in
 
 advance of Europe, because it was more democratic. It was an age, in
 
@@ -118,21 +118,21 @@ direction; and it is exactly about the direction that we disagree. Do
 
 not let us therefore be misled into any mistaken optimism or special
 
-self-congratulation upon what many people would call the improved
+[[Self|self]]-congratulation upon what many people would call the improved
 
-relations between England and America. The relations are improved
+relations between England and [[america|America]]. The relations are improved
 
-because America has finally become a foreign country. And with foreign
+because [[america|America]] has finally become a foreign country. And with foreign
 
 countries all sane men take care to exchange a certain consideration and
 
-courtesy. But even as late as the time of Dickens's first visit to the
+courtesy. But even as late as the [[Time|time]] of Dickens's first visit to the
 
-United States, we English still felt America as a colony; an insolent,
+United States, we English still felt [[america|America]] as a colony; an insolent,
 
 offensive, and even unintelligible colony sometimes, but still a colony;
 
-a part of our civilisation, a limb of our life. And America itself, as I
+a part of our civilisation, a limb of our life. And [[america|America]] itself, as I
 
 have said, under all its bounce and independence, really regarded us as
 
@@ -146,9 +146,9 @@ This tone, as a sort of family responsibility, can be felt quite
 
 specially all through the satires or suggestions of these _American
 
-Notes_. Dickens is cross with America because he is worried about
+Notes_. Dickens is [[Cross|cross]] with [[america|America]] because he is worried about
 
-America; as if he were its father. He explores its industrial, legal,
+[[america|America]]; as if he were its father. He explores its industrial, legal,
 
 and educational arrangements like a mother looking at the housekeeping
 
@@ -162,11 +162,11 @@ different from Dickens's characteristic way of dealing with a foreign
 
 country. In countries really foreign, such as France, Switzerland, and
 
-Italy, he had two attitudes, neither of them in the least worried or
+[[Italy]], he had two attitudes, neither of them in the least worried or
 
 paternal. When he found a thing in Europe which he did not understand,
 
-such as the Roman Catholic Church, he simply called it an old-world
+such as the Roman [[Catholic Church]], he simply called it an old-world
 
 superstition, and sat looking at it like a moonlit ruin. When he found
 
@@ -180,11 +180,11 @@ may be found in one of his letters, in which he describes the
 
 backwardness and idleness of Catholics who would not build a Birmingham
 
-in Italy. He seems quite unconscious of the obvious truth, that the
+in [[Italy]]. He seems quite unconscious of the obvious [[Truth|truth]], that the
 
-backwardness of Catholics was simply the refusal of Bob Cratchit to
+backwardness of Catholics was simply the refusal of [[Bob Cratchit]] to
 
-enter the house of Gradgrind. An example of the second attitude can be
+enter the [[house]] of Gradgrind. An example of the second attitude can be
 
 found in the purple patches of fun in _Mugby Junction_; in which the
 
@@ -202,4 +202,4 @@ friendly suggestions to the governors of Parisian prisons. Or if he
 
 does, it is in a different spirit; it is in the spirit of an ordinary
 
-tourist being shown over the Coliseum or the Pyramids. But he visited
+tourist being shown over [[The Coliseum|the Coliseum]] or the Pyramids. But he visited

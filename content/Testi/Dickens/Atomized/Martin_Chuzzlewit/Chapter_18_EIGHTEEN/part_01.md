@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER EIGHTEEN
 
-DOES BUSINESS WITH THE HOUSE OF ANTHONY CHUZZLEWIT AND SON, FROM WHICH
+DOES BUSINESS WITH THE [[house|HOUSE]] OF ANTHONY CHUZZLEWIT AND SON, FROM WHICH
 ONE OF THE PARTNERS RETIRES UNEXPECTEDLY
 
 
@@ -27,17 +27,17 @@ the monotonous scene on which he has been an actor of importance, would
 seem to be the signal for instant confusion. As if, in the gap he had
 left, the wedge of change were driven to the head, rending what was a
 solid mass to fragments, things cemented and held together by the usages
-of years, burst asunder in as many weeks. The mine which Time has slowly
+of years, burst asunder in as many weeks. The mine which [[Time]] has slowly
 dug beneath familiar objects is sprung in an instant; and what was rock
-before, becomes but sand and dust.
+before, becomes but sand and [[Dust|dust]].
 
-Most men, at one time or other, have proved this in some degree. The
+Most men, at one [[Time|time]] or other, have proved this in some degree. The
 extent to which the natural laws of change asserted their supremacy
 in that limited sphere of action which Martin had deserted, shall be
 faithfully set down in these pages.
 
-‘What a cold spring it is!’ whimpered old Anthony, drawing near the
-evening fire, ‘It was a warmer season, sure, when I was young!’
+‘What a cold [[spring]] it is!’ whimpered old Anthony, drawing near the
+evening [[Fire|fire]], ‘It was a warmer season, sure, when I was young!’
 
 ‘You needn’t go scorching your clothes into holes, whether it was or
 not,’ observed the amiable Jonas, raising his eyes from yesterday’s
@@ -52,20 +52,20 @@ nothing,’ said his son, as he resumed the paper.
 
 ‘Ah!’ chuckled the old man. ‘IF, indeed!--But it’s very cold.’
 
-‘Let the fire be!’ cried Mr Jonas, stopping his honoured parent’s hand
+‘Let the [[Fire|fire]] be!’ cried Mr Jonas, stopping his honoured parent’s hand
 in the use of the poker. ‘Do you mean to come to want in your old age,
 that you take to wasting now?’
 
-‘There’s not time for that, Jonas,’ said the old man.
+‘There’s not [[Time|time]] for that, Jonas,’ said the old man.
 
-‘Not time for what?’ bawled his heir.
+‘Not [[Time|time]] for what?’ bawled his heir.
 
 ‘For me to come to want. I wish there was!’
 
 ‘You always were as selfish an old blade as need be,’ said Jonas in a
 voice too low for him to hear, and looking at him with an angry frown.
 ‘You act up to your character. You wouldn’t mind coming to want,
-wouldn’t you! I dare say you wouldn’t. And your own flesh and blood
+wouldn’t you! I dare say you wouldn’t. And your own flesh and [[Blood|blood]]
 might come to want too, might they, for anything you cared? Oh you
 precious old flint!’
 
@@ -75,12 +75,12 @@ of it. Then, looking steadfastly at his father, and stopping now and
 then to carry a spoonful of tea to his lips, he proceeded in the same
 tone, thus:
 
-‘Want, indeed! You’re a nice old man to be talking of want at this time
-of day. Beginning to talk of want, are you? Well, I declare! There isn’t
-time? No, I should hope not. But you’d live to be a couple of hundred if
+‘Want, indeed! You’re a nice old man to be talking of want at this [[Time|time]]
+of day. Beginning to talk of want, are you? [[Well]], I declare! There isn’t
+[[Time|time]]? No, I should [[Hope|hope]] not. But you’d live to be a couple of hundred if
 you could; and after all be discontented. I know you!’
 
-The old man sighed, and still sat cowering before the fire. Mr Jonas
+The old man sighed, and still sat cowering before the [[Fire|fire]]. Mr Jonas
 shook his Britannia-metal teaspoon at him, and taking a loftier
 position, went on to argue the point on high moral grounds.
 
@@ -92,7 +92,7 @@ be natural conduct to your own son, and you like to be unnatural, and to
 keep him out of his rights. Why, I should be ashamed of myself if I was
 you, and glad to hide my head in the what you may call it.’
 
-Possibly this general phrase supplied the place of grave, or tomb,
+Possibly this general phrase supplied the place of [[Grave|grave]], or tomb,
 or sepulchre, or cemetery, or mausoleum, or other such word which the
 filial tenderness of Mr Jonas made him delicate of pronouncing. He
 pursued the theme no further; for Chuffey, somehow discovering, from
@@ -103,8 +103,8 @@ like one inspired:
 ‘He is your own son, Mr Chuzzlewit. Your own son, sir!’
 
 Old Chuffey little suspected what depth of application these words had,
-or that, in the bitter satire which they bore, they might have sunk into
-the old man’s very soul, could he have known what words here hanging on
+or that, in the bitter [[Satire|satire]] which they bore, they might have sunk into
+the old man’s very [[Soul|soul]], could he have known what words here hanging on
 his own son’s lips, or what was passing in his thoughts. But the voice
 diverted the current of Anthony’s reflections, and roused him.
 
@@ -117,7 +117,7 @@ discomposure.
 ‘No, no, no,’ said Chuffey. ‘No, Mr Chuzzlewit. Not old at all, sir.’
 
 ‘Oh! He’s worse than ever, you know!’ cried Jonas, quite disgusted.
-‘Upon my soul, father, he’s getting too bad. Hold your tongue, will
+‘Upon my [[Soul|soul]], father, he’s getting too bad. Hold your tongue, will
 you?’
 
 ‘He says you’re wrong!’ cried Anthony to the old clerk.
@@ -129,7 +129,7 @@ known; you’re a boy to me; you’re a boy to hundreds of us. Don’t mind
 him!’
 
 With which extraordinary speech--for in the case of Chuffey this was a
-burst of eloquence without a parallel--the poor old shadow drew through
+burst of eloquence without a parallel--the poor old [[Shadow|shadow]] drew through
 his palsied arm his master’s hand, and held it there, with his own
 folded upon it, as if he would defend him.
 
@@ -143,9 +143,9 @@ this twenty year.’
 ‘I grow blinder, too,’ said the old man, shaking his head.
 
 ‘That’s a good sign!’ cried Chuffey. ‘Ha! ha! The best sign in the
-world! You saw too well before.’
+world! You saw too [[Well|well]] before.’
 
-He patted Anthony upon the hand as one might comfort a child, and
+He patted Anthony upon the hand as one might comfort a [[Child|child]], and
 drawing the old man’s arm still further through his own, shook his
 trembling fingers towards the spot where Jonas sat, as though he would
 wave him off. But, Anthony remaining quite still and silent, he relaxed

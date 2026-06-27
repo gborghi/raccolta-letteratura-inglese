@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 15 (part 2)"
+title: "Bleak [[house|House]] — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,12 +19,12 @@ tags:
 “Yes, he took legal proceedings,” said Mr. Skimpole. “But in that he
 was influenced by passion, not by reason. Passion reminds me of
 Boythorn. He writes me that you and the ladies have promised him a
-short visit at his bachelor-house in Lincolnshire.”
+short visit at his bachelor-[[house]] in Lincolnshire.”
 
 “He is a great favourite with my girls,” said Mr. Jarndyce, “and I
 have promised for them.”
 
-“Nature forgot to shade him off, I think,” observed Mr. Skimpole to
+“[[Nature]] forgot to shade him off, I think,” observed Mr. Skimpole to
 Ada and me. “A little too boisterous—like the sea. A little too
 vehement—like a bull who has made up his mind to consider every
 colour scarlet. But I grant a sledge-hammering sort of merit in him!”
@@ -37,8 +37,8 @@ breaking out into some strong opinion when Mr. Skimpole was referred
 to. Of course I merely joined Ada in saying that we had been greatly
 pleased with him.
 
-“He has invited me,” said Mr. Skimpole; “and if a child may trust
-himself in such hands—which the present child is encouraged to do,
+“He has invited me,” said Mr. Skimpole; “and if a [[Child|child]] may trust
+himself in such hands—which the present [[Child|child]] is encouraged to do,
 with the united tenderness of two angels to guard him—I shall go. He
 proposes to frank me down and back again. I suppose it will cost
 money? Shillings perhaps? Or pounds? Or something of that sort? By
@@ -55,10 +55,10 @@ Skimpole. “He will never do violence to the sunshine any more.”
 
 It quite shocked me to hear it, for I had already recalled with
 anything but a serious association the image of the man sitting on
-the sofa that night wiping his head.
+the sofa that [[Night|night]] wiping his head.
 
 “His successor informed me of it yesterday,” said Mr. Skimpole. “His
-successor is in my house now—in possession, I think he calls it. He
+successor is in my [[house]] now—in possession, I think he calls it. He
 came yesterday, on my blue-eyed daughter’s birthday. I put it to him,
 ‘This is unreasonable and inconvenient. If you had a blue-eyed
 daughter you wouldn’t like ME to come, uninvited, on HER birthday?’
@@ -73,7 +73,7 @@ that Coavinses’ profession. Being unpopular. The rising Coavinses.
 Were at a considerable disadvantage.”
 
 Mr. Jarndyce got up, rubbing his head, and began to walk about. Mr.
-Skimpole played the melody of one of Ada’s favourite songs. Ada and I
+Skimpole played the melody of one of Ada’s favourite [[songs]]. Ada and I
 both looked at Mr. Jarndyce, thinking that we knew what was passing
 in his mind.
 
@@ -88,9 +88,9 @@ surprised.
 “The man was necessary,” pursued my guardian, walking backward and
 forward in the very short space between the piano and the end of the
 room and rubbing his hair up from the back of his head as if a high
-east wind had blown it into that form. “If we make such men necessary
+east [[Wind|wind]] had blown it into that form. “If we make such men necessary
 by our faults and follies, or by our want of worldly knowledge, or by
-our misfortunes, we must not revenge ourselves upon them. There was
+our misfortunes, we must not [[Revenge|revenge]] ourselves upon them. There was
 no harm in his trade. He maintained his children. One would like to
 know more about this.”
 
@@ -105,7 +105,7 @@ us and quite enjoyed the expedition. It was so new and so refreshing,
 he said, for him to want Coavinses instead of Coavinses wanting him!
 
 He took us, first, to Cursitor Street, Chancery Lane, where there was
-a house with barred windows, which he called Coavinses’ Castle. On
+a [[house]] with barred windows, which he called Coavinses’ [[Castle]]. On
 our going into the entry and ringing a bell, a very hideous boy came
 out of a sort of office and looked at us over a spiked wicket.
 
@@ -115,7 +115,7 @@ chin.
 “There was a follower, or an officer, or something, here,” said Mr.
 Jarndyce, “who is dead.”
 
-“Yes?” said the boy. “Well?”
+“Yes?” said the boy. “[[Well]]?”
 
 “I want to know his name, if you please?”
 
@@ -138,7 +138,7 @@ might have undertaken to do it and not done it. Thank you. That’s all
 I want.”
 
 We left the boy, with his head on one side and his arms on the gate,
-fondling and sucking the spikes, and went back to Lincoln’s Inn,
+fondling and sucking the spikes, and went back to [[Lincoln]]’s Inn,
 where Mr. Skimpole, who had not cared to remain nearer Coavinses,
 awaited us. Then we all went to Bell Yard, a narrow alley at a very
 short distance. We soon found the chandler’s shop. In it was a

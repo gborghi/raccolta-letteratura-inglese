@@ -1,5 +1,5 @@
 ---
-title: "everlasting man — Part 2: ON THE MAN CALLED CHRIST (part 2)"
+title: "everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/everlasting-man-(Chesterton)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-Now the best relation to our spiritual home is to be near enough to
-love it.  But the next best is to be far enough away not to hate it.
+Now the best relation to our spiritual [[Home|home]] is to be near enough to
+[[Love|love]] it.  But the next best is to be far enough away not to hate it.
 It is the contention of these pages that while the best judge
-of Christianity is a Christian, the next best judge would be
+of [[Christianity]] is a Christian, the next best judge would be
 something more like a Confucian.  The worst judge of all is the man
 now most ready with his judgements; the ill-educated Christian
 turning gradually into the ill-tempered agnostic, entangled in
 the end of a feud of which he never understood the beginning,
 blighted with a sort of hereditary boredom with he knows not what,
 and already weary of hearing what he has never heard.
-He does not judge Christianity calmly as a Confucian would; he does
+He does not judge [[Christianity]] calmly as a Confucian would; he does
 not judge it as he would judge Confucianism.  He cannot by an effort
-of fancy set the Catholic Church thousands of miles away in strange
+of fancy set the [[Catholic Church]] thousands of miles away in strange
 skies of morning and judge it as impartially as a Chinese pagoda.
 It is said that the great St. Francis Xavier, who very nearly succeeded
 in setting up the Church there as a tower overtopping all pagodas,
@@ -35,12 +35,12 @@ missionaries of representing the Twelve Apostles with the garb
 or attributes of Chinamen.  But it would be far better to see them
 as Chinamen, and judge them fairly as Chinamen, than to see them
 as featureless idols merely made to be battered by iconoclasts;
-or rather as cockshies to be pelted by empty-handed cockneys.  It would
+or rather as cockshies to be pelted by empty-handed [[cockneys]].  It would
 be better to see the whole thing as a remote Asiatic cult; the mitres
 of its bishops as the towering head dresses of mysterious bonzes;
-its pastoral staffs as the sticks twisted like serpents carried
-in some Asiatic procession; to see the prayer book as fantastic
-as the prayer-wheel and the Cross as crooked as the Swastika.
+its [[Pastoral|pastoral]] staffs as the sticks twisted like serpents carried
+in some Asiatic procession; to see the [[prayer]] book as fantastic
+as the [[prayer]]-[[Wheel|wheel]] and the [[Cross]] as crooked as the Swastika.
 Then at least we should not lose our temper as some of the sceptical
 critics seem to lose their temper, not to mention their wits.
 Their anti-clericalism has become an atmosphere, an atmosphere
@@ -64,7 +64,7 @@ really looks like what is traditionally said about it inside.
 It is exactly when the boy gets far enough off to see the giant
 that he sees that he really is a giant.  It is exactly when we do
 at last see the Christian Church afar under those clear and level
-eastern skies that we see that it is really the Church of Christ.
+eastern skies that we see that it is really the Church of [[Christ]].
 To put it shortly, the moment we are really impartial about it,
 we know why people are partial to it.  But this second proposition
 requires more serious discussion; and I shall here set myself
@@ -77,9 +77,9 @@ character in the human story that had led up to it; because that human
 story also had a root that was divine.  I mean that just as the Church
 seems to grow more remarkable when it is fairly compared with the
 common religious life of mankind, so mankind itself seems to grow
-more remarkable when we compare it with the common life of nature.
-And I have noticed that most modern history is driven to something
-like sophistry, first to soften the sharp transition from animals
+more remarkable when we compare it with the common life of [[Nature|nature]].
+And I have noticed that most modern [[history]] is driven to something
+like sophistry, first to soften the sharp transition from [[Animals|animals]]
 to men, and then to soften the sharp transition from heathens
 to Christians.  Now the more we really read in a realistic spirit
 of those two transitions the sharper we shall find them to be.
@@ -97,9 +97,9 @@ And it is stark hypocrisy to pretend that nine-tenths of the higher
 critics and scientific evolutionists and professors of comparative
 religion are in the least impartial.  Why should they be impartial,
 what is being impartial, when the whole world is at war about
-whether one thing is a devouring superstition or a divine hope?
+whether one thing is a devouring superstition or a divine [[Hope|hope]]?
 I do not pretend to be impartial in the sense that the final
-act of faith fixes a man's mind because it satisfies his mind.
+act of [[Faith|faith]] fixes a man's mind because it satisfies his mind.
 But I do profess to be a great deal more impartial than they are;
 in the sense that I can tell the story fairly, with some
 sort of imaginative justice to all sides; and they cannot.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 38 (part 3)"
+title: "Bleak [[house|House]] — Chapter 38 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -37,7 +37,7 @@ breast-pocket, putting it to his lips, and returning it to his pocket
 with a bow. Mr. Guppy’s mother was so diverted that she rolled her
 head as she smiled and made a silent appeal to Caddy with her elbow.
 
-“Could I speak to you alone for a moment?” said I.
+“Could I speak to you [[Alone|alone]] for a moment?” said I.
 
 Anything like the jocoseness of Mr. Guppy’s mother just now, I think
 I never saw. She made no sound of laughter, but she rolled her head,
@@ -65,19 +65,19 @@ such faltering, such confusion, such amazement and apprehension.
 
 “Miss Summerson,” stammered Mr. Guppy, “I—I—beg your pardon, but in
 our profession—we—we—find it necessary to be explicit. You have
-referred to an occasion, miss, when I—when I did myself the honour
+referred to an occasion, miss, when I—when I did myself the [[Honour|honour]]
 of making a declaration which—”
 
 Something seemed to rise in his throat that he could not possibly
-swallow. He put his hand there, coughed, made faces, tried again to
-swallow it, coughed again, made faces again, looked all round the
+[[Swallow|swallow]]. He put his hand there, coughed, made faces, tried again to
+[[Swallow|swallow]] it, coughed again, made faces again, looked all round the
 room, and fluttered his papers.
 
 “A kind of giddy sensation has come upon me, miss,” he explained,
 “which rather knocks me over. I—er—a little subject to this sort of
 thing—er—by George!”
 
-I gave him a little time to recover. He consumed it in putting his
+I gave him a little [[Time|time]] to recover. He consumed it in putting his
 hand to his forehead and taking it away again, and in backing his
 chair into the corner behind him.
 
@@ -88,7 +88,7 @@ You—you wouldn’t perhaps object to admit that? Though no witnesses
 are present, it might be a satisfaction to—to your mind—if you was
 to put in that admission.”
 
-“There can be no doubt,” said I, “that I declined your proposal
+“There can be no [[Doubt|doubt]],” said I, “that I declined your proposal
 without any reservation or qualification whatever, Mr. Guppy.”
 
 “Thank you, miss,” he returned, measuring the table with his troubled
@@ -111,7 +111,7 @@ miss?” said Mr. Guppy.
 regret that my arrangements in life, combined with circumstances over
 which I have no control, will put it out of my power ever to fall
 back upon that offer or to renew it in any shape or form whatever,
-but it will ever be a retrospect entwined—er—with friendship’s
+but it will ever be a retrospect entwined—er—with [[Friendship|friendship]]’s
 bowers.” Mr. Guppy’s bronchitis came to his relief and stopped his
 measurement of the table.
 
@@ -132,18 +132,18 @@ anything.”
 have the means of advancing my interests and promoting my fortunes by
 making discoveries of which I should be the subject. I presume that
 you founded that belief upon your general knowledge of my being an
-orphan girl, indebted for everything to the benevolence of Mr.
+[[Orphan|orphan]] girl, indebted for everything to the benevolence of Mr.
 Jarndyce. Now, the beginning and the end of what I have come to beg
 of you is, Mr. Guppy, that you will have the kindness to relinquish
 all idea of so serving me. I have thought of this sometimes, and I
 have thought of it most lately—since I have been ill. At length I
-have decided, in case you should at any time recall that purpose and
+have decided, in case you should at any [[Time|time]] recall that purpose and
 act upon it in any way, to come to you and assure you that you are
 altogether mistaken. You could make no discovery in reference to me
 that would do me the least service or give me the least pleasure. I
-am acquainted with my personal history, and I have it in my power to
+am acquainted with my personal [[history]], and I have it in my power to
 assure you that you never can advance my welfare by such means. You
-may, perhaps, have abandoned this project a long time. If so, excuse
+may, perhaps, have abandoned this project a long [[Time|time]]. If so, excuse
 my giving you unnecessary trouble. If not, I entreat you, on the
 assurance I have given you, henceforth to lay it aside. I beg you to
 do this, for my peace.”

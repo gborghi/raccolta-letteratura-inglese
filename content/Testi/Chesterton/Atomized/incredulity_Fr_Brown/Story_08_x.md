@@ -1,5 +1,5 @@
 ---
-title: "incredulity Fr Brown — '"
+title: "[[Incredulity|incredulity]] Fr Brown — '"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
@@ -41,30 +41,30 @@ mingling with it; something like a voice calling through the sound of
 the surf, dulled by it at first, but coming nearer and nearer. The next
 moment they were certain: someone was shouting outside in the dusk.
 
-Payne turned to the low window behind him and bent to look out. It was
-the window from which nothing could be seen except the moat with its
+Payne turned to the low [[Window|window]] behind him and bent to look out. It was
+the [[Window|window]] from which nothing could be seen except the moat with its
 reflection of bank and sky. But that inverted vision was not the same
-that he had seen before. From the hanging shadow of the bank in the
-water depended two dark shadows reflected from the feet and legs of a
+that he had seen before. From the hanging [[Shadow|shadow]] of the bank in the
+[[Water|water]] depended two dark shadows reflected from the feet and legs of a
 figure standing above upon the bank. Through that limited aperture they
 could see nothing but the two legs black against the reflection of a
 pale and livid sunset. But somehow that very fact of the head being
 invisible, as if in the clouds, gave something dreadful to the sound
 that followed; the voice of a man crying aloud what they could not
 properly hear or understand. Payne especially was peering out of the
-little window with an altered face, and he spoke with an altered voice:
+little [[Window|window]] with an altered face, and he spoke with an altered voice:
 
 'How queerly he's standing!'
 
 'No, no,' said Wood, in a sort of soothing whisper. 'Things often look
-like that in reflection. It's the wavering of the water that makes you
+like that in reflection. It's the wavering of the [[Water|water]] that makes you
 think that.'
 
 'Think what?' asked the priest shortly.
 
 'That his left leg is crooked,' said Wood.
 
-Payne had thought of the oval window as a sort of mystical mirror; and
+Payne had thought of the oval [[Window|window]] as a sort of mystical [[Mirror|mirror]]; and
 it seemed to him that there were in it other inscrutable images of doom.
 There was something else beside the figure that he did not understand;
 three thinner legs showing in dark lines against the light, as if some
@@ -95,13 +95,13 @@ his reception; but they could have sworn that he did not himself know
 the cause of it. The lady, supposed to be in some sense already
 betrothed to him, was certainly beautiful enough to attract him; but she
 evidently also frightened him. The old steward brought him a sort of
-feudal homage, yet treated him as if he were the family ghost. The
+feudal homage, yet treated him as if he were the family [[Ghost|ghost]]. The
 priest still looked at him with a face which was quite indecipherable,
 and therefore perhaps all the more unnerving. A new sort of irony, more
 like the Greek irony, began to pass over Payne's mind. He had dreamed of
 the stranger as a devil, but it seemed almost worse that he was an
 unconscious destiny. He seemed to march towards crime with the monstrous
-innocence of Oedipus. He had approached the family mansion in so blindly
+[[innocence]] of Oedipus. He had approached the family mansion in so blindly
 buoyant a spirit as to have set up his camera to photograph his first
 sight of it; and even the camera had taken on the semblance of the
 tripod of a tragic pythoness.
@@ -114,23 +114,23 @@ of his surroundings. He said in a low voice:
 place fairly gives me the jumps.'
 
 When Payne emerged out of those almost subterranean halls and came into
-the night air and the smell of the sea, he felt as if he had come out of
-that underworld of dreams in which events jumble on top of each other in
+the [[Night|night]] air and the smell of the sea, he felt as if he had come out of
+that underworld of [[Dreams|dreams]] in which events jumble on top of each other in
 a way at once unrestful and unreal.
 
 The arrival of the strange relative had been somehow unsatisfying and,
 as it were, unconvincing. The doubling of the same face in the old
-portrait and the new arrival troubled him like a two headed monster. And
-yet it was not altogether a nightmare; nor was it that face, perhaps,
+portrait and the new arrival troubled him like a two headed [[Monster|monster]]. And
+yet it was not altogether a [[nightmare]]; nor was it that face, perhaps,
 that he saw most vividly.
 
 'Did you say?' he asked of the doctor, as they strode together across
 the striped dark sands by the darkening sea; 'did you say that young man
 was betrothed to Miss Darnaway by a family compact or something? Sounds
-rather like a novel.'
+rather like a [[Novel|novel]].'
 
-'But an historical novel,' answered Dr Barnet. 'The Darnaways all went
-to sleep a few centuries ago, when things were really done that we only
+'But an [[Historical Novel|historical novel]],' answered Dr Barnet. 'The Darnaways all went
+to [[Sleep|sleep]] a few centuries ago, when things were really done that we only
 read of in romances. Yes; I believe there's some family tradition by
 which second or third cousins always marry when they stand in a certain
 relation of age, in order to unite the property. A damned silly
@@ -141,34 +141,34 @@ so rotten.'
 'I should hardly say,' answered Payne a little stuffily, 'that they had
 all gone rotten.'
 
-'Well,' replied the doctor, 'the young man doesn't look rotten, of
+'[[Well]],' replied the doctor, 'the young man doesn't look rotten, of
 course, though he's certainly lame.'
 
 'The young man!' cried Payne, who was suddenly and unreasonably angry.
-'Well, if you think the young lady looks rotten, I think it's you who
+'[[Well]], if you think the young lady looks rotten, I think it's you who
 have rotten taste.'
 
 The doctor's face grew dark and bitter. 'I fancy I know more about it
 than you do,' he snapped.
 
-They completed the walk in silence, each feeling that he had been
+They completed the walk in [[Silence|silence]], each feeling that he had been
 irrationally rude and had suffered equally irrational rudeness; and
-Payne was left to brood alone on the matter, for his friend Wood had
+Payne was left to brood [[Alone|alone]] on the matter, for his friend Wood had
 remained behind to attend to some of his business in connexion with the
 pictures.
 
 Payne took very full advantage of the invitation extended by the
 colonial cousin, who wanted somebody to cheer him up. During the next
-few weeks he saw a good deal of the dark interior of the Darnaway home;
+few weeks he saw a good deal of the dark interior of the Darnaway [[Home|home]];
 though it might be said that he did not confine himself entirely to
-cheering up the colonial cousin. The lady's melancholy was of longer
+cheering up the colonial cousin. The lady's [[Melancholy|melancholy]] was of longer
 standing and perhaps needed more lifting; anyhow, he showed a laborious
-readiness to lift it. He was not without a conscience, however, and the
+readiness to lift it. He was not without a [[Conscience|conscience]], however, and the
 situation made him doubtful and uncomfortable. Weeks went by and nobody
 could discover from the demeanour of the new Darnaway whether he
 considered himself engaged according to the old compact or no. He went
 mooning about the dark galleries and stood staring vacantly at the dark
-and sinister picture. The shades of that prison - house were certainly
+and sinister picture. The shades of that [[Prison|prison]] - [[house]] were certainly
 beginning to close on him, and there was little of his Australian
 assurance left. But Payne could discover nothing upon the point that
 concerned him most. Once he attempted to confide in his friend Martin
@@ -210,7 +210,7 @@ It seems to me your position is very unreasonable.'
 'Of course it's all a tangle,' said Wood rather crossly, and went on
 hammering at the frame of a canvas.
 
-Suddenly, one morning, the new heir broke his long and baffling silence.
+Suddenly, one morning, the new heir broke his long and baffling [[Silence|silence]].
 He did it in a curious fashion, a little crude, as was his way, but with
 an obvious anxiety to do the right thing. He asked frankly for advice,
 not of this or that individual as Payne had done, but collectively as of
@@ -223,7 +223,7 @@ information, calling a sort of family council at which he put his cards
 on the table. It might be said that he flung down his cards on the
 table, for he did it with a rather desperate air, like one who had been
 harassed for days and nights by the increasing pressure of a problem. In
-that short time the shadows of that place of low windows and sinking
+that short [[Time|time]] the shadows of that place of low windows and sinking
 pavements had curiously changed him, and increased a certain resemblance
 that crept through all their memories.
 
@@ -234,7 +234,7 @@ black, and Wood and Darnaway habitually wore dark grey suits that looked
 almost like black. Perhaps this incongruity had been what the young man
 had meant by calling him a human being. At that moment the young man
 himself turned abruptly in his chair and began to talk. A moment after
-the dazed artist knew that he was talking about the most tremendous
+the dazed [[Artist|artist]] knew that he was talking about the most tremendous
 thing in the world.
 
 'Is there anything in it?' he was saying. 'That is what I've come to
@@ -246,15 +246,15 @@ damned queer accident? Have I got a right to marry, or shall I bring
 something big and black out of the sky, that I know nothing about, on
 myself and somebody else?'
 
-His rolling eye had roamed round the table and rested on the plain face
+His [[rolling]] eye had roamed round the table and rested on the plain face
 of the priest, to whom he now seemed to be speaking. Payne's submerged
-practicality rose in protest against the problem of superstition being
+practicality [[Rose|rose]] in protest against the problem of superstition being
 brought before that supremely superstitious tribunal. He was sitting
 next to Darnaway and struck in before the priest could answer.
 
-'Well, the coincidences are curious, I admit,' he said, rather forcing a
+'[[Well]], the coincidences are curious, I admit,' he said, rather forcing a
 note of cheerfulness; 'but surely we - ' and then he stopped as if he
-had been struck by lightning. For Darnaway had turned his head sharply
+had been struck by [[Lightning|lightning]]. For Darnaway had turned his head sharply
 over his shoulder at the interruption, and with the movement, his left
 eyebrow jerked up far above its fellow and for an instant the face of
 the portrait glared at him with a ghastly exaggeration of exactitude.
@@ -276,8 +276,8 @@ temporary duty in the neighbourhood and Miss Darnaway wanted to see me.
 But since you're asking me personally and point - blank, why, it's easy
 enough to answer. Of course there's no Doom of the Darnaways to prevent
 your marrying anybody you have any decent reason for marrying. A man
-isn't fated to fall into the smallest venial sin, let alone into crimes
-like suicide and murder. You can't be made to do wicked things against
+isn't fated to fall into the smallest venial sin, let [[Alone|alone]] into crimes
+like [[suicide]] and murder. You can't be made to do wicked things against
 your will because your name is Darnaway, any more than I can because my
 name is Brown. The Doom of the Browns,' he added with relish - 'the
 Weird of the Browns would sound even better.'
@@ -290,7 +290,7 @@ cheerfully. 'What has become of the rising art of photography? How is
 the camera getting on? I know it's rather dark downstairs, but those
 hollow arches on the floor above could easily be turned into a first -
 rate photographic studio. A few workmen could fit it out with a glass
-roof in no time.'
+roof in no [[Time|time]].'
 
 'Really,' protested Martin Wood, 'I do think you should be the last man
 in the world to tinker about with those beautiful Gothic arches, which
@@ -298,16 +298,16 @@ are about the best work your own religion has ever done in the world. I
 should have thought you'd have had some feeling for that sort of art;
 but I can't see why you should be so uncommonly keen on photography.'
 
-'I'm uncommonly keen on daylight,' answered Father Brown, 'especially in
+'I'm uncommonly keen on daylight,' answered [[Father Brown]], 'especially in
 this dingy business; and photography has the virtue of depending on
 daylight. And if you don't know that I would grind all the Gothic arches
-in the world to powder to save the sanity of a single human soul, you
+in the world to powder to save the [[Sanity|sanity]] of a single human [[Soul|soul]], you
 don't know so much about my religion as you think you do.'
 
 The young Australian had sprung to his feet like a man rejuvenated. 'By
 George! that's the talk,' he cried; 'though I never thought to hear it
 from that quarter. I'll tell you what, reverend sir, I'll do something
-that will show I haven't lost my courage after all.'
+that will show I haven't lost my [[Courage|courage]] after all.'
 
 The old steward was still looking at him with quaking watchfulness, as
 if he felt something fey about the young man's defiance. 'Oh,' he cried,
@@ -315,20 +315,20 @@ if he felt something fey about the young man's defiance. 'Oh,' he cried,
 
 'I am going to photograph the portrait,' replied Darnaway.
 
-Yet it was barely a week afterwards that the storm of the catastrophe
-seemed to stoop out of the sky, darkening that sun of sanity to which
+Yet it was barely a week afterwards that the [[Storm|storm]] of the catastrophe
+seemed to stoop out of the sky, darkening that sun of [[Sanity|sanity]] to which
 the priest had appealed in vain, and plunging the mansion once more in
 the darkness of the Darnaway doom. It had been easy enough to fit up the
 new studio; and seen from inside it looked very like any other such
 studio, empty except for the fullness of the white light. A man coming
 from the gloomy rooms below had more than normally the sense of stepping
 into a more than modern brilliancy, as blank as the future. At the
-suggestion of Wood, who knew the castle well and had got over his first
+suggestion of Wood, who knew the [[Castle|castle]] [[Well|well]] and had got over his first
 aesthetic grumblings, a small room remaining intact in the upper ruins
 was easily turned into a dark room, into which Darnaway went out of the
 white daylight to grope by the crimson gleams of a red lamp. Wood said,
 laughing, that the red lamp had reconciled him to the vandalism; as that
-bloodshot darkness was as romantic as an alchemist's cave.
+bloodshot darkness was as romantic as an alchemist's [[Cave|cave]].
 
 Darnaway had risen at daybreak on the day that he meant to photograph
 the mysterious portrait, and had it carried up from the library by the
@@ -336,7 +336,7 @@ single corkscrew staircase that connected the two floors. There he had
 set it up in the wide white daylight on a sort of easel and planted his
 photographic tripod in front of it. He said he was anxious to send a
 reproduction of it to a great antiquary who had written on the
-antiquities of the house; but the others knew that this was an excuse
+antiquities of the [[house]]; but the others knew that this was an excuse
 covering much deeper things. It was, if not exactly a spiritual duel
 between Darnaway and the demoniac picture, at least a duel between
 Darnaway and his own doubts. He wanted to bring the daylight of
@@ -353,7 +353,7 @@ him, as he refused to come down; the old gentleman also returned some
 hours afterwards and found the meal more or less normally disposed of;
 but when he brought it he got no more gratitude than a grunt. Payne went
 up once to see how he was getting on, but finding the photographer
-disinclined for conversation came down again. Father Brown had wandered
+disinclined for conversation came down again. [[Father Brown]] had wandered
 that way in an unobtrusive style to lake Darnaway a letter from the
 expert to whom the photograph was to be sent. But he left the letter on
 a tray, and whatever he thought of that great glasshouse full of
@@ -362,7 +362,7 @@ created, he kept it to himself and came down. He had reason to remember
 very soon that he was the last to come down the solitary staircase
 connecting the floors, leaving a lonely man and an empty room behind
 him. The others were standing in the salon that led into the library,
-just under the great black ebony clock that looked like a titanic
+just under the great black ebony [[Clock|clock]] that looked like a [[titanic]]
 coffin.
 
 'How was Darnaway getting on,' asked Payne, a little later, 'when you
@@ -371,7 +371,7 @@ last went up?'
 The priest passed a hand over his forehead. 'Don't tell me I'm getting
 psychic,' he said with a sad smile. 'I believe I'm quite dazzled with
 daylight up in that room and couldn't see things straight. Honestly, I
-felt for a flash as if there were something uncanny about Darnaway's
+felt for a flash as if there were something [[Uncanny|uncanny]] about Darnaway's
 figure standing before that portrait.'
 
 'Oh, that's the lame leg,' said Barnet promptly. 'We know all about
@@ -385,10 +385,10 @@ with his leg? What was the matter with his ancestor's leg?'
 the family archives,' said Wood; 'I'll fetch it for you.' And he stepped
 into the library just beyond.
 
-'I think,' said Father Brown quietly, 'Mr Payne must have some
+'I think,' said [[Father Brown]] quietly, 'Mr Payne must have some
 particular reason for asking that.'
 
-'I may as well blurt it out once and for all,' said Payne, but in a yet
+'I may as [[Well|well]] blurt it out once and for all,' said Payne, but in a yet
 lower voice. 'After all, there is a rational explanation. A man from
 anywhere might have made up to look like the portrait. What do we know
 about Darnaway? He is behaving rather oddly - '
@@ -402,20 +402,20 @@ that.'
 
 'Quite an ordinary state of things, in fact,' said Wood with a smile; he
 had just returned with the book in his hand. And even as he spoke there
-was a stir in the clockwork of the great dark clock behind him and
+was a stir in the clockwork of the great dark [[Clock|clock]] behind him and
 successive strokes thrilled through the room up to the number of seven.
 With the last stroke there came a crash from the floor above that shook
-the house like a thunderbolt; and Father Brown was already two steps up
+the [[house]] like a thunderbolt; and [[Father Brown]] was already two steps up
 the winding staircase before the sound had ceased.
 
-'My God!' cried Payne involuntarily; 'he is alone up there.'
+'My God!' cried Payne involuntarily; 'he is [[Alone|alone]] up there.'
 
-'Yes,' said Father Brown without turning, as he vanished up the
-stairway. 'We shall find him alone.'
+'Yes,' said [[Father Brown]] without turning, as he vanished up the
+stairway. 'We shall find him [[Alone|alone]].'
 
 When the rest recovered from their first paralysis and ran helter -
 skelter up the stone steps and found their way to the new studio, it was
-true in that sense that they found him alone. They found him lying in a
+true in that sense that they found him [[Alone|alone]]. They found him lying in a
 wreck of his tall camera, with its long splintered legs standing out
 grotesquely at three different angles; and Darnaway had fallen on top of
 it with one black crooked leg lying at a fourth angle along the floor.
@@ -424,9 +424,9 @@ huge and horrible spider. Little more than a glance and a touch were
 needed to tell them that he was dead. Only the portrait stood untouched
 upon the easel, and one could fancy the smiling eyes shone.
 
-An hour afterwards Father Brown in helping to calm the confusion of the
+An hour afterwards [[Father Brown]] in helping to calm the confusion of the
 stricken household, came upon the old steward muttering almost as
-mechanically as the clock had ticked and struck the terrible hour.
+mechanically as the [[Clock|clock]] had ticked and struck the terrible hour.
 Almost without hearing them, he knew what the muttered words must be.
 
 In the seventh heir I shall return In the seventh hour I shall depart.
@@ -438,15 +438,15 @@ fierce cry.
 'You!' he cried; 'you and your daylight! Even you won't say now there is
 no Doom for the Darnaways.'
 
-'My opinion about that is unchanged,' said Father Brown mildly. Then
-after a pause he added: 'I hope you will observe poor Darnaway's last
+'My opinion about that is unchanged,' said [[Father Brown]] mildly. Then
+after a pause he added: 'I [[Hope|hope]] you will observe poor Darnaway's last
 wish, and see the photograph is sent off.'
 
 'The photograph!' cried the doctor sharply. 'What's the good of that? As
 a matter of fact, it's rather curious; but there isn't any photograph.
 It seems he never took it after all, after pottering about all day.'
 
-Father Brown swung round sharply. 'Then take it yourselves,' he said.
+[[Father Brown]] swung round sharply. 'Then take it yourselves,' he said.
 'Poor Darnaway was perfectly right. It's most important that the
 photograph should be taken.'
 
@@ -455,7 +455,7 @@ away in a black and dismal procession across the brown and yellow sands,
 they were at first more or less silent, rather as if they had been
 stunned. And certainly there had been something like a crack of thunder
 in a clear sky about the fulfilment of that forgotten superstition at
-the very time when they had most forgotten it; when the doctor and the
+the very [[Time|time]] when they had most forgotten it; when the doctor and the
 priest had both filled their minds with rationalism as the photographer
 had filled his rooms with daylight. They might be as rationalistic as
 they liked; but in broad daylight the seventh heir had returned, and in
@@ -465,15 +465,15 @@ broad daylight at the seventh hour he had perished.
 now,' said Martin Wood.
 
 'I know one who won't,' said the doctor sharply. 'Why should I indulge
-in superstition because somebody else indulges in suicide?'
+in superstition because somebody else indulges in [[suicide]]?'
 
-'You think poor Mr Darnaway committed suicide?' asked the priest.
+'You think poor Mr Darnaway committed [[suicide]]?' asked the priest.
 
-'I'm sure he committed suicide,' replied the doctor.
+'I'm sure he committed [[suicide]],' replied the doctor.
 
 'It is possible,' agreed the other.
 
-'He was quite alone up there, and he had a whole drug - store of poisons
+'He was quite [[Alone|alone]] up there, and he had a whole drug - store of poisons
 in the dark room. Besides, it's just the sort of thing that Darnaways
 do.'
 
@@ -487,22 +487,22 @@ you're bound to degenerate whether you like it or not. The laws of
 heredity can't be dodged; the truths of science can't be denied. The
 minds of the Darnaways are falling to pieces, as their blighted old
 sticks and stones are falling to pieces, eaten away by the sea and the
-salt air. Suicide - of course he committed suicide; I dare say all the
-rest will commit suicide. Perhaps the best thing they could do.'
+salt air. [[suicide|Suicide]] - of course he committed [[suicide]]; I dare say all the
+rest will commit [[suicide]]. Perhaps the best thing they could do.'
 
 As the man of science spoke there sprang suddenly and with startling
-clearness into Payne's memory the face of the daughter of the Darnaways,
+clearness into Payne's [[Memory|memory]] the face of the daughter of the Darnaways,
 a tragic mask pale against an unfathomable blackness, but itself of a
-blinding and more than mortal beauty. He opened his mouth to speak and
+blinding and more than mortal [[Beauty|beauty]]. He opened his mouth to speak and
 found himself speechless.
 
-'I see,' said Father Brown to the doctor; 'so you do believe in the
+'I see,' said [[Father Brown]] to the doctor; 'so you do believe in the
 superstition after all?'
 
 'What do you mean - believe in the superstition? I believe in the
-suicide as a matter of scientific necessity.'
+[[suicide]] as a matter of scientific necessity.'
 
-'Well,' replied the priest, 'I don't see a pin to choose between your
+'[[Well]],' replied the priest, 'I don't see a pin to choose between your
 scientific superstition and the other magical superstition. They both
 seem to end in turning people into paralytics, who can't move their own
 legs or arms or save their own lives or souls. The rhyme said it was the
@@ -517,11 +517,11 @@ said Dr Barnet. 'Don't you believe in heredity?'
 voice, 'and I won't choose between two tunnels of subterranean
 superstition that both end in the dark. And the proof of it is this:
 that you are all entirely in the dark about what really happened in that
-house.'
+[[house]].'
 
-'Do you mean about the suicide?' asked Payne.
+'Do you mean about the [[suicide]]?' asked Payne.
 
-'I mean about the murder,' said Father Brown; and his voice, though only
+'I mean about the murder,' said [[Father Brown]]; and his voice, though only
 slightly lifted to a louder note, seemed somehow to resound over the
 whole shore.' It was murder; but murder is of the will, which God made
 free.'
@@ -530,77 +530,77 @@ What the other said at the moment in answer to it Payne never knew. For
 the word had a rather curious effect on him; stirring him like the blast
 of a trumpet and yet bringing him to a halt. He stood still in the
 middle of the sandy waste and let the others go on in front of him; he
-felt the blood crawling through all his veins and the sensation that is
+felt the [[Blood|blood]] crawling through all his veins and the sensation that is
 called the hair standing on end; and yet he felt a new and unnatural
 happiness. A psychological process too quick and too complicated for
 himself to follow had already reached a conclusion that he could not
 analyse; but the conclusion was one of relief. After standing still for
-a moment he turned and went back slowly across the sands to the house of
+a moment he turned and went back slowly across the sands to the [[house]] of
 the Darnaways.
 
 He crossed the moat with a stride that shook the bridge, descended the
 stairs and traversed the long rooms with a resounding tread, till he
 came to the place where Adelaide Darnaway sat haloed with the low light
-of the oval window, almost like some forgotten saint left behind in the
-land of death. She looked up, and an expression of wonder made her face
+of the oval [[Window|window]], almost like some forgotten saint left behind in the
+land of [[Death|death]]. She looked up, and an expression of [[Wonder|wonder]] made her face
 yet more wonderful.
 
 'What is it?' she said.' Why have you come back?'
 
-'I have come for the Sleeping Beauty,' he said in a tone that had the
-resonance of a laugh. 'This old house went to sleep long ago, as the
+'I have come for the Sleeping [[Beauty]],' he said in a tone that had the
+resonance of a laugh. 'This old [[house]] went to [[Sleep|sleep]] long ago, as the
 doctor said; but it is silly for you to pretend to be old. Come up into
-the daylight and hear the truth. I have brought you a word; it is a
+the daylight and hear the [[Truth|truth]]. I have brought you a word; it is a
 terrible word, but it breaks the spell of your captivity.'
 
 She did not understand a word he said, but something made her rise and
 let him lead her down the long hall and up the stairs and out under the
-evening sky. The ruins of a dead garden stretched towards the sea, and
+evening sky. The ruins of a dead [[Garden|garden]] stretched towards the sea, and
 an old fountain with the figure of a triton, green with rust, remained
 poised there, pouring nothing out of a dried horn into an empty basin.
 He had often seen that desolate outline against the evening sky as he
 passed, and it had seemed to him a type of fallen fortunes in more ways
 than one. Before long, doubtless, those hollow fonts would be filled,
 but it would be with the pale green bitter waters of the sea and the
-flowers would be drowned and strangled in seaweed. So, he had told
+[[Flowers|flowers]] would be drowned and strangled in seaweed. So, he had told
 himself, the daughter of the Darnaways might indeed be wedded; but she
-would be wedded to death and a doom as deaf and ruthless as the sea. But
+would be wedded to [[Death|death]] and a doom as deaf and ruthless as the sea. But
 now he laid a hand on the bronze triton that was like the hand of a
 giant, and shook it as if he meant to hurl it over like an idol or an
-evil god of the garden.
+evil god of the [[Garden|garden]].
 
 'What do you mean?' she asked steadily. 'What is this word that will set
 us free?'
 
-'The word is murder,' he said, 'and the freedom it brings is as fresh as
-the flowers of spring. No; I do not mean I have murdered anybody. But
+'The word is murder,' he said, 'and the [[Freedom|freedom]] it brings is as fresh as
+the [[Flowers|flowers]] of [[spring]]. No; I do not mean I have murdered anybody. But
 the fact that anybody can be murdered is itself good news, after the
-evil dreams you have been living in. Don't you understand? In that dream
+evil [[Dreams|dreams]] you have been living in. Don't you understand? In that dream
 of yours everything that happened to you came from inside you; the Doom
 of the Darnaways was stored up in the Darnaways; it unfolded itself like
 a horrible flower. There was no escape even by happy accident; it was
 all inevitable; whether it was Vine and his old - wives' tales, or
 Barnet and his new - fangled heredity. But this man who died was not the
-victim of a magic curse or an inherited madness. He was murdered; and
+victim of a [[Magic|magic]] curse or an inherited [[Madness|madness]]. He was murdered; and
 for us that murder is simply an accident; yes, requiescat in pace: but a
 happy accident. It is a ray of daylight, because it comes from outside.'
 
 She suddenly smiled. 'Yes, I believe I understand. I suppose you are
 talking like a lunatic, but I understand. But who murdered him?'
 
-'I do not know,' he answered calmly, 'but Father Brown knows. And as
-Father Brown says, murder is at least done by the will, free as that
-wind from the sea.'
+'I do not know,' he answered calmly, 'but [[Father Brown]] knows. And as
+[[Father Brown]] says, murder is at least done by the will, free as that
+[[Wind|wind]] from the sea.'
 
-'Father Brown is a wonderful person,' she said after a pause; 'he was
+'[[Father Brown]] is a wonderful person,' she said after a pause; 'he was
 the only person who ever brightened my existence in any way at all until
 - '
 
 'Until what?' asked Payne, and made a movement almost impetuous, leaning
-towards her and thrusting away the bronze monster so that it seemed to
+towards her and thrusting away the bronze [[Monster|monster]] so that it seemed to
 rock on its pedestal.
 
-'Well, until you did,' she said and smiled again.
+'[[Well]], until you did,' she said and smiled again.
 
 So was the sleeping palace awakened, and it is no part of this story to
 describe the stages of its awakening, though much of it had come to pass
@@ -610,25 +610,25 @@ crossed in so many moods, he was at the highest turn of happiness that
 is given in this mortal life, - and the whole red sea within him was at
 the top of its tide. He would have had no difficulty in picturing all
 that place again in flower, and the bronze triton bright as a golden god
-and the fountain flowing with water or with wine. But all this
+and the fountain flowing with [[Water|water]] or with wine. But all this
 brightness and blossoming had been unfolded for him by the one word
 'murder', and it was still a word that he did not understand. He had
 taken it on trust, and he was not unwise; for he was one of those who
-have a sense of the sound of truth.
+have a sense of the sound of [[Truth|truth]].
 
-It was more than a month later that Payne returned to his London house
-to keep an appointment with Father Brown, taking the required photograph
-with him. His personal romance had prospered as well as was fitting
-under the shadow of such a tragedy, and the shadow itself therefore lay
+It was more than a month later that Payne returned to his [[London]] [[house]]
+to keep an appointment with [[Father Brown]], taking the required photograph
+with him. His personal [[Romance|romance]] had prospered as [[Well|well]] as was fitting
+under the [[Shadow|shadow]] of such a [[Tragedy|tragedy]], and the [[Shadow|shadow]] itself therefore lay
 rather more lightly on him; but it was hard to view it as anything but
-the shadow of a family fatality. In many ways he had been much occupied;
+the [[Shadow|shadow]] of a family fatality. In many ways he had been much occupied;
 and it was not until the Darnaway household had resumed its somewhat
 stern routine, and the portrait had long been restored to its place in
 the library, that he had managed to photograph it with a magnesium
 flare. Before sending it to the antiquary, as originally arranged, he
 brought it to the priest who had so pressingly demanded it.
 
-'I can't understand your attitude about all this. Father Brown,' he
+'I can't understand your attitude about all this. [[Father Brown]],' he
 said.' You act as if you had already solved the problem in some way of
 your own.'
 
@@ -641,15 +641,15 @@ He held it close to his screwed, short - sighted eyes for a moment, and
 then said: 'Have you got a magnifying glass?'
 
 Payne produced one, and the priest looked through it intently for some
-time and then said:' Look at the title of that book at the edge of the
-bookshelf beside the frame; it's 'The History of Pope Joan'. Now, I
-wonder ... yes, by George; and the one above is something or other of
-Iceland. Lord! what a queer way to find it out! What a dolt and donkey I
+[[Time|time]] and then said:' Look at the title of that book at the edge of the
+bookshelf beside the frame; it's 'The [[history|History]] of Pope Joan'. Now, I
+[[Wonder|wonder]] ... yes, by George; and the one above is something or other of
+Iceland. Lord! what a queer way to find it out! What a dolt and [[donkey]] I
 was not to notice it when I was there!'
 
 'But what have you found out?' asked Payne impatiently.
 
-'The last link,' said Father Brown, 'and I'm not stuck any longer. Yes;
+'The last link,' said [[Father Brown]], 'and I'm not stuck any longer. Yes;
 I think I know how that unhappy story went from first to last now.'
 
 'But why?' insisted the other.
@@ -662,13 +662,13 @@ faded and he said more earnestly: 'As a matter of fact, this last point,
 though it is the last link, is not the main business. There were much
 more curious things in the case than that. One of them is rather a
 curiosity of evidence. Let me begin by saying something that may
-surprise you. Darnaway did not die at seven o'clock that evening. He had
+surprise you. Darnaway did not die at seven o'[[Clock|clock]] that evening. He had
 been already dead for a whole day.'
 
 'Surprise is rather a mild word,' said Payne grimly, 'since you and I
 both saw him walking about afterwards.'
 
-'No, we did not,' replied Father Brown quietly. 'I think we both saw
+'No, we did not,' replied [[Father Brown]] quietly. 'I think we both saw
 him, or thought we saw him, fussing about with the focusing of his
 camera. Wasn't his head under that black cloak when you passed through
 the room? It was when I did. And that's why I felt there was something
@@ -681,15 +681,15 @@ strained attitude.'
 'Do you really mean,' cried Payne with something like a shudder, 'that
 it was some unknown man?'
 
-'It was the murderer,' said Father Brown. 'He had already killed
+'It was the murderer,' said [[Father Brown]]. 'He had already killed
 Darnaway at daybreak and hid the corpse and himself in the dark room -
 an excellent hiding - place, because nobody normally goes into it or can
 see much if he does. But he let it fall out on the floor at seven
-o'clock, of course, that the whole thing might be explained by the
+o'[[Clock|clock]], of course, that the whole thing might be explained by the
 curse.'
 
 'But I don't understand' observed Payne. 'Why didn't he kill him at
-seven o'clock then, instead of loading himself with a corpse for
+seven o'[[Clock|clock]] then, instead of loading himself with a corpse for
 fourteen hours?'
 
 'Let me ask you another question,' said the priest. 'Why was there no
@@ -698,27 +698,27 @@ first got up, and before he could take it. It was essential to the
 murderer to prevent that photograph reaching the expert on the Darnaway
 antiquities.'
 
-There was a sudden silence for a moment, and then the priest went on in
+There was a sudden [[Silence|silence]] for a moment, and then the priest went on in
 a lower tone: 'Don't you see how simple it is? Why, you yourself saw one
 side of the possibility; but it's simpler even than you thought. You
 said a man might be faked to resemble an old picture. Surely it's
 simpler that a picture should be faked to resemble a man. In plain
 words, it's true in a rather special way that there was no Doom of the
 Darnaways. There was no old picture; there was no old rhyme; there was
-no legend of a man who caused his wife's death. But there was a very
+no legend of a man who caused his wife's [[Death|death]]. But there was a very
 wicked and a very clever man who was willing to cause another man's
-death in order to rob him of his promised wife.'
+[[Death|death]] in order to rob him of his promised wife.'
 
 The priest suddenly gave Payne a sad smile, as if in reassurance. 'For
 the moment I believe you thought I meant you,' he said,' but you were
-not the only person who haunted that house for sentimental reasons. You
+not the only person who haunted that [[house]] for sentimental reasons. You
 know the man, or rather you think you do. But there were depths in the
-man called Martin Wood, artist and antiquary, which none of his mere
+man called Martin Wood, [[Artist|artist]] and antiquary, which none of his mere
 artistic acquaintances were likely to guess. Remember that he was called
 in to criticize and catalogue the pictures; in an aristocratic dustbin
 of that sort that practically means simply to tell the Darnaways what
 art treasures they had got. They would not be surprised at things
-turning up they had never noticed before. It had to be done well, and it
+turning up they had never noticed before. It had to be done [[Well|well]], and it
 was; perhaps he was right when he said that if it wasn't Holbein it was
 somebody of the same genius.'
 
@@ -731,16 +731,16 @@ him,' said the priest, 'and there are several ways in which he could
 have learned things when the new heir was once recognized. We may not
 know these details; but they are not difficulties. You remember he used
 to help in the dark room; it seems to me an ideal place, say, to prick a
-man with a poisoned pin, with the poison's all handy. No; I say these
+man with a poisoned pin, with the [[Poison|poison]]'s all handy. No; I say these
 were not difficulties. The difficulty that stumped me was how Wood could
 be in two places at once. How could he take the corpse from the dark -
 room and prop it against the camera so that it would fall in a few
 seconds, without coming downstairs, when he was in the library looking
-out a book? And I was such a fool that I never looked at the books in
+out a book? And I was such a [[Fool|fool]] that I never looked at the books in
 the library; and it was only in this photograph, by very undeserved good
 luck, that I saw the simple fact of a book about Pope Joan.'
 
-'You've kept your best riddle for the end,' said Payne grimly. 'What on
+'You've kept your best [[Riddle|riddle]] for the end,' said Payne grimly. 'What on
 earth can Pope Joan have to do with it?'
 
 'Don't forget the book about the Something of Iceland,' advised the
@@ -750,7 +750,7 @@ to ask what sort of man was the late Lord Darnaway.'
 'Oh, does it?' observed Payne heavily.
 
 'He was a cultivated, humorous sort of eccentric, I believe,' went on
-Father Brown. 'Being cultivated, he knew there was no such person as
+[[Father Brown]]. 'Being cultivated, he knew there was no such person as
 Pope Joan. Being humorous, he was very likely to have thought of the
 title of 'The Snakes of Iceland' or something else that didn't exist. I
 venture to reconstruct the third title as 'The Religion of Frederick the
@@ -764,7 +764,7 @@ staircase - '
 'Up to the room Wood himself selected as a dark room,' said the priest
 nodding. 'I'm sorry. It couldn't be helped. It's dreadfully banal and
 stupid, as stupid as I have been on this pretty banal case. But we were
-mixed up in a real musty old romance of decayed gentility and a fallen
-family mansion; and it was too much to hope that we could escape having
+mixed up in a real musty old [[Romance|romance]] of decayed gentility and a fallen
+family mansion; and it was too much to [[Hope|hope]] that we could escape having
 a secret passage. It was a priest's hole; and I deserve to be put in
 it.'

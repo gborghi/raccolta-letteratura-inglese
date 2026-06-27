@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 3 (part 2)"
+title: "[[The Professor]] — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -44,7 +44,7 @@ perversely said to myself--
 
 “He thinks he may speak as he likes to a poor clerk; but my mood is not,
 
-perhaps, so supple as he deems it, and his rough freedom pleases me not
+perhaps, so supple as he deems it, and his rough [[Freedom|freedom]] pleases me not
 
 at all.”
 
@@ -58,7 +58,7 @@ continued to move away. He coolly planted himself in my path.
 
 “Stay here awhile,” said he: “it is so hot in the dancing-room; besides,
 
-you don’t dance; you have not had a partner to-night.”
+you don’t [[Dance|dance]]; you have not had a partner to-[[Night|night]].”
 
 
 
@@ -70,7 +70,7 @@ me out of condescension, but because, having repaired to the cool
 
 dining-room for refreshment, he now wanted some one to talk to, by way
 
-of temporary amusement. I hate to be condescended to, but I like well
+of temporary amusement. I hate to be condescended to, but I like [[Well|well]]
 
 enough to oblige; I stayed.
 
@@ -102,7 +102,7 @@ I agreed with him, but did not say so. He went on.
 
 there’s too much of the sen-si-tive (so he articulated it, curling
 
-his lip at the same time) in that mouth; besides, there is Aristocrat
+his lip at the same [[Time|time]]) in that mouth; besides, there is [[aristocrat|Aristocrat]]
 
 written on the brow and defined in the figure; I hate your aristocrats.”
 
@@ -120,19 +120,19 @@ their ‘distinctive cast of form and features’ as much as we----shire
 
 tradesmen have ours? But which is the best? Not theirs assuredly. As
 
-to their women, it is a little different: they cultivate beauty from
+to their women, it is a little different: they cultivate [[Beauty|beauty]] from
 
-childhood upwards, and may by care and training attain to a certain
+[[Childhood|childhood]] upwards, and may by care and training attain to a certain
 
 degree of excellence in that point, just like the oriental odalisques.
 
 Yet even this superiority is doubtful. Compare the figure in that frame
 
-with Mrs. Edward Crimsworth--which is the finer animal?”
+with Mrs. [[Edward Crimsworth]]--which is the finer animal?”
 
 
 
-I replied quietly: “Compare yourself and Mr. Edward Crimsworth, Mr
+I replied quietly: “Compare yourself and Mr. [[Edward Crimsworth]], Mr
 
 Hunsden.”
 
@@ -150,9 +150,9 @@ veritable a ----shire blue-dyer as ever put indigo in a vat yet withal
 
 the handsomest man in the three Ridings. It is you, William, who are
 
-the aristocrat of your family, and you are not as fine a fellow as your
+the [[aristocrat]] of your family, and you are not as fine a fellow as your
 
-plebeian brother by long chalk.”
+plebeian brother by long [[chalk]].”
 
 
 
@@ -172,7 +172,7 @@ clerk.”
 
 
 
-“Well, and so we do; and what are you but a poor clerk? You do
+“[[Well]], and so we do; and what are you but a poor clerk? You do
 
 Crimsworth’s work, and he gives you wages--shabby wages they are, too.”
 
@@ -194,7 +194,7 @@ I wanted him to go on, which he did in a little while.
 
 
 
-“I wonder you should ask: you are yourself a strong proof of the
+“I [[Wonder|wonder]] you should ask: you are yourself a strong proof of the
 
 absurdity I allude to.”
 
@@ -202,7 +202,7 @@ absurdity I allude to.”
 
 I was determined he should explain himself of his own accord, without my
 
-pressing him so to do--so I resumed my silence.
+pressing him so to do--so I resumed my [[Silence|silence]].
 
 
 
@@ -214,7 +214,7 @@ pressing him so to do--so I resumed my silence.
 
 
 
-“Humph! the more fool you--you look like a tradesman! What a practical
+“Humph! the more [[Fool|fool]] you--you look like a tradesman! What a practical
 
 business-like face you have!”
 
@@ -226,7 +226,7 @@ business-like face you have!”
 
 “The Lord never made either your face or head for X---- What good can
 
-your bumps of ideality, comparison, self-esteem, conscientiousness,
+your bumps of ideality, comparison, [[Self|self]]-esteem, conscientiousness,
 
 do you here? But if you like Bigben Close, stay there; it’s your own
 
@@ -238,9 +238,9 @@ affair, not mine.”
 
 
 
-“Well, I care nought about it--it will make little difference to me what
+“[[Well]], I care nought about it--it will make little difference to me what
 
-you do or where you go; but I’m cool now--I want to dance again; and
+you do or where you go; but I’m cool now--I want to [[Dance|dance]] again; and
 
 I see such a fine girl sitting in the corner of the sofa there by
 
@@ -254,7 +254,7 @@ And Mr. Hunsden strode away. I watched him through the open
 
 folding-doors; he outstripped Waddy, applied for the hand of the
 
-fine girl, and led her off triumphant. She was a tall, well-made,
+fine girl, and led her off triumphant. She was a tall, [[Well|well]]-made,
 
 full-formed, dashingly-dressed young woman, much in the style of Mrs. E.
 
@@ -266,13 +266,13 @@ animated and gratified countenance that he succeeded in making himself
 
 perfectly agreeable. The mamma too (a stout person in a turban--Mrs.
 
-Lupton by name) looked well pleased; prophetic visions probably
+Lupton by name) looked [[Well|well]] pleased; prophetic visions probably
 
 flattered her inward eye. The Hunsdens were of an old stem; and scornful
 
 as Yorke (such was my late interlocutor’s name) professed to be of
 
-the advantages of birth, in his secret heart he well knew and fully
+the advantages of birth, in his secret heart he [[Well|well]] knew and fully
 
 appreciated the distinction his ancient, if not high lineage conferred
 
@@ -282,19 +282,19 @@ it was proverbially said, that not one in a thousand knew his own
 
 grandfather. Moreover the Hunsdens, once rich, were still independent;
 
-and report affirmed that Yorke bade fair, by his success in business,
+and report affirmed that Yorke bade fair, by his [[success]] in business,
 
 to restore to pristine prosperity the partially decayed fortunes of his
 
-house. These circumstances considered, Mrs. Lupton’s broad face might
+[[house]]. These circumstances considered, Mrs. Lupton’s broad face might
 
-well wear a smile of complacency as she contemplated the heir of Hunsden
+[[Well|well]] wear a smile of complacency as she contemplated the heir of Hunsden
 
-Wood occupied in paying assiduous court to her darling Sarah Martha. I,
+Wood occupied in paying assiduous [[Court|court]] to her darling Sarah Martha. I,
 
 however, whose observations being less anxious, were likely to be more
 
-accurate, soon saw that the grounds for maternal self-congratulation
+accurate, soon saw that the grounds for maternal [[Self|self]]-congratulation
 
 were slight indeed; the gentleman appeared to me much more desirous of
 
@@ -322,7 +322,7 @@ complete, sovereign satisfaction with himself; yet, at times, an
 
 indescribable shade passed like an eclipse over his countenance, and
 
-seemed to me like the sign of a sudden and strong inward doubt of
+seemed to me like the sign of a sudden and strong inward [[Doubt|doubt]] of
 
 himself, his words and actions an energetic discontent at his life or
 

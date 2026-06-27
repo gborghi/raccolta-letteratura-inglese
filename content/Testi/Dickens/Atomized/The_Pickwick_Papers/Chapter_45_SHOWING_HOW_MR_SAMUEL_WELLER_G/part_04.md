@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -16,10 +16,10 @@ tags:
 
 ‘And now, Sammy,’ said the old gentleman, when the whip-lashes, and the
 buckles, and the samples, had been all put back, and the book once more
-deposited at the bottom of the same pocket, ‘now, Sammy, I know a
-gen’l’m’n here, as’ll do the rest o’ the bisness for us, in no time--a
+deposited at the [[Bottom|bottom]] of the same pocket, ‘now, Sammy, I know a
+gen’l’m’n here, as’ll do the rest o’ the bisness for us, in no [[Time|time]]--a
 limb o’ the law, Sammy, as has got brains like the frogs, dispersed all
-over his body, and reachin’ to the wery tips of his fingers; a friend of
+over his [[Body|body]], and reachin’ to the wery tips of his fingers; a friend of
 the Lord Chancellorship’s, Sammy, who’d only have to tell him what he
 wanted, and he’d lock you up for life, if that wos all.’
 
@@ -32,7 +32,7 @@ wanted, and he’d lock you up for life, if that wos all.’
 blessedest things as wos ever made. I’ve read that ‘ere in the
 newspapers wery of’en.’
 
-‘Well, wot’s that got to do vith it?’ inquired Mr. Weller.
+‘[[Well]], wot’s that got to do vith it?’ inquired Mr. Weller.
 
 ‘Just this here,’ said Sam, ‘that I’ll patronise the inwention, and go
 in, that vay. No visperin’s to the Chancellorship--I don’t like the
@@ -40,9 +40,9 @@ notion. It mayn’t be altogether safe, vith reference to gettin’ out
 agin.’
 
 Deferring to his son’s feeling upon this point, Mr. Weller at once
-sought the erudite Solomon Pell, and acquainted him with his desire to
+sought the erudite Solomon Pell, and acquainted him with his [[Desire|desire]] to
 issue a writ, instantly, for the _sum _of twenty-five pounds, and costs
-of process; to be executed without delay upon the body of one Samuel
+of process; to be executed without delay upon the [[Body|body]] of one Samuel
 Weller; the charges thereby incurred, to be paid in advance to Solomon
 Pell.
 
@@ -57,16 +57,16 @@ spot.
 Meanwhile, Sam, having been formally introduced to the whitewashed
 gentleman and his friends, as the offspring of Mr. Weller, of the Belle
 Savage, was treated with marked distinction, and invited to regale
-himself with them in honour of the occasion--an invitation which he was
+himself with them in [[Honour|honour]] of the occasion--an invitation which he was
 by no means backward in accepting.
 
-The mirth of gentlemen of this class is of a grave and quiet character,
+The mirth of gentlemen of this class is of a [[Grave|grave]] and quiet character,
 usually; but the present instance was one of peculiar festivity, and
 they relaxed in proportion. After some rather tumultuous toasting of the
 Chief Commissioner and Mr. Solomon Pell, who had that day displayed such
 transcendent abilities, a mottled-faced gentleman in a blue shawl
-proposed that somebody should sing a song. The obvious suggestion was,
-that the mottled-faced gentleman, being anxious for a song, should sing
+proposed that somebody should sing a [[Song|song]]. The obvious suggestion was,
+that the mottled-faced gentleman, being anxious for a [[Song|song]], should sing
 it himself; but this the mottled-faced gentleman sturdily, and somewhat
 offensively, declined to do. Upon which, as is not unusual in such
 cases, a rather angry colloquy ensued.
@@ -87,16 +87,16 @@ fourth lines, which not only enables the singer to take breath at those
 points, but greatly assists the metre.
 
 
-ROMANCE
+[[Romance|ROMANCE]]
 
 I
 
 Bold Turpin vunce, on Hounslow Heath, His bold mare Bess bestrode--er;
-Ven there he see’d the Bishop’s coach A-coming along the road--er. So he
+Ven there he see’d the Bishop’s coach A-coming along the [[Road|road]]--er. So he
 gallops close to the ‘orse’s legs, And he claps his head vithin; And the
 Bishop says, ‘Sure as eggs is eggs, This here’s the bold Turpin!’
 
-CHORUS
+[[Chorus|CHORUS]]
 
 And the Bishop says, ‘Sure as eggs is eggs, This here’s the bold
 Turpin!’
@@ -104,22 +104,22 @@ Turpin!’
 II
 
 Says Turpin, ‘You shall eat your words, With a sarse of leaden bul--
-let;’ So he puts a pistol to his mouth, And he fires it down his gul--
+let;’ So he puts a [[Pistol|pistol]] to his mouth, And he fires it down his gul--
 let. The coachman he not likin’ the job, Set off at full gal-lop, But
 Dick put a couple of balls in his nob, And perwailed on him to stop.
 
-CHORUS (sarcastically)
+[[Chorus|CHORUS]] (sarcastically)
 
 But Dick put a couple of balls in his nob, And perwailed on him to stop.
 
-‘I maintain that that ‘ere song’s personal to the cloth,’ said the
+‘I maintain that that ‘ere [[Song|song]]’s personal to the cloth,’ said the
 mottled-faced gentleman, interrupting it at this point. ‘I demand the
 name o’ that coachman.’
 
 ‘Nobody know’d,’ replied Sam. ‘He hadn’t got his card in his pocket.’
 
 ‘I object to the introduction o’ politics,’ said the mottled-faced
-gentleman. ‘I submit that, in the present company, that ‘ere song’s
+gentleman. ‘I submit that, in the present company, that ‘ere [[Song|song]]’s
 political; and, wot’s much the same, that it ain’t true. I say that that
 coachman did not run away; but that he died game--game as pheasants; and
 I won’t hear nothin’ said to the contrairey.’
@@ -131,7 +131,7 @@ Weller and Mr. Pell most opportunely arrived.
 
 ‘All right, Sammy,’ said Mr. Weller.
 
-‘The officer will be here at four o’clock,’ said Mr. Pell. ‘I suppose
+‘The officer will be here at four o’[[Clock|clock]],’ said Mr. Pell. ‘I suppose
 you won’t run away meanwhile, eh? Ha! ha!’
 
 ‘P’raps my cruel pa ‘ull relent afore then,’ replied Sam, with a broad

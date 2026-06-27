@@ -23,7 +23,7 @@ an extensive view of the gardens, and their usual adjuncts—flaunting
 nursery-maids, and town-made children, with parenthetical legs. Mr.
 Percy Noakes was what is generally termed—‘a devilish good fellow.’ He
 had a large circle of acquaintance, and seldom dined at his own
-expense. He used to talk politics to papas, flatter the vanity of
+expense. He used to talk politics to papas, flatter the [[Vanity|vanity]] of
 mammas, do the amiable to their daughters, make pleasure engagements
 with their sons, and romp with the younger branches. Like those
 paragons of perfection, advertising footmen out of place, he was always
@@ -52,7 +52,7 @@ astonishing rapidity; was smart, spoffish, and eight-and-twenty.
 
 ‘Splendid idea, ’pon my life!’ soliloquised Mr. Percy Noakes, over his
 morning coffee, as his mind reverted to a suggestion which had been
-thrown out on the previous night, by a lady at whose house he had spent
+thrown out on the previous [[Night|night]], by a lady at whose [[house]] he had spent
 the evening. ‘Glorious idea!—Mrs. Stubbs.’
 
 ‘Yes, sir,’ replied a dirty old woman with an inflamed countenance,
@@ -68,22 +68,22 @@ down; and if Mr. Hardy should call—you know Mr. Hardy?’
 ‘The funny gentleman, sir?’
 
 ‘Ah! the funny gentleman. If Mr. Hardy should call, say I’ve gone to
-Mrs. Taunton’s about that water-party.’
+Mrs. Taunton’s about that [[Water|water]]-party.’
 
 ‘Yes, sir.’
 
 ‘And if any fellow calls, and says he’s come about a steamer, tell him
-to be here at five o’clock this afternoon, Mrs. Stubbs.’
+to be here at five o’[[Clock|clock]] this afternoon, Mrs. Stubbs.’
 
-‘Very well, sir.’
+‘Very [[Well|well]], sir.’
 
 Mr. Percy Noakes brushed his hat, whisked the crumbs off his
 inexpressibles with a silk handkerchief, gave the ends of his hair a
 persuasive roll round his forefinger, and sallied forth for Mrs.
 Taunton’s domicile in Great Marlborough-street, where she and her
-daughters occupied the upper part of a house. She was a good-looking
-widow of fifty, with the form of a giantess and the mind of a child.
-The pursuit of pleasure, and some means of killing time, were the sole
+daughters occupied the upper part of a [[house]]. She was a good-looking
+widow of fifty, with the form of a giantess and the mind of a [[Child|child]].
+The pursuit of pleasure, and some means of killing [[Time|time]], were the sole
 end of her existence. She doted on her daughters, who were as frivolous
 as herself.
 
@@ -93,12 +93,12 @@ into an easy chair near the ladies’ work-table, with the ease of a
 regularly established friend of the family. Mrs. Taunton was busily
 engaged in planting immense bright bows on every part of a smart cap on
 which it was possible to stick one; Miss Emily Taunton was making a
-watch-guard; Miss Sophia was at the piano, practising a new song—poetry
-by the young officer, or the police-officer, or the custom-house
+watch-guard; Miss Sophia was at the piano, practising a new [[Song|song]]—poetry
+by the young officer, or the police-officer, or the custom-[[house]]
 officer, or some other interesting amateur.
 
 ‘You good creature!’ said Mrs. Taunton, addressing the gallant Percy.
-‘You really are a good soul! You’ve come about the water-party, I
+‘You really are a good [[Soul|soul]]! You’ve come about the [[Water|water]]-party, I
 know.’
 
 ‘I should rather suspect I had,’ replied Mr. Noakes, triumphantly.
@@ -131,9 +131,9 @@ his element. ‘I think it’ll do. Then you know we shall go down to the
 Nore, and back, and have a regular capital cold dinner laid out in the
 cabin before we start, so that everything may be ready without any
 confusion; and we shall have the lunch laid out, on deck, in those
-little tea-garden-looking concerns by the paddle-boxes—I don’t know
+little tea-[[Garden|garden]]-looking concerns by the paddle-boxes—I don’t know
 what you call ’em. Then, we shall hire a steamer expressly for our
 party, and a band, and have the deck chalked, and we shall be able to
-dance quadrilles all day; and then, whoever we know that’s musical, you
+[[Dance|dance]] quadrilles all day; and then, whoever we know that’s musical, you
 know, why they’ll make themselves useful and agreeable; and—and—upon
-the whole, I really hope we shall have a glorious day, you know!’
+the whole, I really [[Hope|hope]] we shall have a glorious day, you know!’

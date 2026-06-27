@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 9 (part 4)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -26,7 +26,7 @@ know all. It is an annuity of two hundred and fifty pounds. The savings
 upon that annuity, and some other items to your credit, all duly
 carried to account, with vouchers, will place you in possession of a
 lump-sum of money, rather exceeding Seventeen Hundred Pounds. I am
-empowered to advance the cost of your preparations for your marriage
+empowered to advance the cost of your preparations for your [[Marriage|marriage]]
 out of that fund. All is told.”
 
 “Will you please tell me,” said Rosa, taking the paper with a prettily
@@ -52,7 +52,7 @@ one another?”
 “It was not bound upon Eddy, and it was not bound upon me, by any
 forfeit, in case—”
 
-“Don’t be agitated, my dear. In the case that it brings tears into your
+“Don’t be agitated, my dear. In the case that it brings [[Tears|tears]] into your
 affectionate eyes even to picture to yourself—in the case of your not
 marrying one another—no, no forfeiture on either side. You would then
 have been my ward until you were of age. No worse would have befallen
@@ -70,12 +70,12 @@ abstractedly on the floor, and smoothing it with her foot.
 
 “In short,” said Mr. Grewgious, “this betrothal is a wish, a sentiment,
 a friendly project, tenderly expressed on both sides. That it was
-strongly felt, and that there was a lively hope that it would prosper,
-there can be no doubt. When you were both children, you began to be
+strongly felt, and that there was a lively [[Hope|hope]] that it would prosper,
+there can be no [[Doubt|doubt]]. When you were both children, you began to be
 accustomed to it, and it _has_ prospered. But circumstances alter
 cases; and I made this visit to-day, partly, indeed principally, to
 discharge myself of the duty of telling you, my dear, that two young
-people can only be betrothed in marriage (except as a matter of
+people can only be betrothed in [[Marriage|marriage]] (except as a matter of
 convenience, and therefore mockery and misery) of their own free will,
 their own attachment, and their own assurance (it may or it may not
 prove a mistaken one, but we must take our chance of that), that they
@@ -112,7 +112,7 @@ mind in all things. Is the young gentleman expected shortly?”
 arrange all matters of detail with him; you will then communicate with
 me; and I will discharge myself (as a mere business acquaintance) of my
 business responsibilities towards the accomplished lady in the corner
-window. They will accrue at that season.” Blurring pencil once again.
+[[Window|window]]. They will accrue at that season.” Blurring pencil once again.
 “Memorandum, ‘Leave.’ Yes. I will now, my dear, take my leave.”
 
 “Could I,” said Rosa, rising, as he jerked out of his chair in his
@@ -123,7 +123,7 @@ if I had anything particular to say to you?”
 be used of one who had no apparent lights or shadows about
 him—complimented by the question. “As a particularly Angular man, I do
 not fit smoothly into the social circle, and consequently I have no
-other engagement at Christmas-time than to partake, on the
+other engagement at Christmas-[[Time|time]] than to partake, on the
 twenty-fifth, of a boiled turkey and celery sauce with a—with a
 particularly Angular clerk I have the good fortune to possess, whose
 father, being a Norfolk farmer, sends him up (the turkey up), as a
@@ -135,7 +135,7 @@ be bracing.”
 For his ready acquiescence, the grateful Rosa put her hands upon his
 shoulders, stood on tiptoe, and instantly kissed him.
 
-“Lord bless me!” cried Mr. Grewgious. “Thank you, my dear! The honour
+“Lord bless me!” cried Mr. Grewgious. “Thank you, my dear! The [[Honour|honour]]
 is almost equal to the pleasure. Miss Twinkleton, madam, I have had a
 most satisfactory conversation with my ward, and I will now release you
 from the incumbrance of my presence.”

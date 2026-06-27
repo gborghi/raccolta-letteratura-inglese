@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 1 (part 2)"
+title: "[[queertrades]] — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -19,12 +19,12 @@ tiddly-ighty Tiddly-ighty ow."
 
 He then retired from public life and took the garret in Lambeth.
 
-I was sitting there one evening, about six o'clock, over a glass of that
+I was sitting there one evening, about six o'[[Clock|clock]], over a glass of that
 gorgeous Burgundy which he kept behind a pile of black-letter folios;
 he was striding about the room, fingering, after a habit of his,
 one of the great swords in his collection; the red glare of the
-strong fire struck his square features and his fierce grey hair;
-his blue eyes were even unusually full of dreams, and he had
+strong [[Fire|fire]] struck his square features and his fierce grey hair;
+his blue eyes were even unusually full of [[Dreams|dreams]], and he had
 opened his mouth to speak dreamily, when the door was flung open,
 and a pale, fiery man, with red hair and a huge furred overcoat,
 swung himself panting into the room.
@@ -36,12 +36,12 @@ I beg your pardon, sir," and he gave me a bow of apology.
 Basil smiled at me.  "You didn't know," he said, "that I had a
 practical brother.  This is Rupert Grant, Esquire, who can and does
 all there is to be done.  Just as I was a failure at one thing,
-he is a success at everything.  I remember him as a journalist,
-a house-agent, a naturalist, an inventor, a publisher,
+he is a [[success]] at everything.  I remember him as a journalist,
+a [[house]]-agent, a naturalist, an inventor, a publisher,
 a schoolmaster, a--what are you now, Rupert?"
 
-"I am and have been for some time," said Rupert, with some dignity,
-"a private detective, and there's my client."
+"I am and have been for some [[Time|time]]," said Rupert, with some dignity,
+"a private [[Detective|detective]], and there's my client."
 
 A loud rap at the door had cut him short, and, on permission being given,
 the door was thrown sharply open and a stout, dapper man walked swiftly
@@ -71,12 +71,12 @@ men who recovered British India, he was a man with the natural
 beliefs and tastes of an old maid.  In his dress he was dapper
 and yet demure; in his habits he was precise to the point
 of the exact adjustment of a tea-cup. One enthusiasm he had,
-which was of the nature of a religion--the cultivation of pansies.
+which was of the [[Nature|nature]] of a religion--the cultivation of pansies.
 And when he talked about his collection, his blue eyes glittered
-like a child's at a new toy, the eyes that had remained untroubled
+like a [[Child|child]]'s at a new toy, the eyes that had remained untroubled
 when the troops were roaring victory round Roberts at Candahar.
 
-"Well, Major," said Rupert Grant, with a lordly heartiness,
+"[[Well]], Major," said Rupert Grant, with a lordly heartiness,
 flinging himself into a chair, "what is the matter with you?"
 
 "Yellow pansies.  Coal-cellar. P. G. Northover," said the Major,
@@ -88,7 +88,7 @@ eyes shut in his abstracted way, said simply:
 "I beg your pardon."
 
 "Fact is.  Street, you know, man, pansies.  On wall.
-Death to me.  Something.  Preposterous."
+[[Death]] to me.  Something.  Preposterous."
 
 We shook our heads gently.  Bit by bit, and mainly by
 the seemingly sleepy assistance of Basil Grant, we pieced
@@ -104,14 +104,14 @@ sitting bolt upright in his chair and talking like a telegram.
 Major Brown was, I have said, a successful soldier, but by no
 means an enthusiastic one.  So far from regretting his retirement
 on half-pay, it was with delight that he took a small neat villa,
-very like a doll's house, and devoted the rest of his life
+very like a doll's [[house]], and devoted the rest of his life
 to pansies and weak tea.  The thought that battles were over
-when he had once hung up his sword in the little front hall
-(along with two patent stew-pots and a bad water-colour),
+when he had once hung up his [[Sword|sword]] in the little front hall
+(along with two patent stew-pots and a bad [[Water|water]]-colour),
 and betaken himself instead to wielding the rake in his little
-sunlit garden, was to him like having come into a harbour in heaven.
+sunlit [[Garden|garden]], was to him like having come into a harbour in heaven.
 He was Dutch-like and precise in his taste in gardening,
-and had, perhaps, some tendency to drill his flowers like soldiers.
+and had, perhaps, some tendency to drill his [[Flowers|flowers]] like soldiers.
 He was one of those men who are capable of putting four umbrellas
 in the stand rather than three, so that two may lean one way and
 two another; he saw life like a pattern in a freehand drawing-book.
@@ -125,7 +125,7 @@ One certain bright and windy afternoon, the Major, attired in his
 usual faultless manner, had set out for his usual constitutional.
 In crossing from one great residential thoroughfare to another,
 he happened to pass along one of those aimless-looking lanes
-which lie along the back-garden walls of a row of mansions,
+which lie along the back-[[Garden|garden]] walls of a row of mansions,
 and which in their empty and discoloured appearance give one
 an odd sensation as of being behind the scenes of a theatre.
 But mean and sulky as the scene might be in the eyes of most of us,
@@ -134,7 +134,7 @@ gravel footway was coming a thing which was to him what
 the passing of a religious procession is to a devout person.
 A large, heavy man, with fish-blue eyes and a ring of irradiating
 red beard, was pushing before him a barrow, which was ablaze
-with incomparable flowers.  There were splendid specimens of almost
+with incomparable [[Flowers|flowers]].  There were splendid specimens of almost
 every order, but the Major's own favourite pansies predominated.
 The Major stopped and fell into conversation, and then into bargaining.
 He treated the man after the manner of collectors and other

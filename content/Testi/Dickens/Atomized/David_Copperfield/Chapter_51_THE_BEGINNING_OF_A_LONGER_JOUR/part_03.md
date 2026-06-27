@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 51: THE BEGINNING OF A LONGER JOURNEY (part 3)"
+title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,15 +20,15 @@ I could not repress a cry of joy.
 ‘it was you as first made mention of her to me. I thankee, sir! She was
 arnest. She had know’d of her bitter knowledge wheer to watch and what
 to do. She had done it. And the Lord was above all! She come, white and
-hurried, upon Em’ly in her sleep. She says to her, “Rise up from worse
-than death, and come with me!” Them belonging to the house would have
+hurried, upon Em’ly in her [[Sleep|sleep]]. She says to her, “Rise up from worse
+than [[Death|death]], and come with me!” Them belonging to the [[house]] would have
 stopped her, but they might as soon have stopped the sea. “Stand away
-from me,” she says, “I am a ghost that calls her from beside her open
-grave!” She told Em’ly she had seen me, and know’d I loved her, and
+from me,” she says, “I am a [[Ghost|ghost]] that calls her from beside her open
+[[Grave|grave]]!” She told Em’ly she had seen me, and know’d I loved her, and
 forgive her. She wrapped her, hasty, in her clothes. She took her, faint
 and trembling, on her arm. She heeded no more what they said, than if
-she had had no ears. She walked among ‘em with my child, minding only
-her; and brought her safe out, in the dead of the night, from that black
+she had had no ears. She walked among ‘em with my [[Child|child]], minding only
+her; and brought her safe out, in the dead of the [[Night|night]], from that black
 pit of ruin!
 
 ‘She attended on Em’ly,’ said Mr. Peggotty, who had released my hand,
@@ -42,12 +42,12 @@ chanced to see ‘em going theer, or whether (which is most like, to my
 thinking) he had heerd it from the woman, I doen’t greatly ask myself.
 My niece is found.
 
-‘All night long,’ said Mr. Peggotty, ‘we have been together, Em’ly
-and me. ‘Tis little (considering the time) as she has said, in wureds,
-through them broken-hearted tears; ‘tis less as I have seen of her dear
-face, as grow’d into a woman’s at my hearth. But, all night long, her
+‘All [[Night|night]] long,’ said Mr. Peggotty, ‘we have been together, Em’ly
+and me. ‘Tis little (considering the [[Time|time]]) as she has said, in wureds,
+through them broken-hearted [[Tears|tears]]; ‘tis less as I have seen of her dear
+face, as grow’d into a woman’s at my hearth. But, all [[Night|night]] long, her
 arms has been about my neck; and her head has laid heer; and we knows
-full well, as we can put our trust in one another, ever more.’
+full [[Well|well]], as we can put our trust in one another, ever more.’
 
 He ceased to speak, and his hand upon the table rested there in perfect
 repose, with a resolution in it that might have conquered lions.
@@ -62,7 +62,7 @@ Mr. Peggotty nodded his understanding of my aunt’s feelings, but could
 not trust himself with any verbal reference to the subject of her
 commendation. We all remained silent, and occupied with our own
 reflections (my aunt drying her eyes, and now sobbing convulsively, and
-now laughing and calling herself a fool); until I spoke.
+now laughing and calling herself a [[Fool|fool]]); until I spoke.
 
 ‘You have quite made up your mind,’ said I to Mr. Peggotty, ‘as to the
 future, good friend? I need scarcely ask you.’
@@ -75,14 +75,14 @@ countries, fur from heer. Our future life lays over the sea.’
 ‘Yes!’ said Mr. Peggotty, with a hopeful smile. ‘No one can’t reproach
 my darling in Australia. We will begin a new life over theer!’
 
-I asked him if he yet proposed to himself any time for going away.
+I asked him if he yet proposed to himself any [[Time|time]] for going away.
 
 ‘I was down at the Docks early this morning, sir,’ he returned, ‘to get
 information concerning of them ships. In about six weeks or two
 months from now, there’ll be one sailing--I see her this morning--went
 aboard--and we shall take our passage in her.’
 
-‘Quite alone?’ I asked.
+‘Quite [[Alone|alone]]?’ I asked.
 
 ‘Aye, Mas’r Davy!’ he returned. ‘My sister, you see, she’s that fond
 of you and yourn, and that accustomed to think on’y of her own country,
@@ -91,7 +91,7 @@ one she has in charge, Mas’r Davy, as doen’t ought to be forgot.’
 
 ‘Poor Ham!’ said I.
 
-‘My good sister takes care of his house, you see, ma’am, and he takes
+‘My good sister takes care of his [[house]], you see, ma’am, and he takes
 kindly to her,’ Mr. Peggotty explained for my aunt’s better information.
 ‘He’ll set and talk to her, with a calm spirit, wen it’s like he
 couldn’t bring himself to open his lips to another. Poor fellow!’ said
@@ -100,7 +100,7 @@ could spare the little as he has!’
 
 ‘And Mrs. Gummidge?’ said I.
 
-‘Well, I’ve had a mort of consideration, I do tell you,’ returned Mr.
+‘[[Well]], I’ve had a mort of consideration, I do tell you,’ returned Mr.
 Peggotty, with a perplexed look which gradually cleared as he went
 on, ‘concerning of Missis Gummidge. You see, wen Missis Gummidge falls
 a-thinking of the old ‘un, she an’t what you may call good company.
@@ -117,19 +117,19 @@ My aunt and I both acquiesced.
 but might--find Missis Gummidge give her a leetle trouble now-and-again.
 Theerfur ‘tan’t my intentions to moor Missis Gummidge ‘long with them,
 but to find a Beein’ fur her wheer she can fisherate for herself.’
-(A Beein’ signifies, in that dialect, a home, and to fisherate is to
+(A Beein’ signifies, in that dialect, a [[Home|home]], and to fisherate is to
 provide.) ‘Fur which purpose,’ said Mr. Peggotty, ‘I means to make her
 a ‘lowance afore I go, as’ll leave her pretty comfort’ble. She’s the
 faithfullest of creeturs. ‘Tan’t to be expected, of course, at her
-time of life, and being lone and lorn, as the good old Mawther is to
+[[Time|time]] of life, and being lone and lorn, as the good old Mawther is to
 be knocked about aboardship, and in the woods and wilds of a new and
 fur-away country. So that’s what I’m a-going to do with her.’
 
 He forgot nobody. He thought of everybody’s claims and strivings, but
 his own.
 
-‘Em’ly,’ he continued, ‘will keep along with me--poor child, she’s sore
-in need of peace and rest!--until such time as we goes upon our voyage.
-She’ll work at them clothes, as must be made; and I hope her troubles
+‘Em’ly,’ he continued, ‘will keep along with me--poor [[Child|child]], she’s sore
+in need of peace and rest!--until such [[Time|time]] as we goes upon our voyage.
+She’ll work at them clothes, as must be made; and I [[Hope|hope]] her troubles
 will begin to seem longer ago than they was, wen she finds herself once
 more by her rough but loving uncle.’

@@ -15,7 +15,7 @@ tags:
 
 
 The day was closing as the two girls looked at one another by the
-fireside. The dusky room was lighted by the fire. The grate might have
+fireside. The dusky room was lighted by the [[Fire|fire]]. The grate might have
 been the old brazier, and the glow might have been the old hollow down
 by the flare.
 
@@ -49,7 +49,7 @@ I was dragged into the subject without my consent, and you were dragged
 into it without your consent, and there is very little to choose between
 us.’
 
-‘I had no doubt,’ said Lizzie, ‘that you were the Miss Wilfer I have
+‘I had no [[Doubt|doubt]],’ said Lizzie, ‘that you were the Miss Wilfer I have
 often heard named. Can you tell me who my unknown friend is?’
 
 ‘Unknown friend, my dear?’ said Bella.
@@ -60,7 +60,7 @@ me the written paper.’
 Bella had never heard of him. Had no notion who he was.
 
 ‘I should have been glad to thank him,’ returned Lizzie. ‘He has done a
-great deal for me. I must hope that he will let me thank him some day.
+great deal for me. I must [[Hope|hope]] that he will let me thank him some day.
 You asked me has it anything to do—’
 
 ‘It or the accusation itself,’ Bella put in.
@@ -68,14 +68,14 @@ You asked me has it anything to do—’
 ‘Yes. Has either anything to do with my wishing to live quite secret and
 retired here? No.’
 
-As Lizzie Hexam shook her head in giving this reply and as her glance
-sought the fire, there was a quiet resolution in her folded hands, not
+As [[Lizzie Hexam]] shook her head in giving this reply and as her glance
+sought the [[Fire|fire]], there was a quiet resolution in her folded hands, not
 lost on Bella’s bright eyes.
 
-‘Have you lived much alone?’ asked Bella.
+‘Have you lived much [[Alone|alone]]?’ asked Bella.
 
-‘Yes. It’s nothing new to me. I used to be always alone many hours
-together, in the day and in the night, when poor father was alive.’
+‘Yes. It’s nothing new to me. I used to be always [[Alone|alone]] many hours
+together, in the day and in the [[Night|night]], when poor father was alive.’
 
 ‘You have a brother, I have been told?’
 
@@ -83,7 +83,7 @@ together, in the day and in the night, when poor father was alive.’
 boy though, and has raised himself by his industry. I don’t complain of
 him.’
 
-As she said it, with her eyes upon the fire-glow, there was an
+As she said it, with her eyes upon the [[Fire|fire]]-glow, there was an
 instantaneous escape of distress into her face. Bella seized the moment
 to touch her hand.
 
@@ -101,34 +101,34 @@ you could make a friend of me, Lizzie. Do you think you could? I have
 no more of what they call character, my dear, than a canary-bird, but I
 know I am trustworthy.’
 
-The wayward, playful, affectionate nature, giddy for want of the
+The wayward, playful, affectionate [[Nature|nature]], giddy for want of the
 weight of some sustaining purpose, and capricious because it was always
 fluttering among little things, was yet a captivating one. To Lizzie it
 was so new, so pretty, at once so womanly and so childish, that it won
 her completely. And when Bella said again, ‘Do you think you could,
 Lizzie?’ with her eyebrows raised, her head inquiringly on one side,
-and an odd doubt about it in her own bosom, Lizzie showed beyond all
+and an odd [[Doubt|doubt]] about it in her own bosom, Lizzie showed beyond all
 question that she thought she could.
 
 ‘Tell me, my dear,’ said Bella, ‘what is the matter, and why you live
 like this.’
 
-Lizzie presently began, by way of prelude, ‘You must have many lovers—’
+Lizzie presently began, by way of prelude, ‘You must have many [[lovers]]—’
 when Bella checked her with a little scream of astonishment.
 
 ‘My dear, I haven’t one!’
 
 ‘Not one?’
 
-‘Well! Perhaps one,’ said Bella. ‘I am sure I don’t know. I HAD one, but
-what he may think about it at the present time I can’t say. Perhaps I
+‘[[Well]]! Perhaps one,’ said Bella. ‘I am sure I don’t know. I HAD one, but
+what he may think about it at the present [[Time|time]] I can’t say. Perhaps I
 have half a one (of course I don’t count that Idiot, George Sampson).
 However, never mind me. I want to hear about you.’
 
 ‘There is a certain man,’ said Lizzie, ‘a passionate and angry man, who
-says he loves me, and who I must believe does love me. He is the friend
+says he loves me, and who I must believe does [[Love|love]] me. He is the friend
 of my brother. I shrank from him within myself when my brother first
-brought him to me; but the last time I saw him he terrified me more than
+brought him to me; but the last [[Time|time]] I saw him he terrified me more than
 I can say.’ There she stopped.
 
 ‘Did you come here to escape from him, Lizzie?’
@@ -138,16 +138,16 @@ I can say.’ There she stopped.
 ‘Are you afraid of him here?’
 
 ‘I am not timid generally, but I am always afraid of him. I am afraid
-to see a newspaper, or to hear a word spoken of what is done in London,
+to see a newspaper, or to hear a word spoken of what is done in [[London]],
 lest he should have done some violence.’
 
 ‘Then you are not afraid of him for yourself, dear?’ said Bella, after
 pondering on the words.
 
 ‘I should be even that, if I met him about here. I look round for him
-always, as I pass to and fro at night.’
+always, as I pass to and fro at [[Night|night]].’
 
-‘Are you afraid of anything he may do to himself in London, my dear?’
+‘Are you afraid of anything he may do to himself in [[London]], my dear?’
 
 ‘No. He might be fierce enough even to do some violence to himself, but
 I don’t think of that.’
@@ -159,5 +159,5 @@ Lizzie put her hands before her face for a moment before replying: ‘The
 words are always in my ears, and the blow he struck upon a stone wall as
 he said them is always before my eyes. I have tried hard to think it
 not worth remembering, but I cannot make so little of it. His hand was
-trickling down with blood as he said to me, “Then I hope that I may
+trickling down with [[Blood|blood]] as he said to me, “Then I [[Hope|hope]] that I may
 never kill him!’

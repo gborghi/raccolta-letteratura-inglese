@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Religion of the Stipendiary Magistrate (part 3)"
+title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -18,7 +18,7 @@ tags:
 "do you generally enter you friends' houses by walking through
 the glass?"  (Laughter.)
 
-"He is not my friend," said Evan, with the stolidity of a dull child.
+"He is not my friend," said Evan, with the stolidity of a dull [[Child|child]].
 
 "Not your friend, eh?" said the magistrate, sparkling.
 "Is he your brother-in-law?"  (Loud and prolonged laughter.)
@@ -35,7 +35,7 @@ Evan opened his great, blue eyes; "God," he began.
 
 "Be quiet," said the magistrate, angrily, "it is most undesirable
 that things of that sort should be spoken about--a-- in public,
-and in an ordinary Court of Justice.  Religion is--a-- too personal
+and in an ordinary [[Court]] of Justice.  Religion is--a-- too personal
 a matter to be mentioned in such a place."
 
 "Is it?" answered the Highlander, "then what did those policemen
@@ -44,7 +44,7 @@ swear by just now?"
 "That is no parallel," answered Vane, rather irritably; "of course
 there is a form of oath--to be taken reverently--reverently, and
 there's an end of it.  But to talk in a public place about one's
-most sacred and private sentiments--well, I call it bad taste.
+most sacred and private sentiments--[[Well|well]], I call it bad taste.
 (Slight applause.)  I call it irreverent.  I call it irreverent,
 and I'm not specially orthodox either."
 
@@ -53,9 +53,9 @@ and I'm not specially orthodox either."
 "We are wondering from the point," said the police magistrate,
 pulling himself together.
 
-"May I ask why you smashed this worthy citizen's window?"
+"May I ask why you smashed this worthy citizen's [[Window|window]]?"
 
-Evan turned a little pale at the mere memory, but he answered
+Evan turned a little pale at the mere [[Memory|memory]], but he answered
 with the same cold and deadly literalism that he showed throughout.
 
 "Because he blasphemed Our Lady."
@@ -71,7 +71,7 @@ and do nothing else."
 
 "Eh," cried Vane, glaring through his eye-glass.
 
-"You asked me why I broke his window," said MacIan, with a face of wood.
+"You asked me why I broke his [[Window|window]]," said MacIan, with a face of wood.
 "I answered, 'Because he blasphemed Our Lady.'  I had no other reason.
 So I have no other answer."  Vane continued to gaze at him with a
 sternness not habitual to him.
@@ -94,26 +94,26 @@ This man only gave expression to his sincere belief."
 "So did I," said the Highlander.
 
 "And who are you?" exploded Vane.  "Are your views necessarily
-the right ones?  Are you necessarily in possession of the truth?"
+the right ones?  Are you necessarily in possession of the [[Truth|truth]]?"
 
 "Yes," said MacIan.
 
 The magistrate broke into a contemptuous laugh.
 
-"Oh, you want a nurse to look after you," he said.
+"Oh, you want a [[Nurse|nurse]] to look after you," he said.
 "You must pay L10."
 
-Evan MacIan plunged his hands into his loose grey garment and
+[[Evan MacIan]] plunged his hands into his loose grey garment and
 drew out a queer looking leather purse.  It contained exactly
-twelve sovereigns.  He paid down the ten, coin by coin, in silence,
+twelve sovereigns.  He paid down the ten, coin by coin, in [[Silence|silence]],
 and equally silently returned the remaining two to the receptacle.
 Then he said, "May I say a word, your worship?"
 
-Cumberland Vane seemed half hypnotized with the silence and automatic
+Cumberland Vane seemed half hypnotized with the [[Silence|silence]] and automatic
 movements of the stranger; he made a movement with his head which might
 have been either "yes" or "no". "I only wished to say, your worship,"
 said MacIan, putting back the purse in his trouser pocket,
-"that smashing that shop window was, I confess, a useless and rather
+"that smashing that shop [[Window|window]] was, I confess, a useless and rather
 irregular business.  It may be excused, however, as a mere preliminary
 to further proceedings, a sort of preface.  Wherever and whenever
 I meet that man," and he pointed to the editor of _The Atheist_,
@@ -122,7 +122,7 @@ years hence in some distant country, wherever and whenever I meet
 that man, I will fight him.  Do not be afraid.  I will not rush
 at him like a bully, or bear him down with any brute superiority.
 I will fight him like a gentleman; I will fight him as our
-fathers fought.  He shall choose how, sword or pistol, horse or foot.
+fathers fought.  He shall choose how, [[Sword|sword]] or [[Pistol|pistol]], [[Horse|horse]] or foot.
 But if he refuses, I will write his cowardice on every wall in the world.
 If he had said of my mother what he said of the Mother of God,
 there is not a club of clean men in Europe that would deny my
@@ -132,12 +132,12 @@ the market place.  Your worship, I have no mother; I have no wife.
 I have only that which the poor have equally with the rich;
 which the lonely have equally with the man of many friends.
 To me this whole strange world is homely, because in the heart of it
-there is a home; to me this cruel world is kindly, because higher
+there is a [[Home|home]]; to me this cruel world is kindly, because higher
 than the heavens there is something more human than humanity.
 If a man must not fight for this, may he fight for anything?
 I would fight for my friend, but if I lost my friend, I should still
 be there.  I would fight for my country, but if I lost my country,
-I should still exist.  But if what that devil dreams were true,
+I should still exist.  But if what that devil [[Dreams|dreams]] were true,
 I should not be--I should burst like a bubble and be gone.
 I could not live in that imbecile universe.  Shall I not fight
 for my own existence?"

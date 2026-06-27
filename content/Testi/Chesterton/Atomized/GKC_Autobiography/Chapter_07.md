@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 7"
+title: "[[GKC-Autobiography]] — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -45,29 +45,29 @@ I cannot remember exactly where my brother or I first met
 the Rev. Conrad Noel.  I rather fancy it was at some strange club
 where somebody was lecturing on Nietzsche; and where the debaters
 (by typical transition) passed from the gratifying thought that
-Nietzsche attacked Christianity to the natural inference that he was
+Nietzsche attacked [[Christianity]] to the natural inference that he was
 a True Christian.  And I admired the common sense of a curate,
 with dark curly hair and a striking face, who got up and pointed out
-that Nietzsche would be even more opposed to True Christianity than to
-False Christianity, supposing there were any True Christianity to oppose.
+that Nietzsche would be even more opposed to True [[Christianity]] than to
+False [[Christianity]], supposing there were any True [[Christianity]] to oppose.
 I learned that the curate's name was Noel, but in many ways his
 intervention was symbolic of my experience of that strange world.
 That Intelligentsia of the artistic and vaguely anarchic clubs
 was indeed a very strange world.  And the strangest thing about it,
 I fancy, was that, while it thought a great deal about thinking,
 it did not think.  Everything seemed to come at second or third hand;
-from Nietzsche or Tolstoy or Ibsen or Shaw; and there was a pleasant
+from Nietzsche or [[tolstoy|Tolstoy]] or Ibsen or [[Shaw]]; and there was a pleasant
 atmosphere of discussing all these things, without any particular
 sense of responsibility for coming to any conclusion on them.
-The company often included really clever people, like Mr. Edgar Jepson,
+The company often included really clever people, like Mr. [[Edgar]] Jepson,
 who always seemed as if he had strayed out of Society to smile
 mysteriously in Bohemia.  Here and there it would include a man
 who had not only cleverness but strong traditional beliefs,
 which he kept largely to himself; like my old friend Louis McQuilland,
 who was long content to appear as a modern of the club called the Moderns,
 dealing in detached epigrams of the Wilde and Whistler fashion;
-and guarding within him all the time a flame of pure Catholic
-faith and burning Irish Nationalism, which never appeared save
+and guarding within him all the [[Time|time]] a flame of pure Catholic
+[[Faith|faith]] and burning Irish Nationalism, which never appeared save
 when those sacred things were challenged.  But I think it
 profoundly significant, as a matter of intellectual instincts,
 that he preferred the almost avowed nonsense of the Decadents
@@ -75,70 +75,70 @@ to the more high-minded and heretical earnestness of the Fabians.
 He once said in his wrath, on the occasion of the hundredth eulogy on
 Candida or Arms and the Man, something which ran (if I remember right)
 in a Scriptural form, "Stay me with Hitchens, comfort me with Beerbohm;
-for I am sick of Shaw."
+for I am sick of [[Shaw]]."
 
 But a large section of the Intelligentsia seemed wholly devoid
 of Intelligence.  As was perhaps natural, those who pontificated
 most pompously were often the most windy and hollow.  I remember
 a man with a long beard and a deep booming voice who proclaimed
-at intervals, "What we need is Love," or, "All we require is Love,"
+at intervals, "What we need is [[Love]]," or, "All we require is [[Love]],"
 like the detonations of a heavy gun.  I remember another radiant
 little man who spread out his fingers and said, "Heaven is here!
 It is now!" which seemed a disturbing thought under the circumstances.
 There was an aged, aged man who seemed to live at one of these
 literary clubs; and who would hold up a large hand at intervals
 and preface some fairly ordinary observation by saying, "A Thought."
-One day Jepson, I think, goaded beyond endurance, is said
+One day Jepson, I think, goaded beyond [[Endurance|endurance]], is said
 to have exploded with the words, "But, good God, man, you don't
 call that a thought, do you?"  But that was what was the matter
 with not a few of these thinkers.  A sort of Theosophist said
-to me, "Good and evil, truth and falsehood, folly and wisdom
+to me, "Good and evil, [[Truth|truth]] and falsehood, folly and wisdom
 are only aspects of the same upward movement of the universe."
 Even at that stage it occurred to me to ask, "Supposing there
 is no difference between good and bad, or between false and true,
 what is the difference between up and down?"
 
 Now there was one thing that I began to note, as I noted
-on that minor occasion of the debate on Nietzsche.
+on that minor occasion of the [[debate]] on Nietzsche.
 All that clique, in praising the Ibsenite and Shavian drama,
 was of course very contemptuous of the old Victorian drama.
 It sneered steadily at the stock types of old farces;
-at the drawling guardmen and grotesque grocers of Caste or Our Boys.
+at the drawling guardmen and [[Grotesque|grotesque]] grocers of Caste or Our Boys.
 But there was one old farcical type that had become far more false;
 and that was the comic curate of The Private Secretary:
-the simpleton who "did not like London" and asked for a glass of milk
+the simpleton who "did not like [[London]]" and asked for a glass of milk
 and a Bath-Bun. And many of the sceptics in that highly scientific world
 had not, by any means, outgrown the Victorian joke about the curate.
 Having myself been trained, first on the farce about the curate,
 and then on the scepticism about the priest, I was quite ready to believe
 that a dying superstition was represented by such feeble persons.
 As a fact, I found that they were very often by far the ablest
-and most forcible persons.  In debate after debate I noticed the same
-thing happen that I have already noted in the debate on Nietzsche.
+and most forcible persons.  In [[debate]] after [[debate]] I noticed the same
+thing happen that I have already noted in the [[debate]] on Nietzsche.
 It was the farcical curate, it was the feebleminded clergyman,
 who got up and applied to the wandering discussion at least some
-sort of test of some sort of truth; who showed all the advantages
+sort of test of some sort of [[Truth|truth]]; who showed all the advantages
 of having been tolerably trained in some sort of system of thinking.
-Dreadful seeds of doubt began to be sown in my mind.  I was almost
+Dreadful seeds of [[Doubt|doubt]] began to be sown in my mind.  I was almost
 tempted to question the accuracy of the anticlerical legend;
 nay, even the accuracy of the farce of The Private Secretary.
 It seemed to me that the despised curates were rather more
-intelligent than anybody else; that they, alone in that world
+intelligent than anybody else; that they, [[Alone|alone]] in that world
 of intellectualism, were trying to use their intellects.
 For that reason I begin such adventures with the Adventure of the
 Curate's Trousers.  For that reason I mention first Mr. Conrad Noel.
 He had no Bath-Bun. He did not confine himself to a glass of milk.
 Nobody, with the smallest knowledge of him, could truthfully say
-that he did not like London.
+that he did not like [[London]].
 
 Conrad Noel, the son of a poet and the grandson of a peer,
-had all the incalculable elements of the eccentric aristocrat;
-the sort of eccentric aristocrat who so often figures as a particularly
+had all the incalculable elements of the eccentric [[aristocrat]];
+the sort of eccentric [[aristocrat]] who so often figures as a particularly
 destructive democrat.  That great gentleman, Cunninghame Graham,
 whom I knew more slightly but always respected profoundly,
-was the same sort of uncompromising rebel; but he had a sort of
+was the same sort of uncompromising [[Rebel|rebel]]; but he had a sort of
 Scottish seriousness similar to Spanish seriousness; while Noel's
-humour was half English and half Irish but always mainly humorous.
+[[Humour|humour]] was half English and half Irish but always mainly humorous.
 He delighted, of course, in shocking people and taking a rise
 out of them.  I remember how he used to say, shaking his head
 with an air of brooding concentration:  "Ah, how little people
@@ -147,22 +147,22 @@ Such distracting and different duties!  All the afternoon behind
 the scenes at the Butterfly Theatre, talking to Poppy Pimpernel;
 all the evening doing a pub-crawl with Jack Bootle; back to the club
 after dinner, etc."  As a matter of fact, he occupied much of his
-time with things perhaps equally fantastic but more intellectual.
-He had a love of nosing out the headquarters of incredible
+[[Time|time]] with things perhaps equally fantastic but more intellectual.
+He had a [[Love|love]] of nosing out the headquarters of incredible
 or insane sects; and wrote an amusing record of them called
 Byways of Belief.  He had a special affection for an old
 gentleman with long grey whiskers, living in the suburbs;
-whose name, it appeared, was King Solomon David Jesus.
-This prophet was not afraid to protest, as a prophet should,
+whose name, it appeared, was [[King]] Solomon David Jesus.
+This [[Prophet|prophet]] was not afraid to protest, as a [[Prophet|prophet]] should,
 against what he considered the pomps and vanities of this world.
 He began the interview by coldly rebuking Conrad Noel for having
 sent in a visiting-card inscribed, "Rev. Conrad Noel"; since all
 such official titles were abolished in the New Dispensation.
-Conrad delicately insinuated, in self-defence, that there seemed
+Conrad delicately insinuated, in [[Self|self]]-defence, that there seemed
 to be something about calling oneself Solomon David Jesus, which might
-raise rather grave problems of identity and a somewhat formidable
+raise rather [[Grave|grave]] problems of [[Identity|identity]] and a somewhat formidable
 historical comparison.  And anyhow, an old gentleman who called himself
-King could hardly insist on such severe republican simplicity.
+[[King]] could hardly insist on such severe republican simplicity.
 However, the monarch explained that his title had been given him
 by an actual voice speaking out of the sky; and the Rev. Conrad
 admitted that he could not claim that his visiting-card had been
@@ -177,13 +177,13 @@ be explained to those who have had no such happy visitations,
 are a sect of Russian Pacifists and practical Communists,
 who believe in living by mutual hospitality.  It is a curious
 and mystifying circumstance, by the way, that while the Doukhobors
-lived in Russia and had differences with a foreign authority,
+lived in [[Russia]] and had differences with a foreign authority,
 they invariably behaved themselves like a band of saints
 and according to the highest pattern of primitive Christians;
 but when they crossed to Canada, and came under a British authority,
 they were strangely demoralised, and degenerated into dangerous
 fanatics who used to go about stealing horses out of carts and cows
-out of sheds; because they disapproved of the captivity of animals.
+out of sheds; because they disapproved of the captivity of [[Animals|animals]].
 Anyhow, Conrad Noel, who certainly would not have thought the worse
 of them for defying either the Russian or the British Empire, had met
 a member of this sect somewhere; and I suppose in some hazy and hearty
@@ -199,16 +199,16 @@ who proceeded in quiet tones to tell them all the things she
 would undoubtedly like done; there were a great many of them,
 more than I can recall; but I have a general impression that
 carrying the grand piano up five floors onto the roof, or carting
-the billiard-table to the other end of the garden, were typical
+the billiard-table to the other end of the [[Garden|garden]], were typical
 of the class of tasks to which the tottering and staggering
 Doukhobors were directed, by that gentle but vindictive lady.
-It is to be feared that none of them came to the house of that hospitable
+It is to be feared that none of them came to the [[house]] of that hospitable
 Christian Socialist again; except indeed one isolated Doukhobor,
 who struck out a line for himself; for the simple domestic toil
 with which he paid for his meal consisted in going into Noel's
 study and altering Noel's sermon; blacking out whole passages of it
 and inserting sentiments of a more unimpeachably Doukhobor tendency.
-In his case, I suspect that Mr. Noel, as well as Mrs. Noel,
+In his case, I suspect that Mr. Noel, as [[Well|well]] as Mrs. Noel,
 began to have doubts about the Doukhobor ideal.
 
 But Mr. Noel certainly never lost his belief in what may be
@@ -217,27 +217,27 @@ astonished as anybody else if he had been told then of the fortunes
 that lay before Russian Communism.  Here, however, I am chiefly
 concerned with him as an example of my preliminary prevailing
 impression of how stupid the anti-clericals were and how much
-more relatively intelligent the clerics were.  From this time also,
+more relatively intelligent the clerics were.  From this [[Time|time]] also,
 dates the first faint beginnings of my own divergence from
 the merely Communist to what is called the Distributist ideal.
-It was, after all, only the further sub-division of my Notting Hill
-romance from the street to the house; but it was solidified by Belloc,
+It was, after all, only the further sub-division of my Notting [[Hill]]
+[[Romance|romance]] from the street to the [[house]]; but it was solidified by Belloc,
 my Irish friends and my French holidays.  But I fancy the first spark
 flew when a Theosophist, at a drawing-room meeting, was droning on
-about the immorality of Christians who believed in the Forgiveness
+about the immorality of Christians who believed in the [[Forgiveness]]
 of Sins; since there was only Karma, by which we reap what we sow.
-"If that window is broken," he said mournfully, "our host
-[Sir Richard Stapley] might pardon it; but the window will still
+"If that [[Window|window]] is broken," he said mournfully, "our host
+[Sir [[Richard]] Stapley] might pardon it; but the [[Window|window]] will still
 be broken."  Whereupon a spectacled baldish little curate, quite unknown
-to me, jumped up and said, "But it isn't wrong to break a window.
-It's only wrong because it's Stapley's window; and if he doesn't mind,
+to me, jumped up and said, "But it isn't wrong to break a [[Window|window]].
+It's only wrong because it's Stapley's [[Window|window]]; and if he doesn't mind,
 why should anybody else?"
 
 Anyhow, it was when I was staying with Conrad Noel, afterwards famous
-as the parson who flew the Red Flag from his church at Thaxted in Essex,
+as the parson who flew the Red [[Flag]] from his church at Thaxted in Essex,
 that I happened to be dressing for dinner and made the (it seems to me)
 very excusable error of mistaking his black clerical trousers for
-my evening ones.  I trust I violated no grave ecclesiastical law,
+my evening ones.  I trust I violated no [[Grave|grave]] ecclesiastical law,
 relative to the unlawful assumption of priestly vestments;
 but Conrad Noel himself was always fairly casual in the matter
 of costume.  The world thought him a very Bohemian sort of clergyman,
@@ -249,19 +249,19 @@ I did not always agree with his attitude, and I do not now altogether
 agree with his politics; but I have always known that he glowed
 with conviction and the simplicity of the fighting spirit.
 But in those days his external eccentricity was more provocative
-than is a red rag to a bull or a red flag to a bully.
+than is a red rag to a bull or a red [[Flag|flag]] to a bully.
 He delighted in making the quaintest combinations of costume
 made up of the clerical, the artistic and the proletarian.
 He took great pleasure in appearing in correct clerical clothes,
 surmounted with a sort of hairy or furry cap, making him look like
 an aesthetic rat-catcher. I had the pleasure of walking with him,
-thus attired, right across the vast stretch of South London,
+thus attired, right across the vast stretch of South [[London]],
 starting from Blackfriars Bridge and going on till we saw
 the green hills beyond Croydon; a very interesting expedition
-too rarely undertaken by those from the richer side of the river.
+too rarely undertaken by those from the richer side of the [[River|river]].
 I also remember one occasion when I was walking away from some
 meeting with him and with Dr. Percy Dearmer, then chiefly famous
-as an authority on the history of ritual and of vestments.
+as an authority on the [[history]] of ritual and of vestments.
 Dr. Dearmer was in the habit of walking about in a cassock and
 biretta which he had carefully reconstructed as being of exactly
 the right pattern for an Anglican or Anglo-Catholic priest;
@@ -276,7 +276,7 @@ Meanwhile my own costume, however calamitous, was the result rather
 of accident than design; but this was sometime later and my wife had
 already disguised me as far as possible in the large hat and cloak
 familiar to caricaturists.  But it was also at a sufficiently early date
-in English history for frock-coats to be worn on formal occasions.
+in English [[history]] for frock-coats to be worn on formal occasions.
 I had taken off the cloak and retained the frock-coat and the wide hat;
 and I must have borne a more or less formless resemblance
 to a Boer missionary.  Thus I walked innocently down the street,
@@ -302,8 +302,8 @@ part he played in my boyhood and youth; and the omission has been
 due to anything in the world except oblivion.  My brother was
 much too remarkable a person not to have a chapter to himself.
 And I have decided, not without thought, that he will be best
-presented at full length when the time comes to deal with his very
-vital effect on modern history, and the whole story of the campaign
+presented at full length when the [[Time|time]] comes to deal with his very
+vital effect on modern [[history]], and the whole story of the campaign
 against political corruption.  But it is relevant here to remark
 that he differed from me at the very beginning; and not least in
 beginning his questions at the beginning.  I always retained a sort
@@ -313,7 +313,7 @@ I believed in what some have called "the wish to believe."
 But my brother at the beginning did not even wish to believe;
 or at least did not wish to admit that he wished to believe.
 He adopted the extreme attitude of antagonism, and almost
-of anarchism; largely, no doubt, out of a reaction and as a
+of anarchism; largely, no [[Doubt|doubt]], out of a reaction and as a
 result of our interminable arguments, or rather argument.
 For we really devoted all our boyhood to one long argument,
 unfortunately interrupted by meal-times, by school-times,
@@ -336,33 +336,33 @@ I know not; but this I know; that whereas I was blind, now I see."
 
 The old High Church or Anglo-Catholic group, of which Conrad Noel
 represented the most revolutionary extreme and Percy Dearmer
-(at least at that time) the most historical and liturgical, was in
-fact a very fine body of men, to which I for one shall always feel
+(at least at that [[Time|time]]) the most historical and liturgical, was in
+fact a very fine [[Body|body]] of men, to which I for one shall always feel
 a gratitude like that of my brother and the blind man in Scripture.
 Its leader, in so far as it had a leader among the higher branches
 of the Anglican system, was that most fascinating and memorable man,
 Henry Scott Holland, who moved among younger men like one much
 younger than they; unforgettable with his humorous frog's face
 and great stature and voice of bull-like bellowing; as if he were
-the frog that had conquered the fable and really turned into a bull.
+the frog that had conquered the [[Fable|fable]] and really turned into a bull.
 In an abstract intellectual sense, of course, their leader was rather
 Dr. Gore; but anyone who knew his peculiar merits would expect
 him to seem a thinner and more shadowy figure in the background.
 Sometimes all of them assembled on one platform, especially on
-the platforms of the Christian Social Union, which I joined at
-a later date; and I hope that all who survive of those old friends,
+the platforms of the Christian Social [[Union]], which I joined at
+a later date; and I [[Hope|hope]] that all who survive of those old friends,
 from whom I have been sundered in thought but never in sympathy,
 will forgive me if I recall here any of the follies that enlivened
-our friendship.  I remember when about five or six of us addressed
+our [[Friendship|friendship]].  I remember when about five or six of us addressed
 the astonished town of Nottingham, on what we considered to be its
-Christian duty towards the modern problem of industrial poverty.
-I remember the faces of the citizens of that great city while I spoke;
+Christian duty towards the modern problem of industrial [[Poverty|poverty]].
+I remember the faces of the citizens of that great [[City|city]] while I spoke;
 and I regret to say that I recorded my impressions in some verses,
 supposed to represent the impressions of a Nottingham tradesman;
 they became something of a jest in our little circle and I quote
 them for the pleasure of recalling those old exhilarating days.
 
-  The Christian Social Union here
+  The Christian Social [[Union]] here
   Was very much annoyed;
   It seems there is some duty
   Which we never should avoid,
@@ -391,7 +391,7 @@ them for the pleasure of recalling those old exhilarating days.
   And said it wasn't right.
 
   And then a man named Chesterton
-  Got up and played with water,
+  Got up and played with [[Water|water]],
   He seemed to say that principles
   Were nice and led to slaughter
   And how we always compromised
@@ -404,7 +404,7 @@ them for the pleasure of recalling those old exhilarating days.
   But the way he made the windows jump
   We couldn't help admiring.
 
-  He said the human soul should be
+  He said the human [[Soul|soul]] should be
   Ashamed of every sham,
   He said a man should constantly
   Ejaculate "I am"
@@ -414,7 +414,7 @@ them for the pleasure of recalling those old exhilarating days.
 I rather prided myself on these lines, merely because they are,
 in the main, a very accurate report of the speeches;
 or of what the speeches probably appeared to be to the audience.
-And I also disinter them from their dust-bin because they remind
+And I also disinter them from their [[Dust|dust]]-bin because they remind
 me of a characteristic expression of Scott Holland, which I
 have since found to be a characteristic problem of human life.
 There was one verse of my doggerel verses which I have omitted,
@@ -427,7 +427,7 @@ so that his broad strong mouth seemed always to be shut down on it
 in a grimace of restraint.  I remember that on this occasion he was
 urging what is probably the best argument for State intervention,
 tending in the general direction of State Socialism, which was common
-in the Christian Social Union and pronounced in the definite and defiant
+in the Christian Social [[Union]] and pronounced in the definite and defiant
 Christian Socialists, like Conrad Noel.  He said that the Commonwealth,
 the social authority, was worthy of being regarded in a positive
 and not merely in a negative light; that we ought to be able to trust
@@ -440,11 +440,11 @@ Nottingham audience, "Punishment is an exceptional instrument.
 After all, it is only occasionally that you and I feel that tap on
 the shoulder, and that gruff recommendation to 'come along quietly.'
 It is not every day of our lives that we are put in the dock and sentenced
-to some term of imprisonment.  Most of our relations to Government are
+to some term of [[Imprisonment|imprisonment]].  Most of our relations to [[government|Government]] are
 peaceable and friendly.  Why, I suppose that even in this room there
 are quite half a dozen people who have never been in jail at all."
 A ghastly stare was fixed on all the faces of the audience;
-and I have ever since seen it in my own dreams; for it has constituted
+and I have ever since seen it in my own [[Dreams|dreams]]; for it has constituted
 a considerable part of my own problem.
 
 I have never understood, from that day to this, any more
@@ -452,7 +452,7 @@ than he did, why a solid argument is any less solid because
 you make the illustrations as entertaining as you can.
 What Holland was saying was perfectly sensible and philosophical.
 It was that the State exists to provide lamp-posts and schools,
-as well as gibbets and jails.  But I strongly suspect that many,
+as [[Well|well]] as gibbets and jails.  But I strongly suspect that many,
 who were sufficiently intelligent not to imagine that he was mad,
 did imagine that he was flippant.  And I myself have made
 in the course of a less useful life the same curious discovery.
@@ -490,8 +490,8 @@ And it is necessary in this chapter to say something of the tendencies
 by which I shifted nearer and nearer to the orthodox side;
 and eventually found myself, as I have described, in the very heart
 of a clerical group of canons and curates.  My first introduction,
-in Sydney Smith's phrase, came through very wild curates.
-Conrad Noel might have been the incarnate fulfilment of Sydney Smith's
+in Sydney [[smith|Smith]]'s phrase, came through very wild curates.
+Conrad Noel might have been the incarnate fulfilment of Sydney [[smith|Smith]]'s
 vision or fancy; and indeed it so happened that, in his case,
 while the wild curate was in every sense singular, the wild curates
 were also in the plural.  My old friend the Rev. A. L. Lilley now a
@@ -500,10 +500,10 @@ and his large and genial sympathies expressed themselves in the marked
 eccentricity of his assistant clergy.  For he was one of the two
 or three Broad Churchmen I have known who were actually broad.
 His curates were a group which we irreverently referred to at one
-time as a menagerie; one, I remember, was of gigantic stature with
+[[Time|time]] as a menagerie; one, I remember, was of gigantic stature with
 fierce grey hair, eyebrows and moustaches very like Mark Twain.
 Another was a Syrian and actually, I believe, a runaway monk
-from some monastery in the desert.  The third was Conrad Noel.
+from some monastery in the [[Desert|desert]].  The third was Conrad Noel.
 I have sometimes thought it must have been rather amusing to be
 a faithful parishioner of Paddington Green.
 
@@ -512,10 +512,10 @@ eccentric a borderland of orthodoxy.  And the reader must once
 more reconcile himself, with a groan, to some brief references to
 real beliefs, and the thing which some call theory, and I call thought.
 In the purely religious sense, I was brought up among people who were
-Unitarians and Universalists, but who were well aware that a great
+Unitarians and Universalists, but who were [[Well|well]] aware that a great
 many people around them were becoming agnostics or even atheists.
 Indeed there were two tendencies in what was called the emancipation
-of faith from the creeds and dogmas of the past.  The two tendencies
+of [[Faith|faith]] from the creeds and dogmas of the past.  The two tendencies
 were in flatly contrary directions; and it is thoroughly typical
 of that world that they were both called by the same name.
 Both were supposed to be liberal theology or the religion
@@ -525,14 +525,14 @@ all must be right with the world; with this world or with the next.
 The other half of them were specially bent on showing that it was very
 doubtful if there was any God in any heaven, and that it was so certain
 to the scientific eye that all is not right with the world, that it
-would be nearer the truth to say that all is wrong with the world.
+would be nearer the [[Truth|truth]] to say that all is wrong with the world.
 One of these movements of progress led into the glorious
 fairyland of George Macdonald, the other led into the stark
 and hollowed hills of Thomas Hardy.  The one school was specially
 insisting that God must be supremely perfect if He exists;
 the other that, if He exists, He must be grossly imperfect.
-And by the time I passed from boyhood to manhood, the pessimistic
-doubt had considerably clouded the optimistic dogma.
+And by the [[Time|time]] I passed from boyhood to manhood, the pessimistic
+[[Doubt|doubt]] had considerably clouded the optimistic dogma.
 
 Now I think the first thing that struck me as startling was
 exactly this; that these two schools, which were logically
@@ -545,32 +545,32 @@ themselves it did not seem even questionable.  I myself had sat at
 the feet of that large-hearted and poetic orator, Stopford Brooke,
 and I long accepted the sort of optimistic theism that he taught;
 it was substantially the same as that which I had learnt since
-childhood under the glamorous mysticism of George Macdonald.
-It was full and substantial faith in the Fatherhood of God, and little
+[[Childhood|childhood]] under the glamorous mysticism of George Macdonald.
+It was full and substantial [[Faith|faith]] in the Fatherhood of God, and little
 could be said against it, even in theological theory, except that it
 rather ignored the free-will of man.  Its Universalism was a sort
-of optimistic Calvinism.  But, anyhow, that was my first faith,
-before anything that could really be called my first doubt.
+of optimistic Calvinism.  But, anyhow, that was my first [[Faith|faith]],
+before anything that could really be called my first [[Doubt|doubt]].
 But what struck me as extraordinary, even at first, was that
 these optimists seemed to be in the same camp as the pessimists.
 To my simple mind, it seemed that there could be no connection
-except contradiction, between the man whose whole faith was
+except contradiction, between the man whose whole [[Faith|faith]] was
 in the Fatherhood of God, and the man who said there was no God
 or the man who said that God was no Father.  I pointed out something
 of the sort, long afterwards, when liberal literary critics were
 supposed to class together the philosophies of Meredith and Hardy.
 It seemed to me obvious that Meredith maintains on the whole that
-Nature is to be trusted, and Hardy that Nature is not to be trusted.
-To my innocent mind, these two ideas seemed a little inconsistent.
+[[Nature]] is to be trusted, and Hardy that [[Nature]] is not to be trusted.
+To my [[Innocent|innocent]] mind, these two ideas seemed a little inconsistent.
 I had not yet discovered the higher synthesis which connects them.
 For the higher synthesis which connects them consists in wearing
 liberty ties and curiously shaped beards and hats and meeting
 in cultured clubs where they drink coffee, or (in darker and more
 disreputable dens) cocoa.  That is the only connection there
-is between the ideas; but it took me a long time to find it out.
+is between the ideas; but it took me a long [[Time|time]] to find it out.
 These sceptical doctrinaires do not recognise each other by
 the doctrines.  They recognise each other by the beard or the clothes,
-as the lower animals know each other by the fur or the smell.
+as the lower [[Animals|animals]] know each other by the fur or the smell.
 
 I suppose I have got a dogmatic mind.  Anyhow, even when I
 did not believe in any of the things called dogmas, I assumed
@@ -584,14 +584,14 @@ who believed in Ethics but not in theology or even religion.
 I have come to the conclusion that I was largely mistaken in this idea.
 I believe now that the congregations of these semi-secular chapels
 consist largely of one vast and vague sea of wandering doubters,
-with their wandering doubts, who may be found one Sunday seeking
-a solution from the Theists and another Sunday from the Theosophists.
+with their wandering doubts, who may be found one [[Sunday]] seeking
+a solution from the Theists and another [[Sunday]] from the Theosophists.
 They may be scattered among many such chapels; they are only connected
 by the convention of unconventionality, which is connoted by "not going
 to church."  I will give two incidents as examples of what I mean;
 though they are separated by a long interval of years.  In the very early
 days of which I am now speaking, before I ever dreamed of being myself
-attached to any formal system of faith, I used to wander about to many
+attached to any formal system of [[Faith|faith]], I used to wander about to many
 assemblies giving lectures, or what were politely called lectures.
 I may remark that my suspicion was confirmed, by the fact that I
 very often saw the same people in quite different congregations;
@@ -610,9 +610,9 @@ were as dogmatic as Moslems on the one point of the One God,
 and that the ethical group were as undogmatic as any agnostics
 upon that particular dogma.  "That is very interesting," I said.
 "May I ask whether the whole of your society abandoned Theism all
-at once and in a body?"
+at once and in a [[Body|body]]?"
 
-"Well, no," he replied rather hazily, "I don't fancy it was exactly
+"[[Well]], no," he replied rather hazily, "I don't fancy it was exactly
 like that.  I rather think the fact was that our leaders wanted
 very much to have Dr. Stanton Coit as a preacher, and he wouldn't
 come unless the thing was simply an Ethical Society."
@@ -638,12 +638,12 @@ and that in consequence a number of his followers had now
 whatever may be counted controversial in her position,
 certainly professes to be enough of an orthodox Christian to play
 the part of a loyal Anglican, and even of an Anglican parson.
-So that the truly astonishing history of this school of thought,
+So that the truly astonishing [[history]] of this school of thought,
 if we regard it as a school of thought, was more or less as follows.
 They began by believing in the Creation but not the Incarnation.
 For the sake of Dr. Coit they ceased to believe in the Creation.
 And for the sake of Miss Royden they agreed to believe in the Creation
-and the Incarnation as well.  The truth of the matter is, I imagine,
+and the Incarnation as [[Well|well]].  The [[Truth|truth]] of the matter is, I imagine,
 that these particular people never did believe or disbelieve in anything.
 They liked to go and hear stimulating lecturers; and they had a
 vague preference, almost impossible to reduce to any definable thesis,
@@ -667,7 +667,7 @@ might be found.
 Amid all this scattered thinking, sometimes not unfairly to be called
 scatter-brained thinking, I began to piece together the fragments
 of the old religious scheme; mainly by the various gaps that denoted
-its disappearance.  And the more I saw of real human nature,
+its disappearance.  And the more I saw of real human [[Nature|nature]],
 the more I came to suspect that it was really rather bad for all these
 people that it had disappeared.  Many of them held, and still hold,
 very noble and necessary truths in the social and secular area.
@@ -678,11 +678,11 @@ in altruism were yet troubled by the necessity of believing with even
 more religious reverence in Darwinism, and even in the deductions
 from Darwinism about a ruthless struggle as the rule of life.
 Men who naturally accepted the moral equality of mankind yet did so,
-in a manner, shrinkingly, under the gigantic shadow of the Superman
-of Nietzsche and Shaw.  Their hearts were in the right place;
+in a manner, shrinkingly, under the gigantic [[Shadow|shadow]] of the Superman
+of Nietzsche and [[Shaw]].  Their hearts were in the right place;
 but their heads were emphatically in the wrong place, being generally
 poked or plunged into vast volumes of materialism and scepticism,
-crabbed, barren, servile and without any light of liberty or of hope.
+crabbed, barren, servile and without any light of liberty or of [[Hope|hope]].
 
 I began to examine more exactly the general Christian theology
 which many execrated and few examined.  I soon found that it
@@ -690,20 +690,20 @@ did in fact correspond to many of these experiences of life;
 that even its paradoxes corresponded to the paradoxes of life.
 Long afterwards Father Waggett (to mention another very able man
 of the old Anglo-Catholic group), once said to me, as we stood on
-the Mount of Olives in view of Gethsemane and Aceldama, "Well, anyhow,
+the Mount of Olives in view of Gethsemane and Aceldama, "[[Well]], anyhow,
 it must be obvious to anybody that the doctrine of the Fall is
 the only cheerful view of human life."  It is indeed obvious to me;
 but the thought passed over me at the moment, that a very large
 proportion of that old world of sceptical sects and cliques,
 to which I had once belonged, would find it a much more puzzling
-paradox than the paradoxes of Oscar Wilde and Bernard Shaw.
+[[Paradox|paradox]] than the paradoxes of Oscar Wilde and Bernard [[Shaw]].
 I will not develop the argument here, which I have so often
 developed elsewhere; I merely mention it to suggest my general sense,
 even at this stage, that the old theological theory seemed
 more or less to fit into experience, while the new and negative
 theories did not fit into anything, least of all into each other.
-It was about this time that I had published some studies
-on contemporary writers, such as Kipling and Shaw and Wells;
+It was about this [[Time|time]] that I had published some studies
+on contemporary writers, such as Kipling and [[Shaw]] and Wells;
 and feeling that each of them erred through an ultimate
 or religious error, I gave the book the title of Heretics.
 It was reviewed by Mr. G. S. Street, the very delightful essayist,
@@ -713,12 +713,12 @@ of youth, I accepted this as a challenge; and wrote an outline of my
 own reasons for believing that the Christian theory, as summarised
 in the Apostles' Creed, would be found to be a better criticism of life
 than any of those that I had criticised.  I called it Orthodoxy,
-but even at the time I was very much dissatisfied with the title.
+but even at the [[Time|time]] I was very much dissatisfied with the title.
 It sounded a thinnish sort of thing to be defending through thick
 and thin.  Even then I fancy I had a dim foreshadowing that I
 should have to find some better name for it before I died.
 As it was, the only interesting effect of the title, or the book,
-that I ever heard of, occurred on the frontiers of Russia.
+that I ever heard of, occurred on the frontiers of [[Russia]].
 There I believe the Censor, under the old Russian regime,
 destroyed the book without reading it.  From its being called Orthodoxy,
 he naturally inferred that it must be a book on the Greek Church.
@@ -736,11 +736,11 @@ critic than a serious attack on orthodoxy was to the Russian censor.
 And through this experience I learned two very interesting things,
 which serve to divide all this part of my life into two distinct periods.
 Very nearly everybody, in the ordinary literary and journalistic world,
-began by taking it for granted that my faith in the Christian creed was
-a pose or a paradox.  The more cynical supposed that it was only a stunt.
+began by taking it for granted that my [[Faith|faith]] in the Christian creed was
+a pose or a [[Paradox|paradox]].  The more cynical supposed that it was only a stunt.
 The more generous and loyal warmly maintained that it was only a joke.
-It was not until long afterwards that the full horror of the truth
-burst upon them; the disgraceful truth that I really thought
+It was not until long afterwards that the full horror of the [[Truth|truth]]
+burst upon them; the disgraceful [[Truth|truth]] that I really thought
 the thing was true.  And I have found, as I say, that this represents
 a real transition or border-line in the life of the apologists.
 Critics were almost entirely complimentary to what they were pleased
@@ -773,7 +773,7 @@ believe in those things I was defending against Blatchford.
 His cold and refined face did not move a visible muscle; and yet
 I knew in some fashion it had completely altered.  "Oh, you do,"
 he said, "I beg your pardon.  Thank you.  That's all I wanted to know."
-And he went on eating his (probably vegetarian) meal.  But I
+And he went on eating his (probably [[vegetarian]]) meal.  But I
 was sure that for the rest of the evening, despite his calm,
 he felt as if he were sitting next to a fabulous griffin.
 
@@ -821,7 +821,7 @@ For how could he be praised for passing the mustard, if he could not
 be blamed for not passing the mustard?  I know it can be maintained
 that fatalism makes no difference to the facts of our life.
 Some say that fatalists can still go on punishing or blaming.
-Some say (professing, with no little humour, to be humanitarian)
+Some say (professing, with no little [[Humour|humour]], to be humanitarian)
 that they can leave off blaming but still go on punishing.
 But if determinism made no difference, why should Blatchford
 thunder furiously from a pulpit about the difference it made?
@@ -842,15 +842,15 @@ sort of scallywag at war with society.  In the grossly unjust social
 system we suffer, it is probable enough that many of these really
 are punished unjustly; that some ought not to be punished at all;
 that some, perhaps, are really not responsible at all.
-And Blatchford, seeing them driven to prison in droves, felt neither
+And Blatchford, seeing them driven to [[Prison|prison]] in droves, felt neither
 more nor less than a pity for the weak and the unfortunate; which was,
-at the worst, a slightly lopsided exaggeration of Christian charity.
-He was so anxious to forgive that he denied the need of forgiveness.
+at the worst, a slightly lopsided exaggeration of Christian [[Charity|charity]].
+He was so anxious to forgive that he denied the need of [[Forgiveness|forgiveness]].
 
-And I awaken from all these dreams of the past suddenly,
+And I awaken from all these [[Dreams|dreams]] of the past suddenly,
 and with something like a shout of laughter.  For the next episode
 in my life was one of helping certain friends and reformers to fix
-the terrible truth called Responsibility, not on tramps or drunkards,
+the terrible [[Truth|truth]] called Responsibility, not on tramps or drunkards,
 but on the rulers of the State and the richest men in the Empire.
 I was trying to put a chain and collar of Responsibility, not on
 the Underdog, but on the Top-dog. And the next thing that I was to
@@ -859,6 +859,6 @@ was demanding justice, punishment, vengeance almost without pardon,
 upon other strong tyrants who had trampled on the weak; and was
 fiercely nailing the arrogant princes of Prussia with Responsibility
 for the invasion of Belgium.  So do paper sophistries go up
-in a great fire.
+in a great [[Fire|fire]].
 
 *****

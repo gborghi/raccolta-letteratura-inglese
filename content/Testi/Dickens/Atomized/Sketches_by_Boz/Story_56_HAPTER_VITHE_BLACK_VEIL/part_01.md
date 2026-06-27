@@ -17,27 +17,27 @@ tags:
 CHAPTER VI—THE BLACK VEIL
 
 
-One winter’s evening, towards the close of the year 1800, or within a
-year or two of that time, a young medical practitioner, recently
-established in business, was seated by a cheerful fire in his little
-parlour, listening to the wind which was beating the rain in pattering
-drops against the window, or rumbling dismally in the chimney. The
-night was wet and cold; he had been walking through mud and water the
+One [[Winter|winter]]’s evening, towards the close of the year 1800, or within a
+year or two of that [[Time|time]], a young medical practitioner, recently
+established in business, was seated by a cheerful [[Fire|fire]] in his little
+parlour, listening to the [[Wind|wind]] which was beating the rain in pattering
+drops against the [[Window|window]], or rumbling dismally in the chimney. The
+[[Night|night]] was wet and cold; he had been walking through mud and [[Water|water]] the
 whole day, and was now comfortably reposing in his dressing-gown and
 slippers, more than half asleep and less than half awake, revolving a
-thousand matters in his wandering imagination. First, he thought how
-hard the wind was blowing, and how the cold, sharp rain would be at
+thousand matters in his wandering [[Imagination|imagination]]. First, he thought how
+hard the [[Wind|wind]] was blowing, and how the cold, sharp rain would be at
 that moment beating in his face, if he were not comfortably housed at
-home. Then, his mind reverted to his annual Christmas visit to his
+[[Home|home]]. Then, his mind reverted to his annual Christmas visit to his
 native place and dearest friends; he thought how glad they would all be
-to see him, and how happy it would make Rose if he could only tell her
+to see him, and how happy it would make [[Rose]] if he could only tell her
 that he had found a patient at last, and hoped to have more, and to
-come down again, in a few months’ time, and marry her, and take her
-home to gladden his lonely fireside, and stimulate him to fresh
-exertions. Then, he began to wonder when his first patient would
+come down again, in a few months’ [[Time|time]], and marry her, and take her
+[[Home|home]] to gladden his lonely fireside, and stimulate him to fresh
+exertions. Then, he began to [[Wonder|wonder]] when his first patient would
 appear, or whether he was destined, by a special dispensation of
-Providence, never to have any patients at all; and then, he thought
-about Rose again, and dropped to sleep and dreamed about her, till the
+[[Providence]], never to have any patients at all; and then, he thought
+about [[Rose]] again, and dropped to [[Sleep|sleep]] and dreamed about her, till the
 tones of her sweet merry voice sounded in his ears, and her soft tiny
 hand rested on his shoulder.
 
@@ -47,13 +47,13 @@ the sum of one shilling per week and his food, was let out by the
 parish to carry medicine and messages. As there was no demand for the
 medicine, however, and no necessity for the messages, he usually
 occupied his unemployed hours—averaging fourteen a day—in abstracting
-peppermint drops, taking animal nourishment, and going to sleep.
+peppermint drops, taking animal nourishment, and going to [[Sleep|sleep]].
 
 ‘A lady, sir—a lady!’ whispered the boy, rousing his master with a
 shake.
 
 ‘What lady?’ cried our friend, starting up, not quite certain that his
-dream was an illusion, and half expecting that it might be Rose
+dream was an illusion, and half expecting that it might be [[Rose]]
 herself.—‘What lady? Where?’
 
 ‘_There_, sir!’ replied the boy, pointing to the glass door leading
@@ -93,9 +93,9 @@ The boy drew a green curtain across the glass part of the door, retired
 into the surgery, closed the door after him, and immediately applied
 one of his large eyes to the keyhole on the other side.
 
-The surgeon drew a chair to the fire, and motioned the visitor to a
+The surgeon drew a chair to the [[Fire|fire]], and motioned the visitor to a
 seat. The mysterious figure slowly moved towards it. As the blaze shone
-upon the black dress, the surgeon observed that the bottom of it was
+upon the black dress, the surgeon observed that the [[Bottom|bottom]] of it was
 saturated with mud and rain.
 
 ‘You are very wet,’ be said.
@@ -103,27 +103,27 @@ saturated with mud and rain.
 ‘I am,’ said the stranger, in a low deep voice.
 
 ‘And you are ill?’ added the surgeon, compassionately, for the tone was
-that of a person in pain.
+that of a person in [[Pain|pain]].
 
 ‘I am,’ was the reply—‘very ill; not bodily, but mentally. It is not
 for myself, or on my own behalf,’ continued the stranger, ‘that I come
-to you. If I laboured under bodily disease, I should not be out, alone,
-at such an hour, or on such a night as this; and if I were afflicted
+to you. If I laboured under bodily disease, I should not be out, [[Alone|alone]],
+at such an hour, or on such a [[Night|night]] as this; and if I were afflicted
 with it, twenty-four hours hence, God knows how gladly I would lie down
 and pray to die. It is for another that I beseech your aid, sir. I may
-be mad to ask it for him—I think I am; but, night after night, through
+be mad to ask it for him—I think I am; but, [[Night|night]] after [[Night|night]], through
 the long dreary hours of watching and weeping, the thought has been
 ever present to my mind; and though even _I_ see the hopelessness of
 human assistance availing him, the bare thought of laying him in his
-grave without it makes my blood run cold!’ And a shudder, such as the
-surgeon well knew art could not produce, trembled through the speaker’s
+[[Grave|grave]] without it makes my [[Blood|blood]] run cold!’ And a shudder, such as the
+surgeon [[Well|well]] knew art could not produce, trembled through the speaker’s
 frame.
 
 There was a desperate earnestness in this woman’s manner, that went to
 the young man’s heart. He was young in his profession, and had not yet
 witnessed enough of the miseries which are daily presented before the
 eyes of its members, to have grown comparatively callous to human
-suffering.
+[[Suffering|suffering]].
 
 ‘If,’ he said, rising hastily, ‘the person of whom you speak, be in so
 hopeless a condition as you describe, not a moment is to be lost. I

@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE BOTTOMLESS WELL (part 1)"
+title: "[[manwho]] — THE BOTTOMLESS [[Well|WELL]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-IV. THE BOTTOMLESS WELL
+IV. THE BOTTOMLESS [[Well|WELL]]
 
 
 
@@ -30,7 +30,7 @@ British occupation. The site is famous among archaeologists for
 
 something that is hardly a monument, but merely a hole in the
 
-ground. But it is a round shaft, like that of a well, and probably a
+ground. But it is a round shaft, like that of a [[Well|well]], and probably a
 
 part of some great irrigation works of remote and disputed date,
 
@@ -38,7 +38,7 @@ perhaps more ancient than anything in that ancient land. There is a
 
 green fringe of palm and prickly pear round the black mouth of the
 
-well; but nothing of the upper masonry remains except two bulky and
+[[Well|well]]; but nothing of the upper masonry remains except two bulky and
 
 battered stones standing like the pillars of a gateway of nowhere,
 
@@ -58,7 +58,7 @@ of those assembled in such a place for official and military
 
 purposes have hobbies other than archaeology. And it is a solemn
 
-fact that the English in this Eastern exile have contrived to make a
+fact that the English in this Eastern [[Exile|exile]] have contrived to make a
 
 small golf links out of the green scrub and sand; with a comfortable
 
@@ -76,7 +76,7 @@ their interludes of talking and smoking cigarettes, and one of them
 
 had just come down from the clubhouse to find another gazing
 
-somewhat moodily into the well.
+somewhat moodily into the [[Well|well]].
 
 
 
@@ -94,7 +94,7 @@ on two totally different notes of the voice.
 
 
 
-"Splendid," replied the man by the well. But the first man
+"Splendid," replied the man by the [[Well|well]]. But the first man
 
 pronounced the word as a young man might say it about a woman, and
 
@@ -118,7 +118,7 @@ certainly an older resident, a civilian official--Horne Fisher; and
 
 his drooping eyelids and drooping light mustache expressed all the
 
-paradox of the Englishman in the East. He was much too hot to be
+[[Paradox|paradox]] of the Englishman in the East. He was much too hot to be
 
 anything but cool.
 
@@ -132,11 +132,11 @@ something that everybody knew. The striking victory over a menacing
 
 combination of Turks and Arabs in the north, won by troops under the
 
-command of Lord Hastings, the veteran of so many striking victories,
+command of Lord [[Hastings]], the veteran of so many striking victories,
 
-was already spread by the newspapers all over the Empire, let alone
+was already spread by the newspapers all over the Empire, let [[Alone|alone]]
 
-to this small garrison so near to the battlefield.
+to this small garrison so near to the [[Battlefield|battlefield]].
 
 
 
@@ -146,7 +146,7 @@ that," cried Captain Boyle, emphatically.
 
 
 
-Horne Fisher was still looking silently into the well; a moment
+Horne Fisher was still looking silently into the [[Well|well]]; a moment
 
 later he answered: "We certainly have the art of unmaking mistakes.
 
@@ -162,7 +162,7 @@ unmaking a mistake."
 
 
 
-"Well, everybody knows it looked like biting off more than he could
+"[[Well]], everybody knows it looked like biting off more than he could
 
 chew," replied Horne Fisher. It was a peculiarity of Mr. Fisher that
 
@@ -170,7 +170,7 @@ he always said that everybody knew things which about one person in
 
 two million was ever allowed to hear of. "And it was certainly jolly
 
-lucky that Travers turned up so well in the nick of time. Odd how
+lucky that Travers turned up so [[Well|well]] in the nick of [[Time|time]]. Odd how
 
 often the right thing's been done for us by the second in command,
 
@@ -186,7 +186,7 @@ other.
 
 
 
-"Well, I suppose the Zimmernes would have insisted on it as far as
+"[[Well]], I suppose the Zimmernes would have insisted on it as far as
 
 the canal," observed Fisher, thoughtfully, "though everybody knows
 
@@ -202,7 +202,7 @@ could only remark, stolidly:
 
 
 
-"Well, one can't be a Little Englander."
+"[[Well]], one can't be a Little Englander."
 
 
 
@@ -220,7 +220,7 @@ were back in Little England."
 
 younger man, rather suspiciously. "One would think you didn't really
 
-admire Hastings or--or--anything."
+admire [[Hastings]] or--or--anything."
 
 
 
@@ -244,7 +244,7 @@ frankly.
 
 "and, anyhow, we needn't talk politics. Do you know the Arab legend
 
-about that well?"
+about that [[Well|well]]?"
 
 
 
@@ -256,4 +256,4 @@ rather stiffly.
 
 "That's rather a mistake," replied Fisher, "especially from your
 
-point of view. Lord Hastings himself is an Arab legend. That is
+point of view. Lord [[Hastings]] himself is an Arab legend. That is

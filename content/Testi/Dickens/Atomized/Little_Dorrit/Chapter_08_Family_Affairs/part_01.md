@@ -17,7 +17,7 @@ tags:
 CHAPTER 5. Family Affairs
 
 
-As the city clocks struck nine on Monday morning, Mrs Clennam was
+As the [[City|city]] clocks struck nine on Monday morning, [[Mrs Clennam]] was
 wheeled by Jeremiah Flintwinch of the cut-down aspect to her tall
 cabinet. When she had unlocked and opened it, and had settled herself
 at its desk, Jeremiah withdrew--as it might be, to hang himself more
@@ -26,8 +26,8 @@ effectually--and her son appeared.
 ‘Are you any better this morning, mother?’
 
 She shook her head, with the same austere air of luxuriousness that she
-had shown over-night when speaking of the weather. ‘I shall never be
-better any more. It is well for me, Arthur, that I know it and can bear
+had shown over-[[Night|night]] when speaking of the weather. ‘I shall never be
+better any more. It is [[Well|well]] for me, [[Arthur]], that I know it and can bear
 it.’
 
 Sitting with her hands laid separately upon the desk, and the tall
@@ -43,7 +43,7 @@ thoughts.
 ‘Shall I speak of our affairs, mother? Are you inclined to enter upon
 business?’
 
-‘Am I inclined, Arthur? Rather, are you? Your father has been dead a
+‘Am I inclined, [[Arthur]]? Rather, are you? Your father has been dead a
 year and more. I have been at your disposal, and waiting your pleasure,
 ever since.’
 
@@ -61,30 +61,30 @@ of either it afforded her.
 
 ‘Besides, mother, you being sole executrix, and having the direction and
 management of the estate, there remained little business, or I might say
-none, that I could transact, until you had had time to arrange matters
+none, that I could transact, until you had had [[Time|time]] to arrange matters
 to your satisfaction.’
 
 ‘The accounts are made out,’ she returned. ‘I have them here. The
 vouchers have all been examined and passed. You can inspect them when
-you like, Arthur; now, if you please.’
+you like, [[Arthur]]; now, if you please.’
 
 ‘It is quite enough, mother, to know that the business is completed.
 Shall I proceed then?’
 
 ‘Why not?’ she said, in her frozen way.
 
-‘Mother, our House has done less and less for some years past, and our
+‘Mother, our [[house|House]] has done less and less for some years past, and our
 dealings have been progressively on the decline. We have never shown
 much confidence, or invited much; we have attached no people to us; the
-track we have kept is not the track of the time; and we have been
+track we have kept is not the track of the [[Time|time]]; and we have been
 left far behind. I need not dwell on this to you, mother. You know it
 necessarily.’
 
 ‘I know what you mean,’ she answered, in a qualified tone.
 
-‘Even this old house in which we speak,’ pursued her son, ‘is an
-instance of what I say. In my father’s earlier time, and in his uncle’s
-time before him, it was a place of business--really a place of business,
+‘Even this old [[house]] in which we speak,’ pursued her son, ‘is an
+instance of what I say. In my father’s earlier [[Time|time]], and in his uncle’s
+[[Time|time]] before him, it was a place of business--really a place of business,
 and business resort. Now, it is a mere anomaly and incongruity here, out
 of date and out of purpose. All our consignments have long been made to
 Rovinghams’ the commission-merchants; and although, as a check upon
@@ -94,7 +94,7 @@ have influenced my father’s fortunes equally, if you had lived in any
 private dwelling: would they not?’
 
 ‘Do you consider,’ she returned, without answering his question, ‘that
-a house serves no purpose, Arthur, in sheltering your infirm and
+a [[house]] serves no purpose, [[Arthur]], in sheltering your infirm and
 afflicted--justly infirm and righteously afflicted--mother?’
 
 ‘I was speaking only of business purposes.’
@@ -112,8 +112,8 @@ apprehensions that you would--’
 
 ‘You knew I would. You knew _me_,’ she interrupted.
 
-Her son paused for a moment. He had struck fire out of her, and was
-surprised. ‘Well!’ she said, relapsing into stone. ‘Go on. Let me hear.’
+Her son paused for a moment. He had struck [[Fire|fire]] out of her, and was
+surprised. ‘[[Well]]!’ she said, relapsing into stone. ‘Go on. Let me hear.’
 
 ‘You have anticipated, mother, that I decide for my part, to abandon
 the business. I have done with it. I will not take upon myself to advise
@@ -132,17 +132,17 @@ the defaulter whose appeal lay to the tribunal where those severe eyes
 presided. Great need had the rigid woman of her mystical religion,
 veiled in gloom and darkness, with lightnings of cursing, vengeance, and
 destruction, flashing through the sable clouds. Forgive us our debts as
-we forgive our debtors, was a prayer too poor in spirit for her. Smite
+we forgive our debtors, was a [[prayer]] too poor in spirit for her. Smite
 Thou my debtors, Lord, wither them, crush them; do Thou as I would do,
 and Thou shalt have my worship: this was the impious tower of stone she
 built up to scale Heaven.
 
-‘Have you finished, Arthur, or have you anything more to say to me? I
+‘Have you finished, [[Arthur]], or have you anything more to say to me? I
 think there can be nothing else. You have been short, but full of
 matter!’
 
 ‘Mother, I have yet something more to say. It has been upon my mind,
-night and day, this long time. It is far more difficult to say than what
+[[Night|night]] and day, this long [[Time|time]]. It is far more difficult to say than what
 I have said. That concerned myself; this concerns us all.’
 
 ‘Us all! Who are us all?’
@@ -150,5 +150,5 @@ I have said. That concerned myself; this concerns us all.’
 ‘Yourself, myself, my dead father.’
 
 She took her hands from the desk; folded them in her lap; and sat
-looking towards the fire, with the impenetrability of an old Egyptian
+looking towards the [[Fire|fire]], with the impenetrability of an old Egyptian
 sculpture.

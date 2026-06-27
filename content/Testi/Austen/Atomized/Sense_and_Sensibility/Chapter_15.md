@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 15"
+title: "[[Sense and Sensibility]] — Chapter 15"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -28,9 +28,9 @@ being of the party, under some trifling pretext of employment; and her
 
 mother, who concluded that a promise had been made by Willoughby the
 
-night before of calling on her while they were absent, was perfectly
+[[Night|night]] before of calling on her while they were absent, was perfectly
 
-satisfied with her remaining at home.
+satisfied with her remaining at [[Home|home]].
 
 
 
@@ -40,7 +40,7 @@ servant in waiting at the cottage, and Mrs. Dashwood was convinced that
 
 her conjecture had been just. So far it was all as she had foreseen;
 
-but on entering the house she beheld what no foresight had taught her
+but on entering the [[house]] she beheld what no foresight had taught her
 
 to expect. They were no sooner in the passage than Marianne came
 
@@ -66,11 +66,11 @@ entered—“is she ill?”
 
 
 
-“I hope not,” he replied, trying to look cheerful; and with a forced
+“I [[Hope|hope]] not,” he replied, trying to look cheerful; and with a forced
 
 smile presently added, “It is I who may rather expect to be ill—for I
 
-am now suffering under a very heavy disappointment!”
+am now [[Suffering|suffering]] under a very heavy disappointment!”
 
 
 
@@ -78,11 +78,11 @@ am now suffering under a very heavy disappointment!”
 
 
 
-“Yes, for I am unable to keep my engagement with you. Mrs. Smith has
+“Yes, for I am unable to keep my engagement with you. Mrs. [[smith|Smith]] has
 
 this morning exercised the privilege of riches upon a poor dependent
 
-cousin, by sending me on business to London. I have just received my
+cousin, by sending me on business to [[London]]. I have just received my
 
 dispatches, and taken my farewell of Allenham; and by way of
 
@@ -90,7 +90,7 @@ exhilaration I am now come to take my farewell of you.”
 
 
 
-“To London!—and are you going this morning?”
+“To [[London]]!—and are you going this morning?”
 
 
 
@@ -98,21 +98,21 @@ exhilaration I am now come to take my farewell of you.”
 
 
 
-“This is very unfortunate. But Mrs. Smith must be obliged;—and her
+“This is very unfortunate. But Mrs. [[smith|Smith]] must be obliged;—and her
 
-business will not detain you from us long I hope.”
+business will not detain you from us long I [[Hope|hope]].”
 
 
 
 He coloured as he replied, “You are very kind, but I have no idea of
 
-returning into Devonshire immediately. My visits to Mrs. Smith are
+returning into Devonshire immediately. My visits to Mrs. [[smith|Smith]] are
 
 never repeated within the twelvemonth.”
 
 
 
-“And is Mrs. Smith your only friend? Is Allenham the only house in the
+“And is Mrs. [[smith|Smith]] your only friend? Is Allenham the only [[house]] in the
 
 neighbourhood to which you will be welcome? For shame, Willoughby, can
 
@@ -140,15 +140,15 @@ will always be welcome; for I will not press you to return here
 
 immediately, because you only can judge how far _that_ might be
 
-pleasing to Mrs. Smith; and on this head I shall be no more disposed to
+pleasing to Mrs. [[smith|Smith]]; and on this head I shall be no more disposed to
 
-question your judgment than to doubt your inclination.”
+question your judgment than to [[Doubt|doubt]] your inclination.”
 
 
 
 “My engagements at present,” replied Willoughby, confusedly, “are of
 
-such a nature—that—I dare not flatter myself—”
+such a [[Nature|nature]]—that—I dare not flatter myself—”
 
 
 
@@ -172,7 +172,7 @@ step into his carriage, and in a minute it was out of sight.
 
 Mrs. Dashwood felt too much for speech, and instantly quitted the
 
-parlour to give way in solitude to the concern and alarm which this
+parlour to give way in [[Solitude|solitude]] to the concern and alarm which this
 
 sudden departure occasioned.
 
@@ -186,7 +186,7 @@ in taking leave of them, his embarrassment, and affectation of
 
 cheerfulness, and, above all, his unwillingness to accept her mother’s
 
-invitation, a backwardness so unlike a lover, so unlike himself,
+invitation, a backwardness so unlike a [[Lover|lover]], so unlike himself,
 
 greatly disturbed her. One moment she feared that no serious design had
 
@@ -198,7 +198,7 @@ which Marianne had quitted the room was such as a serious quarrel could
 
 most reasonably account for, though when she considered what Marianne’s
 
-love for him was, a quarrel seemed almost impossible.
+[[Love|love]] for him was, a quarrel seemed almost impossible.
 
 
 
@@ -228,7 +228,7 @@ as she sat down to work, “and with how heavy a heart does he travel?”
 
 “It is all very strange. So suddenly to be gone! It seems but the work
 
-of a moment. And last night he was with us so happy, so cheerful, so
+of a moment. And last [[Night|night]] he was with us so happy, so cheerful, so
 
 affectionate? And now, after only ten minutes notice—Gone too without
 
@@ -236,7 +236,7 @@ intending to return!—Something more than what he owned to us must have
 
 happened. He did not speak, he did not behave like himself. _You_ must
 
-have seen the difference as well as I. What can it be? Can they have
+have seen the difference as [[Well|well]] as I. What can it be? Can they have
 
 quarrelled? Why else should he have shown such unwillingness to accept
 
@@ -250,7 +250,7 @@ _that_. He had not the power of accepting it. I have thought it all
 
 over I assure you, and I can perfectly account for every thing that at
 
-first seemed strange to me as well as to you.”
+first seemed strange to me as [[Well|well]] as to you.”
 
 
 
@@ -260,11 +260,11 @@ first seemed strange to me as well as to you.”
 
 “Yes. I have explained it to myself in the most satisfactory way;—but
 
-you, Elinor, who love to doubt where you can—it will not satisfy _you_,
+you, Elinor, who [[Love|love]] to [[Doubt|doubt]] where you can—it will not satisfy _you_,
 
 I know; but you shall not talk _me_ out of my trust in it. I am
 
-persuaded that Mrs. Smith suspects his regard for Marianne, disapproves
+persuaded that Mrs. [[smith|Smith]] suspects his regard for Marianne, disapproves
 
 of it, (perhaps because she has other views for him,) and on that
 
@@ -300,7 +300,7 @@ Oh, Elinor, how incomprehensible are your feelings! You had rather take
 
 evil upon credit than good. You had rather look out for misery for
 
-Marianne, and guilt for poor Willoughby, than an apology for the
+Marianne, and [[Guilt|guilt]] for poor Willoughby, than an apology for the
 
 latter. You are resolved to think him blameable, because he took leave
 
@@ -312,7 +312,7 @@ recent disappointment? Are no probabilities to be accepted, merely
 
 because they are not certainties? Is nothing due to the man whom we
 
-have all such reason to love, and no reason in the world to think ill
+have all such reason to [[Love|love]], and no reason in the world to think ill
 
 of? To the possibility of motives unanswerable in themselves, though
 
@@ -326,13 +326,13 @@ him of?”
 
 inevitable consequence of such an alteration as we just witnessed in
 
-him. There is great truth, however, in what you have now urged of the
+him. There is great [[Truth|truth]], however, in what you have now urged of the
 
 allowances which ought to be made for him, and it is my wish to be
 
-candid in my judgment of every body. Willoughby may undoubtedly have
+candid in my judgment of every [[Body|body]]. Willoughby may undoubtedly have
 
-very sufficient reasons for his conduct, and I will hope that he has.
+very sufficient reasons for his conduct, and I will [[Hope|hope]] that he has.
 
 But it would have been more like Willoughby to acknowledge them at
 
@@ -352,7 +352,7 @@ have said in his defence?—I am happy—and he is acquitted.”
 
 “Not entirely. It may be proper to conceal their engagement (if they
 
-_are_ engaged) from Mrs. Smith—and if that is the case, it must be
+_are_ engaged) from Mrs. [[smith|Smith]]—and if that is the case, it must be
 
 highly expedient for Willoughby to be but little in Devonshire at
 
@@ -360,7 +360,7 @@ present. But this is no excuse for their concealing it from us.”
 
 
 
-“Concealing it from us! my dear child, do you accuse Willoughby and
+“Concealing it from us! my dear [[Child|child]], do you accuse Willoughby and
 
 Marianne of concealment? This is strange indeed, when your eyes have
 
@@ -396,11 +396,11 @@ Have we not perfectly understood each other? Has not my consent been
 
 daily asked by his looks, his manner, his attentive and affectionate
 
-respect? My Elinor, is it possible to doubt their engagement? How could
+respect? My Elinor, is it possible to [[Doubt|doubt]] their engagement? How could
 
 such a thought occur to you? How is it to be supposed that Willoughby,
 
-persuaded as he must be of your sister’s love, should leave her, and
+persuaded as he must be of your sister’s [[Love|love]], should leave her, and
 
 leave her perhaps for months, without telling her of his
 
@@ -412,7 +412,7 @@ confidence?”
 
 “I confess,” replied Elinor, “that every circumstance except _one_ is
 
-in favour of their engagement; but that _one_ is the total silence of
+in favour of their engagement; but that _one_ is the total [[Silence|silence]] of
 
 both on the subject, and with me it almost outweighs every other.”
 
@@ -420,17 +420,17 @@ both on the subject, and with me it almost outweighs every other.”
 
 “How strange this is! You must think wretchedly indeed of Willoughby,
 
-if, after all that has openly passed between them, you can doubt the
+if, after all that has openly passed between them, you can [[Doubt|doubt]] the
 
-nature of the terms on which they are together. Has he been acting a
+[[Nature|nature]] of the terms on which they are together. Has he been acting a
 
-part in his behaviour to your sister all this time? Do you suppose him
+part in his behaviour to your sister all this [[Time|time]]? Do you suppose him
 
 really indifferent to her?”
 
 
 
-“No, I cannot think that. He must and does love her I am sure.”
+“No, I cannot think that. He must and does [[Love|love]] her I am sure.”
 
 
 
@@ -448,7 +448,7 @@ matter as certain. I have had my doubts, I confess; but they are
 
 fainter than they were, and they may soon be entirely done away. If we
 
-find they correspond, every fear of mine will be removed.”
+find they correspond, every [[Fear|fear]] of mine will be removed.”
 
 
 
@@ -458,21 +458,21 @@ would suppose they were going to be married. Ungracious girl! But _I_
 
 require no such proof. Nothing in my opinion has ever passed to justify
 
-doubt; no secrecy has been attempted; all has been uniformly open and
+[[Doubt|doubt]]; no secrecy has been attempted; all has been uniformly open and
 
-unreserved. You cannot doubt your sister’s wishes. It must be
+unreserved. You cannot [[Doubt|doubt]] your sister’s wishes. It must be
 
 Willoughby therefore whom you suspect. But why? Is he not a man of
 
-honour and feeling? Has there been any inconsistency on his side to
+[[Honour|honour]] and feeling? Has there been any inconsistency on his side to
 
 create alarm? can he be deceitful?”
 
 
 
-“I hope not, I believe not,” cried Elinor. “I love Willoughby,
+“I [[Hope|hope]] not, I believe not,” cried Elinor. “I [[Love|love]] Willoughby,
 
-sincerely love him; and suspicion of his integrity cannot be more
+sincerely [[Love|love]] him; and suspicion of his integrity cannot be more
 
 painful to yourself than to me. It has been involuntary, and I will not
 
@@ -486,19 +486,19 @@ such a situation of his affairs as you have supposed. He had just
 
 parted from my sister, had seen her leave him in the greatest
 
-affliction; and if he felt obliged, from a fear of offending Mrs.
+affliction; and if he felt obliged, from a [[Fear|fear]] of offending Mrs.
 
-Smith, to resist the temptation of returning here soon, and yet aware
+[[smith|Smith]], to resist the [[Temptation|temptation]] of returning here soon, and yet aware
 
 that by declining your invitation, by saying that he was going away for
 
-some time, he should seem to act an ungenerous, a suspicious part by
+some [[Time|time]], he should seem to act an ungenerous, a suspicious part by
 
-our family, he might well be embarrassed and disturbed. In such a case,
+our family, he might [[Well|well]] be embarrassed and disturbed. In such a case,
 
 a plain and open avowal of his difficulties would have been more to his
 
-honour I think, as well as more consistent with his general
+[[Honour|honour]] I think, as [[Well|well]] as more consistent with his general
 
 character;—but I will not raise objections against any one’s conduct on
 
@@ -520,7 +520,7 @@ it might have been odd that he should leave us without acknowledging
 
 everything to me at once: but this is not the case. It is an engagement
 
-in some respects not prosperously begun, for their marriage must be at
+in some respects not prosperously begun, for their [[Marriage|marriage]] must be at
 
 a very uncertain distance; and even secrecy, as far as it can be
 
@@ -532,29 +532,29 @@ They were interrupted by the entrance of Margaret; and Elinor was then
 
 at liberty to think over the representations of her mother, to
 
-acknowledge the probability of many, and hope for the justice of all.
+acknowledge the probability of many, and [[Hope|hope]] for the justice of all.
 
 
 
-They saw nothing of Marianne till dinner time, when she entered the
+They saw nothing of Marianne till dinner [[Time|time]], when she entered the
 
 room and took her place at the table without saying a word. Her eyes
 
-were red and swollen; and it seemed as if her tears were even then
+were red and swollen; and it seemed as if her [[Tears|tears]] were even then
 
 restrained with difficulty. She avoided the looks of them all, could
 
-neither eat nor speak, and after some time, on her mother’s silently
+neither eat nor speak, and after some [[Time|time]], on her mother’s silently
 
 pressing her hand with tender compassion, her small degree of fortitude
 
-was quite overcome, she burst into tears and left the room.
+was quite overcome, she burst into [[Tears|tears]] and left the room.
 
 
 
 This violent oppression of spirits continued the whole evening. She was
 
-without any power, because she was without any desire of command over
+without any power, because she was without any [[Desire|desire]] of command over
 
 herself. The slightest mention of anything relative to Willoughby
 

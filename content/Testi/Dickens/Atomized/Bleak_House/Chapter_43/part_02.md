@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 43 (part 2)"
+title: "Bleak [[house|House]] — Chapter 43 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,15 +15,15 @@ tags:
 
 
 He lived in a place called the Polygon, in Somers Town, where there
-were at that time a number of poor Spanish refugees walking about in
+were at that [[Time|time]] a number of poor Spanish refugees walking about in
 cloaks, smoking little paper cigars. Whether he was a better tenant
 than one might have supposed, in consequence of his friend Somebody
 always paying his rent at last, or whether his inaptitude for
 business rendered it particularly difficult to turn him out, I don’t
-know; but he had occupied the same house some years. It was in a
+know; but he had occupied the same [[house]] some years. It was in a
 state of dilapidation quite equal to our expectation. Two or three of
-the area railings were gone, the water-butt was broken, the knocker
-was loose, the bell-handle had been pulled off a long time to judge
+the area railings were gone, the [[Water|water]]-butt was broken, the knocker
+was loose, the bell-handle had been pulled off a long [[Time|time]] to judge
 from the rusty state of the wire, and dirty footprints on the steps
 were the only signs of its being inhabited.
 
@@ -52,7 +52,7 @@ a dressing-gown, drinking some fragrant coffee from an old china
 cup—it was then about mid-day—and looking at a collection of
 wallflowers in the balcony.
 
-He was not in the least disconcerted by our appearance, but rose and
+He was not in the least disconcerted by our appearance, but [[Rose|rose]] and
 received us in his usual airy manner.
 
 “Here I am, you see!” he said when we were seated, not without some
@@ -78,7 +78,7 @@ an ambitious note, but still he sings.”
 “No,” he answered. “No! Some amiable gardener sells them. His man
 wanted to know, when he brought them last evening, whether he should
 wait for the money. ‘Really, my friend,’ I said, ‘I think not—if
-your time is of any value to you.’ I suppose it was, for he went
+your [[Time|time]] is of any value to you.’ I suppose it was, for he went
 away.”
 
 My guardian looked at us with a smile, as though he asked us, “Is it
@@ -87,15 +87,15 @@ possible to be worldly with this baby?”
 “This is a day,” said Mr. Skimpole, gaily taking a little claret in a
 tumbler, “that will ever be remembered here. We shall call it Saint
 Clare and Saint Summerson day. You must see my daughters. I have a
-blue-eyed daughter who is my Beauty daughter, I have a Sentiment
-daughter, and I have a Comedy daughter. You must see them all.
+blue-eyed daughter who is my [[Beauty]] daughter, I have a Sentiment
+daughter, and I have a [[Comedy]] daughter. You must see them all.
 They’ll be enchanted.”
 
 He was going to summon them when my guardian interposed and asked him
 to pause a moment, as he wished to say a word to him first. “My dear
 Jarndyce,” he cheerfully replied, going back to his sofa, “as many
-moments as you please. Time is no object here. We never know what
-o’clock it is, and we never care. Not the way to get on in life,
+moments as you please. [[Time]] is no object here. We never know what
+o’[[Clock|clock]] it is, and we never care. Not the way to get on in life,
 you’ll tell me? Certainly. But we DON’T get on in life. We don’t
 pretend to do it.”
 
@@ -106,13 +106,13 @@ My guardian looked at us again, plainly saying, “You hear him?”
 “The dearest friend I have!” returned Mr. Skimpole cordially. “I
 suppose he ought not to be my dearest friend, as he is not on terms
 with you. But he is, I can’t help it; he is full of youthful poetry,
-and I love him. If you don’t like it, I can’t help it. I love him.”
+and I [[Love|love]] him. If you don’t like it, I can’t help it. I [[Love|love]] him.”
 
 The engaging frankness with which he made this declaration really had
 a disinterested appearance and captivated my guardian, if not, for
 the moment, Ada too.
 
-“You are welcome to love him as much as you like,” returned Mr.
+“You are welcome to [[Love|love]] him as much as you like,” returned Mr.
 Jarndyce, “but we must save his pocket, Harold.”
 
 “Oh!” said Mr. Skimpole. “His pocket? Now you are coming to what I

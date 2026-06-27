@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 6"
+title: "The Mystery of [[Edwin Drood]] — Chapter 6"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -27,10 +27,10 @@ boxing at a looking-glass with great science and prowess. A fresh and
 healthy portrait the looking-glass presented of the Reverend Septimus,
 feinting and dodging with the utmost artfulness, and hitting out from
 the shoulder with the utmost straightness, while his radiant features
-teemed with innocence, and soft-hearted benevolence beamed from his
+teemed with [[innocence]], and soft-hearted benevolence beamed from his
 boxing-gloves.
 
-It was scarcely breakfast-time yet, for Mrs. Crisparkle—mother, not
+It was scarcely breakfast-[[Time|time]] yet, for Mrs. Crisparkle—mother, not
 wife of the Reverend Septimus—was only just down, and waiting for the
 urn. Indeed, the Reverend Septimus left off at this very moment to take
 the pretty old lady’s entering face between his boxing-gloves and kiss
@@ -43,21 +43,21 @@ remarked the old lady, looking on; “and so you will.”
 
 “Do what, Ma dear?”
 
-“Break the pier-glass, or burst a blood-vessel.”
+“Break the pier-glass, or burst a [[Blood|blood]]-vessel.”
 
-“Neither, please God, Ma dear. Here’s wind, Ma. Look at this!” In a
+“Neither, please God, Ma dear. Here’s [[Wind|wind]], Ma. Look at this!” In a
 concluding round of great severity, the Reverend Septimus administered
 and escaped all sorts of punishment, and wound up by getting the old
 lady’s cap into Chancery—such is the technical term used in scientific
 circles by the learned in the Noble Art—with a lightness of touch that
 hardly stirred the lightest lavender or cherry riband on it.
-Magnanimously releasing the defeated, just in time to get his gloves
-into a drawer and feign to be looking out of window in a contemplative
+Magnanimously releasing the defeated, just in [[Time|time]] to get his gloves
+into a drawer and feign to be looking out of [[Window|window]] in a contemplative
 state of mind when a servant entered, the Reverend Septimus then gave
 place to the urn and other preparations for breakfast. These completed,
-and the two alone again, it was pleasant to see (or would have been, if
+and the two [[Alone|alone]] again, it was pleasant to see (or would have been, if
 there had been any one to see it, which there never was), the old lady
-standing to say the Lord’s Prayer aloud, and her son, Minor Canon
+standing to say the Lord’s [[prayer|Prayer]] aloud, and her son, Minor Canon
 nevertheless, standing with bent head to hear it, he being within five
 years of forty: much as he had stood to hear the same words from the
 same lips when he was within five months of four.
@@ -73,12 +73,12 @@ that oftenest did duty together in all her conversations: “My Sept!”
 
 They were a good pair to sit breakfasting together in Minor Canon
 Corner, Cloisterham. For Minor Canon Corner was a quiet place in the
-shadow of the Cathedral, which the cawing of the rooks, the echoing
-footsteps of rare passers, the sound of the Cathedral bell, or the roll
-of the Cathedral organ, seemed to render more quiet than absolute
-silence. Swaggering fighting men had had their centuries of ramping and
+[[Shadow|shadow]] of the [[Cathedral]], which the cawing of the rooks, the echoing
+footsteps of rare passers, the sound of the [[Cathedral]] bell, or the roll
+of the [[Cathedral]] organ, seemed to render more quiet than absolute
+[[Silence|silence]]. Swaggering fighting men had had their centuries of ramping and
 raving about Minor Canon Corner, and beaten serfs had had their
-centuries of drudging and dying there, and powerful monks had had their
+centuries of drudging and dying there, and powerful [[Monks|monks]] had had their
 centuries of being sometimes useful and sometimes harmful there, and
 behold they were all gone out of Minor Canon Corner, and so much the
 better. Perhaps one of the highest uses of their ever having been
@@ -88,7 +88,7 @@ romantic state of the mind—productive for the most part of pity and
 forbearance—which is engendered by a sorrowful story that is all told,
 or a pathetic play that is played out.
 
-Red-brick walls harmoniously toned down in colour by time,
+Red-brick walls harmoniously toned down in colour by [[Time|time]],
 strong-rooted ivy, latticed windows, panelled rooms, big oaken beams in
 little places, and stone-walled gardens where annual fruit yet ripened
 upon monkish trees, were the principal surroundings of pretty old Mrs.
@@ -105,7 +105,7 @@ clear that she could read writing without spectacles. Her son was also
 so proud of the circumstance, and so dutifully bent on her deriving the
 utmost possible gratification from it, that he had invented the
 pretence that he himself could _not_ read writing without spectacles.
-Therefore he now assumed a pair, of grave and prodigious proportions,
+Therefore he now assumed a pair, of [[Grave|grave]] and prodigious proportions,
 which not only seriously inconvenienced his nose and his breakfast, but
 seriously impeded his perusal of the letter. For, he had the eyes of a
 microscope and a telescope combined, when they were unassisted.
@@ -116,7 +116,7 @@ arms.
 “Of course,” assented her son. He then lamely read on:
 
 “‘Haven of Philanthropy,
-Chief Offices, London, Wednesday.
+Chief Offices, [[London]], Wednesday.
 
 
 “‘DEAR MADAM,
@@ -134,7 +134,7 @@ face, as he exclaimed:
 “Bless me, bless me, Sept,” returned the old lady, “you don’t see the
 context! Give it back to me, my dear.”
 
-Glad to get his spectacles off (for they always made his eyes water),
+Glad to get his spectacles off (for they always made his eyes [[Water|water]]),
 her son obeyed: murmuring that his sight for reading manuscript got
 worse and worse daily.
 
@@ -164,8 +164,8 @@ miscreants!”
 
 “‘Denouncing a public miscreant—’”—the old lady resumed, “‘to get our
 little affair of business off my mind. I have spoken with my two wards,
-Neville and Helena Landless, on the subject of their defective
-education, and they give in to the plan proposed; as I should have
+Neville and [[Helena Landless]], on the subject of their defective
+[[Education|education]], and they give in to the plan proposed; as I should have
 taken good care they did, whether they liked it or not.’”
 
 “And it is another most extraordinary thing,” remarked the Minor Canon
@@ -176,19 +176,19 @@ dear, for interrupting.”
 
 “‘Therefore, dear Madam, you will please prepare your son, the Rev. Mr.
 Septimus, to expect Neville as an inmate to be read with, on Monday
-next. On the same day Helena will accompany him to Cloisterham, to take
-up her quarters at the Nuns’ House, the establishment recommended by
+next. On the same day [[Helena]] will accompany him to Cloisterham, to take
+up her quarters at the Nuns’ [[house|House]], the establishment recommended by
 yourself and son jointly. Please likewise to prepare for her reception
 and tuition there. The terms in both cases are understood to be exactly
 as stated to me in writing by yourself, when I opened a correspondence
-with you on this subject, after the honour of being introduced to you
-at your sister’s house in town here. With compliments to the Rev. Mr.
+with you on this subject, after the [[Honour|honour]] of being introduced to you
+at your sister’s [[house]] in town here. With compliments to the Rev. Mr.
 Septimus, I am, Dear Madam, Your affectionate brother (In
 Philanthropy), LUKE HONEYTHUNDER.’”
 
-“Well, Ma,” said Septimus, after a little more rubbing of his ear, “we
-must try it. There can be no doubt that we have room for an inmate, and
-that I have time to bestow upon him, and inclination too. I must
+“[[Well]], Ma,” said Septimus, after a little more rubbing of his ear, “we
+must try it. There can be no [[Doubt|doubt]] that we have room for an inmate, and
+that I have [[Time|time]] to bestow upon him, and inclination too. I must
 confess to feeling rather glad that he is not Mr. Honeythunder himself.
 Though that seems wretchedly prejudiced—does it not?—for I never saw
 him. Is he a large man, Ma?”
@@ -208,11 +208,11 @@ Mrs. Crisparkle’s sister, another piece of Dresden china, and matching
 her so neatly that they would have made a delightful pair of ornaments
 for the two ends of any capacious old-fashioned chimneypiece, and by
 right should never have been seen apart, was the childless wife of a
-clergyman holding Corporation preferment in London City. Mr.
+clergyman holding Corporation preferment in [[London]] [[City]]. Mr.
 Honeythunder in his public character of Professor of Philanthropy had
 come to know Mrs. Crisparkle during the last re-matching of the china
 ornaments (in other words during her last annual visit to her sister),
-after a public occasion of a philanthropic nature, when certain devoted
+after a public occasion of a philanthropic [[Nature|nature]], when certain devoted
 orphans of tender years had been glutted with plum buns, and plump
 bumptiousness. These were all the antecedents known in Minor Canon
 Corner of the coming pupils.
@@ -237,33 +237,33 @@ Would eight at a friendly dinner at all put you out, Ma?”
 
 So it was settled that way: and when Mr. Crisparkle called with his
 mother upon Miss Twinkleton, to arrange for the reception of Miss
-Helena Landless at the Nuns’ House, the two other invitations having
+[[Helena Landless]] at the Nuns’ [[house|House]], the two other invitations having
 reference to that establishment were proffered and accepted. Miss
 Twinkleton did, indeed, glance at the globes, as regretting that they
 were not formed to be taken out into society; but became reconciled to
 leaving them behind. Instructions were then despatched to the
-Philanthropist for the departure and arrival, in good time for dinner,
-of Mr. Neville and Miss Helena; and stock for soup became fragrant in
+Philanthropist for the departure and arrival, in good [[Time|time]] for dinner,
+of Mr. Neville and Miss [[Helena]]; and stock for soup became fragrant in
 the air of Minor Canon Corner.
 
 In those days there was no railway to Cloisterham, and Mr. Sapsea said
 there never would be. Mr. Sapsea said more; he said there never should
 be. And yet, marvellous to consider, it has come to pass, in these
 days, that Express Trains don’t think Cloisterham worth stopping at,
-but yell and whirl through it on their larger errands, casting the dust
+but yell and whirl through it on their larger errands, casting the [[Dust|dust]]
 off their wheels as a testimony against its insignificance. Some remote
-fragment of Main Line to somewhere else, there was, which was going to
+[[Fragment|fragment]] of Main Line to somewhere else, there was, which was going to
 ruin the Money Market if it failed, and Church and State if it
 succeeded, and (of course), the Constitution, whether or no; but even
 that had already so unsettled Cloisterham traffic, that the traffic,
-deserting the high road, came sneaking in from an unprecedented part of
+deserting the high [[Road|road]], came sneaking in from an unprecedented part of
 the country by a back stable-way, for many years labelled at the
 corner: “Beware of the Dog.”
 
 To this ignominious avenue of approach, Mr. Crisparkle repaired,
 awaiting the arrival of a short, squat omnibus, with a disproportionate
 heap of luggage on the roof—like a little Elephant with infinitely too
-much Castle—which was then the daily service between Cloisterham and
+much [[Castle]]—which was then the daily service between Cloisterham and
 external mankind. As this vehicle lumbered up, Mr. Crisparkle could
 hardly see anything else of it for a large outside passenger seated on
 the box, with his elbows squared, and his hands on his knees,
@@ -280,7 +280,7 @@ passenger. “Your master is morally bound—and ought to be legally, under
 ruinous penalties—to provide for the comfort of his fellow-man.”
 
 The driver instituted, with the palms of his hands, a superficial
-perquisition into the state of his skeleton; which seemed to make him
+perquisition into the state of his [[skeleton]]; which seemed to make him
 anxious.
 
 “Have I sat upon you?” asked the passenger.
@@ -318,22 +318,22 @@ then, when Joe peaceably touched his hat, accosting the passenger with:
 
 “My name is Crisparkle.”
 
-“Reverend Mr. Septimus? Glad to see you, sir. Neville and Helena are
+“Reverend Mr. Septimus? Glad to see you, sir. Neville and [[Helena]] are
 inside. Having a little succumbed of late, under the pressure of my
 public labours, I thought I would take a mouthful of fresh air, and
-come down with them, and return at night. So you are the Reverend Mr.
+come down with them, and return at [[Night|night]]. So you are the Reverend Mr.
 Septimus, are you?” surveying him on the whole with disappointment, and
-twisting a double eye-glass by its ribbon, as if he were roasting it,
+twisting a [[Double|double]] eye-glass by its ribbon, as if he were roasting it,
 but not otherwise using it. “Hah! I expected to see you older, sir.”
 
-“I hope you will,” was the good-humoured reply.
+“I [[Hope|hope]] you will,” was the good-humoured reply.
 
 “Eh?” demanded Mr. Honeythunder.
 
 “Only a poor little joke. Not worth repeating.”
 
 “Joke? Ay; I never see a joke,” Mr. Honeythunder frowningly retorted.
-“A joke is wasted upon me, sir. Where are they? Helena and Neville,
+“A joke is wasted upon me, sir. Where are they? [[Helena]] and Neville,
 come here! Mr. Crisparkle has come down to meet you.”
 
 An unusually handsome lithe young fellow, and an unusually handsome
@@ -349,20 +349,20 @@ Mr. Crisparkle would have read thus, _verbatim_.
 
 He invited Mr. Honeythunder to dinner, with a troubled mind (for the
 discomfiture of the dear old china shepherdess lay heavy on it), and
-gave his arm to Helena Landless. Both she and her brother, as they
+gave his arm to [[Helena Landless]]. Both she and her brother, as they
 walked all together through the ancient streets, took great delight in
-what he pointed out of the Cathedral and the Monastery ruin, and
+what he pointed out of the [[Cathedral]] and the Monastery ruin, and
 wondered—so his notes ran on—much as if they were beautiful barbaric
 captives brought from some wild tropical dominion. Mr. Honeythunder
-walked in the middle of the road, shouldering the natives out of his
+walked in the middle of the [[Road|road]], shouldering the natives out of his
 way, and loudly developing a scheme he had, for making a raid on all
 the unemployed persons in the United Kingdom, laying them every one by
-the heels in jail, and forcing them, on pain of prompt extermination,
+the heels in jail, and forcing them, on [[Pain|pain]] of prompt extermination,
 to become philanthropists.
 
 Mrs. Crisparkle had need of her own share of philanthropy when she
 beheld this very large and very loud excrescence on the little party.
-Always something in the nature of a Boil upon the face of society, Mr.
+Always something in the [[Nature|nature]] of a Boil upon the face of society, Mr.
 Honeythunder expanded into an inflammatory Wen in Minor Canon Corner.
 Though it was not literally true, as was facetiously charged against
 him by public unbelievers, that he called aloud to his
@@ -370,14 +370,14 @@ fellow-creatures: “Curse your souls and bodies, come here and be
 blessed!” still his philanthropy was of that gunpowderous sort that the
 difference between it and animosity was hard to determine. You were to
 abolish military force, but you were first to bring all commanding
-officers who had done their duty, to trial by court-martial for that
+officers who had done their duty, to trial by [[Court|court]]-martial for that
 offence, and shoot them. You were to abolish war, but were to make
 converts by making war upon them, and charging them with loving war as
 the apple of their eye. You were to have no capital punishment, but
 were first to sweep off the face of the earth all legislators, jurists,
 and judges, who were of the contrary opinion. You were to have
 universal concord, and were to get it by eliminating all the people who
-wouldn’t, or conscientiously couldn’t, be concordant. You were to love
+wouldn’t, or conscientiously couldn’t, be concordant. You were to [[Love|love]]
 your brother as yourself, but after an indefinite interval of maligning
 him (very much as if you hated him), and calling him all manner of
 names. Above all things, you were to do nothing in private, or on your
@@ -390,7 +390,7 @@ what the Treasurer said, and what the sub-Treasurer said, and what the
 Committee said, and what the sub-Committee said, and what the Secretary
 said, and what the Vice-Secretary said. And this was usually said in
 the unanimously-carried resolution under hand and seal, to the effect:
-“That this assembled Body of Professing Philanthropists views, with
+“That this assembled [[Body]] of Professing Philanthropists views, with
 indignant scorn and contempt, not unmixed with utter detestation and
 loathing abhorrence”—in short, the baseness of all those who do not
 belong to it, and pledges itself to make as many obnoxious statements
@@ -407,16 +407,16 @@ as an official personage to be addressed, or kind of human peg to hang
 his oratorical hat on, and fell into the exasperating habit, common
 among such orators, of impersonating him as a wicked and weak opponent.
 Thus, he would ask: “And will you, sir, now stultify yourself by
-telling me”—and so forth, when the innocent man had not opened his
+telling me”—and so forth, when the [[Innocent|innocent]] man had not opened his
 lips, nor meant to open them. Or he would say: “Now see, sir, to what a
 position you are reduced. I will leave you no escape. After exhausting
 all the resources of fraud and falsehood, during years upon years;
 after exhibiting a combination of dastardly meanness with ensanguined
 daring, such as the world has not often witnessed; you have now the
 hypocrisy to bend the knee before the most degraded of mankind, and to
-sue and whine and howl for mercy!” Whereat the unfortunate Minor Canon
+sue and whine and howl for [[Mercy|mercy]]!” Whereat the unfortunate Minor Canon
 would look, in part indignant and in part perplexed; while his worthy
-mother sat bridling, with tears in her eyes, and the remainder of the
+mother sat bridling, with [[Tears|tears]] in her eyes, and the remainder of the
 party lapsed into a sort of gelatinous state, in which there was no
 flavour or solidity, and very little resistance.
 
@@ -425,13 +425,13 @@ Honeythunder began to impend, must have been highly gratifying to the
 feelings of that distinguished man. His coffee was produced, by the
 special activity of Mr. Tope, a full hour before he wanted it. Mr.
 Crisparkle sat with his watch in his hand for about the same period,
-lest he should overstay his time. The four young people were unanimous
-in believing that the Cathedral clock struck three-quarters, when it
+lest he should overstay his [[Time|time]]. The four young people were unanimous
+in believing that the [[Cathedral]] [[Clock|clock]] struck three-quarters, when it
 actually struck but one. Miss Twinkleton estimated the distance to the
 omnibus at five-and-twenty minutes’ walk, when it was really five. The
 affectionate kindness of the whole circle hustled him into his
 greatcoat, and shoved him out into the moonlight, as if he were a
-fugitive traitor with whom they sympathised, and a troop of horse were
+fugitive traitor with whom they sympathised, and a troop of [[Horse|horse]] were
 at the back door. Mr. Crisparkle and his new charge, who took him to
 the omnibus, were so fervent in their apprehensions of his catching
 cold, that they shut him up in it instantly and left him, with still

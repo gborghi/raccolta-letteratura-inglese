@@ -1,5 +1,5 @@
 ---
-title: "A Predicament (part 3)"
+title: "[[A Predicament]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/A-Predicament-(Poe)"
@@ -32,7 +32,7 @@ tags:
 
       From this, after some minutes, I was aroused by the voice of
 
-      Pompey, who declared that he could stand it no longer, and
+      [[Pompey]], who declared that he could stand it no longer, and
 
       requested that I would be so kind as to come down. This was
 
@@ -42,7 +42,7 @@ tags:
 
       the subject. I accordingly grew angry, and told him in plain
 
-      words, that he was a fool, that he had committed an ignoramus
+      words, that he was a [[Fool|fool]], that he had committed an ignoramus
 
       e-clench-eye, that his notions were mere insommary Bovis, and his
 
@@ -60,9 +60,9 @@ tags:
 
       pressure on the back of my neck. It is needless to say that I
 
-      felt inexpressibly alarmed. I knew that Pompey was beneath my
+      felt inexpressibly alarmed. I knew that [[Pompey]] was beneath my
 
-      feet, and that Diana was sitting, according to my explicit
+      feet, and that [[Diana]] was sitting, according to my explicit
 
       directions, upon her hind legs, in the farthest corner of the
 
@@ -70,7 +70,7 @@ tags:
 
       my head gently to one side, I perceived, to my extreme horror,
 
-      that the huge, glittering, scimetar-like minute-hand of the clock
+      that the huge, glittering, scimetar-like minute-hand of the [[Clock|clock]]
 
       had, in the course of its hourly revolution, descended upon my
 
@@ -88,13 +88,13 @@ tags:
 
       all my strength, to force upward the ponderous iron bar. I might
 
-      as well have tried to lift the cathedral itself. Down, down, down
+      as [[Well|well]] have tried to lift the [[Cathedral|cathedral]] itself. Down, down, down
 
-      it came, closer and yet closer. I screamed to Pompey for aid; but
+      it came, closer and yet closer. I screamed to [[Pompey]] for aid; but
 
       he said that I had hurt his feelings by calling him “an ignorant
 
-      old squint-eye.” I yelled to Diana; but she only said
+      old squint-eye.” I yelled to [[Diana]]; but she only said
 
       “bow-wow-wow,” and that I had told her “on no account to stir
 
@@ -104,7 +104,7 @@ tags:
 
 
 
-      Meantime the ponderous and terrific Scythe of Time (for I now
+      Meantime the ponderous and terrific Scythe of [[Time]] (for I now
 
       discovered the literal import of that classical phrase) had not
 
@@ -114,7 +114,7 @@ tags:
 
       in my flesh, and my sensations grew indistinct and confused. At
 
-      one time I fancied myself in Philadelphia with the stately Dr.
+      one [[Time|time]] I fancied myself in Philadelphia with the stately Dr.
 
       Moneypenny, at another in the back parlor of Mr. Blackwood
 
@@ -122,9 +122,9 @@ tags:
 
       recollection of better and earlier times came over me, and I
 
-      thought of that happy period when the world was not all a desert,
+      thought of that happy period when the world was not all a [[Desert|desert]],
 
-      and Pompey not altogether cruel.
+      and [[Pompey]] not altogether cruel.
 
 
 
@@ -134,7 +134,7 @@ tags:
 
       trifling circumstances afforded me pleasure. The eternal
 
-      click-clak, click-clak, click-clak of the clock was the most
+      click-clak, click-clak, click-clak of the [[Clock|clock]] was the most
 
       melodious of music in my ears, and occasionally even put me in
 
@@ -162,7 +162,7 @@ tags:
 
       itself two inches in my neck. I was aroused to a sense of
 
-      exquisite pain. I prayed for death, and, in the agony of the
+      exquisite [[Pain|pain]]. I prayed for [[Death|death]], and, in the agony of the
 
       moment, could not help repeating those exquisite verses of the
 
@@ -184,11 +184,11 @@ tags:
 
       to startle the strongest nerves. My eyes, from the cruel pressure
 
-      of the machine, were absolutely starting from their sockets.
+      of the [[Machine|machine]], were absolutely starting from their sockets.
 
       While I was thinking how I should possibly manage without them,
 
-      one actually tumbled out of my head, and, rolling down the steep
+      one actually tumbled out of my head, and, [[rolling]] down the steep
 
       side of the steeple, lodged in the rain gutter which ran along
 

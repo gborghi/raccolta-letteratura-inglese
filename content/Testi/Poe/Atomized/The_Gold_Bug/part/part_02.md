@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 2)"
+title: "[[The Gold-Bug]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -18,7 +18,7 @@ tags:
 
       never saw a more brilliant metallic lustre than the scales
 
-      emit—but of this you cannot judge till tomorrow. In the mean time
+      emit—but of this you cannot judge till tomorrow. In the mean [[Time|time]]
 
       I can give you some idea of the shape.” Saying this, he seated
 
@@ -34,7 +34,7 @@ tags:
 
       foolscap, and made upon it a rough drawing with the pen. While he
 
-      did this, I retained my seat by the fire, for I was still chilly.
+      did this, I retained my seat by the [[Fire|fire]], for I was still chilly.
 
       When the design was complete, he handed it to me without rising.
 
@@ -48,35 +48,35 @@ tags:
 
       attention during previous visits. When his gambols were over, I
 
-      looked at the paper, and, to speak the truth, found myself not a
+      looked at the paper, and, to speak the [[Truth|truth]], found myself not a
 
       little puzzled at what my friend had depicted.
 
 
 
-      “Well!” I said, after contemplating it for some minutes, “this
+      “[[Well]]!” I said, after contemplating it for some minutes, “this
 
       _is_ a strange _scarabæus_, I must confess: new to me: never saw
 
       anything like it before—unless it was a skull, or a
 
-      death’s-head—which it more nearly resembles than anything else
+      [[Death|death]]’s-head—which it more nearly resembles than anything else
 
       that has come under _my_ observation.”
 
 
 
-      “A death’s-head!” echoed Legrand. “Oh—yes—well, it has something
+      “A [[Death|death]]’s-head!” echoed Legrand. “Oh—yes—[[Well|well]], it has something
 
-      of that appearance upon paper, no doubt. The two upper black
+      of that appearance upon paper, no [[Doubt|doubt]]. The two upper black
 
-      spots look like eyes, eh? and the longer one at the bottom like a
+      spots look like eyes, eh? and the longer one at the [[Bottom|bottom]] like a
 
       mouth—and then the shape of the whole is oval.”
 
 
 
-      “Perhaps so,” said I; “but, Legrand, I fear you are no artist. I
+      “Perhaps so,” said I; “but, Legrand, I [[Fear|fear]] you are no [[Artist|artist]]. I
 
       must wait until I see the beetle itself, if I am to form any idea
 
@@ -84,7 +84,7 @@ tags:
 
 
 
-      “Well, I don’t know,” said he, a little nettled, “I draw
+      “[[Well]], I don’t know,” said he, a little nettled, “I draw
 
       tolerably—_should_ do it at least—have had good masters, and
 
@@ -122,7 +122,7 @@ tags:
 
 
 
-      “Well, well,” I said, “perhaps you have—still I don’t see them;”
+      “[[Well]], [[Well|well]],” I said, “perhaps you have—still I don’t see them;”
 
       and I handed him the paper without additional remark, not wishing
 
@@ -134,13 +134,13 @@ tags:
 
       visible, and the whole _did_ bear a very close resemblance to the
 
-      ordinary cuts of a death’s-head.
+      ordinary cuts of a [[Death|death]]’s-head.
 
 
 
       He received the paper very peevishly, and was about to crumple
 
-      it, apparently to throw it in the fire, when a casual glance at
+      it, apparently to throw it in the [[Fire|fire]], when a casual glance at
 
       the design seemed suddenly to rivet his attention. In an instant
 
@@ -174,7 +174,7 @@ tags:
 
       reverie, from which no sallies of mine could arouse him. It had
 
-      been my intention to pass the night at the hut, as I had
+      been my intention to pass the [[Night|night]] at the hut, as I had
 
       frequently done before, but, seeing my host in this mood, I
 
@@ -198,19 +198,19 @@ tags:
 
 
 
-      “Well, Jup,” said I, “what is the matter now?—how is your
+      “[[Well]], Jup,” said I, “what is the matter now?—how is your
 
       master?”
 
 
 
-      “Why, to speak de troof, massa, him not so berry well as mought
+      “Why, to speak de troof, massa, him not so berry [[Well|well]] as mought
 
       be.”
 
 
 
-      “Not well! I am truly sorry to hear it. What does he complain
+      “Not [[Well|well]]! I am truly sorry to hear it. What does he complain
 
       of?”
 

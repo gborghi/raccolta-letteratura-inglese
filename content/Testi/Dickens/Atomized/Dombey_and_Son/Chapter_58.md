@@ -29,27 +29,27 @@ having descended thither from the inspection of the mantua-makers
 upstairs, who were busy on the family mourning. She delivered it for
 the behoof of Mr Chick, who was a stout bald gentleman, with a very
 large face, and his hands continually in his pockets, and who had a
-tendency in his nature to whistle and hum tunes, which, sensible of the
-indecorum of such sounds in a house of grief, he was at some pains to
+tendency in his [[Nature|nature]] to whistle and hum tunes, which, sensible of the
+indecorum of such sounds in a [[house]] of grief, he was at some pains to
 repress at present.
 
 “Don’t you over-exert yourself, Loo,” said Mr Chick, “or you’ll be laid
-up with spasms, I see. Right tol loor rul! Bless my soul, I forgot!
+up with spasms, I see. Right tol loor rul! Bless my [[Soul|soul]], I forgot!
 We’re here one day and gone the next!”
 
 Mrs Chick contented herself with a glance of reproof, and then
 proceeded with the thread of her discourse.
 
-“I am sure,” she said, “I hope this heart-rending occurrence will be a
+“I am sure,” she said, “I [[Hope|hope]] this heart-rending occurrence will be a
 warning to all of us, to accustom ourselves to rouse ourselves, and to
-make efforts in time where they’re required of us. There’s a moral in
+make efforts in [[Time|time]] where they’re required of us. There’s a moral in
 everything, if we would only avail ourselves of it. It will be our own
 faults if we lose sight of this one.”
 
-Mr Chick invaded the grave silence which ensued on this remark with the
+Mr Chick invaded the [[Grave|grave]] [[Silence|silence]] which ensued on this remark with the
 singularly inappropriate air of “A cobbler there was;” and checking
 himself, in some confusion, observed, that it was undoubtedly our own
-faults if we didn’t improve such melancholy occasions as the present.
+faults if we didn’t improve such [[Melancholy|melancholy]] occasions as the present.
 
 “Which might be better improved, I should think, Mr C.,” retorted his
 helpmate, after a short pause, “than by the introduction, either of the
@@ -94,17 +94,17 @@ expression about him.
 “It would have occurred to most men,” said Mrs Chick, “that poor dear
 Fanny being no more,—those words of mine will always be a balm and
 comfort to me,” here she dried her eyes; “it becomes necessary to
-provide a Nurse.”
+provide a [[Nurse]].”
 
-“Oh! Ah!” said Mr Chick. “Toor-ru!—such is life, I mean. I hope you are
+“Oh! Ah!” said Mr Chick. “Toor-ru!—such is life, I mean. I [[Hope|hope]] you are
 suited, my dear.”
 
 “Indeed I am not,” said Mrs Chick; “nor likely to be, so far as I can
-see, and in the meantime the poor child seems likely to be starved to
-death. Paul is so very particular—naturally so, of course, having set
+see, and in the meantime the poor [[Child|child]] seems likely to be starved to
+[[Death|death]]. Paul is so very particular—naturally so, of course, having set
 his whole heart on this one boy—and there are so many objections to
 everybody that offers, that I don’t see, myself, the least chance of an
-arrangement. Meanwhile, of course, the child is—”
+arrangement. Meanwhile, of course, the [[Child|child]] is—”
 
 “Going to the Devil,” said Mr Chick, thoughtfully, “to be sure.”
 
@@ -117,20 +117,20 @@ he added:
 
 If he had meant to bring the subject prematurely to a close, he could
 not have done it more effectually. After looking at him for some
-moments in silent resignation, Mrs Chick said she trusted he hadn’t
-said it in aggravation, because that would do very little honour to his
+moments in silent [[Resignation|resignation]], Mrs Chick said she trusted he hadn’t
+said it in aggravation, because that would do very little [[Honour|honour]] to his
 heart. She trusted he hadn’t said it seriously, because that would do
-very little honour to his head. As in any case, he couldn’t, however
-sanguine his disposition, hope to offer a remark that would be a
-greater outrage on human nature in general, we would beg to leave the
+very little [[Honour|honour]] to his head. As in any case, he couldn’t, however
+sanguine his disposition, [[Hope|hope]] to offer a remark that would be a
+greater outrage on human [[Nature|nature]] in general, we would beg to leave the
 discussion at that point.
 
-Mrs Chick then walked majestically to the window and peeped through the
+Mrs Chick then walked majestically to the [[Window|window]] and peeped through the
 blind, attracted by the sound of wheels. Mr Chick, finding that his
-destiny was, for the time, against him, said no more, and walked off.
+destiny was, for the [[Time|time]], against him, said no more, and walked off.
 But it was not always thus with Mr Chick. He was often in the ascendant
 himself, and at those times punished Louisa roundly. In their
-matrimonial bickerings they were, upon the whole, a well-matched,
+matrimonial bickerings they were, upon the whole, a [[Well|well]]-matched,
 fairly-balanced, give-and-take couple. It would have been, generally
 speaking, very difficult to have betted on the winner. Often when Mr
 Chick seemed beaten, he would suddenly make a start, turn the tables,
@@ -144,9 +144,9 @@ running into the room in a breathless condition.
 
 “My dear Louisa,” said Miss Tox, “is the vacancy still unsupplied?”
 
-“You good soul, yes,” said Mrs Chick.
+“You good [[Soul|soul]], yes,” said Mrs Chick.
 
-“Then, my dear Louisa,” returned Miss Tox, “I hope and believe—but in
+“Then, my dear Louisa,” returned Miss Tox, “I [[Hope|hope]] and believe—but in
 one moment, my dear, I’ll introduce the party.”
 
 Running downstairs again as fast as she had run up, Miss Tox got the
@@ -157,7 +157,7 @@ business acceptation, when it merely expresses an individual, but as a
 noun of multitude, or signifying many: for Miss Tox escorted a plump
 rosy-cheeked wholesome apple-faced young woman, with an infant in her
 arms; a younger woman not so plump, but apple-faced also, who led a
-plump and apple-faced child in each hand; another plump and also
+plump and apple-faced [[Child|child]] in each hand; another plump and also
 apple-faced boy who walked by himself; and finally, a plump and
 apple-faced man, who carried in his arms another plump and apple-faced
 boy, whom he stood down on the floor, and admonished, in a husky
@@ -166,13 +166,13 @@ whisper, to “kitch hold of his brother Johnny.”
 [Illustration]
 
 “My dear Louisa,” said Miss Tox, “knowing your great anxiety, and
-wishing to relieve it, I posted off myself to the Queen Charlotte’s
+wishing to relieve it, I posted off myself to the [[Queen]] Charlotte’s
 Royal Married Females,” which you had forgot, and put the question, Was
 there anybody there that they thought would suit? No, they said there
 was not. When they gave me that answer, I do assure you, my dear, I was
-almost driven to despair on your account. But it did so happen, that
+almost driven to [[Despair|despair]] on your account. But it did so happen, that
 one of the Royal Married Females, hearing the inquiry, reminded the
-matron of another who had gone to her own home, and who, she said,
+matron of another who had gone to her own [[Home|home]], and who, she said,
 would in all likelihood be most satisfactory. The moment I heard this,
 and had it corroborated by the matron—excellent references and
 unimpeachable character—I got the address, my dear, and posted off
@@ -180,7 +180,7 @@ again.”
 
 “Like the dear good Tox, you are!” said Louisa.
 
-“Not at all,” returned Miss Tox. “Don’t say so. Arriving at the house
+“Not at all,” returned Miss Tox. “Don’t say so. Arriving at the [[house]]
 (the cleanest place, my dear! You might eat your dinner off the floor),
 I found the whole family sitting at table; and feeling that no account
 of them could be half so comfortable to you and Mr Dombey as the sight
@@ -194,7 +194,7 @@ chuckling and grinning in a front row.
 “This is his wife, of course,” said Miss Tox, singling out the young
 woman with the baby. “How do you do, Polly?”
 
-“I’m pretty well, I thank you, Ma’am,” said Polly.
+“I’m pretty [[Well|well]], I thank you, Ma’am,” said Polly.
 
 By way of bringing her out dexterously, Miss Tox had made the inquiry
 as in condescension to an old acquaintance whom she hadn’t seen for a
@@ -204,9 +204,9 @@ fortnight or so.
 unmarried sister who lives with them, and would take care of her
 children. Her name’s Jemima. How do you do, Jemima?”
 
-“I’m pretty well, I thank you, Ma’am,” returned Jemima.
+“I’m pretty [[Well|well]], I thank you, Ma’am,” returned Jemima.
 
-“I’m very glad indeed to hear it,” said Miss Tox. “I hope you’ll keep
+“I’m very glad indeed to hear it,” said Miss Tox. “I [[Hope|hope]] you’ll keep
 so. Five children. Youngest six weeks. The fine little boy with the
 blister on his nose is the eldest. The blister, I believe,” said Miss
 Tox, looking round upon the family, “is not constitutional, but
@@ -239,36 +239,36 @@ meaning.
 
 “That,” replied Miss Tox. “Your trade.”
 
-“Oh! Pretty well, Mum. The ashes sometimes gets in here;” touching his
-chest: “and makes a man speak gruff, as at the present time. But it is
+“Oh! Pretty [[Well|well]], Mum. The ashes sometimes gets in here;” touching his
+chest: “and makes a man speak gruff, as at the present [[Time|time]]. But it is
 ashes, Mum, not crustiness.”
 
 Miss Tox seemed to be so little enlightened by this reply, as to find a
 difficulty in pursuing the subject. But Mrs Chick relieved her, by
 entering into a close private examination of Polly, her children, her
-marriage certificate, testimonials, and so forth. Polly coming out
+[[Marriage|marriage]] certificate, testimonials, and so forth. Polly coming out
 unscathed from this ordeal, Mrs Chick withdrew with her report to her
 brother’s room, and as an emphatic comment on it, and corroboration of
 it, carried the two rosiest little Toodles with her. Toodle being the
 family name of the apple-faced family.
 
-Mr Dombey had remained in his own apartment since the death of his
-wife, absorbed in visions of the youth, education, and destination of
-his baby son. Something lay at the bottom of his cool heart, colder and
-heavier than its ordinary load; but it was more a sense of the child’s
+Mr Dombey had remained in his own apartment since the [[Death|death]] of his
+wife, absorbed in visions of the youth, [[Education|education]], and destination of
+his baby son. Something lay at the [[Bottom|bottom]] of his cool heart, colder and
+heavier than its ordinary load; but it was more a sense of the [[Child|child]]’s
 loss than his own, awakening within him an almost angry sorrow. That
 the life and progress on which he built such hopes, should be
 endangered in the outset by so mean a want; that Dombey and Son should
-be tottering for a nurse, was a sore humiliation. And yet in his pride
-and jealousy, he viewed with so much bitterness the thought of being
+be tottering for a [[Nurse|nurse]], was a sore humiliation. And yet in his [[Pride|pride]]
+and [[Jealousy|jealousy]], he viewed with so much bitterness the thought of being
 dependent for the very first step towards the accomplishment of his
-soul’s desire, on a hired serving-woman who would be to the child, for
-the time, all that even his alliance could have made his own wife, that
+[[Soul|soul]]’s [[Desire|desire]], on a hired serving-woman who would be to the [[Child|child]], for
+the [[Time|time]], all that even his alliance could have made his own wife, that
 in every new rejection of a candidate he felt a secret pleasure. The
-time had now come, however, when he could no longer be divided between
+[[Time|time]] had now come, however, when he could no longer be divided between
 these two sets of feelings. The less so, as there seemed to be no flaw
 in the title of Polly Toodle after his sister had set it forth, with
-many commendations on the indefatigable friendship of Miss Tox.
+many commendations on the indefatigable [[Friendship|friendship]] of Miss Tox.
 
 “These children look healthy,” said Mr Dombey. “But my God, to think of
 their some day claiming a sort of relationship to Paul!”
@@ -294,13 +294,13 @@ are poor, and wish to earn money by nursing the little boy, my son, who
 has been so prematurely deprived of what can never be replaced. I have
 no objection to your adding to the comforts of your family by that
 means. So far as I can tell, you seem to be a deserving object. But I
-must impose one or two conditions on you, before you enter my house in
+must impose one or two conditions on you, before you enter my [[house]] in
 that capacity. While you are here, I must stipulate that you are always
 known as—say as Richards—an ordinary name, and convenient. Have you any
 objection to be known as Richards? You had better consult your
 husband.”
 
-“Well?” said Mr Dombey, after a pretty long pause. “What does your
+“[[Well]]?” said Mr Dombey, after a pretty long pause. “What does your
 husband say to your being called Richards?”
 
 As the husband did nothing but chuckle and grin, and continually draw
@@ -309,8 +309,8 @@ nudging him twice or thrice in vain, dropped a curtsey and replied
 “that perhaps if she was to be called out of her name, it would be
 considered in the wages.”
 
-“Oh, of course,” said Mr Dombey. “I desire to make it a question of
-wages, altogether. Now, Richards, if you nurse my bereaved child, I
+“Oh, of course,” said Mr Dombey. “I [[Desire|desire]] to make it a question of
+wages, altogether. Now, Richards, if you [[Nurse|nurse]] my bereaved [[Child|child]], I
 wish you to remember this always. You will receive a liberal stipend in
 return for the discharge of certain duties, in the performance of
 which, I wish you to see as little of your family as possible. When
@@ -319,30 +319,30 @@ to be paid, there is an end of all relations between us. Do you
 understand me?”
 
 Mrs Toodle seemed doubtful about it; and as to Toodle himself, he had
-evidently no doubt whatever, that he was all abroad.
+evidently no [[Doubt|doubt]] whatever, that he was all abroad.
 
 “You have children of your own,” said Mr Dombey. “It is not at all in
-this bargain that you need become attached to my child, or that my
-child need become attached to you. I don’t expect or desire anything of
+this bargain that you need become attached to my [[Child|child]], or that my
+[[Child|child]] need become attached to you. I don’t expect or [[Desire|desire]] anything of
 the kind. Quite the reverse. When you go away from here, you will have
 concluded what is a mere matter of bargain and sale, hiring and
-letting: and will stay away. The child will cease to remember you; and
-you will cease, if you please, to remember the child.”
+letting: and will stay away. The [[Child|child]] will cease to remember you; and
+you will cease, if you please, to remember the [[Child|child]].”
 
 Mrs Toodle, with a little more colour in her cheeks than she had had
 before, said “she hoped she knew her place.”
 
-“I hope you do, Richards,” said Mr Dombey. “I have no doubt you know it
-very well. Indeed it is so plain and obvious that it could hardly be
+“I [[Hope|hope]] you do, Richards,” said Mr Dombey. “I have no [[Doubt|doubt]] you know it
+very [[Well|well]]. Indeed it is so plain and obvious that it could hardly be
 otherwise. Louisa, my dear, arrange with Richards about money, and let
 her have it when and how she pleases. Mr what’s-your name, a word with
 you, if you please!”
 
 Thus arrested on the threshold as he was following his wife out of the
-room, Toodle returned and confronted Mr Dombey alone. He was a strong,
+room, Toodle returned and confronted Mr Dombey [[Alone|alone]]. He was a strong,
 loose, round-shouldered, shuffling, shaggy fellow, on whom his clothes
 sat negligently: with a good deal of hair and whisker, deepened in its
-natural tint, perhaps by smoke and coal-dust: hard knotty hands: and a
+natural tint, perhaps by smoke and coal-[[Dust|dust]]: hard knotty hands: and a
 square forehead, as coarse in grain as the bark of an oak. A thorough
 contrast in all respects, to Mr Dombey, who was one of those
 close-shaved close-cut moneyed gentlemen who are glossy and crisp like
@@ -367,11 +367,11 @@ by the stimulating action of golden showerbaths.
 
 “Write?”
 
-“With chalk, Sir?”
+“With [[chalk]], Sir?”
 
 “With anything?”
 
-“I could make shift to chalk a little bit, I think, if I was put to
+“I could make shift to [[chalk]] a little bit, I think, if I was put to
 it,” said Toodle after some reflection.
 
 “And yet,” said Mr Dombey, “you are two or three and thirty, I
@@ -384,7 +384,7 @@ suppose?”
 “So I’m a going to, Sir. One of my little boys is a going to learn me,
 when he’s old enough, and been to school himself.”
 
-“Well,” said Mr Dombey, after looking at him attentively, and with no
+“[[Well]],” said Mr Dombey, after looking at him attentively, and with no
 great favour, as he stood gazing round the room (principally round the
 ceiling) and still drawing his hand across and across his mouth. “You
 heard what I said to your wife just now?”
@@ -423,42 +423,42 @@ wamm’t a chris’en one, and he couldn’t give it. But we always calls him
 Biler just the same. For we don’t mean no harm. Not we.”
 
 “Do you mean to say, Man,” inquired Mr Dombey; looking at him with
-marked displeasure, “that you have called a child after a boiler?”
+marked displeasure, “that you have called a [[Child|child]] after a boiler?”
 
 “No, no, Sir,” returned Toodle, with a tender consideration for his
-mistake. “I should hope not! No, Sir. Arter a BILER Sir. The
+mistake. “I should [[Hope|hope]] not! No, Sir. Arter a BILER Sir. The
 Steamingine was a’most as good as a godfather to him, and so we called
 him Biler, don’t you see!”
 
 As the last straw breaks the laden camel’s back, this piece of
 information crushed the sinking spirits of Mr Dombey. He motioned his
-child’s foster-father to the door, who departed by no means
+[[Child|child]]’s foster-father to the door, who departed by no means
 unwillingly: and then turning the key, paced up and down the room in
 solitary wretchedness.
 
 It would be harsh, and perhaps not altogether true, to say of him that
-he felt these rubs and gratings against his pride more keenly than he
-had felt his wife’s death: but certainly they impressed that event upon
+he felt these rubs and gratings against his [[Pride|pride]] more keenly than he
+had felt his wife’s [[Death|death]]: but certainly they impressed that event upon
 him with new force, and communicated to it added weight and bitterness.
-It was a rude shock to his sense of property in his child, that these
-people—the mere dust of the earth, as he thought them—should be
+It was a rude shock to his sense of property in his [[Child|child]], that these
+people—the mere [[Dust|dust]] of the earth, as he thought them—should be
 necessary to him; and it was natural that in proportion as he felt
 disturbed by it, he should deplore the occurrence which had made them
 so. For all his starched, impenetrable dignity and composure, he wiped
-blinding tears from his eyes as he paced up and down his room; and
+blinding [[Tears|tears]] from his eyes as he paced up and down his room; and
 often said, with an emotion of which he would not, for the world, have
 had a witness, “Poor little fellow!”
 
-It may have been characteristic of Mr Dombey’s pride, that he pitied
-himself through the child. Not poor me. Not poor widower, confiding by
+It may have been characteristic of Mr Dombey’s [[Pride|pride]], that he pitied
+himself through the [[Child|child]]. Not poor me. Not poor widower, confiding by
 constraint in the wife of an ignorant Hind who has been working “mostly
-underground” all his life, and yet at whose door Death had never
+underground” all his life, and yet at whose door [[Death]] had never
 knocked, and at whose poor table four sons daily sit—but poor little
 fellow!
 
 Those words being on his lips, it occurred to him—and it is an instance
 of the strong attraction with which his hopes and fears and all his
-thoughts were tending to one centre—that a great temptation was being
+thoughts were tending to one centre—that a great [[Temptation|temptation]] was being
 placed in this woman’s way. Her infant was a boy too. Now, would it be
 possible for her to change them?
 
@@ -479,20 +479,20 @@ seemed to have ever happened. In another moment he was wondering
 whether they ever happened and were not found out.
 
 As his unusual emotion subsided, these misgivings gradually melted
-away, though so much of their shadow remained behind, that he was
+away, though so much of their [[Shadow|shadow]] remained behind, that he was
 constant in his resolution to look closely after Richards himself,
 without appearing to do so. Being now in an easier frame of mind, he
 regarded the woman’s station as rather an advantageous circumstance
 than otherwise, by placing, in itself, a broad distance between her and
-the child, and rendering their separation easy and natural. Thence he
+the [[Child|child]], and rendering their separation easy and natural. Thence he
 passed to the contemplation of the future glories of Dombey and Son,
-and dismissed the memory of his wife, for the time being, with a
+and dismissed the [[Memory|memory]] of his wife, for the [[Time|time]] being, with a
 tributary sigh or two.
 
 Meanwhile terms were ratified and agreed upon between Mrs Chick and
 Richards, with the assistance of Miss Tox; and Richards being with much
 ceremony invested with the Dombey baby, as if it were an Order,
-resigned her own, with many tears and kisses, to Jemima. Glasses of
+resigned her own, with many [[Tears|tears]] and kisses, to Jemima. Glasses of
 wine were then produced, to sustain the drooping spirits of the family;
 and Miss Tox, busying herself in dispensing “tastes” to the younger
 branches, bred them up to their father’s business with such surprising
@@ -505,7 +505,7 @@ Toodle appeared.
 “Thankee, Mum,” said Toodle, “since you are suppressing.”
 
 “And you’re very glad to leave your dear good wife in such a
-comfortable home, ain’t you, Sir?” said Miss Tox, nodding and winking
+comfortable [[Home|home]], ain’t you, Sir?” said Miss Tox, nodding and winking
 at him stealthily.
 
 “No, Mum,” said Toodle. “Here’s wishing of her back agin.”
@@ -515,7 +515,7 @@ apprehensions that this indulgence in grief might be prejudicial to the
 little Dombey (“acid, indeed,” she whispered Miss Tox), hastened to the
 rescue.
 
-“Your little child will thrive charmingly with your sister Jemima,
+“Your little [[Child|child]] will thrive charmingly with your sister Jemima,
 Richards,” said Mrs Chick; “and you have only to make an effort—this is
 a world of effort, you know, Richards—to be very happy indeed. You have
 been already measured for your mourning, haven’t you, Richards?”
@@ -546,10 +546,10 @@ abstinence, you know, my dear, in point of vegetables.”
 “And pickles, perhaps,” suggested Miss Tox.
 
 “With such exceptions,” said Louisa, “she’ll consult her choice
-entirely, and be under no restraint at all, my love.”
+entirely, and be under no restraint at all, my [[Love|love]].”
 
 “And then, of course, you know,” said Miss Tox, “however fond she is of
-her own dear little child—and I’m sure, Louisa, you don’t blame her for
+her own dear little [[Child|child]]—and I’m sure, Louisa, you don’t blame her for
 being fond of it?”
 
 “Oh no!” cried Mrs Chick, benignantly.
@@ -559,7 +559,7 @@ young charge, and must consider it a privilege to see a little cherub
 connected with the superior classes, gradually unfolding itself from
 day to day at one common fountain—is it not so, Louisa?”
 
-“Most undoubtedly!” said Mrs Chick. “You see, my love, she’s already
+“Most undoubtedly!” said Mrs Chick. “You see, my [[Love|love]], she’s already
 quite contented and comfortable, and means to say goodbye to her sister
 Jemima and her little pets, and her good honest husband, with a light
 heart and a smile; don’t she, my dear?”
@@ -580,7 +580,7 @@ your head and fight low, Polly, and you can’t go wrong!”
 
 Fortified by this golden secret, Polly finally ran away to avoid any
 more particular leave-taking between herself and the children. But the
-stratagem hardly succeeded as well as it deserved; for the smallest boy
+stratagem hardly succeeded as [[Well|well]] as it deserved; for the smallest boy
 but one divining her intent, immediately began swarming upstairs after
 her—if that word of doubtful etymology be admissible—on his arms and
 legs; while the eldest (known in the family by the name of Biler, in
@@ -590,9 +590,9 @@ family.
 
 A quantity of oranges and halfpence thrust indiscriminately on each
 young Toodle, checked the first violence of their regret, and the
-family were speedily transported to their own home, by means of the
+family were speedily transported to their own [[Home|home]], by means of the
 hackney-coach kept in waiting for that purpose. The children, under the
-guardianship of Jemima, blocked up the window, and dropped out oranges
+guardianship of Jemima, blocked up the [[Window|window]], and dropped out oranges
 and halfpence all the way along. Mr Toodle himself preferred to ride
 behind among the spikes, as being the mode of conveyance to which he
 was best accustomed.

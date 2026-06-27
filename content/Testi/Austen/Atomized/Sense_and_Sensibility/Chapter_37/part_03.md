@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 37 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 37 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -30,7 +30,7 @@ fit—it is not possible that it should be so. Edward will marry Lucy; he
 
 will marry a woman superior in person and understanding to half her
 
-sex; and time and habit will teach him to forget that he ever thought
+sex; and [[Time|time]] and habit will teach him to forget that he ever thought
 
 another superior to _her_.”
 
@@ -40,7 +40,7 @@ another superior to _her_.”
 
 is most valued is so easily to be made up by something else, your
 
-resolution, your self-command, are, perhaps, a little less to be
+resolution, your [[Self|self]]-command, are, perhaps, a little less to be
 
 wondered at.—They are brought more within my comprehension.”
 
@@ -70,7 +70,7 @@ exultation to listen to again and again. I have known myself to be
 
 divided from Edward for ever, without hearing one circumstance that
 
-could make me less desire the connection. Nothing has proved him
+could make me less [[Desire|desire]] the connection. Nothing has proved him
 
 unworthy; nor has anything declared him indifferent to me.  I have had
 
@@ -78,9 +78,9 @@ to contend against the unkindness of his sister, and the insolence of
 
 his mother; and have suffered the punishment of an attachment, without
 
-enjoying its advantages. And all this has been going on at a time,
+enjoying its advantages. And all this has been going on at a [[Time|time]],
 
-when, as you know too well, it has not been my only unhappiness. If you
+when, as you know too [[Well|well]], it has not been my only unhappiness. If you
 
 can think me capable of ever feeling, surely you may suppose that I
 
@@ -90,11 +90,11 @@ myself at present to consider the matter, the consolation that I have
 
 been willing to admit, have been the effect of constant and painful
 
-exertion; they did not spring up of themselves; they did not occur to
+exertion; they did not [[Spring|spring]] up of themselves; they did not occur to
 
 relieve my spirits at first. No, Marianne. _Then_, if I had not been
 
-bound to silence, perhaps nothing could have kept me entirely—not even
+bound to [[Silence|silence]], perhaps nothing could have kept me entirely—not even
 
 what I owed to my dearest friends—from openly showing that I was _very_
 
@@ -112,7 +112,7 @@ barbarous have I been to you!—you, who have been my only comfort, who
 
 have borne with me in all my misery, who have seemed to be only
 
-suffering for me!—Is this my gratitude?—Is this the only return I can
+[[Suffering|suffering]] for me!—Is this my gratitude?—Is this the only return I can
 
 make you?—Because your merit cries out upon myself, I have been trying
 
@@ -152,7 +152,7 @@ with only moving from one chair to another, and when Mrs. Jennings
 
 talked of Edward’s affection, it cost her only a spasm in her
 
-throat.—Such advances towards heroism in her sister, made Elinor feel
+throat.—Such advances towards [[Heroism|heroism]] in her sister, made Elinor feel
 
 equal to any thing herself.
 
@@ -182,7 +182,7 @@ They all looked their assent; it seemed too awful a moment for speech.
 
 too—in short it has been a scene of such complicated distress—but I
 
-will hope that the storm may be weathered without our being any of us
+will [[Hope|hope]] that the [[Storm|storm]] may be weathered without our being any of us
 
 quite overcome. Poor Fanny! she was in hysterics all yesterday. But I
 
@@ -192,17 +192,17 @@ to be apprehended; her constitution is a good one, and her resolution
 
 equal to any thing. She has borne it all, with the fortitude of an
 
-angel! She says she never shall think well of anybody again; and one
+angel! She says she never shall think [[Well|well]] of anybody again; and one
 
-cannot wonder at it, after being so deceived!—meeting with such
+cannot [[Wonder|wonder]] at it, after being so deceived!—meeting with such
 
 ingratitude, where so much kindness had been shown, so much confidence
 
 had been placed! It was quite out of the benevolence of her heart, that
 
-she had asked these young women to her house; merely because she
+she had asked these young women to her [[house]]; merely because she
 
-thought they deserved some attention, were harmless, well-behaved
+thought they deserved some attention, were harmless, [[Well|well]]-behaved
 
 girls, and would be pleasant companions; for otherwise we both wished
 

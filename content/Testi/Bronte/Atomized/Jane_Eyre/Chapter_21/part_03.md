@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 21 (part 3)"
+title: "[[Jane Eyre]] — Chapter 21 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -24,11 +24,11 @@ asked myself; “I want to commence my packing.” The dinner-bell rang,
 and suddenly away he bolted, without another syllable: I saw him no
 more during the day, and was off before he had risen in the morning.
 
-I reached the lodge at Gateshead about five o’clock in the afternoon of
+I reached the lodge at Gateshead about five o’[[Clock|clock]] in the afternoon of
 the first of May: I stepped in there before going up to the hall. It
 was very clean and neat: the ornamental windows were hung with little
-white curtains; the floor was spotless; the grate and fire-irons were
-burnished bright, and the fire burnt clear. Bessie sat on the hearth,
+white curtains; the floor was spotless; the grate and [[Fire|fire]]-irons were
+burnished bright, and the [[Fire|fire]] burnt clear. Bessie sat on the hearth,
 nursing her last-born, and Robert and his sister played quietly in a
 corner.
 
@@ -36,7 +36,7 @@ corner.
 entered.
 
 “Yes, Bessie,” said I, after I had kissed her; “and I trust I am not
-too late. How is Mrs. Reed?—Alive still, I hope.”
+too late. How is Mrs. Reed?—Alive still, I [[Hope|hope]].”
 
 “Yes, she is alive; and more sensible and collected than she was. The
 doctor says she may linger a week or two yet; but he hardly thinks she
@@ -46,22 +46,22 @@ will finally recover.”
 
 “She was talking of you only this morning, and wishing you would come,
 but she is sleeping now, or was ten minutes ago, when I was up at the
-house. She generally lies in a kind of lethargy all the afternoon, and
+[[house]]. She generally lies in a kind of lethargy all the afternoon, and
 wakes up about six or seven. Will you rest yourself here an hour, Miss,
 and then I will go up with you?”
 
-Robert here entered, and Bessie laid her sleeping child in the cradle
+Robert here entered, and Bessie laid her sleeping [[Child|child]] in the cradle
 and went to welcome him: afterwards she insisted on my taking off my
 bonnet and having some tea; for she said I looked pale and tired. I was
 glad to accept her hospitality; and I submitted to be relieved of my
 travelling garb just as passively as I used to let her undress me when
-a child.
+a [[Child|child]].
 
 Old times crowded fast back on me as I watched her bustling
 about—setting out the tea-tray with her best china, cutting bread and
 butter, toasting a tea-cake, and, between whiles, giving little Robert
 or Jane an occasional tap or push, just as she used to give me in
-former days. Bessie had retained her quick temper as well as her light
+former days. Bessie had retained her quick temper as [[Well|well]] as her light
 foot and good looks.
 
 Tea ready, I was going to approach the table; but she desired me to sit
@@ -76,7 +76,7 @@ a person the mistress was; and when I told her there was only a master,
 whether he was a nice gentleman, and if I liked him. I told her he was
 rather an ugly man, but quite a gentleman; and that he treated me
 kindly, and I was content. Then I went on to describe to her the gay
-company that had lately been staying at the house; and to these details
+company that had lately been staying at the [[house]]; and to these details
 Bessie listened with interest: they were precisely of the kind she
 relished.
 
@@ -87,7 +87,7 @@ walked down the path I was now ascending. On a dark, misty, raw morning
 in January, I had left a hostile roof with a desperate and embittered
 heart—a sense of outlawry and almost of reprobation—to seek the chilly
 harbourage of Lowood: that bourne so far away and unexplored. The same
-hostile roof now again rose before me: my prospects were doubtful yet;
+hostile roof now again [[Rose|rose]] before me: my prospects were doubtful yet;
 and I had yet an aching heart. I still felt as a wanderer on the face
 of the earth; but I experienced firmer trust in myself and my own
 powers, and less withering dread of oppression. The gaping wound of my
@@ -101,23 +101,23 @@ In another moment I was within that apartment. There was every article
 of furniture looking just as it did on the morning I was first
 introduced to Mr. Brocklehurst: the very rug he had stood upon still
 covered the hearth. Glancing at the bookcases, I thought I could
-distinguish the two volumes of Bewick’s British Birds occupying their
+distinguish the two volumes of Bewick’s British [[Birds]] occupying their
 old place on the third shelf, and Gulliver’s Travels and the Arabian
 Nights ranged just above. The inanimate objects were not changed; but
 the living things had altered past recognition.
 
 Two young ladies appeared before me; one very tall, almost as tall as
 Miss Ingram—very thin too, with a sallow face and severe mien. There
-was something ascetic in her look, which was augmented by the extreme
+was something [[ascetic]] in her look, which was augmented by the extreme
 plainness of a straight-skirted, black, stuff dress, a starched linen
 collar, hair combed away from the temples, and the nun-like ornament of
 a string of ebony beads and a crucifix. This I felt sure was Eliza,
-though I could trace little resemblance to her former self in that
+though I could trace little resemblance to her former [[Self|self]] in that
 elongated and colourless visage.
 
 The other was as certainly Georgiana: but not the Georgiana I
 remembered—the slim and fairy-like girl of eleven. This was a
-full-blown, very plump damsel, fair as waxwork, with handsome and
+full-blown, very plump [[Damsel|damsel]], fair as waxwork, with handsome and
 regular features, languishing blue eyes, and ringleted yellow hair. The
 hue of her dress was black too; but its fashion was so different from
 her sister’s—so much more flowing and becoming—it looked as stylish as
@@ -129,11 +129,11 @@ blooming and luxuriant younger girl had her contour of jaw and
 chin—perhaps a little softened, but still imparting an indescribable
 hardness to the countenance otherwise so voluptuous and buxom.
 
-Both ladies, as I advanced, rose to welcome me, and both addressed me
+Both ladies, as I advanced, [[Rose|rose]] to welcome me, and both addressed me
 by the name of “Miss Eyre.” Eliza’s greeting was delivered in a short,
 abrupt voice, without a smile; and then she sat down again, fixed her
-eyes on the fire, and seemed to forget me. Georgiana added to her “How
-d’ye do?” several commonplaces about my journey, the weather, and so
+eyes on the [[Fire|fire]], and seemed to forget me. Georgiana added to her “How
+d’ye do?” several commonplaces about my [[Journey|journey]], the weather, and so
 on, uttered in rather a drawling tone: and accompanied by sundry
 side-glances that measured me from head to foot—now traversing the
 folds of my drab merino pelisse, and now lingering on the plain

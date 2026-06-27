@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 5)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -22,17 +22,17 @@ he had been broken; while he could break in, he could never break out.
 
 He could not slay in anger, nor even sin with simplicity. Thus he stands
 
-alone among the conquerors of their kind; his madness was not due to a
+[[Alone|alone]] among the conquerors of their kind; his [[Madness|madness]] was not due to a
 
-mere misdirection of courage. Before the whisper of war had come to him
+mere misdirection of [[Courage|courage]]. Before the whisper of war had come to him
 
-the foundations of his audacity had been laid in fear.
+the foundations of his audacity had been laid in [[Fear|fear]].
 
 
 
-Of the work he did in this world there need be no considerable debate.
+Of the work he did in this world there need be no considerable [[debate]].
 
-It was romantic, if it be romantic that the dragon should swallow St.
+It was romantic, if it be romantic that the dragon should [[Swallow|swallow]] St.
 
 George. He turned a small country into a great one: he made a new
 
@@ -54,7 +54,7 @@ of the Seven Years' War men knew as little how he was to be turned out
 
 of Silesia as they knew why he had ever been allowed in it. In Poland,
 
-like a devil in possession, he tore asunder the body he inhabited; but
+like a devil in possession, he tore asunder the [[Body|body]] he inhabited; but
 
 it was long before any man dreamed that such disjected limbs could live
 
@@ -86,7 +86,7 @@ England on behalf of the new Hohenzollern throne, was due, of course,
 
 to the national policy of the first William Pitt. He was the kind of man
 
-whose vanity and simplicity are too easily overwhelmed by the obvious.
+whose [[Vanity|vanity]] and simplicity are too easily overwhelmed by the obvious.
 
 He saw nothing in a European crisis except a war with France; and
 
@@ -124,7 +124,7 @@ the figurehead of a group of Tories who set about fulfilling the fine if
 
 fanciful scheme for a democratic monarchy sketched by Bolingbroke in
 
-"The Patriot King." It was bent in all sincerity on bringing men's minds
+"The Patriot [[King]]." It was bent in all sincerity on bringing men's minds
 
 back to what are called domestic affairs, affairs as domestic as George
 
@@ -138,7 +138,7 @@ first acts was to terminate the alliance with Prussia. Unfortunately,
 
 whatever was picturesque in the piracy of Potsdam was beyond the
 
-imagination of Windsor. But whatever was prosaic in Potsdam was already
+[[Imagination|imagination]] of Windsor. But whatever was prosaic in Potsdam was already
 
 established at Windsor; the economy of cold mutton, the heavy-handed
 
@@ -146,13 +146,13 @@ taste in the arts, and the strange northern blend of boorishness with
 
 etiquette. If Bolingbroke's ideas had been applied by a spirited person,
 
-by a Stuart, for example, or even by Queen Elizabeth (who had real
+by a Stuart, for example, or even by [[Queen Elizabeth]] (who had real
 
-spirit along with her extraordinary vulgarity), the national soul might
+spirit along with her extraordinary vulgarity), the national [[Soul|soul]] might
 
-have broken free from its new northern chains. But it was the irony of
+have broken free from its new northern [[Chains|chains]]. But it was the irony of
 
-the situation that the King to whom Tories appealed as a refuge from
+the situation that the [[King]] to whom Tories appealed as a refuge from
 
 Germanism was himself a German.
 
@@ -162,21 +162,21 @@ We have thus to refer the origins of the German influence in England
 
 back to the beginning of the Hanoverian Succession; and thence back to
 
-the quarrel between the King and the lawyers which had issue at Naseby;
+the quarrel between the [[King]] and the lawyers which had issue at Naseby;
 
-and thence again to the angry exit of Henry VIII. from the mediaeval
+and thence again to the angry exit of [[Henry VIII]]. from the mediaeval
 
 council of Europe. It is easy to exaggerate the part played in the
 
 matter by that great and human, though very pagan person, Martin Luther.
 
-Henry VIII. was sincere in his hatred for the heresies of the German
+[[Henry VIII]]. was sincere in his hatred for the heresies of the German
 
 monk, for in speculative opinions Henry was wholly Catholic; and the two
 
 wrote against each other innumerable pages, largely consisting of terms
 
-of abuse, which were pretty well deserved on both sides. But Luther was
+of abuse, which were pretty [[Well|well]] deserved on both sides. But Luther was
 
 not a Lutheran. He was a sign of the break-up of Catholicism; but he was
 

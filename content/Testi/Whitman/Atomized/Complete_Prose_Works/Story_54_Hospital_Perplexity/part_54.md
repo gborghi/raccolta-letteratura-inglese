@@ -17,10 +17,10 @@ tags:
 I don't know as I can finish to-day's memorandum better than with
 Coleridge's lines, curiously appropriate in more ways than one:
 
-    All Nature seems at work--slugs leave their lair,
-    The bees are stirring--birds are on the wing,
-    And winter, slumbering in the open air,
-    Wears on his smiling face a dream of spring;
+    All [[Nature]] seems at work--slugs leave their lair,
+    The [[Bees|bees]] are stirring--[[Birds|birds]] are on the wing,
+    And [[Winter|winter]], slumbering in the open air,
+    Wears on his smiling face [[A Dream|a dream]] of [[Spring|spring]];
     And I, the while, the sole unbusy thing,
     Nor honey make, nor pair, nor build, nor sing.
 
@@ -28,18 +28,18 @@ Coleridge's lines, curiously appropriate in more ways than one:
 A WEEK'S VISIT TO BOSTON
 
 _May 1, '81._--Seems as if all the ways and means of American
-travel to-day had been settled, not only with reference to speed and
+travel to-day had been settled, not only with reference to [[Speed|speed]] and
 directness, but for the comfort of women, children, invalids, and old
 fellows like me. I went on by a through train that runs daily from
 Washington to the Yankee metropolis without change. You get in a
 sleeping-car soon after dark in Philadelphia, and after ruminating an
 hour or two, have your bed made up if you like, draw the curtains,
-and go to sleep in it--fly on through Jersey to New York--hear in your
+and go to [[Sleep|sleep]] in it--fly on through Jersey to [[New York]]--hear in your
 half-slumbers a dull jolting and bumping sound or two--are unconsciously
-toted from Jersey City by a midnight steamer around the Battery and
-under the big bridge to the track of the New Haven road--resume your
+toted from Jersey [[City]] by a midnight steamer around the Battery and
+under the big bridge to the track of the New Haven [[Road|road]]--resume your
 flight eastward, and early the next morning you wake up in Boston. All
-of which was my experience. I wanted to go to the Revere house. A tall
+of which was my experience. I wanted to go to the Revere [[house]]. A tall
 unknown gentleman, (a fellow-passenger on his way to Newport he told
 me, I had just chatted a few moments before with him,) assisted me out
 through the depot crowd, procured a hack, put me in it with my traveling
@@ -48,9 +48,9 @@ ride," paid the driver, and before I could remonstrate bow'd himself
 off.
 
 The occasion of my jaunt, I suppose I had better say here, was for a
-public reading of "the death of Abraham Lincoln" essay, on the sixteenth
-anniversary of that tragedy; which reading duly came off, night of
-April 15. Then I linger'd a week in Boston--felt pretty well (the mood
+public reading of "the [[Death|death]] of [[Abraham Lincoln]]" [[Essay|essay]], on the sixteenth
+anniversary of that [[Tragedy|tragedy]]; which reading duly came off, [[Night|night]] of
+April 15. Then I linger'd a week in Boston--felt pretty [[Well|well]] (the mood
 propitious, my paralysis lull'd)--went around everywhere, and saw all
 that was to be seen, especially human beings. Boston's immense material
 growth--commerce, finance, commission stores, the plethora of goods, the
@@ -67,7 +67,7 @@ in your hand, throw it down, stamp it flat, and that is a map of old
 Boston)--new Boston with its miles upon miles of large and costly
 houses--Beacon street, Commonwealth avenue, and a hundred others. But
 the best new departures and expansions of Boston, and of all the cities
-of New England, are in another direction.
+of [[New England]], are in another direction.
 
 
 THE BOSTON OF TO-DAY
@@ -76,17 +76,17 @@ In the letters we get from Dr. Schliemann (interesting but fishy) about
 his excavations there in the far-off Homeric area, I notice cities,
 ruins, &c., as he digs them out of their graves, are certain to be in
 layers--that is to say, upon the foundation of an old concern, very
-far down indeed, is always another city or set of ruins, and upon
+far down indeed, is always another [[City|city]] or set of ruins, and upon
 that another superadded--and sometimes upon that still another--each
 representing either a long or rapid stage of growth and development,
 different from its predecessor, but unerringly growing out of and
 resting on it. In the moral, emotional, heroic, and human growths, (the
 main of a race in my opinion,) something of this kind has certainly
-taken place in Boston. The New England metropolis of to-day may
+taken place in Boston. The [[New England]] metropolis of to-day may
 be described as sunny, (there is something else that makes warmth,
 mastering even winds and meteorologies, though those are not to be
 sneez'd at,) joyous, receptive, full of ardor, sparkle, a certain
-element of yearning, magnificently tolerant, yet not to be fool'd; fond
+element of yearning, magnificently tolerant, yet not to be [[Fool|fool]]'d; fond
 of good eating and drinking--costly in costume as its purse can buy;
 and all through its best average of houses, streets, people, that
 subtle something (generally thought to be climate, but it is not--it is
@@ -100,7 +100,7 @@ motions, and with color in their faces. I never saw (although this is
 not Greek) so many _fine-looking gray-hair'd women_. At my lecture
 I caught myself pausing more than once to look at them, plentiful
 everywhere through the audience--healthy and wifely and motherly, and
-wonderfully charming and beautiful--I think such as no time or land but
+wonderfully charming and beautiful--I think such as no [[Time|time]] or land but
 ours could show.
 
 
@@ -126,23 +126,23 @@ States for a poetical beginning and initiation than has come from
 Emerson, Longfellow, Bryant, and Whittier. Emerson, to me, stands
 unmistakably at the head, but for the others I am at a loss where to
 give any precedence. Each illustrious, each rounded, each distinctive.
-Emerson for his sweet, vital-tasting melody, rhym'd philosophy, and
-poems as amber-clear as the honey of the wild bee he loves to sing.
+Emerson for his sweet, vital-tasting melody, rhym'd [[philosophy]], and
+[[Poems|poems]] as amber-clear as the honey of the wild bee he loves to sing.
 Longfellow for rich color, graceful forms and incidents--all that makes
-life beautiful and love refined--competing with the singers of Europe
+life beautiful and [[Love|love]] refined--competing with the singers of Europe
 on their own ground, and, with one exception, better and finer work than
 that of any of them. Bryant pulsing the first interior verse-throbs of a
-mighty world--bard of the river and the wood, ever conveying a taste of
+mighty world--bard of the [[River|river]] and the wood, ever conveying a taste of
 open air, with scents as from hayfields, grapes, birch-borders--always
 lurkingly fond of threnodies--beginning and ending his long career with
-chants of death, with here and there through all, poems, or passages
-of poems, touching the highest universal truths, enthusiasms,
+chants of [[Death|death]], with here and there through all, [[Poems|poems]], or passages
+of [[Poems|poems]], touching the highest universal truths, enthusiasms,
 duties--morals as grim and eternal, if not as stormy and fateful, as
 anything in Eschylus. While in Whittier, with his special themes--(his
-outcropping love of heroism and war, for all his Quakerdom, his verses
+outcropping [[Love|love]] of [[Heroism|heroism]] and war, for all his Quakerdom, his verses
 at times like the measur'd step of Cromwell's old veterans)--in Whittier
-lives the zeal, the moral energy, that founded New England--the splendid
-rectitude and ardor of Luther, Milton, George Fox--I must not, dare not,
+lives the zeal, the moral energy, that founded [[New England]]--the splendid
+rectitude and ardor of Luther, [[Milton]], George Fox--I must not, dare not,
 say the wilfulness and narrowness--though doubtless the world needs
 now, and always will need, almost above all, just such narrowness and
 wilfulness.

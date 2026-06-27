@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 11"
+title: "[[The Professor]] — Chapter 11"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -80,7 +80,7 @@ sitting-room, “for having returned so late--it was not my fault.”
 
 “That is just what I want to know,” rejoined M. Pelet, as he ushered me
 
-into the comfortable parlour with a good wood-fire--for the stove had
+into the comfortable parlour with a good wood-[[Fire|fire]]--for the stove had
 
 now been removed for the season. Having rung the bell he ordered “Coffee
 
@@ -124,7 +124,7 @@ huge lumps of continental sugar into his cup. “And now tell me why you
 
 stayed so long at Mdlle. Reuter’s. I know that lessons conclude, in her
 
-establishment as in mine, at four o’clock, and when you returned it was
+establishment as in mine, at four o’[[Clock|clock]], and when you returned it was
 
 past five.”
 
@@ -158,13 +158,13 @@ course?”
 
 
 
-“No, monsieur; I had the honour of being quite alone with mademoiselle.”
+“No, monsieur; I had the [[Honour|honour]] of being quite [[Alone|alone]] with mademoiselle.”
 
 
 
 “C’est joli--cela,” observed M. Pelet, and he smiled and looked into the
 
-fire.
+[[Fire|fire]].
 
 
 
@@ -204,13 +204,13 @@ frivolities.”
 
 “Why, the sentimental. Any woman sinking her shaft deep enough, will
 
-at last reach a fathomless spring of sensibility in thy breast,
+at last reach a fathomless [[spring]] of sensibility in thy breast,
 
 Crimsworth.”
 
 
 
-I felt the blood stir about my heart and rise warm to my cheek.
+I felt the [[Blood|blood]] stir about my heart and rise warm to my cheek.
 
 
 
@@ -334,7 +334,7 @@ retreat again.”
 
 
 
-I smiled, and so did Pelet, and after a few minutes’ silence, I asked:
+I smiled, and so did Pelet, and after a few minutes’ [[Silence|silence]], I asked:
 
 
 
@@ -342,7 +342,7 @@ I smiled, and so did Pelet, and after a few minutes’ silence, I asked:
 
 
 
-“Marry! Will birds pair? Of course it is both her intention and
+“Marry! Will [[Birds|birds]] pair? Of course it is both her intention and
 
 resolution to marry when she finds a suitable match, and no one is
 
@@ -374,7 +374,7 @@ me.”
 
 “That to begin with; let respect be the foundation, affection the first
 
-floor, love the superstructure; Mdlle. Reuter is a skilful architect.”
+floor, [[Love|love]] the superstructure; Mdlle. Reuter is a skilful architect.”
 
 
 
@@ -384,7 +384,7 @@ point?”
 
 
 
-“Yes, yes, no doubt; it will be the cement between every stone. And now
+“Yes, yes, no [[Doubt|doubt]]; it will be the cement between every stone. And now
 
 we have discussed the directress, what of the pupils? N’y a-t-il pas de
 
@@ -448,7 +448,7 @@ how to dispose of all their abundance, with her vermilion lips, damask
 
 cheek, and roguish laughing eye. And Caroline de Blemont! Ah, there is
 
-beauty! beauty in perfection. What a cloud of sable curls about the face
+[[Beauty|beauty]]! [[Beauty|beauty]] in perfection. What a cloud of sable curls about the face
 
 of a houri! What fascinating lips! What glorious black eyes! Your Byron
 
@@ -472,7 +472,7 @@ went on:
 
 
 
-“Confess, William, do not the mere good looks of Zoraide Reuter appear
+“Confess, William, do not the mere good looks of [[Zoraide Reuter]] appear
 
 dowdyish and commonplace compared with the splendid charms of some of
 
@@ -482,7 +482,7 @@ her pupils?”
 
 The question discomposed me, but I now felt plainly that my principal
 
-was endeavouring (for reasons best known to himself--at that time I
+was endeavouring (for reasons best known to himself--at that [[Time|time]] I
 
 could not fathom them) to excite ideas and wishes in my mind alien to
 

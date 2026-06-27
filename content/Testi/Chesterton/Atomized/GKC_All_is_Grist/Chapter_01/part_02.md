@@ -16,11 +16,11 @@ tags:
 
 There are, indeed, human and historic aspects of this problem, which would
 in any case be rather too real for our realists to understand.
-The truth is that traditional humanity has always felt these natural facts
+The [[Truth|truth]] is that traditional humanity has always felt these natural facts
 to be so real that they were best expressed in some sort of ritual.
 Talking about them in detail did (and does) very little good;
 but recognizing them in conduct and courtesy and the very carriage of
-the body made all men feel sane and near to nature.  Men were ceremonial
+the [[Body|body]] made all men feel sane and near to [[Nature|nature]].  Men were ceremonial
 towards their fathers and mothers, just as they were ceremonial about
 the harvest or the ploughing of the ground or the scattering of the seed.
 They were ceremonial about these things because these things were
@@ -40,7 +40,7 @@ to understand ritual.  They cannot even understand courtesy, so long
 as the convention of the moment is a convention of discourtesy.
 But these deplorable people are very rare in any generation;
 and the majority of the young are doubtless what they always were;
-and no more than normally disposed to desert normality for the sake
+and no more than normally disposed to [[Desert|desert]] normality for the sake
 of novelty.  The trouble is that very few people encourage them
 really to think about these things, or thrash them out in any
 intelligent fashion.  They are sometimes blamed for not following
@@ -58,11 +58,11 @@ but it is not especially a good way of grasping reality.  People merely
 going the pace, in any age, have generally missed everything except
 the most artificial and external costume and custom of that age.
 Men need to walk a little slower to look at the earth and to face
-the facts of nature.
+the facts of [[Nature|nature]].
 
 II.  On Liberties and Lotteries
 
-ALMOST alone among my contemporaries I have not been a sceptic
+ALMOST [[Alone|alone]] among my contemporaries I have not been a sceptic
 about Liberty; but I recognize the materials for scepticism in the
 discussion about liberties.  The difference between the liberties valued
 by one community and those valued by another is doubtless very great.
@@ -71,7 +71,7 @@ common decency, would be absolutely fatal to any idea of liberty.
 It is perpetually said that because there are a hundred religions
 claiming to be true, it is therefore impossible that one of them
 should really be true.  The argument would appear on the face
-of it to be illogical, if any one nowadays troubled about logic.
+of it to be illogical, if any one nowadays troubled about [[logic]].
 It would be as reasonable to say that because some people
 thought the earth was flat, and others (rather less incorrectly)
 imagined it was round, and because anybody is free to say that it
@@ -79,14 +79,14 @@ is triangular or hexagonal, or a rhomboid, therefore it has no
 shape at all; or its shape can never be discovered; and, anyhow,
 modern science must be wrong in saying it is an oblate spheroid.
 The world must be some shape, and it must be that shape and no other;
-and it is not self-evident that nobody can possibly hit on
+and it is not [[Self|self]]-evident that nobody can possibly hit on
 the right one.  What so obviously applies to the material shape
 of the world equally applies to the moral shape of the universe.
 The man who describes it may not be right; but it is no argument
 against his rightness that a number of other people must be wrong.
 
 As I say, the same childish argument is now extended to ordinary
-morality or decency.  It is insisted that, because the decorum of a
+[[morality]] or decency.  It is insisted that, because the decorum of a
 Roman matron is not exactly the same as that of a Sandwich Islander,
 therefore there can be no superiority in the one over the other;
 no possible way of deciding which is the better of the two;
@@ -108,24 +108,24 @@ to all mankind, though some men neglect it and are dirty.
 All we complain of, in that aspect, is that the sceptic always
 refuses to be a rationalist.
 
-But the point here is that, if this argument is fatal to faith
+But the point here is that, if this argument is fatal to [[Faith|faith]]
 or modesty, it is a thousand times fatal to liberty.  If we simply
 say that this or that practice is tolerated in this or that place,
 if we refuse to look for any moral or metaphysical principle by
 which the differences can be tested, we shall find the definition
-of liberty dissolving into a dust of differentiations and exceptions.
-And I very much fear that this is exactly what the definition
+of liberty dissolving into a [[Dust|dust]] of differentiations and exceptions.
+And I very much [[Fear|fear]] that this is exactly what the definition
 of liberty will really do.  I am very much afraid, as things
 are going at present, that the next generation will have quite
 as little idea of what their fathers meant by dying for liberty,
 as the last generation had of what their fathers meant by dying
-for religion or sound theology or the true faith.  There is already
+for religion or sound theology or the true [[Faith|faith]].  There is already
 a large number of modern writers who talk as if the old notion
 of independence, national or personal, were something simply
-inconceivable as well as impossible; exactly as the champions of liberty,
+inconceivable as [[Well|well]] as impossible; exactly as the champions of liberty,
 a hundred years ago, spoke of the mysterious dogmas of the Church.
 Indeed, it is quite as easy, by the methods of the rationalistic heckler,
-to suggest that freedom is nonsense as that faith is nonsense.
+to suggest that [[Freedom|freedom]] is nonsense as that [[Faith|faith]] is nonsense.
 It is a great deal too easy.  That is what made me suspect it
 from the first in both cases.  But, anyhow, it is perfectly true
 that variation gives the sceptic an opportunity in both cases.

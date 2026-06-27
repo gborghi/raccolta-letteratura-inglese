@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 5"
+title: "[[Don Quixote]] — Chapter 5"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -19,11 +19,11 @@ CHAPTER V
 THE SECOND TRIAL OF JOHN BRAINTREE
 
 Douglas Murrel knew the world; he knew his own world, though that lucky
-love of low company had saved him from supposing it was the whole world.
-And he knew well enough what had happened.  Braintree, brought there
-to be abashed into silence, was being encouraged to talk.
+[[Love|love]] of low company had saved him from supposing it was the whole world.
+And he knew [[Well|well]] enough what had happened.  Braintree, brought there
+to be abashed into [[Silence|silence]], was being encouraged to talk.
 There was in it perhaps some element of the interest in a monstrosity
-or performing animal; some touch of that longing of all luxurious people
+or performing animal; some touch of that [[Longing|longing]] of all luxurious people
 for something fresh; but the monstrosity was making a good impression.
 He talked a good deal; but he did not have the air of being conceited;
 only of being convinced.  Murrel knew the world; and he knew that men
@@ -36,7 +36,7 @@ who would almost ask a nigger what it felt like to be black.
 It was inevitable that the old merchant should talk about political
 economy to anybody he supposed to be political.  It did not matter
 if that old ass Wister lectured him about the great Victorians.
-The self-educated man had no difficulty in showing he was better
+The [[Self|self]]-educated man had no difficulty in showing he was better
 educated than those people were.  But now the next stage
 was reached; and the other sort of people began to take notice.
 The intelligent people in the Smart Set, the people who do
@@ -47,7 +47,7 @@ began to ask him more sensible questions; often conceding many
 of his claims, often falling back on more fundamental objections.
 Murrel almost started as he heard the low and guttural drawl
 of old Eden, in whom so many diplomatic and parliamentary
-secrets were buttoned up, and who hardly ever talked at all,
+[[Secrets|secrets]] were buttoned up, and who hardly ever talked at all,
 saying to Braintree:  "Don't you think there's something to be
 said for the Ancients--Aristotle and all that, don't you know?
 Perhaps there really must be a class of people always working
@@ -65,23 +65,23 @@ really been paid a compliment.
 "But if you take that line," went on Braintree, "you can't complain
 of the people you separate in that way, treating themselves
 as something separate.  If there is a class like that, you can
-hardly wonder at its being class-conscious."
+hardly [[Wonder|wonder]] at its being class-conscious."
 
 "And the other people, I suppose, have a right to be class-conscious,
 too," said Eden with a smile.
 
 "Quite so," observed Wister in his more spacious manner.
-"The aristocrat, the magnanimous man as Aristotle says--"
+"The [[aristocrat]], the magnanimous man as Aristotle says--"
 
 "Look here," said Braintree rather irritably, "I've only read Aristotle
 in cheap translations; but I have read them.  It seems to me gentlemen
 like you first learn elaborately how to read things in Greek;
 and then never do it.  Aristotle, so far as I can understand,
 makes out the magnanimous man to be a pretty conceited fellow.
-But he never says he must be what you call an aristocrat."
+But he never says he must be what you call an [[aristocrat]]."
 
 "Quite so," said Eden, "but the most democratic of the Greeks believed
-in slavery.  In my opinion, there's a lot more to be said for slavery
+in [[Slavery|slavery]].  In my opinion, there's a lot more to be said for [[Slavery|slavery]]
 than there is for aristocracy."
 
 The Syndicalist assented almost eagerly; and Mr. Almeric Wister
@@ -90,18 +90,18 @@ looked rather bewildered.
 "I say," repeated Braintree, "that if you think there ought
 to be slaves, you can't prevent the slaves hanging together and
 having their own notions about things.  You can't appeal to their
-citizenship if they are not citizens.  Well, I'm one of the slaves.
+citizenship if they are not citizens.  [[Well]], I'm one of the slaves.
 I come out of the coal-cellar. I represent all those grimy
 and grubby and unpresentable people; I am one of them.
 Aristotle himself couldn't complain of my speaking for them."
 
-"You speak for them very well," said Eden.
+"You speak for them very [[Well|well]]," said Eden.
 
 Murrel smiled grimly.  The fashion was in full blast now.
 He recognised all the signs of that change in the social weather;
 that altered atmosphere around the Syndicalist.
 He even heard the familiar sound that put the final touch to it;
-the murmuring voice of Lady Boole, ". . . any Thursday.
+the murmuring voice of Lady Boole, ". . . any [[thursday|Thursday]].
 We shall be _so_ pleased."
 
 Murrel, still smiling grimly, turned on his heel and crossed over to
@@ -109,8 +109,8 @@ the corner where Olive Ashley was sitting.  He noted that she sat watching
 with compressed lips and that her dark eyes were dangerously bright.
 He addressed her upon a note of delicate condolence.
 
-"Afraid our practical joke has rather turned bottom up," he said.
-"We meant him to be a bear and he's going to be a lion."
+"Afraid our practical joke has rather turned [[Bottom|bottom]] up," he said.
+"We meant him to be a bear and he's going to be a [[Lion|lion]]."
 
 She looked up and suddenly smiled in a dazzling and
 highly baffling manner.
@@ -125,14 +125,14 @@ on his dolorous visage.
 of your _protégé._"
 
 He continued to stare at her undecipherable smile and at last he said:
-"Well, I don't understand women; nobody ever will, and it is obviously
+"[[Well]], I don't understand women; nobody ever will, and it is obviously
 dangerous to try.  But if I may make a mere guess on the subject,
 my dear Olive, I have a growing suspicion that you are a little humbug."
 
-He departed with his usual gloomy good humour; and the party
+He departed with his usual gloomy good [[Humour|humour]]; and the party
 was already breaking up.  As the last of the visitors left,
 he stood once more for a moment in the gateway leading into
-the garden and sent a Parthian arrow.
+the [[Garden|garden]] and sent a Parthian arrow.
 
 "I don't understand women," he said, "but I do know a little about men.
 And now _I'm_ going to take charge of your performing bear."
@@ -153,33 +153,33 @@ and found it uncomfortable but not inconvenient.  For a great part
 of his political life was spent in trying to link up the labour
 organisations directly connected with the coal-field to these other
 and smaller unisons of men employed on the derivative substances.
-It was towards his home that he now turned his face,
-when he turned his back on the great country house to which
+It was towards his [[Home|home]] that he now turned his face,
+when he turned his back on the great country [[house]] to which
 he had just paid so curious and apparently aimless a visit.
 As Eden and Wister and the various nobs of the neighbourhood,
 (as he would put it) slid away in their sumptuous cars,
-he took a great pride in walking stiffly through the crowd
+he took a great [[Pride|pride]] in walking stiffly through the crowd
 in the direction of the queer and rustic little omnibus
-that ran in and out between the great house and the town.
+that ran in and out between the [[Great House|great house]] and the town.
 When he climbed up the omnibus, however, he was rather surprised
 to find Mr. Douglas Murrel climbing up after him.
 
 "Mind if I share your omnibus?" asked Murrel, sinking on a
 bench beside the solitary outside passenger; for nobody else
 seemed to be travelling by the vehicle; they were sitting
-well forward in the front seats and the full blast of the night
+[[Well|well]] forward in the front seats and the full blast of the [[Night|night]]
 air came in their faces as the vehicle began to move.
 It seemed to wake Braintree out of a trance of abstraction
 and he assented rather curtly.
 
-"The truth is," said Murrel, "that I feel inclined to go and look
+"The [[Truth|truth]] is," said Murrel, "that I feel inclined to go and look
 at your coal-cellar."
 
 "You wouldn't like to be locked up in the coal-cellar,"
 said the other, still a little gruffly.
 
 "Of course, I should prefer to be locked up in the wine-cellar,"
-admitted Murrel.  "A new version of your parable of Labour.
+admitted Murrel.  "A new version of your [[Parable|parable]] of Labour.
 The vain and idle revelling above, while the dull persistent
 sound of popping corks told them that I was still below,
 toiling, labouring, never at rest. . . . But really, old man,
@@ -193,7 +193,7 @@ He knew the morbid sensitiveness of the most masculine sort of men.
 He knew his friend's almost maniacal dread of snobbery; and knew
 better than to say anything about the successes of the salon.
 To talk about Braintree as a slave in a coal-cellar was to
-steady his self-respect.
+steady his [[Self|self]]-respect.
 
 "Mostly dye-works and that sort of thing, aren't they?"
 asked Murrel, gazing at the forest of factory-chimneys,
@@ -209,14 +209,14 @@ of the soldier."
 
 "And what about the red tie of the Socialist?"
 asked Murrel reproachfully.  "Jack, I cannot believe that red
-tie of yours is freshly dipped in the blood of aristocrats.
-Anxious as I am to think well of you, I cannot think you
+tie of yours is freshly dipped in the [[Blood|blood]] of aristocrats.
+Anxious as I am to think [[Well|well]] of you, I cannot think you
 come reeking from the massacre of our old nobility.
-Besides, I always understood that the blood would be blue.
+Besides, I always understood that the [[Blood|blood]] would be blue.
 Can it be that you yourself are now a walking advertisement
 of old What's-his-name's dye-works?  Buy Our Red Ties.
 Syndicalist Gents Suited.  Mr. John Braintree,
-the Well-Known Revolutionist, Writes 'Since Using Your--'"
+the [[Well]]-Known Revolutionist, Writes 'Since Using Your--'"
 
 "Nobody knows where anything comes from nowadays, Douglas,"
 said Braintree quietly.  "That's what's called publicity and popular
@@ -248,8 +248,8 @@ The answering grunt of the person called Bill was sufficient
 to indicate that he entirely agreed that the hours of proletarian
 employment were much too long.
 
-"Well, you're all right, Bill," said Murrel.  "You're one
-of the lucky ones, especially to-night. Old Charley comes
+"[[Well]], you're all right, Bill," said Murrel.  "You're one
+of the lucky ones, especially to-[[Night|night]]. Old Charley comes
 on at the Dragon, don't he?"
 
 "Why, yes," said the driver in slow and luxuriantly scornful tones.
@@ -264,7 +264,7 @@ Show you bear no malice for Golliwog.  But I swear I only told
 you to back him for a place."
 
 "Never mind, Sir.  Never you mind about that," observed the
-benevolent Bill, in a glow of Christian forgiveness.
+benevolent Bill, in a glow of Christian [[Forgiveness|forgiveness]].
 "Never mind having a bit on; and if you lose your bit--
 why, there you are."
 
@@ -289,11 +289,11 @@ It was the Public Bar or open and honest place of drinking for the poor.
 And the moment Braintree stepped across its threshold, he knew
 he was confronted with something new; with something that he had never
 touched or tasted or seen or smelt before in all his fifteen years
-of tub-thumping. There was a good deal to be smelt as well as seen;
+of tub-thumping. There was a good deal to be smelt as [[Well|well]] as seen;
 and much that he did not feel inclined to touch, far less to taste.
 The place was very hot and densely crowded and full of a deafening
 clatter of people all talking at once.  Many of them did not seem to mind
-much whether the others were listening or talking at the same time.
+much whether the others were listening or talking at the same [[Time|time]].
 A great part of the talk was totally unintelligible to him,
 though evidently full of emphatic expressions; as if a crowd were
 swearing in Dutch or Portuguese.  Every now and then in the stream
@@ -308,22 +308,22 @@ to be something like a social circle round one small man
 who was right up against the counter; and that not so much
 because he was a talker as because he seemed to be a topic.
 Everybody was making jokes about him, as if he were the weather
-or the War Office or any recognised theme for the satiric artist.
+or the War Office or any recognised theme for the satiric [[Artist|artist]].
 Much of it was direct, as in the form "Goin'
 to get married soon, George?" or "What you done with all
 your money, George?"  Other remarks were in the third person,
 as "Old George 'e's been going out with the girls too much,"
-or "I reckon old George got lost in London," and so on.
-It was noticeable that this concentrated fire of satire was entirely
+or "I reckon old George got lost in [[London]]," and so on.
+It was noticeable that this concentrated [[Fire|fire]] of [[Satire|satire]] was entirely
 genial and friendly.  It was still more notable that old George
 himself seemed to feel no sort of annoyance or even surprise
 at his own mysteriously isolated position as a human target.
 He was a short, stolid, rather sleepy little man, who stood
-the whole time with half-closed eyes and a beatific smile,
+the whole [[Time|time]] with half-closed eyes and a beatific smile,
 as if this peculiar form of popularity were a never failing pleasure.
-His name was George Carter, and he was a small green-grocer
+His name was George Carter, and he was a small green-[[grocer]]
 in those parts.  Why he, more than another, should be supposed
-at any given moment to be in love or lost in London, the visitor
+at any given moment to be in [[Love|love]] or lost in [[London]], the visitor
 could not guess from the talk of two hours, and would probably
 never have discovered if he had listened to the talk for ten years.
 The man was simply a magnet; he had some mystical power of attracting
@@ -340,16 +340,16 @@ Meanwhile, Murrel continued to rap at intervals on the counter
 and exchange badinage with a large young woman who had
 apparently tried to make her own hair look like a wig.
 Then he fell into an interminable dispute with the man
-next him about whether some horse or other could win by some
+next him about whether some [[Horse|horse]] or other could win by some
 particular number of sections of lengths; the difference being
 apparently one of degree and not of fundamental principle.
-The debate did not advance very rapidly to any final conclusion,
+The [[debate]] did not advance very rapidly to any final conclusion,
 as it consisted mostly of the repetition of the premises
 over and over again with ever-increasing firmness.
-These two disputants were polite as well as firm; but their
+These two disputants were polite as [[Well|well]] as firm; but their
 conversation was somewhat embarrassed by the conduct of an
 immensely tall and lank and shabby man with drooping moustaches,
-who leaned across them, talking all the time, in a well-meant
+who leaned across them, talking all the [[Time|time]], in a [[Well|well]]-meant
 effort to refer the point in dispute to the gloomy Braintree.
 
 "I know a gentleman when I see him," repeated the long man
@@ -359,17 +359,17 @@ I know a gentleman when I--"
 "I'm not a gentleman," said the Syndicalist, with some bitterness.
 
 The long man tried to lean over him with vast fatherly gestures,
-like one soothing a fretful child.
+like one soothing a fretful [[Child|child]].
 
 "Now, don't you say that, sir," said the fatherly person.
 "Don't say that . . . I know a real toff when I see 'im,
 and I put it to you--"
 
 Braintree turned away with a jerk and collided with a large navvy
-covered with white dust, who apologised with admirable amiability
+covered with white [[Dust|dust]], who apologised with admirable amiability
 and then spat on the sawdust floor.
 
-That night was like a nightmare.  To John Braintree it seemed
+That [[Night|night]] was like a [[nightmare]].  To John Braintree it seemed
 to be as endless as it was meaningless, and yet wildly monotonous.
 For Murrel took his festive bus-driver on a holiday to bar
 after bar, not really drinking very much, not drinking half
@@ -378,27 +378,27 @@ of port, but drinking it to the accompaniment of endless gas
 and noise and smell and incessant interminable argument;
 argument that might truly be called interminable, in the literal
 sense that it did not seem even capable of being terminated.
-When the sixth public house resounded to booming shouts of "Time,"
+When the sixth public [[house]] resounded to booming shouts of "[[Time]],"
 and the crowds were shuffled and shunted out of it and the shutters
 put up, the indefatigable Murrel began a corresponding tour
 of coffee-stalls, with the laudable object of ensuring sobriety.
 Here he ate thick sandwiches and drank pale-brown coffee,
 still arguing with his fellow-creatures about the points
-of horses and the prospects of sporting events.  Dawn was
+of horses and the prospects of sporting events.  [[Dawn]] was
 breaking over the hills and the fringe of factory chimneys,
 when John Braintree suddenly turned to his friend and spoke
 in a tone which compelled his attention.
 
-"Douglas," he said, "you needn't act your allegory any more.
+"Douglas," he said, "you needn't act your [[Allegory|allegory]] any more.
 I always knew you were a clever fellow, and I begin to have some
 notion of how your sort have continued to manage a whole nation
-for so long; but I'm not quite a fool myself.  I know what you mean.
+for so long; but I'm not quite a [[Fool|fool]] myself.  I know what you mean.
 You haven't said it with your own tongue, but you've said it with ten
-thousand other tongues to-night. You've said, 'Yes, John Braintree,
+thousand other tongues to-[[Night|night]]. You've said, 'Yes, John Braintree,
 you can get on all right with the nobs.  It's the mobs you
 can't get on with.  You've spent an hour in the drawing-room
 and told them all about Shakespeare and the musical glasses.
-Now that you've spent a night in the poor streets, tell me--
+Now that you've spent a [[Night|night]] in the poor streets, tell me--
 which of us know the people best?'"
 
 Murrel was silent.  After a moment the other went on.
@@ -412,11 +412,11 @@ don't bear malice."
 
 "I know you don't," answered Murrel.  "Our friend in the pub
 didn't select his terms very tactfully; but there was something
-in what he said about your being a gentleman.  Well, this is,
-let us hope, the last of my practical jokes."
+in what he said about your being a gentleman.  [[Well]], this is,
+let us [[Hope|hope]], the last of my practical jokes."
 
 But he had not done with practical jokes that day; for as he came back
-through the garden of Seawood he saw something which startled him;
+through the [[Garden|garden]] of Seawood he saw something which startled him;
 the ladder from the library leaning against a tool-shed. He stopped,
 and his good-humoured face grew almost grim.
 

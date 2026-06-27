@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 3 (part 1)"
+title: "[[Villette]] — Chapter 3 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -18,14 +18,14 @@ CHAPTER III.
 THE PLAYMATES.
 
 
-Mr. Home stayed two days. During his visit he could not be prevailed on
+Mr. [[Home]] stayed two days. During his visit he could not be prevailed on
 to go out: he sat all day long by the fireside, sometimes silent,
 sometimes receiving and answering Mrs. Bretton’s chat, which was just
 of the proper sort for a man in his morbid mood—not over-sympathetic,
 yet not too uncongenial, sensible; and even with a touch of the
 motherly—she was sufficiently his senior to be permitted this touch.
 
-As to Paulina, the child was at once happy and mute, busy and watchful.
+As to [[Paulina]], the [[Child|child]] was at once happy and mute, busy and watchful.
 Her father frequently lifted her to his knee; she would sit there till
 she felt or fancied he grew restless; then it was—“Papa, put me down; I
 shall tire you with my weight.”
@@ -40,8 +40,8 @@ was stringent.
 
 The evening, by restoring Graham to the maternal roof (his days were
 passed at school), brought us an accession of animation—a quality not
-diminished by the nature of the scenes pretty sure to be enacted
-between him and Miss Paulina.
+diminished by the [[Nature|nature]] of the scenes pretty sure to be enacted
+between him and Miss [[Paulina]].
 
 A distant and haughty demeanour had been the result of the indignity
 put upon her the first evening of his arrival: her usual answer, when
@@ -53,22 +53,22 @@ think about.” Being implored to state _what_ things:
 Graham would endeavour to seduce her attention by opening his desk and
 displaying its multifarious contents: seals, bright sticks of wax,
 pen-knives, with a miscellany of engravings—some of them gaily
-coloured—which he had amassed from time to time. Nor was this powerful
-temptation wholly unavailing: her eyes, furtively raised from her work,
+coloured—which he had amassed from [[Time|time]] to [[Time|time]]. Nor was this powerful
+[[Temptation|temptation]] wholly unavailing: her eyes, furtively raised from her work,
 cast many a peep towards the writing-table, rich in scattered pictures.
-An etching of a child playing with a Blenheim spaniel happened to
+An etching of a [[Child|child]] playing with a Blenheim spaniel happened to
 flutter to the floor.
 
 “Pretty little dog!” said she, delighted.
 
 Graham prudently took no notice. Ere long, stealing from her corner,
 she approached to examine the treasure more closely. The dog’s great
-eyes and long ears, and the child’s hat and feathers, were
+eyes and long ears, and the [[Child|child]]’s hat and feathers, were
 irresistible.
 
 “Nice picture!” was her favourable criticism.
 
-“Well—you may have it,” said Graham.
+“[[Well]]—you may have it,” said Graham.
 
 She seemed to hesitate. The wish to possess was strong, but to accept
 would be a compromise of dignity. No. She put it down and turned away.
@@ -115,8 +115,8 @@ She hesitated, lingered, but complied.
 
 Polly, as she said this, looked rather faithless in her turn. Graham
 gave it. She absconded a debtor, darted to her father, and took refuge
-on his knee. Graham rose in mimic wrath and followed. She buried her
-face in Mr. Home’s waistcoat.
+on his knee. Graham [[Rose|rose]] in mimic wrath and followed. She buried her
+face in Mr. [[Home]]’s waistcoat.
 
 “Papa—papa—send him away!”
 
@@ -130,7 +130,7 @@ kisses.
 
 Graham—not failing in his way to be as wily as his little
 playmate—retreated apparently quite discomfited; he flung himself on a
-sofa, and resting his head against the cushion, lay like one in pain.
+sofa, and resting his head against the cushion, lay like one in [[Pain|pain]].
 Polly, finding him silent, presently peeped at him. His eyes and face
 were covered with his hands. She turned on her father’s knee, and gazed
 at her foe anxiously and long. Graham groaned.
@@ -141,10 +141,10 @@ at her foe anxiously and long. Graham groaned.
 
 “Is he hurt?” (groan second.)
 
-“He makes a noise as if he were,” said Mr. Home.
+“He makes a noise as if he were,” said Mr. [[Home]].
 
 “Mother,” suggested Graham, feebly, “I think you had better send for
-the doctor. Oh my eye!” (renewed silence, broken only by sighs from
+the doctor. Oh my eye!” (renewed [[Silence|silence]], broken only by sighs from
 Graham.)
 
 “If I were to become blind——?” suggested this last.
@@ -155,20 +155,20 @@ directly.
 “Let me see your eye: I did not mean to touch it, only your mouth; and
 I did not think I hit so _very_ hard.”
 
-Silence answered her. Her features worked,—“I am sorry; I am sorry!”
+[[Silence]] answered her. Her features worked,—“I am sorry; I am sorry!”
 
 Then succeeded emotion, faltering; weeping.
 
-“Have done trying that child, Graham,” said Mrs. Bretton.
+“Have done trying that [[Child|child]], Graham,” said Mrs. Bretton.
 
-“It is all nonsense, my pet,” cried Mr. Home.
+“It is all nonsense, my pet,” cried Mr. [[Home]].
 
 And Graham once more snatched her aloft, and she again punished him;
-and while she pulled his lion’s locks, termed him—“The naughtiest,
+and while she pulled his [[Lion|lion]]’s locks, termed him—“The naughtiest,
 rudest, worst, untruest person that ever was.”
 
-On the morning of Mr. Home’s departure, he and his daughter had some
-conversation in a window-recess by themselves; I heard part of it.
+On the morning of Mr. [[Home]]’s departure, he and his daughter had some
+conversation in a [[Window|window]]-recess by themselves; I heard part of it.
 
 “Couldn’t I pack my box and go with you, papa?” she whispered
 earnestly.
@@ -187,7 +187,7 @@ heart. Papa, will soon come back to his Polly.”
 
 “Indeed, indeed, I am not sad, scarcely at all.”
 
-“Polly would be sorry to give papa pain; would she not?”
+“Polly would be sorry to give papa [[Pain|pain]]; would she not?”
 
 “Sorrier than sorry.”
 

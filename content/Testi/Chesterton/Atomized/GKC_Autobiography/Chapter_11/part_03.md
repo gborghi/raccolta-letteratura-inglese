@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 11 (part 3)"
+title: "[[GKC-Autobiography]] — Chapter 11 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -19,21 +19,21 @@ But for the moment, in the particular connection under consideration,
 I will say this.  The fact that, after all these alarums and excursions,
 and as the almost inconsequent outcome of so much fuss and turmoil,
 a carved crucifix does now actually stand in the heart of the little
-town that is my home, is naturally a source of intense and somewhat
+town that is my [[Home|home]], is naturally a source of intense and somewhat
 ironic joy to me.  But, with quite undiminished sympathy and respect
 for my friends and neighbours who did actually set it up, there is
 a certain quality in the way in which it came, and the way in which it
 was accepted, that is not to me entirely acceptable.  I do not want
 the crucifix to be a compromise, or a concession to the weaker brethren,
 or a makeweight or a by-product. I want it to be a blazon and a boast.
-I want there to be no more doubt about our all glorying in it
-than there would have been in any body of old Crusaders pitting
-the Cross against the Crescent.  And if anyone wants to know my
+I want there to be no more [[Doubt|doubt]] about our all glorying in it
+than there would have been in any [[Body|body]] of old Crusaders pitting
+the [[Cross]] against the Crescent.  And if anyone wants to know my
 feelings about a point on which I touch rarely and with reluctance:
 the relation of the Church I left to the Church I joined, there is
 the answer as compact and concrete as a stone image.  I do not want
 to be in a religion in which I am allowed to have a crucifix.
-I feel the same about the much more controversial question of the honour
+I feel the same about the much more controversial question of the [[Honour|honour]]
 paid to the Blessed Virgin.  If people do not like that cult, they are
 quite right not to be Catholics.  But in people who are Catholics,
 or call themselves Catholics, I want the idea not only liked
@@ -44,7 +44,7 @@ enthusiastic about the existence of the enthusiasm; not to have my
 chief enthusiasm coldly tolerated as an eccentricity of myself.
 And that is why, with all the good will in the world, I cannot feel
 the crucifix at one end of the town as a substitute for the little
-Roman Catholic Church at the other.
+Roman [[Catholic Church]] at the other.
 
 But I have here introduced the War Memorial in connection with
 the other matter of the War.  I have purposely approached the episode
@@ -66,9 +66,9 @@ the reasons change.  If I were really a sturdy and stolid Briton,
 it would, of course, be enough for me that the fashions change.
 For that sort of sturdy Briton does not want to be consistent
 with himself; he only wants to be consistent with everybody else.
-But having what I am pleased to suppose a sort of political philosophy,
+But having what I am pleased to suppose a sort of political [[philosophy]],
 I have in many matters retained my political opinions.
-I thought in the first days of the Home Rule quarrel that Ireland
+I thought in the first days of the [[Home]] Rule quarrel that Ireland
 ought to be governed by Irish ideas.  And I still think so,
 even when my fellow Liberals have made the shocking discovery that Irish
 ideas are ordinary Christian ideas.  I thought that England's action
@@ -91,7 +91,7 @@ and one advantage is that the man can look, without division of heart
 or disturbance of mind, at the War Memorial of Beaconsfield.
 
 For the whole point at issue is really there.  The Memorial was
-set up, like the Monument after the Great Fire, to commemorate
+set up, like the Monument after the Great [[Fire]], to commemorate
 the fact that something had been saved out of the Great War.
 What was saved was Beaconsfield; just as what was saved was Britain;
 not an ideal Beaconsfield, not a perfect or perfectly
@@ -110,7 +110,7 @@ by the diplomacy and penetrated by the culture of the conqueror.
 The men whose names are written on the Beaconsfield War Memorial died
 to prevent Beaconsfield being so immediately overshadowed by Berlin
 that all its reforms would be modelled on Berlin, all its products
-used for the international purposes of Berlin, even if the King
-of Prussia were not called in so many words the Suzerain of the King
+used for the international purposes of Berlin, even if the [[King]]
+of Prussia were not called in so many words the Suzerain of the [[King]]
 of England.  They died to prevent it and they did prevent it.
 Let those who enjoy the thought insist that they died in vain.

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 21 (part 2)"
+title: "[[Persuasion]] — Chapter 21 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -24,7 +24,7 @@ hesitate to employ me.”
 
 
 
-Mrs Smith gave her a penetrating glance, and then, smiling, said—
+Mrs [[smith|Smith]] gave her a penetrating glance, and then, smiling, said—
 
 
 
@@ -50,7 +50,7 @@ imagine I am?”
 
 
 
-Mrs Smith looked at her again, looked earnestly, smiled, shook her
+Mrs [[smith|Smith]] looked at her again, looked earnestly, smiled, shook her
 
 head, and exclaimed—
 
@@ -78,7 +78,7 @@ know him better than Colonel Wallis?”
 
 
 
-“My dear Mrs Smith, Mr Elliot’s wife has not been dead much above half
+“My dear Mrs [[smith|Smith]], Mr Elliot’s wife has not been dead much above half
 
 a year. He ought not to be supposed to be paying his addresses to any
 
@@ -86,7 +86,7 @@ one.”
 
 
 
-“Oh! if these are your only objections,” cried Mrs Smith, archly, “Mr
+“Oh! if these are your only objections,” cried Mrs [[smith|Smith]], archly, “Mr
 
 Elliot is safe, and I shall give myself no more trouble about him. Do
 
@@ -100,9 +100,9 @@ engagements of his own, to avoid and get rid of as he can; very
 
 natural, perhaps. Ninety-nine out of a hundred would do the same. Of
 
-course, he cannot be aware of the importance to me. Well, my dear Miss
+course, he cannot be aware of the importance to me. [[Well]], my dear Miss
 
-Elliot, I hope and trust you will be very happy. Mr Elliot has sense to
+Elliot, I [[Hope|hope]] and trust you will be very happy. Mr Elliot has sense to
 
 understand the value of such a woman. Your peace will not be
 
@@ -124,7 +124,7 @@ any thing that has fallen within my observation, to do otherwise. But I
 
 have not known him long; and he is not a man, I think, to be known
 
-intimately soon. Will not this manner of speaking of him, Mrs Smith,
+intimately soon. Will not this manner of speaking of him, Mrs [[smith|Smith]],
 
 convince you that he is nothing to me? Surely this must be calm enough.
 
@@ -136,7 +136,7 @@ doing), I shall not accept him. I assure you I shall not. I assure you,
 
 Mr Elliot had not the share which you have been supposing, in whatever
 
-pleasure the concert of last night might afford: not Mr Elliot; it is
+pleasure the concert of last [[Night|night]] might afford: not Mr Elliot; it is
 
 not Mr Elliot that—”
 
@@ -144,7 +144,7 @@ not Mr Elliot that—”
 
 She stopped, regretting with a deep blush that she had implied so much;
 
-but less would hardly have been sufficient. Mrs Smith would hardly have
+but less would hardly have been sufficient. Mrs [[smith|Smith]] would hardly have
 
 believed so soon in Mr Elliot’s failure, but from the perception of
 
@@ -152,7 +152,7 @@ there being a somebody else. As it was, she instantly submitted, and
 
 with all the semblance of seeing nothing beyond; and Anne, eager to
 
-escape farther notice, was impatient to know why Mrs Smith should have
+escape farther notice, was impatient to know why Mrs [[smith|Smith]] should have
 
 fancied she was to marry Mr Elliot; where she could have received the
 
@@ -164,7 +164,7 @@ idea, or from whom she could have heard it.
 
 
 
-“It first came into my head,” replied Mrs Smith, “upon finding how much
+“It first came into my head,” replied Mrs [[smith|Smith]], “upon finding how much
 
 you were together, and feeling it to be the most probable thing in the
 
@@ -186,35 +186,35 @@ yesterday?”
 
 
 
-“No. Was not it Mrs Speed, as usual, or the maid? I observed no one in
+“No. Was not it Mrs [[Speed]], as usual, or the maid? I observed no one in
 
 particular.”
 
 
 
-“It was my friend Mrs Rooke; Nurse Rooke; who, by-the-bye, had a great
+“It was my friend Mrs Rooke; [[Nurse]] Rooke; who, by-the-bye, had a great
 
 curiosity to see you, and was delighted to be in the way to let you in.
 
-She came away from Marlborough Buildings only on Sunday; and she it was
+She came away from Marlborough Buildings only on [[Sunday]]; and she it was
 
 who told me you were to marry Mr Elliot. She had had it from Mrs Wallis
 
 herself, which did not seem bad authority. She sat an hour with me on
 
-Monday evening, and gave me the whole history.” “The whole history,”
+Monday evening, and gave me the whole [[history]].” “The whole [[history]],”
 
-repeated Anne, laughing. “She could not make a very long history, I
+repeated Anne, laughing. “She could not make a very long [[history]], I
 
 think, of one such little article of unfounded news.”
 
 
 
-Mrs Smith said nothing.
+Mrs [[smith|Smith]] said nothing.
 
 
 
-“But,” continued Anne, presently, “though there is no truth in my
+“But,” continued Anne, presently, “though there is no [[Truth|truth]] in my
 
 having this claim on Mr Elliot, I should be extremely happy to be of
 
@@ -258,4 +258,4 @@ have nothing to trouble you with.”
 
 
 
-“Indeed! Then do tell me what he was at that time of life. I have a
+“Indeed! Then do tell me what he was at that [[Time|time]] of life. I have a

@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 1"
+title: "[[TheCrimesOfEngland]] — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -22,9 +22,9 @@ SOME WORDS TO PROFESSOR WHIRLWIND
 
 
 
-The German Professor, his need of Education
+The German Professor, his need of [[Education]]
 
-for Debate--Three Mistakes of German
+for [[debate|Debate]]--Three Mistakes of German
 
 Controversialists--The Multiplicity of
 
@@ -32,7 +32,7 @@ Excuses--Falsehood against Experience--
 
 Kultur preached by Unkultur--The Mistake
 
-about Bernard Shaw--German Lack of
+about Bernard [[Shaw]]--German Lack of
 
 Welt-Politik--Where England is really
 

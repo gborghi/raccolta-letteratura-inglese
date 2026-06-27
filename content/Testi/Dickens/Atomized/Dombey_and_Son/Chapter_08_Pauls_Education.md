@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 12: Paul’s Education"
+title: "Dombey and Son — Chapter 12: Paul’s [[Education]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Dombey-and-Son-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
- CHAPTER XII.  Paul’s Education
+ CHAPTER XII.  Paul’s [[Education]]

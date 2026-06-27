@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 63 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 63 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,9 +15,9 @@ tags:
 
 
 ‘Come,’ said Tim, ‘let’s be a comfortable couple. We shall live in the
-old house here, where I have been for four-and-forty year; we shall go
-to the old church, where I’ve been, every Sunday morning, all through
-that time; we shall have all my old friends about us--Dick, the archway,
+old [[house]] here, where I have been for four-and-forty year; we shall go
+to the old church, where I’ve been, every [[Sunday]] morning, all through
+that [[Time|time]]; we shall have all my old friends about us--Dick, the archway,
 the pump, the flower-pots, and Mr. Frank’s children, and Mr. Nickleby’s
 children, that we shall seem like grandfather and grandmother to. Let’s
 be a comfortable couple, and take care of each other! And if we should
@@ -27,13 +27,13 @@ comfortable couple. Now, do, my dear!’
 
 Five minutes after this honest and straightforward speech, little Miss
 La Creevy and Tim were talking as pleasantly as if they had been married
-for a score of years, and had never once quarrelled all the time; and
+for a score of years, and had never once quarrelled all the [[Time|time]]; and
 five minutes after that, when Miss La Creevy had bustled out to see if
 her eyes were red and put her hair to rights, Tim moved with a stately
 step towards the drawing-room, exclaiming as he went, ‘There an’t such
-another woman in all London! I KNOW there an’t!’
+another woman in all [[London]]! I KNOW there an’t!’
 
-By this time, the apoplectic butler was nearly in fits, in consequence
+By this [[Time|time]], the apoplectic butler was nearly in fits, in consequence
 of the unheard-of postponement of dinner. Nicholas, who had been engaged
 in a manner in which every reader may imagine for himself or herself,
 was hurrying downstairs in obedience to his angry summons, when he
@@ -45,11 +45,11 @@ As he was rather lame, and walked slowly, Nicholas lingered behind, and
 was following him step by step, wondering who he was, when he suddenly
 turned round and caught him by both hands.
 
-‘Newman Noggs!’ cried Nicholas joyfully
+‘[[Newman Noggs]]!’ cried Nicholas joyfully
 
 ‘Ah! Newman, your own Newman, your own old faithful Newman! My dear boy,
 my dear Nick, I give you joy--health, happiness, every blessing! I can’t
-bear it--it’s too much, my dear boy--it makes a child of me!’
+bear it--it’s too much, my dear boy--it makes a [[Child|child]] of me!’
 
 ‘Where have you been?’ said Nicholas. ‘What have you been doing? How
 often have I inquired for you, and been told that I should hear before
@@ -66,7 +66,7 @@ reproach.
 on gentleman’s clothes. They would have reminded me of old times and
 made me miserable. I am another man now, Nick. My dear boy, I can’t
 speak. Don’t say anything to me. Don’t think the worse of me for these
-tears. You don’t know what I feel today; you can’t, and never will!’
+[[Tears|tears]]. You don’t know what I feel today; you can’t, and never will!’
 
 They walked in to dinner arm-in-arm, and sat down side by side.
 
@@ -78,7 +78,7 @@ there were so many jokes from the superannuated bank clerk, and Tim
 Linkinwater himself was in such tiptop spirits, and little Miss La
 Creevy was in such a comical state, that of themselves they would
 have composed the pleasantest party conceivable. Then, there was Mrs
-Nickleby, so grand and complacent; Madeline and Kate, so blushing and
+Nickleby, so grand and complacent; [[Madeline]] and Kate, so blushing and
 beautiful; Nicholas and Frank, so devoted and proud; and all four so
 silently and tremblingly happy; there was Newman so subdued yet
 so overjoyed, and there were the twin brothers so delighted and
@@ -92,7 +92,7 @@ the harmony and pleasure if possible increased. The brothers were in a
 perfect ecstasy; and their insisting on saluting the ladies all
 round, before they would permit them to retire, gave occasion to the
 superannuated bank clerk to say so many good things, that he quite
-outshone himself, and was looked upon as a prodigy of humour.
+outshone himself, and was looked upon as a prodigy of [[Humour|humour]].
 
 ‘Kate, my dear,’ said Mrs. Nickleby, taking her daughter aside, as soon
 as they got upstairs, ‘you don’t really mean to tell me that this is

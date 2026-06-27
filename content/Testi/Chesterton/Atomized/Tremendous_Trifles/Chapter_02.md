@@ -18,9 +18,9 @@ I
 
 Tremendous Trifles
 
-Once upon a time there were two little boys who lived chiefly
-in the front garden, because their villa was a model one.
-The front garden was about the same size as the dinner table;
+Once upon a [[Time|time]] there were two little boys who lived chiefly
+in the front [[Garden|garden]], because their villa was a model one.
+The front [[Garden|garden]] was about the same size as the dinner table;
 it consisted of four strips of gravel, a square of turf with some
 mysterious pieces of cork standing up in the middle and one flower
 bed with a row of red daisies.  One morning while they were at play
@@ -35,39 +35,39 @@ explaining that he had long wished to be a giant that he might stride
 across continents and oceans and visit Niagara or the Himalayas
 in an afternoon dinner stroll.  The milkman producing a wand from
 his breast pocket, waved it in a hurried and perfunctory manner;
-and in an instant the model villa with its front garden was like a
-tiny doll's house at Paul's colossal feet.  He went striding away
+and in an instant the model villa with its front [[Garden|garden]] was like a
+tiny doll's [[house]] at Paul's colossal feet.  He went striding away
 with his head above the clouds to visit Niagara and the Himalayas.
 But when he came to the Himalayas, he found they were quite small
-and silly-looking, like the little cork rockery in the garden; and when
+and silly-looking, like the little cork rockery in the [[Garden|garden]]; and when
 he found Niagara it was no bigger than the tap turned on in the bathroom.
 He wandered round the world for several minutes trying to find
 something really large and finding everything small, till in sheer
 boredom he lay down on four or five prairies and fell asleep.
 Unfortunately his head was just outside the hut of an intellectual
 backwoodsman who came out of it at that moment with an axe in one hand
-and a book of Neo-Catholic Philosophy in the other.  The man looked
+and a book of Neo-Catholic [[philosophy|Philosophy]] in the other.  The man looked
 at the book and then at the giant, and then at the book again.
 And in the book it said, "It can be maintained that the evil
-of pride consists in being out of proportion to the universe."
+of [[Pride|pride]] consists in being out of proportion to the universe."
 So the backwoodsman put down his book, took his axe and,
 working eight hours a day for about a week, cut the giant's head off;
 and there was an end of him.
 
-Such is the severe yet salutary history of Paul.
+Such is the severe yet salutary [[history]] of Paul.
 But Peter, oddly enough, made exactly the opposite request;
 he said he had long wished to be a pigmy about half an inch high;
 and of course he immediately became one.  When the transformation
 was over he found himself in the midst of an immense plain,
 covered with a tall green jungle and above which, at intervals,
-rose strange trees each with a head like the sun in symbolic pictures,
+[[Rose|rose]] strange trees each with a head like the sun in symbolic pictures,
 with gigantic rays of silver and a huge heart of gold.
 Toward the middle of this prairie stood up a mountain of such
 romantic and impossible shape, yet of such stony height
 and dominance, that it looked like some incident of the end
 of the world.  And far away on the faint horizon he could see
 the line of another forest, taller and yet more mystical,
-of a terrible crimson colour, like a forest on fire for ever.
+of a terrible crimson colour, like a forest on [[Fire|fire]] for ever.
 He set out on his adventures across that coloured plain;
 and he has not come to the end of it yet.
 
@@ -87,7 +87,7 @@ existence and the sacred spectacles of exaggeration.  The other
 great literary theory, that which is roughly represented in England
 by Mr. Rudyard Kipling, is that we moderns are to regain the primal zest
 by sprawling all over the world growing used to travel and geographical
-variety, being at home everywhere, that is being at home nowhere.
+variety, being at [[Home|home]] everywhere, that is being at [[Home|home]] nowhere.
 Let it be granted that a man in a frock coat is a heartrending sight;
 and the two alternative methods still remain.  Mr. Kipling's school
 advises us to go to Central Africa in order to find a man without
@@ -108,21 +108,21 @@ is myself; and made an idle diary of such odd things as I have fallen over
 by accident, in walking in a very limited area at a very indolent pace.
 If anyone says that these are very small affairs talked about in very
 big language, I can only gracefully compliment him upon seeing the joke.
-If anyone says that I am making mountains out of molehills, I confess
-with pride that it is so.  I can imagine no more successful and productive
-form of manufacture than that of making mountains out of molehills.
-But I would add this not unimportant fact, that molehills are mountains;
+If anyone says that I am making [[Mountains|mountains]] out of molehills, I confess
+with [[Pride|pride]] that it is so.  I can imagine no more successful and productive
+form of manufacture than that of making [[Mountains|mountains]] out of molehills.
+But I would add this not unimportant fact, that molehills are [[Mountains|mountains]];
 one has only to become a pigmy like Peter to discover that.
 
 I have my doubts about all this real value in mountaineering,
 in getting to the top of everything and overlooking everything.
-Satan was the most celebrated of Alpine guides, when he took
+[[Satan]] was the most celebrated of Alpine guides, when he took
 Jesus to the top of an exceeding high mountain and showed
-him all the kingdoms of the earth.  But the joy of Satan
+him all the kingdoms of the earth.  But the joy of [[Satan]]
 in standing on a peak is not a joy in largeness, but a joy in
-beholding smallness, in the fact that all men look like insects
+beholding smallness, in the fact that all men look like [[Insects|insects]]
 at his feet.  It is from the valley that things look large;
-it is from the level that things look high; I am a child
+it is from the level that things look high; I am a [[Child|child]]
 of the level and have no need of that celebrated Alpine guide.
 I will lift up my eyes to the hills, from whence cometh my help;
 but I will not lift up my carcass to the hills, unless it is
@@ -131,4 +131,4 @@ and at this moment I am in a comfortable attitude.
 I will sit still and let the marvels and the adventures settle
 on me like flies.  There are plenty of them, I assure you.
 The world will never starve for want of wonders; but only
-for want of wonder.
+for want of [[Wonder|wonder]].

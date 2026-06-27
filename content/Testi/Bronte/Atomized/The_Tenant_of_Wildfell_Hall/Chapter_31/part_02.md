@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 31 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 31 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -16,15 +16,15 @@ tags:
 
 your rest.” Those two detestable men, Grimsby and Hattersley, have
 
-destroyed all my labour against his love of wine. They encourage him
+destroyed all my labour against his [[Love|love]] of wine. They encourage him
 
 daily to overstep the bounds of moderation, and not unfrequently to
 
 disgrace himself by positive excess. I shall not soon forget the second
 
-night after their arrival. Just as I had retired from the dining-room
+[[Night|night]] after their arrival. Just as I had retired from the dining-room
 
-with the ladies, before the door was closed upon us, Arthur
+with the ladies, before the door was closed upon us, [[arthur|Arthur]]
 
 exclaimed,—“Now then, my lads, what say you to a regular
 
@@ -60,9 +60,9 @@ most ungracious air of dissatisfaction.
 
 
 
-“Well, but you might stay with them a little: it looks so silly to be
+“[[Well]], but you might stay with them a little: it looks so silly to be
 
-always dangling after the women; I wonder you can!”
+always dangling after the women; I [[Wonder|wonder]] you can!”
 
 
 
@@ -74,9 +74,9 @@ fixed his eyes upon the floor.
 
 
 
-“You did right to leave them, Lord Lowborough,” said I. “I trust you
+“You did right to leave them, [[Lord Lowborough]],” said I. “I trust you
 
-will always continue to honour us so early with your company. And if
+will always continue to [[Honour|honour]] us so early with your company. And if
 
 Annabella knew the value of true wisdom, and the misery of folly
 
@@ -96,7 +96,7 @@ manly spirit.”
 
 
 
-“Well, Annabella,” said he, in a deep and hollow tone, “since my
+“[[Well]], Annabella,” said he, in a deep and hollow tone, “since my
 
 presence is disagreeable to you, I will relieve you of it.”
 
@@ -148,7 +148,7 @@ him.”
 
 It would, indeed, be a just punishment, as far as you are concerned, if
 
-Providence should take you at your word, and make you feel what others
+[[Providence]] should take you at your word, and make you feel what others
 
 feel, that—” She paused as a sudden burst of loud talking and laughter
 
@@ -184,7 +184,7 @@ you could have got Ralph to come too.”
 
 to get away myself. Ralph attempted to keep me by violence; Huntingdon
 
-threatened me with the eternal loss of his friendship; and Grimsby,
+threatened me with the eternal loss of his [[Friendship|friendship]]; and Grimsby,
 
 worse than all, endeavoured to make me ashamed of my virtue, by such
 
@@ -198,9 +198,9 @@ turned to me and bowed as he finished the sentence.
 
 
 
-“Isn’t he _handsome_ now, Helen!” whispered Milicent, her sisterly
+“Isn’t he _handsome_ now, [[Helen]]!” whispered Milicent, her sisterly
 
-pride overcoming, for the moment, all other considerations.
+[[Pride|pride]] overcoming, for the moment, all other considerations.
 
 
 
@@ -216,15 +216,15 @@ a cup of coffee.
 
 
 
-“I consider this an apt illustration of heaven taken by storm,” said
+“I consider this an apt illustration of heaven taken by [[Storm|storm]],” said
 
 he, as I handed one to him. “I am in paradise, now; but I have fought
 
-my way through flood and fire to win it. Ralph Hattersley’s last
+my way through flood and [[Fire|fire]] to win it. Ralph Hattersley’s last
 
 resource was to set his back against the door, and swear I should find
 
-no passage but through his body (a pretty substantial one too).
+no passage but through his [[Body|body]] (a pretty substantial one too).
 
 Happily, however, that was not the only door, and I effected my escape
 
@@ -236,7 +236,7 @@ amazement of Benson, who was cleaning the plate.”
 
 Mr. Hargrave laughed, and so did his cousin; but his sister and I
 
-remained silent and grave.
+remained silent and [[Grave|grave]].
 
 
 
@@ -248,9 +248,9 @@ suffer them to affect your delicate mind too sensibly. But I thought of
 
 you in the midst of those lawless roysterers; and I endeavoured to
 
-persuade Mr. Huntingdon to think of you too; but to no purpose: I fear
+persuade Mr. Huntingdon to think of you too; but to no purpose: I [[Fear|fear]]
 
-he is fully determined to enjoy himself this night; and it will be no
+he is fully determined to enjoy himself this [[Night|night]]; and it will be no
 
 use keeping the coffee waiting for him or his companions; it will be
 

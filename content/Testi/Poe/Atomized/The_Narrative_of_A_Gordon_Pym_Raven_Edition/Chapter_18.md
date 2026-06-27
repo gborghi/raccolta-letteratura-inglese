@@ -26,13 +26,13 @@ CHAPTER 18
 
       the air tolerably warm and from the northeast, the temperature of
 
-      the water fifty-three. We now again got our sounding-gear in
+      the [[Water|water]] fifty-three. We now again got our sounding-gear in
 
       order, and, with a hundred and fifty fathoms of line, found the
 
       current setting toward the pole at the rate of a mile an hour.
 
-      This constant tendency to the southward, both in the wind and
+      This constant tendency to the southward, both in the [[Wind|wind]] and
 
       current, caused some degree of speculation, and even of alarm, in
 
@@ -58,7 +58,7 @@ CHAPTER 18
 
       armed with long claws of a brilliant scarlet, and resembling
 
-      coral in substance. The body was covered with a straight silky
+      coral in substance. The [[Body|body]] was covered with a straight silky
 
       hair, perfectly white. The tail was peaked like that of a rat,
 
@@ -80,29 +80,29 @@ CHAPTER 18
 
       scrutiny, found it to be one of a group of very large islands.
 
-      The shore was precipitous, and the interior seemed to be well
+      The shore was precipitous, and the interior seemed to be [[Well|well]]
 
       wooded, a circumstance which occasioned us great joy. In about
 
       four hours from our first discovering the land we came to anchor
 
-      in ten fathoms, sandy bottom, a league from the coast, as a high
+      in ten fathoms, sandy [[Bottom|bottom]], a league from the coast, as a high
 
       surf, with strong ripples here and there, rendered a nearer
 
       approach of doubtful expediency. The two largest boats were now
 
-      ordered out, and a party, well armed (among whom were Peters and
+      ordered out, and a party, [[Well|well]] armed (among whom were Peters and
 
       myself), proceeded to look for an opening in the reef which
 
       appeared to encircle the island. After searching about for some
 
-      time, we discovered an inlet, which we were entering, when we saw
+      [[Time|time]], we discovered an inlet, which we were entering, when we saw
 
       four large canoes put off from the shore, filled with men who
 
-      seemed to be well armed. We waited for them to come up, and, as
+      seemed to be [[Well|well]] armed. We waited for them to come up, and, as
 
       they moved with great rapidity, they were soon within hail.
 
@@ -130,7 +130,7 @@ CHAPTER 18
 
       thick and long woolly hair. They were clothed in skins of an
 
-      unknown black animal, shaggy and silky, and made to fit the body
+      unknown black animal, shaggy and silky, and made to fit the [[Body|body]]
 
       with some degree of skill, the hair being inside, except where
 
@@ -166,7 +166,7 @@ CHAPTER 18
 
       on board the largest of our boats, and seated himself by the side
 
-      of Captain Guy, pointing at the same time to the schooner, and
+      of Captain Guy, pointing at the same [[Time|time]] to the schooner, and
 
       repeating the word Anamoo-moo! and Lama-Lama! We now put back to
 
@@ -190,7 +190,7 @@ CHAPTER 18
 
       Too-wit) to understand that we could admit no more than twenty of
 
-      his men on deck at one time. With this arrangement he appeared
+      his men on deck at one [[Time|time]]. With this arrangement he appeared
 
       perfectly satisfied, and gave some directions to the canoes, when
 
@@ -200,7 +200,7 @@ CHAPTER 18
 
       over every part of the deck, and scramble about among the
 
-      rigging, making themselves much at home, and examining every
+      rigging, making themselves much at [[Home|home]], and examining every
 
       article with great inquisitiveness.
 
@@ -238,7 +238,7 @@ CHAPTER 18
 
 
 
-      When the visitors had satisfied, as well as they could, their
+      When the visitors had satisfied, as [[Well|well]] as they could, their
 
       curiosity in regard to our upper works, they were admitted below,
 
@@ -246,7 +246,7 @@ CHAPTER 18
 
       appeared to be far too deep for words, for they roamed about in
 
-      silence, broken only by low ejaculations. The arms afforded them
+      [[Silence|silence]], broken only by low ejaculations. The arms afforded them
 
       much food for speculation, and they were suffered to handle and
 
@@ -258,7 +258,7 @@ CHAPTER 18
 
       watched their movements while handling them. At the great guns
 
-      their wonder was redoubled. They approached them with every mark
+      their [[Wonder|wonder]] was redoubled. They approached them with every mark
 
       of the profoundest reverence and awe, but forbore to examine them
 
@@ -270,15 +270,15 @@ CHAPTER 18
 
       one and his back to the other, before he fairly perceived them.
 
-      Upon raising his eyes and seeing his reflected self in the glass,
+      Upon raising his eyes and seeing his reflected [[Self|self]] in the glass,
 
       I thought the savage would go mad; but, upon turning short round
 
-      to make a retreat, and beholding himself a second time in the
+      to make a retreat, and beholding himself a second [[Time|time]] in the
 
       opposite direction, I was afraid he would expire upon the spot.
 
-      No persuasion could prevail upon him to take another look;
+      No [[Persuasion|persuasion]] could prevail upon him to take another look;
 
       throwing himself upon the floor, with his face buried in his
 
@@ -290,7 +290,7 @@ CHAPTER 18
 
       The whole of the savages were admitted on board in this manner,
 
-      twenty at a time, Too-wit being suffered to remain during the
+      twenty at a [[Time|time]], Too-wit being suffered to remain during the
 
       entire period. We saw no disposition to thievery among them, nor
 
@@ -324,7 +324,7 @@ CHAPTER 18
 
       in regard to the latitude—induced Captain Guy to wish for a
 
-      thorough investigation of the country, in the hope of making a
+      thorough investigation of the country, in the [[Hope|hope]] of making a
 
       profitable speculation in his discovery. For my own part, anxious
 
@@ -338,7 +338,7 @@ CHAPTER 18
 
       parallel, with an open sea before us, a current setting strongly
 
-      to the southward, and the wind fair, I could not listen with any
+      to the southward, and the [[Wind|wind]] fair, I could not listen with any
 
       patience to a proposition of stopping longer than was absolutely
 
@@ -348,7 +348,7 @@ CHAPTER 18
 
       captain that we might easily make this group on our return, and
 
-      winter here in the event of being blocked up by the ice. He at
+      [[Winter|winter]] here in the event of being blocked up by the ice. He at
 
       length came into my views (for in some way, hardly known to
 
@@ -368,9 +368,9 @@ CHAPTER 18
 
       on the southeastern coast of the main island, and in ten fathoms
 
-      of water, black sandy bottom. At the head of this bay there were
+      of [[Water|water]], black sandy [[Bottom|bottom]]. At the head of this bay there were
 
-      three fine springs (we were told) of good water, and we saw
+      three fine springs (we were told) of good [[Water|water]], and we saw
 
       abundance of wood in the vicinity. The four canoes followed us
 
@@ -384,7 +384,7 @@ CHAPTER 18
 
       as hostages, a party of us, twelve in all, got in readiness to
 
-      attend the chief. We took care to be well armed, yet without
+      attend the chief. We took care to be [[Well|well]] armed, yet without
 
       evincing any distrust. The schooner had her guns run out, her
 
@@ -412,7 +412,7 @@ CHAPTER 18
 
       altogether unlike those of the lower southern latitudes we had
 
-      already traversed. The very rocks were novel in their mass, their
+      already traversed. The very rocks were [[Novel|novel]] in their mass, their
 
       color, and their stratification; and the streams themselves,
 
@@ -422,37 +422,37 @@ CHAPTER 18
 
       and, indeed, had difficulty in bringing ourselves to believe that
 
-      their qualities were purely those of nature. At a small brook
+      their qualities were purely those of [[Nature|nature]]. At a small brook
 
       which crossed our path (the first we had reached) Too-wit and his
 
       attendants halted to drink. On account of the singular character
 
-      of the water, we refused to taste it, supposing it to be
+      of the [[Water|water]], we refused to taste it, supposing it to be
 
-      polluted; and it was not until some time afterward we came to
+      polluted; and it was not until some [[Time|time]] afterward we came to
 
       understand that such was the appearance of the streams throughout
 
       the whole group. I am at a loss to give a distinct idea of the
 
-      nature of this liquid, and cannot do so without many words.
+      [[Nature|nature]] of this liquid, and cannot do so without many words.
 
       Although it flowed with rapidity in all declivities where common
 
-      water would do so, yet never, except when falling in a cascade,
+      [[Water|water]] would do so, yet never, except when falling in a cascade,
 
       had it the customary appearance of limpidity. It was,
 
       nevertheless, in point of fact, as perfectly limpid as any
 
-      limestone water in existence, the difference being only in
+      limestone [[Water|water]] in existence, the difference being only in
 
       appearance. At first sight, and especially in cases where little
 
       declivity was found, it bore resemblance, as regards consistency,
 
-      to a thick infusion of gum arabic in common water. But this was
+      to a thick infusion of gum arabic in common [[Water|water]]. But this was
 
       only the least remarkable of its extraordinary qualities. It was
 
@@ -464,7 +464,7 @@ CHAPTER 18
 
       produced in a manner which excited as profound astonishment in
 
-      the minds of our party as the mirror had done in the case of
+      the minds of our party as the [[Mirror|mirror]] had done in the case of
 
       Too-wit. Upon collecting a basinful, and allowing it to settle
 
@@ -478,7 +478,7 @@ CHAPTER 18
 
       imperfect in regard to neighbouring veins. Upon passing the blade
 
-      of a knife athwart the veins, the water closed over it
+      of a knife athwart the veins, the [[Water|water]] closed over it
 
       immediately, as with us, and also, in withdrawing it, all traces
 
@@ -488,7 +488,7 @@ CHAPTER 18
 
       veins, a perfect separation was effected, which the power of
 
-      cohesion did not immediately rectify. The phenomena of this water
+      cohesion did not immediately rectify. The phenomena of this [[Water|water]]
 
       formed the first definite link in that vast chain of apparent
 

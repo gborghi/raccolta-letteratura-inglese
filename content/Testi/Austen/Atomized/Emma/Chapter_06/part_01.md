@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 6 (part 1)"
+title: "[[Emma]] — Chapter 6 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -17,25 +17,25 @@ tags:
 CHAPTER VI
 
 
-Emma could not feel a doubt of having given Harriet’s fancy a proper
-direction and raised the gratitude of her young vanity to a very good
+[[Emma]] could not feel a [[Doubt|doubt]] of having given Harriet’s fancy a proper
+direction and raised the gratitude of her young [[Vanity|vanity]] to a very good
 purpose, for she found her decidedly more sensible than before of Mr.
 Elton’s being a remarkably handsome man, with most agreeable manners;
 and as she had no hesitation in following up the assurance of his
 admiration by agreeable hints, she was soon pretty confident of
 creating as much liking on Harriet’s side, as there could be any
 occasion for. She was quite convinced of Mr. Elton’s being in the
-fairest way of falling in love, if not in love already. She had no
+fairest way of falling in [[Love|love]], if not in [[Love|love]] already. She had no
 scruple with regard to him. He talked of Harriet, and praised her so
 warmly, that she could not suppose any thing wanting which a little
-time would not add. His perception of the striking improvement of
+[[Time|time]] would not add. His perception of the striking improvement of
 Harriet’s manner, since her introduction at Hartfield, was not one of
 the least agreeable proofs of his growing attachment.
 
-“You have given Miss Smith all that she required,” said he; “you have
+“You have given Miss [[smith|Smith]] all that she required,” said he; “you have
 made her graceful and easy. She was a beautiful creature when she came
 to you, but, in my opinion, the attractions you have added are
-infinitely superior to what she received from nature.”
+infinitely superior to what she received from [[Nature|nature]].”
 
 “I am glad you think I have been useful to her; but Harriet only wanted
 drawing out, and receiving a few, very few hints. She had all the
@@ -54,8 +54,8 @@ decision of character! Skilful has been the hand!”
 “Great has been the pleasure, I am sure. I never met with a disposition
 more truly amiable.”
 
-“I have no doubt of it.” And it was spoken with a sort of sighing
-animation, which had a vast deal of the lover. She was not less pleased
+“I have no [[Doubt|doubt]] of it.” And it was spoken with a sort of sighing
+animation, which had a vast deal of the [[Lover|lover]]. She was not less pleased
 another day with the manner in which he seconded a sudden wish of hers,
 to have Harriet’s picture.
 
@@ -67,7 +67,7 @@ with a very interesting naïveté,
 
 “Oh! dear, no, never.”
 
-No sooner was she out of sight, than Emma exclaimed,
+No sooner was she out of sight, than [[Emma]] exclaimed,
 
 “What an exquisite possession a good picture of her would be! I would
 give any money for it. I almost long to attempt her likeness myself.
@@ -82,23 +82,23 @@ picture!”
 Let me entreat you, Miss Woodhouse, to exercise so charming a talent in
 favour of your friend. I know what your drawings are. How could you
 suppose me ignorant? Is not this room rich in specimens of your
-landscapes and flowers; and has not Mrs. Weston some inimitable
+landscapes and [[Flowers|flowers]]; and has not Mrs. Weston some inimitable
 figure-pieces in her drawing-room, at Randalls?”
 
-Yes, good man!—thought Emma—but what has all that to do with taking
+Yes, good man!—thought [[Emma]]—but what has all that to do with taking
 likenesses? You know nothing of drawing. Don’t pretend to be in
-raptures about mine. Keep your raptures for Harriet’s face. “Well, if
+raptures about mine. Keep your raptures for Harriet’s face. “[[Well]], if
 you give me such kind encouragement, Mr. Elton, I believe I shall try
 what I can do. Harriet’s features are very delicate, which makes a
 likeness difficult; and yet there is a peculiarity in the shape of the
 eye and the lines about the mouth which one ought to catch.”
 
 “Exactly so—The shape of the eye and the lines about the mouth—I have
-not a doubt of your success. Pray, pray attempt it. As you will do it,
+not a [[Doubt|doubt]] of your [[success]]. Pray, pray attempt it. As you will do it,
 it will indeed, to use your own words, be an exquisite possession.”
 
 “But I am afraid, Mr. Elton, Harriet will not like to sit. She thinks
-so little of her own beauty. Did not you observe her manner of
+so little of her own [[Beauty|beauty]]. Did not you observe her manner of
 answering me? How completely it meant, ‘why should my picture be
 drawn?’”
 
@@ -107,19 +107,19 @@ I cannot imagine she would not be persuaded.”
 
 Harriet was soon back again, and the proposal almost immediately made;
 and she had no scruples which could stand many minutes against the
-earnest pressing of both the others. Emma wished to go to work
+earnest pressing of both the others. [[Emma]] wished to go to work
 directly, and therefore produced the portfolio containing her various
 attempts at portraits, for not one of them had ever been finished, that
 they might decide together on the best size for Harriet. Her many
 beginnings were displayed. Miniatures, half-lengths, whole-lengths,
-pencil, crayon, and water-colours had been all tried in turn. She had
+pencil, crayon, and [[Water|water]]-colours had been all tried in turn. She had
 always wanted to do every thing, and had made more progress both in
 drawing and music than many might have done with so little labour as
 she would ever submit to. She played and sang;—and drew in almost every
 style; but steadiness had always been wanting; and in nothing had she
 approached the degree of excellence which she would have been glad to
 command, and ought not to have failed of. She was not much deceived as
-to her own skill either as an artist or a musician, but she was not
+to her own skill either as an [[artist]] or a musician, but she was not
 unwilling to have others deceived, or sorry to know her reputation for
 accomplishment often higher than it deserved.
 
@@ -127,10 +127,10 @@ There was merit in every drawing—in the least finished, perhaps the
 most; her style was spirited; but had there been much less, or had
 there been ten times more, the delight and admiration of her two
 companions would have been the same. They were both in ecstasies. A
-likeness pleases every body; and Miss Woodhouse’s performances must be
+likeness pleases every [[Body|body]]; and Miss Woodhouse’s performances must be
 capital.
 
-“No great variety of faces for you,” said Emma. “I had only my own
+“No great variety of faces for you,” said [[Emma]]. “I had only my own
 family to study from. There is my father—another of my father—but the
 idea of sitting for his picture made him so nervous, that I could only
 take him by stealth; neither of them very like therefore. Mrs. Weston
@@ -147,11 +147,11 @@ drawn that I could not refuse; but there is no making children of three
 or four years old stand still you know; nor can it be very easy to take
 any likeness of them, beyond the air and complexion, unless they are
 coarser featured than any of mama’s children ever were. Here is my
-sketch of the fourth, who was a baby. I took him as he was sleeping on
+[[Sketch|sketch]] of the fourth, who was a baby. I took him as he was sleeping on
 the sofa, and it is as strong a likeness of his cockade as you would
 wish to see. He had nestled down his head most conveniently. That’s
 very like. I am rather proud of little George. The corner of the sofa
-is very good. Then here is my last,”—unclosing a pretty sketch of a
+is very good. Then here is my last,”—unclosing a pretty [[Sketch|sketch]] of a
 gentleman in small size, whole-length—“my last and my best—my brother,
 Mr. John Knightley.—This did not want much of being finished, when I
 put it away in a pet, and vowed I would never take another likeness. I
@@ -159,12 +159,12 @@ could not help being provoked; for after all my pains, and when I had
 really made a very good likeness of it—(Mrs. Weston and I were quite
 agreed in thinking it _very_ like)—only too handsome—too flattering—but
 that was a fault on the right side”—after all this, came poor dear
-Isabella’s cold approbation of—“Yes, it was a little like—but to be
+[[Isabella]]’s cold approbation of—“Yes, it was a little like—but to be
 sure it did not do him justice. We had had a great deal of trouble in
 persuading him to sit at all. It was made a great favour of; and
 altogether it was more than I could bear; and so I never would finish
 it, to have it apologised over as an unfavourable likeness, to every
 morning visitor in Brunswick Square;—and, as I said, I did then
-forswear ever drawing any body again. But for Harriet’s sake, or rather
+forswear ever drawing any [[Body|body]] again. But for Harriet’s sake, or rather
 for my own, and as there are no husbands and wives in the case _at_
 _present_, I will break my resolution now.”

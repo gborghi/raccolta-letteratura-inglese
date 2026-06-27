@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 20 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 20 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ ingratiate himself with my aunt I cannot tell, but, if so, he certainly
 
 should have behaved better. I must confess, I did not like his conduct
 
-during service at all. Holding his prayer-book upside down, or open at
+during service at all. Holding his [[Prayer|prayer]]-book upside down, or open at
 
 any place but the right, he did nothing but stare about him, unless he
 
@@ -32,7 +32,7 @@ been ludicrous, if it had not been too provoking. Once, during the
 
 sermon, after attentively regarding Mr. Leighton for a few minutes, he
 
-suddenly produced his gold pencil-case and snatched up a Bible.
+suddenly produced his gold pencil-case and snatched up a [[Bible]].
 
 Perceiving that I observed the movement, he whispered that he was going
 
@@ -76,13 +76,13 @@ thoroughly made up my mind on the subject.
 
 “Very good!” cried he. “Now that’s a good honest answer—wonderful for a
 
-girl!—Well, I’ll write to your father to-morrow. He’s sure to give his
+girl!—[[Well]], I’ll write to your father to-morrow. He’s sure to give his
 
 consent; so you may look on the matter as settled. You’d have done a
 
 deal better if you’d taken Wilmot, I can tell you; but that you won’t
 
-believe. At your time of life, it’s love that rules the roast: at mine,
+believe. At your [[Time|time]] of life, it’s [[Love|love]] that rules the roast: at mine,
 
 it’s solid, serviceable gold. I suppose now, you’d never dream of
 
@@ -96,9 +96,9 @@ head about settlements, or anything of that sort?”
 
 
 
-“Well, be thankful, then, that you’ve wiser heads to think for you. I
+“[[Well]], be thankful, then, that you’ve wiser heads to think for you. I
 
-haven’t had time, yet, to examine thoroughly into this young rascal’s
+haven’t had [[Time|time]], yet, to examine thoroughly into this young rascal’s
 
 affairs, but I see that a great part of his father’s fine property has
 
@@ -110,7 +110,7 @@ it yet; and then we must persuade your father to give you a decent
 
 fortune, as he has only one besides yourself to care for;—and, if you
 
-behave well, who knows but what I may be induced to remember you in my
+behave [[Well|well]], who knows but what I may be induced to remember you in my
 
 will!” continued he, putting his fingers to his nose, with a knowing
 
@@ -122,7 +122,7 @@ wink.
 
 
 
-“Well, and I questioned this young spark on the matter of settlements,”
+“[[Well]], and I questioned this young spark on the matter of settlements,”
 
 continued he; “and he seemed disposed to be generous enough on that
 
@@ -140,7 +140,7 @@ make my exit, but he called me back.
 
 
 
-“Stop, stop!” cried he; “we haven’t mentioned the time yet. When must
+“Stop, stop!” cried he; “we haven’t mentioned the [[Time|time]] yet. When must
 
 it be? Your aunt would put it off till the Lord knows when, but he is
 
@@ -158,7 +158,7 @@ Christmas, at least.”
 
 “Oh! pooh, pooh! never tell me that tale—I know better,” cried he; and
 
-he persisted in his incredulity. Nevertheless, it is quite true. I am
+he persisted in his [[Incredulity|incredulity]]. Nevertheless, it is quite true. I am
 
 in no hurry at all. How can I be, when I think of the momentous change
 
@@ -166,7 +166,7 @@ that awaits me, and of all I have to leave? It is happiness enough to
 
 know that we _are_ to be united; and that he really loves me, and I may
 
-love _him_ as devotedly, and think of him as often as I please.
+[[Love|love]] _him_ as devotedly, and think of him as often as I please.
 
 However, I insisted upon consulting my aunt about the _time_ of the
 

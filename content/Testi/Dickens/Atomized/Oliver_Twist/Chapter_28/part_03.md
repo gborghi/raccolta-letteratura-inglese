@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 28 (part 3)"
+title: "[[Oliver Twist]] — Chapter 28 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 “—Heerd a noise,” continued Mr. Giles. “I says, at first, ‘This is
-illusion’; and was composing myself off to sleep, when I heerd the
+illusion’; and was composing myself off to [[Sleep|sleep]], when I heerd the
 noise again, distinct.”
 
 “What sort of a noise?” asked the cook.
@@ -26,14 +26,14 @@ noise again, distinct.”
 suggested Brittles.
 
 “It was, when _you_ heerd it, sir,” rejoined Mr. Giles; “but, at this
-time, it had a busting sound. I turned down the clothes”; continued
-Giles, rolling back the table-cloth, “sat up in bed; and listened.”
+[[Time|time]], it had a busting sound. I turned down the clothes”; continued
+Giles, [[rolling]] back the table-cloth, “sat up in bed; and listened.”
 
 The cook and housemaid simultaneously ejaculated “Lor!” and drew their
 chairs closer together.
 
 “I heerd it now, quite apparent,” resumed Mr. Giles. “‘Somebody,’ I
-says, ‘is forcing of a door, or window; what’s to be done? I’ll call up
+says, ‘is forcing of a door, or [[Window|window]]; what’s to be done? I’ll call up
 that poor lad, Brittles, and save him from being murdered in his bed;
 or his throat,’ I says, ‘may be cut from his right ear to his left,
 without his ever knowing it.’”
@@ -49,7 +49,7 @@ bed; drew on a pair of—”
 “Ladies present, Mr. Giles,” murmured the tinker.
 
 “—Of _shoes_, sir,” said Giles, turning upon him, and laying great
-emphasis on the word; “seized the loaded pistol that always goes
+emphasis on the word; “seized the loaded [[Pistol|pistol]] that always goes
 upstairs with the plate-basket; and walked on tiptoes to his room.
 ‘Brittles,’ I says, when I had woke him, ‘don’t be frightened!’”
 
@@ -83,7 +83,7 @@ door, somebody.”
 
 Nobody moved.
 
-“It seems a strange sort of a thing, a knock coming at such a time in
+“It seems a strange sort of a thing, a knock coming at such a [[Time|time]] in
 the morning,” said Mr. Giles, surveying the pale faces which surrounded
 him, and looking very blank himself; “but the door must be opened. Do
 you hear, somebody?”
@@ -96,26 +96,26 @@ tinker; but he had suddenly fallen asleep. The women were out of the
 question.
 
 “If Brittles would rather open the door, in the presence of witnesses,”
-said Mr. Giles, after a short silence, “I am ready to make one.”
+said Mr. Giles, after a short [[Silence|silence]], “I am ready to make one.”
 
 “So am I,” said the tinker, waking up, as suddenly as he had fallen
 asleep.
 
 Brittles capitulated on these terms; and the party being somewhat
 re-assured by the discovery (made on throwing open the shutters) that
-it was now broad day, took their way upstairs; with the dogs in front.
+it was now broad day, took their way upstairs; with the [[dogs]] in front.
 The two women, who were afraid to stay below, brought up the rear. By
 the advice of Mr. Giles, they all talked very loud, to warn any
 evil-disposed person outside, that they were strong in numbers; and by
 a master-stoke of policy, originating in the brain of the same
-ingenious gentleman, the dogs’ tails were well pinched, in the hall, to
+ingenious gentleman, the [[dogs]]’ tails were [[Well|well]] pinched, in the hall, to
 make them bark savagely.
 
 These precautions having been taken, Mr. Giles held on fast by the
 tinker’s arm (to prevent his running away, as he pleasantly said), and
 gave the word of command to open the door. Brittles obeyed; the group,
 peeping timorously over each other’s shoulders, beheld no more
-formidable object than poor little Oliver Twist, speechless and
+formidable object than poor little [[Oliver Twist]], speechless and
 exhausted, who raised his heavy eyes, and mutely solicited their
 compassion.
 
@@ -123,7 +123,7 @@ compassion.
 background. “What’s the matter with the—eh?—Why—Brittles—look
 here—don’t you know?”
 
-Brittles, who had got behind the door to open it, no sooner saw Oliver,
+Brittles, who had got behind the door to open it, no sooner saw [[Oliver]],
 than he uttered a loud cry. Mr. Giles, seizing the boy by one leg and
 one arm (fortunately not the broken limb) lugged him straight into the
 hall, and deposited him at full length on the floor thereof.
@@ -137,7 +137,7 @@ his mouth, so that his voice might travel the better.
 
 The two women-servants ran upstairs to carry the intelligence that Mr.
 Giles had captured a robber; and the tinker busied himself in
-endeavouring to restore Oliver, lest he should die before he could be
+endeavouring to restore [[Oliver]], lest he should die before he could be
 hanged. In the midst of all this noise and commotion, there was heard a
 sweet female voice, which quelled it in an instant.
 
@@ -164,17 +164,17 @@ With a footstep as soft and gentle as the voice, the speaker tripped
 away. She soon returned, with the direction that the wounded person was
 to be carried, carefully, upstairs to Mr. Giles’s room; and that
 Brittles was to saddle the pony and betake himself instantly to
-Chertsey: from which place, he was to despatch, with all speed, a
+Chertsey: from which place, he was to despatch, with all [[Speed|speed]], a
 constable and doctor.
 
 “But won’t you take one look at him, first, miss?” asked Mr. Giles,
-with as much pride as if Oliver were some bird of rare plumage, that he
+with as much [[Pride|pride]] as if [[Oliver]] were some bird of rare plumage, that he
 had skilfully brought down. “Not one little peep, miss?”
 
 “Not now, for the world,” replied the young lady. “Poor fellow! Oh!
 treat him kindly, Giles for my sake!”
 
 The old servant looked up at the speaker, as she turned away, with a
-glance as proud and admiring as if she had been his own child. Then,
-bending over Oliver, he helped to carry him upstairs, with the care and
+glance as proud and admiring as if she had been his own [[Child|child]]. Then,
+bending over [[Oliver]], he helped to carry him upstairs, with the care and
 solicitude of a woman.

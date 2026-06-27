@@ -25,9 +25,9 @@ unlike a Dombey?”
 Miss Tox looked as if she saw no way out of such a cogent argument as
 that, at all.
 
-“And the child, you see,” said Mrs Chick, in deep confidence, “has poor
-dear Fanny’s nature. She’ll never make an effort in after-life, I’ll
-venture to say. Never! She’ll never wind and twine herself about her
+“And the [[Child|child]], you see,” said Mrs Chick, in deep confidence, “has poor
+dear Fanny’s [[Nature|nature]]. She’ll never make an effort in after-life, I’ll
+venture to say. Never! She’ll never [[Wind|wind]] and twine herself about her
 Papa’s heart like—”
 
 “Like the ivy?” suggested Miss Tox.
@@ -50,7 +50,7 @@ from it. Yet how I loved her!”
 What a satisfaction it was to Mrs Chick—a common-place piece of folly
 enough, compared with whom her sister-in-law had been a very angel of
 womanly intelligence and gentleness—to patronise and be tender to the
-memory of that lady: in exact pursuance of her conduct to her in her
+[[Memory|memory]] of that lady: in exact pursuance of her conduct to her in her
 lifetime: and to thoroughly believe herself, and take herself in, and
 make herself uncommonly comfortable on the strength of her toleration!
 What a mighty pleasant virtue toleration should be when we are right,
@@ -60,25 +60,25 @@ it!
 
 Mrs Chick was yet drying her eyes and shaking her head, when Richards
 made bold to caution her that Miss Florence was awake and sitting in
-her bed. She had risen, as the nurse said, and the lashes of her eyes
-were wet with tears. But no one saw them glistening save Polly. No one
+her bed. She had risen, as the [[Nurse|nurse]] said, and the lashes of her eyes
+were wet with [[Tears|tears]]. But no one saw them glistening save Polly. No one
 else leant over her, and whispered soothing words to her, or was near
 enough to hear the flutter of her beating heart.
 
-“Oh! dear nurse!” said the child, looking earnestly up in her face,
+“Oh! dear [[Nurse|nurse]]!” said the [[Child|child]], looking earnestly up in her face,
 “let me lie by my brother!”
 
 “Why, my pet?” said Richards.
 
-“Oh! I think he loves me,” cried the child wildly. “Let me lie by him.
+“Oh! I think he loves me,” cried the [[Child|child]] wildly. “Let me lie by him.
 Pray do!”
 
-Mrs Chick interposed with some motherly words about going to sleep like
+Mrs Chick interposed with some motherly words about going to [[Sleep|sleep]] like
 a dear, but Florence repeated her supplication, with a frightened look,
-and in a voice broken by sobs and tears.
+and in a voice broken by sobs and [[Tears|tears]].
 
 “I’ll not wake him,” she said, covering her face and hanging down her
-head. “I’ll only touch him with my hand, and go to sleep. Oh, pray,
+head. “I’ll only touch him with my hand, and go to [[Sleep|sleep]]. Oh, pray,
 pray, let me lie by my brother tonight, for I believe he’s fond of
 me!”
 
@@ -94,16 +94,16 @@ motionless.
 Dreaming, perhaps, of loving tones for ever silent, of loving eyes for
 ever closed, of loving arms again wound round her, and relaxing in that
 dream within the dam which no tongue can relate. Seeking, perhaps—in
-dreams—some natural comfort for a heart, deeply and sorely wounded,
-though so young a child’s: and finding it, perhaps, in dreams, if not
-in waking, cold, substantial truth. This trivial incident had so
+[[Dreams|dreams]]—some natural comfort for a heart, deeply and sorely wounded,
+though so young a [[Child|child]]’s: and finding it, perhaps, in [[Dreams|dreams]], if not
+in waking, cold, substantial [[Truth|truth]]. This trivial incident had so
 interrupted the current of conversation, that it was difficult of
 resumption; and Mrs Chick moreover had been so affected by the
-contemplation of her own tolerant nature, that she was not in spirits.
+contemplation of her own tolerant [[Nature|nature]], that she was not in spirits.
 The two friends accordingly soon made an end of their tea, and a
 servant was despatched to fetch a hackney cabriolet for Miss Tox. Miss
 Tox had great experience in hackney cabs, and her starting in one was
-generally a work of time, as she was systematic in the preparatory
+generally a work of [[Time|time]], as she was systematic in the preparatory
 arrangements.
 
 “Have the goodness, if you please, Towlinson,” said Miss Tox, “first of
@@ -137,7 +137,7 @@ it was done to another man, who died.”
 
 “Certainly, Miss,” said Towlinson.
 
-“And now good-night to my sweet, sweet, sweet, godson,” said Miss Tox,
+“And now good-[[Night|night]] to my sweet, sweet, sweet, godson,” said Miss Tox,
 with a soft shower of kisses at each repetition of the adjective; “and
 Louisa, my dear friend, promise me to take a little something warm
 before you go to bed, and not to distress yourself!”

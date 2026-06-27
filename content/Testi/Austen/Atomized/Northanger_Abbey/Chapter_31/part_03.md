@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 30 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 30 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Eleanor, perceiving nothing in her situation likely to engage their
+[[Eleanor]], perceiving nothing in her situation likely to engage their
 
 father’s particular respect, had seen with astonishment the suddenness,
 
@@ -38,9 +38,9 @@ and who, under the influence of exactly opposite feelings, irritated by
 
 Catherine’s refusal, and yet more by the failure of a very recent
 
-endeavour to accomplish a reconciliation between Morland and Isabella,
+endeavour to accomplish a [[Reconciliation|reconciliation]] between Morland and [[Isabella]],
 
-convinced that they were separated forever, and spurning a friendship
+convinced that they were separated forever, and spurning a [[Friendship|friendship]]
 
 which could be no longer serviceable, hastened to contradict all that
 
@@ -54,7 +54,7 @@ father a man of substance and credit, whereas the transactions of the
 
 two or three last weeks proved him to be neither; for after coming
 
-eagerly forward on the first overture of a marriage between the
+eagerly forward on the first overture of a [[Marriage|marriage]] between the
 
 families, with the most liberal proposals, he had, on being brought to
 
@@ -92,7 +92,7 @@ next day for the abbey, where his performances have been seen.
 
 I leave it to my reader’s sagacity to determine how much of all this it
 
-was possible for Henry to communicate at this time to Catherine, how
+was possible for Henry to communicate at this [[Time|time]] to Catherine, how
 
 much of it he could have learnt from his father, in what points his own
 
@@ -102,7 +102,7 @@ told in a letter from James. I have united for their ease what they
 
 must divide for mine. Catherine, at any rate, heard enough to feel that
 
-in suspecting General Tilney of either murdering or shutting up his
+in suspecting [[General Tilney]] of either murdering or shutting up his
 
 wife, she had scarcely sinned against his character, or magnified his
 
@@ -126,17 +126,17 @@ them, had been open and bold. The General, accustomed on every ordinary
 
 occasion to give the law in his family, prepared for no reluctance but
 
-of feeling, no opposing desire that should dare to clothe itself in
+of feeling, no opposing [[Desire|desire]] that should dare to clothe itself in
 
 words, could ill brook the opposition of his son, steady as the
 
-sanction of reason and the dictate of conscience could make it. But, in
+sanction of reason and the dictate of [[Conscience|conscience]] could make it. But, in
 
 such a cause, his anger, though it must shock, could not intimidate
 
 Henry, who was sustained in his purpose by a conviction of its justice.
 
-He felt himself bound as much in honour as in affection to Miss
+He felt himself bound as much in [[Honour|honour]] as in affection to Miss
 
 Morland, and believing that heart to be his own which he had been
 
@@ -160,6 +160,6 @@ disagreement. Henry, in an agitation of mind which many solitary hours
 
 were required to compose, had returned almost instantly to Woodston,
 
-and, on the afternoon of the following day, had begun his journey to
+and, on the afternoon of the following day, had begun his [[Journey|journey]] to
 
 Fullerton.

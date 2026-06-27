@@ -1,5 +1,5 @@
 ---
-title: "The Purloined Letter (part 5)"
+title: "[[The Purloined Letter]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Purloined-Letter-(Poe)"
@@ -19,14 +19,14 @@ tags:
       Minister I believe has written learnedly on the Differential
       Calculus. He is a mathematician, and no poet.”
 
-      “You are mistaken; I know him well; he is both. As poet and
-      mathematician, he would reason well; as mere mathematician, he
+      “You are mistaken; I know him [[Well|well]]; he is both. As poet and
+      mathematician, he would reason [[Well|well]]; as mere mathematician, he
       could not have reasoned at all, and thus would have been at the
-      mercy of the Prefect.”
+      [[Mercy|mercy]] of the Prefect.”
 
       “You surprise me,” I said, “by these opinions, which have been
       contradicted by the voice of the world. You do not mean to set at
-      naught the well-digested idea of centuries. The mathematical
+      naught the [[Well|well]]-digested idea of centuries. The mathematical
       reason has long been regarded as the reason par excellence.”
 
       “‘Il y a à parièr,’” replied Dupin, quoting from Chamfort, “‘que
@@ -34,28 +34,28 @@ tags:
       elle a convenue au plus grand nombre.’ The mathematicians, I
       grant you, have done their best to promulgate the popular error
       to which you allude, and which is none the less an error for its
-      promulgation as truth. With an art worthy a better cause, for
+      promulgation as [[Truth|truth]]. With an art worthy a better cause, for
       example, they have insinuated the term ‘analysis’ into
       application to algebra. The French are the originators of this
-      particular deception; but if a term is of any importance—if words
+      particular [[Deception|deception]]; but if a term is of any importance—if words
       derive any value from applicability—then ‘analysis’ conveys
       ‘algebra’ about as much as, in Latin, ‘ambitus’ implies
-      ‘ambition,’ ‘_religio_’ ‘religion,’ or ‘_homines honesti_’ a set
+      ‘[[Ambition|ambition]],’ ‘_religio_’ ‘religion,’ or ‘_homines honesti_’ a set
       of _honorable_ men.”
 
       “You have a quarrel on hand, I see,” said I, “with some of the
-      algebraists of Paris; but proceed.”
+      algebraists of [[Paris]]; but proceed.”
 
       “I dispute the availability, and thus the value, of that reason
       which is cultivated in any especial form other than the
       abstractly logical. I dispute, in particular, the reason educed
       by mathematical study. The mathematics are the science of form
-      and quantity; mathematical reasoning is merely logic applied to
+      and quantity; mathematical reasoning is merely [[logic]] applied to
       observation upon form and quantity. The great error lies in
       supposing that even the truths of what is called pure algebra,
       are abstract or general truths. And this error is so egregious
       that I am confounded at the universality with which it has been
-      received. Mathematical axioms are not axioms of general truth.
+      received. Mathematical axioms are not axioms of general [[Truth|truth]].
       What is true of relation—of form and quantity—is often grossly
       false in regard to morals, for example. In this latter science it
       is very usually untrue that the aggregated parts are equal to the
@@ -72,16 +72,16 @@ tags:
       ourselves continually, and make inferences from them as existing
       realities.’ With the algebraists, however, who are Pagans
       themselves, the ‘Pagan fables’ are believed, and the inferences
-      are made, not so much through lapse of memory, as through an
+      are made, not so much through lapse of [[Memory|memory]], as through an
       unaccountable addling of the brains. In short, I never yet
       encountered the mere mathematician who could be trusted out of
       equal roots, or one who did not clandestinely hold it as a point
-      of his faith that x2+px was absolutely and unconditionally equal
+      of his [[Faith|faith]] that x2+px was absolutely and unconditionally equal
       to q. Say to one of these gentlemen, by way of experiment, if you
       please, that you believe occasions may occur where x2+px is not
       altogether equal to q, and, having made him understand what you
       mean, get out of his reach as speedily as convenient, for, beyond
-      doubt, he will endeavor to knock you down.
+      [[Doubt|doubt]], he will endeavor to knock you down.
 
       “I mean to say,” continued Dupin, while I merely laughed at his
       last observations, “that if the Minister had been no more than a
@@ -95,8 +95,8 @@ tags:
       events have proved that he did not fail to anticipate—the
       waylayings to which he was subjected. He must have foreseen, I
       reflected, the secret investigations of his premises. His
-      frequent absences from home at night, which were hailed by the
-      Prefect as certain aids to his success, I regarded only as ruses,
+      frequent absences from [[Home|home]] at [[Night|night]], which were hailed by the
+      Prefect as certain aids to his [[success]], I regarded only as ruses,
       to afford opportunity for thorough search to the police, and thus
       the sooner to impress them with the conviction to which G——, in
       fact, did finally arrive—the conviction that the letter was not
@@ -115,4 +115,4 @@ tags:
       choice. You will remember, perhaps, how desperately the Prefect
       laughed when I suggested, upon our first interview, that it was
       just possible this mystery troubled him so much on account of its
-      being so very self-evident.”
+      being so very [[Self|self]]-evident.”

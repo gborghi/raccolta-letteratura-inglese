@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 45)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 45)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -24,27 +24,27 @@ but of whether lying and swindling are wrong. But I never denied that
 
 there might need to be exceptional sacrifices for exceptional occasions;
 
-and war is in its nature an exception. Only, if war is the exception,
+and war is in its [[Nature|nature]] an exception. Only, if war is the exception,
 
 why should Prohibition be the rule? If the surrender of beer is worthy
 
-to be compared to the shedding of blood, why then blood ought to be
+to be compared to the shedding of [[Blood|blood]], why then [[Blood|blood]] ought to be
 
 flowing for ever like a fountain in the public squares of Philadelphia
 
-and New York. If my critic wants to complete his parallel, he must draw
+and [[New York]]. If my critic wants to complete his parallel, he must draw
 
 up rather a remarkable programme for the daily life of the ordinary
 
 citizens. He must suppose that, through all their lives, they are
 
-paraded every day at lunch time and prodded with bayonets to show that
+paraded every day at lunch [[Time|time]] and prodded with bayonets to show that
 
-they will shed their blood for their country. He must suppose that every
+they will shed their [[Blood|blood]] for their country. He must suppose that every
 
-evening, after a light repast of poison gas and shrapnel, they are made
+evening, after a light repast of [[Poison|poison]] gas and shrapnel, they are made
 
-to go to sleep in a trench under a permanent drizzle of shell-fire. It
+to go to [[Sleep|sleep]] in a trench under a permanent drizzle of shell-[[Fire|fire]]. It
 
 is surely obvious that if this were the normal life of the citizen, the
 
@@ -62,19 +62,19 @@ citizen must be subject to control in such bodily things is like saying
 
 that every Christian ought to tear himself with red-hot pincers because
 
-the Christian martyrs did their duty in time of persecution. A man has a
+the Christian martyrs did their duty in [[Time|time]] of persecution. A man has a
 
-right to control his body, though in a time of martyrdom he may give his
+right to control his [[Body|body]], though in a [[Time|time]] of [[Martyrdom|martyrdom]] he may give his
 
-body to be burned; and a man has a right to control his bodily health,
+[[Body|body]] to be burned; and a man has a right to control his bodily health,
 
-though in a state of siege he may give his body to be starved. Thus,
+though in a state of siege he may give his [[Body|body]] to be starved. Thus,
 
 though the patriotic defence was a sincere defence, it is a defence that
 
 comes back on the defenders like a boomerang. For it proves only that
 
-Prohibition ought to be ephemeral, unless war ought to be eternal.
+Prohibition ought to be [[ephemeral]], unless war ought to be eternal.
 
 
 
@@ -112,7 +112,7 @@ indeed I wish I had more space here to do justice to the Red Indians.
 
 They did heroic service in the war; and more than justified their
 
-glorious place in the day-dreams and nightmares of our boyhood. But the
+glorious place in the day-[[Dreams|dreams]] and nightmares of our boyhood. But the
 
 negro problem certainly demands more study than a sight-seer could give
 
@@ -124,17 +124,17 @@ who shoots at sight. But I believe that it was always common ground to
 
 people of common sense that the enslavement and importation of negroes
 
-had been the crime and catastrophe of American history. The only
+had been the crime and catastrophe of American [[history]]. The only
 
 difference was originally that one side thought that, the crime once
 
-committed, the only reparation was their freedom; while the other
+committed, the only reparation was their [[Freedom|freedom]]; while the other
 
 thought that, the crime once committed, the only safety was their
 
-slavery. It was only comparatively lately, by a process I shall have to
+[[Slavery|slavery]]. It was only comparatively lately, by a process I shall have to
 
-indicate elsewhere, that anything like a positive case for slavery
+indicate elsewhere, that anything like a positive case for [[Slavery|slavery]]
 
 became possible. Now among the many problems of the presence of an alien
 
@@ -148,15 +148,15 @@ alleged to have a peculiarly demoralising effect upon negroes in the
 
 United States; to call up the passions that are the particular
 
-temptation of the race and to lead to appalling outrages that are
+[[Temptation|temptation]] of the race and to lead to appalling outrages that are
 
 followed by appalling popular vengeance. However this may be, many of
 
-the states of the American Union, which first forbade liquor to
+the states of the American [[Union]], which first forbade liquor to
 
 citizens, meant simply to forbid it to negroes. But they had not the
 
-moral courage to deny that negroes are citizens. About all their
+moral [[Courage|courage]] to deny that negroes are citizens. About all their
 
 political expedients necessarily hung the load that hangs so heavy on
 
@@ -176,7 +176,7 @@ the comparison illustrates the idiocy of supposing that the moral sense
 
 of mankind will ever support the prohibition of drinking as if it were
 
-something like the prohibition of shooting. Shooting in America is
+something like the prohibition of shooting. Shooting in [[America]] is
 
 liable to take a free form, and sometimes a very horrible form; as when
 

@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-Let us hope there is (indeed, can there be any doubt there is?) this
+Let us [[Hope|hope]] there is (indeed, can there be any [[Doubt|doubt]] there is?) this
 great unconscious and abysmic second will also running through the
-average nationality and career of America. Let us hope that, amid all
+average nationality and career of [[America]]. Let us [[Hope|hope]] that, amid all
 the dangers and defections of the present, and through all the processes
-of the conscious will, it alone is the permanent and sovereign force,
+of the conscious will, it [[Alone|alone]] is the permanent and sovereign force,
 destined to carry on the New World to fulfil its destinies in the
 future--to resolutely pursue those destinies, age upon age; to build,
 far, far beyond its past vision, present thought; to form and fashion,
@@ -28,14 +28,14 @@ with all varieties, a friendly, happy, free, religious nationality--a
 nationality not only the richest, most inventive, most productive and
 materialistic the world has yet known, but compacted indissolubly, and
 out of whose ample and solid bulk, and giving purpose and finish to it,
-conscience, morals, and all the spiritual attributes, shall surely rise,
+[[Conscience|conscience]], morals, and all the spiritual attributes, shall surely rise,
 like spires above some group of edifices, firm-footed on the earth, yet
 scaling space and heaven.
 
 Great as they are, and greater far to be, the United States, too, are
 but a series of steps in the eternal process of creative thought. And
 here is, to my mind, their final justification, and certain perpetuity.
-There is in that sublime process, in the laws of the universe--and,
+There is in that [[Sublime|sublime]] process, in the laws of the universe--and,
 above all, in the moral law--something that would make unsatisfactory,
 and even vain and contemptible, all the triumphs of war, the gains of
 peace, and the proudest worldly grandeur of all the nations that
@@ -50,20 +50,20 @@ that, emerging in the light of the modern and the splendor of science,
 and solidly based on the past, it is to cheerfully range itself, and its
 politics are henceforth to come, under those universal laws, and embody
 them, and carry them out, to serve them. And as only that individual
-becomes truly great who understands well that, while complete in himself
+becomes truly great who understands [[Well|well]] that, while complete in himself
 in a certain sense, he is but a part of the divine, eternal scheme, and
 whose special life and laws are adjusted to move in harmonious relations
-with the general laws of Nature, and especially with the moral law, the
+with the general laws of [[Nature]], and especially with the moral law, the
 deepest and highest of all, and the last vitality of man or state--so
 the United States may only become the greatest and the most continuous,
-by understanding well their harmonious relations with entire humanity
-and history, and all their laws and progress, sublimed with the creative
-thought of Deity, through all time, past, present, and future. Thus will
+by understanding [[Well|well]] their harmonious relations with entire humanity
+and [[history]], and all their laws and progress, sublimed with the creative
+thought of Deity, through all [[Time|time]], past, present, and future. Thus will
 they expand to the amplitude of their destiny, and become illustrations
 and culminating parts of the kosmos, and of civilization.
 
 No more considering the States as an incident, or series of incidents,
-however vast, coming accidentally along the path of time, and shaped
+however vast, coming accidentally along the path of [[Time|time]], and shaped
 by casual emergencies as they happen to arise, and the mere result of
 modern improvements, vulgar and lucky, ahead of other nations and times,
 I would finally plant, as seeds, these thoughts or speculations in the
@@ -72,7 +72,7 @@ of all the past--that here, too, as in all departments of the universe,
 regular laws (slow and sure in planting, slow and sure in ripening) have
 controll'd and govern'd, and will yet control and govern; and that those
 laws can no more be baffled or steer'd clear of, or vitiated, by chance,
-or any fortune or opposition, than the laws of winter and summer, or
+or any fortune or opposition, than the laws of [[Winter|winter]] and [[Summer|summer]], or
 darkness and light.
 
 The summing up of the tremendous moral and military perturbations of
@@ -84,8 +84,8 @@ humanity, and in main sort the representative of them, leading the van,
 leading the fleet of the modern and democratic, on the seas and voyages
 of the future.
 
-And the real history of the United States--starting from that great
-convulsive struggle for unity, the secession war, triumphantly
+And the real [[history]] of the United States--starting from that great
+convulsive struggle for [[unity]], the secession war, triumphantly
 concluded, and _the South_ victorious after all--is only to be written
 at the remove of hundreds, perhaps a thousand, years hence.
 
@@ -99,20 +99,20 @@ A MEMORANDUM AT A VENTURE
 enough."--_J. F. Millet._
 
 "The candor of science is the glory of the modern. It does not hide
-and repress; it confronts, turns on the light. It alone has perfect
-faith--faith not in a part only, but all. Does it not undermine the old
-religious standards? Yes, in God's truth, by excluding the devil from
+and repress; it confronts, turns on the light. It [[Alone|alone]] has perfect
+[[Faith|faith]]--[[Faith|faith]] not in a part only, but all. Does it not undermine the old
+religious standards? Yes, in God's [[Truth|truth]], by excluding the devil from
 the theory of the universe--by showing that evil is not a law in itself,
 but a sickness, a perversion of the good, and the other side of the
 good--that in fact all of humanity, and of everything, is divine in its
 bases, its eligibilities."
 
 Shall the mention of such topics as I have briefly but plainly and
-resolutely broach'd in the "Children of Adam" section of "Leaves of
+resolutely broach'd in the "Children of Adam" section of "[[Leaves]] of
 Grass" be admitted in poetry and literature? Ought not the innovation
 to be put down by opinion and criticism? and, if those fail, by the
 District Attorney? True, I could not construct a poem which declaredly
-took, as never before, the complete human identity, physical, moral,
+took, as never before, the complete human [[Identity|identity]], physical, moral,
 emotional, and intellectual, (giving precedence and compass in a certain
 sense to the first,) nor fulfil that _bona fide_ candor and entirety
 of treatment which was a part of my purpose, without comprehending this

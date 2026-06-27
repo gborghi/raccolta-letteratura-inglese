@@ -34,7 +34,7 @@ CHAPTER 4
 
       risk of having the secret of the trap discovered. When at length
 
-      he did come, I had assured him that I was doing as well as
+      he did come, I had assured him that I was doing as [[Well|well]] as
 
       possible; and, therefore, for the two next days he felt but
 
@@ -68,7 +68,7 @@ CHAPTER 4
 
       watch, and the seventh since I had first entered the hold. He
 
-      then went down without taking with him any water or provisions,
+      then went down without taking with him any [[Water|water]] or provisions,
 
       intending in the first place merely to call my attention, and get
 
@@ -98,7 +98,7 @@ CHAPTER 4
 
       long period during which the brig had been used as a whaling
 
-      vessel, I am more inclined to wonder that I awoke at all, after
+      vessel, I am more inclined to [[Wonder|wonder]] that I awoke at all, after
 
       once falling asleep, than that I should have slept
 
@@ -114,7 +114,7 @@ CHAPTER 4
 
       continued to snore. He was now at a loss what to do. It would
 
-      take him some time to make his way through the lumber to my box,
+      take him some [[Time|time]] to make his way through the lumber to my box,
 
       and in the meanwhile his absence would be noticed by Captain
 
@@ -128,7 +128,7 @@ CHAPTER 4
 
       induced to this resolve, as my slumber appeared to be of the most
 
-      tranquil nature, and he could not suppose that I had undergone
+      tranquil [[Nature|nature]], and he could not suppose that I had undergone
 
       any inconvenience from my incarceration. He had just made up his
 
@@ -140,7 +140,7 @@ CHAPTER 4
 
       it, and threw open the door of his stateroom. No sooner had he
 
-      put his foot over the threshold than a pistol flashed in his
+      put his foot over the threshold than a [[Pistol|pistol]] flashed in his
 
       face, and he was knocked down, at the same moment, by a blow from
 
@@ -156,7 +156,7 @@ CHAPTER 4
 
       the steps of the companion-way, with his head down, and a deep
 
-      wound in the forehead, from which the blood was flowing in a
+      wound in the forehead, from which the [[Blood|blood]] was flowing in a
 
       continued stream. He spoke not a word, and was apparently dying.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 14 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -26,7 +26,7 @@ hour afterward we perceived the little headsail we carried flapping
 
 listlessly against the mast. In two minutes more, in spite of every
 
-preparation, we were hurled on our beam-ends as if by magic, and a
+preparation, we were hurled on our beam-ends as if by [[Magic|magic]], and a
 
 perfect wilderness of foam made a clear breach over us as we lay. The
 
@@ -34,7 +34,7 @@ blow from the southwest, however, luckily proved to be nothing more
 
 than a squall, and we had the good fortune to right the vessel without
 
-the loss of a spar. A heavy cross sea gave us great trouble for a few
+the loss of a spar. A heavy [[Cross|cross]] sea gave us great trouble for a few
 
 hours after this, but towards morning we found ourselves in nearly as
 
@@ -56,21 +56,21 @@ eighteenth we made Kerguelen's or Desolation Island, in the Southern
 
 Indian Ocean, and came to anchor in Christmas Harbour, having four
 
-fathoms of water.
+fathoms of [[Water|water]].
 
 
 
 This island, or rather group of islands, bears southeast from the Cape
 
-of Good Hope, and is distant therefrom nearly eight hundred leagues. It
+of Good [[Hope]], and is distant therefrom nearly eight hundred leagues. It
 
 was first discovered in 1772, by the Baron de Kergulen, or Kerguelen, a
 
 Frenchman, who, thinking the land to form a portion of an extensive
 
-southern continent, carried home information to that effect, which
+southern continent, carried [[Home|home]] information to that effect, which
 
-produced much excitement at the time. The government, taking the matter
+produced much excitement at the [[Time|time]]. The [[government]], taking the matter
 
 up, sent the baron back in the following year for the purpose of giving
 
@@ -80,7 +80,7 @@ discovered. In 1777, Captain Cook fell in with the same group, and gave
 
 to the principal one the name of Desolation Island, a title which it
 
-certainly well deserves. Upon approaching the land, however, the
+certainly [[Well|well]] deserves. Upon approaching the land, however, the
 
 navigator might be induced to suppose otherwise, as the sides of most
 
@@ -102,7 +102,7 @@ cabbage shooting into seed, and which has a bitter and acrid taste.
 
 The face of the country is hilly, although none of the hills can be
 
-called lofty. Their tops are perpetually covered with snow. There are
+called lofty. Their tops are perpetually covered with [[Snow|snow]]. There are
 
 several harbours, of which Christmas Harbour is the most convenient. It
 
@@ -126,13 +126,13 @@ to Wasp Bay, at the head of the harbour. This is a small basin,
 
 completely landlocked, into which you can go with four fathoms, and
 
-find anchorage in from ten to three, hard clay bottom. A ship might lie
+find anchorage in from ten to three, hard clay [[Bottom|bottom]]. A [[Ship|ship]] might lie
 
 here with her best bower ahead all the year round without risk. To the
 
 westward, at the head of Wasp Bay, is a small stream of excellent
 
-water, easily procured.
+[[Water|water]], easily procured.
 
 
 
@@ -144,23 +144,23 @@ discovered in great numbers. Penguins are very plenty, and of these
 
 there are four different kinds. The royal penguin, so called from its
 
-size and beautiful plumage, is the largest. The upper part of the body
+size and beautiful plumage, is the largest. The upper part of the [[Body|body]]
 
 is usually gray, sometimes of a lilach tint; the under portion of the
 
 purest white imaginable. The head is of a glossy and most brilliant
 
-black, the feet also. The chief beauty of the plumage, however,
+black, the feet also. The chief [[Beauty|beauty]] of the plumage, however,
 
 consists in two broad stripes of a gold colour, which pass along from
 
 the head to the breast. The bill is long, and either pink or bright
 
-scarlet. These birds walk erect, with a stately carriage. They carry
+scarlet. These [[Birds|birds]] walk erect, with a stately carriage. They carry
 
 their heads high, with their wings drooping like two arms, and, as
 
-their tails project from their body in a line with the legs, the
+their tails project from their [[Body|body]] in a line with the legs, the
 
 resemblance to a human figure is very striking, and would be apt to
 
@@ -176,7 +176,7 @@ beautiful in plumage, and different in other respects.
 
 
 
-Besides the penguin many other birds are here to be found, among which
+Besides the penguin many other [[Birds|birds]] are here to be found, among which
 
 may be mentioned seahens, blue peterels, teal, ducks, Port Egmont hens,
 
@@ -196,7 +196,7 @@ peterel. They are not at all shy, and, when properly cooked, are
 
 palatable food. In flying they sometimes sail very close to the surface
 
-of the water, with the wings expanded, without appearing to move them
+of the [[Water|water]], with the wings expanded, without appearing to move them
 
 in the least degree, or make any exertion with them whatever.
 
@@ -204,4 +204,4 @@ in the least degree, or make any exertion with them whatever.
 
 The albatross is one of the largest and fiercest of the South Sea
 
-birds. It is of the gull species, and takes its prey on the wing, never
+[[Birds|birds]]. It is of the gull species, and takes its prey on the wing, never

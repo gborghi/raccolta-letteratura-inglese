@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 28 (part 3)"
+title: "[[Shirley]] — Chapter 28 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,11 +16,11 @@ tags:
 
 rest of my life--and my life will not be long, I am glad of that
 
-now--shall be a straight, quick, thoughtful journey in the path her step
+now--shall be a straight, quick, thoughtful [[Journey|journey]] in the path her step
 
 has pressed. I thought to enter the vault of the Keeldars before her.
 
-Should it be otherwise, lay my coffin by Shirley's side."
+Should it be otherwise, lay my coffin by [[Shirley]]'s side."
 
 
 
@@ -48,7 +48,7 @@ What more did she say? Anything more?"
 
 
 
-"But, Mr. Moore, you smile. _I_ could not smile to see Shirley in such a
+"But, Mr. Moore, you smile. _I_ could not smile to see [[Shirley]] in such a
 
 mood."
 
@@ -72,17 +72,17 @@ matters."
 
 
 
-"Well?"
+"[[Well]]?"
 
 
 
-"Well, sir, that if I lived to inherit my father's estate, and her
+"[[Well]], sir, that if I lived to inherit my father's estate, and her
 
-house, I was to take the name of Keeldar, and to make Fieldhead my
+[[house]], I was to take the name of Keeldar, and to make Fieldhead my
 
-residence. Henry Shirley Keeldar I said I would be called; and I will.
+residence. Henry [[Shirley Keeldar]] I said I would be called; and I will.
 
-Her name and her manor house are ages old, and Sympson and Sympson Grove
+Her name and her manor [[house]] are ages old, and Sympson and Sympson Grove
 
 are of yesterday."
 
@@ -98,7 +98,7 @@ into words."
 
 
 
-"That Shirley thinks she is going to die."
+"That [[Shirley]] thinks she is going to die."
 
 
 
@@ -124,7 +124,7 @@ Amazon, and yet lifting her head above both help and sympathy."
 
 
 
-"Do you know where she is now, Henry? Is she in the house, or riding
+"Do you know where she is now, Henry? Is she in the [[house]], or riding
 
 out?"
 
@@ -208,7 +208,7 @@ lessons."
 
 
 
-He departed. Mr. Moore, left alone, rose from his desk.
+He departed. Mr. Moore, left [[Alone|alone]], [[Rose|rose]] from his desk.
 
 
 
@@ -228,7 +228,7 @@ tyranny, when my tongue faltered, and I have almost let the mantle drop,
 
 and stood in her presence, not master--no--but something else. I trust I
 
-shall never so play the fool. It is well for a Sir Philip Nunnely to
+shall never so play the [[Fool|fool]]. It is [[Well|well]] for a Sir Philip Nunnely to
 
 redden when he meets her eye. He may permit himself the indulgence of
 
@@ -238,7 +238,7 @@ when it touches hers; but if one of her farmers were to show himself
 
 susceptible and sentimental, he would merely prove his need of a strait
 
-waistcoat. So far I have always done very well. She has sat near me, and
+waistcoat. So far I have always done very [[Well|well]]. She has sat near me, and
 
 I have not shaken--more than my desk. I have encountered her looks and
 
@@ -248,7 +248,7 @@ touched--never underwent that test. Her farmer or her footman I am
 
 not--no serf nor servant of hers have I ever been; but I am poor, and it
 
-behoves me to look to my self-respect--not to compromise an inch of it.
+behoves me to look to my [[Self|self]]-respect--not to compromise an inch of it.
 
 What did she mean by that allusion to the cold people who petrify flesh
 
@@ -258,13 +258,13 @@ to inquire. I never do indulge in scrutiny either of her language or
 
 countenance; for if I did, I should sometimes forget common sense and
 
-believe in romance. A strange, secret ecstasy steals through my veins at
+believe in [[Romance|romance]]. A strange, secret ecstasy steals through my veins at
 
 moments. I'll not encourage--I'll not remember it. I am resolved, as
 
 long as may be, to retain the right to say with Paul, 'I am not mad, but
 
-speak forth the words of truth and soberness.'"
+speak forth the words of [[Truth|truth]] and soberness.'"
 
 
 
@@ -274,12 +274,12 @@ He paused, listening.
 
 "Will she come, or will she not come?" he inquired. "How will she take
 
-the message? Naïvely or disdainfully? Like a child or like a queen? Both
+the message? Naïvely or disdainfully? Like a [[Child|child]] or like a [[Queen|queen]]? Both
 
-characters are in her nature.
+characters are in her [[Nature|nature]].
 
 
 
 "If she comes, what shall I say to her? How account, firstly, for the
 
-freedom of the request? Shall I apologize to her? I could in all
+[[Freedom|freedom]] of the request? Shall I apologize to her? I could in all

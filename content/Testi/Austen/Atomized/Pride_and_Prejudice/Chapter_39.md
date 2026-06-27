@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 39"
+title: "[[Pride and Prejudice]] — Chapter 39"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -35,23 +35,23 @@ out with such cold meat as an inn larder usually affords, exclaiming,
 “And we mean to treat you all,” added Lydia; “but you must lend us the
 money, for we have just spent ours at the shop out there.” Then showing
 her purchases,--“Look here, I have bought this bonnet. I do not think it
-is very pretty; but I thought I might as well buy it as not. I shall
-pull it to pieces as soon as I get home, and see if I can make it up any
+is very pretty; but I thought I might as [[Well|well]] buy it as not. I shall
+pull it to pieces as soon as I get [[Home|home]], and see if I can make it up any
 better.”
 
 And when her sisters abused it as ugly, she added, with perfect
 unconcern, “Oh, but there were two or three much uglier in the shop; and
 when I have bought some prettier-coloured satin to trim it with fresh, I
 think it will be very tolerable. Besides, it will not much signify what
-one wears this summer, after the ----shire have left Meryton, and they
+one wears this [[Summer|summer]], after the ----shire have left Meryton, and they
 are going in a fortnight.”
 
 “Are they, indeed?” cried Elizabeth, with the greatest satisfaction.
 
 “They are going to be encamped near Brighton; and I do so want papa to
-take us all there for the summer! It would be such a delicious scheme,
+take us all there for the [[Summer|summer]]! It would be such a delicious scheme,
 and I dare say would hardly cost anything at all. Mamma would like to
-go, too, of all things! Only think what a miserable summer else we shall
+go, too, of all things! Only think what a miserable [[Summer|summer]] else we shall
 have!”
 
 “Yes,” thought Elizabeth; “_that_ would be a delightful scheme, indeed,
@@ -69,17 +69,17 @@ need not stay. Lydia laughed, and said,--
 “Ay, that is just like your formality and discretion. You thought the
 waiter must not hear, as if he cared! I dare say he often hears worse
 things said than I am going to say. But he is an ugly fellow! I am glad
-he is gone. I never saw such a long chin in my life. Well, but now for
+he is gone. I never saw such a long chin in my life. [[Well]], but now for
 my news: it is about dear Wickham; too good for the waiter, is not it?
-There is no danger of Wickham’s marrying Mary King--there’s for you! She
+There is no danger of Wickham’s marrying Mary [[King]]--there’s for you! She
 is gone down to her uncle at Liverpool; gone to stay. Wickham is safe.”
 
-“And Mary King is safe!” added Elizabeth; “safe from a connection
+“And Mary [[King]] is safe!” added Elizabeth; “safe from a connection
 imprudent as to fortune.”
 
-“She is a great fool for going away, if she liked him.”
+“She is a great [[Fool|fool]] for going away, if she liked him.”
 
-“But I hope there is no strong attachment on either side,” said Jane.
+“But I [[Hope|hope]] there is no strong attachment on either side,” said Jane.
 
 “I am sure there is not on _his_. I will answer for it, he never cared
 three straws about her. Who _could_ about such a nasty little freckled
@@ -96,9 +96,9 @@ boxes, workbags, and parcels, and the unwelcome addition of Kitty’s and
 Lydia’s purchases, were seated in it.
 
 “How nicely we are crammed in!” cried Lydia. “I am glad I brought my
-bonnet, if it is only for the fun of having another band-box! Well, now
+bonnet, if it is only for the fun of having another band-box! [[Well]], now
 let us be quite comfortable and snug, and talk and laugh all the way
-home. And in the first place, let us hear what has happened to you all
+[[Home|home]]. And in the first place, let us hear what has happened to you all
 since you went away. Have you seen any pleasant men? Have you had any
 flirting? I was in great hopes that one of you would have got a husband
 before you came back. Jane will be quite an old maid soon, I declare.
@@ -109,14 +109,14 @@ Collins; but _I_ do not think there would have been any fun in it. Lord!
 how I should like to be married before any of you! and then I would
 _chaperon_ you about to all the balls. Dear me! we had such a good piece
 of fun the other day at Colonel Forster’s! Kitty and me were to spend
-the day there, and Mrs. Forster promised to have a little dance in the
+the day there, and Mrs. Forster promised to have a little [[Dance|dance]] in the
 evening; (by-the-bye, Mrs. Forster and me are _such_ friends!) and so
 she asked the two Harringtons to come: but Harriet was ill, and so Pen
 was forced to come by herself; and then, what do you think we did? We
 dressed up Chamberlayne in woman’s clothes, on purpose to pass for a
-lady,--only think what fun! Not a soul knew of it, but Colonel and Mrs.
+lady,--only think what fun! Not a [[Soul|soul]] knew of it, but Colonel and Mrs.
 Forster, and Kitty and me, except my aunt, for we were forced to borrow
-one of her gowns; and you cannot imagine how well he looked! When Denny,
+one of her gowns; and you cannot imagine how [[Well|well]] he looked! When Denny,
 and Wickham, and Pratt, and two or three more of the men came in, they
 did not know him in the least. Lord! how I laughed! and so did Mrs.
 Forster. I thought I should have died. And _that_ made the men suspect
@@ -127,15 +127,15 @@ assisted by Kitty’s hints and additions, endeavour to amuse her
 companions all the way to Longbourn. Elizabeth listened as little as she
 could, but there was no escaping the frequent mention of Wickham’s name.
 
-Their reception at home was most kind. Mrs. Bennet rejoiced to see Jane
-in undiminished beauty; and more than once during dinner did Mr. Bennet
+Their reception at [[Home|home]] was most kind. Mrs. Bennet rejoiced to see Jane
+in undiminished [[Beauty|beauty]]; and more than once during dinner did Mr. Bennet
 say voluntarily to Elizabeth,----
 
 “I am glad you are come back, Lizzy.”
 
 Their party in the dining-room was large, for almost all the Lucases
-came to meet Maria and hear the news; and various were the subjects
-which occupied them: Lady Lucas was inquiring of Maria, across the
+came to meet [[Maria]] and hear the news; and various were the subjects
+which occupied them: Lady Lucas was inquiring of [[Maria]], across the
 table, after the welfare and poultry of her eldest daughter; Mrs. Bennet
 was doubly engaged, on one hand collecting an account of the present
 fashions from Jane, who sat some way below her, and on the other,
@@ -151,7 +151,7 @@ behaved very handsomely, for we treated the other three with the nicest
 cold luncheon in the world, and if you would have gone, we would have
 treated you too. And then when we came away it was such fun! I thought
 we never should have got into the coach. I was ready to die of laughter.
-And then we were so merry all the way home! we talked and laughed so
+And then we were so merry all the way [[Home|home]]! we talked and laughed so
 loud, that anybody might have heard us ten miles off!”
 
 To this, Mary very gravely replied, “Far be it from me, my dear sister,
@@ -165,18 +165,18 @@ anybody for more than half a minute, and never attended to Mary at all.
 In the afternoon Lydia was urgent with the rest of the girls to walk to
 Meryton, and see how everybody went on; but Elizabeth steadily opposed
 the scheme. It should not be said, that the Miss Bennets could not be at
-home half a day before they were in pursuit of the officers. There was
+[[Home|home]] half a day before they were in pursuit of the officers. There was
 another reason, too, for her opposition. She dreaded seeing Wickham
 again, and was resolved to avoid it as long as possible. The comfort to
 _her_, of the regiment’s approaching removal, was indeed beyond
 expression. In a fortnight they were to go, and once gone, she hoped
 there could be nothing more to plague her on his account.
 
-She had not been many hours at home, before she found that the Brighton
+She had not been many hours at [[Home|home]], before she found that the Brighton
 scheme, of which Lydia had given them a hint at the inn, was under
 frequent discussion between her parents. Elizabeth saw directly that her
 father had not the smallest intention of yielding; but his answers were
-at the same time so vague and equivocal, that her mother, though often
+at the same [[Time|time]] so vague and equivocal, that her mother, though often
 disheartened, had never yet despaired of succeeding at last.
 
 

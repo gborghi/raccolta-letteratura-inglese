@@ -1,5 +1,5 @@
 ---
-title: "The System of Doctor Tarr and Professor Fether (part 3)"
+title: "[[The System of Doctor Tarr and Professor Fether]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       shamefully bare. I observed, too, that very few of the dresses
 
-      were well made—or, at least, that very few of them fitted the
+      were [[Well|well]] made—or, at least, that very few of them fitted the
 
       wearers. In looking about, I discovered the interesting girl to
 
@@ -48,7 +48,7 @@ tags:
 
       feelings during the repast, at finding myself dining with
 
-      lunatics; but I remembered having been informed, in Paris, that
+      lunatics; but I remembered having been informed, in [[Paris]], that
 
       the southern provincialists were a peculiarly eccentric people,
 
@@ -136,7 +136,7 @@ tags:
 
       ladies, as usual, talked a great deal. I soon found that nearly
 
-      all the company were well educated; and my host was a world of
+      all the company were [[Well|well]] educated; and my host was a world of
 
       good-humored anecdote in himself. He seemed quite willing to
 
@@ -170,11 +170,11 @@ tags:
 
       ago, a person who had taken it into his head that he was a
 
-      donkey—which allegorically speaking, you will say, was quite
+      [[donkey]]—which allegorically speaking, you will say, was quite
 
       true. He was a troublesome patient; and we had much ado to keep
 
-      him within bounds. For a long time he would eat nothing but
+      him within bounds. For a long [[Time|time]] he would eat nothing but
 
       thistles; but of this idea we soon cured him by insisting upon
 
@@ -194,7 +194,7 @@ tags:
 
       Our friend here can surely comprehend you without all this. Upon
 
-      my word, you are nearly as great a donkey as the poor unfortunate
+      my word, you are nearly as great a [[donkey]] as the poor unfortunate
 
       imagined himself. Your acting is very natural, as I live.”
 

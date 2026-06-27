@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 32"
+title: "[[Sense and Sensibility]] — Chapter 32"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -26,19 +26,19 @@ Dashwood to her sister, as they very soon were, the effect on her was
 
 not entirely such as the former had hoped to see. Not that Marianne
 
-appeared to distrust the truth of any part of it, for she listened to
+appeared to distrust the [[Truth|truth]] of any part of it, for she listened to
 
 it all with the most steady and submissive attention, made neither
 
 objection nor remark, attempted no vindication of Willoughby, and
 
-seemed to show by her tears that she felt it to be impossible. But
+seemed to show by her [[Tears|tears]] that she felt it to be impossible. But
 
-though this behaviour assured Elinor that the conviction of this guilt
+though this behaviour assured Elinor that the conviction of this [[Guilt|guilt]]
 
-_was_ carried home to her mind, though she saw with satisfaction the
+_was_ carried [[Home|home]] to her mind, though she saw with satisfaction the
 
-effect of it, in her no longer avoiding Colonel Brandon when he called,
+effect of it, in her no longer avoiding [[Colonel Brandon]] when he called,
 
 in her speaking to him, even voluntarily speaking, with a kind of
 
@@ -52,13 +52,13 @@ loss of Willoughby’s character yet more heavily than she had felt the
 
 loss of his heart; his seduction and desertion of Miss Williams, the
 
-misery of that poor girl, and the doubt of what his designs might
+misery of that poor girl, and the [[Doubt|doubt]] of what his designs might
 
 _once_ have been on herself, preyed altogether so much on her spirits,
 
 that she could not bring herself to speak of what she felt even to
 
-Elinor; and, brooding over her sorrows in silence, gave more pain to
+Elinor; and, brooding over her sorrows in [[Silence|silence]], gave more [[Pain|pain]] to
 
 her sister than could have been communicated by the most open and most
 
@@ -80,7 +80,7 @@ to tell all that she suffered and thought; to express her anxious
 
 solicitude for Marianne, and entreat she would bear up with fortitude
 
-under this misfortune. Bad indeed must the nature of Marianne’s
+under this misfortune. Bad indeed must the [[Nature|nature]] of Marianne’s
 
 affliction be, when her mother could talk of fortitude! mortifying and
 
@@ -94,7 +94,7 @@ Against the interest of her own individual comfort, Mrs. Dashwood had
 
 determined that it would be better for Marianne to be any where, at
 
-that time, than at Barton, where every thing within her view would be
+that [[Time|time]], than at Barton, where every thing within her view would be
 
 bringing back the past in the strongest and most afflicting manner, by
 
@@ -128,11 +128,11 @@ friends. Design could never bring them in each other’s way: negligence
 
 could never leave them exposed to a surprise; and chance had less in
 
-its favour in the crowd of London than even in the retirement of
+its favour in the crowd of [[London]] than even in the retirement of
 
 Barton, where it might force him before her while paying that visit at
 
-Allenham on his marriage, which Mrs. Dashwood, from foreseeing at first
+Allenham on his [[Marriage|marriage]], which Mrs. Dashwood, from foreseeing at first
 
 as a probable event, had brought herself to expect as a certain one.
 
@@ -156,7 +156,7 @@ perfectly different from what she wished and expected, though she felt
 
 it to be entirely wrong, formed on mistaken grounds, and that by
 
-requiring her longer continuance in London it deprived her of the only
+requiring her longer continuance in [[London]] it deprived her of the only
 
 possible alleviation of her wretchedness, the personal sympathy of her
 
@@ -198,7 +198,7 @@ after day to the indignation of them all.
 
 Sir John, could not have thought it possible. “A man of whom he had
 
-always had such reason to think well! Such a good-natured fellow! He
+always had such reason to think [[Well|well]]! Such a good-natured fellow! He
 
 did not believe there was a bolder rider in England! It was an
 
@@ -210,7 +210,7 @@ all the world! No, not if it were to be by the side of Barton covert,
 
 and they were kept watching for two hours together. Such a scoundrel of
 
-a fellow! such a deceitful dog! It was only the last time they met that
+a fellow! such a deceitful dog! It was only the last [[Time|time]] they met that
 
 he had offered him one of Folly’s puppies! and this was the end of it!”
 
@@ -234,7 +234,7 @@ everybody she saw, how good-for-nothing he was.”
 
 The rest of Mrs. Palmer’s sympathy was shown in procuring all the
 
-particulars in her power of the approaching marriage, and communicating
+particulars in her power of the approaching [[Marriage|marriage]], and communicating
 
 them to Elinor. She could soon tell at what coachmaker’s the new
 
@@ -266,7 +266,7 @@ moment, to more than its real value; and she was sometimes worried down
 
 by officious condolence to rate good-breeding as more indispensable to
 
-comfort than good-nature.
+comfort than good-[[Nature|nature]].
 
 
 
@@ -296,7 +296,7 @@ as she married.
 
 
 
-Colonel Brandon’s delicate, unobtrusive enquiries were never unwelcome
+[[Colonel Brandon]]’s delicate, unobtrusive enquiries were never unwelcome
 
 to Miss Dashwood. He had abundantly earned the privilege of intimate
 
@@ -320,7 +320,7 @@ _these_ gave Elinor hopes of its being farther augmented hereafter; but
 
 Mrs. Jennings, who knew nothing of all this, who knew only that the
 
-Colonel continued as grave as ever, and that she could neither prevail
+Colonel continued as [[Grave|grave]] as ever, and that she could neither prevail
 
 on him to make the offer himself, nor commission her to make it for
 
@@ -334,7 +334,7 @@ between the Colonel and Miss Dashwood seemed rather to declare that the
 
 honours of the mulberry-tree, the canal, and the yew arbour, would all
 
-be made over to _her;_ and Mrs. Jennings had, for some time ceased to
+be made over to _her;_ and Mrs. Jennings had, for some [[Time|time]] ceased to
 
 think at all of Mrs. Ferrars.
 
@@ -356,7 +356,7 @@ the public papers, which she saw her eagerly examining every morning.
 
 She received the news with resolute composure; made no observation on
 
-it, and at first shed no tears; but after a short time they would burst
+it, and at first shed no [[Tears|tears]]; but after a short [[Time|time]] they would burst
 
 out, and for the rest of the day, she was in a state hardly less
 
@@ -368,15 +368,15 @@ The Willoughbys left town as soon as they were married; and Elinor now
 
 hoped, as there could be no danger of her seeing either of them, to
 
-prevail on her sister, who had never yet left the house since the blow
+prevail on her sister, who had never yet left the [[house]] since the blow
 
 first fell, to go out again by degrees as she had done before.
 
 
 
-About this time the two Miss Steeles, lately arrived at their cousin’s
+About this [[Time|time]] the two Miss Steeles, lately arrived at their cousin’s
 
-house in Bartlett’s Buildings, Holburn, presented themselves again
+[[house]] in Bartlett’s Buildings, Holburn, presented themselves again
 
 before their more grand relations in Conduit and Berkeley Streets; and
 
@@ -384,7 +384,7 @@ were welcomed by them all with great cordiality.
 
 
 
-Elinor only was sorry to see them. Their presence always gave her pain,
+Elinor only was sorry to see them. Their presence always gave her [[Pain|pain]],
 
 and she hardly knew how to make a very gracious return to the
 
@@ -398,9 +398,9 @@ _still_,” said she repeatedly, with a strong emphasis on the word. “But
 
 I always thought I _should_. I was almost sure you would not leave
 
-London yet awhile; though you _told_ me, you know, at Barton, that you
+[[London]] yet awhile; though you _told_ me, you know, at Barton, that you
 
-should not stay above a _month_. But I thought, at the time, that you
+should not stay above a _month_. But I thought, at the [[Time|time]], that you
 
 would most likely change your mind when it came to the point. It would
 
@@ -414,11 +414,11 @@ am amazingly glad you did not keep to _your word_.”
 
 Elinor perfectly understood her, and was forced to use all her
 
-self-command to make it appear that she did _not_.
+[[Self|self]]-command to make it appear that she did _not_.
 
 
 
-“Well, my dear,” said Mrs. Jennings, “and how did you travel?”
+“[[Well]], my dear,” said Mrs. Jennings, “and how did you travel?”
 
 
 
@@ -448,9 +448,9 @@ are sure I have made a conquest; but for my part I declare I never
 
 think about him from one hour’s end to another. ‘Lord! here comes your
 
-beau, Nancy,’ my cousin said t’other day, when she saw him crossing the
+beau, [[Nancy]],’ my cousin said t’other day, when she saw him crossing the
 
-street to the house. My beau, indeed! said I—I cannot think who you
+street to the [[house]]. My beau, indeed! said I—I cannot think who you
 
 mean. The Doctor is no beau of mine.”
 
@@ -490,17 +490,17 @@ cessation of hostile hints, to the charge.
 
 
 
-Elinor would not humour her by farther opposition.
+Elinor would not [[Humour|humour]] her by farther opposition.
 
 
 
 “What a charming thing it is that Mrs. Dashwood can spare you both for
 
-so long a time together!”
+so long a [[Time|time]] together!”
 
 
 
-“Long a time, indeed!” interposed Mrs. Jennings. “Why, their visit is
+“Long a [[Time|time]], indeed!” interposed Mrs. Jennings. “Why, their visit is
 
 but just begun!”
 
@@ -512,7 +512,7 @@ Lucy was silenced.
 
 “I am sorry we cannot see your sister, Miss Dashwood,” said Miss
 
-Steele. “I am sorry she is not well—” for Marianne had left the room on
+Steele. “I am sorry she is not [[Well|well]]—” for Marianne had left the room on
 
 their arrival.
 
@@ -540,7 +540,7 @@ not able to come to them.
 
 
 
-“Oh, if that’s all,” cried Miss Steele, “we can just as well go and see
+“Oh, if that’s all,” cried Miss Steele, “we can just as [[Well|well]] go and see
 
 _her_.”
 

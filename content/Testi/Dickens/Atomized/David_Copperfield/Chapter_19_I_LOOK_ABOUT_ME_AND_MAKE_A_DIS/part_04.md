@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 4)"
+title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -29,51 +29,51 @@ herself, there was a blank between her and Mr. Wickfield which separated
 them wholly from each other; secondly, that Mr. Wickfield seemed
 to dislike the intimacy between her and Agnes, and to watch it with
 uneasiness. And now, I must confess, the recollection of what I had seen
-on that night when Mr. Maldon went away, first began to return upon me
-with a meaning it had never had, and to trouble me. The innocent beauty
-of her face was not as innocent to me as it had been; I mistrusted the
+on that [[Night|night]] when Mr. Maldon went away, first began to return upon me
+with a meaning it had never had, and to trouble me. The [[Innocent|innocent]] [[Beauty|beauty]]
+of her face was not as [[Innocent|innocent]] to me as it had been; I mistrusted the
 natural grace and charm of her manner; and when I looked at Agnes by her
 side, and thought how good and true Agnes was, suspicions arose within
-me that it was an ill-assorted friendship.
+me that it was an ill-assorted [[Friendship|friendship]].
 
 She was so happy in it herself, however, and the other was so happy too,
 that they made the evening fly away as if it were but an hour. It closed
-in an incident which I well remember. They were taking leave of each
+in an incident which I [[Well|well]] remember. They were taking leave of each
 other, and Agnes was going to embrace her and kiss her, when Mr.
 Wickfield stepped between them, as if by accident, and drew Agnes
-quickly away. Then I saw, as though all the intervening time had been
-cancelled, and I were still standing in the doorway on the night of the
-departure, the expression of that night in the face of Mrs. Strong, as
+quickly away. Then I saw, as though all the intervening [[Time|time]] had been
+cancelled, and I were still standing in the doorway on the [[Night|night]] of the
+departure, the expression of that [[Night|night]] in the face of Mrs. Strong, as
 it confronted his.
 
 I cannot say what an impression this made upon me, or how impossible I
 found it, when I thought of her afterwards, to separate her from this
-look, and remember her face in its innocent loveliness again. It haunted
-me when I got home. I seemed to have left the Doctor’s roof with a dark
+look, and remember her face in its [[Innocent|innocent]] loveliness again. It haunted
+me when I got [[Home|home]]. I seemed to have left the Doctor’s roof with a dark
 cloud lowering on it. The reverence that I had for his grey head, was
-mingled with commiseration for his faith in those who were treacherous
+mingled with commiseration for his [[Faith|faith]] in those who were treacherous
 to him, and with resentment against those who injured him. The impending
-shadow of a great affliction, and a great disgrace that had no distinct
+[[Shadow|shadow]] of a great affliction, and a great disgrace that had no distinct
 form in it yet, fell like a stain upon the quiet place where I had
 worked and played as a boy, and did it a cruel wrong. I had no pleasure
-in thinking, any more, of the grave old broad-leaved aloe-trees, which
+in thinking, any more, of the [[Grave|grave]] old broad-leaved aloe-trees, which
 remained shut up in themselves a hundred years together, and of the trim
 smooth grass-plot, and the stone urns, and the Doctor’s walk, and the
-congenial sound of the Cathedral bell hovering above them all. It was as
+congenial sound of the [[Cathedral]] bell hovering above them all. It was as
 if the tranquil sanctuary of my boyhood had been sacked before my face,
-and its peace and honour given to the winds.
+and its peace and [[Honour|honour]] given to the winds.
 
-But morning brought with it my parting from the old house, which Agnes
+But morning brought with it my parting from the old [[house]], which Agnes
 had filled with her influence; and that occupied my mind sufficiently.
-I should be there again soon, no doubt; I might sleep again--perhaps
+I should be there again soon, no [[Doubt|doubt]]; I might [[Sleep|sleep]] again--perhaps
 often--in my old room; but the days of my inhabiting there were gone,
-and the old time was past. I was heavier at heart when I packed up such
+and the old [[Time|time]] was past. I was heavier at heart when I packed up such
 of my books and clothes as still remained there to be sent to Dover,
-than I cared to show to Uriah Heep; who was so officious to help me,
+than I cared to show to [[Uriah Heep]]; who was so officious to help me,
 that I uncharitably thought him mighty glad that I was going.
 
 I got away from Agnes and her father, somehow, with an indifferent show
-of being very manly, and took my seat upon the box of the London coach.
+of being very manly, and took my seat upon the box of the [[London]] coach.
 I was so softened and forgiving, going through the town, that I had half
 a mind to nod to my old enemy the butcher, and throw him five shillings
 to drink. But he looked such a very obdurate butcher as he stood
@@ -81,7 +81,7 @@ scraping the great block in the shop, and moreover, his appearance was
 so little improved by the loss of a front tooth which I had knocked out,
 that I thought it best to make no advances.
 
-The main object on my mind, I remember, when we got fairly on the road,
+The main object on my mind, I remember, when we got fairly on the [[Road|road]],
 was to appear as old as possible to the coachman, and to speak extremely
 gruff. The latter point I achieved at great personal inconvenience; but
 I stuck to it, because I felt it was a grown-up sort of thing.
@@ -89,15 +89,15 @@ I stuck to it, because I felt it was a grown-up sort of thing.
 ‘You are going through, sir?’ said the coachman.
 
 ‘Yes, William,’ I said, condescendingly (I knew him); ‘I am going to
-London. I shall go down into Suffolk afterwards.’
+[[London]]. I shall go down into Suffolk afterwards.’
 
 ‘Shooting, sir?’ said the coachman.
 
-He knew as well as I did that it was just as likely, at that time of
+He knew as [[Well|well]] as I did that it was just as likely, at that [[Time|time]] of
 year, I was going down there whaling; but I felt complimented, too.
 
 ‘I don’t know,’ I said, pretending to be undecided, ‘whether I shall
-take a shot or not.’ ‘Birds is got wery shy, I’m told,’ said William.
+take a shot or not.’ ‘[[Birds]] is got wery shy, I’m told,’ said William.
 
 ‘So I understand,’ said I.
 

@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 3 (part 2)"
+title: "[[thursday]] — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -21,19 +21,19 @@ A little man with a velvet coat and pointed beard seconded.
 "Before I put the matter to the vote," said the chairman,
 "I will call on Comrade Gregory to make a statement."
 
-Gregory rose amid a great rumble of applause.  His face was deadly pale,
+Gregory [[Rose|rose]] amid a great rumble of applause.  His face was deadly pale,
 so that by contrast his queer red hair looked almost scarlet.
 But he was smiling and altogether at ease.  He had made up his mind,
-and he saw his best policy quite plain in front of him like a white road.
+and he saw his best policy quite plain in front of him like a white [[Road|road]].
 His best chance was to make a softened and ambiguous speech,
-such as would leave on the detective's mind the impression
+such as would leave on the [[Detective|detective]]'s mind the impression
 that the anarchist brotherhood was a very mild affair after all.
 He believed in his own literary power, his capacity for suggesting
 fine shades and picking perfect words.  He thought that with care
 he could succeed, in spite of all the people around him, in conveying
 an impression of the institution, subtly and delicately false.
 Syme had once thought that anarchists, under all their bravado,
-were only playing the fool.  Could he not now, in the hour of peril,
+were only playing the [[Fool|fool]].  Could he not now, in the hour of peril,
 make Syme think so again?
 
 "Comrades," began Gregory, in a low but penetrating voice,
@@ -54,20 +54,20 @@ never heard our reply.  I know that he will not hear it tonight,
 though my passion were to rend the roof.  For it is deep,
 deep under the earth that the persecuted are permitted to assemble,
 as the Christians assembled in the Catacombs.  But if, by some
-incredible accident, there were here to-night a man who all
+incredible accident, there were here to-[[Night|night]] a man who all
 his life had thus immensely misunderstood us, I would put this
 question to him:  'When those Christians met in those Catacombs,
 what sort of moral reputation had they in the streets above?
 What tales were told of their atrocities by one educated Roman
 to another?  Suppose' (I would say to him), 'suppose that we
-are only repeating that still mysterious paradox of history.
+are only repeating that still mysterious [[Paradox|paradox]] of [[history]].
 Suppose we seem as shocking as the Christians because we are
 really as harmless as the Christians.  Suppose we seem as mad
 as the Christians because we are really as meek."'
 
 The applause that had greeted the opening sentences had been
 gradually growing fainter, and at the last word it stopped suddenly.
-In the abrupt silence, the man with the velvet jacket said,
+In the abrupt [[Silence|silence]], the man with the velvet jacket said,
 in a high, squeaky voice--
 
 "I'm not meek!"
@@ -75,7 +75,7 @@ in a high, squeaky voice--
 "Comrade Witherspoon tells us," resumed Gregory, "that he is not meek.
 Ah, how little he knows himself!  His words are, indeed, extravagant;
 his appearance is ferocious, and even (to an ordinary taste) unattractive.
-But only the eye of a friendship as deep and delicate as mine can perceive
+But only the eye of a [[Friendship|friendship]] as deep and delicate as mine can perceive
 the deep foundation of solid meekness which lies at the base of him,
 too deep even for himself to see.  I repeat, we are the true early Christians,
 only that we come too late.  We are simple, as they revere simple--
@@ -93,19 +93,19 @@ We do not eat human flesh--"
 
 "Comrade Witherspoon," said Gregory, with a feverish gaiety,
 "is anxious to know why nobody eats him (laughter). In our society,
-at any rate, which loves him sincerely, which is founded upon love--"
+at any rate, which loves him sincerely, which is founded upon [[Love|love]]--"
 
-"No, no!" said Witherspoon, "down with love."
+"No, no!" said Witherspoon, "down with [[Love|love]]."
 
-"Which is founded upon love," repeated Gregory, grinding his teeth,
-"there will be no difficulty about the aims which we shall pursue as a body,
-or which I should pursue were I chosen as the representative of that body.
+"Which is founded upon [[Love|love]]," repeated Gregory, grinding his teeth,
+"there will be no difficulty about the aims which we shall pursue as a [[Body|body]],
+or which I should pursue were I chosen as the representative of that [[Body|body]].
 Superbly careless of the slanders that represent us as assassins and
-enemies of human society, we shall pursue with moral courage and quiet
+enemies of human society, we shall pursue with moral [[Courage|courage]] and quiet
 intellectual pressure, the permanent ideals of brotherhood and simplicity."
 
 Gregory resumed his seat and passed his hand across his forehead.
-The silence was sudden and awkward, but the chairman rose like an automaton,
+The [[Silence|silence]] was sudden and awkward, but the chairman [[Rose|rose]] like an automaton,
 and said in a colourless voice--
 
 "Does anyone oppose the election of Comrade Gregory?"
@@ -120,15 +120,15 @@ to his feet and said in a small and quiet voice--
 "Yes, Mr. Chairman, I oppose."
 
 The most effective fact in oratory is an unexpected change in the voice.
-Mr. Gabriel Syme evidently understood oratory.  Having said these first formal
+Mr. [[Gabriel Syme]] evidently understood oratory.  Having said these first formal
 words in a moderated tone and with a brief simplicity, he made his next word
 ring and volley in the vault as if one of the guns had gone off.
 
 "Comrades!" he cried, in a voice that made every man jump out
 of his boots, "have we come here for this?  Do we live underground
 like rats in order to listen to talk like this?  This is talk
-we might listen to while eating buns at a Sunday School treat.
-Do we line these walls with weapons and bar that door with death
+we might listen to while eating buns at a [[Sunday]] School treat.
+Do we line these walls with weapons and bar that door with [[Death|death]]
 lest anyone should come and hear Comrade Gregory saying to us,
 'Be good, and you will be happy,' 'Honesty is the best policy,'
 and 'Virtue is its own reward'? There was not a word in Comrade Gregory's
@@ -136,4 +136,4 @@ address to which a curate could not have listened with pleasure
 (hear, hear). But I am not a curate (loud cheers), and I did not
 listen to it with pleasure (renewed cheers). The man who is fitted
 to make a good curate is not fitted to make a resolute, forcible,
-and efficient Thursday (hear, hear)."
+and efficient [[thursday|Thursday]] (hear, hear)."

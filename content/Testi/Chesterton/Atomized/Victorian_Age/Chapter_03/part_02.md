@@ -16,19 +16,19 @@ tags:
 
 gifted with a more fortunate literary style. If Dickens is Cobbett's
 
-democracy stirring in its grave, Tennyson is the exquisitely ornamental
+[[Democracy|democracy]] stirring in its [[Grave|grave]], Tennyson is the exquisitely ornamental
 
 extinguisher on the flame of the first revolutionary poets. England has
 
 settled down; England has become Victorian. The compromise was
 
-interesting, it was national and for a long time it was successful:
+interesting, it was national and for a long [[Time|time]] it was successful:
 
 there is still a great deal to be said for it. But it was as freakish
 
 and unphilosophic, as arbitrary and untranslatable, as a beggar's
 
-patched coat or a child's secret language. Now it is here that Browning
+patched coat or a [[Child|child]]'s secret language. Now it is here that Browning
 
 had a certain odd advantage over Tennyson; which has, perhaps, somewhat
 
@@ -36,7 +36,7 @@ exaggerated his intellectual superiority to him. Browning's eccentric
 
 style was more suitable to the poetry of a nation of eccentrics; of
 
-people for the time being removed far from the centre of intellectual
+people for the [[Time|time]] being removed far from the centre of intellectual
 
 interests. The hearty and pleasant task of expressing one's intense
 
@@ -44,7 +44,7 @@ dislike of something one doesn't understand is much more poetically
 
 achieved by saying, in a general way "Grrr--you swine!" than it is by
 
-laboured lines such as "the red fool-fury of the Seine." We all feel
+laboured lines such as "the red [[Fool|fool]]-fury of the Seine." We all feel
 
 that there is more of the man in Browning here; more of Dr. Johnson or
 
@@ -54,7 +54,7 @@ his nose like a bull-dog, going by his own likes and dislikes. We cannot
 
 help feeling that Tennyson is the Englishman taking himself
 
-seriously--an awful sight. One's memory flutters unhappily over a
+seriously--an awful sight. One's [[Memory|memory]] flutters unhappily over a
 
 certain letter about the Papal Guards written by Sir Willoughby
 
@@ -64,13 +64,13 @@ Virgilian loveliness and dignity of diction which he put to the service
 
 of such a small and anomalous national scheme. Virgil had the best news
 
-to tell as well as the best words to tell it in. His world might be
+to tell as [[Well|well]] as the best words to tell it in. His world might be
 
 sad; but it was the largest world one could live in before the coming of
 
-Christianity. If he told the Romans to spare the vanquished and to war
+[[Christianity]]. If he told the Romans to spare the vanquished and to war
 
-down the mighty, at least he was more or less well informed about who
+down the mighty, at least he was more or less [[Well|well]] informed about who
 
 _were_ mighty and who _were_ vanquished. But when Tennyson wrote verses
 
@@ -78,7 +78,7 @@ like--
 
 
 
-    "Of freedom in her regal seat,
+    "Of [[Freedom|freedom]] in her regal seat,
 
     Of England; not the schoolboy heat,
 
@@ -88,11 +88,11 @@ like--
 
 he quite literally did not know one word of what he was talking about;
 
-he did not know what Celts are, or what hysterics are, or what freedom
+he did not know what Celts are, or what hysterics are, or what [[Freedom|freedom]]
 
 was, or what regal was or even of what England was--in the living Europe
 
-of that time.
+of that [[Time|time]].
 
 
 
@@ -130,29 +130,29 @@ his case (unlike Browning's) both the poets were good. The first is more
 
 or less like Stevenson in metre; it is a magical luck or skill in the
 
-mere choice of words. "Wet sands marbled with moon and cloud"--"Flits by
+mere choice of words. "Wet sands marbled with [[Moon|moon]] and cloud"--"Flits by
 
 the sea-blue bird of March"--"Leafless ribs and iron horns"--"When the
 
-long dun wolds are ribbed with snow"--in all these cases one word is the
+long dun wolds are ribbed with [[Snow|snow]]"--in all these cases one word is the
 
 keystone of an arch which would fall into ruin without it. But there are
 
 other strong phrases that recall not Stevenson but rather their common
 
-master, Virgil--"Tears from the depths of some divine despair"--"There
+master, Virgil--"[[Tears]] from the depths of some divine [[Despair|despair]]"--"There
 
 is fallen a splendid tear from the passion-flower at the gate"--"Was a
 
-great water; and the moon was full"--"God made Himself an awful rose of
+great [[Water|water]]; and the [[Moon|moon]] was full"--"God made Himself an awful [[Rose|rose]] of
 
-dawn." These do not depend on a word but on an idea: they might even be
+[[Dawn|dawn]]." These do not depend on a word but on an idea: they might even be
 
-translated. It is also true, I think, that he was first and last a lyric
+translated. It is also true, I think, that he was first and last a [[Lyric|lyric]]
 
 poet. He was always best when he expressed himself shortly. In long
 
-poems he had an unfortunate habit of eventually saying very nearly the
+[[Poems|poems]] he had an unfortunate habit of eventually saying very nearly the
 
 opposite of what he meant to say. I will take only two instances of what
 
@@ -160,9 +160,9 @@ I mean. In the _Idylls of the King_, and in _In Memoriam_ (his two
 
 sustained and ambitious efforts), particular phrases are always flashing
 
-out the whole fire of the truth; the truth that Tennyson meant. But
+out the whole [[Fire|fire]] of the [[Truth|truth]]; the [[Truth|truth]] that Tennyson meant. But
 
-owing to his English indolence, his English aristocratic
+owing to his English [[Indolence|indolence]], his English aristocratic
 
 irresponsibility, his English vagueness in thought, he always managed to
 
@@ -174,21 +174,21 @@ lines which simply say that
 
     "Lancelot was the first in tournament,
 
-    But Arthur mightiest in the battle-field"
+    But [[Arthur]] mightiest in the battle-field"
 
 
 
-do really express what he meant to express about Arthur being after all
+do really express what he meant to express about [[Arthur]] being after all
 
 "the highest, yet most human too; not Lancelot, nor another." But as his
 
-hero is actually developed, we have exactly the opposite impression;
+[[Hero|hero]] is actually developed, we have exactly the opposite impression;
 
 that poor old Lancelot, with all his faults, was much more of a man than
 
-Arthur. He was a Victorian in the bad as well as the good sense; he
+[[Arthur]]. He was a Victorian in the bad as [[Well|well]] as the good sense; he
 
-could not keep priggishness out of long poems. Or again, take the case
+could not keep priggishness out of long [[Poems|poems]]. Or again, take the case
 
 of _In Memoriam_. I will quote one verse (probably incorrectly) which
 
@@ -198,7 +198,7 @@ poem should express--but hardly does.
 
 
 
-    "That we may lift from out the dust,
+    "That we may lift from out the [[Dust|dust]],
 
     A voice as unto him that hears
 
@@ -208,7 +208,7 @@ poem should express--but hardly does.
 
 
 
-The poem should have been a cry above the conquered years. It might well
+The poem should have been a cry above the conquered years. It might [[Well|well]]
 
 have been that if the poet could have said sharply at the end of it, as
 

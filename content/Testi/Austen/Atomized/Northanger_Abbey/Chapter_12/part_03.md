@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 11 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 11 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -18,7 +18,7 @@ what was the matter. The others then came close enough for
 
 conversation, and Morland said, “We had better go back, Thorpe; it is
 
-too late to go on to-day; your sister thinks so as well as I. We have
+too late to go on to-day; your sister thinks so as [[Well|well]] as I. We have
 
 been exactly an hour coming from Pulteney Street, very little more than
 
@@ -32,19 +32,19 @@ off till another day, and turn round.”
 
 “It is all one to me,” replied Thorpe rather angrily; and instantly
 
-turning his horse, they were on their way back to Bath.
+turning his [[Horse|horse]], they were on their way back to Bath.
 
 
 
 “If your brother had not got such a d—— beast to drive,” said he soon
 
-afterwards, “we might have done it very well. My horse would have
+afterwards, “we might have done it very [[Well|well]]. My [[Horse|horse]] would have
 
 trotted to Clifton within the hour, if left to himself, and I have
 
 almost broke my arm with pulling him in to that cursed broken-winded
 
-jade’s pace. Morland is a fool for not keeping a horse and gig of his
+jade’s pace. Morland is a [[Fool|fool]] for not keeping a [[Horse|horse]] and gig of his
 
 own.”
 
@@ -86,7 +86,7 @@ and they returned to Pulteney Street without her speaking twenty words.
 
 
 
-As she entered the house, the footman told her that a gentleman and
+As she entered the [[house]], the footman told her that a gentleman and
 
 lady had called and inquired for her a few minutes after her setting
 
@@ -110,7 +110,7 @@ strange, wild scheme.”
 
 They all spent the evening together at Thorpe’s. Catherine was
 
-disturbed and out of spirits; but Isabella seemed to find a pool of
+disturbed and out of spirits; but [[Isabella]] seemed to find a pool of
 
 commerce, in the fate of which she shared, by private partnership with
 
@@ -120,7 +120,7 @@ at Clifton. Her satisfaction, too, in not being at the Lower Rooms was
 
 spoken more than once. “How I pity the poor creatures that are going
 
-there! how glad I am that I am not amongst them! i wonder whether it
+there! how glad I am that I am not amongst them! i [[Wonder|wonder]] whether it
 
 will be a full ball or not! they have not begun dancing yet. I would
 
@@ -132,15 +132,15 @@ know the Mitchells will not be there. I am sure I pity everybody that
 
 is. But I dare say, Mr. Morland, you long to be at it, do not you? I am
 
-sure you do. Well, pray do not let anybody here be a restraint on you.
+sure you do. [[Well]], pray do not let anybody here be a restraint on you.
 
-I dare say we could do very well without you; but you men think
+I dare say we could do very [[Well|well]] without you; but you men think
 
 yourselves of such consequence.”
 
 
 
-Catherine could almost have accused Isabella of being wanting in
+Catherine could almost have accused [[Isabella]] of being wanting in
 
 tenderness towards herself and her sorrows, so very little did they
 
@@ -170,6 +170,6 @@ And now I may dismiss my heroine to the sleepless couch, which is the
 
 true heroine’s portion; to a pillow strewed with thorns and wet with
 
-tears. And lucky may she think herself, if she get another good night’s
+[[Tears|tears]]. And lucky may she think herself, if she get another good [[Night|night]]’s
 
 rest in the course of the next three months.

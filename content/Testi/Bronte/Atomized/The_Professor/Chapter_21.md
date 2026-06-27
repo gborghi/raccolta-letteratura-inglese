@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 20"
+title: "[[The Professor]] — Chapter 20"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -44,7 +44,7 @@ tenure.
 
 
 
-It is some time since I made any reference to M. Pelet. The moonlight
+It is some [[Time|time]] since I made any reference to M. Pelet. The moonlight
 
 walk is, I think, the last incident recorded in this narrative where
 
@@ -52,9 +52,9 @@ that gentleman cuts any conspicuous figure: the fact is, since that
 
 event, a change had come over the spirit of our intercourse. He, indeed,
 
-ignorant that the still hour, a cloudless moon, and an open lattice,
+ignorant that the still hour, a cloudless [[Moon|moon]], and an open lattice,
 
-had revealed to me the secret of his selfish love and false friendship,
+had revealed to me the secret of his selfish [[Love|love]] and false [[Friendship|friendship]],
 
 would have continued smooth and complaisant as ever; but I grew spiny as
 
@@ -70,7 +70,7 @@ directress (which he still continued) were heard with a grim calm very
 
 different from the petulant pleasure they were formerly wont to excite.
 
-For a long time Pelet bore with my frigid demeanour very patiently;
+For a long [[Time|time]] Pelet bore with my frigid demeanour very patiently;
 
 he even increased his attentions; but finding that even a cringing
 
@@ -88,9 +88,9 @@ I fancy, he succeeded, for he was not without penetration; perhaps, too,
 
 Mdlle. Zoraide might have aided him in the solution of the enigma; at
 
-any rate I soon found that the uncertainty of doubt had vanished from
+any rate I soon found that the uncertainty of [[Doubt|doubt]] had vanished from
 
-his manner; renouncing all pretence of friendship and cordiality, he
+his manner; renouncing all pretence of [[Friendship|friendship]] and cordiality, he
 
 adopted a reserved, formal, but still scrupulously polite deportment.
 
@@ -98,11 +98,11 @@ This was the point to which I had wished to bring him, and I was now
 
 again comparatively at my ease. I did not, it is true, like my position
 
-in his house; but being freed from the annoyance of false professions
+in his [[house]]; but being freed from the annoyance of false professions
 
-and double-dealing I could endure it, especially as no heroic sentiment
+and [[Double|double]]-dealing I could endure it, especially as no heroic sentiment
 
-of hatred or jealousy of the director distracted my philosophical soul;
+of hatred or [[Jealousy|jealousy]] of the director distracted my philosophical [[Soul|soul]];
 
 he had not, I found, wounded me in a very tender point, the wound was so
 
@@ -118,9 +118,9 @@ dark.
 
 This state of things continued till about the middle of July, and then
 
-there was a little change; Pelet came home one night, an hour after his
+there was a little change; Pelet came [[Home|home]] one [[Night|night]], an hour after his
 
-usual time, in a state of unequivocal intoxication, a thing anomalous
+usual [[Time|time]], in a state of unequivocal intoxication, a thing anomalous
 
 with him; for if he had some of the worst faults of his countrymen,
 
@@ -130,13 +130,13 @@ however, was he upon this occasion, that after having roused the whole
 
 establishment (except the pupils, whose dormitory being over the classes
 
-in a building apart from the dwelling-house, was consequently out of the
+in a building apart from the dwelling-[[house]], was consequently out of the
 
 reach of disturbance) by violently ringing the hall-bell and ordering
 
-lunch to be brought in immediately, for he imagined it was noon, whereas
+lunch to be brought in immediately, for he imagined it was [[Noon|noon]], whereas
 
-the city bells had just tolled midnight; after having furiously rated
+the [[City|city]] [[Bells|bells]] had just tolled midnight; after having furiously rated
 
 the servants for their want of punctuality, and gone near to chastise
 
@@ -154,17 +154,17 @@ became aware of a demand on his part for “Creemsvort” to be brought
 
 down to him that he might cut his throat on the hall-table and wash
 
-his honour, which he affirmed to be in a dirty condition, in infernal
+his [[Honour|honour]], which he affirmed to be in a dirty condition, in infernal
 
-British blood. “He is either mad or drunk,” thought I, “and in either
+British [[Blood|blood]]. “He is either mad or drunk,” thought I, “and in either
 
 case the old woman and the servants will be the better of a man’s
 
 assistance,” so I descended straight to the hall. I found him staggering
 
-about, his eyes in a fine frenzy rolling--a pretty sight he was, a just
+about, his eyes in a fine frenzy [[rolling]]--a pretty sight he was, a just
 
-medium between the fool and the lunatic.
+medium between the [[Fool|fool]] and the lunatic.
 
 
 
@@ -172,7 +172,7 @@ medium between the fool and the lunatic.
 
 his arm. His excitement, of course, increased greatly at sight and touch
 
-of the individual for whose blood he had been making application: he
+of the individual for whose [[Blood|blood]] he had been making application: he
 
 struggled and struck with fury--but a drunken man is no match for a
 
@@ -180,13 +180,13 @@ sober one; and, even in his normal state, Pelet’s worn out frame could
 
 not have stood against my sound one. I got him up-stairs, and, in
 
-process of time, to bed. During the operation he did not fail to
+process of [[Time|time]], to bed. During the operation he did not fail to
 
 utter comminations which, though broken, had a sense in them; while
 
 stigmatizing me as the treacherous spawn of a perfidious country, he,
 
-in the same breath, anathematized Zoraide Reuter; he termed her “femme
+in the same breath, anathematized [[Zoraide Reuter]]; he termed her “femme
 
 sotte et vicieuse,” who, in a fit of lewd caprice, had thrown herself
 
@@ -206,7 +206,7 @@ witnessed.
 
 
 
-Now, it was precisely about this time that the directress, stung by
+Now, it was precisely about this [[Time|time]] that the directress, stung by
 
 my coldness, bewitched by my scorn, and excited by the preference she
 
@@ -218,7 +218,7 @@ which she wished to entangle me. Conscious of the state of things in
 
 that quarter, I gathered, from the condition in which I saw my
 
-employer, that his lady-love had betrayed the alienation of her
+employer, that his lady-[[Love|love]] had betrayed the [[Alienation|alienation]] of her
 
 affections--inclinations, rather, I would say; affection is a word at
 
@@ -248,7 +248,7 @@ deportment, as she calls your accursed English formality--and your pure
 
 morals, forsooth! des moeurs de Caton a-t-elle dit--sotte!” Hers, I
 
-thought, must be a curious soul, where in spite of a strong, natural
+thought, must be a curious [[Soul|soul]], where in spite of a strong, natural
 
 tendency to estimate unduly advantages of wealth and station, the
 
@@ -264,25 +264,25 @@ better feelings remained untouched. Next day, when I saw the directress,
 
 and when she made an excuse to meet me in the corridor, and besought my
 
-notice by a demeanour and look subdued to Helot humility, I could
+notice by a demeanour and look subdued to Helot [[Humility|humility]], I could
 
-not love, I could scarcely pity her. To answer briefly and dryly
+not [[Love|love]], I could scarcely pity her. To answer briefly and dryly
 
 some interesting inquiry about my health--to pass her by with a stern
 
 bow--was all I could; her presence and manner had then, and for some
 
-time previously and consequently, a singular effect upon me: they
+[[Time|time]] previously and consequently, a singular effect upon me: they
 
-sealed up all that was good, elicited all that was noxious in my nature;
+sealed up all that was good, elicited all that was noxious in my [[Nature|nature]];
 
 sometimes they enervated my senses, but they always hardened my heart.
 
 I was aware of the detriment done, and quarrelled with myself for the
 
-change. I had ever hated a tyrant; and, behold, the possession of a
+change. I had ever hated a [[Tyrant|tyrant]]; and, behold, the possession of a
 
-slave, self-given, went near to transform me into what I abhorred!
+slave, [[Self|self]]-given, went near to transform me into what I abhorred!
 
 There was at once a sort of low gratification in receiving this luscious
 
@@ -328,7 +328,7 @@ daughter.
 
 When Pelet awoke on the morning after his frenzy fit, he retained no
 
-recollection of what had happened the previous night, and his mother
+recollection of what had happened the previous [[Night|night]], and his mother
 
 fortunately had the discretion to refrain from informing him that I had
 
@@ -336,11 +336,11 @@ been a witness of his degradation. He did not again have recourse to
 
 wine for curing his griefs, but even in his sober mood he soon showed
 
-that the iron of jealousy had entered into his soul. A thorough
+that the iron of [[Jealousy|jealousy]] had entered into his [[Soul|soul]]. A thorough
 
 Frenchman, the national characteristic of ferocity had not been omitted
 
-by nature in compounding the ingredients of his character; it had
+by [[Nature|nature]] in compounding the ingredients of his character; it had
 
 appeared first in his access of drunken wrath, when some of his
 
@@ -354,13 +354,13 @@ blue eyes, when their glance chanced to encounter mine. He absolutely
 
 avoided speaking to me; I was now spared even the falsehood of his
 
-politeness. In this state of our mutual relations, my soul rebelled
+politeness. In this state of our mutual relations, my [[Soul|soul]] rebelled
 
-sometimes almost ungovernably, against living in the house and
+sometimes almost ungovernably, against living in the [[house]] and
 
 discharging the service of such a man; but who is free from the
 
-constraint of circumstances? At that time, I was not: I used to rise
+constraint of circumstances? At that [[Time|time]], I was not: I used to rise
 
 each morning eager to shake off his yoke, and go out with my portmanteau
 
@@ -376,11 +376,11 @@ and pliant, sensitive and sagacious, serious and ardent, in my head; a
 
 certain tone of feeling, fervid and modest, refined and practical, pure
 
-and powerful, delighting and troubling my memory--visions of new ties I
+and powerful, delighting and troubling my [[Memory|memory]]--visions of new ties I
 
 longed to contract, of new duties I longed to undertake, had taken the
 
-rover and the rebel out of me, and had shown endurance of my hated lot
+rover and the [[Rebel|rebel]] out of me, and had shown [[Endurance|endurance]] of my hated lot
 
 in the light of a Spartan virtue.
 
@@ -388,9 +388,9 @@ in the light of a Spartan virtue.
 
 But Pelet’s fury subsided; a fortnight sufficed for its rise, progress,
 
-and extinction: in that space of time the dismissal of the obnoxious
+and extinction: in that space of [[Time|time]] the dismissal of the obnoxious
 
-teacher had been effected in the neighbouring house, and in the same
+teacher had been effected in the neighbouring [[house]], and in the same
 
 interval I had declared my resolution to follow and find out my pupil,
 
@@ -424,7 +424,7 @@ for the fortnight of fury against me terminated in a fit of exceeding
 
 graciousness and amenity, not unmixed with a dash of exulting
 
-self-complacency, more ludicrous than irritating. Pelet’s bachelor’s
+[[Self|self]]-complacency, more ludicrous than irritating. Pelet’s bachelor’s
 
 life had been passed in proper French style with due disregard to moral
 
@@ -448,7 +448,7 @@ to work, and there was talk of “la chambre de Madame,” “le salon de
 
 Madame.” Not deeming it probable that the old duenna at present graced
 
-with that title in our house, had inspired her son with such enthusiasm
+with that title in our [[house]], had inspired her son with such enthusiasm
 
 of filial piety, as to induce him to fit up apartments expressly for her
 
@@ -462,41 +462,41 @@ the tenant of these gay chambers.
 
 Presently official announcement of the coming event was put forth. In
 
-another week’s time M. Francois Pelet, directeur, and Mdlle. Zoraide
+another week’s [[Time|time]] M. Francois Pelet, directeur, and Mdlle. Zoraide
 
 Reuter, directrice, were to be joined together in the bands of
 
 matrimony. Monsieur, in person, heralded the fact to me; terminating
 
-his communication by an obliging expression of his desire that I should
+his communication by an obliging expression of his [[Desire|desire]] that I should
 
 continue, as heretofore, his ablest assistant and most trusted friend;
 
 and a proposition to raise my salary by an additional two hundred francs
 
-per annum. I thanked him, gave no conclusive answer at the time, and,
+per annum. I thanked him, gave no conclusive answer at the [[Time|time]], and,
 
 when he had left me, threw off my blouse, put on my coat, and set out
 
 on a long walk outside the Porte de Flandre, in order, as I thought, to
 
-cool my blood, calm my nerves, and shake my disarranged ideas into some
+cool my [[Blood|blood]], calm my nerves, and shake my disarranged ideas into some
 
 order. In fact, I had just received what was virtually my dismissal.
 
-I could not conceal, I did not desire to conceal from myself the
+I could not conceal, I did not [[Desire|desire]] to conceal from myself the
 
 conviction that, being now certain that Mdlle. Reuter was destined to
 
 become Madame Pelet it would not do for me to remain a dependent dweller
 
-in the house which was soon to be hers. Her present demeanour towards
+in the [[house]] which was soon to be hers. Her present demeanour towards
 
 me was deficient neither in dignity nor propriety; but I knew her former
 
 feeling was unchanged. Decorum now repressed, and Policy masked it, but
 
-Opportunity would be too strong for either of these--Temptation would
+Opportunity would be too strong for either of these--[[Temptation]] would
 
 shiver their restraints.
 
@@ -504,9 +504,9 @@ shiver their restraints.
 
 I was no pope--I could not boast infallibility: in short, if I stayed,
 
-the probability was that, in three months’ time, a practical modern
+the probability was that, in three months’ [[Time|time]], a practical modern
 
-French novel would be in full process of concoction under the roof of
+French [[Novel|novel]] would be in full process of concoction under the roof of
 
 the unsuspecting Pelet. Now, modern French novels are not to my
 
@@ -522,19 +522,19 @@ was about this example, I saw it bare and real, and it was very
 
 loathsome. I saw a mind degraded by the practice of mean subterfuge, by
 
-the habit of perfidious deception, and a body depraved by the infectious
+the habit of perfidious [[Deception|deception]], and a [[Body|body]] depraved by the infectious
 
-influence of the vice-polluted soul. I had suffered much from the forced
+influence of the vice-polluted [[Soul|soul]]. I had suffered much from the forced
 
 and prolonged view of this spectacle; those sufferings I did not now
 
 regret, for their simple recollection acted as a most wholesome antidote
 
-to temptation. They had inscribed on my reason the conviction that
+to [[Temptation|temptation]]. They had inscribed on my reason the conviction that
 
 unlawful pleasure, trenching on another’s rights, is delusive and
 
-envenomed pleasure--its hollowness disappoints at the time, its poison
+envenomed pleasure--its hollowness disappoints at the [[Time|time]], its [[Poison|poison]]
 
 cruelly tortures afterwards, its effects deprave for ever.
 
@@ -544,11 +544,11 @@ From all this resulted the conclusion that I must leave Pelet’s, and
 
 that instantly; “but,” said Prudence, “you know not where to go, nor how
 
-to live;” and then the dream of true love came over me: Frances Henri
+to live;” and then the dream of true [[Love|love]] came over me: [[Frances Henri]]
 
 seemed to stand at my side; her slender waist to invite my arm; her
 
-hand to court my hand; I felt it was made to nestle in mine; I could not
+hand to [[Court|court]] my hand; I felt it was made to nestle in mine; I could not
 
 relinquish my right to it, nor could I withdraw my eyes for ever from
 
@@ -560,19 +560,19 @@ bliss, infuse awe, stir deep delight, rouse sparkling spirit, and
 
 sometimes waken pleasurable dread. My hopes to will and possess, my
 
-resolutions to merit and rise, rose in array against me; and here I was
+resolutions to merit and rise, [[Rose|rose]] in array against me; and here I was
 
 about to plunge into the gulf of absolute destitution; “and all this,”
 
- suggested an inward voice, “because you fear an evil which may never
+ suggested an inward voice, “because you [[Fear|fear]] an evil which may never
 
 happen!” “It will happen; you KNOW it will,” answered that stubborn
 
-monitor, Conscience. “Do what you feel is right; obey me, and even in
+monitor, [[Conscience]]. “Do what you feel is right; obey me, and even in
 
 the sloughs of want I will plant for you firm footing.” And then, as I
 
-walked fast along the road, there rose upon me a strange, inly-felt idea
+walked fast along the [[Road|road]], there [[Rose|rose]] upon me a strange, inly-felt idea
 
 of some Great Being, unseen, but all present, who in His beneficence
 
@@ -580,17 +580,17 @@ desired only my welfare, and now watched the struggle of good and evil
 
 in my heart, and waited to see whether I should obey His voice, heard in
 
-the whispers of my conscience, or lend an ear to the sophisms by which
+the whispers of my [[Conscience|conscience]], or lend an ear to the sophisms by which
 
 His enemy and mine--the Spirit of Evil--sought to lead me astray.
 
 Rough and steep was the path indicated by divine suggestion; mossy and
 
-declining the green way along which Temptation strewed flowers; but
+declining the green way along which [[Temptation]] strewed [[Flowers|flowers]]; but
 
-whereas, methought, the Deity of Love, the Friend of all that exists,
+whereas, methought, the Deity of [[Love]], the Friend of all that exists,
 
-would smile well-pleased were I to gird up my loins and address myself
+would smile [[Well|well]]-pleased were I to gird up my loins and address myself
 
 to the rude ascent; so, on the other hand, each inclination to the
 
@@ -606,6 +606,6 @@ proved that I was resolved; he, perhaps, at heart approved my
 
 decision. After twenty minutes’ conversation, I re-entered my own room,
 
-self-deprived of the means of living, self-sentenced to leave my present
+[[Self|self]]-deprived of the means of living, [[Self|self]]-sentenced to leave my present
 
-home, with the short notice of a week in which to provide another.
+[[Home|home]], with the short notice of a week in which to provide another.

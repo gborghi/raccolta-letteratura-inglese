@@ -18,11 +18,11 @@ CHAPTER VII.
 Monseigneur in Town
 
 
-Monseigneur, one of the great lords in power at the Court, held his
-fortnightly reception in his grand hotel in Paris. Monseigneur was in
+Monseigneur, one of the great lords in power at the [[Court]], held his
+fortnightly reception in his grand hotel in [[Paris]]. Monseigneur was in
 his inner room, his sanctuary of sanctuaries, the Holiest of Holiests to
 the crowd of worshippers in the suite of rooms without. Monseigneur
-was about to take his chocolate. Monseigneur could swallow a great many
+was about to take his chocolate. Monseigneur could [[Swallow|swallow]] a great many
 things with ease, and was by some few sullen minds supposed to be rather
 rapidly swallowing France; but, his morning’s chocolate could not so
 much as get into the throat of Monseigneur, without the aid of four
@@ -41,12 +41,12 @@ place under the admiring Heavens. Deep would have been the blot upon
 his escutcheon if his chocolate had been ignobly waited on by only three
 men; he must have died of two.
 
-Monseigneur had been out at a little supper last night, where the Comedy
+Monseigneur had been out at a little supper last [[Night|night]], where the [[Comedy]]
 and the Grand Opera were charmingly represented. Monseigneur was out at
 a little supper most nights, with fascinating company. So polite and so
-impressible was Monseigneur, that the Comedy and the Grand Opera had far
+impressible was Monseigneur, that the [[Comedy]] and the Grand Opera had far
 more influence with him in the tiresome articles of state affairs and
-state secrets, than the needs of all France. A happy circumstance
+state [[Secrets|secrets]], than the needs of all France. A happy circumstance
 for France, as the like always is for all countries similarly
 favoured!--always was for England (by way of example), in the regretted
 days of the merry Stuart who sold it.
@@ -68,30 +68,30 @@ must consequently let them out to somebody who could; as to finances
 private, because Farmer-Generals were rich, and Monseigneur, after
 generations of great luxury and expense, was growing poor. Hence
 Monseigneur had taken his sister from a convent, while there was yet
-time to ward off the impending veil, the cheapest garment she could
+[[Time|time]] to ward off the impending veil, the cheapest garment she could
 wear, and had bestowed her as a prize upon a very rich Farmer-General,
 poor in family. Which Farmer-General, carrying an appropriate cane with
 a golden apple on the top of it, was now among the company in the outer
 rooms, much prostrated before by mankind--always excepting superior
-mankind of the blood of Monseigneur, who, his own wife included, looked
+mankind of the [[Blood|blood]] of Monseigneur, who, his own wife included, looked
 down upon him with the loftiest contempt.
 
 A sumptuous man was the Farmer-General. Thirty horses stood in his
-stables, twenty-four male domestics sat in his halls, six body-women
+stables, twenty-four male domestics sat in his halls, six [[Body|body]]-women
 waited on his wife. As one who pretended to do nothing but plunder and
 forage where he could, the Farmer-General--howsoever his matrimonial
-relations conduced to social morality--was at least the greatest reality
+relations conduced to social [[morality]]--was at least the greatest reality
 among the personages who attended at the hotel of Monseigneur that day.
 
 For, the rooms, though a beautiful scene to look at, and adorned with
-every device of decoration that the taste and skill of the time could
-achieve, were, in truth, not a sound business; considered with any
+every device of decoration that the taste and skill of the [[Time|time]] could
+achieve, were, in [[Truth|truth]], not a sound business; considered with any
 reference to the scarecrows in the rags and nightcaps elsewhere (and not
 so far off, either, but that the watching towers of Notre Dame, almost
 equidistant from the two extremes, could see them both), they would
 have been an exceedingly uncomfortable business--if that could have
-been anybody’s business, at the house of Monseigneur. Military officers
-destitute of military knowledge; naval officers with no idea of a ship;
+been anybody’s business, at the [[house]] of Monseigneur. Military officers
+destitute of military knowledge; naval officers with no idea of a [[Ship|ship]];
 civil officers without a notion of affairs; brazen ecclesiastics, of the
 worst world worldly, with sensual eyes, loose tongues, and looser lives;
 all totally unfit for their several callings, all lying horribly in
@@ -100,7 +100,7 @@ Monseigneur, and therefore foisted on all public employments from which
 anything was to be got; these were to be told off by the score and the
 score. People not immediately connected with Monseigneur or the State,
 yet equally unconnected with anything that was real, or with lives
-passed in travelling by any straight road to any true earthly end, were
+passed in travelling by any straight [[Road|road]] to any true earthly end, were
 no less abundant. Doctors who made great fortunes out of dainty remedies
 for imaginary disorders that never existed, smiled upon their courtly
 patients in the ante-chambers of Monseigneur. Projectors who had
@@ -112,11 +112,11 @@ Philosophers who were remodelling the world with words, and making
 card-towers of Babel to scale the skies with, talked with Unbelieving
 Chemists who had an eye on the transmutation of metals, at this
 wonderful gathering accumulated by Monseigneur. Exquisite gentlemen of
-the finest breeding, which was at that remarkable time--and has been
+the finest breeding, which was at that remarkable [[Time|time]]--and has been
 since--to be known by its fruits of indifference to every natural
 subject of human interest, were in the most exemplary state of
 exhaustion, at the hotel of Monseigneur. Such homes had these various
-notabilities left behind them in the fine world of Paris, that the spies
+notabilities left behind them in the fine world of [[Paris]], that the spies
 among the assembled devotees of Monseigneur--forming a goodly half
 of the polite company--would have found it hard to discover among
 the angels of that sphere one solitary wife, who, in her manners and
@@ -137,8 +137,8 @@ whether they should foam, rage, roar, and turn cataleptic on the
 spot--thereby setting up a highly intelligible finger-post to the
 Future, for Monseigneur’s guidance. Besides these Dervishes, were other
 three who had rushed into another sect, which mended matters with a
-jargon about “the Centre of Truth:” holding that Man had got out of the
-Centre of Truth--which did not need much demonstration--but had not got
+jargon about “the Centre of [[Truth]]:” holding that Man had got out of the
+Centre of [[Truth]]--which did not need much demonstration--but had not got
 out of the Circumference, and that he was to be kept from flying out of
 the Circumference, and was even to be shoved back into the Centre,
 by fasting and seeing of spirits. Among these, accordingly, much
@@ -150,10 +150,10 @@ Monseigneur were perfectly dressed. If the Day of Judgment had only been
 ascertained to be a dress day, everybody there would have been eternally
 correct. Such frizzling and powdering and sticking up of hair, such
 delicate complexions artificially preserved and mended, such gallant
-swords to look at, and such delicate honour to the sense of smell, would
+swords to look at, and such delicate [[Honour|honour]] to the sense of smell, would
 surely keep anything going, for ever and ever. The exquisite gentlemen
 of the finest breeding wore little pendent trinkets that chinked as they
-languidly moved; these golden fetters rang like precious little bells;
+languidly moved; these golden fetters rang like precious little [[Bells|bells]];
 and what with that ringing, and with the rustle of silk and brocade and
 fine linen, there was a flutter in the air that fanned Saint Antoine and
 his devouring hunger far away.
@@ -161,36 +161,36 @@ his devouring hunger far away.
 Dress was the one unfailing talisman and charm used for keeping all
 things in their places. Everybody was dressed for a Fancy Ball that
 was never to leave off. From the Palace of the Tuileries, through
-Monseigneur and the whole Court, through the Chambers, the Tribunals
+Monseigneur and the whole [[Court]], through the Chambers, the Tribunals
 of Justice, and all society (except the scarecrows), the Fancy Ball
 descended to the Common Executioner: who, in pursuance of the charm, was
 required to officiate “frizzled, powdered, in a gold-laced coat, pumps,
-and white silk stockings.” At the gallows and the wheel--the axe was a
-rarity--Monsieur Paris, as it was the episcopal mode among his brother
+and white silk stockings.” At the gallows and the [[Wheel|wheel]]--the axe was a
+rarity--Monsieur [[Paris]], as it was the episcopal mode among his brother
 Professors of the provinces, Monsieur Orleans, and the rest, to call
 him, presided in this dainty dress. And who among the company at
 Monseigneur’s reception in that seventeen hundred and eightieth year
-of our Lord, could possibly doubt, that a system rooted in a frizzled
+of our Lord, could possibly [[Doubt|doubt]], that a system rooted in a frizzled
 hangman, powdered, gold-laced, pumped, and white-silk stockinged, would
-see the very stars out!
+see the very [[Stars|stars]] out!
 
 Monseigneur having eased his four men of their burdens and taken his
 chocolate, caused the doors of the Holiest of Holiests to be thrown
 open, and issued forth. Then, what submission, what cringing and
 fawning, what servility, what abject humiliation! As to bowing down in
-body and spirit, nothing in that way was left for Heaven--which may have
+[[Body|body]] and spirit, nothing in that way was left for Heaven--which may have
 been one among other reasons why the worshippers of Monseigneur never
 troubled it.
 
 Bestowing a word of promise here and a smile there, a whisper on one
 happy slave and a wave of the hand on another, Monseigneur affably
 passed through his rooms to the remote region of the Circumference of
-Truth. There, Monseigneur turned, and came back again, and so in due
-course of time got himself shut up in his sanctuary by the chocolate
+[[Truth]]. There, Monseigneur turned, and came back again, and so in due
+course of [[Time|time]] got himself shut up in his sanctuary by the chocolate
 sprites, and was seen no more.
 
-The show being over, the flutter in the air became quite a little storm,
-and the precious little bells went ringing downstairs. There was soon
+The show being over, the flutter in the air became quite a little [[Storm|storm]],
+and the precious little [[Bells|bells]] went ringing downstairs. There was soon
 but one person left of all the crowd, and he, with his hat under his arm
 and his snuff-box in his hand, slowly passed among the mirrors on his
 way out.
@@ -199,7 +199,7 @@ way out.
 and turning in the direction of the sanctuary, “to the Devil!”
 
 With that, he shook the snuff from his fingers as if he had shaken the
-dust from his feet, and quietly walked downstairs.
+[[Dust|dust]] from his feet, and quietly walked downstairs.
 
 He was a man of about sixty, handsomely dressed, haughty in manner, and
 with a face like a fine mask. A face of a transparent paleness; every
@@ -223,11 +223,11 @@ to him to see the common people dispersed before his horses, and
 often barely escaping from being run down. His man drove as if he were
 charging an enemy, and the furious recklessness of the man brought no
 check into the face, or to the lips, of the master. The complaint had
-sometimes made itself audible, even in that deaf city and dumb age,
+sometimes made itself audible, even in that deaf [[City|city]] and dumb age,
 that, in the narrow streets without footways, the fierce patrician
 custom of hard driving endangered and maimed the mere vulgar in a
 barbarous manner. But, few cared enough for that to think of it a second
-time, and, in this matter, as in all others, the common wretches were
+[[Time|time]], and, in this matter, as in all others, the common wretches were
 left to get out of their difficulties as they could.
 
 With a wild rattle and clatter, and an inhuman abandonment of
@@ -250,16 +250,16 @@ the horses, and had laid it on the basement of the fountain, and was
 down in the mud and wet, howling over it like a wild animal.
 
 “Pardon, Monsieur the Marquis!” said a ragged and submissive man, “it is
-a child.”
+a [[Child|child]].”
 
-“Why does he make that abominable noise? Is it his child?”
+“Why does he make that abominable noise? Is it his [[Child|child]]?”
 
 “Excuse me, Monsieur the Marquis--it is a pity--yes.”
 
 The fountain was a little removed; for the street opened, where it was,
 into a space some ten or twelve yards square. As the tall man suddenly
 got up from the ground, and came running at the carriage, Monsieur the
-Marquis clapped his hand for an instant on his sword-hilt.
+Marquis clapped his hand for an instant on his [[Sword|sword]]-hilt.
 
 “Killed!” shrieked the man, in wild desperation, extending both arms at
 their length above his head, and staring at him. “Dead!”
@@ -291,7 +291,7 @@ were as silent, however, as the men.
 
 “I know all, I know all,” said the last comer. “Be a brave man, my
 Gaspard! It is better for the poor little plaything to die so, than to
-live. It has died in a moment without pain. Could it have lived an hour
+live. It has died in a moment without [[Pain|pain]]. Could it have lived an hour
 as happily?”
 
 “You are a philosopher, you there,” said the Marquis, smiling. “How do
@@ -307,7 +307,7 @@ they call you?”
 throwing him another gold coin, “and spend it as you will. The horses
 there; are they right?”
 
-Without deigning to look at the assemblage a second time, Monsieur the
+Without deigning to look at the assemblage a second [[Time|time]], Monsieur the
 Marquis leaned back in his seat, and was just being driven away with the
 air of a gentleman who had accidentally broke some common thing, and had
 paid for it, and could afford to pay for it; when his ease was suddenly
@@ -320,7 +320,7 @@ moment before; but the wretched father was grovelling on his face on
 the pavement in that spot, and the figure that stood beside him was the
 figure of a dark stout woman, knitting.
 
-“You dogs!” said the Marquis, but smoothly, and with an unchanged front,
+“You [[dogs]]!” said the Marquis, but smoothly, and with an unchanged front,
 except as to the spots on his nose: “I would ride over any of you very
 willingly, and exterminate you from the earth. If I knew which rascal
 threw at the carriage, and if that brigand were sufficiently near it, he
@@ -336,7 +336,7 @@ leaned back in his seat again, and gave the word “Go on!”
 
 He was driven on, and other carriages came whirling by in quick
 succession; the Minister, the State-Projector, the Farmer-General, the
-Doctor, the Lawyer, the Ecclesiastic, the Grand Opera, the Comedy, the
+Doctor, the Lawyer, the Ecclesiastic, the Grand Opera, the [[Comedy]], the
 whole Fancy Ball in a bright continuous flow, came whirling by. The rats
 had crept out of their holes to look on, and they remained looking
 on for hours; soldiers and police often passing between them and the
@@ -344,10 +344,10 @@ spectacle, and making a barrier behind which they slunk, and through
 which they peeped. The father had long ago taken up his bundle and
 bidden himself away with it, when the women who had tended the bundle
 while it lay on the base of the fountain, sat there watching the running
-of the water and the rolling of the Fancy Ball--when the one woman who
+of the [[Water|water]] and the [[rolling]] of the Fancy Ball--when the one woman who
 had stood conspicuous, knitting, still knitted on with the steadfastness
-of Fate. The water of the fountain ran, the swift river ran, the day ran
-into evening, so much life in the city ran into death according to rule,
-time and tide waited for no man, the rats were sleeping close together
+of Fate. The [[Water|water]] of the fountain ran, the swift [[River|river]] ran, the day ran
+into evening, so much life in the [[City|city]] ran into [[Death|death]] according to rule,
+[[Time|time]] and tide waited for no man, the rats were sleeping close together
 in their dark holes again, the Fancy Ball was lighted up at supper, all
 things ran their course.

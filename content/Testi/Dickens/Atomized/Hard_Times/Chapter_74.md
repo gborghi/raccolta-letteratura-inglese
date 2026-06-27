@@ -18,7 +18,7 @@ CHAPTER VI
 THE STARLIGHT
 
 
-THE Sunday was a bright Sunday in autumn, clear and cool, when early in
+THE [[Sunday]] was a bright [[Sunday]] in [[Autumn|autumn]], clear and cool, when early in
 the morning Sissy and Rachael met, to walk in the country.
 
 As Coketown cast ashes not only on its own head but on the
@@ -33,7 +33,7 @@ between the town and Mr. Bounderby’s retreat.
 
 Though the green landscape was blotted here and there with heaps of coal,
 it was green elsewhere, and there were trees to see, and there were larks
-singing (though it was Sunday), and there were pleasant scents in the
+singing (though it was [[Sunday]]), and there were pleasant scents in the
 air, and all was over-arched by a bright blue sky.  In the distance one
 way, Coketown showed as a black mist; in another distance hills began to
 rise; in a third, there was a faint change in the light of the horizon
@@ -42,11 +42,11 @@ fresh; beautiful shadows of branches flickered upon it, and speckled it;
 hedgerows were luxuriant; everything was at peace.  Engines at pits’
 mouths, and lean old horses that had worn the circle of their daily
 labour into the ground, were alike quiet; wheels had ceased for a short
-space to turn; and the great wheel of earth seemed to revolve without the
-shocks and noises of another time.
+space to turn; and the great [[Wheel|wheel]] of earth seemed to revolve without the
+shocks and noises of another [[Time|time]].
 
 They walked on across the fields and down the shady lanes, sometimes
-getting over a fragment of a fence so rotten that it dropped at a touch
+getting over a [[Fragment|fragment]] of a fence so rotten that it dropped at a touch
 of the foot, sometimes passing near a wreck of bricks and beams overgrown
 with grass, marking the site of deserted works.  They followed paths and
 tracks, however slight.  Mounds where the grass was rank and high, and
@@ -55,9 +55,9 @@ heaped together, they always avoided; for dismal stories were told in
 that country of the old pits hidden beneath such indications.
 
 The sun was high when they sat down to rest.  They had seen no one, near
-or distant, for a long time; and the solitude remained unbroken.  ‘It is
+or distant, for a long [[Time|time]]; and the [[Solitude|solitude]] remained unbroken.  ‘It is
 so still here, Rachael, and the way is so untrodden, that I think we must
-be the first who have been here all the summer.’
+be the first who have been here all the [[Summer|summer]].’
 
 As Sissy said it, her eyes were attracted by another of those rotten
 fragments of fence upon the ground.  She got up to look at it.  ‘And yet
@@ -71,13 +71,13 @@ up.
 
 ‘I don’t know.  There is a hat lying in the grass.’  They went forward
 together.  Rachael took it up, shaking from head to foot.  She broke into
-a passion of tears and lamentations: Stephen Blackpool was written in his
+a passion of [[Tears|tears]] and lamentations: [[Stephen Blackpool]] was written in his
 own hand on the inside.
 
 ‘O the poor lad, the poor lad!  He has been made away with.  He is lying
 murdered here!’
 
-‘Is there—has the hat any blood upon it?’ Sissy faltered.
+‘Is there—has the hat any [[Blood|blood]] upon it?’ Sissy faltered.
 
 They were afraid to look; but they did examine it, and found no mark of
 violence, inside or out.  It had been lying there some days, for rain and
@@ -93,12 +93,12 @@ black ragged chasm hidden by the thick grass.  They sprang back, and fell
 upon their knees, each hiding her face upon the other’s neck.
 
 ‘O, my good Lord!  He’s down there!  Down there!’  At first this, and her
-terrific screams, were all that could be got from Rachael, by any tears,
+terrific screams, were all that could be got from Rachael, by any [[Tears|tears]],
 by any prayers, by any representations, by any means.  It was impossible
 to hush her; and it was deadly necessary to hold her, or she would have
 flung herself down the shaft.
 
-‘Rachael, dear Rachael, good Rachael, for the love of Heaven, not these
+‘Rachael, dear Rachael, good Rachael, for the [[Love|love]] of Heaven, not these
 dreadful cries!  Think of Stephen, think of Stephen, think of Stephen!’
 
 By an earnest repetition of this entreaty, poured out in all the agony of
@@ -106,7 +106,7 @@ such a moment, Sissy at last brought her to be silent, and to look at her
 with a tearless face of stone.
 
 ‘Rachael, Stephen may be living.  You wouldn’t leave him lying maimed at
-the bottom of this dreadful place, a moment, if you could bring help to
+the [[Bottom|bottom]] of this dreadful place, a moment, if you could bring help to
 him?’
 
 ‘No, no, no!’
@@ -121,7 +121,7 @@ earth from the broken ground where he had stumbled, and threw it in.  She
 could not hear it fall.
 
 The wide prospect, so beautiful in its stillness but a few minutes ago,
-almost carried despair to her brave heart, as she rose and looked all
+almost carried [[Despair|despair]] to her brave heart, as she [[Rose|rose]] and looked all
 round her, seeing no help.  ‘Rachael, we must lose not a moment.  We must
 go in different directions, seeking aid.  You shall go by the way we have
 come, and I will go forward by the path.  Tell any one you see, and every
@@ -136,26 +136,26 @@ ran as she had never run before.
 Run, Sissy, run, in Heaven’s name!  Don’t stop for breath.  Run, run!
 Quickening herself by carrying such entreaties in her thoughts, she ran
 from field to field, and lane to lane, and place to place, as she had
-never run before; until she came to a shed by an engine-house, where two
+never run before; until she came to a shed by an engine-[[house]], where two
 men lay in the shade, asleep on straw.
 
 First to wake them, and next to tell them, all so wild and breathless as
 she was, what had brought her there, were difficulties; but they no
-sooner understood her than their spirits were on fire like hers.  One of
+sooner understood her than their spirits were on [[Fire|fire]] like hers.  One of
 the men was in a drunken slumber, but on his comrade’s shouting to him
 that a man had fallen down the Old Hell Shaft, he started out to a pool
-of dirty water, put his head in it, and came back sober.
+of dirty [[Water|water]], put his head in it, and came back sober.
 
 With these two men she ran to another half-a-mile further, and with that
-one to another, while they ran elsewhere.  Then a horse was found; and
-she got another man to ride for life or death to the railroad, and send a
-message to Louisa, which she wrote and gave him.  By this time a whole
+one to another, while they ran elsewhere.  Then a [[Horse|horse]] was found; and
+she got another man to ride for life or [[Death|death]] to the railroad, and send a
+message to Louisa, which she wrote and gave him.  By this [[Time|time]] a whole
 village was up: and windlasses, ropes, poles, candles, lanterns, all
 things necessary, were fast collecting and being brought into one place,
 to be carried to the Old Hell Shaft.
 
 It seemed now hours and hours since she had left the lost man lying in
-the grave where he had been buried alive.  She could not bear to remain
+the [[Grave|grave]] where he had been buried alive.  She could not bear to remain
 away from it any longer—it was like deserting him—and she hurried swiftly
 back, accompanied by half-a-dozen labourers, including the drunken man
 whom the news had sobered, and who was the best man of all.  When they
@@ -164,11 +164,11 @@ The men called and listened as she had done, and examined the edge of the
 chasm, and settled how it had happened, and then sat down to wait until
 the implements they wanted should come up.
 
-Every sound of insects in the air, every stirring of the leaves, every
+Every sound of [[Insects|insects]] in the air, every stirring of the [[Leaves|leaves]], every
 whisper among these men, made Sissy tremble, for she thought it was a cry
-at the bottom of the pit.  But the wind blew idly over it, and no sound
+at the [[Bottom|bottom]] of the pit.  But the [[Wind|wind]] blew idly over it, and no sound
 arose to the surface, and they sat upon the grass, waiting and waiting.
-After they had waited some time, straggling people who had heard of the
+After they had waited some [[Time|time]], straggling people who had heard of the
 accident began to come up; then the real help of implements began to
 arrive.  In the midst of this, Rachael returned; and with her party there
 was a surgeon, who brought some wine and medicines.  But, the expectation
@@ -186,13 +186,13 @@ and Louisa, and Mr. Bounderby, and the whelp, were also there.
 The sun was four hours lower than when Sissy and Rachael had first sat
 down upon the grass, before a means of enabling two men to descend
 securely was rigged with poles and ropes.  Difficulties had arisen in the
-construction of this machine, simple as it was; requisites had been found
-wanting, and messages had had to go and return.  It was five o’clock in
-the afternoon of the bright autumnal Sunday, before a candle was sent
+construction of this [[Machine|machine]], simple as it was; requisites had been found
+wanting, and messages had had to go and return.  It was five o’[[Clock|clock]] in
+the afternoon of the bright autumnal [[Sunday]], before a candle was sent
 down to try the air, while three or four rough faces stood crowded close
 together, attentively watching it: the man at the windlass lowering as
 they were told.  The candle was brought up again, feebly burning, and
-then some water was cast in.  Then the bucket was hooked on; and the
+then some [[Water|water]] was cast in.  Then the bucket was hooked on; and the
 sobered man and another got in with lights, giving the word ‘Lower away!’
 
 As the rope went out, tight and strained, and the windlass creaked, there
@@ -202,7 +202,7 @@ stopped, with abundant rope to spare.  Apparently so long an interval
 ensued with the men at the windlass standing idle, that some women
 shrieked that another accident had happened!  But the surgeon who held
 the watch, declared five minutes not to have elapsed yet, and sternly
-admonished them to keep silence.  He had not well done speaking, when the
+admonished them to keep [[Silence|silence]].  He had not [[Well|well]] done speaking, when the
 windlass was reversed and worked again.  Practised eyes knew that it did
 not go as heavily as it would if both workmen had been coming up, and
 that only one was returning.
@@ -212,7 +212,7 @@ the barrel of the windlass, and all eyes were fastened on the pit.  The
 sobered man was brought up and leaped out briskly on the grass.  There
 was an universal cry of ‘Alive or dead?’ and then a deep, profound hush.
 
-When he said ‘Alive!’ a great shout arose and many eyes had tears in
+When he said ‘Alive!’ a great shout arose and many eyes had [[Tears|tears]] in
 them.
 
 ‘But he’s hurt very bad,’ he added, as soon as he could make himself
@@ -245,11 +245,11 @@ lay upon his back with one arm doubled under him, and according to his
 own belief had hardly stirred since he fell, except that he had moved his
 free hand to a side pocket, in which he remembered to have some bread and
 meat (of which he had swallowed crumbs), and had likewise scooped up a
-little water in it now and then.  He had come straight away from his
-work, on being written to, and had walked the whole journey; and was on
-his way to Mr. Bounderby’s country house after dark, when he fell.  He
-was crossing that dangerous country at such a dangerous time, because he
-was innocent of what was laid to his charge, and couldn’t rest from
+little [[Water|water]] in it now and then.  He had come straight away from his
+work, on being written to, and had walked the whole [[Journey|journey]]; and was on
+his way to Mr. Bounderby’s country [[house]] after dark, when he fell.  He
+was crossing that dangerous country at such a dangerous [[Time|time]], because he
+was [[Innocent|innocent]] of what was laid to his charge, and couldn’t rest from
 coming the nearest way to deliver himself up.  The Old Hell Shaft, the
 pitman said, with a curse upon it, was worthy of its bad name to the
 last; for though Stephen could speak now, he believed it would soon be
@@ -259,15 +259,15 @@ When all was ready, this man, still taking his last hurried charges from
 his comrades and the surgeon after the windlass had begun to lower him,
 disappeared into the pit.  The rope went out as before, the signal was
 made as before, and the windlass stopped.  No man removed his hand from
-it now.  Every one waited with his grasp set, and his body bent down to
-the work, ready to reverse and wind in.  At length the signal was given,
+it now.  Every one waited with his grasp set, and his [[Body|body]] bent down to
+the work, ready to reverse and [[Wind|wind]] in.  At length the signal was given,
 and all the ring leaned forward.
 
 For, now, the rope came in, tightened and strained to its utmost as it
 appeared, and the men turned heavily, and the windlass complained.  It
 was scarcely endurable to look at the rope, and think of its giving way.
 But, ring after ring was coiled upon the barrel of the windlass safely,
-and the connecting chains appeared, and finally the bucket with the two
+and the connecting [[Chains|chains]] appeared, and finally the bucket with the two
 men holding on at the sides—a sight to make the head swim, and oppress
 the heart—and tenderly supporting between them, slung and tied within,
 the figure of a poor, crushed, human creature.
@@ -277,12 +277,12 @@ this form, almost without form, was moved very slowly from its iron
 deliverance, and laid upon the bed of straw.  At first, none but the
 surgeon went close to it.  He did what he could in its adjustment on the
 couch, but the best that he could do was to cover it.  That gently done,
-he called to him Rachael and Sissy.  And at that time the pale, worn,
+he called to him Rachael and Sissy.  And at that [[Time|time]] the pale, worn,
 patient face was seen looking up at the sky, with the broken right hand
 lying bare on the outside of the covering garments, as if waiting to be
 taken by another hand.
 
-They gave him drink, moistened his face with water, and administered some
+They gave him drink, moistened his face with [[Water|water]], and administered some
 drops of cordial and wine.  Though he lay quite motionless looking up at
 the sky, he smiled and said, ‘Rachael.’  She stooped down on the grass at
 his side, and bent over him until her eyes were between his and the sky,
@@ -292,7 +292,7 @@ for he could not so much as turn them to look at her.
 
 She took his hand.  He smiled again and said, ‘Don’t let ’t go.’
 
-‘Thou’rt in great pain, my own dear Stephen?’
+‘Thou’rt in great [[Pain|pain]], my own dear Stephen?’
 
 ‘I ha’ been, but not now.  I ha’ been—dreadful, and dree, and long, my
 dear—but ’tis ower now.  Ah, Rachael, aw a muddle!  Fro’ first to last, a
@@ -306,14 +306,14 @@ brothers, dear to thousands an’ thousands, an’ keeping ’em fro’ want and
 hunger.  I ha’ fell into a pit that ha’ been wi’ th’ Firedamp crueller
 than battle.  I ha’ read on ’t in the public petition, as onny one may
 read, fro’ the men that works in pits, in which they ha’ pray’n and
-pray’n the lawmakers for Christ’s sake not to let their work be murder to
-’em, but to spare ’em for th’ wives and children that they loves as well
+pray’n the lawmakers for [[Christ]]’s sake not to let their work be murder to
+’em, but to spare ’em for th’ wives and children that they loves as [[Well|well]]
 as gentlefok loves theirs.  When it were in work, it killed wi’out need;
-when ’tis let alone, it kills wi’out need.  See how we die an’ no need,
+when ’tis let [[Alone|alone]], it kills wi’out need.  See how we die an’ no need,
 one way an’ another—in a muddle—every day!’
 
 He faintly said it, without any anger against any one.  Merely as the
-truth.
+[[Truth|truth]].
 
 ‘Thy little sister, Rachael, thou hast not forgot her.  Thou’rt not like
 to forget her now, and me so nigh her.  Thou know’st—poor, patient,
@@ -323,7 +323,7 @@ o’ sickly air as had’n no need to be, an’ awlung o’ working people’s
 miserable homes.  A muddle!  Aw a muddle!’
 
 Louisa approached him; but he could not see her, lying with his face
-turned up to the night sky.
+turned up to the [[Night|night]] sky.
 
 ‘If aw th’ things that tooches us, my dear, was not so muddled, I
 should’n ha’ had’n need to coom heer.  If we was not in a muddle among
@@ -334,30 +334,30 @@ ha’ suspect’n me.  But look up yonder, Rachael!  Look aboove!’
 
 Following his eyes, she saw that he was gazing at a star.
 
-      [Picture: Stephen Blackpool recovered from the Old Hell Shaft]
+      [Picture: [[Stephen Blackpool]] recovered from the Old Hell Shaft]
 
-‘It ha’ shined upon me,’ he said reverently, ‘in my pain and trouble down
+‘It ha’ shined upon me,’ he said reverently, ‘in my [[Pain|pain]] and trouble down
 below.  It ha’ shined into my mind.  I ha’ look’n at ’t and thowt o’
 thee, Rachael, till the muddle in my mind have cleared awa, above a bit,
-I hope.  If soom ha’ been wantin’ in unnerstan’in me better, I, too, ha’
+I [[Hope|hope]].  If soom ha’ been wantin’ in unnerstan’in me better, I, too, ha’
 been wantin’ in unnerstan’in them better.  When I got thy letter, I
 easily believen that what the yoong ledy sen and done to me, and what her
 brother sen and done to me, was one, and that there were a wicked plot
 betwixt ’em.  When I fell, I were in anger wi’ her, an’ hurryin on t’ be
 as onjust t’ her as oothers was t’ me.  But in our judgments, like as in
-our doins, we mun bear and forbear.  In my pain an’ trouble, lookin up
+our doins, we mun bear and forbear.  In my [[Pain|pain]] an’ trouble, lookin up
 yonder,—wi’ it shinin on me—I ha’ seen more clear, and ha’ made it my
-dyin prayer that aw th’ world may on’y coom toogether more, an’ get a
+dyin [[Prayer|prayer]] that aw th’ world may on’y coom toogether more, an’ get a
 better unnerstan’in o’ one another, than when I were in ’t my own weak
 seln.’
 
 Louisa hearing what he said, bent over him on the opposite side to
 Rachael, so that he could see her.
 
-‘You ha’ heard?’ he said, after a few moments’ silence.  ‘I ha’ not
+‘You ha’ heard?’ he said, after a few moments’ [[Silence|silence]].  ‘I ha’ not
 forgot you, ledy.’
 
-‘Yes, Stephen, I have heard you.  And your prayer is mine.’
+‘Yes, Stephen, I have heard you.  And your [[Prayer|prayer]] is mine.’
 
 ‘You ha’ a father.  Will yo tak’ a message to him?’
 
@@ -375,7 +375,7 @@ Mr. Gradgrind was troubled and asked how?
 
 ‘Sir,’ was the reply: ‘yor son will tell yo how.  Ask him.  I mak no
 charges: I leave none ahint me: not a single word.  I ha’ seen an’ spok’n
-wi’ yor son, one night.  I ask no more o’ yo than that yo clear me—an’ I
+wi’ yor son, one [[Night|night]].  I ask no more o’ yo than that yo clear me—an’ I
 trust to yo to do ’t.’
 
 The bearers being now ready to carry him away, and the surgeon being
@@ -384,14 +384,14 @@ go in front of the litter.  Before it was raised, and while they were
 arranging how to go, he said to Rachael, looking upward at the star:
 
 ‘Often as I coom to myseln, and found it shinin’ on me down there in my
-trouble, I thowt it were the star as guided to Our Saviour’s home.  I
+trouble, I thowt it were the star as guided to Our Saviour’s [[Home|home]].  I
 awmust think it be the very star!’
 
 They lifted him up, and he was overjoyed to find that they were about to
 take him in the direction whither the star seemed to him to lead.
 
 ‘Rachael, beloved lass!  Don’t let go my hand.  We may walk toogether
-t’night, my dear!’
+t’[[Night|night]], my dear!’
 
 ‘I will hold thy hand, and keep beside thee, Stephen, all the way.’
 
@@ -399,7 +399,7 @@ t’night, my dear!’
 
 They carried him very gently along the fields, and down the lanes, and
 over the wide landscape; Rachael always holding the hand in hers.  Very
-few whispers broke the mournful silence.  It was soon a funeral
+few whispers broke the mournful [[Silence|silence]].  It was soon a funeral
 procession.  The star had shown him where to find the God of the poor;
-and through humility, and sorrow, and forgiveness, he had gone to his
+and through [[Humility|humility]], and sorrow, and [[Forgiveness|forgiveness]], he had gone to his
 Redeemer’s rest.

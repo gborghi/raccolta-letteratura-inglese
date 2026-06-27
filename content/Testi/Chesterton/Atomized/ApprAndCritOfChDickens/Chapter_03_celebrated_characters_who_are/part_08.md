@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 8)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -16,23 +16,23 @@ tags:
 
 His shirts and waistcoats are covered with bright spots of pink and
 
-purple, while his soul is always covered with the sacred shame. He
+purple, while his [[Soul|soul]] is always covered with the sacred shame. He
 
 always gets all the outside things of life wrong, and all the inside
 
 things right. He always admires the right Christian people, and gives
 
-them the wrong Christian names. Dimly connecting Captain Cuttle with the
+them the wrong Christian names. Dimly connecting [[Captain Cuttle]] with the
 
-shop of Mr. Solomon Gills, he always addresses the astonished mariner as
+shop of Mr. [[Solomon Gills]], he always addresses the astonished mariner as
 
-"Captain Gills." He turns Mr. Walter Gay, by a most improving
+"Captain Gills." He turns Mr. [[Walter Gay]], by a most improving
 
 transformation, into "Lieutenant Walters." But he always knows which
 
 people upon his own principles to admire. He forgets who they are, but
 
-he remembers what they are. With the clear eyes of humility he perceives
+he remembers what they are. With the clear eyes of [[Humility|humility]] he perceives
 
 the whole world as it is. He respects the Game Chicken for being
 
@@ -40,7 +40,7 @@ strong, as even the Game Chicken ought to be respected for being strong.
 
 He respects Florence for being good, as even Florence ought to be
 
-respected for being good. And he has no doubt about which he admires
+respected for being good. And he has no [[Doubt|doubt]] about which he admires
 
 most; he prefers goodness to strength, as do all masculine men. It is
 
@@ -52,9 +52,9 @@ makes a difference that he keeps the right half of his wits. When we
 
 think of the unclean and craven spirit in which Toots might be treated
 
-in a psychological novel of to-day; how he might walk with a mooncalf
+in a psychological [[Novel|novel]] of to-day; how he might walk with a mooncalf
 
-face, and a brain of bestial darkness, the soul rises in real homage to
+face, and a brain of bestial darkness, the [[Soul|soul]] rises in real homage to
 
 Dickens for showing how much simple gratitude and happiness can remain
 
@@ -80,7 +80,7 @@ reward.
 
 
 
-DAVID COPPERFIELD
+[[David Copperfield|DAVID COPPERFIELD]]
 
 
 
@@ -104,7 +104,7 @@ Cuttle and Mr. Sol Gills very funny, and the whole Wooden Midshipman
 
 seems to me very wooden. In _David Copperfield_ he suddenly unseals a
 
-new torrent of truth, the truth out of his own life. The impulse of the
+new torrent of [[Truth|truth]], the [[Truth|truth]] out of his own life. The impulse of the
 
 thing is autobiography; he is trying to tell all the absurd things that
 
@@ -150,9 +150,9 @@ it constantly disappoints the critical and intelligent reader. The
 
 reason is that Dickens began it under his sudden emotional impulse of
 
-telling the whole truth about himself and gradually allowed the whole
+telling the whole [[Truth|truth]] about himself and gradually allowed the whole
 
-truth to be more and more diluted, until towards the end of the book we
+[[Truth|truth]] to be more and more diluted, until towards the end of the book we
 
 are back in the old pedantic and decorative art of Dickens, an art which
 
@@ -182,27 +182,27 @@ emigration? He seems to think that he can cure the souls of a whole
 
 cartload, or rather boatload, of his characters by sending them all
 
-to the Colonies. Peggotty is a desolate and insulted parent whose house
+to the Colonies. Peggotty is a desolate and insulted parent whose [[house]]
 
-has been desecrated and his pride laid low; therefore let him go to
+has been desecrated and his [[Pride|pride]] laid low; therefore let him go to
 
-Australia. Emily is a woman whose heart is broken and whose honour is
+Australia. Emily is a woman whose heart is broken and whose [[Honour|honour]] is
 
 blasted; but she will be quite happy if she goes to Australia. Mr.
 
-Micawber is a man whose soul cannot be made to understand the tyranny of
+Micawber is a man whose [[Soul|soul]] cannot be made to understand the tyranny of
 
-time or the limits of human hope; but he will understand all these
+[[Time|time]] or the limits of human [[Hope|hope]]; but he will understand all these
 
 things if he goes to Australia. For it must be noted that Dickens does
 
 not use this emigration merely as a mode of exit. He does not send these
 
-characters away on a ship merely as a symbol suggesting that they pass
+characters away on a [[Ship|ship]] merely as a symbol suggesting that they pass
 
 wholly out of his hearer's life. He does definitely suggest that
 
-Australia is a sort of island Valley of Avalon, where the soul may heal
+Australia is a sort of island Valley of Avalon, where the [[Soul|soul]] may heal
 
 it of its grievous wound. It is seriously suggested that Peggotty finds
 

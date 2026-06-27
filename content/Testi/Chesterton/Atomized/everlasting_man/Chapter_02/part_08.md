@@ -14,28 +14,28 @@ tags:
 </nav>
 
 
-In this sketch, therefore, of man in his relation to certain
+In this [[Sketch|sketch]], therefore, of man in his relation to certain
 religious and historical problems, I shall waste no further space
-on these speculations on the nature of man before he became man.
-His body may have been evolved from the brutes; but we know nothing
+on these speculations on the [[Nature|nature]] of man before he became man.
+His [[Body|body]] may have been evolved from the brutes; but we know nothing
 of any such transition that throws the smallest light upon his
-soul as it has shown itself in history.  Unfortunately the same
+[[Soul|soul]] as it has shown itself in [[history]].  Unfortunately the same
 school of writers pursue the same style of reasoning when they
 come to the first real evidence about the first real men.
 Strictly speaking of course we know nothing about prehistoric man,
-for the simple reason that he was prehistoric.  The history of prehistoric
+for the simple reason that he was prehistoric.  The [[history]] of prehistoric
 man is a very obvious contradiction in terms.  It is the sort
 of unreason in which only rationalists are allowed to indulge.
 If a parson had casually observed that the Flood was ante-diluvian,
-it is possible that he might be a little chaffed about his logic.
+it is possible that he might be a little chaffed about his [[logic]].
 If a bishop were to say that Adam was Preadamite, we might think
 it a little odd.  But we are not supposed to notice such verbal
-trifles when sceptical historians talk of the part of history that
-is prehistoric.  The truth is that they are using the terms historic
+trifles when sceptical historians talk of the part of [[history]] that
+is prehistoric.  The [[Truth|truth]] is that they are using the terms historic
 and prehistoric without any clear test or definition in their minds.
 What they mean is that there are traces of human lives before
 the beginning of human stories; and in that sense we do at least
-know that humanity was before history.
+know that humanity was before [[history]].
 
 Human civilisation is older than human records.  That is
 the sane way of stating our relations to these remote things.
@@ -45,24 +45,24 @@ But it is certain that the primitive arts were arts;
 and it is in every way probable that the primitive civilisations
 were civilisations.  The man left a picture of the reindeer,
 but he did not leave a narrative of how he hunted the reindeer;
-and therefore what we say of him is hypothesis and not history.
+and therefore what we say of him is hypothesis and not [[history]].
 But the art he did practice was quite artistic; his drawing was quite
-intelligent and there is no reason to doubt that his story of the hunt
+intelligent and there is no reason to [[Doubt|doubt]] that his story of the hunt
 would be quite intelligent, only if it exists it is not intelligible.
 In short, the prehistoric period need not mean the primitive period,
 in the sense of the barbaric or bestial period.  It does not mean
-the time before civilisation or the time before arts and crafts.
-It simply means the time before any connected narratives that we
+the [[Time|time]] before civilisation or the [[Time|time]] before arts and crafts.
+It simply means the [[Time|time]] before any connected narratives that we
 can read.  This does indeed make all the practical difference
 between remembrance and forgetfulness; but it is perfectly possible
 that there were all sorts of forgotten forms of civilisation,
-as well as all sorts of forgotten forms of barbarism.  And in any case
+as [[Well|well]] as all sorts of forgotten forms of barbarism.  And in any case
 everything indicated that many of these forgotten or half-forgotten
 social stages were much more civilised and much less barbaric
 than is vulgarly imagined today.  But even about these unwritten
 histories of humanity, when humanity was quite certainly human,
-we can only conjecture with the greatest doubt and caution.
-And unfortunately doubt and caution are the last things commonly
+we can only conjecture with the greatest [[Doubt|doubt]] and caution.
+And unfortunately [[Doubt|doubt]] and caution are the last things commonly
 encouraged by the loose evolutionism of current culture.
 For that culture is full of curiosity; and the one thing that it cannot
 endure is the agony of agnosticism.  It was in the Darwinian age
@@ -70,14 +70,14 @@ that the word first became known and the thing first became impossible.
 
 It is necessary to say plainly that all this ignorance is
 simply covered by impudence.  Statements are made so plainly
-and positively that men have hardly the moral courage
+and positively that men have hardly the moral [[Courage|courage]]
 to pause upon them and find that they are without support.
 The other day a scientific summary of the state of a prehistoric
 tribe began confidently with the words 'They wore no clothes.'
 Not one reader in a hundred probably stopped to ask himself how we
 should come to know whether clothes had once been worn by people
 of whom everything has perished except a few chips of bone and stone.
-It was doubtless hoped that we should find a stone hat as well
+It was doubtless hoped that we should find a stone hat as [[Well|well]]
 as a stone hatchet.  It was evidently anticipated that we
 might discover an everlasting pair of trousers of the same
 substance as the everlasting rock.  But to persons of a less

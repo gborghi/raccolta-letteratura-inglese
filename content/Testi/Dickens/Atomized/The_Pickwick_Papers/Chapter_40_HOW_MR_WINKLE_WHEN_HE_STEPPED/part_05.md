@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -34,16 +34,16 @@ indignantly. ‘Get out, sir, this instant. What do you mean, Sir?’
 ‘What do I mean,’ retorted Sam; ‘come, Sir, this is rayther too rich, as
 the young lady said when she remonstrated with the pastry-cook, arter
 he’d sold her a pork pie as had got nothin’ but fat inside. What do I
-mean! Well, that ain’t a bad ‘un, that ain’t.’
+mean! [[Well]], that ain’t a bad ‘un, that ain’t.’
 
 ‘Unlock that door, and leave this room immediately, Sir,’ said Mr.
 Winkle.
 
 ‘I shall leave this here room, sir, just precisely at the wery same
-moment as you leaves it,’ responded Sam, speaking in a forcible manner,
+moment as you [[Leaves|leaves]] it,’ responded Sam, speaking in a forcible manner,
 and seating himself with perfect gravity. ‘If I find it necessary to
 carry you away, pick-a-back, o’ course I shall leave it the least bit o’
-time possible afore you; but allow me to express a hope as you won’t
+[[Time|time]] possible afore you; but allow me to express a [[Hope|hope]] as you won’t
 reduce me to extremities; in saying wich, I merely quote wot the
 nobleman said to the fractious pennywinkle, ven he vouldn’t come out of
 his shell by means of a pin, and he conseqvently began to be afeered
@@ -63,13 +63,13 @@ folded his arms with a look of great disgust, and threw himself back in
 his chair, as if awaiting the criminal’s defence.
 
 ‘My good fellow,’ said Mr. Winkle, extending his hand--his teeth
-chattering all the time he spoke, for he had been standing, during the
-whole of Mr. Weller’s lecture, in his night-gear--‘my good fellow, I
+chattering all the [[Time|time]] he spoke, for he had been standing, during the
+whole of Mr. Weller’s lecture, in his [[Night|night]]-gear--‘my good fellow, I
 respect your attachment to my excellent friend, and I am very sorry
 indeed to have added to his causes for disquiet. There, Sam, there!’
 
-‘Well,’ said Sam, rather sulkily, but giving the proffered hand a
-respectful shake at the same time--‘well, so you ought to be, and I am
+‘[[Well]],’ said Sam, rather sulkily, but giving the proffered hand a
+respectful shake at the same [[Time|time]]--‘[[Well|well]], so you ought to be, and I am
 very glad to find you air; for, if I can help it, I won’t have him put
 upon by nobody, and that’s all about it.’
 
@@ -82,7 +82,7 @@ we’ll talk further about this in the morning.’
 
 ‘No,’ said Sam, shaking his head. ‘Can’t be done.’
 
-‘You don’t mean to say you’re going back to-night, Sam?’ urged Mr.
+‘You don’t mean to say you’re going back to-[[Night|night]], Sam?’ urged Mr.
 Winkle, greatly surprised.
 
 ‘Not unless you particklerly wish it,’ replied Sam; ‘but I mustn’t leave
@@ -105,15 +105,15 @@ conditions:--
 That Sam should retire, and leave Mr. Winkle in the undisturbed
 possession of his apartment, on the condition that he had permission to
 lock the door on the outside, and carry off the key; provided always,
-that in the event of an alarm of fire, or other dangerous contingency,
+that in the event of an alarm of [[Fire|fire]], or other dangerous contingency,
 the door should be instantly unlocked. That a letter should be written
-to Mr. Pickwick early next morning, and forwarded per Dowler, requesting
+to Mr. [[Pickwick]] early next morning, and forwarded per Dowler, requesting
 his consent to Sam and Mr. Winkle’s remaining at Bristol, for the
 purpose and with the object already assigned, and begging an answer by
 the next coach--, if favourable, the aforesaid parties to remain
 accordingly, and if not, to return to Bath immediately on the receipt
 thereof. And, lastly, that Mr. Winkle should be understood as distinctly
-pledging himself not to resort to the window, fireplace, or other
+pledging himself not to resort to the [[Window|window]], fireplace, or other
 surreptitious mode of escape in the meanwhile. These stipulations having
 been concluded, Sam locked the door and departed.
 
@@ -127,5 +127,5 @@ morrow, anyvays.’
 
 Apparently much consoled by this reflection, Mr. Weller once more
 deposited the key in his pocket, and descending the remainder of the
-stairs without any fresh visitations of conscience, was soon, in common
-with the other inmates of the house, buried in profound repose.
+stairs without any fresh visitations of [[Conscience|conscience]], was soon, in common
+with the other inmates of the [[house]], buried in profound repose.

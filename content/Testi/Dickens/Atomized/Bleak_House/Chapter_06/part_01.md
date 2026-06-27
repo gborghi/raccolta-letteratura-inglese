@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 6 (part 1)"
+title: "Bleak [[house|House]] — Chapter 6 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER VI
 
-Quite at Home
+Quite at [[Home]]
 
 
 The day had brightened very much, and still brightened as we went
@@ -24,44 +24,44 @@ westward. We went our way through the sunshine and the fresh air,
 wondering more and more at the extent of the streets, the brilliancy
 of the shops, the great traffic, and the crowds of people whom the
 pleasanter weather seemed to have brought out like many-coloured
-flowers. By and by we began to leave the wonderful city and to
+[[Flowers|flowers]]. By and by we began to leave the wonderful [[City|city]] and to
 proceed through suburbs which, of themselves, would have made a
 pretty large town in my eyes; and at last we got into a real country
-road again, with windmills, rick-yards, milestones, farmers’ waggons,
-scents of old hay, swinging signs, and horse troughs: trees, fields,
+[[Road|road]] again, with windmills, rick-yards, milestones, farmers’ waggons,
+scents of old hay, swinging signs, and [[Horse|horse]] troughs: trees, fields,
 and hedge-rows. It was delightful to see the green landscape before
 us and the immense metropolis behind; and when a waggon with a train
 of beautiful horses, furnished with red trappings and clear-sounding
-bells, came by us with its music, I believe we could all three have
-sung to the bells, so cheerful were the influences around.
+[[Bells|bells]], came by us with its music, I believe we could all three have
+sung to [[The Bells|the bells]], so cheerful were the influences around.
 
-“The whole road has been reminding me of my namesake Whittington,”
-said Richard, “and that waggon is the finishing touch. Halloa! What’s
+“The whole [[Road|road]] has been reminding me of my namesake Whittington,”
+said [[Richard]], “and that waggon is the finishing touch. Halloa! What’s
 the matter?”
 
 We had stopped, and the waggon had stopped too. Its music changed as
 the horses came to a stand, and subsided to a gentle tinkling, except
-when a horse tossed his head or shook himself and sprinkled off a
+when a [[Horse|horse]] tossed his head or shook himself and sprinkled off a
 little shower of bell-ringing.
 
-“Our postilion is looking after the waggoner,” said Richard, “and the
+“Our postilion is looking after the waggoner,” said [[Richard]], “and the
 waggoner is coming back after us. Good day, friend!” The waggoner was
 at our coach-door. “Why, here’s an extraordinary thing!” added
-Richard, looking closely at the man. “He has got your name, Ada, in
+[[Richard]], looking closely at the man. “He has got your name, Ada, in
 his hat!”
 
 He had all our names in his hat. Tucked within the band were three
-small notes—one addressed to Ada, one to Richard, one to me. These
+small notes—one addressed to Ada, one to [[Richard]], one to me. These
 the waggoner delivered to each of us respectively, reading the name
-aloud first. In answer to Richard’s inquiry from whom they came, he
+aloud first. In answer to [[Richard]]’s inquiry from whom they came, he
 briefly answered, “Master, sir, if you please”; and putting on his
 hat again (which was like a soft bowl), cracked his whip, re-awakened
 his music, and went melodiously away.
 
-“Is that Mr. Jarndyce’s waggon?” said Richard, calling to our
+“Is that Mr. Jarndyce’s waggon?” said [[Richard]], calling to our
 post-boy.
 
-“Yes, sir,” he replied. “Going to London.”
+“Yes, sir,” he replied. “Going to [[London]].”
 
 We opened the notes. Each was a counterpart of the other and
 contained these words in a solid, plain hand.
@@ -71,9 +71,9 @@ contained these words in a solid, plain hand.
    without constraint on either side. I therefore have to
    propose that we meet as old friends and take the past for
    granted. It will be a relief to you possibly, and to me
-   certainly, and so my love to you.
+   certainly, and so my [[Love|love]] to you.
 
-   John Jarndyce
+   [[John Jarndyce]]
 
 
 I had perhaps less reason to be surprised than either of my
@@ -84,55 +84,55 @@ lying too deep in my heart for that; but I now began to consider how
 I could meet him without thanking him, and felt it would be very
 difficult indeed.
 
-The notes revived in Richard and Ada a general impression that they
+The notes revived in [[Richard]] and Ada a general impression that they
 both had, without quite knowing how they came by it, that their
 cousin Jarndyce could never bear acknowledgments for any kindness he
 performed and that sooner than receive any he would resort to the
 most singular expedients and evasions or would even run away. Ada
 dimly remembered to have heard her mother tell, when she was a very
-little child, that he had once done her an act of uncommon generosity
-and that on her going to his house to thank him, he happened to see
-her through a window coming to the door, and immediately escaped by
+little [[Child|child]], that he had once done her an act of uncommon generosity
+and that on her going to his [[house]] to thank him, he happened to see
+her through a [[Window|window]] coming to the door, and immediately escaped by
 the back gate, and was not heard of for three months. This discourse
 led to a great deal more on the same theme, and indeed it lasted us
 all day, and we talked of scarcely anything else. If we did by any
 chance diverge into another subject, we soon returned to this, and
-wondered what the house would be like, and when we should get there,
+wondered what the [[house]] would be like, and when we should get there,
 and whether we should see Mr. Jarndyce as soon as we arrived or after
 a delay, and what he would say to us, and what we should say to him.
 All of which we wondered about, over and over again.
 
 The roads were very heavy for the horses, but the pathway was
 generally good, so we alighted and walked up all the hills, and liked
-it so well that we prolonged our walk on the level ground when we got
+it so [[Well|well]] that we prolonged our walk on the level ground when we got
 to the top. At Barnet there were other horses waiting for us, but as
 they had only just been fed, we had to wait for them too, and got a
 long fresh walk over a common and an old battle-field before the
-carriage came up. These delays so protracted the journey that the
-short day was spent and the long night had closed in before we came
-to St. Albans, near to which town Bleak House was, we knew.
+carriage came up. These delays so protracted the [[Journey|journey]] that the
+short day was spent and the long [[Night|night]] had closed in before we came
+to St. Albans, near to which town Bleak [[house|House]] was, we knew.
 
-By that time we were so anxious and nervous that even Richard
+By that [[Time|time]] we were so anxious and nervous that even [[Richard]]
 confessed, as we rattled over the stones of the old street, to
-feeling an irrational desire to drive back again. As to Ada and me,
-whom he had wrapped up with great care, the night being sharp and
+feeling an irrational [[Desire|desire]] to drive back again. As to Ada and me,
+whom he had wrapped up with great care, the [[Night|night]] being sharp and
 frosty, we trembled from head to foot. When we turned out of the
-town, round a corner, and Richard told us that the post-boy, who had
-for a long time sympathized with our heightened expectation, was
-looking back and nodding, we both stood up in the carriage (Richard
+town, round a corner, and [[Richard]] told us that the post-boy, who had
+for a long [[Time|time]] sympathized with our heightened expectation, was
+looking back and nodding, we both stood up in the carriage ([[Richard]]
 holding Ada lest she should be jolted down) and gazed round upon the
-open country and the starlight night for our destination. There was a
-light sparkling on the top of a hill before us, and the driver,
-pointing to it with his whip and crying, “That’s Bleak House!” put
+open country and the starlight [[Night|night]] for our destination. There was a
+light sparkling on the top of a [[Hill|hill]] before us, and the driver,
+pointing to it with his whip and crying, “That’s Bleak [[house|House]]!” put
 his horses into a canter and took us forward at such a rate, uphill
-though it was, that the wheels sent the road drift flying about our
-heads like spray from a water-mill. Presently we lost the light,
+though it was, that the wheels sent the [[Road|road]] drift flying about our
+heads like spray from a [[Water|water]]-mill. Presently we lost the light,
 presently saw it, presently lost it, presently saw it, and turned
 into an avenue of trees and cantered up towards where it was beaming
-brightly. It was in a window of what seemed to be an old-fashioned
-house with three peaks in the roof in front and a circular sweep
+brightly. It was in a [[Window|window]] of what seemed to be an old-fashioned
+[[house]] with three peaks in the roof in front and a circular sweep
 leading to the porch. A bell was rung as we drew up, and amidst the
 sound of its deep voice in the still air, and the distant barking of
-some dogs, and a gush of light from the opened door, and the smoking
+some [[dogs]], and a gush of light from the opened door, and the smoking
 and steaming of the heated horses, and the quickened beating of our
 own hearts, we alighted in no inconsiderable confusion.

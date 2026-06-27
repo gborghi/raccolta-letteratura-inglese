@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 25 (part 1)"
+title: "[[Shirley]] — Chapter 25 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,33 +18,33 @@ CHAPTER XXV.
 
 
 
-THE WEST WIND BLOWS.
+THE WEST [[Wind|WIND]] BLOWS.
 
 
 
 
 
-Not always do those who dare such divine conflict prevail. Night after
+Not always do those who dare such divine conflict prevail. [[Night]] after
 
-night the sweat of agony may burst dark on the forehead; the supplicant
+[[Night|night]] the sweat of agony may burst dark on the forehead; the supplicant
 
-may cry for mercy with that soundless voice the soul utters when its
+may cry for [[Mercy|mercy]] with that soundless voice the [[Soul|soul]] utters when its
 
 appeal is to the Invisible. "Spare my beloved," it may implore. "Heal my
 
 life's life. Rend not from me what long affection entwines with my whole
 
-nature. God of heaven, bend, hear, be clement!" And after this cry and
+[[Nature|nature]]. God of heaven, bend, hear, be clement!" And after this cry and
 
 strife the sun may rise and see him worsted. That opening morn, which
 
-used to salute him with the whisper of zephyrs, the carol of skylarks,
+used to salute him with the whisper of zephyrs, the [[carol]] of skylarks,
 
 may breathe, as its first accents, from the dear lips which colour and
 
-heat have quitted, "Oh! I have had a suffering night. This morning I am
+heat have quitted, "Oh! I have had a [[Suffering|suffering]] [[Night|night]]. This morning I am
 
-worse. I have tried to rise. I cannot. Dreams I am unused to have
+worse. I have tried to rise. I cannot. [[Dreams]] I am unused to have
 
 troubled me."
 
@@ -56,19 +56,19 @@ strange moulding of the familiar features, feels at once that the
 
 insufferable moment draws nigh, knows that it is God's will his idol
 
-shall be broken, and bends his head, and subdues his soul to the
+shall be broken, and bends his head, and subdues his [[Soul|soul]] to the
 
 sentence he cannot avert and scarce can bear.
 
 
 
-Happy Mrs. Pryor! She was still praying, unconscious that the summer sun
+Happy Mrs. Pryor! She was still praying, unconscious that the [[Summer|summer]] sun
 
-hung above the hills, when her child softly woke in her arms. No
+hung above the hills, when her [[Child|child]] softly woke in her arms. No
 
 piteous, unconscious moaning--sound which so wastes our strength that,
 
-even if we have sworn to be firm, a rush of unconquerable tears sweeps
+even if we have sworn to be firm, a rush of unconquerable [[Tears|tears]] sweeps
 
 away the oath--preceded her waking. No space of deaf apathy followed.
 
@@ -82,13 +82,13 @@ happened.
 
 
 
-"Mamma, I have slept _so_ well. I only dreamed and woke twice."
+"Mamma, I have slept _so_ [[Well|well]]. I only dreamed and woke twice."
 
 
 
-Mrs. Pryor rose with a start, that her daughter might not see the joyful
+Mrs. Pryor [[Rose|rose]] with a start, that her daughter might not see the joyful
 
-tears called into her eyes by that affectionate word "mamma," and the
+[[Tears|tears]] called into her eyes by that affectionate word "mamma," and the
 
 welcome assurance that followed it.
 
@@ -112,17 +112,17 @@ The effort to eat, to talk, to look cheerful, was unsuccessful. Many an
 
 hour passed during which Mrs. Pryor feared that the chords of life could
 
-never more be strengthened, though the time of their breaking might be
+never more be strengthened, though the [[Time|time]] of their breaking might be
 
 deferred.
 
 
 
-During this space the mother and daughter seemed left almost alone in
+During this space the mother and daughter seemed left almost [[Alone|alone]] in
 
 the neighbourhood. It was the close of August; the weather was
 
-fine--that is to say, it was very dry and very dusty, for an arid wind
+fine--that is to say, it was very dry and very dusty, for an arid [[Wind|wind]]
 
 had been blowing from the east this month past; very cloudless, too,
 
@@ -134,7 +134,7 @@ and of all glow the light of day. Almost every family in Briarfield was
 
 absent on an excursion. Miss Keeldar and her friends were at the
 
-seaside; so were Mrs. Yorke's household. Mr. Hall and Louis Moore,
+seaside; so were Mrs. Yorke's household. Mr. Hall and [[Louis Moore]],
 
 between whom a spontaneous intimacy seemed to have arisen--the result,
 
@@ -142,19 +142,19 @@ probably, of harmony of views and temperament--were gone "up north" on a
 
 pedestrian excursion to the Lakes. Even Hortense, who would fain have
 
-stayed at home and aided Mrs. Pryor in nursing Caroline, had been so
+stayed at [[Home|home]] and aided Mrs. Pryor in nursing Caroline, had been so
 
 earnestly entreated by Miss Mann to accompany her once more to Wormwood
 
-Wells, in the hope of alleviating sufferings greatly aggravated by the
+Wells, in the [[Hope|hope]] of alleviating sufferings greatly aggravated by the
 
 insalubrious weather, that she felt obliged to comply; indeed, it was
 
-not in her nature to refuse a request that at once appealed to her
+not in her [[Nature|nature]] to refuse a request that at once appealed to her
 
 goodness of heart, and, by a confession of dependency, flattered her
 
-_amour propre_. As for Robert, from Birmingham he had gone on to London,
+_amour propre_. As for Robert, from Birmingham he had gone on to [[London]],
 
 where he still sojourned.
 
@@ -164,11 +164,11 @@ So long as the breath of Asiatic deserts parched Caroline's lips and
 
 fevered her veins, her physical convalescence could not keep pace with
 
-her returning mental tranquillity; but there came a day when the wind
+her returning mental tranquillity; but there came a day when the [[Wind|wind]]
 
 ceased to sob at the eastern gable of the rectory, and at the oriel
 
-window of the church. A little cloud like a man's hand arose in the
+[[Window|window]] of the church. A little cloud like a man's hand arose in the
 
 west; gusts from the same quarter drove it on and spread it wide; wet
 
@@ -176,7 +176,7 @@ and tempest prevailed a while. When that was over the sun broke out
 
 genially, heaven regained its azure, and earth its green; the livid
 
-cholera-tint had vanished from the face of nature; the hills rose clear
+cholera-tint had vanished from the face of [[Nature|nature]]; the hills [[Rose|rose]] clear
 
 round the horizon, absolved from that pale malaria-haze.
 
@@ -186,11 +186,11 @@ Caroline's youth could now be of some avail to her, and so could her
 
 mother's nurture. Both, crowned by God's blessing, sent in the pure west
 
-wind blowing soft as fresh through the ever-open chamber lattice,
+[[Wind|wind]] blowing soft as fresh through the ever-open chamber lattice,
 
 rekindled her long-languishing energies. At last Mrs. Pryor saw that it
 
-was permitted to hope: a genuine, material convalescence had commenced.
+was permitted to [[Hope|hope]]: a genuine, material convalescence had commenced.
 
 It was not merely Caroline's smile which was brighter, or her spirits
 

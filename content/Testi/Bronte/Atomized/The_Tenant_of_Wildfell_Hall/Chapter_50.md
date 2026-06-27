@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 50"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 50"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,13 +20,13 @@ tags:
 
 
 
-On reading this I had no reason to disguise my joy and hope from
+On reading this I had no reason to disguise my joy and [[Hope|hope]] from
 
 Frederick Lawrence, for I had none to be ashamed of. I felt no joy but
 
 that his sister was at length released from her afflictive,
 
-overwhelming toil—no hope but that she would in time recover from the
+overwhelming toil—no [[Hope|hope]] but that she would in [[Time|time]] recover from the
 
 effects of it, and be suffered to rest in peace and quietness, at
 
@@ -34,7 +34,7 @@ least, for the remainder of her life. I experienced a painful
 
 commiseration for her unhappy husband (though fully aware that he had
 
-brought every particle of his sufferings upon himself, and but too well
+brought every particle of his sufferings upon himself, and but too [[Well|well]]
 
 deserved them all), and a profound sympathy for her own afflictions,
 
@@ -82,15 +82,15 @@ his mind.
 
 
 
-Had I forgotten my own prospects, my ardent love, my pertinacious
+Had I forgotten my own prospects, my ardent [[Love|love]], my pertinacious
 
 hopes? It seemed like sacrilege to revert to them now, but I had not
 
 forgotten them. It was, however, with a gloomy sense of the darkness of
 
-those prospects, the fallacy of those hopes, and the vanity of that
+those prospects, the fallacy of those hopes, and the [[Vanity|vanity]] of that
 
-affection, that I reflected on those things as I remounted my horse and
+affection, that I reflected on those things as I remounted my [[Horse|horse]] and
 
 slowly journeyed homewards. Mrs. Huntingdon was free now; it was no
 
@@ -102,7 +102,7 @@ was over? In all the course of her correspondence with her brother (our
 
 mutual friend, as she herself had called him) she had never mentioned
 
-me but once—and that was from necessity. This alone afforded strong
+me but once—and that was from necessity. This [[Alone|alone]] afforded strong
 
 presumption that I was already forgotten; yet this was not the worst:
 
@@ -112,11 +112,11 @@ might be only _trying_ to forget; but in addition to this, I had a
 
 gloomy conviction that the awful realities she had seen and felt, her
 
-reconciliation with the man she had once loved, his dreadful sufferings
+[[Reconciliation|reconciliation]] with the man she had once loved, his dreadful sufferings
 
-and death, must eventually efface from her mind all traces of her
+and [[Death|death]], must eventually efface from her mind all traces of her
 
-passing love for me. She might recover from these horrors so far as to
+passing [[Love|love]] for me. She might recover from these horrors so far as to
 
 be restored to her former health, her tranquillity, her cheerfulness
 
@@ -142,7 +142,7 @@ there was a wide distinction between the rank and circumstances of Mrs.
 
 Huntingdon, the lady of Grassdale Manor, and those of Mrs. Graham, the
 
-artist, the tenant of Wildfell Hall. And it might be deemed presumption
+[[Artist|artist]], [[The Tenant of Wildfell Hall|the tenant of Wildfell Hall]]. And it might be deemed presumption
 
 in me to offer my hand to the former, by the world, by her friends, if
 
@@ -154,7 +154,7 @@ with his usual selfishness, might have so constructed his will as to
 
 place restrictions upon her marrying again. So that you see I had
 
-reasons enough for despair if I chose to indulge it.
+reasons enough for [[Despair|despair]] if I chose to indulge it.
 
 
 
@@ -170,7 +170,7 @@ comfort and help his sister, but he might have written to tell me how
 
 she was, or at least to tell me when to expect his return; for he might
 
-have known I was suffering tortures of anxiety for her, and uncertainty
+have known I was [[Suffering|suffering]] tortures of anxiety for her, and uncertainty
 
 for my own future prospects. And when he did return, all he told me
 
@@ -180,7 +180,7 @@ unremitting exertions in behalf of that man who had been the scourge of
 
 her life, and had dragged her with him nearly to the portals of the
 
-grave, and was still much shaken and depressed by his melancholy end
+[[Grave|grave]], and was still much shaken and depressed by his [[Melancholy|melancholy]] end
 
 and the circumstances attendant upon it; but no word in reference to
 
@@ -190,47 +190,47 @@ spoken in her presence. To be sure, I asked no questions on the
 
 subject; I could not bring my mind to do so, believing, as I did, that
 
-Lawrence was indeed averse to the idea of my union with his sister.
+Lawrence was indeed averse to the idea of my [[Union|union]] with his sister.
 
 
 
 I saw that he expected to be further questioned concerning his visit,
 
-and I saw too, with the keen perception of awakened jealousy, or
+and I saw too, with the keen perception of awakened [[Jealousy|jealousy]], or
 
-alarmed self-esteem, or by whatever name I ought to call it, that he
+alarmed [[Self|self]]-esteem, or by whatever name I ought to call it, that he
 
 rather shrank from that impending scrutiny, and was no less pleased
 
 than surprised to find it did not come. Of course, I was burning with
 
-anger, but pride obliged me to suppress my feelings, and preserve a
+anger, but [[Pride|pride]] obliged me to suppress my feelings, and preserve a
 
 smooth face, or at least a stoic calmness, throughout the interview. It
 
-was well it did, for, reviewing the matter in my sober judgment, I must
+was [[Well|well]] it did, for, reviewing the matter in my sober judgment, I must
 
 say it would have been highly absurd and improper to have quarrelled
 
 with him on such an occasion. I must confess, too, that I wronged him
 
-in my heart: the truth was, he liked me very well, but he was fully
+in my heart: the [[Truth|truth]] was, he liked me very [[Well|well]], but he was fully
 
-aware that a union between Mrs. Huntingdon and me would be what the
+aware that a [[Union|union]] between Mrs. Huntingdon and me would be what the
 
-world calls a mésalliance; and it was not in his nature to set the
+world calls a mésalliance; and it was not in his [[Nature|nature]] to set the
 
 world at defiance; especially in such a case as this, for its dread
 
 laugh, or ill opinion, would be far more terrible to him directed
 
-against his sister than himself. Had he believed that a union was
+against his sister than himself. Had he believed that a [[Union|union]] was
 
 necessary to the happiness of both, or of either, or had he known how
 
 fervently I loved her, he would have acted differently; but seeing me
 
-so calm and cool, he would not for the world disturb my philosophy; and
+so calm and cool, he would not for the world disturb my [[philosophy]]; and
 
 though refraining entirely from any active opposition to the match, he
 
@@ -246,13 +246,13 @@ feel so bitterly against him as I did; but I could not then regard the
 
 matter in such a moderate light; and, after a brief conversation upon
 
-indifferent topics, I went away, suffering all the pangs of wounded
+indifferent topics, I went away, [[Suffering|suffering]] all the pangs of wounded
 
-pride and injured friendship, in addition to those resulting from the
+[[Pride|pride]] and injured [[Friendship|friendship]], in addition to those resulting from the
 
-fear that I was indeed forgotten, and the knowledge that she I loved
+[[Fear|fear]] that I was indeed forgotten, and the knowledge that she I loved
 
-was alone and afflicted, suffering from injured health and dejected
+was [[Alone|alone]] and afflicted, [[Suffering|suffering]] from injured health and dejected
 
 spirits, and I was forbidden to console or assist her: forbidden even
 
@@ -284,9 +284,9 @@ that period, and hoping I might avail myself of it—at least to express
 
 my heartfelt sorrow for her late afflictions, my just appreciation of
 
-her generous conduct, and my hope that her health was now completely
+her generous conduct, and my [[Hope|hope]] that her health was now completely
 
-re-established, and that she would, some time, be permitted to enjoy
+re-established, and that she would, some [[Time|time]], be permitted to enjoy
 
 those blessings of a peaceful, happy life, which had been denied her so
 
@@ -294,13 +294,13 @@ long, but which none could more truly be said to merit than
 
 herself—adding a few words of kind remembrance to my little friend
 
-Arthur, with a hope that he had not forgotten me, and perhaps a few
+[[arthur|Arthur]], with a [[Hope|hope]] that he had not forgotten me, and perhaps a few
 
 more in reference to bygone times, to the delightful hours I had passed
 
 in her society, and my unfading recollection of them, which was the
 
-salt and solace of my life, and a hope that her recent troubles had not
+salt and solace of my life, and a [[Hope|hope]] that her recent troubles had not
 
 entirely banished me from her mind. If she did not answer this, of
 
@@ -312,7 +312,7 @@ fashion), my future proceedings should be regulated by her reply.
 
 Ten weeks was long to wait in such a miserable state of uncertainty;
 
-but courage! it must be endured! and meantime I would continue to see
+but [[Courage|courage]]! it must be endured! and meantime I would continue to see
 
 Lawrence now and then, though not so often as before, and I would still
 
@@ -328,9 +328,9 @@ the letter of the inquiry: she was much as usual: she made no
 
 complaints, but the tone of her last letter evinced great depression of
 
-mind: she said she was better: and, finally, she said she was well, and
+mind: she said she was better: and, finally, she said she was [[Well|well]], and
 
-very busy with her son’s education, and with the management of her late
+very busy with her son’s [[Education|education]], and with the management of her late
 
 husband’s property, and the regulation of his affairs. The rascal had
 
@@ -338,7 +338,7 @@ never told me how that property was disposed, or whether Mr. Huntingdon
 
 had died intestate or not; and I would sooner die than ask him, lest he
 
-should misconstrue into covetousness my desire to know. He never
+should misconstrue into covetousness my [[Desire|desire]] to know. He never
 
 offered to show me his sister’s letters now, and I never hinted a wish
 
@@ -346,15 +346,15 @@ to see them. February, however, was approaching; December was past;
 
 January, at length, was almost over—a few more weeks, and then, certain
 
-despair or renewal of hope would put an end to this long agony of
+[[Despair|despair]] or renewal of [[Hope|hope]] would put an end to this long agony of
 
 suspense.
 
 
 
-But alas! it was just about that time she was called to sustain another
+But alas! it was just about that [[Time|time]] she was called to sustain another
 
-blow in the death of her uncle—a worthless old fellow enough in
+blow in the [[Death|death]] of her uncle—a worthless old fellow enough in
 
 himself, I daresay, but he had always shown more kindness and affection
 
@@ -362,19 +362,19 @@ to her than to any other creature, and she had always been accustomed
 
 to regard him as a parent. She was with him when he died, and had
 
-assisted her aunt to nurse him during the last stage of his illness.
+assisted her aunt to [[Nurse|nurse]] him during the last stage of his illness.
 
 Her brother went to Staningley to attend the funeral, and told me, upon
 
 his return, that she was still there, endeavouring to cheer her aunt
 
-with her presence, and likely to remain some time. This was bad news
+with her presence, and likely to remain some [[Time|time]]. This was bad news
 
 for me, for while she continued there I could not write to her, as I
 
 did not know the address, and would not ask it of him. But week
 
-followed week, and every time I inquired about her she was still at
+followed week, and every [[Time|time]] I inquired about her she was still at
 
 Staningley.
 
@@ -404,7 +404,7 @@ requesting a more definite account.
 
 
 
-“Why, Markham?” asked my companion, with an air of innocent surprise.
+“Why, Markham?” asked my companion, with an air of [[Innocent|innocent]] surprise.
 
 But I did not deign to answer him, save by a look of silent, sullen
 
@@ -420,7 +420,7 @@ him, and soon took leave.
 
 
 
-You see Lawrence and I somehow could not manage to get on very well
+You see Lawrence and I somehow could not manage to get on very [[Well|well]]
 
 together. The fact is, I believe, we were both of us a little too
 
@@ -466,7 +466,7 @@ and now _I_ have called, and _you_ were out, which you generally are,
 
 or I would do myself the pleasure of calling more frequently; but being
 
-determined to see you this time, I have left my pony in the lane, and
+determined to see you this [[Time|time]], I have left my pony in the lane, and
 
 come over hedge and ditch to join you; for I am about to leave Woodford
 
@@ -494,7 +494,7 @@ have suppressed if he could.
 
 to F—— for the benefit of the sea air, and I shall go with them.” (F——
 
-was at that time a quiet but respectable watering-place: it is
+was at that [[Time|time]] a quiet but respectable watering-place: it is
 
 considerably more frequented now.)
 
@@ -508,13 +508,13 @@ would have undertaken to deliver it without any material objections, if
 
 I had had the sense to ask him, though of course he would not _offer_
 
-to do so, if I was content to let it alone. But I could not bring
+to do so, if I was content to let it [[Alone|alone]]. But I could not bring
 
 myself to make the request, and it was not till after he was gone, that
 
 I saw how fair an opportunity I had lost; and then, indeed, I deeply
 
-regretted my stupidity and my foolish pride, but it was now too late to
+regretted my stupidity and my foolish [[Pride|pride]], but it was now too late to
 
 remedy the evil.
 
@@ -528,7 +528,7 @@ unsatisfactory, dealing in generalities or in trifles that I cared
 
 nothing about, or replete with fancies and reflections equally
 
-unwelcome to me at the time, saying next to nothing about his sister,
+unwelcome to me at the [[Time|time]], saying next to nothing about his sister,
 
 and little more about himself. I would wait, however, till he came
 
@@ -538,9 +538,9 @@ events, I would not write to her now, while she was with him and her
 
 aunt, who doubtless would be still more hostile to my presumptuous
 
-aspirations than himself. When she was returned to the silence and
+aspirations than himself. When she was returned to the [[Silence|silence]] and
 
-solitude of her own home, it would be my fittest opportunity.
+[[Solitude|solitude]] of her own [[Home|home]], it would be my fittest opportunity.
 
 
 
@@ -548,7 +548,7 @@ When Lawrence came, however, he was as reserved as ever on the subject
 
 of my keen anxiety. He told me that his sister had derived considerable
 
-benefit from her stay at F—— that her son was quite well, and—alas!
+benefit from her stay at F—— that her son was quite [[Well|well]], and—alas!
 
 that both of them were gone, with Mrs. Maxwell, back to Staningley, and
 
@@ -556,11 +556,11 @@ there they stayed at least three months. But instead of boring you with
 
 my chagrin, my expectations and disappointments, my fluctuations of
 
-dull despondency and flickering hope, my varying resolutions, now to
+dull despondency and flickering [[Hope|hope]], my varying resolutions, now to
 
 drop it, and now to persevere—now to make a bold push, and now to let
 
-things pass and patiently abide my time,—I will employ myself in
+things pass and patiently abide my [[Time|time]],—I will employ myself in
 
 settling the business of one or two of the characters introduced in the
 
@@ -570,7 +570,7 @@ again.
 
 
 
-Some time before Mr. Huntingdon’s death Lady Lowborough eloped with
+Some [[Time|time]] before Mr. Huntingdon’s [[Death|death]] Lady Lowborough eloped with
 
 another gallant to the Continent, where, having lived a while in
 
@@ -590,13 +590,13 @@ sight of her long years ago, and would as thoroughly forget her if they
 
 could. Her husband, however, upon this second misdemeanour, immediately
 
-sought and obtained a divorce, and, not long after, married again. It
+sought and obtained a [[divorce]], and, not long after, married again. It
 
-was well he did, for Lord Lowborough, morose and moody as he seemed,
+was [[Well|well]] he did, for [[Lord Lowborough]], morose and moody as he seemed,
 
 was not the man for a bachelor’s life. No public interests, no
 
-ambitious projects, or active pursuits,—or ties of friendship even (if
+ambitious projects, or active pursuits,—or ties of [[Friendship|friendship]] even (if
 
 he had had any friends), could compensate to him for the absence of
 
@@ -606,7 +606,7 @@ it is true, but they too painfully reminded him of their mother, and
 
 the unfortunate little Annabella was a source of perpetual bitterness
 
-to his soul. He had obliged himself to treat her with paternal
+to his [[Soul|soul]]. He had obliged himself to treat her with paternal
 
 kindness: he had forced himself not to hate her, and even, perhaps, to
 
@@ -614,15 +614,15 @@ feel some degree of kindly regard for her, at last, in return for her
 
 artless and unsuspecting attachment to himself; but the bitterness of
 
-his self-condemnation for his inward feelings towards that innocent
+his [[Self|self]]-condemnation for his inward feelings towards that [[Innocent|innocent]]
 
 being, his constant struggles to subdue the evil promptings of his
 
-nature (for it was not a generous one), though partly guessed at by
+[[Nature|nature]] (for it was not a generous one), though partly guessed at by
 
-those who knew him, could be known to God and his own heart alone;—so
+those who knew him, could be known to God and his own heart [[Alone|alone]];—so
 
-also was the hardness of his conflicts with the temptation to return to
+also was the hardness of his conflicts with the [[Temptation|temptation]] to return to
 
 the vice of his youth, and seek oblivion for past calamities, and
 
@@ -642,7 +642,7 @@ Some wondered at his taste; some even ridiculed it—but in this their
 
 folly was more apparent than his. The lady was about his own
 
-age—_i.e._, between thirty and forty—remarkable neither for beauty, nor
+age—_i.e._, between thirty and forty—remarkable neither for [[Beauty|beauty]], nor
 
 wealth, nor brilliant accomplishments; nor any other thing that I ever
 
@@ -654,9 +654,9 @@ qualities, however, as you may readily imagine, combined to render her
 
 an excellent mother to the children, and an invaluable wife to his
 
-lordship. _He_, with his usual self-depreciation, thought her a world
+lordship. _He_, with his usual [[Self|self]]-depreciation, thought her a world
 
-too good for him, and while he wondered at the kindness of Providence
+too good for him, and while he wondered at the kindness of [[Providence]]
 
 in conferring such a gift upon him, and even at her taste in preferring
 
@@ -694,7 +694,7 @@ As for Mr. Hattersley, he had never wholly forgotten his resolution to
 
 “come out from among them,” and behave like a man and a Christian, and
 
-the last illness and death of his once jolly friend Huntingdon so
+the last illness and [[Death|death]] of his once jolly friend Huntingdon so
 
 deeply and seriously impressed him with the evil of their former
 

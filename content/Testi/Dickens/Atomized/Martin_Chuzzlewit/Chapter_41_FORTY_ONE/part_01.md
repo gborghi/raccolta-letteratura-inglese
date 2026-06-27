@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 41: FORTY ONE (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 41: FORTY ONE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -22,9 +22,9 @@ UPON AN ENTERPRISE
 
 The office of the Anglo-Bengalee Disinterested Loan and Life Assurance
 Company being near at hand, and Mr Montague driving Jonas straight
-there, they had very little way to go. But the journey might have been
+there, they had very little way to go. But the [[Journey|journey]] might have been
 one of several hours’ duration, without provoking a remark from either;
-for it was clear that Jonas did not mean to break the silence which
+for it was clear that Jonas did not mean to break the [[Silence|silence]] which
 prevailed between them, and that it was not, as yet, his dear friend’s
 cue to tempt them into conversation.
 
@@ -46,18 +46,18 @@ Not prepossessing in appearance at the best of times, it may be readily
 supposed that he was not so now. He had left deep marks of his front
 teeth in his nether lip; and those tokens of the agitation he had lately
 undergone improved his looks as little as the heavy corrugations in his
-forehead. But he was self-possessed now; unnaturally self-possessed,
+forehead. But he was [[Self|self]]-possessed now; unnaturally [[Self|self]]-possessed,
 indeed, as men quite otherwise than brave are known to be in desperate
 extremities; and when the carriage stopped, he waited for no invitation,
 but leapt hardily out, and went upstairs.
 
 The chairman followed him; and closing the board-room door as soon as
 they had entered, threw himself upon a sofa. Jonas stood before the
-window, looking down into the street; and leaned against the sash,
+[[Window|window]], looking down into the street; and leaned against the sash,
 resting his head upon his arms.
 
 ‘This is not handsome, Chuzzlewit!’ said Montague at length. ‘Not
-handsome upon my soul!’
+handsome upon my [[Soul|soul]]!’
 
 ‘What would you have me do?’ he answered, looking round abruptly; ‘What
 do you expect?’
@@ -70,7 +70,7 @@ injured tone.
 ‘Do I not?’ said his companion, raising his head, and looking at him,
 but he had turned again. ‘Do I not? Have I not confided to you the easy
 schemes I have formed for our advantage; OUR advantage, mind; not mine
-alone; and what is my return? Attempted flight!’
+[[Alone|alone]]; and what is my return? Attempted flight!’
 
 ‘How do you know that? Who said I meant to fly?’
 
@@ -105,7 +105,7 @@ fellow, that I thought I had discovered--’
 ‘Will you hold your tongue?’ said Jonas, looking fiercely round, and
 glancing at the door.
 
-‘Well, well!’ said Montague. ‘Judicious! Quite correct! My discoveries
+‘[[Well]], [[Well|well]]!’ said Montague. ‘Judicious! Quite correct! My discoveries
 being published, would be like many other men’s discoveries in this
 honest world; of no further use to me. You see, Chuzzlewit, how
 ingenuous and frank I am in showing you the weakness of my own position!
@@ -116,7 +116,7 @@ reciprocated by you. Perhaps there is something in it; perhaps there is
 nothing. I have my knowledge and opinion on the subject. You have yours.
 We will not discuss the question. But, my good fellow, you have been
 weak; what I wish to point out to you is, that you have been weak. I may
-desire to turn this little incident to my account (indeed, I do--I’ll
+[[Desire|desire]] to turn this little incident to my account (indeed, I do--I’ll
 not deny it), but my account does not lie in probing it, or using it
 against you.’
 
@@ -130,17 +130,17 @@ changed his attitude.
 ‘No.’
 
 ‘Ecod,’ muttered Jonas, bitterly. ‘That’s the use in which your account
-DOES lie. You speak the truth there.’
+DOES lie. You speak the [[Truth|truth]] there.’
 
 ‘I wish you to venture (it’s a very safe venture) a little more with
 us, certainly, and to keep quiet,’ said Montague. ‘You promised me you
 would; and you must. I say it plainly, Chuzzlewit, you MUST. Reason the
 matter. If you don’t, my secret is worthless to me: and being so, it
-may as well become the public property as mine; better, for I shall
+may as [[Well|well]] become the public property as mine; better, for I shall
 gain some credit, bringing it to light. I want you, besides, to act as a
 decoy in a case I have already told you of. You don’t mind that, I know.
 You care nothing for the man (you care nothing for any man; you are
-too sharp; so am I, I hope); and could bear any loss of his with
+too sharp; so am I, I [[Hope|hope]]); and could bear any loss of his with
 pious fortitude. Ha, ha, ha! You have tried to escape from the first
 consequence. You cannot escape it, I assure you. I have shown you that
 to-day. Now, I am not a moral man, you know. I am not the least in the
@@ -151,4 +151,4 @@ singular in that infirmity. Everybody profits by the indiscretion of his
 neighbour; and the people in the best repute, the most. Why do you give
 me this trouble? It must come to a friendly agreement, or an unfriendly
 crash. It must. If the former, you are very little hurt. If the
-latter--well! you know best what is likely to happen then.’
+latter--[[Well|well]]! you know best what is likely to happen then.’

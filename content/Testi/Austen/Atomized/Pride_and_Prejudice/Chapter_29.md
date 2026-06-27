@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 29"
+title: "[[Pride and Prejudice]] — Chapter 29"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -27,7 +27,7 @@ doing it should be given so soon was such an instance of Lady
 Catherine’s condescension as he knew not how to admire enough.
 
 “I confess,” said he, “that I should not have been at all surprised by
-her Ladyship’s asking us on Sunday to drink tea and spend the evening
+her Ladyship’s asking us on [[Sunday]] to drink tea and spend the evening
 at Rosings. I rather expected, from my knowledge of her affability, that
 it would happen. But who could have foreseen such an attention as this?
 Who could have imagined that we should receive an invitation to dine
@@ -36,7 +36,7 @@ immediately after your arrival?”
 
 “I am the less surprised at what has happened,” replied Sir William,
 “from that knowledge of what the manners of the great really are, which
-my situation in life has allowed me to acquire. About the court, such
+my situation in life has allowed me to acquire. About the [[Court|court]], such
 instances of elegant breeding are not uncommon.”
 
 Scarcely anything was talked of the whole day or next morning but their
@@ -58,22 +58,22 @@ preserved.”
 While they were dressing, he came two or three times to their different
 doors, to recommend their being quick, as Lady Catherine very much
 objected to be kept waiting for her dinner. Such formidable accounts of
-her Ladyship, and her manner of living, quite frightened Maria Lucas,
+her Ladyship, and her manner of living, quite frightened [[Maria]] Lucas,
 who had been little used to company; and she looked forward to her
 introduction at Rosings with as much apprehension as her father had done
 to his presentation at St. James’s.
 
 As the weather was fine, they had a pleasant walk of about half a mile
-across the park. Every park has its beauty and its prospects; and
+across the park. Every park has its [[Beauty|beauty]] and its prospects; and
 Elizabeth saw much to be pleased with, though she could not be in such
 raptures as Mr. Collins expected the scene to inspire, and was but
 slightly affected by his enumeration of the windows in front of the
-house, and his relation of what the glazing altogether had originally
+[[house]], and his relation of what the glazing altogether had originally
 cost Sir Lewis de Bourgh.
 
-When they ascended the steps to the hall, Maria’s alarm was every moment
+When they ascended the steps to the hall, [[Maria]]’s alarm was every moment
 increasing, and even Sir William did not look perfectly calm.
-Elizabeth’s courage did not fail her. She had heard nothing of Lady
+Elizabeth’s [[Courage|courage]] did not fail her. She had heard nothing of Lady
 Catherine that spoke her awful from any extraordinary talents or
 miraculous virtue, and the mere stateliness of money and rank she
 thought she could witness without trepidation.
@@ -88,7 +88,7 @@ performed in a proper manner, without any of those apologies and thanks
 which he would have thought necessary.
 
 In spite of having been at St. James’s, Sir William was so completely
-awed by the grandeur surrounding him, that he had but just courage
+awed by the grandeur surrounding him, that he had but just [[Courage|courage]]
 enough to make a very low bow, and take his seat without saying a word;
 and his daughter, frightened almost out of her senses, sat on the edge
 of her chair, not knowing which way to look. Elizabeth found herself
@@ -97,14 +97,14 @@ composedly. Lady Catherine was a tall, large woman, with strongly-marked
 features, which might once have been handsome. Her air was not
 conciliating, nor was her manner of receiving them such as to make her
 visitors forget their inferior rank. She was not rendered formidable by
-silence: but whatever she said was spoken in so authoritative a tone as
-marked her self-importance, and brought Mr. Wickham immediately to
+[[Silence|silence]]: but whatever she said was spoken in so authoritative a tone as
+marked her [[Self|self]]-importance, and brought Mr. Wickham immediately to
 Elizabeth’s mind; and, from the observation of the day altogether, she
 believed Lady Catherine to be exactly what he had represented.
 
 When, after examining the mother, in whose countenance and deportment
 she soon found some resemblance of Mr. Darcy, she turned her eyes on the
-daughter, she could almost have joined in Maria’s astonishment at her
+daughter, she could almost have joined in [[Maria]]’s astonishment at her
 being so thin and so small. There was neither in figure nor face any
 likeness between the ladies. Miss de Bourgh was pale and sickly: her
 features, though not plain, were insignificant; and she spoke very
@@ -116,12 +116,12 @@ her eyes.
 After sitting a few minutes, they were all sent to one of the windows to
 admire the view, Mr. Collins attending them to point out its beauties,
 and Lady Catherine kindly informing them that it was much better worth
-looking at in the summer.
+looking at in the [[Summer|summer]].
 
 The dinner was exceedingly handsome, and there were all the servants,
 and all the articles of plate which Mr. Collins had promised; and, as he
-had likewise foretold, he took his seat at the bottom of the table, by
-her Ladyship’s desire, and looked as if he felt that life could furnish
+had likewise foretold, he took his seat at the [[Bottom|bottom]] of the table, by
+her Ladyship’s [[Desire|desire]], and looked as if he felt that life could furnish
 nothing greater. He carved and ate and praised with delighted alacrity;
 and every dish was commended first by him, and then by Sir William, who
 was now enough recovered to echo whatever his son-in-law said, in a
@@ -134,7 +134,7 @@ Charlotte and Miss de Bourgh--the former of whom was engaged in
 listening to Lady Catherine, and the latter said not a word to her all
 the dinnertime. Mrs. Jenkinson was chiefly employed in watching how
 little Miss de Bourgh ate, pressing her to try some other dish and
-fearing she was indisposed. Maria thought speaking out of the question,
+fearing she was indisposed. [[Maria]] thought speaking out of the question,
 and the gentlemen did nothing but eat and admire.
 
 When the ladies returned to the drawing-room, there was little to be
@@ -148,7 +148,7 @@ regulated in so small a family as hers, and instructed her as to the
 care of her cows and her poultry. Elizabeth found that nothing was
 beneath this great lady’s attention which could furnish her with an
 occasion for dictating to others. In the intervals of her discourse with
-Mrs. Collins, she addressed a variety of questions to Maria and
+Mrs. Collins, she addressed a variety of questions to [[Maria]] and
 Elizabeth, but especially to the latter, of whose connections she knew
 the least, and who, she observed to Mrs. Collins, was a very genteel,
 pretty kind of girl. She asked her at different times how many sisters
@@ -167,7 +167,7 @@ Bennet?”
 
 “A little.”
 
-“Oh then--some time or other we shall be happy to hear you. Our
+“Oh then--some [[Time|time]] or other we shall be happy to hear you. Our
 instrument is a capital one, probably superior to ---- you shall try it
 some day. Do your sisters play and sing?”
 
@@ -184,17 +184,17 @@ you draw?”
 “Not one.”
 
 “That is very strange. But I suppose you had no opportunity. Your mother
-should have taken you to town every spring for the benefit of masters.”
+should have taken you to town every [[spring]] for the benefit of masters.”
 
-“My mother would have no objection, but my father hates London.”
+“My mother would have no objection, but my father hates [[London]].”
 
 “Has your governess left you?”
 
 “We never had any governess.”
 
-“No governess! How was that possible? Five daughters brought up at home
+“No governess! How was that possible? Five daughters brought up at [[Home|home]]
 without a governess! I never heard of such a thing. Your mother must
-have been quite a slave to your education.”
+have been quite a slave to your [[Education|education]].”
 
 Elizabeth could hardly help smiling, as she assured her that had not
 been the case.
@@ -207,12 +207,12 @@ wished to learn never wanted the means. We were always encouraged to
 read, and had all the masters that were necessary. Those who chose to be
 idle certainly might.”
 
-“Ay, no doubt: but that is what a governess will prevent; and if I had
+“Ay, no [[Doubt|doubt]]: but that is what a governess will prevent; and if I had
 known your mother, I should have advised her most strenuously to engage
-one. I always say that nothing is to be done in education without steady
+one. I always say that nothing is to be done in [[Education|education]] without steady
 and regular instruction, and nobody but a governess can give it. It is
 wonderful how many families I have been the means of supplying in that
-way. I am always glad to get a young person well placed out. Four nieces
+way. I am always glad to get a young person [[Well|well]] placed out. Four nieces
 of Mrs. Jenkinson are most delightfully situated through my means; and
 it was but the other day that I recommended another young person, who
 was merely accidentally mentioned to me, and the family are quite
@@ -253,7 +253,7 @@ conceal your age.”
 When the gentlemen had joined them, and tea was over, the card tables
 were placed. Lady Catherine, Sir William, and Mr. and Mrs. Collins sat
 down to quadrille; and as Miss De Bourgh chose to play at cassino, the
-two girls had the honour of assisting Mrs. Jenkinson to make up her
+two girls had the [[Honour|honour]] of assisting Mrs. Jenkinson to make up her
 party. Their table was superlatively stupid. Scarcely a syllable was
 uttered that did not relate to the game, except when Mrs. Jenkinson
 expressed her fears of Miss De Bourgh’s being too hot or too cold, or
@@ -262,13 +262,13 @@ other table. Lady Catherine was generally speaking--stating the mistakes
 of the three others, or relating some anecdote of herself. Mr. Collins
 was employed in agreeing to everything her Ladyship said, thanking her
 for every fish he won, and apologizing if he thought he won too many.
-Sir William did not say much. He was storing his memory with anecdotes
+Sir William did not say much. He was storing his [[Memory|memory]] with anecdotes
 and noble names.
 
 When Lady Catherine and her daughter had played as long as they chose,
 the tables were broken up, the carriage was offered to Mrs. Collins,
 gratefully accepted, and immediately ordered. The party then gathered
-round the fire to hear Lady Catherine determine what weather they were
+round the [[Fire|fire]] to hear Lady Catherine determine what weather they were
 to have on the morrow. From these instructions they were summoned by the
 arrival of the coach; and with many speeches of thankfulness on Mr.
 Collins’s side, and as many bows on Sir William’s, they departed. As

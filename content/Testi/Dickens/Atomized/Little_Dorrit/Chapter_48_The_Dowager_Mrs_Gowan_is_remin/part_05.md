@@ -17,7 +17,7 @@ tags:
 ‘You see?’ said Mrs Gowan, turning the palms of her hands towards Mr
 Meagles, as if she were Justice herself, representing to him that he had
 better confess, for he had not a leg to stand on. ‘You see? Very good!
-Now Papa and Mama Meagles both!’ here she rose; ‘allow me to take the
+Now Papa and Mama Meagles both!’ here she [[Rose|rose]]; ‘allow me to take the
 liberty of putting an end to this rather formidable controversy. I will
 not say another word upon its merits. I will only say that it is an
 additional proof of what one knows from all experience; that this kind
@@ -45,10 +45,10 @@ quite amusing in its impracticability. I assure you it never does.’
 The Dowager here made a smiling obeisance, rather to the room than to
 any one in it, and therewith took a final farewell of Papa and Mama
 Meagles. Clennam stepped forward to hand her to the Pill-Box which was
-at the service of all the Pills in Hampton Court Palace; and she got
+at the service of all the Pills in Hampton [[Court]] Palace; and she got
 into that vehicle with distinguished serenity, and was driven away.
 
-Thenceforth the Dowager, with a light and careless humour, often
+Thenceforth the Dowager, with a light and careless [[Humour|humour]], often
 recounted to her particular acquaintance how, after a hard trial, she
 had found it impossible to know those people who belonged to Henry’s
 wife, and who had made that desperate set to catch him. Whether she had
@@ -56,5 +56,5 @@ come to the conclusion beforehand, that to get rid of them would give
 her favourite pretence a better air, might save her some occasional
 inconvenience, and could risk no loss (the pretty creature being fast
 married, and her father devoted to her), was best known to herself.
-Though this history has its opinion on that point too, and decidedly in
+Though this [[history]] has its opinion on that point too, and decidedly in
 the affirmative.

@@ -18,7 +18,7 @@ CHAPTER LIV.
 The Fugitives
 
 
-Tea-time, an hour short of midnight; the place, a French apartment,
+Tea-[[Time|time]], an hour short of midnight; the place, a French apartment,
 comprising some half-dozen rooms;—a dull cold hall or corridor, a
 dining-room, a drawing-room, a bed-room, and an inner drawingroom, or
 boudoir, smaller and more retired than the rest. All these shut in by
@@ -28,32 +28,32 @@ of communication with the remaining portion of the apartment, or with
 certain small passages within the wall, leading, as is not unusual in
 such houses, to some back stairs with an obscure outlet below. The
 whole situated on the first floor of so large an Hotel, that it did not
-absorb one entire row of windows upon one side of the square court-yard
+absorb one entire row of windows upon one side of the square [[Court|court]]-yard
 in the centre, upon which the whole four sides of the mansion looked.
 
-An air of splendour, sufficiently faded to be melancholy, and
+An air of splendour, sufficiently faded to be [[Melancholy|melancholy]], and
 sufficiently dazzling to clog and embarrass the details of life with a
 show of state, reigned in these rooms. The walls and ceilings were
 gilded and painted; the floors were waxed and polished; crimson drapery
-hung in festoons from window, door, and mirror; and candelabra, gnarled
-and intertwisted like the branches of trees, or horns of animals, stuck
-out from the panels of the wall. But in the day-time, when the
+hung in festoons from [[Window|window]], door, and [[Mirror|mirror]]; and candelabra, gnarled
+and intertwisted like the branches of trees, or horns of [[Animals|animals]], stuck
+out from the panels of the wall. But in the day-[[Time|time]], when the
 lattice-blinds (now closely shut) were opened, and the light let in,
-traces were discernible among this finery, of wear and tear and dust,
+traces were discernible among this finery, of wear and tear and [[Dust|dust]],
 of sun and damp and smoke, and lengthened intervals of want of use and
 habitation, when such shows and toys of life seem sensitive like life,
-and waste as men shut up in prison do. Even night, and clusters of
+and waste as men shut up in [[Prison|prison]] do. Even [[Night|night]], and clusters of
 burning candles, could not wholly efface them, though the general
 glitter threw them in the shade.
 
 The glitter of bright tapers, and their reflection in looking-glasses,
-scraps of gilding and gay colours, were confined, on this night, to one
+scraps of gilding and gay colours, were confined, on this [[Night|night]], to one
 room—that smaller room within the rest, just now enumerated. Seen from
 the hall, where a lamp was feebly burning, through the dark perspective
 of open doors, it looked as shining and precious as a gem. In the heart
 of its radiance sat a beautiful woman—Edith.
 
-She was alone. The same defiant, scornful woman still. The cheek a
+She was [[Alone|alone]]. The same defiant, scornful woman still. The cheek a
 little worn, the eye a little larger in appearance, and more lustrous,
 but the haughty bearing just the same. No shame upon her brow; no late
 repentance bending her disdainful neck. Imperious and stately yet, and
@@ -61,7 +61,7 @@ yet regardless of herself and of all else, she sat with her dark eyes
 cast down, waiting for someone.
 
 No book, no work, no occupation of any kind but her own thought,
-beguiled the tardy time. Some purpose, strong enough to fill up any
+beguiled the tardy [[Time|time]]. Some purpose, strong enough to fill up any
 pause, possessed her. With her lips pressed together, and quivering if
 for a moment she released them from her control; with her nostril
 inflated; her hands clasped in one another; and her purpose swelling in
@@ -81,10 +81,10 @@ route, and left the letter for Madame—Madame had received it surely?”
 
 “A thousand pardons! The sudden apprehension that it might have been
 forgotten had struck him;” a bald man, with a large beard from a
-neighbouring restaurant; “with despair! Monsieur had said that supper
+neighbouring restaurant; “with [[Despair|despair]]! Monsieur had said that supper
 was to be ready at that hour: also that he had forewarned Madame of the
 commands he had given, in his letter. Monsieur had done the Golden Head
-the honour to request that the supper should be choice and delicate.
+the [[Honour|honour]] to request that the supper should be choice and delicate.
 Monsieur would find that his confidence in the Golden Head was not
 misplaced.”
 
@@ -130,6 +130,6 @@ supper came.
 
 The hot dishes were on a chafing-dish; the cold already set forth, with
 the change of service on a sideboard. Monsieur was satisfied with this
-arrangement. The supper table being small, it pleased him very well.
+arrangement. The supper table being small, it pleased him very [[Well|well]].
 Let them set the chafing-dish upon the floor, and go. He would remove
 the dishes with his own hands.

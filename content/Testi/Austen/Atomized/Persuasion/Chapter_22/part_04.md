@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 22 (part 4)"
+title: "[[Persuasion]] — Chapter 22 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -18,7 +18,7 @@ fell into all her wonted ways of attention and assistance, and on
 
 Charles’s leaving them together, was listening to Mrs Musgrove’s
 
-history of Louisa, and to Henrietta’s of herself, giving opinions on
+[[history]] of Louisa, and to Henrietta’s of herself, giving opinions on
 
 business, and recommendations to shops; with intervals of every help
 
@@ -26,9 +26,9 @@ which Mary required, from altering her ribbon to settling her accounts;
 
 from finding her keys, and assorting her trinkets, to trying to
 
-convince her that she was not ill-used by anybody; which Mary, well
+convince her that she was not ill-used by anybody; which Mary, [[Well|well]]
 
-amused as she generally was, in her station at a window overlooking the
+amused as she generally was, in her station at a [[Window|window]] overlooking the
 
 entrance to the Pump Room, could not but have her moments of imagining.
 
@@ -56,7 +56,7 @@ again. Their last meeting had been most important in opening his
 
 feelings; she had derived from it a delightful conviction; but she
 
-feared from his looks, that the same unfortunate persuasion, which had
+feared from his looks, that the same unfortunate [[Persuasion|persuasion]], which had
 
 hastened him away from the Concert Room, still governed. He did not
 
@@ -84,7 +84,7 @@ misconstructions of the most mischievous kind.
 
 
 
-“Anne,” cried Mary, still at her window, “there is Mrs Clay, I am sure,
+“Anne,” cried Mary, still at her [[Window|window]], “there is Mrs Clay, I am sure,
 
 standing under the colonnade, and a gentleman with her. I saw them turn
 
@@ -104,7 +104,7 @@ to-morrow.”
 
 
 
-As she spoke, she felt that Captain Wentworth was looking at her, the
+As she spoke, she felt that [[Captain Wentworth]] was looking at her, the
 
 consciousness of which vexed and embarrassed her, and made her regret
 
@@ -144,7 +144,7 @@ forgot all about Lyme.”
 
 To pacify Mary, and perhaps screen her own embarrassment, Anne did move
 
-quietly to the window. She was just in time to ascertain that it really
+quietly to the [[Window|window]]. She was just in [[Time|time]] to ascertain that it really
 
 was Mr Elliot, which she had never believed, before he disappeared on
 
@@ -160,7 +160,7 @@ going, I suppose, that is all, or I may be mistaken, I might not
 
 attend;” and walked back to her chair, recomposed, and with the
 
-comfortable hope of having acquitted herself well.
+comfortable [[Hope|hope]] of having acquitted herself [[Well|well]].
 
 
 
@@ -172,15 +172,15 @@ with—
 
 
 
-“Well, mother, I have done something for you that you will like. I have
+“[[Well]], mother, I have done something for you that you will like. I have
 
-been to the theatre, and secured a box for to-morrow night. A’n’t I a
+been to the theatre, and secured a box for to-morrow [[Night|night]]. A’n’t I a
 
-good boy? I know you love a play; and there is room for us all. It
+good boy? I know you [[Love|love]] a play; and there is room for us all. It
 
-holds nine. I have engaged Captain Wentworth. Anne will not be sorry to
+holds nine. I have engaged [[Captain Wentworth]]. Anne will not be sorry to
 
-join us, I am sure. We all like a play. Have not I done well, mother?”
+join us, I am sure. We all like a play. Have not I done [[Well|well]], mother?”
 
 
 
@@ -194,9 +194,9 @@ Mary eagerly interrupted her by exclaiming—
 
 “Good heavens, Charles! how can you think of such a thing? Take a box
 
-for to-morrow night! Have you forgot that we are engaged to Camden
+for to-morrow [[Night|night]]! Have you forgot that we are engaged to Camden
 
-Place to-morrow night? and that we were most particularly asked to meet
+Place to-morrow [[Night|night]]? and that we were most particularly asked to meet
 
 Lady Dalrymple and her daughter, and Mr Elliot, and all the principal
 

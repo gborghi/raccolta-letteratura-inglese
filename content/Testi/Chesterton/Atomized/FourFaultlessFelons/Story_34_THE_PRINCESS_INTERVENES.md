@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE PRINCESS INTERVENES"
+title: "[[FourFaultlessFelons]] — THE PRINCESS INTERVENES"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,13 +20,13 @@ III THE PRINCESS INTERVENES
 
 THE moment that Colonel Grimm of the Pavonian Police saw that black face
 
-turned like a blue mask to the moon, he knew that the whole machinery of
+turned like a blue mask to the [[Moon|moon]], he knew that the whole machinery of
 
 the State must act together like one mantrap to catch one man. He wanted
 
 to catch the other three men who were his fellow-conspirators, of course,
 
-and he thanked his stars for the chance of catching them all together in
+and he thanked his [[Stars|stars]] for the chance of catching them all together in
 
 one room, but it was the fourth man whose presence made the huge and
 
@@ -44,7 +44,7 @@ For Grimm had a special score to settle with the great General Case. He
 
 had suspected months before that there might be movements on the frontier
 
-and attempts of the revolutionary foreign government to make signals to
+and attempts of the revolutionary foreign [[government]] to make signals to
 
 the discontented classes in Pavonia. He had repeatedly pressed diplomatic
 
@@ -54,7 +54,7 @@ representatives of Pavonian interests, and the answer had always been
 
 soothing and had always been the same. General Case gave his word of
 
-honour that he had not the faintest intention of meddling with the
+[[Honour|honour]] that he had not the faintest intention of meddling with the
 
 internal affairs of Pavonia. General Case was a plain soldier and no
 
@@ -66,21 +66,21 @@ was seriously ill, and had practically already retired. All these
 
 diplomatic reassurances had been dispatched one after another, lulling to
 
-a large extent the listless amiability of the King, favourably impressing
+a large extent the listless amiability of the [[King]], favourably impressing
 
-the fussy self-importance of the Prime Minister, and leaving only a very
+the fussy [[Self|self]]-importance of the Prime Minister, and leaving only a very
 
-vague and dying doubt even in the more cynical mind of the Chief of
+vague and dying [[Doubt|doubt]] even in the more cynical mind of the Chief of
 
 Police. And now this was the sequel, and the secret of what was really
 
 going on. This was how the aged and more or less dying African retired
 
-into private life. General Case was dangerously ill, but well enough to
+into private life. General Case was dangerously ill, but [[Well|well]] enough to
 
 go out to dinner. By a curious coincidence, he was dining with the three
 
-men vowed to destroy the Government with which he professed to be at
+men vowed to destroy the [[government|Government]] with which he professed to be at
 
 peace. The Chief of Police ground his teeth and looked down the street
 
@@ -90,23 +90,23 @@ it.
 
 
 
-It was likely enough that there was little time to lose. The presence of
+It was likely enough that there was little [[Time|time]] to lose. The presence of
 
 the foreign military leader might mean all sorts of things. It might mean
 
 tons of dynamite under the street where they stood; it might at least
 
-mean dumps of munitions in every dark corner of the city, accessible to
+mean dumps of munitions in every dark corner of the [[City|city]], accessible to
 
 the leaders of the mob. At the worst, there was one thing that might save
 
 them yet. And that was the instant, sudden and simultaneous arrest of all
 
-the four men in that house, leaving the whole revolution without leaders.
+the four men in that [[house]], leaving the whole revolution without leaders.
 
 Grimm waited till his little troop of armed men had drawn up before the
 
-house and then cautiously advanced up the steps to the door. He had
+[[house]] and then cautiously advanced up the steps to the door. He had
 
 already made certain that similar groups were posted behind and on all
 
@@ -122,9 +122,9 @@ and the light in the lighted dining-room instantly went out.
 
 
 
-For some time there was no other response; then he hammered on the door
+For some [[Time|time]] there was no other response; then he hammered on the door
 
-again, calling out in his strong voice in the King's name and threatening
+again, calling out in his strong voice in the [[King]]'s name and threatening
 
 that the door would be forced immediately. Then at last the door was
 
@@ -132,7 +132,7 @@ opened by the pale servant in livery, who had evidently received orders
 
 to delay the entrance of the police by every exhibition of stupidity and
 
-helplessness. With almost inconceivable absence of humour, he said that
+helplessness. With almost inconceivable absence of [[Humour|humour]], he said that
 
 his master and the company were engaged and could not see any visitors.
 
@@ -140,7 +140,7 @@ But Grimm paid no attention to what he guessed to be an order repeated by
 
 rote. Without further ceremony he pushed the servant aside, merely saying
 
-to his subordinate behind, "Keep hold of this fellow; we may as well bag
+to his subordinate behind, "Keep hold of this fellow; we may as [[Well|well]] bag
 
 him with the rest." Then he thrust his way down the dark passage and
 
@@ -186,7 +186,7 @@ as if the diner was not so easily to be detached from his dinner. But he
 
 and all the rest had vanished; suddenly, silently and completely, as the
 
-light had vanished from the window with the first blow upon the door.
+light had vanished from the [[Window|window]] with the first blow upon the door.
 
 
 
@@ -194,7 +194,7 @@ light had vanished from the window with the first blow upon the door.
 
 bolting for some other exit. Send the men down to the basement at once,
 
-and see that Hart is watching the house at the back. They can't be far
+and see that Hart is watching the [[house]] at the back. They can't be far
 
 off yet; this coffee is still quite hot and I think he was just going to
 
@@ -210,7 +210,7 @@ here?"
 
 "Obviously they were," replied Grimm. "One doesn't need to be much of a
 
-detective to pick out the separate places of all four. Their very plates
+[[Detective|detective]] to pick out the separate places of all four. Their very plates
 
 are like portraits; you can almost see them all sitting there. Look at
 
@@ -224,9 +224,9 @@ about nothing but health and get unhealthier every day by doing so. He's
 
 full of all sorts of food fads, and must be a most dismal person to dine
 
-with. However, the others have fortified themselves pretty well against
+with. However, the others have fortified themselves pretty [[Well|well]] against
 
-dismalness. Our romantic Sebastian, who colours everything crimson and
+dismalness. Our romantic [[Sebastian]], who colours everything crimson and
 
 purple, even his hair-what else should he drink but Burgundy? But that
 
@@ -240,7 +240,7 @@ champagne, but very expensive, and to have black coffee, the proper
 
 digestive, after it. Ah, he understands health better than the health
 
-faddist does! But there's something blood-curdling about these cultured
+faddist does! But there's something [[Blood|blood]]-curdling about these cultured
 
 Jews, with their delicate and cautious art of pleasure. Some say it's
 
@@ -252,7 +252,7 @@ While he was talking thus, apparently at random, he was thoroughly
 
 ransacking the room, leaving to his subordinates the ransacking of the
 
-house, and his frown was heavy though his tone was light.
+[[house]], and his frown was heavy though his tone was light.
 
 
 
@@ -264,7 +264,7 @@ cupboards, no bookcases; there was certainly no other door and it was
 
 preposterous to suppose that, under the eyes of all the gendarmes, four
 
-men could have escaped by the window. Grimm made a preliminary
+men could have escaped by the [[Window|window]]. Grimm made a preliminary
 
 examination of the floor, which seemed quite solid, a sort of concrete,
 
@@ -272,15 +272,15 @@ coloured with a dull, wavering pattern of an old-fashioned type. Of
 
 course, the four men might have gone out by the door of the room before
 
-their servant had opened the door of the house, but even so, it was not
+their servant had opened the door of the [[house]], but even so, it was not
 
 easy to say where they had gone to. For indeed the ransacking of the
 
-house had proved even more barren than the ransacking of the room; and
+[[house]] had proved even more barren than the ransacking of the room; and
 
 they were considerably surprised to find that there was so little of the
 
-house to ransack. There was no basement; there was only one narrow back
+[[house]] to ransack. There was no basement; there was only one narrow back
 
 door; there was only one other small room, like a smoking-room, at the
 
@@ -296,13 +296,13 @@ the facade. It sharpened a certain sense of the whole Crescent having
 
 something hollow about it; like a stone mask of some cold, classical
 
-comedy. Perhaps the moon also made it look a little spectral, but he
+[[Comedy|comedy]]. Perhaps the [[Moon|moon]] also made it look a little spectral, but he
 
 could not help entertaining for a flash of that pale light the absurd
 
 fancy that the street itself had been staged as a part of the plot or
 
-comedy, and that it was like a pasteboard palace in a pantomime. His
+[[Comedy|comedy]], and that it was like a pasteboard palace in a pantomime. His
 
 common sense, returning, told him that the imposture was of an older and
 
@@ -322,7 +322,7 @@ tribunes of a revolution. There was not much room to store dynamite or
 
 dump munitions here, anyhow. But another incongruous fancy flitted across
 
-his mind; they might well have been storing an entirely new sort of
+his mind; they might [[Well|well]] have been storing an entirely new sort of
 
 chemical gas, that made solid human bodies vanish like smoke or turn
 
@@ -340,21 +340,21 @@ line or direction that they could discover; if anybody had escaped to
 
 anywhere, except into the bowels of the earth, he must have done it under
 
-a hundred staring eyes and the staring moon. The giant man-trap had
+a hundred staring eyes and the staring [[Moon|moon]]. The giant man-trap had
 
 closed with the most scientific precision and perfection; only the trap
 
 was empty. It was with this gloomy and even alarmist news that the Chief
 
-of Police and the financier, playing the amateur detective, went back to
+of Police and the financier, playing the amateur [[Detective|detective]], went back to
 
-report to the Prime Minister and the King.
+report to the Prime Minister and the [[King]].
 
 
 
 Despite the swiftness with which Colonel Grimm had darted out of the rear
 
-of the house after the fugitives, he was brought up all standing at the
+of the [[house]] after the fugitives, he was brought up all standing at the
 
 corner of the next street, by an exhibition that affected him like an
 
@@ -362,7 +362,7 @@ explosion. The whole of the blank wall was plastered with new placards;
 
 so new that they might almost have been put there since the raid on the
 
-house; conceivably even flung behind as a last gesture of insolence by
+[[house]]; conceivably even flung behind as a last gesture of insolence by
 
 the runaway rebels, like the paper scattered by the hares in a
 
@@ -376,17 +376,17 @@ But it was the proclamations themselves that were most arresting. They
 
 were mostly scrawled in red paint or ink, which had even run here and
 
-there, perhaps with a melodramatic suggestion of blood. They all began
+there, perhaps with a melodramatic suggestion of [[Blood|blood]]. They all began
 
 with the word "Now" in gigantic letters, followed by the assertion "The
 
-Word will be spoken to-night". The brief paragraphs that followed were to
+Word will be spoken to-[[Night|night]]". The brief paragraphs that followed were to
 
-the effect that all was now ready for the blow at the Government which
+the effect that all was now ready for the blow at the [[government|Government]] which
 
 had failed in its last desperate effort to capture the men who would
 
-tomorrow be the rulers of the city. It was notable that the people were
+tomorrow be the rulers of the [[City|city]]. It was notable that the people were
 
 adjured especially to "Look to the Frontiers" and it was not only implied
 
@@ -398,15 +398,15 @@ thick and thunderous lips of the sinister African would speak it.
 
 Passing up the Poplar Avenue towards the red-brick Georgian palace, they
 
-found the King of Pavonia in another room, in another suit of clothes and
+found the [[King]] of Pavonia in another room, in another suit of clothes and
 
 in another frame of mind. He was no longer in uniform, but in a
 
-light-grey lounge suit and very obviously lounging. King Clovis was a
+light-grey lounge suit and very obviously lounging. [[King]] Clovis was a
 
-paradox in many ways; he hated formality and yet he was very formal, on
+[[Paradox|paradox]] in many ways; he hated formality and yet he was very formal, on
 
-formal occasions; in spite of the paradox, we might say that he hated
+formal occasions; in spite of the [[Paradox|paradox]], we might say that he hated
 
 formal occasions because they made him very formal. But in this more
 
@@ -414,15 +414,15 @@ comfortable apartment, with tea-things on the table, he was in the bosom
 
 of his family, so far as the presence of a niece sitting on a sofa and
 
-staring out of a window constituted a bosom in the traditional sense. The
+staring out of a [[Window|window]] constituted a bosom in the traditional sense. The
 
 Princess, whom the works of reference called Aurelia and whom her uncle
 
-called Mary, was rather distrait and silent, but the King had no
+called Mary, was rather distrait and silent, but the [[King]] had no
 
-objection to silence. The Prime Minister was not present; he always
+objection to [[Silence|silence]]. The Prime Minister was not present; he always
 
-imparted a nameless nuance of fussiness, and the King had a great
+imparted a nameless nuance of fussiness, and the [[King]] had a great
 
 objection to fuss.
 
@@ -430,13 +430,13 @@ objection to fuss.
 
 The Chief of Police told the story of his dramatic disappointment and the
 
-King listened to it with mild wonder but without any appearance of
+[[King]] listened to it with mild [[Wonder|wonder]] but without any appearance of
 
 irritation.
 
 
 
-"I suppose," he said, "that if that old Jew really bought the house
+"I suppose," he said, "that if that old Jew really bought the [[house]]
 
 specially for them, he must have fixed up some sort of trick in it."
 
@@ -470,11 +470,11 @@ rather decline to talk, you would think there was nobody in it. It's
 
 called the Brotherhood of The Word, but it seems to me more like the
 
-Brotherhood of The Silence. They all stare you blindly in the face, and
+Brotherhood of The [[Silence]]. They all stare you blindly in the face, and
 
 smile, or say a word about the weather, and there's no catching them by
 
-any cross-examination. That's evidently the policy of the whole business.
+any [[Cross|cross]]-examination. That's evidently the policy of the whole business.
 
 The crowd is more invisible than the conspirators, so to speak. Only
 
@@ -500,7 +500,7 @@ out gunning for General Case."
 
 
 
-"We must be thankful for small things," said the King. "What does the
+"We must be thankful for small things," said the [[King]]. "What does the
 
 stupid footman say?"
 
@@ -518,21 +518,21 @@ idea of being loyal to his master."
 
 
 
-The Princess turned her head for the first time and said: "Has anybody
+The Princess turned her head for the first [[Time|time]] and said: "Has anybody
 
-suggested the rather brighter idea of being loyal to his King?"
+suggested the rather brighter idea of being loyal to his [[King]]?"
 
 
 
-"I'm afraid," said Clovis, in a nervous and uneasy manner, "that the time
+"I'm afraid," said Clovis, in a nervous and uneasy manner, "that the [[Time|time]]
 
 has gone by for cavaliers and gallant courtiers, Mary. You can't solve
 
-modern political problems by telling people to be loyal to the King."
+modern political problems by telling people to be loyal to the [[King]]."
 
 
 
-"Why do they tell them to be loyal to everything else except the King?"
+"Why do they tell them to be loyal to everything else except the [[King]]?"
 
 asked the young lady, with some warmth. "When there's a strike or
 
@@ -552,7 +552,7 @@ considered the same thing."
 
 
 
-His Majesty the King of Pavonia stared at his niece with a sort of vague
+His Majesty the [[King]] of Pavonia stared at his niece with a sort of vague
 
 alarm, as if a kitten had turned into a tiger-cat on the hearth-rug. But
 
@@ -562,7 +562,7 @@ impatience.
 
 
 
-"Why must the King be the only private gentleman in Pavonia? All the
+"Why must the [[King]] be the only private gentleman in Pavonia? All the
 
 others are extremely public gentlemen or public parodies of gentlemen.
 
@@ -576,9 +576,9 @@ artificial; he was like some painted and gilded doll or mummy dancing.
 
 But what annoyed me most was that peacock-coloured scarf flapping round
 
-his neck, and making me remember the old peacock flag of the Pavonians,
+his neck, and making me remember the old peacock [[Flag|flag]] of the Pavonians,
 
-and how they say that the peacock fans were carried before the King even
+and how they say that the peacock fans were carried before the [[King]] even
 
 in battle. What business has he got to wear such colours, if we mayn't?
 
@@ -592,7 +592,7 @@ they do exactly what kings used to do, when kings had any sense. Your
 
 papers and politicians talk about the dreadful growth of Red propaganda
 
-and wonder how it can be popular. Why, because it's Red, of course. Kings
+and [[Wonder|wonder]] how it can be popular. Why, because it's Red, of course. Kings
 
 and cardinals and peers and judges used to be Red, when we weren't
 
@@ -614,7 +614,7 @@ and--"
 
 firmly. "I have every intention of sticking to the footman, too, and
 
-preventing any fool from letting him go. Don't you see he is just the
+preventing any [[Fool|fool]] from letting him go. Don't you see he is just the
 
 sort of thing I mean? All the nonsense they talk against patriotism and
 
@@ -624,7 +624,7 @@ servant of any rascally adventurer. He is put into a livery to be loyal
 
 to a conspirator, because we were afraid to put him into a uniform and
 
-ask him to be loyal to a king."
+ask him to be loyal to a [[King|king]]."
 
 
 
@@ -638,13 +638,13 @@ Royal Highness's view. But I'm afraid it's too late to do that now."
 
 the real point to a man like that? Have you ever asked him what he feels
 
-about his loyalties and his country and the king he heard about when he
+about his loyalties and his country and the [[King|king]] he heard about when he
 
-was a child? Not you; you've just badgered him like a barrister about
+was a [[Child|child]]? Not you; you've just badgered him like a barrister about
 
-details of time and place that no healthy human being ever remembers, and
+details of [[Time|time]] and place that no healthy human being ever remembers, and
 
-he's reduced to looking like the village idiot, and I don't wonder. I
+he's reduced to looking like the village idiot, and I don't [[Wonder|wonder]]. I
 
 should like to talk to him myself."
 
@@ -670,13 +670,13 @@ experiment in social science, it might be very interesting to try these
 
 theories upon him, but he is only a sample of the social material all
 
-round. Meanwhile, we should surely lose no time in concentrating on the
+round. Meanwhile, we should surely lose no [[Time|time]] in concentrating on the
 
 really great and dangerous public characters whom we are pursuing. The
 
 Professor is a man of world-wide reputation; the General is a military
 
-hero at the head of armies, and really to stand quarrelling over the
+[[Hero|hero]] at the head of armies, and really to stand quarrelling over the
 
 ignorance of a chance lackey--"
 
@@ -686,7 +686,7 @@ As he spoke he found himself wavering between the door and the advancing
 
 Princess, and in his throat also the words seemed to dry up. For both men
 
-had suddenly seen the face of something that is intolerant and innocent
+had suddenly seen the face of something that is intolerant and [[Innocent|innocent]]
 
 and not altogether of this world; the completeness of that conviction in
 
@@ -696,4 +696,4 @@ fell back before her as the great princess demanded audience with a
 
 flunkey, as if there were something in her of that great peasant girl
 
-from Domremy when she demanded audience of a King.
+from Domremy when she demanded audience of a [[King]].

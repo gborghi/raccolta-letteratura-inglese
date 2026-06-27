@@ -17,21 +17,21 @@ tags:
 The Words of Strong Poetry
 
 
-The writing of Free Verse is currently compared to talking,
+The writing of [[Free Verse]] is currently compared to talking,
 as in the accepted French phrase about a causerie.
 And indeed any one who has conducted it so continuously and so
 long is apt to forget that anything he says may be taken down
 and used in evidence against him.  I have always done my best
 to remember that I am rather in the dock than in the pulpit,
 and that I have very little to say, though I have said a good deal,
-to show why sentence of death should not be passed on me.
+to show why sentence of [[Death|death]] should not be passed on me.
 When Science has really completed all these comforts which it
 promises mankind, and when all conversations are automatically
 taken down on a dictaphone or repeated on a phonograph, I rather
-doubt whether many people will want to put on the records.
+[[Doubt|doubt]] whether many people will want to put on the records.
 But, just as many a man has said that he hardly knew his
 own voice when it came back to him out of a gramophone,
-so I often wonder, when I chance to come in contact with some
+so I often [[Wonder|wonder]], when I chance to come in contact with some
 of the cracked and dreary records, how I failed to make
 my voice properly heard or my meaning sufficiently clear.
 Sometimes it arises from unavoidable hurry or pressure of work;
@@ -40,26 +40,26 @@ order and to put first things first.  Sometimes I find I
 have taken things for granted, used words that have six
 or seven meanings, left out important steps of the argument,
 jumped to conclusions, and acted in short as if I were a Professor
-of Universal Science expounding an Outline of Universal History
+of Universal Science expounding an Outline of Universal [[history|History]]
 for Neglected Aunts and Uncles.
 
 Many of these things are merely the inevitable disadvantages of
 the causerie; but there is one very real advantage in a causerie,
-even in the literal sense of a talk.  Oliver Wendell Holmes
+even in the literal sense of a talk.  [[Oliver]] Wendell Holmes
 expressed it excellently when he said that writing to a man was
 like firing at him with a gun, while talking to him was like playing
-on him with a garden-hose. In the first case it is hit and miss;
+on him with a [[Garden|garden]]-hose. In the first case it is hit and miss;
 in the second a man can correct his mistakes and correct his
-line of fire, or rather of water.  In such a case, this kind
+line of [[Fire|fire]], or rather of [[Water|water]].  In such a case, this kind
 of causerie has really some of the advantages of conversation.
 I will, therefore, have a shot at the free versifier; or rather
 (being too humane to shoot him, and very likely to miss him)
 I will continue to play on him benevolently with the hose,
 till he is soaked and dripping with the refreshing waters of Helicon,
-the true fount of free verse, with which I have the joy of sprinkling
+the true fount of [[Free Verse|free verse]], with which I have the joy of sprinkling
 or asperging him.
 
-I think the first truth about traditional metres is that there is
+I think the first [[Truth|truth]] about traditional metres is that there is
 a sort of speech that is stronger than speech.  Not merely smoother
 or sweeter or more melodious or even more beautiful; but stronger.
 Words are jointed together like bones; they are mortared together
@@ -74,11 +74,11 @@ or let observations fall; they lift them and hold them aloft,
 as the keystone of a strong arch thrusts up the stones, defying the law
 of gravity and the devil and all his angels.  The words of strong
 poetry are packed as tight and solid as the stones of the arch.
-The lines of a good sonnet are like bridges of sound across abysses
-of silence.  The boast of the bridges is that you could march
+The lines of a good [[Sonnet|sonnet]] are like bridges of sound across abysses
+of [[Silence|silence]].  The boast of the bridges is that you could march
 armies across them; that a man can rest his weight on every word.
-The awful cry out of the last tragic trance of Othello, when he realises
-that death is as real as love, finds words worthy of itself;
+The awful cry out of the last tragic trance of [[Othello]], when he realises
+that [[Death|death]] is as real as [[Love|love]], finds words worthy of itself;
 megalithic words; words not only of weight but weight-bearing;
 words strong enough to support him above the abyss.
 `If I quench thee, thou flaming minister . . .' The address to
@@ -89,12 +89,12 @@ And the effect is gained by this firmness in the words and the weight
 that can rest on them.  `I know not where is that Promethean heat.'
 You could stand an elephant on that line.  It is true, first of all,
 as a mere fact of acoustics, that there is not one weak syllable
-in the line.  At the same time, there is also that strength
+in the line.  At the same [[Time|time]], there is also that strength
 of style that is like the strength of gesture.  `I know not where'
 is the essential elemental cry of man, eternally ignorant
 of the beginning of life, or of how it may truly be renewed.
 And it is a plain and simple fact, whether we like it or not,
-that the words `I know not where' do sound like some such ancestral city;
+that the words `I know not where' do sound like some such ancestral [[City|city]];
 while the words, `I don't know where' certainly do not.
 
 Now half the current case for free against traditional verse
@@ -124,10 +124,10 @@ A gentleman lighting a cigarette, in talk over the tea-table,
 would rather unduly suspend social intercourse if he refused
 to blow out the match until he had composed a line as full
 and satisfying as `If I quench thee, thou flaming minister'.
-In truth, of course, it would apply to tragic occasions as well
+In [[Truth|truth]], of course, it would apply to tragic occasions as [[Well|well]]
 as trivial occasions in real life.  A man, after murdering a woman,
-would not talk about Prometheus; he is more likely to confess
-to the nearest policeman that he has done Desdemona in.
+would not talk about [[Prometheus]]; he is more likely to confess
+to the nearest policeman that he has done [[Desdemona]] in.
 But it is none the less true that `done in' is a very weak
 description of what he has done.  It is that weakness
 in the mere words, and especially in the relation of words,

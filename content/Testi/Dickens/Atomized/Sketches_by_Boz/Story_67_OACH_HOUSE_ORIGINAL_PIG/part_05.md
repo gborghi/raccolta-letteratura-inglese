@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — OACH-HOUSE, ORIGINAL PIG. (part 5)"
+title: "Sketches by Boz — OACH-[[house|HOUSE]], ORIGINAL PIG. (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -47,14 +47,14 @@ _President_—Sir William Joltered. _Vice-Presidents_—Mr. Muddlebranes
 and Mr. Drawley.
 
 ‘Mr. X. X. Misty communicated some remarks on the disappearance of
-dancing-bears from the streets of London, with observations on the
+dancing-bears from the streets of [[London]], with observations on the
 exhibition of monkeys as connected with barrel-organs. The writer had
-observed, with feelings of the utmost pain and regret, that some years
+observed, with feelings of the utmost [[Pain|pain]] and regret, that some years
 ago a sudden and unaccountable change in the public taste took place
 with reference to itinerant bears, who, being discountenanced by the
 populace, gradually fell off one by one from the streets of the
 metropolis, until not one remained to create a taste for natural
-history in the breasts of the poor and uninstructed. One bear,
+[[history]] in the breasts of the poor and uninstructed. One bear,
 indeed,—a brown and ragged animal,—had lingered about the haunts of his
 former triumphs, with a worn and dejected visage and feeble limbs, and
 had essayed to wield his quarter-staff for the amusement of the
@@ -62,7 +62,7 @@ multitude; but hunger, and an utter want of any due recompense for his
 abilities, had at length driven him from the field, and it was only too
 probable that he had fallen a sacrifice to the rising taste for grease.
 He regretted to add that a similar, and no less lamentable, change had
-taken place with reference to monkeys. These delightful animals had
+taken place with reference to monkeys. These delightful [[Animals|animals]] had
 formerly been almost as plentiful as the organs on the tops of which
 they were accustomed to sit; the proportion in the year 1829 (it
 appeared by the parliamentary return) being as one monkey to three
@@ -70,10 +70,10 @@ organs. Owing, however, to an altered taste in musical instruments, and
 the substitution, in a great measure, of narrow boxes of music for
 organs, which left the monkeys nothing to sit upon, this source of
 public amusement was wholly dried up. Considering it a matter of the
-deepest importance, in connection with national education, that the
+deepest importance, in connection with national [[Education|education]], that the
 people should not lose such opportunities of making themselves
 acquainted with the manners and customs of two most interesting species
-of animals, the author submitted that some measures should be
+of [[Animals|animals]], the author submitted that some measures should be
 immediately taken for the restoration of these pleasing and truly
 intellectual amusements.
 
@@ -81,17 +81,17 @@ intellectual amusements.
 attain this most desirable end?
 
 ‘The Author submitted that it could be most fully and satisfactorily
-accomplished, if Her Majesty’s Government would cause to be brought
+accomplished, if Her Majesty’s [[government|Government]] would cause to be brought
 over to England, and maintained at the public expense, and for the
 public amusement, such a number of bears as would enable every quarter
 of the town to be visited—say at least by three bears a week. No
 difficulty whatever need be experienced in providing a fitting place
-for the reception of these animals, as a commodious bear-garden could
+for the reception of these [[Animals|animals]], as a commodious bear-[[Garden|garden]] could
 be erected in the immediate neighbourhood of both Houses of Parliament;
 obviously the most proper and eligible spot for such an establishment.
 
 ‘Professor Mull doubted very much whether any correct ideas of natural
-history were propagated by the means to which the honourable member had
+[[history]] were propagated by the means to which the honourable member had
 so ably adverted. On the contrary, he believed that they had been the
 means of diffusing very incorrect and imperfect notions on the subject.
 He spoke from personal observation and personal experience, when he
@@ -99,7 +99,7 @@ said that many children of great abilities had been induced to believe,
 from what they had observed in the streets, at and before the period to
 which the honourable gentleman had referred, that all monkeys were born
 in red coats and spangles, and that their hats and feathers also came
-by nature. He wished to know distinctly whether the honourable
+by [[Nature|nature]]. He wished to know distinctly whether the honourable
 gentleman attributed the want of encouragement the bears had met with
 to the decline of public taste in that respect, or to a want of ability
 on the part of the bears themselves?
@@ -121,9 +121,9 @@ considerable lack of that gallantry and gentlemanly feeling which, in
 more ignorant times, had been thought becoming. He wished to know
 whether it were possible that a constant outward application of
 bears’-grease by the young gentlemen about town had imperceptibly
-infused into those unhappy persons something of the nature and quality
+infused into those unhappy persons something of the [[Nature|nature]] and quality
 of the bear. He shuddered as he threw out the remark; but if this
-theory, on inquiry, should prove to be well founded, it would at once
+theory, on inquiry, should prove to be [[Well|well]] founded, it would at once
 explain a great deal of unpleasant eccentricity of behaviour, which,
 without some such discovery, was wholly unaccountable.
 
@@ -140,11 +140,11 @@ important question should be immediately submitted to the consideration
 of the council.
 
 ‘The President wished to know whether any gentleman could inform the
-section what had become of the dancing-dogs?
+section what had become of the dancing-[[dogs]]?
 
 ‘A Member replied, after some hesitation, that on the day after three
-glee-singers had been committed to prison as criminals by a late most
-zealous police-magistrate of the metropolis, the dogs had abandoned
+glee-singers had been committed to [[Prison|prison]] as criminals by a late most
+zealous police-magistrate of the metropolis, the [[dogs]] had abandoned
 their professional duties, and dispersed themselves in different
 quarters of the town to gain a livelihood by less dangerous means. He
 was given to understand that since that period they had supported
@@ -155,7 +155,7 @@ that noble tree known to naturalists as the Shakspeare, which has taken
 root in every land and climate, and gathered under the shade of its
 broad green boughs the great family of mankind. The learned gentleman
 remarked that the twig had been undoubtedly called by other names in
-its time; but that it had been pointed out to him by an old lady in
+its [[Time|time]]; but that it had been pointed out to him by an old lady in
 Warwickshire, where the great tree had grown, as a shoot of the genuine
 Shakspeare, by which name he begged to introduce it to his countrymen.
 

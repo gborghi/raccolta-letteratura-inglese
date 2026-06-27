@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 2 (part 1)"
+title: "[[Don Quixote]] — Chapter 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -25,7 +25,7 @@ as he did for an instant at the sight of Murrel's scenery,
 he looked pleasant enough.  On being introduced to the lady,
 he bowed with a politeness that was formal and almost stiff;
 the style once found in aristocrats but now most common
-in well-educated artisans; for Braintree had begun life
+in [[Well|well]]-educated artisans; for Braintree had begun life
 as an engineer.
 
 "I came up here because you asked me, Douglas," he said,
@@ -34,28 +34,28 @@ as an engineer.
 "Don't you like my scheme of colour?" asked Murrel.
 "It is much admired."
 
-"Well," replied the other, "I don't know that I do particularly
+"[[Well]]," replied the other, "I don't know that I do particularly
 like your plastering romantic purple over all that old feudal
 tyranny and superstition; but that isn't my difficulty.
 Look here, Douglas; I came here on the strict understanding that I
 might say what I liked; but for all that I don't particularly
-want to talk against the man in his own house if I can help it.
+want to talk against the man in his own [[house]] if I can help it.
 So perhaps the shortest way of putting the difficulty will
-be to say that the Miners' Union here has declared a strike;
-and that I am the secretary of the Miners' Union.  And as I'm
+be to say that the Miners' [[Union]] here has declared a strike;
+and that I am the secretary of the Miners' [[Union]].  And as I'm
 trying to spoil his work by staying out, I think it would
 be a little low down to spoil his play by coming in."
 
 "What are you striking about?" asked Archer.
 
-"Well, we want more money," replied Braintree coolly.  "When two pennies
+"[[Well]], we want more money," replied Braintree coolly.  "When two pennies
 will only buy one penny loaf we want two pennies to buy it with.
 It is called the complexity of the Industrial System.  But what counts
-for even more with the Union is the demand for recognition."
+for even more with the [[Union]] is the demand for recognition."
 
 "Recognition of what?"
 
-"Well, you see, the Trades Union doesn't exist.  It is a grinding tyranny,
+"[[Well]], you see, the Trades [[Union]] doesn't exist.  It is a grinding tyranny,
 and it threatens to destroy all British trade; but it doesn't exist.
 The one thing that Lord Seawood and all its most indignant critics are
 certain about, is that it doesn't exist.  So, by way of suggesting that
@@ -64,15 +64,15 @@ there might possibly be such an entity, we reserve the right to strike."
 "And leave the whole wretched public without coal,
 I suppose," cried Archer heatedly, "if you do, I fancy
 you'll find public opinion is a bit too strong for you.
-If you won't get the coal and the Government won't make you,
+If you won't get the coal and the [[government|Government]] won't make you,
 we'll find people who will get it.  I, for one, would answer
-for a hundred fellows from Oxford and Cambridge or the City,
+for a hundred fellows from [[Oxford]] and Cambridge or the [[City]],
 who wouldn't mind working in the mine to spoil your conspiracy."
 
 "While you're about it," replied Braintree contemptuously,
-"you might as well get a hundred coal-miners to finish Miss Ashley's
+"you might as [[Well|well]] get a hundred coal-miners to finish Miss Ashley's
 illumination for her.  Mining is a very skilled trade, my good sir.
-A coal-miner isn't a coal-heaver. You might do very well
+A coal-miner isn't a coal-heaver. You might do very [[Well|well]]
 as a coal-heaver."
 
 "I suppose you mean that as an insult," said Archer.
@@ -96,12 +96,12 @@ the mine ought to belong to the miner."
 "but how would you manage with the miner owning the mine?"
 
 "Ridiculous idea, isn't it?" said the Syndicalist, "One might
-as well talk about the painter owning the paint-box."
+as [[Well|well]] talk about the painter owning the paint-box."
 
-Olive rose and walked to the French windows that stood open on the garden;
+Olive [[Rose|rose]] and walked to the French windows that stood open on the [[Garden|garden]];
 and looked out, frowning.  The frown was partly at the Syndicalist,
 but partly also at some thoughts of her own.  After a few minutes'
-silence, she stepped out on to the gravel path and walked slowly away.
+[[Silence|silence]], she stepped out on to the gravel path and walked slowly away.
 There was a certain restrained rebuke about the action; but Braintree
 was too hot in his intellectualism to heed it.
 
@@ -113,7 +113,7 @@ how wild and Utopian it is for a fiddler to own his fiddle."
 
 Murrel once more changed the subject to his original frivolities.
 
-"Well, well," he said, "these social problems will never be settled
+"[[Well]], [[Well|well]]," he said, "these social problems will never be settled
 till we fall back on my expedient.  All the nobility and culture
 of France assembled to see Louis XVI put on the red cap.
 How impressive it will be when all our artists and leaders of thought
@@ -124,7 +124,7 @@ Braintree was still looking at Julian Archer with a darkened face.
 "At present," he said, "our artists and leaders have only got
 so far as blacking his boots."
 
-Archer sprang up as if he had been named as well as looked at.
+Archer sprang up as if he had been named as [[Well|well]] as looked at.
 
 "When a gentleman is accused of blacking boots," he said,
 "there is danger of his blacking eyes instead."
@@ -135,7 +135,7 @@ Braintree took one bony fist out of his pocket.
 
 "Don't play the goat, either of you," insisted the peace-maker,
 interposing his large red paint-brush, "don't rampage, Jack.
-You'll put your foot in it--in King Richard's red curtains."
+You'll put your foot in it--in [[King]] [[Richard]]'s red curtains."
 
 Archer retired slowly to his seat again; and his antagonist,
 after an instant's hesitation, turned to go out through
@@ -146,10 +146,10 @@ I'm quite content to have made a hole in your caste.
 What do you want with me?  I know you're really a gentleman;
 but I like you for all that.  But what good has your being
 a real gentleman or sham gentleman ever done to us?
-You know as well as I do that men like me are asked to houses
+You know as [[Well|well]] as I do that men like me are asked to houses
 like this, and they go there to say a word for their mates;
 and you are decent to them, and all sorts of beautiful
 women are decent to them, and everybody's decent to them;
-and the time comes when they become just--well, what do you
+and the [[Time|time]] comes when they become just--[[Well|well]], what do you
 call a man who has a letter to deliver from his friend and is
 afraid to deliver it?"

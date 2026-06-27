@@ -1,5 +1,5 @@
 ---
-title: "Sanity — ON A SENSE OF PROPORTION (part 12)"
+title: "[[Sanity]] — ON A SENSE OF PROPORTION (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -17,30 +17,30 @@ tags:
 The reader refolds the Daily Mail and rises from his intensely
 individualistic breakfast-table, where he has just dispatched his bold
 and adventurous breakfast; the bacon cut in rashers from the wild boar
-which but lately turned to bay in his back garden; the eggs perilously
+which but lately turned to bay in his back [[Garden|garden]]; the eggs perilously
 snatched from swaying nest and flapping bird at the top of those toppling
-trees which gave the house its appropriate name of Pine Crest.
+trees which gave the [[house]] its appropriate name of Pine Crest.
 He puts on his curious and creative hat, built on some bold plan
 entirely made up out of his own curious and creative head.
-He walks outside his unique and unparalleled house, also built
-with his own well-won wealth according to his own well-conceived
+He walks outside his unique and unparalleled [[house]], also built
+with his own [[Well|well]]-won wealth according to his own [[Well|well]]-conceived
 architectural design, and seeming by its very outline against the sky
 to express his own passionate personality.  He strides down the street,
-making his own way over hill and dale towards the place of his own
+making his own way over [[Hill|hill]] and dale towards the place of his own
 chosen and favourite labour, the workshop of his imaginative craft.
 He lingers on the way, now to pluck a flower, now to compose a poem,
-for his time is his own; he is an individual and a free man and not
+for his [[Time|time]] is his own; he is an individual and a free man and not
 as these Communists.  He can work at his own craft when he will,
-and labour far into the night to make up for an idle morning.
+and labour far into the [[Night|night]] to make up for an idle morning.
 Such is the life of the clerk in a world of private enterprise
-and practical individualism; such the manner of his free passage
-from his home.  He continues to stride lightly along, until he sees
+and practical [[Individualism|individualism]]; such the manner of his free passage
+from his [[Home|home]].  He continues to stride lightly along, until he sees
 afar off the picturesque and striking tower of that workshop
 in which he will, as with the creative strokes of a god . . .
 
 He sees it, I say, afar off.  The expression is not wholly accidental.
 For that is exactly the defect in all that sort of journalistic
-philosophy of individualism and enterprise; that those things are
+[[philosophy]] of [[Individualism|individualism]] and enterprise; that those things are
 at present even more remote and improbable than communal visions.
 It is not the dreadful Bolshevist republic that is afar off.
 It is not the Socialistic State that is Utopian.  In that sense,
@@ -51,19 +51,19 @@ in which the clerk reads and the journalist writes.
 Utopia is exactly like the present state of affairs, only worse.
 
 It would make no difference to the clerk if his job became
-a part of a Government department to-morrow. He would be equally
+a part of a [[government|Government]] department to-morrow. He would be equally
 civilized and equally uncivic if the distant and shadowy person
-at the head of the department were a Government official.
+at the head of the department were a [[government|Government]] official.
 Indeed, it does make very little difference to him now,
 whether he or his sons and daughters are employed at the Post Office
 on bold and revolutionary Socialistic principles or employed
 at the Stores on wild and adventurous Individualist principles.
 I never heard of anything resembling civil war between the daughter
-at the Stores and the daughter in the Post Office.  I doubt whether
+at the Stores and the daughter in the Post Office.  I [[Doubt|doubt]] whether
 the young lady at the Post Office is so imbued with Bolshevist
-principles that she would think it a part of the Higher Morality to
+principles that she would think it a part of the Higher [[morality|Morality]] to
 expropriate something without payment off the counter of the Stores.
-I doubt whether the young lady at the Stores shudders when she
+I [[Doubt|doubt]] whether the young lady at the Stores shudders when she
 passes a red pillar box, seeing in it an outpost of the Red Peril.
 
 What is really a long way off is this individuality and liberty
@@ -83,13 +83,13 @@ of the Socialists' ideal.  They are saying that private property
 is too ideal not to be impossible.  They are saying that private
 enterprise is too good to be true.  They are saying that the idea
 of ordinary men owning ordinary possessions is against the laws
-of political economy and requires an alteration in human nature.
+of political economy and requires an alteration in human [[Nature|nature]].
 They are saying that all practical business men know that the thing
 would never work, exactly as the same obliging people are always
 prepared to know that State management would never work.
-For they hold the simple and touching faith that no management
-except their own could ever work.  They call this the law of nature;
-and they call anybody who ventures to doubt it a weakling.
+For they hold the simple and touching [[Faith|faith]] that no management
+except their own could ever work.  They call this the law of [[Nature|nature]];
+and they call anybody who ventures to [[Doubt|doubt]] it a weakling.
 But the point to see is that, although the normal solution
 of private property for all is even now not very widely realized,
 in so far as it is realized by the rulers of the modern market
@@ -120,9 +120,9 @@ from his arms and legs, owing to the improved pattern of wheels,
 than to say that he must for ever say farewell to two supports so natural
 as the sense of choosing for himself and of owning something of his own.
 These critics, whether they figure as critics of Socialism
-or Distributism, are very fond of talking about extravagant stretches
-of the imagination or impossible strains upon human nature.
-I confess I have to stretch and strain my own human imagination
-and human nature very far, to conceive anything so crooked and
-uncanny as the human race ending with a complete forgetfulness
+or [[Distributism]], are very fond of talking about extravagant stretches
+of the [[Imagination|imagination]] or impossible strains upon human [[Nature|nature]].
+I confess I have to stretch and strain my own human [[Imagination|imagination]]
+and human [[Nature|nature]] very far, to conceive anything so crooked and
+[[Uncanny|uncanny]] as the human race ending with a complete forgetfulness
 of the possessive pronoun.

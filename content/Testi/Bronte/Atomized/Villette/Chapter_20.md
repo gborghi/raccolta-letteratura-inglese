@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 20"
+title: "[[Villette]] — Chapter 20"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -28,7 +28,7 @@ She went out. She returned presently with a dressmaker. She had me
 measured. “I mean,” said she, “to follow my own taste, and to have my
 own way in this little matter.”
 
-Two days after came home—a pink dress!
+Two days after came [[Home|home]]—a pink dress!
 
 “That is not for me,” I said, hurriedly, feeling that I would almost as
 soon clothe myself in the costume of a Chinese lady of rank.
@@ -42,67 +42,67 @@ into it. A pink dress! I knew it not. It knew not me. I had not proved
 it.
 
 My godmother went on to decree that I was to go with her and Graham to
-a concert that same night: which concert, she explained, was a grand
+a concert that same [[Night|night]]: which concert, she explained, was a grand
 affair to be held in the large salle, or hall, of the principal musical
 society. The most advanced of the pupils of the Conservatoire were to
 perform: it was to be followed by a lottery “au bénéfice des pauvres;”
-and to crown all, the King, Queen, and Prince of Labassecour were to be
+and to [[Crown|crown]] all, the [[King]], [[Queen]], and Prince of Labassecour were to be
 present. Graham, in sending tickets, had enjoined attention to costume
 as a compliment due to royalty: he also recommended punctual readiness
-by seven o’clock.
+by seven o’[[Clock|clock]].
 
 About six, I was ushered upstairs. Without any force at all, I found
 myself led and influenced by another’s will, unconsulted, unpersuaded,
 quietly overruled. In short, the pink dress went on, softened by some
 drapery of black lace. I was pronounced to be en grande tenue, and
-requested to look in the glass. I did so with some fear and trembling;
-with more fear and trembling, I turned away. Seven o’clock struck; Dr.
+requested to look in the glass. I did so with some [[Fear|fear]] and trembling;
+with more [[Fear|fear]] and trembling, I turned away. Seven o’[[Clock|clock]] struck; Dr.
 Bretton was come; my godmother and I went down. _She_ was clad in brown
-velvet; as I walked in her shadow, how I envied her those folds of
-grave, dark majesty! Graham stood in the drawing-room doorway.
+velvet; as I walked in her [[Shadow|shadow]], how I envied her those folds of
+[[Grave|grave]], dark majesty! Graham stood in the drawing-room doorway.
 
-“I _do_ hope he will not think I have been decking myself out to draw
-attention,” was my uneasy aspiration.
+“I _do_ [[Hope|hope]] he will not think I have been decking myself out to draw
+attention,” was my uneasy [[Aspiration|aspiration]].
 
-“Here, Lucy, are some flowers,” said he, giving me a bouquet. He took
+“Here, Lucy, are some [[Flowers|flowers]],” said he, giving me a bouquet. He took
 no further notice of my dress than was conveyed in a kind smile and
-satisfied nod, which calmed at once my sense of shame and fear of
+satisfied nod, which calmed at once my sense of shame and [[Fear|fear]] of
 ridicule. For the rest; the dress was made with extreme simplicity,
 guiltless of flounce or furbelow; it was but the light fabric and
 bright tint which scared me, and since Graham found in it nothing
 absurd, my own eye consented soon to become reconciled.
 
-I suppose people who go every night to places of public amusement, can
+I suppose people who go every [[Night|night]] to places of public amusement, can
 hardly enter into the fresh gala feeling with which an opera or a
 concert is enjoyed by those for whom it is a rarity: I am not sure that
 I expected great pleasure from the concert, having but a very vague
-notion of its nature, but I liked the drive there well. The snug
-comfort of the close carriage on a cold though fine night, the pleasure
+notion of its [[Nature|nature]], but I liked the drive there [[Well|well]]. The snug
+comfort of the close carriage on a cold though fine [[Night|night]], the pleasure
 of setting out with companions so cheerful and friendly, the sight of
-the stars glinting fitfully through the trees as we rolled along the
-avenue; then the freer burst of the night-sky when we issued forth to
-the open chaussée, the passage through the city gates, the lights there
+the [[Stars|stars]] glinting fitfully through the trees as we rolled along the
+avenue; then the freer burst of the [[Night|night]]-sky when we issued forth to
+the open chaussée, the passage through the [[City|city]] gates, the lights there
 burning, the guards there posted, the pretence of inspection, to which
 we there submitted, and which amused us so much—all these small matters
 had for me, in their novelty, a peculiarly exhilarating charm. How much
-of it lay in the atmosphere of friendship diffused about me, I know
+of it lay in the atmosphere of [[Friendship|friendship]] diffused about me, I know
 not: Dr. John and his mother were both in their finest mood, contending
 animatedly with each other the whole way, and as frankly kind to me as
 if I had been of their kin.
 
-Our way lay through some of the best streets of Villette, streets
-brightly lit, and far more lively now than at high noon. How brilliant
+Our way lay through some of the best streets of [[Villette]], streets
+brightly lit, and far more lively now than at high [[Noon|noon]]. How brilliant
 seemed the shops! How glad, gay, and abundant flowed the tide of life
 along the broad pavement! While I looked, the thought of the Rue
-Fossette came across me—of the walled-in garden and school-house, and
+Fossette came across me—of the walled-in [[Garden|garden]] and school-[[house]], and
 of the dark, vast “classes,” where, as at this very hour, it was my
-wont to wander all solitary, gazing at the stars through the high,
+wont to wander all solitary, gazing at the [[Stars|stars]] through the high,
 blindless windows, and listening to the distant voice of the reader in
 the refectory, monotonously exercised upon the “lecture pieuse.” Thus
-must I soon again listen and wander; and this shadow of the future
+must I soon again listen and wander; and this [[Shadow|shadow]] of the future
 stole with timely sobriety across the radiant present.
 
-By this time we had got into a current of carriages all tending in one
+By this [[Time|time]] we had got into a current of carriages all tending in one
 direction, and soon the front of a great illuminated building blazed
 before us. Of what I should see within this building, I had, as before
 intimated, but an imperfect idea; for no place of public entertainment
@@ -114,17 +114,17 @@ myself mounting a majestic staircase wide and easy of ascent, deeply
 and softly carpeted with crimson, leading up to great doors closed
 solemnly, and whose panels were also crimson-clothed.
 
-I hardly noticed by what magic these doors were made to roll back—Dr.
+I hardly noticed by what [[Magic|magic]] these doors were made to roll back—Dr.
 John managed these points; roll back they did, however, and within was
 disclosed a hall—grand, wide, and high, whose sweeping circular walls,
 and domed hollow ceiling, seemed to me all dead gold (thus with nice
 art was it stained), relieved by cornicing, fluting, and garlandry,
-either bright, like gold burnished, or snow-white, like alabaster, or
-white and gold mingled in wreaths of gilded leaves and spotless lilies:
+either bright, like gold burnished, or [[Snow|snow]]-white, like alabaster, or
+white and gold mingled in wreaths of gilded [[Leaves|leaves]] and spotless lilies:
 wherever drapery hung, wherever carpets were spread, or cushions
 placed, the sole colour employed was deep crimson. Pendent from the
 dome, flamed a mass that dazzled me—a mass, I thought, of rock-crystal,
-sparkling with facets, streaming with drops, ablaze with stars, and
+sparkling with facets, streaming with drops, ablaze with [[Stars|stars]], and
 gorgeously tinged with dews of gems dissolved, or fragments of rainbows
 shivered. It was only the chandelier, reader, but for me it seemed the
 work of eastern genii: I almost looked to see if a huge, dark, cloudy
@@ -138,12 +138,12 @@ moment. A handsome middle-aged lady in dark velvet; a gentleman who
 might be her son—the best face, the finest figure, I thought, I had
 ever seen; a third person in a pink dress and black lace mantle.
 
-I noted them all—the third person as well as the other two—and for the
+I noted them all—the third person as [[Well|well]] as the other two—and for the
 fraction of a moment believed them all strangers, thus receiving an
 impartial impression of their appearance. But the impression was hardly
 felt and not fixed, before the consciousness that I faced a great
-mirror, filling a compartment between two pillars, dispelled it: the
-party was our own party. Thus for the first, and perhaps only time in
+[[Mirror|mirror]], filling a compartment between two pillars, dispelled it: the
+party was our own party. Thus for the first, and perhaps only [[Time|time]] in
 my life, I enjoyed the “giftie” of seeing myself as others see me. No
 need to dwell on the result. It brought a jar of discord, a pang of
 regret; it was not flattering, yet, after all, I ought to be thankful;
@@ -155,45 +155,45 @@ filled, and filled with a splendid assemblage. I do not know that the
 women were very beautiful, but their dresses were so perfect; and
 foreigners, even such as are ungraceful in domestic privacy, seem to
 possess the art of appearing graceful in public: however blunt and
-boisterous those every-day and home movements connected with peignoir
+boisterous those every-day and [[Home|home]] movements connected with peignoir
 and papillotes, there is a slide, a bend, a carriage of the head and
 arms, a mien of the mouth and eyes, kept nicely in reserve for gala
 use—always brought out with the grande toilette, and duly put on with
 the “parure.”
 
 Some fine forms there were here and there, models of a peculiar style
-of beauty; a style, I think, never seen in England; a solid, firm-set,
+of [[Beauty|beauty]]; a style, I think, never seen in England; a solid, firm-set,
 sculptural style. These shapes have no angles: a caryatid in marble is
 almost as flexible; a Phidian goddess is not more perfect in a certain
 still and stately sort. They have such features as the Dutch painters
 give to their madonnas: low-country classic features, regular but
 round, straight but stolid; and for their depth of expressionless calm,
-of passionless peace, a polar snow-field could alone offer a type.
+of passionless peace, a polar [[Snow|snow]]-field could [[Alone|alone]] offer a type.
 Women of this order need no ornament, and they seldom wear any; the
 smooth hair, closely braided, supplies a sufficient contrast to the
 smoother cheek and brow; the dress cannot be too simple; the rounded
 arm and perfect neck require neither bracelet nor chain.
 
-With one of these beauties I once had the honour and rapture to be
-perfectly acquainted: the inert force of the deep, settled love she
+With one of these beauties I once had the [[Honour|honour]] and rapture to be
+perfectly acquainted: the inert force of the deep, settled [[Love|love]] she
 bore herself, was wonderful; it could only be surpassed by her proud
-impotency to care for any other living thing. Of blood, her cool veins
+impotency to care for any other living thing. Of [[Blood|blood]], her cool veins
 conducted no flow; placid lymph filled and almost obstructed her
 arteries.
 
 Such a Juno as I have described sat full in our view—a sort of mark for
 all eyes, and quite conscious that so she was, but proof to the
 magnetic influence of gaze or glance: cold, rounded, blonde, and
-beauteous as the white column, capitalled with gilding, which rose at
+beauteous as the white column, capitalled with gilding, which [[Rose|rose]] at
 her side.
 
 Observing that Dr. John’s attention was much drawn towards her, I
-entreated him in a low voice “for the love of heaven to shield well his
-heart. You need not fall in love with _that_ lady,” I said, “because, I
-tell you beforehand, you might die at her feet, and she would not love
+entreated him in a low voice “for the [[Love|love]] of heaven to shield [[Well|well]] his
+heart. You need not fall in [[Love|love]] with _that_ lady,” I said, “because, I
+tell you beforehand, you might die at her feet, and she would not [[Love|love]]
 you again.”
 
-“Very well,” said he, “and how do you know that the spectacle of her
+“Very [[Well|well]],” said he, “and how do you know that the spectacle of her
 grand insensibility might not with me be the strongest stimulus to
 homage? The sting of desperation is, I think, a wonderful irritant to
 my emotions: but” (shrugging his shoulders) “you know nothing about
@@ -208,7 +208,7 @@ calamity can befall her as a daughter-in-law.”
 
 “If I don’t, it is not for want of having that same calamity held over
 my head: you have threatened me with it for the last ten years. ‘Mamma,
-I am going to be married soon!’ was the cry before you were well out of
+I am going to be married soon!’ was the cry before you were [[Well|well]] out of
 jackets.”
 
 “But, mother, one of these days it will be realized. All of a sudden,
@@ -222,7 +222,7 @@ which are of the daughters of the land.”
 lady it is! But now just look at that splendid creature in the pale
 blue satin dress, and hair of paler brown, with ‘reflets satinés’ as
 those of her robe. Would you not feel proud, mamma, if I were to bring
-that goddess home some day, and introduce her to you as Mrs. Bretton,
+that goddess [[Home|home]] some day, and introduce her to you as Mrs. Bretton,
 junior?”
 
 “You will bring no goddess to La Terrasse: that little château will not
@@ -232,14 +232,14 @@ and satin.”
 
 “Mamma, she would fill your blue chair so admirably!”
 
-“Fill my chair? I defy the foreign usurper! a rueful chair should it be
+“Fill my chair? I defy the foreign [[Usurper|usurper]]! a rueful chair should it be
 for her: but hush, John Graham! Hold your tongue, and use your eyes.”
 
 During the above skirmish, the hall, which, I had thought, seemed full
 at the entrance, continued to admit party after party, until the
 semicircle before the stage presented one dense mass of heads, sloping
 from floor to ceiling. The stage, too, or rather the wide temporary
-platform, larger than any stage, desert half an hour since, was now
+platform, larger than any stage, [[Desert|desert]] half an hour since, was now
 overflowing with life; round two grand pianos, placed about the centre,
 a white flock of young girls, the pupils of the Conservatoire, had
 noiselessly poured. I had noticed their gathering, while Graham and his
@@ -248,7 +248,7 @@ watched with interest the process of arraying and marshalling them. Two
 gentlemen, in each of whom I recognised an acquaintance, officered this
 virgin troop. One, an artistic-looking man, bearded, and with long
 hair, was a noted pianiste, and also the first music-teacher in
-Villette; he attended twice a week at Madame Beck’s pensionnat, to give
+[[Villette]]; he attended twice a week at [[Madame Beck]]’s pensionnat, to give
 lessons to the few pupils whose parents were rich enough to allow their
 daughters the privilege of his instructions; his name was M. Josef
 Emanuel, and he was half-brother to M. Paul: which potent personage was
@@ -261,12 +261,12 @@ hundred young ladies. He was, too, so perfectly in earnest—so
 energetic, so intent, and, above all, so absolute: and yet what
 business had he there? What had he to do with music or the
 Conservatoire—he who could hardly distinguish one note from another? I
-knew that it was his love of display and authority which had brought
-him there—a love not offensive, only because so naive. It presently
+knew that it was his [[Love|love]] of display and authority which had brought
+him there—a [[Love|love]] not offensive, only because so naive. It presently
 became obvious that his brother, M. Josef, was as much under his
 control as were the girls themselves. Never was such a little hawk of a
 man as that M. Paul! Ere long, some noted singers and musicians dawned
-upon the platform: as these stars rose, the comet-like professor set.
+upon the platform: as these [[Stars|stars]] [[Rose|rose]], the comet-like professor set.
 Insufferable to him were all notorieties and celebrities: where he
 could not outshine, he fled.
 
@@ -277,40 +277,40 @@ side of two regal chairs, placed solemnly under a canopy.
 
 A signal was given, the doors rolled back, the assembly stood up, the
 orchestra burst out, and, to the welcome of a choral burst, enter the
-King, the Queen, the Court of Labassecour.
+[[King]], the [[Queen]], the [[Court]] of Labassecour.
 
-Till then, I had never set eyes on living king or queen; it may
+Till then, I had never set eyes on living [[King|king]] or [[Queen|queen]]; it may
 consequently be conjectured how I strained my powers of vision to take
 in these specimens of European royalty. By whomsoever majesty is beheld
-for the first time, there will always be experienced a vague surprise
+for the first [[Time|time]], there will always be experienced a vague surprise
 bordering on disappointment, that the same does not appear seated, en
-permanence, on a throne, bonneted with a crown, and furnished, as to
-the hand, with a sceptre. Looking out for a king and queen, and seeing
+permanence, on a throne, bonneted with a [[Crown|crown]], and furnished, as to
+the hand, with a sceptre. Looking out for a [[King|king]] and [[Queen|queen]], and seeing
 only a middle-aged soldier and a rather young lady, I felt half
 cheated, half pleased.
 
-Well do I recall that King—a man of fifty, a little bowed, a little
+[[Well]] do I recall that [[King]]—a man of fifty, a little bowed, a little
 grey: there was no face in all that assembly which resembled his. I had
-never read, never been told anything of his nature or his habits; and
+never read, never been told anything of his [[Nature|nature]] or his habits; and
 at first the strong hieroglyphics graven as with iron stylet on his
 brow, round his eyes, beside his mouth, puzzled and baffled instinct.
 Ere long, however, if I did not know, at least I felt, the meaning of
 those characters written without hand. There sat a silent sufferer—a
-nervous, melancholy man. Those eyes had looked on the visits of a
-certain ghost—had long waited the comings and goings of that strangest
+nervous, [[Melancholy|melancholy]] man. Those eyes had looked on the visits of a
+certain [[Ghost|ghost]]—had long waited the comings and goings of that strangest
 spectre, Hypochondria. Perhaps he saw her now on that stage, over
 against him, amidst all that brilliant throng. Hypochondria has that
 wont, to rise in the midst of thousands—dark as Doom, pale as Malady,
-and well-nigh strong as Death. Her comrade and victim thinks to be
+and [[Well|well]]-nigh strong as [[Death]]. Her comrade and victim thinks to be
 happy one moment—“Not so,” says she; “I come.” And she freezes the
-blood in his heart, and beclouds the light in his eye.
+[[Blood|blood]] in his heart, and beclouds the light in his eye.
 
-Some might say it was the foreign crown pressing the King’s brows which
+Some might say it was the foreign [[Crown|crown]] pressing the [[King]]’s brows which
 bent them to that peculiar and painful fold; some might quote the
 effects of early bereavement. Something there might be of both these;
 but these are embittered by that darkest foe of humanity—constitutional
-melancholy. The Queen, his wife, knew this: it seemed to me, the
-reflection of her husband’s grief lay, a subduing shadow, on her own
+[[Melancholy|melancholy]]. The [[Queen]], his wife, knew this: it seemed to me, the
+reflection of her husband’s grief lay, a subduing [[Shadow|shadow]], on her own
 benignant face. A mild, thoughtful, graceful woman that princess
 seemed; not beautiful, not at all like the women of solid charms and
 marble feelings described a page or two since. Hers was a somewhat
@@ -319,7 +319,7 @@ suggestive of reigning dynasties and royal lines to give unqualified
 pleasure. The expression clothing that profile was agreeable in the
 present instance; but you could not avoid connecting it with remembered
 effigies, where similar lines appeared, under phase ignoble; feeble, or
-sensual, or cunning, as the case might be. The Queen’s eye, however,
+sensual, or cunning, as the case might be. The [[Queen]]’s eye, however,
 was her own; and pity, goodness, sweet sympathy, blessed it with
 divinest light. She moved no sovereign, but a lady—kind, loving,
 elegant. Her little son, the Prince of Labassecour, and young Duc de
@@ -328,33 +328,33 @@ and anon, in the course of that evening, I saw her observant of the
 monarch at her side, conscious of his beclouded abstraction, and
 desirous to rouse him from it by drawing his attention to their son.
 She often bent her head to listen to the boy’s remarks, and would then
-smilingly repeat them to his sire. The moody King started, listened,
+smilingly repeat them to his sire. The moody [[King]] started, listened,
 smiled, but invariably relapsed as soon as his good angel ceased
 speaking. Full mournful and significant was that spectacle! Not the
 less so because, both for the aristocracy and the honest bourgeoisie of
 Labassecour, its peculiarity seemed to be wholly invisible: I could not
-discover that one soul present was either struck or touched.
+discover that one [[Soul|soul]] present was either struck or touched.
 
-With the King and Queen had entered their court, comprising two or
+With the [[King]] and [[Queen]] had entered their [[Court|court]], comprising two or
 three foreign ambassadors; and with them came the elite of the
-foreigners then resident in Villette. These took possession of the
+foreigners then resident in [[Villette]]. These took possession of the
 crimson benches; the ladies were seated; most of the men remained
 standing: their sable rank, lining the background, looked like a dark
 foil to the splendour displayed in front. Nor was this splendour
 without varying light and shade and gradation: the middle distance was
 filled with matrons in velvets and satins, in plumes and gems; the
-benches in the foreground, to the Queen’s right hand, seemed devoted
+benches in the foreground, to the [[Queen]]’s right hand, seemed devoted
 exclusively to young girls, the flower—perhaps, I should rather say,
-the bud—of Villette aristocracy. Here were no jewels, no head-dresses,
+the bud—of [[Villette]] aristocracy. Here were no jewels, no head-dresses,
 no velvet pile or silken sheen: purity, simplicity, and aërial grace
 reigned in that virgin band. Young heads simply braided, and fair forms
 (I was going to write _sylph_ forms, but that would have been quite
 untrue: several of these “jeunes filles,” who had not numbered more
 than sixteen or seventeen years, boasted contours as robust and solid
 as those of a stout Englishwoman of five-and-twenty)—fair forms robed
-in white, or pale rose, or placid blue, suggested thoughts of heaven
-and angels. I knew a couple, at least, of these “rose et blanche”
-specimens of humanity. Here was a pair of Madame Beck’s late
+in white, or pale [[Rose|rose]], or placid blue, suggested thoughts of heaven
+and angels. I knew a couple, at least, of these “[[Rose|rose]] et blanche”
+specimens of humanity. Here was a pair of [[Madame Beck]]’s late
 pupils—Mesdemoiselles Mathilde and Angélique: pupils who, during their
 last year at school, ought to have been in the first class, but whose
 brains never got them beyond the second division. In English, they had
@@ -362,7 +362,7 @@ been under my own charge, and hard work it was to get them to translate
 rationally a page of _The Vicar of Wakefield_. Also during three months
 I had one of them for my vis-à-vis at table, and the quantity of
 household bread, butter, and stewed fruit, she would habitually consume
-at “second déjeuner” was a real world’s wonder—to be exceeded only by
+at “second déjeuner” was a real world’s [[Wonder|wonder]]—to be exceeded only by
 the fact of her actually pocketing slices she could not eat. Here be
 truths—wholesome truths, too.
 
@@ -376,10 +376,10 @@ shell or a skull-cap of satin; it looked _like_ hair, and waved from
 her head, long, curled, and flowing. She chatted away volubly, and
 seemed full of a light-headed sort of satisfaction with herself and her
 position. I did not look at Dr. Bretton; but I knew that he, too, saw
-Ginevra Fanshawe: he had become so quiet, he answered so briefly his
+[[Ginevra Fanshawe]]: he had become so quiet, he answered so briefly his
 mother’s remarks, he so often suppressed a sigh. Why should he sigh? He
-had confessed a taste for the pursuit of love under difficulties; here
-was full gratification for that taste. His lady-love beamed upon him
+had confessed a taste for the pursuit of [[Love|love]] under difficulties; here
+was full gratification for that taste. His lady-[[Love|love]] beamed upon him
 from a sphere above his own: he could not come near her; he was not
 certain that he could win from her a look. I watched to see if she
 would so far favour him. Our seat was not far from the crimson benches;
@@ -399,10 +399,10 @@ young ladies of the Conservatoire, being very much frightened, made
 rather a tremulous exhibition on the two grand pianos. M. Josef Emanuel
 stood by them while they played; but he had not the tact or influence
 of his kinsman, who, under similar circumstances, would certainly have
-_compelled_ pupils of his to demean themselves with heroism and
-self-possession. M. Paul would have placed the hysteric débutantes
+_compelled_ pupils of his to demean themselves with [[Heroism|heroism]] and
+[[Self|self]]-possession. M. Paul would have placed the hysteric débutantes
 between two fires—terror of the audience, and terror of himself—and
-would have inspired them with the courage of desperation, by making the
+would have inspired them with the [[Courage|courage]] of desperation, by making the
 latter terror incomparably the greater: M. Josef could not do this.
 
 Following the white muslin pianistes, came a fine, full-grown, sulky
@@ -412,11 +412,11 @@ run up and down, and cut such marvellous capers; but a simple Scotch
 melody, played by a rude street minstrel, has often moved me more
 deeply.
 
-Afterwards stepped forth a gentleman, who, bending his body a good deal
-in the direction of the King and Queen, and frequently approaching his
+Afterwards stepped forth a gentleman, who, bending his [[Body|body]] a good deal
+in the direction of the [[King]] and [[Queen]], and frequently approaching his
 white-gloved hand to the region of his heart, vented a bitter outcry
 against a certain “fausse Isabelle.” I thought he seemed especially to
-solicit the Queen’s sympathy; but, unless I am egregiously mistaken,
+solicit the [[Queen]]’s sympathy; but, unless I am egregiously mistaken,
 her Majesty lent her attention rather with the calm of courtesy than
 the earnestness of interest. This gentleman’s state of mind was very
 harrowing, and I was glad when he wound up his musical exposition of
@@ -452,15 +452,15 @@ seen, and I whispered—“Miss Fanshawe is here: have you noticed her?”
 
 “Mrs. Cholmondeley is there with a very grand party. Yes; Ginevra was
 in _her_ train; and Mrs. Cholmondeley was in Lady ——’s train, who was
-in the Queen’s train. If this were not one of the compact little minor
+in the [[Queen]]’s train. If this were not one of the compact little minor
 European courts, whose very formalities are little more imposing than
-familiarities, and whose gala grandeur is but homeliness in Sunday
+familiarities, and whose gala grandeur is but homeliness in [[Sunday]]
 array, it would sound all very fine.”
 
 “Ginevra saw you, I think?”
 
 “So do I think so. I have had my eye on her several times since you
-withdrew yours; and I have had the honour of witnessing a little
+withdrew yours; and I have had the [[Honour|honour]] of witnessing a little
 spectacle which you were spared.”
 
 I did not ask what; I waited voluntary information, which was presently
@@ -469,7 +469,7 @@ given.
 “Miss Fanshawe,” he said, “has a companion with her—a lady of rank. I
 happen to know Lady Sara by sight; her noble mother has called me in
 professionally. She is a proud girl, but not in the least insolent, and
-I doubt whether Ginevra will have gained ground in her estimation by
+I [[Doubt|doubt]] whether Ginevra will have gained ground in her estimation by
 making a butt of her neighbours.”
 
 “What neighbours?”
@@ -481,9 +481,9 @@ and sarcastically levelled glass thus directed, gave me a most curious
 sensation?”
 
 “Think nothing of it, Dr. John: it is not worth while. If Ginevra were
-in a giddy mood, as she is eminently to-night, she would make no
-scruple of laughing at that mild, pensive Queen, or that melancholy
-King. She is not actuated by malevolence, but sheer, heedless folly. To
+in a giddy mood, as she is eminently to-[[Night|night]], she would make no
+scruple of laughing at that mild, pensive [[Queen]], or that [[Melancholy|melancholy]]
+[[King]]. She is not actuated by malevolence, but sheer, heedless folly. To
 a feather-brained school-girl nothing is sacred.”
 
 “But you forget: I have not been accustomed to look on Miss Fanshawe in
@@ -492,28 +492,28 @@ angel of my career?”
 
 “Hem! There was your mistake.”
 
-“To speak the honest truth, without any false rant or assumed romance,
+“To speak the honest [[Truth|truth]], without any false rant or assumed [[Romance|romance]],
 there actually was a moment, six months ago, when I thought her divine.
 Do you remember our conversation about the presents? I was not quite
 open with you in discussing that subject: the warmth with which you
 took it up amused me. By way of having the full benefit of your lights,
 I allowed you to think me more in the dark than I really was. It was
 that test of the presents which first proved Ginevra mortal. Still her
-beauty retained its fascination: three days—three hours ago, I was very
-much her slave. As she passed me to-night, triumphant in beauty, my
+[[Beauty|beauty]] retained its fascination: three days—three hours ago, I was very
+much her slave. As she passed me to-[[Night|night]], triumphant in [[Beauty|beauty]], my
 emotions did her homage; but for one luckless sneer, I should yet be
 the humblest of her servants. She might have scoffed at _me_, and,
 while wounding, she would not soon have alienated me: through myself,
 she could not in ten years have done what, in a moment, she has done
 through my mother.”
 
-He held his peace awhile. Never before had I seen so much fire, and so
+He held his peace awhile. Never before had I seen so much [[Fire|fire]], and so
 little sunshine in Dr. John’s blue eye as just now.
 
-“Lucy,” he recommenced, “look well at my mother, and say, without fear
+“Lucy,” he recommenced, “look [[Well|well]] at my mother, and say, without [[Fear|fear]]
 or favour, in what light she now appears to you.”
 
-“As she always does—an English, middle-class gentlewoman; well, though
+“As she always does—an English, middle-class gentlewoman; [[Well|well]], though
 gravely dressed, habitually independent of pretence, constitutionally
 composed and cheerful.”
 
@@ -521,11 +521,11 @@ composed and cheerful.”
 the weak only will laugh _at_ her. She shall not be ridiculed, with my
 consent, at least; nor without my—my scorn—my antipathy—my—”
 
-He stopped: and it was time—for he was getting excited—more it seemed
+He stopped: and it was [[Time|time]]—for he was getting excited—more it seemed
 than the occasion warranted. I did not then know that he had witnessed
-double cause for dissatisfaction with Miss Fanshawe. The glow of his
+[[Double|double]] cause for dissatisfaction with Miss Fanshawe. The glow of his
 complexion, the expansion of his nostril, the bold curve which disdain
-gave his well-cut under lip, showed him in a new and striking phase.
+gave his [[Well|well]]-cut under lip, showed him in a new and striking phase.
 Yet the rare passion of the constitutionally suave and serene, is not a
 pleasant spectacle; nor did I like the sort of vindictive thrill which
 passed through his strong young frame.
@@ -546,7 +546,7 @@ is flagging. Mamma, pray rouse yourself.”
 “John, I will certainly rouse you if you are not better conducted. Will
 you and Lucy be silent, that I may hear the singing?”
 
-They were then thundering in a chorus, under cover of which all the
+They were then thundering in a [[Chorus|chorus]], under cover of which all the
 previous dialogue had taken place.
 
 “_You_ hear the singing, mamma! Now, I will wager my studs, which are
@@ -559,7 +559,7 @@ value.”
 business.”
 
 “I am cheated in fewer things than you imagine. How do you happen to be
-acquainted with young ladies of the court, John? I have observed two of
+acquainted with young ladies of the [[Court|court]], John? I have observed two of
 them pay you no small attention during the last half-hour.”
 
 “I wish you would not observe them.”
@@ -581,10 +581,10 @@ interval between was one of general relaxation, and the pleasantest
 imaginable stir and commotion. The white flock was cleared from the
 platform; a busy throng of gentlemen crowded it instead, making
 arrangements for the drawing; and amongst these—the busiest of
-all—re-appeared that certain well-known form, not tall but active,
+all—re-appeared that certain [[Well|well]]-known form, not tall but active,
 alive with the energy and movement of three tall men. How M. Paul did
-work! How he issued directions, and, at the same time, set his own
-shoulder to the wheel! Half-a-dozen assistants were at his beck to
+work! How he issued directions, and, at the same [[Time|time]], set his own
+shoulder to the [[Wheel|wheel]]! Half-a-dozen assistants were at his beck to
 remove the pianos, &c.; no matter, he must add to their strength his
 own. The redundancy of his alertness was half-vexing, half-ludicrous:
 in my mind I both disapproved and derided most of this fuss. Yet, in
@@ -594,18 +594,18 @@ said; nor could I be blind to certain vigorous characteristics of his
 physiognomy, rendered conspicuous now by the contrast with a throng of
 tamer faces: the deep, intent keenness of his eye, the power of his
 forehead, pale, broad, and full—the mobility of his most flexible
-mouth. He lacked the calm of force, but its movement and its fire he
+mouth. He lacked the calm of force, but its movement and its [[Fire|fire]] he
 signally possessed.
 
-Meantime the whole hall was in a stir; most people rose and remained
+Meantime the whole hall was in a stir; most people [[Rose|rose]] and remained
 standing, for a change; some walked about, all talked and laughed. The
 crimson compartment presented a peculiarly animated scene. The long
 cloud of gentlemen, breaking into fragments, mixed with the rainbow
-line of ladies; two or three officer-like men approached the King and
-conversed with him. The Queen, leaving her chair, glided along the rank
+line of ladies; two or three officer-like men approached the [[King]] and
+conversed with him. The [[Queen]], leaving her chair, glided along the rank
 of young ladies, who all stood up as she passed; and to each in turn I
 saw her vouchsafe some token of kindness—a gracious word, look or
-smile. To the two pretty English girls, Lady Sara and Ginevra Fanshawe,
+smile. To the two pretty English girls, Lady Sara and [[Ginevra Fanshawe]],
 she addressed several sentences; as she left them, both, and especially
 the latter, seemed to glow all over with gratification. They were
 afterwards accosted by several ladies, and a little circle of gentlemen
@@ -617,10 +617,10 @@ impatience. “Lucy—mother—will you come a moment to the fresh air?”
 
 “Go with him, Lucy,” said Mrs. Bretton. “I would rather keep my seat.”
 
-Willingly would I have kept mine also, but Graham’s desire must take
+Willingly would I have kept mine also, but Graham’s [[Desire|desire]] must take
 precedence of my own; I accompanied him.
 
-We found the night-air keen; or at least I did: he did not seem to feel
+We found the [[Night|night]]-air keen; or at least I did: he did not seem to feel
 it; but it was very still, and the star-sown sky spread cloudless. I
 was wrapped in a fur shawl. We took some turns on the pavement; in
 passing under a lamp, Graham encountered my eye.
@@ -630,10 +630,10 @@ passing under a lamp, Graham encountered my eye.
 “I was only fearing that you were grieved.”
 
 “Not at all: so be of good cheer—as I am. Whenever I die, Lucy, my
-persuasion is that it will not be of heart-complaint. I may be stung, I
-may seem to droop for a time, but no pain or malady of sentiment has
+[[Persuasion|persuasion]] is that it will not be of heart-complaint. I may be stung, I
+may seem to droop for a [[Time|time]], but no [[Pain|pain]] or malady of sentiment has
 yet gone through my whole system. You have always seen me cheerful at
-home?”
+[[Home|home]]?”
 
 “Generally.”
 
@@ -650,7 +650,7 @@ from a mere puncture: a lancet-prick that will heal in a trice.”
 differently to-morrow.”
 
 “_I_ heated and indignant! You don’t know me. On the contrary, the heat
-is gone: I am as cool as the night—which, by the way, may be too cool
+is gone: I am as cool as the [[Night|night]]—which, by the way, may be too cool
 for you. We will go back.”
 
 “Dr. John, this is a sudden change.”
@@ -660,7 +660,7 @@ have told you one. But now let us re-enter.”
 
 We did not easily regain our seats; the lottery was begun, and all was
 excited confusion; crowds blocked the sort of corridor along which we
-had to pass: it was necessary to pause for a time. Happening to glance
+had to pass: it was necessary to pause for a [[Time|time]]. Happening to glance
 round—indeed I half fancied I heard my name pronounced—I saw quite
 near, the ubiquitous, the inevitable M. Paul. He was looking at me
 gravely and intently: at me, or rather at my pink dress—sardonic
@@ -669,7 +669,7 @@ strictures on the dress, both of the teachers and pupils, at Madame
 Beck’s—a habit which the former, at least, held to be an offensive
 impertinence: as yet I had not suffered from it—my sombre daily attire
 not being calculated to attract notice. I was in no mood to permit any
-new encroachment to-night: rather than accept his banter, I would
+new encroachment to-[[Night|night]]: rather than accept his banter, I would
 ignore his presence, and accordingly steadily turned my face to the
 sleeve of Dr. John’s coat; finding in that same black sleeve a prospect
 more redolent of pleasure and comfort, more genial, more friendly, I
@@ -690,9 +690,9 @@ sternest of nods in return.
 “Whom have you made angry, Lucy?” whispered Dr. Bretton, smiling. “Who
 is that savage-looking friend of yours?”
 
-“One of the professors at Madame Beck’s: a very cross little man.”
+“One of the professors at [[Madame Beck]]’s: a very [[Cross|cross]] little man.”
 
-“He looks mighty cross just now: what have you done to him? What is it
+“He looks mighty [[Cross|cross]] just now: what have you done to him? What is it
 all about? Ah, Lucy, Lucy! tell me the meaning of this.”
 
 “No mystery, I assure you. M. Emanuel is very exigeant, and because I
@@ -711,8 +711,8 @@ I thought so, too.
 Slowly and with difficulty we made our way along the passage, and at
 last regained our seats. The drawing of the lottery lasted nearly an
 hour; it was an animating and amusing scene; and as we each held
-tickets, we shared in the alternations of hope and fear raised by each
-turn of the wheel. Two little girls, of five and six years old, drew
+tickets, we shared in the alternations of [[Hope|hope]] and [[Fear|fear]] raised by each
+turn of the [[Wheel|wheel]]. Two little girls, of five and six years old, drew
 the numbers: and the prizes were duly proclaimed from the platform.
 These prizes were numerous, though of small value. It so fell out that
 Dr. John and I each gained one: mine was a cigar-case, his a lady’s
@@ -726,7 +726,7 @@ Dr. John, for his part, held his turban at arm’s length between his
 finger and thumb, and looked at it with a mixture of reverence and
 embarrassment highly provocative of laughter. The contemplation over,
 he was about coolly to deposit the delicate fabric on the ground
-between his feet; he seemed to have no shadow of an idea of the
+between his feet; he seemed to have no [[Shadow|shadow]] of an idea of the
 treatment or stowage it ought to receive: if his mother had not come to
 the rescue, I think he would finally have crushed it under his arm like
 an opera-hat; she restored it to the band-box whence it had issued.
@@ -738,7 +738,7 @@ in it no common mastery of the passions, and a fund of deep and healthy
 strength which, without any exhausting effort, bore down Disappointment
 and extracted her fang. His manner, now, reminded me of qualities I had
 noticed in him when professionally engaged amongst the poor, the
-guilty, and the suffering, in the Basse-Ville: he looked at once
+guilty, and the [[Suffering|suffering]], in the Basse-Ville: he looked at once
 determined, enduring, and sweet-tempered. Who could help liking him?
 _He_ betrayed no weakness which harassed all your feelings with
 considerations as to how its faltering must be propped; from _him_
@@ -748,7 +748,7 @@ morose shafts that went cold, and rusty, and venomed through your
 heart: beside him was rest and refuge—around him, fostering sunshine.
 
 And yet he had neither forgiven nor forgotten Miss Fanshawe. Once
-angered, I doubt if Dr. Bretton were to be soon propitiated—once
+angered, I [[Doubt|doubt]] if Dr. Bretton were to be soon propitiated—once
 alienated, whether he were ever to be reclaimed. He looked at her more
 than once; not stealthily or humbly, but with a movement of hardy, open
 observation. De Hamal was now a fixture beside her; Mrs. Cholmondeley
@@ -765,7 +765,7 @@ offerings; there, at any rate, it would be certain to find favour: no
 grisette has a more facile faculty of acceptance. Strange! for after
 all, I know she is a girl of family.”
 
-“But you don’t know her education, Dr. John,” said I. “Tossed about all
+“But you don’t know her [[Education|education]], Dr. John,” said I. “Tossed about all
 her life from one foreign school to another, she may justly proffer the
 plea of ignorance in extenuation of most of her faults. And then, from
 what she says, I believe her father and mother were brought up much as
@@ -774,7 +774,7 @@ she has been brought up.”
 “I always understood she had no fortune; and once I had pleasure in the
 thought,” said he.
 
-“She tells me,” I answered, “that they are poor at home; she always
+“She tells me,” I answered, “that they are poor at [[Home|home]]; she always
 speaks quite candidly on such points: you never find her lying, as
 these foreigners will often lie. Her parents have a large family: they
 occupy such a station and possess such connections as, in their
@@ -782,10 +782,10 @@ opinion, demand display; stringent necessity of circumstances and
 inherent thoughtlessness of disposition combined, have engendered
 reckless unscrupulousness as to how they obtain the means of sustaining
 a good appearance. This is the state of things, and the only state of
-things, she has seen from childhood upwards.”
+things, she has seen from [[Childhood|childhood]] upwards.”
 
 “I believe it—and I thought to mould her to something better: but,
-Lucy, to speak the plain truth, I have felt a new thing to-night, in
+Lucy, to speak the plain [[Truth|truth]], I have felt a new thing to-[[Night|night]], in
 looking at her and de Hamal. I felt it before noticing the impertinence
 directed at my mother. I saw a look interchanged between them
 immediately after their entrance, which threw a most unwelcome light on
@@ -794,34 +794,34 @@ my mind.”
 “How do you mean? You have been long aware of the flirtation they keep
 up?”
 
-“Ay, flirtation! That might be an innocent girlish wile to lure on the
-true lover; but what I refer to was not flirtation: it was a look
+“Ay, flirtation! That might be an [[Innocent|innocent]] girlish wile to lure on the
+true [[Lover|lover]]; but what I refer to was not flirtation: it was a look
 marking mutual and secret understanding—it was neither girlish nor
-innocent. No woman, were she as beautiful as Aphrodite, who could give
-or receive such a glance, shall ever be sought in marriage by me: I
+[[Innocent|innocent]]. No woman, were she as beautiful as Aphrodite, who could give
+or receive such a glance, shall ever be sought in [[Marriage|marriage]] by me: I
 would rather wed a paysanne in a short petticoat and high cap—and be
 sure that she was honest.”
 
 I could not help smiling. I felt sure he now exaggerated the case:
 Ginevra, I was certain, was honest enough, with all her giddiness. I
 told him so. He shook his head, and said he would not be the man to
-trust her with his honour.
+trust her with his [[Honour|honour]].
 
 “The only thing,” said I, “with which you may safely trust her. She
 would unscrupulously damage a husband’s purse and property, recklessly
 try his patience and temper: I don’t think she would breathe, or let
-another breathe, on his honour.”
+another breathe, on his [[Honour|honour]].”
 
 “You are becoming her advocate,” said he. “Do you wish me to resume my
-old chains?”
+old [[Chains|chains]]?”
 
 “No: I am glad to see you free, and trust that free you will long
-remain. Yet be, at the same time, just.”
+remain. Yet be, at the same [[Time|time]], just.”
 
 “I am so: just as Rhadamanthus, Lucy. When once I am thoroughly
-estranged, I cannot help being severe. But look! the King and Queen are
-rising. I like that Queen: she has a sweet countenance. Mamma, too, is
-excessively tired; we shall never get the old lady home if we stay
+estranged, I cannot help being severe. But look! the [[King]] and [[Queen]] are
+rising. I like that [[Queen]]: she has a sweet countenance. Mamma, too, is
+excessively tired; we shall never get the old lady [[Home|home]] if we stay
 longer.”
 
 “I tired, John?” cried Mrs. Bretton, looking at least as animated and
@@ -829,12 +829,12 @@ as wide-awake as her son. “I would undertake to sit you out yet: leave
 us both here till morning, and we should see which would look the most
 jaded by sunrise.”
 
-“I should not like to try the experiment; for, in truth, mamma, you are
+“I should not like to try the experiment; for, in [[Truth|truth]], mamma, you are
 the most unfading of evergreens and the freshest of matrons. It must
 then be on the plea of your son’s delicate nerves and fragile
 constitution that I found a petition for our speedy adjournment.”
 
-“Indolent young man! You wish you were in bed, no doubt; and I suppose
+“Indolent young man! You wish you were in bed, no [[Doubt|doubt]]; and I suppose
 you must be humoured. There is Lucy, too, looking quite done up. For
 shame, Lucy! At your age, a week of evenings-out would not have made me
 a shade paler. Come away, both of you; and you may laugh at the old
@@ -844,7 +844,7 @@ the bandbox and turban.”
 Which she did accordingly. I offered to relieve her, but was shaken off
 with kindly contempt: my godmother opined that I had enough to do to
 take care of myself. Not standing on ceremony now, in the midst of the
-gay “confusion worse confounded” succeeding to the King and Queen’s
+gay “confusion worse confounded” succeeding to the [[King]] and [[Queen]]’s
 departure, Mrs. Bretton preceded us, and promptly made us a lane
 through the crowd. Graham followed, apostrophizing his mother as the
 most flourishing grisette it had ever been his good fortune to see
@@ -852,12 +852,12 @@ charged with carriage of a bandbox; he also desired me to mark her
 affection for the sky-blue turban, and announced his conviction that
 she intended one day to wear it.
 
-The night was now very cold and very dark, but with little delay we
+The [[Night|night]] was now very cold and very dark, but with little delay we
 found the carriage. Soon we were packed in it, as warm and as snug as
-at a fire-side; and the drive home was, I think, still pleasanter than
+at a [[Fire|fire]]-side; and the drive [[Home|home]] was, I think, still pleasanter than
 the drive to the concert. Pleasant it was, even though the
 coachman—having spent in the shop of a “marchand de vin” a portion of
-the time we passed at the concert—drove us along the dark and solitary
+the [[Time|time]] we passed at the concert—drove us along the dark and solitary
 chaussée far past the turn leading down to La Terrasse; we, who were
 occupied in talking and laughing, not noticing the aberration till, at
 last, Mrs. Bretton intimated that, though she had always thought the
@@ -870,13 +870,13 @@ Then Graham looked out, and perceiving only dim-spread fields, with
 unfamiliar rows of pollards and limes ranged along their else invisible
 sunk-fences, began to conjecture how matters were, and calling a halt
 and descending, he mounted the box and took the reins himself. Thanks
-to him, we arrived safe at home about an hour and a half beyond our
-time.
+to him, we arrived safe at [[Home|home]] about an hour and a half beyond our
+[[Time|time]].
 
-Martha had not forgotten us; a cheerful fire was burning, and a neat
-supper spread in the dining-room: we were glad of both. The winter dawn
+Martha had not forgotten us; a cheerful [[Fire|fire]] was burning, and a neat
+supper spread in the dining-room: we were glad of both. The [[Winter|winter]] [[Dawn|dawn]]
 was actually breaking before we gained our chambers. I took off my pink
 dress and lace mantle with happier feelings than I had experienced in
 putting them on. Not all, perhaps, who had shone brightly arrayed at
 that concert could say the same; for not all had been satisfied with
-friendship—with its calm comfort and modest hope.
+[[Friendship|friendship]]—with its calm comfort and modest [[Hope|hope]].

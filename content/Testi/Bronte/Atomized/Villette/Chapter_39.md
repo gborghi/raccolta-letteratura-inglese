@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 37"
+title: "[[Villette]] — Chapter 37"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,46 +18,46 @@ CHAPTER XXXVII.
 SUNSHINE.
 
 
-It was very well for Paulina to decline further correspondence with
+It was very [[Well|well]] for [[Paulina]] to decline further correspondence with
 Graham till her father had sanctioned the intercourse. But Dr. Bretton
 could not live within a league of the Hôtel Crécy, and not contrive to
-visit there often. Both lovers meant at first, I believe, to be
+visit there often. Both [[lovers]] meant at first, I believe, to be
 distant; they kept their intention so far as demonstrative courtship
 went, but in feeling they soon drew very near.
 
-All that was best in Graham sought Paulina; whatever in him was noble,
+All that was best in Graham sought [[Paulina]]; whatever in him was noble,
 awoke, and grew in her presence. With his past admiration of Miss
 Fanshawe, I suppose his intellect had little to do, but his whole
 intellect, and his highest tastes, came in question now. These, like
 all his faculties, were active, eager for nutriment, and alive to
 gratification when it came.
 
-I cannot say that Paulina designedly led him to talk of books, or
+I cannot say that [[Paulina]] designedly led him to talk of books, or
 formally proposed to herself for a moment the task of winning him to
 reflection, or planned the improvement of his mind, or so much as
 fancied his mind could in any one respect be improved. She thought him
 very perfect; it was Graham himself, who, at first by the merest
 chance, mentioned some book he had been reading, and when in her
 response sounded a welcome harmony of sympathies, something, pleasant
-to his soul, he talked on, more and better perhaps than he had ever
+to his [[Soul|soul]], he talked on, more and better perhaps than he had ever
 talked before on such subjects. She listened with delight, and answered
 with animation. In each successive answer, Graham heard a music waxing
 finer and finer to his sense; in each he found a suggestive,
-persuasive, magic accent that opened a scarce-known treasure-house
+persuasive, [[Magic|magic]] accent that opened a scarce-known treasure-[[house]]
 within, showed him unsuspected power in his own mind, and what was
 better, latent goodness in his heart. Each liked the way in which the
 other talked; the voice, the diction, the expression pleased; each
 keenly relished the flavour of the other’s wit; they met each other’s
 meaning with strange quickness, their thoughts often matched like
-carefully-chosen pearls. Graham had wealth of mirth by nature; Paulina
+carefully-chosen pearls. Graham had wealth of mirth by [[Nature|nature]]; [[Paulina]]
 possessed no such inherent flow of animal spirits—unstimulated, she
 inclined to be thoughtful and pensive—but now she seemed merry as a
-lark; in her lover’s genial presence, she glanced like some soft glad
+lark; in her [[Lover|lover]]’s genial presence, she glanced like some soft glad
 light. How beautiful she grew in her happiness, I can hardly express,
 but I wondered to see her. As to that gentle ice of hers—that reserve
 on which she had depended; where was it now? Ah! Graham would not long
 bear it; he brought with him a generous influence that soon thawed the
-timid, self-imposed restriction.
+timid, [[Self|self]]-imposed restriction.
 
 Now were the old Bretton days talked over; perhaps brokenly at first,
 with a sort of smiling diffidence, then with opening candour and still
@@ -68,8 +68,8 @@ reminiscences of “little Polly” found their proper expression in his
 own pleasant tones, by his own kind and handsome lips; how much better
 than if suggested by me.
 
-More than once when we were alone, Paulina would tell me how wonderful
-and curious it was to discover the richness and accuracy of his memory
+More than once when we were [[Alone|alone]], [[Paulina]] would tell me how wonderful
+and curious it was to discover the richness and accuracy of his [[Memory|memory]]
 in this matter. How, while he was looking at her, recollections would
 seem to be suddenly quickened in his mind. He reminded her that she had
 once gathered his head in her arms, caressed his leonine graces, and
@@ -81,30 +81,30 @@ of her small forefinger, placed half tremblingly, half curiously, in
 the cleft in his chin, the lisp, the look with which she would name it
 “a pretty dimple,” then seek his eyes and question why they pierced so,
 telling him he had a “nice, strange face; far nicer, far stranger, than
-either his mamma or Lucy Snowe.”
+either his mamma or [[Lucy Snowe]].”
 
-“Child as I was,” remarked Paulina, “I wonder how I dared be so
+“[[Child]] as I was,” remarked [[Paulina]], “I [[Wonder|wonder]] how I dared be so
 venturous. To me he seems now all sacred, his locks are inaccessible,
-and, Lucy, I feel a sort of fear, when I look at his firm, marble chin,
+and, Lucy, I feel a sort of [[Fear|fear]], when I look at his firm, marble chin,
 at his straight Greek features. Women are called beautiful, Lucy; he is
 not like a woman, therefore I suppose he is not beautiful, but what is
 he, then? Do other people see him with my eyes? Do _you_ admire him?”
 
-“I’ll tell you what I do, Paulina,” was once my answer to her many
+“I’ll tell you what I do, [[Paulina]],” was once my answer to her many
 questions. “_I never see him_. I looked at him twice or thrice about a
 year ago, before he recognised me, and then I shut my eyes; and if he
-were to cross their balls twelve times between each day’s sunset and
-sunrise, except from memory, I should hardly know what shape had gone
+were to [[Cross|cross]] their balls twelve times between each day’s sunset and
+sunrise, except from [[Memory|memory]], I should hardly know what shape had gone
 by.”
 
 “Lucy, what do you mean?” said she, under her breath.
 
 “I mean that I value vision, and dread being struck stone blind.”
 
-It was best to answer her strongly at once, and to silence for ever the
+It was best to answer her strongly at once, and to [[Silence|silence]] for ever the
 tender, passionate confidences which left her lips sweet honey, and
 sometimes dropped in my ear—molten lead. To me, she commented no more
-on her lover’s beauty.
+on her [[Lover|lover]]’s [[Beauty|beauty]].
 
 Yet speak of him she would; sometimes shyly, in quiet, brief phrases;
 sometimes with a tenderness of cadence, and music of voice exquisite in
@@ -127,25 +127,25 @@ share it.”
 understand sharing. I think I have one friend of my own, but am not
 sure; and till I _am_ sure, I live solitary.”
 
-“But solitude is sadness.”
+“But [[Solitude|solitude]] is sadness.”
 
 “Yes; it is sadness. Life, however; has worse than that. Deeper than
-melancholy, lies heart-break.”
+[[Melancholy|melancholy]], lies heart-break.”
 
-“Lucy, I wonder if anybody will ever comprehend you altogether.”
+“Lucy, I [[Wonder|wonder]] if anybody will ever comprehend you altogether.”
 
-There is, in lovers, a certain infatuation of egotism; they will have a
-witness of their happiness, cost that witness what it may. Paulina had
+There is, in [[lovers]], a certain infatuation of egotism; they will have a
+witness of their happiness, cost that witness what it may. [[Paulina]] had
 forbidden letters, yet Dr. Bretton wrote; she had resolved against
 correspondence, yet she answered, were it only to chide. She showed me
-these letters; with something of the spoiled child’s wilfulness, and of
+these letters; with something of the spoiled [[Child|child]]’s wilfulness, and of
 the heiress’s imperiousness, she _made_ me read them. As I read
-Graham’s, I scarce wondered at her exaction, and understood her pride:
+Graham’s, I scarce wondered at her exaction, and understood her [[Pride|pride]]:
 they were fine letters—manly and fond—modest and gallant. Hers must
 have appeared to him beautiful. They had not been written to show her
-talents; still less, I think, to express her love. On the contrary, it
+talents; still less, I think, to express her [[Love|love]]. On the contrary, it
 appeared that she had proposed to herself the task of hiding that
-feeling, and bridling her lover’s ardour. But how could such letters
+feeling, and bridling her [[Lover|lover]]’s ardour. But how could such letters
 serve such a purpose? Graham was become dear as her life; he drew her
 like a powerful magnet. For her there was influence unspeakable in all
 he uttered, wrote, thought, or looked. With this unconfessed
@@ -153,10 +153,10 @@ confession, her letters glowed; it kindled them, from greeting to
 adieu.
 
 “I wish papa knew; I _do_ wish papa knew!” began now to be her anxious
-murmur. “I wish, and yet I fear. I can hardly keep Graham back from
+murmur. “I wish, and yet I [[Fear|fear]]. I can hardly keep Graham back from
 telling him. There is nothing I long for more than to have this affair
 settled—to speak out candidly; and yet I dread the crisis. I know, I am
-certain, papa will be angry at the first; I fear he will dislike me
+certain, papa will be angry at the first; I [[Fear|fear]] he will dislike me
 almost; it will seem to him an untoward business; it will be a
 surprise, a shock: I can hardly foresee its whole effect on him.”
 
@@ -167,11 +167,11 @@ trespass on his eye.
 To _her_, he said nothing; but when she was not looking at, or perhaps
 thinking of him, I saw him gaze and meditate on her.
 
-One evening—Paulina was in her dressing-room, writing, I believe, to
+One evening—[[Paulina]] was in her dressing-room, writing, I believe, to
 Graham; she had left me in the library, reading—M. de Bassompierre came
 in; he sat down: I was about to withdraw; he requested me to
 remain—gently, yet in a manner which showed he wished compliance. He
-had taken his seat near the window, at a distance from me; he opened a
+had taken his seat near the [[Window|window]], at a distance from me; he opened a
 desk; he took from it what looked like a memorandum-book; of this book
 he studied a certain entry for several minutes.
 
@@ -183,12 +183,12 @@ age?”
 “It seems so. This old pocket-book tells me she was born on the 5th of
 May, in the year 18—, eighteen years ago. It is strange; I had lost the
 just reckoning of her age. I thought of her as twelve—fourteen—an
-indefinite date; but she seemed a child.”
+indefinite date; but she seemed a [[Child|child]].”
 
 “She is about eighteen,” I repeated. “She is grown up; she will be no
 taller.”
 
-“My little jewel!” said M. de Bassompierre, in a tone which penetrated
+“My little [[Jewel|jewel]]!” said M. de Bassompierre, in a tone which penetrated
 like some of his daughter’s accents.
 
 He sat very thoughtful.
@@ -199,12 +199,12 @@ as they were.
 “She is the only pearl I have,” he said; “and now others will find out
 that she is pure and of price: they will covet her.”
 
-I made no answer. Graham Bretton had dined with us that day; he had
-shone both in converse and looks: I know not what pride of bloom
+I made no answer. [[Graham Bretton]] had dined with us that day; he had
+shone both in converse and looks: I know not what [[Pride|pride]] of bloom
 embellished his aspect and mellowed his intercourse. Under the stimulus
-of a high hope, something had unfolded in his whole manner which
+of a high [[Hope|hope]], something had unfolded in his whole manner which
 compelled attention. I think he had purposed on that day to indicate
-the origin of his endeavours, and the aim of his ambition. M. de
+the origin of his endeavours, and the aim of his [[Ambition|ambition]]. M. de
 Bassompierre had found himself forced, in a manner, to descry the
 direction and catch the character of his homage. Slow in remarking, he
 was logical in reasoning: having once seized the thread, it had guided
@@ -225,30 +225,30 @@ to consult you.”
 
 “Pshaw! They don’t think of me—an old father! I am in the way.”
 
-“Ah, M. de Bassompierre—not so—that can’t be! But Paulina must speak
+“Ah, M. de Bassompierre—not so—that can’t be! But [[Paulina]] must speak
 for herself: and Dr. Bretton, too, must be his own advocate.”
 
 “It is a little late. Matters are advanced, it seems.”
 
-“Sir, till you approve, nothing is done—only they love each other.”
+“Sir, till you approve, nothing is done—only they [[Love|love]] each other.”
 
 “Only!” he echoed.
 
 Invested by fate with the part of confidante and mediator, I was
 obliged to go on: “Hundreds of times has Dr. Bretton been on the point
-of appealing to you, sir; but, with all his high courage, he fears you
+of appealing to you, sir; but, with all his high [[Courage|courage]], he fears you
 mortally.”
 
-“He may well—he may well fear me. He has touched the best thing I have.
-Had he but let her alone, she would have remained a child for years
+“He may [[Well|well]]—he may [[Well|well]] [[Fear|fear]] me. He has touched the best thing I have.
+Had he but let her [[Alone|alone]], she would have remained a [[Child|child]] for years
 yet. So. Are they engaged?”
 
 “They could not become engaged without your permission.”
 
-“It is well for you, Miss Snowe, to talk and think with that propriety
+“It is [[Well|well]] for you, Miss Snowe, to talk and think with that propriety
 which always characterizes you; but this matter is a grief to me; my
 little girl was all I had: I have no more daughters and no son; Bretton
-might as well have looked elsewhere; there are scores of rich and
+might as [[Well|well]] have looked elsewhere; there are scores of rich and
 pretty women who would not, I daresay, dislike him: he has looks, and
 conduct, and connection. Would nothing serve him but my Polly?”
 
@@ -261,37 +261,37 @@ rather gruffly. “In what particular is he her match? They talk of
 fortune! I am not an avaricious or interested man, but the world thinks
 of these things—and Polly will be rich.”
 
-“Yes, that is known,” said I: “all Villette knows her as an heiress.”
+“Yes, that is known,” said I: “all [[Villette]] knows her as an heiress.”
 
 “Do they talk of my little girl in that light?”
 
 “They do, sir.”
 
 He fell into deep thought. I ventured to say, “Would you, sir, think
-any one Paulina’s match? Would you prefer any other to Dr. Bretton? Do
+any one [[Paulina]]’s match? Would you prefer any other to Dr. Bretton? Do
 you think higher rank or more wealth would make much difference in your
 feelings towards a future son-in-law?”
 
 “You touch me there,” said he.
 
-“Look at the aristocracy of Villette—you would not like them, sir?”
+“Look at the aristocracy of [[Villette]]—you would not like them, sir?”
 
 “I should not—never a duc, baron, or vicomte of the lot.”
 
 “I am told many of these persons think about her, sir,” I went on,
-gaining courage on finding that I met attention rather than repulse.
+gaining [[Courage|courage]] on finding that I met attention rather than repulse.
 “Other suitors will come, therefore, if Dr. Bretton is refused.
 Wherever you go, I suppose, aspirants will not be wanting. Independent
-of heiress-ship, it appears to me that Paulina charms most of those who
+of heiress-[[Ship|ship]], it appears to me that [[Paulina]] charms most of those who
 see her.”
 
-“Does she? How? My little girl is not thought a beauty.”
+“Does she? How? My little girl is not thought a [[Beauty|beauty]].”
 
 “Sir, Miss de Bassompierre is very beautiful.”
 
 “Nonsense!—begging your pardon, Miss Snowe, but I think you are too
 partial. I like Polly: I like all her ways and all her looks—but then I
-am her father; and even I never thought about beauty. She is amusing,
+am her father; and even I never thought about [[Beauty|beauty]]. She is amusing,
 fairy-like, interesting to me;—you must be mistaken in supposing her
 handsome?”
 
@@ -319,18 +319,18 @@ its womanliness made me smile.”
 drawing-room?”
 
 “I did; but I thought it was by way of relaxation—as one might amuse
-one’s self with a pretty infant.”
+one’s [[Self|self]] with a pretty infant.”
 
 “Sir, she demeaned herself with distinction; and I heard the French
 gentlemen say she was ‘pétrie d’esprit et de graces.’ Dr. Bretton
 thought the same.”
 
-“She is a good, dear child, that is certain; and I _do_ believe she has
+“She is a good, dear [[Child|child]], that is certain; and I _do_ believe she has
 some character. When I think of it, I was once ill; Polly nursed me;
 they thought I should die; she, I recollect, grew at once stronger and
 tenderer as I grew worse in health. And as I recovered, what a sunbeam
 she was in my sick-room! Yes; she played about my chair as noiselessly
-and as cheerful as light. And now she is sought in marriage! I don’t
+and as cheerful as light. And now she is sought in [[Marriage|marriage]]! I don’t
 want to part with her,” said he, and he groaned.
 
 “You have known Dr. and Mrs. Bretton so long,” I suggested, “it would
@@ -340,32 +340,32 @@ He reflected rather gloomily.
 
 “True. I have long known Louisa Bretton,” he murmured. “She and I are
 indeed old, old friends; a sweet, kind girl she was when she was young.
-You talk of beauty, Miss Snowe! _she_ was handsome, if you will—tall,
-straight, and blooming—not the mere child or elf my Polly seems to me:
+You talk of [[Beauty|beauty]], Miss Snowe! _she_ was handsome, if you will—tall,
+straight, and blooming—not the mere [[Child|child]] or elf my Polly seems to me:
 at eighteen, Louisa had a carriage and stature fit for a princess. She
 is a comely and a good woman now. The lad is like her; I have always
-thought so, and favoured and wished him well. Now he repays me by this
-robbery! My little treasure used to love her old father dearly and
+thought so, and favoured and wished him [[Well|well]]. Now he repays me by this
+robbery! My little treasure used to [[Love|love]] her old father dearly and
 truly. It is all over now, doubtless—I am an incumbrance.”
 
 The door opened—his “little treasure” came in. She was dressed, so to
-speak, in evening beauty; that animation which sometimes comes with the
-close of day, warmed her eye and cheek; a tinge of summer crimson
+speak, in evening [[Beauty|beauty]]; that animation which sometimes comes with the
+close of day, warmed her eye and cheek; a tinge of [[Summer|summer]] crimson
 heightened her complexion; her curls fell full and long on her lily
-neck; her white dress suited the heat of June. Thinking me alone, she
+neck; her white dress suited the heat of June. Thinking me [[Alone|alone]], she
 had brought in her hand the letter just written—brought it folded but
 unsealed. I was to read it. When she saw her father, her tripping step
 faltered a little, paused a moment—the colour in her cheek flowed rosy
 over her whole face.
 
-“Polly,” said M. de Bassompierre, in a low voice, with a grave smile,
+“Polly,” said M. de Bassompierre, in a low voice, with a [[Grave|grave]] smile,
 “do you blush at seeing papa? That is something new.”
 
 “I don’t blush—I never _do_ blush,” affirmed she, while another eddy
 from the heart sent up its scarlet. “But I thought you were in the
 dining-room, and I wanted Lucy.”
 
-“You thought I was with John Graham Bretton, I suppose? But he has just
+“You thought I was with John [[Graham Bretton]], I suppose? But he has just
 been called out: he will be back soon, Polly. He can post your letter
 for you; it will save Matthieu a ‘course,’ as he calls it.”
 
@@ -392,15 +392,15 @@ just to satisfy.”
 
 “No, papa—not Mrs. Bretton.”
 
-“Who, then, my little daughter? Tell papa the truth.”
+“Who, then, my little daughter? Tell papa the [[Truth|truth]].”
 
 “Oh, papa!” she cried with earnestness, “I will—I _will_ tell you the
-truth—all the truth; I am glad to tell you—glad, though I tremble.”
+[[Truth|truth]]—all the [[Truth|truth]]; I am glad to tell you—glad, though I tremble.”
 
 She _did_ tremble: growing excitement, kindling feeling, and also
-gathering courage, shook her.
+gathering [[Courage|courage]], shook her.
 
-“I hate to hide my actions from you, papa. I fear you and love you
+“I hate to hide my actions from you, papa. I [[Fear|fear]] you and [[Love|love]] you
 above everything but God. Read the letter; look at the address.”
 
 She laid it on his knee. He took it up and read it through; his hand
@@ -412,9 +412,9 @@ amaze.
 “Can _she_ write so—the little thing that stood at my knee but
 yesterday? Can she feel so?”
 
-“Papa, is it wrong? Does it pain you?”
+“Papa, is it wrong? Does it [[Pain|pain]] you?”
 
-“There is nothing wrong in it, my innocent little Mary; but it pains
+“There is nothing wrong in it, my [[Innocent|innocent]] little Mary; but it pains
 me.”
 
 “But, papa, listen! You shall not be pained by me. I would give up
@@ -429,15 +429,15 @@ shall, for your sake, if you order it.”
 “I order nothing.”
 
 “Order something, papa; express your wish; only don’t hurt, don’t
-grieve Graham. I cannot, _cannot_ bear that. I love you, papa; but I
-love Graham too—because—because—it is impossible to help it.”
+grieve Graham. I cannot, _cannot_ bear that. I [[Love|love]] you, papa; but I
+[[Love|love]] Graham too—because—because—it is impossible to help it.”
 
 “This splendid Graham is a young scamp, Polly—that is my present notion
-of him: it will surprise you to hear that, for my part, I do not love
+of him: it will surprise you to hear that, for my part, I do not [[Love|love]]
 him one whit. Ah! years ago I saw something in that lad’s eye I never
 quite fathomed—something his mother has not—a depth which warned a man
 not to wade into that stream too far; now, suddenly, I find myself
-taken over the crown of the head.”
+taken over the [[Crown|crown]] of the head.”
 
 “Papa, you don’t—you have not fallen in; you are safe on the bank; you
 can do as you please; your power is despotic; you can shut me up in a
@@ -445,13 +445,13 @@ convent, and break Graham’s heart to-morrow, if you choose to be so
 cruel. Now, autocrat, now czar, will you do this?”
 
 “Off with him to Siberia, red whiskers and all; I say, I don’t like
-him, Polly, and I wonder that you should.”
+him, Polly, and I [[Wonder|wonder]] that you should.”
 
 “Papa,” said she, “do you know you are very naughty? I never saw you
 look so disagreeable, so unjust, so almost vindictive before. There is
 an expression in your face which does not belong to you.”
 
-“Off with him!” pursued Mr. Home, who certainly did look sorely crossed
+“Off with him!” pursued Mr. [[Home]], who certainly did look sorely crossed
 and annoyed—even a little bitter; “but, I suppose, if he went, Polly
 would pack a bundle and run after him; her heart is fairly won—won, and
 weaned from her old father.”
@@ -463,7 +463,7 @@ _can_ wean me.”
 “Be married, Polly! Espouse the red whiskers. Cease to be a daughter;
 go and be a wife!”
 
-“Red whiskers! I wonder what you mean, papa. You should take care of
+“Red whiskers! I [[Wonder|wonder]] what you mean, papa. You should take care of
 prejudice. You sometimes say to me that all the Scotch, your
 countrymen, are the victims of prejudice. It is proved now, I think,
 when no distinction is to be made between red and deep nut-brown.”
@@ -475,11 +475,11 @@ superiority to taunts; knowing her father’s character, guessing his few
 foibles, she had expected the sort of scene which was now transpiring;
 it did not take her by surprise, and she desired to let it pass with
 dignity, reliant upon reaction. Her dignity stood her in no stead.
-Suddenly her soul melted in her eyes; she fell on his neck:—“I won’t
-leave you, papa; I’ll never leave you. I won’t pain you! I’ll never
-pain you!” was her cry.
+Suddenly her [[Soul|soul]] melted in her eyes; she fell on his neck:—“I won’t
+leave you, papa; I’ll never leave you. I won’t [[Pain|pain]] you! I’ll never
+[[Pain|pain]] you!” was her cry.
 
-“My lamb! my treasure!” murmured the loving though rugged sire. He said
+“My [[Lamb|lamb]]! my treasure!” murmured the loving though rugged sire. He said
 no more for the moment; indeed, those two words were hoarse.
 
 The room was now darkening. I heard a movement, a step without.
@@ -504,7 +504,7 @@ library.
 
 “I am brought up for judgment, then, and so is _she_?”
 
-“Mr. Home” (we now and always continued to term him Mr. Home at times)
+“Mr. [[Home]]” (we now and always continued to term him Mr. [[Home]] at times)
 “is talking to his daughter.”
 
 “Ha! These are sharp moments, Lucy!”
@@ -522,8 +522,8 @@ trouble his smile never faded.
 
 “Graham, your star must be fortunate.”
 
-“Must it? Kind prophet! So cheered, I should be a faint heart indeed to
-quail. I think I find all women faithful, Lucy. I ought to love them,
+“Must it? Kind [[Prophet|prophet]]! So cheered, I should be a faint heart indeed to
+quail. I think I find all women faithful, Lucy. I ought to [[Love|love]] them,
 and I do. My mother is good; _she_ is divine; and _you_ are true as
 steel. Are you not?”
 
@@ -534,17 +534,17 @@ hand to me, and always has been. And now for the great venture. God be
 with the right. Lucy, say Amen!”
 
 He turned, and waited till I said “Amen!”—which I did to please him:
-the old charm, in doing as he bid me, came back. I wished him success;
+the old charm, in doing as he bid me, came back. I wished him [[success]];
 and successful I knew he would be. He was born victor, as some are born
 vanquished.
 
-“Follow me!” he said; and I followed him into Mr. Home’s presence.
+“Follow me!” he said; and I followed him into Mr. [[Home]]’s presence.
 
 “Sir,” he asked, “what is my sentence?”
 
 The father looked at him: the daughter kept her face hid.
 
-“Well, Bretton,” said Mr. Home, “you have given me the usual reward of
+“[[Well]], Bretton,” said Mr. [[Home]], “you have given me the usual reward of
 hospitality. I entertained you; you have taken my best. I was always
 glad to see you; you were glad to see the one precious thing I had. You
 spoke me fair; and, meantime, I will not say you _robbed_ me, but I am
@@ -552,10 +552,10 @@ bereaved, and what I have lost, _you_, it seems, have won.”
 
 “Sir, I cannot repent.”
 
-“Repent! Not you! You triumph, no doubt: John Graham, you descended
+“Repent! Not you! You triumph, no [[Doubt|doubt]]: John Graham, you descended
 partly from a Highlander and a chief, and there is a trace of the Celt
 in all you look, speak, and think. You have his cunning and his charm.
-The red—(Well then, Polly, the _fair_) hair, the tongue of guile, and
+The red—([[Well]] then, Polly, the _fair_) hair, the tongue of guile, and
 brain of wile, are all come down by inheritance.”
 
 “Sir, I _feel_ honest enough,” said Graham; and a genuine English blush
@@ -571,19 +571,19 @@ now.”
 “Very much, sir. It must come from your generosity, as a gift; from
 your justice, as a reward. I can never earn it.”
 
-“Ay! Listen to the Highland tongue!” said Mr. Home. “Look up, Polly!
+“Ay! Listen to the Highland tongue!” said Mr. [[Home]]. “Look up, Polly!
 Answer this ‘braw wooer;’ send him away!”
 
 She looked up. She shyly glanced at her eager, handsome suitor. She
 gazed tenderly on her furrowed sire.
 
-“Papa, I love you both,” said she; “I can take care of you both. I need
+“Papa, I [[Love|love]] you both,” said she; “I can take care of you both. I need
 not send Graham away—he can live here; he will be no inconvenience,”
 she alleged with that simplicity of phraseology which at times was wont
 to make both her father and Graham smile. They smiled now.
 
 “He will be a prodigious inconvenience to me,” still persisted Mr.
-Home. “I don’t want him, Polly, he is too tall; he is in my way. Tell
+[[Home]]. “I don’t want him, Polly, he is too tall; he is in my way. Tell
 him to march.”
 
 “You will get used to him, papa. He seemed exceedingly tall to me at
@@ -594,7 +594,7 @@ rather not have him otherwise.”
 should never have requested the best man in the land to stand to me in
 that relation. Dismiss this gentleman.”
 
-“But he has known you so long, papa, and suits you so well.”
+“But he has known you so long, papa, and suits you so [[Well|well]].”
 
 “Suits _me_, forsooth! Yes; he has pretended to make my opinions and
 tastes his own. He has humoured me for good reasons. I think, Polly,
@@ -613,36 +613,36 @@ bone; you hurt him!”
 
 He must have hurt him; for he wore a massive ring, set round with
 brilliants, of which the sharp facets cut into Graham’s flesh and drew
-blood: but pain only made Dr. John laugh, as anxiety had made him
+[[Blood|blood]]: but [[Pain|pain]] only made Dr. John laugh, as anxiety had made him
 smile.
 
-“Come with me into my study,” at last said Mr. Home to the doctor. They
+“Come with me into my study,” at last said Mr. [[Home]] to the doctor. They
 went. Their intercourse was not long, but I suppose it was conclusive.
 The suitor had to undergo an interrogatory and a scrutiny on many
 things. Whether Dr. Bretton was at times guileful in look and language
 or not, there was a sound foundation below. His answers, I understood
 afterwards, evinced both wisdom and integrity. He had managed his
-affairs well. He had struggled through entanglements; his fortunes were
+affairs [[Well|well]]. He had struggled through entanglements; his fortunes were
 in the way of retrieval; he proved himself in a position to marry.
 
-Once more the father and lover appeared in the library. M. de
+Once more the father and [[Lover|lover]] appeared in the library. M. de
 Bassompierre shut the door; he pointed to his daughter.
 
 “Take her,” he said. “Take her, John Bretton: and may God deal with you
 as you deal with her!”
 
 Not long after, perhaps a fortnight, I saw three persons, Count de
-Bassompierre, his daughter, and Dr. Graham Bretton, sitting on one
+Bassompierre, his daughter, and Dr. [[Graham Bretton]], sitting on one
 seat, under a low-spreading and umbrageous tree, in the grounds of the
-palace at Bois l’Etang. They had come thither to enjoy a summer
+palace at Bois l’Etang. They had come thither to enjoy a [[Summer|summer]]
 evening: outside the magnificent gates their carriage waited to take
-them home; the green sweeps of turf spread round them quiet and dim;
-the palace rose at a distance, white as a crag on Pentelicus; the
-evening star shone above it; a forest of flowering shrubs embalmed the
+them [[Home|home]]; the green sweeps of turf spread round them quiet and dim;
+the palace [[Rose|rose]] at a distance, white as a crag on Pentelicus; the
+[[Evening Star|evening star]] shone above it; a forest of flowering shrubs embalmed the
 climate of this spot; the hour was still and sweet; the scene, but for
 this group, was solitary.
 
-Paulina sat between the two gentlemen: while they conversed, her little
+[[Paulina]] sat between the two gentlemen: while they conversed, her little
 hands were busy at some work; I thought at first she was binding a
 nosegay. No; with the tiny pair of scissors, glittering in her lap, she
 had severed spoils from each manly head beside her, and was now
@@ -663,37 +663,37 @@ borrowed, she, with interest, gave back.
 father, the daughter, the future husband, now united—all blessed and
 blessing.
 
-Yes; it is so. Without any colouring of romance, or any exaggeration of
+Yes; it is so. Without any colouring of [[Romance|romance]], or any exaggeration of
 fancy, it is so. Some real lives do—for some certain days or
 years—actually anticipate the happiness of Heaven; and, I believe, if
 such perfect happiness is once felt by good people (to the wicked it
 never comes), its sweet effect is never wholly lost. Whatever trials
-follow, whatever pains of sickness or shades of death, the glory
+follow, whatever pains of sickness or shades of [[Death|death]], the glory
 precedent still shines through, cheering the keen anguish, and tinging
 the deep cloud.
 
 I will go farther. I _do_ believe there are some human beings so born,
-so reared, so guided from a soft cradle to a calm and late grave, that
-no excessive suffering penetrates their lot, and no tempestuous
-blackness overcasts their journey. And often, these are not pampered,
-selfish beings, but Nature’s elect, harmonious and benign; men and
-women mild with charity, kind agents of God’s kind attributes.
+so reared, so guided from a soft cradle to a calm and late [[Grave|grave]], that
+no excessive [[Suffering|suffering]] penetrates their lot, and no tempestuous
+blackness overcasts their [[Journey|journey]]. And often, these are not pampered,
+selfish beings, but [[Nature]]’s elect, harmonious and benign; men and
+women mild with [[Charity|charity]], kind agents of God’s kind attributes.
 
-Let me not delay the happy truth. Graham Bretton and Paulina de
+Let me not delay the happy [[Truth|truth]]. [[Graham Bretton]] and [[Paulina]] de
 Bassompierre were married, and such an agent did Dr. Bretton prove. He
-did not with time degenerate; his faults decayed, his virtues ripened;
-he rose in intellectual refinement, he won in moral profit: all dregs
+did not with [[Time|time]] degenerate; his faults decayed, his virtues ripened;
+he [[Rose|rose]] in intellectual refinement, he won in moral profit: all dregs
 filtered away, the clear wine settled bright and tranquil. Bright, too,
-was the destiny of his sweet wife. She kept her husband’s love, she
+was the destiny of his sweet wife. She kept her husband’s [[Love|love]], she
 aided in his progress—of his happiness she was the corner stone.
 
 This pair was blessed indeed, for years brought them, with great
 prosperity, great goodness: they imparted with open hand, yet wisely.
 Doubtless they knew crosses, disappointments, difficulties; but these
-were well borne. More than once, too, they had to look on Him whose
+were [[Well|well]] borne. More than once, too, they had to look on Him whose
 face flesh scarce can see and live: they had to pay their tribute to
-the King of Terrors. In the fulness of years, M. de Bassompierre was
-taken: in ripe old age departed Louisa Bretton. Once even there rose a
+the [[King]] of Terrors. In the fulness of years, M. de Bassompierre was
+taken: in ripe old age departed Louisa Bretton. Once even there [[Rose|rose]] a
 cry in their halls, of Rachel weeping for her children; but others
 sprang healthy and blooming to replace the lost: Dr. Bretton saw
 himself live again in a son who inherited his looks and his
@@ -701,7 +701,7 @@ disposition; he had stately daughters, too, like himself: these
 children he reared with a suave, yet a firm hand; they grew up
 according to inheritance and nurture.
 
-In short, I do but speak the truth when I say that these two lives of
-Graham and Paulina were blessed, like that of Jacob’s favoured son,
+In short, I do but speak the [[Truth|truth]] when I say that these two lives of
+Graham and [[Paulina]] were blessed, like that of Jacob’s favoured son,
 with “blessings of Heaven above, blessings of the deep that lies
 under.” It was so, for God saw that it was good.

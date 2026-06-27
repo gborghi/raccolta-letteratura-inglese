@@ -1,5 +1,5 @@
 ---
-title: "The Man That Was Used Up (part 4)"
+title: "[[The Man That Was Used Up]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Man-That-Was-Used-Up-(Poe)"
@@ -82,7 +82,7 @@ tags:
 
       an arm-chair, and, with staring eyes and open mouth, awaited the
 
-      solution of the wonder.
+      solution of the [[Wonder|wonder]].
 
 
 
@@ -98,9 +98,9 @@ tags:
 
 
 
-      “Strange you shouldn’t know me, though, isn’t it? Pompey, bring
+      “Strange you shouldn’t know me, though, isn’t it? [[Pompey]], bring
 
-      me that leg!” Here Pompey handed the bundle, a very capital cork
+      me that leg!” Here [[Pompey]] handed the bundle, a very capital cork
 
       leg, already dressed, which it screwed on in a trice; and then it
 
@@ -112,7 +112,7 @@ tags:
 
       soliloquy; “but then one mustn’t fight with the Bugaboos and
 
-      Kickapoos, and think of coming off with a mere scratch. Pompey,
+      Kickapoos, and think of coming off with a mere scratch. [[Pompey]],
 
       I’ll thank you now for that arm. Thomas” [turning to me] “is
 
@@ -120,7 +120,7 @@ tags:
 
       want an arm, my dear fellow, you must really let me recommend you
 
-      to Bishop.” Here Pompey screwed on an arm.
+      to Bishop.” Here [[Pompey]] screwed on an arm.
 
 
 
@@ -136,7 +136,7 @@ tags:
 
 
 
-      “Pompey, will you _never_ be ready with that wig? Scalping is a
+      “[[Pompey]], will you _never_ be ready with that wig? Scalping is a
 
       rough process after all; but then you can procure such a capital
 
@@ -162,13 +162,13 @@ tags:
 
 
 
-      “O yes, by-the-by, my eye—here, Pompey, you scamp, screw it in !
+      “O yes, by-the-by, my eye—here, [[Pompey]], you scamp, screw it in !
 
       Those Kickapoos are not so very slow at a gouge; but he’s a
 
       belied man, that Dr. Williams, after all; you can’t imagine how
 
-      well I see with the eyes of his make.”
+      [[Well|well]] I see with the eyes of his make.”
 
 
 
@@ -176,9 +176,9 @@ tags:
 
       was nothing more nor less than my new acquaintance, Brevet
 
-      Brigadier General John A. B. C. Smith. The manipulations of
+      Brigadier General John A. B. C. [[smith|Smith]]. The manipulations of
 
-      Pompey had made, I must confess, a very striking difference in
+      [[Pompey]] had made, I must confess, a very striking difference in
 
       the appearance of the personal man. The voice, however, still
 
@@ -188,7 +188,7 @@ tags:
 
 
 
-      “Pompey, you black rascal,” squeaked the General, “I really do
+      “[[Pompey]], you black rascal,” squeaked the General, “I really do
 
       believe you would let me go out without my palate.”
 
@@ -196,9 +196,9 @@ tags:
 
       Hereupon, the negro, grumbling out an apology, went up to his
 
-      master, opened his mouth with the knowing air of a horse-jockey,
+      master, opened his mouth with the knowing air of a [[Horse|horse]]-jockey,
 
-      and adjusted therein a somewhat singular-looking machine, in a
+      and adjusted therein a somewhat singular-looking [[Machine|machine]], in a
 
       very dexterous manner, that I could not altogether comprehend.
 
@@ -220,7 +220,7 @@ tags:
 
       off at least seven-eighths of my tongue. There isn’t Bonfanti’s
 
-      equal, however, in America, for really good articles of this
+      equal, however, in [[America]], for really good articles of this
 
       description. I can recommend you to him with confidence,” [here
 
@@ -238,6 +238,6 @@ tags:
 
       troubled me so long. It was evident. It was a clear case. Brevet
 
-      Brigadier General John A. B. C. Smith was the man—was _the man
+      Brigadier General John A. B. C. [[smith|Smith]] was the man—was _the man
 
       that was used up_.

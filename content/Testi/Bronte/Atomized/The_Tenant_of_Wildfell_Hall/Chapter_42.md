@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 42"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 42"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,21 +22,21 @@ tags:
 
 September 1st.—No Mr. Huntingdon yet. Perhaps he will stay among his
 
-friends till Christmas; and then, next spring, he will be off again. If
+friends till Christmas; and then, next [[spring]], he will be off again. If
 
-he continue this plan, I shall be able to stay at Grassdale well
+he continue this plan, I shall be able to stay at Grassdale [[Well|well]]
 
 enough—that is, I _shall_ be able to stay, and that is enough; even an
 
 occasional bevy of friends at the shooting season may be borne, if
 
-Arthur get so firmly attached to me, so well established in good sense
+[[arthur|Arthur]] get so firmly attached to me, so [[Well|well]] established in good sense
 
 and principles before they come that I shall be able, by reason and
 
-affection, to keep him pure from their contaminations. Vain hope, I
+affection, to keep him pure from their contaminations. Vain [[Hope|hope]], I
 
-fear! but still, till such a time of trial comes I will forbear to
+[[Fear|fear]]! but still, till such a [[Time|time]] of trial comes I will forbear to
 
 think of my quiet asylum in the beloved old hall.
 
@@ -50,9 +50,9 @@ never passed a day without seeing my two friends, Milicent and Esther,
 
 either there or here. On one occasion, when Mr. Hattersley had driven
 
-them over to Grassdale in the phaeton, with little Helen and Ralph, and
+them over to Grassdale in the phaeton, with little [[Helen]] and Ralph, and
 
-we were all enjoying ourselves in the garden—I had a few minutes’
+we were all enjoying ourselves in the [[Garden|garden]]—I had a few minutes’
 
 conversation with that gentleman, while the ladies were amusing
 
@@ -66,7 +66,7 @@ he.
 
 
 
-“No, unless you can tell me when to expect him home.”
+“No, unless you can tell me when to expect him [[Home|home]].”
 
 
 
@@ -78,7 +78,7 @@ he.
 
 
 
-“Well, I think you’re better without him, sure enough—for my part, I’m
+“[[Well]], I think you’re better without him, sure enough—for my part, I’m
 
 downright weary of him. I told him I’d leave him if he didn’t mend his
 
@@ -98,17 +98,17 @@ the father of a family should do. What do you think of that?”
 
 
 
-“Well, I’m not thirty yet; it isn’t too late, is it?”
+“[[Well]], I’m not thirty yet; it isn’t too late, is it?”
 
 
 
-“No; it is never too late to reform, as long as you have the sense to
+“No; it is never too late to [[Reform|reform]], as long as you have the sense to
 
-desire it, and the strength to execute your purpose.”
+[[Desire|desire]] it, and the strength to execute your purpose.”
 
 
 
-“Well, to tell you the truth, I’ve thought of it often and often
+“[[Well]], to tell you the [[Truth|truth]], I’ve thought of it often and often
 
 before; but he’s such devilish good company, is Huntingdon, after all.
 
@@ -116,7 +116,7 @@ You can’t imagine what a jovial good fellow he is when he’s not fairly
 
 drunk, only just primed or half-seas-over. We all have a bit of a
 
-liking for him at the bottom of our hearts, though we can’t respect
+liking for him at the [[Bottom|bottom]] of our hearts, though we can’t respect
 
 him.”
 
@@ -184,23 +184,23 @@ affection.”
 
 
 
-“Fire and fury—”
+“[[Fire]] and fury—”
 
 
 
 “Now don’t burst into a tempest at that. I don’t mean to say she does
 
-not love you—she does, I know, a great deal better than you deserve;
+not [[Love|love]] you—she does, I know, a great deal better than you deserve;
 
-but I am quite sure, that if you behave better, she will love you more,
+but I am quite sure, that if you behave better, she will [[Love|love]] you more,
 
-and if you behave worse, she will love you less and less, till all is
+and if you behave worse, she will [[Love|love]] you less and less, till all is
 
-lost in fear, aversion, and bitterness of soul, if not in secret hatred
+lost in [[Fear|fear]], aversion, and bitterness of [[Soul|soul]], if not in secret hatred
 
 and contempt. But, dropping the subject of affection, should you wish
 
-to be the tyrant of her life—to take away all the sunshine from her
+to be the [[Tyrant|tyrant]] of her life—to take away all the sunshine from her
 
 existence, and make her thoroughly miserable?”
 
@@ -216,7 +216,7 @@ existence, and make her thoroughly miserable?”
 
 “Pooh, pooh! she’s not the susceptible, anxious, worriting creature you
 
-imagine: she’s a little meek, peaceable, affectionate body; apt to be
+imagine: she’s a little meek, peaceable, affectionate [[Body|body]]; apt to be
 
 rather sulky at times, but quiet and cool in the main, and ready to
 
@@ -234,7 +234,7 @@ she is now.”
 
 white face: now she’s a poor little bit of a creature, fading and
 
-melting away like a snow-wreath. But hang it!—that’s not my fault.”
+melting away like a [[Snow|snow]]-wreath. But hang it!—that’s not my fault.”
 
 
 
@@ -246,15 +246,15 @@ five-and-twenty.”
 
 “It’s her own delicate health, and confound it, madam! what would you
 
-make of me?—and the children, to be sure, that worry her to death
+make of me?—and the children, to be sure, that worry her to [[Death|death]]
 
 between them.”
 
 
 
-“No, Mr. Hattersley, the children give her more pleasure than pain:
+“No, Mr. Hattersley, the children give her more pleasure than [[Pain|pain]]:
 
-they are fine, well-dispositioned children—”
+they are fine, [[Well|well]]-dispositioned children—”
 
 
 
@@ -266,7 +266,7 @@ they are fine, well-dispositioned children—”
 
 fretting and constant anxiety on your account, mingled, I suspect, with
 
-something of bodily fear on her own. When you behave well, she can only
+something of bodily [[Fear|fear]] on her own. When you behave [[Well|well]], she can only
 
 rejoice with trembling; she has no security, no confidence in your
 
@@ -274,23 +274,23 @@ judgment or principles; but is continually dreading the close of such
 
 short-lived felicity; when you behave ill, her causes of terror and
 
-misery are more than any one can tell but herself. In patient endurance
+misery are more than any one can tell but herself. In patient [[Endurance|endurance]]
 
 of evil, she forgets it is our duty to admonish our neighbours of their
 
-transgressions. Since you _will_ mistake her silence for indifference,
+transgressions. Since you _will_ mistake her [[Silence|silence]] for indifference,
 
 come with me, and I’ll show you one or two of her letters—no breach of
 
-confidence, I hope, since you are her other half.”
+confidence, I [[Hope|hope]], since you are her other half.”
 
 
 
 He followed me into the library. I sought out and put into his hands
 
-two of Milicent’s letters: one dated from London, and written during
+two of Milicent’s letters: one dated from [[London]], and written during
 
-one of his wildest seasons of reckless dissipation; the other in the
+one of his wildest [[Seasons|seasons]] of reckless dissipation; the other in the
 
 country, during a lucid interval. The former was full of trouble and
 
@@ -302,7 +302,7 @@ bitter things against Mr. Huntingdon, and most ingeniously throwing the
 
 blame of her husband’s misconduct on to other men’s shoulders. The
 
-latter was full of hope and joy, yet with a trembling consciousness
+latter was full of [[Hope|hope]] and joy, yet with a trembling consciousness
 
 that this happiness would not last; praising his goodness to the skies,
 
@@ -310,7 +310,7 @@ but with an evident, though but half-expressed wish, that it were based
 
 on a surer foundation than the natural impulses of the heart, and a
 
-half-prophetic dread of the fall of that house so founded on the
+half-prophetic dread of the fall of that [[house]] so founded on the
 
 sand,—which fall had shortly after taken place, as Hattersley must have
 
@@ -322,13 +322,13 @@ Almost at the commencement of the first letter I had the unexpected
 
 pleasure of seeing him blush; but he immediately turned his back to me,
 
-and finished the perusal at the window. At the second, I saw him, once
+and finished the perusal at the [[Window|window]]. At the second, I saw him, once
 
 or twice, raise his hand, and hurriedly pass it across his face. Could
 
 it be to dash away a tear? When he had done, there was an interval
 
-spent in clearing his throat and staring out of the window, and then,
+spent in clearing his throat and staring out of the [[Window|window]], and then,
 
 after whistling a few bars of a favourite air, he turned round, gave me
 
@@ -352,9 +352,9 @@ the future, inasmuch as your duty is only what you _owe_ to your Maker,
 
 and you cannot do _more_ than fulfil it: another must make amends for
 
-your past delinquencies. If you intend to reform, invoke God’s
+your past delinquencies. If you intend to [[Reform|reform]], invoke God’s
 
-blessing, His mercy, and His aid; not His curse.”
+blessing, His [[Mercy|mercy]], and His aid; not His curse.”
 
 
 
@@ -374,9 +374,9 @@ off from the ground, and saluted her with a hearty kiss and a strong
 
 embrace; then placing his two hands on her shoulders, he gave her, I
 
-suppose, a sketch of the great things he meant to do, for she suddenly
+suppose, a [[Sketch|sketch]] of the great things he meant to do, for she suddenly
 
-threw her arms round him, and burst into tears, exclaiming,—“Do, do,
+threw her arms round him, and burst into [[Tears|tears]], exclaiming,—“Do, do,
 
 Ralph—we shall be so happy! How very, very good you are!”
 
@@ -402,7 +402,7 @@ only done what she might, and ought to have done herself.
 
 anything that I could have said. I should only have bothered him by my
 
-clumsy efforts at persuasion, if I had made the attempt.”
+clumsy efforts at [[Persuasion|persuasion]], if I had made the attempt.”
 
 
 
@@ -412,15 +412,15 @@ clumsy efforts at persuasion, if I had made the attempt.”
 
 Shortly after they took their leave. They are now gone on a visit to
 
-Hattersley’s father. After that they will repair to their country home.
+Hattersley’s father. After that they will repair to their country [[Home|home]].
 
-I hope his good resolutions will not fall through, and poor Milicent
+I [[Hope|hope]] his good resolutions will not fall through, and poor Milicent
 
 will not be again disappointed. Her last letter was full of present
 
 bliss, and pleasing anticipations for the future; but no particular
 
-temptation has yet occurred to put his virtue to the test. Henceforth,
+[[Temptation|temptation]] has yet occurred to put his virtue to the test. Henceforth,
 
 however, she will doubtless be somewhat less timid and reserved, and he
 

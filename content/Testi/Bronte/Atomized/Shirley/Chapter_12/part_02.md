@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 12 (part 2)"
+title: "[[Shirley]] — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -30,7 +30,7 @@ They both halted on the green brow of the common. They looked down on
 
 the deep valley robed in May raiment; on varied meads, some pearled with
 
-daisies, and some golden with king-cups. To-day all this young verdure
+daisies, and some golden with [[King|king]]-cups. To-day all this young verdure
 
 smiled clear in sunlight; transparent emerald and amber gleams played
 
@@ -38,13 +38,13 @@ over it. On Nunnwood--the sole remnant of antique British forest in a
 
 region whose lowlands were once all silvan chase, as its highlands were
 
-breast-deep heather--slept the shadow of a cloud; the distant hills were
+breast-deep heather--slept the [[Shadow|shadow]] of a cloud; the distant hills were
 
 dappled, the horizon was shaded and tinted like mother-of-pearl; silvery
 
-blues, soft purples, evanescent greens and rose-shades, all melting into
+blues, soft purples, evanescent greens and [[Rose|rose]]-shades, all melting into
 
-fleeces of white cloud, pure as azury snow, allured the eye as with a
+fleeces of white cloud, pure as azury [[Snow|snow]], allured the eye as with a
 
 remote glimpse of heaven's foundations. The air blowing on the brow was
 
@@ -52,7 +52,7 @@ fresh, and sweet, and bracing.
 
 
 
-"Our England is a bonny island," said Shirley, "and Yorkshire is one of
+"Our England is a bonny island," said [[Shirley]], "and Yorkshire is one of
 
 her bonniest nooks."
 
@@ -62,7 +62,7 @@ her bonniest nooks."
 
 
 
-"I am--Yorkshire in blood and birth. Five generations of my race sleep
+"I am--Yorkshire in [[Blood|blood]] and birth. Five generations of my race [[Sleep|sleep]]
 
 under the aisles of Briarfield Church. I drew my first breath in the old
 
@@ -76,7 +76,7 @@ shaken. "We are compatriots," said she.
 
 
 
-"Yes," agreed Shirley, with a grave nod.
+"Yes," agreed [[Shirley]], with a [[Grave|grave]] nod.
 
 
 
@@ -94,7 +94,7 @@ Nunnwood?"
 
 
 
-"Many a time."
+"Many a [[Time|time]]."
 
 
 
@@ -116,13 +116,13 @@ old. When you stand at their roots, the summits seem in another region.
 
 The trunks remain still and firm as pillars, while the boughs sway to
 
-every breeze. In the deepest calm their leaves are never quite hushed,
+every breeze. In the deepest calm their [[Leaves|leaves]] are never quite hushed,
 
-and in high wind a flood rushes, a sea thunders above you."
+and in high [[Wind|wind]] a flood rushes, a sea thunders above you."
 
 
 
-"Was it not one of Robin Hood's haunts?"
+"Was it not one of [[Robin Hood]]'s haunts?"
 
 
 
@@ -142,17 +142,17 @@ you see a break in the forest, about the centre?"
 
 short as the sod of this common. The very oldest of the trees, gnarled
 
-mighty oaks, crowd about the brink of this dell. In the bottom lie the
+mighty oaks, crowd about the brink of this dell. In the [[Bottom|bottom]] lie the
 
 ruins of a nunnery."
 
 
 
-"We will go--you and I alone, Caroline--to that wood, early some fine
+"We will go--you and I [[Alone|alone]], Caroline--to that wood, early some fine
 
-summer morning, and spend a long day there. We can take pencils and
+[[Summer|summer]] morning, and spend a long day there. We can take pencils and
 
-sketch-books, and any interesting reading book we like; and of course we
+[[Sketch|sketch]]-books, and any interesting reading book we like; and of course we
 
 shall take something to eat. I have two little baskets, in which Mrs.
 
@@ -166,7 +166,7 @@ our own. It would not tire you too much to walk so far?"
 
 all the pleasantest spots. I know where we could get nuts in nutting
 
-time; I know where wild strawberries abound; I know certain lonely,
+[[Time|time]]; I know where wild strawberries abound; I know certain lonely,
 
 quite untrodden glades, carpeted with strange mosses, some yellow as if
 
@@ -182,7 +182,7 @@ in bright shrouds of ivy. Miss Keeldar, I could guide you."
 
 
 
-"You would be dull with me alone?"
+"You would be dull with me [[Alone|alone]]?"
 
 
 
@@ -210,7 +210,7 @@ of the party," interrupted Caroline.
 
 "We were going simply to see the old trees, the old ruins; to pass a day
 
-in old times, surrounded by olden silence, and above all by quietude."
+in old times, surrounded by olden [[Silence|silence]], and above all by quietude."
 
 
 
@@ -226,11 +226,11 @@ change--one easy to feel, difficult to describe."
 
 
 
-"We forget Nature, _imprimis_."
+"We forget [[Nature]], _imprimis_."
 
 
 
-"And then Nature forgets us, covers her vast calm brow with a dim veil,
+"And then [[Nature]] forgets us, covers her vast calm brow with a dim veil,
 
 conceals her face, and withdraws the peaceful joy with which, if we had
 
@@ -256,7 +256,7 @@ party--all the curates and some other gentry of these parts, together
 
 with sundry ladies--and I found the affair insufferably tedious and
 
-absurd; and I have gone quite alone, or accompanied but by Fanny, who
+absurd; and I have gone quite [[Alone|alone]], or accompanied but by Fanny, who
 
 sat in the woodman's hut and sewed, or talked to the goodwife, while I
 
@@ -268,7 +268,7 @@ young--two years ago."
 
 
 
-"Did you ever go with your cousin, Robert Moore?"
+"Did you ever go with your cousin, [[Robert Moore]]?"
 
 
 
@@ -296,10 +296,10 @@ a distance. But your cousin is not stupid?"
 
 
 
-"Well?"
+"[[Well]]?"
 
 
 
 "If the company of fools irritates, as you say, the society of clever
 
-men leaves its own peculiar pain also. Where the goodness or talent of
+men [[Leaves|leaves]] its own peculiar [[Pain|pain]] also. Where the goodness or talent of

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -53,7 +53,7 @@ have got Daniel on my notes, unless you told me so, Sir?’
 
 This argument was, of course, unanswerable.
 
-‘Mr. Winkle has rather a short memory, my Lord,’ interposed Mr. Skimpin,
+‘Mr. Winkle has rather a short [[Memory|memory]], my Lord,’ interposed Mr. Skimpin,
 with another glance at the jury. ‘We shall find means to refresh it
 before we have quite done with him, I dare say.’
 
@@ -67,9 +67,9 @@ disconcerted pickpocket.
 ‘Now, Mr. Winkle,’ said Mr. Skimpin, ‘attend to me, if you please, Sir;
 and let me recommend you, for your own sake, to bear in mind his
 Lordship’s injunctions to be careful. I believe you are a particular
-friend of Mr. Pickwick, the defendant, are you not?’
+friend of Mr. [[Pickwick]], the defendant, are you not?’
 
-‘I have known Mr. Pickwick now, as well as I recollect at this moment,
+‘I have known Mr. [[Pickwick]] now, as [[Well|well]] as I recollect at this moment,
 nearly--’
 
 ‘Pray, Mr. Winkle, do not evade the question. Are you, or are you not, a
@@ -95,7 +95,7 @@ know the plaintiff too? Eh, Mr. Winkle?’
 tell the gentlemen of the jury what you mean by that, Mr. Winkle.’
 
 ‘I mean that I am not intimate with her, but I have seen her when I went
-to call on Mr. Pickwick, in Goswell Street.’
+to call on Mr. [[Pickwick]], in Goswell Street.’
 
 ‘How often have you seen her, Sir?’
 
@@ -118,8 +118,8 @@ being, that he had better take care of himself, and mind what he was
 about. The witness having been by these means reduced to the requisite
 ebb of nervous perplexity, the examination was continued as follows--
 
-‘Pray, Mr. Winkle, do you remember calling on the defendant Pickwick at
-these apartments in the plaintiff’s house in Goswell Street, on one
+‘Pray, Mr. Winkle, do you remember calling on the defendant [[Pickwick]] at
+these apartments in the plaintiff’s [[house]] in Goswell Street, on one
 particular morning, in the month of July last?’
 
 ‘Yes, I do.’
@@ -142,7 +142,7 @@ the jury what you saw on entering the defendant’s room, on this
 particular morning. Come; out with it, Sir; we must have it, sooner or
 later.’
 
-‘The defendant, Mr. Pickwick, was holding the plaintiff in his arms,
+‘The defendant, Mr. [[Pickwick]], was holding the plaintiff in his arms,
 with his hands clasping her waist,’ replied Mr. Winkle with natural
 hesitation, ‘and the plaintiff appeared to have fainted away.’
 
@@ -154,7 +154,7 @@ or words to that effect.’
 
 ‘Now, Mr. Winkle, I have only one more question to ask you, and I beg
 you to bear in mind his Lordship’s caution. Will you undertake to swear
-that Pickwick, the defendant, did not say on the occasion in question--
+that [[Pickwick]], the defendant, did not say on the occasion in question--
 “My dear Mrs. Bardell, you’re a good creature; compose yourself to this
 situation, for to this situation you must come,” or words to that
 effect?’
@@ -165,8 +165,8 @@ the staircase, and couldn’t hear distinctly; the impression on my mind
 is--’
 
 ‘The gentlemen of the jury want none of the impressions on your mind,
-Mr. Winkle, which I fear would be of little service to honest,
+Mr. Winkle, which I [[Fear|fear]] would be of little service to honest,
 straightforward men,’ interposed Mr. Skimpin. ‘You were on the
 staircase, and didn’t distinctly hear; but you will not swear that
-Pickwick did not make use of the expressions I have quoted? Do I
+[[Pickwick]] did not make use of the expressions I have quoted? Do I
 understand that?’

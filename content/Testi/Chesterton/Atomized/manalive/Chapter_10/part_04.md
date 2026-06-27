@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 4 (part 4)"
+title: "[[manalive]] — Chapter 4 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -23,17 +23,17 @@ process of generation."
 "If these gals," said Gould impatiently--"if these gals were all alive
 (all alive O!) I'd chance a fiver they were all born."
 
-"You'd lose your fiver," said Michael, speaking gravely out of the gloom.
+"You'd lose your fiver," said [[Michael]], speaking gravely out of the gloom.
 "All those admirable ladies were alive.  They were more alive for having
-come into contact with Smith.  They were all quite definitely alive,
+come into contact with [[smith|Smith]].  They were all quite definitely alive,
 but only one of them was ever born."
 
 "Are you asking us to believe--" began Dr. Pym.
 
-"I am asking you a second question," said Moon sternly.  "Can the court
+"I am asking you a second question," said [[Moon]] sternly.  "Can the [[Court|court]]
 now sitting throw any light on a truly singular circumstance?
 Dr. Pym, in his interesting lecture on what are called, I believe,
-the relations of the sexes, said that Smith was the slave
+the relations of the sexes, said that [[smith|Smith]] was the slave
 of a lust for variety which would lead a man first to a negress
 and then to an albino, first to a Patagonian giantess and then
 to a tiny Eskimo.  But is there any evidence of such variety here?
@@ -49,14 +49,14 @@ doctor describes?  So far as our slight materials go,
 the very opposite seems to be the case.  We have only
 one actual description of any of the prisoner's wives--
 the short but highly poetic account by the aesthetic curate.
-`Her dress was the colour of spring, and her hair of autumn leaves.'
-Autumn leaves, of course, are of various colours, some of
+`Her dress was the colour of [[Spring|spring]], and her hair of [[Autumn|autumn]] [[Leaves|leaves]].'
+[[Autumn]] [[Leaves|leaves]], of course, are of various colours, some of
 which would be rather startling in hair (green, for instance);
 but I think such an expression would be most naturally used of
 the shades from red-brown to red, especially as ladies with their
 coppery-coloured hair do frequently wear light artistic greens.
-Now when we come to the next wife, we find the eccentric lover,
-when told he is a donkey, answering that donkeys always go
+Now when we come to the next wife, we find the eccentric [[Lover|lover]],
+when told he is a [[donkey]], answering that donkeys always go
 after carrots; a remark which Lady Bullingdon evidently
 regarded as pointless and part of the natural table-talk of a
 village idiot, but which has an obvious meaning if we suppose
@@ -103,22 +103,22 @@ be missed either.  I know all about his human head and his horrid tail;
 they belong to a very old game called `Heads I win, tails you lose.'
 If you do find a fellow's bones, it proves he lived a long while ago;
 if you don't find his bones, it proves how long ago he lived.
-That is the game you've been playing with this Smith affair.
-Because Smith's head is small for his shoulders you call
+That is the game you've been playing with this [[smith|Smith]] affair.
+Because [[smith|Smith]]'s head is small for his shoulders you call
 him microcephalous; if it had been large, you'd have called it
-water-on-the-brain. As long as poor old Smith's seraglio seemed
-pretty various, variety was the sign of madness:  now, because it's
-turning out to be a bit monochrome--now monotony is the sign of madness.
+[[Water|water]]-on-the-brain. As long as poor old [[smith|Smith]]'s seraglio seemed
+pretty various, variety was the sign of [[Madness|madness]]:  now, because it's
+turning out to be a bit monochrome--now monotony is the sign of [[Madness|madness]].
 I suffer from all the disadvantages of being a grown-up person,
-and I'm jolly well going to get some of the advantages too;
+and I'm jolly [[Well|well]] going to get some of the advantages too;
 and with all politeness I propose not to be bullied with long words
 instead of short reasons, or consider your business a triumphant
 progress merely because you're always finding out that you were wrong.
 Having relieved myself of these feelings, I have merely to add
 that I regard Dr. Pym as an ornament to the world far more beautiful
-than the Parthenon, or the monument on Bunker's Hill, and that I
+than the Parthenon, or the monument on Bunker's [[Hill]], and that I
 propose to resume and conclude my remarks on the many marriages
-of Mr. Innocent Smith.
+of Mr. [[Innocent]] [[smith|Smith]].
 
 "Besides this red hair, there is another unifying thread that
 runs through these scattered incidents.  There is something
@@ -129,4 +129,4 @@ I suggest that it might have been Black, and in that case we
 have a curious series:  Miss Green in Lady Bullingdon's village;
 Miss Brown at the Hendon School; Miss Black at the publishers.
 A chord of colours, as it were, which ends up with Miss Gray
-at Beacon House, West Hampstead."
+at Beacon [[house|House]], West Hampstead."

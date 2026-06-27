@@ -1,5 +1,5 @@
 ---
-title: "innocence"
+title: "[[innocence]]"
 author: "Chesterton"
 unitType: work
 parentWork: "Works/innocence-(Chesterton)"
@@ -13,24 +13,24 @@ tags:
 </nav>
 
 
-THE INNOCENCE OF FATHER BROWN
+THE [[innocence|INNOCENCE]] OF [[Father Brown|FATHER BROWN]]
 
                              Contents
 
-                  The Blue Cross
-                  The Secret Garden
+                  The Blue [[Cross]]
+                  The Secret [[Garden]]
                   The Queer Feet
-                  The Flying Stars
+                  The Flying [[Stars]]
                   The Invisible Man
-                  The Honour of Israel Gow
+                  The [[Honour]] of Israel Gow
                   The Wrong Shape
                   The Sins of Prince Saradine
                   The Hammer of God
-                  The Eye of Apollo
-                  The Sign of the Broken Sword
-                  The Three Tools of Death
+                  The Eye of [[Apollo]]
+                  The Sign of the Broken [[Sword]]
+                  The Three Tools of [[Death]]
 
-                          The Blue Cross
+                          The Blue [[Cross]]
 
 Between the silver ribbon of morning and the green glittering
 ribbon of sea, the boat touched Harwich and let loose a swarm
@@ -47,28 +47,28 @@ There was nothing about him to indicate the fact that the grey
 jacket covered a loaded revolver, that the white waistcoat covered
 a police card, or that the straw hat covered one of the most
 powerful intellects in Europe.  For this was Valentin himself,
-the head of the Paris police and the most famous investigator
-of the world; and he was coming from Brussels to London to make
+the head of the [[Paris]] police and the most famous investigator
+of the world; and he was coming from Brussels to [[London]] to make
 the greatest arrest of the century.
 
-Flambeau was in England.  The police of three countries had tracked
+[[Flambeau]] was in England.  The police of three countries had tracked
 the great criminal at last from Ghent to Brussels, from Brussels
 to the Hook of Holland; and it was conjectured that he would take some
 advantage of the unfamiliarity and confusion of the Eucharistic Congress,
-then taking place in London.  Probably he would travel as some minor
+then taking place in [[London]].  Probably he would travel as some minor
 clerk or secretary connected with it; but, of course, Valentin could
-not be certain; nobody could be certain about Flambeau.
+not be certain; nobody could be certain about [[Flambeau]].
 
 It is many years now since this colossus of crime suddenly
 ceased keeping the world in a turmoil; and when he ceased,
-as they said after the death of Roland, there was a great quiet
+as they said after the [[Death|death]] of Roland, there was a great quiet
 upon the earth.  But in his best days (I mean, of course,
-his worst) Flambeau was a figure as statuesque and international
+his worst) [[Flambeau]] was a figure as statuesque and international
 as the Kaiser.  Almost every morning the daily paper announced
 that he had escaped the consequences of one extraordinary crime
 by committing another.  He was a Gascon of gigantic stature
 and bodily daring; and the wildest tales were told of his
-outbursts of athletic humour; how he turned the juge d'instruction
+outbursts of athletic [[Humour|humour]]; how he turned the juge d'instruction
 upside down and stood him on his head, "to clear his mind";
 how he ran down the Rue de Rivoli with a policeman under each arm.
 It is due to him to say that his fantastic physical strength was
@@ -76,7 +76,7 @@ generally employed in such bloodless though undignified scenes;
 his real crimes were chiefly those of ingenious and wholesale robbery.
 But each of his thefts was almost a new sin, and would
 make a story by itself.  It was he who ran the great
-Tyrolean Dairy Company in London, with no dairies, no cows,
+Tyrolean Dairy Company in [[London]], with no dairies, no cows,
 no carts, no milk, but with some thousand subscribers.
 These he served by the simple operation of moving the little milk
 cans outside people's doors to the doors of his own customers.
@@ -86,27 +86,27 @@ by the extraordinary trick of photographing his messages
 infinitesimally small upon the slides of a microscope.
 A sweeping simplicity, however, marked many of his experiments.
 It is said that he once repainted all the numbers in a street
-in the dead of night merely to divert one traveller into a trap.
+in the dead of [[Night|night]] merely to divert one traveller into a trap.
 It is quite certain that he invented a portable pillar-box,
 which he put up at corners in quiet suburbs on the chance of
 strangers dropping postal orders into it.  Lastly, he was known
 to be a startling acrobat; despite his huge figure, he could leap
 like a grasshopper and melt into the tree-tops like a monkey.
-Hence the great Valentin, when he set out to find Flambeau,
+Hence the great Valentin, when he set out to find [[Flambeau]],
 was perfectly aware that his adventures would not end when
 he had found him.
 
 But how was he to find him?  On this the great Valentin's ideas
 were still in process of settlement.
 
-There was one thing which Flambeau, with all his dexterity
+There was one thing which [[Flambeau]], with all his dexterity
 of disguise, could not cover, and that was his singular height.
 If Valentin's quick eye had caught a tall apple-woman, a tall grenadier,
 or even a tolerably tall duchess, he might have arrested them on the spot.
-But all along his train there was nobody that could be a disguised Flambeau,
+But all along his train there was nobody that could be a disguised [[Flambeau]],
 any more than a cat could be a disguised giraffe.  About the people
 on the boat he had already satisfied himself; and the people picked up
-at Harwich or on the journey limited themselves with certainty to six.
+at Harwich or on the [[Journey|journey]] limited themselves with certainty to six.
 There was a short railway official travelling up to the terminus,
 three fairly short market gardeners picked up two stations afterwards,
 one very short widow lady going up from a small Essex town, and a very
@@ -118,68 +118,68 @@ as the North Sea; he had several brown paper parcels, which he was quite
 incapable of collecting.  The Eucharistic Congress had doubtless sucked
 out of their local stagnation many such creatures, blind and helpless,
 like moles disinterred.  Valentin was a sceptic in the severe style
-of France, and could have no love for priests.  But he could have
+of France, and could have no [[Love|love]] for priests.  But he could have
 pity for them, and this one might have provoked pity in anybody.
 He had a large, shabby umbrella, which constantly fell on the floor.
 He did not seem to know which was the right end of his return ticket.
-He explained with a moon-calf simplicity to everybody in the carriage
+He explained with a [[Moon|moon]]-calf simplicity to everybody in the carriage
 that he had to be careful, because he had something made of real
 silver "with blue stones" in one of his brown-paper parcels.
 His quaint blending of Essex flatness with saintly simplicity
 continuously amused the Frenchman till the priest arrived (somehow) at
 Tottenham with all his parcels, and came back for his umbrella.
-When he did the last, Valentin even had the good nature to warn
+When he did the last, Valentin even had the good [[Nature|nature]] to warn
 him not to take care of the silver by telling everybody about it.
 But to whomever he talked, Valentin kept his eye open for someone else;
 he looked out steadily for anyone, rich or poor, male or female,
-who was well up to six feet; for Flambeau was four inches above it.
+who was [[Well|well]] up to six feet; for [[Flambeau]] was four inches above it.
 
 He alighted at Liverpool Street, however, quite conscientiously
 secure that he had not missed the criminal so far.  He then went to
 Scotland Yard to regularise his position and arrange for help in case
 of need; he then lit another cigarette and went for a long stroll
-in the streets of London.  As he was walking in the streets and squares
+in the streets of [[London]].  As he was walking in the streets and squares
 beyond Victoria, he paused suddenly and stood.  It was a quaint,
-quiet square, very typical of London, full of an accidental stillness.
+quiet square, very typical of [[London]], full of an accidental stillness.
 The tall, flat houses round looked at once prosperous and uninhabited;
 the square of shrubbery in the centre looked as deserted as a green
 Pacific islet.  One of the four sides was much higher than the rest,
-like a dais; and the line of this side was broken by one of London's
+like a dais; and the line of this side was broken by one of [[London]]'s
 admirable accidents--a restaurant that looked as if it had strayed
-from Soho.  It was an unreasonably attractive object, with dwarf
+from Soho.  It was an unreasonably attractive object, with [[Dwarf|dwarf]]
 plants in pots and long, striped blinds of lemon yellow and white.
 It stood specially high above the street, and in the usual patchwork way
-of London, a flight of steps from the street ran up to meet the front
-door almost as a fire-escape might run up to a first-floor window.
+of [[London]], a flight of steps from the street ran up to meet the front
+door almost as a [[Fire|fire]]-escape might run up to a first-floor [[Window|window]].
 Valentin stood and smoked in front of the yellow-white blinds and
 considered them long.
 
 The most incredible thing about miracles is that they happen.
 A few clouds in heaven do come together into the staring shape of
 one human eye.  A tree does stand up in the landscape of a doubtful
-journey in the exact and elaborate shape of a note of interrogation.
+[[Journey|journey]] in the exact and elaborate shape of a note of interrogation.
 I have seen both these things myself within the last few days.
 Nelson does die in the instant of victory; and a man named Williams
 does quite accidentally murder a man named Williamson; it sounds like
 a sort of infanticide.  In short, there is in life an element of elfin
 coincidence which people reckoning on the prosaic may perpetually miss.
-As it has been well expressed in the paradox of Poe, wisdom should
+As it has been [[Well|well]] expressed in the [[Paradox|paradox]] of Poe, wisdom should
 reckon on the unforeseen.
 
 Aristide Valentin was unfathomably French; and the French intelligence
-is intelligence specially and solely.  He was not "a thinking machine";
+is intelligence specially and solely.  He was not "a thinking [[Machine|machine]]";
 for that is a brainless phrase of modern fatalism and materialism.
-A machine only is a machine because it cannot think.  But he was a
-thinking man, and a plain man at the same time.  All his wonderful successes,
-that looked like conjuring, had been gained by plodding logic, by clear
+A [[Machine|machine]] only is a [[Machine|machine]] because it cannot think.  But he was a
+thinking man, and a plain man at the same [[Time|time]].  All his wonderful successes,
+that looked like conjuring, had been gained by plodding [[logic]], by clear
 and commonplace French thought.  The French electrify the world not
-by starting any paradox, they electrify it by carrying out a truism.
-They carry a truism so far--as in the French Revolution.  But exactly
+by starting any [[Paradox|paradox]], they electrify it by carrying out a truism.
+They carry a truism so far--as in the [[French Revolution]].  But exactly
 because Valentin understood reason, he understood the limits of reason.
 Only a man who knows nothing of motors talks of motoring without petrol;
 only a man who knows nothing of reason talks of reasoning without strong,
 undisputed first principles.  Here he had no strong first principles.
-Flambeau had been missed at Harwich; and if he was in London at all,
+[[Flambeau]] had been missed at Harwich; and if he was in [[London]] at all,
 he might be anything from a tall tramp on Wimbledon Common to a tall
 toast-master at the Hotel Metropole.  In such a naked state of nescience,
 Valentin had a view and a method of his own.
@@ -189,7 +189,7 @@ when he could not follow the train of the reasonable,
 he coldly and carefully followed the train of the unreasonable.
 Instead of going to the right places--banks, police stations,
 rendezvous--he systematically went to the wrong places;
-knocked at every empty house, turned down every cul de sac,
+knocked at every empty [[house]], turned down every cul de sac,
 went up every lane blocked with rubbish, went round every crescent
 that led him uselessly out of the way.  He defended this crazy
 course quite logically.  He said that if one had a clue this
@@ -199,22 +199,22 @@ the eye of the pursuer might be the same that had caught the eye
 of the pursued.  Somewhere a man must begin, and it had better
 be just where another man might stop.  Something about that
 flight of steps up to the shop, something about the quietude
-and quaintness of the restaurant, roused all the detective's
+and quaintness of the restaurant, roused all the [[Detective|detective]]'s
 rare romantic fancy and made him resolve to strike at random.
-He went up the steps, and sitting down at a table by the window,
+He went up the steps, and sitting down at a table by the [[Window|window]],
 asked for a cup of black coffee.
 
 It was half-way through the morning, and he had not breakfasted;
 the slight litter of other breakfasts stood about on the table
 to remind him of his hunger; and adding a poached egg to his order,
 he proceeded musingly to shake some white sugar into his coffee,
-thinking all the time about Flambeau.  He remembered how Flambeau
-had escaped, once by a pair of nail scissors, and once by a house on fire;
+thinking all the [[Time|time]] about [[Flambeau]].  He remembered how [[Flambeau]]
+had escaped, once by a pair of nail scissors, and once by a [[house]] on [[Fire|fire]];
 once by having to pay for an unstamped letter, and once by getting people
 to look through a telescope at a comet that might destroy the world.
-He thought his detective brain as good as the criminal's, which was true.
-But he fully realised the disadvantage.  "The criminal is the creative artist;
-the detective only the critic," he said with a sour smile, and lifted
+He thought his [[Detective|detective]] brain as good as the criminal's, which was true.
+But he fully realised the disadvantage.  "The criminal is the creative [[Artist|artist]];
+the [[Detective|detective]] only the critic," he said with a sour smile, and lifted
 his coffee cup to his lips slowly, and put it down very quickly.
 He had put salt in it.
 
@@ -232,8 +232,8 @@ walls, the whole place appeared neat, cheerful and ordinary.
 He rang the bell for the waiter.
 
 When that official hurried up, fuzzy-haired and somewhat
-blear-eyed at that early hour, the detective (who was not without
-an appreciation of the simpler forms of humour) asked him to taste
+blear-eyed at that early hour, the [[Detective|detective]] (who was not without
+an appreciation of the simpler forms of [[Humour|humour]]) asked him to taste
 the sugar and see if it was up to the high reputation of the hotel.
 The result was that the waiter yawned suddenly and woke up.
 
@@ -276,12 +276,12 @@ getting his things together.  But he went at last.  Only, the instant
 before he stepped into the street he deliberately picked up his cup,
 which he had only half emptied, and threw the soup slap on the wall.
 I was in the back room myself, and so was the waiter; so I could
-only rush out in time to find the wall splashed and the shop empty.
+only rush out in [[Time|time]] to find the wall splashed and the shop empty.
 It don't do any particular damage, but it was confounded cheek;
 and I tried to catch the men in the street.  They were too far off though;
 I only noticed they went round the next corner into Carstairs Street."
 
-The detective was on his feet, hat settled and stick in hand.
+The [[Detective|detective]] was on his feet, hat settled and stick in hand.
 He had already decided that in the universal darkness of his
 mind he could only follow the first odd finger that pointed;
 and this finger was odd enough.  Paying his bill and clashing
@@ -295,14 +295,14 @@ and fruiterer's, an array of goods set out in the open air and plainly
 ticketed with their names and prices.  In the two most prominent
 compartments were two heaps, of oranges and of nuts respectively.
 On the heap of nuts lay a scrap of cardboard, on which was written in bold,
-blue chalk, "Best tangerine oranges, two a penny."  On the oranges was
+blue [[chalk]], "Best tangerine oranges, two a penny."  On the oranges was
 the equally clear and exact description, "Finest Brazil nuts, 4d.  a lb."
 M. Valentin looked at these two placards and fancied he had met this
-highly subtle form of humour before, and that somewhat recently.
+highly subtle form of [[Humour|humour]] before, and that somewhat recently.
 He drew the attention of the red-faced fruiterer, who was looking rather
 sullenly up and down the street, to this inaccuracy in his advertisements.
 The fruiterer said nothing, but sharply put each card into its proper place.
-The detective, leaning elegantly on his walking-cane, continued to scrutinise
+The [[Detective|detective]], leaning elegantly on his walking-cane, continued to scrutinise
 the shop.  At last he said, "Pray excuse my apparent irrelevance,
 my good sir, but I should like to ask you a question in experimental
 psychology and the association of ideas."
@@ -310,7 +310,7 @@ psychology and the association of ideas."
 The red-faced shopman regarded him with an eye of menace;
 but he continued gaily, swinging his cane, "Why," he pursued,
 "why are two tickets wrongly placed in a greengrocer's shop
-like a shovel hat that has come to London for a holiday?
+like a shovel hat that has come to [[London]] for a holiday?
 Or, in case I do not make myself clear, what is the mystical
 association which connects the idea of nuts marked as oranges
 with the idea of two clergymen, one tall and the other short?"
@@ -322,15 +322,15 @@ but if you're one of their friends, you can tell 'em from me that I'll
 knock their silly 'eads off, parsons or no parsons, if they upset
 my apples again."
 
-"Indeed?" asked the detective, with great sympathy.
+"Indeed?" asked the [[Detective|detective]], with great sympathy.
 "Did they upset your apples?"
 
 "One of 'em did," said the heated shopman; "rolled 'em all over the street.
-I'd 'ave caught the fool but for havin' to pick 'em up."
+I'd 'ave caught the [[Fool|fool]] but for havin' to pick 'em up."
 
 "Which way did these parsons go?" asked Valentin.
 
-"Up that second road on the left-hand side, and then across the square,"
+"Up that second [[Road|road]] on the left-hand side, and then across the square,"
 said the other promptly.
 
 "Thanks," replied Valentin, and vanished like a fairy.
@@ -340,7 +340,7 @@ in shovel hats?"
 
 The policeman began to chuckle heavily.  "I 'ave, sir;
 and if you arst me, one of 'em was drunk.  He stood in the middle
-of the road that bewildered that--"
+of the [[Road|road]] that bewildered that--"
 
 "Which way did they go?" snapped Valentin.
 
@@ -349,12 +349,12 @@ of the road that bewildered that--"
 
 Valentin produced his official card and said very rapidly:
 "Call up two of your men to come with me in pursuit,"
-and crossed the road with such contagious energy that the
+and crossed the [[Road|road]] with such contagious energy that the
 ponderous policeman was moved to almost agile obedience.
-In a minute and a half the French detective was joined on
+In a minute and a half the French [[Detective|detective]] was joined on
 the opposite pavement by an inspector and a man in plain clothes.
 
-"Well, sir," began the former, with smiling importance,
+"[[Well]], sir," began the former, with smiling importance,
 "and what may--?"
 
 Valentin pointed suddenly with his cane.  "I'll tell you on
@@ -366,7 +366,7 @@ on the top seats of the yellow vehicle, the inspector said:
 "Quite true," replied their leader placidly, "if we only had an idea
 of where we were going."
 
-"Well, where are you going?" asked the other, staring.
+"[[Well]], where are you going?" asked the other, staring.
 
 Valentin smoked frowningly for a few seconds; then, removing his cigarette,
 he said:  "If you know what a man's doing, get in front of him;
@@ -378,43 +378,43 @@ All we can do is to keep our eyes skinned for a queer thing."
 "What sort of queer thing do you mean?" asked the inspector.
 
 "Any sort of queer thing," answered Valentin, and relapsed
-into obstinate silence.
+into obstinate [[Silence|silence]].
 
 The yellow omnibus crawled up the northern roads for what seemed
-like hours on end; the great detective would not explain further,
-and perhaps his assistants felt a silent and growing doubt of
-his errand.  Perhaps, also, they felt a silent and growing desire
+like hours on end; the great [[Detective|detective]] would not explain further,
+and perhaps his assistants felt a silent and growing [[Doubt|doubt]] of
+his errand.  Perhaps, also, they felt a silent and growing [[Desire|desire]]
 for lunch, for the hours crept long past the normal luncheon hour,
-and the long roads of the North London suburbs seemed to shoot
+and the long roads of the North [[London]] suburbs seemed to shoot
 out into length after length like an infernal telescope.
 It was one of those journeys on which a man perpetually feels that now
 at last he must have come to the end of the universe, and then finds
-he has only come to the beginning of Tufnell Park.  London died away
+he has only come to the beginning of Tufnell Park.  [[London]] died away
 in draggled taverns and dreary scrubs, and then was unaccountably born
 again in blazing high streets and blatant hotels.  It was like passing
 through thirteen separate vulgar cities all just touching each other.
-But though the winter twilight was already threatening the road
-ahead of them, the Parisian detective still sat silent and watchful,
+But though the [[Winter|winter]] twilight was already threatening the [[Road|road]]
+ahead of them, the Parisian [[Detective|detective]] still sat silent and watchful,
 eyeing the frontage of the streets that slid by on either side.
-By the time they had left Camden Town behind, the policemen
+By the [[Time|time]] they had left Camden Town behind, the policemen
 were nearly asleep; at least, they gave something like a jump
 as Valentin leapt erect, struck a hand on each man's shoulder,
 and shouted to the driver to stop.
 
-They tumbled down the steps into the road without realising why they
+They tumbled down the steps into the [[Road|road]] without realising why they
 had been dislodged; when they looked round for enlightenment they found
-Valentin triumphantly pointing his finger towards a window on the left
-side of the road.  It was a large window, forming part of the long
-facade of a gilt and palatial public-house; it was the part reserved
-for respectable dining, and labelled "Restaurant."  This window,
+Valentin triumphantly pointing his finger towards a [[Window|window]] on the left
+side of the [[Road|road]].  It was a large [[Window|window]], forming part of the long
+facade of a gilt and palatial public-[[house]]; it was the part reserved
+for respectable dining, and labelled "Restaurant."  This [[Window|window]],
 like all the rest along the frontage of the hotel, was of frosted
 and figured glass; but in the middle of it was a big, black smash,
 like a star in the ice.
 
 "Our cue at last," cried Valentin, waving his stick; "the place
-with the broken window."
+with the broken [[Window|window]]."
 
-"What window?  What cue?" asked his principal assistant.
+"What [[Window|window]]?  What cue?" asked his principal assistant.
 "Why, what proof is there that this has anything to do with them?"
 
 Valentin almost broke his bamboo stick with rage.
@@ -422,13 +422,13 @@ Valentin almost broke his bamboo stick with rage.
 "Proof!" he cried.  "Good God! the man is looking for proof!
 Why, of course, the chances are twenty to one that it has nothing
 to do with them.  But what else can we do?  Don't you see we must
-either follow one wild possibility or else go home to bed?"
+either follow one wild possibility or else go [[Home|home]] to bed?"
 He banged his way into the restaurant, followed by his companions,
 and they were soon seated at a late luncheon at a little table,
 and looked at the star of smashed glass from the inside.
 Not that it was very informative to them even then.
 
-"Got your window broken, I see," said Valentin to the waiter
+"Got your [[Window|window]] broken, I see," said Valentin to the waiter
 as he paid the bill.
 
 "Yes, sir," answered the attendant, bending busily over the change,
@@ -437,9 +437,9 @@ straightened himself with mild but unmistakable animation.
 
 "Ah, yes, sir," he said.  "Very odd thing, that, sir."
 
-"Indeed?"  Tell us about it," said the detective with careless curiosity.
+"Indeed?"  Tell us about it," said the [[Detective|detective]] with careless curiosity.
 
-"Well, two gents in black came in," said the waiter; "two of
+"[[Well]], two gents in black came in," said the waiter; "two of
 those foreign parsons that are running about.  They had a cheap
 and quiet little lunch, and one of them paid for it and went out.
 The other was just going out to join him when I looked at my change
@@ -447,17 +447,17 @@ again and found he'd paid me more than three times too much.
 `Here,' I says to the chap who was nearly out of the door,
 `you've paid too much.'  `Oh,' he says, very cool, `have we?'
 'Yes,' I says, and picks up the bill to show him.
-Well, that was a knock-out."
+[[Well]], that was a knock-out."
 
 "What do you mean?" asked his interlocutor.
 
-"Well, I'd have sworn on seven Bibles that I'd put 4s.  on that bill.
+"[[Well]], I'd have sworn on seven Bibles that I'd put 4s.  on that bill.
 But now I saw I'd put 14s., as plain as paint."
 
-"Well?" cried Valentin, moving slowly, but with burning eyes, "and then?"
+"[[Well]]?" cried Valentin, moving slowly, but with burning eyes, "and then?"
 
 "The parson at the door he says all serene, `Sorry to confuse
-your accounts, but it'll pay for the window.'  `What window?'
+your accounts, but it'll pay for the window.'  `What [[Window|window]]?'
 I says.  `The one I'm going to break,' he says, and smashed
 that blessed pane with his umbrella."
 
@@ -506,7 +506,7 @@ confession of eagerness, "for Heaven's sake tell us what happened exactly."
 in about half an hour ago and bought some peppermints and talked
 a bit, and then went off towards the Heath.  But a second after,
 one of them runs back into the shop and says, `Have I left a parcel!'
-Well, I looked everywhere and couldn't see one; so he says, `Never mind;
+[[Well]], I looked everywhere and couldn't see one; so he says, `Never mind;
 but if it should turn up, please post it to this address,'
 and he left me the address and a shilling for my trouble.
 And sure enough, though I thought I'd looked everywhere, I found he'd
@@ -661,38 +661,38 @@ find a notice-board, `Thou shalt not steal.'"
 
 Valentin was just in the act of rising from his rigid and crouching
 attitude and creeping away as softly as might be, felled by the one
-great folly of his life.  But something in the very silence
+great folly of his life.  But something in the very [[Silence|silence]]
 of the tall priest made him stop until the latter spoke.
 When at last he did speak, he said simply, his head bowed and his
 hands on his knees:
 
-"Well, I think that other worlds may perhaps rise higher than our reason.
+"[[Well]], I think that other worlds may perhaps rise higher than our reason.
 The mystery of heaven is unfathomable, and I for one can only bow my head."
 
 Then, with brow yet bent and without changing by the faintest
 shade his attitude or voice, he added:
 
-"Just hand over that sapphire cross of yours, will you?
-We're all alone here, and I could pull you to pieces like
+"Just hand over that sapphire [[Cross|cross]] of yours, will you?
+We're all [[Alone|alone]] here, and I could pull you to pieces like
 a straw doll."
 
 The utterly unaltered voice and attitude added a strange violence
 to that shocking change of speech.  But the guarder of the relic
 only seemed to turn his head by the smallest section of the compass.
-He seemed still to have a somewhat foolish face turned to the stars.
+He seemed still to have a somewhat foolish face turned to the [[Stars|stars]].
 Perhaps he had not understood.  Or, perhaps, he had understood and sat
 rigid with terror.
 
 "Yes," said the tall priest, in the same low voice and in the same
-still posture, "yes, I am Flambeau."
+still posture, "yes, I am [[Flambeau]]."
 
 Then, after a pause, he said:
 
-"Come, will you give me that cross?"
+"Come, will you give me that [[Cross|cross]]?"
 
 "No," said the other, and the monosyllable had an odd sound.
 
-Flambeau suddenly flung off all his pontifical pretensions.
+[[Flambeau]] suddenly flung off all his pontifical pretensions.
 The great robber leaned back in his seat and laughed low but long.
 
 "No," he cried, "you won't give it me, you proud prelate.
@@ -705,14 +705,14 @@ and said, with the timid eagerness of "The Private Secretary":
 
 "Are--are you sure?"
 
-Flambeau yelled with delight.
+[[Flambeau]] yelled with delight.
 
 "Really, you're as good as a three-act farce," he cried.  "Yes, you turnip,
 I am quite sure.  I had the sense to make a duplicate of the right parcel,
 and now, my friend, you've got the duplicate and I've got the jewels.
-An old dodge, Father Brown--a very old dodge."
+An old dodge, [[Father Brown]]--a very old dodge."
 
-"Yes," said Father Brown, and passed his hand through his hair
+"Yes," said [[Father Brown]], and passed his hand through his hair
 with the same strange vagueness of manner.  "Yes, I've heard
 of it before."
 
@@ -721,7 +721,7 @@ with a sort of sudden interest.
 
 "You have heard of it?" he asked.  "Where have you heard of it?"
 
-"Well, I mustn't tell you his name, of course," said the little man simply.
+"[[Well]], I mustn't tell you his name, of course," said the little man simply.
 "He was a penitent, you know.  He had lived prosperously for about twenty
 years entirely on duplicate brown paper parcels.  And so, you see,
 when I began to suspect you, I thought of this poor chap's way of doing
@@ -735,23 +735,23 @@ you up to this bare part of the heath?"
 I suspected you when we first met.  It's that little bulge up
 the sleeve where you people have the spiked bracelet."
 
-"How in Tartarus," cried Flambeau, "did you ever hear of the spiked bracelet?"
+"How in Tartarus," cried [[Flambeau]], "did you ever hear of the spiked bracelet?"
 
-"Oh, one's little flock, you know!" said Father Brown, arching his
+"Oh, one's little flock, you know!" said [[Father Brown]], arching his
 eyebrows rather blankly.  "When I was a curate in Hartlepool,
 there were three of them with spiked bracelets.  So, as I suspected
-you from the first, don't you see, I made sure that the cross
+you from the first, don't you see, I made sure that the [[Cross|cross]]
 should go safe, anyhow.  I'm afraid I watched you, you know.
 So at last I saw you change the parcels.  Then, don't you see,
 I changed them back again.  And then I left the right one behind."
 
-"Left it behind?" repeated Flambeau, and for the first time there
+"Left it behind?" repeated [[Flambeau]], and for the first [[Time|time]] there
 was another note in his voice beside his triumph.
 
-"Well, it was like this," said the little priest, speaking in the same
+"[[Well]], it was like this," said the little priest, speaking in the same
 unaffected way.  "I went back to that sweet-shop and asked if I'd
 left a parcel, and gave them a particular address if it turned up.
-Well, I knew I hadn't; but when I went away again I did.  So, instead of
+[[Well]], I knew I hadn't; but when I went away again I did.  So, instead of
 running after me with that valuable parcel, they have sent it flying
 to a friend of mine in Westminster."  Then he added rather sadly:
 "I learnt that, too, from a poor fellow in Hartlepool.  He used to do it
@@ -760,27 +760,27 @@ Oh, one gets to know, you know," he added, rubbing his head again
 with the same sort of desperate apology.  "We can't help being priests.
 People come and tell us these things."
 
-Flambeau tore a brown-paper parcel out of his inner pocket and rent it
+[[Flambeau]] tore a brown-paper parcel out of his inner pocket and rent it
 in pieces.  There was nothing but paper and sticks of lead inside it.
 He sprang to his feet with a gigantic gesture, and cried:
 
 "I don't believe you.  I don't believe a bumpkin like you could
 manage all that.  I believe you've still got the stuff on you,
-and if you don't give it up--why, we're all alone, and I'll take
+and if you don't give it up--why, we're all [[Alone|alone]], and I'll take
 it by force!"
 
-"No," said Father Brown simply, and stood up also, "you won't
+"No," said [[Father Brown]] simply, and stood up also, "you won't
 take it by force.  First, because I really haven't still got it.
-And, second, because we are not alone."
+And, second, because we are not [[Alone|alone]]."
 
-Flambeau stopped in his stride forward.
+[[Flambeau]] stopped in his stride forward.
 
-"Behind that tree," said Father Brown, pointing, "are two
-strong policemen and the greatest detective alive.
+"Behind that tree," said [[Father Brown]], pointing, "are two
+strong policemen and the greatest [[Detective|detective]] alive.
 How did they come here, do you ask?  Why, I brought them,
 of course!  How did I do it?  Why, I'll tell you if you like!
 Lord bless you, we have to know twenty such things when we work
-among the criminal classes!  Well, I wasn't sure you were a thief,
+among the criminal classes!  [[Well]], I wasn't sure you were a thief,
 and it would never do to make a scandal against one of our own clergy.
 So I just tested you to see if anything would make you show yourself.
 A man generally makes a small scene if he finds salt in his coffee;
@@ -790,19 +790,19 @@ A man generally objects if his bill is three times too big.
 If he pays it, he has some motive for passing unnoticed.
 I altered your bill, and you paid it."
 
-The world seemed waiting for Flambeau to leap like a tiger.
+The world seemed waiting for [[Flambeau]] to leap like a tiger.
 But he was held back as by a spell; he was stunned with
 the utmost curiosity.
 
-"Well," went on Father Brown, with lumbering lucidity, "as you
+"[[Well]]," went on [[Father Brown]], with lumbering lucidity, "as you
 wouldn't leave any tracks for the police, of course somebody had to.
 At every place we went to, I took care to do something that would
 get us talked about for the rest of the day.  I didn't do much harm--
-a splashed wall, spilt apples, a broken window; but I saved the cross,
-as the cross will always be saved.  It is at Westminster by now.
-I rather wonder you didn't stop it with the Donkey's Whistle."
+a splashed wall, spilt apples, a broken [[Window|window]]; but I saved the [[Cross|cross]],
+as the [[Cross|cross]] will always be saved.  It is at Westminster by now.
+I rather [[Wonder|wonder]] you didn't stop it with the [[donkey|Donkey]]'s Whistle."
 
-"With the what?" asked Flambeau.
+"With the what?" asked [[Flambeau]].
 
 "I'm glad you've never heard of it," said the priest, making a face.
 "It's a foul thing.  I'm sure you're too good a man for
@@ -811,12 +811,12 @@ I'm not strong enough in the legs."
 
 "What on earth are you talking about?" asked the other.
 
-"Well, I did think you'd know the Spots," said Father Brown,
+"[[Well]], I did think you'd know the Spots," said [[Father Brown]],
 agreeably surprised.  "Oh, you can't have gone so very wrong yet!"
 
-"How in blazes do you know all these horrors?" cried Flambeau.
+"How in blazes do you know all these horrors?" cried [[Flambeau]].
 
-The shadow of a smile crossed the round, simple face of his clerical opponent.
+The [[Shadow|shadow]] of a smile crossed the round, simple face of his clerical opponent.
 
 "Oh, by being a celibate simpleton, I suppose," he said.
 "Has it never struck you that a man who does next to nothing but hear
@@ -826,10 +826,10 @@ sure you weren't a priest."
 
 "What?" asked the thief, almost gaping.
 
-"You attacked reason," said Father Brown.  "It's bad theology."
+"You attacked reason," said [[Father Brown]].  "It's bad theology."
 
 And even as he turned away to collect his property, the three policemen came
-out from under the twilight trees.  Flambeau was an artist and a sportsman.
+out from under the twilight trees.  [[Flambeau]] was an [[Artist|artist]] and a sportsman.
 He stepped back and swept Valentin a great bow.
 
 "Do not bow to me, mon ami," said Valentin with silver clearness.
@@ -838,44 +838,44 @@ He stepped back and swept Valentin a great bow.
 And they both stood an instant uncovered while the little Essex
 priest blinked about for his umbrella.
 
-                         The Secret Garden
+                         The Secret [[Garden]]
 
-Aristide Valentin, Chief of the Paris Police, was late for his dinner,
+Aristide Valentin, Chief of the [[Paris]] Police, was late for his dinner,
 and some of his guests began to arrive before him.  These were, however,
 reassured by his confidential servant, Ivan, the old man with a scar,
 and a face almost as grey as his moustaches, who always sat at a table
-in the entrance hall--a hall hung with weapons.  Valentin's house was
-perhaps as peculiar and celebrated as its master.  It was an old house,
+in the entrance hall--a hall hung with weapons.  Valentin's [[house]] was
+perhaps as peculiar and celebrated as its master.  It was an old [[house]],
 with high walls and tall poplars almost overhanging the Seine;
 but the oddity--and perhaps the police value--of its architecture was this:
 that there was no ultimate exit at all except through this front door,
-which was guarded by Ivan and the armoury.  The garden was large
-and elaborate, and there were many exits from the house into the garden.
-But there was no exit from the garden into the world outside; all round
+which was guarded by Ivan and the armoury.  The [[Garden|garden]] was large
+and elaborate, and there were many exits from the [[house]] into the [[Garden|garden]].
+But there was no exit from the [[Garden|garden]] into the world outside; all round
 it ran a tall, smooth, unscalable wall with special spikes at the top;
-no bad garden, perhaps, for a man to reflect in whom some hundred
+no bad [[Garden|garden]], perhaps, for a man to reflect in whom some hundred
 criminals had sworn to kill.
 
 As Ivan explained to the guests, their host had telephoned
-that he was detained for ten minutes.  He was, in truth,
+that he was detained for ten minutes.  He was, in [[Truth|truth]],
 making some last arrangements about executions and such ugly things;
 and though these duties were rootedly repulsive to him,
 he always performed them with precision.  Ruthless in the pursuit
 of criminals, he was very mild about their punishment.
 Since he had been supreme over French--and largely over European--
 policial methods, his great influence had been honourably used
-for the mitigation of sentences and the purification of prisons.
+for the mitigation of sentences and the [[Purification|purification]] of prisons.
 He was one of the great humanitarian French freethinkers;
-and the only thing wrong with them is that they make mercy
+and the only thing wrong with them is that they make [[Mercy|mercy]]
 even colder than justice.
 
 When Valentin arrived he was already dressed in black clothes
 and the red rosette--an elegant figure, his dark beard already
-streaked with grey.  He went straight through his house to his study,
-which opened on the grounds behind.  The garden door of it was open,
+streaked with grey.  He went straight through his [[house]] to his study,
+which opened on the grounds behind.  The [[Garden|garden]] door of it was open,
 and after he had carefully locked his box in its official place,
-he stood for a few seconds at the open door looking out upon the garden.
-A sharp moon was fighting with the flying rags and tatters of a storm,
+he stood for a few seconds at the open door looking out upon the [[Garden|garden]].
+A sharp [[Moon|moon]] was fighting with the flying rags and tatters of a [[Storm|storm]],
 and Valentin regarded it with a wistfulness unusual in such
 scientific natures as his.  Perhaps such scientific natures have some
 psychic prevision of the most tremendous problem of their lives.
@@ -895,18 +895,18 @@ He saw Dr. Simon, a typical French scientist, with glasses,
 a pointed brown beard, and a forehead barred with those
 parallel wrinkles which are the penalty of superciliousness,
 since they come through constantly elevating the eyebrows.
-He saw Father Brown, of Cobhole, in Essex, whom he had recently met
+He saw [[Father Brown]], of Cobhole, in Essex, whom he had recently met
 in England.  He saw--perhaps with more interest than any of these--
 a tall man in uniform, who had bowed to the Galloways without
-receiving any very hearty acknowledgment, and who now advanced alone
+receiving any very hearty acknowledgment, and who now advanced [[Alone|alone]]
 to pay his respects to his host.  This was Commandant O'Brien, of the
 French Foreign Legion.  He was a slim yet somewhat swaggering figure,
 clean-shaven, dark-haired, and blue-eyed, and, as seemed natural
 in an officer of that famous regiment of victorious failures and
-successful suicides, he had an air at once dashing and melancholy.
+successful suicides, he had an air at once dashing and [[Melancholy|melancholy]].
 He was by birth an Irish gentleman, and in boyhood had known
 the Galloways--especially Margaret Graham.  He had left his country
-after some crash of debts, and now expressed his complete freedom
+after some crash of debts, and now expressed his complete [[Freedom|freedom]]
 from British etiquette by swinging about in uniform, sabre and spurs.
 When he bowed to the Ambassador's family, Lord and Lady Galloway
 bent stiffly, and Lady Margaret looked away.
@@ -915,7 +915,7 @@ But for whatever old causes such people might be interested in each other,
 their distinguished host was not specially interested in them.
 No one of them at least was in his eyes the guest of the evening.
 Valentin was expecting, for special reasons, a man of world-wide fame,
-whose friendship he had secured during some of his great detective
+whose [[Friendship|friendship]] he had secured during some of his great [[Detective|detective]]
 tours and triumphs in the United States.  He was expecting
 Julius K. Brayne, that multi-millionaire whose colossal and even
 crushing endowments of small religions have occasioned so much easy
@@ -925,22 +925,22 @@ or a Mormon or a Christian Scientist; but he was ready to pour money
 into any intellectual vessel, so long as it was an untried vessel.
 One of his hobbies was to wait for the American Shakespeare--
 a hobby more patient than angling.  He admired Walt Whitman,
-but thought that Luke P. Tanner, of Paris, Pa., was more "progressive"
+but thought that Luke P. Tanner, of [[Paris]], Pa., was more "progressive"
 than Whitman any day.  He liked anything that he thought "progressive."
-He thought Valentin "progressive," thereby doing him a grave injustice.
+He thought Valentin "progressive," thereby doing him a [[Grave|grave]] injustice.
 
 The solid appearance of Julius K. Brayne in the room was as decisive
 as a dinner bell.  He had this great quality, which very few
 of us can claim, that his presence was as big as his absence.
 He was a huge fellow, as fat as he was tall, clad in complete
 evening black, without so much relief as a watch-chain or a ring.
-His hair was white and well brushed back like a German's;
+His hair was white and [[Well|well]] brushed back like a German's;
 his face was red, fierce and cherubic, with one dark tuft under
 the lower lip that threw up that otherwise infantile visage
 with an effect theatrical and even Mephistophelean.  Not long,
 however, did that salon merely stare at the celebrated American;
 his lateness had already become a domestic problem, and he was
-sent with all speed into the dining-room with Lady Galloway
+sent with all [[Speed|speed]] into the dining-room with Lady Galloway
 on his arm.
 
 Except on one point the Galloways were genial and casual enough.
@@ -949,7 +949,7 @@ O'Brien, her father was quite satisfied; and she had not done so,
 she had decorously gone in with Dr. Simon.  Nevertheless, old Lord Galloway
 was restless and almost rude.  He was diplomatic enough during dinner,
 but when, over the cigars, three of the younger men--Simon the doctor,
-Brown the priest, and the detrimental O'Brien, the exile in a foreign uniform--
+Brown the priest, and the detrimental O'Brien, the [[Exile|exile]] in a foreign uniform--
 all melted away to mix with the ladies or smoke in the conservatory,
 then the English diplomatist grew very undiplomatic indeed.
 He was stung every sixty seconds with the thought that the scamp O'Brien
@@ -957,7 +957,7 @@ might be signalling to Margaret somehow; he did not attempt to imagine how.
 He was left over the coffee with Brayne, the hoary Yankee who believed
 in all religions, and Valentin, the grizzled Frenchman who believed in none.
 They could argue with each other, but neither could appeal to him.
-After a time this "progressive" logomachy had reached a crisis
+After a [[Time|time]] this "progressive" logomachy had reached a crisis
 of tedium; Lord Galloway got up also and sought the drawing-room.
 He lost his way in long passages for some six or eight minutes:
 till he heard the high-pitched, didactic voice of the doctor, and then
@@ -970,43 +970,43 @@ and that Lady Margaret was absent too.
 Rising impatiently from the drawing-room, as he had from the dining-room,
 he stamped along the passage once more.  His notion of protecting his
 daughter from the Irish-Algerian n'er-do-weel had become something central
-and even mad in his mind.  As he went towards the back of the house,
+and even mad in his mind.  As he went towards the back of the [[house]],
 where was Valentin's study, he was surprised to meet his daughter,
 who swept past with a white, scornful face, which was a second enigma.
 If she had been with O'Brien, where was O'Brien! If she had not been
 with O'Brien, where had she been?  With a sort of senile and passionate
 suspicion he groped his way to the dark back parts of the mansion,
-and eventually found a servants' entrance that opened on to the garden.
-The moon with her scimitar had now ripped up and rolled away all
-the storm-wrack. The argent light lit up all four corners of the garden.
+and eventually found a servants' entrance that opened on to the [[Garden|garden]].
+The [[Moon|moon]] with her scimitar had now ripped up and rolled away all
+the [[Storm|storm]]-wrack. The argent light lit up all four corners of the [[Garden|garden]].
 A tall figure in blue was striding across the lawn towards the study door;
 a glint of moonlit silver on his facings picked him out as Commandant O'Brien.
 
-He vanished through the French windows into the house,
+He vanished through the French windows into the [[house]],
 leaving Lord Galloway in an indescribable temper, at once
-virulent and vague.  The blue-and-silver garden, like a scene
+virulent and vague.  The blue-and-silver [[Garden|garden]], like a scene
 in a theatre, seemed to taunt him with all that tyrannic
 tenderness against which his worldly authority was at war.
 The length and grace of the Irishman's stride enraged him as if
 he were a rival instead of a father; the moonlight maddened him.
-He was trapped as if by magic into a garden of troubadours,
+He was trapped as if by [[Magic|magic]] into a [[Garden|garden]] of troubadours,
 a Watteau fairyland; and, willing to shake off such amorous
 imbecilities by speech, he stepped briskly after his enemy.
 As he did so he tripped over some tree or stone in the grass;
-looked down at it first with irritation and then a second time
-with curiosity.  The next instant the moon and the tall poplars
+looked down at it first with irritation and then a second [[Time|time]]
+with curiosity.  The next instant the [[Moon|moon]] and the tall poplars
 looked at an unusual sight--an elderly English diplomatist
 running hard and crying or bellowing as he ran.
 
 His hoarse shouts brought a pale face to the study door, the beaming glasses
 and worried brow of Dr. Simon, who heard the nobleman's first clear words.
-Lord Galloway was crying:  "A corpse in the grass--a blood-stained corpse."
+Lord Galloway was crying:  "A corpse in the grass--a [[Blood|blood]]-stained corpse."
 O'Brien at last had gone utterly out of his mind.
 
 "We must tell Valentin at once," said the doctor, when the other
 had brokenly described all that he had dared to examine.
 "It is fortunate that he is here"; and even as he spoke
-the great detective entered the study, attracted by the cry.
+the great [[Detective|detective]] entered the study, attracted by the cry.
 It was almost amusing to note his typical transformation;
 he had come with the common concern of a host and a gentleman,
 fearing that some guest or servant was ill.  When he was told
@@ -1014,16 +1014,16 @@ the gory fact, he turned with all his gravity instantly
 bright and businesslike; for this, however abrupt and awful,
 was his business.
 
-"Strange, gentlemen," he said as they hurried out into the garden,
+"Strange, gentlemen," he said as they hurried out into the [[Garden|garden]],
 "that I should have hunted mysteries all over the earth, and now one comes
 and settles in my own back-yard. But where is the place?"  They crossed
-the lawn less easily, as a slight mist had begun to rise from the river;
-but under the guidance of the shaken Galloway they found the body sunken
-in deep grass--the body of a very tall and broad-shouldered man.
+the lawn less easily, as a slight mist had begun to rise from the [[River|river]];
+but under the guidance of the shaken Galloway they found the [[Body|body]] sunken
+in deep grass--the [[Body|body]] of a very tall and broad-shouldered man.
 He lay face downwards, so they could only see that his big shoulders
 were clad in black cloth, and that his big head was bald, except for a
 wisp or two of brown hair that clung to his skull like wet seaweed.
-A scarlet serpent of blood crawled from under his fallen face.
+A scarlet serpent of [[Blood|blood]] crawled from under his fallen face.
 
 "At least," said Simon, with a deep and singular intonation,
 "he is none of our party."
@@ -1036,8 +1036,8 @@ he is dead enough," he answered.  "Just help me to lift him up."
 
 They lifted him carefully an inch from the ground, and all doubts
 as to his being really dead were settled at once and frightfully.
-The head fell away.  It had been entirely sundered from the body;
-whoever had cut his throat had managed to sever the neck as well.
+The head fell away.  It had been entirely sundered from the [[Body|body]];
+whoever had cut his throat had managed to sever the neck as [[Well|well]].
 Even Valentin was slightly shocked.  "He must have been as strong
 as a gorilla," he muttered.
 
@@ -1049,15 +1049,15 @@ with a hawk-like nose and heavy lids--a face of a wicked
 Roman emperor, with, perhaps, a distant touch of a Chinese emperor.
 All present seemed to look at it with the coldest eye of ignorance.
 Nothing else could be noted about the man except that, as they
-had lifted his body, they had seen underneath it the white
-gleam of a shirt-front defaced with a red gleam of blood.
+had lifted his [[Body|body]], they had seen underneath it the white
+gleam of a shirt-front defaced with a red gleam of [[Blood|blood]].
 As Dr. Simon said, the man had never been of their party.
-But he might very well have been trying to join it, for he had
+But he might very [[Well|well]] have been trying to join it, for he had
 come dressed for such an occasion.
 
 Valentin went down on his hands and knees and examined with his
 closest professional attention the grass and ground for some
-twenty yards round the body, in which he was assisted less
+twenty yards round the [[Body|body]], in which he was assisted less
 skillfully by the doctor, and quite vaguely by the English lord.
 Nothing rewarded their grovellings except a few twigs,
 snapped or chopped into very small lengths, which Valentin
@@ -1069,14 +1069,14 @@ that is all there is on this lawn."
 There was an almost creepy stillness, and then the unnerved Galloway
 called out sharply:
 
-"Who's that!  Who's that over there by the garden wall!"
+"Who's that!  Who's that over there by the [[Garden|garden]] wall!"
 
 A small figure with a foolishly large head drew waveringly near
 them in the moonlit haze; looked for an instant like a goblin,
 but turned out to be the harmless little priest whom they had left
 in the drawing-room.
 
-"I say," he said meekly, "there are no gates to this garden,
+"I say," he said meekly, "there are no gates to this [[Garden|garden]],
 do you know."
 
 Valentin's black brows had come together somewhat crossly,
@@ -1086,40 +1086,40 @@ But he was far too just a man to deny the relevance of the remark.
 to be killed, we may have to find out how he came to be here.
 Now listen to me, gentlemen.  If it can be done without
 prejudice to my position and duty, we shall all agree that
-certain distinguished names might well be kept out of this.
+certain distinguished names might [[Well|well]] be kept out of this.
 There are ladies, gentlemen, and there is a foreign ambassador.
 If we must mark it down as a crime, then it must be followed up
 as a crime.  But till then I can use my own discretion.  I am the head
 of the police; I am so public that I can afford to be private.
 Please Heaven, I will clear everyone of my own guests before I call
-in my men to look for anybody else.  Gentlemen, upon your honour,
-you will none of you leave the house till tomorrow at noon;
+in my men to look for anybody else.  Gentlemen, upon your [[Honour|honour]],
+you will none of you leave the [[house]] till tomorrow at [[Noon|noon]];
 there are bedrooms for all.  Simon, I think you know where to find
 my man, Ivan, in the front hall; he is a confidential man.
 Tell him to leave another servant on guard and come to me at once.
 Lord Galloway, you are certainly the best person to tell the ladies
 what has happened, and prevent a panic.  They also must stay.
-Father Brown and I will remain with the body."
+[[Father Brown]] and I will remain with the [[Body|body]]."
 
 When this spirit of the captain spoke in Valentin he was
 obeyed like a bugle.  Dr. Simon went through to the armoury
-and routed out Ivan, the public detective's private detective.
+and routed out Ivan, the public [[Detective|detective]]'s private [[Detective|detective]].
 Galloway went to the drawing-room and told the terrible news
-tactfully enough, so that by the time the company assembled
+tactfully enough, so that by the [[Time|time]] the company assembled
 there the ladies were already startled and already soothed.
 Meanwhile the good priest and the good atheist stood at
 the head and foot of the dead man motionless in the moonlight,
-like symbolic statues of their two philosophies of death.
+like symbolic statues of their two philosophies of [[Death|death]].
 
 Ivan, the confidential man with the scar and the moustaches,
-came out of the house like a cannon ball, and came racing
+came out of the [[house]] like a cannon ball, and came racing
 across the lawn to Valentin like a dog to his master.
 His livid face was quite lively with the glow of this domestic
-detective story, and it was with almost unpleasant eagerness
+[[Detective|detective]] story, and it was with almost unpleasant eagerness
 that he asked his master's permission to examine the remains.
 
 "Yes; look, if you like, Ivan," said Valentin, "but don't be long.
-We must go in and thrash this out in the house."
+We must go in and thrash this out in the [[house]]."
 
 Ivan lifted the head, and then almost let it drop.
 
@@ -1131,7 +1131,7 @@ Do you know this man, sir?"
 Between them they carried the corpse to a sofa in the study,
 and then all made their way to the drawing-room.
 
-The detective sat down at a desk quietly, and even without hesitation;
+The [[Detective|detective]] sat down at a desk quietly, and even without hesitation;
 but his eye was the iron eye of a judge at assize.  He made a few
 rapid notes upon paper in front of him, and then said shortly:
 "Is everybody here?"
@@ -1140,9 +1140,9 @@ rapid notes upon paper in front of him, and then said shortly:
 
 "No," said Lord Galloway in a hoarse, harsh voice.
 "And not Mr. Neil O'Brien, I fancy.  I saw that gentleman
-walking in the garden when the corpse was still warm."
+walking in the [[Garden|garden]] when the corpse was still warm."
 
-"Ivan," said the detective, "go and fetch Commandant O'Brien and
+"Ivan," said the [[Detective|detective]], "go and fetch Commandant O'Brien and
 Mr. Brayne.  Mr. Brayne, I know, is finishing a cigar in the dining-room;
 Commandant O'Brien, I think, is walking up and down the conservatory.
 I am not sure."
@@ -1150,8 +1150,8 @@ I am not sure."
 The faithful attendant flashed from the room, and before anyone could stir
 or speak Valentin went on with the same soldierly swiftness of exposition.
 
-"Everyone here knows that a dead man has been found in the garden,
-his head cut clean from his body.  Dr. Simon, you have examined it.
+"Everyone here knows that a dead man has been found in the [[Garden|garden]],
+his head cut clean from his [[Body|body]].  Dr. Simon, you have examined it.
 Do you think that to cut a man's throat like that would need great force?
 Or, perhaps, only a very sharp knife?"
 
@@ -1165,7 +1165,7 @@ could be done?"
 said the doctor, arching his painful brows.  "It's not easy to hack
 a neck through even clumsily, and this was a very clean cut.
 It could be done with a battle-axe or an old headsman's axe,
-or an old two-handed sword."
+or an old two-handed [[Sword|sword]]."
 
 "But, good heavens!" cried the Duchess, almost in hysterics,
 "there aren't any two-handed swords and battle-axes round here."
@@ -1175,51 +1175,51 @@ Valentin was still busy with the paper in front of him.
 done with a long French cavalry sabre?"
 
 A low knocking came at the door, which, for some unreasonable reason,
-curdled everyone's blood like the knocking in Macbeth.  Amid that frozen
-silence Dr. Simon managed to say:  "A sabre--yes, I suppose it could."
+curdled everyone's [[Blood|blood]] like the knocking in [[Macbeth]].  Amid that frozen
+[[Silence|silence]] Dr. Simon managed to say:  "A sabre--yes, I suppose it could."
 
 "Thank you," said Valentin.  "Come in, Ivan."
 
 The confidential Ivan opened the door and ushered in Commandant Neil O'Brien,
-whom he had found at last pacing the garden again.
+whom he had found at last pacing the [[Garden|garden]] again.
 
 The Irish officer stood up disordered and defiant on the threshold.
 "What do you want with me?" he cried.
 
 "Please sit down," said Valentin in pleasant, level tones.
-"Why, you aren't wearing your sword.  Where is it?"
+"Why, you aren't wearing your [[Sword|sword]].  Where is it?"
 
 "I left it on the library table," said O'Brien, his brogue deepening
 in his disturbed mood.  "It was a nuisance, it was getting--"
 
-"Ivan," said Valentin, "please go and get the Commandant's sword
+"Ivan," said Valentin, "please go and get the Commandant's [[Sword|sword]]
 from the library."  Then, as the servant vanished, "Lord Galloway
-says he saw you leaving the garden just before he found the corpse.
-What were you doing in the garden?"
+says he saw you leaving the [[Garden|garden]] just before he found the corpse.
+What were you doing in the [[Garden|garden]]?"
 
 The Commandant flung himself recklessly into a chair.
-"Oh," he cried in pure Irish, "admirin' the moon.
-Communing with Nature, me bhoy."
+"Oh," he cried in pure Irish, "admirin' the [[Moon|moon]].
+Communing with [[Nature]], me bhoy."
 
-A heavy silence sank and endured, and at the end of it came again that trivial
+A heavy [[Silence|silence]] sank and endured, and at the end of it came again that trivial
 and terrible knocking.  Ivan reappeared, carrying an empty steel scabbard.
 "This is all I can find," he said.
 
 "Put it on the table," said Valentin, without looking up.
 
-There was an inhuman silence in the room, like that sea
-of inhuman silence round the dock of the condemned murderer.
+There was an inhuman [[Silence|silence]] in the room, like that sea
+of inhuman [[Silence|silence]] round the dock of the condemned murderer.
 The Duchess's weak exclamations had long ago died away.
 Lord Galloway's swollen hatred was satisfied and even sobered.
 The voice that came was quite unexpected.
 
 "I think I can tell you," cried Lady Margaret, in that clear,
 quivering voice with which a courageous woman speaks publicly.
-"I can tell you what Mr. O'Brien was doing in the garden,
-since he is bound to silence.  He was asking me to marry him.
+"I can tell you what Mr. O'Brien was doing in the [[Garden|garden]],
+since he is bound to [[Silence|silence]].  He was asking me to marry him.
 I refused; I said in my family circumstances I could give
 him nothing but my respect.  He was a little angry at that;
-he did not seem to think much of my respect.  I wonder," she added,
+he did not seem to think much of my respect.  I [[Wonder|wonder]]," she added,
 with rather a wan smile, "if he will care at all for it now.
 For I offer it him now.  I will swear anywhere that he never did
 a thing like this."
@@ -1227,37 +1227,37 @@ a thing like this."
 Lord Galloway had edged up to his daughter, and was
 intimidating her in what he imagined to be an undertone.
 "Hold your tongue, Maggie," he said in a thunderous whisper.
-"Why should you shield the fellow?  Where's his sword?
+"Why should you shield the fellow?  Where's his [[Sword|sword]]?
 Where's his confounded cavalry--"
 
 He stopped because of the singular stare with which his daughter was
 regarding him, a look that was indeed a lurid magnet for the whole group.
 
-"You old fool!" she said in a low voice without pretence of piety,
+"You old [[Fool|fool]]!" she said in a low voice without pretence of piety,
 "what do you suppose you are trying to prove?  I tell you this
-man was innocent while with me.  But if he wasn't innocent,
-he was still with me.  If he murdered a man in the garden,
+man was [[Innocent|innocent]] while with me.  But if he wasn't [[Innocent|innocent]],
+he was still with me.  If he murdered a man in the [[Garden|garden]],
 who was it who must have seen--who must at least have known?
 Do you hate Neil so much as to put your own daughter--"
 
 Lady Galloway screamed.  Everyone else sat tingling at the touch
-of those satanic tragedies that have been between lovers before now.
-They saw the proud, white face of the Scotch aristocrat and her lover,
-the Irish adventurer, like old portraits in a dark house.
-The long silence was full of formless historical memories of murdered
+of those satanic tragedies that have been between [[lovers]] before now.
+They saw the proud, white face of the Scotch [[aristocrat]] and her [[Lover|lover]],
+the Irish adventurer, like old portraits in a dark [[house]].
+The long [[Silence|silence]] was full of formless historical memories of murdered
 husbands and poisonous paramours.
 
-In the centre of this morbid silence an innocent voice said:
+In the centre of this morbid [[Silence|silence]] an [[Innocent|innocent]] voice said:
 "Was it a very long cigar?"
 
 The change of thought was so sharp that they had to look round to see
 who had spoken.
 
-"I mean," said little Father Brown, from the corner of the room,
+"I mean," said little [[Father Brown]], from the corner of the room,
 "I mean that cigar Mr. Brayne is finishing.  It seems nearly
 as long as a walking-stick."
 
-Despite the irrelevance there was assent as well as irritation
+Despite the irrelevance there was assent as [[Well|well]] as irritation
 in Valentin's face as he lifted his head.
 
 "Quite right," he remarked sharply.  "Ivan, go and see about Mr. Brayne again,
@@ -1271,7 +1271,7 @@ both gratitude and admiration for your act in rising above
 your lower dignity and explaining the Commandant's conduct.
 But there is a hiatus still.  Lord Galloway, I understand,
 met you passing from the study to the drawing-room, and it
-was only some minutes afterwards that he found the garden
+was only some minutes afterwards that he found the [[Garden|garden]]
 and the Commandant still walking there."
 
 "You have to remember," replied Margaret, with a faint irony in her voice,
@@ -1283,38 +1283,38 @@ and so got charged with murder."
 
 The knock came again, and Ivan put in his scarred face.
 
-"Beg pardon, sir," he said, "but Mr. Brayne has left the house."
+"Beg pardon, sir," he said, "but Mr. Brayne has left the [[house]]."
 
-"Left!" cried Valentin, and rose for the first time to his feet.
+"Left!" cried Valentin, and [[Rose|rose]] for the first [[Time|time]] to his feet.
 
 "Gone.  Scooted.  Evaporated," replied Ivan in humorous French.  "His hat
 and coat are gone, too, and I'll tell you something to cap it all.
-I ran outside the house to find any traces of him, and I found one,
+I ran outside the [[house]] to find any traces of him, and I found one,
 and a big trace, too."
 
 "What do you mean?" asked Valentin.
 
 "I'll show you," said his servant, and reappeared with a flashing
-naked cavalry sabre, streaked with blood about the point and edge.
+naked cavalry sabre, streaked with [[Blood|blood]] about the point and edge.
 Everyone in the room eyed it as if it were a thunderbolt;
 but the experienced Ivan went on quite quietly:
 
-"I found this," he said, "flung among the bushes fifty yards up the road
-to Paris.  In other words, I found it just where your respectable Mr. Brayne
+"I found this," he said, "flung among the bushes fifty yards up the [[Road|road]]
+to [[Paris]].  In other words, I found it just where your respectable Mr. Brayne
 threw it when he ran away."
 
-There was again a silence, but of a new sort.  Valentin took the sabre,
+There was again a [[Silence|silence]], but of a new sort.  Valentin took the sabre,
 examined it, reflected with unaffected concentration of thought, and then
 turned a respectful face to O'Brien. "Commandant," he said, "we trust you
 will always produce this weapon if it is wanted for police examination.
 Meanwhile," he added, slapping the steel back in the ringing scabbard,
-"let me return you your sword."
+"let me return you your [[Sword|sword]]."
 
 At the military symbolism of the action the audience could hardly
 refrain from applause.
 
 For Neil O'Brien, indeed, that gesture was the turning-point of existence.
-By the time he was wandering in the mysterious garden again in
+By the [[Time|time]] he was wandering in the mysterious [[Garden|garden]] again in
 the colours of the morning the tragic futility of his ordinary mien
 had fallen from him; he was a man with many reasons for happiness.
 Lord Galloway was a gentleman, and had offered him an apology.
@@ -1322,36 +1322,36 @@ Lady Margaret was something better than a lady, a woman at least,
 and had perhaps given him something better than an apology,
 as they drifted among the old flowerbeds before breakfast.
 The whole company was more lighthearted and humane, for though
-the riddle of the death remained, the load of suspicion was lifted off
-them all, and sent flying off to Paris with the strange millionaire--
-a man they hardly knew.  The devil was cast out of the house--
+the [[Riddle|riddle]] of the [[Death|death]] remained, the load of suspicion was lifted off
+them all, and sent flying off to [[Paris]] with the strange millionaire--
+a man they hardly knew.  The devil was cast out of the [[house]]--
 he had cast himself out.
 
-Still, the riddle remained; and when O'Brien threw himself on a garden
+Still, the [[Riddle|riddle]] remained; and when O'Brien threw himself on a [[Garden|garden]]
 seat beside Dr. Simon, that keenly scientific person at once resumed it.
 He did not get much talk out of O'Brien, whose thoughts were
 on pleasanter things.
 
 "I can't say it interests me much," said the Irishman frankly, "especially as
 it seems pretty plain now.  Apparently Brayne hated this stranger for
-some reason; lured him into the garden, and killed him with my sword.
-Then he fled to the city, tossing the sword away as he went.
+some reason; lured him into the [[Garden|garden]], and killed him with my [[Sword|sword]].
+Then he fled to the [[City|city]], tossing the [[Sword|sword]] away as he went.
 By the way, Ivan tells me the dead man had a Yankee dollar in his pocket.
 So he was a countryman of Brayne's, and that seems to clinch it.
 I don't see any difficulties about the business."
 
 "There are five colossal difficulties," said the doctor quietly;
 "like high walls within walls.  Don't mistake me.  I don't
-doubt that Brayne did it; his flight, I fancy, proves that.
+[[Doubt|doubt]] that Brayne did it; his flight, I fancy, proves that.
 But as to how he did it.  First difficulty:  Why should a man
 kill another man with a great hulking sabre, when he can almost
 kill him with a pocket knife and put it back in his pocket?
 Second difficulty:  Why was there no noise or outcry?  Does a man
 commonly see another come up waving a scimitar and offer no remarks?
 Third difficulty:  A servant watched the front door all the evening;
-and a rat cannot get into Valentin's garden anywhere.
-How did the dead man get into the garden?  Fourth difficulty:
-Given the same conditions, how did Brayne get out of the garden?"
+and a rat cannot get into Valentin's [[Garden|garden]] anywhere.
+How did the dead man get into the [[Garden|garden]]?  Fourth difficulty:
+Given the same conditions, how did Brayne get out of the [[Garden|garden]]?"
 
 "And the fifth," said Neil, with eyes fixed on the English priest
 who was coming slowly up the path.
@@ -1362,7 +1362,7 @@ I supposed the assassin had struck more than once.
 But on examination I found many cuts across the truncated section;
 in other words, they were struck after the head was off.
 Did Brayne hate his foe so fiendishly that he stood sabring
-his body in the moonlight?"
+his [[Body|body]] in the moonlight?"
 
 "Horrible!" said O'Brien, and shuddered.
 
@@ -1375,15 +1375,15 @@ Then he said awkwardly:
 "News?" repeated Simon, and stared at him rather painfully
 through his glasses.
 
-"Yes, I'm sorry," said Father Brown mildly.  "There's been
+"Yes, I'm sorry," said [[Father Brown]] mildly.  "There's been
 another murder, you know."
 
 Both men on the seat sprang up, leaving it rocking.
 
 "And, what's stranger still," continued the priest, with his dull eye on
 the rhododendrons, "it's the same disgusting sort; it's another beheading.
-They found the second head actually bleeding into the river, a few yards
-along Brayne's road to Paris; so they suppose that he--"
+They found the second head actually bleeding into the [[River|river]], a few yards
+along Brayne's [[Road|road]] to [[Paris]]; so they suppose that he--"
 
 "Great Heaven!" cried O'Brien. "Is Brayne a monomaniac?"
 
@@ -1399,15 +1399,15 @@ As he crossed the study he almost staggered at a shocking coincidence.
 Upon Valentin's table lay the coloured picture of yet a third bleeding head;
 and it was the head of Valentin himself.  A second glance showed him it
 was only a Nationalist paper, called The Guillotine, which every week showed
-one of its political opponents with rolling eyes and writhing features
+one of its political opponents with [[rolling]] eyes and writhing features
 just after execution; for Valentin was an anti-clerical of some note.
 But O'Brien was an Irishman, with a kind of chastity even in his sins;
-and his gorge rose against that great brutality of the intellect which
-belongs only to France.  He felt Paris as a whole, from the grotesques
+and his gorge [[Rose|rose]] against that great brutality of the intellect which
+belongs only to France.  He felt [[Paris]] as a whole, from the grotesques
 on the Gothic churches to the gross caricatures in the newspapers.
 He remembered the gigantic jests of the Revolution.  He saw the whole
-city as one ugly energy, from the sanguinary sketch lying on Valentin's
-table up to where, above a mountain and forest of gargoyles, the great
+[[City|city]] as one ugly energy, from the sanguinary [[Sketch|sketch]] lying on Valentin's
+table up to where, above a mountain and forest of [[gargoyles]], the great
 devil grins on Notre Dame.
 
 The library was long, low, and dark; what light entered it
@@ -1416,50 +1416,50 @@ tinge of morning.  Valentin and his servant Ivan were waiting
 for them at the upper end of a long, slightly-sloping desk,
 on which lay the mortal remains, looking enormous in the twilight.
 The big black figure and yellow face of the man found
-in the garden confronted them essentially unchanged.
-The second head, which had been fished from among the river
+in the [[Garden|garden]] confronted them essentially unchanged.
+The second head, which had been fished from among the [[River|river]]
 reeds that morning, lay streaming and dripping beside it;
 Valentin's men were still seeking to recover the rest of this
-second corpse, which was supposed to be afloat.  Father Brown,
+second corpse, which was supposed to be afloat.  [[Father Brown]],
 who did not seem to share O'Brien's sensibilities in the least,
 went up to the second head and examined it with his blinking care.
 It was little more than a mop of wet white hair, fringed with
-silver fire in the red and level morning light; the face,
+silver [[Fire|fire]] in the red and level morning light; the face,
 which seemed of an ugly, empurpled and perhaps criminal type,
 had been much battered against trees or stones as it tossed
-in the water.
+in the [[Water|water]].
 
 "Good morning, Commandant O'Brien," said Valentin, with quiet cordiality.
 "You have heard of Brayne's last experiment in butchery, I suppose?"
 
-Father Brown was still bending over the head with white hair,
+[[Father Brown]] was still bending over the head with white hair,
 and he said, without looking up:
 
 "I suppose it is quite certain that Brayne cut off this head, too."
 
-"Well, it seems common sense," said Valentin, with his hands in his pockets.
+"[[Well]], it seems common sense," said Valentin, with his hands in his pockets.
 "Killed in the same way as the other.  Found within a few yards of the other.
 And sliced by the same weapon which we know he carried away."
 
-"Yes, yes; I know," replied Father Brown submissively.
-"Yet, you know, I doubt whether Brayne could have cut
+"Yes, yes; I know," replied [[Father Brown]] submissively.
+"Yet, you know, I [[Doubt|doubt]] whether Brayne could have cut
 off this head."
 
 "Why not?" inquired Dr. Simon, with a rational stare.
 
-"Well, doctor," said the priest, looking up blinking, "can a man
+"[[Well]], doctor," said the priest, looking up blinking, "can a man
 cut off his own head?  I don't know."
 
 O'Brien felt an insane universe crashing about his ears;
 but the doctor sprang forward with impetuous practicality
 and pushed back the wet white hair.
 
-"Oh, there's no doubt it's Brayne," said the priest quietly.
+"Oh, there's no [[Doubt|doubt]] it's Brayne," said the priest quietly.
 "He had exactly that chip in the left ear."
 
-The detective, who had been regarding the priest with steady
+The [[Detective|detective]], who had been regarding the priest with steady
 and glittering eyes, opened his clenched mouth and said sharply:
-"You seem to know a lot about him, Father Brown."
+"You seem to know a lot about him, [[Father Brown]]."
 
 "I do," said the little man simply.  "I've been about with him
 for some weeks.  He was thinking of joining our church."
@@ -1479,7 +1479,7 @@ Commandant O'Brien laid a hand on Valentin's arm.
 may be more swords yet."
 
 But Valentin (under the steady, humble gaze of the priest)
-had already recovered himself.  "Well," he said shortly,
+had already recovered himself.  "[[Well]]," he said shortly,
 "people's private opinions can wait.  You gentlemen are still
 bound by your promise to stay; you must enforce it on yourselves--
 and on each other.  Ivan here will tell you anything more you want
@@ -1493,52 +1493,52 @@ of police strode out of the room.
 "Only one more thing, I think, sir," said Ivan, wrinkling up
 his grey old face, "but that's important, too, in its way.
 There's that old buffer you found on the lawn," and he pointed without
-pretence of reverence at the big black body with the yellow head.
+pretence of reverence at the big black [[Body|body]] with the yellow head.
 "We've found out who he is, anyhow."
 
 "Indeed!" cried the astonished doctor, "and who is he?"
 
-"His name was Arnold Becker," said the under-detective, "though
+"His name was Arnold Becker," said the under-[[Detective|detective]], "though
 he went by many aliases.  He was a wandering sort of scamp,
-and is known to have been in America; so that was where Brayne got
+and is known to have been in [[america|America]]; so that was where Brayne got
 his knife into him.  We didn't have much to do with him ourselves,
-for he worked mostly in Germany.  We've communicated, of course,
+for he worked mostly in [[Germany]].  We've communicated, of course,
 with the German police.  But, oddly enough, there was a twin brother
 of his, named Louis Becker, whom we had a great deal to do with.
 In fact, we found it necessary to guillotine him only yesterday.
-Well, it's a rum thing, gentlemen, but when I saw that fellow
+[[Well]], it's a rum thing, gentlemen, but when I saw that fellow
 flat on the lawn I had the greatest jump of my life.
 If I hadn't seen Louis Becker guillotined with my own eyes,
 I'd have sworn it was Louis Becker lying there in the grass.
-Then, of course, I remembered his twin brother in Germany,
+Then, of course, I remembered his twin brother in [[Germany]],
 and following up the clue--"
 
 The explanatory Ivan stopped, for the excellent reason that nobody
 was listening to him.  The Commandant and the doctor were both staring
-at Father Brown, who had sprung stiffly to his feet, and was holding
-his temples tight like a man in sudden and violent pain.
+at [[Father Brown]], who had sprung stiffly to his feet, and was holding
+his temples tight like a man in sudden and violent [[Pain|pain]].
 
 "Stop, stop, stop!" he cried; "stop talking a minute, for I see half.
 Will God give me strength?  Will my brain make the one jump and see all?
 Heaven help me!  I used to be fairly good at thinking.  I could paraphrase
-any page in Aquinas once.  Will my head split--or will it see?
+any page in [[aquinas|Aquinas]] once.  Will my head split--or will it see?
 I see half--I only see half."
 
 He buried his head in his hands, and stood in a sort of rigid torture
-of thought or prayer, while the other three could only go on staring
+of thought or [[prayer]], while the other three could only go on staring
 at this last prodigy of their wild twelve hours.
 
-When Father Brown's hands fell they showed a face quite fresh
-and serious, like a child's. He heaved a huge sigh, and said:
+When [[Father Brown]]'s hands fell they showed a face quite fresh
+and serious, like a [[Child|child]]'s. He heaved a huge sigh, and said:
 "Let us get this said and done with as quickly as possible.
 Look here, this will be the quickest way to convince you
-all of the truth."  He turned to the doctor.  "Dr. Simon,"
+all of the [[Truth|truth]]."  He turned to the doctor.  "Dr. Simon,"
 he said, "you have a strong head-piece, and I heard you this
 morning asking the five hardest questions about this business.
-Well, if you will ask them again, I will answer them."
+[[Well]], if you will ask them again, I will answer them."
 
-Simon's pince-nez dropped from his nose in his doubt and wonder,
-but he answered at once.  "Well, the first question, you know,
+Simon's pince-nez dropped from his nose in his [[Doubt|doubt]] and [[Wonder|wonder]],
+but he answered at once.  "[[Well]], the first question, you know,
 is why a man should kill another with a clumsy sabre at all
 when a man can kill with a bodkin?"
 
@@ -1547,13 +1547,13 @@ when a man can kill with a bodkin?"
 
 "Why?" asked O'Brien, with interest.
 
-"And the next question?" asked Father Brown.
+"And the next question?" asked [[Father Brown]].
 
-"Well, why didn't the man cry out or anything?" asked the doctor;
+"[[Well]], why didn't the man cry out or anything?" asked the doctor;
 "sabres in gardens are certainly unusual."
 
-"Twigs," said the priest gloomily, and turned to the window which
-looked on the scene of death.  "No one saw the point of the twigs.
+"Twigs," said the priest gloomily, and turned to the [[Window|window]] which
+looked on the scene of [[Death|death]].  "No one saw the point of the twigs.
 Why should they lie on that lawn (look at it) so far from any tree?
 They were not snapped off; they were chopped off.
 The murderer occupied his enemy with some tricks with the sabre,
@@ -1561,84 +1561,84 @@ showing how he could cut a branch in mid-air, or what-not. Then,
 while his enemy bent down to see the result, a silent slash,
 and the head fell."
 
-"Well," said the doctor slowly, "that seems plausible enough.
+"[[Well]]," said the doctor slowly, "that seems plausible enough.
 But my next two questions will stump anyone."
 
-The priest still stood looking critically out of the window and waited.
+The priest still stood looking critically out of the [[Window|window]] and waited.
 
-"You know how all the garden was sealed up like an air-tight chamber,"
-went on the doctor.  "Well, how did the strange man get into the garden?"
+"You know how all the [[Garden|garden]] was sealed up like an air-tight chamber,"
+went on the doctor.  "[[Well]], how did the strange man get into the [[Garden|garden]]?"
 
 Without turning round, the little priest answered:
-"There never was any strange man in the garden."
+"There never was any strange man in the [[Garden|garden]]."
 
-There was a silence, and then a sudden cackle of almost childish
+There was a [[Silence|silence]], and then a sudden cackle of almost childish
 laughter relieved the strain.  The absurdity of Brown's remark
 moved Ivan to open taunts.
 
 "Oh!" he cried; "then we didn't lug a great fat corpse on to a sofa
-last night?  He hadn't got into the garden, I suppose?"
+last [[Night|night]]?  He hadn't got into the [[Garden|garden]], I suppose?"
 
-"Got into the garden?" repeated Brown reflectively.
+"Got into the [[Garden|garden]]?" repeated Brown reflectively.
 "No, not entirely."
 
-"Hang it all," cried Simon, "a man gets into a garden, or he doesn't."
+"Hang it all," cried Simon, "a man gets into a [[Garden|garden]], or he doesn't."
 
 "Not necessarily," said the priest, with a faint smile.
 "What is the nest question, doctor?"
 
 "I fancy you're ill," exclaimed Dr. Simon sharply; "but I'll
 ask the next question if you like.  How did Brayne get out
-of the garden?"
+of the [[Garden|garden]]?"
 
-"He didn't get out of the garden," said the priest, still looking
-out of the window.
+"He didn't get out of the [[Garden|garden]]," said the priest, still looking
+out of the [[Window|window]].
 
-"Didn't get out of the garden?" exploded Simon.
+"Didn't get out of the [[Garden|garden]]?" exploded Simon.
 
-"Not completely," said Father Brown.
+"Not completely," said [[Father Brown]].
 
-Simon shook his fists in a frenzy of French logic.
-"A man gets out of a garden, or he doesn't," he cried.
+Simon shook his fists in a frenzy of French [[logic]].
+"A man gets out of a [[Garden|garden]], or he doesn't," he cried.
 
-"Not always," said Father Brown.
+"Not always," said [[Father Brown]].
 
-Dr. Simon sprang to his feet impatiently.  "I have no time
+Dr. Simon sprang to his feet impatiently.  "I have no [[Time|time]]
 to spare on such senseless talk," he cried angrily.
 "If you can't understand a man being on one side of a wall
 or the other, I won't trouble you further."
 
 "Doctor," said the cleric very gently, "we have always got on
-very pleasantly together.  If only for the sake of old friendship,
+very pleasantly together.  If only for the sake of old [[Friendship|friendship]],
 stop and tell me your fifth question."
 
 The impatient Simon sank into a chair by the door and said briefly:
 "The head and shoulders were cut about in a queer way.
-It seemed to be done after death."
+It seemed to be done after [[Death|death]]."
 
 "Yes," said the motionless priest, "it was done so as to make you
 assume exactly the one simple falsehood that you did assume.
 It was done to make you take for granted that the head belonged
-to the body."
+to the [[Body|body]]."
 
 The borderland of the brain, where all the monsters are made,
 moved horribly in the Gaelic O'Brien. He felt the chaotic presence of all
-the horse-men and fish-women that man's unnatural fancy has begotten.
+the [[Horse|horse]]-men and fish-women that man's unnatural fancy has begotten.
 A voice older than his first fathers seemed saying in his ear:
-"Keep out of the monstrous garden where grows the tree with double fruit.
-Avoid the evil garden where died the man with two heads."
+"Keep out of the monstrous [[Garden|garden]] where grows the tree with [[Double|double]] fruit.
+Avoid the evil [[Garden|garden]] where died the man with two heads."
 Yet, while these shameful symbolic shapes passed across the ancient
-mirror of his Irish soul, his Frenchified intellect was quite alert,
+[[Mirror|mirror]] of his Irish [[Soul|soul]], his Frenchified intellect was quite alert,
 and was watching the odd priest as closely and incredulously as
 all the rest.
 
-Father Brown had turned round at last, and stood against the window,
-with his face in dense shadow; but even in that shadow they could
+[[Father Brown]] had turned round at last, and stood against the [[Window|window]],
+with his face in dense [[Shadow|shadow]]; but even in that [[Shadow|shadow]] they could
 see it was pale as ashes.  Nevertheless, he spoke quite sensibly,
 as if there were no Gaelic souls on earth.
 
-"Gentlemen," he said, "you did not find the strange body of Becker
-in the garden.  You did not find any strange body in the garden.
+"Gentlemen," he said, "you did not find the strange [[Body|body]] of Becker
+in the [[Garden|garden]].  You did not find any strange [[Body|body]] in the [[Garden|garden]].
 In face of Dr. Simon's rationalism, I still affirm that Becker
 was only partly present.  Look here!" (pointing to the black bulk
 of the mysterious corpse) "you never saw that man in your lives.
@@ -1649,15 +1649,15 @@ and put in its place the white-maned head beside it.
 And there, complete, unified, unmistakable, lay Julius K. Brayne.
 
 "The murderer," went on Brown quietly, "hacked off his enemy's head and flung
-the sword far over the wall.  But he was too clever to fling the sword only.
+the [[Sword|sword]] far over the wall.  But he was too clever to fling the [[Sword|sword]] only.
 He flung the head over the wall also.  Then he had only to clap on another
 head to the corpse, and (as he insisted on a private inquest) you all imagined
 a totally new man."
 
 "Clap on another head!" said O'Brien staring.  "What other head?
-Heads don't grow on garden bushes, do they?"
+Heads don't grow on [[Garden|garden]] bushes, do they?"
 
-"No," said Father Brown huskily, and looking at his boots;
+"No," said [[Father Brown]] huskily, and looking at his boots;
 "there is only one place where they grow.  They grow in the
 basket of the guillotine, beside which the chief of police,
 Aristide Valentin, was standing not an hour before the murder.
@@ -1665,7 +1665,7 @@ Oh, my friends, hear me a minute more before you tear me in pieces.
 Valentin is an honest man, if being mad for an arguable cause is honesty.
 But did you never see in that cold, grey eye of his that he is mad!
 He would do anything, anything, to break what he calls the superstition
-of the Cross.  He has fought for it and starved for it, and now
+of the [[Cross]].  He has fought for it and starved for it, and now
 he has murdered for it.  Brayne's crazy millions had hitherto
 been scattered among so many sects that they did little to alter
 the balance of things.  But Valentin heard a whisper that Brayne,
@@ -1677,9 +1677,9 @@ already balanced on a point, and the fanatic took flame at the risk.
 He resolved to destroy the millionaire, and he did it as one would
 expect the greatest of detectives to commit his only crime.
 He abstracted the severed head of Becker on some criminological excuse,
-and took it home in his official box.  He had that last argument
+and took it [[Home|home]] in his official box.  He had that last argument
 with Brayne, that Lord Galloway did not hear the end of; that failing,
-he led him out into the sealed garden, talked about swordsmanship,
+he led him out into the sealed [[Garden|garden]], talked about swordsmanship,
 used twigs and a sabre for illustration, and--"
 
 Ivan of the Scar sprang up.  "You lunatic," he yelled;
@@ -1691,12 +1691,12 @@ and all that."
 Driving the unhappy Brown before them like a hostage or sacrifice,
 they rushed together into the sudden stillness of Valentin's study.
 
-The great detective sat at his desk apparently too occupied to hear their
+The great [[Detective|detective]] sat at his desk apparently too occupied to hear their
 turbulent entrance.  They paused a moment, and then something in the look
 of that upright and elegant back made the doctor run forward suddenly.
 A touch and a glance showed him that there was a small box of pills
 at Valentin's elbow, and that Valentin was dead in his chair;
-and on the blind face of the suicide was more than the pride of Cato.
+and on the blind face of the [[suicide]] was more than the [[Pride|pride]] of Cato.
 
                           The Queer Feet
 
@@ -1710,17 +1710,17 @@ behind you a mystery as yet unsolved and a tale worth telling.
 
 If (to pursue the same vein of improbable conjecture)
 you were to meet a mild, hard-working little priest,
-named Father Brown, and were to ask him what he thought was
+named [[Father Brown]], and were to ask him what he thought was
 the most singular luck of his life, he would probably reply
 that upon the whole his best stroke was at the Vernon Hotel,
-where he had averted a crime and, perhaps, saved a soul,
+where he had averted a crime and, perhaps, saved a [[Soul|soul]],
 merely by listening to a few footsteps in a passage.
 He is perhaps a little proud of this wild and wonderful
 guess of his, and it is possible that he might refer to it.
 But since it is immeasurably unlikely that you will ever rise high
 enough in the social world to find "The Twelve True Fishermen,"
 or that you will ever sink low enough among slums and criminals
-to find Father Brown, I fear you will never hear the story
+to find [[Father Brown]], I [[Fear|fear]] you will never hear the story
 at all unless you hear it from me.
 
 The Vernon Hotel at which The Twelve True Fishermen held their
@@ -1732,11 +1732,11 @@ by turning people away.  In the heart of a plutocracy tradesmen
 become cunning enough to be more fastidious than their customers.
 They positively create difficulties so that their wealthy and
 weary clients may spend money and diplomacy in overcoming them.
-If there were a fashionable hotel in London which no man could
+If there were a fashionable hotel in [[London]] which no man could
 enter who was under six foot, society would meekly make up parties
 of six-foot men to dine in it.  If there were an expensive
 restaurant which by a mere caprice of its proprietor was only open
-on Thursday afternoon, it would be crowded on Thursday afternoon.
+on [[thursday|Thursday]] afternoon, it would be crowded on [[thursday|Thursday]] afternoon.
 The Vernon Hotel stood, as if by accident, in the corner of a square
 in Belgravia.  It was a small hotel; and a very inconvenient one.
 But its very inconveniences were considered as walls protecting
@@ -1745,7 +1745,7 @@ to be of vital importance:  the fact that practically only twenty-four
 people could dine in the place at once.  The only big dinner table
 was the celebrated terrace table, which stood open to the air
 on a sort of veranda overlooking one of the most exquisite old
-gardens in London.  Thus it happened that even the twenty-four
+gardens in [[London]].  Thus it happened that even the twenty-four
 seats at this table could only be enjoyed in warm weather; and this
 making the enjoyment yet more difficult made it yet more desired.
 The existing owner of the hotel was a Jew named Lever; and he made
@@ -1757,7 +1757,7 @@ exactly mirrored the fixed mood of the English upper class.
 The proprietor knew all his waiters like the fingers on his hand;
 there were only fifteen of them all told.  It was much easier to become
 a Member of Parliament than to become a waiter in that hotel.
-Each waiter was trained in terrible silence and smoothness,
+Each waiter was trained in terrible [[Silence|silence]] and smoothness,
 as if he were a gentleman's servant.  And, indeed, there was generally
 at least one waiter to every gentleman who dined.
 
@@ -1766,46 +1766,46 @@ anywhere but in such a place, for it insisted on a luxurious privacy;
 and would have been quite upset by the mere thought that any other club
 was even dining in the same building.  On the occasion of their annual
 dinner the Fishermen were in the habit of exposing all their treasures,
-as if they were in a private house, especially the celebrated set
+as if they were in a private [[house]], especially the celebrated set
 of fish knives and forks which were, as it were, the insignia
 of the society, each being exquisitely wrought in silver in the form
 of a fish, and each loaded at the hilt with one large pearl.
 These were always laid out for the fish course, and the fish course
 was always the most magnificent in that magnificent repast.
 The society had a vast number of ceremonies and observances, but it had
-no history and no object; that was where it was so very aristocratic.
+no [[history]] and no object; that was where it was so very aristocratic.
 You did not have to be anything in order to be one of the Twelve Fishers;
 unless you were already a certain sort of person, you never even heard
 of them.  It had been in existence twelve years.  Its president was
 Mr. Audley.  Its vice-president was the Duke of Chester.
 
 If I have in any degree conveyed the atmosphere of this appalling hotel,
-the reader may feel a natural wonder as to how I came to know anything
+the reader may feel a natural [[Wonder|wonder]] as to how I came to know anything
 about it, and may even speculate as to how so ordinary a person
-as my friend Father Brown came to find himself in that golden galley.
+as my friend [[Father Brown]] came to find himself in that golden galley.
 As far as that is concerned, my story is simple, or even vulgar.
 There is in the world a very aged rioter and demagogue who breaks
 into the most refined retreats with the dreadful information that
 all men are brothers, and wherever this leveller went on his pale
-horse it was Father Brown's trade to follow.  One of the waiters,
+[[Horse|horse]] it was [[Father Brown]]'s trade to follow.  One of the waiters,
 an Italian, had been struck down with a paralytic stroke that afternoon;
 and his Jewish employer, marvelling mildly at such superstitions,
 had consented to send for the nearest Popish priest.
-With what the waiter confessed to Father Brown we are not concerned,
+With what the waiter confessed to [[Father Brown]] we are not concerned,
 for the excellent reason that that cleric kept it to himself;
 but apparently it involved him in writing out a note or statement
 for the conveying of some message or the righting of some wrong.
-Father Brown, therefore, with a meek impudence which he would
-have shown equally in Buckingham Palace, asked to be provided
+[[Father Brown]], therefore, with a meek impudence which he would
+have shown equally in [[Buckingham]] Palace, asked to be provided
 with a room and writing materials.  Mr. Lever was torn in two.
-He was a kind man, and had also that bad imitation of kindness,
-the dislike of any difficulty or scene.  At the same time the presence
+He was a kind man, and had also that bad [[Imitation|imitation]] of kindness,
+the dislike of any difficulty or scene.  At the same [[Time|time]] the presence
 of one unusual stranger in his hotel that evening was like a speck
 of dirt on something just cleaned.  There was never any borderland
 or anteroom in the Vernon Hotel, no people waiting in the hall,
 no customers coming in on chance.  There were fifteen waiters.
 There were twelve guests.  It would be as startling to find a new guest
-in the hotel that night as to find a new brother taking breakfast
+in the hotel that [[Night|night]] as to find a new brother taking breakfast
 or tea in one's own family.  Moreover, the priest's appearance
 was second-rate and his clothes muddy; a mere glimpse of him afar
 off might precipitate a crisis in the club.  Mr. Lever at last hit
@@ -1816,7 +1816,7 @@ and come to the main vestibule and lounge which opens on your right
 into passages leading to the public rooms, and on your left to a
 similar passage pointing to the kitchens and offices of the hotel.
 Immediately on your left hand is the corner of a glass office,
-which abuts upon the lounge--a house within a house, so to speak,
+which abuts upon the lounge--a [[house]] within a [[house]], so to speak,
 like the old hotel bar which probably once occupied its place.
 
 In this office sat the representative of the proprietor (nobody in this place
@@ -1828,19 +1828,19 @@ sometimes used by the proprietor for delicate and important matters,
 such as lending a duke a thousand pounds or declining to lend him sixpence.
 It is a mark of the magnificent tolerance of Mr. Lever that he permitted
 this holy place to be for about half an hour profaned by a mere priest,
-scribbling away on a piece of paper.  The story which Father Brown
+scribbling away on a piece of paper.  The story which [[Father Brown]]
 was writing down was very likely a much better story than this one,
 only it will never be known.  I can merely state that it was very nearly
 as long, and that the last two or three paragraphs of it were the least
 exciting and absorbing.
 
-For it was by the time that he had reached these that
+For it was by the [[Time|time]] that he had reached these that
 the priest began a little to allow his thoughts to wander
 and his animal senses, which were commonly keen, to awaken.
-The time of darkness and dinner was drawing on; his own forgotten
+The [[Time|time]] of darkness and dinner was drawing on; his own forgotten
 little room was without a light, and perhaps the gathering gloom,
 as occasionally happens, sharpened the sense of sound.
-As Father Brown wrote the last and least essential part of his document,
+As [[Father Brown]] wrote the last and least essential part of his document,
 he caught himself writing to the rhythm of a recurrent noise outside,
 just as one sometimes thinks to the tune of a railway train.
 When he became conscious of the thing he found what it was:
@@ -1855,26 +1855,26 @@ now not merely listening, but listening and thinking also.
 The footsteps outside at any given moment were such as one might
 hear in any hotel; and yet, taken as a whole, there was something
 very strange about them.  There were no other footsteps.
-It was always a very silent house, for the few familiar guests
-went at once to their own apartments, and the well-trained
+It was always a very silent [[house]], for the few familiar guests
+went at once to their own apartments, and the [[Well|well]]-trained
 waiters were told to be almost invisible until they were wanted.
 One could not conceive any place where there was less reason
 to apprehend anything irregular.  But these footsteps were so odd
 that one could not decide to call them regular or irregular.
-Father Brown followed them with his finger on the edge of the table,
+[[Father Brown]] followed them with his finger on the edge of the table,
 like a man trying to learn a tune on the piano.
 
 First, there came a long rush of rapid little steps,
 such as a light man might make in winning a walking race.
 At a certain point they stopped and changed to a sort of slow,
 swinging stamp, numbering not a quarter of the steps,
-but occupying about the same time.  The moment the last echoing
+but occupying about the same [[Time|time]].  The moment the last echoing
 stamp had died away would come again the run or ripple of light,
 hurrying feet, and then again the thud of the heavier walking.
 It was certainly the same pair of boots, partly because
 (as has been said) there were no other boots about, and partly
 because they had a small but unmistakable creak in them.
-Father Brown had the kind of head that cannot help asking questions;
+[[Father Brown]] had the kind of head that cannot help asking questions;
 and on this apparently trivial question his head almost split.
 He had seen men run in order to jump.  He had seen men run
 in order to slide.  But why on earth should a man run in order
@@ -1890,8 +1890,8 @@ Yet, as he began to think steadily, the very blackness
 of his cell seemed to make his thoughts more vivid;
 he began to see as in a kind of vision the fantastic feet
 capering along the corridor in unnatural or symbolic attitudes.
-Was it a heathen religious dance?  Or some entirely new kind
-of scientific exercise?  Father Brown began to ask himself
+Was it a heathen religious [[Dance|dance]]?  Or some entirely new kind
+of scientific exercise?  [[Father Brown]] began to ask himself
 with more exactness what the steps suggested.  Taking the slow
 step first:  it certainly was not the step of the proprietor.
 Men of his type walk with a rapid waddle, or they sit still.
@@ -1902,7 +1902,7 @@ and especially in such gorgeous scenes, they stand or sit
 in constrained attitudes.  No; that heavy yet springy step,
 with a kind of careless emphasis, not specially noisy,
 yet not caring what noise it made, belonged to only one of
-the animals of this earth.  It was a gentleman of western Europe,
+the [[Animals|animals]] of this earth.  It was a gentleman of western Europe,
 and probably one who had never worked for his living.
 
 Just as he came to this solid certainty, the step changed to
@@ -1918,7 +1918,7 @@ with a new idea in his head, and walked to the door.
 His room had no direct outlet on the passage, but let on one side
 into the glass office, and on the other into the cloak room beyond.
 He tried the door into the office, and found it locked.
-Then he looked at the window, now a square pane full of purple
+Then he looked at the [[Window|window]], now a square pane full of purple
 cloud cleft by livid sunset, and for an instant he smelt evil
 as a dog smells rats.
 
@@ -1927,22 +1927,22 @@ He remembered that the proprietor had told him that he should lock the door,
 and would come later to release him.  He told himself that twenty things
 he had not thought of might explain the eccentric sounds outside; he reminded
 himself that there was just enough light left to finish his own proper work.
-Bringing his paper to the window so as to catch the last stormy evening light,
+Bringing his paper to the [[Window|window]] so as to catch the last stormy evening light,
 he resolutely plunged once more into the almost completed record.
 He had written for about twenty minutes, bending closer and closer
 to his paper in the lessening light; then suddenly he sat upright.
 He had heard the strange feet once more.
 
-This time they had a third oddity.  Previously the unknown man had walked,
-with levity indeed and lightning quickness, but he had walked.
-This time he ran.  One could hear the swift, soft, bounding steps coming
+This [[Time|time]] they had a third oddity.  Previously the unknown man had walked,
+with levity indeed and [[Lightning|lightning]] quickness, but he had walked.
+This [[Time|time]] he ran.  One could hear the swift, soft, bounding steps coming
 along the corridor, like the pads of a fleeing and leaping panther.
 Whoever was coming was a very strong, active man, in still yet
 tearing excitement.  Yet, when the sound had swept up to the office
 like a sort of whispering whirlwind, it suddenly changed again
 to the old slow, swaggering stamp.
 
-Father Brown flung down his paper, and, knowing the office door
+[[Father Brown]] flung down his paper, and, knowing the office door
 to be locked, went at once into the cloak room on the other side.
 The attendant of this place was temporarily absent, probably because
 the only guests were at dinner and his office was a sinecure.
@@ -1951,14 +1951,14 @@ the dim cloak room opened on the lighted corridor in the form
 of a sort of counter or half-door, like most of the counters
 across which we have all handed umbrellas and received tickets.
 There was a light immediately above the semicircular arch of this opening.
-It threw little illumination on Father Brown himself, who seemed
-a mere dark outline against the dim sunset window behind him.
+It threw little illumination on [[Father Brown]] himself, who seemed
+a mere dark outline against the dim sunset [[Window|window]] behind him.
 But it threw an almost theatrical light on the man who stood outside
 the cloak room in the corridor.
 
 He was an elegant man in very plain evening dress; tall, but with an air
 of not taking up much room; one felt that he could have slid along like a
-shadow where many smaller men would have been obvious and obstructive.
+[[Shadow|shadow]] where many smaller men would have been obvious and obstructive.
 His face, now flung back in the lamplight, was swarthy and vivacious,
 the face of a foreigner.  His figure was good, his manners good humoured
 and confident; a critic could only say that his black coat was a shade
@@ -1968,17 +1968,17 @@ he tossed down a scrap of paper with a number and called out with
 amiable authority:  "I want my hat and coat, please; I find I have to go
 away at once."
 
-Father Brown took the paper without a word, and obediently went to look
+[[Father Brown]] took the paper without a word, and obediently went to look
 for the coat; it was not the first menial work he had done in his life.
 He brought it and laid it on the counter; meanwhile, the strange
 gentleman who had been feeling in his waistcoat pocket, said laughing:
 "I haven't got any silver; you can keep this."  And he threw down half
 a sovereign, and caught up his coat.
 
-Father Brown's figure remained quite dark and still; but in that instant
+[[Father Brown]]'s figure remained quite dark and still; but in that instant
 he had lost his head.  His head was always most valuable when he had lost it.
 In such moments he put two and two together and made four million.
-Often the Catholic Church (which is wedded to common sense)
+Often the [[Catholic Church]] (which is wedded to common sense)
 did not approve of it.  Often he did not approve of it himself.
 But it was real inspiration--important at rare crises--when whosoever
 shall lose his head the same shall save it.
@@ -1994,8 +1994,8 @@ to give you gold, why should you complain?"
 
 The stranger looked at him curiously.  Then he looked still more
 curiously up the passage towards the main entrance.  Then he looked
-back at Brown again, and then he looked very carefully at the window
-beyond Brown's head, still coloured with the after-glow of the storm.
+back at Brown again, and then he looked very carefully at the [[Window|window]]
+beyond Brown's head, still coloured with the after-glow of the [[Storm|storm]].
 Then he seemed to make up his mind.  He put one hand on the counter,
 vaulted over as easily as an acrobat and towered above the priest,
 putting one tremendous hand upon his collar.
@@ -2003,24 +2003,24 @@ putting one tremendous hand upon his collar.
 "Stand still," he said, in a hacking whisper.  "I don't want
 to threaten you, but--"
 
-"I do want to threaten you," said Father Brown, in a voice like a
-rolling drum, "I want to threaten you with the worm that dieth not,
-and the fire that is not quenched."
+"I do want to threaten you," said [[Father Brown]], in a voice like a
+[[rolling]] drum, "I want to threaten you with the worm that dieth not,
+and the [[Fire|fire]] that is not quenched."
 
 "You're a rum sort of cloak-room clerk," said the other.
 
-"I am a priest, Monsieur Flambeau," said Brown, "and I am ready
+"I am a priest, Monsieur [[Flambeau]]," said Brown, "and I am ready
 to hear your confession."
 
 The other stood gasping for a few moments, and then staggered
 back into a chair.
 
 The first two courses of the dinner of The Twelve True Fishermen had
-proceeded with placid success.  I do not possess a copy of the menu;
+proceeded with placid [[success]].  I do not possess a copy of the menu;
 and if I did it would not convey anything to anybody.  It was written
 in a sort of super-French employed by cooks, but quite unintelligible
 to Frenchmen.  There was a tradition in the club that the hors
-d'oeuvres should be various and manifold to the point of madness.
+d'oeuvres should be various and manifold to the point of [[Madness|madness]].
 They were taken seriously because they were avowedly useless extras,
 like the whole dinner and the whole club.  There was also a tradition
 that the soup course should be light and unpretending--a sort
@@ -2032,7 +2032,7 @@ on both sides were alluded to by their Christian names with a sort
 of bored benignity.  The Radical Chancellor of the Exchequer,
 whom the whole Tory party was supposed to be cursing for his extortions,
 was praised for his minor poetry, or his saddle in the hunting field.
-The Tory leader, whom all Liberals were supposed to hate as a tyrant,
+The Tory leader, whom all Liberals were supposed to hate as a [[Tyrant|tyrant]],
 was discussed and, on the whole, praised--as a Liberal.  It seemed
 somehow that politicians were very important.  And yet, anything seemed
 important about them except their politics.  Mr. Audley, the chairman,
@@ -2047,7 +2047,7 @@ That is to say, he was a pleasant youth, with flat, fair hair and a
 freckled face, with moderate intelligence and enormous estates.  In public
 his appearances were always successful and his principle was simple enough.
 When he thought of a joke he made it, and was called brilliant.
-When he could not think of a joke he said that this was no time for trifling,
+When he could not think of a joke he said that this was no [[Time|time]] for trifling,
 and was called able.  In private, in a club of his own class, he was
 simply quite pleasantly frank and silly, like a schoolboy.  Mr. Audley,
 never having been in politics, treated them a little more seriously.
@@ -2056,30 +2056,30 @@ was some difference between a Liberal and a Conservative.  He himself
 was a Conservative, even in private life.  He had a roll of grey hair
 over the back of his collar, like certain old-fashioned statesmen,
 and seen from behind he looked like the man the empire wants.
-Seen from the front he looked like a mild, self-indulgent bachelor,
+Seen from the front he looked like a mild, [[Self|self]]-indulgent bachelor,
 with rooms in the Albany--which he was.
 
 As has been remarked, there were twenty-four seats at
 the terrace table, and only twelve members of the club.
 Thus they could occupy the terrace in the most luxurious style of all,
 being ranged along the inner side of the table, with no one opposite,
-commanding an uninterrupted view of the garden, the colours
+commanding an uninterrupted view of the [[Garden|garden]], the colours
 of which were still vivid, though evening was closing in somewhat
-luridly for the time of year.  The chairman sat in the centre
+luridly for the [[Time|time]] of year.  The chairman sat in the centre
 of the line, and the vice-president at the right-hand end of it.
 When the twelve guests first trooped into their seats it was
 the custom (for some unknown reason) for all the fifteen waiters
-to stand lining the wall like troops presenting arms to the king,
+to stand lining the wall like troops presenting arms to the [[King|king]],
 while the fat proprietor stood and bowed to the club with
 radiant surprise, as if he had never heard of them before.
 But before the first chink of knife and fork this army of
 retainers had vanished, only the one or two required to collect
-and distribute the plates darting about in deathly silence.
+and distribute the plates darting about in deathly [[Silence|silence]].
 Mr. Lever, the proprietor, of course had disappeared in
 convulsions of courtesy long before.  It would be exaggerative,
 indeed irreverent, to say that he ever positively appeared again.
 But when the important course, the fish course, was being brought on,
-there was--how shall I put it?--a vivid shadow, a projection
+there was--how shall I put it?--a vivid [[Shadow|shadow]], a projection
 of his personality, which told that he was hovering near.
 The sacred fish course consisted (to the eyes of the vulgar)
 in a sort of monstrous pudding, about the size and shape of a
@@ -2089,7 +2089,7 @@ The Twelve True Fishermen took up their celebrated fish knives
 and fish forks, and approached it as gravely as if every inch
 of the pudding cost as much as the silver fork it was eaten with.
 So it did, for all I know.  This course was dealt with in
-eager and devouring silence; and it was only when his plate
+eager and devouring [[Silence|silence]]; and it was only when his plate
 was nearly empty that the young duke made the ritual remark:
 "They can't do this anywhere but here."
 
@@ -2106,7 +2106,7 @@ he said, shaking his head ruthlessly, like a hanging judge.
 "Nothing like it."
 
 "Overrated place," said a certain Colonel Pound, speaking (by the look of him)
-for the first time for some months.
+for the first [[Time|time]] for some months.
 
 "Oh, I don't know," said the Duke of Chester, who was an optimist,
 "it's jolly good for some things.  You can't beat it at--"
@@ -2120,9 +2120,9 @@ They felt as you and I would feel if the inanimate world disobeyed--
 if a chair ran away from us.
 
 The waiter stood staring a few seconds, while there deepened on every
-face at table a strange shame which is wholly the product of our time.
-It is the combination of modern humanitarianism with the horrible modern
-abyss between the souls of the rich and poor.  A genuine historic aristocrat
+face at table a strange shame which is wholly the product of our [[Time|time]].
+It is the combination of modern [[Humanitarianism|humanitarianism]] with the horrible modern
+abyss between the souls of the rich and poor.  A genuine historic [[aristocrat]]
 would have thrown things at the waiter, beginning with empty bottles,
 and very probably ending with money.  A genuine democrat would have asked him,
 with comrade-like clearness of speech, what the devil he was doing.
@@ -2138,8 +2138,8 @@ When he reappeared in the room, or rather in the doorway, it was in
 company with another waiter, with whom he whispered and gesticulated
 with southern fierceness.  Then the first waiter went away,
 leaving the second waiter, and reappeared with a third waiter.
-By the time a fourth waiter had joined this hurried synod, Mr. Audley
-felt it necessary to break the silence in the interests of Tact.  He used
+By the [[Time|time]] a fourth waiter had joined this hurried synod, Mr. Audley
+felt it necessary to break the [[Silence|silence]] in the interests of Tact.  He used
 a very loud cough, instead of a presidential hammer, and said:
 "Splendid work young Moocher's doing in Burmah.  Now, no other nation
 in the world could have--"
@@ -2157,7 +2157,7 @@ now it was a sickly yellow.
 "I have great apprehensions.  Your fish-plates, they are cleared away
 with the knife and fork on them!"
 
-"Well, I hope so," said the chairman, with some warmth.
+"[[Well]], I [[Hope|hope]] so," said the chairman, with some warmth.
 
 "You see him?" panted the excited hotel keeper; "you see the waiter
 who took them away?  You know him?"
@@ -2172,7 +2172,7 @@ them already away."
 Mr. Audley still looked rather too bewildered to be really the man
 the empire wants; none of the company could say anything except the man
 of wood--Colonel Pound--who seemed galvanised into an unnatural life.
-He rose rigidly from his chair, leaving all the rest sitting,
+He [[Rose|rose]] rigidly from his chair, leaving all the rest sitting,
 screwed his eyeglass into his eye, and spoke in a raucous undertone
 as if he had half-forgotten how to speak.  "Do you mean," he said,
 "that somebody has stolen our silver fish service?"
@@ -2203,8 +2203,8 @@ The proprietor turned upon him, quaking in a kind of palsy of surprise.
 For one of zem is dead upstairs."
 
 There was a shocking stillness for an instant in that room.  It may be
-(so supernatural is the word death) that each of those idle men looked
-for a second at his soul, and saw it as a small dried pea.  One of them--
+(so [[Supernatural|supernatural]] is the word [[Death|death]]) that each of those idle men looked
+for a second at his [[Soul|soul]], and saw it as a small dried pea.  One of them--
 the duke, I think--even said with the idiotic kindness of wealth:
 "Is there anything we can do?"
 
@@ -2212,8 +2212,8 @@ the duke, I think--even said with the idiotic kindness of wealth:
 
 Then, as to the clang of doom, they awoke to their own position.
 For a few weird seconds they had really felt as if the fifteenth
-waiter might be the ghost of the dead man upstairs.  They had been
-dumb under that oppression, for ghosts were to them an embarrassment,
+waiter might be the [[Ghost|ghost]] of the dead man upstairs.  They had been
+dumb under that oppression, for [[Ghosts|ghosts]] were to them an embarrassment,
 like beggars.  But the remembrance of the silver broke the spell
 of the miraculous; broke it abruptly and with a brutal reaction.
 The colonel flung over his chair and strode to the door.
@@ -2238,7 +2238,7 @@ and one or two others darted down the corridor leading to
 the servants' quarters, as the more likely line of escape.
 As they did so they passed the dim alcove or cavern of the cloak room,
 and saw a short, black-coated figure, presumably an attendant,
-standing a little way back in the shadow of it.
+standing a little way back in the [[Shadow|shadow]] of it.
 
 "Hallo, there!" called out the duke.  "Have you seen anyone pass?"
 
@@ -2253,7 +2253,7 @@ It took the form of a dozen quaintly shaped forks and knives.
 "You--you--" began the colonel, quite thrown off his balance at last.
 Then he peered into the dim little room and saw two things:
 first, that the short, black-clad man was dressed like
-a clergyman; and, second, that the window of the room behind
+a clergyman; and, second, that the [[Window|window]] of the room behind
 him was burst, as if someone had passed violently through.
 "Valuable things to deposit in a cloak room, aren't they?"
 remarked the clergyman, with cheerful composure.
@@ -2264,9 +2264,9 @@ with staring eyes.
 "If I did," said the cleric pleasantly, "at least I am bringing
 them back again."
 
-"But you didn't," said Colonel Pound, still staring at the broken window.
+"But you didn't," said Colonel Pound, still staring at the broken [[Window|window]].
 
-"To make a clean breast of it, I didn't," said the other, with some humour.
+"To make a clean breast of it, I didn't," said the other, with some [[Humour|humour]].
 And he seated himself quite gravely on a stool.  "But you know who did,"
 said the, colonel.
 
@@ -2277,23 +2277,23 @@ and the moral estimate when he repented."
 
 "Oh, I say--repented!" cried young Chester, with a sort of crow of laughter.
 
-Father Brown got to his feet, putting his hands behind him.
+[[Father Brown]] got to his feet, putting his hands behind him.
 "Odd, isn't it," he said, "that a thief and a vagabond should repent,
 when so many who are rich and secure remain hard and frivolous,
 and without fruit for God or man?  But there, if you will excuse me,
-you trespass a little upon my province.  If you doubt the penitence
+you trespass a little upon my province.  If you [[Doubt|doubt]] the penitence
 as a practical fact, there are your knives and forks.
 You are The Twelve True Fishers, and there are all your silver fish.
 But He has made me a fisher of men."
 
 "Did you catch this man?" asked the colonel, frowning.
 
-Father Brown looked him full in his frowning face.  "Yes," he said,
+[[Father Brown]] looked him full in his frowning face.  "Yes," he said,
 "I caught him, with an unseen hook and an invisible line which is long
 enough to let him wander to the ends of the world, and still to bring
 him back with a twitch upon the thread."
 
-There was a long silence.  All the other men present drifted
+There was a long [[Silence|silence]].  All the other men present drifted
 away to carry the recovered silver to their comrades, or to
 consult the proprietor about the queer condition of affairs.
 But the grim-faced colonel still sat sideways on the counter,
@@ -2311,32 +2311,32 @@ But I'd give a good many silver forks to know exactly how you
 fell into this affair, and how you got the stuff out of him.
 I reckon you're the most up-to-date devil of the present company."
 
-Father Brown seemed rather to like the saturnine candour of the soldier.
-"Well," he said, smiling, "I mustn't tell you anything of the man's identity,
+[[Father Brown]] seemed rather to like the saturnine candour of the soldier.
+"[[Well]]," he said, smiling, "I mustn't tell you anything of the man's [[Identity|identity]],
 or his own story, of course; but there's no particular reason why I shouldn't
 tell you of the mere outside facts which I found out for myself."
 
 He hopped over the barrier with unexpected activity, and sat beside
 Colonel Pound, kicking his short legs like a little boy on a gate.
 He began to tell the story as easily as if he were telling it to an old
-friend by a Christmas fire.
+friend by a Christmas [[Fire|fire]].
 
 "You see, colonel," he said, "I was shut up in that small room there
 doing some writing, when I heard a pair of feet in this passage doing
-a dance that was as queer as the dance of death.  First came quick,
+a [[Dance|dance]] that was as queer as the [[Dance of Death|dance of death]].  First came quick,
 funny little steps, like a man walking on tiptoe for a wager; then came slow,
 careless, creaking steps, as of a big man walking about with a cigar.
 But they were both made by the same feet, I swear, and they came in rotation;
 first the run and then the walk, and then the run again.  I wondered at
 first idly and then wildly why a man should act these two parts at once.
 One walk I knew; it was just like yours, colonel.  It was the walk
-of a well-fed gentleman waiting for something, who strolls about rather
+of a [[Well|well]]-fed gentleman waiting for something, who strolls about rather
 because he is physically alert than because he is mentally impatient.
 I knew that I knew the other walk, too, but I could not remember what it was.
 What wild creature had I met on my travels that tore along on tiptoe
 in that extraordinary style?  Then I heard a clink of plates somewhere;
 and the answer stood up as plain as St. Peter's. It was the walk of a waiter--
-that walk with the body slanted forward, the eyes looking down, the ball
+that walk with the [[Body|body]] slanted forward, the eyes looking down, the ball
 of the toe spurning away the ground, the coat tails and napkin flying.
 Then I thought for a minute and a half more.  And I believe I saw the manner
 of the crime, as clearly as if I were going to commit it."
@@ -2349,20 +2349,20 @@ Don't look surprised; crimes are by no means the only works of art
 that come from an infernal workshop.  But every work of art,
 divine or diabolic, has one indispensable mark--I mean, that the centre
 of it is simple, however much the fulfilment may be complicated.
-Thus, in Hamlet, let us say, the grotesqueness of the grave-digger,
-the flowers of the mad girl, the fantastic finery of Osric, the pallor
-of the ghost and the grin of the skull are all oddities in a sort
+Thus, in [[Hamlet]], let us say, the grotesqueness of the [[Grave|grave]]-digger,
+the [[Flowers|flowers]] of the mad girl, the fantastic finery of Osric, the pallor
+of the [[Ghost|ghost]] and the grin of the skull are all oddities in a sort
 of tangled wreath round one plain tragic figure of a man in black.
-Well, this also," he said, getting slowly down from his seat
-with a smile, "this also is the plain tragedy of a man in black.
-Yes," he went on, seeing the colonel look up in some wonder,
-"the whole of this tale turns on a black coat.  In this, as in Hamlet,
+[[Well]], this also," he said, getting slowly down from his seat
+with a smile, "this also is the plain [[Tragedy|tragedy]] of a man in black.
+Yes," he went on, seeing the colonel look up in some [[Wonder|wonder]],
+"the whole of this tale turns on a black coat.  In this, as in [[Hamlet]],
 there are the rococo excrescences--yourselves, let us say.
 There is the dead waiter, who was there when he could not be there.
 There is the invisible hand that swept your table clear of silver
 and melted into air.  But every clever crime is founded ultimately on
 some one quite simple fact--some fact that is not itself mysterious.
-The mystification comes in covering it up, in leading men's thoughts
+The [[Mystification|mystification]] comes in covering it up, in leading men's thoughts
 away from it.  This large and subtle and (in the ordinary course)
 most profitable crime, was built on the plain fact that a gentleman's
 evening dress is the same as a waiter's. All the rest was acting,
@@ -2371,7 +2371,7 @@ and thundering good acting, too."
 "Still," said the colonel, getting up and frowning at his boots,
 "I am not sure that I understand."
 
-"Colonel," said Father Brown, "I tell you that this archangel of
+"Colonel," said [[Father Brown]], "I tell you that this archangel of
 impudence who stole your forks walked up and down this passage twenty
 times in the blaze of all the lamps, in the glare of all the eyes.
 He did not go and hide in dim corners where suspicion might have searched
@@ -2380,25 +2380,25 @@ and everywhere that he went he seemed to be there by right.  Don't ask me
 what he was like; you have seen him yourself six or seven times tonight.
 You were waiting with all the other grand people in the reception
 room at the end of the passage there, with the terrace just beyond.
-Whenever he came among you gentlemen, he came in the lightning style
+Whenever he came among you gentlemen, he came in the [[Lightning|lightning]] style
 of a waiter, with bent head, flapping napkin and flying feet.
 He shot out on to the terrace, did something to the table cloth,
 and shot back again towards the office and the waiters' quarters.
-By the time he had come under the eye of the office clerk and
-the waiters he had become another man in every inch of his body,
+By the [[Time|time]] he had come under the eye of the office clerk and
+the waiters he had become another man in every inch of his [[Body|body]],
 in every instinctive gesture.  He strolled among the servants with
 the absent-minded insolence which they have all seen in their patrons.
 It was no new thing to them that a swell from the dinner party should pace
-all parts of the house like an animal at the Zoo; they know that nothing
+all parts of the [[house]] like an animal at the Zoo; they know that nothing
 marks the Smart Set more than a habit of walking where one chooses.
 When he was magnificently weary of walking down that particular
-passage he would wheel round and pace back past the office;
-in the shadow of the arch just beyond he was altered as by a blast
-of magic, and went hurrying forward again among the Twelve Fishermen,
+passage he would [[Wheel|wheel]] round and pace back past the office;
+in the [[Shadow|shadow]] of the arch just beyond he was altered as by a blast
+of [[Magic|magic]], and went hurrying forward again among the Twelve Fishermen,
 an obsequious attendant.  Why should the gentlemen look at a chance waiter?
 Why should the waiters suspect a first-rate walking gentleman?
 Once or twice he played the coolest tricks.  In the proprietor's
-private quarters he called out breezily for a syphon of soda water,
+private quarters he called out breezily for a syphon of soda [[Water|water]],
 saying he was thirsty.  He said genially that he would carry it himself,
 and he did; he carried it quickly and correctly through the thick
 of you, a waiter with an obvious errand.  Of course, it could not
@@ -2410,8 +2410,8 @@ then he contrived to lean against the wall just round the corner
 in such a way that for that important instant the waiters thought
 him a gentleman, while the gentlemen thought him a waiter.
 The rest went like winking.  If any waiter caught him away
-from the table, that waiter caught a languid aristocrat.
-He had only to time himself two minutes before the fish was cleared,
+from the table, that waiter caught a languid [[aristocrat]].
+He had only to [[Time|time]] himself two minutes before the fish was cleared,
 become a swift servant, and clear it himself.  He put the plates
 down on a sideboard, stuffed the silver in his breast pocket,
 giving it a bulgy look, and ran like a hare (I heard him coming)
@@ -2431,7 +2431,7 @@ the story ends."
 understand his professional trick.  But I don't seem to have got
 hold of yours."
 
-"I must be going," said Father Brown.
+"I must be going," said [[Father Brown]].
 
 They walked together along the passage to the entrance hall,
 where they saw the fresh, freckled face of the Duke of Chester,
@@ -2439,7 +2439,7 @@ who was bounding buoyantly along towards them.
 
 "Come along, Pound," he cried breathlessly.  "I've been looking
 for you everywhere.  The dinner's going again in spanking style,
-and old Audley has got to make a speech in honour of the forks
+and old Audley has got to make a speech in [[Honour|honour]] of the forks
 being saved.  We want to start some new ceremony, don't you know,
 to commemorate the occasion.  I say, you really got the goods back,
 what do you suggest?"
@@ -2455,8 +2455,8 @@ like a waiter."
 with the same lowering laughter on his face.  "Reverend sir,
 your friend must have been very smart to act the gentleman."
 
-Father Brown buttoned up his commonplace overcoat to the neck,
-for the night was stormy, and took his commonplace umbrella
+[[Father Brown]] buttoned up his commonplace overcoat to the neck,
+for the [[Night|night]] was stormy, and took his commonplace umbrella
 from the stand.
 
 "Yes," he said; "it must be very hard work to be a gentleman;
@@ -2468,78 +2468,78 @@ that palace of pleasures.  The golden gates closed behind him,
 and he went at a brisk walk through the damp, dark streets
 in search of a penny omnibus.
 
-                         The Flying Stars
+                         The Flying [[Stars]]
 
-"The most beautiful crime I ever committed," Flambeau would say in his
+"The most beautiful crime I ever committed," [[Flambeau]] would say in his
 highly moral old age, "was also, by a singular coincidence, my last.
-It was committed at Christmas.  As an artist I had always attempted
+It was committed at Christmas.  As an [[Artist|artist]] I had always attempted
 to provide crimes suitable to the special season or landscapes in which I
-found myself, choosing this or that terrace or garden for a catastrophe,
+found myself, choosing this or that terrace or [[Garden|garden]] for a catastrophe,
 as if for a statuary group.  Thus squires should be swindled in long rooms
 panelled with oak; while Jews, on the other hand, should rather find
 themselves unexpectedly penniless among the lights and screens of the
 Cafe Riche.  Thus, in England, if I wished to relieve a dean of his riches
 (which is not so easy as you might suppose), I wished to frame him, if I make
-myself clear, in the green lawns and grey towers of some cathedral town.
+myself clear, in the green lawns and grey towers of some [[Cathedral|cathedral]] town.
 Similarly, in France, when I had got money out of a rich and wicked peasant
 (which is almost impossible), it gratified me to get his indignant head
 relieved against a grey line of clipped poplars, and those solemn plains
 of Gaul over which broods the mighty spirit of Millet.
 
-"Well, my last crime was a Christmas crime, a cheery, cosy, English
+"[[Well]], my last crime was a Christmas crime, a cheery, cosy, English
 middle-class crime; a crime of Charles Dickens.  I did it in a good old
-middle-class house near Putney, a house with a crescent of carriage drive,
-a house with a stable by the side of it, a house with the name on the two
-outer gates, a house with a monkey tree.  Enough, you know the species.
-I really think my imitation of Dickens's style was dexterous and literary.
+middle-class [[house]] near Putney, a [[house]] with a crescent of carriage drive,
+a [[house]] with a stable by the side of it, a [[house]] with the name on the two
+outer gates, a [[house]] with a monkey tree.  Enough, you know the species.
+I really think my [[Imitation|imitation]] of Dickens's style was dexterous and literary.
 It seems almost a pity I repented the same evening."
 
-Flambeau would then proceed to tell the story from the inside;
+[[Flambeau]] would then proceed to tell the story from the inside;
 and even from the inside it was odd.  Seen from the outside
 it was perfectly incomprehensible, and it is from the outside
 that the stranger must study it.  From this standpoint the drama
-may be said to have begun when the front doors of the house
-with the stable opened on the garden with the monkey tree,
-and a young girl came out with bread to feed the birds
+may be said to have begun when the front doors of the [[house]]
+with the stable opened on the [[Garden|garden]] with the monkey tree,
+and a young girl came out with bread to feed the [[Birds|birds]]
 on the afternoon of Boxing Day.  She had a pretty face,
 with brave brown eyes; but her figure was beyond conjecture,
 for she was so wrapped up in brown furs that it was hard to say
 which was hair and which was fur.  But for the attractive face
 she might have been a small toddling bear.
 
-The winter afternoon was reddening towards evening,
+The [[Winter|winter]] afternoon was reddening towards evening,
 and already a ruby light was rolled over the bloomless beds,
-filling them, as it were, with the ghosts of the dead roses.
-On one side of the house stood the stable, on the other an alley
-or cloister of laurels led to the larger garden behind.
-The young lady, having scattered bread for the birds
-(for the fourth or fifth time that day, because the dog
+filling them, as it were, with the [[Ghosts|ghosts]] of the dead roses.
+On one side of the [[house]] stood the stable, on the other an alley
+or cloister of laurels led to the larger [[Garden|garden]] behind.
+The young lady, having scattered bread for the [[Birds|birds]]
+(for the fourth or fifth [[Time|time]] that day, because the dog
 ate it), passed unobutrusively down the lane of laurels
 and into a glimmering plantation of evergreens behind.
-Here she gave an exclamation of wonder, real or ritual,
-and looking up at the high garden wall above her, beheld it
+Here she gave an exclamation of [[Wonder|wonder]], real or ritual,
+and looking up at the high [[Garden|garden]] wall above her, beheld it
 fantastically bestridden by a somewhat fantastic figure.
 
 "Oh, don't jump, Mr. Crook," she called out in some alarm;
 "it's much too high."
 
-The individual riding the party wall like an aerial horse was a tall,
+The individual riding the party wall like an aerial [[Horse|horse]] was a tall,
 angular young man, with dark hair sticking up like a hair brush, intelligent
 and even distinguished lineaments, but a sallow and almost alien complexion.
 This showed the more plainly because he wore an aggressive red tie,
 the only part of his costume of which he seemed to take any care.
 Perhaps it was a symbol.  He took no notice of the girl's alarmed adjuration,
 but leapt like a grasshopper to the ground beside her, where he might
-very well have broken his legs.
+very [[Well|well]] have broken his legs.
 
 "I think I was meant to be a burglar," he said placidly,
-"and I have no doubt I should have been if I hadn't happened
-to be born in that nice house next door.  I can't see any harm
+"and I have no [[Doubt|doubt]] I should have been if I hadn't happened
+to be born in that nice [[house]] next door.  I can't see any harm
 in it, anyhow."
 
 "How can you say such things!" she remonstrated.
 
-"Well," said the young man, "if you're born on the wrong side of the wall,
+"[[Well]]," said the young man, "if you're born on the wrong side of the wall,
 I can't see that it's wrong to climb over it."
 
 "I never know what you will say or do next," she said.
@@ -2551,8 +2551,8 @@ on the right side of the wall now."
 
 "Whichever side you are on," said the young man named Crook.
 
-As they went together through the laurels towards the front garden a motor
-horn sounded thrice, coming nearer and nearer, and a car of splendid speed,
+As they went together through the laurels towards the front [[Garden|garden]] a motor
+horn sounded thrice, coming nearer and nearer, and a car of splendid [[Speed|speed]],
 great elegance, and a pale green colour swept up to the front doors like a
 bird and stood throbbing.
 
@@ -2563,13 +2563,13 @@ Miss Adams, that your Santa Claus was so modern as this."
 "Oh, that's my godfather, Sir Leopold Fischer.  He always comes
 on Boxing Day."
 
-Then, after an innocent pause, which unconsciously betrayed some lack
+Then, after an [[Innocent|innocent]] pause, which unconsciously betrayed some lack
 of enthusiasm, Ruby Adams added:
 
 "He is very kind."
 
-John Crook, journalist, had heard of that eminent City magnate;
-and it was not his fault if the City magnate had not heard of him;
+John Crook, journalist, had heard of that eminent [[City]] magnate;
+and it was not his fault if the [[City]] magnate had not heard of him;
 for in certain articles in The Clarion or The New Age Sir Leopold
 had been dealt with austerely.  But he said nothing and grimly watched
 the unloading of the motor-car, which was rather a long process.
@@ -2589,7 +2589,7 @@ had opened in the middle, and Colonel Adams (father of the furry
 young lady) had come out himself to invite his eminent guest inside.
 He was a tall, sunburnt, and very silent man, who wore a red smoking-cap
 like a fez, making him look like one of the English Sirdars or Pashas
-in Egypt.  With him was his brother-in-law, lately come from Canada,
+in [[Egypt]].  With him was his brother-in-law, lately come from Canada,
 a big and rather boisterous young gentleman-farmer, with a yellow beard,
 by name James Blount.  With him also was the more insignificant figure
 of the priest from the neighbouring Roman Church; for the colonel's
@@ -2599,15 +2599,15 @@ undistinguished about the priest, even down to his name, which was Brown;
 yet the colonel had always found something companionable about him,
 and frequently asked him to such family gatherings.
 
-In the large entrance hall of the house there was ample
+In the large entrance hall of the [[house]] there was ample
 room even for Sir Leopold and the removal of his wraps.
 Porch and vestibule, indeed, were unduly large in proportion
-to the house, and formed, as it were, a big room with the front
-door at one end, and the bottom of the staircase at the other.
-In front of the large hall fire, over which hung the colonel's sword,
+to the [[house]], and formed, as it were, a big room with the front
+door at one end, and the [[Bottom|bottom]] of the staircase at the other.
+In front of the large hall [[Fire|fire]], over which hung the colonel's [[Sword|sword]],
 the process was completed and the company, including the saturnine Crook,
 presented to Sir Leopold Fischer.  That venerable financier, however,
-still seemed struggling with portions of his well-lined attire,
+still seemed struggling with portions of his [[Well|well]]-lined attire,
 and at length produced from a very interior tail-coat pocket,
 a black oval case which he radiantly explained to be his Christmas
 present for his god-daughter. With an unaffected vain-glory
@@ -2615,10 +2615,10 @@ that had something disarming about it he held out the case
 before them all; it flew open at a touch and half-blinded them.
 It was just as if a crystal fountain had spurted in their eyes.
 In a nest of orange velvet lay like three eggs, three white and vivid
-diamonds that seemed to set the very air on fire all round them.
+diamonds that seemed to set the very air on [[Fire|fire]] all round them.
 Fischer stood beaming benevolently and drinking deep of the astonishment
 and ecstasy of the girl, the grim admiration and gruff thanks
-of the colonel, the wonder of the whole group.
+of the colonel, the [[Wonder|wonder]] of the whole group.
 
 "I'll put 'em back now, my dear," said Fischer, returning the case
 to the tails of his coat.  "I had to be careful of 'em coming down.
@@ -3243,7 +3243,7 @@ hasn't. Oh, I don't know much about it, it's some clockwork invention
 for doing all the housework by machinery.  You know the sort of thing:
 `Press a Button--A Butler who Never Drinks.'  `Turn a Handle--Ten Housemaids
 who Never Flirt.'  You must have seen the advertisements.
-Well, whatever these machines are, they are making pots of money;
+[[Well]], whatever these machines are, they are making pots of money;
 and they are making it all for that little imp whom I knew down
 in Ludbury.  I can't help feeling pleased the poor little chap has
 fallen on his feet; but the plain fact is, I'm in terror of his
@@ -3252,8 +3252,8 @@ as he certainly has."
 
 "And the other man?" repeated Angus with a sort of obstinate quietude.
 
-Laura Hope got to her feet suddenly.  "My friend," she said,
-"I think you are a witch.  Yes, you are quite right.
+Laura [[Hope]] got to her feet suddenly.  "My friend," she said,
+"I think you are a [[Witch|witch]].  Yes, you are quite right.
 I have not seen a line of the other man's writing; and I have
 no more notion than the dead of what or where he is.  But it is
 of him that I am frightened.  It is he who is all about my path.
@@ -3261,15 +3261,15 @@ It is he who has half driven me mad.  Indeed, I think he has
 driven me mad; for I have felt him where he could not have been,
 and I have heard his voice when he could not have spoken."
 
-"Well, my dear," said the young man, cheerfully, "if he were Satan himself,
-he is done for now you have told somebody.  One goes mad all alone, old girl.
+"[[Well]], my dear," said the young man, cheerfully, "if he were [[Satan]] himself,
+he is done for now you have told somebody.  One goes mad all [[Alone|alone]], old girl.
 But when was it you fancied you felt and heard our squinting friend?"
 
 "I heard James Welkin laugh as plainly as I hear you speak,"
 said the girl, steadily.  "There was nobody there, for I stood just
 outside the shop at the corner, and could see down both streets at once.
 I had forgotten how he laughed, though his laugh was as odd as his squint.
-I had not thought of him for nearly a year.  But it's a solemn truth
+I had not thought of him for nearly a year.  But it's a solemn [[Truth|truth]]
 that a few seconds later the first letter came from his rival."
 
 "Did you ever make the spectre speak or squeak, or anything?"
@@ -3277,7 +3277,7 @@ asked Angus, with some interest.
 
 Laura suddenly shuddered, and then said, with an unshaken
 voice, "Yes.  Just when I had finished reading the second
-letter from Isidore Smythe announcing his success.
+letter from Isidore Smythe announcing his [[success]].
 Just then, I heard Welkin say, `He shan't have you, though.'
 It was quite plain, as if he were in the room.  It is awful,
 I think I must be mad."
@@ -4797,16 +4797,16 @@ and I knew that he meant that he was sufficient to himself, like a cosmos,
 that he needed no God, neither admitted any sins.  And when he said
 the third time, `I want nothing,' he said it with blazing eyes.
 And I knew that he meant literally what he said; that nothing was
-his desire and his home; that he was weary for nothing as for wine;
+his [[Desire|desire]] and his [[Home|home]]; that he was weary for nothing as for wine;
 that annihilation, the mere destruction of everything or anything--"
 
-Two drops of rain fell; and for some reason Flambeau started and looked up,
+Two drops of rain fell; and for some reason [[Flambeau]] started and looked up,
 as if they had stung him.  And the same instant the doctor down by the end
 of the conservatory began running towards them, calling out something
 as he ran.
 
 As he came among them like a bombshell the restless Atkinson
-happened to be taking a turn nearer to the house front;
+happened to be taking a turn nearer to the [[house]] front;
 and the doctor clutched him by the collar in a convulsive grip.
 "Foul play!" he cried; "what have you been doing to him, you dog?"
 
@@ -4820,48 +4820,48 @@ What is the matter, doctor?"
 "I could just see him through the glass, and I don't like the way he's lying.
 It's not as I left him, anyhow."
 
-"Let us go in to him," said Father Brown shortly.
-"You can leave Mr. Atkinson alone.  I have had him in sight
+"Let us go in to him," said [[Father Brown]] shortly.
+"You can leave Mr. Atkinson [[Alone|alone]].  I have had him in sight
 since we heard Quinton's voice."
 
-"I will stop here and watch him," said Flambeau hurriedly.
+"I will stop here and watch him," said [[Flambeau]] hurriedly.
 "You go in and see."
 
 The doctor and the priest flew to the study door, unlocked it,
 and fell into the room.  In doing so they nearly fell over the large
 mahogany table in the centre at which the poet usually wrote;
-for the place was lit only by a small fire kept for the invalid.
+for the place was lit only by a small [[Fire|fire]] kept for the invalid.
 In the middle of this table lay a single sheet of paper, evidently left
 there on purpose.  The doctor snatched it up, glanced at it,
-handed it to Father Brown, and crying, "Good God, look at that!"
+handed it to [[Father Brown]], and crying, "Good God, look at that!"
 plunged toward the glass room beyond, where the terrible tropic
-flowers still seemed to keep a crimson memory of the sunset.
+[[Flowers|flowers]] still seemed to keep a crimson [[Memory|memory]] of the sunset.
 
-Father Brown read the words three times before he put down the paper.
+[[Father Brown]] read the words three times before he put down the paper.
 The words were:  "I die by my own hand; yet I die murdered!"
 They were in the quite inimitable, not to say illegible,
 handwriting of Leonard Quinton.
 
-Then Father Brown, still keeping the paper in his hand,
+Then [[Father Brown]], still keeping the paper in his hand,
 strode towards the conservatory, only to meet his medical
 friend coming back with a face of assurance and collapse.
 "He's done it," said Harris.
 
-They went together through the gorgeous unnatural beauty of cactus
+They went together through the gorgeous unnatural [[Beauty|beauty]] of cactus
 and azalea and found Leonard Quinton, poet and romancer, with his head
 hanging downward off his ottoman and his red curls sweeping the ground.
 Into his left side was thrust the queer dagger that they had picked up
-in the garden, and his limp hand still rested on the hilt.
+in the [[Garden|garden]], and his limp hand still rested on the hilt.
 
-Outside the storm had come at one stride, like the night in Coleridge,
-and garden and glass roof were darkened with driving rain.
-Father Brown seemed to be studying the paper more than the corpse;
+Outside the [[Storm|storm]] had come at one stride, like the [[Night|night]] in Coleridge,
+and [[Garden|garden]] and glass roof were darkened with driving rain.
+[[Father Brown]] seemed to be studying the paper more than the corpse;
 he held it close to his eyes; and seemed trying to read it in the twilight.
 Then he held it up against the faint light, and, as he did so,
-lightning stared at them for an instant so white that the paper looked
+[[Lightning|lightning]] stared at them for an instant so white that the paper looked
 black against it.
 
-Darkness full of thunder followed, and after the thunder Father Brown's
+Darkness full of thunder followed, and after the thunder [[Father Brown]]'s
 voice said out of the dark:  "Doctor, this paper is the wrong shape."
 
 "What do you mean?" asked Doctor Harris, with a frowning stare.
@@ -4883,7 +4883,7 @@ But yet--" And he knitted his brows.
 "Oh, stop fooling with that scrap of paper," said the doctor emphatically.
 "It was a fad of his.  He had hundreds of them.  He cut all his paper
 like that," as he pointed to a stack of sermon paper still unused on another
-and smaller table.  Father Brown went up to it and held up a sheet.
+and smaller table.  [[Father Brown]] went up to it and held up a sheet.
 It was the same irregular shape.
 
 "Quite so," he said.  "And here I see the corners that were snipped off."
@@ -4896,21 +4896,21 @@ And as I see you are impatient we will rejoin the others."
 "Who is to tell his wife?" asked Dr. Harris.  "Will you go and tell her now,
 while I send a servant for the police?"
 
-"As you will," said Father Brown indifferently.  And he went
+"As you will," said [[Father Brown]] indifferently.  And he went
 out to the hall door.
 
-Here also he found a drama, though of a more grotesque sort.
-It showed nothing less than his big friend Flambeau in an attitude
+Here also he found a drama, though of a more [[Grotesque|grotesque]] sort.
+It showed nothing less than his big friend [[Flambeau]] in an attitude
 to which he had long been unaccustomed, while upon the pathway
-at the bottom of the steps was sprawling with his boots
+at the [[Bottom|bottom]] of the steps was sprawling with his boots
 in the air the amiable Atkinson, his billycock hat and walking
 cane sent flying in opposite directions along the path.
-Atkinson had at length wearied of Flambeau's almost paternal custody,
+Atkinson had at length wearied of [[Flambeau]]'s almost paternal custody,
 and had endeavoured to knock him down, which was by no means
 a smooth game to play with the Roi des Apaches, even after
 that monarch's abdication.
 
-Flambeau was about to leap upon his enemy and secure him once more,
+[[Flambeau]] was about to leap upon his enemy and secure him once more,
 when the priest patted him easily on the shoulder.
 
 "Make it up with Mr. Atkinson, my friend," he said.
@@ -5020,17 +5020,17 @@ of paper.  It was crookeder than the dagger that killed him."
 "You mean the paper on which Quinton confessed his suicide," said Flambeau.
 
 "I mean the paper on which Quinton wrote, `I die by my own hand,'"
-answered Father Brown.  "The shape of that paper, my friend,
+answered [[Father Brown]].  "The shape of that paper, my friend,
 was the wrong shape; the wrong shape, if ever I have seen it
 in this wicked world."
 
-"It only had a corner snipped off," said Flambeau, "and I understand
+"It only had a corner snipped off," said [[Flambeau]], "and I understand
 that all Quinton's paper was cut that way."
 
 "It was a very odd way," said the other, "and a very bad way,
-to my taste and fancy.  Look here, Flambeau, this Quinton--God
-receive his soul!--was perhaps a bit of a cur in some ways,
-but he really was an artist, with the pencil as well as the pen.
+to my taste and fancy.  Look here, [[Flambeau]], this Quinton--God
+receive his [[Soul|soul]]!--was perhaps a bit of a cur in some ways,
+but he really was an [[Artist|artist]], with the pencil as [[Well|well]] as the pen.
 His handwriting, though hard to read, was bold and beautiful.
 I can't prove what I say; I can't prove anything.
 But I tell you with the full force of conviction that he could
@@ -5042,33 +5042,33 @@ It was a mean shape.  It was a wrong shape.  Like this.
 Don't you remember?"
 
 And he waved his burning cigar before him in the darkness,
-making irregular squares so rapidly that Flambeau really
+making irregular squares so rapidly that [[Flambeau]] really
 seemed to see them as fiery hieroglyphics upon the darkness--
 hieroglyphics such as his friend had spoken of, which are undecipherable,
 yet can have no good meaning.
 
-"But," said Flambeau, as the priest put his cigar in his mouth again
+"But," said [[Flambeau]], as the priest put his cigar in his mouth again
 and leaned back, staring at the roof, "suppose somebody else did use
 the scissors.  Why should somebody else, cutting pieces off his sermon paper,
-make Quinton commit suicide?"
+make Quinton commit [[suicide]]?"
 
-Father Brown was still leaning back and staring at the roof,
+[[Father Brown]] was still leaning back and staring at the roof,
 but he took his cigar out of his mouth and said:
-"Quinton never did commit suicide."
+"Quinton never did commit [[suicide]]."
 
-Flambeau stared at him.  "Why, confound it all," he cried,
-"then why did he confess to suicide?"
+[[Flambeau]] stared at him.  "Why, confound it all," he cried,
+"then why did he confess to [[suicide]]?"
 
 The priest leant forward again, settled his elbows on his knees,
 looked at the ground, and said, in a low, distinct voice:
-"He never did confess to suicide."
+"He never did confess to [[suicide]]."
 
-Flambeau laid his cigar down.  "You mean," he said,
+[[Flambeau]] laid his cigar down.  "You mean," he said,
 "that the writing was forged?"
 
-"No," said Father Brown.  "Quinton wrote it all right."
+"No," said [[Father Brown]].  "Quinton wrote it all right."
 
-"Well, there you are," said the aggravated Flambeau; "Quinton wrote,
+"[[Well]], there you are," said the aggravated [[Flambeau]]; "Quinton wrote,
 `I die by my own hand,' with his own hand on a plain piece of paper."
 
 "Of the wrong shape," said the priest calmly.
@@ -5179,11 +5179,11 @@ happened by one chance out of a hundred, that those last words
 were written at the top of a new sheet of paper.
 I left the room,
 
-and went out into the garden intoxicated with a frightful
+and went out into the [[Garden|garden]] intoxicated with a frightful
 
 opportunity.
 
-We walked round the house; and two more things happened in my
+We walked round the [[house]]; and two more things happened in my
 
 favour.  You suspected an Indian, and you found a dagger which the
 
@@ -5197,12 +5197,12 @@ Atkinson at all, but I urged him to call out and quiet the fellow,
 
 because I wanted a clear proof that Quinton was alive when I left
 
-the room for the second time.  Quinton lay down in the conservatory,
+the room for the second [[Time|time]].  Quinton lay down in the conservatory,
 and I came through the study.  I am a quick man with my hands, and
 
 in a minute and a half I had done what I wanted to do.  I had
 
-emptied all the first part of Quinton's romance into the fireplace,
+emptied all the first part of Quinton's [[Romance|romance]] into the fireplace,
 
 where it burnt to ashes.  Then I saw that the quotation marks
 
@@ -5210,7 +5210,7 @@ wouldn't do, so I snipped them off, and to make it seem likelier,
 
 snipped the whole quire to match.  Then I came out with the
 
-knowledge that Quinton's confession of suicide lay on the front
+knowledge that Quinton's confession of [[suicide]] lay on the front
 
 table, while Quinton lay alive but asleep in the conservatory
 
@@ -5223,18 +5223,18 @@ I delayed you
 
 with the paper, and, being a quick man with my hands, killed
 
-Quinton while you were looking at his confession of suicide.
+Quinton while you were looking at his confession of [[suicide]].
 He
 
 was half-asleep, being drugged, and I put his own hand on the
 
-knife and drove it into his body.  The knife was of so queer a
+knife and drove it into his [[Body|body]].  The knife was of so queer a
 
 shape that no one but an operator could have calculated the angle
 
-that would reach his heart.  I wonder if you noticed this.
+that would reach his heart.  I [[Wonder|wonder]] if you noticed this.
 
-When I had done it, the extraordinary thing happened.  Nature
+When I had done it, the extraordinary thing happened.  [[Nature]]
 
 deserted me.  I felt ill.  I felt just as if I had done something
 
@@ -5242,30 +5242,30 @@ wrong.  I think my brain is breaking up; I feel some sort of
 
 desperate pleasure in thinking I have told the thing to somebody;
 
-that I shall not have to be alone with it if I marry and have
+that I shall not have to be [[Alone|alone]] with it if I marry and have
 
-children.  What is the matter with me? ... Madness ... or can one
+children.  What is the matter with me? ... [[Madness]] ... or can one
 
-have remorse, just as if one were in Byron's poems!  I cannot
+have remorse, just as if one were in Byron's [[Poems|poems]]!  I cannot
 
 write any more.
 
-                                 James Erskine Harris.            
+                                 James [[Erskine]] Harris.            
 
-Father Brown carefully folded up the letter, and put it in his breast
+[[Father Brown]] carefully folded up the letter, and put it in his breast
 pocket just as there came a loud peal at the gate bell, and the wet
-waterproofs of several policemen gleamed in the road outside.
+waterproofs of several policemen gleamed in the [[Road|road]] outside.
 
                     The Sins of Prince Saradine
 
-When Flambeau took his month's holiday from his office in Westminster
+When [[Flambeau]] took his month's holiday from his office in Westminster
 he took it in a small sailing-boat, so small that it passed much
-of its time as a rowing-boat. He took it, moreover, in little
+of its [[Time|time]] as a rowing-boat. He took it, moreover, in little
 rivers in the Eastern counties, rivers so small that the boat
-looked like a magic boat, sailing on land through meadows
+looked like a [[Magic|magic]] boat, sailing on land through meadows
 and cornfields.  The vessel was just comfortable for two people;
-there was room only for necessities, and Flambeau had stocked it
-with such things as his special philosophy considered necessary.
+there was room only for necessities, and [[Flambeau]] had stocked it
+with such things as his special [[philosophy]] considered necessary.
 They reduced themselves, apparently, to four essentials:
 tins of salmon, if he should want to eat; loaded revolvers,
 if he should want to fight; a bottle of brandy, presumably in case
@@ -5276,54 +5276,54 @@ in the overhanging gardens and meadows, the mirrored mansions
 or villages, lingering to fish in the pools and corners,
 and in some sense hugging the shore.
 
-Like a true philosopher, Flambeau had no aim in his holiday;
+Like a true philosopher, [[Flambeau]] had no aim in his holiday;
 but, like a true philosopher, he had an excuse.  He had a sort
-of half purpose, which he took just so seriously that its success
-would crown the holiday, but just so lightly that its failure
-would not spoil it.  Years ago, when he had been a king of thieves
-and the most famous figure in Paris, he had often received
-wild communications of approval, denunciation, or even love;
-but one had, somehow, stuck in his memory.  It consisted simply
+of half purpose, which he took just so seriously that its [[success]]
+would [[Crown|crown]] the holiday, but just so lightly that its failure
+would not spoil it.  Years ago, when he had been a [[King|king]] of thieves
+and the most famous figure in [[Paris]], he had often received
+wild communications of approval, denunciation, or even [[Love|love]];
+but one had, somehow, stuck in his [[Memory|memory]].  It consisted simply
 of a visiting-card, in an envelope with an English postmark.
 On the back of the card was written in French and in green ink:
 "If you ever retire and become respectable, come and see me.
-I want to meet you, for I have met all the other great men of my time.
-That trick of yours of getting one detective to arrest
-the other was the most splendid scene in French history."
+I want to meet you, for I have met all the other great men of my [[Time|time]].
+That trick of yours of getting one [[Detective|detective]] to arrest
+the other was the most splendid scene in French [[history]]."
 On the front of the card was engraved in the formal fashion,
-"Prince Saradine, Reed House, Reed Island, Norfolk."
+"Prince Saradine, Reed [[house|House]], Reed Island, Norfolk."
 
 He had not troubled much about the prince then, beyond ascertaining that
-he had been a brilliant and fashionable figure in southern Italy.  In his
+he had been a brilliant and fashionable figure in southern [[Italy]].  In his
 youth, it was said, he had eloped with a married woman of high rank;
 the escapade was scarcely startling in his social world, but it had clung
-to men's minds because of an additional tragedy:  the alleged suicide
+to men's minds because of an additional [[Tragedy|tragedy]]:  the alleged [[suicide]]
 of the insulted husband, who appeared to have flung himself over a precipice
-in Sicily.  The prince then lived in Vienna for a time, but his more recent
+in Sicily.  The prince then lived in Vienna for a [[Time|time]], but his more recent
 years seemed to have been passed in perpetual and restless travel.
-But when Flambeau, like the prince himself, had left European celebrity
+But when [[Flambeau]], like the prince himself, had left European celebrity
 and settled in England, it occurred to him that he might pay a surprise visit
-to this eminent exile in the Norfolk Broads.  Whether he should find the place
+to this eminent [[Exile|exile]] in the Norfolk Broads.  Whether he should find the place
 he had no idea; and, indeed, it was sufficiently small and forgotten.
 But, as things fell out, he found it much sooner than he expected.
 
-They had moored their boat one night under a bank veiled in high
-grasses and short pollarded trees.  Sleep, after heavy sculling,
+They had moored their boat one [[Night|night]] under a bank veiled in high
+grasses and short pollarded trees.  [[Sleep]], after heavy sculling,
 had come to them early, and by a corresponding accident
 they awoke before it was light.  To speak more strictly,
-they awoke before it was daylight; for a large lemon moon was
+they awoke before it was daylight; for a large lemon [[Moon|moon]] was
 only just setting in the forest of high grass above their heads,
 and the sky was of a vivid violet-blue, nocturnal but bright.
-Both men had simultaneously a reminiscence of childhood, of the elfin
-and adventurous time when tall weeds close over us like woods.
-Standing up thus against the large low moon, the daisies really
+Both men had simultaneously a reminiscence of [[Childhood|childhood]], of the elfin
+and adventurous [[Time|time]] when tall weeds close over us like woods.
+Standing up thus against the large low [[Moon|moon]], the daisies really
 seemed to be giant daisies, the dandelions to be giant dandelions.
 Somehow it reminded them of the dado of a nursery wall-paper.
-The drop of the river-bed sufficed to sink them under the roots
-of all shrubs and flowers and make them gaze upwards at the grass.
-"By Jove!" said Flambeau, "it's like being in fairyland."
+The drop of the [[River|river]]-bed sufficed to sink them under the roots
+of all shrubs and [[Flowers|flowers]] and make them gaze upwards at the grass.
+"By Jove!" said [[Flambeau]], "it's like being in fairyland."
 
-Father Brown sat bolt upright in the boat and crossed himself.
+[[Father Brown]] sat bolt upright in the boat and crossed himself.
 His movement was so abrupt that his friend asked him, with a mild stare,
 what was the matter.
 
@@ -5331,72 +5331,72 @@ what was the matter.
 "knew more about fairies than you do.  It isn't only nice things
 that happen in fairyland."
 
-"Oh, bosh!" said Flambeau.  "Only nice things could happen under such an
-innocent moon.  I am for pushing on now and seeing what does really come.
-We may die and rot before we ever see again such a moon or such a mood."
+"Oh, bosh!" said [[Flambeau]].  "Only nice things could happen under such an
+[[Innocent|innocent]] [[Moon|moon]].  I am for pushing on now and seeing what does really come.
+We may die and rot before we ever see again such a [[Moon|moon]] or such a mood."
 
-"All right," said Father Brown.  "I never said it was always wrong
+"All right," said [[Father Brown]].  "I never said it was always wrong
 to enter fairyland.  I only said it was always dangerous."
 
-They pushed slowly up the brightening river; the glowing violet
-of the sky and the pale gold of the moon grew fainter and fainter,
+They pushed slowly up the brightening [[River|river]]; the glowing violet
+of the sky and the pale gold of the [[Moon|moon]] grew fainter and fainter,
 amd faded into that vast colourless cosmos that precedes the colours
-of the dawn.  When the first faint stripes of red and gold and grey
+of the [[Dawn|dawn]].  When the first faint stripes of red and [[Gold and Grey|gold and grey]]
 split the horizon from end to end they were broken by the black bulk
-of a town or village which sat on the river just ahead of them.
+of a town or village which sat on the [[River|river]] just ahead of them.
 It was already an easy twilight, in which all things were visible,
-when they came under the hanging roofs and bridges of this riverside hamlet.
+when they came under the hanging roofs and bridges of this riverside [[Hamlet|hamlet]].
 The houses, with their long, low, stooping roofs, seemed to come down
-to drink at the river, like huge grey and red cattle.  The broadening
-and whitening dawn had already turned to working daylight before they
+to drink at the [[River|river]], like huge grey and red cattle.  The broadening
+and whitening [[Dawn|dawn]] had already turned to working daylight before they
 saw any living creature on the wharves and bridges of that silent town.
 Eventually they saw a very placid and prosperous man in his shirt sleeves,
-with a face as round as the recently sunken moon, and rays of red whisker
+with a face as round as the recently sunken [[Moon|moon]], and rays of red whisker
 around the low arc of it, who was leaning on a post above the sluggish tide.
-By an impulse not to be analysed, Flambeau rose to his full height
+By an impulse not to be analysed, [[Flambeau]] [[Rose|rose]] to his full height
 in the swaying boat and shouted at the man to ask if he knew Reed Island
-or Reed House.  The prosperous man's smile grew slightly more expansive,
-and he simply pointed up the river towards the next bend of it.
-Flambeau went ahead without further speech.
+or Reed [[house|House]].  The prosperous man's smile grew slightly more expansive,
+and he simply pointed up the [[River|river]] towards the next bend of it.
+[[Flambeau]] went ahead without further speech.
 
 The boat took many such grassy corners and followed many such reedy
-and silent reaches of river; but before the search had become monotonous
-they had swung round a specially sharp angle and come into the silence
+and silent reaches of [[River|river]]; but before the search had become monotonous
+they had swung round a specially sharp angle and come into the [[Silence|silence]]
 of a sort of pool or lake, the sight of which instinctively arrested them.
-For in the middle of this wider piece of water, fringed on every
+For in the middle of this wider piece of [[Water|water]], fringed on every
 side with rushes, lay a long, low islet, along which ran a long,
-low house or bungalow built of bamboo or some kind of tough tropic cane.
+low [[house]] or bungalow built of bamboo or some kind of tough tropic cane.
 The upstanding rods of bamboo which made the walls were pale yellow,
 the sloping rods that made the roof were of darker red or brown,
-otherwise the long house was a thing of repetition and monotony.
+otherwise the long [[house]] was a thing of repetition and monotony.
 The early morning breeze rustled the reeds round the island and sang
-in the strange ribbed house as in a giant pan-pipe.
+in the strange ribbed [[house]] as in a giant pan-pipe.
 
-"By George!" cried Flambeau; "here is the place, after all!
-Here is Reed Island, if ever there was one.  Here is Reed House,
+"By George!" cried [[Flambeau]]; "here is the place, after all!
+Here is Reed Island, if ever there was one.  Here is Reed [[house|House]],
 if it is anywhere.  I believe that fat man with whiskers
 was a fairy."
 
-"Perhaps," remarked Father Brown impartially.  "If he was,
+"Perhaps," remarked [[Father Brown]] impartially.  "If he was,
 he was a bad fairy."
 
-But even as he spoke the impetuous Flambeau had run his boat
+But even as he spoke the impetuous [[Flambeau]] had run his boat
 ashore in the rattling reeds, and they stood in the long,
-quaint islet beside the odd and silent house.
+quaint islet beside the odd and silent [[house]].
 
-The house stood with its back, as it were, to the river
+The [[house]] stood with its back, as it were, to the [[River|river]]
 and the only landing-stage; the main entrance was on
-the other side, and looked down the long island garden.
+the other side, and looked down the long island [[Garden|garden]].
 The visitors approached it, therefore, by a small path running
-round nearly three sides of the house, close under the low eaves.
+round nearly three sides of the [[house]], close under the low eaves.
 Through three different windows on three different sides they
-looked in on the same long, well-lit room, panelled in light wood,
+looked in on the same long, [[Well|well]]-lit room, panelled in light wood,
 with a large number of looking-glasses, and laid out as for an
 elegant lunch.  The front door, when they came round to it at last,
 was flanked by two turquoise-blue flower pots.  It was opened
 by a butler of the drearier type--long, lean, grey and listless--
-who murmured that Prince Saradine was from home at present,
-but was expected hourly; the house being kept ready for him
+who murmured that Prince Saradine was from [[Home|home]] at present,
+but was expected hourly; the [[house]] being kept ready for him
 and his guests.  The exhibition of the card with the scrawl
 of green ink awoke a flicker of life in the parchment face
 of the depressed retainer, and it was with a certain shaky
@@ -5406,29 +5406,29 @@ distressed to have just missed any gentleman he had invited.
 We have orders always to keep a little cold lunch for him
 and his friends, and I am sure he would wish it to be offered."
 
-Moved with curiosity to this minor adventure, Flambeau assented gracefully,
+Moved with curiosity to this minor adventure, [[Flambeau]] assented gracefully,
 and followed the old man, who ushered him ceremoniously into the long,
 lightly panelled room.  There was nothing very notable about it, except the
 rather unusual alternation of many long, low windows with many long,
 low oblongs of looking-glass, which gave a singular air of lightness and
 unsubstantialness to the place.  It was somehow like lunching out of doors.
 One or two pictures of a quiet kind hung in the corners, one a large
-grey photograph of a very young man in uniform, another a red chalk
-sketch of two long-haired boys.  Asked by Flambeau whether the soldierly
+grey photograph of a very young man in uniform, another a red [[chalk]]
+[[Sketch|sketch]] of two long-haired boys.  Asked by [[Flambeau]] whether the soldierly
 person was the prince, the butler answered shortly in the negative;
 it was the prince's younger brother, Captain Stephen Saradine, he said.
 And with that the old man seemed to dry up suddenly and lose all
 taste for conversation.
 
 After lunch had tailed off with exquisite coffee and liqueurs,
-the guests were introduced to the garden, the library,
+the guests were introduced to the [[Garden|garden]], the library,
 and the housekeeper--a dark, handsome lady, of no little majesty,
 and rather like a plutonic Madonna.  It appeared that she
 and the butler were the only survivors of the prince's
-original foreign menage the other servants now in the house
+original foreign menage the other servants now in the [[house]]
 being new and collected in Norfolk by the housekeeper.
 This latter lady went by the name of Mrs. Anthony, but she
-spoke with a slight Italian accent, and Flambeau did not doubt
+spoke with a slight Italian accent, and [[Flambeau]] did not [[Doubt|doubt]]
 that Anthony was a Norfolk version of some more Latin name.
 Mr. Paul, the butler, also had a faintly foreign air, but he was
 in tongue and training English, as are many of the most polished
@@ -5436,26 +5436,26 @@ men-servants of the cosmopolitan nobility.
 
 Pretty and unique as it was, the place had about it a curious
 luminous sadness.  Hours passed in it like days.  The long,
-well-windowed rooms were full of daylight, but it seemed a dead daylight.
+[[Well|well]]-windowed rooms were full of daylight, but it seemed a dead daylight.
 And through all other incidental noises, the sound of talk,
 the clink of glasses, or the passing feet of servants, they could
-hear on all sides of the house the melancholy noise of the river.
+hear on all sides of the [[house]] the [[Melancholy|melancholy]] noise of the [[River|river]].
 
-"We have taken a wrong turning, and come to a wrong place," said Father Brown,
-looking out of the window at the grey-green sedges and the silver flood.
+"We have taken a wrong turning, and come to a wrong place," said [[Father Brown]],
+looking out of the [[Window|window]] at the grey-green sedges and the silver flood.
 "Never mind; one can sometimes do good by being the right person in
 the wrong place."
 
-Father Brown, though commonly a silent, was an oddly sympathetic
+[[Father Brown]], though commonly a silent, was an oddly sympathetic
 little man, and in those few but endless hours he unconsciously sank
-deeper into the secrets of Reed House than his professional friend.
-He had that knack of friendly silence which is so essential to gossip;
+deeper into the [[Secrets|secrets]] of Reed [[house|House]] than his professional friend.
+He had that knack of friendly [[Silence|silence]] which is so essential to gossip;
 and saying scarcely a word, he probably obtained from his new acquaintances
 all that in any case they would have told.  The butler indeed was
 naturally uncommunicative.  He betrayed a sullen and almost animal
 affection for his master; who, he said, had been very badly treated.
 The chief offender seemed to be his highness's brother, whose name
-alone would lengthen the old man's lantern jaws and pucker his parrot
+[[Alone|alone]] would lengthen the old man's lantern jaws and pucker his parrot
 nose into a sneer.  Captain Stephen was a ne'er-do-weel, apparently,
 and had drained his benevolent brother of hundreds and thousands;
 forced him to fly from fashionable life and live quietly in this retreat.
@@ -5464,31 +5464,31 @@ That was all Paul, the butler, would say, and Paul was obviously a partisan.
 The Italian housekeeper was somewhat more communicative, being,
 as Brown fancied, somewhat less content.  Her tone about her
 master was faintly acid; though not without a certain awe.
-Flambeau and his friend were standing in the room of the
-looking-glasses examining the red sketch of the two boys,
+[[Flambeau]] and his friend were standing in the room of the
+looking-glasses examining the red [[Sketch|sketch]] of the two boys,
 when the housekeeper swept in swiftly on some domestic errand.
 It was a peculiarity of this glittering, glass-panelled place
 that anyone entering was reflected in four or five mirrors at once;
-and Father Brown, without turning round, stopped in the middle
-of a sentence of family criticism.  But Flambeau, who had his face
+and [[Father Brown]], without turning round, stopped in the middle
+of a sentence of family criticism.  But [[Flambeau]], who had his face
 close up to the picture, was already saying in a loud voice,
-"The brothers Saradine, I suppose.  They both look innocent enough.
+"The brothers Saradine, I suppose.  They both look [[Innocent|innocent]] enough.
 It would be hard to say which is the good brother and which the bad."
 Then, realising the lady's presence, he turned the conversation
-with some triviality, and strolled out into the garden.
-But Father Brown still gazed steadily at the red crayon sketch;
-and Mrs. Anthony still gazed steadily at Father Brown.
+with some triviality, and strolled out into the [[Garden|garden]].
+But [[Father Brown]] still gazed steadily at the red crayon [[Sketch|sketch]];
+and Mrs. Anthony still gazed steadily at [[Father Brown]].
 
 She had large and tragic brown eyes, and her olive face glowed
-darkly with a curious and painful wonder--as of one doubtful of a
-stranger's identity or purpose.  Whether the little priest's coat
+darkly with a curious and painful [[Wonder|wonder]]--as of one doubtful of a
+stranger's [[Identity|identity]] or purpose.  Whether the little priest's coat
 and creed touched some southern memories of confession, or whether
 she fancied he knew more than he did, she said to him in a low voice
 as to a fellow plotter, "He is right enough in one way, your friend.
 He says it would be hard to pick out the good and bad brothers.
 Oh, it would be hard, it would be mighty hard, to pick out the good one."
 
-"I don't understand you," said Father Brown, and began to move away.
+"I don't understand you," said [[Father Brown]], and began to move away.
 
 The woman took a step nearer to him, with thunderous brows and a sort
 of savage stoop, like a bull lowering his horns.
@@ -5501,15 +5501,15 @@ The captain's not the only one with something against him."
 A light dawned on the cleric's averted face, and his mouth formed
 silently the word "blackmail."  Even as he did so the woman
 turned an abrupt white face over her shoulder and almost fell.
-The door had opened soundlessly and the pale Paul stood like a ghost
+The door had opened soundlessly and the pale Paul stood like a [[Ghost|ghost]]
 in the doorway.  By the weird trick of the reflecting walls,
 it seemed as if five Pauls had entered by five doors simultaneously.
 
 "His Highness," he said, "has just arrived."
 
 In the same flash the figure of a man had passed outside
-the first window, crossing the sunlit pane like a lighted stage.
-An instant later he passed at the second window and the many
+the first [[Window|window]], crossing the sunlit pane like a lighted stage.
+An instant later he passed at the second [[Window|window]] and the many
 mirrors repainted in successive frames the same eagle profile
 and marching figure.  He was erect and alert, but his hair was white
 and his complexion of an odd ivory yellow.  He had that short,
@@ -5520,7 +5520,7 @@ slightly theatrical, and he was dressed up to the same dashing part,
 having a white top hat, an orchid in his coat, a yellow waistcoat
 and yellow gloves which he flapped and swung as he walked.
 When he came round to the front door they heard the stiff Paul open it,
-and heard the new arrival say cheerfully, "Well, you see I have come."
+and heard the new arrival say cheerfully, "[[Well]], you see I have come."
 The stiff Mr. Paul bowed and answered in his inaudible manner;
 for a few minutes their conversation could not be heard.
 Then the butler said, "Everything is at your disposal";
@@ -5531,10 +5531,10 @@ five princes entering a room with five doors.
 The prince put the white hat and yellow gloves on the table and offered
 his hand quite cordially.
 
-"Delighted to see you here, Mr. Flambeau," he said.  "Knowing you
-very well by reputation, if that's not an indiscreet remark."
+"Delighted to see you here, Mr. [[Flambeau]]," he said.  "Knowing you
+very [[Well|well]] by reputation, if that's not an indiscreet remark."
 
-"Not at all," answered Flambeau, laughing.  "I am not sensitive.
+"Not at all," answered [[Flambeau]], laughing.  "I am not sensitive.
 Very few reputations are gained by unsullied virtue."
 
 The prince flashed a sharp look at him to see if the retort
@@ -5542,26 +5542,26 @@ had any personal point; then he laughed also and offered chairs
 to everyone, including himself.
 
 "Pleasant little place, this, I think," he said with a detached air.
-"Not much to do, I fear; but the fishing is really good."
+"Not much to do, I [[Fear|fear]]; but the fishing is really good."
 
-The priest, who was staring at him with the grave stare
+The priest, who was staring at him with the [[Grave|grave]] stare
 of a baby, was haunted by some fancy that escaped definition.
 He looked at the grey, carefully curled hair, yellow white visage,
 and slim, somewhat foppish figure.  These were not unnatural,
 though perhaps a shade prononce, like the outfit of a figure behind
 the footlights.  The nameless interest lay in something else,
 in the very framework of the face; Brown was tormented
-with a half memory of having seen it somewhere before.
+with a half [[Memory|memory]] of having seen it somewhere before.
 The man looked like some old friend of his dressed up.
 Then he suddenly remembered the mirrors, and put his fancy
 down to some psychological effect of that multiplication
 of human masks.
 
 Prince Saradine distributed his social attentions between his
-guests with great gaiety and tact.  Finding the detective of a
-sporting turn and eager to employ his holiday, he guided Flambeau
-and Flambeau's boat down to the best fishing spot in the stream,
-and was back in his own canoe in twenty minutes to join Father Brown
+guests with great gaiety and tact.  Finding the [[Detective|detective]] of a
+sporting turn and eager to employ his holiday, he guided [[Flambeau]]
+and [[Flambeau]]'s boat down to the best fishing spot in the stream,
+and was back in his own canoe in twenty minutes to join [[Father Brown]]
 in the library and plunge equally politely into the priest's more
 philosophic pleasures.  He seemed to know a great deal both about
 the fishing and the books, though of these not the most edifying;
@@ -5569,7 +5569,7 @@ he spoke five or six languages, though chiefly the slang of each.
 He had evidently lived in varied cities and very motley societies,
 for some of his cheerfullest stories were about gambling hells
 and opium dens, Australian bushrangers or Italian brigands.
-Father Brown knew that the once-celebrated Saradine had spent his
+[[Father Brown]] knew that the once-celebrated Saradine had spent his
 last few years in almost ceaseless travel, but he had not guessed
 that the travels were so disreputable or so amusing.
 
@@ -5580,13 +5580,13 @@ His face was fastidious, but his eye was wild; he had little
 nervous tricks, like a man shaken by drink or drugs, and he neither had,
 nor professed to have, his hand on the helm of household affairs.
 All these were left to the two old servants, especially to
-the butler, who was plainly the central pillar of the house.
+the butler, who was plainly the central pillar of the [[house]].
 Mr. Paul, indeed, was not so much a butler as a sort of
 steward or, even, chamberlain; he dined privately, but with almost
 as much pomp as his master; he was feared by all the servants;
 and he consulted with the prince decorously, but somewhat unbendingly--
 rather as if he were the prince's solicitor.  The sombre housekeeper
-was a mere shadow in comparison; indeed, she seemed to efface
+was a mere [[Shadow|shadow]] in comparison; indeed, she seemed to efface
 herself and wait only on the butler, and Brown heard no more
 of those volcanic whispers which had half told him of the younger
 brother who blackmailed the elder.  Whether the prince was really
@@ -5598,19 +5598,19 @@ When they went once more into the long hall with the windows and the mirrors,
 yellow evening was dropping over the waters and the willowy banks;
 and a bittern sounded in the distance like an elf upon his dwarfish drum.
 The same singular sentiment of some sad and evil fairyland crossed
-the priest's mind again like a little grey cloud.  "I wish Flambeau
+the priest's mind again like a little grey cloud.  "I wish [[Flambeau]]
 were back," he muttered.
 
 "Do you believe in doom?" asked the restless Prince Saradine suddenly.
 
 "No," answered his guest.  "I believe in Doomsday."
 
-The prince turned from the window and stared at him in a
-singular manner, his face in shadow against the sunset.
+The prince turned from the [[Window|window]] and stared at him in a
+singular manner, his face in [[Shadow|shadow]] against the sunset.
 "What do you mean?" he asked.
 
 "I mean that we here are on the wrong side of the tapestry,"
-answered Father Brown.  "The things that happen here do not
+answered [[Father Brown]].  "The things that happen here do not
 seem to mean anything; they mean something somewhere else.
 Somewhere else retribution will come on the real offender.
 Here it often seems to fall on the wrong person."
@@ -5623,7 +5623,7 @@ and abruptness?  Was the prince--Was he perfectly sane?
 He was repeating, "The wrong person--the wrong person,"
 many more times than was natural in a social exclamation.
 
-Then Father Brown awoke tardily to a second truth.
+Then [[Father Brown]] awoke tardily to a second [[Truth|truth]].
 In the mirrors before him he could see the silent door
 standing open, and the silent Mr. Paul standing in it,
 with his usual pallid impassiveness.
@@ -5632,9 +5632,9 @@ with his usual pallid impassiveness.
 respectfulness as of an old family lawyer, "a boat rowed by six men has
 come to the landing-stage, and there's a gentleman sitting in the stern."
 
-"A boat!" repeated the prince; "a gentleman?" and he rose to his feet.
+"A boat!" repeated the prince; "a gentleman?" and he [[Rose|rose]] to his feet.
 
-There was a startled silence punctuated only by the odd noise
+There was a startled [[Silence|silence]] punctuated only by the odd noise
 of the bird in the sedge; and then, before anyone could speak again,
 a new face and figure passed in profile round the three
 sunlit windows, as the prince had passed an hour or two before.
@@ -5653,10 +5653,10 @@ From all this old clothes-shop his olive face stood out strangely
 young and monstrously sincere.
 
 "The deuce!" said Prince Saradine, and clapping on his white hat he went
-to the front door himself, flinging it open on the sunset garden.
+to the front door himself, flinging it open on the sunset [[Garden|garden]].
 
-By that time the new-comer and his followers were drawn up on the lawn like
-a small stage army.  The six boatmen had pulled the boat well up on shore,
+By that [[Time|time]] the new-comer and his followers were drawn up on the lawn like
+a small stage army.  The six boatmen had pulled the boat [[Well|well]] up on shore,
 and were guarding it almost menacingly, holding their oars erect like spears.
 They were swarthy men, and some of them wore earrings.  But one of them
 stood forward beside the olive-faced young man in the red waistcoat,
@@ -5668,11 +5668,11 @@ Saradine assented rather negligently.
 
 The new-comer had dull, dog-like brown eyes, as different as
 possible from the restless and glittering grey eyes of the prince.
-But once again Father Brown was tortured with a sense of having
+But once again [[Father Brown]] was tortured with a sense of having
 seen somewhere a replica of the face; and once again he remembered
 the repetitions of the glass-panelled room, and put down the
 coincidence to that.  "Confound this crystal palace!" he muttered.
-"One sees everything too many times.  It's like a dream."
+"One sees everything too many times.  It's like [[A Dream|a dream]]."
 
 "If you are Prince Saradine," said the young man, "I may tell
 you that my name is Antonelli."
@@ -5700,7 +5700,7 @@ steel hilts and blades, which he planted point downwards in the lawn.
 The strange young man standing facing the entrance with his yellow
 and vindictive face, the two swords standing up in the turf like two
 crosses in a cemetery, and the line of the ranked towers behind,
-gave it all an odd appearance of being some barbaric court of justice.
+gave it all an odd appearance of being some barbaric [[Court|court]] of justice.
 But everything else was unchanged, so sudden had been the interruption.
 The sunset gold still glowed on the lawn, and the bittern still boomed
 as announcing some small but dreadful destiny.
@@ -5720,7 +5720,7 @@ Choose one of those swords."
 Prince Saradine, with contracted brows, seemed to hesitate
 a moment, but his ears were still singing with the blow,
 and he sprang forward and snatched at one of the hilts.
-Father Brown had also sprung forward, striving to compose the dispute;
+[[Father Brown]] had also sprung forward, striving to compose the dispute;
 but he soon found his personal presence made matters worse.
 Saradine was a French freemason and a fierce atheist,
 and a priest moved him by the law of contraries.
@@ -5730,11 +5730,11 @@ something far sterner than a puritan--a pagan.  He was a simple
 slayer from the morning of the earth; a man of the stone age--
 a man of stone.
 
-One hope remained, the summoning of the household; and Father Brown ran back
-into the house.  He found, however, that all the under servants had been given
+One [[Hope|hope]] remained, the summoning of the household; and [[Father Brown]] ran back
+into the [[house]].  He found, however, that all the under servants had been given
 a holiday ashore by the autocrat Paul, and that only the sombre Mrs. Anthony
 moved uneasily about the long rooms.  But the moment she turned a ghastly
-face upon him, he resolved one of the riddles of the house of mirrors.
+face upon him, he resolved one of the riddles of the [[house]] of mirrors.
 The heavy brown eyes of Antonelli were the heavy brown eyes of Mrs. Anthony;
 and in a flash he saw half the story.
 
@@ -5744,31 +5744,31 @@ and in a flash he saw half the story.
 "He is at the landing-stage," said the woman faintly.
 "He is--he is--signalling for help."
 
-"Mrs. Anthony," said Father Brown seriously, "there is no time
-for nonsense.  My friend has his boat down the river fishing.
+"Mrs. Anthony," said [[Father Brown]] seriously, "there is no [[Time|time]]
+for nonsense.  My friend has his boat down the [[River|river]] fishing.
 Your son's boat is guarded by your son's men.  There is only this
 one canoe; what is Mr. Paul doing with it?"
 
-"Santa Maria!  I do not know," she said; and swooned all her length
+"Santa [[Maria]]!  I do not know," she said; and swooned all her length
 on the matted floor.
 
-Father Brown lifted her to a sofa, flung a pot of water over her, shouted
+[[Father Brown]] lifted her to a sofa, flung a pot of [[Water|water]] over her, shouted
 for help, and then rushed down to the landing-stage of the little island.
 But the canoe was already in mid-stream, and old Paul was pulling and pushing
-it up the river with an energy incredible at his years.
+it up the [[River|river]] with an energy incredible at his years.
 
 "I will save my master," he cried, his eyes blazing maniacally.
 "I will save him yet!"
 
-Father Brown could do nothing but gaze after the boat as it struggled
-up-stream and pray that the old man might waken the little town in time.
+[[Father Brown]] could do nothing but gaze after the boat as it struggled
+up-stream and pray that the old man might waken the little town in [[Time|time]].
 
-"A duel is bad enough," he muttered, rubbing up his rough dust-coloured hair,
+"A duel is bad enough," he muttered, rubbing up his rough [[Dust|dust]]-coloured hair,
 "but there's something wrong about this duel, even as a duel.
 I feel it in my bones.  But what can it be?"
 
-As he stood staring at the water, a wavering mirror of sunset,
-he heard from the other end of the island garden a small
+As he stood staring at the [[Water|water]], a wavering [[Mirror|mirror]] of sunset,
+he heard from the other end of the island [[Garden|garden]] a small
 but unmistakable sound--the cold concussion of steel.
 He turned his head.
 
@@ -5784,21 +5784,21 @@ There was something frightful in the two figures appearing so little
 and so gay.  They looked like two butterflies trying to pin each
 other to a cork.
 
-Father Brown ran as hard as he could, his little legs going
-like a wheel.  But when he came to the field of combat he found
+[[Father Brown]] ran as hard as he could, his little legs going
+like a [[Wheel|wheel]].  But when he came to the field of combat he found
 he was born too late and too early--too late to stop the strife,
-under the shadow of the grim Sicilians leaning on their oars,
+under the [[Shadow|shadow]] of the grim Sicilians leaning on their oars,
 and too early to anticipate any disastrous issue of it.
-For the two men were singularly well matched, the prince using
+For the two men were singularly [[Well|well]] matched, the prince using
 his skill with a sort of cynical confidence, the Sicilian using his
 with a murderous care.  Few finer fencing matches can ever have been
 seen in crowded amphitheatres than that which tinkled and sparkled
-on that forgotten island in the reedy river.  The dizzy fight was
-balanced so long that hope began to revive in the protesting priest;
+on that forgotten island in the reedy [[River|river]].  The dizzy fight was
+balanced so long that [[Hope|hope]] began to revive in the protesting priest;
 by all common probability Paul must soon come back with the police.
-It would be some comfort even if Flambeau came back from his fishing,
-for Flambeau, physically speaking, was worth four other men.
-But there was no sign of Flambeau, and, what was much queerer,
+It would be some comfort even if [[Flambeau]] came back from his fishing,
+for [[Flambeau]], physically speaking, was worth four other men.
+But there was no sign of [[Flambeau]], and, what was much queerer,
 no sign of Paul or the police.  No other raft or stick was left
 to float on; in that lost island in that vast nameless pool,
 they were cut off as on a rock in the Pacific.
@@ -5806,19 +5806,19 @@ they were cut off as on a rock in the Pacific.
 Almost as he had the thought the ringing of the rapiers quickened
 to a rattle, the prince's arms flew up, and the point shot out behind
 between his shoulder-blades. He went over with a great whirling movement,
-almost like one throwing the half of a boy's cart-wheel. The sword flew
-from his hand like a shooting star, and dived into the distant river.
+almost like one throwing the half of a boy's cart-[[Wheel|wheel]]. The [[Sword|sword]] flew
+from his hand like a shooting star, and dived into the distant [[River|river]].
 And he himself sank with so earth-shaking a subsidence that he broke a big
-rose-tree with his body and shook up into the sky a cloud of red earth--
+[[Rose|rose]]-tree with his [[Body|body]] and shook up into the sky a cloud of red earth--
 like the smoke of some heathen sacrifice.  The Sicilian had made
-blood-offering to the ghost of his father.
+[[Blood|blood]]-offering to the [[Ghost|ghost]] of his father.
 
 The priest was instantly on his knees by the corpse; but only to make
 too sure that it was a corpse.  As he was still trying some last hopeless
-tests he heard for the first time voices from farther up the river,
+tests he heard for the first [[Time|time]] voices from farther up the [[River|river]],
 and saw a police boat shoot up to the landing-stage, with constables
 and other important people, including the excited Paul.  The little
-priest rose with a distinctly dubious grimace.
+priest [[Rose|rose]] with a distinctly dubious grimace.
 
 "Now, why on earth," he muttered, "why on earth couldn't he have come before?"
 
@@ -5831,34 +5831,34 @@ and peaceful face.  "I shall never say anything more.
 I am very happy, and I only want to be hanged."
 
 Then he shut his mouth as they led him away, and it is the strange
-but certain truth that he never opened it again in this world,
+but certain [[Truth|truth]] that he never opened it again in this world,
 except to say "Guilty" at his trial.
 
-Father Brown had stared at the suddenly crowded garden, the arrest of
-the man of blood, the carrying away of the corpse after its examination
+[[Father Brown]] had stared at the suddenly crowded [[Garden|garden]], the arrest of
+the man of [[Blood|blood]], the carrying away of the corpse after its examination
 by the doctor, rather as one watches the break-up of some ugly dream;
-he was motionless, like a man in a nightmare.  He gave his name and
+he was motionless, like a man in a [[nightmare]].  He gave his name and
 address as a witness, but declined their offer of a boat to the shore,
-and remained alone in the island garden, gazing at the broken rose bush
-and the whole green theatre of that swift and inexplicable tragedy.
-The light died along the river; mist rose in the marshy banks;
-a few belated birds flitted fitfully across.
+and remained [[Alone|alone]] in the island [[Garden|garden]], gazing at the broken [[Rose|rose]] bush
+and the whole green theatre of that swift and inexplicable [[Tragedy|tragedy]].
+The light died along the [[River|river]]; mist [[Rose|rose]] in the marshy banks;
+a few belated [[Birds|birds]] flitted fitfully across.
 
 Stuck stubbornly in his sub-consciousness (which was an unusually
 lively one) was an unspeakable certainty that there was something
 still unexplained.  This sense that had clung to him all day could
 not be fully explained by his fancy about "looking-glass land."
-Somehow he had not seen the real story, but some game or masque.
-And yet people do not get hanged or run through the body for the sake
+Somehow he had not seen the real story, but some game or [[Masque|masque]].
+And yet people do not get hanged or run through the [[Body|body]] for the sake
 of a charade.
 
 As he sat on the steps of the landing-stage ruminating he grew conscious
-of the tall, dark streak of a sail coming silently down the shining river,
+of the tall, dark streak of a sail coming silently down the shining [[River|river]],
 and sprang to his feet with such a backrush of feeling that he almost wept.
 
-"Flambeau!" he cried, and shook his friend by both hands
+"[[Flambeau]]!" he cried, and shook his friend by both hands
 again and again, much to the astonishment of that sportsman,
-as he came on shore with his fishing tackle.  "Flambeau," he said,
+as he came on shore with his fishing tackle.  "[[Flambeau]]," he said,
 "so you're not killed?"
 
 "Killed!" repeated the angler in great astonishment.
@@ -5868,12 +5868,12 @@ as he came on shore with his fishing tackle.  "Flambeau," he said,
 "Saradine got murdered, and Antonelli wants to be hanged, and his
 mother's fainted, and I, for one, don't know whether I'm in this
 world or the next.  But, thank God, you're in the same one."
-And he took the bewildered Flambeau's arm.
+And he took the bewildered [[Flambeau]]'s arm.
 
 As they turned from the landing-stage they came under
-the eaves of the low bamboo house, and looked in through one
+the eaves of the low bamboo [[house]], and looked in through one
 of the windows, as they had done on their first arrival.
-They beheld a lamp-lit interior well calculated to arrest their eyes.
+They beheld a lamp-lit interior [[Well|well]] calculated to arrest their eyes.
 The table in the long dining-room had been laid for dinner when
 Saradine's destroyer had fallen like a stormbolt on the island.
 And the dinner was now in placid progress, for Mrs. Anthony sat
@@ -5882,25 +5882,25 @@ was Mr. Paul, the major domo, eating and drinking of the best,
 his bleared, bluish eyes standing queerly out of his face, his gaunt
 countenance inscrutable, but by no means devoid of satisfaction.
 
-With a gesture of powerful impatience, Flambeau rattled at the window,
+With a gesture of powerful impatience, [[Flambeau]] rattled at the [[Window|window]],
 wrenched it open, and put an indignant head into the lamp-lit room.
 
-"Well," he cried.  "I can understand you may need some refreshment,
+"[[Well]]," he cried.  "I can understand you may need some refreshment,
 but really to steal your master's dinner while he lies murdered
-in the garden--"
+in the [[Garden|garden]]--"
 
 "I have stolen a great many things in a long and pleasant life,"
 replied the strange old gentleman placidly; "this dinner is one
-of the few things I have not stolen.  This dinner and this house
-and garden happen to belong to me."
+of the few things I have not stolen.  This dinner and this [[house]]
+and [[Garden|garden]] happen to belong to me."
 
-A thought flashed across Flambeau's face.  "You mean to say,"
+A thought flashed across [[Flambeau]]'s face.  "You mean to say,"
 he began, "that the will of Prince Saradine--"
 
 "I am Prince Saradine," said the old man, munching a salted almond.
 
-Father Brown, who was looking at the birds outside, jumped as if he were shot,
-and put in at the window a pale face like a turnip.
+[[Father Brown]], who was looking at the [[Birds|birds]] outside, jumped as if he were shot,
+and put in at the [[Window|window]] a pale face like a turnip.
 
 "You are what?" he repeated in a shrill voice.
 
@@ -5908,38 +5908,38 @@ and put in at the window a pale face like a turnip.
 politely, lifting a glass of sherry.  "I live here very quietly,
 being a domestic kind of fellow; and for the sake of modesty
 I am called Mr. Paul, to distinguish me from my unfortunate
-brother Mr. Stephen.  He died, I hear, recently--in the garden.
+brother Mr. Stephen.  He died, I hear, recently--in the [[Garden|garden]].
 Of course, it is not my fault if enemies pursue him to this place.
 It is owing to the regrettable irregularity of his life.
 He was not a domestic character."
 
-He relapsed into silence, and continued to gaze at the opposite
+He relapsed into [[Silence|silence]], and continued to gaze at the opposite
 wall just above the bowed and sombre head of the woman.  They saw
 plainly the family likeness that had haunted them in the dead man.
 Then his old shoulders began to heave and shake a little,
 as if he were choking, but his face did not alter.
 
-"My God!" cried Flambeau after a pause, "he's laughing!"
+"My God!" cried [[Flambeau]] after a pause, "he's laughing!"
 
-"Come away," said Father Brown, who was quite white.
-"Come away from this house of hell.  Let us get into an
+"Come away," said [[Father Brown]], who was quite white.
+"Come away from this [[house]] of hell.  Let us get into an
 honest boat again."
 
-Night had sunk on rushes and river by the time they had pushed off from
+[[Night]] had sunk on rushes and [[River|river]] by the [[Time|time]] they had pushed off from
 the island, and they went down-stream in the dark, warming themselves
-with two big cigars that glowed like crimson ships' lanterns.  Father Brown
+with two big cigars that glowed like crimson ships' lanterns.  [[Father Brown]]
 took his cigar out of his mouth and said:
 
 "I suppose you can guess the whole story now?  After all,
 it's a primitive story.  A man had two enemies.  He was a wise man.
 And so he discovered that two enemies are better than one."
 
-"I do not follow that," answered Flambeau.
+"I do not follow that," answered [[Flambeau]].
 
 "Oh, it's really simple," rejoined his friend.  "Simple, though
-anything but innocent.  Both the Saradines were scamps,
+anything but [[Innocent|innocent]].  Both the Saradines were scamps,
 but the prince, the elder, was the sort of scamp that gets to the top,
-and the younger, the captain, was the sort that sinks to the bottom.
+and the younger, the captain, was the sort that sinks to the [[Bottom|bottom]].
 This squalid officer fell from beggar to blackmailer,
 and one ugly day he got his hold upon his brother, the prince.
 Obviously it was for no light matter, for Prince Paul Saradine
@@ -5974,21 +5974,21 @@ round the world, and he gave up his address to young Antonelli;
 then he gave up everything to his brother.  He sent Stephen
 money enough for smart clothes and easy travel, with a letter
 saying roughly:  `This is all I have left.  You have cleaned me out.
-I still have a little house in Norfolk, with servants and
+I still have a little [[house]] in Norfolk, with servants and
 a cellar, and if you want more from me you must take that.
 Come and take possession if you like, and I will live there quietly
 as your friend or agent or anything.'  He knew that the Sicilian
 had never seen the Saradine brothers save, perhaps, in pictures;
 he knew they were somewhat alike, both having grey, pointed beards.
 Then he shaved his own face and waited.  The trap worked.
-The unhappy captain, in his new clothes, entered the house
-in triumph as a prince, and walked upon the Sicilian's sword.
+The unhappy captain, in his new clothes, entered the [[house]]
+in triumph as a prince, and walked upon the Sicilian's [[Sword|sword]].
 
-"There was one hitch, and it is to the honour of human nature.
+"There was one hitch, and it is to the [[Honour|honour]] of human [[Nature|nature]].
 Evil spirits like Saradine often blunder by never expecting
 the virtues of mankind.  He took it for granted that the
 Italian's blow, when it came, would be dark, violent and nameless,
-like the blow it avenged; that the victim would be knifed at night,
+like the blow it avenged; that the victim would be knifed at [[Night|night]],
 or shot from behind a hedge, and so die without speech.
 It was a bad minute for Prince Paul when Antonelli's chivalry
 proposed a formal duel, with all its possible explanations.
@@ -6003,59 +6003,59 @@ pleasure in playing a part, his lust for clinging to his new
 cosy quarters, his rascal's trust in luck, and his fine fencing.
 It was certain that Antonelli, the fanatic, would hold
 his tongue, and be hanged without telling tales of his family.
-Paul hung about on the river till he knew the fight was over.
+Paul hung about on the [[River|river]] till he knew the fight was over.
 Then he roused the town, brought the police, saw his two vanquished
 enemies taken away forever, and sat down smiling to his dinner."
 
-"Laughing, God help us!" said Flambeau with a strong shudder.
-"Do they get such ideas from Satan?"
+"Laughing, God help us!" said [[Flambeau]] with a strong shudder.
+"Do they get such ideas from [[Satan]]?"
 
 "He got that idea from you," answered the priest.
 
-"God forbid!" ejaculated Flambeau.  "From me!  What do you mean!"
+"God forbid!" ejaculated [[Flambeau]].  "From me!  What do you mean!"
 
 The priest pulled a visiting-card from his pocket and held it up
 in the faint glow of his cigar; it was scrawled with green ink.
 
 "Don't you remember his original invitation to you?"
 he asked, "and the compliment to your criminal exploit?
-`That trick of yours,' he says, `of getting one detective
+`That trick of yours,' he says, `of getting one [[Detective|detective]]
 to arrest the other'? He has just copied your trick.
 With an enemy on each side of him, he slipped swiftly out
 of the way and let them collide and kill each other."
 
-Flambeau tore Prince Saradine's card from the priest's hands and rent
+[[Flambeau]] tore Prince Saradine's card from the priest's hands and rent
 it savagely in small pieces.
 
 "There's the last of that old skull and crossbones," he said as he
 scattered the pieces upon the dark and disappearing waves of the stream;
-"but I should think it would poison the fishes."
+"but I should think it would [[Poison|poison]] the fishes."
 
 The last gleam of white card and green ink was drowned and darkened;
-a faint and vibrant colour as of morning changed the sky, and the moon
-behind the grasses grew paler.  They drifted in silence.
+a faint and vibrant colour as of morning changed the sky, and the [[Moon|moon]]
+behind the grasses grew paler.  They drifted in [[Silence|silence]].
 
-"Father," said Flambeau suddenly, "do you think it was all a dream?"
+"Father," said [[Flambeau]] suddenly, "do you think it was all [[A Dream|a dream]]?"
 
 The priest shook his head, whether in dissent or agnosticism,
 but remained mute.  A smell of hawthorn and of orchards came
-to them through the darkness, telling them that a wind was awake;
+to them through the darkness, telling them that a [[Wind|wind]] was awake;
 the next moment it swayed their little boat and swelled their sail,
-and carried them onward down the winding river to happier places
+and carried them onward down the winding [[River|river]] to happier places
 and the homes of harmless men.
 
                          The Hammer of God
 
-The little village of Bohun Beacon was perched on a hill so steep that
+The little village of Bohun Beacon was perched on a [[Hill|hill]] so steep that
 the tall spire of its church seemed only like the peak of a small mountain.
 At the foot of the church stood a smithy, generally red with fires
 and always littered with hammers and scraps of iron; opposite to this,
-over a rude cross of cobbled paths, was "The Blue Boar," the only inn
+over a rude [[Cross|cross]] of cobbled paths, was "The Blue Boar," the only inn
 of the place.  It was upon this crossway, in the lifting of a leaden
 and silver daybreak, that two brothers met in the street and spoke;
 though one was beginning the day and the other finishing it.
 The Rev. and Hon. Wilfred Bohun was very devout, and was making his
-way to some austere exercises of prayer or contemplation at dawn.
+way to some austere exercises of [[prayer]] or contemplation at [[Dawn|dawn]].
 Colonel the Hon. Norman Bohun, his elder brother, was by no means devout,
 and was sitting in evening dress on the bench outside "The Blue Boar,"
 drinking what the philosophic observer was free to regard either
@@ -6066,12 +6066,12 @@ The Bohuns were one of the very few aristocratic families really dating from
 the Middle Ages, and their pennon had actually seen Palestine.  But it is a
 great mistake to suppose that such houses stand high in chivalric tradition.
 Few except the poor preserve traditions.  Aristocrats live not in traditions
-but in fashions.  The Bohuns had been Mohocks under Queen Anne and Mashers
-under Queen Victoria.  But like more than one of the really ancient houses,
+but in fashions.  The Bohuns had been Mohocks under [[Queen]] Anne and Mashers
+under [[Queen]] Victoria.  But like more than one of the really ancient houses,
 they had rotted in the last two centuries into mere drunkards and
 dandy degenerates, till there had even come a whisper of insanity.
 Certainly there was something hardly human about the colonel's wolfish
-pursuit of pleasure, and his chronic resolution not to go home till
+pursuit of pleasure, and his chronic resolution not to go [[Home|home]] till
 morning had a touch of the hideous clarity of insomnia.  He was a tall,
 fine animal, elderly, but with hair still startlingly yellow.  He would
 have looked merely blonde and leonine, but his blue eyes were sunk so deep
@@ -6090,13 +6090,13 @@ but he was buttoned up to the chin in black, and his face
 was clean-shaven, cultivated, and a little nervous.
 He seemed to live for nothing but his religion; but there were
 some who said (notably the blacksmith, who was a Presbyterian)
-that it was a love of Gothic architecture rather than of God,
-and that his haunting of the church like a ghost was only
-another and purer turn of the almost morbid thirst for beauty
+that it was a [[Love|love]] of Gothic architecture rather than of God,
+and that his haunting of the church like a [[Ghost|ghost]] was only
+another and purer turn of the almost morbid thirst for [[Beauty|beauty]]
 which sent his brother raging after women and wine.
 This charge was doubtful, while the man's practical piety
 was indubitable.  Indeed, the charge was mostly an ignorant
-misunderstanding of the love of solitude and secret prayer,
+misunderstanding of the [[Love|love]] of [[Solitude|solitude]] and secret [[prayer]],
 and was founded on his being often found kneeling, not before
 the altar, but in peculiar places, in the crypts or gallery,
 or even in the belfry.  He was at the moment about to enter
@@ -6119,7 +6119,7 @@ He is over at Greenford."
 "I know," answered the other with silent laughter; "that is why
 I am calling on him."
 
-"Norman," said the cleric, with his eye on a pebble in the road,
+"Norman," said the cleric, with his eye on a pebble in the [[Road|road]],
 "are you ever afraid of thunderbolts?"
 
 "What do you mean?" asked the colonel.  "Is your hobby meteorology?"
@@ -6130,20 +6130,20 @@ might strike you in the street?"
 "I beg your pardon," said the colonel; "I see your hobby is folk-lore."
 
 "I know your hobby is blasphemy," retorted the religious man,
-stung in the one live place of his nature.  "But if you do not
-fear God, you have good reason to fear man."
+stung in the one live place of his [[Nature|nature]].  "But if you do not
+[[Fear|fear]] God, you have good reason to [[Fear|fear]] man."
 
-The elder raised his eyebrows politely.  "Fear man?" he said.
+The elder raised his eyebrows politely.  "[[Fear]] man?" he said.
 
 "Barnes the blacksmith is the biggest and strongest man
 for forty miles round," said the clergyman sternly.
 "I know you are no coward or weakling, but he could throw you
 over the wall."
 
-This struck home, being true, and the lowering line by mouth and
+This struck [[Home|home]], being true, and the lowering line by mouth and
 nostril darkened and deepened.  For a moment he stood with the heavy
 sneer on his face.  But in an instant Colonel Bohun had recovered
-his own cruel good humour and laughed, showing two dog-like front
+his own cruel good [[Humour|humour]] and laughed, showing two dog-like front
 teeth under his yellow moustache.  "In that case, my dear Wilfred,"
 he said quite carelessly, "it was wise for the last of the Bohuns
 to come out partially in armour."
@@ -6157,7 +6157,7 @@ a trophy that hung in the old family hall.
 "always the nearest hat--and the nearest woman."
 
 "The blacksmith is away at Greenford," said Wilfred quietly;
-"the time of his return is unsettled."
+"the [[Time|time]] of his return is unsettled."
 
 And with that he turned and went into the church with bowed head,
 crossing himself like one who wishes to be quit of an unclean spirit.
@@ -6165,14 +6165,14 @@ He was anxious to forget such grossness in the cool twilight of his tall
 Gothic cloisters; but on that morning it was fated that his still round
 of religious exercises should be everywhere arrested by small shocks.
 As he entered the church, hitherto always empty at that hour, a kneeling
-figure rose hastily to its feet and came towards the full daylight
+figure [[Rose|rose]] hastily to its feet and came towards the full daylight
 of the doorway.  When the curate saw it he stood still with surprise.
 For the early worshipper was none other than the village idiot,
 a nephew of the blacksmith, one who neither would nor could care
 for the church or for anything else.  He was always called "Mad Joe,"
 and seemed to have no other name; he was a dark, strong, slouching lad,
 with a heavy white face, dark straight hair, and a mouth always open.
-As he passed the priest, his moon-calf countenance gave no hint of what
+As he passed the priest, his [[Moon|moon]]-calf countenance gave no hint of what
 he had been doing or thinking of.  He had never been known to pray before.
 What sort of prayers was he saying now?  Extraordinary prayers surely.
 
@@ -6183,12 +6183,12 @@ The last thing he saw was the colonel throwing pennies at the open
 mouth of Joe, with the serious appearance of trying to hit it.
 
 This ugly sunlit picture of the stupidity and cruelty of the earth sent
-the ascetic finally to his prayers for purification and new thoughts.
+the [[ascetic]] finally to his prayers for [[Purification|purification]] and new thoughts.
 He went up to a pew in the gallery, which brought him under
-a coloured window which he loved and always quieted his spirit;
-a blue window with an angel carrying lilies.  There he began to think
+a coloured [[Window|window]] which he loved and always quieted his spirit;
+a blue [[Window|window]] with an angel carrying lilies.  There he began to think
 less about the half-wit, with his livid face and mouth like a fish.
-He began to think less of his evil brother, pacing like a lean lion
+He began to think less of his evil brother, pacing like a lean [[Lion|lion]]
 in his horrible hunger.  He sank deeper and deeper into those cold
 and sweet colours of silver blossoms and sapphire sky.
 
@@ -6219,7 +6219,7 @@ done nothing, and won't do anything.  I'm afraid he's done for.
 You had really better come down, sir."
 
 The curate followed the cobbler down a short winding stair which brought them
-out at an entrance rather higher than the street.  Bohun saw the tragedy
+out at an entrance rather higher than the street.  Bohun saw the [[Tragedy|tragedy]]
 in one glance, flat underneath him like a plan.  In the yard of the smithy
 were standing five or six men mostly in black, one in an inspector's uniform.
 They included the doctor, the Presbyterian minister, and the priest
@@ -6230,13 +6230,13 @@ Between these two groups, and just clear of the main heap of hammers,
 lay a man in evening dress, spread-eagled and flat on his face.
 From the height above Wilfred could have sworn to every item of his costume
 and appearance, down to the Bohun rings upon his fingers; but the skull
-was only a hideous splash, like a star of blackness and blood.
+was only a hideous splash, like a star of blackness and [[Blood|blood]].
 
 Wilfred Bohun gave but one glance, and ran down the steps into
 the yard.  The doctor, who was the family physician, saluted him,
 but he scarcely took any notice.  He could only stammer out:
 "My brother is dead.  What does it mean?  What is this horrible mystery?"
-There was an unhappy silence; and then the cobbler, the most
+There was an unhappy [[Silence|silence]]; and then the cobbler, the most
 outspoken man present, answered:  "Plenty of horror, sir," he said;
 "but not much mystery."
 
@@ -6248,7 +6248,7 @@ and he's the man that had most reason to."
 
 "We must not prejudge anything," put in the doctor, a tall, black-bearded man,
 rather nervously; "but it is competent for me to corroborate what Mr. Gibbs
-says about the nature of the blow, sir; it is an incredible blow.
+says about the [[Nature|nature]] of the blow, sir; it is an incredible blow.
 Mr. Gibbs says that only one man in this district could have done it.
 I should have said myself that nobody could have done it."
 
@@ -6257,7 +6257,7 @@ A shudder of superstition went through the slight figure of the curate.
 
 "Mr. Bohun," said the doctor in a low voice, "metaphors literally fail me.
 It is inadequate to say that the skull was smashed to bits like an eggshell.
-Fragments of bone were driven into the body and the ground like bullets
+Fragments of bone were driven into the [[Body|body]] and the ground like bullets
 into a mud wall.  It was the hand of a giant."
 
 He was silent a moment, looking grimly through his glasses; then he added:
@@ -6276,15 +6276,15 @@ Where's Simeon Barnes, the blacksmith?"
 
 "No; he is in neither of those places," said a small and colourless voice,
 which came from the little Roman priest who had joined the group.
-"As a matter of fact, he is coming up the road at this moment."
+"As a matter of fact, he is coming up the [[Road|road]] at this moment."
 
 The little priest was not an interesting man to look at,
 having stubbly brown hair and a round and stolid face.
-But if he had been as splendid as Apollo no one would have looked
+But if he had been as splendid as [[Apollo]] no one would have looked
 at him at that moment.  Everyone turned round and peered at
 the pathway which wound across the plain below, along which was
 indeed walking, at his own huge stride and with a hammer on
-his shoulder, Simeon the smith.  He was a bony and gigantic man,
+his shoulder, Simeon the [[smith]].  He was a bony and gigantic man,
 with deep, dark, sinister eyes and a dark chin beard.
 He was walking and talking quietly with two other men;
 and though he was never specially cheerful, he seemed quite
@@ -6294,16 +6294,16 @@ at his ease.
 he did it with."
 
 "No," said the inspector, a sensible-looking man
-with a sandy moustache, speaking for the first time.
+with a sandy moustache, speaking for the first [[Time|time]].
 "There's the hammer he did it with over there by the church wall.
-We have left it and the body exactly as they are."
+We have left it and the [[Body|body]] exactly as they are."
 
-All glanced round and the short priest went across and looked down in silence
+All glanced round and the short priest went across and looked down in [[Silence|silence]]
 at the tool where it lay.  It was one of the smallest and the lightest
 of the hammers, and would not have caught the eye among the rest;
-but on the iron edge of it were blood and yellow hair.
+but on the iron edge of it were [[Blood|blood]] and yellow hair.
 
-After a silence the short priest spoke without looking up,
+After a [[Silence|silence]] the short priest spoke without looking up,
 and there was a new note in his dull voice.  "Mr. Gibbs was
 hardly right," he said, "in saying that there is no mystery.
 There is at least the mystery of why so big a man should attempt
@@ -6312,19 +6312,19 @@ so big a blow with so little a hammer."
 "Oh, never mind that," cried Gibbs, in a fever.  "What are we
 to do with Simeon Barnes?"
 
-"Leave him alone," said the priest quietly.  "He is coming here of himself.
+"Leave him [[Alone|alone]]," said the priest quietly.  "He is coming here of himself.
 I know those two men with him.  They are very good fellows from Greenford,
 and they have come over about the Presbyterian chapel."
 
-Even as he spoke the tall smith swung round the corner of the church,
+Even as he spoke the tall [[smith]] swung round the corner of the church,
 and strode into his own yard.  Then he stood there quite still,
 and the hammer fell from his hand.  The inspector, who had preserved
 impenetrable propriety, immediately went up to him.
 
 "I won't ask you, Mr. Barnes," he said, "whether you know anything
 about what has happened here.  You are not bound to say.
-I hope you don't know, and that you will be able to prove it.
-But I must go through the form of arresting you in the King's
+I [[Hope|hope]] you don't know, and that you will be able to prove it.
+But I must go through the form of arresting you in the [[King]]'s
 name for the murder of Colonel Norman Bohun."
 
 "You are not bound to say anything," said the cobbler
@@ -6333,8 +6333,8 @@ They haven't proved yet that it is Colonel Bohun, with the head
 all smashed up like that."
 
 "That won't wash," said the doctor aside to the priest.
-"That's out of the detective stories.  I was the colonel's
-medical man, and I knew his body better than he did.
+"That's out of the [[Detective|detective]] stories.  I was the colonel's
+medical man, and I knew his [[Body|body]] better than he did.
 He had very fine hands, but quite peculiar ones.
 The second and third fingers were the same length.
 Oh, that's the colonel right enough."
@@ -6342,7 +6342,7 @@ Oh, that's the colonel right enough."
 As he glanced at the brained corpse upon the ground the iron eyes
 of the motionless blacksmith followed them and rested there also.
 
-"Is Colonel Bohun dead?" said the smith quite calmly.
+"Is Colonel Bohun dead?" said the [[smith]] quite calmly.
 "Then he's damned."
 
 "Don't say anything!  Oh, don't say anything," cried the atheist cobbler,
@@ -6352,7 +6352,7 @@ For no man is such a legalist as the good Secularist.
 The blacksmith turned on him over his shoulder the august face
 of a fanatic.
 
-"It's well for you infidels to dodge like foxes because the world's
+"It's [[Well|well]] for you infidels to dodge like foxes because the world's
 law favours you," he said; "but God guards His own in His pocket,
 as you shall see this day."
 
@@ -6361,17 +6361,17 @@ die in his sins?"
 
 "Moderate your language," said the doctor.
 
-"Moderate the Bible's language, and I'll moderate mine.
+"Moderate the [[Bible]]'s language, and I'll moderate mine.
 When did he die?"
 
-"I saw him alive at six o'clock this morning," stammered Wilfred Bohun.
+"I saw him alive at six o'[[Clock|clock]] this morning," stammered Wilfred Bohun.
 
-"God is good," said the smith.  "Mr. Inspector, I have not the slightest
+"God is good," said the [[smith]].  "Mr. Inspector, I have not the slightest
 objection to being arrested.  It is you who may object to arresting me.
-I don't mind leaving the court without a stain on my character.
-You do mind perhaps leaving the court with a bad set-back in your career."
+I don't mind leaving the [[Court|court]] without a stain on my character.
+You do mind perhaps leaving the [[Court|court]] with a bad set-back in your career."
 
-The solid inspector for the first time looked at the blacksmith
+The solid inspector for the first [[Time|time]] looked at the blacksmith
 with a lively eye; as did everybody else, except the short,
 strange priest, who was still looking down at the little hammer
 that had dealt the dreadful blow.
@@ -6380,29 +6380,29 @@ that had dealt the dreadful blow.
 with ponderous lucidity, "good tradesmen in Greenford whom you
 all know, who will swear that they saw me from before midnight till
 daybreak and long after in the committee room of our Revival Mission,
-which sits all night, we save souls so fast.  In Greenford itself
-twenty people could swear to me for all that time.  If I were
+which sits all [[Night|night]], we save souls so fast.  In Greenford itself
+twenty people could swear to me for all that [[Time|time]].  If I were
 a heathen, Mr. Inspector, I would let you walk on to your downfall.
 But as a Christian man I feel bound to give you your chance,
-and ask you whether you will hear my alibi now or in court."
+and ask you whether you will hear my alibi now or in [[Court|court]]."
 
-The inspector seemed for the first time disturbed, and said,
+The inspector seemed for the first [[Time|time]] disturbed, and said,
 "Of course I should be glad to clear you altogether now."
 
-The smith walked out of his yard with the same long and
+The [[smith]] walked out of his yard with the same long and
 easy stride, and returned to his two friends from Greenford,
 who were indeed friends of nearly everyone present.  Each of them
 said a few words which no one ever thought of disbelieving.
-When they had spoken, the innocence of Simeon stood up as solid
+When they had spoken, the [[innocence]] of Simeon stood up as solid
 as the great church above them.
 
 One of those silences struck the group which are more strange and
 insufferable than any speech.  Madly, in order to make conversation,
 the curate said to the Catholic priest:
 
-"You seem very much interested in that hammer, Father Brown."
+"You seem very much interested in that hammer, [[Father Brown]]."
 
-"Yes, I am," said Father Brown; "why is it such a small hammer?"
+"Yes, I am," said [[Father Brown]]; "why is it such a small hammer?"
 
 The doctor swung round on him.
 
@@ -6411,28 +6411,28 @@ larger hammers lying about?"
 
 Then he lowered his voice in the curate's ear and said:
 "Only the kind of person that can't lift a large hammer.
-It is not a question of force or courage between the sexes.
+It is not a question of force or [[Courage|courage]] between the sexes.
 It's a question of lifting power in the shoulders.  A bold woman
 could commit ten murders with a light hammer and never turn a hair.
 She could not kill a beetle with a heavy one."
 
 Wilfred Bohun was staring at him with a sort of hypnotised horror,
-while Father Brown listened with his head a little on one side,
+while [[Father Brown]] listened with his head a little on one side,
 really interested and attentive.  The doctor went on with
 more hissing emphasis:
 
 "Why do these idiots always assume that the only person who hates
-the wife's lover is the wife's husband?  Nine times out of ten
-the person who most hates the wife's lover is the wife.
+the wife's [[Lover|lover]] is the wife's husband?  Nine times out of ten
+the person who most hates the wife's [[Lover|lover]] is the wife.
 Who knows what insolence or treachery he had shown her--look there!"
 
 He made a momentary gesture towards the red-haired woman on the bench.
-She had lifted her head at last and the tears were drying on her
+She had lifted her head at last and the [[Tears|tears]] were drying on her
 splendid face.  But the eyes were fixed on the corpse with an electric
 glare that had in it something of idiocy.
 
-The Rev. Wilfred Bohun made a limp gesture as if waving away all desire
-to know; but Father Brown, dusting off his sleeve some ashes blown
+The Rev. Wilfred Bohun made a limp gesture as if waving away all [[Desire|desire]]
+to know; but [[Father Brown]], dusting off his sleeve some ashes blown
 from the furnace, spoke in his indifferent way.
 
 "You are like so many doctors," he said; "your mental science is
@@ -6446,8 +6446,8 @@ grasped the whole of it.  The man was actually wearing an iron helmet,
 and the blow scattered it like broken glass.  Look at that woman.
 Look at her arms."
 
-Silence held them all up again, and then the doctor said rather sulkily:
-"Well, I may be wrong; there are objections to everything.
+[[Silence]] held them all up again, and then the doctor said rather sulkily:
+"[[Well]], I may be wrong; there are objections to everything.
 But I stick to the main point.  No man but an idiot would pick up
 that little hammer if he could use a big hammer."
 
@@ -7769,10 +7769,10 @@ and it would seem that he died almost as much of rage as of bullets.
 He, at any rate, was not responsible for that ridiculous raid;
 it must have been imposed on him by the general.  His last edifying words,
 according to my informant, were these:  `And there goes the damned old
-donkey with the end of his sword knocked off.  I wish it was his head.'
+[[donkey]] with the end of his [[Sword|sword]] knocked off.  I wish it was his head.'
 You will remark that everyone seems to have noticed this detail about
-the broken sword blade, though most people regard it somewhat more reverently
-than did the late Colonel Clancy.  And now for the third fragment."
+the broken [[Sword|sword]] blade, though most people regard it somewhat more reverently
+than did the late Colonel Clancy.  And now for the third [[Fragment|fragment]]."
 
 Their path through the woodland began to go upward,
 and the speaker paused a little for breath before he went on.
@@ -7780,7 +7780,7 @@ Then he continued in the same business-like tone:
 
 "Only a month or two ago a certain Brazilian official died
 in England, having quarrelled with Olivier and left his country.
-He was a well-known figure both here and on the Continent,
+He was a [[Well|well]]-known figure both here and on the Continent,
 a Spaniard named Espado; I knew him myself, a yellow-faced
 old dandy, with a hooked nose.  For various private reasons
 I had permission to see the documents he had left; he was
@@ -7789,7 +7789,7 @@ There was nothing of his that lit up any corner of the black
 St. Clare business, except five or six common exercise books
 filled with the diary of some English soldier.  I can only suppose
 that it was found by the Brazilians on one of those that fell.
-Anyhow, it stopped abruptly the night before the battle.
+Anyhow, it stopped abruptly the [[Night|night]] before the battle.
 
 "But the account of that last day in the poor fellow's life
 was certainly worth reading.  I have it on me; but it's too dark
@@ -7808,20 +7808,20 @@ jests about the contrast between this Ulsterman's austerity
 and the conviviality of Colonel Clancy.  There is also some joke
 about the Vulture wearing bright-coloured clothes.
 
-"But all these levities are scattered by what may well be
+"But all these levities are scattered by what may [[Well|well]] be
 called the note of a bugle.  Behind the English camp and
-almost parallel to the river ran one of the few great roads
-of that district.  Westward the road curved round towards
-the river, which it crossed by the bridge before mentioned.
-To the east the road swept backwards into the wilds,
+almost parallel to the [[River|river]] ran one of the few great roads
+of that district.  Westward the [[Road|road]] curved round towards
+the [[River|river]], which it crossed by the bridge before mentioned.
+To the east the [[Road|road]] swept backwards into the wilds,
 and some two miles along it was the next English outpost.
-From this direction there came along the road that evening a glitter
+From this direction there came along the [[Road|road]] that evening a glitter
 and clatter of light cavalry, in which even the simple diarist
 could recognise with astonishment the general with his staff.
-He rode the great white horse which you have seen so often
+He rode the great white [[Horse|horse]] which you have seen so often
 in illustrated papers and Academy pictures; and you may be sure
 that the salute they gave him was not merely ceremonial.
-He, at least, wasted no time on ceremony, but, springing from
+He, at least, wasted no [[Time|time]] on ceremony, but, springing from
 the saddle immediately, mixed with the group of officers,
 and fell into emphatic though confidential speech.
 What struck our friend the diarist most was his special disposition
@@ -8637,21 +8637,21 @@ heard on earth, roaring `Hell, hell, hell,' again and again,
 and then the two doors shook with the first explosion
 of the revolver.  Thrice again the thing banged before I
 got the two doors open and found the room full of smoke;
-but the pistol was smoking in my poor, mad Patrick's hand;
-and I saw him fire the last murderous volley with my own eyes.
+but the [[Pistol|pistol]] was smoking in my poor, mad Patrick's hand;
+and I saw him [[Fire|fire]] the last murderous volley with my own eyes.
 Then he leapt on my father, who was clinging in terror
-to the window-sill, and, grappling, tried to strangle him
+to the [[Window|window]]-sill, and, grappling, tried to strangle him
 with the rope, which he threw over his head, but which slipped
 over his struggling shoulders to his feet.  Then it tightened
 round one leg and Patrick dragged him along like a maniac.
 I snatched a knife from the mat, and, rushing between them,
 managed to cut the rope before I fainted."
 
-"I see," said Father Brown, with the same wooden civility.  "Thank you."
+"I see," said [[Father Brown]], with the same wooden civility.  "Thank you."
 
 As the girl collapsed under her memories, the priest passed
 stiffly into the next room, where he found Gilder and Merton
-alone with Patrick Royce, who sat in a chair, handcuffed.
+[[Alone|alone]] with Patrick Royce, who sat in a chair, handcuffed.
 There he said to the Inspector submissively:
 
 "Might I say a word to the prisoner in your presence;
@@ -8661,9 +8661,9 @@ and might he take off those funny cuffs for a minute?"
 "Why do you want them taken off?"
 
 "Why, I thought," replied the priest humbly, "that perhaps I
-might have the very great honour of shaking hands with him."
+might have the very great [[Honour|honour]] of shaking hands with him."
 
-Both detectives stared, and Father Brown added:  "Won't you tell them
+Both detectives stared, and [[Father Brown]] added:  "Won't you tell them
 about it, sir?"
 
 The man on the chair shook his tousled head, and the
@@ -8673,22 +8673,22 @@ priest turned impatiently.
 than public reputations.  I am going to save the living,
 and let the dead bury their dead."
 
-He went to the fatal window, and blinked out of it as he went on talking.
+He went to the fatal [[Window|window]], and blinked out of it as he went on talking.
 
-"I told you that in this case there were too many weapons and only one death.
-I tell you now that they were not weapons, and were not used to cause death.
-All those grisly tools, the noose, the bloody knife, the exploding pistol,
-were instruments of a curious mercy.  They were not used to kill Sir Aaron,
+"I told you that in this case there were too many weapons and only one [[Death|death]].
+I tell you now that they were not weapons, and were not used to cause [[Death|death]].
+All those grisly tools, the noose, the bloody knife, the exploding [[Pistol|pistol]],
+were instruments of a curious [[Mercy|mercy]].  They were not used to kill Sir [[Aaron]],
 but to save him."
 
 "To save him!" repeated Gilder.  "And from what?"
 
-"From himself," said Father Brown.  "He was a suicidal maniac."
+"From himself," said [[Father Brown]].  "He was a suicidal maniac."
 
 "What?" cried Merton in an incredulous tone.
 "And the Religion of Cheerfulness--"
 
-"It is a cruel religion," said the priest, looking out of the window.
+"It is a cruel religion," said the priest, looking out of the [[Window|window]].
 "Why couldn't they let him weep a little, like his fathers before him?
 His plans stiffened, his views grew cold; behind that merry mask
 was the empty mind of the atheist.  At last, to keep up his hilarious
@@ -8698,24 +8698,24 @@ that he pictures and expects that psychological inferno from which
 he has warned others.  It leapt upon poor Armstrong prematurely,
 and by this morning he was in such a case that he sat here and cried
 he was in hell, in so crazy a voice that his daughter did not know it.
-He was mad for death, and with the monkey tricks of the mad he had
-scattered round him death in many shapes--a running noose and his friend's
+He was mad for [[Death|death]], and with the monkey tricks of the mad he had
+scattered round him [[Death|death]] in many shapes--a running noose and his friend's
 revolver and a knife.  Royce entered accidentally and acted in a flash.
 He flung the knife on the mat behind him, snatched up the revolver, and having
-no time to unload it, emptied it shot after shot all over the floor.
-The suicide saw a fourth shape of death, and made a dash for the window.
+no [[Time|time]] to unload it, emptied it shot after shot all over the floor.
+The [[suicide]] saw a fourth shape of [[Death|death]], and made a dash for the [[Window|window]].
 The rescuer did the only thing he could--ran after him with the rope and
 tried to tie him hand and foot.  Then it was that the unlucky girl ran in,
 and misunderstanding the struggle, strove to slash her father free.
 At first she only slashed poor Royce's knuckles, from which has
-come all the little blood in this affair.  But, of course,
-you noticed that he left blood, but no wound, on that servant's face?
+come all the little [[Blood|blood]] in this affair.  But, of course,
+you noticed that he left [[Blood|blood]], but no wound, on that servant's face?
 Only before the poor woman swooned, she did hack her father loose,
-so that he went crashing through that window into eternity."
+so that he went crashing through that [[Window|window]] into [[Eternity|eternity]]."
 
 There was a long stillness slowly broken by the metallic noises
 of Gilder unlocking the handcuffs of Patrick Royce, to whom he said:
-"I think I should have told the truth, sir.  You and the young lady
+"I think I should have told the [[Truth|truth]], sir.  You and the young lady
 are worth more than Armstrong's obituary notices."
 
 "Confound Armstrong's notices," cried Royce roughly.
@@ -8723,13 +8723,13 @@ are worth more than Armstrong's obituary notices."
 
 "Mustn't know what?" asked Merton.
 
-"Why, that she killed her father, you fool!" roared the other.
+"Why, that she killed her father, you [[Fool|fool]]!" roared the other.
 "He'd have been alive now but for her.  It might craze her
 to know that."
 
-"No, I don't think it would," remarked Father Brown, as he picked up his hat.
+"No, I don't think it would," remarked [[Father Brown]], as he picked up his hat.
 "I rather think I should tell her.  Even the most murderous blunders don't
-poison life like sins; anyhow, I think you may both be the happier now.
+[[Poison|poison]] life like sins; anyhow, I think you may both be the happier now.
 I've got to go back to the Deaf School."
 
 As he went out on to the gusty grass an acquaintance from Highgate
@@ -8737,5 +8737,5 @@ stopped him and said:
 
 "The Coroner has arrived.  The inquiry is just going to begin."
 
-"I've got to get back to the Deaf School," said Father Brown.  "I'm sorry
+"I've got to get back to the Deaf School," said [[Father Brown]].  "I'm sorry
 I can't stop for the inquiry."

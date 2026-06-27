@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 42: MISCHIEF (part 6)"
+title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 I needed but the sound of his voice to be so madly enraged as I never
 was before, and never have been since.
 
-‘You villain,’ said I, ‘what do you mean by entrapping me into your
+‘You [[Villain|villain]],’ said I, ‘what do you mean by entrapping me into your
 schemes? How dare you appeal to me just now, you false rascal, as if we
 had been in discussion together?’
 
@@ -30,7 +30,7 @@ it with my open hand with that force that my fingers tingled as if I had
 burnt them.
 
 He caught the hand in his, and we stood in that connexion, looking at
-each other. We stood so, a long time; long enough for me to see the
+each other. We stood so, a long [[Time|time]]; long enough for me to see the
 white marks of my fingers die out of the deep red of his cheek, and
 leave it a deeper red.
 
@@ -40,7 +40,7 @@ leave of your senses?’
 ‘I have taken leave of you,’ said I, wresting my hand away. ‘You dog,
 I’ll know no more of you.’
 
-‘Won’t you?’ said he, constrained by the pain of his cheek to put his
+‘Won’t you?’ said he, constrained by the [[Pain|pain]] of his cheek to put his
 hand there. ‘Perhaps you won’t be able to help it. Isn’t this ungrateful
 of you, now?’
 
@@ -51,7 +51,7 @@ your worst to all about you? What else do you ever do?’
 He perfectly understood this allusion to the considerations that had
 hitherto restrained me in my communications with him. I rather think
 that neither the blow, nor the allusion, would have escaped me, but for
-the assurance I had had from Agnes that night. It is no matter.
+the assurance I had had from Agnes that [[Night|night]]. It is no matter.
 
 There was another long pause. His eyes, as he looked at me, seemed to
 take every shade of colour that could make eyes ugly.
@@ -86,12 +86,12 @@ a friend to you, in spite of you. So now you know what you’ve got to
 expect.’
 
 The necessity of carrying on this dialogue (his part in which was
-very slow; mine very quick) in a low tone, that the house might not be
+very slow; mine very quick) in a low tone, that the [[house]] might not be
 disturbed at an unseasonable hour, did not improve my temper; though my
 passion was cooling down. Merely telling him that I should expect from
 him what I always had expected, and had never yet been disappointed in,
 I opened the door upon him, as if he had been a great walnut put there
-to be cracked, and went out of the house. But he slept out of the house
+to be cracked, and went out of the [[house]]. But he slept out of the [[house]]
 too, at his mother’s lodging; and before I had gone many hundred yards,
 came up with me.
 
@@ -99,14 +99,14 @@ came up with me.
 ‘you’re in quite a wrong position’; which I felt to be true, and that
 made me chafe the more; ‘you can’t make this a brave thing, and you
 can’t help being forgiven. I don’t intend to mention it to mother, nor
-to any living soul. I’m determined to forgive you. But I do wonder
+to any living [[Soul|soul]]. I’m determined to forgive you. But I do [[Wonder|wonder]]
 that you should lift your hand against a person that you knew to be so
 umble!’
 
 I felt only less mean than he. He knew me better than I knew myself. If
 he had retorted or openly exasperated me, it would have been a relief
-and a justification; but he had put me on a slow fire, on which I lay
-tormented half the night.
+and a justification; but he had put me on a slow [[Fire|fire]], on which I lay
+tormented half the [[Night|night]].
 
 In the morning, when I came out, the early church-bell was ringing,
 and he was walking up and down with his mother. He addressed me as if
@@ -114,10 +114,10 @@ nothing had happened, and I could do no less than reply. I had struck
 him hard enough to give him the toothache, I suppose. At all events
 his face was tied up in a black silk handkerchief, which, with his hat
 perched on the top of it, was far from improving his appearance. I heard
-that he went to a dentist’s in London on the Monday morning, and had a
-tooth out. I hope it was a double one.
+that he went to a dentist’s in [[London]] on the Monday morning, and had a
+tooth out. I [[Hope|hope]] it was a [[Double|double]] one.
 
-The Doctor gave out that he was not quite well; and remained alone, for
+The Doctor gave out that he was not quite [[Well|well]]; and remained [[Alone|alone]], for
 a considerable part of every day, during the remainder of the visit.
 Agnes and her father had been gone a week, before we resumed our usual
 work. On the day preceding its resumption, the Doctor gave me with his
@@ -129,12 +129,12 @@ certainly had not the least suspicion of what had passed.
 
 Neither, I felt convinced, had Mrs. Strong then. Several weeks elapsed
 before I saw the least change in her. It came on slowly, like a cloud
-when there is no wind. At first, she seemed to wonder at the gentle
+when there is no [[Wind|wind]]. At first, she seemed to [[Wonder|wonder]] at the gentle
 compassion with which the Doctor spoke to her, and at his wish that she
 should have her mother with her, to relieve the dull monotony of her
 life. Often, when we were at work, and she was sitting by, I would see
 her pausing and looking at him with that memorable face. Afterwards, I
-sometimes observed her rise, with her eyes full of tears, and go out
-of the room. Gradually, an unhappy shadow fell upon her beauty, and
+sometimes observed her rise, with her eyes full of [[Tears|tears]], and go out
+of the room. Gradually, an unhappy [[Shadow|shadow]] fell upon her [[Beauty|beauty]], and
 deepened every day. Mrs. Markleham was a regular inmate of the cottage
 then; but she talked and talked, and saw nothing.

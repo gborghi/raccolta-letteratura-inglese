@@ -43,47 +43,47 @@ monotony of two.’
 lighthouse.’
 
 Mortimer laughed again, and Eugene, having laughed too for the first
-time, as if he found himself on reflection rather entertaining, relapsed
+[[Time|time]], as if he found himself on reflection rather entertaining, relapsed
 into his usual gloom, and drowsily said, as he enjoyed his cigar, ‘No,
 there is no help for it; one of the prophetic deliveries of M. R. F.
 must for ever remain unfulfilled. With every disposition to oblige him,
 he must submit to a failure.’
 
-It had grown darker as they talked, and the wind was sawing and the
+It had grown darker as they talked, and the [[Wind|wind]] was sawing and the
 sawdust was whirling outside paler windows. The underlying churchyard
 was already settling into deep dim shade, and the shade was creeping up
 to the housetops among which they sat. ‘As if,’ said Eugene, ‘as if the
-churchyard ghosts were rising.’
+churchyard [[Ghosts|ghosts]] were rising.’
 
-He had walked to the window with his cigar in his mouth, to exalt its
+He had walked to the [[Window|window]] with his cigar in his mouth, to exalt its
 flavour by comparing the fireside with the outside, when he stopped
 midway on his return to his arm-chair, and said:
 
-‘Apparently one of the ghosts has lost its way, and dropped in to be
-directed. Look at this phantom!’
+‘Apparently one of the [[Ghosts|ghosts]] has lost its way, and dropped in to be
+directed. Look at this [[Phantom|phantom]]!’
 
 Lightwood, whose back was towards the door, turned his head, and there,
 in the darkness of the entry, stood a something in the likeness of a
 man: to whom he addressed the not irrelevant inquiry, ‘Who the devil are
 you?’
 
-‘I ask your pardons, Governors,’ replied the ghost, in a hoarse
-double-barrelled whisper, ‘but might either on you be Lawyer Lightwood?’
+‘I ask your pardons, Governors,’ replied the [[Ghost|ghost]], in a hoarse
+[[Double|double]]-barrelled whisper, ‘but might either on you be Lawyer Lightwood?’
 
 ‘What do you mean by not knocking at the door?’ demanded Mortimer.
 
-‘I ask your pardons, Governors,’ replied the ghost, as before, ‘but
+‘I ask your pardons, Governors,’ replied the [[Ghost|ghost]], as before, ‘but
 probable you was not aware your door stood open.’
 
 ‘What do you want?’
 
-Hereunto the ghost again hoarsely replied, in its double-barrelled
+Hereunto the [[Ghost|ghost]] again hoarsely replied, in its [[Double|double]]-barrelled
 manner, ‘I ask your pardons, Governors, but might one on you be Lawyer
 Lightwood?’
 
 ‘One of us is,’ said the owner of that name.
 
-‘All right, Governors Both,’ returned the ghost, carefully closing the
+‘All right, Governors Both,’ returned the [[Ghost|ghost]], carefully closing the
 room door; ‘’tickler business.’
 
 Mortimer lighted the candles. They showed the visitor to be an
@@ -148,7 +148,7 @@ into his mouth, tilted it into his right cheek, as saying, ‘What do you
 think of it?’ tilted it into his left cheek, as saying, ‘What do YOU
 think of it?’ jerked it into his stomach, as saying, ‘What do YOU think
 of it?’ To conclude, smacked his lips, as if all three replied, ‘We
-think well of it.’
+think [[Well|well]] of it.’
 
 ‘Will you have another?’
 

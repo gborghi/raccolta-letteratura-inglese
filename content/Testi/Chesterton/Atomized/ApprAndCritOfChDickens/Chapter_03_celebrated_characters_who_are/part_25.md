@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 25)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 25)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -20,9 +20,9 @@ Continent, because only thus can we appreciate the really remarkable
 
 thing he did in _A Tale of Two Cities_. It is necessary to feel, first
 
-of all, the fact that to him London was the centre of the universe. He
+of all, the fact that to him [[London]] was the centre of the universe. He
 
-did not understand at all the real sense in which Paris is the capital
+did not understand at all the real sense in which [[Paris]] is the capital
 
 of Europe. He had never realised that all roads lead to Rome. He had
 
@@ -32,9 +32,9 @@ was a Londoner. Yet with everything against him he did this astonishing
 
 thing. He wrote a book about two cities, one of which he understood; the
 
-other he did not understand. And his description of the city he did not
+other he did not understand. And his description of the [[City|city]] he did not
 
-know is almost better than his description of the city he did know. This
+know is almost better than his description of the [[City|city]] he did know. This
 
 is the entrance of the unquestionable thing about Dickens; the thing
 
@@ -42,7 +42,7 @@ called genius; the thing which every one has to talk about directly and
 
 distinctly because no one knows what it is. For a plain word (as for
 
-instance the word fool) always covers an infinite mystery.
+instance the word [[Fool|fool]]) always covers an infinite mystery.
 
 
 
@@ -52,9 +52,9 @@ of Dickens. It might be said that he grew sadder as he grew older; but
 
 this would be false, for two reasons. First, a man never or hardly ever
 
-does grow sad as he grows old; on the contrary, the most melancholy
+does grow sad as he grows old; on the contrary, the most [[Melancholy|melancholy]]
 
-young lovers can be found forty years afterwards chuckling over their
+young [[lovers]] can be found forty years afterwards chuckling over their
 
 port wine. And second, Dickens never did grow old, even in a physical
 
@@ -66,7 +66,7 @@ everything. To call Dickens a victim of elderly disenchantment would be
 
 as absurd as to say the same of Keats. Such fatigue as there was, was
 
-due not to the slowing down of his blood, but rather to its unremitting
+due not to the slowing down of his [[Blood|blood]], but rather to its unremitting
 
 rapidity. He was not wearied by his age; rather he was wearied by his
 
@@ -82,9 +82,9 @@ fact is the fact of his dependence upon another of the great writers of
 
 the Victorian era. And it is in connection with this that we can best
 
-see the truth of which I have been speaking; the truth that his actual
+see the [[Truth|truth]] of which I have been speaking; the [[Truth|truth]] that his actual
 
-ignorance of France went with amazing intuitive perception of the truth
+ignorance of France went with amazing intuitive perception of the [[Truth|truth]]
 
 about it. It is here that he has most clearly the plain mark of the man
 
@@ -92,25 +92,25 @@ of genius; that he can understand what he does not understand.
 
 
 
-Dickens was inspired to the study of the French Revolution and to the
+Dickens was inspired to the study of the [[French Revolution]] and to the
 
-writing of a romance about it by the example and influence of Carlyle.
+writing of a [[Romance|romance]] about it by the example and influence of Carlyle.
 
 Thomas Carlyle undoubtedly rediscovered for Englishmen the revolution
 
 that was at the back of all their policies and reforms. It is an
 
-entertaining side joke that the French Revolution should have been
+entertaining side joke that the [[French Revolution]] should have been
 
 discovered for Britons by the only British writer who did not really
 
 believe in it. Nevertheless, the most authoritative and the most recent
 
-critics on that great renaissance agree in considering Carlyle's work
+critics on that great [[Renaissance|renaissance]] agree in considering Carlyle's work
 
 one of the most searching and detailed power. Carlyle had read a great
 
-deal about the French Revolution. Dickens had read nothing at all,
+deal about the [[French Revolution]]. Dickens had read nothing at all,
 
 except Carlyle. Carlyle was a man who collected his ideas by the careful
 
@@ -118,7 +118,7 @@ collation of documents and the verification of references. Dickens was a
 
 man who collected his ideas from loose hints in the streets, and those
 
-always the same streets; as I have said, he was the citizen of one city.
+always the same streets; as I have said, he was the citizen of one [[City|city]].
 
 Carlyle was in his way learned; Dickens was in every way ignorant.
 
@@ -128,7 +128,7 @@ historically connected with France. And yet, when all this is said and
 
 certified, Dickens is more right than Carlyle. Dickens's French
 
-Revolution is probably more like the real French Revolution than
+Revolution is probably more like the real [[French Revolution]] than
 
 Carlyle's. It is difficult, if not impossible, to state the grounds of
 
@@ -148,11 +148,11 @@ spirits. That is why he preferred prose to poetry. He could understand
 
 rhetoric; for rhetoric means singing with an object. But he could not
 
-understand lyrics; for the lyric means singing without an object; as
+understand lyrics; for the [[Lyric|lyric]] means singing without an object; as
 
-every one does when he is happy. Now for all its blood and its black
+every one does when he is happy. Now for all its [[Blood|blood]] and its black
 
-guillotines, the French Revolution was full of mere high spirits. Nay,
+guillotines, the [[French Revolution]] was full of mere high spirits. Nay,
 
 it was full of happiness. This actual lilt and levity Carlyle never
 
@@ -166,7 +166,7 @@ and quite one-sided satisfaction with which the French mob battered down
 
 the Bastille. Dickens utterly and innocently believed in certain things;
 
-he would, I think, have drawn the sword for them. Carlyle half believed
+he would, I think, have drawn the [[Sword|sword]] for them. Carlyle half believed
 
 in half a hundred things; he was at once more of a mystic and more of a
 

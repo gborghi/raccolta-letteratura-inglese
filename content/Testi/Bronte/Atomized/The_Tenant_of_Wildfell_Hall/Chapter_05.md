@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 5"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 5"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 It was about the close of the month, that, yielding at length to the
 
-urgent importunities of Rose, I accompanied her in a visit to Wildfell
+urgent importunities of [[Rose]], I accompanied her in a visit to Wildfell
 
 Hall. To our surprise, we were ushered into a room where the first
 
@@ -40,7 +40,7 @@ landscapes and figures.
 
 “I must make you welcome to my studio,” said Mrs. Graham; “there is no
 
-fire in the sitting-room to-day, and it is rather too cold to show you
+[[Fire|fire]] in the sitting-room to-day, and it is rather too cold to show you
 
 into a place with an empty grate.”
 
@@ -100,7 +100,7 @@ it Fernley Manor, Cumberland, instead of Wildfell Hall, ——shire?” I
 
 asked, alluding to the name she had traced in small characters at the
 
-bottom of the canvas.
+[[Bottom|bottom]] of the canvas.
 
 
 
@@ -114,7 +114,7 @@ moment’s pause, with a kind of desperate frankness, she replied:—
 
 “Because I have friends—acquaintances at least—in the world, from whom
 
-I desire my present abode to be concealed; and as they might see the
+I [[Desire|desire]] my present abode to be concealed; and as they might see the
 
 picture, and might possibly recognise the style in spite of the false
 
@@ -136,21 +136,21 @@ anything to change the subject.
 
 
 
-“Mamma sends all her pictures to London,” said Arthur; “and somebody
+“Mamma sends all her pictures to [[London]],” said [[arthur|Arthur]]; “and somebody
 
 sells them for her there, and sends us the money.”
 
 
 
-In looking round upon the other pieces, I remarked a pretty sketch of
+In looking round upon the other pieces, I remarked a pretty [[Sketch|sketch]] of
 
-Lindenhope from the top of the hill; another view of the old hall
+Lindenhope from the top of the [[Hill|hill]]; another view of the old hall
 
-basking in the sunny haze of a quiet summer afternoon; and a simple but
+basking in the sunny haze of a quiet [[Summer|summer]] afternoon; and a simple but
 
-striking little picture of a child brooding, with looks of silent but
+striking little picture of a [[Child|child]] brooding, with looks of silent but
 
-deep and sorrowful regret, over a handful of withered flowers, with
+deep and sorrowful regret, over a handful of withered [[Flowers|flowers]], with
 
 glimpses of dark low hills and autumnal fields behind it, and a dull
 
@@ -158,11 +158,11 @@ beclouded sky above.
 
 
 
-“You see there is a sad dearth of subjects,” observed the fair artist.
+“You see there is a sad dearth of subjects,” observed the fair [[artist]].
 
-“I took the old hall once on a moonlight night, and I suppose I must
+“I took the old hall once on a moonlight [[Night|night]], and I suppose I must
 
-take it again on a snowy winter’s day, and then again on a dark cloudy
+take it again on a snowy [[Winter|winter]]’s day, and then again on a dark cloudy
 
 evening; for I really have nothing else to paint. I have been told that
 
@@ -176,7 +176,7 @@ true?—and is it within walking distance?”
 
 short of eight miles, there and back—and over a somewhat rough,
 
-fatiguing road.”
+fatiguing [[Road|road]].”
 
 
 
@@ -184,7 +184,7 @@ fatiguing road.”
 
 
 
-I described the situation as well as I could, and was entering upon an
+I described the situation as [[Well|well]] as I could, and was entering upon an
 
 explanation of the various roads, lanes, and fields to be traversed in
 
@@ -198,9 +198,9 @@ and the left, when she checked me with,—
 
 directions before I require them. I shall not think about going till
 
-next spring; and then, perhaps, I may trouble you. At present we have
+next [[spring]]; and then, perhaps, I may trouble you. At present we have
 
-the winter before us, and—”
+the [[Winter|winter]] before us, and—”
 
 
 
@@ -214,41 +214,41 @@ shut the door behind her.
 
 Curious to see what had startled her so, I looked towards the
 
-window—for her eyes had been carelessly fixed upon it the moment
+[[Window|window]]—for her eyes had been carelessly fixed upon it the moment
 
 before—and just beheld the skirts of a man’s coat vanishing behind a
 
-large holly-bush that stood between the window and the porch.
+large holly-bush that stood between the [[Window|window]] and the porch.
 
 
 
-“It’s mamma’s friend,” said Arthur.
+“It’s mamma’s friend,” said [[arthur|Arthur]].
 
 
 
-Rose and I looked at each other.
+[[Rose]] and I looked at each other.
 
 
 
-“I don’t know what to make of her at all,” whispered Rose.
+“I don’t know what to make of her at all,” whispered [[Rose]].
 
 
 
-The child looked at her in grave surprise. She straightway began to
+The [[Child|child]] looked at her in [[Grave|grave]] surprise. She straightway began to
 
 talk to him on indifferent matters, while I amused myself with looking
 
 at the pictures. There was one in an obscure corner that I had not
 
-before observed. It was a little child, seated on the grass with its
+before observed. It was a little [[Child|child]], seated on the grass with its
 
-lap full of flowers. The tiny features and large blue eyes, smiling
+lap full of [[Flowers|flowers]]. The tiny features and large blue eyes, smiling
 
 through a shock of light brown curls, shaken over the forehead as it
 
 bent above its treasure, bore sufficient resemblance to those of the
 
-young gentleman before me to proclaim it a portrait of Arthur Graham in
+young gentleman before me to proclaim it a portrait of [[arthur|Arthur]] Graham in
 
 his early infancy.
 
@@ -266,7 +266,7 @@ same hand as the others, it was evidently some years before; for there
 
 was far more careful minuteness of detail, and less of that freshness
 
-of colouring and freedom of handling that delighted and surprised me in
+of colouring and [[Freedom|freedom]] of handling that delighted and surprised me in
 
 them. Nevertheless, I surveyed it with considerable interest. There was
 
@@ -286,15 +286,15 @@ clustering in abundant, wavy curls, trespassed too much upon the
 
 forehead, and seemed to intimate that the owner thereof was prouder of
 
-his beauty than his intellect—as, perhaps, he had reason to be; and yet
+his [[Beauty|beauty]] than his intellect—as, perhaps, he had reason to be; and yet
 
-he looked no fool.
+he looked no [[Fool|fool]].
 
 
 
 I had not had the portrait in my hands two minutes before the fair
 
-artist returned.
+[[artist]] returned.
 
 
 
@@ -304,9 +304,9 @@ abrupt departure: “I told him to wait.”
 
 
 
-“I fear it will be considered an act of impertinence,” I said “to
+“I [[Fear|fear]] it will be considered an act of impertinence,” I said “to
 
-presume to look at a picture that the artist has turned to the wall;
+presume to look at a picture that the [[artist]] has turned to the wall;
 
 but may I ask—”
 
@@ -336,15 +336,15 @@ before, and then turned to me and laughed.
 
 
 
-But I was in no humour for jesting. I carelessly turned to the window,
+But I was in no [[Humour|humour]] for jesting. I carelessly turned to the [[Window|window]],
 
-and stood looking out upon the desolate garden, leaving her to talk to
+and stood looking out upon the desolate [[Garden|garden]], leaving her to talk to
 
-Rose for a minute or two; and then, telling my sister it was time to
+[[Rose]] for a minute or two; and then, telling my sister it was [[Time|time]] to
 
 go, shook hands with the little gentleman, coolly bowed to the lady,
 
-and moved towards the door. But, having bid adieu to Rose, Mrs. Graham
+and moved towards the door. But, having bid adieu to [[Rose]], Mrs. Graham
 
 presented her hand to me, saying, with a soft voice, and by no means a
 
@@ -356,6 +356,6 @@ Markham. I’m sorry I offended you by my abruptness.”
 
 When a lady condescends to apologise, there is no keeping one’s anger,
 
-of course; so we parted good friends for once; and _this_ time I
+of course; so we parted good friends for once; and _this_ [[Time|time]] I
 
 squeezed her hand with a cordial, not a spiteful pressure.

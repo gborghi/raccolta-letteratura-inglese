@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 79 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 79 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,33 +17,33 @@ tags:
 He pressed her tenderly to his bosom, and after a minute’s pause,
 resumed:
 
-‘I have done you wrong, sir, and I ask your forgiveness--in no common
+‘I have done you wrong, sir, and I ask your [[Forgiveness|forgiveness]]--in no common
 phrase, or show of sorrow; but with earnestness and sincerity. In the
-same spirit, I acknowledge to you both that the time has been when
+same spirit, I acknowledge to you both that the [[Time|time]] has been when
 I connived at treachery and falsehood--which if I did not perpetrate
 myself, I still permitted--to rend you two asunder.’
 
 ‘You judge yourself too harshly,’ said Edward. ‘Let these things rest.’
 
 ‘They rise in judgment against me when I look back, and not now for
-the first time,’ he answered. ‘I cannot part from you without your full
-forgiveness; for busy life and I have little left in common now, and
-I have regrets enough to carry into solitude, without addition to the
+the first [[Time|time]],’ he answered. ‘I cannot part from you without your full
+[[Forgiveness|forgiveness]]; for busy life and I have little left in common now, and
+I have regrets enough to carry into [[Solitude|solitude]], without addition to the
 stock.’
 
-‘You bear a blessing from us both,’ said Emma. ‘Never mingle thoughts of
-me--of me who owe you so much love and duty--with anything but undying
+‘You bear a blessing from us both,’ said [[Emma]]. ‘Never mingle thoughts of
+me--of me who owe you so much [[Love|love]] and duty--with anything but undying
 affection and gratitude for the past, and bright hopes for the future.’
 
-‘The future,’ returned her uncle, with a melancholy smile, ‘is a bright
+‘The future,’ returned her uncle, with a [[Melancholy|melancholy]] smile, ‘is a bright
 word for you, and its image should be wreathed with cheerful hopes. Mine
 is of another kind, but it will be one of peace, and free, I trust, from
 care or passion. When you quit England I shall leave it too. There are
 cloisters abroad; and now that the two great objects of my life are set
-at rest, I know no better home. You droop at that, forgetting that I am
-growing old, and that my course is nearly run. Well, we will speak of it
+at rest, I know no better [[Home|home]]. You droop at that, forgetting that I am
+growing old, and that my course is nearly run. [[Well]], we will speak of it
 again--not once or twice, but many times; and you shall give me cheerful
-counsel, Emma.’
+counsel, [[Emma]].’
 
 ‘And you will take it?’ asked his niece.
 
@@ -53,22 +53,22 @@ much together. It is better and more fitting that the circumstances
 attendant on the past, which wrought your separation, and sowed between
 you suspicion and distrust, should not be entered on by me.’
 
-‘Much, much better,’ whispered Emma.
+‘Much, much better,’ whispered [[Emma]].
 
 ‘I avow my share in them,’ said Mr Haredale, ‘though I held it, at the
-time, in detestation. Let no man turn aside, ever so slightly, from the
-broad path of honour, on the plausible pretence that he is justified by
+[[Time|time]], in detestation. Let no man turn aside, ever so slightly, from the
+broad path of [[Honour|honour]], on the plausible pretence that he is justified by
 the goodness of his end. All good ends can be worked out by good means.
 Those that cannot, are bad; and may be counted so at once, and left
-alone.’
+[[Alone|alone]].’
 
 He looked from her to Edward, and said in a gentler tone:
 
 ‘In goods and fortune you are now nearly equal. I have been her faithful
 steward, and to that remnant of a richer property which my brother left
-her, I desire to add, in token of my love, a poor pittance, scarcely
+her, I [[Desire|desire]] to add, in token of my [[Love|love]], a poor pittance, scarcely
 worth the mention, for which I have no longer any need. I am glad you go
-abroad. Let our ill-fated house remain the ruin it is. When you return,
+abroad. Let our ill-fated [[house]] remain the ruin it is. When you return,
 after a few thriving years, you will command a better, and a more
 fortunate one. We are friends?’
 
@@ -77,7 +77,7 @@ Edward took his extended hand, and grasped it heartily.
 ‘You are neither slow nor cold in your response,’ said Mr Haredale,
 doing the like by him, ‘and when I look upon you now, and know you, I
 feel that I would choose you for her husband. Her father had a generous
-nature, and you would have pleased him well. I give her to you in his
+[[Nature|nature]], and you would have pleased him [[Well|well]]. I give her to you in his
 name, and with his blessing. If the world and I part in this act, we
 part on happier terms than we have lived for many a day.’
 
@@ -105,7 +105,7 @@ and furthermore thanked Heaven with great fervour and heartiness, the
 good lady, according to the custom of matrons, on all occasions of
 excitement, fainted away directly.
 
-They ran to the window, drew up the sash, and looked into the crowded
+They ran to the [[Window|window]], drew up the sash, and looked into the crowded
 street. Among a dense mob of persons, of whom not one was for an instant
 still, the locksmith’s ruddy face and burly form could be descried,
 beating about as though he was struggling with a rough sea. Now, he was
@@ -116,20 +116,20 @@ outstretched hands of half a hundred men, while the whole tumultuous
 concourse stretched their throats, and cheered with all their might.
 Though he was really in a fair way to be torn to pieces in the general
 enthusiasm, the locksmith, nothing discomposed, echoed their shouts till
-he was as hoarse as they, and in a glow of joy and right good-humour,
-waved his hat until the daylight shone between its brim and crown.
+he was as hoarse as they, and in a glow of joy and right good-[[Humour|humour]],
+waved his hat until the daylight shone between its brim and [[Crown|crown]].
 
 But in all the bandyings from hand to hand, and strivings to and fro,
 and sweepings here and there, which--saving that he looked more jolly
 and more radiant after every struggle--troubled his peace of mind no
-more than if he had been a straw upon the water’s surface, he never once
+more than if he had been a straw upon the [[Water|water]]’s surface, he never once
 released his firm grasp of an arm, drawn tight through his. He sometimes
 turned to clap this friend upon the back, or whisper in his ear a word
 of staunch encouragement, or cheer him with a smile; but his great care
 was to shield him from the pressure, and force a passage for him to the
 Golden Key. Passive and timid, scared, pale, and wondering, and gazing
 at the throng as if he were newly risen from the dead, and felt himself
-a ghost among the living, Barnaby--not Barnaby in the spirit, but in
-flesh and blood, with pulses, sinews, nerves, and beating heart, and
+a [[Ghost|ghost]] among the living, Barnaby--not Barnaby in the spirit, but in
+flesh and [[Blood|blood]], with pulses, sinews, nerves, and beating heart, and
 strong affections--clung to his stout old friend, and followed where he
 led.

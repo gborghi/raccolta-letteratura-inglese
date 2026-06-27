@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 11 (part 3)"
+title: "[[thursday]] — Chapter 11 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The horse and cart took a sharp turn round a clump of elms, and the horse's
+The [[Horse|horse]] and cart took a sharp turn round a clump of elms, and the [[Horse|horse]]'s
 nose nearly struck the face of an old gentleman who was sitting on the benches
 outside the little cafe of "Le Soleil d'Or." The peasant grunted an apology,
 and got down from his seat.  The others also descended one by one, and spoke
@@ -22,12 +22,12 @@ to the old gentleman with fragmentary phrases of courtesy, for it was quite
 evident from his expansive manner that he was the owner of the little tavern.
 
 He was a white-haired, apple-faced old boy, with sleepy eyes
-and a grey moustache; stout, sedentary, and very innocent,
+and a grey moustache; stout, sedentary, and very [[Innocent|innocent]],
 of a type that may often be found in France, but is still commoner
-in Catholic Germany.  Everything about him, his pipe, his pot of beer,
-his flowers, and his beehive, suggested an ancestral peace;
+in Catholic [[Germany]].  Everything about him, his pipe, his pot of beer,
+his [[Flowers|flowers]], and his beehive, suggested an ancestral peace;
 only when his visitors looked up as they entered the inn-parlour,
-they saw the sword upon the wall.
+they saw the [[Sword|sword]] upon the wall.
 
 The Colonel, who greeted the innkeeper as an old friend, passed rapidly
 into the inn-parlour, and sat down ordering some ritual refreshment.
@@ -64,8 +64,8 @@ Syme nodded gravely; then he said abruptly--
 "And your other reason for coming here?"
 
 "My other reason for coming here," said Ducroix soberly,
-"is that it is just as well to see a good man or two when one
-is possibly near to death."
+"is that it is just as [[Well|well]] to see a good man or two when one
+is possibly near to [[Death|death]]."
 
 Syme looked up at the wall, and saw a crudely-painted and pathetic
 religious picture.  Then he said--
@@ -75,7 +75,7 @@ religious picture.  Then he said--
 
 "Yes," answered Ducroix, "you may be quite certain that I gave orders
 the moment I came in.  Those enemies of yours gave no impression of hurry,
-but they were really moving wonderfully fast, like a well-trained army.
+but they were really moving wonderfully fast, like a [[Well|well]]-trained army.
 I had no idea that the anarchists had so much discipline.
 You have not a moment to waste."
 
@@ -84,12 +84,12 @@ ambling into the room, and announced that six horses were saddled outside.
 
 By Ducroix's advice the five others equipped themselves with some portable
 form of food and wine, and keeping their duelling swords as the only
-weapons available, they clattered away down the steep, white road.
+weapons available, they clattered away down the steep, white [[Road|road]].
 The two servants, who had carried the Marquis's luggage when he was
 a marquis, were left behind to drink at the cafe by common consent,
 and not at all against their own inclination.
 
-By this time the afternoon sun was slanting westward, and by its rays
+By this [[Time|time]] the afternoon sun was slanting westward, and by its rays
 Syme could see the sturdy figure of the old innkeeper growing smaller
 and smaller, but still standing and looking after them quite silently,
 the sunshine in his silver hair.  Syme had a fixed, superstitious fancy,
@@ -101,5 +101,5 @@ He was still looking at this dwindling figure, which stood as a mere grey
 blot touched with a white flame against the great green wall of the steep
 down behind him.  And as he stared over the top of the down behind
 the innkeeper, there appeared an army of black-clad and marching men.
-They seemed to hang above the good man and his house like a black cloud
+They seemed to hang above the good man and his [[house]] like a black cloud
 of locusts.  The horses had been saddled none too soon.

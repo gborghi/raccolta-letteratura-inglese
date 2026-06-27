@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 7)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 half-witted servant taking a message. If they had the power to put black
 
-and white posts round the grave of Virgil, or dig up Dante to see if he had
+and white posts round the [[Grave|grave]] of Virgil, or dig up [[Dante]] to see if he had
 
 yellow hair, the mere _doing_ of it which for some of us would be the most
 
@@ -46,13 +46,13 @@ they will find such restrictions chilling and irksome. They will ask some
 
 professor on what principle they are discarding it. But if they have
 
-promised to shoot the cross off a church spire, or empty the inkpot into
+promised to shoot the [[Cross|cross]] off a church spire, or empty the inkpot into
 
-somebody's beer, or bring home somebody's ears in their pocket for the
+somebody's beer, or bring [[Home|home]] somebody's ears in their pocket for the
 
 pleasure of their families, I think in these cases they would feel a sort
 
-of a shadow of what civilised men feel in the fulfilment of a promise, as
+of a [[Shadow|shadow]] of what civilised men feel in the fulfilment of a promise, as
 
 distinct from the making of it. And, in consideration of such cases, I
 
@@ -76,7 +76,7 @@ have been ashamed to bribe a new enemy like England to betray an old enemy
 
 like France. I thought a man would have been ashamed to punish the pure
 
-self-defence of folk so offenceless as the Belgians. These hopes must go
+[[Self|self]]-defence of folk so offenceless as the Belgians. These hopes must go
 
 from us, my friend. There is only one thing of which the Prussian would be
 
@@ -106,11 +106,11 @@ suppose, the German. Anyhow, it is true that there is a recognisable and
 
 real thing which might be called fidelity (or perhaps monotony) which
 
-exists in Germans in about the same style as in dogs and niggers. The North
+exists in Germans in about the same style as in [[dogs]] and niggers. The North
 
 Teuton really has in this respect the simplicities of the savage and the
 
-lower animals; that he has no reactions. He does not laugh at himself. He
+lower [[Animals|animals]]; that he has no reactions. He does not laugh at himself. He
 
 does not want to kick himself. He does not, like most of us, repent--or
 
@@ -136,11 +136,11 @@ braces him as it does us. Good luck never frightens him as it does us. It
 
 can be seen in what the French call Chauvinism and we call Jingoism. For us
 
-it is fireworks; for him it is daylight. On Mafeking Night, celebrating a
+it is fireworks; for him it is daylight. On Mafeking [[Night]], celebrating a
 
-small but picturesque success against the Boers, nearly everybody in London
+small but picturesque [[success]] against the Boers, nearly everybody in [[London]]
 
-came out waving little flags. Nearly everybody in London is now heartily
+came out waving little flags. Nearly everybody in [[London]] is now heartily
 
 ashamed of it. But it would never occur to the Prussians not to ride their
 
@@ -148,25 +148,25 @@ high horses with the freshest insolence for the far-off victory of Sedan;
 
 though on that very anniversary the star of their fate had turned scornful
 
-in the sky, and Von Kluck was in retreat from Paris. Above all, the
+in the sky, and Von Kluck was in retreat from [[Paris]]. Above all, the
 
 Prussian does not feel annoyed, as I do, when foreigners praise his country
 
 for all the wrong reasons. The Prussian will allow you to praise him for
 
-any reasons, for any length of time, for any eternity of folly; he is there
+any reasons, for any length of [[Time|time]], for any [[Eternity|eternity]] of folly; he is there
 
 to be praised. Probably he is proud of this; probably he thinks he has a
 
-good digestion, because the poison of praise does not make him sick. He
+good digestion, because the [[Poison|poison]] of praise does not make him sick. He
 
-thinks the absence of such doubt, or self-knowledge, makes for composure,
+thinks the absence of such [[Doubt|doubt]], or [[Self-Knowledge|self-knowledge]], makes for composure,
 
 grandeur, a colossal calm, a superior race--in short, the whole claim of
 
-the Teutons to be the highest spiritual product of Nature and Evolution.
+the Teutons to be the highest spiritual product of [[Nature]] and Evolution.
 
-But as I have noticed a calm unity even more complete, not only in dogs and
+But as I have noticed a calm [[unity]] even more complete, not only in [[dogs]] and
 
 negroes, but in slugs, slow-worms, mangoldwurzels, moss, mud and bits of
 

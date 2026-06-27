@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 36 (part 4)"
+title: "[[Shirley]] — Chapter 36 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -160,7 +160,7 @@ you are painfully conscious.'
 
 
 
-"'Of course; that will sting you. You are sore about your poverty; you
+"'Of course; that will sting you. You are sore about your [[Poverty|poverty]]; you
 
 brood over that.'
 
@@ -174,9 +174,9 @@ master my heart?'
 
 "'Exactly. You have a habit of calling yourself plain. You are sensitive
 
-about the cut of your features because they are not quite on an Apollo
+about the cut of your features because they are not quite on an [[Apollo]]
 
-pattern. You abase them more than is needful, in the faint hope that
+pattern. You abase them more than is needful, in the faint [[Hope|hope]] that
 
 others may say a word in their behalf--which won't happen. Your face is
 
@@ -190,7 +190,7 @@ be found therein.'
 
 
 
-"'It looks like a god of Egypt--a great sand-buried stone head; or
+"'It looks like a god of [[Egypt]]--a great sand-buried stone head; or
 
 rather I will compare it to nothing so lofty. It looks like Tartar. You
 
@@ -200,7 +200,7 @@ like a dog.'
 
 
 
-"'Tartar is your dear companion. In summer, when you rise early, and
+"'Tartar is your dear companion. In [[Summer|summer]], when you rise early, and
 
 run out into the fields to wet your feet with the dew, and freshen your
 
@@ -208,15 +208,15 @@ cheek and uncurl your hair with the breeze, you always call him to
 
 follow you. You call him sometimes with a whistle that you learned from
 
-me. In the solitude of your wood, when you think nobody but Tartar is
+me. In the [[Solitude|solitude]] of your wood, when you think nobody but Tartar is
 
 listening, you whistle the very tunes you imitated from my lips, or sing
 
-the very songs you have caught up by ear from my voice. I do not ask
+the very [[songs]] you have caught up by ear from my voice. I do not ask
 
-whence flows the feeling which you pour into these songs, for I know it
+whence flows the feeling which you pour into these [[songs]], for I know it
 
-flows out of your heart, Miss Keeldar. In the winter evenings Tartar
+flows out of your heart, Miss Keeldar. In the [[Winter|winter]] evenings Tartar
 
 lies at your feet. You suffer him to rest his head on your perfumed lap;
 
@@ -224,7 +224,7 @@ you let him couch on the borders of your satin raiment. His rough hide
 
 is familiar with the contact of your hand. I once saw you kiss him on
 
-that snow-white beauty spot which stars his broad forehead. It is
+that [[Snow|snow]]-white [[Beauty|beauty]] spot which [[Stars|stars]] his broad forehead. It is
 
 dangerous to say I am like Tartar; it suggests to me a claim to be
 
@@ -234,7 +234,7 @@ treated like Tartar.'
 
 "'Perhaps, sir, you can extort as much from your penniless and
 
-friendless young orphan girl, when you find her.'
+friendless young [[Orphan|orphan]] girl, when you find her.'
 
 
 
@@ -242,7 +242,7 @@ friendless young orphan girl, when you find her.'
 
 teach afterwards; to break in, and then to fondle. To lift the destitute
 
-proud thing out of poverty; to establish power over and then to be
+proud thing out of [[Poverty|poverty]]; to establish power over and then to be
 
 indulgent to the capricious moods that never were influenced and never
 
@@ -256,9 +256,9 @@ mother of about a dozen children, only now and then lending little Louis
 
 a cordial cuff by way of paying the interest of the vast debt she owes
 
-his father. Oh' (I went on), 'my orphan girl would give me many a kiss;
+his father. Oh' (I went on), 'my [[Orphan|orphan]] girl would give me many a kiss;
 
-she would watch on the threshold for my coming home of an evening; she
+she would watch on the threshold for my coming [[Home|home]] of an evening; she
 
 would run into my arms; she would keep my hearth as bright as she would
 

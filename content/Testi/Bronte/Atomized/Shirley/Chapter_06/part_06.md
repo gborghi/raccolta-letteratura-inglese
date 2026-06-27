@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 6 (part 6)"
+title: "[[Shirley]] — Chapter 6 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,9 +32,9 @@ but whose ear these two strong words caught with a tweak.
 
 "Never mind her, sister; let her talk. Now just let her say anything she
 
-pleases to-night. She likes to come down hard upon your brother
+pleases to-[[Night|night]]. She likes to come down hard upon your brother
 
-sometimes. It amuses me, so let her alone."
+sometimes. It amuses me, so let her [[Alone|alone]]."
 
 
 
@@ -44,7 +44,7 @@ returned with a book.
 
 
 
-"Here's Shakespeare," she said, "and there's 'Coriolanus.' Now, read,
+"Here's Shakespeare," she said, "and there's '[[Coriolanus]].' Now, read,
 
 and discover by the feelings the reading will give you at once how low
 
@@ -84,7 +84,7 @@ are not going to think it a sign of wisdom to refuse to admire?"
 
 "If you do, Robert, I'll take Shakespeare away; and I'll shrivel up
 
-within myself, and put on my bonnet and go home."
+within myself, and put on my bonnet and go [[Home|home]]."
 
 
 
@@ -96,15 +96,15 @@ within myself, and put on my bonnet and go home."
 
 the gentleman of a family reads, the ladies should always
 
-sew.--Caroline, dear child, take your embroidery. You may get three
+sew.--Caroline, dear [[Child|child]], take your embroidery. You may get three
 
-sprigs done to-night."
+sprigs done to-[[Night|night]]."
 
 
 
 Caroline looked dismayed. "I can't see by lamp-light; my eyes are tired,
 
-and I can't do two things well at once. If I sew, I cannot listen; if I
+and I can't do two things [[Well|well]] at once. If I sew, I cannot listen; if I
 
 listen, I cannot sew."
 
@@ -130,13 +130,13 @@ chair, and thus began to read.
 
 
 
-The very first scene in "Coriolanus" came with smart relish to his
+The very first scene in "[[Coriolanus]]" came with smart relish to his
 
 intellectual palate, and still as he read he warmed. He delivered the
 
 haughty speech of Caius Marcius to the starving citizens with unction;
 
-he did not say he thought his irrational pride right, but he seemed to
+he did not say he thought his irrational [[Pride|pride]] right, but he seemed to
 
 feel it so. Caroline looked up at him with a singular smile.
 
@@ -152,21 +152,21 @@ portions did not rouse him much; he said all that was out of date, or
 
 should be; the spirit displayed was barbarous; yet the encounter
 
-single-handed between Marcius and Tullus Aufidius he delighted in. As he
+single-handed between Marcius and Tullus [[Aufidius]] he delighted in. As he
 
 advanced, he forgot to criticise; it was evident he appreciated the
 
-power, the truth of each portion; and, stepping out of the narrow line
+power, the [[Truth|truth]] of each portion; and, stepping out of the narrow line
 
 of private prejudices, began to revel in the large picture of human
 
-nature, to feel the reality stamped upon the characters who were
+[[Nature|nature]], to feel the reality stamped upon the characters who were
 
 speaking from that page before him.
 
 
 
-He did not read the comic scenes well; and Caroline, taking the book out
+He did not read the comic scenes [[Well|well]]; and Caroline, taking the book out
 
 of his hand, read these parts for him. From her he seemed to enjoy them,
 
@@ -178,7 +178,7 @@ and for that brief moment only. It may be remarked, in passing, that the
 
 general character of her conversation that evening, whether serious or
 
-sprightly, grave or gay, was as of something untaught, unstudied,
+sprightly, [[Grave|grave]] or gay, was as of something untaught, unstudied,
 
 intuitive, fitful--when once gone, no more to be reproduced as it had
 
@@ -190,19 +190,19 @@ glittering ripple varying the flow of a rivulet.
 
 
 
-Coriolanus in glory, Coriolanus in disaster, Coriolanus banished,
+[[Coriolanus]] in glory, [[Coriolanus]] in disaster, [[Coriolanus]] banished,
 
 followed like giant shades one after the other. Before the vision of the
 
 banished man Moore's spirit seemed to pause. He stood on the hearth of
 
-Aufidius's hall, facing the image of greatness fallen, but greater than
+[[Aufidius]]'s hall, facing the image of [[Greatness|greatness]] fallen, but greater than
 
 ever in that low estate. He saw "the grim appearance," the dark face
 
 "bearing command in it," "the noble vessel with its tackle torn." With
 
-the revenge of Caius Marcius, Moore perfectly sympathized; he was not
+the [[Revenge|revenge]] of Caius Marcius, Moore perfectly sympathized; he was not
 
 scandalized by it; and again Caroline whispered, "There I see another
 
@@ -214,11 +214,11 @@ The march on Rome, the mother's supplication, the long resistance, the
 
 final yielding of bad passions to good, which ever must be the case in a
 
-nature worthy the epithet of noble, the rage of Aufidius at what he
+[[Nature|nature]] worthy the epithet of noble, the rage of [[Aufidius]] at what he
 
-considered his ally's weakness, the death of Coriolanus, the final
+considered his ally's weakness, the [[Death|death]] of [[Coriolanus]], the final
 
-sorrow of his great enemy--all scenes made of condensed truth and
+sorrow of his great enemy--all scenes made of condensed [[Truth|truth]] and
 
 strength--came on in succession and carried with them in their deep,
 
@@ -236,7 +236,7 @@ her cousin had closed the book.
 
 
 
-"And have you felt anything in Coriolanus like you?"
+"And have you felt anything in [[Coriolanus]] like you?"
 
 
 
@@ -244,7 +244,7 @@ her cousin had closed the book.
 
 
 
-"Was he not faulty as well as great?"
+"Was he not faulty as [[Well|well]] as great?"
 
 
 
@@ -266,7 +266,7 @@ caused him to be banished by his countrymen?"
 
 
 
-                      'Whether was it pride,
+                      'Whether was it [[Pride|pride]],
 
     Which out of daily fortune ever taints
 
@@ -274,7 +274,7 @@ caused him to be banished by his countrymen?"
 
     To fail in the disposing of those chances
 
-    Which he was lord of? or whether nature,
+    Which he was lord of? or whether [[Nature|nature]],
 
     Not to be other than one thing, not moving
 
@@ -286,7 +286,7 @@ caused him to be banished by his countrymen?"
 
 
 
-"Well, answer yourself, Sphinx."
+"[[Well]], answer yourself, Sphinx."
 
 
 

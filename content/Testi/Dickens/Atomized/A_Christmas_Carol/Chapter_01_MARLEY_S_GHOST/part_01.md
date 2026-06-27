@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 1: MARLEY'S GHOST (part 1)"
+title: "A Christmas [[carol|Carol]] — Stave 1: MARLEY'S [[Ghost|GHOST]] (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-STAVE I:  MARLEY'S GHOST
+STAVE I:  MARLEY'S [[Ghost|GHOST]]
 
-MARLEY was dead: to begin with. There is no doubt
+MARLEY was dead: to begin with. There is no [[Doubt|doubt]]
 whatever about that. The register of his burial was
 signed by the clergyman, the clerk, the undertaker,
 and the chief mourner. Scrooge signed it: and
@@ -45,13 +45,13 @@ man of business on the very day of the funeral,
 and solemnised it with an undoubted bargain.
 
 The mention of Marley's funeral brings me back to
-the point I started from. There is no doubt that Marley
+the point I started from. There is no [[Doubt|doubt]] that Marley
 was dead. This must be distinctly understood, or
 nothing wonderful can come of the story I am going
 to relate. If we were not perfectly convinced that
-Hamlet's Father died before the play began, there
+[[Hamlet]]'s Father died before the play began, there
 would be nothing more remarkable in his taking a
-stroll at night, in an easterly wind, upon his own ramparts,
+stroll at [[Night|night]], in an easterly [[Wind|wind]], upon his own ramparts,
 than there would be in any other middle-aged
 gentleman rashly turning out after dark in a breezy
 spot--say Saint Paul's Churchyard for instance--
@@ -68,8 +68,8 @@ same to him.
 Oh! But he was a tight-fisted hand at the grind-stone,
 Scrooge! a squeezing, wrenching, grasping, scraping,
 clutching, covetous, old sinner! Hard and sharp as flint,
-from which no steel had ever struck out generous fire;
-secret, and self-contained, and solitary as an oyster. The
+from which no steel had ever struck out generous [[Fire|fire]];
+secret, and [[Self|self]]-contained, and solitary as an oyster. The
 cold within him froze his old features, nipped his pointed
 nose, shrivelled his cheek, stiffened his gait; made his
 eyes red, his thin lips blue; and spoke out shrewdly in his
@@ -80,11 +80,11 @@ the dog-days; and didn't thaw it one degree at Christmas.
 
 External heat and cold had little influence on
 Scrooge. No warmth could warm, no wintry weather
-chill him. No wind that blew was bitterer than he,
-no falling snow was more intent upon its purpose, no
+chill him. No [[Wind|wind]] that blew was bitterer than he,
+no falling [[Snow|snow]] was more intent upon its purpose, no
 pelting rain less open to entreaty. Foul weather didn't
 know where to have him. The heaviest rain, and
-snow, and hail, and sleet, could boast of the advantage
+[[Snow|snow]], and hail, and sleet, could boast of the advantage
 over him in only one respect. They often "came down"
 handsomely, and Scrooge never did.
 
@@ -92,9 +92,9 @@ Nobody ever stopped him in the street to say, with
 gladsome looks, "My dear Scrooge, how are you?
 When will you come to see me?" No beggars implored
 him to bestow a trifle, no children asked him
-what it was o'clock, no man or woman ever once in all
+what it was o'[[Clock|clock]], no man or woman ever once in all
 his life inquired the way to such and such a place, of
-Scrooge. Even the blind men's dogs appeared to
+Scrooge. Even the blind men's [[dogs]] appeared to
 know him; and when they saw him coming on, would
 tug their owners into doorways and up courts; and
 then would wag their tails as though they said, "No
@@ -105,36 +105,36 @@ he liked. To edge his way along the crowded paths
 of life, warning all human sympathy to keep its distance,
 was what the knowing ones call "nuts" to Scrooge.
 
-Once upon a time--of all the good days in the year,
+Once upon a [[Time|time]]--of all the good days in the year,
 on Christmas Eve--old Scrooge sat busy in his
-counting-house. It was cold, bleak, biting weather: foggy
-withal: and he could hear the people in the court outside,
+counting-[[house]]. It was cold, bleak, biting weather: foggy
+withal: and he could hear the people in the [[Court|court]] outside,
 go wheezing up and down, beating their hands
 upon their breasts, and stamping their feet upon the
-pavement stones to warm them. The city clocks had
+pavement stones to warm them. The [[City|city]] clocks had
 only just gone three, but it was quite dark already--
 it had not been light all day--and candles were flaring
 in the windows of the neighbouring offices, like
 ruddy smears upon the palpable brown air. The fog
 came pouring in at every chink and keyhole, and was
-so dense without, that although the court was of the
+so dense without, that although the [[Court|court]] was of the
 narrowest, the houses opposite were mere phantoms.
 To see the dingy cloud come drooping down, obscuring
-everything, one might have thought that Nature
+everything, one might have thought that [[Nature]]
 lived hard by, and was brewing on a large scale.
 
-The door of Scrooge's counting-house was open
+The door of Scrooge's counting-[[house]] was open
 that he might keep his eye upon his clerk, who in a
 dismal little cell beyond, a sort of tank, was copying
-letters. Scrooge had a very small fire, but the clerk's
-fire was so very much smaller that it looked like one
+letters. Scrooge had a very small [[Fire|fire]], but the clerk's
+[[Fire|fire]] was so very much smaller that it looked like one
 coal. But he couldn't replenish it, for Scrooge kept
 the coal-box in his own room; and so surely as the
 clerk came in with the shovel, the master predicted
 that it would be necessary for them to part. Wherefore
 the clerk put on his white comforter, and tried to
 warm himself at the candle; in which effort, not being
-a man of a strong imagination, he failed.
+a man of a strong [[Imagination|imagination]], he failed.
 
 "A merry Christmas, uncle! God save you!" cried
 a cheerful voice. It was the voice of Scrooge's
@@ -144,7 +144,7 @@ the first intimation he had of his approach.
 "Bah!" said Scrooge, "Humbug!"
 
 He had so heated himself with rapid walking in the
-fog and frost, this nephew of Scrooge's, that he was
+fog and [[Frost|frost]], this nephew of Scrooge's, that he was
 all in a glow; his face was ruddy and handsome; his
 eyes sparkled, and his breath smoked again.
 

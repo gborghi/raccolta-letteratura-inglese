@@ -16,7 +16,7 @@ tags:
 
 For instance, I am writing these words in a country which
 many of my countrymen regard as utterly crushed by a system
-destructive of every liberty.  There is no doubt that Italy
+destructive of every liberty.  There is no [[Doubt|doubt]] that [[Italy]]
 has restrained the liberty of the Press; it can easily be
 argued that it has restrained the liberty of the people.
 But it is quite certain that the people enjoy, and take for granted,
@@ -39,23 +39,23 @@ If the thousand and one religions make a case against religion,
 then the thousand and one liberties make a case against liberty.
 And I am very much afraid that, in the present mood of mankind,
 that case may carry weight.  It will be very useful to the monopolist,
-or modern tyrant, who carries most weight in the modern world;
-and when he has taken away all English freedom from the Englishman
-and all Italian freedom from the Italian, he will smile broadly
+or modern [[Tyrant|tyrant]], who carries most weight in the modern world;
+and when he has taken away all English [[Freedom|freedom]] from the Englishman
+and all Italian [[Freedom|freedom]] from the Italian, he will smile broadly
 and say that, after all, men have never agreed about the definition
 of being free.
 
-I am so paradoxical as to think that there is a real theory of freedom.
-Perhaps I may have a shot at expounding it in another essay.
+I am so paradoxical as to think that there is a real theory of [[Freedom|freedom]].
+Perhaps I may have a shot at expounding it in another [[Essay|essay]].
 But the theory is bound to be rather theoretical; and the modern world,
 having tried in vain to be thoughtful, has fallen back on the abject
 alternative of being practical.  And it looks to me as if liberty
 would suffer in that practical age much more than religion suffered
-in the age of the French Revolution.  It can easily be derided,
+in the age of the [[French Revolution]].  It can easily be derided,
 quite as successfully as Victorian decorum or the legend of Mrs. Grundy.
 But just as there are other kinds of decorum besides Victorian decorum,
 and yet a sense of dignity and decency behind them all, so there can
-be other kinds of freedom besides that of the free-born Englishman,
+be other kinds of [[Freedom|freedom]] besides that of the free-born Englishman,
 and yet leave an ultimate significance in the ideal of being free.
 Broadly, I should say that the commonwealth is healthy in which
 all things are not common, but some things, in the exact sense
@@ -109,21 +109,21 @@ inappropriate that, in the division of mankind, the goats were on
 the wrong side of the judgment seat.
 
 But the fallacy in such a fashion is concerned with a certain
-ultimate common sense about mankind.  The cult of nakedness,
+ultimate common sense about mankind.  The cult of [[Nakedness|nakedness]],
 which used to be called the Adamite Heresy, does, in fact,
 reveal its falsity at the beginning, even in the merely
 material aspect.  Man is not independent of artificial things,
-even in the most natural sense.  Nakedness is not even practical,
+even in the most natural sense.  [[Nakedness]] is not even practical,
 except on selected occasions that are entirely artificial.
 Even the physical conditions of the world bear witness to something
 in man that is strictly to be called metaphysical, that is unique
 and detached and raised above the obvious physical order.
 It is not native to man to go without clothes, unless it is native
-to man to die of double pneumonia in about a month.  He cannot do it
+to man to die of [[Double|double]] pneumonia in about a month.  He cannot do it
 at all through the greater part of the year, or over the greater part
 of the globe.  And the very fact that he has been left, as it were,
-without any aids to survival except what we call artificial aids,
+without any aids to [[Survival|survival]] except what we call artificial aids,
 is a proof that in his case they can hardly even be called artificial.
-It is not a question so much of artificiality which departs from nature,
-but rather of art, which is the essence of human nature; art, which is
-almost the nature of man.
+It is not a question so much of artificiality which departs from [[Nature|nature]],
+but rather of art, which is the essence of human [[Nature|nature]]; art, which is
+almost the [[Nature|nature]] of man.

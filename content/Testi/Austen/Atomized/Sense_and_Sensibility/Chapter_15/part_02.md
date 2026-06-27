@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 15 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 15 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-persuaded that Mrs. Smith suspects his regard for Marianne, disapproves
+persuaded that Mrs. [[smith|Smith]] suspects his regard for Marianne, disapproves
 
 of it, (perhaps because she has other views for him,) and on that
 
@@ -50,7 +50,7 @@ Oh, Elinor, how incomprehensible are your feelings! You had rather take
 
 evil upon credit than good. You had rather look out for misery for
 
-Marianne, and guilt for poor Willoughby, than an apology for the
+Marianne, and [[Guilt|guilt]] for poor Willoughby, than an apology for the
 
 latter. You are resolved to think him blameable, because he took leave
 
@@ -62,7 +62,7 @@ recent disappointment? Are no probabilities to be accepted, merely
 
 because they are not certainties? Is nothing due to the man whom we
 
-have all such reason to love, and no reason in the world to think ill
+have all such reason to [[Love|love]], and no reason in the world to think ill
 
 of? To the possibility of motives unanswerable in themselves, though
 
@@ -76,13 +76,13 @@ him of?”
 
 inevitable consequence of such an alteration as we just witnessed in
 
-him. There is great truth, however, in what you have now urged of the
+him. There is great [[Truth|truth]], however, in what you have now urged of the
 
 allowances which ought to be made for him, and it is my wish to be
 
-candid in my judgment of every body. Willoughby may undoubtedly have
+candid in my judgment of every [[Body|body]]. Willoughby may undoubtedly have
 
-very sufficient reasons for his conduct, and I will hope that he has.
+very sufficient reasons for his conduct, and I will [[Hope|hope]] that he has.
 
 But it would have been more like Willoughby to acknowledge them at
 
@@ -102,7 +102,7 @@ have said in his defence?—I am happy—and he is acquitted.”
 
 “Not entirely. It may be proper to conceal their engagement (if they
 
-_are_ engaged) from Mrs. Smith—and if that is the case, it must be
+_are_ engaged) from Mrs. [[smith|Smith]]—and if that is the case, it must be
 
 highly expedient for Willoughby to be but little in Devonshire at
 
@@ -110,7 +110,7 @@ present. But this is no excuse for their concealing it from us.”
 
 
 
-“Concealing it from us! my dear child, do you accuse Willoughby and
+“Concealing it from us! my dear [[Child|child]], do you accuse Willoughby and
 
 Marianne of concealment? This is strange indeed, when your eyes have
 
@@ -146,11 +146,11 @@ Have we not perfectly understood each other? Has not my consent been
 
 daily asked by his looks, his manner, his attentive and affectionate
 
-respect? My Elinor, is it possible to doubt their engagement? How could
+respect? My Elinor, is it possible to [[Doubt|doubt]] their engagement? How could
 
 such a thought occur to you? How is it to be supposed that Willoughby,
 
-persuaded as he must be of your sister’s love, should leave her, and
+persuaded as he must be of your sister’s [[Love|love]], should leave her, and
 
 leave her perhaps for months, without telling her of his
 
@@ -162,7 +162,7 @@ confidence?”
 
 “I confess,” replied Elinor, “that every circumstance except _one_ is
 
-in favour of their engagement; but that _one_ is the total silence of
+in favour of their engagement; but that _one_ is the total [[Silence|silence]] of
 
 both on the subject, and with me it almost outweighs every other.”
 
@@ -170,17 +170,17 @@ both on the subject, and with me it almost outweighs every other.”
 
 “How strange this is! You must think wretchedly indeed of Willoughby,
 
-if, after all that has openly passed between them, you can doubt the
+if, after all that has openly passed between them, you can [[Doubt|doubt]] the
 
-nature of the terms on which they are together. Has he been acting a
+[[Nature|nature]] of the terms on which they are together. Has he been acting a
 
-part in his behaviour to your sister all this time? Do you suppose him
+part in his behaviour to your sister all this [[Time|time]]? Do you suppose him
 
 really indifferent to her?”
 
 
 
-“No, I cannot think that. He must and does love her I am sure.”
+“No, I cannot think that. He must and does [[Love|love]] her I am sure.”
 
 
 
@@ -198,7 +198,7 @@ matter as certain. I have had my doubts, I confess; but they are
 
 fainter than they were, and they may soon be entirely done away. If we
 
-find they correspond, every fear of mine will be removed.”
+find they correspond, every [[Fear|fear]] of mine will be removed.”
 
 
 
@@ -208,21 +208,21 @@ would suppose they were going to be married. Ungracious girl! But _I_
 
 require no such proof. Nothing in my opinion has ever passed to justify
 
-doubt; no secrecy has been attempted; all has been uniformly open and
+[[Doubt|doubt]]; no secrecy has been attempted; all has been uniformly open and
 
-unreserved. You cannot doubt your sister’s wishes. It must be
+unreserved. You cannot [[Doubt|doubt]] your sister’s wishes. It must be
 
 Willoughby therefore whom you suspect. But why? Is he not a man of
 
-honour and feeling? Has there been any inconsistency on his side to
+[[Honour|honour]] and feeling? Has there been any inconsistency on his side to
 
 create alarm? can he be deceitful?”
 
 
 
-“I hope not, I believe not,” cried Elinor. “I love Willoughby,
+“I [[Hope|hope]] not, I believe not,” cried Elinor. “I [[Love|love]] Willoughby,
 
-sincerely love him; and suspicion of his integrity cannot be more
+sincerely [[Love|love]] him; and suspicion of his integrity cannot be more
 
 painful to yourself than to me. It has been involuntary, and I will not
 

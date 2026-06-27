@@ -16,17 +16,17 @@ tags:
 
 ‘Mrs Rokesmith,’—her husband was beginning; when Mr Inspector,
 regarding the words as an introduction, said, ‘Happy I am sure, to have
-the honour.’ And bowed, with gallantry.
+the [[Honour|honour]].’ And bowed, with gallantry.
 
 ‘Mrs Rokesmith,’ resumed her husband, ‘is satisfied that she can have no
 reason for being alarmed, whatever the business is.’
 
 ‘Really? Is that so?’ said Mr Inspector. ‘But it’s a sex to live and
 learn from, and there’s nothing a lady can’t accomplish when she once
-fully gives her mind to it. It’s the case with my own wife. Well, ma’am,
+fully gives her mind to it. It’s the case with my own wife. [[Well]], ma’am,
 this good gentleman of yours has given rise to a rather large amount
 of trouble which might have been avoided if he had come forward and
-explained himself. Well you see! He DIDN’T come forward and explain
+explained himself. [[Well]] you see! He DIDN’T come forward and explain
 himself. Consequently, now that we meet, him and me, you’ll say—and say
 right—that there’s nothing to be alarmed at, in my proposing to him
 TO come forward—or, putting the same meaning in another form, to come
@@ -45,13 +45,13 @@ with me?’
 
 ‘For what reason?’
 
-‘Lord bless my soul and body!’ returned Mr Inspector, ‘I wonder at it in
-a man of your education. Why argue?’
+‘Lord bless my [[Soul|soul]] and [[Body|body]]!’ returned Mr Inspector, ‘I [[Wonder|wonder]] at it in
+a man of your [[Education|education]]. Why argue?’
 
 ‘What do you charge against me?’
 
-‘I wonder at you before a lady,’ said Mr Inspector, shaking his head
-reproachfully: ‘I wonder, brought up as you have been, you haven’t a
+‘I [[Wonder|wonder]] at you before a lady,’ said Mr Inspector, shaking his head
+reproachfully: ‘I [[Wonder|wonder]], brought up as you have been, you haven’t a
 more delicate mind! I charge you, then, with being some way concerned
 in the Harmon Murder. I don’t say whether before, or in, or after, the
 fact. I don’t say whether with having some knowledge of it that hasn’t
@@ -81,7 +81,7 @@ something to eat and drink, I dare say, on your invitation, while you
 are getting your bonnet on.’
 
 Mr Inspector declined eating, but assented to the proposal of a glass of
-brandy and water. Mixing this cold, and pensively consuming it, he broke
+brandy and [[Water|water]]. Mixing this cold, and pensively consuming it, he broke
 at intervals into such soliloquies as that he never did know such a
 move, that he never had been so gravelled, and that what a game was
 this to try the sort of stuff a man’s opinion of himself was made
@@ -104,8 +104,8 @@ case broke in upon her mind. Mr Inspector’s increased notice of herself
 and knowing way of raising his eyebrows when their eyes by any chance
 met, as if he put the question ‘Don’t you see?’ augmented her timidity,
 and, consequently, her perplexity. For all these reasons, when he
-and she and John, at towards nine o’clock of a winter evening went to
-London, and began driving from London Bridge, among low-lying water-side
+and she and John, at towards nine o’[[Clock|clock]] of a [[Winter|winter]] evening went to
+[[London]], and began driving from [[London]] Bridge, among low-lying [[Water|water]]-side
 wharves and docks and strange places, Bella was in the state of a
 dreamer; perfectly unable to account for her being there, perfectly
 unable to forecast what would happen next, or whither she was going, or
@@ -113,15 +113,15 @@ why; certain of nothing in the immediate present, but that she confided
 in John, and that John seemed somehow to be getting more triumphant. But
 what a certainty was that!
 
-They alighted at last at the corner of a court, where there was a
+They alighted at last at the corner of a [[Court|court]], where there was a
 building with a bright lamp and wicket gate. Its orderly appearance was
 very unlike that of the surrounding neighbourhood, and was explained by
-the inscription POLICE STATION.
+the [[Inscription|inscription]] POLICE STATION.
 
 ‘We are not going in here, John?’ said Bella, clinging to him.
 
 ‘Yes, my dear; but of our own accord. We shall come out again as easily,
-never fear.’
+never [[Fear|fear]].’
 
 The whitewashed room was pure white as of old, the methodical
 book-keeping was in peaceful progress as of old, and some distant howler
@@ -131,7 +131,7 @@ passions and vices were regularly ticked off in the books, warehoused in
 the cells, carted away as per accompanying invoice, and left little mark
 upon it.
 
-Mr Inspector placed two chairs for his visitors, before the fire, and
+Mr Inspector placed two chairs for his visitors, before the [[Fire|fire]], and
 communed in a low voice with a brother of his order (also of a half-pay,
 and Royal Arms aspect), who, judged only by his occupation at the
 moment, might have been a writing-master, setting copies. Their

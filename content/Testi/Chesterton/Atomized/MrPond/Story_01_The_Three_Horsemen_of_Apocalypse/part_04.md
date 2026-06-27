@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Three Horsemen of Apocalypse (part 4)"
+title: "[[MrPond]] — The Three Horsemen of [[Apocalypse]] (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -26,13 +26,13 @@ for a quarrel with Weimar!"
 
 
 
-"For the safety of your Royal House," answered Grock, "without one
+"For the safety of your Royal [[house|House]]," answered Grock, "without one
 
 instant's hesitation."
 
 
 
-There was a short silence and the Prince said sharply and suddenly:
+There was a short [[Silence|silence]] and the Prince said sharply and suddenly:
 
 "What does this mean?"
 
@@ -46,7 +46,7 @@ execution of Petrowski."
 
 
 
-The Prince rose like a great dark eagle, the swirl of his cloak
+The Prince [[Rose|rose]] like a great dark eagle, the swirl of his cloak
 
 like the sweep of mighty wings; and all men knew that a wrath
 
@@ -62,21 +62,21 @@ motionless as a stone.
 
 
 
-"Who has the best horse in your cavalry division, General?  Who is
+"Who has the best [[Horse|horse]] in your cavalry division, General?  Who is
 
 the best rider?"
 
 
 
-"Arnold Von Schacht has a horse that might beat a racehorse,"
+"Arnold Von Schacht has a [[Horse|horse]] that might beat a racehorse,"
 
-replied the General promptly.  "And rides it as well as a jockey.
+replied the General promptly.  "And rides it as [[Well|well]] as a jockey.
 
 He is of the White Hussars."
 
 
 
-"Very well," said the Prince, with the same new ring in his voice.
+"Very [[Well|well]]," said the Prince, with the same new ring in his voice.
 
 "Let him ride at once after the man with this mad message and stop
 
@@ -100,7 +100,7 @@ Petrowski the Pole.
 
 
 
-Then amid a dead silence, in the midst of which old Grock stood
+Then amid a dead [[Silence|silence]], in the midst of which old Grock stood
 
 with an unblinking stare like a stone idol of prehistoric times, he
 
@@ -116,7 +116,7 @@ medal on the white uniform of the Hussars, clicked his heels, and
 
 received the folded paper from the Prince; then, striding out, he
 
-sprang on his horse and flew along the high, narrow road like a
+sprang on his [[Horse|horse]] and flew along the high, narrow [[Road|road]] like a
 
 silver arrow or a shooting star.
 
@@ -140,7 +140,7 @@ and wiry man, with a great scar across his jaw, rather dark for a
 
 German, unless all his colours had been changed by years of smoke
 
-and storm and bad weather.  He saluted and stood stiffly at
+and [[Storm|storm]] and bad weather.  He saluted and stood stiffly at
 
 attention, as the Marshal slowly raised his eyes to him.  And vast
 
@@ -150,7 +150,7 @@ him, and that one battered non-commissioned officer, it is true
 
 that of all the men who have talked in this tale, these two men
 
-alone looked and understood each other without words.
+[[Alone|alone]] looked and understood each other without words.
 
 
 
@@ -172,7 +172,7 @@ shooting that damned old woman who would not give us information
 
 about the ambush.  The incident caused considerable comment at the
 
-time, even in some of our own circles.  Influence, however, was
+[[Time|time]], even in some of our own circles.  Influence, however, was
 
 exerted on your side.  My influence."
 
@@ -190,17 +190,17 @@ point essential to his own safety and that of the Fatherland.
 
 Under this error, he has rashly sent a reprieve to the Pole
 
-Petrowski, who is to be executed to-night.  I repeat: who is to be
+Petrowski, who is to be executed to-[[Night|night]].  I repeat: who is to be
 
-executed to-night.  You must immediately ride after Von Schacht,
+executed to-[[Night|night]].  You must immediately ride after Von Schacht,
 
 who carried the reprieve, and stop him."
 
 
 
-"I can hardly hope to overtake him, Marshal," said Sergeant
+"I can hardly [[Hope|hope]] to overtake him, Marshal," said Sergeant
 
-Schwartz.  "He has the swiftest horse in the regiment, and is the
+Schwartz.  "He has the swiftest [[Horse|horse]] in the regiment, and is the
 
 finest rider."
 
@@ -218,7 +218,7 @@ discharge of a carbine might attract his attention."
 
 
 
-And then the dark sergeant saluted for the third time; and his grim
+And then the dark sergeant saluted for the third [[Time|time]]; and his grim
 
 mouth was again shut tight.
 
@@ -240,7 +240,7 @@ And Sergeant Schwartz smiled still more grimly; and he also,
 
 lifting the flap of the tent, went out into the darkness and
 
-mounted his horse and rode.
+mounted his [[Horse|horse]] and rode.
 
 
 
@@ -250,7 +250,7 @@ indulge in imaginative ideas for their own sake.  But because he
 
 also was in some imperfect manner human, he could not but feel, on
 
-such a night and such an errand, the oppressiveness of that inhuman
+such a [[Night|night]] and such an errand, the oppressiveness of that inhuman
 
 landscape.  While he rode along that one abrupt ridge, there spread
 

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 43 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 43 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,11 +20,11 @@ Officiates as a kind of Gentleman Usher, in bringing various People
 together
 
 
-The storm had long given place to a calm the most profound, and the
+The [[Storm|storm]] had long given place to a calm the most profound, and the
 evening was pretty far advanced--indeed supper was over, and the
 process of digestion proceeding as favourably as, under the influence of
 complete tranquillity, cheerful conversation, and a moderate allowance
-of brandy-and-water, most wise men conversant with the anatomy and
+of brandy-and-[[Water|water]], most wise men conversant with the anatomy and
 functions of the human frame will consider that it ought to have
 proceeded, when the three friends, or as one might say, both in a civil
 and religious sense, and with proper deference and regard to the holy
@@ -57,9 +57,9 @@ to take notice, that if he ran into any danger it was her intention to
 fall into hysterics immediately, and that the consequences might be more
 serious than he thought for. John looked rather disconcerted by this
 intelligence, though there was a lurking grin on his face at the same
-time; but, being quite unable to keep out of the fray, he compromised
+[[Time|time]]; but, being quite unable to keep out of the fray, he compromised
 the matter by tucking his wife’s arm under his own, and, thus
-accompanied, following Nicholas downstairs with all speed.
+accompanied, following Nicholas downstairs with all [[Speed|speed]].
 
 The passage outside the coffee-room door was the scene of disturbance,
 and here were congregated the coffee-room customers and waiters,
@@ -76,7 +76,7 @@ flung about his ears afterwards.
 
 The coffee-room customers, and the waiters, and the coachmen, and the
 helpers--not to mention a barmaid who was looking on from behind an
-open sash window--seemed at that moment, if a spectator might judge from
+open sash [[Window|window]]--seemed at that moment, if a spectator might judge from
 their winks, nods, and muttered exclamations, strongly disposed to take
 part against the young gentleman in the stockings. Observing this, and
 that the young gentleman was nearly of his own age and had in nothing
@@ -93,10 +93,10 @@ disguise, this is.’
 ‘Room for the eldest son of the Emperor of Roosher, gen’l’men!’ cried
 another fellow.
 
-Disregarding these sallies, which were uncommonly well received, as
+Disregarding these sallies, which were uncommonly [[Well|well]] received, as
 sallies at the expense of the best-dressed persons in a crowd usually
 are, Nicholas glanced carelessly round, and addressing the young
-gentleman, who had by this time picked up his slippers and thrust his
+gentleman, who had by this [[Time|time]] picked up his slippers and thrust his
 feet into them, repeated his inquiries with a courteous air.
 
 ‘A mere nothing!’ he replied.
@@ -115,11 +115,11 @@ now to the right, now to the left, now forwards, now backwards, and
 accidentally driving his elbow through the hat of the tallest helper,
 who had been particularly active, speedily caused the odds to wear a
 very different appearance; while more than one stout fellow limped away
-to a respectful distance, anathematising with tears in his eyes the
+to a respectful distance, anathematising with [[Tears|tears]] in his eyes the
 heavy tread and ponderous feet of the burly Yorkshireman.
 
 ‘Let me see him do it again,’ said he who had been kicked into the
-corner, rising as he spoke, apparently more from the fear of John
-Browdie’s inadvertently treading upon him, than from any desire to place
+corner, rising as he spoke, apparently more from the [[Fear|fear]] of John
+Browdie’s inadvertently treading upon him, than from any [[Desire|desire]] to place
 himself on equal terms with his late adversary. ‘Let me see him do it
 again. That’s all.’

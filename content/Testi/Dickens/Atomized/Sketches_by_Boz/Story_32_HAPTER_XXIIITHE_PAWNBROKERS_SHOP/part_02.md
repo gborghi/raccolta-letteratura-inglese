@@ -18,12 +18,12 @@ The choice falls on an unshaven, dirty, sottish-looking fellow, whose
 tarnished paper-cap, stuck negligently over one eye, communicates an
 additionally repulsive expression to his very uninviting countenance.
 He was enjoying a little relaxation from his sedentary pursuits a
-quarter of an hour ago, in kicking his wife up the court. He has come
+quarter of an hour ago, in kicking his wife up the [[Court|court]]. He has come
 to redeem some tools:—probably to complete a job with, on account of
 which he has already received some money, if his inflamed countenance
 and drunken staggers may be taken as evidence of the fact. Having
-waited some little time, he makes his presence known by venting his
-ill-humour on a ragged urchin, who, being unable to bring his face on a
+waited some little [[Time|time]], he makes his presence known by venting his
+ill-[[Humour|humour]] on a ragged urchin, who, being unable to bring his face on a
 level with the counter by any other process, has employed himself in
 climbing up, and then hooking himself on with his elbows—an uneasy
 perch, from which he has fallen at intervals, generally alighting on
@@ -35,7 +35,7 @@ object of general indignation.
 ‘What do you strike the boy for, you brute?’ exclaims a slipshod woman,
 with two flat irons in a little basket. ‘Do you think he’s your wife,
 you willin?’ ‘Go and hang yourself!’ replies the gentleman addressed,
-with a drunken look of savage stupidity, aiming at the same time a blow
+with a drunken look of savage stupidity, aiming at the same [[Time|time]] a blow
 at the woman which fortunately misses its object. ‘Go and hang
 yourself; and wait till I come and cut you down.’—‘Cut you down,’
 rejoins the woman, ‘I wish I had the cutting of you up, you wagabond!
@@ -56,8 +56,8 @@ as takes in mangling, and is as ’dustrious and hard-working a young
 ’ooman as can be, (very fast) as lives in the back parlour of our ’ous,
 which my husband and me lives in the front one (with great
 rapidity)—and we hears him a beaten’ on her sometimes when he comes
-home drunk, the whole night through, and not only a beaten’ her, but
-beaten’ his own child too, to make her more miserable—ugh, you beast!
+[[Home|home]] drunk, the whole [[Night|night]] through, and not only a beaten’ her, but
+beaten’ his own [[Child|child]] too, to make her more miserable—ugh, you beast!
 and she, poor creater, won’t swear the peace agin him, nor do nothin’,
 because she likes the wretch arter all—worse luck!’ Here, as the woman
 has completely run herself out of breath, the pawnbroker himself, who
@@ -73,19 +73,19 @@ you scarcer.’
 This eloquent address produces anything but the effect desired; the
 women rail in concert; the man hits about him in all directions, and is
 in the act of establishing an indisputable claim to gratuitous lodgings
-for the night, when the entrance of his wife, a wretched, worn-out
+for the [[Night|night]], when the entrance of his wife, a wretched, worn-out
 woman, apparently in the last stage of consumption, whose face bears
 evident marks of recent ill-usage, and whose strength seems hardly
-equal to the burden—light enough, God knows!—of the thin, sickly child
+equal to the burden—light enough, God knows!—of the thin, sickly [[Child|child]]
 she carries in her arms, turns his cowardly rage in a safer direction.
-‘Come home, dear,’ cries the miserable creature, in an imploring tone;
-‘_do_ come home, there’s a good fellow, and go to bed.’—‘Go home
-yourself,’ rejoins the furious ruffian. ‘Do come home quietly,’ repeats
-the wife, bursting into tears. ‘Go home yourself,’ retorts the husband
+‘Come [[Home|home]], dear,’ cries the miserable creature, in an imploring tone;
+‘_do_ come [[Home|home]], there’s a good fellow, and go to bed.’—‘Go [[Home|home]]
+yourself,’ rejoins the furious ruffian. ‘Do come [[Home|home]] quietly,’ repeats
+the wife, bursting into [[Tears|tears]]. ‘Go [[Home|home]] yourself,’ retorts the husband
 again, enforcing his argument by a blow which sends the poor creature
 flying out of the shop. Her ‘natural protector’ follows her up the
-court, alternately venting his rage in accelerating her progress, and
-in knocking the little scanty blue bonnet of the unfortunate child over
+[[Court|court]], alternately venting his rage in accelerating her progress, and
+in knocking the little scanty blue bonnet of the unfortunate [[Child|child]] over
 its still more scanty and faded-looking face.
 
 In the last box, which is situated in the darkest and most obscure
@@ -101,7 +101,7 @@ live?—Housekeeper or lodger?’ They bargain, too, for a higher loan than
 the shopman is at first inclined to offer, which a perfect stranger
 would be little disposed to do; and the elder female urges her daughter
 on, in scarcely audible whispers, to exert her utmost powers of
-persuasion to obtain an advance of the sum, and expatiate on the value
+[[Persuasion|persuasion]] to obtain an advance of the sum, and expatiate on the value
 of the articles they have brought to raise a present supply upon. They
 are a small gold chain and a ‘Forget me not’ ring: the girl’s property,
 for they are both too small for the mother; given her in better times;
@@ -111,14 +111,14 @@ has hardened the girl, and the prospect of receiving money, coupled
 with a recollection of the misery they have both endured from the want
 of it—the coldness of old friends—the stern refusal of some, and the
 still more galling compassion of others—appears to have obliterated the
-consciousness of self-humiliation, which the idea of their present
+consciousness of [[Self|self]]-humiliation, which the idea of their present
 situation would once have aroused.
 
 In the next box, is a young female, whose attire, miserably poor, but
 extremely gaudy, wretchedly cold, but extravagantly fine, too plainly
 bespeaks her station. The rich satin gown with its faded trimmings, the
-worn-out thin shoes, and pink silk stockings, the summer bonnet in
-winter, and the sunken face, where a daub of rouge only serves as an
+worn-out thin shoes, and pink silk stockings, the [[Summer|summer]] bonnet in
+[[Winter|winter]], and the sunken face, where a daub of rouge only serves as an
 index to the ravages of squandered health never to be regained, and
 lost happiness never to be restored, and where the practised smile is a
 wretched mockery of the misery of the heart, cannot be mistaken. There
@@ -129,7 +129,7 @@ recollection, and to have changed, for an instant, her whole demeanour.
 Her first hasty impulse was to bend forward as if to scan more minutely
 the appearance of her half-concealed companions; her next, on seeing
 them involuntarily shrink from her, to retreat to the back of the box,
-cover her face with her hands, and burst into tears.
+cover her face with her hands, and burst into [[Tears|tears]].
 
 There are strange chords in the human heart, which will lie dormant
 through years of depravity and wickedness, but which will vibrate at
@@ -147,7 +147,7 @@ that we have described, appeared for a moment, and only a moment, to
 extend itself even to her bosom.
 
 Who shall say how soon these women may change places? The last has but
-two more stages—the hospital and the grave. How many females situated
+two more stages—the hospital and the [[Grave|grave]]. How many females situated
 as her two companions are, and as she may have been once, have
 terminated the same wretched course, in the same wretched manner! One
 is already tracing her footsteps with frightful rapidity. How soon may

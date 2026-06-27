@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 26 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 26 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,9 +15,9 @@ tags:
 
 
 As she was carried away for the moment by an irresistible train of
-thought, all connected with her daughter’s future greatness, Sir
+thought, all connected with her daughter’s future [[Greatness|greatness]], Sir
 Mulberry Hawk and his friend exchanged glances over the top of the
-bonnet which the poor lady so much regretted not having left at home,
+bonnet which the poor lady so much regretted not having left at [[Home|home]],
 and proceeded to dilate with great rapture, but much respect on the
 manifold perfections of Miss Nickleby.
 
@@ -34,7 +34,7 @@ cleverness.
 ‘I assure you she is, my lord,’ returned Mrs. Nickleby. ‘When she was
 at school in Devonshire, she was universally allowed to be beyond all
 exception the very cleverest girl there, and there were a great many
-very clever ones too, and that’s the truth--twenty-five young ladies,
+very clever ones too, and that’s the [[Truth|truth]]--twenty-five young ladies,
 fifty guineas a year without the et-ceteras, both the Miss Dowdles the
 most accomplished, elegant, fascinating creatures--Oh dear me!’ said Mrs
 Nickleby, ‘I never shall forget what pleasure she used to give me
@@ -67,37 +67,37 @@ considerations as these. ‘I will never put any constraint upon her
 inclinations,’ said Mrs. Nickleby to herself; ‘but upon my word I
 think there’s no comparison between his lordship and Sir Mulberry--Sir
 Mulberry is such an attentive gentlemanly creature, so much manner,
-such a fine man, and has so much to say for himself. I hope it’s Sir
+such a fine man, and has so much to say for himself. I [[Hope|hope]] it’s Sir
 Mulberry--I think it must be Sir Mulberry!’ And then her thoughts flew
 back to her old predictions, and the number of times she had said, that
 Kate with no fortune would marry better than other people’s daughters
 with thousands; and, as she pictured with the brightness of a mother’s
-fancy all the beauty and grace of the poor girl who had struggled so
+fancy all the [[Beauty|beauty]] and grace of the poor girl who had struggled so
 cheerfully with her new life of hardship and trial, her heart grew too
-full, and the tears trickled down her face.
+full, and the [[Tears|tears]] trickled down her face.
 
 Meanwhile, Ralph walked to and fro in his little back-office, troubled
 in mind by what had just occurred. To say that Ralph loved or cared
 for--in the most ordinary acceptation of those terms--any one of God’s
 creatures, would be the wildest fiction. Still, there had somehow stolen
-upon him from time to time a thought of his niece which was tinged
+upon him from [[Time|time]] to [[Time|time]] a thought of his niece which was tinged
 with compassion and pity; breaking through the dull cloud of dislike or
 indifference which darkened men and women in his eyes, there was, in her
 case, the faintest gleam of light--a most feeble and sickly ray at the
 best of times--but there it was, and it showed the poor girl in a better
-and purer aspect than any in which he had looked on human nature yet.
+and purer aspect than any in which he had looked on human [[Nature|nature]] yet.
 
 ‘I wish,’ thought Ralph, ‘I had never done this. And yet it will
 keep this boy to me, while there is money to be made. Selling a
-girl--throwing her in the way of temptation, and insult, and coarse
+girl--throwing her in the way of [[Temptation|temptation]], and insult, and coarse
 speech. Nearly two thousand pounds profit from him already though.
 Pshaw! match-making mothers do the same thing every day.’
 
 He sat down, and told the chances, for and against, on his fingers.
 
 ‘If I had not put them in the right track today,’ thought Ralph, ‘this
-foolish woman would have done so. Well. If her daughter is as true to
+foolish woman would have done so. [[Well]]. If her daughter is as true to
 herself as she should be from what I have seen, what harm ensues? A
-little teasing, a little humbling, a few tears. Yes,’ said Ralph, aloud,
+little teasing, a little humbling, a few [[Tears|tears]]. Yes,’ said Ralph, aloud,
 as he locked his iron safe. ‘She must take her chance. She must take her
 chance.’

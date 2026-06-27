@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 14 (part 1)"
+title: "[[GKC-Autobiography]] — Chapter 14 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -18,16 +18,16 @@ XIV
 
 PORTRAIT OF A FRIEND
 
-Apart from vanity or mock modesty (which healthy people always use
+Apart from [[Vanity|vanity]] or mock modesty (which healthy people always use
 as jokes) my real judgment of my own work is that I have spoilt a number
-of jolly good ideas in my time.  There is a reason for this; and it
-is really rather a piece of autobiography than of literary criticism.
-I think The Napoleon of Notting Hill was a book very well worth writing;
+of jolly good ideas in my [[Time|time]].  There is a reason for this; and it
+is really rather a piece of autobiography than of [[Literary Criticism|literary criticism]].
+I think The Napoleon of Notting [[Hill]] was a book very [[Well|well]] worth writing;
 but I am not sure that it was ever written.  I think that a harlequinade
 like The Flying Inn was an extremely promising subject, but I
-very strongly doubt whether I kept the promise.  I am almost tempted
+very strongly [[Doubt|doubt]] whether I kept the promise.  I am almost tempted
 to say that it is still a very promising subject--for somebody else.
-I think the story called The Ball and the Cross had quite a good plot,
+I think the story called The Ball and the [[Cross]] had quite a good plot,
 about two men perpetually prevented by the police from fighting
 a duel about the collision of blasphemy and worship, or what all
 respectable people would call, "a mere difference about religion."
@@ -49,15 +49,15 @@ be a journalist.
 But it was not the superficial or silly or jolly part of me
 that made me a journalist.  On the contrary, it is such part as I
 have in what is serious or even solemn.  A taste for mere fun might
-have led me to a public-house, but hardly to a publishing-house.
-And if it led me to a publishing-house, for the publishing
+have led me to a public-[[house]], but hardly to a publishing-[[house]].
+And if it led me to a publishing-[[house]], for the publishing
 of mere nonsense-rhymes or fairytales, it could never thus have
 led me to my deplorable course of endless articles and letters
 in the newspapers.  In short, I could not be a novelist; because I
 really like to see ideas or notions wrestling naked, as it were,
 and not dressed up in a masquerade as men and women.  But I could
 be a journalist because I could not help being a controversialist.
-I do not even know if this would be called mock modesty or vanity,
+I do not even know if this would be called mock modesty or [[Vanity|vanity]],
 in the modern scale of values; but I do know that it is neither.
 It occurs to me that the best and most wholesome test, for judging
 how far mere incompetence or laziness, and how far a legitimate liking
@@ -68,47 +68,47 @@ and yet has produced nothing but literature.
 
 In the days when Belloc was known to Bentley and Oldershaw,
 but not to me, when they were all together in the Radical group
-at Oxford, Belloc himself chiefly frequented a much smaller group
+at [[Oxford]], Belloc himself chiefly frequented a much smaller group
 which called itself the Republican Club.  So far as I can make out,
 the Republican Club never consisted of more than four members,
 and generally of less; one or more of them having been solemnly
 expelled either for Toryism or for Socialism.  This was the club
 which Belloc celebrated in the fine dedication of his first book;
 of which two lines have passed into some popular celebrity:
-"There's nothing worth the wear of winning but laughter and the love
+"There's nothing worth the wear of winning but laughter and the [[Love|love]]
 of friends;" but in the course of which he also described in more
 detail the ideals of this fastidious fellowship.
 
   We kept the Rabelaisian plan
   We dignified the dainty cloisters
   With Natural Law, the Rights of Man,
-  Song, Stoicism, Wine and Oysters.
+  [[Song]], Stoicism, Wine and Oysters.
 
   We taught the art of writing things
   On men we still would like to throttle,
-  And where to get the blood of kings
-  At only half-a-crown a bottle.
+  And where to get the [[Blood|blood]] of kings
+  At only half-a-[[Crown|crown]] a bottle.
 
 Of the three other corners of this very Four-Square Gospel of Citizenship,
 that is of Belloc's three constant colleagues in the old Republican club,
-one is still, I believe, a distinguished exile and official in Burma;
+one is still, I believe, a distinguished [[Exile|exile]] and official in Burma;
 or as his old friends loved to say with sour smiles of affectionate
-resignation, "a Satrap"; as if he had somehow Medised, or condescended
+[[Resignation|resignation]], "a Satrap"; as if he had somehow Medised, or condescended
 to the oriental barbarism which we call Imperialism.  I have no
-doubt that as a fact he was a happy and highly satisfactory Satrap;
+[[Doubt|doubt]] that as a fact he was a happy and highly satisfactory Satrap;
 but he was the one member of the group whom I never met.  The other
-two Republicans, who were Belloc's most intimate friends at Oxford,
+two Republicans, who were Belloc's most intimate friends at [[Oxford]],
 have both in different ways played a considerable part in my own life.
 One was John Swinnerton Phillimore, son of the old Admiral whose name
 made a sort of background for the Kensington of my boyhood, afterwards
 Latin Professor at Glasgow University and one of the first classical
-authorities of his time; now, alas, only an ever-deepening memory.
+authorities of his [[Time|time]]; now, alas, only an ever-deepening [[Memory|memory]].
 The other was Francis Yvon Eccles, the distinguished French scholar,
 whom I now meet all too seldom through his gravitation towards
 living in France.
 
-Eccles, like Belloc, was the child of one French and one English parent;
-but there was a certain misleading comedy about the names, as if they
+Eccles, like Belloc, was the [[Child|child]] of one French and one English parent;
+but there was a certain misleading [[Comedy|comedy]] about the names, as if they
 had been interchanged like labels.  For Eccles, who happened to have
 the English surname, looked much more like a Frenchman, and Belloc,
 with the French surname, looked much more like an Englishman;

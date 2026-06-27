@@ -16,9 +16,9 @@ tags:
 
 On the following morning, Mr. Septimus Hicks was united to Miss Matilda
 Maplesone. Mr. Simpson also entered into a ‘holy alliance’ with Miss
-Julia; Tibbs acting as father, ‘his first appearance in that
+[[Julia]]; Tibbs acting as father, ‘his first appearance in that
 character.’ Mr. Calton, not being quite so eager as the two young men,
-was rather struck by the double discovery; and as he had found some
+was rather struck by the [[Double|double]] discovery; and as he had found some
 difficulty in getting any one to give the lady away, it occurred to him
 that the best mode of obviating the inconvenience would be not to take
 her at all. The lady, however, ‘appealed,’ as her counsel said on the
@@ -28,9 +28,9 @@ recovered damages to the amount of 1,000_l._ which the unfortunate
 knocker was compelled to pay. Mr. Septimus Hicks having walked the
 hospitals, took it into his head to walk off altogether. His injured
 wife is at present residing with her mother at Boulogne. Mr. Simpson,
-having the misfortune to lose his wife six weeks after marriage (by her
+having the misfortune to lose his wife six weeks after [[Marriage|marriage]] (by her
 eloping with an officer during his temporary sojourn in the Fleet
-Prison, in consequence of his inability to discharge her little
+[[Prison]], in consequence of his inability to discharge her little
 mantua-maker’s bill), and being disinherited by his father, who died
 soon afterwards, was fortunate enough to obtain a permanent engagement
 at a fashionable haircutter’s; hairdressing being a science to which he
@@ -46,8 +46,8 @@ thinking portion of the community.
 It only remains to add, that this complication of disorders completely
 deprived poor Mrs. Tibbs of all her inmates, except the one whom she
 could have best spared—her husband. That wretched little man returned
-home, on the day of the wedding, in a state of partial intoxication;
-and, under the influence of wine, excitement, and despair, actually
+[[Home|home]], on the day of the wedding, in a state of partial intoxication;
+and, under the influence of wine, excitement, and [[Despair|despair]], actually
 dared to brave the anger of his wife. Since that ill-fated hour he has
 constantly taken his meals in the kitchen, to which apartment, it is
 understood, his witticisms will be in future confined: a turn-up

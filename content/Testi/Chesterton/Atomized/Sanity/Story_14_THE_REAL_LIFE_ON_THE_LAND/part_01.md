@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE REAL LIFE ON THE LAND (part 1)"
+title: "[[Sanity]] — THE REAL LIFE ON THE LAND (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -18,7 +18,7 @@ tags:
 
 = = = = = = = = = = = = = = = =
 
-I THE SIMPLE TRUTH
+I THE SIMPLE [[Truth|TRUTH]]
 
 All of us, or at least all those of my generation, heard in
 our youth an anecdote about George Stephenson, the discoverer
@@ -32,7 +32,7 @@ that it might be rather awkward for the rustic who owned the cow.
 Long before we heard that anecdote, however, we had probably heard
 another and more exciting anecdote called "Jack and the Beanstalk."
 That story begins with the strange and startling words, "There once
-was a poor woman who had a cow."  It would be a wild paradox in modern
+was a poor woman who had a cow."  It would be a wild [[Paradox|paradox]] in modern
 England to imagine that a poor woman could have a cow; but things
 seem to have been different in ruder and more superstitious ages.
 Anyhow, she evidently would not have had a cow long in the sympathetic
@@ -46,22 +46,22 @@ discovered that milk does not come originally from cans.
 On this fact some of us have founded the idea that the cow
 (and even the miserable rustic) have a use in society, and have
 been prepared to concede her as much as three acres.  But it will
-be well at this stage to repeat that we do not propose that every
+be [[Well|well]] at this stage to repeat that we do not propose that every
 acre should be covered with cows; and do not propose to eliminate
 townspeople as they would eliminate rustics.  On many minor points
 we might have to compromise with conditions, especially at first.
 But even my ideal, if ever I found it at last, would be what some call
 a compromise.  Only I think it more accurate to call it a balance.
 For I do not think that the sun compromises with the rain when together
-they make a garden; or that the rose that grows there is a compromise
+they make a [[Garden|garden]]; or that the [[Rose|rose]] that grows there is a compromise
 between green and red.  But I mean that even my Utopia would contain
 different things of different types holding on different tenures:
 that as in a medieval state there were some peasants, some monasteries,
 some common land, some private land, some town guilds, and so on,
 so in my modern state there would be some things nationalized,
 some machines owned corporately, some guilds sharing common profits,
-and so on, as well as many absolute individual owners, where such
-individual owners are most possible.  But with these latter it is well
+and so on, as [[Well|well]] as many absolute individual owners, where such
+individual owners are most possible.  But with these latter it is [[Well|well]]
 to begin, because they are meant to give, and nearly always do give,
 the standard and tone of the society.
 
@@ -75,20 +75,20 @@ that has not got a conservative class.  There are a large number,
 possibly a majority, of people who call themselves conservative.
 But the more they are examined, the less conservative they
 will appear.  The commercial class that is in a special sense
-capitalist is in its nature the very opposite of conservative.
+capitalist is in its [[Nature|nature]] the very opposite of conservative.
 By its own profession, it proclaims that it is perpetually using
 new methods and seeking for new markets.  To some of us there
 seems to be something exceedingly stale about all that novelty.
 But that is because of the type of mind that is inventing,
 not because it does not mean to invent.  From the biggest financier
-floating a company to the smallest tout peddling a sewing-machine,
+floating a company to the smallest tout peddling a sewing-[[Machine|machine]],
 the same ideal prevails.  It must always be a new company,
 especially after what has generally happened to the old company.
-And the sewing-machine must always be a new sort of sewing-machine,
+And the sewing-[[Machine|machine]] must always be a new sort of sewing-[[Machine|machine]],
 even if it is the sort that does not sew.  But while this is obvious
 of the mere capitalist, it is equally true of the pure oligarch.
 Whatever else an aristocracy is, an aristocracy is never conservative.
-By its very nature it goes by fashion rather than by tradition.
+By its very [[Nature|nature]] it goes by fashion rather than by tradition.
 Men living a life of leisure and luxury are always eager
 for new things; we might fairly say they would be fools if they
 weren't. And the English aristocrats are by no means fools.
@@ -96,7 +96,7 @@ They can proudly claim to have played a great part in every stage
 of the intellectual progress that has brought us to our present ruin.
 
 The first fact about establishing an English peasantry is
-that it is establishing, for the first time for many centuries,
+that it is establishing, for the first [[Time|time]] for many centuries,
 a traditional class.  The absence of such a class will be found to be
 a very terrible fact, if the tug really becomes between Bolshevism
 and the historic ideal of property.  But the converse is equally
@@ -130,7 +130,7 @@ an extent that the squire would often be only remitting a debt
 which he has already written off as a bad debt, and the employer
 only sacrificing the service of men who are already on strike.
 Still, we shall need the virtues that belong to a crisis;
-and it will be well to make the fact clear.  Next, while there is all
+and it will be [[Well|well]] to make the fact clear.  Next, while there is all
 the difference between the desirable and the desired, I would point
 out that even now this normal life is more desired than many suppose.
 It is perhaps subconsciously desired; but I think it worth while

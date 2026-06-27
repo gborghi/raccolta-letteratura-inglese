@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 15 (part 2)"
+title: "[[Persuasion]] — Chapter 15 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -18,13 +18,13 @@ allowances, she knew, must be made for the ideas of those who spoke.
 
 She heard it all under embellishment. All that sounded extravagant or
 
-irrational in the progress of the reconciliation might have no origin
+irrational in the progress of the [[Reconciliation|reconciliation]] might have no origin
 
 but in the language of the relators. Still, however, she had the
 
 sensation of there being something more than immediately appeared, in
 
-Mr Elliot’s wishing, after an interval of so many years, to be well
+Mr Elliot’s wishing, after an interval of so many years, to be [[Well|well]]
 
 received by them. In a worldly view, he had nothing to gain by being on
 
@@ -46,13 +46,13 @@ that he could afford to please himself, he might mean to pay his
 
 addresses to her. Elizabeth was certainly very handsome, with
 
-well-bred, elegant manners, and her character might never have been
+[[Well|well]]-bred, elegant manners, and her character might never have been
 
 penetrated by Mr Elliot, knowing her but in public, and when very young
 
 himself. How her temper and understanding might bear the investigation
 
-of his present keener time of life was another concern and rather a
+of his present keener [[Time|time]] of life was another concern and rather a
 
 fearful one. Most earnestly did she wish that he might not be too nice,
 
@@ -78,9 +78,9 @@ especially. He did justice to his very gentlemanlike appearance, his
 
 air of elegance and fashion, his good shaped face, his sensible eye;
 
-but, at the same time, “must lament his being very much under-hung, a
+but, at the same [[Time|time]], “must lament his being very much under-hung, a
 
-defect which time seemed to have increased; nor could he pretend to say
+defect which [[Time|time]] seemed to have increased; nor could he pretend to say
 
 that ten years had not altered almost every feature for the worse. Mr
 
@@ -130,7 +130,7 @@ Street, he had counted eighty-seven women go by, one after another,
 
 without there being a tolerable face among them. It had been a frosty
 
-morning, to be sure, a sharp frost, which hardly one woman in a
+morning, to be sure, a sharp [[Frost|frost]], which hardly one woman in a
 
 thousand could stand the test of. But still, there certainly were a
 
@@ -160,7 +160,7 @@ sandy-haired.
 
 “How is Mary looking?” said Sir Walter, in the height of his good
 
-humour. “The last time I saw her she had a red nose, but I hope that
+[[Humour|humour]]. “The last [[Time|time]] I saw her she had a red nose, but I [[Hope|hope]] that
 
 may not happen every day.”
 
@@ -184,9 +184,9 @@ or a cap, would not be liable to any such misuse, when a knock at the
 
 door suspended everything. “A knock at the door! and so late! It was
 
-ten o’clock. Could it be Mr Elliot? They knew he was to dine in
+ten o’[[Clock|clock]]. Could it be Mr Elliot? They knew he was to dine in
 
-Lansdown Crescent. It was possible that he might stop in his way home
+Lansdown Crescent. It was possible that he might stop in his way [[Home|home]]
 
 to ask them how they did. They could think of no one else. Mrs Clay
 

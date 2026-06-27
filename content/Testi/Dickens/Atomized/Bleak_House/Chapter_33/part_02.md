@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 33 (part 2)"
+title: "Bleak [[house|House]] — Chapter 33 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,13 +21,13 @@ I hear!”
 Now move on here, come!”
 
 “Why, good gracious, gentlemen,” says Mr. Snagsby, somewhat promptly
-backed away, “I was at this door last night betwixt ten and eleven
-o’clock in conversation with the young man who lodges here.”
+backed away, “I was at this door last [[Night|night]] betwixt ten and eleven
+o’[[Clock|clock]] in conversation with the young man who lodges here.”
 
 “Indeed?” returns the policeman. “You will find the young man next
 door then. Now move on here, some of you.”
 
-“Not hurt, I hope?” says Mr. Snagsby.
+“Not hurt, I [[Hope|hope]]?” says Mr. Snagsby.
 
 “Hurt? No. What’s to hurt him!”
 
@@ -51,7 +51,7 @@ shrub?”
 
 “No,” says Mrs. Snagsby.
 
-“My love, you know these two gentlemen?”
+“My [[Love|love]], you know these two gentlemen?”
 
 “Yes!” says Mrs. Snagsby, and in a rigid manner acknowledges their
 presence, still fixing Mr. Snagsby with her eye.
@@ -67,7 +67,7 @@ wouldn’t.”
 
 Mr. Snagsby, with his cough of meekness, rejoins, “Wouldn’t you
 really, my dear?” and meditates. Then coughs his cough of trouble and
-says, “This is a dreadful mystery, my love!” still fearfully
+says, “This is a dreadful mystery, my [[Love|love]]!” still fearfully
 disconcerted by Mrs. Snagsby’s eye.
 
 “It IS,” returns Mrs. Snagsby, shaking her head, “a dreadful
@@ -98,7 +98,7 @@ conduct, you come into a wine-vaults before breakfast?”
 “My dear, merely to know the rights of the fatal accident which has
 happened to the venerable party who has been—combusted.” Mr. Snagsby
 has made a pause to suppress a groan. “I should then have related
-them to you, my love, over your French roll.”
+them to you, my [[Love|love]], over your French roll.”
 
 “I dare say you would! You relate everything to me, Mr. Snagsby.”
 
@@ -106,28 +106,28 @@ them to you, my love, over your French roll.”
 
 “I should be glad,” says Mrs. Snagsby after contemplating his
 increased confusion with a severe and sinister smile, “if you would
-come home with me; I think you may be safer there, Mr. Snagsby, than
+come [[Home|home]] with me; I think you may be safer there, Mr. Snagsby, than
 anywhere else.”
 
-“My love, I don’t know but what I may be, I am sure. I am ready to
+“My [[Love|love]], I don’t know but what I may be, I am sure. I am ready to
 go.”
 
 Mr. Snagsby casts his eye forlornly round the bar, gives Messrs.
 Weevle and Guppy good morning, assures them of the satisfaction with
 which he sees them uninjured, and accompanies Mrs. Snagsby from the
-Sol’s Arms. Before night his doubt whether he may not be responsible
+Sol’s Arms. Before [[Night|night]] his [[Doubt|doubt]] whether he may not be responsible
 for some inconceivable part in the catastrophe which is the talk of
 the whole neighbourhood is almost resolved into certainty by Mrs.
 Snagsby’s pertinacity in that fixed gaze. His mental sufferings are
 so great that he entertains wandering ideas of delivering himself up
-to justice and requiring to be cleared if innocent and punished with
+to justice and requiring to be cleared if [[Innocent|innocent]] and punished with
 the utmost rigour of the law if guilty.
 
 Mr. Weevle and Mr. Guppy, having taken their breakfast, step into
-Lincoln’s Inn to take a little walk about the square and clear as
+[[Lincoln]]’s Inn to take a little walk about the square and clear as
 many of the dark cobwebs out of their brains as a little walk may.
 
-“There can be no more favourable time than the present, Tony,” says
+“There can be no more favourable [[Time|time]] than the present, Tony,” says
 Mr. Guppy after they have broodingly made out the four sides of the
 square, “for a word or two between us upon a point on which we must,
 with very little delay, come to an understanding.”
@@ -135,12 +135,12 @@ with very little delay, come to an understanding.”
 “Now, I tell you what, William G.!” returns the other, eyeing his
 companion with a bloodshot eye. “If it’s a point of conspiracy, you
 needn’t take the trouble to mention it. I have had enough of that,
-and I ain’t going to have any more. We shall have YOU taking fire
+and I ain’t going to have any more. We shall have YOU taking [[Fire|fire]]
 next or blowing up with a bang.”
 
 This supposititious phenomenon is so very disagreeable to Mr. Guppy
 that his voice quakes as he says in a moral way, “Tony, I should have
-thought that what we went through last night would have been a lesson
+thought that what we went through last [[Night|night]] would have been a lesson
 to you never to be personal any more as long as you lived.” To which
 Mr. Weevle returns, “William, I should have thought it would have
 been a lesson to YOU never to conspire any more as long as you

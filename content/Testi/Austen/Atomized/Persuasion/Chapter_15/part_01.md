@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 15 (part 1)"
+title: "[[Persuasion]] — Chapter 15 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XV.
 
 
 
-Sir Walter had taken a very good house in Camden Place, a lofty
+Sir Walter had taken a very good [[house]] in Camden Place, a lofty
 
 dignified situation, such as becomes a man of consequence; and both he
 
@@ -28,7 +28,7 @@ and Elizabeth were settled there, much to their satisfaction.
 
 
 
-Anne entered it with a sinking heart, anticipating an imprisonment of
+Anne entered it with a sinking heart, anticipating an [[Imprisonment|imprisonment]] of
 
 many months, and anxiously saying to herself, “Oh! when shall I leave
 
@@ -36,7 +36,7 @@ you again?” A degree of unexpected cordiality, however, in the welcome
 
 she received, did her good. Her father and sister were glad to see her,
 
-for the sake of shewing her the house and furniture, and met her with
+for the sake of shewing her the [[house]] and furniture, and met her with
 
 kindness. Her making a fourth, when they sat down to dinner, was
 
@@ -68,7 +68,7 @@ all Bath.
 
 They had the pleasure of assuring her that Bath more than answered
 
-their expectations in every respect. Their house was undoubtedly the
+their expectations in every respect. Their [[house]] was undoubtedly the
 
 best in Camden Place; their drawing-rooms had many decided advantages
 
@@ -86,9 +86,9 @@ of whom they knew nothing.
 
 
 
-Here were funds of enjoyment. Could Anne wonder that her father and
+Here were funds of enjoyment. Could Anne [[Wonder|wonder]] that her father and
 
-sister were happy? She might not wonder, but she must sigh that her
+sister were happy? She might not [[Wonder|wonder]], but she must sigh that her
 
 father should feel no degradation in his change, should see nothing to
 
@@ -96,7 +96,7 @@ regret in the duties and dignity of the resident landholder, should
 
 find so much to be vain of in the littlenesses of a town; and she must
 
-sigh, and smile, and wonder too, as Elizabeth threw open the
+sigh, and smile, and [[Wonder|wonder]] too, as Elizabeth threw open the
 
 folding-doors and walked with exultation from one drawing-room to the
 
@@ -116,7 +116,7 @@ pardoned, they were delighted with him. He had been in Bath about a
 
 fortnight; (he had passed through Bath in November, in his way to
 
-London, when the intelligence of Sir Walter’s being settled there had
+[[London]], when the intelligence of Sir Walter’s being settled there had
 
 of course reached him, though only twenty-four hours in the place, but
 
@@ -158,7 +158,7 @@ character and general conduct must refute it. He could refer Sir Walter
 
 to all who knew him; and certainly, the pains he had been taking on
 
-this, the first opportunity of reconciliation, to be restored to the
+this, the first opportunity of [[Reconciliation|reconciliation]], to be restored to the
 
 footing of a relation and heir-presumptive, was a strong proof of his
 
@@ -166,7 +166,7 @@ opinions on the subject.
 
 
 
-The circumstances of his marriage, too, were found to admit of much
+The circumstances of his [[Marriage|marriage]], too, were found to admit of much
 
 extenuation. This was an article not to be entered on by himself; but a
 
@@ -180,17 +180,17 @@ had, at his own particular request, been admitted to their acquaintance
 
 through Mr Elliot, had mentioned one or two things relative to the
 
-marriage, which made a material difference in the discredit of it.
+[[Marriage|marriage]], which made a material difference in the discredit of it.
 
 
 
-Colonel Wallis had known Mr Elliot long, had been well acquainted also
+Colonel Wallis had known Mr Elliot long, had been [[Well|well]] acquainted also
 
 with his wife, had perfectly understood the whole story. She was
 
-certainly not a woman of family, but well educated, accomplished, rich,
+certainly not a woman of family, but [[Well|well]] educated, accomplished, rich,
 
-and excessively in love with his friend. There had been the charm. She
+and excessively in [[Love|love]] with his friend. There had been the charm. She
 
 had sought him. Without that attraction, not all her money would have
 
@@ -198,7 +198,7 @@ tempted Elliot, and Sir Walter was, moreover, assured of her having
 
 been a very fine woman. Here was a great deal to soften the business. A
 
-very fine woman with a large fortune, in love with him! Sir Walter
+very fine woman with a large fortune, in [[Love|love]] with him! Sir Walter
 
 seemed to admit it as complete apology; and though Elizabeth could not
 

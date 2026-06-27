@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 1 (part 3)"
+title: "[[manalive]] — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -74,16 +74,16 @@ of punching was an outward, instantaneous, and even natural gesture.--
 Believe me, yours faithfully, Burton Lestrange.
 
 
-"I have numberless other letters," continued Moon, "all bearing witness
+"I have numberless other letters," continued [[Moon]], "all bearing witness
 to this widespread feeling about my eminent friend; and I therefore think
 that Dr. Pym should have admitted this side of the question in his survey.
 We are in the presence, as Dr. Pym so truly says, of a natural force.
-As soon stay the cataract of the London water-works as stay
+As soon stay the cataract of the [[London]] [[Water|water]]-works as stay
 the great tendency of Dr. Warner to be assassinated by somebody.
 Place that man in a Quakers' meeting, among the most peaceful of Christians,
-and he will immediately be beaten to death with sticks of chocolate.
+and he will immediately be beaten to [[Death|death]] with sticks of chocolate.
 Place him among the angels of the New Jerusalem, and he will be stoned
-to death with precious stones.  Circumstances may be beautiful and wonderful,
+to [[Death|death]] with precious stones.  Circumstances may be beautiful and wonderful,
 the average may be heart-upholding, the harvester may be golden-bearded,
 the doctor may be secret-guessing, the cataract may be iris-leapt,
 the Anglo-Saxon infant may be brave-browed, but against and above
@@ -93,24 +93,24 @@ succeeds at last."
 
 He pronounced this peroration with an appearance of strong emotion.
 But even stronger emotions were manifesting themselves on the other
-side of the table.  Dr. Warner had leaned his large body quite across
+side of the table.  Dr. Warner had leaned his large [[Body|body]] quite across
 the little figure of Moses Gould and was talking in excited whispers
 to Dr. Pym.  That expert nodded a great many times and finally started
 to his feet with a sincere expression of sternness.
 
 "Ladies and gentlemen," he cried indignantly, "as my colleague has said,
 we should be delighted to give any latitude to the defence--if there
-were a defence.  But Mr. Moon seems to think he is there to make jokes--
+were a defence.  But Mr. [[Moon]] seems to think he is there to make jokes--
 very good jokes I dare say, but not at all adapted to assist his client.
 He picks holes in science.  He picks holes in my client's social popularity.
 He picks holes in my literary style, which doesn't seem to suit his high-toned
 European taste.  But how does this picking of holes affect the issue?
-This Smith has picked two holes in my client's hat, and with an inch better
+This [[smith|Smith]] has picked two holes in my client's hat, and with an inch better
 aim would have picked two holes in his head.  All the jokes in the world
 won't unpick those holes or be any use for the defence."
 
 Inglewood looked down in some embarrassment, as if shaken by the evident
-fairness of this, but Moon still gazed at his opponent in a dreamy way.
+fairness of this, but [[Moon]] still gazed at his opponent in a dreamy way.
 "The defence?" he said vaguely--"oh, I haven't begun that yet."
 
 "You certainly have not," said Pym warmly, amid a murmur of applause
@@ -118,15 +118,15 @@ from his side, which the other side found it impossible to answer.
 "Perhaps, if you have any defence, which has been doubtful from
 the very beginning--"
 
-"While you're standing up," said Moon, in the same almost sleepy style,
+"While you're standing up," said [[Moon]], in the same almost sleepy style,
 "perhaps I might ask you a question."
 
 "A question?  Certainly," said Pym stiffly.  "It was distinctly
-arranged between us that as we could not cross-examine
-the witnesses, we might vicariously cross-examine each other.
+arranged between us that as we could not [[Cross|cross]]-examine
+the witnesses, we might vicariously [[Cross|cross]]-examine each other.
 We are in a position to invite all such inquiry."
 
-"I think you said," observed Moon absently, "that none of the prisoner's
+"I think you said," observed [[Moon]] absently, "that none of the prisoner's
 shots really hit the doctor."
 
 "For the cause of science," cried the complacent Pym, "fortunately not."
@@ -136,4 +136,4 @@ shots really hit the doctor."
 "Yes; about four feet."
 
 "And no shots hit the Warden, though they were fired quite close
-to him too?" asked Moon.
+to him too?" asked [[Moon]].

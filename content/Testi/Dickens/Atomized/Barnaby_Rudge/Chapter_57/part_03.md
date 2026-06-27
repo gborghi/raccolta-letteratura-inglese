@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 57 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 57 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,12 +17,12 @@ tags:
 As yet there had been no symptom of the news having any better
 foundation than in the fears of those who brought it, but The Boot had
 not been deserted five minutes, when there appeared, coming across the
-fields, a body of men who, it was easy to see, by the glitter of their
+fields, a [[Body|body]] of men who, it was easy to see, by the glitter of their
 arms and ornaments in the sun, and by their orderly and regular mode of
 advancing--for they came on as one man--were soldiers. In a very little
-time, Barnaby knew that they were a strong detachment of the Foot
+[[Time|time]], Barnaby knew that they were a strong detachment of the Foot
 Guards, having along with them two gentlemen in private clothes, and a
-small party of Horse; the latter brought up the rear, and were not in
+small party of [[Horse]]; the latter brought up the rear, and were not in
 number more than six or eight.
 
 They advanced steadily; neither quickening their pace as they came
@@ -36,7 +36,7 @@ resolutely, and looked on undismayed.
 Presently, they marched into the yard, and halted. The
 commanding-officer despatched a messenger to the horsemen, one of whom
 came riding back. Some words passed between them, and they glanced at
-Barnaby; who well remembered the man he had unhorsed at Westminster, and
+Barnaby; who [[Well|well]] remembered the man he had unhorsed at Westminster, and
 saw him now before his eyes. The man being speedily dismissed, saluted,
 and rode back to his comrades, who were drawn up apart at a short
 distance.
@@ -46,7 +46,7 @@ the musket-stocks upon the ground, and the sharp and rapid rattling of
 the ramrods in their barrels, were a kind of relief to Barnaby, deadly
 though he knew the purport of such sounds to be. When this was done,
 other commands were given, and the soldiers instantaneously formed in
-single file all round the house and stables; completely encircling them
+single file all round the [[house]] and stables; completely encircling them
 in every part, at a distance, perhaps, of some half-dozen yards; at
 least that seemed in Barnaby’s eyes to be about the space left between
 himself and those who confronted him. The horsemen remained drawn up by
@@ -59,7 +59,7 @@ surrender.
 
 He made no answer, but stepping within the door, before which he had
 kept guard, held his pole crosswise to protect it. In the midst of a
-profound silence, he was again called upon to yield.
+profound [[Silence|silence]], he was again called upon to yield.
 
 Still he offered no reply. Indeed he had enough to do, to run his eye
 backward and forward along the half-dozen men who immediately fronted
@@ -67,12 +67,12 @@ him, and settle hurriedly within himself at which of them he would
 strike first, when they pressed on him. He caught the eye of one in the
 centre, and resolved to hew that fellow down, though he died for it.
 
-Again there was a dead silence, and again the same voice called upon him
+Again there was a dead [[Silence|silence]], and again the same voice called upon him
 to deliver himself up.
 
 Next moment he was back in the stable, dealing blows about him like a
 madman. Two of the men lay stretched at his feet: the one he had marked,
-dropped first--he had a thought for that, even in the hot blood and
+dropped first--he had a thought for that, even in the hot [[Blood|blood]] and
 hurry of the struggle. Another blow--another! Down, mastered, wounded in
 the breast by a heavy blow from the butt-end of a gun (he saw the weapon
 in the act of falling)--breathless--and a prisoner.
@@ -92,7 +92,7 @@ questioned or reproached him, or seemed to have much curiosity about
 him. The two men he had stunned, were carried off by their companions in
 the same business-like way in which everything else was done. Finally,
 he was left under a guard of four soldiers with fixed bayonets, while
-the officer directed in person the search of the house and the other
+the officer directed in person the search of the [[house]] and the other
 buildings connected with it.
 
 This was soon completed. The soldiers formed again in the yard; he was
@@ -110,7 +110,7 @@ noises of the streets seemed muffled and subdued; and the air came stale
 and hot upon him, like the sickly breath of an oven.
 
 Tramp, tramp. Tramp, tramp. Heads erect, shoulders square, every man
-stepping in exact time--all so orderly and regular--nobody looking at
+stepping in exact [[Time|time]]--all so orderly and regular--nobody looking at
 him--nobody seeming conscious of his presence,--he could hardly believe
 he was a Prisoner. But at the word, though only thought, not spoken, he
 felt the handcuffs galling his wrists, the cord pressing his arms to

@@ -16,7 +16,7 @@ tags:
 
       mice. In his heart he wished for nothing more ardently than our
 
-      union. He had made up his mind to this all along. In fact, he
+      [[Union|union]]. He had made up his mind to this all along. In fact, he
 
       would have given ten thousand pounds from his own pocket (Kate’s
 
@@ -42,11 +42,11 @@ tags:
 
       old-womanish superstition which beset him. He was great in
 
-      dreams, portents, et id genus omne of rigmarole. He was
+      [[Dreams|dreams]], portents, et id genus omne of rigmarole. He was
 
       excessively punctilious, too, upon small points of honor, and,
 
-      after his own fashion, was a man of his word, beyond doubt. This
+      after his own fashion, was a man of his word, beyond [[Doubt|doubt]]. This
 
       was, in fact, one of his hobbies. The spirit of his vows he made
 
@@ -60,7 +60,7 @@ tags:
 
       unexpected advantage, and, having thus, in the fashion of all
 
-      modern bards and orators, exhausted in prolegomena, all the time
+      modern bards and orators, exhausted in prolegomena, all the [[Time|time]]
 
       at my command, and nearly all the room at my disposal, I will sum
 
@@ -78,7 +78,7 @@ tags:
 
       cousin and I, preconcertedly paid uncle Rumgudgeon a visit on the
 
-      afternoon of Sunday, October the tenth,—just three weeks after
+      afternoon of [[Sunday]], October the tenth,—just three weeks after
 
       the memorable decision which had so cruelly defeated our hopes.
 
@@ -90,7 +90,7 @@ tags:
 
 
 
-      CAPT. PRATT. “Well I have been absent just one year.—Just one
+      CAPT. PRATT. “[[Well]] I have been absent just one year.—Just one
 
       year to-day, as I live—let me see! yes!—this is October the
 
@@ -112,7 +112,7 @@ tags:
 
 
 
-      UNCLE. “Yes, yes, yes—I remember it very well—very queer indeed!
+      UNCLE. “Yes, yes, yes—I remember it very [[Well|well]]—very queer indeed!
 
       Both of you gone just one year. A very strange coincidence,
 
@@ -142,7 +142,7 @@ tags:
 
       KATE. “Why, papa, Captain Pratt went round Cape Horn, and Captain
 
-      Smitherton doubled the Cape of Good Hope.”
+      Smitherton doubled the Cape of Good [[Hope]].”
 
 
 
@@ -164,25 +164,25 @@ tags:
 
       PRATT. “Wist, my dear fellow—you forget. To-morrow will be
 
-      Sunday. Some other evening—”
+      [[Sunday]]. Some other evening—”
 
 
 
       KATE. “Oh, no, fie!—Robert’s not quite so bad as that. To-day’s
 
-      Sunday.”
+      [[Sunday]].”
 
 
 
       PRATT. “I beg both your pardons—but I can’t be so much mistaken.
 
-      I know to-morrow’s Sunday, because-”
+      I know to-morrow’s [[Sunday]], because-”
 
 
 
       SMITHERTON. (Much surprised.) “What are you all thinking about?
 
-      Wasn’t yesterday, Sunday, I should like to know?”
+      Wasn’t yesterday, [[Sunday]], I should like to know?”
 
 
 
@@ -190,33 +190,33 @@ tags:
 
 
 
-      UNCLE. “To-day’s Sunday, I say—don’t I know?”
+      UNCLE. “To-day’s [[Sunday]], I say—don’t I know?”
 
 
 
-      PRATT. “Oh no!—to-morrow’s Sunday.”
+      PRATT. “Oh no!—to-morrow’s [[Sunday]].”
 
 
 
       SMITHERTON. “You are all mad—every one of you. I am as positive
 
-      that yesterday was Sunday as I am that I sit upon this chair.”
+      that yesterday was [[Sunday]] as I am that I sit upon this chair.”
 
 
 
       KATE. (Jumping up eagerly.) “I see it—I see it all. Papa, this is
 
-      a judgment upon you, about—about you know what. Let me alone, and
+      a judgment upon you, about—about you know what. Let me [[Alone|alone]], and
 
       I’ll explain it all in a minute. It’s a very simple thing,
 
-      indeed. Captain Smitherton says that yesterday was Sunday: so it
+      indeed. Captain Smitherton says that yesterday was [[Sunday]]: so it
 
       was; he is right. Cousin Bobby, and uncle and I say that to-day
 
-      is Sunday: so it is; we are right. Captain Pratt maintains that
+      is [[Sunday]]: so it is; we are right. Captain Pratt maintains that
 
-      to-morrow will be Sunday: so it will; he is right, too. The fact
+      to-morrow will be [[Sunday]]: so it will; he is right, too. The fact
 
       is, we are all right, and thus three Sundays have come together
 
@@ -244,13 +244,13 @@ tags:
 
 
 
-      SMITHERTON. (Drowning his voice.) “Well, sir; that is at the rate
+      SMITHERTON. (Drowning his voice.) “[[Well]], sir; that is at the rate
 
       of one thousand miles per hour. Now, suppose that I sail from
 
       this position a thousand miles east. Of course I anticipate the
 
-      rising of the sun here at London by just one hour. I see the sun
+      rising of the sun here at [[London]] by just one hour. I see the sun
 
       rise one hour before you do. Proceeding, in the same direction,
 
@@ -262,15 +262,15 @@ tags:
 
       spot, when, having gone twenty-four thousand miles east, I
 
-      anticipate the rising of the London sun by no less than
+      anticipate the rising of the [[London]] sun by no less than
 
       twenty-four hours; that is to say, I am a day in advance of your
 
-      time. Understand, eh?”
+      [[Time|time]]. Understand, eh?”
 
 
 
-      UNCLE. “But Double L. Dee—”
+      UNCLE. “But [[Double]] L. Dee—”
 
 
 
@@ -282,11 +282,11 @@ tags:
 
       thousand miles west, was twenty-four hours, or one day, behind
 
-      the time at London. Thus, with me, yesterday was Sunday—thus,
+      the [[Time|time]] at [[London]]. Thus, with me, yesterday was [[Sunday]]—thus,
 
-      with you, to-day is Sunday—and thus, with Pratt, to-morrow will
+      with you, to-day is [[Sunday]]—and thus, with Pratt, to-morrow will
 
-      be Sunday. And what is more, Mr. Rumgudgeon, it is positively
+      be [[Sunday]]. And what is more, Mr. Rumgudgeon, it is positively
 
       clear that we are all right; for there can be no philosophical
 
@@ -296,7 +296,7 @@ tags:
 
 
 
-      UNCLE. “My eyes!—well, Kate—well, Bobby!—this is a judgment upon
+      UNCLE. “My eyes!—[[Well|well]], Kate—[[Well|well]], Bobby!—this is a judgment upon
 
       me, as you say. But I am a man of my word—mark that! you shall
 
@@ -314,4 +314,4 @@ tags:
 
 
 
-End of the Project Gutenberg EBook of The Works of Edgar Allan Poe, Volume 3, by Edgar Allan Poe
+End of the Project Gutenberg EBook of The Works of [[Edgar]] Allan Poe, Volume 3, by [[Edgar]] Allan Poe

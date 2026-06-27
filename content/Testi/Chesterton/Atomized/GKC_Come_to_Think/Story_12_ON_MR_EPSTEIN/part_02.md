@@ -16,7 +16,7 @@ tags:
 
 Being myself a man in the street, and a mere casual figure in
 the crowd, I can testify to my own reactions in a case like that
-of the Night of Mr. Epstein.  I can see that it has fine lines
+of the [[Night]] of Mr. Epstein.  I can see that it has fine lines
 in it; that the broad sweep of the hand like a great flapper,
 as if flattening out the prostrate and already featureless sleeper,
 is deliberately and not clumsily flat.  But when I look up at the face
@@ -108,10 +108,10 @@ as the case might be, as being looser or less dignified, or richer
 or more free.  Or, to take the other example, a Victorian accustomed
 to the Tennysonian tone and imagery, in lines like:
 
-`The sun came dazzling through the leaves And flamed upon the brazen
+`The sun came dazzling through the [[Leaves|leaves]] And flamed upon the brazen
 greaves Of bold Sir Lancelot,'
 
-did undoubtedly feel, either with pain or pleasure, a different sort
+did undoubtedly feel, either with [[Pain|pain]] or pleasure, a different sort
 of tone and imagery in the new and musical verse of Swinburne:
 
 `Ringed round with a flame of fair faces And splendid with swords.'
@@ -132,7 +132,7 @@ in the moat and all.'
 The Victorian might think the flame of Swinburne too flamboyant,
 or even foolishly flamboyant.  But he would know what Swinburne
 meant by saying that a face was a flame.  And it is very doubtful
-if he would know what Miss Sitwell meant by saying that a queen
+if he would know what Miss Sitwell meant by saying that a [[Queen|queen]]
 was a fish, or that a fish was elaborately equipped with
 chain-armour. Still less would he necessarily understand why
 something on a wall was like something totally different in a moat.
@@ -145,7 +145,7 @@ I think there is an explanation.  I think the subtle are
 seeking simplicity, because the simple have been soaked and choked
 with subtlety, or at least with complexity.  The people, who are
 the right guardians of normal ideas, have been bullied and bludgeoned
-by bad materialistic education till they are simply stunned
+by bad materialistic [[Education|education]] till they are simply stunned
 and stupefied.  Meanwhile, the clever and complex people are trying
 to return to direct ideas, but can only do it in an indirect way;
 they long for straight lines, but cannot go for them straight.

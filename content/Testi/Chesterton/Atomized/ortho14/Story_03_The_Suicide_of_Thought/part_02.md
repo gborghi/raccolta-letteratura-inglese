@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — The Suicide of Thought (part 2)"
+title: "[[ortho14]] — The [[suicide|Suicide]] of Thought (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ortho14-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-     The sages, it is often said, can see no answer to the riddle
+     The sages, it is often said, can see no answer to the [[Riddle|riddle]]
 of religion.  But the trouble with our sages is not that they
-cannot see the answer; it is that they cannot even see the riddle.
+cannot see the answer; it is that they cannot even see the [[Riddle|riddle]].
 They are like children so stupid as to notice nothing paradoxical
 in the playful assertion that a door is not a door.  The modern
 latitudinarians speak, for instance, about authority in religion
@@ -40,12 +40,12 @@ next generation, by all entering a monastery or jumping into the sea,
 so one set of thinkers can in some degree prevent further thinking
 by teaching the next generation that there is no validity in any
 human thought.  It is idle to talk always of the alternative of
-reason and faith.  Reason is itself a matter of faith.  It is
-an act of faith to assert that our thoughts have any relation to
+reason and [[Faith|faith]].  Reason is itself a matter of [[Faith|faith]].  It is
+an act of [[Faith|faith]] to assert that our thoughts have any relation to
 reality at all.  If you are merely a sceptic, you must sooner
 or later ask yourself the question, "Why should ANYTHING go right;
-even observation and deduction?  Why should not good logic be as
-misleading as bad logic?  They are both movements in the brain of a
+even observation and deduction?  Why should not good [[logic]] be as
+misleading as bad [[logic]]?  They are both movements in the brain of a
 bewildered ape?"  The young sceptic says, "I have a right to think
 for myself."  But the old sceptic, the complete sceptic, says,
 "I have no right to think for myself.  I have no right to think at all."
@@ -60,7 +60,7 @@ In this he questions the brain itself, and endeavours to remove
 all reality from all his own assertions, past, present, and to come. 
 But it was against this remote ruin that all the military
 systems in religion were originally ranked and ruled.  The creeds
-and the crusades, the hierarchies and the horrible persecutions
+and the [[Crusades|crusades]], the hierarchies and the horrible persecutions
 were not organized, as is ignorantly said, for the suppression
 of reason.  They were organized for the difficult defence of
 reason.  Man, by a blind instinct, knew that if once things
@@ -68,7 +68,7 @@ were wildly questioned, reason could be questioned first.
 The authority of priests to absolve, the authority of popes
 to define the authority, even of inquisitors to terrify: 
 these were all only dark defences erected round one central
-authority, more undemonstrable, more supernatural than all--
+authority, more undemonstrable, more [[Supernatural|supernatural]] than all--
 the authority of a man to think.  We know now that this is so;
 we have no excuse for not knowing it.  For we can hear scepticism
 crashing through the old ring of authorities, and at the same
@@ -94,24 +94,24 @@ called evolution.
 
      Evolution is a good example of that modern intelligence which,
 if it destroys anything, destroys itself.  Evolution is either
-an innocent scientific description of how certain earthly things
+an [[Innocent|innocent]] scientific description of how certain earthly things
 came about; or, if it is anything more than this, it is an attack
 upon thought itself.  If evolution destroys anything, it does
 not destroy religion but rationalism.  If evolution simply
 means that a positive thing called an ape turned very slowly
 into a positive thing called a man, then it is stingless for the
-most orthodox; for a personal God might just as well do things
+most orthodox; for a personal God might just as [[Well|well]] do things
 slowly as quickly, especially if, like the Christian God, he were
-outside time.  But if it means anything more, it means that
+outside [[Time|time]].  But if it means anything more, it means that
 there is no such thing as an ape to change, and no such thing as
 a man for him to change into.  It means that there is no such
 thing as a thing.  At best, there is only one thing, and that
 is a flux of everything and anything.  This is an attack not
-upon the faith, but upon the mind; you cannot think if there are
+upon the [[Faith|faith]], but upon the mind; you cannot think if there are
 no things to think about.  You cannot think if you are not
 separate from the subject of thought.  Descartes said, "I think;
 therefore I am."  The philosophic evolutionist reverses and
-negatives the epigram.  He says, "I am not; therefore I
+negatives the [[Epigram|epigram]].  He says, "I am not; therefore I
 cannot think."
 
      Then there is the opposite attack on thought:  that urged

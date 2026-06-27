@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 15"
+title: "Bleak [[house|House]] — Chapter 15"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,7 +19,7 @@ CHAPTER XV
 Bell Yard
 
 
-While we were in London Mr. Jarndyce was constantly beset by the
+While we were in [[London]] Mr. Jarndyce was constantly beset by the
 crowd of excitable ladies and gentlemen whose proceedings had so much
 astonished us. Mr. Quale, who presented himself soon after our
 arrival, was in all such excitements. He seemed to project those two
@@ -29,7 +29,7 @@ almost ready to fly out of his head in inappeasable philanthropy. All
 objects were alike to him, but he was always particularly ready for
 anything in the way of a testimonial to any one. His great power
 seemed to be his power of indiscriminate admiration. He would sit for
-any length of time, with the utmost enjoyment, bathing his temples in
+any length of [[Time|time]], with the utmost enjoyment, bathing his temples in
 the light of any order of luminary. Having first seen him perfectly
 swallowed up in admiration of Mrs. Jellyby, I had supposed her to be
 the absorbing object of his devotion. I soon discovered my mistake
@@ -42,12 +42,12 @@ us; and just as he had drawn Mrs. Jellyby out, he drew Mrs. Pardiggle
 out. Mrs. Pardiggle wrote a letter of introduction to my guardian in
 behalf of her eloquent friend Mr. Gusher. With Mr. Gusher appeared
 Mr. Quale again. Mr. Gusher, being a flabby gentleman with a moist
-surface and eyes so much too small for his moon of a face that they
+surface and eyes so much too small for his [[Moon|moon]] of a face that they
 seemed to have been originally made for somebody else, was not at
 first sight prepossessing; yet he was scarcely seated before Mr.
 Quale asked Ada and me, not inaudibly, whether he was not a great
 creature—which he certainly was, flabbily speaking, though Mr. Quale
-meant in intellectual beauty—and whether we were not struck by his
+meant in intellectual [[Beauty|beauty]]—and whether we were not struck by his
 massive configuration of brow. In short, we heard of a great many
 missions of various sorts among this set of people, but nothing
 respecting them was half so clear to us as that it was Mr. Quale’s
@@ -55,21 +55,21 @@ mission to be in ecstasies with everybody else’s mission and that it
 was the most popular mission of all.
 
 Mr. Jarndyce had fallen into this company in the tenderness of his
-heart and his earnest desire to do all the good in his power; but
+heart and his earnest [[Desire|desire]] to do all the good in his power; but
 that he felt it to be too often an unsatisfactory company, where
-benevolence took spasmodic forms, where charity was assumed as a
+benevolence took spasmodic forms, where [[Charity|charity]] was assumed as a
 regular uniform by loud professors and speculators in cheap
 notoriety, vehement in profession, restless and vain in action,
 servile in the last degree of meanness to the great, adulatory of one
 another, and intolerable to those who were anxious quietly to help
 the weak from failing rather than with a great deal of bluster and
-self-laudation to raise them up a little way when they were down, he
+[[Self|self]]-laudation to raise them up a little way when they were down, he
 plainly told us. When a testimonial was originated to Mr. Quale by
 Mr. Gusher (who had already got one, originated by Mr. Quale), and
 when Mr. Gusher spoke for an hour and a half on the subject to a
-meeting, including two charity schools of small boys and girls, who
+meeting, including two [[Charity|charity]] schools of small boys and girls, who
 were specially reminded of the widow’s mite, and requested to come
-forward with halfpence and be acceptable sacrifices, I think the wind
+forward with halfpence and be acceptable sacrifices, I think the [[Wind|wind]]
 was in the east for three whole weeks.
 
 I mention this because I am coming to Mr. Skimpole again. It seemed
@@ -78,15 +78,15 @@ were a great relief to my guardian, by contrast with such things, and
 were the more readily believed in since to find one perfectly
 undesigning and candid man among many opposites could not fail to
 give him pleasure. I should be sorry to imply that Mr. Skimpole
-divined this and was politic; I really never understood him well
+divined this and was politic; I really never understood him [[Well|well]]
 enough to know. What he was to my guardian, he certainly was to the
 rest of the world.
 
-He had not been very well; and thus, though he lived in London, we
+He had not been very [[Well|well]]; and thus, though he lived in [[London]], we
 had seen nothing of him until now. He appeared one morning in his
 usual agreeable way and as full of pleasant spirits as ever.
 
-Well, he said, here he was! He had been bilious, but rich men were
+[[Well]], he said, here he was! He had been bilious, but rich men were
 often bilious, and therefore he had been persuading himself that he
 was a man of property. So he was, in a certain point of view—in his
 expansive intentions. He had been enriching his medical attendant in
@@ -99,14 +99,14 @@ meant it to that degree that he thought it much the same as doing it.
 If he had had those bits of metal or thin paper to which mankind
 attached so much importance to put in the doctor’s hand, he would
 have put them in the doctor’s hand. Not having them, he substituted
-the will for the deed. Very well! If he really meant it—if his will
+the will for the deed. Very [[Well|well]]! If he really meant it—if his will
 were genuine and real, which it was—it appeared to him that it was
 the same as coin, and cancelled the obligation.
 
 “It may be, partly, because I know nothing of the value of money,”
 said Mr. Skimpole, “but I often feel this. It seems so reasonable! My
 butcher says to me he wants that little bill. It’s a part of the
-pleasant unconscious poetry of the man’s nature that he always calls
+pleasant unconscious poetry of the man’s [[Nature|nature]] that he always calls
 it a ‘little’ bill—to make the payment appear easy to both of us. I
 reply to the butcher, ‘My good friend, if you knew it, you are paid.
 You haven’t had the trouble of coming to ask for the little bill. You
@@ -117,14 +117,14 @@ the bill, instead of providing it?”
 
 “My dear Jarndyce,” he returned, “you surprise me. You take the
 butcher’s position. A butcher I once dealt with occupied that very
-ground. Says he, ‘Sir, why did you eat spring lamb at eighteen pence
-a pound?’ ‘Why did I eat spring lamb at eighteen pence a pound, my
+ground. Says he, ‘Sir, why did you eat [[spring]] [[Lamb|lamb]] at eighteen pence
+a pound?’ ‘Why did I eat [[spring]] [[Lamb|lamb]] at eighteen pence a pound, my
 honest friend?’ said I, naturally amazed by the question. ‘I like
-spring lamb!’ This was so far convincing. ‘Well, sir,’ says he, ‘I
-wish I had meant the lamb as you mean the money!’ ‘My good fellow,’
+[[spring]] [[Lamb|lamb]]!’ This was so far convincing. ‘[[Well]], sir,’ says he, ‘I
+wish I had meant the [[Lamb|lamb]] as you mean the money!’ ‘My good fellow,’
 said I, ‘pray let us reason like intellectual beings. How could that
-be? It was impossible. You HAD got the lamb, and I have NOT got the
-money. You couldn’t really mean the lamb without sending it in,
+be? It was impossible. You HAD got the [[Lamb|lamb]], and I have NOT got the
+money. You couldn’t really mean the [[Lamb|lamb]] without sending it in,
 whereas I can, and do, really mean the money without paying it!’ He
 had not a word. There was an end of the subject.”
 
@@ -133,12 +133,12 @@ had not a word. There was an end of the subject.”
 “Yes, he took legal proceedings,” said Mr. Skimpole. “But in that he
 was influenced by passion, not by reason. Passion reminds me of
 Boythorn. He writes me that you and the ladies have promised him a
-short visit at his bachelor-house in Lincolnshire.”
+short visit at his bachelor-[[house]] in Lincolnshire.”
 
 “He is a great favourite with my girls,” said Mr. Jarndyce, “and I
 have promised for them.”
 
-“Nature forgot to shade him off, I think,” observed Mr. Skimpole to
+“[[Nature]] forgot to shade him off, I think,” observed Mr. Skimpole to
 Ada and me. “A little too boisterous—like the sea. A little too
 vehement—like a bull who has made up his mind to consider every
 colour scarlet. But I grant a sledge-hammering sort of merit in him!”
@@ -151,8 +151,8 @@ breaking out into some strong opinion when Mr. Skimpole was referred
 to. Of course I merely joined Ada in saying that we had been greatly
 pleased with him.
 
-“He has invited me,” said Mr. Skimpole; “and if a child may trust
-himself in such hands—which the present child is encouraged to do,
+“He has invited me,” said Mr. Skimpole; “and if a [[Child|child]] may trust
+himself in such hands—which the present [[Child|child]] is encouraged to do,
 with the united tenderness of two angels to guard him—I shall go. He
 proposes to frank me down and back again. I suppose it will cost
 money? Shillings perhaps? Or pounds? Or something of that sort? By
@@ -169,10 +169,10 @@ Skimpole. “He will never do violence to the sunshine any more.”
 
 It quite shocked me to hear it, for I had already recalled with
 anything but a serious association the image of the man sitting on
-the sofa that night wiping his head.
+the sofa that [[Night|night]] wiping his head.
 
 “His successor informed me of it yesterday,” said Mr. Skimpole. “His
-successor is in my house now—in possession, I think he calls it. He
+successor is in my [[house]] now—in possession, I think he calls it. He
 came yesterday, on my blue-eyed daughter’s birthday. I put it to him,
 ‘This is unreasonable and inconvenient. If you had a blue-eyed
 daughter you wouldn’t like ME to come, uninvited, on HER birthday?’
@@ -187,7 +187,7 @@ that Coavinses’ profession. Being unpopular. The rising Coavinses.
 Were at a considerable disadvantage.”
 
 Mr. Jarndyce got up, rubbing his head, and began to walk about. Mr.
-Skimpole played the melody of one of Ada’s favourite songs. Ada and I
+Skimpole played the melody of one of Ada’s favourite [[songs]]. Ada and I
 both looked at Mr. Jarndyce, thinking that we knew what was passing
 in his mind.
 
@@ -202,9 +202,9 @@ surprised.
 “The man was necessary,” pursued my guardian, walking backward and
 forward in the very short space between the piano and the end of the
 room and rubbing his hair up from the back of his head as if a high
-east wind had blown it into that form. “If we make such men necessary
+east [[Wind|wind]] had blown it into that form. “If we make such men necessary
 by our faults and follies, or by our want of worldly knowledge, or by
-our misfortunes, we must not revenge ourselves upon them. There was
+our misfortunes, we must not [[Revenge|revenge]] ourselves upon them. There was
 no harm in his trade. He maintained his children. One would like to
 know more about this.”
 
@@ -219,7 +219,7 @@ us and quite enjoyed the expedition. It was so new and so refreshing,
 he said, for him to want Coavinses instead of Coavinses wanting him!
 
 He took us, first, to Cursitor Street, Chancery Lane, where there was
-a house with barred windows, which he called Coavinses’ Castle. On
+a [[house]] with barred windows, which he called Coavinses’ [[Castle]]. On
 our going into the entry and ringing a bell, a very hideous boy came
 out of a sort of office and looked at us over a spiked wicket.
 
@@ -229,7 +229,7 @@ chin.
 “There was a follower, or an officer, or something, here,” said Mr.
 Jarndyce, “who is dead.”
 
-“Yes?” said the boy. “Well?”
+“Yes?” said the boy. “[[Well]]?”
 
 “I want to know his name, if you please?”
 
@@ -252,7 +252,7 @@ might have undertaken to do it and not done it. Thank you. That’s all
 I want.”
 
 We left the boy, with his head on one side and his arms on the gate,
-fondling and sucking the spikes, and went back to Lincoln’s Inn,
+fondling and sucking the spikes, and went back to [[Lincoln]]’s Inn,
 where Mr. Skimpole, who had not cared to remain nearer Coavinses,
 awaited us. Then we all went to Bell Yard, a narrow alley at a very
 short distance. We soon found the chandler’s shop. In it was a
@@ -294,14 +294,14 @@ Mrs. Blinder’s got the key!”
 I applied the key on hearing this and opened the door. In a poor room
 with a sloping ceiling and containing very little furniture was a
 mite of a boy, some five or six years old, nursing and hushing a
-heavy child of eighteen months. There was no fire, though the weather
+heavy [[Child|child]] of eighteen months. There was no [[Fire|fire]], though the weather
 was cold; both children were wrapped in some poor shawls and tippets
 as a substitute. Their clothing was not so warm, however, but that
 their noses looked red and pinched and their small figures shrunken
-as the boy walked up and down nursing and hushing the child with its
+as the boy walked up and down nursing and hushing the [[Child|child]] with its
 head on his shoulder.
 
-“Who has locked you up here alone?” we naturally asked.
+“Who has locked you up here [[Alone|alone]]?” we naturally asked.
 
 “Charley,” said the boy, standing still to gaze at us.
 
@@ -311,14 +311,14 @@ head on his shoulder.
 
 “Are there any more of you besides Charley?”
 
-“Me,” said the boy, “and Emma,” patting the limp bonnet of the child
+“Me,” said the boy, “and [[Emma]],” patting the limp bonnet of the [[Child|child]]
 he was nursing. “And Charley.”
 
 “Where is Charley now?”
 
 “Out a-washing,” said the boy, beginning to walk up and down again
 and taking the nankeen bonnet much too near the bedstead by trying to
-gaze at us at the same time.
+gaze at us at the same [[Time|time]].
 
 We were looking at one another and at these two children when there
 came into the room a very little girl, childish in figure but shrewd
@@ -326,9 +326,9 @@ and older-looking in the face—pretty-faced too—wearing a womanly
 sort of bonnet much too large for her and drying her bare arms on a
 womanly sort of apron. Her fingers were white and wrinkled with
 washing, and the soap-suds were yet smoking which she wiped off her
-arms. But for this, she might have been a child playing at washing
+arms. But for this, she might have been a [[Child|child]] playing at washing
 and imitating a poor working-woman with a quick observation of the
-truth.
+[[Truth|truth]].
 
 She had come running from some place in the neighbourhood and had
 made all the haste she could. Consequently, though she was very
@@ -337,14 +337,14 @@ stood panting, and wiping her arms, and looking quietly at us.
 
 “Oh, here’s Charley!” said the boy.
 
-The child he was nursing stretched forth its arms and cried out to be
+The [[Child|child]] he was nursing stretched forth its arms and cried out to be
 taken by Charley. The little girl took it, in a womanly sort of
 manner belonging to the apron and the bonnet, and stood looking at us
 over the burden that clung to her most affectionately.
 
 “Is it possible,” whispered my guardian as we put a chair for the
 little creature and got her to sit down with her load, the boy
-keeping close to her, holding to her apron, “that this child works
+keeping close to her, holding to her apron, “that this [[Child|child]] works
 for the rest? Look at this! For God’s sake, look at this!”
 
 It was a thing to look at. The three children close together, and two
@@ -354,7 +354,7 @@ childish figure.
 
 “Charley, Charley!” said my guardian. “How old are you?”
 
-“Over thirteen, sir,” replied the child.
+“Over thirteen, sir,” replied the [[Child|child]].
 
 “Oh! What a great age,” said my guardian. “What a great age,
 Charley!”
@@ -362,10 +362,10 @@ Charley!”
 I cannot describe the tenderness with which he spoke to her, half
 playfully yet all the more compassionately and mournfully.
 
-“And do you live alone here with these babies, Charley?” said my
+“And do you live [[Alone|alone]] here with these babies, Charley?” said my
 guardian.
 
-“Yes, sir,” returned the child, looking up into his face with perfect
+“Yes, sir,” returned the [[Child|child]], looking up into his face with perfect
 confidence, “since father died.”
 
 “And how do you live, Charley? Oh! Charley,” said my guardian,
@@ -382,10 +382,10 @@ belonged to mother.”
 
 “And when did mother die? Poor mother!”
 
-“Mother died just after Emma was born,” said the child, glancing at
+“Mother died just after [[Emma]] was born,” said the [[Child|child]], glancing at
 the face upon her bosom. “Then father said I was to be as good a
-mother to her as I could. And so I tried. And so I worked at home and
-did cleaning and nursing and washing for a long time before I began
+mother to her as I could. And so I tried. And so I worked at [[Home|home]] and
+did cleaning and nursing and washing for a long [[Time|time]] before I began
 to go out. And that’s how I know how; don’t you see, sir?”
 
 “And do you often go out?”
@@ -402,54 +402,54 @@ an’t afraid of being locked up, are you, Tom?”
 
 “No-o!” said Tom stoutly.
 
-“When it comes on dark, the lamps are lighted down in the court, and
+“When it comes on dark, the lamps are lighted down in the [[Court|court]], and
 they show up here quite bright—almost quite bright. Don’t they,
 Tom?”
 
 “Yes, Charley,” said Tom, “almost quite bright.”
 
 “Then he’s as good as gold,” said the little creature—Oh, in such a
-motherly, womanly way! “And when Emma’s tired, he puts her to bed.
-And when he’s tired he goes to bed himself. And when I come home and
+motherly, womanly way! “And when [[Emma]]’s tired, he puts her to bed.
+And when he’s tired he goes to bed himself. And when I come [[Home|home]] and
 light the candle and has a bit of supper, he sits up again and has it
 with me. Don’t you, Tom?”
 
 “Oh, yes, Charley!” said Tom. “That I do!” And either in this glimpse
-of the great pleasure of his life or in gratitude and love for
+of the great pleasure of his life or in gratitude and [[Love|love]] for
 Charley, who was all in all to him, he laid his face among the scanty
 folds of her frock and passed from laughing into crying.
 
-It was the first time since our entry that a tear had been shed among
-these children. The little orphan girl had spoken of their father and
+It was the first [[Time|time]] since our entry that a tear had been shed among
+these children. The little [[Orphan|orphan]] girl had spoken of their father and
 their mother as if all that sorrow were subdued by the necessity of
-taking courage, and by her childish importance in being able to work,
+taking [[Courage|courage]], and by her childish importance in being able to work,
 and by her bustling busy way. But now, when Tom cried, although she
 sat quite tranquil, looking quietly at us, and did not by any
 movement disturb a hair of the head of either of her little charges,
-I saw two silent tears fall down her face.
+I saw two silent [[Tears|tears]] fall down her face.
 
-I stood at the window with Ada, pretending to look at the housetops,
+I stood at the [[Window|window]] with Ada, pretending to look at the housetops,
 and the blackened stack of chimneys, and the poor plants, and the
-birds in little cages belonging to the neighbours, when I found that
+[[Birds|birds]] in little cages belonging to the neighbours, when I found that
 Mrs. Blinder, from the shop below, had come in (perhaps it had taken
-her all this time to get upstairs) and was talking to my guardian.
+her all this [[Time|time]] to get upstairs) and was talking to my guardian.
 
 “It’s not much to forgive ’em the rent, sir,” she said; “who could
 take it from them!”
 
-“Well, well!” said my guardian to us two. “It is enough that the time
+“[[Well]], [[Well|well]]!” said my guardian to us two. “It is enough that the [[Time|time]]
 will come when this good woman will find that it WAS much, and that
-forasmuch as she did it unto the least of these—This child,” he
+forasmuch as she did it unto the least of these—This [[Child|child]],” he
 added after a few moments, “could she possibly continue this?”
 
 “Really, sir, I think she might,” said Mrs. Blinder, getting her
 heavy breath by painful degrees. “She’s as handy as it’s possible to
 be. Bless you, sir, the way she tended them two children after the
-mother died was the talk of the yard! And it was a wonder to see her
+mother died was the talk of the yard! And it was a [[Wonder|wonder]] to see her
 with him after he was took ill, it really was! ‘Mrs. Blinder,’ he
 said to me the very last he spoke—he was lying there—‘Mrs.
 Blinder, whatever my calling may have been, I see a angel sitting in
-this room last night along with my child, and I trust her to Our
+this room last [[Night|night]] along with my [[Child|child]], and I trust her to Our
 Father!’”
 
 “He had no other calling?” said my guardian.
@@ -464,7 +464,7 @@ though his temper has been hard tried.”
 
 “So you gave him notice?” said my guardian.
 
-“So I gave him notice,” said Mrs. Blinder. “But really when the time
+“So I gave him notice,” said Mrs. Blinder. “But really when the [[Time|time]]
 came, and I knew no other ill of him, I was in doubts. He was
 punctual and diligent; he did what he had to do, sir,” said Mrs.
 Blinder, unconsciously fixing Mr. Skimpole with her eye, “and it’s
@@ -487,7 +487,7 @@ different. Mr. Coavins gave a guinea, and the follerers made up a
 little purse. Some neighbours in the yard that had always joked and
 tapped their shoulders when he went by came forward with a little
 subscription, and—in general—not so bad. Similarly with Charlotte.
-Some people won’t employ her because she was a follerer’s child; some
+Some people won’t employ her because she was a follerer’s [[Child|child]]; some
 people that do employ her cast it at her; some make a merit of having
 her to work for them, with that and all her draw-backs upon her, and
 perhaps pay her less and put upon her more. But she’s patienter than
@@ -504,8 +504,8 @@ up.
 
 “I don’t know what you may be doing here, ladies and gentlemen,” he
 said, as if he resented our presence, “but you’ll excuse my coming
-in. I don’t come in to stare about me. Well, Charley! Well, Tom!
-Well, little one! How is it with us all to-day?”
+in. I don’t come in to stare about me. [[Well]], Charley! [[Well]], Tom!
+[[Well]], little one! How is it with us all to-day?”
 
 He bent over the group in a caressing way and clearly was regarded as
 a friend by the children, though his face retained its stern
@@ -527,7 +527,7 @@ a quarrelsome temper. I am irascible. I am not polite!”
 
 “Not very, I think.”
 
-“Sir,” said Gridley, putting down the child and going up to him as if
+“Sir,” said Gridley, putting down the [[Child|child]] and going up to him as if
 he meant to strike him, “do you know anything of Courts of Equity?”
 
 “Perhaps I do, to my sorrow.”
@@ -536,14 +536,14 @@ he meant to strike him, “do you know anything of Courts of Equity?”
 your pardon. I am not polite, I know. I beg your pardon! Sir,” with
 renewed violence, “I have been dragged for five and twenty years over
 burning iron, and I have lost the habit of treading upon velvet. Go
-into the Court of Chancery yonder and ask what is one of the standing
+into the [[Court]] of Chancery yonder and ask what is one of the standing
 jokes that brighten up their business sometimes, and they will tell
 you that the best joke they have is the man from Shropshire. I,” he
 said, beating one hand on the other passionately, “am the man from
 Shropshire.”
 
-“I believe I and my family have also had the honour of furnishing
-some entertainment in the same grave place,” said my guardian
+“I believe I and my family have also had the [[Honour|honour]] of furnishing
+some entertainment in the same [[Grave|grave]] place,” said my guardian
 composedly. “You may have heard my name—Jarndyce.”
 
 “Mr. Jarndyce,” said Gridley with a rough sort of salutation, “you
@@ -554,10 +554,10 @@ should be driven mad! It is only by resenting them, and by revenging
 them in my mind, and by angrily demanding the justice I never get,
 that I am able to keep my wits together. It is only that!” he said,
 speaking in a homely, rustic way and with great vehemence. “You may
-tell me that I over-excite myself. I answer that it’s in my nature to
+tell me that I over-excite myself. I answer that it’s in my [[Nature|nature]] to
 do it, under wrong, and I must do it. There’s nothing between doing
 it, and sinking into the smiling state of the poor little mad woman
-that haunts the court. If I was once to sit down under it, I should
+that haunts the [[Court|court]]. If I was once to sit down under it, I should
 become imbecile.”
 
 The passion and heat in which he was, and the manner in which his
@@ -567,9 +567,9 @@ he said, were most painful to see.
 “Mr. Jarndyce,” he said, “consider my case. As true as there is a
 heaven above us, this is my case. I am one of two brothers. My father
 (a farmer) made a will and left his farm and stock and so forth to my
-mother for her life. After my mother’s death, all was to come to me
+mother for her life. After my mother’s [[Death|death]], all was to come to me
 except a legacy of three hundred pounds that I was then to pay my
-brother. My mother died. My brother some time afterwards claimed his
+brother. My mother died. My brother some [[Time|time]] afterwards claimed his
 legacy. I and some of my relations said that he had had a part of it
 already in board and lodging and some other things. Now mind! That
 was the question, and nothing else. No one disputed the will; no one
@@ -584,11 +584,11 @@ father’s son, about which there was no dispute at all with any mortal
 creature. He then found out that there were not defendants
 enough—remember, there were only seventeen as yet!—but that we must
 have another who had been left out and must begin all over again. The
-costs at that time—before the thing was begun!—were three times the
+costs at that [[Time|time]]—before the thing was begun!—were three times the
 legacy. My brother would have given up the legacy, and joyful, to
 escape more costs. My whole estate, left to me in that will of my
 father’s, has gone in costs. The suit, still undecided, has fallen
-into rack, and ruin, and despair, with everything else—and here I
+into rack, and ruin, and [[Despair|despair]], with everything else—and here I
 stand, this day! Now, Mr. Jarndyce, in your suit there are thousands
 and thousands involved, where in mine there are hundreds. Is mine
 less hard to bear or is it harder to bear, when my whole living was
@@ -600,12 +600,12 @@ monstrous system.
 
 “There again!” said Mr. Gridley with no diminution of his rage. “The
 system! I am told on all hands, it’s the system. I mustn’t look to
-individuals. It’s the system. I mustn’t go into court and say, ‘My
+individuals. It’s the system. I mustn’t go into [[Court|court]] and say, ‘My
 Lord, I beg to know this from you—is this right or wrong? Have you
 the face to tell me I have received justice and therefore am
 dismissed?’ My Lord knows nothing of it. He sits there to administer
 the system. I mustn’t go to Mr. Tulkinghorn, the solicitor in
-Lincoln’s Inn Fields, and say to him when he makes me furious by
+[[Lincoln]]’s Inn Fields, and say to him when he makes me furious by
 being so cool and satisfied—as they all do, for I know they gain by
 it while I lose, don’t I?—I mustn’t say to him, ‘I will have
 something out of some one for my ruin, by fair means or foul!’ HE is
@@ -619,7 +619,7 @@ without seeing it.
 
 “I have done!” he said, sitting down and wiping his face. “Mr.
 Jarndyce, I have done! I am violent, I know. I ought to know it. I
-have been in prison for contempt of court. I have been in prison for
+have been in [[Prison|prison]] for contempt of [[Court|court]]. I have been in [[Prison|prison]] for
 threatening the solicitor. I have been in this trouble, and that
 trouble, and shall be again. I am the man from Shropshire, and I
 sometimes go beyond amusing them, though they have found it amusing,
@@ -630,16 +630,16 @@ imbecile. I was a good-enough-tempered man once, I believe. People in
 my part of the country say they remember me so, but now I must have
 this vent under my sense of injury or nothing could hold my wits
 together. It would be far better for you, Mr. Gridley,’ the Lord
-Chancellor told me last week, ‘not to waste your time here, and to
+Chancellor told me last week, ‘not to waste your [[Time|time]] here, and to
 stay, usefully employed, down in Shropshire.’ ‘My Lord, my Lord, I
 know it would,’ said I to him, ‘and it would have been far better for
 me never to have heard the name of your high office, but unhappily
 for me, I can’t undo the past, and the past drives me here!’
 Besides,” he added, breaking fiercely out, “I’ll shame them. To the
-last, I’ll show myself in that court to its shame. If I knew when I
+last, I’ll show myself in that [[Court|court]] to its shame. If I knew when I
 was going to die, and could be carried there, and had a voice to
 speak with, I would die there, saying, ‘You have brought me here and
-sent me from here many and many a time. Now send me out feet
+sent me from here many and many a [[Time|time]]. Now send me out feet
 foremost!’”
 
 His countenance had, perhaps for years, become so set in its
@@ -653,28 +653,28 @@ are you?”
 
 “No!” said Tom. “You ain’t angry with ME.”
 
-“You are right, my child. You’re going back, Charley? Aye? Come then,
-little one!” He took the youngest child on his arm, where she was
-willing enough to be carried. “I shouldn’t wonder if we found a
+“You are right, my [[Child|child]]. You’re going back, Charley? Aye? Come then,
+little one!” He took the youngest [[Child|child]] on his arm, where she was
+willing enough to be carried. “I shouldn’t [[Wonder|wonder]] if we found a
 ginger-bread soldier downstairs. Let’s go and look for him!”
 
 He made his former rough salutation, which was not deficient in a
 certain respect, to Mr. Jarndyce, and bowing slightly to us, went
 downstairs to his room.
 
-Upon that, Mr. Skimpole began to talk, for the first time since our
-arrival, in his usual gay strain. He said, Well, it was really very
+Upon that, Mr. Skimpole began to talk, for the first [[Time|time]] since our
+arrival, in his usual gay strain. He said, [[Well]], it was really very
 pleasant to see how things lazily adapted themselves to purposes.
 Here was this Mr. Gridley, a man of a robust will and surprising
 energy—intellectually speaking, a sort of inharmonious
 blacksmith—and he could easily imagine that there Gridley was, years
 ago, wandering about in life for something to expend his superfluous
-combativeness upon—a sort of Young Love among the thorns—when the
-Court of Chancery came in his way and accommodated him with the exact
+combativeness upon—a sort of Young [[Love]] among the thorns—when the
+[[Court]] of Chancery came in his way and accommodated him with the exact
 thing he wanted. There they were, matched, ever afterwards! Otherwise
 he might have been a great general, blowing up all sorts of towns, or
 he might have been a great politician, dealing in all sorts of
-parliamentary rhetoric; but as it was, he and the Court of Chancery
+parliamentary rhetoric; but as it was, he and the [[Court]] of Chancery
 had fallen upon each other in the pleasantest way, and nobody was
 much the worse, and Gridley was, so to speak, from that hour provided
 for. Then look at Coavinses! How delightfully poor Coavinses (father
@@ -685,22 +685,22 @@ with Coavinses. There had been times when, if he had been a sultan,
 and his grand vizier had said one morning, “What does the Commander
 of the Faithful require at the hands of his slave?” he might have
 even gone so far as to reply, “The head of Coavinses!” But what
-turned out to be the case? That, all that time, he had been giving
+turned out to be the case? That, all that [[Time|time]], he had been giving
 employment to a most deserving man, that he had been a benefactor to
 Coavinses, that he had actually been enabling Coavinses to bring up
 these charming children in this agreeable way, developing these
 social virtues! Insomuch that his heart had just now swelled and the
-tears had come into his eyes when he had looked round the room and
+[[Tears|tears]] had come into his eyes when he had looked round the room and
 thought, “I was the great patron of Coavinses, and his little
 comforts were MY work!”
 
 There was something so captivating in his light way of touching these
-fantastic strings, and he was such a mirthful child by the side of
-the graver childhood we had seen, that he made my guardian smile even
+fantastic strings, and he was such a mirthful [[Child|child]] by the side of
+the graver [[Childhood|childhood]] we had seen, that he made my guardian smile even
 as he turned towards us from a little private talk with Mrs. Blinder.
 We kissed Charley, and took her downstairs with us, and stopped
-outside the house to see her run away to her work. I don’t know where
+outside the [[house]] to see her run away to her work. I don’t know where
 she was going, but we saw her run, such a little, little creature in
-her womanly bonnet and apron, through a covered way at the bottom of
-the court and melt into the city’s strife and sound like a dewdrop in
+her womanly bonnet and apron, through a covered way at the [[Bottom|bottom]] of
+the [[Court|court]] and melt into the [[City|city]]’s strife and sound like a dewdrop in
 an ocean.

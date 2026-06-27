@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 8 (part 5)"
+title: "Bleak [[house|House]] — Chapter 8 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 “You are very pleasantly situated here!” said Mrs. Pardiggle.
 
-We were glad to change the subject, and going to the window, pointed
+We were glad to change the subject, and going to the [[Window|window]], pointed
 out the beauties of the prospect, on which the spectacles appeared to
 me to rest with curious indifference.
 
@@ -27,23 +27,23 @@ acquaintance.
 
 “The loss is yours, I assure you,” said Mrs. Pardiggle with her
 commanding deportment. “He is a very fervid, impassioned
-speaker—full of fire! Stationed in a waggon on this lawn, now,
+speaker—full of [[Fire|fire]]! Stationed in a waggon on this lawn, now,
 which, from the shape of the land, is naturally adapted to a public
 meeting, he would improve almost any occasion you could mention for
-hours and hours! By this time, young ladies,” said Mrs. Pardiggle,
+hours and hours! By this [[Time|time]], young ladies,” said Mrs. Pardiggle,
 moving back to her chair and overturning, as if by invisible agency,
 a little round table at a considerable distance with my work-basket
-on it, “by this time you have found me out, I dare say?”
+on it, “by this [[Time|time]] you have found me out, I dare say?”
 
 This was really such a confusing question that Ada looked at me in
-perfect dismay. As to the guilty nature of my own consciousness after
+perfect dismay. As to the guilty [[Nature|nature]] of my own consciousness after
 what I had been thinking, it must have been expressed in the colour
 of my cheeks.
 
 “Found out, I mean,” said Mrs. Pardiggle, “the prominent point in my
 character. I am aware that it is so prominent as to be discoverable
-immediately. I lay myself open to detection, I know. Well! I freely
-admit, I am a woman of business. I love hard work; I enjoy hard work.
+immediately. I lay myself open to detection, I know. [[Well]]! I freely
+admit, I am a woman of business. I [[Love|love]] hard work; I enjoy hard work.
 The excitement does me good. I am so accustomed and inured to hard
 work that I don’t know what fatigue is.”
 
@@ -59,15 +59,15 @@ family, and Mr. Pardiggle, quite worn out with witnessing it, when I
 may truly say I have been as fresh as a lark!”
 
 If that dark-visaged eldest boy could look more malicious than he had
-already looked, this was the time when he did it. I observed that he
-doubled his right fist and delivered a secret blow into the crown of
+already looked, this was the [[Time|time]] when he did it. I observed that he
+doubled his right fist and delivered a secret blow into the [[Crown|crown]] of
 his cap, which was under his left arm.
 
 “This gives me a great advantage when I am making my rounds,” said
 Mrs. Pardiggle. “If I find a person unwilling to hear what I have to
 say, I tell that person directly, ‘I am incapable of fatigue, my good
 friend, I am never tired, and I mean to go on until I have done.’ It
-answers admirably! Miss Summerson, I hope I shall have your
+answers admirably! Miss Summerson, I [[Hope|hope]] I shall have your
 assistance in my visiting rounds immediately, and Miss Clare’s very
 soon.”
 
@@ -80,7 +80,7 @@ differently situated, and addressing them from suitable points of
 view. That I had not that delicate knowledge of the heart which must
 be essential to such a work. That I had much to learn, myself, before
 I could teach others, and that I could not confide in my good
-intentions alone. For these reasons I thought it best to be as useful
+intentions [[Alone|alone]]. For these reasons I thought it best to be as useful
 as I could, and to render what kind services I could to those
 immediately about me, and to try to let that circle of duty gradually
 and naturally expand itself. All this I said with anything but
@@ -123,12 +123,12 @@ again? Why do you call it my allowance, and never let me spend it?”
 These exasperating questions so inflamed his mind and the minds of
 Oswald and Francis that they all pinched me at once, and in a
 dreadfully expert way—screwing up such little pieces of my arms that
-I could hardly forbear crying out. Felix, at the same time, stamped
+I could hardly forbear crying out. Felix, at the same [[Time|time]], stamped
 upon my toes. And the Bond of Joy, who on account of always having
 the whole of his little income anticipated stood in fact pledged to
-abstain from cakes as well as tobacco, so swelled with grief and rage
+abstain from cakes as [[Well|well]] as tobacco, so swelled with grief and rage
 when we passed a pastry-cook’s shop that he terrified me by becoming
-purple. I never underwent so much, both in body and mind, in the
+purple. I never underwent so much, both in [[Body|body]] and mind, in the
 course of a walk with young people as from these unnaturally
 constrained children when they paid me the compliment of being
 natural.

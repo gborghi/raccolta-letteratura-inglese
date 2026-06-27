@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 34 (part 1)"
+title: "[[Wuthering Heights]] — Chapter 34 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,26 +17,26 @@ tags:
 CHAPTER XXXIV
 
 
-For some days after that evening, Mr. Heathcliff shunned meeting us at
+For some days after that evening, Mr. [[Heathcliff]] shunned meeting us at
 meals; yet he would not consent formally to exclude Hareton and Cathy.
 He had an aversion to yielding so completely to his feelings, choosing
 rather to absent himself; and eating once in twenty-four hours seemed
 sufficient sustenance for him.
 
-One night, after the family were in bed, I heard him go downstairs, and
+One [[Night|night]], after the family were in bed, I heard him go downstairs, and
 out at the front door. I did not hear him re-enter, and in the morning
 I found he was still away. We were in April then: the weather was sweet
 and warm, the grass as green as showers and sun could make it, and the
-two dwarf apple-trees near the southern wall in full bloom. After
+two [[Dwarf|dwarf]] apple-trees near the southern wall in full bloom. After
 breakfast, Catherine insisted on my bringing a chair and sitting with
-my work under the fir-trees at the end of the house; and she beguiled
+my work under the fir-trees at the end of the [[house]]; and she beguiled
 Hareton, who had perfectly recovered from his accident, to dig and
-arrange her little garden, which was shifted to that corner by the
+arrange her little [[Garden|garden]], which was shifted to that corner by the
 influence of Joseph’s complaints. I was comfortably revelling in the
-spring fragrance around, and the beautiful soft blue overhead, when my
+[[Spring|spring]] fragrance around, and the beautiful soft blue overhead, when my
 young lady, who had run down near the gate to procure some primrose
 roots for a border, returned only half laden, and informed us that Mr.
-Heathcliff was coming in. “And he spoke to me,” she added, with a
+[[Heathcliff]] was coming in. “And he spoke to me,” she added, with a
 perplexed countenance.
 
 “What did he say?” asked Hareton.
@@ -50,21 +50,21 @@ him.”
 “Why, almost bright and cheerful. No, _almost_ nothing—_very much_
 excited, and wild, and glad!” she replied.
 
-“Night-walking amuses him, then,” I remarked, affecting a careless
+“[[Night]]-walking amuses him, then,” I remarked, affecting a careless
 manner: in reality as surprised as she was, and anxious to ascertain
-the truth of her statement; for to see the master looking glad would
-not be an every-day spectacle. I framed an excuse to go in. Heathcliff
+the [[Truth|truth]] of her statement; for to see the master looking glad would
+not be an every-day spectacle. I framed an excuse to go in. [[Heathcliff]]
 stood at the open door; he was pale, and he trembled: yet, certainly,
 he had a strange joyful glitter in his eyes, that altered the aspect of
 his whole face.
 
 “Will you have some breakfast?” I said. “You must be hungry, rambling
-about all night!” I wanted to discover where he had been, but I did not
+about all [[Night|night]]!” I wanted to discover where he had been, but I did not
 like to ask directly.
 
 “No, I’m not hungry,” he answered, averting his head, and speaking
 rather contemptuously, as if he guessed I was trying to divine the
-occasion of his good humour.
+occasion of his good [[Humour|humour]].
 
 I felt perplexed: I didn’t know whether it were not a proper
 opportunity to offer a bit of admonition.
@@ -75,14 +75,14 @@ daresay you’ll catch a bad cold, or a fever: you have something the
 matter with you now!”
 
 “Nothing but what I can bear,” he replied; “and with the greatest
-pleasure, provided you’ll leave me alone: get in, and don’t annoy me.”
+pleasure, provided you’ll leave me [[Alone|alone]]: get in, and don’t annoy me.”
 
 I obeyed: and, in passing, I noticed he breathed as fast as a cat.
 
 “Yes!” I reflected to myself, “we shall have a fit of illness. I cannot
 conceive what he has been doing.”
 
-That noon he sat down to dinner with us, and received a heaped-up plate
+That [[Noon|noon]] he sat down to dinner with us, and received a heaped-up plate
 from my hands, as if he intended to make amends for previous fasting.
 
 “I’ve neither cold nor fever, Nelly,” he remarked, in allusion to my
@@ -91,12 +91,12 @@ me.”
 
 He took his knife and fork, and was going to commence eating, when the
 inclination appeared to become suddenly extinct. He laid them on the
-table, looked eagerly towards the window, then rose and went out. We
-saw him walking to and fro in the garden while we concluded our meal,
+table, looked eagerly towards the [[Window|window]], then [[Rose|rose]] and went out. We
+saw him walking to and fro in the [[Garden|garden]] while we concluded our meal,
 and Earnshaw said he’d go and ask why he would not dine: he thought we
 had grieved him some way.
 
-“Well, is he coming?” cried Catherine, when her cousin returned.
+“[[Well]], is he coming?” cried Catherine, when her cousin returned.
 
 “Nay,” he answered; “but he’s not angry: he seemed rarely pleased
 indeed; only I made him impatient by speaking to him twice; and then he
@@ -112,7 +112,7 @@ but as a tight-stretched cord vibrates—a strong thrilling, rather than
 trembling.
 
 I will ask what is the matter, I thought; or who should? And I
-exclaimed—“Have you heard any good news, Mr. Heathcliff? You look
+exclaimed—“Have you heard any good news, Mr. [[Heathcliff]]? You look
 uncommonly animated.”
 
 “Where should good news come from to me?” he said. “I’m animated with
@@ -126,11 +126,11 @@ away from me. I wish to be troubled by nobody: I wish to have this
 place to myself.”
 
 “Is there some new reason for this banishment?” I inquired. “Tell me
-why you are so queer, Mr. Heathcliff? Where were you last night? I’m
+why you are so queer, Mr. [[Heathcliff]]? Where were you last [[Night|night]]? I’m
 not putting the question through idle curiosity, but—”
 
 “You are putting the question through very idle curiosity,” he
-interrupted, with a laugh. “Yet I’ll answer it. Last night I was on the
+interrupted, with a laugh. “Yet I’ll answer it. Last [[Night|night]] I was on the
 threshold of hell. To-day, I am within sight of my heaven. I have my
 eyes on it: hardly three feet to sever me! And now you’d better go!
 You’ll neither see nor hear anything to frighten you, if you refrain
@@ -139,11 +139,11 @@ from prying.”
 Having swept the hearth and wiped the table, I departed; more perplexed
 than ever.
 
-He did not quit the house again that afternoon, and no one intruded on
-his solitude; till, at eight o’clock, I deemed it proper, though
+He did not quit the [[house]] again that afternoon, and no one intruded on
+his [[Solitude|solitude]]; till, at eight o’[[Clock|clock]], I deemed it proper, though
 unsummoned, to carry a candle and his supper to him. He was leaning
 against the ledge of an open lattice, but not looking out: his face was
-turned to the interior gloom. The fire had smouldered to ashes; the
+turned to the interior gloom. The [[Fire|fire]] had smouldered to ashes; the
 room was filled with the damp, mild air of the cloudy evening; and so
 still, that not only the murmur of the beck down Gimmerton was
 distinguishable, but its ripples and its gurgling over the pebbles, or

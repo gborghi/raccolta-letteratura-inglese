@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-Trotty withdrew, resumed his seat by the fire, and once more listened by
-himself.  He remained here a little time.
+Trotty withdrew, resumed his seat by the [[Fire|fire]], and once more listened by
+himself.  He remained here a little [[Time|time]].
 
 It was impossible to bear it; their energy was dreadful.
 
@@ -25,7 +25,7 @@ into the steeple and satisfying myself?  If it’s shut, I don’t want any
 other satisfaction.  That’s enough.’
 
 He was pretty certain as he slipped out quietly into the street that he
-should find it shut and locked, for he knew the door well, and had so
+should find it shut and locked, for he knew the door [[Well|well]], and had so
 rarely seen it open, that he couldn’t reckon above three times in all.
 It was a low arched portal, outside the church, in a dark nook behind a
 column; and had such great iron hinges, and such a monstrous lock, that
@@ -38,15 +38,15 @@ again; he found that the door, which opened outwards, actually stood
 ajar!
 
 He thought, on the first surprise, of going back; or of getting a light,
-or a companion, but his courage aided him immediately, and he determined
-to ascend alone.
+or a companion, but his [[Courage|courage]] aided him immediately, and he determined
+to ascend [[Alone|alone]].
 
-‘What have I to fear?’ said Trotty.  ‘It’s a church!  Besides, the
+‘What have I to [[Fear|fear]]?’ said Trotty.  ‘It’s a church!  Besides, the
 ringers may be there, and have forgotten to shut the door.’  So he went
 in, feeling his way as he went, like a blind man; for it was very dark.
 And very quiet, for the Chimes were silent.
 
-The dust from the street had blown into the recess; and lying there,
+The [[Dust|dust]] from the street had blown into the recess; and lying there,
 heaped up, made it so soft and velvet-like to the foot, that there was
 something startling, even in that.  The narrow stair was so close to the
 door, too, that he stumbled at the very first; and shutting the door upon
@@ -72,8 +72,8 @@ higher up!
 
 At length, the dull and stifling atmosphere began to freshen: presently
 to feel quite windy: presently it blew so strong, that he could hardly
-keep his legs.  But, he got to an arched window in the tower, breast
-high, and holding tight, looked down upon the house-tops, on the smoking
+keep his legs.  But, he got to an arched [[Window|window]] in the tower, breast
+high, and holding tight, looked down upon the [[house]]-tops, on the smoking
 chimneys, on the blur and blotch of lights (towards the place where Meg
 was wondering where he was and calling to him perhaps), all kneaded up
 together in a leaven of mist and darkness.
@@ -81,7 +81,7 @@ together in a leaven of mist and darkness.
 This was the belfry, where the ringers came.  He had caught hold of one
 of the frayed ropes which hung down through apertures in the oaken roof.
 At first he started, thinking it was hair; then trembled at the very
-thought of waking the deep Bell.  The Bells themselves were higher.
+thought of waking the deep Bell.  [[The Bells]] themselves were higher.
 Higher, Trotty, in his fascination, or in working out the spell upon him,
 groped his way.  By ladders now, and toilsomely, for it was steep, and
 not too certain holding for the feet.
@@ -89,11 +89,11 @@ not too certain holding for the feet.
 Up, up, up; and climb and clamber; up, up, up; higher, higher, higher up!
 
 Until, ascending through the floor, and pausing with his head just raised
-above its beams, he came among the Bells.  It was barely possible to make
+above its beams, he came among [[The Bells|the Bells]].  It was barely possible to make
 out their great shapes in the gloom; but there they were.  Shadowy, and
 dark, and dumb.
 
-A heavy sense of dread and loneliness fell instantly upon him, as he
+A heavy sense of dread and [[Loneliness|loneliness]] fell instantly upon him, as he
 climbed into this airy nest of stone and metal.  His head went round and
 round.  He listened, and then raised a wild ‘Holloa!’  Holloa! was
 mournfully protracted by the echoes.

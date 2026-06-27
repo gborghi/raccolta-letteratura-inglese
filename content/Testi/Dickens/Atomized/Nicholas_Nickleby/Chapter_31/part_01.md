@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 31 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 31 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,15 +16,15 @@ tags:
 
 CHAPTER 31
 
-Of Ralph Nickleby and Newman Noggs, and some wise Precautions, the
-success or failure of which will appear in the Sequel
+Of [[Ralph Nickleby]] and [[Newman Noggs]], and some wise Precautions, the
+[[success]] or failure of which will appear in the Sequel
 
 
 In blissful unconsciousness that his nephew was hastening at the utmost
-speed of four good horses towards his sphere of action, and that every
-passing minute diminished the distance between them, Ralph Nickleby sat
+[[Speed|speed]] of four good horses towards his sphere of action, and that every
+passing minute diminished the distance between them, [[Ralph Nickleby]] sat
 that morning occupied in his customary avocations, and yet unable to
-prevent his thoughts wandering from time to time back to the interview
+prevent his thoughts wandering from [[Time|time]] to [[Time|time]] back to the interview
 which had taken place between himself and his niece on the previous
 day. At such intervals, after a few moments of abstraction, Ralph
 would mutter some peevish interjection, and apply himself with renewed
@@ -41,8 +41,8 @@ by giving it full scope, to rid himself of it effectually.
 below the surface see that, and not its delicate covering. And yet
 I almost like the girl, or should if she had been less proudly and
 squeamishly brought up. If the boy were drowned or hanged, and the
-mother dead, this house should be her home. I wish they were, with all
-my soul.’
+mother dead, this [[house]] should be her [[Home|home]]. I wish they were, with all
+my [[Soul|soul]].’
 
 Notwithstanding the deadly hatred which Ralph felt towards Nicholas,
 and the bitter contempt with which he sneered at poor Mrs
@@ -50,22 +50,22 @@ Nickleby--notwithstanding the baseness with which he had behaved, and
 was then behaving, and would behave again if his interest prompted
 him, towards Kate herself--still there was, strange though it may seem,
 something humanising and even gentle in his thoughts at that moment. He
-thought of what his home might be if Kate were there; he placed her in
+thought of what his [[Home|home]] might be if Kate were there; he placed her in
 the empty chair, looked upon her, heard her speak; he felt again upon
 his arm the gentle pressure of the trembling hand; he strewed his
 costly rooms with the hundred silent tokens of feminine presence and
 occupation; he came back again to the cold fireside and the silent
-dreary splendour; and in that one glimpse of a better nature, born as
+dreary splendour; and in that one glimpse of a better [[Nature|nature]], born as
 it was in selfish thoughts, the rich man felt himself friendless,
-childless, and alone. Gold, for the instant, lost its lustre in his
+childless, and [[Alone|alone]]. Gold, for the instant, lost its lustre in his
 eyes, for there were countless treasures of the heart which it could
 never purchase.
 
 A very slight circumstance was sufficient to banish such reflections
 from the mind of such a man. As Ralph looked vacantly out across the
-yard towards the window of the other office, he became suddenly aware of
-the earnest observation of Newman Noggs, who, with his red nose almost
-touching the glass, feigned to be mending a pen with a rusty fragment of
+yard towards the [[Window|window]] of the other office, he became suddenly aware of
+the earnest observation of [[Newman Noggs]], who, with his red nose almost
+touching the glass, feigned to be [[mending]] a pen with a rusty [[Fragment|fragment]] of
 a knife, but was in reality staring at his employer with a countenance
 of the closest and most eager scrutiny.
 
@@ -78,9 +78,9 @@ and Ralph raised his eyes stealthily to his face, as if he almost feared
 to read there, a knowledge of his recent thoughts.
 
 There was not the smallest speculation, however, in the countenance of
-Newman Noggs. If it be possible to imagine a man, with two eyes in his
+[[Newman Noggs]]. If it be possible to imagine a man, with two eyes in his
 head, and both wide open, looking in no direction whatever, and seeing
-nothing, Newman appeared to be that man while Ralph Nickleby regarded
+nothing, Newman appeared to be that man while [[Ralph Nickleby]] regarded
 him.
 
 ‘How now?’ growled Ralph.
@@ -112,27 +112,27 @@ drunken fooling here. Do you see this parcel?’
 
 ‘It’s big enough,’ rejoined Newman.
 
-‘Carry it into the city; to Cross, in Broad Street, and leave it
+‘Carry it into the [[City|city]]; to [[Cross]], in Broad Street, and leave it
 there--quick. Do you hear?’
 
 Newman gave a dogged kind of nod to express an affirmative reply, and,
 leaving the room for a few seconds, returned with his hat. Having made
 various ineffective attempts to fit the parcel (which was some two feet
-square) into the crown thereof, Newman took it under his arm, and
+square) into the [[Crown|crown]] thereof, Newman took it under his arm, and
 after putting on his fingerless gloves with great precision and nicety,
-keeping his eyes fixed upon Mr. Ralph Nickleby all the time, he adjusted
+keeping his eyes fixed upon Mr. [[Ralph Nickleby]] all the [[Time|time]], he adjusted
 his hat upon his head with as much care, real or pretended, as if it
 were a bran-new one of the most expensive quality, and at last departed
 on his errand.
 
 He executed his commission with great promptitude and dispatch, only
-calling at one public-house for half a minute, and even that might be
+calling at one public-[[house]] for half a minute, and even that might be
 said to be in his way, for he went in at one door and came out at the
 other; but as he returned and had got so far homewards as the Strand,
 Newman began to loiter with the uncertain air of a man who has not quite
 made up his mind whether to halt or go straight forwards. After a
 very short consideration, the former inclination prevailed, and making
-towards the point he had had in his mind, Newman knocked a modest double
+towards the point he had had in his mind, Newman knocked a modest [[Double|double]]
 knock, or rather a nervous single one, at Miss La Creevy’s door.
 
 It was opened by a strange servant, on whom the odd figure of the

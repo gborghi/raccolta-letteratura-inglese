@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 19 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 19 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,17 +20,17 @@ tags:
 
 
 
-Twenty-Second: Night.—What have I done? and what will be the end of it?
+Twenty-Second: [[Night]].—What have I done? and what will be the end of it?
 
-I cannot calmly reflect upon it; I cannot sleep. I must have recourse
+I cannot calmly reflect upon it; I cannot [[Sleep|sleep]]. I must have recourse
 
-to my diary again; I will commit it to paper to-night, and see what I
+to my diary again; I will commit it to paper to-[[Night|night]], and see what I
 
 shall think of it to-morrow.
 
 
 
-I went down to dinner resolving to be cheerful and well-conducted, and
+I went down to dinner resolving to be cheerful and [[Well|well]]-conducted, and
 
 kept my resolution very creditably, considering how my head ached and
 
@@ -40,19 +40,19 @@ late; my very energies, both mental and physical, must be strangely
 
 impaired, or I should not have acted so weakly in many respects as I
 
-have done; but I have not been well this last day or two. I suppose it
+have done; but I have not been [[Well|well]] this last day or two. I suppose it
 
 is with sleeping and eating so little, and thinking so much, and being
 
-so continually out of humour. But to return. I was exerting myself to
+so continually out of [[Humour|humour]]. But to return. I was exerting myself to
 
 sing and play for the amusement, and at the request, of my aunt and
 
 Milicent, before the gentlemen came into the drawing-room (Miss Wilmot
 
-never likes to waste her musical efforts on ladies’ ears alone).
+never likes to waste her musical efforts on ladies’ ears [[Alone|alone]]).
 
-Milicent had asked for a little Scotch song, and I was just in the
+Milicent had asked for a little Scotch [[Song|song]], and I was just in the
 
 middle of it when they entered. The first thing Mr. Huntingdon did was
 
@@ -60,7 +60,7 @@ to walk up to Annabella.
 
 
 
-“Now, Miss Wilmot, won’t _you_ give us some music to-night?” said he.
+“Now, Miss Wilmot, won’t _you_ give us some music to-[[Night|night]]?” said he.
 
 “Do now! I know you will, when I tell you that I have been hungering
 
@@ -72,7 +72,7 @@ vacant.”
 
 It was, for I had quitted it immediately upon hearing his petition. Had
 
-I been endowed with a proper degree of self-possession, I should have
+I been endowed with a proper degree of [[Self|self]]-possession, I should have
 
 turned to the lady myself, and cheerfully joined my entreaties to his,
 
@@ -90,7 +90,7 @@ felt within. I knew Annabella’s musical talents were superior to mine,
 
 but that was no reason why I should be treated as a perfect nonentity.
 
-The time and the manner of his asking her appeared like a gratuitous
+The [[Time|time]] and the manner of his asking her appeared like a gratuitous
 
 insult to me; and I could have wept with pure vexation.
 
@@ -98,7 +98,7 @@ insult to me; and I could have wept with pure vexation.
 
 Meantime, she exultingly seated herself at the piano, and favoured him
 
-with two of his favourite songs, in such superior style that even I
+with two of his favourite [[songs]], in such superior style that even I
 
 soon lost my anger in admiration, and listened with a sort of gloomy
 
@@ -116,7 +116,7 @@ eye and brow lighted up with keen enthusiasm, and that sweet smile
 
 passing and appearing like gleams of sunshine on an April day. No
 
-wonder he should hunger and thirst to hear her sing. I now forgave him
+[[Wonder|wonder]] he should hunger and thirst to hear her sing. I now forgave him
 
 from my heart his reckless slight of me, and I felt ashamed at my
 
@@ -130,11 +130,11 @@ delight.
 
 “There now,” said she, playfully running her fingers over the keys when
 
-she had concluded the second song. “What shall I give you next?”
+she had concluded the second [[Song|song]]. “What shall I give you next?”
 
 
 
-But in saying this she looked back at Lord Lowborough, who was standing
+But in saying this she looked back at [[Lord Lowborough]], who was standing
 
 a little behind, leaning against the back of a chair, an attentive
 
@@ -148,17 +148,17 @@ for him, and will gladly exert myself to gratify you;” and thus
 
 encouraged, his lordship came forward, and turning over the music,
 
-presently set before her a little song that I had noticed before, and
+presently set before her a little [[Song|song]] that I had noticed before, and
 
 read more than once, with an interest arising from the circumstance of
 
-my connecting it in my mind with the reigning tyrant of my thoughts.
+my connecting it in my mind with the reigning [[Tyrant|tyrant]] of my thoughts.
 
 And now, with my nerves already excited and half unstrung, I could not
 
 hear those words so sweetly warbled forth without some symptoms of
 
-emotion I was not able to suppress. Tears rose unbidden to my eyes, and
+emotion I was not able to suppress. [[Tears]] [[Rose|rose]] unbidden to my eyes, and
 
 I buried my face in the sofa-pillow that they might flow unseen while I
 
@@ -194,15 +194,15 @@ If I may ne’er behold again
 
 Nor hear thy voice, still would I fain
 
-    Preserve, for aye, their memory.
+    Preserve, for aye, their [[Memory|memory]].
 
 
 
-That voice, the magic of whose tone
+That voice, the [[Magic|magic]] of whose tone
 
     Can wake an echo in my breast,
 
-Creating feelings that, alone,
+Creating feelings that, [[Alone|alone]],
 
     Can make my tranced spirit blest.
 
@@ -210,7 +210,7 @@ Creating feelings that, alone,
 
 That laughing eye, whose sunny beam
 
-    My memory would not cherish less;—
+    My [[Memory|memory]] would not cherish less;—
 
 And oh, that smile! I whose joyous gleam
 
@@ -220,7 +220,7 @@ And oh, that smile! I whose joyous gleam
 
 Adieu! but let me cherish, still,
 
-    The hope with which I cannot part.
+    The [[Hope|hope]] with which I cannot part.
 
 Contempt may wound, and coldness chill,
 
@@ -234,7 +234,7 @@ And who can tell but Heaven, at last,
 
 And bid the future pay the past
 
-    With joy for anguish, smiles for tears.
+    With joy for anguish, smiles for [[Tears|tears]].
 
 
 

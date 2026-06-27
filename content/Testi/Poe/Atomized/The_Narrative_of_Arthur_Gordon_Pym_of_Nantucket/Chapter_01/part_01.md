@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -28,13 +28,13 @@ supposed that a catastrophe such as I have just related would have
 
 effectually cooled my incipient passion for the sea. On the contrary, I
 
-never experienced a more ardent longing for the wild adventures
+never experienced a more ardent [[Longing|longing]] for the wild adventures
 
 incident to the life of a navigator than within a week after our
 
 miraculous deliverance. This short period proved amply long enough to
 
-erase from my memory the shadows, and bring out in vivid light all the
+erase from my [[Memory|memory]] the shadows, and bring out in vivid light all the
 
 pleasurably exciting points of colour, all the picturesqueness of the
 
@@ -44,27 +44,27 @@ frequent and more intensely full of interest. He had a manner of
 
 relating his stories of the ocean (more than one half of which I now
 
-suspect to have been sheer fabrications) well adapted to have weight
+suspect to have been sheer fabrications) [[Well|well]] adapted to have weight
 
 with one of my enthusiastic temperament, and somewhat gloomy, although
 
-glowing imagination. It is strange, too, that he most strongly enlisted
+glowing [[Imagination|imagination]]. It is strange, too, that he most strongly enlisted
 
 my feelings in behalf of the life of a seaman, when he depicted his
 
-more terrible moments of suffering and despair. For the bright side of
+more terrible moments of [[Suffering|suffering]] and [[Despair|despair]]. For the bright side of
 
 the painting I had a limited sympathy. My visions were of shipwreck and
 
-famine; of death or captivity among barbarian hordes; of a lifetime
+famine; of [[Death|death]] or captivity among barbarian hordes; of a lifetime
 
-dragged out in sorrow and tears, upon some gray and desolate rock, in
+dragged out in sorrow and [[Tears|tears]], upon some gray and desolate rock, in
 
 an ocean unapproachable and unknown. Such visions or desires--for they
 
 amounted to desires--are common, I have since been assured, to the
 
-whole numerous race of the melancholy among men--at the time of which I
+whole numerous race of the [[Melancholy|melancholy]] among men--at the [[Time|time]] of which I
 
 speak I regarded them only as prophetic glimpses of a destiny which I
 
@@ -76,9 +76,9 @@ communion had resulted in a partial interchange of character.
 
 
 
-About eighteen months after the period of the Ariel's disaster, the
+About eighteen months after the period of the [[Ariel]]'s disaster, the
 
-firm of Lloyd and Vredenburgh (a house connected in some manner with
+firm of Lloyd and Vredenburgh (a [[house]] connected in some manner with
 
 the Messieurs Enderby, I believe, of Liverpool) were engaged in
 
@@ -94,7 +94,7 @@ was appointed to command her, and Augustus was going with him. While
 
 the brig was getting ready, he frequently urged upon me the excellency
 
-of the opportunity now offered for indulging my desire of travel. He
+of the opportunity now offered for indulging my [[Desire|desire]] of travel. He
 
 found me by no means an unwilling listener--yet the matter could not be
 
@@ -106,7 +106,7 @@ all, my grandfather, from whom I expected much, vowed to cut me off
 
 with a shilling if I should ever broach the subject to him again. These
 
-difficulties, however, so far from abating my desire, only added fuel
+difficulties, however, so far from abating my [[Desire|desire]], only added fuel
 
 to the flame. I determined to go at all hazards; and, having made known
 
@@ -120,11 +120,11 @@ with my usual studies, it was supposed that I had abandoned the design.
 
 I have since frequently examined my conduct on this occasion with
 
-sentiments of displeasure as well as of surprise. The intense hypocrisy
+sentiments of displeasure as [[Well|well]] as of surprise. The intense hypocrisy
 
 I made use of for the furtherance of my project--an hypocrisy pervading
 
-every word and action of my life for so long a period of time--could
+every word and action of my life for so long a period of [[Time|time]]--could
 
 only have been rendered tolerable to myself by the wild and burning
 
@@ -134,13 +134,13 @@ long-cherished visions of travel.
 
 
 
-In pursuance of my scheme of deception, I was necessarily obliged to
+In pursuance of my scheme of [[Deception|deception]], I was necessarily obliged to
 
 leave much to the management of Augustus, who was employed for the
 
 greater part of every day on board the Grampus, attending to some
 
-arrangements for his father in the cabin and cabin hold. At night,
+arrangements for his father in the cabin and cabin hold. At [[Night|night]],
 
 however, we were sure to have a conference, and talk over our hopes.
 
@@ -150,9 +150,9 @@ any plan we thought likely to succeed, he told me at last that he had
 
 determined upon everything necessary. I had a relation living in New
 
-Bedford, a Mr. Ross, at whose house I was in the habit of spending
+Bedford, a Mr. Ross, at whose [[house]] I was in the habit of spending
 
-occasionally two or three weeks at a time. The brig was to sail about
+occasionally two or three weeks at a [[Time|time]]. The brig was to sail about
 
 the middle of June (June, 1827), and it was agreed that, a day or two
 
@@ -180,7 +180,7 @@ in all the comforts of the cabin; and as to his father, he would only
 
 laugh heartily at the joke. Vessels enough would be met with by which a
 
-letter might be sent home explaining the adventure to my parents.
+letter might be sent [[Home|home]] explaining the adventure to my parents.
 
 
 
@@ -188,7 +188,7 @@ The middle of June at length arrived, and everything had been matured.
 
 The note was written and delivered, and on a Monday morning I left the
 
-house for the New Bedford packet, as supposed. I went, however,
+[[house]] for the New Bedford packet, as supposed. I went, however,
 
 straight to Augustus, who was waiting for me at the corner of a street.
 
@@ -196,4 +196,4 @@ It had been our original plan that I should keep out of the way until
 
 dark, and then slip on board the brig; but, as there was now a thick
 
-fog in our favour, it was agreed to lose no time in secreting me.
+fog in our favour, it was agreed to lose no [[Time|time]] in secreting me.

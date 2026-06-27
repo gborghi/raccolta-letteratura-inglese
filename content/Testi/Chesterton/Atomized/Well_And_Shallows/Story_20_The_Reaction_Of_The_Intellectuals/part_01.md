@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — The Reaction Of The Intellectuals (part 1)"
+title: "[[Well]] And Shallows — The Reaction Of The Intellectuals (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -32,23 +32,23 @@ Life is far too complex not to leave some desirable or defensible
 things behind with every movement it makes.  We have reactions
 in favour of things much more remote than Victorianism.  I always
 remember a confident and contemptuous phrase in one of Macaulay's
-speeches for the Reform Bill, which abolished Rotten Boroughs.
+speeches for the [[Reform]] Bill, which abolished Rotten Boroughs.
 "There has been no reaction.  There will be no reaction.
 I no more expect a reaction in favour of Gatton and Old Sarum
 than a reaction in favour of Odin and Thor."  I will not discuss
 whether there is a reaction in favour of Gatton and Old Sarum;
-there most certainly is a reaction against Reform Bills
-and Representative Government.  But what amuses me is that,
+there most certainly is a reaction against [[Reform]] Bills
+and Representative [[government|Government]].  But what amuses me is that,
 even while Macaulay said the words, there was beginning
 a most unmistakable reaction in favour of Odin and Thor.
 Carlyle already had pen in hand and his Northern genius
 was slowly turning into Nordic insanity.  He was already
 telling us to go back to the stark Scandinavian beginnings.
 A little while afterwards Nietzsche took the next step by
-throwing over Christian ethics as well as theology, and invoking
+throwing over Christian ethics as [[Well|well]] as theology, and invoking
 the old gods of violence and war.  And it ended with a great
 German General (who had led through the Great War and might
-have had enough of it) actually filling Germany with pagan
+have had enough of it) actually filling [[Germany]] with pagan
 propaganda and a publicity campaign in favour of Odin and Thor.
 So much for reactions in general.  The most modern art finds
 the Ancient Greeks too modern and goes back to the Ancient Egyptians.
@@ -56,7 +56,7 @@ We revive Primitive Art and may revive Prehistoric Art.
 We may paint on rock with red ochre, for all I know, or discover
 special qualities in stone hatchets and flint arrows.
 
-There is a reaction; but that would not alone prove that the reaction
+There is a reaction; but that would not [[Alone|alone]] prove that the reaction
 is right.  I think it is right; because it is a reaction in favour
 of civilisation; and against the destruction of civilisation.
 But with that word "civilisation" we come to the rather
@@ -68,18 +68,18 @@ a revolt of the highly civilised; perhaps of the over-civilised.
 But if they are over-civilised, they are still highly intelligent.
 That is why they are kicking the Bright Young Thing down the street.
 
-I will take one particular case which is rather a parable.
-Some time ago all the fine old English critics, Constant Readers
+I will take one particular case which is rather a [[Parable|parable]].
+Some [[Time|time]] ago all the fine old English critics, Constant Readers
 and Conservative people generally, were in a ferment of fury
 and mockery against the impudent innovations of "the Sitwells";
 that is, the three poets of that family.  They were a proof
 that being modern means going mad.  They were the very latest
 and loudest anarchists, destroying both rhyme and reason.
 I will not discuss their merits here.  When Miss Sitwell accused
-the Dawn of "creaking," there were discussions as to her meaning.
+the [[Dawn]] of "creaking," there were discussions as to her meaning.
 Her foes said it was random nonsense, like describing
 the sun as sneezing or the grass as blowing its nose.
-Her friends said it was a bold and novel way of suggesting
+Her friends said it was a bold and [[Novel|novel]] way of suggesting
 something harsh and reluctant about the cold morning light.
 But everybody agreed that it was the very latest and newest
 experiment, whether in liberty or in lunacy.  The Sitwells were
@@ -90,10 +90,10 @@ used the newest methods of shrieking for what they wanted.
 But what did they want?
 
 Now, what the Sitwells want is Victorianism.  What they
-do definitely desire, demand and incessantly describe,
+do definitely [[Desire|desire]], demand and incessantly describe,
 is a reaction to Victorian habits; to Victorian manners;
 and even to Victorian morals.  As certainly as Shelley wanted
-a lot of wind and light and the rise of the pure pagan republic,
+a lot of [[Wind|wind]] and light and the rise of the pure pagan republic,
 as surely as Walt Whitman wanted democratic breadth and a sort
 of bodily brotherhood among men out-of-doors, so certainly
 what the Sitwells want is Victorian flower-beds and hot-houses,
@@ -113,7 +113,7 @@ we must take a more general view of the singular situation
 in the world to-day.
 
 Those specially called the Moderns, who are now most of them Ancients,
-conceived of human history as a progress in the sense of a procession.
+conceived of human [[history]] as a progress in the sense of a procession.
 That is, they said that some slower people might bring up the rear,
 but all were moving onward.  They also supposed that certain bold spirits,
 whom they called the Pioneers of Progress, went on in front and made
@@ -122,12 +122,12 @@ cannot be denied that he did exclaim, in a moment of weakness, "Pioneers,
 0 Pioneers!"  It was characteristic of all that world; first, that it
 relied upon a metaphor; and second, that it got the metaphor quite wrong.
 Whitman seems to associate his intellectual pioneers with the practical
-pioneers of the American Civil War.  But a pioneer is not a person
+pioneers of the [[American Civil War]].  But a pioneer is not a person
 who leads the army, or decides where it shall go.  The pioneers
 in front are as much under orders as any camp-followers in the rear.
-If Sherman had thrown out pioneers to clear his road to Atlanta;
+If Sherman had thrown out pioneers to clear his [[Road|road]] to Atlanta;
 and if the pioneers had seen a futuristic vision and gone off to found
-the future city of Oklahoma, Sherman would have been very much surprised;
+the future [[City|city]] of Oklahoma, Sherman would have been very much surprised;
 nay, vexed.  And the moral is that the marching column of mankind must
 have some kind of notion of where it wants to go, before it can decide
 whether a pioneer is a useful pioneer or not.

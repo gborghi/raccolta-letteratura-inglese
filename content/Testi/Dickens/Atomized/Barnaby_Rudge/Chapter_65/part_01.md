@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 65 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 65 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,29 +18,29 @@ Chapter 65
 
 
 During the whole course of the terrible scene which was now at its
-height, one man in the jail suffered a degree of fear and mental torment
-which had no parallel in the endurance, even of those who lay under
-sentence of death.
+height, one man in the jail suffered a degree of [[Fear|fear]] and mental torment
+which had no parallel in the [[Endurance|endurance]], even of those who lay under
+sentence of [[Death|death]].
 
 When the rioters first assembled before the building, the murderer
-was roused from sleep--if such slumbers as his may have that blessed
+was roused from [[Sleep|sleep]]--if such slumbers as his may have that blessed
 name--by the roar of voices, and the struggling of a great crowd. He
 started up as these sounds met his ear, and, sitting on his bedstead,
 listened.
 
-After a short interval of silence the noise burst out again. Still
-listening attentively, he made out, in course of time, that the jail was
-besieged by a furious multitude. His guilty conscience instantly arrayed
-these men against himself, and brought the fear upon him that he would
+After a short interval of [[Silence|silence]] the noise burst out again. Still
+listening attentively, he made out, in course of [[Time|time]], that the jail was
+besieged by a furious multitude. His guilty [[Conscience|conscience]] instantly arrayed
+these men against himself, and brought the [[Fear|fear]] upon him that he would
 be singled out, and torn to pieces.
 
 Once impressed with the terror of this conceit, everything tended to
-confirm and strengthen it. His double crime, the circumstances under
-which it had been committed, the length of time that had elapsed, and
+confirm and strengthen it. His [[Double|double]] crime, the circumstances under
+which it had been committed, the length of [[Time|time]] that had elapsed, and
 its discovery in spite of all, made him, as it were, the visible object
 of the Almighty’s wrath. In all the crime and vice and moral gloom of
-the great pest-house of the capital, he stood alone, marked and singled
-out by his great guilt, a Lucifer among the devils. The other prisoners
+the great pest-[[house]] of the capital, he stood [[Alone|alone]], marked and singled
+out by his great [[Guilt|guilt]], a [[Lucifer]] among the devils. The other prisoners
 were a host, hiding and sheltering each other--a crowd like that without
 the walls. He was one man against the whole united concourse; a single,
 solitary, lonely man, from whom the very captives in the jail fell off
@@ -49,8 +49,8 @@ and shrunk appalled.
 It might be that the intelligence of his capture having been bruited
 abroad, they had come there purposely to drag him out and kill him in
 the street; or it might be that they were the rioters, and, in pursuance
-of an old design, had come to sack the prison. But in either case he had
-no belief or hope that they would spare him. Every shout they raised,
+of an old design, had come to sack the [[Prison|prison]]. But in either case he had
+no belief or [[Hope|hope]] that they would spare him. Every shout they raised,
 and every sound they made, was a blow upon his heart. As the attack went
 on, he grew more wild and frantic in his terror: tried to pull away the
 bars that guarded the chimney and prevented him from climbing up: called
@@ -61,20 +61,20 @@ creeping things, so that it hid him and was hard to find.
 
 But no one came, or answered him. Fearful, even while he cried to them,
 of attracting attention, he was silent. By and bye, he saw, as he looked
-from his grated window, a strange glimmering on the stone walls and
+from his grated [[Window|window]], a strange glimmering on the stone walls and
 pavement of the yard. It was feeble at first, and came and went, as
 though some officers with torches were passing to and fro upon the roof
-of the prison. Soon it reddened, and lighted brands came whirling down,
-spattering the ground with fire, and burning sullenly in corners. One
+of the [[Prison|prison]]. Soon it reddened, and lighted brands came whirling down,
+spattering the ground with [[Fire|fire]], and burning sullenly in corners. One
 rolled beneath a wooden bench, and set it in a blaze; another caught a
-water-spout, and so went climbing up the wall, leaving a long straight
-track of fire behind it. After a time, a slow thick shower of burning
-fragments, from some upper portion of the prison which was blazing nigh,
+[[Water|water]]-spout, and so went climbing up the wall, leaving a long straight
+track of [[Fire|fire]] behind it. After a [[Time|time]], a slow thick shower of burning
+fragments, from some upper portion of the [[Prison|prison]] which was blazing nigh,
 began to fall before his door. Remembering that it opened outwards, he
 knew that every spark which fell upon the heap, and in the act lost
-its bright life, and died an ugly speck of dust and rubbish, helped
-to entomb him in a living grave. Still, though the jail resounded with
-shrieks and cries for help,--though the fire bounded up as if each
+its bright life, and died an ugly speck of [[Dust|dust]] and rubbish, helped
+to entomb him in a living [[Grave|grave]]. Still, though the jail resounded with
+shrieks and cries for help,--though the [[Fire|fire]] bounded up as if each
 separate flame had had a tiger’s life, and roared as though, in every
 one, there were a hungry voice--though the heat began to grow intense,
 and the air suffocating, and the clamour without increased, and the
@@ -82,18 +82,18 @@ danger of his situation even from one merciless element was every moment
 more extreme,--still he was afraid to raise his voice again, lest
 the crowd should break in, and should, of their own ears or from the
 information given them by the other prisoners, get the clue to his place
-of confinement. Thus fearful alike, of those within the prison and
-of those without; of noise and silence; light and darkness; of being
+of confinement. Thus fearful alike, of those within the [[Prison|prison]] and
+of those without; of noise and [[Silence|silence]]; light and darkness; of being
 released, and being left there to die; he was so tortured and tormented,
 that nothing man has ever done to man in the horrible caprice of power
-and cruelty, exceeds his self-inflicted punishment.
+and cruelty, exceeds his [[Self|self]]-inflicted punishment.
 
 Now, now, the door was down. Now they came rushing through the jail,
 calling to each other in the vaulted passages; clashing the iron gates
 dividing yard from yard; beating at the doors of cells and wards;
 wrenching off bolts and locks and bars; tearing down the door-posts to
 get men out; endeavouring to drag them by main force through gaps and
-windows where a child could scarcely pass; whooping and yelling without
+windows where a [[Child|child]] could scarcely pass; whooping and yelling without
 a moment’s rest; and running through the heat and flames as if they were
 cased in metal. By their legs, their arms, the hair upon their heads,
 they dragged the prisoners out. Some threw themselves upon the captives
@@ -101,23 +101,23 @@ as they got towards the door, and tried to file away their irons; some
 danced about them with a frenzied joy, and rent their clothes, and were
 ready, as it seemed, to tear them limb from limb. Now a party of a dozen
 men came darting through the yard into which the murderer cast fearful
-glances from his darkened window; dragging a prisoner along the ground
-whose dress they had nearly torn from his body in their mad eagerness to
+glances from his darkened [[Window|window]]; dragging a prisoner along the ground
+whose dress they had nearly torn from his [[Body|body]] in their mad eagerness to
 set him free, and who was bleeding and senseless in their hands. Now
 a score of prisoners ran to and fro, who had lost themselves in the
-intricacies of the prison, and were so bewildered with the noise and
+intricacies of the [[Prison|prison]], and were so bewildered with the noise and
 glare that they knew not where to turn or what to do, and still cried
 out for help, as loudly as before. Anon some famished wretch whose theft
 had been a loaf of bread, or scrap of butcher’s meat, came skulking
-past, barefooted--going slowly away because that jail, his house, was
+past, barefooted--going slowly away because that jail, his [[house]], was
 burning; not because he had any other, or had friends to meet, or old
 haunts to revisit, or any liberty to gain, but liberty to starve and
 die. And then a knot of highwaymen went trooping by, conducted by the
 friends they had among the crowd, who muffled their fetters as they went
 along, with handkerchiefs and bands of hay, and wrapped them in coats
 and cloaks, and gave them drink from bottles, and held it to their lips,
-because of their handcuffs which there was no time to remove. All this,
+because of their handcuffs which there was no [[Time|time]] to remove. All this,
 and Heaven knows how much more, was done amidst a noise, a hurry, and
-distraction, like nothing that we know of, even in our dreams; which
+distraction, like nothing that we know of, even in our [[Dreams|dreams]]; which
 seemed for ever on the rise, and never to decrease for the space of a
 single instant.

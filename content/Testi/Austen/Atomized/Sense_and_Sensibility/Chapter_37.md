@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 37"
+title: "[[Sense and Sensibility]] — Chapter 37"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,13 +20,13 @@ CHAPTER XXXVII.
 
 
 
-Mrs. Palmer was so well at the end of a fortnight, that her mother felt
+Mrs. Palmer was so [[Well|well]] at the end of a fortnight, that her mother felt
 
-it no longer necessary to give up the whole of her time to her; and,
+it no longer necessary to give up the whole of her [[Time|time]] to her; and,
 
 contenting herself with visiting her once or twice a day, returned from
 
-that period to her own home, and her own habits, in which she found the
+that period to her own [[Home|home]], and her own habits, in which she found the
 
 Miss Dashwoods very ready to resume their former share.
 
@@ -40,7 +40,7 @@ Mrs. Palmer, entered the drawing-room, where Elinor was sitting by
 
 herself, with an air of such hurrying importance as prepared her to
 
-hear something wonderful; and giving her time only to form that idea,
+hear something wonderful; and giving her [[Time|time]] only to form that idea,
 
 began directly to justify it, by saying,
 
@@ -56,19 +56,19 @@ began directly to justify it, by saying,
 
 “Something so strange! But you shall hear it all. When I got to Mr.
 
-Palmer’s, I found Charlotte quite in a fuss about the child. She was
+Palmer’s, I found Charlotte quite in a fuss about the [[Child|child]]. She was
 
 sure it was very ill—it cried, and fretted, and was all over pimples.
 
 So I looked at it directly, and, ‘Lord! my dear,’ says I, ‘it is
 
-nothing in the world, but the red gum;’ and nurse said just the same.
+nothing in the world, but the red gum;’ and [[Nurse|nurse]] said just the same.
 
 But Charlotte, she would not be satisfied, so Mr. Donavan was sent for;
 
 and luckily he happened to just come in from Harley Street, so he
 
-stepped over directly, and as soon as ever he saw the child, he said
+stepped over directly, and as soon as ever he saw the [[Child|child]], he said
 
 just as we did, that it was nothing in the world but the red gum, and
 
@@ -78,17 +78,17 @@ came into my head, I am sure I do not know how I happened to think of
 
 it, but it came into my head to ask him if there was any news. So upon
 
-that, he smirked, and simpered, and looked grave, and seemed to know
+that, he smirked, and simpered, and looked [[Grave|grave]], and seemed to know
 
-something or other, and at last he said in a whisper, ‘For fear any
+something or other, and at last he said in a whisper, ‘For [[Fear|fear]] any
 
 unpleasant report should reach the young ladies under your care as to
 
 their sister’s indisposition, I think it advisable to say, that I
 
-believe there is no great reason for alarm; I hope Mrs. Dashwood will
+believe there is no great reason for alarm; I [[Hope|hope]] Mrs. Dashwood will
 
-do very well.’”
+do very [[Well|well]].’”
 
 
 
@@ -100,37 +100,37 @@ do very well.’”
 
 Dashwood ill?’ So then it all came out; and the long and the short of
 
-the matter, by all I can learn, seems to be this. Mr. Edward Ferrars,
+the matter, by all I can learn, seems to be this. Mr. [[Edward Ferrars]],
 
 the very young man I used to joke with you about (but however, as it
 
 turns out, I am monstrous glad there was never any thing in it), Mr.
 
-Edward Ferrars, it seems, has been engaged above this twelvemonth to my
+[[Edward Ferrars]], it seems, has been engaged above this twelvemonth to my
 
 cousin Lucy!—There’s for you, my dear! And not a creature knowing a
 
-syllable of the matter, except Nancy! Could you have believed such a
+syllable of the matter, except [[Nancy]]! Could you have believed such a
 
-thing possible? There is no great wonder in their liking one another;
+thing possible? There is no great [[Wonder|wonder]] in their liking one another;
 
 but that matters should be brought so forward between them, and nobody
 
 suspect it! _That_ is strange! I never happened to see them together,
 
-or I am sure I should have found it out directly. Well, and so this was
+or I am sure I should have found it out directly. [[Well]], and so this was
 
-kept a great secret, for fear of Mrs. Ferrars, and neither she nor your
+kept a great secret, for [[Fear|fear]] of Mrs. Ferrars, and neither she nor your
 
 brother or sister suspected a word of the matter: till this very
 
-morning, poor Nancy, who, you know, is a well-meaning creature, but no
+morning, poor [[Nancy]], who, you know, is a [[Well|well]]-meaning creature, but no
 
 conjurer, popt it all out. ‘Lord!’ thinks she to herself, ‘they are all
 
 so fond of Lucy, to be sure they will make no difficulty about it;’ and
 
-so, away she went to your sister, who was sitting all alone at her
+so, away she went to your sister, who was sitting all [[Alone|alone]] at her
 
 carpet-work, little suspecting what was to come—for she had just been
 
@@ -138,7 +138,7 @@ saying to your brother, only five minutes before, that she thought to
 
 make a match between Edward and some Lord’s daughter or other, I forget
 
-who. So you may think what a blow it was to all her vanity and pride.
+who. So you may think what a blow it was to all her [[Vanity|vanity]] and [[Pride|pride]].
 
 She fell into violent hysterics immediately, with such screams as
 
@@ -148,41 +148,41 @@ down stairs, thinking about writing a letter to his steward in the
 
 country. So up he flew directly, and a terrible scene took place, for
 
-Lucy was come to them by that time, little dreaming what was going on.
+Lucy was come to them by that [[Time|time]], little dreaming what was going on.
 
-Poor soul! I pity _her_. And I must say, I think she was used very
+Poor [[Soul|soul]]! I pity _her_. And I must say, I think she was used very
 
 hardly; for your sister scolded like any fury, and soon drove her into
 
-a fainting fit. Nancy, she fell upon her knees, and cried bitterly; and
+a fainting fit. [[Nancy]], she fell upon her knees, and cried bitterly; and
 
 your brother, he walked about the room, and said he did not know what
 
 to do. Mrs. Dashwood declared they should not stay a minute longer in
 
-the house, and your brother was forced to go down upon _his_ knees too,
+the [[house]], and your brother was forced to go down upon _his_ knees too,
 
 to persuade her to let them stay till they had packed up their clothes.
 
 _Then_ she fell into hysterics again, and he was so frightened that he
 
-would send for Mr. Donavan, and Mr. Donavan found the house in all this
+would send for Mr. Donavan, and Mr. Donavan found the [[house]] in all this
 
 uproar. The carriage was at the door ready to take my poor cousins
 
 away, and they were just stepping in as he came off; poor Lucy in such
 
-a condition, he says, she could hardly walk; and Nancy, she was almost
+a condition, he says, she could hardly walk; and [[Nancy]], she was almost
 
-as bad. I declare, I have no patience with your sister; and I hope,
+as bad. I declare, I have no patience with your sister; and I [[Hope|hope]],
 
 with all my heart, it will be a match in spite of her. Lord! what a
 
-taking poor Mr. Edward will be in when he hears of it! To have his love
+taking poor Mr. Edward will be in when he hears of it! To have his [[Love|love]]
 
-used so scornfully! for they say he is monstrous fond of her, as well
+used so scornfully! for they say he is monstrous fond of her, as [[Well|well]]
 
-he may. I should not wonder, if he was to be in the greatest
+he may. I should not [[Wonder|wonder]], if he was to be in the greatest
 
 passion!—and Mr. Donavan thinks just the same. He and I had a great
 
@@ -192,23 +192,23 @@ again to Harley Street, that he may be within call when Mrs. Ferrars is
 
 told of it, for she was sent for as soon as ever my cousins left the
 
-house, for your sister was sure _she_ would be in hysterics too; and so
+[[house]], for your sister was sure _she_ would be in hysterics too; and so
 
 she may, for what I care. I have no pity for either of them. I have no
 
-notion of people’s making such a to-do about money and greatness. There
+notion of people’s making such a to-do about money and [[Greatness|greatness]]. There
 
 is no reason on earth why Mr. Edward and Lucy should not marry; for I
 
-am sure Mrs. Ferrars may afford to do very well by her son, and though
+am sure Mrs. Ferrars may afford to do very [[Well|well]] by her son, and though
 
-Lucy has next to nothing herself, she knows better than any body how to
+Lucy has next to nothing herself, she knows better than any [[Body|body]] how to
 
 make the most of every thing; I dare say, if Mrs. Ferrars would only
 
 allow him five hundred a-year, she would make as good an appearance
 
-with it as any body else would with eight. Lord! how snug they might
+with it as any [[Body|body]] else would with eight. Lord! how snug they might
 
 live in such another cottage as yours—or a little bigger—with two
 
@@ -218,7 +218,7 @@ my Betty has a sister out of place, that would fit them exactly.”
 
 
 
-Here Mrs. Jennings ceased, and as Elinor had had time enough to collect
+Here Mrs. Jennings ceased, and as Elinor had had [[Time|time]] enough to collect
 
 her thoughts, she was able to give such an answer, and make such
 
@@ -230,7 +230,7 @@ in it; that Mrs. Jennings (as she had of late often hoped might be the
 
 case) had ceased to imagine her at all attached to Edward; and happy
 
-above all the rest, in the absence of Marianne, she felt very well able
+above all the rest, in the absence of Marianne, she felt very [[Well|well]] able
 
 to speak of the affair without embarrassment, and to give her judgment,
 
@@ -244,11 +244,11 @@ She could hardly determine what her own expectation of its event really
 
 was; though she earnestly tried to drive away the notion of its being
 
-possible to end otherwise at last, than in the marriage of Edward and
+possible to end otherwise at last, than in the [[Marriage|marriage]] of Edward and
 
 Lucy. What Mrs. Ferrars would say and do, though there could not be a
 
-doubt of its nature, she was anxious to hear; and still more anxious to
+[[Doubt|doubt]] of its [[Nature|nature]], she was anxious to hear; and still more anxious to
 
 know how Edward would conduct himself. For _him_ she felt much
 
@@ -260,9 +260,9 @@ that little;—for the rest of the party none at all.
 
 As Mrs. Jennings could talk on no other subject, Elinor soon saw the
 
-necessity of preparing Marianne for its discussion. No time was to be
+necessity of preparing Marianne for its discussion. No [[Time|time]] was to be
 
-lost in undeceiving her, in making her acquainted with the real truth,
+lost in undeceiving her, in making her acquainted with the real [[Truth|truth]],
 
 and in endeavouring to bring her to hear it talked of by others,
 
@@ -290,9 +290,9 @@ be done, and Elinor therefore hastened to perform it.
 
 She was very far from wishing to dwell on her own feelings, or to
 
-represent herself as suffering much, any otherwise than as the
+represent herself as [[Suffering|suffering]] much, any otherwise than as the
 
-self-command she had practised since her first knowledge of Edward’s
+[[Self|self]]-command she had practised since her first knowledge of Edward’s
 
 engagement, might suggest a hint of what was practicable to Marianne.
 
@@ -314,7 +314,7 @@ of imprudence, was readily offered.
 
 
 
-But Marianne for some time would give credit to neither. Edward seemed
+But Marianne for some [[Time|time]] would give credit to neither. Edward seemed
 
 a second Willoughby; and acknowledging as Elinor did, that she _had_
 
@@ -336,11 +336,11 @@ could convince her, a better knowledge of mankind.
 
 Her first communication had reached no farther than to state the fact
 
-of the engagement, and the length of time it had existed.—Marianne’s
+of the engagement, and the length of [[Time|time]] it had existed.—Marianne’s
 
 feelings had then broken in, and put an end to all regularity of
 
-detail; and for some time all that could be done was to soothe her
+detail; and for some [[Time|time]] all that could be done was to soothe her
 
 distress, lessen her alarms, and combat her resentment. The first
 
@@ -360,7 +360,7 @@ last November, she told me in confidence of her engagement.”
 
 At these words, Marianne’s eyes expressed the astonishment which her
 
-lips could not utter. After a pause of wonder, she exclaimed—
+lips could not utter. After a pause of [[Wonder|wonder]], she exclaimed—
 
 
 
@@ -392,7 +392,7 @@ you been supported?”
 
 be secret. I owed it to her, therefore, to avoid giving any hint of the
 
-truth; and I owed it to my family and friends, not to create in them a
+[[Truth|truth]]; and I owed it to my family and friends, not to create in them a
 
 solicitude about me, which it could not be in my power to satisfy.”
 
@@ -414,7 +414,7 @@ my trust, I never could have convinced you.”
 
 
 
-“Yes. But I did not love only him; and while the comfort of others was
+“Yes. But I did not [[Love|love]] only him; and while the comfort of others was
 
 dear to me, I was glad to spare them from knowing how much I felt. Now,
 
@@ -446,7 +446,7 @@ fit—it is not possible that it should be so. Edward will marry Lucy; he
 
 will marry a woman superior in person and understanding to half her
 
-sex; and time and habit will teach him to forget that he ever thought
+sex; and [[Time|time]] and habit will teach him to forget that he ever thought
 
 another superior to _her_.”
 
@@ -456,7 +456,7 @@ another superior to _her_.”
 
 is most valued is so easily to be made up by something else, your
 
-resolution, your self-command, are, perhaps, a little less to be
+resolution, your [[Self|self]]-command, are, perhaps, a little less to be
 
 wondered at.—They are brought more within my comprehension.”
 
@@ -486,7 +486,7 @@ exultation to listen to again and again. I have known myself to be
 
 divided from Edward for ever, without hearing one circumstance that
 
-could make me less desire the connection. Nothing has proved him
+could make me less [[Desire|desire]] the connection. Nothing has proved him
 
 unworthy; nor has anything declared him indifferent to me.  I have had
 
@@ -494,9 +494,9 @@ to contend against the unkindness of his sister, and the insolence of
 
 his mother; and have suffered the punishment of an attachment, without
 
-enjoying its advantages. And all this has been going on at a time,
+enjoying its advantages. And all this has been going on at a [[Time|time]],
 
-when, as you know too well, it has not been my only unhappiness. If you
+when, as you know too [[Well|well]], it has not been my only unhappiness. If you
 
 can think me capable of ever feeling, surely you may suppose that I
 
@@ -506,11 +506,11 @@ myself at present to consider the matter, the consolation that I have
 
 been willing to admit, have been the effect of constant and painful
 
-exertion; they did not spring up of themselves; they did not occur to
+exertion; they did not [[Spring|spring]] up of themselves; they did not occur to
 
 relieve my spirits at first. No, Marianne. _Then_, if I had not been
 
-bound to silence, perhaps nothing could have kept me entirely—not even
+bound to [[Silence|silence]], perhaps nothing could have kept me entirely—not even
 
 what I owed to my dearest friends—from openly showing that I was _very_
 
@@ -528,7 +528,7 @@ barbarous have I been to you!—you, who have been my only comfort, who
 
 have borne with me in all my misery, who have seemed to be only
 
-suffering for me!—Is this my gratitude?—Is this the only return I can
+[[Suffering|suffering]] for me!—Is this my gratitude?—Is this the only return I can
 
 make you?—Because your merit cries out upon myself, I have been trying
 
@@ -568,7 +568,7 @@ with only moving from one chair to another, and when Mrs. Jennings
 
 talked of Edward’s affection, it cost her only a spasm in her
 
-throat.—Such advances towards heroism in her sister, made Elinor feel
+throat.—Such advances towards [[Heroism|heroism]] in her sister, made Elinor feel
 
 equal to any thing herself.
 
@@ -598,7 +598,7 @@ They all looked their assent; it seemed too awful a moment for speech.
 
 too—in short it has been a scene of such complicated distress—but I
 
-will hope that the storm may be weathered without our being any of us
+will [[Hope|hope]] that the [[Storm|storm]] may be weathered without our being any of us
 
 quite overcome. Poor Fanny! she was in hysterics all yesterday. But I
 
@@ -608,17 +608,17 @@ to be apprehended; her constitution is a good one, and her resolution
 
 equal to any thing. She has borne it all, with the fortitude of an
 
-angel! She says she never shall think well of anybody again; and one
+angel! She says she never shall think [[Well|well]] of anybody again; and one
 
-cannot wonder at it, after being so deceived!—meeting with such
+cannot [[Wonder|wonder]] at it, after being so deceived!—meeting with such
 
 ingratitude, where so much kindness had been shown, so much confidence
 
 had been placed! It was quite out of the benevolence of her heart, that
 
-she had asked these young women to her house; merely because she
+she had asked these young women to her [[house]]; merely because she
 
-thought they deserved some attention, were harmless, well-behaved
+thought they deserved some attention, were harmless, [[Well|well]]-behaved
 
 girls, and would be pleasant companions; for otherwise we both wished
 
@@ -642,7 +642,7 @@ not to be described. While she with the truest affection had been
 
 planning a most eligible connection for him, was it to be supposed that
 
-he could be all the time secretly engaged to another person!—such a
+he could be all the [[Time|time]] secretly engaged to another person!—such a
 
 suspicion could never have entered her head! If she suspected _any_
 
@@ -656,7 +656,7 @@ done, and at last she determined to send for Edward. He came. But I am
 
 sorry to relate what ensued. All that Mrs. Ferrars could say to make
 
-him put an end to the engagement, assisted too as you may well suppose
+him put an end to the engagement, assisted too as you may [[Well|well]] suppose
 
 by my arguments, and Fanny’s entreaties, was of no avail. Duty,
 
@@ -692,7 +692,7 @@ together, and cried, “Gracious God! can this be possible!”
 
 
 
-“Well may you wonder, Marianne,” replied her brother, “at the obstinacy
+“[[Well]] may you [[Wonder|wonder]], Marianne,” replied her brother, “at the obstinacy
 
 which could resist such arguments as these. Your exclamation is very
 
@@ -722,9 +722,9 @@ silent, “he has acted like an honest man! I beg your pardon, Mr.
 
 Dashwood, but if he had done otherwise, I should have thought him a
 
-rascal. I have some little concern in the business, as well as
+rascal. I have some little concern in the business, as [[Well|well]] as
 
-yourself, for Lucy Steele is my cousin, and I believe there is not a
+yourself, for [[Lucy Steele]] is my cousin, and I believe there is not a
 
 better kind of girl in the world, nor one who more deserves a good
 
@@ -732,7 +732,7 @@ husband.”
 
 
 
-John Dashwood was greatly astonished; but his nature was calm, not open
+John Dashwood was greatly astonished; but his [[Nature|nature]] was calm, not open
 
 to provocation, and he never wished to offend anybody, especially
 
@@ -742,7 +742,7 @@ anybody of good fortune. He therefore replied, without any resentment,
 
 “I would by no means speak disrespectfully of any relation of yours,
 
-madam. Miss Lucy Steele is, I dare say, a very deserving young woman,
+madam. Miss [[Lucy Steele]] is, I dare say, a very deserving young woman,
 
 but in the present case you know, the connection must be impossible.
 
@@ -760,7 +760,7 @@ and Mrs. Ferrars’s conduct throughout the whole, has been such as every
 
 conscientious, good mother, in like circumstances, would adopt. It has
 
-been dignified and liberal. Edward has drawn his own lot, and I fear it
+been dignified and liberal. Edward has drawn his own lot, and I [[Fear|fear]] it
 
 will be a bad one.”
 
@@ -774,13 +774,13 @@ woman who could not reward him.
 
 
 
-“Well, sir,” said Mrs. Jennings, “and how did it end?”
+“[[Well]], sir,” said Mrs. Jennings, “and how did it end?”
 
 
 
 “I am sorry to say, ma’am, in a most unhappy rupture:—Edward is
 
-dismissed for ever from his mother’s notice. He left her house
+dismissed for ever from his mother’s notice. He left her [[house]]
 
 yesterday, but where he is gone, or whether he is still in town, I do
 
@@ -792,7 +792,7 @@ not know; for _we_ of course can make no inquiry.”
 
 
 
-“What, indeed, ma’am! It is a melancholy consideration. Born to the
+“What, indeed, ma’am! It is a [[Melancholy|melancholy]] consideration. Born to the
 
 prospect of such affluence! I cannot conceive a situation more
 
@@ -814,7 +814,7 @@ power to assist him.”
 
 “Poor young man!” cried Mrs. Jennings, “I am sure he should be very
 
-welcome to bed and board at my house; and so I would tell him if I
+welcome to bed and board at my [[house]]; and so I would tell him if I
 
 could see him. It is not fit that he should be living about at his own
 
@@ -828,7 +828,7 @@ could not forbear smiling at the form of it.
 
 
 
-“If he would only have done as well by himself,” said John Dashwood,
+“If he would only have done as [[Well|well]] by himself,” said John Dashwood,
 
 “as all his friends were disposed to do by him, he might now have been
 
@@ -848,7 +848,7 @@ over the business.”
 
 
 
-“Well!” said Mrs. Jennings, “that is _her_ revenge. Everybody has a way
+“[[Well]]!” said Mrs. Jennings, “that is _her_ [[Revenge|revenge]]. Everybody has a way
 
 of their own. But I don’t think mine would be, to make one son
 

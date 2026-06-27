@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 14 (part 5)"
+title: "[[Jane Eyre]] — Chapter 14 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,13 +17,13 @@ tags:
 “It has struck nine, sir.”
 
 “Never mind,—wait a minute: Adèle is not ready to go to bed yet. My
-position, Miss Eyre, with my back to the fire, and my face to the room,
+position, Miss Eyre, with my back to the [[Fire|fire]], and my face to the room,
 favours observation. While talking to you, I have also occasionally
 watched Adèle (I have my own reasons for thinking her a curious
 study,—reasons that I may, nay, that I shall, impart to you some day).
 She pulled out of her box, about ten minutes ago, a little pink silk
 frock; rapture lit her face as she unfolded it; coquetry runs in her
-blood, blends with her brains, and seasons the marrow of her bones. ‘Il
+[[Blood|blood]], blends with her brains, and [[Seasons|seasons]] the marrow of her bones. ‘Il
 faut que je l’essaie!’ cried she, ‘et à l’instant même!’ and she rushed
 out of the room. She is now with Sophie, undergoing a robing process:
 in a few minutes she will re-enter; and I know what I shall see,—a
@@ -34,7 +34,7 @@ it will be realised.”
 
 Ere long, Adèle’s little foot was heard tripping across the hall. She
 entered, transformed as her guardian had predicted. A dress of
-rose-coloured satin, very short, and as full in the skirt as it could
+[[Rose|rose]]-coloured satin, very short, and as full in the skirt as it could
 be gathered, replaced the brown frock she had previously worn; a wreath
 of rosebuds circled her forehead; her feet were dressed in silk
 stockings and small white satin sandals.
@@ -53,11 +53,11 @@ monsieur?”
 “Pre-cise-ly!” was the answer; “and, ‘comme cela,’ she charmed my
 English gold out of my British breeches’ pocket. I have been green,
 too, Miss Eyre,—ay, grass green: not a more vernal tint freshens you
-now than once freshened me. My Spring is gone, however, but it has left
+now than once freshened me. My [[Spring]] is gone, however, but it has left
 me that French floweret on my hands, which, in some moods, I would fain
 be rid of. Not valuing now the root whence it sprang; having found that
-it was of a sort which nothing but gold dust could manure, I have but
+it was of a sort which nothing but gold [[Dust|dust]] could manure, I have but
 half a liking to the blossom, especially when it looks so artificial as
 just now. I keep it and rear it rather on the Roman Catholic principle
 of expiating numerous sins, great or small, by one good work. I’ll
-explain all this some day. Good-night.”
+explain all this some day. Good-[[Night|night]].”

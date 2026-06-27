@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 2)"
+title: "[[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/conversion-(Chesterton)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-Similarly, I could never take seriously the fear of the priest,
-as of something unnatural and unholy; a dangerous man in the home.
+Similarly, I could never take seriously the [[Fear|fear]] of the priest,
+as of something unnatural and unholy; a dangerous man in the [[Home|home]].
 Why should man who wanted to be wicked encumber himself with special
 and elaborate promises to be good?  There might sometimes be a
 reason for a priest being a profligate.  But what was the reason
@@ -32,19 +32,19 @@ seemed to me silly even when I was a boy or an unbeliever; and I
 cannot describe how I passed out of it because I was never in it.
 I remember asking some friends at Cambridge, people of the
 Puritan tradition, why in the world they were so afraid of Papists;
-why a priest in somebody's house was a peril or an Irish servant
+why a priest in somebody's [[house]] was a peril or an Irish servant
 the beginning of a pestilence.  I asked them why they could not simply
 disagree with Papists and say so, as they did with Theosophists
 or Anarchists.  They seemed at once pleased and shocked with my daring,
-as if I had undertaken to convert a burglar or tame a mad dog.
+as if I had undertaken to [[convert]] a burglar or tame a mad dog.
 Perhaps their alarm was really wiser than my bravado.
 Anyhow, I had not then the most shadowy notion that the burglar
-would convert me.  That, however, I am inclined to think,
+would [[convert]] me.  That, however, I am inclined to think,
 is the subconscious intuition in the whole business.
 It must either mean that they suspect that our religion has
 something about it so wrong that the hint of it is bad for anybody;
 or else that it has something so right that the presence of it
-would convert anybody.  To do them justice, I think most of them
+would [[convert]] anybody.  To do them justice, I think most of them
 darkly suspect the second and not the first.
 
 A shade more plausible than the notion that Popish priests merely
@@ -67,19 +67,19 @@ Protestant laymen.  The only difference was that the Jesuits
 had been worried enough about the matter to try to make rules
 and limitations saving as much verbal veracity as possible;
 whereas the happy Protestants were not worried about it at all,
-but told lies from morning to night as merrily and innocently
-as the birds sing in the trees.  The fact is, of course,
+but told lies from morning to [[Night|night]] as merrily and innocently
+as the [[Birds|birds]] sing in the trees.  The fact is, of course,
 that the modern world is full of an utterly lawless casuistry
 because the Jesuits were prevented from making a lawful casuistry.
 But every man is a casuist or a lunatic.
 
-It is true that this general truth was hidden from many by certain
+It is true that this general [[Truth|truth]] was hidden from many by certain
 definite assertions.  I can only call them, in simple language,
 Protestant lies about Catholic lying.  The men who repeated
 them were not necessarily lying, because they were repeating.
 But the statements were of the same lucid and precise order as a
 statement that the Pope has three legs or that Rome is situated at
-the North Pole.  There is no more doubt about their nature than that.
+the North Pole.  There is no more [[Doubt|doubt]] about their [[Nature|nature]] than that.
 One of them, for instance, is the positive statement, once heard
 everywhere and still heard often:  "Roman Catholics are taught
 that anything is lawful if done for the good of the Church."  This is
@@ -89,9 +89,9 @@ and it can be proved to be totally false.  Here as always
 the critics cannot see that they are trying to have it both ways.
 They are always complaining that our creed is cut and dried;
 that we are told what to believe and must believe nothing else;
-that it is all written down for us in bulls and confessions of faith.
+that it is all written down for us in bulls and confessions of [[Faith|faith]].
 In so far as this is true, it brings a matter like this
-to the point of legal and literal truth, which can be tested;
+to the point of legal and literal [[Truth|truth]], which can be tested;
 and so tested, it is a lie.  But even here I was saved at a very
 early stage by noticing a curious fact.  I noticed that those who
 were most ready to blame priests for relying on rigid formulas
@@ -115,8 +115,8 @@ They never looked for them.  They never looked for anything.
 They seemed to have simply made up out of their own heads a number
 of phrases, such as a Scarlet Woman of deficient intellect
 might be supposed to launch on the world; and left it at that.
-Boundless freedom reigned; it was not treated as if it were a question
-of fact at all.  A priest might say anything about the Faith;
+Boundless [[Freedom|freedom]] reigned; it was not treated as if it were a question
+of fact at all.  A priest might say anything about the [[Faith]];
 because a Protestant might say anything about the priest.
 These novels were padded with pronouncements like this one, for instance,
 which I happen to remember:  "Disobeying a priest is the one sin
@@ -127,7 +127,7 @@ if it does exist.  He has heard the phrase "a reserved case"
 and considers, in a poetic reverie, what he shall make it mean.
 He does not go and ask the nearest priest what it does mean.
 He does not look it up in an encyclopedia or any ordinary work
-of reference.  There is no doubt about the fact that it simply
+of reference.  There is no [[Doubt|doubt]] about the fact that it simply
 means a case reserved for ecclesiastical superiors and not to be
 settled finally by the priest.  That may be a fact to be denounced;
 but anyhow it is a fact.  But the man much prefers to denounce
@@ -138,12 +138,12 @@ facts and quite easy to base a Protestant invective upon them.
 It puzzled me very much, even at that early stage, to imagine
 why people bringing controversial charges against a powerful and
 prominent institution should thus neglect to test their own case,
-and should draw in this random way on their own imagination.
+and should draw in this random way on their own [[Imagination|imagination]].
 It did not make me any more inclined to be a Catholic; in those
 days the very idea of such a thing would have seemed crazy.
 But it did save me from swallowing all the solid and solemn
 assertion about what Jesuits said and did.  I did not accept quite
-so completely as others the well-ascertained and widely accepted fact
+so completely as others the [[Well|well]]-ascertained and widely accepted fact
 that "Roman Catholics may do anything for the good of the Church";
 because I had already learned to smile at equally accepted truths
 like "Disobeying a priest is the one sin for which there is

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 49"
+title: "Bleak [[house|House]] — Chapter 49"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER XLIX
 
-Dutiful Friendship
+Dutiful [[Friendship]]
 
 
 A great annual occasion has come round in the establishment of Mr.
@@ -41,10 +41,10 @@ are kept with some marks of distinction, but they rarely overleap the
 bounds of happy returns and a pudding. On young Woolwich’s last
 birthday, Mr. Bagnet certainly did, after observing on his growth and
 general advancement, proceed, in a moment of profound reflection on
-the changes wrought by time, to examine him in the catechism,
+the changes wrought by [[Time|time]], to examine him in the catechism,
 accomplishing with extreme accuracy the questions number one and two,
 “What is your name?” and “Who gave you that name?” but there failing
-in the exact precision of his memory and substituting for number
+in the exact precision of his [[Memory|memory]] and substituting for number
 three the question “And how do you like that name?” which he
 propounded with a sense of its importance, in itself so edifying and
 improving as to give it quite an orthodox air. This, however, was a
@@ -73,7 +73,7 @@ state with all imaginable cheerfulness.
 
 On this present birthday, Mr. Bagnet has accomplished the usual
 preliminaries. He has bought two specimens of poultry, which, if
-there be any truth in adages, were certainly not caught with chaff,
+there be any [[Truth|truth]] in adages, were certainly not caught with chaff,
 to be prepared for the spit; he has amazed and rejoiced the family by
 their unlooked-for production; he is himself directing the roasting
 of the poultry; and Mrs. Bagnet, with her wholesome brown fingers
@@ -89,16 +89,16 @@ of the head, or a crooked face, as they made mistakes.
 done.”
 
 Mrs. Bagnet, with anguish, beholds one of them at a standstill before
-the fire and beginning to burn.
+the [[Fire|fire]] and beginning to burn.
 
 “You shall have a dinner, old girl,” says Mr. Bagnet. “Fit for a
-queen.”
+[[Queen|queen]].”
 
 Mrs. Bagnet shows her white teeth cheerfully, but to the perception
 of her son, betrays so much uneasiness of spirit that he is impelled
 by the dictates of affection to ask her, with his eyes, what is the
 matter, thus standing, with his eyes wide open, more oblivious of the
-fowls than before, and not affording the least hope of a return to
+fowls than before, and not affording the least [[Hope|hope]] of a return to
 consciousness. Fortunately his elder sister perceives the cause of
 the agitation in Mrs. Bagnet’s breast and with an admonitory poke
 recalls him. The stopped fowls going round again, Mrs. Bagnet closes
@@ -124,7 +124,7 @@ table-cloth, and winking “salt!” at Malta with her right eye, and
 shaking the pepper away from Quebec with her head, “I begin to think
 George is in the roving way again.”
 
-“George,” returns Mr. Bagnet, “will never desert. And leave his old
+“George,” returns Mr. Bagnet, “will never [[Desert|desert]]. And leave his old
 comrade. In the lurch. Don’t be afraid of it.”
 
 “No, Lignum. No. I don’t say he will. I don’t think he will. But if
@@ -133,7 +133,7 @@ off.”
 
 Mr. Bagnet asks why.
 
-“Well,” returns his wife, considering, “George seems to me to be
+“[[Well]],” returns his wife, considering, “George seems to me to be
 getting not a little impatient and restless. I don’t say but what
 he’s as free as ever. Of course he must be free or he wouldn’t be
 George, but he smarts and seems put out.”
@@ -144,10 +144,10 @@ the devil out.”
 “There’s something in that,” his wife assents; “but so it is,
 Lignum.”
 
-Further conversation is prevented, for the time, by the necessity
+Further conversation is prevented, for the [[Time|time]], by the necessity
 under which Mr. Bagnet finds himself of directing the whole force of
 his mind to the dinner, which is a little endangered by the dry
-humour of the fowls in not yielding any gravy, and also by the made
+[[Humour|humour]] of the fowls in not yielding any gravy, and also by the made
 gravy acquiring no flavour and turning out of a flaxen complexion.
 With a similar perverseness, the potatoes crumble off forks in the
 process of peeling, upheaving from their centres in every direction,
@@ -157,9 +157,9 @@ these disadvantages to the best of his ability, Mr. Bagnet at last
 dishes and they sit down at table, Mrs. Bagnet occupying the guest’s
 place at his right hand.
 
-It is well for the old girl that she has but one birthday in a year,
+It is [[Well|well]] for the old girl that she has but one birthday in a year,
 for two such indulgences in poultry might be injurious. Every kind of
-finer tendon and ligament that is in the nature of poultry to possess
+finer tendon and ligament that is in the [[Nature|nature]] of poultry to possess
 is developed in these specimens in the singular form of
 guitar-strings. Their limbs appear to have struck roots into their
 breasts and bodies, as aged trees strike roots into the earth. Their
@@ -178,12 +178,12 @@ The old girl has another trial to undergo after the conclusion of the
 repast in sitting in state to see the room cleared, the hearth swept,
 and the dinner-service washed up and polished in the backyard. The
 great delight and energy with which the two young ladies apply
-themselves to these duties, turning up their skirts in imitation of
+themselves to these duties, turning up their skirts in [[Imitation|imitation]] of
 their mother and skating in and out on little scaffolds of pattens,
 inspire the highest hopes for the future, but some anxiety for the
 present. The same causes lead to confusion of tongues, a clattering
 of crockery, a rattling of tin mugs, a whisking of brooms, and an
-expenditure of water, all in excess, while the saturation of the
+expenditure of [[Water|water]], all in excess, while the saturation of the
 young ladies themselves is almost too moving a spectacle for Mrs.
 Bagnet to look upon with the calmness proper to her position. At last
 the various cleansing processes are triumphantly completed; Quebec
@@ -192,9 +192,9 @@ and something to drink are placed upon the table; and the old girl
 enjoys the first peace of mind she ever knows on the day of this
 delightful entertainment.
 
-When Mr. Bagnet takes his usual seat, the hands of the clock are very
+When Mr. Bagnet takes his usual seat, the hands of the [[Clock|clock]] are very
 near to half-past four; as they mark it accurately, Mr. Bagnet
-announces, “George! Military time.”
+announces, “George! Military [[Time|time]].”
 
 It is George, and he has hearty congratulations for the old girl
 (whom he kisses on the great occasion), and for the children, and for
@@ -212,7 +212,7 @@ don’t he, Lignum?”
 
 “I didn’t know I looked white,” says the trooper, passing his hand
 over his brow, “and I didn’t know I looked shocked, and I’m sorry I
-do. But the truth is, that boy who was taken in at my place died
+do. But the [[Truth|truth]] is, that boy who was taken in at my place died
 yesterday afternoon, and it has rather knocked me over.”
 
 “Poor creetur!” says Mrs. Bagnet with a mother’s pity. “Is he gone?
@@ -236,7 +236,7 @@ leapings and clappings by the young family, and with a species of
 reverential admiration by Mr. Bagnet. “Old girl,” says Mr. Bagnet.
 “Tell him my opinion of it.”
 
-“Why, it’s a wonder, George!” Mrs. Bagnet exclaims. “It’s the
+“Why, it’s a [[Wonder|wonder]], George!” Mrs. Bagnet exclaims. “It’s the
 beautifullest thing that ever was seen!”
 
 “Good!” says Mr. Bagnet. “My opinion.”
@@ -271,7 +271,7 @@ got into action. “If that don’t bring you round, George,” says she,
 the two together MUST do it.”
 
 “You ought to do it of yourself,” George answers; “I know that very
-well, Mrs. Bagnet. I’ll tell you how, one way and another, the blues
+[[Well|well]], Mrs. Bagnet. I’ll tell you how, one way and another, the blues
 have got to be too many for me. Here was this poor lad. ’Twas dull
 work to see him dying as he did, and not be able to help him.”
 
@@ -291,7 +291,7 @@ His was a bad case too, in a different way. Then the two got mixed up
 in a man’s mind with a flinty old rascal who had to do with both. And
 to think of that rusty carbine, stock and barrel, standing up on end
 in his corner, hard, indifferent, taking everything so evenly—it
-made flesh and blood tingle, I do assure you.”
+made flesh and [[Blood|blood]] tingle, I do assure you.”
 
 “My advice to you,” returns Mrs. Bagnet, “is to light your pipe and
 tingle that way. It’s wholesomer and comfortabler, and better for the
@@ -315,7 +315,7 @@ The toast having been drunk with enthusiasm, Mrs. Bagnet returns
 thanks in a neat address of corresponding brevity. This model
 composition is limited to the three words “And wishing yours!” which
 the old girl follows up with a nod at everybody in succession and a
-well-regulated swig of the mixture. This she again follows up, on the
+[[Well|well]]-regulated swig of the mixture. This she again follows up, on the
 present occasion, by the wholly unexpected exclamation, “Here’s a
 man!”
 
@@ -331,7 +331,7 @@ remarkable man.
 
 “Yes,” says the man, coming in and closing the door. “I was going
 down the street here when I happened to stop and look in at the
-musical instruments in the shop-window—a friend of mine is in want
+musical instruments in the shop-[[Window|window]]—a friend of mine is in want
 of a second-hand wiolinceller of a good tone—and I saw a party
 enjoying themselves, and I thought it was you in the corner; I
 thought I couldn’t be mistaken. How goes the world with you, George,
@@ -353,7 +353,7 @@ and ten.”
 “I generally am near,” returns Mr. Bucket, “being so fond of
 children. A friend of mine has had nineteen of ’em, ma’am, all by one
 mother, and she’s still as fresh and rosy as the morning. Not so much
-so as yourself, but, upon my soul, she comes near you! And what do
+so as yourself, but, upon my [[Soul|soul]], she comes near you! And what do
 you call these, my darling?” pursues Mr. Bucket, pinching Malta’s
 cheeks. “These are peaches, these are. Bless your heart! And what do
 you think about father? Do you think father could recommend a
@@ -378,7 +378,7 @@ You haven’t got anything on your mind, you know.”
 your mind, you know! And have these pets got anything on THEIR minds,
 eh? Not they, but they’ll be upon the minds of some of the young
 fellows, some of these days, and make ’em precious low-spirited. I
-ain’t much of a prophet, but I can tell you that, ma’am.”
+ain’t much of a [[Prophet|prophet]], but I can tell you that, ma’am.”
 
 Mrs. Bagnet, quite charmed, hopes Mr. Bucket has a family of his own.
 
@@ -391,7 +391,7 @@ What a very nice backyard, ma’am! Any way out of that yard, now?”
 There is no way out of that yard.
 
 “Ain’t there really?” says Mr. Bucket. “I should have thought there
-might have been. Well, I don’t know as I ever saw a backyard that
+might have been. [[Well]], I don’t know as I ever saw a backyard that
 took my fancy more. Would you allow me to look at it? Thank you. No,
 I see there’s no way out. But what a very good-proportioned yard it
 is!”
@@ -424,7 +424,7 @@ old to be your boy, ma’am.”
 “I can certify at all events that he is not anybody else’s,” returns
 Mrs. Bagnet, laughing.
 
-“Well, you do surprise me! Yet he’s like you, there’s no denying.
+“[[Well]], you do surprise me! Yet he’s like you, there’s no denying.
 Lord, he’s wonderfully like you! But about what you may call the
 brow, you know, THERE his father comes out!” Mr. Bucket compares the
 faces with one eye shut up, while Mr. Bagnet smokes in stolid
@@ -449,7 +449,7 @@ you give us ‘British Grenadiers,’ my fine fellow?”
 Nothing could be more acceptable to the little circle than this call
 upon young Woolwich, who immediately fetches his fife and performs
 the stirring melody, during which performance Mr. Bucket, much
-enlivened, beats time and never fails to come in sharp with the
+enlivened, beats [[Time|time]] and never fails to come in sharp with the
 burden, “British Gra-a-anadeers!” In short, he shows so much musical
 taste that Mr. Bagnet actually takes his pipe from his lips to
 express his conviction that he is a singer. Mr. Bucket receives the
@@ -469,13 +469,13 @@ on his entrance, begins, in spite of himself, to be rather proud of
 him. He is so friendly, is a man of so many resources, and so easy to
 get on with, that it is something to have made him known there. Mr.
 Bagnet becomes, after another pipe, so sensible of the value of his
-acquaintance that he solicits the honour of his company on the old
+acquaintance that he solicits the [[Honour|honour]] of his company on the old
 girl’s next birthday. If anything can more closely cement and
 consolidate the esteem which Mr. Bucket has formed for the family, it
-is the discovery of the nature of the occasion. He drinks to Mrs.
+is the discovery of the [[Nature|nature]] of the occasion. He drinks to Mrs.
 Bagnet with a warmth approaching to rapture, engages himself for that
 day twelvemonth more than thankfully, makes a memorandum of the day
-in a large black pocket-book with a girdle to it, and breathes a hope
+in a large black pocket-book with a girdle to it, and breathes a [[Hope|hope]]
 that Mrs. Bucket and Mrs. Bagnet may before then become, in a manner,
 sisters. As he says himself, what is public life without private
 ties? He is in his humble way a public man, but it is not in that
@@ -486,12 +486,12 @@ It is natural, under these circumstances, that he, in his turn,
 should remember the friend to whom he is indebted for so promising an
 acquaintance. And he does. He keeps very close to him. Whatever the
 subject of the conversation, he keeps a tender eye upon him. He waits
-to walk home with him. He is interested in his very boots and
+to walk [[Home|home]] with him. He is interested in his very boots and
 observes even them attentively as Mr. George sits smoking
-cross-legged in the chimney-corner.
+[[Cross|cross]]-legged in the chimney-corner.
 
 At length Mr. George rises to depart. At the same moment Mr. Bucket,
-with the secret sympathy of friendship, also rises. He dotes upon the
+with the secret sympathy of [[Friendship|friendship]], also rises. He dotes upon the
 children to the last and remembers the commission he has undertaken
 for an absent friend.
 
@@ -507,11 +507,11 @@ rest of the big-wigs like a thorough workman. And you needn’t,” says
 Mr. Bucket in a considerate and private voice, “you needn’t commit
 yourself to too low a figure, governor. I don’t want to pay too large
 a price for my friend, but I want you to have your proper percentage
-and be remunerated for your loss of time. That is but fair. Every man
+and be remunerated for your loss of [[Time|time]]. That is but fair. Every man
 must live, and ought to it.”
 
 Mr. Bagnet shakes his head at the old girl to the effect that they
-have found a jewel of price.
+have found a [[Jewel|jewel]] of price.
 
 “Suppose I was to give you a look in, say, at half arter ten
 to-morrow morning. Perhaps you could name the figures of a few
@@ -521,8 +521,8 @@ Nothing easier. Mr. and Mrs. Bagnet both engage to have the requisite
 information ready and even hint to each other at the practicability
 of having a small stock collected there for approval.
 
-“Thank you,” says Mr. Bucket, “thank you. Good night, ma’am. Good
-night, governor. Good night, darlings. I am much obliged to you for
+“Thank you,” says Mr. Bucket, “thank you. Good [[Night|night]], ma’am. Good
+[[Night|night]], governor. Good [[Night|night]], darlings. I am much obliged to you for
 one of the pleasantest evenings I ever spent in my life.”
 
 They, on the contrary, are much obliged to him for the pleasure he
@@ -538,19 +538,19 @@ inconvenient to walk there two abreast and arm in arm. Mr. George
 therefore soon proposes to walk singly. But Mr. Bucket, who cannot
 make up his mind to relinquish his friendly hold, replies, “Wait half
 a minute, George. I should wish to speak to you first.” Immediately
-afterwards, he twists him into a public-house and into a parlour,
+afterwards, he twists him into a public-[[house]] and into a parlour,
 where he confronts him and claps his own back against the door.
 
-“Now, George,” says Mr. Bucket, “duty is duty, and friendship is
-friendship. I never want the two to clash if I can help it. I have
-endeavoured to make things pleasant to-night, and I put it to you
+“Now, George,” says Mr. Bucket, “duty is duty, and [[Friendship|friendship]] is
+[[Friendship|friendship]]. I never want the two to clash if I can help it. I have
+endeavoured to make things pleasant to-[[Night|night]], and I put it to you
 whether I have done it or not. You must consider yourself in custody,
 George.”
 
 “Custody? What for?” returns the trooper, thunderstruck.
 
 “Now, George,” says Mr. Bucket, urging a sensible view of the case
-upon him with his fat forefinger, “duty, as you know very well, is
+upon him with his fat forefinger, “duty, as you know very [[Well|well]], is
 one thing, and conversation is another. It’s my duty to inform you
 that any observations you may make will be liable to be used against
 you. Therefore, George, be careful what you say. You don’t happen to
@@ -567,8 +567,8 @@ you don’t happen to have heard of a murder?”
 
 “Now, George,” says Mr. Bucket, “don’t you go and commit yourself.
 I’m a-going to tell you what I want you for. There has been a murder
-in Lincoln’s Inn Fields—gentleman of the name of Tulkinghorn. He was
-shot last night. I want you for that.”
+in [[Lincoln]]’s Inn Fields—gentleman of the name of Tulkinghorn. He was
+shot last [[Night|night]]. I want you for that.”
 
 The trooper sinks upon a seat behind him, and great drops start out
 upon his forehead, and a deadly pallor overspreads his face.
@@ -578,11 +578,11 @@ that you suspect ME?”
 
 “George,” returns Mr. Bucket, keeping his forefinger going, “it is
 certainly possible, because it’s the case. This deed was done last
-night at ten o’clock. Now, you know where you were last night at ten
-o’clock, and you’ll be able to prove it, no doubt.”
+[[Night|night]] at ten o’[[Clock|clock]]. Now, you know where you were last [[Night|night]] at ten
+o’[[Clock|clock]], and you’ll be able to prove it, no [[Doubt|doubt]].”
 
-“Last night! Last night?” repeats the trooper thoughtfully. Then it
-flashes upon him. “Why, great heaven, I was there last night!”
+“Last [[Night|night]]! Last [[Night|night]]?” repeats the trooper thoughtfully. Then it
+flashes upon him. “Why, great heaven, I was there last [[Night|night]]!”
 
 “So I have understood, George,” returns Mr. Bucket with great
 deliberation. “So I have understood. Likewise you’ve been very often
@@ -598,10 +598,10 @@ The trooper gasps as if he would admit it all if he could speak.
 with an air of business rather in the upholstery way than otherwise,
 “my wish is, as it has been all the evening, to make things pleasant.
 I tell you plainly there’s a reward out, of a hundred guineas,
-offered by Sir Leicester Dedlock, Baronet. You and me have always
+offered by [[Sir Leicester Dedlock]], Baronet. You and me have always
 been pleasant together; but I have got a duty to discharge; and if
-that hundred guineas is to be made, it may as well be made by me as
-any other man. On all of which accounts, I should hope it was clear
+that hundred guineas is to be made, it may as [[Well|well]] be made by me as
+any other man. On all of which accounts, I should [[Hope|hope]] it was clear
 to you that I must have you, and that I’m damned if I don’t have you.
 Am I to call in any assistance, or is the trick done?”
 
@@ -609,7 +609,7 @@ Mr. George has recovered himself and stands up like a soldier.
 “Come,” he says; “I am ready.”
 
 “George,” continues Mr. Bucket, “wait a bit!” With his upholsterer
-manner, as if the trooper were a window to be fitted up, he takes
+manner, as if the trooper were a [[Window|window]] to be fitted up, he takes
 from his pocket a pair of handcuffs. “This is a serious charge,
 George, and such is my duty.”
 
@@ -621,7 +621,7 @@ comfortable? If not, say so, for I wish to make things as pleasant as
 is consistent with my duty, and I’ve got another pair in my pocket.”
 This remark he offers like a most respectable tradesman anxious to
 execute an order neatly and to the perfect satisfaction of his
-customer. “They’ll do as they are? Very well! Now, you see,
+customer. “They’ll do as they are? Very [[Well|well]]! Now, you see,
 George”—he takes a cloak from a corner and begins adjusting it about
 the trooper’s neck—“I was mindful of your feelings when I come out,
 and brought this on purpose. There! Who’s the wiser?”

@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Science and the Savages (part 1)"
+title: "[[heret12]] — Science and the Savages (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/heret12-(Chesterton)"
@@ -18,11 +18,11 @@ XI.  Science and the Savages
 
 
 A permanent disadvantage of the study of folk-lore and kindred
-subjects is that the man of science can hardly be in the nature
+subjects is that the man of science can hardly be in the [[Nature|nature]]
 of things very frequently a man of the world.  He is a student
-of nature; he is scarcely ever a student of human nature.
+of [[Nature|nature]]; he is scarcely ever a student of human [[Nature|nature]].
 And even where this difficulty is overcome, and he is in some sense
-a student of human nature, this is only a very faint beginning
+a student of human [[Nature|nature]], this is only a very faint beginning
 of the painful progress towards being human.  For the study
 of primitive race and religion stands apart in one important
 respect from all, or nearly all, the ordinary scientific studies.
@@ -33,7 +33,7 @@ of anthropology merely by being a man.  He is himself the animal
 which he studies.  Hence arises the fact which strikes
 the eye everywhere in the records of ethnology and folk-lore--
 the fact that the same frigid and detached spirit which leads
-to success in the study of astronomy or botany leads to disaster
+to [[success]] in the study of astronomy or botany leads to disaster
 in the study of mythology or human origins.  It is necessary
 to cease to be a man in order to do justice to a microbe; it is
 not necessary to cease to be a man in order to do justice to men.
@@ -45,17 +45,17 @@ He is making himself inhuman in order to understand humanity.
 An ignorance of the other world is boasted by many men of science;
 but in this matter their defect arises, not from ignorance
 of the other world, but from ignorance of this world.
-For the secrets about which anthropologists concern themselves can
+For the [[Secrets|secrets]] about which anthropologists concern themselves can
 be best learnt, not from books or voyages, but from the ordinary
 commerce of man with man.  The secret of why some savage
-tribe worships monkeys or the moon is not to be found even
+tribe worships monkeys or the [[Moon|moon]] is not to be found even
 by travelling among those savages and taking down their answers
 in a note-book, although the cleverest man may pursue this course.
-The answer to the riddle is in England; it is in London; nay, it is
+The answer to the [[Riddle|riddle]] is in England; it is in [[London]]; nay, it is
 in his own heart.  When a man has discovered why men in Bond Street
 wear black hats he will at the same moment have discovered why
 men in Timbuctoo wear red feathers.  The mystery in the heart
-of some savage war-dance should not be studied in books of
+of some savage war-[[Dance|dance]] should not be studied in books of
 scientific travel; it should be studied at a subscription ball.
 If a man desires to find out the origins of religions,
 let him not go to the Sandwich Islands; let him go to church.
@@ -63,30 +63,30 @@ If a man wishes to know the origin of human society, to know
 what society, philosophically speaking, really is, let him
 not go into the British Museum; let him go into society.
 
-This total misunderstanding of the real nature of ceremonial gives rise
+This total misunderstanding of the real [[Nature|nature]] of ceremonial gives rise
 to the most awkward and dehumanized versions of the conduct of men in rude
 lands or ages.  The man of science, not realizing that ceremonial is
 essentially a thing which is done without a reason, has to find a reason
 for every sort of ceremonial, and, as might be supposed, the reason is
 generally a very absurd one--absurd because it originates not in the simple
-mind of the barbarian, but in the sophisticated mind of the professor.
+mind of the barbarian, but in the sophisticated mind of [[The Professor|the professor]].
 The teamed man will say, for instance, "The natives of Mumbojumbo Land
-believe that the dead man can eat and will require food upon his journey
+believe that the dead man can eat and will require food upon his [[Journey|journey]]
 to the other world.  This is attested by the fact that they place food
-in the grave, and that any family not complying with this rite is the object
+in the [[Grave|grave]], and that any family not complying with this rite is the object
 of the anger of the priests and the tribe."  To any one acquainted
 with humanity this way of talking is topsy-turvy. It is like saying,
 "The English in the twentieth century believed that a dead man could smell.
-This is attested by the fact that they always covered his grave with lilies,
-violets, or other flowers.  Some priestly and tribal terrors were evidently
+This is attested by the fact that they always covered his [[Grave|grave]] with lilies,
+violets, or other [[Flowers|flowers]].  Some priestly and tribal terrors were evidently
 attached to the neglect of this action, as we have records of several old
 ladies who were very much disturbed in mind because their wreaths had
-not arrived in time for the funeral."  It may be of course that savages
+not arrived in [[Time|time]] for the funeral."  It may be of course that savages
 put food with a dead man because they think that a dead man can eat,
 or weapons with a dead man because they think that a dead man can fight.
 But personally I do not believe that they think anything of the kind.
 I believe they put food or weapons on the dead for the same reason that we
-put flowers, because it is an exceedingly natural and obvious thing to do.
+put [[Flowers|flowers]], because it is an exceedingly natural and obvious thing to do.
 We do not understand, it is true, the emotion which makes us think it
 obvious and natural; but that is because, like all the important emotions
 of human existence, it is essentially irrational.  We do not understand
@@ -94,26 +94,26 @@ the savage for the same reason that the savage does not understand himself.
 And the savage does not understand himself for the same reason that we
 do not understand ourselves either.
 
-The obvious truth is that the moment any matter has passed
+The obvious [[Truth|truth]] is that the moment any matter has passed
 through the human mind it is finally and for ever spoilt for all
 purposes of science.  It has become a thing incurably mysterious
-and infinite; this mortal has put on immortality.  Even what we
+and infinite; this mortal has put on [[Immortality|immortality]].  Even what we
 call our material desires are spiritual, because they are human.
 Science can analyse a pork-chop, and say how much of it is
 phosphorus and how much is protein; but science cannot analyse
 any man's wish for a pork-chop, and say how much of it is hunger,
-how much custom, how much nervous fancy, how much a haunting love
-of the beautiful.  The man's desire for the pork-chop remains
-literally as mystical and ethereal as his desire for heaven.
+how much custom, how much nervous fancy, how much a haunting [[Love|love]]
+of the beautiful.  The man's [[Desire|desire]] for the pork-chop remains
+literally as mystical and ethereal as his [[Desire|desire]] for heaven.
 All attempts, therefore, at a science of any human things,
-at a science of history, a science of folk-lore, a science
-of sociology, are by their nature not merely hopeless, but crazy.
-You can no more be certain in economic history that a man's
-desire for money was merely a desire for money than you can
-be certain in hagiology that a saint's desire for God was merely
-a desire for God.  And this kind of vagueness in the primary
+at a science of [[history]], a science of folk-lore, a science
+of sociology, are by their [[Nature|nature]] not merely hopeless, but crazy.
+You can no more be certain in economic [[history]] that a man's
+[[Desire|desire]] for money was merely a [[Desire|desire]] for money than you can
+be certain in hagiology that a saint's [[Desire|desire]] for God was merely
+a [[Desire|desire]] for God.  And this kind of vagueness in the primary
 phenomena of the study is an absolutely final blow to anything
-in the nature of a science.  Men can construct a science with
+in the [[Nature|nature]] of a science.  Men can construct a science with
 very few instruments, or with very plain instruments; but no one
 on earth could construct a science with unreliable instruments.
 A man might work out the whole of mathematics with a handful of pebbles,

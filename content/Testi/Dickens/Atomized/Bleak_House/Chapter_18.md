@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 18"
+title: "Bleak [[house|House]] — Chapter 18"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,16 +16,16 @@ tags:
 
 CHAPTER XVIII
 
-Lady Dedlock
+[[Lady Dedlock]]
 
 
 It was not so easy as it had appeared at first to arrange for
-Richard’s making a trial of Mr. Kenge’s office. Richard himself was
+[[Richard]]’s making a trial of Mr. Kenge’s office. [[Richard]] himself was
 the chief impediment. As soon as he had it in his power to leave Mr.
-Badger at any moment, he began to doubt whether he wanted to leave
+Badger at any moment, he began to [[Doubt|doubt]] whether he wanted to leave
 him at all. He didn’t know, he said, really. It wasn’t a bad
 profession; he couldn’t assert that he disliked it; perhaps he liked
-it as well as he liked any other—suppose he gave it one more chance!
+it as [[Well|well]] as he liked any other—suppose he gave it one more chance!
 Upon that, he shut himself up for a few weeks with some books and
 some bones and seemed to acquire a considerable fund of information
 with great rapidity. His fervour, after lasting about a month, began
@@ -34,32 +34,32 @@ vacillations between law and medicine lasted so long that midsummer
 arrived before he finally separated from Mr. Badger and entered on an
 experimental course of Messrs. Kenge and Carboy. For all his
 waywardness, he took great credit to himself as being determined to
-be in earnest “this time.” And he was so good-natured throughout, and
+be in earnest “this [[Time|time]].” And he was so good-natured throughout, and
 in such high spirits, and so fond of Ada, that it was very difficult
 indeed to be otherwise than pleased with him.
 
-“As to Mr. Jarndyce,” who, I may mention, found the wind much given,
+“As to Mr. Jarndyce,” who, I may mention, found the [[Wind|wind]] much given,
 during this period, to stick in the east; “As to Mr. Jarndyce,”
-Richard would say to me, “he is the finest fellow in the world,
+[[Richard]] would say to me, “he is the finest fellow in the world,
 Esther! I must be particularly careful, if it were only for his
-satisfaction, to take myself well to task and have a regular wind-up
+satisfaction, to take myself [[Well|well]] to task and have a regular [[Wind|wind]]-up
 of this business now.”
 
-The idea of his taking himself well to task, with that laughing face
+The idea of his taking himself [[Well|well]] to task, with that laughing face
 and heedless manner and with a fancy that everything could catch and
 nothing could hold, was ludicrously anomalous. However, he told us
 between-whiles that he was doing it to such an extent that he
-wondered his hair didn’t turn grey. His regular wind-up of the
+wondered his hair didn’t turn grey. His regular [[Wind|wind]]-up of the
 business was (as I have said) that he went to Mr. Kenge’s about
 midsummer to try how he liked it.
 
-All this time he was, in money affairs, what I have described him in
+All this [[Time|time]] he was, in money affairs, what I have described him in
 a former illustration—generous, profuse, wildly careless, but fully
 persuaded that he was rather calculating and prudent. I happened to
 say to Ada, in his presence, half jestingly, half seriously, about
-the time of his going to Mr. Kenge’s, that he needed to have
+the [[Time|time]] of his going to Mr. Kenge’s, that he needed to have
 Fortunatus’ purse, he made so light of money, which he answered in
-this way, “My jewel of a dear cousin, you hear this old woman! Why
+this way, “My [[Jewel|jewel]] of a dear cousin, you hear this old woman! Why
 does she say that? Because I gave eight pounds odd (or whatever it
 was) for a certain neat waistcoat and buttons a few days ago. Now, if
 I had stayed at Badger’s I should have been obliged to spend twelve
@@ -67,16 +67,16 @@ pounds at a blow for some heart-breaking lecture-fees. So I make four
 pounds—in a lump—by the transaction!”
 
 It was a question much discussed between him and my guardian what
-arrangements should be made for his living in London while he
+arrangements should be made for his living in [[London]] while he
 experimented on the law, for we had long since gone back to Bleak
-House, and it was too far off to admit of his coming there oftener
-than once a week. My guardian told me that if Richard were to settle
+[[house|House]], and it was too far off to admit of his coming there oftener
+than once a week. My guardian told me that if [[Richard]] were to settle
 down at Mr. Kenge’s he would take some apartments or chambers where
-we too could occasionally stay for a few days at a time; “but, little
+we too could occasionally stay for a few days at a [[Time|time]]; “but, little
 woman,” he added, rubbing his head very significantly, “he hasn’t
 settled down there yet!” The discussions ended in our hiring for him,
-by the month, a neat little furnished lodging in a quiet old house
-near Queen Square. He immediately began to spend all the money he had
+by the month, a neat little furnished lodging in a quiet old [[house]]
+near [[Queen]] Square. He immediately began to spend all the money he had
 in buying the oddest little ornaments and luxuries for this lodging;
 and so often as Ada and I dissuaded him from making any purchase that
 he had in contemplation which was particularly unnecessary and
@@ -85,14 +85,14 @@ that to spend anything less on something else was to save the
 difference.
 
 While these affairs were in abeyance, our visit to Mr. Boythorn’s was
-postponed. At length, Richard having taken possession of his lodging,
+postponed. At length, [[Richard]] having taken possession of his lodging,
 there was nothing to prevent our departure. He could have gone with
-us at that time of the year very well, but he was in the full novelty
+us at that [[Time|time]] of the year very [[Well|well]], but he was in the full novelty
 of his new position and was making most energetic attempts to unravel
 the mysteries of the fatal suit. Consequently we went without him,
 and my darling was delighted to praise him for being so busy.
 
-We made a pleasant journey down into Lincolnshire by the coach and
+We made a pleasant [[Journey|journey]] down into Lincolnshire by the coach and
 had an entertaining companion in Mr. Skimpole. His furniture had been
 all cleared off, it appeared, by the person who took possession of it
 on his blue-eyed daughter’s birthday, but he seemed quite relieved to
@@ -102,20 +102,20 @@ expression, they looked you out of countenance, and you looked them
 out of countenance. How pleasant, then, to be bound to no particular
 chairs and tables, but to sport like a butterfly among all the
 furniture on hire, and to flit from rosewood to mahogany, and from
-mahogany to walnut, and from this shape to that, as the humour took
+mahogany to walnut, and from this shape to that, as the [[Humour|humour]] took
 one!
 
 “The oddity of the thing is,” said Mr. Skimpole with a quickened
 sense of the ludicrous, “that my chairs and tables were not paid for,
 and yet my landlord walks off with them as composedly as possible.
-Now, that seems droll! There is something grotesque in it. The chair
+Now, that seems droll! There is something [[Grotesque|grotesque]] in it. The chair
 and table merchant never engaged to pay my landlord my rent. Why
 should my landlord quarrel with HIM? If I have a pimple on my nose
-which is disagreeable to my landlord’s peculiar ideas of beauty, my
+which is disagreeable to my landlord’s peculiar ideas of [[Beauty|beauty]], my
 landlord has no business to scratch my chair and table merchant’s
 nose, which has no pimple on it. His reasoning seems defective!”
 
-“Well,” said my guardian good-humouredly, “it’s pretty clear that
+“[[Well]],” said my guardian good-humouredly, “it’s pretty clear that
 whoever became security for those chairs and tables will have to pay
 for them.”
 
@@ -129,57 +129,57 @@ Have you no consideration for HIS property?’ He hadn’t the least.”
 
 “Refused all proposals,” returned Mr. Skimpole. “I made him business
 proposals. I had him into my room. I said, ‘You are a man of
-business, I believe?’ He replied, ‘I am.’ ‘Very well,’ said I, ‘now
+business, I believe?’ He replied, ‘I am.’ ‘Very [[Well|well]],’ said I, ‘now
 let us be business-like. Here is an inkstand, here are pens and
-paper, here are wafers. What do you want? I have occupied your house
+paper, here are wafers. What do you want? I have occupied your [[house]]
 for a considerable period, I believe to our mutual satisfaction until
 this unpleasant misunderstanding arose; let us be at once friendly
 and business-like. What do you want?’ In reply to this, he made use
 of the figurative expression—which has something Eastern about
 it—that he had never seen the colour of my money. ‘My amiable
 friend,’ said I, ‘I never have any money. I never know anything about
-money.’ ‘Well, sir,’ said he, ‘what do you offer if I give you time?’
-‘My good fellow,’ said I, ‘I have no idea of time; but you say you
+money.’ ‘[[Well]], sir,’ said he, ‘what do you offer if I give you [[Time|time]]?’
+‘My good fellow,’ said I, ‘I have no idea of [[Time|time]]; but you say you
 are a man of business, and whatever you can suggest to be done in a
 business-like way with pen, and ink, and paper—and wafers—I am
 ready to do. Don’t pay yourself at another man’s expense (which is
 foolish), but be business-like!’ However, he wouldn’t be, and there
 was an end of it.”
 
-If these were some of the inconveniences of Mr. Skimpole’s childhood,
-it assuredly possessed its advantages too. On the journey he had a
+If these were some of the inconveniences of Mr. Skimpole’s [[Childhood|childhood]],
+it assuredly possessed its advantages too. On the [[Journey|journey]] he had a
 very good appetite for such refreshment as came in our way (including
 a basket of choice hothouse peaches), but never thought of paying for
 anything. So when the coachman came round for his fee, he pleasantly
 asked him what he considered a very good fee indeed, now—a liberal
-one—and on his replying half a crown for a single passenger, said it
+one—and on his replying half a [[Crown|crown]] for a single passenger, said it
 was little enough too, all things considered, and left Mr. Jarndyce
 to give it him.
 
 It was delightful weather. The green corn waved so beautifully, the
-larks sang so joyfully, the hedges were so full of wild flowers, the
-trees were so thickly out in leaf, the bean-fields, with a light wind
+larks sang so joyfully, the hedges were so full of wild [[Flowers|flowers]], the
+trees were so thickly out in leaf, the bean-fields, with a light [[Wind|wind]]
 blowing over them, filled the air with such a delicious fragrance!
 Late in the afternoon we came to the market-town where we were to
 alight from the coach—a dull little town with a church-spire, and a
-marketplace, and a market-cross, and one intensely sunny street, and
-a pond with an old horse cooling his legs in it, and a very few men
+marketplace, and a market-[[Cross|cross]], and one intensely sunny street, and
+a pond with an old [[Horse|horse]] cooling his legs in it, and a very few men
 sleepily lying and standing about in narrow little bits of shade.
-After the rustling of the leaves and the waving of the corn all along
-the road, it looked as still, as hot, as motionless a little town as
+After the rustling of the [[Leaves|leaves]] and the waving of the corn all along
+the [[Road|road]], it looked as still, as hot, as motionless a little town as
 England could produce.
 
 At the inn we found Mr. Boythorn on horseback, waiting with an open
-carriage to take us to his house, which was a few miles off. He was
+carriage to take us to his [[house]], which was a few miles off. He was
 overjoyed to see us and dismounted with great alacrity.
 
 “By heaven!” said he after giving us a courteous greeting. “This a
 most infamous coach. It is the most flagrant example of an abominable
 public vehicle that ever encumbered the face of the earth. It is
-twenty-five minutes after its time this afternoon. The coachman ought
-to be put to death!”
+twenty-five minutes after its [[Time|time]] this afternoon. The coachman ought
+to be put to [[Death|death]]!”
 
-“IS he after his time?” said Mr. Skimpole, to whom he happened to
+“IS he after his [[Time|time]]?” said Mr. Skimpole, to whom he happened to
 address himself. “You know my infirmity.”
 
 “Twenty-five minutes! Twenty-six minutes!” replied Mr. Boythorn,
@@ -195,9 +195,9 @@ and pleasure.
 
 “I am sorry, ladies,” he said, standing bare-headed at the
 carriage-door when all was ready, “that I am obliged to conduct you
-nearly two miles out of the way. But our direct road lies through Sir
+nearly two miles out of the way. But our direct [[Road|road]] lies through Sir
 Leicester Dedlock’s park, and in that fellow’s property I have sworn
-never to set foot of mine, or horse’s foot of mine, pending the
+never to set foot of mine, or [[Horse|horse]]’s foot of mine, pending the
 present relations between us, while I breathe the breath of life!”
 And here, catching my guardian’s eye, he broke into one of his
 tremendous laughs, which seemed to shake even the motionless little
@@ -223,64 +223,64 @@ while we are here? The prohibition does not extend to us, does it?”
 Ada and me with the smiling politeness which sat so gracefully upon
 him, “except in the matter of their departure. I am only sorry that I
 cannot have the happiness of being their escort about Chesney Wold,
-which is a very fine place! But by the light of this summer day,
+which is a very fine place! But by the light of this [[Summer|summer]] day,
 Jarndyce, if you call upon the owner while you stay with me, you are
 likely to have but a cool reception. He carries himself like an
-eight-day clock at all times, like one of a race of eight-day clocks
+eight-day [[Clock|clock]] at all times, like one of a race of eight-day clocks
 in gorgeous cases that never go and never went—Ha ha ha!—but he
 will have some extra stiffness, I can promise you, for the friends of
 his friend and neighbour Boythorn!”
 
 “I shall not put him to the proof,” said my guardian. “He is as
-indifferent to the honour of knowing me, I dare say, as I am to the
-honour of knowing him. The air of the grounds and perhaps such a view
-of the house as any other sightseer might get are quite enough for
+indifferent to the [[Honour|honour]] of knowing me, I dare say, as I am to the
+[[Honour|honour]] of knowing him. The air of the grounds and perhaps such a view
+of the [[house]] as any other sightseer might get are quite enough for
 me.”
 
-“Well!” said Mr. Boythorn. “I am glad of it on the whole. It’s in
-better keeping. I am looked upon about here as a second Ajax defying
-the lightning. Ha ha ha ha! When I go into our little church on a
-Sunday, a considerable part of the inconsiderable congregation expect
+“[[Well]]!” said Mr. Boythorn. “I am glad of it on the whole. It’s in
+better keeping. I am looked upon about here as a second [[Ajax]] defying
+the [[Lightning|lightning]]. Ha ha ha ha! When I go into our little church on a
+[[Sunday]], a considerable part of the inconsiderable congregation expect
 to see me drop, scorched and withered, on the pavement under the
-Dedlock displeasure. Ha ha ha ha! I have no doubt he is surprised
-that I don’t. For he is, by heaven, the most self-satisfied, and the
+Dedlock displeasure. Ha ha ha ha! I have no [[Doubt|doubt]] he is surprised
+that I don’t. For he is, by heaven, the most [[Self|self]]-satisfied, and the
 shallowest, and the most coxcombical and utterly brainless ass!”
 
-Our coming to the ridge of a hill we had been ascending enabled our
+Our coming to the ridge of a [[Hill|hill]] we had been ascending enabled our
 friend to point out Chesney Wold itself to us and diverted his
 attention from its master.
 
-It was a picturesque old house in a fine park richly wooded. Among
+It was a picturesque old [[house]] in a fine park richly wooded. Among
 the trees and not far from the residence he pointed out the spire of
 the little church of which he had spoken. Oh, the solemn woods over
-which the light and shadow travelled swiftly, as if heavenly wings
-were sweeping on benignant errands through the summer air; the smooth
-green slopes, the glittering water, the garden where the flowers were
+which the light and [[Shadow|shadow]] travelled swiftly, as if heavenly wings
+were sweeping on benignant errands through the [[Summer|summer]] air; the smooth
+green slopes, the glittering [[Water|water]], the [[Garden|garden]] where the [[Flowers|flowers]] were
 so symmetrically arranged in clusters of the richest colours, how
-beautiful they looked! The house, with gable and chimney, and tower,
+beautiful they looked! The [[house]], with gable and chimney, and tower,
 and turret, and dark doorway, and broad terrace-walk, twining among
 the balustrades of which, and lying heaped upon the vases, there was
 one great flush of roses, seemed scarcely real in its light solidity
 and in the serene and peaceful hush that rested on all around it. To
 Ada and to me, that above all appeared the pervading influence. On
-everything, house, garden, terrace, green slopes, water, old oaks,
+everything, [[house]], [[Garden|garden]], terrace, green slopes, [[Water|water]], old oaks,
 fern, moss, woods again, and far away across the openings in the
 prospect to the distance lying wide before us with a purple bloom
 upon it, there seemed to be such undisturbed repose.
 
 When we came into the little village and passed a small inn with the
-sign of the Dedlock Arms swinging over the road in front, Mr.
+sign of the Dedlock Arms swinging over the [[Road|road]] in front, Mr.
 Boythorn interchanged greetings with a young gentleman sitting on a
 bench outside the inn-door who had some fishing-tackle lying beside
 him.
 
 “That’s the housekeeper’s grandson, Mr. Rouncewell by name,” said,
-he, “and he is in love with a pretty girl up at the house. Lady
+he, “and he is in [[Love|love]] with a pretty girl up at the [[house]]. Lady
 Dedlock has taken a fancy to the pretty girl and is going to keep her
-about her own fair person—an honour which my young friend himself
+about her own fair person—an [[Honour|honour]] which my young friend himself
 does not at all appreciate. However, he can’t marry just yet, even if
 his Rosebud were willing; so he is fain to make the best of it. In
-the meanwhile, he comes here pretty often for a day or two at a time
+the meanwhile, he comes here pretty often for a day or two at a [[Time|time]]
 to—fish. Ha ha ha ha!”
 
 “Are he and the pretty girl engaged, Mr. Boythorn?” asked Ada.
@@ -290,12 +290,12 @@ understand each other; but you will see them soon, I dare say, and I
 must learn from you on such a point—not you from me.”
 
 Ada blushed, and Mr. Boythorn, trotting forward on his comely grey
-horse, dismounted at his own door and stood ready with extended arm
+[[Horse|horse]], dismounted at his own door and stood ready with extended arm
 and uncovered head to welcome us when we arrived.
 
-He lived in a pretty house, formerly the parsonage house, with a lawn
-in front, a bright flower-garden at the side, and a well-stocked
-orchard and kitchen-garden in the rear, enclosed with a venerable
+He lived in a pretty [[house]], formerly the parsonage [[house]], with a lawn
+in front, a bright flower-[[Garden|garden]] at the side, and a [[Well|well]]-stocked
+orchard and kitchen-[[Garden|garden]] in the rear, enclosed with a venerable
 wall that had of itself a ripened ruddy look. But, indeed, everything
 about the place wore an aspect of maturity and abundance. The old
 lime-tree walk was like green cloisters, the very shadows of the
@@ -311,17 +311,17 @@ wholesome growth (to say nothing of the neighbouring meadows where
 the hay was carrying) made the whole air a great nosegay. Such
 stillness and composure reigned within the orderly precincts of the
 old red wall that even the feathers hung in garlands to scare the
-birds hardly stirred; and the wall had such a ripening influence that
+[[Birds|birds]] hardly stirred; and the wall had such a ripening influence that
 where, here and there high up, a disused nail and scrap of list still
 clung to it, it was easy to fancy that they had mellowed with the
-changing seasons and that they had rusted and decayed according to
+changing [[Seasons|seasons]] and that they had rusted and decayed according to
 the common fate.
 
-The house, though a little disorderly in comparison with the garden,
-was a real old house with settles in the chimney of the brick-floored
+The [[house]], though a little disorderly in comparison with the [[Garden|garden]],
+was a real old [[house]] with settles in the chimney of the brick-floored
 kitchen and great beams across the ceilings. On one side of it was
 the terrible piece of ground in dispute, where Mr. Boythorn
-maintained a sentry in a smock-frock day and night, whose duty was
+maintained a sentry in a smock-frock day and [[Night|night]], whose duty was
 supposed to be, in cases of aggression, immediately to ring a large
 bell hung up there for the purpose, to unchain a great bull-dog
 established in a kennel as his ally, and generally to deal
@@ -330,12 +330,12 @@ Boythorn had himself composed and posted there, on painted boards to
 which his name was attached in large letters, the following solemn
 warnings: “Beware of the bull-dog. He is most ferocious. Lawrence
 Boythorn.” “The blunderbus is loaded with slugs. Lawrence Boythorn.”
-“Man-traps and spring-guns are set here at all times of the day and
-night. Lawrence Boythorn.” “Take notice. That any person or persons
+“Man-traps and [[spring]]-guns are set here at all times of the day and
+[[Night|night]]. Lawrence Boythorn.” “Take notice. That any person or persons
 audaciously presuming to trespass on this property will be punished
 with the utmost severity of private chastisement and prosecuted with
 the utmost rigour of the law. Lawrence Boythorn.” These he showed us
-from the drawing-room window, while his bird was hopping about his
+from the drawing-room [[Window|window]], while his bird was hopping about his
 head, and he laughed, “Ha ha ha ha! Ha ha ha ha!” to that extent as
 he pointed them out that I really thought he would have hurt himself.
 
@@ -344,21 +344,21 @@ light way, “when you are not in earnest after all.”
 
 “Not in earnest!” returned Mr. Boythorn with unspeakable warmth. “Not
 in earnest! If I could have hoped to train him, I would have bought a
-lion instead of that dog and would have turned him loose upon the
+[[Lion|lion]] instead of that dog and would have turned him loose upon the
 first intolerable robber who should dare to make an encroachment on
-my rights. Let Sir Leicester Dedlock consent to come out and decide
+my rights. Let [[Sir Leicester Dedlock]] consent to come out and decide
 this question by single combat, and I will meet him with any weapon
 known to mankind in any age or country. I am that much in earnest.
 Not more!”
 
-We arrived at his house on a Saturday. On the Sunday morning we all
+We arrived at his [[house]] on a Saturday. On the [[Sunday]] morning we all
 set forth to walk to the little church in the park. Entering the
 park, almost immediately by the disputed ground, we pursued a
 pleasant footpath winding among the verdant turf and the beautiful
 trees until it brought us to the church-porch.
 
 The congregation was extremely small and quite a rustic one with the
-exception of a large muster of servants from the house, some of whom
+exception of a large muster of servants from the [[house]], some of whom
 were already in their seats, while others were yet dropping in. There
 were some stately footmen, and there was a perfect picture of an old
 coachman, who looked as if he were the official representative of all
@@ -367,18 +367,18 @@ was a very pretty show of young women, and above them, the handsome
 old face and fine responsible portly figure of the housekeeper
 towered pre-eminent. The pretty girl of whom Mr. Boythorn had told us
 was close by her. She was so very pretty that I might have known her
-by her beauty even if I had not seen how blushingly conscious she was
-of the eyes of the young fisherman, whom I discovered not far off.
+by her [[Beauty|beauty]] even if I had not seen how blushingly conscious she was
+of the eyes of the [[Young Fisherman|young fisherman]], whom I discovered not far off.
 One face, and not an agreeable one, though it was handsome, seemed
 maliciously watchful of this pretty girl, and indeed of every one and
 everything there. It was a Frenchwoman’s.
 
 As the bell was yet ringing and the great people were not yet come, I
 had leisure to glance over the church, which smelt as earthy as a
-grave, and to think what a shady, ancient, solemn little church it
+[[Grave|grave]], and to think what a shady, ancient, solemn little church it
 was. The windows, heavily shaded by trees, admitted a subdued light
 that made the faces around me pale, and darkened the old brasses in
-the pavement and the time and damp-worn monuments, and rendered the
+the pavement and the [[Time|time]] and damp-worn monuments, and rendered the
 sunshine in the little porch, where a monotonous ringer was working
 at the bell, inestimably bright. But a stir in that direction, a
 gathering of reverential awe in the rustic faces, and a blandly
@@ -391,10 +391,10 @@ sight—’”
 
 Shall I ever forget the rapid beating at my heart, occasioned by the
 look I met as I stood up! Shall I ever forget the manner in which
-those handsome proud eyes seemed to spring out of their languor and
+those handsome proud eyes seemed to [[spring]] out of their languor and
 to hold mine! It was only a moment before I cast mine down—released
 again, if I may say so—on my book; but I knew the beautiful face
-quite well in that short space of time.
+quite [[Well|well]] in that short space of [[Time|time]].
 
 And, very strangely, there was something quickened within me,
 associated with the lonely days at my godmother’s; yes, away even to
@@ -405,7 +405,7 @@ it—absolutely certain.
 
 It was easy to know that the ceremonious, gouty, grey-haired
 gentleman, the only other occupant of the great pew, was Sir
-Leicester Dedlock, and that the lady was Lady Dedlock. But why her
+Leicester Dedlock, and that the lady was [[Lady Dedlock]]. But why her
 face should be, in a confused way, like a broken glass to me, in
 which I saw scraps of old remembrances, and why I should be so
 fluttered and troubled (for I was still) by having casually met her
@@ -413,33 +413,33 @@ eyes, I could not think.
 
 I felt it to be an unmeaning weakness in me and tried to overcome it
 by attending to the words I heard. Then, very strangely, I seemed to
-hear them, not in the reader’s voice, but in the well-remembered
-voice of my godmother. This made me think, did Lady Dedlock’s face
+hear them, not in the reader’s voice, but in the [[Well|well]]-remembered
+voice of my godmother. This made me think, did [[Lady Dedlock]]’s face
 accidentally resemble my godmother’s? It might be that it did, a
 little; but the expression was so different, and the stern decision
 which had worn into my godmother’s face, like weather into rocks, was
 so completely wanting in the face before me that it could not be that
 resemblance which had struck me. Neither did I know the loftiness and
-haughtiness of Lady Dedlock’s face, at all, in any one. And yet I—I,
-little Esther Summerson, the child who lived a life apart and on
+haughtiness of [[Lady Dedlock]]’s face, at all, in any one. And yet I—I,
+little [[Esther Summerson]], the [[Child|child]] who lived a life apart and on
 whose birthday there was no rejoicing—seemed to arise before my own
 eyes, evoked out of the past by some power in this fashionable lady,
 whom I not only entertained no fancy that I had ever seen, but whom I
-perfectly well knew I had never seen until that hour.
+perfectly [[Well|well]] knew I had never seen until that hour.
 
 It made me tremble so to be thrown into this unaccountable agitation
 that I was conscious of being distressed even by the observation of
 the French maid, though I knew she had been looking watchfully here,
 and there, and everywhere, from the moment of her coming into the
 church. By degrees, though very slowly, I at last overcame my strange
-emotion. After a long time, I looked towards Lady Dedlock again. It
+emotion. After a long [[Time|time]], I looked towards [[Lady Dedlock]] again. It
 was while they were preparing to sing, before the sermon. She took no
 heed of me, and the beating at my heart was gone. Neither did it
 revive for more than a few moments when she once or twice afterwards
 glanced at Ada or at me through her glass.
 
 The service being concluded, Sir Leicester gave his arm with much
-taste and gallantry to Lady Dedlock—though he was obliged to walk by
+taste and gallantry to [[Lady Dedlock]]—though he was obliged to walk by
 the help of a thick stick—and escorted her out of church to the pony
 carriage in which they had come. The servants then dispersed, and so
 did the congregation, whom Sir Leicester had contemplated all along
@@ -455,7 +455,7 @@ Boythorn, “it’s agreeable to me to see a man of that sort.”
 “IS it!” said Mr. Boythorn.
 
 “Say that he wants to patronize me,” pursued Mr. Skimpole. “Very
-well! I don’t object.”
+[[Well|well]]! I don’t object.”
 
 “I do,” said Mr. Boythorn with great vigour.
 
@@ -463,17 +463,17 @@ well! I don’t object.”
 that’s taking trouble, surely. And why should you take trouble? Here
 am I, content to receive things childishly as they fall out, and I
 never take trouble! I come down here, for instance, and I find a
-mighty potentate exacting homage. Very well! I say ‘Mighty potentate,
+mighty potentate exacting homage. Very [[Well|well]]! I say ‘Mighty potentate,
 here IS my homage! It’s easier to give it than to withhold it. Here
-it is. If you have anything of an agreeable nature to show me, I
-shall be happy to see it; if you have anything of an agreeable nature
+it is. If you have anything of an agreeable [[Nature|nature]] to show me, I
+shall be happy to see it; if you have anything of an agreeable [[Nature|nature]]
 to give me, I shall be happy to accept it.’ Mighty potentate replies
 in effect, ‘This is a sensible fellow. I find him accord with my
 digestion and my bilious system. He doesn’t impose upon me the
-necessity of rolling myself up like a hedgehog with my points
+necessity of [[rolling]] myself up like a hedgehog with my points
 outward. I expand, I open, I turn my silver lining outward like
-Milton’s cloud, and it’s more agreeable to both of us.’ That’s my
-view of such things, speaking as a child!”
+[[Milton]]’s cloud, and it’s more agreeable to both of us.’ That’s my
+view of such things, speaking as a [[Child|child]]!”
 
 “But suppose you went down somewhere else to-morrow,” said Mr.
 Boythorn, “where there was the opposite of that fellow—or of this
@@ -496,14 +496,14 @@ growing very red, “I’ll be—”
 
 “—if I WILL go to dinner!” cried Mr. Boythorn in a violent burst and
 stopping to strike his stick upon the ground. “And he would probably
-add, ‘Is there such a thing as principle, Mr. Harold Skimpole?’”
+add, ‘Is there such a thing as principle, Mr. [[Harold Skimpole]]?’”
 
-“To which Harold Skimpole would reply, you know,” he returned in his
+“To which [[Harold Skimpole]] would reply, you know,” he returned in his
 gayest manner and with his most ingenuous smile, “‘Upon my life I
 have not the least idea! I don’t know what it is you call by that
 name, or where it is, or who possesses it. If you possess it and find
 it comfortable, I am quite delighted and congratulate you heartily.
-But I know nothing about it, I assure you; for I am a mere child, and
+But I know nothing about it, I assure you; for I am a mere [[Child|child]], and
 I lay no claim to it, and I don’t want it!’ So, you see, excellent
 Boythorn and I would go to dinner after all!”
 
@@ -512,12 +512,12 @@ expected to end, and which I dare say would have ended under other
 circumstances, in some violent explosion on the part of our host. But
 he had so high a sense of his hospitable and responsible position as
 our entertainer, and my guardian laughed so sincerely at and with Mr.
-Skimpole, as a child who blew bubbles and broke them all day long,
+Skimpole, as a [[Child|child]] who blew bubbles and broke them all day long,
 that matters never went beyond this point. Mr. Skimpole, who always
 seemed quite unconscious of having been on delicate ground, then
-betook himself to beginning some sketch in the park which he never
+betook himself to beginning some [[Sketch|sketch]] in the park which he never
 finished, or to playing fragments of airs on the piano, or to singing
-scraps of songs, or to lying down on his back under a tree and
+scraps of [[songs]], or to lying down on his back under a tree and
 looking at the sky—which he couldn’t help thinking, he said, was
 what he was meant for; it suited him so exactly.
 
@@ -535,7 +535,7 @@ they don’t altogether like it. I dare say theirs is an unpleasant
 experience on the whole; but they people the landscape for me, they
 give it a poetry for me, and perhaps that is one of the pleasanter
 objects of their existence. I am very sensible of it, if it be, and I
-shouldn’t wonder if it were!”
+shouldn’t [[Wonder|wonder]] if it were!”
 
 I always wondered on these occasions whether he ever thought of Mrs.
 Skimpole and the children, and in what point of view they presented
@@ -545,10 +545,10 @@ they rarely presented themselves at all.
 The week had gone round to the Saturday following that beating of my
 heart in the church; and every day had been so bright and blue that
 to ramble in the woods, and to see the light striking down among the
-transparent leaves and sparkling in the beautiful interlacings of the
-shadows of the trees, while the birds poured out their songs and the
-air was drowsy with the hum of insects, had been most delightful. We
-had one favourite spot, deep in moss and last year’s leaves, where
+transparent [[Leaves|leaves]] and sparkling in the beautiful interlacings of the
+shadows of the trees, while the [[Birds|birds]] poured out their [[songs]] and the
+air was drowsy with the hum of [[Insects|insects]], had been most delightful. We
+had one favourite spot, deep in moss and last year’s [[Leaves|leaves]], where
 there were some felled trees from which the bark was all stripped
 off. Seated among these, we looked through a green vista supported by
 thousands of natural columns, the whitened stems of trees, upon a
@@ -557,29 +557,29 @@ which we sat and made so precious by the arched perspective through
 which we saw it that it was like a glimpse of the better land. Upon
 the Saturday we sat here, Mr. Jarndyce, Ada, and I, until we heard
 thunder muttering in the distance and felt the large raindrops rattle
-through the leaves.
+through the [[Leaves|leaves]].
 
-The weather had been all the week extremely sultry, but the storm
+The weather had been all the week extremely sultry, but the [[Storm|storm]]
 broke so suddenly—upon us, at least, in that sheltered spot—that
-before we reached the outskirts of the wood the thunder and lightning
-were frequent and the rain came plunging through the leaves as if
-every drop were a great leaden bead. As it was not a time for
+before we reached the outskirts of the wood the thunder and [[Lightning|lightning]]
+were frequent and the rain came plunging through the [[Leaves|leaves]] as if
+every drop were a great leaden bead. As it was not a [[Time|time]] for
 standing among trees, we ran out of the wood, and up and down the
 moss-grown steps which crossed the plantation-fence like two
 broad-staved ladders placed back to back, and made for a keeper’s
-lodge which was close at hand. We had often noticed the dark beauty
+lodge which was close at hand. We had often noticed the dark [[Beauty|beauty]]
 of this lodge standing in a deep twilight of trees, and how the ivy
 clustered over it, and how there was a steep hollow near, where we
 had once seen the keeper’s dog dive down into the fern as if it were
-water.
+[[Water|water]].
 
 The lodge was so dark within, now the sky was overcast, that we only
 clearly saw the man who came to the door when we took shelter there
 and put two chairs for Ada and me. The lattice-windows were all
-thrown open, and we sat just within the doorway watching the storm.
-It was grand to see how the wind awoke, and bent the trees, and drove
+thrown open, and we sat just within the doorway watching the [[Storm|storm]].
+It was grand to see how the [[Wind|wind]] awoke, and bent the trees, and drove
 the rain before it like a cloud of smoke; and to hear the solemn
-thunder and to see the lightning; and while thinking with awe of the
+thunder and to see the [[Lightning|lightning]]; and while thinking with awe of the
 tremendous powers by which our little lives are encompassed, to
 consider how beneficent they are and how upon the smallest flower and
 leaf there was already a freshness poured from all this seeming rage
@@ -596,7 +596,7 @@ as I had never seen the face, but it affected me in the same strange
 way. Again, in a moment, there arose before my mind innumerable
 pictures of myself.
 
-Lady Dedlock had taken shelter in the lodge before our arrival there
+[[Lady Dedlock]] had taken shelter in the lodge before our arrival there
 and had come out of the gloom within. She stood behind my chair with
 her hand upon it. I saw her with her hand close to my shoulder when I
 turned my head.
@@ -605,13 +605,13 @@ turned my head.
 
 No. It was not fright. Why should I be frightened!
 
-“I believe,” said Lady Dedlock to my guardian, “I have the pleasure
+“I believe,” said [[Lady Dedlock]] to my guardian, “I have the pleasure
 of speaking to Mr. Jarndyce.”
 
-“Your remembrance does me more honour than I had supposed it would,
-Lady Dedlock,” he returned.
+“Your remembrance does me more [[Honour|honour]] than I had supposed it would,
+[[Lady Dedlock]],” he returned.
 
-“I recognized you in church on Sunday. I am sorry that any local
+“I recognized you in church on [[Sunday]]. I am sorry that any local
 disputes of Sir Leicester’s—they are not of his seeking, however, I
 believe—should render it a matter of some absurd difficulty to show
 you any attention here.”
@@ -622,7 +622,7 @@ you any attention here.”
 She had given him her hand in an indifferent way that seemed habitual
 to her and spoke in a correspondingly indifferent manner, though in a
 very pleasant voice. She was as graceful as she was beautiful,
-perfectly self-possessed, and had the air, I thought, of being able
+perfectly [[Self|self]]-possessed, and had the air, I thought, of being able
 to attract and interest any one if she had thought it worth her
 while. The keeper had brought her a chair on which she sat in the
 middle of the porch between us.
@@ -632,7 +632,7 @@ about and whose wishes Sir Leicester was sorry not to have it in his
 power to advance in any way?” she said over her shoulder to my
 guardian.
 
-“I hope so,” said he.
+“I [[Hope|hope]] so,” said he.
 
 She seemed to respect him and even to wish to conciliate him. There
 was something very winning in her haughty manner, and it became more
@@ -643,9 +643,9 @@ she spoke to him over her shoulder.
 
 He presented Ada, in form.
 
-“You will lose the disinterested part of your Don Quixote character,”
-said Lady Dedlock to Mr. Jarndyce over her shoulder again, “if you
-only redress the wrongs of beauty like this. But present me,” and she
+“You will lose the disinterested part of your [[Don Quixote]] character,”
+said [[Lady Dedlock]] to Mr. Jarndyce over her shoulder again, “if you
+only redress the wrongs of [[Beauty|beauty]] like this. But present me,” and she
 turned full upon me, “to this young lady too!”
 
 “Miss Summerson really is my ward,” said Mr. Jarndyce. “I am
@@ -657,21 +657,21 @@ responsible to no Lord Chancellor in her case.”
 
 “She is very fortunate in her guardian.”
 
-Lady Dedlock looked at me, and I looked at her and said I was indeed.
+[[Lady Dedlock]] looked at me, and I looked at her and said I was indeed.
 All at once she turned from me with a hasty air, almost expressive of
 displeasure or dislike, and spoke to him over her shoulder again.
 
 “Ages have passed since we were in the habit of meeting, Mr.
 Jarndyce.”
 
-“A long time. At least I thought it was a long time, until I saw you
-last Sunday,” he returned.
+“A long [[Time|time]]. At least I thought it was a long [[Time|time]], until I saw you
+last [[Sunday]],” he returned.
 
 “What! Even you are a courtier, or think it necessary to become one
 to me!” she said with some disdain. “I have achieved that reputation,
 I suppose.”
 
-“You have achieved so much, Lady Dedlock,” said my guardian, “that
+“You have achieved so much, [[Lady Dedlock]],” said my guardian, “that
 you pay some little penalty, I dare say. But none to me.”
 
 “So much!” she repeated, slightly laughing. “Yes!”
@@ -679,22 +679,22 @@ you pay some little penalty, I dare say. But none to me.”
 With her air of superiority, and power, and fascination, and I know
 not what, she seemed to regard Ada and me as little more than
 children. So, as she slightly laughed and afterwards sat looking at
-the rain, she was as self-possessed and as free to occupy herself
-with her own thoughts as if she had been alone.
+the rain, she was as [[Self|self]]-possessed and as free to occupy herself
+with her own thoughts as if she had been [[Alone|alone]].
 
 “I think you knew my sister when we were abroad together better than
 you know me?” she said, looking at him again.
 
 “Yes, we happened to meet oftener,” he returned.
 
-“We went our several ways,” said Lady Dedlock, “and had little in
+“We went our several ways,” said [[Lady Dedlock]], “and had little in
 common even before we agreed to differ. It is to be regretted, I
 suppose, but it could not be helped.”
 
-Lady Dedlock again sat looking at the rain. The storm soon began to
-pass upon its way. The shower greatly abated, the lightning ceased,
+[[Lady Dedlock]] again sat looking at the rain. The [[Storm|storm]] soon began to
+pass upon its way. The shower greatly abated, the [[Lightning|lightning]] ceased,
 the thunder rolled among the distant hills, and the sun began to
-glisten on the wet leaves and the falling rain. As we sat there,
+glisten on the wet [[Leaves|leaves]] and the falling rain. As we sat there,
 silently, we saw a little pony phaeton coming towards us at a merry
 pace.
 
@@ -707,21 +707,21 @@ Frenchwoman whom I had seen in church, and secondly the pretty girl,
 the Frenchwoman with a defiant confidence, the pretty girl confused
 and hesitating.
 
-“What now?” said Lady Dedlock. “Two!”
+“What now?” said [[Lady Dedlock]]. “Two!”
 
 “I am your maid, my Lady, at the present,” said the Frenchwoman. “The
 message was for the attendant.”
 
 “I was afraid you might mean me, my Lady,” said the pretty girl.
 
-“I did mean you, child,” replied her mistress calmly. “Put that shawl
+“I did mean you, [[Child|child]],” replied her mistress calmly. “Put that shawl
 on me.”
 
 She slightly stooped her shoulders to receive it, and the pretty girl
 lightly dropped it in its place. The Frenchwoman stood unnoticed,
 looking on with her lips very tightly set.
 
-“I am sorry,” said Lady Dedlock to Mr. Jarndyce, “that we are not
+“I am sorry,” said [[Lady Dedlock]] to Mr. Jarndyce, “that we are not
 likely to renew our former acquaintance. You will allow me to send
 the carriage back for your two wards. It shall be here directly.”
 
@@ -730,14 +730,14 @@ leave of Ada—none of me—and put her hand upon his proffered arm,
 and got into the carriage, which was a little, low, park carriage
 with a hood.
 
-“Come in, child,” she said to the pretty girl; “I shall want you. Go
+“Come in, [[Child|child]],” she said to the pretty girl; “I shall want you. Go
 on!”
 
 The carriage rolled away, and the Frenchwoman, with the wrappers she
 had brought hanging over her arm, remained standing where she had
 alighted.
 
-I suppose there is nothing pride can so little bear with as pride
+I suppose there is nothing [[Pride|pride]] can so little bear with as [[Pride|pride]]
 itself, and that she was punished for her imperious manner. Her
 retaliation was the most singular I could have imagined. She remained
 perfectly still until the carriage had turned into the drive, and
@@ -753,18 +753,18 @@ as the best. But she’s mortal high and passionate—powerful high and
 passionate; and what with having notice to leave, and having others
 put above her, she don’t take kindly to it.”
 
-“But why should she walk shoeless through all that water?” said my
+“But why should she walk shoeless through all that [[Water|water]]?” said my
 guardian.
 
 “Why, indeed, sir, unless it is to cool her down!” said the man.
 
-“Or unless she fancies it’s blood,” said the woman. “She’d as soon
+“Or unless she fancies it’s [[Blood|blood]],” said the woman. “She’d as soon
 walk through that as anything else, I think, when her own’s up!”
 
-We passed not far from the house a few minutes afterwards. Peaceful
+We passed not far from the [[house]] a few minutes afterwards. Peaceful
 as it had looked when we first saw it, it looked even more so now,
-with a diamond spray glittering all about it, a light wind blowing,
-the birds no longer hushed but singing strongly, everything refreshed
+with a diamond spray glittering all about it, a light [[Wind|wind]] blowing,
+the [[Birds|birds]] no longer hushed but singing strongly, everything refreshed
 by the late rain, and the little carriage shining at the doorway like
 a fairy carriage made of silver. Still, very steadfastly and quietly
 walking towards it, a peaceful figure too in the landscape, went

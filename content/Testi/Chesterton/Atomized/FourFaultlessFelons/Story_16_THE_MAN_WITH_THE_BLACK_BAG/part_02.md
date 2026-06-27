@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE MAN WITH THE BLACK BAG (part 2)"
+title: "[[FourFaultlessFelons]] — THE MAN WITH THE BLACK BAG (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -26,7 +26,7 @@ thing, a man who valued a reputation for handsome behaviour. But he would
 
 have been more than human, if he had found it easy to adjust rapidly his
 
-relations to a gentleman, who had first flung him across the road and
+relations to a gentleman, who had first flung him across the [[Road|road]] and
 
 then, on his retaliating, started pommelling him like a pugilist, and to
 
@@ -42,9 +42,9 @@ rational reconsideration, she rather liked the look of the young man, for
 
 neatness and respectability do not always displease ladies who have seen
 
-a good deal of the sublime liberty of the artistic life. Also, she had
+a good deal of the [[Sublime|sublime]] liberty of the artistic life. Also, she had
 
-not been seized suddenly by the throat in the middle of the road.
+not been seized suddenly by the throat in the middle of the [[Road|road]].
 
 
 
@@ -98,19 +98,19 @@ became rather common. To all appearance, they met only to argue, and yet
 
 they were always meeting. For some reason or other, Dr. Judson was
 
-continually coming round to the poet's house on one pretext or another,
+continually coming round to the poet's [[house]] on one pretext or another,
 
 and the poet never failed in hospitality, though it had so strange a ring
 
 of hostility. It may be explained in part by the fact that each had met
 
-for the first time his complete antithesis and his completely convinced
+for the first [[Time|time]] his complete antithesis and his completely convinced
 
 antagonist. Windrush was a man in the old tradition of Shelley or Walt
 
 Whitman. He was a poet to whom poetry seemed almost synonymous with
 
-liberty. If he had enclosed a wild tree in a tame suburban garden, it was
+liberty. If he had enclosed a wild tree in a tame suburban [[Garden|garden]], it was
 
 by his account that it might be the last thing really allowed to grow
 
@@ -118,15 +118,15 @@ wild. If he walked in a solitary path secluded by high walls, it was
 
 apparently by the instinct that has led many a squire to fence in a
 
-wilderness and call it a park. He liked loneliness because it was the
+wilderness and call it a park. He liked [[Loneliness|loneliness]] because it was the
 
 only perfect form of doing as he liked. He regarded all the mechanical
 
-civilization that had spread around him as a mere materialistic slavery,
+civilization that had spread around him as a mere materialistic [[Slavery|slavery]],
 
 and, as far as possible, treated it as if it were not there; even, as we
 
-have seen, to the extent of standing in the middle of a main road with
+have seen, to the extent of standing in the middle of a main [[Road|road]] with
 
 his back to a motor-car.
 
@@ -138,7 +138,7 @@ he will get on, because he believes in himself. This was probably a
 
 slander on him. He did not merely believe in himself; he believed in
 
-things requiring far more faith: in things which some think far more
+things requiring far more [[Faith|faith]]: in things which some think far more
 
 incredible and difficult to believe. He believed in modern organization
 
@@ -156,11 +156,11 @@ ordinary papers, and then to articles in the scientific papers. He had
 
 the simplicity to carry his highly modern monomanias into private life,
 
-and propounded them to her for hours at a time, striding up and down the
+and propounded them to her for hours at a [[Time|time]], striding up and down the
 
 artistic drawing-room, while Windrush was wandering round his private
 
-garden engaged in perennial tree-worship. The walking up and down was
+[[Garden|garden]] engaged in perennial tree-worship. The walking up and down was
 
 characteristic, for the second definite impression which Judson produced,
 
@@ -192,9 +192,9 @@ not follow that they have no value."
 
 "But look here," the doctor would start in again, scowling painfully. "I
 
-don't see the value of it as art and poetry-let alone reason or sense.
+don't see the value of it as art and poetry-let [[Alone|alone]] reason or sense.
 
-What's the beauty of one dingy old tree stuck in the middle of bricks and
+What's the [[Beauty|beauty]] of one dingy old tree stuck in the middle of bricks and
 
 mortar? Why, if you abolished it, you'd have room for a garage and you
 

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 57 (part 2)"
+title: "Bleak [[house|House]] — Chapter 57 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -18,7 +18,7 @@ I had no need to remind myself that I was not there by the indulgence
 of any feeling of mine to increase the difficulties of the search, or
 to lessen its hopes, or enhance its delays. I remained quiet, but
 what I suffered in that dreadful spot I never can forget. And still
-it was like the horror of a dream. A man yet dark and muddy, in long
+it was like the horror of [[A Dream|a dream]]. A man yet dark and muddy, in long
 swollen sodden boots and a hat like them, was called out of a boat
 and whispered with Mr. Bucket, who went away with him down some
 slippery steps—as if to look at something secret that he had to
@@ -44,32 +44,32 @@ know that it is in train by looking after it myself. Get on, my lad!”
 We appeared to retrace the way we had come. Not that I had taken note
 of any particular objects in my perturbed state of mind, but judging
 from the general character of the streets. We called at another
-office or station for a minute and crossed the river again. During
-the whole of this time, and during the whole search, my companion,
+office or station for a minute and crossed the [[River|river]] again. During
+the whole of this [[Time|time]], and during the whole search, my companion,
 wrapped up on the box, never relaxed in his vigilance a single
 moment; but when we crossed the bridge he seemed, if possible, to be
 more on the alert than before. He stood up to look over the parapet,
 he alighted and went back after a shadowy female figure that flitted
-past us, and he gazed into the profound black pit of water with a
-face that made my heart die within me. The river had a fearful look,
+past us, and he gazed into the profound black pit of [[Water|water]] with a
+face that made my heart die within me. The [[River|river]] had a fearful look,
 so overcast and secret, creeping away so fast between the low flat
 lines of shore—so heavy with indistinct and awful shapes, both of
-substance and shadow; so death-like and mysterious. I have seen it
+substance and [[Shadow|shadow]]; so [[Death|death]]-like and mysterious. I have seen it
 many times since then, by sunlight and by moonlight, but never free
-from the impressions of that journey. In my memory the lights upon
-the bridge are always burning dim, the cutting wind is eddying round
+from the impressions of that [[Journey|journey]]. In my [[Memory|memory]] the lights upon
+the bridge are always burning dim, the cutting [[Wind|wind]] is eddying round
 the homeless woman whom we pass, the monotonous wheels are whirling
 on, and the light of the carriage-lamps reflected back looks palely
-in upon me—a face rising out of the dreaded water.
+in upon me—a face rising out of the dreaded [[Water|water]].
 
 Clattering and clattering through the empty streets, we came at
 length from the pavement on to dark smooth roads and began to leave
 the houses behind us. After a while I recognized the familiar way to
 Saint Albans. At Barnet fresh horses were ready for us, and we
 changed and went on. It was very cold indeed, and the open country
-was white with snow, though none was falling then.
+was white with [[Snow|snow]], though none was falling then.
 
-“An old acquaintance of yours, this road, Miss Summerson,” said Mr.
+“An old acquaintance of yours, this [[Road|road]], Miss Summerson,” said Mr.
 Bucket cheerfully.
 
 “Yes,” I returned. “Have you gathered any intelligence?”
@@ -77,8 +77,8 @@ Bucket cheerfully.
 “None that can be quite depended on as yet,” he answered, “but it’s
 early times as yet.”
 
-He had gone into every late or early public-house where there
-was a light (they were not a few at that time, the road being
+He had gone into every late or early public-[[house]] where there
+was a light (they were not a few at that [[Time|time]], the [[Road|road]] being
 then much frequented by drovers) and had got down to talk to the
 turnpike-keepers. I had heard him ordering drink, and chinking money,
 and making himself agreeable and merry everywhere; but whenever he
@@ -86,7 +86,7 @@ took his seat upon the box again, his face resumed its watchful
 steady look, and he always said to the driver in the same business
 tone, “Get on, my lad!”
 
-With all these stoppages, it was between five and six o’clock and we
+With all these stoppages, it was between five and six o’[[Clock|clock]] and we
 were yet a few miles short of Saint Albans when he came out of one of
 these houses and handed me in a cup of tea.
 
@@ -96,7 +96,7 @@ more yourself now, ain’t you?”
 I thanked him and said I hoped so.
 
 “You was what you may call stunned at first,” he returned; “and Lord,
-no wonder! Don’t speak loud, my dear. It’s all right. She’s on
+no [[Wonder|wonder]]! Don’t speak loud, my dear. It’s all right. She’s on
 ahead.”
 
 I don’t know what joyful exclamation I made or was going to make, but
@@ -108,26 +108,26 @@ couldn’t make quite sure. Traced her all along, on and off. Picked
 her up at one place, and dropped her at another; but she’s before us
 now, safe. Take hold of this cup and saucer, ostler. Now, if you
 wasn’t brought up to the butter trade, look out and see if you can
-catch half a crown in your t’other hand. One, two, three, and there
+catch half a [[Crown|crown]] in your t’other hand. One, two, three, and there
 you are! Now, my lad, try a gallop!”
 
 We were soon in Saint Albans and alighted a little before day, when I
 was just beginning to arrange and comprehend the occurrences of the
-night and really to believe that they were not a dream. Leaving the
-carriage at the posting-house and ordering fresh horses to be ready,
-my companion gave me his arm, and we went towards home.
+[[Night|night]] and really to believe that they were not [[A Dream|a dream]]. Leaving the
+carriage at the posting-[[house]] and ordering fresh horses to be ready,
+my companion gave me his arm, and we went towards [[Home|home]].
 
 “As this is your regular abode, Miss Summerson, you see,” he
 observed, “I should like to know whether you’ve been asked for by any
 stranger answering the description, or whether Mr. Jarndyce has. I
 don’t much expect it, but it might be.”
 
-As we ascended the hill, he looked about him with a sharp eye—the
+As we ascended the [[Hill|hill]], he looked about him with a sharp eye—the
 day was now breaking—and reminded me that I had come down it one
-night, as I had reason for remembering, with my little servant and
+[[Night|night]], as I had reason for remembering, with my little servant and
 poor Jo, whom he called Toughey.
 
 I wondered how he knew that.
 
-“When you passed a man upon the road, just yonder, you know,” said
+“When you passed a man upon the [[Road|road]], just yonder, you know,” said
 Mr. Bucket.

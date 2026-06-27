@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 15"
+title: "[[Agnes Grey]] — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -20,29 +20,29 @@ THE WALK
 
 “Oh, dear! I wish Hatfield had not been so precipitate!” said Rosalie
 next day at four P.M., as, with a portentous yawn, she laid down her
-worsted-work and looked listlessly towards the window. “There’s no
+worsted-work and looked listlessly towards the [[Window|window]]. “There’s no
 inducement to go out now; and nothing to look forward to. The days will
 be so long and dull when there are no parties to enliven them; and
 there are none this week, or next either, that I know of.”
 
-“Pity you were so cross to him,” observed Matilda, to whom this
+“Pity you were so [[Cross|cross]] to him,” observed Matilda, to whom this
 lamentation was addressed. “He’ll never come again: and I suspect you
 liked him after all. I hoped you would have taken him for your beau,
 and left dear Harry to me.”
 
-“Humph! my beau must be an Adonis indeed, Matilda, the admired of all
-beholders, if I am to be contented with him alone. I’m sorry to lose
+“Humph! my beau must be an [[Adonis]] indeed, Matilda, the admired of all
+beholders, if I am to be contented with him [[Alone|alone]]. I’m sorry to lose
 Hatfield, I confess; but the first decent man, or number of men, that
-come to supply his place, will be more than welcome. It’s Sunday
-to-morrow—I do wonder how he’ll look, and whether he’ll be able to go
+come to supply his place, will be more than welcome. It’s [[Sunday]]
+to-morrow—I do [[Wonder|wonder]] how he’ll look, and whether he’ll be able to go
 through the service. Most likely he’ll pretend he’s got a cold, and
 make Mr. Weston do it all.”
 
-“Not he!” exclaimed Matilda, somewhat contemptuously. “Fool as he is,
+“Not he!” exclaimed Matilda, somewhat contemptuously. “[[Fool]] as he is,
 he’s not so soft as that comes to.”
 
 Her sister was slightly offended; but the event proved Matilda was
-right: the disappointed lover performed his pastoral duties as usual.
+right: the disappointed [[Lover|lover]] performed his [[Pastoral|pastoral]] duties as usual.
 Rosalie, indeed, affirmed he looked very pale and dejected: he might be
 a little paler; but the difference, if any, was scarcely perceptible.
 As for his dejection, I certainly did not hear his laugh ringing from
@@ -50,56 +50,56 @@ the vestry as usual, nor his voice loud in hilarious discourse; though
 I did hear it uplifted in rating the sexton in a manner that made the
 congregation stare; and, in his transits to and from the pulpit and the
 communion-table, there was more of solemn pomp, and less of that
-irreverent, self-confident, or rather self-delighted imperiousness with
+irreverent, [[Self|self]]-confident, or rather [[Self|self]]-delighted imperiousness with
 which he usually swept along—that air that seemed to say, “You all
 reverence and adore me, I know; but if anyone does not, I defy him to
 the teeth!” But the most remarkable change was, that he never once
 suffered his eyes to wander in the direction of Mr. Murray’s pew, and
 did not leave the church till we were gone.
 
-Mr. Hatfield had doubtless received a very severe blow; but his pride
+Mr. Hatfield had doubtless received a very severe blow; but his [[Pride|pride]]
 impelled him to use every effort to conceal the effects of it. He had
-been disappointed in his certain hope of obtaining not only a
+been disappointed in his certain [[Hope|hope]] of obtaining not only a
 beautiful, and, to him, highly attractive wife, but one whose rank and
 fortune might give brilliance to far inferior charms: he was likewise,
-no doubt, intensely mortified by his repulse, and deeply offended at
+no [[Doubt|doubt]], intensely mortified by his repulse, and deeply offended at
 the conduct of Miss Murray throughout. It would have given him no
 little consolation to have known how disappointed she was to find him
 apparently so little moved, and to see that he was able to refrain from
 casting a single glance at her throughout both services; though, she
-declared, it showed he was thinking of her all the time, or his eyes
+declared, it showed he was thinking of her all the [[Time|time]], or his eyes
 would have fallen upon her, if it were only by chance: but if they had
 so chanced to fall, she would have affirmed it was because they could
 not resist the attraction. It might have pleased him, too, in some
 degree, to have seen how dull and dissatisfied she was throughout that
 week (the greater part of it, at least), for lack of her usual source
 of excitement; and how often she regretted having “used him up so
-soon,” like a child that, having devoured its plumcake too hastily,
+soon,” like a [[Child|child]] that, having devoured its plumcake too hastily,
 sits sucking its fingers, and vainly lamenting its greediness.
 
 At length I was called upon, one fine morning, to accompany her in a
 walk to the village. Ostensibly she went to get some shades of Berlin
 wool, at a tolerably respectable shop that was chiefly supported by the
-ladies of the vicinity: really—I trust there is no breach of charity in
+ladies of the vicinity: really—I trust there is no breach of [[Charity|charity]] in
 supposing that she went with the idea of meeting either with the Rector
 himself, or some other admirer by the way; for as we went along, she
 kept wondering “what Hatfield would do or say, if we met him,” &c. &c.;
 as we passed Mr. Green’s park-gates, she “wondered whether he was at
-home—great stupid blockhead”; as Lady Meltham’s carriage passed us, she
+[[Home|home]]—great stupid blockhead”; as Lady Meltham’s carriage passed us, she
 “wondered what Mr. Harry was doing this fine day”; and then began to
-abuse his elder brother for being “such a fool as to get married and go
-and live in London.”
+abuse his elder brother for being “such a [[Fool|fool]] as to get married and go
+and live in [[London]].”
 
-“Why,” said I, “I thought you wanted to live in London yourself.”
+“Why,” said I, “I thought you wanted to live in [[London]] yourself.”
 
 “Yes, because it’s so dull here: but then he makes it still duller by
 taking himself off: and if he were not married I might have him instead
 of that odious Sir Thomas.”
 
-Then, observing the prints of a horse’s feet on the somewhat miry road,
-she “wondered whether it was a gentleman’s horse,” and finally
+Then, observing the prints of a [[Horse|horse]]’s feet on the somewhat miry [[Road|road]],
+she “wondered whether it was a gentleman’s [[Horse|horse]],” and finally
 concluded it was, for the impressions were too small to have been made
-by a “great clumsy cart-horse”; and then she “wondered who the rider
+by a “great clumsy cart-[[Horse|horse]]”; and then she “wondered who the rider
 could be,” and whether we should meet him coming back, for she was sure
 he had only passed that morning; and lastly, when we entered the
 village and saw only a few of its humble inhabitants moving about, she
@@ -109,7 +109,7 @@ clothes—it wasn’t for that she came to Horton!”
 
 Amid all this, I confess, I wondered, too, in secret, whether we should
 meet, or catch a glimpse of somebody else; and as we passed his
-lodgings, I even went so far as to wonder whether he was at the window.
+lodgings, I even went so far as to [[Wonder|wonder]] whether he was at the [[Window|window]].
 On entering the shop, Miss Murray desired me to stand in the doorway
 while she transacted her business, and tell her if anyone passed. But
 alas! there was no one visible besides the villagers, except Jane and
@@ -129,16 +129,16 @@ left them to their merriment and lagged behind, as usual on such
 occasions: I had no relish for walking beside Miss Green or Miss Susan
 like one deaf and dumb, who could neither speak nor be spoken to.
 
-But this time I was not long alone. It struck me, first, as very odd,
+But this [[Time|time]] I was not long [[Alone|alone]]. It struck me, first, as very odd,
 that just as I was thinking about Mr. Weston he should come up and
 accost me; but afterwards, on due reflection, I thought there was
 nothing odd about it, unless it were the fact of his speaking to me;
 for on such a morning and so near his own abode, it was natural enough
 that he should be about; and as for my thinking of him, I had been
 doing that, with little intermission, ever since we set out on our
-journey; so there was nothing remarkable in that.
+[[Journey|journey]]; so there was nothing remarkable in that.
 
-“You are alone again, Miss Grey,” said he.
+“You are [[Alone|alone]] again, Miss Grey,” said he.
 
 “Yes.”
 
@@ -148,7 +148,7 @@ journey; so there was nothing remarkable in that.
 
 “That’s strange—when you live so near and see them so often!”
 
-“Well, I suppose they are lively, good-tempered girls; but I imagine
+“[[Well]], I suppose they are lively, good-tempered girls; but I imagine
 you must know them better than I do, yourself, for I never exchanged a
 word with either of them.”
 
@@ -159,11 +159,11 @@ consider themselves as moving in quite a different sphere from me!”
 
 He made no reply to this: but after a short pause, he said,—“I suppose
 it’s these things, Miss Grey, that make you think you could not live
-without a home?”
+without a [[Home|home]]?”
 
 “Not exactly. The fact is I am too socially disposed to be able to live
 contentedly without a friend; and as the only friends I have, or am
-likely to have, are at home, if it—or rather, if they were gone—I will
+likely to have, are at [[Home|home]], if it—or rather, if they were gone—I will
 not say I could not live—but I would rather not live in such a desolate
 world.”
 
@@ -172,7 +172,7 @@ unsociable that you cannot make friends?”
 
 “No, but I never made one yet; and in my present position there is no
 possibility of doing so, or even of forming a common acquaintance. The
-fault may be partly in myself, but I hope not altogether.”
+fault may be partly in myself, but I [[Hope|hope]] not altogether.”
 
 “The fault is partly in society, and partly, I should think, in your
 immediate neighbours: and partly, too, in yourself; for many ladies, in
@@ -185,7 +185,7 @@ friends, nor would they think of bestowing such a name on me—they have
 other companions better suited to their tastes.”
 
 “Perhaps you are too wise for them. How do you amuse yourself when
-alone—do you read much?”
+[[Alone|alone]]—do you read much?”
 
 “Reading is my favourite occupation, when I have leisure for it and
 books to read.”
@@ -207,12 +207,12 @@ could not possibly offend me.
 capacities: what is it to him what I think or feel?” I asked myself.
 And my heart throbbed in answer to the question.
 
-But Jane and Susan Green soon reached their home. As they stood
+But Jane and Susan Green soon reached their [[Home|home]]. As they stood
 parleying at the park-gates, attempting to persuade Miss Murray to come
 in, I wished Mr. Weston would go, that she might not see him with me
 when she turned round; but, unfortunately, his business, which was to
 pay one more visit to poor Mark Wood, led him to pursue the same path
-as we did, till nearly the close of our journey. When, however, he saw
+as we did, till nearly the close of our [[Journey|journey]]. When, however, he saw
 that Rosalie had taken leave of her friends and I was about to join
 her, he would have left me and passed on at a quicker pace; but, as he
 civilly lifted his hat in passing her, to my surprise, instead of
@@ -229,9 +229,9 @@ the close of the interview, she engrossed him entirely to herself. It
 might be partly owing to my own stupidity, my want of tact and
 assurance: but I felt myself wronged: I trembled with apprehension; and
 I listened with envy to her easy, rapid flow of utterance, and saw with
-anxiety the bright smile with which she looked into his face from time
-to time: for she was walking a little in advance, for the purpose (as I
-judged) of being seen as well as heard. If her conversation was light
+anxiety the bright smile with which she looked into his face from [[Time|time]]
+to [[Time|time]]: for she was walking a little in advance, for the purpose (as I
+judged) of being seen as [[Well|well]] as heard. If her conversation was light
 and trivial, it was amusing, and she was never at a loss for something
 to say, or for suitable words to express it in. There was nothing pert
 or flippant in her manner now, as when she walked with Mr. Hatfield,
@@ -248,7 +248,7 @@ thought I could do it!”
 
 “What in the world do you mean?”
 
-“I mean that he will go home and dream of me. I have shot him through
+“I mean that he will go [[Home|home]] and dream of me. I have shot him through
 the heart!”
 
 “How do you know?”
@@ -266,15 +266,15 @@ Miss Murray made several trivial observations as we passed up the park,
 to which (in spite of my reluctance to let one glimpse of my feelings
 appear) I could only answer by monosyllables. Whether she intended to
 torment me, or merely to amuse herself, I could not tell—and did not
-much care; but I thought of the poor man and his one lamb, and the rich
+much care; but I thought of the poor man and his one [[Lamb|lamb]], and the rich
 man with his thousand flocks; and I dreaded I knew not what for Mr.
 Weston, independently of my own blighted hopes.
 
-Right glad was I to get into the house, and find myself alone once more
+Right glad was I to get into the [[house]], and find myself [[Alone|alone]] once more
 in my own room. My first impulse was to sink into the chair beside the
 bed; and laying my head on the pillow, to seek relief in a passionate
-burst of tears: there was an imperative craving for such an indulgence;
-but, alas! I must restrain and swallow back my feelings still: there
+burst of [[Tears|tears]]: there was an imperative craving for such an indulgence;
+but, alas! I must restrain and [[Swallow|swallow]] back my feelings still: there
 was the bell—the odious bell for the schoolroom dinner; and I must go
 down with a calm face, and smile, and laugh, and talk nonsense—yes, and
 eat, too, if possible, as if all was right, and I was just returned

@@ -1,5 +1,5 @@
 ---
-title: "The Angel of the Odd (part 3)"
+title: "[[The Angel of the Odd]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Angel-of-the-Odd-(Poe)"
@@ -22,11 +22,11 @@ tags:
 
       at the office in the morning and apologize; in the meantime what
 
-      can be the matter with the clock?” Upon examining it I discovered
+      can be the matter with the [[Clock|clock]]?” Upon examining it I discovered
 
       that one of the raisin stems which I had been filliping about the
 
-      room during the discourse of the Angel of the Odd, had flown
+      room during the discourse of [[The Angel of the Odd|the Angel of the Odd]], had flown
 
       through the fractured crystal, and lodging, singularly enough, in
 
@@ -54,7 +54,7 @@ tags:
 
 
 
-      My dreams were terrifically disturbed by visions of the Angel of
+      My [[Dreams|dreams]] were terrifically disturbed by visions of the Angel of
 
       the Odd. Methought he stood at the foot of the couch, drew aside
 
@@ -72,7 +72,7 @@ tags:
 
       necked bottles that stood him instead of an arm. My agony was at
 
-      length insufferable, and I awoke just in time to perceive that a
+      length insufferable, and I awoke just in [[Time|time]] to perceive that a
 
       rat had ran off with the lighted candle from the stand, but _not_
 
@@ -80,13 +80,13 @@ tags:
 
       hole. Very soon, a strong suffocating odor assailed my nostrils;
 
-      the house, I clearly perceived, was on fire. In a few minutes the
+      the [[house]], I clearly perceived, was on [[Fire|fire]]. In a few minutes the
 
       blaze broke forth with violence, and in an incredibly brief
 
       period the entire building was wrapped in flames. All egress from
 
-      my chamber, except through a window, was cut off. The crowd,
+      my chamber, except through a [[Window|window]], was cut off. The crowd,
 
       however, quickly procured and raised a long ladder. By means of
 
@@ -96,7 +96,7 @@ tags:
 
       whole air and physiognomy, there was something which reminded me
 
-      of the Angel of the Odd,—when this hog, I say, which hitherto had
+      of [[The Angel of the Odd|the Angel of the Odd]],—when this hog, I say, which hitherto had
 
       been quietly slumbering in the mud, took it suddenly into his
 
@@ -114,7 +114,7 @@ tags:
 
       serious loss of my hair, the whole of which had been singed off
 
-      by the fire, predisposed me to serious impressions, so that,
+      by the [[Fire|fire]], predisposed me to serious impressions, so that,
 
       finally, I made up my mind to take a wife. There was a rich widow
 
@@ -146,7 +146,7 @@ tags:
 
       period; but again a trivial incident interfered. Meeting my
 
-      betrothed in an avenue thronged with the _élite_ of the city, I
+      betrothed in an avenue thronged with the _élite_ of the [[City|city]], I
 
       was hastening to greet her with one of my best considered bows,
 
@@ -154,7 +154,7 @@ tags:
 
       corner of my eye, rendered me, for the moment, completely blind.
 
-      Before I could recover my sight, the lady of my love had
+      Before I could recover my sight, the lady of my [[Love|love]] had
 
       disappeared—irreparably affronted at what she chose to consider
 
@@ -176,11 +176,11 @@ tags:
 
 
 
-      I now considered it high time to die, (since fortune had so
+      I now considered it high [[Time|time]] to die, (since fortune had so
 
       determined to persecute me,) and accordingly made my way to the
 
-      nearest river. Here, divesting myself of my clothes, (for there
+      nearest [[River|river]]. Here, divesting myself of my clothes, (for there
 
       is no reason why we cannot die as we were born), I threw myself
 
@@ -190,7 +190,7 @@ tags:
 
       brandy-saturated corn, and so had staggered away from his
 
-      fellows. No sooner had I entered the water than this bird took it
+      fellows. No sooner had I entered the [[Water|water]] than this bird took it
 
       into its head to fly away with the most indispensable portion of
 

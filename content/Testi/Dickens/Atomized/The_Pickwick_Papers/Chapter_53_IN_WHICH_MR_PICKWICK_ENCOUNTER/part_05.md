@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 51: IN WHICH MR. PICKWICK ENCOUNTERS AN OLD ACQUAINTANCE--TO (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 51: IN WHICH MR. [[Pickwick|PICKWICK]] ENCOUNTERS AN OLD ACQUAINTANCE--TO (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘It would be particularly comfortable, I think,’ replied Mr. Pickwick.
+‘It would be particularly comfortable, I think,’ replied Mr. [[Pickwick]].
 ‘Mr. Pott, what do you say?’
 
 Mr. Pott yielded a ready assent; and all four travellers, each with his
@@ -24,20 +24,20 @@ Weller heading the procession to show them the way.
 The stranger was still reading; he looked up and started. Mr. Pott
 started.
 
-‘What’s the matter?’ whispered Mr. Pickwick.
+‘What’s the matter?’ whispered Mr. [[Pickwick]].
 
 ‘That reptile!’ replied Pott.
 
-‘What reptile?’ said Mr. Pickwick, looking about him for fear he should
+‘What reptile?’ said Mr. [[Pickwick]], looking about him for [[Fear|fear]] he should
 tread on some overgrown black beetle, or dropsical spider.
 
-‘That reptile,’ whispered Pott, catching Mr. Pickwick by the arm, and
+‘That reptile,’ whispered Pott, catching Mr. [[Pickwick]] by the arm, and
 pointing towards the stranger. ‘That reptile Slurk, of the
 _Independent_!’
 
-‘Perhaps we had better retire,’ whispered Mr. Pickwick.
+‘Perhaps we had better retire,’ whispered Mr. [[Pickwick]].
 
-‘Never, Sir,’ rejoined Pott, pot-valiant in a double sense--‘never.’
+‘Never, Sir,’ rejoined Pott, pot-valiant in a [[Double|double]] sense--‘never.’
 With these words, Mr. Pott took up his position on an opposite settle,
 and selecting one from a little bundle of newspapers, began to read
 against his enemy.
@@ -47,12 +47,12 @@ read the _Gazette_; and each gentleman audibly expressed his contempt at
 the other’s compositions by bitter laughs and sarcastic sniffs; whence
 they proceeded to more open expressions of opinion, such as ‘absurd,’
 ‘wretched,’ ‘atrocity,’ ‘humbug,’ ‘knavery’, ‘dirt,’ ‘filth,’ ‘slime,’
-‘ditch-water,’ and other critical remarks of the like nature.
+‘ditch-[[Water|water]],’ and other critical remarks of the like [[Nature|nature]].
 
 Both Mr. Bob Sawyer and Mr. Ben Allen had beheld these symptoms of
 rivalry and hatred, with a degree of delight which imparted great
 additional relish to the cigars at which they were puffing most
-vigorously. The moment they began to flag, the mischievous Mr. Bob
+vigorously. The moment they began to [[Flag|flag]], the mischievous Mr. Bob
 Sawyer, addressing Slurk with great politeness, said--
 
 ‘Will you allow me to look at your paper, Sir, when you have quite done
@@ -107,7 +107,7 @@ that better; ha! ha!’
 Mr. Pott retorted not a word at this jocose insult, but deliberately
 folded up his copy of the _Independent_, flattened it carefully down,
 crushed it beneath his boot, spat upon it with great ceremony, and flung
-it into the fire.
+it into the [[Fire|fire]].
 
 ‘There, sir,’ said Pott, retreating from the stove, ‘and that’s the way
 I would serve the viper who produces it, if I were not, fortunately for
@@ -139,7 +139,7 @@ abominable public conduct. I view you, sir, personally and politically,
 in no other light than as a most unparalleled and unmitigated viper.’
 
 The indignant Independent did not wait to hear the end of this personal
-denunciation; for, catching up his carpet-bag, which was well stuffed
+denunciation; for, catching up his carpet-bag, which was [[Well|well]] stuffed
 with movables, he swung it in the air as Pott turned away, and, letting
 it fall with a circular sweep on his head, just at that particular angle
 of the bag where a good thick hairbrush happened to be packed, caused a
@@ -147,19 +147,19 @@ sharp crash to be heard throughout the kitchen, and brought him at once
 to the ground.
 
 
-‘Gentlemen,’ cried Mr. Pickwick, as Pott started up and seized the fire-
+‘Gentlemen,’ cried Mr. [[Pickwick]], as Pott started up and seized the [[Fire|fire]]-
 shovel--‘gentlemen! Consider, for Heaven’s sake--help--Sam--here--pray,
 gentlemen--interfere, somebody.’
 
-Uttering these incoherent exclamations, Mr. Pickwick rushed between the
-infuriated combatants just in time to receive the carpet-bag on one side
-of his body, and the fire-shovel on the other. Whether the
+Uttering these incoherent exclamations, Mr. [[Pickwick]] rushed between the
+infuriated combatants just in [[Time|time]] to receive the carpet-bag on one side
+of his [[Body|body]], and the [[Fire|fire]]-shovel on the other. Whether the
 representatives of the public feeling of Eatanswill were blinded by
 animosity, or (being both acute reasoners) saw the advantage of having a
 third party between them to bear all the blows, certain it is that they
-paid not the slightest attention to Mr. Pickwick, but defying each other
-with great spirit, plied the carpet-bag and the fire-shovel most
-fearlessly. Mr. Pickwick would unquestionably have suffered severely for
+paid not the slightest attention to Mr. [[Pickwick]], but defying each other
+with great spirit, plied the carpet-bag and the [[Fire|fire]]-shovel most
+fearlessly. Mr. [[Pickwick]] would unquestionably have suffered severely for
 his humane interference, if Mr. Weller, attracted by his master’s cries,
 had not rushed in at the moment, and, snatching up a meal-sack,
 effectually stopped the conflict by drawing it over the head and
@@ -193,4 +193,4 @@ Eatanswill rung with their boldness--on paper.
 They had taken themselves off in separate coaches, early next morning,
 before the other travellers were stirring; and the weather having now
 cleared up, the chaise companions once more turned their faces to
-London.
+[[London]].

@@ -22,7 +22,7 @@ only state them.  It all depends on the reason for approving
 of cigarettes or cigars or girls or any other strange creatures.
 What he really means, at the back of his muddled modernistic mind,
 is some thing like this:  `If I approve of Jennifer smoking a cigarette
-because Jennifer can jolly well do anything she likes, and does, then it
+because Jennifer can jolly [[Well|well]] do anything she likes, and does, then it
 is illogical in me to object to her liking a cigar; or for that matter
 an opium-pipe or a pint of laudanum or a bottle of prussic acid.'
 And this statement would really be quite logical, because the logical
@@ -90,15 +90,15 @@ rest on their feet.  But without it the world seems to be drifting
 into an intellectual dissolution and destruction, which is at its very
 wildest when some wild voice shrieks out of the chaos; `Be logical'.
 This strange cry apparently means that you cannot stroke a cat
-without stroking a tiger; or that you are bound to wish the house
-was on fire because you sit by the fireside.
+without stroking a tiger; or that you are bound to wish the [[house]]
+was on [[Fire|fire]] because you sit by the fireside.
 
 XVIII.  On the Thrills of Boredom
 
 IT is a dogma imposed on all, by the dogmatic secularism of the
 modern system, that Youth needs, must have, and cannot possibly
 be happy without, a riot of dances, plays, or entertainments.
-We all know the practical truth embodied in this; and yet I am so doubtful
+We all know the practical [[Truth|truth]] embodied in this; and yet I am so doubtful
 about the fashionable assumption that I think it very nearly untrue.
 I have no objection to dances, plays, and masquerades:
 on the contrary, I enjoy them enormously; but then I am not what is
@@ -109,9 +109,9 @@ so much as when transfiguring what might be called monotony.
 I feel far more sense of a creative glow, and of something
 passionately alive, in the description of the dreary moorland and dark
 mansion of the BrontÃ«s, or even of the dismal coffee-houses that were
-filled with the first dreams of Dickens, than I feel in the faces
+filled with the first [[Dreams|dreams]] of Dickens, than I feel in the faces
 and conversation of half the young people I see at shows and dances
-to-day. Nor do I think it was a case of imagination existing in spite
+to-day. Nor do I think it was a case of [[Imagination|imagination]] existing in spite
 of dreariness; I think it existed in some degree because of dreariness.
-There is a psychological paradox here which perhaps only a poet
+There is a psychological [[Paradox|paradox]] here which perhaps only a poet
 can fully understand; but young people are generally poets.

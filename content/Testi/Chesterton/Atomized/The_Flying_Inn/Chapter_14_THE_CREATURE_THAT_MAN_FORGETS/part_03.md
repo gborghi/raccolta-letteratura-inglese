@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-He looked once at the bleak, black pinewoods around him and took the mouthful of golden liquid at a gulp, as if it were a fairy potion. He sat silent; and then, very slowly, a sort of stony glitter began to come into his eyes. The brown and vigilant eyes of Humphrey Pump were studying him with some anxiety or even fear. He did look rather like a man enchanted or turned to stone. But he spoke very suddenly.
+He looked once at the bleak, black pinewoods around him and took the mouthful of golden liquid at a gulp, as if it were a fairy potion. He sat silent; and then, very slowly, a sort of stony glitter began to come into his eyes. The brown and vigilant eyes of Humphrey Pump were studying him with some anxiety or even [[Fear|fear]]. He did look rather like a man enchanted or turned to stone. But he spoke very suddenly.
 
 
 
@@ -34,7 +34,7 @@ He looked once at the bleak, black pinewoods around him and took the mouthful of
 
 
 
-Mr. Pump looked troubled. “Do you think,” he observed, affecting to speak lightly, “that he’s fit to be trusted even with a little donkey?”
+Mr. Pump looked troubled. “Do you think,” he observed, affecting to speak lightly, “that he’s fit to be trusted even with a little [[donkey]]?”
 
 
 
@@ -44,12 +44,12 @@ Mr. Pump looked troubled. “Do you think,” he observed, affecting to speak li
 
 
 
-Pump still looked at him doubtfully, appearing or affecting not to follow his meaning. Then he looked equally anxiously across at the other two men; but they were still talking. Different as they were in every other way, they were of the sort who forget everything, class, quarrel, time, place and physical facts in front of them, in the lust of lucid explanation and equal argument.
+Pump still looked at him doubtfully, appearing or affecting not to follow his meaning. Then he looked equally anxiously across at the other two men; but they were still talking. Different as they were in every other way, they were of the sort who forget everything, class, quarrel, [[Time|time]], place and physical facts in front of them, in the lust of lucid explanation and equal argument.
 
 
 
 
-Thus, when the Captain began by lightly alluding to the fact that after all it was his donkey, since he had bought it from a tinker for a just price, the police station practically vanished from Wimpole’s mind–and I fear the donkey-cart also. Nothing remained but the necessity of dissipating the superstition of personal property.
+Thus, when the Captain began by lightly alluding to the fact that after all it was his [[donkey]], since he had bought it from a tinker for a just price, the police station practically vanished from Wimpole’s mind–and I [[Fear|fear]] the [[donkey]]-cart also. Nothing remained but the necessity of dissipating the superstition of personal property.
 
 
 
@@ -64,7 +64,7 @@ Thus, when the Captain began by lightly alluding to the fact that after all it w
 
 
 
-“It helps me,” said Mr. Wimpole, with honourable simplicity, “to produce my poems.”
+“It helps me,” said Mr. Wimpole, with honourable simplicity, “to produce my [[Poems|poems]].”
 
 
 
@@ -74,7 +74,7 @@ Thus, when the Captain began by lightly alluding to the fact that after all it w
 
 
 
-“Certainly,” replied the dignified Dorian. “I should not complain. Nor have you any title to complain when the donkey ceases to be yours when you depress it in the cosmic scale.”
+“Certainly,” replied the dignified Dorian. “I should not complain. Nor have you any title to complain when the [[donkey]] ceases to be yours when you depress it in the cosmic scale.”
 
 
 
@@ -89,12 +89,12 @@ Thus, when the Captain began by lightly alluding to the fact that after all it w
 
 
 
-“No,” answered the Captain, innocently, “I never ride on a donkey. I’m afraid of it.”
+“No,” answered the Captain, innocently, “I never ride on a [[donkey]]. I’m afraid of it.”
 
 
 
 
-“Afraid of a donkey!” cried Wimpole, incredulously.
+“Afraid of a [[donkey]]!” cried Wimpole, incredulously.
 
 
 
@@ -104,7 +104,7 @@ Thus, when the Captain began by lightly alluding to the fact that after all it w
 
 
 
-There was a short pause, and Wimpole said coolly enough, “Oh, well, we’ve outlived those comparisons.”
+There was a short pause, and Wimpole said coolly enough, “Oh, [[Well|well]], we’ve outlived those comparisons.”
 
 
 
@@ -114,17 +114,17 @@ There was a short pause, and Wimpole said coolly enough, “Oh, well, we’ve ou
 
 
 
-“In this case,” said the other grimly, “I think it is the donkey’s crucifixion.”
+“In this case,” said the other grimly, “I think it is the [[donkey]]’s crucifixion.”
 
 
 
 
-“Why, you must have drawn that old Roman caricature of the crucified donkey,” said Patrick Dalroy, with an air of some wonder. “How well you have worn; why, you look quite young! Well, of course, if this donkey is crucified, he must be uncrucified. But are you quite sure,” he added, very gravely, “that you know how to uncrucify a donkey? I assure you it’s one of the rarest of human arts. All a matter of knack. It’s like the doctors with the rare diseases, you know; the necessity so seldom arises. Granted that, by the higher purposes of the cosmos, I am unfit to look after this donkey, I must still feel a faint shiver of responsibility in passing him on to you. Will you understand this donkey? He is a delicate-minded donkey. He is a complex donkey. How can I be certain that, on so short an acquaintance, you will understand every shade of his little likes and dislikes?”
+“Why, you must have drawn that old Roman caricature of the crucified [[donkey]],” said Patrick Dalroy, with an air of some [[Wonder|wonder]]. “How [[Well|well]] you have worn; why, you look quite young! [[Well]], of course, if this [[donkey]] is crucified, he must be uncrucified. But are you quite sure,” he added, very gravely, “that you know how to uncrucify a [[donkey]]? I assure you it’s one of the rarest of human arts. All a matter of knack. It’s like the doctors with the rare diseases, you know; the necessity so seldom arises. Granted that, by the higher purposes of the cosmos, I am unfit to look after this [[donkey]], I must still feel a faint shiver of responsibility in passing him on to you. Will you understand this [[donkey]]? He is a delicate-minded [[donkey]]. He is a complex [[donkey]]. How can I be certain that, on so short an acquaintance, you will understand every shade of his little likes and dislikes?”
 
 
 
 
-The dog Quoodle, who had been sitting as still as the sphinx under the shadow of the pine trees, waddled out for an instant into the middle of the road and then returned. He ran out when a slight noise as of rotatory grinding was heard; and ran back when it had ceased. But Dorian Wimpole was much too keen on his philosophical discovery to notice either dog or wheel.
+The dog [[quoodle|Quoodle]], who had been sitting as still as [[The Sphinx|the sphinx]] under the [[Shadow|shadow]] of the pine trees, waddled out for an instant into the middle of the [[Road|road]] and then returned. He ran out when a slight noise as of rotatory grinding was heard; and ran back when it had ceased. But Dorian Wimpole was much too keen on his philosophical discovery to notice either dog or [[Wheel|wheel]].
 
 
 
@@ -134,17 +134,17 @@ The dog Quoodle, who had been sitting as still as the sphinx under the shadow of
 
 
 
-“This is a very curious creature,” said the Captain, anxiously, “he has all sorts of odd antipathies. He can’t stand a motor car, for instance, especially one that throbs like that while it’s standing still. He doesn’t mind a fur coat so much, but if you wear a brown velvet jacket under it, he bites you. And you must keep him out of the way of a certain kind of people. I don’t suppose you’ve met them; but they always think that anybody with less than two hundred a year is drunk and very cruel, and that anybody with more than two thousand a year is conducting the Day of Judgment. If you will keep our dear donkey from the society of such persons–Hullo! Hullo! Hullo!”
+“This is a very curious creature,” said the Captain, anxiously, “he has all sorts of odd antipathies. He can’t stand a motor car, for instance, especially one that throbs like that while it’s standing still. He doesn’t mind a fur coat so much, but if you wear a brown velvet jacket under it, he bites you. And you must keep him out of the way of a certain kind of people. I don’t suppose you’ve met them; but they always think that anybody with less than two hundred a year is drunk and very cruel, and that anybody with more than two thousand a year is conducting the Day of Judgment. If you will keep our dear [[donkey]] from the society of such persons–Hullo! Hullo! Hullo!”
 
 
 
 
-He turned in genuine disturbance, and dashed after the dog, who had dashed after the motor car and jumped inside. The Captain jumped in after the dog, to pull him out again. But before he could do so, he found the car was flying along too fast for any such leap. He looked up and saw the sign of “The Old Ship” erect in the front like a rigid banner; and Pump, with his cask and cheese, sitting solidly beside the driver.
+He turned in genuine disturbance, and dashed after the dog, who had dashed after the motor car and jumped inside. The Captain jumped in after the dog, to pull him out again. But before he could do so, he found the car was flying along too fast for any such leap. He looked up and saw the sign of “The Old [[Ship]]” erect in the front like a rigid banner; and Pump, with his cask and [[cheese]], sitting solidly beside the driver.
 
 
 
 
-The thing was more of an earthquake and transformation to him even than to any of the others; but he rose waveringly to his feet and shouted out to Wimpole.
+The thing was more of an earthquake and transformation to him even than to any of the others; but he [[Rose|rose]] waveringly to his feet and shouted out to Wimpole.
 
 
 
@@ -154,14 +154,14 @@ The thing was more of an earthquake and transformation to him even than to any o
 
 
 
-In the moonlight of the magic pine-wood far behind, Dorian and the donkey were left looking at each other.
+In the moonlight of the [[Magic|magic]] pine-wood far behind, Dorian and the [[donkey]] were left looking at each other.
 
 
 
 
-To the mystical mind, when it is a mind at all (which is by no means always the case), there are no two things more impressive and symbolical than a poet and a donkey. And the donkey was a very genuine donkey, and the poet was a very genuine poet; however lawfully he might be mistaken for the other animal at times. The interest of the donkey in the poet will never be known. The interest of the poet in the donkey was perfectly genuine; and survived even that appalling private interview in the owlish secrecy of the woods.
+To the mystical mind, when it is a mind at all (which is by no means always the case), there are no two things more impressive and symbolical than a poet and a [[donkey]]. And the [[donkey]] was a very genuine [[donkey]], and the poet was a very genuine poet; however lawfully he might be mistaken for the other animal at times. The interest of the [[donkey]] in the poet will never be known. The interest of the poet in the [[donkey]] was perfectly genuine; and survived even that appalling private interview in the owlish secrecy of the woods.
 
 
 
 
-But I think even the poet would have been enlightened if he had seen the white, set, frantic face of the man on the driver’s seat of his vanishing motor. If he had seen it he might have remembered the name, or, perhaps, even begun to understand the nature of a certain animal which is neither the donkey nor the oyster; but the creature whom man has always found it easiest to forget, since the hour he forgot God in a Garden.
+But I think even the poet would have been enlightened if he had seen the white, set, frantic face of the man on the driver’s seat of his vanishing motor. If he had seen it he might have remembered the name, or, perhaps, even begun to understand the [[Nature|nature]] of a certain animal which is neither the [[donkey]] nor the oyster; but the creature whom man has always found it easiest to forget, since the hour he forgot God in a [[Garden]].

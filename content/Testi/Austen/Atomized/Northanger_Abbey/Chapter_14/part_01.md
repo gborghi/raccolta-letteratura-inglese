@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 13 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 13 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,19 +20,19 @@ CHAPTER 13
 
 
 
-Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday have now
+Monday, Tuesday, Wednesday, [[thursday|Thursday]], Friday, and Saturday have now
 
 passed in review before the reader; the events of each day, its hopes
 
 and fears, mortifications and pleasures, have been separately stated,
 
-and the pangs of Sunday only now remain to be described, and close the
+and the pangs of [[Sunday]] only now remain to be described, and close the
 
 week. The Clifton scheme had been deferred, not relinquished, and on
 
 the afternoon’s Crescent of this day, it was brought forward again. In
 
-a private consultation between Isabella and James, the former of whom
+a private consultation between [[Isabella]] and James, the former of whom
 
 had particularly set her heart upon going, and the latter no less
 
@@ -40,9 +40,9 @@ anxiously placed his upon pleasing her, it was agreed that, provided
 
 the weather were fair, the party should take place on the following
 
-morning; and they were to set off very early, in order to be at home in
+morning; and they were to set off very early, in order to be at [[Home|home]] in
 
-good time. The affair thus determined, and Thorpe’s approbation
+good [[Time|time]]. The affair thus determined, and Thorpe’s approbation
 
 secured, Catherine only remained to be apprised of it. She had left
 
@@ -50,9 +50,9 @@ them for a few minutes to speak to Miss Tilney. In that interval the
 
 plan was completed, and as soon as she came again, her agreement was
 
-demanded; but instead of the gay acquiescence expected by Isabella,
+demanded; but instead of the gay acquiescence expected by [[Isabella]],
 
-Catherine looked grave, was very sorry, but could not go. The
+Catherine looked [[Grave|grave]], was very sorry, but could not go. The
 
 engagement which ought to have kept her from joining in the former
 
@@ -70,7 +70,7 @@ would not go without her, it would be nothing to put off a mere walk
 
 for one day longer, and they would not hear of a refusal. Catherine was
 
-distressed, but not subdued. “Do not urge me, Isabella. I am engaged to
+distressed, but not subdued. “Do not urge me, [[Isabella]]. I am engaged to
 
 Miss Tilney. I cannot go.” This availed nothing. The same arguments
 
@@ -86,7 +86,7 @@ the walk till Tuesday.”
 
 “No, it would not be easy. I could not do it. There has been no prior
 
-engagement.” But Isabella became only more and more urgent, calling on
+engagement.” But [[Isabella]] became only more and more urgent, calling on
 
 her in the most affectionate manner, addressing her by the most
 
@@ -102,7 +102,7 @@ in vain; Catherine felt herself to be in the right, and though pained
 
 by such tender, such flattering supplication, could not allow it to
 
-influence her. Isabella then tried another method. She reproached her
+influence her. [[Isabella]] then tried another method. She reproached her
 
 with having more affection for Miss Tilney, though she had known her so
 
@@ -112,15 +112,15 @@ cold and indifferent, in short, towards herself. “I cannot help being
 
 jealous, Catherine, when I see myself slighted for strangers, I, who
 
-love you so excessively! when once my affections are placed, it is not
+[[Love|love]] you so excessively! when once my affections are placed, it is not
 
 in the power of anything to change them. But I believe my feelings are
 
 stronger than anybody’s; I am sure they are too strong for my own
 
-peace; and to see myself supplanted in your friendship by strangers
+peace; and to see myself supplanted in your [[Friendship|friendship]] by strangers
 
-does cut me to the quick, I own. These Tilneys seem to swallow up
+does cut me to the quick, I own. These Tilneys seem to [[Swallow|swallow]] up
 
 everything else.”
 
@@ -130,11 +130,11 @@ Catherine thought this reproach equally strange and unkind. Was it the
 
 part of a friend thus to expose her feelings to the notice of others?
 
-Isabella appeared to her ungenerous and selfish, regardless of
+[[Isabella]] appeared to her ungenerous and selfish, regardless of
 
 everything but her own gratification. These painful ideas crossed her
 
-mind, though she said nothing. Isabella, in the meanwhile, had applied
+mind, though she said nothing. [[Isabella]], in the meanwhile, had applied
 
 her handkerchief to her eyes; and Morland, miserable at such a sight,
 
@@ -146,7 +146,7 @@ friend—I shall think you quite unkind, if you still refuse.”
 
 
 
-This was the first time of her brother’s openly siding against her, and
+This was the first [[Time|time]] of her brother’s openly siding against her, and
 
 anxious to avoid his displeasure, she proposed a compromise. If they
 
@@ -160,9 +160,9 @@ answer; “that could not be, for Thorpe did not know that he might not
 
 go to town on Tuesday.” Catherine was sorry, but could do no more; and
 
-a short silence ensued, which was broken by Isabella, who in a voice of
+a short [[Silence|silence]] ensued, which was broken by [[Isabella]], who in a voice of
 
-cold resentment said, “Very well, then there is an end of the party. If
+cold resentment said, “Very [[Well|well]], then there is an end of the party. If
 
 Catherine does not go, I cannot. I cannot be the only woman. I would
 
@@ -182,7 +182,7 @@ either of them would like to go.”
 
 “Thank ye,” cried Thorpe, “but I did not come to Bath to drive my
 
-sisters about, and look like a fool. No, if you do not go, d—— me if I
+sisters about, and look like a [[Fool|fool]]. No, if you do not go, d—— me if I
 
 do. I only go for the sake of driving you.”
 
@@ -200,7 +200,7 @@ uncomfortable manner to poor Catherine; sometimes not a word was said,
 
 sometimes she was again attacked with supplications or reproaches, and
 
-her arm was still linked within Isabella’s, though their hearts were at
+her arm was still linked within [[Isabella]]’s, though their hearts were at
 
 war. At one moment she was softened, at another irritated; always
 
@@ -216,6 +216,6 @@ kindest, best-tempered of my sisters.”
 
 
 
-“I hope I am not less so now,” she replied, very feelingly; “but indeed
+“I [[Hope|hope]] I am not less so now,” she replied, very feelingly; “but indeed
 
 I cannot go. If I am wrong, I am doing what I believe to be right.”

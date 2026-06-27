@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON. (part 4)"
+title: "[[Lady Susan]] — ATHERINE VERNON. (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-of making downright love to him. I am convinced of it by the manner in
+of making downright [[Love|love]] to him. I am convinced of it by the manner in
 
-which he spoke of her. Much good may such love do him! I shall ever
+which he spoke of her. Much good may such [[Love|love]] do him! I shall ever
 
 despise the man who can be gratified by the passion which he never
 
@@ -38,17 +38,17 @@ assured that I must have unanswerable motives for all that I had done?
 
 Where was his reliance on my sense and goodness then? Where the
 
-resentment which true love would have dictated against the person
+resentment which true [[Love|love]] would have dictated against the person
 
-defaming me—that person, too, a chit, a child, without talent or
+defaming me—that person, too, a chit, a [[Child|child]], without talent or
 
-education, whom he had been always taught to despise? I was calm for
+[[Education|education]], whom he had been always taught to despise? I was calm for
 
-some time; but the greatest degree of forbearance may be overcome, and
+some [[Time|time]]; but the greatest degree of forbearance may be overcome, and
 
-I hope I was afterwards sufficiently keen. He endeavoured, long
+I [[Hope|hope]] I was afterwards sufficiently keen. He endeavoured, long
 
-endeavoured, to soften my resentment; but that woman is a fool indeed
+endeavoured, to soften my resentment; but that woman is a [[Fool|fool]] indeed
 
 who, while insulted by accusation, can be worked on by compliments. At
 
@@ -70,7 +70,7 @@ have not yet tranquillised myself enough to see Frederica. _She_ shall
 
 not soon forget the occurrences of this day; she shall find that she
 
-has poured forth her tender tale of love in vain, and exposed herself
+has poured forth her tender tale of [[Love|love]] in vain, and exposed herself
 
 for ever to the contempt of the whole world, and the severest
 
@@ -136,31 +136,31 @@ complexion was raised, and he spoke with great emotion; you know his
 
 eager manner, my dear mother, when his mind is interested. “Catherine,”
 
-said he, “I am going home to-day; I am sorry to leave you, but I must
+said he, “I am going [[Home|home]] to-day; I am sorry to leave you, but I must
 
 go: it is a great while since I have seen my father and mother. I am
 
 going to send James forward with my hunters immediately; if you have
 
-any letter, therefore, he can take it. I shall not be at home myself
+any letter, therefore, he can take it. I shall not be at [[Home|home]] myself
 
-till Wednesday or Thursday, as I shall go through London, where I have
+till Wednesday or [[thursday|Thursday]], as I shall go through [[London]], where I have
 
 business; but before I leave you,” he continued, speaking in a lower
 
 tone, and with still greater energy, “I must warn you of one thing—do
 
-not let Frederica Vernon be made unhappy by that Martin. He wants to
+not let [[Frederica Vernon]] be made unhappy by that Martin. He wants to
 
 marry her; her mother promotes the match, but she cannot endure the
 
 idea of it. Be assured that I speak from the fullest conviction of the
 
-truth of what I say; I know that Frederica is made wretched by Sir
+[[Truth|truth]] of what I say; I know that Frederica is made wretched by Sir
 
 James’s continuing here. She is a sweet girl, and deserves a better
 
-fate. Send him away immediately; he is only a fool: but what her mother
+fate. Send him away immediately; he is only a [[Fool|fool]]: but what her mother
 
 can mean, Heaven only knows! Good bye,” he added, shaking my hand with
 
@@ -174,15 +174,15 @@ to what we have given her credit for.” He then left me, and ran
 
 upstairs. I would not try to stop him, for I knew what his feelings
 
-must be. The nature of mine, as I listened to him, I need not attempt
+must be. The [[Nature|nature]] of mine, as I listened to him, I need not attempt
 
 to describe; for a minute or two I remained in the same spot,
 
-overpowered by wonder of a most agreeable sort indeed; yet it required
+overpowered by [[Wonder|wonder]] of a most agreeable sort indeed; yet it required
 
 some consideration to be tranquilly happy. In about ten minutes after
 
-my return to the parlour Lady Susan entered the room. I concluded, of
+my return to the parlour [[Lady Susan]] entered the room. I concluded, of
 
 course, that she and Reginald had been quarrelling; and looked with
 
@@ -190,13 +190,13 @@ anxious curiosity for a confirmation of my belief in her face. Mistress
 
 of deceit, however, she appeared perfectly unconcerned, and after
 
-chatting on indifferent subjects for a short time, said to me, “I find
+chatting on indifferent subjects for a short [[Time|time]], said to me, “I find
 
 from Wilson that we are going to lose Mr. De Courcy—is it true that he
 
-leaves Churchhill this morning?” I replied that it was. “He told us
+[[Leaves|leaves]] Churchhill this morning?” I replied that it was. “He told us
 
-nothing of all this last night,” said she, laughing, “or even this
+nothing of all this last [[Night|night]],” said she, laughing, “or even this
 
 morning at breakfast; but perhaps he did not know it himself. Young men
 
@@ -206,7 +206,7 @@ than unsteady in keeping them. I should not be surprised if he were to
 
 change his mind at last, and not go.” She soon afterwards left the
 
-room. I trust, however, my dear mother, that we have no reason to fear
+room. I trust, however, my dear mother, that we have no reason to [[Fear|fear]]
 
 an alteration of his present plan; things have gone too far. They must
 

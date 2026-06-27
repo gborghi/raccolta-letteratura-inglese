@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE EPILOGUE OF THE GARDEN"
+title: "[[FourFaultlessFelons]] — THE EPILOGUE OF THE [[Garden|GARDEN]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-VI THE EPILOGUE OF THE GARDEN
+VI THE EPILOGUE OF THE [[Garden|GARDEN]]
 
 
 
 A FORTNIGHT afterwards, Mr. Walter Windrush was walking round his
 
-favourite garden, smiling and smoking as if nothing had happened. He was
+favourite [[Garden|garden]], smiling and smoking as if nothing had happened. He was
 
 smoking a small cigarette in a very long cigarette-holder, and he really
 
@@ -28,7 +28,7 @@ was doing it as if nothing had happened. For that was the real mystery of
 
 Walter Windrush, which neither medical non legal experts were ever in the
 
-least likely to fathom. That was the real Secret, which no detective
+least likely to fathom. That was the real Secret, which no [[Detective|detective]]
 
 would ever detect.
 
@@ -36,7 +36,7 @@ would ever detect.
 
 He had been turned into a monstrosity in the eyes of his nearest and
 
-dearest; he had been described to his own child as a chimpanzee and as a
+dearest; he had been described to his own [[Child|child]] as a chimpanzee and as a
 
 chattering maniac; he had been described again as a pitiless and patient
 
@@ -54,7 +54,7 @@ gallows. And all these things were of less importance to him than the
 
 shape of the great coloured cloud of morning that came sailing up out of
 
-the east, or the fact that the birds had begun to sing in the branches of
+the east, or the fact that the [[Birds|birds]] had begun to sing in the branches of
 
 the tragic tree. Some would have said his mood was too shallow for such
 
@@ -64,25 +64,25 @@ them. But upon such deep springs of levity he lived, and so he walked, as
 
 if in another world. It is possible that Inspector Brandon did not
 
-completely comprehend the monster called a Man of Genius.
+completely comprehend the [[Monster|monster]] called a Man of Genius.
 
 
 
 Indeed, he was much less affected by the morbid memories than the man of
 
-common sense. When he had strolled about alone for a few moments, he was
+common sense. When he had strolled about [[Alone|alone]] for a few moments, he was
 
 joined by his young friend the doctor, but the doctor looked
 
-comparatively gloomy and embarrassed; so much so that the artist rallied
+comparatively gloomy and embarrassed; so much so that the [[artist]] rallied
 
 him about it.
 
 
 
-"Well," said Dr. Judson, with something of his old sort of sullen
+"[[Well]]," said Dr. Judson, with something of his old sort of sullen
 
-candour, "I ought to be ashamed of it, I suppose, as well as of
+candour, "I ought to be ashamed of it, I suppose, as [[Well|well]] as of
 
 everything else. But I confess I can't think how you can bear to hang
 
@@ -102,7 +102,7 @@ been out of it, not even when you put me in that pleasant little
 
 sanatorium for a day or two. I was quite happy there, and as for the
 
-lunatics, well I came to the conclusion that they were rather saner than
+lunatics, [[Well|well]] I came to the conclusion that they were rather saner than
 
 my friends outside."
 
@@ -116,15 +116,15 @@ suppose that, given a fine sense of delicacy, I ought to apologize for
 
 thinking you a murderer. But there are murderers and murderers; all I
 
-knew was that I had found a murdered man you had hidden in your garden. I
+knew was that I had found a murdered man you had hidden in your [[Garden|garden]]. I
 
 didn't know how far you might have been provoked or justified. Indeed,
 
 from all I hear of the late lamented Mr. Morse, he was of the sort that
 
-won't be missed. But I knew that Wilmot was a detective and was poking
+won't be missed. But I knew that Wilmot was a [[Detective|detective]] and was poking
 
-round the tree, and I knew that meant your arrest in precious quick time.
+round the tree, and I knew that meant your arrest in precious quick [[Time|time]].
 
 I had to act pretty quickly myself; I generally do act a good deal too
 
@@ -142,7 +142,7 @@ rotten old rubbish about anthropoids. I put that in, partly because I
 
 foresaw that I should have to nobble Doone somehow, and partly because it
 
-fitted so well into the tale of the tree. But even now I hate to think of
+fitted so [[Well|well]] into the tale of the tree. But even now I hate to think of
 
 the horrors I made up, even though they were horrors that never happened.
 
@@ -150,7 +150,7 @@ But what must one feel about the horrors that really have happened?"
 
 
 
-"Well," replied the artist cheerfully, "and what do you feel about them?"
+"[[Well]]," replied the [[artist]] cheerfully, "and what do you feel about them?"
 
 
 
@@ -160,15 +160,15 @@ a plague-spot."
 
 
 
-"The birds perch on the tree," said Windrush, "as if it were the shoulder
+"The [[Birds|birds]] perch on the tree," said Windrush, "as if it were the shoulder
 
 of St. Francis."
 
 
 
-There was a silence and then the brooding Judson said: "After all, sir,
+There was a [[Silence|silence]] and then the brooding Judson said: "After all, sir,
 
-it is damned extraordinary that you lived alone with this tree for twenty
+it is damned extraordinary that you lived [[Alone|alone]] with this tree for twenty
 
 years and never found what was inside it. I know it rotted to bones
 
@@ -190,13 +190,13 @@ two yards of it."
 
 Something in his manner suggested to the young man that they had come
 
-near the nerve of the eccentricity: he was silent and the artist went on:
+near the nerve of the eccentricity: he was silent and the [[artist]] went on:
 
 "You tell us a great deal about Evolution and the Ascent of Man. You
 
 scientific men are very superior, of course, and there is nothing
 
-legendary about you. You do not believe in the Garden of Eden. You do not
+legendary about you. You do not believe in the [[Garden]] of Eden. You do not
 
 believe in Adam and Eve. Above all, you do not believe in the Forbidden
 
@@ -206,23 +206,23 @@ Tree."
 
 The doctor shook his head in half-humorous deprecation, but the other
 
-went on with the same grave fixity of gaze.
+went on with the same [[Grave|grave]] fixity of gaze.
 
 
 
-"But I say to you, always have in your garden a Forbidden Tree. Always
+"But I say to you, always have in your [[Garden|garden]] a Forbidden Tree. Always
 
 have in your life something that you may not touch. That is the secret of
 
 being young and happy for ever. There was never a story so true as that
 
-story you call a fable. But you will evolve and explore and eat of the
+story you call a [[Fable|fable]]. But you will evolve and explore and eat of the
 
 tree of knowledge, and what comes of it?"
 
 
 
-"Well," said the doctor defensively, "a good many things have come of it
+"[[Well]]," said the doctor defensively, "a good many things have come of it
 
 that are not so bad."
 
@@ -240,9 +240,9 @@ asked, after the manner of that ancient folly, for the Fruit of the tree?
 
 It was useful to Duveen, or Doone, or whatever you call him, and what
 
-fruit did he gather but the fruit of sin and death? He got murder and
+fruit did he gather but the fruit of sin and [[Death|death]]? He got murder and
 
-suicide out of it; they told me this morning that he had taken poison,
+[[suicide]] out of it; they told me this morning that he had taken [[Poison|poison]],
 
 leaving a confession of the murder of Morse. It was useful to Wilmot in a
 
@@ -250,13 +250,13 @@ way, of course; but what did even Wilmot and Brandon get out of it, but
 
 the dreadful duty of dragging a fellow-creature to the gallows? It was
 
-useful to you, when you wanted a nonsensical nightmare of some sort, with
+useful to you, when you wanted a nonsensical [[nightmare]] of some sort, with
 
 which to lock me up for life and terrify my family. But it was a
 
-nightmare, and you yourself still seem to be a little haunted by the
+[[nightmare]], and you yourself still seem to be a little haunted by the
 
-nightmare. But I repeat that it was useless to me, and I am still in the
+[[nightmare]]. But I repeat that it was useless to me, and I am still in the
 
 broad daylight."
 
@@ -264,23 +264,23 @@ broad daylight."
 
 As he spoke, Judson looked up across the lawn and saw Enid Windrush come
 
-out of the shadow of the house into the sun. Something in the golden
+out of the [[Shadow|shadow]] of the [[house]] into the sun. Something in the golden
 
 balance of her figure, with the flushed face and flame-like radiation of
 
 her hair, made her look as if she had actually stepped from an
 
-allegorical picture of the dawn, and swiftly as she moved, her movements
+allegorical picture of the [[Dawn|dawn]], and swiftly as she moved, her movements
 
 always had the grand, gradual curves of great unconscious forces, of the
 
-falling waters and the wind. Something of this congruity with the almost
+falling waters and the [[Wind|wind]]. Something of this congruity with the almost
 
-cosmic drift of the conversation doubtless rose into the poet's mind, as
+cosmic drift of the conversation doubtless [[Rose|rose]] into the poet's mind, as
 
-he said casually enough: "Well, Enid, I've been boosting the old property
+he said casually enough: "[[Well]], Enid, I've been boosting the old property
 
-again. I've been modestly comparing my own backyard to the Garden of
+again. I've been modestly comparing my own backyard to the [[Garden]] of
 
 Eden. But it's no good talking to this deplorable materialistic young
 
@@ -310,7 +310,7 @@ things to see."
 
 "I suppose you would say," said Windrush dreamily, "that we have evolved
 
-into a higher condition and can see something nicer. Well, don't
+into a higher condition and can see something nicer. [[Well]], don't
 
 misunderstand me; I'm not against anybody evolving, if he does it
 
@@ -334,11 +334,11 @@ henceforward."
 
 They did not hear his answer as he walked away, but he said: "Because it
 
-is The Garden of Eden."
+is The [[Garden]] of Eden."
 
 
 
-A sudden silence fell between the two who were left facing each other on
+A sudden [[Silence|silence]] fell between the two who were left facing each other on
 
 the lawn. Then John Judson went across to the girl and confronting her
 
@@ -374,11 +374,11 @@ that he was the Serpent."
 
 of musing, that was almost mystical, "but I thought you were the Angel of
 
-the Flaming Sword."
+the Flaming [[Sword]]."
 
 
 
-"I have thrown away the sword," said Enid Windrush.
+"I have thrown away the [[Sword|sword]]," said Enid Windrush.
 
 
 
@@ -388,21 +388,21 @@ woman."
 
 
 
-On the top of the once accursed tree a small bird burst into song, and at
+On the top of the once accursed tree a small bird burst into [[Song|song]], and at
 
-the same moment a great morning wind from the south rushed upon the
+the same moment a great morning [[Wind|wind]] from the south rushed upon the
 
-garden, bending all its shrubs and bushes and seeming, as does the air
+[[Garden|garden]], bending all its shrubs and bushes and seeming, as does the air
 
 when it passes over sunlit foliage, to drive the sunshine before it in
 
 mighty waves. And it seemed to both of them that something had broken or
 
-been loosened, a last bond with chaos and the night, a last strand of the
+been loosened, a last bond with chaos and the [[Night|night]], a last strand of the
 
 net of some resisting Nothing that obstructs creation, and God had made a
 
-new garden and they stood alive on the first foundations of the world.
+new [[Garden|garden]] and they stood alive on the first foundations of the world.
 
 
 

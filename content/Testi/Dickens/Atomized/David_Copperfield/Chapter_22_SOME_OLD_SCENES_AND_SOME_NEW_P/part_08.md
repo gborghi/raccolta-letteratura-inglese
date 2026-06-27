@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 8)"
+title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-‘Martha wants,’ she said to Ham, ‘to go to London.’
+‘Martha wants,’ she said to Ham, ‘to go to [[London]].’
 
-‘Why to London?’ returned Ham.
+‘Why to [[London]]?’ returned Ham.
 
 He stood between them, looking on the prostrate girl with a mixture of
-compassion for her, and of jealousy of her holding any companionship
-with her whom he loved so well, which I have always remembered
+compassion for her, and of [[Jealousy|jealousy]] of her holding any companionship
+with her whom he loved so [[Well|well]], which I have always remembered
 distinctly. They both spoke as if she were ill; in a soft, suppressed
-tone that was plainly heard, although it hardly rose above a whisper.
+tone that was plainly heard, although it hardly [[Rose|rose]] above a whisper.
 
 ‘Better there than here,’ said a third voice aloud--Martha’s, though she
 did not move. ‘No one knows me there. Everybody knows me here.’
@@ -31,10 +31,10 @@ did not move. ‘No one knows me there. Everybody knows me here.’
 
 She lifted up her head, and looked darkly round at him for a moment;
 then laid it down again, and curved her right arm about her neck, as
-a woman in a fever, or in an agony of pain from a shot, might twist
+a woman in a fever, or in an agony of [[Pain|pain]] from a shot, might twist
 herself.
 
-‘She will try to do well,’ said little Em’ly. ‘You don’t know what she
+‘She will try to do [[Well|well]],’ said little Em’ly. ‘You don’t know what she
 has said to us. Does he--do they--aunt?’
 
 Peggotty shook her head compassionately.
@@ -42,7 +42,7 @@ Peggotty shook her head compassionately.
 ‘I’ll try,’ said Martha, ‘if you’ll help me away. I never can do worse
 than I have done here. I may do better. Oh!’ with a dreadful shiver,
 ‘take me out of these streets, where the whole town knows me from a
-child!’
+[[Child|child]]!’
 
 As Em’ly held out her hand to Ham, I saw him put in it a little canvas
 bag. She took it, as if she thought it were her purse, and made a step
@@ -53,7 +53,7 @@ retired near me, and showed it to him.
 the wureld that ain’t yourn, my dear. It ain’t of no delight to me,
 except for you!’
 
-The tears rose freshly in her eyes, but she turned away and went to
+The [[Tears|tears]] [[Rose|rose]] freshly in her eyes, but she turned away and went to
 Martha. What she gave her, I don’t know. I saw her stooping over her,
 and putting money in her bosom. She whispered something, as she asked
 was that enough? ‘More than enough,’ the other said, and took her hand
@@ -81,7 +81,7 @@ I ought to have!’
 not as good a girl as I ought to be. Not near! not near!’ And still she
 cried, as if her heart would break.
 
-‘I try your love too much. I know I do!’ she sobbed. ‘I’m often cross to
+‘I try your [[Love|love]] too much. I know I do!’ she sobbed. ‘I’m often [[Cross|cross]] to
 you, and changeable with you, when I ought to be far different. You are
 never so to me. Why am I ever so to you, when I should think of nothing
 but how to be grateful, and to make you happy!’
@@ -102,7 +102,7 @@ overset her, altogether.’
 you. Oh, I am very miserable tonight, aunt! Oh, I am not as good a girl
 as I ought to be. I am not, I know!’
 
-Peggotty had hastened to the chair before the fire. Em’ly, with her
+Peggotty had hastened to the chair before the [[Fire|fire]]. Em’ly, with her
 arms around her neck, kneeled by her, looking up most earnestly into her
 face.
 
@@ -113,21 +113,21 @@ I do. I want to feel more, what a blessed thing it is to be the wife of
 a good man, and to lead a peaceful life. Oh me, oh me! Oh my heart, my
 heart!’
 
-She dropped her face on my old nurse’s breast, and, ceasing this
+She dropped her face on my old [[Nurse|nurse]]’s breast, and, ceasing this
 supplication, which in its agony and grief was half a woman’s, half a
-child’s, as all her manner was (being, in that, more natural, and better
-suited to her beauty, as I thought, than any other manner could have
-been), wept silently, while my old nurse hushed her like an infant.
+[[Child|child]]’s, as all her manner was (being, in that, more natural, and better
+suited to her [[Beauty|beauty]], as I thought, than any other manner could have
+been), wept silently, while my old [[Nurse|nurse]] hushed her like an infant.
 
 She got calmer by degrees, and then we soothed her; now talking
 encouragingly, and now jesting a little with her, until she began to
 raise her head and speak to us. So we got on, until she was able to
 smile, and then to laugh, and then to sit up, half ashamed; while
 Peggotty recalled her stray ringlets, dried her eyes, and made her neat
-again, lest her uncle should wonder, when she got home, why his darling
+again, lest her uncle should [[Wonder|wonder]], when she got [[Home|home]], why his darling
 had been crying.
 
-I saw her do, that night, what I had never seen her do before. I saw her
+I saw her do, that [[Night|night]], what I had never seen her do before. I saw her
 innocently kiss her chosen husband on the cheek, and creep close to his
 bluff form as if it were her best support. When they went away together,
 in the waning moonlight, and I looked after them, comparing their

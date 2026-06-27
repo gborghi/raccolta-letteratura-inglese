@@ -17,19 +17,19 @@ tags:
 With which words she folded her in a closer embrace, and a really fond
 one.
 
-‘Not that I contemplate doing without You, Amy, by any means, for I hope
+‘Not that I contemplate doing without You, Amy, by any means, for I [[Hope|hope]]
 we shall ever be next to inseparable. And now, my pet, I am going
-to give you a word of advice. When you are left alone here with Mrs
+to give you a word of advice. When you are left [[Alone|alone]] here with Mrs
 General--’
 
-‘I am to be left alone here with Mrs General?’ said Little Dorrit,
+‘I am to be left [[Alone|alone]] here with Mrs General?’ said Little Dorrit,
 quietly.
 
 ‘Why, of course, my precious, till papa comes back! Unless you call
 Edward company, which he certainly is not, even when he is here, and
 still more certainly is not when he is away at Naples or in Sicily. I
 was going to say--but you are such a beloved little Marplot for putting
-one out--when you are left alone here with Mrs General, Amy, don’t you
+one out--when you are left [[Alone|alone]] here with Mrs General, Amy, don’t you
 let her slide into any sort of artful understanding with you that she is
 looking after Pa, or that Pa is looking after her. She will if she can.
 I know her sly manner of feeling her way with those gloves of hers. But
@@ -46,7 +46,7 @@ without asserting it in making every one about you as uncomfortable as
 possible. I don’t expect you to stand by it--indeed, I know you won’t,
 Pa being concerned--but I wish to rouse you to a sense of duty. As to
 any help from me, or as to any opposition that I can offer to such a
-match, you shall not be left in the lurch, my love. Whatever weight
+match, you shall not be left in the lurch, my [[Love|love]]. Whatever weight
 I may derive from my position as a married girl not wholly devoid of
 attractions--used, as that position always shall be, to oppose that
 woman--I will bring to bear, you May depend upon it, on the head and
@@ -60,7 +60,7 @@ it. Having now, as it were, formally wound up her single life and
 arranged her worldly affairs, Fanny proceeded with characteristic ardour
 to prepare for the serious change in her condition.
 
-The preparation consisted in the despatch of her maid to Paris under the
+The preparation consisted in the despatch of her maid to [[Paris]] under the
 protection of the Courier, for the purchase of that outfit for a bride
 on which it would be extremely low, in the present narrative, to bestow
 an English name, but to which (on a vulgar principle it observes
@@ -75,20 +75,20 @@ that unless the Courier had expended just one bushel and a half of
 silver money relieving their distresses, they would have worn the
 wardrobe out before it got to Rome, by turning it over and over. Through
 all such dangers, however, it was triumphantly brought, inch by inch,
-and arrived at its journey’s end in fine condition.
+and arrived at its [[Journey|journey]]’s end in fine condition.
 
 There it was exhibited to select companies of female viewers, in whose
 gentle bosoms it awakened implacable feelings. Concurrently, active
 preparations were made for the day on which some of its treasures were
 to be publicly displayed. Cards of breakfast-invitation were sent out
-to half the English in the city of Romulus; the other half made
+to half the English in the [[City|city]] of Romulus; the other half made
 arrangements to be under arms, as criticising volunteers, at various
 outer points of the solemnity. The most high and illustrious English
 Signor Edgardo Dorrit, came post through the deep mud and ruts (from
 forming a surface under the improving Neapolitan nobility), to grace
 the occasion. The best hotel and all its culinary myrmidons, were set to
 work to prepare the feast. The drafts of Mr Dorrit almost constituted a
-run on the Torlonia Bank. The British Consul hadn’t had such a marriage
+run on the Torlonia Bank. The British Consul hadn’t had such a [[Marriage|marriage]]
 in the whole of his Consularity.
 
 The day came, and the She-Wolf in the Capitol might have snarled with
@@ -97,25 +97,25 @@ The murderous-headed statues of the wicked Emperors of the Soldiery,
 whom sculptors had not been able to flatter out of their villainous
 hideousness, might have come off their pedestals to run away with the
 Bride. The choked old fountain, where erst the gladiators washed, might
-have leaped into life again to honour the ceremony. The Temple of
+have leaped into life again to [[Honour|honour]] the ceremony. The Temple of
 Vesta might have sprung up anew from its ruins, expressly to lend its
 countenance to the occasion. Might have done; but did not. Like sentient
 things--even like the lords and ladies of creation sometimes--might
 have done much, but did nothing. The celebration went off with admirable
-pomp; monks in black robes, white robes, and russet robes stopped to
+pomp; [[Monks|monks]] in black robes, white robes, and russet robes stopped to
 look after the carriages; wandering peasants in fleeces of sheep, begged
-and piped under the house-windows; the English volunteers defiled; the
+and piped under the [[house]]-windows; the English volunteers defiled; the
 day wore on to the hour of vespers; the festival wore away; the thousand
-churches rang their bells without any reference to it; and St Peter
+churches rang their [[Bells|bells]] without any reference to it; and St Peter
 denied that he had anything to do with it.
 
-But by that time the Bride was near the end of the first day’s journey
+But by that [[Time|time]] the Bride was near the end of the first day’s [[Journey|journey]]
 towards Florence. It was the peculiarity of the nuptials that they
 were all Bride. Nobody noticed the Bridegroom. Nobody noticed the first
 Bridesmaid. Few could have seen Little Dorrit (who held that post) for
 the glare, even supposing many to have sought her. So, the Bride had
 mounted into her handsome chariot, incidentally accompanied by the
-Bridegroom; and after rolling for a few minutes smoothly over a fair
+Bridegroom; and after [[rolling]] for a few minutes smoothly over a fair
 pavement, had begun to jolt through a Slough of Despond, and through a
 long, long avenue of wrack and ruin. Other nuptial carriages are said to
-have gone the same road, before and since.
+have gone the same [[Road|road]], before and since.

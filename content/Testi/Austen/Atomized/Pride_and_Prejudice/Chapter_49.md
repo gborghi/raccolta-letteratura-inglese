@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 49"
+title: "[[Pride and Prejudice]] — Chapter 49"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -20,20 +20,20 @@ CHAPTER XLIX.
 [Illustration]
 
 Two days after Mr. Bennet’s return, as Jane and Elizabeth were walking
-together in the shrubbery behind the house, they saw the housekeeper
+together in the shrubbery behind the [[house]], they saw the housekeeper
 coming towards them, and concluding that she came to call them to their
 mother, went forward to meet her; but instead of the expected summons,
 when they approached her, she said to Miss Bennet, “I beg your pardon,
 madam, for interrupting you, but I was in hopes you might have got some
 good news from town, so I took the liberty of coming to ask.”
 
-“What do you mean, Hill? We have heard nothing from town.”
+“What do you mean, [[Hill]]? We have heard nothing from town.”
 
-“Dear madam,” cried Mrs. Hill, in great astonishment, “don’t you know
+“Dear madam,” cried Mrs. [[Hill]], in great astonishment, “don’t you know
 there is an express come for master from Mr. Gardiner? He has been here
 this half hour, and master has had a letter.”
 
-Away ran the girls, too eager to get in to have time for speech. They
+Away ran the girls, too eager to get in to have [[Time|time]] for speech. They
 ran through the vestibule into the breakfast-room; from thence to the
 library;--their father was in neither; and they were on the point of
 seeking him upstairs with their mother, when they were met by the
@@ -54,7 +54,7 @@ came up with him, and eagerly cried out,--
 
 “Yes, I have had a letter from him by express.”
 
-“Well, and what news does it bring--good or bad?”
+“[[Well]], and what news does it bring--good or bad?”
 
 “What is there of good to be expected?” said he, taking the letter from
 his pocket; “but perhaps you would like to read it.”
@@ -69,9 +69,9 @@ about.”
 “My dear Brother,
 
      “At last I am able to send you some tidings of my niece, and such
-     as, upon the whole, I hope will give you satisfaction. Soon after
+     as, upon the whole, I [[Hope|hope]] will give you satisfaction. Soon after
      you left me on Saturday, I was fortunate enough to find out in what
-     part of London they were. The particulars I reserve till we meet.
+     part of [[London]] they were. The particulars I reserve till we meet.
      It is enough to know they are discovered: I have seen them
      both----”
 
@@ -86,7 +86,7 @@ about.”
      Elizabeth read on: “I have seen them both. They are not married,
      nor can I find there was any intention of being so; but if you are
      willing to perform the engagements which I have ventured to make on
-     your side, I hope it will not be long before they are. All that is
+     your side, I [[Hope|hope]] it will not be long before they are. All that is
      required of you is, to assure to your daughter, by settlement, her
      equal share of the five thousand pounds, secured among your
      children after the decease of yourself and my sister; and,
@@ -94,7 +94,7 @@ about.”
      life, one hundred pounds per annum. These are conditions which,
      considering everything, I had no hesitation in complying with, as
      far as I thought myself privileged, for you. I shall send this by
-     express, that no time may be lost in bringing me your answer. You
+     express, that no [[Time|time]] may be lost in bringing me your answer. You
      will easily comprehend, from these particulars, that Mr. Wickham’s
      circumstances are not so hopeless as they are generally believed to
      be. The world has been deceived in that respect; and I am happy to
@@ -107,7 +107,7 @@ about.”
      to town again; therefore stay quietly at Longbourn, and depend on
      my diligence and care. Send back your answer as soon as you can,
      and be careful to write explicitly. We have judged it best that my
-     niece should be married from this house, of which I hope you will
+     niece should be married from this [[house]], of which I [[Hope|hope]] you will
      approve. She comes to us to-day. I shall write again as soon as
      anything more is determined on. Yours, etc.
 
@@ -123,7 +123,7 @@ sister. “My dear father, I congratulate you.”
 
 “No; but it must be done soon.”
 
-Most earnestly did she then entreat him to lose no more time before he
+Most earnestly did she then entreat him to lose no more [[Time|time]] before he
 wrote.
 
 “Oh! my dear father,” she cried, “come back and write immediately.
@@ -134,7 +134,7 @@ yourself.”
 
 “I dislike it very much,” he replied; “but it must be done.”
 
-And so saying, he turned back with them, and walked towards the house.
+And so saying, he turned back with them, and walked towards the [[house]].
 
 “And--may I ask?” said Elizabeth; “but the terms, I suppose, must be
 complied with.”
@@ -151,7 +151,7 @@ to pay him.”
 “Money! my uncle!” cried Jane, “what do you mean, sir?”
 
 “I mean that no man in his proper senses would marry Lydia on so slight
-a temptation as one hundred a year during my life, and fifty after I am
+a [[Temptation|temptation]] as one hundred a year during my life, and fifty after I am
 gone.”
 
 “That is very true,” said Elizabeth; “though it had not occurred to me
@@ -159,7 +159,7 @@ before. His debts to be discharged, and something still to remain! Oh,
 it must be my uncle’s doings! Generous, good man, I am afraid he has
 distressed himself. A small sum could not do all this.”
 
-“No,” said her father. “Wickham’s a fool if he takes her with a farthing
+“No,” said her father. “Wickham’s a [[Fool|fool]] if he takes her with a farthing
 less than ten thousand pounds: I should be sorry to think so ill of him,
 in the very beginning of our relationship.”
 
@@ -167,7 +167,7 @@ in the very beginning of our relationship.”
 repaid?”
 
 Mr. Bennet made no answer; and each of them, deep in thought, continued
-silent till they reached the house. Their father then went to the
+silent till they reached the [[house]]. Their father then went to the
 library to write, and the girls walked into the breakfast-room.
 
 “And they are really to be married!” cried Elizabeth, as soon as they
@@ -186,19 +186,19 @@ pounds?”
 Elizabeth, “and how much is settled on his side on our sister, we shall
 exactly know what Mr. Gardiner has done for them, because Wickham has
 not sixpence of his own. The kindness of my uncle and aunt can never be
-requited. Their taking her home, and affording her their personal
+requited. Their taking her [[Home|home]], and affording her their personal
 protection and countenance, is such a sacrifice to her advantage as
-years of gratitude cannot enough acknowledge. By this time she is
+years of gratitude cannot enough acknowledge. By this [[Time|time]] she is
 actually with them! If such goodness does not make her miserable now,
 she will never deserve to be happy! What a meeting for her, when she
 first sees my aunt!”
 
 “We must endeavour to forget all that has passed on either side,” said
-Jane: “I hope and trust they will yet be happy. His consenting to marry
+Jane: “I [[Hope|hope]] and trust they will yet be happy. His consenting to marry
 her is a proof, I will believe, that he is come to a right way of
 thinking. Their mutual affection will steady them; and I flatter myself
 they will settle so quietly, and live in so rational a manner, as may in
-time make their past imprudence forgotten.”
+[[Time|time]] make their past imprudence forgotten.”
 
 “Their conduct has been such,” replied Elizabeth, “as neither you, nor
 I, nor anybody, can ever forget. It is useless to talk of it.”
@@ -219,11 +219,11 @@ Elizabeth took the letter from his writing-table, and they went upstairs
 together. Mary and Kitty were both with Mrs. Bennet: one communication
 would, therefore, do for all. After a slight preparation for good news,
 the letter was read aloud. Mrs. Bennet could hardly contain herself. As
-soon as Jane had read Mr. Gardiner’s hope of Lydia’s being soon married,
+soon as Jane had read Mr. Gardiner’s [[Hope|hope]] of Lydia’s being soon married,
 her joy burst forth, and every following sentence added to its
 exuberance. She was now in an irritation as violent from delight as she
 had ever been fidgety from alarm and vexation. To know that her daughter
-would be married was enough. She was disturbed by no fear for her
+would be married was enough. She was disturbed by no [[Fear|fear]] for her
 felicity, nor humbled by any remembrance of her misconduct.
 
 “My dear, dear Lydia!” she cried: “this is delightful indeed! She will
@@ -233,7 +233,7 @@ everything. How I long to see her! and to see dear Wickham too! But the
 clothes, the wedding clothes! I will write to my sister Gardiner about
 them directly. Lizzy, my dear, run down to your father, and ask him how
 much he will give her. Stay, stay, I will go myself. Ring the bell,
-Kitty, for Hill. I will put on my things in a moment. My dear, dear
+Kitty, for [[Hill]]. I will put on my things in a moment. My dear, dear
 Lydia! How merry we shall be together when we meet!”
 
 Her eldest daughter endeavoured to give some relief to the violence of
@@ -244,11 +244,11 @@ Gardiner’s behaviour laid them all under.
 measure to his kindness. We are persuaded that he has pledged himself to
 assist Mr. Wickham with money.”
 
-“Well,” cried her mother, “it is all very right; who should do it but
+“[[Well]],” cried her mother, “it is all very right; who should do it but
 her own uncle? If he had not had a family of his own, I and my children
-must have had all his money, you know; and it is the first time we have
-ever had anything from him except a few presents. Well! I am so happy.
-In a short time, I shall have a daughter married. Mrs. Wickham! How well
+must have had all his money, you know; and it is the first [[Time|time]] we have
+ever had anything from him except a few presents. [[Well]]! I am so happy.
+In a short [[Time|time]], I shall have a daughter married. Mrs. Wickham! How [[Well|well]]
 it sounds! And she was only sixteen last June. My dear Jane, I am in
 such a flutter, that I am sure I can’t write; so I will dictate, and you
 write for me. We will settle with your father about the money
@@ -265,13 +265,13 @@ so obstinate as usual. Other schemes, too, came into her head.
 good, good news to my sister Philips. And as I come back, I can call on
 Lady Lucas and Mrs. Long. Kitty, run down and order the carriage. An
 airing would do me a great deal of good, I am sure. Girls, can I do
-anything for you in Meryton? Oh! here comes Hill. My dear Hill, have you
+anything for you in Meryton? Oh! here comes [[Hill]]. My dear [[Hill]], have you
 heard the good news? Miss Lydia is going to be married; and you shall
 all have a bowl of punch to make merry at her wedding.”
 
-Mrs. Hill began instantly to express her joy. Elizabeth received her
+Mrs. [[Hill]] began instantly to express her joy. Elizabeth received her
 congratulations amongst the rest, and then, sick of this folly, took
-refuge in her own room, that she might think with freedom. Poor Lydia’s
+refuge in her own room, that she might think with [[Freedom|freedom]]. Poor Lydia’s
 situation must, at best, be bad enough; but that it was no worse, she
 had need to be thankful. She felt it so; and though, in looking forward,
 neither rational happiness, nor worldly prosperity could be justly

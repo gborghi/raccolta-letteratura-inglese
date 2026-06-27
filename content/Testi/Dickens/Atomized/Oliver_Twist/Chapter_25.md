@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 25"
+title: "[[Oliver Twist]] — Chapter 25"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,35 +15,35 @@ tags:
 
 
  CHAPTER XXV.
-WHEREIN THIS HISTORY REVERTS TO MR. FAGIN AND COMPANY
+WHEREIN THIS [[history|HISTORY]] REVERTS TO MR. [[Fagin|FAGIN]] AND COMPANY
 
 
-While these things were passing in the country workhouse, Mr. Fagin sat
-in the old den—the same from which Oliver had been removed by the
-girl—brooding over a dull, smoky fire. He held a pair of bellows upon
+While these things were passing in the country workhouse, Mr. [[Fagin]] sat
+in the old den—the same from which [[Oliver]] had been removed by the
+girl—brooding over a dull, smoky [[Fire|fire]]. He held a pair of bellows upon
 his knee, with which he had apparently been endeavouring to rouse it
 into more cheerful action; but he had fallen into deep thought; and
 with his arms folded on them, and his chin resting on his thumbs, fixed
 his eyes, abstractedly, on the rusty bars.
 
-At a table behind him sat the Artful Dodger, Master Charles Bates, and
+At a table behind him sat the [[Artful Dodger]], Master Charles Bates, and
 Mr. Chitling: all intent upon a game of whist; the Artful taking dummy
 against Master Bates and Mr. Chitling. The countenance of the
 first-named gentleman, peculiarly intelligent at all times, acquired
 great additional interest from his close observance of the game, and
-his attentive perusal of Mr. Chitling’s hand; upon which, from time to
-time, as occasion served, he bestowed a variety of earnest glances:
+his attentive perusal of Mr. Chitling’s hand; upon which, from [[Time|time]] to
+[[Time|time]], as occasion served, he bestowed a variety of earnest glances:
 wisely regulating his own play by the result of his observations upon
-his neighbour’s cards. It being a cold night, the Dodger wore his hat,
+his neighbour’s cards. It being a cold [[Night|night]], the Dodger wore his hat,
 as, indeed, was often his custom within doors. He also sustained a clay
 pipe between his teeth, which he only removed for a brief space when he
 deemed it necessary to apply for refreshment to a quart pot upon the
-table, which stood ready filled with gin-and-water for the
+table, which stood ready filled with gin-and-[[Water|water]] for the
 accommodation of the company.
 
 Master Bates was also attentive to the play; but being of a more
-excitable nature than his accomplished friend, it was observable that
-he more frequently applied himself to the gin-and-water, and moreover
+excitable [[Nature|nature]] than his accomplished friend, it was observable that
+he more frequently applied himself to the gin-and-[[Water|water]], and moreover
 indulged in many jests and irrelevant remarks, all highly unbecoming a
 scientific rubber. Indeed, the Artful, presuming upon their close
 attachment, more than once took occasion to reason gravely with his
@@ -59,7 +59,7 @@ most uproariously at the end of every deal, and protested that he had
 never seen such a jolly game in all his born days.
 
 “That’s two doubles and the rub,” said Mr. Chitling, with a very long
-face, as he drew half-a-crown from his waistcoat-pocket. “I never see
+face, as he drew half-a-[[Crown|crown]] from his waistcoat-pocket. “I never see
 such a feller as you, Jack; you win everything. Even when we’ve good
 cards, Charley and I can’t make nothing of ’em.”
 
@@ -68,7 +68,7 @@ ruefully, delighted Charley Bates so much, that his consequent shout of
 laughter roused the Jew from his reverie, and induced him to inquire
 what was the matter.
 
-“Matter, Fagin!” cried Charley. “I wish you had watched the play. Tommy
+“Matter, [[Fagin]]!” cried Charley. “I wish you had watched the play. Tommy
 Chitling hasn’t won a point; and I went partners with him against the
 Artful and dumb.”
 
@@ -76,28 +76,28 @@ Artful and dumb.”
 that he was at no loss to understand the reason. “Try ’em again, Tom;
 try ’em again.”
 
-“No more of it for me, thank ’ee, Fagin,” replied Mr. Chitling; “I’ve
+“No more of it for me, thank ’ee, [[Fagin]],” replied Mr. Chitling; “I’ve
 had enough. That ’ere Dodger has such a run of luck that there’s no
 standing again’ him.”
 
 “Ha! ha! my dear,” replied the Jew, “you must get up very early in the
 morning, to win against the Dodger.”
 
-“Morning!” said Charley Bates; “you must put your boots on over-night,
+“Morning!” said Charley Bates; “you must put your boots on over-[[Night|night]],
 and have a telescope at each eye, and a opera-glass between your
 shoulders, if you want to come over him.”
 
-Mr. Dawkins received these handsome compliments with much philosophy,
+Mr. Dawkins received these handsome compliments with much [[philosophy]],
 and offered to cut any gentleman in company, for the first
-picture-card, at a shilling at a time. Nobody accepting the challenge,
-and his pipe being by this time smoked out, he proceeded to amuse
+picture-card, at a shilling at a [[Time|time]]. Nobody accepting the challenge,
+and his pipe being by this [[Time|time]] smoked out, he proceeded to amuse
 himself by sketching a ground-plan of Newgate on the table with the
-piece of chalk which had served him in lieu of counters; whistling,
+piece of [[chalk]] which had served him in lieu of counters; whistling,
 meantime, with peculiar shrillness.
 
 “How precious dull you are, Tommy!” said the Dodger, stopping short
-when there had been a long silence; and addressing Mr. Chitling. “What
-do you think he’s thinking of, Fagin?”
+when there had been a long [[Silence|silence]]; and addressing Mr. Chitling. “What
+do you think he’s thinking of, [[Fagin]]?”
 
 “How should I know, my dear?” replied the Jew, looking round as he
 plied the bellows. “About his losses, maybe; or the little retirement
@@ -109,7 +109,7 @@ Charley?”
 
 “_I_ should say,” replied Master Bates, with a grin, “that he was
 uncommon sweet upon Betsy. See how he’s a-blushing! Oh, my eye! here’s
-a merry-go-rounder! Tommy Chitling’s in love! Oh, Fagin, Fagin! what a
+a merry-go-rounder! Tommy Chitling’s in [[Love|love]]! Oh, [[Fagin]], [[Fagin]]! what a
 spree!”
 
 Thoroughly overpowered with the notion of Mr. Chitling being the victim
@@ -123,7 +123,7 @@ position, and began another laugh.
 giving Master Bates a reproving tap with the nozzle of the bellows.
 “Betsy’s a fine girl. Stick up to her, Tom. Stick up to her.”
 
-“What I mean to say, Fagin,” replied Mr. Chitling, very red in the
+“What I mean to say, [[Fagin]],” replied Mr. Chitling, very red in the
 face, “is, that that isn’t anything to anybody here.”
 
 “No more it is,” replied the Jew; “Charley will talk. Don’t mind him,
@@ -132,9 +132,9 @@ and you will make your fortune.”
 
 “So I _do_ do as she bids me,” replied Mr. Chitling; “I shouldn’t have
 been milled, if it hadn’t been for her advice. But it turned out a good
-job for you; didn’t it, Fagin! And what’s six weeks of it? It must
-come, some time or another, and why not in the winter time when you
-don’t want to go out a-walking so much; eh, Fagin?”
+job for you; didn’t it, [[Fagin]]! And what’s six weeks of it? It must
+come, some [[Time|time]] or another, and why not in the [[Winter|winter]] [[Time|time]] when you
+don’t want to go out a-walking so much; eh, [[Fagin]]?”
 
 “Ah, to be sure, my dear,” replied the Jew.
 
@@ -142,25 +142,25 @@ don’t want to go out a-walking so much; eh, Fagin?”
 upon Charley and the Jew, “if Bet was all right?”
 
 “I mean to say that I shouldn’t,” replied Tom, angrily. “There, now.
-Ah! Who’ll say as much as that, I should like to know; eh, Fagin?”
+Ah! Who’ll say as much as that, I should like to know; eh, [[Fagin]]?”
 
-“Nobody, my dear,” replied the Jew; “not a soul, Tom. I don’t know one
+“Nobody, my dear,” replied the Jew; “not a [[Soul|soul]], Tom. I don’t know one
 of ’em that would do it besides you; not one of ’em, my dear.”
 
-“I might have got clear off, if I’d split upon her; mightn’t I, Fagin?”
+“I might have got clear off, if I’d split upon her; mightn’t I, [[Fagin]]?”
 angrily pursued the poor half-witted dupe. “A word from me would have
-done it; wouldn’t it, Fagin?”
+done it; wouldn’t it, [[Fagin]]?”
 
 “To be sure it would, my dear,” replied the Jew.
 
-“But I didn’t blab it; did I, Fagin?” demanded Tom, pouring question
+“But I didn’t blab it; did I, [[Fagin]]?” demanded Tom, pouring question
 upon question with great volubility.
 
 “No, no, to be sure,” replied the Jew; “you were too stout-hearted for
 that. A deal too stout, my dear!”
 
 “Perhaps I was,” rejoined Tom, looking round; “and if I was, what’s to
-laugh at, in that; eh, Fagin?”
+laugh at, in that; eh, [[Fagin]]?”
 
 The Jew, perceiving that Mr. Chitling was considerably roused, hastened
 to assure him that nobody was laughing; and to prove the gravity of the
@@ -170,7 +170,7 @@ more serious in his life, was unable to prevent the escape of such a
 violent roar, that the abused Mr. Chitling, without any preliminary
 ceremonies, rushed across the room and aimed a blow at the offender;
 who, being skilful in evading pursuit, ducked to avoid it, and chose
-his time so well that it lighted on the chest of the merry old
+his [[Time|time]] so [[Well|well]] that it lighted on the chest of the merry old
 gentleman, and caused him to stagger to the wall, where he stood
 panting for breath, while Mr. Chitling looked on in intense dismay.
 
@@ -179,9 +179,9 @@ Catching up the light, he crept softly upstairs.
 
 The bell was rung again, with some impatience, while the party were in
 darkness. After a short pause, the Dodger reappeared, and whispered
-Fagin mysteriously.
+[[Fagin]] mysteriously.
 
-“What!” cried the Jew, “alone?”
+“What!” cried the Jew, “[[Alone|alone]]?”
 
 The Dodger nodded in the affirmative, and, shading the flame of the
 candle with his hand, gave Charley Bates a private intimation, in dumb
@@ -211,17 +211,17 @@ unwashed, and unshorn: the features of flash Toby Crackit.
 
 “How are you, Faguey?” said this worthy, nodding to the Jew. “Pop that
 shawl away in my castor, Dodger, so that I may know where to find it
-when I cut; that’s the time of day! You’ll be a fine young cracksman
+when I cut; that’s the [[Time|time]] of day! You’ll be a fine young cracksman
 afore the old file now.”
 
 With these words he pulled up the smock-frock; and, winding it round
-his middle, drew a chair to the fire, and placed his feet upon the hob.
+his middle, drew a chair to the [[Fire|fire]], and placed his feet upon the hob.
 
 “See there, Faguey,” he said, pointing disconsolately to his top boots;
 “not a drop of Day and Martin since you know when; not a bubble of
 blacking, by Jove! But don’t look at me in that way, man. All in good
-time. I can’t talk about business till I’ve eat and drank; so produce
-the sustainance, and let’s have a quiet fill-out for the first time
+[[Time|time]]. I can’t talk about business till I’ve eat and drank; so produce
+the sustainance, and let’s have a quiet fill-out for the first [[Time|time]]
 these three days!”
 
 The Jew motioned to the Dodger to place what eatables there were, upon
@@ -235,19 +235,19 @@ to the intelligence he brought; but in vain.
 
 He looked tired and worn, but there was the same complacent repose upon
 his features that they always wore: and through dirt, and beard, and
-whisker, there still shone, unimpaired, the self-satisfied smirk of
+whisker, there still shone, unimpaired, the [[Self|self]]-satisfied smirk of
 flash Toby Crackit. Then the Jew, in an agony of impatience, watched
 every morsel he put into his mouth; pacing up and down the room,
 meanwhile, in irrepressible excitement. It was all of no use. Toby
 continued to eat with the utmost outward indifference, until he could
 eat no more; then, ordering the Dodger out, he closed the door, mixed a
-glass of spirits and water, and composed himself for talking.
+glass of spirits and [[Water|water]], and composed himself for talking.
 
 “First and foremost, Faguey,” said Toby.
 
 “Yes, yes!” interposed the Jew, drawing up his chair.
 
-Mr. Crackit stopped to take a draught of spirits and water, and to
+Mr. Crackit stopped to take a draught of spirits and [[Water|water]], and to
 declare that the gin was excellent; then placing his feet against the
 low mantelpiece, so as to bring his boots to about the level of his
 eye, he quietly resumed.
@@ -269,15 +269,15 @@ pointing to it. “What more?”
 
 “They fired and hit the boy. We cut over the fields at the back, with
 him between us—straight as the crow flies—through hedge and ditch. They
-gave chase. Damme! the whole country was awake, and the dogs upon us.”
+gave chase. Damme! the whole country was awake, and the [[dogs]] upon us.”
 
 “The boy!”
 
-“Bill had him on his back, and scudded like the wind. We stopped to
+“Bill had him on his back, and scudded like the [[Wind|wind]]. We stopped to
 take him between us; his head hung down, and he was cold. They were
 close upon our heels; every man for himself, and each from the gallows!
 We parted company, and left the youngster lying in a ditch. Alive or
 dead, that’s all I know about him.”
 
 The Jew stopped to hear no more; but uttering a loud yell, and twining
-his hands in his hair, rushed from the room, and from the house.
+his hands in his hair, rushed from the room, and from the [[house]].

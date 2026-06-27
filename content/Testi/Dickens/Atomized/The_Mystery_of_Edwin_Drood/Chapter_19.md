@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 18"
+title: "The Mystery of [[Edwin Drood]] — Chapter 18"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -18,13 +18,13 @@ CHAPTER XVIII.
 A SETTLER IN CLOISTERHAM
 
 
-At about this time a stranger appeared in Cloisterham; a white-haired
+At about this [[Time|time]] a stranger appeared in Cloisterham; a white-haired
 personage, with black eyebrows. Being buttoned up in a tightish blue
 surtout, with a buff waistcoat and gray trousers, he had something of a
 military air, but he announced himself at the Crozier (the orthodox
 hotel, where he put up with a portmanteau) as an idle dog who lived
 upon his means; and he farther announced that he had a mind to take a
-lodging in the picturesque old city for a month or two, with a view of
+lodging in the picturesque old [[City|city]] for a month or two, with a view of
 settling down there altogether. Both announcements were made in the
 coffee-room of the Crozier, to all whom it might or might not concern,
 by the stranger as he stood with his back to the empty fireplace,
@@ -39,7 +39,7 @@ shaking his shock of hair, as a Newfoundland dog might shake his before
 sitting down to dinner, “that a fair lodging for a single buffer might
 be found in these parts, eh?”
 
-The waiter had no doubt of it.
+The waiter had no [[Doubt|doubt]] of it.
 
 “Something old,” said the gentleman. “Take my hat down for a moment
 from that peg, will you? No, I don’t want it; look into it. What do you
@@ -54,7 +54,7 @@ inconvenient.”
 
 “We have a good choice of inconvenient lodgings in the town, sir, I
 think,” replied the waiter, with modest confidence in its resources
-that way; “indeed, I have no doubt that we could suit you that far,
+that way; “indeed, I have no [[Doubt|doubt]] that we could suit you that far,
 however particular you might be. But a architectural lodging!” That
 seemed to trouble the waiter’s head, and he shook it.
 
@@ -66,8 +66,8 @@ his hand, “would be the likeliest party to inform in that line.”
 “Who is Mr. Tope?” inquired Dick Datchery.
 
 The waiter explained that he was the Verger, and that Mrs. Tope had
-indeed once upon a time let lodgings herself or offered to let them;
-but that as nobody had ever taken them, Mrs. Tope’s window-bill, long a
+indeed once upon a [[Time|time]] let lodgings herself or offered to let them;
+but that as nobody had ever taken them, Mrs. Tope’s [[Window|window]]-bill, long a
 Cloisterham Institution, had disappeared; probably had tumbled down one
 day, and never been put up again.
 
@@ -76,14 +76,14 @@ day, and never been put up again.
 So when he had done his dinner, he was duly directed to the spot, and
 sallied out for it. But the Crozier being an hotel of a most retiring
 disposition, and the waiter’s directions being fatally precise, he soon
-became bewildered, and went boggling about and about the Cathedral
+became bewildered, and went boggling about and about the [[Cathedral]]
 Tower, whenever he could catch a glimpse of it, with a general
 impression on his mind that Mrs. Tope’s was somewhere very near it, and
 that, like the children in the game of hot boiled beans and very good
 butter, he was warm in his search when he saw the Tower, and cold when
 he didn’t see it.
 
-He was getting very cold indeed when he came upon a fragment of
+He was getting very cold indeed when he came upon a [[Fragment|fragment]] of
 burial-ground in which an unhappy sheep was grazing. Unhappy, because a
 hideous small boy was stoning it through the railings, and had already
 lamed it in one leg, and was much excited by the benevolent
@@ -145,18 +145,18 @@ half of this.”
 “Yer lie! I don’t owe yer nothing; I never seen yer.”
 
 “I tell you you owe me half of this, because I have no sixpence in my
-pocket. So the next time you meet me you shall do something else for
+pocket. So the next [[Time|time]] you meet me you shall do something else for
 me, to pay me.”
 
 “All right, give us ’old.”
 
 “What is your name, and where do you live?”
 
-“Deputy. Travellers’ Twopenny, ’cross the green.”
+“Deputy. Travellers’ Twopenny, ’[[Cross|cross]] the green.”
 
 The boy instantly darted off with the shilling, lest Mr. Datchery
 should repent, but stopped at a safe distance, on the happy chance of
-his being uneasy in his mind about it, to goad him with a demon dance
+his being uneasy in his mind about it, to goad him with a demon [[Dance|dance]]
 expressive of its irrevocability.
 
 Mr. Datchery, taking off his hat to give that shock of white hair of
@@ -174,27 +174,27 @@ another chamber of no describable shape, with another groined roof:
 their windows small, and in the thickness of the walls. These two
 chambers, close as to their atmosphere, and swarthy as to their
 illumination by natural light, were the apartments which Mrs. Tope had
-so long offered to an unappreciative city. Mr. Datchery, however, was
+so long offered to an unappreciative [[City|city]]. Mr. Datchery, however, was
 more appreciative. He found that if he sat with the main door open he
 would enjoy the passing society of all comers to and fro by the
 gateway, and would have light enough. He found that if Mr. and Mrs.
 Tope, living overhead, used for their own egress and ingress a little
 side stair that came plump into the Precincts by a door opening
 outward, to the surprise and inconvenience of a limited public of
-pedestrians in a narrow way, he would be alone, as in a separate
+pedestrians in a narrow way, he would be [[Alone|alone]], as in a separate
 residence. He found the rent moderate, and everything as quaintly
-inconvenient as he could desire. He agreed, therefore, to take the
+inconvenient as he could [[Desire|desire]]. He agreed, therefore, to take the
 lodging then and there, and money down, possession to be had next
 evening, on condition that reference was permitted him to Mr. Jasper as
 occupying the gatehouse, of which on the other side of the gateway, the
 Verger’s hole-in-the-wall was an appanage or subsidiary part.
 
 The poor dear gentleman was very solitary and very sad, Mrs. Tope said,
-but she had no doubt he would “speak for her.” Perhaps Mr. Datchery had
-heard something of what had occurred there last winter?
+but she had no [[Doubt|doubt]] he would “speak for her.” Perhaps Mr. Datchery had
+heard something of what had occurred there last [[Winter|winter]]?
 
 Mr. Datchery had as confused a knowledge of the event in question, on
-trying to recall it, as he well could have. He begged Mrs. Tope’s
+trying to recall it, as he [[Well|well]] could have. He begged Mrs. Tope’s
 pardon when she found it incumbent on her to correct him in every
 detail of his summary of the facts, but pleaded that he was merely a
 single buffer getting through life upon his means as idly as he could,
@@ -228,34 +228,34 @@ sure.”
 me under an infinite obligation.”
 
 “Very good people, sir, Mr. and Mrs. Tope,” said Mr. Sapsea, with
-condescension. “Very good opinions. Very well behaved. Very respectful.
+condescension. “Very good opinions. Very [[Well|well]] behaved. Very respectful.
 Much approved by the Dean and Chapter.”
 
 “The Worshipful the Mayor gives them a character,” said Mr. Datchery,
-“of which they may indeed be proud. I would ask His Honour (if I might
+“of which they may indeed be proud. I would ask His [[Honour]] (if I might
 be permitted) whether there are not many objects of great interest in
-the city which is under his beneficent sway?”
+the [[City|city]] which is under his beneficent sway?”
 
-“We are, sir,” returned Mr. Sapsea, “an ancient city, and an
-ecclesiastical city. We are a constitutional city, as it becomes such a
-city to be, and we uphold and maintain our glorious privileges.”
+“We are, sir,” returned Mr. Sapsea, “an ancient [[City|city]], and an
+ecclesiastical [[City|city]]. We are a constitutional [[City|city]], as it becomes such a
+[[City|city]] to be, and we uphold and maintain our glorious privileges.”
 
-“His Honour,” said Mr. Datchery, bowing, “inspires me with a desire to
-know more of the city, and confirms me in my inclination to end my days
-in the city.”
+“His [[Honour]],” said Mr. Datchery, bowing, “inspires me with a [[Desire|desire]] to
+know more of the [[City|city]], and confirms me in my inclination to end my days
+in the [[City|city]].”
 
 “Retired from the Army, sir?” suggested Mr. Sapsea.
 
-“His Honour the Mayor does me too much credit,” returned Mr. Datchery.
+“His [[Honour]] the Mayor does me too much credit,” returned Mr. Datchery.
 
 “Navy, sir?” suggested Mr. Sapsea.
 
-“Again,” repeated Mr. Datchery, “His Honour the Mayor does me too much
+“Again,” repeated Mr. Datchery, “His [[Honour]] the Mayor does me too much
 credit.”
 
 “Diplomacy is a fine profession,” said Mr. Sapsea, as a general remark.
 
-“There, I confess, His Honour the Mayor is too many for me,” said Mr.
+“There, I confess, His [[Honour]] the Mayor is too many for me,” said Mr.
 Datchery, with an ingenious smile and bow; “even a diplomatic bird must
 fall to such a gun.”
 
@@ -265,16 +265,16 @@ example how to behave to a Mayor. There was something in that
 third-person style of being spoken to, that Mr. Sapsea found
 particularly recognisant of his merits and position.
 
-“But I crave pardon,” said Mr. Datchery. “His Honour the Mayor will
+“But I crave pardon,” said Mr. Datchery. “His [[Honour]] the Mayor will
 bear with me, if for a moment I have been deluded into occupying his
-time, and have forgotten the humble claims upon my own, of my hotel,
+[[Time|time]], and have forgotten the humble claims upon my own, of my hotel,
 the Crozier.”
 
-“Not at all, sir,” said Mr. Sapsea. “I am returning home, and if you
-would like to take the exterior of our Cathedral in your way, I shall
+“Not at all, sir,” said Mr. Sapsea. “I am returning [[Home|home]], and if you
+would like to take the exterior of our [[Cathedral]] in your way, I shall
 be glad to point it out.”
 
-“His Honour the Mayor,” said Mr. Datchery, “is more than kind and
+“His [[Honour]] the Mayor,” said Mr. Datchery, “is more than kind and
 gracious.”
 
 As Mr. Datchery, when he had made his acknowledgments to Mr. Jasper,
@@ -283,14 +283,14 @@ Worshipful led the way down-stairs; Mr. Datchery following with his hat
 under his arm, and his shock of white hair streaming in the evening
 breeze.
 
-“Might I ask His Honour,” said Mr. Datchery, “whether that gentleman we
+“Might I ask His [[Honour]],” said Mr. Datchery, “whether that gentleman we
 have just left is the gentleman of whom I have heard in the
 neighbourhood as being much afflicted by the loss of a nephew, and
 concentrating his life on avenging the loss?”
 
-“That is the gentleman. John Jasper, sir.”
+“That is the gentleman. [[John Jasper]], sir.”
 
-“Would His Honour allow me to inquire whether there are strong
+“Would His [[Honour]] allow me to inquire whether there are strong
 suspicions of any one?”
 
 “More than suspicions, sir,” returned Mr. Sapsea; “all but
@@ -303,7 +303,7 @@ Mayor. “As I say, the end crowns the work. It is not enough that
 justice should be morally certain; she must be immorally
 certain—legally, that is.”
 
-“His Honour,” said Mr. Datchery, “reminds me of the nature of the law.
+“His [[Honour]],” said Mr. Datchery, “reminds me of the [[Nature|nature]] of the law.
 Immoral. How true!”
 
 “As I say, sir,” pompously went on the Mayor, “the arm of the law is a
@@ -312,21 +312,21 @@ a long arm.”
 
 “How forcible!—And yet, again, how true!” murmured Mr. Datchery.
 
-“And without betraying, what I call the secrets of the prison-house,”
-said Mr. Sapsea; “the secrets of the prison-house is the term I used on
+“And without betraying, what I call the [[Secrets|secrets]] of the [[Prison|prison]]-[[house]],”
+said Mr. Sapsea; “the [[Secrets|secrets]] of the [[Prison|prison]]-[[house]] is the term I used on
 the bench.”
 
-“And what other term than His Honour’s would express it?” said Mr.
+“And what other term than His [[Honour]]’s would express it?” said Mr.
 Datchery.
 
 “Without, I say, betraying them, I predict to you, knowing the iron
 will of the gentleman we have just left (I take the bold step of
 calling it iron, on account of its strength), that in this case the
 long arm will reach, and the strong arm will strike.—This is our
-Cathedral, sir. The best judges are pleased to admire it, and the best
+[[Cathedral]], sir. The best judges are pleased to admire it, and the best
 among our townsmen own to being a little vain of it.”
 
-All this time Mr. Datchery had walked with his hat under his arm, and
+All this [[Time|time]] Mr. Datchery had walked with his hat under his arm, and
 his white hair streaming. He had an odd momentary appearance upon him
 of having forgotten his hat, when Mr. Sapsea now touched it; and he
 clapped his hand up to his head as if with some vague expectation of
@@ -335,18 +335,18 @@ finding another hat upon it.
 “Pray be covered, sir,” entreated Mr. Sapsea; magnificently plying: “I
 shall not mind it, I assure you.”
 
-“His Honour is very good, but I do it for coolness,” said Mr. Datchery.
+“His [[Honour]] is very good, but I do it for coolness,” said Mr. Datchery.
 
-Then Mr. Datchery admired the Cathedral, and Mr. Sapsea pointed it out
+Then Mr. Datchery admired the [[Cathedral]], and Mr. Sapsea pointed it out
 as if he himself had invented and built it: there were a few details
 indeed of which he did not approve, but those he glossed over, as if
-the workmen had made mistakes in his absence. The Cathedral disposed
-of, he led the way by the churchyard, and stopped to extol the beauty
+the workmen had made mistakes in his absence. The [[Cathedral]] disposed
+of, he led the way by the churchyard, and stopped to extol the [[Beauty|beauty]]
 of the evening—by chance—in the immediate vicinity of Mrs. Sapsea’s
 epitaph.
 
 “And by the by,” said Mr. Sapsea, appearing to descend from an
-elevation to remember it all of a sudden; like Apollo shooting down
+elevation to remember it all of a sudden; like [[Apollo]] shooting down
 from Olympus to pick up his forgotten lyre; “_that_ is one of our small
 lions. The partiality of our people has made it so, and strangers have
 been seen taking a copy of it now and then. I am not a judge of it
@@ -358,25 +358,25 @@ spite of his intention to end his days in Cloisterham, and therefore
 his probably having in reserve many opportunities of copying it, he
 would have transcribed it into his pocket-book on the spot, but for the
 slouching towards them of its material producer and perpetuator,
-Durdles, whom Mr. Sapsea hailed, not sorry to show him a bright example
+[[Durdles]], whom Mr. Sapsea hailed, not sorry to show him a bright example
 of behaviour to superiors.
 
-“Ah, Durdles! This is the mason, sir; one of our Cloisterham worthies;
-everybody here knows Durdles. Mr. Datchery, Durdles a gentleman who is
+“Ah, [[Durdles]]! This is the mason, sir; one of our Cloisterham worthies;
+everybody here knows [[Durdles]]. Mr. Datchery, [[Durdles]] a gentleman who is
 going to settle here.”
 
-“I wouldn’t do it if I was him,” growled Durdles. “We’re a heavy lot.”
+“I wouldn’t do it if I was him,” growled [[Durdles]]. “We’re a heavy lot.”
 
-“You surely don’t speak for yourself, Mr. Durdles,” returned Mr.
-Datchery, “any more than for His Honour.”
+“You surely don’t speak for yourself, Mr. [[Durdles]],” returned Mr.
+Datchery, “any more than for His [[Honour]].”
 
-“Who’s His Honour?” demanded Durdles.
+“Who’s His [[Honour]]?” demanded [[Durdles]].
 
-“His Honour the Mayor.”
+“His [[Honour]] the Mayor.”
 
-“I never was brought afore him,” said Durdles, with anything but the
-look of a loyal subject of the mayoralty, “and it’ll be time enough for
-me to Honour him when I am. Until which, and when, and where,
+“I never was brought afore him,” said [[Durdles]], with anything but the
+look of a loyal subject of the mayoralty, “and it’ll be [[Time|time]] enough for
+me to [[Honour]] him when I am. Until which, and when, and where,
 
 ‘Mister Sapsea is his name,
     England is his nation,
@@ -386,15 +386,15 @@ Cloisterham’s his dwelling-place,
 
 Here, Deputy (preceded by a flying oyster-shell) appeared upon the
 scene, and requested to have the sum of threepence instantly “chucked”
-to him by Mr. Durdles, whom he had been vainly seeking up and down, as
+to him by Mr. [[Durdles]], whom he had been vainly seeking up and down, as
 lawful wages overdue. While that gentleman, with his bundle under his
 arm, slowly found and counted out the money, Mr. Sapsea informed the
-new settler of Durdles’s habits, pursuits, abode, and reputation. “I
+new settler of [[Durdles]]’s habits, pursuits, abode, and reputation. “I
 suppose a curious stranger might come to see you, and your works, Mr.
-Durdles, at any odd time?” said Mr. Datchery upon that.
+[[Durdles]], at any odd [[Time|time]]?” said Mr. Datchery upon that.
 
 “Any gentleman is welcome to come and see me any evening if he brings
-liquor for two with him,” returned Durdles, with a penny between his
+liquor for two with him,” returned [[Durdles]], with a penny between his
 teeth and certain halfpence in his hands; “or if he likes to make it
 twice two, he’ll be doubly welcome.”
 
@@ -402,8 +402,8 @@ twice two, he’ll be doubly welcome.”
 
 “A job.”
 
-“Mind you pay me honestly with the job of showing me Mr. Durdles’s
-house when I want to go there.”
+“Mind you pay me honestly with the job of showing me Mr. [[Durdles]]’s
+[[house]] when I want to go there.”
 
 Deputy, with a piercing broadside of whistle through the whole gap in
 his mouth, as a receipt in full for all arrears, vanished.
@@ -413,7 +413,7 @@ parted, with many ceremonies, at the Worshipful’s door; even then the
 Worshipper carried his hat under his arm, and gave his streaming white
 hair to the breeze.
 
-Said Mr. Datchery to himself that night, as he looked at his white hair
+Said Mr. Datchery to himself that [[Night|night]], as he looked at his white hair
 in the gas-lighted looking-glass over the coffee-room chimneypiece at
 the Crozier, and shook it out: “For a single buffer, of an easy temper,
 living idly on his means, I have had a rather busy afternoon!”

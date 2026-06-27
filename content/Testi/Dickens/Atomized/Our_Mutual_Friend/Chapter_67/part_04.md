@@ -48,7 +48,7 @@ up, he gave me the pieces for you, and I was to say, “With Mr Alfred
 Lammle’s compliments on his leaving England.”’ Miss Jenny said it with
 such spiteful satisfaction, and such a hitch of her chin and eyes as
 might have added to Mr Fledgeby’s miseries, if he could have noticed
-either, in his bodily pain with his hand to his head.
+either, in his bodily [[Pain|pain]] with his hand to his head.
 
 ‘Shall I go for the police?’ inquired Miss Jenny, with a nimble start
 towards the door.
@@ -74,11 +74,11 @@ Everywhere!’
 
 The busy little dressmaker quickly snipped the shirt away, and laid
 bare the results of as furious and sound a thrashing as even Mr Fledgeby
-merited. ‘You may well smart, young man!’ exclaimed Miss Jenny. And
+merited. ‘You may [[Well|well]] smart, young man!’ exclaimed Miss Jenny. And
 stealthily rubbed her little hands behind him, and poked a few exultant
-pokes with her two forefingers over the crown of his head.
+pokes with her two forefingers over the [[Crown|crown]] of his head.
 
-‘What do you think of vinegar and brown paper?’ inquired the suffering
+‘What do you think of vinegar and brown paper?’ inquired the [[Suffering|suffering]]
 Fledgeby, still rocking and moaning. ‘Does it look as if vinegar and
 brown paper was the sort of application?’
 
@@ -111,7 +111,7 @@ plasters with a judicious hand. She then went back to Mr Fledgeby, and
 stuck them all on him: Mr Fledgeby uttering a sharp howl as each was put
 in its place.
 
-‘There, young man!’ said the dolls’ dressmaker. ‘Now I hope you feel
+‘There, young man!’ said the dolls’ dressmaker. ‘Now I [[Hope|hope]] you feel
 pretty comfortable?’
 
 Apparently, Mr Fledgeby did not, for he cried by way of answer, ‘Oh—h
@@ -120,7 +120,7 @@ how I do smart!’
 Miss Jenny got his Persian gown upon him, extinguished his eyes
 crookedly with his Persian cap, and helped him to his bed: upon which he
 climbed groaning. ‘Business between you and me being out of the question
-to-day, young man, and my time being precious,’ said Miss Jenny then,
+to-day, young man, and my [[Time|time]] being precious,’ said Miss Jenny then,
 ‘I’ll make myself scarce. Are you comfortable now?’
 
 ‘Oh my eye!’ cried Mr Fledgeby. ‘No, I ain’t. Oh—h—h! how I do smart!’
@@ -130,6 +130,6 @@ room door, was Mr Fledgeby in the act of plunging and gambolling all
 over his bed, like a porpoise or dolphin in its native element. She then
 shut the bedroom door, and all the other doors, and going down stairs
 and emerging from the Albany into the busy streets, took omnibus for
-Saint Mary Axe: pressing on the road all the gaily-dressed ladies whom
-she could see from the window, and making them unconscious lay-figures
+Saint Mary Axe: pressing on the [[Road|road]] all the gaily-dressed ladies whom
+she could see from the [[Window|window]], and making them unconscious lay-figures
 for dolls, while she mentally cut them out and basted them.

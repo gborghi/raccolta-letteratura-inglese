@@ -17,24 +17,24 @@ tags:
 ‘Lavvy,’ said her sister, in a low voice, ‘have the goodness to be seen
 and not heard.’
 
-‘No, I won’t,’ replied the sharp Lavinia. ‘I’m not a child, to be taken
+‘No, I won’t,’ replied the sharp [[Lavinia]]. ‘I’m not a [[Child|child]], to be taken
 notice of by strangers.’
 
-‘You ARE a child.’
+‘You ARE a [[Child|child]].’
 
-‘I’m not a child, and I won’t be taken notice of. “Bring your sister,”
+‘I’m not a [[Child|child]], and I won’t be taken notice of. “Bring your sister,”
  indeed!’
 
-‘Lavinia!’ said Mrs Wilfer. ‘Hold! I will not allow you to utter in my
+‘[[Lavinia]]!’ said Mrs Wilfer. ‘Hold! I will not allow you to utter in my
 presence the absurd suspicion that any strangers—I care not what their
-names—can patronize my child. Do you dare to suppose, you ridiculous
+names—can patronize my [[Child|child]]. Do you dare to suppose, you ridiculous
 girl, that Mr and Mrs Boffin would enter these doors upon a patronizing
 errand; or, if they did, would remain within them, only for one single
 instant, while your mother had the strength yet remaining in her vital
 frame to request them to depart? You little know your mother if you
 presume to think so.’
 
-‘It’s all very fine,’ Lavinia began to grumble, when Mrs Wilfer
+‘It’s all very fine,’ [[Lavinia]] began to grumble, when Mrs Wilfer
 repeated:
 
 ‘Hold! I will not allow this. Do you not know what is due to guests?
@@ -48,38 +48,38 @@ don’t care.’
 
 ‘Pardon me, but I do,’ returned Mrs Wilfer.
 
-Miss Lavinia laughed a short laugh as she muttered, ‘Yes, to be sure.’
+Miss [[Lavinia]] laughed a short laugh as she muttered, ‘Yes, to be sure.’
 
-‘And I require my audacious child,’ proceeded Mrs Wilfer, with a
+‘And I require my audacious [[Child|child]],’ proceeded Mrs Wilfer, with a
 withering look at her youngest, on whom it had not the slightest effect,
 ‘to please to be just to her sister Bella; to remember that her sister
 Bella is much sought after; and that when her sister Bella accepts an
 attention, she considers herself to be conferring qui-i-ite as much
-honour,’—this with an indignant shiver,—‘as she receives.’
+[[Honour|honour]],’—this with an indignant shiver,—‘as she receives.’
 
 But, here Miss Bella repudiated, and said quietly, ‘I can speak for
 myself; you know, ma. You needn’t bring ME in, please.’
 
-‘And it’s all very well aiming at others through convenient me,’ said
-the irrepressible Lavinia, spitefully; ‘but I should like to ask George
+‘And it’s all very [[Well|well]] aiming at others through convenient me,’ said
+the irrepressible [[Lavinia]], spitefully; ‘but I should like to ask George
 Sampson what he says to it.’
 
 ‘Mr Sampson,’ proclaimed Mrs Wilfer, seeing that young gentleman take
 his stopper out, and so darkly fixing him with her eyes as that he put
 it in again: ‘Mr Sampson, as a friend of this family and a frequenter of
-this house, is, I am persuaded, far too well-bred to interpose on such
+this [[house]], is, I am persuaded, far too [[Well|well]]-bred to interpose on such
 an invitation.’
 
 This exaltation of the young gentleman moved the conscientious Mrs
 Boffin to repentance for having done him an injustice in her mind, and
-consequently to saying that she and Mr Boffin would at any time be glad
+consequently to saying that she and Mr Boffin would at any [[Time|time]] be glad
 to see him; an attention which he handsomely acknowledged by replying,
 with his stopper unremoved, ‘Much obliged to you, but I’m always
-engaged, day and night.’
+engaged, day and [[Night|night]].’
 
 However, Bella compensating for all drawbacks by responding to the
 advances of the Boffins in an engaging way, that easy pair were on the
-whole well satisfied, and proposed to the said Bella that as soon as
+whole [[Well|well]] satisfied, and proposed to the said Bella that as soon as
 they should be in a condition to receive her in a manner suitable to
 their desires, Mrs Boffin should return with notice of the fact. This
 arrangement Mrs Wilfer sanctioned with a stately inclination of her
@@ -98,11 +98,11 @@ fellow IS Our Mutual Friend, now? Do you like him?’
 ‘Mr Rokesmith is very punctual, very quiet, a very eligible inmate.’
 
 ‘Because,’ Mr Boffin explained, ‘you must know that I’m not particularly
-well acquainted with Our Mutual Friend, for I have only seen him once.
-You give a good account of him. Is he at home?’
+[[Well|well]] acquainted with Our Mutual Friend, for I have only seen him once.
+You give a good account of him. Is he at [[Home|home]]?’
 
-‘Mr Rokesmith is at home,’ said Mrs Wilfer; ‘indeed,’ pointing through
-the window, ‘there he stands at the garden gate. Waiting for you,
+‘Mr Rokesmith is at [[Home|home]],’ said Mrs Wilfer; ‘indeed,’ pointing through
+the [[Window|window]], ‘there he stands at the [[Garden|garden]] gate. Waiting for you,
 perhaps?’
 
 ‘Perhaps so,’ replied Mr Boffin. ‘Saw me come in, maybe.’
@@ -117,10 +117,10 @@ She gave him good day, and he bestirred himself and helped her to her
 seat, and the like, with a ready hand.
 
 ‘Good-bye for the present, Miss Bella,’ said Mrs Boffin, calling out a
-hearty parting. ‘We shall meet again soon! And then I hope I shall have
-my little John Harmon to show you.’
+hearty parting. ‘We shall meet again soon! And then I [[Hope|hope]] I shall have
+my little [[John Harmon]] to show you.’
 
-Mr Rokesmith, who was at the wheel adjusting the skirts of her dress,
+Mr Rokesmith, who was at the [[Wheel|wheel]] adjusting the skirts of her dress,
 suddenly looked behind him, and around him, and then looked up at her,
 with a face so pale that Mrs Boffin cried:
 
@@ -128,14 +128,14 @@ with a face so pale that Mrs Boffin cried:
 
 ‘How can you show her the Dead?’ returned Mr Rokesmith.
 
-‘It’s only an adopted child. One I have told her of. One I’m going to
+‘It’s only an adopted [[Child|child]]. One I have told her of. One I’m going to
 give the name to!’
 
 ‘You took me by surprise,’ said Mr Rokesmith, ‘and it sounded like an
 omen, that you should speak of showing the Dead to one so young and
 blooming.’
 
-Now, Bella suspected by this time that Mr Rokesmith admired her. Whether
+Now, Bella suspected by this [[Time|time]] that Mr Rokesmith admired her. Whether
 the knowledge (for it was rather that than suspicion) caused her to
 incline to him a little more, or a little less, than she had done at
 first; whether it rendered her eager to find out more about him, because
@@ -144,12 +144,12 @@ to free him from it; was as yet dark to her own heart. But at most
 times he occupied a great amount of her attention, and she had set her
 attention closely on this incident.
 
-That he knew it as well as she, she knew as well as he, when they were
-left together standing on the path by the garden gate.
+That he knew it as [[Well|well]] as she, she knew as [[Well|well]] as he, when they were
+left together standing on the path by the [[Garden|garden]] gate.
 
 ‘Those are worthy people, Miss Wilfer.’
 
-‘Do you know them well?’ asked Bella.
+‘Do you know them [[Well|well]]?’ asked Bella.
 
 He smiled, reproaching her, and she coloured, reproaching herself—both,
 with the knowledge that she had meant to entrap him into an answer not
@@ -163,14 +163,14 @@ Bella was nervous now, and would have been glad to recall her question.
 
 ‘You thought it strange that, feeling much interested in you, I should
 start at what sounded like a proposal to bring you into contact with the
-murdered man who lies in his grave. I might have known—of course in a
+murdered man who lies in his [[Grave|grave]]. I might have known—of course in a
 moment should have known—that it could not have that meaning. But my
 interest remains.’
 
 Re-entering the family-room in a meditative state, Miss Bella was
-received by the irrepressible Lavinia with:
+received by the irrepressible [[Lavinia]] with:
 
-‘There, Bella! At last I hope you have got your wishes realized—by your
+‘There, Bella! At last I [[Hope|hope]] you have got your wishes realized—by your
 Boffins. You’ll be rich enough now—with your Boffins. You can have as
 much flirting as you like—at your Boffins. But you won’t take ME to
 your Boffins, I can tell you—you and your Boffins too!’
@@ -178,10 +178,10 @@ your Boffins, I can tell you—you and your Boffins too!’
 ‘If,’ quoth Mr George Sampson, moodily pulling his stopper out, ‘Miss
 Bella’s Mr Boffin comes any more of his nonsense to ME, I only wish him
 to understand, as betwixt man and man, that he does it at his per—’ and
-was going to say peril; but Miss Lavinia, having no confidence in his
+was going to say peril; but Miss [[Lavinia]], having no confidence in his
 mental powers, and feeling his oration to have no definite application
 to any circumstances, jerked his stopper in again, with a sharpness that
-made his eyes water.
+made his eyes [[Water|water]].
 
 And now the worthy Mrs Wilfer, having used her youngest daughter as a
 lay-figure for the edification of these Boffins, became bland to her,
@@ -190,7 +190,7 @@ which was still in reserve. This was, to illuminate the family with her
 remarkable powers as a physiognomist; powers that terrified R. W. when
 ever let loose, as being always fraught with gloom and evil which no
 inferior prescience was aware of. And this Mrs Wilfer now did, be it
-observed, in jealousy of these Boffins, in the very same moments when
+observed, in [[Jealousy|jealousy]] of these Boffins, in the very same moments when
 she was already reflecting how she would flourish these very same
 Boffins and the state they kept, over the heads of her Boffinless
 friends.

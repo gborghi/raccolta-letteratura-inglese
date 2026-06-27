@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 34 (part 3)"
+title: "Bleak [[house|House]] — Chapter 34 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,9 +19,9 @@ this obligation. But whatever I have been able to scrape together has
 gone every two months in keeping it up. We have lived plainly enough
 here, Phil and I. But the gallery don’t quite do what was expected of
 it, and it’s not—in short, it’s not the mint. It was wrong in me to
-take it? Well, so it was. But I was in a manner drawn into that step,
+take it? [[Well]], so it was. But I was in a manner drawn into that step,
 and I thought it might steady me, and set me up, and you’ll try to
-overlook my having such expectations, and upon my soul, I am very
+overlook my having such expectations, and upon my [[Soul|soul]], I am very
 much obliged to you, and very much ashamed of myself.” With these
 concluding words, Mr. George gives a shake to each of the hands he
 holds, and relinquishing them, backs a pace or two in a
@@ -45,7 +45,7 @@ sure you’ll bring him through it.”
 
 The trooper returns that this is kindly said and that he WILL bring
 Lignum through it somehow. Upon which Mrs. Bagnet, with her cloak,
-basket, and umbrella, goes home, bright-eyed again, to the rest of
+basket, and umbrella, goes [[Home|home]], bright-eyed again, to the rest of
 her family, and the comrades sally forth on the hopeful errand of
 mollifying Mr. Smallweed.
 
@@ -96,9 +96,9 @@ low—of such merits. But I never own to it before her. Discipline
 must be maintained.”
 
 These encomiums bring them to Mount Pleasant and to Grandfather
-Smallweed’s house. The door is opened by the perennial Judy, who,
+Smallweed’s [[house]]. The door is opened by the perennial Judy, who,
 having surveyed them from top to toe with no particular favour, but
-indeed with a malignant sneer, leaves them standing there while she
+indeed with a malignant sneer, [[Leaves|leaves]] them standing there while she
 consults the oracle as to their admission. The oracle may be inferred
 to give consent from the circumstance of her returning with the words
 on her honey lips that they can come in if they want to it. Thus
@@ -116,7 +116,7 @@ you know.”
 
 “Oh! Mr. Bagnet? Surely!” The old man looks at him under his hand.
 
-“Hope you’re well, Mr. Bagnet? Fine man, Mr. George! Military air,
+“[[Hope]] you’re [[Well|well]], Mr. Bagnet? Fine man, Mr. George! Military air,
 sir!”
 
 No chairs being offered, Mr. George brings one forward for Bagnet and
@@ -126,18 +126,18 @@ bending himself, except at the hips, for that purpose.
 “Judy,” says Mr. Smallweed, “bring the pipe.”
 
 “Why, I don’t know,” Mr. George interposes, “that the young woman
-need give herself that trouble, for to tell you the truth, I am not
+need give herself that trouble, for to tell you the [[Truth|truth]], I am not
 inclined to smoke it to-day.”
 
 “Ain’t you?” returns the old man. “Judy, bring the pipe.”
 
 “The fact is, Mr. Smallweed,” proceeds George, “that I find myself in
 rather an unpleasant state of mind. It appears to me, sir, that your
-friend in the city has been playing tricks.”
+friend in the [[City|city]] has been playing tricks.”
 
 “Oh, dear no!” says Grandfather Smallweed. “He never does that!”
 
-“Don’t he? Well, I am glad to hear it, because I thought it might be
+“Don’t he? [[Well]], I am glad to hear it, because I thought it might be
 HIS doing. This, you know, I am speaking of. This letter.”
 
 Grandfather Smallweed smiles in a very ugly way in recognition of the

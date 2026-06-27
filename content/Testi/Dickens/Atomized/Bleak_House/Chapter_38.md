@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 38"
+title: "Bleak [[house|House]] — Chapter 38"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,7 +19,7 @@ CHAPTER XXXVIII
 A Struggle
 
 
-When our time came for returning to Bleak House again, we were
+When our [[Time|time]] came for returning to Bleak [[house|House]] again, we were
 punctual to the day and were received with an overpowering welcome. I
 was perfectly restored to health and strength, and finding my
 housekeeping keys laid ready for me in my room, rang myself in as if
@@ -30,29 +30,29 @@ ought to be. That’s all I have to say to you, my dear!”
 
 The first few mornings were mornings of so much bustle and business,
 devoted to such settlements of accounts, such repeated journeys to
-and fro between the growlery and all other parts of the house, so
+and fro between the growlery and all other parts of the [[house]], so
 many rearrangements of drawers and presses, and such a general new
 beginning altogether, that I had not a moment’s leisure. But when
 these arrangements were completed and everything was in order, I paid
-a visit of a few hours to London, which something in the letter I had
+a visit of a few hours to [[London]], which something in the letter I had
 destroyed at Chesney Wold had induced me to decide upon in my own
 mind.
 
 I made Caddy Jellyby—her maiden name was so natural to me that I
 always called her by it—the pretext for this visit and wrote her a
 note previously asking the favour of her company on a little business
-expedition. Leaving home very early in the morning, I got to London
-by stage-coach in such good time that I got to Newman Street with the
+expedition. Leaving [[Home|home]] very early in the morning, I got to [[London]]
+by stage-coach in such good [[Time|time]] that I got to Newman Street with the
 day before me.
 
 Caddy, who had not seen me since her wedding-day, was so glad and so
-affectionate that I was half inclined to fear I should make her
+affectionate that I was half inclined to [[Fear|fear]] I should make her
 husband jealous. But he was, in his way, just as bad—I mean as good;
 and in short it was the old story, and nobody would leave me any
 possibility of doing anything meritorious.
 
 The elder Mr. Turveydrop was in bed, I found, and Caddy was
-milling his chocolate, which a melancholy little boy who was an
+milling his chocolate, which a [[Melancholy|melancholy]] little boy who was an
 apprentice—it seemed such a curious thing to be apprenticed to the
 trade of dancing—was waiting to carry upstairs. Her father-in-law
 was extremely kind and considerate, Caddy told me, and they lived
@@ -85,7 +85,7 @@ such a resting-place for it.
 
 “And you, Caddy,” said I, “you are always busy, I’ll be bound?”
 
-“Well, my dear,” returned Caddy, “I am indeed, for to tell you a
+“[[Well]], my dear,” returned Caddy, “I am indeed, for to tell you a
 grand secret, I am qualifying myself to give lessons. Prince’s health
 is not strong, and I want to be able to assist him. What with
 schools, and classes here, and private pupils, AND the apprentices,
@@ -98,20 +98,20 @@ Caddy if there were many of them.
 very good children; only when they get together they WILL
 play—children-like—instead of attending to their work. So the
 little boy you saw just now waltzes by himself in the empty kitchen,
-and we distribute the others over the house as well as we can.”
+and we distribute the others over the [[house]] as [[Well|well]] as we can.”
 
 “That is only for their steps, of course?” said I.
 
 “Only for their steps,” said Caddy. “In that way they practise, so
-many hours at a time, whatever steps they happen to be upon. They
-dance in the academy, and at this time of year we do figures at five
+many hours at a [[Time|time]], whatever steps they happen to be upon. They
+[[Dance|dance]] in the academy, and at this [[Time|time]] of year we do figures at five
 every morning.”
 
 “Why, what a laborious life!” I exclaimed.
 
 “I assure you, my dear,” returned Caddy, smiling, “when the out-door
 apprentices ring us up in the morning (the bell rings into our room,
-not to disturb old Mr. Turveydrop), and when I put up the window and
+not to disturb old Mr. Turveydrop), and when I put up the [[Window|window]] and
 see them standing on the door-step with their little pumps under
 their arms, I am actually reminded of the Sweeps.”
 
@@ -121,7 +121,7 @@ recounted the particulars of her own studies.
 
 “You see, my dear, to save expense I ought to know something of the
 piano, and I ought to know something of the kit too, and consequently
-I have to practise those two instruments as well as the details of
+I have to practise those two instruments as [[Well|well]] as the details of
 our profession. If Ma had been like anybody else, I might have had
 some little musical knowledge to begin upon. However, I hadn’t any;
 and that part of the work is, at first, a little discouraging, I must
@@ -136,25 +136,25 @@ said, “Don’t laugh at me, please; that’s a dear girl!”
 I would sooner have cried, but I did neither. I encouraged her and
 praised her with all my heart. For I conscientiously believed,
 dancing-master’s wife though she was, and dancing-mistress though in
-her limited ambition she aspired to be, she had struck out a natural,
+her limited [[Ambition|ambition]] she aspired to be, she had struck out a natural,
 wholesome, loving course of industry and perseverance that was quite
 as good as a mission.
 
 “My dear,” said Caddy, delighted, “you can’t think how you cheer me.
 I shall owe you, you don’t know how much. What changes, Esther, even
-in my small world! You recollect that first night, when I was so
+in my small world! You recollect that first [[Night|night]], when I was so
 unpolite and inky? Who would have thought, then, of my ever teaching
-people to dance, of all other possibilities and impossibilities!”
+people to [[Dance|dance]], of all other possibilities and impossibilities!”
 
 Her husband, who had left us while we had this chat, now coming back,
 preparatory to exercising the apprentices in the ball-room, Caddy
-informed me she was quite at my disposal. But it was not my time yet,
+informed me she was quite at my disposal. But it was not my [[Time|time]] yet,
 I was glad to tell her, for I should have been vexed to take her away
 then. Therefore we three adjourned to the apprentices together, and I
-made one in the dance.
+made one in the [[Dance|dance]].
 
 The apprentices were the queerest little people. Besides the
-melancholy boy, who, I hoped, had not been made so by waltzing alone
+[[Melancholy|melancholy]] boy, who, I hoped, had not been made so by waltzing [[Alone|alone]]
 in the empty kitchen, there were two other boys and one dirty little
 limp girl in a gauzy dress. Such a precocious little girl, with such
 a dowdy bonnet on (that, too, of a gauzy texture), who brought her
@@ -166,34 +166,34 @@ feet—and heels particularly.
 I asked Caddy what had made their parents choose this profession for
 them. Caddy said she didn’t know; perhaps they were designed for
 teachers, perhaps for the stage. They were all people in humble
-circumstances, and the melancholy boy’s mother kept a ginger-beer
+circumstances, and the [[Melancholy|melancholy]] boy’s mother kept a ginger-beer
 shop.
 
-We danced for an hour with great gravity, the melancholy child doing
+We danced for an hour with great gravity, the [[Melancholy|melancholy]] [[Child|child]] doing
 wonders with his lower extremities, in which there appeared to be
-some sense of enjoyment though it never rose above his waist. Caddy,
+some sense of enjoyment though it never [[Rose|rose]] above his waist. Caddy,
 while she was observant of her husband and was evidently founded upon
-him, had acquired a grace and self-possession of her own, which,
+him, had acquired a grace and [[Self|self]]-possession of her own, which,
 united to her pretty face and figure, was uncommonly agreeable. She
 already relieved him of much of the instruction of these young
 people, and he seldom interfered except to walk his part in the
 figure if he had anything to do in it. He always played the tune. The
-affectation of the gauzy child, and her condescension to the boys,
-was a sight. And thus we danced an hour by the clock.
+affectation of the gauzy [[Child|child]], and her condescension to the boys,
+was a sight. And thus we danced an hour by the [[Clock|clock]].
 
 When the practice was concluded, Caddy’s husband made himself ready
 to go out of town to a school, and Caddy ran away to get ready to go
 out with me. I sat in the ball-room in the interval, contemplating
 the apprentices. The two out-door boys went upon the staircase to put
 on their half-boots and pull the in-door boy’s hair, as I judged from
-the nature of his objections. Returning with their jackets buttoned
+the [[Nature|nature]] of his objections. Returning with their jackets buttoned
 and their pumps stuck in them, they then produced packets of cold
 bread and meat and bivouacked under a painted lyre on the wall. The
-little gauzy child, having whisked her sandals into the reticule and
+little gauzy [[Child|child]], having whisked her sandals into the reticule and
 put on a trodden-down pair of shoes, shook her head into the dowdy
 bonnet at one shake, and answering my inquiry whether she liked
 dancing by replying, “Not with boys,” tied it across her chin, and
-went home contemptuous.
+went [[Home|home]] contemptuous.
 
 “Old Mr. Turveydrop is so sorry,” said Caddy, “that he has not
 finished dressing yet and cannot have the pleasure of seeing you
@@ -202,7 +202,7 @@ before you go. You are such a favourite of his, Esther.”
 I expressed myself much obliged to him, but did not think it
 necessary to add that I readily dispensed with this attention.
 
-“It takes him a long time to dress,” said Caddy, “because he is very
+“It takes him a long [[Time|time]] to dress,” said Caddy, “because he is very
 much looked up to in such things, you know, and has a reputation to
 support. You can’t think how kind he is to Pa. He talks to Pa of an
 evening about the Prince Regent, and I never saw Pa so interested.”
@@ -226,22 +226,22 @@ appeared to me to be one of the pleasantest of oddities.
 “As to Peepy,” said Caddy with a little hesitation, “whom I was most
 afraid of—next to having any family of my own, Esther—as an
 inconvenience to Mr. Turveydrop, the kindness of the old gentleman to
-that child is beyond everything. He asks to see him, my dear! He lets
+that [[Child|child]] is beyond everything. He asks to see him, my dear! He lets
 him take the newspaper up to him in bed; he gives him the crusts of
-his toast to eat; he sends him on little errands about the house; he
+his toast to eat; he sends him on little errands about the [[house]]; he
 tells him to come to me for sixpences. In short,” said Caddy
 cheerily, “and not to prose, I am a very fortunate girl and ought to
 be very grateful. Where are we going, Esther?”
 
-“To the Old Street Road,” said I, “where I have a few words to say to
+“To the Old Street [[Road]],” said I, “where I have a few words to say to
 the solicitor’s clerk who was sent to meet me at the coach-office on
-the very day when I came to London and first saw you, my dear. Now I
-think of it, the gentleman who brought us to your house.”
+the very day when I came to [[London]] and first saw you, my dear. Now I
+think of it, the gentleman who brought us to your [[house]].”
 
 “Then, indeed, I seem to be naturally the person to go with you,”
 returned Caddy.
 
-To the Old Street Road we went and there inquired at Mrs. Guppy’s
+To the Old Street [[Road]] we went and there inquired at Mrs. Guppy’s
 residence for Mrs. Guppy. Mrs. Guppy, occupying the parlours and
 having indeed been visibly in danger of cracking herself like a nut
 in the front-parlour door by peeping out before she was asked for,
@@ -276,7 +276,7 @@ breast-pocket, putting it to his lips, and returning it to his pocket
 with a bow. Mr. Guppy’s mother was so diverted that she rolled her
 head as she smiled and made a silent appeal to Caddy with her elbow.
 
-“Could I speak to you alone for a moment?” said I.
+“Could I speak to you [[Alone|alone]] for a moment?” said I.
 
 Anything like the jocoseness of Mr. Guppy’s mother just now, I think
 I never saw. She made no sound of laughter, but she rolled her head,
@@ -304,19 +304,19 @@ such faltering, such confusion, such amazement and apprehension.
 
 “Miss Summerson,” stammered Mr. Guppy, “I—I—beg your pardon, but in
 our profession—we—we—find it necessary to be explicit. You have
-referred to an occasion, miss, when I—when I did myself the honour
+referred to an occasion, miss, when I—when I did myself the [[Honour|honour]]
 of making a declaration which—”
 
 Something seemed to rise in his throat that he could not possibly
-swallow. He put his hand there, coughed, made faces, tried again to
-swallow it, coughed again, made faces again, looked all round the
+[[Swallow|swallow]]. He put his hand there, coughed, made faces, tried again to
+[[Swallow|swallow]] it, coughed again, made faces again, looked all round the
 room, and fluttered his papers.
 
 “A kind of giddy sensation has come upon me, miss,” he explained,
 “which rather knocks me over. I—er—a little subject to this sort of
 thing—er—by George!”
 
-I gave him a little time to recover. He consumed it in putting his
+I gave him a little [[Time|time]] to recover. He consumed it in putting his
 hand to his forehead and taking it away again, and in backing his
 chair into the corner behind him.
 
@@ -327,7 +327,7 @@ You—you wouldn’t perhaps object to admit that? Though no witnesses
 are present, it might be a satisfaction to—to your mind—if you was
 to put in that admission.”
 
-“There can be no doubt,” said I, “that I declined your proposal
+“There can be no [[Doubt|doubt]],” said I, “that I declined your proposal
 without any reservation or qualification whatever, Mr. Guppy.”
 
 “Thank you, miss,” he returned, measuring the table with his troubled
@@ -350,7 +350,7 @@ miss?” said Mr. Guppy.
 regret that my arrangements in life, combined with circumstances over
 which I have no control, will put it out of my power ever to fall
 back upon that offer or to renew it in any shape or form whatever,
-but it will ever be a retrospect entwined—er—with friendship’s
+but it will ever be a retrospect entwined—er—with [[Friendship|friendship]]’s
 bowers.” Mr. Guppy’s bronchitis came to his relief and stopped his
 measurement of the table.
 
@@ -371,18 +371,18 @@ anything.”
 have the means of advancing my interests and promoting my fortunes by
 making discoveries of which I should be the subject. I presume that
 you founded that belief upon your general knowledge of my being an
-orphan girl, indebted for everything to the benevolence of Mr.
+[[Orphan|orphan]] girl, indebted for everything to the benevolence of Mr.
 Jarndyce. Now, the beginning and the end of what I have come to beg
 of you is, Mr. Guppy, that you will have the kindness to relinquish
 all idea of so serving me. I have thought of this sometimes, and I
 have thought of it most lately—since I have been ill. At length I
-have decided, in case you should at any time recall that purpose and
+have decided, in case you should at any [[Time|time]] recall that purpose and
 act upon it in any way, to come to you and assure you that you are
 altogether mistaken. You could make no discovery in reference to me
 that would do me the least service or give me the least pleasure. I
-am acquainted with my personal history, and I have it in my power to
+am acquainted with my personal [[history]], and I have it in my power to
 assure you that you never can advance my welfare by such means. You
-may, perhaps, have abandoned this project a long time. If so, excuse
+may, perhaps, have abandoned this project a long [[Time|time]]. If so, excuse
 my giving you unnecessary trouble. If not, I entreat you, on the
 assurance I have given you, henceforth to lay it aside. I beg you to
 do this, for my peace.”
@@ -407,21 +407,21 @@ possible because you announced this impression of yours to me in a
 confidence which I have really wished to respect—and which I always
 have respected, as you remember. I have mentioned my illness. There
 really is no reason why I should hesitate to say that I know very
-well that any little delicacy I might have had in making a request to
+[[Well|well]] that any little delicacy I might have had in making a request to
 you is quite removed. Therefore I make the entreaty I have now
-preferred, and I hope you will have sufficient consideration for me
+preferred, and I [[Hope|hope]] you will have sufficient consideration for me
 to accede to it.”
 
 I must do Mr. Guppy the further justice of saying that he had looked
 more and more ashamed and that he looked most ashamed and very
 earnest when he now replied with a burning face, “Upon my word and
-honour, upon my life, upon my soul, Miss Summerson, as I am a living
+[[Honour|honour]], upon my life, upon my [[Soul|soul]], Miss Summerson, as I am a living
 man, I’ll act according to your wish! I’ll never go another step in
 opposition to it. I’ll take my oath to it if it will be any
-satisfaction to you. In what I promise at this present time touching
+satisfaction to you. In what I promise at this present [[Time|time]] touching
 the matters now in question,” continued Mr. Guppy rapidly, as if he
-were repeating a familiar form of words, “I speak the truth, the
-whole truth, and nothing but the truth, so—”
+were repeating a familiar form of words, “I speak the [[Truth|truth]], the
+whole [[Truth|truth]], and nothing but the [[Truth|truth]], so—”
 
 “I am quite satisfied,” said I, rising at this point, “and I thank
 you very much. Caddy, my dear, I am ready!”
@@ -429,12 +429,12 @@ you very much. Caddy, my dear, I am ready!”
 Mr. Guppy’s mother returned with Caddy (now making me the recipient
 of her silent laughter and her nudges), and we took our leave. Mr.
 Guppy saw us to the door with the air of one who was either
-imperfectly awake or walking in his sleep; and we left him there,
+imperfectly awake or walking in his [[Sleep|sleep]]; and we left him there,
 staring.
 
 But in a minute he came after us down the street without any hat, and
 with his long hair all blown about, and stopped us, saying fervently,
-“Miss Summerson, upon my honour and soul, you may depend upon me!”
+“Miss Summerson, upon my [[Honour|honour]] and [[Soul|soul]], you may depend upon me!”
 
 “I do,” said I, “quite confidently.”
 
@@ -443,13 +443,13 @@ staying with the other, “but this lady being present—your own
 witness—it might be a satisfaction to your mind (which I should wish
 to set at rest) if you was to repeat those admissions.”
 
-“Well, Caddy,” said I, turning to her, “perhaps you will not be
+“[[Well]], Caddy,” said I, turning to her, “perhaps you will not be
 surprised when I tell you, my dear, that there never has been any
 engagement—”
 
-“No proposal or promise of marriage whatsoever,” suggested Mr. Guppy.
+“No proposal or promise of [[Marriage|marriage]] whatsoever,” suggested Mr. Guppy.
 
-“No proposal or promise of marriage whatsoever,” said I, “between
+“No proposal or promise of [[Marriage|marriage]] whatsoever,” said I, “between
 this gentleman—”
 
 “William Guppy, of Penton Place, Pentonville, in the county of
@@ -465,24 +465,24 @@ I gave them.
 
 “Married woman, I believe?” said Mr. Guppy. “Married woman. Thank
 you. Formerly Caroline Jellyby, spinster, then of Thavies Inn, within
-the city of London, but extra-parochial; now of Newman Street, Oxford
+the [[City|city]] of [[London]], but extra-parochial; now of Newman Street, [[Oxford]]
 Street. Much obliged.”
 
-He ran home and came running back again.
+He ran [[Home|home]] and came running back again.
 
 “Touching that matter, you know, I really and truly am very sorry
 that my arrangements in life, combined with circumstances over which
 I have no control, should prevent a renewal of what was wholly
-terminated some time back,” said Mr. Guppy to me forlornly and
+terminated some [[Time|time]] back,” said Mr. Guppy to me forlornly and
 despondently, “but it couldn’t be. Now COULD it, you know! I only put
 it to you.”
 
 I replied it certainly could not. The subject did not admit of a
-doubt. He thanked me and ran to his mother’s again—and back again.
+[[Doubt|doubt]]. He thanked me and ran to his mother’s again—and back again.
 
 “It’s very honourable of you, miss, I am sure,” said Mr. Guppy. “If
-an altar could be erected in the bowers of friendship—but, upon my
-soul, you may rely upon me in every respect save and except the
+an altar could be erected in the bowers of [[Friendship|friendship]]—but, upon my
+[[Soul|soul]], you may rely upon me in every respect save and except the
 tender passion only!”
 
 The struggle in Mr. Guppy’s breast and the numerous oscillations it

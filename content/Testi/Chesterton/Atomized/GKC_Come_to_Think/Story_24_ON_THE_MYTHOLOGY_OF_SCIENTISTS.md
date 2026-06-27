@@ -95,15 +95,15 @@ anything resembling an idea, he answers with some recognized metaphor,
 supposed to be appropriate to the case.  If you say to him,
 `I myself prefer the principle of the Guild to the principle
 of the Trust,' he will not answer you by talking about principles.
-He can be counted on to say, `You can't put the clock back,'
-with all the regularity of a ticking clock.  This is a very extreme
+He can be counted on to say, `You can't put the [[Clock|clock]] back,'
+with all the regularity of a ticking [[Clock|clock]].  This is a very extreme
 example of the mental break down that goes with a relapse into metaphor.
-For the man is actually understating his own case out of sheer love
-of metaphor.  It may be that you can not put time back, but you can
-put the clock back.  He would be in a stronger position if he talked
-about the abstraction called time; but an all-devouring appetite
+For the man is actually understating his own case out of sheer [[Love|love]]
+of metaphor.  It may be that you can not put [[Time|time]] back, but you can
+put the [[Clock|clock]] back.  He would be in a stronger position if he talked
+about the abstraction called [[Time|time]]; but an all-devouring appetite
 for figurative language forces him to talk about clocks.  Of course,
-the real question raised has nothing to do with either clocks or time.
+the real question raised has nothing to do with either clocks or [[Time|time]].
 It is the question of whether certain abstract principles, which may
 or may not have been observed in the past, ought to be observed
 in the future.  But the point is here that even the man who means
@@ -116,22 +116,22 @@ or the fact that the sun rises; or, rather (I grovel in apology
 to the man of science), appears to rise.  It is a perfectly natural
 metaphor for poets; or, indeed, for all men, in that aspect in which
 all men are mystics.  That there is a mystery in these natural things,
-which the imagination understands more subtly than the reason,
+which the [[Imagination|imagination]] understands more subtly than the reason,
 is true enough.  Nor have I any contempt even for mythology considered
 as mythology.  But when we want to know what somebody wants to do,
 when we ask a free-thinker what he thinks, and why he thinks it,
-it is a little tiresome to be told that he is waiting for the Dawn,
-or engaged at the moment in singing Songs Before Sunrise.
-One is tempted to retort that Dawn is not always an entirely
+it is a little tiresome to be told that he is waiting for the [[Dawn]],
+or engaged at the moment in singing [[songs|Songs]] Before Sunrise.
+One is tempted to retort that [[Dawn]] is not always an entirely
 cheerful thing, even for those who have exercised their free
 thought upon the conventional traditions of their own society.
-There is such a thing as being shot at Dawn.
+There is such a thing as being shot at [[Dawn]].
 
 I do not mean for a moment, of course, that we should do without
 myths and metaphors altogether.  I am constantly using them myself,
 and shall continue to do so.  But I think we ought all to be on
 our guard against depending on them as a substitute for reason.
-Perhaps it would be well to have a Fast Day, on which we undertook
+Perhaps it would be [[Well|well]] to have a Fast Day, on which we undertook
 to abstain from every thing but abstract terms.  Let us all agree
 that every Friday we will do without metaphors as without meat.
 I am sure it would be good for the intellectual digestion.

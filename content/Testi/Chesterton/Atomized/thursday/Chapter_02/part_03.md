@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 2 (part 3)"
+title: "[[thursday]] — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -23,15 +23,15 @@ Gregory smiled in deprecation, and walked across the room, talking rapidly.
 he said, "and the ceremony will probably be the shortest possible."
 
 Syme also strolled across to the table, and found lying across it
-a walking-stick, which turned out on examination to be a sword-stick,
+a walking-stick, which turned out on examination to be a [[Sword|sword]]-stick,
 a large Colt's revolver, a sandwich case, and a formidable flask of brandy.
 Over the chair, beside the table, was thrown a heavy-looking cape or cloak.
 
 "I have only to get the form of election finished," continued Gregory
 with animation, "then I snatch up this cloak and stick, stuff these
 other things into my pocket, step out of a door in this cavern,
-which opens on the river, where there is a steam-tug already waiting
-for me, and then--then--oh, the wild joy of being Thursday!"  And he
+which opens on the [[River|river]], where there is a steam-tug already waiting
+for me, and then--then--oh, the wild joy of being [[thursday|Thursday]]!"  And he
 clasped his hands.
 
 Syme, who had sat down once more with his usual insolent languor,
@@ -41,9 +41,9 @@ got to his feet with an unusual air of hesitation.
 Why do I positively like you, Gregory?"  He paused a moment, and then added
 with a sort of fresh curiosity, "Is it because you are such an ass?"
 
-There was a thoughtful silence again, and then he cried out--
+There was a thoughtful [[Silence|silence]] again, and then he cried out--
 
-"Well, damn it all! this is the funniest situation I have
+"[[Well]], damn it all! this is the funniest situation I have
 ever been in in my life, and I am going to act accordingly.
 Gregory, I gave you a promise before I came into this place.
 That promise I would keep under red-hot pincers.  Would you give me,
@@ -67,20 +67,20 @@ Gregory glared at him gravely for a few moments, and then said abruptly--
 Yes, I will swear not to tell the anarchists anything you tell me.
 But look sharp, for they will be here in a couple of minutes."
 
-Syme rose slowly to his feet and thrust his long, white hands into his long,
+Syme [[Rose|rose]] slowly to his feet and thrust his long, white hands into his long,
 grey trousers' pockets.  Almost as he did so there came five knocks on
 the outer grating, proclaiming the arrival of the first of the conspirators.
 
-"Well," said Syme slowly, "I don't know how to tell you the truth more
+"[[Well]]," said Syme slowly, "I don't know how to tell you the [[Truth|truth]] more
 shortly than by saying that your expedient of dressing up as an aimless
 poet is not confined to you or your President.  We have known the dodge
-for some time at Scotland Yard."
+for some [[Time|time]] at Scotland Yard."
 
-Gregory tried to spring up straight, but he swayed thrice.
+Gregory tried to [[spring]] up straight, but he swayed thrice.
 
 "What do you say?" he asked in an inhuman voice.
 
-"Yes," said Syme simply, "I am a police detective.
+"Yes," said Syme simply, "I am a police [[Detective|detective]].
 But I think I hear your friends coming."
 
 From the doorway there came a murmur of "Mr. Joseph Chamberlain."  It was

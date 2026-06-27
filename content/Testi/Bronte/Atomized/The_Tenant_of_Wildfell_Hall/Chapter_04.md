@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 4"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 4"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,27 +20,27 @@ tags:
 
 
 
-Our party, on the 5th of November, passed off very well, in spite of
+Our party, on the 5th of November, passed off very [[Well|well]], in spite of
 
 Mrs. Graham’s refusal to grace it with her presence. Indeed, it is
 
 probable that, had she been there, there would have been less
 
-cordiality, freedom, and frolic amongst us than there was without her.
+cordiality, [[Freedom|freedom]], and frolic amongst us than there was without her.
 
 
 
 My mother, as usual, was cheerful and chatty, full of activity and
 
-good-nature, and only faulty in being too anxious to make her guests
+good-[[Nature|nature]], and only faulty in being too anxious to make her guests
 
-happy, thereby forcing several of them to do what their soul abhorred
+happy, thereby forcing several of them to do what their [[Soul|soul]] abhorred
 
-in the way of eating or drinking, sitting opposite the blazing fire, or
+in the way of eating or drinking, sitting opposite the blazing [[Fire|fire]], or
 
 talking when they would be silent. Nevertheless, they bore it very
 
-well, being all in their holiday humours.
+[[Well|well]], being all in their holiday humours.
 
 
 
@@ -52,7 +52,7 @@ edification of the whole assembly in general, and of the admiring Mrs.
 
 Markham, the polite Mr. Lawrence, the sedate Mary Millward, the quiet
 
-Richard Wilson, and the matter-of-fact Robert in particular,—as being
+[[Richard]] Wilson, and the matter-of-fact Robert in particular,—as being
 
 the most attentive listeners.
 
@@ -86,13 +86,13 @@ subjugation were too subtle and impalpable to attract my observation;
 
 but I thought there was a certain _refined_ affectation of superiority,
 
-and an ungenial self-consciousness about her, that negatived all her
+and an ungenial [[Self|self]]-consciousness about her, that negatived all her
 
-advantages; and after she was gone, Rose interpreted to me her various
+advantages; and after she was gone, [[Rose]] interpreted to me her various
 
 looks, words, and actions with a mingled acuteness and asperity that
 
-made me wonder, equally, at the lady’s artifice and my sister’s
+made me [[Wonder|wonder]], equally, at the lady’s artifice and my sister’s
 
 penetration, and ask myself if she too had an eye to the squire—but
 
@@ -100,7 +100,7 @@ never mind, Halford; she had not.
 
 
 
-Richard Wilson, Jane’s younger brother, sat in a corner, apparently
+[[Richard]] Wilson, Jane’s younger brother, sat in a corner, apparently
 
 good-tempered, but silent and shy, desirous to escape observation, but
 
@@ -108,7 +108,7 @@ willing enough to listen and observe: and, although somewhat out of his
 
 element, he would have been happy enough in his own quiet way, if my
 
-mother could only have let him alone; but in her mistaken kindness, she
+mother could only have let him [[Alone|alone]]; but in her mistaken kindness, she
 
 would keep persecuting him with her attentions—pressing upon him all
 
@@ -122,7 +122,7 @@ attempted to draw him into conversation.
 
 
 
-Rose informed me that he never would have favoured us with his company
+[[Rose]] informed me that he never would have favoured us with his company
 
 but for the importunities of his sister Jane, who was most anxious to
 
@@ -134,11 +134,11 @@ solicitous to keep away; but he affirmed that he saw no reason why he
 
 should not enjoy a crack with Markham and the old lady (my mother was
 
-not old, really), and bonny Miss Rose and the parson, as well as the
+not old, really), and bonny Miss [[Rose]] and the parson, as [[Well|well]] as the
 
 best;—and he was in the right of it too. So he talked common-place with
 
-my mother and Rose, and discussed parish affairs with the vicar,
+my mother and [[Rose]], and discussed parish affairs with the vicar,
 
 farming matters with me, and politics with us both.
 
@@ -160,13 +160,13 @@ having taken it into his head that she devoted herself too exclusively
 
 to her household duties, to the neglect of such relaxations and
 
-innocent enjoyments as were proper to her age and sex. She seemed to me
+[[Innocent|innocent]] enjoyments as were proper to her age and sex. She seemed to me
 
 to be good-humoured enough on the whole. Once or twice she was provoked
 
 to laughter by the wit or the merriment of some favoured individual
 
-amongst us; and then I observed she sought the eye of Richard Wilson,
+amongst us; and then I observed she sought the eye of [[Richard]] Wilson,
 
 who sat over against her. As he studied with her father, she had some
 
@@ -184,7 +184,7 @@ that of all the room besides. Her delight in having me near her, seated
 
 or standing by her side, whispering in her ear, or pressing her hand in
 
-the dance, was plainly legible in her glowing face and heaving bosom,
+the [[Dance|dance]], was plainly legible in her glowing face and heaving bosom,
 
 however belied by saucy words and gestures. But I had better hold my
 
@@ -194,7 +194,7 @@ hereafter.
 
 
 
-To proceed, then, with the various individuals of our party; Rose was
+To proceed, then, with the various individuals of our party; [[Rose]] was
 
 simple and natural as usual, and full of mirth and vivacity.
 
@@ -220,15 +220,15 @@ tolerably intimate terms. Essentially of reserved habits, and but
 
 seldom quitting the secluded place of his birth, where he had lived in
 
-solitary state since the death of his father, he had neither the
+solitary state since the [[Death|death]] of his father, he had neither the
 
 opportunity nor the inclination for forming many acquaintances; and, of
 
 all he had ever known, I (judging by the results) was the companion
 
-most agreeable to his taste. I liked the man well enough, but he was
+most agreeable to his taste. I liked the man [[Well|well]] enough, but he was
 
-too cold, and shy, and self-contained, to obtain my cordial sympathies.
+too cold, and shy, and [[Self|self]]-contained, to obtain my cordial sympathies.
 
 A spirit of candour and frankness, when wholly unaccompanied with
 
@@ -238,7 +238,7 @@ His excessive reserve upon all his own concerns was, indeed, provoking
 
 and chilly enough; but I forgave it, from a conviction that it
 
-originated less in pride and want of confidence in his friends, than in
+originated less in [[Pride|pride]] and want of confidence in his friends, than in
 
 a certain morbid feeling of delicacy, and a peculiar diffidence, that
 
@@ -248,23 +248,23 @@ sensitive plant, that opens for a moment in the sunshine, but curls up
 
 and shrinks into itself at the slightest touch of the finger, or the
 
-lightest breath of wind. And, upon the whole, our intimacy was rather a
+lightest breath of [[Wind|wind]]. And, upon the whole, our intimacy was rather a
 
-mutual predilection than a deep and solid friendship, such as has since
+mutual predilection than a deep and solid [[Friendship|friendship]], such as has since
 
 arisen between myself and you, Halford, whom, in spite of your
 
-occasional crustiness, I can liken to nothing so well as an old coat,
+occasional crustiness, I can liken to nothing so [[Well|well]] as an old coat,
 
 unimpeachable in texture, but easy and loose—that has conformed itself
 
 to the shape of the wearer, and which he may use as he pleases, without
 
-being bothered with the fear of spoiling it;—whereas Mr. Lawrence was
+being bothered with the [[Fear|fear]] of spoiling it;—whereas Mr. Lawrence was
 
 like a new garment, all very neat and trim to look at, but so tight in
 
-the elbows, that you would fear to split the seams by the unrestricted
+the elbows, that you would [[Fear|fear]] to split the seams by the unrestricted
 
 motion of your arms, and so smooth and fine in surface that you scruple
 
@@ -282,7 +282,7 @@ return their calls, hoping they would excuse her, as she was sure she
 
 did not mean to be uncivil, and would be glad to see them at any
 
-time.—“But she is a very singular lady, Mr. Lawrence,” added she; “we
+[[Time|time]].—“But she is a very singular lady, Mr. Lawrence,” added she; “we
 
 don’t know what to make of her—but I daresay you can tell us something
 
@@ -306,9 +306,9 @@ information respecting Mrs. Graham.”
 
 
 
-He then immediately turned to Rose, and asked her to favour the company
+He then immediately turned to [[Rose]], and asked her to favour the company
 
-with a song, or a tune on the piano.
+with a [[Song|song]], or a tune on the piano.
 
 
 
@@ -324,7 +324,7 @@ Miss Wilson demurred.
 
 “_She’ll_ sing readily enough,” said Fergus, “if you’ll undertake to
 
-stand by her, Mr. Lawrence, and turn over the leaves for her.”
+stand by her, Mr. Lawrence, and turn over the [[Leaves|leaves]] for her.”
 
 
 
@@ -338,7 +338,7 @@ the instrument, where she played and sang, in her very best style, one
 
 piece after another; while he stood patiently by, leaning one hand on
 
-the back of her chair, and turning over the leaves of her book with the
+the back of her chair, and turning over the [[Leaves|leaves]] of her book with the
 
 other. Perhaps he was as much charmed with her performance as she was.
 
@@ -356,9 +356,9 @@ But we had not done with Mrs. Graham yet.
 
 “I don’t take wine, Mrs. Markham,” said Mr. Millward, upon the
 
-introduction of that beverage; “I’ll take a little of your home-brewed
+introduction of that beverage; “I’ll take a little of your [[Home|home]]-brewed
 
-ale. I always prefer your home-brewed to anything else.”
+ale. I always prefer your [[Home|home]]-brewed to anything else.”
 
 
 
@@ -366,7 +366,7 @@ Flattered at this compliment, my mother rang the bell, and a china jug
 
 of our best ale was presently brought and set before the worthy
 
-gentleman who so well knew how to appreciate its excellences.
+gentleman who so [[Well|well]] knew how to appreciate its excellences.
 
 
 
@@ -386,13 +386,13 @@ on with the greatest satisfaction.
 
 “There’s nothing like this, Mrs. Markham!” said he. “I always maintain
 
-that there’s nothing to compare with your home-brewed ale.”
+that there’s nothing to compare with your [[Home|home]]-brewed ale.”
 
 
 
 “I’m sure I’m glad you like it, sir. I always look after the brewing
 
-myself, as well as the cheese and the butter—I like to have things well
+myself, as [[Well|well]] as the [[cheese]] and the butter—I like to have things [[Well|well]]
 
 done, while we’re about it.”
 
@@ -406,7 +406,7 @@ done, while we’re about it.”
 
 wine now and then—or a little spirits either!” said my mother, as she
 
-handed a smoking tumbler of gin-and-water to Mrs. Wilson, who affirmed
+handed a smoking tumbler of gin-and-[[Water|water]] to Mrs. Wilson, who affirmed
 
 that wine sat heavy on her stomach, and whose son Robert was at that
 
@@ -438,9 +438,9 @@ concluding with, “Now, don’t you think it is wrong?”
 
 “Wrong!” repeated the vicar, with more than common solemnity—“criminal,
 
-I should say—criminal! Not only is it making a fool of the boy, but it
+I should say—criminal! Not only is it making a [[Fool|fool]] of the boy, but it
 
-is despising the gifts of Providence, and teaching him to trample them
+is despising the gifts of [[Providence]], and teaching him to trample them
 
 under his feet.”
 
@@ -452,9 +452,9 @@ the folly and impiety of such a proceeding. My mother heard him with
 
 profoundest reverence; and even Mrs. Wilson vouchsafed to rest her
 
-tongue for a moment, and listen in silence, while she complacently
+tongue for a moment, and listen in [[Silence|silence]], while she complacently
 
-sipped her gin-and-water. Mr. Lawrence sat with his elbow on the table,
+sipped her gin-and-[[Water|water]]. Mr. Lawrence sat with his elbow on the table,
 
 carelessly playing with his half-empty wine-glass, and covertly smiling
 
@@ -464,7 +464,7 @@ to himself.
 
 “But don’t you think, Mr. Millward,” suggested he, when at length that
 
-gentleman paused in his discourse, “that when a child may be naturally
+gentleman paused in his discourse, “that when a [[Child|child]] may be naturally
 
 prone to intemperance—by the fault of its parents or ancestors, for
 
@@ -494,7 +494,7 @@ intoxicating liquors; but a parent’s authority cannot last for ever;
 
 children are naturally prone to hanker after forbidden things; and a
 
-child, in such a case, would be likely to have a strong curiosity to
+[[Child|child]], in such a case, would be likely to have a strong curiosity to
 
 taste, and try the effect of what has been so lauded and enjoyed by
 
@@ -508,11 +508,11 @@ pretend to be a judge of such matters, but it seems to me, that this
 
 plan of Mrs. Graham’s, as you describe it, Mrs. Markham, extraordinary
 
-as it may be, is not without its advantages; for here you see the child
+as it may be, is not without its advantages; for here you see the [[Child|child]]
 
-is delivered at once from temptation; he has no secret curiosity, no
+is delivered at once from [[Temptation|temptation]]; he has no secret curiosity, no
 
-hankering desire; he is as well acquainted with the tempting liquors as
+hankering [[Desire|desire]]; he is as [[Well|well]] acquainted with the tempting liquors as
 
 he ever wishes to be; and is thoroughly disgusted with them, without
 
@@ -522,27 +522,27 @@ having suffered from their effects.”
 
 “And is that right, sir? Have I not proven to you how wrong it is—how
 
-contrary to Scripture and to reason, to teach a child to look with
+contrary to Scripture and to reason, to teach a [[Child|child]] to look with
 
-contempt and disgust upon the blessings of Providence, instead of to
+contempt and disgust upon the blessings of [[Providence]], instead of to
 
 use them aright?”
 
 
 
-“You may consider laudanum a blessing of Providence, sir,” replied Mr.
+“You may consider laudanum a blessing of [[Providence]], sir,” replied Mr.
 
 Lawrence, smiling; “and yet, you will allow that most of us had better
 
 abstain from it, even in moderation; but,” added he, “I would not
 
-desire you to follow out my simile too closely—in witness whereof I
+[[Desire|desire]] you to follow out my simile too closely—in witness whereof I
 
 finish my glass.”
 
 
 
-“And take another, I hope, Mr. Lawrence,” said my mother, pushing the
+“And take another, I [[Hope|hope]], Mr. Lawrence,” said my mother, pushing the
 
 bottle towards him.
 
@@ -580,11 +580,11 @@ bitter for my taste.”
 
 He made no reply, but looked down and bit his lip, and shortly after
 
-rose and sauntered up to Miss Wilson, as much repelled by me, I fancy,
+[[Rose|rose]] and sauntered up to Miss Wilson, as much repelled by me, I fancy,
 
-as attracted by her. I scarcely noticed it at the time, but afterwards
+as attracted by her. I scarcely noticed it at the [[Time|time]], but afterwards
 
-I was led to recall this and other trifling facts, of a similar nature,
+I was led to recall this and other trifling facts, of a similar [[Nature|nature]],
 
 to my remembrance, when—but I must not anticipate.
 
@@ -596,7 +596,7 @@ scandal to be present on the occasion, though one of the village
 
 musicians was engaged to direct our evolutions with his violin. But
 
-Mary Millward obstinately refused to join us; and so did Richard
+Mary Millward obstinately refused to join us; and so did [[Richard]]
 
 Wilson, though my mother earnestly entreated him to do so, and even
 
@@ -604,7 +604,7 @@ offered to be his partner.
 
 
 
-We managed very well without them, however. With a single set of
+We managed very [[Well|well]] without them, however. With a single set of
 
 quadrilles, and several country dances, we carried it on to a pretty
 
@@ -612,11 +612,11 @@ late hour; and at length, having called upon our musician to strike up
 
 a waltz, I was just about to whirl Eliza round in that delightful
 
-dance, accompanied by Lawrence and Jane Wilson, and Fergus and Rose,
+[[Dance|dance]], accompanied by Lawrence and Jane Wilson, and Fergus and [[Rose]],
 
 when Mr. Millward interposed with:—“No, no; I don’t allow that! Come,
 
-it’s time to be going now.”
+it’s [[Time|time]] to be going now.”
 
 
 
@@ -624,15 +624,15 @@ it’s time to be going now.”
 
 
 
-“High time, my girl—high time! Moderation in all things, remember!
+“High [[Time|time]], my girl—high [[Time|time]]! Moderation in all things, remember!
 
 That’s the plan—‘Let your moderation be known unto all men!’”
 
 
 
-But in revenge I followed Eliza into the dimly-lighted passage, where,
+But in [[Revenge|revenge]] I followed Eliza into the dimly-lighted passage, where,
 
-under pretence of helping her on with her shawl, I fear I must plead
+under pretence of helping her on with her shawl, I [[Fear|fear]] I must plead
 
 guilty to snatching a kiss behind her father’s back, while he was
 
@@ -652,9 +652,9 @@ evening.
 
 “My dear Gilbert,” said she, “I wish you wouldn’t do so! You know how
 
-deeply I have your advantage at heart, how I love you and prize you
+deeply I have your advantage at heart, how I [[Love|love]] you and prize you
 
-above everything else in the world, and how much I long to see you well
+above everything else in the world, and how much I long to see you [[Well|well]]
 
 settled in life—and how bitterly it would grieve me to see you married
 
@@ -662,7 +662,7 @@ to that girl—or any other in the neighbourhood. What you _see_ in her I
 
 don’t know. It isn’t only the want of money that I think about—nothing
 
-of the kind—but there’s neither beauty, nor cleverness, nor goodness,
+of the kind—but there’s neither [[Beauty|beauty]], nor cleverness, nor goodness,
 
 nor anything else that’s desirable. If you knew your own value, as I
 
@@ -674,7 +674,7 @@ and see how many better there are. Take my word for it, you will.”
 
 
 
-“Well, mother, do be quiet!—I hate to be lectured!—I’m not going to
+“[[Well]], mother, do be quiet!—I hate to be lectured!—I’m not going to
 
 marry yet, I tell you; but—dear me! mayn’t I enjoy myself at _all?_”
 
@@ -694,7 +694,7 @@ heart—so there’s an end of it.”
 
 
 
-“Well, don’t cry about it, mother,” said I, for the tears were gushing
+“[[Well]], don’t cry about it, mother,” said I, for the [[Tears|tears]] were gushing
 
 from her eyes; “there, let that kiss efface the one I gave Eliza; don’t
 

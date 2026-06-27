@@ -15,8 +15,8 @@ tags:
 
 
 It was in a Catholic paper that certain statements were made about
-Darwinism to-day; statements which Sir Arthur Keith himself went
-out of his way to contradict; and about which Sir Arthur Keith
+Darwinism to-day; statements which Sir [[arthur|Arthur]] Keith himself went
+out of his way to contradict; and about which Sir [[arthur|Arthur]] Keith
 himself was proved sensationally and disastrously wrong.
 Probably the story is now known to all readers of that paper; but it
 will possibly never come to the knowledge of most other journalists,
@@ -29,14 +29,14 @@ know how triumphantly his other contradiction was contradicted.
 When Mr. Belloc stated that these Darwinians were out of date and ignorant
 of recent biology, he quoted among a great many other recent authorities
 the French biologist Vialleton as denying the possibility of natural
-selection in a particular case connected with reptiles and birds.
-Sir Arthur Keith, coming to the rescue of Mr. H. G. Wells, and eager
+selection in a particular case connected with reptiles and [[Birds|birds]].
+Sir [[arthur|Arthur]] Keith, coming to the rescue of Mr. H. G. Wells, and eager
 to prove that he and Mr. Wells were not out of date or ignorant
 of recent biology, proceeded to contradict Mr. Belloc flatly.
 He said that there was no such statement in Vialleton's book;
 in other words, he accused Mr. Belloc of having misquoted or
 misrepresented Vialleton's book.  It then appeared, to the amazement
-of everybody, and especially of Mr. Belloc, that Sir Arthur Keith did
+of everybody, and especially of Mr. Belloc, that Sir [[arthur|Arthur]] Keith did
 not even know of the existence of the book.  He was referring only
 to an early and elementary work by the same author published long ago.
 That was the last he had ever read of Vialleton.  The important book,
@@ -52,7 +52,7 @@ in the experience of one of my own friends, how can it be expected
 that people in our position should take seriously the speech
 at the opening of the British Association at Leeds?  How can we
 keep a straight face when the President strikes an attitude as if
-pointing to the stars and declaring Darwinism equally eternal?
+pointing to the [[Stars|stars]] and declaring Darwinism equally eternal?
 That sort of thing is not meant for us; but for the reporters;
 just as the true story of Wells and Belloc is generally kept out
 of the reports.

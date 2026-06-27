@@ -21,7 +21,7 @@ appeal to me to leave you?’
 ‘I don’t know, I don’t know. Don’t ask me, Mr Wrayburn. Let me go back.’
 
 ‘I swear to you, Lizzie, you shall go directly. I swear to you, you
-shall go alone. I’ll not accompany you, I’ll not follow you, if you will
+shall go [[Alone|alone]]. I’ll not accompany you, I’ll not follow you, if you will
 reply.’
 
 ‘How can I, Mr Wrayburn? How can I tell you what I should have done, if
@@ -52,11 +52,11 @@ what you would have considered on equal terms with you.’
 
 ‘It is impossible, Mr Wrayburn. How can I think of you as being on equal
 terms with me? If my mind could put you on equal terms with me, you
-could not be yourself. How could I remember, then, the night when I
+could not be yourself. How could I remember, then, the [[Night|night]] when I
 first saw you, and when I went out of the room because you looked at
-me so attentively? Or, the night that passed into the morning when you
+me so attentively? Or, the [[Night|night]] that passed into the morning when you
 broke to me that my father was dead? Or, the nights when you used to
-come to see me at my next home? Or, your having known how uninstructed
+come to see me at my next [[Home|home]]? Or, your having known how uninstructed
 I was, and having caused me to be taught better? Or, my having so looked
 up to you and wondered at you, and at first thought you so good to be at
 all mindful of me?’
@@ -64,7 +64,7 @@ all mindful of me?’
 ‘Only “at first” thought me so good, Lizzie? What did you think me after
 “at first”? So bad?’
 
-‘I don’t say that. I don’t mean that. But after the first wonder and
+‘I don’t say that. I don’t mean that. But after the first [[Wonder|wonder]] and
 pleasure of being noticed by one so different from any one who had ever
 spoken to me, I began to feel that it might have been better if I had
 never seen you.’
@@ -77,25 +77,25 @@ it was so endless, so hopeless. Spare me!’
 ‘Did you think for me at all, Lizzie?’ he asked, as if he were a little
 stung.
 
-‘Not much, Mr Wrayburn. Not much until to-night.’
+‘Not much, Mr Wrayburn. Not much until to-[[Night|night]].’
 
 ‘Will you tell me why?’
 
-‘I never supposed until to-night that you needed to be thought for. But
+‘I never supposed until to-[[Night|night]] that you needed to be thought for. But
 if you do need to be; if you do truly feel at heart that you have indeed
-been towards me what you have called yourself to-night, and that there
+been towards me what you have called yourself to-[[Night|night]], and that there
 is nothing for us in this life but separation; then Heaven help you, and
 Heaven bless you!’
 
 The purity with which in these words she expressed something of her
-own love and her own suffering, made a deep impression on him for the
-passing time. He held her, almost as if she were sanctified to him by
-death, and kissed her, once, almost as he might have kissed the dead.
+own [[Love|love]] and her own [[Suffering|suffering]], made a deep impression on him for the
+passing [[Time|time]]. He held her, almost as if she were sanctified to him by
+[[Death|death]], and kissed her, once, almost as he might have kissed the dead.
 
 ‘I promised that I would not accompany you, nor follow you. Shall I keep
 you in view? You have been agitated, and it’s growing dark.’
 
-‘I am used to be out alone at this hour, and I entreat you not to do
+‘I am used to be out [[Alone|alone]] at this hour, and I entreat you not to do
 so.’
 
 ‘I promise. I can bring myself to promise nothing more tonight, Lizzie,
@@ -106,32 +106,32 @@ me, every way. Leave this neighbourhood to-morrow morning.’
 
 ‘I will try.’
 
-As he spoke the words in a grave voice, she put her hand in his, removed
-it, and went away by the river-side.
+As he spoke the words in a [[Grave|grave]] voice, she put her hand in his, removed
+it, and went away by the [[River|river]]-side.
 
 ‘Now, could Mortimer believe this?’ murmured Eugene, still remaining,
 after a while, where she had left him. ‘Can I even believe it myself?’
 
-He referred to the circumstance that there were tears upon his hand,
+He referred to the circumstance that there were [[Tears|tears]] upon his hand,
 as he stood covering his eyes. ‘A most ridiculous position this, to be
 found out in!’ was his next thought. And his next struck its root in a
-little rising resentment against the cause of the tears.
+little rising resentment against the cause of the [[Tears|tears]].
 
 ‘Yet I have gained a wonderful power over her, too, let her be as much
 in earnest as she will!’
 
 The reflection brought back the yielding of her face and form as she
 had drooped under his gaze. Contemplating the reproduction, he seemed
-to see, for the second time, in the appeal and in the confession of
-weakness, a little fear.
+to see, for the second [[Time|time]], in the appeal and in the confession of
+weakness, a little [[Fear|fear]].
 
 ‘And she loves me. And so earnest a character must be very earnest in
 that passion. She cannot choose for herself to be strong in this fancy,
 wavering in that, and weak in the other. She must go through with her
-nature, as I must go through with mine. If mine exacts its pains and
+[[Nature|nature]], as I must go through with mine. If mine exacts its pains and
 penalties all round, so must hers, I suppose.’
 
-Pursuing the inquiry into his own nature, he thought, ‘Now, if I married
+Pursuing the inquiry into his own [[Nature|nature]], he thought, ‘Now, if I married
 her. If, outfacing the absurdity of the situation in correspondence with
 M. R. F., I astonished M. R. F. to the utmost extent of his respected
 powers, by informing him that I had married her, how would M. R. F.
@@ -147,11 +147,11 @@ be profligate and worthless, and asserted her against it.
 
 ‘And yet,’ said Eugene, ‘I should like to see the fellow (Mortimer
 excepted) who would undertake to tell me that this was not a real
-sentiment on my part, won out of me by her beauty and her worth,
+sentiment on my part, won out of me by her [[Beauty|beauty]] and her worth,
 in spite of myself, and that I would not be true to her. I should
-particularly like to see the fellow to-night who would tell me so, or
+particularly like to see the fellow to-[[Night|night]] who would tell me so, or
 who would tell me anything that could be construed to her disadvantage;
 for I am wearily out of sorts with one Wrayburn who cuts a sorry figure,
 and I would far rather be out of sorts with somebody else. “Eugene,
 Eugene, Eugene, this is a bad business.” Ah! So go the Mortimer
-Lightwood bells, and they sound melancholy to-night.’
+Lightwood [[Bells|bells]], and they sound [[Melancholy|melancholy]] to-[[Night|night]].’

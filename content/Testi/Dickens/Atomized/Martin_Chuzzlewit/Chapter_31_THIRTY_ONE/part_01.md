@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -22,19 +22,19 @@ PECKSNIFF DISCHARGES A DUTY WHICH HE OWES TO SOCIETY
 
 The closing words of the last chapter lead naturally to the commencement
 of this, its successor; for it has to do with a church. With the church,
-so often mentioned heretofore, in which Tom Pinch played the organ for
+so often mentioned heretofore, in which [[Tom Pinch]] played the organ for
 nothing.
 
-One sultry afternoon, about a week after Miss Charity’s departure for
-London, Mr Pecksniff being out walking by himself, took it into his head
+One sultry afternoon, about a week after Miss [[Charity]]’s departure for
+[[London]], Mr Pecksniff being out walking by himself, took it into his head
 to stray into the churchyard. As he was lingering among the tombstones,
 endeavouring to extract an available sentiment or two from the
 epitaphs--for he never lost an opportunity of making up a few moral
-crackers, to be let off as occasion served--Tom Pinch began to practice.
-Tom could run down to the church and do so whenever he had time to
-spare; for it was a simple little organ, provided with wind by the
+crackers, to be let off as occasion served--[[Tom Pinch]] began to practice.
+Tom could run down to the church and do so whenever he had [[Time|time]] to
+spare; for it was a simple little organ, provided with [[Wind|wind]] by the
 action of the musician’s feet; and he was independent, even of a
-bellows-blower. Though if Tom had wanted one at any time, there was
+bellows-blower. Though if Tom had wanted one at any [[Time|time]], there was
 not a man or boy in all the village, and away to the turnpike (tollman
 included), but would have blown away for him till he was black in the
 face.
@@ -52,22 +52,22 @@ his consideration Tom was very grateful.
 
 The afternoon was remarkably warm, and Mr Pecksniff had been strolling
 a long way. He had not what may be called a fine ear for music, but he
-knew when it had a tranquilizing influence on his soul; and that was the
+knew when it had a tranquilizing influence on his [[Soul|soul]]; and that was the
 case now, for it sounded to him like a melodious snore. He approached
-the church, and looking through the diamond lattice of a window near the
+the church, and looking through the diamond lattice of a [[Window|window]] near the
 porch, saw Tom, with the curtains in the loft drawn back, playing away
 with great expression and tenderness.
 
 The church had an inviting air of coolness. The old oak roof supported
-by cross-beams, the hoary walls, the marble tablets, and the cracked
-stone pavement, were refreshing to look at. There were leaves of ivy
+by [[Cross|cross]]-beams, the hoary walls, the marble tablets, and the cracked
+stone pavement, were refreshing to look at. There were [[Leaves|leaves]] of ivy
 tapping gently at the opposite windows; and the sun poured in through
-only one; leaving the body of the church in tempting shade. But the
+only one; leaving the [[Body|body]] of the church in tempting shade. But the
 most tempting spot of all, was one red-curtained and soft-cushioned pew,
 wherein the official dignitaries of the place (of whom Mr Pecksniff was
 the head and chief) enshrined themselves on Sundays. Mr Pecksniff’s seat
 was in the corner; a remarkably comfortable corner; where his very large
-Prayer-Book was at that minute making the most of its quarto self upon
+[[Prayer]]-Book was at that minute making the most of its quarto [[Self|self]] upon
 the desk. He determined to go in and rest.
 
 He entered very softly; in part because it was a church; in part because
@@ -93,7 +93,7 @@ dreamy impressions of voices; and awakening to an indolent curiosity
 upon the subject, opened his eyes.
 
 He was so indolent, that after glancing at the hassocks and the pew, he
-was already half-way off to sleep again, when it occurred to him that
+was already half-way off to [[Sleep|sleep]] again, when it occurred to him that
 there really were voices in the church; low voices, talking earnestly
 hard by; while the echoes seemed to mutter responses. He roused himself,
 and listened.
@@ -103,7 +103,7 @@ ever he had been in all his life. With eyes, and ears, and mouth,
 wide open, he moved himself a very little with the utmost caution, and
 gathering the curtain in his hand, peeped out.
 
-Tom Pinch and Mary. Of course. He had recognized their voices, and
+[[Tom Pinch]] and Mary. Of course. He had recognized their voices, and
 already knew the topic they discussed. Looking like the small end of a
 guillotined man, with his chin on a level with the top of the pew, so
 that he might duck down immediately in case of either of them turning
@@ -111,10 +111,10 @@ round, he listened. Listened with such concentrated eagerness, that his
 very hair and shirt-collar stood bristling up to help him.
 
 ‘No,’ cried Tom. ‘No letters have ever reached me, except that one from
-New York. But don’t be uneasy on that account, for it’s very likely
+[[New York]]. But don’t be uneasy on that account, for it’s very likely
 they have gone away to some far-off place, where the posts are neither
 regular nor frequent. He said in that very letter that it might be so,
-even in that city to which they thought of travelling--Eden, you know.’
+even in that [[City|city]] to which they thought of travelling--Eden, you know.’
 
 ‘It is a great weight upon my mind,’ said Mary.
 
@@ -122,5 +122,5 @@ even in that city to which they thought of travelling--Eden, you know.’
 nothing travels so fast as ill news; and if the slightest harm had
 happened to Martin, you may be sure you would have heard of it long
 ago. I have often wished to say this to you,’ Tom continued with an
-embarrassment that became him very well, ‘but you have never given me an
+embarrassment that became him very [[Well|well]], ‘but you have never given me an
 opportunity.’

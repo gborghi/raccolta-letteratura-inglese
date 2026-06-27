@@ -36,7 +36,7 @@ At length, by a great effort, he detached himself from the subject
 sufficiently to observe:
 
 ‘But she’s neither here nor there just at present. The other lady, she’s
-Mr Casby’s daughter; and if Mr Casby an’t well off, none better, it an’t
+Mr Casby’s daughter; and if Mr Casby an’t [[Well|well]] off, none better, it an’t
 through any fault of Pancks. For, as to Pancks, he does, he really does,
 he does indeed!’
 
@@ -45,12 +45,12 @@ conscientiously emphatic.
 
 ‘And what she come to our place for,’ he pursued, ‘was to leave word
 that if Miss Dorrit would step up to that card--which it’s Mr Casby’s
-house that is, and Pancks he has a office at the back, where he really
+[[house]] that is, and Pancks he has a office at the back, where he really
 does, beyond belief--she would be glad for to engage her. She was a old
 and a dear friend, she said particular, of Mr Clennam, and hoped for to
 prove herself a useful friend to _his_ friend. Them was her words. Wishing
 to know whether Miss Dorrit could come to-morrow morning, I said I would
-see you, Miss, and inquire, and look round there to-night, to say yes,
+see you, Miss, and inquire, and look round there to-[[Night|night]], to say yes,
 or, if you was engaged to-morrow, when?’
 
 ‘I can go to-morrow, thank you,’ said Little Dorrit. ‘This is very kind
@@ -63,7 +63,7 @@ have observed it without being very suspicious. In his affable
 unconsciousness, however, he took no heed. Plornish, after a little
 conversation, in which he blended his former duty as a Collegian with
 his present privilege as a humble outside friend, qualified again by his
-low estate as a plasterer, took his leave; making the tour of the prison
+low estate as a plasterer, took his leave; making the tour of the [[Prison|prison]]
 before he left, and looking on at a game of skittles with the mixed
 feelings of an old inhabitant who had his private reasons for believing
 that it might be his destiny to come back again.
@@ -71,7 +71,7 @@ that it might be his destiny to come back again.
 Early in the morning, Little Dorrit, leaving Maggy in high domestic
 trust, set off for the Patriarchal tent. She went by the Iron Bridge,
 though it cost her a penny, and walked more slowly in that part of her
-journey than in any other. At five minutes before eight her hand was on
+[[Journey|journey]] than in any other. At five minutes before eight her hand was on
 the Patriarchal knocker, which was quite as high as she could reach.
 
 She gave Mrs Finching’s card to the young woman who opened the door, and
@@ -82,33 +82,33 @@ to walk up into Miss Flora’s sitting-room. She walked up into
 Miss Flora’s sitting-room, as in duty bound, and there found a
 breakfast-table comfortably laid for two, with a supplementary tray
 upon it laid for one. The young woman, disappearing for a few moments,
-returned to say that she was to please to take a chair by the fire,
-and to take off her bonnet and make herself at home. But Little Dorrit,
-being bashful, and not used to make herself at home on such occasions,
+returned to say that she was to please to take a chair by the [[Fire|fire]],
+and to take off her bonnet and make herself at [[Home|home]]. But Little Dorrit,
+being bashful, and not used to make herself at [[Home|home]] on such occasions,
 felt at a loss how to do it; so she was still sitting near the door with
 her bonnet on, when Flora came in in a hurry half an hour afterwards.
 
 Flora was so sorry to have kept her waiting, and good gracious why did
 she sit out there in the cold when she had expected to find her by the
-fire reading the paper, and hadn’t that heedless girl given her the
-message then, and had she really been in her bonnet all this time, and
+[[Fire|fire]] reading the paper, and hadn’t that heedless girl given her the
+message then, and had she really been in her bonnet all this [[Time|time]], and
 pray for goodness sake let Flora take it off! Flora taking it off in the
 best-natured manner in the world, was so struck with the face disclosed,
 that she said, ‘Why, what a good little thing you are, my dear!’ and
 pressed her face between her hands like the gentlest of women.
 
 It was the word and the action of a moment. Little Dorrit had hardly
-time to think how kind it was, when Flora dashed at the breakfast-table
+[[Time|time]] to think how kind it was, when Flora dashed at the breakfast-table
 full of business, and plunged over head and ears into loquacity.
 
 ‘Really so sorry that I should happen to be late on this morning of all
 mornings because my intention and my wish was to be ready to meet you
-when you came in and to say that any one that interested Arthur Clennam
+when you came in and to say that any one that interested [[Arthur Clennam]]
 half so much must interest me and that I gave you the heartiest welcome
 and was so glad, instead of which they never called me and there I
-still am snoring I dare say if the truth was known and if you don’t like
+still am snoring I dare say if the [[Truth|truth]] was known and if you don’t like
 either cold fowl or hot boiled ham which many people don’t I dare say
-besides Jews and theirs are scruples of conscience which we must all
+besides Jews and theirs are scruples of [[Conscience|conscience]] which we must all
 respect though I must say I wish they had them equally strong when they
 sell us false articles for real that certainly ain’t worth the money I
 shall be quite vexed,’ said Flora.
@@ -116,13 +116,13 @@ shall be quite vexed,’ said Flora.
 Little Dorrit thanked her, and said, shyly, bread-and-butter and tea was
 all she usually--
 
-‘Oh nonsense my dear child I can never hear of that,’ said Flora,
+‘Oh nonsense my dear [[Child|child]] I can never hear of that,’ said Flora,
 turning on the urn in the most reckless manner, and making herself wink
-by splashing hot water into her eyes as she bent down to look into the
+by splashing hot [[Water|water]] into her eyes as she bent down to look into the
 teapot. ‘You are coming here on the footing of a friend and companion
 you know if you will let me take that liberty and I should be ashamed
 of myself indeed if you could come here upon any other, besides which
-Arthur Clennam spoke in such terms--you are tired my dear.’
+[[Arthur Clennam]] spoke in such terms--you are tired my dear.’
 
 ‘No, ma’am.’
 
@@ -130,8 +130,8 @@ Arthur Clennam spoke in such terms--you are tired my dear.’
 say live a great way off and ought to have had a ride,’ said Flora,
 ‘dear dear is there anything that would do you good?’
 
-‘Indeed I am quite well, ma’am. I thank you again and again, but I am
-quite well.’
+‘Indeed I am quite [[Well|well]], ma’am. I thank you again and again, but I am
+quite [[Well|well]].’
 
 ‘Then take your tea at once I beg,’ said Flora, ‘and this wing of fowl
 and bit of ham, don’t mind me or wait for me, because I always carry in
@@ -147,17 +147,17 @@ references to that work of art.
 ‘Mr F. was so devoted to me that he never could bear me out of his
 sight,’ said Flora, ‘though of course I am unable to say how long that
 might have lasted if he hadn’t been cut short while I was a new broom,
-worthy man but not poetical manly prose but not romance.’
+worthy man but not poetical manly prose but not [[Romance|romance]].’
 
-Little Dorrit glanced at the portrait again. The artist had given it a
+Little Dorrit glanced at the portrait again. The [[artist]] had given it a
 head that would have been, in an intellectual point of view, top-heavy
 for Shakespeare.
 
-‘Romance, however,’ Flora went on, busily arranging Mr F.’s Aunt’s
+‘[[Romance]], however,’ Flora went on, busily arranging Mr F.’s Aunt’s
 toast, ‘as I openly said to Mr F. when he proposed to me and you will be
 surprised to hear that he proposed seven times once in a hackney-coach
-once in a boat once in a pew once on a donkey at Tunbridge Wells and the
-rest on his knees, Romance was fled with the early days of Arthur
+once in a boat once in a pew once on a [[donkey]] at Tunbridge Wells and the
+rest on his knees, [[Romance]] was fled with the early days of [[arthur|Arthur]]
 Clennam, our parents tore us asunder we became marble and stern reality
 usurped the throne, Mr F. said very much to his credit that he was
 perfectly aware of it and even preferred that state of things
@@ -174,11 +174,11 @@ brown liquid that smelt like brandy, and putting it into her tea, ‘I am
 obliged to be careful to follow the directions of my medical man though
 the flavour is anything but agreeable being a poor creature and it may
 be have never recovered the shock received in youth from too much giving
-way to crying in the next room when separated from Arthur, have you
+way to crying in the next room when separated from [[arthur|Arthur]], have you
 known him long?’
 
 As soon as Little Dorrit comprehended that she had been asked this
-question--for which time was necessary, the galloping pace of her new
+question--for which [[Time|time]] was necessary, the galloping pace of her new
 patroness having left her far behind--she answered that she had known Mr
 Clennam ever since his return.
 
@@ -190,9 +190,9 @@ tea, so it was at his mother’s was it really that you knew him first,
 highly sensible and firm but dreadfully severe--ought to be the mother
 of the man in the iron mask.’
 
-‘Mrs Clennam has been kind to me,’ said Little Dorrit.
+‘[[Mrs Clennam]] has been kind to me,’ said Little Dorrit.
 
-‘Really? I am sure I am glad to hear it because as Arthur’s mother it’s
+‘Really? I am sure I am glad to hear it because as [[arthur|Arthur]]’s mother it’s
 naturally pleasant to my feelings to have a better opinion of her than
 I had before, though what she thinks of me when I run on as I am certain
 to do and she sits glowering at me like Fate in a go-cart--shocking
@@ -208,7 +208,7 @@ not the slightest hurry and it’s better that we should begin by being
 confidential about our mutual friend--too cold a word for me at least
 I don’t mean that, very proper expression mutual friend--than become
 through mere formalities not you but me like the Spartan boy with the
-fox biting him, which I hope you’ll excuse my bringing up for of all
+fox biting him, which I [[Hope|hope]] you’ll excuse my bringing up for of all
 the tiresome boys that will go tumbling into every sort of company that
 boy’s the tiresomest.’
 
@@ -217,13 +217,13 @@ better work the while?’ she asked. ‘I can work and attend too. I would
 rather, if I may.’
 
 Her earnestness was so expressive of her being uneasy without her work,
-that Flora answered, ‘Well my dear whatever you like best,’ and produced
+that Flora answered, ‘[[Well]] my dear whatever you like best,’ and produced
 a basket of white handkerchiefs. Little Dorrit gladly put it by her
 side, took out her little pocket-housewife, threaded the needle, and
 began to hem.
 
 ‘What nimble fingers you have,’ said Flora, ‘but are you sure you are
-well?’
+[[Well|well]]?’
 
 ‘Oh yes, indeed!’
 
@@ -233,15 +233,15 @@ sighing in the most demonstrative manner, making a great deal of use
 of her eyebrows, and occasionally, but not often, glancing at the quiet
 face that bent over the work.
 
-‘You must know my dear,’ said Flora, ‘but that I have no doubt you know
+‘You must know my dear,’ said Flora, ‘but that I have no [[Doubt|doubt]] you know
 already not only because I have already thrown it out in a general way
 but because I feel I carry it stamped in burning what’s his names
 upon my brow that before I was introduced to the late Mr F. I had
-been engaged to Arthur Clennam--Mr Clennam in public where reserve is
-necessary Arthur here--we were all in all to one another it was the
+been engaged to [[Arthur Clennam]]--Mr Clennam in public where reserve is
+necessary [[arthur|Arthur]] here--we were all in all to one another it was the
 morning of life it was bliss it was frenzy it was everything else of
 that sort in the highest degree, when rent asunder we turned to stone in
-which capacity Arthur went to China and I became the statue bride of the
+which capacity [[arthur|Arthur]] went to China and I became the statue bride of the
 late Mr F.’
 
 Flora, uttering these words in a deep voice, enjoyed herself immensely.
@@ -249,7 +249,7 @@ Flora, uttering these words in a deep voice, enjoyed herself immensely.
 ‘To paint,’ said she, ‘the emotions of that morning when all was marble
 within and Mr F.’s Aunt followed in a glass-coach which it stands to
 reason must have been in shameful repair or it never could have broken
-down two streets from the house and Mr F.’s Aunt brought home like the
+down two streets from the [[house]] and Mr F.’s Aunt brought [[Home|home]] like the
 fifth of November in a rush-bottomed chair I will not attempt,
 suffice it to say that the hollow form of breakfast took place in the
 dining-room downstairs that papa partaking too freely of pickled salmon
@@ -259,12 +259,12 @@ separated us though not for ever that was not yet to be.’
 
 The statue bride, hardly pausing for breath, went on, with the greatest
 complacency, in a rambling manner sometimes incidental to flesh and
-blood.
+[[Blood|blood]].
 
 ‘I will draw a veil over that dreamy life, Mr F. was in good spirits his
 appetite was good he liked the cookery he considered the wine weak but
-palatable and all was well, we returned to the immediate neighbourhood
-of Number Thirty Little Gosling Street London Docks and settled down,
+palatable and all was [[Well|well]], we returned to the immediate neighbourhood
+of Number Thirty Little Gosling Street [[London]] Docks and settled down,
 ere we had yet fully detected the housemaid in selling the feathers
 out of the spare bed Gout flying upwards soared with Mr F. to another
 sphere.’
@@ -272,12 +272,12 @@ sphere.’
 His relict, with a glance at his portrait, shook her head and wiped her
 eyes.
 
-‘I revere the memory of Mr F. as an estimable man and most indulgent
-husband, only necessary to mention Asparagus and it appeared or to hint
-at any little delicate thing to drink and it came like magic in a pint
+‘I revere the [[Memory|memory]] of Mr F. as an estimable man and most indulgent
+husband, only necessary to mention [[asparagus|Asparagus]] and it appeared or to hint
+at any little delicate thing to drink and it came like [[Magic|magic]] in a pint
 bottle it was not ecstasy but it was comfort, I returned to papa’s roof
 and lived secluded if not happy during some years until one day papa
-came smoothly blundering in and said that Arthur Clennam awaited me
+came smoothly blundering in and said that [[Arthur Clennam]] awaited me
 below, I went below and found him ask me not what I found him except
 that he was still unmarried still unchanged!’
 
@@ -286,43 +286,43 @@ stopped other fingers than the nimble fingers that worked near her.
 They worked on without pause, and the busy head bent over them watching
 the stitches.
 
-‘Ask me not,’ said Flora, ‘if I love him still or if he still loves me
+‘Ask me not,’ said Flora, ‘if I [[Love|love]] him still or if he still loves me
 or what the end is to be or when, we are surrounded by watchful eyes and
 it may be that we are destined to pine asunder it may be never more to
 be reunited not a word not a breath not a look to betray us all must
-be secret as the tomb wonder not therefore that even if I should seem
-comparatively cold to Arthur or Arthur should seem comparatively cold to
+be secret as the tomb [[Wonder|wonder]] not therefore that even if I should seem
+comparatively cold to [[arthur|Arthur]] or [[arthur|Arthur]] should seem comparatively cold to
 me we have fatal reasons it is enough if we understand them hush!’
 
 All of which Flora said with so much headlong vehemence as if she really
-believed it. There is not much doubt that when she worked herself into
-full mermaid condition, she did actually believe whatever she said in
+believed it. There is not much [[Doubt|doubt]] that when she worked herself into
+full [[Mermaid|mermaid]] condition, she did actually believe whatever she said in
 it.
 
 ‘Hush!’ repeated Flora, ‘I have now told you all, confidence is
-established between us hush, for Arthur’s sake I will always be a friend
-to you my dear girl and in Arthur’s name you may always rely upon me.’
+established between us hush, for [[arthur|Arthur]]’s sake I will always be a friend
+to you my dear girl and in [[arthur|Arthur]]’s name you may always rely upon me.’
 
-The nimble fingers laid aside the work, and the little figure rose and
+The nimble fingers laid aside the work, and the little figure [[Rose|rose]] and
 kissed her hand. ‘You are very cold,’ said Flora, changing to her own
 natural kind-hearted manner, and gaining greatly by the change. ‘Don’t
-work to-day. I am sure you are not well I am sure you are not strong.’
+work to-day. I am sure you are not [[Well|well]] I am sure you are not strong.’
 
 ‘It is only that I feel a little overcome by your kindness, and by Mr
 Clennam’s kindness in confiding me to one he has known and loved so
 long.’
 
-‘Well really my dear,’ said Flora, who had a decided tendency to be
-always honest when she gave herself time to think about it, ‘it’s as
-well to leave that alone now, for I couldn’t undertake to say after all,
+‘[[Well]] really my dear,’ said Flora, who had a decided tendency to be
+always honest when she gave herself [[Time|time]] to think about it, ‘it’s as
+[[Well|well]] to leave that [[Alone|alone]] now, for I couldn’t undertake to say after all,
 but it doesn’t signify lie down a little!’
 
 ‘I have always been strong enough to do what I want to do, and I shall
-be quite well directly,’ returned Little Dorrit, with a faint smile.
+be quite [[Well|well]] directly,’ returned Little Dorrit, with a faint smile.
 ‘You have overpowered me with gratitude, that’s all. If I keep near the
-window for a moment I shall be quite myself.’
+[[Window|window]] for a moment I shall be quite myself.’
 
-Flora opened a window, sat her in a chair by it, and considerately
+Flora opened a [[Window|window]], sat her in a chair by it, and considerately
 retired to her former place. It was a windy day, and the air stirring
 on Little Dorrit’s face soon brightened it. In a very few minutes she
 returned to her basket of work, and her nimble fingers were as nimble as
@@ -338,53 +338,53 @@ scanty words about herself and a glowing eulogy upon her father; and
 Flora took it all in with a natural tenderness that quite understood it,
 and in which there was no incoherence.
 
-When dinner-time came, Flora drew the arm of her new charge through
+When dinner-[[Time|time]] came, Flora drew the arm of her new charge through
 hers, and led her down-stairs, and presented her to the Patriarch and Mr
 Pancks, who were already in the dining-room waiting to begin. (Mr F.’s
-Aunt was, for the time, laid up in ordinary in her chamber.) By those
+Aunt was, for the [[Time|time]], laid up in ordinary in her chamber.) By those
 gentlemen she was received according to their characters; the Patriarch
 appearing to do her some inestimable service in saying that he was glad
-to see her, glad to see her; and Mr Pancks blowing off his favourite
+to see her, glad to see her; and [[Mr Pancks]] blowing off his favourite
 sound as a salute.
 
 In that new presence she would have been bashful enough under any
 circumstances, and particularly under Flora’s insisting on her
 drinking a glass of wine and eating of the best that was there; but her
-constraint was greatly increased by Mr Pancks. The demeanour of that
+constraint was greatly increased by [[Mr Pancks]]. The demeanour of that
 gentleman at first suggested to her mind that he might be a taker of
 likenesses, so intently did he look at her, and so frequently did he
 glance at the little note-book by his side. Observing that he made no
-sketch, however, and that he talked about business only, she began to
+[[Sketch|sketch]], however, and that he talked about business only, she began to
 have suspicions that he represented some creditor of her father’s, the
 balance due to whom was noted in that pocket volume. Regarded from this
-point of view Mr Pancks’s puffings expressed injury and impatience, and
+point of view [[Mr Pancks]]’s puffings expressed injury and impatience, and
 each of his louder snorts became a demand for payment.
 
 But here again she was undeceived by anomalous and incongruous conduct
-on the part of Mr Pancks himself. She had left the table half an hour,
-and was at work alone. Flora had ‘gone to lie down’ in the next room,
+on the part of [[Mr Pancks]] himself. She had left the table half an hour,
+and was at work [[Alone|alone]]. Flora had ‘gone to lie down’ in the next room,
 concurrently with which retirement a smell of something to drink
-had broken out in the house. The Patriarch was fast asleep, with his
+had broken out in the [[house]]. The Patriarch was fast asleep, with his
 philanthropic mouth open under a yellow pocket-handkerchief in the
-dining-room. At this quiet time, Mr Pancks softly appeared before her,
+dining-room. At this quiet [[Time|time]], [[Mr Pancks]] softly appeared before her,
 urbanely nodding.
 
 ‘Find it a little dull, Miss Dorrit?’ inquired Pancks in a low voice.
 
 ‘No, thank you, sir,’ said Little Dorrit.
 
-‘Busy, I see,’ observed Mr Pancks, stealing into the room by inches.
+‘Busy, I see,’ observed [[Mr Pancks]], stealing into the room by inches.
 ‘What are those now, Miss Dorrit?’
 
 ‘Handkerchiefs.’
 
 ‘Are they, though!’ said Pancks. ‘I shouldn’t have thought it.’ Not in
 the least looking at them, but looking at Little Dorrit. ‘Perhaps you
-wonder who I am. Shall I tell you? I am a fortune-teller.’
+[[Wonder|wonder]] who I am. Shall I tell you? I am a fortune-teller.’
 
 Little Dorrit now began to think he was mad.
 
-‘I belong body and soul to my proprietor,’ said Pancks; ‘you saw my
+‘I belong [[Body|body]] and [[Soul|soul]] to my proprietor,’ said Pancks; ‘you saw my
 proprietor having his dinner below. But I do a little in the other way,
 sometimes; privately, very privately, Miss Dorrit.’
 
@@ -441,9 +441,9 @@ ever!’
 More surprised than before, and a little more frightened, she looked to
 him for an explanation of his last words.
 
-‘Not that,’ said Pancks, making, with great seriousness, an imitation
+‘Not that,’ said Pancks, making, with great seriousness, an [[Imitation|imitation]]
 of a surprised look and manner that appeared to be unintentionally
-grotesque. ‘Don’t do that. Never on seeing me, no matter when, no matter
+[[Grotesque|grotesque]]. ‘Don’t do that. Never on seeing me, no matter when, no matter
 where. I am nobody. Don’t take on to mind me. Don’t mention me. Take no
 notice. Will you agree, Miss Dorrit?’
 
@@ -467,7 +467,7 @@ to know it.” Is it agreed, Miss Dorrit?’
 ‘Ye-es,’ faltered Little Dorrit, whom he greatly confused, ‘I suppose
 so, while you do no harm.’
 
-‘Good!’ Mr Pancks glanced at the wall of the adjoining room, and stooped
+‘Good!’ [[Mr Pancks]] glanced at the wall of the adjoining room, and stooped
 forward. ‘Honest creature, woman of capital points, but heedless and
 a loose talker, Miss Dorrit.’ With that he rubbed his hands as if the
 interview had been very satisfactory to him, panted away to the door,
@@ -476,30 +476,30 @@ and urbanely nodded himself out again.
 If Little Dorrit were beyond measure perplexed by this curious conduct
 on the part of her new acquaintance, and by finding herself involved
 in this singular treaty, her perplexity was not diminished by ensuing
-circumstances. Besides that Mr Pancks took every opportunity afforded
-him in Mr Casby’s house of significantly glancing at her and snorting
+circumstances. Besides that [[Mr Pancks]] took every opportunity afforded
+him in Mr Casby’s [[house]] of significantly glancing at her and snorting
 at her--which was not much, after what he had done already--he began to
 pervade her daily life. She saw him in the street, constantly. When she
-went to Mr Casby’s, he was always there. When she went to Mrs Clennam’s,
+went to Mr Casby’s, he was always there. When she went to [[Mrs Clennam]]’s,
 he came there on any pretence, as if to keep her in his sight. A week
 had not gone by, when she found him to her astonishment in the Lodge one
-night, conversing with the turnkey on duty, and to all appearance one
+[[Night|night]], conversing with the turnkey on duty, and to all appearance one
 of his familiar companions. Her next surprise was to find him equally at
-his ease within the prison; to hear of his presenting himself among
-the visitors at her father’s Sunday levee; to see him arm in arm with
+his ease within the [[Prison|prison]]; to hear of his presenting himself among
+the visitors at her father’s [[Sunday]] levee; to see him arm in arm with
 a Collegiate friend about the yard; to learn, from Fame, that he had
 greatly distinguished himself one evening at the social club that held
 its meetings in the Snuggery, by addressing a speech to the members
-of the institution, singing a song, and treating the company to five
+of the institution, singing a [[Song|song]], and treating the company to five
 gallons of ale--report madly added a bushel of shrimps. The effect on
 Mr Plornish of such of these phenomena as he became an eye-witness of in
 his faithful visits, made an impression on Little Dorrit only second to
 that produced by the phenomena themselves. They seemed to gag and bind
 him. He could only stare, and sometimes weakly mutter that it wouldn’t
 be believed down Bleeding Heart Yard that this was Pancks; but he never
-said a word more, or made a sign more, even to Little Dorrit. Mr Pancks
+said a word more, or made a sign more, even to Little Dorrit. [[Mr Pancks]]
 crowned his mysteries by making himself acquainted with Tip in some
-unknown manner, and taking a Sunday saunter into the College on that
+unknown manner, and taking a [[Sunday]] saunter into the College on that
 gentleman’s arm. Throughout he never took any notice of Little Dorrit,
 save once or twice when he happened to come close to her and there
 was no one very near; on which occasions, he said in passing,
@@ -507,10 +507,10 @@ with a friendly look and a puff of encouragement, ‘Pancks the
 gipsy--fortune-telling.’
 
 Little Dorrit worked and strove as usual, wondering at all this, but
-keeping her wonder, as she had from her earliest years kept many heavier
+keeping her [[Wonder|wonder]], as she had from her earliest years kept many heavier
 loads, in her own breast. A change had stolen, and was stealing yet,
 over the patient heart. Every day found her something more retiring
-than the day before. To pass in and out of the prison unnoticed, and
+than the day before. To pass in and out of the [[Prison|prison]] unnoticed, and
 elsewhere to be overlooked and forgotten, were, for herself, her chief
 desires.
 
@@ -520,23 +520,23 @@ desertion of any duty. There were afternoon times when she was
 unemployed, when visitors dropped in to play a hand at cards with her
 father, when she could be spared and was better away. Then she would
 flit along the yard, climb the scores of stairs that led to her room,
-and take her seat at the window. Many combinations did those spikes
+and take her seat at the [[Window|window]]. Many combinations did those spikes
 upon the wall assume, many light shapes did the strong iron weave itself
 into, many golden touches fell upon the rust, while Little Dorrit sat
 there musing. New zig-zags sprung into the cruel pattern sometimes, when
-she saw it through a burst of tears; but beautified or hardened still,
+she saw it through a burst of [[Tears|tears]]; but beautified or hardened still,
 always over it and under it and through it, she was fain to look in her
-solitude, seeing everything with that ineffaceable brand.
+[[Solitude|solitude]], seeing everything with that ineffaceable brand.
 
 A garret, and a Marshalsea garret without compromise, was Little
 Dorrit’s room. Beautifully kept, it was ugly in itself, and had little
 but cleanliness and air to set it off; for what embellishment she had
 ever been able to buy, had gone to her father’s room. Howbeit, for this
-poor place she showed an increasing love; and to sit in it alone became
+poor place she showed an increasing [[Love|love]]; and to sit in it [[Alone|alone]] became
 her favourite rest.
 
 Insomuch, that on a certain afternoon during the Pancks mysteries, when
-she was seated at her window, and heard Maggy’s well-known step coming
+she was seated at her [[Window|window]], and heard Maggy’s [[Well|well]]-known step coming
 up the stairs, she was very much disturbed by the apprehension of being
 summoned away. As Maggy’s step came higher up and nearer, she trembled
 and faltered; and it was as much as she could do to speak, when Maggy at
@@ -550,11 +550,11 @@ down and see him. He’s here.’
 ‘Who, o’ course Mr Clennam. He’s in your father’s room, and he says to
 me, Maggy, will you be so kind and go and say it’s only me.’
 
-‘I am not very well, Maggy. I had better not go. I am going to lie down.
+‘I am not very [[Well|well]], Maggy. I had better not go. I am going to lie down.
 See! I lie down now, to ease my head. Say, with my grateful regard, that
 you left me so, or I would have come.’
 
-‘Well, it an’t very polite though, Little Mother,’ said the staring
+‘[[Well]], it an’t very polite though, Little Mother,’ said the staring
 Maggy, ‘to turn your face away, neither!’
 
 Maggy was very susceptible to personal slights, and very ingenious in
@@ -565,7 +565,7 @@ feelings and breaking her heart at ten year old, poor thing!’
 
 ‘It’s to ease my head, Maggy.’
 
-‘Well, and if you cry to ease your head, Little Mother, let me cry too.
+‘[[Well]], and if you cry to ease your head, Little Mother, let me cry too.
 Don’t go and have all the crying to yourself,’ expostulated Maggy, ‘that
 an’t not being greedy.’ And immediately began to blubber.
 
@@ -574,13 +574,13 @@ the excuse; but the promise of being told a story--of old her great
 delight--on condition that she concentrated her faculties upon the
 errand and left her little mistress to herself for an hour longer,
 combined with a misgiving on Maggy’s part that she had left her good
-temper at the bottom of the staircase, prevailed. So away she went,
+temper at the [[Bottom|bottom]] of the staircase, prevailed. So away she went,
 muttering her message all the way to keep it in her mind, and, at the
-appointed time, came back.
+appointed [[Time|time]], came back.
 
 ‘He was very sorry, I can tell you,’ she announced, ‘and wanted to send
 a doctor. And he’s coming again to-morrow he is and I don’t think he’ll
-have a good sleep to-night along o’ hearing about your head, Little
+have a good [[Sleep|sleep]] to-[[Night|night]] along o’ hearing about your head, Little
 Mother. Oh my! Ain’t you been a-crying!’
 
 ‘I think I have, a little, Maggy.’
@@ -591,10 +591,10 @@ Mother. Oh my! Ain’t you been a-crying!’
 better and cooler, and I am quite comfortable. I am very glad I did not
 go down.’
 
-Her great staring child tenderly embraced her; and having smoothed her
-hair, and bathed her forehead and eyes with cold water (offices in which
+Her great staring [[Child|child]] tenderly embraced her; and having smoothed her
+hair, and bathed her forehead and eyes with cold [[Water|water]] (offices in which
 her awkward hands became skilful), hugged her again, exulted in her
-brighter looks, and stationed her in her chair by the window. Over
+brighter looks, and stationed her in her chair by the [[Window|window]]. Over
 against this chair, Maggy, with apoplectic exertions that were not
 at all required, dragged the box which was her seat on story-telling
 occasions, sat down upon it, hugged her own knees, and said, with a
@@ -610,7 +610,7 @@ Beyond all belief, you know!’
 Little Dorrit considered for a moment; and with a rather sad smile upon
 her face, which was flushed by the sunset, began:
 
-‘Maggy, there was once upon a time a fine King, and he had everything he
+‘Maggy, there was once upon a [[Time|time]] a fine [[King]], and he had everything he
 could wish for, and a great deal more. He had gold and silver, diamonds
 and rubies, riches of every kind. He had palaces, and he had--’
 
@@ -626,43 +626,43 @@ Chicking.’
 
 ‘Lor!’ chuckled Maggy, giving her knees a hug. ‘Wasn’t it prime!’
 
-‘This King had a daughter, who was the wisest and most beautiful
-Princess that ever was seen. When she was a child she understood all her
+‘This [[King]] had a daughter, who was the wisest and most beautiful
+Princess that ever was seen. When she was a [[Child|child]] she understood all her
 lessons before her masters taught them to her; and when she was grown
-up, she was the wonder of the world. Now, near the Palace where this
+up, she was the [[Wonder|wonder]] of the world. Now, near the Palace where this
 Princess lived, there was a cottage in which there was a poor little
-tiny woman, who lived all alone by herself.’
+tiny woman, who lived all [[Alone|alone]] by herself.’
 
 ‘An old woman,’ said Maggy, with an unctuous smack of her lips.
 
 ‘No, not an old woman. Quite a young one.’
 
-‘I wonder she warn’t afraid,’ said Maggy. ‘Go on, please.’
+‘I [[Wonder|wonder]] she warn’t afraid,’ said Maggy. ‘Go on, please.’
 
 ‘The Princess passed the cottage nearly every day, and whenever she went
 by in her beautiful carriage, she saw the poor tiny woman spinning at
-her wheel, and she looked at the tiny woman, and the tiny woman looked
+her [[Wheel|wheel]], and she looked at the tiny woman, and the tiny woman looked
 at her. So, one day she stopped the coachman a little way from the
 cottage, and got out and walked on and peeped in at the door, and there,
-as usual, was the tiny woman spinning at her wheel, and she looked at
+as usual, was the tiny woman spinning at her [[Wheel|wheel]], and she looked at
 the Princess, and the Princess looked at her.’
 
 ‘Like trying to stare one another out,’ said Maggy. ‘Please go on,
 Little Mother.’
 
 ‘The Princess was such a wonderful Princess that she had the power of
-knowing secrets, and she said to the tiny woman, Why do you keep it
+knowing [[Secrets|secrets]], and she said to the tiny woman, Why do you keep it
 there? This showed her directly that the Princess knew why she lived
-all alone by herself spinning at her wheel, and she kneeled down at
+all [[Alone|alone]] by herself spinning at her [[Wheel|wheel]], and she kneeled down at
 the Princess’s feet, and asked her never to betray her. So the Princess
 said, I never will betray you. Let me see it. So the tiny woman closed
-the shutter of the cottage window and fastened the door, and trembling
-from head to foot for fear that any one should suspect her, opened a
-very secret place and showed the Princess a shadow.’
+the shutter of the cottage [[Window|window]] and fastened the door, and trembling
+from head to foot for [[Fear|fear]] that any one should suspect her, opened a
+very secret place and showed the Princess a [[Shadow|shadow]].’
 
 ‘Lor!’ said Maggy.
 
-‘It was the shadow of Some one who had gone by long before: of Some one
+‘It was the [[Shadow|shadow]] of Some one who had gone by long before: of Some one
 who had gone on far away quite out of reach, never, never to come back.
 It was bright to look at; and when the tiny woman showed it to the
 Princess, she was proud of it with all her heart, as a great, great
@@ -681,23 +681,23 @@ Little Dorrit timidly said Yes, she believed so; and resumed:
 ‘--Had gone on to those who were expecting him, and that this
 remembrance was stolen or kept back from nobody. The Princess made
 answer, Ah! But when the cottager died it would be discovered there. The
-tiny woman told her No; when that time came, it would sink quietly into
-her own grave, and would never be found.’
+tiny woman told her No; when that [[Time|time]] came, it would sink quietly into
+her own [[Grave|grave]], and would never be found.’
 
-‘Well, to be sure!’ said Maggy. ‘Go on, please.’
+‘[[Well]], to be sure!’ said Maggy. ‘Go on, please.’
 
 ‘The Princess was very much astonished to hear this, as you may suppose,
 Maggy.’
 
-[‘And well she might be,’ said Maggy.)
+[‘And [[Well|well]] she might be,’ said Maggy.)
 
 ‘So she resolved to watch the tiny woman, and see what came of it. Every
 day she drove in her beautiful carriage by the cottage-door, and there
-she saw the tiny woman always alone by herself spinning at her wheel,
+she saw the tiny woman always [[Alone|alone]] by herself spinning at her [[Wheel|wheel]],
 and she looked at the tiny woman, and the tiny woman looked at her. At
-last one day the wheel was still, and the tiny woman was not to be seen.
-When the Princess made inquiries why the wheel had stopped, and where
-the tiny woman was, she was informed that the wheel had stopped because
+last one day the [[Wheel|wheel]] was still, and the tiny woman was not to be seen.
+When the Princess made inquiries why the [[Wheel|wheel]] had stopped, and where
+the tiny woman was, she was informed that the [[Wheel|wheel]] had stopped because
 there was nobody to turn it, the tiny woman being dead.’
 
 [‘They ought to have took her to the Hospital,’ said Maggy, and then
@@ -707,10 +707,10 @@ she’d have got over it.’)
 woman, dried her eyes and got out of her carriage at the place where
 she had stopped it before, and went to the cottage and peeped in at the
 door. There was nobody to look at her now, and nobody for her to look
-at, so she went in at once to search for the treasured shadow. But there
+at, so she went in at once to search for the treasured [[Shadow|shadow]]. But there
 was no sign of it to be found anywhere; and then she knew that the tiny
-woman had told her the truth, and that it would never give anybody any
-trouble, and that it had sunk quietly into her own grave, and that she
+woman had told her the [[Truth|truth]], and that it would never give anybody any
+trouble, and that it had sunk quietly into her own [[Grave|grave]], and that she
 and it were at rest together.
 
 ‘That’s all, Maggy.’
@@ -727,26 +727,26 @@ thus to the end of her story, that she interposed her hand to shade it.
 ‘I don’t know,’ said Little Dorrit. ‘But it would have been just the
 same if she had been ever so old.’
 
-‘Would it raly!’ said Maggy. ‘Well, I suppose it would though.’ And sat
+‘Would it raly!’ said Maggy. ‘[[Well]], I suppose it would though.’ And sat
 staring and ruminating.
 
 She sat so long with her eyes wide open, that at length Little Dorrit,
-to entice her from her box, rose and looked out of window. As she
+to entice her from her box, [[Rose|rose]] and looked out of [[Window|window]]. As she
 glanced down into the yard, she saw Pancks come in and leer up with the
 corner of his eye as he went by.
 
-‘Who’s he, Little Mother?’ said Maggy. She had joined her at the window
+‘Who’s he, Little Mother?’ said Maggy. She had joined her at the [[Window|window]]
 and was leaning on her shoulder. ‘I see him come in and out often.’
 
 ‘I have heard him called a fortune-teller,’ said Little Dorrit. ‘But I
-doubt if he could tell many people even their past or present fortunes.’
+[[Doubt|doubt]] if he could tell many people even their past or present fortunes.’
 
 ‘Couldn’t have told the Princess hers?’ said Maggy.
 
-Little Dorrit, looking musingly down into the dark valley of the prison,
+Little Dorrit, looking musingly down into the dark valley of the [[Prison|prison]],
 shook her head.
 
 ‘Nor the tiny woman hers?’ said Maggy.
 
 ‘No,’ said Little Dorrit, with the sunset very bright upon her. ‘But let
-us come away from the window.’
+us come away from the [[Window|window]].’

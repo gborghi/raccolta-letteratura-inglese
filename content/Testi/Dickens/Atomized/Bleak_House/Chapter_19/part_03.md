@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 19 (part 3)"
+title: "Bleak [[house|House]] — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mr. Snagsby, presuming on the success of his last point, ventures to
+Mr. Snagsby, presuming on the [[success]] of his last point, ventures to
 observe in a cheerful and rather knowing tone, “No wings.” But is
 immediately frowned down by Mrs. Snagsby.
 
@@ -22,7 +22,7 @@ immediately frowned down by Mrs. Snagsby.
 obliterating Mr. Snagsby’s suggestion, “why can we not fly? Is it
 because we are calculated to walk? It is. Could we walk, my friends,
 without strength? We could not. What should we do without strength,
-my friends? Our legs would refuse to bear us, our knees would double
+my friends? Our legs would refuse to bear us, our knees would [[Double|double]]
 up, our ankles would turn over, and we should come to the ground.
 Then from whence, my friends, in a human point of view, do we derive
 the strength that is necessary to our limbs? Is it,” says Chadband,
@@ -40,13 +40,13 @@ experience that the Chadband style of oratory is widely received and
 much admired.
 
 Mr. Chadband, however, having concluded for the present, sits down at
-Mr. Snagsby’s table and lays about him prodigiously. The conversion
+Mr. Snagsby’s table and lays about him prodigiously. The [[conversion]]
 of nutriment of any sort into oil of the quality already mentioned
 appears to be a process so inseparable from the constitution of this
 exemplary vessel that in beginning to eat and drink, he may be
 described as always becoming a kind of considerable oil mills or
 other large factory for the production of that article on a wholesale
-scale. On the present evening of the long vacation, in Cook’s Court,
+scale. On the present evening of the long vacation, in Cook’s [[Court]],
 Cursitor Street, he does such a powerful stroke of business that the
 warehouse appears to be quite full when the works cease.
 
@@ -71,7 +71,7 @@ contemplating a police constable, who holds a ragged boy by the arm.
 won’t move on—”
 
 “I’m always a-moving on, sar,” cries the boy, wiping away his grimy
-tears with his arm. “I’ve always been a-moving and a-moving on, ever
+[[Tears|tears]] with his arm. “I’ve always been a-moving and a-moving on, ever
 since I was born. Where can I possibly move to, sir, more nor I do
 move!”
 
@@ -92,8 +92,8 @@ hundred times.”
 
 “But where?” cries the boy.
 
-“Well! Really, constable, you know,” says Mr. Snagsby wistfully, and
-coughing behind his hand his cough of great perplexity and doubt,
+“[[Well]]! Really, constable, you know,” says Mr. Snagsby wistfully, and
+coughing behind his hand his cough of great perplexity and [[Doubt|doubt]],
 “really, that does seem a question. Where, you know?”
 
 “My instructions don’t go to that,” replies the constable. “My
@@ -109,7 +109,7 @@ all agree about that. Move on!
 
 Mr. Snagsby says nothing to this effect, says nothing at all indeed,
 but coughs his forlornest cough, expressive of no thoroughfare in any
-direction. By this time Mr. and Mrs. Chadband and Mrs. Snagsby,
+direction. By this [[Time|time]] Mr. and Mrs. Chadband and Mrs. Snagsby,
 hearing the altercation, have appeared upon the stairs. Guster having
 never left the end of the passage, the whole household are assembled.
 
@@ -119,13 +119,13 @@ this boy. He says you do.”
 Mrs. Snagsby, from her elevation, instantly cries out, “No he don’t!”
 
 “My lit-tle woman!” says Mr. Snagsby, looking up the staircase. “My
-love, permit me! Pray have a moment’s patience, my dear. I do know
+[[Love|love]], permit me! Pray have a moment’s patience, my dear. I do know
 something of this lad, and in what I know of him, I can’t say that
 there’s any harm; perhaps on the contrary, constable.” To whom the
 law-stationer relates his Joful and woeful experience, suppressing
-the half-crown fact.
+the half-[[Crown|crown]] fact.
 
-“Well!” says the constable, “so far, it seems, he had grounds for
+“[[Well]]!” says the constable, “so far, it seems, he had grounds for
 what he said. When I took him into custody up in Holborn, he said you
 knew him. Upon that, a young man who was in the crowd said he was
 acquainted with you, and you were a respectable housekeeper, and if

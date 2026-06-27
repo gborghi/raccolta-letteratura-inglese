@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 32 (part 2)"
+title: "[[Shirley]] — Chapter 32 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,13 +20,13 @@ fell to the lot of meddling womankind, _en masse_.
 
 
 
-For the best part of one winter night himself and satellites were busied
+For the best part of one [[Winter|winter]] [[Night|night]] himself and satellites were busied
 
-about Moore. There at his bedside, shut up alone with him in his
+about Moore. There at his bedside, shut up [[Alone|alone]] with him in his
 
 chamber, they wrought and wrangled over his exhausted frame. They three
 
-were on one side of the bed, and Death on the other. The conflict was
+were on one side of the bed, and [[Death]] on the other. The conflict was
 
 sharp; it lasted till day broke, when the balance between the
 
@@ -36,11 +36,11 @@ victory.
 
 
 
-At dawn Graves and young MacTurk were left in charge of the patient,
+At [[Dawn|dawn]] Graves and young MacTurk were left in charge of the patient,
 
 while the senior went himself in search of additional strength, and
 
-secured it in the person of Mrs. Horsfall, the best nurse on his staff.
+secured it in the person of Mrs. Horsfall, the best [[Nurse|nurse]] on his staff.
 
 To this woman he gave Moore in charge, with the sternest injunctions
 
@@ -76,7 +76,7 @@ her dram three times a day, and her pipe of tobacco four times.
 
 As to Moore, no one now ventured to inquire about him. Mrs. Horsfall had
 
-him at dry-nurse. It was she who was to do for him, and the general
+him at dry-[[Nurse|nurse]]. It was she who was to do for him, and the general
 
 conjecture now ran that she did for him accordingly.
 
@@ -92,13 +92,13 @@ creditable to his skill to set agoing again. Graves and young
 
 MacTurk--Moore's sole other visitors--contemplated him in the light in
 
-which they were wont to contemplate the occupant for the time being of
+which they were wont to contemplate the occupant for the [[Time|time]] being of
 
 the dissecting-room at Stilbro' Infirmary.
 
 
 
-Robert Moore had a pleasant time of it--in pain, in danger, too weak to
+[[Robert Moore]] had a pleasant [[Time|time]] of it--in [[Pain|pain]], in danger, too weak to
 
 move, almost too weak to speak, a sort of giantess his keeper, the three
 
@@ -122,9 +122,9 @@ When he was good she addressed him as "my dear" and "honey," and when he
 
 was bad she sometimes shook him. Did he attempt to speak when MacTurk
 
-was there, she lifted her hand and bade him "Hush!" like a nurse
+was there, she lifted her hand and bade him "Hush!" like a [[Nurse|nurse]]
 
-checking a forward child. If she had not smoked, if she had not taken
+checking a forward [[Child|child]]. If she had not smoked, if she had not taken
 
 gin, it would have been better, he thought; but she did both. Once, in
 
@@ -146,13 +146,13 @@ sober, she always remembers to obey _me_."
 
 
 
-At length the latter autumn passed; its fogs, its rains withdrew from
+At length the latter [[Autumn|autumn]] passed; its fogs, its rains withdrew from
 
-England their mourning and their tears; its winds swept on to sigh over
+England their mourning and their [[Tears|tears]]; its winds swept on to sigh over
 
-lands far away. Behind November came deep winter--clearness, stillness,
+lands far away. Behind November came deep [[Winter|winter]]--clearness, stillness,
 
-frost accompanying.
+[[Frost|frost]] accompanying.
 
 
 
@@ -164,7 +164,7 @@ _reflets_[A] of white, or violet, or pale green gems. The hills wore a
 
 lilac blue; the setting sun had purple in its red; the sky was ice, all
 
-silvered azure; when the stars rose, they were of white crystal, not
+silvered azure; when the [[Stars|stars]] [[Rose|rose]], they were of white crystal, not
 
 gold; gray, or cerulean, or faint emerald hues--cool, pure, and
 
@@ -184,15 +184,15 @@ a wood neutral tint--this dark blue moving object? Why, it is a
 
 schoolboy--a Briarfield grammar-school boy--who has left his companions,
 
-now trudging home by the highroad, and is seeking a certain tree, with a
+now trudging [[Home|home]] by the highroad, and is seeking a certain tree, with a
 
 certain mossy mound at its root, convenient as a seat. Why is he
 
-lingering here? The air is cold and the time wears late. He sits down.
+lingering here? The air is cold and the [[Time|time]] wears late. He sits down.
 
-What is he thinking about? Does he feel the chaste charm Nature wears
+What is he thinking about? Does he feel the chaste charm [[Nature]] wears
 
-to-night? A pearl-white moon smiles through the gray trees; does he care
+to-[[Night|night]]? A pearl-white [[Moon|moon]] smiles through the gray trees; does he care
 
 for her smile?
 
@@ -200,7 +200,7 @@ for her smile?
 
 Impossible to say; for he is silent, and his countenance does not speak.
 
-As yet it is no mirror to reflect sensation, but rather a mask to
+As yet it is no [[Mirror|mirror]] to reflect sensation, but rather a mask to
 
 conceal it. This boy is a stripling of fifteen--slight, and tall of his
 
@@ -214,9 +214,9 @@ resistance. Wise ushers avoid unnecessary interference with that lad.
 
 To break him in by severity would be a useless attempt; to win him by
 
-flattery would be an effort worse than useless. He is best let alone.
+flattery would be an effort worse than useless. He is best let [[Alone|alone]].
 
-Time will educate and experience train him.
+[[Time]] will educate and experience train him.
 
 
 
@@ -224,4 +224,4 @@ Professedly Martin Yorke (it is a young Yorke, of course) tramples on
 
 the name of poetry. Talk sentiment to him, and you would be answered by
 
-sarcasm. Here he is, wandering alone, waiting duteously on Nature, while
+sarcasm. Here he is, wandering [[Alone|alone]], waiting duteously on [[Nature]], while

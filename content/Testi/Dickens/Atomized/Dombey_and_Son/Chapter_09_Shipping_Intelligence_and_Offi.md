@@ -15,5 +15,5 @@ tags:
 
 
  CHAPTER XIII. Shipping Intelligence and Office Business
- CHAPTER XIV. Paul grows more and more Old-fashioned, and goes Home for the Holidays
- CHAPTER XV. Amazing Artfulness of Captain Cuttle, and a new Pursuit for Walter Gay
+ CHAPTER XIV. Paul grows more and more Old-fashioned, and goes [[Home]] for the Holidays
+ CHAPTER XV. Amazing Artfulness of [[Captain Cuttle]], and a new Pursuit for [[Walter Gay]]

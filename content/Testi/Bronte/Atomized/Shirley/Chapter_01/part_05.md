@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 1 (part 5)"
+title: "[[Shirley]] — Chapter 1 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -34,7 +34,7 @@ poured out and filled the park. He then perceived they were
 
 soldiers--thousands and tens of thousands; but they made no more noise
 
-than a swarm of midges on a summer evening. They formed in order, he
+than a swarm of midges on a [[Summer|summer]] evening. They formed in order, he
 
 affirmed, and marched, regiment after regiment, across the park. He
 
@@ -46,7 +46,7 @@ evolutions. A man clothed in scarlet stood in the centre and directed
 
 them. They extended, he declared, over fifty acres. They were in sight
 
-half an hour; then they marched away quite silently. The whole time he
+half an hour; then they marched away quite silently. The whole [[Time|time]] he
 
 heard neither voice nor tread--nothing but the faint music playing a
 
@@ -62,7 +62,7 @@ solemn march."
 
 when a column of smoke, such as might be vomited by a park of artillery,
 
-spread noiseless over the fields, the road, the common, and rolled, he
+spread noiseless over the fields, the [[Road|road]], the common, and rolled, he
 
 said, blue and dim, to his very feet. As it cleared away he looked again
 
@@ -92,7 +92,7 @@ like this kind of thing."
 
 "So I should have done, had I not unfortunately happened to engage
 
-Boultby to sup with me on his way home from the Bible Society meeting at
+Boultby to sup with me on his way [[Home|home]] from the [[Bible]] Society meeting at
 
 Nunnely. I promised to send you as my substitute; for which, by-the-bye,
 
@@ -112,7 +112,7 @@ a queer state, as you all know, and Moore and his mill and his machinery
 
 are held in sufficient odium. There are chivalric sentiments, there is
 
-high-beating courage, under those waistcoats of yours, I doubt not.
+high-beating [[Courage|courage]], under those waistcoats of yours, I [[Doubt|doubt]] not.
 
 Perhaps I am too partial to my favourite Peter. Little David shall be
 
@@ -142,9 +142,9 @@ Donne.
 
 
 
-"If you never touched a pistol, try the feel of it now, great satrap of
+"If you never touched a [[Pistol|pistol]], try the feel of it now, great satrap of
 
-Egypt. As to the little minstrel, he probably prefers encountering the
+[[Egypt]]. As to the little minstrel, he probably prefers encountering the
 
 Philistines with no other weapon than his flute.--Get their hats, Peter.
 
@@ -164,14 +164,14 @@ observed Donne.
 
 
 
-Helstone smiled sardonically; Malone laughed a horse-laugh. He then
+Helstone smiled sardonically; Malone laughed a [[Horse|horse]]-laugh. He then
 
 replaced his arms, took his hat and cudgel, and saying that "he never
 
 felt more in tune for a shindy in his life, and that he wished a score
 
-of greasy cloth-dressers might beat up Moore's quarters that night," he
+of greasy cloth-dressers might beat up Moore's quarters that [[Night|night]]," he
 
 made his exit, clearing the stairs at a stride or two, and making the
 
-house shake with the bang of the front-door behind him.
+[[house]] shake with the bang of the front-door behind him.

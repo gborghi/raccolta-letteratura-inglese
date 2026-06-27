@@ -16,16 +16,16 @@ tags:
 
 Walter briskly waved his hand in the negative.
 
-“Well, my lad,” growled the Captain slowly, “I won’t deny but what I
+“[[Well]], my lad,” growled the Captain slowly, “I won’t deny but what I
 find myself wery much down by the head, along o’ this here, or but what
 I’ve gone clean about. But as to Lady lass, Wal”r, mind you, wot’s
 respect and duty to her, is respect and duty in my articles, howsumever
 disapinting; and therefore I follows in your wake, my lad, and feel as
-you are, no doubt, acting up to yourself. And there ain’t no other
+you are, no [[Doubt|doubt]], acting up to yourself. And there ain’t no other
 character, ain’t there?” said the Captain, musing over the ruins of his
-fallen castle, with a very despondent face.
+fallen [[Castle|castle]], with a very despondent face.
 
-“Now, Captain Cuttle,” said Walter, starting a fresh point with a gayer
+“Now, [[Captain Cuttle]],” said Walter, starting a fresh point with a gayer
 air, to cheer the Captain up—but nothing could do that; he was too much
 concerned—“I think we should exert ourselves to find someone who would
 be a proper attendant for Miss Dombey while she remains here, and who
@@ -35,7 +35,7 @@ that they are all subservient to her father. What has become of Susan?”
 “The young woman?” returned the Captain. “It’s my belief as she was
 sent away again the will of Heart’s Delight. I made a signal for her
 when Lady lass first come, and she rated of her wery high, and said she
-had been gone a long time.”
+had been gone a long [[Time|time]].”
 
 “Then,” said Walter, “do you ask Miss Dombey where she’s gone, and
 we’ll try to find her. The morning’s getting on, and Miss Dombey will
@@ -49,14 +49,14 @@ her old friend Susan. But Florence could not say where Susan was gone,
 except that it was in Essex, and no one could say, she remembered,
 unless it were Mr Toots.
 
-With this information the melancholy Captain returned to Walter, and
+With this information the [[Melancholy|melancholy]] Captain returned to Walter, and
 gave him to understand that Mr Toots was the young gentleman whom he
 had encountered on the door-step, and that he was a friend of his, and
 that he was a young gentleman of property, and that he hopelessly
 adored Miss Dombey. The Captain also related how the intelligence of
 Walter’s supposed fate had first made him acquainted with Mr Toots, and
 how there was solemn treaty and compact between them, that Mr Toots
-should be mute upon the subject of his love.
+should be mute upon the subject of his [[Love|love]].
 
 The question then was, whether Florence could trust Mr Toots; and
 Florence saying, with a smile, “Oh, yes, with her whole heart!” it
@@ -107,7 +107,7 @@ that he and Miss Dombey were made for one another?”
 “Why, ay, my lad,” replied the disconsolate Captain; “I was of that
 mind once.”
 
-“And at this time!” exclaimed Mr Toots, with his hand to his forehead
+“And at this [[Time|time]]!” exclaimed Mr Toots, with his hand to his forehead
 again. “Of all others!—a hated rival! At least, he ain’t a hated
 rival,” said Mr Toots, stopping short, on second thoughts, and taking
 away his hand; “what should I hate him for? No. If my affection has
@@ -116,18 +116,18 @@ been truly disinterested, Captain Gills, let me prove it now!”
 Mr Toots shot back abruptly into the parlour, and said, wringing Walter
 by the hand:
 
-“How-de-do? I hope you didn’t take any cold. I—I shall be very glad if
+“How-de-do? I [[Hope|hope]] you didn’t take any cold. I—I shall be very glad if
 you’ll give me the pleasure of your acquaintance. I wish you many happy
-returns of the day. Upon my word and honour,” said Mr Toots, warming as
+returns of the day. Upon my word and [[Honour|honour]],” said Mr Toots, warming as
 he became better acquainted with Walter’s face and figure, “I’m very
 glad to see you!”
 
-“Thank you, heartily,” said Walter. “I couldn’t desire a more genuine
+“Thank you, heartily,” said Walter. “I couldn’t [[Desire|desire]] a more genuine
 and genial welcome.”
 
 “Couldn’t you, though?” said Mr Toots, still shaking his hand. “It’s
-very kind of you. I’m much obliged to you. How-de-do? I hope you left
-everybody quite well over the—that is, upon the—I mean wherever you
+very kind of you. I’m much obliged to you. How-de-do? I [[Hope|hope]] you left
+everybody quite [[Well|well]] over the—that is, upon the—I mean wherever you
 came from last, you know.”
 
 All these good wishes, and better intentions, Walter responded to
@@ -141,7 +141,7 @@ subject that—”
 
 “Then, Captain Gills,” said Mr Toots, “and Lieutenant Walters—are you
 aware that the most dreadful circumstances have been happening at Mr
-Dombey’s house, and that Miss Dombey herself has left her father, who,
+Dombey’s [[house]], and that Miss Dombey herself has left her father, who,
 in my opinion,” said Mr Toots, with great excitement, “is a Brute, that
 it would be a flattery to call a—a marble monument, or a bird of
 prey,—and that she is not to be found, and has gone no one knows

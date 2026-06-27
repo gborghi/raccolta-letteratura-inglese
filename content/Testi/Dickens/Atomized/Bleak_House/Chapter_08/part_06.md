@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 8 (part 6)"
+title: "Bleak [[house|House]] — Chapter 8 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-I was glad when we came to the brickmaker’s house, though it was one
+I was glad when we came to the brickmaker’s [[house]], though it was one
 of a cluster of wretched hovels in a brick-field, with pigsties close
 to the broken windows and miserable little gardens before the doors
 growing nothing but stagnant pools. Here and there an old tub was put
-to catch the droppings of rain-water from a roof, or they were banked
+to catch the droppings of rain-[[Water|water]] from a roof, or they were banked
 up with mud into a little pond like a large dirt-pie. At the doors
 and windows some men and women lounged or prowled about, and took
 little notice of us except to laugh to one another or to say
@@ -32,15 +32,15 @@ habits of the people (though I doubted if the best of us could have
 been tidy in such a place), conducted us into a cottage at the
 farthest corner, the ground-floor room of which we nearly filled.
 Besides ourselves, there were in this damp, offensive room a woman
-with a black eye, nursing a poor little gasping baby by the fire; a
+with a black eye, nursing a poor little gasping baby by the [[Fire|fire]]; a
 man, all stained with clay and mud and looking very dissipated, lying
 at full length on the ground, smoking a pipe; a powerful young man
 fastening a collar on a dog; and a bold girl doing some kind of
-washing in very dirty water. They all looked up at us as we came in,
-and the woman seemed to turn her face towards the fire as if to hide
+washing in very dirty [[Water|water]]. They all looked up at us as we came in,
+and the woman seemed to turn her face towards the [[Fire|fire]] as if to hide
 her bruised eye; nobody gave us any welcome.
 
-“Well, my friends,” said Mrs. Pardiggle, but her voice had not a
+“[[Well]], my friends,” said Mrs. Pardiggle, but her voice had not a
 friendly sound, I thought; it was much too business-like and
 systematic. “How do you do, all of you? I am here again. I told you,
 you couldn’t tire me, you know. I am fond of hard work, and am true
@@ -67,9 +67,9 @@ I like it.”
 it done, and over. I wants a end of these liberties took with my
 place. I wants an end of being drawed like a badger. Now you’re
 a-going to poll-pry and question according to custom—I know what
-you’re a-going to be up to. Well! You haven’t got no occasion to be
+you’re a-going to be up to. [[Well]]! You haven’t got no occasion to be
 up to it. I’ll save you the trouble. Is my daughter a-washin? Yes,
-she IS a-washin. Look at the water. Smell it! That’s wot we drinks.
+she IS a-washin. Look at the [[Water|water]]. Smell it! That’s wot we drinks.
 How do you like it, and what do you think of gin instead! An’t my
 place dirty? Yes, it is dirty—it’s nat’rally dirty, and it’s
 nat’rally onwholesome; and we’ve had five dirty and onwholesome
@@ -93,7 +93,7 @@ composure, calculated, I could not help thinking, to increase his
 antagonism, pulled out a good book as if it were a constable’s staff
 and took the whole family into custody. I mean into religious
 custody, of course; but she really did it as if she were an
-inexorable moral policeman carrying them all off to a station-house.
+inexorable moral policeman carrying them all off to a station-[[house]].
 
 Ada and I were very uncomfortable. We both felt intrusive and out of
 place, and we both thought that Mrs. Pardiggle would have got on
@@ -115,7 +115,7 @@ We were much relieved, under these circumstances, when Mrs. Pardiggle
 left off.
 
 The man on the floor, then turning his head round again, said
-morosely, “Well! You’ve done, have you?”
+morosely, “[[Well]]! You’ve done, have you?”
 
 “For to-day, I have, my friend. But I am never fatigued. I shall come
 to you again in your regular order,” returned Mrs. Pardiggle with
@@ -124,12 +124,12 @@ demonstrative cheerfulness.
 “So long as you goes now,” said he, folding his arms and shutting his
 eyes with an oath, “you may do wot you like!”
 
-Mrs. Pardiggle accordingly rose and made a little vortex in the
+Mrs. Pardiggle accordingly [[Rose|rose]] and made a little vortex in the
 confined room from which the pipe itself very narrowly escaped.
 Taking one of her young family in each hand, and telling the others
-to follow closely, and expressing her hope that the brickmaker and
-all his house would be improved when she saw them next, she then
-proceeded to another cottage. I hope it is not unkind in me to say
+to follow closely, and expressing her [[Hope|hope]] that the brickmaker and
+all his [[house]] would be improved when she saw them next, she then
+proceeded to another cottage. I [[Hope|hope]] it is not unkind in me to say
 that she certainly did make, in this as in everything else, a show
-that was not conciliatory of doing charity by wholesale and of
+that was not conciliatory of doing [[Charity|charity]] by wholesale and of
 dealing in it to a large extent.

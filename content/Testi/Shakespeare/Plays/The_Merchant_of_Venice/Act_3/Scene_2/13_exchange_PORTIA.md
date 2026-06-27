@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of Venice — Act III, Scene 2 — exchange (PORTIA) [13]"
+title: "The Merchant of [[Venice]] — Act III, Scene 2 — exchange ([[Portia|PORTIA]]) [13]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-MERCHANT-OF-VENICE-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| PORTIA | O, love! Dispatch all business, and be gone. |
-| BASSANIO | Since I have your good leave to go away I will make haste, but till I come again No bed shall e‘er be guilty of my stay Nor rest be interposer ’twixt us twain. Exeunt |
+| [[Portia|PORTIA]] | O, [[Love|love]]! Dispatch all business, and be gone. |
+| [[Bassanio|BASSANIO]] | Since I have your good leave to go away I will make haste, but till I come again No bed shall e‘er be guilty of my stay Nor rest be interposer ’twixt us twain. Exeunt |

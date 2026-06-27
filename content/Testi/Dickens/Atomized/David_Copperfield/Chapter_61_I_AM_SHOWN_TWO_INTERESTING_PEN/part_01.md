@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 1)"
+title: "[[David Copperfield]] — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,22 +17,22 @@ tags:
 CHAPTER 61. I AM SHOWN TWO INTERESTING PENITENTS
 
 
-For a time--at all events until my book should be completed, which would
-be the work of several months--I took up my abode in my aunt’s house at
-Dover; and there, sitting in the window from which I had looked out at
-the moon upon the sea, when that roof first gave me shelter, I quietly
+For a [[Time|time]]--at all events until my book should be completed, which would
+be the work of several months--I took up my abode in my aunt’s [[house]] at
+Dover; and there, sitting in the [[Window|window]] from which I had looked out at
+the [[Moon|moon]] upon the sea, when that roof first gave me shelter, I quietly
 pursued my task.
 
 In pursuance of my intention of referring to my own fictions only when
 their course should incidentally connect itself with the progress of my
 story, I do not enter on the aspirations, the delights, anxieties, and
 triumphs of my art. That I truly devoted myself to it with my strongest
-earnestness, and bestowed upon it every energy of my soul, I have
+earnestness, and bestowed upon it every energy of my [[Soul|soul]], I have
 already said. If the books I have written be of any worth, they will
 supply the rest. I shall otherwise have written to poor purpose, and the
 rest will be of interest to no one.
 
-Occasionally, I went to London; to lose myself in the swarm of life
+Occasionally, I went to [[London]]; to lose myself in the swarm of life
 there, or to consult with Traddles on some business point. He had
 managed for me, in my absence, with the soundest judgement; and my
 worldly affairs were prospering. As my notoriety began to bring upon
@@ -40,7 +40,7 @@ me an enormous quantity of letters from people of whom I had no
 knowledge--chiefly about nothing, and extremely difficult to answer--I
 agreed with Traddles to have my name painted up on his door. There, the
 devoted postman on that beat delivered bushels of letters for me; and
-there, at intervals, I laboured through them, like a Home Secretary of
+there, at intervals, I laboured through them, like a [[Home]] Secretary of
 State without the salary.
 
 Among this correspondence, there dropped in, every now and then, an
@@ -52,10 +52,10 @@ aware that there were plenty of such covert practitioners in existence,
 and considering the Commons quite bad enough, without my doing anything
 to make it worse.
 
-The girls had gone home, when my name burst into bloom on Traddles’s
+The girls had gone [[Home|home]], when my name burst into bloom on Traddles’s
 door; and the sharp boy looked, all day, as if he had never heard of
 Sophy, shut up in a back room, glancing down from her work into a sooty
-little strip of garden with a pump in it. But there I always found her,
+little strip of [[Garden|garden]] with a pump in it. But there I always found her,
 the same bright housewife; often humming her Devonshire ballads when no
 strange foot was coming up the stairs, and blunting the sharp boy in his
 official closet with melody.
@@ -63,11 +63,11 @@ official closet with melody.
 I wondered, at first, why I so often found Sophy writing in a copy-book;
 and why she always shut it up when I appeared, and hurried it into the
 table-drawer. But the secret soon came out. One day, Traddles (who had
-just come home through the drizzling sleet from Court) took a paper out
+just come [[Home|home]] through the drizzling sleet from [[Court]]) took a paper out
 of his desk, and asked me what I thought of that handwriting?
 
 ‘Oh, DON’T, Tom!’ cried Sophy, who was warming his slippers before the
-fire.
+[[Fire|fire]].
 
 ‘My dear,’ returned Tom, in a delighted state, ‘why not? What do you say
 to that writing, Copperfield?’
@@ -101,13 +101,13 @@ fellow. I believe you make yourselves, and each other, two of the
 happiest people in the world.’
 
 ‘I am sure we ARE two of the happiest people,’ returned Traddles. ‘I
-admit that, at all events. Bless my soul, when I see her getting up
+admit that, at all events. Bless my [[Soul|soul]], when I see her getting up
 by candle-light on these dark mornings, busying herself in the day’s
 arrangements, going out to market before the clerks come into the Inn,
 caring for no weather, devising the most capital little dinners out of
 the plainest materials, making puddings and pies, keeping everything in
 its right place, always so neat and ornamental herself, sitting up
-at night with me if it’s ever so late, sweet-tempered and encouraging
+at [[Night|night]] with me if it’s ever so late, sweet-tempered and encouraging
 always, and all for me, I positively sometimes can’t believe it,
 Copperfield!’
 
@@ -116,7 +116,7 @@ on, and stretched his feet enjoyingly upon the fender.
 
 ‘I positively sometimes can’t believe it,’ said Traddles. ‘Then our
 pleasures! Dear me, they are inexpensive, but they are quite wonderful!
-When we are at home here, of an evening, and shut the outer door, and
+When we are at [[Home|home]] here, of an evening, and shut the outer door, and
 draw those curtains--which she made--where could we be more snug? When
 it’s fine, and we go out for a walk in the evening, the streets
 abound in enjoyment for us. We look into the glittering windows of the
@@ -128,14 +128,14 @@ lever-escape-movement, and all sorts of things, she would buy for me if
 she could afford it; and we pick out the spoons and forks, fish-slices,
 butter-knives, and sugar-tongs, we should both prefer if we could both
 afford it; and really we go away as if we had got them! Then, when we
-stroll into the squares, and great streets, and see a house to let,
+stroll into the squares, and great streets, and see a [[house]] to let,
 sometimes we look up at it, and say, how would THAT do, if I was made
 a judge? And we parcel it out--such a room for us, such rooms for the
 girls, and so forth; until we settle to our satisfaction that it
 would do, or it wouldn’t do, as the case may be. Sometimes, we go at
 half-price to the pit of the theatre--the very smell of which is cheap,
 in my opinion, at the money--and there we thoroughly enjoy the play:
-which Sophy believes every word of, and so do I. In walking home,
+which Sophy believes every word of, and so do I. In walking [[Home|home]],
 perhaps we buy a little bit of something at a cook’s-shop, or a little
 lobster at the fishmongers, and bring it here, and make a splendid
 supper, chatting about what we have seen. Now, you know, Copperfield, if

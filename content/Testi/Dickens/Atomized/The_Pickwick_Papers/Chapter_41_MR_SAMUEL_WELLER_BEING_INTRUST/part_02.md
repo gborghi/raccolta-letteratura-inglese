@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -24,13 +24,13 @@ tags:
 
 ‘No; nor that either,’ said the groom.
 
-‘Vell,’ replied Sam, ‘then I’m mistaken, and he hasn’t got the honour o’
+‘Vell,’ replied Sam, ‘then I’m mistaken, and he hasn’t got the [[Honour|honour]] o’
 my acquaintance, which I thought he had. Don’t wait here out o’
 compliment to me,’ said Sam, as the groom wheeled in the barrow, and
 prepared to shut the gate. ‘Ease afore ceremony, old boy; I’ll excuse
 you.’
 
-‘I’d knock your head off for half-a-crown,’ said the surly groom,
+‘I’d knock your head off for half-a-[[Crown|crown]],’ said the surly groom,
 bolting one half of the gate.
 
 ‘Couldn’t afford to have it done on those terms,’ rejoined Sam. ‘It ‘ud
@@ -39,7 +39,7 @@ that. Make my compliments indoors. Tell ‘em not to vait dinner for me,
 and say they needn’t mind puttin’ any by, for it’ll be cold afore I come
 in.’
 
-In reply to this, the groom waxing very wroth, muttered a desire to
+In reply to this, the groom waxing very wroth, muttered a [[Desire|desire]] to
 damage somebody’s person; but disappeared without carrying it into
 execution, slamming the door angrily after him, and wholly unheeding
 Sam’s affectionate request, that he would leave him a lock of his hair
@@ -52,12 +52,12 @@ or two hundred a day, and endeavouring to find Miss Arabella by that
 expedient, when accident all of a sudden threw in his way what he might
 have sat there for a twelvemonth and yet not found without it.
 
-Into the lane where he sat, there opened three or four garden gates,
+Into the lane where he sat, there opened three or four [[Garden|garden]] gates,
 belonging to as many houses, which though detached from each other, were
-only separated by their gardens. As these were large and long, and well
+only separated by their gardens. As these were large and long, and [[Well|well]]
 planted with trees, the houses were not only at some distance off, but
 the greater part of them were nearly concealed from view. Sam was
-sitting with his eyes fixed upon the dust-heap outside the next gate to
+sitting with his eyes fixed upon the [[Dust|dust]]-heap outside the next gate to
 that by which the groom had disappeared, profoundly turning over in his
 mind the difficulties of his present undertaking, when the gate opened,
 and a female servant came out into the lane to shake some bedside
@@ -70,19 +70,19 @@ feelings of gallantry had not been most strongly roused by observing
 that she had no one to help her, and that the carpets seemed too heavy
 for her single strength. Mr. Weller was a gentleman of great gallantry
 in his own way, and he no sooner remarked this circumstance than he
-hastily rose from the large stone, and advanced towards her.
+hastily [[Rose|rose]] from the large stone, and advanced towards her.
 
 ‘My dear,’ said Sam, sliding up with an air of great respect, ‘you’ll
 spile that wery pretty figure out o’ all perportion if you shake them
 carpets by yourself. Let me help you.’
 
 The young lady, who had been coyly affecting not to know that a
-gentleman was so near, turned round as Sam spoke--no doubt (indeed she
+gentleman was so near, turned round as Sam spoke--no [[Doubt|doubt]] (indeed she
 said so, afterwards) to decline this offer from a perfect stranger--when
 instead of speaking, she started back, and uttered a half-suppressed
 scream. Sam was scarcely less staggered, for in the countenance of the
-well-shaped female servant, he beheld the very features of his
-valentine, the pretty housemaid from Mr. Nupkins’s.
+[[Well|well]]-shaped female servant, he beheld the very features of his
+[[Valentine|valentine]], the pretty housemaid from Mr. Nupkins’s.
 
 ‘Wy, Mary, my dear!’ said Sam.
 
@@ -115,7 +115,7 @@ could ha’ told me?’
 
 ‘O’ course it must,’ said Sam.
 
-‘Well, I never heard the like of that!’ exclaimed Mary.
+‘[[Well]], I never heard the like of that!’ exclaimed Mary.
 
 ‘No more did I,’ said Sam. ‘But Mary, my dear’--here Sam’s manner grew
 extremely affectionate--‘Mary, my dear, I’ve got another affair in hand
@@ -124,30 +124,30 @@ you remember him?’
 
 ‘Him in the green coat?’ said Mary. ‘Oh, yes, I remember him.’
 
-‘Well,’ said Sam, ‘he’s in a horrid state o’ love; reg’larly comfoozled,
+‘[[Well]],’ said Sam, ‘he’s in a horrid state o’ [[Love|love]]; reg’larly comfoozled,
 and done over vith it.’
 
 ‘Lor!’ interposed Mary.
 
 ‘Yes,’ said Sam; ‘but that’s nothin’ if we could find out the young
-‘ooman;’ and here Sam, with many digressions upon the personal beauty of
+‘ooman;’ and here Sam, with many digressions upon the personal [[Beauty|beauty]] of
 Mary, and the unspeakable tortures he had experienced since he last saw
 her, gave a faithful account of Mr. Winkle’s present predicament.
 
-‘Well,’ said Mary, ‘I never did!’
+‘[[Well]],’ said Mary, ‘I never did!’
 
 ‘O’ course not,’ said Sam, ‘and nobody never did, nor never vill
 neither; and here am I a-walkin’ about like the wandering Jew--a
 sportin’ character you have perhaps heerd on Mary, my dear, as vos
-alvays doin’ a match agin’ time, and never vent to sleep--looking arter
+alvays doin’ a match agin’ [[Time|time]], and never vent to [[Sleep|sleep]]--looking arter
 this here Miss Arabella Allen.’
 
 ‘Miss who?’ said Mary, in great astonishment.
 
 ‘Miss Arabella Allen,’ said Sam.
 
-‘Goodness gracious!’ said Mary, pointing to the garden door which the
-sulky groom had locked after him. ‘Why, it’s that very house; she’s been
-living there these six weeks. Their upper house-maid, which is lady’s-
-maid too, told me all about it over the wash-house palin’s before the
+‘Goodness gracious!’ said Mary, pointing to the [[Garden|garden]] door which the
+sulky groom had locked after him. ‘Why, it’s that very [[house]]; she’s been
+living there these six weeks. Their upper [[house]]-maid, which is lady’s-
+maid too, told me all about it over the wash-[[house]] palin’s before the
 family was out of bed, one mornin’.’

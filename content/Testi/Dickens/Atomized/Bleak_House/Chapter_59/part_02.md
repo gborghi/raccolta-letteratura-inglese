@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 59 (part 2)"
+title: "Bleak [[house|House]] — Chapter 59 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,8 +16,8 @@ tags:
 
 It was so unexpected and so—I don’t know what to call it, whether
 pleasant or painful—to come upon it after my feverish wandering
-journey, and in the midst of the night, that I could not keep back
-the tears from my eyes. It was like hearing his voice in a strange
+[[Journey|journey]], and in the midst of the [[Night|night]], that I could not keep back
+the [[Tears|tears]] from my eyes. It was like hearing his voice in a strange
 country.
 
 “My dear Miss Summerson, that you should be out at this hour, and in
@@ -29,7 +29,7 @@ told him that we had but just left a coach and were going—but then I
 was obliged to look at my companion.
 
 “Why, you see, Mr. Woodcourt”—he had caught the name from me—“we
-are a-going at present into the next street. Inspector Bucket.”
+are a-going at present into the next street. [[Inspector Bucket]].”
 
 Mr. Woodcourt, disregarding my remonstrances, had hurriedly taken off
 his cloak and was putting it about me. “That’s a good move, too,”
@@ -44,19 +44,19 @@ course you may.”
 It was all said in a moment, and they took me between them, wrapped
 in the cloak.
 
-“I have just left Richard,” said Mr. Woodcourt. “I have been sitting
-with him since ten o’clock last night.”
+“I have just left [[Richard]],” said Mr. Woodcourt. “I have been sitting
+with him since ten o’[[Clock|clock]] last [[Night|night]].”
 
 “Oh, dear me, he is ill!”
 
-“No, no, believe me; not ill, but not quite well. He was depressed
+“No, no, believe me; not ill, but not quite [[Well|well]]. He was depressed
 and faint—you know he gets so worried and so worn sometimes—and Ada
-sent to me of course; and when I came home I found her note and came
-straight here. Well! Richard revived so much after a little while,
+sent to me of course; and when I came [[Home|home]] I found her note and came
+straight here. [[Well]]! [[Richard]] revived so much after a little while,
 and Ada was so happy and so convinced of its being my doing, though
 God knows I had little enough to do with it, that I remained with him
 until he had been fast asleep some hours. As fast asleep as she is
-now, I hope!”
+now, I [[Hope|hope]]!”
 
 His friendly and familiar way of speaking of them, his unaffected
 devotion to them, the grateful confidence with which I knew he had
@@ -84,18 +84,18 @@ saying I heard some one crying.
 “Don’t be alarmed, miss,” he returned. “It’s Snagsby’s servant.”
 
 “Why, you see,” said Mr. Bucket, “the girl’s subject to fits, and has
-’em bad upon her to-night. A most contrary circumstance it is, for I
+’em bad upon her to-[[Night|night]]. A most contrary circumstance it is, for I
 want certain information out of that girl, and she must be brought to
 reason somehow.”
 
 “At all events, they wouldn’t be up yet if it wasn’t for her, Mr.
-Bucket,” said the other man. “She’s been at it pretty well all night,
+Bucket,” said the other man. “She’s been at it pretty [[Well|well]] all [[Night|night]],
 sir.”
 
-“Well, that’s true,” he returned. “My light’s burnt out. Show yours a
+“[[Well]], that’s true,” he returned. “My light’s burnt out. Show yours a
 moment.”
 
-All this passed in a whisper a door or two from the house in which I
+All this passed in a whisper a door or two from the [[house]] in which I
 could faintly hear crying and moaning. In the little round of light
 produced for the purpose, Mr. Bucket went up to the door and knocked.
 The door was opened after he had knocked twice, and he went in,
@@ -113,9 +113,9 @@ I can fully respect it.”
 “I trust implicitly to you,” I said. “I know and deeply feel how
 sacredly you keep your promise.”
 
-After a short time the little round of light shone out again, and Mr.
+After a short [[Time|time]] the little round of light shone out again, and Mr.
 Bucket advanced towards us in it with his earnest face. “Please to
-come in, Miss Summerson,” he said, “and sit down by the fire. Mr.
+come in, Miss Summerson,” he said, “and sit down by the [[Fire|fire]]. Mr.
 Woodcourt, from information I have received I understand you are a
 medical man. Would you look to this girl and see if anything can be
 done to bring her round. She has a letter somewhere that I
@@ -123,8 +123,8 @@ particularly want. It’s not in her box, and I think it must be about
 her; but she is so twisted and clenched up that she is difficult to
 handle without hurting.”
 
-We all three went into the house together; although it was cold and
-raw, it smelt close too from being up all night. In the passage
+We all three went into the [[house]] together; although it was cold and
+raw, it smelt close too from being up all [[Night|night]]. In the passage
 behind the door stood a scared, sorrowful-looking little man in a
 grey coat who seemed to have a naturally polite manner and spoke
 meekly.
@@ -135,21 +135,21 @@ back is Guster’s bedroom, and in it she’s a-carrying on, poor thing,
 to a frightful extent!”
 
 We went downstairs, followed by Mr. Snagsby, as I soon found the
-little man to be. In the front kitchen, sitting by the fire, was Mrs.
+little man to be. In the front kitchen, sitting by the [[Fire|fire]], was Mrs.
 Snagsby, with very red eyes and a very severe expression of face.
 
 “My little woman,” said Mr. Snagsby, entering behind us, “to
 wave—not to put too fine a point upon it, my dear—hostilities for
-one single moment in the course of this prolonged night, here is
-Inspector Bucket, Mr. Woodcourt, and a lady.”
+one single moment in the course of this prolonged [[Night|night]], here is
+[[Inspector Bucket]], Mr. Woodcourt, and a lady.”
 
 She looked very much astonished, as she had reason for doing, and
 looked particularly hard at me.
 
 “My little woman,” said Mr. Snagsby, sitting down in the remotest
 corner by the door, as if he were taking a liberty, “it is not
-unlikely that you may inquire of me why Inspector Bucket, Mr.
-Woodcourt, and a lady call upon us in Cook’s Court, Cursitor Street,
+unlikely that you may inquire of me why [[Inspector Bucket]], Mr.
+Woodcourt, and a lady call upon us in Cook’s [[Court]], Cursitor Street,
 at the present hour. I don’t know. I have not the least idea. If I
-was to be informed, I should despair of understanding, and I’d rather
+was to be informed, I should [[Despair|despair]] of understanding, and I’d rather
 not be told.”

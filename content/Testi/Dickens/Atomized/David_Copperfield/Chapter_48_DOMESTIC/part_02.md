@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 48: DOMESTIC (part 2)"
+title: "[[David Copperfield]] — Chapter 48: DOMESTIC (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,18 +18,18 @@ All this led me into some serious reflections, and presented our
 mistakes in a new aspect; as I could not help communicating to Dora one
 evening, in spite of my tenderness for her.
 
-‘My love,’ said I, ‘it is very painful to me to think that our want of
+‘My [[Love|love]],’ said I, ‘it is very painful to me to think that our want of
 system and management, involves not only ourselves (which we have got
 used to), but other people.’
 
-‘You have been silent for a long time, and now you are going to be
-cross!’ said Dora.
+‘You have been silent for a long [[Time|time]], and now you are going to be
+[[Cross|cross]]!’ said Dora.
 
 ‘No, my dear, indeed! Let me explain to you what I mean.’
 
 ‘I think I don’t want to know,’ said Dora.
 
-‘But I want you to know, my love. Put Jip down.’
+‘But I want you to know, my [[Love|love]]. Put Jip down.’
 
 Dora put his nose to mine, and said ‘Boh!’ to drive my seriousness away;
 but, not succeeding, ordered him into his Pagoda, and sat looking at
@@ -50,7 +50,7 @@ even temper sometimes, by not learning to be more careful; but that we
 incur the serious responsibility of spoiling everyone who comes into
 our service, or has any dealings with us. I begin to be afraid that the
 fault is not entirely on one side, but that these people all turn out
-ill because we don’t turn out very well ourselves.’
+ill because we don’t turn out very [[Well|well]] ourselves.’
 
 ‘Oh, what an accusation,’ exclaimed Dora, opening her eyes wide; ‘to say
 that you ever saw me take gold watches! Oh!’
@@ -59,7 +59,7 @@ that you ever saw me take gold watches! Oh!’
 made the least allusion to gold watches?’
 
 ‘You did,’ returned Dora. ‘You know you did. You said I hadn’t turned
-out well, and compared me to him.’
+out [[Well|well]], and compared me to him.’
 
 ‘To whom?’ I asked.
 
@@ -70,7 +70,7 @@ you hard-hearted thing, that you were convinced I was worse than a
 transported page? Oh, what a dreadful opinion to have of me! Oh, my
 goodness!’
 
-‘Now, Dora, my love,’ I returned, gently trying to remove the
+‘Now, Dora, my [[Love|love]],’ I returned, gently trying to remove the
 handkerchief she pressed to her eyes, ‘this is not only very ridiculous
 of you, but very wrong. In the first place, it’s not true.’
 
@@ -90,13 +90,13 @@ help thinking of it, Dora. It is a reflection I am unable to dismiss,
 and it sometimes makes me very uneasy. There, dear, that’s all. Come
 now. Don’t be foolish!’
 
-Dora would not allow me, for a long time, to remove the handkerchief.
+Dora would not allow me, for a long [[Time|time]], to remove the handkerchief.
 She sat sobbing and murmuring behind it, that, if I was uneasy, why had
 I ever been married? Why hadn’t I said, even the day before we went to
 church, that I knew I should be uneasy, and I would rather not? If I
 couldn’t bear her, why didn’t I send her away to her aunts at Putney, or
-to Julia Mills in India? Julia would be glad to see her, and would not
-call her a transported page; Julia never had called her anything of the
+to [[Julia]] Mills in India? [[Julia]] would be glad to see her, and would not
+call her a transported page; [[Julia]] never had called her anything of the
 sort. In short, Dora was so afflicted, and so afflicted me by being
 in that condition, that I felt it was of no use repeating this kind of
 effort, though never so mildly, and I must take some other course.
@@ -106,7 +106,7 @@ common phrase of words which had a fair and promising sound, and I
 resolved to form Dora’s mind.
 
 I began immediately. When Dora was very childish, and I would
-have infinitely preferred to humour her, I tried to be grave--and
+have infinitely preferred to [[Humour|humour]] her, I tried to be [[Grave|grave]]--and
 disconcerted her, and myself too. I talked to her on the subjects which
 occupied my thoughts; and I read Shakespeare to her--and fatigued her
 to the last degree. I accustomed myself to giving her, as it were quite
@@ -128,10 +128,10 @@ myself in the condition of a schoolmaster, a trap, a pitfall; of always
 playing spider to Dora’s fly, and always pouncing out of my hole to her
 infinite disturbance.
 
-Still, looking forward through this intermediate stage, to the time
+Still, looking forward through this intermediate stage, to the [[Time|time]]
 when there should be a perfect sympathy between Dora and me, and when I
 should have ‘formed her mind’ to my entire satisfaction, I persevered,
 even for months. Finding at last, however, that, although I had been
-all this time a very porcupine or hedgehog, bristling all over with
+all this [[Time|time]] a very porcupine or hedgehog, bristling all over with
 determination, I had effected nothing, it began to occur to me that
 perhaps Dora’s mind was already formed.

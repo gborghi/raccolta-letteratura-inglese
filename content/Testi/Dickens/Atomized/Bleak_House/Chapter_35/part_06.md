@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 35 (part 6)"
+title: "Bleak [[house|House]] — Chapter 35 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,16 +15,16 @@ tags:
 
 
 My poor little visitor made me a present of the account, and when as
-the evening began to close in she rose to take her leave, lest she
+the evening began to close in she [[Rose|rose]] to take her leave, lest she
 should miss the coach by which she was to return, she was still full
 of the shipwreck, which I had not yet sufficiently composed myself to
 understand in all its details.
 
 “My dear,” said she as she carefully folded up her scarf and gloves,
 “my brave physician ought to have a title bestowed upon him. And no
-doubt he will. You are of that opinion?”
+[[Doubt|doubt]] he will. You are of that opinion?”
 
-That he well deserved one, yes. That he would ever have one, no.
+That he [[Well|well]] deserved one, yes. That he would ever have one, no.
 
 “Why not, Fitz Jarndyce?” she asked rather sharply.
 
@@ -35,7 +35,7 @@ large amount of money.
 
 “Why, good gracious,” said Miss Flite, “how can you say that? Surely
 you know, my dear, that all the greatest ornaments of England in
-knowledge, imagination, active humanity, and improvement of every
+knowledge, [[Imagination|imagination]], active humanity, and improvement of every
 sort are added to its nobility! Look round you, my dear, and
 consider. YOU must be rambling a little now, I think, if you don’t
 know that this is the great reason why titles will always last in the
@@ -55,11 +55,11 @@ mine was quite gone from me and that I freely released him from his
 bondage to one whom he had never seen!
 
 Oh, it was so much better as it was! With a great pang mercifully
-spared me, I could take back to my heart my childish prayer to be all
+spared me, I could take back to my heart my childish [[Prayer|prayer]] to be all
 he had so brightly shown himself; and there was nothing to be undone:
 no chain for me to break or for him to drag; and I could go, please
 God, my lowly way along the path of duty, and he could go his nobler
-way upon its broader road; and though we were apart upon the journey,
+way upon its broader [[Road|road]]; and though we were apart upon the [[Journey|journey]],
 I might aspire to meet him, unselfishly, innocently, better far than
 he had thought me when I found some favour in his eyes, at the
-journey’s end.
+[[Journey|journey]]’s end.

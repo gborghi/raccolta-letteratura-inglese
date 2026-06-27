@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 62 (part 3)"
+title: "Bleak [[house|House]] — Chapter 62 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -25,8 +25,8 @@ to its value.”
 
 “That is what I mean,” said my guardian. “You may observe, Mr.
 Bucket, that I abstain from examining this paper myself. The plain
-truth is, I have forsworn and abjured the whole business these many
-years, and my soul is sick of it. But Miss Summerson and I will
+[[Truth|truth]] is, I have forsworn and abjured the whole business these many
+years, and my [[Soul|soul]] is sick of it. But Miss Summerson and I will
 immediately place the paper in the hands of my solicitor in the
 cause, and its existence shall be made known without delay to all
 other parties interested.”
@@ -34,29 +34,29 @@ other parties interested.”
 “Mr. Jarndyce can’t say fairer than that, you understand,” observed
 Mr. Bucket to his fellow-visitor. “And it being now made clear to you
 that nobody’s a-going to be wronged—which must be a great relief to
-YOUR mind—we may proceed with the ceremony of chairing you home
+YOUR mind—we may proceed with the ceremony of chairing you [[Home|home]]
 again.”
 
 He unbolted the door, called in the bearers, wished us good morning,
 and with a look full of meaning and a crook of his finger at parting
 went his way.
 
-We went our way too, which was to Lincoln’s Inn, as quickly as
+We went our way too, which was to [[Lincoln]]’s Inn, as quickly as
 possible. Mr. Kenge was disengaged, and we found him at his table in
 his dusty room with the inexpressive-looking books and the piles of
 papers. Chairs having been placed for us by Mr. Guppy, Mr. Kenge
 expressed the surprise and gratification he felt at the unusual sight
-of Mr. Jarndyce in his office. He turned over his double eye-glass as
+of Mr. Jarndyce in his office. He turned over his [[Double|double]] eye-glass as
 he spoke and was more Conversation Kenge than ever.
 
-“I hope,” said Mr. Kenge, “that the genial influence of Miss
+“I [[Hope|hope]],” said Mr. Kenge, “that the genial influence of Miss
 Summerson,” he bowed to me, “may have induced Mr. Jarndyce,” he bowed
 to him, “to forego some little of his animosity towards a cause and
-towards a court which are—shall I say, which take their place in the
+towards a [[Court|court]] which are—shall I say, which take their place in the
 stately vista of the pillars of our profession?”
 
 “I am inclined to think,” returned my guardian, “that Miss Summerson
-has seen too much of the effects of the court and the cause to exert
+has seen too much of the effects of the [[Court|court]] and the cause to exert
 any influence in their favour. Nevertheless, they are a part of the
 occasion of my being here. Mr. Kenge, before I lay this paper on your
 desk and have done with it, let me tell you how it has come into my
@@ -84,9 +84,9 @@ this?”
 any in the suit. It appears to be all in the testator’s handwriting.
 It is duly executed and attested. And even if intended to be
 cancelled, as might possibly be supposed to be denoted by these marks
-of fire, it is NOT cancelled. Here it is, a perfect instrument!”
+of [[Fire|fire]], it is NOT cancelled. Here it is, a perfect instrument!”
 
-“Well!” said my guardian. “What is that to me?”
+“[[Well]]!” said my guardian. “What is that to me?”
 
 “Mr. Guppy!” cried Mr. Kenge, raising his voice. “I beg your pardon,
 Mr. Jarndyce.”
@@ -103,12 +103,12 @@ this document, you would have seen that it reduces your interest
 considerably, though still leaving it a very handsome one, still
 leaving it a very handsome one,” said Mr. Kenge, waving his hand
 persuasively and blandly. “You would further have seen that the
-interests of Mr. Richard Carstone and of Miss Ada Clare, now Mrs.
-Richard Carstone, are very materially advanced by it.”
+interests of Mr. [[Richard Carstone]] and of Miss [[Ada Clare]], now Mrs.
+[[Richard Carstone]], are very materially advanced by it.”
 
 “Kenge,” said my guardian, “if all the flourishing wealth that the
-suit brought into this vile court of Chancery could fall to my two
-young cousins, I should be well contented. But do you ask ME to
+suit brought into this vile [[Court|court]] of Chancery could fall to my two
+young cousins, I should be [[Well|well]] contented. But do you ask ME to
 believe that any good is to come of Jarndyce and Jarndyce?”
 
 “Oh, really, Mr. Jarndyce! Prejudice, prejudice. My dear sir, this is
@@ -123,7 +123,7 @@ here by me and look over this paper?”
 
 Mr. Vholes did as he was asked and seemed to read it every word. He
 was not excited by it, but he was not excited by anything. When he
-had well examined it, he retired with Mr. Kenge into a window, and
+had [[Well|well]] examined it, he retired with Mr. Kenge into a [[Window|window]], and
 shading his mouth with his black glove, spoke to him at some length.
 I was not surprised to observe Mr. Kenge inclined to dispute what
 he said before he had said much, for I knew that no two people ever
@@ -133,7 +133,7 @@ as if it were almost composed of the words “Receiver-General,”
 “Accountant-General,” “report,” “estate,” and “costs.” When they had
 finished, they came back to Mr. Kenge’s table and spoke aloud.
 
-“Well! But this is a very remarkable document, Mr. Vholes,” said Mr.
+“[[Well]]! But this is a very remarkable document, Mr. Vholes,” said Mr.
 Kenge.
 
 Mr. Vholes said, “Very much so.”

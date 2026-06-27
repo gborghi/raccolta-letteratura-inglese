@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 53"
+title: "Bleak [[house|House]] — Chapter 53"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -26,42 +26,42 @@ to rise, to the dignity of a familiar demon. He puts it to his ears,
 and it whispers information; he puts it to his lips, and it enjoins
 him to secrecy; he rubs it over his nose, and it sharpens his scent;
 he shakes it before a guilty man, and it charms him to his
-destruction. The Augurs of the Detective Temple invariably predict
+destruction. The Augurs of the [[Detective]] Temple invariably predict
 that when Mr. Bucket and that finger are in much conference, a
-terrible avenger will be heard of before long.
+terrible [[Avenger|avenger]] will be heard of before long.
 
-Otherwise mildly studious in his observation of human nature, on the
+Otherwise mildly studious in his observation of human [[Nature|nature]], on the
 whole a benignant philosopher not disposed to be severe upon the
 follies of mankind, Mr. Bucket pervades a vast number of houses and
 strolls about an infinity of streets, to outward appearance rather
 languishing for want of an object. He is in the friendliest condition
 towards his species and will drink with most of them. He is free with
-his money, affable in his manners, innocent in his conversation—but
+his money, affable in his manners, [[Innocent|innocent]] in his conversation—but
 through the placid stream of his life there glides an under-current
 of forefinger.
 
-Time and place cannot bind Mr. Bucket. Like man in the abstract, he
+[[Time]] and place cannot bind Mr. Bucket. Like man in the abstract, he
 is here to-day and gone to-morrow—but, very unlike man indeed, he is
 here again the next day. This evening he will be casually looking
-into the iron extinguishers at the door of Sir Leicester Dedlock’s
-house in town; and to-morrow morning he will be walking on the leads
-at Chesney Wold, where erst the old man walked whose ghost is
+into the iron extinguishers at the door of [[Sir Leicester Dedlock]]’s
+[[house]] in town; and to-morrow morning he will be walking on the leads
+at Chesney Wold, where erst the old man walked whose [[Ghost|ghost]] is
 propitiated with a hundred guineas. Drawers, desks, pockets, all
 things belonging to him, Mr. Bucket examines. A few hours afterwards,
-he and the Roman will be alone together comparing forefingers.
+he and the Roman will be [[Alone|alone]] together comparing forefingers.
 
-It is likely that these occupations are irreconcilable with home
+It is likely that these occupations are irreconcilable with [[Home|home]]
 enjoyment, but it is certain that Mr. Bucket at present does not go
-home. Though in general he highly appreciates the society of Mrs.
-Bucket—a lady of a natural detective genius, which if it had been
+[[Home|home]]. Though in general he highly appreciates the society of Mrs.
+Bucket—a lady of a natural [[Detective|detective]] genius, which if it had been
 improved by professional exercise, might have done great things, but
 which has paused at the level of a clever amateur—he holds himself
 aloof from that dear solace. Mrs. Bucket is dependent on their lodger
 (fortunately an amiable lady in whom she takes an interest) for
 companionship and conversation.
 
-A great crowd assembles in Lincoln’s Inn Fields on the day of the
-funeral. Sir Leicester Dedlock attends the ceremony in person;
+A great crowd assembles in [[Lincoln]]’s Inn Fields on the day of the
+funeral. [[Sir Leicester Dedlock]] attends the ceremony in person;
 strictly speaking, there are only three other human followers, that
 is to say, Lord Doodle, William Buffy, and the debilitated cousin
 (thrown in as a make-weight), but the amount of inconsolable
@@ -69,10 +69,10 @@ carriages is immense. The peerage contributes more four-wheeled
 affliction than has ever been seen in that neighbourhood. Such is the
 assemblage of armorial bearings on coach panels that the Herald’s
 College might be supposed to have lost its father and mother at a
-blow. The Duke of Foodle sends a splendid pile of dust and ashes,
-with silver wheel-boxes, patent axles, all the last improvements, and
+blow. The Duke of Foodle sends a splendid pile of [[Dust|dust]] and ashes,
+with silver [[Wheel|wheel]]-boxes, patent axles, all the last improvements, and
 three bereaved worms, six feet high, holding on behind, in a bunch of
-woe. All the state coachmen in London seem plunged into mourning; and
+woe. All the state coachmen in [[London]] seem plunged into mourning; and
 if that dead old man of the rusty garb be not beyond a taste in
 horseflesh (which appears impossible), it must be highly gratified
 this day.
@@ -82,12 +82,12 @@ many legs all steeped in grief, Mr. Bucket sits concealed in one of
 the inconsolable carriages and at his ease surveys the crowd through
 the lattice blinds. He has a keen eye for a crowd—as for what
 not?—and looking here and there, now from this side of the carriage,
-now from the other, now up at the house windows, now along the
+now from the other, now up at the [[house]] windows, now along the
 people’s heads, nothing escapes him.
 
 “And there you are, my partner, eh?” says Mr. Bucket to himself,
 apostrophizing Mrs. Bucket, stationed, by his favour, on the steps of
-the deceased’s house. “And so you are. And so you are! And very well
+the deceased’s [[house]]. “And so you are. And so you are! And very [[Well|well]]
 indeed you are looking, Mrs. Bucket!”
 
 The procession has not started yet, but is waiting for the cause of
@@ -98,12 +98,12 @@ a hair’s breadth open while he looks.
 And it says a great deal for his attachment, as a husband, that he is
 still occupied with Mrs. B. “There you are, my partner, eh?” he
 murmuringly repeats. “And our lodger with you. I’m taking notice of
-you, Mrs. Bucket; I hope you’re all right in your health, my dear!”
+you, Mrs. Bucket; I [[Hope|hope]] you’re all right in your health, my dear!”
 
 Not another word does Mr. Bucket say, but sits with most attentive
-eyes until the sacked depository of noble secrets is brought
-down—Where are all those secrets now? Does he keep them yet? Did
-they fly with him on that sudden journey?—and until the procession
+eyes until the sacked depository of noble [[Secrets|secrets]] is brought
+down—Where are all those [[Secrets|secrets]] now? Does he keep them yet? Did
+they fly with him on that sudden [[Journey|journey]]?—and until the procession
 moves, and Mr. Bucket’s view is changed. After which he composes
 himself for an easy ride and takes note of the fittings of the
 carriage in case he should ever find such knowledge useful.
@@ -111,18 +111,18 @@ carriage in case he should ever find such knowledge useful.
 Contrast enough between Mr. Tulkinghorn shut up in his dark carriage
 and Mr. Bucket shut up in HIS. Between the immeasurable track of
 space beyond the little wound that has thrown the one into the fixed
-sleep which jolts so heavily over the stones of the streets, and the
-narrow track of blood which keeps the other in the watchful state
+[[Sleep|sleep]] which jolts so heavily over the stones of the streets, and the
+narrow track of [[Blood|blood]] which keeps the other in the watchful state
 expressed in every hair of his head! But it is all one to both;
 neither is troubled about that.
 
 Mr. Bucket sits out the procession in his own easy manner and glides
 from the carriage when the opportunity he has settled with himself
-arrives. He makes for Sir Leicester Dedlock’s, which is at present a
-sort of home to him, where he comes and goes as he likes at all
+arrives. He makes for [[Sir Leicester Dedlock]]’s, which is at present a
+sort of [[Home|home]] to him, where he comes and goes as he likes at all
 hours, where he is always welcome and made much of, where he knows
 the whole establishment, and walks in an atmosphere of mysterious
-greatness.
+[[Greatness|greatness]].
 
 No knocking or ringing for Mr. Bucket. He has caused himself to be
 provided with a key and can pass in at his pleasure. As he is
@@ -170,13 +170,13 @@ What two words?
 
 He turns the key in the door, ungirdles his black pocket-book (book
 of fate to many), lays another letter by it, and reads, boldly
-written in each, “Lady Dedlock.”
+written in each, “[[Lady Dedlock]].”
 
 “Yes, yes,” says Mr. Bucket. “But I could have made the money without
 this anonymous information.”
 
 Having put the letters in his book of fate and girdled it up again,
-he unlocks the door just in time to admit his dinner, which is
+he unlocks the door just in [[Time|time]] to admit his dinner, which is
 brought upon a goodly tray with a decanter of sherry. Mr. Bucket
 frequently observes, in friendly circles where there is no restraint,
 that he likes a toothful of your fine old brown East Inder sherry
@@ -185,7 +185,7 @@ empties his glass with a smack of his lips and is proceeding with his
 refreshment when an idea enters his mind.
 
 Mr. Bucket softly opens the door of communication between that room
-and the next and looks in. The library is deserted, and the fire is
+and the next and looks in. The library is deserted, and the [[Fire|fire]] is
 sinking low. Mr. Bucket’s eye, after taking a pigeon-flight round the
 room, alights upon a table where letters are usually put as they
 arrive. Several letters for Sir Leicester are upon it. Mr. Bucket
@@ -197,11 +197,11 @@ With that he returns to finish his dinner with a good appetite, and
 after a light nap, is summoned into the drawing-room. Sir Leicester
 has received him there these several evenings past to know whether he
 has anything to report. The debilitated cousin (much exhausted by the
-funeral) and Volumnia are in attendance.
+funeral) and [[Volumnia]] are in attendance.
 
 Mr. Bucket makes three distinctly different bows to these three
 people. A bow of homage to Sir Leicester, a bow of gallantry to
-Volumnia, and a bow of recognition to the debilitated Cousin, to whom
+[[Volumnia]], and a bow of recognition to the debilitated Cousin, to whom
 it airily says, “You are a swell about town, and you know me, and I
 know you.” Having distributed these little specimens of his tact, Mr.
 Bucket rubs his hands.
@@ -209,25 +209,25 @@ Bucket rubs his hands.
 “Have you anything new to communicate, officer?” inquires Sir
 Leicester. “Do you wish to hold any conversation with me in private?”
 
-“Why—not to-night, Sir Leicester Dedlock, Baronet.”
+“Why—not to-[[Night|night]], [[Sir Leicester Dedlock]], Baronet.”
 
-“Because my time,” pursues Sir Leicester, “is wholly at your disposal
+“Because my [[Time|time]],” pursues Sir Leicester, “is wholly at your disposal
 with a view to the vindication of the outraged majesty of the law.”
 
-Mr. Bucket coughs and glances at Volumnia, rouged and necklaced, as
+Mr. Bucket coughs and glances at [[Volumnia]], rouged and necklaced, as
 though he would respectfully observe, “I do assure you, you’re a
-pretty creetur. I’ve seen hundreds worse looking at your time of
+pretty creetur. I’ve seen hundreds worse looking at your [[Time|time]] of
 life, I have indeed.”
 
-The fair Volumnia, not quite unconscious perhaps of the humanizing
+The fair [[Volumnia]], not quite unconscious perhaps of the humanizing
 influence of her charms, pauses in the writing of cocked-hat notes
 and meditatively adjusts the pearl necklace. Mr. Bucket prices that
-decoration in his mind and thinks it as likely as not that Volumnia
+decoration in his mind and thinks it as likely as not that [[Volumnia]]
 is writing poetry.
 
 “If I have not,” pursues Sir Leicester, “in the most emphatic manner,
 adjured you, officer, to exercise your utmost skill in this atrocious
-case, I particularly desire to take the present opportunity of
+case, I particularly [[Desire|desire]] to take the present opportunity of
 rectifying any omission I may have made. Let no expense be a
 consideration. I am prepared to defray all charges. You can incur
 none in pursuit of the object you have undertaken that I shall
@@ -239,26 +239,26 @@ liberality.
 “My mind,” Sir Leicester adds with a generous warmth, “has not, as
 may be easily supposed, recovered its tone since the late diabolical
 occurrence. It is not likely ever to recover its tone. But it is full
-of indignation to-night after undergoing the ordeal of consigning to
+of indignation to-[[Night|night]] after undergoing the ordeal of consigning to
 the tomb the remains of a faithful, a zealous, a devoted adherent.”
 
 Sir Leicester’s voice trembles and his grey hair stirs upon his head.
-Tears are in his eyes; the best part of his nature is aroused.
+[[Tears]] are in his eyes; the best part of his [[Nature|nature]] is aroused.
 
 “I declare,” he says, “I solemnly declare that until this crime is
 discovered and, in the course of justice, punished, I almost feel as
 if there were a stain upon my name. A gentleman who has devoted a
 large portion of his life to me, a gentleman who has devoted the last
 day of his life to me, a gentleman who has constantly sat at my table
-and slept under my roof, goes from my house to his own, and is struck
-down within an hour of his leaving my house. I cannot say but that he
-may have been followed from my house, watched at my house, even first
-marked because of his association with my house—which may have
+and slept under my roof, goes from my [[house]] to his own, and is struck
+down within an hour of his leaving my [[house]]. I cannot say but that he
+may have been followed from my [[house]], watched at my [[house]], even first
+marked because of his association with my [[house]]—which may have
 suggested his possessing greater wealth and being altogether of
 greater importance than his own retiring demeanour would have
 indicated. If I cannot with my means and influence and my position
 bring all the perpetrators of such a crime to light, I fail in the
-assertion of my respect for that gentleman’s memory and of my
+assertion of my respect for that gentleman’s [[Memory|memory]] and of my
 fidelity towards one who was ever faithful to me.”
 
 While he makes this protestation with great emotion and earnestness,
@@ -268,29 +268,29 @@ be, but for the audacity of the thought, a touch of compassion.
 
 “The ceremony of to-day,” continues Sir Leicester, “strikingly
 illustrative of the respect in which my deceased friend”—he lays a
-stress upon the word, for death levels all distinctions—“was held by
+stress upon the word, for [[Death|death]] levels all distinctions—“was held by
 the flower of the land, has, I say, aggravated the shock I have
 received from this most horrible and audacious crime. If it were my
 brother who had committed it, I would not spare him.”
 
-Mr. Bucket looks very grave. Volumnia remarks of the deceased that he
+Mr. Bucket looks very [[Grave|grave]]. [[Volumnia]] remarks of the deceased that he
 was the trustiest and dearest person!
 
 “You must feel it as a deprivation to you, miss,” replies Mr. Bucket
-soothingly, “no doubt. He was calculated to BE a deprivation, I’m
+soothingly, “no [[Doubt|doubt]]. He was calculated to BE a deprivation, I’m
 sure he was.”
 
-Volumnia gives Mr. Bucket to understand, in reply, that her sensitive
+[[Volumnia]] gives Mr. Bucket to understand, in reply, that her sensitive
 mind is fully made up never to get the better of it as long as she
 lives, that her nerves are unstrung for ever, and that she has not
 the least expectation of ever smiling again. Meanwhile she folds up a
 cocked hat for that redoubtable old general at Bath, descriptive of
-her melancholy condition.
+her [[Melancholy|melancholy]] condition.
 
 “It gives a start to a delicate female,” says Mr. Bucket
 sympathetically, “but it’ll wear off.”
 
-Volumnia wishes of all things to know what is doing? Whether they are
+[[Volumnia]] wishes of all things to know what is doing? Whether they are
 going to convict, or whatever it is, that dreadful soldier? Whether
 he had any accomplices, or whatever the thing is called in the law?
 And a great deal more to the like artless purpose.
@@ -299,18 +299,18 @@ And a great deal more to the like artless purpose.
 persuasive action—and such is his natural gallantry that he had
 almost said “my dear”—“it ain’t easy to answer those questions at
 the present moment. Not at the present moment. I’ve kept myself on
-this case, Sir Leicester Dedlock, Baronet,” whom Mr. Bucket takes
-into the conversation in right of his importance, “morning, noon, and
-night. But for a glass or two of sherry, I don’t think I could have
+this case, [[Sir Leicester Dedlock]], Baronet,” whom Mr. Bucket takes
+into the conversation in right of his importance, “morning, [[Noon|noon]], and
+[[Night|night]]. But for a glass or two of sherry, I don’t think I could have
 had my mind so much upon the stretch as it has been. I COULD answer
-your questions, miss, but duty forbids it. Sir Leicester Dedlock,
+your questions, miss, but duty forbids it. [[Sir Leicester Dedlock]],
 Baronet, will very soon be made acquainted with all that has been
-traced. And I hope that he may find it”—Mr. Bucket again looks
-grave—“to his satisfaction.”
+traced. And I [[Hope|hope]] that he may find it”—Mr. Bucket again looks
+[[Grave|grave]]—“to his satisfaction.”
 
 The debilitated cousin only hopes some fler’ll be executed—zample.
 Thinks more interest’s wanted—get man hanged presentime—than get
-man place ten thousand a year. Hasn’t a doubt—zample—far better
+man place ten thousand a year. Hasn’t a [[Doubt|doubt]]—zample—far better
 hang wrong fler than no fler.
 
 “YOU know life, you know, sir,” says Mr. Bucket with a complimentary
@@ -321,42 +321,42 @@ lady can’t be expected to be up to. Lord! Especially in your elevated
 station of society, miss,” says Mr. Bucket, quite reddening at
 another narrow escape from “my dear.”
 
-“The officer, Volumnia,” observes Sir Leicester, “is faithful to his
+“The officer, [[Volumnia]],” observes Sir Leicester, “is faithful to his
 duty, and perfectly right.”
 
-Mr. Bucket murmurs, “Glad to have the honour of your approbation, Sir
+Mr. Bucket murmurs, “Glad to have the [[Honour|honour]] of your approbation, Sir
 Leicester Dedlock, Baronet.”
 
-“In fact, Volumnia,” proceeds Sir Leicester, “it is not holding up a
-good model for imitation to ask the officer any such questions as you
+“In fact, [[Volumnia]],” proceeds Sir Leicester, “it is not holding up a
+good model for [[Imitation|imitation]] to ask the officer any such questions as you
 have put to him. He is the best judge of his own responsibility; he
 acts upon his responsibility. And it does not become us, who assist
 in making the laws, to impede or interfere with those who carry them
 into execution. Or,” says Sir Leicester somewhat sternly, for
-Volumnia was going to cut in before he had rounded his sentence, “or
+[[Volumnia]] was going to cut in before he had rounded his sentence, “or
 who vindicate their outraged majesty.”
 
-Volumnia with all humility explains that she had not merely the plea
+[[Volumnia]] with all [[Humility|humility]] explains that she had not merely the plea
 of curiosity to urge (in common with the giddy youth of her sex in
 general) but that she is perfectly dying with regret and interest for
 the darling man whose loss they all deplore.
 
-“Very well, Volumnia,” returns Sir Leicester. “Then you cannot be too
+“Very [[Well|well]], [[Volumnia]],” returns Sir Leicester. “Then you cannot be too
 discreet.”
 
 Mr. Bucket takes the opportunity of a pause to be heard again.
 
-“Sir Leicester Dedlock, Baronet, I have no objections to telling this
+“[[Sir Leicester Dedlock]], Baronet, I have no objections to telling this
 lady, with your leave and among ourselves, that I look upon the case
-as pretty well complete. It is a beautiful case—a beautiful
+as pretty [[Well|well]] complete. It is a beautiful case—a beautiful
 case—and what little is wanting to complete it, I expect to be able
 to supply in a few hours.”
 
 “I am very glad indeed to hear it,” says Sir Leicester. “Highly
 creditable to you.”
 
-“Sir Leicester Dedlock, Baronet,” returns Mr. Bucket very seriously,
-“I hope it may at one and the same time do me credit and prove
+“[[Sir Leicester Dedlock]], Baronet,” returns Mr. Bucket very seriously,
+“I [[Hope|hope]] it may at one and the same [[Time|time]] do me credit and prove
 satisfactory to all. When I depict it as a beautiful case, you see,
 miss,” Mr. Bucket goes on, glancing gravely at Sir Leicester, “I mean
 from my point of view. As considered from other points of view, such
@@ -364,11 +364,11 @@ cases will always involve more or less unpleasantness. Very strange
 things comes to our knowledge in families, miss; bless your heart,
 what you would think to be phenomenons, quite.”
 
-Volumnia, with her innocent little scream, supposes so.
+[[Volumnia]], with her [[Innocent|innocent]] little scream, supposes so.
 
 “Aye, and even in gen-teel families, in high families, in great
 families,” says Mr. Bucket, again gravely eyeing Sir Leicester aside.
-“I have had the honour of being employed in high families before, and
+“I have had the [[Honour|honour]] of being employed in high families before, and
 you have no idea—come, I’ll go so far as to say not even YOU have
 any idea, sir,” this to the debilitated cousin, “what games goes on!”
 
@@ -376,14 +376,14 @@ The cousin, who has been casting sofa-pillows on his head, in a
 prostration of boredom yawns, “Vayli,” being the used-up for “very
 likely.”
 
-Sir Leicester, deeming it time to dismiss the officer, here
+Sir Leicester, deeming it [[Time|time]] to dismiss the officer, here
 majestically interposes with the words, “Very good. Thank you!” and
 also with a wave of his hand, implying not only that there is an end
 of the discourse, but that if high families fall into low habits they
 must take the consequences. “You will not forget, officer,” he adds
 with condescension, “that I am at your disposal when you please.”
 
-Mr. Bucket (still grave) inquires if to-morrow morning, now, would
+Mr. Bucket (still [[Grave|grave]]) inquires if to-morrow morning, now, would
 suit, in case he should be as for’ard as he expects to be. Sir
 Leicester replies, “All times are alike to me.” Mr. Bucket makes his
 three bows and is withdrawing when a forgotten point occurs to him.
@@ -393,25 +393,25 @@ returning, “who posted the reward-bill on the staircase.”
 
 “I ordered it to be put up there,” replies Sir Leicester.
 
-“Would it be considered a liberty, Sir Leicester Dedlock, Baronet, if
+“Would it be considered a liberty, [[Sir Leicester Dedlock]], Baronet, if
 I was to ask you why?”
 
-“Not at all. I chose it as a conspicuous part of the house. I think
+“Not at all. I chose it as a conspicuous part of the [[house]]. I think
 it cannot be too prominently kept before the whole establishment. I
 wish my people to be impressed with the enormity of the crime, the
 determination to punish it, and the hopelessness of escape. At the
-same time, officer, if you in your better knowledge of the subject
+same [[Time|time]], officer, if you in your better knowledge of the subject
 see any objection—”
 
 Mr. Bucket sees none now; the bill having been put up, had better not
 be taken down. Repeating his three bows he withdraws, closing the
-door on Volumnia’s little scream, which is a preliminary to her
+door on [[Volumnia]]’s little scream, which is a preliminary to her
 remarking that that charmingly horrible person is a perfect Blue
 Chamber.
 
 In his fondness for society and his adaptability to all grades, Mr.
-Bucket is presently standing before the hall-fire—bright and warm on
-the early winter night—admiring Mercury.
+Bucket is presently standing before the hall-[[Fire|fire]]—bright and warm on
+the early [[Winter|winter]] [[Night|night]]—admiring Mercury.
 
 “Why, you’re six foot two, I suppose?” says Mr. Bucket.
 
@@ -420,7 +420,7 @@ the early winter night—admiring Mercury.
 “Are you so much? But then, you see, you’re broad in proportion and
 don’t look it. You’re not one of the weak-legged ones, you ain’t. Was
 you ever modelled now?” Mr. Bucket asks, conveying the expression of
-an artist into the turn of his eye and head.
+an [[artist]] into the turn of his eye and head.
 
 Mercury never was modelled.
 
@@ -431,7 +431,7 @@ the marble. My Lady’s out, ain’t she?”
 
 “Out to dinner.”
 
-“Goes out pretty well every day, don’t she?”
+“Goes out pretty [[Well|well]] every day, don’t she?”
 
 “Yes.”
 
@@ -463,12 +463,12 @@ violent ringing at the bell. “Talk of the angels,” says Mr. Bucket.
 
 The doors are thrown open, and she passes through the hall. Still
 very pale, she is dressed in slight mourning and wears two beautiful
-bracelets. Either their beauty or the beauty of her arms is
+bracelets. Either their [[Beauty|beauty]] or the [[Beauty|beauty]] of her arms is
 particularly attractive to Mr. Bucket. He looks at them with an eager
 eye and rattles something in his pocket—halfpence perhaps.
 
 Noticing him at his distance, she turns an inquiring look on the
-other Mercury who has brought her home.
+other Mercury who has brought her [[Home|home]].
 
 “Mr. Bucket, my Lady.”
 
@@ -488,9 +488,9 @@ over the region of his mouth.
 “A few, my Lady.”
 
 This is merely in passing. She scarcely makes a stop, and sweeps
-upstairs alone. Mr. Bucket, moving towards the staircase-foot,
+upstairs [[Alone|alone]]. Mr. Bucket, moving towards the staircase-foot,
 watches her as she goes up the steps the old man came down to his
-grave, past murderous groups of statuary repeated with their shadowy
+[[Grave|grave]], past murderous groups of statuary repeated with their shadowy
 weapons on the wall, past the printed bill, which she looks at going
 by, out of view.
 
@@ -501,31 +501,31 @@ Is not quite healthy, Mercury informs him. Suffers much from
 headaches.
 
 Really? That’s a pity! Walking, Mr. Bucket would recommend for that.
-Well, she tries walking, Mercury rejoins. Walks sometimes for two
-hours when she has them bad. By night, too.
+[[Well]], she tries walking, Mercury rejoins. Walks sometimes for two
+hours when she has them bad. By [[Night|night]], too.
 
 “Are you sure you’re quite so much as six foot three?” asks Mr.
 Bucket. “Begging your pardon for interrupting you a moment?”
 
-Not a doubt about it.
+Not a [[Doubt|doubt]] about it.
 
-“You’re so well put together that I shouldn’t have thought it. But
+“You’re so [[Well|well]] put together that I shouldn’t have thought it. But
 the household troops, though considered fine men, are built so
-straggling. Walks by night, does she? When it’s moonlight, though?”
+straggling. Walks by [[Night|night]], does she? When it’s moonlight, though?”
 
 Oh, yes. When it’s moonlight! Of course. Oh, of course!
 Conversational and acquiescent on both sides.
 
 “I suppose you ain’t in the habit of walking yourself?” says Mr.
-Bucket. “Not much time for it, I should say?”
+Bucket. “Not much [[Time|time]] for it, I should say?”
 
 Besides which, Mercury don’t like it. Prefers carriage exercise.
 
 “To be sure,” says Mr. Bucket. “That makes a difference. Now I think
 of it,” says Mr. Bucket, warming his hands and looking pleasantly at
-the blaze, “she went out walking the very night of this business.”
+the blaze, “she went out walking the very [[Night|night]] of this business.”
 
-“To be sure she did! I let her into the garden over the way.”
+“To be sure she did! I let her into the [[Garden|garden]] over the way.”
 
 “And left her there. Certainly you did. I saw you doing it.”
 
@@ -533,9 +533,9 @@ the blaze, “she went out walking the very night of this business.”
 
 “I was rather in a hurry,” returns Mr. Bucket, “for I was going to
 visit a aunt of mine that lives at Chelsea—next door but two to the
-old original Bun House—ninety year old the old lady is, a single
+old original Bun [[house|House]]—ninety year old the old lady is, a single
 woman, and got a little property. Yes, I chanced to be passing at the
-time. Let’s see. What time might it be? It wasn’t ten.”
+[[Time|time]]. Let’s see. What [[Time|time]] might it be? It wasn’t ten.”
 
 “Half-past nine.”
 

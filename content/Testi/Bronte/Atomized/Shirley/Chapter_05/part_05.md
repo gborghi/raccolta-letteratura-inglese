@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 5 (part 5)"
+title: "[[Shirley]] — Chapter 5 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ one would particularly wish to assist."
 
 
 
-"Where are you going this morning? I saw Murgatroyd saddling your horse
+"Where are you going this morning? I saw Murgatroyd saddling your [[Horse|horse]]
 
 in the yard."
 
@@ -34,7 +34,7 @@ in the yard."
 
 
 
-"Mr. Yorke is going too. I met him in his gig. Come home with him."
+"Mr. Yorke is going too. I met him in his gig. Come [[Home|home]] with him."
 
 
 
@@ -60,15 +60,15 @@ late?--Will he be late, Cousin Hortense?"
 
 "It is too probable. He has often much business to transact at Whinbury.
 
-Have you brought your exercise-book, child?"
+Have you brought your exercise-book, [[Child|child]]?"
 
 
 
-"Yes.--What time will you return, Robert?"
+"Yes.--What [[Time|time]] will you return, Robert?"
 
 
 
-"I generally return at seven. Do you wish me to be at home earlier?"
+"I generally return at seven. Do you wish me to be at [[Home|home]] earlier?"
 
 
 
@@ -100,7 +100,7 @@ reluctant to speak out plainly, but at heart you think me liable to
 
 Pearson's fate, who was shot at--not, indeed, from behind a hedge, but
 
-in his own house, through his staircase window, as he was going to bed."
+in his own [[house]], through his staircase [[Window|window]], as he was going to bed."
 
 
 
@@ -110,13 +110,13 @@ Caroline gravely, as she folded her mantle and arranged it and her muff
 
 on a side-table. "You know," she continued, "there is a hedge all the
 
-way along the road from here to Whinbury, and there are the Fieldhead
+way along the [[Road|road]] from here to Whinbury, and there are the Fieldhead
 
 plantations to pass; but you will be back by six--or before?"
 
 
 
-"Certainly he will," affirmed Hortense. "And now, my child, prepare your
+"Certainly he will," affirmed Hortense. "And now, my [[Child|child]], prepare your
 
 lessons for repetition, while I put the peas to soak for the purée at
 
@@ -156,11 +156,11 @@ and other accomplishments, when they are acquired?"
 
 
 
-"You may well say, when they are acquired; for, as you are aware, till
+"You may [[Well|well]] say, when they are acquired; for, as you are aware, till
 
 Hortense began to teach me, I knew precious little. As to the life I am
 
-destined for, I cannot tell. I suppose to keep my uncle's house
+destined for, I cannot tell. I suppose to keep my uncle's [[house]]
 
 till----" She hesitated.
 
@@ -216,11 +216,11 @@ business, and making my way in life."
 
 "I could be apprenticed to your trade--the cloth-trade. I could learn it
 
-of you, as we are distant relations. I would do the counting-house work,
+of you, as we are distant relations. I would do the counting-[[house]] work,
 
 keep the books, and write the letters, while you went to market. I know
 
-you greatly desire to be rich, in order to pay your father's debts;
+you greatly [[Desire|desire]] to be rich, in order to pay your father's debts;
 
 perhaps I could help you to get rich."
 
@@ -244,19 +244,19 @@ have no large sympathies; it is their duty to be narrow."
 
 
 
-"Yes, Caroline. Poverty is necessarily selfish, contracted, grovelling,
+"Yes, Caroline. [[Poverty]] is necessarily selfish, contracted, grovelling,
 
 anxious. Now and then a poor man's heart, when certain beams and dews
 
-visit it, may smell like the budding vegetation in yonder garden on this
+visit it, may smell like the budding vegetation in yonder [[Garden|garden]] on this
 
-spring day, may feel ripe to evolve in foliage, perhaps blossom; but he
+[[Spring|spring]] day, may feel ripe to evolve in foliage, perhaps blossom; but he
 
 must not encourage the pleasant impulse; he must invoke Prudence to
 
 check it, with that frosty breath of hers, which is as nipping as any
 
-north wind."
+north [[Wind|wind]]."
 
 
 
@@ -264,9 +264,9 @@ north wind."
 
 
 
-"When I speak of poverty, I do not so much mean the natural, habitual
+"When I speak of [[Poverty|poverty]], I do not so much mean the natural, habitual
 
-poverty of the working-man, as the embarrassed penury of the man in
+[[Poverty|poverty]] of the working-man, as the embarrassed penury of the man in
 
 debt. My grub-worm is always a straitened, struggling, care-worn
 
@@ -274,7 +274,7 @@ tradesman."
 
 
 
-"Cherish hope, not anxiety. Certain ideas have become too fixed in your
+"Cherish [[Hope|hope]], not anxiety. Certain ideas have become too fixed in your
 
 mind. It may be presumptuous to say it, but I have the impression that
 
@@ -288,7 +288,7 @@ happiness, as there is in----" Second hesitation.
 
 
 
-"In (courage! let me speak the truth)--in your manner--mind, I say only
+"In ([[Courage|courage]]! let me speak the [[Truth|truth]])--in your manner--mind, I say only
 
 _manner_--to these Yorkshire workpeople."
 
@@ -312,8 +312,8 @@ phlegmatic, and joyless."
 
 "As if your living cloth-dressers were all machines like your frames and
 
-shears. In your own house you seem different."
+shears. In your own [[house]] you seem different."
 
 
 
-"To those of my own house I am no alien, which I am to these English
+"To those of my own [[house]] I am no alien, which I am to these English

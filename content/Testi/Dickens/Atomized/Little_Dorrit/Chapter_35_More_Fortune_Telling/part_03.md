@@ -20,8 +20,8 @@ tags:
 
 She shook her head. But she was very pale.
 
-‘When I lie down to-night, and my thoughts come back--as they will, for
-they do every night, even when I have not seen you--to this sad place, I
+‘When I lie down to-[[Night|night]], and my thoughts come back--as they will, for
+they do every [[Night|night]], even when I have not seen you--to this sad place, I
 may believe that there is no grief beyond this room, now, and its usual
 occupants, which preys on Little Dorrit’s mind?’
 
@@ -36,7 +36,7 @@ which it did very rapidly, it laboured with increased energy; and,
 after knocking at the door, it sounded as if it were stooping down and
 snorting in at the keyhole.
 
-Before Maggy could open the door, Mr Pancks, opening it from without,
+Before Maggy could open the door, [[Mr Pancks]], opening it from without,
 stood without a hat and with his bare head in the wildest condition,
 looking at Clennam and Little Dorrit, over her shoulder. He had a
 lighted cigar in his hand, and brought with him airs of ale and tobacco
@@ -47,7 +47,7 @@ smoke.
 He stood dingily smiling, and breathing hard at them, with a most
 curious air; as if, instead of being his proprietor’s grubber, he were
 the triumphant proprietor of the Marshalsea, the Marshal, all the
-turnkeys, and all the Collegians. In his great self-satisfaction he put
+turnkeys, and all the Collegians. In his great [[Self|self]]-satisfaction he put
 his cigar to his lips (being evidently no smoker), and took such a pull
 at it, with his right eye shut up tight for the purpose, that he
 underwent a convulsion of shuddering and choking. But even in the midst
@@ -112,7 +112,7 @@ looks between the two.
 property, that’s the fact. I can afford to be liberal. I think I’ll give
 ‘em a treat here. Tables laid in the yard. Bread in stacks. Pipes in
 faggots. Tobacco in hayloads. Roast beef and plum-pudding for every one.
-Quart of double stout a head. Pint of wine too, if they like it, and the
+Quart of [[Double|double]] stout a head. Pint of wine too, if they like it, and the
 authorities give permission.--Eh, Miss Dorrit?’
 
 She was thrown into such a confusion by his manner, or rather by
@@ -133,14 +133,14 @@ wonderful mystery.
 ‘But I shall be missed;’ he came back to that; ‘and I don’t want ‘em to
 miss me. Mr Clennam, you and I made a bargain. I said you should find me
 stick to it. You shall find me stick to it now, sir, if you’ll step out
-of the room a moment. Miss Dorrit, I wish you good night. Miss Dorrit, I
+of the room a moment. Miss Dorrit, I wish you good [[Night|night]]. Miss Dorrit, I
 wish you good fortune.’
 
-He rapidly shook her by both hands, and puffed down stairs. Arthur
+He rapidly shook her by both hands, and puffed down stairs. [[arthur|Arthur]]
 followed him with such a hurried step, that he had very nearly tumbled
 over him on the last landing, and rolled him down into the yard.
 
-‘What is it, for Heaven’s sake!’ Arthur demanded, when they burst out
+‘What is it, for Heaven’s sake!’ [[arthur|Arthur]] demanded, when they burst out
 there both together.
 
 ‘Stop a moment, sir. Mr Rugg. Let me introduce him.’
@@ -149,23 +149,23 @@ With those words he presented another man without a hat, and also with a
 cigar, and also surrounded with a halo of ale and tobacco smoke, which
 man, though not so excited as himself, was in a state which would have
 been akin to lunacy but for its fading into sober method when compared
-with the rampancy of Mr Pancks.
+with the rampancy of [[Mr Pancks]].
 
 ‘Mr Clennam, Mr Rugg,’ said Pancks. ‘Stop a moment. Come to the pump.’
 
-They adjourned to the pump. Mr Pancks, instantly putting his head under
+They adjourned to the pump. [[Mr Pancks]], instantly putting his head under
 the spout, requested Mr Rugg to take a good strong turn at the handle.
-Mr Rugg complying to the letter, Mr Pancks came forth snorting and
+Mr Rugg complying to the letter, [[Mr Pancks]] came forth snorting and
 blowing to some purpose, and dried himself on his handkerchief.
 
 ‘I am the clearer for that,’ he gasped to Clennam standing astonished.
-‘But upon my soul, to hear her father making speeches in that chair,
+‘But upon my [[Soul|soul]], to hear her father making speeches in that chair,
 knowing what we know, and to see her up in that room in that dress,
 knowing what we know, is enough to--give me a back, Mr Rugg--a little
 higher, sir,--that’ll do!’
 
 Then and there, on that Marshalsea pavement, in the shades of evening,
-did Mr Pancks, of all mankind, fly over the head and shoulders of Mr
+did [[Mr Pancks]], of all mankind, fly over the head and shoulders of Mr
 Rugg of Pentonville, General Agent, Accountant, and Recoverer of Debts.
 Alighting on his feet, he took Clennam by the button-hole, led him
 behind the pump, and pantingly produced from his pocket a bundle of
@@ -175,7 +175,7 @@ Mr Rugg, also, pantingly produced from his pocket a bundle of papers.
 
 ‘Stay!’ said Clennam in a whisper.’You have made a discovery.’
 
-Mr Pancks answered, with an unction which there is no language to
+[[Mr Pancks]] answered, with an unction which there is no language to
 convey, ‘We rather think so.’
 
 ‘Does it implicate any one?’
@@ -193,7 +193,7 @@ and speaking in short high-pressure blasts of sentences, ‘Where’s the
 Pedigree? Where’s Schedule number four, Mr Rugg? Oh! all right! Here we
 are.--You are to understand that we are this very day virtually
 complete. We shan’t be legally for a day or two. Call it at the outside
-a week. We’ve been at it night and day for I don’t know how long. Mr
+a week. We’ve been at it [[Night|night]] and day for I don’t know how long. Mr
 Rugg, you know how long? Never mind. Don’t say. You’ll only confuse me.
 You shall tell her, Mr Clennam. Not till we give you leave. Where’s that
 rough total, Mr Rugg? Oh! Here we are! There sir! That’s what you’ll

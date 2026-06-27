@@ -17,8 +17,8 @@ tags:
 HIGH OR LOW?
 
 The one thing that the modern English will not understand is that
-when you have lost your way quite hope , quickest thing is to go
-back along the road you know to the place from which you started.
+when you have lost your way quite [[Hope|hope]] , quickest thing is to go
+back along the [[Road|road]] you know to the place from which you started.
 You may call it reaction, you may call it repetition, you may call
 it tiresome theory, but it is the quickest way out of the wood.
 No Ritual Commissions and no other kind of Commissions ever do
@@ -35,7 +35,7 @@ The whole point of the quarrel about ritualism is very simple;
 it is that it is not a quarrel about ritualism at all.
 Nobody can quarrel about ritualism.  If a gentleman, instead of
 offering me his hand, offers me his foot, explaining at the same
-time that to him this rite has the same meaning as hand-shaking,
+[[Time|time]] that to him this rite has the same meaning as hand-shaking,
 I may regard him as amusing, but certainly not as wicked.
 But if I am offended at such an act, it is because the sudden
 waving of his foot in the air does not immediately convey
@@ -55,22 +55,22 @@ to settle, but it is easy enough to state, and these Commissions
 have never even heard it stated.  It is that a quarrel exists
 in the Church of England very unique in human institutions.
 The Church of England is quarrelling about what the Church
-of England is.  The House of Commons is quarrelling about
-what the House of Commons shall do.  The House of Lords
-is quarrelling about what the House of Lords shall do.
-Even a private ship quarrels about what it shall do; it does
-not quarrel about whether it is a private ship or a missionary
+of England is.  The [[house|House]] of Commons is quarrelling about
+what the [[house|House]] of Commons shall do.  The [[house|House]] of Lords
+is quarrelling about what the [[house|House]] of Lords shall do.
+Even a private [[Ship|ship]] quarrels about what it shall do; it does
+not quarrel about whether it is a private [[Ship|ship]] or a missionary
 boat or a man of war.  Even a band of robbers quarrels
 about what it shall do; it does not quarrel about whether it
-is an omnibus company or a plumbers' union.  But the quarrel
+is an omnibus company or a plumbers' [[Union|union]].  But the quarrel
 in the Church of England is not about what it shall do;
 it is about what it shall be--indeed, about what it has been.
 Does its whole authority lie in being a branch of the
-Catholic Church?  Or does its whole authority lie in being
+[[Catholic Church]]?  Or does its whole authority lie in being
 a protest, a part of the great sixteenth-century protest,
-against that Catholic Church?  All commissions are useless which
+against that [[Catholic Church]]?  All commissions are useless which
 attempt to discuss what it does, without discussing what it is.
 Until this first question is settled, it is as childish to discuss
 a clergyman's vestments as to discuss his wall paper.
 
-                                  Illustrated London News, July 14th, 1906
+                                  Illustrated [[London]] News, July 14th, 1906

@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE TYRANNY OF TRUSTS"
+title: "[[Sanity]] — THE TYRANNY OF TRUSTS"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"
@@ -26,40 +26,40 @@ in his paper.  The presence of such pressure exists everywhere in a more
 silent and subtle form.  But I have a great respect for the honesty
 of this particular editor; for it was, evidently as near to complete
 honesty as the editor of an important weekly magazine can possibly go.
-He told the truth about the falsehood he had to tell.
+He told the [[Truth|truth]] about the falsehood he had to tell.
 
 On both those occasions he denied me liberty of expression
 because I said that the widely advertised stores and large shops
 were really worse than little shops.  That, it may be interesting
 to note, is one of the things that a man is now forbidden to say;
 perhaps the only thing he is really forbidden to say.
-If it had been an attack on Government, it would have been tolerated.
+If it had been an attack on [[government|Government]], it would have been tolerated.
 If it had been an attack on God, it would have been respectfully
-and tactfully applauded.  If I had been abusing marriage
+and tactfully applauded.  If I had been abusing [[Marriage|marriage]]
 or patriotism or public decency, I should have been heralded
-in headlines and allowed to sprawl across Sunday newspapers.
+in headlines and allowed to sprawl across [[Sunday]] newspapers.
 But the big newspaper is not likely to attack the big shop; being itself
 a big shop in its way and more and more a monument of monopoly.
-But it will be well if I repeat here in a book what I found it impossible
+But it will be [[Well|well]] if I repeat here in a book what I found it impossible
 to repeat in an article.  I think the big shop is a bad shop.
 I think it bad not only in a moral but a mercantile sense; that is,
 I think shopping there is not only a bad action but a bad bargain.
-I think the monster emporium is not only vulgar and insolent,
+I think the [[Monster|monster]] emporium is not only vulgar and insolent,
 but incompetent and uncomfortable; and I deny that its large organization
 is efficient.  Large organization is loose organization.  Nay, it would
 be almost as true to say that organization is always disorganization.
-The only thing perfectly organic is an organism; like that grotesque
-and obscure organism called a man.  He alone can be quite certain of doing
+The only thing perfectly organic is an organism; like that [[Grotesque|grotesque]]
+and obscure organism called a man.  He [[Alone|alone]] can be quite certain of doing
 what he wants; beyond him, every extra man may be an extra mistake.
 As applied to things like shops, the whole thing is an utter fallacy.
 Some things like armies have to be organized; and therefore do their
-very best to be well organized.  You must have a long rigid line
+very best to be [[Well|well]] organized.  You must have a long rigid line
 stretched out to guard a frontier; and therefore you stretch it tight.
 But it is not true that you must have a long rigid line of people
 trimming hats or tying bouquets, in order that they may be trimmed
 or tied neatly.  The work is much more likely to be neat if it
 is done by a particular craftsman for a particular customer with
-particular ribbons and flowers.  The person told to trim the hat
+particular ribbons and [[Flowers|flowers]].  The person told to trim the hat
 will never do it quite suitably to the person who wants it trimmed;
 and the hundredth person told to do it will do it badly; as he does.
 If we collected all the stories from all the housewives
@@ -69,7 +69,7 @@ we should behold a welter of inefficiency.  There are far
 more blunders in a big shop than ever happen in a small shop,
 where the individual customer can curse the individual shopkeeper.
 Confronted with modern efficiency the customer is silent;
-well aware of that organization's talent for sacking the wrong man.
+[[Well|well]] aware of that organization's talent for sacking the wrong man.
 In short, organization is a necessary evil--which in this case
 is not necessary.
 
@@ -81,7 +81,7 @@ that it is convenient to get everything in the same shop.
 That is to stay, it is convenient to walk the length of the street,
 so long as you walk indoors, or more frequently underground,
 instead of walking the same distance in the open air from one
-little shop to another.  The truth is that the monopolists'
+little shop to another.  The [[Truth|truth]] is that the monopolists'
 shops are really very convenient--to the monopolist.  They have all
 the advantage of concentrating business as they concentrate wealth,
 in fewer and fewer of the citizens.  Their wealth sometimes permits
@@ -93,7 +93,7 @@ Now I expressed this opinion of my own (so shocking to the magazine
 editor and his advertisers) not only because it is an example
 of my general thesis that small properties should be revived,
 but because it is essential to the realization of another and much
-more curious truth.  It concerns the psychology of all these things:
+more curious [[Truth|truth]].  It concerns the psychology of all these things:
 of mere size, of mere wealth, of mere advertisement and arrogance.
 And it gives us the first working model of the way in which things
 are done to-day and the way in which (please God) they may
@@ -111,9 +111,9 @@ a young business man who tries to break up the soap monopoly
 of his father, a more old-fashioned business man, by the wildest
 application of American theories of the psychology of advertising.
 One thing that struck me as rather interesting about it was this.
-It was quite good comedy to give the old man and the young man
+It was quite good [[Comedy|comedy]] to give the old man and the young man
 our sympathy in turn.  It was quite good farce to make the old
-man and the young man each alternately look a fool.  But nobody
+man and the young man each alternately look a [[Fool|fool]].  But nobody
 seemed to feel what I felt to be the most outstanding and obvious
 points of folly.  They scoffed at the old man because he was old;
 because he was old-fashioned; because he himself was healthy
@@ -136,25 +136,25 @@ was bankrupt; because he was driven to the shifts of bankruptcy;
 and so on.  But he did not seem to know he was something much worse
 than a swindler, a sorcerer.  He did not know he was by his own
 boast a mesmerist and a mystagogue; a destroyer of reason and will;
-an enemy of truth and liberty.
+an enemy of [[Truth|truth]] and liberty.
 
 I think such people exaggerate the extent to which it pays
 to advertise; even if there is only the devil to pay.
 But in one sense this psychological case for advertising
-is of great practical importance to any programme of reform.
+is of great practical importance to any programme of [[Reform|reform]].
 The American advertisers have got hold of the wrong end of the stick;
 but it is a stick that can be used to beat something else besides
 their own absurd big drum.  It is a stick that can be used also to beat
-their own absurd business philosophy.  They are always telling us
-that the success of modern commerce depends on creating an atmosphere,
+their own absurd business [[philosophy]].  They are always telling us
+that the [[success]] of modern commerce depends on creating an atmosphere,
 on manufacturing a mentality, on assuming a point of view.
 In short, they insist that their commerce is not merely commercial,
 or even economic or political, but purely psychological.
-I hope they will go on saying it; for then some day everybody may
+I [[Hope|hope]] they will go on saying it; for then some day everybody may
 suddenly see that it is true.
 
-For the success of big shops and such things really is psychology;
-not to say psycho-analysis; or, in other words, nightmare.
+For the [[success]] of big shops and such things really is psychology;
+not to say psycho-analysis; or, in other words, [[nightmare]].
 It is not real and, therefore, not reliable.  This point concerns
 merely our immediate attitude, at the moment and on the spot,
 towards the whole plutocratic occupation of which such publicity
@@ -180,7 +180,7 @@ that I am first of all dealing here.  Now, when we ask what we can do,
 here and now, against the actual growth of monopoly, we are always
 given a very simple answer.  We are told that we can do nothing.
 By a natural and inevitable operation the large things are
-swallowing the small, as large fish might swallow little fish.
+swallowing the small, as large fish might [[Swallow|swallow]] little fish.
 The trust can absorb what it likes, like a dragon devouring what it likes,
 because it is already the largest creature left alive in the land.
 Some people are so finally resolved to accept this result that
@@ -190,12 +190,12 @@ The fatalists almost become sentimentalists when looking at the little
 shop that is being bought up by the big company.  They are ready to weep,
 so long as it is admitted that they weep because they weep in vain.
 They are willing to admit that the loss of a little toy-shop
-of their childhood, or a little tea-shop of their youth, is even
-in the true sense a tragedy.  For a tragedy means always a man's
+of their [[Childhood|childhood]], or a little tea-shop of their youth, is even
+in the true sense a [[Tragedy|tragedy]].  For a [[Tragedy|tragedy]] means always a man's
 struggle with that which is stronger than man.  And it is the feet
 of the gods themselves that are here trampling on our traditions;
-it is death and doom themselves that have broken our little toys
-like sticks; for against the stars of destiny none shall prevail.
+it is [[Death|death]] and doom themselves that have broken our little toys
+like sticks; for against the [[Stars|stars]] of destiny none shall prevail.
 It is amazing what a little bluff will do in this world.
 
 For they go on saying that the big fish eats the little fish,
@@ -207,32 +207,32 @@ and do not know the difference between fashion and fate.
 The necessitarians have here carefully chosen the one example of
 something that is certainly not necessary, whatever else is necessary.
 They have chosen the one thing that does happen still to be free,
-as a proof of the unbreakable chains in which all things are bound.
+as a proof of the unbreakable [[Chains|chains]] in which all things are bound.
 Very little is left free in the modern world; but private buying
 and selling are still supposed to be free; and indeed still
-are free; if anyone has a will free enough to use his freedom.
+are free; if anyone has a will free enough to use his [[Freedom|freedom]].
 Children may be driven by force to a particular school.  Men may be driven
-by force away from a public-house. All sorts of people, for all sorts
-of new and nonsensical reasons, may be driven by force to a prison.
+by force away from a public-[[house]]. All sorts of people, for all sorts
+of new and nonsensical reasons, may be driven by force to a [[Prison|prison]].
 But nobody is yet driven by force to a particular shop.
 
 I shall deal later with some practical remedies and reactions
 against the rush towards rings and corners.  But even before
-we consider these, it is well to have paused a moment on
+we consider these, it is [[Well|well]] to have paused a moment on
 the moral fact which is so elementary and so entirely ignored.
 Of all things in the world, the rush to the big shops is the thing
 that could be most easily stopped--by the people who rush there.
 We do not know what may come later; but they cannot be driven there
 by bayonets just yet.  American business enterprise, which has
 already used British soldiers for purposes of advertisement,
-may doubtless in time use British soldiers for purposes of coercion.
+may doubtless in [[Time|time]] use British soldiers for purposes of coercion.
 But we cannot yet be dragooned by guns and sabres into Yankee
 shops or international stores.  The alleged economic attraction,
 with which I will deal in due course, is quite a different thing:
 I am merely pointing out that if we came to the conclusion that big shops
 ought to be boycotted, we could boycott them as easily as we should
-(I hope) boycott shops selling instruments of torture or poisons
-for private use in the home.  In other words, this first and
+(I [[Hope|hope]]) boycott shops selling instruments of torture or poisons
+for private use in the [[Home|home]].  In other words, this first and
 fundamental question is not a question of necessity but of will.
 If we chose to make a vow, if we chose to make a league, for dealing
 only with little local shops and never with large centralized shops,
@@ -246,7 +246,7 @@ And if I be asked why, I answer at the end with the unanswerable
 fact with which I began at the beginning.  I know it is not merely
 a matter of business, for the simple reason that the business men
 themselves tell me it is merely a matter of bluff.  It is they
-who say that nothing succeeds like a mere appearance of success.
+who say that nothing succeeds like a mere appearance of [[success]].
 It is they who say that publicity influences us without our will
 or knowledge.  It is they who say that "It Pays to Advertise";
 that is, to tell people in a bullying way that they must "Do It Now,"
@@ -256,8 +256,8 @@ when they need not do it at all.
 
 II A MISUNDERSTANDING ABOUT METHOD
 
-Before I go any further with this sketch, I find I must pause upon
-a parenthesis touching the nature of my task, without which the rest
+Before I go any further with this [[Sketch|sketch]], I find I must pause upon
+a parenthesis touching the [[Nature|nature]] of my task, without which the rest
 of it may be misunderstood.  As a matter of fact, without pretending
 to any official or commercial experience, I am here doing a great deal
 more than has ever been asked of most of the mere men of letters
@@ -266,10 +266,10 @@ confidently conducted social movements or setup social ideals.
 I will promise that, by the end of these notes, the reader shall
 know a great deal more about how men might set about making
 a Distributive State than the readers of Carlyle ever knew about
-how they should set about finding a Hero King or a Real Superior.
+how they should set about finding a [[Hero]] [[King]] or a Real Superior.
 I think we can explain how to make a small shop or a small farm
 a common feature of our society better than Matthew Arnold
-explained how to make the State the organ of Our Best Self.
+explained how to make the State the organ of Our Best [[Self]].
 I think the farm will be marked on some sort of rude map
 more clearly than the Earthly Paradise on the navigation chart
 of William Morris; and I think that in comparison with his News
@@ -287,25 +287,25 @@ poet when these very major prophets were not required to carry
 out and complete the fulfilment of their own prophecies.
 It would seem that our fathers did not think it quite so futile
 to have a clear vision of the goal with or without a detailed
-map of the road; or to be able to describe a scandal without
+map of the [[Road|road]]; or to be able to describe a scandal without
 going on to describe a substitute.  Anyhow, for whatever reason,
 it is quite certain that if I really were great enough to deserve
 the reproaches of the utilitarians, if I really were as merely
 idealistic or imaginative as they make me out, if I really did confine
-myself to describing a direction without exactly measuring a road,
-to pointing towards home or heaven and telling men to use their own
+myself to describing a direction without exactly measuring a [[Road|road]],
+to pointing towards [[Home|home]] or heaven and telling men to use their own
 good sense in getting there--if this were really all that I could do,
 it would be all that men immeasurably greater than I am were ever
-expected to do; from Plato and Isaiah to Emerson and Tolstoy.
+expected to do; from Plato and Isaiah to Emerson and [[tolstoy|Tolstoy]].
 
 But it is not all that I can do; even though those who did
-not do it did so much more.  I can do something else as well;
+not do it did so much more.  I can do something else as [[Well|well]];
 but I can only do it if it be understood what I am doing.
-At the same time I am well aware that, in explaining the improvement
+At the same [[Time|time]] I am [[Well|well]] aware that, in explaining the improvement
 of so elaborate a society, a man may often find it very difficult
 to explain exactly what he is doing, until it is done.
 I have considered and rejected half a dozen ways of approaching
-the problem, by different roads that all lead to the same truth.
+the problem, by different roads that all lead to the same [[Truth|truth]].
 I had thought of beginning with the simple example of the peasant;
 and then I knew that a hundred correspondents would leap upon me,
 accusing me of trying to turn all of them into peasants.
@@ -324,17 +324,17 @@ much by anybody, almost everything by everybody.  Then I would
 maintain that on the removal of that particular plutocratic pressure,
 the appetite and appreciation of natural property would revive,
 like any other natural thing.  Then, I say, it will be worth while to
-propound to people thus returning to sanity, however sporadically,
+propound to people thus returning to [[Sanity|sanity]], however sporadically,
 a sane society that could balance property and control machinery.
 With the description of that ultimate society, with its laws
 and limitations, I would conclude.
 
 Now that may or may not be a good arrangement or order of ideas;
-but it is an intelligible one; and I submit with all humility
+but it is an intelligible one; and I submit with all [[Humility|humility]]
 that I have a right to arrange my explanations in that order,
 and no critic has a right to complain that I do not disarrange them
 in order to answer questions out of their order.  I am willing
-to write him a whole Encyclopaedia of Distributism if he has
+to write him a whole Encyclopaedia of [[Distributism]] if he has
 the patience to read it; but he must have the patience to read it.
 It is unreasonable for him to complain that I have not dealt
 adequately with Zoology, State Provision For, under the letter B;
@@ -353,19 +353,19 @@ on the spur of the moment, of many ways in which its final triumph
 can be delayed and perhaps defeated.  Suppose a monopolist who is
 my mortal enemy endeavours to ruin me by preventing me from selling
 eggs to my neighbours, I can tell him I shall live on my own
-turnips in my own kitchen-garden. I do not mean to tie myself
+turnips in my own kitchen-[[Garden|garden]]. I do not mean to tie myself
 to turnips; or swear never to touch my own potatoes or beans.
 I mean the turnips as an example; something to throw at him.
 Suppose the wicked millionaire in question comes and grins over my
-garden wall and says, "I perceive by your starved and emaciated
+[[Garden|garden]] wall and says, "I perceive by your starved and emaciated
 appearance that you are in immediate need of a few shillings;
 but you can't possibly get them," I may possibly be stung into retorting,
-"Yes, I can.  I could sell my first edition of Martin Chuzzlewit."
+"Yes, I can.  I could sell my first edition of [[Martin Chuzzlewit]]."
 I do not necessarily mean that I see myself already in a pauper's
-grave unless I can sell Martin Chuzzlewit; I do not mean that I
-have nothing else to suggest except selling Martin Chuzzlewit; I do
+[[Grave|grave]] unless I can sell [[Martin Chuzzlewit]]; I do not mean that I
+have nothing else to suggest except selling [[Martin Chuzzlewit]]; I do
 not mean to brag like any common politician that I have nailed
-my colours to the Martin Chuzzlewit policy.  I mean to tell
+my colours to the [[Martin Chuzzlewit]] policy.  I mean to tell
 the offensive pessimist that I am not at the end of my resources;
 that I can sell a book or even, if the case grows desperate,
 write a book.  I could do a great many things before I came to
@@ -373,32 +373,32 @@ definitely anti-social action like robbing a bank or (worse still)
 working in a bank.  I could do a great many things of a great
 many kinds, and I give an example at the start to suggest that
 there are many more of them, not that there are no more of them.
-There are a great many things of a great many kinds in my house,
-besides the copy of a Martin Chuzzlewit.  Not many of them are of great
+There are a great many things of a great many kinds in my [[house]],
+besides the copy of a [[Martin Chuzzlewit]].  Not many of them are of great
 value except to me; but some of them are of some value to anybody.
-For the whole point of a home is that it is a hotch-potch.
+For the whole point of a [[Home|home]] is that it is a hotch-potch.
 And mine, at any rate, rises to that austere domestic ideal.
-The whole point of one's own house is that it is not only a number
+The whole point of one's own [[house]] is that it is not only a number
 of totally different things, which are nevertheless one thing,
 but it is one in which we still value even the things that we forget.
-If a man has burnt my house to a heap of ashes, I am none
+If a man has burnt my [[house]] to a heap of ashes, I am none
 the less justly indignant with him for having burnt everything,
 because I cannot at first even remember everything he has burnt.
 And as it is with the household gods, so it is with the whole
 of that household religion, or what remains of it, to offer
 resistance to the destructive discipline of industrial capitalism.
 In a simpler society, I should rush out of the ruins, calling for help
-on the Commune or the King, and crying out, "Haro! a robber has burnt
-my house."  I might, of course, rush down the street crying in one
+on the Commune or the [[King]], and crying out, "Haro! a robber has burnt
+my [[house]]."  I might, of course, rush down the street crying in one
 passionate breath, "Haro! a robber has burnt my front door of seasoned
-oak with the usual fittings, fourteen window frames, nine curtains,
+oak with the usual fittings, fourteen [[Window|window]] frames, nine curtains,
 five and a half carpets, 753 books, of which four were editions de luxe,
 one portrait of my great-grandmother," and so on through all the items;
 but something would be lost of the fierce and simple feudal cry.
 And in the same way I could have begun this outline with an
 inventory of all the alterations I should like to see in the laws,
 with the object of establishing some economic justice in England.
-But I doubt whether the reader would have had any better idea
+But I [[Doubt|doubt]] whether the reader would have had any better idea
 of what I was ultimately driving at; and it would not have been
 the approach by which I propose at present to drive.  I shall have
 occasion later to go into some slight detail about these things;
@@ -441,7 +441,7 @@ hardly avoid some curves and loops.  I do not profess to dispose
 of all the obstacles that might arise in this question, because so
 many of them would seem to many to be quite a different question.
 I will give one example of what I mean.  What would the critical reader
-have thought, if at the very beginning of this sketch I had gone off
+have thought, if at the very beginning of this [[Sketch|sketch]] I had gone off
 into a long disputation about the Law of Libel?  Yet, if I were strictly
 practical, I should find that one of the most practical obstacles.
 It is the present ridiculous position that monopoly is not resisted
@@ -458,7 +458,7 @@ If it were constituted on the principles I suggest, those details
 would be dealt with on those principles as they arose.
 For instance, it would put an end to the nonsense whereby men,
 who are more powerful than emperors, pretend to be private tradesmen
-suffering from private malice; it will assert that those who are
+[[Suffering|suffering]] from private malice; it will assert that those who are
 in practice public men must be criticized as potential public evils.
 It would destroy the absurdity by which an "important case"
 is tried by a "special jury"; or, in other words, that any
@@ -476,7 +476,7 @@ in the sense that it is deliberately drawn as a large limitation
 within which there are many varieties.  I have long been acquainted,
 and not a little amused, with the sort of practical man who will
 certainly say that I generalize because there is no practical plan.
-The truth is that I generalize because there are so many practical plans.
+The [[Truth|truth]] is that I generalize because there are so many practical plans.
 I myself know four or five schemes that have been drawn up,
 more or less drastically, for the diffusion of capital.
 The most cautious, from a capitalist standpoint, is the gradual
@@ -502,14 +502,14 @@ mean that I have not my own favourite form; personally I prefer
 the second type of division given in the above list of examples.
 But my main business is to point out that any reversal of the rush
 to concentrate property will be an improvement on the present state
-of things.  If I tell a man his house is burning down in Putney,
+of things.  If I tell a man his [[house]] is burning down in Putney,
 he may thank me even if I do not give him a list of all the vehicles
 which go to Putney, with the numbers of all the taxicabs and
-the time-table of all the trams.  It is enough that I know there
+the [[Time|time]]-table of all the trams.  It is enough that I know there
 are a great many vehicles for him to choose from, before he is
 reduced to the proverbial adventure of going to Putney on a pig.
 It is enough that any one of those vehicles is on the whole less
-uncomfortable than a house on fire or even a heap of ashes.
+uncomfortable than a [[house]] on [[Fire|fire]] or even a heap of ashes.
 I admit I might be called unpractical if impenetrable forests
 and destructive floods lay between here and Putney; it might then
 be as merely idealistic to praise Putney as to praise Paradise.
@@ -517,10 +517,10 @@ But I do not admit that I am unpractical because I know there
 are half a dozen practical ways which are more practical than
 the present state of things.  But it does not follow, in fact,
 that I do not know how to get to Putney.  Here, for instance,
-are half a dozen things which would help the process of Distributism,
+are half a dozen things which would help the process of [[Distributism]],
 apart from those on which I shall have occasion to touch as points
 of principle.  Not all Distributists would agree with all of them;
-but all would agree that they are in the direction of Distributism.
+but all would agree that they are in the direction of [[Distributism]].
 (1) The taxation of contracts so as to discourage the sale of small
 property to big proprietors and encourage the break-up of big property
 among small proprietors.  (2) Something like the Napoleonic testamentary
@@ -531,7 +531,7 @@ in small property, if necessary by tariffs and even local tariffs.
 (5) Subsidies to foster the starting of such experiments.  (6) A league
 of voluntary dedication, and any number of other things of the same kind.
 But I have inserted this chapter here in order to explain that this
-is a sketch of the first principles of Distributism and not of
+is a [[Sketch|sketch]] of the first principles of [[Distributism]] and not of
 the last details, about which even Distributists might dispute.
 In such a statement, examples are given as examples, and not as
 exact and exhaustive lists of all the cases covered by the rule.
@@ -545,8 +545,8 @@ to its present promising and hopeful condition.  Harder heads
 than mine have established the present prosperity of coal.
 Men of action, of a more rugged energy, have brought us
 to the comfortable condition of living on our capital.
-I have had no part in the great industrial revolution which has
-increased the beauties of nature and reconciled the classes of society;
+I have had no part in the great [[Industrial Revolution|industrial revolution]] which has
+increased the beauties of [[Nature|nature]] and reconciled the classes of society;
 nor must the too enthusiastic reader think of thanking me for this
 more enlightened England, in which the employee is living on a dole
 from the State and the employer on an overdraft at the Bank.
@@ -592,7 +592,7 @@ The man who has servants must cease to work his servants.  Of course,
 the man who has no servants to work cannot cease to work them.
 But the law is actually so constructed that it forces this
 man also to give a holiday to the servants he has not got.
-He proclaims a saturnalia that never happens to a crowd of phantom slaves
+He proclaims a saturnalia that never happens to a crowd of [[Phantom|phantom]] slaves
 that have never been there.  Now there is not a rudiment of reason
 about this arrangement.  In every possible sense, from the immediate
 material to the abstract and mathematical sense, it is quite mad.
@@ -612,12 +612,12 @@ for the disappearance of the yeoman or the apprentice is a mere
 matter of sentiment.  Sentimental!  We have not quite sunk to such
 sentimentalism as to be sorry for apprentices who never existed at all.
 We have not quite reached that richness of romantic emotion that we
-are capable of weeping more copiously for an imaginary grocer's
-assistant than for a real grocer.  We are not quite so maudlin
-yet as to see double when we look into our favourite little shop;
-or to set the little shopkeeper fighting with his own shadow.
+are capable of weeping more copiously for an imaginary [[grocer]]'s
+assistant than for a real [[grocer]].  We are not quite so maudlin
+yet as to see [[Double|double]] when we look into our favourite little shop;
+or to set the little shopkeeper fighting with his own [[Shadow|shadow]].
 Let us leave these hard-headed and practical men of business
-shedding tears over the sorrows of a non-existent office boy,
+shedding [[Tears|tears]] over the sorrows of a non-existent office boy,
 and proceed upon our own wild and erratic path, that at least
 happens to pass across the land of the living.
 
@@ -629,24 +629,24 @@ For he is doing the one thing which such apologists commonly avoid
 above all things:  he is contradicting his masters.  Among the thousand
 things of interest, which are lost in the million things of no interest,
 in the newspaper reports of Parliament and public affairs,
-there really was one delightful little comedy dealing with this point.
+there really was one delightful little [[Comedy|comedy]] dealing with this point.
 Some man of normal sense and popular instincts, who had strayed
 into Parliament by some mistake or other, actually pointed out this
 plain fact:  that there was no need to protect the proletariat
 where there was no proletariat to protect; and that the lonely
 shopkeeper might, therefore, remain in his lonely shop.  And the Minister
-in charge of the matter actually replied, with a ghastly innocence,
+in charge of the matter actually replied, with a ghastly [[innocence]],
 that it was impossible; for it would be unfair to the big shops.
-Tears evidently flow freely in such circles, as they did from
+[[Tears]] evidently flow freely in such circles, as they did from
 the rising politician, Lord Lundy; and in this case it was the mere
 thought of the possible sufferings of the millionaires that moved him.
-There rose before his imagination Mr. Selfridge in his agony,
+There [[Rose|rose]] before his [[Imagination|imagination]] Mr. Selfridge in his agony,
 and the groans of Mr. Woolworth, of the Woolworth Tower,
 thrilled through the kind hearts to which the cry of the sorrowing rich
 will never come in vain.  But whatever we may think of the sensibility
 needed to regard the big store-owners as objects of sympathy,
 at any rate it disposes at a stroke of all the fashionable
-fatalism that sees something inevitable in their success.
+fatalism that sees something inevitable in their [[success]].
 It is absurd to tell us that our attack is bound to fail;
 and then that there would be something quite unscrupulous in its
 so immediately succeeding.  Apparently Big Business must be accepted
@@ -676,7 +676,7 @@ all men into employers and employed.  I do not mean, of course,
 that this little legal alteration is the only one I have
 to propose; I mention it first because it is the most obvious.
 But I mention it also because it illustrates very clearly what I mean
-by the two stages:  the nature of the negative and positive reform.
+by the two stages:  the [[Nature|nature]] of the negative and positive [[Reform|reform]].
 If little shops began to gain custom and big shops began to lose it,
 it would mean two things, both indeed preliminary but both practical.
 It would mean that the mere centripetal rush was slowed down,
@@ -684,16 +684,16 @@ if not stopped, and might at last change to a centrifugal movement.
 And it would mean that there were a number of new citizens in the State to
 whom all the ordinary Socialist or servile arguments were inapplicable.
 Now when you have got your considerable sprinkling of small proprietors,
-of men with the psychology and philosophy of small property,
+of men with the psychology and [[philosophy]] of small property,
 then you can begin to talk to them about something more like a just
 general settlement upon their own lines; something more like a land
 fit for Christians to live in.  You can make them understand, as you
-cannot make plutocrats or proletarians understand, why the machine
+cannot make plutocrats or proletarians understand, why the [[Machine|machine]]
 must not exist save as the servant of the man, why the things we
 produce ourselves are precious like our own children, and why we can
 pay too dearly for the possession of luxury by the loss of liberty.
 If bodies of men only begin to be detached from the servile settlements,
-they will begin to form the body of our public opinion.
+they will begin to form the [[Body|body]] of our public opinion.
 Now there are a large number of other advantages that could be
 given to the small man, which can be considered in their place.
 In all of them I presuppose a deliberate policy of favouring
@@ -701,7 +701,7 @@ the small man.  But in the primary example here given we
 can hardly even say that there is any question of favour.
 You make a law that slave-owners shall free their slaves for a day:
 the man who has no slaves is outside the thing entirely; he does
-not come under it in law, because he does not come into it in logic.
+not come under it in law, because he does not come into it in [[logic]].
 He has been deliberately dragged into it; not in order that all
 slaves shall be free for a day, but in order that all free men
 shall be slaves for a lifetime.  But while some of the expedients
@@ -713,7 +713,7 @@ once more exist; and wherever they exist they count.  There are many
 other ways, which can be briefly described, by which the break-up
 of property can be encouraged on the legal and legislative side.
 I shall deal with some of them later, and especially with the real
-responsibility which Government might reasonably assume in a
+responsibility which [[government|Government]] might reasonably assume in a
 financial and economic condition which is becoming quite ludicrous.
 From the standpoint of any sane person, in any other society,
 the present problem of capitalist concentration is not only a question
@@ -721,9 +721,9 @@ of law but of criminal law, not to mention criminal lunacy.
 
 Of that monstrous megalomania of the big shops, with their blatant
 advertisements and stupid standardization, something is said elsewhere.
-But it may be well to add, in the matter of the small shops,
+But it may be [[Well|well]] to add, in the matter of the small shops,
 that when once they exist they generally have an organization of
-their own which is much more self-respecting and much less vulgar.
+their own which is much more [[Self|self]]-respecting and much less vulgar.
 This voluntary organization, as every one knows, is called a Guild;
 and it is perfectly capable of doing everything that really
 needs to be done in the way of holidays and popular festivals.
@@ -738,10 +738,10 @@ in the newspapers, that the confederation in question refuses
 to "make medical discoveries accessible to the general public."
 When we consider the wild and unbalanced nonsense that is made
 accessible to the general public by the public press, perhaps we have
-some reason to doubt whether our souls and bodies are not at least
+some reason to [[Doubt|doubt]] whether our souls and bodies are not at least
 as safe in the hands of a Guild as they are likely to be in the hands
 of a Trust.  For the moment the main point is that small shops
-can be governed even if they are not bossed by the Government.
+can be governed even if they are not bossed by the [[government|Government]].
 Horrible as this may seem to the democratic idealists of the day,
 they can be governed by themselves.
 
@@ -753,9 +753,9 @@ We have most of us met in literature, and even in life, a certain sort
 of old gentleman; he is very often represented by an old clergyman.
 He is the sort of man who has a horror of Socialists without any
 very definite idea of what they are.  He is the man of whom men
-say that he means well; by which they mean that he means nothing.
+say that he means [[Well|well]]; by which they mean that he means nothing.
 But this view is a little unjust to this social type.
-He is really something more than well-meaning; we might even go
+He is really something more than [[Well|well]]-meaning; we might even go
 so far as to say that he would probably be right-thinking,
 if he ever thought.  His principles would probably be sound enough
 if they were really applied; it is his practical ignorance that
@@ -764,15 +764,15 @@ He might really be right, only he has no notion of what is wrong.
 Those who have sat under this old gentleman know that he is in
 the habit of softening his stern repudiation of the mysterious
 Socialists by saying that, of course, it is a Christian duty to use
-our wealth well, to remember that property is a trust committed
-to us by Providence for the good of others as well as ourselves,
+our wealth [[Well|well]], to remember that property is a trust committed
+to us by [[Providence]] for the good of others as [[Well|well]] as ourselves,
 and even (unless the old gentleman is old enough to be a Modernist)
 that it is just possible that we may some day be asked a question
 or two about the abuse of such a trust.  Now all this is perfectly true,
 so far as it goes, but it happens to illustrate in a rather curious
-way the queer and even uncanny innocence of the old gentleman.
+way the queer and even [[Uncanny|uncanny]] [[innocence]] of the old gentleman.
 The very phrase that he uses, when he says that property is a
-trust committed to us by Providence, is a phrase which takes on,
+trust committed to us by [[Providence]], is a phrase which takes on,
 when it is uttered to the world around him, the character of an awful
 and appalling pun.  His pathetic little sentence returns in a hundred
 howling echoes, repeating it again and again like the laughter
@@ -810,22 +810,22 @@ They have ended by saying that there cannot be anything else except
 Trusts in this age.  And in the course of calling the same thing
 impossible on Monday and inevitable on Tuesday, they have saved
 the life of the great gambler or robber twice over; first by calling
-him a fabulous monster, and second by calling him an almighty fate.
+him a fabulous [[Monster|monster]], and second by calling him an almighty fate.
 Twelve years ago, when I talked of Trusts, people said:
 "There are no Trusts in England."  Now, when I say it, the same
 people say:  "But how do you propose that England should escape
 from the Trusts?"  They talk as if the Trusts had always been a part
 of the British Constitution, not to mention the Solar System.
-In short, the pun and parable with which I began this article
+In short, the pun and [[Parable|parable]] with which I began this article
 have exactly and ironically come true.  The poor old clergyman
 is now really driven to talk as if a Trust with a big T
-were something that had been bestowed on him by Providence.
+were something that had been bestowed on him by [[Providence]].
 He is driven to abandon all that he originally meant by his own
-curious sort of Christian individualism, and hastily reconcile himself
+curious sort of Christian [[Individualism|individualism]], and hastily reconcile himself
 to something that is more like a sort of plutocratic collectivism.
 He is beginning, in a rather bewildered way, to understand that
 he must now say that monopoly and not merely private property is
-a part of the nature of things.  The net had been thrown over him
+a part of the [[Nature|nature]] of things.  The net had been thrown over him
 while he slept, because he never thought of such a thing as a net;
 because he would have denied the very possibility of anybody
 weaving such a net.  But now the poor old gentleman has to begin
@@ -834,7 +834,7 @@ he has had a knock on the head; perhaps, as his enemies say,
 he was always just a little weak in the head.  But, anyhow,
 now that his head is in the noose, or the net, he will often start
 preaching to us about the impossibility of escaping from nets
-and nooses that are woven or spun upon the wheel of the fates.
+and nooses that are woven or spun upon the [[Wheel|wheel]] of the fates.
 In a word, I wish to point out that the old gentleman was much
 too heedless about getting into the net and is much too hopeless
 about getting out of it.
@@ -843,12 +843,12 @@ In short, I would sum up my general suggestions so far by saying
 that the chief danger to be avoided now, and the first danger
 to be considered now, is the danger of supposing the capitalist
 conquest more complete than it is.  If I may use the terms
-of the Penny Catechism about the two sins against hope, the peril
-now is no longer the peril of presumption but rather of despair.
+of the Penny Catechism about the two sins against [[Hope|hope]], the peril
+now is no longer the peril of presumption but rather of [[Despair|despair]].
 It is not mere impudence like that of those who told us,
 without winking an eyelid, that there were no Trusts in England.
 It is rather mere impotence like that of those who tell us that England
-must soon be swallowed up in an earthquake called America.  Now this
+must soon be swallowed up in an earthquake called [[america|America]].  Now this
 sort of surrender to modern monopoly is not only ignoble, it is also
 panic-stricken and premature.  It is not true that we can do nothing.
 What I have written so far has been directed to showing the doubtful
@@ -858,7 +858,7 @@ though the things so to be done may appear to be of different
 kinds and even of degrees of effectiveness.  Even if we only save
 a shop in our own street or stop a conspiracy in our own trade,
 or get a Bill to punish such conspiracies pressed by our own member,
-we may come in the nick of time and make all the difference.
+we may come in the nick of [[Time|time]] and make all the difference.
 
 To vary the metaphor to a military one, what has happened is
 that the monopolists have attempted an encircling movement.
@@ -886,39 +886,39 @@ prevent the completion of the work of capitalist combination.
 Do anything that will even delay that completion.  Save one shop
 out of a hundred shops.  Save one croft out of a hundred crofts.
 Keep open one door out of a hundred doors; for so long as one door
-is open, we are not in prison.  Throw up one barricade in their way,
+is open, we are not in [[Prison|prison]].  Throw up one barricade in their way,
 and you will soon see whether it is the way the world is going.
-Put one spoke in their wheel, and you will soon see whether it
-is the wheel of fate."  For it is of the essence of their enormous
+Put one spoke in their [[Wheel|wheel]], and you will soon see whether it
+is the [[Wheel|wheel]] of fate."  For it is of the essence of their enormous
 and unnatural effort that a small failure is as big as a big failure.
 The modern commercial combine has a great many points in common
 with a big balloon.  It is swollen and yet it is swollen with levity;
 it climbs and yet it drifts; above all, it is full of gas,
-and generally of poison gas.  But the resemblance most relevant
+and generally of [[Poison|poison]] gas.  But the resemblance most relevant
 here is that the smallest prick will shrivel the biggest balloon.
-If this tendency of our time received anything like a reasonably
+If this tendency of our [[Time|time]] received anything like a reasonably
 definite check, I believe the whole tendency would soon begin to weaken
 in its preposterous prestige.  Until monopoly is monopolist it
 is nothing.  Until the combine can combine everything, it is nothing.
 Ahab has not his kingdom so long as Naboth has his vineyard.
 Haman will not be happy in the palace while Mordecai is sitting
-in the gate.  A hundred tales of human history are there to show
+in the gate.  A hundred tales of human [[history]] are there to show
 that tendencies can be turned back, and that one stumbling-block
-can be the turning-point. The sands of time are simply dotted
+can be the turning-point. The sands of [[Time|time]] are simply dotted
 with single stakes that have thus marked the turn of the tide.
 The first step towards ultimately winning is to make sure that the enemy
 does not win, if it be only that he does not win everywhere.
 Then, when we have halted his rush, and perhaps fought it to a standstill,
-we may begin a general counter-attack. The nature of that counter-attack
+we may begin a general counter-attack. The [[Nature|nature]] of that counter-attack
 I shall next proceed to consider.  In other words, I will try
 to explain to the old clergyman caught in the net (whose sufferings
-are ever before my eyes) what it will no doubt comfort him to know:
+are ever before my eyes) what it will no [[Doubt|doubt]] comfort him to know:
 that he was wrong from the first in thinking there could be no net;
 that he is wrong now in thinking there is no escape from the net;
 and that he will never know how wrong he was till he finds he has
 a net of his own, and is once more a fisher of men.
 
-I began by enunciating the paradox that one way of supporting small
+I began by enunciating the [[Paradox|paradox]] that one way of supporting small
 shops would be to support them.  Everybody could do it, but nobody
 can imagine it being done.  In one sense nothing is so simple,
 and in another nothing is so hard.  I went on to point out that without
@@ -939,7 +939,7 @@ that it was as possible to punish cornering as to punish coining.
 Yet to most readers to-day there seems a sort of vital contradiction,
 echoed in the verbal contradiction of saying, "Put not your
 trust in Trusts."  Yet to our fathers this would not seem even
-so much of a paradox as saying, "Put not your trust in princes,"
+so much of a [[Paradox|paradox]] as saying, "Put not your trust in princes,"
 but rather like saying, "Put not your trust in pirates."
 But in applying this to modern conditions, we are checked first
 by a very modern sophistry.
@@ -960,13 +960,13 @@ I am willing to believe that there are people so strangely constituted
 that they like to see a great nation held up by a small gang,
 more lawless than brigands but not so brave.  In short, I am
 willing to admit that there may be people who trust in Trusts.
-I admit it with tears, like those of the benevolent captain
+I admit it with [[Tears|tears]], like those of the benevolent captain
 in the Bab Ballads who said:
 
-    "It's human nature p'raps; if so,
-     Oh, isn't human nature low?"
+    "It's human [[Nature|nature]] p'raps; if so,
+     Oh, isn't human [[Nature|nature]] low?"
 
-I myself doubt whether it is quite so low as that; but I admit
+I myself [[Doubt|doubt]] whether it is quite so low as that; but I admit
 the possibility of this utter lowness; I admit it with weeping
 and lamentation.  But when they tell me it would be impossible to find
 out whether a man is making a Trust or not--that is quite another thing.
@@ -976,7 +976,7 @@ then I laugh; nay, I jeer.
 
 A murder is usually committed, we may infer, when one gentleman
 takes a dislike to the appearance of another gentleman in
-Piccadilly Circus at eleven o'clock in the morning; and steps up
+Piccadilly Circus at eleven o'[[Clock|clock]] in the morning; and steps up
 to the object of his distaste and dexterously cuts his throat.
 He then walks across to the kind policeman who is regulating the traffic,
 and draws his attention to the presence of the corpse on the pavement,
@@ -987,11 +987,11 @@ as brazenly, in communities where they can safely be discovered.
 But the theory of legal impotence looks very extraordinary
 when we consider the sort of things that the police do discover.
 Look at the sort of murders they discover.  An utterly ordinary
-and obscure man in some hole-and-corner house or tenement among ten
+and obscure man in some hole-and-corner [[house]] or tenement among ten
 thousand like it, washes his hands in a sink in a back scullery;
 the operation taking two minutes.  The police can discover that,
 but they could not possibly discover the meeting of men or the sending
-of messages that turn the whole commercial world upside down.
+of messages that turn the whole commercial [[World Upside Down|world upside down]].
 They can track a man that nobody has ever heard of to a place
 where nobody knew he was going, to do something that he took every
 possible precaution that nobody should see.  But they cannot keep
@@ -1004,14 +1004,14 @@ to know his movements; but they cannot tell when a great combination
 covering half the earth is on the move.  Are the police really
 so foolish as this; or are they at once so foolish and so wise?
 Or if the police were as helpless as Sherlock Holmes thought them,
-what about Sherlock Holmes?  What about the ardent amateur detective
+what about Sherlock Holmes?  What about the ardent amateur [[Detective|detective]]
 about whom all of us have read and some of us (alas!) have written.
 Is there no inspired sleuth to succeed where all the police
 have failed; and prove conclusively from a greasy spot on
 the tablecloth that Mr. Rockefeller is interested in oil?
 Is there no keen-faced man to infer from the late Lord Leverhulme
 buying up a crowd of soap-businesses that he was interested in soap?
-I feel inclined to write a new series of detective stories myself,
+I feel inclined to write a new series of [[Detective|detective]] stories myself,
 about the discovery of these obscure and cryptic things.  They would
 describe Sherlock Holmes with his monstrous magnifying-glass poring
 over a paper and making out one of the headlines letter by letter.
@@ -1055,7 +1055,7 @@ out of a shop to the more ceremonial one of hanging a man on a gallows.
 If we mean that we do not want to help it, that may be very true,
 and even in some cases very right.  But arresting a forestaller
 is as easy as falling off a log or walking out of a shop.
-Putting the log-roller in prison is no more impossible than walking
+Putting the log-roller in [[Prison|prison]] is no more impossible than walking
 out of the shop is impossible; and it is highly desirable for the health
 of this discussion that we should realize the fact from the first.
 Practically about half of the recognized expedients by which a big
@@ -1063,7 +1063,7 @@ business is now made have been marked down as a crime in some community
 of the past; and could be so marked in a community of the future.
 I can only refer to them here in the most cursory fashion.
 One of them is the process against which the statesmen of the most
-respectable party rave day and night so long as they can pretend
+respectable party rave day and [[Night|night]] so long as they can pretend
 that it is only done by foreigners.  It is called Dumping.
 There is a policy of deliberately selling at a loss to destroy
 another man's market.  Another is:  a process against which
@@ -1075,15 +1075,15 @@ of obligations that he cannot ultimately discharge, except by
 selling his shop or business.  It is done in one form by giving
 to the desperate things on the instalment plan or on long credit.
 All these conspiracies I would have tried as we try a conspiracy
-to overthrow the State or to shoot the King.  We do not expect
-the man to write the King a post-card, telling him he is to be shot,
+to overthrow the State or to shoot the [[King]].  We do not expect
+the man to write the [[King]] a post-card, telling him he is to be shot,
 or to give warning in the newspapers of the Day of Revolution.
 Such plots have always been judged in the only way in which they
 can be judged:  by the use of common sense as to the existence
 of a purpose and the apparent existence of a plan.  But we
 shall never have a real civic sense until it is once more felt
 that the plot of three citizens against one citizen is a crime,
-as well as the plot of one citizen against three.  In other words,
+as [[Well|well]] as the plot of one citizen against three.  In other words,
 private property ought to be protected against private crime,
 just as public order is protected against private judgment.
 But private property ought to be protected against much bigger
@@ -1101,8 +1101,8 @@ If they chose to take half as much risk to achieve justice as they
 have already taken to achieve degradation, if they toiled half
 as laboriously to make anything beautiful as they toiled to make
 everything ugly, if they had served their God as they have served
-their Pork King and their Petrol King, the success of our whole
-Distributive democracy would stare at the world like one of their
+their Pork [[King]] and their Petrol [[King]], the [[success]] of our whole
+Distributive [[Democracy|democracy]] would stare at the world like one of their
 flaming sky-signs and scrape the sky like one of their crazy towers.
 
 = = = = = = = = = = = = = = = =

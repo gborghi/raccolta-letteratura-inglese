@@ -1,5 +1,5 @@
 ---
-title: "CharlesDickens — Chapter 6 (part 5)"
+title: "[[CharlesDickens]] — Chapter 6 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/CharlesDickens-(Chesterton)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-In January, 1843, appeared the first number of the novel called
-"Martin Chuzzlewit."  The earlier part of the book and the end,
-which have no connection with America or the American problem,
+In January, 1843, appeared the first number of the [[Novel|novel]] called
+"[[Martin Chuzzlewit]]."  The earlier part of the book and the end,
+which have no connection with [[america|America]] or the American problem,
 in any case require a passing word.  But except for the two
 gigantic grotesques on each side of the gateway of the tale,
-Pecksniff and Mrs. Gamp, "Martin Chuzzlewit" will be chiefly
-admired for its American excursion.  It is a good satire embedded
-in an indifferent novel.  Mrs. Gamp is, indeed, a sumptuous study,
+Pecksniff and Mrs. Gamp, "[[Martin Chuzzlewit]]" will be chiefly
+admired for its American excursion.  It is a good [[Satire|satire]] embedded
+in an indifferent [[Novel|novel]].  Mrs. Gamp is, indeed, a sumptuous study,
 laid on in those rich, oily, almost greasy colours that go
 to make the English comic characters, that make the very
-diction of Falstaff fat, and quaking with jolly degradation.
+diction of [[Falstaff]] fat, and quaking with jolly degradation.
 Pecksniff also is almost perfect, and much too good to be true.
 The only other thing to be noticed about him is that here,
 as almost everywhere else in the novels, the best figures are
@@ -33,9 +33,9 @@ are perfect as long as he can keep them out of his stories.
 Bumble is divine until a dark and practical secret is entrusted
 to him--as if anybody but a lunatic would entrust a secret
 to Bumble.  Micawber is noble when he is doing nothing;
-but he is quite unconvincing when he is spying on Uriah Heep,
+but he is quite unconvincing when he is spying on [[Uriah Heep]],
 for obviously neither Micawber nor anyone else would employ
-Micawber as a private detective.  Similarly, while Pecksniff
+Micawber as a private [[Detective|detective]].  Similarly, while Pecksniff
 is the best thing in the story, the story is the worst thing
 in Pecksniff.  His plot against old Martin can only be described
 by saying that it is as silly as old Martin's plot against him.
@@ -48,45 +48,45 @@ the exposure of a man in whom none of the characters believe?
 Why toil and triumph to have the laugh of a man who was only
 made to be laughed at?
 
-But it is the American part of "Martin Chuzzlewit" which is
+But it is the American part of "[[Martin Chuzzlewit]]" which is
 our concern, and which is memorable.  It has the air of a
-great satire; but if it is only a great slander it is still great.
-His serious book on America was merely a squib, perhaps a damp squib.
-In any case, we all know that America will survive such serious books.
-But his fantastic book may survive America.  It may survive
-America as "The Knights" has survived Athens.  "Martin Chuzzlewit"
-has this quality of great satire that the critic forgets
+great [[Satire|satire]]; but if it is only a great slander it is still great.
+His serious book on [[america|America]] was merely a squib, perhaps a damp squib.
+In any case, we all know that [[america|America]] will survive such serious books.
+But his fantastic book may survive [[america|America]].  It may survive
+[[america|America]] as "The Knights" has survived Athens.  "[[Martin Chuzzlewit]]"
+has this quality of great [[Satire|satire]] that the critic forgets
 to ask whether the portrait is true to the original,
 because the portrait is so much more important than the original.
 Who cares whether Aristophanes correctly described Kleon,
 who is dead, when he so perfectly describes the demagogue,
 who cannot die?  Just as little, it may be, will some future
 age care whether the ancient civilisation of the west,
-the lost cities of New York and St. Louis, were fairly depicted
+the lost cities of [[New York]] and St. Louis, were fairly depicted
 in the colossal monument of Elijah Pogram.  For there is much
 more in the American episodes than their intoxicating absurdity;
-there is more than humour in the young man who made the speech
-about the British Lion, and said, "I taunt that lion.
-Alone I dare him;" or in the other man who told Martin that when
-he said that Queen Victoria did not live in the Tower of London
+there is more than [[Humour|humour]] in the young man who made the speech
+about the British [[Lion]], and said, "I taunt that [[Lion|lion]].
+[[Alone]] I dare him;" or in the other man who told Martin that when
+he said that [[Queen]] Victoria did not live in the Tower of [[London]]
 he "fell into an error not uncommon among his countrymen."
 He has his finger on the nerve of an evil which was not only
 in his enemies, but in himself.  The great democrat has hold
-of one of the dangers of democracy.  The great optimist confronts
-a horrible nightmare of optimism.  Above all, the genuine Englishman
+of one of the dangers of [[Democracy|democracy]].  The great optimist confronts
+a horrible [[nightmare]] of optimism.  Above all, the genuine Englishman
 attacks a sin that is not merely American, but English also.
 The eternal, complacent iteration of patriotic half-truths;
-the perpetual buttering of one's self all over with the same
+the perpetual buttering of one's [[Self|self]] all over with the same
 stale butter; above all, the big defiances of small enemies,
 or the very urgent challenges to very distant enemies; the cowardice
-so habitual and unconscious that it wears the plumes of courage--
-all this is an English temptation as well as an American one.
-"Martin Chuzzlewit" may be a caricature of America.  America may
+so habitual and unconscious that it wears the plumes of [[Courage|courage]]--
+all this is an English [[Temptation|temptation]] as [[Well|well]] as an American one.
+"[[Martin Chuzzlewit]]" may be a caricature of [[america|America]].  [[america|America]] may
 be a caricature of England.  But in the gravest college,
-in the quietest country house of England, there is the seed of
-the same essential madness that fills Dickens's book, like an asylum,
+in the quietest country [[house]] of England, there is the seed of
+the same essential [[Madness|madness]] that fills Dickens's book, like an asylum,
 with brawling Chollops and raving Jefferson Bricks.  That essential
-madness is the idea that the good patriot is the man who feels
+[[Madness|madness]] is the idea that the good patriot is the man who feels
 at ease about his country.  This notion of patriotism was
 unknown in the little pagan republics where our European
 patriotism began.  It was unknown in the Middle Ages.  In the
@@ -100,7 +100,7 @@ This view and these countries have exaggerations and dangers
 of their own; but the exaggeration and danger of England is
 the same as the exaggeration and danger of The Watertoast Gazette.
 The thing which is rather foolishly called the Anglo-Saxon
-civilisation is at present soaked through with a weak pride.
+civilisation is at present soaked through with a weak [[Pride|pride]].
 It uses great masses of men not to procure discussion but to
 procure the pleasure of unanimity; it uses masses like bolsters.
 It uses its organs of public opinion not to warn the public,
@@ -111,11 +111,11 @@ lets it fall as something obviously dim and barbaric--then there
 is only one adjective for the ultimate fate of that civilisation,
 and that adjective is "Chinese."
 
-Martin Chuzzlewit's America is a mad-house: but it is a mad-house
-we are all on the road to.  For completeness and even comfort are
+[[Martin Chuzzlewit]]'s [[america|America]] is a mad-[[house]]: but it is a mad-[[house]]
+we are all on the [[Road|road]] to.  For completeness and even comfort are
 almost the definitions of insanity.  The lunatic is the man who lives
 in a small world but thinks it is a large one:  he is the man
-who lives in a tenth of the truth, and thinks it is the whole.
+who lives in a tenth of the [[Truth|truth]], and thinks it is the whole.
 The madman cannot conceive any cosmos outside a certain tale or
 conspiracy or vision.  Hence the more clearly we see the world divided
 into Saxons and non-Saxons, into our splendid selves and the rest,
@@ -124,10 +124,10 @@ The more plain and satisfying our state appears, the more we
 may know that we are living in an unreal world.  For the real
 world is not satisfying.  The more clear become the colours
 and facts of Anglo-Saxon superiority, the more surely we may know
-we are in a dream.  For the real world is not clear or plain.
+we are in [[A Dream|a dream]].  For the real world is not clear or plain.
 The real world is full of bracing bewilderments and brutal surprises.
 Comfort is the blessing and the curse of the English, and of Americans
 of the Pogram type also.  With them it is a loud comfort, a wild comfort,
-a screaming and capering comfort; but comfort at bottom still.
+a screaming and capering comfort; but comfort at [[Bottom|bottom]] still.
 For there is but an inch of difference between the cushioned chamber
 and the padded cell.

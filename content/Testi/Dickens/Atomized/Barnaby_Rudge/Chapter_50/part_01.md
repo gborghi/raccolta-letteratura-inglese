@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 50 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 50 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -19,7 +19,7 @@ Chapter 50
 
 They were among the first to reach the tavern, but they had not been
 there many minutes, when several groups of men who had formed part of
-the crowd, came straggling in. Among them were Simon Tappertit and Mr
+the crowd, came straggling in. Among them were [[Simon Tappertit]] and Mr
 Dennis; both of whom, but especially the latter, greeted Barnaby with
 the utmost warmth, and paid him many compliments on the prowess he had
 shown.
@@ -36,7 +36,7 @@ face in a half-gallon can. ‘Don’t you consider this a good beginning,
 mister?’
 
 ‘Give me security that it an’t a ending,’ rejoined the hangman. ‘When
-that soldier went down, we might have made London ours; but no;--we
+that soldier went down, we might have made [[London]] ours; but no;--we
 stand, and gape, and look on--the justice (I wish he had had a bullet in
 each eye, as he would have had, if we’d gone to work my way) says,
 “My lads, if you’ll give me your word to disperse, I’ll order off the
@@ -46,7 +46,7 @@ as they are. Ah,’ said the hangman, in a tone of deep disgust, ‘it makes
 me blush for my feller creeturs. I wish I had been born a ox, I do!’
 
 ‘You’d have been quite as agreeable a character if you had been, I
-think,’ returned Simon Tappertit, going out in a lofty manner.
+think,’ returned [[Simon Tappertit]], going out in a lofty manner.
 
 ‘Don’t be too sure of that,’ rejoined the hangman, calling after him;
 ‘if I was a horned animal at the present moment, with the smallest
@@ -71,18 +71,18 @@ indeed left matters worse than they had found them. Of those who had
 come to The Boot, many dropped off within an hour; such of them as were
 really honest and sincere, never, after the morning’s experience, to
 return, or to hold any communication with their late companions. Others
-remained but to refresh themselves, and then went home desponding;
+remained but to refresh themselves, and then went [[Home|home]] desponding;
 others who had theretofore been regular in their attendance, avoided the
 place altogether. The half-dozen prisoners whom the Guards had taken,
 were magnified by report into half-a-hundred at least; and their
 friends, being faint and sober, so slackened in their energy, and so
-drooped beneath these dispiriting influences, that by eight o’clock in
-the evening, Dennis, Hugh, and Barnaby, were left alone. Even they were
+drooped beneath these dispiriting influences, that by eight o’[[Clock|clock]] in
+the evening, Dennis, Hugh, and Barnaby, were left [[Alone|alone]]. Even they were
 fast asleep upon the benches, when Gashford’s entrance roused them.
 
 ‘Oh! you ARE here then?’ said the Secretary. ‘Dear me!’
 
-‘Why, where should we be, Muster Gashford!’ Dennis rejoined as he rose
+‘Why, where should we be, Muster Gashford!’ Dennis rejoined as he [[Rose|rose]]
 into a sitting posture.
 
 ‘Oh nowhere, nowhere,’ he returned with excessive mildness. ‘The streets
@@ -109,7 +109,7 @@ circumstances I regret. I am quite satisfied in all other respects.’
 
 As he said this, he took a penknife from his pocket, and putting his
 hat upon his knee, began to busy himself in ripping off the blue cockade
-which he had worn all day; at the same time humming a psalm tune which
+which he had worn all day; at the same [[Time|time]] humming a psalm tune which
 had been very popular in the morning, and dwelling on it with a gentle
 regret.
 

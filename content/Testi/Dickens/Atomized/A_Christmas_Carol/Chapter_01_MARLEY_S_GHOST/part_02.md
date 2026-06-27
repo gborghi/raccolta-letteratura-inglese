@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 1: MARLEY'S GHOST (part 2)"
+title: "A Christmas [[carol|Carol]] — Stave 1: MARLEY'S [[Ghost|GHOST]] (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -26,14 +26,14 @@ Scrooge having no better answer ready on the spur
 of the moment, said, "Bah!" again; and followed it up
 with "Humbug."
 
-"Don't be cross, uncle!" said the nephew.
+"Don't be [[Cross|cross]], uncle!" said the nephew.
 
 "What else can I be," returned the uncle, "when I
 live in such a world of fools as this? Merry Christmas!
 Out upon merry Christmas! What's Christmas
-time to you but a time for paying bills without
-money; a time for finding yourself a year older, but
-not an hour richer; a time for balancing your books
+[[Time|time]] to you but a [[Time|time]] for paying bills without
+money; a [[Time|time]] for finding yourself a year older, but
+not an hour richer; a [[Time|time]] for balancing your books
 and having every item in 'em through a round dozen
 of months presented dead against you? If I could
 work my will," said Scrooge indignantly, "every idiot
@@ -49,7 +49,7 @@ in your own way, and let me keep it in mine."
 "Keep it!" repeated Scrooge's nephew. "But you
 don't keep it."
 
-"Let me leave it alone, then," said Scrooge. "Much
+"Let me leave it [[Alone|alone]], then," said Scrooge. "Much
 good may it do you! Much good it has ever done
 you!"
 
@@ -57,15 +57,15 @@ you!"
 derived good, by which I have not profited, I dare
 say," returned the nephew. "Christmas among the
 rest. But I am sure I have always thought of Christmas
-time, when it has come round--apart from the
+[[Time|time]], when it has come round--apart from the
 veneration due to its sacred name and origin, if anything
 belonging to it can be apart from that--as a
-good time; a kind, forgiving, charitable, pleasant
-time; the only time I know of, in the long calendar
+good [[Time|time]]; a kind, forgiving, charitable, pleasant
+[[Time|time]]; the only [[Time|time]] I know of, in the long calendar
 of the year, when men and women seem by one consent
 to open their shut-up hearts freely, and to think
 of people below them as if they really were
-fellow-passengers to the grave, and not another race
+fellow-passengers to the [[Grave|grave]], and not another race
 of creatures bound on other journeys. And therefore,
 uncle, though it has never put a scrap of gold or
 silver in my pocket, I believe that it has done me
@@ -73,13 +73,13 @@ good, and will do me good; and I say, God bless it!"
 
 The clerk in the Tank involuntarily applauded.
 Becoming immediately sensible of the impropriety,
-he poked the fire, and extinguished the last frail spark
+he poked the [[Fire|fire]], and extinguished the last frail spark
 for ever.
 
 "Let me hear another sound from you," said
 Scrooge, "and you'll keep your Christmas by losing
 your situation! You're quite a powerful speaker,
-sir," he added, turning to his nephew. "I wonder you
+sir," he added, turning to his nephew. "I [[Wonder|wonder]] you
 don't go into Parliament."
 
 "Don't be angry, uncle. Come! Dine with us to-morrow."
@@ -92,9 +92,9 @@ and said that he would see him in that extremity first.
 
 "Why did you get married?" said Scrooge.
 
-"Because I fell in love."
+"Because I fell in [[Love|love]]."
 
-"Because you fell in love!" growled Scrooge, as if
+"Because you fell in [[Love|love]]!" growled Scrooge, as if
 that were the only one thing in the world more ridiculous
 than a merry Christmas. "Good afternoon!"
 
@@ -113,7 +113,7 @@ why cannot we be friends?"
 resolute. We have never had any quarrel, to which I
 have been a party. But I have made the trial in
 homage to Christmas, and I'll keep my Christmas
-humour to the last. So A Merry Christmas, uncle!"
+[[Humour|humour]] to the last. So A Merry Christmas, uncle!"
 
 "Good afternoon!" said Scrooge.
 
@@ -144,9 +144,9 @@ of addressing Mr. Scrooge, or Mr. Marley?"
 
 "Mr. Marley has been dead these seven years,"
 Scrooge replied. "He died seven years ago, this very
-night."
+[[Night|night]]."
 
-"We have no doubt his liberality is well represented
+"We have no [[Doubt|doubt]] his liberality is [[Well|well]] represented
 by his surviving partner," said the gentleman, presenting
 his credentials.
 
@@ -159,7 +159,7 @@ back.
 said the gentleman, taking up a pen, "it is more than
 usually desirable that we should make some slight
 provision for the Poor and destitute, who suffer
-greatly at the present time. Many thousands are in
+greatly at the present [[Time|time]]. Many thousands are in
 want of common necessaries; hundreds of thousands
 are in want of common comforts, sir."
 
@@ -168,7 +168,7 @@ are in want of common comforts, sir."
 "Plenty of prisons," said the gentleman, laying down
 the pen again.
 
-"And the Union workhouses?" demanded Scrooge.
+"And the [[Union]] workhouses?" demanded Scrooge.
 "Are they still in operation?"
 
 "They are. Still," returned the gentleman, "I wish
@@ -185,10 +185,10 @@ useful course," said Scrooge. "I'm very glad to
 hear it."
 
 "Under the impression that they scarcely furnish
-Christian cheer of mind or body to the multitude,"
+Christian cheer of mind or [[Body|body]] to the multitude,"
 returned the gentleman, "a few of us are endeavouring
 to raise a fund to buy the Poor some meat and drink,
-and means of warmth. We choose this time, because
-it is a time, of all others, when Want is keenly felt,
+and means of warmth. We choose this [[Time|time]], because
+it is a [[Time|time]], of all others, when Want is keenly felt,
 and Abundance rejoices. What shall I put you down
 for?"

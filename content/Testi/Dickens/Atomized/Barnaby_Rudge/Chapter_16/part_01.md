@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 16 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Chapter 16
 
 
-A series of pictures representing the streets of London in the night,
+A series of pictures representing the streets of [[London]] in the [[Night|night]],
 even at the comparatively recent date of this tale, would present to the
 eye something so very different in character from the reality which is
 witnessed in these times, that it would be difficult for the beholder to
@@ -26,10 +26,10 @@ than half a century ago.
 
 They were, one and all, from the broadest and best to the narrowest and
 least frequented, very dark. The oil and cotton lamps, though regularly
-trimmed twice or thrice in the long winter nights, burnt feebly at the
+trimmed twice or thrice in the long [[Winter|winter]] nights, burnt feebly at the
 best; and at a late hour, when they were unassisted by the lamps and
 candles in the shops, cast but a narrow track of doubtful light upon the
-footway, leaving the projecting doors and house-fronts in the deepest
+footway, leaving the projecting doors and [[house]]-fronts in the deepest
 gloom. Many of the courts and lanes were left in total darkness; those
 of the meaner sort, where one glimmering light twinkled for a score of
 houses, being favoured in no slight degree. Even in these places, the
@@ -38,25 +38,25 @@ as it was lighted; and the watch being utterly inefficient and powerless
 to prevent them, they did so at their pleasure. Thus, in the lightest
 thoroughfares, there was at every turn some obscure and dangerous spot
 whither a thief might fly or shelter, and few would care to follow; and
-the city being belted round by fields, green lanes, waste grounds, and
-lonely roads, dividing it at that time from the suburbs that have joined
+the [[City|city]] being belted round by fields, green lanes, waste grounds, and
+lonely roads, dividing it at that [[Time|time]] from the suburbs that have joined
 it since, escape, even where the pursuit was hot, was rendered easy.
 
-It is no wonder that with these favouring circumstances in full and
+It is no [[Wonder|wonder]] that with these favouring circumstances in full and
 constant operation, street robberies, often accompanied by cruel wounds,
 and not unfrequently by loss of life, should have been of nightly
-occurrence in the very heart of London, or that quiet folks should have
+occurrence in the very heart of [[London]], or that quiet folks should have
 had great dread of traversing its streets after the shops were closed.
-It was not unusual for those who wended home alone at midnight, to
-keep the middle of the road, the better to guard against surprise from
+It was not unusual for those who wended [[Home|home]] [[Alone|alone]] at midnight, to
+keep the middle of the [[Road|road]], the better to guard against surprise from
 lurking footpads; few would venture to repair at a late hour to Kentish
 Town or Hampstead, or even to Kensington or Chelsea, unarmed and
 unattended; while he who had been loudest and most valiant at the
 supper-table or the tavern, and had but a mile or so to go, was glad to
-fee a link-boy to escort him home.
+fee a link-boy to escort him [[Home|home]].
 
 There were many other characteristics--not quite so disagreeable--about
-the thoroughfares of London then, with which they had been long
+the thoroughfares of [[London]] then, with which they had been long
 familiar. Some of the shops, especially those to the eastward of Temple
 Bar, still adhered to the old practice of hanging out a sign; and the
 creaking and swinging of these boards in their iron frames on windy
@@ -64,12 +64,12 @@ nights, formed a strange and mournful concert for the ears of those
 who lay awake in bed or hurried through the streets. Long stands of
 hackney-chairs and groups of chairmen, compared with whom the coachmen
 of our day are gentle and polite, obstructed the way and filled the
-air with clamour; night-cellars, indicated by a little stream of light
-crossing the pavement, and stretching out half-way into the road, and
+air with clamour; [[Night|night]]-cellars, indicated by a little stream of light
+crossing the pavement, and stretching out half-way into the [[Road|road]], and
 by the stifled roar of voices from below, yawned for the reception and
 entertainment of the most abandoned of both sexes; under every shed and
 bulk small groups of link-boys gamed away the earnings of the day; or
-one more weary than the rest, gave way to sleep, and let the fragment of
+one more weary than the rest, gave way to [[Sleep|sleep]], and let the [[Fragment|fragment]] of
 his torch fall hissing on the puddled ground.
 
 Then there was the watch with staff and lantern crying the hour, and
@@ -94,13 +94,13 @@ for cards and dice were as openly used, and worked as much mischief, and
 yielded as much excitement below stairs, as above. While incidents like
 these, arising out of drums and masquerades and parties at quadrille,
 were passing at the west end of the town, heavy stagecoaches and scarce
-heavier waggons were lumbering slowly towards the city, the coachmen,
+heavier waggons were lumbering slowly towards the [[City|city]], the coachmen,
 guard, and passengers, armed to the teeth, and the coach--a day or so
-perhaps behind its time, but that was nothing--despoiled by highwaymen;
-who made no scruple to attack, alone and single-handed, a whole caravan
+perhaps behind its [[Time|time]], but that was nothing--despoiled by highwaymen;
+who made no scruple to attack, [[Alone|alone]] and single-handed, a whole caravan
 of goods and men, and sometimes shot a passenger or two, and were
 sometimes shot themselves, as the case might be. On the morrow, rumours
-of this new act of daring on the road yielded matter for a few hours’
+of this new act of daring on the [[Road|road]] yielded matter for a few hours’
 conversation through the town, and a Public Progress of some fine
 gentleman (half-drunk) to Tyburn, dressed in the newest fashion, and
 damning the ordinary with unspeakable gallantry and grace, furnished to
@@ -108,7 +108,7 @@ the populace, at once a pleasant excitement and a wholesome and profound
 example.
 
 Among all the dangerous characters who, in such a state of society,
-prowled and skulked in the metropolis at night, there was one man from
+prowled and skulked in the metropolis at [[Night|night]], there was one man from
 whom many as uncouth and fierce as he, shrunk with an involuntary dread.
 Who he was, or whence he came, was a question often asked, but which
 none could answer. His name was unknown, he had never been seen until
@@ -117,6 +117,6 @@ the old ruffians, upon whose haunts he ventured fearlessly, as to the
 young. He could be no spy, for he never removed his slouched hat to look
 about him, entered into conversation with no man, heeded nothing that
 passed, listened to no discourse, regarded nobody that came or went.
-But so surely as the dead of night set in, so surely this man was in the
-midst of the loose concourse in the night-cellar where outcasts of every
+But so surely as the dead of [[Night|night]] set in, so surely this man was in the
+midst of the loose concourse in the [[Night|night]]-cellar where outcasts of every
 grade resorted; and there he sat till morning.

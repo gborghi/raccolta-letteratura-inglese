@@ -17,31 +17,31 @@ tags:
 CHAPTER IX—MRS. JOSEPH PORTER
 
 
-Most extensive were the preparations at Rose Villa, Clapham Rise, in
+Most extensive were the preparations at [[Rose]] Villa, Clapham Rise, in
 the occupation of Mr. Gattleton (a stock-broker in especially
 comfortable circumstances), and great was the anxiety of Mr.
 Gattleton’s interesting family, as the day fixed for the representation
 of the Private Play which had been ‘many months in preparation,’
 approached. The whole family was infected with the mania for Private
-Theatricals; the house, usually so clean and tidy, was, to use Mr.
+Theatricals; the [[house]], usually so clean and tidy, was, to use Mr.
 Gattleton’s expressive description, ‘regularly turned out o’ windows;’
 the large dining-room, dismantled of its furniture, and ornaments,
 presented a strange jumble of flats, flies, wings, lamps, bridges,
-clouds, thunder and lightning, festoons and flowers, daggers and foil,
+clouds, thunder and [[Lightning|lightning]], festoons and [[Flowers|flowers]], daggers and foil,
 and various other messes in theatrical slang included under the
 comprehensive name of ‘properties.’ The bedrooms were crowded with
 scenery, the kitchen was occupied by carpenters. Rehearsals took place
-every other night in the drawing-room, and every sofa in the house was
+every other [[Night|night]] in the drawing-room, and every sofa in the [[house]] was
 more or less damaged by the perseverance and spirit with which Mr.
-Sempronius Gattleton, and Miss Lucina, rehearsed the smothering scene
-in ‘Othello’—it having been determined that that tragedy should form
+[[Sempronius]] Gattleton, and Miss Lucina, rehearsed the smothering scene
+in ‘[[Othello]]’—it having been determined that that [[Tragedy|tragedy]] should form
 the first portion of the evening’s entertainments.
 
 ‘When we’re a _leetle_ more perfect, I think it will go admirably,’
-said Mr. Sempronius, addressing his _corps dramatique_, at the
+said Mr. [[Sempronius]], addressing his _corps dramatique_, at the
 conclusion of the hundred and fiftieth rehearsal. In consideration of
 his sustaining the trifling inconvenience of bearing all the expenses
-of the play, Mr. Sempronius had been, in the most handsome manner,
+of the play, Mr. [[Sempronius]] had been, in the most handsome manner,
 unanimously elected stage-manager. ‘Evans,’ continued Mr. Gattleton,
 the younger, addressing a tall, thin, pale young gentleman, with
 extensive whiskers—‘Evans, you play _Roderigo_ beautifully.’
@@ -56,7 +56,7 @@ and bowed.
 the—fall—in the fencing-scene, where you are—you understand?’
 
 ‘It’s very difficult,’ said Mr. Evans, thoughtfully; ‘I’ve fallen
-about, a good deal, in our counting-house lately, for practice, only I
+about, a good deal, in our counting-[[house]] lately, for practice, only I
 find it hurts one so. Being obliged to fall backward you see, it
 bruises one’s head a good deal.’
 
@@ -65,7 +65,7 @@ Gattleton, the elder, who had been appointed prompter, and who took as
 much interest in the play as the youngest of the company. ‘The stage is
 very narrow, you know.’
 
-‘Oh! don’t be afraid,’ said Mr. Evans, with a very self-satisfied air;
+‘Oh! don’t be afraid,’ said Mr. Evans, with a very [[Self|self]]-satisfied air;
 ‘I shall fall with my head “off,” and then I can’t do any harm.’
 
 ‘But, egad,’ said the manager, rubbing his hands, ‘we shall make a
@@ -85,18 +85,18 @@ sides; and in the market-scene we can walk about in cloaks and things.
 When the revolt takes place, Tom must keep rushing in on one side and
 out on the other, with a pickaxe, as fast as he can. The effect will be
 electrical; it will look exactly as if there were an immense number of
-’em. And in the eruption-scene we must burn the red fire, and upset the
+’em. And in the eruption-scene we must burn the red [[Fire|fire]], and upset the
 tea-trays, and make all sorts of noises—and it’s sure to do.’
 
 ‘Sure! sure!’ cried all the performers _unâ voce_—and away hurried Mr.
-Sempronius Gattleton to wash the burnt cork off his face, and
+[[Sempronius]] Gattleton to wash the burnt cork off his face, and
 superintend the ‘setting up’ of some of the amateur-painted, but
 never-sufficiently-to-be-admired, scenery.
 
-Mrs. Gattleton was a kind, good-tempered, vulgar soul, exceedingly fond
+Mrs. Gattleton was a kind, good-tempered, vulgar [[Soul|soul]], exceedingly fond
 of her husband and children, and entertaining only three dislikes. In
 the first place, she had a natural antipathy to anybody else’s
-unmarried daughters; in the second, she was in bodily fear of anything
+unmarried daughters; in the second, she was in bodily [[Fear|fear]] of anything
 in the shape of ridicule; lastly—almost a necessary consequence of this
 feeling—she regarded, with feelings of the utmost horror, one Mrs.
 Joseph Porter over the way. However, the good folks of Clapham and its
@@ -106,20 +106,20 @@ for much the same reason that induces a poor author, without a farthing
 in his pocket, to behave with extraordinary civility to a twopenny
 postman.
 
-‘Never mind, ma,’ said Miss Emma Porter, in colloquy with her respected
+‘Never mind, ma,’ said Miss [[Emma]] Porter, in colloquy with her respected
 relative, and trying to look unconcerned; ‘if they had invited me, you
 know that neither you nor pa would have allowed me to take part in such
 an exhibition.’
 
 ‘Just what I should have thought from your high sense of propriety,’
-returned the mother. ‘I am glad to see, Emma, you know how to designate
+returned the mother. ‘I am glad to see, [[Emma]], you know how to designate
 the proceeding.’ Miss P., by-the-bye, had only the week before made ‘an
 exhibition’ of herself for four days, behind a counter at a fancy fair,
 to all and every of her Majesty’s liege subjects who were disposed to
 pay a shilling each for the privilege of seeing some four dozen girls
 flirting with strangers, and playing at shop.
 
-‘There!’ said Mrs. Porter, looking out of window; ‘there are two rounds
+‘There!’ said Mrs. Porter, looking out of [[Window|window]]; ‘there are two rounds
 of beef and a ham going in—clearly for sandwiches; and Thomas, the
 pastry-cook, says, there have been twelve dozen tarts ordered, besides
 blancmange and jellies. Upon my word! think of the Miss Gattletons in
@@ -130,9 +130,9 @@ fancy dresses, too!’
 ‘I’ll manage to put them a little out of conceit with the business,
 however,’ said Mrs. Porter; and out she went on her charitable errand.
 
-‘Well, my dear Mrs. Gattleton,’ said Mrs. Joseph Porter, after they had
-been closeted for some time, and when, by dint of indefatigable
-pumping, she had managed to extract all the news about the play, ‘well,
+‘[[Well]], my dear Mrs. Gattleton,’ said Mrs. Joseph Porter, after they had
+been closeted for some [[Time|time]], and when, by dint of indefatigable
+pumping, she had managed to extract all the news about the play, ‘[[Well|well]],
 my dear, people may say what they please; indeed we know they will, for
 some folks are _so_ ill-natured. Ah, my dear Miss Lucina, how d’ye do?
 I was just telling your mamma that I have heard it said, that—’
@@ -144,7 +144,7 @@ I was just telling your mamma that I have heard it said, that—’
 
 ‘Oh, now pray don’t mention it,’ interrupted Mrs. Porter; ‘it’s most
 absurd—quite as absurd as young What’s-his-name saying he wondered how
-Miss Caroline, with such a foot and ankle, could have the vanity to
+Miss Caroline, with such a foot and ankle, could have the [[Vanity|vanity]] to
 play _Fenella_.’
 
 ‘Highly impertinent, whoever said it,’ said Mrs. Gattleton, bridling
@@ -167,7 +167,7 @@ nieces: as a matter of course, therefore, he was an object of great
 importance in his own family. He was one of the best-hearted men in
 existence: always in a good temper, and always talking. It was his
 boast that he wore top-boots on all occasions, and had never worn a
-black silk neckerchief; and it was his pride that he remembered all the
+black silk neckerchief; and it was his [[Pride|pride]] that he remembered all the
 principal plays of Shakspeare from beginning to end—and so he did. The
 result of this parrot-like accomplishment was, that he was not only
 perpetually quoting himself, but that he could never sit by, and hear a
@@ -177,7 +177,7 @@ opportunity of saying what he considered a good thing, and invariably
 laughed until he cried at anything that appeared to him mirth-moving or
 ridiculous.
 
-‘Well, girls!’ said Uncle Tom, after the preparatory ceremony of
+‘[[Well]], girls!’ said Uncle Tom, after the preparatory ceremony of
 kissing and how-d’ye-do-ing had been gone through—‘how d’ye get on?
 Know your parts, eh?—Lucina, my dear, act II., scene I—place,
 left-cue—“Unknown fate,”—What’s next, eh?—Go on—“The Heavens—”’
@@ -197,10 +197,10 @@ loud again, “as our days do grow;” emphasis on _days_. That’s the way,
 my dear; trust to your uncle for emphasis. Ah! Sem, my boy, how are
 you?’
 
-‘Very well, thankee, uncle,’ returned Mr. Sempronius, who had just
+‘Very [[Well|well]], thankee, uncle,’ returned Mr. [[Sempronius]], who had just
 appeared, looking something like a ringdove, with a small circle round
 each eye: the result of his constant corking. ‘Of course we see you on
-Thursday.’
+[[thursday|Thursday]].’
 
 ‘Of course, of course, my dear boy.’
 
@@ -208,10 +208,10 @@ Thursday.’
 Balderstone!’ whispered Mrs. Joseph Porter; ‘you would have been
 invaluable.’
 
-‘Well, I flatter myself, I _should_ have been tolerably up to the
+‘[[Well]], I flatter myself, I _should_ have been tolerably up to the
 thing,’ responded Uncle Tom.
 
-‘I must bespeak sitting next you on the night,’ resumed Mrs. Porter;
+‘I must bespeak sitting next you on the [[Night|night]],’ resumed Mrs. Porter;
 ‘and then, if our dear young friends here, should be at all wrong, you
 will be able to enlighten me. I shall be so interested.’
 
@@ -223,36 +223,36 @@ power’
 ‘Certainly.’
 
 ‘I don’t know how it is,’ said Mrs. Gattleton to her daughters, as they
-were sitting round the fire in the evening, looking over their parts,
+were sitting round the [[Fire|fire]] in the evening, looking over their parts,
 ‘but I really very much wish Mrs. Joseph Porter wasn’t coming on
-Thursday. I am sure she’s scheming something.’
+[[thursday|Thursday]]. I am sure she’s scheming something.’
 
-‘She can’t make us ridiculous, however,’ observed Mr. Sempronius
+‘She can’t make us ridiculous, however,’ observed Mr. [[Sempronius]]
 Gattleton, haughtily.
 
-The long-looked-for Thursday arrived in due course, and brought with
+The long-looked-for [[thursday|Thursday]] arrived in due course, and brought with
 it, as Mr. Gattleton, senior, philosophically observed, ‘no
-disappointments, to speak of.’ True, it was yet a matter of doubt
+disappointments, to speak of.’ True, it was yet a matter of [[Doubt|doubt]]
 whether _Cassio_ would be enabled to get into the dress which had been
 sent for him from the masquerade warehouse. It was equally uncertain
 whether the principal female singer would be sufficiently recovered
 from the influenza to make her appearance; Mr. Harleigh, the
-_Masaniello_ of the night, was hoarse, and rather unwell, in
+_Masaniello_ of the [[Night|night]], was hoarse, and rather unwell, in
 consequence of the great quantity of lemon and sugar-candy he had eaten
 to improve his voice; and two flutes and a violoncello had pleaded
 severe colds. What of that? the audience were all coming. Everybody
 knew his part: the dresses were covered with tinsel and spangles; the
 white plumes looked beautiful; Mr. Evans had practised falling until he
 was bruised from head to foot and quite perfect; _Iago_ was sure that,
-in the stabbing-scene, he should make ‘a decided hit.’ A self-taught
+in the stabbing-scene, he should make ‘a decided hit.’ A [[Self|self]]-taught
 deaf gentleman, who had kindly offered to bring his flute, would be a
 most valuable addition to the orchestra; Miss Jenkins’s talent for the
-piano was too well known to be doubted for an instant; Mr. Cape had
+piano was too [[Well|well]] known to be doubted for an instant; Mr. Cape had
 practised the violin accompaniment with her frequently; and Mr. Brown,
 who had kindly undertaken, at a few hours’ notice, to bring his
-violoncello, would, no doubt, manage extremely well.
+violoncello, would, no [[Doubt|doubt]], manage extremely [[Well|well]].
 
-Seven o’clock came, and so did the audience; all the rank and fashion
+Seven o’[[Clock|clock]] came, and so did the audience; all the rank and fashion
 of Clapham and its vicinity was fast filling the theatre. There were
 the Smiths, the Gubbinses, the Nixons, the Dixons, the Hicksons, people
 with all sorts of names, two aldermen, a sheriff in perspective, Sir
@@ -263,13 +263,13 @@ the third row from the stage; Mrs. P. amusing Uncle Tom with all sorts
 of stories, and Uncle Tom amusing every one else by laughing most
 immoderately.
 
-Ting, ting, ting! went the prompter’s bell at eight o’clock precisely,
+Ting, ting, ting! went the prompter’s bell at eight o’[[Clock|clock]] precisely,
 and dash went the orchestra into the overture to ‘The Men of
-Prometheus.’ The pianoforte player hammered away with laudable
+[[Prometheus]].’ The pianoforte player hammered away with laudable
 perseverance; and the violoncello, which struck in at intervals,
-‘sounded very well, considering.’ The unfortunate individual, however,
+‘sounded very [[Well|well]], considering.’ The unfortunate individual, however,
 who had undertaken to play the flute accompaniment ‘at sight,’ found,
-from fatal experience, the perfect truth of the old adage, ‘ought of
+from fatal experience, the perfect [[Truth|truth]] of the old adage, ‘ought of
 sight, out of mind;’ for being very near-sighted, and being placed at a
 considerable distance from his music-book, all he had an opportunity of
 doing was to play a bar now and then in the wrong place, and put the
@@ -282,23 +282,23 @@ he was at all wrong, until apprised, by the applause of the audience,
 that the overture was concluded. A considerable bustle and shuffling of
 feet was then heard upon the stage, accompanied by whispers of ‘Here’s
 a pretty go!—what’s to be done?’ &c. The audience applauded again, by
-way of raising the spirits of the performers; and then Mr. Sempronius
+way of raising the spirits of the performers; and then Mr. [[Sempronius]]
 desired the prompter, in a very audible voice, to ‘clear the stage, and
 ring up.’
 
 Ting, ting, ting! went the bell again. Everybody sat down; the curtain
-shook; rose sufficiently high to display several pair of yellow boots
+shook; [[Rose|rose]] sufficiently high to display several pair of yellow boots
 paddling about; and there remained.
 
 Ting, ting, ting! went the bell again. The curtain was violently
-convulsed, but rose no higher; the audience tittered; Mrs. Porter
+convulsed, but [[Rose|rose]] no higher; the audience tittered; Mrs. Porter
 looked at Uncle Tom; Uncle Tom looked at everybody, rubbing his hands,
 and laughing with perfect rapture. After as much ringing with the
 little bell as a muffin-boy would make in going down a tolerably long
 street, and a vast deal of whispering, hammering, and calling for nails
-and cord, the curtain at length rose, and discovered Mr. Sempronius
+and cord, the curtain at length [[Rose|rose]], and discovered Mr. [[Sempronius]]
 Gattleton _solus_, and decked for _Othello_. After three distinct
-rounds of applause, during which Mr. Sempronius applied his right hand
+rounds of applause, during which Mr. [[Sempronius]] applied his right hand
 to his left breast, and bowed in the most approved manner, the manager
 advanced and said:
 
@@ -311,21 +311,21 @@ Gentlemen, the fact is, that I have just received a note, in which I am
 informed that _Iago_ is unavoidably detained at the Post-office this
 evening. Under these circumstances, I trust—a—a—amateur
 performance—a—another gentleman undertaken to read the part—request
-indulgence for a short time—courtesy and kindness of a British
-audience.’ Overwhelming applause. Exit Mr. Sempronius Gattleton, and
+indulgence for a short [[Time|time]]—courtesy and kindness of a British
+audience.’ Overwhelming applause. Exit Mr. [[Sempronius]] Gattleton, and
 curtain falls.
 
 The audience were, of course, exceedingly good-humoured; the whole
 business was a joke; and accordingly they waited for an hour with the
 utmost patience, being enlivened by an interlude of rout-cakes and
-lemonade. It appeared by Mr. Sempronius’s subsequent explanation, that
+lemonade. It appeared by Mr. [[Sempronius]]’s subsequent explanation, that
 the delay would not have been so great, had it not so happened that
 when the substitute _Iago_ had finished dressing, and just as the play
 was on the point of commencing, the original _Iago_ unexpectedly
 arrived. The former was therefore compelled to undress, and the latter
 to dress for his part; which, as he found some difficulty in getting
-into his clothes, occupied no inconsiderable time. At last, the tragedy
-began in real earnest. It went off well enough, until the third scene
+into his clothes, occupied no inconsiderable [[Time|time]]. At last, the [[Tragedy|tragedy]]
+began in real earnest. It went off [[Well|well]] enough, until the third scene
 of the first act, in which _Othello_ addresses the Senate: the only
 remarkable circumstance being, that as _Iago_ could not get on any of
 the stage boots, in consequence of his feet being violently swelled
@@ -336,10 +336,10 @@ to the Senate (whose dignity was represented by, the _Duke_, _a_
 carpenter, two men engaged on the recommendation of the gardener, and a
 boy), Mrs. Porter found the opportunity she so anxiously sought.
 
-Mr. Sempronius proceeded:
+Mr. [[Sempronius]] proceeded:
 
 
-‘“Most potent, grave, and reverend signiors,
+‘“Most potent, [[Grave|grave]], and reverend signiors,
 My very noble and approv’d good masters,
 That I have ta’en away this old man’s daughter,
 It is most true;—rude am I in my speech—”’
@@ -358,7 +358,7 @@ of his situation.
 
 ‘You’ve left out something. “True I have married—”’
 
-‘Oh, ah!’ said Mr. Sempronius, endeavouring to hide his confusion as
+‘Oh, ah!’ said Mr. [[Sempronius]], endeavouring to hide his confusion as
 much and as ineffectually as the audience attempted to conceal their
 half-suppressed tittering, by coughing with extraordinary violence—
 
@@ -410,23 +410,23 @@ orchestra prevented his singing a note. The fishermen, who were hired
 for the occasion, revolted to the very life, positively refusing to
 play without an increased allowance of spirits; and, their demand being
 complied with, getting drunk in the eruption-scene as naturally as
-possible. The red fire, which was burnt at the conclusion of the second
-act, not only nearly suffocated the audience, but nearly set the house
-on fire into the bargain; and, as it was, the remainder of the piece
+possible. The red [[Fire|fire]], which was burnt at the conclusion of the second
+act, not only nearly suffocated the audience, but nearly set the [[house]]
+on [[Fire|fire]] into the bargain; and, as it was, the remainder of the piece
 was acted in a thick fog.
 
 In short, the whole affair was, as Mrs. Joseph Porter triumphantly told
-everybody, ‘a complete failure.’ The audience went home at four o’clock
-in the morning, exhausted with laughter, suffering from severe
+everybody, ‘a complete failure.’ The audience went [[Home|home]] at four o’[[Clock|clock]]
+in the morning, exhausted with laughter, [[Suffering|suffering]] from severe
 headaches, and smelling terribly of brimstone and gunpowder. The
 Messrs. Gattleton, senior and junior, retired to rest, with the vague
-idea of emigrating to Swan River early in the ensuing week.
+idea of emigrating to Swan [[River]] early in the ensuing week.
 
-Rose Villa has once again resumed its wonted appearance; the
+[[Rose]] Villa has once again resumed its wonted appearance; the
 dining-room furniture has been replaced; the tables are as nicely
 polished as formerly; the horsehair chairs are ranged against the wall,
-as regularly as ever; Venetian blinds have been fitted to every window
-in the house to intercept the prying gaze of Mrs. Joseph Porter. The
+as regularly as ever; Venetian blinds have been fitted to every [[Window|window]]
+in the [[house]] to intercept the prying gaze of Mrs. Joseph Porter. The
 subject of theatricals is never mentioned in the Gattleton family,
 unless, indeed, by Uncle Tom, who cannot refrain from sometimes
 expressing his surprise and regret at finding that his nephews and

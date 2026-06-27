@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 3 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 3 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-shielding it from every breath of wind, you could not expect it to
+shielding it from every breath of [[Wind|wind]], you could not expect it to
 
 become a hardy tree, like that which has grown up on the mountain-side,
 
@@ -34,7 +34,7 @@ the shock of the tempest.”
 
 “No; you would have her to be tenderly and delicately nurtured, like a
 
-hot-house plant—taught to cling to others for direction and support,
+hot-[[house]] plant—taught to cling to others for direction and support,
 
 and guarded, as much as possible, from the very knowledge of evil. But
 
@@ -48,17 +48,17 @@ it that you think she _has_ no virtue?”
 
 
 
-“Well, but you affirm that virtue is only elicited by temptation;—and
+“[[Well]], but you affirm that virtue is only elicited by [[Temptation|temptation]];—and
 
-you think that a woman cannot be too little exposed to temptation, or
+you think that a woman cannot be too little exposed to [[Temptation|temptation]], or
 
 too little acquainted with vice, or anything connected therewith. It
 
 _must_ be either that you think she is essentially so vicious, or so
 
-feeble-minded, that she _cannot_ withstand temptation,—and though she
+feeble-minded, that she _cannot_ withstand [[Temptation|temptation]],—and though she
 
-may be pure and innocent as long as she is kept in ignorance and
+may be pure and [[Innocent|innocent]] as long as she is kept in ignorance and
 
 restraint, yet, being destitute of _real_ virtue, to teach her how to
 
@@ -78,19 +78,19 @@ dangers, is only the further developed—”
 
 
 
-“Well, then, it must be that you think they are _both_ weak and prone
+“[[Well]], then, it must be that you think they are _both_ weak and prone
 
-to err, and the slightest error, the merest shadow of pollution, will
+to err, and the slightest error, the merest [[Shadow|shadow]] of pollution, will
 
 ruin the one, while the character of the other will be strengthened and
 
-embellished—his education properly finished by a little practical
+embellished—his [[Education|education]] properly finished by a little practical
 
 acquaintance with forbidden things. Such experience, to him (to use a
 
-trite simile), will be like the storm to the oak, which, though it may
+trite simile), will be like the [[Storm|storm]] to the oak, which, though it may
 
-scatter the leaves, and snap the smaller branches, serves but to rivet
+scatter the [[Leaves|leaves]], and snap the smaller branches, serves but to rivet
 
 the roots, and to harden and condense the fibres of the tree. You would
 
@@ -110,7 +110,7 @@ into the world, unarmed against her foes, and ignorant of the snares
 
 that beset her path; nor would I watch and guard her, till, deprived of
 
-self-respect and self-reliance, she lost the power or the will to watch
+[[Self|self]]-respect and [[Self-Reliance|self-reliance]], she lost the power or the will to watch
 
 and guard herself;—and as for my son—if I thought he would grow up to
 
@@ -126,15 +126,15 @@ times!” she earnestly repeated, pressing her darling to her side and
 
 kissing his forehead with intense affection. He had already left his
 
-new companion, and been standing for some time beside his mother’s
+new companion, and been standing for some [[Time|time]] beside his mother’s
 
-knee, looking up into her face, and listening in silent wonder to her
+knee, looking up into her face, and listening in silent [[Wonder|wonder]] to her
 
 incomprehensible discourse.
 
 
 
-“Well! you ladies must always have the last word, I suppose,” said I,
+“[[Well]]! you ladies must always have the last word, I suppose,” said I,
 
 observing her rise, and begin to take leave of my mother.
 
@@ -148,13 +148,13 @@ them.”
 
 “No; that is the way: you hear just as much of an argument as you
 
-please; and the rest may be spoken to the wind.”
+please; and the rest may be spoken to the [[Wind|wind]].”
 
 
 
 “If you are anxious to say anything more on the subject,” replied she,
 
-as she shook hands with Rose, “you must bring your sister to see me
+as she shook hands with [[Rose]], “you must bring your sister to see me
 
 some fine day, and I’ll listen, as patiently as you could wish, to
 
@@ -196,7 +196,7 @@ She laughingly turned round and held out her hand. I gave it a spiteful
 
 squeeze, for I was annoyed at the continual injustice she had done me
 
-from the very dawn of our acquaintance. Without knowing anything about
+from the very [[Dawn|dawn]] of our acquaintance. Without knowing anything about
 
 my real disposition and principles, she was evidently prejudiced
 

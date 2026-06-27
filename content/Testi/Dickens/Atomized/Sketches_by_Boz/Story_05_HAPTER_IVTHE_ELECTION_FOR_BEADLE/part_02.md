@@ -57,14 +57,14 @@ kind of moral dignity in his confident air—an ‘I wish you may get it’
 sort of expression in his eye—which infused animation into his
 supporters, and evidently dispirited his opponents.
 
-The ex-churchwarden rose to propose Thomas Spruggins for beadle. He had
+The ex-churchwarden [[Rose|rose]] to propose Thomas Spruggins for beadle. He had
 known him long. He had had his eye upon him closely for years; he had
 watched him with twofold vigilance for months. (A parishioner here
-suggested that this might be termed ‘taking a double sight,’ but the
+suggested that this might be termed ‘taking a [[Double|double]] sight,’ but the
 observation was drowned in loud cries of ‘Order!’) He would repeat that
 he had had his eye upon him for years, and this he would say, that a
-more well-conducted, a more well-behaved, a more sober, a more quiet
-man, with a more well-regulated mind, he had never met with. A man with
+more [[Well|well]]-conducted, a more [[Well|well]]-behaved, a more sober, a more quiet
+man, with a more [[Well|well]]-regulated mind, he had never met with. A man with
 a larger family he had never known (cheers). The parish required a man
 who could be depended on (‘Hear!’ from the Spruggins side, answered by
 ironical cheers from the Bung party). Such a man he now proposed (‘No,’
@@ -96,20 +96,20 @@ with their presence (‘Give it him!’). He would not allude to the
 unfortunate man who had been proposed—he would not say, as the vestry’s
 tool, but as Beadle. He would not advert to that individual’s family;
 he would not say, that nine children, twins, and a wife, were very bad
-examples for pauper imitation (loud cheers). He would not advert in
+examples for pauper [[Imitation|imitation]] (loud cheers). He would not advert in
 detail to the qualifications of Bung. The man stood before him, and he
 would not say in his presence, what he might be disposed to say of him,
 if he were absent. (Here Mr. Bung telegraphed to a friend near him,
 under cover of his hat, by contracting his left eye, and applying his
 right thumb to the tip of his nose). It had been objected to Bung that
-he had only five children (‘Hear, hear!’ from the opposition). Well; he
+he had only five children (‘Hear, hear!’ from the opposition). [[Well]]; he
 had yet to learn that the legislature had affixed any precise amount of
 infantine qualification to the office of beadle; but taking it for
 granted that an extensive family were a great requisite, he entreated
 them to look to facts, and compare _data_, about which there could be
 no mistake. Bung was 35 years of age. Spruggins—of whom he wished to
 speak with all possible respect—was 50. Was it not more than
-possible—was it not very probable—that by the time Bung attained the
+possible—was it not very probable—that by the [[Time|time]] Bung attained the
 latter age, he might see around him a family, even exceeding in number
 and extent, that to which Spruggins at present laid claim (deafening
 cheers and waving of handkerchiefs)? The captain concluded, amidst loud
@@ -117,13 +117,13 @@ applause, by calling upon the parishioners to sound the tocsin, rush to
 the poll, free themselves from dictation, or be slaves for ever.
 
 On the following day the polling began, and we never have had such a
-bustle in our parish since we got up our famous anti-slavery petition,
-which was such an important one, that the House of Commons ordered it
+bustle in our parish since we got up our famous anti-[[Slavery|slavery]] petition,
+which was such an important one, that the [[house|House]] of Commons ordered it
 to be printed, on the motion of the member for the district. The
 captain engaged two hackney-coaches and a cab for Bung’s people—the cab
 for the drunken voters, and the two coaches for the old ladies, the
 greater portion of whom, owing to the captain’s impetuosity, were
-driven up to the poll and home again, before they recovered from their
+driven up to the poll and [[Home|home]] again, before they recovered from their
 flurry sufficiently to know, with any degree of clearness, what they
 had been doing. The opposite party wholly neglected these precautions,
 and the consequence was, that a great many ladies who were walking
@@ -134,7 +134,7 @@ attempted influence of the vestry produced a greater. A threat of
 exclusive dealing was clearly established against the vestry-clerk—a
 case of heartless and profligate atrocity. It appeared that the
 delinquent had been in the habit of purchasing six penn’orth of
-muffins, weekly, from an old woman who rents a small house in the
+muffins, weekly, from an old woman who rents a small [[house]] in the
 parish, and resides among the original settlers; on her last weekly
 visit, a message was conveyed to her through the medium of the cook,
 couched in mysterious terms, but indicating with sufficient clearness,
@@ -147,7 +147,7 @@ parishioners were loud in their exclamations; and the fate of Spruggins
 was sealed.
 
 It was in vain that the twins were exhibited in dresses of the same
-pattern, and night-caps, to match, at the church door: the boy in Mrs.
+pattern, and [[Night|night]]-caps, to match, at the church door: the boy in Mrs.
 Spruggins’s right arm, and the girl in her left—even Mrs. Spruggins
 herself failed to be an object of sympathy any longer. The majority
 attained by Bung on the gross poll was four hundred and twenty-eight,

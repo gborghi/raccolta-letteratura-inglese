@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Pope And The Art Of Satire (part 2)"
+title: "[[VariedTypes]] — Pope And The Art Of [[Satire]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -26,7 +26,7 @@ careless of his country, as utterly cynical, which no man ever was since
 
 the beginning of the world. This kind of invective may often have a
 
-great superficial success: it may hit the mood of the moment; it may
+great superficial [[success]]: it may hit the mood of the moment; it may
 
 raise excitement and applause; it may impress millions. But there is one
 
@@ -34,13 +34,13 @@ man among all those millions whom it does not impress, whom it hardly
 
 ever touches; that is the man against whom it is directed. The one
 
-person for whom the whole satire has been written in vain is the man
+person for whom the whole [[Satire|satire]] has been written in vain is the man
 
-whom it is the whole object of the institution of satire to reach. He
+whom it is the whole object of the institution of [[Satire|satire]] to reach. He
 
 knows that such a description of him is not true. He knows that he is
 
-not utterly unpatriotic, or utterly self-seeking, or utterly barbarous
+not utterly unpatriotic, or utterly [[Self|self]]-seeking, or utterly barbarous
 
 and revengeful. He knows that he is an ordinary man, and that he can
 
@@ -48,13 +48,13 @@ count as many kindly memories, as many humane instincts, as many hours
 
 of decent work and responsibility as any other ordinary man. But behind
 
-all this he has his real weaknesses, the real ironies of his soul:
+all this he has his real weaknesses, the real ironies of his [[Soul|soul]]:
 
 behind all these ordinary merits lie the mean compromises, the craven
 
 silences, the sullen vanities, the secret brutalities, the unmanly
 
-visions of revenge. It is to these that satire should reach if it is to
+visions of [[Revenge|revenge]]. It is to these that [[Satire|satire]] should reach if it is to
 
 touch the man at whom it is aimed. And to reach these it must pass and
 
@@ -80,7 +80,7 @@ of the
 
 
 
-who was more untrustworthy in calm than in storm, and
+who was more untrustworthy in calm than in [[Storm|storm]], and
 
 
 
@@ -94,27 +94,27 @@ great Shaftesbury. It would, in many ways, serve as a very sound and
 
 picturesque account of Lord Randolph Churchill. But here comes in very
 
-pointedly the difference between our modern attempts at satire and the
+pointedly the difference between our modern attempts at [[Satire|satire]] and the
 
 ancient achievement of it. The opponents of Lord Randolph Churchill,
 
 both Liberal and Conservative, did not satirise him nobly and honestly,
 
-as one of those great wits to madness near allied. They represented him
+as one of those great wits to [[Madness|madness]] near allied. They represented him
 
 as a mere puppy, a silly and irreverent upstart whose impudence supplied
 
-the lack of policy and character. Churchill had grave and even gross
+the lack of policy and character. Churchill had [[Grave|grave]] and even gross
 
 faults, a certain coarseness, a certain hard boyish assertiveness, a
 
 certain lack of magnanimity, a certain peculiar patrician vulgarity. But
 
-he was a much larger man than satire depicted him, and therefore the
+he was a much larger man than [[Satire|satire]] depicted him, and therefore the
 
-satire could not and did not overwhelm him. And here we have the cause
+[[Satire|satire]] could not and did not overwhelm him. And here we have the cause
 
-of the failure of contemporary satire, that it has no magnanimity, that
+of the failure of contemporary [[Satire|satire]], that it has no magnanimity, that
 
 is to say, no patience. It cannot endure to be told that its opponent
 
@@ -130,11 +130,11 @@ we take any prominent politician of the day--such, for example, as Sir
 
 William Harcourt--we shall find that this is the point in which all
 
-party invective fails. The Tory satire at the expense of Sir William
+party invective fails. The Tory [[Satire|satire]] at the expense of Sir William
 
 Harcourt is always desperately endeavouring to represent that he is
 
-inept, that he makes a fool of himself, that he is disagreeable and
+inept, that he makes a [[Fool|fool]] of himself, that he is disagreeable and
 
 disgraceful and untrustworthy. The defect of all that is that we all
 
@@ -148,21 +148,21 @@ old school who is on excellent social terms with his antagonists.
 
 Everyone knows that he is not untrustworthy, but a man of unimpeachable
 
-honour who is much trusted. Above all, he knows it himself, and is
+[[Honour|honour]] who is much trusted. Above all, he knows it himself, and is
 
-therefore affected by the satire exactly as any one of us would be if
+therefore affected by the [[Satire|satire]] exactly as any one of us would be if
 
 we were accused of being black or of keeping a shop for the receiving of
 
-stolen goods. We might be angry at the libel, but not at the satire: for
+stolen goods. We might be angry at the libel, but not at the [[Satire|satire]]: for
 
-a man is angry at a libel because it is false, but at a satire because
+a man is angry at a libel because it is false, but at a [[Satire|satire]] because
 
 it is true.
 
 
 
-Mr. Henley and his young men are very fond of invective and satire; if
+Mr. Henley and his young men are very fond of invective and [[Satire|satire]]; if
 
 they wish to know the reason of their failure in these things, they need
 
@@ -198,13 +198,13 @@ great satirist approaches a great enemy:
 
 And then follows the torrent of that terrible criticism. Pope was not
 
-such a fool as to try to make out that Addison was a fool. He knew that
+such a [[Fool|fool]] as to try to make out that Addison was a [[Fool|fool]]. He knew that
 
-Addison was not a fool, and he knew that Addison knew it. But hatred, in
+Addison was not a [[Fool|fool]], and he knew that Addison knew it. But hatred, in
 
 Pope's case, had become so great and, I was almost going to say, so
 
-pure, that it illuminated all things, as love illuminates all things. He
+pure, that it illuminated all things, as [[Love|love]] illuminates all things. He
 
 said what was really wrong with Addison; and in calm and clear and
 
@@ -232,7 +232,7 @@ temperament:
 
   While wits and templars every sentence raise,
 
-  And wonder with a foolish face of praise."
+  And [[Wonder|wonder]] with a foolish face of praise."
 
 
 

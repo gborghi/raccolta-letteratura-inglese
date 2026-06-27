@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF"
+title: "The [[Pickwick]] Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -22,14 +22,14 @@ remained at Eatanswill, anxiously awaiting the arrival of some
 intelligence from their revered leader. Mr. Tupman and Mr. Snodgrass
 were once again left to their own means of amusement; for Mr. Winkle, in
 compliance with a most pressing invitation, continued to reside at Mr.
-Pott’s house, and to devote his time to the companionship of his amiable
+Pott’s [[house]], and to devote his [[Time|time]] to the companionship of his amiable
 lady. Nor was the occasional society of Mr. Pott himself wanting to
 complete their felicity. Deeply immersed in the intensity of his
 speculations for the public weal and the destruction of the
 _Independent_, it was not the habit of that great man to descend from
 his mental pinnacle to the humble level of ordinary minds. On this
 occasion, however, and as if expressly in compliment to any follower of
-Mr. Pickwick’s, he unbent, relaxed, stepped down from his pedestal, and
+Mr. [[Pickwick]]’s, he unbent, relaxed, stepped down from his pedestal, and
 walked upon the ground, benignly adapting his remarks to the
 comprehension of the herd, and seeming in outward form, if not in
 spirit, to be one of them.
@@ -37,7 +37,7 @@ spirit, to be one of them.
 Such having been the demeanour of this celebrated public character
 towards Mr. Winkle, it will be readily imagined that considerable
 surprise was depicted on the countenance of the latter gentleman, when,
-as he was sitting alone in the breakfast-room, the door was hastily
+as he was sitting [[Alone|alone]] in the breakfast-room, the door was hastily
 thrown open, and as hastily closed, on the entrance of Mr. Pott, who,
 stalking majestically towards him, and thrusting aside his proffered
 hand, ground his teeth, as if to put a sharper edge on what he was about
@@ -50,20 +50,20 @@ to utter, and exclaimed, in a saw-like voice--
 ‘Serpent, Sir,’ repeated Mr. Pott, raising his voice, and then suddenly
 depressing it: ‘I said, serpent, sir--make the most of it.’
 
-When you have parted with a man at two o’clock in the morning, on terms
+When you have parted with a man at two o’[[Clock|clock]] in the morning, on terms
 of the utmost good-fellowship, and he meets you again, at half-past
 nine, and greets you as a serpent, it is not unreasonable to conclude
-that something of an unpleasant nature has occurred meanwhile. So Mr.
+that something of an unpleasant [[Nature|nature]] has occurred meanwhile. So Mr.
 Winkle thought. He returned Mr. Pott’s gaze of stone, and in compliance
 with that gentleman’s request, proceeded to make the most he could of
 the ‘serpent.’ The most, however, was nothing at all; so, after a
-profound silence of some minutes’ duration, he said,--
+profound [[Silence|silence]] of some minutes’ duration, he said,--
 
 ‘Serpent, Sir! Serpent, Mr. Pott! What can you mean, Sir?--this is
 pleasantry.’
 
 ‘Pleasantry, sir!’ exclaimed Pott, with a motion of the hand, indicative
-of a strong desire to hurl the Britannia metal teapot at the head of the
+of a strong [[Desire|desire]] to hurl the Britannia metal teapot at the head of the
 visitor. ‘Pleasantry, sir!--But--no, I will be calm; I will be calm,
 Sir;’ in proof of his calmness, Mr. Pott flung himself into a chair, and
 foamed at the mouth.
@@ -73,7 +73,7 @@ foamed at the mouth.
 ‘_DEAR _Sir!’ replied Pott. ‘How dare you address me, as dear Sir, Sir?
 How dare you look me in the face and do it, sir?’
 
-‘Well, Sir, if you come to that,’ responded Mr. Winkle, ‘how dare you
+‘[[Well]], Sir, if you come to that,’ responded Mr. Winkle, ‘how dare you
 look me in the face, and call me a serpent, sir?’
 
 ‘Because you are one,’ replied Mr. Pott.
@@ -106,11 +106,11 @@ this article, from a talented fellow-townsman and correspondent?
 ‘“LINES TO A BRASS POT
 
 ‘“Oh Pott! if you’d known How false she’d have grown, When you heard the
-marriage bells tinkle; You’d have done then, I vow, What you cannot help
+[[Marriage|marriage]] [[Bells|bells]] tinkle; You’d have done then, I vow, What you cannot help
 now,
 
 
-‘What,’ said Mr. Pott solemnly--‘what rhymes to “tinkle,” villain?’
+‘What,’ said Mr. Pott solemnly--‘what rhymes to “tinkle,” [[Villain|villain]]?’
 
 ‘What rhymes to tinkle?’ said Mrs. Pott, whose entrance at the moment
 forestalled the reply. ‘What rhymes to tinkle? Why, Winkle, I should
@@ -135,13 +135,13 @@ Eatanswill _Independent_ at her feet.
 the paper. ‘Upon my word, Sir!’
 
 Mr. Pott winced beneath the contemptuous gaze of his wife. He had made a
-desperate struggle to screw up his courage, but it was fast coming
+desperate struggle to screw up his [[Courage|courage]], but it was fast coming
 unscrewed again.
 
 There appears nothing very tremendous in this little sentence, ‘Upon my
 word, sir,’ when it comes to be read; but the tone of voice in which it
 was delivered, and the look that accompanied it, both seeming to bear
-reference to some revenge to be thereafter visited upon the head of
+reference to some [[Revenge|revenge]] to be thereafter visited upon the head of
 Pott, produced their effect upon him. The most unskilful observer could
 have detected in his troubled countenance, a readiness to resign his
 Wellington boots to any efficient substitute who would have consented to
@@ -149,7 +149,7 @@ stand in them at that moment.
 
 Mrs. Pott read the paragraph, uttered a loud shriek, and threw herself
 at full length on the hearth-rug, screaming, and tapping it with the
-heels of her shoes, in a manner which could leave no doubt of the
+heels of her shoes, in a manner which could leave no [[Doubt|doubt]] of the
 propriety of her feelings on the occasion.
 
 ‘My dear,’ said the terrified Pott, ‘I didn’t say I believed it;--I--’
@@ -162,7 +162,7 @@ frequent than ever.
 
 ‘My dear,’ said Mr. Pott, ‘I’m very sorry. If you won’t consider your
 own health, consider me, my dear. We shall have a crowd round the
-house.’ But the more strenuously Mr. Pott entreated, the more vehemently
+[[house]].’ But the more strenuously Mr. Pott entreated, the more vehemently
 the screams poured forth.
 
 Very fortunately, however, attached to Mrs. Pott’s person was a
@@ -172,7 +172,7 @@ ways, and in none more so than in the particular department of
 constantly aiding and abetting her mistress in every wish and
 inclination opposed to the desires of the unhappy Pott. The screams
 reached this young lady’s ears in due course, and brought her into the
-room with a speed which threatened to derange, materially, the very
+room with a [[Speed|speed]] which threatened to derange, materially, the very
 exquisite arrangement of her cap and ringlets.
 
 ‘Oh, my dear, dear mistress!’ exclaimed the bodyguard, kneeling
@@ -184,7 +184,7 @@ mistress, what is the matter?’
 Pott was evidently giving way.
 
 ‘It’s a shame,’ said the bodyguard reproachfully. ‘I know he’ll be the
-death on you, ma’am. Poor dear thing!’
+[[Death|death]] on you, ma’am. Poor dear thing!’
 
 He gave way more. The opposite party followed up the attack.
 
@@ -192,8 +192,8 @@ He gave way more. The opposite party followed up the attack.
 clutching at the wrist of the said Goodwin with an hysteric jerk.
 ‘You’re the only person that’s kind to me, Goodwin.’
 
-At this affecting appeal, Goodwin got up a little domestic tragedy of
-her own, and shed tears copiously.
+At this affecting appeal, Goodwin got up a little domestic [[Tragedy|tragedy]] of
+her own, and shed [[Tears|tears]] copiously.
 
 ‘Never, ma’am--never,’ said Goodwin. ‘Oh, sir, you should be careful--
 you should indeed; you don’t know what harm you may do missis; you’ll be
@@ -209,7 +209,7 @@ The unlucky Pott looked timidly on, but said nothing.
 
 Don’t distress yourself by recollecting it, ma’am,’ said the bodyguard.
 
-Pott looked very frightened. It was time to finish him.
+Pott looked very frightened. It was [[Time|time]] to finish him.
 
 ‘And now,’ sobbed Mrs. Pott, ‘now, after all, to be treated in this way;
 to be reproached and insulted in the presence of a third party, and that
@@ -221,7 +221,7 @@ brother, the lieutenant, shall interfere. I’ll be separated, Goodwin!’
 
 Whatever thoughts the threat of a separation might have awakened in Mr.
 Pott’s mind, he forbore to give utterance to them, and contented himself
-by saying, with great humility:--
+by saying, with great [[Humility|humility]]:--
 
 ‘My dear, will you hear me?’
 
@@ -233,11 +233,11 @@ sundry other pieces of information of a similar description.
 feelings. I never believed that the paragraph had any foundation, my
 dear--impossible. I was only angry, my dear--I may say outrageous--with
 the _Independent_ people for daring to insert it; that’s all.’ Mr. Pott
-cast an imploring look at the innocent cause of the mischief, as if to
+cast an imploring look at the [[Innocent|innocent]] cause of the mischief, as if to
 entreat him to say nothing about the serpent.
 
 ‘And what steps, sir, do you mean to take to obtain redress?’ inquired
-Mr. Winkle, gaining courage as he saw Pott losing it.
+Mr. Winkle, gaining [[Courage|courage]] as he saw Pott losing it.
 
 ‘Oh, Goodwin,’ observed Mrs. Pott, ‘does he mean to horsewhip the editor
 of the _Independent_--does he, Goodwin?’
@@ -270,19 +270,19 @@ proper level, Mrs. Pott recovered, and they went to breakfast.
 
 ‘You will not allow this base newspaper slander to shorten your stay
 here, Mr. Winkle?’ said Mrs. Pott, smiling through the traces of her
-tears.
+[[Tears|tears]].
 
-‘I hope not,’ said Mr. Pott, actuated, as he spoke, by a wish that his
+‘I [[Hope|hope]] not,’ said Mr. Pott, actuated, as he spoke, by a wish that his
 visitor would choke himself with the morsel of dry toast which he was
 raising to his lips at the moment, and so terminate his stay
 effectually.
 
-‘I hope not.’
+‘I [[Hope|hope]] not.’
 
 ‘You are very good,’ said Mr. Winkle; ‘but a letter has been received
-from Mr. Pickwick--so I learn by a note from Mr. Tupman, which was
+from Mr. [[Pickwick]]--so I learn by a note from Mr. Tupman, which was
 brought up to my bedroom door, this morning--in which he requests us to
-join him at Bury to-day; and we are to leave by the coach at noon.’
+join him at Bury to-day; and we are to leave by the coach at [[Noon|noon]].’
 
 ‘But you will come back?’ said Mrs. Pott.
 
@@ -293,14 +293,14 @@ visitor.
 
 ‘Quite,’ responded Mr. Winkle.
 
-The breakfast passed off in silence, for each of the party was brooding
+The breakfast passed off in [[Silence|silence]], for each of the party was brooding
 over his, or her, own personal grievances. Mrs. Pott was regretting the
 loss of a beau; Mr. Pott his rash pledge to horsewhip the _Independent_;
 Mr. Winkle his having innocently placed himself in so awkward a
-situation. Noon approached, and after many adieux and promises to
+situation. [[Noon]] approached, and after many adieux and promises to
 return, he tore himself away.
 
-‘If he ever comes back, I’ll poison him,’ thought Mr. Pott, as he turned
+‘If he ever comes back, I’ll [[Poison|poison]] him,’ thought Mr. Pott, as he turned
 into the little back office where he prepared his thunderbolts.
 
 ‘If I ever do come back, and mix myself up with these people again,’
@@ -308,14 +308,14 @@ thought Mr. Winkle, as he wended his way to the Peacock, ‘I shall
 deserve to be horsewhipped myself--that’s all.’
 
 His friends were ready, the coach was nearly so, and in half an hour
-they were proceeding on their journey, along the road over which Mr.
-Pickwick and Sam had so recently travelled, and of which, as we have
+they were proceeding on their [[Journey|journey]], along the [[Road|road]] over which Mr.
+[[Pickwick]] and Sam had so recently travelled, and of which, as we have
 already said something, we do not feel called upon to extract Mr.
 Snodgrass’s poetical and beautiful description.
 
 Mr. Weller was standing at the door of the Angel, ready to receive them,
 and by that gentleman they were ushered to the apartment of Mr.
-Pickwick, where, to the no small surprise of Mr. Winkle and Mr.
+[[Pickwick]], where, to the no small surprise of Mr. Winkle and Mr.
 Snodgrass, and the no small embarrassment of Mr. Tupman, they found old
 Wardle and Trundle.
 
@@ -326,24 +326,24 @@ not. A young fellow like you will do better one of these days, eh?’ With
 this conclusion, Wardle slapped Mr. Tupman on the back, and laughed
 heartily.
 
-‘Well, and how are you, my fine fellows?’ said the old gentleman,
-shaking hands with Mr. Winkle and Mr. Snodgrass at the same time. ‘I
-have just been telling Pickwick that we must have you all down at
-Christmas. We’re going to have a wedding--a real wedding this time.’
+‘[[Well]], and how are you, my fine fellows?’ said the old gentleman,
+shaking hands with Mr. Winkle and Mr. Snodgrass at the same [[Time|time]]. ‘I
+have just been telling [[Pickwick]] that we must have you all down at
+Christmas. We’re going to have a wedding--a real wedding this [[Time|time]].’
 
 ‘A wedding!’ exclaimed Mr. Snodgrass, turning very pale.
 
 ‘Yes, a wedding. But don’t be frightened,’ said the good-humoured old
 man; ‘it’s only Trundle there, and Bella.’
 
-‘Oh, is that all?’ said Mr. Snodgrass, relieved from a painful doubt
+‘Oh, is that all?’ said Mr. Snodgrass, relieved from a painful [[Doubt|doubt]]
 which had fallen heavily on his breast. ‘Give you joy, Sir. How is Joe?’
 
-‘Very well,’ replied the old gentleman. ‘Sleepy as ever.’
+‘Very [[Well|well]],’ replied the old gentleman. ‘Sleepy as ever.’
 
 ‘And your mother, and the clergyman, and all of ‘em?’
 
-‘Quite well.’
+‘Quite [[Well|well]].’
 
 ‘Where,’ said Mr. Tupman, with an effort--‘where is--_she_, Sir?’ and he
 turned away his head, and covered his eyes with his hand.
@@ -360,32 +360,32 @@ her go. But come! Here’s the dinner. You must be hungry after your ride.
 I am, without any ride at all; so let us fall to.’
 
 Ample justice was done to the meal; and when they were seated round the
-table, after it had been disposed of, Mr. Pickwick, to the intense
+table, after it had been disposed of, Mr. [[Pickwick]], to the intense
 horror and indignation of his followers, related the adventure he had
-undergone, and the success which had attended the base artifices of the
+undergone, and the [[success]] which had attended the base artifices of the
 diabolical Jingle.
 
-‘And the attack of rheumatism which I caught in that garden,’ said Mr.
-Pickwick, in conclusion, ‘renders me lame at this moment.’
+‘And the attack of rheumatism which I caught in that [[Garden|garden]],’ said Mr.
+[[Pickwick]], in conclusion, ‘renders me lame at this moment.’
 
 ‘I, too, have had something of an adventure,’ said Mr. Winkle, with a
-smile; and, at the request of Mr. Pickwick, he detailed the malicious
+smile; and, at the request of Mr. [[Pickwick]], he detailed the malicious
 libel of the Eatanswill _Independent_, and the consequent excitement of
 their friend, the editor.
 
-Mr. Pickwick’s brow darkened during the recital. His friends observed
-it, and, when Mr. Winkle had concluded, maintained a profound silence.
-Mr. Pickwick struck the table emphatically with his clenched fist, and
+Mr. [[Pickwick]]’s brow darkened during the recital. His friends observed
+it, and, when Mr. Winkle had concluded, maintained a profound [[Silence|silence]].
+Mr. [[Pickwick]] struck the table emphatically with his clenched fist, and
 spoke as follows:--
 
-‘Is it not a wonderful circumstance,’ said Mr. Pickwick, ‘that we seem
-destined to enter no man’s house without involving him in some degree of
+‘Is it not a wonderful circumstance,’ said Mr. [[Pickwick]], ‘that we seem
+destined to enter no man’s [[house]] without involving him in some degree of
 trouble? Does it not, I ask, bespeak the indiscretion, or, worse than
 that, the blackness of heart--that I should say so!--of my followers,
 that, beneath whatever roof they locate, they disturb the peace of mind
 and happiness of some confiding female? Is it not, I say--’
 
-Mr. Pickwick would in all probability have gone on for some time, had
+Mr. [[Pickwick]] would in all probability have gone on for some [[Time|time]], had
 not the entrance of Sam, with a letter, caused him to break off in his
 eloquent discourse. He passed his handkerchief across his forehead, took
 off his spectacles, wiped them, and put them on again; and his voice had
@@ -397,51 +397,51 @@ recovered its wonted softness of tone when he said--
 laid there for two days,’ replied Mr. Weller. ‘It’s sealed vith a vafer,
 and directed in round hand.’
 
-‘I don’t know this hand,’ said Mr. Pickwick, opening the letter. ‘Mercy
+‘I don’t know this hand,’ said Mr. [[Pickwick]], opening the letter. ‘[[Mercy]]
 on us! what’s this? It must be a jest; it--it--can’t be true.’
 
 ‘What’s the matter?’ was the general inquiry.
 
 ‘Nobody dead, is there?’ said Wardle, alarmed at the horror in Mr.
-Pickwick’s countenance.
+[[Pickwick]]’s countenance.
 
-Mr. Pickwick made no reply, but, pushing the letter across the table,
+Mr. [[Pickwick]] made no reply, but, pushing the letter across the table,
 and desiring Mr. Tupman to read it aloud, fell back in his chair with a
 look of vacant astonishment quite alarming to behold.
 
 Mr. Tupman, with a trembling voice, read the letter, of which the
 following is a copy:--
 
-Freeman’s Court, Cornhill, August 28th, 1827.
+Freeman’s [[Court]], Cornhill, August 28th, 1827.
 
-Bardell against Pickwick.
+Bardell against [[Pickwick]].
 
 Sir,
 
 Having been instructed by Mrs. Martha Bardell to commence an action
-against you for a breach of promise of marriage, for which the plaintiff
+against you for a breach of promise of [[Marriage|marriage]], for which the plaintiff
 lays her damages at fifteen hundred pounds, we beg to inform you that a
-writ has been issued against you in this suit in the Court of Common
+writ has been issued against you in this suit in the [[Court]] of Common
 Pleas; and request to know, by return of post, the name of your attorney
-in London, who will accept service thereof.
+in [[London]], who will accept service thereof.
 
 We are, Sir, Your obedient servants, Dodson & Fogg.
 
-Mr. Samuel Pickwick.
+Mr. [[Samuel Pickwick]].
 
 There was something so impressive in the mute astonishment with which
-each man regarded his neighbour, and every man regarded Mr. Pickwick,
-that all seemed afraid to speak. The silence was at length broken by Mr.
+each man regarded his neighbour, and every man regarded Mr. [[Pickwick]],
+that all seemed afraid to speak. The [[Silence|silence]] was at length broken by Mr.
 Tupman.
 
 ‘Dodson and Fogg,’ he repeated mechanically.
 
-‘Bardell and Pickwick,’ said Mr. Snodgrass, musing.
+‘Bardell and [[Pickwick]],’ said Mr. Snodgrass, musing.
 
 ‘Peace of mind and happiness of confiding females,’ murmured Mr. Winkle,
 with an air of abstraction.
 
-‘It’s a conspiracy,’ said Mr. Pickwick, at length recovering the power
+‘It’s a conspiracy,’ said Mr. [[Pickwick]], at length recovering the power
 of speech; ‘a base conspiracy between these two grasping attorneys,
 Dodson and Fogg. Mrs. Bardell would never do it;--she hasn’t the heart
 to do it;--she hasn’t the case to do it. Ridiculous--ridiculous.’
@@ -451,66 +451,66 @@ best judge. I don’t wish to discourage you, but I should certainly say
 that, of her case, Dodson and Fogg are far better judges than any of us
 can be.’
 
-‘It’s a vile attempt to extort money,’ said Mr. Pickwick.
+‘It’s a vile attempt to extort money,’ said Mr. [[Pickwick]].
 
-‘I hope it is,’ said Wardle, with a short, dry cough.
+‘I [[Hope|hope]] it is,’ said Wardle, with a short, dry cough.
 
 ‘Who ever heard me address her in any way but that in which a lodger
-would address his landlady?’ continued Mr. Pickwick, with great
+would address his landlady?’ continued Mr. [[Pickwick]], with great
 vehemence. ‘Who ever saw me with her? Not even my friends here--’
 
 ‘Except on one occasion,’ said Mr. Tupman.
 
-Mr. Pickwick changed colour.
+Mr. [[Pickwick]] changed colour.
 
-‘Ah,’ said Mr. Wardle. ‘Well, that’s important. There was nothing
+‘Ah,’ said Mr. Wardle. ‘[[Well]], that’s important. There was nothing
 suspicious then, I suppose?’
 
 Mr. Tupman glanced timidly at his leader. ‘Why,’ said he, ‘there was
 nothing suspicious; but--I don’t know how it happened, mind--she
 certainly was reclining in his arms.’
 
-‘Gracious powers!’ ejaculated Mr. Pickwick, as the recollection of the
+‘Gracious powers!’ ejaculated Mr. [[Pickwick]], as the recollection of the
 scene in question struck forcibly upon him; ‘what a dreadful instance of
 the force of circumstances! So she was--so she was.’
 
 ‘And our friend was soothing her anguish,’ said Mr. Winkle, rather
 maliciously.
 
-‘So I was,’ said Mr. Pickwick. ‘I don’t deny it. So I was.’
+‘So I was,’ said Mr. [[Pickwick]]. ‘I don’t deny it. So I was.’
 
 ‘Hollo!’ said Wardle; ‘for a case in which there’s nothing suspicious,
-this looks rather queer--eh, Pickwick? Ah, sly dog--sly dog!’ and he
+this looks rather queer--eh, [[Pickwick]]? Ah, sly dog--sly dog!’ and he
 laughed till the glasses on the sideboard rang again.
 
-‘What a dreadful conjunction of appearances!’ exclaimed Mr. Pickwick,
+‘What a dreadful conjunction of appearances!’ exclaimed Mr. [[Pickwick]],
 resting his chin upon his hands. ‘Winkle--Tupman--I beg your pardon for
 the observations I made just now. We are all the victims of
-circumstances, and I the greatest.’ With this apology Mr. Pickwick
+circumstances, and I the greatest.’ With this apology Mr. [[Pickwick]]
 buried his head in his hands, and ruminated; while Wardle measured out a
 regular circle of nods and winks, addressed to the other members of the
 company.
 
-‘I’ll have it explained, though,’ said Mr. Pickwick, raising his head
+‘I’ll have it explained, though,’ said Mr. [[Pickwick]], raising his head
 and hammering the table. ‘I’ll see this Dodson and Fogg! I’ll go to
-London to-morrow.’
+[[London]] to-morrow.’
 
 ‘Not to-morrow,’ said Wardle; ‘you’re too lame.’
 
-‘Well, then, next day.’
+‘[[Well]], then, next day.’
 
 ‘Next day is the first of September, and you’re pledged to ride out with
 us, as far as Sir Geoffrey Manning’s grounds at all events, and to meet
 us at lunch, if you don’t take the field.’
 
-‘Well, then, the day after,’ said Mr. Pickwick; ‘Thursday.--Sam!’
+‘[[Well]], then, the day after,’ said Mr. [[Pickwick]]; ‘[[thursday|Thursday]].--Sam!’
 
 ‘Sir,’ replied Mr. Weller.
 
-‘Take two places outside to London, on Thursday morning, for yourself
+‘Take two places outside to [[London]], on [[thursday|Thursday]] morning, for yourself
 and me.’
 
-‘Wery well, Sir.’
+‘Wery [[Well|well]], Sir.’
 
 Mr. Weller left the room, and departed slowly on his errand, with his
 hands in his pocket and his eyes fixed on the ground.

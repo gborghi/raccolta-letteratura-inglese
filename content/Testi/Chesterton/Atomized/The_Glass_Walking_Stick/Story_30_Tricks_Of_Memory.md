@@ -1,5 +1,5 @@
 ---
-title: "The Glass Walking Stick — Tricks Of Memory"
+title: "The Glass Walking Stick — Tricks Of [[Memory]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-TRICKS OF MEMORY
+TRICKS OF [[Memory|MEMORY]]
 
 THERE are many books which we think we have read when we have not.
 There are, at least, many that we think we remember when we do not.
@@ -24,7 +24,7 @@ our remembrances.  There is many a man who thinks he can recall
 the works of Swift or of Goldsmith; but, indeed, he himself
 is the principal author of `Gulliver's Travels' or `The Vicar
 of Wakefield', which he recalls.  Macaulay, with his close reading
-and miraculous memory, was quite certain that the Blatant Beast
+and miraculous [[Memory|memory]], was quite certain that the Blatant Beast
 was killed at the end of `The Faerie Queene'; but it was not.
 A brilliant and scholarly friend of mine quoted a stanza as one
 in which not one word could safely be altered--and quoted it wrong.
@@ -35,8 +35,8 @@ asseverated again and again, after contradiction and challenge,
 that the Catechism commands a child `to do his duty in that
 state of life to which it has pleased God to call him'.
 Of course the Catechism says no such thing, but the editor was
-so certain that he would not even open his prayer-book to see.
-Hundreds of people are sure that Milton wrote, `Tomorrow to fresh
+so certain that he would not even open his [[prayer]]-book to see.
+Hundreds of people are sure that [[Milton]] wrote, `Tomorrow to fresh
 fields and pastures new'.  Hundreds of people are sure that Jesuits
 preached that the end justifies the means; many of them are sure
 that they have seen some Jesuit's statement to that effect;
@@ -49,12 +49,12 @@ of `Robinson Crusoe', So, indeed, I had, of certain images of the wreck
 and island; above all of the admirable fact that Crusoe had two swords
 instead of one.  That is one of the touches of the true Defoe;
 the very inspired poetry of the accidental and the rough-and-tumble;
-the very romance of the unromantic.  But I found I had completely
-forgotten the really sublime introduction to the tale, which gives
+the very [[Romance|romance]] of the unromantic.  But I found I had completely
+forgotten the really [[Sublime|sublime]] introduction to the tale, which gives
 it all its spiritual dignity--the narrative of Crusoe's impiety;
 his two escapes from shipwreck and opportunities for repentance;
 and, finally, the falling upon him of this strange judgement:
-food, security, silence--a judgement stranger than death.
+food, security, [[Silence|silence]]--a judgement stranger than [[Death|death]].
 
 With this case in mind I am in no position to exult over
 my fellow-critics when they prove that they have not read
@@ -71,12 +71,12 @@ of `Jekyll and Hyde', which they proceeded to describe with the wildest
 inaccuracy of detail and a complete oblivion of the design.
 One idea, above all, has established itself firmly in their minds and I
 daresay in many other people's. They think that in Stevenson's tale
-Jekyll is the good self and Hyde the bad self; or, in other words,
+Jekyll is the good [[Self|self]] and Hyde the bad [[Self|self]]; or, in other words,
 that the protagonist is wholly good when he is Jekyll and wholly
 bad when he is Hyde.
 
-Now, if Hamlet had killed his uncle in the first act,
-if Othello had appeared as a mari complaisant, it could
+Now, if [[Hamlet]] had killed his uncle in the first act,
+if [[Othello]] had appeared as a mari complaisant, it could
 not have upset the whole point of Shakespeare's story more
 than this upsets the whole point of Stevenson's story.
 Stevenson's story has nothing to do with pathological pedantries
@@ -107,24 +107,24 @@ Jekyll, the good is still dragged down by the mere existence of the bad.
 The moral of `Dr Jekyll and Mr Hyde' is not that man can be cut in two;
 it is that man cannot be cut in two.
 
-Hyde is the innocence of evil.  He stands for the truth
+Hyde is the [[innocence]] of evil.  He stands for the [[Truth|truth]]
 (attested by a hundred tales of hypocrites and secret sins)
 that there is in evil, though not in good, this power
-of self-isolation, this hardening of the whole exterior, so that a
+of [[Self|self]]-isolation, this hardening of the whole exterior, so that a
 man becomes blind to moral beauties or deaf to pathetic appeals.
 A man in pursuit of some immoral mania does attain an abominable
-simplicity of soul; he does act from one motive alone.
-Therefore he does be come like Hyde, or like that blood-curdling
+simplicity of [[Soul|soul]]; he does act from one motive [[Alone|alone]].
+Therefore he does be come like Hyde, or like that [[Blood|blood]]-curdling
 figure in Grimm's fairy-tales, `a little man made of iron'.
 But the whole of Stevenson's point would have been lost
 if Jekyll had exhibited the same horrible homogeneity.
 Precisely because Jekyll, with all his faults, possesses goodness,
-he possesses also the consciousness of sin, humility.
+he possesses also the consciousness of sin, [[Humility|humility]].
 He knows all about Hyde, as angels know about devils.
 And Steven son specially points out that this contrast
 between the blind swiftness of evil and the almost bewildered
 omniscience of good is not a peculiarity of this strange case,
-but is true of the permanent problem of your conscience and mine.
+but is true of the permanent problem of your [[Conscience|conscience]] and mine.
 If I get drunk I shall forget dignity; but if I keep sober I may
-still desire drink.  Virtue has the heavy burden of knowledge;
+still [[Desire|desire]] drink.  Virtue has the heavy burden of knowledge;
 sin has often something of the levity of sinlessness.

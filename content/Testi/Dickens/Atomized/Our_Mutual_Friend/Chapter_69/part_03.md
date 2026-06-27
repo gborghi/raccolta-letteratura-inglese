@@ -52,16 +52,16 @@ her.
 Eugene; while I am away you will know that I have discharged my trust
 with Lizzie, by finding her here, in my present place at your bedside,
 to leave you no more. A final word before I go. This is the right course
-of a true man, Eugene. And I solemnly believe, with all my soul, that if
-Providence should mercifully restore you to us, you will be blessed with
-a noble wife in the preserver of your life, whom you will dearly love.’
+of a true man, Eugene. And I solemnly believe, with all my [[Soul|soul]], that if
+[[Providence]] should mercifully restore you to us, you will be blessed with
+a noble wife in the preserver of your life, whom you will dearly [[Love|love]].’
 
 ‘Amen. I am sure of that. But I shall not come through it, Mortimer.’
 
 ‘You will not be the less hopeful or less strong, for this, Eugene.’
 
 ‘No. Touch my face with yours, in case I should not hold out till you
-come back. I love you, Mortimer. Don’t be uneasy for me while you are
+come back. I [[Love|love]] you, Mortimer. Don’t be uneasy for me while you are
 gone. If my dear brave girl will take me, I feel persuaded that I shall
 live long enough to be married, dear fellow.’
 
@@ -69,7 +69,7 @@ Miss Jenny gave up altogether on this parting taking place between the
 friends, and sitting with her back towards the bed in the bower made by
 her bright hair, wept heartily, though noiselessly. Mortimer Lightwood
 was soon gone. As the evening light lengthened the heavy reflections of
-the trees in the river, another figure came with a soft step into the
+the trees in the [[River|river]], another figure came with a soft step into the
 sick room.
 
 ‘Is he conscious?’ asked the little dressmaker, as the figure took its

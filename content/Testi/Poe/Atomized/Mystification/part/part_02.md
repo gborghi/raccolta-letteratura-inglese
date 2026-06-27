@@ -1,5 +1,5 @@
 ---
-title: "Mystification (part 2)"
+title: "[[Mystification]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mystification-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       his own household have for a moment associated other ideas than
 
-      those of the rigid and august with the memory of the Baron
+      those of the rigid and august with the [[Memory|memory]] of the Baron
 
       Ritzner von Jung.
 
@@ -30,7 +30,7 @@ tags:
 
       drinking and making merry. The apartments of the students were
 
-      converted into so many pot-houses, and there was no pot-house of
+      converted into so many pot-houses, and there was no pot-[[house]] of
 
       them all more famous or more frequented than that of the Baron.
 
@@ -48,7 +48,7 @@ tags:
 
       and myself. Most of these were young men of wealth, of high
 
-      connection, of great family pride, and all alive with an
+      connection, of great family [[Pride|pride]], and all alive with an
 
       exaggerated sense of honor. They abounded in the most ultra
 
@@ -60,7 +60,7 @@ tags:
 
       impulse; and thus the conversation, during the greater part of
 
-      the night, had run wild upon the all-engrossing topic of the
+      the [[Night|night]], had run wild upon the all-engrossing topic of the
 
       times. The Baron, who had been unusually silent and abstracted in
 
@@ -78,7 +78,7 @@ tags:
 
       from his hearers in general, and absolutely staggered even
 
-      myself, who well knew him to be at heart a ridiculer of those
+      myself, who [[Well|well]] knew him to be at heart a ridiculer of those
 
       very points for which he contended, and especially to hold the
 
@@ -102,7 +102,7 @@ tags:
 
       every respect—except, perhaps, in the single particular that he
 
-      was a very great fool. He contrived to bear, however, among a
+      was a very great [[Fool|fool]]. He contrived to bear, however, among a
 
       particular set at the university, a reputation for deep
 
@@ -112,7 +112,7 @@ tags:
 
       forget the precise number of victims who had fallen at his hands;
 
-      but they were many. He was a man of courage undoubtedly. But it
+      but they were many. He was a man of [[Courage|courage]] undoubtedly. But it
 
       was upon his minute acquaintance with the etiquette of the
 
@@ -120,15 +120,15 @@ tags:
 
       especially prided himself. These things were a hobby which he
 
-      rode to the death. To Ritzner, ever upon the lookout for the
+      rode to the [[Death|death]]. To Ritzner, ever upon the lookout for the
 
-      grotesque, his peculiarities had for a long time past afforded
+      [[Grotesque|grotesque]], his peculiarities had for a long [[Time|time]] past afforded
 
-      food for mystification. Of this, however, I was not aware;
+      food for [[Mystification|mystification]]. Of this, however, I was not aware;
 
       although, in the present instance, I saw clearly that something
 
-      of a whimsical nature was upon the tapis with my friend, and that
+      of a whimsical [[Nature|nature]] was upon the tapis with my friend, and that
 
       Hermann was its especial object.
 
@@ -160,7 +160,7 @@ tags:
 
       respects they are even unworthy of serious refutation. I would
 
-      say more than this, sir, were it not for the fear of giving you
+      say more than this, sir, were it not for the [[Fear|fear]] of giving you
 
       offence (here the speaker smiled blandly), I would say, sir, that
 
@@ -182,7 +182,7 @@ tags:
 
       quizzical expression which was its natural character, but which I
 
-      had never seen it assume except when we were alone together, and
+      had never seen it assume except when we were [[Alone|alone]] together, and
 
       when he unbent himself freely. In an instant afterward he stood
 
@@ -194,7 +194,7 @@ tags:
 
       he was in sober earnest. He appeared to be stifling with passion,
 
-      and his face was cadaverously white. For a short time he remained
+      and his face was cadaverously white. For a short [[Time|time]] he remained
 
       silent, apparently striving to master his emotion. Having at
 

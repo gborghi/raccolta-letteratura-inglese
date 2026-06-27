@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 46"
+title: "[[Sense and Sensibility]] — Chapter 46"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -32,7 +32,7 @@ Palmer’s dressing-room. When there, at her own particular request, for
 
 she was impatient to pour forth her thanks to him for fetching her
 
-mother, Colonel Brandon was invited to visit her.
+mother, [[Colonel Brandon]] was invited to visit her.
 
 
 
@@ -44,7 +44,7 @@ such, as, in Elinor’s conjecture, must arise from something more than
 
 his affection for Marianne, or the consciousness of its being known to
 
-others; and she soon discovered in his melancholy eye and varying
+others; and she soon discovered in his [[Melancholy|melancholy]] eye and varying
 
 complexion as he looked at her sister, the probable recurrence of many
 
@@ -64,7 +64,7 @@ with a mind very differently influenced, and therefore watching to very
 
 different effect, saw nothing in the Colonel’s behaviour but what arose
 
-from the most simple and self-evident sensations, while in the actions
+from the most simple and [[Self|self]]-evident sensations, while in the actions
 
 and words of Marianne she persuaded herself to think that something
 
@@ -80,7 +80,7 @@ daughter’s wishes, began to talk of removing to Barton. On _her_
 
 measures depended those of her two friends; Mrs. Jennings could not
 
-quit Cleveland during the Dashwoods’ stay; and Colonel Brandon was soon
+quit Cleveland during the Dashwoods’ stay; and [[Colonel Brandon]] was soon
 
 brought, by their united request, to consider his own abode there as
 
@@ -88,13 +88,13 @@ equally determinate, if not equally indispensable. At his and Mrs.
 
 Jennings’s united request in return, Mrs. Dashwood was prevailed on to
 
-accept the use of his carriage on her journey back, for the better
+accept the use of his carriage on her [[Journey|journey]] back, for the better
 
-accommodation of her sick child; and the Colonel, at the joint
+accommodation of her sick [[Child|child]]; and the Colonel, at the joint
 
-invitation of Mrs. Dashwood and Mrs. Jennings, whose active good-nature
+invitation of Mrs. Dashwood and Mrs. Jennings, whose active good-[[Nature|nature]]
 
-made her friendly and hospitable for other people as well as herself,
+made her friendly and hospitable for other people as [[Well|well]] as herself,
 
 engaged with pleasure to redeem it by a visit at the cottage, in the
 
@@ -110,7 +110,7 @@ grateful, so full of respect and kind wishes as seemed due to her own
 
 heart from a secret acknowledgment of past inattention, and bidding
 
-Colonel Brandon farewell with a cordiality of a friend, was carefully
+[[Colonel Brandon]] farewell with a cordiality of a friend, was carefully
 
 assisted by him into the carriage, of which he seemed anxious that she
 
@@ -122,13 +122,13 @@ feel their own dullness, till Mrs. Jennings was summoned to her chaise
 
 to take comfort in the gossip of her maid for the loss of her two young
 
-companions; and Colonel Brandon immediately afterwards took his
+companions; and [[Colonel Brandon]] immediately afterwards took his
 
 solitary way to Delaford.
 
 
 
-The Dashwoods were two days on the road, and Marianne bore her journey
+The Dashwoods were two days on the [[Road|road]], and Marianne bore her [[Journey|journey]]
 
 on both, without essential fatigue. Every thing that the most zealous
 
@@ -140,9 +140,9 @@ in her bodily ease, and her calmness of spirits. To Elinor, the
 
 observation of the latter was particularly grateful. She, who had seen
 
-her week after week so constantly suffering, oppressed by anguish of
+her week after week so constantly [[Suffering|suffering]], oppressed by anguish of
 
-heart which she had neither courage to speak of, nor fortitude to
+heart which she had neither [[Courage|courage]] to speak of, nor fortitude to
 
 conceal, now saw with a joy, which no other could equally share, an
 
@@ -160,9 +160,9 @@ field and every tree brought some peculiar, some painful recollection,
 
 she grew silent and thoughtful, and turning away her face from their
 
-notice, sat earnestly gazing through the window. But here, Elinor could
+notice, sat earnestly gazing through the [[Window|window]]. But here, Elinor could
 
-neither wonder nor blame; and when she saw, as she assisted Marianne
+neither [[Wonder|wonder]] nor blame; and when she saw, as she assisted Marianne
 
 from the carriage, that she had been crying, she saw only an emotion
 
@@ -206,7 +206,7 @@ much.
 
 The next morning produced no abatement in these happy symptoms. On the
 
-contrary, with a mind and body alike strengthened by rest, she looked
+contrary, with a mind and [[Body|body]] alike strengthened by rest, she looked
 
 and spoke with more genuine spirit, anticipating the pleasure of
 
@@ -224,27 +224,27 @@ she, “we will take long walks together every day. We will walk to the
 
 farm at the edge of the down, and see how the children go on; we will
 
-walk to Sir John’s new plantations at Barton Cross, and the Abbeyland;
+walk to Sir John’s new plantations at Barton [[Cross]], and the Abbeyland;
 
 and we will often go to the old ruins of the Priory, and try to trace
 
 its foundations as far as we are told they once reached. I know we
 
-shall be happy. I know the summer will pass happily away. I mean never
+shall be happy. I know the [[Summer|summer]] will pass happily away. I mean never
 
-to be later in rising than six, and from that time till dinner I shall
+to be later in rising than six, and from that [[Time|time]] till dinner I shall
 
 divide every moment between music and reading. I have formed my plan,
 
 and am determined to enter on a course of serious study. Our own
 
-library is too well known to me, to be resorted to for any thing beyond
+library is too [[Well|well]] known to me, to be resorted to for any thing beyond
 
-mere amusement. But there are many works well worth reading at the
+mere amusement. But there are many works [[Well|well]] worth reading at the
 
 Park; and there are others of more modern production which I know I can
 
-borrow of Colonel Brandon. By reading only six hours a-day, I shall
+borrow of [[Colonel Brandon]]. By reading only six hours a-day, I shall
 
 gain in the course of a twelve-month a great deal of instruction which
 
@@ -256,17 +256,17 @@ Elinor honoured her for a plan which originated so nobly as this;
 
 though smiling to see the same eager fancy which had been leading her
 
-to the extreme of languid indolence and selfish repining, now at work
+to the extreme of languid [[Indolence|indolence]] and selfish repining, now at work
 
 in introducing excess into a scheme of such rational employment and
 
-virtuous self-control. Her smile however changed to a sigh when she
+virtuous [[Self|self]]-control. Her smile however changed to a sigh when she
 
 remembered that promise to Willoughby was yet unfulfilled, and feared
 
 she had that to communicate which might again unsettle the mind of
 
-Marianne, and ruin at least for a time this fair prospect of busy
+Marianne, and ruin at least for a [[Time|time]] this fair prospect of busy
 
 tranquillity. Willing therefore to delay the evil hour, she resolved to
 
@@ -276,7 +276,7 @@ it. But the resolution was made only to be broken.
 
 
 
-Marianne had been two or three days at home, before the weather was
+Marianne had been two or three days at [[Home|home]], before the weather was
 
 fine enough for an invalid like herself to venture out. But at last a
 
@@ -286,7 +286,7 @@ wishes and the mother’s confidence; and Marianne, leaning on Elinor’s
 
 arm, was authorised to walk as long as she could without fatigue, in
 
-the lane before the house.
+the lane before the [[house]].
 
 
 
@@ -294,9 +294,9 @@ The sisters set out at a pace, slow as the feebleness of Marianne in an
 
 exercise hitherto untried since her illness required; and they had
 
-advanced only so far beyond the house as to admit a full view of the
+advanced only so far beyond the [[house]] as to admit a full view of the
 
-hill, the important hill behind, when pausing with her eyes turned
+[[Hill|hill]], the important [[Hill|hill]] behind, when pausing with her eyes turned
 
 towards it, Marianne calmly said,—
 
@@ -312,11 +312,11 @@ Her voice sunk with the word, but presently reviving she added,
 
 
 
-“I am thankful to find that I can look with so little pain on the spot!
+“I am thankful to find that I can look with so little [[Pain|pain]] on the spot!
 
 shall we ever talk on that subject, Elinor?” hesitatingly it was said.
 
-“Or will it be wrong? I _can_ talk of it now, I hope, as I ought to
+“Or will it be wrong? I _can_ talk of it now, I [[Hope|hope]], as I ought to
 
 do.”
 
@@ -376,7 +376,7 @@ Elinor said no more. She was debating within herself on the eligibility
 
 of beginning her story directly, or postponing it till Marianne were in
 
-stronger health;—and they crept on for a few minutes in silence.
+stronger health;—and they crept on for a few minutes in [[Silence|silence]].
 
 
 
@@ -414,27 +414,27 @@ perfectly able to reflect. I considered the past: I saw in my own
 
 behaviour, since the beginning of our acquaintance with him last
 
-autumn, nothing but a series of imprudence towards myself, and want of
+[[Autumn|autumn]], nothing but a series of imprudence towards myself, and want of
 
 kindness to others. I saw that my own feelings had prepared my
 
 sufferings, and that my want of fortitude under them had almost led me
 
-to the grave. My illness, I well knew, had been entirely brought on by
+to the [[Grave|grave]]. My illness, I [[Well|well]] knew, had been entirely brought on by
 
 myself by such negligence of my own health, as I had felt even at the
 
-time to be wrong. Had I died, it would have been self-destruction. I
+[[Time|time]] to be wrong. Had I died, it would have been [[Self|self]]-destruction. I
 
 did not know my danger till the danger was removed; but with such
 
-feelings as these reflections gave me, I wonder at my recovery,—wonder
+feelings as these reflections gave me, I [[Wonder|wonder]] at my recovery,—[[Wonder|wonder]]
 
-that the very eagerness of my desire to live, to have time for
+that the very eagerness of my [[Desire|desire]] to live, to have [[Time|time]] for
 
 atonement to my God, and to you all, did not kill me at once. Had I
 
-died, in what peculiar misery should I have left you, my nurse, my
+died, in what peculiar misery should I have left you, my [[Nurse|nurse]], my
 
 friend, my sister! You, who had seen all the fretful selfishness of my
 
@@ -446,7 +446,7 @@ consoled her! I cannot express my own abhorrence of myself. Whenever I
 
 looked towards the past, I saw some duty neglected, or some failing
 
-indulged. Every body seemed injured by me. The kindness, the unceasing
+indulged. Every [[Body|body]] seemed injured by me. The kindness, the unceasing
 
 kindness of Mrs. Jennings, I had repaid with ungrateful contempt. To
 
@@ -472,11 +472,11 @@ imitate your forbearance, or lessen your restraints, by taking any part
 
 in those offices of general complaisance or particular gratitude which
 
-you had hitherto been left to discharge alone? No; not less when I knew
+you had hitherto been left to discharge [[Alone|alone]]? No; not less when I knew
 
 you to be unhappy, than when I had believed you at ease, did I turn
 
-away from every exertion of duty or friendship; scarcely allowing
+away from every exertion of duty or [[Friendship|friendship]]; scarcely allowing
 
 sorrow to exist but with me, regretting only _that_ heart which had
 
@@ -486,11 +486,11 @@ unbounded affection, to be miserable for my sake.”
 
 
 
-Here ceased the rapid flow of her self-reproving spirit; and Elinor,
+Here ceased the rapid flow of her [[Self|self]]-reproving spirit; and Elinor,
 
 impatient to soothe, though too honest to flatter, gave her instantly
 
-that praise and support which her frankness and her contrition so well
+that praise and support which her frankness and her contrition so [[Well|well]]
 
 deserved. Marianne pressed her hand and replied,—
 
@@ -506,7 +506,7 @@ torture myself. I shall now live solely for my family. You, my mother,
 
 and Margaret, must henceforth be all the world to me; you will share my
 
-affections entirely between you. From you, from my home, I shall never
+affections entirely between you. From you, from my [[Home|home]], I shall never
 
 again have the smallest incitement to move; and if I do mix in other
 
@@ -532,7 +532,7 @@ everything would become easy.”
 
 
 
-Elinor, who had now been for some time reflecting on the propriety or
+Elinor, who had now been for some [[Time|time]] reflecting on the propriety or
 
 impropriety of speedily hazarding her narration, without feeling at all
 
@@ -560,13 +560,13 @@ thousand inquiries sprung up from her heart, but she dared not urge
 
 one. She caught every syllable with panting eagerness; her hand,
 
-unknowingly to herself, closely pressed her sister’s, and tears covered
+unknowingly to herself, closely pressed her sister’s, and [[Tears|tears]] covered
 
 her cheeks.
 
 
 
-Elinor, dreading her being tired, led her towards home; and till they
+Elinor, dreading her being tired, led her towards [[Home|home]]; and till they
 
 reached the door of the cottage, easily conjecturing what her curiosity
 
@@ -576,13 +576,13 @@ but Willoughby, and their conversation together; and was carefully
 
 minute in every particular of speech and look, where minuteness could
 
-be safely indulged. As soon as they entered the house, Marianne with a
+be safely indulged. As soon as they entered the [[house]], Marianne with a
 
 kiss of gratitude and these two words just articulate through her
 
-tears, “Tell mama,” withdrew from her sister and walked slowly up
+[[Tears|tears]], “Tell mama,” withdrew from her sister and walked slowly up
 
-stairs. Elinor would not attempt to disturb a solitude so reasonable as
+stairs. Elinor would not attempt to disturb a [[Solitude|solitude]] so reasonable as
 
 what she now sought; and with a mind anxiously pre-arranging its
 

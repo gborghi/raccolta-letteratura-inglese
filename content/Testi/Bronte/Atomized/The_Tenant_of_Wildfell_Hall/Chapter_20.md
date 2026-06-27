@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 20"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 20"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,27 +20,27 @@ tags:
 
 
 
-September 24th.—In the morning I rose, light and cheerful—nay,
+September 24th.—In the morning I [[Rose|rose]], light and cheerful—nay,
 
 intensely happy. The hovering cloud cast over me by my aunt’s views,
 
-and by the fear of not obtaining her consent, was lost in the bright
+and by the [[Fear|fear]] of not obtaining her consent, was lost in the bright
 
 effulgence of my own hopes, and the too delightful consciousness of
 
-requited love. It was a splendid morning; and I went out to enjoy it,
+requited [[Love|love]]. It was a splendid morning; and I went out to enjoy it,
 
 in a quiet ramble, in company with my own blissful thoughts. The dew
 
 was on the grass, and ten thousand gossamers were waving in the breeze;
 
-the happy red-breast was pouring out its little soul in song, and my
+the happy red-breast was pouring out its little [[Soul|soul]] in [[Song|song]], and my
 
 heart overflowed with silent hymns of gratitude and praise to heaven.
 
 
 
-But I had not wandered far before my solitude was interrupted by the
+But I had not wandered far before my [[Solitude|solitude]] was interrupted by the
 
 only person that could have disturbed my musings, at that moment,
 
@@ -48,13 +48,13 @@ without being looked upon as an unwelcome intruder: Mr. Huntingdon came
 
 suddenly upon me. So unexpected was the apparition, that I might have
 
-thought it the creation of an over-excited imagination, had the sense
+thought it the creation of an over-excited [[Imagination|imagination]], had the sense
 
-of sight alone borne witness to his presence; but immediately I felt
+of sight [[Alone|alone]] borne witness to his presence; but immediately I felt
 
 his strong arm round my waist and his warm kiss on my cheek, while his
 
-keen and gleeful salutation, “My own Helen!” was ringing in my ear.
+keen and gleeful salutation, “My own [[Helen]]!” was ringing in my ear.
 
 
 
@@ -88,11 +88,11 @@ My father, you know, was something of a miser, and in his latter days
 
 especially saw no pleasure in life but to amass riches; and so it is no
 
-wonder that his son should make it his chief delight to spend them,
+[[Wonder|wonder]] that his son should make it his chief delight to spend them,
 
 which was accordingly the case, until my acquaintance with you, dear
 
-Helen, taught me other views and nobler aims. And the very idea of
+[[Helen]], taught me other views and nobler aims. And the very idea of
 
 having you to care for under my roof would force me to moderate my
 
@@ -118,15 +118,15 @@ She knows better than to value worldly wealth above its price.”
 
 
 
-“What, a man of ‘decided piety’?—ahem!—Well, come, I’ll manage that
+“What, a man of ‘decided piety’?—ahem!—[[Well]], come, I’ll manage that
 
-too! It’s Sunday to-day, isn’t it? I’ll go to church morning,
+too! It’s [[Sunday]] to-day, isn’t it? I’ll go to church morning,
 
 afternoon, and evening, and comport myself in such a godly sort that
 
-she shall regard me with admiration and sisterly love, as a brand
+she shall regard me with admiration and sisterly [[Love|love]], as a brand
 
-plucked from the burning. I’ll come home sighing like a furnace, and
+plucked from the burning. I’ll come [[Home|home]] sighing like a furnace, and
 
 full of the savour and unction of dear Mr. Blatant’s discourse—”
 
@@ -136,7 +136,7 @@ full of the savour and unction of dear Mr. Blatant’s discourse—”
 
 
 
-“Is Mr. Leighton a ‘sweet preacher,’ Helen—a ‘dear, delightful,
+“Is Mr. Leighton a ‘sweet preacher,’ [[Helen]]—a ‘dear, delightful,
 
 heavenly-minded man’?”
 
@@ -150,7 +150,7 @@ for you.”
 
 “Oh, I forgot, you are a saint, too. I crave your pardon, dearest—but
 
-don’t call me Mr. Huntingdon; my name is Arthur.”
+don’t call me Mr. Huntingdon; my name is [[arthur|Arthur]].”
 
 
 
@@ -168,19 +168,19 @@ such a subject.”
 
 sigh. “Now,” resumed he, after a momentary pause, “let us talk about
 
-something else. And come nearer to me, Helen, and take my arm; and then
+something else. And come nearer to me, [[Helen]], and take my arm; and then
 
-I’ll let you alone. I can’t be quiet while I see you walking there.”
+I’ll let you [[Alone|alone]]. I can’t be quiet while I see you walking there.”
 
 
 
-I complied; but said we must soon return to the house.
+I complied; but said we must soon return to the [[house]].
 
 
 
 “No one will be down to breakfast yet, for long enough,” he answered.
 
-“You spoke of your guardians just now, Helen, but is not your father
+“You spoke of your guardians just now, [[Helen]], but is not your father
 
 still living?”
 
@@ -238,13 +238,13 @@ possession.
 
 
 
-I now insisted upon retracing our steps to the house; but we walked
+I now insisted upon retracing our steps to the [[house]]; but we walked
 
 slowly, and went on talking as we proceeded. I need not repeat all we
 
 said: let me rather refer to what passed between my aunt and me, after
 
-breakfast, when Mr. Huntingdon called my uncle aside, no doubt to make
+breakfast, when Mr. Huntingdon called my uncle aside, no [[Doubt|doubt]] to make
 
 his proposals, and she beckoned me into another room, where she once
 
@@ -256,7 +256,7 @@ to convince me that her view of the case was preferable to my own.
 
 “You judge him uncharitably, aunt, I know,” said I. “His very friends
 
-are not half so bad as you represent them. There is Walter Hargrave,
+are not half so bad as you represent them. There is [[Walter Hargrave]],
 
 Milicent’s brother, for one: he is but a little lower than the angels,
 
@@ -276,11 +276,11 @@ eyes, and their mother’s, too.”
 
 
 
-“And there is Lord Lowborough,” continued I, “quite a decent man.”
+“And there is [[Lord Lowborough]],” continued I, “quite a decent man.”
 
 
 
-“Who told you so? Lord Lowborough is a _desperate_ man. He has
+“Who told you so? [[Lord Lowborough]] is a _desperate_ man. He has
 
 dissipated his fortune in gambling and other things, and is now seeking
 
@@ -306,7 +306,7 @@ misguided woman!”
 
 
 
-“Well, I think he’s about as good as she is,” said I. “But when Mr.
+“[[Well]], I think he’s about as good as she is,” said I. “But when Mr.
 
 Huntingdon is married, he won’t have many opportunities of consorting
 
@@ -330,13 +330,13 @@ the adventitious evil got from contact with others worse than himself,
 
 and shining out in the unclouded light of his own genuine goodness—to
 
-do my utmost to help his better self against his worse, and make him
+do my utmost to help his better [[Self|self]] against his worse, and make him
 
 what he would have been if he had not, from the beginning, had a bad,
 
 selfish, miserly father, who, to gratify his own sordid passions,
 
-restricted him in the most innocent enjoyments of childhood and youth,
+restricted him in the most [[Innocent|innocent]] enjoyments of [[Childhood|childhood]] and youth,
 
 and so disgusted him with every kind of restraint;—and a foolish mother
 
@@ -362,9 +362,9 @@ undo what his mother did!”
 
 
 
-“Well,” said she, after a short pause, “I must say, Helen, I thought
+“[[Well]],” said she, after a short pause, “I must say, [[Helen]], I thought
 
-better of your judgment than this—and your taste too. How you can love
+better of your judgment than this—and your taste too. How you can [[Love|love]]
 
 such a man I cannot tell, or what pleasure you can find in his company;
 
@@ -388,23 +388,23 @@ I suppose, is not without the common faculties of men: he is not so
 
 light-headed as to be irresponsible: his Maker has endowed him with
 
-reason and conscience as well as the rest of us; the Scriptures are
+reason and [[Conscience|conscience]] as [[Well|well]] as the rest of us; the Scriptures are
 
-open to him as well as to others;—and ‘if he hear not them, neither
+open to him as [[Well|well]] as to others;—and ‘if he hear not them, neither
 
-will he hear though one rose from the dead.’ And remember, Helen,”
+will he hear though one [[Rose|rose]] from the dead.’ And remember, [[Helen]],”
 
 continued she, solemnly, “‘the wicked shall be turned into hell, and
 
 they that _forget_ God!’” And suppose, even, that he should continue to
 
-love you, and you him, and that you should pass through life together
+[[Love|love]] you, and you him, and that you should pass through life together
 
 with tolerable comfort—how will it be in the end, when you see
 
 yourselves parted for ever; you, perhaps, taken into eternal bliss, and
 
-he cast into the lake that burneth with unquenchable fire—there for
+he cast into the lake that burneth with unquenchable [[Fire|fire]]—there for
 
 ever to—”
 
@@ -412,15 +412,15 @@ ever to—”
 
 “Not for ever,” I exclaimed, “‘only till he has paid the uttermost
 
-farthing;’ for ‘if any man’s work abide not the fire, he shall suffer
+farthing;’ for ‘if any man’s work abide not the [[Fire|fire]], he shall suffer
 
-loss, yet himself shall be saved, but so as by fire;’ and He that ‘is
+loss, yet himself shall be saved, but so as by [[Fire|fire]];’ and He that ‘is
 
 able to subdue all things to Himself will have all men to be saved,’
 
-and ‘will, in the fulness of time, gather together in one all things in
+and ‘will, in the fulness of [[Time|time]], gather together in one all things in
 
-Christ Jesus, who tasted death for every man, and in whom God will
+[[Christ]] Jesus, who tasted [[Death|death]] for every man, and in whom God will
 
 reconcile all things to Himself, whether they be things in earth or
 
@@ -428,17 +428,17 @@ things in heaven.’”
 
 
 
-“Oh, Helen! where did you learn all this?”
+“Oh, [[Helen]]! where did you learn all this?”
 
 
 
-“In the Bible, aunt. I have searched it through, and found nearly
+“In the [[Bible]], aunt. I have searched it through, and found nearly
 
 thirty passages, all tending to support the same theory.”
 
 
 
-“And is _that_ the use you make of your Bible? And did you find no
+“And is _that_ the use you make of your [[Bible]]? And did you find no
 
 passages tending to prove the danger and the falsity of such a belief?”
 
@@ -466,11 +466,11 @@ not part with it for all the world can give!”
 
 
 
-Here our conference ended, for it was now high time to prepare for
+Here our conference ended, for it was now high [[Time|time]] to prepare for
 
 church. Every one attended the morning service, except my uncle, who
 
-hardly ever goes, and Mr. Wilmot, who stayed at home with him to enjoy
+hardly ever goes, and Mr. Wilmot, who stayed at [[Home|home]] with him to enjoy
 
 a quiet game of cribbage. In the afternoon Miss Wilmot and Lord
 
@@ -482,7 +482,7 @@ ingratiate himself with my aunt I cannot tell, but, if so, he certainly
 
 should have behaved better. I must confess, I did not like his conduct
 
-during service at all. Holding his prayer-book upside down, or open at
+during service at all. Holding his [[Prayer|prayer]]-book upside down, or open at
 
 any place but the right, he did nothing but stare about him, unless he
 
@@ -494,7 +494,7 @@ been ludicrous, if it had not been too provoking. Once, during the
 
 sermon, after attentively regarding Mr. Leighton for a few minutes, he
 
-suddenly produced his gold pencil-case and snatched up a Bible.
+suddenly produced his gold pencil-case and snatched up a [[Bible]].
 
 Perceiving that I observed the movement, he whispered that he was going
 
@@ -538,13 +538,13 @@ thoroughly made up my mind on the subject.
 
 “Very good!” cried he. “Now that’s a good honest answer—wonderful for a
 
-girl!—Well, I’ll write to your father to-morrow. He’s sure to give his
+girl!—[[Well]], I’ll write to your father to-morrow. He’s sure to give his
 
 consent; so you may look on the matter as settled. You’d have done a
 
 deal better if you’d taken Wilmot, I can tell you; but that you won’t
 
-believe. At your time of life, it’s love that rules the roast: at mine,
+believe. At your [[Time|time]] of life, it’s [[Love|love]] that rules the roast: at mine,
 
 it’s solid, serviceable gold. I suppose now, you’d never dream of
 
@@ -558,9 +558,9 @@ head about settlements, or anything of that sort?”
 
 
 
-“Well, be thankful, then, that you’ve wiser heads to think for you. I
+“[[Well]], be thankful, then, that you’ve wiser heads to think for you. I
 
-haven’t had time, yet, to examine thoroughly into this young rascal’s
+haven’t had [[Time|time]], yet, to examine thoroughly into this young rascal’s
 
 affairs, but I see that a great part of his father’s fine property has
 
@@ -572,7 +572,7 @@ it yet; and then we must persuade your father to give you a decent
 
 fortune, as he has only one besides yourself to care for;—and, if you
 
-behave well, who knows but what I may be induced to remember you in my
+behave [[Well|well]], who knows but what I may be induced to remember you in my
 
 will!” continued he, putting his fingers to his nose, with a knowing
 
@@ -584,7 +584,7 @@ wink.
 
 
 
-“Well, and I questioned this young spark on the matter of settlements,”
+“[[Well]], and I questioned this young spark on the matter of settlements,”
 
 continued he; “and he seemed disposed to be generous enough on that
 
@@ -602,7 +602,7 @@ make my exit, but he called me back.
 
 
 
-“Stop, stop!” cried he; “we haven’t mentioned the time yet. When must
+“Stop, stop!” cried he; “we haven’t mentioned the [[Time|time]] yet. When must
 
 it be? Your aunt would put it off till the Lord knows when, but he is
 
@@ -620,7 +620,7 @@ Christmas, at least.”
 
 “Oh! pooh, pooh! never tell me that tale—I know better,” cried he; and
 
-he persisted in his incredulity. Nevertheless, it is quite true. I am
+he persisted in his [[Incredulity|incredulity]]. Nevertheless, it is quite true. I am
 
 in no hurry at all. How can I be, when I think of the momentous change
 
@@ -628,7 +628,7 @@ that awaits me, and of all I have to leave? It is happiness enough to
 
 know that we _are_ to be united; and that he really loves me, and I may
 
-love _him_ as devotedly, and think of him as often as I please.
+[[Love|love]] _him_ as devotedly, and think of him as often as I please.
 
 However, I insisted upon consulting my aunt about the _time_ of the
 

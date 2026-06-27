@@ -1,5 +1,5 @@
 ---
-title: "The Colloquy of Monos and Una (part 4)"
+title: "[[The Colloquy of Monos and Una]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Colloquy-of-Monos-and-Una-(Poe)"
@@ -32,9 +32,9 @@ tags:
 
       of entity, and in the one abiding sentiment of duration. The
 
-      mortal body had been at length stricken with the hand of the
+      mortal [[Body|body]] had been at length stricken with the hand of the
 
-      deadly Decay.
+      deadly [[Decay]].
 
 
 
@@ -50,13 +50,13 @@ tags:
 
       I still dully felt that you sat by my side. So, too, when the
 
-      noon of the second day came, I was not unconscious of those
+      [[Noon|noon]] of the second day came, I was not unconscious of those
 
       movements which displaced you from my side, which confined me
 
       within the coffin, which deposited me within the hearse, which
 
-      bore me to the grave, which lowered me within it, which heaped
+      bore me to the [[Grave|grave]], which lowered me within it, which heaped
 
       heavily the mould upon me, and which thus left me, in blackness
 
@@ -64,9 +64,9 @@ tags:
 
 
 
-      And here, in the prison-house which has few secrets to disclose,
+      And here, in the [[Prison|prison]]-[[house]] which has few [[Secrets|secrets]] to disclose,
 
-      there rolled away days and weeks and months; and the soul watched
+      there rolled away days and weeks and months; and the [[Soul|soul]] watched
 
       narrowly each second as it flew, and, without effort, took record
 
@@ -82,21 +82,21 @@ tags:
 
       that of place. The narrow space immediately surrounding what had
 
-      been the body, was now growing to be the body itself. At length,
+      been the [[Body|body]], was now growing to be the [[Body|body]] itself. At length,
 
-      as often happens to the sleeper (by sleep and its world alone is
+      as often happens to [[The Sleeper|the sleeper]] (by [[Sleep|sleep]] and its world [[Alone|alone]] is
 
-      Death imaged)—at length, as sometimes happened on Earth to the
+      [[Death]] imaged)—at length, as sometimes happened on Earth to the
 
       deep slumberer, when some flitting light half startled him into
 
-      awaking, yet left him half enveloped in dreams—so to me, in the
+      awaking, yet left him half enveloped in [[Dreams|dreams]]—so to me, in the
 
-      strict embrace of the Shadow came that light which alone might
+      strict embrace of the [[Shadow]] came that light which [[Alone|alone]] might
 
-      have had power to startle—the light of enduring Love. Men toiled
+      have had power to startle—the light of enduring [[Love]]. Men toiled
 
-      at the grave in which I lay darkling. They upthrew the damp
+      at the [[Grave|grave]] in which I lay darkling. They upthrew the damp
 
       earth. Upon my mouldering bones there descended the coffin of
 
@@ -108,13 +108,13 @@ tags:
 
       extinguished. That feeble thrill had vibrated itself into
 
-      quiescence. Many lustra had supervened. Dust had returned to
+      quiescence. Many lustra had supervened. [[Dust]] had returned to
 
-      dust. The worm had food no more. The sense of being had at length
+      [[Dust|dust]]. The worm had food no more. The sense of being had at length
 
       utterly departed, and there reigned in its stead—instead of all
 
-      things—dominant and perpetual—the autocrats Place and Time. For
+      things—dominant and perpetual—the autocrats Place and [[Time]]. For
 
       that which was not—for that which had no form—for that which had
 
@@ -122,6 +122,6 @@ tags:
 
       soulless, yet of which matter formed no portion—for all this
 
-      nothingness, yet for all this immortality, the grave was still a
+      nothingness, yet for all this [[Immortality|immortality]], the [[Grave|grave]] was still a
 
-      home, and the corrosive hours, co-mates.
+      [[Home|home]], and the corrosive hours, co-mates.

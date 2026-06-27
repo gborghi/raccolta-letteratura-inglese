@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 19 (part 6)"
+title: "[[The Professor]] — Chapter 19 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ seemed very cheering. A low, purring sound, from some quarter, announced
 
 that another being, besides myself, was pleased with the change; a
 
-black cat, roused by the light from its sleep on a little cushioned
+black cat, roused by the light from its [[Sleep|sleep]] on a little cushioned
 
 foot-stool, came and rubbed its head against Frances’ gown as she knelt;
 
@@ -28,7 +28,7 @@ Julienne.”
 
 
 
-The fire being lit, the hearth swept, and a small kettle of a very
+The [[Fire|fire]] being lit, the hearth swept, and a small kettle of a very
 
 antique pattern, such as I thought I remembered to have seen in old
 
@@ -62,7 +62,7 @@ she smiled and asked--
 
 
 
-“Is it truly? Well, everything on this tray is at least a hundred
+“Is it truly? [[Well]], everything on this tray is at least a hundred
 
 years old: these cups, these spoons, this ewer, are all heirlooms; my
 
@@ -86,13 +86,13 @@ exaltation--
 
 
 
-“Will it make you think yourself at home for a moment?”
+“Will it make you think yourself at [[Home|home]] for a moment?”
 
 
 
-“If I had a home in England, I believe it would recall it,” I
+“If I had a [[Home|home]] in England, I believe it would recall it,” I
 
-answered; and, in truth, there was a sort of illusion in seeing the
+answered; and, in [[Truth|truth]], there was a sort of illusion in seeing the
 
 fair-complexioned English-looking girl presiding at the English meal,
 
@@ -100,27 +100,27 @@ and speaking in the English language.
 
 
 
-“You have then no home?” was her remark.
+“You have then no [[Home|home]]?” was her remark.
 
 
 
-“None, nor ever have had. If ever I possess a home, it must be of my own
+“None, nor ever have had. If ever I possess a [[Home|home]], it must be of my own
 
 making, and the task is yet to begin.” And, as I spoke, a pang, new to
 
-me, shot across my heart: it was a pang of mortification at the humility
+me, shot across my heart: it was a pang of mortification at the [[Humility|humility]]
 
 of my position, and the inadequacy of my means; while with that pang was
 
-born a strong desire to do more, earn more, be more, possess more;
+born a strong [[Desire|desire]] to do more, earn more, be more, possess more;
 
 and in the increased possessions, my roused and eager spirit panted to
 
-include the home I had never had, the wife I inwardly vowed to win.
+include the [[Home|home]] I had never had, the wife I inwardly vowed to win.
 
 
 
-Frances’ tea was little better than hot water, sugar, and milk; and her
+Frances’ tea was little better than hot [[Water|water]], sugar, and milk; and her
 
 pistolets, with which she could not offer me butter, were sweet to my
 
@@ -138,9 +138,9 @@ its special use, a few stray cinders, and a scattering of ashes too,
 
 being swept from the hearth, Frances at last sat down; and then, as she
 
-took a chair opposite to me, she betrayed, for the first time, a little
+took a chair opposite to me, she betrayed, for the first [[Time|time]], a little
 
-embarrassment; and no wonder, for indeed I had unconsciously watched
+embarrassment; and no [[Wonder|wonder]], for indeed I had unconsciously watched
 
 her rather too closely, followed all her steps and all her movements
 
@@ -152,13 +152,13 @@ decorative effect resulting from each touch of her slight and fine
 
 fingers; and when, at last, she subsided to stillness, the intelligence
 
-of her face seemed beauty to me, and I dwelt on it accordingly. Her
+of her face seemed [[Beauty|beauty]] to me, and I dwelt on it accordingly. Her
 
 colour, however, rising, rather than settling with repose, and her eyes
 
 remaining downcast, though I kept waiting for the lids to be raised that
 
-I might drink a ray of the light I loved--a light where fire dissolved
+I might drink a ray of the light I loved--a light where [[Fire|fire]] dissolved
 
 in softness, where affection tempered penetration, where, just now
 
@@ -182,15 +182,15 @@ heavily, and will probably detain me half an hour longer.”
 
 
 
-Released, and set at ease, up she rose, got her book, and accepted at
+Released, and set at ease, up she [[Rose|rose]], got her book, and accepted at
 
 once the chair I placed for her at my side. She had selected “Paradise
 
 Lost” from her shelf of classics, thinking, I suppose, the religious
 
-character of the book best adapted it to Sunday; I told her to begin at
+character of the book best adapted it to [[Sunday]]; I told her to begin at
 
-the beginning, and while she read Milton’s invocation to that heavenly
+the beginning, and while she read [[Milton]]’s invocation to that heavenly
 
 muse, who on the “secret top of Oreb or Sinai” had taught the Hebrew
 
@@ -212,11 +212,11 @@ also gaze, without exciting too warm a flush.
 
 “Enough,” said I, when she had gone through some half dozen pages (a
 
-work of time with her, for she read slowly and paused often to ask and
+work of [[Time|time]] with her, for she read slowly and paused often to ask and
 
 receive information)--“enough; and now the rain is ceasing, and I must
 
-soon go.” For indeed, at that moment, looking towards the window, I
+soon go.” For indeed, at that moment, looking towards the [[Window|window]], I
 
 saw it all blue; the thunder-clouds were broken and scattered, and the
 

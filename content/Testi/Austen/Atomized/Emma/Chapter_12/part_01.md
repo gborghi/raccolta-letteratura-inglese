@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 12 (part 1)"
+title: "[[Emma]] — Chapter 12 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -19,24 +19,24 @@ CHAPTER XII
 
 Mr. Knightley was to dine with them—rather against the inclination of
 Mr. Woodhouse, who did not like that any one should share with him in
-Isabella’s first day. Emma’s sense of right however had decided it; and
+[[Isabella]]’s first day. [[Emma]]’s sense of right however had decided it; and
 besides the consideration of what was due to each brother, she had
 particular pleasure, from the circumstance of the late disagreement
 between Mr. Knightley and herself, in procuring him the proper
 invitation.
 
-She hoped they might now become friends again. She thought it was time
+She hoped they might now become friends again. She thought it was [[Time|time]]
 to make up. Making-up indeed would not do. _She_ certainly had not been
 in the wrong, and _he_ would never own that he had. Concession must be
-out of the question; but it was time to appear to forget that they had
+out of the question; but it was [[Time|time]] to appear to forget that they had
 ever quarrelled; and she hoped it might rather assist the restoration
-of friendship, that when he came into the room she had one of the
+of [[Friendship|friendship]], that when he came into the room she had one of the
 children with her—the youngest, a nice little girl about eight months
 old, who was now making her first visit to Hartfield, and very happy to
 be danced about in her aunt’s arms. It did assist; for though he began
-with grave looks and short questions, he was soon led on to talk of
-them all in the usual way, and to take the child out of her arms with
-all the unceremoniousness of perfect amity. Emma felt they were friends
+with [[Grave|grave]] looks and short questions, he was soon led on to talk of
+them all in the usual way, and to take the [[Child|child]] out of her arms with
+all the unceremoniousness of perfect amity. [[Emma]] felt they were friends
 again; and the conviction giving her at first great satisfaction, and
 then a little sauciness, she could not help saying, as he was admiring
 the baby,
@@ -45,7 +45,7 @@ the baby,
 nieces. As to men and women, our opinions are sometimes very different;
 but with regard to these children, I observe we never disagree.”
 
-“If you were as much guided by nature in your estimate of men and
+“If you were as much guided by [[Nature|nature]] in your estimate of men and
 women, and as little under the power of fancy and whim in your dealings
 with them, as you are where these children are concerned, we might
 always think alike.”
@@ -56,7 +56,7 @@ wrong.”
 “Yes,” said he, smiling—“and reason good. I was sixteen years old when
 you were born.”
 
-“A material difference then,” she replied—“and no doubt you were much
+“A material difference then,” she replied—“and no [[Doubt|doubt]] you were much
 my superior in judgment at that period of our lives; but does not the
 lapse of one-and-twenty years bring our understandings a good deal
 nearer?”
@@ -67,12 +67,12 @@ nearer?”
 think differently.”
 
 “I have still the advantage of you by sixteen years’ experience, and by
-not being a pretty young woman and a spoiled child. Come, my dear Emma,
+not being a pretty young woman and a spoiled [[Child|child]]. Come, my dear [[Emma]],
 let us be friends, and say no more about it. Tell your aunt, little
-Emma, that she ought to set you a better example than to be renewing
+[[Emma]], that she ought to set you a better example than to be renewing
 old grievances, and that if she were not wrong before, she is now.”
 
-“That’s true,” she cried—“very true. Little Emma, grow up a better
+“That’s true,” she cried—“very true. Little [[Emma]], grow up a better
 woman than your aunt. Be infinitely cleverer and not half so conceited.
 Now, Mr. Knightley, a word or two more, and I have done. As far as good
 intentions went, we were _both_ right, and I must say that no effects
@@ -91,10 +91,10 @@ would have led either of them, if requisite, to do every thing for the
 good of the other.
 
 The evening was quiet and conversable, as Mr. Woodhouse declined cards
-entirely for the sake of comfortable talk with his dear Isabella, and
+entirely for the sake of comfortable talk with his dear [[Isabella]], and
 the little party made two natural divisions; on one side he and his
 daughter; on the other the two Mr. Knightleys; their subjects totally
-distinct, or very rarely mixing—and Emma only occasionally joining in
+distinct, or very rarely mixing—and [[Emma]] only occasionally joining in
 one or the other.
 
 The brothers talked of their own concerns and pursuits, but principally
@@ -102,12 +102,12 @@ of those of the elder, whose temper was by much the most communicative,
 and who was always the greater talker. As a magistrate, he had
 generally some point of law to consult John about, or, at least, some
 curious anecdote to give; and as a farmer, as keeping in hand the
-home-farm at Donwell, he had to tell what every field was to bear next
+[[Home|home]]-farm at Donwell, he had to tell what every field was to bear next
 year, and to give all such local information as could not fail of being
-interesting to a brother whose home it had equally been the longest
+interesting to a brother whose [[Home|home]] it had equally been the longest
 part of his life, and whose attachments were strong. The plan of a
 drain, the change of a fence, the felling of a tree, and the
-destination of every acre for wheat, turnips, or spring corn, was
+destination of every acre for wheat, turnips, or [[spring]] corn, was
 entered into with as much equality of interest by John, as his cooler
 manners rendered possible; and if his willing brother ever left him any
 thing to inquire about, his inquiries even approached a tone of
@@ -116,20 +116,20 @@ eagerness.
 While they were thus comfortably occupied, Mr. Woodhouse was enjoying a
 full flow of happy regrets and fearful affection with his daughter.
 
-“My poor dear Isabella,” said he, fondly taking her hand, and
+“My poor dear [[Isabella]],” said he, fondly taking her hand, and
 interrupting, for a few moments, her busy labours for some one of her
 five children—“How long it is, how terribly long since you were here!
-And how tired you must be after your journey! You must go to bed early,
+And how tired you must be after your [[Journey|journey]]! You must go to bed early,
 my dear—and I recommend a little gruel to you before you go.—You and I
-will have a nice basin of gruel together. My dear Emma, suppose we all
+will have a nice basin of gruel together. My dear [[Emma]], suppose we all
 have a little gruel.”
 
-Emma could not suppose any such thing, knowing as she did, that both
+[[Emma]] could not suppose any such thing, knowing as she did, that both
 the Mr. Knightleys were as unpersuadable on that article as
 herself;—and two basins only were ordered. After a little more
 discourse in praise of gruel, with some wondering at its not being
-taken every evening by every body, he proceeded to say, with an air of
-grave reflection,
+taken every evening by every [[Body|body]], he proceeded to say, with an air of
+[[Grave|grave]] reflection,
 
-“It was an awkward business, my dear, your spending the autumn at South
+“It was an awkward business, my dear, your spending the [[Autumn|autumn]] at South
 End instead of coming here. I never had much opinion of the sea air.”

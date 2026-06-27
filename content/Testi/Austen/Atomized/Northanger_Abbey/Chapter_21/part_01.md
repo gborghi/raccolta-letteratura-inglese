@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 20 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 20 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER 20
 
 Mr. and Mrs. Allen were sorry to lose their young friend, whose good
 
-humour and cheerfulness had made her a valuable companion, and in the
+[[Humour|humour]] and cheerfulness had made her a valuable companion, and in the
 
 promotion of whose enjoyment their own had been gently increased. Her
 
@@ -86,17 +86,17 @@ disrespectful to her. This was placing her in a very uncomfortable
 
 situation, and she felt great compassion for Captain Tilney, without
 
-being able to hope for his goodwill.
+being able to [[Hope|hope]] for his goodwill.
 
 
 
-He listened to his father in silence, and attempted not any defence,
+He listened to his father in [[Silence|silence]], and attempted not any defence,
 
 which confirmed her in fearing that the inquietude of his mind, on
 
-Isabella’s account, might, by keeping him long sleepless, have been the
+[[Isabella]]’s account, might, by keeping him long sleepless, have been the
 
-real cause of his rising late. It was the first time of her being
+real cause of his rising late. It was the first [[Time|time]] of her being
 
 decidedly in his company, and she had hoped to be now able to form her
 
@@ -106,11 +106,11 @@ remained in the room; and even afterwards, so much were his spirits
 
 affected, she could distinguish nothing but these words, in a whisper
 
-to Eleanor, “How glad I shall be when you are all off.”
+to [[Eleanor]], “How glad I shall be when you are all off.”
 
 
 
-The bustle of going was not pleasant. The clock struck ten while the
+The bustle of going was not pleasant. The [[Clock|clock]] struck ten while the
 
 trunks were carrying down, and the General had fixed to be out of
 
@@ -134,13 +134,13 @@ closed upon the three females, and they set off at the sober pace in
 
 which the handsome, highly fed four horses of a gentleman usually
 
-perform a journey of thirty miles: such was the distance of Northanger
+perform a [[Journey|journey]] of thirty miles: such was the distance of Northanger
 
 from Bath, to be now divided into two equal stages. Catherine’s spirits
 
 revived as they drove from the door; for with Miss Tilney she felt no
 
-restraint; and, with the interest of a road entirely new to her, of an
+restraint; and, with the interest of a [[Road|road]] entirely new to her, of an
 
 abbey before, and a curricle behind, she caught the last view of Bath
 
@@ -160,7 +160,7 @@ stirrups, and numerous outriders properly mounted, sunk a little under
 
 this consequent inconvenience. Had their party been perfectly
 
-agreeable, the delay would have been nothing; but General Tilney,
+agreeable, the delay would have been nothing; but [[General Tilney]],
 
 though so charming a man, seemed always a check upon his children’s
 
@@ -176,7 +176,7 @@ last, however, the order of release was given; and much was Catherine
 
 then surprised by the General’s proposal of her taking his place in his
 
-son’s curricle for the rest of the journey: “the day was fine, and he
+son’s curricle for the rest of the [[Journey|journey]]: “the day was fine, and he
 
 was anxious for her seeing as much of the country as possible.”
 
@@ -188,7 +188,7 @@ carriages, made her blush at the mention of such a plan, and her first
 
 thought was to decline it; but her second was of greater deference for
 
-General Tilney’s judgment; he could not propose anything improper for
+[[General Tilney]]’s judgment; he could not propose anything improper for
 
 her; and, in the course of a few minutes, she found herself with Henry
 
@@ -200,4 +200,4 @@ the chaise and four wheeled off with some grandeur, to be sure, but it
 
 was a heavy and troublesome business, and she could not easily forget
 
-its having stopped two hours at Petty France. Half the time would have
+its having stopped two hours at Petty France. Half the [[Time|time]] would have

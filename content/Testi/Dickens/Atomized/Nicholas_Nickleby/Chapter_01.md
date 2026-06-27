@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 1"
+title: "[[Nicholas Nickleby]] — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,22 +25,22 @@ rather late in life that he must get married, and not being young enough
 or rich enough to aspire to the hand of a lady of fortune, had wedded an
 old flame out of mere attachment, who in her turn had taken him for the
 same reason. Thus two people who cannot afford to play cards for money,
-sometimes sit down to a quiet game for love.
+sometimes sit down to a quiet game for [[Love|love]].
 
 Some ill-conditioned persons who sneer at the life-matrimonial, may
 perhaps suggest, in this place, that the good couple would be better
 likened to two principals in a sparring match, who, when fortune is low
 and backers scarce, will chivalrously set to, for the mere pleasure
 of the buffeting; and in one respect indeed this comparison would hold
-good; for, as the adventurous pair of the Fives’ Court will afterwards
+good; for, as the adventurous pair of the Fives’ [[Court]] will afterwards
 send round a hat, and trust to the bounty of the lookers-on for the
 means of regaling themselves, so Mr. Godfrey Nickleby and HIS partner,
 the honeymoon being over, looked out wistfully into the world, relying
 in no inconsiderable degree upon chance for the improvement of their
-means. Mr. Nickleby’s income, at the period of his marriage, fluctuated
+means. Mr. Nickleby’s income, at the period of his [[Marriage|marriage]], fluctuated
 between sixty and eighty pounds PER ANNUM.
 
-There are people enough in the world, Heaven knows! and even in London
+There are people enough in the world, Heaven knows! and even in [[London]]
 (where Mr. Nickleby dwelt in those days) but few complaints prevail, of
 the population being scanty. It is extraordinary how long a man may look
 among the crowd without discovering the face of a friend, but it is no
@@ -59,14 +59,14 @@ the necessity of making some provision for his family, was seriously
 revolving in his mind a little commercial speculation of insuring his
 life next quarter-day, and then falling from the top of the Monument by
 accident, there came, one morning, by the general post, a black-bordered
-letter to inform him how his uncle, Mr. Ralph Nickleby, was dead, and
+letter to inform him how his uncle, Mr. [[Ralph Nickleby]], was dead, and
 had left him the bulk of his little property, amounting in all to five
 thousand pounds sterling.
 
 As the deceased had taken no further notice of his nephew in his
 lifetime, than sending to his eldest boy (who had been christened after
 him, on desperate speculation) a silver spoon in a morocco case, which,
-as he had not too much to eat with it, seemed a kind of satire upon his
+as he had not too much to eat with it, seemed a kind of [[Satire|satire]] upon his
 having been born without that useful article of plate in his mouth,
 Mr. Godfrey Nickleby could, at first, scarcely believe the tidings thus
 conveyed to him. On examination, however, they turned out to be strictly
@@ -84,16 +84,16 @@ With a portion of this property Mr. Godfrey Nickleby purchased a small
 farm, near Dawlish in Devonshire, whither he retired with his wife and
 two children, to live upon the best interest he could get for the rest
 of his money, and the little produce he could raise from his land. The
-two prospered so well together that, when he died, some fifteen years
+two prospered so [[Well|well]] together that, when he died, some fifteen years
 after this period, and some five after his wife, he was enabled to
 leave, to his eldest son, Ralph, three thousand pounds in cash, and
 to his youngest son, Nicholas, one thousand and the farm, which was as
-small a landed estate as one would desire to see.
+small a landed estate as one would [[Desire|desire]] to see.
 
 These two brothers had been brought up together in a school at Exeter;
-and, being accustomed to go home once a week, had often heard, from
+and, being accustomed to go [[Home|home]] once a week, had often heard, from
 their mother’s lips, long accounts of their father’s sufferings in his
-days of poverty, and of their deceased uncle’s importance in his days
+days of [[Poverty|poverty]], and of their deceased uncle’s importance in his days
 of affluence: which recitals produced a very different impression on
 the two: for, while the younger, who was of a timid and retiring
 disposition, gleaned from thence nothing but forewarnings to shun the
@@ -121,14 +121,14 @@ he trouble his borrowers with abstract calculations of figures, or
 references to ready-reckoners; his simple rule of interest being all
 comprised in the one golden sentence, ‘two-pence for every half-penny,’
 which greatly simplified the accounts, and which, as a familiar precept,
-more easily acquired and retained in the memory than any known rule
+more easily acquired and retained in the [[Memory|memory]] than any known rule
 of arithmetic, cannot be too strongly recommended to the notice of
 capitalists, both large and small, and more especially of money-brokers
 and bill-discounters. Indeed, to do these gentlemen justice, many of
 them are to this day in the frequent habit of adopting it, with eminent
-success.
+[[success]].
 
-In like manner, did young Ralph Nickleby avoid all those minute and
+In like manner, did young [[Ralph Nickleby]] avoid all those minute and
 intricate calculations of odd days, which nobody who has worked sums
 in simple-interest can fail to have found most embarrassing, by
 establishing the one general rule that all sums of principal and
@@ -140,18 +140,18 @@ rather more for one day than for five, inasmuch as the borrower might
 in the former case be very fairly presumed to be in great extremity,
 otherwise he would not borrow at all with such odds against him. This
 fact is interesting, as illustrating the secret connection and sympathy
-which always exist between great minds. Though Master Ralph Nickleby was
-not at that time aware of it, the class of gentlemen before alluded to,
+which always exist between great minds. Though Master [[Ralph Nickleby]] was
+not at that [[Time|time]] aware of it, the class of gentlemen before alluded to,
 proceed on just the same principle in all their transactions.
 
 From what we have said of this young gentleman, and the natural
 admiration the reader will immediately conceive of his character, it may
-perhaps be inferred that he is to be the hero of the work which we shall
+perhaps be inferred that he is to be the [[Hero|hero]] of the work which we shall
 presently begin. To set this point at rest, for once and for ever, we
 hasten to undeceive them, and stride to its commencement.
 
-On the death of his father, Ralph Nickleby, who had been some time
-before placed in a mercantile house in London, applied himself
+On the [[Death|death]] of his father, [[Ralph Nickleby]], who had been some [[Time|time]]
+before placed in a mercantile [[house]] in [[London]], applied himself
 passionately to his old pursuit of money-getting, in which he speedily
 became so buried and absorbed, that he quite forgot his brother for many
 years; and if, at times, a recollection of his old playfellow broke
@@ -159,11 +159,11 @@ upon him through the haze in which he lived--for gold conjures up a mist
 about a man, more destructive of all his old senses and lulling to
 his feelings than the fumes of charcoal--it brought along with it a
 companion thought, that if they were intimate he would want to borrow
-money of him. So, Mr. Ralph Nickleby shrugged his shoulders, and said
+money of him. So, Mr. [[Ralph Nickleby]] shrugged his shoulders, and said
 things were better as they were.
 
 As for Nicholas, he lived a single man on the patrimonial estate until
-he grew tired of living alone, and then he took to wife the daughter of
+he grew tired of living [[Alone|alone]], and then he took to wife the daughter of
 a neighbouring gentleman with a dower of one thousand pounds. This good
 lady bore him two children, a son and a daughter, and when the son
 was about nineteen, and the daughter fourteen, as near as we can
@@ -171,23 +171,23 @@ guess--impartial records of young ladies’ ages being, before the passing
 of the new act, nowhere preserved in the registries of this country--Mr
 Nickleby looked about him for the means of repairing his capital, now
 sadly reduced by this increase in his family, and the expenses of their
-education.
+[[Education|education]].
 
 ‘Speculate with it,’ said Mrs. Nickleby.
 
-‘Spec--u--late, my dear?’ said Mr. Nickleby, as though in doubt.
+‘Spec--u--late, my dear?’ said Mr. Nickleby, as though in [[Doubt|doubt]].
 
 ‘Why not?’ asked Mrs. Nickleby.
 
 ‘Because, my dear, if we SHOULD lose it,’ rejoined Mr. Nickleby, who
-was a slow and time-taking speaker, ‘if we SHOULD lose it, we shall no
+was a slow and [[Time|time]]-taking speaker, ‘if we SHOULD lose it, we shall no
 longer be able to live, my dear.’
 
 ‘Fiddle,’ said Mrs. Nickleby.
 
 ‘I am not altogether sure of that, my dear,’ said Mr. Nickleby.
 
-‘There’s Nicholas,’ pursued the lady, ‘quite a young man--it’s time he
+‘There’s Nicholas,’ pursued the lady, ‘quite a young man--it’s [[Time|time]] he
 was in the way of doing something for himself; and Kate too, poor girl,
 without a penny in the world. Think of your brother! Would he be what he
 is, if he hadn’t speculated?’
@@ -201,7 +201,7 @@ of luck went against Mr. Nickleby. A mania prevailed, a bubble burst,
 four stock-brokers took villa residences at Florence, four hundred
 nobodies were ruined, and among them Mr. Nickleby.
 
-‘The very house I live in,’ sighed the poor gentleman, ‘may be taken
+‘The very [[house]] I live in,’ sighed the poor gentleman, ‘may be taken
 from me tomorrow. Not an article of my old furniture, but will be sold
 to strangers!’
 
@@ -210,11 +210,11 @@ apparently resolved to keep that, at all events.
 
 ‘Cheer up, sir!’ said the apothecary.
 
-‘You mustn’t let yourself be cast down, sir,’ said the nurse.
+‘You mustn’t let yourself be cast down, sir,’ said the [[Nurse|nurse]].
 
 ‘Such things happen every day,’ remarked the lawyer.
 
-‘And it is very sinful to rebel against them,’ whispered the clergyman.
+‘And it is very sinful to [[Rebel|rebel]] against them,’ whispered the clergyman.
 
 ‘And what no man with a family ought to do,’ added the neighbours.
 
@@ -222,7 +222,7 @@ Mr. Nickleby shook his head, and motioning them all out of the room,
 embraced his wife and children, and having pressed them by turns to
 his languidly beating heart, sunk exhausted on his pillow. They were
 concerned to find that his reason went astray after this; for he
-babbled, for a long time, about the generosity and goodness of his
+babbled, for a long [[Time|time]], about the generosity and goodness of his
 brother, and the merry old times when they were at school together.
 This fit of wandering past, he solemnly commended them to One who never
 deserted the widow or her fatherless children, and, smiling gently on

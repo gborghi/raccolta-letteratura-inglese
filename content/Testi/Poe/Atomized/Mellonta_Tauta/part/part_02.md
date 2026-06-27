@@ -1,5 +1,5 @@
 ---
-title: "Mellonta Tauta (part 2)"
+title: "[[Mellonta Tauta]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mellonta-Tauta-(Poe)"
@@ -18,7 +18,7 @@ tags:
 
       section of floating telegraph wires. I learn that when this
 
-      species of telegraph was first put into operation by Horse, it
+      species of telegraph was first put into operation by [[Horse]], it
 
       was considered quite impossible to convey the wires over sea, but
 
@@ -38,7 +38,7 @@ tags:
 
       Ayesher. Is it not truly remarkable that, before the magnificent
 
-      light shed upon philosophy by Humanity, the world was accustomed
+      light shed upon [[philosophy]] by Humanity, the world was accustomed
 
       to regard War and Pestilence as calamities? Do you know that
 
@@ -106,9 +106,9 @@ tags:
 
       the people of the singular fancy that there existed but two
 
-      possible roads for the attainment of Truth! Believe it if you
+      possible roads for the attainment of [[Truth]]! Believe it if you
 
-      can! It appears that long, long ago, in the night of Time, there
+      can! It appears that long, long ago, in the [[Night|night]] of [[Time]], there
 
       lived a Turkish philosopher (or Hindoo possibly) called Aries
 
@@ -116,11 +116,11 @@ tags:
 
       was termed the deductive or a priori mode of investigation. He
 
-      started with what he maintained to be axioms or “self-evident
+      started with what he maintained to be axioms or “[[Self|self]]-evident
 
       truths,” and thence proceeded “logically” to results. His
 
-      greatest disciples were one Neuclid, and one Cant. Well, Aries
+      greatest disciples were one Neuclid, and one Cant. [[Well]], Aries
 
       Tottle flourished supreme until advent of one Hog, surnamed the
 
@@ -134,13 +134,13 @@ tags:
 
       called—into general laws. Aries Tottle’s mode, in a word, was
 
-      based on noumena; Hog’s on phenomena. Well, so great was the
+      based on noumena; Hog’s on phenomena. [[Well]], so great was the
 
       admiration excited by this latter system that, at its first
 
       introduction, Aries Tottle fell into disrepute; but finally he
 
-      recovered ground and was permitted to divide the realm of Truth
+      recovered ground and was permitted to divide the realm of [[Truth]]
 
       with his more modern rival. The savans now maintained the
 
@@ -168,13 +168,13 @@ tags:
 
       especially, that a virtual end was put to all thinking, properly
 
-      so called. No man dared utter a truth to which he felt himself
+      so called. No man dared utter a [[Truth|truth]] to which he felt himself
 
-      indebted to his Soul alone. It mattered not whether the truth was
+      indebted to his [[Soul]] [[Alone|alone]]. It mattered not whether the [[Truth|truth]] was
 
-      even demonstrably a truth, for the bullet-headed savans of the
+      even demonstrably a [[Truth|truth]], for the bullet-headed savans of the
 
-      time regarded only the road by which he had attained it. They
+      [[Time|time]] regarded only the [[Road|road]] by which he had attained it. They
 
       would not even look at the end. “Let us see the means,” they
 
@@ -184,12 +184,12 @@ tags:
 
       Ram) nor under the category Hog, why then the savans went no
 
-      farther, but pronounced the “theorist” a fool, and would have
+      farther, but pronounced the “theorist” a [[Fool|fool]], and would have
 
-      nothing to do with him or his truth.
+      nothing to do with him or his [[Truth|truth]].
 
 
 
       Now, it cannot be maintained, even, that by the crawling system
 
-      the greatest amount of truth would be attained in any long series
+      the greatest amount of [[Truth|truth]] would be attained in any long series

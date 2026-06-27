@@ -24,7 +24,7 @@ CHAPTER 17
 
       search for Glass’s islands, without meeting with any ice at all.
 
-      On the twenty-sixth, at noon, we were in latitude 63 degrees 23’
+      On the twenty-sixth, at [[Noon|noon]], we were in latitude 63 degrees 23’
 
       S., longitude 41 degrees 25’ W. We now saw several large ice
 
@@ -32,11 +32,11 @@ CHAPTER 17
 
       extent. The winds generally blew from the southeast, or the
 
-      northeast, but were very light. Whenever we had a westerly wind,
+      northeast, but were very light. Whenever we had a westerly [[Wind|wind]],
 
       which was seldom, it was invariably attended with a rain squall.
 
-      Every day we had more or less snow. The thermometer, on the
+      Every day we had more or less [[Snow|snow]]. The thermometer, on the
 
       twenty-seventh stood at thirty-five.
 
@@ -58,7 +58,7 @@ CHAPTER 17
 
       sail to force a passage through the smaller flakes into some open
 
-      water beyond. As we approached this space we took in sail by
+      [[Water|water]] beyond. As we approached this space we took in sail by
 
       degrees, and having at length got clear, lay-to under a single
 
@@ -66,7 +66,7 @@ CHAPTER 17
 
 
 
-      January 2.—We had now tolerably pleasant weather. At noon we
+      January 2.—We had now tolerably pleasant weather. At [[Noon|noon]] we
 
       found ourselves in latitude 69 degrees 10’ S, longitude 42
 
@@ -96,7 +96,7 @@ CHAPTER 17
 
       to a stand by an immense expanse of firm ice. We saw,
 
-      nevertheless, much open water to the southward, and felt no doubt
+      nevertheless, much open [[Water|water]] to the southward, and felt no [[Doubt|doubt]]
 
       of being able to reach it eventually. Standing to the eastward
 
@@ -108,7 +108,7 @@ CHAPTER 17
 
       ice islands, but had no field ice, and we pushed on boldly as
 
-      before. The cold did not seem to increase, although we had snow
+      before. The cold did not seem to increase, although we had [[Snow|snow]]
 
       very frequently, and now and then hail squalls of great violence.
 
@@ -118,7 +118,7 @@ CHAPTER 17
 
 
 
-      January 7.—The sea still remained pretty well open, so that we
+      January 7.—The sea still remained pretty [[Well|well]] open, so that we
 
       had no difficulty in holding on our course. To the westward we
 
@@ -130,7 +130,7 @@ CHAPTER 17
 
       probably, at the base, three-quarters of a league, and several
 
-      streams of water were running from crevices in its sides. We
+      streams of [[Water|water]] were running from crevices in its sides. We
 
       remained in sight of this island two days, and then only lost it
 
@@ -142,11 +142,11 @@ CHAPTER 17
 
       man overboard. He was an American named Peter Vredenburgh, a
 
-      native of New York, and was one of the most valuable hands on
+      native of [[New York]], and was one of the most valuable hands on
 
       board the schooner. In going over the bows his foot slipped, and
 
-      he fell between two cakes of ice, never rising again. At noon of
+      he fell between two cakes of ice, never rising again. At [[Noon|noon]] of
 
       this day we were in latitude 78 degrees 30’, longitude 40 degrees
 
@@ -160,7 +160,7 @@ CHAPTER 17
 
       in tiers, one mass above the other. Some driftwood floated by
 
-      during the evening, and a great quantity of birds flew over,
+      during the evening, and a great quantity of [[Birds|birds]] flew over,
 
       among which were nellies, peterels, albatrosses, and a large bird
 
@@ -176,11 +176,11 @@ CHAPTER 17
 
       nothing was to be seen in the direction of the pole but one
 
-      apparently limitless floe, backed by absolute mountains of ragged
+      apparently limitless floe, backed by absolute [[Mountains|mountains]] of ragged
 
       ice, one precipice of which arose frowningly above the other. We
 
-      stood to the westward until the fourteenth, in the hope of
+      stood to the westward until the fourteenth, in the [[Hope|hope]] of
 
       finding an entrance.
 
@@ -196,11 +196,11 @@ CHAPTER 17
 
       of half a mile per hour. The temperature of the air was
 
-      forty-seven, that of the water thirty-four. We now sailed to the
+      forty-seven, that of the [[Water|water]] thirty-four. We now sailed to the
 
       southward without meeting any interruption of moment until the
 
-      sixteenth, when, at noon, we were in latitude 81 degrees 21’,
+      sixteenth, when, at [[Noon|noon]], we were in latitude 81 degrees 21’,
 
       longitude 42 degrees W. We here again sounded, and found a
 

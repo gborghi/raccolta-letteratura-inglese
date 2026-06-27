@@ -15,11 +15,11 @@ tags:
 
 
 ‘If I understand this girl, sir, your dangerous fascinations have
-produced some effect upon her. I mention the conquest in good time
+produced some effect upon her. I mention the conquest in good [[Time|time]]
 because I apprehend your scheme to be more important to you than your
-vanity.’
+[[Vanity|vanity]].’
 
-There was a mirror on the wall before them, and her eyes just caught
+There was a [[Mirror|mirror]] on the wall before them, and her eyes just caught
 him smirking in it. She gave the reflected image a look of the deepest
 disdain, and the image received it in the glass. Next moment they
 quietly eyed each other, as if they, the principals, had had no part in
@@ -36,7 +36,7 @@ who have once established an understanding, may not be over-fond of
 repeating the terms and objects of their conspiracy. Next day came; came
 Georgiana; and came Fledgeby.
 
-Georgiana had by this time seen a good deal of the house and its
+Georgiana had by this [[Time|time]] seen a good deal of the [[house]] and its
 frequenters. As there was a certain handsome room with a billiard table
 in it—on the ground floor, eating out a backyard—which might have
 been Mr Lammle’s office, or library, but was called by neither name, but
@@ -53,7 +53,7 @@ and in rushes and snatches. There were friends who seemed to be always
 coming and going across the Channel, on errands about the Bourse, and
 Greek and Spanish and India and Mexican and par and premium and discount
 and three quarters and seven eighths. There were other friends who
-seemed to be always lolling and lounging in and out of the City, on
+seemed to be always lolling and lounging in and out of the [[City]], on
 questions of the Bourse, and Greek and Spanish and India and Mexican and
 par and premium and discount and three quarters and seven eighths. They
 were all feverish, boastful, and indefinably loose; and they all ate and
@@ -75,22 +75,22 @@ short of the gentleman point.
 Young Fledgeby was none of these. Young Fledgeby had a peachy cheek,
 or a cheek compounded of the peach and the red red red wall on which
 it grows, and was an awkward, sandy-haired, small-eyed youth, exceeding
-slim (his enemies would have said lanky), and prone to self-examination
+slim (his enemies would have said lanky), and prone to [[Self|self]]-examination
 in the articles of whisker and moustache. While feeling for the whisker
 that he anxiously expected, Fledgeby underwent remarkable fluctuations
-of spirits, ranging along the whole scale from confidence to despair.
+of spirits, ranging along the whole scale from confidence to [[Despair|despair]].
 There were times when he started, as exclaiming ‘By Jupiter here it is
 at last!’ There were other times when, being equally depressed, he would
-be seen to shake his head, and give up hope. To see him at those periods
+be seen to shake his head, and give up [[Hope|hope]]. To see him at those periods
 leaning on a chimneypiece, like as on an urn containing the ashes of his
-ambition, with the cheek that would not sprout, upon the hand on which
+[[Ambition|ambition]], with the cheek that would not sprout, upon the hand on which
 that cheek had forced conviction, was a distressing sight.
 
 Not so was Fledgeby seen on this occasion. Arrayed in superb raiment,
-with his opera hat under his arm, he concluded his self-examination
+with his opera hat under his arm, he concluded his [[Self|self]]-examination
 hopefully, awaited the arrival of Miss Podsnap, and talked small-talk
 with Mrs Lammle. In facetious homage to the smallness of his talk, and
-the jerky nature of his manners, Fledgeby’s familiars had agreed to
+the jerky [[Nature|nature]] of his manners, Fledgeby’s familiars had agreed to
 confer upon him (behind his back) the honorary title of Fascination
 Fledgeby.
 

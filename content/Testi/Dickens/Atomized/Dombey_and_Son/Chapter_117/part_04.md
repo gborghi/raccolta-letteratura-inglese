@@ -33,7 +33,7 @@ and that we are a careless family—and also that my aunt, though a
 devilish lively woman, had perhaps not been the very best of mothers—I
 took the liberty of seeking her in France, and offering her such
 protection as a man very much out at elbows could offer. Upon which
-occasion, my lovely and accomplished relative did me the honour to
+occasion, my lovely and accomplished relative did me the [[Honour|honour]] to
 express that she believed I was, in my way, a devilish good sort of
 fellow; and that therefore she put herself under my protection. Which
 in point of fact I understood to be a kind thing on the part of my
@@ -57,8 +57,8 @@ But, observing lately, that her accessible point did appear to be a
 very strong description of tenderness for the daughter of my friend
 Dombey, it occurred to me that if I could bring about a meeting,
 unexpected on both sides, it might lead to beneficial results.
-Therefore, we being in London, in the present private way, before going
-to the South of Italy, there to establish ourselves, in point of fact,
+Therefore, we being in [[London]], in the present private way, before going
+to the South of [[Italy]], there to establish ourselves, in point of fact,
 until we go to our long homes, which is a devilish disagreeable
 reflection for a man, I applied myself to the discovery of the
 residence of my friend Gay—handsome man of an uncommonly frank
@@ -68,21 +68,21 @@ present place. And now,” said Cousin Feenix, with a real and genuine
 earnestness shining through the levity of his manner and his slipshod
 speech, “I do conjure my relative, not to stop half way, but to set
 right, as far as she can, whatever she has done wrong—not for the
-honour of her family, not for her own fame, not for any of those
+[[Honour|honour]] of her family, not for her own fame, not for any of those
 considerations which unfortunate circumstances have induced her to
 regard as hollow, and in point of fact, as approaching to humbug—but
 because it is wrong, and not right.”
 
 Cousin Feenix’s legs consented to take him away after this; and leaving
-them alone together, he shut the door.
+them [[Alone|alone]] together, he shut the door.
 
 Edith remained silent for some minutes, with Florence sitting close
 beside her. Then she took from her bosom a sealed paper.
 
-“I debated with myself a long time,” she said in a low voice, “whether
+“I debated with myself a long [[Time|time]],” she said in a low voice, “whether
 to write this at all, in case of dying suddenly or by accident, and
 feeling the want of it upon me. I have deliberated, ever since, when
-and how to destroy it. Take it, Florence. The truth is written in it.”
+and how to destroy it. Take it, Florence. The [[Truth|truth]] is written in it.”
 
 “Is it for Papa?” asked Florence.
 
@@ -92,7 +92,7 @@ obtained by you. He never could have had it otherwise.”
 Again they sat silent, in the deepening darkness.
 
 “Mama,” said Florence, “he has lost his fortune; he has been at the
-point of death; he may not recover, even now. Is there any word that I
+point of [[Death|death]]; he may not recover, even now. Is there any word that I
 shall say to him from you?”
 
 “Did you tell me,” asked Edith, “that you were very dear to him?”
@@ -120,19 +120,19 @@ afflictions he has suffered?”
 dear to him. He will not grieve for them himself, one day, if they have
 brought that lesson, Florence.”
 
-“You wish well to him, and would have him happy. I am sure you would!”
+“You wish [[Well|well]] to him, and would have him happy. I am sure you would!”
 said Florence. “Oh! let me be able, if I have the occasion at some
-future time, to say so?”
+future [[Time|time]], to say so?”
 
 Edith sat with her dark eyes gazing steadfastly before her, and did not
 reply until Florence had repeated her entreaty; when she drew her hand
-within her arm, and said, with the same thoughtful gaze upon the night
+within her arm, and said, with the same thoughtful gaze upon the [[Night|night]]
 outside:
 
 “Tell him that if, in his own present, he can find any reason to
 compassionate my past, I sent word that I asked him to do so. Tell him
 that if, in his own present, he can find a reason to think less
 bitterly of me, I asked him to do so. Tell him, that, dead as we are to
-one another, never more to meet on this side of eternity, he knows
+one another, never more to meet on this side of [[Eternity|eternity]], he knows
 there is one feeling in common between us now, that there never was
 before.”

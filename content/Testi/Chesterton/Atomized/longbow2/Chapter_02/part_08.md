@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 2 (part 8)"
+title: "[[longbow2]] — Chapter 2 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -18,7 +18,7 @@ tags:
 "No good going down The Hole and those filthy places.  No vote there. 
 Streets ought to be abolished and the people too."
 
-"Well, we've had a very good meeting in the Masonic Hall,"
+"[[Well]], we've had a very good meeting in the Masonic Hall,"
 said the agent cheerfully.  "Lord Normantowers spoke, and really
 he got through all right.  Told some stories, you know; and they
 stood it capitally."
@@ -30,11 +30,11 @@ convivial manner, "what about this torchlight procession?"
 
 "Do you mean to tell me," said Hood sternly, "that arrangements
 are not complete for the torchlight procession of Dr. Hunter? 
-That you are going to let this night of triumph pass without
+That you are going to let this [[Night|night]] of triumph pass without
 kindling a hundred flames to light the path of the conqueror? 
 Do you realize that the hearts of a whole people have spontaneously
-stirred and chosen him?  That the suffering poor murmured in their
-sleep `Vote for Hunter' long before the Caucus came by a providential
+stirred and chosen him?  That the [[Suffering|suffering]] poor murmured in their
+[[Sleep|sleep]] `Vote for Hunter' long before the Caucus came by a providential
 coincidence to the same conclusion?  Would not the people in The Hole
 set fire to their last poor sticks of furniture to do him honour? 
 Why, from this chair alone--"
@@ -62,7 +62,7 @@ in water-colour; never was that water-colour so luminous or so
 delicate as when dedicated to these holy waters.  It was in such
 a scene that one of the most exquisite of our elder poets repeated
 as a burden to his meditations the single line, `Sweet Thames,
-run softly till I end my song.'
+run softly till I end my [[Song|song]].'
 
 "Rumours have been heard of some intention to trouble these waters;
 but we have been amply reassured.  Names that now stand as high
@@ -71,34 +71,34 @@ the stream is still as clear and pure and beneficent as of old.
 We all know the beautiful work that Mr. Bulton has done in the matter
 of filters.  Dr. Hunter supports Mr. Bulton.  I mean Mr. Bulton
 supports Dr. Hunter.  I may also mention no less a man than Mr. Low. 
-Sweet Thames, run softly till I end my song.
+Sweet Thames, run softly till I end my [[Song|song]].
 
 "But then, for that matter, we all support Dr. Hunter.  I myself have
 always found him quite supportable; I should say quite satisfactory. 
 He is truly a progressive, and nothing gives me greater pleasure
-than to watch him progress.  As somebody said, I lie awake at night,
-and in the silence of the whole universe, I seem to hear him climbing,
+than to watch him progress.  As somebody said, I lie awake at [[Night|night]],
+and in the [[Silence|silence]] of the whole universe, I seem to hear him climbing,
 climbing, climbing.  All the numerous patients among whom he has
 laboured so successfully in this locality will join in a heartfelt
 expression of joy if he passes to the higher world of Westminster. 
 I trust I shall not be misunderstood.  Sweet Thames, run softly till
-I end my song.
+I end my [[Song|song]].
 
-"My only purpose to-night is to express that unanimity.  There may
+"My only purpose to-[[Night|night]] is to express that unanimity.  There may
 have been times when I differed from Dr. Hunter; but I am glad
 to say that all that is passed, and I have now nothing but the most
 friendly feelings towards him, for reasons which I will not mention,
-though I have plenty to say.  In token of this reconciliation
+though I have plenty to say.  In token of this [[Reconciliation|reconciliation]]
 I here solemnly cast from me this torch.  As that firebrand
 is quenched in the cool crystal waters of that sacred stream,
 so shall all such feuds perish in the heating pool of universal peace."
 
-Before anybody knew what he was doing, he had whirled his flambeau
-in a flaming wheel round his head and sent it flying like a meteor
-out into the dim eddies of the river.
+Before anybody knew what he was doing, he had whirled his [[Flambeau|flambeau]]
+in a flaming [[Wheel|wheel]] round his head and sent it flying like a meteor
+out into the dim eddies of the [[River|river]].
 
 The next moment a short, sharp cry was uttered, and every face in that
-crowd was staring at the river.  All the faces were visibly staring,
+crowd was staring at the [[River|river]].  All the faces were visibly staring,
 for they were all lit up as by a ghastly firelight by a wide wan
 unnatural flame that leapt up from the very surface of the stream;
 a flame that the crowd watched as it might have watched a comet.
@@ -114,11 +114,11 @@ Is he something like Old Moore?"
 It's what he said that's so important.  He didn't like my moping
 about with books and a fishing-rod, and he said, standing on that
 very island, `You may know a lot; but I don't think you'll ever set
-the Thames on fire.  I'll eat my hat if you do.'"
+the Thames on [[Fire|fire]].  I'll eat my hat if you do.'"
 
 But the story of how Old Crane ate his hat is one upon which some readers
-at least can look back as on labour and suffering bravely endured. 
-And if it be possible for any of them to desire to know any more
+at least can look back as on labour and [[Suffering|suffering]] bravely endured. 
+And if it be possible for any of them to [[Desire|desire]] to know any more
 either about Mr. Crane or Mr. Hood, then they must gird themselves
 for the ordeal of reading the story of The Unobtrusive Traffic
-of Captain Pierce, and their trials are for a time deferred.
+of Captain Pierce, and their trials are for a [[Time|time]] deferred.

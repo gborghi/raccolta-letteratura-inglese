@@ -27,13 +27,13 @@ the demeanour of the Golden Dustman were generally unclouded at that
 meal. It would have been easy to believe then, that there was no change
 in him. It was as the day went on that the clouds gathered, and the
 brightness of the morning became obscured. One might have said that the
-shadows of avarice and distrust lengthened as his own shadow lengthened,
-and that the night closed around him gradually.
+shadows of avarice and distrust lengthened as his own [[Shadow|shadow]] lengthened,
+and that the [[Night|night]] closed around him gradually.
 
 But, one morning long afterwards to be remembered, it was black midnight
 with the Golden Dustman when he first appeared. His altered character
 had never been so grossly marked. His bearing towards his Secretary was
-so charged with insolent distrust and arrogance, that the latter rose
+so charged with insolent distrust and arrogance, that the latter [[Rose|rose]]
 and left the table before breakfast was half done. The look he directed
 at the Secretary’s retiring figure was so cunningly malignant, that
 Bella would have sat astounded and indignant, even though he had not
@@ -43,14 +43,14 @@ year, was the morning next after Mr Boffin’s interview with Mrs Lammle
 in her little carriage.
 
 Bella looked to Mrs Boffin’s face for comment on, or explanation of,
-this stormy humour in her husband, but none was there. An anxious and
+this stormy [[Humour|humour]] in her husband, but none was there. An anxious and
 a distressed observation of her own face was all she could read in it.
-When they were left alone together—which was not until noon, for Mr
+When they were left [[Alone|alone]] together—which was not until [[Noon|noon]], for Mr
 Boffin sat long in his easy-chair, by turns jogging up and down
 the breakfast-room, clenching his fist and muttering—Bella, in
 consternation, asked her what had happened, what was wrong? ‘I am
 forbidden to speak to you about it, Bella dear; I mustn’t tell you,’
-was all the answer she could get. And still, whenever, in her wonder and
+was all the answer she could get. And still, whenever, in her [[Wonder|wonder]] and
 dismay, she raised her eyes to Mrs Boffin’s face, she saw in it the same
 anxious and distressed observation of her own.
 
@@ -91,7 +91,7 @@ I would rather not hear.’
 ‘Oh! Perhaps we shall change that,’ said Mr Boffin with a threatening
 roll of his head.
 
-‘I hope so,’ returned the Secretary. He was quiet and respectful; but
+‘I [[Hope|hope]] so,’ returned the Secretary. He was quiet and respectful; but
 stood, as Bella thought (and was glad to think), on his manhood too.
 
 ‘Now, sir,’ said Mr Boffin, ‘look at this young lady on my arm.’
@@ -112,7 +112,7 @@ reproach in it. But it is possible that the reproach was within herself.
 
 ‘How dare you, sir,’ said Mr Boffin, ‘tamper, unknown to me, with this
 young lady? How dare you come out of your station, and your place in my
-house, to pester this young lady with your impudent addresses?’
+[[house]], to pester this young lady with your impudent addresses?’
 
 ‘I must decline to answer questions,’ said the Secretary, ‘that are so
 offensively asked.’

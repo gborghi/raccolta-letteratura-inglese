@@ -21,13 +21,13 @@ importance in his manner, which clearly showed that he fancied he had
 discovered something, which he only wanted a proper opportunity of
 divulging. He found it at last.
 
-One evening, the different inmates of the house were assembled in the
+One evening, the different inmates of the [[house]] were assembled in the
 drawing-room engaged in their ordinary occupations. Mr. Gobler and Mrs.
-Bloss were sitting at a small card-table near the centre window,
+Bloss were sitting at a small card-table near the centre [[Window|window]],
 playing cribbage; Mr. Wisbottle was describing semicircles on the
-music-stool, turning over the leaves of a book on the piano, and
+music-stool, turning over the [[Leaves|leaves]] of a book on the piano, and
 humming most melodiously; Alfred Tomkins was sitting at the round
-table, with his elbows duly squared, making a pencil sketch of a head
+table, with his elbows duly squared, making a pencil [[Sketch|sketch]] of a head
 considerably larger than his own; O’Bleary was reading Horace, and
 trying to look as if he understood it; and John Evenson had drawn his
 chair close to Mrs. Tibbs’s work-table, and was talking to her very
@@ -36,10 +36,10 @@ earnestly in a low tone.
 ‘I can assure you, Mrs. Tibbs,’ said the radical, laying his forefinger
 on the muslin she was at work on; ‘I can assure you, Mrs. Tibbs, that
 nothing but the interest I take in your welfare would induce me to make
-this communication. I repeat, I fear Wisbottle is endeavouring to gain
+this communication. I repeat, I [[Fear|fear]] Wisbottle is endeavouring to gain
 the affections of that young woman, Agnes, and that he is in the habit
 of meeting her in the store-room on the first floor, over the leads.
-From my bedroom I distinctly heard voices there, last night. I opened
+From my bedroom I distinctly heard voices there, last [[Night|night]]. I opened
 my door immediately, and crept very softly on to the landing; there I
 saw Mr. Tibbs, who, it seems, had been disturbed also.—Bless me, Mrs.
 Tibbs, you change colour!’
@@ -51,7 +51,7 @@ the heat of the room.’
 four.’
 
 ‘If I thought it was Mr. Wisbottle,’ said Mrs. Tibbs, after a pause,
-‘he should leave this house instantly.’
+‘he should leave this [[house]] instantly.’
 
 ‘Go!’ said Mrs. Bloss again.
 
@@ -61,7 +61,7 @@ four.’
 ‘One for his nob!’ said Gobler.
 
 ‘Oh,’ said Evenson, in a most soothing tone—he liked to make
-mischief—‘I should hope Mr. Tibbs was not in any way implicated. He
+mischief—‘I should [[Hope|hope]] Mr. Tibbs was not in any way implicated. He
 always appeared to me very harmless.’
 
 ‘I have generally found him so,’ sobbed poor little Mrs. Tibbs; crying
@@ -72,21 +72,21 @@ don’t!’ said John Evenson, fearing his whole plan would be interrupted.
 ‘We will set the matter at rest with the utmost care, and I shall be
 most happy to assist you in doing so.’ Mrs. Tibbs murmured her thanks.
 
-‘When you think every one has retired to rest to-night,’ said Evenson
+‘When you think every one has retired to rest to-[[Night|night]],’ said Evenson
 very pompously, ‘if you’ll meet me without a light, just outside my
-bedroom door, by the staircase window, I think we can ascertain who the
+bedroom door, by the staircase [[Window|window]], I think we can ascertain who the
 parties really are, and you will afterwards be enabled to proceed as
 you think proper.’
 
 Mrs. Tibbs was easily persuaded; her curiosity was excited, her
-jealousy was roused, and the arrangement was forthwith made. She
+[[Jealousy|jealousy]] was roused, and the arrangement was forthwith made. She
 resumed her work, and John Evenson walked up and down the room with his
 hands in his pockets, looking as if nothing had happened. The game of
 cribbage was over, and conversation began again.
 
-‘Well, Mr. O’Bleary,’ said the humming-top, turning round on his pivot,
+‘[[Well]], Mr. O’Bleary,’ said the humming-top, turning round on his pivot,
 and facing the company, ‘what did you think of Vauxhall the other
-night?’
+[[Night|night]]?’
 
 ‘Oh, it’s very fair,’ replied Orson, who had been enthusiastically
 delighted with the whole exhibition.
@@ -101,15 +101,15 @@ said Wisbottle; ‘they appeared much delighted.’
 
 ‘Then it _must_ be beautiful,’ snarled Evenson.
 
-‘I think the white bears is partickerlerly well done,’ suggested Mrs.
+‘I think the white bears is partickerlerly [[Well|well]] done,’ suggested Mrs.
 Bloss. ‘In their shaggy white coats, they look just like Polar
 bears—don’t you think they do, Mr. Evenson?’
 
 ‘I think they look a great deal more like omnibus cads on all fours,’
 replied the discontented one.
 
-‘Upon the whole, I should have liked our evening very well,’ gasped
-Gobler; ‘only I caught a desperate cold which increased my pain
+‘Upon the whole, I should have liked our evening very [[Well|well]],’ gasped
+Gobler; ‘only I caught a desperate cold which increased my [[Pain|pain]]
 dreadfully! I was obliged to have several shower-baths, before I could
 leave my room.’
 
@@ -129,27 +129,27 @@ they have saved by promoting perspiration.’
 
 ‘Promoting perspiration, indeed,’ growled John Evenson, stopping short
 in his walk across the large squares in the pattern of the carpet—‘I
-was ass enough to be persuaded some time ago to have one in my bedroom.
+was ass enough to be persuaded some [[Time|time]] ago to have one in my bedroom.
 ‘Gad, I was in it once, and it effectually cured _me_, for the mere
 sight of it threw me into a profuse perspiration for six months
 afterwards.’
 
 A titter followed this announcement, and before it had subsided James
-brought up ‘the tray,’ containing the remains of a leg of lamb which
-had made its _début_ at dinner; bread; cheese; an atom of butter in a
+brought up ‘the tray,’ containing the remains of a leg of [[Lamb|lamb]] which
+had made its _début_ at dinner; bread; [[cheese]]; an atom of butter in a
 forest of parsley; one pickled walnut and the third of another; and so
 forth. The boy disappeared, and returned again with another tray,
-containing glasses and jugs of hot and cold water. The gentlemen
+containing glasses and jugs of hot and cold [[Water|water]]. The gentlemen
 brought in their spirit-bottles; the housemaid placed divers plated
 bedroom candlesticks under the card-table; and the servants retired for
-the night.
+the [[Night|night]].
 
 Chairs were drawn round the table, and the conversation proceeded in
 the customary manner. John Evenson, who never ate supper, lolled on the
 sofa, and amused himself by contradicting everybody. O’Bleary ate as
 much as he could conveniently carry, and Mrs. Tibbs felt a due degree
 of indignation thereat; Mr. Gobler and Mrs. Bloss conversed most
-affectionately on the subject of pill-taking, and other innocent
+affectionately on the subject of pill-taking, and other [[Innocent|innocent]]
 amusements; and Tomkins and Wisbottle ‘got into an argument;’ that is
 to say, they both talked very loudly and vehemently, each flattering
 himself that he had got some advantage about something, and neither of

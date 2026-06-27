@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 1"
+title: "[[Sense and Sensibility]] — Chapter 1"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -34,11 +34,11 @@ man, who lived to a very advanced age, and who for many years of his
 
 life, had a constant companion and housekeeper in his sister. But her
 
-death, which happened ten years before his own, produced a great
+[[Death|death]], which happened ten years before his own, produced a great
 
-alteration in his home; for to supply her loss, he invited and received
+alteration in his [[Home|home]]; for to supply her loss, he invited and received
 
-into his house the family of his nephew Mr. Henry Dashwood, the legal
+into his [[house]] the family of his nephew Mr. Henry Dashwood, the legal
 
 inheritor of the Norland estate, and the person to whom he intended to
 
@@ -58,7 +58,7 @@ children added a relish to his existence.
 
 
 
-By a former marriage, Mr. Henry Dashwood had one son: by his present
+By a former [[Marriage|marriage]], Mr. Henry Dashwood had one son: by his present
 
 lady, three daughters. The son, a steady respectable young man, was
 
@@ -66,7 +66,7 @@ amply provided for by the fortune of his mother, which had been large,
 
 and half of which devolved on him on his coming of age. By his own
 
-marriage, likewise, which happened soon afterwards, he added to his
+[[Marriage|marriage]], likewise, which happened soon afterwards, he added to his
 
 wealth. To him therefore the succession to the Norland estate was not
 
@@ -80,7 +80,7 @@ father only seven thousand pounds in his own disposal; for the
 
 remaining moiety of his first wife’s fortune was also secured to her
 
-child, and he had only a life-interest in it.
+[[Child|child]], and he had only a life-interest in it.
 
 
 
@@ -96,7 +96,7 @@ bequest. Mr. Dashwood had wished for it more for the sake of his wife
 
 and daughters than for himself or his son;—but to his son, and his
 
-son’s son, a child of four years old, it was secured, in such a way, as
+son’s son, a [[Child|child]] of four years old, it was secured, in such a way, as
 
 to leave to himself no power of providing for those who were most dear
 
@@ -104,13 +104,13 @@ to him, and who most needed a provision by any charge on the estate, or
 
 by any sale of its valuable woods. The whole was tied up for the
 
-benefit of this child, who, in occasional visits with his father and
+benefit of this [[Child|child]], who, in occasional visits with his father and
 
 mother at Norland, had so far gained on the affections of his uncle, by
 
 such attractions as are by no means unusual in children of two or three
 
-years old; an imperfect articulation, an earnest desire of having his
+years old; an imperfect articulation, an earnest [[Desire|desire]] of having his
 
 own way, many cunning tricks, and a great deal of noise, as to outweigh
 
@@ -126,7 +126,7 @@ thousand pounds a-piece.
 
 Mr. Dashwood’s disappointment was, at first, severe; but his temper was
 
-cheerful and sanguine; and he might reasonably hope to live many years,
+cheerful and sanguine; and he might reasonably [[Hope|hope]] to live many years,
 
 and by living economically, lay by a considerable sum from the produce
 
@@ -152,9 +152,9 @@ could command, the interest of his mother-in-law and sisters.
 
 Mr. John Dashwood had not the strong feelings of the rest of the
 
-family; but he was affected by a recommendation of such a nature at
+family; but he was affected by a recommendation of such a [[Nature|nature]] at
 
-such a time, and he promised to do every thing in his power to make
+such a [[Time|time]], and he promised to do every thing in his power to make
 
 them comfortable. His father was rendered easy by such an assurance,
 
@@ -166,7 +166,7 @@ prudently be in his power to do for them.
 
 He was not an ill-disposed young man, unless to be rather cold hearted
 
-and rather selfish is to be ill-disposed: but he was, in general, well
+and rather selfish is to be ill-disposed: but he was, in general, [[Well|well]]
 
 respected; for he conducted himself with propriety in the discharge of
 
@@ -208,9 +208,9 @@ No sooner was his father’s funeral over, than Mrs. John Dashwood,
 
 without sending any notice of her intention to her mother-in-law,
 
-arrived with her child and their attendants. No one could dispute her
+arrived with her [[Child|child]] and their attendants. No one could dispute her
 
-right to come; the house was her husband’s from the moment of his
+right to come; the [[house]] was her husband’s from the moment of his
 
 father’s decease; but the indelicacy of her conduct was so much the
 
@@ -236,11 +236,11 @@ So acutely did Mrs. Dashwood feel this ungracious behaviour, and so
 
 earnestly did she despise her daughter-in-law for it, that, on the
 
-arrival of the latter, she would have quitted the house for ever, had
+arrival of the latter, she would have quitted the [[house]] for ever, had
 
 not the entreaty of her eldest girl induced her first to reflect on the
 
-propriety of going, and her own tender love for all her three children
+propriety of going, and her own tender [[Love|love]] for all her three children
 
 determined her afterwards to stay, and for their sakes avoid a breach
 
@@ -306,9 +306,9 @@ her to similar forbearance.
 
 
 
-Margaret, the other sister, was a good-humored, well-disposed girl; but
+Margaret, the other sister, was a good-humored, [[Well|well]]-disposed girl; but
 
-as she had already imbibed a good deal of Marianne’s romance, without
+as she had already imbibed a good deal of Marianne’s [[Romance|romance]], without
 
 having much of her sense, she did not, at thirteen, bid fair to equal
 

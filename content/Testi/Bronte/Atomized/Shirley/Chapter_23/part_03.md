@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 23 (part 3)"
+title: "[[Shirley]] — Chapter 23 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,7 +26,7 @@ tags:
 
 
 
-"I don't know; but I feel monotony and death to be almost the same."
+"I don't know; but I feel monotony and [[Death|death]] to be almost the same."
 
 
 
@@ -38,11 +38,11 @@ Here Jessie spoke.
 
 
 
-"But, Rose," pursued Caroline, "I fear a wanderer's life, for me at
+"But, [[Rose]]," pursued Caroline, "I [[Fear|fear]] a wanderer's life, for me at
 
 least, would end like that tale you are reading--in disappointment,
 
-vanity, and vexation of spirit."
+[[Vanity|vanity]], and vexation of spirit."
 
 
 
@@ -62,7 +62,7 @@ buried his talent in a napkin--despicable sluggard!"
 
 
 
-"Rose," observed Mrs. Yorke, "solid satisfaction is only to be realized
+"[[Rose]]," observed Mrs. Yorke, "solid satisfaction is only to be realized
 
 by doing one's duty."
 
@@ -70,7 +70,7 @@ by doing one's duty."
 
 "Right, mother! And if my Master has given me ten talents, my duty is to
 
-trade with them, and make them ten talents more. Not in the dust of
+trade with them, and make them ten talents more. Not in the [[Dust|dust]] of
 
 household drawers shall the coin be interred. I will _not_ deposit it in
 
@@ -78,7 +78,7 @@ a broken-spouted teapot, and shut it up in a china closet among
 
 tea-things. I will _not_ commit it to your work-table to be smothered in
 
-piles of woollen hose. I will _not_ prison it in the linen press to find
+piles of woollen hose. I will _not_ [[Prison|prison]] it in the linen press to find
 
 shrouds among the sheets. And least of all, mother" (she got up from the
 
@@ -92,11 +92,11 @@ larder."
 
 She stopped, then went on, "Mother, the Lord who gave each of us our
 
-talents will come home some day, and will demand from all an account.
+talents will come [[Home|home]] some day, and will demand from all an account.
 
 The teapot, the old stocking-foot, the linen rag, the willow-pattern
 
-tureen will yield up their barren deposit in many a house. Suffer your
+tureen will yield up their barren deposit in many a [[house]]. Suffer your
 
 daughters, at least, to put their money to the exchangers, that they may
 
@@ -104,7 +104,7 @@ be enabled at the Master's coming to pay Him His own with usury."
 
 
 
-"Rose, did you bring your sampler with you, as I told you?"
+"[[Rose]], did you bring your sampler with you, as I told you?"
 
 
 
@@ -116,7 +116,7 @@ be enabled at the Master's coming to pay Him His own with usury."
 
 
 
-Rose sat down promptly, and wrought according to orders. After a busy
+[[Rose]] sat down promptly, and wrought according to orders. After a busy
 
 pause of ten minutes, her mother asked, "Do you think yourself oppressed
 
@@ -140,7 +140,7 @@ You do right to teach me, and to make me work."
 
 
 
-"Even to the mending of your brothers' stockings and the making of
+"Even to the [[mending]] of your brothers' stockings and the making of
 
 sheets?"
 
@@ -168,7 +168,7 @@ bind myself an industrious apprentice to all you can teach me."
 
 "how precociously wise in their own conceits! 'I would rather this, I
 
-prefer that'--such is Jessie's cuckoo song; while Rose utters the bolder
+prefer that'--such is Jessie's cuckoo [[Song|song]]; while [[Rose]] utters the bolder
 
 cry, 'I _will_, and I will _not_!'"
 
@@ -188,7 +188,7 @@ it and leave it; it is for you, mother, to listen or not."
 
 characters of such children as they chance to meet with before they
 
-marry and have any of their own to consider well how they would like
+marry and have any of their own to consider [[Well|well]] how they would like
 
 the responsibility of guiding the careless, the labour of persuading the
 
@@ -196,9 +196,9 @@ stubborn, the constant burden and task of training the best."
 
 
 
-"But with love it need not be so very difficult," interposed Caroline.
+"But with [[Love|love]] it need not be so very difficult," interposed Caroline.
 
-"Mothers love their children most dearly--almost better than they love
+"Mothers [[Love|love]] their children most dearly--almost better than they [[Love|love]]
 
 themselves."
 
@@ -212,7 +212,7 @@ yet to come for you, young miss."
 
 "But, Mrs. Yorke, if I take a little baby into my arms--any poor woman's
 
-infant, for instance--I feel that I love that helpless thing quite
+infant, for instance--I feel that I [[Love|love]] that helpless thing quite
 
 peculiarly, though I am not its mother. I could do almost anything for
 
@@ -224,13 +224,13 @@ quite dependent on me."
 
 "You _feel_! Yes, yes! I dare say, now. You are led a great deal by your
 
-_feelings_, and you think yourself a very sensitive personage, no doubt.
+_feelings_, and you think yourself a very sensitive personage, no [[Doubt|doubt]].
 
 Are you aware that, with all these romantic ideas, you have managed to
 
 train your features into an habitually lackadaisical expression, better
 
-suited to a novel-heroine than to a woman who is to make her way in the
+suited to a [[Novel|novel]]-heroine than to a woman who is to make her way in the
 
 real world by dint of common sense?"
 
@@ -268,13 +268,13 @@ impulse."
 
 "Of course I should often be influenced by my feelings. They were given
 
-me to that end. Whom my feelings teach me to love I _must_ and _shall_
+me to that end. Whom my feelings teach me to [[Love|love]] I _must_ and _shall_
 
-love; and I hope, if ever I have a husband and children, my feelings
+[[Love|love]]; and I [[Hope|hope]], if ever I have a husband and children, my feelings
 
-will induce me to love them. I hope, in that case, all my impulses will
+will induce me to [[Love|love]] them. I [[Hope|hope]], in that case, all my impulses will
 
-be strong in compelling me to love."
+be strong in compelling me to [[Love|love]]."
 
 
 
@@ -286,4 +286,4 @@ unjust sarcasm might be hurled at her in reply. She flushed, not with
 
 anger but excitement, when the ungenial matron answered coolly, "Don't
 
-waste your dramatic effects. That was well said--it was quite fine; but
+waste your dramatic effects. That was [[Well|well]] said--it was quite fine; but

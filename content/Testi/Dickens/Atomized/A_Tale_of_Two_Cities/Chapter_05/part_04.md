@@ -19,7 +19,7 @@ soon at the top. There, as it had an abrupt turn in it, they came all at
 once in sight of three men, whose heads were bent down close together at
 the side of a door, and who were intently looking into the room to which
 the door belonged, through some chinks or holes in the wall. On hearing
-footsteps close at hand, these three turned, and rose, and showed
+footsteps close at hand, these three turned, and [[Rose|rose]], and showed
 themselves to be the three of one name who had been drinking in the
 wine-shop.
 
@@ -29,16 +29,16 @@ Defarge. “Leave us, good boys; we have business here.”
 The three glided by, and went silently down.
 
 There appearing to be no other door on that floor, and the keeper of
-the wine-shop going straight to this one when they were left alone, Mr.
+the wine-shop going straight to this one when they were left [[Alone|alone]], Mr.
 Lorry asked him in a whisper, with a little anger:
 
 “Do you make a show of Monsieur Manette?”
 
 “I show him, in the way you have seen, to a chosen few.”
 
-“Is that well?”
+“Is that [[Well|well]]?”
 
-“_I_ think it is well.”
+“_I_ think it is [[Well|well]].”
 
 “Who are the few? How do you choose them?”
 
@@ -79,19 +79,19 @@ Defarge drew out the key, closed the door, locked it on the inside,
 took out the key again, and held it in his hand. All this he did,
 methodically, and with as loud and harsh an accompaniment of noise as he
 could make. Finally, he walked across the room with a measured tread to
-where the window was. He stopped there, and faced round.
+where the [[Window|window]] was. He stopped there, and faced round.
 
 The garret, built to be a depository for firewood and the like, was dim
-and dark: for, the window of dormer shape, was in truth a door in the
+and dark: for, the [[Window|window]] of dormer shape, was in [[Truth|truth]] a door in the
 roof, with a little crane over it for the hoisting up of stores from
 the street: unglazed, and closing up the middle in two pieces, like any
 other door of French construction. To exclude the cold, one half of this
 door was fast closed, and the other was opened but a very little way.
 Such a scanty portion of light was admitted through these means, that it
 was difficult, on first coming in, to see anything; and long habit
-alone could have slowly formed in any one, the ability to do any work
+[[Alone|alone]] could have slowly formed in any one, the ability to do any work
 requiring nicety in such obscurity. Yet, work of that kind was being
 done in the garret; for, with his back towards the door, and his face
-towards the window where the keeper of the wine-shop stood looking at
+towards the [[Window|window]] where the keeper of the wine-shop stood looking at
 him, a white-haired man sat on a low bench, stooping forward and very
 busy, making shoes.

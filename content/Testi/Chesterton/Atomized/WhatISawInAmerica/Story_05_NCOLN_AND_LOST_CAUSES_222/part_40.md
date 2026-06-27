@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 40)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 40)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,33 +14,33 @@ tags:
 </nav>
 
 
-something of an artist and not a little of a fighter. A man of that type
+something of an [[Artist|artist]] and not a little of a fighter. A man of that type
 
 is always capable of being wildly wrong, especially in the sectarian
 
-atmosphere of America; and Mr. Ford has been wrong before and may be
+atmosphere of [[America]]; and Mr. Ford has been wrong before and may be
 
 wrong now. He is chiefly known in England for a project which I think
 
-very preposterous; that of the Peace Ship, which came to Europe during
+very preposterous; that of the Peace [[Ship]], which came to Europe during
 
 the war. But he is not known in England at all in connection with a much
 
 more important campaign, which he has conducted much more recently and
 
-with much more success; a campaign against the Jews like one of the
+with much more [[success]]; a campaign against the Jews like one of the
 
 Anti-Semitic campaigns of the Continent. Now any one who knows anything
 
-of America knows exactly what the Peace Ship would be like. It was a
+of [[America]] knows exactly what the Peace [[Ship]] would be like. It was a
 
-national combination of imagination and ignorance, which has at least
+national combination of [[Imagination|imagination]] and ignorance, which has at least
 
-some of the beauty of innocence. Men living in those huge, hedgeless
+some of the [[Beauty|beauty]] of [[innocence]]. Men living in those huge, hedgeless
 
-inland plains know nothing about frontiers or the tragedy of a fight for
+inland plains know nothing about frontiers or the [[Tragedy|tragedy]] of a fight for
 
-freedom; they know nothing of alarum and armaments or the peril of a
+[[Freedom|freedom]]; they know nothing of alarum and armaments or the peril of a
 
 high civilisation poised like a precious statue within reach of a mailed
 
@@ -48,15 +48,15 @@ fist. They are accustomed to a cosmopolitan citizenship, in which men of
 
 all bloods mingle and in which men of all creeds are counted equal.
 
-Their highest moral boast is humanitarianism; their highest mental boast
+Their highest moral boast is [[Humanitarianism|humanitarianism]]; their highest mental boast
 
 is enlightenment. In a word, they are the very last men in the world who
 
-would seem likely to pride themselves on a prejudice against the Jews.
+would seem likely to [[Pride|pride]] themselves on a prejudice against the Jews.
 
 They have no religion in particular, except a sincere sentiment which
 
-they would call 'true Christianity,' and which specially forbids an
+they would call 'true [[Christianity]],' and which specially forbids an
 
 attack on the Jews. They have a patriotism which prides itself on
 
@@ -74,11 +74,11 @@ racial and religious prejudice, he would have been about the very last
 
 sort of man to have it. His particular part of the world would have been
 
-the very last place to produce it. We may well laugh at the Peace Ship,
+the very last place to produce it. We may [[Well|well]] laugh at the Peace [[Ship]],
 
 and its wild course and inevitable shipwreck; but remember that its very
 
-wildness was an attempt to sail as far as possible from the castle of
+wildness was an attempt to sail as far as possible from the [[Castle|castle]] of
 
 Front-de-Boeuf. Everything that made him Anti-War should have
 
@@ -90,7 +90,7 @@ Israel.
 
 
 
-It happened that, when I was in America, I had just published some
+It happened that, when I was in [[America]], I had just published some
 
 studies on Palestine; and I was besieged by Rabbis lamenting my
 
@@ -102,7 +102,7 @@ personal autobiography, I do not happen to be a man who dislikes Jews;
 
 though I believe that some men do. I have had Jews among my most
 
-intimate and faithful friends since my boyhood, and I hope to have them
+intimate and faithful friends since my boyhood, and I [[Hope|hope]] to have them
 
 till I die. But even if I did have a dislike of Jews, it would be
 
@@ -134,9 +134,9 @@ Now the point is that this new American Anti-Semitism springs from
 
 experience and nothing but experience. There is no prejudice for it to
 
-spring from. Or rather the prejudice is all the other way. All the
+[[Spring|spring]] from. Or rather the prejudice is all the other way. All the
 
-traditions of that democracy, and very creditable traditions too, are in
+traditions of that [[democracy]], and very creditable traditions too, are in
 
 favour of toleration and a sort of idealistic indifference. The
 

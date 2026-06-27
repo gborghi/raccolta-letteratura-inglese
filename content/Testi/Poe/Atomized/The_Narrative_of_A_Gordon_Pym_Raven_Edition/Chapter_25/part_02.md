@@ -32,11 +32,11 @@ tags:
 
       with the note of the black bittern we had eaten up on the summit
 
-      of the hill.
+      of the [[Hill|hill]].
 
 
 
-      _March 3d._-The heat of the water was now truly remarkable, and
+      _March 3d._-The heat of the [[Water|water]] was now truly remarkable, and
 
       in color was undergoing a rapid change, being no longer
 
@@ -72,7 +72,7 @@ tags:
 
 
 
-      _March_5th.-The wind had entirely ceased, but it was evident that
+      _March_5th.-The [[Wind|wind]] had entirely ceased, but it was evident that
 
       we were still hurrying on to the southward, under the influence
 
@@ -82,11 +82,11 @@ tags:
 
       taking—but we felt none. The countenance of Peters indicated
 
-      nothing of this nature, although it wore at times an expression I
+      nothing of this [[Nature|nature]], although it wore at times an expression I
 
-      could not fathom. The polar winter appeared to be coming on—but
+      could not fathom. The polar [[Winter|winter]] appeared to be coming on—but
 
-      coming without its terrors. I felt a numbness of body and mind—a
+      coming without its terrors. I felt a numbness of [[Body|body]] and mind—a
 
       dreaminess of sensation but this was all.
 
@@ -96,11 +96,11 @@ tags:
 
       above the horizon, and was gradually losing its grayness of tint.
 
-      The heat of the water was extreme, even unpleasant to the touch,
+      The heat of the [[Water|water]] was extreme, even unpleasant to the touch,
 
       and its milky hue was more evident than ever. Today a violent
 
-      agitation of the water occurred very close to the canoe. It was
+      agitation of the [[Water|water]] occurred very close to the canoe. It was
 
       attended, as usual, with a wild flaring up of the vapor at its
 
@@ -108,11 +108,11 @@ tags:
 
       powder, resembling ashes—but certainly not such—fell over the
 
-      canoe and over a large surface of the water, as the flickering
+      canoe and over a large surface of the [[Water|water]], as the flickering
 
       died away among the vapor and the commotion subsided in the sea.
 
-      Nu-Nu now threw himself on his face in the bottom of the boat,
+      Nu-Nu now threw himself on his face in the [[Bottom|bottom]] of the boat,
 
       and no persuasions could induce him to arise.
 
@@ -124,7 +124,7 @@ tags:
 
       to be too utterly overcome by terror to afford us any rational
 
-      reply. He still obstinately lay in the bottom of the boat; and,
+      reply. He still obstinately lay in the [[Bottom|bottom]] of the boat; and,
 
       upon reiterating the questions as to the motive, made use only of
 
@@ -138,7 +138,7 @@ tags:
 
 
 
-      _March 8th._-To-day there floated by us one of the white animals
+      _March 8th._-To-day there floated by us one of the white [[Animals|animals]]
 
       whose appearance upon the beach at Tsalal had occasioned so wild
 
@@ -146,7 +146,7 @@ tags:
 
       there came over me a sudden listlessness, and I forbore. The heat
 
-      of the water still increased, and the hand could no longer be
+      of the [[Water|water]] still increased, and the hand could no longer be
 
       endured within it. Peters spoke little, and I knew not what to
 
@@ -162,7 +162,7 @@ tags:
 
       distinctness of form. I can liken it to nothing but a limitless
 
-      cataract, rolling silently into the sea from some immense and
+      cataract, [[rolling]] silently into the sea from some immense and
 
       far-distant rampart in the heaven. The gigantic curtain ranged
 
@@ -180,7 +180,7 @@ tags:
 
       the white ashy shower which settled upon us and upon the canoe,
 
-      but melted into the water as it fell. The summit of the cataract
+      but melted into the [[Water|water]] as it fell. The summit of the cataract
 
       was utterly lost in the dimness and the distance. Yet we were
 
@@ -198,15 +198,15 @@ tags:
 
       _March 22d._-The darkness had materially increased, relieved only
 
-      by the glare of the water thrown back from the white curtain
+      by the glare of the [[Water|water]] thrown back from the white curtain
 
-      before us. Many gigantic and pallidly white birds flew
+      before us. Many gigantic and pallidly white [[Birds|birds]] flew
 
       continuously now from beyond the veil, and their scream was the
 
       eternal _Tekeli-li!_as they retreated from our vision. Hereupon
 
-      Nu-Nu stirred in the bottom of the boat; but upon touching him we
+      Nu-Nu stirred in the [[Bottom|bottom]] of the boat; but upon touching him we
 
       found his spirit departed. And now we rushed into the embraces of
 

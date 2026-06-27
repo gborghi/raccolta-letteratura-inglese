@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 37 (part 2)"
+title: "[[Shirley]] — Chapter 37 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -42,11 +42,11 @@ prudently resolved to let the matter quietly drop, which they did.
 
 Mr. Moore knew who had shot him, and all Briarfield knew. It was no
 
-other than Michael Hartley, the half-crazed weaver once before alluded
+other than [[Michael]] Hartley, the half-crazed weaver once before alluded
 
 to, a frantic Antinomian in religion, and a mad leveller in politics.
 
-The poor soul died of delirium tremens a year after the attempt on
+The poor [[Soul|soul]] died of delirium tremens a year after the attempt on
 
 Moore, and Robert gave his wretched widow a guinea to bury him.
 
@@ -56,9 +56,9 @@ Moore, and Robert gave his wretched widow a guinea to bury him.
 
 
 
-The winter is over and gone; spring has followed with beamy and shadowy,
+The [[Winter|winter]] is over and gone; [[spring]] has followed with beamy and shadowy,
 
-with flowery and showery flight. We are now in the heart of summer--in
+with flowery and showery flight. We are now in the heart of [[Summer|summer]]--in
 
 mid-June--the June of 1812.
 
@@ -66,13 +66,13 @@ mid-June--the June of 1812.
 
 It is burning weather. The air is deep azure and red gold. It fits the
 
-time; it fits the age; it fits the present spirit of the nations. The
+[[Time|time]]; it fits the age; it fits the present spirit of the nations. The
 
 nineteenth century wantons in its giant adolescence; the Titan boy
 
-uproots mountains in his game, and hurls rocks in his wild sport. This
+uproots [[Mountains|mountains]] in his game, and hurls rocks in his wild sport. This
 
-summer Bonaparte is in the saddle; he and his host scour Russian
+[[Summer|summer]] Bonaparte is in the saddle; he and his host scour Russian
 
 deserts. He has with him Frenchmen and Poles, Italians and children of
 
@@ -80,17 +80,17 @@ the Rhine, six hundred thousand strong. He marches on old Moscow. Under
 
 old Moscow's walls the rude Cossack waits him. Barbarian stoic! he waits
 
-without fear of the boundless ruin rolling on. He puts his trust in a
+without [[Fear|fear]] of the boundless ruin [[rolling]] on. He puts his trust in a
 
-snow-cloud; the wilderness, the wind, and the hail-storm are his refuge;
+[[Snow|snow]]-cloud; the wilderness, the [[Wind|wind]], and the hail-[[Storm|storm]] are his refuge;
 
-his allies are the elements--air, fire, water. And what are these? Three
+his allies are the elements--air, [[Fire|fire]], [[Water|water]]. And what are these? Three
 
 terrible archangels ever stationed before the throne of Jehovah. They
 
 stand clothed in white, girdled with golden girdles; they uplift vials,
 
-brimming with the wrath of God. Their time is the day of vengeance;
+brimming with the wrath of God. Their [[Time|time]] is the day of vengeance;
 
 their signal, the word of the Lord of hosts, "thundering with the voice
 
@@ -98,9 +98,9 @@ of His excellency."
 
 
 
-"Hast thou entered into the treasures of the snow? or hast thou seen the
+"Hast thou entered into the treasures of the [[Snow|snow]]? or hast thou seen the
 
-treasures of the hail, which I have reserved against the time of
+treasures of the hail, which I have reserved against the [[Time|time]] of
 
 trouble, against the day of battle and war?
 
@@ -110,9 +110,9 @@ trouble, against the day of battle and war?
 
 
 
-It is done. The earth is scorched with fire; the sea becomes "as the
+It is done. The earth is scorched with [[Fire|fire]]; the sea becomes "as the
 
-blood of a dead man;" the islands flee away; the mountains are not
+[[Blood|blood]] of a dead man;" the islands flee away; the [[Mountains|mountains]] are not
 
 found.
 
@@ -124,7 +124,7 @@ generalissimo, for their own salvation's sake. In this year he took
 
 Badajos, he fought the field of Vittoria, he captured Pampeluna, he
 
-stormed San Sebastian; in this year he won Salamanca.
+stormed San [[Sebastian]]; in this year he won Salamanca.
 
 
 
@@ -154,7 +154,7 @@ now at a triumph in your line. On the 18th of June 1812 the Orders in
 
 Council were repealed, and the blockaded ports thrown open. You know
 
-very well--such of you as are old enough to remember--you made Yorkshire
+very [[Well|well]]--such of you as are old enough to remember--you made Yorkshire
 
 and Lancashire shake with your shout on that occasion. The ringers
 
@@ -162,9 +162,9 @@ cracked a bell in Briarfield belfry; it is dissonant to this day. The
 
 Association of Merchants and Manufacturers dined together at Stilbro',
 
-and one and all went home in such a plight as their wives would never
+and one and all went [[Home|home]] in such a plight as their wives would never
 
-wish to witness more. Liverpool started and snorted like a river-horse
+wish to witness more. Liverpool started and snorted like a [[River|river]]-[[Horse|horse]]
 
 roused amongst his reeds by thunder. Some of the American merchants felt
 
@@ -178,9 +178,9 @@ lose themselves at some future day. Stocks which had been accumulating
 
 for years now went off in a moment, in the twinkling of an eye.
 
-Warehouses were lightened, ships were laden; work abounded, wages rose;
+Warehouses were lightened, ships were laden; work abounded, wages [[Rose|rose]];
 
-the good time seemed come. These prospects might be delusive, but they
+the good [[Time|time]] seemed come. These prospects might be delusive, but they
 
 were brilliant--to some they were even true. At that epoch, in that
 
@@ -194,9 +194,9 @@ single month of June, many a solid fortune was realized.
 
 When a whole province rejoices, the humblest of its inhabitants tastes a
 
-festal feeling; the sound of public bells rouses the most secluded
+festal feeling; the sound of public [[Bells|bells]] rouses the most secluded
 
-abode, as if with a call to be gay. And so Caroline Helstone thought,
+abode, as if with a call to be gay. And so [[Caroline Helstone]] thought,
 
 when she dressed herself more carefully than usual on the day of this
 

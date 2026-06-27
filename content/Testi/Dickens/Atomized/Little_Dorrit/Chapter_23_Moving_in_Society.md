@@ -18,16 +18,16 @@ CHAPTER 20. Moving in Society
 
 
 If Young John Chivery had had the inclination and the power to write a
-satire on family pride, he would have had no need to go for an avenging
+[[Satire|satire]] on family [[Pride|pride]], he would have had no need to go for an avenging
 illustration out of the family of his beloved. He would have found it
 amply in that gallant brother and that dainty sister, so steeped in mean
 experiences, and so loftily conscious of the family name; so ready
 to beg or borrow from the poorest, to eat of anybody’s bread, spend
 anybody’s money, drink from anybody’s cup and break it afterwards.
 To have painted the sordid facts of their lives, and they throughout
-invoking the death’s head apparition of the family gentility to come and
+invoking the [[Death|death]]’s head apparition of the family gentility to come and
 scare their benefactors, would have made Young John a satirist of the
-first water.
+first [[Water|water]].
 
 Tip had turned his liberty to hopeful account by becoming a
 billiard-marker. He had troubled himself so little as to the means of
@@ -44,18 +44,18 @@ One solid stationary point in the looseness of this gentleman’s
 character was, that he respected and admired his sister Amy. The feeling
 had never induced him to spare her a moment’s uneasiness, or to put
 himself to any restraint or inconvenience on her account; but with that
-Marshalsea taint upon his love, he loved her. The same rank Marshalsea
+Marshalsea taint upon his [[Love|love]], he loved her. The same rank Marshalsea
 flavour was to be recognised in his distinctly perceiving that she
 sacrificed her life to her father, and in his having no idea that she
 had done anything for himself.
 
 When this spirited young man and his sister had begun systematically
-to produce the family skeleton for the overawing of the College, this
+to produce the family [[skeleton]] for the overawing of the College, this
 narrative cannot precisely state. Probably at about the period when
-they began to dine on the College charity. It is certain that the more
-reduced and necessitous they were, the more pompously the skeleton
+they began to dine on the College [[Charity|charity]]. It is certain that the more
+reduced and necessitous they were, the more pompously the [[skeleton]]
 emerged from its tomb; and that when there was anything particularly
-shabby in the wind, the skeleton always came out with the ghastliest
+shabby in the [[Wind|wind]], the [[skeleton]] always came out with the ghastliest
 flourish.
 
 Little Dorrit was late on the Monday morning, for her father slept
@@ -63,10 +63,10 @@ late, and afterwards there was his breakfast to prepare and his room to
 arrange. She had no engagement to go out to work, however, and therefore
 stayed with him until, with Maggy’s help, she had put everything right
 about him, and had seen him off upon his morning walk (of twenty yards
-or so) to the coffee-house to read the paper. She then got on her bonnet
+or so) to the coffee-[[house]] to read the paper. She then got on her bonnet
 and went out, having been anxious to get out much sooner. There was, as
 usual, a cessation of the small-talk in the Lodge as she passed through
-it; and a Collegian who had come in on Saturday night, received the
+it; and a Collegian who had come in on Saturday [[Night|night]], received the
 intimation from the elbow of a more seasoned Collegian, ‘Look out. Here
 she is!’
 
@@ -74,12 +74,12 @@ She wanted to see her sister, but when she got round to Mr Cripples’s,
 she found that both her sister and her uncle had gone to the theatre
 where they were engaged. Having taken thought of this probability by
 the way, and having settled that in such case she would follow them, she
-set off afresh for the theatre, which was on that side of the river, and
+set off afresh for the theatre, which was on that side of the [[River|river]], and
 not very far away.
 
 Little Dorrit was almost as ignorant of the ways of theatres as of the
 ways of gold mines, and when she was directed to a furtive sort of door,
-with a curious up-all-night air about it, that appeared to be ashamed of
+with a curious up-all-[[Night|night]] air about it, that appeared to be ashamed of
 itself and to be hiding in an alley, she hesitated to approach it; being
 further deterred by the sight of some half-dozen close-shaved gentlemen
 with their hats very strangely on, who were lounging about the door,
@@ -99,7 +99,7 @@ for you,’ Miss Dorrit’s sister went with her, drawing nearer and nearer
 at every step she took in the darkness to the sound of music and the
 sound of dancing feet.
 
-At last they came into a maze of dust, where a quantity of people were
+At last they came into a maze of [[Dust|dust]], where a quantity of people were
 tumbling over one another, and where there was such a confusion of
 unaccountable shapes of beams, bulkheads, brick walls, ropes, and
 rollers, and such a mixing of gaslight and daylight, that they seemed
@@ -142,7 +142,7 @@ plain domestic little creature, without the great and sage experience of
 the rest. This family fiction was the family assertion of itself against
 her services. Not to make too much of them.
 
-‘Well! And what have you got on your mind, Amy? Of course you have
+‘[[Well]]! And what have you got on your mind, Amy? Of course you have
 got something on your mind about me?’ said Fanny. She spoke as if her
 sister, between two and three years her junior, were her prejudiced
 grandmother.
@@ -154,9 +154,9 @@ The monotonous boy put his head round the beam on the left, and said,
 ‘Look out there, ladies!’ and disappeared. The sprightly gentleman with
 the black hair as suddenly put his head round the beam on the right, and
 said, ‘Look out there, darlings!’ and also disappeared. Thereupon all
-the young ladies rose and began shaking their skirts out behind.
+the young ladies [[Rose|rose]] and began shaking their skirts out behind.
 
-‘Well, Amy?’ said Fanny, doing as the rest did; ‘what were you going to
+‘[[Well]], Amy?’ said Fanny, doing as the rest did; ‘what were you going to
 say?’
 
 ‘Since you told me a lady had given you the bracelet you showed me,
@@ -168,7 +168,7 @@ gentleman with the black hair. They were every one gone in a moment, and
 the music and the dancing feet were heard again.
 
 Little Dorrit sat down in a golden chair, made quite giddy by these
-rapid interruptions. Her sister and the rest were a long time gone; and
+rapid interruptions. Her sister and the rest were a long [[Time|time]] gone; and
 during their absence a voice (it appeared to be that of the gentleman
 with the black hair) was continually calling out through the music,
 ‘One, two, three, four, five, six--go! One, two, three, four, five,
@@ -176,23 +176,23 @@ six--go! Steady, darlings! One, two, three, four, five, six--go!’
 Ultimately the voice stopped, and they all came back again, more or less
 out of breath, folding themselves in their shawls, and making ready
 for the streets. ‘Stop a moment, Amy, and let them get away before
-us,’ whispered Fanny. They were soon left alone; nothing more important
+us,’ whispered Fanny. They were soon left [[Alone|alone]]; nothing more important
 happening, in the meantime, than the boy looking round his old beam, and
 saying, ‘Everybody at eleven to-morrow, ladies!’ and the gentleman with
 the black hair looking round his old beam, and saying, ‘Everybody at
 eleven to-morrow, darlings!’ each in his own accustomed manner.
 
-When they were alone, something was rolled up or by other means got out
-of the way, and there was a great empty well before them, looking down
+When they were [[Alone|alone]], something was rolled up or by other means got out
+of the way, and there was a great empty [[Well|well]] before them, looking down
 into the depths of which Fanny said, ‘Now, uncle!’ Little Dorrit, as her
-eyes became used to the darkness, faintly made him out at the bottom of
-the well, in an obscure corner by himself, with his instrument in its
+eyes became used to the darkness, faintly made him out at the [[Bottom|bottom]] of
+the [[Well|well]], in an obscure corner by himself, with his instrument in its
 ragged case under his arm.
 
 The old man looked as if the remote high gallery windows, with their
 little strip of sky, might have been the point of his better fortunes,
 from which he had descended, until he had gradually sunk down below
-there to the bottom. He had been in that place six nights a week for
+there to the [[Bottom|bottom]]. He had been in that place six nights a week for
 many years, but had never been observed to raise his eyes above his
 music-book, and was confidently believed to have never seen a play.
 There were legends in the place that he did not so much as know the
@@ -200,11 +200,11 @@ popular heroes and heroines by sight, and that the low comedian had
 ‘mugged’ at him in his richest manner fifty nights for a wager, and he
 had shown no trace of consciousness. The carpenters had a joke to the
 effect that he was dead without being aware of it; and the frequenters
-of the pit supposed him to pass his whole life, night and day, and
-Sunday and all, in the orchestra. They had tried him a few times with
+of the pit supposed him to pass his whole life, [[Night|night]] and day, and
+[[Sunday]] and all, in the orchestra. They had tried him a few times with
 pinches of snuff offered over the rails, and he had always responded to
 this attention with a momentary waking up of manner that had the pale
-phantom of a gentleman in it: beyond this he never, on any occasion, had
+[[Phantom|phantom]] of a gentleman in it: beyond this he never, on any occasion, had
 any other part in what was going on than the part written out for the
 clarionet; in private life, where there was no part for the clarionet,
 he had no part at all. Some said he was poor, some said he was a wealthy
@@ -238,13 +238,13 @@ as we have. They are all on their own level. Common.’
 Little Dorrit mildly looked at the speaker, but did not interrupt her.
 Fanny took out her handkerchief, and rather angrily wiped her eyes. ‘I
 was not born where you were, you know, Amy, and perhaps that makes a
-difference. My dear child, when we get rid of Uncle, you shall know all
+difference. My dear [[Child|child]], when we get rid of Uncle, you shall know all
 about it. We’ll drop him at the cook’s shop where he is going to dine.’
 
-They walked on with him until they came to a dirty shop window in a
+They walked on with him until they came to a dirty shop [[Window|window]] in a
 dirty street, which was made almost opaque by the steam of hot meats,
 vegetables, and puddings. But glimpses were to be caught of a roast leg
-of pork bursting into tears of sage and onion in a metal reservoir full
+of pork bursting into [[Tears|tears]] of sage and onion in a metal reservoir full
 of gravy, of an unctuous piece of roast beef and blisterous Yorkshire
 pudding, bubbling hot in a similar receptacle, of a stuffed fillet of
 veal in rapid cut, of a ham in a perspiration with the pace it was going
@@ -252,7 +252,7 @@ at, of a shallow tank of baked potatoes glued together by their own
 richness, of a truss or two of boiled greens, and other substantial
 delicacies. Within, were a few wooden partitions, behind which such
 customers as found it more convenient to take away their dinners in
-stomachs than in their hands, Packed their purchases in solitude. Fanny
+stomachs than in their hands, Packed their purchases in [[Solitude|solitude]]. Fanny
 opening her reticule, as they surveyed these things, produced from that
 repository a shilling and handed it to Uncle. Uncle, after not looking
 at it a little while, divined its object, and muttering ‘Dinner? Ha!
@@ -263,19 +263,19 @@ walk to Harley Street, Cavendish Square.’
 
 The air with which she threw off this distinguished address and the toss
 she gave to her new bonnet (which was more gauzy than serviceable), made
-her sister wonder; however, she expressed her readiness to go to Harley
+her sister [[Wonder|wonder]]; however, she expressed her readiness to go to Harley
 Street, and thither they directed their steps. Arrived at that grand
-destination, Fanny singled out the handsomest house, and knocking at the
+destination, Fanny singled out the handsomest [[house]], and knocking at the
 door, inquired for Mrs Merdle. The footman who opened the door, although
 he had powder on his head and was backed up by two other footmen
-likewise powdered, not only admitted Mrs Merdle to be at home, but asked
+likewise powdered, not only admitted Mrs Merdle to be at [[Home|home]], but asked
 Fanny to walk in. Fanny walked in, taking her sister with her; and they
 went up-stairs with powder going before and powder stopping behind,
 and were left in a spacious semicircular drawing-room, one of several
 drawing-rooms, where there was a parrot on the outside of a golden cage
 holding on by its beak, with its scaly legs in the air, and putting
 itself into many strange upside-down postures. This peculiarity has been
-observed in birds of quite another feather, climbing upon golden wires.
+observed in [[Birds|birds]] of quite another feather, climbing upon golden wires.
 
 The room was far more splendid than anything Little Dorrit had ever
 imagined, and would have been splendid and costly in any eyes. She
@@ -285,7 +285,7 @@ communication with another room. The curtain shook next moment, and a
 lady, raising it with a heavily ringed hand, dropped it behind her again
 as she entered.
 
-The lady was not young and fresh from the hand of Nature, but was young
+The lady was not young and fresh from the hand of [[Nature]], but was young
 and fresh from the hand of her maid. She had large unfeeling handsome
 eyes, and dark unfeeling handsome hair, and a broad unfeeling handsome
 bosom, and was made the most of in every particular. Either because she
@@ -317,7 +317,7 @@ professional air. Very pleasant; but not professional.’
 
 ‘My sister, ma’am,’ said Fanny, in whom there was a singular mixture
 of deference and hardihood, ‘has been asking me to tell her, as between
-sisters, how I came to have the honour of knowing you. And as I had
+sisters, how I came to have the [[Honour|honour]] of knowing you. And as I had
 engaged to call upon you once more, I thought I might take the liberty
 of bringing her with me, when perhaps you would tell her. I wish her to
 know, and perhaps you will tell her?’
@@ -338,7 +338,7 @@ and it asserted its right to its exactions.
 hollow and conventional and worldly and very shocking, but unless we
 are Savages in the Tropical seas (I should have been charmed to be one
 myself--most delightful life and perfect climate, I am told), we
-must consult it. It is the common lot. Mr Merdle is a most extensive
+must consult it. It is the common lot. [[Mr Merdle]] is a most extensive
 merchant, his transactions are on the vastest scale, his wealth and
 influence are very great, but even he--Bird, be quiet!’
 
@@ -355,18 +355,18 @@ Fanny set her lips, and her eyes looked half triumphantly at her sister.
 
 ‘A son of two or three-and-twenty. He is a little gay, a thing Society
 is accustomed to in young men, and he is very impressible. Perhaps he
-inherits that misfortune. I am very impressible myself, by nature. The
+inherits that misfortune. I am very impressible myself, by [[Nature|nature]]. The
 weakest of creatures--my feelings are touched in a moment.’
 
-She said all this, and everything else, as coldly as a woman of snow;
+She said all this, and everything else, as coldly as a woman of [[Snow|snow]];
 quite forgetting the sisters except at odd times, and apparently
 addressing some abstraction of Society; for whose behoof, too, she
 occasionally arranged her dress, or the composition of her figure upon
 the ottoman.
 
 ‘So he is very impressible. Not a misfortune in our natural state I dare
-say, but we are not in a natural state. Much to be lamented, no doubt,
-particularly by myself, who am a child of nature if I could but show it;
+say, but we are not in a natural state. Much to be lamented, no [[Doubt|doubt]],
+particularly by myself, who am a [[Child|child]] of [[Nature|nature]] if I could but show it;
 but so it is. Society suppresses us and dominates us--Bird, be quiet!’
 
 The parrot had broken into a violent fit of laughter, after twisting
@@ -376,7 +376,7 @@ black tongue.
 ‘It is quite unnecessary to say to a person of your good sense, wide
 range of experience, and cultivated feeling,’ said Mrs Merdle from her
 nest of crimson and gold--and there put up her glass to refresh her
-memory as to whom she was addressing,--‘that the stage sometimes has
+[[Memory|memory]] as to whom she was addressing,--‘that the stage sometimes has
 a fascination for young men of that class of character. In saying the
 stage, I mean the people on it of the female sex. Therefore, when I
 heard that my son was supposed to be fascinated by a dancer, I knew what
@@ -390,7 +390,7 @@ hard sound.
 ‘As your sister will tell you, when I found what the theatre was I was
 much surprised and much distressed. But when I found that your sister,
 by rejecting my son’s advances (I must add, in an unexpected manner),
-had brought him to the point of proposing marriage, my feelings were
+had brought him to the point of proposing [[Marriage|marriage]], my feelings were
 of the profoundest anguish--acute.’
 
 She traced the outline of her left eyebrow, and put it right.
@@ -407,7 +407,7 @@ Merdle smiled.
 although you found me in that situation, I was so far above the rest,
 that I considered my family as good as your son’s; and that I had a
 brother who, knowing the circumstances, would be of the same opinion,
-and would not consider such a connection any honour.’
+and would not consider such a connection any [[Honour|honour]].’
 
 ‘Miss Dorrit,’ said Mrs Merdle, after frostily looking at her through
 her glass, ‘precisely what I was on the point of telling your sister,
@@ -432,7 +432,7 @@ origin; and that my father’s standing, even in the Society in which
 he now moved (what that was, was best known to myself), was eminently
 superior, and was acknowledged by every one.’
 
-‘Quite accurate,’ rejoined Mrs Merdle. ‘A most admirable memory.’
+‘Quite accurate,’ rejoined Mrs Merdle. ‘A most admirable [[Memory|memory]].’
 
 ‘Thank you, ma’am. Perhaps you will be so kind as to tell my sister the
 rest.’
@@ -442,23 +442,23 @@ of bosom which seemed essential to her having room enough to be
 unfeeling in, ‘but it is to your sister’s credit. I pointed out to your
 sister the plain state of the case; the impossibility of the Society
 in which we moved recognising the Society in which she moved--though
-charming, I have no doubt; the immense disadvantage at which she would
+charming, I have no [[Doubt|doubt]]; the immense disadvantage at which she would
 consequently place the family she had so high an opinion of, upon which
 we should find ourselves compelled to look down with contempt, and
 from which (socially speaking) we should feel obliged to recoil with
-abhorrence. In short, I made an appeal to that laudable pride in your
+abhorrence. In short, I made an appeal to that laudable [[Pride|pride]] in your
 sister.’
 
 ‘Let my sister know, if you please, Mrs Merdle,’ Fanny pouted, with a
-toss of her gauzy bonnet, ‘that I had already had the honour of telling
+toss of her gauzy bonnet, ‘that I had already had the [[Honour|honour]] of telling
 your son that I wished to have nothing whatever to say to him.’
 
-‘Well, Miss Dorrit,’ assented Mrs Merdle, ‘perhaps I might have
+‘[[Well]], Miss Dorrit,’ assented Mrs Merdle, ‘perhaps I might have
 mentioned that before. If I did not think of it, perhaps it was because
-my mind reverted to the apprehensions I had at the time that he might
+my mind reverted to the apprehensions I had at the [[Time|time]] that he might
 persevere and you might have something to say to him. I also mentioned
 to your sister--I again address the non-professional Miss Dorrit--that
-my son would have nothing in the event of such a marriage, and would be
+my son would have nothing in the event of such a [[Marriage|marriage]], and would be
 an absolute beggar. (I mention that merely as a fact which is part of
 the narrative, and not as supposing it to have influenced your sister,
 except in the prudent and legitimate way in which, constituted as our
@@ -476,9 +476,9 @@ On which occasion,’ added Mrs Merdle, quitting her nest, and putting
 something in Fanny’s hand, ‘Miss Dorrit will permit me to say Farewell
 with best wishes in my own dull manner.’
 
-The sisters rose at the same time, and they all stood near the cage of
+The sisters [[Rose|rose]] at the same [[Time|time]], and they all stood near the cage of
 the parrot, as he tore at a claw-full of biscuit and spat it out, seemed
-to mock them with a pompous dance of his body without moving his feet,
+to mock them with a pompous [[Dance|dance]] of his [[Body|body]] without moving his feet,
 and suddenly turned himself upside down and trailed himself all over
 the outside of his golden cage, with the aid of his cruel beak and black
 tongue.
@@ -497,7 +497,7 @@ They came down-stairs with powder before them and powder behind, the
 elder sister haughty and the younger sister humbled, and were shut out
 into unpowdered Harley Street, Cavendish Square.
 
-‘Well?’ said Fanny, when they had gone a little way without speaking.
+‘[[Well]]?’ said Fanny, when they had gone a little way without speaking.
 ‘Have you nothing to say, Amy?’
 
 ‘Oh, I don’t know what to say!’ she answered, distressed. ‘You didn’t
@@ -509,9 +509,9 @@ like this young man, Fanny?’
 say, I am so very sorry, Fanny, that you suffered this lady to give you
 anything.’
 
-‘You little Fool!’ returned her sister, shaking her with the sharp pull
+‘You little [[Fool]]!’ returned her sister, shaking her with the sharp pull
 she gave her arm. ‘Have you no spirit at all? But that’s just the way!
-You have no self-respect, you have no becoming pride, just as you allow
+You have no [[Self|self]]-respect, you have no becoming [[Pride|pride]], just as you allow
 yourself to be followed about by a contemptible little Chivery of a
 thing,’ with the scornfullest emphasis, ‘you would let your family be
 trodden on, and never turn.’
@@ -527,7 +527,7 @@ it?’
 ‘No, Fanny, I am sure.’
 
 ‘Then make her pay for it, you mean little thing. What else can you make
-her do? Make her pay for it, you stupid child; and do your family some
+her do? Make her pay for it, you stupid [[Child|child]]; and do your family some
 credit with the money!’
 
 They spoke no more all the way back to the lodging where Fanny and her
@@ -537,9 +537,9 @@ Fanny had a composite meal to make, of chops, and porter, and tea; and
 indignantly pretended to prepare it for herself, though her sister did
 all that in quiet reality. When at last Fanny sat down to eat and drink,
 she threw the table implements about and was angry with her bread, much
-as her father had been last night.
+as her father had been last [[Night|night]].
 
-‘If you despise me,’ she said, bursting into vehement tears, ‘because I
+‘If you despise me,’ she said, bursting into vehement [[Tears|tears]], ‘because I
 am a dancer, why did you put me in the way of being one? It was your
 doing. You would have me stoop as low as the ground before this Mrs
 Merdle, and let her say what she liked and do what she liked, and hold
@@ -552,7 +552,7 @@ likes, without any check--I suppose because he has been in the law, and
 the docks, and different things. Why, it was your doing, Amy. You might
 at least approve of his being defended.’
 
-All this time the uncle was dolefully blowing his clarionet in the
+All this [[Time|time]] the uncle was dolefully blowing his clarionet in the
 corner, sometimes taking it an inch or so from his mouth for a moment
 while he stopped to gaze at them, with a vague impression that somebody
 had said something.
@@ -564,8 +564,8 @@ work, you might at least feel for him, I should think, knowing what he
 has undergone so long.’
 
 Poor Little Dorrit felt the injustice of this taunt rather sharply.
-The remembrance of last night added a barbed point to it. She said
-nothing in reply, but turned her chair from the table towards the fire.
+The remembrance of last [[Night|night]] added a barbed point to it. She said
+nothing in reply, but turned her chair from the table towards the [[Fire|fire]].
 Uncle, after making one more pause, blew a dismal wail and went on
 again.
 
@@ -579,7 +579,7 @@ pardon, Amy,’ and ‘Forgive me, Amy,’ almost as passionately as she had
 said what she regretted.
 
 ‘But indeed, indeed, Amy,’ she resumed when they were seated in sisterly
-accord side by side, ‘I hope and I think you would have seen this
+accord side by side, ‘I [[Hope|hope]] and I think you would have seen this
 differently, if you had known a little more of Society.’
 
 ‘Perhaps I might, Fanny,’ said the mild Little Dorrit.
@@ -601,16 +601,16 @@ Little Dorrit again nodded ‘Yes,’ with a more cheerful face than heart.
 the place to which you have been so true, which does belong to it, and
 which does make it different from other aspects of Society. So kiss me
 once again, Amy dear, and we will agree that we may both be right, and
-that you are a tranquil, domestic, home-loving, good girl.’
+that you are a tranquil, domestic, [[Home|home]]-loving, good girl.’
 
 The clarionet had been lamenting most pathetically during this dialogue,
-but was cut short now by Fanny’s announcement that it was time to go;
+but was cut short now by Fanny’s announcement that it was [[Time|time]] to go;
 which she conveyed to her uncle by shutting up his scrap of music, and
 taking the clarionet out of his mouth.
 
 Little Dorrit parted from them at the door, and hastened back to the
 Marshalsea. It fell dark there sooner than elsewhere, and going into it
-that evening was like going into a deep trench. The shadow of the wall
+that evening was like going into a deep trench. The [[Shadow|shadow]] of the wall
 was on every object. Not least upon the figure in the old grey gown and
 the black velvet cap, as it turned towards her when she opened the door
 of the dim room.

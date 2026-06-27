@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 20)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 20)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      present paper. Its bearer, an inhabitant of the moon, whom I have
+      present paper. Its bearer, an inhabitant of the [[Moon|moon]], whom I have
 
       prevailed upon, and properly instructed, to be my messenger to
 
@@ -48,7 +48,7 @@ tags:
 
       dignity, as to turn round three times upon his heel in the
 
-      quintessence of astonishment and admiration. There was no doubt
+      quintessence of astonishment and admiration. There was no [[Doubt|doubt]]
 
       about the matter—the pardon should be obtained. So at least
 
@@ -58,19 +58,19 @@ tags:
 
       brother in science, and without saying a word, began to make the
 
-      best of his way home to deliberate upon the measures to be
+      best of his way [[Home|home]] to deliberate upon the measures to be
 
       adopted. Having reached the door, however, of the burgomaster’s
 
-      dwelling, the professor ventured to suggest that as the messenger
+      dwelling, [[The Professor|the professor]] ventured to suggest that as the messenger
 
-      had thought proper to disappear—no doubt frightened to death by
+      had thought proper to disappear—no [[Doubt|doubt]] frightened to [[Death|death]] by
 
       the savage appearance of the burghers of Rotterdam—the pardon
 
-      would be of little use, as no one but a man of the moon would
+      would be of little use, as no one but a man of the [[Moon|moon]] would
 
-      undertake a voyage to so vast a distance. To the truth of this
+      undertake a voyage to so vast a distance. To the [[Truth|truth]] of this
 
       observation the burgomaster assented, and the matter was
 
@@ -102,17 +102,17 @@ tags:
 
 
 
-      Secondly. That an odd little dwarf and bottle conjurer, both of
+      Secondly. That an odd little [[Dwarf|dwarf]] and bottle conjurer, both of
 
       whose ears, for some misdemeanor, have been cut off close to his
 
-      head, has been missing for several days from the neighboring city
+      head, has been missing for several days from the neighboring [[City|city]]
 
       of Bruges.
 
 
 
-      Well—what of that?
+      [[Well]]—what of that?
 
 
 
@@ -120,9 +120,9 @@ tags:
 
       balloon were newspapers of Holland, and therefore could not have
 
-      been made in the moon. They were dirty papers—very dirty—and
+      been made in the [[Moon|moon]]. They were dirty papers—very dirty—and
 
-      Gluck, the printer, would take his Bible oath to their having
+      Gluck, the printer, would take his [[Bible]] oath to their having
 
       been printed in Rotterdam.
 
@@ -132,11 +132,11 @@ tags:
 
 
 
-      Fourthly, That Hans Pfaall himself, the drunken villain, and the
+      Fourthly, That Hans Pfaall himself, the drunken [[Villain|villain]], and the
 
       three very idle gentlemen styled his creditors, were all seen, no
 
-      longer than two or three days ago, in a tippling house in the
+      longer than two or three days ago, in a tippling [[house]] in the
 
       suburbs, having just returned, with money in their pockets, from
 
@@ -152,7 +152,7 @@ tags:
 
       ought to be generally received, that the College of Astronomers
 
-      in the city of Rotterdam, as well as other colleges in all other
+      in the [[City|city]] of Rotterdam, as [[Well|well]] as other colleges in all other
 
       parts of the world,—not to mention colleges and astronomers in
 
@@ -172,7 +172,7 @@ Notes to Hans Pfaal
 
       (*1) NOTE—Strictly speaking, there is but little similarity
 
-      between the above sketchy trifle and the celebrated “Moon-Story”
+      between the above sketchy trifle and the celebrated “[[Moon]]-Story”
 
       of Mr. Locke; but as both have the character of _hoaxes_
 
@@ -180,7 +180,7 @@ Notes to Hans Pfaal
 
       earnest), and as both hoaxes are on the same subject, the
 
-      moon—moreover, as both attempt to give plausibility by scientific
+      [[Moon|moon]]—moreover, as both attempt to give plausibility by scientific
 
       detail—the author of “Hans Pfaall” thinks it necessary to say, in
 
@@ -188,19 +188,19 @@ Notes to Hans Pfaal
 
       “Southern Literary Messenger” about three weeks before the
 
-      commencement of Mr. L’s in the “New York Sun.” Fancying a
+      commencement of Mr. L’s in the “[[New York]] Sun.” Fancying a
 
-      likeness which, perhaps, does not exist, some of the New York
+      likeness which, perhaps, does not exist, some of the [[New York]]
 
       papers copied “Hans Pfaall,” and collated it with the
 
-      “Moon-Hoax,” by way of detecting the writer of the one in the
+      “[[Moon]]-Hoax,” by way of detecting the writer of the one in the
 
       writer of the other.
 
 
 
-      As many more persons were actually gulled by the “Moon-Hoax” than
+      As many more persons were actually gulled by the “[[Moon]]-Hoax” than
 
       would be willing to acknowledge the fact, it may here afford some
 
@@ -210,7 +210,7 @@ Notes to Hans Pfaal
 
       sufficient to establish its real character. Indeed, however rich
 
-      the imagination displayed in this ingenious fiction, it wanted
+      the [[Imagination|imagination]] displayed in this ingenious fiction, it wanted
 
       much of the force which might have been given it by a more
 
@@ -220,13 +220,13 @@ Notes to Hans Pfaal
 
       ignorance which is so generally prevalent upon subjects of an
 
-      astronomical nature.
+      astronomical [[Nature|nature]].
 
 
 
-      The moon’s distance from the earth is, in round numbers, 240,000
+      The [[Moon|moon]]’s distance from the earth is, in round numbers, 240,000
 
-      miles. If we desire to ascertain how near, apparently, a lens
+      miles. If we [[Desire|desire]] to ascertain how near, apparently, a lens
 
       would bring the satellite (or any distant object), we, of course,
 
@@ -236,4 +236,4 @@ Notes to Hans Pfaal
 
       makes his lens have a power of 42,000 times. By this divide
 
-      240,000 (the moon’s real distance), and we have five miles and
+      240,000 (the [[Moon|moon]]’s real distance), and we have five miles and

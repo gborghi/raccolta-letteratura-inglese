@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 22)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 22)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-certainly held their honour like iron. And yet, even in this instant
+certainly held their [[Honour|honour]] like iron. And yet, even in this instant
 
 of instinctive reverence, I cannot feel that they were poetical enough,
 
@@ -22,7 +22,7 @@ that is childish enough, to make a revolution. They had all the audacity
 
 needed for speaking to the despot; but not the simplicity needed for
 
-speaking to the democracy. They were always accused of being too bitter
+speaking to the [[Democracy|democracy]]. They were always accused of being too bitter
 
 against the capitalist. But it always seemed to me that they were (quite
 
@@ -44,7 +44,7 @@ words crawl all over him, like so many long, soft, furry caterpillars.
 
 Caterpillars cannot sting like wasps. And, in repeating that the old
 
-Marxians have been, perhaps, the best and bravest men of our time, I say
+Marxians have been, perhaps, the best and bravest men of our [[Time|time]], I say
 
 also that they would have been better and braver still if they had never
 
@@ -58,13 +58,13 @@ The Beastly Individualist
 
 
 
-Suppose I go on to a ship, and the ship sinks almost immediately; but
+Suppose I go on to a [[Ship|ship]], and the [[Ship|ship]] sinks almost immediately; but
 
 I (like the people in the Bab Ballads), by reason of my clinging to a
 
-mast, upon a desert island am eventually cast. Or rather, suppose I am
+mast, upon a [[Desert|desert]] island am eventually cast. Or rather, suppose I am
 
-not cast on it, but am kept bobbing about in the water, because the only
+not cast on it, but am kept bobbing about in the [[Water|water]], because the only
 
 man on the island is what some call an Individualist, and will not throw
 
@@ -78,7 +78,7 @@ across the crashing breakers, I call his position the "insularistic
 
 position," and my position "the semi-amphibian position," much valuable
 
-time may be lost. I am not an amphibian. I am a drowning man. He is
+[[Time|time]] may be lost. I am not an amphibian. I am a drowning man. He is
 
 not an insularist, or an individualist. He is a beast. Or rather, he
 
@@ -98,11 +98,11 @@ Now, the language of poetry is simpler than that of prose; as anyone
 
 can see who has read what the old-fashioned protestant used to call
 
-confidently "his" Bible. And, being simpler, it is also truer; and,
+confidently "his" [[Bible]]. And, being simpler, it is also truer; and,
 
 being truer, it is also fiercer. And, for most of the infamies of our
 
-time, there is really nothing plain enough, except the plain language of
+[[Time|time]], there is really nothing plain enough, except the plain language of
 
 poetry. Take, let us say, the ease of the recent railway disaster,
 
@@ -120,17 +120,17 @@ good lives do not pay; and bad coals do pay. It seems simply impossible
 
 to get any other meaning out of the matter except that. And, if in human
 
-history there be anything simple and anything horrible, it seems to have
+[[history]] there be anything simple and anything horrible, it seems to have
 
 been present in this matter. If, even after some study and understanding
 
-of the old religious passions which were the resurrection of Europe,
+of the old religious passions which were the [[Resurrection|resurrection]] of Europe,
 
 we cannot endure the extreme infamy of witches and heretics literally
 
-burned alive--well, the people in this affair were quite as literally
+burned alive--[[Well|well]], the people in this affair were quite as literally
 
-burned alive. If, when we have really tried to extend our charity beyond
+burned alive. If, when we have really tried to extend our [[Charity|charity]] beyond
 
 the borders of personal sympathy, to all the complexities of class
 

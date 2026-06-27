@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 4 (part 8)"
+title: "[[aquinas]] — Chapter 4 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-There may be many who do not understand the nature even of this
+There may be many who do not understand the [[Nature|nature]] even of this
 sort of abstraction.  But then, unfortunately, there are many
-who do not understand the nature of any sort of argument.
+who do not understand the [[Nature|nature]] of any sort of argument.
 Indeed, I think there are fewer people now alive who understand
 argument than there were twenty or thirty years ago; and St. Thomas
 might have preferred the society of the atheists of the early nineteenth
@@ -27,10 +27,10 @@ If you argue honestly, as St. Thomas always did, you will find
 that the subject sometimes seems as if it would never end.
 He was strongly conscious of this fact, as appears in many places;
 for instance his argument that most men must have a revealed religion,
-because they have not time to argue.  No time, that is, to argue fairly.
-There is always time to argue unfairly; not least in a time like ours.
+because they have not [[Time|time]] to argue.  No [[Time|time]], that is, to argue fairly.
+There is always [[Time|time]] to argue unfairly; not least in a [[Time|time]] like ours.
 Being himself resolved to argue, to argue honestly, to answer everybody,
-to deal with everything, he produced books enough to sink a ship
+to deal with everything, he produced books enough to sink a [[Ship|ship]]
 or stock a library; though he died in comparatively early middle age.
 Probably he could not have done it at all, if he had not been thinking
 even when he was not writing; but above all thinking combatively.
@@ -44,8 +44,8 @@ We have noted that there are barely one or two occasions on which
 St. Thomas indulged in a denunciation.  There is not a single occasion
 on which he indulged in a sneer.  His curiously simple character,
 his lucid but laborious intellect, could not be better summed up than
-by saying that he did not know how to sneer.  He was in a double sense
-an intellectual aristocrat:  but he was never an intellectual snob.
+by saying that he did not know how to sneer.  He was in a [[Double|double]] sense
+an intellectual [[aristocrat]]:  but he was never an intellectual snob.
 He never troubled at all whether those to whom he talked were
 more or less of the sort whom the world thinks worth talking to:
 and it was apparent by the impression of his contemporaries
@@ -56,13 +56,13 @@ in the souls of all his fellow creatures, but not in classifying
 the minds of any of them; in a sense it was too personal and in
 another sense too arrogant for his particular mind and temper.
 He was very much interested in the subject he was talking about;
-and may sometimes have talked for a long time, though he was probably
-silent for a much longer time.  But he had all the unconscious
+and may sometimes have talked for a long [[Time|time]], though he was probably
+silent for a much longer [[Time|time]].  But he had all the unconscious
 contempt which the really intelligent have for an intelligentsia.
 
 Like most men concerned with the common problems of men, he seems
 to have had a considerable correspondence; considering that
-correspondence was so much more difficult in his time.
+correspondence was so much more difficult in his [[Time|time]].
 We have records of a great many cases in which complete strangers wrote
 to ask him questions, and sometimes rather ridiculous questions.
 To all of these he replied with a characteristic mixture of patience
@@ -75,26 +75,26 @@ not the case; but there is no harm in saying so."
 I have remarked on the portrait of St. Thomas by an Italian painter,
 which shows him alert even in abstraction; and only silent as if
 about to speak.  Pictures in that great tradition are generally
-full of small touches that show a very large imagination.
-I mean the sort of imagination on which Ruskin remarked,
+full of small touches that show a very large [[Imagination|imagination]].
+I mean the sort of [[Imagination|imagination]] on which Ruskin remarked,
 when he saw that in Tintoretto's sunlit scene of the Crucifixion
-the face of Christ is dark and undecipherable; but the halo round
+the face of [[Christ]] is dark and undecipherable; but the halo round
 his head unexpectedly faint and grey like the colour of ashes.
 It would be hard to put more powerfully the idea of Divinity
 itself in eclipse.  There is a touch, which it may be fanciful
-to find equally significant, in the portrait of Thomas Aquinas.
-The artist, having given so much vividness and vigilance to the eyes,
+to find equally significant, in the portrait of Thomas [[aquinas|Aquinas]].
+The [[artist]], having given so much vividness and vigilance to the eyes,
 may have felt that he stressed too much the merely combative
 concentration of the saint; but anyhow for some reason he has
 blazoned upon his breast a rather curious emblem, as if it were
 some third symbolic and cyclopean eye.  At least it is no normal
 Christian sign; but something more like the disk of the sun such
 as held the face of a heathen god; but the face itself is dark
-and occult, and only the rays breaking from it are a ring of fire.
+and occult, and only the rays breaking from it are a ring of [[Fire|fire]].
 I do not know whether any traditional meaning has been attached
 to this; but its imaginative meaning is strangely apt.
 That secret sun, dark with excess of light, or not showing its light
-save in the enlightenment of others, might well be the exact emblem
+save in the enlightenment of others, might [[Well|well]] be the exact emblem
 of that inner and ideal life of the saint, which was not only
 hidden by his external words and actions, but even hidden by his
 merely outward and automatic silences and fits of reflection.
@@ -105,10 +105,10 @@ casual demeanour; as are many men built on a big masculine model
 and unconsciously inheriting a certain social splendour and largesse.
 But about his real life of sanctity he was intensely secretive.
 Such secrecy has indeed generally gone with sanctity; for the saint has
-an unfathomable horror of playing the Pharisee.  But in Thomas Aquinas it
+an unfathomable horror of playing the Pharisee.  But in Thomas [[aquinas|Aquinas]] it
 was even more sensitive, and what many in the world would call morbid.
 He did not mind being caught wool-gathering over the wine-cups of
-the King's banquet; for that was merely upon a point of controversy.
+the [[King]]'s banquet; for that was merely upon a point of controversy.
 But when there was some question of his having seen St. Paul in
 a vision, he was in an agony of alarm lest it should be discussed;
 and the story remains somewhat uncertain in consequence.

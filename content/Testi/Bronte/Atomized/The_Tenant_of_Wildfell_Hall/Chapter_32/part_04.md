@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 32 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 32 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,7 +24,7 @@ it would do you little good.”
 
 
 
-“Well, but if I had a mate that would not always be yielding, and
+“[[Well]], but if I had a mate that would not always be yielding, and
 
 always equally kind, but that would have the spirit to stand at bay now
 
@@ -32,7 +32,7 @@ and then, and honestly tell me her mind at all times, such a one as
 
 yourself for instance. Now, if I went on with you as I do with her when
 
-I’m in London, you’d make the house too hot to hold me at times, I’ll
+I’m in [[London]], you’d make the [[house]] too hot to hold me at times, I’ll
 
 be sworn.”
 
@@ -42,7 +42,7 @@ be sworn.”
 
 
 
-“Well, all the better for that, for I can’t stand contradiction, in a
+“[[Well]], all the better for that, for I can’t stand contradiction, in a
 
 general way, and I’m as fond of my own will as another; only I think
 
@@ -50,11 +50,11 @@ too much of it doesn’t answer for any man.”
 
 
 
-“Well, I would never contradict you without a cause, but certainly I
+“[[Well]], I would never contradict you without a cause, but certainly I
 
 would always let you know what I thought of your conduct; and if you
 
-oppressed me, in body, mind, or estate, you should at least have no
+oppressed me, in [[Body|body]], mind, or estate, you should at least have no
 
 reason to suppose ‘I didn’t mind it.’”
 
@@ -74,7 +74,7 @@ same plan, it would be better for us both.”
 
 think upon it, Huntingdon often regrets that you are not more like her,
 
-scoundrelly dog that he is, and you see, after all, you can’t reform
+scoundrelly dog that he is, and you see, after all, you can’t [[Reform|reform]]
 
 _him:_ he’s _ten_ times worse than I. He’s afraid of you, to be sure;
 
@@ -82,17 +82,17 @@ that is, he’s always on his best behaviour in your presence—but—”
 
 
 
-“I wonder what his worst behaviour is like, then?” I could not forbear
+“I [[Wonder|wonder]] what his worst behaviour is like, then?” I could not forbear
 
 observing.
 
 
 
-“Why, to tell you the truth, it’s very bad indeed—isn’t it, Hargrave?”
+“Why, to tell you the [[Truth|truth]], it’s very bad indeed—isn’t it, Hargrave?”
 
 said he, addressing that gentleman, who had entered the room
 
-unperceived by me, for I was now standing near the fire, with my back
+unperceived by me, for I was now standing near the [[Fire|fire]], with my back
 
 to the door. “Isn’t Huntingdon,” he continued, “as great a reprobate as
 
@@ -126,7 +126,7 @@ dignity, Mr. Hargrave took himself away to the other end of the rug.
 
 “Isn’t it a shame, Mrs. Huntingdon?” cried his brother-in-law; “I
 
-struck Walter Hargrave when I was drunk, the second night after we
+struck [[Walter Hargrave]] when I was drunk, the second [[Night|night]] after we
 
 came, and he’s turned a cold shoulder on me ever since; though I asked
 
@@ -170,7 +170,7 @@ least,” said Mr. Hargrave, hiding his anger under a mask of disgust.
 
 
 
-“What have I said?” returned Hattersley: “nothing but heaven’s truth.
+“What have I said?” returned Hattersley: “nothing but heaven’s [[Truth|truth]].
 
 He will be damned, won’t he, Mrs. Huntingdon, if he doesn’t forgive his
 
@@ -186,7 +186,7 @@ brother’s trespasses?”
 
 forward and offered his hand. It was immediately clasped in that of his
 
-relative, and the reconciliation was apparently cordial on both sides.
+relative, and the [[Reconciliation|reconciliation]] was apparently cordial on both sides.
 
 
 
@@ -242,9 +242,9 @@ the nursery.”
 
 
 
-“No; I want the exercise of a run to the top of the house. Come,
+“No; I want the exercise of a run to the top of the [[house]]. Come,
 
-Arthur.”
+[[arthur|Arthur]].”
 
 
 
@@ -260,9 +260,9 @@ Arthur.”
 
 
 
-“At lunch,” said I, departing with little Helen in one arm and leading
+“At lunch,” said I, departing with little [[Helen]] in one arm and leading
 
-Arthur by the hand.
+[[arthur|Arthur]] by the hand.
 
 
 
@@ -284,13 +284,13 @@ fact is, Mrs. Huntingdon, I have a disclosure to make, painful for me
 
 to offer as for you to hear; and I want you to give me a few minutes of
 
-your attention in private at any time and place you like to appoint. It
+your attention in private at any [[Time|time]] and place you like to appoint. It
 
 is from no selfish motive that I ask it, and not for any cause that
 
 could alarm your superhuman purity: therefore you need not kill me with
 
-that look of cold and pitiless disdain. I know too well the feelings
+that look of cold and pitiless disdain. I know too [[Well|well]] the feelings
 
 with which the bearers of bad tidings are commonly regarded not to—”
 
@@ -314,7 +314,7 @@ want to hear, and something you would displease me by telling.”
 
 
 
-“You have divined too truly, I fear; but still, since I know it, I feel
+“You have divined too truly, I [[Fear|fear]]; but still, since I know it, I feel
 
 it my duty to disclose it to you.”
 
@@ -338,7 +338,7 @@ I left him. I was determined his words should not alarm me. What could
 
 _he_, of all men, have to reveal that was of importance for _me_ to
 
-hear? It was no doubt some exaggerated tale about my unfortunate
+hear? It was no [[Doubt|doubt]] some exaggerated tale about my unfortunate
 
 husband that he wished to make the most of to serve his own bad
 
@@ -350,14 +350,14 @@ purposes.
 
 seen no reason to repent of my unwillingness to hear it. The threatened
 
-blow has not been struck yet, and I do not greatly fear it. At present
+blow has not been struck yet, and I do not greatly [[Fear|fear]] it. At present
 
-I am pleased with Arthur: he has not positively disgraced himself for
+I am pleased with [[arthur|Arthur]]: he has not positively disgraced himself for
 
 upwards of a fortnight, and all this last week has been so very
 
 moderate in his indulgence at table that I can perceive a marked
 
-difference in his general temper and appearance. Dare I hope this will
+difference in his general temper and appearance. Dare I [[Hope|hope]] this will
 
 continue?

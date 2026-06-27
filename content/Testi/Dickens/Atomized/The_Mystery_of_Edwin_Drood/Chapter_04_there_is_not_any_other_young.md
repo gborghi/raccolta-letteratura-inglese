@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Part 4: there is not any other young—”"
+title: "The Mystery of [[Edwin Drood]] — Part 4: there is not any other young—”"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -18,9 +18,9 @@ part—there is not any other young—”
 
 “O no, Eddy! It’s generous of you to ask me; but no, no, no!”
 
-They have come very near to the Cathedral windows, and at this moment
+They have come very near to the [[Cathedral]] windows, and at this moment
 the organ and the choir sound out sublimely. As they sit listening to
-the solemn swell, the confidence of last night rises in young Edwin
+the solemn swell, the confidence of last [[Night|night]] rises in young Edwin
 Drood’s mind, and he thinks how unlike this music is to that
 discordance.
 
@@ -34,7 +34,7 @@ listen to it; let us get away!”
 
 Her hurry is over as soon as they have passed out of the Close. They go
 arm-in-arm now, gravely and deliberately enough, along the old
-High-street, to the Nuns’ House. At the gate, the street being within
+High-street, to the Nuns’ [[house|House]]. At the gate, the street being within
 sight empty, Edwin bends down his face to Rosebud’s.
 
 She remonstrates, laughing, and is a childish schoolgirl again.

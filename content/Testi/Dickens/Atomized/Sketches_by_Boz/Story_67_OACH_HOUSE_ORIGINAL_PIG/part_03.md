@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — OACH-HOUSE, ORIGINAL PIG. (part 3)"
+title: "Sketches by Boz — OACH-[[house|HOUSE]], ORIGINAL PIG. (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -17,13 +17,13 @@ tags:
 ‘_Twenty minutes to twelve_.
 
 
-‘Professor Grime has inadvertently tossed his half-crown out of one of
+‘Professor Grime has inadvertently tossed his half-[[Crown|crown]] out of one of
 the cabin-windows, and it has been arranged that the steward shall toss
 for him. Bets are offered on any side to any amount, but there are no
 takers.
 
 ‘Professor Woodensconce has just called “woman;” but the coin having
-lodged in a beam, is a long time coming down again. The interest and
+lodged in a beam, is a long [[Time|time]] coming down again. The interest and
 suspense of this one moment are beyond anything that can be imagined.’
 
 ‘_Twelve o’clock_.
@@ -34,8 +34,8 @@ has won. Tossing is a game of chance; but on every ground, whether of
 public or private character, intellectual endowments, or scientific
 attainments, I cannot help expressing my opinion that Professor
 Woodensconce _ought_ to have come off victorious. There is an
-exultation about Professor Grime incompatible, I fear, with true
-greatness.’
+exultation about Professor Grime incompatible, I [[Fear|fear]], with true
+[[Greatness|greatness]].’
 
 ‘_A quarter past twelve_.
 
@@ -43,12 +43,12 @@ greatness.’
 ‘Professor Grime continues to exult, and to boast of his victory in no
 very measured terms, observing that he always does win, and that he
 knew it would be a “head” beforehand, with many other remarks of a
-similar nature. Surely this gentleman is not so lost to every feeling
+similar [[Nature|nature]]. Surely this gentleman is not so lost to every feeling
 of decency and propriety as not to feel and know the superiority of
 Professor Woodensconce? Is Professor Grime insane? or does he wish to
 be reminded in plain language of his true position in society, and the
 precise level of his acquirements and abilities? Professor Grime will
-do well to look to this.’
+do [[Well|well]] to look to this.’
 
 ‘_One o’clock_.
 
@@ -57,10 +57,10 @@ do well to look to this.’
 light of a flickering lamp suspended from the ceiling; Professor Grime
 is lying on the opposite shelf on the broad of his back, with his mouth
 wide open. The scene is indescribably solemn. The rippling of the tide,
-the noise of the sailors’ feet overhead, the gruff voices on the river,
-the dogs on the shore, the snoring of the passengers, and a constant
+the noise of the sailors’ feet overhead, the gruff voices on the [[River|river]],
+the [[dogs]] on the shore, the snoring of the passengers, and a constant
 creaking of every plank in the vessel, are the only sounds that meet
-the ear. With these exceptions, all is profound silence.
+the ear. With these exceptions, all is profound [[Silence|silence]].
 
 ‘My curiosity has been within the last moment very much excited. Mr.
 Slug, who lies above Professor Grime, has cautiously withdrawn the
@@ -109,7 +109,7 @@ rapidity of extreme terror, ran wildly into the ladies’ cabin, under
 the impression that we were sinking, and uttering loud cries for aid. I
 am assured that the scene which ensued baffles all description. There
 were one hundred and forty-seven ladies in their respective berths at
-the time.
+the [[Time|time]].
 
 ‘Mr. Slug has remarked, as an additional instance of the extreme
 ingenuity of the steam-engine as applied to purposes of navigation,
@@ -121,12 +121,12 @@ association.’
 ‘_Half-past ten_.
 
 
-‘We are still in smooth water; that is to say, in as smooth water as a
+‘We are still in smooth [[Water|water]]; that is to say, in as smooth [[Water|water]] as a
 steam-vessel ever can be, for, as Professor Woodensconce (who has just
 woke up) learnedly remarks, another great point of ingenuity about a
-steamer is, that it always carries a little storm with it. You can
-scarcely conceive how exciting the jerking pulsation of the ship
-becomes. It is a matter of positive difficulty to get to sleep.’
+steamer is, that it always carries a little [[Storm|storm]] with it. You can
+scarcely conceive how exciting the jerking pulsation of the [[Ship|ship]]
+becomes. It is a matter of positive difficulty to get to [[Sleep|sleep]].’
 
 ‘_Friday afternoon_, _six o’clock_.
 
@@ -137,10 +137,10 @@ notwithstanding. How affecting is this extreme devotion to science and
 pursuit of knowledge under the most trying circumstances!
 
 ‘We were extremely happy this morning, and the breakfast was one of the
-most animated description. Nothing unpleasant occurred until noon, with
+most animated description. Nothing unpleasant occurred until [[Noon|noon]], with
 the exception of Doctor Foxey’s brown silk umbrella and white hat
 becoming entangled in the machinery while he was explaining to a knot
-of ladies the construction of the steam-engine. I fear the gravy soup
+of ladies the construction of the steam-engine. I [[Fear|fear]] the gravy soup
 for lunch was injudicious. We lost a great many passengers almost
 immediately afterwards.’
 
@@ -158,5 +158,5 @@ Professor Woodensconce’s bag, that unfortunate gentleman being quite
 unable to leave the deck, and imploring constantly to be thrown
 overboard. From this man I understand that Professor Nogo, though in a
 state of utter exhaustion, clings feebly to the hard biscuit and cold
-brandy and water, under the impression that they will yet restore him.
+brandy and [[Water|water]], under the impression that they will yet restore him.
 Such is the triumph of mind over matter.

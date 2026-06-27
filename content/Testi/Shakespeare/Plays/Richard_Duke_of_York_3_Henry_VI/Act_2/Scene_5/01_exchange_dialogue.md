@@ -1,5 +1,5 @@
 ---
-title: "Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (dialogue) [1]"
+title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act II, Scene 5 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-DUKE-OF-YORK---(3-HENRY-VI)-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Alarum. Enter King Henry |
+| *(didascalia)* | Alarum. Enter [[King]] Henry |

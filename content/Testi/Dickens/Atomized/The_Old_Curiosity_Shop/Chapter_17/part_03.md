@@ -15,14 +15,14 @@ tags:
 
 
 They had stopped to rest beneath a finger-post where four roads met,
-and Mr Codlin in his deep misanthropy had let down the drapery and
-seated himself in the bottom of the show, invisible to mortal eyes and
+and Mr Codlin in his deep [[Misanthropy|misanthropy]] had let down the drapery and
+seated himself in the [[Bottom|bottom]] of the show, invisible to mortal eyes and
 disdainful of the company of his fellow creatures, when two monstrous
-shadows were seen stalking towards them from a turning in the road by
-which they had come.  The child was at first quite terrified by the
+shadows were seen stalking towards them from a turning in the [[Road|road]] by
+which they had come.  The [[Child|child]] was at first quite terrified by the
 sight of these gaunt giants--for such they looked as they advanced with
-lofty strides beneath the shadow of the trees--but Short, telling her
-there was nothing to fear, blew a blast upon the trumpet, which was
+lofty strides beneath the [[Shadow|shadow]] of the trees--but Short, telling her
+there was nothing to [[Fear|fear]], blew a blast upon the trumpet, which was
 answered by a cheerful shout.
 
 ‘It’s Grinder’s lot, an’t it?’ cried Mr Short in a loud key.
@@ -32,14 +32,14 @@ answered by a cheerful shout.
 ‘Come on then,’ said Short.  ‘Let’s have a look at you.  I thought it
 was you.’
 
-Thus invited, ‘Grinder’s lot’ approached with redoubled speed and soon
+Thus invited, ‘Grinder’s lot’ approached with redoubled [[Speed|speed]] and soon
 came up with the little party.
 
 Mr Grinder’s company, familiarly termed a lot, consisted of a young
 gentleman and a young lady on stilts, and Mr Grinder himself, who used
 his natural legs for pedestrian purposes and carried at his back a
 drum.  The public costume of the young people was of the Highland kind,
-but the night being damp and cold, the young gentleman wore over his
+but the [[Night|night]] being damp and cold, the young gentleman wore over his
 kilt a man’s pea jacket reaching to his ankles, and a glazed hat; the
 young lady too was muffled in an old cloth pelisse and had a
 handkerchief tied about her head.  Their Scotch bonnets, ornamented
@@ -56,11 +56,11 @@ and the young lady rattled her tambourine.
 
 ‘No,’ returned Grinder.  ‘It comes either to walkin’ in ‘em or carryin’
 of ‘em, and they like walkin’ in ‘em best.  It’s wery pleasant for the
-prospects.  Which road are you takin’?  We go the nighest.’
+prospects.  Which [[Road|road]] are you takin’?  We go the nighest.’
 
 ‘Why, the fact is,’ said Short, ‘that we are going the longest way,
-because then we could stop for the night, a mile and a half on.  But
-three or four mile gained to-night is so many saved to-morrow, and if
+because then we could stop for the [[Night|night]], a mile and a half on.  But
+three or four mile gained to-[[Night|night]] is so many saved to-morrow, and if
 you keep on, I think our best way is to do the same.’
 
 ‘Where’s your partner?’ inquired Grinder.
@@ -68,9 +68,9 @@ you keep on, I think our best way is to do the same.’
 ‘Here he is,’ cried Mr Thomas Codlin, presenting his head and face in
 the proscenium of the stage, and exhibiting an expression of
 countenance not often seen there; ‘and he’ll see his partner boiled
-alive before he’ll go on to-night.  That’s what he says.’
+alive before he’ll go on to-[[Night|night]].  That’s what he says.’
 
-‘Well, don’t say such things as them, in a spear which is dewoted to
+‘[[Well]], don’t say such things as them, in a spear which is dewoted to
 something pleasanter,’ urged Short.  ‘Respect associations, Tommy, even
 if you do cut up rough.’
 
@@ -78,7 +78,7 @@ if you do cut up rough.’
 footboard where Punch, when suddenly struck with the symmetry of his
 legs and their capacity for silk stockings, is accustomed to exhibit
 them to popular admiration, ‘rough or smooth, I won’t go further than
-the mile and a half to-night.  I put up at the Jolly Sandboys and
+the mile and a half to-[[Night|night]].  I put up at the Jolly Sandboys and
 nowhere else.  If you like to come there, come there.  If you like to
 go on by yourself, go on by yourself, and do without me if you can.’
 
@@ -91,10 +91,10 @@ to part with Mr Grinder and his pupils and to follow his morose
 companion.  After lingering at the finger-post for a few minutes to see
 the stilts frisking away in the moonlight and the bearer of the drum
 toiling slowly after them, he blew a few notes upon the trumpet as a
-parting salute, and hastened with all speed to follow Mr Codlin.  With
+parting salute, and hastened with all [[Speed|speed]] to follow Mr Codlin.  With
 this view he gave his unoccupied hand to Nell, and bidding her be of
-good cheer as they would soon be at the end of their journey for that
-night, and stimulating the old man with a similar assurance, led them
+good cheer as they would soon be at the end of their [[Journey|journey]] for that
+[[Night|night]], and stimulating the old man with a similar assurance, led them
 at a pretty swift pace towards their destination, which he was the less
-unwilling to make for, as the moon was now overcast and the clouds were
+unwilling to make for, as the [[Moon|moon]] was now overcast and the clouds were
 threatening rain.

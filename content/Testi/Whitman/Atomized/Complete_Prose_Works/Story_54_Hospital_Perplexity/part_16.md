@@ -17,7 +17,7 @@ tags:
 As I write, I am seated under a big wild-cherry tree--the warm day
 temper'd by partial clouds and a fresh breeze, neither too heavy nor
 light--and here I sit long and long, envelop'd in the deep musical
-drone of these bees, flitting, balancing, darting to and fro about me
+drone of these [[Bees|bees]], flitting, balancing, darting to and fro about me
 by hundreds--big fellows with light yellow jackets, great glistening
 swelling bodies, stumpy heads and gauzy wings--humming their perpetual
 rich mellow boom. (Is there not a hint in it for a musical composition,
@@ -30,21 +30,21 @@ my spirit at peace. (Yet the anniversary of the saddest loss and sorrow
 of my life is close at hand.)
 
 Another jotting, another perfect day: forenoon, from 7 to 9, two
-hours envelop'd in sound of bumble-bees and bird-music. Down in the
+hours envelop'd in sound of bumble-[[Bees|bees]] and bird-music. Down in the
 apple-trees and in a neighboring cedar were three or four russet-back'd
 thrushes, each singing his best, and roulading in ways I never heard
 surpass'd. Two hours I abandon myself to hearing them, and indolently
-absorbing the scene. Almost every bird I notice has a special time in
+absorbing the scene. Almost every bird I notice has a special [[Time|time]] in
 the year--sometimes limited to a few days--when it sings its best; and
 now is the period of these russet-backs. Meanwhile, up and down the
-lane, the darting, droning, musical bumble-bees. A great swarm again for
-my entourage as I return home, moving along with me as before.
+lane, the darting, droning, musical bumble-[[Bees|bees]]. A great swarm again for
+my entourage as I return [[Home|home]], moving along with me as before.
 
 As I write this, two or three weeks later, I am sitting near the brook
 under a tulip tree, 70 feet high, thick with the fresh verdure of its
 young maturity--a beautiful object--every branch, every leaf perfect.
-From top to bottom, seeking the sweet juice in the blossoms, it swarms
-with myriads of these wild bees, whose loud and steady humming makes an
+From top to [[Bottom|bottom]], seeking the sweet juice in the blossoms, it swarms
+with myriads of these wild [[Bees|bees]], whose loud and steady humming makes an
 undertone to the whole, and to my mood and the hour. All of which I
 will bring to a close by extracting the following verses from Henry A.
 Beers's little volume:
@@ -53,15 +53,15 @@ Beers's little volume:
     A drunken bumble-bee went past
 
     Delirious with honey toddy.
-    The golden sash about his body
+    The golden sash about his [[Body|body]]
     Scarce kept it in his swollen belly
     Distent with honeysuckle jelly.
-    Rose liquor and the sweet-pea wine
-    Had fill' d his soul with song divine;
-    Deep had he drunk the warm night through,
+    [[Rose]] liquor and the sweet-pea wine
+    Had fill' d his [[Soul|soul]] with [[Song|song]] divine;
+    Deep had he drunk the warm [[Night|night]] through,
     His hairy thighs were wet with dew.
     Full many an antic he had play'd
-    While the world went round through sleep and shade.
+    While the world went round through [[Sleep|sleep]] and shade.
     Oft had he lit with thirsty lip
     Some flower-cup's nectar'd sweets to sip,
     When on smooth petals he would slip,
@@ -76,28 +76,28 @@ Beers's little volume:
 
 CEDAR-APPLES
 
-As I journey'd to-day in a light wagon ten or twelve miles through the
-country, nothing pleas'd me more, in their homely beauty and novelty (I
+As I [[Journey|journey]]'d to-day in a light wagon ten or twelve miles through the
+country, nothing pleas'd me more, in their homely [[Beauty|beauty]] and novelty (I
 had either never seen the little things to such advantage, or had
 never noticed them before) than that peculiar fruit, with its profuse
 clear-yellow dangles of inch-long silk or yarn, in boundless profusion
-spotting the dark green cedar bushes--contrasting well with their bronze
+spotting the dark green cedar bushes--contrasting [[Well|well]] with their bronze
 tufts--the flossy shreds covering the knobs all over, like a shock of
 wild hair on elfin pates. On my ramble afterward down by the creek I
 pluck'd one from its bush, and shall keep it. These cedar-apples last
 only a little while however, and soon crumble and fade.
 
 
-SUMMER SIGHTS AND INDOLENCIES
+[[Summer|SUMMER]] SIGHTS AND INDOLENCIES
 
 _June 10th_.--As I write, 5-1/2 P.M., here by the creek, nothing can
 exceed the quiet splendor and freshness around me. We had a heavy
-shower, with brief thunder and lightning, in the middle of the day; and
+shower, with brief thunder and [[Lightning|lightning]], in the middle of the day; and
 since, overhead, one of those not uncommon yet indescribable skies
-(in quality, not details or forms) of limpid blue, with rolling
+(in quality, not details or forms) of limpid blue, with [[rolling]]
 silver-fringed clouds, and a pure-dazzling sun. For underlay, trees
 in fulness of tender foliage--liquid, reedy, long-drawn notes of
-birds--based by the fretful mewing of a querulous cat-bird, and the
+[[Birds|birds]]--based by the fretful mewing of a querulous cat-bird, and the
 pleasant chippering-shriek of two kingfishers. I have been watching the
 latter the last half hour, on their regular evening frolic over and in
 the stream; evidently a spree of the liveliest kind. They pursue each
@@ -109,23 +109,23 @@ see their dark-gray feather-bodies and milk-white necks.
 
 SUNDOWN PERFUME--QUAILNOTES--THE HERMIT-THRUSH
 
-_June 19th, 4 to 6-1/2, P.M._--Sitting alone by the creek--solitude
+_June 19th, 4 to 6-1/2, P.M._--Sitting [[Alone|alone]] by the creek--[[Solitude|solitude]]
 here, but the scene bright and vivid enough--the sun shining, and quite
-a fresh wind blowing (some heavy showers last night,) the grass and
+a fresh [[Wind|wind]] blowing (some heavy showers last [[Night|night]],) the grass and
 trees looking their best--the clare-obscure of different greens,
-shadows, half-shadows, and the dappling glimpses of the water, through
+shadows, half-shadows, and the dappling glimpses of the [[Water|water]], through
 recesses--the wild flageolet-note of a quail near by--the just-heard
 fretting of some hylas down there in the pond--crows cawing in the
 distance--a drove of young hogs rooting in soft ground near the oak
 under which I sit--some come sniffing near me, and then scamper away,
 with grunts. And still the clear notes of the quail--the quiver of
 leaf-shadows over the paper as I write--the sky aloft, with white
-clouds, and the sun well declining to the west--the swift darting
+clouds, and the sun [[Well|well]] declining to the west--the swift darting
 of many sand-swallows coming and going, their holes in a neighboring
 marl-bank--the odor of the cedar and oak, so palpable, as evening
 approaches--perfume, color, the bronze-and-gold of nearly ripen'd
-wheat--clover-fields, with honey-scent--the well-up maize, with long and
-rustling leaves--the great patches of thriving potatoes, dusky green,
+wheat--clover-fields, with honey-scent--the [[Well|well]]-up maize, with long and
+rustling [[Leaves|leaves]]--the great patches of thriving potatoes, dusky green,
 fleck'd all over with white blossoms--the old, warty, venerable oak
 above me--and ever, mix'd with the dual notes of the quail, the soughing
-of the wind through some near-by pines.
+of the [[Wind|wind]] through some near-by pines.

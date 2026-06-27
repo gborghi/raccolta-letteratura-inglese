@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 33 (part 4)"
+title: "[[Shirley]] — Chapter 33 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Such was his prayer.
+Such was his [[Prayer|prayer]].
 
 
 
@@ -56,7 +56,7 @@ head. I deserve it."
 
 
 
-"It is a coal of fire heaped on my head; and so is every word you
+"It is a coal of [[Fire|fire]] heaped on my head; and so is every word you
 
 address to me, and every look that lights your sweet face. Come still
 
@@ -102,7 +102,7 @@ twenty minutes instead of a quarter of an hour."
 
 "No, she can't," responded Martin. "The thing mustn't become customary.
 
-I can't be troubled. It's very well for once; I'll not have it
+I can't be troubled. It's very [[Well|well]] for once; I'll not have it
 
 repeated."
 
@@ -154,7 +154,7 @@ him back, he would have claimed his reward; he would have said, "Now,
 
 Miss Caroline, for all this give me one kiss." But ere the words had
 
-passed his lips she was across the snowy road, rather skimming than
+passed his lips she was across the snowy [[Road|road]], rather skimming than
 
 wading the drifts.
 
@@ -166,6 +166,6 @@ wading the drifts.
 
 He flattered himself that it was opportunity, not audacity, which had
 
-failed him. He misjudged the quality of his own nature, and held it for
+failed him. He misjudged the quality of his own [[Nature|nature]], and held it for
 
 something lower than it was.

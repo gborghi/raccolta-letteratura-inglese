@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 36"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 36"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,15 +22,15 @@ tags:
 
 December 20th, 1824.—This is the third anniversary of our felicitous
 
-union. It is now two months since our guests left us to the enjoyment
+[[Union|union]]. It is now two months since our guests left us to the enjoyment
 
 of each other’s society; and I have had nine weeks’ experience of this
 
 new phase of conjugal life—two persons living together, as master and
 
-mistress of the house, and father and mother of a winsome, merry little
+mistress of the [[house]], and father and mother of a winsome, merry little
 
-child, with the mutual understanding that there is no love, friendship,
+[[Child|child]], with the mutual understanding that there is no [[Love|love]], [[Friendship|friendship]],
 
 or sympathy between them. As far as in me lies, I endeavour to live
 
@@ -54,7 +54,7 @@ cold-hearted, hard, insensate; my sour, pale face was perfectly
 
 repulsive; my voice made him shudder; he knew not how he could live
 
-through the winter with me; I should kill him by inches. Again I
+through the [[Winter|winter]] with me; I should kill him by inches. Again I
 
 proposed a separation, but it would not do: he was not going to be the
 
@@ -68,9 +68,9 @@ must contrive to bear with me.
 
 “I must contrive to bear with _you_, you mean,” said I; “for so long as
 
-I discharge my functions of steward and house-keeper, so
+I discharge my functions of steward and [[house]]-keeper, so
 
-conscientiously and well, without pay and without thanks, you cannot
+conscientiously and [[Well|well]], without pay and without thanks, you cannot
 
 afford to part with me. I shall therefore remit these duties when my
 
@@ -82,7 +82,7 @@ keep him in check, if anything would.
 
 I believe he was much disappointed that I did not feel his offensive
 
-sayings more acutely, for when he had said anything particularly well
+sayings more acutely, for when he had said anything particularly [[Well|well]]
 
 calculated to hurt my feelings, he would stare me searchingly in the
 
@@ -92,7 +92,7 @@ insensibility.” If I had bitterly wept and deplored his lost affection,
 
 he would, perhaps, have condescended to pity me, and taken me into
 
-favour for a while, just to comfort his solitude and console him for
+favour for a while, just to comfort his [[Solitude|solitude]] and console him for
 
 the absence of his beloved Annabella, until he could meet her again, or
 
@@ -110,7 +110,7 @@ thank for it.
 
 At first (in compliance with his sweet lady’s injunctions, I suppose),
 
-he abstained wonderfully well from seeking to solace his cares in wine;
+he abstained wonderfully [[Well|well]] from seeking to solace his cares in wine;
 
 but at length he began to relax his virtuous efforts, and now and then
 
@@ -144,7 +144,7 @@ and caressing him when I know that he scorns me? Is it _my_ fault that
 
 I have lost my influence with him, or that he has forfeited every claim
 
-to my regard? And should I seek a reconciliation with him, when I feel
+to my regard? And should I seek a [[Reconciliation|reconciliation]] with him, when I feel
 
 that I abhor him, and that he despises me? and while he continues still
 
@@ -158,7 +158,7 @@ Yet I do my part to save him still: I give him to understand that
 
 drinking makes his eyes dull, and his face red and bloated; and that it
 
-tends to render him imbecile in body and mind; and if Annabella were to
+tends to render him imbecile in [[Body|body]] and mind; and if Annabella were to
 
 see him as often as I do, she would speedily be disenchanted; and that
 
@@ -184,23 +184,23 @@ absence!
 
 
 
-Mr. Hargrave is still at the Grove. He and Arthur frequently meet to
+Mr. Hargrave is still at the Grove. He and [[arthur|Arthur]] frequently meet to
 
 pursue their rural sports together: he often calls upon us here, and
 
-Arthur not unfrequently rides over to him. I do not think either of
+[[arthur|Arthur]] not unfrequently rides over to him. I do not think either of
 
-these soi-disant friends is overflowing with love for the other; but
+these soi-disant friends is overflowing with [[Love|love]] for the other; but
 
-such intercourse serves to get the time on, and I am very willing it
+such intercourse serves to get the [[Time|time]] on, and I am very willing it
 
-should continue, as it saves me some hours of discomfort in Arthur’s
+should continue, as it saves me some hours of discomfort in [[arthur|Arthur]]’s
 
 society, and gives him some better employment than the sottish
 
 indulgence of his sensual appetites. The only objection I have to Mr.
 
-Hargrave’s being in the neighbourhood, is that the fear of meeting him
+Hargrave’s being in the neighbourhood, is that the [[Fear|fear]] of meeting him
 
 at the Grove prevents me from seeing his sister so often as I otherwise
 
@@ -224,13 +224,13 @@ to relent towards my wretched partner; to pity his forlorn, comfortless
 
 condition, unalleviated as it is by the consolations of intellectual
 
-resources and the answer of a good conscience towards God; and to think
+resources and the answer of a good [[Conscience|conscience]] towards God; and to think
 
-I ought to sacrifice my pride, and renew my efforts once again to make
+I ought to sacrifice my [[Pride|pride]], and renew my efforts once again to make
 
-his home agreeable and lead him back to the path of virtue; not by
+his [[Home|home]] agreeable and lead him back to the path of virtue; not by
 
-false professions of love, and not by pretended remorse, but by
+false professions of [[Love|love]], and not by pretended remorse, but by
 
 mitigating my habitual coldness of manner, and commuting my frigid
 
@@ -240,11 +240,11 @@ was I beginning to think so, but I had already begun to act upon the
 
 thought—and what was the result? No answering spark of kindness, no
 
-awakening penitence, but an unappeasable ill-humour, and a spirit of
+awakening penitence, but an unappeasable ill-[[Humour|humour]], and a spirit of
 
 tyrannous exaction that increased with indulgence, and a lurking gleam
 
-of self-complacent triumph at every detection of relenting softness in
+of [[Self|self]]-complacent triumph at every detection of relenting softness in
 
 my manner, that congealed me to marble again as often as it recurred;
 
@@ -270,13 +270,13 @@ first page; it seemed full of extravagant protestations of affection;
 
 impetuous longings for a speedy reunion—and impious defiance of God’s
 
-mandates, and railings against His providence for having cast their lot
+mandates, and railings against His [[Providence|providence]] for having cast their lot
 
 asunder, and doomed them both to the hateful bondage of alliance with
 
-those they could not love. He gave a slight titter on seeing me change
+those they could not [[Love|love]]. He gave a slight titter on seeing me change
 
-colour. I folded up the letter, rose, and returned it to him, with no
+colour. I folded up the letter, [[Rose|rose]], and returned it to him, with no
 
 remark, but—
 
@@ -286,7 +286,7 @@ remark, but—
 
 
 
-My little Arthur was standing between his knees, delightedly playing
+My little [[arthur|Arthur]] was standing between his knees, delightedly playing
 
 with the bright, ruby ring on his finger. Urged by a sudden, imperative
 
@@ -294,7 +294,7 @@ impulse to deliver my son from that contaminating influence, I caught
 
 him up in my arms and carried him with me out of the room. Not liking
 
-this abrupt removal, the child began to pout and cry. This was a new
+this abrupt removal, the [[Child|child]] began to pout and cry. This was a new
 
 stab to my already tortured heart. I would not let him go; but, taking
 
@@ -306,7 +306,7 @@ passionate fondness. Rather frightened than consoled by this, he turned
 
 struggling from me, and cried out aloud for his papa. I released him
 
-from my arms, and never were more bitter tears than those that now
+from my arms, and never were more bitter [[Tears|tears]] than those that now
 
 concealed him from my blinded, burning eyes. Hearing his cries, the
 
@@ -314,13 +314,13 @@ father came to the room. I instantly turned away, lest he should see
 
 and misconstrue my emotion. He swore at me, and took the now pacified
 
-child away.
+[[Child|child]] away.
 
 
 
-It is hard that my little darling should love him more than me; and
+It is hard that my little darling should [[Love|love]] him more than me; and
 
-that, when the well-being and culture of my son is all I have to live
+that, when the [[Well|well]]-being and culture of my son is all I have to live
 
 for, I should see my influence destroyed by one whose selfish affection
 
@@ -328,9 +328,9 @@ is more injurious than the coldest indifference or the harshest tyranny
 
 could be. If I, for his good, deny him some trifling indulgence, he
 
-goes to his father, and the latter, in spite of his selfish indolence,
+goes to his father, and the latter, in spite of his selfish [[Indolence|indolence]],
 
-will even give himself some trouble to meet the child’s desires: if I
+will even give himself some trouble to meet the [[Child|child]]’s desires: if I
 
 attempt to curb his will, or look gravely on him for some act of
 
@@ -344,15 +344,15 @@ and eradicate, and his corrupting intercourse and example in after-life
 
 to counteract, but already _he_ counteracts my arduous labour for the
 
-child’s advantage, destroys my influence over his tender mind, and robs
+[[Child|child]]’s advantage, destroys my influence over his tender mind, and robs
 
-me of his very love; I had no earthly hope but this, and he seems to
+me of his very [[Love|love]]; I had no earthly [[Hope|hope]] but this, and he seems to
 
 take a diabolical delight in tearing it away.
 
 
 
-But it is wrong to despair; I will remember the counsel of the inspired
+But it is wrong to [[Despair|despair]]; I will remember the counsel of the inspired
 
 writer to him “that feareth the Lord and obeyeth the voice of his
 

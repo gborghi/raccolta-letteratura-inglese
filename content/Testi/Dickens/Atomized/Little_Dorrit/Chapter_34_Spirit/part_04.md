@@ -30,16 +30,16 @@ one waiting?’
 
 ‘Thank you, John. How is your mother, Young John?’
 
-‘Thank you, sir, she’s not quite as well as we could wish--in fact, we
-none of us are, except father--but she’s pretty well, sir.’
+‘Thank you, sir, she’s not quite as [[Well|well]] as we could wish--in fact, we
+none of us are, except father--but she’s pretty [[Well|well]], sir.’
 
 ‘Say we sent our remembrances, will you? Say kind remembrances, if you
 please, Young John.’
 
 ‘Thank you, sir, I will.’ And Mr Chivery junior went his way, having
 spontaneously composed on the spot an entirely new epitaph for himself,
-to the effect that Here lay the body of John Chivery, Who, Having
-at such a date, Beheld the idol of his life, In grief and tears, And
+to the effect that Here lay the [[Body|body]] of John Chivery, Who, Having
+at such a date, Beheld the idol of his life, In grief and [[Tears|tears]], And
 feeling unable to bear the harrowing spectacle, Immediately repaired to
 the abode of his inconsolable parents, And terminated his existence by
 his own rash act.
@@ -48,15 +48,15 @@ his own rash act.
 door, ‘let us say no more about it.’ The last few minutes had improved
 his spirits remarkably, and he was quite lightsome. ‘Where is my old
 pensioner all this while? We must not leave him by himself any longer,
-or he will begin to suppose he is not welcome, and that would pain me.
-Will you fetch him, my child, or shall I?’
+or he will begin to suppose he is not welcome, and that would [[Pain|pain]] me.
+Will you fetch him, my [[Child|child]], or shall I?’
 
 ‘If you wouldn’t mind, father,’ said Little Dorrit, trying to bring her
 sobbing to a close.
 
 ‘Certainly I will go, my dear. I forgot; your eyes are rather red.
 There! Cheer up, Amy. Don’t be uneasy about me. I am quite myself again,
-my love, quite myself. Go to your room, Amy, and make yourself look
+my [[Love|love]], quite myself. Go to your room, Amy, and make yourself look
 comfortable and pleasant to receive Mr Clennam.’
 
 ‘I would rather stay in my own room, Father,’ returned Little Dorrit,
@@ -69,10 +69,10 @@ extremely gentlemanly. I couldn’t think of your not being here to
 receive Mr Clennam, my dear, especially this afternoon. So go and
 freshen yourself up, Amy; go and freshen yourself up, like a good girl.’
 
-Thus directed, Little Dorrit dutifully rose and obeyed: only pausing
+Thus directed, Little Dorrit dutifully [[Rose|rose]] and obeyed: only pausing
 for a moment as she went out of the room, to give her sister a kiss of
-reconciliation. Upon which, that young lady, feeling much harassed
-in her mind, and having for the time worn out the wish with which she
+[[Reconciliation|reconciliation]]. Upon which, that young lady, feeling much harassed
+in her mind, and having for the [[Time|time]] worn out the wish with which she
 generally relieved it, conceived and executed the brilliant idea of
 wishing Old Nandy dead, rather than that he should come bothering there
 like a disgusting, tiresome, wicked wretch, and making mischief between
@@ -81,12 +81,12 @@ two sisters.
 The Father of the Marshalsea, even humming a tune, and wearing his black
 velvet cap a little on one side, so much improved were his spirits, went
 down into the yard, and found his old pensioner standing there hat in
-hand just within the gate, as he had stood all this time. ‘Come, Nandy!’
+hand just within the gate, as he had stood all this [[Time|time]]. ‘Come, Nandy!’
 said he, with great suavity. ‘Come up-stairs, Nandy; you know the way;
 why don’t you come up-stairs?’ He went the length, on this occasion,
 of giving him his hand and saying, ‘How are you, Nandy? Are you pretty
-well?’ To which that vocalist returned, ‘I thank you, honoured sir, I am
-all the better for seeing your honour.’ As they went along the yard, the
+[[Well|well]]?’ To which that vocalist returned, ‘I thank you, honoured sir, I am
+all the better for seeing your [[Honour|honour]].’ As they went along the yard, the
 Father of the Marshalsea presented him to a Collegian of recent date.
 ‘An old acquaintance of mine, sir, an old pensioner.’ And then said, ‘Be
 covered, my good Nandy; put your hat on,’ with great consideration.
@@ -100,7 +100,7 @@ and his daughter Amy had come back with her work, when Clennam presented
 himself; whom he most graciously received, and besought to join their
 meal.
 
-‘Amy, my love, you know Mr Clennam even better than I have the happiness
+‘Amy, my [[Love|love]], you know Mr Clennam even better than I have the happiness
 of doing. Fanny, my dear, you are acquainted with Mr Clennam.’ Fanny
 acknowledged him haughtily; the position she tacitly took up in all such
 cases being that there was a vast conspiracy to insult the family by not
@@ -111,25 +111,25 @@ an object of great antiquity, but he was two or three years younger than
 himself.) ‘Let me see. You know Plornish, I think? I think my daughter
 Amy has mentioned to me that you know poor Plornish?’
 
-‘O yes!’ said Arthur Clennam.
+‘O yes!’ said [[Arthur Clennam]].
 
-‘Well, sir, this is Mrs Plornish’s father.’
+‘[[Well]], sir, this is Mrs Plornish’s father.’
 
 ‘Indeed? I am glad to see him.’
 
 ‘You would be more glad if you knew his many good qualities, Mr
 Clennam.’
 
-‘I hope I shall come to know them through knowing him,’ said Arthur,
+‘I [[Hope|hope]] I shall come to know them through knowing him,’ said [[arthur|Arthur]],
 secretly pitying the bowed and submissive figure.
 
 ‘It is a holiday with him, and he comes to see his old friends, who are
 always glad to see him,’ observed the Father of the Marshalsea. Then he
-added behind his hand, [‘Union, poor old fellow. Out for the day.’)
+added behind his hand, [‘[[Union]], poor old fellow. Out for the day.’)
 
-By this time Maggy, quietly assisted by her Little Mother, had spread
-the board, and the repast was ready. It being hot weather and the prison
-very close, the window was as wide open as it could be pushed. ‘If Maggy
-will spread that newspaper on the window-sill, my dear,’ remarked the
+By this [[Time|time]] Maggy, quietly assisted by her Little Mother, had spread
+the board, and the repast was ready. It being hot weather and the [[Prison|prison]]
+very close, the [[Window|window]] was as wide open as it could be pushed. ‘If Maggy
+will spread that newspaper on the [[Window|window]]-sill, my dear,’ remarked the
 Father complacently and in a half whisper to Little Dorrit, ‘my old
 pensioner can have his tea there, while we are having ours.’

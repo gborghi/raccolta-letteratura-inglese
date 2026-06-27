@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Celts and Celtophiles"
+title: "[[heret12]] — Celts and Celtophiles"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/heret12-(Chesterton)"
@@ -23,14 +23,14 @@ The word "kleptomania" is a vulgar example of what I mean.
 It is on a par with that strange theory, always advanced
 when a wealthy or prominent person is in the dock,
 that exposure is more of a punishment for the rich than
-for the poor.  Of course, the very reverse is the truth.
+for the poor.  Of course, the very reverse is the [[Truth|truth]].
 Exposure is more of a punishment for the poor than for the rich.
 The richer a man is the easier it is for him to be a tramp.
 The richer a man is the easier it is for him to be popular
 and generally respected in the Cannibal Islands.  But the poorer
 a man is the more likely it is that he will have to use
-his past life whenever he wants to get a bed for the night.
-Honour is a luxury for aristocrats, but it is a necessity
+his past life whenever he wants to get a bed for the [[Night|night]].
+[[Honour]] is a luxury for aristocrats, but it is a necessity
 for hall-porters. This is a secondary matter, but it is an
 example of the general proposition I offer--the proposition
 that an enormous amount of modern ingenuity is expended on
@@ -42,7 +42,7 @@ has come to the rescue of the rich and stupid, there is none
 so singular as the singular invention of the theory of races.
 
 When a wealthy nation like the English discovers the perfectly patent fact
-that it is making a ludicrous mess of the government of a poorer nation
+that it is making a ludicrous mess of the [[government]] of a poorer nation
 like the Irish, it pauses for a moment in consternation, and then begins
 to talk about Celts and Teutons.  As far as I can understand the theory,
 the Irish are Celts and the English are Teutons.  Of course, the Irish
@@ -55,36 +55,36 @@ of applying the terms "Celtic" or "Teutonic" to either of them in any
 positive or useful sense.
 
 That sort of thing must be left to people who talk about the
-Anglo-Saxon race, and extend the expression to America.  How much
-of the blood of the Angles and Saxons (whoever they were)
+Anglo-Saxon race, and extend the expression to [[America]].  How much
+of the [[Blood|blood]] of the Angles and Saxons (whoever they were)
 there remains in our mixed British, Roman, German, Dane, Norman,
 and Picard stock is a matter only interesting to wild antiquaries.
-And how much of that diluted blood can possibly remain
-in that roaring whirlpool of America into which a cataract
+And how much of that diluted [[Blood|blood]] can possibly remain
+in that roaring whirlpool of [[America]] into which a cataract
 of Swedes, Jews, Germans, Irishmen, and Italians is
 perpetually pouring, is a matter only interesting to lunatics.
 It would have been wiser for the English governing class
 to have called upon some other god.  All other gods,
 however weak and warring, at least boast of being constant.
 But science boasts of being in a flux for ever; boasts of being
-unstable as water.
+unstable as [[Water|water]].
 
 And England and the English governing class never did call
 on this absurd deity of race until it seemed, for an instant,
 that they had no other god to call on.  All the most genuine
-Englishmen in history would have yawned or laughed in your face
+Englishmen in [[history]] would have yawned or laughed in your face
 if you had begun to talk about Anglo-Saxons. If you had attempted
 to substitute the ideal of race for the ideal of nationality,
 I really do not like to think what they would have said.
 I certainly should not like to have been the officer of
-Nelson who suddenly discovered his French blood on the eve
+Nelson who suddenly discovered his French [[Blood|blood]] on the eve
 of Trafalgar.  I should not like to have been the Norfolk
 or Suffolk gentleman who had to expound to Admiral Blake
 by what demonstrable ties of genealogy he was irrevocably bound
-to the Dutch.  The truth of the whole matter is very simple.
+to the Dutch.  The [[Truth|truth]] of the whole matter is very simple.
 Nationality exists, and has nothing in the world to do with race.
 Nationality is a thing like a church or a secret society; it is
-a product of the human soul and will; it is a spiritual product.
+a product of the human [[Soul|soul]] and will; it is a spiritual product.
 And there are men in the modern world who would think anything
 and do anything rather than admit that anything could be
 a spiritual product.
@@ -93,7 +93,7 @@ A nation, however, as it confronts the modern world, is a purely
 spiritual product.  Sometimes it has been born in independence,
 like Scotland.  Sometimes it has been born in dependence,
 in subjugation, like Ireland.  Sometimes it is a large thing cohering
-out of many smaller things, like Italy.  Sometimes it is a small
+out of many smaller things, like [[Italy]].  Sometimes it is a small
 thing breaking away from larger things, like Poland.  But in each
 and every case its quality is purely spiritual, or, if you will,
 purely psychological.  It is a moment when five men become
@@ -101,14 +101,14 @@ a sixth man.  Every one knows it who has ever founded a club.
 It is a moment when five places become one place.
 Every one must know it who has ever had to repel an invasion.
 Mr. Timothy Healy, the most serious intellect in the present
-House of Commons, summed up nationality to perfection when
+[[house|House]] of Commons, summed up nationality to perfection when
 he simply called it something for which people will die.
 As he excellently said in reply to Lord Hugh Cecil, "No one,
 not even the noble lord, would die for the meridian
 of Greenwich."  And that is the great tribute to its purely
 psychological character.  It is idle to ask why Greenwich should
 not cohere in this spiritual manner while Athens or Sparta did.
-It is like asking why a man falls in love with one woman
+It is like asking why a man falls in [[Love|love]] with one woman
 and not with another.
 
 Now, of this great spiritual coherence, independent of
@@ -120,9 +120,9 @@ gone there and become Irish, the Spaniard has gone there and
 become Irish, even the bitter soldier of Cromwell has gone there
 and become Irish.  Ireland, which did not exist even politically,
 has been stronger than all the races that existed scientifically.
-The purest Germanic blood, the purest Norman blood, the purest
-blood of the passionate Scotch patriot, has not been so attractive
-as a nation without a flag.  Ireland, unrecognized and oppressed,
+The purest Germanic [[Blood|blood]], the purest Norman [[Blood|blood]], the purest
+[[Blood|blood]] of the passionate Scotch patriot, has not been so attractive
+as a nation without a [[Flag|flag]].  Ireland, unrecognized and oppressed,
 has easily absorbed races, as such trifles are easily absorbed.
 She has easily disposed of physical science, as such
 superstitions are easily disposed of.  Nationality in its
@@ -136,20 +136,20 @@ made among her modern sympathizers to talk about Celts
 and Celticism.  Who were the Celts?  I defy anybody to say.
 Who are the Irish?  I defy any one to be indifferent, or to
 pretend not to know.  Mr. W. B. Yeats, the great Irish genius
-who has appeared in our time, shows his own admirable penetration
+who has appeared in our [[Time|time]], shows his own admirable penetration
 in discarding altogether the argument from a Celtic race.
 But he does not wholly escape, and his followers hardly
 ever escape, the general objection to the Celtic argument.
 The tendency of that argument is to represent the Irish or the Celts
 as a strange and separate race, as a tribe of eccentrics in
-the modern world immersed in dim legends and fruitless dreams.
+the modern world immersed in dim legends and fruitless [[Dreams|dreams]].
 Its tendency is to exhibit the Irish as odd, because they see
 the fairies.  Its trend is to make the Irish seem weird and wild
-because they sing old songs and join in strange dances.
-But this is quite an error; indeed, it is the opposite of the truth.
+because they sing old [[songs]] and join in strange dances.
+But this is quite an error; indeed, it is the opposite of the [[Truth|truth]].
 It is the English who are odd because they do not see the fairies.
 It is the inhabitants of Kensington who are weird and wild
-because they do not sing old songs and join in strange dances.
+because they do not sing old [[songs]] and join in strange dances.
 In all this the Irish are not in the least strange and separate, are
 not in the least Celtic, as the word is commonly and popularly used.
 In all this the Irish are simply an ordinary sensible nation,
@@ -161,7 +161,7 @@ The Germans, who are (I suppose) Teutonic, have hundreds
 of legends, wherever it happens that the Germans are human.
 There is nothing Celtic about loving poetry; the English
 loved poetry more, perhaps, than any other people before they
-came under the shadow of the chimney-pot and the shadow of
+came under the [[Shadow|shadow]] of the chimney-pot and the [[Shadow|shadow]] of
 the chimney-pot hat.  It is not Ireland which is mad and mystic;
 it is Manchester which is mad and mystic, which is incredible,
 which is a wild exception among human things.  Ireland has

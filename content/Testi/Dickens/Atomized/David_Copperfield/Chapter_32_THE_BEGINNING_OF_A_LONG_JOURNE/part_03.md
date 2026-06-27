@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG JOURNEY (part 3)"
+title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,7 +19,7 @@ driving out with the tide towards the distance at which Ham had looked
 so singularly in the morning, when I was recalled from my wanderings by
 a knock at the door. There was a knocker upon the door, but it was not
 that which made the sound. The tap was from a hand, and low down upon
-the door, as if it were given by a child.
+the door, as if it were given by a [[Child|child]].
 
 It made me start as much as if it had been the knock of a footman to a
 person of distinction. I opened the door; and at first looked down,
@@ -43,20 +43,20 @@ arm, to shut the umbrella for her; and passing me hurriedly, went into
 the kitchen. When I had closed the door, and followed, with the umbrella
 in my hand, I found her sitting on the corner of the fender--it was a
 low iron one, with two flat bars at top to stand plates upon--in the
-shadow of the boiler, swaying herself backwards and forwards, and
-chafing her hands upon her knees like a person in pain.
+[[Shadow|shadow]] of the boiler, swaying herself backwards and forwards, and
+chafing her hands upon her knees like a person in [[Pain|pain]].
 
 Quite alarmed at being the only recipient of this untimely visit, and
 the only spectator of this portentous behaviour, I exclaimed again,
 ‘Pray tell me, Miss Mowcher, what is the matter! are you ill?’
 
-‘My dear young soul,’ returned Miss Mowcher, squeezing her hands upon
+‘My dear young [[Soul|soul]],’ returned Miss Mowcher, squeezing her hands upon
 her heart one over the other. ‘I am ill here, I am very ill. To think
 that it should come to this, when I might have known it and perhaps
-prevented it, if I hadn’t been a thoughtless fool!’
+prevented it, if I hadn’t been a thoughtless [[Fool|fool]]!’
 
 Again her large bonnet (very disproportionate to the figure) went
-backwards and forwards, in her swaying of her little body to and fro;
+backwards and forwards, in her swaying of her little [[Body|body]] to and fro;
 while a most gigantic bonnet rocked, in unison with it, upon the wall.
 
 ‘I am surprised,’ I began, ‘to see you so distressed and serious’--when
@@ -65,8 +65,8 @@ she interrupted me.
 ‘Yes, it’s always so!’ she said. ‘They are all surprised, these
 inconsiderate young people, fairly and full grown, to see any natural
 feeling in a little thing like me! They make a plaything of me, use me
-for their amusement, throw me away when they are tired, and wonder that
-I feel more than a toy horse or a wooden soldier! Yes, yes, that’s the
+for their amusement, throw me away when they are tired, and [[Wonder|wonder]] that
+I feel more than a toy [[Horse|horse]] or a wooden soldier! Yes, yes, that’s the
 way. The old way!’
 
 ‘It may be, with others,’ I returned, ‘but I do assure you it is not
@@ -80,11 +80,11 @@ is; and my brother is. I have worked for sister and brother these many
 years--hard, Mr. Copperfield--all day. I must live. I do no harm. If
 there are people so unreflecting or so cruel, as to make a jest of
 me, what is left for me to do but to make a jest of myself, them, and
-everything? If I do so, for the time, whose fault is that? Mine?’
+everything? If I do so, for the [[Time|time]], whose fault is that? Mine?’
 
 No. Not Miss Mowcher’s, I perceived.
 
-‘If I had shown myself a sensitive dwarf to your false friend,’ pursued
+‘If I had shown myself a sensitive [[Dwarf|dwarf]] to your false friend,’ pursued
 the little woman, shaking her head at me, with reproachful earnestness,
 ‘how much of his help or good will do you think I should ever have had?
 If little Mowcher (who had no hand, young gentleman, in the making of
@@ -98,10 +98,10 @@ Miss Mowcher sat down on the fender again, and took out her
 handkerchief, and wiped her eyes.
 
 ‘Be thankful for me, if you have a kind heart, as I think you have,’ she
-said, ‘that while I know well what I am, I can be cheerful and endure it
+said, ‘that while I know [[Well|well]] what I am, I can be cheerful and endure it
 all. I am thankful for myself, at any rate, that I can find my tiny way
 through the world, without being beholden to anyone; and that in return
-for all that is thrown at me, in folly or vanity, as I go along, I can
+for all that is thrown at me, in folly or [[Vanity|vanity]], as I go along, I can
 throw bubbles back. If I don’t brood over all I want, it is the better
 for me, and not the worse for anyone. If I am a plaything for you
 giants, be gentle with me.’
@@ -112,20 +112,20 @@ very intent expression all the while, and pursued:
 ‘I saw you in the street just now. You may suppose I am not able to
 walk as fast as you, with my short legs and short breath, and I couldn’t
 overtake you; but I guessed where you came, and came after you. I have
-been here before, today, but the good woman wasn’t at home.’
+been here before, today, but the good woman wasn’t at [[Home|home]].’
 
 ‘Do you know her?’ I demanded.
 
 ‘I know of her, and about her,’ she replied, ‘from Omer and Joram. I
-was there at seven o’clock this morning. Do you remember what Steerforth
-said to me about this unfortunate girl, that time when I saw you both at
+was there at seven o’[[Clock|clock]] this morning. Do you remember what Steerforth
+said to me about this unfortunate girl, that [[Time|time]] when I saw you both at
 the inn?’
 
 The great bonnet on Miss Mowcher’s head, and the greater bonnet on
 the wall, began to go backwards and forwards again when she asked this
 question.
 
-I remembered very well what she referred to, having had it in my
+I remembered very [[Well|well]] what she referred to, having had it in my
 thoughts many times that day. I told her so.
 
 ‘May the Father of all Evil confound him,’ said the little woman,

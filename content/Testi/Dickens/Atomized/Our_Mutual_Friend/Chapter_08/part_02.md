@@ -18,11 +18,11 @@ The wheels rolled on, and rolled down by the Monument and by the Tower,
 and by the Docks; down by Ratcliffe, and by Rotherhithe; down by where
 accumulated scum of humanity seemed to be washed from higher grounds,
 like so much moral sewage, and to be pausing until its own weight forced
-it over the bank and sunk it in the river. In and out among vessels
+it over the bank and sunk it in the [[River|river]]. In and out among vessels
 that seemed to have got ashore, and houses that seemed to have got
 afloat—among bowsprits staring into windows, and windows staring
 into ships—the wheels rolled on, until they stopped at a dark corner,
-river-washed and otherwise not washed at all, where the boy alighted and
+[[River|river]]-washed and otherwise not washed at all, where the boy alighted and
 opened the door.
 
 ‘You must walk the rest, sir; it’s not many yards.’ He spoke in the
@@ -37,10 +37,10 @@ sharp.
 The low building had the look of having once been a mill. There was a
 rotten wart of wood upon its forehead that seemed to indicate where
 the sails had been, but the whole was very indistinctly seen in the
-obscurity of the night. The boy lifted the latch of the door, and they
+obscurity of the [[Night|night]]. The boy lifted the latch of the door, and they
 passed at once into a low circular room, where a man stood before a red
-fire, looking down into it, and a girl sat engaged in needlework. The
-fire was in a rusty brazier, not fitted to the hearth; and a common
+[[Fire|fire]], looking down into it, and a girl sat engaged in needlework. The
+[[Fire|fire]] was in a rusty brazier, not fitted to the hearth; and a common
 lamp, shaped like a hyacinth-root, smoked and flared in the neck of a
 stone bottle on the table. There was a wooden bunk or berth in a corner,
 and in another corner a wooden stair leading above—so clumsy and steep
@@ -56,7 +56,7 @@ damp, alike had a look of decomposition.
 
 ‘The gentleman, father.’
 
-The figure at the red fire turned, raised its ruffled head, and looked
+The figure at the red [[Fire|fire]] turned, raised its ruffled head, and looked
 like a bird of prey.
 
 ‘You’re Mortimer Lightwood Esquire; are you, sir?’
@@ -66,11 +66,11 @@ rather shrinkingly towards the bunk; ‘is it here?’
 
 ‘’Tain’t not to say here, but it’s close by. I do everything reg’lar.
 I’ve giv’ notice of the circumstarnce to the police, and the police have
-took possession of it. No time ain’t been lost, on any hand. The police
+took possession of it. No [[Time|time]] ain’t been lost, on any hand. The police
 have put into print already, and here’s what the print says of it.’
 
 Taking up the bottle with the lamp in it, he held it near a paper on
-the wall, with the police heading, BODY FOUND. The two friends read the
+the wall, with the police heading, [[Body|BODY]] FOUND. The two friends read the
 handbill as it stuck against the wall, and Gaffer read them as he held
 the light.
 
@@ -94,28 +94,28 @@ placard, ‘HIS pockets was found empty, and turned inside out. And here,’
 moving the light to another, ‘HER pocket was found empty, and turned
 inside out. And so was this one’s. And so was that one’s. I can’t read,
 nor I don’t want to it, for I know ’em by their places on the wall. This
-one was a sailor, with two anchors and a flag and G. F. T. on his arm.
+one was a sailor, with two anchors and a [[Flag|flag]] and G. F. T. on his arm.
 Look and see if he warn’t.’
 
 ‘Quite right.’
 
 ‘This one was the young woman in grey boots, and her linen marked with a
-cross. Look and see if she warn’t.’
+[[Cross|cross]]. Look and see if she warn’t.’
 
 ‘Quite right.’
 
 ‘This is him as had a nasty cut over the eye. This is them two young
 sisters what tied themselves together with a handkecher. This the
 drunken old chap, in a pair of list slippers and a nightcap, wot had
-offered—it afterwards come out—to make a hole in the water for a
+offered—it afterwards come out—to make a hole in the [[Water|water]] for a
 quartern of rum stood aforehand, and kept to his word for the first and
-last time in his life. They pretty well papers the room, you see; but I
+last [[Time|time]] in his life. They pretty [[Well|well]] papers the room, you see; but I
 know ’em all. I’m scholar enough!’
 
 He waved the light over the whole, as if to typify the light of his
 scholarly intelligence, and then put it down on the table and stood
 behind it looking intently at his visitors. He had the special
-peculiarity of some birds of prey, that when he knitted his brow, his
+peculiarity of some [[Birds|birds]] of prey, that when he knitted his brow, his
 ruffled crest stood highest.
 
 ‘You did not find all these yourself; did you?’ asked Eugene.
@@ -126,7 +126,7 @@ now?’
 ‘This is my friend,’ Mortimer Lightwood interposed; ‘Mr Eugene
 Wrayburn.’
 
-‘Mr Eugene Wrayburn, is it? And what might Mr Eugene Wrayburn have asked
+‘Mr [[Eugene Wrayburn]], is it? And what might Mr [[Eugene Wrayburn]] have asked
 of me?’
 
 ‘I asked you, simply, if you found all these yourself?’
@@ -137,7 +137,7 @@ of me?’
 among these cases?’
 
 ‘I don’t suppose at all about it,’ returned Gaffer. ‘I ain’t one of the
-supposing sort. If you’d got your living to haul out of the river every
+supposing sort. If you’d got your living to haul out of the [[River|river]] every
 day of your life, you mightn’t be much given to supposing. Am I to show
 the way?’
 
@@ -145,7 +145,7 @@ As he opened the door, in pursuance of a nod from Lightwood, an
 extremely pale and disturbed face appeared in the doorway—the face of a
 man much agitated.
 
-‘A body missing?’ asked Gaffer Hexam, stopping short; ‘or a body found?
+‘A [[Body|body]] missing?’ asked Gaffer Hexam, stopping short; ‘or a [[Body|body]] found?
 Which?’
 
 ‘I am lost!’ replied the man, in a hurried and an eager manner.

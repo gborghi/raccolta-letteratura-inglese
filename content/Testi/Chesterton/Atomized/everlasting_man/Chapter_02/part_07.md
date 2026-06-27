@@ -33,14 +33,14 @@ in his own back-yard. If he has made a mistake in his calculations,
 the aeroplane will correct it by crashing to the ground.
 But if he has made a mistake about the arboreal habitat of his ancestor,
 he cannot see his arboreal ancestor falling off the tree.
-He cannot keep a cave-man like a cat in the back-yard and watch
+He cannot keep a [[Cave|cave]]-man like a cat in the back-yard and watch
 him to see whether he does really practice cannibalism or carry
-off his mate on the principles of marriage by capture.
+off his mate on the principles of [[Marriage|marriage]] by capture.
 He cannot keep a tribe of primitive men like a pack of hounds
 and notice how far they are influenced by the herd instinct.
 If he sees a particular bird behave in a particular way, he can get
-other birds and see if they behave in that way; but if he finds
-a skull, or the scrap of a skull, in the hollow of a hill,
+other [[Birds|birds]] and see if they behave in that way; but if he finds
+a skull, or the scrap of a skull, in the hollow of a [[Hill|hill]],
 he cannot multiply it into a vision of the valley of dry bones.
 In dealing with a past that has almost entirely perished,
 he can only go by evidence and not by experiment.
@@ -52,7 +52,7 @@ as they can really be formed in more fruitful fields, is so fixed
 in the scientific mind that it cannot resist talking like this.
 It talks about the idea suggested by one scrap of bone as if it
 were something like the aeroplane which is constructed at last out
-of whole scrapheaps of scraps of metal.  The trouble with the professor
+of whole scrapheaps of scraps of metal.  The trouble with [[The Professor|the professor]]
 of the prehistoric is that he cannot scrap his scrap.  The marvellous
 and triumphant aeroplane is made out of a hundred mistakes.
 The student of origins can only make one mistake and stick to it.
@@ -60,25 +60,25 @@ The student of origins can only make one mistake and stick to it.
 We talk very truly of the patience of science; but in this department
 it would be truer to talk of the impatience of science.  Owing to the
 difficulty above described, the theorist is in far too much of a hurry.
-We have a series of hypotheses so hasty that they may well be
+We have a series of hypotheses so hasty that they may [[Well|well]] be
 called fancies, and cannot in any case be further corrected by facts.
 The most empirical anthropologist is here as limited as an antiquary.
-He can only cling to a fragment of the past and has no way of increasing
-it for the future.  He can only clutch his fragment of fact,
-almost as the primitive man clutched his fragment of flint.
+He can only cling to a [[Fragment|fragment]] of the past and has no way of increasing
+it for the future.  He can only clutch his [[Fragment|fragment]] of fact,
+almost as the primitive man clutched his [[Fragment|fragment]] of flint.
 And indeed he does deal with it in much the same way and for much
 the same reason.  It is his tool and his only tool.  It is his weapon
-and his only weapon.  He often wields it with a fanaticism far
+and his only weapon.  He often wields it with a [[Fanaticism|fanaticism]] far
 in excess of anything shown by men of science when they can collect
 more facts from experience and even add new facts by experiment.
-Sometimes the professor with his bone becomes almost as dangerous
+Sometimes [[The Professor|the professor]] with his bone becomes almost as dangerous
 as a dog with his bone.  And the dog at least does not deduce
-a theory from it, proving that mankind is going to the dogs--
+a theory from it, proving that mankind is going to the [[dogs]]--
 or that it came from them.
 
 For instance, I have pointed out the difficulty of keeping a monkey
 and watching it evolve into a man.  Experimental evidence of such
-an evolution being impossible, the professor is not content to say
+an evolution being impossible, [[The Professor|the professor]] is not content to say
 (as most of us would be ready to say) that such an evolution
 is likely enough anyhow.  He produces his little bone, or little
 collection of bones, and deduces the most marvellous things from it.
@@ -96,7 +96,7 @@ the First and George the Fourth.  A detailed drawing was reproduced,
 carefully shaded, to show that the very hairs of his head were
 all numbered.  No uninformed person looking at its carefully lined face
 and wistful eyes would imagine for a moment that this was the portrait
-of a thigh-bone; or of a few teeth and a fragment of a cranium.
+of a thigh-bone; or of a few teeth and a [[Fragment|fragment]] of a cranium.
 In the same way people talked about him as if he were an individual
 whose influence and character were familiar to us all.
 I have just read a story in a magazine about Java, and how modern

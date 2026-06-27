@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 2: THE FIRST DAY’S JOURNEY, AND THE FIRST EVENING’S ADVENTURES; (part 10)"
+title: "The [[Pickwick]] Papers — Chapter 2: THE FIRST DAY’S [[Journey|JOURNEY]], AND THE FIRST EVENING’S ADVENTURES; (part 10)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -22,16 +22,16 @@ communicate this fact to me this morning, Sir?’
 ‘I entreat you to be quiet, Payne,’ said the other. ‘May I repeat my
 question, Sir?’
 
-‘Because, Sir,’ replied Mr. Winkle, who had had time to deliberate upon
+‘Because, Sir,’ replied Mr. Winkle, who had had [[Time|time]] to deliberate upon
 his answer, ‘because, Sir, you described an intoxicated and
-ungentlemanly person as wearing a coat which I have the honour, not only
-to wear but to have invented--the proposed uniform, Sir, of the Pickwick
-Club in London. The honour of that uniform I feel bound to maintain, and
+ungentlemanly person as wearing a coat which I have the [[Honour|honour]], not only
+to wear but to have invented--the proposed uniform, Sir, of the [[Pickwick]]
+Club in [[London]]. The [[Honour|honour]] of that uniform I feel bound to maintain, and
 I therefore, without inquiry, accepted the challenge which you offered
 me.’
 
 ‘My dear Sir,’ said the good-humoured little doctor advancing with
-extended hand, ‘I honour your gallantry. Permit me to say, Sir, that I
+extended hand, ‘I [[Honour|honour]] your gallantry. Permit me to say, Sir, that I
 highly admire your conduct, and extremely regret having caused you the
 inconvenience of this meeting, to no purpose.’
 
@@ -54,7 +54,7 @@ noble conduct of his heroic friend.
 feels himself aggrieved by the challenge; in which case, I submit, he
 has a right to satisfaction.’
 
-Mr. Winkle, with great self-denial, expressed himself quite satisfied
+Mr. Winkle, with great [[Self|self]]-denial, expressed himself quite satisfied
 already.
 
 ‘Or possibly,’ said the man with the camp-stool, ‘the gentleman’s second
@@ -78,14 +78,14 @@ rooms, and of spending a pleasant evening with you, after this awkward
 mistake,’ said the little doctor; ‘are you disengaged this evening?’
 
 ‘We have some friends here,’ replied Mr. Winkle, ‘and I should not like
-to leave them to-night. Perhaps you and your friend will join us at the
+to leave them to-[[Night|night]]. Perhaps you and your friend will join us at the
 Bull.’
 
-‘With great pleasure,’ said the little doctor; ‘will ten o’clock be too
+‘With great pleasure,’ said the little doctor; ‘will ten o’[[Clock|clock]] be too
 late to look in for half an hour?’
 
 ‘Oh dear, no,’ said Mr. Winkle. ‘I shall be most happy to introduce you
-to my friends, Mr. Pickwick and Mr. Tupman.’
+to my friends, Mr. [[Pickwick]] and Mr. Tupman.’
 
 ‘It will give me great pleasure, I am sure,’ replied Doctor Slammer,
 little suspecting who Mr. Tupman was.
@@ -94,7 +94,7 @@ little suspecting who Mr. Tupman was.
 
 ‘Oh, certainly.’
 
-By this time they had reached the road. Cordial farewells were
+By this [[Time|time]] they had reached the [[Road|road]]. Cordial farewells were
 exchanged, and the party separated. Doctor Slammer and his friends
 repaired to the barracks, and Mr. Winkle, accompanied by Mr. Snodgrass,
 returned to their inn.

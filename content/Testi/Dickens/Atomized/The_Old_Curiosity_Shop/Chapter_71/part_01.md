@@ -16,7 +16,7 @@ tags:
 
 CHAPTER 71
 
-The dull, red glow of a wood fire--for no lamp or candle burnt within
+The dull, red glow of a wood [[Fire|fire]]--for no lamp or candle burnt within
 the room--showed him a figure, seated on the hearth with its back
 towards him, bending over the fitful light.  The attitude was that of
 one who sought the heat.  It was, and yet was not.  The stooping
@@ -31,9 +31,9 @@ The heavy door had closed behind him on his entrance, with a crash that
 made him start.  The figure neither spoke, nor turned to look, nor gave
 in any other way the faintest sign of having heard the noise.  The form
 was that of an old man, his white head akin in colour to the mouldering
-embers upon which he gazed.  He, and the failing light and dying fire,
-the time-worn room, the solitude, the wasted life, and gloom, were all
-in fellowship.  Ashes, and dust, and ruin!
+embers upon which he gazed.  He, and the failing light and dying [[Fire|fire]],
+the [[Time|time]]-worn room, the [[Solitude|solitude]], the wasted life, and gloom, were all
+in fellowship.  Ashes, and [[Dust|dust]], and ruin!
 
 Kit tried to speak, and did pronounce some words, though what they were
 he scarcely knew.  Still the same terrible low cry went on--still the
@@ -44,14 +44,14 @@ He had his hand upon the latch, when something in the form--distinctly
 seen as one log broke and fell, and, as it fell, blazed up--arrested
 it.  He returned to where he had stood before--advanced a
 pace--another--another still.  Another, and he saw the face.  Yes!
-Changed as it was, he knew it well.
+Changed as it was, he knew it [[Well|well]].
 
 ‘Master!’ he cried, stooping on one knee and catching at his hand.
 ‘Dear master.  Speak to me!’
 
 The old man turned slowly towards him; and muttered in a hollow voice,
 
-‘This is another!--How many of these spirits there have been to-night!’
+‘This is another!--How many of these spirits there have been to-[[Night|night]]!’
 
 ‘No spirit, master.  No one but your old servant.  You know me now, I
 am sure?  Miss Nell--where is she--where is she?’
@@ -67,7 +67,7 @@ master!’
 ‘Thank God!’
 
 ‘Aye!  Thank God!’ returned the old man.  ‘I have prayed to Him, many,
-and many, and many a livelong night, when she has been asleep, He
+and many, and many a livelong [[Night|night]], when she has been asleep, He
 knows.  Hark!  Did she call?’
 
 ‘I heard no voice.’
@@ -76,8 +76,8 @@ knows.  Hark!  Did she call?’
 
 He started up, and listened again.
 
-‘Nor that?’ he cried, with a triumphant smile, ‘Can any body know that
-voice so well as I?  Hush!  Hush!’
+‘Nor that?’ he cried, with a triumphant smile, ‘Can any [[Body|body]] know that
+voice so [[Well|well]] as I?  Hush!  Hush!’
 
 Motioning to him to be silent, he stole away into another chamber.
 After a short absence (during which he could be heard to speak in a
@@ -85,7 +85,7 @@ softened soothing tone) he returned, bearing in his hand a lamp.
 
 ‘She is still asleep,’ he whispered.  ‘You were right.  She did not
 call--unless she did so in her slumber.  She has called to me in her
-sleep before now, sir; as I have sat by, watching, I have seen her lips
+[[Sleep|sleep]] before now, sir; as I have sat by, watching, I have seen her lips
 move, and have known, though no sound came from them, that she spoke of
 me.  I feared the light might dazzle her eyes and wake her, so I
 brought it here.’
@@ -96,14 +96,14 @@ recollection or curiosity, and held it near his face.  Then, as if
 forgetting his motive in the very action, he turned away and put it
 down again.
 
-‘She is sleeping soundly,’ he said; ‘but no wonder.  Angel hands have
-strewn the ground deep with snow, that the lightest footstep may be
-lighter yet; and the very birds are dead, that they may not wake her.
+‘She is sleeping soundly,’ he said; ‘but no [[Wonder|wonder]].  Angel hands have
+strewn the ground deep with [[Snow|snow]], that the lightest footstep may be
+lighter yet; and the very [[Birds|birds]] are dead, that they may not wake her.
 She used to feed them, Sir.  Though never so cold and hungry, the timid
 things would fly from us.  They never flew from her!’
 
 Again he stopped to listen, and scarcely drawing breath, listened for a
-long, long time.  That fancy past, he opened an old chest, took out
+long, long [[Time|time]].  That fancy past, he opened an old chest, took out
 some clothes as fondly as if they had been living things, and began to
 smooth and brush them with his hand.
 
@@ -115,14 +115,14 @@ because they do not see thee.  She was always gentle with children.
 The wildest would do her bidding--she had a tender way with them,
 indeed she had!’
 
-Kit had no power to speak.  His eyes were filled with tears.
+Kit had no power to speak.  His eyes were filled with [[Tears|tears]].
 
 ‘Her little homely dress,--her favourite!’ cried the old man, pressing
 it to his breast, and patting it with his shrivelled hand.  ‘She will
 miss it when she wakes.  They have hid it here in sport, but she shall
 have it--she shall have it.  I would not vex my darling, for the wide
 world’s riches.  See here--these shoes--how worn they are--she kept
-them to remind her of our last long journey.  You see where the little
+them to remind her of our last long [[Journey|journey]].  You see where the little
 feet went bare upon the ground.  They told me, afterwards, that the
 stones had cut and bruised them.  She never told me that.  No, no, God
 bless her! and, I have remembered since, she walked behind me, sir,
@@ -130,12 +130,12 @@ that I might not see how lame she was--but yet she had my hand in hers,
 and seemed to lead me still.’
 
 He pressed them to his lips, and having carefully put them back again,
-went on communing with himself--looking wistfully from time to time
+went on communing with himself--looking wistfully from [[Time|time]] to [[Time|time]]
 towards the chamber he had lately visited.
 
-‘She was not wont to be a lie-abed; but she was well then.  We must
-have patience.  When she is well again, she will rise early, as she
-used to do, and ramble abroad in the healthy morning time.  I often
+‘She was not wont to be a lie-abed; but she was [[Well|well]] then.  We must
+have patience.  When she is [[Well|well]] again, she will rise early, as she
+used to do, and ramble abroad in the healthy morning [[Time|time]].  I often
 tried to track the way she had gone, but her small footstep left no
 print upon the dewy ground, to guide me.  Who is that?  Shut the door.
 Quick!--Have we not enough to do to drive away that marble cold, and
@@ -145,4 +145,4 @@ The door was indeed opened, for the entrance of Mr Garland and his
 friend, accompanied by two other persons.  These were the schoolmaster,
 and the bachelor.  The former held a light in his hand.  He had, it
 seemed, but gone to his own cottage to replenish the exhausted lamp, at
-the moment when Kit came up and found the old man alone.
+the moment when Kit came up and found the old man [[Alone|alone]].

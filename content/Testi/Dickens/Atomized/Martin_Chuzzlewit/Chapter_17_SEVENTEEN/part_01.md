@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -23,23 +23,23 @@ BY HIS FRIEND MR WILLIAM SIMMONS
 
 
 It was characteristic of Martin, that all this while he had either
-forgotten Mark Tapley as completely as if there had been no such person
-in existence, or, if for a moment the figure of that gentleman rose
+forgotten [[Mark Tapley]] as completely as if there had been no such person
+in existence, or, if for a moment the figure of that gentleman [[Rose|rose]]
 before his mental vision, had dismissed it as something by no means of
-a pressing nature, which might be attended to by-and-bye, and could wait
+a pressing [[Nature|nature]], which might be attended to by-and-bye, and could wait
 his perfect leisure. But, being now in the streets again, it occurred to
 him as just coming within the bare limits of possibility that Mr Tapley
-might, in course of time, grow tired of waiting on the threshold of the
+might, in course of [[Time|time]], grow tired of waiting on the threshold of the
 Rowdy Journal Office, so he intimated to his new friend, that if they
 could conveniently walk in that direction, he would be glad to get this
 piece of business off his mind.
 
 ‘And speaking of business,’ said Martin, ‘may I ask, in order that I may
 not be behind-hand with questions either, whether your occupation holds
-you to this city, or like myself, you are a visitor here?’
+you to this [[City|city]], or like myself, you are a visitor here?’
 
 ‘A visitor,’ replied his friend. ‘I was “raised” in the State of
-Massachusetts, and reside there still. My home is in a quiet country
+Massachusetts, and reside there still. My [[Home|home]] is in a quiet country
 town. I am not often in these busy places; and my inclination to visit
 them does not increase with our better acquaintance, I assure you.’
 
@@ -48,14 +48,14 @@ them does not increase with our better acquaintance, I assure you.’
 ‘Oh yes.’
 
 ‘And, like most people who travel, have become more than ever attached
-to your home and native country,’ said Martin, eyeing him curiously.
+to your [[Home|home]] and native country,’ said Martin, eyeing him curiously.
 
-‘To my home--yes,’ rejoined his friend. ‘To my native country AS my
-home--yes, also.’
+‘To my [[Home|home]]--yes,’ rejoined his friend. ‘To my native country AS my
+[[Home|home]]--yes, also.’
 
 ‘You imply some reservation,’ said Martin.
 
-‘Well,’ returned his new friend, ‘if you ask me whether I came back here
+‘[[Well]],’ returned his new friend, ‘if you ask me whether I came back here
 with a greater relish for my country’s faults; with a greater fondness
 for those who claim (at the rate of so many dollars a day) to be her
 friends; with a cooler indifference to the growth of principles among
@@ -75,12 +75,12 @@ humanizing conventionalities of manner and social custom, so that the
 coarser a man is, the more distinctly it shall appeal to his taste;
 while the other, disgusted with the low standard thus set up and made
 adaptable to everything, takes refuge among the graces and refinements
-it can bring to bear on private life, and leaves the public weal to
+it can bring to bear on private life, and [[Leaves|leaves]] the public weal to
 such fortune as may betide it in the press and uproar of a general
 scramble--then again I answer, No.’
 
 And again Martin said ‘Oh!’ in the same odd way as before, being anxious
-and disconcerted; not so much, to say the truth, on public grounds, as
+and disconcerted; not so much, to say the [[Truth|truth]], on public grounds, as
 with reference to the fading prospects of domestic architecture.
 
 ‘In a word,’ resumed the other, ‘I do not find and cannot believe and
@@ -91,16 +91,16 @@ because we began our political life with two inestimable advantages.’
 
 ‘What were they?’ asked Martin.
 
-‘One, that our history commenced at so late a period as to escape the
+‘One, that our [[history]] commenced at so late a period as to escape the
 ages of bloodshed and cruelty through which other nations have passed;
 and so had all the light of their probation, and none of its darkness.
 The other, that we have a vast territory, and not--as yet--too many
 people on it. These facts considered, we have done little enough, I
 think.’
 
-‘Education?’ suggested Martin, faintly.
+‘[[Education]]?’ suggested Martin, faintly.
 
-‘Pretty well on that head,’ said the other, shrugging his shoulders,
+‘Pretty [[Well|well]] on that head,’ said the other, shrugging his shoulders,
 ‘still no mighty matter to boast of; for old countries, and despotic
 countries too, have done as much, if not more, and made less noise about
 it. We shine out brightly in comparison with England, certainly; but
@@ -113,7 +113,7 @@ reference to your own that surprises me.’
 
 ‘You will not find it a scarce quality here, I assure you, saving among
 the Colonel Divers, and Jefferson Bricks, and Major Pawkinses; though
-the best of us are something like the man in Goldsmith’s comedy, who
+the best of us are something like the man in Goldsmith’s [[Comedy|comedy]], who
 wouldn’t suffer anybody but himself to abuse his master. Come!’ he
 added. ‘Let us talk of something else. You have come here on some design
 of improving your fortune, I dare say; and I should grieve to put you
@@ -139,9 +139,9 @@ he made a great effort to be as encouraging as possible, could he
 prevent his head from shaking once involuntarily, as if it said in the
 vulgar tongue, upon its own account, ‘No go!’ But he spoke in a cheerful
 tone, and said, that although there was no such opening as Martin
-wished, in that city, he would make it matter of immediate consideration
+wished, in that [[City|city]], he would make it matter of immediate consideration
 and inquiry where one was most likely to exist; and then he made Martin
 acquainted with his name, which was Bevan; and with his profession,
 which was physic, though he seldom or never practiced; and with other
 circumstances connected with himself and family, which fully occupied
-the time, until they reached the Rowdy Journal Office.
+the [[Time|time]], until they reached the Rowdy Journal Office.

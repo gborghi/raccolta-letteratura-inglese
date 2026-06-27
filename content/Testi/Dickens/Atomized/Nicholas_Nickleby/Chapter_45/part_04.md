@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 45 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 45 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -23,7 +23,7 @@ in a family. Is that the case?’
 
 ‘That’s the case,’ replied Snawley.
 
-‘Having written on her death-bed a letter or confession to you, about
+‘Having written on her [[Death|death]]-bed a letter or confession to you, about
 this very boy, which, as it was not directed otherwise than in your
 name, only reached you, and that by a circuitous course, a few days
 since?’
@@ -31,29 +31,29 @@ since?’
 ‘Just so,’ said Snawley. ‘Correct in every particular, sir.’
 
 ‘And this confession,’ resumed Ralph, ‘is to the effect that his
-death was an invention of hers to wound you--was a part of a system
+[[Death|death]] was an invention of hers to wound you--was a part of a system
 of annoyance, in short, which you seem to have adopted towards each
 other--that the boy lived, but was of weak and imperfect intellect--that
 she sent him by a trusty hand to a cheap school in Yorkshire--that she
-had paid for his education for some years, and then, being poor, and
+had paid for his [[Education|education]] for some years, and then, being poor, and
 going a long way off, gradually deserted him, for which she prayed
-forgiveness?’
+[[Forgiveness|forgiveness]]?’
 
 Snawley nodded his head, and wiped his eyes; the first slightly, the
 last violently.
 
 ‘The school was Mr. Squeers’s,’ continued Ralph; ‘the boy was left there
-in the name of Smike; every description was fully given, dates tally
+in the name of [[Smike]]; every description was fully given, dates tally
 exactly with Mr. Squeers’s books, Mr. Squeers is lodging with you at this
-time; you have two other boys at his school: you communicated the whole
+[[Time|time]]; you have two other boys at his school: you communicated the whole
 discovery to him, he brought you to me as the person who had recommended
-to him the kidnapper of his child; and I brought you here. Is that so?’
+to him the kidnapper of his [[Child|child]]; and I brought you here. Is that so?’
 
 ‘You talk like a good book, sir, that’s got nothing in its inside but
-what’s the truth,’ replied Snawley.
+what’s the [[Truth|truth]],’ replied Snawley.
 
 ‘This is your pocket-book,’ said Ralph, producing one from his coat;
-‘the certificates of your first marriage and of the boy’s birth, and
+‘the certificates of your first [[Marriage|marriage]] and of the boy’s birth, and
 your wife’s two letters, and every other paper that can support these
 statements directly or by implication, are here, are they?’
 
@@ -73,10 +73,10 @@ may chance to lose some.’
 
 With these words Ralph sat down unbidden, and compressing his lips,
 which were for the moment slightly parted by a smile, folded his arms,
-and looked for the first time at his nephew.
+and looked for the first [[Time|time]] at his nephew.
 
 Nicholas, stung by the concluding taunt, darted an indignant glance at
-him; but commanding himself as well as he could, entered upon a close
+him; but commanding himself as [[Well|well]] as he could, entered upon a close
 examination of the documents, at which John Browdie assisted. There was
 nothing about them which could be called in question. The certificates
 were regularly signed as extracts from the parish books, the first
@@ -89,7 +89,7 @@ and memoranda which it was equally difficult to question.
 ‘Dear Nicholas,’ whispered Kate, who had been looking anxiously over his
 shoulder, ‘can this be really the case? Is this statement true?’
 
-‘I fear it is,’ answered Nicholas. ‘What say you, John?’
+‘I [[Fear|fear]] it is,’ answered Nicholas. ‘What say you, John?’
 
 John scratched his head and shook it, but said nothing at all.
 
@@ -99,17 +99,17 @@ have come here tonight, armed with the powers of the law, and backed by
 a troop of its myrmidons. I should have done so, ma’am, unquestionably,
 but for my regard for the feelings of yourself, and your daughter.’
 
-‘You have shown your regard for HER feelings well,’ said Nicholas,
+‘You have shown your regard for HER feelings [[Well|well]],’ said Nicholas,
 drawing his sister towards him.
 
 ‘Thank you,’ replied Ralph. ‘Your praise, sir, is commendation, indeed.’
 
-‘Well,’ said Squeers, ‘what’s to be done? Them hackney-coach horses will
+‘[[Well]],’ said Squeers, ‘what’s to be done? Them hackney-coach horses will
 catch cold if we don’t think of moving; there’s one of ‘em a sneezing
 now, so that he blows the street door right open. What’s the order of
 the day? Is Master Snawley to come along with us?’
 
-‘No, no, no,’ replied Smike, drawing back, and clinging to Nicholas.
+‘No, no, no,’ replied [[Smike]], drawing back, and clinging to Nicholas.
 
 ‘No. Pray, no. I will not go from you with him. No, no.’
 
@@ -127,14 +127,14 @@ afloat. Noo then, where be’est thou coomin’ to? Dang it, dinnot coom
 treadin’ ower me, mun.’
 
 Suiting the action to the word, John Browdie just jerked his elbow
-into the chest of Mr. Squeers who was advancing upon Smike; with so much
+into the chest of Mr. Squeers who was advancing upon [[Smike]]; with so much
 dexterity that the schoolmaster reeled and staggered back upon Ralph
 Nickleby, and being unable to recover his balance, knocked that
 gentleman off his chair, and stumbled heavily upon him.
 
 This accidental circumstance was the signal for some very decisive
 proceedings. In the midst of a great noise, occasioned by the prayers
-and entreaties of Smike, the cries and exclamations of the women, and
+and entreaties of [[Smike]], the cries and exclamations of the women, and
 the vehemence of the men, demonstrations were made of carrying off the
 lost son by violence. Squeers had actually begun to haul him out, when
 Nicholas (who, until then, had been evidently undecided how to act)

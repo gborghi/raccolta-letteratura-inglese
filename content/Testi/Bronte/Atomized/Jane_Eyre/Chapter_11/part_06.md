@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 11 (part 6)"
+title: "[[Jane Eyre]] — Chapter 11 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -16,13 +16,13 @@ tags:
 
 “None that I ever heard of,” returned Mrs. Fairfax, smiling.
 
-“Nor any traditions of one? no legends or ghost stories?”
+“Nor any traditions of one? no legends or [[Ghost|ghost]] stories?”
 
 “I believe not. And yet it is said the Rochesters have been rather a
-violent than a quiet race in their time: perhaps, though, that is the
+violent than a quiet race in their [[Time|time]]: perhaps, though, that is the
 reason they rest tranquilly in their graves now.”
 
-“Yes—‘after life’s fitful fever they sleep well,’” I muttered. “Where
+“Yes—‘after life’s fitful fever they [[Sleep|sleep]] [[Well|well]],’” I muttered. “Where
 are you going now, Mrs. Fairfax?” for she was moving away.
 
 “On to the leads; will you come and see the view from thence?” I
@@ -34,22 +34,22 @@ out like a map: the bright and velvet lawn closely girdling the grey
 base of the mansion; the field, wide as a park, dotted with its ancient
 timber; the wood, dun and sere, divided by a path visibly overgrown,
 greener with moss than the trees were with foliage; the church at the
-gates, the road, the tranquil hills, all reposing in the autumn day’s
+gates, the [[Road|road]], the tranquil hills, all reposing in the [[Autumn|autumn]] day’s
 sun; the horizon bounded by a propitious sky, azure, marbled with
 pearly white. No feature in the scene was extraordinary, but all was
 pleasing. When I turned from it and repassed the trap-door, I could
 scarcely see my way down the ladder; the attic seemed black as a vault
 compared with that arch of blue air to which I had been looking up, and
-to that sunlit scene of grove, pasture, and green hill, of which the
+to that sunlit scene of grove, pasture, and green [[Hill|hill]], of which the
 hall was the centre, and over which I had been gazing with delight.
 
 Mrs. Fairfax stayed behind a moment to fasten the trap-door; I, by dint
 of groping, found the outlet from the attic, and proceeded to descend
 the narrow garret staircase. I lingered in the long passage to which
 this led, separating the front and back rooms of the third storey:
-narrow, low, and dim, with only one little window at the far end, and
+narrow, low, and dim, with only one little [[Window|window]] at the far end, and
 looking, with its two rows of small black doors all shut, like a
-corridor in some Bluebeard’s castle.
+corridor in some Bluebeard’s [[Castle|castle]].
 
 While I paced softly on, the last sound I expected to hear in so still
 a region, a laugh, struck my ear. It was a curious laugh; distinct,
@@ -77,10 +77,10 @@ odd murmur.
 
 I really did not expect any Grace to answer; for the laugh was as
 tragic, as preternatural a laugh as any I ever heard; and, but that it
-was high noon, and that no circumstance of ghostliness accompanied the
-curious cachinnation; but that neither scene nor season favoured fear,
+was high [[Noon|noon]], and that no circumstance of ghostliness accompanied the
+curious cachinnation; but that neither scene nor season favoured [[Fear|fear]],
 I should have been superstitiously afraid. However, the event showed me
-I was a fool for entertaining a sense even of surprise.
+I was a [[Fool|fool]] for entertaining a sense even of surprise.
 
 The door nearest me opened, and a servant came out,—a woman of between
 thirty and forty; a set, square-made figure, red-haired, and with a
@@ -92,7 +92,7 @@ Grace curtseyed silently and went in.
 
 “She is a person we have to sew and assist Leah in her housemaid’s
 work,” continued the widow; “not altogether unobjectionable in some
-points, but she does well enough. By-the-bye, how have you got on with
+points, but she does [[Well|well]] enough. By-the-bye, how have you got on with
 your new pupil this morning?”
 
 The conversation, thus turned on Adèle, continued till we reached the

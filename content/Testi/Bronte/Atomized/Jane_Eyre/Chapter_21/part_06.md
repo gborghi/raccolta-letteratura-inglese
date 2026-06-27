@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 21 (part 6)"
+title: "[[Jane Eyre]] — Chapter 21 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,20 +14,20 @@ tags:
 </nav>
 
 
-Eliza still spoke little: she had evidently no time to talk. I never
+Eliza still spoke little: she had evidently no [[Time|time]] to talk. I never
 saw a busier person than she seemed to be; yet it was difficult to say
 what she did: or rather, to discover any result of her diligence. She
 had an alarm to call her up early. I know not how she occupied herself
-before breakfast, but after that meal she divided her time into regular
+before breakfast, but after that meal she divided her [[Time|time]] into regular
 portions, and each hour had its allotted task. Three times a day she
 studied a little book, which I found, on inspection, was a Common
-Prayer Book. I asked her once what was the great attraction of that
+[[Prayer]] Book. I asked her once what was the great attraction of that
 volume, and she said, “the Rubric.” Three hours she gave to stitching,
 with gold thread, the border of a square crimson cloth, almost large
 enough for a carpet. In answer to my inquiries after the use of this
 article, she informed me it was a covering for the altar of a new
 church lately erected near Gateshead. Two hours she devoted to her
-diary; two to working by herself in the kitchen-garden; and one to the
+diary; two to working by herself in the kitchen-[[Garden|garden]]; and one to the
 regulation of her accounts. She seemed to want no company; no
 conversation. I believe she was happy in her way: this routine sufficed
 for her; and nothing annoyed her so much as the occurrence of any
@@ -48,15 +48,15 @@ world. I asked if Georgiana would accompany her.
 had. She would not be burdened with her society for any consideration.
 Georgiana should take her own course; and she, Eliza, would take hers.”
 
-Georgiana, when not unburdening her heart to me, spent most of her time
-in lying on the sofa, fretting about the dulness of the house, and
+Georgiana, when not unburdening her heart to me, spent most of her [[Time|time]]
+in lying on the sofa, fretting about the dulness of the [[house]], and
 wishing over and over again that her aunt Gibson would send her an
 invitation up to town. “It would be so much better,” she said, “if she
 could only get out of the way for a month or two, till all was over.” I
 did not ask what she meant by “all being over,” but I suppose she
 referred to the expected decease of her mother and the gloomy sequel of
 funeral rites. Eliza generally took no more notice of her sister’s
-indolence and complaints than if no such murmuring, lounging object had
+[[Indolence|indolence]] and complaints than if no such murmuring, lounging object had
 been before her. One day, however, as she put away her account-book and
 unfolded her embroidery, she suddenly took her up thus—
 
@@ -85,12 +85,12 @@ Neglect it—go on as heretofore, craving, whining, and idling—and suffer
 the results of your idiocy, however bad and insufferable they may be. I
 tell you this plainly; and listen: for though I shall no more repeat
 what I am now about to say, I shall steadily act on it. After my
-mother’s death, I wash my hands of you: from the day her coffin is
+mother’s [[Death|death]], I wash my hands of you: from the day her coffin is
 carried to the vault in Gateshead Church, you and I will be as separate
 as if we had never known each other. You need not think that because we
 chanced to be born of the same parents, I shall suffer you to fasten me
 down by even the feeblest claim: I can tell you this—if the whole human
-race, ourselves excepted, were swept away, and we two stood alone on
+race, ourselves excepted, were swept away, and we two stood [[Alone|alone]] on
 the earth, I would leave you in the old world, and betake myself to the
 new.”
 

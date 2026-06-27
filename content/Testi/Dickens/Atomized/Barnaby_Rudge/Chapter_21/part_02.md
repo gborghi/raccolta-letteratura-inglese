@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 21 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 21 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -21,15 +21,15 @@ began by begging, and went on to threats of robbery, which he was on the
 point of carrying into execution, and would have executed, but for Joe’s
 timely aid. The hesitation and confusion with which she said this, Joe
 attributed to the fright she had sustained, and no suspicion of the
-truth occurred to him for a moment.
+[[Truth|truth]] occurred to him for a moment.
 
-‘Stop when the words are on your lips.’ A hundred times that night, and
+‘Stop when the words are on your lips.’ A hundred times that [[Night|night]], and
 very often afterwards, when the disclosure was rising to her tongue,
 Dolly thought of that, and repressed it. A deeply rooted dread of the
-man; the conviction that his ferocious nature, once roused, would stop
+man; the conviction that his ferocious [[Nature|nature]], once roused, would stop
 at nothing; and the strong assurance that if she impeached him, the
 full measure of his wrath and vengeance would be wreaked on Joe, who
-had preserved her; these were considerations she had not the courage to
+had preserved her; these were considerations she had not the [[Courage|courage]] to
 overcome, and inducements to secrecy too powerful for her to surmount.
 
 Joe, for his part, was a great deal too happy to inquire very curiously
@@ -61,7 +61,7 @@ was now quite dark) and make strict search for the missing articles,
 which there was great probability of his finding, as it was not likely
 that anybody had passed that way since, and she was not conscious that
 they had been forcibly taken from her. Dolly thanked him very heartily
-for this offer, though with no great hope of his quest being successful;
+for this offer, though with no great [[Hope|hope]] of his [[Quest|quest]] being successful;
 and so with many lamentations on her side, and many hopeful words on
 his, and much weakness on the part of Dolly and much tender supporting
 on the part of Joe, they reached the Maypole bar at last, where the
@@ -83,21 +83,21 @@ have been expensive and inconvenient, and might perhaps have proved
 detrimental to the Maypole business. Wherefore, and because he looked
 with no favourable eye upon young girls, but rather considered that they
 and the whole female sex were a kind of nonsensical mistake on the part
-of Nature, he took occasion to retire and shake his head in private at
+of [[Nature]], he took occasion to retire and shake his head in private at
 the boiler; inspired by which silent oracle, he was moved to give Joe
 various stealthy nudges with his elbow, as a parental reproof and gentle
-admonition to mind his own business and not make a fool of himself.
+admonition to mind his own business and not make a [[Fool|fool]] of himself.
 
 Joe, however, took down the lantern and lighted it; and arming himself
 with a stout stick, asked whether Hugh was in the stable.
 
-‘He’s lying asleep before the kitchen fire, sir,’ said Mr Willet. ‘What
+‘He’s lying asleep before the kitchen [[Fire|fire]], sir,’ said Mr Willet. ‘What
 do you want him for?’
 
 ‘I want him to come with me to look after this bracelet and letter,’
 answered Joe. ‘Halloa there! Hugh!’
 
-Dolly turned pale as death, and felt as if she must faint forthwith.
+Dolly turned pale as [[Death|death]], and felt as if she must faint forthwith.
 After a few moments, Hugh came staggering in, stretching himself and
 yawning according to custom, and presenting every appearance of having
 been roused from a sound nap.
@@ -110,8 +110,8 @@ if we come upon him.’
 
 ‘What fellow?’ returned Joe, who was in a state of great valour and
 bustle; ‘a fellow you ought to know of and be more alive about. It’s
-well for the like of you, lazy giant that you are, to be snoring your
-time away in chimney-corners, when honest men’s daughters can’t cross
+[[Well|well]] for the like of you, lazy giant that you are, to be snoring your
+[[Time|time]] away in chimney-corners, when honest men’s daughters can’t [[Cross|cross]]
 even our quiet meadows at nightfall without being set upon by footpads,
 and frightened out of their precious lives.’
 

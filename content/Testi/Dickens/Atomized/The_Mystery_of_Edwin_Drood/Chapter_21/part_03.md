@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 20 (part 3)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 20 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -21,7 +21,7 @@ and frizzled ham, ran across to Furnival’s without his hat, to give his
 various directions. And soon afterwards they were realised in practice,
 and the board was spread.
 
-“Lord bless my soul,” cried Mr. Grewgious, putting the lamp upon it,
+“Lord bless my [[Soul|soul]],” cried Mr. Grewgious, putting the lamp upon it,
 and taking his seat opposite Rosa; “what a new sensation for a poor old
 Angular bachelor, to be sure!”
 
@@ -43,9 +43,9 @@ her tea-cup, ventured to touch him with her small hand too.
 
 “Yes, my dear.”
 
-“And always alone?”
+“And always [[Alone|alone]]?”
 
-“Always alone; except that I have daily company in a gentleman by the
+“Always [[Alone|alone]]; except that I have daily company in a gentleman by the
 name of Bazzard, my clerk.”
 
 “_He_ doesn’t live here?”
@@ -58,7 +58,7 @@ difficult to replace Mr. Bazzard.”
 “He must be very fond of you,” said Rosa.
 
 “He bears up against it with commendable fortitude if he is,” returned
-Mr. Grewgious, after considering the matter. “But I doubt if he is. Not
+Mr. Grewgious, after considering the matter. “But I [[Doubt|doubt]] if he is. Not
 particularly so. You see, he is discontented, poor fellow.”
 
 “Why isn’t he contented?” was the natural inquiry.
@@ -71,9 +71,9 @@ Rosa’s eyebrows resumed their inquisitive and perplexed expression.
 apologetic towards him. And he feels (though he doesn’t mention it)
 that I have reason to be.”
 
-Mr. Grewgious had by this time grown so very mysterious, that Rosa did
+Mr. Grewgious had by this [[Time|time]] grown so very mysterious, that Rosa did
 not know how to go on. While she was thinking about it Mr. Grewgious
-suddenly jerked out of himself for the second time:
+suddenly jerked out of himself for the second [[Time|time]]:
 
 “Let’s talk. We were speaking of Mr. Bazzard. It’s a secret, and
 moreover it is Mr. Bazzard’s secret; but the sweet presence at my table
@@ -81,10 +81,10 @@ makes me so unusually expansive, that I feel I must impart it in
 inviolable confidence. What do you think Mr. Bazzard has done?”
 
 “O dear!” cried Rosa, drawing her chair a little nearer, and her mind
-reverting to Jasper, “nothing dreadful, I hope?”
+reverting to Jasper, “nothing dreadful, I [[Hope|hope]]?”
 
 “He has written a play,” said Mr. Grewgious, in a solemn whisper. “A
-tragedy.”
+[[Tragedy|tragedy]].”
 
 Rosa seemed much relieved.
 
@@ -151,10 +151,10 @@ of a thousand dedications.
 “Which again, naturally, rubs against the grain of Mr. Bazzard,” said
 Mr. Grewgious. “He is very short with me sometimes, and then I feel
 that he is meditating, ‘This blockhead is my master! A fellow who
-couldn’t write a tragedy on pain of death, and who will never have one
+couldn’t write a [[Tragedy|tragedy]] on [[Pain|pain]] of [[Death|death]], and who will never have one
 dedicated to him with the most complimentary congratulations on the
 high position he has taken in the eyes of posterity!’ Very trying, very
 trying. However, in giving him directions, I reflect beforehand:
 ‘Perhaps he may not like this,’ or ‘He might take it ill if I asked
-that;’ and so we get on very well. Indeed, better than I could have
+that;’ and so we get on very [[Well|well]]. Indeed, better than I could have
 expected.”

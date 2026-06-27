@@ -1,5 +1,5 @@
 ---
-title: "misc — THE FALSE PHOTOGRAPHER"
+title: "[[misc]] — THE FALSE PHOTOGRAPHER"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -18,22 +18,22 @@ THE FALSE PHOTOGRAPHER
 
 
 When, as lately, events have happened that seem (to the fancy,
-at least) to test if not stagger the force of official government,
+at least) to test if not stagger the force of official [[government]],
 it is amusing to ask oneself what is the real weakness of civilisation,
 ours especially, when it contends with the one lawless man.
 I was reminded of one weakness this morning in turning over an old
 drawerful of pictures.
 
 This weakness in civilisation is best expressed by saying that it cares
-more for science than for truth.  It prides itself on its "methods"
+more for science than for [[Truth|truth]].  It prides itself on its "methods"
 more than its results; it is satisfied with precision, discipline,
 good communications, rather than with the sense of reality.
-But there are precise falsehoods as well as precise facts.
+But there are precise falsehoods as [[Well|well]] as precise facts.
 Discipline may only mean a hundred men making the same mistake
 at the same minute.  And good communications may in practice
 be very like those evil communications which are said to corrupt
 good manners.  Broadly, we have reached a "scientific age,"
-which wants to know whether the train is in the time-table,
+which wants to know whether the train is in the [[Time|time]]-table,
 but not whether the train is in the station.  I take one instance
 in our police inquiries that I happen to have come across:
 the case of photography.
@@ -62,7 +62,7 @@ Immediately under his eyes his cheekbones had so high a colour
 that they might have been painted scarlet; three black tufts,
 two on the upper lip and one under the lower, seemed to touch up
 the face with the fierce moustaches of Mephistopheles.  His eyes
-had that "dancing madness" in them which Stevenson saw
+had that "dancing [[Madness|madness]]" in them which Stevenson saw
 in the Gaelic eyes of Alan Breck; but he sometimes distorted
 the expression by screwing a monstrous monocle into one of them.
 A man more unmistakable would have been hard to find.
@@ -85,7 +85,7 @@ Here we have a clockwork picture, begun and finished by a
 button and a box of chemicals, from which every projecting
 feature has been more delicately and dexterously omitted
 than they could have been by the most namby-pamby flatterer,
-painting in the weakest water-colours, on the smoothest ivory.
+painting in the weakest [[Water|water]]-colours, on the smoothest ivory.
 
 I happen to possess a book of Mr. Max Beerbohm's caricatures,
 one of which depicts the unfortunate poet in question.
@@ -102,15 +102,15 @@ has a photograph of a man that it never asks whether it has
 a likeness of him.  Thus declarations, seemingly most detailed,
 have flashed along the wires of the world ever since I was a boy.
 We were told that in some row Boer policemen had shot an Englishman,
-a British subject, an English citizen.  A long time afterwards
+a British subject, an English citizen.  A long [[Time|time]] afterwards
 we were quite casually informed that the English citizen was
-quite black.  Well, it makes no difference to the moral question;
+quite black.  [[Well]], it makes no difference to the moral question;
 black men should be shot on the same ethical principles as white men.
 But it makes one distrust scientific communications which permitted
 so startling an alteration of the photograph.  I am sorry we got hold
 of a photographic negative in which a black man came out white.
 Later we were told that an Englishman had fought for the Boers
-against his own flag, which would have been a disgusting thing to do.
+against his own [[Flag|flag]], which would have been a disgusting thing to do.
 Later, it was admitted that he was an Irishman; which is exactly
 as different as if he had been a Pole.  Common sense, with all
 the facts before it, does see that black is not white, and that a

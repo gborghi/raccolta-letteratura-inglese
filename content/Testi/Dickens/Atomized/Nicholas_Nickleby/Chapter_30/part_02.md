@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 30 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 30 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -49,9 +49,9 @@ from somewhere, for doing something or other.’
 
 ‘That’s a part of what he says,’ added Mr. Folair. ‘I mention it as the
 friend of both parties, and in strict confidence. I don’t agree with
-him, you know. He says he takes Digby to be more knave than fool; and
+him, you know. He says he takes Digby to be more knave than [[Fool|fool]]; and
 old Fluggers, who does the heavy business you know, HE says that when he
-delivered messages at Covent Garden the season before last, there used
+delivered messages at Covent [[Garden]] the season before last, there used
 to be a pickpocket hovering about the coach-stand who had exactly the
 face of Digby; though, as he very properly says, Digby may not be the
 same, but only his brother, or some near relation.’
@@ -82,12 +82,12 @@ observed Miss Snevellicci in her most winning tones.
 
 ‘Not I,’ replied Nicholas. ‘If I were going to remain here, I might
 think it worth my while to embroil myself. As it is, let them talk till
-they are hoarse. But here,’ added Nicholas, as Smike approached, ‘here
-comes the subject of a portion of their good-nature, so let he and I say
-good night together.’
+they are hoarse. But here,’ added Nicholas, as [[Smike]] approached, ‘here
+comes the subject of a portion of their good-[[Nature|nature]], so let he and I say
+good [[Night|night]] together.’
 
 ‘No, I will not let either of you say anything of the kind,’ returned
-Miss Snevellicci. ‘You must come home and see mama, who only came to
+Miss Snevellicci. ‘You must come [[Home|home]] and see mama, who only came to
 Portsmouth today, and is dying to behold you. Led, my dear, persuade Mr
 Johnson.’
 
@@ -96,7 +96,7 @@ YOU can’t persuade him--’ Miss Ledrook said no more, but intimated, by
 a dexterous playfulness, that if Miss Snevellicci couldn’t persuade him,
 nobody could.
 
-‘Mr. and Mrs. Lillyvick have taken lodgings in our house, and share our
+‘Mr. and Mrs. Lillyvick have taken lodgings in our [[house]], and share our
 sitting-room for the present,’ said Miss Snevellicci. ‘Won’t that induce
 you?’
 
@@ -109,20 +109,20 @@ giddy thing; and Miss Ledrook said that Miss Snevellicci needn’t colour
 up quite so much; and Miss Snevellicci beat Miss Ledrook, and Miss
 Ledrook beat Miss Snevellicci.
 
-‘Come,’ said Miss Ledrook, ‘it’s high time we were there, or we shall
+‘Come,’ said Miss Ledrook, ‘it’s high [[Time|time]] we were there, or we shall
 have poor Mrs. Snevellicci thinking that you have run away with her
 daughter, Mr. Johnson; and then we should have a pretty to-do.’
 
 ‘My dear Led,’ remonstrated Miss Snevellicci, ‘how you do talk!’
 
-Miss Ledrook made no answer, but taking Smike’s arm in hers, left her
+Miss Ledrook made no answer, but taking [[Smike]]’s arm in hers, left her
 friend and Nicholas to follow at their pleasure; which it pleased them,
 or rather pleased Nicholas, who had no great fancy for a TETE-A-TETE
 under the circumstances, to do at once.
 
 There were not wanting matters of conversation when they reached the
 street, for it turned out that Miss Snevellicci had a small basket to
-carry home, and Miss Ledrook a small bandbox, both containing such minor
+carry [[Home|home]], and Miss Ledrook a small bandbox, both containing such minor
 articles of theatrical costume as the lady performers usually carried to
 and fro every evening. Nicholas would insist upon carrying the basket,
 and Miss Snevellicci would insist upon carrying it herself, which

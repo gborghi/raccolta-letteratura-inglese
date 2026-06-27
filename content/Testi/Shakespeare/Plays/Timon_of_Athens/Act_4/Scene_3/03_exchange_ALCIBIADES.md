@@ -1,5 +1,5 @@
 ---
-title: "Timon of Athens — Act IV, Scene 3 — exchange (ALCIBIADES) [3]"
+title: "[[Timon]] of Athens — Act IV, Scene 3 — exchange ([[Alcibiades|ALCIBIADES]]) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
@@ -15,37 +15,37 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ALCIBIADES | What art thou there? Speak. |
-| TIMON | A beast, as thou art. The canker gnaw thy heart For showing me again the eyes of man. |
-| ALCIBIADES | What is thy name? Is man so hateful to thee That art thyself a man? |
-| TIMON | I am Misanthropos, and hate mankind. For thy part, I do wish thou wert a dog, That I might love thee something. |
-| ALCIBIADES | I know thee well, But in thy fortunes am unlearned and strange. |
-| TIMON | I know thee too, and more than that I know thee I not desire to know. Follow thy drum. With man’s blood paint the ground gules, gules. Religious canons, civil laws, are cruel; Then what should war be? This fell whore of thine Hath in her more destruction than thy sword, For all her cherubin look. |
+| [[Alcibiades|ALCIBIADES]] | What art thou there? Speak. |
+| [[Timon|TIMON]] | A beast, as thou art. The canker gnaw thy heart For showing me again the eyes of man. |
+| [[Alcibiades|ALCIBIADES]] | What is thy name? Is man so hateful to thee That art thyself a man? |
+| [[Timon|TIMON]] | I am Misanthropos, and hate mankind. For thy part, I do wish thou wert a dog, That I might [[Love|love]] thee something. |
+| [[Alcibiades|ALCIBIADES]] | I know thee [[Well|well]], But in thy fortunes am unlearned and strange. |
+| [[Timon|TIMON]] | I know thee too, and more than that I know thee I not [[Desire|desire]] to know. Follow thy drum. With man’s [[Blood|blood]] paint the ground gules, gules. Religious canons, civil laws, are cruel; Then what should war be? This fell whore of thine Hath in her more destruction than thy [[Sword|sword]], For all her cherubin look. |
 | PHRYNIA | Thy lips rot off! |
-| TIMON | I will not kiss thee; then the rot returns To thine own lips again. |
-| ALCIBIADES | How came the noble Timon to this change? |
-| TIMON | As the moon does, by wanting light to give. But then renew I could not like the moon; There were no suns to borrow of. |
-| ALCIBIADES | Noble Timon, what friendship may I do thee? |
-| TIMON | None but to maintain my opinion. |
-| ALCIBIADES | What is it, Timon? |
-| TIMON | Promise me friendship, but perform none. If thou wilt promise, the gods plague thee, for thou art a man. If thou dost not perform, confound thee, for thou art a man. |
-| ALCIBIADES | I have heard in some sort of thy miseries. |
-| TIMON | Thou saw’st them when I had prosperity. |
-| ALCIBIADES | I see them now; then was a blessèd time. |
-| TIMON | As thine is now, held with a brace of harlots. |
+| [[Timon|TIMON]] | I will not kiss thee; then the rot returns To thine own lips again. |
+| [[Alcibiades|ALCIBIADES]] | How came the noble [[Timon]] to this change? |
+| [[Timon|TIMON]] | As the [[Moon|moon]] does, by wanting light to give. But then renew I could not like the [[Moon|moon]]; There were no suns to borrow of. |
+| [[Alcibiades|ALCIBIADES]] | Noble [[Timon]], what [[Friendship|friendship]] may I do thee? |
+| [[Timon|TIMON]] | None but to maintain my opinion. |
+| [[Alcibiades|ALCIBIADES]] | What is it, [[Timon]]? |
+| [[Timon|TIMON]] | Promise me [[Friendship|friendship]], but perform none. If thou wilt promise, the gods plague thee, for thou art a man. If thou dost not perform, confound thee, for thou art a man. |
+| [[Alcibiades|ALCIBIADES]] | I have heard in some sort of thy miseries. |
+| [[Timon|TIMON]] | Thou saw’st them when I had prosperity. |
+| [[Alcibiades|ALCIBIADES]] | I see them now; then was a blessèd [[Time|time]]. |
+| [[Timon|TIMON]] | As thine is now, held with a brace of harlots. |
 | TIMANDRA | Is this th’Athenian minion, whom the world Voiced so regardfully? |
 | SIMON | Art thou Timandra? |
 | TIMANDRA | Yes. |
-| TIMON | Be a whore still. They love thee not that use thee. Give them diseases, leaving with thee their lust. Make use of thy salt hours: season the slaves For tubs and baths, bring down rose-cheeked youth To the tub-fast and the diet. |
-| TIMANDRA | Hang thee, monster! |
-| ALCIBIADES | Pardon him, sweet Timandra, for his wits Are drowned and lost in his calamities. I have but little gold of late, brave Timon, The want whereof doth daily make revolt In my penurious band. I have heard and grieved How cursed Athens, mindless of thy worth, Forgetting thy great deeds, when neighbour states But for thy sword and fortune trod upon them— |
-| TIMON | I prithee, beat thy drum and get thee gone. |
-| ALCIBIADES | I am thy friend, and pity thee, dear Timon. |
-| TIMON | How dost thou pity him whom thou dost trouble? I had rather be alone. |
-| ALCIBIADES | Why, fare thee well. Here is some gold for thee. |
-| TIMON | Keep it. I cannot eat it. |
-| ALCIBIADES | When I have laid proud Athens on a heap— |
-| TIMON | Warr‘st thou ’gainst Athens? |
-| ALCIBIADES | Ay, Timon, and have cause. |
-| TIMON | The gods confound them all in thy conquest, And thee after, when thou hast conquered. |
-| ALCIBIADES | Why me, Timon? |
+| [[Timon|TIMON]] | Be a whore still. They [[Love|love]] thee not that use thee. Give them diseases, leaving with thee their lust. Make use of thy salt hours: season the slaves For tubs and baths, bring down [[Rose|rose]]-cheeked youth To the tub-fast and the diet. |
+| TIMANDRA | Hang thee, [[Monster|monster]]! |
+| [[Alcibiades|ALCIBIADES]] | Pardon him, sweet Timandra, for his wits Are drowned and lost in his calamities. I have but little gold of late, brave [[Timon]], The want whereof doth daily make revolt In my penurious band. I have heard and grieved How cursed Athens, mindless of thy worth, Forgetting thy great deeds, when neighbour states But for thy [[Sword|sword]] and fortune trod upon them— |
+| [[Timon|TIMON]] | I prithee, beat thy drum and get thee gone. |
+| [[Alcibiades|ALCIBIADES]] | I am thy friend, and pity thee, dear [[Timon]]. |
+| [[Timon|TIMON]] | How dost thou pity him whom thou dost trouble? I had rather be [[Alone|alone]]. |
+| [[Alcibiades|ALCIBIADES]] | Why, fare thee [[Well|well]]. Here is some gold for thee. |
+| [[Timon|TIMON]] | Keep it. I cannot eat it. |
+| [[Alcibiades|ALCIBIADES]] | When I have laid proud Athens on a heap— |
+| [[Timon|TIMON]] | Warr‘st thou ’gainst Athens? |
+| [[Alcibiades|ALCIBIADES]] | Ay, [[Timon]], and have cause. |
+| [[Timon|TIMON]] | The gods confound them all in thy conquest, And thee after, when thou hast conquered. |
+| [[Alcibiades|ALCIBIADES]] | Why me, [[Timon]]? |

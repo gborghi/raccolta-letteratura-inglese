@@ -32,9 +32,9 @@ be understood as speaking here of exceptions rather than the rule;
 for the rule is rather the other way.  The Catholic religion,
 the most fundamental fact in Ireland, is itself a permanent
 communication with the Continent.  So, as I have said, is the free
-peasantry which is so often the economic expression of the same faith.
+peasantry which is so often the economic expression of the same [[Faith|faith]].
 Mr. James Stephens, himself a spiritually detached man of genius,
-told me with great humour a story which is also at least a symbol.
+told me with great [[Humour|humour]] a story which is also at least a symbol.
 A Catholic priest, after a convivial conversation and plenty of
 good wine, said to him confidentially:  "You ought to be a Catholic.
 You can be saved without being a Catholic; but you can't be Irish
@@ -51,8 +51,8 @@ insular to accept the old unconscious wave of Christendom;
 the Crusade.  But the case was more extraordinary than that.
 They were even too insular to appreciate, not so much their own
 international needs, as their own international importance.
-It may seem a strange paradox to say that both nationalist parties
-underrated Ireland as a nation.  It may seem a more startling paradox
+It may seem a strange [[Paradox|paradox]] to say that both nationalist parties
+underrated Ireland as a nation.  It may seem a more startling [[Paradox|paradox]]
 to say that in this the most nationalist was the least national.
 Yet I think I can explain, however roughly, what I mean by saying
 that this is so.
@@ -64,7 +64,7 @@ intervene in the war of the nations against Prussian imperialism.
 For its argument involved, unconsciously, the proposition that
 Ireland is not a nation; that Ireland is a tribe or a settlement,
 or a chance sprinkling of aborigines.  If the Irish were savages
-oppressed by the British Empire, they might well be indifferent
+oppressed by the British Empire, they might [[Well|well]] be indifferent
 to the fate of the British Empire; but as they were civilised men,
 they could not be indifferent to the fate of civilisation.
 The Kaffirs might conceivably be better off if the whole
@@ -72,23 +72,23 @@ system of white colonisation, Boer and British, broke down and
 disappeared altogether.  The Irish might sympathise with the Kaffirs;
 but they would not like to be classed with the Kaffirs.
 Hottentots might have a sort of Hottentot happiness if the last European
-city had fallen in ruins, or the last European had died in torments.
+[[City|city]] had fallen in ruins, or the last European had died in torments.
 But the Irish would never be Hottentots, even if they were
 Pro-Hottentots. In other words, if the Irish were what Cromwell
-thought they were, they might well confine their attention
+thought they were, they might [[Well|well]] confine their attention
 to Hell and Connaught; and have no sympathy to spare for France.
 But if the Irish are what Wolfe Tone thought they were,
 they must be interested in France, as he was interested in France.
 In short, if the Irish are barbarians, they need not trouble
 about other barbarians sacking the cities of the world; but if they
 are citizens, they must trouble about the cities that are sacked.
-This is the deep and real reason why their alienation from
+This is the deep and real reason why their [[Alienation|alienation]] from
 the Allied cause was a disaster for their own national cause.
 It was not because it gave fools a chance of complaining that
 they were Anti-English. It was because it gave much cleverer
 people the chance of complaining that they were Anti-European.
-I entirely agree that the alienation was chiefly the fault of
-the English Government; I even agree that it required an abnormal
+I entirely agree that the [[Alienation|alienation]] was chiefly the fault of
+the English [[government|Government]]; I even agree that it required an abnormal
 imaginative magnanimity for an Irishman to do his duty to Ireland,
 in spite of being so insolently told to do it.  But it is none
 the less true that Ireland to-day would be ten thousand miles
@@ -98,14 +98,14 @@ rulers wanted it, but rather although they wanted it.
 
 But the much more curious fact is this.  There were any number
 of Irishmen, and those among the most Irish, who did realise this;
-who realised it with so sublime a sincerity as to fight for their own
+who realised it with so [[Sublime|sublime]] a sincerity as to fight for their own
 enemies against the world's enemies; and consent at once to be insulted
 by the English and killed by the Germans.  The Redmonds and the old
 Nationalist party, if they have indeed failed, have the right to be
 reckoned among the most heroic of all the heroic failures of Ireland.
 If theirs is a lost cause, it is wholly worthy of a land where lost
 causes are never lost.  But the old guard of Redmond did also in
-its time, I fancy, fall into the same particular and curious error;
+its [[Time|time]], I fancy, fall into the same particular and curious error;
 but in a more subtle way and on a seemingly remote subject.
 They also, whose motives like those of the Sinn Feiners were
 entirely noble, did in one sense fail to be national, in the sense
@@ -113,11 +113,11 @@ of appreciating the international importance of a nation.
 In their case it was a matter of English and not European politics;
 and as their case was much more complicated, I speak with much less
 confidence about it.  But I think there was a highly determining
-time in politics when certain Irishmen got on to the wrong side
+[[Time|time]] in politics when certain Irishmen got on to the wrong side
 in English politics, as other Irishmen afterwards got on to the wrong
 side in European politics.  And by the wrong side, in both cases,
-I not only mean the side that was not consistent with the truth,
+I not only mean the side that was not consistent with the [[Truth|truth]],
 but the side that was not really congenial to the Irish.
-A man may act against the body, even the main body, of his nation;
-but if he acts against the soul of his nation, even to save it,
+A man may act against the [[Body|body]], even the main [[Body|body]], of his nation;
+but if he acts against the [[Soul|soul]] of his nation, even to save it,
 he and his nation suffer.

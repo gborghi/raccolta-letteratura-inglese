@@ -17,20 +17,20 @@ tags:
 “I wish you could set my mind at rest, Sir, on something it’s uneasy
 about,” returned the Captain.
 
-“Ay!” exclaimed the Manager, “what’s that? Come, Captain Cuttle, I must
+“Ay!” exclaimed the Manager, “what’s that? Come, [[Captain Cuttle]], I must
 trouble you to be quick, if you please. I am much engaged.”
 
 “Lookee here, Sir,” said the Captain, advancing a step. “Afore my
 friend Wal”r went on this here disastrous voyage—”
 
-“Come, come, Captain Cuttle,” interposed the smiling Manager, “don’t
+“Come, come, [[Captain Cuttle]],” interposed the smiling Manager, “don’t
 talk about disastrous voyages in that way. We have nothing to do with
 disastrous voyages here, my good fellow. You must have begun very early
 on your day’s allowance, Captain, if you don’t remember that there are
 hazards in all voyages, whether by sea or land. You are not made uneasy
 by the supposition that young what’s-his-name was lost in bad weather
 that was got up against him in these offices—are you? Fie, Captain!
-Sleep, and soda-water, are the best cures for such uneasiness as that.”
+[[Sleep]], and soda-[[Water|water]], are the best cures for such uneasiness as that.”
 
 “My lad,” returned the Captain, slowly—“you are a’most a lad to me, and
 so I don’t ask your pardon for that slip of a word,—if you find any
@@ -46,15 +46,15 @@ to know, when all is over, as it is, and when what can’t be cured must
 be endoored—for which, as a scholar, you’ll overhaul the book it’s in,
 and thereof make a note—to know once more, in a word, that I warn’t
 mistaken; that I warn’t back’ard in my duty when I didn’t tell the old
-man what Wal”r told me; and that the wind was truly in his sail, when
+man what Wal”r told me; and that the [[Wind|wind]] was truly in his sail, when
 he highsted of it for Barbados Harbour. Mr Carker,” said the Captain,
-in the goodness of his nature, “when I was here last, we was very
+in the goodness of his [[Nature|nature]], “when I was here last, we was very
 pleasant together. If I ain’t been altogether so pleasant myself this
 morning, on account of this poor lad, and if I have chafed again any
 observation of yours that I might have fended off, my name is Ed’ard
 Cuttle, and I ask your pardon.”
 
-“Captain Cuttle,” returned the Manager, with all possible politeness,
+“[[Captain Cuttle]],” returned the Manager, with all possible politeness,
 “I must ask you to do me a favour.”
 
 “And what is it, Sir?” inquired the Captain.
@@ -67,10 +67,10 @@ Every knob in the Captain’s face turned white with astonishment and
 indignation; even the red rim on his forehead faded, like a rainbow
 among the gathering clouds.
 
-“I tell you what, Captain Cuttle,” said the Manager, shaking his
+“I tell you what, [[Captain Cuttle]],” said the Manager, shaking his
 forefinger at him, and showing him all his teeth, but still amiably
 smiling, “I was much too lenient with you when you came here before.
-You belong to an artful and audacious set of people. In my desire to
+You belong to an artful and audacious set of people. In my [[Desire|desire]] to
 save young what’s-his-name from being kicked out of this place, neck
 and crop, my good Captain, I tolerated you; but for once, and only
 once. Now, go, my friend!”
@@ -88,8 +88,8 @@ himself in fetching a deep breath, looked at Mr Carker from head to
 foot, and looked round the little room, as if he did not clearly
 understand where he was, or in what company.
 
-“You are deep, Captain Cuttle,” pursued Carker, with the easy and
-vivacious frankness of a man of the world who knew the world too well
+“You are deep, [[Captain Cuttle]],” pursued Carker, with the easy and
+vivacious frankness of a man of the world who knew the world too [[Well|well]]
 to be ruffled by any discovery of misdoing, when it did not immediately
 concern himself, “but you are not quite out of soundings,
 either—neither you nor your absent friend, Captain. What have you done
@@ -110,7 +110,7 @@ going?”
 a curious action going on in the ponderous fist; “there’s a many words
 I could wish to say to you, but I don’t rightly know where they’re
 stowed just at present. My young friend, Wal”r, was drownded only last
-night, according to my reckoning, and it puts me out, you see. But you
+[[Night|night]], according to my reckoning, and it puts me out, you see. But you
 and me will come alongside o’one another again, my lad,” said the
 Captain, holding up his hook, “if we live.”
 
@@ -118,20 +118,20 @@ Captain, holding up his hook, “if we live.”
 returned the Manager, with the same frankness; “for you may rely, I
 give you fair warning, upon my detecting and exposing you. I don’t
 pretend to be a more moral man than my neighbours, my good Captain; but
-the confidence of this House, or of any member of this House, is not to
+the confidence of this [[house|House]], or of any member of this [[house|House]], is not to
 be abused and undermined while I have eyes and ears. Good day!” said Mr
 Carker, nodding his head.
 
-Captain Cuttle, looking at him steadily (Mr Carker looked full as
+[[Captain Cuttle]], looking at him steadily (Mr Carker looked full as
 steadily at the Captain), went out of the office and left him standing
-astride before the fire, as calm and pleasant as if there were no more
-spots upon his soul than on his pure white linen, and his smooth sleek
+astride before the [[Fire|fire]], as calm and pleasant as if there were no more
+spots upon his [[Soul|soul]] than on his pure white linen, and his smooth sleek
 skin.
 
-The Captain glanced, in passing through the outer counting-house, at
+The Captain glanced, in passing through the outer counting-[[house]], at
 the desk where he knew poor Walter had been used to sit, now occupied
 by another young boy, with a face almost as fresh and hopeful as his on
 the day when they tapped the famous last bottle but one of the old
 Madeira, in the little back parlour. The nation of ideas, thus
 awakened, did the Captain a great deal of good; it softened him in the
-very height of his anger, and brought the tears into his eyes.
+very height of his anger, and brought the [[Tears|tears]] into his eyes.

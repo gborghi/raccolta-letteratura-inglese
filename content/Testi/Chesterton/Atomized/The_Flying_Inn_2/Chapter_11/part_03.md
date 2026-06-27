@@ -15,9 +15,9 @@ tags:
 
 
 "You are right," said Joan, looking at him with
-some wonder, "I have felt like that myself."
+some [[Wonder|wonder]], "I have felt like that myself."
 
-"This art," went on Ivywood as in a dream, "does
+"This art," went on Ivywood as in [[A Dream|a dream]], "does
 indeed take the wings of the morning and abide in the
 uttermost parts of the sea.  They say it contains no
 form of life, but surely we can read its alphabet as
@@ -28,7 +28,7 @@ which are on the fringes of the robe of God."
 lady, and again stroked the vivid violet feathers of the
 small eastern bird.
 
-Mr. Quoodle could stand it no longer.  He had
+Mr. [[quoodle|Quoodle]] could stand it no longer.  He had
 evidently formed a very low opinion of the turret
 chamber and of oriental art generally, but seeing Joan's
 attention once more transferred to his rival, he trotted
@@ -42,19 +42,19 @@ own finger, and went to one of the open windows,
 leaning out a little.
 
 "Look here," he said, "doesn't this express what we
-both feel?  Isn't this the sort of fairy-tale house that
+both feel?  Isn't this the sort of fairy-tale [[house]] that
 ought to hang on the last wall of the world?"
 
-And he motioned her to the window-sill, just outside
+And he motioned her to the [[Window|window]]-sill, just outside
 which hung the bird's empty cage, beautifully wrought
 in brass or some of the yellow metals.
 
 "Why that is the best of all!" cried Lady Joan.  "It
 makes one feel as if it really were the Arabian Nights.
 As if this were a tower of the gigantic Genii with
-turrets up to the moon; and this were an enchanted
+turrets up to the [[Moon|moon]]; and this were an enchanted
 Prince caged in a golden palace suspended by the
-evening star."
+[[Evening Star|evening star]]."
 
 Something stirred in her dim but teeming subconsciousness,
 something like a chill or change like that by
@@ -70,32 +70,32 @@ Ivywood turned with a mild, grey eye.
 "Yes," said Lady Joan Brett, and gave him back the
 bird, which he restored carefully to its cage.
 
-The dog after whom she inquired had in truth trundled
+The dog after whom she inquired had in [[Truth|truth]] trundled
 down a dark, winding staircase and turned into the
-daylight, into a part of the garden he had never seen
-before; nor, indeed, had anybody else for some time
+daylight, into a part of the [[Garden|garden]] he had never seen
+before; nor, indeed, had anybody else for some [[Time|time]]
 past.  It was altogether tangled and overgrown with
 weeds, and the only trace of human handiwork, the
 wreck of an old Gothic Chapel, stood waist high in
 numberless nettles and soiled with crawling fungoids.
 Most of these merely discoloured the grey crumbling
 stone with shades of bronze or brown; but some of
-them, particularly on the side farthest from the house,
+them, particularly on the side farthest from the [[house]],
 were of orange or purple tints almost bright enough for
 Lord Ivywood's oriental decoration.  Some fanciful
 eyes that fell on the place afterward found something
-like an allegory in those graven and broken saints or
-archangels feeding such fiery and ephemeral parasites
-as those toadstools like blood or gold.  But Mr. Quoodle
+like an [[Allegory|allegory]] in those graven and broken saints or
+archangels feeding such fiery and [[ephemeral]] parasites
+as those toadstools like [[Blood|blood]] or gold.  But Mr. [[quoodle|Quoodle]]
 had never set himself up as an allegorist, and he
 merely trotted deeper and deeper into the grey-green
 English jungle.  He grumbled very much at the thistles
-and nettles, much as a city man will grumble at the
+and nettles, much as a [[City|city]] man will grumble at the
 jostling of a crowd.  But he continued to press forward,
 with his nose near the ground, as if he had already
 smelt something that interested him.  And, indeed, he
 had smelt something in which a dog, except on special
-occasions, is much more interested than he is in dogs.
+occasions, is much more interested than he is in [[dogs]].
 Breaking through a last barrier of high and hoary
 purple thistles he came out on a semicircle of somewhat
 clearer ground, dotted with slender trees, and
@@ -133,7 +133,7 @@ moment a huge voice like on ogre's came from within
 the masked tunnel, calling out, "And who are ye
 talking to?"
 
-A very crooked kind of window in the upper part of
+A very crooked kind of [[Window|window]] in the upper part of
 the pantomime cottage burst open and an enormous
 head, with erect, startling, and almost scarlet hair and
 blue eyes as big as a bullfrog's, was thrust out above
@@ -141,19 +141,19 @@ the scene.
 
 "Hump," cried the ogre.  "Me moral counsels have
 been thrown away.  In the last week I've sung you
-fourteen and a half songs of me own composition;
-instead of which you go about stealing dogs.  You're
+fourteen and a half [[songs]] of me own composition;
+instead of which you go about stealing [[dogs]].  You're
 following in the path of Parson Whats-his-name in
 every way, I'm afraid."
 
 "No," said the man with the frying pan, impartially,
 "Parson Whitelady struck a very good path for
 doubling on Pebblewick, that I was glad to follow.
-But I think he was quite silly to steal dogs.  He was
+But I think he was quite silly to steal [[dogs]].  He was
 young and brought up pious.  I know too much about
-dogs to steal one."
+[[dogs]] to steal one."
 
-"Well," asked the large red-haired man, "and how
+"[[Well]]," asked the large red-haired man, "and how
 do you get a dog like that?"
 
 "I let him steal me," said the person stirring the pan.

@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-When the time comes for Veneering to deliver a neat and appropriate
+When the [[Time|time]] comes for Veneering to deliver a neat and appropriate
 stammer to the men of Pocket-Breaches, only Podsnap and Twemlow
 accompany him by railway to that sequestered spot. The legal gentleman
 is at the Pocket-Breaches Branch Station, with an open carriage with a
@@ -22,7 +22,7 @@ printed bill ‘Veneering for ever’ stuck upon it, as if it were a wall;
 and they gloriously proceed, amidst the grins of the populace, to a
 feeble little town hall on crutches, with some onions and bootlaces
 under it, which the legal gentleman says are a Market; and from the
-front window of that edifice Veneering speaks to the listening earth.
+front [[Window|window]] of that edifice Veneering speaks to the listening earth.
 In the moment of his taking his hat off, Podsnap, as per agreement made
 with Mrs Veneering, telegraphs to that wife and mother, ‘He’s up.’
 
@@ -36,7 +36,7 @@ to have been suggested to him by the legal gentleman in Britannia’s
 confidence, while briefly conferring on the stairs.
 
 Point the first is this. Veneering institutes an original comparison
-between the country, and a ship; pointedly calling the ship, the Vessel
+between the country, and a [[Ship|ship]]; pointedly calling the [[Ship|ship]], the Vessel
 of the State, and the Minister the Man at the Helm. Veneering’s object
 is to let Pocket-Breaches know that his friend on his right (Podsnap) is
 a man of wealth. Consequently says he, ‘And, gentlemen, when the timbers
@@ -75,7 +75,7 @@ language of the worthy and intelligent tradesman of our town, the near
 and dear kinsman of my friend upon my left would answer in his wrath,
 “Away with it!”’
 
-Veneering finishes with this last success, and Mr Podsnap telegraphs to
+Veneering finishes with this last [[success]], and Mr Podsnap telegraphs to
 Mrs Veneering, ‘He’s down.’
 
 Then, dinner is had at the Hotel with the legal gentleman, and then
@@ -87,7 +87,7 @@ halls, and Lady Tippins awaits them, and Boots and Brewer await
 them. There is a modest assertion on everybody’s part that everybody
 single-handed ‘brought him in’; but in the main it is conceded by all,
 that that stroke of business on Brewer’s part, in going down to the
-house that night to see how things looked, was the master-stroke.
+[[house]] that [[Night|night]] to see how things looked, was the master-stroke.
 
 A touching little incident is related by Mrs Veneering, in the course of
 the evening. Mrs Veneering is habitually disposed to be tearful, and
@@ -96,18 +96,18 @@ to withdrawing from the dinner-table with Lady Tippins, she says, in a
 pathetic and physically weak manner:
 
 ‘You will all think it foolish of me, I know, but I must mention it. As
-I sat by Baby’s crib, on the night before the election, Baby was very
-uneasy in her sleep.’
+I sat by Baby’s crib, on the [[Night|night]] before the election, Baby was very
+uneasy in her [[Sleep|sleep]].’
 
 The Analytical chemist, who is gloomily looking on, has diabolical
-impulses to suggest ‘Wind’ and throw up his situation; but represses
+impulses to suggest ‘[[Wind]]’ and throw up his situation; but represses
 them.
 
 ‘After an interval almost convulsive, Baby curled her little hands in
 one another and smiled.’
 
 Mrs Veneering stopping here, Mr Podsnap deems it incumbent on him to
-say: ‘I wonder why!’
+say: ‘I [[Wonder|wonder]] why!’
 
 ‘Could it be, I asked myself,’ says Mrs Veneering, looking about her for
 her pocket-handkerchief, ‘that the Fairies were telling Baby that her
@@ -126,11 +126,11 @@ Duke Street, Saint James’s. But there, upon his sofa, a tremendous
 consideration breaks in upon the mild gentleman, putting all softer
 considerations to the rout.
 
-‘Gracious heavens! Now I have time to think of it, he never saw one of
+‘Gracious heavens! Now I have [[Time|time]] to think of it, he never saw one of
 his constituents in all his days, until we saw them together!’
 
 After having paced the room in distress of mind, with his hand to his
-forehead, the innocent Twemlow returns to his sofa and moans:
+forehead, the [[Innocent|innocent]] Twemlow returns to his sofa and moans:
 
 ‘I shall either go distracted, or die, of this man. He comes upon me too
 late in life. I am not strong enough to bear him!’

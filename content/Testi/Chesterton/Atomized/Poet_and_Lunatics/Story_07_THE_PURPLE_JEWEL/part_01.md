@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE PURPLE JEWEL (part 1)"
+title: "Poet and Lunatics — THE PURPLE [[Jewel|JEWEL]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-THE PURPLE JEWEL
+THE PURPLE [[Jewel|JEWEL]]
 
 GABRIEL GALE was a painter and poet; he was the last person
-to pretend to be even a very private detective.  It happened that
+to pretend to be even a very private [[Detective|detective]].  It happened that
 he had solved several mysteries; but most of them were the sort
 of mysteries more attractive to a mystic.  Nevertheless, it also
 happened once or twice that he had to step out of the clouds
 of mysticism into the more brisk and bracing atmosphere of murder.
-Sometimes he succeeded in showing that a murder was a suicide,
-sometimes that a suicide was a murder; sometimes he was even involved
+Sometimes he succeeded in showing that a murder was a [[suicide]],
+sometimes that a [[suicide]] was a murder; sometimes he was even involved
 in the study of lighter occupations like forgery and fraud.
 But the connexion was generally a coincidence; it concerned
 some point at which his imaginative interest in men's strange
@@ -33,8 +33,8 @@ pointed out, the motives of murderers and thieves are perfectly
 sane and even conventional.
 
 "I am no good at such a sensible job," he would say.  "The police
-could easily make me look a fool in any practical matter such as
-they discuss in detective stories.  What is the good of asking me
+could easily make me look a [[Fool|fool]] in any practical matter such as
+they discuss in [[Detective|detective]] stories.  What is the good of asking me
 to measure the marks made by somebody's feet all over the ground,
 to show why he was walking about, or where he was going?
 If you will show me the marks of somebody's hands all over
@@ -58,34 +58,34 @@ But there was much to be really admired in him; and there were of course
 any number of people who admired even what was not so admirable.
 The pessimistic critics claimed him as a great pessimist;
 and this was widely quoted in support of the theory that his
-disappearance was in fact a suicide.  But the optimistic critics
+disappearance was in fact a [[suicide]].  But the optimistic critics
 had always obstinately maintained that he was a True Optimist
 (whatever that may be) and these in their natural rosy rapture
 of optimism, dwelt rather on the idea that he had been murdered.
 So lurid and romantic had his whole career been made in the eyes
 of all Europe, that very few people kept their heads enough to reflect,
-or summoned their courage to suggest, that there is no particular
-principle in the nature of things to prevent a great poet falling
-down a well or being attacked by cramp while swimming at Felixstowe.
+or summoned their [[Courage|courage]] to suggest, that there is no particular
+principle in the [[Nature|nature]] of things to prevent a great poet falling
+down a [[Well|well]] or being attacked by cramp while swimming at Felixstowe.
 Most of his admirers, and all those who were by profession journalists,
-preferred more sublime solutions.
+preferred more [[Sublime|sublime]] solutions.
 
 He left no family, of the regular sort, except a brother in a small
 commercial way in the Midlands, with whom he had had very little to do;
 but he left a number of other people who stood to him in conspicuous
 spiritual or economic relations.  He left a publisher, whose emotions
-were of mingled grief and hope in the cessation of his production of books
+were of mingled grief and [[Hope|hope]] in the cessation of his production of books
 and the high-class advertisement given to those already produced.
 The publisher was himself a man of considerable social distinction,
 as such distinctions go today; a certain Sir Walter Drummond,
-the head of a famous and well-established firm; and a type of a
+the head of a famous and [[Well|well]]-established firm; and a type of a
 certain kind of successful Scotchman who contradicts the common
 tradition by combining being business-like with being extremely
 radiant and benevolent.  He left a theatrical manager in the very act
 of launching his great poetical play about Alexander and the Persians;
 this was an artistic but adaptable Jew, named Isidore Marx,
 who was similarly balanced between the advantages and disadvantages
-of an inevitable silence following the cry of "Author". He left
+of an inevitable [[Silence|silence]] following the cry of "Author". He left
 a beautiful but exceedingly bad-tempered leading actress, who was
 about to gain fresh glory in the part of the Persian Princess;
 and who was one of the persons, not indeed few, with whom
@@ -100,12 +100,12 @@ the circumstances seemed to make the poet's absence as disturbing
 and revolutionary as his presence.
 
 Gabriel Gale, who also moved in the best literary circles,
-knew all this side of Phineas Salt well enough.  He also had
+knew all this side of Phineas Salt [[Well|well]] enough.  He also had
 been in literary negotiations with Sir Walter Drummond.
 He also had been approached for poetical plays by Mr. Isidore Marx.
 He had managed to avoid having "his name connected"
 with Miss Hertha Hathaway, the great Shakespearean actress;
-but he knew her well enough, in a world where everybody knows everybody.
+but he knew her [[Well|well]] enough, in a world where everybody knows everybody.
 But being somewhat carelessly familiar with these noisy outer
 courts of the fame of Phineas, it gave him a mild shock
 of irony to pass into the more private and prosaic interior.
@@ -116,7 +116,7 @@ And he could not but be amused, when he attended a sort of family council
 of the matter, to discover how very domestic and even undistinguished
 the family council was; and how different from the atmosphere
 of large rumour and loose reputation that roared like a great
-wind without.  He had to remind himself that it is only natural,
+[[Wind|wind]] without.  He had to remind himself that it is only natural,
 after all, that anybody's private affairs should be private.
 It was absurd to expect that a wild poet would have a wild
 solicitor or a strange and fantastic doctor or dentist.

@@ -15,8 +15,8 @@ tags:
 
 
 Mr. E. W. B. Childers took one of his hands out of his pockets, stroked
-his face and chin, and looked, with a good deal of doubt and a little
-hope, at Mr. Gradgrind.  From the first he had sought to conciliate that
+his face and chin, and looked, with a good deal of [[Doubt|doubt]] and a little
+[[Hope|hope]], at Mr. Gradgrind.  From the first he had sought to conciliate that
 gentleman, for the sake of the deserted girl.
 
 ‘When Sissy got into the school here,’ he pursued, ‘her father was as
@@ -24,10 +24,10 @@ pleased as Punch.  I couldn’t altogether make out why, myself, as we were
 not stationary here, being but comers and goers anywhere.  I suppose,
 however, he had this move in his mind—he was always half-cracked—and then
 considered her provided for.  If you should happen to have looked in
-to-night, for the purpose of telling him that you were going to do her
+to-[[Night|night]], for the purpose of telling him that you were going to do her
 any little service,’ said Mr. Childers, stroking his face again, and
-repeating his look, ‘it would be very fortunate and well-timed; very
-fortunate and well-timed.’
+repeating his look, ‘it would be very fortunate and [[Well|well]]-timed; very
+fortunate and [[Well|well]]-timed.’
 
 ‘On the contrary,’ returned Mr. Gradgrind.  ‘I came to tell him that her
 connections made her not an object for the school, and that she must not
@@ -53,12 +53,12 @@ who did the fairy business when required.  The father of one of the
 families was in the habit of balancing the father of another of the
 families on the top of a great pole; the father of a third family often
 made a pyramid of both those fathers, with Master Kidderminster for the
-apex, and himself for the base; all the fathers could dance upon rolling
+apex, and himself for the base; all the fathers could [[Dance|dance]] upon [[rolling]]
 casks, stand upon bottles, catch knives and balls, twirl hand-basins,
 ride upon anything, jump over everything, and stick at nothing.  All the
-mothers could (and did) dance, upon the slack wire and the tight-rope,
+mothers could (and did) [[Dance|dance]], upon the slack wire and the tight-rope,
 and perform rapid acts on bare-backed steeds; none of them were at all
-particular in respect of showing their legs; and one of them, alone in a
+particular in respect of showing their legs; and one of them, [[Alone|alone]] in a
 Greek chariot, drove six in hand into every town they came to.  They all
 assumed to be mighty rakish and knowing, they were not very tidy in their
 private dresses, they were not at all orderly in their domestic
@@ -82,14 +82,14 @@ and hith dog being thuppothed to have morrithed?’
 
 He addressed Mr. Gradgrind, who answered ‘Yes.’
 
-‘Well, Thquire,’ he returned, taking off his hat, and rubbing the lining
+‘[[Well]], Thquire,’ he returned, taking off his hat, and rubbing the lining
 with his pocket-handkerchief, which he kept inside for the purpose.  ‘Ith
 it your intenthion to do anything for the poor girl, Thquire?’
 
 ‘I shall have something to propose to her when she comes back,’ said Mr.
 Gradgrind.
 
-‘Glad to hear it, Thquire.  Not that I want to get rid of the child, any
+‘Glad to hear it, Thquire.  Not that I want to get rid of the [[Child|child]], any
 more than I want to thtand in her way.  I’m willing to take her prentith,
 though at her age ith late.  My voithe ith a little huthky, Thquire, and
 not eathy heard by them ath don’t know me; but if you’d been chilled and
@@ -108,14 +108,14 @@ a name, Thquire!’ said Mr. Sleary, with hospitable ease.
 haven’t took your feed yet, have a glath of bitterth.’
 
 Here his daughter Josephine—a pretty fair-haired girl of eighteen, who
-had been tied on a horse at two years old, and had made a will at twelve,
-which she always carried about with her, expressive of her dying desire
-to be drawn to the grave by the two piebald ponies—cried, ‘Father, hush!
-she has come back!’  Then came Sissy Jupe, running into the room as she
+had been tied on a [[Horse|horse]] at two years old, and had made a will at twelve,
+which she always carried about with her, expressive of her dying [[Desire|desire]]
+to be drawn to the [[Grave|grave]] by the two piebald ponies—cried, ‘Father, hush!
+she has come back!’  Then came [[Sissy Jupe]], running into the room as she
 had run out of it.  And when she saw them all assembled, and saw their
 looks, and saw no father there, she broke into a most deplorable cry, and
 took refuge on the bosom of the most accomplished tight-rope lady
-(herself in the family-way), who knelt down on the floor to nurse her,
+(herself in the family-way), who knelt down on the floor to [[Nurse|nurse]] her,
 and to weep over her.
 
 ‘Ith an internal thame, upon my thoul it ith,’ said Sleary.
@@ -125,6 +125,6 @@ to try to do me some good, I know!  You are gone away for my sake, I am
 sure!  And how miserable and helpless you will be without me, poor, poor
 father, until you come back!’  It was so pathetic to hear her saying many
 things of this kind, with her face turned upward, and her arms stretched
-out as if she were trying to stop his departing shadow and embrace it,
+out as if she were trying to stop his departing [[Shadow|shadow]] and embrace it,
 that no one spoke a word until Mr. Bounderby (growing impatient) took the
 case in hand.

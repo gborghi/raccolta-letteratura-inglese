@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 13"
+title: "[[Don Quixote]] — Chapter 13"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -18,23 +18,23 @@ CHAPTER XIII
 
 THE VICTORIAN AND THE ARROW
 
-The arrow that had entered the summer-house with a sound
-like song awakened the worthy proprietor of the place
+The arrow that had entered the [[Summer|summer]]-[[house]] with a sound
+like [[Song|song]] awakened the worthy proprietor of the place
 to a world without which had been entirely transformed.
-Why it had been transformed, and what was the nature
+Why it had been transformed, and what was the [[Nature|nature]]
 of the transformation, he found it sufficiently bewildering
 to discover; but it is almost equally bewildering to describe.
 It began, in a sense, with the isolated insanity of one man;
-yet it was almost equally due, by a not uncommon paradox,
-to the equally isolated sanity of one woman.
+yet it was almost equally due, by a not uncommon [[Paradox|paradox]],
+to the equally isolated [[Sanity|sanity]] of one woman.
 
 Mr. Herne, the librarian, had positively and finally refused
 to change his clothes.
 
-"Well I can't," he cried in despair.  "I simply can't. I should feel
-like a fool, just as if--."
+"[[Well]] I can't," he cried in [[Despair|despair]].  "I simply can't. I should feel
+like a [[Fool|fool]], just as if--."
 
-"Well," asked Rosamund regarding him with round eyes.
+"[[Well]]," asked Rosamund regarding him with round eyes.
 
 "I should feel as if I were in fancy dress," he said.
 Rosamund was less impatient than might have been expected.
@@ -51,7 +51,7 @@ that seems to mean standing always with a sort of a stoop.
 Now I put my hands in my belt and it makes me feel ten
 inches taller.  Why, look at this spear."
 
-He had a habit of walking about with the boar-spear which King Richard
+He had a habit of walking about with the boar-spear which [[King]] [[Richard]]
 had carried in his capacity of forester; and he now planted the staff
 in the grass to bring it to her attention, though it was very literally
 as plain as a pike-staff.
@@ -59,7 +59,7 @@ as plain as a pike-staff.
 "The minute you begin to carry a thing of this sort," he cried,
 "you realise at once why men generally used to carry long
 poles of one sort or another; spears or pikes or pilgrims'
-staffs, or pastoral staffs.  You can hold them at arm's
+staffs, or [[Pastoral|pastoral]] staffs.  You can hold them at arm's
 length and then throw your head back as if it wore a crest.
 You have to lean down to the little modern walking-sticks in order
 to lean on them; as if you were leaning on a crutch, and so you are.
@@ -95,49 +95,49 @@ his clothes at once, like a naughty little boy who had fallen in a pond.
 But the quaint and almost fabulous creatures called human souls
 do not always, or perhaps even often, do what is expected of them.
 If any sensible person can be supposed to have foreseen all this
-crazy tale, he would have had no doubt about which of the two women
+crazy tale, he would have had no [[Doubt|doubt]] about which of the two women
 involved would have been more impatient with its craziness.
 The sensible man would have said that Olive Ashley, with her hobby
 of medievalism, would have understood even a rather mad medievalist;
 whereas anyone so modern as her red-haired friend would not even have
 stopped to ask whether it was medievalism, in face of the obvious
-fact that it was madness.  But then no sensible man would ever
+fact that it was [[Madness|madness]].  But then no sensible man would ever
 have believed that it would happen at all.
 
 In any case the sensible man would have been wrong, as he often is.
-Olive always had her own dreams:  but Rosamund's heart hungered
+Olive always had her own [[Dreams|dreams]]:  but Rosamund's heart hungered
 after two things, simplification and action.  Her thinking was slow;
 so she liked simplicity.  Her impulses were swift; so she liked action.
 
-Rosamund Severne in a bodily sense was born worthy of a crown;
-and even in a biographical sense under the shadow of a coronet.
-It was her fate to move against a magnificent background of river
+Rosamund Severne in a bodily sense was born worthy of a [[Crown|crown]];
+and even in a biographical sense under the [[Shadow|shadow]] of a coronet.
+It was her fate to move against a magnificent background of [[River|river]]
 and terraced hills and the ruins of a historic place, and the medieval
 masquerade she had assumed seemed altogether fitted to her presence.
 To the visionary eyes of the librarian, she appeared to be equally
 a princess in that costume or in a more conventional one.  But these
-accidents of birth and even of beauty are very misleading in psychology.
+accidents of birth and even of [[Beauty|beauty]] are very misleading in psychology.
 If Mr. Herne had possessed more knowledge of the world, he would
 have recognised a type to be seen in very different surroundings.
-The great green valley and the great grey abbey house would have
+The great green valley and the great grey abbey [[house]] would have
 faded from his sight and he would have seen in their place desks
 and typewriters and rows of very dull works of reference.  He would
-have seen in that square face and those grave and honest eyes a type
+have seen in that square face and those [[Grave|grave]] and honest eyes a type
 that is very modern and very variously distributed in the modern world.
 That young woman is to be found in many places where she is wanted
 to support the wavering unworldliness of men like Mr. Herne.
 As Secretary to the Submarine Colonisation Company, she explains firmly to
 a long procession of inquirers that there is room in the sea for more men
 that ever went into it.  As Lady Manager of the Elastic Pavements Society,
-she knows the whole case for this essential reform, and can show
+she knows the whole case for this essential [[Reform|reform]], and can show
 how it eliminates the necessity for better boots or a country life.
-The movement for proving that "Paradise Lost" was written by Charles II
+The movement for proving that "[[Paradise Lost]]" was written by Charles II
 owes its wide popularity entirely to her energy and efficiency.
 The arrangement by which the tops of top-hats can be lifted with a string,
 for purposes of ventilation, would never have reached its present
-universal success, if there had not been one sane person in the office.
+universal [[success]], if there had not been one sane person in the office.
 In all these positions she has the same powerful simplicity
-and the same sincerity in following out one idea at a time.
+and the same sincerity in following out one idea at a [[Time|time]].
 In all these positions she is very conscientious and very unscrupulous.
 
 It was characteristic of Rosamund that she had always been not
@@ -155,7 +155,7 @@ Quite suddenly, and perhaps accidentally, there had become clear to her
 very single eye something like a ray of light that she could follow;
 something that she could understand.  Doubtless she understood
 it better because it was linked up in a loose fashion with the
-traditions that she had been taught from childhood to preserve.
+traditions that she had been taught from [[Childhood|childhood]] to preserve.
 She had never bothered about her father's taste in heraldry;
 she had not even seen very much of her father.  But just as she was
 glad that her father was there, she was glad the heraldry was there.
@@ -171,39 +171,39 @@ She was an heiress; but it is due to them to say that many of
 the more chivalrous admired her not because she was an heiress
 but because she was beautiful.  She was beautiful, but it is
 due to her to say that many of the more rational admired her
-not because she was a beauty but because she was a good sort;
+not because she was a [[Beauty|beauty]] but because she was a good sort;
 and more especially what they called a good sport.  It followed,
 therefore that where she led many would follow, even if she led
-them a dance quite different from the dances then in fashion.
+them a [[Dance|dance]] quite different from the dances then in fashion.
 Thus there grew up, half in jest and yet more and more in earnest,
 a new fashionable "medievalism"; a chase in which all
 the young men followed the lady who followed the librarian.
-And because there was a certain candour of calf-love about it,
-of the moon-calf who is not ashamed to cry for the moon,
+And because there was a certain candour of calf-[[Love|love]] about it,
+of the [[Moon|moon]]-calf who is not ashamed to cry for the [[Moon|moon]],
 it had something in it of the sincerity of youth and springtime.
-It was a romance as well as a rag.  The young men became
+It was a [[Romance|romance]] as [[Well|well]] as a rag.  The young men became
 in a manner poets, if very minor poets.  With the help of
 Herne as a scholar and Rosamund as a vigorous stage-manager,
 they filled their lines with emblems and ensigns and processions,
 even more defiant of modernity than the theatrical dress which
 they had dropped and Herne had retained.  The young men were
 especially fascinated by the notion of reviving the use of the bow;
-possibly with a subconscious memory of the arrows of the god of love.
-Perhaps it was some foolish association of Valentine's that started
+possibly with a subconscious [[Memory|memory]] of the arrows of the god of [[Love|love]].
+Perhaps it was some foolish association of [[Valentine]]'s that started
 the game of sending arrows as messengers of welcome or of war.
 
-Archery was a fashion in the Victorian time; and many
+Archery was a fashion in the Victorian [[Time|time]]; and many
 Victorian ladies and gentlemen may have hovered about
 the lawns of Seawood Abbey, engaged in that graceful sport;
 many may even have revisited the scene as mildly astonished
-ghosts in long whiskers and peg-top trousers or in cloudy
+[[Ghosts|ghosts]] in long whiskers and peg-top trousers or in cloudy
 crinolines swaying and floating like balloons.  Many distinguished
 Victorian characters had doubtless honoured the amusement;
 but they did it within certain visible Victorian limitations.
 They shot their arrows correctly at targets and not (unaccountably)
 at top-hats. They used but few of those giant gestures that
 have belonged in the past to the great bows of the heroes.
-Sir Robert Peel, if prudent as Ulysses, did not turn, saying,
+Sir Robert Peel, if prudent as [[Ulysses]], did not turn, saying,
 "Now I will shoot at another mark," and transfix with his
 shaft the highly decorated waistcoat of Mr. Disraeli.
 It is nowhere recorded that Lord Derby balanced an apple
@@ -217,7 +217,7 @@ Lord Shaftesbury seldom appeared in the character
 and costume of the archer on the Shaftesbury Fountain;
 and it is an error to suppose that he is there represented.
 Above all, it certainly never occurred to the celebrated
-Rowland Hill that shooting arrows about in all directions
+Rowland [[Hill]] that shooting arrows about in all directions
 might be made a substitute for the Penny Post.
 There was, therefore, no real historical precedent for the state
 of affairs that began to develop rapidly at Seawood Abbey,
@@ -234,13 +234,13 @@ the New Régime. To describe at length all the details involved
 in the New Régime would involve the transcription of a considerable
 number of scrolls or strips of paper, which were conveyed
 to the neighbours in this rapid if not efficient manner.
-They all bore the title of The League of the Lion; and were
+They all bore the title of The League of the [[Lion]]; and were
 apparently an appeal to all persons to imitate the better qualities
-of King Richard the First and the Crusaders, under conditions
+of [[King]] [[Richard]] the First and the Crusaders, under conditions
 that could not be considered favourable to the enterprise.
 The astonished citizen was informed that England had now
-reached a crisis in which moral courage alone could save her;
-if it were only the moral courage required to aim a bow
+reached a crisis in which moral [[Courage|courage]] [[Alone|alone]] could save her;
+if it were only the moral [[Courage|courage]] required to aim a bow
 at a venture when engaged in dropping a line to a friend.
 But there was a great deal more of a more sincere sort,
 not without a certain juvenile eloquence, protesting against
@@ -250,7 +250,7 @@ that the age of chivalry was past.
 Needless to say, most of the people who received these missives
 were amused; some were annoyed; and some, strangely enough perhaps,
 were rather relieved and revived, as if they had seen some game of their
-childhood or ideal of their boyhood rise suddenly from the dead.
+[[Childhood|childhood]] or ideal of their boyhood rise suddenly from the dead.
 But it cannot be said that the appeal as it stood was adapted
 to the typical visitors to Lord Seawood's country seat.
 Noblemen and gentlemen who had come down to shoot were often
@@ -262,19 +262,19 @@ were not soothed when the librarian patiently and kindly explained
 to them how cramped, how hunchbacked, how ungainly, was the crouching
 attitude of one holding a gun, compared with the god-like lift
 and leap in the figure that has just discharged an arrow,
-frozen as it is forever in the stillness of the Apollo Belvedere.
+frozen as it is forever in the stillness of the [[Apollo]] Belvedere.
 In short, the further afield the arrows fared, the less likely it
 seemed that they would really have the softening effects of the arrows
-of the God of Love.  And this seemed to reach to a remote extreme
+of the God of [[Love]].  And this seemed to reach to a remote extreme
 of improbability in the very last extent or extremity of their travels;
 when the flying herald of chivalry had actually reached so distant
 and impenetrable a mark as to arouse the attention of the master
-of the house.
+of the [[house]].
 
 As already noted, it is rather more than a metaphor to say
 that the news reached Lord Seawood as a bolt from the blue.
-The bolt came in a flash out of the blue sky of the summer
-into the black shadows of the summer-house. It fixed itself
+The bolt came in a flash out of the blue sky of the [[Summer|summer]]
+into the black shadows of the [[Summer|summer]]-[[house]]. It fixed itself
 in the wall above the Prime Minister's head; and before
 Lord Seawood had taken it in, Lord Eden had taken it out.
 He found attached to it a curled-up document; which the two noblemen
@@ -285,17 +285,17 @@ tone almost terrifying.  It stated the tests and trials
 by which a sterner conception of chivalry could be introduced
 into the world; though it is only justice to all concerned
 to say that it did not contain the word Samurai.  It explained
-that an appeal to the ancient virtue of loyalty could alone
+that an appeal to the ancient virtue of loyalty could [[Alone|alone]]
 rally mankind to the restoration of a worthy social order,
 such as was envisaged by the old orders of knighthood.
 It explained a great many other things; but from the point
-of view of the two elderly gentlemen in the summer-house,
+of view of the two elderly gentlemen in the [[Summer|summer]]-[[house]],
 it did not altogether explain the arrow in the wall.
 
 Lord Eden remained silent; indeed he seemed to be studying
 the document with more gravity or grim attention than might
 be expected.  But Lord Seawood, after some abrupt ejaculations,
-turned by a sort of blind instinct to the doorway and the garden
+turned by a sort of blind instinct to the doorway and the [[Garden|garden]]
 from which the thunderbolt had come.  And there he saw,
 away in the middle distance, at the end of the long lawn,
 something that amazed him as much as a company of angels
@@ -321,14 +321,14 @@ But prodigious porcelain vases of the Ming dynasty might have crashed on
 every side of him without arousing his attention as it was aroused now.
 The hobbies of men are many and strange and mysterious.  And he did
 most deeply resent anyone damaging his collection of Prime Ministers.
-That summer-house in the garden was to him as sacred as any Chinese temple
-full of ancestors; for in it were the thin ghosts of many politicians.
+That [[Summer|summer]]-[[house]] in the [[Garden|garden]] was to him as sacred as any Chinese temple
+full of ancestors; for in it were the thin [[Ghosts|ghosts]] of many politicians.
 Many of these quiet conferences affecting the destinies of the Empire
 had been held in that toy hut.  It was characteristic of Lord Seawood
 that what pleased him most was meeting public men in a private way;
-even a secret way.  He was far too fine a gentleman himself to desire the
-Sunday papers to say that the Prime Minister had visited Seawood Abbey.
-But he went cold as death as he thought of the papers saying that
+even a secret way.  He was far too fine a gentleman himself to [[Desire|desire]] the
+[[Sunday]] papers to say that the Prime Minister had visited Seawood Abbey.
+But he went cold as [[Death|death]] as he thought of the papers saying that
 the Prime Minister had visited Seawood Abbey and lost an eye.
 
 The glance he gave at the gang of school-boys was, therefore,
@@ -342,25 +342,25 @@ a touch to the nobleman's natural annoyance and disdain.
 It was some silly rag, of course, among Rosamund's friends;
 she must have pretty rotten friends.
 
-"I hope you are aware," he said coldly but in a clear and loud voice,
+"I [[Hope|hope]] you are aware," he said coldly but in a clear and loud voice,
 "that you have just nearly killed the Prime Minister.
 Under these circumstances, I think you will see the propriety
 of choosing some other game."
 
-He turned and walked back to the summer-house, having so far controlled
+He turned and walked back to the [[Summer|summer]]-[[house]], having so far controlled
 himself with a conventional consideration for his unwelcome guests.
 But when he returned under the small thatched roof and saw
-in the shadow the pale and angular profile of the Prime Minister
+in the [[Shadow|shadow]] the pale and angular profile of the Prime Minister
 still poring over the scrap of paper with cold concentration,
 Lord Seawood's fury suddenly broke out again.  He felt in that frozen
 face the unfathomable scorn which the great mind of the great statesman
 must be feeling for this dirty and yet deadly practical joke.
-The man's silence opened like an abyss of ice; an abyss into which
+The man's [[Silence|silence]] opened like an abyss of ice; an abyss into which
 apology after apology might be dropped without plumbing its depths,
 or awakening any answer.
 
 "I simply don't know what to say," he said desperately.
-"I've half a mind to kick them all out of the house, the girl
+"I've half a mind to kick them all out of the [[house]], the girl
 and all. . . . Anything whatever I can do. . . ."
 
 Still the Prime Minister did not look up, but continued
@@ -370,53 +370,53 @@ them a little; but his tight lips never moved.
 
 His host was suddenly struck with a sort of terror,
 the scope of which he could not himself follow.
-He thought he had offered an insult blood could not wipe out.
-The silence snapped his nerve and he said sharply:  "For God's
+He thought he had offered an insult [[Blood|blood]] could not wipe out.
+The [[Silence|silence]] snapped his nerve and he said sharply:  "For God's
 sake don't go on reading that rubbish!  I know it's damned funny;
-but it's not so damned funny for me--happening in my own house.
-You can't imagine I like having a guest insulted, let alone you.
+but it's not so damned funny for me--happening in my own [[house]].
+You can't imagine I like having a guest insulted, let [[Alone|alone]] you.
 Tell me what you want and I'll do it."
 
-"Well," said the Prime Minister, and laid down the paper slowly
-on the little round table.  "Well, we've got it at last."
+"[[Well]]," said the Prime Minister, and laid down the paper slowly
+on the little round table.  "[[Well]], we've got it at last."
 
 "Got what?" demanded his distracted friend.
 
 "Our last chance," said the Prime Minister.
 
-There was a silence in the dark summer-house so sudden and complete
+There was a [[Silence|silence]] in the dark [[Summer|summer]]-[[house]] so sudden and complete
 that they could hear the buzzing of a fly and the distant murmur
-of the talk of the mutineers.  The silence was merely accidental;
-yet something rose up in Seawood's soul to protest against it;
-as if silence were making destiny and must be stopped from doing it.
+of the talk of the mutineers.  The [[Silence|silence]] was merely accidental;
+yet something [[Rose|rose]] up in Seawood's [[Soul|soul]] to protest against it;
+as if [[Silence|silence]] were making destiny and must be stopped from doing it.
 
 "What do you mean?" he demanded sharply.  "What last chance?"
 
 "The last chance we were talking about not ten minutes ago,"
 replied the politician with a grim smile.  "Wasn't I talking about
-this very thing before it flew in at the window, like the dove
+this very thing before it flew in at the [[Window|window]], like the dove
 with the olive branch?  Wasn't I actually saying that we must
 have something new because the poor old Empire has gone stale?
 Wasn't I saying we wanted a new positive thing to back up against
-Braintree and the New Democracy?  Well, then."
+Braintree and the New [[democracy|Democracy]]?  [[Well]], then."
 
 "What on earth do you mean?" demanded Lord Seawood.
 
 "I mean this thing has got to be backed up," cried the
 Prime Minister, slapping the little table with a vivacity
 almost shocking in one of his dry and dreary demeanour.
-"It's got to be backed up with horse, foot and artillery;
+"It's got to be backed up with [[Horse|horse]], foot and artillery;
 or what's a damn sight more important, pounds, shillings, and pence.
 It's got to be backed up as we never backed anything in our lives.
 Lord, that a man of my age should live to see the break
 in the enemy's line and the chance for a cavalry charge!
-It's got to be rammed home for all it's worth and a lot more;
+It's got to be rammed [[Home|home]] for all it's worth and a lot more;
 and the sooner we begin the better.  Where are these people?"
 
 "But do you really mean," cried the staring Seawood, "that there's
 anything to be done with fools like--"
 
-"Suppose they are," snapped Eden.  "Am I a fool that I should fancy
+"Suppose they are," snapped Eden.  "Am I a [[Fool|fool]] that I should fancy
 that anything could be done without fools?"
 
 Lord Seawood pulled himself together; but he was still staring.
@@ -435,29 +435,29 @@ looking over his shoulder, "the meaning of the word chivalry?"
 
 "Do you mean in the derivative sense?" asked the other nobleman.
 
-"I mean in the horse sense," replied Eden.  "What people really like
-is a man on a horse--and they don't mind much if it's a high horse.
-Give the people plenty of sports--tournaments, horse races--_panem et
+"I mean in the [[Horse|horse]] sense," replied Eden.  "What people really like
+is a man on a [[Horse|horse]]--and they don't mind much if it's a high [[Horse|horse]].
+Give the people plenty of sports--tournaments, [[Horse|horse]] races--_panem et
 circenses,_ my boy--that will do for a popular side to the policy.
 If we could mobilise all that goes to make the Derby we could
-fight the Deluge."
+fight the [[deluge|Deluge]]."
 
 "I begin," said Seawood, "to have some sort of wild notion
 of what you mean."
 
-"I mean," answered his friend, "that the Democracy cares a damn sight
+"I mean," answered his friend, "that the [[democracy|Democracy]] cares a damn sight
 more about the inequality of horses than about the equality of men."
 
-And stepping across the threshold he strode across the garden with a step
+And stepping across the threshold he strode across the [[Garden|garden]] with a step
 almost startlingly rejuvenated; and before his host had even moved
 he heard the Prime Minister's voice in the distance lifted like a trumpet,
 like the voice of the great orators of fifty years ago.
 
 Thus did the librarian who refused to change his clothes
 contrive to change his country.  For out of this small
-and grotesque incident came all that famous revolution,
+and [[Grotesque|grotesque]] incident came all that famous revolution,
 or reaction, which transformed the face of English society,
-and checked and changed the course of its history.
+and checked and changed the course of its [[history]].
 Like all revolutions effected by Englishmen, and especially
 revolutions effected by Conservatives, it was very careful
 to preserve those powers that were already powerless.
@@ -468,18 +468,18 @@ indeed it was supposed to support, the old monarchical pattern
 of this country.  But in practice the new power was divided
 between three or four subordinate monarchs ruling over large
 provinces of England, like magnified Lords-Lieutenant;
-and called according to the romance or affectation of
+and called according to the [[Romance|romance]] or affectation of
 the movement Kings-at-Arms. They held indeed a position with
 something of the sanctity and symbolic immunity of a herald;
-but they also possessed not a few of the powers of a king.
+but they also possessed not a few of the powers of a [[King|king]].
 They were in command of the bands of young men called Orders
 of Chivalry, which served as a sort of yeomanry or militia.
 They held courts and administered high and low justice
 in accordance with Mr. Herne's researches into medieval law.
 It was something more than a pageant; yet there passed
-into it much of that popular passion which at one time
+into it much of that popular passion which at one [[Time|time]]
 filled half the towns and villages in England with pageants;
-the hunger of a populace which Puritanism and Industrialism
+the hunger of a populace which [[Puritanism]] and Industrialism
 had so long starved for the feast of the eyes and the fancy.
 
 As it was more than a pageant, it was more than a fashion;
@@ -492,8 +492,8 @@ over a society know that indeterminate and yet determining instant.
 It applies to everything from women being allowed votes to women
 not being allowed hair.  It was marked in the Suffragette movement,
 which many middle-class women had long supported, when great ladies
-began to take it up.  It marks the transition from the time
-when it is the new fashion to the time when it is the fashion.
+began to take it up.  It marks the transition from the [[Time|time]]
+when it is the new fashion to the [[Time|time]] when it is the fashion.
 Up to that moment examples may be numerous, but they are still notable;
 after that moment it is the neglect that is notable.  That is
 the sort of moment, in every movement, at which Sir Julian Archer
@@ -503,16 +503,16 @@ every perilous emprise.
 Yet Sir Julian Archer was too vain not to be in a sense simple,
 and too simple not to be in a sense sincere.  Social changes
 of this sort are made possible among considerable masses
-of people, by two ironies of human nature.  The first is that
+of people, by two ironies of human [[Nature|nature]].  The first is that
 almost everyman's life has been sufficiently patchy and full
 of possibilities for him to remember _some_ movement of his
-own mind towards what has become the movement of the time.
+own mind towards what has become the movement of the [[Time|time]].
 The second is that he almost always makes a false picture of
-his past, and fosters a fictitious memory, whereby that detail
+his past, and fosters a fictitious [[Memory|memory]], whereby that detail
 seems in retrospect to dominate his career.
 
 Julian Archer (as has already been faithfully recorded)
-had written a long time ago a very boyish sort of a boy's adventure
+had written a long [[Time|time]] ago a very boyish sort of a boy's adventure
 story about the Battle of Agincourt.  It was only one of the
 multifarious and highly modern activities of his successful career:
 and had not been even one of the most successful.
@@ -521,7 +521,7 @@ more and more on his initiative in the matter.
 
 "They wouldn't listen to me," he said moodily shaking his head.
 "Doesn't do to be a bit too early in the field. . . .
-Of course, Herne's a well-read man; it's his business. . . .
+Of course, Herne's a [[Well|well]]-read man; it's his business. . . .
 I suppose he sees practically every book that comes out.
 Seems as if he had sense enough to take a hint, eh, what?"
 
@@ -540,7 +540,7 @@ He talked rather more about the great Primitives and less about
 the great Victorians.  But as he had so often in the past patronised
 Cimabue and said an encouraging word to Giotto and Botticelli,
 it was not difficult for him to persuade himself that he had been
-a prophet lifting up his voice in vain, and predicting the coming
+a [[Prophet|prophet]] lifting up his voice in vain, and predicting the coming
 of Mr. Herne as the Medieval Messiah.
 
 "My dear, sir," he would say confidentially, "the period
@@ -551,38 +551,38 @@ altogether fruitless . . . ahem . . . not altogether fruitless.
 The very patterns of their costumes would have perished;
 hardly a single picture from which they are taking their
 designs would have survived--but for my little protest.
-It shows what a word in time will do."
+It shows what a word in [[Time|time]] will do."
 
 Lord Seawood himself was affected in much the same way.
 Insensibly, he shifted the centre of gravity between his two hobbies.
 He talked a little more about his private hobby of heraldry.
 He talked a little less about his public hobby of Parliament.
-He insisted less on the greatness of Lord Palmerston and more
-on the greatness of the Black Prince, from whom the Seawood
+He insisted less on the [[Greatness|greatness]] of Lord Palmerston and more
+on the [[Greatness|greatness]] of the Black Prince, from whom the Seawood
 family claimed descent.  And in him also this touching belief
 grew silently in the shade; the sense that he had himself
-had a lot to do with the founding of the League of the Lion
-and the resurrection of Richard Coeur-de-Lion. He felt this
+had a lot to do with the founding of the League of the [[Lion]]
+and the [[Resurrection|resurrection]] of [[Richard]] Coeur-de-[[Lion]]. He felt this
 all the more vividly because of the institution of the Shield
-of Honour, which was one of the latest and proudest additions
+of [[Honour]], which was one of the latest and proudest additions
 to the scheme and had been inaugurated in his own park.
 
 In all this change of climate, Herne was himself unchanged.
 Like many idealists, he was of a type that would have been
 content in complete obscurity, but could not measure or realise
 the scope of complete fame.  If he could take one stride
-to the end of the park, he might as well take another stride
+to the end of the park, he might as [[Well|well]] take another stride
 to the end of the world.  He did not see the world to scale.
 He had forced all his commonplace companions back into their masquerade
-clothes and compelled them to play the masque until they died.
-By hanging on himself to his Robin Hood bow and boar spear,
+clothes and compelled them to play the [[Masque|masque]] until they died.
+By hanging on himself to his [[Robin Hood]] bow and boar spear,
 he had come to find himself not left behind by the company
-but marching in front of it.  The change from that loneliness
+but marching in front of it.  The change from that [[Loneliness|loneliness]]
 to that leadership did seem to him a thrilling and triumphal thing.
-But the change from the leadership of that house-party to the
+But the change from the leadership of that [[house]]-party to the
 leadership of all England hardly seemed to him a change at all.
-For indeed there was in that house-party one face that had fallen
+For indeed there was in that [[house]]-party one face that had fallen
 into the habit of watching for all changes, like the changes
-of sunset and dawn.
+of sunset and [[Dawn|dawn]].
 
 -^-

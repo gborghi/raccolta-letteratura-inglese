@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 34"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 34"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-Evening.—Breakfast passed well over: I was calm and cool throughout. I
+Evening.—Breakfast passed [[Well|well]] over: I was calm and cool throughout. I
 
 answered composedly all inquiries respecting my health; and whatever
 
@@ -28,7 +28,7 @@ was unusual in my look or manner was generally attributed to the
 
 trifling indisposition that had occasioned my early retirement last
 
-night. But how am I to get over the ten or twelve days that must yet
+[[Night|night]]. But how am I to get over the ten or twelve days that must yet
 
 elapse before they go? Yet why so long for their departure? When they
 
@@ -42,23 +42,23 @@ loved him, how madly I have trusted him, how constantly I have
 
 laboured, and studied, and prayed, and struggled for his advantage; and
 
-how cruelly he has trampled on my love, betrayed my trust, scorned my
+how cruelly he has trampled on my [[Love|love]], betrayed my trust, scorned my
 
-prayers and tears, and efforts for his preservation, crushed my hopes,
+prayers and [[Tears|tears]], and efforts for his preservation, crushed my hopes,
 
 destroyed my youth’s best feelings, and doomed me to a life of hopeless
 
 misery, as far as man can do it, it is not enough to say that I no
 
-longer love my husband—I HATE him! The word stares me in the face like
+longer [[Love|love]] my husband—I HATE him! The word stares me in the face like
 
 a guilty confession, but it is true: I hate him—I hate him! But God
 
-have mercy on his miserable soul! and make him see and feel his guilt—I
+have [[Mercy|mercy]] on his miserable [[Soul|soul]]! and make him see and feel his [[Guilt|guilt]]—I
 
 ask no other vengeance! If he could but fully know and truly feel my
 
-wrongs I should be well avenged, and I could freely pardon all; but he
+wrongs I should be [[Well|well]] avenged, and I could freely pardon all; but he
 
 is so lost, so hardened in his heartless depravity, that in this life I
 
@@ -82,7 +82,7 @@ that I cannot do so without rudeness and seeming ingratitude. I
 
 sometimes think I ought to give him credit for the good feeling he
 
-simulates so well; and then again, I think it is my _duty_ to suspect
+simulates so [[Well|well]]; and then again, I think it is my _duty_ to suspect
 
 him under the peculiar circumstances in which I am placed. His kindness
 
@@ -94,17 +94,17 @@ of chess, the expressions he used on the occasion, and those
 
 indescribable looks of his, that so justly roused my indignation, and I
 
-think I shall be safe enough. I have done well to record them so
+think I shall be safe enough. I have done [[Well|well]] to record them so
 
 minutely.
 
 
 
-I think he wishes to find an opportunity of speaking to me alone: he
+I think he wishes to find an opportunity of speaking to me [[Alone|alone]]: he
 
 has seemed to be on the watch all day; but I have taken care to
 
-disappoint him—not that I fear anything he could say, but I have
+disappoint him—not that I [[Fear|fear]] anything he could say, but I have
 
 trouble enough without the addition of his insulting consolations,
 
@@ -124,7 +124,7 @@ themselves to their work; I, less to divert my mind than to deprecate
 
 conversation, had provided myself with a book. Milicent saw that I
 
-wished to be quiet, and accordingly let me alone. Annabella, doubtless,
+wished to be quiet, and accordingly let me [[Alone|alone]]. Annabella, doubtless,
 
 saw it too: but that was no reason why she should restrain her tongue,
 
@@ -154,9 +154,9 @@ read, on the fly-leaf of which I had hastily scribbled,—
 
 
 
-“I am too well acquainted with your character and conduct to feel any
+“I am too [[Well|well]] acquainted with your character and conduct to feel any
 
-real friendship for you, and as I am without your talent for
+real [[Friendship|friendship]] for you, and as I am without your talent for
 
 dissimulation, I cannot assume the appearance of it. I must, therefore,
 
@@ -172,7 +172,7 @@ regard for your cousin Milicent’s feelings, not for yours.”
 
 Upon perusing this she turned scarlet, and bit her lip. Covertly
 
-tearing away the leaf, she crumpled it up and put it in the fire, and
+tearing away the leaf, she crumpled it up and put it in the [[Fire|fire]], and
 
 then employed herself in turning over the pages of the book, and,
 
@@ -190,17 +190,17 @@ would accompany her.
 
 “No, I won’t,” cried Annabella, suddenly looking up, and throwing her
 
-book on the table; “I want to speak to Helen a minute. You may go,
+book on the table; “I want to speak [[To Helen|to Helen]] a minute. You may go,
 
 Milicent, and she’ll follow in a while.” (Milicent went.) “Will you
 
-oblige me, Helen?” continued she.
+oblige me, [[Helen]]?” continued she.
 
 
 
 Her impudence astounded me; but I complied, and followed her into the
 
-library. She closed the door, and walked up to the fire.
+library. She closed the door, and walked up to the [[Fire|fire]].
 
 
 
@@ -212,7 +212,7 @@ library. She closed the door, and walked up to the fire.
 
 
 
-“Ah, you are suspicious!” cried she, smiling, with a gleam of hope.
+“Ah, you are suspicious!” cried she, smiling, with a gleam of [[Hope|hope]].
 
 Hitherto there had been a kind of desperation in her hardihood; now she
 
@@ -236,7 +236,7 @@ effort to appear composed.
 
 
 
-“I enjoy a moonlight ramble as well as you,” I answered, steadily
+“I enjoy a moonlight ramble as [[Well|well]] as you,” I answered, steadily
 
 fixing my eyes upon her; “and the shrubbery happens to be one of my
 
@@ -246,7 +246,7 @@ favourite resorts.”
 
 She coloured again excessively, and remained silent, pressing her
 
-finger against her teeth, and gazing into the fire. I watched her a few
+finger against her teeth, and gazing into the [[Fire|fire]]. I watched her a few
 
 moments with a feeling of malevolent gratification; then, moving
 
@@ -256,7 +256,7 @@ towards the door, I calmly asked if she had anything more to say.
 
 “Yes, yes!” cried she eagerly, starting up from her reclining posture.
 
-“I want to know if you will tell Lord Lowborough?”
+“I want to know if you will tell [[Lord Lowborough]]?”
 
 
 
@@ -264,7 +264,7 @@ towards the door, I calmly asked if she had anything more to say.
 
 
 
-“Well, if you are disposed to publish the matter, _I_ cannot dissuade
+“[[Well]], if you are disposed to publish the matter, _I_ cannot dissuade
 
 you, of course—but there will be terrible work if you do—and if you
 
@@ -292,7 +292,7 @@ she dared not show.
 
 hurried tone. Then, suddenly raising her head and fixing her gleaming
 
-eyes upon me, she continued earnestly: “But, Helen—or Mrs. Huntingdon,
+eyes upon me, she continued earnestly: “But, [[Helen]]—or Mrs. Huntingdon,
 
 or whatever you would have me call you—_will_ you tell him? If you are
 
@@ -346,11 +346,11 @@ relation!”
 
 “And now, Lady Lowborough,” continued I, “let me counsel you to leave
 
-this house as soon as _possible_. You must be aware that your
+this [[house]] as soon as _possible_. You must be aware that your
 
 continuance here is excessively disagreeable to me—not for Mr.
 
-Huntingdon’s sake,” said I, observing the dawn of a malicious smile of
+Huntingdon’s sake,” said I, observing the [[Dawn|dawn]] of a malicious smile of
 
 triumph on her face—“you are welcome to him, if you like him, as far as
 
@@ -360,11 +360,11 @@ true sentiments respecting you, and straining to keep up an appearance
 
 of civility and respect towards one for whom I have not the most
 
-distant shadow of esteem; and because, if you stay, your conduct cannot
+distant [[Shadow|shadow]] of esteem; and because, if you stay, your conduct cannot
 
 possibly remain concealed much longer from the only two persons in the
 
-house who do not know it already. And, for your husband’s sake,
+[[house]] who do not know it already. And, for your husband’s sake,
 
 Annabella, and even for your own, I wish—I earnestly advise and
 
@@ -376,11 +376,11 @@ to your duty while you may, before the dreadful consequences—”
 
 “Yes, yes, of course,” said she, interrupting me with a gesture of
 
-impatience. “But I cannot go, Helen, before the time appointed for our
+impatience. “But I cannot go, [[Helen]], before the [[Time|time]] appointed for our
 
 departure. What possible pretext could I frame for such a thing?
 
-Whether I proposed going back alone—which Lowborough would not hear
+Whether I proposed going back [[Alone|alone]]—which Lowborough would not hear
 
 of—or taking him with me, the very circumstance itself would be certain
 
@@ -392,7 +392,7 @@ long! I will not annoy you with any more of my friendly impertinences.”
 
 
 
-“Well, I have nothing more to say to you.”
+“[[Well]], I have nothing more to say to you.”
 
 
 

@@ -22,7 +22,7 @@ Mr Carker the Manager sat at his desk, smooth and soft as usual,
 reading those letters which were reserved for him to open, backing them
 occasionally with such memoranda and references as their business
 purport required, and parcelling them out into little heaps for
-distribution through the several departments of the House. The post had
+distribution through the several departments of the [[house|House]]. The post had
 come in heavy that morning, and Mr Carker the Manager had a good deal
 to do.
 
@@ -47,18 +47,18 @@ to the heaps—much as a man would know the cards at sight, and work out
 their combinations in his mind after they were turned. Something too
 deep for a partner, and much too deep for an adversary, Mr Carker the
 Manager sat in the rays of the sun that came down slanting on him
-through the skylight, playing his game alone.
+through the skylight, playing his game [[Alone|alone]].
 
 And although it is not among the instincts wild or domestic of the cat
-tribe to play at cards, feline from sole to crown was Mr Carker the
-Manager, as he basked in the strip of summer-light and warmth that
+tribe to play at cards, feline from sole to [[Crown|crown]] was Mr Carker the
+Manager, as he basked in the strip of [[Summer|summer]]-light and warmth that
 shone upon his table and the ground as if they were a crooked
 dial-plate, and himself the only figure on it. With hair and whiskers
 deficient in colour at all times, but feebler than common in the rich
 sunshine, and more like the coat of a sandy tortoise-shell cat; with
 long nails, nicely pared and sharpened; with a natural antipathy to any
 speck of dirt, which made him pause sometimes and watch the falling
-motes of dust, and rub them off his smooth white hand or glossy linen:
+motes of [[Dust|dust]], and rub them off his smooth white hand or glossy linen:
 Mr Carker the Manager, sly of manner, sharp of tooth, soft of foot,
 watchful of eye, oily of tongue, cruel of heart, nice of habit, sat
 with a dainty steadfastness and patience at his work, as if he were
@@ -82,18 +82,18 @@ hand.
 “I am sorry to trouble you, James,” said the brother, gathering them
 up, “but—”
 
-“Oh! you have something to say. I knew that. Well?”
+“Oh! you have something to say. I knew that. [[Well]]?”
 
 Mr Carker the Manager did not raise his eyes or turn them on his
 brother, but kept them on his letter, though without opening it.
 
-“Well?” he repeated sharply.
+“[[Well]]?” he repeated sharply.
 
 “I am uneasy about Harriet.”
 
 “Harriet who? what Harriet? I know nobody of that name.”
 
-“She is not well, and has changed very much of late.”
+“She is not [[Well|well]], and has changed very much of late.”
 
 “She changed very much, a great many years ago,” replied the Manager;
 “and that is all I have to say.

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 23 (part 5)"
+title: "[[Persuasion]] — Chapter 23 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-weight, the doubt, the torment. That had begun to operate in the very
+weight, the [[Doubt|doubt]], the torment. That had begun to operate in the very
 
 hour of first meeting her in Bath; that had returned, after a short
 
@@ -70,7 +70,7 @@ superiority.
 
 In his preceding attempts to attach himself to Louisa Musgrove (the
 
-attempts of angry pride), he protested that he had for ever felt it to
+attempts of angry [[Pride|pride]]), he protested that he had for ever felt it to
 
 be impossible; that he had not cared, could not care, for Louisa;
 
@@ -82,13 +82,13 @@ Louisa’s could so ill bear a comparison, or the perfect unrivalled hold
 
 it possessed over his own. There, he had learnt to distinguish between
 
-the steadiness of principle and the obstinacy of self-will, between the
+the steadiness of principle and the obstinacy of [[Self|self]]-will, between the
 
 darings of heedlessness and the resolution of a collected mind. There
 
 he had seen everything to exalt in his estimation the woman he had
 
-lost; and there begun to deplore the pride, the folly, the madness of
+lost; and there begun to deplore the [[Pride|pride]], the folly, the [[Madness|madness]] of
 
 resentment, which had kept him from trying to regain her when thrown in
 
@@ -108,7 +108,7 @@ had begun to feel himself, though alive, not at liberty.
 
 “I found,” said he, “that I was considered by Harville an engaged man!
 
-That neither Harville nor his wife entertained a doubt of our mutual
+That neither Harville nor his wife entertained a [[Doubt|doubt]] of our mutual
 
 attachment. I was startled and shocked. To a degree, I could contradict
 
@@ -116,7 +116,7 @@ this instantly; but, when I began to reflect that others might have
 
 felt the same—her own family, nay, perhaps herself—I was no longer at
 
-my own disposal. I was hers in honour if she wished it. I had been
+my own disposal. I was hers in [[Honour|honour]] if she wished it. I had been
 
 unguarded. I had not thought seriously on this subject before. I had
 
@@ -176,7 +176,7 @@ result, not the cause of a revival of his warm attachment.
 
 He had remained in Shropshire, lamenting the blindness of his own
 
-pride, and the blunders of his own calculations, till at once released
+[[Pride|pride]], and the blunders of his own calculations, till at once released
 
 from Louisa by the astonishing and felicitous intelligence of her
 
@@ -194,13 +194,13 @@ evil, had been dreadful. Within the first five minutes I said, ‘I will
 
 be at Bath on Wednesday,’ and I was. Was it unpardonable to think it
 
-worth my while to come? and to arrive with some degree of hope? You
+worth my while to come? and to arrive with some degree of [[Hope|hope]]? You
 
 were single. It was possible that you might retain the feelings of the
 
 past, as I did; and one encouragement happened to be mine. I could
 
-never doubt that you would be loved and sought by others, but I knew to
+never [[Doubt|doubt]] that you would be loved and sought by others, but I knew to
 
 a certainty that you had refused one man, at least, of better
 

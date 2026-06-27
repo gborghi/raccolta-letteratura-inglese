@@ -21,20 +21,20 @@ everywhere about here in thousands of cases, (hundreds die every day,)
 in the camp, brigade, and division hospitals. These are merely tents,
 and sometimes very poor ones, the wounded lying on the ground, lucky if
 their blankets are spread on layers of pine or hemlock twigs, or small
-leaves. No cots; seldom even a mattress. It is pretty cold. The ground
-is frozen hard, and there is occasional snow. I go around from one case
+[[Leaves|leaves]]. No cots; seldom even a mattress. It is pretty cold. The ground
+is frozen hard, and there is occasional [[Snow|snow]]. I go around from one case
 to another. I do not see that I do much good to these wounded and dying;
 but I cannot leave them. Once in a while some youngster holds on to me
 convulsively, and I do what I can for him; at any rate, stop with him
 and sit near him for hours, if he wishes it.
 
 Besides the hospitals, I also go occasionally on long tours through the
-camps, talking with the men, &c. Sometimes at night among the groups
+camps, talking with the men, &c. Sometimes at [[Night|night]] among the groups
 around the fires, in their shebang enclosures of bushes. These are
 curious shows, full of characters and groups. I soon get acquainted
-anywhere in camp, with officers or men, and am always well used.
+anywhere in camp, with officers or men, and am always [[Well|well]] used.
 Sometimes I go down on picket with the regiments I know best. As to
-rations, the army here at present seems to be tolerably well supplied,
+rations, the army here at present seems to be tolerably [[Well|well]] supplied,
 and the men have enough, such as it is, mainly salt pork and hard tack.
 Most of the regiments lodge in the flimsy little shelter-tents. A few
-have built themselves huts of logs and mud, with fire-places.
+have built themselves huts of logs and mud, with [[Fire|fire]]-places.

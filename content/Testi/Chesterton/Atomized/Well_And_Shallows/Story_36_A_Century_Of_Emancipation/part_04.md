@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — A Century Of Emancipation (part 4)"
+title: "[[Well]] And Shallows — A Century Of Emancipation (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -39,7 +39,7 @@ that it really has a relation to almost any class of speculation
 that may arise.  Thus, in the matter of psycho-analysis
 and the study of the subconscious, the Church will probably
 be found sooner or later defending certain essentials about
-Will and Conscience against a welter of wild impersonality.
+Will and [[Conscience]] against a welter of wild impersonality.
 Catholics remembering Catholicism will have a right and reason
 to do this.  But Calvinists who have half forgotten Calvinism
 have no particular reason to do it.
@@ -47,18 +47,18 @@ have no particular reason to do it.
 There is, for instance, one influence that grows stronger
 every day, never mentioned in the news papers, not even
 intelligible to people in the newspaper frame of mind.
-It is the return of the Thomist Philosophy; which is
-the philosophy of commonsense, as compared with the paradoxes
+It is the return of the Thomist [[philosophy|Philosophy]]; which is
+the [[philosophy]] of commonsense, as compared with the paradoxes
 of Kant and Hegel and the Pragmatists.  The Roman religion
 will be, in the exact sense, the only Rationalistic religion.
 The other religions will not be Rationalist but Relativist;
 declaring that the reason is itself relative and unreliable;
-declaring that Being is only Becoming or that all time is
-only a time of transition; saying in mathematics that two
-and two make five in the fixed stars, saying in metaphysics
+declaring that Being is only Becoming or that all [[Time|time]] is
+only a [[Time|time]] of transition; saying in mathematics that two
+and two make five in the fixed [[Stars|stars]], saying in metaphysics
 and in morals that there is a good beyond good and evil.
-Instead of the materialist who said that the soul did not exist,
-we shall have the new mystic who says that the body does not exist.
+Instead of the materialist who said that the [[Soul|soul]] did not exist,
+we shall have the new mystic who says that the [[Body|body]] does not exist.
 Amid all these things the return of the Scholastic will simply
 be the return of the sane man.  There will perhaps be belated
 and benighted modernists, lingering from the nineteenth century,
@@ -70,7 +70,7 @@ deny that it hurts a man to stick the point of the needle
 in his leg.  If there are angels, they have presumably
 some intellectual relation to place and space; and if there
 are no angels, there are still men and presumably sane men.
-But to say that there is no pain, or no matter, or no evil,
+But to say that there is no [[Pain|pain]], or no matter, or no evil,
 or no difference between man and beast, or indeed between
 anything and anything else--this is a desperate effort to destroy
 all experience and sense of reality; and men will weary of it
@@ -78,7 +78,7 @@ more and more, when it has ceased to be the latest fashion;
 and will look once more for something that will give form
 to such a chaos and keep the proportions of the mind of man.
 Millions of men are already at least wondering whether this
-solution is not to be found in the Catholic order and philosophy.
+solution is not to be found in the Catholic order and [[philosophy]].
 Above all, the Church has regained that unique position in
 the world in a fair field and under the very reverse of favour;
 having had tor a hundred years no more than the common right

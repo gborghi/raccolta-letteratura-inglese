@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 21"
+title: "[[Wuthering Heights]] — Chapter 21"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,21 +17,21 @@ tags:
 CHAPTER XXI
 
 
-We had sad work with little Cathy that day: she rose in high glee,
-eager to join her cousin, and such passionate tears and lamentations
-followed the news of his departure that Edgar himself was obliged to
+We had sad work with little Cathy that day: she [[Rose|rose]] in high glee,
+eager to join her cousin, and such passionate [[Tears|tears]] and lamentations
+followed the news of his departure that [[Edgar]] himself was obliged to
 soothe her, by affirming he should come back soon: he added, however,
 “if I can get him”; and there were no hopes of that. This promise
-poorly pacified her; but time was more potent; and though still at
+poorly pacified her; but [[Time|time]] was more potent; and though still at
 intervals she inquired of her father when Linton would return, before
-she did see him again his features had waxed so dim in her memory that
+she did see him again his features had waxed so dim in her [[Memory|memory]] that
 she did not recognise him.
 
-When I chanced to encounter the housekeeper of Wuthering Heights, in
+When I chanced to encounter the housekeeper of [[Wuthering Heights]], in
 paying business visits to Gimmerton, I used to ask how the young master
 got on; for he lived almost as secluded as Catherine herself, and was
 never to be seen. I could gather from her that he continued in weak
-health, and was a tiresome inmate. She said Mr. Heathcliff seemed to
+health, and was a tiresome inmate. She said Mr. [[Heathcliff]] seemed to
 dislike him ever longer and worse, though he took some trouble to
 conceal it: he had an antipathy to the sound of his voice, and could
 not do at all with his sitting in the same room with him many minutes
@@ -41,27 +41,27 @@ parlour: or else lay in bed all day: for he was constantly getting
 coughs, and colds, and aches, and pains of some sort.
 
 “And I never knew such a faint-hearted creature,” added the woman; “nor
-one so careful of hisseln. He _will_ go on, if I leave the window open
-a bit late in the evening. Oh! it’s killing, a breath of night air! And
-he must have a fire in the middle of summer; and Joseph’s bacca-pipe is
-poison; and he must always have sweets and dainties, and always milk,
-milk for ever—heeding naught how the rest of us are pinched in winter;
+one so careful of hisseln. He _will_ go on, if I leave the [[Window|window]] open
+a bit late in the evening. Oh! it’s killing, a breath of [[Night|night]] air! And
+he must have a [[Fire|fire]] in the middle of [[Summer|summer]]; and Joseph’s bacca-pipe is
+[[Poison|poison]]; and he must always have sweets and dainties, and always milk,
+milk for ever—heeding naught how the rest of us are pinched in [[Winter|winter]];
 and there he’ll sit, wrapped in his furred cloak in his chair by the
-fire, with some toast and water or other slop on the hob to sip at; and
+[[Fire|fire]], with some toast and [[Water|water]] or other slop on the hob to sip at; and
 if Hareton, for pity, comes to amuse him—Hareton is not bad-natured,
 though he’s rough—they’re sure to part, one swearing and the other
 crying. I believe the master would relish Earnshaw’s thrashing him to a
 mummy, if he were not his son; and I’m certain he would be fit to turn
 him out of doors, if he knew half the nursing he gives hisseln. But
-then he won’t go into danger of temptation: he never enters the
-parlour, and should Linton show those ways in the house where he is, he
+then he won’t go into danger of [[Temptation|temptation]]: he never enters the
+parlour, and should Linton show those ways in the [[house]] where he is, he
 sends him upstairs directly.”
 
 I divined, from this account, that utter lack of sympathy had rendered
-young Heathcliff selfish and disagreeable, if he were not so
+young [[Heathcliff]] selfish and disagreeable, if he were not so
 originally; and my interest in him, consequently, decayed: though still
 I was moved with a sense of grief at his lot, and a wish that he had
-been left with us. Mr. Edgar encouraged me to gain information: he
+been left with us. Mr. [[Edgar]] encouraged me to gain information: he
 thought a great deal about him, I fancy, and would have run some risk
 to see him; and he told me once to ask the housekeeper whether he ever
 came into the village? She said he had only been twice, on horseback,
@@ -70,14 +70,14 @@ knocked up for three or four days afterwards. That housekeeper left, if
 I recollect rightly, two years after he came; and another, whom I did
 not know, was her successor; she lives there still.
 
-Time wore on at the Grange in its former pleasant way till Miss Cathy
+[[Time]] wore on at the Grange in its former pleasant way till Miss Cathy
 reached sixteen. On the anniversary of her birth we never manifested
 any signs of rejoicing, because it was also the anniversary of my late
-mistress’s death. Her father invariably spent that day alone in the
+mistress’s [[Death|death]]. Her father invariably spent that day [[Alone|alone]] in the
 library; and walked, at dusk, as far as Gimmerton kirkyard, where he
 would frequently prolong his stay beyond midnight. Therefore Catherine
 was thrown on her own resources for amusement. This twentieth of March
-was a beautiful spring day, and when her father had retired, my young
+was a beautiful [[spring]] day, and when her father had retired, my young
 lady came down dressed for going out, and said she asked to have a
 ramble on the edge of the moor with me: Mr. Linton had given her leave,
 if we went only a short distance and were back within the hour.
@@ -97,28 +97,28 @@ again like a young greyhound; and, at first, I found plenty of
 entertainment in listening to the larks singing far and near, and
 enjoying the sweet, warm sunshine; and watching her, my pet and my
 delight, with her golden ringlets flying loose behind, and her bright
-cheek, as soft and pure in its bloom as a wild rose, and her eyes
+cheek, as soft and pure in its bloom as a wild [[Rose|rose]], and her eyes
 radiant with cloudless pleasure. She was a happy creature, and an
 angel, in those days. It’s a pity she could not be content.
 
-“Well,” said I, “where are your moor-game, Miss Cathy? We should be at
+“[[Well]],” said I, “where are your moor-game, Miss Cathy? We should be at
 them: the Grange park-fence is a great way off now.”
 
 “Oh, a little further—only a little further, Ellen,” was her answer,
-continually. “Climb to that hillock, pass that bank, and by the time
-you reach the other side I shall have raised the birds.”
+continually. “Climb to that hillock, pass that bank, and by the [[Time|time]]
+you reach the other side I shall have raised the [[Birds|birds]].”
 
 But there were so many hillocks and banks to climb and pass, that, at
 length, I began to be weary, and told her we must halt, and retrace our
 steps. I shouted to her, as she had outstripped me a long way; she
 either did not hear or did not regard, for she still sprang on, and I
 was compelled to follow. Finally, she dived into a hollow; and before I
-came in sight of her again, she was two miles nearer Wuthering Heights
-than her own home; and I beheld a couple of persons arrest her, one of
-whom I felt convinced was Mr. Heathcliff himself.
+came in sight of her again, she was two miles nearer [[Wuthering Heights]]
+than her own [[Home|home]]; and I beheld a couple of persons arrest her, one of
+whom I felt convinced was Mr. [[Heathcliff]] himself.
 
 Cathy had been caught in the fact of plundering, or, at least, hunting
-out the nests of the grouse. The Heights were Heathcliff’s land, and he
+out the nests of the grouse. The Heights were [[Heathcliff]]’s land, and he
 was reproving the poacher.
 
 “I’ve neither taken any nor found any,” she said, as I toiled to them,
@@ -126,7 +126,7 @@ expanding her hands in corroboration of the statement. “I didn’t mean
 to take them; but papa told me there were quantities up here, and I
 wished to see the eggs.”
 
-Heathcliff glanced at me with an ill-meaning smile, expressing his
+[[Heathcliff]] glanced at me with an ill-meaning smile, expressing his
 acquaintance with the party, and, consequently, his malevolence towards
 it, and demanded who “papa” was?
 
@@ -146,11 +146,11 @@ age: he seemed as awkward and rough as ever.
 “Miss Cathy,” I interrupted, “it will be three hours instead of one
 that we are out, presently. We really must go back.”
 
-“No, that man is not my son,” answered Heathcliff, pushing me aside.
+“No, that man is not my son,” answered [[Heathcliff]], pushing me aside.
 “But I have one, and you have seen him before too; and, though your
-nurse is in a hurry, I think both you and she would be the better for a
+[[Nurse|nurse]] is in a hurry, I think both you and she would be the better for a
 little rest. Will you just turn this nab of heath, and walk into my
-house? You’ll get home earlier for the ease; and you shall receive a
+[[house]]? You’ll get [[Home|home]] earlier for the ease; and you shall receive a
 kind welcome.”
 
 I whispered Catherine that she mustn’t, on any account, accede to the
@@ -167,11 +167,11 @@ Nelly.”
 
 “No, she’s not going to any such place,” I cried, struggling to release
 my arm, which he had seized: but she was almost at the door-stones
-already, scampering round the brow at full speed. Her appointed
-companion did not pretend to escort her: he shied off by the road-side,
+already, scampering round the brow at full [[Speed|speed]]. Her appointed
+companion did not pretend to escort her: he shied off by the [[Road|road]]-side,
 and vanished.
 
-“Mr. Heathcliff, it’s very wrong,” I continued: “you know you mean no
+“Mr. [[Heathcliff]], it’s very wrong,” I continued: “you know you mean no
 good. And there she’ll see Linton, and all will be told as soon as ever
 we return; and I shall have the blame.”
 
@@ -180,11 +180,11 @@ days; it’s not often he’s fit to be seen. And we’ll soon persuade her
 to keep the visit secret: where is the harm of it?”
 
 “The harm of it is, that her father would hate me if he found I
-suffered her to enter your house; and I am convinced you have a bad
+suffered her to enter your [[house]]; and I am convinced you have a bad
 design in encouraging her to do so,” I replied.
 
 “My design is as honest as possible. I’ll inform you of its whole
-scope,” he said. “That the two cousins may fall in love, and get
+scope,” he said. “That the two cousins may fall in [[Love|love]], and get
 married. I’m acting generously to your master: his young chit has no
 expectations, and should she second my wishes she’ll be provided for at
 once as joint successor with Linton.”
@@ -193,17 +193,17 @@ once as joint successor with Linton.”
 Catherine would be the heir.”
 
 “No, she would not,” he said. “There is no clause in the will to secure
-it so: his property would go to me; but, to prevent disputes, I desire
-their union, and am resolved to bring it about.”
+it so: his property would go to me; but, to prevent disputes, I [[Desire|desire]]
+their [[Union|union]], and am resolved to bring it about.”
 
-“And I’m resolved she shall never approach your house with me again,” I
+“And I’m resolved she shall never approach your [[house]] with me again,” I
 returned, as we reached the gate, where Miss Cathy waited our coming.
 
-Heathcliff bade me be quiet; and, preceding us up the path, hastened to
+[[Heathcliff]] bade me be quiet; and, preceding us up the path, hastened to
 open the door. My young lady gave him several looks, as if she could
 not exactly make up her mind what to think of him; but now he smiled
 when he met her eye, and softened his voice in addressing her; and I
-was foolish enough to imagine the memory of her mother might disarm him
+was foolish enough to imagine the [[Memory|memory]] of her mother might disarm him
 from desiring her injury. Linton stood on the hearth. He had been out
 walking in the fields, for his cap was on, and he was calling to Joseph
 to bring him dry shoes. He had grown tall of his age, still wanting
@@ -211,34 +211,34 @@ some months of sixteen. His features were pretty yet, and his eye and
 complexion brighter than I remembered them, though with merely
 temporary lustre borrowed from the salubrious air and genial sun.
 
-“Now, who is that?” asked Mr. Heathcliff, turning to Cathy. “Can you
+“Now, who is that?” asked Mr. [[Heathcliff]], turning to Cathy. “Can you
 tell?”
 
 “Your son?” she said, having doubtfully surveyed, first one and then
 the other.
 
-“Yes, yes,” answered he: “but is this the only time you have beheld
-him? Think! Ah! you have a short memory. Linton, don’t you recall your
+“Yes, yes,” answered he: “but is this the only [[Time|time]] you have beheld
+him? Think! Ah! you have a short [[Memory|memory]]. Linton, don’t you recall your
 cousin, that you used to tease us so with wishing to see?”
 
 “What, Linton!” cried Cathy, kindling into joyful surprise at the name.
 “Is that little Linton? He’s taller than I am! Are you Linton?”
 
 The youth stepped forward, and acknowledged himself: she kissed him
-fervently, and they gazed with wonder at the change time had wrought in
+fervently, and they gazed with [[Wonder|wonder]] at the change [[Time|time]] had wrought in
 the appearance of each. Catherine had reached her full height; her
 figure was both plump and slender, elastic as steel, and her whole
 aspect sparkling with health and spirits. Linton’s looks and movements
 were very languid, and his form extremely slight; but there was a grace
 in his manner that mitigated these defects, and rendered him not
 unpleasing. After exchanging numerous marks of fondness with him, his
-cousin went to Mr. Heathcliff, who lingered by the door, dividing his
+cousin went to Mr. [[Heathcliff]], who lingered by the door, dividing his
 attention between the objects inside and those that lay without:
 pretending, that is, to observe the latter, and really noting the
-former alone.
+former [[Alone|alone]].
 
 “And you are my uncle, then!” she cried, reaching up to salute him. “I
-thought I liked you, though you were cross at first. Why don’t you
+thought I liked you, though you were [[Cross|cross]] at first. Why don’t you
 visit at the Grange with Linton? To live all these years such close
 neighbours, and never see us, is odd: what have you done so for?”
 
@@ -255,7 +255,7 @@ sometimes bring papa. Won’t you be glad to see us?”
 resulting from his deep aversion to both the proposed visitors. “But
 stay,” he continued, turning towards the young lady. “Now I think of
 it, I’d better tell you. Mr. Linton has a prejudice against me: we
-quarrelled at one time of our lives, with unchristian ferocity; and, if
+quarrelled at one [[Time|time]] of our lives, with unchristian ferocity; and, if
 you mention coming here to him, he’ll put a veto on your visits
 altogether. Therefore, you must not mention it, unless you be careless
 of seeing your cousin hereafter: you may come, if you will, but you
@@ -263,11 +263,11 @@ must not mention it.”
 
 “Why did you quarrel?” asked Catherine, considerably crestfallen.
 
-“He thought me too poor to wed his sister,” answered Heathcliff, “and
-was grieved that I got her: his pride was hurt, and he’ll never forgive
+“He thought me too poor to wed his sister,” answered [[Heathcliff]], “and
+was grieved that I got her: his [[Pride|pride]] was hurt, and he’ll never forgive
 it.”
 
-“That’s wrong!” said the young lady: “some time I’ll tell him so. But
+“That’s wrong!” said the young lady: “some [[Time|time]] I’ll tell him so. But
 Linton and I have no share in your quarrel. I’ll not come here, then;
 he shall come to the Grange.”
 
@@ -282,7 +282,7 @@ Catherine, as the ninny calls her, will discover his value, and send
 him to the devil. Now, if it had been Hareton!—Do you know that, twenty
 times a day, I covet Hareton, with all his degradation? I’d have loved
 the lad had he been some one else. But I think he’s safe from _her_
-love. I’ll pit him against that paltry creature, unless it bestir
+[[Love|love]]. I’ll pit him against that paltry creature, unless it bestir
 itself briskly. We calculate it will scarcely last till it is eighteen.
 Oh, confound the vapid thing! He’s absorbed in drying his feet, and
 never looks at her.—Linton!”
@@ -290,16 +290,16 @@ never looks at her.—Linton!”
 “Yes, father,” answered the boy.
 
 “Have you nothing to show your cousin anywhere about, not even a rabbit
-or a weasel’s nest? Take her into the garden, before you change your
-shoes; and into the stable to see your horse.”
+or a weasel’s nest? Take her into the [[Garden|garden]], before you change your
+shoes; and into the stable to see your [[Horse|horse]].”
 
 “Wouldn’t you rather sit here?” asked Linton, addressing Cathy in a
 tone which expressed reluctance to move again.
 
-“I don’t know,” she replied, casting a longing look to the door, and
+“I don’t know,” she replied, casting a [[Longing|longing]] look to the door, and
 evidently eager to be active.
 
-He kept his seat, and shrank closer to the fire. Heathcliff rose, and
+He kept his seat, and shrank closer to the [[Fire|fire]]. [[Heathcliff]] [[Rose|rose]], and
 went into the kitchen, and from thence to the yard, calling out for
 Hareton. Hareton responded, and presently the two re-entered. The young
 man had been washing himself, as was visible by the glow on his cheeks
@@ -315,41 +315,41 @@ Catherine looked queer.
 “Is he not a handsome lad?” he continued.
 
 The uncivil little thing stood on tiptoe, and whispered a sentence in
-Heathcliff’s ear. He laughed; Hareton darkened: I perceived he was very
+[[Heathcliff]]’s ear. He laughed; Hareton darkened: I perceived he was very
 sensitive to suspected slights, and had obviously a dim notion of his
 inferiority. But his master or guardian chased the frown by exclaiming—
 
 “You’ll be the favourite among us, Hareton! She says you are a—What was
-it? Well, something very flattering. Here! you go with her round the
+it? [[Well]], something very flattering. Here! you go with her round the
 farm. And behave like a gentleman, mind! Don’t use any bad words; and
 don’t stare when the young lady is not looking at you, and be ready to
 hide your face when she is; and, when you speak, say your words slowly,
 and keep your hands out of your pockets. Be off, and entertain her as
 nicely as you can.”
 
-He watched the couple walking past the window. Earnshaw had his
+He watched the couple walking past the [[Window|window]]. Earnshaw had his
 countenance completely averted from his companion. He seemed studying
-the familiar landscape with a stranger’s and an artist’s interest.
+the familiar landscape with a stranger’s and an [[Artist|artist]]’s interest.
 Catherine took a sly look at him, expressing small admiration. She then
 turned her attention to seeking out objects of amusement for herself,
 and tripped merrily on, lilting a tune to supply the lack of
 conversation.
 
-“I’ve tied his tongue,” observed Heathcliff. “He’ll not venture a
-single syllable all the time! Nelly, you recollect me at his age—nay,
+“I’ve tied his tongue,” observed [[Heathcliff]]. “He’ll not venture a
+single syllable all the [[Time|time]]! Nelly, you recollect me at his age—nay,
 some years younger. Did I ever look so stupid: so ‘gaumless,’ as Joseph
 calls it?”
 
 “Worse,” I replied, “because more sullen with it.”
 
 “I’ve a pleasure in him,” he continued, reflecting aloud. “He has
-satisfied my expectations. If he were a born fool I should not enjoy it
-half so much. But he’s no fool; and I can sympathise with all his
+satisfied my expectations. If he were a born [[Fool|fool]] I should not enjoy it
+half so much. But he’s no [[Fool|fool]]; and I can sympathise with all his
 feelings, having felt them myself. I know what he suffers now, for
 instance, exactly: it is merely a beginning of what he shall suffer,
 though. And he’ll never be able to emerge from his bathos of coarseness
 and ignorance. I’ve got him faster than his scoundrel of a father
-secured me, and lower; for he takes a pride in his brutishness. I’ve
+secured me, and lower; for he takes a [[Pride|pride]] in his brutishness. I’ve
 taught him to scorn everything extra-animal as silly and weak. Don’t
 you think Hindley would be proud of his son, if he could see him?
 almost as proud as I am of mine. But there’s this difference; one is
@@ -359,18 +359,18 @@ shall have the merit of making it go as far as such poor stuff can go.
 _His_ had first-rate qualities, and they are lost: rendered worse than
 unavailing. _I_ have nothing to regret; _he_ would have more than any,
 but I, are aware of. And the best of it is, Hareton is damnably fond of
-me! You’ll own that I’ve outmatched Hindley there. If the dead villain
-could rise from his grave to abuse me for his offspring’s wrongs, I
+me! You’ll own that I’ve outmatched Hindley there. If the dead [[Villain|villain]]
+could rise from his [[Grave|grave]] to abuse me for his offspring’s wrongs, I
 should have the fun of seeing the said offspring fight him back again,
 indignant that he should dare to rail at the one friend he has in the
 world!”
 
-Heathcliff chuckled a fiendish laugh at the idea. I made no reply,
+[[Heathcliff]] chuckled a fiendish laugh at the idea. I made no reply,
 because I saw that he expected none. Meantime, our young companion, who
 sat too removed from us to hear what was said, began to evince symptoms
 of uneasiness, probably repenting that he had denied himself the treat
-of Catherine’s society for fear of a little fatigue. His father
-remarked the restless glances wandering to the window, and the hand
+of Catherine’s society for [[Fear|fear]] of a little fatigue. His father
+remarked the restless glances wandering to the [[Window|window]], and the hand
 irresolutely extended towards his cap.
 
 “Get up, you idle boy!” he exclaimed, with assumed heartiness. “Away
@@ -378,7 +378,7 @@ after them! they are just at the corner, by the stand of hives.”
 
 Linton gathered his energies, and left the hearth. The lattice was
 open, and, as he stepped out, I heard Cathy inquiring of her unsociable
-attendant what was that inscription over the door? Hareton stared up,
+attendant what was that [[Inscription|inscription]] over the door? Hareton stared up,
 and scratched his head like a true clown.
 
 “It’s some damnable writing,” he answered. “I cannot read it.”
@@ -392,7 +392,7 @@ Linton giggled: the first appearance of mirth he had exhibited.
 believe in the existence of such a colossal dunce?”
 
 “Is he all as he should be?” asked Miss Cathy, seriously; “or is he
-simple: not right? I’ve questioned him twice now, and each time he
+simple: not right? I’ve questioned him twice now, and each [[Time|time]] he
 looked so stupid I think he does not understand me. I can hardly
 understand _him_, I’m sure!”
 
@@ -419,18 +419,18 @@ would; pitiful lath of a crater!” retorted the angry boor, retreating,
 while his face burnt with mingled rage and mortification; for he was
 conscious of being insulted, and embarrassed how to resent it.
 
-Mr. Heathcliff having overheard the conversation, as well as I, smiled
+Mr. [[Heathcliff]] having overheard the conversation, as [[Well|well]] as I, smiled
 when he saw him go; but immediately afterwards cast a look of singular
 aversion on the flippant pair, who remained chattering in the doorway:
 the boy finding animation enough while discussing Hareton’s faults and
 deficiencies, and relating anecdotes of his goings on; and the girl
 relishing his pert and spiteful sayings, without considering the
-ill-nature they evinced. I began to dislike, more than to compassionate
+ill-[[Nature|nature]] they evinced. I began to dislike, more than to compassionate
 Linton, and to excuse his father in some measure for holding him cheap.
 
 We stayed till afternoon: I could not tear Miss Cathy away sooner; but
 happily my master had not quitted his apartment, and remained ignorant
-of our prolonged absence. As we walked home, I would fain have
+of our prolonged absence. As we walked [[Home|home]], I would fain have
 enlightened my charge on the characters of the people we had quitted:
 but she got it into her head that I was prejudiced against them.
 
@@ -442,7 +442,7 @@ uncle; he’s _my_ uncle, remember; and I’ll scold papa for quarrelling
 with him.”
 
 And so she ran on, till I relinquished the endeavour to convince her of
-her mistake. She did not mention the visit that night, because she did
+her mistake. She did not mention the visit that [[Night|night]], because she did
 not see Mr. Linton. Next day it all came out, sadly to my chagrin; and
 still I was not altogether sorry: I thought the burden of directing and
 warning would be more efficiently borne by him than me. But he was too
@@ -464,44 +464,44 @@ she knew why he had concealed Linton’s near neighbourhood from her?
 Could she think it was to deny her a pleasure that she might harmlessly
 enjoy?
 
-“It was because you disliked Mr. Heathcliff,” she answered.
+“It was because you disliked Mr. [[Heathcliff]],” she answered.
 
 “Then you believe I care more for my own feelings than yours, Cathy?”
-he said. “No, it was not because I disliked Mr. Heathcliff, but because
-Mr. Heathcliff dislikes me; and is a most diabolical man, delighting to
+he said. “No, it was not because I disliked Mr. [[Heathcliff]], but because
+Mr. [[Heathcliff]] dislikes me; and is a most diabolical man, delighting to
 wrong and ruin those he hates, if they give him the slightest
 opportunity. I knew that you could not keep up an acquaintance with
 your cousin without being brought into contact with him; and I knew he
 would detest you on my account; so for your own good, and nothing else,
 I took precautions that you should not see Linton again. I meant to
-explain this some time as you grew older, and I’m sorry I delayed it.”
+explain this some [[Time|time]] as you grew older, and I’m sorry I delayed it.”
 
-“But Mr. Heathcliff was quite cordial, papa,” observed Catherine, not
+“But Mr. [[Heathcliff]] was quite cordial, papa,” observed Catherine, not
 at all convinced; “and _he_ didn’t object to our seeing each other: he
-said I might come to his house when I pleased; only I must not tell
+said I might come to his [[house]] when I pleased; only I must not tell
 you, because you had quarrelled with him, and would not forgive him for
-marrying aunt Isabella. And you won’t. _You_ are the one to be blamed:
+marrying aunt [[Isabella]]. And you won’t. _You_ are the one to be blamed:
 he is willing to let _us_ be friends, at least; Linton and I; and you
 are not.”
 
 My master, perceiving that she would not take his word for her
-uncle-in-law’s evil disposition, gave a hasty sketch of his conduct to
-Isabella, and the manner in which Wuthering Heights became his
+uncle-in-law’s evil disposition, gave a hasty [[Sketch|sketch]] of his conduct to
+[[Isabella]], and the manner in which [[Wuthering Heights]] became his
 property. He could not bear to discourse long upon the topic; for
 though he spoke little of it, he still felt the same horror and
 detestation of his ancient enemy that had occupied his heart ever since
-Mrs. Linton’s death. “She might have been living yet, if it had not
+Mrs. Linton’s [[Death|death]]. “She might have been living yet, if it had not
 been for him!” was his constant bitter reflection; and, in his eyes,
-Heathcliff seemed a murderer. Miss Cathy—conversant with no bad deeds
+[[Heathcliff]] seemed a murderer. Miss Cathy—conversant with no bad deeds
 except her own slight acts of disobedience, injustice, and passion,
 arising from hot temper and thoughtlessness, and repented of on the day
 they were committed—was amazed at the blackness of spirit that could
-brood on and cover revenge for years, and deliberately prosecute its
+brood on and cover [[Revenge|revenge]] for years, and deliberately prosecute its
 plans without a visitation of remorse. She appeared so deeply impressed
-and shocked at this new view of human nature—excluded from all her
-studies and all her ideas till now—that Mr. Edgar deemed it unnecessary
+and shocked at this new view of human [[Nature|nature]]—excluded from all her
+studies and all her ideas till now—that Mr. [[Edgar]] deemed it unnecessary
 to pursue the subject. He merely added: “You will know hereafter,
-darling, why I wish you to avoid his house and family; now return to
+darling, why I wish you to avoid his [[house]] and family; now return to
 your old employments and amusements, and think no more about them.”
 
 Catherine kissed her father, and sat down quietly to her lessons for a
@@ -510,9 +510,9 @@ grounds, and the whole day passed as usual: but in the evening, when
 she had retired to her room, and I went to help her to undress, I found
 her crying, on her knees by the bedside.
 
-“Oh, fie, silly child!” I exclaimed. “If you had any real griefs you’d
+“Oh, fie, silly [[Child|child]]!” I exclaimed. “If you had any real griefs you’d
 be ashamed to waste a tear on this little contrariety. You never had
-one shadow of substantial sorrow, Miss Catherine. Suppose, for a
+one [[Shadow|shadow]] of substantial sorrow, Miss Catherine. Suppose, for a
 minute, that master and I were dead, and you were by yourself in the
 world: how would you feel, then? Compare the present occasion with such
 an affliction as that, and be thankful for the friends you have,
@@ -542,11 +542,11 @@ that it is done.”
 “But how can one little note—?” she recommenced, putting on an
 imploring countenance.
 
-“Silence!” I interrupted. “We’ll not begin with your little notes. Get
+“[[Silence]]!” I interrupted. “We’ll not begin with your little notes. Get
 into bed.”
 
 She threw at me a very naughty look, so naughty that I would not kiss
-her good-night at first: I covered her up, and shut her door, in great
+her good-[[Night|night]] at first: I covered her up, and shut her door, in great
 displeasure; but, repenting half-way, I returned softly, and lo! there
 was Miss standing at the table with a bit of blank paper before her and
 a pencil in her hand, which she guiltily slipped out of sight on my
@@ -556,15 +556,15 @@ entrance.
 and at present I shall put out your candle.”
 
 I set the extinguisher on the flame, receiving as I did so a slap on my
-hand and a petulant “cross thing!” I then quitted her again, and she
+hand and a petulant “[[Cross|cross]] thing!” I then quitted her again, and she
 drew the bolt in one of her worst, most peevish humours. The letter was
 finished and forwarded to its destination by a milk-fetcher who came
-from the village; but that I didn’t learn till some time afterwards.
+from the village; but that I didn’t learn till some [[Time|time]] afterwards.
 Weeks passed on, and Cathy recovered her temper; though she grew
 wondrous fond of stealing off to corners by herself; and often, if I
 came near her suddenly while reading, she would start and bend over the
 book, evidently desirous to hide it; and I detected edges of loose
-paper sticking out beyond the leaves. She also got a trick of coming
+paper sticking out beyond the [[Leaves|leaves]]. She also got a trick of coming
 down early in the morning and lingering about the kitchen, as if she
 were expecting the arrival of something; and she had a small drawer in
 a cabinet in the library, which she would trifle over for hours, and
@@ -573,16 +573,16 @@ whose key she took special care to remove when she left it.
 One day, as she inspected this drawer, I observed that the playthings
 and trinkets which recently formed its contents were transmuted into
 bits of folded paper. My curiosity and suspicions were roused; I
-determined to take a peep at her mysterious treasures; so, at night, as
+determined to take a peep at her mysterious treasures; so, at [[Night|night]], as
 soon as she and my master were safe upstairs, I searched, and readily
-found among my house keys one that would fit the lock. Having opened, I
+found among my [[house]] keys one that would fit the lock. Having opened, I
 emptied the whole contents into my apron, and took them with me to
 examine at leisure in my own chamber. Though I could not but suspect, I
 was still surprised to discover that they were a mass of
-correspondence—daily almost, it must have been—from Linton Heathcliff:
+correspondence—daily almost, it must have been—from [[Linton Heathcliff]]:
 answers to documents forwarded by her. The earlier dated were
 embarrassed and short; gradually, however, they expanded into copious
-love-letters, foolish, as the age of the writer rendered natural, yet
+[[Love|love]]-letters, foolish, as the age of the writer rendered natural, yet
 with touches here and there which I thought were borrowed from a more
 experienced source. Some of them struck me as singularly odd compounds
 of ardour and flatness; commencing in strong feeling, and concluding in
@@ -596,24 +596,24 @@ Following her habit, my young lady descended early, and visited the
 kitchen: I watched her go to the door, on the arrival of a certain
 little boy; and, while the dairymaid filled his can, she tucked
 something into his jacket pocket, and plucked something out. I went
-round by the garden, and laid wait for the messenger; who fought
+round by the [[Garden|garden]], and laid wait for the messenger; who fought
 valorously to defend his trust, and we spilt the milk between us; but I
 succeeded in abstracting the epistle; and, threatening serious
-consequences if he did not look sharp home, I remained under the wall
+consequences if he did not look sharp [[Home|home]], I remained under the wall
 and perused Miss Cathy’s affectionate composition. It was more simple
 and more eloquent than her cousin’s: very pretty and very silly. I
-shook my head, and went meditating into the house. The day being wet,
+shook my head, and went meditating into the [[house]]. The day being wet,
 she could not divert herself with rambling about the park; so, at the
 conclusion of her morning studies, she resorted to the solace of the
 drawer. Her father sat reading at the table; and I, on purpose, had
-sought a bit of work in some unripped fringes of the window-curtain,
+sought a bit of work in some unripped fringes of the [[Window|window]]-curtain,
 keeping my eye steadily fixed on her proceedings. Never did any bird
 flying back to a plundered nest, which it had left brimful of chirping
-young ones, express more complete despair, in its anguished cries and
+young ones, express more complete [[Despair|despair]], in its anguished cries and
 flutterings, than she by her single “Oh!” and the change that
 transfigured her late happy countenance. Mr. Linton looked up.
 
-“What is the matter, love? Have you hurt yourself?” he said.
+“What is the matter, [[Love|love]]? Have you hurt yourself?” he said.
 
 His tone and look assured her _he_ had not been the discoverer of the
 hoard.
@@ -623,26 +623,26 @@ hoard.
 I obeyed her summons, and accompanied her out.
 
 “Oh, Ellen! you have got them,” she commenced immediately, dropping on
-her knees, when we were enclosed alone. “Oh, give them to me, and I’ll
+her knees, when we were enclosed [[Alone|alone]]. “Oh, give them to me, and I’ll
 never, never do so again! Don’t tell papa. You have not told papa,
 Ellen? say you have not? I’ve been exceedingly naughty, but I won’t do
 it any more!”
 
-With a grave severity in my manner I bade her stand up.
+With a [[Grave|grave]] severity in my manner I bade her stand up.
 
 “So,” I exclaimed, “Miss Catherine, you are tolerably far on, it seems:
-you may well be ashamed of them! A fine bundle of trash you study in
+you may [[Well|well]] be ashamed of them! A fine bundle of trash you study in
 your leisure hours, to be sure: why, it’s good enough to be printed!
 And what do you suppose the master will think when I display it before
 him? I hav’n’t shown it yet, but you needn’t imagine I shall keep your
-ridiculous secrets. For shame! and you must have led the way in writing
+ridiculous [[Secrets|secrets]]. For shame! and you must have led the way in writing
 such absurdities: he would not have thought of beginning, I’m certain.”
 
 “I didn’t! I didn’t!” sobbed Cathy, fit to break her heart. “I didn’t
 once think of loving him till—”
 
 “_Loving_!” cried I, as scornfully as I could utter the word.
-“_Loving_! Did anybody ever hear the like! I might just as well talk of
+“_Loving_! Did anybody ever hear the like! I might just as [[Well|well]] talk of
 loving the miller who comes once a year to buy our corn. Pretty loving,
 indeed! and both times together you have seen Linton hardly four hours
 in your life! Now here is the babyish trash. I’m going with it to the
@@ -651,20 +651,20 @@ library; and we’ll see what your father says to such _loving_.”
 She sprang at her precious epistles, but I held them above my head; and
 then she poured out further frantic entreaties that I would burn
 them—do anything rather than show them. And being really fully as much
-inclined to laugh as scold—for I esteemed it all girlish vanity—I at
+inclined to laugh as scold—for I esteemed it all girlish [[Vanity|vanity]]—I at
 length relented in a measure, and asked,—“If I consent to burn them,
 will you promise faithfully neither to send nor receive a letter again,
 nor a book (for I perceive you have sent him books), nor locks of hair,
 nor rings, nor playthings?”
 
-“We don’t send playthings,” cried Catherine, her pride overcoming her
+“We don’t send playthings,” cried Catherine, her [[Pride|pride]] overcoming her
 shame.
 
 “Nor anything at all, then, my lady?” I said. “Unless you will, here I
 go.”
 
 “I promise, Ellen!” she cried, catching my dress. “Oh, put them in the
-fire, do, do!”
+[[Fire|fire]], do, do!”
 
 But when I proceeded to open a place with the poker the sacrifice was
 too painful to be borne. She earnestly supplicated that I would spare
@@ -676,10 +676,10 @@ I unknotted the handkerchief, and commenced dropping them in from an
 angle, and the flame curled up the chimney.
 
 “I will have one, you cruel wretch!” she screamed, darting her hand
-into the fire, and drawing forth some half-consumed fragments, at the
+into the [[Fire|fire]], and drawing forth some half-consumed fragments, at the
 expense of her fingers.
 
-“Very well—and I will have some to exhibit to papa!” I answered,
+“Very [[Well|well]]—and I will have some to exhibit to papa!” I answered,
 shaking back the rest into the bundle, and turning anew to the door.
 
 She emptied her blackened pieces into the flames, and motioned me to
@@ -690,6 +690,6 @@ to tell my master that the young lady’s qualm of sickness was almost
 gone, but I judged it best for her to lie down a while. She wouldn’t
 dine; but she reappeared at tea, pale, and red about the eyes, and
 marvellously subdued in outward aspect. Next morning I answered the
-letter by a slip of paper, inscribed, “Master Heathcliff is requested
+letter by a slip of paper, inscribed, “Master [[Heathcliff]] is requested
 to send no more notes to Miss Linton, as she will not receive them.”
 And, thenceforth, the little boy came with vacant pockets.

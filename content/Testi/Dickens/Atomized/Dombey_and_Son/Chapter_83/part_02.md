@@ -21,17 +21,17 @@ shrivelled hand. “I know!”
 know who the handsome lady is?”
 
 Munching like that sailor’s wife of yore, who had chestnuts in her lap,
-and scowling like the witch who asked for some in vain, the old woman
+and scowling like the [[Witch|witch]] who asked for some in vain, the old woman
 picked the shilling up, and going backwards, like a crab, or like a
 heap of crabs: for her alternately expanding and contracting hands
 might have represented two of that species, and her creeping face, some
 half-a-dozen more: crouched on the veinous root of an old tree, pulled
-out a short black pipe from within the crown of her bonnet, lighted it
-with a match, and smoked in silence, looking fixedly at her questioner.
+out a short black pipe from within the [[Crown|crown]] of her bonnet, lighted it
+with a match, and smoked in [[Silence|silence]], looking fixedly at her questioner.
 
 Mr Carker laughed, and turned upon his heel.
 
-“Good!” said the old woman. “One child dead, and one child living: one
+“Good!” said the old woman. “One [[Child|child]] dead, and one [[Child|child]] living: one
 wife dead, and one wife coming. Go and meet her!”
 
 In spite of himself, the Manager looked round again, and stopped. The
@@ -51,7 +51,7 @@ woman screaming, “Go and meet her!”
 Preparations for a choice repast were completed, he found, at the
 hotel; and Mr Dombey, and the Major, and the breakfast, were awaiting
 the ladies. Individual constitution has much to do with the development
-of such facts, no doubt; but in this case, appetite carried it hollow
+of such facts, no [[Doubt|doubt]]; but in this case, appetite carried it hollow
 over the tender passion; Mr Dombey being very cool and collected, and
 the Major fretting and fuming in a state of violent heat and
 irritation. At length the door was thrown open by the Native, and,
@@ -60,7 +60,7 @@ blooming, but not very youthful lady, appeared.
 
 “My dear Mr Dombey,” said the lady, “I am afraid we are late, but Edith
 has been out already looking for a favourable point of view for a
-sketch, and kept me waiting for her. Falsest of Majors,” giving him her
+[[Sketch|sketch]], and kept me waiting for her. Falsest of Majors,” giving him her
 little finger, “how do you do?”
 
 “Mrs Skewton,” said Mr Dombey, “let me gratify my friend Carker:” Mr
@@ -104,28 +104,28 @@ inspecting Mr Carker through her glass, and satisfying herself (as she
 lisped audibly to the Major) that he was all heart; “really now, this
 is one of the most enchanting coincidences that I ever heard of. The
 idea! My dearest Edith, there is such an obvious destiny in it, that
-really one might almost be induced to cross one’s arms upon one’s
+really one might almost be induced to [[Cross|cross]] one’s arms upon one’s
 frock, and say, like those wicked Turks, there is no What’s-his-name
-but Thingummy, and What-you-may-call-it is his prophet!”
+but Thingummy, and What-you-may-call-it is his [[Prophet|prophet]]!”
 
 Edith designed no revision of this extraordinary quotation from the
 Koran, but Mr Dombey felt it necessary to offer a few polite remarks.
 
 “It gives me great pleasure,” said Mr Dombey, with cumbrous gallantry,
 “that a gentleman so nearly connected with myself as Carker is, should
-have had the honour and happiness of rendering the least assistance to
-Mrs Granger.” Mr Dombey bowed to her. “But it gives me some pain, and
+have had the [[Honour|honour]] and happiness of rendering the least assistance to
+Mrs Granger.” Mr Dombey bowed to her. “But it gives me some [[Pain|pain]], and
 it occasions me to be really envious of Carker;” he unconsciously laid
 stress on these words, as sensible that they must appear to involve a
 very surprising proposition; “envious of Carker, that I had not that
-honour and that happiness myself.” Mr Dombey bowed again. Edith, saving
+[[Honour|honour]] and that happiness myself.” Mr Dombey bowed again. Edith, saving
 for a curl of her lip, was motionless.
 
 “By the Lord, Sir,” cried the Major, bursting into speech at sight of
 the waiter, who was come to announce breakfast, “it’s an extraordinary
-thing to me that no one can have the honour and happiness of shooting
+thing to me that no one can have the [[Honour|honour]] and happiness of shooting
 all such beggars through the head without being brought to book for it.
-But here’s an arm for Mrs Granger if she’ll do J. B. the honour to
+But here’s an arm for Mrs Granger if she’ll do J. B. the [[Honour|honour]] to
 accept it; and the greatest service Joe can render you, Ma’am, just
 now, is, to lead you into table!”
 

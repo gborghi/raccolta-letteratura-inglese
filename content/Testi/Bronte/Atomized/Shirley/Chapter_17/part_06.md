@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 17 (part 6)"
+title: "[[Shirley]] — Chapter 17 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 shall watch you still. You must be questioned one day, but not now. At
 
-present all you have to do is to say good-night, and then pass."
+present all you have to do is to say good-[[Night|night]], and then pass."
 
 
 
@@ -28,17 +28,17 @@ gravely.
 
 
 
-"Come, don't moralize. Say good-night, and pass," urged Shirley.
+"Come, don't moralize. Say good-[[Night|night]], and pass," urged [[Shirley]].
 
 
 
-"Must I say good-night to you, Miss Keeldar?"
+"Must I say good-[[Night|night]] to you, Miss Keeldar?"
 
 
 
-"Yes, and to Caroline likewise. It is nothing new, I hope. You have bid
+"Yes, and to Caroline likewise. It is nothing new, I [[Hope|hope]]. You have bid
 
-us both good-night before."
+us both good-[[Night|night]] before."
 
 
 
@@ -52,13 +52,13 @@ there was no servility, hardly homage; but there were interest and
 
 affection, heightened by another feeling. Something in his tone when he
 
-spoke, as well as in his words, marked that last sentiment to be
+spoke, as [[Well|well]] as in his words, marked that last sentiment to be
 
 gratitude.
 
 
 
-"Your debtor bids you good-night! May you rest safely and serenely till
+"Your debtor bids you good-[[Night|night]]! May you rest safely and serenely till
 
 morning."
 
@@ -80,17 +80,17 @@ relate, you shall hear it."
 
 
 
-"Just now," pleaded Shirley; "don't procrastinate."
+"Just now," pleaded [[Shirley]]; "don't procrastinate."
 
 
 
-"But I could only tell half a tale. And my time is limited; I have not a
+"But I could only tell half a tale. And my [[Time|time]] is limited; I have not a
 
 moment to spare. Hereafter I will make amends for delay by candour."
 
 
 
-"But are you going home?"
+"But are you going [[Home|home]]?"
 
 
 
@@ -98,7 +98,7 @@ moment to spare. Hereafter I will make amends for delay by candour."
 
 
 
-"Not to leave it any more to-night?"
+"Not to leave it any more to-[[Night|night]]?"
 
 
 
@@ -108,7 +108,7 @@ moment to spare. Hereafter I will make amends for delay by candour."
 
 He would have taken Caroline's hand and joined it in the same clasp in
 
-which he held Shirley's, but somehow it was not ready for him. She had
+which he held [[Shirley]]'s, but somehow it was not ready for him. She had
 
 withdrawn a few steps apart. Her answer to Moore's adieu was only a
 
@@ -118,15 +118,15 @@ cordial token. Again he said "Farewell," and quitted them both.
 
 
 
-"There! it is over," said Shirley when he was gone. "We have made him
+"There! it is over," said [[Shirley]] when he was gone. "We have made him
 
-bid us good-night, and yet not lost ground in his esteem, I think,
+bid us good-[[Night|night]], and yet not lost ground in his esteem, I think,
 
 Cary."
 
 
 
-"I hope not," was the brief reply.
+"I [[Hope|hope]] not," was the brief reply.
 
 
 
@@ -146,37 +146,37 @@ feeling."
 
 
 
-"You are laconic; you would be stoical if you could. Is love, in your
+"You are laconic; you would be stoical if you could. Is [[Love|love]], in your
 
 eyes, a crime, Caroline?"
 
 
 
-"Love a crime! No, Shirley; love is a divine virtue. But why drag that
+"[[Love]] a crime! No, [[Shirley]]; [[Love|love]] is a divine virtue. But why drag that
 
 word into the conversation? It is singularly irrelevant."
 
 
 
-"Good!" pronounced Shirley.
+"Good!" pronounced [[Shirley]].
 
 
 
-The two girls paced the green lane in silence. Caroline first resumed.
+The two girls paced the green lane in [[Silence|silence]]. Caroline first resumed.
 
 
 
 "Obtrusiveness is a crime, forwardness is a crime, and both disgust; but
 
-love! no purest angel need blush to love. And when I see or hear either
+[[Love|love]]! no purest angel need blush to [[Love|love]]. And when I see or hear either
 
-man or woman couple shame with love, I know their minds are coarse,
+man or woman couple shame with [[Love|love]], I know their minds are coarse,
 
 their associations debased. Many who think themselves refined ladies and
 
 gentlemen, and on whose lips the word 'vulgarity' is for ever hovering,
 
-cannot mention 'love' without betraying their own innate and imbecile
+cannot mention '[[Love|love]]' without betraying their own innate and imbecile
 
 degradation. It is a low feeling in their estimation, connected only
 
@@ -190,13 +190,13 @@ with low ideas for them."
 
 "They are cold--they are cowardly--they are stupid on the subject,
 
-Shirley! They never loved--they never were loved!"
+[[Shirley]]! They never loved--they never were loved!"
 
 
 
 "Thou art right, Lina. And in their dense ignorance they blaspheme
 
-living fire, seraph-brought from a divine altar."
+living [[Fire|fire]], seraph-brought from a divine altar."
 
 
 
@@ -204,6 +204,6 @@ living fire, seraph-brought from a divine altar."
 
 
 
-The sudden and joyous clash of bells here stopped the dialogue by
+The sudden and joyous clash of [[Bells|bells]] here stopped the dialogue by
 
 summoning all to the church.

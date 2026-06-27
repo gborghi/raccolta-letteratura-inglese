@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 35 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 35 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -32,7 +32,7 @@ be able to command one’s temper! I must labour to cultivate this
 
 inestimable quality: God only knows how often I shall need it in this
 
-rough, dark road that lies before me.
+rough, dark [[Road|road]] that lies before me.
 
 
 
@@ -48,13 +48,13 @@ remain till the party broke up on the morrow. Consequently, Lady
 
 Lowborough and I had the pleasure of returning _tête-à-tête_ in the
 
-carriage together. For the first mile or two we kept silence, I looking
+carriage together. For the first mile or two we kept [[Silence|silence]], I looking
 
-out of my window, and she leaning back in her corner. But I was not
+out of my [[Window|window]], and she leaning back in her corner. But I was not
 
 going to restrict myself to any particular position for her; when I was
 
-tired of leaning forward, with the cold, raw wind in my face, and
+tired of leaning forward, with the cold, raw [[Wind|wind]] in my face, and
 
 surveying the russet hedges and the damp, tangled grass of their banks,
 
@@ -76,7 +76,7 @@ think of you.”
 
 
 
-“Well, if you _will_ be so bitter against me,” replied she, “I can’t
+“[[Well]], if you _will_ be so bitter against me,” replied she, “I can’t
 
 help it; but _I’m_ not going to sulk for anybody.” Our short drive was
 
@@ -96,11 +96,11 @@ children with me, and I gave them my whole attention, and determined to
 
 keep them till the gentlemen came, or till Milicent arrived with her
 
-mother. Little Helen, however, was soon tired of playing, and insisted
+mother. Little [[Helen]], however, was soon tired of playing, and insisted
 
-upon going to sleep; and while I sat on the sofa with her on my knee,
+upon going to [[Sleep|sleep]]; and while I sat on the sofa with her on my knee,
 
-and Arthur seated beside me, gently playing with her soft, flaxen hair,
+and [[arthur|Arthur]] seated beside me, gently playing with her soft, flaxen hair,
 
 Lady Lowborough composedly came and placed herself on the other side.
 
@@ -108,7 +108,7 @@ Lady Lowborough composedly came and placed herself on the other side.
 
 “To-morrow, Mrs. Huntingdon,” said she, “you will be delivered from my
 
-presence, which, no doubt, you will be very glad of—it is natural you
+presence, which, no [[Doubt|doubt]], you will be very glad of—it is natural you
 
 should; but do you know I have rendered you a great service? Shall I
 
@@ -124,29 +124,29 @@ to provoke me.
 
 
 
-“Well,” resumed she, “have you not observed the salutary change in Mr.
+“[[Well]],” resumed she, “have you not observed the salutary change in Mr.
 
 Huntingdon? Don’t you see what a sober, temperate man he is become? You
 
 saw with regret the sad habits he was contracting, I know: and I know
 
-you did your utmost to deliver him from them, but without success,
+you did your utmost to deliver him from them, but without [[success]],
 
 until I came to your assistance. I told him in few words that I could
 
 not bear to see him degrade himself so, and that I should cease to—no
 
-matter what I told him, but you see the reformation I have wrought; and
+matter what I told him, but you see the [[Reformation|reformation]] I have wrought; and
 
 you ought to thank me for it.”
 
 
 
-I rose and rang for the nurse.
+I [[Rose|rose]] and rang for the [[Nurse|nurse]].
 
 
 
-“But I desire no thanks,” she continued; “all the return I ask is, that
+“But I [[Desire|desire]] no thanks,” she continued; “all the return I ask is, that
 
 you will take care of him when I am gone, and not, by harshness and
 
@@ -162,7 +162,7 @@ took them away, and I followed.
 
 
 
-“Will you, Helen?” continued the speaker.
+“Will you, [[Helen]]?” continued the speaker.
 
 
 
@@ -170,7 +170,7 @@ I gave her a look that blighted the malicious smile on her face, or
 
 checked it, at least for a moment, and departed. In the ante-room I met
 
-Mr. Hargrave. He saw I was in no humour to be spoken to, and suffered
+Mr. Hargrave. He saw I was in no [[Humour|humour]] to be spoken to, and suffered
 
 me to pass without a word; but when, after a few minutes’ seclusion in
 
@@ -204,7 +204,7 @@ displeasure.”
 
 “No, no!” said he, hastily, setting himself before me. “Pardon me, but
 
-I must have your forgiveness. I leave you to-morrow, and I may not have
+I must have your [[Forgiveness|forgiveness]]. I leave you to-morrow, and I may not have
 
 an opportunity of speaking to you again. I was wrong to forget myself
 
@@ -220,11 +220,11 @@ too severe a penalty: I cannot bear it.”
 
 “Forgetfulness is not to be purchased with a wish; and I cannot bestow
 
-my esteem on all who desire it, unless they deserve it too.”
+my esteem on all who [[Desire|desire]] it, unless they deserve it too.”
 
 
 
-“I shall think my life well spent in labouring to deserve it, if you
+“I shall think my life [[Well|well]] spent in labouring to deserve it, if you
 
 will but pardon this offence—will you?”
 
@@ -240,7 +240,7 @@ you. You won’t? Then, Mrs. Huntingdon, you do _not_ forgive me!”
 
 
 
-“Yes; here it is, and my forgiveness with it: only, _sin no more_.”
+“Yes; here it is, and my [[Forgiveness|forgiveness]] with it: only, _sin no more_.”
 
 
 
@@ -260,11 +260,11 @@ _confounded_ for the moment. Meantime Hattersley had seized Hargrave by
 
 the arm, and was whispering something in his ear—some coarse joke, no
 
-doubt, for the latter neither laughed nor spoke in answer, but, turning
+[[Doubt|doubt]], for the latter neither laughed nor spoke in answer, but, turning
 
 from him with a slight curl of the lip, disengaged himself and went to
 
-his mother, who was telling Lord Lowborough how many reasons she had to
+his mother, who was telling [[Lord Lowborough]] how many reasons she had to
 
 be proud of her son.
 

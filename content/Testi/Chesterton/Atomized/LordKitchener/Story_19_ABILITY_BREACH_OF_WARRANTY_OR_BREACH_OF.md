@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE"
+title: "[[LordKitchener]] — ABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

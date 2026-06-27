@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-“That’s right, that’s right. Courage! Business! You have business before
+“That’s right, that’s right. [[Courage]]! Business! You have business before
 you; useful business. Miss Manette, your mother took this course with
 you. And when she died--I believe broken-hearted--having never slackened
 her unavailing search for your father, she left you, at two years old,
 to grow to be blooming, beautiful, and happy, without the dark cloud
 upon you of living in uncertainty whether your father soon wore his
-heart out in prison, or wasted there through many lingering years.”
+heart out in [[Prison|prison]], or wasted there through many lingering years.”
 
 As he said the words he looked down, with an admiring pity, on the
 flowing golden hair; as if he pictured to himself that it might have
@@ -32,26 +32,26 @@ discovery, of money, or of any other property; but--”
 
 He felt his wrist held closer, and he stopped. The expression in the
 forehead, which had so particularly attracted his notice, and which was
-now immovable, had deepened into one of pain and horror.
+now immovable, had deepened into one of [[Pain|pain]] and horror.
 
 “But he has been--been found. He is alive. Greatly changed, it is too
-probable; almost a wreck, it is possible; though we will hope the best.
-Still, alive. Your father has been taken to the house of an old servant
-in Paris, and we are going there: I, to identify him if I can: you, to
-restore him to life, love, duty, rest, comfort.”
+probable; almost a wreck, it is possible; though we will [[Hope|hope]] the best.
+Still, alive. Your father has been taken to the [[house]] of an old servant
+in [[Paris]], and we are going there: I, to identify him if I can: you, to
+restore him to life, [[Love|love]], duty, rest, comfort.”
 
 A shiver ran through her frame, and from it through his. She said, in a
-low, distinct, awe-stricken voice, as if she were saying it in a dream,
+low, distinct, awe-stricken voice, as if she were saying it in [[A Dream|a dream]],
 
-“I am going to see his Ghost! It will be his Ghost--not him!”
+“I am going to see his [[Ghost]]! It will be his [[Ghost]]--not him!”
 
 Mr. Lorry quietly chafed the hands that held his arm. “There, there,
 there! See now, see now! The best and the worst are known to you, now.
-You are well on your way to the poor wronged gentleman, and, with a fair
-sea voyage, and a fair land journey, you will be soon at his dear side.”
+You are [[Well|well]] on your way to the poor wronged gentleman, and, with a fair
+sea voyage, and a fair land [[Journey|journey]], you will be soon at his dear side.”
 
 She repeated in the same tone, sunk to a whisper, “I have been free, I
-have been happy, yet his Ghost has never haunted me!”
+have been happy, yet his [[Ghost]] has never haunted me!”
 
 “Only one thing more,” said Mr. Lorry, laying stress upon it as a
 wholesome means of enforcing her attention: “he has been found under
@@ -80,7 +80,7 @@ A wild-looking woman, whom even in his agitation, Mr. Lorry observed to
 be all of a red colour, and to have red hair, and to be dressed in some
 extraordinary tight-fitting fashion, and to have on her head a most
 wonderful bonnet like a Grenadier wooden measure, and good measure too,
-or a great Stilton cheese, came running into the room in advance of the
+or a great Stilton [[cheese]], came running into the room in advance of the
 inn servants, and soon settled the question of his detachment from the
 poor young lady, by laying a brawny hand upon his chest, and sending him
 flying back against the nearest wall.
@@ -92,36 +92,36 @@ reflection, simultaneously with his coming against the wall.)
 “Why don’t you go and fetch things, instead of standing there staring
 at me? I am not so much to look at, am I? Why don’t you go and fetch
 things? I’ll let you know, if you don’t bring smelling-salts, cold
-water, and vinegar, quick, I will.”
+[[Water|water]], and vinegar, quick, I will.”
 
 There was an immediate dispersal for these restoratives, and she
 softly laid the patient on a sofa, and tended her with great skill and
 gentleness: calling her “my precious!” and “my bird!” and spreading her
-golden hair aside over her shoulders with great pride and care.
+golden hair aside over her shoulders with great [[Pride|pride]] and care.
 
 “And you in brown!” she said, indignantly turning to Mr. Lorry;
 “couldn’t you tell her what you had to tell her, without frightening her
-to death? Look at her, with her pretty pale face and her cold hands. Do
+to [[Death|death]]? Look at her, with her pretty pale face and her cold hands. Do
 you call _that_ being a Banker?”
 
 Mr. Lorry was so exceedingly disconcerted by a question so hard to
 answer, that he could only look on, at a distance, with much feebler
-sympathy and humility, while the strong woman, having banished the inn
+sympathy and [[Humility|humility]], while the strong woman, having banished the inn
 servants under the mysterious penalty of “letting them know” something
 not mentioned if they stayed there, staring, recovered her charge by a
 regular series of gradations, and coaxed her to lay her drooping head
 upon her shoulder.
 
-“I hope she will do well now,” said Mr. Lorry.
+“I [[Hope|hope]] she will do [[Well|well]] now,” said Mr. Lorry.
 
 “No thanks to you in brown, if she does. My darling pretty!”
 
-“I hope,” said Mr. Lorry, after another pause of feeble sympathy and
-humility, “that you accompany Miss Manette to France?”
+“I [[Hope|hope]],” said Mr. Lorry, after another pause of feeble sympathy and
+[[Humility|humility]], “that you accompany Miss Manette to France?”
 
 “A likely thing, too!” replied the strong woman. “If it was ever
-intended that I should go across salt water, do you suppose Providence
+intended that I should go across salt [[Water|water]], do you suppose [[Providence]]
 would have cast my lot in an island?”
 
-This being another question hard to answer, Mr. Jarvis Lorry withdrew to
+This being another question hard to answer, Mr. [[Jarvis Lorry]] withdrew to
 consider it.

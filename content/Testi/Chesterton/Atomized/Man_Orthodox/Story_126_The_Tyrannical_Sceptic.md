@@ -26,7 +26,7 @@ are so noisy, so aggressive, so violent and angry even
 unto slaying, as the subjects about which they do not care.
 ... Men have said that the ground of bigotry is ignorance,
 but more is true than that:  the ground of bigotry is indifference.
-There is one figure who has dominated history and been the oppressor
+There is one figure who has dominated [[history]] and been the oppressor
 of all religions, good and bad; all philosophies, true and false.
 He is the tyrannical sceptic--and his name is Pilate.
 

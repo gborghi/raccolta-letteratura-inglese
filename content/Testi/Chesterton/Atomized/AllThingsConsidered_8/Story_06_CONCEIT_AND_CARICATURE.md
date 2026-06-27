@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — CONCEIT AND CARICATURE"
+title: "[[AllThingsConsidered-8]] — CONCEIT AND CARICATURE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -19,13 +19,13 @@ CONCEIT AND CARICATURE
 
 If a man must needs be conceited, it is certainly better that he should be
 conceited about some merits or talents that he does not really possess.
-For then his vanity remains more or less superficial; it remains
+For then his [[Vanity|vanity]] remains more or less superficial; it remains
 a mere mistake of fact, like that of a man who thinks he inherits
-the royal blood or thinks he has an infallible system for Monte Carlo.
+the royal [[Blood|blood]] or thinks he has an infallible system for Monte Carlo.
 Because the merit is an unreal merit, it does not corrupt or
 sophisticate his real merits.  He is vain about the virtue he has
 not got; but he may be humble about the virtues that he has got.
-His truly honourable qualities remain in their primordial innocence;
+His truly honourable qualities remain in their primordial [[innocence]];
 he cannot see them and he cannot spoil them.  If a man's mind is
 erroneously possessed with the idea that he is a great violinist,
 that need not prevent his being a gentleman and an honest man.
@@ -39,7 +39,7 @@ in the virtues we do not possess.  It is the pleasure which a man
 takes in the presence or absence of certain things in himself without
 ever adequately asking himself whether in his case they constitute
 virtues at all.  A man will plume himself because he is not bad
-in some particular way, when the truth is that he is not good enough
+in some particular way, when the [[Truth|truth]] is that he is not good enough
 to be bad in that particular way.  Some priggish little clerk will say,
 "I have reason to congratulate myself that I am a civilised person,
 and not so bloodthirsty as the Mad Mullah."  Somebody ought to say
@@ -58,10 +58,10 @@ True religion, perhaps, is above idolatry.  But you are below idolatry.
 You are not holy enough yet to worship a lump of stone."
 
 Mr. F. C. Gould, the brilliant and felicitous caricaturist, recently
-delivered a most interesting speech upon the nature and atmosphere
+delivered a most interesting speech upon the [[Nature|nature]] and atmosphere
 of our modern English caricature.  I think there is really very little
 to congratulate oneself about in the condition of English caricature.
-There are few causes for pride; probably the greatest cause for pride
+There are few causes for [[Pride|pride]]; probably the greatest cause for [[Pride|pride]]
 is Mr. F. C. Gould.  But Mr. F. C. Gould, forbidden by modesty
 to adduce this excellent ground for optimism, fell back upon saying
 a thing which is said by numbers of other people, but has not perhaps
@@ -70,8 +70,8 @@ He said that he thought "that they might congratulate themselves
 that the style of caricature which found acceptation nowadays was
 very different from the lampoon of the old days."  Continuing, he said,
 according to the newspaper report, "On looking back to the political
-lampoons of Rowlandson's and Gilray's time they would find them coarse
-and brutal.  In some countries abroad still, 'even in America,'
+lampoons of Rowlandson's and Gilray's [[Time|time]] they would find them coarse
+and brutal.  In some countries abroad still, 'even in [[america|America]],'
 the method of political caricature was of the bludgeon kind.
 The fact was we had passed the bludgeon stage.  If they were brutal
 in attacking a man, even for political reasons, they roused sympathy
@@ -80,32 +80,32 @@ in the point they wanted to emphasise as gently as they could."
 (Laughter and applause.)
 
 Anybody reading these words, and anybody who heard them, will certainly
-feel that there is in them a great deal of truth, as well as a great
-deal of geniality.  But along with that truth and with that geniality
+feel that there is in them a great deal of [[Truth|truth]], as [[Well|well]] as a great
+deal of geniality.  But along with that [[Truth|truth]] and with that geniality
 there is a streak of that erroneous type of optimism which is founded
 on the fallacy of which I have spoken above.  Before we congratulate
 ourselves upon the absence of certain faults from our nation or society,
 we ought to ask ourselves why it is that these faults are absent.
 Are we without the fault because we have the opposite virtue?
 Or are we without the fault because we have the opposite fault?
-It is a good thing assuredly, to be innocent of any excess; but let
-us be sure that we are not innocent of excess merely by being guilty
-of defect.  Is it really true that our English political satire is
+It is a good thing assuredly, to be [[Innocent|innocent]] of any excess; but let
+us be sure that we are not [[Innocent|innocent]] of excess merely by being guilty
+of defect.  Is it really true that our English political [[Satire|satire]] is
 so moderate because it is so magnanimous, so forgiving, so saintly?
-Is it penetrated through and through with a mystical charity,
+Is it penetrated through and through with a mystical [[Charity|charity]],
 with a psychological tenderness?  Do we spare the feelings of the
 Cabinet Minister because we pierce through all his apparent crimes
-and follies down to the dark virtues of which his own soul is unaware?
-Do we temper the wind to the Leader of the Opposition because
+and follies down to the dark virtues of which his own [[Soul|soul]] is unaware?
+Do we temper the [[Wind|wind]] to the Leader of the Opposition because
 in our all-embracing heart we pity and cherish the struggling
 spirit of the Leader of the Opposition?  Briefly, have we left off
 being brutal because we are too grand and generous to be brutal?
 Is it really true that we are _better_ than brutality?
 Is it really true that we have _passed_ the bludgeon stage?
 
-I fear that there is, to say the least of it, another side to the matter.
-Is it not only too probable that the mildness of our political satire,
-when compared with the political satire of our fathers, arises simply from
+I [[Fear|fear]] that there is, to say the least of it, another side to the matter.
+Is it not only too probable that the mildness of our political [[Satire|satire]],
+when compared with the political [[Satire|satire]] of our fathers, arises simply from
 the profound unreality of our current politics?  Rowlandson and Gilray
 did not fight merely because they were naturally pothouse pugilists;
 they fought because they had something to fight about.
@@ -117,7 +117,7 @@ If we wish for a proof of this fact that the lack of refinement did
 not come from mere brutality, the proof is easy.  The proof is that
 in that struggle no personalities were more brutal than the really
 refined personalities.  None were more violent and intolerant than
-those who were by nature polished and sensitive.  Nelson, for instance,
+those who were by [[Nature|nature]] polished and sensitive.  Nelson, for instance,
 had the nerves and good manners of a woman:  nobody in his senses,
 I suppose, would call Nelson "brutal." But when he was touched upon
 the national matter, there sprang out of him a spout of oaths,
@@ -129,15 +129,15 @@ But he was ready, he said, "to embrace Liberty upon a pile of corpses."
 In Ireland there were even more instances.  Robert Emmet was only one
 famous example of a whole family of men at once sensitive and savage.
 I think that Mr. F.C. Gould is altogether wrong in talking
-of this political ferocity as if it were some sort of survival
+of this political ferocity as if it were some sort of [[Survival|survival]]
 from ruder conditions, like a flint axe or a hairy man.
 Cruelty is, perhaps, the worst kind of sin.  Intellectual cruelty
 is certainly the worst kind of cruelty.  But there is nothing
 in the least barbaric or ignorant about intellectual cruelty.
-The great Renaissance artists who mixed colours exquisitely mixed
-poisons equally exquisitely; the great Renaissance princes who
+The great [[Renaissance]] artists who mixed colours exquisitely mixed
+poisons equally exquisitely; the great [[Renaissance]] princes who
 designed instruments of music also designed instruments of torture.
-Barbarity, malignity, the desire to hurt men, are the evil things
+Barbarity, malignity, the [[Desire|desire]] to hurt men, are the evil things
 generated in atmospheres of intense reality when great nations or great
 causes are at war.  We may, perhaps, be glad that we have not got them:
 but it is somewhat dangerous to be proud that we have not got them.
@@ -153,27 +153,27 @@ to the bludgeon stage.
 
 Let us then, by all means, be proud of the virtues that we have not got;
 but let us not be too arrogant about the virtues that we cannot
-help having.  It may be that a man living on a desert island has a right
+help having.  It may be that a man living on a [[Desert|desert]] island has a right
 to congratulate himself upon the fact that he can meditate at his ease.
 But he must not congratulate himself on the fact that he is on
-a desert island, and at the same time congratulate himself on
-the self-restraint he shows in not going to a ball every night.
+a [[Desert|desert]] island, and at the same [[Time|time]] congratulate himself on
+the [[Self|self]]-restraint he shows in not going to a ball every [[Night|night]].
 Similarly our England may have a right to congratulate itself upon
 the fact that her politics are very quiet, amicable, and humdrum.
 But she must not congratulate herself upon that fact and
-also congratulate herself upon the self-restraint she shows
+also congratulate herself upon the [[Self|self]]-restraint she shows
 in not tearing herself and her citizens into rags.  Between two
 English Privy Councillors polite language is a mark of civilisation,
 but really not a mark of magnanimity.
 
 Allied to this question is the kindred question on which we so often hear
-an innocent British boast--the fact that our statesmen are privately
+an [[Innocent|innocent]] British boast--the fact that our statesmen are privately
 on very friendly relations, although in Parliament they sit on opposite
-sides of the House.  Here, again, it is as well to have no illusions.
-Our statesmen are not monsters of mystical generosity or insane logic,
-who are really able to hate a man from three to twelve and to love
+sides of the [[house|House]].  Here, again, it is as [[Well|well]] to have no illusions.
+Our statesmen are not monsters of mystical generosity or insane [[logic]],
+who are really able to hate a man from three to twelve and to [[Love|love]]
 him from twelve to three.  If our social relations are more peaceful
-than those of France or America or the England of a hundred
+than those of France or [[america|America]] or the England of a hundred
 years ago, it is simply because our politics are more peaceful;
 not improbably because our politics are more fictitious.
 If our statesmen agree more in private, it is for the very simple

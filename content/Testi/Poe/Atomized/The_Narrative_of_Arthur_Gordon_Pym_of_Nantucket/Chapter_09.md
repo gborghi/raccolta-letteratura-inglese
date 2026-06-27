@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 10"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 10"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -64,9 +64,9 @@ The former danced about the deck like a madman, uttering the most
 
 extravagant rhodomontades, intermingled with howls and imprecations,
 
-while the latter burst into tears, and continued for many minutes
+while the latter burst into [[Tears|tears]], and continued for many minutes
 
-weeping like a child.
+weeping like a [[Child|child]].
 
 
 
@@ -132,7 +132,7 @@ to display a set of the most brilliantly white teeth. As his vessel
 
 drew nearer, we saw a red flannel cap which he had on fall from his
 
-head into the water; but of this he took little or no notice,
+head into the [[Water|water]]; but of this he took little or no notice,
 
 continuing his odd smiles and gesticulations. I relate these things and
 
@@ -160,7 +160,7 @@ of--hellish--utterly suffocating--insufferable, inconceivable. I gasped
 
 for breath, and, turning to my companions, perceived that they were
 
-paler than marble. But we had now no time left for question or
+paler than marble. But we had now no [[Time|time]] left for question or
 
 surmise--the brig was within fifty feet of us, and it seemed to be her
 
@@ -180,7 +180,7 @@ several females, lay scattered about between the counter and the
 
 galley, in the last and most loathsome state of putrefaction! We
 
-plainly saw that not a soul lived in that fated vessel! Yet we could
+plainly saw that not a [[Soul|soul]] lived in that fated vessel! Yet we could
 
 not help shouting to the dead for help! Yes, long and loudly did we
 
@@ -190,7 +190,7 @@ images would stay for us, would not abandon us to become like them,
 
 would receive us among their goodly company! We were raving with horror
 
-and despair--thoroughly mad through the anguish of our grievous
+and [[Despair|despair]]--thoroughly mad through the anguish of our grievous
 
 disappointment.
 
@@ -224,13 +224,13 @@ a huge seagull, busily gorging itself with the horrible flesh, its bill
 
 and talons deep buried, and its white plumage spattered all over with
 
-blood. As the brig moved further round so as to bring us close in view,
+[[Blood|blood]]. As the brig moved further round so as to bring us close in view,
 
 the bird, with much apparent difficulty, drew out its crimsoned head,
 
 and, after eying us for a moment as if stupified, arose lazily from the
 
-body upon which it had been feasting, and, flying directly above our
+[[Body|body]] upon which it had been feasting, and, flying directly above our
 
 deck, hovered there a while with a portion of clotted and liver-like
 
@@ -238,7 +238,7 @@ substance in its beak. The horrid morsel dropped at length with a
 
 sullen splash immediately at the feet of Parker. May God forgive me,
 
-but now, for the first time, there flashed through my mind a thought, a
+but now, for the first [[Time|time]], there flashed through my mind a thought, a
 
 thought which I will not mention, and I felt myself making a step
 
@@ -252,7 +252,7 @@ shudder, threw the frightful thing into the sea.
 
 
 
-The body from which it had been taken, resting as it did upon the rope,
+The [[Body|body]] from which it had been taken, resting as it did upon the rope,
 
 had been easily swayed to and fro by the exertions of the carnivorous
 
@@ -268,7 +268,7 @@ eyes were gone, and the whole flesh around the mouth, leaving the teeth
 
 utterly naked. This, then, was the smile which had cheered us on to
 
-hope! this the--but I forbear. The brig, as I have already told, passed
+[[Hope|hope]]! this the--but I forbear. The brig, as I have already told, passed
 
 under our stern, and made its way slowly but steadily to leeward. With
 
@@ -278,9 +278,9 @@ and joy. Deliberately as she went by, we might possibly have found
 
 means of boarding her, had not our sudden disappointment, and the
 
-appalling nature of the discovery which accompanied it, laid entirely
+appalling [[Nature|nature]] of the discovery which accompanied it, laid entirely
 
-prostrate every active faculty of mind and body. We had seen and felt,
+prostrate every active faculty of mind and [[Body|body]]. We had seen and felt,
 
 but we could neither think nor act, until, alas, too late. How much our
 
@@ -308,7 +308,7 @@ stern, and, indeed, taken other observations which would have guided us
 
 in making out her character; but the intense excitement of the moment
 
-blinded us to everything of that nature. From the saffron-like hue of
+blinded us to everything of that [[Nature|nature]]. From the saffron-like hue of
 
 such of the corpses as were not entirely decayed, we concluded that the
 
@@ -316,7 +316,7 @@ whole of her company had perished by the yellow fever, or some other
 
 virulent disease of the same fearful kind. If such were the case (and I
 
-know not what else to imagine), death, to judge from the positions of
+know not what else to imagine), [[Death|death]], to judge from the positions of
 
 the bodies, must have come upon them in a manner awfully sudden and
 
@@ -324,7 +324,7 @@ overwhelming, in a way totally distinct from that which generally
 
 characterizes even the most deadly pestilences with which mankind are
 
-acquainted. It is possible, indeed, that poison, accidentally
+acquainted. It is possible, indeed, that [[Poison|poison]], accidentally
 
 introduced into some of their sea-stores, may have brought about the
 
@@ -334,6 +334,6 @@ other marine animal, or oceanic bird, might have induced it--but it is
 
 utterly useless to form conjectures where all is involved, and will, no
 
-doubt, remain for ever involved, in the most appalling and unfathomable
+[[Doubt|doubt]], remain for ever involved, in the most appalling and unfathomable
 
 mystery.

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 2 (part 1)"
+title: "[[Jane Eyre]] — Chapter 2 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -22,7 +22,7 @@ greatly strengthened the bad opinion Bessie and Miss Abbot were
 disposed to entertain of me. The fact is, I was a trifle beside myself;
 or rather _out_ of myself, as the French would say: I was conscious
 that a moment’s mutiny had already rendered me liable to strange
-penalties, and, like any other rebel slave, I felt resolved, in my
+penalties, and, like any other [[Rebel|rebel]] slave, I felt resolved, in my
 desperation, to go all lengths.
 
 “Hold her arms, Miss Abbot: she’s like a mad cat.”
@@ -36,9 +36,9 @@ young master.”
 “No; you are less than a servant, for you do nothing for your keep.
 There, sit down, and think over your wickedness.”
 
-They had got me by this time into the apartment indicated by Mrs. Reed,
+They had got me by this [[Time|time]] into the apartment indicated by Mrs. Reed,
 and had thrust me upon a stool: my impulse was to rise from it like a
-spring; their two pair of hands arrested me instantly.
+[[Spring|spring]]; their two pair of hands arrested me instantly.
 
 “If you don’t sit still, you must be tied down,” said Bessie. “Miss
 Abbot, lend me your garters; she would break mine directly.”
@@ -54,12 +54,12 @@ In guarantee whereof, I attached myself to my seat by my hands.
 “Mind you don’t,” said Bessie; and when she had ascertained that I was
 really subsiding, she loosened her hold of me; then she and Miss Abbot
 stood with folded arms, looking darkly and doubtfully on my face, as
-incredulous of my sanity.
+incredulous of my [[Sanity|sanity]].
 
 “She never did so before,” at last said Bessie, turning to the Abigail.
 
 “But it was always in her,” was the reply. “I’ve told Missis often my
-opinion about the child, and Missis agreed with me. She’s an underhand
+opinion about the [[Child|child]], and Missis agreed with me. She’s an underhand
 little thing: I never saw a girl of her age with so much cover.”
 
 Bessie answered not; but ere long, addressing me, she said—
@@ -70,7 +70,7 @@ to the poorhouse.”
 
 I had nothing to say to these words: they were not new to me: my very
 first recollections of existence included hints of the same kind. This
-reproach of my dependence had become a vague sing-song in my ear: very
+reproach of my dependence had become a vague sing-[[Song|song]] in my ear: very
 painful and crushing, but only half intelligible. Miss Abbot joined in—
 
 “And you ought not to think yourself on an equality with the Misses
@@ -81,7 +81,7 @@ agreeable to them.”
 
 “What we tell you is for your good,” added Bessie, in no harsh voice,
 “you should try to be useful and pleasant, then, perhaps, you would
-have a home here; but if you become passionate and rude, Missis will
+have a [[Home|home]] here; but if you become passionate and rude, Missis will
 send you away, I am sure.”
 
 “Besides,” said Miss Abbot, “God will punish her: He might strike her
@@ -104,19 +104,19 @@ shrouded in festoons and falls of similar drapery; the carpet was red;
 the table at the foot of the bed was covered with a crimson cloth; the
 walls were a soft fawn colour with a blush of pink in it; the wardrobe,
 the toilet-table, the chairs were of darkly polished old mahogany. Out
-of these deep surrounding shades rose high, and glared white, the
+of these deep surrounding shades [[Rose|rose]] high, and glared white, the
 piled-up mattresses and pillows of the bed, spread with a snowy
 Marseilles counterpane. Scarcely less prominent was an ample cushioned
 easy-chair near the head of the bed, also white, with a footstool
 before it; and looking, as I thought, like a pale throne.
 
-This room was chill, because it seldom had a fire; it was silent,
+This room was chill, because it seldom had a [[Fire|fire]]; it was silent,
 because remote from the nursery and kitchen; solemn, because it was
-known to be so seldom entered. The house-maid alone came here on
+known to be so seldom entered. The [[house]]-maid [[Alone|alone]] came here on
 Saturdays, to wipe from the mirrors and the furniture a week’s quiet
-dust: and Mrs. Reed herself, at far intervals, visited it to review the
+[[Dust|dust]]: and Mrs. Reed herself, at far intervals, visited it to review the
 contents of a certain secret drawer in the wardrobe, where were stored
-divers parchments, her jewel-casket, and a miniature of her deceased
+divers parchments, her [[Jewel|jewel]]-casket, and a miniature of her deceased
 husband; and in those last words lies the secret of the red-room—the
 spell which kept it so lonely in spite of its grandeur.
 
@@ -126,17 +126,17 @@ undertaker’s men; and, since that day, a sense of dreary consecration
 had guarded it from frequent intrusion.
 
 My seat, to which Bessie and the bitter Miss Abbot had left me riveted,
-was a low ottoman near the marble chimney-piece; the bed rose before
+was a low ottoman near the marble chimney-piece; the bed [[Rose|rose]] before
 me; to my right hand there was the high, dark wardrobe, with subdued,
 broken reflections varying the gloss of its panels; to my left were the
 muffled windows; a great looking-glass between them repeated the vacant
 majesty of the bed and room. I was not quite sure whether they had
 locked the door; and when I dared move, I got up and went to see. Alas!
-yes: no jail was ever more secure. Returning, I had to cross before the
+yes: no jail was ever more secure. Returning, I had to [[Cross|cross]] before the
 looking-glass; my fascinated glance involuntarily explored the depth it
 revealed. All looked colder and darker in that visionary hollow than in
 reality: and the strange little figure there gazing at me, with a white
-face and arms specking the gloom, and glittering eyes of fear moving
+face and arms specking the gloom, and glittering eyes of [[Fear|fear]] moving
 where all else was still, had the effect of a real spirit: I thought it
 like one of the tiny phantoms, half fairy, half imp, Bessie’s evening
 stories represented as coming out of lone, ferny dells in moors, and

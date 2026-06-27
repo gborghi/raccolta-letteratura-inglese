@@ -30,52 +30,52 @@ the Jongleurs de Dieu.
 
 Nothing has been said here at any length of the great culture
 of the Troubadours as it appeared in Provence or Languedoc, great as
-was their influence in history and their influence on St. Francis.
+was their influence in [[history]] and their influence on St. Francis.
 Something more May be said of them when we come to summarise his
-relation to history; it is enough to note here in a few sentences
+relation to [[history]]; it is enough to note here in a few sentences
 the facts about them that were relevant to him, and especially the
 particular point now in question, which was the most relevant of all.
 Everybody knows who the Troubadours were; everybody knows that very early
 in the Middle Ages, in the twelfth and early thirteenth centuries,
 there arose a civilisation in Southern France which threatened
-to rival or eclipse the rising tradition of Paris.  Its chief product
+to rival or eclipse the rising tradition of [[Paris]].  Its chief product
 was a school of poetry, or rather more especially a school of poets.
-They were primarily love-poets, though they were often also satirists
-and critics of things in general.  Their picturesque posture in history
-is largely due to the fact that they sang their own poems and often
+They were primarily [[Love|love]]-poets, though they were often also satirists
+and critics of things in general.  Their picturesque posture in [[history]]
+is largely due to the fact that they sang their own [[Poems|poems]] and often
 played their own accompaniments, on the light musical instruments
-of the period; they were minstrels as well as men of letters.
-Allied to their love-poetry were other institutions of a
+of the period; they were minstrels as [[Well|well]] as men of letters.
+Allied to their [[Love|love]]-poetry were other institutions of a
 decorative and fanciful kind concerned with the same theme.
 There was what was called the "Gay Science," the attempt to reduce
 to a sort of system the fine shades of flirtation and philandering.
-There were the things called Courts of Love, in which the same
+There were the things called Courts of [[Love]], in which the same
 delicate subjects were dealt with legal pomp and pedantry.
 There is one point in this part of the business that must be remembered
 in relation to St. Francis.  There were manifest moral dangers in all
 this superb sentimentalism; but it is a mistake to suppose that its
 only danger of exaggeration was in the direction of sensualism.
-There was a strain in the southern romance that was actually an excess
+There was a strain in the southern [[Romance|romance]] that was actually an excess
 of spirituality; just as the pessimist heresy it produced was in one
-sense an excess of spirituality.  The love was not always animal;
+sense an excess of spirituality.  The [[Love|love]] was not always animal;
 sometimes it was so airy as to be almost allegorical.  The reader realises
 that the lady is the most beautiful being that can possibly exist,
 only he has occasional doubts as to whether she does exist.
-Dante owed something to the Troubadours; and the critical debates
+[[Dante]] owed something to the Troubadours; and the critical debates
 about his ideal woman are an excellent example of these doubts.
-We know that Beatrice was not his wife, but we should in any
+We know that [[Beatrice]] was not his wife, but we should in any
 case be equally sure she was not his mistress; and some critics
 have even suggested that she was nothing at all, so to speak,
-except his muse.  This idea of Beatrice as an allegorical figure is,
+except his muse.  This idea of [[Beatrice]] as an allegorical figure is,
 I believe, unsound; it would seem unsound to any man who has read
-the Vit Nuova and has been in love.  But the very fact that it is
+the Vit Nuova and has been in [[Love|love]].  But the very fact that it is
 possible to suggest it illustrates something abstract and scholastic
 in these medieval passions.  But though they were abstract
 passions they were very passionate passions.  These men could
-feel almost like lovers, even about allegories and abstractions.
+feel almost like [[lovers]], even about allegories and abstractions.
 It is necessary to realise that St. Francis was talking the true
 language of a troubadour when he said that he also had a most glorious
-and gracious lady and that her name was poverty.
+and gracious lady and that her name was [[Poverty|poverty]].
 
 But the particular point to be noted here is not concerned
 so much with the word Troubadour as with the word Jongleur.
@@ -83,65 +83,65 @@ It is especially concerned with the transition from one to the other;
 and for this it is necessary to grasp another detail about the poets
 of the Gay Science.  A jongleur was not the same thing as a troubadour,
 even if the same man were both a troubadour and a jongleur.
-More often, I believe, they were separate men as well as separate trades.
+More often, I believe, they were separate men as [[Well|well]] as separate trades.
 In many cases, apparently the two men would walk the world
 together like companions in arms, or rather companions in arts.
 The jongleur was properly a joculator or jester; sometimes he was
 what we should call a juggler.  This is the point, I imagine,
-of the tale about Taillifer the Jongleur at the Battle of Hastings,
-who sang the death of Roland while he tossed up his sword and caught it,
+of the tale about Taillifer the Jongleur at the Battle of [[Hastings]],
+who sang the [[Death|death]] of Roland while he tossed up his [[Sword|sword]] and caught it,
 as a juggler catches balls.  Sometimes he may been even a tumbler;
 like that acrobat in the beautiful legend who was called "The Tumbler
 of Our Lady," because he turned head over heels and stood on his
 head before the image of the Blessed Virgin, for which he was nobly
 thanked and comforted by her and the whole company of heaven.
 In the ordinary way, we may imagine, the troubadour would exalt
-the company with earnest and solemn strains of love and then
+the company with earnest and solemn strains of [[Love|love]] and then
 the jongleur would do his turn as a sort as a sort of comic relief.
-A glorious medieval romance remains to be written about two such
+A glorious [[Medieval Romance|medieval romance]] remains to be written about two such
 companions wandering through the world.  At any rate, if there is one
 place in which the Franciscan spirit can be found outside the true
 Franciscan story, it is in the tale of the Tumbler of our Lady.
 And when St. Francis called his followers the Jongleurs de Dieu,
 he meant something very like the Tumblers of our Lady.
 
-Somewhere in that transition from the ambition of the Troubadour
-to the antics of the Tumbler is hidden, as under a parable,
-the truth of St. Francis.  Of the two minstrels or entertainers,
+Somewhere in that transition from the [[Ambition|ambition]] of the Troubadour
+to the antics of the Tumbler is hidden, as under a [[Parable|parable]],
+the [[Truth|truth]] of St. Francis.  Of the two minstrels or entertainers,
 the jester was presumably the servant or at least the secondary figure.
 St. Francis really meant what he said when he said he had found
 the secret of life in being the servant and the secondary figure.
-There was to be found ultimately in such service a freedom almost
+There was to be found ultimately in such service a [[Freedom|freedom]] almost
 amounting to frivolity.  It was comparable to the condition
 of the jongleur because it almost amounted to frivolity.
 The jester could be free when the knight was rigid; and it was
-possible to be a jester in the service which is perfect freedom.
+possible to be a jester in the service which is perfect [[Freedom|freedom]].
 This parallel of the two poets or minstrels is perhaps the best
 preliminary and external statement of the Franciscan change of heart,
-being conceived under an image with which the imagination of
+being conceived under an image with which the [[Imagination|imagination]] of
 the modern world has a certain sympathy.  There was, of course,
 a great deal more than this involved; and we must endeavour
 however insufficiently to penetrate past the image to the idea.
 It is so far like the tumblers that it is really to many people
 a topsy-turvy idea.
 
-Francis, at the time or somewhere about the time when he disappeared
-into the prison or the dark cavern, underwent a reversal of a
+Francis, at the [[Time|time]] or somewhere about the [[Time|time]] when he disappeared
+into the [[Prison|prison]] or the dark cavern, underwent a reversal of a
 certain psychological kind; which was really like the reversal
 of a complete somersault, in that by coming full circle it
 came back, or apparently came back, to the same normal posture.
-It is necessary to use the grotesque simile of an acrobatic antic,
+It is necessary to use the [[Grotesque|grotesque]] simile of an acrobatic antic,
 because there is hardly any other figure that will make the fact clear.
 But in the inward sense it was a profound spiritual revolution.
-The man who went into the cave was not the man who came out again;
+The man who went into the [[Cave|cave]] was not the man who came out again;
 in that sense he was almost as different as if he were dead,
-as if he were a ghost or a blessed spirit.  And the effects of this
+as if he were a [[Ghost|ghost]] or a blessed spirit.  And the effects of this
 on his attitude towards the actual world were really as extravagant
 as any parallel can make them.  He looked at the world as differently
 from other men as if he had come out of that dark hole walking
 on his hands.
 
-If we apply this parable of Our Lady's Tumbler to the case,
+If we apply this [[Parable|parable]] of Our Lady's Tumbler to the case,
 we shall come very near to the point of it.  Now it really is a fact
 that any scene such as a landscape can sometimes be more clearly
 and freshly seen if it is seen upside down.  There have been
@@ -150,19 +150,19 @@ postures in order to look at it for a moment in that fashion.
 Thus that inverted vision, so much more bright and quaint and arresting,
 does bear a certain resemblance to the world which a mystic
 like St. Francis sees every day.  But herein is the essential part
-of the parable.  Our Lady's Tumbler did not stand on his head
-in order to see flowers and trees as a clearer or quainter vision.
+of the [[Parable|parable]].  Our Lady's Tumbler did not stand on his head
+in order to see [[Flowers|flowers]] and trees as a clearer or quainter vision.
 He did not do so; and it would never have occurred to him to do so.
 Our Lady's Tumbler stood on his head to please Our Lady.
 If St. Francis had done the same thing, as he was quite capable
 of doing, it would originally have been from the same motive;
-a motive of a purely supernatural thought.  It would be after this
+a motive of a purely [[Supernatural|supernatural]] thought.  It would be after this
 that his enthusiasm would extend itself and give a sort of halo
 to the edges of all earthly things.  This is why it is not true
 to represent St. Francis as a mere romantic forerunner of the
-Renaissance and a revival of natural pleasures for their own sake.
+[[Renaissance]] and a revival of natural pleasures for their own sake.
 The whole point of him was that the secret of recovering the natural
-pleasures lay in regarding them in the light of a supernatural pleasure.
+pleasures lay in regarding them in the light of a [[Supernatural|supernatural]] pleasure.
 In other words, he repeated in his own person that historic
 process noted in the introductory chapter; the vigil of asceticism
 which ends in the vision of a natural world made new.
@@ -170,13 +170,13 @@ But in the personal case there was even more than this; there were
 elements that make the parallel of the Jongleur or Tumbler even
 more appropriate than this.
 
-It may be suspected that in that black cell or cave Francis passed
-the blackest hours of his life.  By nature he was the sort of man
-who has that vanity which is the opposite of pride; that vanity
-which is very near to humility.  He never despised his fellow creatures
+It may be suspected that in that black cell or [[Cave|cave]] Francis passed
+the blackest hours of his life.  By [[Nature|nature]] he was the sort of man
+who has that [[Vanity|vanity]] which is the opposite of [[Pride|pride]]; that [[Vanity|vanity]]
+which is very near to [[Humility|humility]].  He never despised his fellow creatures
 and therefore he never despised the opinion of his fellow creatures;
 including the admiration of his fellow creatures.  All that part
-of his human nature had suffered the heaviest and most crushing blows.
+of his human [[Nature|nature]] had suffered the heaviest and most crushing blows.
 It is possible that after his humiliating return from his frustrated
 military campaign he was called a coward.  It is certain that after his
 quarrel with his father about the bales of cloth he was called a thief.
@@ -184,19 +184,19 @@ And even those who had sympathised most with him, the priest whose
 church he had restored, the bishop whose blessing he had received,
 had evidently treated him with an almost humorous amiability
 which left only too clear the ultimate conclusion of the matter.
-He had made a fool of himself.  Any man who has been young, who has
+He had made a [[Fool|fool]] of himself.  Any man who has been young, who has
 ridden horses or thought himself ready for a fight, who has fancied
-himself as a troubadour and accepted the conventions of comradeship,
+himself as a troubadour and accepted the conventions of [[Comradeship|comradeship]],
 will appreciate the ponderous and crushing weight of that simple phrase.
-The conversion of St. Francis, like the conversion of St. Paul,
-involved his being in some sense flung suddenly from a horse;
-but in a sense it was an even worse fall; for it was a war-horse. Anyhow,
+The [[conversion]] of St. Francis, like the [[conversion]] of St. Paul,
+involved his being in some sense flung suddenly from a [[Horse|horse]];
+but in a sense it was an even worse fall; for it was a war-[[Horse|horse]]. Anyhow,
 there was not a rag of him left that was not ridiculous.
-Everybody knew that at the best he had made a fool of himself.
-It was a solid objective fact, like the stones in the road,
-that he had made a fool of himself.  He saw himself as an object,
-very small and distinct like a fly walking on a clear window pane;
-and it was unmistakably a fool.  And as he stared at the word "fool"
+Everybody knew that at the best he had made a [[Fool|fool]] of himself.
+It was a solid objective fact, like the stones in the [[Road|road]],
+that he had made a [[Fool|fool]] of himself.  He saw himself as an object,
+very small and distinct like a fly walking on a clear [[Window|window]] pane;
+and it was unmistakably a [[Fool|fool]].  And as he stared at the word "[[Fool|fool]]"
 written in luminous letters before him, the word itself began
 to shine and change.
 
@@ -207,13 +207,13 @@ climbing up and up.  I do not know whether this is true.  The reason I
 do not know whether it is true is that I never happened to bore a hole
 through the centre of the earth, still less to crawl through it.
 If I do not know what this reversal or inversion feels like,
-it is because I have never been there.  And this also is an allegory.
+it is because I have never been there.  And this also is an [[Allegory|allegory]].
 It is certain that the writer, it is even possible that the reader,
 is an ordinary person who has never been there.  We cannot follow
 St. Francis to that final spiritual overturn in which complete humiliation
 becomes complete holiness or happiness, because we have never been there.
 I for one do not profess to follow it any further than that first
-breaking down of the romantic barricades of boyish vanity, which I
+breaking down of the romantic barricades of boyish [[Vanity|vanity]], which I
 have suggested in the last paragraph.  And even that paragraph,
 of course, is merely conjectural, an individual guess at what
 he may have felt; but he may have felt something quite different.
@@ -222,25 +222,25 @@ making a tunnel through the earth that it did mean a man going down
 and down until at some mysterious moment he begins to go up and up.
 We have never gone up like that because we have never gone down like that;
 we are obviously incapable of saying that it does not happen;
-and the more candidly and calmly we read human history,
-and especially the history of the wisest men, the more we shall come
+and the more candidly and calmly we read human [[history]],
+and especially the [[history]] of the wisest men, the more we shall come
 to the conclusion that it does happen.  Of the intrinsic internal
 essence of the experience, I make no pretence of writing at all.
 But the external effect of it, for the purpose of this narrative,
 may be expressed by saying that when Francis came forth from his
-cave of vision, he was wearing the same word "fool" as a feather
-in his cap; as a crest or even a crown.  He would go on being a fool;
-he would become more and more of a fool; he would be the court fool
-of the King of Paradise.
+[[Cave|cave]] of vision, he was wearing the same word "[[Fool|fool]]" as a feather
+in his cap; as a crest or even a [[Crown|crown]].  He would go on being a [[Fool|fool]];
+he would become more and more of a [[Fool|fool]]; he would be the [[Court|court]] [[Fool|fool]]
+of the [[King]] of Paradise.
 
 This state can only be represented in symbol; but the symbol of
-inversion is true in another way.  If a man saw the world upside down,
+inversion is true in another way.  If a man saw the [[World Upside Down|world upside down]],
 with all the trees and towers hanging head downwards as in a pool,
 one effect would be to emphasise the idea of dependence.
 There is a Latin and literal connection; for the very word dependence
 only means hanging.  It would make vivid the Scriptural text which says
 that God has hung the world upon nothing.  If St. Francis had seen,
-in one of his strange dreams, the town of Assisi upside down,
+in one of his strange [[Dreams|dreams]], the town of Assisi upside down,
 it need not have differed in a single detail from itself except
 in being entirely the other way round.  But the point is this:
 that whereas to the normal eye the large masonry of its walls or
@@ -248,15 +248,15 @@ the massive foundations of its watchtowers and its high citadel would
 make it seem safer and more permanent, the moment it was turned over
 the very same weight would make it seem more helpless and more in peril.
 It is but a symbol; but it happens to fit the psychological fact.
-St. Francis might love his little town as much as before, or more
-than before; but the nature of the love would be altered even
-in being increased.  He might see and love every tile on the steep
+St. Francis might [[Love|love]] his little town as much as before, or more
+than before; but the [[Nature|nature]] of the [[Love|love]] would be altered even
+in being increased.  He might see and [[Love|love]] every tile on the steep
 roofs or every bird on the battlements; but he would see them
 all in a new and divine light of eternal danger and dependence.
-Instead of being merely proud of his strong city because it could
+Instead of being merely proud of his strong [[City|city]] because it could
 not be moved, he would be thankful to God Almighty that it had not
 been dropped; he would be thankful to God for not dropping the whole
-cosmos like a vast crystal to be shattered into falling stars.
+cosmos like a vast crystal to be shattered into falling [[Stars|stars]].
 Perhaps St. Peter saw the world so, when he was crucified head-downwards.
 
 It is commonly in a somewhat cynical sense that men have said,
@@ -275,48 +275,48 @@ the gifts of God.  It is also true that he sees more of the things
 themselves when he sees more of their origin; for their origin
 is a part of them and indeed the most important part of them.
 Thus they become more extraordinary by being explained.
-He has more wonder at them but less fear of them; for a thing is really
+He has more [[Wonder|wonder]] at them but less [[Fear|fear]] of them; for a thing is really
 wonderful when it is significant and not when it is insignificant;
-and a monster, shapeless or dumb or merely destructive, may be larger
-than the mountains, but is still in a literal sense insignificant.
+and a [[Monster|monster]], shapeless or dumb or merely destructive, may be larger
+than the [[Mountains|mountains]], but is still in a literal sense insignificant.
 For a mystic like St. Francis the monsters had a meaning; that is, they
 had delivered their message.  They spoke no longer in an unknown tongue.
 That is the meaning of all those stories whether legendary or historical,
 in which he appears as a magician speaking the language of beasts
-and birds.  The mystic will have nothing to do with mere mystery;
+and [[Birds|birds]].  The mystic will have nothing to do with mere mystery;
 mere mystery is generally a mystery of iniquity.
 
 The transition from the good man to the saint is a sort of revolution;
 by which one for whom all things illustrate and illuminate God
 becomes one for whom God illustrates and illuminates all things.
-It is rather like the reversal whereby a lover might say at first sight
-that a lady looked like a flower, and say afterwards that all flowers
+It is rather like the reversal whereby a [[Lover|lover]] might say at first sight
+that a lady looked like a flower, and say afterwards that all [[Flowers|flowers]]
 reminded him of his lady.  A saint and a poet standing by the same
 flower might seem to say the same thing; but indeed though they would
-both be telling the truth, they would be telling different truths.
-For one the joy of life is a cause of faith, for the other rather
-a result of faith.  But one effect of the difference is that
-the sense of a divine dependence, which for the artist is like
+both be telling the [[Truth|truth]], they would be telling different truths.
+For one the joy of life is a cause of [[Faith|faith]], for the other rather
+a result of [[Faith|faith]].  But one effect of the difference is that
+the sense of a divine dependence, which for the [[Artist|artist]] is like
 the brilliant levin-blaze, for the saint is like the broad daylight.
 Being in some mystical sense on the other side of things,
 he sees things go forth from the divine as children going forth
-from a familiar and accepted home, instead of meeting them
+from a familiar and accepted [[Home|home]], instead of meeting them
 as they come out, as most of us do, upon the roads of the world.
-And it is the paradox that by this privilege he is more familiar,
+And it is the [[Paradox|paradox]] that by this privilege he is more familiar,
 more free and fraternal, more carelessly hospitable than we.
 For us the elements are like heralds who tell us with trumpet and tabard
-that we are drawing near the city of a great king; but he hails
+that we are drawing near the [[City|city]] of a great [[King|king]]; but he hails
 them with an old familiarity that is almost an old frivolity.
-He calls them his Brother Fire and his Sister Water.
+He calls them his Brother [[Fire]] and his Sister [[Water]].
 
 So arises out of this almost nihilistic abyss the noble thing
 that is called Praise; which no one will ever understand while
-he identifies it with nature-worship or pantheistic optimism.
+he identifies it with [[Nature|nature]]-worship or pantheistic optimism.
 When we say that a poet praises the whole creation, we commonly
 mean only that he praises the whole cosmos.  But this sort of poet
 does really praise creation, in the sense of the act of creation.
 He praises the passage or transition from nonentity to entity;
-there falls here also the shadow of that archetypal image of the bridge,
+there falls here also the [[Shadow|shadow]] of that archetypal image of the bridge,
 which has given to the priest his archaic and mysterious name.
 The mystic who passes through the moment when there is nothing
 but God does in some sense behold the beginningless beginnings
@@ -324,30 +324,30 @@ in which there was really nothing else.  He not only appreciates
 everything but the nothing of which everything was made.  In a fashion
 he endures and answers even the earthquake irony of the Book of Job;
 in some sense he is there when the foundations of the world are laid,
-with the morning stars singing together and the sons of God shouting
+with the morning [[Stars|stars]] singing together and the sons of God shouting
 for joy.  That is but a distant adumbration of the reason why
 the Franciscan, ragged, penniless, homeless and apparently hopeless,
-did indeed come forth singing such songs as might come from the stars
+did indeed come forth singing such [[songs]] as might come from the [[Stars|stars]]
 of morning; and shouting, a son of God.
 
-This sense of the great gratitude and the sublime dependence was
+This sense of the great gratitude and the [[Sublime|sublime]] dependence was
 not a phrase or even a sentiment; it is the whole point that this
 was the very rock of reality.  It was not a fancy but a fact;
 rather it is true that beside it all facts are fancies.
 That we all depend in every detail, at every instant, as a Christian
 would say upon God, as even an agnostic would say upon existence
-and the nature of things, is not an illusion of imagination;
+and the [[Nature|nature]] of things, is not an illusion of [[Imagination|imagination]];
 on the contrary, it is the fundamental fact which we cover up,
 as with curtains, with the illusion of ordinary life.
-That ordinary life is an admirable thing in itself, just as imagination
+That ordinary life is an admirable thing in itself, just as [[Imagination|imagination]]
 is an admirable thing in itself.  But it is much more the ordinary
-life that is made of imagination than the contemplative life.
-He who has seen the whole world hanging on a hair of the mercy
-of God has seen the truth; we might almost say the cold truth.
-He who has seen the vision of his city upside-down has seen it
+life that is made of [[Imagination|imagination]] than the contemplative life.
+He who has seen the whole world hanging on a hair of the [[Mercy|mercy]]
+of God has seen the [[Truth|truth]]; we might almost say the cold [[Truth|truth]].
+He who has seen the vision of his [[City|city]] upside-down has seen it
 the right way up.
 
-Rossetti makes the remark somewhere, bitterly but with great truth,
+Rossetti makes the remark somewhere, bitterly but with great [[Truth|truth]],
 that the worst moment for the atheist is when he is really thankful
 and has nobody to thank.  The converse of this proposition is also true;
 and it is certain that this gratitude produced, in such men as we
@@ -360,10 +360,10 @@ a very healthy external relation to everything else.
 But it must always be remembered that everything else has for ever
 fallen into a second place, in comparison with this simple fact
 of dependence on the divine reality.  In so far as ordinary social
-relations have in them something that seems solid and self-supporting,
+relations have in them something that seems solid and [[Self|self]]-supporting,
 some sense of being at once buttressed and cushioned; in so far as they
-establish sanity in the sense of security and security in the sense
-of self-sufficiency, the man who has seen the world hanging on a hair
+establish [[Sanity|sanity]] in the sense of security and security in the sense
+of [[Self-Sufficiency|self-sufficiency]], the man who has seen the world hanging on a hair
 does have some difficulty in taking them so seriously as that.
 In so far as even the secular authorities and hierarchies, even the
 most natural superiorities and the most necessary subordinations,
@@ -374,27 +374,27 @@ In this sense the direct vision of divine reality does disturb solemnities
 that are sane enough in themselves.  The mystic may have added a cubit
 to his stature; but he generally loses something of his status.
 He can no longer take himself for granted, merely because he can
-verify his own existence in a parish register or a family Bible.
+verify his own existence in a parish register or a family [[Bible]].
 Such a man may have something of the appearance of the lunatic
-who has lost his name while preserving his nature; who straightway
+who has lost his name while preserving his [[Nature|nature]]; who straightway
 forgets what manner of man he was.  "Hitherto I have called
 Pietro Bernardone father; but now I am the servant of God."
 
 All these profound matters must be suggested in short and
 imperfect phrases; and the shortest statement of one aspect of this
 illumination is to say that it is the discovery of an infinite debt.
-It may seem a paradox to say that a man may be transported with joy
+It may seem a [[Paradox|paradox]] to say that a man may be transported with joy
 to discover that he is in debt.  But this is only because in
 commercial cases the creditor does not generally share the transports
 of joy; especially when the debt is by hypothesis infinite and
 therefore unrecoverable.  But here again the parallel of a natural
-love-story of the nobler sort disposes of the difficulty in a flash.
+[[Love|love]]-story of the nobler sort disposes of the difficulty in a flash.
 There the infinite creditor does share the joy of the infinite debtor;
 for indeed they are both debtors and both creditors.  In other
 words debt and dependence do become pleasures in the presence of
-unspoilt love; the word is used too loosely and luxuriously in popular
+unspoilt [[Love|love]]; the word is used too loosely and luxuriously in popular
 simplifications like the present; but here the word is really the key.
-It is the key of all the problems of Franciscan morality which puzzle
+It is the key of all the problems of Franciscan [[morality]] which puzzle
 the merely modern mind; but above all it is the key of asceticism.
 It is the highest and holiest of the paradoxes that the man who
 really knows he cannot pay his debt will be for ever paying it.
@@ -405,24 +405,24 @@ too modern to understand this are in fact too mean to understand it;
 we are most of us too mean to practise it.  We are not generous enough
 to be ascetics; one might almost say not genial enough to be ascetics.
 A man must have magnanimity of surrender, of which he commonly only
-catches a glimpse in first love, like a glimpse of our lost Eden.
-But whether he sees it or not, the truth is in that riddle;
+catches a glimpse in first [[Love|love]], like a glimpse of our lost Eden.
+But whether he sees it or not, the [[Truth|truth]] is in that [[Riddle|riddle]];
 that the whole world has, or is, only one good thing; and it is
 a bad debt.
 
-If ever that rarer sort of romantic love, which was the truth
+If ever that rarer sort of [[Romantic Love|romantic love]], which was the [[Truth|truth]]
 that sustained the Troubadours, falls out of fashion and is treated
 as fiction, we may see some such misunderstanding as that of
 the modern world about asceticism.  For it seems conceivable
-that some barbarians might try to destroy chivalry in love,
+that some barbarians might try to destroy chivalry in [[Love|love]],
 as the barbarians ruling in Berlin destroyed chivalry in war.
 If that were ever so, we should have the same sort of unintelligent
 sneers and unimaginative questions.  Men will ask what selfish
 sort of woman it must have been who ruthlessly exacted tribute
-in the form of flowers, or what an avaricious creature she can have
+in the form of [[Flowers|flowers]], or what an avaricious creature she can have
 been to demand solid gold in the form of a ring; just as they ask
-what cruel kind of God can have demanded sacrifice and self-denial.
-They will have lost the clue to all that lovers have meant by love;
+what cruel kind of God can have demanded sacrifice and [[Self|self]]-denial.
+They will have lost the clue to all that [[lovers]] have meant by [[Love|love]];
 and will not understand that it was because the thing was not
 demanded that it was done.  But whether or no any such lesser
 things will throw a light on the greater, it is utterly useless
@@ -431,24 +431,24 @@ in the modern mood that murmurs against gloomy asceticism.
 The whole point about St. Francis of Assisi is that he certainly
 was ascetical and he certainly was not gloomy.  As soon as ever
 he had been unhorsed by the glorious humiliation of his vision
-of dependence on the divine love, he flung himself into fasting
+of dependence on the [[Divine Love|divine love]], he flung himself into fasting
 and vigil exactly as he had flung himself furiously into battle.
 He had wheeled his charger clean round, but there was no halt or check
 in the thundering impetuosity of his charge.  There was nothing negative
 about it; it was not a regimen or a stoical simplicity of life.
-It was not self-denial merely in the sense of self-control. It was
+It was not [[Self|self]]-denial merely in the sense of [[Self|self]]-control. It was
 as positive as a passion; it had all the air of being as positive
 as a pleasure.  He devoured fasting as a man devours food.
-He plunged after poverty as men have dug madly for gold.  And it
+He plunged after [[Poverty|poverty]] as men have dug madly for gold.  And it
 is precisely the positive and passionate quality of this part of his
 personality that is a challenge to the modern mind in the whole problem
 of the pursuit of pleasure.  There undeniably is the historical fact;
 and there attached to it is another moral fact almost as undeniable.
 It is certain that he held on this heroic or unnatural course from
-the moment when he went forth in his hair-shirt into the winter woods
-to the moment when he desired even in his death agony to lie bare
+the moment when he went forth in his hair-shirt into the [[Winter|winter]] woods
+to the moment when he desired even in his [[Death|death]] agony to lie bare
 upon the bare ground, to prove that he had and that he was nothing.
-And we can say, with almost as deep a certainty, that the stars
+And we can say, with almost as deep a certainty, that the [[Stars|stars]]
 which passed above that gaunt and wasted corpse stark upon the rocky
 floor had for once, in all their shining cycles round the world
 of labouring humanity, looked down upon a happy man.

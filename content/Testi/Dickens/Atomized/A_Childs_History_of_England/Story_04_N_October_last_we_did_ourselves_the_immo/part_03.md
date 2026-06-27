@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — N October last, we did ourselves the immortal credit of recording, at an (part 3)"
+title: "A [[Child]]'s [[history|History]] of England — N October last, we did ourselves the immortal credit of recording, at an (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -16,12 +16,12 @@ tags:
 
                                                          ‘_Half-past ten_.
 
-‘WE are still in smooth water; that is to say, in as smooth water as a
+‘WE are still in smooth [[Water|water]]; that is to say, in as smooth [[Water|water]] as a
 steam-vessel ever can be, for, as Professor Woodensconce (who has just
 woke up) learnedly remarks, another great point of ingenuity about a
-steamer is, that it always carries a little storm with it.  You can
-scarcely conceive how exciting the jerking pulsation of the ship becomes.
-It is a matter of positive difficulty to get to sleep.’
+steamer is, that it always carries a little [[Storm|storm]] with it.  You can
+scarcely conceive how exciting the jerking pulsation of the [[Ship|ship]] becomes.
+It is a matter of positive difficulty to get to [[Sleep|sleep]].’
 
                                        ‘_Friday afternoon_, _six o’clock_.
 
@@ -31,10 +31,10 @@ notwithstanding.  How affecting is this extreme devotion to science and
 pursuit of knowledge under the most trying circumstances!
 
 ‘We were extremely happy this morning, and the breakfast was one of the
-most animated description.  Nothing unpleasant occurred until noon, with
+most animated description.  Nothing unpleasant occurred until [[Noon|noon]], with
 the exception of Doctor Foxey’s brown silk umbrella and white hat
 becoming entangled in the machinery while he was explaining to a knot of
-ladies the construction of the steam-engine.  I fear the gravy soup for
+ladies the construction of the steam-engine.  I [[Fear|fear]] the gravy soup for
 lunch was injudicious.  We lost a great many passengers almost
 immediately afterwards.’
 
@@ -50,10 +50,10 @@ Professor Woodensconce’s bag, that unfortunate gentleman being quite
 unable to leave the deck, and imploring constantly to be thrown
 overboard.  From this man I understand that Professor Nogo, though in a
 state of utter exhaustion, clings feebly to the hard biscuit and cold
-brandy and water, under the impression that they will yet restore him.
+brandy and [[Water|water]], under the impression that they will yet restore him.
 Such is the triumph of mind over matter.
 
-‘Professor Grime is in bed, to all appearance quite well; but he _will_
+‘Professor Grime is in bed, to all appearance quite [[Well|well]]; but he _will_
 eat, and it is disagreeable to see him.  Has this gentleman no sympathy
 with the sufferings of his fellow-creatures?  If he has, on what
 principle can he call for mutton-chops—and smile?’
@@ -69,15 +69,15 @@ overwhelming.
 
 ‘Notwithstanding the throng of people here, I have been fortunate enough
 to meet with very comfortable accommodation on very reasonable terms,
-having secured a sofa in the first-floor passage at one guinea per night,
+having secured a sofa in the first-floor passage at one guinea per [[Night|night]],
 which includes permission to take my meals in the bar, on condition that
 I walk about the streets at all other times, to make room for other
 gentlemen similarly situated.  I have been over the outhouses intended to
 be devoted to the reception of the various sections, both here and at the
 Boot-jack and Countenance, and am much delighted with the arrangements.
-Nothing can exceed the fresh appearance of the saw-dust with which the
+Nothing can exceed the fresh appearance of the saw-[[Dust|dust]] with which the
 floors are sprinkled.  The forms are of unplaned deal, and the general
-effect, as you can well imagine, is extremely beautiful.’
+effect, as you can [[Well|well]] imagine, is extremely beautiful.’
 
                                                         ‘_Half-past nine_.
 
@@ -87,7 +87,7 @@ inside and out with distinguished characters, comprising Mr.
 Muddlebranes, Mr. Drawley, Professor Muff, Mr. X. Misty, Mr. X. X. Misty,
 Mr. Purblind, Professor Rummun, The Honourable and Reverend Mr. Long
 Eers, Professor John Ketch, Sir William Joltered, Doctor Buffer, Mr.
-Smith (of London), Mr. Brown (of Edinburgh), Sir Hookham Snivey, and
+[[smith|Smith]] (of [[London]]), Mr. Brown (of Edinburgh), Sir Hookham Snivey, and
 Professor Pumpkinskull.  The ten last-named gentlemen were wet through,
 and looked extremely intelligent.’
 
@@ -104,11 +104,11 @@ this place, and Professor Pumpkinskull, who, as your readers are
 doubtless aware, is an influential member of the council.  I forbear to
 communicate any of the rumours to which this very extraordinary
 proceeding has given rise until I have seen Sowster, and endeavoured to
-ascertain the truth from him.’
+ascertain the [[Truth|truth]] from him.’
 
                                                          ‘_Half-past six_.
 
-‘I ENGAGED a donkey-chaise shortly after writing the above, and proceeded
+‘I ENGAGED a [[donkey]]-chaise shortly after writing the above, and proceeded
 at a brisk trot in the direction of Sowster’s residence, passing through
 a beautiful expanse of country, with red brick buildings on either side,
 and stopping in the marketplace to observe the spot where Mr. Kwakley’s
@@ -121,7 +121,7 @@ yards further, I had the good fortune to meet Sowster himself advancing
 towards me.
 
 ‘Sowster is a fat man, with a more enlarged development of that peculiar
-conformation of countenance which is vulgarly termed a double chin than I
+conformation of countenance which is vulgarly termed a [[Double|double]] chin than I
 remember to have ever seen before.  He has also a very red nose, which he
 attributes to a habit of early rising—so red, indeed, that but for this
 explanation I should have supposed it to proceed from occasional

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 17"
+title: "The Mystery of [[Edwin Drood]] — Chapter 17"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -19,7 +19,7 @@ PHILANTHROPY, PROFESSIONAL AND UNPROFESSIONAL
 
 
 Full half a year had come and gone, and Mr. Crisparkle sat in a
-waiting-room in the London chief offices of the Haven of Philanthropy,
+waiting-room in the [[London]] chief offices of the Haven of Philanthropy,
 until he could have audience of Mr. Honeythunder.
 
 In his college days of athletic exercises, Mr. Crisparkle had known
@@ -32,7 +32,7 @@ attend, a propensity to “pitch into” your fellow-creatures, the
 Philanthropists were remarkably favoured. There were several Professors
 passing in and out, with exactly the aggressive air upon them of being
 ready for a turn-up with any Novice who might happen to be on hand,
-that Mr. Crisparkle well remembered in the circles of the Fancy.
+that Mr. Crisparkle [[Well|well]] remembered in the circles of the Fancy.
 Preparations were in progress for a moral little Mill somewhere on the
 rural circuit, and other Professors were backing this or that
 Heavy-Weight as good for such or such speech-making hits, so very much
@@ -42,7 +42,7 @@ displays much celebrated for his platform tactics, Mr. Crisparkle
 recognised (in a suit of black) the counterpart of a deceased
 benefactor of his species, an eminent public character, once known to
 fame as Frosty-faced Fogo, who in days of yore superintended the
-formation of the magic circle with the ropes and stakes. There were
+formation of the [[Magic|magic]] circle with the ropes and stakes. There were
 only three conditions of resemblance wanting between these Professors
 and those. Firstly, the Philanthropists were in very bad training: much
 too fleshy, and presenting, both in face and figure, a superabundance
@@ -52,12 +52,12 @@ worse language. Thirdly, their fighting code stood in great need of
 revision, as empowering them not only to bore their man to the ropes,
 but to bore him to the confines of distraction; also to hit him when he
 was down, hit him anywhere and anyhow, kick him, stamp upon him, gouge
-him, and maul him behind his back without mercy. In these last
+him, and maul him behind his back without [[Mercy|mercy]]. In these last
 particulars the Professors of the Noble Art were much nobler than the
 Professors of Philanthropy.
 
 Mr. Crisparkle was so completely lost in musing on these similarities
-and dissimilarities, at the same time watching the crowd which came and
+and dissimilarities, at the same [[Time|time]] watching the crowd which came and
 went by, always, as it seemed, on errands of antagonistically snatching
 something from somebody, and never giving anything to anybody, that his
 name was called before he heard it. On his at length responding, he was
@@ -79,7 +79,7 @@ Philanthropist (highly disinterested, if in earnest) gathered these
 into a basket and walked off with them.
 
 “Now, Mr. Crisparkle,” said Mr. Honeythunder, turning his chair half
-round towards him when they were alone, and squaring his arms with his
+round towards him when they were [[Alone|alone]], and squaring his arms with his
 hands on his knees, and his brows knitted, as if he added, I am going
 to make short work of _you_: “Now, Mr. Crisparkle, we entertain
 different views, you and I, sir, of the sanctity of human life.”
@@ -132,7 +132,7 @@ your explanation.”
 “Murder!” proceeded Mr. Honeythunder, in a kind of boisterous reverie,
 with his platform folding of his arms, and his platform nod of
 abhorrent reflection after each short sentiment of a word. “Bloodshed!
-Abel! Cain! I hold no terms with Cain. I repudiate with a shudder the
+Abel! [[Cain]]! I hold no terms with [[Cain]]. I repudiate with a shudder the
 red hand when it is offered me.”
 
 Instead of instantly leaping into his chair and cheering himself
@@ -150,7 +150,7 @@ murder, and then leave off.
 Crisparkle.
 
 “Enough!” bellowed Mr. Honeythunder, with a solemnity and severity that
-would have brought the house down at a meeting, “E—e—nough! My late
+would have brought the [[house]] down at a meeting, “E—e—nough! My late
 wards being now of age, and I being released from a trust which I
 cannot contemplate without a thrill of horror, there are the accounts
 which you have undertaken to accept on their behalf, and there is a
@@ -160,7 +160,7 @@ that, as a man and a Minor Canon, you were better employed,” with a
 nod. “Better employed,” with another nod. “Bet—ter em—ployed!” with
 another and the three nods added up.
 
-Mr. Crisparkle rose; a little heated in the face, but with perfect
+Mr. Crisparkle [[Rose|rose]]; a little heated in the face, but with perfect
 command of himself.
 
 “Mr. Honeythunder,” he said, taking up the papers referred to: “my
@@ -176,7 +176,7 @@ that long ago!”
 
 “Or,” said Mr. Honeythunder, shaking his head again, “I might think one
 of your profession better employed in devoting himself to the discovery
-and punishment of guilt than in leaving that duty to be undertaken by a
+and punishment of [[Guilt|guilt]] than in leaving that duty to be undertaken by a
 layman.”
 
 “I may regard my profession from a point of view which teaches me that
@@ -186,7 +186,7 @@ have quite clearly satisfied myself that it is no part of my profession
 to make professions, I say no more of that. But I owe it to Mr.
 Neville, and to Mr. Neville’s sister (and in a much lower degree to
 myself), to say to you that I _know_ I was in the full possession and
-understanding of Mr. Neville’s mind and heart at the time of this
+understanding of Mr. Neville’s mind and heart at the [[Time|time]] of this
 occurrence; and that, without in the least colouring or concealing what
 was to be deplored in him and required to be corrected, I feel certain
 that his tale is true. Feeling that certainty, I befriend him. As long
@@ -196,16 +196,16 @@ myself for my meanness, that no man’s good opinion—no, nor no
 woman’s—so gained, could compensate me for the loss of my own.”
 
 Good fellow! manly fellow! And he was so modest, too. There was no more
-self-assertion in the Minor Canon than in the schoolboy who had stood
+[[Self|self]]-assertion in the Minor Canon than in the schoolboy who had stood
 in the breezy playing-fields keeping a wicket. He was simply and
 staunchly true to his duty alike in the large case and in the small. So
-all true souls ever are. So every true soul ever was, ever is, and ever
+all true souls ever are. So every true [[Soul|soul]] ever was, ever is, and ever
 will be. There is nothing little to the really great in spirit.
 
 “Then who do you make out did the deed?” asked Mr. Honeythunder,
 turning on him abruptly.
 
-“Heaven forbid,” said Mr. Crisparkle, “that in my desire to clear one
+“Heaven forbid,” said Mr. Crisparkle, “that in my [[Desire|desire]] to clear one
 man I should lightly criminate another! I accuse no one.”
 
 “Tcha!” ejaculated Mr. Honeythunder with great disgust; for this was by
@@ -222,7 +222,7 @@ may have warped your judgment a bit,” said Mr. Honeythunder, coarsely.
 “Perhaps I expect to retain it still?” Mr. Crisparkle returned,
 enlightened; “do you mean that too?”
 
-“Well, sir,” returned the professional Philanthropist, getting up and
+“[[Well]], sir,” returned the professional Philanthropist, getting up and
 thrusting his hands down into his trousers-pockets, “I don’t go about
 measuring people for caps. If people find I have any about me that fit
 ’em, they can put ’em on and wear ’em, if they like. That’s their look
@@ -245,26 +245,26 @@ detestable.”
 Christians, and the restraints that should belong to gentlemen. You
 assume a great crime to have been committed by one whom I, acquainted
 with the attendant circumstances, and having numerous reasons on my
-side, devoutly believe to be innocent of it. Because I differ from you
+side, devoutly believe to be [[Innocent|innocent]] of it. Because I differ from you
 on that vital point, what is your platform resource? Instantly to turn
 upon me, charging that I have no sense of the enormity of the crime
-itself, but am its aider and abettor! So, another time—taking me as
+itself, but am its aider and abettor! So, another [[Time|time]]—taking me as
 representing your opponent in other cases—you set up a platform
 credulity; a moved and seconded and carried-unanimously profession of
-faith in some ridiculous delusion or mischievous imposition. I decline
+[[Faith|faith]] in some ridiculous delusion or mischievous imposition. I decline
 to believe it, and you fall back upon your platform resource of
 proclaiming that I believe nothing; that because I will not bow down to
-a false God of your making, I deny the true God! Another time you make
+a false God of your making, I deny the true God! Another [[Time|time]] you make
 the platform discovery that War is a calamity, and you propose to
 abolish it by a string of twisted resolutions tossed into the air like
 the tail of a kite. I do not admit the discovery to be yours in the
-least, and I have not a grain of faith in your remedy. Again, your
+least, and I have not a grain of [[Faith|faith]] in your remedy. Again, your
 platform resource of representing me as revelling in the horrors of a
-battle-field like a fiend incarnate! Another time, in another of your
+battle-field like a fiend incarnate! Another [[Time|time]], in another of your
 undiscriminating platform rushes, you would punish the sober for the
 drunken. I claim consideration for the comfort, convenience, and
 refreshment of the sober; and you presently make platform proclamation
-that I have a depraved desire to turn Heaven’s creatures into swine and
+that I have a depraved [[Desire|desire]] to turn Heaven’s creatures into swine and
 wild beasts! In all such cases your movers, and your seconders, and
 your supporters—your regular Professors of all degrees, run amuck like
 so many mad Malays; habitually attributing the lowest and basest
@@ -279,31 +279,31 @@ into private life, it becomes an unendurable nuisance.”
 
 “These are strong words, sir!” exclaimed the Philanthropist.
 
-“I hope so,” said Mr. Crisparkle. “Good morning.”
+“I [[Hope|hope]] so,” said Mr. Crisparkle. “Good morning.”
 
 He walked out of the Haven at a great rate, but soon fell into his
 regular brisk pace, and soon had a smile upon his face as he went
 along, wondering what the china shepherdess would have said if she had
 seen him pounding Mr. Honeythunder in the late little lively affair.
-For Mr. Crisparkle had just enough of harmless vanity to hope that he
+For Mr. Crisparkle had just enough of harmless [[Vanity|vanity]] to [[Hope|hope]] that he
 had hit hard, and to glow with the belief that he had trimmed the
 Philanthropic Jacket pretty handsomely.
 
 He took himself to Staple Inn, but not to P. J. T. and Mr. Grewgious.
 Full many a creaking stair he climbed before he reached some attic
 rooms in a corner, turned the latch of their unbolted door, and stood
-beside the table of Neville Landless.
+beside the table of [[Neville Landless]].
 
-An air of retreat and solitude hung about the rooms and about their
+An air of retreat and [[Solitude|solitude]] hung about the rooms and about their
 inhabitant. He was much worn, and so were they. Their sloping ceilings,
 cumbrous rusty locks and grates, and heavy wooden bins and beams,
 slowly mouldering withal, had a prisonous look, and he had the haggard
 face of a prisoner. Yet the sunlight shone in at the ugly
-garret-window, which had a penthouse to itself thrust out among the
+garret-[[Window|window]], which had a penthouse to itself thrust out among the
 tiles; and on the cracked and smoke-blackened parapet beyond, some of
 the deluded sparrows of the place rheumatically hopped, like little
 feathered cripples who had left their crutches in their nests; and
-there was a play of living leaves at hand that changed the air, and
+there was a play of living [[Leaves|leaves]] at hand that changed the air, and
 made an imperfect sort of music in it that would have been melody in
 the country.
 
@@ -351,33 +351,33 @@ never thought so. But I should like you to do it.”
 
 “And that would give me the strongest motive to do it. But I cannot
 yet. I cannot persuade myself that the eyes of even the stream of
-strangers I pass in this vast city look at me without suspicion. I feel
-marked and tainted, even when I go out—as I do only—at night. But the
-darkness covers me then, and I take courage from it.”
+strangers I pass in this vast [[City|city]] look at me without suspicion. I feel
+marked and tainted, even when I go out—as I do only—at [[Night|night]]. But the
+darkness covers me then, and I take [[Courage|courage]] from it.”
 
 Mr. Crisparkle laid a hand upon his shoulder, and stood looking down at
 him.
 
 “If I could have changed my name,” said Neville, “I would have done so.
 But as you wisely pointed out to me, I can’t do that, for it would look
-like guilt. If I could have gone to some distant place, I might have
+like [[Guilt|guilt]]. If I could have gone to some distant place, I might have
 found relief in that, but the thing is not to be thought of, for the
 same reason. Hiding and escaping would be the construction in either
-case. It seems a little hard to be so tied to a stake, and innocent;
+case. It seems a little hard to be so tied to a stake, and [[Innocent|innocent]];
 but I don’t complain.”
 
 “And you must expect no miracle to help you, Neville,” said Mr.
 Crisparkle, compassionately.
 
-“No, sir, I know that. The ordinary fulness of time and circumstances
+“No, sir, I know that. The ordinary fulness of [[Time|time]] and circumstances
 is all I have to trust to.”
 
 “It will right you at last, Neville.”
 
-“So I believe, and I hope I may live to know it.”
+“So I believe, and I [[Hope|hope]] I may live to know it.”
 
 But perceiving that the despondent mood into which he was falling cast
-a shadow on the Minor Canon, and (it may be) feeling that the broad
+a [[Shadow|shadow]] on the Minor Canon, and (it may be) feeling that the broad
 hand upon his shoulder was not then quite as steady as its own natural
 strength had rendered it when it first touched him just now, he
 brightened and said:
@@ -392,38 +392,38 @@ He took the fortifying hand from his shoulder, and kissed it. Mr.
 Crisparkle beamed at the books, but not so brightly as when he had
 entered.
 
-“I gather from your silence on the subject that my late guardian is
+“I gather from your [[Silence|silence]] on the subject that my late guardian is
 adverse, Mr. Crisparkle?”
 
 The Minor Canon answered: “Your late guardian is a—a most unreasonable
 person, and it signifies nothing to any reasonable person whether he is
 _ad_verse, _per_verse, or the _re_verse.”
 
-“Well for me that I have enough with economy to live upon,” sighed
+“[[Well]] for me that I have enough with economy to live upon,” sighed
 Neville, half wearily and half cheerily, “while I wait to be learned,
 and wait to be righted! Else I might have proved the proverb, that
 while the grass grows, the steed starves!”
 
 He opened some books as he said it, and was soon immersed in their
 interleaved and annotated passages; while Mr. Crisparkle sat beside
-him, expounding, correcting, and advising. The Minor Canon’s Cathedral
+him, expounding, correcting, and advising. The Minor Canon’s [[Cathedral]]
 duties made these visits of his difficult to accomplish, and only to be
 compassed at intervals of many weeks. But they were as serviceable as
-they were precious to Neville Landless.
+they were precious to [[Neville Landless]].
 
 When they had got through such studies as they had in hand, they stood
-leaning on the window-sill, and looking down upon the patch of garden.
-“Next week,” said Mr. Crisparkle, “you will cease to be alone, and will
+leaning on the [[Window|window]]-sill, and looking down upon the patch of [[Garden|garden]].
+“Next week,” said Mr. Crisparkle, “you will cease to be [[Alone|alone]], and will
 have a devoted companion.”
 
 “And yet,” returned Neville, “this seems an uncongenial place to bring
 my sister to.”
 
 “I don’t think so,” said the Minor Canon. “There is duty to be done
-here; and there are womanly feeling, sense, and courage wanted here.”
+here; and there are womanly feeling, sense, and [[Courage|courage]] wanted here.”
 
 “I meant,” explained Neville, “that the surroundings are so dull and
-unwomanly, and that Helena can have no suitable friend or society
+unwomanly, and that [[Helena]] can have no suitable friend or society
 here.”
 
 “You have only to remember,” said Mr. Crisparkle, “that you are here
@@ -434,31 +434,31 @@ anew.
 
 “When we first spoke together, Neville, you told me that your sister
 had risen out of the disadvantages of your past lives as superior to
-you as the tower of Cloisterham Cathedral is higher than the chimneys
+you as the tower of Cloisterham [[Cathedral]] is higher than the chimneys
 of Minor Canon Corner. Do you remember that?”
 
-“Right well!”
+“Right [[Well|well]]!”
 
-“I was inclined to think it at the time an enthusiastic flight. No
+“I was inclined to think it at the [[Time|time]] an enthusiastic flight. No
 matter what I think it now. What I would emphasise is, that under the
-head of Pride your sister is a great and opportune example to you.”
+head of [[Pride]] your sister is a great and opportune example to you.”
 
 “Under _all_ heads that are included in the composition of a fine
 character, she is.”
 
 “Say so; but take this one. Your sister has learnt how to govern what
-is proud in her nature. She can dominate it even when it is wounded
-through her sympathy with you. No doubt she has suffered deeply in
-those same streets where you suffered deeply. No doubt her life is
-darkened by the cloud that darkens yours. But bending her pride into a
+is proud in her [[Nature|nature]]. She can dominate it even when it is wounded
+through her sympathy with you. No [[Doubt|doubt]] she has suffered deeply in
+those same streets where you suffered deeply. No [[Doubt|doubt]] her life is
+darkened by the cloud that darkens yours. But bending her [[Pride|pride]] into a
 grand composure that is not haughty or aggressive, but is a sustained
-confidence in you and in the truth, she has won her way through those
+confidence in you and in the [[Truth|truth]], she has won her way through those
 streets until she passes along them as high in the general respect as
 any one who treads them. Every day and hour of her life since Edwin
 Drood’s disappearance, she has faced malignity and folly—for you—as
-only a brave nature well directed can. So it will be with her to the
-end. Another and weaker kind of pride might sink broken-hearted, but
-never such a pride as hers: which knows no shrinking, and can get no
+only a brave [[Nature|nature]] [[Well|well]] directed can. So it will be with her to the
+end. Another and weaker kind of [[Pride|pride]] might sink broken-hearted, but
+never such a [[Pride|pride]] as hers: which knows no shrinking, and can get no
 mastery over her.”
 
 The pale cheek beside him flushed under the comparison, and the hint
@@ -478,9 +478,9 @@ rejoin Neville on his own doorstep, if he would come down there to meet
 him.
 
 Mr. Grewgious, bolt upright as usual, sat taking his wine in the dusk
-at his open window; his wineglass and decanter on the round table at
-his elbow; himself and his legs on the window-seat; only one hinge in
-his whole body, like a bootjack.
+at his open [[Window|window]]; his wineglass and decanter on the round table at
+his elbow; himself and his legs on the [[Window|window]]-seat; only one hinge in
+his whole [[Body|body]], like a bootjack.
 
 “How do you do, reverend sir?” said Mr. Grewgious, with abundant offers
 of hospitality, which were as cordially declined as made. “And how is
@@ -498,7 +498,7 @@ literally.
 
 “And how did you leave Mr. Jasper, reverend sir?” said Mr. Grewgious.
 
-Mr. Crisparkle had left him pretty well.
+Mr. Crisparkle had left him pretty [[Well|well]].
 
 “And where did you leave Mr. Jasper, reverend sir?” Mr. Crisparkle had
 left him at Cloisterham.
@@ -514,15 +514,15 @@ left him at Cloisterham.
 “No.”
 
 “Because here he is,” said Mr. Grewgious, who had asked all these
-questions, with his preoccupied glance directed out at window. “And he
+questions, with his preoccupied glance directed out at [[Window|window]]. “And he
 don’t look agreeable, does he?”
 
-Mr. Crisparkle was craning towards the window, when Mr. Grewgious
+Mr. Crisparkle was craning towards the [[Window|window]], when Mr. Grewgious
 added:
 
 “If you will kindly step round here behind me, in the gloom of the
-room, and will cast your eye at the second-floor landing window in
-yonder house, I think you will hardly fail to see a slinking individual
+room, and will cast your eye at the second-floor landing [[Window|window]] in
+yonder [[house]], I think you will hardly fail to see a slinking individual
 in whom I recognise our local friend.”
 
 “You are right!” cried Mr. Crisparkle.
@@ -546,34 +546,34 @@ might go.”
 “Ay!” said Mr. Grewgious musingly still. “Do I see him waiting for
 you?”
 
-“No doubt you do.”
+“No [[Doubt|doubt]] you do.”
 
 “Then _would_ you have the goodness to excuse my getting up to see you
 out, and to go out to join him, and to go the way that you were going,
 and to take no notice of our local friend?” said Mr. Grewgious. “I
-entertain a sort of fancy for having _him_ under my eye to-night, do
+entertain a sort of fancy for having _him_ under my eye to-[[Night|night]], do
 you know?”
 
 Mr. Crisparkle, with a significant nod complied; and rejoining Neville,
 went away with him. They dined together, and parted at the yet
-unfinished and undeveloped railway station: Mr. Crisparkle to get home;
-Neville to walk the streets, cross the bridges, make a wide round of
-the city in the friendly darkness, and tire himself out.
+unfinished and undeveloped railway station: Mr. Crisparkle to get [[Home|home]];
+Neville to walk the streets, [[Cross|cross]] the bridges, make a wide round of
+the [[City|city]] in the friendly darkness, and tire himself out.
 
 It was midnight when he returned from his solitary expedition and
-climbed his staircase. The night was hot, and the windows of the
+climbed his staircase. The [[Night|night]] was hot, and the windows of the
 staircase were all wide open. Coming to the top, it gave him a passing
 chill of surprise (there being no rooms but his up there) to find a
-stranger sitting on the window-sill, more after the manner of a
+stranger sitting on the [[Window|window]]-sill, more after the manner of a
 venturesome glazier than an amateur ordinarily careful of his neck; in
-fact, so much more outside the window than inside, as to suggest the
-thought that he must have come up by the water-spout instead of the
+fact, so much more outside the [[Window|window]] than inside, as to suggest the
+thought that he must have come up by the [[Water|water]]-spout instead of the
 stairs.
 
 The stranger said nothing until Neville put his key in his door; then,
-seeming to make sure of his identity from the action, he spoke:
+seeming to make sure of his [[Identity|identity]] from the action, he spoke:
 
-“I beg your pardon,” he said, coming from the window with a frank and
+“I beg your pardon,” he said, coming from the [[Window|window]] with a frank and
 smiling air, and a prepossessing address; “the beans.”
 
 Neville was quite at a loss.
@@ -602,20 +602,20 @@ clustering brown hair, and laughing teeth.
 Neville inclined his head.
 
 “I have noticed (excuse me) that you shut yourself up a good deal, and
-that you seem to like my garden aloft here. If you would like a little
+that you seem to like my [[Garden|garden]] aloft here. If you would like a little
 more of it, I could throw out a few lines and stays between my windows
 and yours, which the runners would take to directly. And I have some
 boxes, both of mignonette and wall-flower, that I could shove on along
 the gutter (with a boathook I have by me) to your windows, and draw
 back again when they wanted watering or gardening, and shove on again
-when they were ship-shape; so that they would cause you no trouble. I
+when they were [[Ship|ship]]-shape; so that they would cause you no trouble. I
 couldn’t take this liberty without asking your permission, so I venture
 to ask it. Tartar, corresponding set, next door.”
 
 “You are very kind.”
 
 “Not at all. I ought to apologise for looking in so late. But having
-noticed (excuse me) that you generally walk out at night, I thought I
+noticed (excuse me) that you generally walk out at [[Night|night]], I thought I
 should inconvenience you least by awaiting your return. I am always
 afraid of inconveniencing busy men, being an idle man.”
 
@@ -628,12 +628,12 @@ Navy, I accepted the fortune, and resigned my commission.”
 
 “Lately, I presume?”
 
-“Well, I had had twelve or fifteen years of knocking about first. I
+“[[Well]], I had had twelve or fifteen years of knocking about first. I
 came here some nine months before you; I had had one crop before you
 came. I chose this place, because, having served last in a little
-corvette, I knew I should feel more at home where I had a constant
+corvette, I knew I should feel more at [[Home|home]] where I had a constant
 opportunity of knocking my head against the ceiling. Besides, it would
-never do for a man who had been aboard ship from his boyhood to turn
+never do for a man who had been aboard [[Ship|ship]] from his boyhood to turn
 luxurious all at once. Besides, again; having been accustomed to a very
 short allowance of land all my life, I thought I’d feel my way to the
 command of a landed estate, by beginning in boxes.”
@@ -642,9 +642,9 @@ Whimsically as this was said, there was a touch of merry earnestness in
 it that made it doubly whimsical.
 
 “However,” said the Lieutenant, “I have talked quite enough about
-myself. It is not my way, I hope; it has merely been to present myself
+myself. It is not my way, I [[Hope|hope]]; it has merely been to present myself
 to you naturally. If you will allow me to take the liberty I have
-described, it will be a charity, for it will give me something more to
+described, it will be a [[Charity|charity]], for it will give me something more to
 do. And you are not to suppose that it will entail any interruption or
 intrusion on you, for that is far from my intention.”
 
@@ -669,10 +669,10 @@ an emergency, and were setting a bright example.
 “For Heaven’s sake,” cried Neville, “don’t do that! Where are you going
 Mr. Tartar? You’ll be dashed to pieces!”
 
-“All well!” said the Lieutenant, coolly looking about him on the
+“All [[Well|well]]!” said the Lieutenant, coolly looking about him on the
 housetop. “All taut and trim here. Those lines and stays shall be
 rigged before you turn out in the morning. May I take this short cut
-home, and say good-night?”
+[[Home|home]], and say good-[[Night|night]]?”
 
 “Mr. Tartar!” urged Neville. “Pray! It makes me giddy to see you!”
 
@@ -680,14 +680,14 @@ But Mr. Tartar, with a wave of his hand and the deftness of a cat, had
 already dipped through his scuttle of scarlet runners without breaking
 a leaf, and “gone below.”
 
-Mr. Grewgious, his bedroom window-blind held aside with his hand,
+Mr. Grewgious, his bedroom [[Window|window]]-blind held aside with his hand,
 happened at the moment to have Neville’s chambers under his eye for the
-last time that night. Fortunately his eye was on the front of the house
+last [[Time|time]] that [[Night|night]]. Fortunately his eye was on the front of the [[house]]
 and not the back, or this remarkable appearance and disappearance might
 have broken his rest as a phenomenon. But Mr. Grewgious seeing nothing
 there, not even a light in the windows, his gaze wandered from the
-windows to the stars, as if he would have read in them something that
+windows to the [[Stars|stars]], as if he would have read in them something that
 was hidden from him. Many of us would, if we could; but none of us so
-much as know our letters in the stars yet—or seem likely to do it, in
+much as know our letters in the [[Stars|stars]] yet—or seem likely to do it, in
 this state of existence—and few languages can be read until their
 alphabets are mastered.

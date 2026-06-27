@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 8 (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 When they could eat no more, Mr Pecksniff and Mr Jonas subscribed for
-two sixpenny-worths of hot brandy-and-water, which the latter gentleman
+two sixpenny-worths of hot brandy-and-[[Water|water]], which the latter gentleman
 considered a more politic order than one shillingsworth; there being
 a chance of their getting more spirit out of the innkeeper under this
 arrangement than if it were all in one glass. Having swallowed his share
@@ -30,7 +30,7 @@ for a nap, Mr Pecksniff delivered a kind of grace after meat, in these
 words:
 
 ‘The process of digestion, as I have been informed by anatomical
-friends, is one of the most wonderful works of nature. I do not know
+friends, is one of the most wonderful works of [[Nature|nature]]. I do not know
 how it may be with others, but it is a great satisfaction to me to know,
 when regaling on my humble fare, that I am putting in motion the most
 beautiful machinery with which we have any acquaintance. I really feel
@@ -40,29 +40,29 @@ exquisite tenderness, ‘and know that I am Going, I feel that in the
 lesson afforded by the works within me, I am a Benefactor to my Kind!’
 
 As nothing could be added to this, nothing was said; and Mr Pecksniff,
-exulting, it may be presumed, in his moral utility, went to sleep again.
+exulting, it may be presumed, in his moral utility, went to [[Sleep|sleep]] again.
 
-The rest of the night wore away in the usual manner. Mr Pecksniff
+The rest of the [[Night|night]] wore away in the usual manner. Mr Pecksniff
 and Old Anthony kept tumbling against each other and waking up much
 terrified, or crushed their heads in opposite corners of the coach and
 strangely tattooed the surface of their faces--Heaven knows how--in
-their sleep. The coach stopped and went on, and went on and stopped,
+their [[Sleep|sleep]]. The coach stopped and went on, and went on and stopped,
 times out of number. Passengers got up and passengers got down, and
 fresh horses came and went and came again, with scarcely any interval
 between each team as it seemed to those who were dozing, and with a gap
-of a whole night between every one as it seemed to those who were broad
+of a whole [[Night|night]] between every one as it seemed to those who were broad
 awake. At length they began to jolt and rumble over horribly uneven
-stones, and Mr Pecksniff looking out of window said it was to-morrow
+stones, and Mr Pecksniff looking out of [[Window|window]] said it was to-morrow
 morning, and they were there.
 
-Very soon afterwards the coach stopped at the office in the city; and
+Very soon afterwards the coach stopped at the office in the [[City|city]]; and
 the street in which it was situated was already in a bustle, that fully
 bore out Mr Pecksniff’s words about its being morning, though for any
 signs of day yet appearing in the sky it might have been midnight. There
-was a dense fog too; as if it were a city in the clouds, which they had
-been travelling to all night up a magic beanstalk; and there was a thick
+was a dense fog too; as if it were a [[City|city]] in the clouds, which they had
+been travelling to all [[Night|night]] up a [[Magic|magic]] beanstalk; and there was a thick
 crust upon the pavement like oilcake; which, one of the outsides (mad,
-no doubt) said to another (his keeper, of course), was Snow.
+no [[Doubt|doubt]]) said to another (his keeper, of course), was [[Snow]].
 
 Taking a confused leave of Anthony and his son, and leaving the luggage
 of himself and daughters at the office to be called for afterwards, Mr
@@ -76,12 +76,12 @@ the last degree, but always in a great perspiration and flurry; until at
 length they stopped in a kind of paved yard near the Monument. That is
 to say, Mr Pecksniff told them so; for as to anything they could see
 of the Monument, or anything else but the buildings close at hand, they
-might as well have been playing blindman’s buff at Salisbury.
+might as [[Well|well]] have been playing blindman’s buff at Salisbury.
 
 Mr Pecksniff looked about him for a moment, and then knocked at the
 door of a very dingy edifice, even among the choice collection of dingy
 edifices at hand; on the front of which was a little oval board like
-a tea-tray, with this inscription--‘Commercial Boarding-House: M.
+a tea-tray, with this [[Inscription|inscription]]--‘Commercial Boarding-[[house|House]]: M.
 Todgers.’
 
 It seemed that M. Todgers was not up yet, for Mr Pecksniff knocked twice
@@ -104,7 +104,7 @@ Considering his years, which were tender, the youth may be said to have
 preferred this question sternly, and in something of a defiant manner.
 But Mr Pecksniff, without taking umbrage at his bearing put a card
 in his hand, and bade him take that upstairs, and show them in the
-meanwhile into a room where there was a fire.
+meanwhile into a room where there was a [[Fire|fire]].
 
 ‘Or if there’s one in the eating parlour,’ said Mr Pecksniff, ‘I can
 find it myself.’ So he led his daughters, without waiting for any
@@ -120,5 +120,5 @@ various sizes, just cleaned and turned with the soles upwards to dry;
 and a pair of short black gaiters, on one of which was chalked--in
 sport, it would appear, by some gentleman who had slipped down for the
 purpose, pending his toilet, and gone up again--‘Jinkins’s Particular,’
-while the other exhibited a sketch in profile, claiming to be the
+while the other exhibited a [[Sketch|sketch]] in profile, claiming to be the
 portrait of Jinkins himself.

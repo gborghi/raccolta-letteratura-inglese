@@ -28,7 +28,7 @@ develops rather the harsher and more impatient moral counsels of his
 
 master than like Ruskin the more romantic and sympathetic. He carries on
 
-the tradition of Hero Worship: but carries far beyond Carlyle the
+the tradition of [[Hero]] Worship: but carries far beyond Carlyle the
 
 practice of worshipping people who cannot rationally be called heroes.
 
@@ -36,7 +36,7 @@ In this matter that eccentric eye of the seer certainly helped Carlyle:
 
 in Cromwell and Frederick the Great there was at least something
 
-self-begotten, original or mystical; if they were not heroes they were
+[[Self|self]]-begotten, original or mystical; if they were not heroes they were
 
 at least demigods or perhaps demons. But Froude set himself to the
 
@@ -44,25 +44,25 @@ praise of the Tudors, a much lower class of people; ill-conditioned
 
 prosperous people who merely waxed fat and kicked. Such strength as
 
-Henry VIII had was the strength of a badly trained horse that bolts, not
+[[Henry VIII]] had was the strength of a badly trained [[Horse|horse]] that bolts, not
 
 of any clear or courageous rider who controls him. There is a sort of
 
 strong man mentioned in Scripture who, because he masters himself, is
 
-more than he that takes a city. There is another kind of strong man
+more than he that takes a [[City|city]]. There is another kind of strong man
 
 (known to the medical profession) who cannot master himself; and whom it
 
-may take half a city to take alive. But for all that he is a low
+may take half a [[City|city]] to take alive. But for all that he is a low
 
-lunatic, and not a hero; and of that sort were too many of the heroes
+lunatic, and not a [[Hero|hero]]; and of that sort were too many of the heroes
 
 whom Froude attempted to praise. A kind of instinct kept Carlyle from
 
-over-praising Henry VIII; or that highly cultivated and complicated
+over-praising [[Henry VIII]]; or that highly cultivated and complicated
 
-liar, Queen Elizabeth. Here, the only importance of this is that one of
+liar, [[Queen Elizabeth]]. Here, the only importance of this is that one of
 
 Carlyle's followers carried further that "strength" which was the real
 
@@ -78,7 +78,7 @@ was not ashamed of being partisan or of being picturesque. Such studies
 
 as he wrote on the Elizabethan seamen and adventurers, represent very
 
-triumphantly the sort of romance of England that all this school was
+triumphantly the sort of [[Romance|romance]] of England that all this school was
 
 attempting to establish; and link him up with Kingsley and the rest.
 
@@ -94,23 +94,23 @@ English without disordering it. And in the matter of religion (which
 
 was the key of this age as of every other) he did not, like Carlyle, set
 
-up the romance of the great Puritans as a rival to the romance of the
+up the [[Romance|romance]] of the great Puritans as a rival to the [[Romance|romance]] of the
 
-Catholic Church. Rather he set up and worshipped all the arts and
+[[Catholic Church]]. Rather he set up and worshipped all the arts and
 
-trophies of the Catholic Church as a rival to the Church itself. None
+trophies of the [[Catholic Church]] as a rival to the Church itself. None
 
 need dispute that he held a perfectly tenable position if he chose to
 
-associate early Florentine art with a Christianity still comparatively
+associate early Florentine art with a [[Christianity]] still comparatively
 
-pure, and such sensualities as the Renaissance bred with the corruption
+pure, and such sensualities as the [[Renaissance]] bred with the corruption
 
 of a Papacy. But this does not alter, as a merely artistic fact, the
 
 strange air of ill-ease and irritation with which Ruskin seems to tear
 
-down the gargoyles of Amiens or the marbles of Venice, as things of
+down the [[gargoyles]] of Amiens or the marbles of [[Venice]], as things of
 
 which Europe is not worthy; and take them away with him to a really
 
@@ -122,11 +122,11 @@ headache which was literally a "splitting headache"; for there was a
 
 schism in the sympathies. When these men looked at some historic
 
-object, like the Catholic Church or the French Revolution, they did not
+object, like the [[Catholic Church]] or the [[French Revolution]], they did not
 
 know whether they loved or hated it most. Carlyle's two eyes were out of
 
-focus, as one may say, when he looked at democracy: he had one eye on
+focus, as one may say, when he looked at [[Democracy|democracy]]: he had one eye on
 
 Valmy and the other on Sedan. In the same way, Ruskin had a strong right
 
@@ -144,7 +144,7 @@ was troubled under its serene surface. The incessant excitement of
 
 Kingsley, though romantic and attractive in many ways, was a great deal
 
-more like Nervous Christianity than Muscular Christianity. It would be
+more like Nervous [[Christianity]] than Muscular [[Christianity]]. It would be
 
 quite unfair to say of Ruskin that there was any major inconsistency
 
@@ -152,13 +152,13 @@ between his mediæval tastes and his very unmediæval temper: and minor
 
 inconsistencies do not matter in anybody. But it is not quite unfair to
 
-say of him that he seemed to want all parts of the Cathedral except the
+say of him that he seemed to want all parts of the [[Cathedral]] except the
 
 altar.
 
 
 
-As an artist in prose he is one of the most miraculous products of the
+As an [[Artist|artist]] in prose he is one of the most miraculous products of the
 
 extremely poetical genius of England. The length of a Ruskin sentence is
 
@@ -172,9 +172,9 @@ as a bullet. There is no Victorian writer before him to whom he even
 
 suggests a comparison, technically considered, except perhaps De
 
-Quincey; who also employed the long rich rolling sentence that, like a
+Quincey; who also employed the long rich [[rolling]] sentence that, like a
 
-rocket, bursts into stars at the end. But De Quincey's sentences, as I
+rocket, bursts into [[Stars|stars]] at the end. But De Quincey's sentences, as I
 
 have said, have always a dreamy and insecure sense about them, like the
 

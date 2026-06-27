@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 15 (part 5)"
+title: "Bleak [[house|House]] — Chapter 15 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,10 +22,10 @@ should be driven mad! It is only by resenting them, and by revenging
 them in my mind, and by angrily demanding the justice I never get,
 that I am able to keep my wits together. It is only that!” he said,
 speaking in a homely, rustic way and with great vehemence. “You may
-tell me that I over-excite myself. I answer that it’s in my nature to
+tell me that I over-excite myself. I answer that it’s in my [[Nature|nature]] to
 do it, under wrong, and I must do it. There’s nothing between doing
 it, and sinking into the smiling state of the poor little mad woman
-that haunts the court. If I was once to sit down under it, I should
+that haunts the [[Court|court]]. If I was once to sit down under it, I should
 become imbecile.”
 
 The passion and heat in which he was, and the manner in which his
@@ -35,9 +35,9 @@ he said, were most painful to see.
 “Mr. Jarndyce,” he said, “consider my case. As true as there is a
 heaven above us, this is my case. I am one of two brothers. My father
 (a farmer) made a will and left his farm and stock and so forth to my
-mother for her life. After my mother’s death, all was to come to me
+mother for her life. After my mother’s [[Death|death]], all was to come to me
 except a legacy of three hundred pounds that I was then to pay my
-brother. My mother died. My brother some time afterwards claimed his
+brother. My mother died. My brother some [[Time|time]] afterwards claimed his
 legacy. I and some of my relations said that he had had a part of it
 already in board and lodging and some other things. Now mind! That
 was the question, and nothing else. No one disputed the will; no one
@@ -52,11 +52,11 @@ father’s son, about which there was no dispute at all with any mortal
 creature. He then found out that there were not defendants
 enough—remember, there were only seventeen as yet!—but that we must
 have another who had been left out and must begin all over again. The
-costs at that time—before the thing was begun!—were three times the
+costs at that [[Time|time]]—before the thing was begun!—were three times the
 legacy. My brother would have given up the legacy, and joyful, to
 escape more costs. My whole estate, left to me in that will of my
 father’s, has gone in costs. The suit, still undecided, has fallen
-into rack, and ruin, and despair, with everything else—and here I
+into rack, and ruin, and [[Despair|despair]], with everything else—and here I
 stand, this day! Now, Mr. Jarndyce, in your suit there are thousands
 and thousands involved, where in mine there are hundreds. Is mine
 less hard to bear or is it harder to bear, when my whole living was
@@ -68,12 +68,12 @@ monstrous system.
 
 “There again!” said Mr. Gridley with no diminution of his rage. “The
 system! I am told on all hands, it’s the system. I mustn’t look to
-individuals. It’s the system. I mustn’t go into court and say, ‘My
+individuals. It’s the system. I mustn’t go into [[Court|court]] and say, ‘My
 Lord, I beg to know this from you—is this right or wrong? Have you
 the face to tell me I have received justice and therefore am
 dismissed?’ My Lord knows nothing of it. He sits there to administer
 the system. I mustn’t go to Mr. Tulkinghorn, the solicitor in
-Lincoln’s Inn Fields, and say to him when he makes me furious by
+[[Lincoln]]’s Inn Fields, and say to him when he makes me furious by
 being so cool and satisfied—as they all do, for I know they gain by
 it while I lose, don’t I?—I mustn’t say to him, ‘I will have
 something out of some one for my ruin, by fair means or foul!’ HE is
@@ -87,7 +87,7 @@ without seeing it.
 
 “I have done!” he said, sitting down and wiping his face. “Mr.
 Jarndyce, I have done! I am violent, I know. I ought to know it. I
-have been in prison for contempt of court. I have been in prison for
+have been in [[Prison|prison]] for contempt of [[Court|court]]. I have been in [[Prison|prison]] for
 threatening the solicitor. I have been in this trouble, and that
 trouble, and shall be again. I am the man from Shropshire, and I
 sometimes go beyond amusing them, though they have found it amusing,
@@ -98,16 +98,16 @@ imbecile. I was a good-enough-tempered man once, I believe. People in
 my part of the country say they remember me so, but now I must have
 this vent under my sense of injury or nothing could hold my wits
 together. It would be far better for you, Mr. Gridley,’ the Lord
-Chancellor told me last week, ‘not to waste your time here, and to
+Chancellor told me last week, ‘not to waste your [[Time|time]] here, and to
 stay, usefully employed, down in Shropshire.’ ‘My Lord, my Lord, I
 know it would,’ said I to him, ‘and it would have been far better for
 me never to have heard the name of your high office, but unhappily
 for me, I can’t undo the past, and the past drives me here!’
 Besides,” he added, breaking fiercely out, “I’ll shame them. To the
-last, I’ll show myself in that court to its shame. If I knew when I
+last, I’ll show myself in that [[Court|court]] to its shame. If I knew when I
 was going to die, and could be carried there, and had a voice to
 speak with, I would die there, saying, ‘You have brought me here and
-sent me from here many and many a time. Now send me out feet
+sent me from here many and many a [[Time|time]]. Now send me out feet
 foremost!’”
 
 His countenance had, perhaps for years, become so set in its

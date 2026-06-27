@@ -42,7 +42,7 @@ they looked at papers.”
 
 “The prisoner was as open in his confidence with me--which arose out
 of my helpless situation--as he was kind, and good, and useful to my
-father. I hope,” bursting into tears, “I may not repay him by doing him
+father. I [[Hope|hope]],” bursting into [[Tears|tears]], “I may not repay him by doing him
 harm to-day.”
 
 Buzzing from the blue-flies.
@@ -53,20 +53,20 @@ give--and which you cannot escape from giving--with great unwillingness,
 he is the only person present in that condition. Please to go on.”
 
 “He told me that he was travelling on business of a delicate and
-difficult nature, which might get people into trouble, and that he was
+difficult [[Nature|nature]], which might get people into trouble, and that he was
 therefore travelling under an assumed name. He said that this business
 had, within a few days, taken him to France, and might, at intervals,
 take him backwards and forwards between France and England for a long
-time to come.”
+[[Time|time]] to come.”
 
-“Did he say anything about America, Miss Manette? Be particular.”
+“Did he say anything about [[America]], Miss Manette? Be particular.”
 
 “He tried to explain to me how that quarrel had arisen, and he said
 that, so far as he could judge, it was a wrong and foolish one on
 England’s part. He added, in a jesting way, that perhaps George
-Washington might gain almost as great a name in history as George the
+Washington might gain almost as great a name in [[history]] as George the
 Third. But there was no harm in his way of saying this: it was said
-laughingly, and to beguile the time.”
+laughingly, and to beguile the [[Time|time]].”
 
 Any strongly marked expression of face on the part of a chief actor in
 a scene of great interest to whom many eyes are directed, will be
@@ -74,18 +74,18 @@ unconsciously imitated by the spectators. Her forehead was painfully
 anxious and intent as she gave this evidence, and, in the pauses when
 she stopped for the Judge to write it down, watched its effect upon
 the counsel for and against. Among the lookers-on there was the same
-expression in all quarters of the court; insomuch, that a great majority
+expression in all quarters of the [[Court|court]]; insomuch, that a great majority
 of the foreheads there, might have been mirrors reflecting the witness,
 when the Judge looked up from his notes to glare at that tremendous
 heresy about George Washington.
 
 Mr. Attorney-General now signified to my Lord, that he deemed it
 necessary, as a matter of precaution and form, to call the young lady’s
-father, Doctor Manette. Who was called accordingly.
+father, [[Doctor Manette]]. Who was called accordingly.
 
-“Doctor Manette, look upon the prisoner. Have you ever seen him before?”
+“[[Doctor Manette]], look upon the prisoner. Have you ever seen him before?”
 
-“Once. When he called at my lodgings in London. Some three years, or
+“Once. When he called at my lodgings in [[London]]. Some three years, or
 three years and a half ago.”
 
 “Can you identify him as your fellow-passenger on board the packet, or
@@ -98,10 +98,10 @@ either?”
 
 He answered, in a low voice, “There is.”
 
-“Has it been your misfortune to undergo a long imprisonment, without
-trial, or even accusation, in your native country, Doctor Manette?”
+“Has it been your misfortune to undergo a long [[Imprisonment|imprisonment]], without
+trial, or even accusation, in your native country, [[Doctor Manette]]?”
 
-He answered, in a tone that went to every heart, “A long imprisonment.”
+He answered, in a tone that went to every heart, “A long [[Imprisonment|imprisonment]].”
 
 “Were you newly released on the occasion in question?”
 
@@ -109,9 +109,9 @@ He answered, in a tone that went to every heart, “A long imprisonment.”
 
 “Have you no remembrance of the occasion?”
 
-“None. My mind is a blank, from some time--I cannot even say what
-time--when I employed myself, in my captivity, in making shoes, to the
-time when I found myself living in London with my dear daughter
+“None. My mind is a blank, from some [[Time|time]]--I cannot even say what
+[[Time|time]]--when I employed myself, in my captivity, in making shoes, to the
+[[Time|time]] when I found myself living in [[London]] with my dear daughter
 here. She had become familiar to me, when a gracious God restored
 my faculties; but, I am quite unable even to say how she had become
 familiar. I have no remembrance of the process.”
@@ -121,16 +121,16 @@ together.
 
 A singular circumstance then arose in the case. The object in hand being
 to show that the prisoner went down, with some fellow-plotter untracked,
-in the Dover mail on that Friday night in November five years ago, and
-got out of the mail in the night, as a blind, at a place where he did
+in the Dover mail on that Friday [[Night|night]] in November five years ago, and
+got out of the mail in the [[Night|night]], as a blind, at a place where he did
 not remain, but from which he travelled back some dozen miles or more,
 to a garrison and dockyard, and there collected information; a witness
-was called to identify him as having been at the precise time required,
+was called to identify him as having been at the precise [[Time|time]] required,
 in the coffee-room of an hotel in that garrison-and-dockyard town,
-waiting for another person. The prisoner’s counsel was cross-examining
+waiting for another person. The prisoner’s counsel was [[Cross|cross]]-examining
 this witness with no result, except that he had never seen the prisoner
-on any other occasion, when the wigged gentleman who had all this time
-been looking at the ceiling of the court, wrote a word or two on a
+on any other occasion, when the wigged gentleman who had all this [[Time|time]]
+been looking at the ceiling of the [[Court|court]], wrote a word or two on a
 little piece of paper, screwed it up, and tossed it to him. Opening
 this piece of paper in the next pause, the counsel looked with great
 attention and curiosity at the prisoner.
@@ -143,8 +143,8 @@ The witness was quite sure.
 
 Not so like (the witness said) as that he could be mistaken.
 
-“Look well upon that gentleman, my learned friend there,” pointing
-to him who had tossed the paper over, “and then look well upon the
+“Look [[Well|well]] upon that gentleman, my learned friend there,” pointing
+to him who had tossed the paper over, “and then look [[Well|well]] upon the
 prisoner. How say you? Are they very like each other?”
 
 Allowing for my learned friend’s appearance being careless and slovenly

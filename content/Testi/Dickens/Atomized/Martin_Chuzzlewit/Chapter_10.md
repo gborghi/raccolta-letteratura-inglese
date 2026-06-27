@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 10"
+title: "[[Martin Chuzzlewit]] — Chapter 10"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER TEN
 
-CONTAINING STRANGE MATTER, ON WHICH MANY EVENTS IN THIS HISTORY MAY, FOR
+CONTAINING STRANGE MATTER, ON WHICH MANY EVENTS IN THIS [[history|HISTORY]] MAY, FOR
 THEIR GOOD OR EVIL INFLUENCE, CHIEFLY DEPEND
 
 
@@ -25,16 +25,16 @@ always taking his pleasure with Todgers’s jovial brood, unmindful of the
 serious demands, whatever they might be, upon his calm consideration?
 No.
 
-Time and tide will wait for no man, saith the adage. But all men have to
-wait for time and tide. That tide which, taken at the flood, would lead
-Seth Pecksniff on to fortune, was marked down in the table, and about to
+[[Time]] and tide will wait for no man, saith the adage. But all men have to
+wait for [[Time|time]] and tide. That tide which, taken at the flood, would lead
+[[Seth Pecksniff]] on to fortune, was marked down in the table, and about to
 flow. No idle Pecksniff lingered far inland, unmindful of the changes
-of the stream; but there, upon the water’s edge, over his shoes already,
+of the stream; but there, upon the [[Water|water]]’s edge, over his shoes already,
 stood the worthy creature, prepared to wallow in the very mud, so that
-it slid towards the quarter of his hope.
+it slid towards the quarter of his [[Hope|hope]].
 
 The trustfulness of his two fair daughters was beautiful indeed. They
-had that firm reliance on their parent’s nature, which taught them to
+had that firm reliance on their parent’s [[Nature|nature]], which taught them to
 feel certain that in all he did he had his purpose straight and full
 before him. And that its noble end and object was himself, which almost
 of necessity included them, they knew. The devotion of these maids was
@@ -59,9 +59,9 @@ utterance are known:
 expect, that he has), we needn’t stop to inquire. My dears, I have my
 thoughts upon the subject, but I will not impart them. It is enough
 that we will not be proud, resentful, or unforgiving. If he wants our
-friendship he shall have it. We know our duty, I hope!’
+[[Friendship|friendship]] he shall have it. We know our duty, I [[Hope|hope]]!’
 
-That same day at noon, an old gentleman alighted from a hackney-coach at
+That same day at [[Noon|noon]], an old gentleman alighted from a hackney-coach at
 the post-office, and, giving his name, inquired for a letter addressed
 to himself, and directed to be left till called for. It had been lying
 there some days. The superscription was in Mr Pecksniff’s hand, and it
@@ -79,16 +79,16 @@ Though the face, and form, and gait of this old man, and even his
 grip of the stout stick on which he leaned, were all expressive of a
 resolution not easily shaken, and a purpose (it matters little whether
 right or wrong, just now) such as in other days might have survived
-the rack, and had its strongest life in weakest death; still there were
-grains of hesitation in his mind, which made him now avoid the house he
+the rack, and had its strongest life in weakest [[Death|death]]; still there were
+grains of hesitation in his mind, which made him now avoid the [[house]] he
 sought, and loiter to and fro in a gleam of sunlight, that brightened
 the little churchyard hard by. There may have been, in the presence of
-those idle heaps of dust among the busiest stir of life, something to
+those idle heaps of [[Dust|dust]] among the busiest stir of life, something to
 increase his wavering; but there he walked, awakening the echoes as he
-paced up and down, until the church clock, striking the quarters for
-the second time since he had been there, roused him from his meditation.
+paced up and down, until the church [[Clock|clock]], striking the quarters for
+the second [[Time|time]] since he had been there, roused him from his meditation.
 Shaking off his incertitude as the air parted with the sound of the
-bells, he walked rapidly to the house, and knocked at the door.
+[[Bells|bells]], he walked rapidly to the [[house]], and knocked at the door.
 
 Mr Pecksniff was seated in the landlady’s little room, and his visitor
 found him reading--by an accident; he apologised for it--an excellent
@@ -97,7 +97,7 @@ another accident, for which he also apologised. Indeed he said, he
 had given his visitor up, and was about to partake of that simple
 refreshment with his children, when he knocked at the door.
 
-‘Your daughters are well?’ said old Martin, laying down his hat and
+‘Your daughters are [[Well|well]]?’ said old Martin, laying down his hat and
 stick.
 
 Mr Pecksniff endeavoured to conceal his agitation as a father when he
@@ -111,16 +111,16 @@ being air-tight. This latter imperfection, he might perhaps venture to
 add, was not uncommonly to be met with in old houses.
 
 The old man sat down in the easy-chair, and after a few moments’
-silence, said:
+[[Silence|silence]], said:
 
-‘In the first place, let me thank you for coming to London so promptly,
+‘In the first place, let me thank you for coming to [[London]] so promptly,
 at my almost unexplained request; I need scarcely add, at my cost.’
 
 ‘At YOUR cost, my good sir!’ cried Mr Pecksniff, in a tone of great
 surprise.
 
 ‘It is not,’ said Martin, waving his hand impatiently, ‘my habit to put
-my--well! my relatives--to any personal expense to gratify my caprices.’
+my--[[Well|well]]! my relatives--to any personal expense to gratify my caprices.’
 
 ‘Caprices, my good sir!’ cried Mr Pecksniff
 
@@ -137,7 +137,7 @@ am not a capricious man. I never was.’
 ‘Most assuredly not,’ said Mr Pecksniff.
 
 ‘How do you know?’ returned the other quickly. ‘You are to begin to know
-it now. You are to test and prove it, in time to come. You and yours are
+it now. You are to test and prove it, in [[Time|time]] to come. You and yours are
 to find that I can be constant, and am not to be diverted from my end.
 Do you hear?’
 
@@ -164,12 +164,12 @@ those grey hairs!’
 ‘Regrets,’ said Martin, ‘are the natural property of grey hairs; and
 I enjoy, in common with all other men, at least my share of such
 inheritance. And so enough of that. I regret having been severed from
-you so long. If I had known you sooner, and sooner used you as you well
+you so long. If I had known you sooner, and sooner used you as you [[Well|well]]
 deserve, I might have been a happier man.’
 
 Mr Pecksniff looked up to the ceiling, and clasped his hands in rapture.
 
-‘Your daughters,’ said Martin, after a short silence. ‘I don’t know
+‘Your daughters,’ said Martin, after a short [[Silence|silence]]. ‘I don’t know
 them. Are they like you?’
 
 ‘In the nose of my eldest and the chin of my youngest, Mr Chuzzlewit,’
@@ -186,14 +186,14 @@ have done my best, sir.’
 They were, very near; for they had in fact been listening at the
 door from the beginning of this conversation until now, when they
 precipitately retired. Having wiped the signs of weakness from his eyes,
-and so given them time to get upstairs, Mr Pecksniff opened the door,
+and so given them [[Time|time]] to get upstairs, Mr Pecksniff opened the door,
 and mildly cried in the passage,
 
 ‘My own darlings, where are you?’
 
-‘Here, my dear pa!’ replied the distant voice of Charity.
+‘Here, my dear pa!’ replied the distant voice of [[Charity]].
 
-‘Come down into the back parlour, if you please, my love,’ said Mr
+‘Come down into the back parlour, if you please, my [[Love|love]],’ said Mr
 Pecksniff, ‘and bring your sister with you.’
 
 ‘Yes, my dear pa,’ cried Merry; and down they came directly (being all
@@ -209,7 +209,7 @@ fell upon the old man’s neck. And when they had embraced him with
 such fervour of affection that no words can describe it, they grouped
 themselves about his chair, and hung over him, as figuring to themselves
 no earthly joy like that of ministering to his wants, and crowding into
-the remainder of his life, the love they would have diffused over their
+the remainder of his life, the [[Love|love]] they would have diffused over their
 whole existence, from infancy, if he--dear obdurate!--had but consented
 to receive the precious offering.
 
@@ -219,7 +219,7 @@ Pecksniff, several times.
 ‘What,’ he asked of Mr Pecksniff, happening to catch his eye in its
 descent; for until now it had been piously upraised, with something of
 that expression which the poetry of ages has attributed to a domestic
-bird, when breathing its last amid the ravages of an electric storm:
+bird, when breathing its last amid the ravages of an electric [[Storm|storm]]:
 ‘What are their names?’
 
 Mr Pecksniff told him, and added, rather hastily; his caluminators
@@ -230,7 +230,7 @@ but affection may prize them.’
 
 ‘Affection,’ said the old man, ‘will expend itself on the living
 originals. Do not trouble yourselves, my girls, I shall not so easily
-forget you, Charity and Mercy, as to need such tokens of remembrance.
+forget you, [[Charity]] and [[Mercy]], as to need such tokens of remembrance.
 Cousin!’
 
 ‘Sir!’ said Mr Pecksniff, with alacrity.
@@ -238,16 +238,16 @@ Cousin!’
 ‘Do you never sit down?’
 
 ‘Why--yes--occasionally, sir,’ said Mr Pecksniff, who had been standing
-all this time.
+all this [[Time|time]].
 
 ‘Will you do so now?’
 
 ‘Can you ask me,’ returned Mr Pecksniff, slipping into a chair
-immediately, ‘whether I will do anything that you desire?’
+immediately, ‘whether I will do anything that you [[Desire|desire]]?’
 
-‘You talk confidently,’ said Martin, ‘and you mean well; but I fear you
+‘You talk confidently,’ said Martin, ‘and you mean [[Well|well]]; but I [[Fear|fear]] you
 don’t know what an old man’s humours are. You don’t know what it is to
-be required to court his likings and dislikings; to adapt yourself to
+be required to [[Court|court]] his likings and dislikings; to adapt yourself to
 his prejudices; to do his bidding, be it what it may; to bear with his
 distrusts and jealousies; and always still be zealous in his service.
 When I remember how numerous these failings are in me, and judge of
@@ -265,16 +265,16 @@ every one about you in the worst light!’
 ‘We always said, my girls and I,’ cried Mr Pecksniff with increasing
 obsequiousness, ‘that while we mourned the heaviness of our misfortune
 in being confounded with the base and mercenary, still we could not
-wonder at it. My dears, you remember?’
+[[Wonder|wonder]] at it. My dears, you remember?’
 
 Oh vividly! A thousand times!
 
 ‘We uttered no complaint,’ said Mr Pecksniff. ‘Occasionally we had the
-presumption to console ourselves with the remark that Truth would in
+presumption to console ourselves with the remark that [[Truth]] would in
 the end prevail, and Virtue be triumphant; but not often. My loves, you
 recollect?’
 
-Recollect! Could he doubt it! Dearest pa, what strange unnecessary
+Recollect! Could he [[Doubt|doubt]] it! Dearest pa, what strange unnecessary
 questions!
 
 ‘And when I saw you,’ resumed Mr Pecksniff, with still greater
@@ -283,13 +283,13 @@ of dwelling, I said you were mistaken in me, my dear sir; that was all,
 I think?’
 
 ‘No--not all,’ said Martin, who had been sitting with his hand upon his
-brow for some time past, and now looked up again; ‘you said much more,
+brow for some [[Time|time]] past, and now looked up again; ‘you said much more,
 which, added to other circumstances that have come to my knowledge,
 opened my eyes. You spoke to me, disinterestedly, on behalf of--I
 needn’t name him. You know whom I mean.’
 
 Trouble was expressed in Mr Pecksniff’s visage, as he pressed his hot
-hands together, and replied, with humility, ‘Quite disinterestedly, sir,
+hands together, and replied, with [[Humility|humility]], ‘Quite disinterestedly, sir,
 I assure you.’
 
 ‘I know it,’ said old Martin, in his quiet way. ‘I am sure of it. I said
@@ -303,7 +303,7 @@ place, I know what passed behind my back, you see!’
 ‘You amaze me, sir!’ cried Mr Pecksniff; which was true enough.
 
 ‘My knowledge of your proceedings,’ said the old man, does not stop at
-this. You have a new inmate in your house.’
+this. You have a new inmate in your [[house]].’
 
 ‘Yes, sir,’ rejoined the architect, ‘I have.’
 
@@ -314,14 +314,14 @@ this. You have a new inmate in your house.’
 ‘For any shelter he can find,’ the old man answered. ‘He has deceived
 you.’
 
-‘I hope not’ said Mr Pecksniff, eagerly. ‘I trust not. I have been
-extremely well disposed towards that young man. I hope it cannot be
+‘I [[Hope|hope]] not’ said Mr Pecksniff, eagerly. ‘I trust not. I have been
+extremely [[Well|well]] disposed towards that young man. I [[Hope|hope]] it cannot be
 shown that he has forfeited all claim to my protection. Deceit--deceit,
 my dear Mr Chuzzlewit, would be final. I should hold myself bound, on
 proof of deceit, to renounce him instantly.’
 
 The old man glanced at both his fair supporters, but especially at
-Miss Mercy, whom, indeed, he looked full in the face, with a greater
+Miss [[Mercy]], whom, indeed, he looked full in the face, with a greater
 demonstration of interest than had yet appeared in his features. His
 gaze again encountered Mr Pecksniff, as he said, composedly:
 
@@ -334,14 +334,14 @@ tremendous!’
 ‘You know the fact?’ repeated Martin
 
 ‘Surely not without his grandfather’s consent and approbation my dear
-sir!’ cried Mr Pecksniff. ‘Don’t tell me that. For the honour of human
-nature, say you’re not about to tell me that!’
+sir!’ cried Mr Pecksniff. ‘Don’t tell me that. For the [[Honour|honour]] of human
+[[Nature|nature]], say you’re not about to tell me that!’
 
 ‘I thought he had suppressed it,’ said the old man.
 
 The indignation felt by Mr Pecksniff at this terrible disclosure, was
 only to be equalled by the kindling anger of his daughters. What! Had
-they taken to their hearth and home a secretly contracted serpent; a
+they taken to their hearth and [[Home|home]] a secretly contracted serpent; a
 crocodile, who had made a furtive offer of his hand; an imposition on
 society; a bankrupt bachelor with no effects, trading with the spinster
 world on false pretences! And oh, to think that he should have disobeyed
@@ -351,7 +351,7 @@ nothing at all of mother--horrible, horrible! To turn him out with
 ignominy would be treatment much too good. Was there nothing else that
 could be done to him? Had he incurred no legal pains and penalties?
 Could it be that the statutes of the land were so remiss as to have
-affixed no punishment to such delinquency? Monster; how basely had they
+affixed no punishment to such delinquency? [[Monster]]; how basely had they
 been deceived!
 
 ‘I am glad to find you second me so warmly,’ said the old man holding up
@@ -360,29 +360,29 @@ is a pleasure to me to find you so full of zeal. We will consider that
 topic as disposed of.’
 
 ‘No, my dear sir,’ cried Mr Pecksniff, ‘not as disposed of, until I have
-purged my house of this pollution.’
+purged my [[house]] of this pollution.’
 
-‘That will follow,’ said the old man, ‘in its own time. I look upon that
+‘That will follow,’ said the old man, ‘in its own [[Time|time]]. I look upon that
 as done.’
 
 ‘You are very good, sir,’ answered Mr Pecksniff, shaking his hand. ‘You
-do me honour. You MAY look upon it as done, I assure you.’
+do me [[Honour|honour]]. You MAY look upon it as done, I assure you.’
 
-‘There is another topic,’ said Martin, ‘on which I hope you will assist
+‘There is another topic,’ said Martin, ‘on which I [[Hope|hope]] you will assist
 me. You remember Mary, cousin?’
 
 ‘The young lady that I mentioned to you, my dears, as having interested
 me so very much,’ remarked Mr Pecksniff. ‘Excuse my interrupting you,
 sir.’
 
-‘I told you her history?’ said the old man.
+‘I told you her [[history]]?’ said the old man.
 
 ‘Which I also mentioned, you will recollect, my dears,’ cried Mr
 Pecksniff. ‘Silly girls, Mr Chuzzlewit--quite moved by it, they were!’
 
 ‘Why, look now!’ said Martin, evidently pleased; ‘I feared I should have
 had to urge her case upon you, and ask you to regard her favourably for
-my sake. But I find you have no jealousies! Well! You have no cause
+my sake. But I find you have no jealousies! [[Well]]! You have no cause
 for any, to be sure. She has nothing to gain from me, my dears, and she
 knows it.’
 
@@ -394,15 +394,15 @@ said the old man thoughfully; ‘but it is too late to think of that. You
 would receive her courteously, young ladies, and be kind to her, if need
 were?’
 
-Where was the orphan whom the two Miss Pecksniffs would not have
-cherished in their sisterly bosom! But when that orphan was commended to
-their care by one on whom the dammed-up love of years was gushing forth,
+Where was the [[Orphan|orphan]] whom the two Miss Pecksniffs would not have
+cherished in their sisterly bosom! But when that [[Orphan|orphan]] was commended to
+their care by one on whom the dammed-up [[Love|love]] of years was gushing forth,
 what exhaustless stores of pure affection yearned to expend themselves
 upon her!
 
 An interval ensued, during which Mr Chuzzlewit, in an absent frame of
 mind, sat gazing at the ground, without uttering a word; and as it was
-plain that he had no desire to be interrupted in his meditations, Mr
+plain that he had no [[Desire|desire]] to be interrupted in his meditations, Mr
 Pecksniff and his daughters were profoundly silent also. During the
 whole of the foregoing dialogue, he had borne his part with a cold,
 passionless promptitude, as though he had learned and painfully
@@ -418,9 +418,9 @@ his thoughtful mood:
 
 ‘Of this new understanding between us.’
 
-Mr Pecksniff looked benevolently sagacious, and at the same time far
+Mr Pecksniff looked benevolently sagacious, and at the same [[Time|time]] far
 above all earthly misconstruction, as he shook his head, and observed
-that a great many things would be said of it, no doubt.
+that a great many things would be said of it, no [[Doubt|doubt]].
 
 ‘A great many,’ rejoined the old man. ‘Some will say that I dote in my
 old age; that illness has shaken me; that I have lost all strength of
@@ -438,7 +438,7 @@ world we live in. You can bear that?’
 Mr Pecksniff made reply that this would be also very hard to bear, as
 reflecting, in some degree, on the discernment of Mr Chuzzlewit. Still
 he had a modest confidence that he could sustain the calumny, with the
-help of a good conscience, and that gentleman’s friendship.
+help of a good [[Conscience|conscience]], and that gentleman’s [[Friendship|friendship]].
 
 ‘With the great mass of slanderers,’ said old Martin, leaning back in
 his chair, ‘the tale, as I clearly foresee, will run thus: That to mark
@@ -446,9 +446,9 @@ my contempt for the rabble whom I despised, I chose from among them the
 very worst, and made him do my will, and pampered and enriched him at
 the cost of all the rest. That, after casting about for the means of a
 punishment which should rankle in the bosoms of these kites the most,
-and strike into their gall, I devised this scheme at a time when the
-last link in the chain of grateful love and duty, that held me to
-my race, was roughly snapped asunder; roughly, for I loved him well;
+and strike into their gall, I devised this scheme at a [[Time|time]] when the
+last link in the chain of grateful [[Love|love]] and duty, that held me to
+my race, was roughly snapped asunder; roughly, for I loved him [[Well|well]];
 roughly, for I had ever put my trust in his affection; roughly, for that
 he broke it when I loved him most--God help me!--and he without a pang
 could throw me off, while I clung about his heart! Now,’ said the old
@@ -459,22 +459,22 @@ with having it to bear, and put no trust in being set right by me.’
 ‘My dear Mr Chuzzlewit,’ cried Pecksniff in an ecstasy, ‘for such a man
 as you have shown yourself to be this day; for a man so injured, yet so
 very humane; for a man so--I am at a loss what precise term to use--yet
-at the same time so remarkably--I don’t know how to express my meaning;
-for such a man as I have described, I hope it is no presumption to say
+at the same [[Time|time]] so remarkably--I don’t know how to express my meaning;
+for such a man as I have described, I [[Hope|hope]] it is no presumption to say
 that I, and I am sure I may add my children also (my dears, we perfectly
 agree in this, I think?), would bear anything whatever!’
 
 ‘Enough,’ said Martin. ‘You can charge no consequences on me. When do
-you retire home?’
+you retire [[Home|home]]?’
 
-‘Whenever you please, my dear sir. To-night if you desire it.’
+‘Whenever you please, my dear sir. To-[[Night|night]] if you [[Desire|desire]] it.’
 
-‘I desire nothing,’ returned the old man, ‘that is unreasonable. Such a
+‘I [[Desire|desire]] nothing,’ returned the old man, ‘that is unreasonable. Such a
 request would be. Will you be ready to return at the end of this week?’
 
-The very time of all others that Mr Pecksniff would have suggested if
+The very [[Time|time]] of all others that Mr Pecksniff would have suggested if
 it had been left to him to make his own choice. As to his daughters--the
-words, ‘Let us be at home on Saturday, dear pa,’ were actually upon
+words, ‘Let us be at [[Home|home]] on Saturday, dear pa,’ were actually upon
 their lips.
 
 ‘Your expenses, cousin,’ said Martin, taking a folded slip of paper from
@@ -483,8 +483,8 @@ balance that I owe you, when we next meet. It would be useless if I told
 you where I live just now; indeed, I have no fixed abode. When I have,
 you shall know it. You and your daughters may expect to see me
 before long; in the meantime I need not tell you that we keep our own
-confidence. What you will do when you get home is understood between us.
-Give me no account of it at any time; and never refer to it in any way.
+confidence. What you will do when you get [[Home|home]] is understood between us.
+Give me no account of it at any [[Time|time]]; and never refer to it in any way.
 I ask that as a favour. I am commonly a man of few words, cousin; and
 all that need be said just now is said, I think.’
 
@@ -500,8 +500,8 @@ woman as my eldest, is she not, sir?’
 
 ‘Which IS the youngest?’ asked the old man.
 
-‘Mercy, by five years,’ said Mr Pecksniff. ‘We sometimes venture to
-consider her rather a fine figure, sir. Speaking as an artist, I
+‘[[Mercy]], by five years,’ said Mr Pecksniff. ‘We sometimes venture to
+consider her rather a fine figure, sir. Speaking as an [[Artist|artist]], I
 may perhaps be permitted to suggest that its outline is graceful and
 correct. I am naturally,’ said Mr Pecksniff, drying his hands upon his
 handkerchief, and looking anxiously in his cousin’s face at almost every
@@ -513,11 +513,11 @@ constructed on the best models.’
 ‘Dear me!’ said Mr Pecksniff. ‘That is quite remarkable. You have
 defined her character, my dear sir, as correctly as if you had known her
 from her birth. She HAS a lively disposition. I assure you, my dear sir,
-that in our unpretending home her gaiety is delightful.’
+that in our unpretending [[Home|home]] her gaiety is delightful.’
 
-‘No doubt,’ returned the old man.
+‘No [[Doubt|doubt]],’ returned the old man.
 
-‘Charity, upon the other hand,’ said Mr Pecksniff, ‘is remarkable for
+‘[[Charity]], upon the other hand,’ said Mr Pecksniff, ‘is remarkable for
 strong sense, and for rather a deep tone of sentiment, if the partiality
 of a father may be excused in saying so. A wonderful affection between
 them, my dear sir! Allow me to drink your health. Bless you!’
@@ -542,11 +542,11 @@ father and daughters, who stood there kissing their hands and beaming
 with affection until he disappeared; though, by the way, he never once
 looked back, after he had crossed the threshold.
 
-When they returned into the house, and were again alone in Mrs Todgers’s
+When they returned into the [[house]], and were again [[Alone|alone]] in Mrs Todgers’s
 room, the two young ladies exhibited an unusual amount of gaiety;
 insomuch that they clapped their hands, and laughed, and looked with
 roguish aspects and a bantering air upon their dear papa. This conduct
-was so very unaccountable, that Mr Pecksniff (being singularly grave
+was so very unaccountable, that Mr Pecksniff (being singularly [[Grave|grave]]
 himself) could scarcely choose but ask them what it meant; and took them
 to task, in his gentle manner, for yielding to such light emotions.
 
@@ -554,11 +554,11 @@ to task, in his gentle manner, for yielding to such light emotions.
 most remote,’ he said, ‘I should not reprove you. But when you can have
 none whatever--oh, really, really!’
 
-This admonition had so little effect on Mercy, that she was obliged to
+This admonition had so little effect on [[Mercy]], that she was obliged to
 hold her handkerchief before her rosy lips, and to throw herself back in
 her chair, with every demonstration of extreme amusement; which want
 of duty so offended Mr Pecksniff that he reproved her in set terms,
-and gave her his parental advice to correct herself in solitude and
+and gave her his parental advice to correct herself in [[Solitude|solitude]] and
 contemplation. But at that juncture they were disturbed by the sound of
 voices in dispute; and as it proceeded from the next room, the subject
 matter of the altercation quickly reached their ears.
@@ -571,7 +571,7 @@ suppose I do.’
 ‘I am quite certain you don’t, sir,’ replied Mrs Todgers. ‘You have
 too independent a spirit, I know, to yield to anybody. And quite right.
 There is no reason why you should give way to any gentleman. Everybody
-must be well aware of that.’
+must be [[Well|well]] aware of that.’
 
 ‘I should think no more of admitting daylight into the fellow,’ said the
 youngest gentleman, in a desperate voice, ‘than if he was a bulldog.’
@@ -586,13 +586,13 @@ No man shall step between me and the current of my vengeance. I know
 a Cove--’ he used that familiar epithet in his agitation but corrected
 himself by adding, ‘a gentleman of property, I mean--who practices with
 a pair of pistols (fellows too) of his own. If I am driven to borrow
-‘em, and to send at friend to Jinkins, a tragedy will get into the
+‘em, and to send at friend to Jinkins, a [[Tragedy|tragedy]] will get into the
 papers. That’s all.’
 
 Again Mrs Todgers moaned.
 
 ‘I have borne this long enough,’ said the youngest gentleman but now
-my soul rebels against it, and I won’t stand it any longer. I left home
+my [[Soul|soul]] rebels against it, and I won’t stand it any longer. I left [[Home|home]]
 originally, because I had that within me which wouldn’t be domineered
 over by a sister; and do you think I’m going to be put down by HIM? No.’
 
@@ -613,31 +613,31 @@ he never told it to Jinkins, but always to Mrs Todgers.
 
 ‘However,’ he said, ‘these are not proper subjects for ladies’ ears.
 All I’ve got to say to you, Mrs Todgers, is, a week’s notice from next
-Saturday. The same house can’t contain that miscreant and me any longer.
-If we get over the intermediate time without bloodshed, you may think
+Saturday. The same [[house]] can’t contain that miscreant and me any longer.
+If we get over the intermediate [[Time|time]] without bloodshed, you may think
 yourself pretty fortunate. I don’t myself expect we shall.’
 
 ‘Dear, dear!’ cried Mrs Todgers, ‘what would I have given to have
-prevented this? To lose you, sir, would be like losing the house’s
+prevented this? To lose you, sir, would be like losing the [[house]]’s
 right-hand. So popular as you are among the gentlemen; so generally
-looked up to; and so much liked! I do hope you’ll think better of it; if
+looked up to; and so much liked! I do [[Hope|hope]] you’ll think better of it; if
 on nobody else’s account, on mine.’
 
 ‘There’s Jinkins,’ said the youngest gentleman, moodily. ‘Your
 favourite. He’ll console you, and the gentlemen too, for the loss of
-twenty such as me. I’m not understood in this house. I never have been.’
+twenty such as me. I’m not understood in this [[house]]. I never have been.’
 
 ‘Don’t run away with that opinion, sir!’ cried Mrs Todgers, with a show
 of honest indignation. ‘Don’t make such a charge as that against the
 establishment, I must beg of you. It is not so bad as that comes to,
 sir. Make any remark you please against the gentlemen, or against me;
-but don’t say you’re not understood in this house.’
+but don’t say you’re not understood in this [[house]].’
 
 ‘I’m not treated as if I was,’ said the youngest gentleman.
 
 ‘There you make a great mistake, sir,’ returned Mrs Todgers, in the same
 strain. ‘As many of the gentlemen and I have often said, you are too
-sensitive. That’s where it is. You are of too susceptible a nature; it’s
+sensitive. That’s where it is. You are of too susceptible a [[Nature|nature]]; it’s
 in your spirit.’
 
 The young gentleman coughed.
@@ -655,14 +655,14 @@ The young gentleman was so much mollified by these and similar speeches
 on the part of Mrs Todgers, that he and that lady gradually changed
 positions; so that she became the injured party, and he was understood
 to be the injurer; but in a complimentary, not in an offensive sense;
-his cruel conduct being attributable to his exalted nature, and to that
-alone. So, in the end, the young gentleman withdrew his notice, and
+his cruel conduct being attributable to his exalted [[Nature|nature]], and to that
+[[Alone|alone]]. So, in the end, the young gentleman withdrew his notice, and
 assured Mrs Todgers of his unalterable regard; and having done so, went
 back to business.
 
 ‘Goodness me, Miss Pecksniffs!’ cried that lady, as she came into the
 back room, and sat wearily down, with her basket on her knees, and her
-hands folded upon it, ‘what a trial of temper it is to keep a house like
+hands folded upon it, ‘what a trial of temper it is to keep a [[house]] like
 this! You must have heard most of what has just passed. Now did you ever
 hear the like?’
 
@@ -692,12 +692,12 @@ said Mrs Todgers.
 ‘Taking one week with another; as near that as possible,’ said Mrs
 Todgers.
 
-Mr Pecksniff rose from his chair, folded his arms, looked at her, and
+Mr Pecksniff [[Rose|rose]] from his chair, folded his arms, looked at her, and
 shook his head.
 
 ‘And do you mean to say, ma’am--is it possible, Mrs Todgers--that for
 such a miserable consideration as eighteen shillings a week, a female of
-your understanding can so far demean herself as to wear a double face,
+your understanding can so far demean herself as to wear a [[Double|double]] face,
 even for an instant?’
 
 ‘I am forced to keep things on the square if I can, sir,’ faltered
@@ -707,7 +707,7 @@ together, if possible, Mr Pecksniff. The profit is very small.’
 ‘The profit!’ cried that gentleman, laying great stress upon the word.
 ‘The profit, Mrs Todgers! You amaze me!’
 
-He was so severe, that Mrs Todgers shed tears.
+He was so severe, that Mrs Todgers shed [[Tears|tears]].
 
 ‘The profit!’ repeated Mr pecksniff. ‘The profit of dissimulation! To
 worship the golden calf of Baal, for eighteen shillings a week!’
@@ -716,7 +716,7 @@ worship the golden calf of Baal, for eighteen shillings a week!’
 Mrs Todgers, taking out her handkerchief.
 
 ‘Oh Calf, Calf!’ cried Mr Pecksniff mournfully. ‘Oh, Baal, Baal! oh my
-friend, Mrs Todgers! To barter away that precious jewel, self-esteem,
+friend, Mrs Todgers! To barter away that precious [[Jewel|jewel]], [[Self|self]]-esteem,
 and cringe to any mortal creature--for eighteen shillings a week!’
 
 He was so subdued and overcome by the reflection, that he immediately
@@ -728,6 +728,6 @@ with a consciousness of the moral homily he had read to Mrs Todgers.
 Eighteen shillings a week! Just, most just, thy censure, upright
 Pecksniff! Had it been for the sake of a ribbon, star, or garter;
 sleeves of lawn, a great man’s smile, a seat in parliament, a tap upon
-the shoulder from a courtly sword; a place, a party, or a thriving lie,
+the shoulder from a courtly [[Sword|sword]]; a place, a party, or a thriving lie,
 or eighteen thousand pounds, or even eighteen hundred;--but to worship
 the golden calf for eighteen shillings a week! oh pitiful, pitiful!

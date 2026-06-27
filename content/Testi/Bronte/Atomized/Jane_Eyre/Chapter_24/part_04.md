@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 24 (part 4)"
+title: "[[Jane Eyre]] — Chapter 24 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-“Well, never mind that now,” I interrupted impatiently; “it is enough
+“[[Well]], never mind that now,” I interrupted impatiently; “it is enough
 that all was right.”
 
-“I hope all will be right in the end,” she said: “but believe me, you
+“I [[Hope|hope]] all will be right in the end,” she said: “but believe me, you
 cannot be too careful. Try and keep Mr. Rochester at a distance:
-distrust yourself as well as him. Gentlemen in his station are not
+distrust yourself as [[Well|well]] as him. Gentlemen in his station are not
 accustomed to marry their governesses.”
 
 I was growing truly irritated: happily, Adèle ran in.
@@ -53,10 +53,10 @@ really wish the bairn to go? Will it annoy you if she is left behind?”
 
 “I would far rather she went, sir.”
 
-“Then off for your bonnet, and back like a flash of lightning!” cried
+“Then off for your bonnet, and back like a flash of [[Lightning|lightning]]!” cried
 he to Adèle.
 
-She obeyed him with what speed she might.
+She obeyed him with what [[Speed|speed]] she might.
 
 “After all, a single morning’s interruption will not matter much,” said
 he, “when I mean shortly to claim you—your thoughts, conversation, and
@@ -79,18 +79,18 @@ Adèle heard him, and asked if she was to go to school “sans
 mademoiselle?”
 
 “Yes,” he replied, “absolutely sans mademoiselle; for I am to take
-mademoiselle to the moon, and there I shall seek a cave in one of the
+mademoiselle to the [[Moon|moon]], and there I shall seek a [[Cave|cave]] in one of the
 white valleys among the volcano-tops, and mademoiselle shall live with
 me there, and only me.”
 
 “She will have nothing to eat: you will starve her,” observed Adèle.
 
-“I shall gather manna for her morning and night: the plains and
-hillsides in the moon are bleached with manna, Adèle.”
+“I shall gather manna for her morning and [[Night|night]]: the plains and
+hillsides in the [[Moon|moon]] are bleached with manna, Adèle.”
 
-“She will want to warm herself: what will she do for a fire?”
+“She will want to warm herself: what will she do for a [[Fire|fire]]?”
 
-“Fire rises out of the lunar mountains: when she is cold, I’ll carry
+“[[Fire]] rises out of the lunar [[Mountains|mountains]]: when she is cold, I’ll carry
 her up to a peak, and lay her down on the edge of a crater.”
 
 “Oh, qu’elle y sera mal—peu comfortable! And her clothes, they will
@@ -101,18 +101,18 @@ do, Adèle? Cudgel your brains for an expedient. How would a white or a
 pink cloud answer for a gown, do you think? And one could cut a pretty
 enough scarf out of a rainbow.”
 
-“She is far better as she is,” concluded Adèle, after musing some time:
-“besides, she would get tired of living with only you in the moon. If I
+“She is far better as she is,” concluded Adèle, after musing some [[Time|time]]:
+“besides, she would get tired of living with only you in the [[Moon|moon]]. If I
 were mademoiselle, I would never consent to go with you.”
 
 “She has consented: she has pledged her word.”
 
-“But you can’t get her there; there is no road to the moon: it is all
+“But you can’t get her there; there is no [[Road|road]] to the [[Moon|moon]]: it is all
 air; and neither you nor she can fly.”
 
 “Adèle, look at that field.” We were now outside Thornfield gates, and
-bowling lightly along the smooth road to Millcote, where the dust was
-well laid by the thunderstorm, and, where the low hedges and lofty
+bowling lightly along the smooth [[Road|road]] to Millcote, where the [[Dust|dust]] was
+[[Well|well]] laid by the thunderstorm, and, where the low hedges and lofty
 timber trees on each side glistened green and rain-refreshed.
 
 “In that field, Adèle, I was walking late one evening about a fortnight
@@ -130,8 +130,8 @@ this effect—
 
 “It was a fairy, and come from Elf-land, it said; and its errand was to
 make me happy: I must go with it out of the common world to a lonely
-place—such as the moon, for instance—and it nodded its head towards her
-horn, rising over Hay-hill: it told me of the alabaster cave and silver
+place—such as the [[Moon|moon]], for instance—and it nodded its head towards her
+horn, rising over Hay-[[Hill|hill]]: it told me of the alabaster [[Cave|cave]] and silver
 vale where we might live. I said I should like to go; but reminded it,
 as you did me, that I had no wings to fly.
 
@@ -139,12 +139,12 @@ as you did me, that I had no wings to fly.
 will remove all difficulties;’ and she held out a pretty gold ring.
 ‘Put it,’ she said, ‘on the fourth finger of my left hand, and I am
 yours, and you are mine; and we shall leave earth, and make our own
-heaven yonder.’ She nodded again at the moon. The ring, Adèle, is in my
+heaven yonder.’ She nodded again at the [[Moon|moon]]. The ring, Adèle, is in my
 breeches-pocket, under the disguise of a sovereign: but I mean soon to
 change it to a ring again.”
 
 “But what has mademoiselle to do with it? I don’t care for the fairy:
-you said it was mademoiselle you would take to the moon?”
+you said it was mademoiselle you would take to the [[Moon|moon]]?”
 
 “Mademoiselle is a fairy,” he said, whispering mysteriously. Whereupon
 I told her not to mind his badinage; and she, on her part, evinced a
@@ -152,4 +152,4 @@ fund of genuine French scepticism: denominating Mr. Rochester “un vrai
 menteur,” and assuring him that she made no account whatever of his
 “contes de fée,” and that “du reste, il n’y avait pas de fées, et quand
 même il y en avait:” she was sure they would never appear to him, nor
-ever give him rings, or offer to live with him in the moon.
+ever give him rings, or offer to live with him in the [[Moon|moon]].

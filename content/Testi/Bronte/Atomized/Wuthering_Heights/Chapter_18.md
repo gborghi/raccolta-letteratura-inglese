@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 18"
+title: "[[Wuthering Heights]] — Chapter 18"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -19,41 +19,41 @@ CHAPTER XVIII
 
 The twelve years, continued Mrs. Dean, following that dismal period
 were the happiest of my life: my greatest troubles in their passage
-rose from our little lady’s trifling illnesses, which she had to
+[[Rose|rose]] from our little lady’s trifling illnesses, which she had to
 experience in common with all children, rich and poor. For the rest,
 after the first six months, she grew like a larch, and could walk and
-talk too, in her own way, before the heath blossomed a second time over
-Mrs. Linton’s dust. She was the most winning thing that ever brought
-sunshine into a desolate house: a real beauty in face, with the
+talk too, in her own way, before the heath blossomed a second [[Time|time]] over
+Mrs. Linton’s [[Dust|dust]]. She was the most winning thing that ever brought
+sunshine into a desolate [[house]]: a real [[Beauty|beauty]] in face, with the
 Earnshaws’ handsome dark eyes, but the Lintons’ fair skin and small
 features, and yellow curling hair. Her spirit was high, though not
 rough, and qualified by a heart sensitive and lively to excess in its
 affections. That capacity for intense attachments reminded me of her
 mother: still she did not resemble her: for she could be soft and mild
 as a dove, and she had a gentle voice and pensive expression: her anger
-was never furious; her love never fierce: it was deep and tender.
+was never furious; her [[Love|love]] never fierce: it was deep and tender.
 However, it must be acknowledged, she had faults to foil her gifts. A
 propensity to be saucy was one; and a perverse will, that indulged
-children invariably acquire, whether they be good tempered or cross. If
+children invariably acquire, whether they be good tempered or [[Cross|cross]]. If
 a servant chanced to vex her, it was always—“I shall tell papa!” And if
 he reproved her, even by a look, you would have thought it a
 heart-breaking business: I don’t believe he ever did speak a harsh word
-to her. He took her education entirely on himself, and made it an
+to her. He took her [[Education|education]] entirely on himself, and made it an
 amusement. Fortunately, curiosity and a quick intellect made her an apt
-scholar: she learned rapidly and eagerly, and did honour to his
+scholar: she learned rapidly and eagerly, and did [[Honour|honour]] to his
 teaching.
 
 Till she reached the age of thirteen she had not once been beyond the
 range of the park by herself. Mr. Linton would take her with him a mile
 or so outside, on rare occasions; but he trusted her to no one else.
 Gimmerton was an unsubstantial name in her ears; the chapel, the only
-building she had approached or entered, except her own home. Wuthering
-Heights and Mr. Heathcliff did not exist for her: she was a perfect
+building she had approached or entered, except her own [[Home|home]]. Wuthering
+Heights and Mr. [[Heathcliff]] did not exist for her: she was a perfect
 recluse; and, apparently, perfectly contented. Sometimes, indeed, while
-surveying the country from her nursery window, she would observe—
+surveying the country from her nursery [[Window|window]], she would observe—
 
 “Ellen, how long will it be before I can walk to the top of those
-hills? I wonder what lies on the other side—is it the sea?”
+hills? I [[Wonder|wonder]] what lies on the other side—is it the sea?”
 
 “No, Miss Cathy,” I would answer; “it is hills again, just like these.”
 
@@ -62,7 +62,7 @@ once asked.
 
 The abrupt descent of Penistone Crags particularly attracted her
 notice; especially when the setting sun shone on it and the topmost
-heights, and the whole extent of landscape besides lay in shadow. I
+heights, and the whole extent of landscape besides lay in [[Shadow|shadow]]. I
 explained that they were bare masses of stone, with hardly enough earth
 in their clefts to nourish a stunted tree.
 
@@ -70,9 +70,9 @@ in their clefts to nourish a stunted tree.
 pursued.
 
 “Because they are a great deal higher up than we are,” replied I; “you
-could not climb them, they are too high and steep. In winter the frost
-is always there before it comes to us; and deep into summer I have
-found snow under that black hollow on the north-east side!”
+could not climb them, they are too high and steep. In [[Winter|winter]] the [[Frost|frost]]
+is always there before it comes to us; and deep into [[Summer|summer]] I have
+found [[Snow|snow]] under that black hollow on the north-east side!”
 
 “Oh, you have been on them!” she cried gleefully. “Then I can go, too,
 when I am a woman. Has papa been, Ellen?”
@@ -83,19 +83,19 @@ are much nicer; and Thrushcross Park is the finest place in the world.”
 
 “But I know the park, and I don’t know those,” she murmured to herself.
 “And I should delight to look round me from the brow of that tallest
-point: my little pony Minny shall take me some time.”
+point: my little pony Minny shall take me some [[Time|time]].”
 
-One of the maids mentioning the Fairy Cave, quite turned her head with
-a desire to fulfil this project: she teased Mr. Linton about it; and he
-promised she should have the journey when she got older. But Miss
+One of the maids mentioning the Fairy [[Cave]], quite turned her head with
+a [[Desire|desire]] to fulfil this project: she teased Mr. Linton about it; and he
+promised she should have the [[Journey|journey]] when she got older. But Miss
 Catherine measured her age by months, and, “Now, am I old enough to go
-to Penistone Crags?” was the constant question in her mouth. The road
-thither wound close by Wuthering Heights. Edgar had not the heart to
-pass it; so she received as constantly the answer, “Not yet, love: not
+to Penistone Crags?” was the constant question in her mouth. The [[Road|road]]
+thither wound close by [[Wuthering Heights]]. [[Edgar]] had not the heart to
+pass it; so she received as constantly the answer, “Not yet, [[Love|love]]: not
 yet.”
 
-I said Mrs. Heathcliff lived above a dozen years after quitting her
-husband. Her family were of a delicate constitution: she and Edgar both
+I said Mrs. [[Heathcliff]] lived above a dozen years after quitting her
+husband. Her family were of a delicate constitution: she and [[Edgar]] both
 lacked the ruddy health that you will generally meet in these parts.
 What her last illness was, I am not certain: I conjecture, they died of
 the same thing, a kind of fever, slow at its commencement, but
@@ -103,11 +103,11 @@ incurable, and rapidly consuming life towards the close. She wrote to
 inform her brother of the probable conclusion of a four-months’
 indisposition under which she had suffered, and entreated him to come
 to her, if possible; for she had much to settle, and she wished to bid
-him adieu, and deliver Linton safely into his hands. Her hope was that
+him adieu, and deliver Linton safely into his hands. Her [[Hope|hope]] was that
 Linton might be left with him, as he had been with her: his father, she
-would fain convince herself, had no desire to assume the burden of his
-maintenance or education. My master hesitated not a moment in complying
-with her request: reluctant as he was to leave home at ordinary calls,
+would fain convince herself, had no [[Desire|desire]] to assume the burden of his
+maintenance or [[Education|education]]. My master hesitated not a moment in complying
+with her request: reluctant as he was to leave [[Home|home]] at ordinary calls,
 he flew to answer this; commending Catherine to my peculiar vigilance,
 in his absence, with reiterated orders that she must not wander out of
 the park, even under my escort: he did not calculate on her going
@@ -122,16 +122,16 @@ entertain herself. I used to send her on her travels round the
 grounds—now on foot, and now on a pony; indulging her with a patient
 audience of all her real and imaginary adventures when she returned.
 
-The summer shone in full prime; and she took such a taste for this
+The [[Summer|summer]] shone in full prime; and she took such a taste for this
 solitary rambling that she often contrived to remain out from breakfast
 till tea; and then the evenings were spent in recounting her fanciful
-tales. I did not fear her breaking bounds; because the gates were
-generally locked, and I thought she would scarcely venture forth alone,
+tales. I did not [[Fear|fear]] her breaking bounds; because the gates were
+generally locked, and I thought she would scarcely venture forth [[Alone|alone]],
 if they had stood wide open. Unluckily, my confidence proved misplaced.
-Catherine came to me, one morning, at eight o’clock, and said she was
-that day an Arabian merchant, going to cross the Desert with his
+Catherine came to me, one morning, at eight o’[[Clock|clock]], and said she was
+that day an Arabian merchant, going to [[Cross|cross]] the [[Desert]] with his
 caravan; and I must give her plenty of provision for herself and
-beasts: a horse, and three camels, personated by a large hound and a
+beasts: a [[Horse|horse]], and three camels, personated by a large hound and a
 couple of pointers. I got together good store of dainties, and slung
 them in a basket on one side of the saddle; and she sprang up as gay as
 a fairy, sheltered by her wide-brimmed hat and gauze veil from the July
@@ -152,55 +152,55 @@ is lowest, and galloped out of sight.”
 You may guess how I felt at hearing this news. It struck me directly
 she must have started for Penistone Crags. “What will become of her?” I
 ejaculated, pushing through a gap which the man was repairing, and
-making straight to the high-road. I walked as if for a wager, mile
+making straight to the high-[[Road|road]]. I walked as if for a wager, mile
 after mile, till a turn brought me in view of the Heights; but no
 Catherine could I detect, far or near. The Crags lie about a mile and a
-half beyond Mr. Heathcliff’s place, and that is four from the Grange,
-so I began to fear night would fall ere I could reach them. “And what
+half beyond Mr. [[Heathcliff]]’s place, and that is four from the Grange,
+so I began to [[Fear|fear]] [[Night|night]] would fall ere I could reach them. “And what
 if she should have slipped in clambering among them,” I reflected, “and
 been killed, or broken some of her bones?” My suspense was truly
 painful; and, at first, it gave me delightful relief to observe, in
 hurrying by the farmhouse, Charlie, the fiercest of the pointers, lying
-under a window, with swelled head and bleeding ear. I opened the wicket
+under a [[Window|window]], with swelled head and bleeding ear. I opened the wicket
 and ran to the door, knocking vehemently for admittance. A woman whom I
 knew, and who formerly lived at Gimmerton, answered: she had been
-servant there since the death of Mr. Earnshaw.
+servant there since the [[Death|death]] of Mr. Earnshaw.
 
 “Ah,” said she, “you are come a-seeking your little mistress! Don’t be
 frightened. She’s here safe: but I’m glad it isn’t the master.”
 
-“He is not at home then, is he?” I panted, quite breathless with quick
+“He is not at [[Home|home]] then, is he?” I panted, quite breathless with quick
 walking and alarm.
 
 “No, no,” she replied: “both he and Joseph are off, and I think they
 won’t return this hour or more. Step in and rest you a bit.”
 
-I entered, and beheld my stray lamb seated on the hearth, rocking
-herself in a little chair that had been her mother’s when a child. Her
-hat was hung against the wall, and she seemed perfectly at home,
+I entered, and beheld my stray [[Lamb|lamb]] seated on the hearth, rocking
+herself in a little chair that had been her mother’s when a [[Child|child]]. Her
+hat was hung against the wall, and she seemed perfectly at [[Home|home]],
 laughing and chattering, in the best spirits imaginable, to Hareton—now
 a great, strong lad of eighteen—who stared at her with considerable
 curiosity and astonishment: comprehending precious little of the fluent
 succession of remarks and questions which her tongue never ceased
 pouring forth.
 
-“Very well, Miss!” I exclaimed, concealing my joy under an angry
+“Very [[Well|well]], Miss!” I exclaimed, concealing my joy under an angry
 countenance. “This is your last ride, till papa comes back. I’ll not
 trust you over the threshold again, you naughty, naughty girl!”
 
 “Aha, Ellen!” she cried, gaily, jumping up and running to my side. “I
-shall have a pretty story to tell to-night; and so you’ve found me out.
+shall have a pretty story to tell to-[[Night|night]]; and so you’ve found me out.
 Have you ever been here in your life before?”
 
-“Put that hat on, and home at once,” said I. “I’m dreadfully grieved at
+“Put that hat on, and [[Home|home]] at once,” said I. “I’m dreadfully grieved at
 you, Miss Cathy: you’ve done extremely wrong! It’s no use pouting and
 crying: that won’t repay the trouble I’ve had, scouring the country
 after you. To think how Mr. Linton charged me to keep you in; and you
 stealing off so! It shows you are a cunning little fox, and nobody will
-put faith in you any more.”
+put [[Faith|faith]] in you any more.”
 
 “What have I done?” sobbed she, instantly checked. “Papa charged me
-nothing: he’ll not scold me, Ellen—he’s never cross, like you!”
+nothing: he’ll not scold me, Ellen—he’s never [[Cross|cross]], like you!”
 
 “Come, come!” I repeated. “I’ll tie the riband. Now, let us have no
 petulance. Oh, for shame! You thirteen years old, and such a baby!”
@@ -211,7 +211,7 @@ retreating to the chimney out of my reach.
 “Nay,” said the servant, “don’t be hard on the bonny lass, Mrs. Dean.
 We made her stop: she’d fain have ridden forwards, afeard you should be
 uneasy. Hareton offered to go with her, and I thought he should: it’s a
-wild road over the hills.”
+wild [[Road|road]] over the hills.”
 
 Hareton, during the discussion, stood with his hands in his pockets,
 too awkward to speak; though he looked as if he did not relish my
@@ -227,12 +227,12 @@ He’s bitten—and so is Charlie. I was going to tell you all about it;
 but you are in a bad temper, and don’t deserve to hear.”
 
 I picked up her hat, and approached to reinstate it; but perceiving
-that the people of the house took her part, she commenced capering
+that the people of the [[house]] took her part, she commenced capering
 round the room; and on my giving chase, ran like a mouse over and under
 and behind the furniture, rendering it ridiculous for me to pursue.
 Hareton and the woman laughed, and she joined them, and waxed more
-impertinent still; till I cried, in great irritation,—“Well, Miss
-Cathy, if you were aware whose house this is you’d be glad enough to
+impertinent still; till I cried, in great irritation,—“[[Well]], Miss
+Cathy, if you were aware whose [[house]] this is you’d be glad enough to
 get out.”
 
 “It’s _your_ father’s, isn’t it?” said she, turning to Hareton.
@@ -248,7 +248,7 @@ He coloured deeper, with a different feeling, muttered an oath, and
 turned away.
 
 “Who is his master?” continued the tiresome girl, appealing to me. “He
-talked about ‘our house,’ and ‘our folk.’ I thought he had been the
+talked about ‘our [[house]],’ and ‘our folk.’ I thought he had been the
 owner’s son. And he never said Miss: he should have done, shouldn’t he,
 if he’s a servant?”
 
@@ -256,17 +256,17 @@ Hareton grew black as a thunder-cloud at this childish speech. I
 silently shook my questioner, and at last succeeded in equipping her
 for departure.
 
-“Now, get my horse,” she said, addressing her unknown kinsman as she
+“Now, get my [[Horse|horse]],” she said, addressing her unknown kinsman as she
 would one of the stable-boys at the Grange. “And you may come with me.
 I want to see where the goblin-hunter rises in the marsh, and to hear
 about the _fairishes_, as you call them: but make haste! What’s the
-matter? Get my horse, I say.”
+matter? Get my [[Horse|horse]], I say.”
 
 “I’ll see thee damned before I be _thy_ servant!” growled the lad.
 
 “You’ll see me _what?_” asked Catherine in surprise.
 
-“Damned—thou saucy witch!” he replied.
+“Damned—thou saucy [[Witch|witch]]!” he replied.
 
 “There, Miss Cathy! you see you have got into pretty company,” I
 interposed. “Nice words to be used to a young lady! Pray don’t begin to
@@ -276,7 +276,7 @@ dispute with him. Come, let us seek for Minny ourselves, and begone.”
 speak so to me? Mustn’t he be made to do as I ask him? You wicked
 creature, I shall tell papa what you said.—Now, then!”
 
-Hareton did not appear to feel this threat; so the tears sprang into
+Hareton did not appear to feel this threat; so the [[Tears|tears]] sprang into
 her eyes with indignation. “You bring the pony,” she exclaimed, turning
 to the woman, “and let my dog free this moment!”
 
@@ -289,7 +289,7 @@ cousin: and I was never hired to serve you.”
 “Yes, indeed,” responded her reprover.
 
 “Oh, Ellen! don’t let them say such things,” she pursued in great
-trouble. “Papa is gone to fetch my cousin from London: my cousin is a
+trouble. “Papa is gone to fetch my cousin from [[London]]: my cousin is a
 gentleman’s son. That my—” she stopped, and wept outright; upset at the
 bare notion of relationship with such a clown.
 
@@ -302,8 +302,8 @@ grief from reflection, and flinging herself into my arms for refuge
 from the idea.
 
 I was much vexed at her and the servant for their mutual revelations;
-having no doubt of Linton’s approaching arrival, communicated by the
-former, being reported to Mr. Heathcliff; and feeling as confident that
+having no [[Doubt|doubt]] of Linton’s approaching arrival, communicated by the
+former, being reported to Mr. [[Heathcliff]]; and feeling as confident that
 Catherine’s first thought on her father’s return would be to seek an
 explanation of the latter’s assertion concerning her rude-bred kindred.
 Hareton, recovering from his disgust at being taken for a servant,
@@ -314,7 +314,7 @@ meant nought. Pausing in her lamentations, she surveyed him with a
 glance of awe and horror, then burst forth anew.
 
 I could scarcely refrain from smiling at this antipathy to the poor
-fellow; who was a well-made, athletic youth, good-looking in features,
+fellow; who was a [[Well|well]]-made, athletic youth, good-looking in features,
 and stout and healthy, but attired in garments befitting his daily
 occupations of working on the farm and lounging among the moors after
 rabbits and game. Still, I thought I could detect in his physiognomy a
@@ -322,44 +322,44 @@ mind owning better qualities than his father ever possessed. Good
 things lost amid a wilderness of weeds, to be sure, whose rankness far
 over-topped their neglected growth; yet, notwithstanding, evidence of a
 wealthy soil, that might yield luxuriant crops under other and
-favourable circumstances. Mr. Heathcliff, I believe, had not treated
-him physically ill; thanks to his fearless nature, which offered no
-temptation to that course of oppression: he had none of the timid
+favourable circumstances. Mr. [[Heathcliff]], I believe, had not treated
+him physically ill; thanks to his fearless [[Nature|nature]], which offered no
+[[Temptation|temptation]] to that course of oppression: he had none of the timid
 susceptibility that would have given zest to ill-treatment, in
-Heathcliff’s judgment. He appeared to have bent his malevolence on
+[[Heathcliff]]’s judgment. He appeared to have bent his malevolence on
 making him a brute: he was never taught to read or write; never rebuked
 for any bad habit which did not annoy his keeper; never led a single
 step towards virtue, or guarded by a single precept against vice. And
 from what I heard, Joseph contributed much to his deterioration, by a
 narrow-minded partiality which prompted him to flatter and pet him, as
 a boy, because he was the head of the old family. And as he had been in
-the habit of accusing Catherine Earnshaw and Heathcliff, when children,
+the habit of accusing [[Catherine Earnshaw]] and [[Heathcliff]], when children,
 of putting the master past his patience, and compelling him to seek
 solace in drink by what he termed their “offald ways,” so at present he
 laid the whole burden of Hareton’s faults on the shoulders of the
-usurper of his property. If the lad swore, he wouldn’t correct him: nor
+[[Usurper|usurper]] of his property. If the lad swore, he wouldn’t correct him: nor
 however culpably he behaved. It gave Joseph satisfaction, apparently,
 to watch him go the worst lengths: he allowed that the lad was ruined:
-that his soul was abandoned to perdition; but then he reflected that
-Heathcliff must answer for it. Hareton’s blood would be required at his
+that his [[Soul|soul]] was abandoned to perdition; but then he reflected that
+[[Heathcliff]] must answer for it. Hareton’s [[Blood|blood]] would be required at his
 hands; and there lay immense consolation in that thought. Joseph had
-instilled into him a pride of name, and of his lineage; he would, had
+instilled into him a [[Pride|pride]] of name, and of his lineage; he would, had
 he dared, have fostered hate between him and the present owner of the
 Heights: but his dread of that owner amounted to superstition; and he
 confined his feelings regarding him to muttered innuendoes and private
 comminations. I don’t pretend to be intimately acquainted with the mode
-of living customary in those days at Wuthering Heights: I only speak
-from hearsay; for I saw little. The villagers affirmed Mr. Heathcliff
-was _near_, and a cruel hard landlord to his tenants; but the house,
+of living customary in those days at [[Wuthering Heights]]: I only speak
+from hearsay; for I saw little. The villagers affirmed Mr. [[Heathcliff]]
+was _near_, and a cruel hard landlord to his tenants; but the [[house]],
 inside, had regained its ancient aspect of comfort under female
-management, and the scenes of riot common in Hindley’s time were not
+management, and the scenes of riot common in Hindley’s [[Time|time]] were not
 now enacted within its walls. The master was too gloomy to seek
 companionship with any people, good or bad; and he is yet.
 
 This, however, is not making progress with my story. Miss Cathy
-rejected the peace-offering of the terrier, and demanded her own dogs,
+rejected the peace-offering of the terrier, and demanded her own [[dogs]],
 Charlie and Phoenix. They came limping and hanging their heads; and we
-set out for home, sadly out of sorts, every one of us. I could not
+set out for [[Home|home]], sadly out of sorts, every one of us. I could not
 wring from my little lady how she had spent the day; except that, as I
 supposed, the goal of her pilgrimage was Penistone Crags; and she
 arrived without adventure to the gate of the farmhouse, when Hareton
@@ -368,13 +368,13 @@ attacked her train. They had a smart battle, before their owners could
 separate them: that formed an introduction. Catherine told Hareton who
 she was, and where she was going; and asked him to show her the way:
 finally, beguiling him to accompany her. He opened the mysteries of the
-Fairy Cave, and twenty other queer places. But, being in disgrace, I
+Fairy [[Cave]], and twenty other queer places. But, being in disgrace, I
 was not favoured with a description of the interesting objects she saw.
 I could gather, however, that her guide had been a favourite till she
-hurt his feelings by addressing him as a servant; and Heathcliff’s
+hurt his feelings by addressing him as a servant; and [[Heathcliff]]’s
 housekeeper hurt hers by calling him her cousin. Then the language he
-had held to her rankled in her heart; she who was always “love,” and
-“darling,” and “queen,” and “angel,” with everybody at the Grange, to
+had held to her rankled in her heart; she who was always “[[Love|love]],” and
+“darling,” and “[[Queen|queen]],” and “angel,” with everybody at the Grange, to
 be insulted so shockingly by a stranger! She did not comprehend it; and
 hard work I had to obtain a promise that she would not lay the
 grievance before her father. I explained how he objected to the whole

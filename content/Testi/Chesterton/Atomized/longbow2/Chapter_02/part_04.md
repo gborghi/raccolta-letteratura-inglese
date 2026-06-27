@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 2 (part 4)"
+title: "[[longbow2]] — Chapter 2 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-On this occasion the Professor advanced an even more interesting theory. 
+On this occasion [[The Professor|the Professor]] advanced an even more interesting theory. 
 He was a big, blond man with blinking eyes and a bull neck;
 and doubtless there was more in him than met the eye, as is the way
 with great men.  He spoke last, and his theory was expounded
@@ -25,10 +25,10 @@ Sir Samuel had explained, in what seemed an irascible and even
 irrelevant manner, that he had presented several parks to the public,
 and had the dormitories of his work-people decorated in the simplest
 and best taste, and nobody could accuse him vandalism or not caring
-for beauty and all that.  Then it was that Professor Hake explained
+for [[Beauty|beauty]] and all that.  Then it was that Professor Hake explained
 the theory of the Protective Screen.  Even if it were possible,
-he said, for some thin film of petrol to appear on the water,
-as it would not mix with the water the latter would actually be
+he said, for some thin film of petrol to appear on the [[Water|water]],
+as it would not mix with the [[Water|water]] the latter would actually be
 kept in a clearer condition.  It would act, as it were, as a Cap;
 as does the gelatinous Cap upon certain preserved foods.
 
@@ -43,10 +43,10 @@ laid it before the public."
 in writing books?"
 
 Sir Samuel Bliss stiffened in all his bristles.  "I trust," he said,
-"you are not implying any doubt that our expert is an expert."
+"you are not implying any [[Doubt|doubt]] that our expert is an expert."
 
-"I have no doubt of your expert," answered Hood gravely. 
-"I do not doubt either that he is expert or that he is yours."
+"I have no [[Doubt|doubt]] of your expert," answered Hood gravely. 
+"I do not [[Doubt|doubt]] either that he is expert or that he is yours."
 
 "Really, gentlemen," cried Bliss in a sort of radiance of protest,
 "I think such an insinuation about a man in Professor Hake's position--"
@@ -54,7 +54,7 @@ Sir Samuel Bliss stiffened in all his bristles.  "I trust," he said,
 "Not at all, not at all," said Hood soothingly, "I'm sure it's
 a most comfortable position."
 
-The Professor blinked at him, but a light burned in the eyeballs
+[[The Professor]] blinked at him, but a light burned in the eyeballs
 under the heavy eyelids.
 
 "If you come here talking like that--" he began, when Hood cut off
@@ -65,25 +65,25 @@ rudeness that was like a kick in its contempt.
 "You used to be almost as romantic as myself about the amenities
 of this place.  Do you remember how much you admired the landlords
 for keeping the place quiet and select; and how you said the old
-families preserved the beauty of old England?"
+families preserved the [[Beauty|beauty]] of old England?"
 
-There was a silence, and then the young doctor spoke.
+There was a [[Silence|silence]], and then the young doctor spoke.
 
-"Well, it doesn't follow a fellow can't believe in progress. 
+"[[Well]], it doesn't follow a fellow can't believe in progress. 
 That's what's the matter with you, Hood; you don't believe in progress. 
 We must move with the times; and somebody always has to suffer. 
-Besides, it doesn't matter so much about river-water nowadays. 
-It doesn't even matter so much about the main water-supply. When
+Besides, it doesn't matter so much about [[River|river]]-[[Water|water]] nowadays. 
+It doesn't even matter so much about the main [[Water|water]]-supply. When
 the new Bill is passed, people will be obliged to use the Bulton
 Filter in any case."
 
-"I see," said Hood reflectively, "You first make a mess of the water
+"I see," said Hood reflectively, "You first make a mess of the [[Water|water]]
 for money, and then make a virtue of forcing people to clean
 it themselves."
 
 "I don't know what you're talking about," said Hunter angrily.
 
-"Well, I was thinking at the moment," said Hood in his rather cryptic way. 
+"[[Well]], I was thinking at the moment," said Hood in his rather cryptic way. 
 "I was thinking about Mr. Bulton.  The man who owns the filters. 
 I was wondering whether he might join us.  We seem such a happy
 family party."
@@ -94,21 +94,21 @@ said Sir Samuel.
 "Don't call the poor Professor's theory preposterous," remonstrated Hood. 
 "A little fanciful, perhaps.  And as for the doctor's view,
 surely there's nothing preposterous in that.  You don't think
-the chemicals will poison all the fish I catch, do you, Doctor?"
+the chemicals will [[Poison|poison]] all the fish I catch, do you, Doctor?"
 
 "No, of course not," replied Hunter curtly.
 
 "They will adapt themselves by natural selection," said Hood dreamily. 
 "They will develop organs suitable to an oily environment--
-will learn to love petrol."
+will learn to [[Love|love]] petrol."
 
-"Oh, I have no time for this nonsense," said Hunter, and he was
+"Oh, I have no [[Time|time]] for this nonsense," said Hunter, and he was
 turning to go, when Hood stepped in front of him and looked at him
 very steadily.
 
 "You mustn't call natural selection nonsense," he said. 
 "I know all about that, at any rate.  I can't tell whether liquids
-tipped off the shore will fall into the river, because I don't
+tipped off the shore will fall into the [[River|river]], because I don't
 understand hydraulics.  I don't know whether your machinery makes
 a hell of a noise every morning, for I've never studied acoustics. 
 I don't know whether it stinks or not, because I haven't read
@@ -129,7 +129,7 @@ The general public never heard very much about it; at least until
 one catastrophic scene which was to follow.  There was some faint
 ripple of the question some months later, when Dr. Horace Hunter
 was standing for Parliament in that division.  One or two questions
-were asked about his duties in relation to river pollution;
+were asked about his duties in relation to [[River|river]] pollution;
 but it was soon apparent that no party particularly wished to force
 the issue against the best opinions advanced on the other side. 
 The greatest living authority on hygiene, Professor Hake,

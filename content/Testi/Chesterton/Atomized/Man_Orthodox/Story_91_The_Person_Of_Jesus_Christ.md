@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Person Of Jesus Christ"
+title: "Man Orthodox — The Person Of Jesus [[Christ]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-THE PERSON OF JESUS CHRIST
+THE PERSON OF JESUS [[Christ|CHRIST]]

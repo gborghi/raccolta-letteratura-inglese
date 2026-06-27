@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 7 (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 7 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -18,8 +18,8 @@ With a whine, not unlike the cry of the animal he named, in its lowest
 state of humiliation, he raised his glass to his mouth again. He found
 some encouragement in it; for when he set it down he laughed scornfully.
 Upon that Mr Tigg gesticulated to the visitors once more, and with great
-expression, implying that now the time was come when they would see Chiv
-in his greatness.
+expression, implying that now the [[Time|time]] was come when they would see Chiv
+in his [[Greatness|greatness]].
 
 ‘Ha, ha, ha,’ laughed Mr Slyme. ‘Obliged to two strangers for a tavern
 bill! Yet I think I’ve a rich uncle, Tigg, who could buy up the uncles
@@ -32,7 +32,7 @@ Tigg, ‘which only blooms once in a hundred years!’
 
 ‘Ha, ha, ha!’ laughed Mr Slyme again. ‘Obliged to two strangers for
 a tavern bill! I obliged to two architect’s apprentices. Fellows who
-measure earth with iron chains, and build houses like bricklayers. Give
+measure earth with iron [[Chains|chains]], and build houses like bricklayers. Give
 me the names of those two apprentices. How dare they oblige me!’
 
 Mr Tigg was quite lost in admiration of this noble trait in his friend’s
@@ -42,17 +42,17 @@ action, spontaneously invented for the purpose.
 ‘I’ll let ‘em know, and I’ll let all men know,’ cried Chevy Slyme,
 ‘that I’m none of the mean, grovelling, tame characters they meet with
 commonly. I have an independent spirit. I have a heart that swells in my
-bosom. I have a soul that rises superior to base considerations.’
+bosom. I have a [[Soul|soul]] that rises superior to base considerations.’
 
-‘Oh Chiv, Chiv,’ murmured Mr Tigg, ‘you have a nobly independent nature,
+‘Oh Chiv, Chiv,’ murmured Mr Tigg, ‘you have a nobly independent [[Nature|nature]],
 Chiv!’
 
 ‘You go and do your duty, sir,’ said Mr Slyme, angrily, ‘and borrow
 money for travelling expenses; and whoever you borrow it of, let ‘em
 know that I possess a haughty spirit, and a proud spirit, and have
-infernally finely-touched chords in my nature, which won’t brook
+infernally finely-touched chords in my [[Nature|nature]], which won’t brook
 patronage. Do you hear? Tell ‘em I hate ‘em, and that that’s the way
-I preserve my self-respect; and tell ‘em that no man ever respected
+I preserve my [[Self|self]]-respect; and tell ‘em that no man ever respected
 himself more than I do!’
 
 He might have added that he hated two sorts of men; all those who did
@@ -64,16 +64,16 @@ yet mean enough to be worked or borrowed, begged or stolen for, by any
 catspaw that would serve his turn; too insolent to lick the hand that
 fed him in his need, yet cur enough to bite and tear it in the dark;
 with these apt closing words Mr Slyme fell forward with his head upon
-the table, and so declined into a sodden sleep.
+the table, and so declined into a sodden [[Sleep|sleep]].
 
 ‘Was there ever,’ cried Mr Tigg, joining the young men at the door,
 and shutting it carefully behind him, ‘such an independent spirit as is
 possessed by that extraordinary creature? Was there ever such a Roman as
 our friend Chiv? Was there ever a man of such a purely classical turn of
-thought, and of such a toga-like simplicity of nature? Was there ever a
+thought, and of such a toga-like simplicity of [[Nature|nature]]? Was there ever a
 man with such a flow of eloquence? Might he not, gents both, I ask, have
 sat upon a tripod in the ancient times, and prophesied to a perfectly
-unlimited extent, if previously supplied with gin-and-water at the
+unlimited extent, if previously supplied with gin-and-[[Water|water]] at the
 public cost?’
 
 Mr Pinch was about to contest this latter position with his usual
@@ -109,12 +109,12 @@ Tom had certain ideas of his own upon the subject of glory; and
 consequently he was not quite so much excited by this picture as Mr Tigg
 could have desired.
 
-‘But no matter!’ said that gentleman. ‘The school-boy writing home to
-his parents and describing the milk-and-water, said “This is indeed
+‘But no matter!’ said that gentleman. ‘The school-boy writing [[Home|home]] to
+his parents and describing the milk-and-[[Water|water]], said “This is indeed
 weakness.” I repeat that assertion in reference to myself at the present
 moment; and I ask your pardon. Sir, you have seen my friend Slyme?’
 
-‘No doubt,’ said Mr Pinch.
+‘No [[Doubt|doubt]],’ said Mr Pinch.
 
 ‘Sir, you have been impressed by my friend Slyme?’
 
@@ -123,8 +123,8 @@ hesitation.
 
 ‘I am grieved but not surprised,’ cried Mr Tigg, detaining him with both
 hands, ‘to hear that you have come to that conclusion; for it is my own.
-But, Mr Pinch, though I am a rough and thoughtless man, I can honour
-Mind. I honour Mind in following my friend. To you of all men, Mr Pinch,
+But, Mr Pinch, though I am a rough and thoughtless man, I can [[Honour|honour]]
+Mind. I [[Honour|honour]] Mind in following my friend. To you of all men, Mr Pinch,
 I have a right to make appeal on Mind’s behalf, when it has not the art
 to push its fortune in the world. And so, sir--not for myself, who have
 no claim upon you, but for my crushed, my sensitive and independent

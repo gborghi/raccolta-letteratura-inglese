@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — Unbusinesslike Business"
+title: "[[UtopiaUsurers]] — Unbusinesslike Business"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -18,7 +18,7 @@ III. Unbusinesslike Business
 
 
 
-The fairy tales we were all taught did not, like the history we were all
+The fairy tales we were all taught did not, like the [[history]] we were all
 
 taught, consist entirely of lies. Parts of the tale of "Puss in Boots"
 
@@ -32,15 +32,15 @@ that both in "Puss in Boots" and "Jack and the Beanstalk" if I remember
 
 aright, the ogre was not only an ogre but also a magician. And it will
 
-generally be found that in all such popular narratives, the king, if he
+generally be found that in all such popular narratives, the [[King|king]], if he
 
-is a wicked king, is generally also a wizard. Now there is a very vital
+is a wicked [[King|king]], is generally also a wizard. Now there is a very vital
 
-human truth enshrined in this. Bad government, like good government,
+human [[Truth|truth]] enshrined in this. Bad [[government]], like good [[government]],
 
-is a spiritual thing. Even the tyrant never rules by force alone; but
+is a spiritual thing. Even the [[Tyrant|tyrant]] never rules by force [[Alone|alone]]; but
 
-mostly by fairy tales. And so it is with the modern tyrant, the great
+mostly by fairy tales. And so it is with the modern [[Tyrant|tyrant]], the great
 
 employer. The sight of a millionaire is seldom, in the ordinary sense,
 
@@ -76,7 +76,7 @@ of different doors and a great many hot and unhealthy underground
 
 departments (they must be hot; this is very important), and more people
 
-than would be needed for a man-of-war, or crowded cathedral, to say:
+than would be needed for a man-of-war, or crowded [[Cathedral|cathedral]], to say:
 
 "This way, madam," and "The next article, sir," it follows that
 
@@ -88,7 +88,7 @@ is to say, any housekeeper in a bad temper, will tell you that they are
 
 not. But housekeepers, too, are human, and therefore inconsistent and
 
-complex; and they do not always stick to truth and bad temper. They are
+complex; and they do not always stick to [[Truth|truth]] and bad temper. They are
 
 also affected by this queer idolatry of the enormous and elaborate; and
 
@@ -96,7 +96,7 @@ cannot help feeling that anything so complicated must go like clockwork.
 
 But complexity is no guarantee of accuracy--in clockwork or in anything
 
-else. A clock can be as wrong as the human head; and a clock can stop,
+else. A [[Clock|clock]] can be as wrong as the human head; and a [[Clock|clock]] can stop,
 
 as suddenly as the human heart.
 
@@ -104,7 +104,7 @@ as suddenly as the human heart.
 
 But this strange poetry of plutocracy prevails over people against their
 
-very senses. You write to one of the great London stores or emporia,
+very senses. You write to one of the great [[London]] stores or emporia,
 
 asking, let us say, for an umbrella. A month or two afterwards you
 
@@ -114,15 +114,15 @@ parasol. You are very pleased. You are gratified to reflect on what
 
 a vast number of assistants and employees had combined to break that
 
-parasol. You luxuriate in the memory of all those long rooms and
+parasol. You luxuriate in the [[Memory|memory]] of all those long rooms and
 
-departments and wonder in which of them the parasol that you never
+departments and [[Wonder|wonder]] in which of them the parasol that you never
 
-ordered was broken. Or you want a toy elephant for your child on
+ordered was broken. Or you want a toy elephant for your [[Child|child]] on
 
 Christmas Day; as children, like all nice and healthy people, are very
 
-ritualistic. Some week or so after Twelfth Night, let us say, you have
+ritualistic. Some week or so after [[Twelfth Night]], let us say, you have
 
 the pleasure of removing three layers of pasteboards, five layers of
 
@@ -130,7 +130,7 @@ brown paper, and fifteen layers of tissue paper and discovering the
 
 fragments of an artificial crocodile. You smile in an expansive spirit.
 
-You feel that your soul has been broadened by the vision of incompetence
+You feel that your [[Soul|soul]] has been broadened by the vision of incompetence
 
 conducted on so large a scale. You admire all the more the colossal
 
@@ -138,7 +138,7 @@ and Omnipresent Brain of the Organiser of Industry, who amid all his
 
 multitudinous cares did not disdain to remember his duty of smashing
 
-even the smallest toy of the smallest child. Or, supposing you have
+even the smallest toy of the smallest [[Child|child]]. Or, supposing you have
 
 asked him to send you some two rolls of cocoa-nut matting: and supposing
 
@@ -154,7 +154,7 @@ were needed to make such a mistake.
 
 
 
-That is the romance that has been told about the big shops; in the
+That is the [[Romance|romance]] that has been told about the big shops; in the
 
 literature and art which they have bought, and which (as I said in
 
@@ -164,7 +164,7 @@ ordinary advertisements. The literature is commercial; and it is
 
 only fair to say that the commerce is often really literary. It is no
 
-romance, but only rubbish.
+[[Romance|romance]], but only rubbish.
 
 
 

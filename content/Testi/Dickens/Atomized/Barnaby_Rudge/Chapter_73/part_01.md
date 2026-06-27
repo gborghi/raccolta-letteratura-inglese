@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 73 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 73 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,10 +17,10 @@ tags:
 Chapter 73
 
 
-By this Friday night--for it was on Friday in the riot week, that Emma
-and Dolly were rescued, by the timely aid of Joe and Edward Chester--the
+By this Friday [[Night|night]]--for it was on Friday in the riot week, that [[Emma]]
+and Dolly were rescued, by the timely aid of Joe and [[Edward Chester]]--the
 disturbances were entirely quelled, and peace and order were restored
-to the affrighted city. True, after what had happened, it was impossible
+to the affrighted [[City|city]]. True, after what had happened, it was impossible
 for any man to say how long this better state of things might last, or
 how suddenly new outrages, exceeding even those so lately witnessed,
 might burst forth and fill its streets with ruin and bloodshed; for
@@ -29,7 +29,7 @@ a distance, and many families, hitherto unable to procure the means
 of flight, now availed themselves of the calm, and withdrew into the
 country. The shops, too, from Tyburn to Whitechapel, were still shut;
 and very little business was transacted in any of the places of great
-commercial resort. But, notwithstanding, and in spite of the melancholy
+commercial resort. But, notwithstanding, and in spite of the [[Melancholy|melancholy]]
 forebodings of that numerous class of society who see with the greatest
 clearness into the darkest perspectives, the town remained profoundly
 quiet. The strong military force disposed in every advantageous quarter,
@@ -44,13 +44,13 @@ but for their safety.
 In a word, the crowd was utterly routed. Upwards of two hundred had been
 shot dead in the streets. Two hundred and fifty more were lying, badly
 wounded, in the hospitals; of whom seventy or eighty died within a short
-time afterwards. A hundred were already in custody, and more were taken
+[[Time|time]] afterwards. A hundred were already in custody, and more were taken
 every hour. How many perished in the conflagrations, or by their own
-excesses, is unknown; but that numbers found a terrible grave in the hot
+excesses, is unknown; but that numbers found a terrible [[Grave|grave]] in the hot
 ashes of the flames they had kindled, or crept into vaults and cellars
-to drink in secret or to nurse their sores, and never saw the light
+to drink in secret or to [[Nurse|nurse]] their sores, and never saw the light
 again, is certain. When the embers of the fires had been black and cold
-for many weeks, the labourers’ spades proved this, beyond a doubt.
+for many weeks, the labourers’ spades proved this, beyond a [[Doubt|doubt]].
 
 Seventy-two private houses and four strong jails were destroyed in the
 four great days of these riots. The total loss of property, as estimated
@@ -58,35 +58,35 @@ by the sufferers, was one hundred and fifty-five thousand pounds; at the
 lowest and least partial estimate of disinterested persons, it exceeded
 one hundred and twenty-five thousand pounds. For this immense loss,
 compensation was soon afterwards made out of the public purse, in
-pursuance of a vote of the House of Commons; the sum being levied on the
-various wards in the city, on the county, and the borough of Southwark.
+pursuance of a vote of the [[house|House]] of Commons; the sum being levied on the
+various wards in the [[City|city]], on the county, and the borough of Southwark.
 Both Lord Mansfield and Lord Saville, however, who had been great
 sufferers, refused to accept of any compensation whatever.
 
-The House of Commons, sitting on Tuesday with locked and guarded doors,
+The [[house|House]] of Commons, sitting on Tuesday with locked and guarded doors,
 had passed a resolution to the effect that, as soon as the tumults
 subsided, it would immediately proceed to consider the petitions
 presented from many of his Majesty’s Protestant subjects, and would take
 the same into its serious consideration. While this question was under
-debate, Mr Herbert, one of the members present, indignantly rose and
-called upon the House to observe that Lord George Gordon was then
+[[debate]], Mr Herbert, one of the members present, indignantly [[Rose|rose]] and
+called upon the [[house|House]] to observe that [[Lord George Gordon]] was then
 sitting under the gallery with the blue cockade, the signal of
 rebellion, in his hat. He was not only obliged, by those who sat near,
 to take it out; but offering to go into the street to pacify the mob
-with the somewhat indefinite assurance that the House was prepared to
+with the somewhat indefinite assurance that the [[house|House]] was prepared to
 give them ‘the satisfaction they sought,’ was actually held down in his
 seat by the combined force of several members. In short, the disorder
 and violence which reigned triumphant out of doors, penetrated into
 the senate, and there, as elsewhere, terror and alarm prevailed, and
-ordinary forms were for the time forgotten.
+ordinary forms were for the [[Time|time]] forgotten.
 
-On the Thursday, both Houses had adjourned until the following Monday
+On the [[thursday|Thursday]], both Houses had adjourned until the following Monday
 se’nnight, declaring it impossible to pursue their deliberations with
-the necessary gravity and freedom, while they were surrounded by armed
+the necessary gravity and [[Freedom|freedom]], while they were surrounded by armed
 troops. And now that the rioters were dispersed, the citizens were beset
-with a new fear; for, finding the public thoroughfares and all their
+with a new [[Fear|fear]]; for, finding the public thoroughfares and all their
 usual places of resort filled with soldiers entrusted with the free use
-of fire and sword, they began to lend a greedy ear to the rumours which
+of [[Fire|fire]] and [[Sword|sword]], they began to lend a greedy ear to the rumours which
 were afloat of martial law being declared, and to dismal stories of
 prisoners having been seen hanging on lamp-posts in Cheapside and
 Fleet Street. These terrors being promptly dispelled by a Proclamation
@@ -101,11 +101,11 @@ circumstance of some few coins which were not English money having been
 swept into the pockets of the insurgents with other miscellaneous booty,
 and afterwards discovered on the prisoners or the dead bodies,--caused
 a great sensation; and men’s minds being in that excited state when they
-are most apt to catch at any shadow of apprehension, was bruited about
+are most apt to catch at any [[Shadow|shadow]] of apprehension, was bruited about
 with much industry.
 
 All remaining quiet, however, during the whole of this Friday, and on
-this Friday night, and no new discoveries being made, confidence began
+this Friday [[Night|night]], and no new discoveries being made, confidence began
 to be restored, and the most timid and desponding breathed again.
 In Southwark, no fewer than three thousand of the inhabitants formed
 themselves into a watch, and patrolled the streets every hour. Nor were

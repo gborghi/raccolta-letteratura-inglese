@@ -18,9 +18,9 @@ CHAPTER IX.
 The Game Made
 
 
-While Sydney Carton and the Sheep of the prisons were in the adjoining
+While [[Sydney Carton]] and the Sheep of the prisons were in the adjoining
 dark room, speaking so low that not a sound was heard, Mr. Lorry looked
-at Jerry in considerable doubt and mistrust. That honest tradesman’s
+at Jerry in considerable [[Doubt|doubt]] and mistrust. That honest tradesman’s
 manner of receiving the look, did not inspire confidence; he changed the
 leg on which he rested, as often as if he had fifty of those limbs,
 and were trying them all; he examined his finger-nails with a very
@@ -41,14 +41,14 @@ Mr. Cruncher conceived the luminous idea of replying, “Agicultooral
 character.”
 
 “My mind misgives me much,” said Mr. Lorry, angrily shaking a forefinger
-at him, “that you have used the respectable and great house of Tellson’s
+at him, “that you have used the respectable and [[Great House|great house]] of Tellson’s
 as a blind, and that you have had an unlawful occupation of an infamous
 description. If you have, don’t expect me to befriend you when you
 get back to England. If you have, don’t expect me to keep your secret.
 Tellson’s shall not be imposed upon.”
 
-“I hope, sir,” pleaded the abashed Mr. Cruncher, “that a gentleman like
-yourself wot I’ve had the honour of odd jobbing till I’m grey at it,
+“I [[Hope|hope]], sir,” pleaded the abashed Mr. Cruncher, “that a gentleman like
+yourself wot I’ve had the [[Honour|honour]] of odd jobbing till I’m grey at it,
 would think twice about harming of me, even if it wos so--I don’t say it
 is, but even if it wos. And which it is to be took into account that if
 it wos, it wouldn’t, even then, be all o’ one side. There’d be two sides
@@ -58,7 +58,7 @@ fardens--fardens! no, nor yet his half fardens--half fardens! no, nor
 yet his quarter--a banking away like smoke at Tellson’s, and a cocking
 their medical eyes at that tradesman on the sly, a going in and going
 out to their own carriages--ah! equally like smoke, if not more so.
-Well, that ’ud be imposing, too, on Tellson’s. For you cannot sarse the
+[[Well]], that ’ud be imposing, too, on Tellson’s. For you cannot sarse the
 goose and not the gander. And here’s Mrs. Cruncher, or leastways wos
 in the Old England times, and would be to-morrow, if cause given,
 a floppin’ again the business to that degree as is ruinating--stark
@@ -106,12 +106,12 @@ cause when I might have kep’ it back.”
 that I shall yet stand your friend, if you deserve it, and repent in
 action--not in words. I want no more words.”
 
-Mr. Cruncher knuckled his forehead, as Sydney Carton and the spy
+Mr. Cruncher knuckled his forehead, as [[Sydney Carton]] and the spy
 returned from the dark room. “Adieu, Mr. Barsad,” said the former; “our
-arrangement thus made, you have nothing to fear from me.”
+arrangement thus made, you have nothing to [[Fear|fear]] from me.”
 
 He sat down in a chair on the hearth, over against Mr. Lorry. When they
-were alone, Mr. Lorry asked him what he had done?
+were [[Alone|alone]], Mr. Lorry asked him what he had done?
 
 “Not much. If it should go ill with the prisoner, I have ensured access
 to him, once.”
@@ -128,10 +128,10 @@ Tribunal, will not save him.”
 
 “I never said it would.”
 
-Mr. Lorry’s eyes gradually sought the fire; his sympathy with his
+Mr. Lorry’s eyes gradually sought the [[Fire|fire]]; his sympathy with his
 darling, and the heavy disappointment of his second arrest, gradually
 weakened them; he was an old man now, overborne with anxiety of late,
-and his tears fell.
+and his [[Tears|tears]] fell.
 
 “You are a good man and a true friend,” said Carton, in an altered
 voice. “Forgive me if I notice that you are affected. I could not see my

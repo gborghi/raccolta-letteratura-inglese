@@ -1,5 +1,5 @@
 ---
-title: "As I Was Saying — ABOUT CHANGING HUMAN NATURE"
+title: "As I Was Saying — ABOUT CHANGING HUMAN [[Nature|NATURE]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/As-I-Was-Saying-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-   XXIV  ABOUT CHANGING HUMAN NATURE
+   XXIV  ABOUT CHANGING HUMAN [[Nature|NATURE]]

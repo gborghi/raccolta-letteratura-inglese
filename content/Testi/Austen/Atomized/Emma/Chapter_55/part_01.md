@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 17 (part 1)"
+title: "[[Emma]] — Chapter 17 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -18,17 +18,17 @@ CHAPTER XVII
 
 
 Mrs. Weston’s friends were all made happy by her safety; and if the
-satisfaction of her well-doing could be increased to Emma, it was by
+satisfaction of her [[Well|well]]-doing could be increased to [[Emma]], it was by
 knowing her to be the mother of a little girl. She had been decided in
 wishing for a Miss Weston. She would not acknowledge that it was with
 any view of making a match for her, hereafter, with either of
-Isabella’s sons; but she was convinced that a daughter would suit both
+[[Isabella]]’s sons; but she was convinced that a daughter would suit both
 father and mother best. It would be a great comfort to Mr. Weston, as
 he grew older—and even Mr. Weston might be growing older ten years
 hence—to have his fireside enlivened by the sports and the nonsense,
-the freaks and the fancies of a child never banished from home; and
-Mrs. Weston—no one could doubt that a daughter would be most to her;
-and it would be quite a pity that any one who so well knew how to
+the freaks and the fancies of a [[Child|child]] never banished from [[Home|home]]; and
+Mrs. Weston—no one could [[Doubt|doubt]] that a daughter would be most to her;
+and it would be quite a pity that any one who so [[Well|well]] knew how to
 teach, should not have their powers in exercise again.
 
 “She has had the advantage, you know, of practising on me,” she
@@ -40,34 +40,34 @@ Adelaide educated on a more perfect plan.”
 she did you, and believe that she does not indulge her at all. It will
 be the only difference.”
 
-“Poor child!” cried Emma; “at that rate, what will become of her?”
+“Poor [[Child|child]]!” cried [[Emma]]; “at that rate, what will become of her?”
 
 “Nothing very bad.—The fate of thousands. She will be disagreeable in
 infancy, and correct herself as she grows older. I am losing all my
-bitterness against spoilt children, my dearest Emma. I, who am owing
+bitterness against spoilt children, my dearest [[Emma]]. I, who am owing
 all my happiness to _you_, would not it be horrible ingratitude in me
 to be severe on them?”
 
-Emma laughed, and replied: “But I had the assistance of all your
-endeavours to counteract the indulgence of other people. I doubt
+[[Emma]] laughed, and replied: “But I had the assistance of all your
+endeavours to counteract the indulgence of other people. I [[Doubt|doubt]]
 whether my own sense would have corrected me without it.”
 
-“Do you?—I have no doubt. Nature gave you understanding:—Miss Taylor
-gave you principles. You must have done well. My interference was quite
+“Do you?—I have no [[Doubt|doubt]]. [[Nature]] gave you understanding:—Miss Taylor
+gave you principles. You must have done [[Well|well]]. My interference was quite
 as likely to do harm as good. It was very natural for you to say, what
 right has he to lecture me?—and I am afraid very natural for you to
 feel that it was done in a disagreeable manner. I do not believe I did
 you any good. The good was all to myself, by making you an object of
 the tenderest affection to me. I could not think about you so much
 without doating on you, faults and all; and by dint of fancying so many
-errors, have been in love with you ever since you were thirteen at
+errors, have been in [[Love|love]] with you ever since you were thirteen at
 least.”
 
-“I am sure you were of use to me,” cried Emma. “I was very often
-influenced rightly by you—oftener than I would own at the time. I am
+“I am sure you were of use to me,” cried [[Emma]]. “I was very often
+influenced rightly by you—oftener than I would own at the [[Time|time]]. I am
 very sure you did me good. And if poor little Anna Weston is to be
 spoiled, it will be the greatest humanity in you to do as much for her
-as you have done for me, except falling in love with her when she is
+as you have done for me, except falling in [[Love|love]] with her when she is
 thirteen.”
 
 “How often, when you were a girl, have you said to me, with one of your
@@ -76,7 +76,7 @@ may, or I have Miss Taylor’s leave’—something which, you knew, I did
 not approve. In such cases my interference was giving you two bad
 feelings instead of one.”
 
-“What an amiable creature I was!—No wonder you should hold my speeches
+“What an amiable creature I was!—No [[Wonder|wonder]] you should hold my speeches
 in such affectionate remembrance.”
 
 “‘Mr. Knightley.’—You always called me, ‘Mr. Knightley;’ and, from
@@ -96,29 +96,29 @@ and blushing—“I will promise to call you once by your Christian name. I
 do not say when, but perhaps you may guess where;—in the building in
 which N. takes M. for better, for worse.”
 
-Emma grieved that she could not be more openly just to one important
+[[Emma]] grieved that she could not be more openly just to one important
 service which his better sense would have rendered her, to the advice
 which would have saved her from the worst of all her womanly
-follies—her wilful intimacy with Harriet Smith; but it was too tender a
+follies—her wilful intimacy with [[Harriet Smith]]; but it was too tender a
 subject.—She could not enter on it.—Harriet was very seldom mentioned
 between them. This, on his side, might merely proceed from her not
-being thought of; but Emma was rather inclined to attribute it to
-delicacy, and a suspicion, from some appearances, that their friendship
+being thought of; but [[Emma]] was rather inclined to attribute it to
+delicacy, and a suspicion, from some appearances, that their [[Friendship|friendship]]
 were declining. She was aware herself, that, parting under any other
 circumstances, they certainly should have corresponded more, and that
 her intelligence would not have rested, as it now almost wholly did, on
-Isabella’s letters. He might observe that it was so. The pain of being
+[[Isabella]]’s letters. He might observe that it was so. The [[Pain|pain]] of being
 obliged to practise concealment towards him, was very little inferior
-to the pain of having made Harriet unhappy.
+to the [[Pain|pain]] of having made Harriet unhappy.
 
-Isabella sent quite as good an account of her visitor as could be
+[[Isabella]] sent quite as good an account of her visitor as could be
 expected; on her first arrival she had thought her out of spirits,
 which appeared perfectly natural, as there was a dentist to be
 consulted; but, since that business had been over, she did not appear
-to find Harriet different from what she had known her before.—Isabella,
+to find Harriet different from what she had known her before.—[[Isabella]],
 to be sure, was no very quick observer; yet if Harriet had not been
 equal to playing with the children, it would not have escaped her.
-Emma’s comforts and hopes were most agreeably carried on, by Harriet’s
+[[Emma]]’s comforts and hopes were most agreeably carried on, by Harriet’s
 being to stay longer; her fortnight was likely to be a month at least.
 Mr. and Mrs. John Knightley were to come down in August, and she was
 invited to remain till they could bring her back.
@@ -126,7 +126,7 @@ invited to remain till they could bring her back.
 “John does not even mention your friend,” said Mr. Knightley. “Here is
 his answer, if you like to see it.”
 
-It was the answer to the communication of his intended marriage. Emma
+It was the answer to the communication of his intended [[Marriage|marriage]]. [[Emma]]
 accepted it with a very eager hand, with an impatience all alive to
 know what he would say about it, and not at all checked by hearing that
 her friend was unmentioned.

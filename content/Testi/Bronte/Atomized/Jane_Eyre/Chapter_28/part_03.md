@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 28 (part 3)"
+title: "[[Jane Eyre]] — Chapter 28 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,9 +17,9 @@ tags:
 I could not bear to return to the sordid village, where, besides, no
 prospect of aid was visible. I should have longed rather to deviate to
 a wood I saw not far off, which appeared in its thick shade to offer
-inviting shelter; but I was so sick, so weak, so gnawed with nature’s
+inviting shelter; but I was so sick, so weak, so gnawed with [[Nature|nature]]’s
 cravings, instinct kept me roaming round abodes where there was a
-chance of food. Solitude would be no solitude—rest no rest—while the
+chance of food. [[Solitude]] would be no [[Solitude|solitude]]—rest no rest—while the
 vulture, hunger, thus sank beak and talons in my side.
 
 I drew near houses; I left them, and came back again, and again I
@@ -28,14 +28,14 @@ to ask—no right to expect interest in my isolated lot. Meantime, the
 afternoon advanced, while I thus wandered about like a lost and
 starving dog. In crossing a field, I saw the church spire before me: I
 hastened towards it. Near the churchyard, and in the middle of a
-garden, stood a well-built though small house, which I had no doubt was
+[[Garden|garden]], stood a [[Well|well]]-built though small [[house]], which I had no [[Doubt|doubt]] was
 the parsonage. I remembered that strangers who arrive at a place where
 they have no friends, and who want employment, sometimes apply to the
 clergyman for introduction and aid. It is the clergyman’s function to
 help—at least with advice—those who wished to help themselves. I seemed
 to have something like a right to seek counsel here. Renewing then my
-courage, and gathering my feeble remains of strength, I pushed on. I
-reached the house, and knocked at the kitchen-door. An old woman
+[[Courage|courage]], and gathering my feeble remains of strength, I pushed on. I
+reached the [[house]], and knocked at the kitchen-door. An old woman
 opened: I asked was this the parsonage?
 
 “Yes.”
@@ -46,15 +46,15 @@ opened: I asked was this the parsonage?
 
 “Would he be in soon?”
 
-“No, he was gone from home.”
+“No, he was gone from [[Home|home]].”
 
 “To a distance?”
 
 “Not so far—happen three mile. He had been called away by the sudden
-death of his father: he was at Marsh End now, and would very likely
+[[Death|death]] of his father: he was at Marsh End now, and would very likely
 stay there a fortnight longer.”
 
-“Was there any lady of the house?”
+“Was there any lady of the [[house]]?”
 
 “Nay, there was naught but her, and she was housekeeper;” and of her,
 reader, I could not bear to ask the relief for want of which I was
@@ -80,31 +80,31 @@ could she tell where I had got the handkerchief?” she said.
 Reader, it is not pleasant to dwell on these details. Some say there is
 enjoyment in looking back to painful experience past; but at this day I
 can scarcely bear to review the times to which I allude: the moral
-degradation, blent with the physical suffering, form too distressing a
+degradation, blent with the physical [[Suffering|suffering]], form too distressing a
 recollection ever to be willingly dwelt on. I blamed none of those who
 repulsed me. I felt it was what was to be expected, and what could not
 be helped: an ordinary beggar is frequently an object of suspicion; a
-well-dressed beggar inevitably so. To be sure, what I begged was
+[[Well|well]]-dressed beggar inevitably so. To be sure, what I begged was
 employment; but whose business was it to provide me with employment?
-Not, certainly, that of persons who saw me then for the first time, and
+Not, certainly, that of persons who saw me then for the first [[Time|time]], and
 who knew nothing about my character. And as to the woman who would not
 take my handkerchief in exchange for her bread, why, she was right, if
 the offer appeared to her sinister or the exchange unprofitable. Let me
 condense now. I am sick of the subject.
 
-A little before dark I passed a farm-house, at the open door of which
-the farmer was sitting, eating his supper of bread and cheese. I
+A little before dark I passed a farm-[[house]], at the open door of which
+the farmer was sitting, eating his supper of bread and [[cheese]]. I
 stopped and said—
 
 “Will you give me a piece of bread? for I am very hungry.” He cast on
 me a glance of surprise; but without answering, he cut a thick slice
 from his loaf, and gave it to me. I imagine he did not think I was a
 beggar, but only an eccentric sort of lady, who had taken a fancy to
-his brown loaf. As soon as I was out of sight of his house, I sat down
+his brown loaf. As soon as I was out of sight of his [[house]], I sat down
 and ate it.
 
-I could not hope to get a lodging under a roof, and sought it in the
-wood I have before alluded to. But my night was wretched, my rest
+I could not [[Hope|hope]] to get a lodging under a roof, and sought it in the
+wood I have before alluded to. But my [[Night|night]] was wretched, my rest
 broken: the ground was damp, the air cold: besides, intruders passed
 near me more than once, and I had again and again to change my
 quarters: no sense of safety or tranquillity befriended me. Towards
@@ -121,7 +121,7 @@ that?” I asked.
 She stared at me. “Mother!” she exclaimed, “there is a woman wants me
 to give her these porridge.”
 
-“Well lass,” replied a voice within, “give it her if she’s a beggar. T’
+“[[Well]] lass,” replied a voice within, “give it her if she’s a beggar. T’
 pig doesn’t want it.”
 
 The girl emptied the stiffened mould into my hand, and I devoured it
@@ -131,13 +131,13 @@ As the wet twilight deepened, I stopped in a solitary bridle-path,
 which I had been pursuing an hour or more.
 
 “My strength is quite failing me,” I said in a soliloquy. “I feel I
-cannot go much farther. Shall I be an outcast again this night? While
+cannot go much farther. Shall I be an outcast again this [[Night|night]]? While
 the rain descends so, must I lay my head on the cold, drenched ground?
-I fear I cannot do otherwise: for who will receive me? But it will be
+I [[Fear|fear]] I cannot do otherwise: for who will receive me? But it will be
 very dreadful, with this feeling of hunger, faintness, chill, and this
-sense of desolation—this total prostration of hope. In all likelihood,
+sense of desolation—this total prostration of [[Hope|hope]]. In all likelihood,
 though, I should die before morning. And why cannot I reconcile myself
-to the prospect of death? Why do I struggle to retain a valueless life?
+to the prospect of [[Death|death]]? Why do I struggle to retain a valueless life?
 Because I know, or believe, Mr. Rochester is living: and then, to die
-of want and cold is a fate to which nature cannot submit passively. Oh,
-Providence! sustain me a little longer! Aid!—direct me!”
+of want and cold is a fate to which [[Nature|nature]] cannot submit passively. Oh,
+[[Providence]]! sustain me a little longer! Aid!—direct me!”

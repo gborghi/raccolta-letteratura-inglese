@@ -17,7 +17,7 @@ tags:
 It was a circumstance in support of this view of the case, that when she
 had lighted her father’s pipe, and mixed him his glass of grog, she sat
 down on a stool between her father and her husband, leaning her arm upon
-the latter, and was very quiet. So quiet, that when her father rose to
+the latter, and was very quiet. So quiet, that when her father [[Rose|rose]] to
 take his leave, she looked round with a start, as if she had forgotten
 his being there.
 
@@ -25,20 +25,20 @@ his being there.
 
 ‘Yes, my dear. Do you?’
 
-‘I have not written to Lizzie Hexam since I wrote and told her that I
-really had a lover—a whole one. I have often thought I would like to
+‘I have not written to [[Lizzie Hexam]] since I wrote and told her that I
+really had a [[Lover|lover]]—a whole one. I have often thought I would like to
 tell her how right she was when she pretended to read in the live coals
-that I would go through fire and water for him. I am in the humour to
-tell her so to-night, John, and I’ll stay at home and do it.’
+that I would go through [[Fire|fire]] and [[Water|water]] for him. I am in the [[Humour|humour]] to
+tell her so to-[[Night|night]], John, and I’ll stay at [[Home|home]] and do it.’
 
 ‘You are tired.’
 
-‘Not at all tired, John dear, but in the humour to write to Lizzie. Good
-night, dear Pa. Good night, you dear, good, gentle Pa!’
+‘Not at all tired, John dear, but in the [[Humour|humour]] to write to Lizzie. Good
+[[Night|night]], dear Pa. Good [[Night|night]], you dear, good, gentle Pa!’
 
 Left to herself she sat down to write, and wrote Lizzie a long letter.
 She had but completed it and read it over, when her husband came back.
-‘You are just in time, sir,’ said Bella; ‘I am going to give you your
+‘You are just in [[Time|time]], sir,’ said Bella; ‘I am going to give you your
 first curtain lecture. It shall be a parlour-curtain lecture. You shall
 take this chair of mine when I have folded my letter, and I will take
 the stool (though you ought to take it, I can tell you, sir, if it’s
@@ -63,7 +63,7 @@ secret, and answered, ‘John Rokesmith, my dear.’
 
 With a returning suspicion that something might have betrayed him to
 her, he answered, interrogatively, ‘My godfathers and my godmothers,
-dear love?’
+dear [[Love|love]]?’
 
 ‘Pretty good!’ said Bella. ‘Not goodest good, because you hesitate about
 it. However, as you know your Catechism fairly, so far, I’ll let you off
@@ -84,7 +84,7 @@ want nothing on earth, and I want you to believe it.’
 
 ‘It’s not all, John dear,’ Bella hesitated. ‘It’s only Firstly. There’s
 a dreadful Secondly, and a dreadful Thirdly to come—as I used to say to
-myself in sermon-time when I was a very small-sized sinner at church.’
+myself in sermon-[[Time|time]] when I was a very small-sized sinner at church.’
 
 ‘Let them come, my dearest.’
 
@@ -94,19 +94,19 @@ heart of hearts—?’
 ‘Which is not in my keeping,’ he rejoined.
 
 ‘No, John, but the key is.—Are you absolutely certain that down at the
-bottom of that heart of hearts, which you have given to me as I
+[[Bottom|bottom]] of that heart of hearts, which you have given to me as I
 have given mine to you, there is no remembrance that I was once very
 mercenary?’
 
-‘Why, if there were no remembrance in me of the time you speak of,’ he
-softly asked her with his lips to hers, ‘could I love you quite as well
+‘Why, if there were no remembrance in me of the [[Time|time]] you speak of,’ he
+softly asked her with his lips to hers, ‘could I [[Love|love]] you quite as [[Well|well]]
 as I do; could I have in the Calendar of my life the brightest of its
 days; could I whenever I look at your dear face, or hear your dear
 voice, see and hear my noble champion? It can never have been that which
 made you serious, darling?’
 
 ‘No John, it wasn’t that, and still less was it Mrs Boffin, though I
-love her. Wait a moment, and I’ll go on with the lecture. Give me a
+[[Love|love]] her. Wait a moment, and I’ll go on with the lecture. Give me a
 moment, because I like to cry for joy. It’s so delicious, John dear, to
 cry for joy.’
 
@@ -117,7 +117,7 @@ she said, ‘I think I am ready now for Thirdly, John.’
 
 ‘I believe, John,’ pursued Bella, ‘that you believe that I believe—’
 
-‘My dear child,’ cried her husband gaily, ‘what a quantity of
+‘My dear [[Child|child]],’ cried her husband gaily, ‘what a quantity of
 believing!’
 
 ‘Isn’t there?’ said Bella, with another laugh. ‘I never knew such a
@@ -133,10 +133,10 @@ had to stint ourselves a little in purchases that we can afford to
 make now—would you still have the same confidence in my being quite
 contented, John?’
 
-‘Precisely the same confidence, my soul.’
+‘Precisely the same confidence, my [[Soul|soul]].’
 
 ‘Thank you, John dear, thousands upon thousands of times. And I may take
-it for granted, no doubt,’ with a little faltering, ‘that you would be
+it for granted, no [[Doubt|doubt]],’ with a little faltering, ‘that you would be
 quite as contented yourself John? But, yes, I know I may. For, knowing
 that I should be so, how surely I may know that you would be so; you who
 are so much stronger, and firmer, and more reasonable and more generous,
@@ -154,7 +154,7 @@ but she had returned to the investigation of the coat-button that had
 engaged her attention a few hours before, and scarcely seemed to heed
 what he said.
 
-‘And now we have got to the bottom of it at last,’ cried her husband,
+‘And now we have got to the [[Bottom|bottom]] of it at last,’ cried her husband,
 rallying her, ‘and this is the thing that made you serious?’
 
 ‘No dear,’ said Bella, twisting the button and shaking her head, ‘it
@@ -175,5 +175,5 @@ ships that might be sailing towards us from the unknown seas?’
 
 ‘Perfectly, my darling!’
 
-‘I think...among them...there is a ship upon the ocean...bringing...to
+‘I think...among them...there is a [[Ship|ship]] upon the ocean...bringing...to
 you and me...a little baby, John.’

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 9 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 9 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -53,25 +53,25 @@ I’ll ask you and John up to tea, and have him to meet you.’
 This was a charming idea, and having fully discussed it, the friends
 parted.
 
-It so fell out, that Mrs. Squeers’s journey, to some distance, to fetch
+It so fell out, that Mrs. Squeers’s [[Journey|journey]], to some distance, to fetch
 three new boys, and dun the relations of two old ones for the balance
 of a small account, was fixed that very afternoon, for the next day but
 one; and on the next day but one, Mrs. Squeers got up outside the coach,
 as it stopped to change at Greta Bridge, taking with her a small bundle
 containing something in a bottle, and some sandwiches, and carrying
-besides a large white top-coat to wear in the night-time; with which
+besides a large white top-coat to wear in the [[Night|night]]-[[Time|time]]; with which
 baggage she went her way.
 
 Whenever such opportunities as these occurred, it was Squeers’s custom
 to drive over to the market town, every evening, on pretence of urgent
-business, and stop till ten or eleven o’clock at a tavern he much
+business, and stop till ten or eleven o’[[Clock|clock]] at a tavern he much
 affected. As the party was not in his way, therefore, but rather
 afforded a means of compromise with Miss Squeers, he readily yielded his
 full assent thereunto, and willingly communicated to Nicholas that
 he was expected to take his tea in the parlour that evening, at five
-o’clock.
+o’[[Clock|clock]].
 
-To be sure Miss Squeers was in a desperate flutter as the time
+To be sure Miss Squeers was in a desperate flutter as the [[Time|time]]
 approached, and to be sure she was dressed out to the best advantage:
 with her hair--it had more than a tinge of red, and she wore it in a
 crop--curled in five distinct rows, up to the very top of her head, and
@@ -91,8 +91,8 @@ the long gloves on, all ready for company.
 
 ‘Where’s John, ‘Tilda?’ said Miss Squeers.
 
-‘Only gone home to clean himself,’ replied the friend. ‘He will be here
-by the time the tea’s drawn.’
+‘Only gone [[Home|home]] to clean himself,’ replied the friend. ‘He will be here
+by the [[Time|time]] the tea’s drawn.’
 
 ‘I do so palpitate,’ observed Miss Squeers.
 
@@ -128,13 +128,13 @@ off the teapot lid, and looking in, to see how the tea was getting on.
 It was matter of equal moment to Nicholas whether they were waiting for
 one gentleman or twenty, so he received the intelligence with perfect
 unconcern; and, being out of spirits, and not seeing any especial reason
-why he should make himself agreeable, looked out of the window and
+why he should make himself agreeable, looked out of the [[Window|window]] and
 sighed involuntarily.
 
 As luck would have it, Miss Squeers’s friend was of a playful turn, and
-hearing Nicholas sigh, she took it into her head to rally the lovers on
+hearing Nicholas sigh, she took it into her head to rally the [[lovers]] on
 their lowness of spirits.
 
 ‘But if it’s caused by my being here,’ said the young lady, ‘don’t mind
 me a bit, for I’m quite as bad. You may go on just as you would if you
-were alone.’
+were [[Alone|alone]].’

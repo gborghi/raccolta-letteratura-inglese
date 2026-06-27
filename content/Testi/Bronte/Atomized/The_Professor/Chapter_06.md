@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 5"
+title: "[[The Professor]] — Chapter 5"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,85 +18,85 @@ CHAPTER V.
 
 
 
-THERE is a climax to everything, to every state of feeling as well as to
+THERE is a climax to everything, to every state of feeling as [[Well|well]] as to
 
 every position in life. I turned this truism over in my mind as, in the
 
-frosty dawn of a January morning, I hurried down the steep and now
+frosty [[Dawn|dawn]] of a January morning, I hurried down the steep and now
 
-icy street which descended from Mrs. King’s to the Close. The factory
+icy street which descended from Mrs. [[King]]’s to the Close. The factory
 
 workpeople had preceded me by nearly an hour, and the mill was all
 
 lighted up and in full operation when I reached it. I repaired to my
 
-post in the counting-house as usual; the fire there, but just lit, as
+post in the counting-[[house]] as usual; the [[Fire|fire]] there, but just lit, as
 
 yet only smoked; Steighton had not yet arrived. I shut the door and sat
 
-down at the desk; my hands, recently washed in half-frozen water, were
+down at the desk; my hands, recently washed in half-frozen [[Water|water]], were
 
 still numb; I could not write till they had regained vitality, so I
 
 went on thinking, and still the theme of my thoughts was the “climax.”
 
- Self-dissatisfaction troubled exceedingly the current of my meditations.
+ [[Self]]-dissatisfaction troubled exceedingly the current of my meditations.
 
 
 
-“Come, William Crimsworth,” said my conscience, or whatever it is that
+“Come, [[William Crimsworth]],” said my [[Conscience|conscience]], or whatever it is that
 
 within ourselves takes ourselves to task--“come, get a clear notion of
 
 what you would have, or what you would not have. You talk of a climax;
 
-pray has your endurance reached its climax? It is not four months old.
+pray has your [[Endurance|endurance]] reached its climax? It is not four months old.
 
 What a fine resolute fellow you imagined yourself to be when you told
 
 Tynedale you would tread in your father’s steps, and a pretty treading
 
-you are likely to make of it! How well you like X----! Just at this
+you are likely to make of it! How [[Well|well]] you like X----! Just at this
 
 moment how redolent of pleasant associations are its streets, its shops,
 
 its warehouses, its factories! How the prospect of this day cheers
 
-you! Letter-copying till noon, solitary dinner at your lodgings,
+you! Letter-copying till [[Noon|noon]], solitary dinner at your lodgings,
 
-letter-copying till evening, solitude; for you neither find pleasure
+letter-copying till evening, [[Solitude|solitude]]; for you neither find pleasure
 
-in Brown’s, nor Smith’s, nor Nicholl’s, nor Eccle’s company; and as
+in Brown’s, nor [[smith|Smith]]’s, nor Nicholl’s, nor Eccle’s company; and as
 
 to Hunsden, you fancied there was pleasure to be derived from his
 
-society--he! he! how did you like the taste you had of him last night?
+society--he! he! how did you like the taste you had of him last [[Night|night]]?
 
 was it sweet? Yet he is a talented, an original-minded man, and even
 
-he does not like you; your self-respect defies you to like him; he has
+he does not like you; your [[Self|self]]-respect defies you to like him; he has
 
 always seen you to disadvantage; he always will see you to disadvantage;
 
 your positions are unequal, and were they on the same level your
 
-minds could not assimilate; never hope, then, to gather the honey of
+minds could not assimilate; never [[Hope|hope]], then, to gather the honey of
 
-friendship out of that thorn-guarded plant. Hello, Crimsworth! where are
+[[Friendship|friendship]] out of that thorn-guarded plant. Hello, Crimsworth! where are
 
 your thoughts tending? You leave the recollection of Hunsden as a bee
 
-would a rock, as a bird a desert; and your aspirations spread eager
+would a rock, as a bird a [[Desert|desert]]; and your aspirations spread eager
 
 wings towards a land of visions where, now in advancing daylight--in
 
-X---- daylight--you dare to dream of congeniality, repose, union. Those
+X---- daylight--you dare to dream of congeniality, repose, [[Union|union]]. Those
 
 three you will never meet in this world; they are angels. The souls of
 
-just men made perfect may encounter them in heaven, but your soul will
+just men made perfect may encounter them in heaven, but your [[Soul|soul]] will
 
-never be made perfect. Eight o’clock strikes! your hands are thawed, get
+never be made perfect. Eight o’[[Clock|clock]] strikes! your hands are thawed, get
 
 to work!”
 
@@ -110,19 +110,19 @@ work, it will do no good,” I growled; but nevertheless I drew out a
 
 packet of letters and commenced my task--task thankless and bitter as
 
-that of the Israelite crawling over the sun-baked fields of Egypt in
+that of the Israelite crawling over the sun-baked fields of [[Egypt]] in
 
 search of straw and stubble wherewith to accomplish his tale of bricks.
 
 
 
-About ten o’clock I heard Mr. Crimsworth’s gig turn into the yard, and
+About ten o’[[Clock|clock]] I heard Mr. Crimsworth’s gig turn into the yard, and
 
-in a minute or two he entered the counting-house. It was his custom to
+in a minute or two he entered the counting-[[house]]. It was his custom to
 
 glance his eye at Steighton and myself, to hang up his mackintosh, stand
 
-a minute with his back to the fire, and then walk out. Today he did
+a minute with his back to the [[Fire|fire]], and then walk out. Today he did
 
 not deviate from his usual habits; the only difference was that when
 
@@ -130,15 +130,15 @@ he looked at me, his brow, instead of being merely hard, was surly; his
 
 eye, instead of being cold, was fierce. He studied me a minute or two
 
-longer than usual, but went out in silence.
+longer than usual, but went out in [[Silence|silence]].
 
 
 
-Twelve o’clock arrived; the bell rang for a suspension of labour; the
+Twelve o’[[Clock|clock]] arrived; the bell rang for a suspension of labour; the
 
 workpeople went off to their dinners; Steighton, too, departed, desiring
 
-me to lock the counting-house door, and take the key with me. I
+me to lock the counting-[[house]] door, and take the key with me. I
 
 was tying up a bundle of papers, and putting them in their place,
 
@@ -150,11 +150,11 @@ and entering closed it behind him.
 
 “You’ll stay here a minute,” said he, in a deep, brutal voice, while his
 
-nostrils distended and his eye shot a spark of sinister fire.
+nostrils distended and his eye shot a spark of sinister [[Fire|fire]].
 
 
 
-Alone with Edward I remembered our relationship, and remembering that
+[[Alone]] with Edward I remembered our relationship, and remembering that
 
 forgot the difference of position; I put away deference and careful
 
@@ -162,7 +162,7 @@ forms of speech; I answered with simple brevity.
 
 
 
-“It is time to go home,” I said, turning the key in my desk.
+“It is [[Time|time]] to go [[Home|home]],” I said, turning the key in my desk.
 
 
 
@@ -196,7 +196,7 @@ there are the papers.”
 
 
 
-“Your work, and have done it well.”
+“Your work, and have done it [[Well|well]].”
 
 
 
@@ -210,11 +210,11 @@ and employed for greasing the same.)
 
 
 
-“Come, Edward Crimsworth, enough of this. It is time you and I wound up
+“Come, [[Edward Crimsworth]], enough of this. It is [[Time|time]] you and I wound up
 
 accounts. I have now given your service three months’ trial, and I find
 
-it the most nauseous slavery under the sun. Seek another clerk. I stay
+it the most nauseous [[Slavery|slavery]] under the sun. Seek another clerk. I stay
 
 no longer.”
 
@@ -244,7 +244,7 @@ me that!”
 
 
 
-“You? I have neither inclination nor temptation to talk about you.”
+“You? I have neither inclination nor [[Temptation|temptation]] to talk about you.”
 
 
 
@@ -264,7 +264,7 @@ from your bones with this whip.”
 
 He flourished his tool. The end of the lash just touched my forehead.
 
-A warm excited thrill ran through my veins, my blood seemed to give a
+A warm excited thrill ran through my veins, my [[Blood|blood]] seemed to give a
 
 bound, and then raced fast and hot along its channels. I got up nimbly,
 
@@ -306,17 +306,17 @@ question under discussion, by allusions to my private affairs; by cant
 
 about monsters without natural affection, family despots, and such
 
-trash; and when I rose to answer, I was met by a shout from the filthy
+trash; and when I [[Rose|rose]] to answer, I was met by a shout from the filthy
 
 mob, where the mention of your name enabled me at once to detect the
 
 quarter in which this base attack had originated. When I looked round, I
 
-saw that treacherous villain, Hunsden acting as fugleman. I detected you
+saw that treacherous [[Villain|villain]], Hunsden acting as fugleman. I detected you
 
-in close conversation with Hunsden at my house a month ago, and I know
+in close conversation with Hunsden at my [[house]] a month ago, and I know
 
-that you were at Hunsden’s rooms last night. Deny it if you dare.”
+that you were at Hunsden’s rooms last [[Night|night]]. Deny it if you dare.”
 
 
 
@@ -360,7 +360,7 @@ to bethink himself that, after all, his money gave him sufficient
 
 superiority over a beggar like me, and that he had in his hands a surer
 
-and more dignified mode of revenge than the somewhat hazardous one of
+and more dignified mode of [[Revenge|revenge]] than the somewhat hazardous one of
 
 personal chastisement.
 
@@ -380,11 +380,11 @@ belonging to me, I’ll hire a man to cane you.”
 
 “It is not likely you’ll have the chance; once off your premises, what
 
-temptation can I have to return to them? I leave a prison, I leave a
+[[Temptation|temptation]] can I have to return to them? I leave a [[Prison|prison]], I leave a
 
-tyrant; I leave what is worse than the worst that can lie before me, so
+[[Tyrant|tyrant]]; I leave what is worse than the worst that can lie before me, so
 
-no fear of my coming back.”
+no [[Fear|fear]] of my coming back.”
 
 
 
@@ -410,7 +410,7 @@ you.”
 
 “Look sharp about it, then,” said I, and I took down my hat, drew on my
 
-gloves, and walked leisurely out of the counting-house--walked out of it
+gloves, and walked leisurely out of the counting-[[house]]--walked out of it
 
 to enter it no more.
 
@@ -422,7 +422,7 @@ Crimsworth entered, and the scene above related took place, I had had
 
 rather a sharp appetite, and had been waiting somewhat impatiently to
 
-hear the signal of feeding time. I forgot it now, however; the images
+hear the signal of feeding [[Time|time]]. I forgot it now, however; the images
 
 of potatoes and roast mutton were effaced from my mind by the stir and
 
@@ -436,7 +436,7 @@ I do otherwise? A load was lifted off my heart; I felt light and
 
 liberated. I had got away from Bigben Close without a breach of
 
-resolution; without injury to my self-respect. I had not forced
+resolution; without injury to my [[Self|self]]-respect. I had not forced
 
 circumstances; circumstances had freed me. Life was again open to me;
 
@@ -450,31 +450,31 @@ boundaries I had exchanged that sooty girdle. When I did look up, lo!
 
 straight before me lay Grovetown, a village of villas about five miles
 
-out of X----. The short winter day, as I perceived from the far-declined
+out of X----. The short [[Winter|winter]] day, as I perceived from the far-declined
 
-sun, was already approaching its close; a chill frost-mist was rising
+sun, was already approaching its close; a chill [[Frost|frost]]-mist was rising
 
-from the river on which X---- stands, and along whose banks the road I
+from the [[River|river]] on which X---- stands, and along whose banks the [[Road|road]] I
 
 had taken lay; it dimmed the earth, but did not obscure the clear icy
 
 blue of the January sky. There was a great stillness near and far; the
 
-time of the day favoured tranquillity, as the people were all employed
+[[Time|time]] of the day favoured tranquillity, as the people were all employed
 
 within-doors, the hour of evening release from the factories not being
 
-yet arrived; a sound of full-flowing water alone pervaded the air, for
+yet arrived; a sound of full-flowing [[Water|water]] [[Alone|alone]] pervaded the air, for
 
-the river was deep and abundant, swelled by the melting of a late snow.
+the [[River|river]] was deep and abundant, swelled by the melting of a late [[Snow|snow]].
 
 I stood awhile, leaning over a wall; and looking down at the current:
 
-I watched the rapid rush of its waves. I desired memory to take a clear
+I watched the rapid rush of its waves. I desired [[Memory|memory]] to take a clear
 
 and permanent impression of the scene, and treasure it for future years.
 
-Grovetown church clock struck four; looking up, I beheld the last of
+Grovetown church [[Clock|clock]] struck four; looking up, I beheld the last of
 
 that day’s sun, glinting red through the leafless boughs of some
 

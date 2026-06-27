@@ -29,7 +29,7 @@ Really what she had to endure sometimes, was more than any one who saw
 her in every-day life could by possibility suppose.—The story was now a
 painful subject, and therefore Mr. Parsons declined to enter into any
 details, and contented himself by stating that the man was a maniac,
-who had escaped from a neighbouring mad-house.
+who had escaped from a neighbouring mad-[[house]].
 
 The cloth was removed; the ladies soon afterwards retired, and Miss
 Lillerton played the piano in the drawing-room overhead, very loudly,
@@ -37,7 +37,7 @@ for the edification of the visitor. Mr. Watkins Tottle and Mr. Gabriel
 Parsons sat chatting comfortably enough, until the conclusion of the
 second bottle, when the latter, in proposing an adjournment to the
 drawing-room, informed Watkins that he had concerted a plan with his
-wife, for leaving him and Miss Lillerton alone, soon after tea.
+wife, for leaving him and Miss Lillerton [[Alone|alone]], soon after tea.
 
 ‘I say,’ said Tottle, as they went up-stairs, ‘don’t you think it would
 be better if we put it off till-till-to-morrow?’
@@ -46,15 +46,15 @@ be better if we put it off till-till-to-morrow?’
 that wretched hole I found you in this morning?’ retorted Parsons
 bluntly.
 
-‘Well—well—I only made a suggestion,’ said poor Watkins Tottle, with a
+‘[[Well]]—[[Well|well]]—I only made a suggestion,’ said poor Watkins Tottle, with a
 deep sigh.
 
 Tea was soon concluded, and Miss Lillerton, drawing a small work-table
-on one side of the fire, and placing a little wooden frame upon it,
-something like a miniature clay-mill without the horse, was soon busily
+on one side of the [[Fire|fire]], and placing a little wooden frame upon it,
+something like a miniature clay-mill without the [[Horse|horse]], was soon busily
 engaged in making a watch-guard with brown silk.
 
-‘God bless me!’ exclaimed Parsons, starting up with well-feigned
+‘God bless me!’ exclaimed Parsons, starting up with [[Well|well]]-feigned
 surprise, ‘I’ve forgotten those confounded letters. Tottle, I know
 you’ll excuse me.’
 
@@ -66,11 +66,11 @@ He had scarcely left, when Martha put her head into the room,
 with—‘Please, ma’am, you’re wanted.’
 
 Mrs. Parsons left the room, shut the door carefully after her, and Mr.
-Watkins Tottle was left alone with Miss Lillerton.
+Watkins Tottle was left [[Alone|alone]] with Miss Lillerton.
 
-For the first five minutes there was a dead silence.—Mr. Watkins Tottle
+For the first five minutes there was a dead [[Silence|silence]].—Mr. Watkins Tottle
 was thinking how he should begin, and Miss Lillerton appeared to be
-thinking of nothing. The fire was burning low; Mr. Watkins Tottle
+thinking of nothing. The [[Fire|fire]] was burning low; Mr. Watkins Tottle
 stirred it, and put some coals on.
 
 ‘Hem!’ coughed Miss Lillerton; Mr. Watkins Tottle thought the fair
@@ -88,7 +88,7 @@ creature had spoken. ‘I beg your pardon,’ said he.
 look at them,’ said Miss Lillerton, after the lapse of another five
 minutes.
 
-‘No, thank you,’ returned Watkins; and then he added, with a courage
+‘No, thank you,’ returned Watkins; and then he added, with a [[Courage|courage]]
 which was perfectly astonishing, even to himself, ‘Madam, that is Miss
 Lillerton, I wish to speak to you.’
 
@@ -96,12 +96,12 @@ Lillerton, I wish to speak to you.’
 sliding her chair back a few paces.—‘Speak—to me!’
 
 ‘To you, madam—and on the subject of the state of your affections.’ The
-lady hastily rose and would have left the room; but Mr. Watkins Tottle
+lady hastily [[Rose|rose]] and would have left the room; but Mr. Watkins Tottle
 gently detained her by the hand, and holding it as far from him as the
 joint length of their arms would permit, he thus proceeded: ‘Pray do
 not misunderstand me, or suppose that I am led to address you, after so
 short an acquaintance, by any feeling of my own merits—for merits I
-have none which could give me a claim to your hand. I hope you will
+have none which could give me a claim to your hand. I [[Hope|hope]] you will
 acquit me of any presumption when I explain that I have been acquainted
 through Mrs. Parsons, with the state—that is, that Mrs. Parsons has
 told me—at least, not Mrs. Parsons, but—’ here Watkins began to wander,
@@ -118,7 +118,7 @@ girlish air, ‘what could induce _you_ to seek such an interview as
 this? What can your object be? How can I promote your happiness, Mr.
 Tottle?’
 
-Here was the time for a flourish—‘By allowing me,’ replied Watkins,
+Here was the [[Time|time]] for a flourish—‘By allowing me,’ replied Watkins,
 falling bump on his knees, and breaking two brace-buttons and a
 waistcoat-string, in the act—‘By allowing me to be your slave, your
 servant—in short, by unreservedly making me the confidant of your

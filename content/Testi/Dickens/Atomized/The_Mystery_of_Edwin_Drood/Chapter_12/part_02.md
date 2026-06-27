@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 11 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 11 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -34,7 +34,7 @@ How do you do, Mr. Edwin? Dear me, you’re choking!”
 Cayenne pepper.”
 
 “Is it really so bad as that? Pray undo your wrappers. It’s fortunate I
-have so good a fire; but Mr. Bazzard has taken care of me.”
+have so good a [[Fire|fire]]; but Mr. Bazzard has taken care of me.”
 
 “No I haven’t,” said Mr. Bazzard at the door.
 
@@ -44,7 +44,7 @@ beg! Coming out of such an atmosphere, in _my_ chair.”
 
 Edwin took the easy-chair in the corner; and the fog he had brought in
 with him, and the fog he took off with his greatcoat and neck-shawl,
-was speedily licked up by the eager fire.
+was speedily licked up by the eager [[Fire|fire]].
 
 “I look,” said Edwin, smiling, “as if I had come to stop.”
 
@@ -97,9 +97,9 @@ or commissariat department. Because he mightn’t like it.”
 “His own way?” returned Mr. Grewgious. “O dear no! Poor fellow, you
 quite mistake him. If he had his own way, he wouldn’t be here.”
 
-“I wonder where he would be!” Edwin thought. But he only thought it,
+“I [[Wonder|wonder]] where he would be!” Edwin thought. But he only thought it,
 because Mr. Grewgious came and stood himself with his back to the other
-corner of the fire, and his shoulder-blades against the chimneypiece,
+corner of the [[Fire|fire]], and his shoulder-blades against the chimneypiece,
 and collected his skirts for easy conversation.
 
 “I take it, without having the gift of prophecy, that you have done me
@@ -116,10 +116,10 @@ sharpen me up a bit in any proceedings? Eh, Mr. Edwin?”
 
 Mr. Grewgious had meant to be arch—not that he in the remotest degree
 expressed that meaning—and had brought himself into scarcely
-supportable proximity with the fire, as if to burn the fullest effect
+supportable proximity with the [[Fire|fire]], as if to burn the fullest effect
 of his archness into himself, as other subtle impressions are burnt
 into hard metals. But his archness suddenly flying before the composed
-face and manner of his visitor, and only the fire remaining, he started
+face and manner of his visitor, and only the [[Fire|fire]] remaining, he started
 and rubbed himself.
 
 “I have lately been down yonder,” said Mr. Grewgious, rearranging his
@@ -136,8 +136,8 @@ Edwin coloured a little as he explained: “I call Rosa Pussy.”
 affable.”
 
 Edwin glanced at his face, uncertain whether or no he seriously
-objected to the appellation. But Edwin might as well have glanced at
-the face of a clock.
+objected to the appellation. But Edwin might as [[Well|well]] have glanced at
+the face of a [[Clock|clock]].
 
 “A pet name, sir,” he explained again.
 
@@ -155,7 +155,7 @@ anything about the Landlesses?”
 “No,” said Mr. Grewgious. “What is the Landlesses? An estate? A villa?
 A farm?”
 
-“A brother and sister. The sister is at the Nuns’ House, and has become
+“A brother and sister. The sister is at the Nuns’ [[house|House]], and has become
 a great friend of P—”
 
 “PRosa’s,” Mr. Grewgious struck in, with a fixed face.
@@ -167,7 +167,7 @@ been described to you, or presented to you perhaps?”
 
 Bazzard returned, accompanied by two waiters—an immovable waiter, and a
 flying waiter; and the three brought in with them as much fog as gave a
-new roar to the fire. The flying waiter, who had brought everything on
+new roar to the [[Fire|fire]]. The flying waiter, who had brought everything on
 his shoulders, laid the cloth with amazing rapidity and dexterity;
 while the immovable waiter, who had brought nothing, found fault with
 him. The flying waiter then highly polished all the glasses he had
@@ -176,11 +176,11 @@ waiter then flew across Holborn for the soup, and flew back again, and
 then took another flight for the made-dish, and flew back again, and
 then took another flight for the joint and poultry, and flew back
 again, and between whiles took supplementary flights for a great
-variety of articles, as it was discovered from time to time that the
+variety of articles, as it was discovered from [[Time|time]] to [[Time|time]] that the
 immovable waiter had forgotten them all. But let the flying waiter
 cleave the air as he might, he was always reproached on his return by
 the immovable waiter for bringing fog with him, and being out of
-breath. At the conclusion of the repast, by which time the flying
+breath. At the conclusion of the repast, by which [[Time|time]] the flying
 waiter was severely blown, the immovable waiter gathered up the
 tablecloth under his arm with a grand air, and having sternly (not to
 say with indignation) looked on at the flying waiter while he set the

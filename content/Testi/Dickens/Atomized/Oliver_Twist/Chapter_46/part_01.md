@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 46 (part 1)"
+title: "[[Oliver Twist]] — Chapter 46 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -19,10 +19,10 @@ THE APPOINTMENT KEPT
 
 
 The church clocks chimed three quarters past eleven, as two figures
-emerged on London Bridge. One, which advanced with a swift and rapid
+emerged on [[London]] Bridge. One, which advanced with a swift and rapid
 step, was that of a woman who looked eagerly about her as though in
-quest of some expected object; the other figure was that of a man, who
-slunk along in the deepest shadow he could find, and, at some distance,
+[[Quest|quest]] of some expected object; the other figure was that of a man, who
+slunk along in the deepest [[Shadow|shadow]] he could find, and, at some distance,
 accommodated his pace to hers: stopping when she stopped: and as she
 moved again, creeping stealthily on: but never allowing himself, in the
 ardour of his pursuit, to gain upon her footsteps. Thus, they crossed
@@ -36,21 +36,21 @@ opposite pavement. When she was about the same distance in advance as
 she had been before, he slipped quietly down, and followed her again.
 At nearly the centre of the bridge, she stopped. The man stopped too.
 
-It was a very dark night. The day had been unfavourable, and at that
+It was a very dark [[Night|night]]. The day had been unfavourable, and at that
 hour and place there were few people stirring. Such as there were,
 hurried quickly past: very possibly without seeing, but certainly
 without noticing, either the woman, or the man who kept her in view.
 Their appearance was not calculated to attract the importunate regards
-of such of London’s destitute population, as chanced to take their way
-over the bridge that night in search of some cold arch or doorless
-hovel wherein to lay their heads; they stood there in silence: neither
+of such of [[London]]’s destitute population, as chanced to take their way
+over the bridge that [[Night|night]] in search of some cold arch or doorless
+hovel wherein to lay their heads; they stood there in [[Silence|silence]]: neither
 speaking nor spoken to, by any one who passed.
 
-A mist hung over the river, deepening the red glare of the fires that
+A mist hung over the [[River|river]], deepening the red glare of the fires that
 burnt upon the small craft moored off the different wharfs, and
 rendering darker and more indistinct the murky buildings on the banks.
-The old smoke-stained storehouses on either side, rose heavy and dull
-from the dense mass of roofs and gables, and frowned sternly upon water
+The old smoke-stained storehouses on either side, [[Rose|rose]] heavy and dull
+from the dense mass of roofs and gables, and frowned sternly upon [[Water|water]]
 too black to reflect even their lumbering shapes. The tower of old
 Saint Saviour’s Church, and the spire of Saint Magnus, so long the
 giant-warders of the ancient bridge, were visible in the gloom; but the
@@ -59,10 +59,10 @@ churches above, were nearly all hidden from sight.
 
 The girl had taken a few restless turns to and fro—closely watched
 meanwhile by her hidden observer—when the heavy bell of St. Paul’s
-tolled for the death of another day. Midnight had come upon the crowded
-city. The palace, the night-cellar, the jail, the madhouse: the
-chambers of birth and death, of health and sickness, the rigid face of
-the corpse and the calm sleep of the child: midnight was upon them all.
+tolled for the [[Death|death]] of another day. Midnight had come upon the crowded
+[[City|city]]. The palace, the [[Night|night]]-cellar, the jail, the madhouse: the
+chambers of birth and [[Death|death]], of health and sickness, the rigid face of
+the corpse and the calm [[Sleep|sleep]] of the [[Child|child]]: midnight was upon them all.
 
 The hour had not struck two minutes, when a young lady, accompanied by
 a grey-haired gentleman, alighted from a hackney-carriage within a
@@ -77,8 +77,8 @@ They halted with an exclamation of surprise, but suppressed it
 immediately; for a man in the garments of a countryman came close
 up—brushed against them, indeed—at that precise moment.
 
-“Not here,” said Nancy hurriedly, “I am afraid to speak to you here.
-Come away—out of the public road—down the steps yonder!”
+“Not here,” said [[Nancy]] hurriedly, “I am afraid to speak to you here.
+Come away—out of the public [[Road|road]]—down the steps yonder!”
 
 As she uttered these words, and indicated, with her hand, the direction
 in which she wished them to proceed, the countryman looked round, and
@@ -86,7 +86,7 @@ roughly asking what they took up the whole pavement for, passed on.
 
 The steps to which the girl had pointed, were those which, on the
 Surrey bank, and on the same side of the bridge as Saint Saviour’s
-Church, form a landing-stairs from the river. To this spot, the man
+Church, form a landing-stairs from the [[River|river]]. To this spot, the man
 bearing the appearance of a countryman, hastened unobserved; and after
 a moment’s survey of the place, he began to descend.
 
@@ -102,13 +102,13 @@ slipped aside, with his back to the pilaster, and there waited: pretty
 certain that they would come no lower, and that even if he could not
 hear what was said, he could follow them again, with safety.
 
-So tardily stole the time in this lonely place, and so eager was the
+So tardily stole the [[Time|time]] in this lonely place, and so eager was the
 spy to penetrate the motives of an interview so different from what he
 had been led to expect, that he more than once gave the matter up for
 lost, and persuaded himself, either that they had stopped far above, or
 had resorted to some entirely different spot to hold their mysterious
 conversation. He was on the point of emerging from his hiding-place,
-and regaining the road above, when he heard the sound of footsteps, and
+and regaining the [[Road|road]] above, when he heard the sound of footsteps, and
 directly afterwards of voices almost close at his ear.
 
 He drew himself straight upright against the wall, and, scarcely
@@ -117,8 +117,8 @@ breathing, listened attentively.
 “This is far enough,” said a voice, which was evidently that of the
 gentleman. “I will not suffer the young lady to go any farther. Many
 people would have distrusted you too much to have come even so far, but
-you see I am willing to humour you.”
+you see I am willing to [[Humour|humour]] you.”
 
-“To humour me!” cried the voice of the girl whom he had followed.
-“You’re considerate, indeed, sir. To humour me! Well, well, it’s no
+“To [[Humour|humour]] me!” cried the voice of the girl whom he had followed.
+“You’re considerate, indeed, sir. To [[Humour|humour]] me! [[Well]], [[Well|well]], it’s no
 matter.”

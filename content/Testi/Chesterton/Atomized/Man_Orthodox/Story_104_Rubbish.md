@@ -19,11 +19,11 @@ RUBBISH
 This title, however true, is not a mere explosion of my literary modesty.
 It refers, not solely to the article itself, but also to a superb
 pile of wood, straw, tar, paper and every random substance which is
-erected in a field just beyond the end of my garden.  It is, as you
+erected in a field just beyond the end of my [[Garden|garden]].  It is, as you
 may guess, a Coronation bonfire; but we remote rustics have to write
 our articles months, so to speak, before the actual Coronation,
 and the pile is at present, unfinished and indeed deficient.
-I have ransacked house and garden for some time to find rubbish
+I have ransacked [[house]] and [[Garden|garden]] for some [[Time|time]] to find rubbish
 to assist the conflagration; and my eye has suddenly fallen
 on a pile of fine old quarterlies, works on agnosticism, etc.
 These I am carrying across to the bonfire.  Do not fancy that
@@ -32,18 +32,18 @@ I mean a particular kind of vagueness and verbiage which must be cut
 away and cleared before a man can deal with his real adversaries.
 I do not call Socialism rubbish; I call it a very powerful,
 plausible and dangerous drug.  I do not call Imperialism rubbish;
-I call it poison.  But I do call `true Imperialism' rubbish and
+I call it [[Poison|poison]].  But I do call `true Imperialism' rubbish and
 `true Socialism' rubbish, for they amount to nothing more than a mild
 Pharisaism about one's own marvellous merit in loving one's country
 or being sorry for the poor.  Nor would I treat as rubbish anything,
 how ever alien or fantastic, which had a positive significance
-of any sort.  I would not throw into my bonfire the Crown of France
+of any sort.  I would not throw into my bonfire the [[Crown]] of France
 or the Koran or the Lord's Day Observance Act or the Stuart tartan.
 I should not see mere rubbish in things that meant something,
 even if we cannot now decipher what it was, as in obscure and perhaps
 frightful figures and legends that crumble on Assyrian bas-reliefs
 in Bloomsbury, or in that ring of rock that stands over Salisbury Plain
-like stones in the crown of some primordial king of giants.
+like stones in the [[Crown|crown]] of some primordial [[King|king]] of giants.
 Nor again would I class as rubbish (in this sense) those other examples
 in which we can decipher the statements and see that they are untrue;
 as in the case of the Monument in Fish Street or the scientific
@@ -51,7 +51,7 @@ works of Mr Haeckel.
 
 But I mean things that never meant anything; I mean
 the states manlike pronouncements, the wide outlooks and the
-well-considered conclusions; I mean whole shelves of Hansard
+[[Well|well]]-considered conclusions; I mean whole shelves of Hansard
 and whole stacks of the Higher Thought Review; all the leading
 articles that oscillate faintly between two unimportant opinions;
 all the public speakers who are `far from saying' this or `the
@@ -65,12 +65,12 @@ all the streams of sentimentalism poured out when you turn the tap,
 in defence of the dirtiest convenience or the dullest hack politics;
 all the consciousness of the solemnity of the responsibility,
 all the realization of the reality of the tendency; in short,
-all that grows in that wilderness of pride and folly,
+all that grows in that wilderness of [[Pride|pride]] and folly,
 where pomposity grows like tall grass and polysyllables crawl
 about like caterpillars.  ...
 
 But I must break off; because I have to carry all my modern problem
-novels and books of philosophy and high-class quarterly magazines
-across to the bonfire beyond the end of my garden.
+novels and books of [[philosophy]] and high-class quarterly magazines
+across to the bonfire beyond the end of my [[Garden|garden]].
 
                                                Daily News, June 24th, 1911

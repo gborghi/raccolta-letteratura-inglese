@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Blackwood Article (part 2)"
+title: "[[How to Write a Blackwood Article]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/How-to-Write-a-Blackwood-Article-(Poe)"
@@ -38,7 +38,7 @@ tags:
 
       solemnity of manner, “mark me!—that pen—must—never be mended!
 
-      Herein, madam, lies the secret, the soul, of intensity. I assume
+      Herein, madam, lies the secret, the [[Soul|soul]], of intensity. I assume
 
       upon myself to say, that no individual, of however great genius
 
@@ -46,7 +46,7 @@ tags:
 
       take, it for granted, that when manuscript can be read it is
 
-      never worth reading. This is a leading principle in our faith, to
+      never worth reading. This is a leading principle in our [[Faith|faith]], to
 
       which if you cannot readily assent, our conference is at an end.”
 
@@ -56,7 +56,7 @@ tags:
 
       conference, I assented to a proposition so very obvious, and one,
 
-      too, of whose truth I had all along been sufficiently aware. He
+      too, of whose [[Truth|truth]] I had all along been sufficiently aware. He
 
       seemed pleased, and went on with his instructions.
 
@@ -66,21 +66,21 @@ tags:
 
       to any article, or set of articles, in the way of model or study,
 
-      yet perhaps I may as well call your attention to a few cases. Let
+      yet perhaps I may as [[Well|well]] call your attention to a few cases. Let
 
       me see. There was ‘The Dead Alive,’ a capital thing!—the record
 
       of a gentleman’s sensations when entombed before the breath was
 
-      out of his body—full of tastes, terror, sentiment, metaphysics,
+      out of his [[Body|body]]—full of tastes, terror, sentiment, metaphysics,
 
       and erudition. You would have sworn that the writer had been born
 
       and brought up in a coffin. Then we had the ‘Confessions of an
 
-      Opium-eater’—fine, very fine!—glorious imagination—deep
+      Opium-eater’—fine, very fine!—glorious [[Imagination|imagination]]—deep
 
-      philosophy acute speculation—plenty of fire and fury, and a good
+      [[philosophy]] acute speculation—plenty of [[Fire|fire]] and fury, and a good
 
       spicing of the decidedly unintelligible. That was a nice bit of
 
@@ -90,7 +90,7 @@ tags:
 
       was composed by my pet baboon, Juniper, over a rummer of Hollands
 
-      and water, ‘hot, without sugar.’” [This I could scarcely have
+      and [[Water|water]], ‘hot, without sugar.’” [This I could scarcely have
 
       believed had it been anybody but Mr. Blackwood, who assured me of
 
@@ -98,7 +98,7 @@ tags:
 
       a gentleman who got baked in an oven, and came out alive and
 
-      well, although certainly done to a turn. And then there was ‘The
+      [[Well|well]], although certainly done to a turn. And then there was ‘The
 
       Diary of a Late Physician,’ where the merit lay in good rant, and
 
@@ -108,7 +108,7 @@ tags:
 
       Zenobia, which I cannot sufficiently recommend to your attention.
 
-      It is the history of a young person who goes to sleep under the
+      It is the [[history]] of a young person who goes to [[Sleep|sleep]] under the
 
       clapper of a church bell, and is awakened by its tolling for a
 
@@ -156,9 +156,9 @@ tags:
 
       misadventure. I should prefer, however, that you have the actual
 
-      fact to bear you out. Nothing so well assists the fancy, as an
+      fact to bear you out. Nothing so [[Well|well]] assists the fancy, as an
 
-      experimental knowledge of the matter in hand. ‘Truth is strange,’
+      experimental knowledge of the matter in hand. ‘[[Truth]] is strange,’
 
       you know, ‘stranger than fiction’—besides being more to the
 
@@ -178,9 +178,9 @@ tags:
 
       pills, and then give us your sensations. However, my instructions
 
-      will apply equally well to any variety of misadventure, and in
+      will apply equally [[Well|well]] to any variety of misadventure, and in
 
-      your way home you may easily get knocked in the head, or run over
+      your way [[Home|home]] you may easily get knocked in the head, or run over
 
       by an omnibus, or bitten by a mad dog, or drowned in a gutter.
 
@@ -210,4 +210,4 @@ tags:
 
       all in a whirl, like a humming-top, and make a noise very
 
-      similar, which answers remarkably well instead of meaning. This
+      similar, which answers remarkably [[Well|well]] instead of meaning. This

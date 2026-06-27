@@ -1,5 +1,5 @@
 ---
-title: "The System of Doctor Tarr and Professor Fether (part 4)"
+title: "[[The System of Doctor Tarr and Professor Fether]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
@@ -50,7 +50,7 @@ tags:
 
 
 
-      “Thank you, no,” I replied; “to say the truth, I am not
+      “Thank you, no,” I replied; “to say the [[Truth|truth]], I am not
 
       particularly partial to veal _à la St_.—what is it?—for I do not
 
@@ -104,9 +104,9 @@ tags:
 
       been broken off,—“and then, among other oddities, we had a
 
-      patient, once upon a time, who very pertinaciously maintained
+      patient, once upon a [[Time|time]], who very pertinaciously maintained
 
-      himself to be a Cordova cheese, and went about, with a knife in
+      himself to be a Cordova [[cheese]], and went about, with a knife in
 
       his hand, soliciting his friends to try a small slice from the
 
@@ -114,7 +114,7 @@ tags:
 
 
 
-      “He was a great fool, beyond doubt,” interposed some one, “but
+      “He was a great [[Fool|fool]], beyond [[Doubt|doubt]],” interposed some one, “but
 
       not to be compared with a certain individual whom we all know,
 
@@ -134,7 +134,7 @@ tags:
 
       tongue upon the teeth, created a sharp hissing and fizzing, which
 
-      lasted for several minutes, in imitation of the frothing of
+      lasted for several minutes, in [[Imitation|imitation]] of the frothing of
 
       champagne. This behavior, I saw plainly, was not very pleasing to
 
@@ -170,7 +170,7 @@ tags:
 
 
 
-      “I have no doubt of it,” I said.
+      “I have no [[Doubt|doubt]] of it,” I said.
 
 
 
@@ -218,7 +218,7 @@ tags:
 
       Bouffon Le Grand—another extraordinary personage in his way. He
 
-      grew deranged through love, and fancied himself possessed of two
+      grew deranged through [[Love|love]], and fancied himself possessed of two
 
       heads. One of these he maintained to be the head of Cicero; the
 

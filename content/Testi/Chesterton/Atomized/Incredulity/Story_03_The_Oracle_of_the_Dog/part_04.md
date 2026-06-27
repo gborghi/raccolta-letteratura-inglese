@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Oracle of the Dog (part 4)"
+title: "[[Incredulity]] — The Oracle of the Dog (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -21,10 +21,10 @@ be two witnesses.'
 but he was sent for again next day because the old man had a doubt
 about one of the witnesses and had to be reassured.'
 
-`Who were the witnesses?' asked Father Brown.
+`Who were the witnesses?' asked [[Father Brown]].
 
 `That's just the point,' replied his informant eagerly, `the witnesses
-were Floyd, the secretary, and this Dr Valentine, the foreign
+were Floyd, the secretary, and this Dr [[Valentine]], the foreign
 sort of surgeon or whatever he is; and the two had a quarrel.
 Now I'm bound to say that the secretary is something of a busybody.
 He's one of those hot and headlong people whose warmth of temperament
@@ -34,17 +34,17 @@ haired red--hot fellow is always either universally credulous
 or universally incredulous; and sometimes both.  He was not only
 a Jack--of--all--trades, but he knew better than all tradesmen.
 He not only knew everything, but he warned everybody against everybody.
-All that must be taken into account in his suspicions about Valentine;
+All that must be taken into account in his suspicions about [[Valentine]];
 but in that particular case there seems to have been something behind it.
-He said the name of Valentine was not really Valentine.
+He said the name of [[Valentine]] was not really [[Valentine]].
 He said he had seen him elsewhere known by the name of De Villon.
 He said it would invalidate the will; of course he was kind
 enough to explain to the lawyer what the law was on that point.
 They were both in a frightful wax.'
 
-Father Brown laughed.  `People often are when they are to witness a will,'
+[[Father Brown]] laughed.  `People often are when they are to witness a will,'
 he said; `for one thing, it means that they can't have any legacy
-under it.  But what did Dr Valentine say?  No doubt the universal
+under it.  But what did Dr [[Valentine]] say?  No [[Doubt|doubt]] the universal
 secretary knew more about the doctor's name than the doctor did.
 But even the doctor might have some information about his own name.'
 
@@ -88,7 +88,7 @@ about witnessing the will?'
 as the secretary was.  It was the secretary who went away raging
 after witnessing the will.'
 
-`And now,' said Father Brown,' what about the will itself?'
+`And now,' said [[Father Brown]],' what about the will itself?'
 
 `The Colonel was a very wealthy man, and his will was important.
 Traill wouldn't tell us the alteration at that stage,
@@ -98,7 +98,7 @@ I told you that Druce was wild with my friend Donald over
 his dissipated hours.'
 
 `The question of motive has been rather over--shadowed by
-the question of method,' observed Father Brown thoughtfully.
+the question of method,' observed [[Father Brown]] thoughtfully.
 `At that moment, apparently, Miss Druce was the immediate
 gainer by the death.'
 
@@ -111,7 +111,7 @@ staring at him.  `You don't really mean to hint that she--`
 `But he is liked and respected in the place and is a skilled
 and devoted surgeon.'
 
-`So devoted a surgeon,' said Father Brown, `that he had surgical
+`So devoted a surgeon,' said [[Father Brown]], `that he had surgical
 instruments with him when he went to call on the young lady at teatime.
 For he must have used a lancet or something, and he never seems
 to have gone home.'
@@ -119,7 +119,7 @@ to have gone home.'
 Fiennes sprang to his feet and looked at him in a heat of inquiry.
 'You suggest he might have used the very same lancet--`
 
-Father Brown shook his head.  `All these suggestions are fancies
+[[Father Brown]] shook his head.  `All these suggestions are fancies
 just now,' he said.  `The problem is not who did it or what did it,
 but how it was done.  We might find many men and even many tools--
 pins and shears and lancets.  But how did a man get into the room?

@@ -32,7 +32,7 @@ prevented people feeling him to be the very reverse of realistic,
 and in some ways strangely unreal.
 
 But there is, of course, a much deeper objection to the whole of this
-new sort of Experience Philosophy, which is quite sufficiently
+new sort of Experience [[philosophy|Philosophy]], which is quite sufficiently
 exposed in the very examples I quoted from the magazine.
 There are certainly all sorts of experiences, some great and some small.
 But the small ones are those which the critic imagines to be great,
@@ -52,7 +52,7 @@ But this sort of moralist or immoralist has a queer, half-baked prejudice
 to the effect that there is no good in anything until it has gone bad.
 It is supposed to be a part of Experience for the woman to be a vamp,
 but not for the woman to be a mother; although it stares us all
-in the face, as a stark fact of common sense, that child-bearing
+in the face, as a stark fact of common sense, that [[Child|child]]-bearing
 really is an experience, and a highly realistic experience,
 while the other sort of experiment may not really be an experience
 at all.  It may be in the exact sense mere play-acting;
@@ -65,7 +65,7 @@ That would not be Life.
 Now, if there is one thing of which I have been certain
 since my boyhood, and grow more certain as I advance in age,
 it is that nothing is poetical if plain daylight is not poetical;
-and no monster should amaze us if the normal man does not amaze.
+and no [[Monster|monster]] should amaze us if the normal man does not amaze.
 All this talk of waiting for experiences in order to write
 is simply a confession of incapacity to experience anything.
 It is a confession of never having felt the big facts in such
@@ -77,7 +77,7 @@ But it is futile for him to suppose that this sort of quackery
 will teach him how to be a writer, for he has been from the first
 admittedly blind to everything that is worth writing about.
 He will find nothing in the wilderness but the broken shards or ruins
-of what should have been sacred in his own home; and if he can really
+of what should have been sacred in his own [[Home|home]]; and if he can really
 make nothing of the second he will certainly make nothing of the first.
 The whole theory rests on a ridiculous confusion by which it is
 supposed that certain primary principles or relations will become
@@ -86,9 +86,9 @@ when they are intact.  None of those who are perpetually suggesting
 this view ever states it thus plainly; for they are incapable of making
 plain statements, just as they are incapable of feeling plain things.
 But the point they have to prove, if they really want their
-Experience Philosophy accepted by those who do not care for catchwords,
+Experience [[philosophy|Philosophy]] accepted by those who do not care for catchwords,
 is that the high perils, pleasures, and creative joys of life
-do not occur on the high road of life, but only in certain crooked
+do not occur on the high [[Road|road]] of life, but only in certain crooked
 and rambling by-paths made entirely by people who have lost their way.
 As yet they have not even begun to prove it; and in any case,
 and in every sense, it could be disproved by a baby.
@@ -96,7 +96,7 @@ and in every sense, it could be disproved by a baby.
 XXXI.  On Sightseeing
 
 I HAVE often done my best to consider, in various aspects,
-what is really the matter with Sightseeing.  Or rather, I hope,
+what is really the matter with Sightseeing.  Or rather, I [[Hope|hope]],
 I have done my best to consider what is the matter with me,
 when I find myself faintly fatigued by Sightseeing.
 For it is always wiser to consider not so much why a thing is
@@ -114,14 +114,14 @@ in itself to depress any imaginative and sympathetic mind.
 On the contrary, such a mind ought to perceive that there is something
 of the same mystery or majesty in the mob as in the monument.
 It is a weakness to fail in feeling that a statue standing on a
-pedestal above a street, the statue of a hero, carved by an artist,
-for the honour and glory of a city, is, so far as it goes,
+pedestal above a street, the statue of a [[Hero|hero]], carved by an [[Artist|artist]],
+for the [[Honour|honour]] and glory of a [[City|city]], is, so far as it goes,
 a marvellous and impressive work of man.  But it is far more
 of a weakness to fail in feeling that a hundred statues walking
 about the street, alive with the miracle of a mysterious vitality,
 are a marvellous and impressive work of God.  In so far as that
 ultimate argument affects the matter, the sightseer might almost
-as well travel to see the sightseers as to see the sights.
+as [[Well|well]] travel to see the sightseers as to see the sights.
 There are, of course, vulgar and repulsive sightseers.
 There are, for that matter, vulgar and repulsive statues.
 But this cannot be a complete excuse for my own lamentable coldness;
@@ -137,5 +137,5 @@ jolly rabble of trippers with beer bottles and concertinas.
 I am very much troubled with this unnatural insensibility of mind;
 and I have made many attempts, none of them quite successful, to trace
 my mental malady to its origin.  But I am not sure that some hint
-of the truth may not be found in the first popular example that I gave--
+of the [[Truth|truth]] may not be found in the first popular example that I gave--
 the example of a statue standing in a street.

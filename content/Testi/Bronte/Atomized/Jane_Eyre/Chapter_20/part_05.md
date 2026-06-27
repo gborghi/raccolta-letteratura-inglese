@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 20 (part 5)"
+title: "[[Jane Eyre]] — Chapter 20 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -24,11 +24,11 @@ there would be no light-footed running, no neat-handed alacrity, no
 lively glance and animated complexion. My friend would then turn to me,
 quiet and pale, and would say, ‘No, sir; that is impossible: I cannot
 do it, because it is wrong;’ and would become immutable as a fixed
-star. Well, you too have power over me, and may injure me: yet I dare
+star. [[Well]], you too have power over me, and may injure me: yet I dare
 not show you where I am vulnerable, lest, faithful and friendly as you
 are, you should transfix me at once.”
 
-“If you have no more to fear from Mr. Mason than you have from me, sir,
+“If you have no more to [[Fear|fear]] from Mr. Mason than you have from me, sir,
 you are very safe.”
 
 “God grant it may be so! Here, Jane, is an arbour; sit down.”
@@ -44,8 +44,8 @@ I answered him by assuming it: to refuse would, I felt, have been
 unwise.
 
 “Now, my little friend, while the sun drinks the dew—while all the
-flowers in this old garden awake and expand, and the birds fetch their
-young ones’ breakfast out of the Thornfield, and the early bees do
+[[Flowers|flowers]] in this old [[Garden|garden]] awake and expand, and the [[Birds|birds]] fetch their
+young ones’ breakfast out of the Thornfield, and the early [[Bees|bees]] do
 their first spell of work—I’ll put a case to you, which you must
 endeavour to suppose your own: but first, look at me, and tell me you
 are at ease, and not fearing that I err in detaining you, or that you
@@ -53,62 +53,62 @@ err in staying.”
 
 “No, sir; I am content.”
 
-“Well then, Jane, call to aid your fancy:—suppose you were no longer a
-girl well reared and disciplined, but a wild boy indulged from
-childhood upwards; imagine yourself in a remote foreign land; conceive
-that you there commit a capital error, no matter of what nature or from
+“[[Well]] then, Jane, call to aid your fancy:—suppose you were no longer a
+girl [[Well|well]] reared and disciplined, but a wild boy indulged from
+[[Childhood|childhood]] upwards; imagine yourself in a remote foreign land; conceive
+that you there commit a capital error, no matter of what [[Nature|nature]] or from
 what motives, but one whose consequences must follow you through life
 and taint all your existence. Mind, I don’t say a _crime_; I am not
-speaking of shedding of blood or any other guilty act, which might make
+speaking of shedding of [[Blood|blood]] or any other guilty act, which might make
 the perpetrator amenable to the law: my word is _error_. The results of
-what you have done become in time to you utterly insupportable; you
+what you have done become in [[Time|time]] to you utterly insupportable; you
 take measures to obtain relief: unusual measures, but neither unlawful
-nor culpable. Still you are miserable; for hope has quitted you on the
-very confines of life: your sun at noon darkens in an eclipse, which
-you feel will not leave it till the time of setting. Bitter and base
-associations have become the sole food of your memory: you wander here
-and there, seeking rest in exile: happiness in pleasure—I mean in
+nor culpable. Still you are miserable; for [[Hope|hope]] has quitted you on the
+very confines of life: your sun at [[Noon|noon]] darkens in an eclipse, which
+you feel will not leave it till the [[Time|time]] of setting. Bitter and base
+associations have become the sole food of your [[Memory|memory]]: you wander here
+and there, seeking rest in [[Exile|exile]]: happiness in pleasure—I mean in
 heartless, sensual pleasure—such as dulls intellect and blights
-feeling. Heart-weary and soul-withered, you come home after years of
+feeling. Heart-weary and [[Soul|soul]]-withered, you come [[Home|home]] after years of
 voluntary banishment: you make a new acquaintance—how or where no
 matter: you find in this stranger much of the good and bright qualities
 which you have sought for twenty years, and never before encountered;
 and they are all fresh, healthy, without soil and without taint. Such
 society revives, regenerates: you feel better days come back—higher
-wishes, purer feelings; you desire to recommence your life, and to
+wishes, purer feelings; you [[Desire|desire]] to recommence your life, and to
 spend what remains to you of days in a way more worthy of an immortal
 being. To attain this end, are you justified in overleaping an obstacle
-of custom—a mere conventional impediment which neither your conscience
+of custom—a mere conventional impediment which neither your [[Conscience|conscience]]
 sanctifies nor your judgment approves?”
 
 He paused for an answer: and what was I to say? Oh, for some good
 spirit to suggest a judicious and satisfactory response! Vain
-aspiration! The west wind whispered in the ivy round me; but no gentle
-Ariel borrowed its breath as a medium of speech: the birds sang in the
-tree-tops; but their song, however sweet, was inarticulate.
+[[Aspiration|aspiration]]! The west [[Wind|wind]] whispered in the ivy round me; but no gentle
+[[Ariel]] borrowed its breath as a medium of speech: the [[Birds|birds]] sang in the
+tree-tops; but their [[Song|song]], however sweet, was inarticulate.
 
 Again Mr. Rochester propounded his query:
 
 “Is the wandering and sinful, but now rest-seeking and repentant, man
 justified in daring the world’s opinion, in order to attach to him for
 ever this gentle, gracious, genial stranger, thereby securing his own
-peace of mind and regeneration of life?”
+peace of mind and [[Regeneration|regeneration]] of life?”
 
-“Sir,” I answered, “a wanderer’s repose or a sinner’s reformation
+“Sir,” I answered, “a wanderer’s repose or a sinner’s [[Reformation|reformation]]
 should never depend on a fellow-creature. Men and women die;
 philosophers falter in wisdom, and Christians in goodness: if any one
 you know has suffered and erred, let him look higher than his equals
 for strength to amend and solace to heal.”
 
 “But the instrument—the instrument! God, who does the work, ordains the
-instrument. I have myself—I tell it you without parable—been a worldly,
+instrument. I have myself—I tell it you without [[Parable|parable]]—been a worldly,
 dissipated, restless man; and I believe I have found the instrument for
 my cure in—”
 
-He paused: the birds went on carolling, the leaves lightly rustling. I
-almost wondered they did not check their songs and whispers to catch
+He paused: the [[Birds|birds]] went on carolling, the [[Leaves|leaves]] lightly rustling. I
+almost wondered they did not check their [[songs]] and whispers to catch
 the suspended revelation; but they would have had to wait many
-minutes—so long was the silence protracted. At last I looked up at the
+minutes—so long was the [[Silence|silence]] protracted. At last I looked up at the
 tardy speaker: he was looking eagerly at me.
 
 “Little friend,” said he, in quite a changed tone—while his face
@@ -126,13 +126,13 @@ your vigils: don’t you curse me for disturbing your rest?”
 “Curse you? No, sir.”
 
 “Shake hands in confirmation of the word. What cold fingers! They were
-warmer last night when I touched them at the door of the mysterious
+warmer last [[Night|night]] when I touched them at the door of the mysterious
 chamber. Jane, when will you watch with me again?”
 
 “Whenever I can be useful, sir.”
 
-“For instance, the night before I am married! I am sure I shall not be
-able to sleep. Will you promise to sit up with me to bear me company?
+“For instance, the [[Night|night]] before I am married! I am sure I shall not be
+able to [[Sleep|sleep]]. Will you promise to sit up with me to bear me company?
 To you I can talk of my lovely one: for now you have seen her and know
 her.”
 
@@ -151,4 +151,4 @@ As I went one way, he went another, and I heard him in the yard, saying
 cheerfully—
 
 “Mason got the start of you all this morning; he was gone before
-sunrise: I rose at four to see him off.”
+sunrise: I [[Rose|rose]] at four to see him off.”

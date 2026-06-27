@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 37 (part 4)"
+title: "[[Shirley]] — Chapter 37 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-have a house--a home which I can truly call mine--and _now_----"
+have a [[house]]--a [[Home|home]] which I can truly call mine--and _now_----"
 
 
 
@@ -22,7 +22,7 @@ He paused, for his deep voice was checked.
 
 
 
-"And _now_," he resumed--"now I can think of marriage, _now_ I can seek
+"And _now_," he resumed--"now I can think of [[Marriage|marriage]], _now_ I can seek
 
 a wife."
 
@@ -34,17 +34,17 @@ This was no moment for her to speak. She did not speak.
 
 "Will Caroline, who meekly hopes to be forgiven as she forgives--will
 
-she pardon all I have made her suffer, all that long pain I have
+she pardon all I have made her suffer, all that long [[Pain|pain]] I have
 
-wickedly caused her, all that sickness of body and mind she owed to me?
+wickedly caused her, all that sickness of [[Body|body]] and mind she owed to me?
 
-Will she forget what she knows of my poor ambition, my sordid schemes?
+Will she forget what she knows of my poor [[Ambition|ambition]], my sordid schemes?
 
 Will she let me expiate these things? Will she suffer me to prove that,
 
 as I once deserted cruelly, trifled wantonly, injured basely, I can now
 
-love faithfully, cherish fondly, treasure tenderly?"
+[[Love|love]] faithfully, cherish fondly, treasure tenderly?"
 
 
 
@@ -64,17 +64,17 @@ His hand was in Caroline's still; a gentle pressure answered him.
 
 necessity for her society is blended with my life. Not more jealous
 
-shall I be of the blood whose flow moves my pulses than of her happiness
+shall I be of the [[Blood|blood]] whose flow moves my pulses than of her happiness
 
-and well-being."
-
-
-
-"I love you, too, Robert, and will take faithful care of you."
+and [[Well|well]]-being."
 
 
 
-"Will you take faithful care of me? Faithful care! As if that rose
+"I [[Love|love]] you, too, Robert, and will take faithful care of you."
+
+
+
+"Will you take faithful care of me? Faithful care! As if that [[Rose|rose]]
 
 should promise to shelter from tempest this hard gray stone! But she
 
@@ -82,7 +82,7 @@ _will_ care for me, in her way. These hands will be the gentle
 
 ministrants of every comfort I can taste. I know the being I seek to
 
-entwine with my own will bring me a solace, a charity, a purity, to
+entwine with my own will bring me a solace, a [[Charity|charity]], a purity, to
 
 which, of myself, I am a stranger."
 
@@ -110,7 +110,7 @@ it."
 
 "Tell me what you wish, what you would like, and I will consider if it
 
-is possible to consent. But I cannot desert her, even for you. I cannot
+is possible to consent. But I cannot [[Desert|desert]] her, even for you. I cannot
 
 break her heart, even for your sake."
 
@@ -146,7 +146,7 @@ independent?"
 
 
 
-"She told me that, with a gentle pride that reminded me of somebody
+"She told me that, with a gentle [[Pride|pride]] that reminded me of somebody
 
 else."
 
@@ -160,7 +160,7 @@ else."
 
 reserve and discretion, she were something quite opposite, I should not
 
-fear her."
+[[Fear|fear]] her."
 
 
 
@@ -170,11 +170,11 @@ nod. Moore smiled.
 
 
 
-"Louis and I are not of the order of men who fear their mothers-in-law,
+"Louis and I are not of the order of men who [[Fear|fear]] their mothers-in-law,
 
 Cary. Our foes never have been, nor will be, those of our own household.
 
-I doubt not my mother-in-law will make much of me."
+I [[Doubt|doubt]] not my mother-in-law will make much of me."
 
 
 
@@ -212,7 +212,7 @@ gentleman as at your own fireside."
 
 
 
-"A eulogium I like; it is very sweet. I am well pleased my Caroline
+"A eulogium I like; it is very sweet. I am [[Well|well]] pleased my Caroline
 
 should view me in this light."
 
@@ -222,7 +222,7 @@ should view me in this light."
 
 
 
-"Not quite, I hope?"
+"Not quite, I [[Hope|hope]]?"
 
 
 
@@ -252,7 +252,7 @@ Robert----"
 
 
 
-"Well, what now? What is the new thought?"
+"[[Well]], what now? What is the new thought?"
 
 
 
@@ -284,7 +284,7 @@ This war _must_ ere long draw to a close. Trade is likely to prosper for
 
 some years to come. There may be a brief misunderstanding between
 
-England and America, but that will not last. What would you think if,
+England and [[America]], but that will not last. What would you think if,
 
 one day--perhaps ere another ten years elapse--Louis and I divide
 
@@ -296,7 +296,7 @@ and has, besides, an intellect of his own of no trifling calibre. His
 
 mind is slow but strong. It must work. It may work deliberately, but it
 
-will work well. He will be made magistrate of the district--Shirley says
+will work [[Well|well]]. He will be made magistrate of the district--[[Shirley]] says
 
 he shall. She would proceed impetuously and prematurely to obtain for
 

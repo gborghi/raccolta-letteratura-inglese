@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act V, Scene 5 — exchange (dialogue) [1]"
+title: "[[Richard II]] — Act V, Scene 5 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Richard, alone |
+| *(didascalia)* | Enter [[Richard]], [[Alone|alone]] |

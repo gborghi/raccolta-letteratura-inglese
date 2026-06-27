@@ -21,26 +21,26 @@ It is indispensable to present the accomplished lady who was of
 sufficient importance in the suite of the Dorrit Family to have a line
 to herself in the Travellers’ Book.
 
-Mrs General was the daughter of a clerical dignitary in a cathedral
+Mrs General was the daughter of a clerical dignitary in a [[Cathedral|cathedral]]
 town, where she had led the fashion until she was as near forty-five as
 a single lady can be. A stiff commissariat officer of sixty, famous as a
 martinet, had then become enamoured of the gravity with which she drove
-the proprieties four-in-hand through the cathedral town society, and
+the proprieties four-in-hand through the [[Cathedral|cathedral]] town society, and
 had solicited to be taken beside her on the box of the cool coach of
-ceremony to which that team was harnessed. His proposal of marriage
+ceremony to which that team was harnessed. His proposal of [[Marriage|marriage]]
 being accepted by the lady, the commissary took his seat behind
 the proprieties with great decorum, and Mrs General drove until the
-commissary died. In the course of their united journey, they ran over
+commissary died. In the course of their united [[Journey|journey]], they ran over
 several people who came in the way of the proprieties; but always in a
 high style and with composure.
 
 The commissary having been buried with all the decorations suitable to
 the service (the whole team of proprieties were harnessed to his hearse,
 and they all had feathers and black velvet housings with his coat of
-arms in the corner), Mrs General began to inquire what quantity of dust
+arms in the corner), Mrs General began to inquire what quantity of [[Dust|dust]]
 and ashes was deposited at the bankers’. It then transpired that the
 commissary had so far stolen a march on Mrs General as to have bought
-himself an annuity some years before his marriage, and to have reserved
+himself an annuity some years before his [[Marriage|marriage]], and to have reserved
 that circumstance in mentioning, at the period of his proposal, that
 his income was derived from the interest of his money. Mrs General
 consequently found her means so much diminished, that, but for the
@@ -58,9 +58,9 @@ that, but for the lady’s undoubted merit, it might have appeared as
 though they wanted to get rid of her. Testimonials representing Mrs
 General as a prodigy of piety, learning, virtue, and gentility, were
 lavishly contributed from influential quarters; and one venerable
-archdeacon even shed tears in recording his testimony to her perfections
+archdeacon even shed [[Tears|tears]] in recording his testimony to her perfections
 (described to him by persons on whom he could rely), though he had never
-had the honour and moral gratification of setting eyes on Mrs General in
+had the [[Honour|honour]] and moral gratification of setting eyes on Mrs General in
 all his life.
 
 Thus delegated on her mission, as it were by Church and State, Mrs
@@ -75,11 +75,11 @@ seeking, the widower pursued Mrs General until he prevailed upon her to
 form his daughter’s mind and manners.
 
 The execution of this trust occupied Mrs General about seven years, in
-the course of which time she made the tour of Europe, and saw most of
+the course of which [[Time|time]] she made the tour of Europe, and saw most of
 that extensive miscellany of objects which it is essential that all
 persons of polite cultivation should see with other people’s eyes,
 and never with their own. When her charge was at length formed, the
-marriage, not only of the young lady, but likewise of her father, the
+[[Marriage|marriage]], not only of the young lady, but likewise of her father, the
 widower, was resolved on. The widower then finding Mrs General both
 inconvenient and expensive, became of a sudden almost as much affected
 by her merits as the archdeacon had been, and circulated such praises
@@ -89,15 +89,15 @@ General was a name more honourable than ever.
 
 The phoenix was to let, on this elevated perch, when Mr Dorrit, who
 had lately succeeded to his property, mentioned to his bankers that he
-wished to discover a lady, well-bred, accomplished, well connected, well
+wished to discover a lady, [[Well|well]]-bred, accomplished, [[Well|well]] connected, [[Well|well]]
 accustomed to good society, who was qualified at once to complete the
-education of his daughters, and to be their matron or chaperon. Mr
+[[Education|education]] of his daughters, and to be their matron or chaperon. Mr
 Dorrit’s bankers, as bankers of the county-widower, instantly said, ‘Mrs
 General.’
 
 Pursuing the light so fortunately hit upon, and finding the concurrent
 testimony of the whole of Mrs General’s acquaintance to be of the
-pathetic nature already recorded, Mr Dorrit took the trouble of going
+pathetic [[Nature|nature]] already recorded, Mr Dorrit took the trouble of going
 down to the county of the county-widower to see Mrs General, in whom he
 found a lady of a quality superior to his highest expectations.
 
@@ -106,7 +106,7 @@ found a lady of a quality superior to his highest expectations.
 ‘Why, indeed,’ returned Mrs General, stopping the word, ‘it is a subject
 on which I prefer to avoid entering. I have never entered on it with my
 friends here; and I cannot overcome the delicacy, Mr Dorrit, with
-which I have always regarded it. I am not, as I hope you are aware, a
+which I have always regarded it. I am not, as I [[Hope|hope]] you are aware, a
 governess--’
 
 ‘O dear no!’ said Mr Dorrit. ‘Pray, madam, do not imagine for a moment
@@ -118,7 +118,7 @@ them spontaneously, but which I could not render in mere return for any
 consideration. Neither do I know how, or where, to find a case parallel
 to my own. It is peculiar.’
 
-No doubt. But how then (Mr Dorrit not unnaturally hinted) could the
+No [[Doubt|doubt]]. But how then (Mr Dorrit not unnaturally hinted) could the
 subject be approached?
 
 ‘I cannot object,’ said Mrs General--‘though even that is disagreeable
@@ -130,13 +130,13 @@ Mr Dorrit bowed his acknowledgements.
 
 ‘Permit me to add,’ said Mrs General, ‘that beyond this, I can never
 resume the topic. Also that I can accept no second or inferior position.
-If the honour were proposed to me of becoming known to Mr Dorrit’s
+If the [[Honour|honour]] were proposed to me of becoming known to Mr Dorrit’s
 family--I think two daughters were mentioned?--’
 
 ‘Two daughters.’
 
 ‘I could only accept it on terms of perfect equality, as a companion,
-protector, Mentor, and friend.’
+protector, [[Mentor]], and friend.’
 
 Mr Dorrit, in spite of his sense of his importance, felt as if it would
 be quite a kindness in her to accept it on any conditions. He almost
@@ -150,19 +150,19 @@ said as much.
 more to the payment (whatever its amount may prove to be), which my
 friends here have been accustomed to make to my bankers’.’
 
-Mr Dorrit lost no time in referring the delicate question to the
+Mr Dorrit lost no [[Time|time]] in referring the delicate question to the
 county-widower, and finding that he had been accustomed to pay three
 hundred pounds a-year to the credit of Mrs General, arrived, without any
 severe strain on his arithmetic, at the conclusion that he himself must
 pay four. Mrs General being an article of that lustrous surface which
 suggests that it is worth any money, he made a formal proposal to be
-allowed to have the honour and pleasure of regarding her as a member of
+allowed to have the [[Honour|honour]] and pleasure of regarding her as a member of
 his family. Mrs General conceded that high privilege, and here she was.
 
 In person, Mrs General, including her skirts which had much to do with
 it, was of a dignified and imposing appearance; ample, rustling, gravely
 voluminous; always upright behind the proprieties. She might have
-been taken--had been taken--to the top of the Alps and the bottom of
+been taken--had been taken--to the top of the Alps and the [[Bottom|bottom]] of
 Herculaneum, without disarranging a fold in her dress, or displacing
 a pin. If her countenance and hair had rather a floury appearance, as
 though from living in some transcendently genteel Mill, it was rather
@@ -170,8 +170,8 @@ because she was a chalky creation altogether, than because she mended
 her complexion with violet powder, or had turned grey. If her eyes had
 no expression, it was probably because they had nothing to express. If
 she had few wrinkles, it was because her mind had never traced its name
-or any other inscription on her face. A cool, waxy, blown-out woman, who
-had never lighted well.
+or any other [[Inscription|inscription]] on her face. A cool, waxy, blown-out woman, who
+had never lighted [[Well|well]].
 
 Mrs General had no opinions. Her way of forming a mind was to prevent it
 from forming opinions. She had a little circular set of mental grooves
@@ -186,8 +186,8 @@ and, beyond all comparison, the properest.
 
 Mrs General was not to be told of anything shocking. Accidents,
 miseries, and offences, were never to be mentioned before her. Passion
-was to go to sleep in the presence of Mrs General, and blood was to
-change to milk and water. The little that was left in the world,
+was to go to [[Sleep|sleep]] in the presence of Mrs General, and [[Blood|blood]] was to
+change to milk and [[Water|water]]. The little that was left in the world,
 when all these deductions were made, it was Mrs General’s province to
 varnish. In that formation process of hers, she dipped the smallest of
 brushes into the largest of pots, and varnished the surface of every
@@ -196,6 +196,6 @@ Mrs General varnished it.
 
 There was varnish in Mrs General’s voice, varnish in Mrs General’s
 touch, an atmosphere of varnish round Mrs General’s figure. Mrs
-General’s dreams ought to have been varnished--if she had any--lying
-asleep in the arms of the good Saint Bernard, with the feathery snow
-falling on his house-top.
+General’s [[Dreams|dreams]] ought to have been varnished--if she had any--lying
+asleep in the arms of the good Saint Bernard, with the feathery [[Snow|snow]]
+falling on his [[house]]-top.

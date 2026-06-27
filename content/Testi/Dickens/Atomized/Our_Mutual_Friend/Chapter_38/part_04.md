@@ -16,9 +16,9 @@ tags:
 
 ‘Mr Harmon,’ said Bradley: who would have been a great deal more at a
 loss than he was, if he had known to whom he spoke: ‘was murdered and
-found in the river.’
+found in the [[River|river]].’
 
-‘Was murdered and found in the river.’
+‘Was murdered and found in the [[River|river]].’
 
 ‘It was not—’
 
@@ -27,13 +27,13 @@ you. Mr Boffin heard of you through a certain Mr Lightwood. I think you
 know Mr Lightwood, or know of him?’
 
 ‘I know as much of him as I wish to know, sir. I have no acquaintance
-with Mr Lightwood, and I desire none. I have no objection to Mr
+with Mr Lightwood, and I [[Desire|desire]] none. I have no objection to Mr
 Lightwood, but I have a particular objection to some of Mr Lightwood’s
 friends—in short, to one of Mr Lightwood’s friends. His great friend.’
 
 He could hardly get the words out, even then and there, so fierce did
 he grow (though keeping himself down with infinite pains of repression),
-when the careless and contemptuous bearing of Eugene Wrayburn rose
+when the careless and contemptuous bearing of [[Eugene Wrayburn]] [[Rose|rose]]
 before his mind.
 
 The Secretary saw there was a strong feeling here on some sore point,
@@ -41,12 +41,12 @@ and he would have made a diversion from it, but for Bradley’s holding to
 it in his cumbersome way.
 
 ‘I have no objection to mention the friend by name,’ he said, doggedly.
-‘The person I object to, is Mr Eugene Wrayburn.’
+‘The person I object to, is Mr [[Eugene Wrayburn]].’
 
 The Secretary remembered him. In his disturbed recollection of that
-night when he was striving against the drugged drink, there was but a
+[[Night|night]] when he was striving against the drugged drink, there was but a
 dim image of Eugene’s person; but he remembered his name, and his manner
-of speaking, and how he had gone with them to view the body, and where
+of speaking, and how he had gone with them to view the [[Body|body]], and where
 he had stood, and what he had said.
 
 ‘Pray, Mr Headstone, what is the name,’ he asked, again trying to make a
@@ -59,7 +59,7 @@ of his whole face.
 
 ‘She is sufficiently remarkable to be very superior to Mr Eugene
 Wrayburn—though an ordinary person might be that,’ said the
-schoolmaster; ‘and I hope you will not think it impertinent in me, sir,
+schoolmaster; ‘and I [[Hope|hope]] you will not think it impertinent in me, sir,
 to ask why you put the two names together?’
 
 ‘By mere accident,’ returned the Secretary. ‘Observing that Mr Wrayburn
@@ -77,7 +77,7 @@ representation of his?’
 
 ‘I took the liberty to ask,’ said Bradley, after casting his eyes on
 the ground, ‘because he is capable of making any representation, in the
-swaggering levity of his insolence. I—I hope you will not misunderstand
+swaggering levity of his insolence. I—I [[Hope|hope]] you will not misunderstand
 me, sir. I—I am much interested in this brother and sister, and the
 subject awakens very strong feelings within me. Very, very, strong
 feelings.’ With a shaking hand, Bradley took out his handkerchief and
@@ -96,7 +96,7 @@ I ask respecting the brother and sister, or either of them, I ask for
 myself out of my own interest in the subject, and not in my official
 character, or on Mr Boffin’s behalf. How I come to be interested, I need
 not explain. You know the father’s connection with the discovery of Mr
-Harmon’s body.’
+Harmon’s [[Body|body]].’
 
 ‘Sir,’ replied Bradley, very restlessly indeed, ‘I know all the
 circumstances of that case.’
@@ -123,14 +123,14 @@ expressive.’
 
 ‘And there is such a man?’ said the Secretary.
 
-Bradley Headstone knotted his brows, and squared his large lower jaw,
+[[Bradley Headstone]] knotted his brows, and squared his large lower jaw,
 and fixed his eyes on the ground with an air of determination that
 seemed unnecessary to the occasion, as he replied: ‘And there is such a
 man.’
 
 The Secretary had no reason or excuse for prolonging the conversation,
 and it ended here. Within three hours the oakum-headed apparition once
-more dived into the Leaving Shop, and that night Rogue Riderhood’s
+more dived into the Leaving Shop, and that [[Night|night]] Rogue Riderhood’s
 recantation lay in the post office, addressed under cover to Lizzie
 Hexam at her right address.
 

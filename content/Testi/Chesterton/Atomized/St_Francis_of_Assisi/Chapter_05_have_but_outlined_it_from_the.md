@@ -20,7 +20,7 @@ story really looked like, when thus seen from the outside. Given a
 critic of rather coarse common sense, with no feeling about the
 incident except annoyance, and how would the story seem to
 stand?
-A young fool or rascal is caught robbing his father and selling
+A young [[Fool|fool]] or rascal is caught robbing his father and selling
 goods which he ought to guard; and the only explanation he will
 offer is that a loud voice from nowhere spoke in his ear and told
 him to mend the cracks and holes in a particular wall. He then
@@ -28,11 +28,11 @@ declared himself naturally independant of all powers corresponding
 to the police or magistrates, and takes refuge with an amiable
 bishop who is forced to remonstrate with him and tell him he is
 wrong. He then proceeds to take off his clothes in public and
-practically throw them at his father; announcing at the same time
+practically throw them at his father; announcing at the same [[Time|time]]
 that his father is not his father at all. He then runs about the
 town asking everybody he meets to give him fragments of buildings
 or building materials, apparently with reference to his old
-monomania about mending the wall. It may be an excellent thing that
+monomania about [[mending]] the wall. It may be an excellent thing that
 cracks should be filled up, but preferably not by somebody who is
 himself cracked; and architectural restoration like other things is
 not best performed by builders who, as we should say, have a tile
@@ -44,13 +44,13 @@ How he lived at all must have seemed to them dubious; but
 presumably he already begged for bread as he had begged for
 building materials. But he was always very careful to beg for the
 blackest or worst bread he could get, for the stalest crusts or
-something less luxurious than the crumbs which the dogs eat, and
+something less luxurious than the crumbs which the [[dogs]] eat, and
 which fell from the rich man's table. Thus he probably fared worse
 than an ordinary beggar; for the beggar would eat the best he could
 get and the saint ate the worst he could get. In plain fact he was
 ready to live on refuse; and it was probably something much uglier
 as an experience than the refined simplicity which vegetarians and
-water drinkers would call the simple life. As he dealt with the
+[[Water|water]] drinkers would call the simple life. As he dealt with the
 question of food, so he apparently dealt with the question of
 clothing. He dealt with it, that is, upon the same principle of
 taking what he could get, and not even the best of what he could
@@ -69,7 +69,7 @@ near, and tied it round his waist. He undoubtedly meant it as a
 shabby expedient; rather as the very destitute tramp will sometimes
 tie his clothes together with a piece of string. He meant to strike
 the note of collecting his clothes anyway, like rags from a
-succession of dust bins. Ten years later that make-shift costume
+succession of [[Dust|dust]] bins. Ten years later that make-shift costume
 was the uniform of five thousand men; and a hundred years later, in
-that, for a pontifical panoply, they laid great Dante in the
-grave.
+that, for a pontifical panoply, they laid great [[Dante]] in the
+[[Grave|grave]].

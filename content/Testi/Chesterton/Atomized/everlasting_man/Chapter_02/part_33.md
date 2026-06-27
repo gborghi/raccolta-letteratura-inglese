@@ -15,12 +15,12 @@ tags:
 
 
 In any case it is clear enough that the painted and gilded civilisation
-of tropical America systematically indulged in human sacrifice.
+of tropical [[america|America]] systematically indulged in human sacrifice.
 It is by no means clear, so far as I know, that the Eskimos ever
 indulged in human sacrifice.  They were not civilised enough.
-They were too closely imprisoned by the white winter and the
+They were too closely imprisoned by the white [[Winter|winter]] and the
 endless dark.  Chill penury repressed their noble rage and froze
-the genial current of the soul.  It was in brighter days and broader
+the genial current of the [[Soul|soul]].  It was in brighter days and broader
 daylight that the noble rage is found unmistakably raging.
 It was in richer and more instructed lands that the genial
 current flowed on the altars, to be drunk by great gods wearing
@@ -28,9 +28,9 @@ goggling and grinning masks and called on in terror or torment
 by long cacophonous names that sound like laughter in hell.
 A warmer climate and a more scientific cultivation were needed
 to bring forth these blooms; to draw up towards the sun the large
-leaves and flamboyant blossoms that gave their gold and crimson and
-purple to that garden, which Swinburne compares to the Hesperides.
-There was at least no doubt about the dragon.
+[[Leaves|leaves]] and flamboyant blossoms that gave their gold and crimson and
+purple to that [[Garden|garden]], which Swinburne compares to the Hesperides.
+There was at least no [[Doubt|doubt]] about the dragon.
 
 I do not raise in this connection the special controversy about Spain
 and Mexico; but I may remark in passing that it resembles exactly
@@ -41,7 +41,7 @@ the rival civilisation, in Swinburne's phrase, as sinless;
 when its sins were obviously crying or rather screaming to heaven.
 For Carthage also was a high civilisation, indeed a much more
 highly civilised civilisation.  And Carthage also founded that
-civilisation on a religion of fear, sending up everywhere the smoke
+civilisation on a religion of [[Fear|fear]], sending up everywhere the smoke
 of human sacrifice.  Now it is very right to rebuke our own race
 or religion for falling short of our own standards and ideals.
 But it is absurd to pretend that they fell lower than the other races
@@ -52,15 +52,15 @@ potentially worse than the Carthaginian.  But there is only one sense
 in which he is worse; and that is not in being positively worse.
 The Christian is only worse because it is his business to be better.
 
-This inverted imagination produces things of which it is better
+This inverted [[Imagination|imagination]] produces things of which it is better
 not to speak.  Some of them indeed might almost be named without
-being known; for they are of that extreme evil which seems innocent
-to the innocent.  They are too inhuman even to be indecent.
+being known; for they are of that extreme evil which seems [[Innocent|innocent]]
+to the [[Innocent|innocent]].  They are too inhuman even to be indecent.
 But without dwelling much longer in these dark corners,
 it may be noted as not irrelevant here that certain anti-human
-antagonisms seem to recur in this tradition of black magic.
+antagonisms seem to recur in this tradition of black [[Magic|magic]].
 There may be suspected as running through it everywhere,
-for instance, a mystical hatred of the idea of childhood.
+for instance, a mystical hatred of the idea of [[Childhood|childhood]].
 People would understand better the popular fury against the witches,
 if they remembered that the malice most commonly attributed to them
 was preventing the birth of children.  The Hebrew prophets were
@@ -70,8 +70,8 @@ that this abominable apostasy from the God of Israel has occasionally
 appeared in Israel since, in the form of what is called ritual murder;
 not of course by any representative of the religion of Judaism,
 but by individual and irresponsible diabolists who did happen to be Jews.
-This sense that the forces of evil especially threaten childhood is found
-again in the enormous popularity of the Child Martyr of the Middle Ages.
+This sense that the forces of evil especially threaten [[Childhood|childhood]] is found
+again in the enormous popularity of the [[Child]] Martyr of the Middle Ages.
 Chaucer did but give another version of a very national English legend,
 when he conceived the wickedest of all possible witches as the dark
 alien woman watching behind her high lattice and heading,
@@ -86,9 +86,9 @@ and travel and colonial extension, it already had something
 like an empire of the whole world.  Its purple dye, the emblem
 of its rich pomp and luxury, had steeped the wares which were sold
 far away amid the last crags of Cornwall and the sails that entered
-the silence of tropic seas amid all the mystery of Africa.
+the [[Silence|silence]] of tropic seas amid all the mystery of Africa.
 It might be said truly to have painted the map purple.
-It was already a world-wide success, when the princes of Tyre
+It was already a world-wide [[success]], when the princes of Tyre
 would hardly have troubled to notice that one of their princesses
 had condescended to marry the chief of some tribe called Judah;
 when the merchants of its African outpost would only have curled
@@ -106,7 +106,7 @@ and inhuman figure either of Elijah raving above the slaughter
 of Carmel or Cato thundering against the amnesty of Africa.
 These men had their limitations and their local passions;
 but this criticism of them is unimaginative and therefore unreal.
-It leaves out something, something immense and intermediate,
+It [[Leaves|leaves]] out something, something immense and intermediate,
 facing east and west and calling up this passion in its eastern
 and western enemies; and that something is the first subject
 of this chapter.
@@ -114,11 +114,11 @@ of this chapter.
 The civilisation that centered in Tyre and Sidon was above
 all things practical.  It has left little in the way of art
 and nothing in the way of poetry.  But it prided itself upon being
-very efficient; and it followed in its philosophy and religion
+very efficient; and it followed in its [[philosophy]] and religion
 that strange and sometimes secret train of thought which we
 have already noted in those who look for immediate effects.
 There is always in such a mentality an idea that there is a short
-cut to the secret of all success; something that would shock
+cut to the secret of all [[success]]; something that would shock
 the world by this sort of shameless thoroughness.  They believed,
 in the appropriate modern phrase, in people who delivered the goods.
 In their dealings with their god Moloch, they themselves were always
@@ -129,4 +129,4 @@ I have suggested, about a certain attitude towards children.
 This was what called up against it in simultaneous fury the servant of one
 God in Palestine and the guardians of all the household gods in Rome.
 This is what challenged two things naturally so much divided by every
-sort of distance and disunion, whose union was to save the world.
+sort of distance and disunion, whose [[Union|union]] was to save the world.

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 34 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 34 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,26 +16,26 @@ tags:
 
 CHAPTER 34
 
-Wherein Mr. Ralph Nickleby is visited by Persons with whom the Reader has
+Wherein Mr. [[Ralph Nickleby]] is visited by Persons with whom the Reader has
 been already made acquainted
 
 
-‘What a demnition long time you have kept me ringing at this confounded
+‘What a demnition long [[Time|time]] you have kept me ringing at this confounded
 old cracked tea-kettle of a bell, every tinkle of which is enough to
-throw a strong man into blue convulsions, upon my life and soul, oh
-demmit,’--said Mr. Mantalini to Newman Noggs, scraping his boots, as he
-spoke, on Ralph Nickleby’s scraper.
+throw a strong man into blue convulsions, upon my life and [[Soul|soul]], oh
+demmit,’--said Mr. Mantalini to [[Newman Noggs]], scraping his boots, as he
+spoke, on [[Ralph Nickleby]]’s scraper.
 
 ‘I didn’t hear the bell more than once,’ replied Newman.
 
 ‘Then you are most immensely and outr-i-geously deaf,’ said Mr
 Mantalini, ‘as deaf as a demnition post.’
 
-Mr. Mantalini had got by this time into the passage, and was making his
+Mr. Mantalini had got by this [[Time|time]] into the passage, and was making his
 way to the door of Ralph’s office with very little ceremony, when Newman
-interposed his body; and hinting that Mr. Nickleby was unwilling to be
+interposed his [[Body|body]]; and hinting that Mr. Nickleby was unwilling to be
 disturbed, inquired whether the client’s business was of a pressing
-nature.
+[[Nature|nature]].
 
 ‘It is most demnebly particular,’ said Mr. Mantalini. ‘It is to melt some
 scraps of dirty paper into bright, shining, chinking, tinkling, demd
@@ -51,13 +51,13 @@ turned to demand the cause of the interruption.
 
 As Newman stated it, the cause himself swaggered into the room, and
 grasping Ralph’s horny hand with uncommon affection, vowed that he had
-never seen him looking so well in all his life.
+never seen him looking so [[Well|well]] in all his life.
 
 ‘There is quite a bloom upon your demd countenance,’ said Mr. Mantalini,
 seating himself unbidden, and arranging his hair and whiskers. ‘You look
 quite juvenile and jolly, demmit!’
 
-‘We are alone,’ returned Ralph, tartly. ‘What do you want with me?’
+‘We are [[Alone|alone]],’ returned Ralph, tartly. ‘What do you want with me?’
 
 ‘Good!’ cried Mr. Mantalini, displaying his teeth. ‘What did I want! Yes.
 Ha, ha! Very good. WHAT did I want. Ha, ha. Oh dem!’
@@ -91,20 +91,20 @@ five-and-twenty pounds,’ said Ralph, deliberately.
 ‘Oh demmit!’ cried Mr. Mantalini, whose face lengthened considerably at
 this handsome proposal.
 
-‘Why, that leaves you fifty,’ retorted Ralph. ‘What would you have? Let
+‘Why, that [[Leaves|leaves]] you fifty,’ retorted Ralph. ‘What would you have? Let
 me see the names.’
 
 ‘You are so demd hard, Nickleby,’ remonstrated Mr. Mantalini.
 
 ‘Let me see the names,’ replied Ralph, impatiently extending his hand
-for the bills. ‘Well! They are not sure, but they are safe enough. Do
+for the bills. ‘[[Well]]! They are not sure, but they are safe enough. Do
 you consent to the terms, and will you take the money? I don’t want you
 to do so. I would rather you didn’t.’
 
 ‘Demmit, Nickleby, can’t you--’ began Mr. Mantalini.
 
 ‘No,’ replied Ralph, interrupting him. ‘I can’t. Will you take the
-money--down, mind; no delay, no going into the city and pretending to
+money--down, mind; no delay, no going into the [[City|city]] and pretending to
 negotiate with some other party who has no existence, and never had. Is
 it a bargain, or is it not?’
 
@@ -121,9 +121,9 @@ pocket with remarkable alacrity.
 
 ‘Oh, you ARE here,’ said Madame Mantalini, tossing her head.
 
-‘Yes, my life and soul, I am,’ replied her husband, dropping on his
+‘Yes, my life and [[Soul|soul]], I am,’ replied her husband, dropping on his
 knees, and pouncing with kitten-like playfulness upon a stray sovereign.
-‘I am here, my soul’s delight, upon Tom Tiddler’s ground, picking up the
+‘I am here, my [[Soul|soul]]’s delight, upon Tom Tiddler’s ground, picking up the
 demnition gold and silver.’
 
 ‘I am ashamed of you,’ said Madame Mantalini, with much indignation.

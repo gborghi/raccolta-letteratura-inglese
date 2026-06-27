@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand"
+title: "Little Dorrit — Chapter 35: What was behind [[Mr Pancks]] on Little Dorrit’s Hand"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-CHAPTER 35. What was behind Mr Pancks on Little Dorrit’s Hand
+CHAPTER 35. What was behind [[Mr Pancks]] on Little Dorrit’s Hand
 
 
-It was at this time that Mr Pancks, in discharge of his compact with
+It was at this [[Time|time]] that [[Mr Pancks]], in discharge of his compact with
 Clennam, revealed to him the whole of his gipsy story, and told him
 Little Dorrit’s fortune. Her father was heir-at-law to a great estate
 that had long lain unknown of, unclaimed, and accumulating. His right
@@ -28,12 +28,12 @@ he was extremely rich.
 In his tracking out of the claim to its complete establishment, Mr
 Pancks had shown a sagacity that nothing could baffle, and a patience
 and secrecy that nothing could tire. ‘I little thought, sir,’ said
-Pancks, ‘when you and I crossed Smithfield that night, and I told you
+Pancks, ‘when you and I crossed Smithfield that [[Night|night]], and I told you
 what sort of a Collector I was, that this would come of it. I little
 thought, sir, when I told you you were not of the Clennams of
 Cornwall, that I was ever going to tell you who were of the Dorrits of
 Dorsetshire.’ He then went on to detail. How, having that name recorded
-in his note-book, he was first attracted by the name alone. How, having
+in his note-book, he was first attracted by the name [[Alone|alone]]. How, having
 often found two exactly similar names, even belonging to the same place,
 to involve no traceable consanguinity, near or distant, he did not at
 first give much heed to this, except in the way of speculation as to
@@ -43,19 +43,19 @@ property. How he rather supposed himself to have pursued the idea into
 its next degree, because there was something uncommon in the quiet
 little seamstress, which pleased him and provoked his curiosity.
 How he had felt his way inch by inch, and ‘Moled it out, sir’ (that was
-Mr Pancks’s expression), grain by grain. How, in the beginning of
+[[Mr Pancks]]’s expression), grain by grain. How, in the beginning of
 the labour described by this new verb, and to render which the more
-expressive Mr Pancks shut his eyes in pronouncing it and shook his hair
+expressive [[Mr Pancks]] shut his eyes in pronouncing it and shook his hair
 over them, he had alternated from sudden lights and hopes to sudden
 darkness and no hopes, and back again, and back again. How he had made
-acquaintances in the Prison, expressly that he might come and go there
+acquaintances in the [[Prison]], expressly that he might come and go there
 as all other comers and goers did; and how his first ray of light was
 unconsciously given him by Mr Dorrit himself and by his son; to both of
 whom he easily became known; with both of whom he talked much, casually
-[‘but always Moleing you’ll observe,’ said Mr Pancks): and from whom he
+[‘but always Moleing you’ll observe,’ said [[Mr Pancks]]): and from whom he
 derived, without being at all suspected, two or three little points of
-family history which, as he began to hold clues of his own, suggested
-others. How it had at length become plain to Mr Pancks that he had made
+family [[history]] which, as he began to hold clues of his own, suggested
+others. How it had at length become plain to [[Mr Pancks]] that he had made
 a real discovery of the heir-at-law to a great fortune, and that his
 discovery had but to be ripened to legal fulness and perfection. How
 he had, thereupon, sworn his landlord, Mr Rugg, to secrecy in a solemn
@@ -67,15 +67,15 @@ they had confided in no other human being.
 
 ‘So if the whole thing had broken down, sir,’ concluded Pancks, ‘at the
 very last, say the day before the other day when I showed you our papers
-in the Prison yard, or say that very day, nobody but ourselves would
+in the [[Prison]] yard, or say that very day, nobody but ourselves would
 have been cruelly disappointed, or a penny the worse.’
 
 Clennam, who had been almost incessantly shaking hands with him
 throughout the narrative, was reminded by this to say, in an amazement
 which even the preparation he had had for the main disclosure smoothed
-down, ‘My dear Mr Pancks, this must have cost you a great sum of money.’
+down, ‘My dear [[Mr Pancks]], this must have cost you a great sum of money.’
 
-‘Pretty well, sir,’ said the triumphant Pancks. ‘No trifle, though we
+‘Pretty [[Well|well]], sir,’ said the triumphant Pancks. ‘No trifle, though we
 did it as cheap as it could be done. And the outlay was a difficulty,
 let me tell you.’
 
@@ -93,61 +93,61 @@ Then, what did you do?’
 
 ‘Of Mr Casby?’ said Clennam. ‘He’s a fine old fellow.’
 
-‘Noble old boy; an’t he?’ said Mr Pancks, entering on a series of the
+‘Noble old boy; an’t he?’ said [[Mr Pancks]], entering on a series of the
 dryest snorts. ‘Generous old buck. Confiding old boy. Philanthropic old
 buck. Benevolent old boy! Twenty per cent. I engaged to pay him, sir.
 But we never do business for less at our shop.’
 
-Arthur felt an awkward consciousness of having, in his exultant
+[[arthur|Arthur]] felt an awkward consciousness of having, in his exultant
 condition, been a little premature.
 
-‘I said to that boiling-over old Christian,’ Mr Pancks pursued,
+‘I said to that boiling-over old Christian,’ [[Mr Pancks]] pursued,
 appearing greatly to relish this descriptive epithet, ‘that I had got a
 little project on hand; a hopeful one; I told him a hopeful one; which
 wanted a certain small capital. I proposed to him to lend me the
 money on my note. Which he did, at twenty; sticking the twenty on in a
 business-like way, and putting it into the note, to look like a part of
 the principal. If I had broken down after that, I should have been his
-grubber for the next seven years at half wages and double grind. But
+grubber for the next seven years at half wages and [[Double|double]] grind. But
 he’s a perfect Patriarch; and it would do a man good to serve him on
 such terms--on any terms.’
 
-Arthur for his life could not have said with confidence whether Pancks
+[[arthur|Arthur]] for his life could not have said with confidence whether Pancks
 really thought so or not.
 
 ‘When that was gone, sir,’ resumed Pancks, ‘and it did go, though I
-dribbled it out like so much blood, I had taken Mr Rugg into the secret.
+dribbled it out like so much [[Blood|blood]], I had taken Mr Rugg into the secret.
 I proposed to borrow of Mr Rugg (or of Miss Rugg; it’s the same thing;
 she made a little money by a speculation in the Common Pleas once). He
 lent it at ten, and thought that pretty high. But Mr Rugg’s a red-haired
-man, sir, and gets his hair cut. And as to the crown of his hat, it’s
+man, sir, and gets his hair cut. And as to the [[Crown|crown]] of his hat, it’s
 high. And as to the brim of his hat, it’s narrow. And there’s no more
 benevolence bubbling out of him, than out of a ninepin.’
 
-‘Your own recompense for all this, Mr Pancks,’ said Clennam, ‘ought to
+‘Your own recompense for all this, [[Mr Pancks]],’ said Clennam, ‘ought to
 be a large one.’
 
 ‘I don’t mistrust getting it, sir,’ said Pancks. ‘I have made no
 bargain. I owed you one on that score; now I have paid it. Money out of
-pocket made good, time fairly allowed for, and Mr Rugg’s bill settled,
+pocket made good, [[Time|time]] fairly allowed for, and Mr Rugg’s bill settled,
 a thousand pounds would be a fortune to me. That matter I place in your
 hands. I authorize you now to break all this to the family in any way
-you think best. Miss Amy Dorrit will be with Mrs Finching this morning.
+you think best. Miss [[Amy Dorrit]] will be with Mrs Finching this morning.
 The sooner done the better. Can’t be done too soon.’
 
 This conversation took place in Clennam’s bed-room, while he was yet in
-bed. For Mr Pancks had knocked up the house and made his way in, very
+bed. For [[Mr Pancks]] had knocked up the [[house]] and made his way in, very
 early in the morning; and, without once sitting down or standing still,
 had delivered himself of the whole of his details (illustrated with a
 variety of documents) at the bedside. He now said he would ‘go and look
 up Mr Rugg’, from whom his excited state of mind appeared to require
 another back; and bundling up his papers, and exchanging one more hearty
-shake of the hand with Clennam, he went at full speed down-stairs, and
+shake of the hand with Clennam, he went at full [[Speed|speed]] down-stairs, and
 steamed off.
 
 Clennam, of course, resolved to go direct to Mr Casby’s. He dressed
 and got out so quickly that he found himself at the corner of the
-patriarchal street nearly an hour before her time; but he was not sorry
+patriarchal street nearly an hour before her [[Time|time]]; but he was not sorry
 to have the opportunity of calming himself with a leisurely walk.
 
 When he returned to the street, and had knocked at the bright brass
@@ -155,7 +155,7 @@ knocker, he was informed that she had come, and was shown up-stairs to
 Flora’s breakfast-room. Little Dorrit was not there herself, but Flora
 was, and testified the greatest amazement at seeing him.
 
-‘Good gracious, Arthur--Doyce and Clennam!’ cried that lady, ‘who would
+‘Good gracious, [[arthur|Arthur]]--Doyce and Clennam!’ cried that lady, ‘who would
 have ever thought of seeing such a sight as this and pray excuse a
 wrapper for upon my word I really never and a faded check too which
 is worse but our little friend is making me, not that I need mind
@@ -163,39 +163,39 @@ mentioning it to you for you must know that there are such things a
 skirt, and having arranged that a trying on should take place after
 breakfast is the reason though I wish not so badly starched.’
 
-‘I ought to make an apology,’ said Arthur, ‘for so early and abrupt a
+‘I ought to make an apology,’ said [[arthur|Arthur]], ‘for so early and abrupt a
 visit; but you will excuse it when I tell you the cause.’
 
-‘In times for ever fled Arthur,’ returned Mrs Finching, ‘pray excuse
+‘In times for ever fled [[arthur|Arthur]],’ returned Mrs Finching, ‘pray excuse
 me Doyce and Clennam infinitely more correct and though unquestionably
 distant still ‘tis distance lends enchantment to the view, at least I
 don’t mean that and if I did I suppose it would depend considerably on
-the nature of the view, but I’m running on again and you put it all out
+the [[Nature|nature]] of the view, but I’m running on again and you put it all out
 of my head.’
 
 She glanced at him tenderly, and resumed:
 
 ‘In times for ever fled I was going to say it would have sounded
-strange indeed for Arthur Clennam--Doyce and Clennam naturally quite
-different--to make apologies for coming here at any time, but that is
+strange indeed for [[Arthur Clennam]]--Doyce and Clennam naturally quite
+different--to make apologies for coming here at any [[Time|time]], but that is
 past and what is past can never be recalled except in his own case as
 poor Mr F. said when he was in spirits Cucumber and therefore never ate
 it.’
 
-She was making the tea when Arthur came in, and now hastily finished
+She was making the tea when [[arthur|Arthur]] came in, and now hastily finished
 that operation.
 
 ‘Papa,’ she said, all mystery and whisper, as she shut down the tea-pot
 lid, ‘is sitting prosingly breaking his new laid egg in the back parlour
-over the City article exactly like the Woodpecker Tapping and need never
-know that you are here, and our little friend you are well aware may be
+over the [[City]] article exactly like the Woodpecker Tapping and need never
+know that you are here, and our little friend you are [[Well|well]] aware may be
 fully trusted when she comes down from cutting out on the large table
 overhead.’
 
-Arthur then told her, in the fewest words, that it was their little
+[[arthur|Arthur]] then told her, in the fewest words, that it was their little
 friend he came to see; and what he had to announce to their little
 friend. At which astounding intelligence, Flora clasped her hands,
-fell into a tremble, and shed tears of sympathy and pleasure, like the
+fell into a tremble, and shed [[Tears|tears]] of sympathy and pleasure, like the
 good-natured creature she really was.
 
 ‘For gracious sake let me get out of the way first,’ said Flora, putting
@@ -203,10 +203,10 @@ her hands to her ears and moving towards the door, ‘or I know I shall
 go off dead and screaming and make everybody worse, and the dear little
 thing only this morning looking so nice and neat and good and yet so
 poor and now a fortune is she really and deserves it too! and might I
-mention it to Mr F.’s Aunt Arthur not Doyce and Clennam for this once or
+mention it to Mr F.’s Aunt [[arthur|Arthur]] not Doyce and Clennam for this once or
 if objectionable not on any account.’
 
-Arthur nodded his free permission, since Flora shut out all verbal
+[[arthur|Arthur]] nodded his free permission, since Flora shut out all verbal
 communication. Flora nodded in return to thank him, and hurried out of
 the room.
 
@@ -223,7 +223,7 @@ to tell you something, but it is a piece of great good-fortune.’
 
 ‘Wonderful fortune!’
 
-They stood in a window, and her eyes, full of light, were fixed upon his
+They stood in a [[Window|window]], and her eyes, full of light, were fixed upon his
 face. He put an arm about her, seeing her likely to sink down. She put
 a hand upon that arm, partly to rest upon it, and partly so to preserve
 their relative positions as that her intent look at him should be shaken
@@ -233,7 +233,7 @@ by no change of attitude in either of them. Her lips seemed to repeat
 ‘Dear Little Dorrit! Your father.’
 
 The ice of the pale face broke at the word, and little lights and shoots
-of expression passed all over it. They were all expressions of pain. Her
+of expression passed all over it. They were all expressions of [[Pain|pain]]. Her
 breath was faint and hurried. Her heart beat fast. He would have clasped
 the little figure closer, but he saw that the eyes appealed to him not
 to be moved.
@@ -254,7 +254,7 @@ Her lips shaped ‘Yes.’
 nothing. Shall I tell you more? Remember! He knows nothing of it; we
 must go to him, from here, to tell him of it!’
 
-She seemed to entreat him for a little time. He held her in his arm,
+She seemed to entreat him for a little [[Time|time]]. He held her in his arm,
 and, after a pause, bent down his ear to listen.
 
 ‘Did you ask me to go on?’
@@ -302,53 +302,53 @@ pouring out her thankfulness with uplifted hands, her thanks were for
 her father.
 
 Flora’s tenderness was quite overcome by this, and she launched out
-among the cups and saucers into a wonderful flow of tears and speech.
+among the cups and saucers into a wonderful flow of [[Tears|tears]] and speech.
 
 ‘I declare,’ she sobbed, ‘I never was so cut up since your mama and my
 papa not Doyce and Clennam for this once but give the precious little
-thing a cup of tea and make her put it to her lips at least pray Arthur
+thing a cup of tea and make her put it to her lips at least pray [[arthur|Arthur]]
 do, not even Mr F.’s last illness for that was of another kind and gout
-is not a child’s affection though very painful for all parties and Mr
+is not a [[Child|child]]’s affection though very painful for all parties and Mr
 F. a martyr with his leg upon a rest and the wine trade in itself
 inflammatory for they will do it more or less among themselves and who
-can wonder, it seems like a dream I am sure to think of nothing at all
+can [[Wonder|wonder]], it seems like [[A Dream|a dream]] I am sure to think of nothing at all
 this morning and now Mines of money is it really, but you must know my
-darling love because you never will be strong enough to tell him all
+darling [[Love|love]] because you never will be strong enough to tell him all
 about it upon teaspoons, mightn’t it be even best to try the directions
 of my own medical man for though the flavour is anything but agreeable
 still I force myself to do it as a prescription and find the benefit,
 you’d rather not why no my dear I’d rather not but still I do it as a
 duty, everybody will congratulate you some in earnest and some not and
 many will congratulate you with all their hearts but none more so I
-do assure you from the bottom of my own I do myself though sensible of
-blundering and being stupid, and will be judged by Arthur not Doyce and
+do assure you from the [[Bottom|bottom]] of my own I do myself though sensible of
+blundering and being stupid, and will be judged by [[arthur|Arthur]] not Doyce and
 Clennam for this once so good-bye darling and God bless you and may you
 be very happy and excuse the liberty, vowing that the dress shall never
 be finished by anybody else but shall be laid by for a keepsake just
 as it is and called Little Dorrit though why that strangest of
-denominations at any time I never did myself and now I never shall!’
+denominations at any [[Time|time]] I never did myself and now I never shall!’
 
 
 Thus Flora, in taking leave of her favourite. Little Dorrit thanked her,
-and embraced her, over and over again; and finally came out of the house
+and embraced her, over and over again; and finally came out of the [[house]]
 with Clennam, and took coach for the Marshalsea.
 
 It was a strangely unreal ride through the old squalid streets, with a
 sensation of being raised out of them into an airy world of wealth
-and grandeur. When Arthur told her that she would soon ride in her
+and grandeur. When [[arthur|Arthur]] told her that she would soon ride in her
 own carriage through very different scenes, when all the familiar
 experiences would have vanished away, she looked frightened. But when
 he substituted her father for herself, and told her how he would ride in
-his carriage, and how great and grand he would be, her tears of joy
-and innocent pride fell fast. Seeing that the happiness her mind could
-realise was all shining upon him, Arthur kept that single figure before
-her; and so they rode brightly through the poor streets in the prison
+his carriage, and how great and grand he would be, her [[Tears|tears]] of joy
+and [[Innocent|innocent]] [[Pride|pride]] fell fast. Seeing that the happiness her mind could
+realise was all shining upon him, [[arthur|Arthur]] kept that single figure before
+her; and so they rode brightly through the poor streets in the [[Prison|prison]]
 neighbourhood to carry him the great news.
 
 When Mr Chivery, who was on duty, admitted them into the Lodge, he saw
 something in their faces which filled him with astonishment. He stood
-looking after them, when they hurried into the prison, as though he
-perceived that they had come back accompanied by a ghost a-piece. Two or
+looking after them, when they hurried into the [[Prison|prison]], as though he
+perceived that they had come back accompanied by a [[Ghost|ghost]] a-piece. Two or
 three Collegians whom they passed, looked after them too, and presently
 joining Mr Chivery, formed a little group on the Lodge steps, in the
 midst of which there spontaneously originated a whisper that the Father
@@ -357,14 +357,14 @@ the remotest room in the College.
 
 Little Dorrit opened the door from without, and they both entered. He
 was sitting in his old grey gown and his old black cap, in the sunlight
-by the window, reading his newspaper. His glasses were in his hand, and
-he had just looked round; surprised at first, no doubt, by her step upon
-the stairs, not expecting her until night; surprised again, by seeing
-Arthur Clennam in her company. As they came in, the same unwonted look
+by the [[Window|window]], reading his newspaper. His glasses were in his hand, and
+he had just looked round; surprised at first, no [[Doubt|doubt]], by her step upon
+the stairs, not expecting her until [[Night|night]]; surprised again, by seeing
+[[Arthur Clennam]] in her company. As they came in, the same unwonted look
 in both of them which had already caught attention in the yard below,
 struck him. He did not rise or speak, but laid down his glasses and his
 newspaper on the table beside him, and looked at them with his mouth
-a little open and his lips trembling. When Arthur put out his hand,
+a little open and his lips trembling. When [[arthur|Arthur]] put out his hand,
 he touched it, but not with his usual state; and then he turned to his
 daughter, who had sat down close beside him with her hands upon his
 shoulder, and looked attentively in her face.
@@ -378,10 +378,10 @@ intelligence about you! If he had not with his great kindness and
 gentleness, prepared me for it, father--prepared me for it, father--I
 think I could not have borne it.’
 
-Her agitation was exceedingly great, and the tears rolled down her face.
+Her agitation was exceedingly great, and the [[Tears|tears]] rolled down her face.
 He put his hand suddenly to his heart, and looked at Clennam.
 
-‘Compose yourself, sir,’ said Clennam, ‘and take a little time to think.
+‘Compose yourself, sir,’ said Clennam, ‘and take a little [[Time|time]] to think.
 To think of the brightest and most fortunate accidents of life. We have
 all heard of great surprises of joy. They are not at an end, sir. They
 are rare, but not at an end.’
@@ -402,7 +402,7 @@ afraid to imagine it, or to say what it would be.’
 
 He looked steadfastly at Clennam, and, so looking at him, seemed to
 change into a very old haggard man. The sun was bright upon the wall
-beyond the window, and on the spikes at top. He slowly stretched out the
+beyond the [[Window|window]], and on the spikes at top. He slowly stretched out the
 hand that had been upon his heart, and pointed at the wall.
 
 ‘It is down,’ said Clennam. ‘Gone!’
@@ -411,8 +411,8 @@ He remained in the same attitude, looking steadfastly at him.
 
 ‘And in its place,’ said Clennam, slowly and distinctly, ‘are the means
 to possess and enjoy the utmost that they have so long shut out. Mr
-Dorrit, there is not the smallest doubt that within a few days you will
-be free, and highly prosperous. I congratulate you with all my soul on
+Dorrit, there is not the smallest [[Doubt|doubt]] that within a few days you will
+be free, and highly prosperous. I congratulate you with all my [[Soul|soul]] on
 this change of fortune, and on the happy future into which you are soon
 to carry the treasure you have been blest with here--the best of all the
 riches you can have elsewhere--the treasure at your side.’
@@ -420,10 +420,10 @@ riches you can have elsewhere--the treasure at your side.’
 With those words, he pressed his hand and released it; and his daughter,
 laying her face against his, encircled him in the hour of his prosperity
 with her arms, as she had in the long years of his adversity encircled
-him with her love and toil and truth; and poured out her full heart in
-gratitude, hope, joy, blissful ecstasy, and all for him.
+him with her [[Love|love]] and toil and [[Truth|truth]]; and poured out her full heart in
+gratitude, [[Hope|hope]], joy, blissful ecstasy, and all for him.
 
-‘I shall see him as I never saw him yet. I shall see my dear love, with
+‘I shall see him as I never saw him yet. I shall see my dear [[Love|love]], with
 the dark cloud cleared away. I shall see him, as my poor mother saw him
 long ago. O my dear, my dear! O father, father! O thank God, thank God!’
 
@@ -431,7 +431,7 @@ He yielded himself to her kisses and caresses, but did not return them,
 except that he put an arm about her. Neither did he say one word. His
 steadfast look was now divided between her and Clennam, and he began to
 shake as if he were very cold. Explaining to Little Dorrit that he would
-run to the coffee-house for a bottle of wine, Arthur fetched it with all
+run to the coffee-[[house]] for a bottle of wine, [[arthur|Arthur]] fetched it with all
 the haste he could use. While it was being brought from the cellar to
 the bar, a number of excited people asked him what had happened; when he
 hurriedly informed them that Mr Dorrit had succeeded to a fortune.
@@ -446,7 +446,7 @@ before his face.
 After this had lasted a while Clennam thought it a good season for
 diverting his attention from the main surprise, by relating its details.
 Slowly, therefore, and in a quiet tone of voice, he explained them as
-best he could, and enlarged on the nature of Pancks’s service.
+best he could, and enlarged on the [[Nature|nature]] of Pancks’s service.
 
 ‘He shall be--ha--he shall be handsomely recompensed, sir,’ said
 the Father, starting up and moving hurriedly about the room. ‘Assure
@@ -460,19 +460,19 @@ He had no purpose in going about the room, but he was not still a
 moment.
 
 ‘Everybody,’ he said, ‘shall be remembered. I will not go away from
-here in anybody’s debt. All the people who have been--ha--well behaved
+here in anybody’s debt. All the people who have been--ha--[[Well|well]] behaved
 towards myself and my family, shall be rewarded. Chivery shall be
 rewarded. Young John shall be rewarded. I particularly wish, and intend,
 to act munificently, Mr Clennam.’
 
-‘Will you allow me,’ said Arthur, laying his purse on the table, ‘to
+‘Will you allow me,’ said [[arthur|Arthur]], laying his purse on the table, ‘to
 supply any present contingencies, Mr Dorrit? I thought it best to bring
 a sum of money for the purpose.’
 
 ‘Thank you, sir, thank you. I accept with readiness, at the present
 moment, what I could not an hour ago have conscientiously taken. I am
 obliged to you for the temporary accommodation. Exceedingly temporary,
-but well timed--well timed.’ His hand had closed upon the money, and
+but [[Well|well]] timed--[[Well|well]] timed.’ His hand had closed upon the money, and
 he carried it about with him. ‘Be so kind, sir, as to add the amount to
 those former advances to which I have already referred; being careful,
 if you please, not to omit advances made to my son. A mere verbal
@@ -481,11 +481,11 @@ statement of the gross amount is all I shall--ha--all I shall require.’
 His eye fell upon his daughter at this point, and he stopped for a
 moment to kiss her, and to pat her head.
 
-‘It will be necessary to find a milliner, my love, and to make a speedy
+‘It will be necessary to find a milliner, my [[Love|love]], and to make a speedy
 and complete change in your very plain dress. Something must be done
 with Maggy too, who at present is--ha--barely respectable, barely
 respectable. And your sister, Amy, and your brother. And _my_ brother,
-your uncle--poor soul, I trust this will rouse him--messengers must be
+your uncle--poor [[Soul|soul]], I trust this will rouse him--messengers must be
 despatched to fetch them. They must be informed of this. We must break
 it to them cautiously, but they must be informed directly. We owe it
 as a duty to them and to ourselves, from this moment, not to let
@@ -496,7 +496,7 @@ the fact that they did something for a livelihood.
 
 He was still jogging about the room, with the purse clutched in his
 hand, when a great cheering arose in the yard. ‘The news has spread
-already,’ said Clennam, looking down from the window. ‘Will you show
+already,’ said Clennam, looking down from the [[Window|window]]. ‘Will you show
 yourself to them, Mr Dorrit? They are very earnest, and they evidently
 wish it.’
 
@@ -506,18 +506,18 @@ change in my dress first, and to have bought a--hum--a watch and chain.
 But if it must be done as it is, it--ha--it must be done. Fasten the
 collar of my shirt, my dear. Mr Clennam, would you oblige me--hum--with
 a blue neckcloth you will find in that drawer at your elbow. Button
-my coat across at the chest, my love. It looks--ha--it looks broader,
+my coat across at the chest, my [[Love|love]]. It looks--ha--it looks broader,
 buttoned.’
 
 With his trembling hand he pushed his grey hair up, and then, taking
-Clennam and his daughter for supporters, appeared at the window leaning
+Clennam and his daughter for supporters, appeared at the [[Window|window]] leaning
 on an arm of each. The Collegians cheered him very heartily, and he
 kissed his hand to them with great urbanity and protection. When he
 withdrew into the room again, he said ‘Poor creatures!’ in a tone of
 much pity for their miserable condition.
 
 Little Dorrit was deeply anxious that he should lie down to compose
-himself. On Arthur’s speaking to her of his going to inform Pancks that
+himself. On [[arthur|Arthur]]’s speaking to her of his going to inform Pancks that
 he might now appear as soon as he would, and pursue the joyful business
 to its close, she entreated him in a whisper to stay with her until her
 father should be quite calm and at rest. He needed no second entreaty;
@@ -540,10 +540,10 @@ walk?’
 
 ‘I think not, Mr Dorrit,’ was the unwilling reply. ‘There are certain
 forms to be completed; and although your detention here is now in itself
-a form, I fear it is one that for a little longer has to be observed
+a form, I [[Fear|fear]] it is one that for a little longer has to be observed
 too.’
 
-At this he shed tears again.
+At this he shed [[Tears|tears]] again.
 
 ‘It is but a few hours, sir,’ Clennam cheerfully urged upon him.
 
@@ -551,25 +551,25 @@ At this he shed tears again.
 easily of hours, sir! How long do you suppose, sir, that an hour is to a
 man who is choking for want of air?’
 
-It was his last demonstration for that time; as, after shedding some
-more tears and querulously complaining that he couldn’t breathe, he
+It was his last demonstration for that [[Time|time]]; as, after shedding some
+more [[Tears|tears]] and querulously complaining that he couldn’t breathe, he
 slowly fell into a slumber. Clennam had abundant occupation for his
 thoughts, as he sat in the quiet room watching the father on his bed,
 and the daughter fanning his face.
 
 Little Dorrit had been thinking too. After softly putting his grey hair
 aside, and touching his forehead with her lips, she looked towards
-Arthur, who came nearer to her, and pursued in a low whisper the subject
+[[arthur|Arthur]], who came nearer to her, and pursued in a low whisper the subject
 of her thoughts.
 
-‘Mr Clennam, will he pay all his debts before he leaves here?’
+‘Mr Clennam, will he pay all his debts before he [[Leaves|leaves]] here?’
 
-‘No doubt. All.’
+‘No [[Doubt|doubt]]. All.’
 
 ‘All the debts for which he had been imprisoned here, all my life and
 longer?’
 
-‘No doubt.’
+‘No [[Doubt|doubt]].’
 
 There was something of uncertainty and remonstrance in her look;
 something that was not all satisfaction. He wondered to detect it, and
@@ -586,26 +586,26 @@ said:
 ‘And are you not?’
 
 ‘It seems to me hard,’ said Little Dorrit, ‘that he should have lost so
-many years and suffered so much, and at last pay all the debts as well.
+many years and suffered so much, and at last pay all the debts as [[Well|well]].
 It seems to me hard that he should pay in life and money both.’
 
-‘My dear child--’ Clennam was beginning.
+‘My dear [[Child|child]]--’ Clennam was beginning.
 
 ‘Yes, I know I am wrong,’ she pleaded timidly, ‘don’t think any worse of
 me; it has grown up with me here.’
 
-The prison, which could spoil so many things, had tainted Little
+The [[Prison|prison]], which could spoil so many things, had tainted Little
 Dorrit’s mind no more than this. Engendered as the confusion was, in
 compassion for the poor prisoner, her father, it was the first speck
 Clennam had ever seen, it was the last speck Clennam ever saw, of the
-prison atmosphere upon her.
+[[Prison|prison]] atmosphere upon her.
 
 He thought this, and forbore to say another word. With the thought, her
 purity and goodness came before him in their brightest light. The little
 spot made them the more beautiful.
 
-Worn out with her own emotions, and yielding to the silence of the room,
+Worn out with her own emotions, and yielding to the [[Silence|silence]] of the room,
 her hand slowly slackened and failed in its fanning movement, and her
-head dropped down on the pillow at her father’s side. Clennam rose
+head dropped down on the pillow at her father’s side. Clennam [[Rose|rose]]
 softly, opened and closed the door without a sound, and passed from the
-prison, carrying the quiet with him into the turbulent streets.
+[[Prison|prison]], carrying the quiet with him into the turbulent streets.

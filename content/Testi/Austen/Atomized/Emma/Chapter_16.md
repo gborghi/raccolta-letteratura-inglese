@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 16"
+title: "[[Emma]] — Chapter 16"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -17,11 +17,11 @@ tags:
 CHAPTER XVI
 
 
-The hair was curled, and the maid sent away, and Emma sat down to think
+The hair was curled, and the maid sent away, and [[Emma]] sat down to think
 and be miserable.—It was a wretched business indeed!—Such an overthrow
 of every thing she had been wishing for!—Such a development of every
 thing most unwelcome!—Such a blow for Harriet!—that was the worst of
-all. Every part of it brought pain and humiliation, of some sort or
+all. Every part of it brought [[Pain|pain]] and humiliation, of some sort or
 other; but, compared with the evil to Harriet, all was light; and she
 would gladly have submitted to feel yet more mistaken—more in
 error—more disgraced by mis-judgment, than she actually was, could the
@@ -32,7 +32,7 @@ any thing. He might have doubled his presumption to me—but poor
 Harriet!”
 
 How she could have been so deceived!—He protested that he had never
-thought seriously of Harriet—never! She looked back as well as she
+thought seriously of Harriet—never! She looked back as [[Well|well]] as she
 could; but it was all confusion. She had taken up the idea, she
 supposed, and made every thing bend to it. His manners, however, must
 have been unmarked, wavering, dubious, or she could not have been so
@@ -42,7 +42,7 @@ The picture!—How eager he had been about the picture!—and the
 charade!—and an hundred other circumstances;—how clearly they had
 seemed to point at Harriet. To be sure, the charade, with its “ready
 wit”—but then the “soft eyes”—in fact it suited neither; it was a
-jumble without taste or truth. Who could have seen through such
+jumble without taste or [[Truth|truth]]. Who could have seen through such
 thick-headed nonsense?
 
 Certainly she had often, especially of late, thought his manners to
@@ -68,13 +68,13 @@ concerned about the feelings of others.
 Contrary to the usual course of things, Mr. Elton’s wanting to pay his
 addresses to her had sunk him in her opinion. His professions and his
 proposals did him no service. She thought nothing of his attachment,
-and was insulted by his hopes. He wanted to marry well, and having the
-arrogance to raise his eyes to her, pretended to be in love; but she
-was perfectly easy as to his not suffering any disappointment that need
+and was insulted by his hopes. He wanted to marry [[Well|well]], and having the
+arrogance to raise his eyes to her, pretended to be in [[Love|love]]; but she
+was perfectly easy as to his not [[Suffering|suffering]] any disappointment that need
 be cared for. There had been no real affection either in his language
 or manners. Sighs and fine words had been given in abundance; but she
 could hardly devise any set of expressions, or fancy any tone of voice,
-less allied with real love. She need not trouble herself to pity him.
+less allied with real [[Love|love]]. She need not trouble herself to pity him.
 He only wanted to aggrandise and enrich himself; and if Miss Woodhouse
 of Hartfield, the heiress of thirty thousand pounds, were not quite so
 easily obtained as he had fancied, he would soon try for Miss Somebody
@@ -83,8 +83,8 @@ else with twenty, or with ten.
 But—that he should talk of encouragement, should consider her as aware
 of his views, accepting his attentions, meaning (in short), to marry
 him!—should suppose himself her equal in connexion or mind!—look down
-upon her friend, so well understanding the gradations of rank below
-him, and be so blind to what rose above, as to fancy himself shewing no
+upon her friend, so [[Well|well]] understanding the gradations of rank below
+him, and be so blind to what [[Rose|rose]] above, as to fancy himself shewing no
 presumption in addressing her!—It was most provoking.
 
 Perhaps it was not fair to expect him to feel how very much he was her
@@ -102,15 +102,15 @@ had long held a high place in the consideration of the neighbourhood
 which Mr. Elton had first entered not two years ago, to make his way as
 he could, without any alliances but in trade, or any thing to recommend
 him to notice but his situation and his civility.—But he had fancied
-her in love with him; that evidently must have been his dependence; and
+her in [[Love|love]] with him; that evidently must have been his dependence; and
 after raving a little about the seeming incongruity of gentle manners
-and a conceited head, Emma was obliged in common honesty to stop and
+and a conceited head, [[Emma]] was obliged in common honesty to stop and
 admit that her own behaviour to him had been so complaisant and
 obliging, so full of courtesy and attention, as (supposing her real
 motive unperceived) might warrant a man of ordinary observation and
 delicacy, like Mr. Elton, in fancying himself a very decided favourite.
 If _she_ had so misinterpreted his feelings, she had little right to
-wonder that _he_, with self-interest to blind him, should have mistaken
+[[Wonder|wonder]] that _he_, with [[Self|self]]-interest to blind him, should have mistaken
 hers.
 
 The first error and the worst lay at her door. It was foolish, it was
@@ -121,81 +121,81 @@ concerned and ashamed, and resolved to do such things no more.
 
 “Here have I,” said she, “actually talked poor Harriet into being very
 much attached to this man. She might never have thought of him but for
-me; and certainly never would have thought of him with hope, if I had
+me; and certainly never would have thought of him with [[Hope|hope]], if I had
 not assured her of his attachment, for she is as modest and humble as I
 used to think him. Oh! that I had been satisfied with persuading her
-not to accept young Martin. There I was quite right. That was well done
-of me; but there I should have stopped, and left the rest to time and
+not to accept young Martin. There I was quite right. That was [[Well|well]] done
+of me; but there I should have stopped, and left the rest to [[Time|time]] and
 chance. I was introducing her into good company, and giving her the
 opportunity of pleasing some one worth having; I ought not to have
-attempted more. But now, poor girl, her peace is cut up for some time.
+attempted more. But now, poor girl, her peace is cut up for some [[Time|time]].
 I have been but half a friend to her; and if she were _not_ to feel
 this disappointment so very much, I am sure I have not an idea of any
-body else who would be at all desirable for her;—William Coxe—Oh! no, I
+[[Body|body]] else who would be at all desirable for her;—William Coxe—Oh! no, I
 could not endure William Coxe—a pert young lawyer.”
 
 She stopt to blush and laugh at her own relapse, and then resumed a
 more serious, more dispiriting cogitation upon what had been, and might
 be, and must be. The distressing explanation she had to make to
-Harriet, and all that poor Harriet would be suffering, with the
+Harriet, and all that poor Harriet would be [[Suffering|suffering]], with the
 awkwardness of future meetings, the difficulties of continuing or
 discontinuing the acquaintance, of subduing feelings, concealing
 resentment, and avoiding eclat, were enough to occupy her in most
-unmirthful reflections some time longer, and she went to bed at last
+unmirthful reflections some [[Time|time]] longer, and she went to bed at last
 with nothing settled but the conviction of her having blundered most
 dreadfully.
 
-To youth and natural cheerfulness like Emma’s, though under temporary
-gloom at night, the return of day will hardly fail to bring return of
+To youth and natural cheerfulness like [[Emma]]’s, though under temporary
+gloom at [[Night|night]], the return of day will hardly fail to bring return of
 spirits. The youth and cheerfulness of morning are in happy analogy,
 and of powerful operation; and if the distress be not poignant enough
 to keep the eyes unclosed, they will be sure to open to sensations of
-softened pain and brighter hope.
+softened [[Pain|pain]] and brighter [[Hope|hope]].
 
-Emma got up on the morrow more disposed for comfort than she had gone
+[[Emma]] got up on the morrow more disposed for comfort than she had gone
 to bed, more ready to see alleviations of the evil before her, and to
 depend on getting tolerably out of it.
 
-It was a great consolation that Mr. Elton should not be really in love
+It was a great consolation that Mr. Elton should not be really in [[Love|love]]
 with her, or so particularly amiable as to make it shocking to
-disappoint him—that Harriet’s nature should not be of that superior
+disappoint him—that Harriet’s [[Nature|nature]] should not be of that superior
 sort in which the feelings are most acute and retentive—and that there
-could be no necessity for any body’s knowing what had passed except the
+could be no necessity for any [[Body|body]]’s knowing what had passed except the
 three principals, and especially for her father’s being given a
 moment’s uneasiness about it.
 
 These were very cheering thoughts; and the sight of a great deal of
-snow on the ground did her further service, for any thing was welcome
+[[Snow|snow]] on the ground did her further service, for any thing was welcome
 that might justify their all three being quite asunder at present.
 
 The weather was most favourable for her; though Christmas Day, she
 could not go to church. Mr. Woodhouse would have been miserable had his
 daughter attempted it, and she was therefore safe from either exciting
 or receiving unpleasant and most unsuitable ideas. The ground covered
-with snow, and the atmosphere in that unsettled state between frost and
+with [[Snow|snow]], and the atmosphere in that unsettled state between [[Frost|frost]] and
 thaw, which is of all others the most unfriendly for exercise, every
-morning beginning in rain or snow, and every evening setting in to
+morning beginning in rain or [[Snow|snow]], and every evening setting in to
 freeze, she was for many days a most honourable prisoner. No
 intercourse with Harriet possible but by note; no church for her on
-Sunday any more than on Christmas Day; and no need to find excuses for
+[[Sunday]] any more than on Christmas Day; and no need to find excuses for
 Mr. Elton’s absenting himself.
 
-It was weather which might fairly confine every body at home; and
+It was weather which might fairly confine every [[Body|body]] at [[Home|home]]; and
 though she hoped and believed him to be really taking comfort in some
-society or other, it was very pleasant to have her father so well
-satisfied with his being all alone in his own house, too wise to stir
+society or other, it was very pleasant to have her father so [[Well|well]]
+satisfied with his being all [[Alone|alone]] in his own [[house]], too wise to stir
 out; and to hear him say to Mr. Knightley, whom no weather could keep
 entirely from them,—
 
-“Ah! Mr. Knightley, why do not you stay at home like poor Mr. Elton?”
+“Ah! Mr. Knightley, why do not you stay at [[Home|home]] like poor Mr. Elton?”
 
 These days of confinement would have been, but for her private
 perplexities, remarkably comfortable, as such seclusion exactly suited
 her brother, whose feelings must always be of great importance to his
 companions; and he had, besides, so thoroughly cleared off his
-ill-humour at Randalls, that his amiableness never failed him during
+ill-[[Humour|humour]] at Randalls, that his amiableness never failed him during
 the rest of his stay at Hartfield. He was always agreeable and
-obliging, and speaking pleasantly of every body. But with all the hopes
+obliging, and speaking pleasantly of every [[Body|body]]. But with all the hopes
 of cheerfulness, and all the present comfort of delay, there was still
 such an evil hanging over her in the hour of explanation with Harriet,
-as made it impossible for Emma to be ever perfectly at ease.
+as made it impossible for [[Emma]] to be ever perfectly at ease.

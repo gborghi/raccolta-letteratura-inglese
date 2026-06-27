@@ -18,22 +18,22 @@ The philosopher seemed to have left Uncle Sol pretty much where he had
 found him, for he still went roaming about the watery world, compasses
 in hand, and discovering no rest for them. It was in pursuance of a
 whisper in his ear from Florence, while the old man was absorbed in
-this pursuit, that Captain Cuttle laid his heavy hand upon his
+this pursuit, that [[Captain Cuttle]] laid his heavy hand upon his
 shoulder.
 
 “What cheer, Sol Gills?” cried the Captain, heartily.
 
 “But so-so, Ned,” returned the Instrument-maker. “I have been
 remembering, all this afternoon, that on the very day when my boy
-entered Dombey’s House, and came home late to dinner, sitting just
-there where you stand, we talked of storm and shipwreck, and I could
+entered Dombey’s [[house|House]], and came [[Home|home]] late to dinner, sitting just
+there where you stand, we talked of [[Storm|storm]] and shipwreck, and I could
 hardly turn him from the subject.”
 
 But meeting the eyes of Florence, which were fixed with earnest
 scrutiny upon his face, the old man stopped and smiled.
 
 “Stand by, old friend!” cried the Captain. “Look alive! I tell you
-what, Sol Gills; arter I’ve convoyed Heart’s-delight safe home,” here
+what, Sol Gills; arter I’ve convoyed Heart’s-delight safe [[Home|home]],” here
 the Captain kissed his hook to Florence, “I’ll come back and take you
 in tow for the rest of this blessed day. You’ll come and eat your
 dinner along with me, Sol, somewheres or another.”
@@ -45,7 +45,7 @@ it!”
 “Why not?” returned the Captain, gazing at him in astonishment.
 
 “I—I have so much to do. I—I mean to think of, and arrange. I couldn’t
-do it, Ned, indeed. I must go out again, and be alone, and turn my mind
+do it, Ned, indeed. I must go out again, and be [[Alone|alone]], and turn my mind
 to many things today.”
 
 The Captain looked at the Instrument-maker, and looked at Florence, and
@@ -63,28 +63,28 @@ good-bye, Ned Cuttle, and God bless you!”
 Squeezing both the Captain’s hands, with uncommon fervour, as he said
 it, the old man turned to Florence, folded hers in his own, and put
 them to his lips; then hurried her out to the coach with very singular
-precipitation. Altogether, he made such an effect on Captain Cuttle
+precipitation. Altogether, he made such an effect on [[Captain Cuttle]]
 that the Captain lingered behind, and instructed Rob to be particularly
 gentle and attentive to his master until the morning: which injunction
 he strengthened with the payment of one shilling down, and the promise
-of another sixpence before noon next day. This kind office performed,
-Captain Cuttle, who considered himself the natural and lawful
-body-guard of Florence, mounted the box with a mighty sense of his
-trust, and escorted her home. At parting, he assured her that he would
+of another sixpence before [[Noon|noon]] next day. This kind office performed,
+[[Captain Cuttle]], who considered himself the natural and lawful
+[[Body|body]]-guard of Florence, mounted the box with a mighty sense of his
+trust, and escorted her [[Home|home]]. At parting, he assured her that he would
 stand by Sol Gills, close and true; and once again inquired of Susan
 Nipper, unable to forget her gallant words in reference to Mrs
 MacStinger, “Would you, do you think my dear, though?”
 
-When the desolate house had closed upon the two, the Captain’s thoughts
+When the desolate [[house]] had closed upon the two, the Captain’s thoughts
 reverted to the old Instrument-maker, and he felt uncomfortable.
-Therefore, instead of going home, he walked up and down the street
+Therefore, instead of going [[Home|home]], he walked up and down the street
 several times, and, eking out his leisure until evening, dined late at
-a certain angular little tavern in the City, with a public parlour like
+a certain angular little tavern in the [[City]], with a public parlour like
 a wedge, to which glazed hats much resorted. The Captain’s principal
 intention was to pass Sol Gills’s, after dark, and look in through the
-window: which he did, The parlour door stood open, and he could see his
+[[Window|window]]: which he did, The parlour door stood open, and he could see his
 old friend writing busily and steadily at the table within, while the
-little Midshipman, already sheltered from the night dews, watched him
+little Midshipman, already sheltered from the [[Night|night]] dews, watched him
 from the counter; under which Rob the Grinder made his own bed,
 preparatory to shutting the shop. Reassured by the tranquillity that
 reigned within the precincts of the wooden mariner, the Captain headed

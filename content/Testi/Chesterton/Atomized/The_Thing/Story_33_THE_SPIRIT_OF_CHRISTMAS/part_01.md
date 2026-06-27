@@ -21,10 +21,10 @@ and it presents a preliminary difficulty about which I must be candid.
 People are very curious nowadays in their way of talking
 about "the spirit" of a thing.  There is, for example,
 a particular sort of prig who is always lecturing us about having
-the spirit of true Christianity, apart from all names and forms.
+the spirit of true [[Christianity]], apart from all names and forms.
 As far as I can make out, he means the very opposite of what he says.
 He means that we are to go on using the names "Christian"
-and "Christianity," and so on, for something in which it is quite
+and "[[Christianity]]," and so on, for something in which it is quite
 specially the spirit that is not Christian; something that is a sort
 of combination of the baseless optimism of an American atheist
 with the pacifism of a mild Hindoo.  In the same way, we read
@@ -46,18 +46,18 @@ neglect of the new things that might be done by the old Christmas.
 Normally, if anything were normal nowadays, it would seem a truism to say
 that Christmas has been a family festival.  But it is now possible
 (as I have had the good or bad luck to discover) to earn a reputation
-for paradox simply by going on saying that truisms are true.
+for [[Paradox|paradox]] simply by going on saying that truisms are true.
 In this case, of course, the reason, the only reasonable reason,
 was religious.  It was concerned with a happy family because it
 was consecrated to the Holy Family.  But it is perfectly true
 that many men saw the fact without specially feeling the reason.
-When we say the root was religious, we do not mean that Sam Weller
+When we say the root was religious, we do not mean that [[Sam Weller]]
 was concentrated on theological values when he told the Fat Boy
 to "put a bit of Christmas," into some object, probably edible.
 We do not mean that the Fat Boy had gone into a trance of mystical
 contemplation like a monk seeing a vision.  We do not even mean
-that Bob Cratchit defended punch by saying he was only looking
-on the wine when it was yellow; or that Tiny Tim quoted Timothy.
+that [[Bob Cratchit]] defended punch by saying he was only looking
+on the wine when it was yellow; or that [[Tiny Tim]] quoted Timothy.
 We only mean that they, including their author, would have confessed
 humbly and heartily that there was someone historically quite anterior
 to Mr. Scrooge, who might be called the Founder of the Feast.
@@ -70,48 +70,48 @@ of other families.
 The Christmas season is domestic; and for that reason most people
 now prepare for it by struggling in tramcars, standing in queues,
 rushing away in trains, crowding despairingly into tea-shops,
-and wondering when or whether they will ever get home.
+and wondering when or whether they will ever get [[Home|home]].
 I do not know whether some of them disappear for ever in the toy
 department or simply lie down and die in the tea-rooms; but by
 the look of them, it is quite likely.  Just before the great festival
-of the home the whole population seems to have become homeless.
+of the [[Home|home]] the whole population seems to have become homeless.
 It is the supreme triumph of industrial civilisation that,
 in the huge cities which seem to have far too many houses,
-there is a hopeless shortage of housing.  For a long time past
+there is a hopeless shortage of housing.  For a long [[Time|time]] past
 great numbers of our poor have become practically nomadic.
 We even confess the fact; for we talk of some of them as Street Arabs.
 But this domestic institution, in its present ironical phase,
 has gone beyond such normal abnormality.  The feast of the
-family turns the rich as well as the poor into vagabonds.
+family turns the rich as [[Well|well]] as the poor into vagabonds.
 They are so scattered over the bewildering labyrinth of our traffic
 and our trade, that they sometimes cannot even reach the tea-shop;
 it would be indelicate, of course, to mention the tavern.
-They have a difficulty in crowding into their hotels, let alone
+They have a difficulty in crowding into their hotels, let [[Alone|alone]]
 separating to reach their houses.  I mean quite the reverse
 of irreverence when I say that their only point of resemblance
 to the archetypal Christmas family is that there is no room for them
 at the inn.
 
-Now Christmas is built upon a beautiful and intentional paradox;
-that the birth of the homeless should be celebrated in every home.
-But the other sort of paradox is not intentional and is certainly
+Now Christmas is built upon a beautiful and intentional [[Paradox|paradox]];
+that the birth of the homeless should be celebrated in every [[Home|home]].
+But the other sort of [[Paradox|paradox]] is not intentional and is certainly
 not beautiful.  It is bad enough that we cannot altogether
-disentangle the tragedy of poverty.  It is bad enough that the birth
+disentangle the [[Tragedy|tragedy]] of [[Poverty|poverty]].  It is bad enough that the birth
 of the homeless, celebrated at hearth and altar, should sometimes
-synchronise with the death of the homeless in workhouses and slums.
+synchronise with the [[Death|death]] of the homeless in workhouses and slums.
 But we need not rejoice in this universal restlessness brought upon
 rich and poor alike; and it seems to me that in this matter we need
-a reform of the modern Christmas.
+a [[Reform|reform]] of the modern Christmas.
 
-I will now emit another brilliant flash of paradox by remarking
-that Christmas occurs in the winter.  That is, it is not only a
+I will now emit another brilliant flash of [[Paradox|paradox]] by remarking
+that Christmas occurs in the [[Winter|winter]].  That is, it is not only a
 feast dedicated to domesticity, but it is one deliberately placed
 under the conditions in which it is most uncomfortable to rush
-about and most natural to stop at home.  But under the complicated
+about and most natural to stop at [[Home|home]].  But under the complicated
 conditions of modern conventions and conveniences, there arises
-this more practical and much more unpleasant sort of paradox.
+this more practical and much more unpleasant sort of [[Paradox|paradox]].
 People have to rush about for a few weeks, if it is only to stay
-at home for a few hours.  Now the old and healthy idea of such winter
+at [[Home|home]] for a few hours.  Now the old and healthy idea of such [[Winter|winter]]
 festivals was this; that people being shut in and besieged by the
 weather were driven back on their own resources; or, in other words,
 had a chance of showing whether there was anything in them.
@@ -121,10 +121,10 @@ exposures would be made of some such brilliant society favourites,
 if they were cut off from the power of machinery and money.
 They are quite used to having everything done for them; and even
 when they go to the very latest American dances, it seems to be
-mostly the Negro musicians who dance.  But anyhow, on the average
+mostly the Negro musicians who [[Dance|dance]].  But anyhow, on the average
 of healthy humanity I believe the cutting off of all these mechanical
 connections would have a thoroughly enlivening and awakening effect.
 At present they are always accused of merely amusing themselves;
 but they are doing nothing so noble or worthy of their human dignity.
-Most of them by this time cannot amuse themselves; they are too used
+Most of them by this [[Time|time]] cannot amuse themselves; they are too used
 to being amused.

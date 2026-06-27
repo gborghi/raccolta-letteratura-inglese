@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 51 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 51 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Miss Miggs, still clinging to the rebel, screamed once vociferously--but
+Miss Miggs, still clinging to the [[Rebel|rebel]], screamed once vociferously--but
 whether in the distraction of her mind, or because of his having
 executed his threat, is uncertain.
 
@@ -31,8 +31,8 @@ had been knocked off in the scuffle, and she was on her knees upon
 the floor, making a strange revelation of blue and yellow curl-papers,
 straggling locks of hair, tags of staylaces, and strings of it’s
 impossible to say what; panting for breath, clasping her hands, turning
-her eyes upwards, shedding abundance of tears, and exhibiting various
-other symptoms of the acutest mental suffering.
+her eyes upwards, shedding abundance of [[Tears|tears]], and exhibiting various
+other symptoms of the acutest mental [[Suffering|suffering]].
 
 ‘I leave,’ said Simon, turning to his master, with an utter disregard of
 Miggs’s maidenly affliction, ‘a box of things upstairs. Do what you
@@ -40,13 +40,13 @@ like with ‘em. I don’t want ‘em. I’m never coming back here, any more.
 Provide yourself, sir, with a journeyman; I’m my country’s journeyman;
 henceforward that’s MY line of business.’
 
-‘Be what you like in two hours’ time, but now go up to bed,’ returned
+‘Be what you like in two hours’ [[Time|time]], but now go up to bed,’ returned
 the locksmith, planting himself in the doorway. ‘Do you hear me? Go to
 bed!’
 
-‘I hear you, and defy you, Varden,’ rejoined Simon Tappertit. ‘This
-night, sir, I have been in the country, planning an expedition which
-shall fill your bell-hanging soul with wonder and dismay. The plot
+‘I hear you, and defy you, Varden,’ rejoined [[Simon Tappertit]]. ‘This
+[[Night|night]], sir, I have been in the country, planning an expedition which
+shall fill your bell-hanging [[Soul|soul]] with [[Wonder|wonder]] and dismay. The plot
 demands my utmost energy. Let me pass!’
 
 ‘I’ll knock you down if you come near the door,’ replied the locksmith.
@@ -66,64 +66,64 @@ between him and the door, until a favourable opportunity should present
 itself for forcing him to retreat up-stairs, and shutting him up in his
 own room. But, in the goodness of his heart, he calculated too much upon
 his adversary’s weakness, and forgot that drunken men who have lost
-the power of walking steadily, can often run. Watching his time, Simon
+the power of walking steadily, can often run. Watching his [[Time|time]], Simon
 Tappertit made a cunning show of falling back, staggered unexpectedly
 forward, brushed past him, opened the door (he knew the trick of that
-lock well), and darted down the street like a mad dog. The locksmith
+lock [[Well|well]]), and darted down the street like a mad dog. The locksmith
 paused for a moment in the excess of his astonishment, and then gave
 chase.
 
 It was an excellent season for a run, for at that silent hour the
 streets were deserted, the air was cool, and the flying figure before
 him distinctly visible at a great distance, as it sped away, with a long
-gaunt shadow following at its heels. But the short-winded locksmith had
+gaunt [[Shadow|shadow]] following at its heels. But the short-winded locksmith had
 no chance against a man of Sim’s youth and spare figure, though the day
-had been when he could have run him down in no time. The space between
+had been when he could have run him down in no [[Time|time]]. The space between
 them rapidly increased, and as the rays of the rising sun streamed upon
-Simon in the act of turning a distant corner, Gabriel Varden was fain
+Simon in the act of turning a distant corner, [[Gabriel Varden]] was fain
 to give up, and sit down on a doorstep to fetch his breath. Simon
 meanwhile, without once stopping, fled at the same degree of swiftness
-to The Boot, where, as he well knew, some of his company were lying,
+to The Boot, where, as he [[Well|well]] knew, some of his company were lying,
 and at which respectable hostelry--for he had already acquired the
 distinction of being in great peril of the law--a friendly watch had
-been expecting him all night, and was even now on the look-out for his
+been expecting him all [[Night|night]], and was even now on the look-out for his
 coming.
 
 ‘Go thy ways, Sim, go thy ways,’ said the locksmith, as soon as he could
 speak. ‘I have done my best for thee, poor lad, and would have saved
-thee, but the rope is round thy neck, I fear.’
+thee, but the rope is round thy neck, I [[Fear|fear]].’
 
 So saying, and shaking his head in a very sorrowful and disconsolate
-manner, he turned back, and soon re-entered his own house, where Mrs
+manner, he turned back, and soon re-entered his own [[house]], where Mrs
 Varden and the faithful Miggs had been anxiously expecting his return.
 
 Now Mrs Varden (and by consequence Miss Miggs likewise) was impressed
 with a secret misgiving that she had done wrong; that she had, to the
 utmost of her small means, aided and abetted the growth of disturbances,
 the end of which it was impossible to foresee; that she had led remotely
-to the scene which had just passed; and that the locksmith’s time for
+to the scene which had just passed; and that the locksmith’s [[Time|time]] for
 triumph and reproach had now arrived indeed. And so strongly did Mrs
 Varden feel this, and so crestfallen was she in consequence, that while
 her husband was pursuing their lost journeyman, she secreted under her
-chair the little red-brick dwelling-house with the yellow roof, lest it
+chair the little red-brick dwelling-[[house]] with the yellow roof, lest it
 should furnish new occasion for reference to the painful theme; and now
 hid the same still more, with the skirts of her dress.
 
 But it happened that the locksmith had been thinking of this very
-article on his way home, and that, coming into the room and not seeing
+article on his way [[Home|home]], and that, coming into the room and not seeing
 it, he at once demanded where it was.
 
 Mrs Varden had no resource but to produce it, which she did with many
-tears, and broken protestations that if she could have known--
+[[Tears|tears]], and broken protestations that if she could have known--
 
 ‘Yes, yes,’ said Varden, ‘of course--I know that. I don’t mean to
-reproach you, my dear. But recollect from this time that all good things
+reproach you, my dear. But recollect from this [[Time|time]] that all good things
 perverted to evil purposes, are worse than those which are naturally
 bad. A thoroughly wicked woman, is wicked indeed. When religion goes
 wrong, she is very wrong, for the same reason. Let us say no more about
 it, my dear.’
 
-So he dropped the red-brick dwelling-house on the floor, and setting his
+So he dropped the red-brick dwelling-[[house]] on the floor, and setting his
 heel upon it, crushed it into pieces. The halfpence, and sixpences,
 and other voluntary contributions, rolled about in all directions, but
 nobody offered to touch them, or to take them up.
@@ -134,9 +134,9 @@ as easily.’
 
 ‘It happens very fortunately, Varden,’ said his wife, with her
 handkerchief to her eyes, ‘that in case any more disturbances should
-happen--which I hope not; I sincerely hope not--’
+happen--which I [[Hope|hope]] not; I sincerely [[Hope|hope]] not--’
 
-‘I hope so too, my dear.’
+‘I [[Hope|hope]] so too, my dear.’
 
 ‘--That in case any should occur, we have the piece of paper which that
 poor misguided young man brought.’
@@ -150,8 +150,8 @@ it into fragments, and threw them under the grate.
 ‘Not use it?’ she said.
 
 ‘Use it!’ cried the locksmith. No! Let them come and pull the roof about
-our ears; let them burn us out of house and home; I’d neither have the
-protection of their leader, nor chalk their howl upon my door, though,
+our ears; let them burn us out of [[house]] and [[Home|home]]; I’d neither have the
+protection of their leader, nor [[chalk]] their howl upon my door, though,
 for not doing it, they shot me on my own threshold. Use it! Let them
 come and do their worst. The first man who crosses my doorstep on such
 an errand as theirs, had better be a hundred miles away. Let him look to
@@ -164,11 +164,11 @@ to work.’
 
 ‘Ay,’ replied the locksmith cheerily, ‘so early. Come when they may,
 they shall not find us skulking and hiding, as if we feared to take our
-portion of the light of day, and left it all to them. So pleasant dreams
-to you, my dear, and cheerful sleep!’
+portion of the light of day, and left it all to them. So pleasant [[Dreams|dreams]]
+to you, my dear, and cheerful [[Sleep|sleep]]!’
 
 With that he gave his wife a hearty kiss, and bade her delay no longer,
-or it would be time to rise before she lay down to rest. Mrs Varden
+or it would be [[Time|time]] to rise before she lay down to rest. Mrs Varden
 quite amiably and meekly walked upstairs, followed by Miggs, who,
 although a good deal subdued, could not refrain from sundry stimulative
 coughs and sniffs by the way, or from holding up her hands in

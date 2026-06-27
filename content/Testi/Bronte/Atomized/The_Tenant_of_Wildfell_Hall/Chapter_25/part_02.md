@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 25 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 25 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,29 +20,29 @@ there is no one at the Grove but little Esther and her French
 
 governess, for Walter is always away. I saw that paragon of manly
 
-perfections in London: he seemed scarcely to merit the eulogiums of his
+perfections in [[London]]: he seemed scarcely to merit the eulogiums of his
 
 mother and sister, though he certainly appeared more conversable and
 
-agreeable than Lord Lowborough, more candid and high-minded than Mr.
+agreeable than [[Lord Lowborough]], more candid and high-minded than Mr.
 
 Grimsby, and more polished and gentlemanly than Mr. Hattersley,
 
-Arthur’s only other friend whom he judged fit to introduce to me.—Oh,
+[[arthur|Arthur]]’s only other friend whom he judged fit to introduce to me.—Oh,
 
-Arthur, why won’t you come? why won’t you write to me at least? You
+[[arthur|Arthur]], why won’t you come? why won’t you write to me at least? You
 
 talked about my health: how can you expect me to gather bloom and
 
-vigour here, pining in solitude and restless anxiety from day to
+vigour here, pining in [[Solitude|solitude]] and restless anxiety from day to
 
 day?—It would serve you right to come back and find my good looks
 
 entirely wasted away. I would beg my uncle and aunt, or my brother, to
 
-come and see me, but I do not like to complain of my loneliness to
+come and see me, but I do not like to complain of my [[Loneliness|loneliness]] to
 
-them, and indeed loneliness is the least of my sufferings. But what is
+them, and indeed [[Loneliness|loneliness]] is the least of my sufferings. But what is
 
 he doing—what is it that keeps him away? It is this ever-recurring
 
@@ -70,7 +70,7 @@ day of his return: meantime he exhorts me to the exercise of patience,
 
 “Absence makes the heart grow fonder,” and comfort myself with the
 
-assurance that the longer he stays away the better he shall love me
+assurance that the longer he stays away the better he shall [[Love|love]] me
 
 when he returns; and till he does return, he begs I will continue to
 
@@ -108,13 +108,13 @@ charming creature, but she looks as if she had a will of her own, and
 
 could play the vixen upon occasion’ (I thought ‘you’re right there,
 
-man,’ but I didn’t say so). ‘I must have some good, quiet soul that
+man,’ but I didn’t say so). ‘I must have some good, quiet [[Soul|soul]] that
 
-will let me just do what I like and go where I like, keep at home or
+will let me just do what I like and go where I like, keep at [[Home|home]] or
 
 stay away, without a word of reproach or complaint; for I can’t do with
 
-being bothered.’ ‘Well,’ said I, ‘I know somebody that will suit you to
+being bothered.’ ‘[[Well]],’ said I, ‘I know somebody that will suit you to
 
 a tee, if you don’t care for money, and that’s Hargrave’s sister,
 
@@ -122,7 +122,7 @@ Milicent.’ He desired to be introduced to her forthwith, for he said he
 
 had plenty of the needful himself, or should have when his old governor
 
-chose to quit the stage. So you see, Helen, I have managed pretty well,
+chose to quit the stage. So you see, [[Helen]], I have managed pretty [[Well|well]],
 
 both for your friend and mine.”
 
@@ -146,9 +146,9 @@ before the close of the month.
 
 “I hardly know what to say about it,” she writes, “or what to think. To
 
-tell you the truth, Helen, I don’t like the thoughts of it at all. If I
+tell you the [[Truth|truth]], [[Helen]], I don’t like the thoughts of it at all. If I
 
-_am_ to be Mr. Hattersley’s wife, I must try to love him; and I do try
+_am_ to be Mr. Hattersley’s wife, I must try to [[Love|love]] him; and I do try
 
 with all my might; but I have made very little progress yet; and the
 
@@ -164,7 +164,7 @@ him; but mamma tells me I have, and he seems to think so too. I
 
 certainly didn’t mean to do so; but I did not like to give him a flat
 
-refusal, for fear mamma should be grieved and angry (for I knew she
+refusal, for [[Fear|fear]] mamma should be grieved and angry (for I knew she
 
 wished me to marry him), and I wanted to talk to her first about it: so
 
@@ -176,15 +176,15 @@ capricious if I were to attempt to draw back—and indeed I was so
 
 confused and frightened at the moment, I can hardly tell what I said.
 
-And next time I saw him, he accosted me in all confidence as his
+And next [[Time|time]] I saw him, he accosted me in all confidence as his
 
 affianced bride, and immediately began to settle matters with mamma. I
 
-had not courage to contradict them then, and how can I do it now? I
+had not [[Courage|courage]] to contradict them then, and how can I do it now? I
 
 cannot; they would think me mad. Besides, mamma is so delighted with
 
-the idea of the match; she thinks she has managed so well for me; and I
+the idea of the match; she thinks she has managed so [[Well|well]] for me; and I
 
 cannot bear to disappoint her. I do object sometimes, and tell her what
 
@@ -192,12 +192,12 @@ I feel, but you don’t know _how_ she talks. Mr. Hattersley, you know,
 
 is the son of a rich banker, and as Esther and I have no fortunes, and
 
-Walter very little, our dear mamma is very anxious to see us all well
+Walter very little, our dear mamma is very anxious to see us all [[Well|well]]
 
 married, that is, united to rich partners. It is not _my_ idea of being
 
-well married, but she means it all for the best. She says when I am
+[[Well|well]] married, but she means it all for the best. She says when I am
 
 safe off her hands it will be such a relief to her mind; and she
 
-assures me it will be a good thing for the family as well as for me.
+assures me it will be a good thing for the family as [[Well|well]] as for me.

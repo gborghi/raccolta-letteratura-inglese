@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 6 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 6 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -26,7 +26,7 @@ other—that I know of—”
 
 
 
-“Then I think you’d better let them alone.”
+“Then I think you’d better let them [[Alone|alone]].”
 
 
 
@@ -40,15 +40,15 @@ not.”
 
 
 
-“Then you had better let her alone.”
+“Then you had better let her [[Alone|alone]].”
 
 
 
-“She won’t let me alone,” he might have said; but he only looked silly
+“She won’t let me [[Alone|alone]],” he might have said; but he only looked silly
 
 and said nothing for the space of half a minute, and then made another
 
-attempt to turn the conversation; and this time I let it pass; for he
+attempt to turn the conversation; and this [[Time|time]] I let it pass; for he
 
 had borne enough: another word on the subject would have been like the
 
@@ -64,13 +64,13 @@ admitted my excuses; and when I complained of the flavour of the
 
 overdrawn tea, she poured the remainder into the slop-basin, and bade
 
-Rose put some fresh into the pot, and reboil the kettle, which offices
+[[Rose]] put some fresh into the pot, and reboil the kettle, which offices
 
 were performed with great commotion, and certain remarkable comments.
 
 
 
-“Well!—if it had been me now, I should have had no tea at all—if it had
+“[[Well]]!—if it had been me now, I should have had no tea at all—if it had
 
 been Fergus, even, he would have to put up with such as there was, and
 
@@ -82,29 +82,29 @@ particularly nice at table, mamma winks and nods at me to abstain from
 
 it, and if I don’t attend to that, she whispers, ‘Don’t eat so much of
 
-that, Rose; Gilbert will like it for his supper.’—_I’m_ nothing at all.
+that, [[Rose]]; Gilbert will like it for his supper.’—_I’m_ nothing at all.
 
-In the parlour, it’s ‘Come, Rose, put away your things, and let’s have
+In the parlour, it’s ‘Come, [[Rose]], put away your things, and let’s have
 
-the room nice and tidy against they come in; and keep up a good fire;
+the room nice and tidy against they come in; and keep up a good [[Fire|fire]];
 
-Gilbert likes a cheerful fire.’ In the kitchen—‘Make that pie a large
+Gilbert likes a cheerful [[Fire|fire]].’ In the kitchen—‘Make that pie a large
 
-one, Rose; I daresay the boys’ll be hungry; and don’t put so much
+one, [[Rose]]; I daresay the boys’ll be hungry; and don’t put so much
 
-pepper in, they’ll not like it, I’m sure’—or, ‘Rose, don’t put so many
+pepper in, they’ll not like it, I’m sure’—or, ‘[[Rose]], don’t put so many
 
 spices in the pudding, Gilbert likes it plain,’—or, ‘Mind you put
 
-plenty of currants in the cake, Fergus liked plenty.’ If I say, ‘Well,
+plenty of currants in the cake, Fergus liked plenty.’ If I say, ‘[[Well]],
 
 Mamma, _I_ don’t,’ I’m told I ought not to think of myself. ‘You know,
 
-Rose, in all household matters, we have only two things to consider,
+[[Rose]], in all household matters, we have only two things to consider,
 
 first, what’s proper to be done; and, secondly, what’s most agreeable
 
-to the gentlemen of the house—anything will do for the ladies.’”
+to the gentlemen of the [[house]]—anything will do for the ladies.’”
 
 
 
@@ -118,21 +118,21 @@ sure.”
 
 would really study my pleasure, mother, you must consider your own
 
-comfort and convenience a little more than you do—as for Rose, I have
+comfort and convenience a little more than you do—as for [[Rose]], I have
 
-no doubt she’ll take care of herself; and whenever she does make a
+no [[Doubt|doubt]] she’ll take care of herself; and whenever she does make a
 
 sacrifice or perform a remarkable act of devotedness, she’ll take good
 
 care to let me know the extent of it. But for _you_, I might sink into
 
-the grossest condition of self-indulgence and carelessness about the
+the grossest condition of [[Self|self]]-indulgence and carelessness about the
 
 wants of others, from the mere habit of being constantly cared for
 
 myself, and having all my wants anticipated or immediately supplied,
 
-while left in total ignorance of what is done for me,—if Rose did not
+while left in total ignorance of what is done for me,—if [[Rose]] did not
 
 enlighten me now and then; and I should receive all your kindness as a
 
@@ -142,7 +142,7 @@ matter of course, and never know how much I owe you.”
 
 “Ah! and you never _will_ know, Gilbert, till you’re married. Then,
 
-when you’ve got some trifling, self-conceited girl like Eliza Millward,
+when you’ve got some trifling, [[Self|self]]-conceited girl like Eliza Millward,
 
 careless of everything but her own immediate pleasure and advantage, or
 
@@ -174,7 +174,7 @@ and _then_ comes the trial.”
 
 
 
-“Well, then, we must bear one another’s burdens.”
+“[[Well]], then, we must bear one another’s burdens.”
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 23 (part 3)"
+title: "[[Oliver Twist]] — Chapter 23 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -18,8 +18,8 @@ Indeed, the two chairs touched; and when they did so, Mr. Bumble
 stopped.
 
 Now, if the matron had moved her chair to the right, she would have
-been scorched by the fire; and if to the left, she must have fallen
-into Mr. Bumble’s arms; so (being a discreet matron, and no doubt
+been scorched by the [[Fire|fire]]; and if to the left, she must have fallen
+into Mr. Bumble’s arms; so (being a discreet matron, and no [[Doubt|doubt]]
 foreseeing these consequences at a glance) she remained where she was,
 and handed Mr. Bumble another cup of tea.
 
@@ -47,18 +47,18 @@ bottles, and began dusting them with great violence: while the matron
 sharply demanded who was there.
 
 It is worthy of remark, as a curious physical instance of the efficacy
-of a sudden surprise in counteracting the effects of extreme fear, that
+of a sudden surprise in counteracting the effects of extreme [[Fear|fear]], that
 her voice had quite recovered all its official asperity.
 
 “If you please, mistress,” said a withered old female pauper, hideously
 ugly: putting her head in at the door, “Old Sally is a-going fast.”
 
-“Well, what’s that to me?” angrily demanded the matron. “I can’t keep
+“[[Well]], what’s that to me?” angrily demanded the matron. “I can’t keep
 her alive, can I?”
 
 “No, no, mistress,” replied the old woman, “nobody can; she’s far
 beyond the reach of help. I’ve seen a many people die; little babes and
-great strong men; and I know when death’s a-coming, well enough. But
+great strong men; and I know when [[Death|death]]’s a-coming, [[Well|well]] enough. But
 she’s troubled in her mind: and when the fits are not on her,—and
 that’s not often, for she is dying very hard,—she says she has got
 something to tell, which you must hear. She’ll never die quiet till you
@@ -69,7 +69,7 @@ invectives against old women who couldn’t even die without purposely
 annoying their betters; and, muffling herself in a thick shawl which
 she hastily caught up, briefly requested Mr. Bumble to stay till she
 came back, lest anything particular should occur. Bidding the messenger
-walk fast, and not be all night hobbling up the stairs, she followed
+walk fast, and not be all [[Night|night]] hobbling up the stairs, she followed
 her from the room with a very ill grace, scolding all the way.
 
 Mr. Bumble’s conduct on being left to himself, was rather inexplicable.
@@ -80,6 +80,6 @@ on his cocked hat corner-wise, and danced with much gravity four
 distinct times round the table.
 
 Having gone through this very extraordinary performance, he took off
-the cocked hat again, and, spreading himself before the fire with his
+the cocked hat again, and, spreading himself before the [[Fire|fire]] with his
 back towards it, seemed to be mentally engaged in taking an exact
 inventory of the furniture.

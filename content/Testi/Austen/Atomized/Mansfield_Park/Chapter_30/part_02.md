@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 30 (part 2)"
+title: "[[Mansfield Park]] — Chapter 30 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,8 +17,8 @@ tags:
 “I could so wholly and absolutely confide in her,” said he; “and _that_
 is what I want.”
 
-Well might his sister, believing as she really did that his opinion of
-Fanny Price was scarcely beyond her merits, rejoice in her prospects.
+[[Well]] might his sister, believing as she really did that his opinion of
+[[Fanny Price]] was scarcely beyond her merits, rejoice in her prospects.
 
 “The more I think of it,” she cried, “the more am I convinced that you
 are doing quite right; and though I should never have selected Fanny
@@ -42,10 +42,10 @@ we shall be all together.”
 When she had spoken it, she recollected herself, and wished it unsaid;
 but there was no need of confusion; for her brother saw her only as the
 supposed inmate of Mansfield parsonage, and replied but to invite her
-in the kindest manner to his own house, and to claim the best right in
+in the kindest manner to his own [[house]], and to claim the best right in
 her.
 
-“You must give us more than half your time,” said he. “I cannot admit
+“You must give us more than half your [[Time|time]],” said he. “I cannot admit
 Mrs. Grant to have an equal claim with Fanny and myself, for we shall
 both have a right in you. Fanny will be so truly your sister!”
 
@@ -53,11 +53,11 @@ Mary had only to be grateful and give general assurances; but she was
 now very fully purposed to be the guest of neither brother nor sister
 many months longer.
 
-“You will divide your year between London and Northamptonshire?”
+“You will divide your year between [[London]] and Northamptonshire?”
 
 “Yes.”
 
-“That’s right; and in London, of course, a house of your own: no longer
+“That’s right; and in [[London]], of course, a [[house]] of your own: no longer
 with the Admiral. My dearest Henry, the advantage to you of getting
 away from the Admiral before your manners are hurt by the contagion of
 his, before you have contracted any of his foolish opinions, or learned
@@ -67,25 +67,25 @@ but, in my estimation, your marrying early may be the saving of you. To
 have seen you grow like the Admiral in word or deed, look or gesture,
 would have broken my heart.”
 
-“Well, well, we do not think quite alike here. The Admiral has his
+“[[Well]], [[Well|well]], we do not think quite alike here. The Admiral has his
 faults, but he is a very good man, and has been more than a father to
 me. Few fathers would have let me have my own way half so much. You
-must not prejudice Fanny against him. I must have them love one
+must not prejudice Fanny against him. I must have them [[Love|love]] one
 another.”
 
 Mary refrained from saying what she felt, that there could not be two
 persons in existence whose characters and manners were less accordant:
-time would discover it to him; but she could not help _this_ reflection
-on the Admiral. “Henry, I think so highly of Fanny Price, that if I
+[[Time|time]] would discover it to him; but she could not help _this_ reflection
+on the Admiral. “Henry, I think so highly of [[Fanny Price]], that if I
 could suppose the next Mrs. Crawford would have half the reason which
 my poor ill-used aunt had to abhor the very name, I would prevent the
-marriage, if possible; but I know you: I know that a wife you _loved_
-would be the happiest of women, and that even when you ceased to love,
+[[Marriage|marriage]], if possible; but I know you: I know that a wife you _loved_
+would be the happiest of women, and that even when you ceased to [[Love|love]],
 she would yet find in you the liberality and good-breeding of a
 gentleman.”
 
 The impossibility of not doing everything in the world to make Fanny
-Price happy, or of ceasing to love Fanny Price, was of course the
+Price happy, or of ceasing to [[Love|love]] [[Fanny Price]], was of course the
 groundwork of his eloquent answer.
 
 “Had you seen her this morning, Mary,” he continued, “attending with
@@ -103,15 +103,15 @@ I said. Had you seen her so, Mary, you would not have implied the
 possibility of her power over my heart ever ceasing.”
 
 “My dearest Henry,” cried Mary, stopping short, and smiling in his
-face, “how glad I am to see you so much in love! It quite delights me.
-But what will Mrs. Rushworth and Julia say?”
+face, “how glad I am to see you so much in [[Love|love]]! It quite delights me.
+But what will Mrs. Rushworth and [[Julia]] say?”
 
 “I care neither what they say nor what they feel. They will now see
 what sort of woman it is that can attach me, that can attach a man of
 sense. I wish the discovery may do them any good. And they will now see
 their cousin treated as she ought to be, and I wish they may be
 heartily ashamed of their own abominable neglect and unkindness. They
-will be angry,” he added, after a moment’s silence, and in a cooler
+will be angry,” he added, after a moment’s [[Silence|silence]], and in a cooler
 tone; “Mrs. Rushworth will be very angry. It will be a bitter pill to
 her; that is, like other bitter pills, it will have two moments’ ill
 flavour, and then be swallowed and forgotten; for I am not such a
@@ -124,10 +124,10 @@ give the consequence so justly her due. Now she is dependent, helpless,
 friendless, neglected, forgotten.”
 
 “Nay, Henry, not by all; not forgotten by all; not friendless or
-forgotten. Her cousin Edmund never forgets her.”
+forgotten. Her cousin [[Edmund]] never forgets her.”
 
-“Edmund! True, I believe he is, generally speaking, kind to her, and so
+“[[Edmund]]! True, I believe he is, generally speaking, kind to her, and so
 is Sir Thomas in his way; but it is the way of a rich, superior,
-long-worded, arbitrary uncle. What can Sir Thomas and Edmund together
-do, what _do_ they do for her happiness, comfort, honour, and dignity
+long-worded, arbitrary uncle. What can Sir Thomas and [[Edmund]] together
+do, what _do_ they do for her happiness, comfort, [[Honour|honour]], and dignity
 in the world, to what I _shall_ do?”

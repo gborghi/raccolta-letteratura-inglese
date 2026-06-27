@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 37 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 37 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -21,7 +21,7 @@ and excellent and exemplary fellow, took from it the kindest and very
 best of parents, the very best of parents to us both. I wish that
 she could have seen us in our prosperity, and shared it, and had the
 happiness of knowing how dearly we loved her in it, as we did when we
-were two poor boys; but that was not to be. My dear brother--The Memory
+were two poor boys; but that was not to be. My dear brother--The [[Memory]]
 of our Mother.’
 
 ‘Good Lord!’ thought Nicholas, ‘and there are scores of people of their
@@ -29,7 +29,7 @@ own station, knowing all this, and twenty thousand times more, who
 wouldn’t ask these men to dinner because they eat with their knives and
 never went to school!’
 
-But there was no time to moralise, for the joviality again became very
+But there was no [[Time|time]] to moralise, for the joviality again became very
 brisk, and the decanter of port being nearly out, brother Ned pulled the
 bell, which was instantly answered by the apoplectic butler.
 
@@ -37,7 +37,7 @@ bell, which was instantly answered by the apoplectic butler.
 
 ‘Sir,’ replied the butler.
 
-‘A magnum of the double-diamond, David, to drink the health of Mr
+‘A magnum of the [[Double|double]]-diamond, David, to drink the health of Mr
 Linkinwater.’
 
 Instantly, by a feat of dexterity, which was the admiration of all the
@@ -50,11 +50,11 @@ dignity of conscious cleverness.
 ‘Ha!’ said brother Ned, first examining the cork and afterwards filling
 his glass, while the old butler looked complacently and amiably on, as
 if it were all his own property, but the company were quite welcome to
-make free with it, ‘this looks well, David.’
+make free with it, ‘this looks [[Well|well]], David.’
 
 ‘It ought to, sir,’ replied David. ‘You’d be troubled to find such a
-glass of wine as is our double-diamond, and that Mr. Linkinwater knows
-very well. That was laid down when Mr. Linkinwater first come: that wine
+glass of wine as is our [[Double|double]]-diamond, and that Mr. Linkinwater knows
+very [[Well|well]]. That was laid down when Mr. Linkinwater first come: that wine
 was, gentlemen.’
 
 ‘Nay, David, nay,’ interposed brother Charles.
@@ -62,7 +62,7 @@ was, gentlemen.’
 ‘I wrote the entry in the cellar-book myself, sir, if you please,’ said
 David, in the tone of a man, quite confident in the strength of his
 facts. ‘Mr. Linkinwater had only been here twenty year, sir, when that
-pipe of double-diamond was laid down.’
+pipe of [[Double|double]]-diamond was laid down.’
 
 ‘David is quite right, quite right, brother Charles,’ said Ned: ‘are the
 people here, David?’
@@ -78,7 +78,7 @@ they came in, bowing, and grinning, and blushing, the housekeeper, and
 cook, and housemaid, brought up the rear.
 
 ‘Seven,’ said brother Ned, filling a corresponding number of glasses
-with the double-diamond, ‘and David, eight. There! Now, you’re all of
+with the [[Double|double]]-diamond, ‘and David, eight. There! Now, you’re all of
 you to drink the health of your best friend Mr. Timothy Linkinwater, and
 wish him health and long life and many happy returns of this day, both
 for his own sake and that of your old masters, who consider him an
@@ -90,7 +90,7 @@ Linkinwater a slap on the back, which made him look, for the moment,
 almost as apoplectic as the butler: and tossed off the contents of his
 glass in a twinkling.
 
-The toast was scarcely drunk with all honour to Tim Linkinwater, when
+The toast was scarcely drunk with all [[Honour|honour]] to Tim Linkinwater, when
 the sturdiest and jolliest subordinate elbowed himself a little
 in advance of his fellows, and exhibiting a very hot and flushed
 countenance, pulled a single lock of grey hair in the middle of his
@@ -99,8 +99,8 @@ as follows--rubbing the palms of his hands very hard on a blue cotton
 handkerchief as he did so:
 
 ‘We’re allowed to take a liberty once a year, gen’lemen, and if you
-please we’ll take it now; there being no time like the present, and no
-two birds in the hand worth one in the bush, as is well known--leastways
+please we’ll take it now; there being no [[Time|time]] like the present, and no
+two [[Birds|birds]] in the hand worth one in the bush, as is [[Well|well]] known--leastways
 in a contrairy sense, which the meaning is the same. (A pause--the
 butler unconvinced.) What we mean to say is, that there never
 was (looking at the butler)--such--(looking at the cook)
@@ -111,18 +111,18 @@ constancy a diffusing of itself over everywhere, and wishing they may
 live long and die happy!’
 
 When the foregoing speech was over--and it might have been much more
-elegant and much less to the purpose--the whole body of subordinates
+elegant and much less to the purpose--the whole [[Body|body]] of subordinates
 under command of the apoplectic butler gave three soft cheers; which, to
 that gentleman’s great indignation, were not very regular, inasmuch as
 the women persisted in giving an immense number of little shrill hurrahs
-among themselves, in utter disregard of the time. This done, they
+among themselves, in utter disregard of the [[Time|time]]. This done, they
 withdrew; shortly afterwards, Tim Linkinwater’s sister withdrew; in
-reasonable time after that, the sitting was broken up for tea and
+reasonable [[Time|time]] after that, the sitting was broken up for tea and
 coffee, and a round game of cards.
 
 At half-past ten--late hours for the square--there appeared a little
 tray of sandwiches and a bowl of bishop, which bishop coming on the top
-of the double-diamond, and other excitements, had such an effect
+of the [[Double|double]]-diamond, and other excitements, had such an effect
 upon Tim Linkinwater, that he drew Nicholas aside, and gave him to
 understand, confidentially, that it was quite true about the uncommonly
 handsome spinster, and that she was to the full as good-looking as she

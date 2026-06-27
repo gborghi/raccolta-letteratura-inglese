@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — UE OF THE PRESSMAN"
+title: "[[FourFaultlessFelons]] — UE OF THE PRESSMAN"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

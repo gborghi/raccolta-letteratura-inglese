@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 34 (part 1)"
+title: "Bleak [[house|House]] — Chapter 34 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -33,7 +33,7 @@ every now and then to come upon it with a fresh eye. Even that won’t
 do. “Is it,” Mr. George still muses, “blank cartridge or ball?”
 
 Phil Squod, with the aid of a brush and paint-pot, is employed in the
-distance whitening the targets, softly whistling in quick-march time
+distance whitening the targets, softly whistling in quick-march [[Time|time]]
 and in drum-and-fife manner that he must and will go back again to
 the girl he left behind him.
 
@@ -61,7 +61,7 @@ Phil?”
 
 “Why?”
 
-“I think,” replies Phil after pensively tracing out a cross-wrinkle
+“I think,” replies Phil after pensively tracing out a [[Cross|cross]]-wrinkle
 in his forehead with the brush-handle, “that mischeevious
 consequences is always meant when money’s asked for.”
 
@@ -122,7 +122,7 @@ and smoothings of the white surface round the rim with his thumb,
 that he had forgotten the Bagnet responsibility and would not so much
 as injure a hair of the head of any member of that worthy family when
 steps are audible in the long passage without, and a cheerful voice
-is heard to wonder whether George is at home. Phil, with a look at
+is heard to [[Wonder|wonder]] whether George is at [[Home|home]]. Phil, with a look at
 his master, hobbles up, saying, “Here’s the guv’ner, Mrs. Bagnet!
 Here he is!” and the old girl herself, accompanied by Mr. Bagnet,
 appears.
@@ -130,7 +130,7 @@ appears.
 The old girl never appears in walking trim, in any season of the
 year, without a grey cloth cloak, coarse and much worn but very
 clean, which is, undoubtedly, the identical garment rendered so
-interesting to Mr. Bagnet by having made its way home to Europe from
+interesting to Mr. Bagnet by having made its way [[Home|home]] to Europe from
 another quarter of the globe in company with Mrs. Bagnet and an
 umbrella. The latter faithful appendage is also invariably a part of
 the old girl’s presence out of doors. It is of no colour known in
@@ -142,13 +142,13 @@ capacity of sticking to its post that might be desired in an article
 long associated with the British army. The old girl’s umbrella is of
 a flabby habit of waist and seems to be in need of stays—an
 appearance that is possibly referable to its having served through a
-series of years at home as a cupboard and on journeys as a carpet
+series of years at [[Home|home]] as a cupboard and on journeys as a carpet
 bag. She never puts it up, having the greatest reliance on her
-well-proved cloak with its capacious hood, but generally uses the
+[[Well|well]]-proved cloak with its capacious hood, but generally uses the
 instrument as a wand with which to point out joints of meat or
 bunches of greens in marketing or to arrest the attention of
 tradesmen by a friendly poke. Without her market-basket, which is a
-sort of wicker well with two flapping lids, she never stirs abroad.
+sort of wicker [[Well|well]] with two flapping lids, she never stirs abroad.
 Attended by these her trusty companions, therefore, her honest
 sunburnt face looking cheerily out of a rough straw bonnet, Mrs.
 Bagnet now arrives, fresh-coloured and bright, in George’s Shooting

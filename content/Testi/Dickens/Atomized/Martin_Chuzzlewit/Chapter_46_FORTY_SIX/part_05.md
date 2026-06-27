@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 46: FORTY SIX (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -45,7 +45,7 @@ no one dead? Foul play! Go see who it is!’
 
 She made a sign to them not to speak to him, which indeed they had
 little inclination to do; and remained silent herself. So did he for
-a short time; but then he repeated the same question with an eagerness
+a short [[Time|time]]; but then he repeated the same question with an eagerness
 that had a peculiar terror in it.
 
 ‘There’s some one dead,’ he said, ‘or dying; and I want to knows who it
@@ -67,7 +67,7 @@ he sat down again, and patted her upon the head. ‘They don’t tell me
 either; but I’ll watch, I’ll watch. They shall not hurt you; don’t be
 frightened. When you have sat up watching, I have sat up watching too.
 Aye, aye, I have!’ he piped out, clenching his weak, shrivelled hand.
-‘Many a night I have been ready!’
+‘Many a [[Night|night]] I have been ready!’
 
 He said this with such trembling gaps and pauses in his want of breath,
 and said it in his jealous secrecy so closely in her ear, that little
@@ -82,7 +82,7 @@ highest state of inflammation, when she now (there being nothing left to
 eat or drink) saw fit to interpose.
 
 ‘Why, highty tighty, sir!’ cried Mrs Gamp, ‘is these your manners? You
-want a pitcher of cold water throw’d over you to bring you round; that’s
+want a pitcher of cold [[Water|water]] throw’d over you to bring you round; that’s
 my belief, and if you was under Betsey Prig you’d have it, too, I do
 assure you, Mr Chuffey. Spanish Flies is the only thing to draw this
 nonsense out of you; and if anybody wanted to do you a kindness, they’d
@@ -96,8 +96,8 @@ was, I think!’
 ‘I ain’t no patience with him. You give him his own way too much by
 half. A worritin’ wexagious creetur!’
 
-No doubt with the view of carrying out the precepts she enforced, and
-‘bothering the old wictim’ in practice as well as in theory, Mrs Gamp
+No [[Doubt|doubt]] with the view of carrying out the precepts she enforced, and
+‘bothering the old wictim’ in practice as [[Well|well]] as in theory, Mrs Gamp
 took him by the collar of his coat, and gave him some dozen or two of
 hearty shakes backward and forward in his chair; that exercise being
 considered by the disciples of the Prig school of nursing (who are very
@@ -109,7 +109,7 @@ the triumph of her art.
 
 ‘There!’ she said, loosening the old man’s cravat, in consequence of his
 being rather black in the face, after this scientific treatment. ‘Now,
-I hope, you’re easy in your mind. If you should turn at all faint we
+I [[Hope|hope]], you’re easy in your mind. If you should turn at all faint we
 can soon rewive you, sir, I promige you. Bite a person’s thumbs, or
 turn their fingers the wrong way,’ said Mrs Gamp, smiling with the
 consciousness of at once imparting pleasure and instruction to her
@@ -118,7 +118,7 @@ auditors, ‘and they comes to, wonderful, Lord bless you!’
 As this excellent woman had been formerly entrusted with the care of Mr
 Chuffey on a previous occasion, neither Mrs Jonas nor anybody else had
 the resolution to interfere directly with her mode of treatment;
-though all present (Tom Pinch and his sister especially) appeared to be
+though all present ([[Tom Pinch]] and his sister especially) appeared to be
 disposed to differ from her views. For such is the rash boldness of the
 uninitiated, that they will frequently set up some monstrous abstract
 principle, such as humanity, or tenderness, or the like idle folly, in
@@ -128,14 +128,14 @@ and established the usage, and who must therefore be the best and most
 impartial judges of the subject.
 
 ‘Ah, Mr Pinch!’ said Miss Pecksniff. ‘It all comes of this unfortunate
-marriage. If my sister had not been so precipitate, and had not united
-herself to a Wretch, there would have been no Mr Chuffey in the house.’
+[[Marriage|marriage]]. If my sister had not been so precipitate, and had not united
+herself to a Wretch, there would have been no Mr Chuffey in the [[house]].’
 
 ‘Hush!’ cried Tom. ‘She’ll hear you.’
 
 ‘I should be very sorry if she did hear me, Mr Pinch,’ said Cherry,
-raising her voice a little; ‘for it is not in my nature to add to the
+raising her voice a little; ‘for it is not in my [[Nature|nature]] to add to the
 uneasiness of any person; far less of my own sister. I know what a
-sister’s duties are, Mr Pinch, and I hope I always showed it in my
-practice. Augustus, my dear child, find my pocket-handkerchief, and give
+sister’s duties are, Mr Pinch, and I [[Hope|hope]] I always showed it in my
+practice. Augustus, my dear [[Child|child]], find my pocket-handkerchief, and give
 it to me.’

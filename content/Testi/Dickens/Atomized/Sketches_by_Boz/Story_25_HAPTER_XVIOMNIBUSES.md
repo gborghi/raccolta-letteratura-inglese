@@ -20,29 +20,29 @@ CHAPTER XVI—OMNIBUSES
 It is very generally allowed that public conveyances afford an
 extensive field for amusement and observation. Of all the public
 conveyances that have been constructed since the days of the Ark—we
-think that is the earliest on record—to the present time, commend us to
+think that is the earliest on record—to the present [[Time|time]], commend us to
 an omnibus. A long stage is not to be despised, but there you have only
 six insides, and the chances are, that the same people go all the way
 with you—there is no change, no variety. Besides, after the first
-twelve hours or so, people get cross and sleepy, and when you have seen
+twelve hours or so, people get [[Cross|cross]] and sleepy, and when you have seen
 a man in his nightcap, you lose all respect for him; at least, that is
 the case with us. Then on smooth roads people frequently get prosy, and
 tell long stories, and even those who don’t talk, may have very
 unpleasant predilections. We once travelled four hundred miles, inside
-a stage-coach, with a stout man, who had a glass of rum-and-water,
-warm, handed in at the window at every place where we changed horses.
+a stage-coach, with a stout man, who had a glass of rum-and-[[Water|water]],
+warm, handed in at the [[Window|window]] at every place where we changed horses.
 This was decidedly unpleasant. We have also travelled occasionally,
 with a small boy of a pale aspect, with light hair, and no perceptible
 neck, coming up to town from school under the protection of the guard,
-and directed to be left at the Cross Keys till called for. This is,
-perhaps, even worse than rum-and-water in a close atmosphere. Then
+and directed to be left at the [[Cross]] Keys till called for. This is,
+perhaps, even worse than rum-and-[[Water|water]] in a close atmosphere. Then
 there is the whole train of evils consequent on a change of the
 coachman; and the misery of the discovery—which the guard is sure to
 make the moment you begin to doze—that he wants a brown-paper parcel,
 which he distinctly remembers to have deposited under the seat on which
 you are reposing. A great deal of bustle and groping takes place, and
 when you are thoroughly awakened, and severely cramped, by holding your
-legs up by an almost supernatural exertion, while he is looking behind
+legs up by an almost [[Supernatural|supernatural]] exertion, while he is looking behind
 them, it suddenly occurs to him that he put it in the fore-boot. Bang
 goes the door; the parcel is immediately found; off starts the coach
 again; and the guard plays the key-bugle as loud as he can play it, as
@@ -50,9 +50,9 @@ if in mockery of your wretchedness.
 
 Now, you meet with none of these afflictions in an omnibus; sameness
 there can never be. The passengers change as often in the course of one
-journey as the figures in a kaleidoscope, and though not so glittering,
+[[Journey|journey]] as the figures in a kaleidoscope, and though not so glittering,
 are far more amusing. We believe there is no instance on record, of a
-man’s having gone to sleep in one of these vehicles. As to long
+man’s having gone to [[Sleep|sleep]] in one of these vehicles. As to long
 stories, would any man venture to tell a long story in an omnibus? and
 even if he did, where would be the harm? nobody could possibly hear
 what he was talking about. Again; children, though occasionally, are
@@ -62,15 +62,15 @@ we are unconscious of their presence. Yes, after mature reflection, and
 considerable experience, we are decidedly of opinion, that of all known
 vehicles, from the glass-coach in which we were taken to be christened,
 to that sombre caravan in which we must one day make our last earthly
-journey, there is nothing like an omnibus.
+[[Journey|journey]], there is nothing like an omnibus.
 
-We will back the machine in which we make our daily peregrination from
-the top of Oxford-street to the city, against any ‘buss’ on the road,
+We will back the [[Machine|machine]] in which we make our daily peregrination from
+the top of [[Oxford]]-street to the [[City|city]], against any ‘buss’ on the [[Road|road]],
 whether it be for the gaudiness of its exterior, the perfect simplicity
 of its interior, or the native coolness of its cad. This young
-gentleman is a singular instance of self-devotion; his somewhat
+gentleman is a singular instance of [[Self|self]]-devotion; his somewhat
 intemperate zeal on behalf of his employers, is constantly getting him
-into trouble, and occasionally into the house of correction. He is no
+into trouble, and occasionally into the [[house]] of correction. He is no
 sooner emancipated, however, than he resumes the duties of his
 profession with unabated ardour. His principal distinction is his
 activity. His great boast is, ‘that he can chuck an old gen’lm’n into
@@ -91,7 +91,7 @@ rejoins the cad, shoving him in, and slamming the door. ‘All right,
 Bill.’ Retreat is impossible; the new-comer rolls about, till he falls
 down somewhere, and there he stops.
 
-As we get into the city a little before ten, four or five of our party
+As we get into the [[City|city]] a little before ten, four or five of our party
 are regular passengers. We always take them up at the same places, and
 they generally occupy the same seats; they are always dressed in the
 same manner, and invariably discuss the same topics—the increasing
@@ -104,7 +104,7 @@ he generally holds a running dialogue. He is very officious in helping
 people in and out, and always volunteers to give the cad a poke with
 his umbrella, when any one wants to alight. He usually recommends
 ladies to have sixpence ready, to prevent delay; and if anybody puts a
-window down, that he can reach, he immediately puts it up again.
+[[Window|window]] down, that he can reach, he immediately puts it up again.
 
 ‘Now, what are you stopping for?’ says the little man every morning,
 the moment there is the slightest indication of ‘pulling up’ at the
@@ -148,12 +148,12 @@ spirited away by the opposition. Hereupon the driver of the opposition
 taunts our people with his having ‘regularly done ’em out of that old
 swell,’ and the voice of the ‘old swell’ is heard, vainly protesting
 against this unlawful detention. We rattle off, the other omnibus
-rattles after us, and every time we stop to take up a passenger, they
+rattles after us, and every [[Time|time]] we stop to take up a passenger, they
 stop to take him too; sometimes we get him; sometimes they get him; but
 whoever don’t get him, say they ought to have had him, and the cads of
 the respective vehicles abuse one another accordingly.
 
-As we arrive in the vicinity of Lincoln’s-inn-fields, Bedford-row, and
+As we arrive in the vicinity of [[Lincoln]]’s-inn-fields, Bedford-row, and
 other legal haunts, we drop a great many of our original passengers,
 and take up fresh ones, who meet with a very sulky reception. It is
 rather remarkable, that the people already in an omnibus, always look
@@ -163,7 +163,7 @@ man has some notion of this kind, and that he considers their entry as
 a sort of negative impertinence.
 
 Conversation is now entirely dropped; each person gazes vacantly
-through the window in front of him, and everybody thinks that his
+through the [[Window|window]] in front of him, and everybody thinks that his
 opposite neighbour is staring at him. If one man gets out at Shoe-lane,
 and another at the corner of Farringdon-street, the little old
 gentleman grumbles, and suggests to the latter, that if he had got out

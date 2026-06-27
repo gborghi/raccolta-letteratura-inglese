@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 49: FORTY NINE (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 49: FORTY NINE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,12 +16,12 @@ tags:
 
 ‘Why, bless my life!’ exclaimed the little barber, ‘what’s amiss? The
 noise you ladies have been making, Mrs Gamp! Why, these two gentlemen
-have been standing on the stairs, outside the door, nearly all the time,
+have been standing on the stairs, outside the door, nearly all the [[Time|time]],
 trying to make you hear, while you were pelting away, hammer and tongs!
-It’ll be the death of the little bullfinch in the shop, that draws his
-own water. In his fright, he’s been a-straining himself all to bits,
-drawing more water than he could drink in a twelvemonth. He must have
-thought it was Fire!’
+It’ll be the [[Death|death]] of the little bullfinch in the shop, that draws his
+own [[Water|water]]. In his fright, he’s been a-straining himself all to bits,
+drawing more [[Water|water]] than he could drink in a twelvemonth. He must have
+thought it was [[Fire]]!’
 
 Mrs Gamp had in the meanwhile sunk into her chair, from whence, turning
 up her overflowing eyes, and clasping her hands, she delivered the
@@ -29,7 +29,7 @@ following lamentation:
 
 ‘Oh, Mr Sweedlepipes, which Mr Westlock also, if my eyes do not deceive,
 and a friend not havin’ the pleasure of bein’ beknown, wot I have took
-from Betsey Prig this blessed night, no mortial creetur knows! If she
+from Betsey Prig this blessed [[Night|night]], no mortial creetur knows! If she
 had abuged me, bein’ in liquor, which I thought I smelt her wen she
 come, but could not so believe, not bein’ used myself’--Mrs Gamp, by the
 way, was pretty far gone, and the fragrance of the teapot was strong in
@@ -42,11 +42,11 @@ teapot, and gradually got out of the room. John Westlock, taking a
 chair, sat down on one side of Mrs Gamp. Martin, taking the foot of the
 bed, supported her on the other.
 
-‘You wonder what we want, I daresay,’ observed John. ‘I’ll tell you
+‘You [[Wonder|wonder]] what we want, I daresay,’ observed John. ‘I’ll tell you
 presently, when you have recovered. It’s not pressing, for a few minutes
 or so. How do you find yourself? Better?’
 
-Mrs Gamp shed more tears, shook her head and feebly pronounced Mrs
+Mrs Gamp shed more [[Tears|tears]], shook her head and feebly pronounced Mrs
 Harris’s name.
 
 ‘Have a little--’ John was at a loss what to call it.
@@ -61,7 +61,7 @@ Mrs Gamp was prevailed upon to take a glassful. ‘On condition,’ she
 passionately observed, ‘as Betsey never has another stroke of work from
 me.’
 
-‘Certainly not,’ said John. ‘She shall never help to nurse ME.’
+‘Certainly not,’ said John. ‘She shall never help to [[Nurse|nurse]] ME.’
 
 ‘To think,’ said Mrs Gamp, ‘as she should ever have helped to nuss that
 friend of yourn, and been so near of hearing things that--Ah!’
@@ -70,7 +70,7 @@ John looked at Martin.
 
 ‘Yes,’ he said. ‘That was a narrow escape, Mrs Gamp.’
 
-‘Narrer, in-deed!’ she returned. ‘It was only my having the night, and
+‘Narrer, in-deed!’ she returned. ‘It was only my having the [[Night|night]], and
 hearin’ of him in his wanderins; and her the day, that saved it. Wot
 would she have said and done, if she had know’d what I know; that
 perfeejus wretch! Yet, oh good gracious me!’ cried Mrs Gamp, trampling
@@ -81,15 +81,15 @@ same woman’s lips what I have heerd her speak of Mrs Harris!’
 
 ‘Isn’t true!’ cried Mrs Gamp. ‘True! Don’t I know as that dear woman
 is expecting of me at this minnit, Mr Westlock, and is a-lookin’ out of
-window down the street, with little Tommy Harris in her arms, as calls
+[[Window|window]] down the street, with little Tommy Harris in her arms, as calls
 me his own Gammy, and truly calls, for bless the mottled little legs
-of that there precious child (like Canterbury Brawn his own dear father
+of that there precious [[Child|child]] (like Canterbury Brawn his own dear father
 says, which so they are) his own I have been, ever since I found him,
 Mr Westlock, with his small red worsted shoe a-gurglin’ in his throat,
 where he had put it in his play, a chick, wile they was leavin’ of
 him on the floor a-lookin’ for it through the ouse and him a-choakin’
 sweetly in the parlour! Oh, Betsey Prig, what wickedness you’ve showed
-this night, but never shall you darken Sairey’s doors agen, you twining
+this [[Night|night]], but never shall you darken Sairey’s doors agen, you twining
 serpiant!’
 
 ‘You were always so kind to her, too!’ said John, consolingly.
@@ -115,16 +115,16 @@ havin’ only them about you as you knows you can repoge in. Who could
 repoge in Betsey Prig, arter her words of Mrs Harris, setting in that
 chair afore my eyes!’
 
-‘Quite true,’ said John; ‘quite. I hope you have time to find another
+‘Quite true,’ said John; ‘quite. I [[Hope|hope]] you have [[Time|time]] to find another
 assistant, Mrs Gamp?’
 
 Between her indignation and the teapot, her powers of comprehending what
 was said to her began to fail. She looked at John with tearful eyes, and
-murmuring the well-remembered name which Mrs Prig had challenged--as if
+murmuring the [[Well|well]]-remembered name which Mrs Prig had challenged--as if
 it were a talisman against all earthly sorrows--seemed to wander in her
 mind.
 
-‘I hope,’ repeated John, ‘that you have time to find another assistant?’
+‘I [[Hope|hope]],’ repeated John, ‘that you have [[Time|time]] to find another assistant?’
 
 ‘Which short it is, indeed,’ cried Mrs Gamp, turning up her languid
 eyes, and clasping Mr Westlock’s wrist with matronly affection.
@@ -147,12 +147,12 @@ slow nod, and a still slower drawing down of the corners of Mrs Gamp’s
 mouth. She added with extreme stateliness of manner after indulging in a
 short doze:
 
-‘But I am a-keepin’ of you gentlemen, and time is precious.’
+‘But I am a-keepin’ of you gentlemen, and [[Time|time]] is precious.’
 
 Mingling with that delusion of the teapot which inspired her with
 the belief that they wanted her to go somewhere immediately, a shrewd
 avoidance of any further reference to the topics into which she had
-lately strayed, Mrs Gamp rose; and putting away the teapot in its
+lately strayed, Mrs Gamp [[Rose|rose]]; and putting away the teapot in its
 accustomed place, and locking the cupboard with much gravity proceeded
 to attire herself for a professional visit.
 
@@ -172,7 +172,7 @@ commiseration for Betsey’s patients, she forgot to open them again until
 she dropped a patten. Her nap was also broken at intervals like the
 fabled slumbers of Friar Bacon, by the dropping of the other patten,
 and of the umbrella. But when she had got rid of those incumbrances, her
-sleep was peaceful.
+[[Sleep|sleep]] was peaceful.
 
 The two young men looked at each other, ludicrously enough; and Martin,
 stifling his disposition to laugh, whispered in John Westlock’s ear,
@@ -181,12 +181,12 @@ stifling his disposition to laugh, whispered in John Westlock’s ear,
 
 ‘Stay here,’ he replied.
 
-Mrs Gamp was heard to murmur ‘Mrs Harris’ in her sleep.
+Mrs Gamp was heard to murmur ‘Mrs Harris’ in her [[Sleep|sleep]].
 
 ‘Rely upon it,’ whispered John, looking cautiously towards her, ‘that
 you shall question this old clerk, though you go as Mrs Harris herself.
 We know quite enough to carry her our own way now, at all events; thanks
 to this quarrel, which confirms the old saying that when rogues fall
-out, honest people get what they want. Let Jonas Chuzzlewit look to
-himself; and let her sleep as long as she likes. We shall gain our end
-in good time.’
+out, honest people get what they want. Let [[Jonas Chuzzlewit]] look to
+himself; and let her [[Sleep|sleep]] as long as she likes. We shall gain our end
+in good [[Time|time]].’

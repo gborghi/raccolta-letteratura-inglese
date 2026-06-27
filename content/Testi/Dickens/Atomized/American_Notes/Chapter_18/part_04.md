@@ -16,8 +16,8 @@ tags:
 
 That we may have no partial evidence from abolitionists in this inquiry,
 either, I will once more turn to their own newspapers, and I will confine
-myself, this time, to a selection from paragraphs which appeared from day
-to day, during my visit to America, and which refer to occurrences
+myself, this [[Time|time]], to a selection from paragraphs which appeared from day
+to day, during my visit to [[America]], and which refer to occurrences
 happening while I was there.  The italics in these extracts, as in the
 foregoing, are my own.
 
@@ -25,7 +25,7 @@ These cases did not ALL occur, it will be seen, in territory actually
 belonging to legalised Slave States, though most, and those the very
 worst among them did, as their counterparts constantly do; but the
 position of the scenes of action in reference to places immediately at
-hand, where slavery is the law; and the strong resemblance between that
+hand, where [[Slavery|slavery]] is the law; and the strong resemblance between that
 class of outrages and the rest; lead to the just presumption that the
 character of the parties concerned was formed in slave districts, and
 brutalised by slave customs.
@@ -39,17 +39,17 @@ brutalised by slave customs.
     nomination for Sheriff of Grant county.  Mr. E. S. Baker was
     nominated and supported by Mr. Arndt.  This nomination was opposed by
     Vinyard, who wanted the appointment to vest in his own brother.  In
-    the course of debate, the deceased made some statements which Vinyard
+    the course of [[debate]], the deceased made some statements which Vinyard
     pronounced false, and made use of violent and insulting language,
     dealing largely in personalities, to which Mr. A. made no reply.
     After the adjournment, Mr. A. stepped up to Vinyard, and requested
     him to retract, which he refused to do, repeating the offensive
     words.  Mr. Arndt then made a blow at Vinyard, who stepped back a
-    pace, drew a pistol, and shot him dead.
+    pace, drew a [[Pistol|pistol]], and shot him dead.
 
     ‘The issue appears to have been provoked on the part of Vinyard, who
     was determined at all hazards to defeat the appointment of Baker, and
-    who, himself defeated, turned his ire and revenge upon the
+    who, himself defeated, turned his ire and [[Revenge|revenge]] upon the
     unfortunate Arndt.’
 
                           ‘_The Wisconsin Tragedy_.
@@ -78,24 +78,24 @@ brutalised by slave customs.
     provided himself with one of Colt’s revolving pistols, met Mr. B. in
     the street, _and discharged the contents of five of the barrels at
     him_: _each shot taking effect_.  Mr. B., though horribly wounded,
-    and dying, returned the fire, and killed Ross on the spot.’
+    and dying, returned the [[Fire|fire]], and killed Ross on the spot.’
 
-                     ‘_Terrible Death of Robert Potter_.
+                     ‘_Terrible [[Death]] of Robert Potter_.
 
     ‘From the “Caddo Gazette,” of the 12th inst., we learn the frightful
-    death of Colonel Robert Potter. . . . He was beset in his house by an
-    enemy, named Rose.  He sprang from his couch, seized his gun, and, in
-    his night-clothes, rushed from the house.  For about two hundred
-    yards his speed seemed to defy his pursuers; but, getting entangled
-    in a thicket, he was captured.  Rose told him _that he intended to
+    [[Death|death]] of Colonel Robert Potter. . . . He was beset in his [[house]] by an
+    enemy, named [[Rose]].  He sprang from his couch, seized his gun, and, in
+    his [[Night|night]]-clothes, rushed from the [[house]].  For about two hundred
+    yards his [[Speed|speed]] seemed to defy his pursuers; but, getting entangled
+    in a thicket, he was captured.  [[Rose]] told him _that he intended to
     act a generous part_, and give him a chance for his life.  He then
     told Potter he might run, and he should not be interrupted till he
     reached a certain distance.  Potter started at the word of command,
     and before a gun was fired he had reached the lake.  His first
-    impulse was to jump in the water and dive for it, which he did.  Rose
+    impulse was to jump in the [[Water|water]] and dive for it, which he did.  [[Rose]]
     was close behind him, and formed his men on the bank ready to shoot
-    him as he rose.  In a few seconds he came up to breathe; and scarce
-    had his head reached the surface of the water when it was completely
+    him as he [[Rose|rose]].  In a few seconds he came up to breathe; and scarce
+    had his head reached the surface of the [[Water|water]] when it was completely
     riddled with the shot of their guns, and he sunk, to rise no more!’
 
                             ‘_Murder in Arkansas_.
@@ -105,11 +105,11 @@ brutalised by slave customs.
     of the Senecas, Quapaw, and Shawnees, and Mr. James Gillespie, of the
     mercantile firm of Thomas G. Allison and Co., of Maysville, Benton,
     County Ark, in which the latter was slain with a bowie-knife.  Some
-    difficulty had for some time existed between the parties.  It is said
+    difficulty had for some [[Time|time]] existed between the parties.  It is said
     that Major Gillespie brought on the attack with a cane.  A severe
     conflict ensued, during which two pistols were fired by Gillespie and
     one by Loose.  Loose then stabbed Gillespie with one of those
-    never-failing weapons, a bowie-knife.  The death of Major G. is much
+    never-failing weapons, a bowie-knife.  The [[Death|death]] of Major G. is much
     regretted, as he was a liberal-minded and energetic man.  Since the
     above was in type, we have learned that Major Allison has stated to
     some of our citizens in town that Mr. Loose gave the first blow.  We

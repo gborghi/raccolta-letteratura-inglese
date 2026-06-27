@@ -15,9 +15,9 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Theseus, Hippolyta, and Philostrate, with others |
-| THESEUS | Now, fair Hippolyta, our nuptial hour Draws on apace. Four happy days bring in Another moon—but O, methinks how slow This old moon wanes! She lingers my desires Like to a stepdame or a dowager Long withering out a young man’s revenue. |
-| HIPPOLYTA | Four days will quickly steep themselves in night, Four nights will quickly dream away the time; And then the moon, like to a silver bow New bent in heaven, shall behold the night Of our solemnities. |
-| THESEUS | Go, Philostrate, Stir up the Athenian youth to merriments. Awake the pert and nimble spirit of mirth. Turn melancholy forth to funerals— The pale companion is not for our pomp. Exit Philostrate Hippolyta, I wooed thee with my sword, And won thy love doing thee injuries. But I will wed thee in another key— With pomp, with triumph, and with revelling. Enter Egeus and his daughter Hermia, and Lysander and Demetrius |
-| EGEUS | Happy be Theseus, our renowned Duke. |
-| THESEUS | Thanks, good Egeus. What’s the news with thee? |
+| *(didascalia)* | Enter [[Theseus]], [[Hippolyta]], and Philostrate, with others |
+| [[Theseus|THESEUS]] | Now, fair [[Hippolyta]], our nuptial hour Draws on apace. Four happy days bring in Another [[Moon|moon]]—but O, methinks how slow This old [[Moon|moon]] wanes! She lingers my desires Like to a stepdame or a dowager Long withering out a young man’s revenue. |
+| [[Hippolyta|HIPPOLYTA]] | Four days will quickly steep themselves in [[Night|night]], Four nights will quickly dream away the [[Time|time]]; And then the [[Moon|moon]], like to a silver bow New bent in heaven, shall behold the [[Night|night]] Of our solemnities. |
+| [[Theseus|THESEUS]] | Go, Philostrate, Stir up the Athenian youth to merriments. Awake the pert and nimble spirit of mirth. Turn [[Melancholy|melancholy]] forth to funerals— The pale companion is not for our pomp. Exit Philostrate [[Hippolyta]], I wooed thee with my [[Sword|sword]], And won thy [[Love|love]] doing thee injuries. But I will wed thee in another key— With pomp, with triumph, and with revelling. Enter Egeus and his daughter [[Hermia]], and [[Lysander]] and [[Demetrius]] |
+| EGEUS | Happy be [[Theseus]], our renowned Duke. |
+| [[Theseus|THESEUS]] | Thanks, good Egeus. What’s the news with thee? |

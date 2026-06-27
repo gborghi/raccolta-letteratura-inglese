@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 31: A GREATER LOSS (part 2)"
+title: "[[David Copperfield]] — Chapter 31: A GREATER LOSS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -24,12 +24,12 @@ face. ‘Doen’t keep in that coat, sir, if it’s wet.’
 down, sir. It ain’t o’ no use saying welcome to you, but you’re welcome,
 kind and hearty.’
 
-‘Thank you, Mr. Peggotty, I am sure of that. Well, Peggotty!’ said I,
+‘Thank you, Mr. Peggotty, I am sure of that. [[Well]], Peggotty!’ said I,
 giving her a kiss. ‘And how are you, old woman?’
 
 ‘Ha, ha!’ laughed Mr. Peggotty, sitting down beside us, and rubbing his
 hands in his sense of relief from recent trouble, and in the genuine
-heartiness of his nature; ‘there’s not a woman in the wureld, sir--as I
+heartiness of his [[Nature|nature]]; ‘there’s not a woman in the wureld, sir--as I
 tell her--that need to feel more easy in her mind than her! She done her
 dooty by the departed, and the departed know’d it; and the departed
 done what was right by her, as she done what was right by the
@@ -39,8 +39,8 @@ Mrs. Gummidge groaned.
 
 ‘Cheer up, my pritty mawther!’ said Mr. Peggotty. (But he shook his head
 aside at us, evidently sensible of the tendency of the late occurrences
-to recall the memory of the old one.) ‘Doen’t be down! Cheer up, for
-your own self, on’y a little bit, and see if a good deal more doen’t
+to recall the [[Memory|memory]] of the old one.) ‘Doen’t be down! Cheer up, for
+your own [[Self|self]], on’y a little bit, and see if a good deal more doen’t
 come nat’ral!’
 
 ‘Not to me, Dan’l,’ returned Mrs. Gummidge. ‘Nothink’s nat’ral to me but
@@ -64,32 +64,32 @@ Mr. Peggotty seemed very much shocked at himself for having made a
 speech capable of this unfeeling construction, but was prevented from
 replying, by Peggotty’s pulling his sleeve, and shaking her head. After
 looking at Mrs. Gummidge for some moments, in sore distress of mind, he
-glanced at the Dutch clock, rose, snuffed the candle, and put it in the
-window.
+glanced at the Dutch [[Clock|clock]], [[Rose|rose]], snuffed the candle, and put it in the
+[[Window|window]].
 
 ‘Theer!’ said Mr. Peggotty, cheerily. ‘Theer we are, Missis Gummidge!’
 Mrs. Gummidge slightly groaned. ‘Lighted up, accordin’ to custom! You’re
-a wonderin’ what that’s fur, sir! Well, it’s fur our little Em’ly. You
+a wonderin’ what that’s fur, sir! [[Well]], it’s fur our little Em’ly. You
 see, the path ain’t over light or cheerful arter dark; and when I’m
-here at the hour as she’s a comin’ home, I puts the light in the winder.
+here at the hour as she’s a comin’ [[Home|home]], I puts the light in the winder.
 That, you see,’ said Mr. Peggotty, bending over me with great glee,
-‘meets two objects. She says, says Em’ly, “Theer’s home!” she says. And
+‘meets two objects. She says, says Em’ly, “Theer’s [[Home|home]]!” she says. And
 likewise, says Em’ly, “My uncle’s theer!” Fur if I ain’t theer, I never
 have no light showed.’
 
 ‘You’re a baby!’ said Peggotty; very fond of him for it, if she thought
 so.
 
-‘Well,’ returned Mr. Peggotty, standing with his legs pretty wide apart,
+‘[[Well]],’ returned Mr. Peggotty, standing with his legs pretty wide apart,
 and rubbing his hands up and down them in his comfortable satisfaction,
-as he looked alternately at us and at the fire. ‘I doen’t know but I am.
+as he looked alternately at us and at the [[Fire|fire]]. ‘I doen’t know but I am.
 Not, you see, to look at.’
 
 ‘Not azackly,’ observed Peggotty.
 
 ‘No,’ laughed Mr. Peggotty, ‘not to look at, but to--to consider on, you
 know. I doen’t care, bless you! Now I tell you. When I go a looking and
-looking about that theer pritty house of our Em’ly’s, I’m--I’m Gormed,’
+looking about that theer pritty [[house]] of our Em’ly’s, I’m--I’m Gormed,’
 said Mr. Peggotty, with sudden emphasis--‘theer! I can’t say more--if
 I doen’t feel as if the littlest things was her, a’most. I takes ‘em up
 and I put ‘em down, and I touches of ‘em as delicate as if they was our
@@ -107,11 +107,11 @@ and sharks, and every wariety of forinners--bless you, yes; and lions
 and whales, and I doen’t know what all!--when she warn’t no higher than
 my knee. I’ve got into the way on it, you know. Why, this here candle,
 now!’ said Mr. Peggotty, gleefully holding out his hand towards it,
-‘I know wery well that arter she’s married and gone, I shall put that
-candle theer, just the same as now. I know wery well that when I’m
+‘I know wery [[Well|well]] that arter she’s married and gone, I shall put that
+candle theer, just the same as now. I know wery [[Well|well]] that when I’m
 here o’ nights (and where else should I live, bless your arts, whatever
 fortun’ I come into!) and she ain’t here or I ain’t theer, I shall
-put the candle in the winder, and sit afore the fire, pretending I’m
+put the candle in the winder, and sit afore the [[Fire|fire]], pretending I’m
 expecting of her, like I’m a doing now. THERE’S a babby for you,’ said
 Mr. Peggotty, with another roar, ‘in the form of a Sea Porkypine! Why,
 at the present minute, when I see the candle sparkle up, I says to
@@ -120,14 +120,14 @@ for you, in the form of a Sea Porkypine! Right for all that,’ said Mr.
 Peggotty, stopping in his roar, and smiting his hands together; ‘fur
 here she is!’
 
-It was only Ham. The night should have turned more wet since I came in,
+It was only Ham. The [[Night|night]] should have turned more wet since I came in,
 for he had a large sou’wester hat on, slouched over his face.
 
 ‘Wheer’s Em’ly?’ said Mr. Peggotty.
 
 Ham made a motion with his head, as if she were outside. Mr. Peggotty
-took the light from the window, trimmed it, put it on the table, and was
-busily stirring the fire, when Ham, who had not moved, said:
+took the light from the [[Window|window]], trimmed it, put it on the table, and was
+busily stirring the [[Fire|fire]], when Ham, who had not moved, said:
 
 ‘Mas’r Davy, will you come out a minute, and see what Em’ly and me has
 got to show you?’

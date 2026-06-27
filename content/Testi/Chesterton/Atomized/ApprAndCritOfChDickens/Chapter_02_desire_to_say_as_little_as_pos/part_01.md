@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 1)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-book I desire to say as little as possible; I will discuss any other
+book I [[Desire|desire]] to say as little as possible; I will discuss any other
 
 subject in preference with a readiness which reaches to avidity. But I
 
@@ -26,7 +26,7 @@ far less than justice to that fine book considered in its relation to
 
 eternal literature; but I have dwelt at some length upon a particular
 
-element in it which has grown enormous in England after Dickens's death.
+element in it which has grown enormous in England after Dickens's [[Death|death]].
 
 Thus again, in introducing the _Sketches by Boz_ I have felt chiefly
 
@@ -34,25 +34,25 @@ that I am introducing them to a new generation insufficiently in
 
 sympathy with such palpable and unsophisticated fun. A Board School
 
-education, evolved since Dickens's day, has given to our people a queer
+[[Education|education]], evolved since Dickens's day, has given to our people a queer
 
 and inadequate sort of refinement, one which prevents them from enjoying
 
-the raw jests of the _Sketches by Boz_, but leaves them easily open to
+the raw jests of the _Sketches by Boz_, but [[Leaves|leaves]] them easily open to
 
 that slight but poisonous sentimentalism which I note amid all the
 
-merits of David Copperfield. In the same way I shall speak of _Little
+merits of [[David Copperfield]]. In the same way I shall speak of _Little
 
 Dorrit_, with reference to a school of pessimistic fiction which did not
 
 exist when it was written, of _Hard Times_ in the light of the most
 
-modern crises of economics, and of _The Child's History of England_ in
+modern crises of economics, and of _The [[Child]]'s [[history|History]] of England_ in
 
-the light of the most matured authority of history. In short, these
+the light of the most matured authority of [[history]]. In short, these
 
-criticisms are an intrinsically ephemeral comment from one generation
+criticisms are an intrinsically [[ephemeral]] comment from one generation
 
 upon work that will delight many more. Dickens was a very great man, and
 
@@ -74,7 +74,7 @@ Victorian illusion) there begins to emerge a menacing and even monstrous
 
 thing--we may begin again to behold the English people. If that strange
 
-dawn ever comes, it will be the final vindication of Dickens. It will be
+[[Dawn|dawn]] ever comes, it will be the final vindication of Dickens. It will be
 
 proved that he is hardly even a caricaturist; that he is something very
 
@@ -84,9 +84,9 @@ incredible will be found to be the immense majority of the citizens of
 
 this country. We shall find that Sweedlepipe cuts our hair and
 
-Pumblechook sells our cereals; that Sam Weller blacks our boots and
+Pumblechook sells our cereals; that [[Sam Weller]] blacks our boots and
 
-Tony Weller drives our omnibus. For the exaggerated notion of the
+[[Tony Weller]] drives our omnibus. For the exaggerated notion of the
 
 exaggerations of Dickens (as was admirably pointed out by my old friend
 
@@ -104,7 +104,7 @@ firm all this was, comparatively speaking, concealed. For the English,
 
 of all nations, have the most uniform upper class and the most varied
 
-democracy. In France it is the peasants who are solid to uniformity; it
+[[democracy]]. In France it is the peasants who are solid to uniformity; it
 
 is the marquises who are a little mad. But in England, while good form
 
@@ -130,17 +130,17 @@ I do not see the same degree of variety in my own class or in the class
 
 above it; there is more superficial resemblance between two Kensington
 
-doctors or two Highland dukes. No; the democracy is really composed of
+doctors or two Highland dukes. No; the [[democracy]] is really composed of
 
 Dickens characters, for the simple reason that Dickens was himself one
 
-of the democracy.
+of the [[democracy]].
 
 
 
 There remains one thing to be added to this attempt to exhibit Dickens
 
-in the growing and changing lights of our time. God forbid that any one
+in the growing and changing lights of our [[Time|time]]. God forbid that any one
 
 (especially any Dickensian) should dilute or discourage the great
 
@@ -152,7 +152,7 @@ and numbers, but on Bob Sawyer and Tim Linkinwater, on Mrs. Lirriper and
 
 Dr. Marigold. I wish Mr. Sidney Webb would shut his eyes until he _sees_
 
-Sam Weller.
+[[Sam Weller]].
 
 
 
@@ -160,7 +160,7 @@ A great many circumstances have led to the neglect in literature of
 
 these exuberant types which do actually exist in the ruder classes of
 
-society. Perhaps the principal cause is that since Dickens's time the
+society. Perhaps the principal cause is that since Dickens's [[Time|time]] the
 
 study of the poor has ceased to be an art and become a sort of sham
 

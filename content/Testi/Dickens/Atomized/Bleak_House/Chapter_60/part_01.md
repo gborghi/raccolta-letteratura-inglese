@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 60 (part 1)"
+title: "Bleak [[house|House]] — Chapter 60 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -28,27 +28,27 @@ quite keep down the recollection of their sympathy.
 
 I proceed to other passages of my narrative.
 
-During the time of my illness, we were still in London, where Mrs.
+During the [[Time|time]] of my illness, we were still in [[London]], where Mrs.
 Woodcourt had come, on my guardian’s invitation, to stay with us.
-When my guardian thought me well and cheerful enough to talk with him
+When my guardian thought me [[Well|well]] and cheerful enough to talk with him
 in our old way—though I could have done that sooner if he would have
 believed me—I resumed my work and my chair beside his. He had
-appointed the time himself, and we were alone.
+appointed the [[Time|time]] himself, and we were [[Alone|alone]].
 
 “Dame Trot,” said he, receiving me with a kiss, “welcome to the
 growlery again, my dear. I have a scheme to develop, little woman. I
 propose to remain here, perhaps for six months, perhaps for a longer
-time—as it may be. Quite to settle here for a while, in short.”
+[[Time|time]]—as it may be. Quite to settle here for a while, in short.”
 
-“And in the meanwhile leave Bleak House?” said I.
+“And in the meanwhile leave Bleak [[house|House]]?” said I.
 
-“Aye, my dear? Bleak House,” he returned, “must learn to take care of
+“Aye, my dear? Bleak [[house|House]],” he returned, “must learn to take care of
 itself.”
 
 I thought his tone sounded sorrowful, but looking at him, I saw his
 kind face lighted up by its pleasantest smile.
 
-“Bleak House,” he repeated—and his tone did NOT sound sorrowful, I
+“Bleak [[house|House]],” he repeated—and his tone did NOT sound sorrowful, I
 found—“must learn to take care of itself. It is a long way from Ada,
 my dear, and Ada stands much in need of you.”
 
@@ -56,16 +56,16 @@ my dear, and Ada stands much in need of you.”
 consideration for a happy surprise to both of us.”
 
 “Not so disinterested either, my dear, if you mean to extol me for
-that virtue, since if you were generally on the road, you could be
+that virtue, since if you were generally on the [[Road|road]], you could be
 seldom with me. And besides, I wish to hear as much and as often of
 Ada as I can in this condition of estrangement from poor Rick. Not of
-her alone, but of him too, poor fellow.”
+her [[Alone|alone]], but of him too, poor fellow.”
 
 “Have you seen Mr. Woodcourt, this morning, guardian?”
 
 “I see Mr. Woodcourt every morning, Dame Durden.”
 
-“Does he still say the same of Richard?”
+“Does he still say the same of [[Richard]]?”
 
 “Just the same. He knows of no direct bodily illness that he has; on
 the contrary, he believes that he has none. Yet he is not easy about
@@ -73,33 +73,33 @@ him; who CAN be?”
 
 My dear girl had been to see us lately every day, some times twice in
 a day. But we had foreseen, all along, that this would only last
-until I was quite myself. We knew full well that her fervent heart
+until I was quite myself. We knew full [[Well|well]] that her fervent heart
 was as full of affection and gratitude towards her cousin John as it
-had ever been, and we acquitted Richard of laying any injunctions
+had ever been, and we acquitted [[Richard]] of laying any injunctions
 upon her to stay away; but we knew on the other hand that she felt it
-a part of her duty to him to be sparing of her visits at our house.
+a part of her duty to him to be sparing of her visits at our [[house]].
 My guardian’s delicacy had soon perceived this and had tried to
 convey to her that he thought she was right.
 
-“Dear, unfortunate, mistaken Richard,” said I. “When will he awake
+“Dear, unfortunate, mistaken [[Richard]],” said I. “When will he awake
 from his delusion!”
 
 “He is not in the way to do so now, my dear,” replied my guardian.
 “The more he suffers, the more averse he will be to me, having made
 me the principal representative of the great occasion of his
-suffering.”
+[[Suffering|suffering]].”
 
 I could not help adding, “So unreasonably!”
 
 “Ah, Dame Trot, Dame Trot,” returned my guardian, “what shall we find
 reasonable in Jarndyce and Jarndyce! Unreason and injustice at the
-top, unreason and injustice at the heart and at the bottom, unreason
+top, unreason and injustice at the heart and at the [[Bottom|bottom]], unreason
 and injustice from beginning to end—if it ever has an end—how
 should poor Rick, always hovering near it, pluck reason out of it? He
 no more gathers grapes from thorns or figs from thistles than older
 men did in old times.”
 
-His gentleness and consideration for Richard whenever we spoke of him
+His gentleness and consideration for [[Richard]] whenever we spoke of him
 touched me so that I was always silent on this subject very soon.
 
 “I suppose the Lord Chancellor, and the Vice Chancellors, and the
@@ -109,11 +109,11 @@ guardian. “When those learned gentlemen begin to raise moss-roses
 from the powder they sow in their wigs, I shall begin to be
 astonished too!”
 
-He checked himself in glancing towards the window to look where the
-wind was and leaned on the back of my chair instead.
+He checked himself in glancing towards the [[Window|window]] to look where the
+[[Wind|wind]] was and leaned on the back of my chair instead.
 
-“Well, well, little woman! To go on, my dear. This rock we must leave
-to time, chance, and hopeful circumstance. We must not shipwreck Ada
+“[[Well]], [[Well|well]], little woman! To go on, my dear. This rock we must leave
+to [[Time|time]], chance, and hopeful circumstance. We must not shipwreck Ada
 upon it. She cannot afford, and he cannot afford, the remotest chance
 of another separation from a friend. Therefore I have particularly
 begged of Woodcourt, and I now particularly beg of you, my dear, not
@@ -138,9 +138,9 @@ Morgan ap—what’s his name?”
 That was what I meant, I acknowledged, though he was a very harmless
 person, even when we had had more of him.
 
-“Still, upon the whole, he is as well in his native mountains,” said
+“Still, upon the whole, he is as [[Well|well]] in his native [[Mountains|mountains]],” said
 my guardian. “I agree with you. Then, little woman, can I do better
-for a time than retain Mrs. Woodcourt here?”
+for a [[Time|time]] than retain Mrs. Woodcourt here?”
 
 No. And yet—
 

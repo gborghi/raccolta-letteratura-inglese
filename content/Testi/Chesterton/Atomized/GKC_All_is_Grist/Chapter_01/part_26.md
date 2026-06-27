@@ -23,9 +23,9 @@ could not treat itself as dignified.  It produced, for instance,
 the figure of the policeman, who was so comic that he had to be put
 at once into a pantomime, because he could not be put into a pageant.
 But almost any other age or country would have clad and armed
-the city guard so as to be an ornament to any pageant.  Our age
+the [[City|city]] guard so as to be an ornament to any pageant.  Our age
 was ugly and undignified; our nation was redeemed by the national
-sense of humour that at least would not pretend to be dignified.
+sense of [[Humour|humour]] that at least would not pretend to be dignified.
 The things of that period are all stamped with the insignia of indignity.
 It is not true that this is affected by it being a past or a
 present period.  Mr. Kipling himself in the poem quoted, gave the
@@ -72,7 +72,7 @@ This unnatural sense of ugliness is so much our immediate inheritance
 that there are ordinary words that have never recovered from it.
 The very word `hat' has a hazy air of farce about it;
 mentioned by itself it suggests first the hat of Charlie Chaplin
-or the admirable song of `Where Did You Get that Hat?'  The first
+or the admirable [[Song|song]] of `Where Did You Get that Hat?'  The first
 lesson in medievalism is to understand that Chaucer did not feel
 about the word `hood' as we do about the word `hat'. He knew
 there were knavish people who carried two faces under one hood;
@@ -88,24 +88,24 @@ He was as ready to be humorous in verse as any serious poet
 who ever lived, but his head was not filled with an endless,
 derisive echo of `Where Did You Get that Hood?'
 
-XXIII.  On the Later Portions of Poems
+XXIII.  On the Later Portions of [[Poems]]
 
-SOMETIMES I have a dark suspicion that there are many poems,
+SOMETIMES I have a dark suspicion that there are many [[Poems|poems]],
 and perhaps prose competitions also, which people think they know
 when they know only the first few lines.  Possibly this might explain
-the sinister haste and eagerness with which the great Epic Poets
+the sinister haste and eagerness with which the great [[Epic]] Poets
 cram into the first few lines a statement of the whole story,
 which they intend to tell in the ensuing twelve books.
 They always begin with a summary of this kind, perhaps because they
-have a craven fear that many of their readers will not read any more.
-Everybody knows the first three lines of Paradise Lost:
+have a craven [[Fear|fear]] that many of their readers will not read any more.
+Everybody knows the first three lines of [[Paradise Lost]]:
 
     Of man's first disobedience and the fruit
     Of that forbidden Tree, whose mortal taste 
-    Brought death into the world and all our woe.
+    Brought [[Death|death]] into the world and all our woe.
 
 But I strongly suspect that there is a sudden and enormous falling off
-in the numbers of those who could quote the fourth line.  And Milton
+in the numbers of those who could quote the fourth line.  And [[Milton]]
 may himself have paused at that point, and heaved a sigh of relief,
 to think that he had got the whole story packed pretty thoroughly into
 the three lines, even if all his readers refused to read him any more.

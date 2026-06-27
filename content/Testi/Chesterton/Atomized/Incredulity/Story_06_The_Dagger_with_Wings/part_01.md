@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Dagger with Wings (part 1)"
+title: "[[Incredulity]] — The Dagger with Wings (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 SIX:  The Dagger with Wings
 
-FATHER BROWN, at one period of his life, found it difficult to hang
+[[Father Brown|FATHER BROWN]], at one period of his life, found it difficult to hang
 his hat on a hat--peg without repressing a slight shudder.
 The origin of this idiosyncrasy was indeed a mere detail in much more
 complicated events; but it was perhaps the only detail that remained
@@ -33,7 +33,7 @@ to anything except the traditional religion of their native land.
 It would be hard to say whether their creed is a very superficial
 varnish or a very fundamental substratum; but most probably it is both,
 with a mass of materialism in between.  Anyhow, when he thought that
-matters of that sort might be involved, he asked Father Brown to call,
+matters of that sort might be involved, he asked [[Father Brown]] to call,
 though he made no pretence of preference for that aspect of them.
 
 `I'm not sure I want you, you know,' was his greeting.
@@ -46,10 +46,10 @@ a policeman and a doctor, I seem to be rather in a minority.'
 
 `I admit you're what politicians call an instructed minority,'
 replied the doctor.  `I mean, I know you've had to do a little
-in our line as well as your own.  But it's precious hard to say
+in our line as [[Well|well]] as your own.  But it's precious hard to say
 whether this business is in your line or ours, or merely in
 the line of the Commissioners in Lunacy.  We've just had a message
-from a man living near here, in that white house on the hill,
+from a man living near here, in that white [[house]] on the [[Hill|hill]],
 asking for protection against a murderous persecution.
 We've gone into the facts as far as we could, and perhaps I'd
 better tell you the story as it is supposed to have happened,
@@ -91,7 +91,7 @@ who is asking for police protection.'
 
 `Third and last,' said the priest, looking at him gravely.
 
-`Yes,' said Boyne.  `The other two are dead.'  There was a silence
+`Yes,' said Boyne.  `The other two are dead.'  There was a [[Silence|silence]]
 before he continued.  `That is where the doubt comes in.
 There is no proof they were murdered, but they might possibly
 have been.  The eldest, who took up his position as squire,
@@ -109,7 +109,7 @@ You know what a man with a delusion is like, and how a man looks
 when he is telling the truth.  I want you to be the advance guard,
 before we take the matter up.'
 
-`It seems rather odd,' said Father Brown, `that you haven't had
+`It seems rather odd,' said [[Father Brown]], `that you haven't had
 to take it up before.  If there is anything in this business,
 it seems to have been going on for a good time.  Is there
 any particular reason why he should send for you just now,
@@ -117,16 +117,16 @@ any more than any other time?'
 
 `That had occurred to me, as you may imagine,' answered Dr Boyne.
 `He does give a reason, but I confess it is one of the things that make
-me wonder whether the whole thing isn't only the whim of some half--
+me [[Wonder|wonder]] whether the whole thing isn't only the whim of some half--
 witted crank.  He declared that all his servants have suddenly gone on
 strike and left him, so that he is obliged to call on the police to look
-after his house.  And on making inquiries, I certainly do find that there
-has been a general exodus of servants from that house on the hill; and of
+after his [[house]].  And on making inquiries, I certainly do find that there
+has been a general exodus of servants from that [[house]] on the [[Hill|hill]]; and of
 course the town is full of tales, very one--sided tales I dare say.
 Their account of it seems to be that their employer had become quite
 impossible in his fidgets and fears and exactions; that he wanted them to
-guard the house like sentries, or sit up like night nurses in a hospital;
-that they could never be left alone because he must never be left alone.
+guard the [[house]] like sentries, or sit up like [[Night|night]] nurses in a hospital;
+that they could never be left [[Alone|alone]] because he must never be left [[Alone|alone]].
 So they all announced in a loud voice that he was a lunatic, and left.
 Of course that does not prove he is a lunatic; but it seems rather rum
 nowadays for a man to expect his valet or his parlour--maid to act

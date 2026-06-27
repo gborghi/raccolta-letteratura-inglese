@@ -15,17 +15,17 @@ tags:
 
 
 There is, apart from mere intellect, in the make-up of every superior
-human identity, (in its moral completeness, considered as _ensemble_,
-not for that moral alone, but for the whole being, including physique,)
+human [[Identity|identity]], (in its moral completeness, considered as _ensemble_,
+not for that moral [[Alone|alone]], but for the whole being, including physique,)
 a wondrous something that realizes without argument, frequently without
-what is called education, (though I think it the goal and apex of all
-education deserving the name)--an intuition of the absolute balance, in
-time and space, of the whole of this multifarious, mad chaos of fraud,
+what is called [[Education|education]], (though I think it the goal and apex of all
+[[Education|education]] deserving the name)--an intuition of the absolute balance, in
+[[Time|time]] and space, of the whole of this multifarious, mad chaos of fraud,
 frivolity, hoggishness--this revel of fools, and incredible make-believe
-and general unsettledness, we call _the world_; a soul-sight of that
+and general unsettledness, we call _the world_; a [[Soul|soul]]-sight of that
 divine clue and unseen thread which holds the whole congeries of
-things, all history and time, and all events, however trivial, however
-momentous, like a leash'd dog in the hand of the hunter. Such soul-sight
+things, all [[history]] and [[Time|time]], and all events, however trivial, however
+momentous, like a leash'd dog in the hand of the hunter. Such [[Soul|soul]]-sight
 and root-centre for the mind--mere optimism explains only the surface
 or fringe of it--Carlyle was mostly, perhaps entirely without. He seems
 instead to have been haunted in the play of his mental action by a
@@ -35,21 +35,21 @@ Aristophanes, his comedies,)--the spectre of world-destruction.
 
 How largest triumph or failure in human life, in war or peace, may
 depend on some little hidden centrality, hardly more than a drop of
-blood, a pulse-beat, or a breath of air! It is certain that all these
-weighty matters, democracy in America, Carlyleism, and the temperament
+[[Blood|blood]], a pulse-beat, or a breath of air! It is certain that all these
+weighty matters, [[democracy]] in [[america|America]], Carlyleism, and the temperament
 for deepest political or literary exploration, turn on a simple point in
-speculative philosophy.
+speculative [[philosophy]].
 
 The most profound theme that can occupy the mind of man--the problem
 on whose solution science, art, the bases and pursuits of nations, and
 everything else, including intelligent human happiness, (here to-day,
-1882, New York, Texas, California, the same as all times, all lands,)
+1882, [[New York]], Texas, California, the same as all times, all lands,)
 subtly and finally resting, depends for competent outset and argument,
 is doubtless involved in the query: What is the fusing explanation and
 tie--what the relation between the (radical, democratic) Me, the human
-identity of understanding, emotions, spirit, &c., on the one side, of
+[[Identity|identity]] of understanding, emotions, spirit, &c., on the one side, of
 and with the (conservative) Not Me, the whole of the material objective
-universe and laws, with what is behind them in time and space, on the
+universe and laws, with what is behind them in [[Time|time]] and space, on the
 other side? Immanuel Kant, though he explain'd or partially explain'd,
 as may be said, the laws of the human understanding, left this question
 an open one. Schelling's answer, or suggestion of answer, is (and very
@@ -57,14 +57,14 @@ valuable and important, as far as it goes,) that the same general and
 particular intelligence, passion, even the standards of right and wrong,
 which exist in a conscious and formulated state in man, exist in an
 unconscious state, or in perceptible analogies, throughout the entire
-universe of external Nature, in all its objects large or small, and all
+universe of external [[Nature]], in all its objects large or small, and all
 its movements and processes--thus making the impalpable human mind,
-and concrete nature, notwithstanding their duality and separation,
+and concrete [[Nature|nature]], notwithstanding their duality and separation,
 convertible, and in centrality and essence one. But G. F. Hegel's fuller
 statement of the matter probably remains the last best word that has
 been said upon it, up to date. Substantially adopting the scheme just
 epitomized, he so carries it out and fortifies it and merges everything
-in it, with certain serious gaps now for the first time fill'd, that it
+in it, with certain serious gaps now for the first [[Time|time]] fill'd, that it
 becomes a coherent metaphysical system, and substantial answer (as far
 as there can be any answer) to the foregoing question--a system which,
 while I distinctly admit that the brain of the future may add to,
@@ -74,7 +74,7 @@ satisfying the mystery thereof to the human mind, with a more consoling
 scientific assurance than any yet.
 
 According to Hegel the whole earth, (an old nucleus-thought, as in the
-Vedas, and no doubt before, but never hitherto brought so absolutely to
+Vedas, and no [[Doubt|doubt]] before, but never hitherto brought so absolutely to
 the front, fully surcharged with modern scientism and facts, and made
 the sole entrance to each and all,) with its infinite variety, the
 past, the surroundings of to-day, or what may happen in the future,
@@ -82,20 +82,20 @@ the contrarieties of material with spiritual, and of natural with
 artificial, are all, to the eye of the _ensemblist_, but necessary sides
 and unfoldings, different steps or links, in the endless process
 of Creative thought, which, amid numberless apparent failures and
-contradictions, is held together by central and never-broken unity--not
+contradictions, is held together by central and never-broken [[unity]]--not
 contradictions or failures at all, but radiations of one consistent
 and eternal purpose; the whole mass of everything steadily, unerringly
 tending and flowing toward the permanent _utile_ and _morale_, as rivers
 to oceans. As life is the whole law and incessant effort of the visible
-universe, and death only the other or invisible side of the same, so the
-_utile_, so truth, so health are the continuous-immutable laws of the
+universe, and [[Death|death]] only the other or invisible side of the same, so the
+_utile_, so [[Truth|truth]], so health are the continuous-immutable laws of the
 moral universe, and vice and disease, with all their perturbations, are
 but transient, even if ever so prevalent expressions.
 
 To politics throughout, Hegel applies the like catholic standard and
-faith. Not any one party, or any one form of government, is absolutely
-and exclusively true. Truth consists in the just relations of objects to
-each other. A majority or democracy may rule as outrageously and do as
+[[Faith|faith]]. Not any one party, or any one form of [[government]], is absolutely
+and exclusively true. [[Truth]] consists in the just relations of objects to
+each other. A majority or [[democracy]] may rule as outrageously and do as
 great harm as an oligarchy or despotism--though far less likely to
 do so. But the great evil is either a violation of the relations just
 referr'd to, or of the moral law. The specious, the unjust, the cruel,
@@ -103,20 +103,20 @@ and what is called the unnatural, though not only permitted but in a
 certain sense, (like shade to light,) inevitable in the divine scheme,
 are by the whole constitution of that scheme, partial, inconsistent,
 temporary, and though having ever so great an ostensible majority, are
-certainly destin'd to failures, after causing great suffering.
+certainly destin'd to failures, after causing great [[Suffering|suffering]].
 
 Theology, Hegel translates into science.[16] All apparent contradictions
-in the statement of the Deific nature by different ages, nations,
+in the statement of the Deific [[Nature|nature]] by different ages, nations,
 churches, points of view, are but fractional and imperfect expressions
-of one essential unity, from which they all proceed--crude endeavors or
+of one essential [[unity]], from which they all proceed--crude endeavors or
 distorted parts, to be regarded both as distinct and united. In short
 (to put it in our own form, or summing up,) that thinker or analyzer
 or overlooker who by an inscrutable combination of train'd wisdom and
-natural intuition most fully accepts in perfect faith the moral unity
-and sanity of the creative scheme, in history, science, and all life
-and time, present and future, is both the truest cosmical devotee or
+natural intuition most fully accepts in perfect [[Faith|faith]] the moral [[unity]]
+and [[Sanity|sanity]] of the creative scheme, in [[history]], science, and all life
+and [[Time|time]], present and future, is both the truest cosmical devotee or
 religioso, and the profoundest philosopher. While he who, by the spell
-of himself and his circumstance, sees darkness and despair in the sum
-of the workings of God's providence, and who, in that, denies or
+of himself and his circumstance, sees darkness and [[Despair|despair]] in the sum
+of the workings of God's [[Providence|providence]], and who, in that, denies or
 prevaricates, is, no matter how much piety plays on his lips, the most
 radical sinner and infidel.

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 12 (part 3)"
+title: "[[The Professor]] — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,13 +24,13 @@ liked, or what, from innate conviction, she thought it right to do. The
 
 poor little future religieuse had been early taught to make the dictates
 
-of her own reason and conscience quite subordinate to the will of
+of her own reason and [[Conscience|conscience]] quite subordinate to the will of
 
 her spiritual director. She was the model pupil of Mdlle. Reuter’s
 
 establishment; pale, blighted image, where life lingered feebly, but
 
-whence the soul had been conjured by Romish wizard-craft!
+whence the [[Soul|soul]] had been conjured by Romish wizard-craft!
 
 
 
@@ -42,13 +42,13 @@ chiefly of broken adventurers, whom debt or dishonour had driven from
 
 their own country. These poor girls had never known the advantages
 
-of settled homes, decorous example, or honest Protestant education;
+of settled homes, decorous example, or honest Protestant [[Education|education]];
 
 resident a few months now in one Catholic school, now in another, as
 
-their parents wandered from land to land--from France to Germany, from
+their parents wandered from land to land--from France to [[Germany]], from
 
-Germany to Belgium--they had picked up some scanty instruction, many bad
+[[Germany]] to Belgium--they had picked up some scanty instruction, many bad
 
 habits, losing every notion even of the first elements of religion and
 
@@ -56,7 +56,7 @@ morals, and acquiring an imbecile indifference to every sentiment that
 
 can elevate humanity; they were distinguishable by an habitual look
 
-of sullen dejection, the result of crushed self-respect and constant
+of sullen dejection, the result of crushed [[Self|self]]-respect and constant
 
 browbeating from their Popish fellow-pupils, who hated them as English,
 
@@ -66,7 +66,7 @@ and scorned them as heretics.
 
 The second class were British English. Of these I did not encounter half
 
-a dozen during the whole time of my attendance at the seminary; their
+a dozen during the whole [[Time|time]] of my attendance at the seminary; their
 
 characteristics were clean but careless dress, ill-arranged hair
 
@@ -74,13 +74,13 @@ characteristics were clean but careless dress, ill-arranged hair
 
 figures, white and taper hands, features more irregular, but also more
 
-intellectual than those of the Belgians, grave and modest countenances,
+intellectual than those of the Belgians, [[Grave|grave]] and modest countenances,
 
 a general air of native propriety and decency; by this last circumstance
 
-alone I could at a glance distinguish the daughter of Albion and
+[[Alone|alone]] I could at a glance distinguish the daughter of Albion and
 
-nursling of Protestantism from the foster-child of Rome, the PROTEGEE
+nursling of Protestantism from the foster-[[Child|child]] of Rome, the PROTEGEE
 
 of Jesuistry: proud, too, was the aspect of these British girls; at once
 
@@ -112,7 +112,7 @@ but in character genuine Parisian coquette, perfidious, mercenary, and
 
 dry-hearted. A fourth maitresse I sometimes saw who seemed to come daily
 
-to teach needlework, or netting, or lace-mending, or some such flimsy
+to teach needlework, or netting, or lace-[[mending]], or some such flimsy
 
 art; but of her I never had more than a passing glimpse, as she sat in
 
@@ -126,7 +126,7 @@ air for a maitresse, otherwise it was not striking; of character I
 
 should think she possessed but little, as her pupils seemed constantly
 
-“en revolte” against her authority. She did not reside in the house; her
+“en revolte” against her authority. She did not reside in the [[house]]; her
 
 name, I think, was Mdlle. Henri.
 
@@ -158,7 +158,7 @@ frequently failed to enforce; she liked to stand in comparison, or
 
 rather--contrast, with those who surrounded her, and to know that in
 
-personal as well as mental advantages, she bore away the undisputed
+personal as [[Well|well]] as mental advantages, she bore away the undisputed
 
 palm of preference--(the three teachers were all plain.) Her pupils she
 
@@ -168,7 +168,7 @@ office of recompenser and eulogist, and abandoning to her subalterns
 
 every invidious task of blame and punishment, that they all regarded her
 
-with deference, if not with affection; her teachers did not love her,
+with deference, if not with affection; her teachers did not [[Love|love]] her,
 
 but they submitted because they were her inferiors in everything; the
 

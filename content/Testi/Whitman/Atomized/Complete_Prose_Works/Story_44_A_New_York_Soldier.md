@@ -1,5 +1,5 @@
 ---
-title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A New York Soldier"
+title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A [[New York]] Soldier"
 author: "Whitman"
 unitType: story
 parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-A NEW YORK SOLDIER
+A [[New York|NEW YORK]] SOLDIER
 
-This afternoon, July 22d, I have spent a long time with Oscar F. Wilber,
-company G, 154th New York, low with chronic diarrhoea, and a bad
+This afternoon, July 22d, I have spent a long [[Time|time]] with Oscar F. Wilber,
+company G, 154th [[New York]], low with chronic diarrhoea, and a bad
 wound also. He asked me to read him a chapter in the New Testament.
 I complied, and ask'd him what I should read. He said, "Make your
 own choice." I open'd at the close of one of the first books of the
 evangelists, and read the chapters describing the latter hours of
-Christ, and the scenes at the crucifixion. The poor, wasted young man
-ask'd me to read the following chapter also, how Christ rose again. I
+[[Christ]], and the scenes at the crucifixion. The poor, wasted young man
+ask'd me to read the following chapter also, how [[Christ]] [[Rose|rose]] again. I
 read very slowly, for Oscar was feeble. It pleased him very much, yet
-the tears were in his eyes. He ask'd me if I enjoy'd religion. I said,
+the [[Tears|tears]] were in his eyes. He ask'd me if I enjoy'd religion. I said,
 "Perhaps not, my dear, in the way you mean, and yet, may-be, it is the
-same thing." He said, "It is my chief reliance." He talk'd of death, and
-said he did not fear it. I said, "Why, Oscar, don't you think you will
-get well?" He said, "I may, but it is not probable." He spoke calmly
+same thing." He said, "It is my chief reliance." He talk'd of [[Death|death]], and
+said he did not [[Fear|fear]] it. I said, "Why, Oscar, don't you think you will
+get [[Well|well]]?" He said, "I may, but it is not probable." He spoke calmly
 of his condition. The wound was very bad, it discharg'd much. Then the
 diarrhoea had prostrated him, and I felt that he was even then the same
 as dying. He behaved very manly and affectionate. The kiss I gave him

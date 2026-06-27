@@ -35,7 +35,7 @@ frame than procession, and more carving than country.
 
 ‘My father, Jesse Hexam.’
 
-‘Is it he who found the body?’
+‘Is it he who found the [[Body|body]]?’
 
 ‘Yes, sir.’
 
@@ -47,7 +47,7 @@ right leg of his trousers, ‘He gets his living along-shore.’
 
 ‘Is it far?’
 
-‘Is which far?’ asked the boy, upon his guard, and again upon the road
+‘Is which far?’ asked the boy, upon his guard, and again upon the [[Road|road]]
 to Canterbury.
 
 ‘To your father’s?’
@@ -75,7 +75,7 @@ Lazarus was only half as far gone, that was the greatest of all the
 miracles.’
 
 ‘Halloa!’ cried Mortimer, turning round with his hat upon his head, ‘you
-seem to be at home in the Red Sea, my young friend?’
+seem to be at [[Home|home]] in the Red Sea, my young friend?’
 
 ‘Read of it with teacher at the school,’ said the boy.
 
@@ -94,7 +94,7 @@ assisted at the latter part of the dialogue; when the boy spoke these
 words slightingly of his sister, he took him roughly enough by the chin,
 and turned up his face to look at it.
 
-‘Well, I’m sure, sir!’ said the boy, resisting; ‘I hope you’ll know me
+‘[[Well]], I’m sure, sir!’ said the boy, resisting; ‘I [[Hope|hope]] you’ll know me
 again.’
 
 Eugene vouchsafed no answer; but made the proposal to Mortimer, ‘I’ll
@@ -104,7 +104,7 @@ a public school) inside, smoking cigars; the messenger on the box beside
 the driver.
 
 ‘Let me see,’ said Mortimer, as they went along; ‘I have been, Eugene,
-upon the honourable roll of solicitors of the High Court of Chancery,
+upon the honourable roll of solicitors of the High [[Court]] of Chancery,
 and attorneys at Common Law, five years; and—except gratuitously taking
 instructions, on an average once a fortnight, for the will of Lady
 Tippins who has nothing to leave—I have had no scrap of business but
@@ -132,7 +132,7 @@ we wanted a solicitor in the family. And we have got a precious one.’
 
 ‘There are four of us, with our names painted on a door-post in right of
 one black hole called a set of chambers,’ said Eugene; ‘and each of us
-has the fourth of a clerk—Cassim Baba, in the robber’s cave—and Cassim
+has the fourth of a clerk—Cassim Baba, in the robber’s [[Cave|cave]]—and Cassim
 is the only respectable member of the party.’
 
 ‘I am one by myself, one,’ said Mortimer, ‘high up an awful staircase
@@ -141,7 +141,7 @@ has nothing to do but look at the burial-ground, and what he will turn
 out when arrived at maturity, I cannot conceive. Whether, in that shabby
 rook’s nest, he is always plotting wisdom, or plotting murder; whether
 he will grow up, after so much solitary brooding, to enlighten his
-fellow-creatures, or to poison them; is the only speck of interest that
+fellow-creatures, or to [[Poison|poison]] them; is the only speck of interest that
 presents itself to my professional view. Will you give me a light? Thank
 you.’
 
@@ -151,7 +151,7 @@ If there is a word in the dictionary under any letter from A to Z that
 I abominate, it is energy. It is such a conventional superstition, such
 parrot gabble! What the deuce! Am I to rush out into the street, collar
 the first man of a wealthy appearance that I meet, shake him, and say,
-“Go to law upon the spot, you dog, and retain me, or I’ll be the death
+“Go to law upon the spot, you dog, and retain me, or I’ll be the [[Death|death]]
 of you”? Yet that would be energy.’
 
 ‘Precisely my view of the case, Eugene. But show me a good opportunity,
@@ -161,5 +161,5 @@ energy.’
 ‘And so will I,’ said Eugene.
 
 And it is likely enough that ten thousand other young men, within the
-limits of the London Post-office town delivery, made the same hopeful
+limits of the [[London]] Post-office town delivery, made the same hopeful
 remark in the course of the same evening.

@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 14 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -22,13 +22,13 @@ CHAPTER XIV.
 
 The Jane Guy was a fine-looking topsail schooner of a hundred and
 
-eighty tons burden. She was unusually sharp in the bows, and on a wind,
+eighty tons burden. She was unusually sharp in the bows, and on a [[Wind|wind]],
 
 in moderate weather, the fastest sailer I have ever seen. Her
 
 qualities, however, as a rough sea-boat, were not so good, and her
 
-draught of water was by far too great for the trade to which she was
+draught of [[Water|water]] was by far too great for the trade to which she was
 
 destined. For this peculiar service a larger vessel, and one of a light
 
@@ -38,11 +38,11 @@ three hundred and fifty tons. She should be barque-rigged, and in other
 
 respects of a different construction from the usual South Sea ships. It
 
-is absolutely necessary that she should be well armed. She should have,
+is absolutely necessary that she should be [[Well|well]] armed. She should have,
 
 say ten or twelve twelve pound carronades, and two or three long
 
-twelves, with brass blunderbusses, and water-tight arm-chests for each
+twelves, with brass blunderbusses, and [[Water|water]]-tight arm-chests for each
 
 top. Her anchors and cables should be of far greater strength than is
 
@@ -54,7 +54,7 @@ described, than fifty or sixty able-bodied men. The Jane Guy had a crew
 
 of thirty-five, all able seamen, besides the captain and mate, but she
 
-was not altogether as well armed or otherwise equipped as a navigator
+was not altogether as [[Well|well]] armed or otherwise equipped as a navigator
 
 acquainted with the difficulties and dangers of the trade could have
 
@@ -98,13 +98,13 @@ where she took in salt and other necessaries for the voyage. On the
 
 third of August she left the Cape Verds and steered southwest,
 
-stretching over towards the coast of Brazil so as to cross the equator
+stretching over towards the coast of Brazil so as to [[Cross|cross]] the equator
 
 between the meridians of twenty-eight and thirty degrees west
 
 longitude. This is the course usually taken by vessels bound from
 
-Europe to the Cape of Good Hope, or by that route to the East Indies.
+Europe to the Cape of Good [[Hope]], or by that route to the East Indies.
 
 By proceeding thus they avoid the calms and strong contrary currents
 
@@ -126,13 +126,13 @@ probably, from north to south, _not less than five-and-twenty degrees_.
 
 On board the Jane Guy we were treated with all the kindness our
 
-distressed situation demanded. In about a fortnight, during which time
+distressed situation demanded. In about a fortnight, during which [[Time|time]]
 
 we continued steering to the southeast, with gentle breezes and fine
 
 weather, both Peters and myself recovered entirely from the effects of
 
-our late privation and dreadful suffering, and we began to remember
+our late privation and dreadful [[Suffering|suffering]], and we began to remember
 
 what had passed rather as a frightful dream from which we had been
 
@@ -152,9 +152,9 @@ misery which I endured during the days spent upon the hulk. The
 
 incidents are remembered, but not the feelings which the incidents
 
-elicited at the time of their occurrence. I only know that, when they
+elicited at the [[Time|time]] of their occurrence. I only know that, when they
 
-did occur, I _then_ thought human nature could sustain nothing more of
+did occur, I _then_ thought human [[Nature|nature]] could sustain nothing more of
 
 agony.
 
@@ -170,7 +170,7 @@ contradistinction to the spermaceti. These, however, were chiefly found
 
 south of the twenty-fifth parallel. On the sixteenth of September,
 
-being in the vicinity of the Cape of Good Hope, the schooner
+being in the vicinity of the Cape of Good [[Hope]], the schooner
 
 encountered her first gale of any violence since leaving Liverpool. In
 
@@ -182,13 +182,13 @@ with storms from the northward which rage with great fury. They always
 
 bring with them a heavy sea, and one of their most dangerous features
 
-is the instantaneous chopping round of the wind, an occurrence almost
+is the instantaneous chopping round of the [[Wind|wind]], an occurrence almost
 
 certain to take place during the greatest force of the gale. A perfect
 
 hurricane will be blowing at one moment from the northward or
 
-northeast, and in the next not a breath of wind will be felt in that
+northeast, and in the next not a breath of [[Wind|wind]] will be felt in that
 
 direction, while from the southwest it will come out all at once with a
 

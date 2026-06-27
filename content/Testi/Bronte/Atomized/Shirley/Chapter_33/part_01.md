@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 33 (part 1)"
+title: "[[Shirley]] — Chapter 33 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,9 +26,9 @@ MARTIN'S TACTICS.
 
 It was necessary to the arrangement of Martin's plan that he should stay
 
-at home that day. Accordingly, he found no appetite for breakfast, and
+at [[Home|home]] that day. Accordingly, he found no appetite for breakfast, and
 
-just about school-time took a severe pain about his heart, which
+just about school-[[Time|time]] took a severe [[Pain|pain]] about his heart, which
 
 rendered it advisable that, instead of setting out to the grammar school
 
@@ -36,9 +36,9 @@ with Mark, he should succeed to his father's arm-chair by the fireside,
 
 and also to his morning paper. This point being satisfactorily settled,
 
-and Mark being gone to Mr. Summer's class, and Matthew and Mr. Yorke
+and Mark being gone to Mr. [[Summer]]'s class, and Matthew and Mr. Yorke
 
-withdrawn to the counting-house, three other exploits--nay,
+withdrawn to the counting-[[house]], three other exploits--nay,
 
 four--remained to be achieved.
 
@@ -50,7 +50,7 @@ and with which his appetite of fifteen could ill afford to dispense; the
 
 second, third, fourth, to get his mother, Miss Moore, and Mrs. Horsfall
 
-successfully out of the way before four o'clock that afternoon.
+successfully out of the way before four o'[[Clock|clock]] that afternoon.
 
 
 
@@ -110,7 +110,7 @@ equipage of horns, hoofs, and tail.
 
 Matthew, sceptic and scoffer, had already failed to subscribe a prompt
 
-belief in that pain about the heart. He had muttered some words, amongst
+belief in that [[Pain|pain]] about the heart. He had muttered some words, amongst
 
 which the phrase "shamming Abraham" had been very distinctly audible,
 
@@ -120,13 +120,13 @@ him with mental spasms. The spectacle now before him--the apples, the
 
 tarts, the tea-cakes, the fowl, ham, and pudding--offered evidence but
 
-too well calculated to inflate his opinion of his own sagacity.
+too [[Well|well]] calculated to inflate his opinion of his own sagacity.
 
 
 
 Martin paused _interdit_ one minute, one instant; the next he knew his
 
-ground, and pronounced all well. With the true perspicacity _des âmes
+ground, and pronounced all [[Well|well]]. With the true perspicacity _des âmes
 
 élites_, he at once saw how this at first sight untoward event might be
 
@@ -138,7 +138,7 @@ his mother. He knew that a collision between him and Matthew always
 
 suggested to Mrs. Yorke the propriety of a fit of hysterics. He further
 
-knew that, on the principle of calm succeeding to storm, after a morning
+knew that, on the principle of calm succeeding to [[Storm|storm]], after a morning
 
 of hysterics his mother was sure to indulge in an afternoon of bed. This
 
@@ -162,7 +162,7 @@ was summoned.
 
 "Sons," said he, "one of you must leave my roof if this occurs again. I
 
-will have no Cain and Abel strife here."
+will have no [[Cain]] and Abel strife here."
 
 
 
@@ -176,7 +176,7 @@ himself was over.
 
 
 
-Once he seemed to flag in the course of the morning.
+Once he seemed to [[Flag|flag]] in the course of the morning.
 
 
 
@@ -186,7 +186,7 @@ But a quarter of an hour afterwards he was again in the dining-room,
 
 looking at the head with dishevelled tresses, and eyes turbid with
 
-despair.
+[[Despair|despair]].
 
 
 
@@ -204,7 +204,7 @@ withdrawing to her chamber. Now for Hortense.
 
 
 
-That lady was just comfortably settled to stocking-mending in the back
+That lady was just comfortably settled to stocking-[[mending]] in the back
 
 parlour, when Martin--laying down a book which, stretched on the sofa
 
@@ -216,7 +216,7 @@ introduced some discourse about Sarah, the maid at the Hollow. In the
 
 course of much verbal meandering he insinuated information that this
 
-damsel was said to have three suitors--Frederic Murgatroyd, Jeremiah
+[[Damsel|damsel]] was said to have three suitors--Frederic Murgatroyd, Jeremiah
 
 Pighills, and John-of-Mally's-of-Hannah's-of-Deb's; and that Miss Mann
 
@@ -224,7 +224,7 @@ had affirmed she knew for a fact that, now the girl was left in sole
 
 charge of the cottage, she often had her swains to meals, and
 
-entertained them with the best the house afforded.
+entertained them with the best the [[house]] afforded.
 
 
 

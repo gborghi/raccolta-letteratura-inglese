@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 8 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -32,23 +32,23 @@ The intense effect produced by this sudden apparition is not at all to
 
 be wondered at when the various circumstances are taken into
 
-consideration. Usually, in cases of a similar nature, there is left in
+consideration. Usually, in cases of a similar [[Nature|nature]], there is left in
 
-the mind of the spectator some glimmering of doubt as to the reality of
+the mind of the spectator some glimmering of [[Doubt|doubt]] as to the reality of
 
-the vision before his eyes; a degree of hope, however feeble, that he
+the vision before his eyes; a degree of [[Hope|hope]], however feeble, that he
 
 is the victim of chicanery, and that the apparition is not actually a
 
 visitant from the world of shadows. It is not too much to say that such
 
-remnants of doubt have been at the bottom of almost every such
+remnants of [[Doubt|doubt]] have been at the [[Bottom|bottom]] of almost every such
 
 visitation, and that the appalling horror which has sometimes been
 
 brought about, is to be attributed, even in the cases most in point,
 
-and where most suffering has been experienced, more to a kind of
+and where most [[Suffering|suffering]] has been experienced, more to a kind of
 
 anticipative horror, lest the apparition _might possibly be_ real, than
 
@@ -56,7 +56,7 @@ to an unwavering belief in its reality. But, in the present instance,
 
 it will be seen immediately, that in the minds of the mutineers there
 
-was not even the shadow of a basis upon which to rest a doubt that the
+was not even the [[Shadow|shadow]] of a basis upon which to rest a [[Doubt|doubt]] that the
 
 apparition of Rogers was indeed a revivification of his disgusting
 
@@ -64,7 +64,7 @@ corpse, or at least its spiritual image. The isolated situation of the
 
 brig, with its entire inaccessibility on account of the gale, confined
 
-the apparently possible means of deception within such narrow and
+the apparently possible means of [[Deception|deception]] within such narrow and
 
 definite limits, that they must have thought themselves enabled to
 
@@ -84,21 +84,21 @@ permit the notion that he was the apparition before them to enter their
 
 minds even for an instant. Add to these considerations the
 
-awe-inspiring nature of the tempest, and that of the conversation
+awe-inspiring [[Nature|nature]] of the tempest, and that of the conversation
 
 brought about by Peters; the deep impression which the loathsomeness of
 
 the actual corpse had made in the morning upon the imaginations of the
 
-men; the excellence of the imitation in my person; and the uncertain
+men; the excellence of the [[Imitation|imitation]] in my person; and the uncertain
 
 and wavering light in which they beheld me, as the glare of the cabin
 
 lantern, swinging violently to and fro, fell dubiously and fitfully
 
-upon my figure, and there will be no reason to wonder that the
+upon my figure, and there will be no reason to [[Wonder|wonder]] that the
 
-deception had even more than the entire effect which we had
+[[Deception|deception]] had even more than the entire effect which we had
 
 anticipated. The mate sprang up from the mattress on which he was
 
@@ -110,35 +110,35 @@ roll of the brig. Of the remaining seven there were but three who had
 
 at first any degree of presence of mind. The four others sat for some
 
-time rooted apparently to the floor, the most pitiable objects of
+[[Time|time]] rooted apparently to the floor, the most pitiable objects of
 
-horror and utter despair my eyes ever encountered. The only opposition
+horror and utter [[Despair|despair]] my eyes ever encountered. The only opposition
 
-we experienced at all was from the cook, John Hunt, and Richard Parker;
+we experienced at all was from the cook, John Hunt, and [[Richard]] Parker;
 
 but they made but a feeble and irresolute defence. The two former were
 
 shot instantly by Peters, and I felled Parker with a blow on the head
 
-from the pump-handle which I had brought with me. In the mean time
+from the pump-handle which I had brought with me. In the mean [[Time|time]]
 
 Augustus seized one of the muskets lying on the floor, and shot another
 
 mutineer (---- Wilson) through the breast. There were now but three
 
-remaining; but by this time they had become aroused from their
+remaining; but by this [[Time|time]] they had become aroused from their
 
-lethargy, and perhaps began to see that a deception had been practised
+lethargy, and perhaps began to see that a [[Deception|deception]] had been practised
 
 upon them, for they fought with great resolution and fury, and, but for
 
 the immense muscular strength of Peters, might have ultimately got the
 
-better of us. These three men were ---- Jones, ---- Greely, and Absalom
+better of us. These three men were ---- [[Jones]], ---- Greely, and Absalom
 
-Hicks. Jones had thrown Augustus on the floor, stabbed him in several
+Hicks. [[Jones]] had thrown Augustus on the floor, stabbed him in several
 
-places along the right arm, and would no doubt have soon despatched him
+places along the right arm, and would no [[Doubt|doubt]] have soon despatched him
 
 (as neither Peters nor myself could immediately get rid of our own
 
@@ -148,7 +148,7 @@ assistance we surely had never depended. This friend was no other than
 
 Tiger. With a low growl he bounded into the cabin, at a most critical
 
-moment for Augustus, and throwing himself upon Jones, pinned him to the
+moment for Augustus, and throwing himself upon [[Jones]], pinned him to the
 
 floor in an instant. My friend, however, was now too much injured to
 
@@ -156,9 +156,9 @@ render us any aid whatever, and I was so encumbered with my disguise
 
 that I could do but little. The dog would not leave his hold upon the
 
-throat of Jones--Peters, nevertheless, was far more than a match for
+throat of [[Jones]]--Peters, nevertheless, was far more than a match for
 
-the two men who remained, and would, no doubt, have despatched them
+the two men who remained, and would, no [[Doubt|doubt]], have despatched them
 
 sooner, had it not been for the narrow space in which he had to act,
 
@@ -174,13 +174,13 @@ brig throwing him in contact with Hicks, he seized him by the throat,
 
 and, by dint of sheer strength, strangled him instantaneously. Thus, in
 
-far less time than I have taken to tell it, we found ourselves masters
+far less [[Time|time]] than I have taken to tell it, we found ourselves masters
 
 of the brig.
 
 
 
-The only person of our opponents who was left alive was Richard Parker.
+The only person of our opponents who was left alive was [[Richard]] Parker.
 
 This man, it will be remembered, I had knocked down with a blow from
 
@@ -188,6 +188,6 @@ the pump-handle at the commencement of the attack. He now lay
 
 motionless by the door of the shattered stateroom; but, upon Peters
 
-touching him with his foot, he spoke, and entreated for mercy. His head
+touching him with his foot, he spoke, and entreated for [[Mercy|mercy]]. His head
 
 was only slightly cut, and otherwise he had received no injury, having

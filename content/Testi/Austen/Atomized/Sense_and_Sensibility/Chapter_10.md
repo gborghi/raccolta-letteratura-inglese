@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 10"
+title: "[[Sense and Sensibility]] — Chapter 10"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -46,7 +46,7 @@ though not so correct as her sister’s, in having the advantage of
 
 height, was more striking; and her face was so lovely, that when in the
 
-common cant of praise, she was called a beautiful girl, truth was less
+common cant of praise, she was called a beautiful girl, [[Truth|truth]] was less
 
 violently outraged than usually happens. Her skin was very brown, but,
 
@@ -92,7 +92,7 @@ authors were brought forward and dwelt upon with so rapturous a
 
 delight, that any young man of five and twenty must have been
 
-insensible indeed, not to become an immediate convert to the excellence
+insensible indeed, not to become an immediate [[convert]] to the excellence
 
 of such works, however disregarded before. Their taste was strikingly
 
@@ -110,9 +110,9 @@ the familiarity of a long-established acquaintance.
 
 
 
-“Well, Marianne,” said Elinor, as soon as he had left them, “for _one_
+“[[Well]], Marianne,” said Elinor, as soon as he had left them, “for _one_
 
-morning I think you have done pretty well. You have already ascertained
+morning I think you have done pretty [[Well|well]]. You have already ascertained
 
 Mr. Willoughby’s opinion in almost every matter of importance. You know
 
@@ -128,7 +128,7 @@ subject for discourse? You will soon have exhausted each favourite
 
 topic. Another meeting will suffice to explain his sentiments on
 
-picturesque beauty, and second marriages, and then you can have nothing
+picturesque [[Beauty|beauty]], and second marriages, and then you can have nothing
 
 farther to ask.”
 
@@ -150,7 +150,7 @@ reproach would have been spared.”
 
 
 
-“My love,” said her mother, “you must not be offended with Elinor—she
+“My [[Love|love]],” said her mother, “you must not be offended with Elinor—she
 
 was only in jest. I should scold her myself, if she were capable of
 
@@ -172,11 +172,11 @@ greater kindness, made such an excuse unnecessary before it had ceased
 
 to be possible, by Marianne’s perfect recovery. She was confined for
 
-some days to the house; but never had any confinement been less
+some days to the [[house]]; but never had any confinement been less
 
 irksome. Willoughby was a young man of good abilities, quick
 
-imagination, lively spirits, and open, affectionate manners. He was
+[[Imagination|imagination]], lively spirits, and open, affectionate manners. He was
 
 exactly formed to engage Marianne’s heart, for with all this, he joined
 
@@ -238,15 +238,15 @@ were strong.
 
 Her mother too, in whose mind not one speculative thought of their
 
-marriage had been raised, by his prospect of riches, was led before the
+[[Marriage|marriage]] had been raised, by his prospect of riches, was led before the
 
-end of a week to hope and expect it; and secretly to congratulate
+end of a week to [[Hope|hope]] and expect it; and secretly to congratulate
 
 herself on having gained two such sons-in-law as Edward and Willoughby.
 
 
 
-Colonel Brandon’s partiality for Marianne, which had so early been
+[[Colonel Brandon]]’s partiality for Marianne, which had so early been
 
 discovered by his friends, now first became perceptible to Elinor, when
 
@@ -268,9 +268,9 @@ of disposition between the parties might forward the affection of Mr.
 
 Willoughby, an equally striking opposition of character was no
 
-hindrance to the regard of Colonel Brandon. She saw it with concern;
+hindrance to the regard of [[Colonel Brandon]]. She saw it with concern;
 
-for what could a silent man of five and thirty hope, when opposed to a
+for what could a silent man of five and thirty [[Hope|hope]], when opposed to a
 
 very lively one of five and twenty? and as she could not even wish him
 
@@ -300,7 +300,7 @@ lively nor young, seemed resolved to undervalue his merits.
 
 “Brandon is just the kind of man,” said Willoughby one day, when they
 
-were talking of him together, “whom every body speaks well of, and
+were talking of him together, “whom every [[Body|body]] speaks [[Well|well]] of, and
 
 nobody cares about; whom all are delighted to see, and nobody remembers
 
@@ -328,7 +328,7 @@ itself. Who would submit to the indignity of being approved by such a
 
 woman as Lady Middleton and Mrs. Jennings, that could command the
 
-indifference of any body else?”
+indifference of any [[Body|body]] else?”
 
 
 
@@ -356,7 +356,7 @@ abroad, has read, and has a thinking mind. I have found him capable of
 
 giving me much information on various subjects; and he has always
 
-answered my inquiries with readiness of good-breeding and good nature.”
+answered my inquiries with readiness of good-breeding and good [[Nature|nature]].”
 
 
 
@@ -368,7 +368,7 @@ troublesome.”
 
 
 
-“He _would_ have told me so, I doubt not, had I made any such
+“He _would_ have told me so, I [[Doubt|doubt]] not, had I made any such
 
 inquiries, but they happened to be points on which I had been
 
@@ -390,9 +390,9 @@ further than _your_ candour. But why should you dislike him?”
 
 “I do not dislike him. I consider him, on the contrary, as a very
 
-respectable man, who has every body’s good word, and nobody’s notice;
+respectable man, who has every [[Body|body]]’s good word, and nobody’s notice;
 
-who has more money than he can spend, more time than he knows how to
+who has more money than he can spend, more [[Time|time]] than he knows how to
 
 employ, and two new coats every year.”
 
@@ -408,13 +408,13 @@ ardour, and his voice no expression.”
 
 “You decide on his imperfections so much in the mass,” replied Elinor,
 
-“and so much on the strength of your own imagination, that the
+“and so much on the strength of your own [[Imagination|imagination]], that the
 
 commendation _I_ am able to give of him is comparatively cold and
 
-insipid. I can only pronounce him to be a sensible man, well-bred,
+insipid. I can only pronounce him to be a sensible man, [[Well|well]]-bred,
 
-well-informed, of gentle address, and, I believe, possessing an amiable
+[[Well|well]]-informed, of gentle address, and, I believe, possessing an amiable
 
 heart.”
 
@@ -438,6 +438,6 @@ to be told, that I believe his character to be in other respects
 
 irreproachable, I am ready to confess it. And in return for an
 
-acknowledgment, which must give me some pain, you cannot deny me the
+acknowledgment, which must give me some [[Pain|pain]], you cannot deny me the
 
 privilege of disliking him as much as ever.”

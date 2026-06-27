@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 1 (part 8)"
+title: "[[manalive]] — Chapter 1 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -15,15 +15,15 @@ tags:
 
 
 "`I must ask your indulgence,' said Smith, rather brokenly.
-`I must ask you to realize that I have just had an escape from death.'
+`I must ask you to realize that I have just had an escape from [[Death|death]].'
 
 "`YOU have had an escape from death?' repeated the Professor
-in not unpardonable irritation.  `Well, of all the cheek--'
+in not unpardonable irritation.  `[[Well]], of all the cheek--'
 
 "`Oh, don't you understand, don't you understand?' cried the pale
 young man impatiently.  `I had to do it, Eames; I had to prove
 you wrong or die.  When a man's young, he nearly always has
-some one whom he thinks the top-water mark of the mind of man--
+some one whom he thinks the top-[[Water|water]] mark of the mind of man--
 some one who knows all about it, if anybody knows.
 
 "`Well, you were that to me; you spoke with authority,
@@ -33,10 +33,10 @@ nothing anywhere, it was because you had been there to see.
 Don't you see that I HAD to prove you didn't really mean it?--
 or else drown myself in the canal.'
 
-"`Well,' said Eames hesitatingly, `I think perhaps you confuse--'
+"`[[Well]],' said Eames hesitatingly, `I think perhaps you confuse--'
 
-"`Oh, don't tell me that!' cried Smith with the sudden clairvoyance
-of mental pain; `don't tell me I confuse enjoyment of existence
+"`Oh, don't tell me that!' cried [[smith|Smith]] with the sudden clairvoyance
+of mental [[Pain|pain]]; `don't tell me I confuse enjoyment of existence
 with the Will to Live!  That's German, and German is High Dutch,
 and High Dutch is Double Dutch.  The thing I saw shining in your eyes
 when you dangled on that bridge was enjoyment of life and not "the
@@ -51,7 +51,7 @@ won't you admit I'm right?'
 "`Yes', said Eames very slowly, `I think you are right.
 You shall have a First!'
 
-"`Right!' cried Smith, springing up reanimated.  `I've passed
+"`Right!' cried [[smith|Smith]], springing up reanimated.  `I've passed
 with honours, and now let me go and see about being sent down.'
 
 "`You needn't be sent down,' said Eames with the quiet confidence
@@ -67,17 +67,17 @@ but he spoke with equal firmness.  `I must be sent down,' he said,
 
 "`Because I mean to follow your advice,' answered the massive youth,
 `I mean to keep the remaining shots for people in the shameful state
-you and I were in last night--I wish we could even plead drunkenness.
+you and I were in last [[Night|night]]--I wish we could even plead drunkenness.
 I mean to keep those bullets for pessimists--pills for pale people.
 And in this way I want to walk the world like a wonderful surprise--
 to float as idly as the thistledown, and come as silently as the sunrise;
 not to be expected any more than the thunderbolt, not to be
 recalled any more than the dying breeze.  I don't want people to
-anticipate me as a well-known practical joke.  I want both my gifts
-to come virgin and violent, the death and the life after death.
-I am going to hold a pistol to the head of the Modern Man.  But I
+anticipate me as a [[Well|well]]-known practical joke.  I want both my gifts
+to come virgin and violent, the [[Death|death]] and the life after [[Death|death]].
+I am going to hold a [[Pistol|pistol]] to the head of the Modern Man.  But I
 shall not use it to kill him--only to bring him to life.
-I begin to see a new meaning in being the skeleton at the feast.'
+I begin to see a new meaning in being the [[skeleton]] at the feast.'
 
 "`You can scarcely be called a skeleton,' said Dr. Eames, smiling.
 
@@ -102,10 +102,10 @@ the clouds turn pink.'
 "He gripped Dr. Eames's hand and groped his way somewhat unsteadily
 to the door.  Before he had vanished through it he had added,
 `It's very dangerous, though, when a man thinks for a split second
-that he understands death.'
+that he understands [[Death|death]].'
 
 "Dr. Eames remained in repose and rumination some hours after his
-late assailant had left.  Then he rose, took his hat and umbrella,
+late assailant had left.  Then he [[Rose|rose]], took his hat and umbrella,
 and went for a brisk if rotatory walk.  Several times,
 however, he stood outside the villa with the spotted blinds,
 studying them intently with his head slightly on one side.
@@ -117,7 +117,7 @@ in the opinion of the undersigned persons, new in the art of letters.
 Each of the two actors is described as he appeared to the other.
 But the undersigned persons absolutely guarantee the exactitude
 of the story; and if their version of the thing be questioned, they,
-the undersigned persons, would deucedly well like to know who does
+the undersigned persons, would deucedly [[Well|well]] like to know who does
 know about it if they don't.
 
 "The undersigned persons will now adjourn to `The Spotted Dog'
@@ -126,4 +126,4 @@ for beer.  Farewell.
 			      "(Signed) James Emerson Eames,
 		   Warden of Brakespeare College, Cambridge.
 
-					   "Innocent Smith."
+					   "[[Innocent]] [[smith|Smith]]."

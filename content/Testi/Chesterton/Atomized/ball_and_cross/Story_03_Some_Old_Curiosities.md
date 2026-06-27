@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — Some Old Curiosities"
+title: "ball and [[Cross|cross]] — Some Old Curiosities"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 III.  SOME OLD CURIOSITIES
 
 The evening sky, a dome of solid gold, unflaked even by a single
-sunset cloud, steeped the meanest sights of London in a strange
+sunset cloud, steeped the meanest sights of [[London]] in a strange
 and mellow light.  It made a little greasy street of St. Martin's Lane
 look as if it were paved with gold.  It made the pawnbroker's
 half-way down it shine as if it were really that Mountain of Piety
@@ -25,31 +25,31 @@ that the French poetic instinct has named it; it made the mean
 pseudo-French bookshop, next but one to it, a shop packed with
 dreary indecency, show for a moment a kind of Parisian colour.
 And the shop that stood between the pawnshop and the shop of
-dreary indecency, showed with quite a blaze of old world beauty,
+dreary indecency, showed with quite a blaze of old world [[Beauty|beauty]],
 for it was, by accident, a shop not unbeautiful in itself.
-The front window had a glimmer of bronze and blue steel, lit, as by
-a few stars, by the sparks of what were alleged to be jewels;
+The front [[Window|window]] had a glimmer of bronze and blue steel, lit, as by
+a few [[Stars|stars]], by the sparks of what were alleged to be jewels;
 for it was in brief, a shop of bric-a-brac and old curiosities.
 A row of half-burnished seventeenth-century swords ran like an
-ornate railing along the front of the window; behind was a darker
+ornate railing along the front of the [[Window|window]]; behind was a darker
 glimmer of old oak and old armour; and higher up hung the most
 extraordinary looking South Sea tools or utensils, whether designed
 for killing enemies or merely for cooking them, no mere white
-man could possibly conjecture.  But the romance of the eye,
+man could possibly conjecture.  But the [[Romance|romance]] of the eye,
 which really on this rich evening, clung about the shop, had its main
 source in the accident of two doors standing open, the front door
 that opened on the street and a back door that opened on an odd
-green square of garden, that the sun turned to a square of gold.
+green square of [[Garden|garden]], that the sun turned to a square of gold.
 There is nothing more beautiful than thus to look as it were through
-the archway of a house; as if the open sky were an interior chamber,
+the archway of a [[house]]; as if the open sky were an interior chamber,
 and the sun a secret lamp of the place.
 
 I have suggested that the sunset light made everything lovely.
 To say that it made the keeper of the curiosity shop lovely would
 be a tribute to it perhaps too extreme.  It would easily have
 made him beautiful if he had been merely squalid; if he had been
-a Jew of the Fagin type.  But he was a Jew of another and much
-less admirable type; a Jew with a very well-sounding name.
+a Jew of the [[Fagin]] type.  But he was a Jew of another and much
+less admirable type; a Jew with a very [[Well|well]]-sounding name.
 For though there are no hard tests for separating the tares and the wheat
 of any people, one rude but efficient guide is that the nice Jew
 is called Moses Solomon, and the nasty Jew is called Thornton Percy.
@@ -88,24 +88,24 @@ The tall Scotchman in grey took a step forward and spoke in a voice
 quite clear and bold, and yet somehow lifeless, like a man going
 through an ancient formality.
 
-"The fact is, Mr. Gordon, we have to place our honour in your hands.
-Words have passed between Mr. Turnbull and myself on a grave
+"The fact is, Mr. Gordon, we have to place our [[Honour|honour]] in your hands.
+Words have passed between Mr. Turnbull and myself on a [[Grave|grave]]
 and invaluable matter, which can only be atoned for by fighting.
 Unfortunately, as the police are in some sense pursuing us,
 we are hurried, and must fight now and without seconds.
-But if you will be so kind as to take us into your little garden
+But if you will be so kind as to take us into your little [[Garden|garden]]
 and see fair play, we shall feel how----"
 
 The shopman recovered himself from a stunning surprise and burst out:
 
-"Gentlemen, are you drunk?  A duel!  A duel in my garden.
-Go home, gentlemen, go home.  Why, what did you quarrel about?"
+"Gentlemen, are you drunk?  A duel!  A duel in my [[Garden|garden]].
+Go [[Home|home]], gentlemen, go [[Home|home]].  Why, what did you quarrel about?"
 
 "We quarrelled," said Evan, in the same dead voice, "about religion."
 The fat shopkeeper rolled about in his chair with enjoyment.
 
-"Well, this is a funny game," he said.  "So you want to commit
-murder on behalf of religion.  Well, well my religion is a little
+"[[Well]], this is a funny game," he said.  "So you want to commit
+murder on behalf of religion.  [[Well]], [[Well|well]] my religion is a little
 respect for humanity, and----"
 
 "Excuse me," cut in Turnbull, suddenly and fiercely, pointing towards
@@ -120,19 +120,19 @@ pointing backward to the pornographic bookseller.
 
 "Why, then," cried Turnbull, with grating contempt.
 "I will leave the religion of humanity confidently in your hands;
-but I am sorry I troubled you about such a thing as honour.
+but I am sorry I troubled you about such a thing as [[Honour|honour]].
 Look here, my man.  I do believe in humanity.  I do believe in liberty.
 My father died for it under the swords of the Yeomanry.  I am going
-to die for it, if need be, under that sword on your counter.  But if
-there is one sight that makes me doubt it it is your foul fat face.
+to die for it, if need be, under that [[Sword|sword]] on your counter.  But if
+there is one sight that makes me [[Doubt|doubt]] it it is your foul fat face.
 It is hard to believe you were not meant to be ruled like a dog
-or killed like a cockroach.  Don't try your slave's philosophy on me.
-We are going to fight, and we are going to fight in your garden,
+or killed like a cockroach.  Don't try your slave's [[philosophy]] on me.
+We are going to fight, and we are going to fight in your [[Garden|garden]],
 with your swords.  Be still!  Raise your voice above a whisper,
-and I run you through the body."
+and I run you through the [[Body|body]]."
 
-Turnbull put the bright point of the sword against the gay
-waistcoat of the dealer, who stood choking with rage and fear,
+Turnbull put the bright point of the [[Sword|sword]] against the gay
+waistcoat of the dealer, who stood choking with rage and [[Fear|fear]],
 and an astonishment so crushing as to be greater than either.
 
 "MacIan," said Turnbull, falling almost into the familiar tone of a
@@ -140,28 +140,28 @@ business partner, "MacIan, tie up this fellow and put a gag in his mouth.
 Be still, I say, or I kill you where you stand."
 
 The man was too frightened to scream, but he struggled wildly,
-while Evan MacIan, whose long, lean hands were unusually powerful,
+while [[Evan MacIan]], whose long, lean hands were unusually powerful,
 tightened some old curtain cords round him, strapped a rope gag
 in his mouth and rolled him on his back on the floor.
 
 "There's nothing very strong here," said Evan, looking about him.
 "I'm afraid he'll work through that gag in half an hour or so."
 
-"Yes," said Turnbull, "but one of us will be killed by that time."
+"Yes," said Turnbull, "but one of us will be killed by that [[Time|time]]."
 
-"Well, let's hope so," said the Highlander, glancing doubtfully
+"[[Well]], let's [[Hope|hope]] so," said the Highlander, glancing doubtfully
 at the squirming thing on the floor.
 
 "And now," said Turnbull, twirling his fiery moustache and fingering
-his sword, "let us go into the garden.  What an exquisite summer evening!"
+his [[Sword|sword]], "let us go into the [[Garden|garden]].  What an exquisite [[Summer|summer]] evening!"
 
-MacIan said nothing, but lifting his sword from the counter went
+MacIan said nothing, but lifting his [[Sword|sword]] from the counter went
 out into the sun.
 
 The brilliant light ran along the blades, filling the channels
-of them with white fire; the combatants stuck their swords in
+of them with white [[Fire|fire]]; the combatants stuck their swords in
 the turf and took off their hats, coats, waistcoats, and boots.
-Evan said a short Latin prayer to himself, during which Turnbull made
+Evan said a short Latin [[Prayer|prayer]] to himself, during which Turnbull made
 something of a parade of lighting a cigarette which he flung away
 the instant after, when he saw MacIan apparently standing ready.
 Yet MacIan was not exactly ready.  He stood staring like a man
@@ -172,16 +172,16 @@ stricken with a trance.
 "I see Jerusalem," said Evan, "all covered with the shields and
 standards of the Saracens."
 
-"Jerusalem!" said Turnbull, laughing.  "Well, we've taken the only
+"Jerusalem!" said Turnbull, laughing.  "[[Well]], we've taken the only
 inhabitant into captivity."
 
-And he picked up his sword and made it whistle like a boy's wand.
+And he picked up his [[Sword|sword]] and made it whistle like a boy's wand.
 
 "I beg your pardon," said MacIan, dryly.  "Let us begin."
 
 MacIan made a military salute with his weapon, which Turnbull copied
 or parodied with an impatient contempt; and in the stillness of
-the garden the swords came together with a clear sound like a bell.
+the [[Garden|garden]] the swords came together with a clear sound like a bell.
 The instant the blades touched, each felt them tingle to their very points
 with a personal vitality, as if they were two naked nerves of steel.
 Evan had worn throughout an air of apathy, which might have been the stale
@@ -198,7 +198,7 @@ The next moment Turnbull lunged; MacIan seemed to catch the point
 and throw it away from him, and was thrusting back like a thunderbolt,
 when a sound paralysed him; another sound beside their ringing weapons.
 Turnbull, perhaps from an equal astonishment, perhaps from chivalry,
-stopped also and forebore to send his sword through his exposed enemy.
+stopped also and forebore to send his [[Sword|sword]] through his exposed enemy.
 
 "What's that?" asked Evan, hoarsely.
 
@@ -209,18 +209,18 @@ a littered floor, came from the dark shop behind them.
 said Turnbull.  "Be quick!  We must finish before he gets his gag out."
 
 "Yes, yes, quick!  On guard!" cried the Highlander.
-The blades crossed again with the same sound like song, and the men
+The blades crossed again with the same sound like [[Song|song]], and the men
 went to work again with the same white and watchful faces.
 Evan, in his impatience, went back a little to his wildness.
 He made windmills, as the French duellists say, and though he was
 probably a shade the better fencer of the two, he found the other's
 point pass his face twice so close as almost to graze his cheek.
-The second time he realized the actual possibility of defeat
-and pulled himself together under a shock of the sanity of anger.
+The second [[Time|time]] he realized the actual possibility of defeat
+and pulled himself together under a shock of the [[Sanity|sanity]] of anger.
 He narrowed, and, so to speak, tightened his operations:
 he fenced (as the swordsman's boast goes), in a wedding ring;
 he turned Turnbull's thrusts with a maddening and almost mechanical click,
-like that of a machine.  Whenever Turnbull's sword sought to go over
+like that of a [[Machine|machine]].  Whenever Turnbull's [[Sword|sword]] sought to go over
 that other mere white streak it seemed to be caught in a complex network
 of steel.  He turned one thrust, turned another, turned another.
 Then suddenly he went forward at the lunge with his whole living weight.
@@ -228,7 +228,7 @@ Turnbull leaped back, but Evan lunged and lunged and lunged again
 like a devilish piston rod or battering ram.  And high above
 all the sound of the struggle there broke into the silent evening
 a bellowing human voice, nasal, raucous, at the highest pitch
-of pain.  "Help!  Help!  Police!  Murder!  Murder!"  The gag was broken;
+of [[Pain|pain]].  "Help!  Help!  Police!  Murder!  Murder!"  The gag was broken;
 and the tongue of terror was loose.
 
 "Keep on!" gasped Turnbull.  "One may be killed before they come."
@@ -237,7 +237,7 @@ The voice of the screaming shopkeeper was loud enough to drown not
 only the noise of the swords but all other noises around it, but even
 through its rending din there seemed to be some other stir or scurry.
 And Evan, in the very act of thrusting at Turnbull, saw something
-in his eyes that made him drop his sword.  The atheist, with his grey
+in his eyes that made him drop his [[Sword|sword]].  The atheist, with his grey
 eyes at their widest and wildest, was staring straight over his shoulder
 at the little archway of shop that opened on the street beyond.
 And he saw the archway blocked and blackened with strange figures.
@@ -247,11 +247,11 @@ second to lose either.  Do as I do."
 
 With a bound he was beside the little cluster of his clothes and boots
 that lay on the lawn; he snatched them up, without waiting to put
-any of them on; and tucking his sword under his other arm, went wildly
-at the wall at the bottom of the garden and swung himself over it.
+any of them on; and tucking his [[Sword|sword]] under his other arm, went wildly
+at the wall at the [[Bottom|bottom]] of the [[Garden|garden]] and swung himself over it.
 Three seconds after he had alighted in his socks on the other side,
 MacIan alighted beside him, also in his socks and also carrying
-clothes and sword in a desperate bundle.
+clothes and [[Sword|sword]] in a desperate bundle.
 
 They were in a by-street, very lean and lonely itself, but so
 close to a crowded thoroughfare that they could see the vague
@@ -259,22 +259,22 @@ masses of vehicles going by, and could even see an individual
 hansom cab passing the corner at the instant.  Turnbull put his
 fingers to his mouth like a gutter-snipe and whistled twice.
 Even as he did so he could hear the loud voices of the neighbours
-and the police coming down the garden.
+and the police coming down the [[Garden|garden]].
 
 The hansom swung sharply and came tearing down the little lane at
-his call.  When the cabman saw his fares, however, two wild-haired
+his call.  When the [[cabman]] saw his fares, however, two wild-haired
 men in their shirts and socks with naked swords under their arms,
 he not unnaturally brought his readiness to a rigid stop
 and stared suspiciously.
 
 "You talk to him a minute," whispered Turnbull, and stepped back
-into the shadow of the wall.
+into the [[Shadow|shadow]] of the wall.
 
-"We want you," said MacIan to the cabman, with a superb Scotch drawl
+"We want you," said MacIan to the [[cabman]], with a superb Scotch drawl
 of indifference and assurance, "to drive us to St. Pancras Station--
 verra quick."
 
-"Very sorry, sir," said the cabman, "but I'd like to know it was
+"Very sorry, sir," said the [[cabman]], "but I'd like to know it was
 all right.  Might I arst where you come from, sir?"
 
 A second after he spoke MacIan heard a heavy voice on the other side
@@ -286,11 +286,11 @@ lowland Scotch intonation, "if ye're really verra anxious to ken whar a'
 come fra', I'll tell ye as a verra great secret.  A' come from Scotland.
 And a'm gaein' to St. Pancras Station.  Open the doors, cabby."
 
-The cabman stared, but laughed.  The heavy voice behind the wall said:
-"Now then, a better back this time, Mr. Price."  And from the shadow
+The [[cabman]] stared, but laughed.  The heavy voice behind the wall said:
+"Now then, a better back this [[Time|time]], Mr. Price."  And from the [[Shadow|shadow]]
 of the wall Turnbull crept out.  He had struggled wildly into
 his coat (leaving his waistcoat on the pavement), and he was
-with a fierce pale face climbing up the cab behind the cabman.
+with a fierce pale face climbing up the cab behind the [[cabman]].
 MacIan had no glimmering notion of what he was up to, but an instinct
 of discipline, inherited from a hundred men of war, made him stick
 to his own part and trust the other man's.
@@ -299,8 +299,8 @@ to his own part and trust the other man's.
 solemnity of a drunkard, "open the doors.  Did ye no hear me say
 St. Pancras Station?"
 
-The top of a policeman's helmet appeared above the garden wall.
-The cabman did not see it, but he was still suspicious and began:
+The top of a policeman's helmet appeared above the [[Garden|garden]] wall.
+The [[cabman]] did not see it, but he was still suspicious and began:
 
 "Very sorry, sir, but..." and with that the catlike Turnbull
 tore him out of his seat and hurled him into the street below,
@@ -310,7 +310,7 @@ where he lay suddenly stunned.
 obeyed like a bugle.  "And get inside with the swords."
 
 And just as the red and raging face of a policeman appeared above
-the wall, Turnbull struck the horse with a terrible cut of the whip
+the wall, Turnbull struck the [[Horse|horse]] with a terrible cut of the whip
 and the two went whirling away like a boomerang.
 
 They had spun through seven streets and three or four squares before
@@ -323,7 +323,7 @@ wholly common in conversations through that aperture.
 "Mr. Turnbull," replied his motionless fare.
 
 "Under circumstances such as those in which we were both recently
-placed there was no time for anything but very abrupt action.
+placed there was no [[Time|time]] for anything but very abrupt action.
 I trust therefore that you have no cause to complain of me
 if I have deferred until this moment a consultation with you
 on our present position or future action.  Our present position,
@@ -342,29 +342,29 @@ in order to speak up through the open door.
 "Mr. Turnbull," he said, "I have nothing to add to what I have
 said before.  It is strongly borne in upon me that you and I,
 the sole occupants of this runaway cab, are at this moment
-the two most important people in London, possibly in Europe.
+the two most important people in [[London]], possibly in Europe.
 I have been looking at all the streets as we went past,
 I have been looking at all the shops as we went past,
 I have been looking at all the churches as we went past.
 At first, I felt a little dazed with the vastness of it all.
 I could not understand what it all meant.  But now I know exactly what it
-all means.  It means us.  This whole civilization is only a dream.
+all means.  It means us.  This whole civilization is only [[A Dream|a dream]].
 You and I are the realities."
 
 "Religious symbolism," said Mr. Turnbull, through the trap,
 "does not, as you are probably aware, appeal ordinarily to thinkers
 of the school to which I belong.  But in symbolism as you use
-it in this instance, I must, I think, concede a certain truth.
+it in this instance, I must, I think, concede a certain [[Truth|truth]].
 We _must_ fight this thing out somewhere; because, as you truly say,
 we have found each other's reality.  We _must_ kill each other--
-or convert each other.  I used to think all Christians were hypocrites,
+or [[convert]] each other.  I used to think all Christians were hypocrites,
 and I felt quite mildly towards them really.  But I know you are sincere--
-and my soul is mad against you.  In the same way you used, I suppose,
+and my [[Soul|soul]] is mad against you.  In the same way you used, I suppose,
 to think that all atheists thought atheism would leave them free
 for immorality--and yet in your heart you tolerated them entirely.
 Now you _know_ that I am an honest man, and you are mad against me,
 as I am against you.  Yes, that's it.  You can't be angry with bad men.
-But a good man in the wrong--why one thirsts for his blood.
+But a good man in the wrong--why one thirsts for his [[Blood|blood]].
 Yes, you open for me a vista of thought."
 
 "Don't run into anything," said Evan, immovably.
@@ -377,9 +377,9 @@ Mr. Turnbull had evidently a great deal of unused practical
 talent which was unrolling itself in this ridiculous adventure.
 They had got away with such stunning promptitude that the police
 chase had in all probability not even properly begun.  But in case
-it had, the amateur cabman chose his dizzy course through London
+it had, the amateur [[cabman]] chose his dizzy course through [[London]]
 with a strange dexterity.  He did not do what would have first
-occurred to any ordinary outsider desiring to destroy his tracks.
+occurred to any ordinary [[Outsider|outsider]] desiring to destroy his tracks.
 He did not cut into by-ways or twist his way through mean streets.
 His amateur common sense told him that it was precisely the poor street,
 the side street, that would be likely to remember and report
@@ -388,11 +388,11 @@ He kept chiefly to the great roads, so full of hansoms that a
 wilder pair than they might easily have passed in the press.
 In one of the quieter streets Evan put on his boots.
 
-Towards the top of Albany Street the singular cabman again
+Towards the top of Albany Street the singular [[cabman]] again
 opened the trap.
 
 "Mr. MacIan," he said, "I understand that we have now definitely
-settled that in the conventional language honour is not satisfied.
+settled that in the conventional language [[Honour|honour]] is not satisfied.
 Our action must at least go further than it has gone under recent
 interrupted conditions.  That, I believe, is understood."
 
@@ -410,7 +410,7 @@ exchange of politeness between man and man would be not only elegant
 but uncommonly practical."
 
 "You are perfectly right," answered MacIan, with his
-melancholy voice, "in saying that all this has occurred to me.
+[[Melancholy|melancholy]] voice, "in saying that all this has occurred to me.
 All duellists should behave like gentlemen to each other.
 But we, by the queerness of our position, are something much
 more than either duellists or gentlemen.  We are, in the oddest
@@ -419,7 +419,7 @@ and most exact sense of the term, brothers--in arms."
 "Mr. MacIan," replied Turnbull, calmly, "no more need be said."
 And he closed the trap once more.
 
-They had reached Finchley Road before he opened it again.
+They had reached Finchley [[Road]] before he opened it again.
 
 Then he said, "Mr. MacIan, may I offer you a cigar.
 It will be a touch of realism."

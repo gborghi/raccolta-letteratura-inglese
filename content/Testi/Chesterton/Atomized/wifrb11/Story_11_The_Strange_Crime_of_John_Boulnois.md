@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Strange Crime of John Boulnois"
+title: "[[wifrb11]] — The Strange Crime of John Boulnois"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -26,47 +26,47 @@ to a great journalistic declaration (attributed to Mr Kidd himself)
 that "he guessed the sun would rise in the west yet, if American citizens
 did a bit more hustling." Those, however, who mock American journalism
 from the standpoint of somewhat mellower traditions forget
-a certain paradox which partly redeems it.  For while the journalism
+a certain [[Paradox|paradox]] which partly redeems it.  For while the journalism
 of the States permits a pantomimic vulgarity long past anything English,
 it also shows a real excitement about the most earnest mental problems,
-of which English papers are innocent, or rather incapable. 
+of which English papers are [[Innocent|innocent]], or rather incapable. 
 The Sun was full of the most solemn matters treated in the most
-farcical way.  William James figured there as well as "Weary Willie,"
+farcical way.  William James figured there as [[Well|well]] as "Weary Willie,"
 and pragmatists alternated with pugilists in the long procession
 of its portraits.
 
-     Thus, when a very unobtrusive Oxford man named John Boulnois
-wrote in a very unreadable review called the Natural Philosophy Quarterly
+     Thus, when a very unobtrusive [[Oxford]] man named John Boulnois
+wrote in a very unreadable review called the Natural [[philosophy|Philosophy]] Quarterly
 a series of articles on alleged weak points in Darwinian evolution,
 it fluttered no corner of the English papers; though Boulnois's theory
 (which was that of a comparatively stationary universe visited occasionally
-by convulsions of change) had some rather faddy fashionableness at Oxford,
+by convulsions of change) had some rather faddy fashionableness at [[Oxford]],
 and got so far as to be named "Catastrophism".  But many American papers
 seized on the challenge as a great event; and the Sun threw
-the shadow of Mr Boulnois quite gigantically across its pages. 
-By the paradox already noted, articles of valuable intelligence and
+the [[Shadow|shadow]] of Mr Boulnois quite gigantically across its pages. 
+By the [[Paradox|paradox]] already noted, articles of valuable intelligence and
 enthusiasm were presented with headlines apparently written
 by an illiterate maniac, headlines such as "Darwin Chews Dirt;
 Critic Boulnois says He Jumps the Shocks"--or "Keep Catastrophic,
 says Thinker Boulnois." And Mr Calhoun Kidd, of the Western Sun,
 was bidden to take his butterfly tie and lugubrious visage down to
-the little house outside Oxford where Thinker Boulnois lived
+the little [[house]] outside [[Oxford]] where Thinker Boulnois lived
 in happy ignorance of such a title.
 
      That fated philosopher had consented, in a somewhat dazed manner,
 to receive the interviewer, and had named the hour of nine that evening. 
-The last of a summer sunset clung about Cumnor and the low wooded hills;
-the romantic Yankee was both doubtful of his road and inquisitive
+The last of a [[Summer|summer]] sunset clung about Cumnor and the low wooded hills;
+the romantic Yankee was both doubtful of his [[Road|road]] and inquisitive
 about his surroundings; and seeing the door of a genuine feudal
 old-country inn, The Champion Arms, standing open, he went in
 to make inquiries.
 
      In the bar parlour he rang the bell, and had to wait
-some little time for a reply to it.  The only other person present
+some little [[Time|time]] for a reply to it.  The only other person present
 was a lean man with close red hair and loose, horsey-looking clothes,
 who was drinking very bad whisky, but smoking a very good cigar. 
 The whisky, of course, was the choice brand of The Champion Arms;
-the cigar he had probably brought with him from London. 
+the cigar he had probably brought with him from [[London]]. 
 Nothing could be more different than his cynical negligence from
 the dapper dryness of the young American; but something in his pencil
 and open notebook, and perhaps in the expression of his alert blue eye,
@@ -76,7 +76,7 @@ caused Kidd to guess, correctly, that he was a brother journalist.
 his nation, "of directing me to the Grey Cottage, where Mr Boulnois lives,
 as I understand?"
 
-     "It's a few yards down the road," said the red-haired man,
+     "It's a few yards down the [[Road|road]]," said the red-haired man,
 removing his cigar; "I shall be passing it myself in a minute,
 but I'm going on to Pendragon Park to try and see the fun."
 
@@ -88,7 +88,7 @@ asked the other pressman, looking up.  "You're a journalist, aren't you?"
      "I have come to see Mr Boulnois," said Kidd.
 
      "I've come to see Mrs Boulnois," replied the other. 
-"But I shan't catch her at home." And he laughed rather unpleasantly.
+"But I shan't catch her at [[Home|home]]." And he laughed rather unpleasantly.
 
      "Are you interested in Catastrophism?" asked the wondering Yankee.
 
@@ -112,11 +112,11 @@ painfully like a spy.
      Smart Society, I regret to say, felt none of that interest in
 Boulnois on Darwin which was such a credit to the head and hearts of
 the Western Sun.  Dalroy had come down, it seemed, to snuff up
-the scent of a scandal which might very well end in the Divorce Court,
+the scent of a scandal which might very [[Well|well]] end in the [[divorce|Divorce]] [[Court]],
 but which was at present hovering between Grey Cottage and Pendragon Park.
 
      Sir Claude Champion was known to the readers of the Western Sun
-as well as Mr Boulnois.  So were the Pope and the Derby Winner;
+as [[Well|well]] as Mr Boulnois.  So were the Pope and the Derby Winner;
 but the idea of their intimate acquaintanceship would have struck Kidd
 as equally incongruous.  He had heard of (and written about,
 nay, falsely pretended to know) Sir Claude Champion, as
@@ -124,7 +124,7 @@ nay, falsely pretended to know) Sir Claude Champion, as
 as the great sportsman who raced yachts round the world;
 as the great traveller who wrote books about the Himalayas,
 as the politician who swept constituencies with a startling sort of
-Tory Democracy, and as the great dabbler in art, music, literature,
+Tory [[democracy|Democracy]], and as the great dabbler in art, music, literature,
 and, above all, acting.  Sir Claude was really rather magnificent in
 other than American eyes.  There was something of the Renascence Prince
 about his omnivorous culture and restless publicity--, he was not only
@@ -133,11 +133,11 @@ antiquarian frivolity that we convey by the word "dilettante".
 
      That faultless falcon profile with purple-black Italian eye,
 which had been snap-shotted so often both for Smart Society and
-the Western Sun, gave everyone the impression of a man eaten by ambition
-as by a fire, or even a disease.  But though Kidd knew a great deal
+the Western Sun, gave everyone the impression of a man eaten by [[Ambition|ambition]]
+as by a [[Fire|fire]], or even a disease.  But though Kidd knew a great deal
 about Sir Claude--a great deal more, in fact, than there was to know--
-it would never have crossed his wildest dreams to connect so showy
-an aristocrat with the newly-unearthed founder of Catastrophism,
+it would never have crossed his wildest [[Dreams|dreams]] to connect so showy
+an [[aristocrat]] with the newly-unearthed founder of Catastrophism,
 or to guess that Sir Claude Champion and John Boulnois could be
 intimate friends.  Such, according to Dalroy's account,
 was nevertheless the fact.  The two had hunted in couples at school
@@ -155,15 +155,15 @@ to Champion's had given that flighty celebrity opportunities for behaving
 in a way that could not but cause painful and rather base excitement. 
 Sir Claude had carried the arts of publicity to perfection;
 and he seemed to take a crazy pleasure in being equally ostentatious
-in an intrigue that could do him no sort of honour.  Footmen from
+in an intrigue that could do him no sort of [[Honour|honour]].  Footmen from
 Pendragon were perpetually leaving bouquets for Mrs Boulnois;
 carriages and motor-cars were perpetually calling at the cottage
 for Mrs Boulnois; balls and masquerades perpetually filled the grounds
-in which the baronet paraded Mrs Boulnois, like the Queen of
-Love and Beauty at a tournament.  That very evening, marked by Mr
+in which the baronet paraded Mrs Boulnois, like the [[Queen]] of
+[[Love]] and [[Beauty]] at a tournament.  That very evening, marked by Mr
 Kidd for the exposition of Catastrophism, had been marked by
-Sir Claude Champion for an open-air rendering of Romeo and Juliet,
-in which he was to play Romeo to a Juliet it was needless to name.
+Sir Claude Champion for an open-air rendering of [[Romeo]] and [[Juliet]],
+in which he was to play [[Romeo]] to a [[Juliet]] it was needless to name.
 
      "I don't think it can go on without a smash," said the young man
 with red hair, getting up and shaking himself.  "Old Boulnois may be
@@ -174,26 +174,26 @@ what you might call cubic.  But I don't believe it's possible."
 in a deep voice.
 
      "Yes," answered Dalroy; "but even a man of grand intellectual powers
-can't be such a blighted fool as all that.  Must you be going on? 
+can't be such a blighted [[Fool|fool]] as all that.  Must you be going on? 
 I shall be following myself in a minute or two."
 
      But Calhoun Kidd, having finished a milk and soda, betook himself
-smartly up the road towards the Grey Cottage, leaving his cynical informant
+smartly up the [[Road|road]] towards the Grey Cottage, leaving his cynical informant
 to his whisky and tobacco.  The last of the daylight had faded;
 the skies were of a dark, green-grey, like slate, studded here and there
 with a star, but lighter on the left side of the sky, with the promise
-of a rising moon.
+of a rising [[Moon|moon]].
 
      The Grey Cottage, which stood entrenched, as it were, in a square
 of stiff, high thorn-hedges, was so close under the pines and palisades
 of the Park that Kidd at first mistook it for the Park Lodge. 
 Finding the name on the narrow wooden gate, however, and seeing
 by his watch that the hour of the "Thinker's" appointment had just struck,
-he went in and knocked at the front door.  Inside the garden hedge,
-he could see that the house, though unpretentious enough, was larger
+he went in and knocked at the front door.  Inside the [[Garden|garden]] hedge,
+he could see that the [[house]], though unpretentious enough, was larger
 and more luxurious than it looked at first, and was quite a different kind
 of place from a porter's lodge.  A dog-kennel and a beehive stood outside,
-like symbols of old English country-life; the moon was rising behind
+like symbols of old English country-life; the [[Moon|moon]] was rising behind
 a plantation of prosperous pear trees, the dog that came out of the kennel
 was reverend-looking and reluctant to bark; and the plain, elderly
 man-servant who opened the door was brief but dignified.
@@ -213,14 +213,14 @@ and began to close the door.
 rather vaguely.
 
      "No, sir," said the man shortly; "he stayed behind, and then
-went out alone." And he shut the door, brutally, but with an air of
+went out [[Alone|alone]]." And he shut the door, brutally, but with an air of
 duty not done.
 
      The American, that curious compound of impudence and sensitiveness,
-was annoyed.  He felt a strong desire to hustle them all along a bit
+was annoyed.  He felt a strong [[Desire|desire]] to hustle them all along a bit
 and teach them business habits; the hoary old dog and the grizzled,
 heavy-faced old butler with his prehistoric shirt-front, and the drowsy
-old moon, and above all the scatter-brained old philosopher who
+old [[Moon|moon]], and above all the scatter-brained old philosopher who
 couldn't keep an appointment.
 
      "If that's the way he goes on he deserves to lose his wife's
@@ -232,43 +232,43 @@ will be on the spot."
 stumping up the long avenue of black pine-woods that pointed
 in abrupt perspective towards the inner gardens of Pendragon Park. 
 The trees were as black and orderly as plumes upon a hearse;
-there were still a few stars.  He was a man with more literary
+there were still a few [[Stars|stars]].  He was a man with more literary
 than direct natural associations; the word "Ravenswood" came into
-his head repeatedly.  It was partly the raven colour of the pine-woods;
+his head repeatedly.  It was partly [[The Raven|the raven]] colour of the pine-woods;
 but partly also an indescribable atmosphere almost described
-in Scott's great tragedy; the smell of something that died
+in Scott's great [[Tragedy|tragedy]]; the smell of something that died
 in the eighteenth century; the smell of dank gardens and broken urns,
 of wrongs that will never now be righted; of something that is
 none the less incurably sad because it is strangely unreal.
 
-     More than once, as he went up that strange, black road
+     More than once, as he went up that strange, black [[Road|road]]
 of tragic artifice, he stopped, startled, thinking he heard steps
 in front of him.  He could see nothing in front but the twin sombre
 walls of pine and the wedge of starlit sky above them.  At first
 he thought he must have fancied it or been mocked by a mere echo of
 his own tramp.  But as he went on he was more and more inclined
 to conclude, with the remains of his reason, that there really were
-other feet upon the road.  He thought hazily of ghosts; and was surprised
-how swiftly he could see the image of an appropriate and local ghost,
+other feet upon the [[Road|road]].  He thought hazily of [[Ghosts|ghosts]]; and was surprised
+how swiftly he could see the image of an appropriate and local [[Ghost|ghost]],
 one with a face as white as Pierrot's, but patched with black. 
 The apex of the triangle of dark-blue sky was growing brighter and bluer,
 but he did not realize as yet that this was because he was coming
-nearer to the lights of the great house and garden.  He only felt
+nearer to the lights of the [[Great House|great house]] and [[Garden|garden]].  He only felt
 that the atmosphere was growing more intense, there was in the sadness
 more violence and secrecy--more--he hesitated for the word,
 and then said it with a jerk of laughter--Catastrophism.
 
      More pines, more pathway slid past him, and then he stood rooted
-as by a blast of magic.  It is vain to say that he felt as if he had
-got into a dream; but this time he felt quite certain that he had
+as by a blast of [[Magic|magic]].  It is vain to say that he felt as if he had
+got into [[A Dream|a dream]]; but this [[Time|time]] he felt quite certain that he had
 got into a book.  For we human beings are used to inappropriate things;
 we are accustomed to the clatter of the incongruous; it is a tune
-to which we can go to sleep.  If one appropriate thing happens,
+to which we can go to [[Sleep|sleep]].  If one appropriate thing happens,
 it wakes us up like the pang of a perfect chord.  Something happened
 such as would have happened in such a place in a forgotten tale.
 
-     Over the black pine-wood came flying and flashing in the moon
-a naked sword--such a slender and sparkling rapier as may have
+     Over the black pine-wood came flying and flashing in the [[Moon|moon]]
+a naked [[Sword|sword]]--such a slender and sparkling rapier as may have
 fought many an unjust duel in that ancient park.  It fell on the pathway
 far in front of him and lay there glistening like a large needle. 
 He ran like a hare and bent to look at it.  Seen at close quarters
@@ -278,19 +278,19 @@ which were not dubious.
 
      He looked round wildly in the direction from which the dazzling missile
 had come, and saw that at this point the sable facade of fir and pine
-was interrupted by a smaller road at right angles; which, when he turned it,
-brought him in full view of the long, lighted house, with a lake and
+was interrupted by a smaller [[Road|road]] at right angles; which, when he turned it,
+brought him in full view of the long, lighted [[house]], with a lake and
 fountains in front of it.  Nevertheless, he did not look at this,
 having something more interesting to look at.
 
      Above him, at the angle of the steep green bank of the
-terraced garden, was one of those small picturesque surprises
-common in the old landscape gardening; a kind of small round hill or
-dome of grass, like a giant mole-hill, ringed and crowned with
+terraced [[Garden|garden]], was one of those small picturesque surprises
+common in the old landscape gardening; a kind of small round [[Hill|hill]] or
+dome of grass, like a giant mole-[[Hill|hill]], ringed and crowned with
 three concentric fences of roses, and having a sundial in the highest point
 in the centre.  Kidd could see the finger of the dial stand up dark
 against the sky like the dorsal fin of a shark and the vain moonlight
-clinging to that idle clock.  But he saw something else clinging
+clinging to that idle [[Clock|clock]].  But he saw something else clinging
 to it also, for one wild moment--the figure of a man.
 
      Though he saw it there only for a moment, though it was outlandish
@@ -302,10 +302,10 @@ he had seen the thousand public portraits of Sir Claude Champion.
 The wild red figure reeled an instant against the sundial; the next
 it had rolled down the steep bank and lay at the American's feet,
 faintly moving one arm.  A gaudy, unnatural gold ornament on the arm
-suddenly reminded Kidd of Romeo and Juliet; of course the tight crimson
+suddenly reminded Kidd of [[Romeo]] and [[Juliet]]; of course the tight crimson
 suit was part of the play.  But there was a long red stain down
 the bank from which the man had rolled--that was no part of the play. 
-He had been run through the body.
+He had been run through the [[Body|body]].
 
      Mr Calhoun Kidd shouted and shouted again.  Once more he seemed
 to hear phantasmal footsteps, and started to find another figure
@@ -321,7 +321,7 @@ cried out, brutally and beyond all reason:  "Did you do this, you devil?"
 
      James Dalroy smiled his unpleasing smile; but before he could speak,
 the fallen figure made another movement of the arm, waving vaguely
-towards the place where the sword fell; then came a moan, and then
+towards the place where the [[Sword|sword]] fell; then came a moan, and then
 it managed to speak.
 
      "Boulnois....  Boulnois, I say....  Boulnois did it...
@@ -330,10 +330,10 @@ jealous of me...he was jealous, he was, he was..."
      Kidd bent his head down to hear more, and just managed
 to catch the words:
 
-     "Boulnois...with my own sword...he threw it..."
+     "Boulnois...with my own [[Sword|sword]]...he threw it..."
 
-     Again the failing hand waved towards the sword, and then fell rigid
-with a thud.  In Kidd rose from its depth all that acrid humour
+     Again the failing hand waved towards the [[Sword|sword]], and then fell rigid
+with a thud.  In Kidd [[Rose|rose]] from its depth all that acrid [[Humour|humour]]
 that is the strange salt of the seriousness of his race.
 
      "See here," he said sharply and with command, "you must
@@ -342,7 +342,7 @@ fetch a doctor.  This man's dead."
      "And a priest, too, I suppose," said Dalroy in an undecipherable manner. 
 "All these Champions are papists."
 
-     The American knelt down by the body, felt the heart, propped up
+     The American knelt down by the [[Body|body]], felt the heart, propped up
 the head and used some last efforts at restoration; but before
 the other journalist reappeared, followed by a doctor and a priest,
 he was already prepared to assert they were too late.
@@ -352,7 +352,7 @@ prosperous-looking man, with conventional moustache and whiskers,
 but a lively eye, which darted over Kidd dubiously.
 
      "In one sense," drawled the representative of the Sun. 
-"I was too late to save the man, but I guess I was in time to hear
+"I was too late to save the man, but I guess I was in [[Time|time]] to hear
 something of importance.  I heard the dead man denounce his assassin."
 
      "And who was the assassin?" asked the doctor, drawing his
@@ -369,20 +369,20 @@ was not coming to Pendragon Park this evening."
 to give the old country a fact or two.  Yes, sir, John Boulnois
 was going to stay in all this evening; he fixed up a real good appointment
 there with me.  But John Boulnois changed his mind; John Boulnois
-left his home abruptly and all alone, and came over to this darned Park
+left his [[Home|home]] abruptly and all [[Alone|alone]], and came over to this darned Park
 an hour or so ago.  His butler told me so.  I think we hold what
 the all-wise police call a clue--have you sent for them?"
 
      "Yes," said the doctor, "but we haven't alarmed anyone else yet."
 
      "Does Mrs Boulnois know?" asked James Dalroy, and again Kidd
-was conscious of an irrational desire to hit him on his curling mouth.
+was conscious of an irrational [[Desire|desire]] to hit him on his curling mouth.
 
      "I have not told her," said the doctor gruffly--, "but here come
 the police."
 
      The little priest had stepped out into the main avenue,
-and now returned with the fallen sword, which looked ludicrously large
+and now returned with the fallen [[Sword|sword]], which looked ludicrously large
 and theatrical when attached to his dumpy figure, at once clerical
 and commonplace.  "Just before the police come," he said apologetically,
 "has anyone got a light?"
@@ -392,26 +392,26 @@ and the priest held it close to the middle part of the blade,
 which he examined with blinking care.  Then, without glancing at
 the point or pommel, he handed the long weapon to the doctor.
 
-     "I fear I'm no use here," he said, with a brief sigh. 
-"I'll say good night to you, gentlemen." And he walked away
-up the dark avenue towards the house, his hands clasped behind him
+     "I [[Fear|fear]] I'm no use here," he said, with a brief sigh. 
+"I'll say good [[Night|night]] to you, gentlemen." And he walked away
+up the dark avenue towards the [[house]], his hands clasped behind him
 and his big head bent in cogitation.
 
      The rest of the group made increased haste towards the lodge-gates,
 where an inspector and two constables could already be seen
 in consultation with the lodge-keeper.  But the little priest
 only walked slower and slower in the dim cloister of pine, and at last
-stopped dead, on the steps of the house.  It was his silent way
+stopped dead, on the steps of the [[house]].  It was his silent way
 of acknowledging an equally silent approach; for there came towards
 him a presence that might have satisfied even Calhoun Kidd's demands
-for a lovely and aristocratic ghost.  It was a young woman
+for a lovely and aristocratic [[Ghost|ghost]].  It was a young woman
 in silvery satins of a Renascence design; she had golden hair
 in two long shining ropes, and a face so startingly pale between them
 that she might have been chryselephantine--made, that is, like some
 old Greek statues, out of ivory and gold.  But her eyes were very bright,
 and her voice, though low, was confident.
 
-     "Father Brown?" she said.
+     "[[Father Brown]]?" she said.
 
      "Mrs Boulnois?" he replied gravely.  Then he looked at her and
 immediately said:  "I see you know about Sir Claude."
@@ -421,29 +421,29 @@ immediately said:  "I see you know about Sir Claude."
      He did not answer the question, but asked another:  "Have you
 seen your husband?"
 
-     "My husband is at home," she said.  "He has nothing to do with this."
+     "My husband is at [[Home|home]]," she said.  "He has nothing to do with this."
 
      Again he did not answer; and the woman drew nearer to him,
 with a curiously intense expression on her face.
 
      "Shall I tell you something more?" she said, with a rather
 fearful smile.  "I don't think he did it, and you don't either."
-Father Brown returned her gaze with a long, grave stare, and then nodded,
+[[Father Brown]] returned her gaze with a long, [[Grave|grave]] stare, and then nodded,
 yet more gravely.
 
-     "Father Brown," said the lady, "I am going to tell you all I know,
+     "[[Father Brown]]," said the lady, "I am going to tell you all I know,
 but I want you to do me a favour first.  Will you tell me why
-you haven't jumped to the conclusion of poor John's guilt,
+you haven't jumped to the conclusion of poor John's [[Guilt|guilt]],
 as all the rest have done?   Don't mind what you say:  I--I know about
 the gossip and the appearances that are against me."
 
-     Father Brown looked honestly embarrassed, and passed his hand
+     [[Father Brown]] looked honestly embarrassed, and passed his hand
 across his forehead.  "Two very little things," he said. 
 "At least, one's very trivial and the other very vague. 
 But such as they are, they don't fit in with Mr Boulnois
 being the murderer."
 
-     He turned his blank, round face up to the stars and
+     He turned his blank, round face up to the [[Stars|stars]] and
 continued absentmindedly:  "To take the vague idea first. 
 I attach a good deal of importance to vague ideas.  All those things that
 `aren't evidence' are what convince me.  I think a moral impossibility
@@ -540,15 +540,15 @@ sitting in the gate.'"
 
      "The crisis came," Mrs Boulnois continued, "when I persuaded John
 to let me take down some of his speculations and send them to a magazine. 
-They began to attract attention, especially in America, and one paper
+They began to attract attention, especially in [[america|America]], and one paper
 wanted to interview him. When Champion (who was interviewed
-nearly every day) heard of this late little crumb of success
+nearly every day) heard of this late little crumb of [[success]]
 falling to his unconscious rival, the last link snapped that held back
 his devilish hatred. Then he began to lay that insane siege to my own
-love and honour which has been the talk of the shire.  You will ask me
+[[Love|love]] and [[Honour|honour]] which has been the talk of the shire.  You will ask me
 why I allowed such atrocious attentions.  I answer that I could not have
 declined them except by explaining to my husband, and there are
-some things the soul cannot do, as the body cannot fly. 
+some things the [[Soul|soul]] cannot do, as the [[Body|body]] cannot fly. 
 Nobody could have explained to my husband.  Nobody could do it now. 
 If you said to him in so many words, `Champion is stealing your wife,'
 he would think the joke a little vulgar:  that it could be anything
@@ -585,21 +585,21 @@ scuttling up the path towards the Park gates.  He turned once to say:
 all over the Republic in large letters."
 
      "You don't understand," said Mrs Boulnois.  "He wouldn't mind. 
-I don't think he imagines that America really is a place."
+I don't think he imagines that [[america|America]] really is a place."
 
-     When Father Brown reached the house with the beehive and
+     When [[Father Brown]] reached the [[house]] with the beehive and
 the drowsy dog, a small and neat maid-servant showed him into
 the dining-room, where Boulnois sat reading by a shaded lamp,
 exactly as his wife described him.  A decanter of port and a wineglass
 were at his elbow; and the instant the priest entered he noted
 the long ash stand out unbroken on his cigar.
 
-     "He has been here for half an hour at least," thought Father Brown. 
+     "He has been here for half an hour at least," thought [[Father Brown]]. 
 In fact, he had the air of sitting where he had sat when his dinner
 was cleared away.
 
      "Don't get up, Mr Boulnois," said the priest in his pleasant,
-prosaic way.  "I shan't interrupt you a moment.  I fear I break in on
+prosaic way.  "I shan't interrupt you a moment.  I [[Fear|fear]] I break in on
 some of your scientific studies."
 
      "No," said Boulnois; "I was reading `The Bloody Thumb.'"
@@ -614,12 +614,12 @@ triangular opening of shirt-front:  he had assumed it that evening
 in his original purpose of going to see his wife act Juliet.
 
      "I won't keep you long from `The Bloody Thumb' or any other
-catastrophic affairs," said Father Brown, smiling.  "I only came
+catastrophic affairs," said [[Father Brown]], smiling.  "I only came
 to ask you about the crime you committed this evening."
 
      Boulnois looked at him steadily, but a red bar began to show
 across his broad brow; and he seemed like one discovering embarrassment
-for the first time.
+for the first [[Time|time]].
 
      "I know it was a strange crime," assented Brown in a low voice. 
 "Stranger than murder perhaps--to you.  The little sins are sometimes
@@ -629,14 +629,14 @@ six times a week:  and yet you find it sticks to your tongue like
 a nameless atrocity."
 
      "It makes one feel," said the philosopher slowly, "such a
-damned fool."
+damned [[Fool|fool]]."
 
      "I know," assented the other, "but one often has to choose
-between feeling a damned fool and being one."
+between feeling a damned [[Fool|fool]] and being one."
 
-     "I can't analyse myself well," went on Boulnois; "but sitting
+     "I can't analyse myself [[Well|well]]," went on Boulnois; "but sitting
 in that chair with that story I was as happy as a schoolboy
-on a half-holiday.  It was security, eternity--I can't convey it...
+on a half-holiday.  It was security, [[Eternity|eternity]]--I can't convey it...
 the cigars were within reach...the matches were within reach...
 the Thumb had four more appearances to...it was not only a peace,
 but a plenitude.  Then that bell rang, and I thought for one long,
@@ -648,11 +648,11 @@ to speak and his notebook open to write in.  I remembered the Yankee
 interviewer I had forgotten.  His hair was parted in the middle,
 and I tell you that murder--"
 
-     "I understand," said Father Brown.  "I've seen him."
+     "I understand," said [[Father Brown]].  "I've seen him."
 
      "I didn't commit murder," continued the Catastrophist mildly,
 "but only perjury.  I said I had gone across to Pendragon Park
-and shut the door in his face.  That is my crime, Father Brown,
+and shut the door in his face.  That is my crime, [[Father Brown]],
 and I don't know what penance you would inflict for it."
 
      "I shan't inflict any penance," said the clerical gentleman,
@@ -663,7 +663,7 @@ penance which would otherwise have followed your little offence."
      "And what," asked Boulnois, smiling, "is the little penance
 I have so luckily been let off?"
 
-     "Being hanged," said Father Brown.
+     "Being hanged," said [[Father Brown]].
 
 
 

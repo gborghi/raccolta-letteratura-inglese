@@ -25,13 +25,13 @@ But it seems to me that in many ways it is they who were frivolous and
 their descendants who are serious; quite unduly serious.  For instance,
 what is hailed as a new style or a new school in literature often
 consists of doing as a novelty what a Victorian did long ago as a joke.
-Thus we have, in Mr. James Joyce or Miss Gertrude Stein, the coining
+Thus we have, in Mr. James Joyce or Miss [[Gertrude]] Stein, the coining
 of new words by the confusion of old words; the running of words
 together so as to suggest some muddle in the sub-consciousness. I
 do not recall the particular examples, but they would think nothing
 of saying that somebody was "drurgling," meaning "gurgling when drunk,"
 or that somebody else was "widaslepe," meaning that he had fallen asleep
-at the moment of saying he was wide awake.  I do not doubt that they
+at the moment of saying he was wide awake.  I do not [[Doubt|doubt]] that they
 really do this much more cleverly than I can imitate it.  In expressing
 confused ideas, the moderns have great subtlety and sympathy.  It is
 in expressing clear ideas that they generally find their limitations.
@@ -71,7 +71,7 @@ regarded as uncommon, ugly, obscure, _outré,_ or over-subtle.
 And the extraordinary thing is that it is exactly those writers
 who have faded out of fashion and favour.  There is much less
 intellectual excitement than there used to be about Browning.
-There is a quite startling silence and indifference about Meredith.
+There is a quite startling [[Silence|silence]] and indifference about Meredith.
 Here again I am in no sense dealing with my own preferences,
 or discussing whether I regret or rejoice in these changes.
 It so happens that I always have been, and still am, very fond
@@ -94,7 +94,7 @@ and freedoms, twists and turns, of the true Meredithian dialect.
 There is a moral to the Victorian Age, and it is a lesson
 of something to avoid.  But it is rather a warning against
 being unconventional than merely against being conventional.
-We have many odd writers, writing in odd styles, in our own time;
+We have many odd writers, writing in odd styles, in our own [[Time|time]];
 and they may or may not retain influence in later times.
 But I cannot remember a single Victorian with an odd style whose odd
 style is now of any advantage to him:  not Carlyle; not Browning;
@@ -102,13 +102,13 @@ not Meredith; not Doughty.  The one solitary exception I remember,
 whose name has somewhat floated to the surface again of late,
 is that of Gerard Hopkins.
 
-Thus I have a purely intellectual doubt of the future of fads,
+Thus I have a purely intellectual [[Doubt|doubt]] of the future of fads,
 and even of fancies, unless they are treated frankly in a
 fanciful manner.  I do not think any such experiment succeeds
 in twisting the tradition of language out of its common tendency.
 I can easily believe that a book like _Ulysses_ is a striking
-and original book in its place and time; like _Sartor Resartus_
-in its place and time.  But I do not believe that Mr. Joyce
+and original book in its place and [[Time|time]]; like _Sartor Resartus_
+in its place and [[Time|time]].  But I do not believe that Mr. Joyce
 has added a new range or direction to literary expression,
 any more than Carlyle succeeded in turning the English language
 into a bastard barbaric version of the German language.
@@ -118,14 +118,14 @@ just as George Meredith certainly liked having his little joke
 at the expense of the reader.  But the fact remains that,
 at the present moment, the trouble is not that the reader does
 not understand him, but that the reader does not read him.
-I grieve to say, from what I know of human nature and history,
-that I doubt whether posterity will even try to understand
+I grieve to say, from what I know of human [[Nature|nature]] and [[history]],
+that I [[Doubt|doubt]] whether posterity will even try to understand
 Miss Stein.  So that she will share her little joke with her
 Creator until the end; which may be quite a good joke too.
 But the theory that has been so common of late, the theory that
 the evolution of literature branches out into new experiments,
 and always follows the line of those experiments, seems to me
-to be flatly contradicted by all the facts of literary history.
+to be flatly contradicted by all the facts of literary [[history]].
 It seems to me an objective fact quite apart from my own preferences;
 indeed, it sometimes goes against my own preferences.
 Crashaw and the Cavalier mystics were, in the best sense
@@ -140,20 +140,20 @@ of Dryden and died on the birthday of Burns.
 
 Nobody knows what will be the fashion a hundred years hence,
 except that it will almost certainly not be anything that is
-considered the newest fashion today.  If I know that a river has
+considered the newest fashion today.  If I know that a [[River|river]] has
 wandered in winding curves from its original fountain, I may be
 quite unable to guess where it eventually wanders after it has
 passed where I stand.  The one thing I can be fairly sure of is
 that it will not suddenly begin to go quite straight like a canal.
 As a mere matter of guess-work, given the tendencies
-of our time, I should think it would be extremely probable
+of our [[Time|time]], I should think it would be extremely probable
 that literature will give up all this notion of experiment,
 and not only return to type, but even to the classical type.
 I think it much more likely that there will then be a worship
 of Landor, for instance, or some rather neglected classical classic,
 than that the whole world will be looking back to Miss Stein
 as the mother of modern English prose.  We see the tendency
-in the Thomists of France, in the Humanists of America, and I
+in the Thomists of France, in the Humanists of [[america|America]], and I
 think it is likely to become rather more classical than I like.
 For I am a romantic person myself; and I also like my little joke,
 just like Miss Stein.

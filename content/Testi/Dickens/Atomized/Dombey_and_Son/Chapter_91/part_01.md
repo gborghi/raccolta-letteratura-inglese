@@ -21,40 +21,40 @@ The Happy Pair
 The dark blot on the street is gone. Mr Dombey’s mansion, if it be a
 gap among the other houses any longer, is only so because it is not to
 be vied with in its brightness, and haughtily casts them off. The
-saying is, that home is home, be it never so homely. If it hold good in
-the opposite contingency, and home is home be it never so stately, what
+saying is, that [[Home|home]] is [[Home|home]], be it never so homely. If it hold good in
+the opposite contingency, and [[Home|home]] is [[Home|home]] be it never so stately, what
 an altar to the Household Gods is raised up here!
 
 Lights are sparkling in the windows this evening, and the ruddy glow of
 fires is warm and bright upon the hangings and soft carpets, and the
 dinner waits to be served, and the dinner-table is handsomely set
 forth, though only for four persons, and the side board is cumbrous
-with plate. It is the first time that the house has been arranged for
+with plate. It is the first [[Time|time]] that the [[house]] has been arranged for
 occupation since its late changes, and the happy pair are looked for
 every minute.
 
 Only second to the wedding morning, in the interest and expectation it
-engenders among the household, is this evening of the coming home. Mrs
+engenders among the household, is this evening of the coming [[Home|home]]. Mrs
 Perch is in the kitchen taking tea; and has made the tour of the
 establishment, and priced the silks and damasks by the yard, and
 exhausted every interjection in the dictionary and out of it expressive
-of admiration and wonder. The upholsterer’s foreman, who has left his
+of admiration and [[Wonder|wonder]]. The upholsterer’s foreman, who has left his
 hat, with a pocket-handkerchief in it, both smelling strongly of
-varnish, under a chair in the hall, lurks about the house, gazing
+varnish, under a chair in the hall, lurks about the [[house]], gazing
 upwards at the cornices, and downward at the carpets, and occasionally,
 in a silent transport of enjoyment, taking a rule out of his pocket,
 and skirmishingly measuring expensive objects, with unutterable
 feelings. Cook is in high spirits, and says give her a place where
 there’s plenty of company (as she’ll bet you sixpence there will be
 now), for she is of a lively disposition, and she always was from a
-child, and she don’t mind who knows it; which sentiment elicits from
+[[Child|child]], and she don’t mind who knows it; which sentiment elicits from
 the breast of Mrs Perch a responsive murmur of support and approbation.
-All the housemaid hopes is, happiness for ’em—but marriage is a
+All the housemaid hopes is, happiness for ’em—but [[Marriage|marriage]] is a
 lottery, and the more she thinks about it, the more she feels the
 independence and the safety of a single life. Mr Towlinson is saturnine
 and grim, and says that’s his opinion too, and give him War besides,
 and down with the French—for this young man has a general impression
-that every foreigner is a Frenchman, and must be by the laws of nature.
+that every foreigner is a Frenchman, and must be by the laws of [[Nature|nature]].
 
 At each new sound of wheels, they all stop, whatever they are saying,
 and listen; and more than once there is a general starting up and a cry
@@ -65,7 +65,7 @@ reverie!
 
 Florence is ready to receive her father and her new Mama. Whether the
 emotions that are throbbing in her breast originate in pleasure or in
-pain, she hardly knows. But the fluttering heart sends added colour to
+[[Pain|pain]], she hardly knows. But the fluttering heart sends added colour to
 her cheeks, and brightness to her eyes; and they say downstairs,
 drawing their heads together—for they always speak softly when they
 speak of her—how beautiful Miss Florence looks tonight, and what a
@@ -73,12 +73,12 @@ sweet young lady she has grown, poor dear! A pause succeeds; and then
 Cook, feeling, as president, that her sentiments are waited for,
 wonders whether—and there stops. The housemaid wonders too, and so does
 Mrs Perch, who has the happy social faculty of always wondering when
-other people wonder, without being at all particular what she wonders
+other people [[Wonder|wonder]], without being at all particular what she wonders
 at. Mr Towlinson, who now descries an opportunity of bringing down the
 spirits of the ladies to his own level, says wait and see; he wishes
-some people were well out of this. Cook leads a sigh then, and a murmur
+some people were [[Well|well]] out of this. Cook leads a sigh then, and a murmur
 of “Ah, it’s a strange world, it is indeed!” and when it has gone round
-the table, adds persuasively, “but Miss Florence can’t well be the
+the table, adds persuasively, “but Miss Florence can’t [[Well|well]] be the
 worse for any change, Tom.” Mr Towlinson’s rejoinder, pregnant with
 frightful meaning, is “Oh, can’t she though!” and sensible that a mere
 man can scarcely be more prophetic, or improve upon that, he holds his
@@ -90,15 +90,15 @@ youthful costume, with short sleeves. At present, however, her ripe
 charms are blooming in the shade of her own apartments, whence she had
 not emerged since she took possession of them a few hours ago, and
 where she is fast growing fretful, on account of the postponement of
-dinner. The maid who ought to be a skeleton, but is in truth a buxom
-damsel, is, on the other hand, in a most amiable state: considering her
+dinner. The maid who ought to be a [[skeleton]], but is in [[Truth|truth]] a buxom
+[[Damsel|damsel]], is, on the other hand, in a most amiable state: considering her
 quarterly stipend much safer than heretofore, and foreseeing a great
 improvement in her board and lodging.
 
-Where are the happy pair, for whom this brave home is waiting? Do
-steam, tide, wind, and horses, all abate their speed, to linger on such
+Where are the happy pair, for whom this brave [[Home|home]] is waiting? Do
+steam, tide, [[Wind|wind]], and horses, all abate their [[Speed|speed]], to linger on such
 happiness? Does the swarm of loves and graces hovering about them
-retard their progress by its numbers? Are there so many flowers in
+retard their progress by its numbers? Are there so many [[Flowers|flowers]] in
 their happy path, that they can scarcely move along, without
 entanglement in thornless roses, and sweetest briar?
 
@@ -126,5 +126,5 @@ shown before. It even expressed a kind of faint surprise, and not a
 disagreeable surprise, at sight of her. She dared not raise her eyes to
 his any more; but she felt that he looked at her once again, and not
 less favourably. Oh what a thrill of joy shot through her, awakened by
-even this intangible and baseless confirmation of her hope that she
+even this intangible and baseless confirmation of her [[Hope|hope]] that she
 would learn to win him, through her new and beautiful Mama!

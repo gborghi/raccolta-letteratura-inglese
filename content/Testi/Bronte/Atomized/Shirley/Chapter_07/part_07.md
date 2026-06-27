@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 7)"
+title: "[[Shirley]] — Chapter 7 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -60,7 +60,7 @@ Caroline's elbow, to her unmitigated annoyance, for she had a peculiar
 
 antipathy to Donne, on account of his stultified and immovable
 
-self-conceit and his incurable narrowness of mind. Malone, grinning most
+[[Self|self]]-conceit and his incurable narrowness of mind. Malone, grinning most
 
 unmeaningly, inducted himself into the corresponding seat on the other
 
@@ -92,13 +92,13 @@ he had ready cut and dried, which he never failed to produce:--
 
 
 
-3rdly. "Does your class at the Sunday school keep up its number?"
+3rdly. "Does your class at the [[Sunday]] school keep up its number?"
 
 
 
 These three questions being put and responded to, between Caroline and
 
-Malone reigned silence.
+Malone reigned [[Silence|silence]].
 
 
 
@@ -106,7 +106,7 @@ With Donne it was otherwise; he was troublesome, exasperating. He had a
 
 stock of small-talk on hand, at once the most trite and perverse that
 
-can well be imagined--abuse of the people of Briarfield; of the natives
+can [[Well|well]] be imagined--abuse of the people of Briarfield; of the natives
 
 of Yorkshire generally; complaints of the want of high society; of the
 
@@ -144,7 +144,7 @@ he had entered the church for, since he complained there were only
 
 cottages to visit, and poor people to preach to--whether he had been
 
-ordained to the ministry merely to wear soft clothing and sit in king's
+ordained to the ministry merely to wear soft clothing and sit in [[King|king]]'s
 
 houses. These questions were considered by all the curates as, to the
 
@@ -152,7 +152,7 @@ last degree, audacious and impious.
 
 
 
-Tea was a long time in progress; all the guests gabbled as their hostess
+Tea was a long [[Time|time]] in progress; all the guests gabbled as their hostess
 
 had expected they would. Mr. Helstone, being in excellent spirits--when,
 
@@ -182,15 +182,15 @@ thrown away.
 
 Hannah was his favourite. Harriet, though beautiful, egotistical, and
 
-self-satisfied, was not quite weak enough for him. She had some genuine
+[[Self|self]]-satisfied, was not quite weak enough for him. She had some genuine
 
-self-respect amidst much false pride, and if she did not talk like an
+[[Self|self]]-respect amidst much false [[Pride|pride]], and if she did not talk like an
 
 oracle, neither would she babble like one crazy; she would not permit
 
-herself to be treated quite as a doll, a child, a plaything; she
+herself to be treated quite as a doll, a [[Child|child]], a plaything; she
 
-expected to be bent to like a queen.
+expected to be bent to like a [[Queen|queen]].
 
 
 
@@ -204,10 +204,10 @@ very silly did she become when besieged with attention, flattered and
 
 admired to the proper degree, that there were moments when Helstone
 
-actually felt tempted to commit matrimony a second time, and to try the
+actually felt tempted to commit matrimony a second [[Time|time]], and to try the
 
 experiment of taking her for his second helpmeet; but fortunately the
 
-salutary recollection of the _ennuis_ of his first marriage, the
+salutary recollection of the _ennuis_ of his first [[Marriage|marriage]], the
 
 impression still left on him of the weight of the millstone he had once

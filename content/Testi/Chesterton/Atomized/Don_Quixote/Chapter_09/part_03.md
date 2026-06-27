@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 8 (part 3)"
+title: "[[Don Quixote]] — Chapter 8 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -20,12 +20,12 @@ through loose and soft sand, when he himself would be only too
 delighted to leap from crag to crag or from crisis to crisis.
 When he would fain take the wings of a dove and fly away and be
 at rest in some reposeful murder, shipwreck, revolution or
-universal conflagration, he is condemned for a time to toil
-along the dusty road which is the way such things happen;
+universal conflagration, he is condemned for a [[Time|time]] to toil
+along the dusty [[Road|road]] which is the way such things happen;
 and must pass through a purgatory of law and order before
-entering his paradise of blood and ruin.  Realism is dull;
-that is what is meant by saying that realism alone tells
-the truth about our intense and intelligent civilisation.
+entering his paradise of [[Blood|blood]] and ruin.  Realism is dull;
+that is what is meant by saying that realism [[Alone|alone]] tells
+the [[Truth|truth]] about our intense and intelligent civilisation.
 Thus, for instance, nothing but a mass of most monotonous detail
 could convey to the reader any impression of the real conversation
 between Mr. Douglas Murrel and the young woman selling him,
@@ -38,7 +38,7 @@ notion of the phases through which the wondering face of the
 saleswoman passed, or the variation in her artless comments.
 How should rapid narrative describe how big business dealt
 with the problem?  How she said they had got illumination
-colours and produced water colours in a shilling box.
+colours and produced [[Water|water]] colours in a shilling box.
 How she then said they had not got illumination colours
 and implied that there were no such things in the world;
 that they were a fevered dream of the customer's fancy.
@@ -53,15 +53,15 @@ effect of appearing to give her a cold in her head,
 and causing her to answer all further remarks by saying:
 "Dote know, I'be sure."
 
-All this would have to occupy as much space as it did time,
+All this would have to occupy as much space as it did [[Time|time]],
 before the effect on the customer could be found excusable,
 especially to himself.  A wild protest against the preposterousness
-of things in general surged up inside him; a sort of melodrama
+of things in general surged up inside him; a sort of [[Melodrama|melodrama]]
 that found its energy in mockery.  He leaned over the counter
 in a lowering and almost bullying fashion, and said:
 "Where is Hendry?  What have you done with Hendry, that household word?
 Why all these dark evasions when Hendry is mentioned;
-this sinister and significant silence on this one subject;
+this sinister and significant [[Silence|silence]] on this one subject;
 this still more sinister and significant changing of the subject?
 Why do you tear the conversation away towards pastels?
 Why do you erect a screen or barricade of cheap chalks and
@@ -75,7 +75,7 @@ overwhelmed his good-natured spirit with shame; he stopped in the middle
 of a sentence, hesitated, and then adopted another method for pursuing
 his purpose.  Putting his hand hastily into his pocket, he pulled out some
 envelopes and a card-case, and presenting his name, asked with courtesy,
-and almost humility, if he could see the manager of the department.
+and almost [[Humility|humility]], if he could see the manager of the department.
 He gave the girl his card, and the next moment regretted that also.
 
 There was one weak side of the many-sided Mr. Murrel
@@ -87,9 +87,9 @@ It would be cant to say that he was always unconscious of his rank.
 Somewhere deep inside him, perhaps, he was even too conscious of it.
 But it was deeply embedded in him that the only way to defend
 it was to ignore it.  Moreover, there was a certain complexity
-and conflict; and some pride in the accident of being born
+and conflict; and some [[Pride|pride]] in the accident of being born
 with a few others "in the know" wrestled with the real
-and deep desire of all masculine men for equality.
+and deep [[Desire|desire]] of all masculine men for equality.
 The one thing that embarrassed him was any such reminder,
 and he remembered too late that his card and address carried
 certain indications of such things; a club and a formal title.
@@ -104,10 +104,10 @@ apartment of one evidently in authority.
 
 "Wonderful place you have here," he said cheerfully.
 "All done by organisation, I suppose.  I expect you could pretty
-well get into touch with all the trade conditions in the world
+[[Well|well]] get into touch with all the trade conditions in the world
 if you put your machinery to work."
 
-The manager, however shrewd, had a vanity in such things,
+The manager, however shrewd, had a [[Vanity|vanity]] in such things,
 and before the conversation had gone much further had committed
 himself to very vast and universal claims to knowledge.
 
@@ -118,7 +118,7 @@ a friend of her father and of the old group that worked
 with William Morris.
 
 "He was a man who understood his subject very thoroughly,
-on the scientific as well as the artistic side.  Indeed, I believe
+on the scientific as [[Well|well]] as the artistic side.  Indeed, I believe
 he had originally been a doctor and a chemical expert of some note,
 when he took up this particular business of producing the right
 pigments for the reproduction of medieval work.

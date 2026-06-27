@@ -26,7 +26,7 @@ black knob of an eye, and his figure in its old attitude of indomitable
 alacrity, the Midshipman displayed his elfin small-clothes to the best
 advantage, and, absorbed in scientific pursuits, had no sympathy with
 worldly concerns. He was so far the creature of circumstances, that a
-dry day covered him with dust, and a misty day peppered him with little
+dry day covered him with [[Dust|dust]], and a misty day peppered him with little
 bits of soot, and a wet day brightened up his tarnished uniform for the
 moment, and a very hot day blistered him; but otherwise he was a
 callous, obdurate, conceited Midshipman, intent on his own discoveries,
@@ -34,7 +34,7 @@ and caring as little for what went on about him, terrestrially, as
 Archimedes at the taking of Syracuse.
 
 Such a Midshipman he seemed to be, at least, in the then position of
-domestic affairs. Walter eyed him kindly many a time in passing in and
+domestic affairs. Walter eyed him kindly many a [[Time|time]] in passing in and
 out; and poor old Sol, when Walter was not there, would come and lean
 against the doorpost, resting his weary wig as near the shoe-buckles of
 the guardian genius of his trade and shop as he could. But no fierce
@@ -43,34 +43,34 @@ parrot’s feathers, was ever more indifferent to the appeals of its
 savage votaries, than was the Midshipman to these marks of attachment.
 
 Walter’s heart felt heavy as he looked round his old bedroom, up among
-the parapets and chimney-pots, and thought that one more night already
+the parapets and chimney-pots, and thought that one more [[Night|night]] already
 darkening would close his acquaintance with it, perhaps for ever.
 Dismantled of his little stock of books and pictures, it looked coldly
 and reproachfully on him for his desertion, and had already a
 foreshadowing upon it of its coming strangeness. “A few hours more,”
 thought Walter, “and no dream I ever had here when I was a schoolboy
 will be so little mine as this old room. The dream may come back in my
-sleep, and I may return waking to this place, it may be: but the dream
+[[Sleep|sleep]], and I may return waking to this place, it may be: but the dream
 at least will serve no other master, and the room may have a score, and
 every one of them may change, neglect, misuse it.”
 
-But his Uncle was not to be left alone in the little back parlour,
-where he was then sitting by himself; for Captain Cuttle, considerate
+But his Uncle was not to be left [[Alone|alone]] in the little back parlour,
+where he was then sitting by himself; for [[Captain Cuttle]], considerate
 in his roughness, stayed away against his will, purposely that they
 should have some talk together unobserved: so Walter, newly returned
-home from his last day’s bustle, descended briskly, to bear him
+[[Home|home]] from his last day’s bustle, descended briskly, to bear him
 company.
 
 “Uncle,” he said gaily, laying his hand upon the old man’s shoulder,
-“what shall I send you home from Barbados?”
+“what shall I send you [[Home|home]] from Barbados?”
 
-“Hope, my dear Wally. Hope that we shall meet again, on this side of
-the grave. Send me as much of that as you can.”
+“[[Hope]], my dear Wally. [[Hope]] that we shall meet again, on this side of
+the [[Grave|grave]]. Send me as much of that as you can.”
 
 “So I will, Uncle: I have enough and to spare, and I’ll not be chary of
-it! And as to lively turtles, and limes for Captain Cuttle’s punch, and
+it! And as to lively turtles, and limes for [[Captain Cuttle]]’s punch, and
 preserves for you on Sundays, and all that sort of thing, why I’ll send
-you ship-loads, Uncle: when I’m rich enough.”
+you [[Ship|ship]]-loads, Uncle: when I’m rich enough.”
 
 Old Sol wiped his spectacles, and faintly smiled.
 
@@ -87,7 +87,7 @@ best best that I know. You’ll not forget what you’re to send me,
 Uncle?”
 
 “No, Wally, no,” replied the old man; “everything I hear about Miss
-Dombey, now that she is left alone, poor lamb, I’ll write. I fear it
+Dombey, now that she is left [[Alone|alone]], poor [[Lamb|lamb]], I’ll write. I [[Fear|fear]] it
 won’t be much though, Wally.”
 
 “Why, I’ll tell you what, Uncle,” said Walter, after a moment’s
@@ -106,8 +106,8 @@ abstraction.
 
 “So I saw her,” pursued Walter, “Susan, I mean: and I told her I was
 off and away to-morrow. And I said, Uncle, that you had always had an
-interest in Miss Dombey since that night when she was here, and always
-wished her well and happy, and always would be proud and glad to serve
+interest in Miss Dombey since that [[Night|night]] when she was here, and always
+wished her [[Well|well]] and happy, and always would be proud and glad to serve
 her in the least: I thought I might say that, you know, under the
 circumstances. Don’t you think so?”
 
@@ -115,10 +115,10 @@ circumstances. Don’t you think so?”
 
 “And I added,” pursued Walter, “that if she—Susan, I mean—could ever
 let you know, either through herself, or Mrs Richards, or anybody else
-who might be coming this way, that Miss Dombey was well and happy, you
+who might be coming this way, that Miss Dombey was [[Well|well]] and happy, you
 would take it very kindly, and would write so much to me, and I should
 take it very kindly too. There! Upon my word, Uncle,” said Walter, “I
-scarcely slept all last night through thinking of doing this; and could
+scarcely slept all last [[Night|night]] through thinking of doing this; and could
 not make up my mind when I was out, whether to do it or not; and yet I
 am sure it is the true feeling of my heart, and I should have been
 quite miserable afterwards if I had not relieved it.”
@@ -129,31 +129,31 @@ established its ingenuousness.
 “So, if you ever see her, Uncle,” said Walter, “I mean Miss Dombey
 now—and perhaps you may, who knows!—tell her how much I felt for her;
 how much I used to think of her when I was here; how I spoke of her,
-with the tears in my eyes, Uncle, on this last night before I went
+with the [[Tears|tears]] in my eyes, Uncle, on this last [[Night|night]] before I went
 away. Tell her that I said I never could forget her gentle manner, or
 her beautiful face, or her sweet kind disposition that was better than
 all. And as I didn’t take them from a woman’s feet, or a young lady’s:
-only a little innocent child’s,” said Walter: “tell her, if you don’t
+only a little [[Innocent|innocent]] [[Child|child]]’s,” said Walter: “tell her, if you don’t
 mind, Uncle, that I kept those shoes—she’ll remember how often they
-fell off, that night—and took them away with me as a remembrance!”
+fell off, that [[Night|night]]—and took them away with me as a remembrance!”
 
 They were at that very moment going out at the door in one of Walter’s
 trunks. A porter carrying off his baggage on a truck for shipment at
 the docks on board the Son and Heir, had got possession of them; and
 wheeled them away under the very eye of the insensible Midshipman
-before their owner had well finished speaking.
+before their owner had [[Well|well]] finished speaking.
 
-But that ancient mariner might have been excused his insensibility to
+But that [[Ancient Mariner|ancient mariner]] might have been excused his insensibility to
 the treasure as it rolled away. For, under his eye at the same moment,
 accurately within his range of observation, coming full into the sphere
 of his startled and intensely wide-awake look-out, were Florence and
-Susan Nipper: Florence looking up into his face half timidly, and
+[[Susan Nipper]]: Florence looking up into his face half timidly, and
 receiving the whole shock of his wooden ogling!
 
 More than this, they passed into the shop, and passed in at the parlour
 door before they were observed by anybody but the Midshipman. And
 Walter, having his back to the door, would have known nothing of their
-apparition even then, but for seeing his Uncle spring out of his own
+apparition even then, but for seeing his Uncle [[Spring|spring]] out of his own
 chair, and nearly tumble over another.
 
 [Illustration]
@@ -168,7 +168,7 @@ turn. “Here!”
 Why, It was so possible and so actual, that, while the words were on
 his lips, Florence hurried past him; took Uncle Sol’s snuff-coloured
 lapels, one in each hand; kissed him on the cheek; and turning, gave
-her hand to Walter with a simple truth and earnestness that was her
+her hand to Walter with a simple [[Truth|truth]] and earnestness that was her
 own, and no one else’s in the world!
 
 “Going away, Walter?” said Florence.
@@ -182,7 +182,7 @@ too.”
 
 “Goodness knows,” exclaimed Miss Nipper, “there’s a many we could spare
 instead, if numbers is a object, Mrs Pipchin as a overseer would come
-cheap at her weight in gold, and if a knowledge of black slavery should
+cheap at her weight in gold, and if a knowledge of black [[Slavery|slavery]] should
 be required, them Blimbers is the very people for the sitiwation.”
 
 With that Miss Nipper untied her bonnet strings, and after looking
@@ -216,15 +216,15 @@ Walter held it for some moments in his own, and could not bear to let
 it go.
 
 Yet Walter did not hold it as he might have held it once, nor did its
-touch awaken those old day-dreams of his boyhood that had floated past
+touch awaken those old day-[[Dreams|dreams]] of his boyhood that had floated past
 him sometimes even lately, and confused him with their indistinct and
-broken shapes. The purity and innocence of her endearing manner, and
+broken shapes. The purity and [[innocence]] of her endearing manner, and
 its perfect trustfulness, and the undisguised regard for him that lay
 so deeply seated in her constant eyes, and glowed upon her fair face
 through the smile that shaded—for alas! it was a smile too sad to
 brighten—it, were not of their romantic race. They brought back to his
-thoughts the early death-bed he had seen her tending, and the love the
-child had borne her; and on the wings of such remembrances she seemed
+thoughts the early [[Death|death]]-bed he had seen her tending, and the [[Love|love]] the
+[[Child|child]] had borne her; and on the wings of such remembrances she seemed
 to rise up, far above his idle fancies, into clearer and serener air.
 
 “I—I am afraid I must call you Walter’s Uncle, Sir,” said Florence to
@@ -234,46 +234,46 @@ the old man, “if you’ll let me.”
 
 “We always knew you by that name, and talked of you,” said Florence,
 glancing round, and sighing gently. “The nice old parlour! Just the
-same! How well I recollect it!”
+same! How [[Well|well]] I recollect it!”
 
 Old Sol looked first at her, then at his nephew, and then rubbed his
-hands, and rubbed his spectacles, and said below his breath, “Ah! time,
-time, time!”
+hands, and rubbed his spectacles, and said below his breath, “Ah! [[Time|time]],
+[[Time|time]], [[Time|time]]!”
 
-There was a short silence; during which Susan Nipper skilfully
+There was a short [[Silence|silence]]; during which [[Susan Nipper]] skilfully
 impounded two extra cups and saucers from the cupboard, and awaited the
 drawing of the tea with a thoughtful air.
 
 “I want to tell Walter’s Uncle,” said Florence, laying her hand timidly
 upon the old man’s as it rested on the table, to bespeak his attention,
-“something that I am anxious about. He is going to be left alone, and
+“something that I am anxious about. He is going to be left [[Alone|alone]], and
 if he will allow me—not to take Walter’s place, for that I couldn’t do,
 but to be his true friend and help him if I ever can while Walter is
 away, I shall be very much obliged to him indeed. Will you? May I,
 Walter’s Uncle?”
 
 The Instrument-maker, without speaking, put her hand to his lips, and
-Susan Nipper, leaning back with her arms crossed, in the chair of
+[[Susan Nipper]], leaning back with her arms crossed, in the chair of
 presidency into which she had voted herself, bit one end of her bonnet
 strings, and heaved a gentle sigh as she looked up at the skylight.
 
 “You will let me come to see you,” said Florence, “when I can; and you
 will tell me everything about yourself and Walter; and you will have no
-secrets from Susan when she comes and I do not, but will confide in us,
+[[Secrets|secrets]] from Susan when she comes and I do not, but will confide in us,
 and trust us, and rely upon us. And you’ll try to let us be a comfort
 to you? Will you, Walter’s Uncle?”
 
 The sweet face looking into his, the gentle pleading eyes, the soft
 voice, and the light touch on his arm made the more winning by a
-child’s respect and honour for his age, that gave to all an air of
-graceful doubt and modest hesitation—these, and her natural
+[[Child|child]]’s respect and [[Honour|honour]] for his age, that gave to all an air of
+graceful [[Doubt|doubt]] and modest hesitation—these, and her natural
 earnestness, so overcame the poor old Instrument-maker, that he only
 answered:
 
 “Wally! say a word for me, my dear. I’m very grateful.”
 
 “No, Walter,” returned Florence with her quiet smile. “Say nothing for
-him, if you please. I understand him very well, and we must learn to
+him, if you please. I understand him very [[Well|well]], and we must learn to
 talk together without you, dear Walter.”
 
 The regretful tone in which she said these latter words, touched Walter
@@ -285,7 +285,7 @@ than my Uncle, what to say in acknowledgment of such kindness, I am
 sure. But what could I say, after all, if I had the power of talking
 for an hour, except that it is like you?”
 
-Susan Nipper began upon a new part of her bonnet string, and nodded at
+[[Susan Nipper]] began upon a new part of her bonnet string, and nodded at
 the skylight, in approval of the sentiment expressed.
 
 “Oh! but, Walter,” said Florence, “there is something that I wish to
@@ -296,7 +296,7 @@ please, and not speak like a stranger.”
 sure, at least, I couldn’t feel like one.”
 
 “Ay, but that is not enough, and is not what I mean. For, Walter,”
-added Florence, bursting into tears, “he liked you very much, and said
+added Florence, bursting into [[Tears|tears]], “he liked you very much, and said
 before he died that he was fond of you, and said ‘Remember Walter!’ and
 if you’ll be a brother to me, Walter, now that he is gone and I have
 none on earth, I’ll be your sister all my life, and think of you like
@@ -306,16 +306,16 @@ I cannot say it as I would, because my heart is full.”
 And in its fulness and its sweet simplicity, she held out both her
 hands to him. Walter taking them, stooped down and touched the tearful
 face that neither shrunk nor turned away, nor reddened as he did so,
-but looked up at him with confidence and truth. In that one moment,
-every shadow of doubt or agitation passed away from Walter’s soul. It
-seemed to him that he responded to her innocent appeal, beside the dead
-child’s bed: and, in the solemn presence he had seen there, pledged
+but looked up at him with confidence and [[Truth|truth]]. In that one moment,
+every [[Shadow|shadow]] of [[Doubt|doubt]] or agitation passed away from Walter’s [[Soul|soul]]. It
+seemed to him that he responded to her [[Innocent|innocent]] appeal, beside the dead
+[[Child|child]]’s bed: and, in the solemn presence he had seen there, pledged
 himself to cherish and protect her very image, in his banishment, with
-brotherly regard; to garner up her simple faith, inviolate; and hold
+brotherly regard; to garner up her simple [[Faith|faith]], inviolate; and hold
 himself degraded if he breathed upon it any thought that was not in her
 own breast when she gave it to him.
 
-Susan Nipper, who had bitten both her bonnet strings at once, and
+[[Susan Nipper]], who had bitten both her bonnet strings at once, and
 imparted a great deal of private emotion to the skylight, during this
 transaction, now changed the subject by inquiring who took milk and who
 took sugar; and being enlightened on these points, poured out the tea.
@@ -328,33 +328,33 @@ Half an hour ago Walter, for his life, would have hardly called her by
 her name. But he could do so now when she entreated him. He could think
 of her being there, without a lurking misgiving that it would have been
 better if she had not come. He could calmly think how beautiful she
-was, how full of promise, what a home some happy man would find in such
+was, how full of promise, what a [[Home|home]] some happy man would find in such
 a heart one day. He could reflect upon his own place in that heart,
-with pride; and with a brave determination, if not to deserve it—he
+with [[Pride|pride]]; and with a brave determination, if not to deserve it—he
 still thought that far above him—never to deserve it less.
 
 Some fairy influence must surely have hovered round the hands of Susan
 Nipper when she made the tea, engendering the tranquil air that reigned
 in the back parlour during its discussion. Some counter-influence must
 surely have hovered round the hands of Uncle Sol’s chronometer, and
-moved them faster than the Tartar frigate ever went before the wind. Be
+moved them faster than the Tartar frigate ever went before the [[Wind|wind]]. Be
 this as it may, the visitors had a coach in waiting at a quiet corner
 not far off; and the chronometer, on being incidentally referred to,
-gave such a positive opinion that it had been waiting a long time, that
-it was impossible to doubt the fact, especially when stated on such
+gave such a positive opinion that it had been waiting a long [[Time|time]], that
+it was impossible to [[Doubt|doubt]] the fact, especially when stated on such
 unimpeachable authority. If Uncle Sol had been going to be hanged by
-his own time, he never would have allowed that the chronometer was too
+his own [[Time|time]], he never would have allowed that the chronometer was too
 fast, by the least fraction of a second.
 
 Florence at parting recapitulated to the old man all that she had said
 before, and bound him to their compact. Uncle Sol attended her lovingly
 to the legs of the wooden Midshipman, and there resigned her to Walter,
-who was ready to escort her and Susan Nipper to the coach.
+who was ready to escort her and [[Susan Nipper]] to the coach.
 
 “Walter,” said Florence by the way, “I have been afraid to ask before
 your Uncle. Do you think you will be absent very long?”
 
-“Indeed,” said Walter, “I don’t know. I fear so. Mr Dombey signified as
+“Indeed,” said Walter, “I don’t know. I [[Fear|fear]] so. Mr Dombey signified as
 much, I thought, when he appointed me.”
 
 “Is it a favour, Walter?” inquired Florence, after a moment’s
@@ -376,25 +376,25 @@ timidly.
 “No reason, Walter!”
 
 “There was no reason,” said Walter, understanding what she meant.
-“There are many people employed in the House. Between Mr Dombey and a
+“There are many people employed in the [[house|House]]. Between Mr Dombey and a
 young man like me, there’s a wide space of separation. If I do my duty,
 I do what I ought, and do no more than all the rest.”
 
 Had Florence any misgiving of which she was hardly conscious: any
 misgiving that had sprung into an indistinct and undefined existence
-since that recent night when she had gone down to her father’s room:
+since that recent [[Night|night]] when she had gone down to her father’s room:
 that Walter’s accidental interest in her, and early knowledge of her,
 might have involved him in that powerful displeasure and dislike? Had
 Walter any such idea, or any sudden thought that it was in her mind at
 that moment? Neither of them hinted at it. Neither of them spoke at
-all, for some short time. Susan, walking on the other side of Walter,
+all, for some short [[Time|time]]. Susan, walking on the other side of Walter,
 eyed them both sharply; and certainly Miss Nipper’s thoughts travelled
 in that direction, and very confidently too.
 
 “You may come back very soon,” said Florence, “perhaps, Walter.”
 
 “I may come back,” said Walter, “an old man, and find you an old lady.
-But I hope for better things.”
+But I [[Hope|hope]] for better things.”
 
 “Papa,” said Florence, after a moment, “will—will recover from his
 grief, and—speak more freely to me one day, perhaps; and if he should,
@@ -402,29 +402,29 @@ I will tell him how much I wish to see you back again, and ask him to
 recall you for my sake.”
 
 There was a touching modulation in these words about her father, that
-Walter understood too well.
+Walter understood too [[Well|well]].
 
 The coach being close at hand, he would have left her without speaking,
 for now he felt what parting was; but Florence held his hand when she
 was seated, and then he found there was a little packet in her own.
 
 “Walter,” she said, looking full upon him with her affectionate eyes,
-“like you, I hope for better things. I will pray for them, and believe
+“like you, I [[Hope|hope]] for better things. I will pray for them, and believe
 that they will arrive. I made this little gift for Paul. Pray take it
-with my love, and do not look at it until you are gone away. And now,
+with my [[Love|love]], and do not look at it until you are gone away. And now,
 God bless you, Walter! never forget me. You are my brother, dear!”
 
-He was glad that Susan Nipper came between them, or he might have left
+He was glad that [[Susan Nipper]] came between them, or he might have left
 her with a sorrowful remembrance of him. He was glad too that she did
 not look out of the coach again, but waved the little hand to him
 instead, as long as he could see it.
 
 In spite of her request, he could not help opening the packet that
-night when he went to bed. It was a little purse: and there was money
+[[Night|night]] when he went to bed. It was a little purse: and there was money
 in it.
 
-Bright rose the sun next morning, from his absence in strange countries
-and up rose Walter with it to receive the Captain, who was already at
+Bright [[Rose|rose]] the sun next morning, from his absence in strange countries
+and up [[Rose|rose]] Walter with it to receive the Captain, who was already at
 the door: having turned out earlier than was necessary, in order to get
 under weigh while Mrs MacStinger was still slumbering. The Captain
 pretended to be in tip-top spirits, and brought a very smoky tongue in
@@ -435,38 +435,38 @@ your Uncle’s the man I think him, he’ll bring out the last bottle of
 the Madeira on the present occasion.”
 
 “No, no, Ned,” returned the old man. “No! That shall be opened when
-Walter comes home again.”
+Walter comes [[Home|home]] again.”
 
-“Well said!” cried the Captain. “Hear him!”
+“[[Well]] said!” cried the Captain. “Hear him!”
 
 “There it lies,” said Sol Gills, “down in the little cellar, covered
 with dirt and cobwebs. There may be dirt and cobwebs over you and me
 perhaps, Ned, before it sees the light.”
 
-“Hear him!” cried the Captain. “Good morality! Wal”r, my lad. Train up
+“Hear him!” cried the Captain. “Good [[morality]]! Wal”r, my lad. Train up
 a fig-tree in the way it should go, and when you are old sit under the
-shade on it. Overhaul the—Well,” said the Captain on second thoughts,
+shade on it. Overhaul the—[[Well]],” said the Captain on second thoughts,
 “I ain’t quite certain where that’s to be found, but when found, make a
 note of. Sol Gills, heave ahead again!”
 
 “But there or somewhere, it shall lie, Ned, until Wally comes back to
 claim it,” said the old man. “That’s all I meant to say.”
 
-“And well said too,” returned the Captain; “and if we three don’t crack
+“And [[Well|well]] said too,” returned the Captain; “and if we three don’t crack
 that bottle in company, I’ll give you two leave to.”
 
 Notwithstanding the Captain’s excessive joviality, he made but a poor
 hand at the smoky tongue, though he tried very hard, when anybody
 looked at him, to appear as if he were eating with a vast appetite. He
-was terribly afraid, likewise, of being left alone with either Uncle or
+was terribly afraid, likewise, of being left [[Alone|alone]] with either Uncle or
 nephew; appearing to consider that his only chance of safety as to
 keeping up appearances, was in there being always three together. This
 terror on the part of the Captain, reduced him to such ingenious
 evasions as running to the door, when Solomon went to put his coat on,
 under pretence of having seen an extraordinary hackney-coach pass: and
-darting out into the road when Walter went upstairs to take leave of
-the lodgers, on a feint of smelling fire in a neighbouring chimney.
-These artifices Captain Cuttle deemed inscrutable by any uninspired
+darting out into the [[Road|road]] when Walter went upstairs to take leave of
+the lodgers, on a feint of smelling [[Fire|fire]] in a neighbouring chimney.
+These artifices [[Captain Cuttle]] deemed inscrutable by any uninspired
 observer.
 
 Walter was coming down from his parting expedition upstairs, and was
@@ -485,8 +485,8 @@ opportunity too. I may venture to speak to you, and to take you by the
 hand, on the eve of separation. I shall not have to resist your frank
 approaches, Walter, any more.”
 
-There was a melancholy in his smile as he said it, that showed he had
-found some company and friendship for his thoughts even in that.
+There was a [[Melancholy|melancholy]] in his smile as he said it, that showed he had
+found some company and [[Friendship|friendship]] for his thoughts even in that.
 
 “Ah, Mr Carker!” returned Walter. “Why did you resist them? You could
 have done me nothing but good, I am very sure.”
@@ -494,7 +494,7 @@ have done me nothing but good, I am very sure.”
 He shook his head. “If there were any good,” he said, “I could do on
 this earth, I would do it, Walter, for you. The sight of you from day
 to day, has been at once happiness and remorse to me. But the pleasure
-has outweighed the pain. I know that, now, by knowing what I lose.”
+has outweighed the [[Pain|pain]]. I know that, now, by knowing what I lose.”
 
 “Come in, Mr Carker, and make acquaintance with my good old Uncle,”
 urged Walter. “I have often talked to him about you, and he will be
@@ -503,12 +503,12 @@ noticing his hesitation, and speaking with embarrassment himself: “I
 have not told him anything about our last conversation, Mr Carker; not
 even him, believe me.
 
-The grey Junior pressed his hand, and tears rose in his eyes.
+The grey Junior pressed his hand, and [[Tears|tears]] [[Rose|rose]] in his eyes.
 
 “If I ever make acquaintance with him, Walter,” he returned, “it will
 be that I may hear tidings of you. Rely on my not wronging your
 forbearance and consideration. It would be to wrong it, not to tell him
-all the truth, before I sought a word of confidence from him. But I
+all the [[Truth|truth]], before I sought a word of confidence from him. But I
 have no friend or acquaintance except you: and even for your sake, am
 little likely to make any.”
 
@@ -525,22 +525,22 @@ emotion.
 
 “If,” said the other, retaining his hand while he spoke; “if when you
 come back, you miss me from my old corner, and should hear from anyone
-where I am lying, come and look upon my grave. Think that I might have
-been as honest and as happy as you! And let me think, when I know time
-is coming on, that some one like my former self may stand there, for a
-moment, and remember me with pity and forgiveness! Walter, good-bye!”
+where I am lying, come and look upon my [[Grave|grave]]. Think that I might have
+been as honest and as happy as you! And let me think, when I know [[Time|time]]
+is coming on, that some one like my former [[Self|self]] may stand there, for a
+moment, and remember me with pity and [[Forgiveness|forgiveness]]! Walter, good-bye!”
 
-His figure crept like a shadow down the bright, sun-lighted street, so
-cheerful yet so solemn in the early summer morning; and slowly passed
+His figure crept like a [[Shadow|shadow]] down the bright, sun-lighted street, so
+cheerful yet so solemn in the early [[Summer|summer]] morning; and slowly passed
 away.
 
 The relentless chronometer at last announced that Walter must turn his
 back upon the wooden Midshipman: and away they went, himself, his
 Uncle, and the Captain, in a hackney-coach to a wharf, where they were
-to take steam-boat for some Reach down the river, the name of which, as
+to take steam-boat for some Reach down the [[River|river]], the name of which, as
 the Captain gave it out, was a hopeless mystery to the ears of
-landsmen. Arrived at this Reach (whither the ship had repaired by last
-night’s tide), they were boarded by various excited watermen, and among
+landsmen. Arrived at this Reach (whither the [[Ship|ship]] had repaired by last
+[[Night|night]]’s tide), they were boarded by various excited watermen, and among
 others by a dirty Cyclops of the Captain’s acquaintance, who, with his
 one eye, had made the Captain out some mile and a half off, and had
 been exchanging unintelligible roars with him ever since. Becoming the
@@ -562,7 +562,7 @@ the hand, “a parting gift, my lad. Put it back half an hour every
 morning, and about another quarter towards the arternoon, and it’s a
 watch that’ll do you credit.”
 
-“Captain Cuttle! I couldn’t think of it!” cried Walter, detaining him,
+“[[Captain Cuttle]]! I couldn’t think of it!” cried Walter, detaining him,
 for he was running away. “Pray take it back. I have one already.”
 
 “Then, Wal”r,” said the Captain, suddenly diving into one of his
@@ -571,10 +571,10 @@ which he had armed himself to meet such an objection, “take this here
 trifle of plate, instead.”
 
 “No, no, I couldn’t indeed!” cried Walter, “a thousand thanks! Don’t
-throw them away, Captain Cuttle!” for the Captain was about to jerk
+throw them away, [[Captain Cuttle]]!” for the Captain was about to jerk
 them overboard. “They’ll be of much more use to you than me. Give me
 your stick. I have often thought I should like to have it. There!
-Good-bye, Captain Cuttle! Take care of my Uncle! Uncle Sol, God bless
+Good-bye, [[Captain Cuttle]]! Take care of my Uncle! Uncle Sol, God bless
 you!”
 
 They were over the side in the confusion, before Walter caught another
@@ -582,25 +582,25 @@ glimpse of either; and when he ran up to the stern, and looked after
 them, he saw his Uncle hanging down his head in the boat, and Captain
 Cuttle rapping him on the back with the great silver watch (it must
 have been very painful), and gesticulating hopefully with the teaspoons
-and sugar-tongs. Catching sight of Walter, Captain Cuttle dropped the
-property into the bottom of the boat with perfect unconcern, being
+and sugar-tongs. Catching sight of Walter, [[Captain Cuttle]] dropped the
+property into the [[Bottom|bottom]] of the boat with perfect unconcern, being
 evidently oblivious of its existence, and pulling off the glazed hat
 hailed him lustily. The glazed hat made quite a show in the sun with
 its glistening, and the Captain continued to wave it until he could be
 seen no longer. Then the confusion on board, which had been rapidly
 increasing, reached its height; two or three other boats went away with
 a cheer; the sails shone bright and full above, as Walter watched them
-spread their surface to the favourable breeze; the water flew in
+spread their surface to the favourable breeze; the [[Water|water]] flew in
 sparkles from the prow; and off upon her voyage went the Son and Heir,
 as hopefully and trippingly as many another son and heir, gone down,
 had started on his way before her.
 
-Day after day, old Sol and Captain Cuttle kept her reckoning in the
+Day after day, old Sol and [[Captain Cuttle]] kept her reckoning in the
 little back parlour and worked out her course, with the chart spread
-before them on the round table. At night, when old Sol climbed
+before them on the round table. At [[Night|night]], when old Sol climbed
 upstairs, so lonely, to the attic where it sometimes blew great guns,
-he looked up at the stars and listened to the wind, and kept a longer
-watch than would have fallen to his lot on board the ship. The last
+he looked up at the [[Stars|stars]] and listened to the [[Wind|wind]], and kept a longer
+watch than would have fallen to his lot on board the [[Ship|ship]]. The last
 bottle of the old Madeira, which had had its cruising days, and known
-its dangers of the deep, lay silently beneath its dust and cobwebs, in
+its dangers of the deep, lay silently beneath its [[Dust|dust]] and cobwebs, in
 the meanwhile, undisturbed.

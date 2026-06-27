@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 38"
+title: "[[Barnaby Rudge]] — Chapter 38"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -29,11 +29,11 @@ go, Dennis.’
 ‘Your servant, master,’ said Hugh, as Grueby disappeared.
 
 ‘Yours, friend,’ returned the secretary in his smoothest manner. ‘What
-brings YOU here? We left nothing behind us, I hope?’
+brings YOU here? We left nothing behind us, I [[Hope|hope]]?’
 
 Hugh gave a short laugh, and thrusting his hand into his breast,
 produced one of the handbills, soiled and dirty from lying out of doors
-all night, which he laid upon the secretary’s desk after flattening it
+all [[Night|night]], which he laid upon the secretary’s desk after flattening it
 upon his knee, and smoothing out the wrinkles with his heavy palm.
 
 ‘Nothing but that, master. It fell into good hands, you see.’
@@ -97,7 +97,7 @@ slow to return.
 
 ‘It’s all the same!’ cried Dennis. ‘It’s all right. Down with him,
 Muster Gashford. Down with everybody, down with everything! Hurrah for
-the Protestant religion! That’s the time of day, Muster Gashford!’
+the Protestant religion! That’s the [[Time|time]] of day, Muster Gashford!’
 
 The secretary regarded them both with a very favourable expression of
 countenance, while they gave loose to these and other demonstrations of
@@ -129,16 +129,16 @@ with which he received the announcement that the new member could
 neither read nor write: those two arts being (as Mr Dennis swore) the
 greatest possible curse a civilised community could know, and militating
 more against the professional emoluments and usefulness of the great
-constitutional office he had the honour to hold, than any adverse
-circumstances that could present themselves to his imagination.
+constitutional office he had the [[Honour|honour]] to hold, than any adverse
+circumstances that could present themselves to his [[Imagination|imagination]].
 
 The enrolment being completed, and Hugh having been informed by
 Gashford, in his peculiar manner, of the peaceful and strictly lawful
-objects contemplated by the body to which he now belonged--during which
+objects contemplated by the [[Body|body]] to which he now belonged--during which
 recital Mr Dennis nudged him very much with his elbow, and made divers
 remarkable faces--the secretary gave them both to understand that he
-desired to be alone. Therefore they took their leaves without delay, and
-came out of the house together.
+desired to be [[Alone|alone]]. Therefore they took their [[Leaves|leaves]] without delay, and
+came out of the [[house]] together.
 
 ‘Are you walking, brother?’ said Dennis.
 
@@ -153,7 +153,7 @@ where both houses of Parliament were then sitting. Mingling in the crowd
 of carriages, horses, servants, chairmen, link-boys, porters, and idlers
 of all kinds, they lounged about; while Hugh’s new friend pointed out to
 him significantly the weak parts of the building, how easy it was to get
-into the lobby, and so to the very door of the House of Commons; and how
+into the lobby, and so to the very door of the [[house|House]] of Commons; and how
 plainly, when they marched down there in grand array, their roars and
 shouts would be heard by the members inside; with a great deal more to
 the same purpose, all of which Hugh received with manifest delight.
@@ -199,15 +199,15 @@ better,’ said Hugh, ‘I’m prepared for anything.’--‘So am I,’ said hi
 friend, ‘and so are many of us; and they shook hands upon it with a
 great oath, and with many terrible imprecations on the Papists.
 
-As they were thirsty by this time, Dennis proposed that they should
+As they were thirsty by this [[Time|time]], Dennis proposed that they should
 repair together to The Boot, where there was good company and strong
 liquor. Hugh yielding a ready assent, they bent their steps that way
-with no loss of time.
+with no loss of [[Time|time]].
 
-This Boot was a lone house of public entertainment, situated in the
+This Boot was a lone [[house]] of public entertainment, situated in the
 fields at the back of the Foundling Hospital; a very solitary spot at
 that period, and quite deserted after dark. The tavern stood at some
-distance from any high road, and was approachable only by a dark and
+distance from any high [[Road|road]], and was approachable only by a dark and
 narrow lane; so that Hugh was much surprised to find several people
 drinking there, and great merriment going on. He was still more
 surprised to find among them almost every face that had caught his
@@ -217,11 +217,11 @@ at all curious about the company, he kept his own counsel, and made no
 show of recognition.
 
 Before putting his lips to the liquor which was brought for them, Dennis
-drank in a loud voice the health of Lord George Gordon, President of the
+drank in a loud voice the health of [[Lord George Gordon]], President of the
 Great Protestant Association; which toast Hugh pledged likewise, with
 corresponding enthusiasm. A fiddler who was present, and who appeared
 to act as the appointed minstrel of the company, forthwith struck up a
 Scotch reel; and that in tones so invigorating, that Hugh and his friend
-(who had both been drinking before) rose from their seats as by previous
+(who had both been drinking before) [[Rose|rose]] from their seats as by previous
 concert, and, to the great admiration of the assembled guests, performed
-an extemporaneous No-Popery Dance.
+an extemporaneous No-Popery [[Dance]].

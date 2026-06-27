@@ -26,7 +26,7 @@ He knew now that England had been secretly slain.  Some, he would say,
 might think it a matter of mild regret to be expressed in murmurs.
 But when he found a corpse he gave a shout; and if fools laughed
 at anyone shouting, he would shout the more, till the world
-should be shaken with that terrible cry in the night.
+should be shaken with that terrible cry in the [[Night|night]].
 
 It is that ringing and arresting cry of `Murder!' wrung from
 him as he stumbled over those bones of the dead England,
@@ -104,7 +104,7 @@ But Cobbett was not sentimental about Mary Tudor; he did solidly
 believe that with her the good times went; and he did really
 want them to return.
 
-Anyhow, when he revised history the revision really was a revelation.
+Anyhow, when he revised [[history]] the revision really was a revelation.
 The revision may be revised, but it will not be reversed.  The revelation
 may reveal itself further, but it will never hide itself again.
 Cobbett let the cat out of the bag; and this is nonetheless true
@@ -116,20 +116,20 @@ have followed up and matched and balanced with other facts, a fact
 which others have restated more mildly or analysed more delicately,
 but still the original fact which he furiously asserted and his foes
 furiously denied.  In so far as modern histories do really differ
-from the History of the Reformation, it is mostly because we have come
+from the [[history|History]] of the [[Reformation]], it is mostly because we have come
 to repeat with decorum what even he only dared to hurl with defiance.
 Ruskin and William Morris and many more pursued his path through
 that living labyrinth that had once been regarded as the dead shell
 of a village church.  Maitland and Gasquet and many others justified
 by laborious study and annotation his wild but shrewd guesses
-about the greatness of medieval sociology.  It.  was easy for them
+about the [[Greatness|greatness]] of medieval sociology.  It.  was easy for them
 to state the medieval argument more mildly; simply because the modern
 audience had become more mild.  But Cobbett's discovery can
 never be undiscovered; that is, it can never be covered up again.
 And that for the reason stated at the starting-point of this chapter.
 
-A city that is set on a, hill cannot be hid; a church set
-high above a city is even more hard to hide, when once it
+A [[City|city]] that is set on a, [[Hill|hill]] cannot be hid; a church set
+high above a [[City|city]] is even more hard to hide, when once it
 has been discovered.  You cannot undiscover the elephant.
 That is why it is essential in this chapter to insist on the size
 and simplicity of the neglected thing, and the plain picture
@@ -137,27 +137,27 @@ of the Surrey farmer standing staring at the village spire.
 Since Cobbett's historical conceptions have increasingly prevailed,
 there have been many attempts among the opponents of medieval
 ideals to get rid of this medieval renascence.  There have been
-many efforts to explain away the elephant or minimise the cathedral.
+many efforts to explain away the elephant or minimise the [[Cathedral|cathedral]].
 And they all fail by beginning at the trivial end and trying
 to chop inches off the elephant's tail; or seeking to set
-the ugliness of a gargoyle against the beauty of a cathedral.
+the ugliness of a gargoyle against the [[Beauty|beauty]] of a [[Cathedral|cathedral]].
 Thus they will pick this or that hole in the application
 of the Guild principle, without noticing that everything
 is conceded with the Guild principle itself; the simple fact
-that the principle of medieval trade was admittedly comradeship
+that the principle of medieval trade was admittedly [[Comradeship|comradeship]]
 and justice, while the principle of modern trade was avowedly
-competition and greed.  They will say that the Guild spirit
+competition and [[Greed|greed]].  They will say that the Guild spirit
 was deficient in this and that; without beginning to touch
-the truth that we are deficient in the Guild spirit.
+the [[Truth|truth]] that we are deficient in the Guild spirit.
 In short, the attempts to rebut the revelations of medieval
-culture and creative reform are above all things trivial.
+culture and creative [[Reform|reform]] are above all things trivial.
 They not only pick very small holes in a very large thing,
 but they do not seem to realise that the rest of the world
-can now look at the large thing as well as the small hole.
-But it was really William Cobbett, alighted from his horse,
+can now look at the large thing as [[Well|well]] as the small hole.
+But it was really William Cobbett, alighted from his [[Horse|horse]],
 and standing for some idle moment in a church porch
 out of the rain, who first had a vision of this towering
-resurrection of a forgotten Christendom; and lifted up his eyes
+[[Resurrection|resurrection]] of a forgotten Christendom; and lifted up his eyes
 to things so lofty and remote that men had let them float
 unheeded over their heads like the tree-tops or the clouds.
 Perhaps the real story of Jack the Giant Killer is that Jack

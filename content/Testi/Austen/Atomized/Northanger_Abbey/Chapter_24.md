@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 23"
+title: "[[Northanger Abbey]] — Chapter 23"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -26,13 +26,13 @@ his young guest, in no very favourable consideration of his character.
 
 “This lengthened absence, these solitary rambles, did not speak a mind
 
-at ease, or a conscience void of reproach.” At length he appeared; and,
+at ease, or a [[Conscience|conscience]] void of reproach.” At length he appeared; and,
 
 whatever might have been the gloom of his meditations, he could still
 
 smile with _them_. Miss Tilney, understanding in part her friend’s
 
-curiosity to see the house, soon revived the subject; and her father
+curiosity to see the [[house]], soon revived the subject; and her father
 
 being, contrary to Catherine’s expectations, unprovided with any
 
@@ -46,7 +46,7 @@ to escort them.
 
 They set forward; and, with a grandeur of air, a dignified step, which
 
-caught the eye, but could not shake the doubts of the well-read
+caught the eye, but could not shake the doubts of the [[Well|well]]-read
 
 Catherine, he led the way across the hall, through the common
 
@@ -68,11 +68,11 @@ for no furniture of a more modern date than the fifteenth century. When
 
 the General had satisfied his own curiosity, in a close examination of
 
-every well-known ornament, they proceeded into the library, an
+every [[Well|well]]-known ornament, they proceeded into the library, an
 
 apartment, in its way, of equal magnificence, exhibiting a collection
 
-of books, on which an humble man might have looked with pride.
+of books, on which an humble man might have looked with [[Pride|pride]].
 
 Catherine heard, admired, and wondered with more genuine feeling than
 
@@ -80,13 +80,13 @@ before—gathered all that she could from this storehouse of knowledge,
 
 by running over the titles of half a shelf, and was ready to proceed.
 
-But suites of apartments did not spring up with her wishes. Large as
+But suites of apartments did not [[spring]] up with her wishes. Large as
 
 was the building, she had already visited the greatest part; though, on
 
 being told that, with the addition of the kitchen, the six or seven
 
-rooms she had now seen surrounded three sides of the court, she could
+rooms she had now seen surrounded three sides of the [[Court|court]], she could
 
 scarcely believe it, or overcome the suspicion of there being many
 
@@ -94,7 +94,7 @@ chambers secreted. It was some relief, however, that they were to
 
 return to the rooms in common use, by passing through a few of less
 
-importance, looking into the court, which, with occasional passages,
+importance, looking into the [[Court|court]], which, with occasional passages,
 
 not wholly unintricate, connected the different sides; and she was
 
@@ -118,7 +118,7 @@ his litter of books, guns, and greatcoats.
 
 From the dining-room, of which, though already seen, and always to be
 
-seen at five o’clock, the General could not forgo the pleasure of
+seen at five o’[[Clock|clock]], the General could not forgo the pleasure of
 
 pacing out the length, for the more certain information of Miss
 
@@ -136,7 +136,7 @@ the cooks had been adopted within this, their spacious theatre; and,
 
 when the genius of others had failed, his own had often produced the
 
-perfection wanted. His endowments of this spot alone might at any time
+perfection wanted. His endowments of this spot [[Alone|alone]] might at any [[Time|time]]
 
 have placed him high among the benefactors of the convent.
 
@@ -162,7 +162,7 @@ the purposes of mere domestic economy; and would willingly have been
 
 spared the mortification of a walk through scenes so fallen, had the
 
-General allowed it; but if he had a vanity, it was in the arrangement
+General allowed it; but if he had a [[Vanity|vanity]], it was in the arrangement
 
 of his offices; and as he was convinced that, to a mind like Miss
 
@@ -192,7 +192,7 @@ domestic arrangements from such as she had read about—from abbeys and
 
 castles, in which, though certainly larger than Northanger, all the
 
-dirty work of the house was to be done by two pair of female hands at
+dirty work of the [[house]] was to be done by two pair of female hands at
 
 the utmost. How they could get through it all had often amazed Mrs.
 
@@ -204,7 +204,7 @@ amazed herself.
 
 They returned to the hall, that the chief staircase might be ascended,
 
-and the beauty of its wood, and ornaments of rich carving might be
+and the [[Beauty|beauty]] of its wood, and ornaments of rich carving might be
 
 pointed out: having gained the top, they turned in an opposite
 
@@ -230,11 +230,11 @@ of the distinguished characters by whom they had at times been
 
 honoured, turned with a smiling countenance to Catherine, and ventured
 
-to hope that henceforward some of their earliest tenants might be “our
+to [[Hope|hope]] that henceforward some of their earliest tenants might be “our
 
 friends from Fullerton.” She felt the unexpected compliment, and deeply
 
-regretted the impossibility of thinking well of a man so kindly
+regretted the impossibility of thinking [[Well|well]] of a man so kindly
 
 disposed towards herself, and so full of civility to all her family.
 
@@ -268,9 +268,9 @@ something worth her notice; and felt, as she unwillingly paced back the
 
 gallery, that she would rather be allowed to examine that end of the
 
-house than see all the finery of all the rest. The General’s evident
+[[house]] than see all the finery of all the rest. The General’s evident
 
-desire of preventing such an examination was an additional stimulant.
+[[Desire|desire]] of preventing such an examination was an additional stimulant.
 
 Something was certainly to be concealed; her fancy, though it had
 
@@ -284,27 +284,27 @@ going to take you into what was my mother’s room—the room in which she
 
 died—” were all her words; but few as they were, they conveyed pages of
 
-intelligence to Catherine. It was no wonder that the General should
+intelligence to Catherine. It was no [[Wonder|wonder]] that the General should
 
 shrink from the sight of such objects as that room must contain; a room
 
 in all probability never entered by him since the dreadful scene had
 
-passed, which released his suffering wife, and left him to the stings
+passed, which released his [[Suffering|suffering]] wife, and left him to the stings
 
-of conscience.
+of [[Conscience|conscience]].
 
 
 
-She ventured, when next alone with Eleanor, to express her wish of
+She ventured, when next [[Alone|alone]] with [[Eleanor]], to express her wish of
 
-being permitted to see it, as well as all the rest of that side of the
+being permitted to see it, as [[Well|well]] as all the rest of that side of the
 
-house; and Eleanor promised to attend her there, whenever they should
+[[house]]; and [[Eleanor]] promised to attend her there, whenever they should
 
 have a convenient hour. Catherine understood her: the General must be
 
-watched from home, before that room could be entered. “It remains as it
+watched from [[Home|home]], before that room could be entered. “It remains as it
 
 was, I suppose?” said she, in a tone of feeling.
 
@@ -320,9 +320,9 @@ was, I suppose?” said she, in a tone of feeling.
 
 “She has been dead these nine years.” And nine years, Catherine knew,
 
-was a trifle of time, compared with what generally elapsed after the
+was a trifle of [[Time|time]], compared with what generally elapsed after the
 
-death of an injured wife, before her room was put to rights.
+[[Death|death]] of an injured wife, before her room was put to rights.
 
 
 
@@ -330,13 +330,13 @@ death of an injured wife, before her room was put to rights.
 
 
 
-“No,” said Miss Tilney, sighing; “I was unfortunately from home. Her
+“No,” said Miss Tilney, sighing; “I was unfortunately from [[Home|home]]. Her
 
 illness was sudden and short; and, before I arrived it was all over.”
 
 
 
-Catherine’s blood ran cold with the horrid suggestions which naturally
+Catherine’s [[Blood|blood]] ran cold with the horrid suggestions which naturally
 
 sprang from these words. Could it be possible? Could Henry’s father—?
 
@@ -354,7 +354,7 @@ attitude of a Montoni! what could more plainly speak the gloomy
 
 workings of a mind not wholly dead to every sense of humanity, in its
 
-fearful review of past scenes of guilt? Unhappy man! and the
+fearful review of past scenes of [[Guilt|guilt]]? Unhappy man! and the
 
 anxiousness of her spirits directed her eyes towards his figure so
 
@@ -416,15 +416,15 @@ pitiless hands of her husband a nightly supply of coarse food, was the
 
 conclusion which necessarily followed. Shocking as was the idea, it was
 
-at least better than a death unfairly hastened, as, in the natural
+at least better than a [[Death|death]] unfairly hastened, as, in the natural
 
 course of things, she must ere long be released. The suddenness of her
 
 reputed illness, the absence of her daughter, and probably of her other
 
-children, at the time—all favoured the supposition of her imprisonment.
+children, at the [[Time|time]]—all favoured the supposition of her [[Imprisonment|imprisonment]].
 
-Its origin—jealousy perhaps, or wanton cruelty—was yet to be
+Its origin—[[Jealousy|jealousy]] perhaps, or wanton cruelty—was yet to be
 
 unravelled.
 
@@ -444,7 +444,7 @@ yet bore the traces of monastic division? In the high-arched passage,
 
 paved with stone, which already she had trodden with peculiar awe, she
 
-well remembered the doors of which the General had given no account. To
+[[Well|well]] remembered the doors of which the General had given no account. To
 
 what might not those doors lead? In support of the plausibility of this
 
@@ -452,17 +452,17 @@ conjecture, it further occurred to her that the forbidden gallery, in
 
 which lay the apartments of the unfortunate Mrs. Tilney, must be, as
 
-certainly as her memory could guide her, exactly over this suspected
+certainly as her [[Memory|memory]] could guide her, exactly over this suspected
 
 range of cells, and the staircase by the side of those apartments of
 
 which she had caught a transient glimpse, communicating by some secret
 
-means with those cells, might well have favoured the barbarous
+means with those cells, might [[Well|well]] have favoured the barbarous
 
 proceedings of her husband. Down that staircase she had perhaps been
 
-conveyed in a state of well-prepared insensibility!
+conveyed in a state of [[Well|well]]-prepared insensibility!
 
 
 
@@ -482,9 +482,9 @@ struck her that, if judiciously watched, some rays of light from the
 
 General’s lamp might glimmer through the lower windows, as he passed to
 
-the prison of his wife; and, twice before she stepped into bed, she
+the [[Prison|prison]] of his wife; and, twice before she stepped into bed, she
 
-stole gently from her room to the corresponding window in the gallery,
+stole gently from her room to the corresponding [[Window|window]] in the gallery,
 
 to see if it appeared; but all abroad was dark, and it must yet be too
 
@@ -492,10 +492,10 @@ early. The various ascending noises convinced her that the servants
 
 must still be up. Till midnight, she supposed it would be in vain to
 
-watch; but then, when the clock had struck twelve, and all was quiet,
+watch; but then, when the [[Clock|clock]] had struck twelve, and all was quiet,
 
 she would, if not quite appalled by darkness, steal out and look once
 
-more. The clock struck twelve—and Catherine had been half an hour
+more. The [[Clock|clock]] struck twelve—and Catherine had been half an hour
 
 asleep.

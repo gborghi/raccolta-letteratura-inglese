@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — A DEAD POET"
+title: "[[AllThingsConsidered-8]] — A DEAD POET"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -27,7 +27,7 @@ in the fact that both poets were at once fond of immensity
 and also fond of detail.  Any common Imperialist can have large
 ideas so long as he is not called upon to have small ideas also.
 Any common scientific philosopher can have small ideas so long
-as he is not called upon to have large ideas as well.
+as he is not called upon to have large ideas as [[Well|well]].
 But great poets use the telescope and also the microscope.
 Great poets are obscure for two opposite reasons; now, because they
 are talking about something too large for any one to understand,
@@ -35,29 +35,29 @@ and now again because they are talking about something too small
 for any one to see.  Francis Thompson possessed both these infinities.
 He escaped by being too small, as the microbe escapes;
 or he escaped by being too large, as the universe escapes.
-Any one who knows Francis Thompson's poetry knows quite well the truth
+Any one who knows Francis Thompson's poetry knows quite [[Well|well]] the [[Truth|truth]]
 to which I refer.  For the benefit of any person who does not know it,
-I may mention two cases taken from memory.  I have not the book by me,
+I may mention two cases taken from [[Memory|memory]].  I have not the book by me,
 so I can only render the poetical passages in a clumsy paraphrase.
 But there was one poem of which the image was so vast that it
-was literally difficult for a time to take it in; he was
+was literally difficult for a [[Time|time]] to take it in; he was
 describing the evening earth with its mist and fume and fragrance,
-and represented the whole as rolling upwards like a smoke;
+and represented the whole as [[rolling]] upwards like a smoke;
 then suddenly he called the whole ball of the earth a thurible,
 and said that some gigantic spirit swung it slowly before God.
 That is the case of the image too large for comprehension.
 Another instance sticks in my mind of the image which is too small.
-In one of his poems, he says that abyss between the known and the unknown
-is bridged by "Pontifical death."  There are about ten historical
+In one of his [[Poems|poems]], he says that abyss between the known and the unknown
+is bridged by "Pontifical [[Death|death]]."  There are about ten historical
 and theological puns in that one word.  That a priest means a pontiff,
-that a pontiff means a bridge-maker, that death is certainly a bridge,
-that death may turn out after all to be a reconciling priest,
+that a pontiff means a bridge-maker, that [[Death|death]] is certainly a bridge,
+that [[Death|death]] may turn out after all to be a reconciling priest,
 that at least priests and bridges both attest to the fact that
 one thing can get separated from another thing--these ideas,
 and twenty more, are all actually concentrated in the word "pontifical."
 In Francis Thompson's poetry, as in the poetry of the universe,
 you can work infinitely out and out, but yet infinitely in and in.
-These two infinities are the mark of greatness; and he was a great poet.
+These two infinities are the mark of [[Greatness|greatness]]; and he was a great poet.
 
 Beneath the tide of praise which was obviously due to the dead poet,
 there is an evident undercurrent of discussion about him; some charges
@@ -66,8 +66,8 @@ contradicted in the _Nation_; and, in connection with this and
 other things, there has been a continuous stir of comment upon his
 attraction to and gradual absorption in Catholic theological ideas.
 This question is so important that I think it ought to be considered
-and understood even at the present time.  It is, of course,
-true that Francis Thompson devoted himself more and more to poems
+and understood even at the present [[Time|time]].  It is, of course,
+true that Francis Thompson devoted himself more and more to [[Poems|poems]]
 not only purely Catholic, but, one may say, purely ecclesiastical.
 And it is, moreover, true that (if things go on as they are going
 on at present) more and more good poets will do the same.
@@ -109,7 +109,7 @@ symbols, they mean less by them.  It is the mark of religious
 forms that they declare something unknown.  But it is the mark
 of worldly forms that they declare something which is known,
 and which is known to be untrue.  When the Pope in an Encyclical
-calls himself your father, it is a matter of faith or of doubt.
+calls himself your father, it is a matter of [[Faith|faith]] or of [[Doubt|doubt]].
 But when the Duke of Devonshire in a letter calls himself yours
 obediently, you know that he means the opposite of what he says.
 Religious forms are, at the worst, fables; they might be true.
@@ -119,7 +119,7 @@ But, moreover, the Pope's vestments all imply a claim to be something
 purely mystical and doubtful.  Many of the German Emperor's uniforms
 imply a claim to be something which he certainly is not and which it
 would be highly disgusting if he were.  The Pope may or may not be
-the Vicar of Christ.  But the Kaiser certainly is not an English Colonel.
+the Vicar of [[Christ]].  But the Kaiser certainly is not an English Colonel.
 If the thing were reality it would be treason.  If it is mere ritual,
 it is by far the most unreal ritual on earth.
 
@@ -127,12 +127,12 @@ Now, poetical people like Francis Thompson will, as things stand,
 tend away from secular society and towards religion for the reason
 above described:  that there are crowds of symbols in both, but that
 those of religion are simpler and mean more.  To take an evident type,
-the Cross is more poetical than the Union Jack, because it is simpler.
+the [[Cross]] is more poetical than the [[Union]] Jack, because it is simpler.
 The more simple an idea is, the more it is fertile in variations.
-Francis Thompson could have written any number of good poems on
-the Cross, because it is a primary symbol.  The number of poems which
-Mr. Rudyard Kipling could write on the Union Jack is, fortunately,
-limited, because the Union Jack is too complex to produce luxuriance.
+Francis Thompson could have written any number of good [[Poems|poems]] on
+the [[Cross]], because it is a primary symbol.  The number of [[Poems|poems]] which
+Mr. Rudyard Kipling could write on the [[Union]] Jack is, fortunately,
+limited, because the [[Union]] Jack is too complex to produce luxuriance.
 The same principle applies to any possible number of cases.
 A poet like Francis Thompson could deduce perpetually rich and
 branching meanings out of two plain facts like bread and wine;

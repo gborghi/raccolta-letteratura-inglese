@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 30"
+title: "[[Pride and Prejudice]] — Chapter 30"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -26,10 +26,10 @@ often met with. While Sir William was with them, Mr. Collins devoted his
 mornings to driving him out in his gig, and showing him the country: but
 when he went away, the whole family returned to their usual employments,
 and Elizabeth was thankful to find that they did not see more of her
-cousin by the alteration; for the chief of the time between breakfast
-and dinner was now passed by him either at work in the garden, or in
-reading and writing, and looking out of window in his own book room,
-which fronted the road. The room in which the ladies sat was backwards.
+cousin by the alteration; for the chief of the [[Time|time]] between breakfast
+and dinner was now passed by him either at work in the [[Garden|garden]], or in
+reading and writing, and looking out of [[Window|window]] in his own book room,
+which fronted the [[Road|road]]. The room in which the ladies sat was backwards.
 Elizabeth at first had rather wondered that Charlotte should not prefer
 the dining parlour for common use; it was a better sized room, and had a
 pleasanter aspect: but she soon saw that her friend had an excellent
@@ -62,7 +62,7 @@ commission of the peace for the county, she was a most active magistrate
 in her own parish, the minutest concerns of which were carried to her by
 Mr. Collins; and whenever any of the cottagers were disposed to be
 quarrelsome, discontented, or too poor, she sallied forth into the
-village to settle their differences, silence their complaints, and scold
+village to settle their differences, [[Silence|silence]] their complaints, and scold
 them into harmony and plenty.
 
 [Illustration:
@@ -75,9 +75,9 @@ and, allowing for the loss of Sir William, and there being only one
 card-table in the evening, every such entertainment was the counterpart
 of the first. Their other engagements were few, as the style of living
 of the neighbourhood in general was beyond the Collinses’ reach. This,
-however, was no evil to Elizabeth, and upon the whole she spent her time
+however, was no evil to Elizabeth, and upon the whole she spent her [[Time|time]]
 comfortably enough: there were half hours of pleasant conversation with
-Charlotte, and the weather was so fine for the time of year, that she
+Charlotte, and the weather was so fine for the [[Time|time]] of year, that she
 had often great enjoyment out of doors. Her favourite walk, and where
 she frequently went while the others were calling on Lady Catherine, was
 along the open grove which edged that side of the park, where there was
@@ -109,19 +109,19 @@ in order to have
 [_Copyright 1894 by George Allen._]]
 
 the earliest assurance of it; and, after making his bow as the carriage
-turned into the park, hurried home with the great intelligence. On the
+turned into the park, hurried [[Home|home]] with the great intelligence. On the
 following morning he hastened to Rosings to pay his respects. There were
 two nephews of Lady Catherine to require them, for Mr. Darcy had brought
 with him a Colonel Fitzwilliam, the younger son of his uncle, Lord ----;
 and, to the great surprise of all the party, when Mr. Collins returned,
 the gentlemen accompanied him. Charlotte had seen them from her
-husband’s room, crossing the road, and immediately running into the
-other, told the girls what an honour they might expect, adding,--
+husband’s room, crossing the [[Road|road]], and immediately running into the
+other, told the girls what an [[Honour|honour]] they might expect, adding,--
 
 “I may thank you, Eliza, for this piece of civility. Mr. Darcy would
 never have come so soon to wait upon me.”
 
-Elizabeth had scarcely time to disclaim all right to the compliment
+Elizabeth had scarcely [[Time|time]] to disclaim all right to the compliment
 before their approach was announced by the door-bell, and shortly
 afterwards the three gentlemen entered the room. Colonel Fitzwilliam,
 who led the way, was about thirty, not handsome, but in person and
@@ -132,9 +132,9 @@ friend, met her with every appearance of composure. Elizabeth merely
 courtesied to him, without saying a word.
 
 Colonel Fitzwilliam entered into conversation directly, with the
-readiness and ease of a well-bred man, and talked very pleasantly; but
-his cousin, after having addressed a slight observation on the house and
-garden to Mrs. Collins, sat for some time without speaking to anybody.
+readiness and ease of a [[Well|well]]-bred man, and talked very pleasantly; but
+his cousin, after having addressed a slight observation on the [[house]] and
+[[Garden|garden]] to Mrs. Collins, sat for some [[Time|time]] without speaking to anybody.
 At length, however, his civility was so far awakened as to inquire of
 Elizabeth after the health of her family. She answered him in the usual
 way; and, after a moment’s pause, added,--

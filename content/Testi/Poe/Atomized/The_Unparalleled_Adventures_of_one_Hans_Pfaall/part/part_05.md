@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 5)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -20,17 +20,17 @@ tags:
 
       little money I had left, and bade her farewell. Indeed I had no
 
-      fear on her account. She was what people call a notable woman,
+      [[Fear|fear]] on her account. She was what people call a notable woman,
 
       and could manage matters in the world without my assistance. I
 
-      believe, to tell the truth, she always looked upon me as an idle
+      believe, to tell the [[Truth|truth]], she always looked upon me as an idle
 
       boy, a mere make-weight, good for nothing but building castles in
 
       the air, and was rather glad to get rid of me. It was a dark
 
-      night when I bade her good-bye, and taking with me, as
+      [[Night|night]] when I bade her good-bye, and taking with me, as
 
       aides-de-camp, the three creditors who had given me so much
 
@@ -44,7 +44,7 @@ tags:
 
 
 
-      “It was the first of April. The night, as I said before, was
+      “It was the first of April. The [[Night|night]], as I said before, was
 
       dark; there was not a star to be seen; and a drizzling rain,
 
@@ -78,7 +78,7 @@ tags:
 
       devil, and that, in short, what I was now doing was nothing
 
-      better than it should be. I was, therefore, in great fear of
+      better than it should be. I was, therefore, in great [[Fear|fear]] of
 
       their leaving me altogether. I contrived, however, to pacify them
 
@@ -88,13 +88,13 @@ tags:
 
       they gave, of course, their own interpretation; fancying, no
 
-      doubt, that at all events I should come into possession of vast
+      [[Doubt|doubt]], that at all events I should come into possession of vast
 
       quantities of ready money; and provided I paid them all I owed,
 
       and a trifle more, in consideration of their services, I dare say
 
-      they cared very little what became of either my soul or my
+      they cared very little what became of either my [[Soul|soul]] or my
 
       carcass.
 
@@ -106,7 +106,7 @@ tags:
 
       implements in it—not forgetting the condensing apparatus, a
 
-      copious supply of water, and a large quantity of provisions, such
+      copious supply of [[Water|water]], and a large quantity of provisions, such
 
       as pemmican, in which much nutriment is contained in
 
@@ -114,7 +114,7 @@ tags:
 
       pigeons and a cat. It was now nearly daybreak, and I thought it
 
-      high time to take my departure. Dropping a lighted cigar on the
+      high [[Time|time]] to take my departure. Dropping a lighted cigar on the
 
       ground, as if by accident, I took the opportunity, in stooping to
 
@@ -140,13 +140,13 @@ tags:
 
       when, roaring and rumbling up after me in the most horrible and
 
-      tumultuous manner, came so dense a hurricane of fire, and smoke,
+      tumultuous manner, came so dense a hurricane of [[Fire|fire]], and smoke,
 
       and sulphur, and legs and arms, and gravel, and burning wood, and
 
       blazing metal, that my very heart sunk within me, and I fell down
 
-      in the bottom of the car, trembling with unmitigated terror.
+      in the [[Bottom|bottom]] of the car, trembling with unmitigated terror.
 
       Indeed, I now perceived that I had entirely overdone the
 
@@ -154,19 +154,19 @@ tags:
 
       be experienced. Accordingly, in less than a second, I felt all
 
-      the blood in my body rushing to my temples, and immediately
+      the [[Blood|blood]] in my [[Body|body]] rushing to my temples, and immediately
 
       thereupon, a concussion, which I shall never forget, burst
 
-      abruptly through the night and seemed to rip the very firmament
+      abruptly through the [[Night|night]] and seemed to rip the very firmament
 
-      asunder. When I afterward had time for reflection, I did not fail
+      asunder. When I afterward had [[Time|time]] for reflection, I did not fail
 
       to attribute the extreme violence of the explosion, as regarded
 
       myself, to its proper cause—my situation directly above it, and
 
-      in the line of its greatest power. But at the time, I thought
+      in the line of its greatest power. But at the [[Time|time]], I thought
 
       only of preserving my life. The balloon at first collapsed, then
 
@@ -180,7 +180,7 @@ tags:
 
       face outwards, by a piece of slender cord about three feet in
 
-      length, which hung accidentally through a crevice near the bottom
+      length, which hung accidentally through a crevice near the [[Bottom|bottom]]
 
       of the wicker-work, and in which, as I fell, my left foot became
 

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 6)"
+title: "[[Shirley]] — Chapter 13 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-The servant announced Mr. Moore, and Shirley turned round when Mr. Moore
+The servant announced Mr. Moore, and [[Shirley]] turned round when Mr. Moore
 
 appeared at the door. His figure seemed very tall as he entered, and
 
 stood in contrast with the three ladies, none of whom could boast a
 
-stature much beyond the average. He was looking well, better than he had
+stature much beyond the average. He was looking [[Well|well]], better than he had
 
 been known to look for the past twelve months. A sort of renewed youth
 
-glowed in his eye and colour, and an invigorated hope and settled
+glowed in his eye and colour, and an invigorated [[Hope|hope]] and settled
 
 purpose sustained his bearing. Firmness his countenance still indicated,
 
@@ -42,7 +42,7 @@ my mission."
 
 "You did right not to keep me in suspense," she said, "and your visit is
 
-well timed. Sit down. We have not finished tea. Are you English enough
+[[Well|well]] timed. Sit down. We have not finished tea. Are you English enough
 
 to relish tea, or do you faithfully adhere to coffee?"
 
@@ -58,15 +58,15 @@ habits are leaving me one by one."
 
 
 
-And now he paid his respects to Mrs. Pryor, and paid them well, with a
+And now he paid his respects to Mrs. Pryor, and paid them [[Well|well]], with a
 
-grave modesty that became his age compared with hers. Then he looked at
+[[Grave|grave]] modesty that became his age compared with hers. Then he looked at
 
-Caroline--not, however, for the first time: his glance had fallen upon
+Caroline--not, however, for the first [[Time|time]]: his glance had fallen upon
 
 her before. He bent towards her as she sat, gave her his hand, and asked
 
-her how she was. The light from the window did not fall upon Miss
+her how she was. The light from the [[Window|window]] did not fall upon Miss
 
 Helstone; her back was turned towards it. A quiet though rather low
 
@@ -80,7 +80,7 @@ none could prove emotion; a greeting showing less effusion was never
 
 interchanged. Moore took the empty chair near her, opposite Miss
 
-Keeldar. He had placed himself well. His neighbour, screened by the very
+Keeldar. He had placed himself [[Well|well]]. His neighbour, screened by the very
 
 closeness of his vicinage from his scrutiny, and sheltered further by
 
@@ -108,7 +108,7 @@ rather than anything else. My main reliance is on my own civilians."
 
 
 
-"And on their captain," interposed Shirley.
+"And on their captain," interposed [[Shirley]].
 
 
 
@@ -120,17 +120,17 @@ respectful and suppressed.
 
 
 
-"No," returned Shirley, answering the smile; "Captain Gérard Moore, who
+"No," returned [[Shirley]], answering the smile; "Captain Gérard Moore, who
 
 trusts much to the prowess of his own right arm, I believe."
 
 
 
-"Furnished with his counting-house ruler," added Moore. Resuming his
+"Furnished with his counting-[[house]] ruler," added Moore. Resuming his
 
 usual gravity, he went on: "I received by this evening's post a note
 
-from the Home Secretary in answer to mine. It appears they are uneasy at
+from the [[Home]] Secretary in answer to mine. It appears they are uneasy at
 
 the state of matters here in the north; they especially condemn the
 
@@ -168,7 +168,7 @@ the object his eyes, when lifted, naturally met first; and as what
 
 remained of daylight--the gilding of the west--was upon her, her shape
 
-rose in relief from the dark panelling behind. Shirley's clear cheek was
+[[Rose|rose]] in relief from the dark panelling behind. [[Shirley]]'s clear cheek was
 
 tinted yet with the colour which had risen into it a few minutes since.
 
@@ -206,11 +206,11 @@ He could not, by looking straight before him, see Caroline, as she was
 
 close at his side. It was necessary, therefore, to manœuvre a little to
 
-get her well within the range of his observation. He leaned back in his
+get her [[Well|well]] within the range of his observation. He leaned back in his
 
 chair, and looked down on her. In Miss Helstone neither he nor any one
 
-else could discover brilliancy. Sitting in the shade, without flowers
+else could discover brilliancy. Sitting in the shade, without [[Flowers|flowers]]
 
 or ornaments, her attire the modest muslin dress, colourless but for its
 
@@ -218,6 +218,6 @@ narrow stripe of pale azure, her complexion unflushed, unexcited, the
 
 very brownness of her hair and eyes invisible by this faint light, she
 
-was, compared with the heiress, as a graceful pencil sketch compared
+was, compared with the heiress, as a graceful pencil [[Sketch|sketch]] compared
 
 with a vivid painting. Since Robert had seen her last a great change had

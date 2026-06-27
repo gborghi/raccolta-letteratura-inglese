@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T was not until the following evening, as already noted, that the news (part 3)"
+title: "[[FourFaultlessFelons]] — T was not until the following evening, as already noted, that the news (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -46,15 +46,15 @@ those funny triangles?"
 
 
 
-"I play the fool," he replied gravely. "What he wants is to have his
+"I play the [[Fool|fool]]," he replied gravely. "What he wants is to have his
 
 attention aroused and fixed, and foolery always does that for children;
 
 very obvious foolery. Don't you know how they have always liked such
 
-images as the cow jumping over the moon? It's the educational effect of
+images as the cow jumping over the [[Moon|moon]]? It's the educational effect of
 
-riddles. Well, I have to be the riddle. I have to keep him wondering what
+riddles. [[Well]], I have to be the [[Riddle|riddle]]. I have to keep him wondering what
 
 I mean or what I shall do next. It means being an ass, but it's the only
 
@@ -84,9 +84,9 @@ social functions.
 
 
 
-They all went down the road together and Barbara was vaguely surprised to
+They all went down the [[Road|road]] together and Barbara was vaguely surprised to
 
-see ahead of them on the same road, not only the sleek and varnished
+see ahead of them on the same [[Road|road]], not only the sleek and varnished
 
 figure of Mr. Meade the secretary, but also the more angular outline of
 
@@ -96,27 +96,27 @@ comprehensive one.
 
 
 
-The Rev. Ernest Snow lived in a very modest manner in one of the little
+The Rev. Ernest [[Snow]] lived in a very modest manner in one of the little
 
 houses that had been erected in a row for the minor officials of the
 
 Governorate. It was at the back of this line of villas that the path ran
 
-along the garden wall and past the sycamore to the bunch of olives and
+along the [[Garden|garden]] wall and past the sycamore to the bunch of olives and
 
 finally to the corner where the Governor had fallen by the mysterious
 
-bullet. That path fringed the open desert and had all the character of a
+bullet. That path fringed the open [[Desert|desert]] and had all the character of a
 
-rude, beaten path for the desert pilgrims. But walking on the other side,
+rude, beaten path for the [[Desert|desert]] pilgrims. But walking on the other side,
 
-in front of the row of houses, a traveller might well have imagined
+in front of the row of houses, a traveller might [[Well|well]] have imagined
 
-himself in any London suburb, so regular were the ornamental railings and
+himself in any [[London]] suburb, so regular were the ornamental railings and
 
-so identical the porticos and the small front-garden plots. Nothing but a
+so identical the porticos and the small front-[[Garden|garden]] plots. Nothing but a
 
-number distinguished the house of the clergyman, and the entrance to it
+number distinguished the [[house]] of the clergyman, and the entrance to it
 
 was so prim and narrow that the group of guests from the Governorate had
 
@@ -124,9 +124,9 @@ some difficulty in squeezing through it.
 
 
 
-Mr. Snow bowed over Olive's hand with a ceremony that seemed to make his
+Mr. [[Snow]] bowed over Olive's hand with a ceremony that seemed to make his
 
-white hair a ghost of eighteenth-century powder, but also with something
+white hair a [[Ghost|ghost]] of eighteenth-century powder, but also with something
 
 else that seemed at first a shade more difficult to define. It was
 
@@ -146,7 +146,7 @@ conducting a funeral, and she was not far out.
 
 "what sympathy we all feel in this terrible hour. If only from a public
 
-standpoint, the death of your distinguished uncle--"
+standpoint, the [[Death|death]] of your distinguished uncle--"
 
 
 
@@ -154,7 +154,7 @@ Olive Smythe struck in with a rather wild stare.
 
 
 
-"But my uncle isn't dead, Mr. Snow. I know they said so at first, but he
+"But my uncle isn't dead, Mr. [[Snow]]. I know they said so at first, but he
 
 only got a shot in his leg and he is trying to limp about already."
 
@@ -176,7 +176,7 @@ congratulation.
 
 He looked round a little vacantly at the furniture. Whether the Rev.
 
-Ernest Snow had remembered to prepare tea at tea-time, was not yet quite
+Ernest [[Snow]] had remembered to prepare tea at tea-[[Time|time]], was not yet quite
 
 clear, but the preparations he had made seemed to be of a less assuaging
 
@@ -202,14 +202,14 @@ And then Barbara felt a final stab of astonishment and alarm. For two
 
 facts became instantly and simultaneously vivid to her consciousness. The
 
-first was that the Rev. Ernest Snow had been reposing upon the fact of
+first was that the Rev. Ernest [[Snow]] had been reposing upon the fact of
 
-the Governor's death with something very like a solemn satisfaction, and
+the Governor's [[Death|death]] with something very like a solemn satisfaction, and
 
 had heard of his recovery with something quite other than relief. And the
 
 second was that he spoke with the same voice that had once uttered the
 
-same words, out of the shadow of the sycamore, that sounded in her ears
+same words, out of the [[Shadow|shadow]] of the sycamore, that sounded in her ears
 
-like a wild cry for blood.
+like a wild cry for [[Blood|blood]].

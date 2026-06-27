@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 27 (part 1)"
+title: "[[Oliver Twist]] — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -20,13 +20,13 @@ MOST UNCEREMONIOUSLY
 
 
 As it would be, by no means, seemly in a humble author to keep so
-mighty a personage as a beadle waiting, with his back to the fire, and
-the skirts of his coat gathered up under his arms, until such time as
+mighty a personage as a beadle waiting, with his back to the [[Fire|fire]], and
+the skirts of his coat gathered up under his arms, until such [[Time|time]] as
 it might suit his pleasure to relieve him; and as it would still less
 become his station, or his gallantry to involve in the same neglect a
 lady on whom that beadle had looked with an eye of tenderness and
 affection, and in whose ear he had whispered sweet words, which, coming
-from such a quarter, might well thrill the bosom of maid or matron of
+from such a quarter, might [[Well|well]] thrill the bosom of maid or matron of
 whatsoever degree; the historian whose pen traces these words—trusting
 that he knows his place, and that he entertains a becoming reverence
 for those upon earth to whom high and important authority is
@@ -38,39 +38,39 @@ this place, a dissertation touching the divine right of beadles, and
 elucidative of the position, that a beadle can do no wrong: which could
 not fail to have been both pleasurable and profitable to the
 right-minded reader but which he is unfortunately compelled, by want of
-time and space, to postpone to some more convenient and fitting
+[[Time|time]] and space, to postpone to some more convenient and fitting
 opportunity; on the arrival of which, he will be prepared to show, that
 a beadle properly constituted: that is to say, a parochial beadle,
 attached to a parochial workhouse, and attending in his official
 capacity the parochial church: is, in right and virtue of his office,
 possessed of all the excellences and best qualities of humanity; and
 that to none of those excellences, can mere companies’ beadles, or
-court-of-law beadles, or even chapel-of-ease beadles (save the last,
+[[Court|court]]-of-law beadles, or even chapel-of-ease beadles (save the last,
 and they in a very lowly and inferior degree), lay the remotest
 sustainable claim.
 
 Mr. Bumble had re-counted the teaspoons, re-weighed the sugar-tongs,
 made a closer inspection of the milk-pot, and ascertained to a nicety
-the exact condition of the furniture, down to the very horse-hair seats
+the exact condition of the furniture, down to the very [[Horse|horse]]-hair seats
 of the chairs; and had repeated each process full half a dozen times;
-before he began to think that it was time for Mrs. Corney to return.
+before he began to think that it was [[Time|time]] for Mrs. Corney to return.
 Thinking begets thinking; as there were no sounds of Mrs. Corney’s
-approach, it occured to Mr. Bumble that it would be an innocent and
-virtuous way of spending the time, if he were further to allay his
+approach, it occured to Mr. Bumble that it would be an [[Innocent|innocent]] and
+virtuous way of spending the [[Time|time]], if he were further to allay his
 curiousity by a cursory glance at the interior of Mrs. Corney’s chest
 of drawers.
 
 Having listened at the keyhole, to assure himself that nobody was
-approaching the chamber, Mr. Bumble, beginning at the bottom, proceeded
+approaching the chamber, Mr. Bumble, beginning at the [[Bottom|bottom]], proceeded
 to make himself acquainted with the contents of the three long drawers:
 which, being filled with various garments of good fashion and texture,
 carefully preserved between two layers of old newspapers, speckled with
 dried lavender: seemed to yield him exceeding satisfaction. Arriving,
-in course of time, at the right-hand corner drawer (in which was the
+in course of [[Time|time]], at the right-hand corner drawer (in which was the
 key), and beholding therein a small padlocked box, which, being shaken,
 gave forth a pleasant sound, as of the chinking of coin, Mr. Bumble
 returned with a stately walk to the fireplace; and, resuming his old
-attitude, said, with a grave and determined air, “I’ll do it!” He
+attitude, said, with a [[Grave|grave]] and determined air, “I’ll do it!” He
 followed up this remarkable declaration, by shaking his head in a
 waggish manner for ten minutes, as though he were remonstrating with
 himself for being such a pleasant dog; and then, he took a view of his

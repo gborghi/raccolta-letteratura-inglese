@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 38 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 38 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-Lucy thought to write to him, but then her spirits rose against that.
+Lucy thought to write to him, but then her spirits [[Rose|rose]] against that.
 
-However this morning he came just as we came home from church; and then
+However this morning he came just as we came [[Home|home]] from church; and then
 
 it all came out, how he had been sent for Wednesday to Harley Street,
 
@@ -26,11 +26,11 @@ declared before them all that he loved nobody but Lucy, and nobody but
 
 Lucy would he have. And how he had been so worried by what passed, that
 
-as soon as he had went away from his mother’s house, he had got upon
+as soon as he had went away from his mother’s [[house]], he had got upon
 
-his horse, and rid into the country, some where or other; and how he
+his [[Horse|horse]], and rid into the country, some where or other; and how he
 
-had stayed about at an inn all Thursday and Friday, on purpose to get
+had stayed about at an inn all [[thursday|Thursday]] and Friday, on purpose to get
 
 the better of it. And after thinking it all over and over again, he
 
@@ -40,7 +40,7 @@ all, it would be quite unkind to keep her on to the engagement, because
 
 it must be for her loss, for he had nothing but two thousand pounds,
 
-and no hope of any thing else; and if he was to go into orders, as he
+and no [[Hope|hope]] of any thing else; and if he was to go into orders, as he
 
 had some thoughts, he could get nothing but a curacy, and how was they
 
@@ -62,7 +62,7 @@ like it. But, to be sure, Lucy would not give ear to such kind of
 
 talking; so she told him directly (with a great deal about sweet and
 
-love, you know, and all that—Oh, la! one can’t repeat such kind of
+[[Love|love]], you know, and all that—Oh, la! one can’t repeat such kind of
 
 things you know)—she told him directly, she had not the least mind in
 
@@ -72,7 +72,7 @@ little so ever he might have, she should be very glad to have it all,
 
 you know, or something of the kind. So then he was monstrous happy, and
 
-talked on some time about what they should do, and they agreed he
+talked on some [[Time|time]] about what they should do, and they agreed he
 
 should take orders directly, and they must wait to be married till he
 
@@ -96,9 +96,9 @@ pair of silk stockings and came off with the Richardsons.”
 
 
 
-“No, indeed, not us. La! Miss Dashwood, do you think people make love
+“No, indeed, not us. La! Miss Dashwood, do you think people make [[Love|love]]
 
-when any body else is by? Oh, for shame!—To be sure you must know
+when any [[Body|body]] else is by? Oh, for shame!—To be sure you must know
 
 better than that. (Laughing affectedly.)—No, no; they were shut up in
 
@@ -126,7 +126,7 @@ heard what I could. And I am sure Lucy would have done just the same by
 
 me; for a year or two back, when Martha Sharpe and I had so many
 
-secrets together, she never made any bones of hiding in a closet, or
+[[Secrets|secrets]] together, she never made any bones of hiding in a closet, or
 
 behind a chimney-board, on purpose to hear what we said.”
 
@@ -138,7 +138,7 @@ kept beyond a couple of minutes, from what was uppermost in her mind.
 
 
 
-“Edward talks of going to Oxford soon,” said she; “but now he is
+“Edward talks of going to [[Oxford]] soon,” said she; “but now he is
 
 lodging at No.—, Pall Mall. What an ill-natured woman his mother is,
 
@@ -146,19 +146,19 @@ an’t she? And your brother and sister were not very kind! However, I
 
 shan’t say anything against them to _you;_ and to be sure they did send
 
-us home in their own chariot, which was more than I looked for. And for
+us [[Home|home]] in their own chariot, which was more than I looked for. And for
 
-my part, I was all in a fright for fear your sister should ask us for
+my part, I was all in a fright for [[Fear|fear]] your sister should ask us for
 
 the huswifes she had gave us a day or two before; but, however, nothing
 
 was said about them, and I took care to keep mine out of sight. Edward
 
-have got some business at Oxford, he says; so he must go there for a
+have got some business at [[Oxford]], he says; so he must go there for a
 
-time; and after _that_, as soon as he can light upon a Bishop, he will
+[[Time|time]]; and after _that_, as soon as he can light upon a Bishop, he will
 
-be ordained. I wonder what curacy he will get! Good gracious! (giggling
+be ordained. I [[Wonder|wonder]] what curacy he will get! Good gracious! (giggling
 
 as she spoke) I’d lay my life I know what my cousins will say, when
 
@@ -168,13 +168,13 @@ Edward the curacy of his new living. I know they will; but I am sure I
 
 would not do such a thing for all the world. ‘La!’ I shall say
 
-directly, ‘I wonder how you could think of such a thing? _I_ write to
+directly, ‘I [[Wonder|wonder]] how you could think of such a thing? _I_ write to
 
 the Doctor, indeed!’”
 
 
 
-“Well,” said Elinor, “it is a comfort to be prepared against the worst.
+“[[Well]],” said Elinor, “it is a comfort to be prepared against the worst.
 
 You have got your answer ready.”
 
@@ -192,7 +192,7 @@ you, but I must not stay away from them not any longer. I assure you
 
 they are very genteel people. He makes a monstrous deal of money, and
 
-they keep their own coach. I have not time to speak to Mrs. Jennings
+they keep their own coach. I have not [[Time|time]] to speak to Mrs. Jennings
 
 about it myself, but pray tell her I am quite happy to hear she is not
 
@@ -202,10 +202,10 @@ should happen to take you and your sister away, and Mrs. Jennings
 
 should want company, I am sure we should be very glad to come and stay
 
-with her for as long a time as she likes. I suppose Lady Middleton
+with her for as long a [[Time|time]] as she likes. I suppose Lady Middleton
 
 won’t ask us any more this bout. Good-by; I am sorry Miss Marianne was
 
 not here. Remember me kindly to her. La! if you have not got your
 
-spotted muslin on!—I wonder you was not afraid of its being torn.”
+spotted muslin on!—I [[Wonder|wonder]] you was not afraid of its being torn.”

@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 14 (part 3)"
+title: "[[Don Quixote]] — Chapter 14 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -14,30 +14,30 @@ tags:
 </nav>
 
 
-But Olive was looking from the high lawn up the long white road
+But Olive was looking from the high lawn up the long white [[Road|road]]
 that wandered away to the sunset and seemed to melt its silver
 in that copper and gold.
 
-"They asked me once," she said, "whether I thought King Arthur
+"They asked me once," she said, "whether I thought [[King Arthur]]
 would return.  On an evening like this . . . can't you
 imagine the culmination coming, and our seeing some knight
-of the Round Table pricking along the road, ever so far away,
-bringing us a message from the King."
+of the Round Table pricking along the [[Road|road]], ever so far away,
+bringing us a message from the [[King]]."
 
-"Well, it's jolly queer you should say that," said the more
+"[[Well]], it's jolly queer you should say that," said the more
 practical Rosamund, "because there really is somebody coming along;
-and I believe he's on a horse, too."
+and I believe he's on a [[Horse|horse]], too."
 
-"He seems to be behind a horse," said Olive in a low voice.
+"He seems to be behind a [[Horse|horse]]," said Olive in a low voice.
 "That low sun dazzles my eyes. . . . Can it be a Roman chariot?
-I suppose Arthur would _really_ be a Roman?"
+I suppose [[arthur|Arthur]] would _really_ be a Roman?"
 
 "It's a very queer shape," said Rosamund; and her voice also had altered.
 
-The knight-errant from King Arthur's Court certainly was a
+The knight-errant from [[King Arthur]]'s [[Court]] certainly was a
 very queer shape; for as the equipage came nearer and nearer,
 it took on to the amazed eyes of the medieval crowd the appearance
-of a dilapidated hansom cab, surmounted by a cabman in a dilapidated
+of a dilapidated hansom cab, surmounted by a [[cabman]] in a dilapidated
 top-hat. He removed his battered headgear with a polite salutation
 and revealed the unpretentious features of Douglas Murrel.
 
@@ -58,21 +58,21 @@ from the top of the cab), had the curious sensation of seeing
 somebody dressed in the quaint costume of a by-gone age.
 In fact, they had very much the same feelings which he himself
 had had when he first saw the hansom cab; though hansom cabs
-had only recently begun to dwindle and disappear in London.
+had only recently begun to dwindle and disappear in [[London]].
 So rapidly does human fashion harden and people become accustomed
 to a new environment.
 
-"Monkey!" gasped Olive.  "Where on earth have you been all this time?
+"Monkey!" gasped Olive.  "Where on earth have you been all this [[Time|time]]?
 Haven't you heard anything about anything?"
 
 "I had to poke about a little bit to find the paints,"
 said Murrel modestly, "and since I bought the cab I've been
-giving people rides on the road.  But I've got it anyhow."
+giving people rides on the [[Road|road]].  But I've got it anyhow."
 
-Then for the first time he seemed to think it necessary to notice
+Then for the first [[Time|time]] he seemed to think it necessary to notice
 the singular scene that surrounded him; though the contrast was
 as great as if he had fallen out of another world and appeared
-in the ancient setting like the Yankee at the Court of King Arthur;
+in the ancient setting like the Yankee at the [[Court]] of [[King Arthur]];
 if anybody so very English as he was could ever be compared
 with a Yankee.
 
@@ -90,7 +90,7 @@ They told me he was coming--and I'd rather like to see him."
 
 "Oh, I can't tell it all in a minute," she exclaimed, almost impatiently.
 "Don't you know there isn't a Prime Minister now; not of that sort?
-The King-at-Arms is managing everything round here."
+The [[King]]-at-Arms is managing everything round here."
 
 And she gestured rather desperately towards that potentate, who was still
 sitting on his high seat; probably because he had forgotten to come down.
@@ -106,24 +106,24 @@ with one hand, and he turned towards the throne with a very proper
 air of apology.
 
 "Pardon me, Your Majesty," he said.  "May my family have the ancient
-and ancestral privilege of wearing its hat at Court?  I feel
+and ancestral privilege of wearing its hat at [[Court]]?  I feel
 sure something of that sort must have been given to us after
 we tried unsuccessfully to rescue the Princes in the Tower.
 You see, it's so awkward holding a hat; but I have a great
 affection for this hat."
 
-If he expected to see any gleam of answering humour in the face
-of the fanatic above him, he was disappointed; but the King-at-Arms
+If he expected to see any gleam of answering [[Humour|humour]] in the face
+of the fanatic above him, he was disappointed; but the [[King]]-at-Arms
 said with perfect gravity:  "Most certainly be covered.
 It is only the intention in courtesy that counts.
-I doubt whether those who had such privileges really insisted
-on them; I seem to remember a King who said, very rightly,
+I [[Doubt|doubt]] whether those who had such privileges really insisted
+on them; I seem to remember a [[King]] who said, very rightly,
 to such a privileged lord, 'You have the right to wear your hat
 before me, but not before the ladies.'  In the same spirit, where
 (as in this case) the purpose is actually to oblige a lady,
 the form is obviously dispensed with."
 
-And he looked round in a reasonable manner, as if his logic had surely
+And he looked round in a reasonable manner, as if his [[logic]] had surely
 satisfied everybody as it satisfied him, and Douglas Murrel solemnly
 put on his hat and proceeded to take a prodigious number of wrappings
 off the parcel.
@@ -132,8 +132,8 @@ When it eventually emerged, it was a cylindrical glass jar or bottle,
 extremely dirty, with indistinguishable inscriptions and ornaments;
 but when he handed it to Olive, he saw that his search had not been
 a futile one.  There is no explaining how the mere shape and detail
-of things lost in childhood can startle and stab the emotions;
+of things lost in [[Childhood|childhood]] can startle and stab the emotions;
 but when she saw the shape of that obsolete pot of paint, with its
 large stopper and the faded trade mark of decorative fishes upon it,
-her eyes were stung with tears so that she herself was startled by them.
+her eyes were stung with [[Tears|tears]] so that she herself was startled by them.
 It was as if she had suddenly heard the voice of her father.

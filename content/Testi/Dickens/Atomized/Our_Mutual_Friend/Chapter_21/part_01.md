@@ -19,7 +19,7 @@ Chapter 16
 MINDERS AND RE-MINDERS
 
 
-The Secretary lost no time in getting to work, and his vigilance
+The Secretary lost no [[Time|time]] in getting to work, and his vigilance
 and method soon set their mark on the Golden Dustman’s affairs. His
 earnestness in determining to understand the length and breadth and
 depth of every piece of work submitted to him by his employer, was as
@@ -43,26 +43,26 @@ have prepared himself at all attainable points for its utmost discharge.
 This might—let it be repeated—have awakened some little vague mistrust
 in a man more worldly-wise than the Golden Dustman. On the other hand,
 the Secretary was discerning, discreet, and silent, though as zealous as
-if the affairs had been his own. He showed no love of patronage or the
+if the affairs had been his own. He showed no [[Love|love]] of patronage or the
 command of money, but distinctly preferred resigning both to Mr
 Boffin. If, in his limited sphere, he sought power, it was the power
 of knowledge; the power derivable from a perfect comprehension of his
 business.
 
 As on the Secretary’s face there was a nameless cloud, so on his
-manner there was a shadow equally indefinable. It was not that he was
-embarrassed, as on that first night with the Wilfer family; he was
+manner there was a [[Shadow|shadow]] equally indefinable. It was not that he was
+embarrassed, as on that first [[Night|night]] with the Wilfer family; he was
 habitually unembarrassed now, and yet the something remained. It was not
 that his manner was bad, as on that occasion; it was now very good, as
 being modest, gracious, and ready. Yet the something never left it. It
 has been written of men who have undergone a cruel captivity, or who
-have passed through a terrible strait, or who in self-preservation have
+have passed through a terrible strait, or who in [[Self|self]]-preservation have
 killed a defenceless fellow-creature, that the record thereof has never
 faded from their countenances until they died. Was there any such record
 here?
 
-He established a temporary office for himself in the new house, and all
-went well under his hand, with one singular exception. He manifestly
+He established a temporary office for himself in the new [[house]], and all
+went [[Well|well]] under his hand, with one singular exception. He manifestly
 objected to communicate with Mr Boffin’s solicitor. Two or three times,
 when there was some slight occasion for his doing so, he transferred
 the task to Mr Boffin; and his evasion of it soon became so curiously
@@ -88,19 +88,19 @@ if you would not press it without urgent occasion.’
 Now, it could not be said that there WAS urgent occasion, for Lightwood
 retained no other affairs in his hands than such as still lingered and
 languished about the undiscovered criminal, and such as arose out of the
-purchase of the house. Many other matters that might have travelled to
+purchase of the [[house]]. Many other matters that might have travelled to
 him, now stopped short at the Secretary, under whose administration they
 were far more expeditiously and satisfactorily disposed of than they
 would have been if they had got into Young Blight’s domain. This the
 Golden Dustman quite understood. Even the matter immediately in hand
 was of very little moment as requiring personal appearance on the
-Secretary’s part, for it amounted to no more than this:—The death of
+Secretary’s part, for it amounted to no more than this:—The [[Death|death]] of
 Hexam rendering the sweat of the honest man’s brow unprofitable, the
 honest man had shufflingly declined to moisten his brow for nothing,
 with that severe exertion which is known in legal circles as swearing
 your way through a stone wall. Consequently, that new light had gone
 sputtering out. But, the airing of the old facts had led some one
-concerned to suggest that it would be well before they were reconsigned
+concerned to suggest that it would be [[Well|well]] before they were reconsigned
 to their gloomy shelf—now probably for ever—to induce or compel that
 Mr Julius Handford to reappear and be questioned. And all traces of Mr
 Julius Handford being lost, Lightwood now referred to his client for

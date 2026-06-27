@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Duel of Dr Hirsch (part 1)"
+title: "[[wifrb11]] — The Duel of Dr Hirsch (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -32,9 +32,9 @@ the great Dr Hirsch, scientist, publicist and moralist.
      M. Brun had become prominent by his proposal that the common
 expression "Adieu" should be obliterated from all the French classics,
 and a slight fine imposed for its use in private life.  "Then," he said,
-"the very name of your imagined God will have echoed for the last time
+"the very name of your imagined God will have echoed for the last [[Time|time]]
 in the ear of man."  M. Armagnac specialized rather in a resistance
-to militarism, and wished the chorus of the Marseillaise altered from
+to militarism, and wished the [[Chorus|chorus]] of the Marseillaise altered from
 "Aux armes, citoyens" to "Aux greves, citoyens".  But his antimilitarism
 was of a peculiar and Gallic sort.  An eminent and very wealthy
 English Quaker, who had come to see him to arrange for the disarmament
@@ -42,49 +42,49 @@ of the whole planet, was rather distressed by Armagnac's proposal
 that (by way of beginning) the soldiers should shoot their officers.
 
      And indeed it was in this regard that the two men differed most
-from their leader and father in philosophy.  Dr Hirsch,
+from their leader and father in [[philosophy]].  Dr Hirsch,
 though born in France and covered with the most triumphant favours
-of French education, was temperamentally of another type--mild, dreamy,
+of French [[Education|education]], was temperamentally of another type--mild, dreamy,
 humane; and, despite his sceptical system, not devoid of transcendentalism. 
 He was, in short, more like a German than a Frenchman; and much as they
 admired him, something in the subconsciousness of these Gauls was
 irritated at his pleading for peace in so peaceful a manner. 
 To their party throughout Europe, however, Paul Hirsch was
 a saint of science.  His large and daring cosmic theories
-advertised his austere life and innocent, if somewhat frigid, morality;
+advertised his austere life and [[Innocent|innocent]], if somewhat frigid, [[morality]];
 he held something of the position of Darwin doubled with the position
-of Tolstoy.  But he was neither an anarchist nor an antipatriot;
+of [[tolstoy|Tolstoy]].  But he was neither an anarchist nor an antipatriot;
 his views on disarmament were moderate and evolutionary--
-the Republican Government put considerable confidence in him
+the Republican [[government|Government]] put considerable confidence in him
 as to various chemical improvements.  He had lately even discovered
-a noiseless explosive, the secret of which the Government was
+a noiseless explosive, the secret of which the [[government|Government]] was
 carefully guarding.
 
-     His house stood in a handsome street near the Elysee--
-a street which in that strong summer seemed almost as full of foliage
+     His [[house]] stood in a handsome street near the Elysee--
+a street which in that strong [[Summer|summer]] seemed almost as full of foliage
 as the park itself; a row of chestnuts shattered the sunshine,
 interrupted only in one place where a large cafe ran out into the street. 
 Almost opposite to this were the white and green blinds of
-the great scientist's house, an iron balcony, also painted green,
+the great scientist's [[house]], an iron balcony, also painted green,
 running along in front of the first-floor windows.  Beneath this was
-the entrance into a kind of court, gay with shrubs and tiles,
+the entrance into a kind of [[Court|court]], gay with shrubs and tiles,
 into which the two Frenchmen passed in animated talk.
 
      The door was opened to them by the doctor's old servant, Simon,
-who might very well have passed for a doctor himself, having a strict
+who might very [[Well|well]] have passed for a doctor himself, having a strict
 suit of black, spectacles, grey hair, and a confidential manner. 
 In fact, he was a far more presentable man of science than his master,
 Dr Hirsch, who was a forked radish of a fellow, with just enough
-bulb of a head to make his body insignificant.  With all the gravity
+bulb of a head to make his [[Body|body]] insignificant.  With all the gravity
 of a great physician handling a prescription, Simon handed a letter
 to M. Armagnac.  That gentleman ripped it up with a racial impatience,
 and rapidly read the following:
 
-     I cannot come down to speak to you.  There is a man in this house
+     I cannot come down to speak to you.  There is a man in this [[house]]
 whom I refuse to meet.  He is a Chauvinist officer, Dubosc. 
 He is sitting on the stairs.  He has been kicking the furniture about
 in all the other rooms; I have locked myself in my study,
-opposite that cafe.  If you love me, go over to the cafe and wait
+opposite that cafe.  If you [[Love|love]] me, go over to the cafe and wait
 at one of the tables outside.  I will try to send him over to you. 
 I want you to answer him and deal with him.  I cannot meet him myself. 
 I cannot: I will not.
@@ -99,7 +99,7 @@ I cannot: I will not.
 read it, and looked at M. Armagnac.  Then both betook themselves briskly
 to one of the little tables under the chestnuts opposite,
 where they procured two tall glasses of horrible green absinthe,
-which they could drink apparently in any weather and at any time. 
+which they could drink apparently in any weather and at any [[Time|time]]. 
 Otherwise the cafe seemed empty, except for one soldier drinking coffee
 at one table, and at another a large man drinking a small syrup and
 a priest drinking nothing.
@@ -107,11 +107,11 @@ a priest drinking nothing.
      Maurice Brun cleared his throat and said:  "Of course we must help
 the master in every way, but--"
 
-     There was an abrupt silence, and Armagnac said:  "He may have
+     There was an abrupt [[Silence|silence]], and Armagnac said:  "He may have
 excellent reasons for not meeting the man himself, but--"
 
      Before either could complete a sentence, it was evident that
-the invader had been expelled from the house opposite.  The shrubs under
+the invader had been expelled from the [[house]] opposite.  The shrubs under
 the archway swayed and burst apart, as that unwelcome guest was
 shot out of them like a cannon-ball.
 

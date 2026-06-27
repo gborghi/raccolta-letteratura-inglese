@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 14"
+title: "The Mystery of [[Edwin Drood]] — Chapter 14"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -21,12 +21,12 @@ WHEN SHALL THESE THREE MEET AGAIN?
 Christmas Eve in Cloisterham. A few strange faces in the streets; a few
 other faces, half strange and half familiar, once the faces of
 Cloisterham children, now the faces of men and women who come back from
-the outer world at long intervals to find the city wonderfully shrunken
-in size, as if it had not washed by any means well in the meanwhile. To
-these, the striking of the Cathedral clock, and the cawing of the rooks
-from the Cathedral tower, are like voices of their nursery time. To
+the outer world at long intervals to find the [[City|city]] wonderfully shrunken
+in size, as if it had not washed by any means [[Well|well]] in the meanwhile. To
+these, the striking of the [[Cathedral]] [[Clock|clock]], and the cawing of the rooks
+from the [[Cathedral]] tower, are like voices of their nursery [[Time|time]]. To
 such as these, it has happened in their dying hours afar off, that they
-have imagined their chamber-floor to be strewn with the autumnal leaves
+have imagined their chamber-floor to be strewn with the autumnal [[Leaves|leaves]]
 fallen from the elm-trees in the Close: so have the rustling sounds and
 fresh scents of their earliest impressions revived when the circle of
 their lives was very nearly traced, and the beginning and the end were
@@ -34,7 +34,7 @@ drawing close together.
 
 Seasonable tokens are about. Red berries shine here and there in the
 lattices of Minor Canon Corner; Mr. and Mrs. Tope are daintily sticking
-sprigs of holly into the carvings and sconces of the Cathedral stalls,
+sprigs of holly into the carvings and sconces of the [[Cathedral]] stalls,
 as if they were sticking them into the coat-button-holes of the Dean
 and Chapter. Lavish profusion is in the shops: particularly in the
 articles of currants, raisins, spices, candied peel, and moist sugar.
@@ -46,14 +46,14 @@ called it a Twenty-fourth Cake or a Forty-eighth Cake—to be raffled for
 at the pastrycook’s, terms one shilling per member. Public amusements
 are not wanting. The Wax-Work which made so deep an impression on the
 reflective mind of the Emperor of China is to be seen by particular
-desire during Christmas Week only, on the premises of the bankrupt
+[[Desire|desire]] during Christmas Week only, on the premises of the bankrupt
 livery-stable-keeper up the lane; and a new grand comic Christmas
 pantomime is to be produced at the Theatre: the latter heralded by the
 portrait of Signor Jacksonini the clown, saying “How do you do
 to-morrow?” quite as large as life, and almost as miserably. In short,
 Cloisterham is up and doing: though from this description the High
 School and Miss Twinkleton’s are to be excluded. From the former
-establishment the scholars have gone home, every one of them in love
+establishment the scholars have gone [[Home|home]], every one of them in [[Love|love]]
 with one of Miss Twinkleton’s young ladies (who knows nothing about
 it); and only the handmaidens flutter occasionally in the windows of
 the latter. It is noticed, by the bye, that these damsels become,
@@ -61,24 +61,24 @@ within the limits of decorum, more skittish when thus intrusted with
 the concrete representation of their sex, than when dividing the
 representation with Miss Twinkleton’s young ladies.
 
-Three are to meet at the gatehouse to-night. How does each one of the
+Three are to meet at the gatehouse to-[[Night|night]]. How does each one of the
 three get through the day?
 
-Neville Landless, though absolved from his books for the time by Mr.
-Crisparkle—whose fresh nature is by no means insensible to the charms
+[[Neville Landless]], though absolved from his books for the [[Time|time]] by Mr.
+Crisparkle—whose fresh [[Nature|nature]] is by no means insensible to the charms
 of a holiday—reads and writes in his quiet room, with a concentrated
-air, until it is two hours past noon. He then sets himself to clearing
+air, until it is two hours past [[Noon|noon]]. He then sets himself to clearing
 his table, to arranging his books, and to tearing up and burning his
 stray papers. He makes a clean sweep of all untidy accumulations, puts
-all his drawers in order, and leaves no note or scrap of paper
+all his drawers in order, and [[Leaves|leaves]] no note or scrap of paper
 undestroyed, save such memoranda as bear directly on his studies. This
 done, he turns to his wardrobe, selects a few articles of ordinary
 wear—among them, change of stout shoes and socks for walking—and packs
 these in a knapsack. This knapsack is new, and he bought it in the High
-Street yesterday. He also purchased, at the same time and at the same
+Street yesterday. He also purchased, at the same [[Time|time]] and at the same
 place, a heavy walking-stick; strong in the handle for the grip of the
 hand, and iron-shod. He tries this, swings it, poises it, and lays it
-by, with the knapsack, on a window-seat. By this time his arrangements
+by, with the knapsack, on a [[Window|window]]-seat. By this [[Time|time]] his arrangements
 are complete.
 
 He dresses for going out, and is in the act of going—indeed has left
@@ -111,7 +111,7 @@ come back before dinner?”
 Mr. Crisparkle gives him a bright nod and a cheerful good-bye;
 expressing (not without intention) absolute confidence and ease.
 
-Neville repairs to the Nuns’ House, and requests that Miss Landless may
+Neville repairs to the Nuns’ [[house|House]], and requests that Miss Landless may
 be informed that her brother is there, by appointment. He waits at the
 gate, not even crossing the threshold; for he is on his parole not to
 put himself in Rosa’s way.
@@ -121,7 +121,7 @@ themselves as he can be, and loses not a moment in joining him. They
 meet affectionately, avoid lingering there, and walk towards the upper
 inland country.
 
-“I am not going to tread upon forbidden ground, Helena,” says Neville,
+“I am not going to tread upon forbidden ground, [[Helena]],” says Neville,
 when they have walked some distance and are turning; “you will
 understand in another moment that I cannot help referring to—what shall
 I say?—my infatuation.”
@@ -134,60 +134,60 @@ approval.”
 
 “Yes; I can hear so much.”
 
-“Well, it is this. I am not only unsettled and unhappy myself, but I am
+“[[Well]], it is this. I am not only unsettled and unhappy myself, but I am
 conscious of unsettling and interfering with other people. How do I
 know that, but for my unfortunate presence, you, and—and—the rest of
 that former party, our engaging guardian excepted, might be dining
 cheerfully in Minor Canon Corner to-morrow? Indeed it probably would be
-so. I can see too well that I am not high in the old lady’s opinion,
+so. I can see too [[Well|well]] that I am not high in the old lady’s opinion,
 and it is easy to understand what an irksome clog I must be upon the
-hospitalities of her orderly house—especially at this time of year—when
+hospitalities of her orderly [[house]]—especially at this [[Time|time]] of year—when
 I must be kept asunder from this person, and there is such a reason for
 my not being brought into contact with that person, and an unfavourable
 reputation has preceded me with such another person; and so on. I have
-put this very gently to Mr. Crisparkle, for you know his self-denying
+put this very gently to Mr. Crisparkle, for you know his [[Self|self]]-denying
 ways; but still I have put it. What I have laid much greater stress
-upon at the same time is, that I am engaged in a miserable struggle
+upon at the same [[Time|time]] is, that I am engaged in a miserable struggle
 with myself, and that a little change and absence may enable me to come
 through it the better. So, the weather being bright and hard, I am
 going on a walking expedition, and intend taking myself out of
-everybody’s way (my own included, I hope) to-morrow morning.”
+everybody’s way (my own included, I [[Hope|hope]]) to-morrow morning.”
 
 “When to come back?”
 
 “In a fortnight.”
 
-“And going quite alone?”
+“And going quite [[Alone|alone]]?”
 
 “I am much better without company, even if there were any one but you
-to bear me company, my dear Helena.”
+to bear me company, my dear [[Helena]].”
 
 “Mr. Crisparkle entirely agrees, you say?”
 
 “Entirely. I am not sure but that at first he was inclined to think it
 rather a moody scheme, and one that might do a brooding mind harm. But
-we took a moonlight walk last Monday night, to talk it over at leisure,
+we took a moonlight walk last Monday [[Night|night]], to talk it over at leisure,
 and I represented the case to him as it really is. I showed him that I
-do want to conquer myself, and that, this evening well got over, it is
+do want to conquer myself, and that, this evening [[Well|well]] got over, it is
 surely better that I should be away from here just now, than here. I
 could hardly help meeting certain people walking together here, and
 that could do no good, and is certainly not the way to forget. A
-fortnight hence, that chance will probably be over, for the time; and
-when it again arises for the last time, why, I can again go away.
+fortnight hence, that chance will probably be over, for the [[Time|time]]; and
+when it again arises for the last [[Time|time]], why, I can again go away.
 Farther, I really do feel hopeful of bracing exercise and wholesome
 fatigue. You know that Mr. Crisparkle allows such things their full
-weight in the preservation of his own sound mind in his own sound body,
+weight in the preservation of his own sound mind in his own sound [[Body|body]],
 and that his just spirit is not likely to maintain one set of natural
 laws for himself and another for me. He yielded to my view of the
 matter, when convinced that I was honestly in earnest; and so, with his
 full consent, I start to-morrow morning. Early enough to be not only
-out of the streets, but out of hearing of the bells, when the good
+out of the streets, but out of hearing of [[The Bells|the bells]], when the good
 people go to church.”
 
-Helena thinks it over, and thinks well of it. Mr. Crisparkle doing so,
+[[Helena]] thinks it over, and thinks [[Well|well]] of it. Mr. Crisparkle doing so,
 she would do so; but she does originally, out of her own mind, think
-well of it, as a healthy project, denoting a sincere endeavour and an
-active attempt at self-correction. She is inclined to pity him, poor
+[[Well|well]] of it, as a healthy project, denoting a sincere endeavour and an
+active attempt at [[Self|self]]-correction. She is inclined to pity him, poor
 fellow, for going away solitary on the great Christmas festival; but
 she feels it much more to the purpose to encourage him. And she does
 encourage him.
@@ -199,7 +199,7 @@ adventures.
 
 Does he send clothes on in advance of him?
 
-“My dear Helena, no. Travel like a pilgrim, with wallet and staff. My
+“My dear [[Helena]], no. Travel like a [[Pilgrim|pilgrim]], with wallet and staff. My
 wallet—or my knapsack—is packed, and ready for strapping on; and here
 is my staff!”
 
@@ -210,10 +210,10 @@ Iron-wood.
 Up to this point he has been extremely cheerful. Perhaps, the having to
 carry his case with her, and therefore to present it in its brightest
 aspect, has roused his spirits. Perhaps, the having done so with
-success, is followed by a revulsion. As the day closes in, and the
-city-lights begin to spring up before them, he grows depressed.
+[[success]], is followed by a revulsion. As the day closes in, and the
+[[City|city]]-lights begin to [[Spring|spring]] up before them, he grows depressed.
 
-“I wish I were not going to this dinner, Helena.”
+“I wish I were not going to this dinner, [[Helena]].”
 
 “Dear Neville, is it worth while to care much about it? Think how soon
 it will be over.”
@@ -229,31 +229,31 @@ answers her.
 
 “How strangely you speak, dear! What do you mean?”
 
-“Helena, I don’t know. I only know that I don’t like it. What a strange
+“[[Helena]], I don’t know. I only know that I don’t like it. What a strange
 dead weight there is in the air!”
 
-She calls his attention to those copperous clouds beyond the river, and
-says that the wind is rising. He scarcely speaks again, until he takes
-leave of her, at the gate of the Nuns’ House. She does not immediately
+She calls his attention to those copperous clouds beyond the [[River|river]], and
+says that the [[Wind|wind]] is rising. He scarcely speaks again, until he takes
+leave of her, at the gate of the Nuns’ [[house|House]]. She does not immediately
 enter, when they have parted, but remains looking after him along the
 street. Twice he passes the gatehouse, reluctant to enter. At length,
-the Cathedral clock chiming one quarter, with a rapid turn he hurries
+the [[Cathedral]] [[Clock|clock]] chiming one quarter, with a rapid turn he hurries
 in.
 
 And so _he_ goes up the postern stair.
 
-Edwin Drood passes a solitary day. Something of deeper moment than he
-had thought, has gone out of his life; and in the silence of his own
-chamber he wept for it last night. Though the image of Miss Landless
+[[Edwin Drood]] passes a solitary day. Something of deeper moment than he
+had thought, has gone out of his life; and in the [[Silence|silence]] of his own
+chamber he wept for it last [[Night|night]]. Though the image of Miss Landless
 still hovers in the background of his mind, the pretty little
 affectionate creature, so much firmer and wiser than he had supposed,
 occupies its stronghold. It is with some misgiving of his own
 unworthiness that he thinks of her, and of what they might have been to
-one another, if he had been more in earnest some time ago; if he had
+one another, if he had been more in earnest some [[Time|time]] ago; if he had
 set a higher value on her; if, instead of accepting his lot in life as
 an inheritance of course, he had studied the right way to its
 appreciation and enhancement. And still, for all this, and though there
-is a sharp heartache in all this, the vanity and caprice of youth
+is a sharp heartache in all this, the [[Vanity|vanity]] and caprice of youth
 sustain that handsome figure of Miss Landless in the background of his
 mind.
 
@@ -264,8 +264,8 @@ and keen inquiry. He decides that he cannot understand it, though it
 was remarkably expressive.
 
 As he only waits for Mr. Grewgious now, and will depart immediately
-after having seen him, he takes a sauntering leave of the ancient city
-and its neighbourhood. He recalls the time when Rosa and he walked here
+after having seen him, he takes a sauntering leave of the ancient [[City|city]]
+and its neighbourhood. He recalls the [[Time|time]] when Rosa and he walked here
 or there, mere children, full of the dignity of being engaged. Poor
 children! he thinks, with a pitying sadness.
 
@@ -273,7 +273,7 @@ Finding that his watch has stopped, he turns into the jeweller’s shop,
 to have it wound and set. The jeweller is knowing on the subject of a
 bracelet, which he begs leave to submit, in a general and quite aimless
 way. It would suit (he considers) a young bride, to perfection;
-especially if of a rather diminutive style of beauty. Finding the
+especially if of a rather diminutive style of [[Beauty|beauty]]. Finding the
 bracelet but coldly looked at, the jeweller invites attention to a tray
 of rings for gentlemen; here is a style of ring, now, he remarks—a very
 chaste signet—which gentlemen are much given to purchasing, when
@@ -292,7 +292,7 @@ to a gentleman relative, on any particular occasion—But he said with a
 smile that he had an inventory in his mind of all the jewellery his
 gentleman relative ever wore; namely, his watch and chain, and his
 shirt-pin.” Still (the jeweller considers) that might not apply to all
-times, though applying to the present time. “Twenty minutes past two,
+times, though applying to the present [[Time|time]]. “Twenty minutes past two,
 Mr. Drood, I set your watch at. Let me recommend you not to let it run
 down, sir.”
 
@@ -300,20 +300,20 @@ Edwin takes his watch, puts it on, and goes out, thinking: “Dear old
 Jack! If I were to make an extra crease in my neckcloth, he would think
 it worth noticing!”
 
-He strolls about and about, to pass the time until the dinner-hour. It
+He strolls about and about, to pass the [[Time|time]] until the dinner-hour. It
 somehow happens that Cloisterham seems reproachful to him to-day; has
-fault to find with him, as if he had not used it well; but is far more
+fault to find with him, as if he had not used it [[Well|well]]; but is far more
 pensive with him than angry. His wonted carelessness is replaced by a
 wistful looking at, and dwelling upon, all the old landmarks. He will
 soon be far away, and may never see them again, he thinks. Poor youth!
 Poor youth!
 
-As dusk draws on, he paces the Monks’ Vineyard. He has walked to and
-fro, full half an hour by the Cathedral chimes, and it has closed in
+As dusk draws on, he paces the [[Monks]]’ Vineyard. He has walked to and
+fro, full half an hour by the [[Cathedral]] chimes, and it has closed in
 dark, before he becomes quite aware of a woman crouching on the ground
-near a wicket gate in a corner. The gate commands a cross bye-path,
+near a wicket gate in a corner. The gate commands a [[Cross|cross]] bye-path,
 little used in the gloaming; and the figure must have been there all
-the time, though he has but gradually and lately made it out.
+the [[Time|time]], though he has but gradually and lately made it out.
 
 He strikes into that path, and walks up to the wicket. By the light of
 a lamp near it, he sees that the woman is of a haggard appearance, and
@@ -343,7 +343,7 @@ begins to shake.
 He straightens himself, recoils a step, and looks down at her in a
 dread amazement; for he seems to know her.
 
-“Good Heaven!” he thinks, next moment. “Like Jack that night!”
+“Good Heaven!” he thinks, next moment. “Like Jack that [[Night|night]]!”
 
 As he looks down at her, she looks up at him, and whimpers: “My lungs
 is weakly; my lungs is dreffle bad. Poor me, poor me, my cough is
@@ -351,21 +351,21 @@ rattling dry!” and coughs in confirmation horribly.
 
 “Where do you come from?”
 
-“Come from London, deary.” (Her cough still rending her.)
+“Come from [[London]], deary.” (Her cough still rending her.)
 
 “Where are you going to?”
 
-“Back to London, deary. I came here, looking for a needle in a
+“Back to [[London]], deary. I came here, looking for a needle in a
 haystack, and I ain’t found it. Look’ee, deary; give me
 three-and-sixpence, and don’t you be afeard for me. I’ll get back to
-London then, and trouble no one. I’m in a business.—Ah, me! It’s slack,
+[[London]] then, and trouble no one. I’m in a business.—Ah, me! It’s slack,
 it’s slack, and times is very bad!—but I can make a shift to live by
 it.”
 
 “Do you eat opium?”
 
 “Smokes it,” she replies with difficulty, still racked by her cough.
-“Give me three-and-sixpence, and I’ll lay it out well, and get back. If
+“Give me three-and-sixpence, and I’ll lay it out [[Well|well]], and get back. If
 you don’t give me three-and-sixpence, don’t give me a brass farden. And
 if you do give me three-and-sixpence, deary, I’ll tell you something.”
 
@@ -388,14 +388,14 @@ his face.
 
 “How should I know?”
 
-“Haven’t you a sweetheart, upon your soul?”
+“Haven’t you a sweetheart, upon your [[Soul|soul]]?”
 
 “None.”
 
 She is moving away, with another “Bless ye, and thank’ee, deary!” when
-he adds: “You were to tell me something; you may as well do so.”
+he adds: “You were to tell me something; you may as [[Well|well]] do so.”
 
-“So I was, so I was. Well, then. Whisper. You be thankful that your
+“So I was, so I was. [[Well]], then. Whisper. You be thankful that your
 name ain’t Ned.”
 
 He looks at her quite steadily, as he asks: “Why?”
@@ -410,34 +410,34 @@ He looks at her quite steadily, as he asks: “Why?”
 lightly.
 
 “Then Ned—so threatened is he, wherever he may be while I am a-talking
-to you, deary—should live to all eternity!” replies the woman.
+to you, deary—should live to all [[Eternity|eternity]]!” replies the woman.
 
 She has leaned forward to say it in his ear, with her forefinger
 shaking before his eyes, and now huddles herself together, and with
 another “Bless ye, and thank’ee!” goes away in the direction of the
-Travellers’ Lodging House.
+Travellers’ Lodging [[house|House]].
 
-This is not an inspiriting close to a dull day. Alone, in a sequestered
-place, surrounded by vestiges of old time and decay, it rather has a
+This is not an inspiriting close to a dull day. [[Alone]], in a sequestered
+place, surrounded by vestiges of old [[Time|time]] and [[Decay|decay]], it rather has a
 tendency to call a shudder into being. He makes for the better-lighted
-streets, and resolves as he walks on to say nothing of this to-night,
-but to mention it to Jack (who alone calls him Ned), as an odd
+streets, and resolves as he walks on to say nothing of this to-[[Night|night]],
+but to mention it to Jack (who [[Alone|alone]] calls him Ned), as an odd
 coincidence, to-morrow; of course only as a coincidence, and not as
 anything better worth remembering.
 
 Still, it holds to him, as many things much better worth remembering
 never did. He has another mile or so, to linger out before the
-dinner-hour; and, when he walks over the bridge and by the river, the
-woman’s words are in the rising wind, in the angry sky, in the troubled
-water, in the flickering lights. There is some solemn echo of them even
-in the Cathedral chime, which strikes a sudden surprise to his heart as
+dinner-hour; and, when he walks over the bridge and by the [[River|river]], the
+woman’s words are in the rising [[Wind|wind]], in the angry sky, in the troubled
+[[Water|water]], in the flickering lights. There is some solemn echo of them even
+in the [[Cathedral]] chime, which strikes a sudden surprise to his heart as
 he turns in under the archway of the gatehouse.
 
 And so _he_ goes up the postern stair.
 
-John Jasper passes a more agreeable and cheerful day than either of his
-guests. Having no music-lessons to give in the holiday season, his time
-is his own, but for the Cathedral services. He is early among the
+[[John Jasper]] passes a more agreeable and cheerful day than either of his
+guests. Having no music-lessons to give in the holiday season, his [[Time|time]]
+is his own, but for the [[Cathedral]] services. He is early among the
 shopkeepers, ordering little table luxuries that his nephew likes. His
 nephew will not be with him long, he tells his provision-dealers, and
 so must be petted and made much of. While out on his hospitable
@@ -449,8 +449,8 @@ complexion is “Un-English.” And when Mr. Sapsea has once declared
 anything to be Un-English, he considers that thing everlastingly sunk
 in the bottomless pit.
 
-John Jasper is truly sorry to hear Mr. Sapsea speak thus, for he knows
-right well that Mr. Sapsea never speaks without a meaning, and that he
+[[John Jasper]] is truly sorry to hear Mr. Sapsea speak thus, for he knows
+right [[Well|well]] that Mr. Sapsea never speaks without a meaning, and that he
 has a subtle trick of being right. Mr. Sapsea (by a very remarkable
 coincidence) is of exactly that opinion.
 
@@ -459,7 +459,7 @@ to have his heart inclined to keep this law, he quite astonishes his
 fellows by his melodious power. He has never sung difficult music with
 such skill and harmony, as in this day’s Anthem. His nervous
 temperament is occasionally prone to take difficult music a little too
-quickly; to-day, his time is perfect.
+quickly; to-day, his [[Time|time]] is perfect.
 
 These results are probably attained through a grand composure of the
 spirits. The mere mechanism of his throat is a little tender, for he
@@ -470,20 +470,20 @@ they come out from Vespers.
 
 “I must thank you, Jasper, for the pleasure with which I have heard you
 to-day. Beautiful! Delightful! You could not have so outdone yourself,
-I hope, without being wonderfully well.”
+I [[Hope|hope]], without being wonderfully [[Well|well]].”
 
-“I _am_ wonderfully well.”
+“I _am_ wonderfully [[Well|well]].”
 
 “Nothing unequal,” says the Minor Canon, with a smooth motion of his
 hand: “nothing unsteady, nothing forced, nothing avoided; all
-thoroughly done in a masterly manner, with perfect self-command.”
+thoroughly done in a masterly manner, with perfect [[Self|self]]-command.”
 
-“Thank you. I hope so, if it is not too much to say.”
+“Thank you. I [[Hope|hope]] so, if it is not too much to say.”
 
 “One would think, Jasper, you had been trying a new medicine for that
 occasional indisposition of yours.”
 
-“No, really? That’s well observed; for I have.”
+“No, really? That’s [[Well|well]] observed; for I have.”
 
 “Then stick to it, my good fellow,” says Mr. Crisparkle, clapping him
 on the shoulder with friendly encouragement, “stick to it.”
@@ -491,23 +491,23 @@ on the shoulder with friendly encouragement, “stick to it.”
 “I will.”
 
 “I congratulate you,” Mr. Crisparkle pursues, as they come out of the
-Cathedral, “on all accounts.”
+[[Cathedral]], “on all accounts.”
 
 “Thank you again. I will walk round to the Corner with you, if you
-don’t object; I have plenty of time before my company come; and I want
+don’t object; I have plenty of [[Time|time]] before my company come; and I want
 to say a word to you, which I think you will not be displeased to
 hear.”
 
 “What is it?”
 
-“Well. We were speaking, the other evening, of my black humours.”
+“[[Well]]. We were speaking, the other evening, of my black humours.”
 
 Mr. Crisparkle’s face falls, and he shakes his head deploringly.
 
 “I said, you know, that I should make you an antidote to those black
 humours; and you said you hoped I would consign them to the flames.”
 
-“And I still hope so, Jasper.”
+“And I still [[Hope|hope]] so, Jasper.”
 
 “With the best reason in the world! I mean to burn this year’s Diary at
 the year’s end.”
@@ -535,15 +535,15 @@ the next volume with a clearer vision.”
 “This is better,” says Mr. Crisparkle, stopping at the steps of his own
 door to shake hands, “than I could have hoped.”
 
-“Why, naturally,” returns Jasper. “You had but little reason to hope
+“Why, naturally,” returns Jasper. “You had but little reason to [[Hope|hope]]
 that I should become more like yourself. You are always training
-yourself to be, mind and body, as clear as crystal, and you always are,
+yourself to be, mind and [[Body|body]], as clear as crystal, and you always are,
 and never change; whereas I am a muddy, solitary, moping weed. However,
 I have got over that mope. Shall I wait, while you ask if Mr. Neville
 has left for my place? If not, he and I may walk round together.”
 
 “I think,” says Mr. Crisparkle, opening the entrance-door with his key,
-“that he left some time ago; at least I know he left, and I think he
+“that he left some [[Time|time]] ago; at least I know he left, and I think he
 has not come back. But I’ll inquire. You won’t come in?”
 
 “My company wait,” said Jasper, with a smile.
@@ -558,15 +558,15 @@ me! What will you bet that I don’t find my company embracing?”
 “I will bet—or I would, if ever I did bet,” returns Mr. Crisparkle,
 “that your company will have a gay entertainer this evening.”
 
-Jasper nods, and laughs good-night!
+Jasper nods, and laughs good-[[Night|night]]!
 
-He retraces his steps to the Cathedral door, and turns down past it to
+He retraces his steps to the [[Cathedral]] door, and turns down past it to
 the gatehouse. He sings, in a low voice and with delicate expression,
 as he walks along. It still seems as if a false note were not within
-his power to-night, and as if nothing could hurry or retard him.
+his power to-[[Night|night]], and as if nothing could hurry or retard him.
 Arriving thus under the arched entrance of his dwelling, he pauses for
 an instant in the shelter to pull off that great black scarf, and bang
-it in a loop upon his arm. For that brief time, his face is knitted and
+it in a loop upon his arm. For that brief [[Time|time]], his face is knitted and
 stern. But it immediately clears, as he resumes his singing, and his
 way.
 
@@ -575,25 +575,25 @@ And so _he_ goes up the postern stair.
 The red light burns steadily all the evening in the lighthouse on the
 margin of the tide of busy life. Softened sounds and hum of traffic
 pass it and flow on irregularly into the lonely Precincts; but very
-little else goes by, save violent rushes of wind. It comes on to blow a
+little else goes by, save violent rushes of [[Wind|wind]]. It comes on to blow a
 boisterous gale.
 
-The Precincts are never particularly well lighted; but the strong
-blasts of wind blowing out many of the lamps (in some instances
+The Precincts are never particularly [[Well|well]] lighted; but the strong
+blasts of [[Wind|wind]] blowing out many of the lamps (in some instances
 shattering the frames too, and bringing the glass rattling to the
-ground), they are unusually dark to-night. The darkness is augmented
-and confused, by flying dust from the earth, dry twigs from the trees,
+ground), they are unusually dark to-[[Night|night]]. The darkness is augmented
+and confused, by flying [[Dust|dust]] from the earth, dry twigs from the trees,
 and great ragged fragments from the rooks’ nests up in the tower. The
 trees themselves so toss and creak, as this tangible part of the
 darkness madly whirls about, that they seem in peril of being torn out
 of the earth: while ever and again a crack, and a rushing fall, denote
-that some large branch has yielded to the storm.
+that some large branch has yielded to the [[Storm|storm]].
 
-Not such power of wind has blown for many a winter night. Chimneys
+Not such power of [[Wind|wind]] has blown for many a [[Winter|winter]] [[Night|night]]. Chimneys
 topple in the streets, and people hold to posts and corners, and to one
 another, to keep themselves upon their feet. The violent rushes abate
 not, but increase in frequency and fury until at midnight, when the
-streets are empty, the storm goes thundering along them, rattling at
+streets are empty, the [[Storm|storm]] goes thundering along them, rattling at
 all the latches, and tearing at all the shutters, as if warning the
 people to get up and fly with it, rather than have the roofs brought
 down upon their brains.
@@ -601,31 +601,31 @@ down upon their brains.
 Still, the red light burns steadily. Nothing is steady but the red
 light.
 
-All through the night the wind blows, and abates not. But early in the
+All through the [[Night|night]] the [[Wind|wind]] blows, and abates not. But early in the
 morning, when there is barely enough light in the east to dim the
-stars, it begins to lull. From that time, with occasional wild charges,
-like a wounded monster dying, it drops and sinks; and at full daylight
+[[Stars|stars]], it begins to lull. From that [[Time|time]], with occasional wild charges,
+like a wounded [[Monster|monster]] dying, it drops and sinks; and at full daylight
 it is dead.
 
-It is then seen that the hands of the Cathedral clock are torn off;
+It is then seen that the hands of the [[Cathedral]] [[Clock|clock]] are torn off;
 that lead from the roof has been stripped away, rolled up, and blown
 into the Close; and that some stones have been displaced upon the
 summit of the great tower. Christmas morning though it be, it is
 necessary to send up workmen, to ascertain the extent of the damage
-done. These, led by Durdles, go aloft; while Mr. Tope and a crowd of
+done. These, led by [[Durdles]], go aloft; while Mr. Tope and a crowd of
 early idlers gather down in Minor Canon Corner, shading their eyes and
 watching for their appearance up there.
 
 This cluster is suddenly broken and put aside by the hands of Mr.
 Jasper; all the gazing eyes are brought down to the earth by his loudly
-inquiring of Mr. Crisparkle, at an open window:
+inquiring of Mr. Crisparkle, at an open [[Window|window]]:
 
 “Where is my nephew?”
 
 “He has not been here. Is he not with you?”
 
-“No. He went down to the river last night, with Mr. Neville, to look at
-the storm, and has not been back. Call Mr. Neville!”
+“No. He went down to the [[River|river]] last [[Night|night]], with Mr. Neville, to look at
+the [[Storm|storm]], and has not been back. Call Mr. Neville!”
 
 “He left this morning, early.”
 
@@ -633,4 +633,4 @@ the storm, and has not been back. Call Mr. Neville!”
 
 There is no more looking up at the tower, now. All the assembled eyes
 are turned on Mr. Jasper, white, half-dressed, panting, and clinging to
-the rail before the Minor Canon’s house.
+the rail before the Minor Canon’s [[house]].

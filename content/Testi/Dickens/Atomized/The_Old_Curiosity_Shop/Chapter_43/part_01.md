@@ -16,7 +16,7 @@ tags:
 
 CHAPTER 43
 
-Her momentary weakness past, the child again summoned the resolution
+Her momentary weakness past, the [[Child|child]] again summoned the resolution
 which had until now sustained her, and, endeavouring to keep steadily
 in her view the one idea that they were flying from disgrace and crime,
 and that her grandfather’s preservation must depend solely on her
@@ -25,14 +25,14 @@ onward and looked back no more.
 
 While he, subdued and abashed, seemed to crouch before her, and to
 shrink and cower down, as if in the presence of some superior creature,
-the child herself was sensible of a new feeling within her, which
-elevated her nature, and inspired her with an energy and confidence she
+the [[Child|child]] herself was sensible of a new feeling within her, which
+elevated her [[Nature|nature]], and inspired her with an energy and confidence she
 had never known.  There was no divided responsibility now; the whole
 burden of their two lives had fallen upon her, and henceforth she must
 think and act for both.  ‘I have saved him,’ she thought.  ‘In all
 dangers and distresses, I will remember that.’
 
-At any other time, the recollection of having deserted the friend who
+At any other [[Time|time]], the recollection of having deserted the friend who
 had shown them so much homely kindness, without a word of
 justification--the thought that they were guilty, in appearance, of
 treachery and ingratitude--even the having parted from the two
@@ -44,40 +44,40 @@ condition roused and stimulated her.
 In the pale moonlight, which lent a wanness of its own to the delicate
 face where thoughtful care already mingled with the winning grace and
 loveliness of youth, the too bright eye, the spiritual head, the lips
-that pressed each other with such high resolve and courage of the
+that pressed each other with such high resolve and [[Courage|courage]] of the
 heart, the slight figure firm in its bearing and yet so very weak, told
-their silent tale; but told it only to the wind that rustled by, which,
+their silent tale; but told it only to the [[Wind|wind]] that rustled by, which,
 taking up its burden, carried, perhaps to some mother’s pillow, faint
-dreams of childhood fading in its bloom, and resting in the sleep that
+[[Dreams|dreams]] of [[Childhood|childhood]] fading in its bloom, and resting in the [[Sleep|sleep]] that
 knows no waking.
 
-The night crept on apace, the moon went down, the stars grew pale and
+The [[Night|night]] crept on apace, the [[Moon|moon]] went down, the [[Stars|stars]] grew pale and
 dim, and morning, cold as they, slowly approached.  Then, from behind a
-distant hill, the noble sun rose up, driving the mists in phantom
+distant [[Hill|hill]], the noble sun [[Rose|rose]] up, driving the mists in [[Phantom|phantom]]
 shapes before it, and clearing the earth of their ghostly forms till
 darkness came again.  When it had climbed higher into the sky, and
-there was warmth in its cheerful beams, they laid them down to sleep,
-upon a bank, hard by some water.
+there was warmth in its cheerful beams, they laid them down to [[Sleep|sleep]],
+upon a bank, hard by some [[Water|water]].
 
 But Nell retained her grasp upon the old man’s arm, and long after he
 was slumbering soundly, watched him with untiring eyes.  Fatigue stole
 over her at last; her grasp relaxed, tightened, relaxed again, and they
 slept side by side.
 
-A confused sound of voices, mingling with her dreams, awoke her.  A man
+A confused sound of voices, mingling with her [[Dreams|dreams]], awoke her.  A man
 of very uncouth and rough appearance was standing over them, and two of
 his companions were looking on, from a long heavy boat which had come
 close to the bank while they were sleeping.  The boat had neither oar
 nor sail, but was towed by a couple of horses, who, with the rope to
-which they were harnessed slack and dripping in the water, were resting
+which they were harnessed slack and dripping in the [[Water|water]], were resting
 on the path.
 
 ‘Holloa!’ said the man roughly.  ‘What’s the matter here?’
 
 ‘We were only asleep, Sir,’ said Nell.  ‘We have been walking all
-night.’
+[[Night|night]].’
 
-‘A pair of queer travellers to be walking all night,’ observed the man
+‘A pair of queer travellers to be walking all [[Night|night]],’ observed the man
 who had first accosted them.  ‘One of you is a trifle too old for that
 sort of work, and the other a trifle too young.  Where are you going?’
 
@@ -103,24 +103,24 @@ the men beckoning to her.
 ‘You may go with us if you like,’ replied one of those in the boat.
 ‘We’re going to the same place.’
 
-The child hesitated for a moment.  Thinking, as she had thought with
+The [[Child|child]] hesitated for a moment.  Thinking, as she had thought with
 great trepidation more than once before, that the men whom she had seen
 with her grandfather might, perhaps, in their eagerness for the booty,
 follow them, and regaining their influence over him, set hers at
 nought; and that if they went with these men, all traces of them must
 surely be lost at that spot; determined to accept the offer.  The boat
-came close to the bank again, and before she had had any more time for
+came close to the bank again, and before she had had any more [[Time|time]] for
 consideration, she and her grandfather were on board, and gliding
 smoothly down the canal.
 
-The sun shone pleasantly on the bright water, which was sometimes
+The sun shone pleasantly on the bright [[Water|water]], which was sometimes
 shaded by trees, and sometimes open to a wide extent of country,
 intersected by running streams, and rich with wooded hills, cultivated
 land, and sheltered farms.  Now and then, a village with its modest
 spire, thatched roofs, and gable-ends, would peep out from among the
 trees; and, more than once, a distant town, with great church towers
 looming through its smoke, and high factories or workshops rising above
-the mass of houses, would come in view, and, by the length of time it
+the mass of houses, would come in view, and, by the length of [[Time|time]] it
 lingered in the distance, show them how slowly they travelled.  Their
 way lay, for the most part, through the low grounds, and open plains;
 and except these distant places, and occasionally some men working in
@@ -135,7 +135,7 @@ no provision with her, she had better buy it there.  She had but a few
 pence, having already bargained with them for some bread, but even of
 these it was necessary to be very careful, as they were on their way to
 an utterly strange place, with no resource whatever.  A small loaf and
-a morsel of cheese, therefore, were all she could afford, and with
+a morsel of [[cheese]], therefore, were all she could afford, and with
 these she took her place in the boat again, and, after half an hour’s
-delay during which the men were drinking at the public-house, proceeded
-on the journey.
+delay during which the men were drinking at the public-[[house]], proceeded
+on the [[Journey|journey]].

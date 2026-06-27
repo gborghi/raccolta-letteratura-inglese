@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 10: Containing the whole Science of Government (part 7)"
+title: "Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government]] (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -31,7 +31,7 @@ pig-headed to look at it. How there were more years; more impertinences,
 ignorances, and insults. How my lords then made a Minute, number five
 thousand one hundred and three, whereby they resigned the business to
 the Circumlocution Office. How the Circumlocution Office, in course of
-time, took up the business as if it were a bran new thing of yesterday,
+[[Time|time]], took up the business as if it were a bran new thing of yesterday,
 which had never been heard of before; muddled the business, addled the
 business, tossed the business in a wet blanket. How the impertinences,
 ignorances, and insults went through the multiplication table. How there
@@ -47,30 +47,30 @@ Office that very morning, and how the Brazen Head had spoken, and had
 been, upon the whole, and under all the circumstances, and looking at it
 from the various points of view, of opinion that one of two courses was
 to be pursued in respect of the business: that was to say, either to
-leave it alone for evermore, or to begin it all over again.
+leave it [[Alone|alone]] for evermore, or to begin it all over again.
 
 ‘Upon which,’ said Mr Meagles, ‘as a practical man, I then and there, in
 that presence, took Doyce by the collar, and told him it was plain to
 me that he was an infamous rascal and treasonable disturber of the
-government peace, and took him away. I brought him out of the office
+[[government]] peace, and took him away. I brought him out of the office
 door by the collar, that the very porter might know I was a practical
 man who appreciated the official estimate of such characters; and here
 we are!’
 
 If that airy young Barnacle had been there, he would have frankly told
 them perhaps that the Circumlocution Office had achieved its function.
-That what the Barnacles had to do, was to stick on to the national ship
-as long as they could. That to trim the ship, lighten the ship, clean
-the ship, would be to knock them off; that they could but be knocked off
-once; and that if the ship went down with them yet sticking to it, that
-was the ship’s look out, and not theirs.
+That what the Barnacles had to do, was to stick on to the national [[Ship|ship]]
+as long as they could. That to trim the [[Ship|ship]], lighten the [[Ship|ship]], clean
+the [[Ship|ship]], would be to knock them off; that they could but be knocked off
+once; and that if the [[Ship|ship]] went down with them yet sticking to it, that
+was the [[Ship|ship]]’s look out, and not theirs.
 
 ‘There!’ said Mr Meagles, ‘now you know all about Doyce. Except, which I
 own does not improve my state of mind, that even now you don’t hear him
 complain.’
 
-‘You must have great patience,’ said Arthur Clennam, looking at him with
-some wonder, ‘great forbearance.’
+‘You must have great patience,’ said [[Arthur Clennam]], looking at him with
+some [[Wonder|wonder]], ‘great forbearance.’
 
 ‘No,’ he returned, ‘I don’t know that I have more than another man.’
 
@@ -78,7 +78,7 @@ some wonder, ‘great forbearance.’
 
 Doyce smiled, as he said to Clennam, ‘You see, my experience of these
 things does not begin with myself. It has been in my way to know a
-little about them from time to time. Mine is not a particular case. I am
+little about them from [[Time|time]] to [[Time|time]]. Mine is not a particular case. I am
 not worse used than a hundred others who have put themselves in the same
 position--than all the others, I was going to say.’
 
@@ -87,7 +87,7 @@ but I am very glad that you do.’
 
 ‘Understand me! I don’t say,’ he replied in his steady, planning
 way, and looking into the distance before him as if his grey eye were
-measuring it, ‘that it’s recompense for a man’s toil and hope; but it’s
+measuring it, ‘that it’s recompense for a man’s toil and [[Hope|hope]]; but it’s
 a certain sort of relief to know that I might have counted on this.’
 
 He spoke in that quiet deliberate manner, and in that undertone, which
@@ -97,7 +97,7 @@ way of tilting up his hat at the back every now and then, as if he were
 contemplating some half-finished work of his hand and thinking about it.
 
 ‘Disappointed?’ he went on, as he walked between them under the trees.
-‘Yes. No doubt I am disappointed. Hurt? Yes. No doubt I am hurt. That’s
+‘Yes. No [[Doubt|doubt]] I am disappointed. Hurt? Yes. No [[Doubt|doubt]] I am hurt. That’s
 only natural. But what I mean when I say that people who put themselves
 in the same position are mostly used in the same way--’
 
@@ -110,7 +110,7 @@ many go there.’
 Mr Meagles very hot indeed again.
 
 ‘What I mean is, that however this comes to be the regular way of our
-government, it is its regular way. Have you ever heard of any projector
+[[government]], it is its regular way. Have you ever heard of any projector
 or inventor who failed to find it all but inaccessible, and whom it did
 not discourage and ill-treat?’
 
@@ -126,26 +126,26 @@ answer that. Never.’
 many cases of its fixed determination to be miles upon miles, and years
 upon years, behind the rest of us; and of its being found out persisting
 in the use of things long superseded, even after the better things were
-well known and generally taken up?’
+[[Well|well]] known and generally taken up?’
 
 They all agreed upon that.
 
-‘Well then,’ said Doyce, with a sigh, ‘as I know what such a metal will
-do at such a temperature, and such a body under such a pressure, so I
+‘[[Well]] then,’ said Doyce, with a sigh, ‘as I know what such a metal will
+do at such a temperature, and such a [[Body|body]] under such a pressure, so I
 may know (if I will only consider), how these great lords and gentlemen
 will certainly deal with such a matter as mine. I have no right to be
-surprised, with a head upon my shoulders, and memory in it, that I fall
+surprised, with a head upon my shoulders, and [[Memory|memory]] in it, that I fall
 into the ranks with all who came before me. I ought to have let it
-alone. I have had warning enough, I am sure.’
+[[Alone|alone]]. I have had warning enough, I am sure.’
 
-With that he put up his spectacle-case, and said to Arthur, ‘If I don’t
+With that he put up his spectacle-case, and said to [[Arthur]], ‘If I don’t
 complain, Mr Clennam, I can feel gratitude; and I assure you that I
 feel it towards our mutual friend. Many’s the day, and many’s the way in
 which he has backed me.’
 
 ‘Stuff and nonsense,’ said Mr Meagles.
 
-Arthur could not but glance at Daniel Doyce in the ensuing silence.
+[[Arthur]] could not but glance at [[Daniel Doyce]] in the ensuing [[Silence|silence]].
 Though it was evidently in the grain of his character, and of his
 respect for his own case, that he should abstain from idle murmuring,
 it was evident that he had grown the older, the sterner, and the poorer,

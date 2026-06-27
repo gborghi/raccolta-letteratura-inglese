@@ -17,10 +17,10 @@ tags:
 CHAPTER IV—THE TUGGSES AT RAMSGATE
 
 
-Once upon a time there dwelt, in a narrow street on the Surrey side of
-the water, within three minutes’ walk of old London Bridge, Mr. Joseph
+Once upon a [[Time|time]] there dwelt, in a narrow street on the Surrey side of
+the [[Water|water]], within three minutes’ walk of old [[London]] Bridge, Mr. Joseph
 Tuggs—a little dark-faced man, with shiny hair, twinkling eyes, short
-legs, and a body of very considerable thickness, measuring from the
+legs, and a [[Body|body]] of very considerable thickness, measuring from the
 centre button of his waistcoat in front, to the ornamental buttons of
 his coat behind. The figure of the amiable Mrs. Tuggs, if not perfectly
 symmetrical, was decidedly comfortable; and the form of her only
@@ -28,7 +28,7 @@ daughter, the accomplished Miss Charlotte Tuggs, was fast ripening into
 that state of luxuriant plumpness which had enchanted the eyes, and
 captivated the heart, of Mr. Joseph Tuggs in his earlier days. Mr.
 Simon Tuggs, his only son, and Miss Charlotte Tuggs’s only brother, was
-as differently formed in body, as he was differently constituted in
+as differently formed in [[Body|body]], as he was differently constituted in
 mind, from the remainder of his family. There was that elongation in
 his thoughtful face, and that tendency to weakness in his interesting
 legs, which tell so forcibly of a great mind and romantic disposition.
@@ -40,17 +40,17 @@ of any description.
 
 There is perhaps no profession, however useful; no pursuit, however
 meritorious; which can escape the petty attacks of vulgar minds. Mr.
-Joseph Tuggs was a grocer. It might be supposed that a grocer was
+Joseph Tuggs was a [[grocer]]. It might be supposed that a [[grocer]] was
 beyond the breath of calumny; but no—the neighbours stigmatised him as
 a chandler; and the poisonous voice of envy distinctly asserted that he
 dispensed tea and coffee by the quartern, retailed sugar by the ounce,
-cheese by the slice, tobacco by the screw, and butter by the pat. These
+[[cheese]] by the slice, tobacco by the screw, and butter by the pat. These
 taunts, however, were lost upon the Tuggses. Mr. Tuggs attended to the
 grocery department; Mrs. Tuggs to the cheesemongery; and Miss Tuggs to
-her education. Mr. Simon Tuggs kept his father’s books, and his own
+her [[Education|education]]. Mr. Simon Tuggs kept his father’s books, and his own
 counsel.
 
-One fine spring afternoon, the latter gentleman was seated on a tub of
+One fine [[Spring|spring]] afternoon, the latter gentleman was seated on a tub of
 weekly Dorset, behind the little red desk with a wooden rail, which
 ornamented a corner of the counter; when a stranger dismounted from a
 cab, and hastily entered the shop. He was habited in black cloth, and
@@ -79,7 +79,7 @@ little parlour and disclosing Miss Tuggs in perspective.
 moment.
 
 ‘From the Temple!’ said Mr. Joseph Tuggs, turning as pale as a Dutch
-cheese.
+[[cheese]].
 
 ‘From the Temple,’ repeated the man with the bag; ‘from Mr. Cower’s,
 the solicitor’s. Mr. Tuggs, I congratulate you, sir. Ladies, I wish you
@@ -88,13 +88,13 @@ bag leisurely divested himself of his umbrella and glove, as a
 preliminary to shaking hands with Mr. Joseph Tuggs.
 
 Now the words ‘we have been successful,’ had no sooner issued from the
-mouth of the man with the bag, than Mr. Simon Tuggs rose from the tub
+mouth of the man with the bag, than Mr. Simon Tuggs [[Rose|rose]] from the tub
 of weekly Dorset, opened his eyes very wide, gasped for breath, made
 figures of eight in the air with his pen, and finally fell into the
 arms of his anxious mother, and fainted away without the slightest
 ostensible cause or pretence.
 
-‘Water!’ screamed Mrs. Tuggs.
+‘[[Water]]!’ screamed Mrs. Tuggs.
 
 ‘Look up, my son,’ exclaimed Mr. Tuggs.
 
@@ -113,13 +113,13 @@ was quite comprehensible. A long-pending lawsuit respecting the
 validity of a will, had been unexpectedly decided; and Mr. Joseph Tuggs
 was the possessor of twenty thousand pounds.
 
-A prolonged consultation took place, that night, in the little
+A prolonged consultation took place, that [[Night|night]], in the little
 parlour—a consultation that was to settle the future destinies of the
 Tuggses. The shop was shut up, at an unusually early hour; and many
 were the unavailing kicks bestowed upon the closed door by applicants
 for quarterns of sugar, or half-quarterns of bread, or penn’orths of
 pepper, which were to have been ‘left till Saturday,’ but which fortune
-had decreed were to be left alone altogether.
+had decreed were to be left [[Alone|alone]] altogether.
 
 ‘We must certainly give up business,’ said Miss Tuggs.
 

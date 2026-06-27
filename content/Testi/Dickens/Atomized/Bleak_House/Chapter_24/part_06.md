@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 24 (part 6)"
+title: "Bleak [[house|House]] — Chapter 24 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,7 +20,7 @@ Bucket.”
 “Gammon, George! Not handsome?” said Mr. Bucket, tapping him on his
 broad breast again and shaking hands with him. “I don’t say it wasn’t
 handsome in you to keep my man so close, do I? Be equally
-good-tempered to me, old boy! Old William Tell, Old Shaw, the Life
+good-tempered to me, old boy! Old William Tell, Old [[Shaw]], the Life
 Guardsman! Why, he’s a model of the whole British army in himself,
 ladies and gentlemen. I’d give a fifty-pun’ note to be such a figure
 of a man!”
@@ -31,15 +31,15 @@ him), taking Miss Flite with him. Mr. Bucket agreeing, they went away
 to the further end of the gallery, leaving us sitting and standing by
 a table covered with guns. Mr. Bucket took this opportunity of
 entering into a little light conversation, asking me if I were afraid
-of fire-arms, as most young ladies were; asking Richard if he were a
+of [[Fire|fire]]-arms, as most young ladies were; asking [[Richard]] if he were a
 good shot; asking Phil Squod which he considered the best of those
 rifles and what it might be worth first-hand, telling him in return
 that it was a pity he ever gave way to his temper, for he was
 naturally so amiable that he might have been a young woman, and
 making himself generally agreeable.
 
-After a time he followed us to the further end of the gallery, and
-Richard and I were going quietly away when Mr. George came after us.
+After a [[Time|time]] he followed us to the further end of the gallery, and
+[[Richard]] and I were going quietly away when Mr. George came after us.
 He said that if we had no objection to see his comrade, he would take
 a visit from us very kindly. The words had hardly passed his lips
 when the bell was rung and my guardian appeared, “on the chance,” he
@@ -61,32 +61,32 @@ He had been still writing in his hiding-place, and still dwelling on
 his grievances, hour after hour. A table and some shelves were
 covered with manuscript papers and with worn pens and a medley of
 such tokens. Touchingly and awfully drawn together, he and the little
-mad woman were side by side and, as it were, alone. She sat on a
+mad woman were side by side and, as it were, [[Alone|alone]]. She sat on a
 chair holding his hand, and none of us went close to them.
 
 His voice had faded, with the old expression of his face, with his
 strength, with his anger, with his resistance to the wrongs that had
-at last subdued him. The faintest shadow of an object full of form
+at last subdued him. The faintest [[Shadow|shadow]] of an object full of form
 and colour is such a picture of it as he was of the man from
 Shropshire whom we had spoken with before.
 
-He inclined his head to Richard and me and spoke to my guardian.
+He inclined his head to [[Richard]] and me and spoke to my guardian.
 
 “Mr. Jarndyce, it is very kind of you to come to see me. I am not
 long to be seen, I think. I am very glad to take your hand, sir. You
-are a good man, superior to injustice, and God knows I honour you.”
+are a good man, superior to injustice, and God knows I [[Honour|honour]] you.”
 
 They shook hands earnestly, and my guardian said some words of
 comfort to him.
 
 “It may seem strange to you, sir,” returned Gridley; “I should not
-have liked to see you if this had been the first time of our meeting.
+have liked to see you if this had been the first [[Time|time]] of our meeting.
 But you know I made a fight for it, you know I stood up with my
-single hand against them all, you know I told them the truth to the
+single hand against them all, you know I told them the [[Truth|truth]] to the
 last, and told them what they were, and what they had done to me; so
 I don’t mind your seeing me, this wreck.”
 
-“You have been courageous with them many and many a time,” returned
+“You have been courageous with them many and many a [[Time|time]],” returned
 my guardian.
 
 “Sir, I have been,” with a faint smile. “I told you what would come
@@ -95,12 +95,12 @@ He drew the hand Miss Flite held through her arm and brought her
 something nearer to him.
 
 “This ends it. Of all my old associations, of all my old pursuits and
-hopes, of all the living and the dead world, this one poor soul alone
+hopes, of all the living and the dead world, this one poor [[Soul|soul]] [[Alone|alone]]
 comes natural to me, and I am fit for. There is a tie of many
-suffering years between us two, and it is the only tie I ever had on
+[[Suffering|suffering]] years between us two, and it is the only tie I ever had on
 earth that Chancery has not broken.”
 
-“Accept my blessing, Gridley,” said Miss Flite in tears. “Accept my
+“Accept my blessing, Gridley,” said Miss Flite in [[Tears|tears]]. “Accept my
 blessing!”
 
 “I thought, boastfully, that they never could break my heart, Mr.
@@ -108,7 +108,7 @@ Jarndyce. I was resolved that they should not. I did believe that I
 could, and would, charge them with being the mockery they were until
 I died of some bodily disorder. But I am worn out. How long I have
 been wearing out, I don’t know; I seemed to break down in an hour. I
-hope they may never come to hear of it. I hope everybody here will
+[[Hope|hope]] they may never come to hear of it. I [[Hope|hope]] everybody here will
 lead them to believe that I died defying them, consistently and
 perseveringly, as I did through so many years.”
 
@@ -124,9 +124,9 @@ of warrants yet, if I have luck.”
 He only shook his head.
 
 “Don’t shake your head,” said Mr. Bucket. “Nod it; that’s what I want
-to see you do. Why, Lord bless your soul, what times we have had
+to see you do. Why, Lord bless your [[Soul|soul]], what times we have had
 together! Haven’t I seen you in the Fleet over and over again for
-contempt? Haven’t I come into court, twenty afternoons for no other
+contempt? Haven’t I come into [[Court|court]], twenty afternoons for no other
 purpose than to see you pin the Chancellor like a bull-dog? Don’t you
 remember when you first began to threaten the lawyers, and the peace
 was sworn against you two or three times a week? Ask the little old
@@ -142,14 +142,14 @@ like a tom cat and to come to see you as a doctor? That ain’t like
 being worn out. I should think not! Now I tell you what you want. You
 want excitement, you know, to keep YOU up; that’s what YOU want.
 You’re used to it, and you can’t do without it. I couldn’t myself.
-Very well, then; here’s this warrant got by Mr. Tulkinghorn of
-Lincoln’s Inn Fields, and backed into half-a-dozen counties since.
+Very [[Well|well]], then; here’s this warrant got by Mr. Tulkinghorn of
+[[Lincoln]]’s Inn Fields, and backed into half-a-dozen counties since.
 What do you say to coming along with me, upon this warrant, and
 having a good angry argument before the magistrates? It’ll do you
 good; it’ll freshen you up and get you into training for another turn
 at the Chancellor. Give in? Why, I am surprised to hear a man of your
 energy talk of giving in. You mustn’t do that. You’re half the fun of
-the fair in the Court of Chancery. George, you lend Mr. Gridley a
+the fair in the [[Court]] of Chancery. George, you lend Mr. Gridley a
 hand, and let’s see now whether he won’t be better up than down.”
 
 “He is very weak,” said the trooper in a low voice.
@@ -167,11 +167,11 @@ ears.
 before her. “Not without my blessing. After so many years!”
 
 The sun was down, the light had gradually stolen from the roof, and
-the shadow had crept upward. But to me the shadow of that pair, one
-living and one dead, fell heavier on Richard’s departure than the
-darkness of the darkest night. And through Richard’s farewell words I
+the [[Shadow|shadow]] had crept upward. But to me the [[Shadow|shadow]] of that pair, one
+living and one dead, fell heavier on [[Richard]]’s departure than the
+darkness of the darkest [[Night|night]]. And through [[Richard]]’s farewell words I
 heard it echoed: “Of all my old associations, of all my old pursuits
-and hopes, of all the living and the dead world, this one poor soul
-alone comes natural to me, and I am fit for. There is a tie of many
-suffering years between us two, and it is the only tie I ever had on
+and hopes, of all the living and the dead world, this one poor [[Soul|soul]]
+[[Alone|alone]] comes natural to me, and I am fit for. There is a tie of many
+[[Suffering|suffering]] years between us two, and it is the only tie I ever had on
 earth that Chancery has not broken!”

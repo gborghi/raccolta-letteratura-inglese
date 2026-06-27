@@ -16,12 +16,12 @@ tags:
 
 I went from cell to cell that day; and every face I saw, or word I heard,
 or incident I noted, is present to my mind in all its painfulness.  But
-let me pass them by, for one, more pleasant, glance of a prison on the
+let me pass them by, for one, more pleasant, glance of a [[Prison|prison]] on the
 same plan which I afterwards saw at Pittsburg.
 
 When I had gone over that, in the same manner, I asked the governor if he
 had any person in his charge who was shortly going out.  He had one, he
-said, whose time was up next day; but he had only been a prisoner two
+said, whose [[Time|time]] was up next day; but he had only been a prisoner two
 years.
 
 Two years!  I looked back through two years of my own life—out of jail,
@@ -31,7 +31,7 @@ solitary captivity would have been.  I have the face of this man, who was
 going to be released next day, before me now.  It is almost more
 memorable in its happiness than the other faces in their misery.  How
 easy and how natural it was for him to say that the system was a good
-one; and that the time went ‘pretty quick—considering;’ and that when a
+one; and that the [[Time|time]] went ‘pretty quick—considering;’ and that when a
 man once felt that he had offended the law, and must satisfy it, ‘he got
 along, somehow:’ and so forth!
 
@@ -50,7 +50,7 @@ I took that opportunity of inquiring how they conducted themselves
 immediately before going out; adding that I presumed they trembled very
 much.
 
-‘Well, it’s not so much a trembling,’ was the answer—‘though they do
+‘[[Well]], it’s not so much a trembling,’ was the answer—‘though they do
 quiver—as a complete derangement of the nervous system.  They can’t sign
 their names to the book; sometimes can’t even hold the pen; look about
 ’em without appearing to know why, or where they are; and sometimes get
@@ -59,7 +59,7 @@ the office, where they are taken with the hood on, as they were brought
 in.  When they get outside the gate, they stop, and look first one way
 and then the other; not knowing which to take.  Sometimes they stagger as
 if they were drunk, and sometimes are forced to lean against the fence,
-they’re so bad:—but they clear off in course of time.’
+they’re so bad:—but they clear off in course of [[Time|time]].’
 
 As I walked among these solitary cells, and looked at the faces of the
 men within them, I tried to picture to myself the thoughts and feelings
@@ -68,7 +68,7 @@ scene of their captivity disclosed to them in all its dismal monotony.
 
 At first, the man is stunned.  His confinement is a hideous vision; and
 his old life a reality.  He throws himself upon his bed, and lies there
-abandoned to despair.  By degrees the insupportable solitude and
+abandoned to [[Despair|despair]].  By degrees the insupportable [[Solitude|solitude]] and
 barrenness of the place rouses him from this stupor, and when the trap in
 his grated door is opened, he humbly begs and prays for work.  ‘Give me
 some work to do, or I shall go raving mad!’
@@ -100,28 +100,28 @@ up a figure with his back towards him, and imagines it moving about in
 this next cell.  He has no idea of the face, but he is certain of the
 dark form of a stooping man.  In the cell upon the other side, he puts
 another figure, whose face is hidden from him also.  Day after day, and
-often when he wakes up in the middle of the night, he thinks of these two
+often when he wakes up in the middle of the [[Night|night]], he thinks of these two
 men until he is almost distracted.  He never changes them.  There they
 are always as he first imagined them—an old man on the right; a younger
-man upon the left—whose hidden features torture him to death, and have a
+man upon the left—whose hidden features torture him to [[Death|death]], and have a
 mystery that makes him tremble.
 
 The weary days pass on with solemn pace, like mourners at a funeral; and
 slowly he begins to feel that the white walls of the cell have something
 dreadful in them: that their colour is horrible: that their smooth
-surface chills his blood: that there is one hateful corner which torments
+surface chills his [[Blood|blood]]: that there is one hateful corner which torments
 him.  Every morning when he wakes, he hides his head beneath the
 coverlet, and shudders to see the ghastly ceiling looking down upon him.
-The blessed light of day itself peeps in, an ugly phantom face, through
-the unchangeable crevice which is his prison window.
+The blessed light of day itself peeps in, an ugly [[Phantom|phantom]] face, through
+the unchangeable crevice which is his [[Prison|prison]] [[Window|window]].
 
 By slow but sure degrees, the terrors of that hateful corner swell until
-they beset him at all times; invade his rest, make his dreams hideous,
+they beset him at all times; invade his rest, make his [[Dreams|dreams]] hideous,
 and his nights dreadful.  At first, he took a strange dislike to it;
 feeling as though it gave birth in his brain to something of
 corresponding shape, which ought not to be there, and racked his head
-with pains.  Then he began to fear it, then to dream of it, and of men
+with pains.  Then he began to [[Fear|fear]] it, then to dream of it, and of men
 whispering its name and pointing to it.  Then he could not bear to look
-at it, nor yet to turn his back upon it.  Now, it is every night the
-lurking-place of a ghost: a shadow:—a silent something, horrible to see,
+at it, nor yet to turn his back upon it.  Now, it is every [[Night|night]] the
+lurking-place of a [[Ghost|ghost]]: a [[Shadow|shadow]]:—a silent something, horrible to see,
 but whether bird, or beast, or muffled human shape, he cannot tell.

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 54 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 54 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,8 +18,8 @@ tags:
 tie you, hand and foot, but otherwise you won’t be hurt. D’ye hear?’
 
 John Willet looked at another man, as if he didn’t know which was the
-speaker, and muttered something about an ordinary every Sunday at two
-o’clock.
+speaker, and muttered something about an ordinary every [[Sunday]] at two
+o’[[Clock|clock]].
 
 ‘You won’t be hurt I tell you, Jack--do you hear me?’ roared Hugh,
 impressing the assurance upon him by means of a heavy blow on the back.
@@ -31,13 +31,13 @@ old John’s throat. Mr Willet feebly smacked his lips, thrust his hand
 into his pocket, and inquired what was to pay; adding, as he looked
 vacantly round, that he believed there was a trifle of broken glass--
 
-‘He’s out of his senses for the time, it’s my belief,’ said Hugh, after
+‘He’s out of his senses for the [[Time|time]], it’s my belief,’ said Hugh, after
 shaking him, without any visible effect upon his system, until his keys
 rattled in his pocket. ‘Where’s that Dennis?’
 
 The word was again passed, and presently Mr Dennis, with a long cord
 bound about his middle, something after the manner of a friar, came
-hurrying in, attended by a body-guard of half-a-dozen of his men.
+hurrying in, attended by a [[Body|body]]-guard of half-a-dozen of his men.
 
 ‘Come! Be alive here!’ cried Hugh, stamping his foot upon the ground.
 ‘Make haste!’
@@ -64,7 +64,7 @@ over the door, it can’t be done at all in this here room.’
 
 Hugh made no answer, but snatching the rope from his companion’s hand,
 proceeded to bind old John himself; but his very first move was so
-bungling and unskilful, that Mr Dennis entreated, almost with tears
+bungling and unskilful, that Mr Dennis entreated, almost with [[Tears|tears]]
 in his eyes, that he might be permitted to perform the duty. Hugh
 consenting, he achieved it in a twinkling.
 
@@ -73,23 +73,23 @@ more emotion in his bonds than he had shown out of them. ‘That’s what I
 call pretty and workmanlike. He’s quite a picter now. But, brother, just
 a word with you--now that he’s ready trussed, as one may say, wouldn’t
 it be better for all parties if we was to work him off? It would read
-uncommon well in the newspapers, it would indeed. The public would think
+uncommon [[Well|well]] in the newspapers, it would indeed. The public would think
 a great deal more on us!’
 
 Hugh, inferring what his companion meant, rather from his gestures than
 his technical mode of expressing himself (to which, as he was ignorant
 of his calling, he wanted the clue), rejected this proposition for the
-second time, and gave the word ‘Forward!’ which was echoed by a hundred
+second [[Time|time]], and gave the word ‘Forward!’ which was echoed by a hundred
 voices from without.
 
 ‘To the Warren!’ shouted Dennis as he ran out, followed by the rest. ‘A
-witness’s house, my lads!’
+witness’s [[house]], my lads!’
 
 A loud yell followed, and the whole throng hurried off, mad for pillage
 and destruction. Hugh lingered behind for a few moments to stimulate
 himself with more drink, and to set all the taps running, a few of which
 had accidentally been spared; then, glancing round the despoiled and
-plundered room, through whose shattered window the rioters had thrust
+plundered room, through whose shattered [[Window|window]] the rioters had thrust
 the Maypole itself,--for even that had been sawn down,--lighted a torch,
 clapped the mute and motionless John Willet on the back, and waving his
 light above his head, and uttering a fierce shout, hastened after his

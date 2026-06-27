@@ -1,5 +1,5 @@
 ---
-title: "The Glass Walking Stick — The Old Nurse"
+title: "The Glass Walking Stick — The Old [[Nurse]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-THE OLD NURSE
+THE OLD [[Nurse|NURSE]]
 
 I WAS recently reading a very interesting study which set my
 thoughts rambling on many themes; and not least on the theme
@@ -22,9 +22,9 @@ of old nurses.  For many other reasons it should be of interest
 to English people; especially those of them who have had
 the rudimentary intelligence to be interested in Irish people.
 For it is clear that the memories with which the mind of this
-old nurse were filled, and almost choked, were the memories
-of the great Irish Famine, which she had known in her childhood
-and which she communicated so vividly to an American child.
+old [[Nurse|nurse]] were filled, and almost choked, were the memories
+of the great Irish Famine, which she had known in her [[Childhood|childhood]]
+and which she communicated so vividly to an American [[Child|child]].
 The Irish Famine was more than an earthquake; it was an explosion.
 As an explosion scatters the arms and legs of a single man,
 so this catastrophe scattered the separated parts of a single people;
@@ -34,33 +34,33 @@ simply strewed the whole earth with the enemies of England.
 What region in the world, cried the Trojan after the Fall
 of Troy, is not full of our ruin?  What region in the world
 is not now full of that wrong which we remedied so late?
-The testimony of the old nurse in America is all the more forcible,
+The testimony of the old [[Nurse|nurse]] in [[america|America]] is all the more forcible,
 because of the patient simplicity with which she narrated
 such wrongs.  Nobody is blamed for an earth quake; and nobody
 is of necessity blamed for an explosion; but people are blamed
 for their conduct during an earthquake or after an explosion.
-And it is the ugly truth that the blight of the Famine was
+And it is the ugly [[Truth|truth]] that the blight of the Famine was
 not merely a blight upon a particular order of vegetables;
 among the blighted, not to say the blighters, were to be found
-a higher order of animals; even including politicians.
-The old Irish nurse meekly witnessed to the wickedness of a
+a higher order of [[Animals|animals]]; even including politicians.
+The old Irish [[Nurse|nurse]] meekly witnessed to the wickedness of a
 neighbouring landlord who would not give food to starving men
 unless they were of his own faction.  And everyone knows that
 a hundred juries handed down Lord John Russell as a murderer.
-For that part of the record alone it would have been well
+For that part of the record [[Alone|alone]] it would have been [[Well|well]]
 worth recording.  But I confess that I was very much interested
-in this Irish-American nurse merely considered as a nurse.
-She was a pattern of that paradox of submission and supremacy
+in this Irish-American [[Nurse|nurse]] merely considered as a [[Nurse|nurse]].
+She was a pattern of that [[Paradox|paradox]] of submission and supremacy
 which belonged to that sort of old-fashioned servant.
 And it set me thinking about some thing that was lost,
-when the nurse gave place to the governess and the governess
+when the [[Nurse|nurse]] gave place to the governess and the governess
 gave place to the school mistress.  Bad and good abound in both;
 but something organic gave place to something official.
 
-What is the matter with English Education is that it is
-discussed in Educational English.  Even criticisms of Education,
-even complaints of Education, even confessions by educationists of
-the inadequacy of education, are all uttered in educational English.
+What is the matter with English [[Education]] is that it is
+discussed in Educational English.  Even criticisms of [[Education]],
+even complaints of [[Education]], even confessions by educationists of
+the inadequacy of [[Education|education]], are all uttered in educational English.
 Educational English is not at all the same as educated English.
 It is a curious sort of technical jargon, possibly necessary
 and suitable to a science or a trade, but casting, as do all
@@ -73,7 +73,7 @@ This can be felt in the way in which the very words used tend to
 contradict their own meaning; as in the word, `individual', in some
 sweeping generalization about `giving individual attention'.
 
-It never occurred to the Victorian child, when his nurse was talking
+It never occurred to the Victorian [[Child|child]], when his [[Nurse|nurse]] was talking
 to him in his infancy, that she was giving him `individual attention'.
 It might have been quite a large family; but in that sense there
 were no relations except individual relations.  Nor need a nurse
@@ -102,4 +102,4 @@ It belongs to quite a different sort of English from any
 Educational English; to that world of words in which men wrote,
 `Hast thou not a blessing for me, O my father?' or, `The smell
 of my son is as the smell of a field that the Lord has blessed.'
-Or in which men said, `Unto us a Child is born.'
+Or in which men said, `Unto us a [[Child]] is born.'

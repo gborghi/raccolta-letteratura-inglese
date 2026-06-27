@@ -1,5 +1,5 @@
 ---
-title: "divorce"
+title: "[[divorce]]"
 author: "Chesterton"
 unitType: work
 parentWork: "Works/divorce-(Chesterton)"
@@ -13,21 +13,21 @@ tags:
 </nav>
 
 
-The Superstition of Divorce
+The Superstition of [[divorce|Divorce]]
 
 (1920)
 
 by G.K. Chesterton
 
       Introductory Note
-    I The Superstition of Divorce (1)
-   II The Superstition of Divorce (2)
-  III The Superstition of Divorce (3)
-   IV The Superstition of Divorce (4)
+    I The Superstition of [[divorce|Divorce]] (1)
+   II The Superstition of [[divorce|Divorce]] (2)
+  III The Superstition of [[divorce|Divorce]] (3)
+   IV The Superstition of [[divorce|Divorce]] (4)
     V The Story of the Family
    VI The Story of the Vow
-  VII The Tragedies of Marriage
- VIII The Vista of Divorce
+  VII The Tragedies of [[Marriage]]
+ VIII The Vista of [[divorce|Divorce]]
    IX Conclusion
 
 --/--
@@ -36,7 +36,7 @@ INTRODUCTORY NOTE
 
 The earlier part of this book appeared in the form of five articles
 which came out in the "New Witness" at the crisis of the recent
-controversy in the Press on the subject of divorce.  Crude and sketchy
+controversy in the Press on the subject of [[divorce]].  Crude and sketchy
 as they confessedly were, they had a certain rude plan of their own,
 which I find it very difficult to recast even in order to expand.
 I have therefore decided to reprint the original articles as they stood,
@@ -52,32 +52,32 @@ G.K.C.
 
 I
 
-THE SUPERSTITION OF DIVORCE (1)
+THE SUPERSTITION OF [[divorce|DIVORCE]] (1)
 
-It is futile to talk of reform without reference to form.
+It is futile to talk of [[Reform|reform]] without reference to form.
 To take a case from my own taste and fancy, there is nothing I feel
-to be so beautiful and wonderful as a window.  All casements are
-magic casements, whether they open on the foam or the front-garden;
-they lie close to the ultimate mystery and paradox of limitation
+to be so beautiful and wonderful as a [[Window|window]].  All casements are
+[[Magic|magic]] casements, whether they open on the foam or the front-[[Garden|garden]];
+they lie close to the ultimate mystery and [[Paradox|paradox]] of limitation
 and liberty.  But if I followed my instinct towards an infinite
 number of windows, it would end in having no walls.  It would also
 (it may be added incidentally) end in having no windows either;
-for a window makes a picture by making a picture-frame. But there
+for a [[Window|window]] makes a picture by making a picture-frame. But there
 is a simpler way of stating my more simple and fatal error.
-It is that I have wanted a window, without considering whether
-I wanted a house.  Now many appeals are being made to us to-day
-on behalf of that light and liberty that might well be symbolised
+It is that I have wanted a [[Window|window]], without considering whether
+I wanted a [[house]].  Now many appeals are being made to us to-day
+on behalf of that light and liberty that might [[Well|well]] be symbolised
 by windows; especially as so many of them concern the enlightenment
-and liberation of the house, in the sense of the home.
+and liberation of the [[house]], in the sense of the [[Home|home]].
 Many quite disinterested people urge many quite reasonable
-considerations in the case of divorce, as a type of domestic liberation;
+considerations in the case of [[divorce]], as a type of domestic liberation;
 but in the journalistic and general discussion of the matter there
 is far too much of the mind that works backwards and at random,
 in the manner of all windows and no walls.  Such people say they
-want divorce, without asking themselves whether they want marriage.
+want [[divorce]], without asking themselves whether they want [[Marriage|marriage]].
 Even in order to be divorced it has generally been found necessary
 to go through the preliminary formality of being married; and unless
-the nature of this initial act be considered, we might as well be
+the [[Nature|nature]] of this initial act be considered, we might as [[Well|well]] be
 discussing haircutting for the bald or spectacles for the blind.
 To be divorced is to be in the literal sense unmarried;
 and there is no sense in a thing being undone when we do not know
@@ -97,15 +97,15 @@ This opportunism is perhaps the most unpractical thing in this highly
 unpractical world.  People talk vaguely against destructive criticism;
 but what is the matter with this criticism is not that it destroys,
 but that it does not criticise.  It is destruction without design.
-It is taking a complex machine to pieces bit by bit, in any order,
-without even knowing what the machine is for.  And if a man deals
-with a deadly dynamic machine on the principle of touching the knob
-that's nearest, he will find out the defects of that cheery philosophy.
-Now leaving many sincere and serious critics of modern marriage
+It is taking a complex [[Machine|machine]] to pieces bit by bit, in any order,
+without even knowing what the [[Machine|machine]] is for.  And if a man deals
+with a deadly dynamic [[Machine|machine]] on the principle of touching the knob
+that's nearest, he will find out the defects of that cheery [[philosophy]].
+Now leaving many sincere and serious critics of modern [[Marriage|marriage]]
 on one side for the moment, great masses of modern men and women,
-who write and talk about marriage, are thus nibbling blindly at it
+who write and talk about [[Marriage|marriage]], are thus nibbling blindly at it
 like an army of mice.  When the reformers propose, for instance,
-that divorce should be obtainable after an absence of three years
+that [[divorce]] should be obtainable after an absence of three years
 (the absence actually taken for granted in the first military
 arrangements of the late European War) their readers and supporters
 could seldom give any sort of logical reason for the period
@@ -113,29 +113,29 @@ being three years, and not three months or three minutes.
 They are like people who should say "Give me three feet of dog";
 and not care where the cut came.  Such persons fail to see a dog as an
 organic entity; in other words, they cannot make head or tail of it.
-And the chief thing to say about such reformers of marriage is that
+And the chief thing to say about such reformers of [[Marriage|marriage]] is that
 they cannot make head or tail of it.  They do not know what it is,
 or what it is meant to be, or what its supporters suppose it
 to be; they never look at it, even when they are inside it.
-They do the work that's nearest; which is poking holes in the bottom
-of a boat under the impression that they are digging in a garden.
-This question of what a thing is, and whether it is a garden or a boat,
+They do the work that's nearest; which is poking holes in the [[Bottom|bottom]]
+of a boat under the impression that they are digging in a [[Garden|garden]].
+This question of what a thing is, and whether it is a [[Garden|garden]] or a boat,
 appears to them abstract and academic.  They have no notion of
 how large is the idea they attack; or how relatively small appear
 the holes that they pick in it.
 
-Thus, Sir Arthur Conan Doyle, an intelligent man in other matters,
-says that there is only a "theological" opposition to divorce,
-and that it is entirely founded on "certain texts" in the Bible
+Thus, Sir [[arthur|Arthur]] Conan Doyle, an intelligent man in other matters,
+says that there is only a "theological" opposition to [[divorce]],
+and that it is entirely founded on "certain texts" in the [[Bible]]
 about marriages.  This is exactly as if he said that a belief
 in the brotherhood of men was only founded on certain texts
-in the Bible, about all men being the children of Adam and Eve.
+in the [[Bible]], about all men being the children of Adam and Eve.
 Millions of peasants and plain people all over the world assume
-marriage to be static, without having ever clapped eyes on any text.
+[[Marriage|marriage]] to be static, without having ever clapped eyes on any text.
 Numbers of more modern people, especially after the recent experiments
-in America, think divorce is a social disease, without having ever
+in [[america|America]], think [[divorce]] is a social disease, without having ever
 bothered about any text.  It may be maintained that even in these,
-or in any one, the idea of marriage is ultimately mystical;
+or in any one, the idea of [[Marriage|marriage]] is ultimately mystical;
 and the same may be maintained about the idea of brotherhood.
 It is obvious that a husband and wife are not visibly one flesh,
 in the sense of being one quadruped.  It is equally obvious
@@ -152,18 +152,18 @@ that Germans and lesser men are respectively descended from two
 such very different monkeys that they are in no sense brothers,
 but barely cousins (German) any number of times removed.
 And suppose he proceeds to remove them even further with a hatchet,
-suppose he bases on this a repetition of the conduct of Cain,
+suppose he bases on this a repetition of the conduct of [[Cain]],
 saying not so much "Am I my brother's keeper?" as "Is he really
-my brother?"  And suppose this higher philosophy of the hatchet
+my brother?"  And suppose this higher [[philosophy]] of the hatchet
 becomes prevalent in colleges and cultivated circles, as even
 more foolish philosophies have done.  Then I agree it probably
-will be the Christian, the man who preserves the text about Cain,
-who will continue to assert that he is still the professor's brother;
-that he is still the professor's keeper.  He may possibly add that,
-in his opinion, the professor seems to require a keeper.
+will be the Christian, the man who preserves the text about [[Cain]],
+who will continue to assert that he is still [[The Professor|the professor]]'s brother;
+that he is still [[The Professor|the professor]]'s keeper.  He may possibly add that,
+in his opinion, [[The Professor|the professor]] seems to require a keeper.
 
-And that is doubtless the situation in the controversies about divorce
-and marriage to-day. It is the Christian church which continues
+And that is doubtless the situation in the controversies about [[divorce]]
+and [[Marriage|marriage]] to-day. It is the Christian church which continues
 to hold strongly, when the world for some reason has weakened on it,
 what many others hold at other times.  But even then it is barely
 picking up the shreds and scraps of the subject to talk about
@@ -173,9 +173,9 @@ of life, and defended, rightly or wrongly, by constant appeals to every
 aspect of life.  The religion that holds it most strongly will hold
 it when nobody else holds it; that is quite true, and that some of us
 may be so perverse as to think a point in favour of the religion.
-But anybody who holds it at all will hold it as a philosophy,
+But anybody who holds it at all will hold it as a [[philosophy]],
 not hung on one text but on a hundred truths.  Fraternity may
-be a sentimental metaphor; I may be suffering a delusion when I
+be a sentimental metaphor; I may be [[Suffering|suffering]] a delusion when I
 hail a Montenegrin peasant as my long lost brother.  As a fact,
 I have my own suspicions about which of us it is that has got lost.
 But my delusion is not a deduction from one text, or from twenty;
@@ -192,19 +192,19 @@ of practicality; for I know that it is not even practical.
 My ideal business man would not be one who planked down
 fifty pounds and said "Here is hard cash; I am a plain man;
 it is quite indifferent to me whether I am paying a debt, or giving
-alms to a beggar, or buying a wild bull or a bathing machine."
+alms to a beggar, or buying a wild bull or a bathing [[Machine|machine]]."
 Despite the infectious heartiness of his tone, I should still,
-in considering the hard cash, say (like a cabman) "What's this?"
+in considering the hard cash, say (like a [[cabman]]) "What's this?"
 I should continue to insist, priggishly, that it was a highly practical
 point what the money was; what it was supposed to stand for, to aim
-at or to declare; what was the nature of the transaction; or, in short,
+at or to declare; what was the [[Nature|nature]] of the transaction; or, in short,
 what the devil the man supposed he was doing.  I shall therefore
 begin by asking, in an equally mystical manner, what in the name
 of God and the angels a man getting married supposes he is doing.
-I shall begin by asking what marriage is; and the mere question will
+I shall begin by asking what [[Marriage|marriage]] is; and the mere question will
 probably reveal that the act itself, good or bad, wise or foolish,
 is of a certain kind; that it is not an inquiry or an experiment
-or an accident; it may probably dawn on us that it is a promise.
+or an accident; it may probably [[Dawn|dawn]] on us that it is a promise.
 It can be more fully defined by saying it is a vow.
 
 Many will immediately answer that it is a rash vow.
@@ -213,38 +213,38 @@ I am not now defending but defining vows; I am pointing out that this
 is a discussion about vows; first, of whether there ought to be vows;
 and second, of what vows ought to be.  Ought a man to break a promise?
 Ought a man to make a promise?  These are philosophic questions;
-but the philosophic peculiarity of divorce and re-marriage, as compared
-with free love and no marriage, is that a man breaks and makes
-a promise at the same moment.  It is a highly German philosophy;
+but the philosophic peculiarity of [[divorce]] and re-[[Marriage|marriage]], as compared
+with free [[Love|love]] and no [[Marriage|marriage]], is that a man breaks and makes
+a promise at the same moment.  It is a highly German [[philosophy]];
 and recalls the way in which the enemy wishes to celebrate his
 successful destruction of all treaties by signing some more.
 If I were breaking a promise, I would do it without promises.
-But I am very far from minimising the momentous and disputable nature
+But I am very far from minimising the momentous and disputable [[Nature|nature]]
 of the vow itself.  I shall try to show, in a further article,
 that this rash and romantic operation is the only furnace from which
 can come the plain hardware of humanity, the cast-iron resistance
 of citizenship or the cold steel of common sense; but I am not denying
-that the furnace is a fire.  The vow is a violent and unique thing;
-though there have been many besides the marriage vow; vows of chivalry,
-vows of poverty, vows of celibacy, pagan as well as Christian.
+that the furnace is a [[Fire|fire]].  The vow is a violent and unique thing;
+though there have been many besides the [[Marriage|marriage]] vow; vows of chivalry,
+vows of [[Poverty|poverty]], vows of celibacy, pagan as [[Well|well]] as Christian.
 But modern fashion has rather fallen out of the habit; and men
 miss the type for the lack of the parallels.  The shortest way
 of putting the problem is to ask whether being free includes being
 free to bind oneself.  For the vow is a tryst with oneself.
 
-I may be misunderstood if I say, for brevity, that marriage is an affair
-of honour.  The sceptic will be delighted to assent, by saying it
+I may be misunderstood if I say, for brevity, that [[Marriage|marriage]] is an affair
+of [[Honour|honour]].  The sceptic will be delighted to assent, by saying it
 is a fight.  And so it is, if only with oneself; but the point here
 is that it necessarily has the touch of the heroic, in which virtue
-can be translated by virtus.  Now about fighting, in its nature,
+can be translated by virtus.  Now about fighting, in its [[Nature|nature]],
 there is an implied infinity or at least a potential infinity.
 I mean that loyalty in war is loyalty in defeat or even disgrace;
-it is due to the flag precisely at the moment when the flag nearly falls.
-We do already apply this to the flag of the nation; and the question
-is whether it is wise or unwise to apply it to the flag of the family.
+it is due to the [[Flag|flag]] precisely at the moment when the [[Flag|flag]] nearly falls.
+We do already apply this to the [[Flag|flag]] of the nation; and the question
+is whether it is wise or unwise to apply it to the [[Flag|flag]] of the family.
 Of course, it is tenable that we should apply it to neither;
 that misgovernment in the nation or misery in the citizen would
-make the desertion of the flag an act of reason and not treason.
+make the desertion of the [[Flag|flag]] an act of reason and not treason.
 I will only say here that, if this were really the limit of
 national loyalty, some of us would have deserted our nation long ago.
 
@@ -252,33 +252,33 @@ national loyalty, some of us would have deserted our nation long ago.
 
 II
 
-THE SUPERSTITION OF DIVORCE (2)
+THE SUPERSTITION OF [[divorce|DIVORCE]] (2)
 
 To the two or three articles appearing here on this subject
-I have given the title of the Superstition of Divorce;
-and the title is not taken at random.  While free love seems
-to me a heresy, divorce does really seem to me a superstition.
-It is not only more of a superstition than free love, but much
-more of a superstition than strict sacramental marriage; and this
-point can hardly be made too plain.  It is the partisans of divorce,
-not the defenders of marriage, who attach a stiff and senseless
+I have given the title of the Superstition of [[divorce|Divorce]];
+and the title is not taken at random.  While free [[Love|love]] seems
+to me a heresy, [[divorce]] does really seem to me a superstition.
+It is not only more of a superstition than free [[Love|love]], but much
+more of a superstition than strict sacramental [[Marriage|marriage]]; and this
+point can hardly be made too plain.  It is the partisans of [[divorce]],
+not the defenders of [[Marriage|marriage]], who attach a stiff and senseless
 sanctity to a mere ceremony, apart from the meaning of the ceremony.
-It is our opponents, and not we, who hope to be saved
+It is our opponents, and not we, who [[Hope|hope]] to be saved
 by the letter of ritual, instead of the spirit of reality.
 It is they who hold that vow or violation, loyalty or disloyalty,
-can all be disposed of by a mysterious and magic rite, performed first
-in a law-court and then in a church or a registry office.
+can all be disposed of by a mysterious and [[Magic|magic]] rite, performed first
+in a law-[[Court|court]] and then in a church or a registry office.
 There is little difference between the two parts of the ritual;
-except that the law court is much more ritualistic.
+except that the law [[Court|court]] is much more ritualistic.
 But the plainest parallels will show anybody that all this is sheer
 barbarous credulity.  It may or may not be superstition for a man
-to believe he must kiss the Bible to show he is telling the truth.
+to believe he must kiss the [[Bible]] to show he is telling the [[Truth|truth]].
 It is certainly the most grovelling superstition for him to believe that,
-if he kisses the Bible, anything he says will come true.  It would
-surely be the blackest and most benighted Bible-worship to suggest
+if he kisses the [[Bible]], anything he says will come true.  It would
+surely be the blackest and most benighted [[Bible]]-worship to suggest
 that the mere kiss on the mere book alters the moral quality of perjury.
 Yet this is precisely what is implied in saying that formal
-re-marriage alters the moral quality of conjugal infidelity.
+re-[[Marriage|marriage]] alters the moral quality of conjugal infidelity.
 It may have been a mark of the Dark Ages that Harold should
 swear on a relic, though he were afterwards forsworn.
 But surely those ages would have been at their darkest, if he had
@@ -288,7 +288,7 @@ out of the mouldy and meaningless relics of their dead law and
 their dying religion.
 
 Now we, at any rate, are talking about an idea, a thing of the intellect
-and the soul; which we feel to be unalterable by legal antics.
+and the [[Soul|soul]]; which we feel to be unalterable by legal antics.
 We are talking about the idea of loyalty; perhaps a fantastic,
 perhaps only an unfashionable idea, but one we can explain and defend
 as an idea.  Now I have already pointed out that most sane men
@@ -296,20 +296,20 @@ do admit our ideal in such a case as patriotism or public spirit;
 the necessity of saving the state to which we belong.
 The patriot may revile but must not renounce his country;
 he must curse it to cure it, but not to wither it up.  The old
-pagan citizens felt thus about the city; and modern nationalists
+pagan citizens felt thus about the [[City|city]]; and modern nationalists
 feel thus about the nation.  But even mere modern internationalists
 feel it about something; if it is only the nation of mankind.
 Even the humanitarian does not become a misanthrope and live in a
-monkey-house. Even a disappointed Collectivist or Communist does
+monkey-[[house]]. Even a disappointed Collectivist or Communist does
 not retire into the exclusive society of beavers, because beavers
 are all communists of the most class-conscious solidarity.
 He admits the necessity of clinging to his fellow creatures,
 and begging them to abandon the use of the possessive pronoun;
-heart-breaking as his efforts must seem to him after a time.
+heart-breaking as his efforts must seem to him after a [[Time|time]].
 Even a Pacifist does not prefer rats to men, on the ground that
 the rat community is so pure from the taint of Jingoism as always
-to leave the sinking ship.  In short, everybody recognises that
-there is some ship, large and small, which he ought not to leave,
+to leave the sinking [[Ship|ship]].  In short, everybody recognises that
+there is some [[Ship|ship]], large and small, which he ought not to leave,
 even when he thinks it is sinking.
 
 We may take it then that there are institutions to which we
@@ -319,26 +319,26 @@ but we do not go from nation to nation doing this; unless we
 belong to a certain group now heading very straight for Pogroms.
 In the first case it is the threat that we shall withdraw our custom;
 in the second it is the threat that we shall never withdraw ourselves;
-that we shall be part of the institution to the last.  The time when
-the shop loses its customers is the time when the city needs its citizens;
+that we shall be part of the institution to the last.  The [[Time|time]] when
+the shop loses its customers is the [[Time|time]] when the [[City|city]] needs its citizens;
 but it needs them as critics who will always remain to criticise.
-I need not now emphasise the deadly need of this double energy of internal
-reform and external defence; the whole towering tragedy which has
-eclipsed our earth in our time is but one terrific illustration of it.
+I need not now emphasise the deadly need of this [[Double|double]] energy of internal
+[[Reform|reform]] and external defence; the whole towering [[Tragedy|tragedy]] which has
+eclipsed our earth in our [[Time|time]] is but one terrific illustration of it.
 The hammer-strokes are coming thick and fast now; and filling the world
 with infernal thunders; and there is still the iron sound of something
 unbreakable deeper and louder than all the things that break.
 We may curse the kings, we may distrust the captains, we may murmur
 at the very existence of the armies; but we know that in the darkest
-days that may come to us, no man will desert the flag.
+days that may come to us, no man will [[Desert|desert]] the [[Flag|flag]].
 
 Now when we pass from loyalty to the nation to loyalty to the family,
-there can be no doubt about the first and plainest difference.
+there can be no [[Doubt|doubt]] about the first and plainest difference.
 The difference is that the family is a thing far more free.
-The vow is a voluntary loyalty; and the marriage vow is marked
+The vow is a voluntary loyalty; and the [[Marriage|marriage]] vow is marked
 among ordinary oaths of allegiance by the fact that the allegiance
-is also a choice.  The man is not only a citizen of the city,
-but also the founder and builder of the city.  He is not only a
+is also a choice.  The man is not only a citizen of the [[City|city]],
+but also the founder and builder of the [[City|city]].  He is not only a
 soldier serving the colours, but he has himself artistically selected
 and combined the colours, like the colours of an individual dress.
 If it be admissible to ask him to be true to the commonwealth that has
@@ -351,9 +351,9 @@ It made a plausible point in saying "For he might have been a Russian";
 though indeed we have lived to see some persons who seemed
 to think they could be Russians when the fancy took them.
 If commonsense considers even such involuntary loyalty natural,
-we can hardly wonder if it thinks voluntary loyalty still more natural.
+we can hardly [[Wonder|wonder]] if it thinks voluntary loyalty still more natural.
 And the small state founded on the sexes is at once the most
-voluntary and the most natural of all self-governing states.
+voluntary and the most natural of all [[Self|self]]-governing states.
 It is not true of Mr. Brown that he might have been a Russian;
 but it may be true of Mrs. Brown that she might have been a Robinson.
 
@@ -361,16 +361,16 @@ Now it is not at all hard to see why this small community,
 so specially free touching its cause, should yet be specially bound
 touching its effects.  It is not hard to see why the vow made
 most freely is the vow kept most firmly.  There are attached to it,
-by the nature of things, consequences so tremendous that no contract
+by the [[Nature|nature]] of things, consequences so tremendous that no contract
 can offer any comparison.  There is no contract, unless it be that said
-to be signed in blood, that can call spirits from the vastly deep,
+to be signed in [[Blood|blood]], that can call spirits from the vastly deep,
 or bring cherubs (or goblins) to inhabit a small modern villa.
 There is no stroke of the pen which creates real bodies
-and souls, or makes the characters in a novel come to life.
+and souls, or makes the characters in a [[Novel|novel]] come to life.
 The institution that puzzles intellectuals so much can be explained
 by the mere material fact (perceptible even to intellectuals)
 that children are, generally speaking, younger than their parents.
-"Till death do us part" is not an irrational formula, for those will
+"Till [[Death|death]] do us part" is not an irrational formula, for those will
 almost certainly die before they see more than half of the amazing
 (or alarming) thing they have done.
 
@@ -378,32 +378,32 @@ Such is, in a curt and crude outline, this obvious thing for those
 to whom it is not obvious.  Now I know there are thinking men among
 those who would tamper with it; and I shall expect some of these to
 reply to my questions.  But for the moment I only ask this question:
-whether the parliamentary and journalistic divorce movement shows
+whether the parliamentary and journalistic [[divorce]] movement shows
 even a shadowy trace of these fundamental truths, regarded as tests.
-Does it even discuss the nature of a vow, the limits and objects
-of loyalty, the survival of the family as a small and free state?
+Does it even discuss the [[Nature|nature]] of a vow, the limits and objects
+of loyalty, the [[Survival|survival]] of the family as a small and free state?
 The writers are content to say that Mr. Brown is uncomfortable
 with Mrs. Brown, and the last emancipation, for separated couples,
 seems only to mean that he is still uncomfortable without Mrs. Brown.
 These are not days in which being uncomfortable is felt as the final
 test of public action.  For the rest, the reformers show statistically
 that families are in fact so scattered in our industrial anarchy,
-that they may as well abandon hope of finding their way home again.
+that they may as [[Well|well]] abandon [[Hope|hope]] of finding their way [[Home|home]] again.
 I am acquainted with that argument for making bad worse and I
-see it everywhere leading to slavery.  Because London Bridge is
+see it everywhere leading to [[Slavery|slavery]].  Because [[London]] Bridge is
 broken down, we must assume that bridges are not meant to bridge.
-Because London commercialism and capitalism have copied hell,
+Because [[London]] commercialism and capitalism have copied hell,
 we are to continue to copy them.  Anyhow, some will retain
 the conviction that the ancient bridge built between the two towers
 of sex is the worthiest of the great works of the earth.
 
 It is exceedingly characteristic of the dreary decades before the War
-that the forms of freedom in which they seemed to specialise were suicide
-and divorce.  I am not at the moment pronouncing on the moral problem
+that the forms of [[Freedom|freedom]] in which they seemed to specialise were [[suicide]]
+and [[divorce]].  I am not at the moment pronouncing on the moral problem
 of either; I am merely noting, as signs of those times, those two true
-or false counsels of despair; the end of life and the end of love.
-Other forms of freedom were being increasingly curtailed.
-Freedom indeed was the one thing that progressives and conservatives
+or false counsels of [[Despair|despair]]; the end of life and the end of [[Love|love]].
+Other forms of [[Freedom|freedom]] were being increasingly curtailed.
+[[Freedom]] indeed was the one thing that progressives and conservatives
 alike contemned.  Socialists were largely concerned to prevent strikes,
 by State arbitration; that is, by adding another rich man to give
 the casting vote between rich and poor.  Even in claiming what they
@@ -416,12 +416,12 @@ It was wicked to fight, and unsafe even to argue; for citing any
 certain and contemporary fact might land one in a libel action.
 As all these doors were successfully shut in our faces along the chilly
 and cheerless corridor of progress (with its glazed tiles) the doors
-of death and divorce alone stood open, or rather opened wider and wider.
-I do not expect the exponents of divorce to admit any similarity
+of [[Death|death]] and [[divorce]] [[Alone|alone]] stood open, or rather opened wider and wider.
+I do not expect the exponents of [[divorce]] to admit any similarity
 in the two things; yet the passing parallel is not irrelevant.
 It may enable them to realise the limits within which our moral
 instincts can, even for the sake of argument, treat this desperate remedy
-as a normal object of desire.  Divorce is for us at best a failure,
+as a normal object of [[Desire|desire]].  [[divorce|Divorce]] is for us at best a failure,
 of which we are more concerned to find and cure the cause than to
 complete the effects; and we regard a system that produces many divorces
 as we do a system that drives men to drown and shoot themselves.
@@ -429,7 +429,7 @@ For instance, it is perhaps the commonest complaint against the existing
 law that the poor cannot afford to avail themselves of it.  It is
 an argument to which normally I should listen with special sympathy.
 But while I should condemn the law being a luxury, my first thought
-will naturally be that divorce and death are only luxuries in a rather
+will naturally be that [[divorce]] and [[Death|death]] are only luxuries in a rather
 rare sense.  I should not primarily condole with the poor man on
 the high price of prussic acid; or on the fact that all precipices
 of suitable suicidal height were the private property of the landlords.
@@ -437,38 +437,38 @@ There are other high prices and high precipices I should attack first.
 I should admit in the abstract that what is sauce for the goose is sauce
 for the gander; that what is good for the rich is good for the poor;
 but my first and strongest impression would be that prussic acid
-sauce is not good for anybody.  I fear I should, on the impulse
+sauce is not good for anybody.  I [[Fear|fear]] I should, on the impulse
 of the moment, pull a poor clerk or artisan back by the coat-tails,
 if he were jumping over Shakespeare's Cliff, even if Dover sands
 were strewn with the remains of the dukes and bankers who had already
 taken the plunge.
 
-But in one respect, I will heartily concede, the cult of divorce has
-differed from the mere cult of death.  The cult of death is dead.
+But in one respect, I will heartily concede, the cult of [[divorce]] has
+differed from the mere cult of [[Death|death]].  The cult of [[Death|death]] is dead.
 Those I knew in my youth as young pessimists are now aged optimists.
 And, what is more to the point at present, even when it was living
 it was limited; it was a thing of one clique in one class.
-We know the rule in the old comedy, that when the heroine went
+We know the rule in the old [[Comedy|comedy]], that when the heroine went
 mad in white satin, the confidante went mad in white muslin.
-But when, in some tragedy of the artistic temperament,
-the painter committed suicide in velvet, it was never implied
-that the plumber must commit suicide in corduroy.  It was never held
+But when, in some [[Tragedy|tragedy]] of the artistic temperament,
+the painter committed [[suicide]] in velvet, it was never implied
+that the plumber must commit [[suicide]] in corduroy.  It was never held
 that Hedda Gabler's housemaid must die in torments on the carpet
 (trying as her term of service may have been); or that Mrs. Tanqueray's
-butler must play the Roman fool and die on his own carving knife.
-That particular form of playing the fool, Roman or otherwise,
+butler must play the Roman [[Fool|fool]] and die on his own carving knife.
+That particular form of playing the [[Fool|fool]], Roman or otherwise,
 was an oligarchic privilege in the decadent epoch; and even as such has
 largely passed with that epoch.  Pessimism, which was never popular,
 is no longer even fashionable.  A far different fate has awaited
-the other fashion; the other somewhat dismal form of freedom.
-If divorce is a disease, it is no longer to be a fashionable disease
+the other fashion; the other somewhat dismal form of [[Freedom|freedom]].
+If [[divorce]] is a disease, it is no longer to be a fashionable disease
 like appendicitis; it is to be made an epidemic like small-pox. As
 we have already seen papers and public men to-day make a vast parade
-of the necessity of setting the poor man free to get a divorce.
+of the necessity of setting the poor man free to get a [[divorce]].
 Now why are they so mortally anxious that he should be free to get
-a divorce, and not in the least anxious that he should be free to get
+a [[divorce]], and not in the least anxious that he should be free to get
 anything else?  Why are the same people happy, nay almost hilarious,
-when he gets a divorce, who are horrified when he gets a drink?
+when he gets a [[divorce]], who are horrified when he gets a drink?
 What becomes of his money, what becomes of his children, where he works,
 when he ceases to work, are less and less under his personal control.
 Labour Exchanges, Insurance Cards, Welfare Work, and a hundred forms
@@ -481,13 +481,13 @@ so easy for him to escape from his old Christian code about sex?
 What is the meaning of this mysterious immunity, this special
 permit for adultery; and why is running away with his neighbour's
 wife to be the only exhilaration still left open to him?
-Why must he love as he pleases; when he may not even live as he pleases?
+Why must he [[Love|love]] as he pleases; when he may not even live as he pleases?
 
 The answer is, I regret to say, that this social campaign,
 in most though by no means all of its most prominent campaigners,
 relies in this matter on a very smug and pestilent piece of cant.
-There are some advocates of democratic divorce who are really
-advocates of general democratic freedom; but they are the exceptions;
+There are some advocates of democratic [[divorce]] who are really
+advocates of general democratic [[Freedom|freedom]]; but they are the exceptions;
 I might say, with all respect, that they are the dupes.
 The omnipresence of the thing in the press and in political society
 is due to a motive precisely opposite to the motive professed.
@@ -495,13 +495,13 @@ The modern rulers, who are simply the rich men, are really quite
 consistent in their attitude to the poor man.  It is the same spirit
 which takes away his children under the pretence of order, which takes
 away his wife under the pretence of liberty.  That which wishes,
-in the words of the comic song, to break up the happy home,
+in the words of the comic [[Song|song]], to break up the happy [[Home|home]],
 is primarily anxious not to break up the much more unhappy factory.
 Capitalism, of course, is at war with the family, for the same
-reason which has led to its being at war with the Trade Union.
+reason which has led to its being at war with the Trade [[Union]].
 This indeed is the only sense in which it is true that capitalism
-is connected with individualism.  Capitalism believes in
-collectivism for itself and individualism for its enemies.
+is connected with [[Individualism|individualism]].  Capitalism believes in
+collectivism for itself and [[Individualism|individualism]] for its enemies.
 It desires its victims to be individuals, or (in other words)
 to be atoms.  For the word atom, in its clearest meaning
 (which is none too clear) might be translated as "individual."
@@ -520,12 +520,12 @@ Without the family we are helpless before the State, which in our modern
 case is the Servile State.  To use a military metaphor, the family
 is the only formation in which the charge of the rich can be repulsed.
 It is a force that forms twos as soldiers form fours; and, in every
-peasant country, has stood in the square house or the square
+peasant country, has stood in the square [[house]] or the square
 plot of land as infantry have stood in squares against cavalry.
 How this force operates this, and why, I will try to explain in
 the last of these articles.  But it is when it is most nearly ridden
-down by the horsemen of pride and privilege, as in Poland or Ireland,
-when the battle grows most desperate and the hope most dark,
+down by the horsemen of [[Pride|pride]] and privilege, as in Poland or Ireland,
+when the battle grows most desperate and the [[Hope|hope]] most dark,
 that men begin to understand why that wild oath in its beginnings
 was flung beyond the bonds of the world; and what would seem
 as passing as a vision is made permanent as a vow.
@@ -534,35 +534,35 @@ as passing as a vision is made permanent as a vow.
 
 III
 
-THE SUPERSTITION OF DIVORCE (3)
+THE SUPERSTITION OF [[divorce|DIVORCE]] (3)
 
 There has long been a curiously consistent attempt to conceal the fact
 that France is a Christian country.  There have been Frenchmen
-in the plot, no doubt, and no doubt there have been Frenchmen--
+in the plot, no [[Doubt|doubt]], and no [[Doubt|doubt]] there have been Frenchmen--
 though I have myself only found Englishmen--in the derivative
 attempt to conceal the fact that Balzac was a Christian writer.
 I began to read Balzac long after I had read the admirers
-of Balzac; and they had never given me a hint of this truth.
+of Balzac; and they had never given me a hint of this [[Truth|truth]].
 I had read that his books were bound in yellow and "quite
 impudently French"; though I may have been cloudy about why being
 French should be impudent in a Frenchman.  I had read the truer
 description of "the grimy wizard of the Comedie Humaine,"
-and have lived to learn the truth of it; Balzac certainly is a genius
-of the type of that artist he himself describes, who could draw
+and have lived to learn the [[Truth|truth]] of it; Balzac certainly is a genius
+of the type of that [[Artist|artist]] he himself describes, who could draw
 a broomstick so that one knew it had swept the room after a murder.
 The furniture of Balzac is more alive than the figures of many dramas.
 For this I was prepared; but not for a certain spiritual
 assumption which I recognised at once as a historical phenomenon.
-The morality of a great writer is not the morality he teaches,
-but the morality he takes for granted.  The Catholic type
+The [[morality]] of a great writer is not the [[morality]] he teaches,
+but the [[morality]] he takes for granted.  The Catholic type
 of Christian ethics runs through Balzac's books, exactly as
 the Puritan type of Christian ethics runs through Bunyan's books.
 What his professed opinions were I do not know, any more than I
 know Shakespeare's; but I know that both those great creators of a
 multitudinous world made it, as compared with other and later writers,
-on the same fundamental moral plan as the universe of Dante.
-There can be no doubt about it for any one who can apply as a test
-the truth I have mentioned; that the fundamental things in a man are not
+on the same fundamental moral plan as the universe of [[Dante]].
+There can be no [[Doubt|doubt]] about it for any one who can apply as a test
+the [[Truth|truth]] I have mentioned; that the fundamental things in a man are not
 the things he explains, but rather the things he forgets to explain.
 But here and there Balzac does explain; and with that intellectual
 concentration Mr. George Moore has acutely observed in that novelist
@@ -571,54 +571,54 @@ novels this passage; which, whether or no it would precisely hit
 Mr. George Moore's mood at this moment, strikes me as a perfect
 prophecy of this epoch, and might also be a motto for this book:
 "With the solidarity of the family society has lost that elemental
-force which Montesquieu defined and called 'honour.' Society has
+force which Montesquieu defined and called '[[Honour|honour]].' Society has
 isolated its members the better to govern them, and has divided
 in order to weaken."
 
 Throughout our youth and the years before the War, the current
 criticism followed Ibsen in describing the domestic system as a doll's
-house and the domestic woman as a doll.  Mr. Bernard Shaw varied
-the metaphor by saying that mere custom kept the woman in the home
+[[house]] and the domestic woman as a doll.  Mr. Bernard [[Shaw]] varied
+the metaphor by saying that mere custom kept the woman in the [[Home|home]]
 as it keeps the parrot in the cage; and the plays and tales of
 the period made vivid sketches of a woman who also resembled a parrot
 in other particulars, rich in raiment, shrill in accent and addicted
 to saying over and over again what she had been taught to say.
-Mr. Granville Barker, the spiritual child of Mr. Bernard Shaw,
+Mr. Granville Barker, the spiritual [[Child|child]] of Mr. Bernard [[Shaw]],
 commented in his clever play of "The Voysey Inheritance" on tyranny,
 hypocrisy and boredom, as the constituent elements of a "happy
-English home."  Leaving the truth of this aside for the moment,
-it will be well to insist that the conventionality thus criticised
-would be even more characteristic of a happy French home.  It is not
-the Englishman's house, but the Frenchman's house that is his castle.
+English [[Home|home]]."  Leaving the [[Truth|truth]] of this aside for the moment,
+it will be [[Well|well]] to insist that the conventionality thus criticised
+would be even more characteristic of a happy French [[Home|home]].  It is not
+the Englishman's [[house]], but the Frenchman's [[house]] that is his [[Castle|castle]].
 It might be further added, touching the essential ethical view
-of the sexes at least, that the Irishman's house is his castle;
-though it has been for some centuries a besieged castle.
+of the sexes at least, that the Irishman's [[house]] is his [[Castle|castle]];
+though it has been for some centuries a besieged [[Castle|castle]].
 Anyhow, those conventions which were remarked as making
 domesticity dull, narrow and unnaturally meek and submissive,
 are particularly powerful among the Irish and the French.
 From this it will surely be easy, for any lucid and logical thinker,
 to deduce the fact that the French are dull and narrow,
 and that the Irish are unnaturally meek and submissive.
-Mr. Bernard Shaw, being an Irishman who lives among English men,
+Mr. Bernard [[Shaw]], being an Irishman who lives among English men,
 may be conveniently taken as the type of the difference;
-and it will no doubt be found that the political friends of
-Mr. Shaw, among Englishmen, will be of a wilder revolutionary
+and it will no [[Doubt|doubt]] be found that the political friends of
+Mr. [[Shaw]], among Englishmen, will be of a wilder revolutionary
 type than those whom he would have found among Irishmen.
 We are in a position to compare the meekness of the Fenians
 with the fury of the Fabians.  This deadening monogamic ideal
 may even, in a larger sense define and distinguish all the flat
 subserviency of Clare from all the flaming revolt of Clapham.
 Nor need we now look far to understand why revolutions have been
-unknown in the history of France; or why they happen so persistently
+unknown in the [[history]] of France; or why they happen so persistently
 in the vaguer politics of England.  This rigidity and respectability
 must surely be the explanation of all that incapacity for any civil
 experiment or explosion, which has always marked that sleepy
-hamlet of very private houses which we call the city of Paris.
+[[Hamlet|hamlet]] of very private houses which we call the [[City|city]] of [[Paris]].
 But the same things are true not only of Parisians but of peasants;
 they are even true of other peasants in the great Alliance.
 Students of Serbian traditions tell us that the peasant literature
-lays a special and singular curse on the violation of marriage;
-and this may well explain the prim and sheepish pacifism complained
+lays a special and singular curse on the violation of [[Marriage|marriage]];
+and this may [[Well|well]] explain the prim and sheepish pacifism complained
 of in that people.
 
 In plain words, there is clearly something wrong in the calculation
@@ -628,30 +628,30 @@ as gentle as the primrose or as conservative as the Primrose League.
 It is precisely those who have been conservative about
 the family who have been revolutionary about the state.
 Those who are blamed for the bigotry or bourgeois smugness of their
-marriage conventions are actually those blamed for the restlessness
+[[Marriage|marriage]] conventions are actually those blamed for the restlessness
 and violence of their political reforms.  Nor is there seriously
 any difficulty in discovering the cause of this.  It is simply
-that in such a society the government, in dealing with the family,
-deals with something almost as permanent and self-renewing as itself.
+that in such a society the [[government]], in dealing with the family,
+deals with something almost as permanent and [[Self|self]]-renewing as itself.
 There can be a continuous family policy, like a continuous
 foreign policy.  In peasant countries the family fights, it may almost
 be said that the farm fights.  I do not mean merely that it riots
 in evil and exceptional times; though this is not unimportant.
 It was a savage but a sane feature when, in the Irish evictions,
-the women poured hot water from the windows; it was part of a final
+the women poured hot [[Water|water]] from the windows; it was part of a final
 falling back on private tools as public weapons.  That sort of thing
 is not only war to the knife, but almost war to the fork and spoon.
 It was in this grim sense perhaps that Parnell, in that mysterious pun,
 said that Kettle was a household word in Ireland (it certainly ought
 to be after its subsequent glories), and in a more general sense it
 is certain that meddling with the housewife will ultimately mean
-getting into hot water.  But it is not of such crises of bodily
+getting into hot [[Water|water]].  But it is not of such crises of bodily
 struggle that I speak, but of a steady and peaceful pressure from
-below of a thousand families upon the framework of government.
+below of a thousand families upon the framework of [[government]].
 For this a certain spirit of defence and enclosure is essential;
 and even feudalism was right in feeling that any such affair
-of honour must be a family affair.  It was a true artistic instinct
-that pictured the pedigree on a coat that protects the body.
+of [[Honour|honour]] must be a family affair.  It was a true artistic instinct
+that pictured the pedigree on a coat that protects the [[Body|body]].
 The free peasant has arms if he has not armorial bearings.
 He has not an escutcheon; but he has a shield.  Nor do I see why,
 in a freer and happier society than the present, or even the past,
@@ -668,11 +668,11 @@ by him through thick and thin--especially thin.  Now those who hold
 that the State can be made fit to own all and administer all,
 can consistently disregard this argument; but it may be said with
 all respect that the world is more and more disregarding them.
-If we could find a perfect machine, and a perfect man to work it,
+If we could find a perfect [[Machine|machine]], and a perfect man to work it,
 it might be a good argument for State Socialism, though an equally
 good argument for personal despotism.  But most of us, I fancy,
 are now agreed that something of that social pressure from below
-which we call freedom is vital to the health of the State;
+which we call [[Freedom|freedom]] is vital to the health of the State;
 and this it is which cannot be fully exercised by individuals,
 but only by groups and traditions.  Such groups have been many;
 there have been monasteries; there may be guilds; but there is
@@ -681,19 +681,19 @@ and omnipresent inspiration to build for themselves; and this type
 is the family.
 
 I had intended this article to be the last of those outlining
-the elements of this debate; but I shall have to add a short
+the elements of this [[debate]]; but I shall have to add a short
 concluding section on the way in which all this is missed in
-the practical (or rather unpractical) proposals about divorce.
+the practical (or rather unpractical) proposals about [[divorce]].
 Here I will only say that they suffer from the modern and morbid
 weaknesses of always sacrificing the normal to the abnormal.  As a fact
 the "tyranny, hypocrisy and boredom" complained of are not domesticity,
-but the decay of domesticity.  The case of that particular complaint,
+but the [[Decay|decay]] of domesticity.  The case of that particular complaint,
 in Mr. Granville Barker's play, is itself a proof.  The whole point
 of "The Voysey Inheritance" was that there was no Voysey inheritance.
 The only heritage of that family was a highly dishonourable debt.
 Naturally their family affections had decayed when their whole ideal
-of property and probity had decayed; and there was little love
-as well as little honour among thieves.  It has yet to be proved
+of property and probity had decayed; and there was little [[Love|love]]
+as [[Well|well]] as little [[Honour|honour]] among thieves.  It has yet to be proved
 that they would have been as much bored if they had had a positive
 and not a negative heritage; and had worked a farm instead of a fraud.
 And the experience of mankind points the other way.
@@ -702,52 +702,52 @@ And the experience of mankind points the other way.
 
 IV
 
-THE SUPERSTITION OF DIVORCE (4)
+THE SUPERSTITION OF [[divorce|DIVORCE]] (4)
 
 I have touched before now on a famous or infamous Royalist who
 suggested that the people should eat grass; an unfortunate remark
 perhaps for a Royalist to make; since the regimen is only recorded
 of a Royal Personage.  But there was certainly a simplicity
 in the solution worthy of a sultan or even a savage chief;
-and it is this touch of autocratic innocence on which I have mainly
+and it is this touch of autocratic [[innocence]] on which I have mainly
 insisted touching the social reforms of our day, and especially
-the social reform known as divorce.  I am primarily more concerned
+the social [[Reform|reform]] known as [[divorce]].  I am primarily more concerned
 with the arbitrary method than with the anarchic result.
-Very much as the old tyrant would turn any number of men out
-to grass, so the new tyrant would turn any number of women into
+Very much as the old [[Tyrant|tyrant]] would turn any number of men out
+to grass, so the new [[Tyrant|tyrant]] would turn any number of women into
 grass-widows. Anyhow, to vary the legendary symbolism, it never
-seems to occur to the king in this fairy tale that the gold crown
+seems to occur to the [[King|king]] in this fairy tale that the gold [[Crown|crown]]
 on his head is a less, and not a more, sacred and settled ornament
 than the gold ring on the woman's finger.  This change is being
-achieved by the summary and even secret government which we now suffer;
+achieved by the summary and even secret [[government]] which we now suffer;
 and this would be the first point against it, even if it were
 really an emancipation; and it is only in form an emancipation.
 I will not anticipate the details of its defence, which can
 be offered by others, but I will here conclude for the present
-by roughly suggesting the practical defences of divorce,
+by roughly suggesting the practical defences of [[divorce]],
 as generally given just at present, under four heads.  And I will
 only ask the reader to note that they all have one thing in common;
-the fact that each argument is also used for all that social reform
-which plain men are already calling slavery.
+the fact that each argument is also used for all that social [[Reform|reform]]
+which plain men are already calling [[Slavery|slavery]].
 
 First, it is very typical of the latest practical proposals that they
 are concerned with the case of those who are already separated,
 and the steps they must take to be divorced.  There is a spirit
 penetrating all our society to-day by which the exception is allowed
-to alter the rule; the exile to deflect patriotism, the orphan
+to alter the rule; the [[Exile|exile]] to deflect patriotism, the [[Orphan|orphan]]
 to depose parenthood, and even the widow or, in this case as we
 have seen the grass widow, to destroy the position of the wife.
 There is a sort of symbol of this tendency in that mysterious
 and unfortunate nomadic nation which has been allowed to alter so
-many things, from a crusade in Russia to a cottage in South Bucks.
-We have been told to treat the wandering Jew as a pilgrim,
+many things, from a crusade in [[Russia]] to a cottage in South Bucks.
+We have been told to treat the wandering Jew as a [[Pilgrim|pilgrim]],
 while we still treat the wandering Christian as a vagabond.
-And yet the latter is at least trying to get home, like Ulysses;
-whereas the former is, if anything, rather fleeing from home, like Cain.
+And yet the latter is at least trying to get [[Home|home]], like [[Ulysses]];
+whereas the former is, if anything, rather fleeing from [[Home|home]], like [[Cain]].
 He who is detached, disgruntled, non descript, intermediate is
 everywhere made the excuse for altering what is common, corporate,
 traditional and popular.  And the alteration is always for the worse.
-The mermaid never becomes more womanly, but only more fishy.
+The [[Mermaid|mermaid]] never becomes more womanly, but only more fishy.
 The centaur never becomes more manly, but only more horsy.
 The Jew cannot really internationalise Christendom; he can only
 denationalise Christendom.  The proletarian does not find it easy
@@ -766,34 +766,34 @@ in it like a rabbit and undermine a whole countryside.
 Next we have, as we always have touching such crude experiments,
 an argument from the example of other countries, and especially
 of new countries.  Thus the Eugenists tell me solemnly that there
-have been very successful Eugenic experiments in America.
+have been very successful Eugenic experiments in [[america|America]].
 And they rigidly retain their solemnity (while refusing with many
 rebukes to believe in mine) when I tell them that one of the Eugenic
-experiments in America is a chemical experiment; which consists
+experiments in [[america|America]] is a chemical experiment; which consists
 of changing a black man into the allotropic form of white ashes.
 It is really an exceedingly Eugenic experiment; since its chief object
-is to discourage an inter-racial mixture of blood which is not desired.
+is to discourage an inter-racial mixture of [[Blood|blood]] which is not desired.
 But I do not like this American experiment, however American;
 and I trust and believe that it is not typically American at all.
 It represents, I conceive, only one element in the complexity
-of the great democracy; and goes along with other evil elements;
+of the great [[Democracy|democracy]]; and goes along with other evil elements;
 so that I am not at all surprised that the same strange social sections,
 which permit a human being to be burned alive, also permit
-the exalted science of Eugenics.  It is the same in the milder
+the exalted science of [[Eugenics]].  It is the same in the milder
 matter of liquor laws; and we are told that certain rather crude
 colonials have established prohibition Laws, which they try to evade;
-just as we are told they have established divorce laws, which they
-are now trying to repeal.  For in this case of divorce, at least,
+just as we are told they have established [[divorce]] laws, which they
+are now trying to repeal.  For in this case of [[divorce]], at least,
 the argument from distant precedents has recoiled crushingly upon itself.
-There is already an agitation for less divorce in America,
-even while there is an agitation for more divorce in England.
+There is already an agitation for less [[divorce]] in [[america|America]],
+even while there is an agitation for more [[divorce]] in England.
 
 Again, when an argument is based on a need of population, it will
-be well if those supporting it realise where it may carry them.
+be [[Well|well]] if those supporting it realise where it may carry them.
 It is exceedingly doubtful whether population is one of the advantages
-of divorce; but there is no doubt that it is one of the advantages
-of polygamy.  It is already used in Germany as an argument for polygamy.
-But the very word will teach us to look even beyond Germany
+of [[divorce]]; but there is no [[Doubt|doubt]] that it is one of the advantages
+of polygamy.  It is already used in [[Germany]] as an argument for polygamy.
+But the very word will teach us to look even beyond [[Germany]]
 for something yet more remote and repulsive.  Mere population,
 along with a sort of polygamous anarchy, will not appear even
 as a practical ideal to any one who considers, for instance,
@@ -803,16 +803,16 @@ the chief test of progress and efficiency, China would long ago
 have proved itself the most progressive and efficient state.
 De Quincey summed up the whole of that enormous situation in a
 sentence which is perhaps more impressive and even appalling than all
-the perspectives of orient architecture and vistas of opium vision
+the perspectives of [[Orient|orient]] architecture and vistas of opium vision
 in the midst of which it comes.  "Man is a weed in those regions."
-Many Europeans, fearing for the garden of the world, have fancied
-that in some future fatality those weeds may spring up and choke it.
-But no Europeans have really wished that the flowers should become
+Many Europeans, fearing for the [[Garden|garden]] of the world, have fancied
+that in some future fatality those weeds may [[spring]] up and choke it.
+But no Europeans have really wished that the [[Flowers|flowers]] should become
 like the weeds.  Even if it were true, therefore, that the loosening
 of the tie necessarily increased the population; even if this were
 not contradicted, as it is, by the facts of many countries, we should
 have strong historical grounds for not accepting the deduction.
-We should still be suspicious of the paradox that we may encourage
+We should still be suspicious of the [[Paradox|paradox]] that we may encourage
 large families by abolishing the family.
 
 Lastly, I believe it is part of the defence of the new proposal
@@ -823,30 +823,30 @@ responsible for a money payment to the wife he deserts, and second,
 that the matter shall once again be submitted in some fashion to
 some magistrate.  For my purpose here, it is enough to note that there
 is something of the unmistakable savour of the sociology we resist,
-in these two touching acts of faith, in a cheque-book and in a lawyer.
-Most of the fashionable reformers of marriage would be faintly
+in these two touching acts of [[Faith|faith]], in a cheque-book and in a lawyer.
+Most of the fashionable reformers of [[Marriage|marriage]] would be faintly
 shocked at any suggestion that a poor old charwoman might possibly
 refuse such money, or that a good kind magistrate might not have
-the right to give such advice.  For the reformers of marriage
+the right to give such advice.  For the reformers of [[Marriage|marriage]]
 are very respectable people, with some honourable exceptions;
 and nothing could fit more smoothly into the rather greasy groove
 of their respectability than the suggestion that treason is best treated
 with the damages, gentlemen, heavy damages, of Mr. Serjeant Buzfuz;
-or that tragedy is best treated by the spiritual arbitrament
+or that [[Tragedy|tragedy]] is best treated by the spiritual arbitrament
 of Mr. Nupkins.
 
-One word should be added to this hasty sketch of the elements of
+One word should be added to this hasty [[Sketch|sketch]] of the elements of
 the case.  I have deliberately left out the loftiest aspect and argument,
-that which sees marriage as a divine institution; and that for
+that which sees [[Marriage|marriage]] as a divine institution; and that for
 the logical reason that those who believe in this would not believe
-in divorce; and I am arguing with those who do believe in divorce.
+in [[divorce]]; and I am arguing with those who do believe in [[divorce]].
 I do not ask them to assume the worth of my creed or any creed;
 and I could wish they did not so often ask me to assume the worth
 of their worthless, poisonous plutocratic modern society.
 But if it could be shown, as I think it can, that a long historical
 view and a patient political experience can at last accumulate
 solid scientific evidence of the vital need of such a vow, then I
-can conceive no more tremendous tribute than this, to any faith,
+can conceive no more tremendous tribute than this, to any [[Faith|faith]],
 which made a flaming affirmation from the darkest beginnings,
 of what the latest enlightenment can only slowly discover in the end.
 
@@ -857,11 +857,11 @@ V
 THE STORY OF THE FAMlLY
 
 The most ancient of human institutions has an authority that may
-seem as wild as anarchy.  Alone among all such institutions it
+seem as wild as anarchy.  [[Alone]] among all such institutions it
 begins with a spontaneous attraction; and may be said strictly
-and not sentimentally to be founded on love instead of fear.
+and not sentimentally to be founded on [[Love|love]] instead of [[Fear|fear]].
 The attempt to compare it with coercive institutions complicating
-later history has led to infinite illogicality in later times.
+later [[history]] has led to infinite illogicality in later times.
 It is as unique as it is universal.  There is nothing in any other social
 relations in any way parallel to the mutual attraction of the sexes.
 By missing this simple point, the modern world has fallen into
@@ -871,22 +871,22 @@ of vassals against their lords, of niggers against nigger-drivers,
 of Poles against Prussians or Irishmen against Englishmen;
 for all the world as if we really believed in the fabulous nation
 of the Amazons.  The equally philosophical idea of a general
-revolt of men against women has been put into a romance by
+revolt of men against women has been put into a [[Romance|romance]] by
 Sir Walter Besant, and into a sociological book by Mr. Belfort Bax.
-But at the first touch of this truth of an aboriginal attraction,
+But at the first touch of this [[Truth|truth]] of an aboriginal attraction,
 all such comparisons collapse and are seen to be comic.
 A Prussian does not feel from the first that he can only
 be happy if he spends his days and nights with a Pole.
-An Englishman does not think his house empty and cheerless unless
+An Englishman does not think his [[house]] empty and cheerless unless
 it happens to contain an Irishman.  A white man does not in his
-romantic youth dream of the perfect beauty of a black man.
-A railway magnate seldom writes poems about the personal fascination
+romantic youth dream of the perfect [[Beauty|beauty]] of a black man.
+A railway magnate seldom writes [[Poems|poems]] about the personal fascination
 of a railway porter.  All the other revolts against all the other
 relations are reasonable and even inevitable, because those
-relations are originally only founded upon force or self interest.
-Force can abolish what force can establish; self-interest can
-terminate a contract when self-interest has dictated the contract.
-But the love of man and woman is not an institution that can be abolished,
+relations are originally only founded upon force or [[Self|self]] interest.
+Force can abolish what force can establish; [[Self|self]]-interest can
+terminate a contract when [[Self|self]]-interest has dictated the contract.
+But the [[Love|love]] of man and woman is not an institution that can be abolished,
 or a contract that can be terminated.  It is something older than all
 institutions or contracts, and something that is certain to outlast
 them all.  All the other revolts are real, because there remains
@@ -897,27 +897,27 @@ but a man and a woman must remain together in one way or another;
 and must learn to put up with each other somehow.
 
 These are very simple truths; that is why nobody nowadays
-seems to take any particular notice of them; and the truth
+seems to take any particular notice of them; and the [[Truth|truth]]
 that follows next is equally obvious.  There is no dispute
-about the purpose of Nature in creating such an attraction.
+about the purpose of [[Nature]] in creating such an attraction.
 It would be more intelligent to call it the purpose of God;
-for Nature can have no purpose unless God is behind it.
-To talk of the purpose of Nature is to make a vain attempt to avoid
+for [[Nature]] can have no purpose unless God is behind it.
+To talk of the purpose of [[Nature]] is to make a vain attempt to avoid
 being anthropomorphic, merely by being feminist.  It is believing
 in a goddess because you are too sceptical to believe in a god.
 But this is a controversy which can be kept apart from the question,
 if we content ourselves with saying that the vital value ultimately
 found in this attraction is, of course, the renewal of the race itself.
-The child is an explanation of the father and mother and the fact
-that it is a human child is the explanation of the ancient human
+The [[Child|child]] is an explanation of the father and mother and the fact
+that it is a human [[Child|child]] is the explanation of the ancient human
 ties connecting the father and mother.  The more human, that is the
-less bestial, is the child, the more lawful and lasting are the ties.
+less bestial, is the [[Child|child]], the more lawful and lasting are the ties.
 So far from any progress in culture or the sciences tending to loosen
 the bond, any such progress must logically tend to tighten it.
-The more things there are for the child to learn, the longer he must
+The more things there are for the [[Child|child]] to learn, the longer he must
 remain at the natural school for learning them; and the longer his
 teachers must at least postpone the dissolution of their partnership.
-This elementary truth is hidden to-day in vast masses of vicarious,
+This elementary [[Truth|truth]] is hidden to-day in vast masses of vicarious,
 indirect and artificial work, with the fundamental fallacy of which I
 shall deal in a moment.  Here I speak of the primary position of
 the human group, as it has stood through unthinkable ages of waxing
@@ -926,8 +926,8 @@ always unable to delegate all of it.  In this, I repeat, it will always
 be necessary for the two teachers to remain together, in proportion
 as they have anything to teach.  One of the shapeless sea-beasts,
 that merely detaches itself from its offspring and floats away,
-could float away to a submarine divorce court, or an advanced club
-founded on free-love for fishes.  The sea-beast might do this,
+could float away to a submarine [[divorce]] [[Court|court]], or an advanced club
+founded on free-[[Love|love]] for fishes.  The sea-beast might do this,
 precisely because the sea beast's offspring need do nothing;
 because it has not got to learn the polka or the multiplication table.
 All these are truisms but they are also truths, and truths that
@@ -937,7 +937,7 @@ If people cannot mind their own business, it cannot possibly
 be made economical to pay them to mind each other's business;
 and still less to mind each other's babies.  It is simply throwing
 away a natural force and then paying for an artificial force;
-as if a man were to water a plant with a hose while holding up
+as if a man were to [[Water|water]] a plant with a hose while holding up
 an umbrella to protect it from the rain.  The whole really rests
 on a plutocratic illusion of an infinite supply of servants.
 When we offer any other system as a "career for women," we are really
@@ -952,24 +952,24 @@ to each of the individual children, are their individual parents.
 The expression as applied to those dealing with changing crowds
 of children is a graceful and legitimate flourish of speech.
 
-This triangle of truisms, of father, mother and child, cannot
+This triangle of truisms, of father, mother and [[Child|child]], cannot
 be destroyed; it can only destroy those civilisations which disregard it.
 Most modern reformers are merely bottomless sceptics, and have no basis
-on which to rebuild; and it is well that such reformers should realise
-that there is something they cannot reform.  You can put down the mighty
-from their seat; you can turn the world upside down, and there is
+on which to rebuild; and it is [[Well|well]] that such reformers should realise
+that there is something they cannot [[Reform|reform]].  You can put down the mighty
+from their seat; you can turn the [[World Upside Down|world upside down]], and there is
 much to be said for the view that it may then be the right way up.
 But you cannot create a world in which the baby carries the mother.
 You cannot create a world in which the mother has not authority
-over the baby.  You can waste your time in trying, by giving
+over the baby.  You can waste your [[Time|time]] in trying, by giving
 votes to babies or proclaiming a republic of infants in arms.
 You can say, as an educationist said the other day, that small children
 should "criticise, question authority and suspend their judgment."
 I do not know why he did not go on to say that they should
 earn their own living, pay income tax to the state, and die
 in battle for the fatherland; for the proposal evidently is
-that children shall have no childhood.  But you can, if you find
-entertainment in such games, organise "representative government"
+that children shall have no [[Childhood|childhood]].  But you can, if you find
+entertainment in such games, organise "representative [[government]]"
 among little boys and girls, and tell them to take their legal
 and constitutional responsibilities as seriously as possible.
 In short, you can be crazy; but you cannot be consistent.
@@ -983,33 +983,33 @@ of more artificial authorities.  It has always been regarded as
 something in the literal sense individual; that is, as an absolute
 that could not really be divided.  A baby was not even a baby apart
 from its mother; it was something else, most probably a corpse.
-It was always recognised as standing in a peculiar relation to government;
+It was always recognised as standing in a peculiar relation to [[government]];
 simply because it was one of the few things that had not been made
-by government; and could to some extent come into existence with out
-the support of government.  Indeed the case for it is too strong
+by [[government]]; and could to some extent come into existence with out
+the support of [[government]].  Indeed the case for it is too strong
 to be stated.  For the case for it is that there is nothing like it;
 and we can only find faint parallels to it in those more elaborate
 and painful powers and institutions that are its inferiors.
 Thus the only way of conveying it is to compare it to a nation;
 although, compared to it, national divisions are as modern and formal
-as national anthems.  Thus I may often use the metaphor of a city;
-though in its presence a citizen is as recent as a city clerk.
+as national anthems.  Thus I may often use the metaphor of a [[City|city]];
+though in its presence a citizen is as recent as a [[City|city]] clerk.
 It is enough to note here that everybody does know by intuition
 and admit by implication that a family is a solid fact,
-having a character and colour like a nation.  The truth can
+having a character and colour like a nation.  The [[Truth|truth]] can
 be tested by the most modern and most daily experiences.
 A man does say "That is the sort of thing the Browns will like";
-however tangled and interminable a psychological novel he might
+however tangled and interminable a psychological [[Novel|novel]] he might
 compose on the shades of difference between Mr. and Mrs. Brown.
 A woman does say "I don't like Jemima seeing so much of the Robinsons";
 and she does not always, in the scurry of her social or domestic duties,
 pause to distinguish the optimistic materialism of Mrs. Robinson from
 the more acid cynicism which tinges the hedonism of Mr. Robinson.
 There is a colour of the household inside, as conspicuous as the colour
-of the house outside.  That colour is a blend, and if any tint
+of the [[house]] outside.  That colour is a blend, and if any tint
 in it predominate it is generally that preferred by Mrs. Robinson.
 But, like all composite colours, it is a separate colour;
-as separate as green is from blue and yellow.  Every marriage is
+as separate as green is from blue and yellow.  Every [[Marriage|marriage]] is
 a sort of wild balance; and in every case the compromise is as unique
 as an eccentricity.  Philanthropists walking in the slums often
 see the compromise in the street, and mistake it for a fight.
@@ -1019,11 +1019,11 @@ that brought them into the world.
 
 The first thing to see is that this enormous normality is
 like a mountain; and one that is capable of being a volcano.
-Every abnormality that is now opposed to it is like a mole-hill;
+Every abnormality that is now opposed to it is like a mole-[[Hill|hill]];
 and the earnest sociological organisers of it are exceedingly like moles.
 But the mountain is a volcano in another sense also; as suggested
 in that tradition of the southern fields fertilised by lava.
-It has a creative as well as a destructive side; and it only remains,
+It has a creative as [[Well|well]] as a destructive side; and it only remains,
 in this part of the analysis, to note the political effect of this
 extra-political institution, and the political ideals of which it
 has been the champion; and perhaps the only permanent champion.
@@ -1036,10 +1036,10 @@ the state that is bound to renew itself as eternally as the state,
 and more naturally than the state.  Every sane man recognises
 that unlimited liberty is, anarchy, or rather is nonentity.
 The civic idea of liberty is to give the citizen a province
-of liberty; a limitation within which a citizen is a king.
-This is the only way in which truth can ever find refuge from
-public persecution, and the good man survive the bad government.
-But the good man by himself is no match for the city.
+of liberty; a limitation within which a citizen is a [[King|king]].
+This is the only way in which [[Truth|truth]] can ever find refuge from
+public persecution, and the good man survive the bad [[government]].
+But the good man by himself is no match for the [[City|city]].
 There must be balanced against it another ideal institution,
 and in that sense an immortal institution.  So long as the state
 is the only ideal institution the state will call on the citizen
@@ -1050,9 +1050,9 @@ the bounds of coercion; as, for instance, in the case of conscription.
 The only thing that can be set up to check or challenge this authority is
 a voluntary law and a voluntary loyalty.  That loyalty is the protection
 of liberty, in the only sphere where liberty can fully dwell.
-It is a principle of the constitution that the King never dies.
+It is a principle of the constitution that the [[King]] never dies.
 It is the whole principle of the family that the citizen never dies.
-There must be a heraldry and heredity of freedom; a tradition of
+There must be a heraldry and heredity of [[Freedom|freedom]]; a tradition of
 resistance to tyranny.  A man must be not only free, but free-born.
 
 Indeed, there is something in the family that might loosely
@@ -1060,41 +1060,41 @@ be called anarchist; and more correctly called amateur.
 As there seems something almost vague about its voluntary origin,
 so there seems something vague about its voluntary organisation.
 The most vital function it performs, perhaps the most vital function
-that anything can perform, is that of education; but its type of early
-education is far too essential to be mistaken for instruction.
+that anything can perform, is that of [[Education|education]]; but its type of early
+[[Education|education]] is far too essential to be mistaken for instruction.
 In a thousand things it works rather by rule of thumb than rule
-of theory.  To take a commonplace and even comic example, I doubt
+of theory.  To take a commonplace and even comic example, I [[Doubt|doubt]]
 if any text-book or code of rules has ever contained any directions
-about standing a child in a corner.  Doubtless when the modern
+about standing a [[Child|child]] in a corner.  Doubtless when the modern
 process is complete, and the coercive principle of the state
 has entirely extinguished the voluntary element of the family,
 there will be some exact regulation or restriction about the matter.
 Possibly it will say that the corner must be an angle of at least
 ninety-five degrees.  Possibly it will say that the converging
-line of any ordinary corner tends to make a child squint.
+line of any ordinary corner tends to make a [[Child|child]] squint.
 In fact I am certain that if I said casually, at a sufficient
 number of tea-tables, that corners made children squint, it would
 rapidly become a universally received dogma of popular science.
 For the modern world will accept no dogmas upon any authority;
 but it will accept any dogmas on no authority.  Say that a thing
-is so, according to the Pope or the Bible, and it will be dismissed
+is so, according to the Pope or the [[Bible]], and it will be dismissed
 as a superstition without examination.  But preface your remark
 merely with "they say" or "don't you know that?" or try (and fail)
 to remember the name of some professor mentioned in some newspaper;
 and the keen rationalism of the modern mind will accept every word
 you say.  This parenthesis is not so irrelevant as it may appear,
-for it will be well to remember that when a rigid officialism breaks
-in upon the voluntary compromises of the home, that officialism
+for it will be [[Well|well]] to remember that when a rigid officialism breaks
+in upon the voluntary compromises of the [[Home|home]], that officialism
 itself will be only rigid in its action and will be exceedingly
 limp in its thought.  Intellectually it will be at least as vague
-as the amateur arrangements of the home, and the only difference is
+as the amateur arrangements of the [[Home|home]], and the only difference is
 that the domestic arrangements are in the only real sense practical,
 that is, they are founded on experiences that have been suffered.
 The others are what is now generally called scientific; that is,
 they are founded on experiments that have not yet been made.
 As a matter of fact, instead of invading the family with the blundering
 bureaucracy that mismanages the public services, it would be far
-more philosophical to work the reform the other way round.
+more philosophical to work the [[Reform|reform]] the other way round.
 It would be really quite as reasonable to alter the laws
 of the nation so as to resemble the laws of the nursery.
 The punishments would be far less horrible, far more humorous,
@@ -1104,7 +1104,7 @@ instead of putting on the black cap, had to put on the dunce's cap;
 or if we could stand a financier in his own corner.
 
 Of course this opinion is rare, and reactionary--whatever that may mean.
-Modern education is founded on the principle that a parent is more
+Modern [[Education|education]] is founded on the principle that a parent is more
 likely to be cruel than anybody else.  It passes over the obvious
 fact that he is less likely to be cruel than anybody else.
 Anybody may happen to be cruel; but the first chances of cruelty come
@@ -1115,15 +1115,15 @@ inspectors, instructors, and so on.  They are automatically given
 arbitrary power because there are here and there such things as
 criminal parents; as if there were no such things as criminal doctors
 or criminal school-masters. A mother is not always judicious about
-her child's diet, so it is given into the control of Dr. Crippen.
-A father is thought not to teach his sons the purest morality;
+her [[Child|child]]'s diet, so it is given into the control of Dr. Crippen.
+A father is thought not to teach his sons the purest [[morality]];
 so they are put under the tutorship of Eugene Aram.
 These celebrated criminals are no more rare in their respective
 professions than the cruel parents are in the profession
 of parenthood.  But indeed the case is far stronger than this;
 and there is no need to rely on the case of such criminals at all.
-The ordinary weaknesses of human nature will explain all the weaknesses
-of bureaucracy and business government all over the world.
+The ordinary weaknesses of human [[Nature|nature]] will explain all the weaknesses
+of bureaucracy and business [[government]] all over the world.
 The official need only be an ordinary man to be more indifferent
 to other people's children than to his own; and even to sacrifice
 other people's family prosperity to his own.  He may be bored;
@@ -1136,10 +1136,10 @@ shepherd will lay down his life for the sheep; or for that matter,
 even that the she-wolf will fight for the cubs.  We are to believe
 that mothers are inhuman; but not that officials are human.
 There are unnatural parents, but there are no natural passions;
-at least, there are none where the fury of King Lear dared to find them--
-in the beadle.  Such is the latest light on the education of the young;
-and the same principle that is applied to the child is applied
-to the husband and wife.  Just as it assumes that a child will
+at least, there are none where the fury of [[King Lear]] dared to find them--
+in the beadle.  Such is the latest light on the [[Education|education]] of the young;
+and the same principle that is applied to the [[Child|child]] is applied
+to the husband and wife.  Just as it assumes that a [[Child|child]] will
 certainly be loved by anybody except his mother, so it assumes
 that a man can be happy with anybody except the one woman he has
 himself chosen for his wife.
@@ -1155,7 +1155,7 @@ reformed or modified or even cut down; it is being torn in pieces.
 It is not only being torn in pieces in the sense of a true metaphor,
 like a living thing caught in a hideous clockwork of manufacture.
 It is being literally torn in pieces, in that the husband may go
-to one factory, the wife to another, and the child to a third.
+to one factory, the wife to another, and the [[Child|child]] to a third.
 Each will become the servant of a separate financial group,
 which is more and more gaining the political power of a feudal group.
 But whereas feudalism received the loyalty of families, the lords
@@ -1164,39 +1164,39 @@ that is, of lonely men and even of lost children.
 
 It is sometimes said that Socialism attacks the family;
 which is founded on little beyond the accident that some Socialists
-believe in free-love. I have been a Socialist, and I am no longer
-a Socialist, and at no time did I believe in free-love. It is true,
+believe in free-[[Love|love]]. I have been a Socialist, and I am no longer
+a Socialist, and at no [[Time|time]] did I believe in free-[[Love|love]]. It is true,
 I think in a large and unconscious sense, that State Socialism
 encourages the general coercive claim I have been considering.
 But if it be true that Socialism attacks the family in theory, it is far
-more certain that Capitalism attacks it in practice.  It is a paradox,
+more certain that Capitalism attacks it in practice.  It is a [[Paradox|paradox]],
 but a plain fact, that men never notice a thing as long as it exists
 in practice.  Men who will note a heresy will ignore an abuse.
-Let any one who doubts the paradox imagine the newspapers formally
+Let any one who doubts the [[Paradox|paradox]] imagine the newspapers formally
 printing along with the Honours' List a price list, for peerages
 and knighthoods; though everybody knows they are bought and sold.
 So the factory is destroying the family in fact; and need depend
-on no poor mad theorist who dreams of destroying it in fancy.
-And what is destroying it is nothing so plausible as free love;
-but something rather to be described as an enforced fear.
+on no poor mad theorist who [[Dreams|dreams]] of destroying it in fancy.
+And what is destroying it is nothing so plausible as free [[Love|love]];
+but something rather to be described as an enforced [[Fear|fear]].
 It is economic punishment more terrible than legal punishment,
-which may yet land us in slavery as the only safety.
+which may yet land us in [[Slavery|slavery]] as the only safety.
 
 From its first days in the forest this human group had to fight
 against wild monsters; and so it is now fighting against
 these wild machines.  It only managed to survive then, and it
 will only manage to survive now, by a strong internal sanctity;
-a tacit oath or dedication deeper than that of the city or the tribe.
+a tacit oath or dedication deeper than that of the [[City|city]] or the tribe.
 But though this silent promise was always present, it took at
-a certain turning point of our history a special form which I
-shall try to sketch in the next chapter.  That turning point was
+a certain turning point of our [[history]] a special form which I
+shall try to [[Sketch|sketch]] in the next chapter.  That turning point was
 the creation of Christendom by the religion which created it.
-Nothing will destroy the sacred triangle; and even the Christian faith,
+Nothing will destroy the sacred triangle; and even the Christian [[Faith|faith]],
 the most amazing revolution that ever took place in the mind,
 served only in a sense to turn that triangle upside down.
-It held up a mystical mirror in which the order of the three things
-was reversed; and added a holy family of child, mother and father
-to the human family of father, mother and child.
+It held up a mystical [[Mirror|mirror]] in which the order of the three things
+was reversed; and added a holy family of [[Child|child]], mother and father
+to the human family of father, mother and [[Child|child]].
 
 --/--
 
@@ -1204,137 +1204,137 @@ VI
 
 THE STORY OF THE VOW
 
-Charles Lamb, with his fine fantastic instinct for combinations that are
-also contrasts, has noted somewhere a contrast between St. Valentine
+Charles [[Lamb]], with his fine fantastic instinct for combinations that are
+also contrasts, has noted somewhere a contrast between St. [[Valentine]]
 and valentines.  There seems a comic incongruity in such lively
 and frivolous flirtations still depending on the date and title
-of an ascetic and celibate bishop of the Dark Ages.  The paradox lends
-itself to his treatment, and there is a truth in his view of it.
-Perhaps it may seem even more of a paradox to say there is no paradox.
+of an [[ascetic]] and celibate bishop of the Dark Ages.  The [[Paradox|paradox]] lends
+itself to his treatment, and there is a [[Truth|truth]] in his view of it.
+Perhaps it may seem even more of a [[Paradox|paradox]] to say there is no [[Paradox|paradox]].
 In such cases unification appears more provocative than division;
 and it may seem idly contradictory to deny the contradiction.
-And yet in truth there is no contradiction.  In the deepest sense
-there is a very real similarity, which puts St. Valentine and his
+And yet in [[Truth|truth]] there is no contradiction.  In the deepest sense
+there is a very real similarity, which puts St. [[Valentine]] and his
 valentines on one side, and most of the modern world on the other.
 I should hesitate to ask even a German professor to collect,
 collate and study carefully all the valentines in the world, with the
 object of tracing a philosophical principle running through them.
-But if he did, I have no doubt about the philosophic principle
+But if he did, I have no [[Doubt|doubt]] about the philosophic principle
 he would find.  However trivial, however imbecile, however vulgar
 or vapid or stereotyped the imagery of such things might be, it would
-always involve one idea, the same idea that makes lovers laboriously
+always involve one idea, the same idea that makes [[lovers]] laboriously
 chip their initials on a tree or a rock, in a sort of monogram
-of monogamy.  It may be a cockney trick to tie one's love on a tree;
-though Orlando did it, and would now doubtless be arrested
+of monogamy.  It may be a cockney trick to tie one's [[Love|love]] on a tree;
+though [[Orlando]] did it, and would now doubtless be arrested
 by the police for breaking the byelaws of the Forest of Arden.
 I am not here concerned especially to commend the habit of cutting
 one's own name and private address in large letters on the front
-of the Parthenon, across the face of the Sphinx, or in any other nook
+of the Parthenon, across the face of [[The Sphinx|the Sphinx]], or in any other nook
 or corner where it may chance to arrest the sentimental interest
 of posterity.  But like many other popular things, of the sort
 that can generally be found in Shakespeare, there is a meaning in it
 that would probably be missed by a less popular poet, like Shelley.
-There is a very permanent truth in the fact that two free persons
+There is a very permanent [[Truth|truth]] in the fact that two free persons
 deliberately tie themselves to a log of wood.  And it is the idea
 of tying oneself to something that runs through all this old amorous
-allegory like a pattern of fetters.  There is always the notion
+[[Allegory|allegory]] like a pattern of fetters.  There is always the notion
 of hearts chained together, or skewered together, or in some
 manner secured; there is a security that can only be called captivity.
 That it frequently fails to secure itself has nothing to do with
-the present point.  The point is that every philosophy of sex
-must fail, which does not account for its ambition of fixity,
-as well as for its experience of failure.  There is nothing to make
-Orlando commit himself on the sworn evidence of the nearest tree.
+the present point.  The point is that every [[philosophy]] of sex
+must fail, which does not account for its [[Ambition|ambition]] of fixity,
+as [[Well|well]] as for its experience of failure.  There is nothing to make
+[[Orlando]] commit himself on the sworn evidence of the nearest tree.
 He is not bound to be bound; he is under constraint, but nobody
-constrains him to be under constraint.  In short, Orlando took
-a vow to marry precisely as Valentine took a vow not to marry.
-Nor could any ascetic, without being a heretic, have asserted
-in the wildest reactions of asceticism, that the vow of Orlando
-was not lawful as well as the vow of Valentine.  But it is a notable
+constrains him to be under constraint.  In short, [[Orlando]] took
+a vow to marry precisely as [[Valentine]] took a vow not to marry.
+Nor could any [[ascetic]], without being a heretic, have asserted
+in the wildest reactions of asceticism, that the vow of [[Orlando]]
+was not lawful as [[Well|well]] as the vow of [[Valentine]].  But it is a notable
 fact that even when it was not lawful, it was still a vow.
 Through all that mediaeval culture, which has left us the legend
-of romance, there ran this pattern of a chain, which was felt as binding
+of [[Romance|romance]], there ran this pattern of a chain, which was felt as binding
 even where it ought not to bind.  The lawless loves of mediaeval
 legends all have their own law, and especially their own loyalty,
 as in the tales of Tristram or Lancelot.  In this sense we might say
-that mediaeval profligacy was more fixed than modern marriage.
+that mediaeval profligacy was more fixed than modern [[Marriage|marriage]].
 I am not here discussing either modern or mediaeval ethics,
 in the matter of what they did say or ought to say of such things.
 I am only noting as a historical fact the insistence of the
-mediaeval imagination, even at its wildest, upon one particular idea.
+mediaeval [[Imagination|imagination]], even at its wildest, upon one particular idea.
 That idea is the idea of the vow.  It might be the vow which
-St. Valentine took; it might be a lesser vow which he regarded as lawful;
+St. [[Valentine]] took; it might be a lesser vow which he regarded as lawful;
 it might be a wild vow which he regarded as quite lawless.  But the whole
 society which made such festivals and bequeathed to us such traditions
 was full of the idea of vows; and we must recognise this notion,
 even if we think it nonsensical, as the note of the whole civilisation.
-And Valentine and the valentine both express it for us; even more if we
+And [[Valentine]] and the [[Valentine|valentine]] both express it for us; even more if we
 feel them both as exaggerated, or even as exaggerating opposites.
 Those extremes meet; and they meet in the same place.
-Their trysting place is by the tree on which the lover hung his
-love-letters. And even if the lover hung himself on the tree,
+Their trysting place is by the tree on which the [[Lover|lover]] hung his
+[[Love|love]]-letters. And even if the [[Lover|lover]] hung himself on the tree,
 instead of his literary compositions, even that act had about it
 also an indefinable flavour of finality.
 
 It is often said by the critics of Christian origins that certain
 ritual feasts, processions or dances are really of pagan origin.
-They might as well say that our legs are of pagan origin.
+They might as [[Well|well]] say that our legs are of pagan origin.
 Nobody ever disputed that humanity was human before it was Christian;
 and no Church manufactured the legs with which men walked or danced,
 either in a pilgrimage or a ballet.  What can really be maintained,
 so as to carry not a little conviction, is this:  that where such a Church
 has existed it has preserved not only the processions but the dances;
-not only the cathedral but the carnival.  One of the chief claims
+not only the [[Cathedral|cathedral]] but the carnival.  One of the chief claims
 of Christian civilisation is to have preserved things of pagan origin.
-In short, in the old religious countries men continue to dance;
+In short, in the old religious countries men continue to [[Dance|dance]];
 while in the new scientific cities they are often content to drudge.
 
-But when this saner view of history is realised, there does remain
+But when this saner view of [[history]] is realised, there does remain
 something more mystical and difficult to define.  Even heathen things
-are Christian when they have been preserved by Christianity.  Chivalry is
+are Christian when they have been preserved by [[Christianity]].  Chivalry is
 something recognisably different even from the virtus of Virgil.
-Charity is something exceedingly different from the plain pity of Homer.
-Even our patriotism is something more subtle than the undivided love
-of the city; and the change is felt in the most permanent things,
-such as the love of landscape or the love of woman.  To define the
+[[Charity]] is something exceedingly different from the plain pity of Homer.
+Even our patriotism is something more subtle than the undivided [[Love|love]]
+of the [[City|city]]; and the change is felt in the most permanent things,
+such as the [[Love|love]] of landscape or the [[Love|love]] of woman.  To define the
 differentiation in all these things will always be hopelessly difficult.
 But I would here suggest one element in the change which is perhaps
 too much neglected; which at any rate ought not to be neglected;
-the nature of a vow.  I might express it by saying that pagan antiquity
+the [[Nature|nature]] of a vow.  I might express it by saying that pagan antiquity
 was the age of status; that Christian mediaevalism was the age of vows;
 and that sceptical modernity has been the age of contracts;
 or rather has tried to be, and has failed.
 
-The outstanding example of status was slavery.  Needless to say
-slavery does not mean tyranny; indeed it need only be regarded
-relatively to other things to be regarded as charity.
-The idea of slavery is that large numbers of men are meant and made
+The outstanding example of status was [[Slavery|slavery]].  Needless to say
+[[Slavery|slavery]] does not mean tyranny; indeed it need only be regarded
+relatively to other things to be regarded as [[Charity|charity]].
+The idea of [[Slavery|slavery]] is that large numbers of men are meant and made
 to do the heavy work of the world, and that others, while taking
 the margin of profits, must nevertheless support them while they do it.
 The point is not whether the work is excessive or moderate,
 or whether the condition is comfortable or uncomfortable.
 The point is that his work is chosen for the man, his status
 fixed for the man; and this status is forced on him by law.
-As Mr. Balfour said about Socialism, that is slavery and nothing
-else is slavery.  The slave might well be, and often was,
+As Mr. Balfour said about Socialism, that is [[Slavery|slavery]] and nothing
+else is [[Slavery|slavery]].  The slave might [[Well|well]] be, and often was,
 far more comfortable than the average free labourer, and certainly
 far more lazy than the average peasant.  He was a slave because
 he had not reached his position by choice, or promise, or bargain,
 but merely by status.
 
-It is admitted that when Christianity had been for some time at work
+It is admitted that when [[Christianity]] had been for some [[Time|time]] at work
 in the world, this ancient servile status began in some mysterious
 manner to disappear.  I suggest here that one of the forms which the new
 spirit took was the importance of the vow.  Feudalism, for instance,
-differed from slavery chiefly because feudalism was a vow.
+differed from [[Slavery|slavery]] chiefly because feudalism was a vow.
 The vassal put his hands in those of his lord, and vowed to be his man;
-but there was an accent on the noun substantive as well as on
+but there was an accent on the noun substantive as [[Well|well]] as on
 the possessive pronoun.  By swearing to be his man, he proved
 he was not his chattel.  Nobody exacts a promise from a pickaxe,
-or expects a poker to swear everlasting friendship with the tongs.
+or expects a poker to swear everlasting [[Friendship|friendship]] with the tongs.
 Nobody takes the word of a spade; and nobody ever took the word of
 a slave.  It marks at least a special stage of transition that the form
-of freedom was essential to the fact of service, or even of servitude.
+of [[Freedom|freedom]] was essential to the fact of service, or even of servitude.
 In this way it is not a coincidence that the word homage actually
 means manhood.  And if there was vow instead of status even in
 the static parts of Feudalism, it is needless to say that there
@@ -1345,13 +1345,13 @@ from a vow to give all the spoils of conquest to the poor to a vow
 to refrain from shaving until the first glimpse of Jerusalem.
 As I have remarked, this rule of loyalty, even in the unruly
 exceptions which proved the rule, ran through all the romances
-and songs of the troubadours; and there were always vows
-even when they were very far from being marriage vows.
+and [[songs]] of the troubadours; and there were always vows
+even when they were very far from being [[Marriage|marriage]] vows.
 The idea is as much present in what they called the Gay Science,
-of love, as in what they called the Divine Science, of theology.
+of [[Love|love]], as in what they called the Divine Science, of theology.
 The modern reader will smile at the mention of these things as sciences;
 and will turn to the study of sociology, ethnology and psycho-analysis;
-for if these are sciences (about which I would not divulge a doubt)
+for if these are sciences (about which I would not divulge a [[Doubt|doubt]])
 at least nobody would insult them by calling them either gay or divine.
 
 I mean here to emphasise the presence, and not even to settle
@@ -1361,9 +1361,9 @@ to answer that all these things affected only a cultured class,
 not corresponding to the servile class of antiquity.
 When we come to workmen and small tradesmen, we find the same vague
 yet vivid presence of the spirit that can only be called the vow.
-In this sense there was a chivalry of trades as well as a chivalry
+In this sense there was a chivalry of trades as [[Well|well]] as a chivalry
 of orders of knighthood; just as there was a heraldry of shop-signs
-as well as a heraldry of shields.  Only it happens that in the
+as [[Well|well]] as a heraldry of shields.  Only it happens that in the
 enlightenment and liberation of the sixteenth century, the heraldry
 of the rich was preserved, and the heraldry of the poor destroyed.
 And there is a sinister symbolism in the fact that almost the only
@@ -1373,7 +1373,7 @@ except the sign of the golden usury that has devoured them all.
 The point here, however, is that the trade or craft had not only
 something like the crest, but something like the vow of knighthood.
 There was in the position of the guildsman the same basic notion
-that belonged to knights and even to monks.  It was the notion
+that belonged to knights and even to [[Monks|monks]].  It was the notion
 of the free choice of a fixed estate.  We can realise the moral
 atmosphere if we compare the system of the Christian guilds,
 not only with the status of the Greek and Roman slaves, but with
@@ -1382,19 +1382,19 @@ has some of the qualities of the occidental guild; especially the
 valuable quality of tradition and the accumulation of culture.
 Men might be proud of their castes, as they were proud of their guilds.
 But they had never chosen their castes, as they have chosen their guilds.
-They had never, within historic memory, even collectively created
+They had never, within historic [[Memory|memory]], even collectively created
 their castes, as they collectively created their guilds.
-Like the slave system, the caste system was older than history.
+Like the slave system, the caste system was older than [[history]].
 The heathens of modern Asia, as much as the heathens of ancient Europe,
 lived by the very spirit of status.  Status in a trade has been
 accepted like status in a tribe; and that in a tribe of beasts
-and birds rather than men.  The fisherman continued to be a fisherman
+and [[Birds|birds]] rather than men.  The fisherman continued to be a fisherman
 as the fish continued to be a fish; and the hunter would no more
 turn into a cook than his dog would try its luck as a cat.
 Certainly his dog would not be found prostrated before the mysterious
 altar of Pasht, barking or whining a wild, lonely, and individual
 vow that he at all costs would become a cat.  Yet that was the vital
-revolt and innovation of vows, as compared with castes or slavery;
+revolt and innovation of vows, as compared with castes or [[Slavery|slavery]];
 as when a man vowed to be a monk, or the son of a cobbler saluted
 the shrine of St. Joseph, the patron saint of carpenters.
 When he had entered the guild of the carpenters he did indeed
@@ -1403,42 +1403,42 @@ but the whole social atmosphere surrounding his entrance
 was full of the sense of a separate and personal decision.
 There is one place where we can still find this sentiment;
 the sentiment of something at once free and final.  We can feel it,
-if the service is properly understood, before and after the marriage
+if the service is properly understood, before and after the [[Marriage|marriage]]
 vows at any ordinary wedding in any ordinary church.
 
-Such, in very vague outline, has been the historical nature
+Such, in very vague outline, has been the historical [[Nature|nature]]
 of vows; and the unique part they played in that mediaeval
-civilisation out of which modern civilisation rose--or fell.
+civilisation out of which modern civilisation [[Rose|rose]]--or fell.
 We can now consider, a little less cloudily than it is generally
 considered nowadays, whether we really think vows are good things;
 whether they ought to be broken; and (as would naturally follow)
 whether they ought to be made.  But we can never judge it fairly
-till we face, as I have tried to suggest, this main fact of history;
+till we face, as I have tried to suggest, this main fact of [[history]];
 that the personal pledge, feudal or civic or monastic, was the way
-in which the world did escape from the system of slavery in the past.
-For the modern breakdown of mere contract leaves it still doubtful
+in which the world did escape from the system of [[Slavery|slavery]] in the past.
+For the modern breakdown of mere contract [[Leaves|leaves]] it still doubtful
 if there be any other way of escaping it in the future.
 
 The idea, or at any rate the ideal, of the thing called a vow is
 fairly obvious.  It is to combine the fixity that goes with finality
-with the self-respect that only goes with freedom.  The man is
-a slave who is his own master, and a king who is his own ancestor.
+with the [[Self|self]]-respect that only goes with [[Freedom|freedom]].  The man is
+a slave who is his own master, and a [[King|king]] who is his own ancestor.
 For all kinds of social purposes he has the calculable orbit of
 the man in the caste or the servile state; but in the story of his
-own soul he is still pursuing, at great peril, his own adventure.
+own [[Soul|soul]] he is still pursuing, at great peril, his own adventure.
 As seen by his neighbours, he is as safe as if immured in a fortress;
 but as seen by himself he may be forever careering through
-the sky or crashing towards the earth in a flying-ship. What
+the sky or crashing towards the earth in a flying-[[Ship|ship]]. What
 is socially humdrum is produced by what is individually heroic;
-and a city is made not merely of citizens but knight-errants.
+and a [[City|city]] is made not merely of citizens but knight-errants.
 It is needless to point out the part played by the monastery
 in civilising Europe in its most barbaric interregnum; and even
 those who still denounce the monasteries will be found denouncing
 them for these two extreme and apparently opposite eccentricities.
 They are blamed for the rigid character of their collective routine;
-and also for the fantastic character of their individual fanaticism.
+and also for the fantastic character of their individual [[Fanaticism|fanaticism]].
 For the purposes of this part of the argument, it would not matter if the
-marriage vow produced the most austere discomforts of the monastic vow.
+[[Marriage|marriage]] vow produced the most austere discomforts of the monastic vow.
 The point for the present is that it was sustained by a sense of
 free will; and the feeling that its evils were not accepted but chosen.
 The same spirit ran through all the guilds and popular arts
@@ -1446,28 +1446,28 @@ and spontaneous social systems of the whole civilisation.
 It had all the discipline of an army; but it was an army of volunteers.
 
 The civilisation of vows was broken up when Henry the Eighth
-broke his own vow of marriage.  Or rather, it was broken
+broke his own vow of [[Marriage|marriage]].  Or rather, it was broken
 up by a new cynicism in the ruling powers of Europe,
 of which that was the almost accidental expression in England.
 The monasteries, that had been built by vows, were destroyed.
 The guilds, that had been regiments of volunteers were dispersed.
-The sacramental nature of marriage was denied; and many
-of the greatest intellects of the new movement, like Milton,
-already indulged in a very modern idealisation of divorce.
+The sacramental [[Nature|nature]] of [[Marriage|marriage]] was denied; and many
+of the greatest intellects of the new movement, like [[Milton]],
+already indulged in a very modern idealisation of [[divorce]].
 The progress of this sort of emancipation advanced step by step
 with the progress of that aristocratic ascendancy which has made
-the history of modern England; with all its sympathy with personal
+the [[history]] of modern England; with all its sympathy with personal
 liberty, and all its utter lack of sympathy with popular life.
-Marriage not only became less of a sacrament but less of a sanctity.
+[[Marriage]] not only became less of a sacrament but less of a sanctity.
 It threatened to become not only a contract, but a contract that could
 not be kept.  For this one question has retained a strange symbolic
 supremacy amid all the similar questions, which seems to perpetuate
-the coincidence of the origin.  It began with divorce for a king;
+the coincidence of the origin.  It began with [[divorce]] for a [[King|king]];
 and it is now ending in divorces for a whole kingdom.
 
 The modern era that followed can be called the era of contract;
 but it can still more truly be called the era of leonine contract.
-The nobles of the new time first robbed the people, and then offered
+The nobles of the new [[Time|time]] first robbed the people, and then offered
 to bargain with them.  It would not be an exaggeration to say
 that they first robbed the people, and then offered to cheat them.
 For their rents were competitive rents, their economics
@@ -1486,12 +1486,12 @@ That is to say, the word slave will never be used; for it is always easy
 to find an inoffensive word; but he will be admittedly a man legally
 bound to certain social service, in return for economic security.
 In other words, the modern experiment of mere contract has broken down.
-Trusts as well as Trades' Unions express the fact that it has
-broken down.  Social reform, Socialism, Guild Socialism, Syndicalism,
+Trusts as [[Well|well]] as Trades' Unions express the fact that it has
+broken down.  Social [[Reform|reform]], Socialism, Guild Socialism, Syndicalism,
 even organised philanthropy, are so many ways of saying that it has
 broken down.  The substitute for it may be the old one of status;
 but it must be something having some of the stability of status.
-So far history has found only one way of combining that sort
+So far [[history]] has found only one way of combining that sort
 of stability with any sort of liberty.  In this sense there is
 a meaning in the much misused phrase about the army of industry.
 But the army must be stiffened either by the discipline of conscripts
@@ -1499,36 +1499,36 @@ or by the vows of volunteers.
 
 If we may extend the doubtful metaphor of an army of industry
 to cover the yet weaker phrase about captains of industry,
-there is no doubt about what those captains at present command.
+there is no [[Doubt|doubt]] about what those captains at present command.
 They work for a centralised discipline in every department.
 They erect a vast apparatus of supervision and inspection;
 they support all the modern restrictions touching drink and hygiene.
 They may be called the friends of temperance or even of happiness;
-but even their friends would not call them the friends of freedom.
-There is only one form of freedom which they tolerate; and that is the
-sort of sexual freedom which is covered by the legal fiction of divorce.
-If we ask why this liberty is alone left, when so many liberties
+but even their friends would not call them the friends of [[Freedom|freedom]].
+There is only one form of [[Freedom|freedom]] which they tolerate; and that is the
+sort of sexual [[Freedom|freedom]] which is covered by the legal fiction of [[divorce]].
+If we ask why this liberty is [[Alone|alone]] left, when so many liberties
 are lost, we shall find the answer in the summary of this chapter.
 They are trying to break the vow of the knight as they broke the vow
 of the monk.  They recognise the vow as the vital antithesis
 to servile status, the alternative and therefore the antagonist.
-Marriage makes a small state within the state, which resists
+[[Marriage]] makes a small state within the state, which resists
 all such regimentation.  That bond breaks all other bonds;
 that law is found stronger than all later and lesser laws.
-They desire the democracy to be sexually fluid, because the
+They [[Desire|desire]] the [[Democracy|democracy]] to be sexually fluid, because the
 making of small nuclei is like the making of small nations.
 Like small nations, they are a nuisance to the mind of imperial scope.
-In short, what they fear, in the most literal sense, is home rule.
+In short, what they [[Fear|fear]], in the most literal sense, is [[Home|home]] rule.
 
 Men can always be blind to a thing so long as it is big enough.
 It is so difficult to see the world in which we live, that I
-know that many will see all I have said here of slavery as a
-nonsensical nightmare.  But if my association of divorce with slavery
-seems only a far-fetched and theoretical paradox, I should have no
+know that many will see all I have said here of [[Slavery|slavery]] as a
+nonsensical [[nightmare]].  But if my association of [[divorce]] with [[Slavery|slavery]]
+seems only a far-fetched and theoretical [[Paradox|paradox]], I should have no
 difficulty in replacing it by a concrete and familiar picture.
-Let them merely remember the time when they read "Uncle Tom's Cabin,"
+Let them merely remember the [[Time|time]] when they read "Uncle Tom's Cabin,"
 and ask themselves whether the oldest and simplest of the charges
-against slavery has not always been the breaking up of families.
+against [[Slavery|slavery]] has not always been the breaking up of families.
 
 --/--
 
@@ -1548,21 +1548,21 @@ he should think that burial does matter.  If it is in no way imprudent
 for a man to keep himself from a consecrated font, how can it
 be inhuman for other people to keep him from a consecrated field?
 It is surely much nearer to mere superstition to attach
-importance to what is done to a dead body than to a live baby.
+importance to what is done to a dead [[Body|body]] than to a live baby.
 I can understand a man thinking both superstitious, or both sacred;
 but I cannot see why he should grumble that other people do not give
 him as sanctities what he regards as superstitions.  He is merely
 complaining of being treated as what he declares himself to be.
 It is as if a man were to say, "My persecutors still refuse to make
-me king, out of mere malice because I am a strict republican."
+me [[King|king]], out of mere malice because I am a strict republican."
 Or it is as if he said, "These heartless brutes are so prejudiced
 against a teetotaler, that they won't even give him a glass of brandy."
 
-The fashion of divorce would not be a modern fashion if it were
+The fashion of [[divorce]] would not be a modern fashion if it were
 not full of this touching fallacy.  A great deal of it might be
 summed up as a most illogical and fanatical appetite for getting
 married in churches.  It is as if a man should practice polygamy
-out of sheer greed for wedding cake.  Or it is as if he provided
+out of sheer [[Greed|greed]] for wedding cake.  Or it is as if he provided
 his household with new shoes, entirely by having them thrown
 after the wedding carriage when he went off with a new wife.
 There are other ways of procuring cake or purchasing shoes;
@@ -1570,12 +1570,12 @@ and there are other ways of setting up a human establishment.
 What is unreasonable is the request which the modern man
 really makes of the religious institutions of his fathers
 The modern man wants to buy one shoe without the other;
-to obtain one half of a supernatural revelation without the other.
+to obtain one half of a [[Supernatural|supernatural]] revelation without the other.
 The modern man wants to eat his wedding cake and have it, too.
 
 I am not basing this book on the religious argument,
 and therefore I will not pause to inquire why the old Catholic
-institutions of Christianity seem to be especially made the objects
+institutions of [[Christianity]] seem to be especially made the objects
 of these unreasonable complaints.  As a matter of fact nobody
 does propose that some ferocious Anti-Semite like M. Drumont
 should be buried as a Jew with all the rites of the Synagogue.
@@ -1591,7 +1591,7 @@ Nobody does insist on Baptists totally immersing people who totally
 deny the advantages of being totally immersed.  Nobody ever did
 expect Mormons to receive the open mockers of the Book of Mormon,
 nor Christian Scientists to let their churches be used for exposing
-Mrs. Eddy as an old fraud.  It is only of the forms of Christianity
+Mrs. Eddy as an old fraud.  It is only of the forms of [[Christianity]]
 making the Catholic claim that such inconsistent claims are made.
 And even the inconsistency is, I fancy, a tribute to the acceptance
 of the Catholic idea in a catholic fashion.  It may be that men
@@ -1606,13 +1606,13 @@ The point here is that it is at least superficially inconsistent
 to ask institutions for a formal approval, which they can only
 give by inconsistency.
 
-I have put first the question of what is marriage.
-And we are now in a position to ask more clearly what is divorce.
-It is not merely the negation or neglect of marriage; for any one can
-always neglect marriage.  It is not the dissolution of the legal
-obligation of marriage, or even the legal obligation of monogamy;
+I have put first the question of what is [[Marriage|marriage]].
+And we are now in a position to ask more clearly what is [[divorce]].
+It is not merely the negation or neglect of [[Marriage|marriage]]; for any one can
+always neglect [[Marriage|marriage]].  It is not the dissolution of the legal
+obligation of [[Marriage|marriage]], or even the legal obligation of monogamy;
 for the simple reason that no such obligation exists.
-Any man in modern London may have a hundred wives if he does
+Any man in modern [[London]] may have a hundred wives if he does
 not call them wives; or rather, if he does not go through certain
 more or less mystical ceremonies in order to assert that they
 are wives.  He might create a certain social coolness round
@@ -1624,11 +1624,11 @@ out of the room when somebody they don't like comes into it?"
 We cannot be forcibly introduced to a polygamist by a policeman.
 It would not be an assertion of social liberty, but a denial
 of social liberty, if we found ourselves practically obliged
-to associate with all the profligates in society.  But divorce is
-not in this sense mere anarchy.  On the contrary divorce is in this
+to associate with all the profligates in society.  But [[divorce]] is
+not in this sense mere anarchy.  On the contrary [[divorce]] is in this
 sense respectability; and even a rigid excess of respectability.
-Divorce in this sense might indeed be not unfairly called snobbery.
-The definition of divorce, which concerns us here, is that it
+[[divorce|Divorce]] in this sense might indeed be not unfairly called snobbery.
+The definition of [[divorce]], which concerns us here, is that it
 is the attempt to give respectability, and not liberty.  It is
 the attempt to give a certain social status, and not a legal status.
 It is indeed supposed that this can be done by the alteration
@@ -1639,14 +1639,14 @@ If a man divorced in the large-minded fashion of Henry the Eighth
 pleaded his legal title among the peasantry of Ireland, for instance,
 I think he would find a difference still existing between respectability
 and religion.  But the peculiar point here is that many are
-claiming the sanction of religion as well as of respectability.
+claiming the sanction of religion as [[Well|well]] as of respectability.
 They would attach to their very natural and sometimes very pardonable
 experiments a certain atmosphere, and even glamour, which has
-undoubtedly belonged to the status of marriage in historic Christendom.
-But before they make this attempt, it would be well to ask
+undoubtedly belonged to the status of [[Marriage|marriage]] in historic Christendom.
+But before they make this attempt, it would be [[Well|well]] to ask
 why such a dignity ever appeared or in what it consisted.
 And I fancy we shall find ourselves confronted with the very
-simple truth, that the dignity arose wholly and entirely out
+simple [[Truth|truth]], that the dignity arose wholly and entirely out
 of the fidelity; and that the glamour merely came from the vow.
 People were regarded as having a certain dignity because they
 were dedicated in a certain way; as bound to certain duties and,
@@ -1664,41 +1664,41 @@ But the nobles who dissolved the monasteries did not shave
 their heads, and ask to be regarded as saints solely on account
 of that ceremony.  The nobles did not dress up as abbots and ask
 to be credited with a potential talent for working miracles,
-because of the austerity of their vows of poverty and chastity.
+because of the austerity of their vows of [[Poverty|poverty]] and chastity.
 They got inside the houses, but not the hoods, and still less the haloes.
 They at least knew that it is not the habit that makes the monk.
 They were not so superstitious as those moderns, who think it
 is the veil that makes the bride.
 
 What is respected, in short, is the fidelity to the ancient
-flag of the family, and a readiness to fight for what I have
-noted as its unique type of freedom.  I say readiness to fight,
+[[Flag|flag]] of the family, and a readiness to fight for what I have
+noted as its unique type of [[Freedom|freedom]].  I say readiness to fight,
 for fortunately the fight itself is the exception rather than the rule.
-The soldier is not respected because he is doomed to death,
-but because he is ready for death; and even ready for defeat.
-The married man or woman is not doomed to evil, sickness or poverty;
+The soldier is not respected because he is doomed to [[Death|death]],
+but because he is ready for [[Death|death]]; and even ready for defeat.
+The married man or woman is not doomed to evil, sickness or [[Poverty|poverty]];
 but is respected for taking a certain step for better for worse,
 for richer for poorer, in sickness or in health.  But there is
 one result of this line of argument which should correct a danger
 in some arguments on the same side.
 
-It is very essential that a stricture on divorce, which is in fact
-simply a defence of marriage, should be independent of sentimentalism,
+It is very essential that a stricture on [[divorce]], which is in fact
+simply a defence of [[Marriage|marriage]], should be independent of sentimentalism,
 especially in the form called optimism.  A man justifying a fight
-for national independence or civic freedom is neither sentimental
+for national independence or civic [[Freedom|freedom]] is neither sentimental
 nor optimistic.  He explains the sacrifice, but he does not explain
 it away.  He does not say that bayonet wounds are pin-pricks,
-or mere scratches of the thorns on a rose of pleasure.  He does not say
+or mere scratches of the thorns on a [[Rose|rose]] of pleasure.  He does not say
 that the whole display of firearms is a festive display of fireworks.
-On the contrary, when he praises it most, he praises it as pain
-rather than pleasure.  He increases the praise with the pain;
+On the contrary, when he praises it most, he praises it as [[Pain|pain]]
+rather than pleasure.  He increases the praise with the [[Pain|pain]];
 it is his whole boast that militarism, and even modern science,
-can produce no instrument of torture to tame the soul of man.
+can produce no instrument of torture to tame the [[Soul|soul]] of man.
 It is idle, in speaking of war, to pit the realistic against the romantic,
 in the sense of the heroic; for all possible realism can only increase
-the heroism; and therefore, in the highest sense, increase the romance.
-Now I do not compare marriage with war, but I do compare marriage
-with law or liberty or patriotism or popular government,
+the [[Heroism|heroism]]; and therefore, in the highest sense, increase the [[Romance|romance]].
+Now I do not compare [[Marriage|marriage]] with war, but I do compare [[Marriage|marriage]]
+with law or liberty or patriotism or popular [[government]],
 or any of the human ideals which have often to be defended by war.
 Even the wildest of those ideals, which seem to escape from all
 the discipline of peace, do not escape from the discipline of war.
@@ -1708,60 +1708,60 @@ and then to rule armies.  In a word, how ever beautiful you may think
 your own visions of beatitude, men must suffer to be beautiful,
 and even suffer a considerable interval of being ugly.  And I have
 no notion of denying that mankind suffers much from the maintenance
-of the standard of marriage; as it suffers much from the necessity
-of criminal law or the recurrence of crusades and revolutions.
-The only question here is whether marriage is indeed, as I maintain,
-an ideal and an institution making for popular freedom; I do not need
-to be told that anything making for popular freedom has to be paid
-for in vigilance and pain, and a whole army of martyrs.
+of the standard of [[Marriage|marriage]]; as it suffers much from the necessity
+of criminal law or the recurrence of [[Crusades|crusades]] and revolutions.
+The only question here is whether [[Marriage|marriage]] is indeed, as I maintain,
+an ideal and an institution making for popular [[Freedom|freedom]]; I do not need
+to be told that anything making for popular [[Freedom|freedom]] has to be paid
+for in vigilance and [[Pain|pain]], and a whole army of martyrs.
 
 Hence I am far indeed from denying the hard cases which
-exist here, as in all matters involving the idea of honour.
+exist here, as in all matters involving the idea of [[Honour|honour]].
 For indeed I could not deny them without denying the whole
-parallel of militant morality on which my argument rests.
-But this being first understood, it will be well to discuss in a
-little more detail what are described as the tragedies of marriage.
+parallel of militant [[morality]] on which my argument rests.
+But this being first understood, it will be [[Well|well]] to discuss in a
+little more detail what are described as the tragedies of [[Marriage|marriage]].
 And the first thing to note about the most tragic of them is that they
-are not tragedies of marriage at all They are tragedies of sex;
-and might easily occur in a highly modern romance in which marriage
+are not tragedies of [[Marriage|marriage]] at all They are tragedies of sex;
+and might easily occur in a highly modern [[Romance|romance]] in which [[Marriage|marriage]]
 was not mentioned at all.  It is generally summarised by saying
-that the tragic element is the absence of love.  But it is often
-forgotten that another tragic element is often the presence of love.
-The doctors of divorce, with an air of the frank and friendly
+that the tragic element is the absence of [[Love|love]].  But it is often
+forgotten that another tragic element is often the presence of [[Love|love]].
+The doctors of [[divorce]], with an air of the frank and friendly
 realism of men of the world, are always recommending and rejoicing
 in a sensible separation by mutual consent.  But if we are really
-to dismiss our dreams of dignity and honour, if we are really to fall
+to dismiss our [[Dreams|dreams]] of dignity and [[Honour|honour]], if we are really to fall
 back on the frank realism of our experience as men of the world,
 then the very first thing that our experience will tell us is
 that it very seldom is a separation by mutual consent; that is,
 that the consent very seldom is sincerely and spontaneously mutual.
 By far the commonest problem in such cases is that in which one
 party wishes to end the partnership and the other does not.
-And of that emotional situation you can make nothing but a tragedy,
-whichever way you turn it.  With or without marriage,
-with or without divorce, with or without any arrangements
-that anybody can suggest or imagine, it remains a tragedy.
-The only difference is that by the doctrine of marriage it remains
-both a noble and a fruitful tragedy; like that of a man who falls
-fighting for his country, or dies testifying to the truth.
-But the truth is that the innovators have as much sham optimism
-about divorce as any romanticist can have had about marriage.
-They regard their story, when it ends in the divorce court,
+And of that emotional situation you can make nothing but a [[Tragedy|tragedy]],
+whichever way you turn it.  With or without [[Marriage|marriage]],
+with or without [[divorce]], with or without any arrangements
+that anybody can suggest or imagine, it remains a [[Tragedy|tragedy]].
+The only difference is that by the doctrine of [[Marriage|marriage]] it remains
+both a noble and a fruitful [[Tragedy|tragedy]]; like that of a man who falls
+fighting for his country, or dies testifying to the [[Truth|truth]].
+But the [[Truth|truth]] is that the innovators have as much sham optimism
+about [[divorce]] as any romanticist can have had about [[Marriage|marriage]].
+They regard their story, when it ends in the [[divorce]] [[Court|court]],
 through as rosy a mist of sentimentalism as anybody ever regarded
-a story ending with wedding bells.  Such a reformer is quite
+a story ending with wedding [[Bells|bells]].  Such a reformer is quite
 sure that when once the prince and princess are divorced
 by the fairy godmother, they will live happily ever after.
-I enjoy romance, but I like it to be rooted in reality; and any
+I enjoy [[Romance|romance]], but I like it to be rooted in reality; and any
 one with a touch of reality knows that nine couples out of ten,
 when they are divorced, are left in an exceedingly different state.
 It will be safe to say in most cases that one partner will fail
 to find happiness in an infatuation, and the other will from
-the first accept a tragedy.  In the realm of reality and not romance,
-it is commonly a case of breaking hearts as well as breaking promises;
+the first accept a [[Tragedy|tragedy]].  In the realm of reality and not [[Romance|romance]],
+it is commonly a case of breaking hearts as [[Well|well]] as breaking promises;
 and even dishonour is not always a remedy for remorse.
 
 The next limitation to be laid down in the matter affects certain
-practical forms of discomforts on a level rather lower than love
+practical forms of discomforts on a level rather lower than [[Love|love]]
 or hatred.  The cases most commonly quoted concern what is called "drink"
 and what is called "cruelty." They are always talked about as matters
 of fact; though in practice they are very decidedly matters of opinion.
@@ -1772,7 +1772,7 @@ For the very definition of drunkenness may depend on the dogma
 of teetotalism.  Drunkenness, it has been very truly observed,
 "may mean anything from delirium tremens to having a stronger
 head than the official appointed to conduct the examination."
-Mr Bernard Shaw once professed, apparently seriously, that any man
+Mr Bernard [[Shaw]] once professed, apparently seriously, that any man
 drinking wine or beer at all was incapacitated from managing a motorcar;
 and still more, therefore, one would suppose, from managing a wife.
 The scales are weighted here, of course, with all those false weights
@@ -1786,26 +1786,26 @@ They might go any lengths of injustice in dealing with the working
 man or working woman accused of too hearty a taste in beer.
 To mention but one matter out of a thousand, the middle class reformers
 are obviously quite ignorant of the hours at which working people begin
-to work.  Because they themselves, at eleven o'clock in the morning,
+to work.  Because they themselves, at eleven o'[[Clock|clock]] in the morning,
 have only recently finished breakfast and the full moral digestion
 of the Daily Mail, they think a char-woman drinking beer at that hour is
 one of those arising early in the morning to follow after strong drink.
 Most of them really do not know that she has already done more than half
 a heavy day's work, and is partaking of a very reasonable luncheon.
 The whole problem of proletarian drink is entangled in a network
-of these misunderstandings; and there is no doubt whatever that,
+of these misunderstandings; and there is no [[Doubt|doubt]] whatever that,
 when judged by these generalisations, the poor will be taken
-in a net of injustices.  And this truth is as certain in
+in a net of injustices.  And this [[Truth|truth]] is as certain in
 the case of what is called cruelty as of what is called drink.
 Nine times out of ten the judgment on a navvy for hitting a woman
 is about as just as a judgment on him for not taking off his hat
 to a lady.  It is a class test; it may be a class superiority;
 but it is not an act of equal justice between the classes.
-It leaves out a thousand things; the provocation, the atmosphere,
+It [[Leaves|leaves]] out a thousand things; the provocation, the atmosphere,
 the harassing restrictions of space, the nagging which Dickens
 described as the terrors of "temper in a cart," the absence of certain
 taboos of social training, the tradition of greater roughness even
-in the gestures of affection.  To make all marriage or divorce,
+in the gestures of affection.  To make all [[Marriage|marriage]] or [[divorce]],
 in the case of such a man, turn upon a blow is like blasting
 the whole life of a gentleman because he has slammed the door.
 Often a poor man cannot slam the door; partly because the model
@@ -1816,7 +1816,7 @@ not being yet attached to his premises.
 I say this in passing, to point out that while I do not dream
 of suggesting that there are only happy marriages, there will
 quite certainly, as things work nowadays, be a very large number of
-unhappy and unjust divorces.  They will be cases in which the innocent
+unhappy and unjust divorces.  They will be cases in which the [[Innocent|innocent]]
 partner will receive the real punishment of the guilty partner,
 through being in fact and feeling the faithful partner.
 For instance, it is insisted that a married person must at least
@@ -1840,12 +1840,12 @@ at such length, to the same man when he comes back and complains
 that he has not got a wife.  Now in practice at this moment
 the great mass of the complaints are precisely of this kind.
 The reformers insist particularly on the pathos of a man's
-position when he has obtained a separation without a divorce.
+position when he has obtained a separation without a [[divorce]].
 Their most tragic figure is that of the man who is already free of all
 those ills he had, and is only asking to be allowed to fly to others
 that he knows not of.  I should be the last to deny that, in certain
-emotional circumstances, his tragedy may be very tragic indeed.
-But his tragedy is of the emotional kind which can never be
+emotional circumstances, his [[Tragedy|tragedy]] may be very tragic indeed.
+But his [[Tragedy|tragedy]] is of the emotional kind which can never be
 entirely eliminated; and which he has himself, in all probability,
 inflicted on the partner he has left.  We may call it the price
 of maintaining an ideal or the price of making a mistake;
@@ -1853,19 +1853,19 @@ but anyhow it is the point of our whole distinction in the matter;
 it is here that we draw the line, and I have nowhere denied that it
 is a line of battle.  The battle joins on the debatable ground,
 not of the man's doubtful past but of his still more doubtful future.
-In a word, the divorce controversy is not really a controversy
-about divorce.  It is a controversy about re-marriage; or rather
-about whether it is marriage at all.
+In a word, the [[divorce]] controversy is not really a controversy
+about [[divorce]].  It is a controversy about re-[[Marriage|marriage]]; or rather
+about whether it is [[Marriage|marriage]] at all.
 
-And with that we can only return to the point of honour
+And with that we can only return to the point of [[Honour|honour]]
 which I have compared here to a point of patriotism; since it
 is both the smallest and the greatest kind of patriotism.
 Men have died in torments during the last five years for points
 of patriotism far more dubious and fugitive.  Men like the Poles
-or the Serbians, through long periods of their history, may be said
+or the Serbians, through long periods of their [[history]], may be said
 rather to have lived in torments.  I will never admit that the vital
-need of the freedom of the family, as I have tried to sketch it here,
-is not a cause as valuable as the freedom of any frontier.
+need of the [[Freedom|freedom]] of the family, as I have tried to [[Sketch|sketch]] it here,
+is not a cause as valuable as the [[Freedom|freedom]] of any frontier.
 But I do willingly admit that the cause would be a dark and terrible one,
 if it really asked these men to suffer torments.  As I have stated it,
 on its most extreme terms, it only asks them to suffer abnegations.
@@ -1874,39 +1874,39 @@ upon to bear, for the glory of their own oath and the great things
 by which the nations live.  In relation to their own nation most normal
 men will feel that this distinction between release and "re-lease"
 is neither fanciful nor harsh, but very rational and human.
-A patriot may be an exile in another country; but he will not be
+A patriot may be an [[Exile|exile]] in another country; but he will not be
 a patriot of another country.  He will be as cheerful as he can
-in an abnormal position; he may or may not sing his country's songs
-in a strange land; but he will not sing the strange songs as his own.
+in an abnormal position; he may or may not sing his country's [[songs]]
+in a strange land; but he will not sing the strange [[songs]] as his own.
 And such may fairly be also the attitude of the citizen who has
-gone into exile from the oldest of earthly cities.
+gone into [[Exile|exile]] from the oldest of earthly cities.
 
 --/--
 
 VIII
 
-THE VISTA OF DIVORCE
+THE VISTA OF [[divorce|DIVORCE]]
 
-The case for divorce combines all the advantages of having it
+The case for [[divorce]] combines all the advantages of having it
 both ways; and of drawing the same deduction from right or left,
 and from black or white.  Whichever way the programme works
 in practice, it can still be justified in theory.  If there
-are few examples of divorce, it shows how little divorce need
+are few examples of [[divorce]], it shows how little [[divorce]] need
 be dreaded; if there are many, it shows how much it is required.
-The rarity of divorce is an argument in favour of divorce;
-and the multiplicity of divorce is an argument against marriage.
-Now, in truth, if we were confined to considering this alternative
+The rarity of [[divorce]] is an argument in favour of [[divorce]];
+and the multiplicity of [[divorce]] is an argument against [[Marriage|marriage]].
+Now, in [[Truth|truth]], if we were confined to considering this alternative
 in a speculative manner, if there were no concrete facts but only
 abstract probabilities, we should have no difficulty in arguing our case.
 The abstract liberty allowed by the reformers is as near as possible
 to anarchy, and gives no logical or legal guarantee worth discussing.
-The advantages of their reform do not accrue to the innocent party,
+The advantages of their [[Reform|reform]] do not accrue to the [[Innocent|innocent]] party,
 but to the guilty party; especially if he be sufficiently guilty.
 A man has only to commit the crime of desertion to obtain the reward
-of divorce.  And if they are entitled to take as typical the most
-horrible hypothetical cases of the abuse of the marriage laws,
+of [[divorce]].  And if they are entitled to take as typical the most
+horrible hypothetical cases of the abuse of the [[Marriage|marriage]] laws,
 surely we are entitled to take equally extreme possibilities in the abuse
-of their own divorce laws.  If they, when looking about for a husband,
+of their own [[divorce]] laws.  If they, when looking about for a husband,
 so often hit upon a homicidal maniac, surely we may politely introduce
 them to the far more human figure of the gentleman who marries as
 many women as he likes and gets rid of them as often as he pleases.
@@ -1914,27 +1914,27 @@ But in fact there is no necessity for us to argue thus in the abstract;
 for the amiable gentleman in question undoubtedly exists in the concrete.
 Of course, he is no new figure; he is a very recurrent type of rascal;
 his name has been Lothario or Don Juan; and he has often been
-represented as a rather romantic rascal.  The point of divorce reform,
+represented as a rather romantic rascal.  The point of [[divorce]] [[Reform|reform]],
 it cannot be too often repeated, is that the rascal should not
 only be regarded as romantic, but regarded as respectable.
 He is not to sow his wild oats and settle down; he is merely to settle
 down to sowing his wild oats.  They are to be regarded as tame
 and inoffensive oats; almost, if one may say so, as Quaker oats.
 But there is no need, as I say, to speculate about whether the looser
-view of divorce might prevail; for it is already prevailing.
+view of [[divorce]] might prevail; for it is already prevailing.
 The newspapers are full of an astonishing hilarity about the rapidity
 with which hundreds or thousands of human families are being broken up
 by the lawyers; and about the undisguised haste of the "hustling judges"
 who carry on the work.  It is a form of hilarity which would seem
-to recall the gaiety of a grave-digger in a city swept by a pestilence.
-But a few details occasionally flash by in the happy dance;
-from time to time the court is moved by a momentary curiosity
+to recall the gaiety of a [[Grave|grave]]-digger in a [[City|city]] swept by a pestilence.
+But a few details occasionally flash by in the happy [[Dance|dance]];
+from [[Time|time]] to [[Time|time]] the [[Court|court]] is moved by a momentary curiosity
 about the causes of the general violation of oaths and promises;
 as if there might, here and there, be a hint of some sort
 of reason for ruining the fundamental institution of society.
 And nobody who notes those details, or considers those faint hints
-of reason, can doubt for a moment that masses of these men and women
-are now simply using divorce in the spirit of free-love. They
+of reason, can [[Doubt|doubt]] for a moment that masses of these men and women
+are now simply using [[divorce]] in the spirit of free-[[Love|love]]. They
 are very seldom the sort of people who have once fallen tragically
 into the wrong place, and have now found their way triumphantly
 to the right place.  They are almost always people who are
@@ -1945,80 +1945,80 @@ a promise they have already broken in practice and almost avowedly
 disbelieve in principle.
 
 In face of this headlong fashion, it is really reasonable to ask
-the divorce reformers what is their attitude towards the old
+the [[divorce]] reformers what is their attitude towards the old
 monogamous ethic of our civilisation; and whether they wish to
 retain it in general, or to retain it at all.  Unfortunately even
-the sincerest and most lucid of them use language which leaves
+the sincerest and most lucid of them use language which [[Leaves|leaves]]
 the matter a little doubtful.  Mr. E. S. P. Haynes is one of the most
 brilliant and most fair-minded controversialists on that side;
 and he has said, for instance, that he agrees with me in supporting
-the ideal of indissoluble or, at least, of undissolved marriage.
-Mr. Haynes is one of the few friends of divorce who are also real
-friends of democracy; and I am sure that in practice this stands
-for a real sympathy with the home, especially the poor home.
+the ideal of indissoluble or, at least, of undissolved [[Marriage|marriage]].
+Mr. Haynes is one of the few friends of [[divorce]] who are also real
+friends of [[Democracy|democracy]]; and I am sure that in practice this stands
+for a real sympathy with the [[Home|home]], especially the poor [[Home|home]].
 Unfortunately, on the theoretic side, the word "ideal" is far from being
 an exact term, and is open to two almost opposite interpretations.
-For many would say that marriage is an ideal as some would say that
+For many would say that [[Marriage|marriage]] is an ideal as some would say that
 monasticism is an ideal, in the sense of a counsel of perfection.
 Now certainly we might preserve a conjugal ideal in this way.
 A man might be reverently pointed out in the street as a sort of saint,
 merely because he was married.  A man might wear a medal for monogamy;
 or have letters after his name similar to V.C. or D.D.; let us say
 L.W. for "Lives With His Wife," or N.D.Y. for "Not Divorced Yet."
-We might, on entering some strange city, be struck by a stately
-column erected to the memory of a wife who never ran away with
+We might, on entering some strange [[City|city]], be struck by a stately
+column erected to the [[Memory|memory]] of a wife who never ran away with
 a soldier, or the shrine and image of a historical character,
 who had resisted the example of the man in the "New Witness"
-ballade in bolting with the children's nurse.  Such high
+ballade in bolting with the children's [[Nurse|nurse]].  Such high
 artistic hagiology would be quite consistent with Mr. Haynes'
-divorce reform; with re-marriage after three years, or three hours.
+[[divorce]] [[Reform|reform]]; with re-[[Marriage|marriage]] after three years, or three hours.
 It would also be quite consistent with Mr. Haynes' phrase about
-preserving an ideal of marriage.  What it would not be consistent
+preserving an ideal of [[Marriage|marriage]].  What it would not be consistent
 with is the perfectly plain, solid, secular and social usefulness
-which I have here attributed to marriage.  It does not create
+which I have here attributed to [[Marriage|marriage]].  It does not create
 or preserve a natural institution, normal to the whole community,
 to balance the more artificial and even more arbitrary institution
 of the state; which is less natural even if it is equally necessary.
-It does not defend a voluntary association, but leaves the only
-claim on life, death and loyalty with a more coercive institution.
+It does not defend a voluntary association, but [[Leaves|leaves]] the only
+claim on life, [[Death|death]] and loyalty with a more coercive institution.
 It does not stand, in the sense I have tried to explain, for the
 principle of liberty.  In short, it does not do any of the things
-which Mr. Haynes himself would especially desire to see done.
+which Mr. Haynes himself would especially [[Desire|desire]] to see done.
 For humanity to be thus spontaneously organised from below,
 it is necessary that the organisation should be almost as universal
-as the official organisation from above.  The tyrant must find
+as the official organisation from above.  The [[Tyrant|tyrant]] must find
 not one family but many families defying his power; he must find
-mankind not a dust of atoms, but fixed in solid blocks of fidelity.
+mankind not a [[Dust|dust]] of atoms, but fixed in solid blocks of fidelity.
 And those human groups must support not only themselves but each other.
-In this sense what some call individualism is as corporate as communism.
+In this sense what some call [[Individualism|individualism]] is as corporate as communism.
 It is a thing of volunteers; but volunteers must be soldiers.
 It is a defence of private persons; but we might say that the private
-persons must be private soldiers.  The family must be recognised as well
+persons must be private soldiers.  The family must be recognised as [[Well|well]]
 as real; above all, the family must be recognised by the families.
-To expect individuals to suffer successfully for a home apart
-from the home, that is for something which is an incident but not
+To expect individuals to suffer successfully for a [[Home|home]] apart
+from the [[Home|home]], that is for something which is an incident but not
 an institution, is really a confusion between two ideas; it is a verbal
-sophistry almost in the nature of a pun.  Similarly, for instance,
+sophistry almost in the [[Nature|nature]] of a pun.  Similarly, for instance,
 we cannot prove the moral force of a peasantry by pointing to one peasant;
-we might almost as well reveal the military force of infantry
+we might almost as [[Well|well]] reveal the military force of infantry
 by pointing to one infant.
 
-I take it, however, that the advocates of divorce do not mean that
-marriage is to remain ideal only in the sense of being almost impossible.
+I take it, however, that the advocates of [[divorce]] do not mean that
+[[Marriage|marriage]] is to remain ideal only in the sense of being almost impossible.
 They do not mean that a faithful husband is only to be admired
 as a fanatic.  The reasonable men among them do really mean that a
 divorced person shall be tolerated as something unusually unfortunate,
 not merely that a married person shall be admired as some thing
-unusually blessed and inspired.  But whatever they desire,
-it is as well that they should realise exactly what they do;
+unusually blessed and inspired.  But whatever they [[Desire|desire]],
+it is as [[Well|well]] that they should realise exactly what they do;
 and in this case I should like to hear their criticisms in the matter
 of what they see.  They must surely see that in England at present,
-as in many parts of America in the past, the new liberty is being
+as in many parts of [[america|America]] in the past, the new liberty is being
 taken in the spirit of licence as if the exception were to be
 the rule, or, rather, perhaps the absence of rule.  This will especially
 be made manifest if we consider that the effect of the process is
 accumulative like a snowball, and returns on itself like a snowball.
-The obvious effect of frivolous divorce will be frivolous marriage.
+The obvious effect of frivolous [[divorce]] will be frivolous [[Marriage|marriage]].
 If people can be separated for no reason they will feel it all the easier
 to be united for no reason.  A man might quite clearly foresee
 that a sensual infatuation would be fleeting, and console himself
@@ -2026,7 +2026,7 @@ with the knowledge that the connection could be equally fleeting.
 There seems no particular reason why he should not elaborately calculate
 that he could stand a particular lady's temper for ten months;
 or reckon that he would have enjoyed and exhausted her repertoire of
-drawing-room songs in two years.  The old joke about choosing the wife
+drawing-room [[songs]] in two years.  The old joke about choosing the wife
 to fit the furniture or the fashions might quite logically return,
 not as an old joke but as a new solemnity; indeed, it will be found
 that a new religion is generally the return of an old joke.
@@ -2034,38 +2034,38 @@ A man might quite consistently see a woman as suited to the period
 of the hobble skirt, and as less suited to the threatened
 recurrence of the crinoline.  These fancies are fantastic enough,
 but they are not a shade more fantastic than the facts of
-many a divorce controversy as urged in the divorce courts.
+many a [[divorce]] controversy as urged in the [[divorce]] courts.
 And this is to leave out altogether the most fantastic fact of all:
 the winking at widespread and conspicuous collusion.
 Collusion has become not so much an illegal evasion as a legal fiction,
 and even a legal institution, as it is admirably satirised
-in Mr. Somerset Maugham's brilliant play of "Home and Beauty."
+in Mr. Somerset Maugham's brilliant play of "[[Home]] and [[Beauty]]."
 The fact was very frankly brought before the public, by a man
-who was eminently calculated to disarm satire by sincerity.
+who was eminently calculated to disarm [[Satire|satire]] by sincerity.
 Colonel Wedgewood is a man who can never be too much honoured,
-by all who have any hope of popular liberties still finding champions
+by all who have any [[Hope|hope]] of popular liberties still finding champions
 in the midst of parliamentary corruption.  He is one of the very few
-men alive who have shown both military and political courage;
-the courage of the camp and the courage of the forum.  And doubtless
-he showed a third type of social courage, in avowing the absurd
+men alive who have shown both military and political [[Courage|courage]];
+the [[Courage|courage]] of the camp and the [[Courage|courage]] of the forum.  And doubtless
+he showed a third type of social [[Courage|courage]], in avowing the absurd
 expedient which so many others are content merely to accept and employ.
 It is admittedly a frantic and farcical thing that a good man
 should find or think it necessary to pretend to commit a sin.
-Some of the divorce moralists seem to deduce from this that he ought
+Some of the [[divorce]] moralists seem to deduce from this that he ought
 really to commit the sin.  They may possibly be aware, however,
 that there are some who do not agree with them.
 
 For this latter fact is the next step in the speculative progress
-of the new morality.  The divorce advocates must be well aware
+of the new [[morality]].  The [[divorce]] advocates must be [[Well|well]] aware
 that modern civilisation still contains strong elements,
 not the least intelligent and certainly not the least vigorous,
 which will not accept the new respectability as a substitute
-for the old religious vow.  The Roman Catholic Church,
+for the old religious vow.  The Roman [[Catholic Church]],
 the Anglo-Catholic school, the conservative peasantries, and a large
-section of the popular life everywhere, will regard the riot of divorce
-and re-marriage as they would any other riot of irresponsibility.
+section of the popular life everywhere, will regard the riot of [[divorce]]
+and re-[[Marriage|marriage]] as they would any other riot of irresponsibility.
 The consequence would appear to be that two different standards
-will appear in ordinary morality, and even in ordinary society.
+will appear in ordinary [[morality]], and even in ordinary society.
 Instead of the old social distinction between those who are
 married and those who are unmarried, there will be a distinction
 between those who are married and those who are really married.
@@ -2078,17 +2078,17 @@ gravely and doubtfully the future of our own country.
 
 Anarchy cannot last, but anarchic communities cannot last either.
 Mere lawlessness cannot live, but it can destroy life.
-The nations of the earth always return to sanity and solidarity;
+The nations of the earth always return to [[Sanity|sanity]] and solidarity;
 but the nations which return to it first are the nations which survive.
 We in England cannot afford to allow our social institutions to go
-to pieces, as if this ancient and noble country were an ephemeral colony.
+to pieces, as if this ancient and noble country were an [[ephemeral]] colony.
 We cannot afford it comparatively, even if we could afford it positively.
 We are surrounded by vigorous nations mainly rooted in the peasant
 or permanent ideals; notably in the case of France and Ireland.
 I know that the detested and detestably undemocratic parliamentary clique,
 which corrupts France as it does England, was persuaded or bribed by a Jew
-named Naquet to pass a crude and recent divorce law, which was full
-of the hatred of Christianity.  But only a very superficial critic
+named Naquet to pass a crude and recent [[divorce]] law, which was full
+of the hatred of [[Christianity]].  But only a very superficial critic
 of France can be unaware that French parliamentarism is superficial.
 The French nation as a whole, the most rigidly respectable
 nation in the world, will certainly go on living by the old
@@ -2099,14 +2099,14 @@ like M. Clemenceau has for his chief ideal a thing called piety.
 But to understand this it is only necessary to know a little Latin--
 and a little French.
 
-A short time ago, as I am well aware, it would have sounded very
+A short [[Time|time]] ago, as I am [[Well|well]] aware, it would have sounded very
 strange to represent the old religious and peasant communities
 either as a model or a menace.  It was counted a queer thing
 to say, in the days when my friends and I first said it;
 in the days of my youth when the republic of France and the religion
 of Ireland were regarded as alike ridiculous and decadent.
 But many things have happened since then; and it will not now be
-so easy to persuade even newspaper readers that Foch is a fool,
+so easy to persuade even newspaper readers that Foch is a [[Fool|fool]],
 either because he is a Frenchman or because he is a Catholic.
 The older tradition, even in the most unfashionable forms,
 has found champions in the most unexpected quarters.
@@ -2120,19 +2120,19 @@ his testimony from an entirely rationalistic and even materialistic
 point of view; indeed, he carried rationalism so far as to give
 the preference to Roscommon because the women are still mammals.
 To a mind of the more traditional type it might seem sufficient to say
-they are still mothers.  To a memory that lingers over the legends
+they are still mothers.  To a [[Memory|memory]] that lingers over the legends
 and lyrical movements of mankind, it might seem no great improvement
-to imagine a song that ran "My mammal bids me bind my hair,"
-or "I'm to be Queen of the May, mammal, I'm to be Queen of the May."
-But indeed the truth to which he testified is all the more arresting,
+to imagine a [[Song|song]] that ran "My mammal bids me bind my hair,"
+or "I'm to be [[Queen]] of the May, mammal, I'm to be [[Queen]] of the May."
+But indeed the [[Truth|truth]] to which he testified is all the more arresting,
 because for him it was materialistic and not mystical.
-The brute biological advantage, as well as other advantages,
-was with those for whom that truth was a truth; and it was all
-the more instinctive and automatic where that truth was a tradition.
+The brute biological advantage, as [[Well|well]] as other advantages,
+was with those for whom that [[Truth|truth]] was a [[Truth|truth]]; and it was all
+the more instinctive and automatic where that [[Truth|truth]] was a tradition.
 The sort of place where mothers are still something more than mammals
 is the only sort of place where they still are mammals.  There the people
-are still healthy animals; healthy enough to hit you if you call
-them animals.  I also have, on this merely controversial occasion,
+are still healthy [[Animals|animals]]; healthy enough to hit you if you call
+them [[Animals|animals]].  I also have, on this merely controversial occasion,
 used throughout the rationalistic and not the religious appeal.
 But it is not unreasonable to note that the materialistic advantages
 are really found among those who most repudiate materialism.  This one
@@ -2141,33 +2141,33 @@ which will convince any one with the sense of social atmospheres
 that the day of the peasantries is not passing but rather arriving.
 It is the more complex types of society that are now entangled in their
 own complexities.  Those who tell us, with a monotonous metaphor,
-that we cannot put the clock back, seem to be curiously unconscious
-of the fact that their own clock has stopped.  And there is nothing
-so hopeless as clockwork when it stops.  A machine cannot mend itself;
+that we cannot put the [[Clock|clock]] back, seem to be curiously unconscious
+of the fact that their own [[Clock|clock]] has stopped.  And there is nothing
+so hopeless as clockwork when it stops.  A [[Machine|machine]] cannot mend itself;
 it requires a man to mend it; and the future lies with those who can
 make living laws for men and not merely dead laws for machinery.
 Those living laws are not to be found in the scatter-brained scepticism
 which is busy in the great cities, dissolving what it cannot analyse.
 The primary laws of man are to be found in the permanent life of man;
-in those things that have been common to it in every time
+in those things that have been common to it in every [[Time|time]]
 and land, though in the highest civilisation they have reached
-an enrichment like that of the divine romance of Cana in Galilee.
+an enrichment like that of the divine [[Romance|romance]] of Cana in Galilee.
 We know that many critics of such a story say that its elements are
 not permanent; but indeed it is the critics who are not permanent.
-A hundred mad dogs of heresy have worried man from the beginning;
+A hundred mad [[dogs]] of heresy have worried man from the beginning;
 but it was always the dog that died.  We know there is a school of prigs
 who disapprove of the wine; and there may now be a school of prigs
 who disapprove of the wedding.  For in such a case as the story
 of Cana, it may be remarked that the pedants are prejudiced against
 the earthly elements as much as, or more than, the heavenly elements.
-It is not the supernatural that disgusts them, so much as the natural.
+It is not the [[Supernatural|supernatural]] that disgusts them, so much as the natural.
 And those of us who have seen all the normal rules and relations
 of humanity uprooted by random speculators, as if they were abnormal
 abuses and almost accidents, will understand why men have sought
 for something divine if they wished to preserve anything human.
 They will know why common sense, cast out from some academy of fads
 and fashions conducted on the lines of a luxurious madhouse,
-has age after age sought refuge in the high sanity of a sacrament.
+has age after age sought refuge in the high [[Sanity|sanity]] of a sacrament.
 
 --/--
 
@@ -2185,50 +2185,50 @@ say it is dull enough for all that.  It is designed merely to note
 certain fugitive proposals of the moment, and compare them with certain
 recurrent necessities of the race; but especially the necessity
 for some spontaneous social formation freer than that of the state.
-If it were more in the nature of a work of literature, with anything
-like an ambition of endurance, I might go deeper into the matter,
-and give some suggestions about the philosophy or religion of marriage,
-and the philosophy or religion of all these rather random departures
+If it were more in the [[Nature|nature]] of a work of literature, with anything
+like an [[Ambition|ambition]] of [[Endurance|endurance]], I might go deeper into the matter,
+and give some suggestions about the [[philosophy]] or religion of [[Marriage|marriage]],
+and the [[philosophy]] or religion of all these rather random departures
 from it.  Some day perhaps I may try to write something about
-the spiritual or psychological quarrel between faith and fads.
+the spiritual or psychological quarrel between [[Faith|faith]] and fads.
 Here I will only say, in conclusion, that I believe the universal
 fallacy here is a fallacy of being universal.  There is a sense
-in which it is really a human if heroic possibility to love everybody;
+in which it is really a human if heroic possibility to [[Love|love]] everybody;
 and the young student will not find it a bad preliminary exercise
-to love somebody.  But the fallacy I mean is that of a man who is not
-even content to love everybody, but really wishes to be everybody.
-He wishes to walk down a hundred roads at once; to sleep
+to [[Love|love]] somebody.  But the fallacy I mean is that of a man who is not
+even content to [[Love|love]] everybody, but really wishes to be everybody.
+He wishes to walk down a hundred roads at once; to [[Sleep|sleep]]
 in a hundred houses at once; to live a hundred lives at once.
-To do something like this in the imagination is one of the occasional
+To do something like this in the [[Imagination|imagination]] is one of the occasional
 visions of art and poetry, to attempt it in the art of life is not only
 anarchy but inaction.  Even in the arts it can only be the first hint
 and not the final fulfillment; a man cannot work at once in bronze
-and marble, or play the organ and the violin at the same time.
-The universal vision of being such a Briareus is a nightmare of nonsense
+and marble, or play the organ and the violin at the same [[Time|time]].
+The universal vision of being such a Briareus is a [[nightmare]] of nonsense
 even in the merely imaginative world; and ends in mere nihilism
 in the social world.  If a man had a hundred houses, there would
 still be more houses than he had days in which to dream of them;
 if a man had a hundred wives, there would still be more women
 than he could ever know.  He would be an insane sultan jealous
-of the whole human race, and even of the dead and the unborn.
-I believe that behind the art and philosophy of our time there
-is a considerable element of this bottomless ambition and this
+of the whole human race, and even of the dead and the [[unborn]].
+I believe that behind the art and [[philosophy]] of our [[Time|time]] there
+is a considerable element of this bottomless [[Ambition|ambition]] and this
 unnatural hunger; and since in these last words I am touching
 only lightly on things that would need much larger treatment,
 I will admit that the rending of the ancient roof of man is
 probably only a part of such an endless and empty expansion.
 I asked in the last chapter what those most wildly engaged in the mere
-dance of divorce, as fantastic as the dance of death, really expected
+[[Dance|dance]] of [[divorce]], as fantastic as the [[Dance of Death|dance of death]], really expected
 for themselves or for their children.  And in the deepest sense I
 think this is the answer; that they expect the impossible, that is
-the universal.  They are not crying for the moon, which is a definite
-and therefore a defensible desire.  They are crying for the world;
+the universal.  They are not crying for the [[Moon|moon]], which is a definite
+and therefore a defensible [[Desire|desire]].  They are crying for the world;
 and when they had it, they would want another one.  In the last resort
 they would like to try every situation, not in fancy but in fact,
 but they cannot refuse any and therefore cannot resolve on any.
 In so far as this is the modern mood, it is a thing so deadly
 as to be already dead.  What is vitally needed everywhere,
 in art as much as in ethics, in poetry as much as in politics,
-is choice; a creative power in the will as well as in the mind.
-Without that self-limitation of somebody, nothing living will ever
+is choice; a creative power in the will as [[Well|well]] as in the mind.
+Without that [[Self|self]]-limitation of somebody, nothing living will ever
 see the light.

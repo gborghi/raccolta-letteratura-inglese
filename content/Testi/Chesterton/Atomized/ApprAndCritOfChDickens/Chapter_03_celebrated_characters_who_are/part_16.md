@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 16)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 16)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -36,7 +36,7 @@ with a note of interrogation. As it is, he ends with a big, black,
 
 unmistakable blot. Speaking purely artistically, we may say that this is
 
-as great a collapse or vulgarisation as if Richard Carstone had turned
+as great a collapse or vulgarisation as if [[Richard Carstone]] had turned
 
 into a common blackguard and wife-beater, or Caddy Jellyby into a comic
 
@@ -56,15 +56,15 @@ the toil of nations. But he was fairer than many modern revolutionists,
 
 and he insisted on satirising also those who prey on society not in the
 
-name of rank or law, but in the name of intellect and beauty. Sir
+name of rank or law, but in the name of intellect and [[Beauty|beauty]]. Sir
 
-Leicester Dedlock and Mr. Harold Skimpole are alike in accepting with a
+Leicester Dedlock and Mr. [[Harold Skimpole]] are alike in accepting with a
 
 royal unconsciousness the anomaly and evil of their position. But the
 
-idleness and insolence of the aristocrat is human and humble compared to
+idleness and insolence of the [[aristocrat]] is human and humble compared to
 
-the idleness and insolence of the artist.
+the idleness and insolence of the [[artist]].
 
 
 
@@ -82,9 +82,9 @@ for it was the symbol of oppression. Deliberately he did not dispel the
 
 darkness at the end of this book, as he does dispel it at the end of
 
-most of his books. Pickwick gets out of the Fleet Prison; Carstone never
+most of his books. [[Pickwick]] gets out of the Fleet [[Prison]]; Carstone never
 
-gets out of Chancery but by death. This tyranny, Dickens said, shall not
+gets out of Chancery but by [[Death|death]]. This tyranny, Dickens said, shall not
 
 be lifted by the light subterfuge of a fiction. This tyranny shall never
 
@@ -98,7 +98,7 @@ be lifted till all Englishmen lift it together.
 
 
 
-CHILD'S HISTORY OF ENGLAND
+[[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND
 
 
 
@@ -118,11 +118,11 @@ without this chance minor compilation we should not really have the key
 
 of Scott. Without this one insignificant book we should not see his
 
-significance. For the truth was that Scott loved history more than
+significance. For the [[Truth|truth]] was that Scott loved [[history]] more than
 
-romance, because he was so constituted as to find it more romantic than
+[[Romance|romance]], because he was so constituted as to find it more romantic than
 
-romance. He preferred the deeds of Wallace and Douglas to those of
+[[Romance|romance]]. He preferred the deeds of Wallace and Douglas to those of
 
 Marmion and Ivanhoe. Therefore his garrulous gossip of old times, his
 
@@ -130,13 +130,13 @@ rambles in dead centuries, give us the real material and impulse of all
 
 his work; they represent the quarry in which he dug and the food on
 
-which he fed. Almost alone among novelists Scott actually preferred
+which he fed. Almost [[Alone|alone]] among novelists Scott actually preferred
 
 those parts of his historical novels which he had not invented himself.
 
 He exults when he can boast in an eager note that he has stolen some
 
-saying from history. Thus _The Tales of a Grandfather_, though small, is
+saying from [[history]]. Thus _The Tales of a Grandfather_, though small, is
 
 in some sense the frame of all the Waverley novels. We realise that all
 
@@ -166,7 +166,7 @@ The third great master of English fiction whose glory fills the
 
 nineteenth century also produced a small experiment in the
 
-popularisation of history. It is separated from the other two partly by
+popularisation of [[history]]. It is separated from the other two partly by
 
 a great difference of merit but partly also by an utter difference of
 
@@ -184,19 +184,19 @@ impatient with the past.
 
 A collection of the works of Dickens would be incomplete in an essential
 
-as well as a literal sense without his _Child's History of England_. It
+as [[Well|well]] as a literal sense without his _Child's [[history|History]] of England_. It
 
-may not be important as a contribution to history, but it is important
+may not be important as a contribution to [[history]], but it is important
 
-as a contribution to biography; as a contribution to the character and
+as a contribution to [[Biography|biography]]; as a contribution to the character and
 
-the career of the man who wrote it, a typical man of his time. That he
+the career of the man who wrote it, a typical man of his [[Time|time]]. That he
 
 had made no personal historical researches, that he had no special
 
-historical learning, that he had not had, in truth, even anything that
+historical learning, that he had not had, in [[Truth|truth]], even anything that
 
-could be called a good education, all this only accentuates not the
+could be called a good [[Education|education]], all this only accentuates not the
 
 merit but at least the importance of the book. For here we may read in
 

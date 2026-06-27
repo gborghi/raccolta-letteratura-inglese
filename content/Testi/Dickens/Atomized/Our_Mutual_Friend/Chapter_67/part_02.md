@@ -20,7 +20,7 @@ tags:
 appearance of so doing. ‘Another touch of blue in your trimming, my
 dear.’
 
-‘Well, look here,’ said Fledgeby, rather discouraged by the
+‘[[Well]], look here,’ said Fledgeby, rather discouraged by the
 circumstances under which he found himself pursuing the conversation.
 ‘If you’re attending—’
 
@@ -38,10 +38,10 @@ Eyes, that I don’t notice your answering for Pubsey and Co. after all!
 Little Eyes, Little Eyes, you’re too cunning by half.’
 
 ‘And I take it for granted,’ pursued Fledgeby, ‘that to get the most of
-your materials for nothing would be well worth your while, Miss Jenny?’
+your materials for nothing would be [[Well|well]] worth your while, Miss Jenny?’
 
 ‘You may take it for granted,’ returned the dressmaker with many knowing
-nods, ‘that it’s always well worth my while to make money.’
+nods, ‘that it’s always [[Well|well]] worth my while to make money.’
 
 ‘Now,’ said Fledgeby approvingly, ‘you’re answering to a sensible
 purpose. Now, you’re coming out and looking alive! So I make so free,
@@ -85,7 +85,7 @@ tautology here—‘that it should be kept from me, what he has done with
 her. So I put it to you, who know: What HAS he done with her? I ask no
 more. And is that asking much, when you understand that it will pay?’
 
-Miss Jenny Wren, who had cast her eyes upon the bench again after her
+Miss [[Jenny Wren]], who had cast her eyes upon the bench again after her
 last interruption, sat looking at it, needle in hand but not working,
 for some moments. She then briskly resumed her work, and said with a
 sidelong glance of her eyes and chin at Mr Fledgeby:
@@ -94,13 +94,13 @@ sidelong glance of her eyes and chin at Mr Fledgeby:
 
 ‘Albany, Piccadilly,’ replied Fledgeby.
 
-‘When are you at home?’
+‘When are you at [[Home|home]]?’
 
 ‘When you like.’
 
-‘Breakfast-time?’ said Jenny, in her abruptest and shortest manner.
+‘Breakfast-[[Time|time]]?’ said Jenny, in her abruptest and shortest manner.
 
-‘No better time in the day,’ said Fledgeby.
+‘No better [[Time|time]] in the day,’ said Fledgeby.
 
 ‘I’ll look in upon you to-morrow, young man. Those two ladies,’ pointing
 to dolls, ‘have an appointment in Bond Street at ten precisely. When
@@ -121,7 +121,7 @@ Good-day, Miss Jenny.’
 Mr Fledgeby’s prepossessing form withdrew itself; and the little
 dressmaker, clipping and snipping and stitching, and stitching and
 snipping and clipping, fell to work at a great rate; musing and
-muttering all the time.
+muttering all the [[Time|time]].
 
 ‘Misty, misty, misty. Can’t make it out. Little Eyes and the wolf in a
 conspiracy? Or Little Eyes and the wolf against one another? Can’t make
@@ -143,7 +143,7 @@ eyes towards him, there is no adequate name. Moreover it was her habit
 to shake her head at that wretched old boy whenever she caught his eye
 as he shivered and shook. What are popularly called ‘the trembles’ being
 in full force upon him that evening, and likewise what are popularly
-called ‘the horrors,’ he had a very bad time of it; which was not
+called ‘the horrors,’ he had a very bad [[Time|time]] of it; which was not
 made better by his being so remorseful as frequently to moan ‘Sixty
 threepennorths.’ This imperfect sentence not being at all intelligible
 as a confession, but sounding like a Gargantuan order for a dram,

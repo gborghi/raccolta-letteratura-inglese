@@ -25,7 +25,7 @@ may say, very much so. His name was Captain Martin; and he
 consulted me on the question whether it was necessary that his
 daughter--sister--should hazard offending the turnkey brother by
 being too--ha!--too plain with the other brother. Captain Martin was
-a gentleman and a man of honour, and I put it to him first to give me
+a gentleman and a man of [[Honour|honour]], and I put it to him first to give me
 his--his own opinion. Captain Martin (highly respected in the army) then
 unhesitatingly said that it appeared to him that his--hem!--sister was
 not called upon to understand the young man too distinctly, and that
@@ -36,13 +36,13 @@ strayed into this story. I suppose it has been through being unable to
 account for Chivery; but as to the connection between the two, I don’t
 see--’
 
-His voice died away, as if she could not bear the pain of hearing him,
+His voice died away, as if she could not bear the [[Pain|pain]] of hearing him,
 and her hand had gradually crept to his lips. For a little while there
-was a dead silence and stillness; and he remained shrunk in his chair,
+was a dead [[Silence|silence]] and stillness; and he remained shrunk in his chair,
 and she remained with her arm round his neck and her head bowed down
 upon his shoulder.
 
-His supper was cooking in a saucepan on the fire, and, when she moved,
+His supper was cooking in a saucepan on the [[Fire|fire]], and, when she moved,
 it was to make it ready for him on the table. He took his usual seat,
 she took hers, and he began his meal. They did not, as yet, look at one
 another. By little and little he began; laying down his knife and fork
@@ -56,7 +56,7 @@ whether such a blighted life as mine comes to an end, now, next week, or
 next year? What am I worth to anyone? A poor prisoner, fed on alms and
 broken victuals; a squalid, disgraced wretch!’
 
-‘Father, father!’ As he rose she went on her knees to him, and held up
+‘Father, father!’ As he [[Rose|rose]] she went on her knees to him, and held up
 her hands to him.
 
 ‘Amy,’ he went on in a suppressed voice, trembling violently, and
@@ -64,7 +64,7 @@ looking at her as wildly as if he had gone mad. ‘I tell you, if you
 could see me as your mother saw me, you wouldn’t believe it to be the
 creature you have only looked at through the bars of this cage. I was
 young, I was accomplished, I was good-looking, I was independent--by God
-I was, child!--and people sought me out, and envied me. Envied me!’
+I was, [[Child|child]]!--and people sought me out, and envied me. Envied me!’
 
 ‘Dear father!’ She tried to take down the shaking arm that he flourished
 in the air, but he resisted, and put her hand away.
@@ -102,30 +102,30 @@ trifled with, and who is always treated with some delicacy. They’ll say,
 your father. Go out and ask what funeral here (it must be here, I know
 it can be nowhere else) will make more talk, and perhaps more grief,
 than any that has ever gone out at the gate. They’ll say your father’s.
-Well then. Amy! Amy! Is your father so universally despised? Is there
+[[Well]] then. Amy! Amy! Is your father so universally despised? Is there
 nothing to redeem him? Will you have nothing to remember him by but his
-ruin and decay? Will you be able to have no affection for him when he is
+ruin and [[Decay|decay]]? Will you be able to have no affection for him when he is
 gone, poor castaway, gone?’
 
-He burst into tears of maudlin pity for himself, and at length suffering
+He burst into [[Tears|tears]] of maudlin pity for himself, and at length [[Suffering|suffering]]
 her to embrace him and take charge of him, let his grey head rest
 against her cheek, and bewailed his wretchedness. Presently he changed
 the subject of his lamentations, and clasping his hands about her as she
-embraced him, cried, O Amy, his motherless, forlorn child! O the days
+embraced him, cried, O Amy, his motherless, forlorn [[Child|child]]! O the days
 that he had seen her careful and laborious for him! Then he reverted to
 himself, and weakly told her how much better she would have loved him
 if she had known him in his vanished character, and how he would have
 married her to a gentleman who should have been proud of her as his
 daughter, and how (at which he cried again) she should first have ridden
-at his fatherly side on her own horse, and how the crowd (by which he
+at his fatherly side on her own [[Horse|horse]], and how the crowd (by which he
 meant in effect the people who had given him the twelve shillings
 he then had in his pocket) should have trudged the dusty roads
 respectfully.
 
 Thus, now boasting, now despairing, in either fit a captive with the
-jail-rot upon him, and the impurity of his prison worn into the grain of
-his soul, he revealed his degenerate state to his affectionate child.
+jail-rot upon him, and the impurity of his [[Prison|prison]] worn into the grain of
+his [[Soul|soul]], he revealed his degenerate state to his affectionate [[Child|child]].
 No one else ever beheld him in the details of his humiliation. Little
 recked the Collegians who were laughing in their rooms over his late
 address in the Lodge, what a serious picture they had in their obscure
-gallery of the Marshalsea that Sunday night.
+gallery of the Marshalsea that [[Sunday]] [[Night|night]].

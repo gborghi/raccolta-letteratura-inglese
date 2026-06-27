@@ -17,27 +17,27 @@ tags:
 CHAPTER VI—THE BLACK VEIL
 
 
-One winter’s evening, towards the close of the year 1800, or within a
-year or two of that time, a young medical practitioner, recently
-established in business, was seated by a cheerful fire in his little
-parlour, listening to the wind which was beating the rain in pattering
-drops against the window, or rumbling dismally in the chimney. The
-night was wet and cold; he had been walking through mud and water the
+One [[Winter|winter]]’s evening, towards the close of the year 1800, or within a
+year or two of that [[Time|time]], a young medical practitioner, recently
+established in business, was seated by a cheerful [[Fire|fire]] in his little
+parlour, listening to the [[Wind|wind]] which was beating the rain in pattering
+drops against the [[Window|window]], or rumbling dismally in the chimney. The
+[[Night|night]] was wet and cold; he had been walking through mud and [[Water|water]] the
 whole day, and was now comfortably reposing in his dressing-gown and
 slippers, more than half asleep and less than half awake, revolving a
-thousand matters in his wandering imagination. First, he thought how
-hard the wind was blowing, and how the cold, sharp rain would be at
+thousand matters in his wandering [[Imagination|imagination]]. First, he thought how
+hard the [[Wind|wind]] was blowing, and how the cold, sharp rain would be at
 that moment beating in his face, if he were not comfortably housed at
-home. Then, his mind reverted to his annual Christmas visit to his
+[[Home|home]]. Then, his mind reverted to his annual Christmas visit to his
 native place and dearest friends; he thought how glad they would all be
-to see him, and how happy it would make Rose if he could only tell her
+to see him, and how happy it would make [[Rose]] if he could only tell her
 that he had found a patient at last, and hoped to have more, and to
-come down again, in a few months’ time, and marry her, and take her
-home to gladden his lonely fireside, and stimulate him to fresh
-exertions. Then, he began to wonder when his first patient would
+come down again, in a few months’ [[Time|time]], and marry her, and take her
+[[Home|home]] to gladden his lonely fireside, and stimulate him to fresh
+exertions. Then, he began to [[Wonder|wonder]] when his first patient would
 appear, or whether he was destined, by a special dispensation of
-Providence, never to have any patients at all; and then, he thought
-about Rose again, and dropped to sleep and dreamed about her, till the
+[[Providence]], never to have any patients at all; and then, he thought
+about [[Rose]] again, and dropped to [[Sleep|sleep]] and dreamed about her, till the
 tones of her sweet merry voice sounded in his ears, and her soft tiny
 hand rested on his shoulder.
 
@@ -47,13 +47,13 @@ the sum of one shilling per week and his food, was let out by the
 parish to carry medicine and messages. As there was no demand for the
 medicine, however, and no necessity for the messages, he usually
 occupied his unemployed hours—averaging fourteen a day—in abstracting
-peppermint drops, taking animal nourishment, and going to sleep.
+peppermint drops, taking animal nourishment, and going to [[Sleep|sleep]].
 
 ‘A lady, sir—a lady!’ whispered the boy, rousing his master with a
 shake.
 
 ‘What lady?’ cried our friend, starting up, not quite certain that his
-dream was an illusion, and half expecting that it might be Rose
+dream was an illusion, and half expecting that it might be [[Rose]]
 herself.—‘What lady? Where?’
 
 ‘_There_, sir!’ replied the boy, pointing to the glass door leading
@@ -93,9 +93,9 @@ The boy drew a green curtain across the glass part of the door, retired
 into the surgery, closed the door after him, and immediately applied
 one of his large eyes to the keyhole on the other side.
 
-The surgeon drew a chair to the fire, and motioned the visitor to a
+The surgeon drew a chair to the [[Fire|fire]], and motioned the visitor to a
 seat. The mysterious figure slowly moved towards it. As the blaze shone
-upon the black dress, the surgeon observed that the bottom of it was
+upon the black dress, the surgeon observed that the [[Bottom|bottom]] of it was
 saturated with mud and rain.
 
 ‘You are very wet,’ be said.
@@ -103,27 +103,27 @@ saturated with mud and rain.
 ‘I am,’ said the stranger, in a low deep voice.
 
 ‘And you are ill?’ added the surgeon, compassionately, for the tone was
-that of a person in pain.
+that of a person in [[Pain|pain]].
 
 ‘I am,’ was the reply—‘very ill; not bodily, but mentally. It is not
 for myself, or on my own behalf,’ continued the stranger, ‘that I come
-to you. If I laboured under bodily disease, I should not be out, alone,
-at such an hour, or on such a night as this; and if I were afflicted
+to you. If I laboured under bodily disease, I should not be out, [[Alone|alone]],
+at such an hour, or on such a [[Night|night]] as this; and if I were afflicted
 with it, twenty-four hours hence, God knows how gladly I would lie down
 and pray to die. It is for another that I beseech your aid, sir. I may
-be mad to ask it for him—I think I am; but, night after night, through
+be mad to ask it for him—I think I am; but, [[Night|night]] after [[Night|night]], through
 the long dreary hours of watching and weeping, the thought has been
 ever present to my mind; and though even _I_ see the hopelessness of
 human assistance availing him, the bare thought of laying him in his
-grave without it makes my blood run cold!’ And a shudder, such as the
-surgeon well knew art could not produce, trembled through the speaker’s
+[[Grave|grave]] without it makes my [[Blood|blood]] run cold!’ And a shudder, such as the
+surgeon [[Well|well]] knew art could not produce, trembled through the speaker’s
 frame.
 
 There was a desperate earnestness in this woman’s manner, that went to
 the young man’s heart. He was young in his profession, and had not yet
 witnessed enough of the miseries which are daily presented before the
 eyes of its members, to have grown comparatively callous to human
-suffering.
+[[Suffering|suffering]].
 
 ‘If,’ he said, rising hastily, ‘the person of whom you speak, be in so
 hopeless a condition as you describe, not a moment is to be lost. I
@@ -140,14 +140,14 @@ rendered such a result impossible.
 ‘You _are_ ill,’ he said, gently, ‘although you do not know it. The
 fever which has enabled you to bear, without feeling it, the fatigue
 you have evidently undergone, is burning within you now. Put that to
-your lips,’ he continued, pouring out a glass of water—‘compose
+your lips,’ he continued, pouring out a glass of [[Water|water]]—‘compose
 yourself for a few moments, and then tell me, as calmly as you can,
 what the disease of the patient is, and how long he has been ill. When
 I know what it is necessary I should know, to render my visit
 serviceable to him, I am ready to accompany you.’
 
-The stranger lifted the glass of water to her mouth, without raising
-the veil; put it down again untasted; and burst into tears.
+The stranger lifted the glass of [[Water|water]] to her mouth, without raising
+the veil; put it down again untasted; and burst into [[Tears|tears]].
 
 ‘I know,’ she said, sobbing aloud, ‘that what I say to you now, seems
 like the ravings of fever. I have been told so before, less kindly than
@@ -162,21 +162,21 @@ dear on that account; but I would lay it down without a sigh—with
 cheerfulness—with joy—if what I tell you now, were only false, or
 imaginary. To-morrow morning he of whom I speak will be, I _know_,
 though I would fain think otherwise, beyond the reach of human aid; and
-yet, to-night, though he is in deadly peril, you must not see, and
+yet, to-[[Night|night]], though he is in deadly peril, you must not see, and
 could not serve, him.’
 
 ‘I am unwilling to increase your distress,’ said the surgeon, after a
 short pause, ‘by making any comment on what you have just said, or
 appearing desirous to investigate a subject you are so anxious to
 conceal; but there is an inconsistency in your statement which I cannot
-reconcile with probability. This person is dying to-night, and I cannot
+reconcile with probability. This person is dying to-[[Night|night]], and I cannot
 see him when my assistance might possibly avail; you apprehend it will
 be useless to-morrow, and yet you would have me see him then! If he be,
 indeed, as dear to you, as your words and manner would imply, why not
 try to save his life before delay and the progress of his disease
 render it impracticable?’
 
-‘God help me!’ exclaimed the woman, weeping bitterly, ‘how can I hope
+‘God help me!’ exclaimed the woman, weeping bitterly, ‘how can I [[Hope|hope]]
 strangers will believe what appears incredible, even to myself? You
 will _not_ see him then, sir?’ she added, rising suddenly.
 
@@ -199,7 +199,7 @@ is he in your charge now?’
 
 ‘He is not,’ was the rejoinder.
 
-‘Then, if I gave you instructions for his treatment through the night,
+‘Then, if I gave you instructions for his treatment through the [[Night|night]],
 you could not assist him?’
 
 The woman wept bitterly, as she replied, ‘I could not.’
@@ -210,25 +210,25 @@ woman’s feelings, which, subdued at first by a violent effort, were now
 irrepressible and most painful to witness; the surgeon repeated his
 promise of calling in the morning at the appointed hour. His visitor,
 after giving him a direction to an obscure part of Walworth, left the
-house in the same mysterious manner in which she had entered it.
+[[house]] in the same mysterious manner in which she had entered it.
 
 It will be readily believed that so extraordinary a visit produced a
 considerable impression on the mind of the young surgeon; and that he
 speculated a great deal and to very little purpose on the possible
 circumstances of the case. In common with the generality of people, he
 had often heard and read of singular instances, in which a presentiment
-of death, at a particular day, or even minute, had been entertained and
+of [[Death|death]], at a particular day, or even minute, had been entertained and
 realised. At one moment he was inclined to think that the present might
 be such a case; but, then, it occurred to him that all the anecdotes of
 the kind he had ever heard, were of persons who had been troubled with
-a foreboding of their own death. This woman, however, spoke of another
+a foreboding of their own [[Death|death]]. This woman, however, spoke of another
 person—a man; and it was impossible to suppose that a mere dream or
 delusion of fancy would induce her to speak of his approaching
 dissolution with such terrible certainty as she had spoken. It could
 not be that the man was to be murdered in the morning, and that the
 woman, originally a consenting party, and bound to secrecy by an oath,
 had relented, and, though unable to prevent the commission of some
-outrage on the victim, had determined to prevent his death if possible,
+outrage on the victim, had determined to prevent his [[Death|death]] if possible,
 by the timely interposition of medical aid? The idea of such things
 happening within two miles of the metropolis appeared too wild and
 preposterous to be entertained beyond the instant. Then, his original
@@ -236,18 +236,18 @@ impression that the woman’s intellects were disordered, recurred; and,
 as it was the only mode of solving the difficulty with any degree of
 satisfaction, he obstinately made up his mind to believe that she was
 mad. Certain misgivings upon this point, however, stole upon his
-thoughts at the time, and presented themselves again and again through
-the long dull course of a sleepless night; during which, in spite of
+thoughts at the [[Time|time]], and presented themselves again and again through
+the long dull course of a sleepless [[Night|night]]; during which, in spite of
 all his efforts to the contrary, he was unable to banish the black veil
-from his disturbed imagination.
+from his disturbed [[Imagination|imagination]].
 
 The back part of Walworth, at its greatest distance from town, is a
 straggling miserable place enough, even in these days; but,
 five-and-thirty years ago, the greater portion of it was little better
 than a dreary waste, inhabited by a few scattered people of
-questionable character, whose poverty prevented their living in any
+questionable character, whose [[Poverty|poverty]] prevented their living in any
 better neighbourhood, or whose pursuits and mode of life rendered its
-solitude desirable. Very many of the houses which have since sprung up
+[[Solitude|solitude]] desirable. Very many of the houses which have since sprung up
 on all sides, were not built until some years afterwards; and the great
 majority even of those which were sprinkled about, at irregular
 intervals, were of the rudest and most miserable description.
@@ -255,19 +255,19 @@ intervals, were of the rudest and most miserable description.
 The appearance of the place through which he walked in the morning, was
 not calculated to raise the spirits of the young surgeon, or to dispel
 any feeling of anxiety or depression which the singular kind of visit
-he was about to make, had awakened. Striking off from the high road,
+he was about to make, had awakened. Striking off from the high [[Road|road]],
 his way lay across a marshy common, through irregular lanes, with here
 and there a ruinous and dismantled cottage fast falling to pieces with
-decay and neglect. A stunted tree, or pool of stagnant water, roused
-into a sluggish action by the heavy rain of the preceding night,
+[[Decay|decay]] and neglect. A stunted tree, or pool of stagnant [[Water|water]], roused
+into a sluggish action by the heavy rain of the preceding [[Night|night]],
 skirted the path occasionally; and, now and then, a miserable patch of
-garden-ground, with a few old boards knocked together for a
-summer-house, and old palings imperfectly mended with stakes pilfered
-from the neighbouring hedges, bore testimony, at once to the poverty of
+[[Garden|garden]]-ground, with a few old boards knocked together for a
+[[Summer|summer]]-[[house]], and old palings imperfectly mended with stakes pilfered
+from the neighbouring hedges, bore testimony, at once to the [[Poverty|poverty]] of
 the inhabitants, and the little scruple they entertained in
 appropriating the property of other people to their own use.
 Occasionally, a filthy-looking woman would make her appearance from the
-door of a dirty house, to empty the contents of some cooking utensil
+door of a dirty [[house]], to empty the contents of some cooking utensil
 into the gutter in front, or to scream after a little slip-shod girl,
 who had contrived to stagger a few yards from the door under the weight
 of a sallow infant almost as big as herself; but, scarcely anything was
@@ -279,36 +279,36 @@ have described.
 After plodding wearily through the mud and mire; making many inquiries
 for the place to which he had been directed; and receiving as many
 contradictory and unsatisfactory replies in return; the young man at
-length arrived before the house which had been pointed out to him as
+length arrived before the [[house]] which had been pointed out to him as
 the object of his destination. It was a small low building, one story
 above the ground, with even a more desolate and unpromising exterior
 than any he had yet passed. An old yellow curtain was closely drawn
-across the window up-stairs, and the parlour shutters were closed, but
-not fastened. The house was detached from any other, and, as it stood
+across the [[Window|window]] up-stairs, and the parlour shutters were closed, but
+not fastened. The [[house]] was detached from any other, and, as it stood
 at an angle of a narrow lane, there was no other habitation in sight.
 
 When we say that the surgeon hesitated, and walked a few paces beyond
-the house, before he could prevail upon himself to lift the knocker, we
+the [[house]], before he could prevail upon himself to lift the knocker, we
 say nothing that need raise a smile upon the face of the boldest
-reader. The police of London were a very different body in that day;
+reader. The police of [[London]] were a very different [[Body|body]] in that day;
 the isolated position of the suburbs, when the rage for building and
 the progress of improvement had not yet begun to connect them with the
-main body of the city and its environs, rendered many of them (and this
+main [[Body|body]] of the [[City|city]] and its environs, rendered many of them (and this
 in particular) a place of resort for the worst and most depraved
-characters. Even the streets in the gayest parts of London were
-imperfectly lighted, at that time; and such places as these, were left
-entirely to the mercy of the moon and stars. The chances of detecting
+characters. Even the streets in the gayest parts of [[London]] were
+imperfectly lighted, at that [[Time|time]]; and such places as these, were left
+entirely to the [[Mercy|mercy]] of the [[Moon|moon]] and [[Stars|stars]]. The chances of detecting
 desperate characters, or of tracing them to their haunts, were thus
 rendered very few, and their offences naturally increased in boldness,
 as the consciousness of comparative security became the more impressed
 upon them by daily experience. Added to these considerations, it must
-be remembered that the young man had spent some time in the public
+be remembered that the young man had spent some [[Time|time]] in the public
 hospitals of the metropolis; and, although neither Burke nor Bishop had
 then gained a horrible notoriety, his own observation might have
 suggested to him how easily the atrocities to which the former has
 since given his name, might be committed. Be this as it may, whatever
 reflection made him hesitate, he _did_ hesitate: but, being a young man
-of strong mind and great personal courage, it was only for an
+of strong mind and great personal [[Courage|courage]], it was only for an
 instant;—he stepped briskly back and knocked gently at the door.
 
 A low whispering was audible, immediately afterwards, as if some person
@@ -325,7 +325,7 @@ The surgeon did so, and the man having secured the door again, by the
 chain, led the way to a small back parlour at the extremity of the
 passage.
 
-‘Am I in time?’
+‘Am I in [[Time|time]]?’
 
 ‘Too soon!’ replied the man. The surgeon turned hastily round, with a
 gesture of astonishment not unmixed with alarm, which he found it
@@ -336,31 +336,31 @@ the action—‘if you’ll step in here, sir, you won’t be detained five
 minutes, I assure you.’
 
 The surgeon at once walked into the room. The man closed the door, and
-left him alone.
+left him [[Alone|alone]].
 
 It was a little cold room, with no other furniture than two deal
-chairs, and a table of the same material. A handful of fire, unguarded
+chairs, and a table of the same material. A handful of [[Fire|fire]], unguarded
 by any fender, was burning in the grate, which brought out the damp if
 it served no more comfortable purpose, for the unwholesome moisture was
-stealing down the walls, in long slug-like tracks. The window, which
+stealing down the walls, in long slug-like tracks. The [[Window|window]], which
 was broken and patched in many places, looked into a small enclosed
-piece of ground, almost covered with water. Not a sound was to be
-heard, either within the house, or without. The young surgeon sat down
+piece of ground, almost covered with [[Water|water]]. Not a sound was to be
+heard, either within the [[house]], or without. The young surgeon sat down
 by the fireplace, to await the result of his first professional visit.
 
 He had not remained in this position many minutes, when the noise of
 some approaching vehicle struck his ear. It stopped; the street-door
 was opened; a low talking succeeded, accompanied with a shuffling noise
 of footsteps, along the passage and on the stairs, as if two or three
-men were engaged in carrying some heavy body to the room above. The
+men were engaged in carrying some heavy [[Body|body]] to the room above. The
 creaking of the stairs, a few seconds afterwards, announced that the
 new-comers having completed their task, whatever it was, were leaving
-the house. The door was again closed, and the former silence was
+the [[house]]. The door was again closed, and the former [[Silence|silence]] was
 restored.
 
 Another five minutes had elapsed, and the surgeon had resolved to
-explore the house, in search of some one to whom he might make his
-errand known, when the room-door opened, and his last night’s visitor,
+explore the [[house]], in search of some one to whom he might make his
+errand known, when the room-door opened, and his last [[Night|night]]’s visitor,
 dressed in exactly the same manner, with the veil lowered as before,
 motioned him to advance. The singular height of her form, coupled with
 the circumstance of her not speaking, caused the idea to pass across
@@ -372,7 +372,7 @@ exposed the absurdity of the suspicion; and he hastily followed.
 The woman led the way up-stairs to the front room, and paused at the
 door, to let him enter first. It was scantily furnished with an old
 deal box, a few chairs, and a tent bedstead, without hangings or
-cross-rails, which was covered with a patchwork counterpane. The dim
+[[Cross|cross]]-rails, which was covered with a patchwork counterpane. The dim
 light admitted through the curtain which he had noticed from the
 outside, rendered the objects in the room so indistinct, and
 communicated to all of them so uniform a hue, that he did not, at
@@ -413,24 +413,24 @@ withdrew his hand from the man’s breast. ‘Stay—undraw that curtain!’
 ‘Undraw that curtain!’ repeated the surgeon in an agitated tone.
 
 ‘I darkened the room on purpose,’ said the woman, throwing herself
-before him as he rose to undraw it.—‘Oh! sir, have pity on me! If it
+before him as he [[Rose|rose]] to undraw it.—‘Oh! sir, have pity on me! If it
 can be of no use, and he is really dead, do not expose that form to
 other eyes than mine!’
 
-‘This man died no natural or easy death,’ said the surgeon. ‘I _must_
-see the body!’ With a motion so sudden, that the woman hardly knew that
+‘This man died no natural or easy [[Death|death]],’ said the surgeon. ‘I _must_
+see the [[Body|body]]!’ With a motion so sudden, that the woman hardly knew that
 he had slipped from beside her, he tore open the curtain, admitted the
 full light of day, and returned to the bedside.
 
-‘There has been violence here,’ he said, pointing towards the body, and
+‘There has been violence here,’ he said, pointing towards the [[Body|body]], and
 gazing intently on the face, from which the black veil was now, for the
-first time, removed. In the excitement of a minute before, the female
+first [[Time|time]], removed. In the excitement of a minute before, the female
 had thrown off the bonnet and veil, and now stood with her eyes fixed
 upon him. Her features were those of a woman about fifty, who had once
 been handsome. Sorrow and weeping had left traces upon them which not
-time itself would ever have produced without their aid; her face was
+[[Time|time]] itself would ever have produced without their aid; her face was
 deadly pale; and there was a nervous contortion of the lip, and an
-unnatural fire in her eye, which showed too plainly that her bodily and
+unnatural [[Fire|fire]] in her eye, which showed too plainly that her bodily and
 mental powers had nearly sunk, beneath an accumulation of misery.
 
 ‘There has been violence here,’ said the surgeon, preserving his
@@ -447,9 +447,9 @@ searching glance.
 
 ‘Look at the butchers’ marks, and then ask me!’ she replied.
 
-The surgeon turned his face towards the bed, and bent over the body
-which now lay full in the light of the window. The throat was swollen,
-and a livid mark encircled it. The truth flashed suddenly upon him.
+The surgeon turned his face towards the bed, and bent over the [[Body|body]]
+which now lay full in the light of the [[Window|window]]. The throat was swollen,
+and a livid mark encircled it. The [[Truth|truth]] flashed suddenly upon him.
 
 ‘This is one of the men who were hanged this morning!’ he exclaimed,
 turning away with a shudder.
@@ -461,15 +461,15 @@ turning away with a shudder.
 ‘_My son_,’ rejoined the woman; and fell senseless at his feet.
 
 It was true. A companion, equally guilty with himself, had been
-acquitted for want of evidence; and this man had been left for death,
+acquitted for want of evidence; and this man had been left for [[Death|death]],
 and executed. To recount the circumstances of the case, at this distant
-period, must be unnecessary, and might give pain to some persons still
-alive. The history was an every-day one. The mother was a widow without
+period, must be unnecessary, and might give [[Pain|pain]] to some persons still
+alive. The [[history]] was an every-day one. The mother was a widow without
 friends or money, and had denied herself necessaries to bestow them on
-her orphan boy. That boy, unmindful of her prayers, and forgetful of
+her [[Orphan|orphan]] boy. That boy, unmindful of her prayers, and forgetful of
 the sufferings she had endured for him—incessant anxiety of mind, and
-voluntary starvation of body—had plunged into a career of dissipation
-and crime. And this was the result; his own death by the hangman’s
+voluntary starvation of [[Body|body]]—had plunged into a career of dissipation
+and crime. And this was the result; his own [[Death|death]] by the hangman’s
 hands, and his mother’s shame, and incurable insanity.
 
 For many years after this occurrence, and when profitable and arduous
@@ -479,11 +479,11 @@ harmless mad woman; not only soothing her by his presence and kindness,
 but alleviating the rigour of her condition by pecuniary donations for
 her comfort and support, bestowed with no sparing hand. In the
 transient gleam of recollection and consciousness which preceded her
-death, a prayer for his welfare and protection, as fervent as mortal
-ever breathed, rose from the lips of this poor friendless creature.
-That prayer flew to Heaven, and was heard. The blessings he was
+[[Death|death]], a [[Prayer|prayer]] for his welfare and protection, as fervent as mortal
+ever breathed, [[Rose|rose]] from the lips of this poor friendless creature.
+That [[Prayer|prayer]] flew to Heaven, and was heard. The blessings he was
 instrumental in conferring, have been repaid to him a thousand-fold;
 but, amid all the honours of rank and station which have since been
-heaped upon him, and which he has so well earned, he can have no
+heaped upon him, and which he has so [[Well|well]] earned, he can have no
 reminiscence more gratifying to his heart than that connected with The
 Black Veil.

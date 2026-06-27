@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 12 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 12 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -20,14 +20,14 @@ Chapter 12
 There was a brief pause in the state-room of the Maypole, as Mr Haredale
 tried the lock to satisfy himself that he had shut the door securely,
 and, striding up the dark chamber to where the screen inclosed a little
-patch of light and warmth, presented himself, abruptly and in silence,
+patch of light and warmth, presented himself, abruptly and in [[Silence|silence]],
 before the smiling guest.
 
 If the two had no greater sympathy in their inward thoughts than in
 their outward bearing and appearance, the meeting did not seem likely to
 prove a very calm or pleasant one. With no great disparity between them
 in point of years, they were, in every other respect, as unlike and
-far removed from each other as two men could well be. The one was
+far removed from each other as two men could [[Well|well]] be. The one was
 soft-spoken, delicately made, precise, and elegant; the other, a burly
 square-built man, negligently dressed, rough and abrupt in manner,
 stern, and, in his present mood, forbidding both in look and speech. The
@@ -51,15 +51,15 @@ face again?’
 ‘Good or bad, sir, I am,’ returned the other, leaning his arm upon
 the chimney-piece, and turning a haughty look upon the occupant of
 the easy-chair, ‘the man I used to be. I have lost no old likings or
-dislikings; my memory has not failed me by a hair’s-breadth. You ask me
+dislikings; my [[Memory|memory]] has not failed me by a hair’s-breadth. You ask me
 to give you a meeting. I say, I am here.’
 
 ‘Our meeting, Haredale,’ said Mr Chester, tapping his snuff-box, and
 following with a smile the impatient gesture he had made--perhaps
-unconsciously--towards his sword, ‘is one of conference and peace, I
-hope?’
+unconsciously--towards his [[Sword|sword]], ‘is one of conference and peace, I
+[[Hope|hope]]?’
 
-‘I have come here,’ returned the other, ‘at your desire, holding myself
+‘I have come here,’ returned the other, ‘at your [[Desire|desire]], holding myself
 bound to meet you, when and where you would. I have not come to bandy
 pleasant speeches, or hollow professions. You are a smooth man of the
 world, sir, and at such play have me at a disadvantage. The very last
@@ -68,7 +68,7 @@ gentle compliments and masked faces, is Mr Chester, I do assure you. I
 am not his match at such weapons, and have reason to believe that few
 men are.’
 
-‘You do me a great deal of honour Haredale,’ returned the other, most
+‘You do me a great deal of [[Honour|honour]] Haredale,’ returned the other, most
 composedly, ‘and I thank you. I will be frank with you--’
 
 ‘I beg your pardon--will be what?’
@@ -84,13 +84,13 @@ with you, and not to be betrayed into a warm expression or a hasty
 word.’
 
 ‘There again,’ said Mr Haredale, ‘you have me at a great advantage. Your
-self-command--’
+[[Self|self]]-command--’
 
 ‘Is not to be disturbed, when it will serve my purpose, you would
 say’--rejoined the other, interrupting him with the same complacency.
 ‘Granted. I allow it. And I have a purpose to serve now. So have you. I
 am sure our object is the same. Let us attain it like sensible men, who
-have ceased to be boys some time.--Do you drink?’
+have ceased to be boys some [[Time|time]].--Do you drink?’
 
 ‘With my friends,’ returned the other.
 
@@ -101,36 +101,36 @@ beggared hearth, and not pollute it, fallen as it is, with mockeries. Go
 on.’
 
 ‘You are wrong, Haredale,’ said the other, crossing his legs, and
-smiling as he held his glass up in the bright glow of the fire. ‘You are
+smiling as he held his glass up in the bright glow of the [[Fire|fire]]. ‘You are
 really very wrong. The world is a lively place enough, in which we must
 accommodate ourselves to circumstances, sail with the stream as glibly
 as we can, be content to take froth for substance, the surface for the
-depth, the counterfeit for the real coin. I wonder no philosopher has
+depth, the counterfeit for the real coin. I [[Wonder|wonder]] no philosopher has
 ever established that our globe itself is hollow. It should be, if
-Nature is consistent in her works.’
+[[Nature]] is consistent in her works.’
 
 ‘YOU think it is, perhaps?’
 
-‘I should say,’ he returned, sipping his wine, ‘there could be no doubt
-about it. Well; we, in trifling with this jingling toy, have had
+‘I should say,’ he returned, sipping his wine, ‘there could be no [[Doubt|doubt]]
+about it. [[Well]]; we, in trifling with this jingling toy, have had
 the ill-luck to jostle and fall out. We are not what the world calls
 friends; but we are as good and true and loving friends for all that, as
 nine out of every ten of those on whom it bestows the title. You have a
 niece, and I a son--a fine lad, Haredale, but foolish. They fall in
-love with each other, and form what this same world calls an attachment;
+[[Love|love]] with each other, and form what this same world calls an attachment;
 meaning a something fanciful and false like the rest, which, if it took
-its own free time, would break like any other bubble. But it may not
-have its own free time--will not, if they are left alone--and the
+its own free [[Time|time]], would break like any other bubble. But it may not
+have its own free [[Time|time]]--will not, if they are left [[Alone|alone]]--and the
 question is, shall we two, because society calls us enemies, stand
 aloof, and let them rush into each other’s arms, when, by approaching
 each other sensibly, as we do now, we can prevent it, and part them?’
 
-‘I love my niece,’ said Mr Haredale, after a short silence. ‘It may
-sound strangely in your ears; but I love her.’
+‘I [[Love|love]] my niece,’ said Mr Haredale, after a short [[Silence|silence]]. ‘It may
+sound strangely in your ears; but I [[Love|love]] her.’
 
 ‘Strangely, my good fellow!’ cried Mr Chester, lazily filling his glass
 again, and pulling out his toothpick. ‘Not at all. I like Ned too--or,
-as you say, love him--that’s the word among such near relations.
+as you say, [[Love|love]] him--that’s the word among such near relations.
 I’m very fond of Ned. He’s an amazingly good fellow, and a handsome
 fellow--foolish and weak as yet; that’s all. But the thing
 is, Haredale--for I’ll be very frank, as I told you I would at

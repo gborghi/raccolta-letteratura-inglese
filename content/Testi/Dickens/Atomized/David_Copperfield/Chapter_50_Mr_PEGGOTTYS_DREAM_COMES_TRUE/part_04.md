@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 4)"
+title: "[[David Copperfield]] — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,20 +17,20 @@ tags:
 Her rage got the better of her again, for a moment; but it passed over
 her face like a spasm, and left her smiling.
 
-‘Hide yourself,’ she pursued, ‘if not at home, somewhere. Let it be
+‘Hide yourself,’ she pursued, ‘if not at [[Home|home]], somewhere. Let it be
 somewhere beyond reach; in some obscure life--or, better still, in some
-obscure death. I wonder, if your loving heart will not break, you have
+obscure [[Death|death]]. I [[Wonder|wonder]], if your loving heart will not break, you have
 found no way of helping it to be still! I have heard of such means
 sometimes. I believe they may be easily found.’
 
 A low crying, on the part of Emily, interrupted her here. She stopped,
 and listened to it as if it were music.
 
-‘I am of a strange nature, perhaps,’ Rosa Dartle went on; ‘but I can’t
+‘I am of a strange [[Nature|nature]], perhaps,’ Rosa Dartle went on; ‘but I can’t
 breathe freely in the air you breathe. I find it sickly. Therefore, I
 will have it cleared; I will have it purified of you. If you live here
 tomorrow, I’ll have your story and your character proclaimed on the
-common stair. There are decent women in the house, I am told; and it
+common stair. There are decent women in the [[house]], I am told; and it
 is a pity such a light as you should be among them, and concealed. If,
 leaving here, you seek any refuge in this town in any character but your
 true one (which you are welcome to bear, without molestation from me),
@@ -44,7 +44,7 @@ might have touched the hardest heart, I should have thought; but there
 was no relenting in Rosa Dartle’s smile. ‘What, what, shall I do!’
 
 ‘Do?’ returned the other. ‘Live happy in your own reflections!
-Consecrate your existence to the recollection of James Steerforth’s
+Consecrate your existence to the recollection of [[James Steerforth]]’s
 tenderness--he would have made you his serving-man’s wife, would he
 not?---or to feeling grateful to the upright and deserving creature who
 would have taken you as his gift. Or, if those proud remembrances, and
@@ -52,7 +52,7 @@ the consciousness of your own virtues, and the honourable position to
 which they have raised you in the eyes of everything that wears the
 human shape, will not sustain you, marry that good man, and be happy in
 his condescension. If this will not do either, die! There are doorways
-and dust-heaps for such deaths, and such despair--find one, and take
+and [[Dust|dust]]-heaps for such deaths, and such [[Despair|despair]]--find one, and take
 your flight to Heaven!’
 
 I heard a distant foot upon the stairs. I knew it, I was certain. It was

@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Humour And Gravity"
+title: "Man Orthodox — [[Humour]] And Gravity"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-HUMOUR AND GRAVITY
+[[Humour|HUMOUR]] AND GRAVITY

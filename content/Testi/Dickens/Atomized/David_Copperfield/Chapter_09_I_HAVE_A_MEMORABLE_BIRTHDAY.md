@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY"
+title: "[[David Copperfield]] — Chapter 9: I HAVE A MEMORABLE BIRTHDAY"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -22,18 +22,18 @@ birthday came round in March. Except that Steerforth was more to be
 admired than ever, I remember nothing. He was going away at the end of
 the half-year, if not sooner, and was more spirited and independent than
 before in my eyes, and therefore more engaging than before; but beyond
-this I remember nothing. The great remembrance by which that time is
+this I remember nothing. The great remembrance by which that [[Time|time]] is
 marked in my mind, seems to have swallowed up all lesser recollections,
-and to exist alone.
+and to exist [[Alone|alone]].
 
 It is even difficult for me to believe that there was a gap of full
-two months between my return to Salem House and the arrival of that
+two months between my return to Salem [[house|House]] and the arrival of that
 birthday. I can only understand that the fact was so, because I know it
 must have been so; otherwise I should feel convinced that there was no
 interval, and that the one occasion trod upon the other’s heels.
 
-How well I recollect the kind of day it was! I smell the fog that hung
-about the place; I see the hoar frost, ghostly, through it; I feel my
+How [[Well|well]] I recollect the kind of day it was! I smell the fog that hung
+about the place; I see the hoar [[Frost|frost]], ghostly, through it; I feel my
 rimy hair fall clammy on my cheek; I look along the dim perspective of
 the schoolroom, with a sputtering candle here and there to light up the
 foggy morning, and the breath of the boys wreathing and smoking in the
@@ -41,14 +41,14 @@ raw cold as they blow upon their fingers, and tap their feet upon the
 floor. It was after breakfast, and we had been summoned in from the
 playground, when Mr. Sharp entered and said:
 
-‘David Copperfield is to go into the parlour.’
+‘[[David Copperfield]] is to go into the parlour.’
 
 I expected a hamper from Peggotty, and brightened at the order. Some
 of the boys about me put in their claim not to be forgotten in the
 distribution of the good things, as I got out of my seat with great
 alacrity.
 
-‘Don’t hurry, David,’ said Mr. Sharp. ‘There’s time enough, my boy,
+‘Don’t hurry, David,’ said Mr. Sharp. ‘There’s [[Time|time]] enough, my boy,
 don’t hurry.’
 
 I might have been surprised by the feeling tone in which he spoke, if I
@@ -57,9 +57,9 @@ away to the parlour; and there I found Mr. Creakle, sitting at his
 breakfast with the cane and a newspaper before him, and Mrs. Creakle
 with an opened letter in her hand. But no hamper.
 
-‘David Copperfield,’ said Mrs. Creakle, leading me to a sofa, and
+‘[[David Copperfield]],’ said Mrs. Creakle, leading me to a sofa, and
 sitting down beside me. ‘I want to speak to you very particularly. I
-have something to tell you, my child.’
+have something to tell you, my [[Child|child]].’
 
 Mr. Creakle, at whom of course I looked, shook his head without looking
 at me, and stopped up a sigh with a very large piece of buttered toast.
@@ -71,9 +71,9 @@ some of us at all times of our lives.’
 
 I looked at her earnestly.
 
-‘When you came away from home at the end of the vacation,’ said Mrs.
-Creakle, after a pause, ‘were they all well?’ After another pause, ‘Was
-your mama well?’
+‘When you came away from [[Home|home]] at the end of the vacation,’ said Mrs.
+Creakle, after a pause, ‘were they all [[Well|well]]?’ After another pause, ‘Was
+your mama [[Well|well]]?’
 
 I trembled without distinctly knowing why, and still looked at her
 earnestly, making no attempt to answer.
@@ -81,8 +81,8 @@ earnestly, making no attempt to answer.
 ‘Because,’ said she, ‘I grieve to tell you that I hear this morning your
 mama is very ill.’
 
-A mist rose between Mrs. Creakle and me, and her figure seemed to move
-in it for an instant. Then I felt the burning tears run down my face,
+A mist [[Rose|rose]] between Mrs. Creakle and me, and her figure seemed to move
+in it for an instant. Then I felt the burning [[Tears|tears]] run down my face,
 and it was steady again.
 
 ‘She is very dangerously ill,’ she added.
@@ -92,93 +92,93 @@ I knew all now.
 ‘She is dead.’
 
 There was no need to tell me so. I had already broken out into a
-desolate cry, and felt an orphan in the wide world.
+desolate cry, and felt an [[Orphan|orphan]] in the wide world.
 
-She was very kind to me. She kept me there all day, and left me alone
-sometimes; and I cried, and wore myself to sleep, and awoke and
+She was very kind to me. She kept me there all day, and left me [[Alone|alone]]
+sometimes; and I cried, and wore myself to [[Sleep|sleep]], and awoke and
 cried again. When I could cry no more, I began to think; and then the
-oppression on my breast was heaviest, and my grief a dull pain that
+oppression on my breast was heaviest, and my grief a dull [[Pain|pain]] that
 there was no ease for.
 
 And yet my thoughts were idle; not intent on the calamity that weighed
-upon my heart, but idly loitering near it. I thought of our house shut
+upon my heart, but idly loitering near it. I thought of our [[house]] shut
 up and hushed. I thought of the little baby, who, Mrs. Creakle said, had
-been pining away for some time, and who, they believed, would die too. I
-thought of my father’s grave in the churchyard, by our house, and of my
-mother lying there beneath the tree I knew so well. I stood upon a chair
-when I was left alone, and looked into the glass to see how red my eyes
+been pining away for some [[Time|time]], and who, they believed, would die too. I
+thought of my father’s [[Grave|grave]] in the churchyard, by our [[house]], and of my
+mother lying there beneath the tree I knew so [[Well|well]]. I stood upon a chair
+when I was left [[Alone|alone]], and looked into the glass to see how red my eyes
 were, and how sorrowful my face. I considered, after some hours were
-gone, if my tears were really hard to flow now, as they seemed to be,
+gone, if my [[Tears|tears]] were really hard to flow now, as they seemed to be,
 what, in connexion with my loss, it would affect me most to think
-of when I drew near home--for I was going home to the funeral. I am
+of when I drew near [[Home|home]]--for I was going [[Home|home]] to the funeral. I am
 sensible of having felt that a dignity attached to me among the rest of
 the boys, and that I was important in my affliction.
 
-If ever child were stricken with sincere grief, I was. But I remember
+If ever [[Child|child]] were stricken with sincere grief, I was. But I remember
 that this importance was a kind of satisfaction to me, when I walked in
 the playground that afternoon while the boys were in school. When I
 saw them glancing at me out of the windows, as they went up to their
-classes, I felt distinguished, and looked more melancholy, and walked
+classes, I felt distinguished, and looked more [[Melancholy|melancholy]], and walked
 slower. When school was over, and they came out and spoke to me, I felt
 it rather good in myself not to be proud to any of them, and to take
 exactly the same notice of them all, as before.
 
-I was to go home next night; not by the mail, but by the heavy
-night-coach, which was called the Farmer, and was principally used by
-country-people travelling short intermediate distances upon the road. We
+I was to go [[Home|home]] next [[Night|night]]; not by the mail, but by the heavy
+[[Night|night]]-coach, which was called the Farmer, and was principally used by
+country-people travelling short intermediate distances upon the [[Road|road]]. We
 had no story-telling that evening, and Traddles insisted on lending me
 his pillow. I don’t know what good he thought it would do me, for I
 had one of my own: but it was all he had to lend, poor fellow, except a
 sheet of letter-paper full of skeletons; and that he gave me at parting,
 as a soother of my sorrows and a contribution to my peace of mind.
 
-I left Salem House upon the morrow afternoon. I little thought then that
-I left it, never to return. We travelled very slowly all night, and
-did not get into Yarmouth before nine or ten o’clock in the morning. I
+I left Salem [[house|House]] upon the morrow afternoon. I little thought then that
+I left it, never to return. We travelled very slowly all [[Night|night]], and
+did not get into Yarmouth before nine or ten o’[[Clock|clock]] in the morning. I
 looked out for Mr. Barkis, but he was not there; and instead of him a
 fat, short-winded, merry-looking, little old man in black, with rusty
 little bunches of ribbons at the knees of his breeches, black stockings,
-and a broad-brimmed hat, came puffing up to the coach window, and said:
+and a broad-brimmed hat, came puffing up to the coach [[Window|window]], and said:
 
 ‘Master Copperfield?’
 
 ‘Yes, sir.’
 
 ‘Will you come with me, young sir, if you please,’ he said, opening the
-door, ‘and I shall have the pleasure of taking you home.’
+door, ‘and I shall have the pleasure of taking you [[Home|home]].’
 
 I put my hand in his, wondering who he was, and we walked away to a
 shop in a narrow street, on which was written OMER, DRAPER, TAILOR,
 HABERDASHER, FUNERAL FURNISHER, &c. It was a close and stifling little
 shop; full of all sorts of clothing, made and unmade, including
-one window full of beaver-hats and bonnets. We went into a little
+one [[Window|window]] full of beaver-hats and bonnets. We went into a little
 back-parlour behind the shop, where we found three young women at work
 on a quantity of black materials, which were heaped upon the table,
 and little bits and cuttings of which were littered all over the floor.
-There was a good fire in the room, and a breathless smell of warm black
+There was a good [[Fire|fire]] in the room, and a breathless smell of warm black
 crape--I did not know what the smell was then, but I know now.
 
 The three young women, who appeared to be very industrious and
 comfortable, raised their heads to look at me, and then went on with
-their work. Stitch, stitch, stitch. At the same time there came from
-a workshop across a little yard outside the window, a regular sound
+their work. Stitch, stitch, stitch. At the same [[Time|time]] there came from
+a workshop across a little yard outside the [[Window|window]], a regular sound
 of hammering that kept a kind of tune: RAT--tat-tat, RAT--tat-tat,
 RAT--tat-tat, without any variation.
 
-‘Well,’ said my conductor to one of the three young women. ‘How do you
+‘[[Well]],’ said my conductor to one of the three young women. ‘How do you
 get on, Minnie?’
 
-‘We shall be ready by the trying-on time,’ she replied gaily, without
+‘We shall be ready by the trying-on [[Time|time]],’ she replied gaily, without
 looking up. ‘Don’t you be afraid, father.’
 
 Mr. Omer took off his broad-brimmed hat, and sat down and panted. He was
-so fat that he was obliged to pant some time before he could say:
+so fat that he was obliged to pant some [[Time|time]] before he could say:
 
 ‘That’s right.’
 
 ‘Father!’ said Minnie, playfully. ‘What a porpoise you do grow!’
 
-‘Well, I don’t know how it is, my dear,’ he replied, considering about
+‘[[Well]], I don’t know how it is, my dear,’ he replied, considering about
 it. ‘I am rather so.’
 
 ‘You are such a comfortable man, you see,’ said Minnie. ‘You take things
@@ -189,7 +189,7 @@ so easy.’
 ‘No, indeed,’ returned his daughter. ‘We are all pretty gay here, thank
 Heaven! Ain’t we, father?’
 
-‘I hope so, my dear,’ said Mr. Omer. ‘As I have got my breath now, I
+‘I [[Hope|hope]] so, my dear,’ said Mr. Omer. ‘As I have got my breath now, I
 think I’ll measure this young scholar. Would you walk into the shop,
 Master Copperfield?’
 
@@ -212,7 +212,7 @@ been beyond me under any circumstances; and Mr. Omer took me back into
 the parlour, breathing with some difficulty on the way.
 
 He then called down a little break-neck range of steps behind a door:
-‘Bring up that tea and bread-and-butter!’ which, after some time,
+‘Bring up that tea and bread-and-butter!’ which, after some [[Time|time]],
 during which I sat looking about me and thinking, and listening to the
 stitching in the room and the tune that was being hammered across the
 yard, appeared on a tray, and turned out to be for me.
@@ -220,7 +220,7 @@ yard, appeared on a tray, and turned out to be for me.
 ‘I have been acquainted with you,’ said Mr. Omer, after watching me
 for some minutes, during which I had not made much impression on the
 breakfast, for the black things destroyed my appetite, ‘I have been
-acquainted with you a long time, my young friend.’
+acquainted with you a long [[Time|time]], my young friend.’
 
 ‘Have you, sir?’
 
@@ -250,23 +250,23 @@ dead.’
 My wounds broke out afresh at this intelligence. I left the
 scarcely-tasted breakfast, and went and rested my head on another table,
 in a corner of the little room, which Minnie hastily cleared, lest I
-should spot the mourning that was lying there with my tears. She was
+should spot the mourning that was lying there with my [[Tears|tears]]. She was
 a pretty, good-natured girl, and put my hair away from my eyes with a
 soft, kind touch; but she was very cheerful at having nearly finished
-her work and being in good time, and was so different from me!
+her work and being in good [[Time|time]], and was so different from me!
 
 Presently the tune left off, and a good-looking young fellow came across
 the yard into the room. He had a hammer in his hand, and his mouth was
 full of little nails, which he was obliged to take out before he could
 speak.
 
-‘Well, Joram!’ said Mr. Omer. ‘How do you get on?’
+‘[[Well]], Joram!’ said Mr. Omer. ‘How do you get on?’
 
 ‘All right,’ said Joram. ‘Done, sir.’
 
 Minnie coloured a little, and the other two girls smiled at one another.
 
-‘What! you were at it by candle-light last night, when I was at the
+‘What! you were at it by candle-light last [[Night|night]], when I was at the
 club, then? Were you?’ said Mr. Omer, shutting up one eye.
 
 ‘Yes,’ said Joram. ‘As you said we could make a little trip of it, and
@@ -297,7 +297,7 @@ brushed the shreds and threads from their dresses, and went into the
 shop to put that to rights, and wait for customers. Minnie stayed behind
 to fold up what they had made, and pack it in two baskets. This she did
 upon her knees, humming a lively little tune the while. Joram, who I had
-no doubt was her lover, came in and stole a kiss from her while she was
+no [[Doubt|doubt]] was her [[Lover|lover]], came in and stole a kiss from her while she was
 busy (he didn’t appear to mind me, at all), and said her father was gone
 for the chaise, and he must make haste and get himself ready. Then he
 went out again; and then she put her thimble and scissors in her pocket,
@@ -310,37 +310,37 @@ leaning on my hand, and my thoughts running on very different things.
 The chaise soon came round to the front of the shop, and the baskets
 being put in first, I was put in next, and those three followed. I
 remember it as a kind of half chaise-cart, half pianoforte-van, painted
-of a sombre colour, and drawn by a black horse with a long tail. There
+of a sombre colour, and drawn by a black [[Horse|horse]] with a long tail. There
 was plenty of room for us all.
 
 I do not think I have ever experienced so strange a feeling in my life
 (I am wiser now, perhaps) as that of being with them, remembering how
 they had been employed, and seeing them enjoy the ride. I was not angry
 with them; I was more afraid of them, as if I were cast away among
-creatures with whom I had no community of nature. They were very
+creatures with whom I had no community of [[Nature|nature]]. They were very
 cheerful. The old man sat in front to drive, and the two young people
 sat behind him, and whenever he spoke to them leaned forward, the one on
 one side of his chubby face and the other on the other, and made a great
 deal of him. They would have talked to me too, but I held back, and
-moped in my corner; scared by their love-making and hilarity, though
+moped in my corner; scared by their [[Love|love]]-making and hilarity, though
 it was far from boisterous, and almost wondering that no judgement came
 upon them for their hardness of heart.
 
-So, when they stopped to bait the horse, and ate and drank and enjoyed
+So, when they stopped to bait the [[Horse|horse]], and ate and drank and enjoyed
 themselves, I could touch nothing that they touched, but kept my fast
-unbroken. So, when we reached home, I dropped out of the chaise behind,
+unbroken. So, when we reached [[Home|home]], I dropped out of the chaise behind,
 as quickly as possible, that I might not be in their company before
 those solemn windows, looking blindly on me like closed eyes once
 bright. And oh, how little need I had had to think what would move me to
-tears when I came back--seeing the window of my mother’s room, and next
-it that which, in the better time, was mine!
+[[Tears|tears]] when I came back--seeing the [[Window|window]] of my mother’s room, and next
+it that which, in the better [[Time|time]], was mine!
 
 I was in Peggotty’s arms before I got to the door, and she took me into
-the house. Her grief burst out when she first saw me; but she controlled
+the [[house]]. Her grief burst out when she first saw me; but she controlled
 it soon, and spoke in whispers, and walked softly, as if the dead could
-be disturbed. She had not been in bed, I found, for a long time. She
-sat up at night still, and watched. As long as her poor dear pretty was
-above the ground, she said, she would never desert her.
+be disturbed. She had not been in bed, I found, for a long [[Time|time]]. She
+sat up at [[Night|night]] still, and watched. As long as her poor dear pretty was
+above the ground, she said, she would never [[Desert|desert]] her.
 
 Mr. Murdstone took no heed of me when I went into the parlour where he
 was, but sat by the fireside, weeping silently, and pondering in his
@@ -350,18 +350,18 @@ asked me, in an iron whisper, if I had been measured for my mourning.
 
 I said: ‘Yes.’
 
-‘And your shirts,’ said Miss Murdstone; ‘have you brought ‘em home?’
+‘And your shirts,’ said Miss Murdstone; ‘have you brought ‘em [[Home|home]]?’
 
-‘Yes, ma’am. I have brought home all my clothes.’
+‘Yes, ma’am. I have brought [[Home|home]] all my clothes.’
 
 This was all the consolation that her firmness administered to me. I do
-not doubt that she had a choice pleasure in exhibiting what she called
-her self-command, and her firmness, and her strength of mind, and
+not [[Doubt|doubt]] that she had a choice pleasure in exhibiting what she called
+her [[Self|self]]-command, and her firmness, and her strength of mind, and
 her common sense, and the whole diabolical catalogue of her unamiable
 qualities, on such an occasion. She was particularly proud of her turn
 for business; and she showed it now in reducing everything to pen and
 ink, and being moved by nothing. All the rest of that day, and from
-morning to night afterwards, she sat at that desk, scratching composedly
+morning to [[Night|night]] afterwards, she sat at that desk, scratching composedly
 with a hard pen, speaking in the same imperturbable whisper to
 everybody; never relaxing a muscle of her face, or softening a tone of
 her voice, or appearing with an atom of her dress astray.
@@ -372,31 +372,31 @@ a whole hour without turning the leaf, and then put it down and walk to
 and fro in the room. I used to sit with folded hands watching him, and
 counting his footsteps, hour after hour. He very seldom spoke to her,
 and never to me. He seemed to be the only restless thing, except the
-clocks, in the whole motionless house.
+clocks, in the whole motionless [[house]].
 
 In these days before the funeral, I saw but little of Peggotty, except
 that, in passing up or down stairs, I always found her close to the room
 where my mother and her baby lay, and except that she came to me every
-night, and sat by my bed’s head while I went to sleep. A day or
+[[Night|night]], and sat by my bed’s head while I went to [[Sleep|sleep]]. A day or
 two before the burial--I think it was a day or two before, but I am
-conscious of confusion in my mind about that heavy time, with nothing
+conscious of confusion in my mind about that heavy [[Time|time]], with nothing
 to mark its progress--she took me into the room. I only recollect that
 underneath some white covering on the bed, with a beautiful cleanliness
 and freshness all around it, there seemed to me to lie embodied the
-solemn stillness that was in the house; and that when she would have
+solemn stillness that was in the [[house]]; and that when she would have
 turned the cover gently back, I cried: ‘Oh no! oh no!’ and held her
 hand.
 
 If the funeral had been yesterday, I could not recollect it better. The
 very air of the best parlour, when I went in at the door, the bright
-condition of the fire, the shining of the wine in the decanters, the
+condition of the [[Fire|fire]], the shining of the wine in the decanters, the
 patterns of the glasses and plates, the faint sweet smell of cake, the
 odour of Miss Murdstone’s dress, and our black clothes. Mr. Chillip is
 in the room, and comes to speak to me.
 
 ‘And how is Master David?’ he says, kindly.
 
-I cannot tell him very well. I give him my hand, which he holds in his.
+I cannot tell him very [[Well|well]]. I give him my hand, which he holds in his.
 
 ‘Dear me!’ says Mr. Chillip, meekly smiling, with something shining in
 his eye. ‘Our little friends grow up around us. They grow out of our
@@ -409,27 +409,27 @@ Chillip, discomfited, goes into a corner, keeping me with him, and opens
 his mouth no more.
 
 I remark this, because I remark everything that happens, not because
-I care about myself, or have done since I came home. And now the bell
+I care about myself, or have done since I came [[Home|home]]. And now the bell
 begins to sound, and Mr. Omer and another come to make us ready. As
 Peggotty was wont to tell me, long ago, the followers of my father to
-the same grave were made ready in the same room.
+the same [[Grave|grave]] were made ready in the same room.
 
 There are Mr. Murdstone, our neighbour Mr. Grayper, Mr. Chillip, and
 I. When we go out to the door, the Bearers and their load are in the
-garden; and they move before us down the path, and past the elms, and
+[[Garden|garden]]; and they move before us down the path, and past the elms, and
 through the gate, and into the churchyard, where I have so often heard
-the birds sing on a summer morning.
+the [[Birds|birds]] sing on a [[Summer|summer]] morning.
 
-We stand around the grave. The day seems different to me from every
+We stand around the [[Grave|grave]]. The day seems different to me from every
 other day, and the light not of the same colour--of a sadder colour.
-Now there is a solemn hush, which we have brought from home with what is
+Now there is a solemn hush, which we have brought from [[Home|home]] with what is
 resting in the mould; and while we stand bareheaded, I hear the voice
 of the clergyman, sounding remote in the open air, and yet distinct and
-plain, saying: ‘I am the Resurrection and the Life, saith the Lord!’
+plain, saying: ‘I am the [[Resurrection]] and the Life, saith the Lord!’
 Then I hear sobs; and, standing apart among the lookers-on, I see that
-good and faithful servant, whom of all the people upon earth I love the
+good and faithful servant, whom of all the people upon earth I [[Love|love]] the
 best, and unto whom my childish heart is certain that the Lord will one
-day say: ‘Well done.’
+day say: ‘[[Well]] done.’
 
 There are many faces that I know, among the little crowd; faces that I
 knew in church, when mine was always wondering there; faces that first
@@ -439,10 +439,10 @@ all; and even in the background, far away, see Minnie looking on, and
 her eye glancing on her sweetheart, who is near me.
 
 It is over, and the earth is filled in, and we turn to come away. Before
-us stands our house, so pretty and unchanged, so linked in my mind with
+us stands our [[house]], so pretty and unchanged, so linked in my mind with
 the young idea of what is gone, that all my sorrow has been nothing to
 the sorrow it calls forth. But they take me on; and Mr. Chillip talks to
-me; and when we get home, puts some water to my lips; and when I ask his
+me; and when we get [[Home|home]], puts some [[Water|water]] to my lips; and when I ask his
 leave to go up to my room, dismisses me with the gentleness of a woman.
 
 All this, I say, is yesterday’s event. Events of later date have floated
@@ -450,17 +450,17 @@ from me to the shore where all forgotten things will reappear, but this
 stands like a high rock in the ocean.
 
 I knew that Peggotty would come to me in my room. The Sabbath stillness
-of the time (the day was so like Sunday! I have forgotten that) was
+of the [[Time|time]] (the day was so like [[Sunday]]! I have forgotten that) was
 suited to us both. She sat down by my side upon my little bed; and
 holding my hand, and sometimes putting it to her lips, and sometimes
 smoothing it with hers, as she might have comforted my little brother,
 told me, in her way, all that she had to tell concerning what had
 happened.
 
-‘She was never well,’ said Peggotty, ‘for a long time. She was uncertain
+‘She was never [[Well|well]],’ said Peggotty, ‘for a long [[Time|time]]. She was uncertain
 in her mind, and not happy. When her baby was born, I thought at first
 she would get better, but she was more delicate, and sunk a little every
-day. She used to like to sit alone before her baby came, and then she
+day. She used to like to sit [[Alone|alone]] before her baby came, and then she
 cried; but afterwards she used to sing to it--so soft, that I once
 thought, when I heard her, it was like a voice up in the air, that was
 rising away.
@@ -471,40 +471,40 @@ to me. She never changed to her foolish Peggotty, didn’t my sweet girl.’
 
 Here Peggotty stopped, and softly beat upon my hand a little while.
 
-‘The last time that I saw her like her own old self, was the night when
-you came home, my dear. The day you went away, she said to me, “I never
+‘The last [[Time|time]] that I saw her like her own old [[Self|self]], was the [[Night|night]] when
+you came [[Home|home]], my dear. The day you went away, she said to me, “I never
 shall see my pretty darling again. Something tells me so, that tells the
-truth, I know.”
+[[Truth|truth]], I know.”
 
-‘She tried to hold up after that; and many a time, when they told her
+‘She tried to hold up after that; and many a [[Time|time]], when they told her
 she was thoughtless and light-hearted, made believe to be so; but it was
 all a bygone then. She never told her husband what she had told me--she
-was afraid of saying it to anybody else--till one night, a little more
+was afraid of saying it to anybody else--till one [[Night|night]], a little more
 than a week before it happened, when she said to him: “My dear, I think
 I am dying.”
 
 ‘“It’s off my mind now, Peggotty,” she told me, when I laid her in her
-bed that night. “He will believe it more and more, poor fellow, every
+bed that [[Night|night]]. “He will believe it more and more, poor fellow, every
 day for a few days to come; and then it will be past. I am very tired.
-If this is sleep, sit by me while I sleep: don’t leave me. God bless
+If this is [[Sleep|sleep]], sit by me while I [[Sleep|sleep]]: don’t leave me. God bless
 both my children! God protect and keep my fatherless boy!”
 
 ‘I never left her afterwards,’ said Peggotty. ‘She often talked to them
-two downstairs--for she loved them; she couldn’t bear not to love anyone
+two downstairs--for she loved them; she couldn’t bear not to [[Love|love]] anyone
 who was about her--but when they went away from her bed-side, she always
 turned to me, as if there was rest where Peggotty was, and never fell
 asleep in any other way.
 
-‘On the last night, in the evening, she kissed me, and said: “If my baby
+‘On the last [[Night|night]], in the evening, she kissed me, and said: “If my baby
 should die too, Peggotty, please let them lay him in my arms, and bury
-us together.” (It was done; for the poor lamb lived but a day beyond
+us together.” (It was done; for the poor [[Lamb|lamb]] lived but a day beyond
 her.) “Let my dearest boy go with us to our resting-place,” she said,
 “and tell him that his mother, when she lay here, blessed him not once,
 but a thousand times.”’
 
-Another silence followed this, and another gentle beating on my hand.
+Another [[Silence|silence]] followed this, and another gentle beating on my hand.
 
-‘It was pretty far in the night,’ said Peggotty, ‘when she asked me for
+‘It was pretty far in the [[Night|night]],’ said Peggotty, ‘when she asked me for
 some drink; and when she had taken it, gave me such a patient smile, the
 dear!--so beautiful!
 
@@ -515,22 +515,22 @@ a loving heart was better and stronger than wisdom, and that he was a
 happy man in hers. “Peggotty, my dear,” she said then, “put me nearer to
 you,” for she was very weak. “Lay your good arm underneath my neck,” she
 said, “and turn me to you, for your face is going far off, and I want it
-to be near.” I put it as she asked; and oh Davy! the time had come when
+to be near.” I put it as she asked; and oh Davy! the [[Time|time]] had come when
 my first parting words to you were true--when she was glad to lay her
-poor head on her stupid cross old Peggotty’s arm--and she died like a
-child that had gone to sleep!’
+poor head on her stupid [[Cross|cross]] old Peggotty’s arm--and she died like a
+[[Child|child]] that had gone to [[Sleep|sleep]]!’
 
 
 Thus ended Peggotty’s narration. From the moment of my knowing of the
-death of my mother, the idea of her as she had been of late had vanished
+[[Death|death]] of my mother, the idea of her as she had been of late had vanished
 from me. I remembered her, from that instant, only as the young mother
-of my earliest impressions, who had been used to wind her bright curls
-round and round her finger, and to dance with me at twilight in the
+of my earliest impressions, who had been used to [[Wind|wind]] her bright curls
+round and round her finger, and to [[Dance|dance]] with me at twilight in the
 parlour. What Peggotty had told me now, was so far from bringing me back
 to the later period, that it rooted the earlier image in my mind. It may
-be curious, but it is true. In her death she winged her way back to her
+be curious, but it is true. In her [[Death|death]] she winged her way back to her
 calm untroubled youth, and cancelled all the rest.
 
-The mother who lay in the grave, was the mother of my infancy; the
+The mother who lay in the [[Grave|grave]], was the mother of my infancy; the
 little creature in her arms, was myself, as I had once been, hushed for
 ever on her bosom.

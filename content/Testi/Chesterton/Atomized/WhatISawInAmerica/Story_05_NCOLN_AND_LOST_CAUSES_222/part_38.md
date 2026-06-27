@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 38)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 38)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 the great external enigma of Japan. The Japanese question may be a part
 
-of foreign policy for America, but it is a part of domestic policy for
+of foreign policy for [[America]], but it is a part of domestic policy for
 
 California. And the same is true of that other intense and intelligent
 
@@ -24,19 +24,19 @@ Eastern people, the genius and limitations of which have troubled the
 
 world so much longer. What the Japs are in California, the Jews are in
 
-America. That is, they are a piece of foreign policy that has become
+[[America]]. That is, they are a piece of foreign policy that has become
 
 imbedded in domestic policy; something which is found inside but still
 
 has to be regarded from the outside. On these great international
 
-matters I doubt if Americans got much guidance from their party system;
+matters I [[Doubt|doubt]] if Americans got much guidance from their party system;
 
 especially as most of these questions have grown very recently and
 
 rapidly to enormous size. Men are left free to judge of them with fresh
 
-minds. And that is the truth in the statement that the Washington
+minds. And that is the [[Truth|truth]] in the statement that the Washington
 
 Conference has opened the gates of a new world.
 
@@ -60,7 +60,7 @@ journalists have recently imagined that they were pouring oil upon the
 
 troubled waters, when they were rather pouring out oil to smooth the
 
-downward path; and to turn the broad road to destruction into a
+downward path; and to turn the broad [[Road|road]] to destruction into a
 
 butter-slide. They seem to have no notion of what to do, except to say
 
@@ -72,7 +72,7 @@ would probably like to know. They therefore informed the public that
 
 'the majority of Americans' had abandoned all sympathy with Ireland,
 
-because of its alleged sympathy with Germany; and that this majority of
+because of its alleged sympathy with [[Germany]]; and that this majority of
 
 Americans was now ardently in sympathy with its English brothers across
 
@@ -80,7 +80,7 @@ the sea. Now to begin with, such critics have no notion of what they are
 
 saying when they talk about the majority of Americans. To anybody who
 
-has happened to look in, let us say, on the city of Omaha, Nebraska, the
+has happened to look in, let us say, on the [[City|city]] of Omaha, Nebraska, the
 
 remark will have something enormous and overwhelming about it. It is
 
@@ -92,15 +92,15 @@ rather than the Ritz. There are millions and millions of people living
 
 in those great central plains of the North American Continent of whom
 
-it would be nearer the truth to say that they have never heard of
+it would be nearer the [[Truth|truth]] to say that they have never heard of
 
 England, or of Ireland either, than to say that their first emotional
 
-movement is a desire to come to the rescue of either of them. It is
+movement is a [[Desire|desire]] to come to the rescue of either of them. It is
 
 perfectly true that the more monomaniac sort of Sinn Feiner might
 
-sometimes irritate this innocent and isolated American spirit by being
+sometimes irritate this [[Innocent|innocent]] and isolated American spirit by being
 
 pro-Irish. It is equally true that a traditional Bostonian or Virginian
 
@@ -120,11 +120,11 @@ hold-up with six-shooters and photographs of a beautiful murderess or
 
 divorcée, fill up the round of their good and happy lives, and fleet the
 
-time carelessly as in the golden age.
+[[Time|time]] carelessly as in the [[Golden Age|golden age]].
 
 
 
-But putting aside all this vast and distant democracy, which is the real
+But putting aside all this vast and distant [[democracy]], which is the real
 
 'majority of Americans,' and confining ourselves to that older culture
 
@@ -138,17 +138,17 @@ eastern coast, as I did, finds himself not only most warmly welcomed as
 
 a guest, but most cordially complimented as an Englishman. Men recall
 
-with pride the branches of their family that belong to England or the
+with [[Pride|pride]] the branches of their family that belong to England or the
 
 English counties where they were rooted; and there are enthusiasms for
 
-English literature and history which are as spontaneous as patriotism
+English literature and [[history]] which are as spontaneous as patriotism
 
 itself. Something of this may be put down to a certain promptitude and
 
 flexibility in all American kindness, which is never sufficiently stodgy
 
-to be called good nature. The Englishman does sometimes wonder whether
+to be called good [[Nature|nature]]. The Englishman does sometimes [[Wonder|wonder]] whether
 
 if he had been a Russian, his hosts would not have remembered remote
 
@@ -172,7 +172,7 @@ What I began to feel, with a certain creeping chill, was that they were
 
 only too sympathetic with England. The word sympathetic has sometimes
 
-rather a double sense. The impression I received was that all these
+rather a [[Double|double]] sense. The impression I received was that all these
 
 chivalrous Southerners and men mellow with Bostonian memories were
 
@@ -182,7 +182,7 @@ England that they were defending. Their attitude implied that somebody
 
 or something was leaving her undefended, or finding her indefensible.
 
-The burden of that hearty chorus was that England was not so black as
+The burden of that hearty [[Chorus|chorus]] was that England was not so black as
 
 she was painted; it seemed clear that somewhere or other she was being
 
@@ -190,4 +190,4 @@ painted pretty black. But there was something else that made me
 
 uncomfortable; it was not only the sense of being somewhat boisterously
 
-forgiven; it was also something involving questions of power as well as
+forgiven; it was also something involving questions of power as [[Well|well]] as

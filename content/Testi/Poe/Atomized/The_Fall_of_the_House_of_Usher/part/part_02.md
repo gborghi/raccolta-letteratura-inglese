@@ -1,5 +1,5 @@
 ---
-title: "The Fall of the House of Usher (part 2)"
+title: "[[The Fall of the House of Usher]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      Shaking off from my spirit what _must_ have been a dream, I
+      Shaking off from my spirit what _must_ have been [[A Dream|a dream]], I
       scanned more narrowly the real aspect of the building. Its
       principal feature seemed to be that of an excessive antiquity.
       The discoloration of ages had been great. Minute fungi overspread
@@ -27,16 +27,16 @@ tags:
       specious totality of old wood-work which has rotted for long
       years in some neglected vault, with no disturbance from the
       breath of the external air. Beyond this indication of extensive
-      decay, however, the fabric gave little token of instability.
+      [[Decay|decay]], however, the fabric gave little token of instability.
       Perhaps the eye of a scrutinizing observer might have discovered
       a barely perceptible fissure, which, extending from the roof of
       the building in front, made its way down the wall in a zigzag
       direction, until it became lost in the sullen waters of the tarn.
 
-      Noticing these things, I rode over a short causeway to the house.
-      A servant in waiting took my horse, and I entered the Gothic
+      Noticing these things, I rode over a short causeway to the [[house]].
+      A servant in waiting took my [[Horse|horse]], and I entered the Gothic
       archway of the hall. A valet, of stealthy step, thence conducted
-      me, in silence, through many dark and intricate passages in my
+      me, in [[Silence|silence]], through many dark and intricate passages in my
       progress to the _studio_ of his master. Much that I encountered
       on the way contributed, I know not how, to heighten the vague
       sentiments of which I have already spoken. While the objects
@@ -75,8 +75,8 @@ tags:
       perfect sincerity. We sat down; and for some moments, while he
       spoke not, I gazed upon him with a feeling half of pity, half of
       awe. Surely, man had never before so terribly altered, in so
-      brief a period, as had Roderick Usher! It was with difficulty
-      that I could bring myself to admit the identity of the wan being
+      brief a period, as had [[Roderick Usher]]! It was with difficulty
+      that I could bring myself to admit the [[Identity|identity]] of the wan being
       before me with the companion of my early boyhood. Yet the
       character of his face had been at all times remarkable. A
       cadaverousness of complexion; an eye large, liquid, and luminous
@@ -101,14 +101,14 @@ tags:
       incoherence—an inconsistency; and I soon found this to arise from
       a series of feeble and futile struggles to overcome an habitual
       trepidancy—an excessive nervous agitation. For something of this
-      nature I had indeed been prepared, no less by his letter, than by
+      [[Nature|nature]] I had indeed been prepared, no less by his letter, than by
       reminiscences of certain boyish traits, and by conclusions
       deduced from his peculiar physical conformation and temperament.
       His action was alternately vivacious and sullen. His voice varied
       rapidly from a tremulous indecision (when the animal spirits
       seemed utterly in abeyance) to that species of energetic
       concision—that abrupt, weighty, unhurried, and hollow-sounding
-      enunciation—that leaden, self-balanced and perfectly modulated
+      enunciation—that leaden, [[Self|self]]-balanced and perfectly modulated
       guttural utterance, which may be observed in the lost drunkard,
       or the irreclaimable eater of opium, during the periods of his
       most intense excitement.

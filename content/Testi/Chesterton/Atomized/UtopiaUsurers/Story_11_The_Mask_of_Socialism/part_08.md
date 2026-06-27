@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 8)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -18,11 +18,11 @@ degradation of the two words in modern language. Now the word "common"
 
 in "Common Informer" means exactly what it means in "common sense" or
 
-"Book of Common Prayer," or (above all) in "House of Commons." It
+"Book of Common [[Prayer]]," or (above all) in "[[house|House]] of Commons." It
 
 does not mean anything low or vulgar; any more than they do. The only
 
-difference is that the House of Commons really is low and vulgar; and
+difference is that the [[house|House]] of Commons really is low and vulgar; and
 
 the Common Informer isn't. It is just the same with the word "Informer."
 
@@ -30,7 +30,7 @@ It does not mean spy or sneak. It means one who gives information. It
 
 means what "journalist" ought to mean. The only difference is that the
 
-Common Informer may be paid if he tells the truth. The common journalist
+Common Informer may be paid if he tells the [[Truth|truth]]. The common journalist
 
 will be ruined if he does.
 
@@ -38,7 +38,7 @@ will be ruined if he does.
 
 Now the quite plain point before the party journalist is this: If
 
-he really means that a corrupt bargain between a Government and a
+he really means that a corrupt bargain between a [[government|Government]] and a
 
 contractor ought to be judged by public opinion, he must (nowadays) mean
 
@@ -46,9 +46,9 @@ Parliament; that is, the caucus that controls Parliament. And he must
 
 decide between one of two views. Either he means that there can be no
 
-such thing as a corrupt Government. Or he means that it is one of the
+such thing as a corrupt [[government|Government]]. Or he means that it is one of the
 
-characteristic qualities of a corrupt Government to denounce its own
+characteristic qualities of a corrupt [[government|Government]] to denounce its own
 
 corruption. I laugh; and I leave him his choice.
 
@@ -98,7 +98,7 @@ one thought wearisome, but might himself be just tired enough to shift
 
 from one leg to the other. Snapshot him, and he appears as holding one
 
-leg stiffly in the air and yawning enough to swallow the audience.
+leg stiffly in the air and yawning enough to [[Swallow|swallow]] the audience.
 
 But it is in the prose narratives of the Press that we find most
 
@@ -106,7 +106,7 @@ manifestations of this strange ineptitude; this knack of exhibiting your
 
 own favourites in an unlucky light. It is not so much that the party
 
-journalists do not tell the truth as that they tell just enough of it
+journalists do not tell the [[Truth|truth]] as that they tell just enough of it
 
 to make it clear that they are telling lies. One of their favourite
 
@@ -128,13 +128,13 @@ Insane Exaggeration
 
 Here is an example from a leading Liberal paper touching the debates on
 
-Home Rule. I am a Home Ruler; so my sympathies would be, if anything, on
+[[Home]] Rule. I am a [[Home]] Ruler; so my sympathies would be, if anything, on
 
 the side of the Liberal paper upon that point. I merely quote it as
 
 an example of this ridiculous way of writing, which, by insane
 
-exaggeration, actually makes its hero look smaller than he is.
+exaggeration, actually makes its [[Hero|hero]] look smaller than he is.
 
 
 
@@ -142,7 +142,7 @@ This was strange language to use about the "hypocritical sham," and Mr.
 
 Asquith, knowing that the biggest battle of his career was upon him,
 
-hit back without mercy. "I should like first to know," said he, with a
+hit back without [[Mercy|mercy]]. "I should like first to know," said he, with a
 
 glance at his supporters, "whether my proposals are accepted?"
 
@@ -150,15 +150,15 @@ glance at his supporters, "whether my proposals are accepted?"
 
 That's all. And I really do not see why poor Mr. Asquith should be
 
-represented as having violated the Christian virtue of mercy by saying
+represented as having violated the Christian virtue of [[Mercy|mercy]] by saying
 
 that. I myself could compose a great many paragraphs upon the same
 
-model, each containing its stinging and perhaps unscrupulous epigram.
+model, each containing its stinging and perhaps unscrupulous [[Epigram|epigram]].
 
 As, for example:--"The Archbishop of Canterbury, realising that his
 
-choice now lay between denying God and earning the crown of martyrdom by
+choice now lay between denying God and earning the [[Crown|crown]] of [[Martyrdom|martyrdom]] by
 
 dying in torments, spoke with a frenzy of religious passion that might
 
@@ -178,9 +178,9 @@ odds the independence of England would be extinguished forever,
 
 addressed to his soldiers (looking at them and not falling off his
 
-horse) a speech which brought their national passions to boiling point,
+[[Horse|horse]]) a speech which brought their national passions to boiling point,
 
-and might well have seemed blood-thirsty in quieter times. It ended with
+and might [[Well|well]] have seemed [[Blood|blood]]-thirsty in quieter times. It ended with
 
 the celebrated declaration that it was a fine day."
 
@@ -202,18 +202,18 @@ agnosticism. This address (which he delivered without any attempt to
 
 stand on his head) included a fierce and even ferocious declaration that
 
-it is generally easier to see the stars by night than by day."
+it is generally easier to see the [[Stars|stars]] by [[Night|night]] than by day."
 
 
 
-Now, I cannot see, on my conscience and reason, that any one of my
+Now, I cannot see, on my [[Conscience|conscience]] and reason, that any one of my
 
 imaginary paragraphs is more ridiculous than the real one. Nobody can
 
 believe that Mr. Asquith regards these belated and careful compromises
 
-about Home Rule as "the biggest battle of his career." It is only
+about [[Home]] Rule as "the biggest battle of his career." It is only
 
 justice to him to say that he has had bigger battles than that. Nobody
 
-can believe that any body of men, bodily present, either thundered or
+can believe that any [[Body|body]] of men, bodily present, either thundered or

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 32 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 32 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -46,7 +46,7 @@ hair. “You mustn’t mind my talk, Milly. A man must have something to
 
 grumble about; and if he can’t complain that his wife harries him to
 
-death with her perversity and ill-humour, he must complain that she
+[[Death|death]] with her perversity and ill-[[Humour|humour]], he must complain that she
 
 wears him out with her kindness and gentleness.”
 
@@ -90,7 +90,7 @@ was gone, “but a thought too soft—she almost melts in one’s hands. I
 
 positively think I ill-use her sometimes, when I’ve taken too much—but
 
-I can’t help it, for she never complains, either at the time or after.
+I can’t help it, for she never complains, either at the [[Time|time]] or after.
 
 I suppose she doesn’t mind it.”
 
@@ -126,7 +126,7 @@ would.”
 
 
 
-“Well—it’s not _my_ fault,” said he, gazing carelessly up at the
+“[[Well]]—it’s not _my_ fault,” said he, gazing carelessly up at the
 
 ceiling and plunging his hands into his pockets: “if my ongoings don’t
 
@@ -148,7 +148,7 @@ us, doesn’t it? How can I help playing the deuce when I see it’s all
 
 one to her whether I behave like a Christian or like a scoundrel, such
 
-as nature made me? and how can I help teasing her when she’s so
+as [[Nature|nature]] made me? and how can I help teasing her when she’s so
 
 invitingly meek and mim, when she lies down like a spaniel at my feet
 
@@ -156,7 +156,7 @@ and never so much as squeaks to tell me that’s enough?”
 
 
 
-“If you are a tyrant by nature, the temptation is strong, I allow; but
+“If you are a [[Tyrant|tyrant]] by [[Nature|nature]], the [[Temptation|temptation]] is strong, I allow; but
 
 no generous mind delights to oppress the weak, but rather to cherish
 
@@ -180,7 +180,7 @@ that satisfies me.”
 
 
 
-“I don’t, I tell you! only when I’m in a bad humour, or a particularly
+“I don’t, I tell you! only when I’m in a bad [[Humour|humour]], or a particularly
 
 good one, and want to afflict for the pleasure of comforting; or when
 
@@ -192,7 +192,7 @@ allow, it enrages me past bearing, especially when I’m not my own man.”
 
 
 
-“As is no doubt generally the case on such occasions,” said I. “But in
+“As is no [[Doubt|doubt]] generally the case on such occasions,” said I. “But in
 
 future, Mr. Hattersley, when you see her looking flat, or crying for
 
@@ -206,7 +206,7 @@ distresses her.”
 
 “I don’t believe it. If it were, she should tell me so: I don’t like
 
-that way of moping and fretting in silence, and saying nothing: it’s
+that way of moping and fretting in [[Silence|silence]], and saying nothing: it’s
 
 not honest. How can she expect me to mend my ways at that rate?”
 
@@ -214,7 +214,7 @@ not honest. How can she expect me to mend my ways at that rate?”
 
 “Perhaps she gives you credit for having more sense than you possess,
 
-and deludes herself with the hope that you will one day see your own
+and deludes herself with the [[Hope|hope]] that you will one day see your own
 
 errors and repair them, if left to your own reflection.”
 

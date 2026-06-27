@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 2"
+title: "Bleak [[house|House]] — Chapter 2"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,9 +20,9 @@ In Fashion
 
 
 It is but a glimpse of the world of fashion that we want on this same
-miry afternoon. It is not so unlike the Court of Chancery but that we
+miry afternoon. It is not so unlike the [[Court]] of Chancery but that we
 may pass from the one scene to the other, as the crow flies. Both the
-world of fashion and the Court of Chancery are things of precedent
+world of fashion and the [[Court]] of Chancery are things of precedent
 and usage: oversleeping Rip Van Winkles who have played at strange
 games through a deal of thundery weather; sleeping beauties whom the
 knight will wake one day, when all the stopped spits in the kitchen
@@ -38,40 +38,40 @@ wool, and cannot hear the rushing of the larger worlds, and cannot
 see them as they circle round the sun. It is a deadened world, and
 its growth is sometimes unhealthy for want of air.
 
-My Lady Dedlock has returned to her house in town for a few days
-previous to her departure for Paris, where her ladyship intends to
+My [[Lady Dedlock]] has returned to her [[house]] in town for a few days
+previous to her departure for [[Paris]], where her ladyship intends to
 stay some weeks, after which her movements are uncertain. The
 fashionable intelligence says so for the comfort of the Parisians,
 and it knows all fashionable things. To know things otherwise were to
-be unfashionable. My Lady Dedlock has been down at what she calls, in
+be unfashionable. My [[Lady Dedlock]] has been down at what she calls, in
 familiar conversation, her “place” in Lincolnshire. The waters are
 out in Lincolnshire. An arch of the bridge in the park has been
 sapped and sopped away. The adjacent low-lying ground for half a mile
-in breadth is a stagnant river with melancholy trees for islands in
+in breadth is a stagnant [[River|river]] with [[Melancholy|melancholy]] trees for islands in
 it and a surface punctured all over, all day long, with falling rain.
-My Lady Dedlock’s place has been extremely dreary. The weather for
-many a day and night has been so wet that the trees seem wet through,
+My [[Lady Dedlock]]’s place has been extremely dreary. The weather for
+many a day and [[Night|night]] has been so wet that the trees seem wet through,
 and the soft loppings and prunings of the woodman’s axe can make no
 crash or crackle as they fall. The deer, looking soaked, leave
 quagmires where they pass. The shot of a rifle loses its sharpness in
 the moist air, and its smoke moves in a tardy little cloud towards
 the green rise, coppice-topped, that makes a background for the
-falling rain. The view from my Lady Dedlock’s own windows is
+falling rain. The view from my [[Lady Dedlock]]’s own windows is
 alternately a lead-coloured view and a view in Indian ink. The vases
 on the stone terrace in the foreground catch the rain all day; and
 the heavy drops fall—drip, drip, drip—upon the broad flagged
-pavement, called from old time the Ghost’s Walk, all night. On
+pavement, called from old [[Time|time]] the [[Ghost]]’s Walk, all [[Night|night]]. On
 Sundays the little church in the park is mouldy; the oaken pulpit
 breaks out into a cold sweat; and there is a general smell and taste
-as of the ancient Dedlocks in their graves. My Lady Dedlock (who is
+as of the ancient Dedlocks in their graves. My [[Lady Dedlock]] (who is
 childless), looking out in the early twilight from her boudoir at a
-keeper’s lodge and seeing the light of a fire upon the latticed
-panes, and smoke rising from the chimney, and a child, chased by a
+keeper’s lodge and seeing the light of a [[Fire|fire]] upon the latticed
+panes, and smoke rising from the chimney, and a [[Child|child]], chased by a
 woman, running out into the rain to meet the shining figure of a
 wrapped-up man coming through the gate, has been put quite out of
-temper. My Lady Dedlock says she has been “bored to death.”
+temper. My [[Lady Dedlock]] says she has been “bored to [[Death|death]].”
 
-Therefore my Lady Dedlock has come away from the place in
+Therefore my [[Lady Dedlock]] has come away from the place in
 Lincolnshire and has left it to the rain, and the crows, and the
 rabbits, and the deer, and the partridges and pheasants. The pictures
 of the Dedlocks past and gone have seemed to vanish into the damp
@@ -81,15 +81,15 @@ forth again, the fashionable intelligence—which, like the fiend, is
 omniscient of the past and present, but not the future—cannot yet
 undertake to say.
 
-Sir Leicester Dedlock is only a baronet, but there is no mightier
+[[Sir Leicester Dedlock]] is only a baronet, but there is no mightier
 baronet than he. His family is as old as the hills, and infinitely
 more respectable. He has a general opinion that the world might get
 on without hills but would be done up without Dedlocks. He would on
-the whole admit nature to be a good idea (a little low, perhaps, when
+the whole admit [[Nature|nature]] to be a good idea (a little low, perhaps, when
 not enclosed with a park-fence), but an idea dependent for its
 execution on your great county families. He is a gentleman of strict
-conscience, disdainful of all littleness and meanness and ready on
-the shortest notice to die any death you may please to mention rather
+[[Conscience|conscience]], disdainful of all littleness and meanness and ready on
+the shortest notice to die any [[Death|death]] you may please to mention rather
 than give occasion for the least impeachment of his integrity. He is
 an honourable, obstinate, truthful, high-spirited, intensely
 prejudiced, perfectly unreasonable man.
@@ -105,27 +105,27 @@ personal attractions in the highest estimation. His gallantry to my
 Lady, which has never changed since he courted her, is the one little
 touch of romantic fancy in him.
 
-Indeed, he married her for love. A whisper still goes about that she
+Indeed, he married her for [[Love|love]]. A whisper still goes about that she
 had not even family; howbeit, Sir Leicester had so much family that
 perhaps he had enough and could dispense with any more. But she had
-beauty, pride, ambition, insolent resolve, and sense enough to
+[[Beauty|beauty]], [[Pride|pride]], [[Ambition|ambition]], insolent resolve, and sense enough to
 portion out a legion of fine ladies. Wealth and station, added to
-these, soon floated her upward, and for years now my Lady Dedlock has
+these, soon floated her upward, and for years now my [[Lady Dedlock]] has
 been at the centre of the fashionable intelligence and at the top of
 the fashionable tree.
 
 How Alexander wept when he had no more worlds to conquer, everybody
-knows—or has some reason to know by this time, the matter having
-been rather frequently mentioned. My Lady Dedlock, having conquered
+knows—or has some reason to know by this [[Time|time]], the matter having
+been rather frequently mentioned. My [[Lady Dedlock]], having conquered
 HER world, fell not into the melting, but rather into the freezing,
 mood. An exhausted composure, a worn-out placidity, an equanimity of
 fatigue not to be ruffled by interest or satisfaction, are the
-trophies of her victory. She is perfectly well-bred. If she could be
+trophies of her victory. She is perfectly [[Well|well]]-bred. If she could be
 translated to heaven to-morrow, she might be expected to ascend
 without any rapture.
 
-She has beauty still, and if it be not in its heyday, it is not yet
-in its autumn. She has a fine face—originally of a character that
+She has [[Beauty|beauty]] still, and if it be not in its heyday, it is not yet
+in its [[Autumn|autumn]]. She has a fine face—originally of a character that
 would be rather called very pretty than handsome, but improved into
 classicality by the acquired expression of her fashionable state. Her
 figure is elegant and has the effect of being tall. Not that she is
@@ -135,29 +135,29 @@ authority observes that she is perfectly got up and remarks in
 commendation of her hair especially that she is the best-groomed
 woman in the whole stud.
 
-With all her perfections on her head, my Lady Dedlock has come up
+With all her perfections on her head, my [[Lady Dedlock]] has come up
 from her place in Lincolnshire (hotly pursued by the fashionable
-intelligence) to pass a few days at her house in town previous to her
-departure for Paris, where her ladyship intends to stay some weeks,
-after which her movements are uncertain. And at her house in town,
+intelligence) to pass a few days at her [[house]] in town previous to her
+departure for [[Paris]], where her ladyship intends to stay some weeks,
+after which her movements are uncertain. And at her [[house]] in town,
 upon this muddy, murky afternoon, presents himself an old-fashioned
-old gentleman, attorney-at-law and eke solicitor of the High Court of
-Chancery, who has the honour of acting as legal adviser of the
+old gentleman, attorney-at-law and eke solicitor of the High [[Court]] of
+Chancery, who has the [[Honour|honour]] of acting as legal adviser of the
 Dedlocks and has as many cast-iron boxes in his office with that name
 outside as if the present baronet were the coin of the conjuror’s
 trick and were constantly being juggled through the whole set. Across
 the hall, and up the stairs, and along the passages, and through the
 rooms, which are very brilliant in the season and very dismal out of
-it—fairy-land to visit, but a desert to live in—the old gentleman
+it—[[Fairy-Land|fairy-land]] to visit, but a [[Desert|desert]] to live in—the old gentleman
 is conducted by a Mercury in powder to my Lady’s presence.
 
 The old gentleman is rusty to look at, but is reputed to have made
-good thrift out of aristocratic marriage settlements and aristocratic
+good thrift out of aristocratic [[Marriage|marriage]] settlements and aristocratic
 wills, and to be very rich. He is surrounded by a mysterious halo of
 family confidences, of which he is known to be the silent depository.
 There are noble mausoleums rooted for centuries in retired glades of
 parks among the growing timber and the fern, which perhaps hold fewer
-noble secrets than walk abroad among men, shut up in the breast of
+noble [[Secrets|secrets]] than walk abroad among men, shut up in the breast of
 Mr. Tulkinghorn. He is of what is called the old school—a phrase
 generally meaning any school that seems never to have been young—and
 wears knee-breeches tied with ribbons, and gaiters or stockings. One
@@ -165,14 +165,14 @@ peculiarity of his black clothes and of his black stockings, be they
 silk or worsted, is that they never shine. Mute, close, irresponsive
 to any glancing light, his dress is like himself. He never converses
 when not professionally consulted. He is found sometimes, speechless
-but quite at home, at corners of dinner-tables in great country
+but quite at [[Home|home]], at corners of dinner-tables in great country
 houses and near doors of drawing-rooms, concerning which the
 fashionable intelligence is eloquent, where everybody knows him and
 where half the Peerage stops to say “How do you do, Mr. Tulkinghorn?”
 He receives these salutations with gravity and buries them along with
 the rest of his knowledge.
 
-Sir Leicester Dedlock is with my Lady and is happy to see Mr.
+[[Sir Leicester Dedlock]] is with my Lady and is happy to see Mr.
 Tulkinghorn. There is an air of prescription about him which is
 always agreeable to Sir Leicester; he receives it as a kind of
 tribute. He likes Mr. Tulkinghorn’s dress; there is a kind of tribute
@@ -182,20 +182,20 @@ legal mysteries, the butler of the legal cellar, of the Dedlocks.
 
 Has Mr. Tulkinghorn any idea of this himself? It may be so, or it may
 not, but there is this remarkable circumstance to be noted in
-everything associated with my Lady Dedlock as one of a class—as one
+everything associated with my [[Lady Dedlock]] as one of a class—as one
 of the leaders and representatives of her little world. She supposes
 herself to be an inscrutable Being, quite out of the reach and ken of
 ordinary mortals—seeing herself in her glass, where indeed she looks
 so. Yet every dim little star revolving about her, from her maid to
 the manager of the Italian Opera, knows her weaknesses, prejudices,
 follies, haughtinesses, and caprices and lives upon as accurate a
-calculation and as nice a measure of her moral nature as her
+calculation and as nice a measure of her moral [[Nature|nature]] as her
 dressmaker takes of her physical proportions. Is a new dress, a new
 custom, a new singer, a new dancer, a new form of jewellery, a new
-dwarf or giant, a new chapel, a new anything, to be set up? There are
-deferential people in a dozen callings whom my Lady Dedlock suspects
+[[Dwarf|dwarf]] or giant, a new chapel, a new anything, to be set up? There are
+deferential people in a dozen callings whom my [[Lady Dedlock]] suspects
 of nothing but prostration before her, who can tell you how to manage
-her as if she were a baby, who do nothing but nurse her all their
+her as if she were a baby, who do nothing but [[Nurse|nurse]] her all their
 lives, who, humbly affecting to follow with profound subservience,
 lead her and her whole troop after them; who, in hooking one, hook
 all and bear them off as Lemuel Gulliver bore away the stately fleet
@@ -209,11 +209,11 @@ their friends the manufacturers, “you must come to us, because we
 know where to have the fashionable people, and we can make it
 fashionable.” “If you want to get this print upon the tables of my
 high connexion, sir,” says Mr. Sladdery, the librarian, “or if you
-want to get this dwarf or giant into the houses of my high connexion,
+want to get this [[Dwarf|dwarf]] or giant into the houses of my high connexion,
 sir, or if you want to secure to this entertainment the patronage of
 my high connexion, sir, you must leave it, if you please, to me, for
 I have been accustomed to study the leaders of my high connexion,
-sir, and I may tell you without vanity that I can turn them round my
+sir, and I may tell you without [[Vanity|vanity]] that I can turn them round my
 finger”—in which Mr. Sladdery, who is an honest man, does not
 exaggerate at all.
 
@@ -224,7 +224,7 @@ Dedlock mind at present, it is very possible that he may.
 Tulkinghorn?” says Sir Leicester, giving him his hand.
 
 “Yes. It has been on again to-day,” Mr. Tulkinghorn replies, making
-one of his quiet bows to my Lady, who is on a sofa near the fire,
+one of his quiet bows to my Lady, who is on a sofa near the [[Fire|fire]],
 shading her face with a hand-screen.
 
 “It would be useless to ask,” says my Lady with the dreariness of the
@@ -242,7 +242,7 @@ sure, he has not a vital interest in the suit in question, her part
 in which was the only property my Lady brought him; and he has a
 shadowy impression that for his name—the name of Dedlock—to be in a
 cause, and not in the title of that cause, is a most ridiculous
-accident. But he regards the Court of Chancery, even if it should
+accident. But he regards the [[Court]] of Chancery, even if it should
 involve an occasional delay of justice and a trifling amount of
 confusion, as a something devised in conjunction with a variety of
 other somethings by the perfection of human wisdom for the eternal
@@ -256,16 +256,16 @@ Tulkinghorn, “and as they are short, and as I proceed upon the
 troublesome principle of begging leave to possess my clients with any
 new proceedings in a cause”—cautious man Mr. Tulkinghorn, taking no
 more responsibility than necessary—“and further, as I see you are
-going to Paris, I have brought them in my pocket.”
+going to [[Paris]], I have brought them in my pocket.”
 
-(Sir Leicester was going to Paris too, by the by, but the delight of
+(Sir Leicester was going to [[Paris]] too, by the by, but the delight of
 the fashionable intelligence was in his Lady.)
 
 Mr. Tulkinghorn takes out his papers, asks permission to place them
 on a golden talisman of a table at my Lady’s elbow, puts on his
 spectacles, and begins to read by the light of a shaded lamp.
 
-“‘In Chancery. Between John Jarndyce—’”
+“‘In Chancery. Between [[John Jarndyce]]—’”
 
 My Lady interrupts, requesting him to miss as many of the formal
 horrors as he can.
@@ -274,7 +274,7 @@ Mr. Tulkinghorn glances over his spectacles and begins again lower
 down. My Lady carelessly and scornfully abstracts her attention. Sir
 Leicester in a great chair looks at the file and appears to have a
 stately liking for the legal repetitions and prolixities as ranging
-among the national bulwarks. It happens that the fire is hot where my
+among the national bulwarks. It happens that the [[Fire|fire]] is hot where my
 Lady sits and that the hand-screen is more beautiful than useful,
 being priceless but small. My Lady, changing her position, sees the
 papers on the table—looks at them nearer—looks at them nearer
@@ -297,17 +297,17 @@ face. Sir Leicester dozes, starts up suddenly, and cries, “Eh? What
 do you say?”
 
 “I say I am afraid,” says Mr. Tulkinghorn, who had risen hastily,
-“that Lady Dedlock is ill.”
+“that [[Lady Dedlock]] is ill.”
 
 “Faint,” my Lady murmurs with white lips, “only that; but it is like
-the faintness of death. Don’t speak to me. Ring, and take me to my
+the faintness of [[Death|death]]. Don’t speak to me. Ring, and take me to my
 room!”
 
-Mr. Tulkinghorn retires into another chamber; bells ring, feet
-shuffle and patter, silence ensues. Mercury at last begs Mr.
+Mr. Tulkinghorn retires into another chamber; [[Bells|bells]] ring, feet
+shuffle and patter, [[Silence|silence]] ensues. Mercury at last begs Mr.
 Tulkinghorn to return.
 
 “Better now,” quoth Sir Leicester, motioning the lawyer to sit down
-and read to him alone. “I have been quite alarmed. I never knew my
+and read to him [[Alone|alone]]. “I have been quite alarmed. I never knew my
 Lady swoon before. But the weather is extremely trying, and she
-really has been bored to death down at our place in Lincolnshire.”
+really has been bored to [[Death|death]] down at our place in Lincolnshire.”

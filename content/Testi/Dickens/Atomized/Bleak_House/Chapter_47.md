@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 47"
+title: "Bleak [[house|House]] — Chapter 47"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,7 +21,7 @@ Jo’s Will
 
 As Allan Woodcourt and Jo proceed along the streets where the high
 church spires and the distances are so near and clear in the morning
-light that the city itself seems renewed by rest, Allan revolves in
+light that the [[City|city]] itself seems renewed by rest, Allan revolves in
 his mind how and where he shall bestow his companion. “It surely is a
 strange fact,” he considers, “that in the heart of a civilized world
 this creature in human form should be more difficult to dispose of
@@ -56,7 +56,7 @@ breath, Jo!” “It draws,” says Jo, “as heavy as a cart.” He might add,
 “And rattles like it,” but he only mutters, “I’m a-moving on, sir.”
 
 Allan looks about for an apothecary’s shop. There is none at hand,
-but a tavern does as well or better. He obtains a little measure of
+but a tavern does as [[Well|well]] or better. He obtains a little measure of
 wine and gives the lad a portion of it very carefully. He begins to
 revive almost as soon as it passes his lips. “We may repeat that
 dose, Jo,” observes Allan after watching him with his attentive face.
@@ -70,27 +70,27 @@ he is warmed and refreshed. If a face so shaded can brighten, his
 face brightens somewhat; and by little and little he eats the slice
 of bread he had so hopelessly laid down. Observant of these signs of
 improvement, Allan engages him in conversation and elicits to his no
-small wonder the adventure of the lady in the veil, with all its
+small [[Wonder|wonder]] the adventure of the lady in the veil, with all its
 consequences. Jo slowly munches as he slowly tells it. When he has
 finished his story and his bread, they go on again.
 
 Intending to refer his difficulty in finding a temporary place of
 refuge for the boy to his old patient, zealous little Miss Flite,
-Allan leads the way to the court where he and Jo first foregathered.
+Allan leads the way to the [[Court|court]] where he and Jo first foregathered.
 But all is changed at the rag and bottle shop; Miss Flite no longer
 lodges there; it is shut up; and a hard-featured female, much
-obscured by dust, whose age is a problem, but who is indeed no other
+obscured by [[Dust|dust]], whose age is a problem, but who is indeed no other
 than the interesting Judy, is tart and spare in her replies. These
 sufficing, however, to inform the visitor that Miss Flite and her
-birds are domiciled with a Mrs. Blinder, in Bell Yard, he repairs to
+[[Birds|birds]] are domiciled with a Mrs. Blinder, in Bell Yard, he repairs to
 that neighbouring place, where Miss Flite (who rises early that she
 may be punctual at the divan of justice held by her excellent friend
-the Chancellor) comes running downstairs with tears of welcome and
+the Chancellor) comes running downstairs with [[Tears|tears]] of welcome and
 with open arms.
 
 “My dear physician!” cries Miss Flite. “My meritorious,
 distinguished, honourable officer!” She uses some odd expressions,
-but is as cordial and full of heart as sanity itself can be—more so
+but is as cordial and full of heart as [[Sanity|sanity]] itself can be—more so
 than it often is. Allan, very patient with her, waits until she has
 no more raptures to express, then points out Jo, trembling in a
 doorway, and tells her how he comes there.
@@ -117,7 +117,7 @@ encouragement, that this walking about will soon be over now; and
 they repair to the general’s. Fortunately it is not far.
 
 From the exterior of George’s Shooting Gallery, and the long entry,
-and the bare perspective beyond it, Allan Woodcourt augurs well. He
+and the bare perspective beyond it, Allan Woodcourt augurs [[Well|well]]. He
 also descries promise in the figure of Mr. George himself, striding
 towards them in his morning exercise with his pipe in his mouth, no
 stock on, and his muscular arms, developed by broadsword and
@@ -145,7 +145,7 @@ which, in his politeness, he has testified some intention of doing.
 experience that it’s not disagreeable to Miss Flite, and since it’s
 equally agreeable to yourself—” and finishes the sentence by putting
 it between his lips again. Allan proceeds to tell him all he knows
-about Jo, unto which the trooper listens with a grave face.
+about Jo, unto which the trooper listens with a [[Grave|grave]] face.
 
 “And that’s the lad, sir, is it?” he inquires, looking along the
 entry to where Jo stands staring up at the great letters on the
@@ -171,18 +171,18 @@ mentioned that party’s name. Is it a secret, sir?”
 
 “The boy makes it one. But his name is Bucket.”
 
-“Bucket the detective, sir?”
+“Bucket the [[Detective|detective]], sir?”
 
 “The same man.”
 
 “The man is known to me, sir,” returns the trooper after blowing out
 a cloud of smoke and squaring his chest, “and the boy is so far
 correct that he undoubtedly is a—rum customer.” Mr. George smokes
-with a profound meaning after this and surveys Miss Flite in silence.
+with a profound meaning after this and surveys Miss Flite in [[Silence|silence]].
 
 “Now, I wish Mr. Jarndyce and Miss Summerson at least to know that
 this Jo, who tells so strange a story, has reappeared, and to have it
-in their power to speak with him if they should desire to do so.
+in their power to speak with him if they should [[Desire|desire]] to do so.
 Therefore I want to get him, for the present moment, into any poor
 lodging kept by decent people where he would be admitted. Decent
 people and Jo, Mr. George,” says Allan, following the direction of
@@ -197,8 +197,8 @@ figure and countenance, into the trooper’s face. After a few more
 puffs at his pipe, the trooper looks down askant at the little man,
 and the little man winks up at the trooper.
 
-“Well, sir,” says Mr. George, “I can assure you that I would
-willingly be knocked on the head at any time if it would be at all
+“[[Well]], sir,” says Mr. George, “I can assure you that I would
+willingly be knocked on the head at any [[Time|time]] if it would be at all
 agreeable to Miss Summerson, and consequently I esteem it a privilege
 to do that young lady any service, however small. We are naturally in
 the vagabond way here, sir, both myself and Phil. You see what the
@@ -228,7 +228,7 @@ that he may be—I do not say that he is—too far gone to recover.”
 
 “Do you consider him in present danger, sir?” inquires the trooper.
 
-“Yes, I fear so.”
+“Yes, I [[Fear|fear]] so.”
 
 “Then, sir,” returns the trooper in a decisive manner, “it appears to
 me—being naturally in the vagabond way myself—that the sooner he
@@ -239,14 +239,14 @@ and the trooper, having smoked his pipe, lays it by. Jo is brought
 in. He is not one of Mrs. Pardiggle’s Tockahoopo Indians; he is not
 one of Mrs. Jellyby’s lambs, being wholly unconnected with
 Borrioboola-Gha; he is not softened by distance and unfamiliarity; he
-is not a genuine foreign-grown savage; he is the ordinary home-made
-article. Dirty, ugly, disagreeable to all the senses, in body a
-common creature of the common streets, only in soul a heathen. Homely
+is not a genuine foreign-grown savage; he is the ordinary [[Home|home]]-made
+article. Dirty, ugly, disagreeable to all the senses, in [[Body|body]] a
+common creature of the common streets, only in [[Soul|soul]] a heathen. Homely
 filth begrimes him, homely parasites devour him, homely sores are in
 him, homely rags are on him; native ignorance, the growth of English
-soil and climate, sinks his immortal nature lower than the beasts
+soil and climate, sinks his immortal [[Nature|nature]] lower than the beasts
 that perish. Stand forth, Jo, in uncompromising colours! From the
-sole of thy foot to the crown of thy head, there is nothing
+sole of thy foot to the [[Crown|crown]] of thy head, there is nothing
 interesting about thee.
 
 He shuffles slowly into Mr. George’s gallery and stands huddled
@@ -259,7 +259,7 @@ of humanity.
 
 “Look here, Jo!” says Allan. “This is Mr. George.”
 
-Jo searches the floor for some time longer, then looks up for a
+Jo searches the floor for some [[Time|time]] longer, then looks up for a
 moment, and then down again.
 
 “He is a kind friend to you, for he is going to give you lodging room
@@ -270,7 +270,7 @@ a little more consideration and some backing and changing of the foot
 on which he rests, he mutters that he is “wery thankful.”
 
 “You are quite safe here. All you have to do at present is to be
-obedient and to get strong. And mind you tell us the truth here,
+obedient and to get strong. And mind you tell us the [[Truth|truth]] here,
 whatever you do, Jo.”
 
 “Wishermaydie if I don’t, sir,” says Jo, reverting to his favourite
@@ -283,7 +283,7 @@ to you.”
 
 “My intention merely was, sir,” observes Mr. George, amazingly broad
 and upright, “to point out to him where he can lie down and get a
-thorough good dose of sleep. Now, look here.” As the trooper speaks,
+thorough good dose of [[Sleep|sleep]]. Now, look here.” As the trooper speaks,
 he conducts them to the other end of the gallery and opens one of the
 little cabins. “There you are, you see! Here is a mattress, and here
 you may rest, on good behaviour, as long as Mr., I ask your pardon,
@@ -309,8 +309,8 @@ out a few shillings in getting him one or two coarse articles—”
 purse, “it is the very favour I would have asked.”
 
 Phil Squod and Jo are sent out immediately on this work of
-improvement. Miss Flite, quite enraptured by her success, makes the
-best of her way to court, having great fears that otherwise her
+improvement. Miss Flite, quite enraptured by her [[success]], makes the
+best of her way to [[Court|court]], having great fears that otherwise her
 friend the Chancellor may be uneasy about her or may give the
 judgment she has so long expected in her absence, and observing
 “which you know, my dear physician, and general, after so many years,
@@ -320,7 +320,7 @@ near at hand, soon returns to find the trooper walking up and down
 the gallery, and to fall into step and walk with him.
 
 “I take it, sir,” says Mr. George, “that you know Miss Summerson
-pretty well?”
+pretty [[Well|well]]?”
 
 Yes, it appears.
 
@@ -340,7 +340,7 @@ eye, rapidly measures his height and build, and seems to approve of
 him.
 
 “Since you have been out, sir, I have been thinking that I
-unquestionably know the rooms in Lincoln’s Inn Fields, where Bucket
+unquestionably know the rooms in [[Lincoln]]’s Inn Fields, where Bucket
 took the lad, according to his account. Though he is not acquainted
 with the name, I can help you to it. It’s Tulkinghorn. That’s what it
 is.”
@@ -361,7 +361,7 @@ what kind of man?”
 “Why, then I’ll tell you, sir,” returns the trooper, stopping short
 and folding his arms on his square chest so angrily that his face
 fires and flushes all over; “he is a confoundedly bad kind of man. He
-is a slow-torturing kind of man. He is no more like flesh and blood
+is a slow-torturing kind of man. He is no more like flesh and [[Blood|blood]]
 than a rusty old carbine is. He is a kind of man—by George!—that
 has caused me more restlessness, and more uneasiness, and more
 dissatisfaction with myself than all other men put together. That’s
@@ -375,17 +375,17 @@ fault of yours, sir; but you shall judge. He has got a power over me.
 He is the man I spoke of just now as being able to tumble me out of
 this place neck and crop. He keeps me on a constant see-saw. He won’t
 hold off, and he won’t come on. If I have a payment to make him, or
-time to ask him for, or anything to go to him about, he don’t see me,
-don’t hear me—passes me on to Melchisedech’s in Clifford’s Inn,
-Melchisedech’s in Clifford’s Inn passes me back again to him—he
+[[Time|time]] to ask him for, or anything to go to him about, he don’t see me,
+don’t hear me—passes me on to Melchisedech’s in [[Clifford]]’s Inn,
+Melchisedech’s in [[Clifford]]’s Inn passes me back again to him—he
 keeps me prowling and dangling about him as if I was made of the same
-stone as himself. Why, I spend half my life now, pretty well,
+stone as himself. Why, I spend half my life now, pretty [[Well|well]],
 loitering and dodging about his door. What does he care? Nothing.
 Just as much as the rusty old carbine I have compared him to. He
 chafes and goads me till—Bah! Nonsense! I am forgetting myself. Mr.
 Woodcourt,” the trooper resumes his march, “all I say is, he is an
 old man; but I am glad I shall never have the chance of setting spurs
-to my horse and riding at him in a fair field. For if I had that
+to my [[Horse|horse]] and riding at him in a fair field. For if I had that
 chance, in one of the humours he drives me into—he’d go down, sir!”
 
 Mr. George has been so excited that he finds it necessary to wipe his
@@ -394,17 +394,17 @@ away with the national anthem, some involuntary shakings of his head
 and heavings of his chest still linger behind, not to mention an
 occasional hasty adjustment with both hands of his open shirt-collar,
 as if it were scarcely open enough to prevent his being troubled by a
-choking sensation. In short, Allan Woodcourt has not much doubt about
+choking sensation. In short, Allan Woodcourt has not much [[Doubt|doubt]] about
 the going down of Mr. Tulkinghorn on the field referred to.
 
 Jo and his conductor presently return, and Jo is assisted to his
 mattress by the careful Phil, to whom, after due administration of
 medicine by his own hands, Allan confides all needful means and
-instructions. The morning is by this time getting on apace. He
+instructions. The morning is by this [[Time|time]] getting on apace. He
 repairs to his lodgings to dress and breakfast, and then, without
 seeking rest, goes away to Mr. Jarndyce to communicate his discovery.
 
-With him Mr. Jarndyce returns alone, confidentially telling him that
+With him Mr. Jarndyce returns [[Alone|alone]], confidentially telling him that
 there are reasons for keeping this matter very quiet indeed and
 showing a serious interest in it. To Mr. Jarndyce, Jo repeats in
 substance what he said in the morning, without any material
@@ -412,7 +412,7 @@ variation. Only that cart of his is heavier to draw, and draws with a
 hollower sound.
 
 “Let me lay here quiet and not be chivied no more,” falters Jo, “and
-be so kind any person as is a-passin nigh where I used fur to sleep,
+be so kind any person as is a-passin nigh where I used fur to [[Sleep|sleep]],
 as jist to say to Mr. Sangsby that Jo, wot he known once, is a-moving
 on right forards with his duty, and I’ll be wery thankful. I’d be
 more thankful than I am aready if it wos any ways possible for an
@@ -420,15 +420,15 @@ unfortnet to be it.”
 
 He makes so many of these references to the law-stationer in the
 course of a day or two that Allan, after conferring with Mr.
-Jarndyce, good-naturedly resolves to call in Cook’s Court, the
+Jarndyce, good-naturedly resolves to call in Cook’s [[Court]], the
 rather, as the cart seems to be breaking down.
 
-To Cook’s Court, therefore, he repairs. Mr. Snagsby is behind his
+To Cook’s [[Court]], therefore, he repairs. Mr. Snagsby is behind his
 counter in his grey coat and sleeves, inspecting an indenture of
 several skins which has just come in from the engrosser’s, an immense
-desert of law-hand and parchment, with here and there a resting-place
+[[Desert|desert]] of law-hand and parchment, with here and there a resting-place
 of a few large letters to break the awful monotony and save the
-traveller from despair. Mr Snagsby puts up at one of these inky wells
+traveller from [[Despair|despair]]. Mr Snagsby puts up at one of these inky wells
 and greets the stranger with his cough of general preparation for
 business.
 
@@ -445,20 +445,20 @@ once—”
 “It’s come at last!” thinks the afflicted stationer, as recollection
 breaks upon him. “It’s got to a head now and is going to burst!” But
 he has sufficient presence of mind to conduct his visitor into the
-little counting-house and to shut the door.
+little counting-[[house]] and to shut the door.
 
 “Are you a married man, sir?”
 
 “No, I am not.”
 
 “Would you make the attempt, though single,” says Mr. Snagsby in a
-melancholy whisper, “to speak as low as you can? For my little woman
+[[Melancholy|melancholy]] whisper, “to speak as low as you can? For my little woman
 is a-listening somewheres, or I’ll forfeit the business and five
 hundred pound!”
 
 In deep dejection Mr. Snagsby sits down on his stool, with his back
 against his desk, protesting, “I never had a secret of my own, sir. I
-can’t charge my memory with ever having once attempted to deceive my
+can’t charge my [[Memory|memory]] with ever having once attempted to deceive my
 little woman on my own account since she named the day. I wouldn’t
 have done it, sir. Not to put too fine a point upon it, I couldn’t
 have done it, I dursn’t have done it. Whereas, and nevertheless, I
@@ -481,7 +481,7 @@ are a single person, sir, and may you long be spared to ask a married
 person such a question!”
 
 With this beneficent wish, Mr. Snagsby coughs a cough of dismal
-resignation and submits himself to hear what the visitor has to
+[[Resignation|resignation]] and submits himself to hear what the visitor has to
 communicate.
 
 “There again!” says Mr. Snagsby, who, between the earnestness of his
@@ -503,10 +503,10 @@ evening comes, but it may turn out that Mrs. Snagsby is as quiet a
 manager as he.
 
 Jo is very glad to see his old friend and says, when they are left
-alone, that he takes it uncommon kind as Mr. Sangsby should come so
+[[Alone|alone]], that he takes it uncommon kind as Mr. Sangsby should come so
 far out of his way on accounts of sich as him. Mr. Snagsby, touched
 by the spectacle before him, immediately lays upon the table half a
-crown, that magic balsam of his for all kinds of wounds.
+[[Crown|crown]], that [[Magic|magic]] balsam of his for all kinds of wounds.
 
 “And how do you find yourself, my poor lad?” inquires the stationer
 with his cough of sympathy.
@@ -515,7 +515,7 @@ with his cough of sympathy.
 nothink. I’m more cumfbler nor you can’t think. Mr. Sangsby! I’m wery
 sorry that I done it, but I didn’t go fur to do it, sir.”
 
-The stationer softly lays down another half-crown and asks him what
+The stationer softly lays down another half-[[Crown|crown]] and asks him what
 it is that he is sorry for having done.
 
 “Mr. Sangsby,” says Jo, “I went and giv a illness to the lady as wos
@@ -526,12 +526,12 @@ yesday, and she ses, ‘Ah, Jo!’ she ses. ‘We thought we’d lost you,
 Jo!’ she ses. And she sits down a-smilin so quiet, and don’t pass a
 word nor yit a look upon me for having done it, she don’t, and I
 turns agin the wall, I doos, Mr. Sangsby. And Mr. Jarnders, I see him
-a-forced to turn away his own self. And Mr. Woodcot, he come fur to
+a-forced to turn away his own [[Self|self]]. And Mr. Woodcot, he come fur to
 giv me somethink fur to ease me, wot he’s allus a-doin’ on day and
-night, and wen he come a-bending over me and a-speakin up so bold, I
-see his tears a-fallin, Mr. Sangsby.”
+[[Night|night]], and wen he come a-bending over me and a-speakin up so bold, I
+see his [[Tears|tears]] a-fallin, Mr. Sangsby.”
 
-The softened stationer deposits another half-crown on the table.
+The softened stationer deposits another half-[[Crown|crown]] on the table.
 Nothing less than a repetition of that infallible remedy will relieve
 his feelings.
 
@@ -560,20 +560,20 @@ Jo laughs again. “Thankee, Mr. Sangsby. It’s wery kind of you, sir,
 and it makes me more cumfbler nor I was afore.”
 
 The meek little stationer, with a broken and unfinished cough, slips
-down his fourth half-crown—he has never been so close to a case
+down his fourth half-[[Crown|crown]]—he has never been so close to a case
 requiring so many—and is fain to depart. And Jo and he, upon this
 little earth, shall meet no more. No more.
 
-For the cart so hard to draw is near its journey’s end and drags over
-stony ground. All round the clock it labours up the broken steps,
+For the cart so hard to draw is near its [[Journey|journey]]’s end and drags over
+stony ground. All round the [[Clock|clock]] it labours up the broken steps,
 shattered and worn. Not many times can the sun rise and behold it
-still upon its weary road.
+still upon its weary [[Road|road]].
 
-Phil Squod, with his smoky gunpowder visage, at once acts as nurse
+Phil Squod, with his smoky gunpowder visage, at once acts as [[Nurse|nurse]]
 and works as armourer at his little table in a corner, often looking
 round and saying with a nod of his green-baize cap and an encouraging
 elevation of his one eyebrow, “Hold up, my boy! Hold up!” There, too,
-is Mr. Jarndyce many a time, and Allan Woodcourt almost always, both
+is Mr. Jarndyce many a [[Time|time]], and Allan Woodcourt almost always, both
 thinking, much, how strangely fate has entangled this rough outcast
 in the web of very different lives. There, too, the trooper is a
 frequent visitor, filling the doorway with his athletic figure and,
@@ -581,7 +581,7 @@ from his superfluity of life and strength, seeming to shed down
 temporary vigour upon Jo, who never fails to speak more robustly in
 answer to his cheerful words.
 
-Jo is in a sleep or in a stupor to-day, and Allan Woodcourt, newly
+Jo is in a [[Sleep|sleep]] or in a stupor to-day, and Allan Woodcourt, newly
 arrived, stands by him, looking down upon his wasted form. After a
 while he softly seats himself upon the bedside with his face towards
 him—just as he sat in the law-writer’s room—and touches his chest
@@ -590,54 +590,54 @@ more.
 
 The trooper stands in the doorway, still and silent. Phil has stopped
 in a low clinking noise, with his little hammer in his hand. Mr.
-Woodcourt looks round with that grave professional interest and
+Woodcourt looks round with that [[Grave|grave]] professional interest and
 attention on his face, and glancing significantly at the trooper,
 signs to Phil to carry his table out. When the little hammer is next
 used, there will be a speck of rust upon it.
 
-“Well, Jo! What is the matter? Don’t be frightened.”
+“[[Well]], Jo! What is the matter? Don’t be frightened.”
 
 “I thought,” says Jo, who has started and is looking round, “I
-thought I was in Tom-all-Alone’s agin. Ain’t there nobody here but
+thought I was in Tom-all-[[Alone]]’s agin. Ain’t there nobody here but
 you, Mr. Woodcot?”
 
 “Nobody.”
 
-“And I ain’t took back to Tom-all-Alone’s. Am I, sir?”
+“And I ain’t took back to Tom-all-[[Alone]]’s. Am I, sir?”
 
 “No.” Jo closes his eyes, muttering, “I’m wery thankful.”
 
 After watching him closely a little while, Allan puts his mouth very
 near his ear and says to him in a low, distinct voice, “Jo! Did you
-ever know a prayer?”
+ever know a [[prayer]]?”
 
 “Never knowd nothink, sir.”
 
-“Not so much as one short prayer?”
+“Not so much as one short [[prayer]]?”
 
 “No, sir. Nothink at all. Mr. Chadbands he wos a-prayin wunst at Mr.
 Sangsby’s and I heerd him, but he sounded as if he wos a-speakin’ to
 hisself, and not to me. He prayed a lot, but I couldn’t make out
 nothink on it. Different times there was other genlmen come down
-Tom-all-Alone’s a-prayin, but they all mostly sed as the t’other
+Tom-all-[[Alone]]’s a-prayin, but they all mostly sed as the t’other
 ’wuns prayed wrong, and all mostly sounded to be a-talking to
 theirselves, or a-passing blame on the t’others, and not a-talkin to
 us. WE never knowd nothink. I never knowd what it wos all about.”
 
-It takes him a long time to say this, and few but an experienced and
+It takes him a long [[Time|time]] to say this, and few but an experienced and
 attentive listener could hear, or, hearing, understand him. After a
-short relapse into sleep or stupor, he makes, of a sudden, a strong
+short relapse into [[Sleep|sleep]] or stupor, he makes, of a sudden, a strong
 effort to get out of bed.
 
 “Stay, Jo! What now?”
 
-“It’s time for me to go to that there berryin ground, sir,” he
+“It’s [[Time|time]] for me to go to that there berryin ground, sir,” he
 returns with a wild look.
 
 “Lie down, and tell me. What burying ground, Jo?”
 
 “Where they laid him as wos wery good to me, wery good to me indeed,
-he wos. It’s time fur me to go down to that there berryin ground,
+he wos. It’s [[Time|time]] fur me to go down to that there berryin ground,
 sir, and ask to be put along with him. I wants to go there and be
 berried. He used fur to say to me, ‘I am as poor as you to-day, Jo,’
 he ses. I wants to tell him that I am as poor as him now and have
@@ -657,7 +657,7 @@ sir. Is there any light a-comin?”
 
 “It is coming fast, Jo.”
 
-Fast. The cart is shaken all to pieces, and the rugged road is very
+Fast. The cart is shaken all to pieces, and the rugged [[Road|road]] is very
 near its end.
 
 “Jo, my poor fellow!”

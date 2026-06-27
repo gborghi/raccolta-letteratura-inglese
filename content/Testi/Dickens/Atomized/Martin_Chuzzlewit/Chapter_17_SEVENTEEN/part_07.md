@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 7)"
+title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,19 +19,19 @@ the boarders who dropped in one by one from their stores and
 counting-houses, or the neighbouring bar-rooms, and, after taking long
 pulls from a great white waterjug upon the sideboard, and lingering with
 a kind of hideous fascination near the brass spittoons, lounged heavily
-to bed; until at length Mark Tapley came and shook him by the arm,
+to bed; until at length [[Mark Tapley]] came and shook him by the arm,
 supposing him asleep.
 
 ‘Mark!’ he cried, starting.
 
 ‘All right, sir,’ said that cheerful follower, snuffing with his fingers
 the candle he bore. ‘It ain’t a very large bed, your’n, sir; and a man
-as wasn’t thirsty might drink, afore breakfast, all the water you’ve
-got to wash in, and afterwards eat the towel. But you’ll sleep without
-rocking to-night, sir.’
+as wasn’t thirsty might drink, afore breakfast, all the [[Water|water]] you’ve
+got to wash in, and afterwards eat the towel. But you’ll [[Sleep|sleep]] without
+rocking to-[[Night|night]], sir.’
 
-‘I feel as if the house were on the sea’ said Martin, staggering when he
-rose; ‘and am utterly wretched.’
+‘I feel as if the [[house]] were on the sea’ said Martin, staggering when he
+[[Rose|rose]]; ‘and am utterly wretched.’
 
 ‘I’m as jolly as a sandboy, myself, sir,’ said Mark. ‘But, Lord, I have
 reason to be! I ought to have been born here; that’s my opinion. Take
@@ -40,16 +40,16 @@ the gentleman aboard the Screw as had the very small trunk, sir?’
 
 ‘The valise? Yes.’
 
-‘Well, sir, there’s been a delivery of clean clothes from the wash
-to-night, and they’re put outside the bedroom doors here. If you take
+‘[[Well]], sir, there’s been a delivery of clean clothes from the wash
+to-[[Night|night]], and they’re put outside the bedroom doors here. If you take
 notice as we go up, what a very few shirts there are, and what a many
 fronts, you’ll penetrate the mystery of his packing.’
 
 But Martin was too weary and despondent to take heed of anything, so
 had no interest in this discovery. Mr Tapley, nothing dashed by his
-indifference, conducted him to the top of the house, and into the
+indifference, conducted him to the top of the [[house]], and into the
 bed-chamber prepared for his reception; which was a very little narrow
-room, with half a window in it; a bedstead like a chest without a lid;
+room, with half a [[Window|window]] in it; a bedstead like a chest without a lid;
 two chairs; a piece of carpet, such as shoes are commonly tried upon
 at a ready-made establishment in England; a little looking-glass nailed
 against the wall; and a washing-table, with a jug and ewer, that might
@@ -62,7 +62,7 @@ said Mark. ‘They’ve certainly got a touch of the ‘phoby, sir.’
 one of the chairs ‘I am quite knocked up--dead beat, Mark.’
 
 ‘You won’t say that to-morrow morning, sir,’ returned Mr Tapley; ‘nor
-even to-night, sir, when you’ve made a trial of this.’ With which he
+even to-[[Night|night]], sir, when you’ve made a trial of this.’ With which he
 produced a very large tumbler, piled up to the brim with little blocks
 of clear transparent ice, through which one or two thin slices of lemon,
 and a golden liquid of delicious appearance, appealed from the still
@@ -98,18 +98,18 @@ bootjack.
 if we should be left in some wild part of this country without goods or
 money!’
 
-‘Well, sir!’ replied the imperturbable Tapley; ‘from what we’ve seen
+‘[[Well]], sir!’ replied the imperturbable Tapley; ‘from what we’ve seen
 already, I don’t know whether, under those circumstances, we shouldn’t
 do better in the wild parts than in the tame ones.’
 
-‘Oh, Tom Pinch, Tom Pinch!’ said Martin, in a thoughtful tone; ‘what
+‘Oh, [[Tom Pinch]], [[Tom Pinch]]!’ said Martin, in a thoughtful tone; ‘what
 would I give to be again beside you, and able to hear your voice, though
 it were even in the old bedroom at Pecksniff’s!’
 
 ‘Oh, Dragon, Dragon!’ echoed Mark, cheerfully, ‘if there warn’t any
-water between you and me, and nothing faint-hearted-like in going back,
+[[Water|water]] between you and me, and nothing faint-hearted-like in going back,
 I don’t know that I mightn’t say the same. But here am I, Dragon, in
-New York, America; and there are you in Wiltshire, Europe; and there’s a
+[[New York]], [[america|America]]; and there are you in Wiltshire, Europe; and there’s a
 fortune to make, Dragon, and a beautiful young lady to make it for; and
 whenever you go to see the Monument, Dragon, you mustn’t give in on the
 doorsteps, or you’ll never get up to the top!’
@@ -119,17 +119,17 @@ doorsteps, or you’ll never get up to the top!’
 ‘In all the story-books as ever I read, sir, the people as looked
 backward was turned into stones,’ replied Mark; ‘and my opinion always
 was, that they brought it on themselves, and it served ‘em right. I wish
-you good night, sir, and pleasant dreams!’
+you good [[Night|night]], sir, and pleasant [[Dreams|dreams]]!’
 
-‘They must be of home, then,’ said Martin, as he lay down in bed.
+‘They must be of [[Home|home]], then,’ said Martin, as he lay down in bed.
 
-‘So I say, too,’ whispered Mark Tapley, when he was out of hearing and
-in his own room; ‘for if there don’t come a time afore we’re well out of
+‘So I say, too,’ whispered [[Mark Tapley]], when he was out of hearing and
+in his own room; ‘for if there don’t come a [[Time|time]] afore we’re [[Well|well]] out of
 this, when there’ll be a little more credit in keeping up one’s jollity,
 I’m a United Statesman!’
 
-Leaving them to blend and mingle in their sleep the shadows of objects
+Leaving them to blend and mingle in their [[Sleep|sleep]] the shadows of objects
 afar off, as they take fantastic shapes upon the wall in the dim light
 of thought without control, be it the part of this slight chronicle--a
-dream within a dream--as rapidly to change the scene, and cross the
+dream within [[A Dream|a dream]]--as rapidly to change the scene, and [[Cross|cross]] the
 ocean to the English shore.

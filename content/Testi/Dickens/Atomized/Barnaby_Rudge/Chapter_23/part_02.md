@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 23 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 23 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘I’m well enough,’ said Hugh impatiently.
+‘I’m [[Well|well]] enough,’ said Hugh impatiently.
 
 ‘You look a perfect marvel of health. Sit down.’
 
@@ -26,24 +26,24 @@ dressing-glass. ‘Please yourself by all means.’
 
 Having said this in the politest and blandest tone possible, he went on
 dressing, and took no further notice of his guest, who stood in the same
-spot as uncertain what to do next, eyeing him sulkily from time to time.
+spot as uncertain what to do next, eyeing him sulkily from [[Time|time]] to [[Time|time]].
 
-‘Are you going to speak to me, master?’ he said, after a long silence.
+‘Are you going to speak to me, master?’ he said, after a long [[Silence|silence]].
 
 ‘My worthy creature,’ returned Mr Chester, ‘you are a little ruffled and
-out of humour. I’ll wait till you’re quite yourself again. I am in no
+out of [[Humour|humour]]. I’ll wait till you’re quite yourself again. I am in no
 hurry.’
 
 This behaviour had its intended effect. It humbled and abashed the man,
 and made him still more irresolute and uncertain. Hard words he could
 have returned, violence he would have repaid with interest; but this
-cool, complacent, contemptuous, self-possessed reception, caused him to
+cool, complacent, contemptuous, [[Self|self]]-possessed reception, caused him to
 feel his inferiority more completely than the most elaborate arguments.
 Everything contributed to this effect. His own rough speech, contrasted
 with the soft persuasive accents of the other; his rude bearing, and
 Mr Chester’s polished manner; the disorder and negligence of his
 ragged dress, and the elegant attire he saw before him; with all the
-unaccustomed luxuries and comforts of the room, and the silence that
+unaccustomed luxuries and comforts of the room, and the [[Silence|silence]] that
 gave him leisure to observe these things, and feel how ill at ease they
 made him; all these influences, which have too often some effect on
 tutored minds and become of almost resistless power when brought to bear
@@ -63,7 +63,7 @@ the man that you privately left your whip with before you rode away from
 the Maypole, and told to bring it back whenever he might want to see you
 on a certain subject?’
 
-‘No doubt the same, or you have a twin brother,’ said Mr Chester,
+‘No [[Doubt|doubt]] the same, or you have a twin brother,’ said Mr Chester,
 glancing at the reflection of his anxious face; ‘which is not probable,
 I should say.’
 
@@ -90,7 +90,7 @@ his eye upon it without the least perceptible surprise or pleasure.
 small patch of sticking plaster on a very small pimple near the corner
 of his mouth. ‘What else?’
 
-‘Well a kiss,’ replied Hugh, after some hesitation.
+‘[[Well]] a kiss,’ replied Hugh, after some hesitation.
 
 ‘And what else?’
 
@@ -109,7 +109,7 @@ up again.
 
 ‘You took that for yourself my excellent friend,’ he said, ‘and may keep
 it. I am neither a thief nor a receiver. Don’t show it to me. You had
-better hide it again, and lose no time. Don’t let me see where you put
+better hide it again, and lose no [[Time|time]]. Don’t let me see where you put
 it either,’ he added, turning away his head.
 
 ‘You’re not a receiver!’ said Hugh bluntly, despite the increasing awe
@@ -125,7 +125,7 @@ Hugh drew his sleeve across his lips, and gruffly answered yes.
 glass.’
 
 He obeyed. His patron followed him with his eyes, and when his back was
-turned, smiled as he had never done when he stood beside the mirror.
+turned, smiled as he had never done when he stood beside the [[Mirror|mirror]].
 On his return he filled the glass, and bade him drink. That dram
 despatched, he poured him out another, and another.
 
@@ -145,8 +145,8 @@ empty glass above his head, and throwing himself into a rude dancing
 attitude. ‘I always am. Why not? Ha ha ha! What’s so good to me as this?
 What ever has been? What else has kept away the cold on bitter nights,
 and driven hunger off in starving times? What else has given me the
-strength and courage of a man, when men would have left me to die, a
-puny child? I should never have had a man’s heart but for this. I
+strength and [[Courage|courage]] of a man, when men would have left me to die, a
+puny [[Child|child]]? I should never have had a man’s heart but for this. I
 should have died in a ditch. Where’s he who when I was a weak and sickly
 wretch, with trembling legs and fading sight, bade me cheer up, as this
 did? I never knew him; not I. I drink to the drink, master. Ha ha ha!’

@@ -1,5 +1,5 @@
 ---
-title: "Alls Well that Ends Well — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [8]"
+title: "Alls [[Well]] that Ends [[Well]] — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ALL’S-WELL-THAT-ENDS-WELL-(Shakespeare)"
@@ -15,18 +15,18 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| THE PERSONS OF THE | PLAY John GOWER, the Presenter |
-| *(didascalia)* | ANTIOCHUS, King of Antioch His |
-| DAUGHTER | THALIART, a villain |
-| DAUGHTER | PERICLES, Prince of Tyre MARINA, Pericles’ daughter |
-| DAUGHTER | CLEON, Governor of Tarsus DIONIZA, his wife LEONINE, a murderer |
-| KING | SIMONIDES, of Pentapolis THAISA, his daughter Three FISHERMEN, his subjects Five PRINCES, suitors of Thaisa |
+| THE PERSONS OF THE | PLAY John [[Gower|GOWER]], the Presenter |
+| *(didascalia)* | [[Antiochus|ANTIOCHUS]], [[King]] of Antioch His |
+| DAUGHTER | THALIART, a [[Villain|villain]] |
+| DAUGHTER | [[Pericles|PERICLES]], Prince of Tyre [[Marina|MARINA]], [[Pericles]]’ daughter |
+| DAUGHTER | [[Cleon|CLEON]], Governor of Tarsus DIONIZA, his wife LEONINE, a murderer |
+| [[King|KING]] | [[Simonides|SIMONIDES]], of Pentapolis [[Thaisa|THAISA]], his daughter Three FISHERMEN, his subjects Five PRINCES, suitors of [[Thaisa]] |
 | *(didascalia)* | A |
-| MARSHAL | LYCHORIDA, Thaisa’s nurse |
+| MARSHAL | LYCHORIDA, [[Thaisa]]’s [[Nurse|nurse]] |
 | MARSHAL | CERIMON, a physician of Ephesus PHILEMON, his servant |
 | MARSHAL | LYSIMACHUS, Governor of Mytilene |
 | *(didascalia)* | A |
 | *(didascalia)* | A |
 | PANDER | BOULT, a leno |
-| PANDER | DIANA, goddess of chastity |
+| PANDER | [[Diana|DIANA]], goddess of chastity |
 | PANDER | Lords, ladies, pages, messengers, sailors, gentlemen |

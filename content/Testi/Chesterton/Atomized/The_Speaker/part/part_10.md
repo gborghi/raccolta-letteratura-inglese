@@ -16,7 +16,7 @@ tags:
 
 Of the diction very few examples will suffice.  Mr. Wynne
 in the opening verses discusses in his vague way the question of
-Nature and her sympathetic or unsympathetic attitude towards man.
+[[Nature]] and her sympathetic or unsympathetic attitude towards man.
 He describes what happens when "we look behind her lustrous eyes,"
 which would seem a delicate surgical proceeding:-
 
@@ -35,11 +35,11 @@ Later on, he writes:-
 We do not quite understand why noise should obscure his vision,
 but we can understand it, of course, if the echoes get into his eyes.
 He is evidently constructed on the same physiological principle
-as Bottom the Weaver, who went to see a noise that he heard.
+as [[Bottom]] the Weaver, who went to see a noise that he heard.
 
 This extraordinary confusion of mind runs riot in the diction.
 In a simple-minded passage about British Imperialism being the refuge
-of the Jews, which we fear may "produce in the sinful a smile,"
+of the Jews, which we [[Fear|fear]] may "produce in the sinful a smile,"
 Mr. Wynne says--
 
 "For if we be not of the lost Ten Tribes At least we have
@@ -49,14 +49,14 @@ If the "Tribes" are still lost it is a little difficult to tell
 whether we have procured them harbourage or not.
 
 Lastly, to complete our examples in technique, we should be
-pleased to offer the customary sewing-machine for the explanation
+pleased to offer the customary sewing-[[Machine|machine]] for the explanation
 of the following:-
 
-  "O Father give me back my childhood's Faith,
-  That faith that saw Thee in the brightening cloud
-  And deemed it but the mirror of thy breath."
+  "O Father give me back my [[Childhood|childhood]]'s [[Faith]],
+  That [[Faith|faith]] that saw Thee in the brightening cloud
+  And deemed it but the [[Mirror|mirror]] of thy breath."
 
-This would certainly seem to be faith of a very high and difficult order.
+This would certainly seem to be [[Faith|faith]] of a very high and difficult order.
 
 If these were mere verbal errors or mixed metaphors, they would
 matter little.  The trouble is that they are produced not
@@ -68,12 +68,12 @@ If we spoke of finding an echo in a bag of flour or a cloud
 that was like a single eyeglass, the image would not be more
 shapeless and devoid of suggestion.
 
-The truth is that we should have the greatest respect for
+The [[Truth|truth]] is that we should have the greatest respect for
 Mr. Wynne's work, with all its crudities, if it bore the impress
-even of the vulgarest fanaticism.  If he had one thing which
+even of the vulgarest [[Fanaticism|fanaticism]].  If he had one thing which
 could be called an opinion we could forgive him everything.
 But he seems to dawdle round all sides of a question, like a drunkard
-going continually round a house because he cannot find the door.
+going continually round a [[house]] because he cannot find the door.
 For example, he enunciates, as we have said, a rather
 innocently complimentary view of the Jews, and declares that
 "God still loveth them," because "whate'er they touch turns
@@ -85,7 +85,7 @@ an insult to Israel of which M. Drumont would be ashamed.
 He says they have a "shifty trace" in their eyes and that they are--
 
   "Wanderers upon the face of God's fair earth,
-  And cursed, like Cain, with murder from their birth."
+  And cursed, like [[Cain]], with murder from their birth."
 
 Whether this means that a Jew is from his birth continually murdering,
 or continually being murdered, we cannot tell; but in either case it
@@ -102,7 +102,7 @@ man has made I" and "The atheist argues that the Christian Creed,"
 the difficulty will be easily understood.  But, upon the whole,
 we think the palm must be given to the couplet:-
 
-  "The natural order of development
+  "The [[Natural Order|natural order]] of development
   Is from the unit to the family."
 
 There are some lines, indeed, which might lay Mr. Wynne
@@ -110,16 +110,16 @@ open to a severer charge than that of being prosaic.
 We do not believe him to be guilty of deliberate plagiarism.
 But certainly a great deal of carelessness and vagueness of mind
 is required to excuse such lines as "The paths of pleasure flower
-but to the grave"--"For God reveals himself in many ways"
+but to the [[Grave|grave]]"--"For God reveals himself in many ways"
 and the almost precise repetition of one of Mr. William Watson's
-phrases in the line "lights to the lily, reddens to the rose."
+phrases in the line "lights to the lily, reddens to the [[Rose|rose]]."
 
 We wish to say as little as possible on the subject
 of the long, loose, and wearisome argument on the subject
 of religion which takes up so many pages of Ad Astra.
-We will only remark that we sincerely hope that the time will come
-when preachers, hymn-writers, and pious poets will realise that there
-is a very deep and menacing truth at the bottom of the commandment,
+We will only remark that we sincerely [[Hope|hope]] that the [[Time|time]] will come
+when preachers, [[Hymn|hymn]]-writers, and pious poets will realise that there
+is a very deep and menacing [[Truth|truth]] at the [[Bottom|bottom]] of the commandment,
 "Thou shall not take the name of the Lord thy God in vain."
 That a man shall not use the strongest words so as to make them
 weak is emphatically one of the ten commandments of literature.
@@ -138,10 +138,10 @@ Since the appearance, or appearances, of Ad Astra, Mr. Wynne has
 published a volume of lyrics.  Of these we will quite only one poem,
 and that a short one:-
 
-  "Home returning in a shower
+  "[[Home]] returning in a shower
   Found that I was smiling,
-  Just the very time and hour
+  Just the very [[Time|time]] and hour
   Most men would be riling.
-  Thus, though Nature prove unkind,
+  Thus, though [[Nature]] prove unkind,
   Only a poetic mind
   Can laugh without reviling."

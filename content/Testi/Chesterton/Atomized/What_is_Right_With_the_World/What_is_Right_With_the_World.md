@@ -30,7 +30,7 @@ is capable of a dark financial interpretation which I do not intend.
 But I do say that the prominent personalities of the literary world
 are very largely the creations of their publishers, in so far as they
 are not solely the creations of their wives.  Here is a small incident
-out of my own existence.  I designed to write a sort of essay,
+out of my own existence.  I designed to write a sort of [[Essay|essay]],
 divided into sections, on one particular point of political error.
 This fallacy, though small and scholastic at first sight, seemed to
 me to be the real mistake in most modern sociological works.
@@ -67,7 +67,7 @@ Upon the whole, I am rather inclined to approve of this method of
 the publisher or editor making up the title, while the author makes up
 the remarks about it.  Any man with a large mind ought to be able to write
 about anything.  Any really free man ought to be able to write to order.
-Some of the greatest books in the world -- Pickwick, for instance --
+Some of the greatest books in the world -- [[Pickwick]], for instance --
 were written to fulfil a scheme partly sketched out by a publisher.
 But I only brought together these two cases of title that came
 to me from outside because they do illustrate the necessity
@@ -76,14 +76,14 @@ when it comes to the fulfilment, at once too complex and too simple.
 I would never have dreamed of announcing, like some discovery of my own,
 what is wrong with the world.  What is wrong with the world is the devil,
 and what is right with it is God; the human race will travel
-for a few more million years in all sorts of muddle and reform,
+for a few more million years in all sorts of muddle and [[Reform|reform]],
 and when it perishes of the last cold or heat it will still be within
 the limits of that very simple definition.  But in age that has
 confused itself with such phrases as 'optimist' and 'pessimist',
 it is necessary to distinguish along more delicate lines.
 One of the strangest things about the use of the word 'optimist'
 is that it is now so constantly used about the future.
-The house of man is criticised not as a house, but as a kind
+The [[house]] of man is criticised not as a [[house]], but as a kind
 of caravan; not by what it is, but by where it is going.
 None are more vitally and recklessly otherworldly than those modern
 progressives who do not believe in another world.
@@ -110,36 +110,36 @@ saying of a Red Indian hunter that he has not yet taken his degree.
 He has taken many other things.  And so, sincerely speaking,
 there are no uneducated men.  They may escape the trivial
 examinations, but not the tremendous examinations of existence.
-The dependence of infancy, the enjoyment of animals, the love
-of woman and the fear of death -- these are more frightful and more
+The dependence of infancy, the enjoyment of [[Animals|animals]], the [[Love|love]]
+of woman and the [[Fear|fear]] of [[Death|death]] -- these are more frightful and more
 fixed than all conceivable forms of the cultivation of the mind.
 It is idle to complain of schools and colleges being trivial.
 In no case will a college ever teach the important things.
-He has learnt them right or wrong, and he has learnt them all alone.
+He has learnt them right or wrong, and he has learnt them all [[Alone|alone]].
 
-We therefore come back to the primary truth, that what is
+We therefore come back to the primary [[Truth|truth]], that what is
 right with the world has nothing to do with future changes,
 but is rooted in original realities.  If groups or peoples show
 an unexpected independence or creative power; if they do things
 no one had dreamed of their doing; if they prove more ferocious
-or more self-sacrificing than the wisdom of the world had ever
+or more [[Self|self]]-sacrificing than the wisdom of the world had ever
 given them credit for, then such inexplicable outbursts can always
 be referred back to some elementary and absolute doctrine about
-the nature of men.  No traditions in this world are so ancient
+the [[Nature|nature]] of men.  No traditions in this world are so ancient
 as the traditions that lead to modern upheaval and innovation.
 Nothing nowadays is so conservative as a revolution.  The men who call
 themselves Republicans are men walking the streets of deserted
-and tiny city-states, and digging up the great bones of pagans.
+and tiny [[City|city]]-states, and digging up the great bones of pagans.
 And when we ask on what republicanism really rests, we come back
 to that great indemonstrable dogma of the native dignity of man.
 And when we come back to the lord of creation, we come back of necessity
 to creation; and we ask ourselves that ultimate question which
-St Thomas Aquinas (an extreme optimist) answered in the affirmative:
+St Thomas [[aquinas|Aquinas]] (an extreme optimist) answered in the affirmative:
 Are these things ultimately of value at all?
 
 What is right with the world is the world.  In fact, nearly everything
-else is wrong with it.  This is that great truth in the tremendous
-tale of Creation, a truth that our people must remember or perish.
+else is wrong with it.  This is that great [[Truth|truth]] in the tremendous
+tale of Creation, a [[Truth|truth]] that our people must remember or perish.
 It is at the beginning that things are good, and not (as the more
 pallid progressives say) only at the end.  The primordial things
 -- existence, energy, fruition -- are good so far as they go.
@@ -149,7 +149,7 @@ often perfectly pestilent.  You can use poppies to drug people,
 or birch trees to beat them, stone to make an idol, or corn
 to make a corner; but it remains true that, in the abstract,
 before you have done anything, each of these four things is
-in strict truth a glory, a beneficent speciality and variety.
+in strict [[Truth|truth]] a glory, a beneficent speciality and variety.
 We do praise the Lord that there are birch trees growing amongst
 the rocks and poppies amongst the corn; we do praise the Lord,
 even if we do not believe in Him.  We do admire and applaud
@@ -165,11 +165,11 @@ it will get there.  Why anybody who has avowedly forgotten where
 he came from should be quite so certain of where he is going to I
 have never been able to make out; but Meliorists are like that.
 They are ready to talk of existence itself as the product of purely
-evil forces.  They never mention animals except as perpetually tearing
+evil forces.  They never mention [[Animals|animals]] except as perpetually tearing
 each other to pieces; but a month in the country would cure that.
-They have a real giddy horror of stars and seas, as a man has on
+They have a real giddy horror of [[Stars|stars]] and seas, as a man has on
 the edge of a hopelessly high precipice.  They sometimes instinctively
-shrink from clay, fungoids, and the fresh young of animals
+shrink from clay, fungoids, and the fresh young of [[Animals|animals]]
 with a quivering gesture that reveals the fundamental pessimist.
 Life itself, crude, uncultivated life, is horrible to them.
 They belong very largely to the same social class and creed as the lady
@@ -183,18 +183,18 @@ these stones, are good things, of that I am more brutally certain
 than I can say.  But as for what will happen to them, that is
 to take a step into dogma and prophecy.  I speak here, of course,
 solely of my personal feelings, not even of my reasoned creed.
-But on my instincts alone I should have no notion what would ultimately
+But on my instincts [[Alone|alone]] I should have no notion what would ultimately
 happen to this material world I think so magnificent.  For all I know
 it may be literally and not figuratively true that the tares are tied
 into bundles for burning, and that as the tree falleth so shall it lie.
 I am an agnostic, like most people with a positive theology.
 But I do affirm, with the full weight of sincerity, that trees and
-flowers are good at the beginning, whatever happens to them at the end;
+[[Flowers|flowers]] are good at the beginning, whatever happens to them at the end;
 that human lives were good at the beginning, whatever happens
 to them in the end.  The ordinary modern progressive position
 is that this is a bad universe, but will certainly get better.
 I say it is certainly a good universe, even if it gets worse.
-I say that these trees and flowers, stars and sexes, are primarily,
+I say that these trees and [[Flowers|flowers]], [[Stars|stars]] and sexes, are primarily,
 not merely ultimately, good.  In the Beginning the power beyond
 words created heaven and earth.  In the Beginning He looked on them
 and saw that they were good.
@@ -202,21 +202,21 @@ and saw that they were good.
 All this unavoidable theory (for theory is always unavoidable)
 may be popularly pulled together thus.  We are to regard existence
 as a raid or great adventure; it is to be judged, therefore, not by what
-calamities it encounters, but by what flag it follows and what high town
+calamities it encounters, but by what [[Flag|flag]] it follows and what high town
 it assaults.  The most dangerous thing in the world is to be alive;
 one is always in danger of one's life.  But anyone who shrinks
 from this is a traitor to the great scheme and experiment of being.
 The pessimist of the ordinary type, the pessimist who thinks
 he would be better dead, is blasted with the crime of Iscariot.
 Spiritually speaking, we should be justified in punishing him
-with death.  Only, out of polite deference to his own philosophy,
+with [[Death|death]].  Only, out of polite deference to his own [[philosophy]],
 we punish him with life.
 
-But this faith (that existence was fundamentally and purposely good)
+But this [[Faith|faith]] (that existence was fundamentally and purposely good)
 is not attacked only by the black, consistent pessimist.
 The man who says that he would sooner die is best answered by a
 sudden blow with the poker, for the reply is rightly logical,
-as well as physically very effective.  But there has crept
+as [[Well|well]] as physically very effective.  But there has crept
 through the culture of modern Europe another notion that is equally
 in its own way an attack on the essential rightness of the world.
 It is not avowedly pessimistic, though the source from which it comes
@@ -228,60 +228,60 @@ wrong with the world -- at least, especially with the modern world.
 It is essential to arrest and to examine it.
 
 There has crept into our thoughts, through a thousand small openings,
-a curious and unnatural idea.  I mean the idea that unity is itself
+a curious and unnatural idea.  I mean the idea that [[unity]] is itself
 a good thing; that there is something high and spiritual about
 things being blended and absorbed into each other.  That all rivers
-should run into one river, that all vegetables should go into one
+should run into one [[River|river]], that all vegetables should go into one
 pot -- that is spoken of as the last and best fulfilment of being.
 Boys are to be 'at one' with girls; all sects are to be 'at one'
 in the New Theology; beasts fade into men and men fade into God;
-union in itself is a noble thing.  Now union in itself is not
-a noble thing.  Love is a noble thing; but love is not union.
-Nay, it is rather a vivid sense of separation and identity.
-Maudlin, inferior love poetry does, indeed, talk of lovers
-being 'one soul', just as maudlin, inferior religious poetry
+[[Union|union]] in itself is a noble thing.  Now [[Union|union]] in itself is not
+a noble thing.  [[Love]] is a noble thing; but [[Love|love]] is not [[Union|union]].
+Nay, it is rather a vivid sense of separation and [[Identity|identity]].
+Maudlin, inferior [[Love|love]] poetry does, indeed, talk of [[lovers]]
+being 'one [[Soul|soul]]', just as maudlin, inferior religious poetry
 talks of being lost in God; but the best poetry does not.
-When Dante meets Beatrice, he feels his distance from her,
+When [[Dante]] meets [[Beatrice]], he feels his distance from her,
 not his proximity; and all the greatest saints have felt
 their lowness, not their highness, in the moment of ecstasy.
-And what is true of these grave and heroic matters (I do not say,
-of course, that saints and lovers have never used the language
-of union too, true enough in its own place and proper limitation
+And what is true of these [[Grave|grave]] and heroic matters (I do not say,
+of course, that saints and [[lovers]] have never used the language
+of [[Union|union]] too, true enough in its own place and proper limitation
 of meaning) -- what is true of these is equally true of all
 the lighter and less essential forms of appreciation of surprise.
 Division and variety are essential to praise; division and variety
 are what is right with the world.  There is nothing specially
 right about mere contact and coalescence.
 
-In short, this vast, vague idea of unity is the one 'reactionary'
+In short, this vast, vague idea of [[unity]] is the one 'reactionary'
 thing in the world.  It is perhaps the only connection in which that
-foolish word 'reactionary' can be used with significance and truth.
+foolish word 'reactionary' can be used with significance and [[Truth|truth]].
 For this blending of men and women, nations and nations, is truly a return
 to the chaos and unconsciousness that were before the world was made.
-There is of course, another kind of unity of which I do not speak here;
-unity in the possession of truth and the perception of the need
+There is of course, another kind of [[unity]] of which I do not speak here;
+[[unity]] in the possession of [[Truth|truth]] and the perception of the need
 for these varieties.  But the varieties themselves; the reflection
 of man and woman in each other, as in two distinct mirrors;
-the wonder of man at nature as a strange thing at once above
-and below him; the quaint and solitary kingdom of childhood;
+the [[Wonder|wonder]] of man at [[Nature|nature]] as a strange thing at once above
+and below him; the quaint and solitary kingdom of [[Childhood|childhood]];
 the local affections and the colour of certain landscapes -- these
-actually are the things that are the grace and honour of the earth;
+actually are the things that are the grace and [[Honour|honour]] of the earth;
 these are the things that make life worth living and the whole
-framework of things well worthy to be sustained.  And the best
+framework of things [[Well|well]] worthy to be sustained.  And the best
 thing remains; that this view, whether conscious or not, always has
 been and still is the view of the living and labouring millions.
 While a few prigs on platforms are talking about 'oneness'
 and absorption in 'The All', the folk that dwell in all the valleys
 of this ancient earth are renewing the varieties for ever.
 With them a woman is loved for being unmanly, and a man loved for being
-un-womanly. With them the church and the home are both beautiful,
+un-womanly. With them the church and the [[Home|home]] are both beautiful,
 because they are both different; with them fields are personal
 and flags are sacred; they are the virtue of existence, for they
 are not mankind but men.
 
-The rooted hope of the modern world is that all these dim democracies
-do still believe in that romance of life, that variation of man,
-woman and child upon which all poetry has hitherto been built.
+The rooted [[Hope|hope]] of the modern world is that all these dim democracies
+do still believe in that [[Romance|romance]] of life, that variation of man,
+woman and [[Child|child]] upon which all poetry has hitherto been built.
 The danger of the modern world is that these dim democracies are
 so very dim, and that they are especially dim where they are right.
 The danger is that the world may fall under a new oligarchy
@@ -295,19 +295,19 @@ the social instruction of men or of children.  Below them boils
 that multitudinous sea of millions that think differently, that have
 always thought differently, that will always think differently.
 In spite of the overwhelming majority that maintains the old
-theory of life, I am in some real doubt about which will win.
-Owing to the decay of theology and all the other clear systems
+theory of life, I am in some real [[Doubt|doubt]] about which will win.
+Owing to the [[Decay|decay]] of theology and all the other clear systems
 of thought, men have been thrown back very much upon their instincts,
-as with animals.  As with animals, their instincts are right;
-but, as with animals, they can be cowed.  Between the agile scholars and
+as with [[Animals|animals]].  As with [[Animals|animals]], their instincts are right;
+but, as with [[Animals|animals]], they can be cowed.  Between the agile scholars and
 the stagnant mob, I am really doubtful about which will be triumphant.
-I have no doubt at all about which ought to be.
+I have no [[Doubt|doubt]] at all about which ought to be.
 
 Europe at present exhibits a concentration upon politics which is
 partly the unfortunate result of our loss of religion, partly the just
 and needful result of our loss of our social inequality and iniquity.
 These causes, however, will not remain in operation for ever.
-Religion is returning from her exile; it is more likely that
+Religion is returning from her [[Exile|exile]]; it is more likely that
 the future will be crazily and corruptly superstitious than that it
 will be merely rationalist.
 
@@ -318,7 +318,7 @@ some scheme will be substituted for our malevolent anarchy,
 if it be only one of benevolent servitude.  And as these two special
 unrests about the universe and the State settle down into more silent
 and enduring system, there will emerge more and more those primary
-and archaic truths which the dust of these two conflicts has veiled.
+and archaic truths which the [[Dust|dust]] of these two conflicts has veiled.
 The secondary questions relatively solved, we shall find ourselves
 all the more in the presence of the primary questions of Man.
 
@@ -327,32 +327,32 @@ too important.  We tend to forget how huge a part of a man's life
 is the same under a Sultan and a Senate, under Nero or St Louis.
 Daybreak is a never-ending glory, getting out of bed is
 a never-ending nuisance; food and friends will be welcomed;
-work and strangers must be accepted and endured; birds will go bedwards
+work and strangers must be accepted and endured; [[Birds|birds]] will go bedwards
 and children won't, to the end of the last evening.  And the worst peril
 is that in our just modern revolt against intolerable accidents we
-may have unsettled those things that alone make daily life tolerable.
-It will be an ironic tragedy if, when we have toiled to find rest,
+may have unsettled those things that [[Alone|alone]] make daily life tolerable.
+It will be an ironic [[Tragedy|tragedy]] if, when we have toiled to find rest,
 we find we are incurably restless.  It will be sad if, when we have
 worked for our holiday, we find we have unlearnt everything but work.
 The typical modern man is the insane millionaire who has drudged
 to get money, and then finds he cannot enjoy even money.
 There is danger that the social reformer may silently and occultly
-develop some of the madness of the millionaire whom he denounces.
+develop some of the [[Madness|madness]] of the millionaire whom he denounces.
 He may find that he has learnt how to build playgrounds but
 forgotten how to play.  He may agitate for peace and quiet,
 but only propagate his own mental agitation.  In his long fight
 to get a slave a half-holiday he may angrily deny those ancient
 and natural things, the zest of being, the divinity of man,
-the sacredness of simple things, the health and humour of the earth,
-which alone make a half-holiday even half a holiday or a slave
+the sacredness of simple things, the health and [[Humour|humour]] of the earth,
+which [[Alone|alone]] make a half-holiday even half a holiday or a slave
 even half a man.
 
 There is danger in that modern phrase 'divine discontent'.
-There is truth in it also, of course; but it is only truth of a special
-and secondary kind.  Much of the quarrel between Christianity and the
+There is [[Truth|truth]] in it also, of course; but it is only [[Truth|truth]] of a special
+and secondary kind.  Much of the quarrel between [[Christianity]] and the
 world has been due to this fact; that there are generally two truths,
 as it were, at any given moment of revolt or reaction, and the ancient
-underlying truism which is nevertheless true all the time.
+underlying truism which is nevertheless true all the [[Time|time]].
 It is sometimes worth while to point out that black is not so black
 as it is painted; but black is still black, and not white.
 So with the merits of content and discontent.  It is true that
@@ -360,10 +360,10 @@ in certain acute and painful crises of oppression or disgrace,
 discontent is a duty and shame could call us like a trumpet.
 But it is not true that man should look at life with an eye
 of discontent, however high-minded. It is not true that in his primary,
-naked relation to the world, in his relation to sex, to pain,
-to comradeship, to the grave or to the weather, man ought to make
+naked relation to the world, in his relation to sex, to [[Pain|pain]],
+to [[Comradeship|comradeship]], to the [[Grave|grave]] or to the weather, man ought to make
 discontent his ideal; it is black lunacy.  Half his poor little hopes
-of happiness hang on his thinking a small house pretty, a plain
+of happiness hang on his thinking a small [[house]] pretty, a plain
 wife charming, a lame foot not unbearable, and bad cards not so bad.
 The voice of the special rebels and prophets, recommending discontent,
 should, as I have said, sound now and then suddenly, like a trumpet.

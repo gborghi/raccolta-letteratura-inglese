@@ -39,17 +39,17 @@ their uncontrollable animal instincts, ending with the old fatalist
 cry that we must forgive everything because there is nothing
 to forgive.  But these things are not the _human_ things.
 These are specially and specifically the sub-human things;
-the things we share with nature and the animals.
+the things we share with [[Nature|nature]] and the [[Animals|animals]].
 The specially and outstandingly human things are exactly
 the things that you dismiss as merely divine things.
 The human things are free will and responsibility and authority
-and self-denial, because they exist only in humanity."
+and [[Self|self]]-denial, because they exist only in humanity."
 
 Upon this pivotal point I am entirely at one with Humanism,
 but I do not propose to discuss that particular point here.
 I only wish to record an impression about some of the more violent
 opponents of Humanism, and especially upon one phrase which abounds in
-their phraseology and presumably means something in their philosophy.
+their phraseology and presumably means something in their [[philosophy]].
 Many who can look back on long and happy lives passed in the
 character of Young Rebels are very much annoyed at the appearance
 of this antiquated classicism, especially when it appears
@@ -85,32 +85,32 @@ one of the most modern of the moderns.  But his work, considered as
 an intellectual process, seems to me almost entirely Critical.
 
 Of course, it is not easy to point to anything that is entirely Creative.
-In ultimate philosophy, as in ultimate theology, men are not capable
+In ultimate [[philosophy]], as in ultimate theology, men are not capable
 of creation, but only of combination.  But there is a workable
 meaning of the word, which I take to be this:  some image evoked
-by the individual imagination which might never have been evoked by any
-other imagination, and adds something to the imagery of the world.
+by the individual [[Imagination|imagination]] which might never have been evoked by any
+other [[Imagination|imagination]], and adds something to the imagery of the world.
 I call it Creative to write "the multitudinous seas incarnadine."
 I call it Creative by three real and even practical tests:  first, that
 nobody need ever have thought of such a thing if Mr. William Shakspere
 had not happened to think of it; second, that while it is an apocalyptic,
-or titanic, it is not really an anarchic idea; it is gigantic,
+or [[titanic]], it is not really an anarchic idea; it is gigantic,
 but it does not merely sprawl; it fits into the frame of thought exactly
 as the sea fits into all the fretted bays and creeks of the world.
 Also, in passing, with all its tragic occasion, it is a _jolly_ image:
-it gives the mere imagination a positive and passionate joy of colour,
+it gives the mere [[Imagination|imagination]] a positive and passionate joy of colour,
 like the joy of drinking a purple sea of wine.  But, thirdly and
 most essentially, it does reveal the moral mystery that is the whole
-meaning of such a tragedy; expressed by the knocking without which
+meaning of such a [[Tragedy|tragedy]]; expressed by the knocking without which
 startles the assassins within; the notion of the thin partition between
-the crime that is hidden in the house and the sin that fills the universe;
+the crime that is hidden in the [[house]] and the sin that fills the universe;
 what was meant by saying that things said in the inner chamber should
 be proclaimed from the housetops; the true idea of the Day of Judgment,
 in which the world is, really and truly, turned inside out.
 It may also be added that that astonishing phrase is not only a speech,
 but a gesture.  It is dramatic, in the vital sense, to suppose
 that dipping a finger could suddenly turn all the seas of the world
-to scarlet.  But this very drama is a morality, and it would mean
+to scarlet.  But this very drama is a [[morality]], and it would mean
 nothing that the seas were scarlet unless the sins were scarlet.
 ... But what is all this?  This is not Modern.  This is not Scientific.
 This is not in the purely experimental and realistic manner in which
@@ -118,7 +118,7 @@ the Young Rebels have been writing for the last thirty or forty years.
 They all say they are Creative, and they ought to know.  And, according to
 their theory of purely Creative art, there ought to be an entirely
 detached and unmoral attitude on the part of everybody involved.
-It ought not to matter whether the spot on Lady Macbeth's finger was blood
+It ought not to matter whether the spot on [[Lady Macbeth]]'s finger was [[Blood|blood]]
 or red ink; or whether she turned the multitudinous seas the colour
 of carnage or tomato soup.  It is evidently a very soothing and insulated
 condition of intellect, and avoids all the disturbing currents of ethical
@@ -130,17 +130,17 @@ And there, as it seems to me, the whole theory of uncritical and
 uncriticized creative art breaks down.  As a mere matter of fact,
 you cannot make any sense of _Macbeth_ unless you not only
 recognize but share a decided horror of murder.  And how you can
-be shocked by Murder and not moved by Morality I do not know.
+be shocked by Murder and not moved by [[morality|Morality]] I do not know.
 And if being Critical means the tracing of these electric wires
 or burglar-alarms, these live wires of the laws of life which do,
 in fact, give shocks when they are touched or transgressed,
 then it is not merely the classical critics who are critical.
-It is Shakspere who is critical; nay, it is Lady Macbeth
-who is critical; she is extremely critical of Lady Macbeth.
-If the recognition of the real Ten Commandments of life and death is
+It is Shakspere who is critical; nay, it is [[Lady Macbeth]]
+who is critical; she is extremely critical of [[Lady Macbeth]].
+If the recognition of the real Ten Commandments of life and [[Death|death]] is
 only being critical, then all the great creative artists are critical;
 and they would not be creative if they were not critical.
-Lady Macbeth would never see that blasting vision of a bloodshot world,
-except in the last agony of self-criticism.
+[[Lady Macbeth]] would never see that blasting vision of a bloodshot world,
+except in the last agony of [[Self|self]]-criticism.
 
 -*-

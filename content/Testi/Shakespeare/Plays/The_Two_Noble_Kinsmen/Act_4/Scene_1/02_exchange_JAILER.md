@@ -16,5 +16,5 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | JAILER | Pray go on, sir. |
-| WOOER | She sung much, but no sense; only I heard her Repeat this often—‘Palamon is gone, Is gone to th’ wood to gather mulberries; I’ll find him out tomorrow.’ |
-| FIRST FRIEND | Pretty soul! |
+| WOOER | She sung much, but no sense; only I heard her Repeat this often—‘[[Palamon]] is gone, Is gone to th’ wood to gather mulberries; I’ll find him out tomorrow.’ |
+| FIRST FRIEND | Pretty [[Soul|soul]]! |

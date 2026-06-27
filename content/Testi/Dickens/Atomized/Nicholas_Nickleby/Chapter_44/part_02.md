@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 44 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 44 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -48,7 +48,7 @@ humorous upon the topics of the day, and especially pleasant upon
 bankruptcies and pecuniary difficulties that made good for trade. In
 short, it would have been difficult to have recognised the same man
 under these various aspects, but for the bulky leather case full of
-bills and notes which he drew from his pocket at every house, and the
+bills and notes which he drew from his pocket at every [[house]], and the
 constant repetition of the same complaint, (varied only in tone and
 style of delivery,) that the world thought him rich, and that perhaps
 he might be if he had his own; but there was no getting money in when it
@@ -56,15 +56,15 @@ was once out, either principal or interest, and it was a hard matter to
 live; even to live from day to day.
 
 It was evening before a long round of such visits (interrupted only by
-a scanty dinner at an eating-house) terminated at Pimlico, and Ralph
-walked along St James’s Park, on his way home.
+a scanty dinner at an eating-[[house]]) terminated at Pimlico, and Ralph
+walked along St James’s Park, on his way [[Home|home]].
 
 There were some deep schemes in his head, as the puckered brow and
 firmly-set mouth would have abundantly testified, even if they had been
 unaccompanied by a complete indifference to, or unconsciousness of, the
 objects about him. So complete was his abstraction, however, that
 Ralph, usually as quick-sighted as any man, did not observe that he was
-followed by a shambling figure, which at one time stole behind him with
+followed by a shambling figure, which at one [[Time|time]] stole behind him with
 noiseless footsteps, at another crept a few paces before him, and at
 another glided along by his side; at all times regarding him with an eye
 so keen, and a look so eager and attentive, that it was more like the
@@ -72,18 +72,18 @@ expression of an intrusive face in some powerful picture or strongly
 marked dream, than the scrutiny even of a most interested and anxious
 observer.
 
-The sky had been lowering and dark for some time, and the commencement
-of a violent storm of rain drove Ralph for shelter to a tree. He was
+The sky had been lowering and dark for some [[Time|time]], and the commencement
+of a violent [[Storm|storm]] of rain drove Ralph for shelter to a tree. He was
 leaning against it with folded arms, still buried in thought, when,
 happening to raise his eyes, he suddenly met those of a man who,
 creeping round the trunk, peered into his face with a searching look.
 There was something in the usurer’s expression at the moment, which the
-man appeared to remember well, for it decided him; and stepping close up
+man appeared to remember [[Well|well]], for it decided him; and stepping close up
 to Ralph, he pronounced his name.
 
 Astonished for the moment, Ralph fell back a couple of paces and
 surveyed him from head to foot. A spare, dark, withered man, of about
-his own age, with a stooping body, and a very sinister face rendered
+his own age, with a stooping [[Body|body]], and a very sinister face rendered
 more ill-favoured by hollow and hungry cheeks, deeply sunburnt, and
 thick black eyebrows, blacker in contrast with the perfect whiteness of
 his hair; roughly clothed in shabby garments, of a strange and uncouth
@@ -112,7 +112,7 @@ eight years ago, I dare say?’ observed the other.
 ‘Quite enough,’ said Ralph, carelessly, and averting his face. ‘More
 than enough.’
 
-‘If I had remained in doubt about YOU, Mr. Nickleby,’ said the other,
+‘If I had remained in [[Doubt|doubt]] about YOU, Mr. Nickleby,’ said the other,
 ‘this reception, and YOUR manner, would have decided me very soon.’
 
 ‘Did you expect any other?’ asked Ralph, sharply.

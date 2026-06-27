@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 7 (part 2)"
+title: "Bleak [[house|House]] — Chapter 7 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -38,34 +38,34 @@ about her in an agitated manner as she says what a likely lad, what a
 fine lad, what a gay, good-humoured, clever lad he was! Her second
 son would have been provided for at Chesney Wold and would have been
 made steward in due season, but he took, when he was a schoolboy, to
-constructing steam-engines out of saucepans and setting birds to draw
-their own water with the least possible amount of labour, so
+constructing steam-engines out of saucepans and setting [[Birds|birds]] to draw
+their own [[Water|water]] with the least possible amount of labour, so
 assisting them with artful contrivance of hydraulic pressure that a
 thirsty canary had only, in a literal sense, to put his shoulder to
-the wheel and the job was done. This propensity gave Mrs. Rouncewell
+the [[Wheel|wheel]] and the job was done. This propensity gave Mrs. Rouncewell
 great uneasiness. She felt it with a mother’s anguish to be a move in
-the Wat Tyler direction, well knowing that Sir Leicester had that
+the Wat Tyler direction, [[Well|well]] knowing that Sir Leicester had that
 general impression of an aptitude for any art to which smoke and a
 tall chimney might be considered essential. But the doomed young
-rebel (otherwise a mild youth, and very persevering), showing no sign
+[[Rebel|rebel]] (otherwise a mild youth, and very persevering), showing no sign
 of grace as he got older but, on the contrary, constructing a model
-of a power-loom, she was fain, with many tears, to mention his
+of a power-loom, she was fain, with many [[Tears|tears]], to mention his
 backslidings to the baronet. “Mrs. Rouncewell,” said Sir Leicester,
 “I can never consent to argue, as you know, with any one on any
 subject. You had better get rid of your boy; you had better get him
 into some Works. The iron country farther north is, I suppose, the
 congenial direction for a boy with these tendencies.” Farther north
-he went, and farther north he grew up; and if Sir Leicester Dedlock
+he went, and farther north he grew up; and if [[Sir Leicester Dedlock]]
 ever saw him when he came to Chesney Wold to visit his mother, or
 ever thought of him afterwards, it is certain that he only regarded
-him as one of a body of some odd thousand conspirators, swarthy and
+him as one of a [[Body|body]] of some odd thousand conspirators, swarthy and
 grim, who were in the habit of turning out by torchlight two or three
 nights in the week for unlawful purposes.
 
-Nevertheless, Mrs. Rouncewell’s son has, in the course of nature and
+Nevertheless, Mrs. Rouncewell’s son has, in the course of [[Nature|nature]] and
 art, grown up, and established himself, and married, and called unto
 him Mrs. Rouncewell’s grandson, who, being out of his apprenticeship,
-and home from a journey in far countries, whither he was sent to
+and [[Home|home]] from a [[Journey|journey]] in far countries, whither he was sent to
 enlarge his knowledge and complete his preparations for the venture
 of this life, stands leaning against the chimney-piece this very day
 in Mrs. Rouncewell’s room at Chesney Wold.
@@ -79,7 +79,7 @@ Rouncewell’s hands unquiet, as usual, on this reference.
 
 “Like him, also, my dear—but most like your poor uncle George! And
 your dear father.” Mrs. Rouncewell folds her hands again. “He is
-well?”
+[[Well|well]]?”
 
 “Thriving, grandmother, in every way.”
 
@@ -92,7 +92,7 @@ soldier who had gone over to the enemy.
 “Quite.”
 
 “I am thankful! So he has brought you up to follow in his ways and
-has sent you into foreign countries and the like? Well, he knows
+has sent you into foreign countries and the like? [[Well]], he knows
 best. There may be a world beyond Chesney Wold that I don’t
 understand. Though I am not young, either. And I have seen a quantity
 of good company too!”
@@ -100,12 +100,12 @@ of good company too!”
 “Grandmother,” says the young man, changing the subject, “what a very
 pretty girl that was I found with you just now. You called her Rosa?”
 
-“Yes, child. She is daughter of a widow in the village. Maids are so
+“Yes, [[Child|child]]. She is daughter of a widow in the village. Maids are so
 hard to teach, now-a-days, that I have put her about me young. She’s
-an apt scholar and will do well. She shows the house already, very
+an apt scholar and will do [[Well|well]]. She shows the [[house]] already, very
 pretty. She lives with me at my table here.”
 
-“I hope I have not driven her away?”
+“I [[Hope|hope]] I have not driven her away?”
 
 “She supposes we have family affairs to speak about, I dare say. She
 is very modest. It is a fine quality in a young woman. And scarcer,”
@@ -120,13 +120,13 @@ of her companion. “What wheels on such a day as this, for gracious
 sake?”
 
 After a short interval, a tap at the door. “Come in!” A dark-eyed,
-dark-haired, shy, village beauty comes in—so fresh in her rosy and
+dark-haired, shy, village [[Beauty|beauty]] comes in—so fresh in her rosy and
 yet delicate bloom that the drops of rain which have beaten on her
 hair look like the dew upon a flower fresh gathered.
 
 “What company is this, Rosa?” says Mrs. Rouncewell.
 
-“It’s two young men in a gig, ma’am, who want to see the house—yes,
+“It’s two young men in a gig, ma’am, who want to see the [[house]]—yes,
 and if you please, I told them so!” in quick reply to a gesture of
 dissent from the housekeeper. “I went to the hall-door and told them
 it was the wrong day and the wrong hour, but the young man who was

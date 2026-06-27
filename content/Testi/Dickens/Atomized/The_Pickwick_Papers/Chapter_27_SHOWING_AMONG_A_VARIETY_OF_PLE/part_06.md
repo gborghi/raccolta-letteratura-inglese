@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-‘Well, now,’ said Sam, ‘afore these here ladies, I should jest like to
+‘[[Well]], now,’ said Sam, ‘afore these here ladies, I should jest like to
 ask you, as a sort of curiosity, whether you don’t consider yourself as
-nice and well-behaved a young gen’l’m’n, as ever used a pink check
+nice and [[Well|well]]-behaved a young gen’l’m’n, as ever used a pink check
 pocket-handkerchief, and the number four collection?’
 
 ‘And as was ever a-going to be married to a cook,’ said that lady
@@ -47,39 +47,39 @@ that, Sir?’
 Mr. Muzzle again paused for a reply; and again Mr. Trotter disappointed
 him.
 
-‘Well, then,’ said Mr. Muzzle, ‘I’m very sorry to have to explain myself
+‘[[Well]], then,’ said Mr. Muzzle, ‘I’m very sorry to have to explain myself
 before ladies, but the urgency of the case will be my excuse. The back
 kitchen’s empty, Sir. If you will step in there, Sir, Mr. Weller will
 see fair, and we can have mutual satisfaction till the bell rings.
 Follow me, Sir!’
 
 As Mr. Muzzle uttered these words, he took a step or two towards the
-door; and, by way of saving time, began to pull off his coat as he
+door; and, by way of saving [[Time|time]], began to pull off his coat as he
 walked along.
 
 Now, the cook no sooner heard the concluding words of this desperate
 challenge, and saw Mr. Muzzle about to put it into execution, than she
 uttered a loud and piercing shriek; and rushing on Mr. Job Trotter, who
-rose from his chair on the instant, tore and buffeted his large flat
+[[Rose|rose]] from his chair on the instant, tore and buffeted his large flat
 face, with an energy peculiar to excited females, and twining her hands
 in his long black hair, tore therefrom about enough to make five or six
 dozen of the very largest-sized mourning-rings. Having accomplished this
-feat with all the ardour which her devoted love for Mr. Muzzle inspired,
+feat with all the ardour which her devoted [[Love|love]] for Mr. Muzzle inspired,
 she staggered back; and being a lady of very excitable and delicate
 feelings, she instantly fell under the dresser, and fainted away.
 
 At this moment, the bell rang.
 
 ‘That’s for you, Job Trotter,’ said Sam; and before Mr. Trotter could
-offer remonstrance or reply--even before he had time to stanch the
+offer remonstrance or reply--even before he had [[Time|time]] to stanch the
 wounds inflicted by the insensible lady--Sam seized one arm and Mr.
 Muzzle the other, and one pulling before, and the other pushing behind,
 they conveyed him upstairs, and into the parlour.
 
-It was an impressive tableau. Alfred Jingle, Esquire, alias Captain
+It was an impressive tableau. [[Alfred Jingle]], Esquire, alias Captain
 Fitz-Marshall, was standing near the door with his hat in his hand, and
 a smile on his face, wholly unmoved by his very unpleasant situation.
-Confronting him, stood Mr. Pickwick, who had evidently been inculcating
+Confronting him, stood Mr. [[Pickwick]], who had evidently been inculcating
 some high moral lesson; for his left hand was beneath his coat tail, and
 his right extended in air, as was his wont when delivering himself of an
 impressive address. At a little distance, stood Mr. Tupman with
@@ -89,9 +89,9 @@ Nupkins, gloomily grand and savagely vexed.
 
 ‘What prevents me,’ said Mr. Nupkins, with magisterial dignity, as Job
 was brought in--‘what prevents me from detaining these men as rogues and
-impostors? It is a foolish mercy. What prevents me?’
+impostors? It is a foolish [[Mercy|mercy]]. What prevents me?’
 
-‘Pride, old fellow, pride,’ replied Jingle, quite at his ease. ‘Wouldn’t
+‘[[Pride]], old fellow, [[Pride|pride]],’ replied Jingle, quite at his ease. ‘Wouldn’t
 do--no go--caught a captain, eh?--ha! ha! very good--husband for
 daughter--biter bit--make it public--not for worlds--look stupid--very!’
 
@@ -99,14 +99,14 @@ daughter--biter bit--make it public--not for worlds--look stupid--very!’
 
 ‘I always hated him,’ added Henrietta.
 
-‘Oh, of course,’ said Jingle. ‘Tall young man--old lover--Sidney
+‘Oh, of course,’ said Jingle. ‘Tall young man--old [[Lover|lover]]--Sidney
 Porkenham--rich--fine fellow--not so rich as captain, though, eh?--turn
 him away--off with him--anything for captain--nothing like captain
 anywhere--all the girls--raving mad--eh, Job, eh?’
 
 Here Mr. Jingle laughed very heartily; and Job, rubbing his hands with
 delight, uttered the first sound he had given vent to since he entered
-the house--a low, noiseless chuckle, which seemed to intimate that he
+the [[house]]--a low, noiseless chuckle, which seemed to intimate that he
 enjoyed his laugh too much, to let any of it escape in sound.
 
 ‘Mr. Nupkins,’ said the elder lady,’ this is not a fit conversation for
@@ -120,33 +120,33 @@ the servants to overhear. Let these wretches be removed.’
 
 ‘Yes, your Worship.’
 
-‘Leave the house!’ said Mr. Nupkins, waving his hand emphatically.
+‘Leave the [[house]]!’ said Mr. Nupkins, waving his hand emphatically.
 
 Jingle smiled, and moved towards the door.
 
-‘Stay!’ said Mr. Pickwick. Jingle stopped.
+‘Stay!’ said Mr. [[Pickwick]]. Jingle stopped.
 
-‘I might,’ said Mr. Pickwick, ‘have taken a much greater revenge for the
+‘I might,’ said Mr. [[Pickwick]], ‘have taken a much greater [[Revenge|revenge]] for the
 treatment I have experienced at your hands, and that of your
 hypocritical friend there.’
 
 Job Trotter bowed with great politeness, and laid his hand upon his
 heart.
 
-‘I say,’ said Mr. Pickwick, growing gradually angry, ‘that I might have
-taken a greater revenge, but I content myself with exposing you, which I
-consider a duty I owe to society. This is a leniency, Sir, which I hope
+‘I say,’ said Mr. [[Pickwick]], growing gradually angry, ‘that I might have
+taken a greater [[Revenge|revenge]], but I content myself with exposing you, which I
+consider a duty I owe to society. This is a leniency, Sir, which I [[Hope|hope]]
 you will remember.’
 
-When Mr. Pickwick arrived at this point, Job Trotter, with facetious
+When Mr. [[Pickwick]] arrived at this point, Job Trotter, with facetious
 gravity, applied his hand to his ear, as if desirous not to lose a
 syllable he uttered.
 
-‘And I have only to add, sir,’ said Mr. Pickwick, now thoroughly angry,
+‘And I have only to add, sir,’ said Mr. [[Pickwick]], now thoroughly angry,
 ‘that I consider you a rascal, and a--a--ruffian--and--and worse than
 any man I ever saw, or heard of, except that pious and sanctified
 vagabond in the mulberry livery.’
 
-‘Ha! ha!’ said Jingle, ‘good fellow, Pickwick--fine heart--stout old
+‘Ha! ha!’ said Jingle, ‘good fellow, [[Pickwick]]--fine heart--stout old
 boy--but must _not _be passionate--bad thing, very--bye, bye--see you
 again some day--keep up your spirits--now, Job--trot!’

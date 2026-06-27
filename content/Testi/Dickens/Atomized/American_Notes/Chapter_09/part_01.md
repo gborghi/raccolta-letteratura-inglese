@@ -15,15 +15,15 @@ tags:
 
 
 CHAPTER VIII
-WASHINGTON.  THE LEGISLATURE.  AND THE PRESIDENT’S HOUSE
+WASHINGTON.  THE LEGISLATURE.  AND THE PRESIDENT’S [[house|HOUSE]]
 
 
-WE left Philadelphia by steamboat, at six o’clock one very cold morning,
+WE left Philadelphia by steamboat, at six o’[[Clock|clock]] one very cold morning,
 and turned our faces towards Washington.
 
-In the course of this day’s journey, as on subsequent occasions, we
+In the course of this day’s [[Journey|journey]], as on subsequent occasions, we
 encountered some Englishmen (small farmers, perhaps, or country publicans
-at home) who were settled in America, and were travelling on their own
+at [[Home|home]]) who were settled in [[America]], and were travelling on their own
 affairs.  Of all grades and kinds of men that jostle one in the public
 conveyances of the States, these are often the most intolerable and the
 most insufferable companions.  United to every disagreeable
@@ -32,22 +32,22 @@ countrymen of ours display an amount of insolent conceit and cool
 assumption of superiority, quite monstrous to behold.  In the coarse
 familiarity of their approach, and the effrontery of their
 inquisitiveness (which they are in great haste to assert, as if they
-panted to revenge themselves upon the decent old restraints of home),
+panted to [[Revenge|revenge]] themselves upon the decent old restraints of [[Home|home]]),
 they surpass any native specimens that came within my range of
 observation: and I often grew so patriotic when I saw and heard them,
 that I would cheerfully have submitted to a reasonable fine, if I could
-have given any other country in the whole world, the honour of claiming
+have given any other country in the whole world, the [[Honour|honour]] of claiming
 them for its children.
 
 As Washington may be called the head-quarters of tobacco-tinctured
-saliva, the time is come when I must confess, without any disguise, that
+saliva, the [[Time|time]] is come when I must confess, without any disguise, that
 the prevalence of those two odious practices of chewing and expectorating
-began about this time to be anything but agreeable, and soon became most
-offensive and sickening.  In all the public places of America, this
+began about this [[Time|time]] to be anything but agreeable, and soon became most
+offensive and sickening.  In all the public places of [[America]], this
 filthy custom is recognised.  In the courts of law, the judge has his
 spittoon, the crier his, the witness his, and the prisoner his; while the
 jurymen and spectators are provided for, as so many men who in the course
-of nature must desire to spit incessantly.  In the hospitals, the
+of [[Nature|nature]] must [[Desire|desire]] to spit incessantly.  In the hospitals, the
 students of medicine are requested, by notices upon the wall, to eject
 their tobacco juice into the boxes provided for that purpose, and not to
 discolour the stairs.  In public buildings, visitors are implored,
@@ -66,9 +66,9 @@ On board this steamboat, there were two young gentlemen, with
 shirt-collars reversed as usual, and armed with very big walking-sticks;
 who planted two seats in the middle of the deck, at a distance of some
 four paces apart; took out their tobacco-boxes; and sat down opposite
-each other, to chew.  In less than a quarter of an hour’s time, these
+each other, to chew.  In less than a quarter of an hour’s [[Time|time]], these
 hopeful youths had shed about them on the clean boards, a copious shower
-of yellow rain; clearing, by that means, a kind of magic circle, within
+of yellow rain; clearing, by that means, a kind of [[Magic|magic]] circle, within
 whose limits no intruders dared to come, and which they never failed to
 refresh and re-refresh before a spot was dry.  This being before
 breakfast, rather disposed me, I confess, to nausea; but looking
@@ -83,29 +83,29 @@ for hours.
 We all sat down to a comfortable breakfast in the cabin below, where
 there was no more hurry or confusion than at such a meal in England, and
 where there was certainly greater politeness exhibited than at most of
-our stage-coach banquets.  At about nine o’clock we arrived at the
-railroad station, and went on by the cars.  At noon we turned out again,
-to cross a wide river in another steamboat; landed at a continuation of
+our stage-coach banquets.  At about nine o’[[Clock|clock]] we arrived at the
+railroad station, and went on by the cars.  At [[Noon|noon]] we turned out again,
+to [[Cross|cross]] a wide [[River|river]] in another steamboat; landed at a continuation of
 the railroad on the opposite shore; and went on by other cars; in which,
 in the course of the next hour or so, we crossed by wooden bridges, each
 a mile in length, two creeks, called respectively Great and Little
-Gunpowder.  The water in both was blackened with flights of canvas-backed
+Gunpowder.  The [[Water|water]] in both was blackened with flights of canvas-backed
 ducks, which are most delicious eating, and abound hereabouts at that
 season of the year.
 
 These bridges are of wood, have no parapet, and are only just wide enough
 for the passage of the trains; which, in the event of the smallest
-accident, wound inevitably be plunged into the river.  They are startling
+accident, wound inevitably be plunged into the [[River|river]].  They are startling
 contrivances, and are most agreeable when passed.
 
 We stopped to dine at Baltimore, and being now in Maryland, were waited
-on, for the first time, by slaves.  The sensation of exacting any service
-from human creatures who are bought and sold, and being, for the time, a
+on, for the first [[Time|time]], by slaves.  The sensation of exacting any service
+from human creatures who are bought and sold, and being, for the [[Time|time]], a
 party as it were to their condition, is not an enviable one.  The
 institution exists, perhaps, in its least repulsive and most mitigated
-form in such a town as this; but it _is_ slavery; and though I was, with
-respect to it, an innocent man, its presence filled me with a sense of
-shame and self-reproach.
+form in such a town as this; but it _is_ [[Slavery|slavery]]; and though I was, with
+respect to it, an [[Innocent|innocent]] man, its presence filled me with a sense of
+shame and [[Self|self]]-reproach.
 
 After dinner, we went down to the railroad again, and took our seats in
 the cars for Washington.  Being rather early, those men and boys who
@@ -119,12 +119,12 @@ information with reference to my own nose and eyes, and various
 impressions wrought by my mouth and chin on different minds, and how my
 head looks when it is viewed from behind, as on these occasions.  Some
 gentlemen were only satisfied by exercising their sense of touch; and the
-boys (who are surprisingly precocious in America) were seldom satisfied,
+boys (who are surprisingly precocious in [[America]]) were seldom satisfied,
 even by that, but would return to the charge over and over again.  Many a
 budding president has walked into my room with his cap on his head and
 his hands in his pockets, and stared at me for two whole hours:
 occasionally refreshing himself with a tweak of his nose, or a draught
-from the water-jug; or by walking to the windows and inviting other boys
+from the [[Water|water]]-jug; or by walking to the windows and inviting other boys
 in the street below, to come up and do likewise: crying, ‘Here he is!’
 ‘Come on!’  ‘Bring all your brothers!’ with other hospitable entreaties
-of that nature.
+of that [[Nature|nature]].

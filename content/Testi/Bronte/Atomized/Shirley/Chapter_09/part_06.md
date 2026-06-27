@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 9 (part 6)"
+title: "[[Shirley]] — Chapter 9 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,9 +28,9 @@ you first came into the country, old as she is."
 
 "A lady whom I don't know, because she never visits here, though I see
 
-her every Sunday at church. She sits in the pew near the pulpit. I
+her every [[Sunday]] at church. She sits in the pew near the pulpit. I
 
-generally look at her, instead of looking at my prayer-book, for she is
+generally look at her, instead of looking at my [[prayer]]-book, for she is
 
 like a picture in our dining-room, that woman with the dove in her
 
@@ -42,21 +42,21 @@ that makes all her face look, somehow, what I call clear."
 
 "And you don't know her!" exclaimed Jessy, in a tone of exceeding
 
-surprise. "That's so like Rose. Mr. Moore, I often wonder in what sort
+surprise. "That's so like [[Rose]]. Mr. Moore, I often [[Wonder|wonder]] in what sort
 
-of a world my sister lives. I am sure she does not live all her time in
+of a world my sister lives. I am sure she does not live all her [[Time|time]] in
 
 this. One is continually finding out that she is quite ignorant of some
 
 little matter which everybody else knows. To think of her going solemnly
 
-to church every Sunday, and looking all service-time at one particular
+to church every [[Sunday]], and looking all service-[[Time|time]] at one particular
 
 person, and never so much as asking that person's name. She means
 
-Caroline Helstone, the rector's niece. I remember all about it. Miss
+[[Caroline Helstone]], the rector's niece. I remember all about it. Miss
 
-Helstone was quite angry with Anne Pearson. She said, 'Robert Moore is
+Helstone was quite angry with Anne Pearson. She said, '[[Robert Moore]] is
 
 neither affected nor sentimental; you mistake his character utterly, or
 
@@ -64,7 +64,7 @@ rather not one of you here knows anything about it.' Now, shall I tell
 
 you what she is like? I can tell what people are like, and how they are
 
-dressed, better than Rose can."
+dressed, better than [[Rose]] can."
 
 
 
@@ -112,7 +112,7 @@ Hereupon Mr. Moore gave both the little girls an invitation to pay him a
 
 visit next day, promising that, as he was going to Stilbro' in the
 
-morning, he would buy them each a present, of what nature he would not
+morning, he would buy them each a present, of what [[Nature|nature]] he would not
 
 then declare, but they must come and see. Jessy was about to reply, when
 
@@ -122,7 +122,7 @@ one of the boys unexpectedly broke in,--
 
 "I know that Miss Helstone you have all been palavering about. She's an
 
-ugly girl. I hate her. I hate all womenites. I wonder what they were
+ugly girl. I hate her. I hate all womenites. I [[Wonder|wonder]] what they were
 
 made for."
 
@@ -156,11 +156,11 @@ about to be admired. I'll never marry. I'll be a bachelor."
 
 "Stick to it! stick to it!--Hesther" (addressing his wife), "I was like
 
-him when I was his age--a regular misogamist; and, behold! by the time I
+him when I was his age--a regular misogamist; and, behold! by the [[Time|time]] I
 
-was three-and-twenty--being then a tourist in France and Italy, and the
+was three-and-twenty--being then a tourist in France and [[Italy]], and the
 
-Lord knows where--I curled my hair every night before I went to bed, and
+Lord knows where--I curled my hair every [[Night|night]] before I went to bed, and
 
 wore a ring i' my ear, and would have worn one i' my nose if it had been
 
@@ -210,7 +210,7 @@ and with an expression of still irony in his face not easy to describe.
 
 "Mr. Moore," said he, "you think perhaps it was a compliment on Miss
 
-Caroline Helstone's part to say you were not sentimental. I thought you
+[[Caroline Helstone]]'s part to say you were not sentimental. I thought you
 
 appeared confused when my sisters told you the words, as if you felt
 

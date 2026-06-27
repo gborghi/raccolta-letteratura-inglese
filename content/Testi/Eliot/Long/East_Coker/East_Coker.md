@@ -22,9 +22,9 @@ Old stone to new building, old timber to new fires,
 Old fires to ashes, and ashes to the earth  
 Which is already flesh, fur and faeces,  
 Bone of man and beast, cornstalk and leaf.  
-Houses live and die: there is a time for building  
-And a time for living and for generation  
-And a time for the wind to break the loosened pane  
+Houses live and die: there is a [[Time|time]] for building  
+And a [[Time|time]] for living and for generation  
+And a [[Time|time]] for the [[Wind|wind]] to break the loosened pane  
 And to shake the wainscot where the field-mouse trots  
 And to shake the tattered arras woven with a silent motto.  
     In my beginning is my end. Now the light falls  
@@ -35,11 +35,11 @@ And the deep lane insists on the direction
 Into the village, in the electric heat  
 Hypnotised. In a warm haze the sultry light  
 Is absorbed, not refracted, by grey stone.  
-The dahlias sleep in the empty silence.  
+The dahlias [[Sleep|sleep]] in the empty [[Silence|silence]].  
 Wait for the early owl.  
                                                        In that open field  
 If you do not come too close, if you do not come too close,  
-On a summer midnight, you can hear the music  
+On a [[Summer|summer]] midnight, you can hear the music  
 Of the weak pipe and the little drum  
 And see them dancing around the bonfire  
 The association of man and woman  
@@ -47,41 +47,41 @@ In daunsinge, signifying matrimonie —
 A dignified and commodious sacrament.  
 Two and two, necessarye coniunction,  
 Holding eche other by the hand or the arm  
-Whiche betokeneth concorde. Round and round the fire  
+Whiche betokeneth concorde. Round and round the [[Fire|fire]]  
 Leaping through the flames, or joined in circles,  
 Rustically solemn or in rustic laughter  
 Lifting heavy feet in clumsy shoes,  
 Earth feet, loam feet, lifted in country mirth  
 Mirth of those long since under earth  
-Nourishing the corn. Keeping time,  
+Nourishing the corn. Keeping [[Time|time]],  
 Keeping the rhythm in their dancing  
-As in their living in the living seasons  
-The time of the seasons and the constellations  
-The time of milking and the time of harvest  
-The time of the coupling of man and woman  
+As in their living in the living [[Seasons|seasons]]  
+The [[Time|time]] of the [[Seasons|seasons]] and the constellations  
+The [[Time|time]] of milking and the [[Time|time]] of harvest  
+The [[Time|time]] of the coupling of man and woman  
 And that of beasts. Feet rising and falling.  
-Eating and drinking. Dung and death.  
-    Dawn points, and another day  
-Prepares for heat and silence. Out at sea the dawn wind  
+Eating and drinking. Dung and [[Death|death]].  
+    [[Dawn]] points, and another day  
+Prepares for heat and [[Silence|silence]]. Out at sea the [[Dawn|dawn]] [[Wind|wind]]  
 Wrinkles and slides. I am here  
 Or there, or elsewhere. In my beginning.  
 II  
 What is the late November doing  
-With the disturbance of the spring  
-And creatures of the summer heat,  
+With the disturbance of the [[Spring|spring]]  
+And creatures of the [[Summer|summer]] heat,  
 And snowdrops writhing under feet  
 And hollyhocks that aim too high  
 Red into grey and tumble down  
-Late roses filled with early snow?  
-Thunder rolled by the rolling stars  
+Late roses filled with early [[Snow|snow]]?  
+Thunder rolled by the [[rolling]] [[Stars|stars]]  
 Simulates triumphal cars  
 Deployed in constellated wars  
 Scorpion fights against the Sun  
-Until the Sun and Moon go down  
+Until the Sun and [[Moon]] go down  
 Comets weep and Leonids fly  
 Hunt the heavens and the plains  
 Whirled in a vortex that shall bring  
-The world to that destructive fire  
+The world to that destructive [[Fire|fire]]  
 Which burns before the ice-cap reigns.  
     That was a way of putting it — not very satisfactory:  
 A periphrastic study in a worn-out poetical fashion,  
@@ -94,7 +94,7 @@ And the wisdom of age? Had they deceived us,
 Or deceived themselves, the quiet-voiced elders,  
 Bequeathing us merely a receipt for deceit?  
 The serenity only a deliberate hebetude,  
-The wisdom only the knowledge of dead secrets  
+The wisdom only the knowledge of dead [[Secrets|secrets]]  
 Useless in the darkness into which they peered  
 Or from which they turned their eyes. There is, it seems to us,  
 At best, only a limited value  
@@ -110,12 +110,12 @@ On the edge of a grimpen, where is no secure foothold,
 And menaced by monsters, fancy lights,  
 Risking enchantment. Do not let me hear  
 Of the wisdom of old men, but rather of their folly,  
-Their fear of fear and frenzy, their fear of possession,  
+Their [[Fear|fear]] of [[Fear|fear]] and frenzy, their [[Fear|fear]] of possession,  
 Of belonging to another, or to others, or to God.  
-The only wisdom we can hope to acquire  
-Is the wisdom of humility: humility is endless.  
+The only wisdom we can [[Hope|hope]] to acquire  
+Is the wisdom of [[Humility|humility]]: [[Humility|humility]] is endless.  
 The houses are all gone under the sea.  
-The dancers are all gone under the hill.  
+The dancers are all gone under the [[Hill|hill]].  
 
 
 III  
@@ -125,33 +125,33 @@ The captains, merchant bankers, eminent men of letters.
 The generous patrons of art, the statesmen and the rulers,  
 Distinguished civil servants, chairmen of many committees,  
 Industrial lords and petty contractors, all go into the dark,  
-And dark the Sun and Moon, and the Almanach de Gotha  
+And dark the Sun and [[Moon]], and the Almanach de Gotha  
 And the Stock Exchange Gazette, the Directory of Directors,  
 And cold the sense and lost the motive of action.  
 And we all go with them, into the silent funeral,  
 Nobody’s funeral, for there is no one to bury.  
-I said to my soul, be still, and let the dark come upon you  
+I said to my [[Soul|soul]], be still, and let the dark come upon you  
 Which shall be the darkness of God. As, in a theatre,  
 The lights are extinguished, for the scene to be changed  
 With a hollow rumble of wings, with a movement of darkness on darkness,  
 And we know that the hills and the trees, the distant panorama  
 And the bold imposing façade are all being rolled away —  
 Or as, when an underground train, in the tube, stops too long between stations  
-And the conversation rises and slowly fades into silence  
+And the conversation rises and slowly fades into [[Silence|silence]]  
 And you see behind every face the mental emptiness deepen  
 Leaving only the growing terror of nothing to think about;  
 Or when, under ether, the mind is conscious but conscious of nothing—  
-I said to my soul, be still, and wait without hope  
-For hope would be hope for the wrong thing; wait without love  
-For love would be love of the wrong thing; there is yet faith  
-But the faith and the love and the hope are all in the waiting.  
+I said to my [[Soul|soul]], be still, and wait without [[Hope|hope]]  
+For [[Hope|hope]] would be [[Hope|hope]] for the wrong thing; wait without [[Love|love]]  
+For [[Love|love]] would be [[Love|love]] of the wrong thing; there is yet [[Faith|faith]]  
+But the [[Faith|faith]] and the [[Love|love]] and the [[Hope|hope]] are all in the waiting.  
 Wait without thought, for you are not ready for thought:  
 So the darkness shall be the light, and the stillness the dancing.  
-Whisper of running streams, and winter lightning.  
+Whisper of running streams, and [[Winter|winter]] [[Lightning|lightning]].  
 The wild thyme unseen and the wild strawberry,  
-The laughter in the garden, echoed ecstasy  
+The laughter in the [[Garden|garden]], echoed ecstasy  
 Not lost, but requiring, pointing to the agony  
-Of death and birth.  
+Of [[Death|death]] and birth.  
                                   You say I am repeating  
 Something I have said before. I shall say it again.  
 Shall I say it again? In order to arrive there,  
@@ -173,13 +173,13 @@ Beneath the bleeding hands we feel
 The sharp compassion of the healer’s art  
 Resolving the enigma of the fever chart.  
 Our only health is the disease  
-If we obey the dying nurse  
+If we obey the dying [[Nurse|nurse]]  
 Whose constant care is not to please  
 But to remind of our, and Adam’s curse,  
 And that, to be restored, our sickness must grow worse.  
 The whole earth is our hospital  
 Endowed by the ruined millionaire,  
-Wherein, if we do well, we shall  
+Wherein, if we do [[Well|well]], we shall  
 Die of the absolute paternal care  
 That will not leave us, but prevents us everywhere.  
 The chill ascends from feet to knees,  
@@ -187,10 +187,10 @@ The fever sings in mental wires.
 If to be warmed, then I must freeze  
 And quake in frigid purgatorial fires  
 Of which the flame is roses, and the smoke is briars.  
-The dripping blood our only drink,  
+The dripping [[Blood|blood]] our only drink,  
 The bloody flesh our only food:  
 In spite of which we like to think  
-That we are sound, substantial flesh and blood —  
+That we are sound, substantial flesh and [[Blood|blood]] —  
 Again, in spite of that, we call this Friday good.  
 V  
 So here I am, in the middle way, having had twenty years —  
@@ -207,29 +207,29 @@ With shabby equipment always deteriorating
 In the general mess of imprecision of feeling,  
 Undisciplined squads of emotion. And what there is to conquer  
 By strength and submission, has already been discovered  
-Once or twice, or several times, by men whom one cannot hope  
+Once or twice, or several times, by men whom one cannot [[Hope|hope]]  
 To emulate — but there is no competition —  
 There is only the fight to recover what has been lost  
 And found and lost again and again: and now, under conditions  
 That seem unpropitious. But perhaps neither gain nor loss.  
 For us, there is only the trying. The rest is not our business.  
-Home is where one starts from. As we grow older  
+[[Home]] is where one starts from. As we grow older  
 The world becomes stranger, the pattern more complicated  
 Of dead and living. Not the intense moment  
 Isolated, with no before and after,  
 But a lifetime burning in every moment  
 And not the lifetime of one man only  
 But of old stones that cannot be deciphered.  
-There is a time for the evening under starlight,  
-A time for the evening under lamplight  
+There is a [[Time|time]] for the evening under starlight,  
+A [[Time|time]] for the evening under lamplight  
 (The evening with the photograph album).  
-Love is most nearly itself  
+[[Love]] is most nearly itself  
 When here and now cease to matter.  
 Old men ought to be explorers  
 Here and there does not matter  
 We must be still and still moving  
 Into another intensity  
-For a further union, a deeper communion  
+For a further [[Union|union]], a deeper communion  
 Through the dark cold and the empty desolation,  
-The wave cry, the wind cry, the vast waters  
+The wave cry, the [[Wind|wind]] cry, the vast waters  
 Of the petrel and the porpoise. In my end is my beginning.  

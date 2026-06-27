@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 3 (part 5)"
+title: "[[queertrades]] — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"By this time I was sinking slowly to the pavement, in a state
+"By this [[Time|time]] I was sinking slowly to the pavement, in a state
 of acute reflection.  So long as the ruffians were with me, I dared
 not quit the role of drunkard.  For if I had begun to talk reasonably
 and explain the real case, the officer would merely have thought that I
@@ -37,15 +37,15 @@ a limp and slow and reluctant figure.  At the fourth turning, I suddenly
 broke from his hand and tore down the street like a maddened stag.
 He was unprepared, he was heavy, and it was dark.  I ran and ran
 and ran, and in five minutes' running, found I was gaining.
-In half an hour I was out in the fields under the holy and blessed stars,
+In half an hour I was out in the fields under the holy and blessed [[Stars|stars]],
 where I tore off my accursed shawl and bonnet and buried them
 in clean earth."
 
 The old gentleman had finished his story and leant back in his chair.
-Both the matter and the manner of his narration had, as time went on,
+Both the matter and the manner of his narration had, as [[Time|time]] went on,
 impressed me favourably.  He was an old duffer and pedant, but behind
 these things he was a country-bred man and gentleman, and had showed
-courage and a sporting instinct in the hour of desperation.
+[[Courage|courage]] and a sporting instinct in the hour of desperation.
 He had told his story with many quaint formalities of diction,
 but also with a very convincing realism.
 
@@ -109,7 +109,7 @@ to do is to go together to see Captain Fraser."
 
 "Now," said Basil, putting one arm in his fur coat.
 
-The old clergyman rose to his feet, quaking all over.
+The old clergyman [[Rose|rose]] to his feet, quaking all over.
 
 "I really do not think that it is necessary," he said.
 
@@ -121,13 +121,13 @@ then," and he added the words with great clearness and deliberation,
 "then, Mr Ellis Shorter, I can only say that I would like to see
 you without your whiskers."
 
-And at these words I also rose to my feet, for the great tragedy
+And at these words I also [[Rose|rose]] to my feet, for the great [[Tragedy|tragedy]]
 of my life had come.  Splendid and exciting as life was in continual
 contact with an intellect like Basil's, I had always the feeling
-that that splendour and excitement were on the borderland of sanity.
+that that splendour and excitement were on the borderland of [[Sanity|sanity]].
 He lived perpetually near the vision of the reason of things which
 makes men lose their reason.  And I felt of his insanity as men feel
-of the death of friends with heart disease.  It might come anywhere,
+of the [[Death|death]] of friends with heart disease.  It might come anywhere,
 in a field, in a hansom cab, looking at a sunset, smoking a cigarette.
 It had come now.  At the very moment of delivering a judgement
 for the salvation of a fellow creature, Basil Grant had gone mad.

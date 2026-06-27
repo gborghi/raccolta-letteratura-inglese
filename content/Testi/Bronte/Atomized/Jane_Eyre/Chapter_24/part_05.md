@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 24 (part 5)"
+title: "[[Jane Eyre]] — Chapter 24 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -22,7 +22,7 @@ entreaties expressed in energetic whispers, I reduced the half-dozen to
 two: these however, he vowed he would select himself. With anxiety I
 watched his eye rove over the gay stores: he fixed on a rich silk of
 the most brilliant amethyst dye, and a superb pink satin. I told him in
-a new series of whispers, that he might as well buy me a gold gown and
+a new series of whispers, that he might as [[Well|well]] buy me a gold gown and
 a silver bonnet at once: I should certainly never venture to wear his
 choice. With infinite difficulty, for he was stubborn as a stone, I
 persuaded him to make an exchange in favour of a sober black satin and
@@ -38,12 +38,12 @@ John Eyre, to Mrs. Reed: his intention to adopt me and make me his
 legatee. “It would, indeed, be a relief,” I thought, “if I had ever so
 small an independency; I never can bear being dressed like a doll by
 Mr. Rochester, or sitting like a second Danae with the golden shower
-falling daily round me. I will write to Madeira the moment I get home,
+falling daily round me. I will write to Madeira the moment I get [[Home|home]],
 and tell my uncle John I am going to be married, and to whom: if I had
 but a prospect of one day bringing Mr. Rochester an accession of
 fortune, I could better endure to be kept by him now.” And somewhat
 relieved by this idea (which I failed not to execute that day), I
-ventured once more to meet my master’s and lover’s eye, which most
+ventured once more to meet my master’s and [[Lover|lover]]’s eye, which most
 pertinaciously sought mine, though I averted both face and gaze. He
 smiled; and I thought his smile was such as a sultan might, in a
 blissful and fond moment, bestow on a slave his gold and gems had
@@ -78,15 +78,15 @@ as you are, sir, shall in a trice find yourself fettered amongst our
 hands: nor will I, for one, consent to cut your bonds till you have
 signed a charter, the most liberal that despot ever yet conferred.”
 
-“I would consent to be at your mercy, Jane.”
+“I would consent to be at your [[Mercy|mercy]], Jane.”
 
-“I would have no mercy, Mr. Rochester, if you supplicated for it with
+“I would have no [[Mercy|mercy]], Mr. Rochester, if you supplicated for it with
 an eye like that. While you looked so, I should be certain that
 whatever charter you might grant under coercion, your first act, when
 released, would be to violate its conditions.”
 
-“Why, Jane, what would you have? I fear you will compel me to go
-through a private marriage ceremony, besides that performed at the
+“Why, Jane, what would you have? I [[Fear|fear]] you will compel me to go
+through a private [[Marriage|marriage]] ceremony, besides that performed at the
 altar. You will stipulate, I see, for peculiar terms—what will they
 be?”
 
@@ -97,12 +97,12 @@ shall continue to act as Adèle’s governess; by that I shall earn my
 board and lodging, and thirty pounds a year besides. I’ll furnish my
 own wardrobe out of that money, and you shall give me nothing but—”
 
-“Well, but what?”
+“[[Well]], but what?”
 
 “Your regard; and if I give you mine in return, that debt will be
 quit.”
 
-“Well, for cool native impudence and pure innate pride, you haven’t
+“[[Well]], for cool native impudence and pure innate [[Pride|pride]], you haven’t
 your equal,” said he. We were now approaching Thornfield. “Will it
 please you to dine with me to-day?” he asked, as we re-entered the
 gates.
@@ -124,18 +124,18 @@ companion of my repast?”
 “I have formed no supposition on the subject, sir; but I want to go on
 as usual for another month.”
 
-“You will give up your governessing slavery at once.”
+“You will give up your governessing [[Slavery|slavery]] at once.”
 
 “Indeed, begging your pardon, sir, I shall not. I shall just go on with
 it as usual. I shall keep out of your way all day, as I have been
 accustomed to do: you may send for me in the evening, when you feel
-disposed to see me, and I’ll come then; but at no other time.”
+disposed to see me, and I’ll come then; but at no other [[Time|time]].”
 
 “I want a smoke, Jane, or a pinch of snuff, to comfort me under all
 this, ‘pour me donner une contenance,’ as Adèle would say; and
 unfortunately I have neither my cigar-case, nor my snuff-box. But
-listen—whisper. It is your time now, little tyrant, but it will be mine
+listen—whisper. It is your [[Time|time]] now, little [[Tyrant|tyrant]], but it will be mine
 presently; and when once I have fairly seized you, to have and to hold,
 I’ll just—figuratively speaking—attach you to a chain like this”
 (touching his watch-guard). “Yes, bonny wee thing, I’ll wear you in my
-bosom, lest my jewel I should tyne.”
+bosom, lest my [[Jewel|jewel]] I should tyne.”

@@ -1,5 +1,5 @@
 ---
-title: "trees of pride — THE MYSTERY OF THE WELL (part 2)"
+title: "trees of [[Pride|pride]] — THE MYSTERY OF THE [[Well|WELL]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/trees-of-pride-(Chesterton)"
@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-It may well have brightened and made breezier his second day's toil that
+It may [[Well|well]] have brightened and made breezier his second day's toil that
 he had not only the sunlight and the bird's singing in the little wood,
 to say nothing of a more scientific apparatus to work with,
 but also human companionship, and that of the most intelligent type.
 After leaving the doctor and before leaving the village he had
-bethought himself of seeking the little court or square where stood
-the quiet brown house of Andrew Ashe, solicitor, and the operations
-of dragging were worked in double harness.  Two heads were peering
-over the well in the wood:  one yellow-haired, lean and eager;
+bethought himself of seeking the little [[Court|court]] or square where stood
+the quiet brown [[house]] of Andrew Ashe, solicitor, and the operations
+of dragging were worked in [[Double|double]] harness.  Two heads were peering
+over the [[Well|well]] in the wood:  one yellow-haired, lean and eager;
 the other redhaired, heavy and pondering; and if it be true that two heads
 are better than one, it is truer that four hands are better than two.
 In any case, their united and repeated efforts bore fruit at last,
 if anything so hard and meager and forlorn can be called a fruit.
 It weighed loosely in the net as it was lifted, and rolled out on
-the grassy edge of the well; it was a bone.
+the grassy edge of the [[Well|well]]; it was a bone.
 
 Ashe picked it up and stood with it in his hand, frowning.
 
 "We want Doctor Brown here," he said.  "This may be the bone
-of some animal.  Any dog or sheep might fall into a hidden well."
+of some animal.  Any dog or sheep might fall into a hidden [[Well|well]]."
 Then he broke off, for his companion was already detaching a second
 bone from the net.
 
@@ -47,7 +47,7 @@ said the American.
 
 And he turned away a little as he handed the other a skull.
 
-There was no doubt of what sort of skull; there was the one unique
+There was no [[Doubt|doubt]] of what sort of skull; there was the one unique
 curve that holds the mystery of reason, and underneath it the two black
 holes that had held human eyes.  But just above that on the left
 was another and smaller black hole, which was not an eye.
@@ -55,7 +55,7 @@ was another and smaller black hole, which was not an eye.
 Then the lawyer said, with something like an effort:
 "We may admit it is a man without admitting it is--any particular man.
 There may be something, after all, in that yarn about the drunkard;
-he may have tumbled into the well.  Under certain conditions,
+he may have tumbled into the [[Well|well]].  Under certain conditions,
 after certain natural processes, I fancy, the bones might be
 stripped in this way, even without the skill of any assassin.
 We want the doctor again."
@@ -77,24 +77,24 @@ in the hat, and it lay exactly over the hole in the skull.
 vibrant voice.  "I think I am the older friend."
 
 Paynter nodded without speech, accepting the final identification.
-The last doubt, or hope, had departed, and he turned to the dragging
+The last [[Doubt|doubt]], or [[Hope|hope]], had departed, and he turned to the dragging
 apparatus, and did not speak till he had made his last find.
 
-The singing of the birds seemed to grow louder about them,
-and the dance of the green summer leaves was repeated beyond
-in the dance of the green summer sea.  Only the great roots
+The singing of the [[Birds|birds]] seemed to grow louder about them,
+and the [[Dance|dance]] of the green [[Summer|summer]] [[Leaves|leaves]] was repeated beyond
+in the [[Dance|dance]] of the green [[Summer|summer]] sea.  Only the great roots
 of the mysterious trees could be seen, the rest being far aloft,
 and all round it was a wood of little, lively and happy things.
-They might have been two innocent naturalists, or even two children
-fishing for eels or tittlebats on that summer holiday when Paynter
+They might have been two [[Innocent|innocent]] naturalists, or even two children
+fishing for eels or tittlebats on that [[Summer|summer]] holiday when Paynter
 pulled up something that weighed in the net more heavily than any bone.
 It nearly broke the meshes, and fell against a mossy stone
 with a clang.
 
-"Truth lies at the bottom of a well," cried the American, with lift
+"[[Truth]] lies at the [[Bottom|bottom]] of a [[Well|well]]," cried the American, with lift
 in his voice.  "The woodman's ax."
 
-It lay, indeed, flat and gleaming in the grasses by the well
+It lay, indeed, flat and gleaming in the grasses by the [[Well|well]]
 in the wood, just as it had lain in the thicket where the woodman
 threw it in the beginning of all these things.  But on one corner
 of the bright blade was a dull brown stain.
@@ -124,7 +124,7 @@ like Charles I's. He's looking for the ax still, and probably thinks
 it a holy relic."
 
 "For which reason," said Ashe, smiling, "he instantly chucked it
-down a well."
+down a [[Well|well]]."
 
 Paynter laughed.
 
@@ -134,17 +134,17 @@ were all watching the wood; but were we?  Frankly, I could almost
 fancy the peacock trees did strike me with a sort of sickness--
 a sleeping sickness."
 
-"Well," admitted Ashe, "you have me there too.  I'm afraid I
-couldn't swear I was awake all the time; but I don't put it down
-to magic trees--only to a private hobby of going to bed at night.
+"[[Well]]," admitted Ashe, "you have me there too.  I'm afraid I
+couldn't swear I was awake all the [[Time|time]]; but I don't put it down
+to [[Magic|magic]] trees--only to a private hobby of going to bed at [[Night|night]].
 But look here, Mr. Paynter; there's another and better argument
-against any outsider from the village or countryside having
+against any [[Outsider|outsider]] from the village or countryside having
 committed the crime.  Granted he might have slipped past us somehow,
 and gone for the Squire.  But why should he go for him in the wood?
 How did he know he was in the wood?  You remember how suddenly
 the poor old boy bolted into it, on what a momentary impulse.
 It's the last place where one would normally look for such a man,
-in the middle of the night.  No, it's an ugly thing to say, but we,
-the group round that garden table, were the only people who knew.
+in the middle of the [[Night|night]].  No, it's an ugly thing to say, but we,
+the group round that [[Garden|garden]] table, were the only people who knew.
 Which brings me back to the one point in your remarks which I happen
 to think perfectly true."

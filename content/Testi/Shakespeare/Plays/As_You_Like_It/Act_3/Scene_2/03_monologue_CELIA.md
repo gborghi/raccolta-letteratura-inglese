@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act III, Scene 2 — monologue (CELIA) [3]"
+title: "As You Like It — Act III, Scene 2 — monologue ([[Celia|CELIA]]) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/AS-YOU-LIKE-IT-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CELIA | (reads) ‘Why should this a desert be? For it is unpeopled? No. Tongues I’ll hang on every tree, That shall civil sayings show. Some, how brief the life of man Runs his erring pilgrimage, That the stretching of a span Buckles in his sum of age. Some of violated vows ’Twixt the souls of friend and friend. But upon the fairest boughs, Or at every sentence end, Will I ‘Rosalinda’ write, Teaching all that read to know The quintessence of every sprite Heaven would in little show. Therefore heaven nature charged That one body should be filled With all graces wide-enlarged. Nature presently distilled Helen’s cheek, but not her heart, Cleopatra’s majesty, Atalanta’s better part, Sad Lucretia’s modesty. Thus Rosalind of many parts By heavenly synod was devised Of many faces, eyes, and hearts To have the touches dearest prized. Heaven would that she these gifts should have And I to live and die her slave.’ |
+| [[Celia|CELIA]] | (reads) ‘Why should this a [[Desert|desert]] be? For it is unpeopled? No. Tongues I’ll hang on every tree, That shall civil sayings show. Some, how brief the life of man Runs his erring pilgrimage, That the stretching of a span Buckles in his sum of age. Some of violated vows ’Twixt the souls of friend and friend. But upon the fairest boughs, Or at every sentence end, Will I ‘Rosalinda’ write, Teaching all that read to know The quintessence of every sprite Heaven would in little show. Therefore heaven [[Nature|nature]] charged That one [[Body|body]] should be filled With all graces wide-enlarged. [[Nature]] presently distilled [[Helen]]’s cheek, but not her heart, [[Cleopatra]]’s majesty, Atalanta’s better part, Sad Lucretia’s modesty. Thus [[Rosalind]] of many parts By heavenly synod was devised Of many faces, eyes, and hearts To have the touches dearest prized. Heaven would that she these gifts should have And I to live and die her slave.’ |

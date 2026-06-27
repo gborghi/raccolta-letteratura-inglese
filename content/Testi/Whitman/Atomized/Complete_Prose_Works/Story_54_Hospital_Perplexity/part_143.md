@@ -28,8 +28,8 @@ Dickens, Mr. Jameson, Dr. Bartol and Bishop Haven have commemorated
 him,) is mostly but a reminiscence.
 
 During my visits to "the Hub," in 1859 and '60 I several times saw and
-heard Father Taylor. In the spring or autumn, quiet Sunday forenoons, I
-liked to go down early to the quaint ship-cabin-looking church where the
+heard Father Taylor. In the [[Spring|spring]] or [[Autumn|autumn]], quiet [[Sunday]] forenoons, I
+liked to go down early to the quaint [[Ship|ship]]-cabin-looking church where the
 old man minister'd--to enter and leisurely scan the building, the low
 ceiling, everything strongly timber'd (polish'd and rubb'd apparently,)
 the dark rich colors, the gallery, all in half-light--and smell the
@@ -42,7 +42,7 @@ the evident effect upon them of the place, occasion, and atmosphere.
 The pulpit, rising ten or twelve feet high, against the rear wall, was
 back' d by a significant mural painting, in oil--showing out its bold
 lines and strong hues through the subdued light of the building--of a
-stormy sea, the waves high-rolling, and amid them an old-style ship,
+stormy sea, the waves high-[[rolling]], and amid them an old-style [[Ship|ship]],
 all bent over, driving through the gale, and in great peril--a vivid
 and effectual piece of limning, not meant for the criticism of artists
 (though I think it had merit even from that standpoint,) but for its
@@ -50,7 +50,7 @@ effect upon the congregation, and what it would convey to them.
 
 Father Taylor was a moderate-sized man, indeed almost small, (reminded
 me of old Booth, the great actor, and my favorite of those and preceding
-days,) well advanced in years, but alert, with mild blue or gray eyes,
+days,) [[Well|well]] advanced in years, but alert, with mild blue or gray eyes,
 and good presence and voice. Soon as he open'd his mouth I ceas'd to pay
 any attention to church or audience, or pictures or lights and shades;
 a far more potent charm entirely sway'd me. In the course of the sermon,
@@ -70,21 +70,21 @@ then (very moderate and restrain'd) its outward sense, was the quality
 that had leading fulfilment.
 
 I remember I felt the deepest impression from the old man's prayers,
-which invariably affected me to tears. Never, on similar or any other
+which invariably affected me to [[Tears|tears]]. Never, on similar or any other
 occasions, have I heard such impassion'd pleading--such human-harassing
-reproach (like Hamlet to his mother, in the closet)--such probing to
-the very depths of that latent conscience and remorse which probably lie
-somewhere in the background of every life, every soul. For when Father
+reproach (like [[Hamlet]] to his mother, in the closet)--such probing to
+the very depths of that latent [[Conscience|conscience]] and remorse which probably lie
+somewhere in the background of every life, every [[Soul|soul]]. For when Father
 Taylor preach'd or pray'd, the rhetoric and art, the mere words, (which
 usually play such a big part) seem'd altogether to disappear, and the
 _live feeling_ advanced upon you and seiz'd you with a power before
 unknown. Everybody felt this marvellous and awful influence. One young
-sailor, a Rhode Islander, (who came every Sunday, and I got acquainted
+sailor, a Rhode Islander, (who came every [[Sunday]], and I got acquainted
 with, and talk'd to once or twice as we went away,) told me, "that must
-be the Holy Ghost we read of in the Testament."
+be the Holy [[Ghost]] we read of in the Testament."
 
 I should be at a loss to make any comparison with other preachers or
-public speakers. When a child I had heard Elias Hicks--and Father Taylor
+public speakers. When a [[Child|child]] I had heard Elias Hicks--and Father Taylor
 (though so different in personal appearance, for Elias was of tall and
 most shapely form, with black eyes that blazed at times like meteors,)
 always reminded me of him. Both had the same inner, apparently
@@ -96,9 +96,9 @@ the books, and formulas, and polish'd speaking, and rules of oratory.
 Talking of oratory, why is it that the unsophisticated practices often
 strike deeper than the train'd ones? Why do our experiences perhaps of
 some local country exhorter--or often in the West or South at political
-meetings--bring the most definite results? In my time I have heard
+meetings--bring the most definite results? In my [[Time|time]] I have heard
 Webster, Clay, Edward Everett, Phillips, and such _c�l�br�s_ yet I
-recall the minor but life-eloquence of men like John P. Hale, Cassius
+recall the minor but life-eloquence of men like John P. Hale, [[Cassius]]
 Clay, and one or two of the old abolition "fanatics" ahead of all those
 stereotyped fames. Is not--I sometimes question--the first, last, and
 most important quality of all, in training for a "finish'd speaker,"
@@ -111,13 +111,13 @@ there seem to be few real orators--almost none.
 
 I repeat, and would dwell upon it (more as suggestion than mere
 fact)--among all the brilliant lights of bar or stage I have heard in
-my time (for years in New York and other cities I haunted the courts
+my [[Time|time]] (for years in [[New York]] and other cities I haunted the courts
 to witness notable trials, and have heard all the famous actors and
-actresses that have been in America the past fifty years) though
+actresses that have been in [[America]] the past fifty years) though
 I recall marvellous effects from one or other of them, I never had
 anything in the way of vocal utterance to shake me through and through,
-and become fix'd, with its accompaniments, in my memory, like those
+and become fix'd, with its accompaniments, in my [[Memory|memory]], like those
 prayers and sermons--like Father Taylor's personal electricity and the
-whole scene there--the prone ship in the gale, and dashing wave and foam
-for background--in the little old sea-church in Boston, those summer
+whole scene there--the prone [[Ship|ship]] in the gale, and dashing wave and foam
+for background--in the little old sea-church in Boston, those [[Summer|summer]]
 Sundays just before the secession war broke out.

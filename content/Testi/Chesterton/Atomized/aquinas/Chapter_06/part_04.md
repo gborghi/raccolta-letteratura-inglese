@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 7 (part 4)"
+title: "[[aquinas]] — Chapter 7 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-A cosmic comedy of a very curious sort occurred recently;
-involving the views of very brilliant men, such as Mr. Bernard Shaw
+A cosmic [[Comedy|comedy]] of a very curious sort occurred recently;
+involving the views of very brilliant men, such as Mr. Bernard [[Shaw]]
 and the Dean of St. Paul's. Briefly, freethinkers of many sorts
 had often said they had no need of a Creation, because the cosmos
-had always existed and always would exist.  Mr. Bernard Shaw said
+had always existed and always would exist.  Mr. Bernard [[Shaw]] said
 he had become an atheist because the universe had gone on making itself
 from the beginning or without a beginning; Dean Inge later displayed
 consternation at the very idea that the universe could have an end.
 Most modern Christians, living by tradition where medieval Christians
-could live by logic or reason, vaguely felt that it was a dreadful
+could live by [[logic]] or reason, vaguely felt that it was a dreadful
 idea to deprive them of the Day of Judgment.  Most modern agnostics
 (who are delighted to have their ideas called dreadful) cried out all
-the more, with one accord, that the self-producing, self-existent,
+the more, with one accord, that the [[Self|self]]-producing, [[Self|self]]-existent,
 truly scientific universe had never needed to have a beginning
 and could not come to an end.  At this very instant, quite suddenly,
-like the look-out man on a ship who shouts a warning about a rock,
+like the look-out man on a [[Ship|ship]] who shouts a warning about a rock,
 the real man of science, the expert who was examining the facts,
 announced in a loud voice that the universe was coming to an end.
 He had not been listening, of course, to the talk of the amateurs;
@@ -45,9 +45,9 @@ over this truly tactless scientific discovery; and practically implored
 the scientific discoverers to go away and discover something different.
 It seems almost incredible; but it is a fact that he asked
 what God would have to amuse Him, if the universe ceased.
-That is a measure of how much the modern mind needs Thomas Aquinas.
-But even without Aquinas, I can hardly conceive any educated man,
-let alone such a learned man, believing in God at all without assuming
+That is a measure of how much the modern mind needs Thomas [[aquinas|Aquinas]].
+But even without [[aquinas|Aquinas]], I can hardly conceive any educated man,
+let [[Alone|alone]] such a learned man, believing in God at all without assuming
 that God contains in Himself every perfection including eternal joy;
 and does not require the solar system to entertain him like a circus.
 
@@ -60,14 +60,14 @@ mystical message to mankind he defends elsewhere with dozens of quite
 different arguments.  Anyhow, the Church said the world would end;
 and apparently the Church was right; always supposing (as we are always
 supposed to suppose) that the latest men of science are right.
-But Aquinas says he sees no particular reason, in reason, why this
+But [[aquinas|Aquinas]] says he sees no particular reason, in reason, why this
 world should not be a world without end; or even without beginning.
 And he is quite certain that, if it were entirely without end
 or beginning, there would still be exactly the same logical need
 of a Creator.  Anybody who does not see that, he gently implies,
 does not really understand what is meant by a Creator.
 
-For what St. Thomas means is not a medieval picture of an old king;
+For what St. Thomas means is not a medieval picture of an old [[King|king]];
 but this second step in the great argument about Ens or Being;
 the second point which is so desperately difficult to put correctly
 in popular language.  That is why I have introduced it here in
@@ -75,7 +75,7 @@ the particular form of the argument that there must be a Creator
 even if there is no Day of Creation.  Looking at Being as it is now,
 as the baby looks at the grass, we see a second thing about it;
 in quite popular language, it looks secondary and dependent.
-Existence exists; but it is not sufficiently self-existent;
+Existence exists; but it is not sufficiently [[Self|self]]-existent;
 and would never become so merely by going on existing.
 The same primary sense which tells us it is Being, tells us that it
 is not perfect Being; not merely imperfect in the popular controversial
@@ -86,7 +86,7 @@ constant or complete thing of which it gives in itself no example.
 That is the meaning of that basic medieval phrase, "Everything that
 is moving is moved by another;" which, in the clear subtlety of
 St. Thomas, means inexpressibly more than the mere Deistic "somebody
-wound up the clock" with which it is probably often confounded.
+wound up the [[Clock|clock]]" with which it is probably often confounded.
 Anyone who thinks deeply will see that motion has about it an
 essential incompleteness, which approximates to something more complete.
 
@@ -102,9 +102,9 @@ of the old thesis is covered by old-fashioned phraseology.
 But for those who really think, there is always something
 really unthinkable about the whole evolutionary cosmos, as they
 conceive it; because it is something coming out of nothing;
-an ever-increasing flood of water pouring out of an empty jug.
+an ever-increasing flood of [[Water|water]] pouring out of an empty jug.
 Those who can simply accept that, without even seeing the difficulty,
-are not likely to go so deep as Aquinas and see the solution
+are not likely to go so deep as [[aquinas|Aquinas]] and see the solution
 of his difficulty.  In a word, the world does not explain itself,
 and cannot do so merely by continuing to expand itself.
 But anyhow it is absurd for the Evolutionist to complain that it

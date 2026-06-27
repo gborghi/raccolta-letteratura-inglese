@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 46 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 46 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -32,7 +32,7 @@ Palmer’s dressing-room. When there, at her own particular request, for
 
 she was impatient to pour forth her thanks to him for fetching her
 
-mother, Colonel Brandon was invited to visit her.
+mother, [[Colonel Brandon]] was invited to visit her.
 
 
 
@@ -44,7 +44,7 @@ such, as, in Elinor’s conjecture, must arise from something more than
 
 his affection for Marianne, or the consciousness of its being known to
 
-others; and she soon discovered in his melancholy eye and varying
+others; and she soon discovered in his [[Melancholy|melancholy]] eye and varying
 
 complexion as he looked at her sister, the probable recurrence of many
 
@@ -64,7 +64,7 @@ with a mind very differently influenced, and therefore watching to very
 
 different effect, saw nothing in the Colonel’s behaviour but what arose
 
-from the most simple and self-evident sensations, while in the actions
+from the most simple and [[Self|self]]-evident sensations, while in the actions
 
 and words of Marianne she persuaded herself to think that something
 
@@ -80,7 +80,7 @@ daughter’s wishes, began to talk of removing to Barton. On _her_
 
 measures depended those of her two friends; Mrs. Jennings could not
 
-quit Cleveland during the Dashwoods’ stay; and Colonel Brandon was soon
+quit Cleveland during the Dashwoods’ stay; and [[Colonel Brandon]] was soon
 
 brought, by their united request, to consider his own abode there as
 
@@ -88,13 +88,13 @@ equally determinate, if not equally indispensable. At his and Mrs.
 
 Jennings’s united request in return, Mrs. Dashwood was prevailed on to
 
-accept the use of his carriage on her journey back, for the better
+accept the use of his carriage on her [[Journey|journey]] back, for the better
 
-accommodation of her sick child; and the Colonel, at the joint
+accommodation of her sick [[Child|child]]; and the Colonel, at the joint
 
-invitation of Mrs. Dashwood and Mrs. Jennings, whose active good-nature
+invitation of Mrs. Dashwood and Mrs. Jennings, whose active good-[[Nature|nature]]
 
-made her friendly and hospitable for other people as well as herself,
+made her friendly and hospitable for other people as [[Well|well]] as herself,
 
 engaged with pleasure to redeem it by a visit at the cottage, in the
 
@@ -110,7 +110,7 @@ grateful, so full of respect and kind wishes as seemed due to her own
 
 heart from a secret acknowledgment of past inattention, and bidding
 
-Colonel Brandon farewell with a cordiality of a friend, was carefully
+[[Colonel Brandon]] farewell with a cordiality of a friend, was carefully
 
 assisted by him into the carriage, of which he seemed anxious that she
 
@@ -122,13 +122,13 @@ feel their own dullness, till Mrs. Jennings was summoned to her chaise
 
 to take comfort in the gossip of her maid for the loss of her two young
 
-companions; and Colonel Brandon immediately afterwards took his
+companions; and [[Colonel Brandon]] immediately afterwards took his
 
 solitary way to Delaford.
 
 
 
-The Dashwoods were two days on the road, and Marianne bore her journey
+The Dashwoods were two days on the [[Road|road]], and Marianne bore her [[Journey|journey]]
 
 on both, without essential fatigue. Every thing that the most zealous
 
@@ -140,9 +140,9 @@ in her bodily ease, and her calmness of spirits. To Elinor, the
 
 observation of the latter was particularly grateful. She, who had seen
 
-her week after week so constantly suffering, oppressed by anguish of
+her week after week so constantly [[Suffering|suffering]], oppressed by anguish of
 
-heart which she had neither courage to speak of, nor fortitude to
+heart which she had neither [[Courage|courage]] to speak of, nor fortitude to
 
 conceal, now saw with a joy, which no other could equally share, an
 
@@ -160,9 +160,9 @@ field and every tree brought some peculiar, some painful recollection,
 
 she grew silent and thoughtful, and turning away her face from their
 
-notice, sat earnestly gazing through the window. But here, Elinor could
+notice, sat earnestly gazing through the [[Window|window]]. But here, Elinor could
 
-neither wonder nor blame; and when she saw, as she assisted Marianne
+neither [[Wonder|wonder]] nor blame; and when she saw, as she assisted Marianne
 
 from the carriage, that she had been crying, she saw only an emotion
 
@@ -206,7 +206,7 @@ much.
 
 The next morning produced no abatement in these happy symptoms. On the
 
-contrary, with a mind and body alike strengthened by rest, she looked
+contrary, with a mind and [[Body|body]] alike strengthened by rest, she looked
 
 and spoke with more genuine spirit, anticipating the pleasure of
 

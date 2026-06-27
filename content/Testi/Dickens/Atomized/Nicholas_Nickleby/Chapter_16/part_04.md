@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 16 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 16 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,10 +17,10 @@ tags:
 ‘Question number one.--Whether, sir, you did not give a voluntary pledge
 previous to your election, that in event of your being returned, you
 would immediately put down the practice of coughing and groaning in
-the House of Commons. And whether you did not submit to be coughed and
-groaned down in the very first debate of the session, and have since
-made no effort to effect a reform in this respect? Whether you did not
-also pledge yourself to astonish the government, and make them shrink in
+the [[house|House]] of Commons. And whether you did not submit to be coughed and
+groaned down in the very first [[debate]] of the session, and have since
+made no effort to effect a [[Reform|reform]] in this respect? Whether you did not
+also pledge yourself to astonish the [[government]], and make them shrink in
 their shoes? And whether you have astonished them, and made them shrink
 in their shoes, or not?’
 
@@ -38,7 +38,7 @@ of inquiries.
 
 ‘Question number two.--Whether, sir, you did not likewise give a
 voluntary pledge that you would support your colleague on every
-occasion; and whether you did not, the night before last, desert him
+occasion; and whether you did not, the [[Night|night]] before last, [[Desert|desert]] him
 and vote upon the other side, because the wife of a leader on that other
 side had invited Mrs. Gregsbury to an evening party?’
 
@@ -47,7 +47,7 @@ side had invited Mrs. Gregsbury to an evening party?’
 ‘Nothing to say on that, either, sir?’ asked the spokesman.
 
 ‘Nothing whatever,’ replied Mr. Gregsbury. The deputation, who had
-only seen him at canvassing or election time, were struck dumb by his
+only seen him at canvassing or election [[Time|time]], were struck dumb by his
 coolness. He didn’t appear like the same man; then he was all milk and
 honey; now he was all starch and vinegar. But men ARE so different at
 different times!
@@ -55,7 +55,7 @@ different times!
 ‘Question number three--and last,’ said Mr. Pugstyles, emphatically.
 ‘Whether, sir, you did not state upon the hustings, that it was your
 firm and determined intention to oppose everything proposed; to divide
-the house upon every question, to move for returns on every subject,
+the [[house]] upon every question, to move for returns on every subject,
 to place a motion on the books every day, and, in short, in your own
 memorable words, to play the very devil with everything and everybody?’
 With this comprehensive inquiry, Mr. Pugstyles folded up his list of
@@ -69,11 +69,11 @@ everything.’
 
 At this unexpected answer, a hoarse murmur arose from the deputation;
 and the same gentleman who had expressed an opinion relative to the
-gammoning nature of the introductory speech, again made a monosyllabic
+gammoning [[Nature|nature]] of the introductory speech, again made a monosyllabic
 demonstration, by growling out ‘Resign!’ Which growl being taken up by
 his fellows, swelled into a very earnest and general remonstrance.
 
-‘I am requested, sir, to express a hope,’ said Mr. Pugstyles, with a
+‘I am requested, sir, to express a [[Hope|hope]],’ said Mr. Pugstyles, with a
 distant bow, ‘that on receiving a requisition to that effect from a
 great majority of your constituents, you will not object at once to
 resign your seat in favour of some candidate whom they think they can
@@ -88,7 +88,7 @@ been made to send round to the newspapers.
 ‘Next to the welfare of our beloved island--this great and free and
 happy country, whose powers and resources are, I sincerely believe,
 illimitable--I value that noble independence which is an Englishman’s
-proudest boast, and which I fondly hope to bequeath to my children,
+proudest boast, and which I fondly [[Hope|hope]] to bequeath to my children,
 untarnished and unsullied. Actuated by no personal motives, but moved
 only by high and great constitutional considerations; which I will not
 attempt to explain, for they are really beneath the comprehension of
@@ -97,7 +97,7 @@ and arduous study of politics; I would rather keep my seat, and intend
 doing so.
 
 ‘Will you do me the favour to present my compliments to the constituent
-body, and acquaint them with this circumstance?
+[[Body|body]], and acquaint them with this circumstance?
 
 ‘With great esteem, ‘My dear Mr. Pugstyles, ‘&c.&c.’
 
@@ -114,9 +114,9 @@ staircase would allow of their getting down.
 
 The last man being gone, Mr. Gregsbury rubbed his hands and chuckled, as
 merry fellows will, when they think they have said or done a more than
-commonly good thing; he was so engrossed in this self-congratulation,
-that he did not observe that Nicholas had been left behind in the shadow
-of the window-curtains, until that young gentleman, fearing he might
+commonly good thing; he was so engrossed in this [[Self|self]]-congratulation,
+that he did not observe that Nicholas had been left behind in the [[Shadow|shadow]]
+of the [[Window|window]]-curtains, until that young gentleman, fearing he might
 otherwise overhear some soliloquy intended to have no listeners, coughed
 twice or thrice, to attract the member’s notice.
 
@@ -140,7 +140,7 @@ Nicholas, ‘wishing to offer myself as your secretary, and understanding
 that you stood in need of one.’
 
 ‘That’s all you have come for, is it?’ said Mr. Gregsbury, eyeing him in
-some doubt.
+some [[Doubt|doubt]].
 
 Nicholas replied in the affirmative.
 

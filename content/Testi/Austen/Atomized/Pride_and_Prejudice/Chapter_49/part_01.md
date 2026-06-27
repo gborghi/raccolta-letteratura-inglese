@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 49 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 49 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -20,20 +20,20 @@ CHAPTER XLIX.
 [Illustration]
 
 Two days after Mr. Bennet’s return, as Jane and Elizabeth were walking
-together in the shrubbery behind the house, they saw the housekeeper
+together in the shrubbery behind the [[house]], they saw the housekeeper
 coming towards them, and concluding that she came to call them to their
 mother, went forward to meet her; but instead of the expected summons,
 when they approached her, she said to Miss Bennet, “I beg your pardon,
 madam, for interrupting you, but I was in hopes you might have got some
 good news from town, so I took the liberty of coming to ask.”
 
-“What do you mean, Hill? We have heard nothing from town.”
+“What do you mean, [[Hill]]? We have heard nothing from town.”
 
-“Dear madam,” cried Mrs. Hill, in great astonishment, “don’t you know
+“Dear madam,” cried Mrs. [[Hill]], in great astonishment, “don’t you know
 there is an express come for master from Mr. Gardiner? He has been here
 this half hour, and master has had a letter.”
 
-Away ran the girls, too eager to get in to have time for speech. They
+Away ran the girls, too eager to get in to have [[Time|time]] for speech. They
 ran through the vestibule into the breakfast-room; from thence to the
 library;--their father was in neither; and they were on the point of
 seeking him upstairs with their mother, when they were met by the
@@ -54,7 +54,7 @@ came up with him, and eagerly cried out,--
 
 “Yes, I have had a letter from him by express.”
 
-“Well, and what news does it bring--good or bad?”
+“[[Well]], and what news does it bring--good or bad?”
 
 “What is there of good to be expected?” said he, taking the letter from
 his pocket; “but perhaps you would like to read it.”
@@ -69,9 +69,9 @@ about.”
 “My dear Brother,
 
      “At last I am able to send you some tidings of my niece, and such
-     as, upon the whole, I hope will give you satisfaction. Soon after
+     as, upon the whole, I [[Hope|hope]] will give you satisfaction. Soon after
      you left me on Saturday, I was fortunate enough to find out in what
-     part of London they were. The particulars I reserve till we meet.
+     part of [[London]] they were. The particulars I reserve till we meet.
      It is enough to know they are discovered: I have seen them
      both----”
 
@@ -86,7 +86,7 @@ about.”
      Elizabeth read on: “I have seen them both. They are not married,
      nor can I find there was any intention of being so; but if you are
      willing to perform the engagements which I have ventured to make on
-     your side, I hope it will not be long before they are. All that is
+     your side, I [[Hope|hope]] it will not be long before they are. All that is
      required of you is, to assure to your daughter, by settlement, her
      equal share of the five thousand pounds, secured among your
      children after the decease of yourself and my sister; and,
@@ -94,7 +94,7 @@ about.”
      life, one hundred pounds per annum. These are conditions which,
      considering everything, I had no hesitation in complying with, as
      far as I thought myself privileged, for you. I shall send this by
-     express, that no time may be lost in bringing me your answer. You
+     express, that no [[Time|time]] may be lost in bringing me your answer. You
      will easily comprehend, from these particulars, that Mr. Wickham’s
      circumstances are not so hopeless as they are generally believed to
      be. The world has been deceived in that respect; and I am happy to
@@ -107,7 +107,7 @@ about.”
      to town again; therefore stay quietly at Longbourn, and depend on
      my diligence and care. Send back your answer as soon as you can,
      and be careful to write explicitly. We have judged it best that my
-     niece should be married from this house, of which I hope you will
+     niece should be married from this [[house]], of which I [[Hope|hope]] you will
      approve. She comes to us to-day. I shall write again as soon as
      anything more is determined on. Yours, etc.
 
@@ -123,7 +123,7 @@ sister. “My dear father, I congratulate you.”
 
 “No; but it must be done soon.”
 
-Most earnestly did she then entreat him to lose no more time before he
+Most earnestly did she then entreat him to lose no more [[Time|time]] before he
 wrote.
 
 “Oh! my dear father,” she cried, “come back and write immediately.
@@ -134,7 +134,7 @@ yourself.”
 
 “I dislike it very much,” he replied; “but it must be done.”
 
-And so saying, he turned back with them, and walked towards the house.
+And so saying, he turned back with them, and walked towards the [[house]].
 
 “And--may I ask?” said Elizabeth; “but the terms, I suppose, must be
 complied with.”
@@ -151,7 +151,7 @@ to pay him.”
 “Money! my uncle!” cried Jane, “what do you mean, sir?”
 
 “I mean that no man in his proper senses would marry Lydia on so slight
-a temptation as one hundred a year during my life, and fifty after I am
+a [[Temptation|temptation]] as one hundred a year during my life, and fifty after I am
 gone.”
 
 “That is very true,” said Elizabeth; “though it had not occurred to me

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 20 (part 5)"
+title: "[[Shirley]] — Chapter 20 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -54,9 +54,9 @@ bolsters, blankets, etc. The _victims_ lack no attentions, I promise
 
 you. Mr. Hall, your favourite parson, has been with them ever since six
 
-o'clock, exhorting them, praying with them, and even waiting on them
+o'[[Clock|clock]], exhorting them, praying with them, and even waiting on them
 
-like any nurse; and Caroline's good friend, Miss Ainley, that _very_
+like any [[Nurse|nurse]]; and Caroline's good friend, Miss Ainley, that _very_
 
 plain old maid, sent in a stock of lint and linen, something in the
 
@@ -68,7 +68,7 @@ proportion of another lady's allowance of beef and wine."
 
 
 
-"Well cared for. I had her securely domiciled with Miss Mann. This very
+"[[Well]] cared for. I had her securely domiciled with Miss Mann. This very
 
 morning the two set out for Wormwood Wells [a noted watering-place],
 
@@ -80,7 +80,7 @@ and will stay there some weeks."
 
 gentlemen think you are! I make you heartily welcome to the idea, and
 
-hope its savour, as you chew the cud of reflection upon it, gives you
+[[Hope|hope]] its savour, as you chew the cud of reflection upon it, gives you
 
 pleasure. Acute and astute, why are you not also omniscient? How is it
 
@@ -118,7 +118,7 @@ Moore, indeed, looked as if he could not.
 
 
 
-"You know her as well as I do."
+"You know her as [[Well|well]] as I do."
 
 
 
@@ -142,7 +142,7 @@ respect, to yourself?"
 
 
 
-"You do, no doubt; but that does not signify. Caroline is neither
+"You do, no [[Doubt|doubt]]; but that does not signify. Caroline is neither
 
 masculine, nor of what they call the spirited order of women."
 
@@ -152,7 +152,7 @@ masculine, nor of what they call the spirited order of women."
 
 
 
-"So have I, but not with manly fire. It was a short, vivid, trembling
+"So have I, but not with manly [[Fire|fire]]. It was a short, vivid, trembling
 
 glow, that shot up, shone, vanished----"
 

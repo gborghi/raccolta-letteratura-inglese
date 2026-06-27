@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 20"
+title: "[[Pride and Prejudice]] — Chapter 20"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XX.
 [Illustration]
 
 Mr. Collins was not left long to the silent contemplation of his
-successful love; for Mrs. Bennet, having dawdled about in the vestibule
+successful [[Love|love]]; for Mrs. Bennet, having dawdled about in the vestibule
 to watch for the end of the conference, no sooner saw Elizabeth open the
 door and with quick step pass her towards the staircase, than she
 entered the breakfast-room, and congratulated both him and herself in
@@ -44,7 +44,7 @@ I will _make_ her know it.”
 “Pardon me for interrupting you, madam,” cried Mr. Collins; “but if she
 is really headstrong and foolish, I know not whether she would
 altogether be a very desirable wife to a man in my situation, who
-naturally looks for happiness in the marriage state. If, therefore, she
+naturally looks for happiness in the [[Marriage|marriage]] state. If, therefore, she
 actually persists in rejecting my suit, perhaps it were better not to
 force her into accepting me, because, if liable to such defects of
 temper, she could not contribute much to my felicity.”
@@ -54,7 +54,7 @@ only headstrong in such matters as these. In everything else she is as
 good-natured a girl as ever lived. I will go directly to Mr. Bennet, and
 we shall very soon settle it with her, I am sure.”
 
-She would not give him time to reply, but hurrying instantly to her
+She would not give him [[Time|time]] to reply, but hurrying instantly to her
 husband, called out, as she entered the library,--
 
 “Oh, Mr. Bennet, you are wanted immediately; we are all in an uproar.
@@ -82,17 +82,17 @@ marrying him.”
 Mrs. Bennet rang the bell, and Miss Elizabeth was summoned to the
 library.
 
-“Come here, child,” cried her father as she appeared. “I have sent for
+“Come here, [[Child|child]],” cried her father as she appeared. “I have sent for
 you on an affair of importance. I understand that Mr. Collins has made
-you an offer of marriage. Is it true?”
+you an offer of [[Marriage|marriage]]. Is it true?”
 
 Elizabeth replied that it was.
 
-“Very well--and this offer of marriage you have refused?”
+“Very [[Well|well]]--and this offer of [[Marriage|marriage]] you have refused?”
 
 “I have, sir.”
 
-“Very well. We now come to the point. Your mother insists upon your
+“Very [[Well|well]]. We now come to the point. Your mother insists upon your
 accepting it. Is it not so, Mrs. Bennet?”
 
 “Yes, or I will never see her again.”
@@ -122,13 +122,13 @@ interfering; and Elizabeth, sometimes with real earnestness, and
 sometimes with playful gaiety, replied to her attacks. Though her manner
 varied, however, her determination never did.
 
-Mr. Collins, meanwhile, was meditating in solitude on what had passed.
-He thought too well of himself to comprehend on what motive his cousin
-could refuse him; and though his pride was hurt, he suffered in no other
+Mr. Collins, meanwhile, was meditating in [[Solitude|solitude]] on what had passed.
+He thought too [[Well|well]] of himself to comprehend on what motive his cousin
+could refuse him; and though his [[Pride|pride]] was hurt, he suffered in no other
 way. His regard for her was quite imaginary; and the possibility of her
 deserving her mother’s reproach prevented his feeling any regret.
 
-While the family were in this confusion, Charlotte Lucas came to spend
+While the family were in this confusion, [[Charlotte Lucas]] came to spend
 the day with them. She was met in the vestibule by Lydia, who, flying to
 her, cried in a half whisper, “I am glad you are come, for there is such
 fun here! What do you think has happened this morning? Mr. Collins has
@@ -139,12 +139,12 @@ made an offer to Lizzy, and she will not have him.”
      “they entered the breakfast room”
 ]
 
-Charlotte had hardly time to answer before they were joined by Kitty,
+Charlotte had hardly [[Time|time]] to answer before they were joined by Kitty,
 who came to tell the same news; and no sooner had they entered the
-breakfast-room, where Mrs. Bennet was alone, than she likewise began on
+breakfast-room, where Mrs. Bennet was [[Alone|alone]], than she likewise began on
 the subject, calling on Miss Lucas for her compassion, and entreating
 her to persuade her friend Lizzy to comply with the wishes of her
-family. “Pray do, my dear Miss Lucas,” she added, in a melancholy tone;
+family. “Pray do, my dear Miss Lucas,” she added, in a [[Melancholy|melancholy]] tone;
 “for nobody is on my side, nobody takes part with me; I am cruelly used,
 nobody feels for my poor nerves.”
 
@@ -153,7 +153,7 @@ Charlotte’s reply was spared by the entrance of Jane and Elizabeth.
 “Ay, there she comes,” continued Mrs. Bennet, “looking as unconcerned as
 may be, and caring no more for us than if we were at York, provided she
 can have her own way. But I tell you what, Miss Lizzy, if you take it
-into your head to go on refusing every offer of marriage in this way,
+into your head to go on refusing every offer of [[Marriage|marriage]] in this way,
 you will never get a husband at all--and I am sure I do not know who is
 to maintain you when your father is dead. _I_ shall not be able to keep
 you--and so I warn you. I have done with you from this very day. I told
@@ -164,7 +164,7 @@ to anybody. People who suffer as I do from nervous complaints can have
 no great inclination for talking. Nobody can tell what I suffer! But it
 is always so. Those who do not complain are never pitied.”
 
-Her daughters listened in silence to this effusion, sensible that any
+Her daughters listened in [[Silence|silence]] to this effusion, sensible that any
 attempt to reason with or soothe her would only increase the irritation.
 She talked on, therefore, without interruption from any of them till
 they were joined by Mr. Collins, who entered with an air more stately
@@ -177,7 +177,7 @@ Elizabeth passed quietly out of the room, Jane and Kitty followed, but
 Lydia stood her ground, determined to hear all she could; and Charlotte,
 detained first by the civility of Mr. Collins, whose inquiries after
 herself and all her family were very minute, and then by a little
-curiosity, satisfied herself with walking to the window and pretending
+curiosity, satisfied herself with walking to the [[Window|window]] and pretending
 not to hear. In a doleful voice Mrs. Bennet thus began the projected
 conversation:--
 
@@ -185,20 +185,20 @@ conversation:--
 
 “My dear madam,” replied he, “let us be for ever silent on this point.
 Far be it from me,” he presently continued, in a voice that marked his
-displeasure, “to resent the behaviour of your daughter. Resignation to
+displeasure, “to resent the behaviour of your daughter. [[Resignation]] to
 inevitable evils is the duty of us all: the peculiar duty of a young man
 who has been so fortunate as I have been, in early preferment; and, I
-trust, I am resigned. Perhaps not the less so from feeling a doubt of my
+trust, I am resigned. Perhaps not the less so from feeling a [[Doubt|doubt]] of my
 positive happiness had my fair cousin honoured me with her hand; for I
-have often observed, that resignation is never so perfect as when the
+have often observed, that [[Resignation|resignation]] is never so perfect as when the
 blessing denied begins to lose somewhat of its value in our estimation.
-You will not, I hope, consider me as showing any disrespect to your
+You will not, I [[Hope|hope]], consider me as showing any disrespect to your
 family, my dear madam, by thus withdrawing my pretensions to your
 daughter’s favour, without having paid yourself and Mr. Bennet the
 compliment of requesting you to interpose your authority in my behalf.
-My conduct may, I fear, be objectionable in having accepted my
+My conduct may, I [[Fear|fear]], be objectionable in having accepted my
 dismission from your daughter’s lips instead of your own; but we are all
-liable to error. I have certainly meant well through the whole affair.
+liable to error. I have certainly meant [[Well|well]] through the whole affair.
 My object has been to secure an amiable companion for myself, with due
 consideration for the advantage of all your family; and if my _manner_
 has been at all reprehensible, I here beg leave to apologize.”

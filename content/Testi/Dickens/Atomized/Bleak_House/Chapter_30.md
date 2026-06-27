@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 30"
+title: "Bleak [[house|House]] — Chapter 30"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,16 +19,16 @@ CHAPTER XXX
 Esther’s Narrative
 
 
-Richard had been gone away some time when a visitor came to pass a
+[[Richard]] had been gone away some [[Time|time]] when a visitor came to pass a
 few days with us. It was an elderly lady. It was Mrs. Woodcourt, who,
 having come from Wales to stay with Mrs. Bayham Badger and having
-written to my guardian, “by her son Allan’s desire,” to report that
-she had heard from him and that he was well “and sent his kind
+written to my guardian, “by her son Allan’s [[Desire|desire]],” to report that
+she had heard from him and that he was [[Well|well]] “and sent his kind
 remembrances to all of us,” had been invited by my guardian to make a
-visit to Bleak House. She stayed with us nearly three weeks. She took
+visit to Bleak [[house|House]]. She stayed with us nearly three weeks. She took
 very kindly to me and was extremely confidential, so much so that
 sometimes she almost made me uncomfortable. I had no right, I knew
-very well, to be uncomfortable because she confided in me, and I felt
+very [[Well|well]], to be uncomfortable because she confided in me, and I felt
 it was unreasonable; still, with all I could do, I could not quite
 help it.
 
@@ -41,8 +41,8 @@ expression of her face, which was very sparkling and pretty for an
 old lady. I don’t know what it was. Or at least if I do now, I
 thought I did not then. Or at least—but it don’t matter.
 
-Of a night when I was going upstairs to bed, she would invite me
-into her room, where she sat before the fire in a great chair;
+Of a [[Night|night]] when I was going upstairs to bed, she would invite me
+into her room, where she sat before the [[Fire|fire]] in a great chair;
 and, dear me, she would tell me about Morgan ap-Kerrig until I
 was quite low-spirited! Sometimes she recited a few verses from
 Crumlinwallinwer and the Mewlinnwillinwodd (if those are the right
@@ -72,7 +72,7 @@ notwithstanding.
 “Poor Mr. Woodcourt, my dear,” she would say, and always with some
 emotion, for with her lofty pedigree she had a very affectionate
 heart, “was descended from a great Highland family, the MacCoorts of
-MacCoort. He served his king and country as an officer in the Royal
+MacCoort. He served his [[King|king]] and country as an officer in the Royal
 Highlanders, and he died on the field. My son is one of the last
 representatives of two old families. With the blessing of heaven he
 will set them up again and unite them with another old family.”
@@ -81,8 +81,8 @@ It was in vain for me to try to change the subject, as I used to try,
 only for the sake of novelty or perhaps because—but I need not be so
 particular. Mrs. Woodcourt never would let me change it.
 
-“My dear,” she said one night, “you have so much sense and you look
-at the world in a quiet manner so superior to your time of life that
+“My dear,” she said one [[Night|night]], “you have so much sense and you look
+at the world in a quiet manner so superior to your [[Time|time]] of life that
 it is a comfort to me to talk to you about these family matters of
 mine. You don’t know much of my son, my dear; but you know enough of
 him, I dare say, to recollect him?”
@@ -101,7 +101,7 @@ myself.”
 
 “On so slight an acquaintance, my dear. THAT’S true.”
 
-I didn’t mean that, because Mr. Woodcourt had been at our house a
+I didn’t mean that, because Mr. Woodcourt had been at our [[house]] a
 good deal altogether and had become quite intimate with my guardian.
 I said so, and added that he seemed to be very clever in his
 profession—we thought—and that his kindness and gentleness to Miss
@@ -110,7 +110,7 @@ Flite were above all praise.
 “You do him justice!” said Mrs. Woodcourt, pressing my hand. “You
 define him exactly. Allan is a dear fellow, and in his profession
 faultless. I say it, though I am his mother. Still, I must confess he
-is not without faults, love.”
+is not without faults, [[Love|love]].”
 
 “None of us are,” said I.
 
@@ -132,7 +132,7 @@ refer to his profession, look you.”
 always paying trivial attentions to young ladies, and always has
 been, ever since he was eighteen. Now, my dear, he has never really
 cared for any one of them and has never meant in doing this to do any
-harm or to express anything but politeness and good nature. Still,
+harm or to express anything but politeness and good [[Nature|nature]]. Still,
 it’s not right, you know; is it?”
 
 “No,” said I, as she seemed to wait for me.
@@ -147,10 +147,10 @@ has always said, ‘Mother, I will be; but you know me better than
 anybody else does, and you know I mean no harm—in short, mean
 nothing.’ All of which is very true, my dear, but is no
 justification. However, as he is now gone so far away and for an
-indefinite time, and as he will have good opportunities and
+indefinite [[Time|time]], and as he will have good opportunities and
 introductions, we may consider this past and gone. And you, my dear,”
 said the old lady, who was now all nods and smiles, “regarding your
-dear self, my love?”
+dear [[Self|self]], my [[Love|love]]?”
 
 “Me, Mrs. Woodcourt?”
 
@@ -163,9 +163,9 @@ did—and I said my present fortune perfectly contented me and I had
 no wish to change it.
 
 “Shall I tell you what I always think of you and the fortune yet to
-come for you, my love?” said Mrs. Woodcourt.
+come for you, my [[Love|love]]?” said Mrs. Woodcourt.
 
-“If you believe you are a good prophet,” said I.
+“If you believe you are a good [[Prophet|prophet]],” said I.
 
 “Why, then, it is that you will marry some one very rich and very
 worthy, much older—five and twenty years, perhaps—than yourself.
@@ -175,30 +175,30 @@ And you will be an excellent wife, and much beloved, and very happy.”
 
 “My dear,” she returned, “there’s suitability in it—you are so busy,
 and so neat, and so peculiarly situated altogether that there’s
-suitability in it, and it will come to pass. And nobody, my love,
-will congratulate you more sincerely on such a marriage than I
+suitability in it, and it will come to pass. And nobody, my [[Love|love]],
+will congratulate you more sincerely on such a [[Marriage|marriage]] than I
 shall.”
 
 It was curious that this should make me uncomfortable, but I think it
-did. I know it did. It made me for some part of that night
+did. I know it did. It made me for some part of that [[Night|night]]
 uncomfortable. I was so ashamed of my folly that I did not like to
 confess it even to Ada, and that made me more uncomfortable still. I
 would have given anything not to have been so much in the bright old
 lady’s confidence if I could have possibly declined it. It gave me
-the most inconsistent opinions of her. At one time I thought she was
-a story-teller, and at another time that she was the pink of truth.
+the most inconsistent opinions of her. At one [[Time|time]] I thought she was
+a story-teller, and at another [[Time|time]] that she was the pink of [[Truth|truth]].
 Now I suspected that she was very cunning, next moment I believed her
-honest Welsh heart to be perfectly innocent and simple. And after
+honest Welsh heart to be perfectly [[Innocent|innocent]] and simple. And after
 all, what did it matter to me, and why did it matter to me? Why could
 not I, going up to bed with my basket of keys, stop to sit down by
-her fire and accommodate myself for a little while to her, at least
-as well as to anybody else, and not trouble myself about the harmless
+her [[Fire|fire]] and accommodate myself for a little while to her, at least
+as [[Well|well]] as to anybody else, and not trouble myself about the harmless
 things she said to me? Impelled towards her, as I certainly was, for
 I was very anxious that she should like me and was very glad indeed
 that she did, why should I harp afterwards, with actual distress and
-pain, on every word she said and weigh it over and over again in
-twenty scales? Why was it so worrying to me to have her in our house,
-and confidential to me every night, when I yet felt that it was
+[[Pain|pain]], on every word she said and weigh it over and over again in
+twenty scales? Why was it so worrying to me to have her in our [[house]],
+and confidential to me every [[Night|night]], when I yet felt that it was
 better and safer somehow that she should be there than anywhere else?
 These were perplexities and contradictions that I could not account
 for. At least, if I could—but I shall come to all that by and by,
@@ -227,20 +227,20 @@ think, to judge from the state of the furniture), and had satisfied
 every one concerned that he could do no more, poor man. So, he had
 been honourably dismissed to “the office” to begin the world again.
 What he did at the office, I never knew; Caddy said he was a
-“custom-house and general agent,” and the only thing I ever
+“custom-[[house]] and general agent,” and the only thing I ever
 understood about that business was that when he wanted money more
 than usual he went to the docks to look for it, and hardly ever found
 it.
 
 As soon as her papa had tranquillized his mind by becoming this shorn
-lamb, and they had removed to a furnished lodging in Hatton Garden
+[[Lamb|lamb]], and they had removed to a furnished lodging in Hatton [[Garden]]
 (where I found the children, when I afterwards went there, cutting
-the horse hair out of the seats of the chairs and choking themselves
+the [[Horse|horse]] hair out of the seats of the chairs and choking themselves
 with it), Caddy had brought about a meeting between him and old Mr.
 Turveydrop; and poor Mr. Jellyby, being very humble and meek, had
 deferred to Mr. Turveydrop’s deportment so submissively that they had
 become excellent friends. By degrees, old Mr. Turveydrop, thus
-familiarized with the idea of his son’s marriage, had worked up his
+familiarized with the idea of his son’s [[Marriage|marriage]], had worked up his
 parental feelings to the height of contemplating that event as being
 near at hand and had given his gracious consent to the young couple
 commencing housekeeping at the academy in Newman Street when they
@@ -251,18 +251,18 @@ would.
 “Oh! Poor Pa,” said Caddy, “only cried and said he hoped we might get
 on better than he and Ma had got on. He didn’t say so before Prince,
 he only said so to me. And he said, ‘My poor girl, you have not been
-very well taught how to make a home for your husband, but unless you
+very [[Well|well]] taught how to make a [[Home|home]] for your husband, but unless you
 mean with all your heart to strive to do it, you had better murder
-him than marry him—if you really love him.’”
+him than marry him—if you really [[Love|love]] him.’”
 
 “And how did you reassure him, Caddy?”
 
 “Why, it was very distressing, you know, to see poor Pa so low and
 hear him say such terrible things, and I couldn’t help crying myself.
 But I told him that I DID mean it with all my heart and that I hoped
-our house would be a place for him to come and find some comfort in
+our [[house]] would be a place for him to come and find some comfort in
 of an evening and that I hoped and thought I could be a better
-daughter to him there than at home. Then I mentioned Peepy’s coming
+daughter to him there than at [[Home|home]]. Then I mentioned Peepy’s coming
 to stay with me, and then Pa began to cry again and said the children
 were Indians.”
 
@@ -277,7 +277,7 @@ Ada suggested that it was comfortable to know that Mr. Jellyby did
 not mean these destructive sentiments.
 
 “No, of course I know Pa wouldn’t like his family to be weltering in
-their blood,” said Caddy, “but he means that they are very
+their [[Blood|blood]],” said Caddy, “but he means that they are very
 unfortunate in being Ma’s children and that he is very unfortunate in
 being Ma’s husband; and I am sure that’s true, though it seems
 unnatural to say so.”
@@ -295,7 +295,7 @@ letters.”
 “And about your wardrobe, Caddy?” said I. For she was under no
 restraint with us.
 
-“Well, my dear Esther,” she returned, drying her eyes, “I must do the
+“[[Well]], my dear Esther,” she returned, drying her eyes, “I must do the
 best I can and trust to my dear Prince never to have an unkind
 remembrance of my coming so shabbily to him. If the question
 concerned an outfit for Borrioboola, Ma would know all about it and
@@ -303,7 +303,7 @@ would be quite excited. Being what it is, she neither knows nor
 cares.”
 
 Caddy was not at all deficient in natural affection for her mother,
-but mentioned this with tears as an undeniable fact, which I am
+but mentioned this with [[Tears|tears]] as an undeniable fact, which I am
 afraid it was. We were sorry for the poor dear girl and found so much
 to admire in the good disposition which had survived under such
 discouragement that we both at once (I mean Ada and I) proposed a
@@ -312,7 +312,7 @@ with us for three weeks, my staying with her for one, and our all
 three contriving and cutting out, and repairing, and sewing, and
 saving, and doing the very best we could think of to make the most of
 her stock. My guardian being as pleased with the idea as Caddy was,
-we took her home next day to arrange the matter and brought her out
+we took her [[Home|home]] next day to arrange the matter and brought her out
 again in triumph with her boxes and all the purchases that could be
 squeezed out of a ten-pound note, which Mr. Jellyby had found in the
 docks I suppose, but which he at all events gave her. What my
@@ -331,7 +331,7 @@ darling, and my little maid Charley, and a milliner out of the town,
 and I, sat hard at work, as pleasantly as possible.
 
 Over and above this, Caddy was very anxious “to learn housekeeping,”
-as she said. Now, mercy upon us! The idea of her learning
+as she said. Now, [[Mercy|mercy]] upon us! The idea of her learning
 housekeeping of a person of my vast experience was such a joke that I
 laughed, and coloured up, and fell into a comical confusion when she
 proposed it. However, I said, “Caddy, I am sure you are very welcome
@@ -345,15 +345,15 @@ follower than Caddy Jellyby.
 
 So what with working and housekeeping, and lessons to Charley, and
 backgammon in the evening with my guardian, and duets with Ada, the
-three weeks slipped fast away. Then I went home with Caddy to see
+three weeks slipped fast away. Then I went [[Home|home]] with Caddy to see
 what could be done there, and Ada and Charley remained behind to take
 care of my guardian.
 
-When I say I went home with Caddy, I mean to the furnished lodging in
-Hatton Garden. We went to Newman Street two or three times, where
+When I say I went [[Home|home]] with Caddy, I mean to the furnished lodging in
+Hatton [[Garden]]. We went to Newman Street two or three times, where
 preparations were in progress too—a good many, I observed, for
 enhancing the comforts of old Mr. Turveydrop, and a few for putting
-the newly married couple away cheaply at the top of the house—but
+the newly married couple away cheaply at the top of the [[house]]—but
 our great point was to make the furnished lodging decent for the
 wedding-breakfast and to imbue Mrs. Jellyby beforehand with some
 faint sense of the occasion.
@@ -365,22 +365,22 @@ waste-paper and Borrioboolan documents, as an untidy stable might be
 littered with straw. Mrs. Jellyby sat there all day drinking strong
 coffee, dictating, and holding Borrioboolan interviews by
 appointment. The unwholesome boy, who seemed to me to be going into a
-decline, took his meals out of the house. When Mr. Jellyby came home,
+decline, took his meals out of the [[house]]. When Mr. Jellyby came [[Home|home]],
 he usually groaned and went down into the kitchen. There he got
 something to eat if the servant would give him anything, and then,
 feeling that he was in the way, went out and walked about Hatton
-Garden in the wet. The poor children scrambled up and tumbled down
-the house as they had always been accustomed to do.
+[[Garden]] in the wet. The poor children scrambled up and tumbled down
+the [[house]] as they had always been accustomed to do.
 
 The production of these devoted little sacrifices in any presentable
 condition being quite out of the question at a week’s notice, I
 proposed to Caddy that we should make them as happy as we could on
-her marriage morning in the attic where they all slept, and should
+her [[Marriage|marriage]] morning in the attic where they all slept, and should
 confine our greatest efforts to her mama and her mama’s room, and a
-clean breakfast. In truth Mrs. Jellyby required a good deal of
+clean breakfast. In [[Truth|truth]] Mrs. Jellyby required a good deal of
 attention, the lattice-work up her back having widened considerably
 since I first knew her and her hair looking like the mane of a
-dustman’s horse.
+dustman’s [[Horse|horse]].
 
 Thinking that the display of Caddy’s wardrobe would be the best means
 of approaching the subject, I invited Mrs. Jellyby to come and look
@@ -396,7 +396,7 @@ married! Oh, Caddy, you silly, silly, silly puss!”
 She came upstairs with us notwithstanding and looked at the clothes
 in her customary far-off manner. They suggested one distinct idea to
 her, for she said with her placid smile, and shaking her head, “My
-good Miss Summerson, at half the cost, this weak child might have
+good Miss Summerson, at half the cost, this weak [[Child|child]] might have
 been equipped for Africa!”
 
 On our going downstairs again, Mrs. Jellyby asked me whether this
@@ -405,7 +405,7 @@ my replying yes, she said, “Will my room be required, my dear Miss
 Summerson? For it’s quite impossible that I can put my papers away.”
 
 I took the liberty of saying that the room would certainly be wanted
-and that I thought we must put the papers away somewhere. “Well, my
+and that I thought we must put the papers away somewhere. “[[Well]], my
 dear Miss Summerson,” said Mrs. Jellyby, “you know best, I dare say.
 But by obliging me to employ a boy, Caddy has embarrassed me to that
 extent, overwhelmed as I am with public business, that I don’t know
@@ -438,15 +438,15 @@ Mrs. Jellyby’s household had been the only lodgers in Saint Paul’s or
 Saint Peter’s, the sole advantage they would have found in the size
 of the building would have been its affording a great deal of room to
 be dirty in. I believe that nothing belonging to the family which it
-had been possible to break was unbroken at the time of those
-preparations for Caddy’s marriage, that nothing which it had been
+had been possible to break was unbroken at the [[Time|time]] of those
+preparations for Caddy’s [[Marriage|marriage]], that nothing which it had been
 possible to spoil in any way was unspoilt, and that no domestic
-object which was capable of collecting dirt, from a dear child’s knee
-to the door-plate, was without as much dirt as could well accumulate
+object which was capable of collecting dirt, from a dear [[Child|child]]’s knee
+to the door-plate, was without as much dirt as could [[Well|well]] accumulate
 upon it.
 
 Poor Mr. Jellyby, who very seldom spoke and almost always sat when he
-was at home with his head against the wall, became interested when he
+was at [[Home|home]] with his head against the wall, became interested when he
 saw that Caddy and I were attempting to establish some order among
 all this waste and ruin and took off his coat to help. But such
 wonderful things came tumbling out of the closets when they were
@@ -462,23 +462,23 @@ regularly every evening and sat without his coat, with his head
 against the wall, as though he would have helped us if he had known
 how.
 
-“Poor Pa!” said Caddy to me on the night before the great day, when
+“Poor Pa!” said Caddy to me on the [[Night|night]] before the great day, when
 we really had got things a little to rights. “It seems unkind to
 leave him, Esther. But what could I do if I stayed! Since I first
 knew you, I have tidied and tidied over and over again, but it’s
-useless. Ma and Africa, together, upset the whole house directly. We
+useless. Ma and Africa, together, upset the whole [[house]] directly. We
 never have a servant who don’t drink. Ma’s ruinous to everything.”
 
 Mr. Jellyby could not hear what she said, but he seemed very low
-indeed and shed tears, I thought.
+indeed and shed [[Tears|tears]], I thought.
 
 “My heart aches for him; that it does!” sobbed Caddy. “I can’t help
-thinking to-night, Esther, how dearly I hope to be happy with Prince,
+thinking to-[[Night|night]], Esther, how dearly I [[Hope|hope]] to be happy with Prince,
 and how dearly Pa hoped, I dare say, to be happy with Ma. What a
 disappointed life!”
 
 “My dear Caddy!” said Mr. Jellyby, looking slowly round from the
-wail. It was the first time, I think, I ever heard him say three
+wail. It was the first [[Time|time]], I think, I ever heard him say three
 words together.
 
 “Yes, Pa!” cried Caddy, going to him and embracing him
@@ -492,31 +492,31 @@ affectionately.
 have—”
 
 I mentioned in my account of our first visit in Thavies Inn that
-Richard described Mr. Jellyby as frequently opening his mouth after
+[[Richard]] described Mr. Jellyby as frequently opening his mouth after
 dinner without saying anything. It was a habit of his. He opened his
-mouth now a great many times and shook his head in a melancholy
+mouth now a great many times and shook his head in a [[Melancholy|melancholy]]
 manner.
 
 “What do you wish me not to have? Don’t have what, dear Pa?” asked
 Caddy, coaxing him, with her arms round his neck.
 
-“Never have a mission, my dear child.”
+“Never have a mission, my dear [[Child|child]].”
 
 Mr. Jellyby groaned and laid his head against the wall again, and
-this was the only time I ever heard him make any approach to
+this was the only [[Time|time]] I ever heard him make any approach to
 expressing his sentiments on the Borrioboolan question. I suppose he
 had been more talkative and lively once, but he seemed to have been
 completely exhausted long before I knew him.
 
 I thought Mrs. Jellyby never would have left off serenely looking
-over her papers and drinking coffee that night. It was twelve o’clock
+over her papers and drinking coffee that [[Night|night]]. It was twelve o’[[Clock|clock]]
 before we could obtain possession of the room, and the clearance it
 required then was so discouraging that Caddy, who was almost tired
-out, sat down in the middle of the dust and cried. But she soon
+out, sat down in the middle of the [[Dust|dust]] and cried. But she soon
 cheered up, and we did wonders with it before we went to bed.
 
-In the morning it looked, by the aid of a few flowers and a quantity
-of soap and water and a little arrangement, quite gay. The plain
+In the morning it looked, by the aid of a few [[Flowers|flowers]] and a quantity
+of soap and [[Water|water]] and a little arrangement, quite gay. The plain
 breakfast made a cheerful show, and Caddy was perfectly charming. But
 when my darling came, I thought—and I think now—that I never had
 seen such a dear face as my beautiful pet’s.
@@ -531,7 +531,7 @@ a state of deportment not to be expressed, benignly blessing Caddy
 and giving my guardian to understand that his son’s happiness was his
 own parental work and that he sacrificed personal considerations to
 ensure it. “My dear sir,” said Mr. Turveydrop, “these young people
-will live with me; my house is large enough for their accommodation,
+will live with me; my [[house]] is large enough for their accommodation,
 and they shall not want the shelter of my roof. I could have
 wished—you will understand the allusion, Mr. Jarndyce, for you
 remember my illustrious patron the Prince Regent—I could have
@@ -543,7 +543,7 @@ obstinate-looking man with a large waistcoat and stubbly hair, who
 was always talking in a loud bass voice about his mite, or Mrs.
 Pardiggle’s mite, or their five boys’ mites. Mr. Quale, with his hair
 brushed back as usual and his knobs of temples shining very much, was
-also there, not in the character of a disappointed lover, but as the
+also there, not in the character of a disappointed [[Lover|lover]], but as the
 accepted of a young—at least, an unmarried—lady, a Miss Wisk, who
 was also there. Miss Wisk’s mission, my guardian said, was to show
 the world that woman’s mission was man’s mission and that the only
@@ -553,7 +553,7 @@ The guests were few, but were, as one might expect at Mrs. Jellyby’s,
 all devoted to public objects only. Besides those I have mentioned,
 there was an extremely dirty lady with her bonnet all awry and the
 ticketed price of her dress still sticking on it, whose neglected
-home, Caddy told me, was like a filthy wilderness, but whose church
+[[Home|home]], Caddy told me, was like a filthy wilderness, but whose church
 was like a fancy fair. A very contentious gentleman, who said it was
 his mission to be everybody’s brother but who appeared to be on terms
 of coolness with the whole of his large family, completed the party.
@@ -563,20 +563,20 @@ have been got together by any ingenuity. Such a mean mission as the
 domestic mission was the very last thing to be endured among them;
 indeed, Miss Wisk informed us, with great indignation, before we sat
 down to breakfast, that the idea of woman’s mission lying chiefly in
-the narrow sphere of home was an outrageous slander on the part of
-her tyrant, man. One other singularity was that nobody with a
+the narrow sphere of [[Home|home]] was an outrageous slander on the part of
+her [[Tyrant|tyrant]], man. One other singularity was that nobody with a
 mission—except Mr. Quale, whose mission, as I think I have formerly
 said, was to be in ecstasies with everybody’s mission—cared at all
 for anybody’s mission. Mrs. Pardiggle being as clear that the only
 one infallible course was her course of pouncing upon the poor and
 applying benevolence to them like a strait-waistcoat; as Miss Wisk
 was that the only practical thing for the world was the emancipation
-of woman from the thraldom of her tyrant, man. Mrs. Jellyby, all the
+of woman from the thraldom of her [[Tyrant|tyrant]], man. Mrs. Jellyby, all the
 while, sat smiling at the limited vision that could see anything but
 Borrioboola-Gha.
 
 But I am anticipating now the purport of our conversation on the ride
-home instead of first marrying Caddy. We all went to church, and Mr.
+[[Home|home]] instead of first marrying Caddy. We all went to church, and Mr.
 Jellyby gave her away. Of the air with which old Mr. Turveydrop, with
 his hat under his left arm (the inside presented at the clergyman
 like a cannon) and his eyes creasing themselves up into his wig,
@@ -608,21 +608,21 @@ company. None of them seemed able to talk about anything but his, or
 her, own one subject, and none of them seemed able to talk about even
 that as part of a world in which there was anything else; but my
 guardian turned it all to the merry encouragement of Caddy and the
-honour of the occasion, and brought us through the breakfast nobly.
+[[Honour|honour]] of the occasion, and brought us through the breakfast nobly.
 What we should have done without him, I am afraid to think, for all
 the company despising the bride and bridegroom and old Mr.
 Turveydrop—and old Mr. Thurveydrop, in virtue of his deportment,
 considering himself vastly superior to all the company—it was a very
 unpromising case.
 
-At last the time came when poor Caddy was to go and when all her
+At last the [[Time|time]] came when poor Caddy was to go and when all her
 property was packed on the hired coach and pair that was to take her
 and her husband to Gravesend. It affected us to see Caddy clinging,
-then, to her deplorable home and hanging on her mother’s neck with
+then, to her deplorable [[Home|home]] and hanging on her mother’s neck with
 the greatest tenderness.
 
 “I am very sorry I couldn’t go on writing from dictation, Ma,” sobbed
-Caddy. “I hope you forgive me now.”
+Caddy. “I [[Hope|hope]] you forgive me now.”
 
 “Oh, Caddy, Caddy!” said Mrs. Jellyby. “I have told you over and over
 again that I have engaged a boy, and there’s an end of it.”
@@ -631,18 +631,18 @@ again that I have engaged a boy, and there’s an end of it.”
 sure before I go away, Ma?”
 
 “You foolish Caddy,” returned Mrs. Jellyby, “do I look angry, or have
-I inclination to be angry, or time to be angry? How CAN you?”
+I inclination to be angry, or [[Time|time]] to be angry? How CAN you?”
 
 “Take a little care of Pa while I am gone, Mama!”
 
-Mrs. Jellyby positively laughed at the fancy. “You romantic child,”
+Mrs. Jellyby positively laughed at the fancy. “You romantic [[Child|child]],”
 said she, lightly patting Caddy’s back. “Go along. I am excellent
 friends with you. Now, good-bye, Caddy, and be very happy!”
 
 Then Caddy hung upon her father and nursed his cheek against hers as
-if he were some poor dull child in pain. All this took place in the
+if he were some poor dull [[Child|child]] in [[Pain|pain]]. All this took place in the
 hall. Her father released her, took out his pocket handkerchief, and
-sat down on the stairs with his head against the wall. I hope he
+sat down on the stairs with his head against the wall. I [[Hope|hope]] he
 found some consolation in walls. I almost think he did.
 
 And then Prince took her arm in his and turned with great emotion and
@@ -651,7 +651,7 @@ overwhelming.
 
 “Thank you over and over again, father!” said Prince, kissing his
 hand. “I am very grateful for all your kindness and consideration
-regarding our marriage, and so, I can assure you, is Caddy.”
+regarding our [[Marriage|marriage]], and so, I can assure you, is Caddy.”
 
 “Very,” sobbed Caddy. “Ve-ry!”
 
@@ -666,22 +666,22 @@ believe?”
 “Never, never, dear Mr. Turveydrop!” said Caddy.
 
 “This,” returned Mr. Turveydrop, “is as it should be. My children, my
-home is yours, my heart is yours, my all is yours. I will never leave
-you; nothing but death shall part us. My dear son, you contemplate an
+[[Home|home]] is yours, my heart is yours, my all is yours. I will never leave
+you; nothing but [[Death|death]] shall part us. My dear son, you contemplate an
 absence of a week, I think?”
 
-“A week, dear father. We shall return home this day week.”
+“A week, dear father. We shall return [[Home|home]] this day week.”
 
-“My dear child,” said Mr. Turveydrop, “let me, even under the present
+“My dear [[Child|child]],” said Mr. Turveydrop, “let me, even under the present
 exceptional circumstances, recommend strict punctuality. It is highly
 important to keep the connexion together; and schools, if at all
 neglected, are apt to take offence.”
 
-“This day week, father, we shall be sure to be home to dinner.”
+“This day week, father, we shall be sure to be [[Home|home]] to dinner.”
 
 “Good!” said Mr. Turveydrop. “You will find fires, my dear Caroline,
 in your own room, and dinner prepared in my apartment. Yes, yes,
-Prince!” anticipating some self-denying objection on his son’s part
+Prince!” anticipating some [[Self|self]]-denying objection on his son’s part
 with a great air. “You and our Caroline will be strange in the upper
 part of the premises and will, therefore, dine that day in my
 apartment. Now, bless ye!”
@@ -695,25 +695,25 @@ them earnestly, and opened his mouth twice. I was so sure of his
 meaning that I said, quite flurried, “You are very welcome, sir. Pray
 don’t mention it!”
 
-“I hope this marriage is for the best, guardian,” said I when we
-three were on our road home.
+“I [[Hope|hope]] this [[Marriage|marriage]] is for the best, guardian,” said I when we
+three were on our [[Road|road]] [[Home|home]].
 
-“I hope it is, little woman. Patience. We shall see.”
+“I [[Hope|hope]] it is, little woman. Patience. We shall see.”
 
-“Is the wind in the east to-day?” I ventured to ask him.
+“Is the [[Wind|wind]] in the east to-day?” I ventured to ask him.
 
 He laughed heartily and answered, “No.”
 
 “But it must have been this morning, I think,” said I.
 
-He answered “No” again, and this time my dear girl confidently
+He answered “No” again, and this [[Time|time]] my dear girl confidently
 answered “No” too and shook the lovely head which, with its blooming
-flowers against the golden hair, was like the very spring. “Much YOU
+[[Flowers|flowers]] against the golden hair, was like the very [[spring]]. “Much YOU
 know of east winds, my ugly darling,” said I, kissing her in my
 admiration—I couldn’t help it.
 
-Well! It was only their love for me, I know very well, and it is a
-long time ago. I must write it even if I rub it out again, because it
-gives me so much pleasure. They said there could be no east wind
+[[Well]]! It was only their [[Love|love]] for me, I know very [[Well|well]], and it is a
+long [[Time|time]] ago. I must write it even if I rub it out again, because it
+gives me so much pleasure. They said there could be no east [[Wind|wind]]
 where Somebody was; they said that wherever Dame Durden went, there
-was sunshine and summer air.
+was sunshine and [[Summer|summer]] air.

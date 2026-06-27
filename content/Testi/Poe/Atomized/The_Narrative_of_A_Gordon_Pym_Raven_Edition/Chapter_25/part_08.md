@@ -36,19 +36,19 @@ tags:
 
       system, no keeping, in the fantastic display, to take hold upon
 
-      the memory. The room lay in a high turret of the castellated
+      the [[Memory|memory]]. The room lay in a high turret of the castellated
 
       abbey, was pentagonal in shape, and of capacious size. Occupying
 
-      the whole southern face of the pentagon was the sole window—an
+      the whole southern face of the pentagon was the sole [[Window|window]]—an
 
-      immense sheet of unbroken glass from Venice—a single pane, and
+      immense sheet of unbroken glass from [[Venice]]—a single pane, and
 
       tinted of a leaden hue, so that the rays of either the sun or
 
-      moon, passing through it, fell with a ghastly lustre on the
+      [[Moon|moon]], passing through it, fell with a ghastly lustre on the
 
-      objects within. Over the upper portion of this huge window,
+      objects within. Over the upper portion of this huge [[Window|window]],
 
       extended the trellice-work of an aged vine, which clambered up
 
@@ -56,11 +56,11 @@ tags:
 
       oak, was excessively lofty, vaulted, and elaborately fretted with
 
-      the wildest and most grotesque specimens of a semi-Gothic,
+      the wildest and most [[Grotesque|grotesque]] specimens of a semi-Gothic,
 
       semi-Druidical device. From out the most central recess of this
 
-      melancholy vaulting, depended, by a single chain of gold with
+      [[Melancholy|melancholy]] vaulting, depended, by a single chain of gold with
 
       long links, a huge censer of the same metal, Saracenic in
 
@@ -98,7 +98,7 @@ tags:
 
       as a canopy for the bed, and as the gorgeous volutes of the
 
-      curtains which partially shaded the window. The material was the
+      curtains which partially shaded the [[Window|window]]. The material was the
 
       richest cloth of gold. It was spotted all over, at irregular
 
@@ -128,7 +128,7 @@ tags:
 
       vastly heightened by the artificial introduction of a strong
 
-      continual current of wind behind the draperies—giving a hideous
+      continual current of [[Wind|wind]] behind the draperies—giving a hideous
 
       and uneasy animation to the whole.
 
@@ -138,7 +138,7 @@ tags:
 
       with the Lady of Tremaine, the unhallowed hours of the first
 
-      month of our marriage—passed them with but little disquietude.
+      month of our [[Marriage|marriage]]—passed them with but little disquietude.
 
       That my wife dreaded the fierce moodiness of my temper—that she
 
@@ -146,7 +146,7 @@ tags:
 
       but it gave me rather pleasure than otherwise. I loathed her with
 
-      a hatred belonging more to demon than to man. My memory flew
+      a hatred belonging more to demon than to man. My [[Memory|memory]] flew
 
       back, (oh, with what intensity of regret!) to Ligeia, the
 
@@ -154,27 +154,27 @@ tags:
 
       recollections of her purity, of her wisdom, of her lofty, her
 
-      ethereal nature, of her passionate, her idolatrous love. Now,
+      ethereal [[Nature|nature]], of her passionate, her idolatrous [[Love|love]]. Now,
 
       then, did my spirit fully and freely burn with more than all the
 
-      fires of her own. In the excitement of my opium dreams (for I was
+      fires of her own. In the excitement of my opium [[Dreams|dreams]] (for I was
 
       habitually fettered in the shackles of the drug) I would call
 
-      aloud upon her name, during the silence of the night, or among
+      aloud upon her name, during the [[Silence|silence]] of the [[Night|night]], or among
 
       the sheltered recesses of the glens by day, as if, through the
 
       wild eagerness, the solemn passion, the consuming ardor of my
 
-      longing for the departed, I could restore her to the pathway she
+      [[Longing|longing]] for the departed, I could restore her to the pathway she
 
       had abandoned—ah, could it be forever?—upon the earth.
 
 
 
-      About the commencement of the second month of the marriage, the
+      About the commencement of the second month of the [[Marriage|marriage]], the
 
       Lady Rowena was attacked with sudden illness, from which her
 
@@ -188,10 +188,10 @@ tags:
 
       her fancy, or perhaps in the phantasmagoric influences of the
 
-      chamber itself. She became at length convalescent—finally well.
+      chamber itself. She became at length convalescent—finally [[Well|well]].
 
       Yet but a brief period elapsed, ere a second more violent
 
-      disorder again threw her upon a bed of suffering; and from this
+      disorder again threw her upon a bed of [[Suffering|suffering]]; and from this
 
       attack her frame, at all times feeble, never altogether

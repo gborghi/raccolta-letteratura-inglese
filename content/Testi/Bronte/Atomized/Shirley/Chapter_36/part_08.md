@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 36 (part 8)"
+title: "[[Shirley]] — Chapter 36 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,23 +18,23 @@ a northern streamer!
 
 
 
-"I followed her into the drawing-room. Mrs. Pryor and Caroline Helstone
+"I followed her into the drawing-room. Mrs. Pryor and [[Caroline Helstone]]
 
 were both there; she has summoned them to bear her company awhile. In
 
 her white evening dress, with her long hair flowing full and wavy, with
 
-her noiseless step, her pale cheek, her eye full of night and lightning,
+her noiseless step, her pale cheek, her eye full of [[Night|night]] and [[Lightning|lightning]],
 
 she looked, I thought, spirit-like--a thing made of an element, the
 
-child of a breeze and a flame, the daughter of ray and raindrop--a thing
+[[Child|child]] of a breeze and a flame, the daughter of ray and raindrop--a thing
 
 never to be overtaken, arrested, fixed. I wished I could avoid following
 
 her with my gaze as she moved here and there, but it was impossible. I
 
-talked with the other ladies as well as I could, but still I looked at
+talked with the other ladies as [[Well|well]] as I could, but still I looked at
 
 her. She was very silent; I think she never spoke to me--not even when
 
@@ -62,13 +62,13 @@ as she returned; nor in this did I fail.
 
 
 
-"'With fear, I believe. What makes you fear me? You are quiet and
+"'With [[Fear|fear]], I believe. What makes you [[Fear|fear]] me? You are quiet and
 
 distant. Why?'
 
 
 
-"'I may well fear what looks like a great dark goblin meeting me in the
+"'I may [[Well|well]] [[Fear|fear]] what looks like a great dark goblin meeting me in the
 
 moonlight.'
 
@@ -76,7 +76,7 @@ moonlight.'
 
 "'_Do not--do not_ pass! Stay with me awhile. Let us exchange a few
 
-quiet words. It is three days since I spoke to you alone. Such changes
+quiet words. It is three days since I spoke to you [[Alone|alone]]. Such changes
 
 are cruel.'
 
@@ -90,7 +90,7 @@ but there was also reserve, and an air fleeting, evanishing, intangible.
 
 
 
-"'You certainly give me pain,' said I. 'It is hardly a week since you
+"'You certainly give me [[Pain|pain]],' said I. 'It is hardly a week since you
 
 called me your future husband and treated me as such. Now I am once more
 
@@ -108,7 +108,7 @@ forgotten Louis.'
 
 
 
-"'I _am_ cordial,' said she, hovering aloof like a white shadow.
+"'I _am_ cordial,' said she, hovering aloof like a white [[Shadow|shadow]].
 
 
 
@@ -144,7 +144,7 @@ clung to me again.
 
 
 
-"'Now, Shirley,' I said, 'you can conceive I am far from happy in my
+"'Now, [[Shirley]],' I said, 'you can conceive I am far from happy in my
 
 present uncertain, unsettled state.'
 
@@ -166,9 +166,9 @@ generous to require it.'
 
 
 
-"'Like me no longer, then; love me instead. Fix our marriage day; think
+"'Like me no longer, then; [[Love|love]] me instead. Fix our [[Marriage|marriage]] day; think
 
-of it to-night, and decide.'
+of it to-[[Night|night]], and decide.'
 
 
 

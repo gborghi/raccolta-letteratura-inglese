@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — WOMAN"
+title: "[[AllThingsConsidered-8]] — WOMAN"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -23,7 +23,7 @@ He defends communal kitchens very lucidly from the standpoint
 of the calculating collectivist; but, like many of his school,
 he cannot apparently grasp that there is another test of the
 whole matter, with which such calculation has nothing at all to do.
-He knows it would be cheaper if a number of us ate at the same time,
+He knows it would be cheaper if a number of us ate at the same [[Time|time]],
 so as to use the same table.  So it would.  It would also be cheaper
 if a number of us slept at different times, so as to use the same
 pair of trousers.  But the question is not how cheap are we buying
@@ -31,20 +31,20 @@ a thing, but what are we buying?  It is cheap to own a slave.
 And it is cheaper still to be a slave.
 
 My correspondent also says that the habit of dining out in restaurants,
-etc., is growing.  So, I believe, is the habit of committing suicide.
-I do not desire to connect the two facts together.  It seems fairly
+etc., is growing.  So, I believe, is the habit of committing [[suicide]].
+I do not [[Desire|desire]] to connect the two facts together.  It seems fairly
 clear that a man could not dine at a restaurant because he had just
-committed suicide; and it would be extreme, perhaps, to suggest
-that he commits suicide because he has just dined at a restaurant.
+committed [[suicide]]; and it would be extreme, perhaps, to suggest
+that he commits [[suicide]] because he has just dined at a restaurant.
 But the two cases, when put side by side, are enough to indicate
 the falsity and poltroonery of this eternal modern argument from what
 is in fashion.  The question for brave men is not whether a certain
 thing is increasing; the question is whether we are increasing it.
-I dine very often in restaurants because the nature of my
+I dine very often in restaurants because the [[Nature|nature]] of my
 trade makes it convenient:  but if I thought that by dining
 in restaurants I was working for the creation of communal meals,
 I would never enter a restaurant again; I would carry bread and
-cheese in my pocket or eat chocolate out of automatic machines.
+[[cheese]] in my pocket or eat chocolate out of automatic machines.
 For the personal element in some things is sacred.
 I heard Mr. Will Crooks put it perfectly the other day:
 "The most sacred thing is to be able to shut your own door."
@@ -56,7 +56,7 @@ is very simple, and is, I imagine, a part of all our experience.
 If my correspondent can find any way of preventing women from worrying,
 he will indeed be a remarkable man.  I think the matter is a much
 deeper one.  First of all, my correspondent overlooks a distinction
-which is elementary in our human nature.  Theoretically, I suppose,
+which is elementary in our human [[Nature|nature]].  Theoretically, I suppose,
 every one would like to be freed from worries.  But nobody in
 the world would always like to be freed from worrying occupations.
 I should very much like (as far as my feelings at the moment go)
@@ -64,7 +64,7 @@ to be free from the consuming nuisance of writing this article.
 But it does not follow that I should like to be free from the consuming
 nuisance of being a journalist.  Because we are worried about
 a thing, it does not follow that we are not interested in it.
-The truth is the other way.  If we are not interested, why on earth
+The [[Truth|truth]] is the other way.  If we are not interested, why on earth
 should we be worried?  Women are worried about housekeeping,
 but those that are most interested are the most worried.
 Women are still more worried about their husbands and their children.
@@ -106,11 +106,11 @@ to the manager generally gets the sack, or shall we say
 (to avoid the vulgarism), finds himself free for higher culture.
 Above all, as I said in my previous article, the woman does
 work which is in some small degree creative and individual.
-She can put the flowers or the furniture in fancy arrangements
-of her own.  I fear the bricklayer cannot put the bricks in fancy
+She can put the [[Flowers|flowers]] or the furniture in fancy arrangements
+of her own.  I [[Fear|fear]] the bricklayer cannot put the bricks in fancy
 arrangements of his own, without disaster to himself and others.
 If the woman is only putting a patch into a carpet, she can choose
-the thing with regard to colour.  I fear it would not do for the office
+the thing with regard to colour.  I [[Fear|fear]] it would not do for the office
 boy dispatching a parcel to choose his stamps with a view to colour;
 to prefer the tender mauve of the sixpenny to the crude scarlet
 of the penny stamp.  A woman cooking may not always cook artistically;
@@ -145,19 +145,19 @@ worse than gambling, worse even than philanthropy.  It means
 thinking the smallest poet in Belgium greater than the greatest
 poet of England.  It means losing every democratic sympathy.
 It means being unable to talk to a navvy about sport, or about beer,
-or about the Bible, or about the Derby, or about patriotism,
+or about the [[Bible]], or about the Derby, or about patriotism,
 or about anything whatever that he, the navvy, wants to talk about.
 It means taking literature seriously, a very amateurish thing to do.
 It means pardoning indecency only when it is gloomy indecency.
 Its disciples will call a spade a spade; but only when it
-is a grave-digger's spade.  The higher culture is sad,
+is a [[Grave|grave]]-digger's spade.  The higher culture is sad,
 cheap, impudent, unkind, without honesty and without ease.
 In short, it is "high." That abominable word (also applied to game)
 admirably describes it.
 
 No; if you were setting women free for something else, I might
 be more melted.  If you can assure me, privately and gravely,
-that you are setting women free to dance on the mountains like mænads,
+that you are setting women free to [[Dance|dance]] on the [[Mountains|mountains]] like mænads,
 or to worship some monstrous goddess, I will make a note of your request.
 If you are quite sure that the ladies in Brixton, the moment they
 give up cooking, will beat great gongs and blow horns to Mumbo-Jumbo,

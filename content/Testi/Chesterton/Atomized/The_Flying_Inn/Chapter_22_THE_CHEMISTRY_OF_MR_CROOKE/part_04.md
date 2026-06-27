@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Surely,” said Patrick, with an innocent air, “the best remedy would be to wait till ithas been three days on the premises. We might all get to know each other better.” And he looked round at the ever-increasing multitude with hazy benevolence.
+“Surely,” said Patrick, with an [[Innocent|innocent]] air, “the best remedy would be to wait till ithas been three days on the premises. We might all get to know each other better.” And he looked round at the ever-increasing multitude with hazy benevolence.
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 
-“Well,” answered Patrick, wearily, “now I come to think of it, perhaps I won’t. I’ll have one drink here and go home to bed like a good little boy.”
+“[[Well]],” answered Patrick, wearily, “now I come to think of it, perhaps I won’t. I’ll have one drink here and go [[Home|home]] to bed like a good little boy.”
 
 
 
@@ -59,7 +59,7 @@ And he pointed suddenly at the small medicine glass on the counter by Hibbs and 
 
 
 
-Hibbs put out his hand hastily for his glass, but the indignant clock-mender had snatched it first and drained it at a gulp.
+Hibbs put out his hand hastily for his glass, but the indignant [[Clock|clock]]-mender had snatched it first and drained it at a gulp.
 
 
 
@@ -74,7 +74,7 @@ Ivywood turned to Crooke and said, scarcely moving his lips of marble, “This i
 
 
 
-“It is the truth,” answered Crooke, looking back at him with equal steadiness. “Do you think you made the world, that you should make it over again so easily?”
+“It is the [[Truth|truth]],” answered Crooke, looking back at him with equal steadiness. “Do you think you made the world, that you should make it over again so easily?”
 
 
 
@@ -89,7 +89,7 @@ Almost as he spoke the glass front of the shop fell inward, shattered, and there
 
 
 
-“Out in the open!” shouted Dalroy, rushing out of the shop, sign-board in hand, the dog Quoodle barking furiously at his heels, while Dorian with the cheese and Humphrey with the keg followed as rapidly as they could. “Goodnight, my lord.
+“Out in the open!” shouted Dalroy, rushing out of the shop, sign-board in hand, the dog [[quoodle|Quoodle]] barking furiously at his heels, while Dorian with the [[cheese]] and Humphrey with the keg followed as rapidly as they could. “Goodnight, my lord.
 
 
 
@@ -99,11 +99,11 @@ Almost as he spoke the glass front of the shop fell inward, shattered, and there
 
 
 
-At Tomworth in your castle hall.
+At Tomworth in your [[Castle|castle]] hall.
 
 
 
-“Come along, friends, and form up. Don’t waste time destroying property. We’re all to start now.”
+“Come along, friends, and form up. Don’t waste [[Time|time]] destroying property. We’re all to start now.”
 
 
 
@@ -118,17 +118,17 @@ At Tomworth in your castle hall.
 
 
 
-The marching crowd turned two or three corners, and at the end of the next long street, Dorian Wimpole, who was toward the tail of the procession, saw again the grey Cyclops tower of St. Stephens, with its one great golden eye, as he had seen it against that pale green sunset that was at once quiet and volcanic on the night he was betrayed by sleep and by a friend. Almost as far off, at the head of the procession, he could see the sign with the ship and the cross going before them like an ensign, and hear a great voice singing–
+The marching crowd turned two or three corners, and at the end of the next long street, Dorian Wimpole, who was toward the tail of the procession, saw again the grey Cyclops tower of St. Stephens, with its one great golden eye, as he had seen it against that pale green sunset that was at once quiet and volcanic on the [[Night|night]] he was betrayed by [[Sleep|sleep]] and by a friend. Almost as far off, at the head of the procession, he could see the sign with the [[Ship|ship]] and the [[Cross|cross]] going before them like an ensign, and hear a great voice singing–
 
 
 
 
-“Men that are men again, Who goes home?
+“Men that are men again, Who goes [[Home|home]]?
 
 
 
 
-Tocsin and trumpeter! Who goes home?
+Tocsin and trumpeter! Who goes [[Home|home]]?
 
 
 
@@ -138,4 +138,4 @@ The voice valedictory–who is for Victory?
 
 
 
-Who is for Liberty? Who goes home?”
+Who is for Liberty? Who goes [[Home|home]]?”

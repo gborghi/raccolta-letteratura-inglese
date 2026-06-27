@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 24"
+title: "[[Sense and Sensibility]] — Chapter 24"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -26,7 +26,7 @@ In a firm, though cautious tone, Elinor thus began.
 
 “I should be undeserving of the confidence you have honoured me with,
 
-if I felt no desire for its continuance, or no farther curiosity on its
+if I felt no [[Desire|desire]] for its continuance, or no farther curiosity on its
 
 subject. I will not apologize therefore for bringing it forward again.”
 
@@ -86,13 +86,13 @@ Ferrars, I believe, is entirely dependent on his mother.”
 
 
 
-“He has only two thousand pounds of his own; it would be madness to
+“He has only two thousand pounds of his own; it would be [[Madness|madness]] to
 
 marry upon that, though for my own part, I could give up every prospect
 
 of more without a sigh. I have been always used to a very small income,
 
-and could struggle with any poverty for him; but I love him too well to
+and could struggle with any [[Poverty|poverty]] for him; but I [[Love|love]] him too [[Well|well]] to
 
 be the selfish means of robbing him, perhaps, of all that his mother
 
@@ -124,11 +124,11 @@ from every expression that could give her words a suspicious tendency.
 
 
 
-“Edward’s love for me,” said Lucy, “has been pretty well put to the
+“Edward’s [[Love|love]] for me,” said Lucy, “has been pretty [[Well|well]] put to the
 
 test, by our long, very long absence since we were first engaged, and
 
-it has stood the trial so well, that I should be unpardonable to doubt
+it has stood the trial so [[Well|well]], that I should be unpardonable to [[Doubt|doubt]]
 
 it now. I can safely say that he has never gave me one moment’s alarm
 
@@ -140,13 +140,13 @@ Elinor hardly knew whether to smile or sigh at this assertion.
 
 
 
-Lucy went on. “I am rather of a jealous temper too by nature, and from
+Lucy went on. “I am rather of a jealous temper too by [[Nature|nature]], and from
 
 our different situations in life, from his being so much more in the
 
 world than me, and our continual separation, I was enough inclined for
 
-suspicion, to have found out the truth in an instant, if there had been
+suspicion, to have found out the [[Truth|truth]] in an instant, if there had been
 
 the slightest alteration in his behaviour to me when we met, or any
 
@@ -168,17 +168,17 @@ neither of us.”
 
 
 
-“But what,” said she after a short silence, “are your views? or have
+“But what,” said she after a short [[Silence|silence]], “are your views? or have
 
-you none but that of waiting for Mrs. Ferrars’s death, which is a
+you none but that of waiting for Mrs. Ferrars’s [[Death|death]], which is a
 
-melancholy and shocking extremity?—Is her son determined to submit to
+[[Melancholy|melancholy]] and shocking extremity?—Is her son determined to submit to
 
 this, and to all the tediousness of the many years of suspense in which
 
 it may involve you, rather than run the risk of her displeasure for a
 
-while by owning the truth?”
+while by owning the [[Truth|truth]]?”
 
 
 
@@ -248,7 +248,7 @@ Dashwood’s.”
 
 Elinor blushed in spite of herself. Lucy bit her lip, and looked
 
-angrily at her sister. A mutual silence took place for some time. Lucy
+angrily at her sister. A mutual [[Silence|silence]] took place for some [[Time|time]]. Lucy
 
 first put an end to it by saying in a lower tone, though Marianne was
 
@@ -270,7 +270,7 @@ profession; now my plan is that he should take orders as soon as he
 
 can, and then through your interest, which I am sure you would be kind
 
-enough to use out of friendship for him, and I hope out of some regard
+enough to use out of [[Friendship|friendship]] for him, and I [[Hope|hope]] out of some regard
 
 to me, your brother might be persuaded to give him Norland living;
 
@@ -278,13 +278,13 @@ which I understand is a very good one, and the present incumbent not
 
 likely to live a great while. That would be enough for us to marry
 
-upon, and we might trust to time and chance for the rest.”
+upon, and we might trust to [[Time|time]] and chance for the rest.”
 
 
 
 “I should always be happy,” replied Elinor, “to show any mark of my
 
-esteem and friendship for Mr. Ferrars; but do you not perceive that my
+esteem and [[Friendship|friendship]] for Mr. Ferrars; but do you not perceive that my
 
 interest on such an occasion would be perfectly unnecessary? He is
 
@@ -314,7 +314,7 @@ a deep sigh,
 
 once by dissolving the engagement. We seem so beset with difficulties
 
-on every side, that though it would make us miserable for a time, we
+on every side, that though it would make us miserable for a [[Time|time]], we
 
 should be happier perhaps in the end. But you will not give me your
 
@@ -324,7 +324,7 @@ advice, Miss Dashwood?”
 
 “No,” answered Elinor, with a smile, which concealed very agitated
 
-feelings, “on such a subject I certainly will not. You know very well
+feelings, “on such a subject I certainly will not. You know very [[Well|well]]
 
 that my opinion would have no weight with you, unless it were on the
 
@@ -338,7 +338,7 @@ nobody of whose judgment I think so highly as I do of yours; and I do
 
 really believe, that if you was to say to me, ‘I advise you by all
 
-means to put an end to your engagement with Edward Ferrars, it will be
+means to put an end to your engagement with [[Edward Ferrars]], it will be
 
 more for the happiness of both of you,’ I should resolve upon doing it
 
@@ -382,7 +382,7 @@ Lucy was still the first to end it.
 
 
 
-“Shall you be in town this winter, Miss Dashwood?” said she with all
+“Shall you be in town this [[Winter|winter]], Miss Dashwood?” said she with all
 
 her accustomary complacency.
 
@@ -414,7 +414,7 @@ been wanting us to visit them these several years! But I only go for
 
 the sake of seeing Edward. He will be there in February, otherwise
 
-London would have no charms for me; I have not spirits for it.”
+[[London]] would have no charms for me; I have not spirits for it.”
 
 
 
@@ -428,13 +428,13 @@ nothing had been said on either side to make them dislike each other
 
 less than they had done before; and Elinor sat down to the card table
 
-with the melancholy persuasion that Edward was not only without
+with the [[Melancholy|melancholy]] [[Persuasion|persuasion]] that Edward was not only without
 
 affection for the person who was to be his wife; but that he had not
 
-even the chance of being tolerably happy in marriage, which sincere
+even the chance of being tolerably happy in [[Marriage|marriage]], which sincere
 
-affection on _her_ side would have given, for self-interest alone could
+affection on _her_ side would have given, for [[Self|self]]-interest [[Alone|alone]] could
 
 induce a woman to keep a man to an engagement, of which she seemed so
 
@@ -442,7 +442,7 @@ thoroughly aware that he was weary.
 
 
 
-From this time the subject was never revived by Elinor, and when
+From this [[Time|time]] the subject was never revived by Elinor, and when
 
 entered on by Lucy, who seldom missed an opportunity of introducing it,
 

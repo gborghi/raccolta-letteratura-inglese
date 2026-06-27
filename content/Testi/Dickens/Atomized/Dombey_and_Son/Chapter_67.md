@@ -20,17 +20,17 @@ Paul’s Introduction to a New Scene
 
 Mrs Pipchin’s constitution was made of such hard metal, in spite of its
 liability to the fleshly weaknesses of standing in need of repose after
-chops, and of requiring to be coaxed to sleep by the soporific agency
+chops, and of requiring to be coaxed to [[Sleep|sleep]] by the soporific agency
 of sweet-breads, that it utterly set at naught the predictions of Mrs
 Wickam, and showed no symptoms of decline. Yet, as Paul’s rapt interest
 in the old lady continued unbated, Mrs Wickam would not budge an inch
 from the position she had taken up. Fortifying and entrenching herself
 on the strong ground of her Uncle’s Betsey Jane, she advised Miss
 Berry, as a friend, to prepare herself for the worst; and forewarned
-her that her aunt might, at any time, be expected to go off suddenly,
+her that her aunt might, at any [[Time|time]], be expected to go off suddenly,
 like a powder-mill.
 
-“I hope, Miss Berry,” Mrs Wickam would observe, “that you’ll come into
+“I [[Hope|hope]], Miss Berry,” Mrs Wickam would observe, “that you’ll come into
 whatever little property there may be to leave. You deserve it, I am
 sure, for yours is a trying life. Though there don’t seem much worth
 coming into—you’ll excuse my being so open—in this dismal den.”
@@ -41,30 +41,30 @@ meritorious persons in the world, and making every day innumerable
 sacrifices of herself upon the altar of that noble old woman. But all
 these immolations of Berry were somehow carried to the credit of Mrs
 Pipchin by Mrs Pipchin’s friends and admirers; and were made to
-harmonise with, and carry out, that melancholy fact of the deceased Mr
+harmonise with, and carry out, that [[Melancholy|melancholy]] fact of the deceased Mr
 Pipchin having broken his heart in the Peruvian mines.
 
-For example, there was an honest grocer and general dealer in the
+For example, there was an honest [[grocer]] and general dealer in the
 retail line of business, between whom and Mrs Pipchin there was a small
 memorandum book, with a greasy red cover, perpetually in question, and
 concerning which divers secret councils and conferences were
 continually being held between the parties to that register, on the mat
 in the passage, and with closed doors in the parlour. Nor were there
 wanting dark hints from Master Bitherstone (whose temper had been made
-revengeful by the solar heats of India acting on his blood), of
+revengeful by the solar heats of India acting on his [[Blood|blood]]), of
 balances unsettled, and of a failure, on one occasion within his
-memory, in the supply of moist sugar at tea-time. This grocer being a
-bachelor and not a man who looked upon the surface for beauty, had once
+[[Memory|memory]], in the supply of moist sugar at tea-[[Time|time]]. This [[grocer]] being a
+bachelor and not a man who looked upon the surface for [[Beauty|beauty]], had once
 made honourable offers for the hand of Berry, which Mrs Pipchin had,
 with contumely and scorn, rejected. Everybody said how laudable this
 was in Mrs Pipchin, relict of a man who had died of the Peruvian mines;
 and what a staunch, high, independent spirit the old lady had. But
 nobody said anything about poor Berry, who cried for six weeks (being
-soundly rated by her good aunt all the time), and lapsed into a state
+soundly rated by her good aunt all the [[Time|time]]), and lapsed into a state
 of hopeless spinsterhood.
 
 “Berry’s very fond of you, ain’t she?” Paul once asked Mrs Pipchin when
-they were sitting by the fire with the cat.
+they were sitting by the [[Fire|fire]] with the cat.
 
 “Yes,” said Mrs Pipchin.
 
@@ -75,7 +75,7 @@ things, Sir! why are you fond of your sister Florence?”
 
 “Because she’s very good,” said Paul. “There’s nobody like Florence.”
 
-“Well!” retorted Mrs Pipchin, shortly, “and there’s nobody like me, I
+“[[Well]]!” retorted Mrs Pipchin, shortly, “and there’s nobody like me, I
 suppose.”
 
 “Ain’t there really though?” asked Paul, leaning forward in his chair,
@@ -89,19 +89,19 @@ and looking at her very hard.
 Mrs Pipchin didn’t dare to ask him why, lest she should receive some
 perfectly annihilating answer. But as a compensation to her wounded
 feelings, she harassed Master Bitherstone to that extent until
-bed-time, that he began that very night to make arrangements for an
+bed-[[Time|time]], that he began that very [[Night|night]] to make arrangements for an
 overland return to India, by secreting from his supper a quarter of a
-round of bread and a fragment of moist Dutch cheese, as the beginning
+round of bread and a [[Fragment|fragment]] of moist Dutch [[cheese]], as the beginning
 of a stock of provision to support him on the voyage.
 
 Mrs Pipchin had kept watch and ward over little Paul and his sister for
-nearly twelve months. They had been home twice, but only for a few
+nearly twelve months. They had been [[Home|home]] twice, but only for a few
 days; and had been constant in their weekly visits to Mr Dombey at the
 hotel. By little and little Paul had grown stronger, and had become
 able to dispense with his carriage; though he still looked thin and
-delicate; and still remained the same old, quiet, dreamy child that he
+delicate; and still remained the same old, quiet, dreamy [[Child|child]] that he
 had been when first consigned to Mrs Pipchin’s care. One Saturday
-afternoon, at dusk, great consternation was occasioned in the Castle by
+afternoon, at dusk, great consternation was occasioned in the [[Castle]] by
 the unlooked-for announcement of Mr Dombey as a visitor to Mrs Pipchin.
 The population of the parlour was immediately swept upstairs as on the
 wings of a whirlwind, and after much slamming of bedroom doors, and
@@ -113,22 +113,22 @@ heir.
 
 “Mrs Pipchin,” said Mr Dombey, “How do you do?”
 
-“Thank you, Sir,” said Mrs Pipchin, “I am pretty well, considering.”
+“Thank you, Sir,” said Mrs Pipchin, “I am pretty [[Well|well]], considering.”
 
 Mrs Pipchin always used that form of words. It meant, considering her
 virtues, sacrifices, and so forth.
 
-“I can’t expect, Sir, to be very well,” said Mrs Pipchin, taking a
+“I can’t expect, Sir, to be very [[Well|well]],” said Mrs Pipchin, taking a
 chair and fetching her breath; “but such health as I have, I am
 grateful for.”
 
 Mr Dombey inclined his head with the satisfied air of a patron, who
 felt that this was the sort of thing for which he paid so much a
-quarter. After a moment’s silence he went on to say:
+quarter. After a moment’s [[Silence|silence]] he went on to say:
 
 “Mrs Pipchin, I have taken the liberty of calling, to consult you in
-reference to my son. I have had it in my mind to do so for some time
-past; but have deferred it from time to time, in order that his health
+reference to my son. I have had it in my mind to do so for some [[Time|time]]
+past; but have deferred it from [[Time|time]] to [[Time|time]], in order that his health
 might be thoroughly re-established. You have no misgivings on that
 subject, Mrs Pipchin?”
 
@@ -137,14 +137,14 @@ beneficial, indeed.”
 
 “I purpose,” said Mr Dombey, “his remaining at Brighton.”
 
-Mrs Pipchin rubbed her hands, and bent her grey eyes on the fire.
+Mrs Pipchin rubbed her hands, and bent her grey eyes on the [[Fire|fire]].
 
 “But,” pursued Mr Dombey, stretching out his forefinger, “but possibly
 that he should now make a change, and lead a different kind of life
 here. In short, Mrs Pipchin, that is the object of my visit. My son is
 getting on, Mrs Pipchin. Really, he is getting on.”
 
-There was something melancholy in the triumphant air with which Mr
+There was something [[Melancholy|melancholy]] in the triumphant air with which Mr
 Dombey said this. It showed how long Paul’s childish life had been to
 him, and how his hopes were set upon a later stage of his existence.
 Pity may appear a strange word to connect with anyone so haughty and so
@@ -154,26 +154,26 @@ cold, and yet he seemed a worthy subject for it at that moment.
 an irrepressible smile that rather seemed to strike upon the surface of
 his face and glance away, as finding no resting-place, than to play
 there for an instant. “Dear me, six will be changed to sixteen, before
-we have time to look about us.”
+we have [[Time|time]] to look about us.”
 
 “Ten years,” croaked the unsympathetic Pipchin, with a frosty
 glistening of her hard grey eye, and a dreary shaking of her bent head,
-“is a long time.”
+“is a long [[Time|time]].”
 
 “It depends on circumstances, returned Mr Dombey; “at all events, Mrs
-Pipchin, my son is six years old, and there is no doubt, I fear, that
+Pipchin, my son is six years old, and there is no [[Doubt|doubt]], I [[Fear|fear]], that
 in his studies he is behind many children of his age—or his youth,”
 said Mr Dombey, quickly answering what he mistrusted was a shrewd
 twinkle of the frosty eye, “his youth is a more appropriate expression.
 Now, Mrs Pipchin, instead of being behind his peers, my son ought to be
 before them; far before them. There is an eminence ready for him to
-mount upon. There is nothing of chance or doubt in the course before my
+mount upon. There is nothing of chance or [[Doubt|doubt]] in the course before my
 son. His way in life was clear and prepared, and marked out before he
-existed. The education of such a young gentleman must not be delayed.
+existed. The [[Education|education]] of such a young gentleman must not be delayed.
 It must not be left imperfect. It must be very steadily and seriously
 undertaken, Mrs Pipchin.”
 
-“Well, Sir,” said Mrs Pipchin, “I can say nothing to the contrary.”
+“[[Well]], Sir,” said Mrs Pipchin, “I can say nothing to the contrary.”
 
 “I was quite sure, Mrs Pipchin,” returned Mr Dombey, approvingly, “that
 a person of your good sense could not, and would not.”
@@ -181,7 +181,7 @@ a person of your good sense could not, and would not.”
 “There is a great deal of nonsense—and worse—talked about young people
 not being pressed too hard at first, and being tempted on, and all the
 rest of it, Sir,” said Mrs Pipchin, impatiently rubbing her hooked
-nose. “It never was thought of in my time, and it has no business to be
+nose. “It never was thought of in my [[Time|time]], and it has no business to be
 thought of now. My opinion is ‘keep ’em at it’.”
 
 “My good madam,” returned Mr Dombey, “you have not acquired your
@@ -194,7 +194,7 @@ thinking of Doctor Blimber’s, Mrs Pipchin.”
 
 “My neighbour, Sir?” said Mrs Pipchin. “I believe the Doctor’s is an
 excellent establishment. I’ve heard that it’s very strictly conducted,
-and there is nothing but learning going on from morning to night.”
+and there is nothing but learning going on from morning to [[Night|night]].”
 
 “And it’s very expensive,” added Mr Dombey.
 
@@ -203,7 +203,7 @@ fact, as if in omitting that, she had omitted one of its leading
 merits.
 
 “I have had some communication with the Doctor, Mrs Pipchin,” said Mr
-Dombey, hitching his chair anxiously a little nearer to the fire, “and
+Dombey, hitching his chair anxiously a little nearer to the [[Fire|fire]], “and
 he does not consider Paul at all too young for his purpose. He
 mentioned several instances of boys in Greek at about the same age. If
 I have any little uneasiness in my own mind, Mrs Pipchin, on the
@@ -230,8 +230,8 @@ for the son, she argued the point; and contended that change, and new
 society, and the different form of life he would lead at Doctor
 Blimber’s, and the studies he would have to master, would very soon
 prove sufficient alienations. As this chimed in with Mr Dombey’s own
-hope and belief, it gave that gentleman a still higher opinion of Mrs
-Pipchin’s understanding; and as Mrs Pipchin, at the same time, bewailed
+[[Hope|hope]] and belief, it gave that gentleman a still higher opinion of Mrs
+Pipchin’s understanding; and as Mrs Pipchin, at the same [[Time|time]], bewailed
 the loss of her dear little friend (which was not an overwhelming shock
 to her, as she had long expected it, and had not looked, in the
 beginning, for his remaining with her longer than three months), he
@@ -239,12 +239,12 @@ formed an equally good opinion of Mrs Pipchin’s disinterestedness. It
 was plain that he had given the subject anxious consideration, for he
 had formed a plan, which he announced to the ogress, of sending Paul to
 the Doctor’s as a weekly boarder for the first half year, during which
-time Florence would remain at the Castle, that she might receive her
+[[Time|time]] Florence would remain at the [[Castle]], that she might receive her
 brother there, on Saturdays. This would wean him by degrees, Mr Dombey
 said; possibly with a recollection of his not having been weaned by
 degrees on a former occasion.
 
-Mr Dombey finished the interview by expressing his hope that Mrs
+Mr Dombey finished the interview by expressing his [[Hope|hope]] that Mrs
 Pipchin would still remain in office as general superintendent and
 overseer of his son, pending his studies at Brighton; and having kissed
 Paul, and shaken hands with Florence, and beheld Master Bitherstone in
@@ -252,7 +252,7 @@ his collar of state, and made Miss Pankey cry by patting her on the
 head (in which region she was uncommonly tender, on account of a habit
 Mrs Pipchin had of sounding it with her knuckles, like a cask), he
 withdrew to his hotel and dinner: resolved that Paul, now that he was
-getting so old and well, should begin a vigorous course of education
+getting so old and [[Well|well]], should begin a vigorous course of [[Education|education]]
 forthwith, to qualify him for the position in which he was to shine;
 and that Doctor Blimber should take him in hand immediately.
 
@@ -263,20 +263,20 @@ a supply of learning for a hundred, on the lowest estimate; and it was
 at once the business and delight of his life to gorge the unhappy ten
 with it.
 
-In fact, Doctor Blimber’s establishment was a great hot-house, in which
+In fact, Doctor Blimber’s establishment was a great hot-[[house]], in which
 there was a forcing apparatus incessantly at work. All the boys blew
-before their time. Mental green-peas were produced at Christmas, and
-intellectual asparagus all the year round. Mathematical gooseberries
-(very sour ones too) were common at untimely seasons, and from mere
+before their [[Time|time]]. Mental green-peas were produced at Christmas, and
+intellectual [[asparagus]] all the year round. Mathematical gooseberries
+(very sour ones too) were common at untimely [[Seasons|seasons]], and from mere
 sprouts of bushes, under Doctor Blimber’s cultivation. Every
 description of Greek and Latin vegetable was got off the driest twigs
-of boys, under the frostiest circumstances. Nature was of no
+of boys, under the frostiest circumstances. [[Nature]] was of no
 consequence at all. No matter what a young gentleman was intended to
 bear, Doctor Blimber made him bear to pattern, somehow or other.
 
 This was all very pleasant and ingenious, but the system of forcing was
 attended with its usual disadvantages. There was not the right taste
-about the premature productions, and they didn’t keep well. Moreover,
+about the premature productions, and they didn’t keep [[Well|well]]. Moreover,
 one young gentleman, with a swollen nose and an excessively large head
 (the oldest of the ten who had “gone through” everything), suddenly
 left off blowing one day, and remained in the establishment a mere
@@ -288,15 +288,15 @@ There young Toots was, at any rate; possessed of the gruffest of voices
 and the shrillest of minds; sticking ornamental pins into his shirt,
 and keeping a ring in his waistcoat pocket to put on his little finger
 by stealth, when the pupils went out walking; constantly falling in
-love by sight with nurserymaids, who had no idea of his existence; and
+[[Love|love]] by sight with nurserymaids, who had no idea of his existence; and
 looking at the gas-lighted world over the little iron bars in the
-left-hand corner window of the front three pairs of stairs, after
-bed-time, like a greatly overgrown cherub who had sat up aloft much too
+left-hand corner [[Window|window]] of the front three pairs of stairs, after
+bed-[[Time|time]], like a greatly overgrown cherub who had sat up aloft much too
 long.
 
 The Doctor was a portly gentleman in a suit of black, with strings at
 his knees, and stockings below them. He had a bald head, highly
-polished; a deep voice; and a chin so very double, that it was a wonder
+polished; a deep voice; and a chin so very [[Double|double]], that it was a [[Wonder|wonder]]
 how he ever managed to shave into the creases. He had likewise a pair
 of little eyes that were always half shut up, and a mouth that was
 always half expanded into a grin, as if he had, that moment, posed a
@@ -306,28 +306,28 @@ with his other hand behind him, and a scarcely perceptible wag of his
 head, made the commonest observation to a nervous stranger, it was like
 a sentiment from the sphynx, and settled his business.
 
-The Doctor’s was a mighty fine house, fronting the sea. Not a joyful
-style of house within, but quite the contrary. Sad-coloured curtains,
+The Doctor’s was a mighty fine [[house]], fronting the sea. Not a joyful
+style of [[house]] within, but quite the contrary. Sad-coloured curtains,
 whose proportions were spare and lean, hid themselves despondently
 behind the windows. The tables and chairs were put away in rows, like
 figures in a sum; fires were so rarely lighted in the rooms of
 ceremony, that they felt like wells, and a visitor represented the
 bucket; the dining-room seemed the last place in the world where any
 eating or drinking was likely to occur; there was no sound through all
-the house but the ticking of a great clock in the hall, which made
+the [[house]] but the ticking of a great [[Clock|clock]] in the hall, which made
 itself audible in the very garrets; and sometimes a dull cooing of
 young gentlemen at their lessons, like the murmurings of an assemblage
-of melancholy pigeons.
+of [[Melancholy|melancholy]] pigeons.
 
 Miss Blimber, too, although a slim and graceful maid, did no soft
-violence to the gravity of the house. There was no light nonsense about
+violence to the gravity of the [[house]]. There was no light nonsense about
 Miss Blimber. She kept her hair short and crisp, and wore spectacles.
 She was dry and sandy with working in the graves of deceased languages.
 None of your live languages for Miss Blimber. They must be dead—stone
 dead—and then Miss Blimber dug them up like a Ghoul.
 
 Mrs Blimber, her Mama, was not learned herself, but she pretended to
-be, and that did quite as well. She said at evening parties, that if
+be, and that did quite as [[Well|well]]. She said at evening parties, that if
 she could have known Cicero, she thought she could have died contented.
 It was the steady joy of her life to see the Doctor’s young gentlemen
 go out walking, unlike all other young gentlemen, in the largest
@@ -343,8 +343,8 @@ had only one, with which, in a monotonous round, it was his occupation
 to bewilder the young ideas of Doctor Blimber’s young gentlemen. The
 young gentlemen were prematurely full of carking anxieties. They knew
 no rest from the pursuit of stony-hearted verbs, savage
-noun-substantives, inflexible syntactic passages, and ghosts of
-exercises that appeared to them in their dreams. Under the forcing
+noun-substantives, inflexible syntactic passages, and [[Ghosts|ghosts]] of
+exercises that appeared to them in their [[Dreams|dreams]]. Under the forcing
 system, a young gentleman usually took leave of his spirits in three
 weeks. He had all the cares of the world on his head in three months.
 He conceived bitter sentiments against his parents or guardians in
@@ -356,8 +356,8 @@ mere collection of words and grammar, and had no other meaning in the
 world.
 
 But he went on blow, blow, blowing, in the Doctor’s hothouse, all the
-time; and the Doctor’s glory and reputation were great, when he took
-his wintry growth home to his relations and friends.
+[[Time|time]]; and the Doctor’s glory and reputation were great, when he took
+his wintry growth [[Home|home]] to his relations and friends.
 
 Upon the Doctor’s door-steps one day, Paul stood with a fluttering
 heart, and with his small right hand in his father’s. His other hand
@@ -372,7 +372,7 @@ hoarsely as she waited for the opening of the door.
 “Now, Paul,” said Mr Dombey, exultingly. “This is the way indeed to be
 Dombey and Son, and have money. You are almost a man already.”
 
-“Almost,” returned the child.
+“Almost,” returned the [[Child|child]].
 
 Even his childish agitation could not master the sly and quaint yet
 touching look, with which he accompanied the reply.
@@ -380,11 +380,11 @@ touching look, with which he accompanied the reply.
 It brought a vague expression of dissatisfaction into Mr Dombey’s face;
 but the door being opened, it was quickly gone.
 
-“Doctor Blimber is at home, I believe?” said Mr Dombey.
+“Doctor Blimber is at [[Home|home]], I believe?” said Mr Dombey.
 
 The man said yes; and as they passed in, looked at Paul as if he were a
-little mouse, and the house were a trap. He was a weak-eyed young man,
-with the first faint streaks or early dawn of a grin on his
+little mouse, and the [[house]] were a trap. He was a weak-eyed young man,
+with the first faint streaks or early [[Dawn|dawn]] of a grin on his
 countenance. It was mere imbecility; but Mrs Pipchin took it into her
 head that it was impudence, and made a snap at him directly.
 
@@ -394,7 +394,7 @@ head that it was impudence, and made a snap at him directly.
 “I ain’t a laughing at nobody, and I’m sure I don’t take you for
 nothing, Ma’am,” returned the young man, in consternation.
 
-“A pack of idle dogs!” said Mrs Pipchin, “only fit to be turnspits. Go
+“A pack of idle [[dogs]]!” said Mrs Pipchin, “only fit to be turnspits. Go
 and tell your master that Mr Dombey’s here, or it’ll be worse for you!”
 
 The weak-eyed young man went, very meekly, to discharge himself of this
@@ -411,15 +411,15 @@ such a thing as this!”
 
 Mrs Pipchin, in her deference, merely muttered at the young man as she
 passed on, and said, “Oh! he was a precious fellow”—leaving the young
-man, who was all meekness and incapacity, affected even to tears by the
+man, who was all meekness and incapacity, affected even to [[Tears|tears]] by the
 incident. But Mrs Pipchin had a way of falling foul of all meek people;
-and her friends said who could wonder at it, after the Peruvian mines!
+and her friends said who could [[Wonder|wonder]] at it, after the Peruvian mines!
 
 The Doctor was sitting in his portentous study, with a globe at each
 knee, books all round him, Homer over the door, and Minerva on the
 mantel-shelf. “And how do you do, Sir?” he said to Mr Dombey, “and how
-is my little friend?” Grave as an organ was the Doctor’s speech; and
-when he ceased, the great clock in the hall seemed (to Paul at least)
+is my little friend?” [[Grave]] as an organ was the Doctor’s speech; and
+when he ceased, the great [[Clock|clock]] in the hall seemed (to Paul at least)
 to take him up, and to go on saying, “how, is, my, lit, tle, friend?
 how, is, my, lit, tle, friend?” over and over and over again.
 
@@ -433,11 +433,11 @@ against the Doctor, in the middle of the room.
 “Ha!” said the Doctor, leaning back in his chair with his hand in his
 breast. “Now I see my little friend. How do you do, my little friend?”
 
-The clock in the hall wouldn’t subscribe to this alteration in the form
+The [[Clock|clock]] in the hall wouldn’t subscribe to this alteration in the form
 of words, but continued to repeat how, is, my, lit, tle, friend? how,
 is, my, lit, tle, friend?”
 
-“Very well, I thank you, Sir,” returned Paul, answering the clock quite
+“Very [[Well|well]], I thank you, Sir,” returned Paul, answering the [[Clock|clock]] quite
 as much as the Doctor.
 
 “Ha!” said Doctor Blimber. “Shall we make a man of him?”
@@ -446,17 +446,17 @@ as much as the Doctor.
 
 “Shall we make a man of him?” repeated the Doctor.
 
-“I had rather be a child,” replied Paul.
+“I had rather be a [[Child|child]],” replied Paul.
 
 “Indeed!” said the Doctor. “Why?”
 
-The child sat on the table looking at him, with a curious expression of
+The [[Child|child]] sat on the table looking at him, with a curious expression of
 suppressed emotion in his face, and beating one hand proudly on his
-knee as if he had the rising tears beneath it, and crushed them. But
+knee as if he had the rising [[Tears|tears]] beneath it, and crushed them. But
 his other hand strayed a little way the while, a little farther—farther
 from him yet—until it lighted on the neck of Florence. “This is why,”
 it seemed to say, and then the steady look was broken up and gone; the
-working lip was loosened; and the tears came streaming forth.
+working lip was loosened; and the [[Tears|tears]] came streaming forth.
 
 “Mrs Pipchin,” said his father, in a querulous manner, “I am really
 very sorry to see this.”
@@ -477,7 +477,7 @@ exactly. Ha! We shall impart a great variety of information to our
 little friend, and bring him quickly forward, I daresay. I daresay.
 Quite a virgin soil, I believe you said, Mr Dombey?”
 
-“Except some ordinary preparation at home, and from this lady,” replied
+“Except some ordinary preparation at [[Home|home]], and from this lady,” replied
 Mr Dombey, introducing Mrs Pipchin, who instantly communicated a
 rigidity to her whole muscular system, and snorted defiance beforehand,
 in case the Doctor should disparage her; “except so far, Paul has, as
@@ -492,17 +492,17 @@ have liked to tackle him with the Greek alphabet, on the spot.
 “That circumstance, indeed, Doctor Blimber,” pursued Mr Dombey,
 glancing at his little son, “and the interview I have already had the
 pleasure of holding with you, renders any further explanation, and
-consequently, any further intrusion on your valuable time, so
+consequently, any further intrusion on your valuable [[Time|time]], so
 unnecessary, that—”
 
 “Now, Miss Dombey!” said the acid Pipchin.
 
 “Permit me,” said the Doctor, “one moment. Allow me to present Mrs
 Blimber and my daughter; who will be associated with the domestic life
-of our young Pilgrim to Parnassus Mrs Blimber,” for the lady, who had
+of our young [[Pilgrim]] to Parnassus Mrs Blimber,” for the lady, who had
 perhaps been in waiting, opportunely entered, followed by her daughter,
 that fair Sexton in spectacles, “Mr Dombey. My daughter Cornelia, Mr
-Dombey. Mr Dombey, my love,” pursued the Doctor, turning to his wife,
+Dombey. Mr Dombey, my [[Love|love]],” pursued the Doctor, turning to his wife,
 “is so confiding as to—do you see our little friend?”
 
 Mrs Blimber, in an excess of politeness, of which Mr Dombey was the
@@ -513,8 +513,8 @@ lineaments, and turning again to Mr Dombey, said, with a sigh, that she
 envied his dear son.
 
 “Like a bee, Sir,” said Mrs Blimber, with uplifted eyes, “about to
-plunge into a garden of the choicest flowers, and sip the sweets for
-the first time Virgil, Horace, Ovid, Terence, Plautus, Cicero. What a
+plunge into a [[Garden|garden]] of the choicest [[Flowers|flowers]], and sip the sweets for
+the first [[Time|time]] Virgil, Horace, Ovid, Terence, Plautus, Cicero. What a
 world of honey have we here. It may appear remarkable, Mr Dombey, in
 one who is a wife—the wife of such a husband—”
 
@@ -524,7 +524,7 @@ one who is a wife—the wife of such a husband—”
 with an engaging smile.
 
 Mr Dombey answered “Not at all:” applying those words, it is to be
-presumed, to the partiality, and not to the forgiveness.
+presumed, to the partiality, and not to the [[Forgiveness|forgiveness]].
 
 “And it may seem remarkable in one who is a mother also,” resumed Mrs
 Blimber.
@@ -561,9 +561,9 @@ much at finding himself among strangers, and chuckled aloud.
 “An addition to our little Portico, Toots,” said the Doctor; “Mr
 Dombey’s son.”
 
-Young Toots blushed again; and finding, from a solemn silence which
+Young Toots blushed again; and finding, from a solemn [[Silence|silence]] which
 prevailed, that he was expected to say something, said to Paul, “How
-are you?” in a voice so deep, and a manner so sheepish, that if a lamb
+are you?” in a voice so deep, and a manner so sheepish, that if a [[Lamb|lamb]]
 had roared it couldn’t have been more surprising.
 
 “Ask Mr Feeder, if you please, Toots,” said the Doctor, “to prepare a
@@ -599,7 +599,7 @@ swiftly vanished, and appeared no more.
 Mr Dombey and his conductress were soon heard coming downstairs again,
 talking all the way; and presently they re-entered the Doctor’s study.
 
-“I hope, Mr Dombey,” said the Doctor, laying down his book, “that the
+“I [[Hope|hope]], Mr Dombey,” said the Doctor, laying down his book, “that the
 arrangements meet your approval.”
 
 “They are excellent, Sir,” said Mr Dombey.
@@ -615,7 +615,7 @@ permission, Doctor and Mrs Blimber, visit Paul now and then.”
 “Always happy to see her,” said Mrs Blimber.
 
 “I think,” said Mr Dombey, “I have given all the trouble I need, and
-may take my leave. Paul, my child,” he went close to him, as he sat
+may take my leave. Paul, my [[Child|child]],” he went close to him, as he sat
 upon the table. “Good-bye.”
 
 “Good-bye, Papa.”
@@ -633,7 +633,7 @@ for his injury.
 He bent down, over his boy, and kissed him. If his sight were dimmed as
 he did so, by something that for a moment blurred the little face, and
 made it indistinct to him, his mental vision may have been, for that
-short time, the clearer perhaps.
+short [[Time|time]], the clearer perhaps.
 
 “I shall see you soon, Paul. You are free on Saturdays and Sundays, you
 know.”
@@ -644,11 +644,11 @@ Sundays.”
 “And you’ll try and learn a great deal here, and be a clever man,” said
 Mr Dombey; “won’t you?”
 
-“I’ll try,” returned the child, wearily.
+“I’ll try,” returned the [[Child|child]], wearily.
 
 “And you’ll soon be grown up now!” said Mr Dombey.
 
-“Oh! very soon!” replied the child. Once more the old, old look passed
+“Oh! very soon!” replied the [[Child|child]]. Once more the old, old look passed
 rapidly across his features like a strange light. It fell on Mrs
 Pipchin, and extinguished itself in her black dress. That excellent
 ogress stepped forward to take leave and to bear off Florence, which
@@ -666,12 +666,12 @@ before she could clutch Florence. To which happy accident Paul stood
 afterwards indebted for the dear remembrance, that Florence ran back to
 throw her arms round his neck, and that hers was the last face in the
 doorway: turned towards him with a smile of encouragement, the brighter
-for the tears through which it beamed.
+for the [[Tears|tears]] through which it beamed.
 
 It made his childish bosom heave and swell when it was gone; and sent
 the globes, the books, blind Homer and Minerva, swimming round the
 room. But they stopped, all of a sudden; and then he heard the loud
-clock in the hall still gravely inquiring “how, is, my, lit, tle,
+[[Clock|clock]] in the hall still gravely inquiring “how, is, my, lit, tle,
 friend? how, is, my, lit, tle, friend?” as it had done before.
 
 He sat, with folded hands, upon his pedestal, silently listening. But

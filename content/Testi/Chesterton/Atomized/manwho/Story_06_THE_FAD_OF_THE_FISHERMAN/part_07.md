@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FAD OF THE FISHERMAN (part 7)"
+title: "[[manwho]] — THE FAD OF THE FISHERMAN (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -50,7 +50,7 @@ very reason for which they acquit everybody else? Harker and
 
 Westmoreland were silent because they found him murdered, and knew
 
-there were papers that made them look like the murderers. Well, so
+there were papers that made them look like the murderers. [[Well]], so
 
 did Hugo find him murdered, and so did Hugo know there was a paper
 
@@ -78,7 +78,7 @@ island."
 
 
 
-March stared at the shining water without replying, but Fisher
+March stared at the shining [[Water|water]] without replying, but Fisher
 
 resumed like one who had been asked a question:
 
@@ -92,15 +92,15 @@ fancy of old Hook for being the first man up every morning, his
 
 fixed routine as an angler, and his annoyance at being disturbed.
 
-The murderer strangled him in his own house after dinner on the
+The murderer strangled him in his own [[house]] after dinner on the
 
-night before, carried his corpse, with all his fishing tackle,
+[[Night|night]] before, carried his corpse, with all his fishing tackle,
 
-across the stream in the dead of night, tied him to the tree, and
+across the stream in the dead of [[Night|night]], tied him to the tree, and
 
-left him there under the stars. It was a dead man who sat fishing
+left him there under the [[Stars|stars]]. It was a dead man who sat fishing
 
-there all day. Then the murderer went back to the house, or, rather,
+there all day. Then the murderer went back to the [[house]], or, rather,
 
 to the garage, and went off in his motor car. The murderer drove his
 
@@ -118,7 +118,7 @@ had his family life ruined, you wouldn't think the murder of his
 
 persecutor the most inexcusable of murders. Is it any worse when a
 
-whole great nation is set free as well as a family? By this warning
+whole great nation is set free as [[Well|well]] as a family? By this warning
 
 to Sweden we shall probably prevent war and not precipitate it, and
 
@@ -126,11 +126,11 @@ save many thousand lives rather more valuable than the life of that
 
 viper. Oh, I'm not talking sophistry or seriously justifying the
 
-thing, but the slavery that held him and his country was a thousand
+thing, but the [[Slavery|slavery]] that held him and his country was a thousand
 
 times less justifiable. If I'd really been sharp I should have
 
-guessed it from his smooth, deadly smiling at dinner that night. Do
+guessed it from his smooth, deadly smiling at dinner that [[Night|night]]. Do
 
 you remember that silly talk about how old Isaac could always play
 

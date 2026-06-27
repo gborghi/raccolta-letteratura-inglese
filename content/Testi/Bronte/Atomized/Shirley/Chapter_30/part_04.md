@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 30 (part 4)"
+title: "[[Shirley]] — Chapter 30 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,7 +26,7 @@ haughty, more mournful than incensed.
 
 "I relieved myself by what should have been a sigh, but it became a
 
-groan. A sense of Cain-like desolation made my breast ache.
+groan. A sense of [[Cain]]-like desolation made my breast ache.
 
 
 
@@ -36,11 +36,11 @@ bitter wages, which I will go and spend far from her who gave them.'
 
 
 
-"I took my hat. All the time I could not have borne to depart so, and I
+"I took my hat. All the [[Time|time]] I could not have borne to depart so, and I
 
 believed she would not let me. Nor would she but for the mortal pang I
 
-had given her pride, that cowed her compassion and kept her silent.
+had given her [[Pride|pride]], that cowed her compassion and kept her silent.
 
 
 
@@ -60,21 +60,21 @@ to mislead a sagacious man so far I must have done wrong.'
 
 that it was sincere, and that my wish and aim were to absolve her to
 
-herself. In fact, in her case self-accusation was a chimera.
+herself. In fact, in her case [[Self|self]]-accusation was a chimera.
 
 
 
-"At last she extended her hand. For the first time I wished to take her
+"At last she extended her hand. For the first [[Time|time]] I wished to take her
 
 in my arms and kiss her. I _did_ kiss her hand many times.
 
 
 
-"'Some day we shall be friends again,' she said, 'when you have had time
+"'Some day we shall be friends again,' she said, 'when you have had [[Time|time]]
 
 to read my actions and motives in a true light, and not so horribly to
 
-misinterpret them. Time may give you the right key to all. Then,
+misinterpret them. [[Time]] may give you the right key to all. Then,
 
 perhaps, you will comprehend me, and then we shall be reconciled.'
 
@@ -96,11 +96,11 @@ God knows! Thus were we severed."
 
 "I'll do it no more," vowed his companion; "never more will I mention
 
-marriage to a woman unless I feel love. Henceforth credit and commerce
+[[Marriage|marriage]] to a woman unless I feel [[Love|love]]. Henceforth credit and commerce
 
 may take care of themselves. Bankruptcy may come when it lists. I have
 
-done with slavish fear of disaster. I mean to work diligently, wait
+done with slavish [[Fear|fear]] of disaster. I mean to work diligently, wait
 
 patiently, bear steadily. Let the worst come, I will take my axe and an
 
@@ -110,7 +110,7 @@ settled it. No woman shall ever again look at me as Miss Keeldar looked,
 
 ever again feel towards me as Miss Keeldar felt. In no woman's presence
 
-will I ever again stand at once such a fool and such a knave, such a
+will I ever again stand at once such a [[Fool|fool]] and such a knave, such a
 
 brute and such a puppy."
 
@@ -118,11 +118,11 @@ brute and such a puppy."
 
 "Tut!" said the imperturbable Yorke, "you make too much of it; but
 
-still, I say, I am capped. Firstly, that she did not love you; and
+still, I say, I am capped. Firstly, that she did not [[Love|love]] you; and
 
-secondly, that you did not love her. You are both young; you are both
+secondly, that you did not [[Love|love]] her. You are both young; you are both
 
-handsome; you are both well enough for wit and even for temper--take you
+handsome; you are both [[Well|well]] enough for wit and even for temper--take you
 
 on the right side. What ailed you that you could not agree?"
 
@@ -154,7 +154,7 @@ mastered her attention; then we have conversed; and others, thinking me,
 
 perhaps, peculiarly privileged, have withdrawn by degrees, and left us
 
-alone. Were we happy thus left? For myself, I must say No. Always a
+[[Alone|alone]]. Were we happy thus left? For myself, I must say No. Always a
 
 feeling of constraint came over me; always I was disposed to be stern
 
@@ -164,41 +164,41 @@ intimacy ever opened our hearts, or thawed our language and made it flow
 
 easy and limpid. If we had confidences, they were confidences of the
 
-counting-house, not of the heart. Nothing in her cherished affection in
+counting-[[house]], not of the heart. Nothing in her cherished affection in
 
 me, made me better, gentler; she only stirred my brain and whetted my
 
 acuteness. She never crept into my heart or influenced its pulse; and
 
-for this good reason, no doubt, because I had not the secret of making
+for this good reason, no [[Doubt|doubt]], because I had not the secret of making
 
-her love me."
+her [[Love|love]] me."
 
 
 
-"Well, lad, it is a queer thing. I might laugh at thee, and reckon to
+"[[Well]], lad, it is a queer thing. I might laugh at thee, and reckon to
 
-despise thy refinements; but as it is dark night and we are by
+despise thy refinements; but as it is dark [[Night|night]] and we are by
 
 ourselves, I don't mind telling thee that thy talk brings back a glimpse
 
 of my own past life. Twenty-five years ago I tried to persuade a
 
-beautiful woman to love me, and she would not. I had not the key to her
+beautiful woman to [[Love|love]] me, and she would not. I had not the key to her
 
-nature; she was a stone wall to me, doorless and windowless."
+[[Nature|nature]]; she was a stone wall to me, doorless and windowless."
 
 
 
-"But you loved _her_, Yorke; you worshipped Mary Cave. Your conduct,
+"But you loved _her_, Yorke; you worshipped Mary [[Cave]]. Your conduct,
 
 after all, was that of a man--never of a fortune-hunter."
 
 
 
-"Ay, I _did_ love her; but then she was beautiful as the moon we do
+"Ay, I _did_ [[Love|love]] her; but then she was beautiful as the [[Moon|moon]] we do
 
-_not_ see to-night. There is naught like her in these days. Miss
+_not_ see to-[[Night|night]]. There is naught like her in these days. Miss
 
 Helstone, maybe, has a look of her, but nobody else."
 
@@ -208,13 +208,13 @@ Helstone, maybe, has a look of her, but nobody else."
 
 
 
-"That black-coated tyrant's niece--that quiet, delicate Miss Helstone.
+"That black-coated [[Tyrant|tyrant]]'s niece--that quiet, delicate Miss Helstone.
 
-Many a time I have put on my spectacles to look at the lassie in church,
+Many a [[Time|time]] I have put on my spectacles to look at the lassie in church,
 
 because she has gentle blue een, wi' long lashes; and when she sits in
 
-shadow, and is very still and very pale, and is, happen, about to fall
+[[Shadow|shadow]], and is very still and very pale, and is, happen, about to fall
 
 asleep wi' the length of the sermon and the heat of the biggin', she is
 
@@ -222,28 +222,28 @@ as like one of Canova's marbles as aught else."
 
 
 
-"Was Mary Cave in that style?"
+"Was Mary [[Cave]] in that style?"
 
 
 
 "Far grander!--less lass-like and flesh-like. You wondered why she
 
-hadn't wings and a crown. She was a stately, peaceful angel was my
+hadn't wings and a [[Crown|crown]]. She was a stately, peaceful angel was my
 
 Mary."
 
 
 
-"And you could not persuade her to love you?"
+"And you could not persuade her to [[Love|love]] you?"
 
 
 
-"Not with all I could do, though I prayed Heaven many a time, on my
+"Not with all I could do, though I prayed Heaven many a [[Time|time]], on my
 
 bended knees, to help me."
 
 
 
-"Mary Cave was not what you think her, Yorke. I have seen her picture at
+"Mary [[Cave]] was not what you think her, Yorke. I have seen her picture at
 
 the rectory. She is no angel, but a fair, regular-featured,

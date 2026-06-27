@@ -24,12 +24,12 @@ thoroughly Elizabethan, and even Shakespearian, as in this fact, that
 when he felt inclined to write a page of quite uninteresting nonsense,
 he immediately did so. Many great writers have contrived to be
 tedious, and apparently aimless, while expounding some thought which
-they believed to be grave and profitable; but this frivolous stupidity
-had not been found in any great writer since the time of Rabelais and
-the time of the Elizabethans. In many of the comic scenes of
+they believed to be [[Grave|grave]] and profitable; but this frivolous stupidity
+had not been found in any great writer since the [[Time|time]] of Rabelais and
+the [[Time|time]] of the Elizabethans. In many of the comic scenes of
 Shakespeare we have precisely this elephantine ingenuity, this hunting
-of a pun to death through three pages. In the Elizabethan dramatists
-and in Browning it is no doubt to a certain extent the mark of a real
+of a pun to [[Death|death]] through three pages. In the Elizabethan dramatists
+and in Browning it is no [[Doubt|doubt]] to a certain extent the mark of a real
 hilarity. People must be very happy to be so easily amused.
 
 In the case of what is called Browning's obscurity, the question is
@@ -38,11 +38,11 @@ to be profound because he was obscure, and many other people, hardly
 less mistaken, have supposed him to be obscure because he was
 profound. He was frequently profound, he was occasionally obscure, but
 as a matter of fact the two have little or nothing to do with each
-other. Browning's dark and elliptical mode of speech, like his love of
-the grotesque, was simply a characteristic of his, a trick of is
+other. Browning's dark and elliptical mode of speech, like his [[Love|love]] of
+the [[Grotesque|grotesque]], was simply a characteristic of his, a trick of is
 temperament, and had little or nothing to do with whether what he was
 expressing was profound or superficial. Suppose, for example, that a
-person well read in English poetry but unacquainted with Browning's
+person [[Well|well]] read in English poetry but unacquainted with Browning's
 style were earnestly invited to consider the following verse:--
 
     "Hobbs hints blue--straight he turtle eats.
@@ -71,7 +71,7 @@ comment:--
 So that the verse is not subtle, and was not meant to be subtle, but
 is a perfectly casual piece of sentiment at the end of a light poem.
 Browning is not obscure because he has such deep things to say, any
-more than he is grotesque because he has such new things to say. He is
+more than he is [[Grotesque|grotesque]] because he has such new things to say. He is
 both of these things primarily, because he likes to express himself in
 a particular manner. The manner is as natural to him as a man's
 physical voice, and it is abrupt, sketchy, allusive, and full of gaps.
@@ -86,12 +86,12 @@ these. But the great part of Browning's actual sentiments, and almost
 all the finest and most literary of them, are perfectly plain and
 popular and eternal sentiments. Meredith is really a singer producing
 strange notes and cadences difficult to follow because of the delicate
-rhythm of the song he sings. Browning is simply a great demagogue,
+rhythm of the [[Song|song]] he sings. Browning is simply a great demagogue,
 with an impediment in his speech. Or rather, to speak more strictly,
 Browning is a man whose excitement for the glory of the obvious is so
 great that his speech becomes disjointed and precipitate: he becomes
 eccentric through his advocacy of the ordinary, and goes mad for the
-love of sanity.
+[[Love|love]] of [[Sanity|sanity]].
 
 If Browning and George Meredith were each describing the same act,
 they might both be obscure, but their obscurities would be entirely
@@ -116,5 +116,5 @@ would run:--
 This is not subtlety, but merely a kind of insane swiftness. Browning
 is not like Meredith, anxious to pause and examine the sensations of
 the combatants, nor does he become obscure through this anxiety. He is
-only so anxious to get his man to the bottom of the stairs quickly
-that he leaves out about half the story.
+only so anxious to get his man to the [[Bottom|bottom]] of the stairs quickly
+that he [[Leaves|leaves]] out about half the story.

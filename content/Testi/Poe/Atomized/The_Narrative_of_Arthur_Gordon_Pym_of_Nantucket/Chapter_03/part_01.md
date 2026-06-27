@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 4 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -34,7 +34,7 @@ had no chance of visiting me without the risk of having the secret of
 
 the trap discovered. When at length he did come, I had assured him that
 
-I was doing as well as possible; and, therefore, for the two next days
+I was doing as [[Well|well]] as possible; and, therefore, for the two next days
 
 he felt but little uneasiness on my account--still, however, watching
 
@@ -64,7 +64,7 @@ said before, did not occur until the fourth day after his bringing me
 
 the watch, and the seventh since I had first entered the hold. He then
 
-went down without taking with him any water or provisions, intending in
+went down without taking with him any [[Water|water]] or provisions, intending in
 
 the first place merely to call my attention, and get me to come from
 
@@ -92,7 +92,7 @@ the hold in which I was imprisoned, and the long period during which
 
 the brig had been used as a whaling vessel, I am more inclined to
 
-wonder that I awoke at all, after once falling asleep, than that I
+[[Wonder|wonder]] that I awoke at all, after once falling asleep, than that I
 
 should have slept uninterruptedly for the period specified above.
 
@@ -104,7 +104,7 @@ trap--but I made him no reply. He then shut the trap, and spoke to me
 
 in a louder, and finally in a very loud tone--still I continued to
 
-snore. He was now at a loss what to do. It would take him some time to
+snore. He was now at a loss what to do. It would take him some [[Time|time]] to
 
 make his way through the lumber to my box, and in the mean while his
 
@@ -118,7 +118,7 @@ to ascend, and await another opportunity of visiting me. He was the
 
 more easily induced to this resolve, as my slumber appeared to be of
 
-the most tranquil nature, and he could not suppose that I had undergone
+the most tranquil [[Nature|nature]], and he could not suppose that I had undergone
 
 any inconvenience from my incarceration. He had just made up his mind
 
@@ -130,7 +130,7 @@ through the trap as quickly as possible, closed it, and threw open the
 
 door of his stateroom. No sooner had he put his foot over the threshold
 
-than a pistol flashed in his face, and he was knocked down, at the same
+than a [[Pistol|pistol]] flashed in his face, and he was knocked down, at the same
 
 moment, by a blow from a handspike.
 
@@ -144,7 +144,7 @@ father was tied hand and foot, and lying along the steps of the
 
 companion-way with his head down, and a deep wound in the forehead,
 
-from which the blood was flowing in a continued stream. He spoke not a
+from which the [[Blood|blood]] was flowing in a continued stream. He spoke not a
 
 word, and was apparently dying. Over him stood the first mate, eying
 
@@ -182,9 +182,9 @@ The only reply was a blow on the forehead from an axe. The poor fellow
 
 fell to the deck without a groan, and the black cook lifted him up in
 
-his arms as he would a child, and tossed him deliberately into the sea.
+his arms as he would a [[Child|child]], and tossed him deliberately into the sea.
 
-Hearing the blow and the plunge of the body, the men below could now be
+Hearing the blow and the plunge of the [[Body|body]], the men below could now be
 
 induced to venture on deck neither by threats nor promises, until a
 

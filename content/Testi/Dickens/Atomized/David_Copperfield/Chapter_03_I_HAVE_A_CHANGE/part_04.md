@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 3: I HAVE A CHANGE (part 4)"
+title: "[[David Copperfield]] — Chapter 3: I HAVE A CHANGE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,31 +18,31 @@ This may be premature. I have set it down too soon, perhaps. But let it
 stand.
 
 We strolled a long way, and loaded ourselves with things that we thought
-curious, and put some stranded starfish carefully back into the water--I
+curious, and put some stranded starfish carefully back into the [[Water|water]]--I
 hardly know enough of the race at this moment to be quite certain
 whether they had reason to feel obliged to us for doing so, or the
-reverse--and then made our way home to Mr. Peggotty’s dwelling. We
-stopped under the lee of the lobster-outhouse to exchange an innocent
+reverse--and then made our way [[Home|home]] to Mr. Peggotty’s dwelling. We
+stopped under the lee of the lobster-outhouse to exchange an [[Innocent|innocent]]
 kiss, and went in to breakfast glowing with health and pleasure.
 
 ‘Like two young mavishes,’ Mr. Peggotty said. I knew this meant, in our
 local dialect, like two young thrushes, and received it as a compliment.
 
-Of course I was in love with little Em’ly. I am sure I loved that
+Of course I was in [[Love|love]] with little Em’ly. I am sure I loved that
 baby quite as truly, quite as tenderly, with greater purity and more
-disinterestedness, than can enter into the best love of a later time
+disinterestedness, than can enter into the best [[Love|love]] of a later [[Time|time]]
 of life, high and ennobling as it is. I am sure my fancy raised up
-something round that blue-eyed mite of a child, which etherealized,
+something round that blue-eyed mite of a [[Child|child]], which etherealized,
 and made a very angel of her. If, any sunny forenoon, she had spread
 a little pair of wings and flown away before my eyes, I don’t think I
 should have regarded it as much more than I had had reason to expect.
 
 We used to walk about that dim old flat at Yarmouth in a loving manner,
-hours and hours. The days sported by us, as if Time had not grown up
-himself yet, but were a child too, and always at play. I told Em’ly
+hours and hours. The days sported by us, as if [[Time]] had not grown up
+himself yet, but were a [[Child|child]] too, and always at play. I told Em’ly
 I adored her, and that unless she confessed she adored me I should be
-reduced to the necessity of killing myself with a sword. She said she
-did, and I have no doubt she did.
+reduced to the necessity of killing myself with a [[Sword|sword]]. She said she
+did, and I have no [[Doubt|doubt]] she did.
 
 As to any sense of inequality, or youthfulness, or other difficulty
 in our way, little Em’ly and I had no such trouble, because we had no
@@ -63,14 +63,14 @@ her; but there were moments when it would have been more agreeable, I
 thought, if Mrs. Gummidge had had a convenient apartment of her own to
 retire to, and had stopped there until her spirits revived.
 
-Mr. Peggotty went occasionally to a public-house called The Willing
+Mr. Peggotty went occasionally to a public-[[house]] called The Willing
 Mind. I discovered this, by his being out on the second or third evening
-of our visit, and by Mrs. Gummidge’s looking up at the Dutch clock,
+of our visit, and by Mrs. Gummidge’s looking up at the Dutch [[Clock|clock]],
 between eight and nine, and saying he was there, and that, what was
 more, she had known in the morning he would go there.
 
-Mrs. Gummidge had been in a low state all day, and had burst into tears
-in the forenoon, when the fire smoked. ‘I am a lone lorn creetur’,’ were
+Mrs. Gummidge had been in a low state all day, and had burst into [[Tears|tears]]
+in the forenoon, when the [[Fire|fire]] smoked. ‘I am a lone lorn creetur’,’ were
 Mrs. Gummidge’s words, when that unpleasant occurrence took place, ‘and
 everythink goes contrary with me.’
 
@@ -80,12 +80,12 @@ to us.’
 
 ‘I feel it more,’ said Mrs. Gummidge.
 
-It was a very cold day, with cutting blasts of wind. Mrs. Gummidge’s
+It was a very cold day, with cutting blasts of [[Wind|wind]]. Mrs. Gummidge’s
 peculiar corner of the fireside seemed to me to be the warmest and
 snuggest in the place, as her chair was certainly the easiest, but it
 didn’t suit her that day at all. She was constantly complaining of the
 cold, and of its occasioning a visitation in her back which she called
-‘the creeps’. At last she shed tears on that subject, and said again
+‘the creeps’. At last she shed [[Tears|tears]] on that subject, and said again
 that she was ‘a lone lorn creetur’ and everythink went contrary with
 her’.
 
@@ -97,10 +97,10 @@ So at dinner; when Mrs. Gummidge was always helped immediately after me,
 to whom the preference was given as a visitor of distinction. The
 fish were small and bony, and the potatoes were a little burnt. We all
 acknowledged that we felt this something of a disappointment; but Mrs.
-Gummidge said she felt it more than we did, and shed tears again, and
+Gummidge said she felt it more than we did, and shed [[Tears|tears]] again, and
 made that former declaration with great bitterness.
 
-Accordingly, when Mr. Peggotty came home about nine o’clock, this
+Accordingly, when Mr. Peggotty came [[Home|home]] about nine o’[[Clock|clock]], this
 unfortunate Mrs. Gummidge was knitting in her corner, in a very wretched
 and miserable condition. Peggotty had been working cheerfully. Ham had
 been patching up a great pair of waterboots; and I, with little Em’ly
@@ -108,7 +108,7 @@ by my side, had been reading to them. Mrs. Gummidge had never made any
 other remark than a forlorn sigh, and had never raised her eyes since
 tea.
 
-‘Well, Mates,’ said Mr. Peggotty, taking his seat, ‘and how are you?’
+‘[[Well]], Mates,’ said Mr. Peggotty, taking his seat, ‘and how are you?’
 
 We all said something, or looked something, to welcome him, except Mrs.
 Gummidge, who only shook her head over her knitting.

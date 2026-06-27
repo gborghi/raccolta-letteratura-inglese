@@ -1,5 +1,5 @@
 ---
-title: "The Oblong Box (part 4)"
+title: "[[The Oblong Box]] (part 4)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -15,7 +15,7 @@ tags:
 
       been either. I rather think it was a ringing in my own ears. Mr.
 
-      Wyatt, no doubt, according to custom, was merely giving the rein
+      Wyatt, no [[Doubt|doubt]], according to custom, was merely giving the rein
 
       to one of his hobbies—indulging in one of his fits of artistic
 
@@ -27,11 +27,11 @@ tags:
 
       been simply a freak of my own fancy, distempered by good Captain
 
-      Hardy’s green tea. Just before dawn, on each of the two nights of
+      Hardy’s green tea. Just before [[Dawn|dawn]], on each of the two nights of
 
       which I speak, I distinctly heard Mr. Wyatt replace the lid upon
 
-      the oblong box, and force the nails into their old places by
+      [[The Oblong Box|the oblong box]], and force the nails into their old places by
 
       means of the muffled mallet. Having done this, he issued from his
 
@@ -47,25 +47,25 @@ tags:
 
       were, in a measure, prepared for it, however, as the weather had
 
-      been holding out threats for some time. Every thing was made
+      been holding out threats for some [[Time|time]]. Every thing was made
 
-      snug, alow and aloft; and as the wind steadily freshened, we lay
+      snug, alow and aloft; and as the [[Wind|wind]] steadily freshened, we lay
 
-      to, at length, under spanker and foretopsail, both double-reefed.
+      to, at length, under spanker and foretopsail, both [[Double|double]]-reefed.
 
 
 
-      In this trim we rode safely enough for forty-eight hours—the ship
+      In this trim we rode safely enough for forty-eight hours—the [[Ship|ship]]
 
       proving herself an excellent sea-boat in many respects, and
 
-      shipping no water of any consequence. At the end of this period,
+      shipping no [[Water|water]] of any consequence. At the end of this period,
 
       however, the gale had freshened into a hurricane, and our
 
       after-sail split into ribbons, bringing us so much in the trough
 
-      of the water that we shipped several prodigious seas, one
+      of the [[Water|water]] that we shipped several prodigious seas, one
 
       immediately after the other. By this accident we lost three men
 
@@ -73,9 +73,9 @@ tags:
 
       bulwarks. Scarcely had we recovered our senses, before the
 
-      foretopsail went into shreds, when we got up a storm stay-sail
+      foretopsail went into shreds, when we got up a [[Storm|storm]] stay-sail
 
-      and with this did pretty well for some hours, the ship heading
+      and with this did pretty [[Well|well]] for some hours, the [[Ship|ship]] heading
 
       the sea much more steadily than before.
 
@@ -91,19 +91,19 @@ tags:
 
       the board. For an hour or more, we tried in vain to get rid of
 
-      it, on account of the prodigious rolling of the ship; and, before
+      it, on account of the prodigious [[rolling]] of the [[Ship|ship]]; and, before
 
       we had succeeded, the carpenter came aft and announced four feet
 
-      of water in the hold. To add to our dilemma, we found the pumps
+      of [[Water|water]] in the hold. To add to our dilemma, we found the pumps
 
       choked and nearly useless.
 
 
 
-      All was now confusion and despair—but an effort was made to
+      All was now confusion and [[Despair|despair]]—but an effort was made to
 
-      lighten the ship by throwing overboard as much of her cargo as
+      lighten the [[Ship|ship]] by throwing overboard as much of her cargo as
 
       could be reached, and by cutting away the two masts that
 
@@ -121,7 +121,7 @@ tags:
 
       saving ourselves in the boats. At eight P. M., the clouds broke
 
-      away to windward, and we had the advantage of a full moon—a piece
+      away to windward, and we had the advantage of a full [[Moon|moon]]—a piece
 
       of good fortune which served wonderfully to cheer our drooping
 
@@ -135,7 +135,7 @@ tags:
 
       we crowded the whole of the crew and most of the passengers. This
 
-      party made off immediately, and, after undergoing much suffering,
+      party made off immediately, and, after undergoing much [[Suffering|suffering]],
 
       finally arrived, in safety, at Ocracoke Inlet, on the third day
 
@@ -151,7 +151,7 @@ tags:
 
       miracle that we prevented it from swamping as it touched the
 
-      water. It contained, when afloat, the captain and his wife, Mr.
+      [[Water|water]]. It contained, when afloat, the captain and his wife, Mr.
 
       Wyatt and party, a Mexican officer, wife, four children, and
 
@@ -167,7 +167,7 @@ tags:
 
       more. What must have been the astonishment of all, then, when
 
-      having proceeded a few fathoms from the ship, Mr. Wyatt stood up
+      having proceeded a few fathoms from the [[Ship|ship]], Mr. Wyatt stood up
 
       in the stern-sheets, and coolly demanded of Captain Hardy that
 
@@ -181,7 +181,7 @@ tags:
 
       “you will capsize us if you do not sit quite still. Our gunwhale
 
-      is almost in the water now.”
+      is almost in the [[Water|water]] now.”
 
 
 
@@ -191,7 +191,7 @@ tags:
 
       will be but a trifle—it is nothing—mere nothing. By the mother
 
-      who bore you—for the love of Heaven—by your hope of salvation, I
+      who bore you—for the [[Love|love]] of Heaven—by your [[Hope|hope]] of salvation, I
 
       implore you to put back for the box!”
 
@@ -199,7 +199,7 @@ tags:
 
       The captain, for a moment, seemed touched by the earnest appeal
 
-      of the artist, but he regained his stern composure, and merely
+      of the [[artist]], but he regained his stern composure, and merely
 
       said:
 
@@ -209,7 +209,7 @@ tags:
 
       or you will swamp the boat. Stay—hold him—seize him!—he is about
 
-      to spring overboard! There—I knew it—he is over!”
+      to [[spring]] overboard! There—I knew it—he is over!”
 
 
 
@@ -219,6 +219,6 @@ tags:
 
       almost superhuman exertion, in getting hold of a rope which hung
 
-      from the fore-chains. In another moment he was on board, and
+      from the fore-[[Chains|chains]]. In another moment he was on board, and
 
       rushing frantically down into the cabin.

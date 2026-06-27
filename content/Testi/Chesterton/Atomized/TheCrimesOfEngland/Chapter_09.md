@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 9"
+title: "[[TheCrimesOfEngland]] — Chapter 9"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -26,6 +26,6 @@ The March of Montenegro--The Anti-Servile
 
 State--The Prussian Preparation--The
 
-Sleep of England--The Awakening of
+[[Sleep]] of England--The Awakening of
 
 England.

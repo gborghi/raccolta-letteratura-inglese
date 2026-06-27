@@ -18,9 +18,9 @@ VIII
 
 The End of the World
 
-For some time I had been wandering in quiet streets in the curious
+For some [[Time|time]] I had been wandering in quiet streets in the curious
 town of Besançon, which stands like a sort of peninsula
-in a horse-shoe of river.  You may learn from the guide books
+in a [[Horse|horse]]-shoe of [[River|river]].  You may learn from the guide books
 that it was the birthplace of Victor Hugo, and that it is
 a military station with many forts, near the French frontier.
 But you will not learn from guide books that the very tiles
@@ -44,21 +44,21 @@ the driver of a fly (as we should call it) came to the same place.
 He was one of those very large and dark Frenchmen, a type not
 common but yet typical of France; the Rabelaisian Frenchman,
 huge, swarthy, purple-faced, a walking wine-barrel; he was a sort
-of Southern Falstaff, if one can imagine Falstaff anything but English.
+of Southern [[Falstaff]], if one can imagine [[Falstaff]] anything but English.
 And, indeed, there was a vital difference, typical of two nations.
-For while Falstaff would have been shaking with hilarity like
-a huge jelly, full of the broad farce of the London streets,
+For while [[Falstaff]] would have been shaking with hilarity like
+a huge jelly, full of the broad farce of the [[London]] streets,
 this Frenchman was rather solemn and dignified than otherwise--
 as if pleasure were a kind of pagan religion.  After some
 talk which was full of the admirable civility and equality
 of French civilisation, he suggested without either eagerness
 or embarrassment that he should take me in his fly for an hour's
 ride in the hills beyond the town.  And though it was growing late
-I consented; for there was one long white road under an archway
-and round a hill that dragged me like a long white cord.
+I consented; for there was one long white [[Road|road]] under an archway
+and round a [[Hill|hill]] that dragged me like a long white cord.
 We drove through the strong, squat gateway that was made by Romans,
 and I remember the coincidence like a sort of omen that as we
-passed out of the city I heard simultaneously the three sounds
+passed out of the [[City|city]] I heard simultaneously the three sounds
 which are the trinity of France.  They make what some poet calls
 "a tangled trinity," and I am not going to disentangle it.
 Whatever those three things mean, how or why they co-exist;
@@ -77,29 +77,29 @@ After this coincidence of symbols I had a curious sense of having
 left France behind me, or, perhaps, even the civilised world.
 And, indeed, there was something in the landscape wild
 enough to encourage such a fancy.  I have seen perhaps
-higher mountains, but I have never seen higher rocks;
+higher [[Mountains|mountains]], but I have never seen higher rocks;
 I have never seen height so near, so abrupt and sensational,
 splinters of rock that stood up like the spires of churches,
-cliffs that fell sudden and straight as Satan fell from heaven.
+cliffs that fell sudden and straight as [[Satan]] fell from heaven.
 There was also a quality in the ride which was not only astonishing,
 but rather bewildering; a quality which many must have noticed
 if they have driven or ridden rapidly up mountain roads.
 I mean a sense of gigantic gyration, as of the whole
 earth turning about one's head.  It is quite inadequate
-to say that the hills rose and fell like enormous waves.
+to say that the hills [[Rose|rose]] and fell like enormous waves.
 Rather the hills seemed to turn about me like the enormous sails
-of a windmill, a vast wheel of monstrous archangelic wings.
+of a windmill, a vast [[Wheel|wheel]] of monstrous archangelic wings.
 As we drove on and up into the gathering purple of the sunset this
 dizziness increased, confounding things above with things below.
 Wide walls of wooded rock stood out above my head like a roof.
 I stared at them until I fancied that I was staring down at a
-wooded plain.  Below me steeps of green swept down to the river.
+wooded plain.  Below me steeps of green swept down to the [[River|river]].
 I stared at them until I fancied that they swept up to the sky.
-The purple darkened, night drew nearer; it seemed only to cut clearer
-the chasms and draw higher the spires of that nightmare landscape.
+The purple darkened, [[Night|night]] drew nearer; it seemed only to cut clearer
+the chasms and draw higher the spires of that [[nightmare]] landscape.
 Above me in the twilight was the huge black hulk of the driver,
 and his broad, blank back was as mysterious as the back
-of Death in Watts' picture.  I felt that I was growing
+of [[Death]] in Watts' picture.  I felt that I was growing
 too fantastic, and I sought to speak of ordinary things.
 I called out to the driver in French, "Where are you taking me?"
 and it is a literal and solemn fact that he answered me in the same
@@ -109,26 +109,26 @@ I did not answer.  I let him drag the vehicle up dark,
 steep ways, until I saw lights under a low roof of little
 trees and two children, one oddly beautiful, playing at ball.
 Then we found ourselves filling up the strict main street
-of a tiny hamlet, and across the wall of its inn was written
+of a tiny [[Hamlet|hamlet]], and across the wall of its inn was written
 in large letters, LE BOUT DU MONDE--the end of the world.
 
 The driver and I sat down outside that inn without a word, as if all
 ceremonies were natural and understood in that ultimate place.
 I ordered bread for both of us, and red wine, that was good but
-had no name.  On the other side of the road was a little plain
-church with a cross on top of it and a cock on top of the cross.
+had no name.  On the other side of the [[Road|road]] was a little plain
+church with a [[Cross|cross]] on top of it and a cock on top of the [[Cross|cross]].
 This seemed to me a very good end of the world; if the story
-of the world ended here it ended well.  Then I wondered whether I
+of the world ended here it ended [[Well|well]].  Then I wondered whether I
 myself should really be content to end here, where most certainly
 there were the best things of Christendom--a church and children's
 games and decent soil and a tavern for men to talk with men.
-But as I thought a singular doubt and desire grew slowly in me,
+But as I thought a singular [[Doubt|doubt]] and [[Desire|desire]] grew slowly in me,
 and at last I started up.
 
 "Are you not satisfied?" asked my companion.  "No," I said,
 "I am not satisfied even at the end of the world."
 
-Then, after a silence, I said, "Because you see there are two
+Then, after a [[Silence|silence]], I said, "Because you see there are two
 ends of the world.  And this is the wrong end of the world;
 at least the wrong one for me.  This is the French end of the world.
 I want the other end of the world.  Drive me to the other end
@@ -137,23 +137,23 @@ of the world."
 "The other end of the world?" he asked.  "Where is that?"
 
 "It is in Walham Green," I whispered hoarsely.  "You see it
-on the London omnibuses.  'World's End and Walham Green.'
-Oh, I know how good this is; I love your vineyards and your
+on the [[London]] omnibuses.  'World's End and Walham Green.'
+Oh, I know how good this is; I [[Love|love]] your vineyards and your
 free peasantry, but I want the English end of the world.
-I love you like a brother, but I want an English cabman,
+I [[Love|love]] you like a brother, but I want an English [[cabman]],
 who will be funny and ask me what his fare 'is.' Your bugles
-stir my blood, but I want to see a London policeman.
-Take, oh, take me to see a London policeman."
+stir my [[Blood|blood]], but I want to see a [[London]] policeman.
+Take, oh, take me to see a [[London]] policeman."
 
 He stood quite dark and still against the end of the sunset,
 and I could not tell whether he understood or not.
 I got back into his carriage.
 
-"You will understand," I said, "if ever you are an exile even
-for pleasure.  The child to his mother, the man to his country,
+"You will understand," I said, "if ever you are an [[Exile|exile]] even
+for pleasure.  The [[Child|child]] to his mother, the man to his country,
 as a countryman of yours once said.  But since, perhaps, it is
 rather too long a drive to the English end of the world,
-we may as well drive back to Besançon."
+we may as [[Well|well]] drive back to Besançon."
 
-Only as the stars came out among those immortal hills I wept
+Only as the [[Stars|stars]] came out among those immortal hills I wept
 for Walham Green.

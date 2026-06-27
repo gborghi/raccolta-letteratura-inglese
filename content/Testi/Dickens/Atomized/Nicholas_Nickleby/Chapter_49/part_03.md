@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 49 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 49 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘I am so sorry Nicholas is not at home,’ said Mrs. Nickleby. ‘Kate, my
+‘I am so sorry Nicholas is not at [[Home|home]],’ said Mrs. Nickleby. ‘Kate, my
 dear, you must be both Nicholas and yourself.’
 
 ‘Miss Nickleby need be but herself,’ said Frank. ‘I--if I may venture to
@@ -30,25 +30,25 @@ but it was observable that she addressed them exclusively to Tim
 Linkinwater; and there was, besides, a certain embarrassment in her
 manner, which, although it was as far from impairing its graceful
 character as the tinge it communicated to her cheek was from diminishing
-her beauty, was obvious at a glance even to Mrs. Nickleby. Not being of
+her [[Beauty|beauty]], was obvious at a glance even to Mrs. Nickleby. Not being of
 a very speculative character, however, save under circumstances when her
 speculations could be put into words and uttered aloud, that discreet
 matron attributed the emotion to the circumstance of her daughter’s
 not happening to have her best frock on: ‘though I never saw her look
-better, certainly,’ she reflected at the same time. Having settled the
+better, certainly,’ she reflected at the same [[Time|time]]. Having settled the
 question in this way, and being most complacently satisfied that in
 this, and in all other instances, her conjecture could not fail to be
 the right one, Mrs. Nickleby dismissed it from her thoughts, and inwardly
 congratulated herself on being so shrewd and knowing.
 
-Nicholas did not come home nor did Smike reappear; but neither
-circumstance, to say the truth, had any great effect upon the little
-party, who were all in the best humour possible. Indeed, there sprung up
+Nicholas did not come [[Home|home]] nor did [[Smike]] reappear; but neither
+circumstance, to say the [[Truth|truth]], had any great effect upon the little
+party, who were all in the best [[Humour|humour]] possible. Indeed, there sprung up
 quite a flirtation between Miss La Creevy and Tim Linkinwater, who said
 a thousand jocose and facetious things, and became, by degrees, quite
 gallant, not to say tender. Little Miss La Creevy, on her part, was in
 high spirits, and rallied Tim on having remained a bachelor all his life
-with so much success, that Tim was actually induced to declare, that
+with so much [[success]], that Tim was actually induced to declare, that
 if he could get anybody to have him, he didn’t know but what he might
 change his condition even yet. Miss La Creevy earnestly recommended a
 lady she knew, who would exactly suit Mr. Linkinwater, and had a very
@@ -65,28 +65,28 @@ which were received with no less approbation. This was done and said
 with a comical mixture of jest and earnest, and, leading to a great
 amount of laughter, made them very merry indeed.
 
-Kate was commonly the life and soul of the conversation at home; but she
+Kate was commonly the life and [[Soul|soul]] of the conversation at [[Home|home]]; but she
 was more silent than usual upon this occasion (perhaps because Tim and
 Miss La Creevy engrossed so much of it), and, keeping aloof from the
-talkers, sat at the window watching the shadows as the evening closed
-in, and enjoying the quiet beauty of the night, which seemed to have
+talkers, sat at the [[Window|window]] watching the shadows as the evening closed
+in, and enjoying the quiet [[Beauty|beauty]] of the [[Night|night]], which seemed to have
 scarcely less attractions to Frank, who first lingered near, and then
-sat down beside, her. No doubt, there are a great many things to be said
-appropriate to a summer evening, and no doubt they are best said in a
+sat down beside, her. No [[Doubt|doubt]], there are a great many things to be said
+appropriate to a [[Summer|summer]] evening, and no [[Doubt|doubt]] they are best said in a
 low voice, as being most suitable to the peace and serenity of the hour;
 long pauses, too, at times, and then an earnest word or so, and then
-another interval of silence which, somehow, does not seem like silence
+another interval of [[Silence|silence]] which, somehow, does not seem like [[Silence|silence]]
 either, and perhaps now and then a hasty turning away of the head, or
 drooping of the eyes towards the ground, all these minor circumstances,
 with a disinclination to have candles introduced and a tendency to
-confuse hours with minutes, are doubtless mere influences of the time,
+confuse hours with minutes, are doubtless mere influences of the [[Time|time]],
 as many lovely lips can clearly testify. Neither is there the slightest
 reason why Mrs. Nickleby should have expressed surprise when, candles
 being at length brought in, Kate’s bright eyes were unable to bear the
 light which obliged her to avert her face, and even to leave the room
-for some short time; because, when one has sat in the dark so long,
+for some short [[Time|time]]; because, when one has sat in the dark so long,
 candles ARE dazzling, and nothing can be more strictly natural than that
-such results should be produced, as all well-informed young people know.
+such results should be produced, as all [[Well|well]]-informed young people know.
 For that matter, old people know it too, or did know it once, but they
 forget these things sometimes, and more’s the pity.
 
@@ -108,7 +108,7 @@ up a candle, and Tim Linkinwater the tongs, and they would have very
 quickly ascertained the cause of this disturbance if Mrs. Nickleby
 had not been taken very faint, and declined being left behind, on any
 account. This produced a short remonstrance, which terminated in their
-all proceeding to the troubled chamber in a body, excepting only Miss La
+all proceeding to the troubled chamber in a [[Body|body]], excepting only Miss La
 Creevy, who, as the servant girl volunteered a confession of having been
 subject to fits in her infancy, remained with her to give the alarm and
 apply restoratives, in case of extremity.

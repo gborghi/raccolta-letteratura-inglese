@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 1"
+title: "[[Persuasion]] — Chapter 1"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER I.
 
 
 
-Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who,
+[[Sir Walter Elliot]], of Kellynch Hall, in Somersetshire, was a man who,
 
 for his own amusement, never took up any book but the Baronetage; there
 
@@ -36,7 +36,7 @@ into pity and contempt as he turned over the almost endless creations
 
 of the last century; and there, if every other leaf were powerless, he
 
-could read his own history with an interest which never failed. This
+could read his own [[history]] with an interest which never failed. This
 
 was the page at which the favourite volume always opened:
 
@@ -52,7 +52,7 @@ was the page at which the favourite volume always opened:
 
 daughter of James Stevenson, Esq. of South Park, in the county of
 
-Gloucester, by which lady (who died 1800) he has issue Elizabeth, born
+[[Gloucester]], by which lady (who died 1800) he has issue Elizabeth, born
 
 June 1, 1785; Anne, born August 9, 1787; a still-born son, November 5,
 
@@ -76,7 +76,7 @@ wife.
 
 
 
-Then followed the history and rise of the ancient and respectable
+Then followed the [[history]] and rise of the ancient and respectable
 
 family, in the usual terms; how it had been first settled in Cheshire;
 
@@ -102,9 +102,9 @@ second Sir Walter.”
 
 
 
-Vanity was the beginning and the end of Sir Walter Elliot’s character;
+[[Vanity]] was the beginning and the end of [[Sir Walter Elliot]]’s character;
 
-vanity of person and of situation. He had been remarkably handsome in
+[[Vanity|vanity]] of person and of situation. He had been remarkably handsome in
 
 his youth; and, at fifty-four, was still a very fine man. Few women
 
@@ -112,9 +112,9 @@ could think more of their personal appearance than he did, nor could
 
 the valet of any new made lord be more delighted with the place he held
 
-in society. He considered the blessing of beauty as inferior only to
+in society. He considered the blessing of [[Beauty|beauty]] as inferior only to
 
-the blessing of a baronetcy; and the Sir Walter Elliot, who united
+the blessing of a baronetcy; and the [[Sir Walter Elliot]], who united
 
 these gifts, was the constant object of his warmest respect and
 
@@ -166,7 +166,7 @@ This friend, and Sir Walter, did not marry, whatever might have been
 
 anticipated on that head by their acquaintance. Thirteen years had
 
-passed away since Lady Elliot’s death, and they were still near
+passed away since Lady Elliot’s [[Death|death]], and they were still near
 
 neighbours and intimate friends, and one remained a widower, the other
 
@@ -174,9 +174,9 @@ a widow.
 
 
 
-That Lady Russell, of steady age and character, and extremely well
+That [[Lady Russell]], of steady age and character, and extremely [[Well|well]]
 
-provided for, should have no thought of a second marriage, needs no
+provided for, should have no thought of a second [[Marriage|marriage]], needs no
 
 apology to the public, which is rather apt to be unreasonably
 
@@ -214,15 +214,15 @@ weight, her convenience was always to give way—she was only Anne.
 
 
 
-To Lady Russell, indeed, she was a most dear and highly valued
+To [[Lady Russell]], indeed, she was a most dear and highly valued
 
-god-daughter, favourite, and friend. Lady Russell loved them all; but
+god-daughter, favourite, and friend. [[Lady Russell]] loved them all; but
 
 it was only in Anne that she could fancy the mother to revive again.
 
 
 
-A few years before, Anne Elliot had been a very pretty girl, but her
+A few years before, [[Anne Elliot]] had been a very pretty girl, but her
 
 bloom had vanished early; and as even in its height, her father had
 
@@ -232,7 +232,7 @@ features and mild dark eyes from his own), there could be nothing in
 
 them, now that she was faded and thin, to excite his esteem. He had
 
-never indulged much hope, he had now none, of ever reading her name in
+never indulged much [[Hope|hope]], he had now none, of ever reading her name in
 
 any other page of his favourite work. All equality of alliance must
 
@@ -240,7 +240,7 @@ rest with Elizabeth, for Mary had merely connected herself with an old
 
 country family of respectability and large fortune, and had therefore
 
-_given_ all the honour and received none: Elizabeth would, one day or
+_given_ all the [[Honour|honour]] and received none: Elizabeth would, one day or
 
 other, marry suitably.
 
@@ -250,7 +250,7 @@ It sometimes happens that a woman is handsomer at twenty-nine than she
 
 was ten years before; and, generally speaking, if there has been
 
-neither ill health nor anxiety, it is a time of life at which scarcely
+neither ill health nor anxiety, it is a [[Time|time]] of life at which scarcely
 
 any charm is lost. It was so with Elizabeth, still the same handsome
 
@@ -258,7 +258,7 @@ Miss Elliot that she had begun to be thirteen years ago, and Sir Walter
 
 might be excused, therefore, in forgetting her age, or, at least, be
 
-deemed only half a fool, for thinking himself and Elizabeth as blooming
+deemed only half a [[Fool|fool]], for thinking himself and Elizabeth as blooming
 
 as ever, amidst the wreck of the good looks of everybody else; for he
 
@@ -268,7 +268,7 @@ were growing. Anne haggard, Mary coarse, every face in the
 
 neighbourhood worsting, and the rapid increase of the crow’s foot about
 
-Lady Russell’s temples had long been a distress to him.
+[[Lady Russell]]’s temples had long been a distress to him.
 
 
 
@@ -276,15 +276,15 @@ Elizabeth did not quite equal her father in personal contentment.
 
 Thirteen years had seen her mistress of Kellynch Hall, presiding and
 
-directing with a self-possession and decision which could never have
+directing with a [[Self|self]]-possession and decision which could never have
 
 given the idea of her being younger than she was. For thirteen years
 
 had she been doing the honours, and laying down the domestic law at
 
-home, and leading the way to the chaise and four, and walking
+[[Home|home]], and leading the way to the chaise and four, and walking
 
-immediately after Lady Russell out of all the drawing-rooms and
+immediately after [[Lady Russell]] out of all the drawing-rooms and
 
 dining-rooms in the country. Thirteen winters’ revolving frosts had
 
@@ -292,7 +292,7 @@ seen her opening every ball of credit which a scanty neighbourhood
 
 afforded, and thirteen springs shewn their blossoms, as she travelled
 
-up to London with her father, for a few weeks’ annual enjoyment of the
+up to [[London]] with her father, for a few weeks’ annual enjoyment of the
 
 great world. She had the remembrance of all this, she had the
 
@@ -304,13 +304,13 @@ handsome as ever, but she felt her approach to the years of danger, and
 
 would have rejoiced to be certain of being properly solicited by
 
-baronet-blood within the next twelvemonth or two. Then might she again
+baronet-[[Blood|blood]] within the next twelvemonth or two. Then might she again
 
 take up the book of books with as much enjoyment as in her early youth,
 
 but now she liked it not. Always to be presented with the date of her
 
-own birth and see no marriage follow but that of a youngest sister,
+own birth and see no [[Marriage|marriage]] follow but that of a youngest sister,
 
 made the book an evil; and more than once, when her father had left it
 
@@ -322,7 +322,7 @@ pushed it away.
 
 She had had a disappointment, moreover, which that book, and especially
 
-the history of her own family, must ever present the remembrance of.
+the [[history]] of her own family, must ever present the remembrance of.
 
 The heir presumptive, the very William Walter Elliot, Esq., whose
 
@@ -338,7 +338,7 @@ in the event of her having no brother, the future baronet, meant to
 
 marry him, and her father had always meant that she should. He had not
 
-been known to them as a boy; but soon after Lady Elliot’s death, Sir
+been known to them as a boy; but soon after Lady Elliot’s [[Death|death]], Sir
 
 Walter had sought the acquaintance, and though his overtures had not
 
@@ -346,13 +346,13 @@ been met with any warmth, he had persevered in seeking it, making
 
 allowance for the modest drawing-back of youth; and, in one of their
 
-spring excursions to London, when Elizabeth was in her first bloom, Mr
+[[spring]] excursions to [[London]], when Elizabeth was in her first bloom, Mr
 
 Elliot had been forced into the introduction.
 
 
 
-He was at that time a very young man, just engaged in the study of the
+He was at that [[Time|time]] a very young man, just engaged in the study of the
 
 law; and Elizabeth found him extremely agreeable, and every plan in his
 
@@ -360,13 +360,13 @@ favour was confirmed. He was invited to Kellynch Hall; he was talked of
 
 and expected all the rest of the year; but he never came. The following
 
-spring he was seen again in town, found equally agreeable, again
+[[spring]] he was seen again in town, found equally agreeable, again
 
 encouraged, invited, and expected, and again he did not come; and the
 
 next tidings were that he was married. Instead of pushing his fortune
 
-in the line marked out for the heir of the house of Elliot, he had
+in the line marked out for the heir of the [[house]] of Elliot, he had
 
 purchased independence by uniting himself to a rich woman of inferior
 
@@ -374,13 +374,13 @@ birth.
 
 
 
-Sir Walter had resented it. As the head of the house, he felt that he
+Sir Walter had resented it. As the head of the [[house]], he felt that he
 
 ought to have been consulted, especially after taking the young man so
 
 publicly by the hand; “For they must have been seen together,” he
 
-observed, “once at Tattersall’s, and twice in the lobby of the House of
+observed, “once at Tattersall’s, and twice in the lobby of the [[house|House]] of
 
 Commons.” His disapprobation was expressed, but apparently very little
 
@@ -394,13 +394,13 @@ ceased.
 
 
 
-This very awkward history of Mr Elliot was still, after an interval of
+This very awkward [[history]] of Mr Elliot was still, after an interval of
 
 several years, felt with anger by Elizabeth, who had liked the man for
 
 himself, and still more for being her father’s heir, and whose strong
 
-family pride could see only in _him_ a proper match for Sir Walter
+family [[Pride|pride]] could see only in _him_ a proper match for Sir Walter
 
 Elliot’s eldest daughter. There was not a baronet from A to Z whom her
 
@@ -408,11 +408,11 @@ feelings could have so willingly acknowledged as an equal. Yet so
 
 miserably had he conducted himself, that though she was at this present
 
-time (the summer of 1814) wearing black ribbons for his wife, she could
+[[Time|time]] (the [[Summer|summer]] of 1814) wearing black ribbons for his wife, she could
 
 not admit him to be worth thinking of again. The disgrace of his first
 
-marriage might, perhaps, as there was no reason to suppose it
+[[Marriage|marriage]] might, perhaps, as there was no reason to suppose it
 
 perpetuated by offspring, have been got over, had he not done worse;
 
@@ -420,7 +420,7 @@ but he had, as by the accustomary intervention of kind friends, they
 
 had been informed, spoken most disrespectfully of them all, most
 
-slightingly and contemptuously of the very blood he belonged to, and
+slightingly and contemptuously of the very [[Blood|blood]] he belonged to, and
 
 the honours which were hereafter to be his own. This could not be
 
@@ -428,7 +428,7 @@ pardoned.
 
 
 
-Such were Elizabeth Elliot’s sentiments and sensations; such the cares
+Such were [[Elizabeth Elliot]]’s sentiments and sensations; such the cares
 
 to alloy, the agitations to vary, the sameness and the elegance, the
 
@@ -438,7 +438,7 @@ to give interest to a long, uneventful residence in one country circle,
 
 to fill the vacancies which there were no habits of utility abroad, no
 
-talents or accomplishments for home, to occupy.
+talents or accomplishments for [[Home|home]], to occupy.
 
 
 
@@ -462,7 +462,7 @@ died all such right-mindedness, and from that period he had been
 
 constantly exceeding it. It had not been possible for him to spend
 
-less; he had done nothing but what Sir Walter Elliot was imperiously
+less; he had done nothing but what [[Sir Walter Elliot]] was imperiously
 
 called on to do; but blameless as he was, he was not only growing
 
@@ -470,7 +470,7 @@ dreadfully in debt, but was hearing of it so often, that it became vain
 
 to attempt concealing it longer, even partially, from his daughter. He
 
-had given her some hints of it the last spring in town; he had gone so
+had given her some hints of it the last [[spring]] in town; he had gone so
 
 far even as to say, “Can we retrench? Does it occur to you that there
 
@@ -520,7 +520,7 @@ entire, as he had received it.
 
 Their two confidential friends, Mr Shepherd, who lived in the
 
-neighbouring market town, and Lady Russell, were called on to advise them;
+neighbouring market town, and [[Lady Russell]], were called on to advise them;
 
 and both father and daughter seemed to expect that something should be
 
@@ -528,4 +528,4 @@ struck out by one or the other to remove their embarrassments and
 
 reduce their expenditure, without involving the loss of any indulgence
 
-of taste or pride.
+of taste or [[Pride|pride]].

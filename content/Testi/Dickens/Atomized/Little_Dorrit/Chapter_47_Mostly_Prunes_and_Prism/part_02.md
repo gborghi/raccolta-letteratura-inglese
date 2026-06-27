@@ -51,7 +51,7 @@ down before the principal windows, that he might have been supposed to
 have made a wager for a large stake to be paddled a thousand miles in
 a thousand hours; though whenever the gondola of his mistress left the
 gate, the gondola of Mr Sparkler shot out from some watery ambush
-and gave chase, as if she were a fair smuggler and he a custom-house
+and gave chase, as if she were a fair smuggler and he a custom-[[house]]
 officer. It was probably owing to this fortification of the natural
 strength of his constitution with so much exposure to the air, and the
 salt sea, that Mr Sparkler did not pine outwardly; but, whatever the
@@ -76,19 +76,19 @@ inclined to quarrel with his friend for bringing him the message.
 ‘It may be a defect in my mental vision, Blandois,’ said he, ‘but may I
 die if I see what you have to do with this.’
 
-‘Death of my life,’ replied Blandois, ‘nor I neither, except that I
+‘[[Death]] of my life,’ replied Blandois, ‘nor I neither, except that I
 thought I was serving my friend.’
 
 ‘By putting an upstart’s hire in his pocket?’ said Gowan, frowning.
 ‘Do you mean that? Tell your other friend to get his head painted for
-the sign of some public-house, and to get it done by a sign-painter. Who
+the sign of some public-[[house]], and to get it done by a sign-painter. Who
 am I, and who is he?’
 
 ‘Professore,’ returned the ambassador, ‘and who is Blandois?’
 
 Without appearing at all interested in the latter question, Gowan
 angrily whistled Mr Dorrit away. But, next day, he resumed the subject
-by saying in his off-hand manner and with a slighting laugh, ‘Well,
+by saying in his off-hand manner and with a slighting laugh, ‘[[Well]],
 Blandois, when shall we go to this Maecenas of yours? We journeymen must
 take jobs when we can get them. When shall we go and look after this
 job?’
@@ -96,13 +96,13 @@ job?’
 ‘When you will,’ said the injured Blandois, ‘as you please. What have I
 to do with it? What is it to me?’
 
-‘I can tell you what it is to me,’ said Gowan. ‘Bread and cheese. One
+‘I can tell you what it is to me,’ said Gowan. ‘Bread and [[cheese]]. One
 must eat! So come along, my Blandois.’
 
 Mr Dorrit received them in the presence of his daughters and of Mr
 Sparkler, who happened, by some surprising accident, to be calling
 there. ‘How are you, Sparkler?’ said Gowan carelessly. ‘When you have
-to live by your mother wit, old boy, I hope you may get on better than I
+to live by your mother wit, old boy, I [[Hope|hope]] you may get on better than I
 do.’
 
 Mr Dorrit then mentioned his proposal. ‘Sir,’ said Gowan, laughing,

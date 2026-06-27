@@ -28,7 +28,7 @@ glee.
 
 ‘I don’t think I have,’ said Mrs Boffin, archly.
 
-‘John dear,’ said Bella, ‘you’re a good nurse; will you please hold
+‘John dear,’ said Bella, ‘you’re a good [[Nurse|nurse]]; will you please hold
 baby?’ Having deposited the Inexhaustible in his arms with those words,
 Bella looked hard at Mr Boffin, who had moved to a table where he was
 leaning his head upon his hand with his face turned away, and, quietly
@@ -36,7 +36,7 @@ settling herself on her knees at his side, and drawing one arm over his
 shoulder, said: ‘Please I beg your pardon, and I made a small mistake of
 a word when I took leave of you last. Please I think you are better (not
 worse) than Hopkins, better (not worse) than Dancer, better (not worse)
-than Blackberry Jones, better (not worse) than any of them! Please
+than Blackberry [[Jones]], better (not worse) than any of them! Please
 something more!’ cried Bella, with an exultant ringing laugh as she
 struggled with him and forced him to turn his delighted face to hers.
 ‘Please I have found out something not yet mentioned. Please I don’t
@@ -59,8 +59,8 @@ determined to show her how much misused and misprized riches could
 do, and often had done, to spoil people; did you? Not caring what she
 thought of you (and Goodness knows THAT was of no consequence!) you
 showed her, in yourself, the most detestable sides of wealth, saying in
-your own mind, “This shallow creature would never work the truth out of
-her own weak soul, if she had a hundred years to do it in; but a glaring
+your own mind, “This shallow creature would never work the [[Truth|truth]] out of
+her own weak [[Soul|soul]], if she had a hundred years to do it in; but a glaring
 instance kept before her may open even her eyes and set her thinking.”
  That was what you said to yourself, was it, sir?’
 
@@ -72,7 +72,7 @@ pulls and one kiss, ‘for you must have thought and meant it. You saw
 that good fortune was turning my stupid head and hardening my silly
 heart—was making me grasping, calculating, insolent, insufferable—and
 you took the pains to be the dearest and kindest fingerpost that ever
-was set up anywhere, pointing out the road that I was taking and the end
+was set up anywhere, pointing out the [[Road|road]] that I was taking and the end
 it led to. Confess instantly!’
 
 ‘John,’ said Mr Boffin, one broad piece of sunshine from head to foot,
@@ -81,7 +81,7 @@ it led to. Confess instantly!’
 ‘You can’t be heard by counsel, sir,’ returned Bella. ‘You must speak
 for yourself. Confess instantly!’
 
-‘Well, my dear,’ said Mr Boffin, ‘the truth is, that when we did go in
+‘[[Well]], my dear,’ said Mr Boffin, ‘the [[Truth|truth]] is, that when we did go in
 for the little scheme that my old lady has pinted out, I did put it to
 John, what did he think of going in for some such general scheme as YOU
 have pinted out? But I didn’t in any way so word it, because I didn’t in
@@ -92,15 +92,15 @@ reg’lar brown bear all round?’
 ‘Confess this minute, sir,’ said Bella, ‘that you did it to correct and
 amend me!’
 
-‘Certainly, my dear child,’ said Mr Boffin, ‘I didn’t do it to harm you;
-you may be sure of that. And I did hope it might just hint a caution.
+‘Certainly, my dear [[Child|child]],’ said Mr Boffin, ‘I didn’t do it to harm you;
+you may be sure of that. And I did [[Hope|hope]] it might just hint a caution.
 Still, it ought to be mentioned that no sooner had my old lady found out
 John, than John made known to her and me that he had had his eye upon a
-thankless person by the name of Silas Wegg. Partly for the punishment of
+thankless person by the name of [[Silas Wegg]]. Partly for the punishment of
 which Wegg, by leading him on in a very unhandsome and underhanded
 game that he was playing, them books that you and me bought so many
-of together (and, by-the-by, my dear, he wasn’t Blackberry Jones, but
-Blewberry) was read aloud to me by that person of the name of Silas Wegg
+of together (and, by-the-by, my dear, he wasn’t Blackberry [[Jones]], but
+Blewberry) was read aloud to me by that person of the name of [[Silas Wegg]]
 aforesaid.’
 
 Bella, who was still on her knees at Mr Boffin’s feet, gradually sank
@@ -124,7 +124,7 @@ nearly blowed us into shivers and smithers, many times.’
 ‘Why?’ asked Bella. ‘How did that happen, when she was in your secret?’
 
 ‘Why, it was a weakness in the old lady,’ said Mr Boffin; ‘and yet, to
-tell you the whole truth and nothing but the truth, I’m rather proud of
+tell you the whole [[Truth|truth]] and nothing but the [[Truth|truth]], I’m rather proud of
 it. My dear, the old lady thinks so high of me that she couldn’t abear
 to see and hear me coming out as a reg’lar brown one. Couldn’t abear
 to make-believe as I meant it! In consequence of which, we was

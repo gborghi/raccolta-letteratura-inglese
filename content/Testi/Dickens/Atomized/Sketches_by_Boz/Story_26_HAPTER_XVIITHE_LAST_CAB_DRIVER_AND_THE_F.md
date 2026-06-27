@@ -17,25 +17,25 @@ tags:
 CHAPTER XVII—THE LAST CAB-DRIVER, AND THE FIRST OMNIBUS CAD
 
 
-Of all the cabriolet-drivers whom we have ever had the honour and
+Of all the cabriolet-drivers whom we have ever had the [[Honour|honour]] and
 gratification of knowing by sight—and our acquaintance in this way has
 been most extensive—there is one who made an impression on our mind
 which can never be effaced, and who awakened in our bosom a feeling of
 admiration and respect, which we entertain a fatal presentiment will
 never be called forth again by any human being. He was a man of most
 simple and prepossessing appearance. He was a brown-whiskered,
-white-hatted, no-coated cabman; his nose was generally red, and his
+white-hatted, no-coated [[cabman]]; his nose was generally red, and his
 bright blue eye not unfrequently stood out in bold relief against a
 black border of artificial workmanship; his boots were of the
 Wellington form, pulled up to meet his corduroy knee-smalls, or at
 least to approach as near them as their dimensions would admit of; and
 his neck was usually garnished with a bright yellow handkerchief. In
-summer he carried in his mouth a flower; in winter, a straw—slight,
-but, to a contemplative mind, certain indications of a love of nature,
+[[Summer|summer]] he carried in his mouth a flower; in [[Winter|winter]], a straw—slight,
+but, to a contemplative mind, certain indications of a [[Love|love]] of [[Nature|nature]],
 and a taste for botany.
 
 His cabriolet was gorgeously painted—a bright red; and wherever we
-went, City or West End, Paddington or Holloway, North, East, West, or
+went, [[City]] or West End, Paddington or Holloway, North, East, West, or
 South, there was the red cab, bumping up against the posts at the
 street corners, and turning in and out, among hackney-coaches, and
 drays, and carts, and waggons, and omnibuses, and contriving by some
@@ -50,18 +50,18 @@ Some people object to the exertion of getting into cabs, and others
 object to the difficulty of getting out of them; we think both these
 are objections which take their rise in perverse and ill-conditioned
 minds. The getting into a cab is a very pretty and graceful process,
-which, when well performed, is essentially melodramatic. First, there
+which, when [[Well|well]] performed, is essentially melodramatic. First, there
 is the expressive pantomime of every one of the eighteen cabmen on the
 stand, the moment you raise your eyes from the ground. Then there is
 your own pantomime in reply—quite a little ballet. Four cabs
 immediately leave the stand, for your especial accommodation; and the
-evolutions of the animals who draw them, are beautiful in the extreme,
+evolutions of the [[Animals|animals]] who draw them, are beautiful in the extreme,
 as they grate the wheels of the cabs against the curb-stones, and sport
 playfully in the kennel. You single out a particular cab, and dart
 swiftly towards it. One bound, and you are on the first step; turn your
-body lightly round to the right, and you are on the second; bend
+[[Body|body]] lightly round to the right, and you are on the second; bend
 gracefully beneath the reins, working round to the left at the same
-time, and you are in the cab. There is no difficulty in finding a seat:
+[[Time|time]], and you are in the cab. There is no difficulty in finding a seat:
 the apron knocks you comfortably into it at once, and off you go.
 
 The getting out of a cab is, perhaps, rather more complicated in its
@@ -73,13 +73,13 @@ will find that he breaks your fall materially. In the event of your
 contemplating an offer of eightpence, on no account make the tender, or
 show the money, until you are safely on the pavement. It is very bad
 policy attempting to save the fourpence. You are very much in the power
-of a cabman, and he considers it a kind of fee not to do you any wilful
+of a [[cabman]], and he considers it a kind of fee not to do you any wilful
 damage. Any instruction, however, in the art of getting out of a cab,
 is wholly unnecessary if you are going any distance, because the
 probability is, that you will be shot lightly out before you have
 completed the third mile.
 
-We are not aware of any instance on record in which a cab-horse has
+We are not aware of any instance on record in which a cab-[[Horse|horse]] has
 performed three consecutive miles without going down once. What of
 that? It is all excitement. And in these days of derangement of the
 nervous system and universal lassitude, people are content to pay
@@ -90,7 +90,7 @@ down Holborn, or Fleet-street, or any of the principal thoroughfares in
 which there is a great deal of traffic, and judge for yourself. You had
 hardly turned into the street, when you saw a trunk or two, lying on
 the ground: an uprooted post, a hat-box, a portmanteau, and a
-carpet-bag, strewed about in a very picturesque manner: a horse in a
+carpet-bag, strewed about in a very picturesque manner: a [[Horse|horse]] in a
 cab standing by, looking about him with great unconcern; and a crowd,
 shouting and screaming with delight, cooling their flushed faces
 against the glass windows of a chemist’s shop.—‘What’s the matter here,
@@ -106,22 +106,22 @@ gallop, was the red cab’s licensed driver?
 
 The ubiquity of this red cab, and the influence it exercised over the
 risible muscles of justice itself, was perfectly astonishing. You
-walked into the justice-room of the Mansion-house; the whole court
-resounded with merriment. The Lord Mayor threw himself back in his
+walked into the justice-room of the Mansion-[[house]]; the whole [[Court|court]]
+resounded with merriment. The [[Lord Mayor]] threw himself back in his
 chair, in a state of frantic delight at his own joke; every vein in Mr.
 Hobler’s countenance was swollen with laughter, partly at the Lord
 Mayor’s facetiousness, but more at his own; the constables and
 police-officers were (as in duty bound) in ecstasies at Mr. Hobler and
-the Lord Mayor combined; and the very paupers, glancing respectfully at
+the [[Lord Mayor]] combined; and the very paupers, glancing respectfully at
 the beadle’s countenance, tried to smile, as even he relaxed. A tall,
 weazen-faced man, with an impediment in his speech, would be
 endeavouring to state a case of imposition against the red cab’s
-driver; and the red cab’s driver, and the Lord Mayor, and Mr. Hobler,
+driver; and the red cab’s driver, and the [[Lord Mayor]], and Mr. Hobler,
 would be having a little fun among themselves, to the inordinate
 delight of everybody but the complainant. In the end, justice would be
-so tickled with the red cab-driver’s native humour, that the fine would
+so tickled with the red cab-driver’s native [[Humour|humour]], that the fine would
 be mitigated, and he would go away full gallop, in the red cab, to
-impose on somebody else without loss of time.
+impose on somebody else without loss of [[Time|time]].
 
 The driver of the red cab, confident in the strength of his own moral
 principles, like many other philosophers, was wont to set the feelings
@@ -136,8 +136,8 @@ upon the fare, as he put his hand in his waistcoat pocket, when he had
 gone half the mile, to get the money ready; and if he brought forth
 eightpence, out he went.
 
-The last time we saw our friend was one wet evening in
-Tottenham-court-road, when he was engaged in a very warm and somewhat
+The last [[Time|time]] we saw our friend was one wet evening in
+Tottenham-[[Court|court]]-[[Road|road]], when he was engaged in a very warm and somewhat
 personal altercation with a loquacious little gentleman in a green
 coat. Poor fellow! there were great excuses to be made for him: he had
 not received above eighteenpence more than his fare, and consequently
@@ -145,7 +145,7 @@ laboured under a great deal of very natural indignation. The dispute
 had attained a pretty considerable height, when at last the loquacious
 little gentleman, making a mental calculation of the distance, and
 finding that he had already paid more than he ought, avowed his
-unalterable determination to ‘pull up’ the cabman in the morning.
+unalterable determination to ‘pull up’ the [[cabman]] in the morning.
 
 ‘Now, just mark this, young man,’ said the little gentleman, ‘I’ll pull
 you up to-morrow morning.’
@@ -166,10 +166,10 @@ instant; his resolve was soon taken.
 ‘I will,’ rejoined the little gentleman, with even greater vehemence an
 before.
 
-‘Very well,’ said our friend, tucking up his shirt sleeves very calmly.
+‘Very [[Well|well]],’ said our friend, tucking up his shirt sleeves very calmly.
 ‘There’ll be three veeks for that. Wery good; that’ll bring me up to
 the middle o’ next month. Three veeks more would carry me on to my
-birthday, and then I’ve got ten pound to draw. I may as well get board,
+birthday, and then I’ve got ten pound to draw. I may as [[Well|well]] get board,
 lodgin’, and washin’, till then, out of the county, as pay for it
 myself; consequently here goes!’
 
@@ -180,24 +180,24 @@ the civility in the world.
 A story is nothing without the sequel; and therefore, we may state,
 that to our certain knowledge, the board, lodging, and washing were all
 provided in due course. We happen to know the fact, for it came to our
-knowledge thus: We went over the House of Correction for the county of
+knowledge thus: We went over the [[house|House]] of Correction for the county of
 Middlesex shortly after, to witness the operation of the silent system;
 and looked on all the ‘wheels’ with the greatest anxiety, in search of
 our long-lost friend. He was nowhere to be seen, however, and we began
 to think that the little gentleman in the green coat must have
-relented, when, as we were traversing the kitchen-garden, which lies in
-a sequestered part of the prison, we were startled by hearing a voice,
-which apparently proceeded from the wall, pouring forth its soul in the
+relented, when, as we were traversing the kitchen-[[Garden|garden]], which lies in
+a sequestered part of the [[Prison|prison]], we were startled by hearing a voice,
+which apparently proceeded from the wall, pouring forth its [[Soul|soul]] in the
 plaintive air of ‘All round my hat,’ which was then just beginning to
 form a recognised portion of our national music.
 
 We started.—‘What voice is that?’ said we. The Governor shook his head.
 
 ‘Sad fellow,’ he replied, ‘very sad. He positively refused to work on
-the wheel; so, after many trials, I was compelled to order him into
+the [[Wheel|wheel]]; so, after many trials, I was compelled to order him into
 solitary confinement. He says he likes it very much though, and I am
 afraid he does, for he lies on his back on the floor, and sings comic
-songs all day!’
+[[songs]] all day!’
 
 Shall we add, that our heart had not deceived us and that the comic
 singer was no other than our eagerly-sought friend, the red cab-driver?
@@ -241,10 +241,10 @@ the latter being a playful and expressive _sobriquet_, illustrative of
 Mr. Barker’s great talent in ‘aggerawatin’ and rendering wild such
 subjects of her Majesty as are conveyed from place to place, through
 the instrumentality of omnibuses. Of the early life of Mr. Barker
-little is known, and even that little is involved in considerable doubt
+little is known, and even that little is involved in considerable [[Doubt|doubt]]
 and obscurity. A want of application, a restlessness of purpose, a
-thirsting after porter, a love of all that is roving and cadger-like in
-nature, shared in common with many other great geniuses, appear to have
+thirsting after porter, a [[Love|love]] of all that is roving and cadger-like in
+[[Nature|nature]], shared in common with many other great geniuses, appear to have
 been his leading characteristics. The busy hum of a parochial
 free-school, and the shady repose of a county gaol, were alike
 inefficacious in producing the slightest alteration in Mr. Barker’s
@@ -252,26 +252,26 @@ disposition. His feverish attachment to change and variety nothing
 could repress; his native daring no punishment could subdue.
 
 If Mr. Barker can be fairly said to have had any weakness in his
-earlier years, it was an amiable one—love; love in its most
-comprehensive form—a love of ladies, liquids, and pocket-handkerchiefs.
+earlier years, it was an amiable one—[[Love|love]]; [[Love|love]] in its most
+comprehensive form—a [[Love|love]] of ladies, liquids, and pocket-handkerchiefs.
 It was no selfish feeling; it was not confined to his own possessions,
 which but too many men regard with exclusive complacency. No; it was a
-nobler love—a general principle. It extended itself with equal force to
+nobler [[Love|love]]—a general principle. It extended itself with equal force to
 the property of other people.
 
 There is something very affecting in this. It is still more affecting
 to know, that such philanthropy is but imperfectly rewarded.
 Bow-street, Newgate, and Millbank, are a poor return for general
-benevolence, evincing itself in an irrepressible love for all created
+benevolence, evincing itself in an irrepressible [[Love|love]] for all created
 objects. Mr. Barker felt it so. After a lengthened interview with the
 highest legal authorities, he quitted his ungrateful country, with the
-consent, and at the expense, of its Government; proceeded to a distant
+consent, and at the expense, of its [[government|Government]]; proceeded to a distant
 shore; and there employed himself, like another Cincinnatus, in
 clearing and cultivating the soil—a peaceful pursuit, in which a term
 of seven years glided almost imperceptibly away.
 
 Whether, at the expiration of the period we have just mentioned, the
-British Government required Mr. Barker’s presence here, or did not
+British [[government|Government]] required Mr. Barker’s presence here, or did not
 require his residence abroad, we have no distinct means of
 ascertaining. We should be inclined, however, to favour the latter
 position, inasmuch as we do not find that he was advanced to any other
@@ -280,7 +280,7 @@ Haymarket, where he officiated as assistant-waterman to the
 hackney-coach stand. Seated, in this capacity, on a couple of tubs near
 the curbstone, with a brass plate and number suspended round his neck
 by a massive chain, and his ankles curiously enveloped in haybands, he
-is supposed to have made those observations on human nature which
+is supposed to have made those observations on human [[Nature|nature]] which
 exercised so material an influence over all his proceedings in later
 life.
 
@@ -294,19 +294,19 @@ progress of the system of which the first omnibus was a part. He saw,
 too, the necessity of adopting some more profitable profession; and his
 active mind at once perceived how much might be done in the way of
 enticing the youthful and unwary, and shoving the old and helpless,
-into the wrong buss, and carrying them off, until, reduced to despair,
+into the wrong buss, and carrying them off, until, reduced to [[Despair|despair]],
 they ransomed themselves by the payment of sixpence a-head, or, to
-adopt his own figurative expression in all its native beauty, ‘till
+adopt his own figurative expression in all its native [[Beauty|beauty]], ‘till
 they was rig’larly done over, and forked out the stumpy.’
 
 An opportunity for realising his fondest anticipations, soon presented
 itself. Rumours were rife on the hackney-coach stands, that a buss was
-building, to run from Lisson-grove to the Bank, down Oxford-street and
-Holborn; and the rapid increase of busses on the Paddington-road,
+building, to run from Lisson-grove to the Bank, down [[Oxford]]-street and
+Holborn; and the rapid increase of busses on the Paddington-[[Road|road]],
 encouraged the idea. Mr. Barker secretly and cautiously inquired in the
 proper quarters. The report was correct; the ‘Royal William’ was to
-make its first journey on the following Monday. It was a crack affair
-altogether. An enterprising young cabman, of established reputation as
+make its first [[Journey|journey]] on the following Monday. It was a crack affair
+altogether. An enterprising young [[cabman]], of established reputation as
 a dashing whip—for he had compromised with the parents of three
 scrunched children, and just ‘worked out’ his fine for knocking down an
 old lady—was the driver; and the spirited proprietor, knowing Mr.
@@ -320,8 +320,8 @@ a far greater space than we are enabled to devote to this imperfect
 memoir. To him is universally assigned the original suggestion of the
 practice which afterwards became so general—of the driver of a second
 buss keeping constantly behind the first one, and driving the pole of
-his vehicle either into the door of the other, every time it was
-opened, or through the body of any lady or gentleman who might make an
+his vehicle either into the door of the other, every [[Time|time]] it was
+opened, or through the [[Body|body]] of any lady or gentleman who might make an
 attempt to get into it; a humorous and pleasant invention, exhibiting
 all that originality of idea, and fine, bold flow of spirits, so
 conspicuous in every action of this great man.
@@ -330,30 +330,30 @@ Mr. Barker had opponents of course; what man in public life has not?
 But even his worst enemies cannot deny that he has taken more old
 ladies and gentlemen to Paddington who wanted to go to the Bank, and
 more old ladies and gentlemen to the Bank who wanted to go to
-Paddington, than any six men on the road; and however much malevolent
-spirits may pretend to doubt the accuracy of the statement, they well
+Paddington, than any six men on the [[Road|road]]; and however much malevolent
+spirits may pretend to [[Doubt|doubt]] the accuracy of the statement, they [[Well|well]]
 know it to be an established fact, that he has forcibly conveyed a
 variety of ancient persons of either sex, to both places, who had not
 the slightest or most distant intention of going anywhere at all.
 
 Mr. Barker was the identical cad who nobly distinguished himself, some
-time since, by keeping a tradesman on the step—the omnibus going at
-full speed all the time—till he had thrashed him to his entire
+[[Time|time]] since, by keeping a tradesman on the step—the omnibus going at
+full [[Speed|speed]] all the [[Time|time]]—till he had thrashed him to his entire
 satisfaction, and finally throwing him away, when he had quite done
 with him. Mr. Barker it _ought_ to have been, who honestly indignant at
-being ignominiously ejected from a house of public entertainment,
-kicked the landlord in the knee, and thereby caused his death. We say
+being ignominiously ejected from a [[house]] of public entertainment,
+kicked the landlord in the knee, and thereby caused his [[Death|death]]. We say
 it _ought_ to have been Mr. Barker, because the action was not a common
 one, and could have emanated from no ordinary mind.
 
-It has now become matter of history; it is recorded in the Newgate
-Calendar; and we wish we could attribute this piece of daring heroism
+It has now become matter of [[history]]; it is recorded in the Newgate
+Calendar; and we wish we could attribute this piece of daring [[Heroism|heroism]]
 to Mr. Barker. We regret being compelled to state that it was not
 performed by him. Would, for the family credit we could add, that it
 was achieved by his brother!
 
 It was in the exercise of the nicer details of his profession, that Mr.
-Barker’s knowledge of human nature was beautifully displayed. He could
+Barker’s knowledge of human [[Nature|nature]] was beautifully displayed. He could
 tell at a glance where a passenger wanted to go to, and would shout the
 name of the place accordingly, without the slightest reference to the
 real destination of the vehicle. He knew exactly the kind of old lady
@@ -368,8 +368,8 @@ way.
 Human judgment is never infallible, and it would occasionally happen
 that Mr. Barker experimentalised with the timidity or forbearance of
 the wrong person, in which case a summons to a Police-office, was, on
-more than one occasion, followed by a committal to prison. It was not
-in the power of trifles such as these, however, to subdue the freedom
+more than one occasion, followed by a committal to [[Prison|prison]]. It was not
+in the power of trifles such as these, however, to subdue the [[Freedom|freedom]]
 of his spirit. As soon as they passed away, he resumed the duties of
 his profession with unabated ardour.
 
@@ -380,5 +380,5 @@ peered beneath the aprons of our cabs, and penetrated to the very
 innermost recesses of our omnibuses. Dirt and fustian will vanish
 before cleanliness and livery. Slang will be forgotten when civility
 becomes general: and that enlightened, eloquent, sage, and profound
-body, the Magistracy of London, will be deprived of half their
+[[Body|body]], the Magistracy of [[London]], will be deprived of half their
 amusement, and half their occupation.

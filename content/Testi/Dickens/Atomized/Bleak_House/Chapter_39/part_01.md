@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 39 (part 1)"
+title: "Bleak [[house|House]] — Chapter 39 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,11 +21,11 @@ Attorney and Client
 
 The name of Mr. Vholes, preceded by the legend Ground-Floor, is
 inscribed upon a door-post in Symond’s Inn, Chancery Lane—a little,
-pale, wall-eyed, woebegone inn like a large dust-binn of two
+pale, wall-eyed, woebegone inn like a large [[Dust|dust]]-binn of two
 compartments and a sifter. It looks as if Symond were a sparing man
 in his way and constructed his inn of old building materials which
 took kindly to the dry rot and to dirt and all things decaying and
-dismal, and perpetuated Symond’s memory with congenial shabbiness.
+dismal, and perpetuated Symond’s [[Memory|memory]] with congenial shabbiness.
 Quartered in this dingy hatchment commemorative of Symond are the
 legal bearings of Mr. Vholes.
 
@@ -37,12 +37,12 @@ midsummer morning and encumbered by a black bulk-head of cellarage
 staircase against which belated civilians generally strike their
 brows. Mr. Vholes’s chambers are on so small a scale that one clerk
 can open the door without getting off his stool, while the other who
-elbows him at the same desk has equal facilities for poking the fire.
+elbows him at the same desk has equal facilities for poking the [[Fire|fire]].
 A smell as of unwholesome sheep blending with the smell of must and
-dust is referable to the nightly (and often daily) consumption of
+[[Dust|dust]] is referable to the nightly (and often daily) consumption of
 mutton fat in candles and to the fretting of parchment forms and
 skins in greasy drawers. The atmosphere is otherwise stale and close.
-The place was last painted or whitewashed beyond the memory of man,
+The place was last painted or whitewashed beyond the [[Memory|memory]] of man,
 and the two chimneys smoke, and there is a loose outer surface of
 soot everywhere, and the dull cracked windows in their heavy frames
 have but one piece of character in them, which is a determination to
@@ -94,7 +94,7 @@ great expense? Answer: Most assuredly they cannot be gone through for
 nothing. Question: And unspeakable vexation? Answer: I am not
 prepared to say that. They have never given ME any vexation; quite
 the contrary. Question: But you think that their abolition would
-damage a class of practitioners? Answer: I have no doubt of it.
+damage a class of practitioners? Answer: I have no [[Doubt|doubt]] of it.
 Question: Can you instance any type of that class? Answer: Yes. I
 would unhesitatingly mention Mr. Vholes. He would be ruined.
 Question: Mr. Vholes is considered, in the profession, a respectable
@@ -104,9 +104,9 @@ Vholes is considered, in the profession, a MOST respectable man.”
 So in familiar conversation, private authorities no less
 disinterested will remark that they don’t know what this age is
 coming to, that we are plunging down precipices, that now here is
-something else gone, that these changes are death to people like
+something else gone, that these changes are [[Death|death]] to people like
 Vholes—a man of undoubted respectability, with a father in the Vale
-of Taunton, and three daughters at home. Take a few steps more in
+of Taunton, and three daughters at [[Home|home]]. Take a few steps more in
 this direction, say they, and what is to become of Vholes’s father?
 Is he to perish? And of Vholes’s daughters? Are they to be
 shirt-makers, or governesses? As though, Mr. Vholes and his relations

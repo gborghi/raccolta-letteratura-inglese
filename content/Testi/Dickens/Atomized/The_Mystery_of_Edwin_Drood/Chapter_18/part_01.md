@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 17 (part 1)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 17 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -19,7 +19,7 @@ PHILANTHROPY, PROFESSIONAL AND UNPROFESSIONAL
 
 
 Full half a year had come and gone, and Mr. Crisparkle sat in a
-waiting-room in the London chief offices of the Haven of Philanthropy,
+waiting-room in the [[London]] chief offices of the Haven of Philanthropy,
 until he could have audience of Mr. Honeythunder.
 
 In his college days of athletic exercises, Mr. Crisparkle had known
@@ -32,7 +32,7 @@ attend, a propensity to “pitch into” your fellow-creatures, the
 Philanthropists were remarkably favoured. There were several Professors
 passing in and out, with exactly the aggressive air upon them of being
 ready for a turn-up with any Novice who might happen to be on hand,
-that Mr. Crisparkle well remembered in the circles of the Fancy.
+that Mr. Crisparkle [[Well|well]] remembered in the circles of the Fancy.
 Preparations were in progress for a moral little Mill somewhere on the
 rural circuit, and other Professors were backing this or that
 Heavy-Weight as good for such or such speech-making hits, so very much
@@ -42,7 +42,7 @@ displays much celebrated for his platform tactics, Mr. Crisparkle
 recognised (in a suit of black) the counterpart of a deceased
 benefactor of his species, an eminent public character, once known to
 fame as Frosty-faced Fogo, who in days of yore superintended the
-formation of the magic circle with the ropes and stakes. There were
+formation of the [[Magic|magic]] circle with the ropes and stakes. There were
 only three conditions of resemblance wanting between these Professors
 and those. Firstly, the Philanthropists were in very bad training: much
 too fleshy, and presenting, both in face and figure, a superabundance
@@ -52,12 +52,12 @@ worse language. Thirdly, their fighting code stood in great need of
 revision, as empowering them not only to bore their man to the ropes,
 but to bore him to the confines of distraction; also to hit him when he
 was down, hit him anywhere and anyhow, kick him, stamp upon him, gouge
-him, and maul him behind his back without mercy. In these last
+him, and maul him behind his back without [[Mercy|mercy]]. In these last
 particulars the Professors of the Noble Art were much nobler than the
 Professors of Philanthropy.
 
 Mr. Crisparkle was so completely lost in musing on these similarities
-and dissimilarities, at the same time watching the crowd which came and
+and dissimilarities, at the same [[Time|time]] watching the crowd which came and
 went by, always, as it seemed, on errands of antagonistically snatching
 something from somebody, and never giving anything to anybody, that his
 name was called before he heard it. On his at length responding, he was
@@ -79,7 +79,7 @@ Philanthropist (highly disinterested, if in earnest) gathered these
 into a basket and walked off with them.
 
 “Now, Mr. Crisparkle,” said Mr. Honeythunder, turning his chair half
-round towards him when they were alone, and squaring his arms with his
+round towards him when they were [[Alone|alone]], and squaring his arms with his
 hands on his knees, and his brows knitted, as if he added, I am going
 to make short work of _you_: “Now, Mr. Crisparkle, we entertain
 different views, you and I, sir, of the sanctity of human life.”
@@ -132,7 +132,7 @@ your explanation.”
 “Murder!” proceeded Mr. Honeythunder, in a kind of boisterous reverie,
 with his platform folding of his arms, and his platform nod of
 abhorrent reflection after each short sentiment of a word. “Bloodshed!
-Abel! Cain! I hold no terms with Cain. I repudiate with a shudder the
+Abel! [[Cain]]! I hold no terms with [[Cain]]. I repudiate with a shudder the
 red hand when it is offered me.”
 
 Instead of instantly leaping into his chair and cheering himself

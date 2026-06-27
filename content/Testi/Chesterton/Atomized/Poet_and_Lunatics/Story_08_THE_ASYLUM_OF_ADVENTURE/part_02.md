@@ -26,8 +26,8 @@ or less impenetrable by any opinion.  He never could be got to bother
 his head about the sociological symbolism of Gale's caricatures;
 but he regarded the incident with exuberant interest as one of the great
 stories calculated to be the glory of the country, like a calf born with
-five legs or some pleasant ghost story about the old gallows on the moor.
-Though so little of a theorist he was far from being a fool, and had
+five legs or some pleasant [[Ghost|ghost]] story about the old gallows on the moor.
+Though so little of a theorist he was far from being a [[Fool|fool]], and had
 a whole tangle of tales both humorous and tragic, to show how rich
 a humanity was packed within the four corners of his countryside.
 Thus it happened that he and his revolutionary neighbour had many
@@ -49,48 +49,48 @@ it would seem, in such matters, and might have suggestions to make.
 With a sort of sleepy curiosity which was typical of him, Gale found
 himself trailed along in an expedition for the discovery of Sim;
 and Sim was discovered at a little obscure hostelry called the Grapes
-a mile or so up the river.  The three men had taken a boat,
-with the small Starkey for coxswain; it was a glorious autumn morning
-but the river was almost hidden under high banks and overhanging woods,
+a mile or so up the [[River|river]].  The three men had taken a boat,
+with the small Starkey for coxswain; it was a glorious [[Autumn|autumn]] morning
+but the [[River|river]] was almost hidden under high banks and overhanging woods,
 intersected with great gaps of glowing sunlight, in one of which
-the lawns of the little riverside hotel sloped down to the river.
-And on the bank over-hanging the river a man stood waiting for them;
+the lawns of the little riverside hotel sloped down to the [[River|river]].
+And on the bank over-hanging the [[River|river]] a man stood waiting for them;
 a remarkable looking man with a fine sallow face rather like an actor's
 and very curly grizzled hair.  He welcomed them with a pleasant smile,
-and then turned towards the house with something of a habit of command
+and then turned towards the [[house]] with something of a habit of command
 or at least of direction.  "I've ordered something for you," he said.
 "If we go in now it will be ready."
 
 As Gabriel Gale brought up the rear of the single file of four men
 going up the straight paved path to the inn door, his roaming eye
-took in the rest of the garden, and something stirred in his spirit,
+took in the rest of the [[Garden|garden]], and something stirred in his spirit,
 which was also prone to roaming, and even in a light sense to a
 sort of rebellion.  The steep path was lined with little trees,
 looking like the plan of a sampler.  He did not see why he should walk
-straight up so very straight a path, and many things in the garden
+straight up so very straight a path, and many things in the [[Garden|garden]]
 took his wandering fancy.  He would much rather have had lunch at one
 of the little weather-stained tables standing about on the lawn.
 He would have been delighted to grope in the dark and tumble-down
 arbour in the corner, of which he could dimly see the circular table
-and semi-circular seat in the shadow of its curtain of creepers.
+and semi-circular seat in the [[Shadow|shadow]] of its curtain of creepers.
 He was even more attracted by the accident by which an old
 children's swing, with its posts and ropes and hanging seat, stood close
-up to the bushes of the river bank.  In fact, the last infantile
-temptation was irresistible; and calling out, "I'm going over here,"
-he ran across the garden towards the arbour, taking the swing with
+up to the bushes of the [[River|river]] bank.  In fact, the last infantile
+[[Temptation|temptation]] was irresistible; and calling out, "I'm going over here,"
+he ran across the [[Garden|garden]] towards the arbour, taking the swing with
 a sort of leap on his way.  He landed in the wooden seat and swung
 twice back and forth, leaving it again with another flying leap.
 Just as he did so, however, the rope broke at its upper attachment,
 and he fell all askew, kicking his legs in the air.
 He was on his feet again immediately, and found himself confronted
-by his three companions who had followed in doubt or remonstrance.
+by his three companions who had followed in [[Doubt|doubt]] or remonstrance.
 But the smiling Starkey was foremost, and his screwed-up eyes
-expressed good humour and even sympathy.
+expressed good [[Humour|humour]] and even sympathy.
 
 "Rotten sort of swing of yours," he said.  "These things are
 all falling to pieces," and he gave the other rope a twitch,
 bringing that down also.  Then he added:  "Want to feast in the arbour,
-do you?  Very well; you go in first and break the cobwebs.
+do you?  Very [[Well|well]]; you go in first and break the cobwebs.
 When you've collected all the spiders, I'll follow you."
 
 Gale dived laughing into the dark corner in question and sat down
@@ -106,12 +106,12 @@ Wolfe, smiling.  "You poets often have sudden impulses, don't you?"
 "but I'm sure it would need a poet to describe it.
 Perhaps I'm not one; anyhow I never could describe those impulses.
 The only way to do it would be to write a poem about the swing and a poem
-about the arbour, and put them both into a longer poem about the garden.
-And poems aren't produced quite so quickly as all that, though I've
+about the arbour, and put them both into a longer poem about the [[Garden|garden]].
+And [[Poems|poems]] aren't produced quite so quickly as all that, though I've
 always had a notion that a real poet would never talk prose.
-He would talk about the weather in rolling stanzas like the storm-clouds,
-or ask you to pass the potatoes in an impromptu lyric as beautiful
+He would talk about the weather in [[rolling]] stanzas like the [[Storm|storm]]-clouds,
+or ask you to pass the potatoes in an impromptu [[Lyric|lyric]] as beautiful
 as the blue flower of the potato."
 
 "Make it a prose poem, then," said the man whose name was Simeon Wolfe,
-"and tell us how you felt about the garden and the garden-swing."
+"and tell us how you felt about the [[Garden|garden]] and the [[Garden|garden]]-swing."

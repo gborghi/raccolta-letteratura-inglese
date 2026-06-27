@@ -16,17 +16,17 @@ tags:
 
 There has crept into our thoughts, through a thousand
 small openings, a curious and unnatural idea.
-I mean the idea that unity is itself a good thing; that there
+I mean the idea that [[unity]] is itself a good thing; that there
 is something high and spiritual about things being blended
 and absorbed into each other.  That all rivers should run
-into one river, that all vegetables should go into one pot--
+into one [[River|river]], that all vegetables should go into one pot--
 that is spoken of as the last and best fulfilment of being.
 Boys are to be `at one' with girls; all sects are to be `at one'
 in the New Theology; beasts fade into men and men fade into God;
-union in itself is a noble thing.  Now union in itself is not
-a noble thing.  Love is a noble thing; but love is not union.
-Nay, it is rather a vivid sense of separation and identity.
-Maudlin, inferior love poetry does, indeed, talk of lovers
+[[Union|union]] in itself is a noble thing.  Now [[Union|union]] in itself is not
+a noble thing.  [[Love]] is a noble thing; but [[Love|love]] is not [[Union|union]].
+Nay, it is rather a vivid sense of separation and [[Identity|identity]].
+Maudlin, inferior [[Love|love]] poetry does, indeed, talk of [[lovers]]
 being `one soul', just as maudlin, inferior religious poetry
 talks of being lost in God; but the best poetry does not.
 When Dante meets Beatrice, he feels his distance from her,
@@ -137,12 +137,12 @@ which alone make a half-holiday even half a holiday or a slave
 even half a man.
 
 There is danger in that modern phrase `divine discontent'.
-There is truth in it also, of course; but it is only truth
+There is [[Truth|truth]] in it also, of course; but it is only [[Truth|truth]]
 of a special and secondary kind.  Much of the quarrel
-between Christianity and the world has been due to this fact;
+between [[Christianity]] and the world has been due to this fact;
 that there are generally two truths, as it were,
 at any given moment of revolt or reaction, and the ancient
-underlying truism which is nevertheless true all the time.
+underlying truism which is nevertheless true all the [[Time|time]].
 It is sometimes worth while to point out that black is not so black
 as it is painted; but black is still black, and not white.
 So with the merits of content and discontent.  It is true that
@@ -151,10 +151,10 @@ discontent is a duty and shame could call us like a trumpet.
 But it is not true that man should look at life with an eye
 of discontent, however high-minded. It is not true that in
 his primary, naked relation to the world, in his relation to sex,
-to pain, to comradeship, to the grave or to the weather,
+to [[Pain|pain]], to [[Comradeship|comradeship]], to the [[Grave|grave]] or to the weather,
 man ought to make discontent his ideal; it is black lunacy.
 Half his poor little hopes of happiness hang on his thinking
-a small house pretty, a plain wife charming, a lame foot
+a small [[house]] pretty, a plain wife charming, a lame foot
 not unbearable, and bad cards not so bad.  The voice of the special
 rebels and prophets, recommending discontent, should, as I
 have said, sound now and then suddenly, like a trumpet.

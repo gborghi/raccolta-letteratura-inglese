@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-When he got back, Lightwood was standing over the fire, brooding in a
+When he got back, Lightwood was standing over the [[Fire|fire]], brooding in a
 sufficiently low-spirited manner.
 
 ‘I’ll wash my hands of Mr Dolls physically—’ said Eugene, ‘and be with
@@ -33,7 +33,7 @@ of their muscular visitor.
 ‘I can’t be amused on this theme,’ said Mortimer, restlessly. ‘You can
 make almost any theme amusing to me, Eugene, but not this.’
 
-‘Well!’ cried Eugene, ‘I am a little ashamed of it myself, and therefore
+‘[[Well]]!’ cried Eugene, ‘I am a little ashamed of it myself, and therefore
 let us change the subject.’
 
 ‘It is so deplorably underhanded,’ said Mortimer. ‘It is so unworthy of
@@ -56,8 +56,8 @@ Lightwood took his cigar from his lips in surprise, and looked at his
 friend, as if with a latent suspicion that there must be a jest or
 hidden meaning in his words.
 
-‘On my honour, no,’ said Wrayburn, answering the look and smiling
-carelessly; ‘I don’t wonder at your supposing so, but on my honour, no.
+‘On my [[Honour|honour]], no,’ said Wrayburn, answering the look and smiling
+carelessly; ‘I don’t [[Wonder|wonder]] at your supposing so, but on my [[Honour|honour]], no.
 I say what I mean. I never go out after dark, but I find myself in the
 ludicrous situation of being followed and observed at a distance, always
 by one scout, and often by two.’
@@ -80,19 +80,19 @@ that. The schoolmaster’s abroad.’
 
 ‘Ay! Sometimes the schoolmaster and the pupil are both abroad. Why, how
 soon you rust in my absence! You don’t understand yet? Those fellows
-who were here one night. They are the scouts I speak of, as doing me the
-honour to attend me after dark.’
+who were here one [[Night|night]]. They are the scouts I speak of, as doing me the
+[[Honour|honour]] to attend me after dark.’
 
 ‘How long has this been going on?’ asked Lightwood, opposing a serious
 face to the laugh of his friend.
 
 ‘I apprehend it has been going on, ever since a certain person went off.
-Probably, it had been going on some little time before I noticed it:
-which would bring it to about that time.’
+Probably, it had been going on some little [[Time|time]] before I noticed it:
+which would bring it to about that [[Time|time]].’
 
 ‘Do you think they suppose you to have inveigled her away?’
 
-‘My dear Mortimer, you know the absorbing nature of my professional
+‘My dear Mortimer, you know the absorbing [[Nature|nature]] of my professional
 occupations; I really have not had leisure to think about it.’
 
 ‘Have you asked them what they want? Have you objected?’
@@ -108,7 +108,7 @@ utterly indifferent to everything else.’
 ‘You charm me, Mortimer, with your reading of my weaknesses. (By-the-by,
 that very word, Reading, in its critical use, always charms me. An
 actress’s Reading of a chambermaid, a dancer’s Reading of a hornpipe, a
-singer’s Reading of a song, a marine painter’s Reading of the sea,
+singer’s Reading of a [[Song|song]], a marine painter’s Reading of the sea,
 the kettle-drum’s Reading of an instrumental passage, are phrases
 ever youthful and delightful.) I was mentioning your perception of my
 weaknesses. I own to the weakness of objecting to occupy a ludicrous
@@ -118,30 +118,30 @@ position, and therefore I transfer the position to the scouts.’
 it were only out of consideration for my feeling less at ease than you
 do.’
 
-‘Then soberly and plainly, Mortimer, I goad the schoolmaster to madness.
+‘Then soberly and plainly, Mortimer, I goad the schoolmaster to [[Madness|madness]].
 I make the schoolmaster so ridiculous, and so aware of being made
-ridiculous, that I see him chafe and fret at every pore when we cross
+ridiculous, that I see him chafe and fret at every pore when we [[Cross|cross]]
 one another. The amiable occupation has been the solace of my life,
 since I was baulked in the manner unnecessary to recall. I have derived
 inexpressible comfort from it. I do it thus: I stroll out after dark,
-stroll a little way, look in at a window and furtively look out for the
+stroll a little way, look in at a [[Window|window]] and furtively look out for the
 schoolmaster. Sooner or later, I perceive the schoolmaster on the watch;
 sometimes accompanied by his hopeful pupil; oftener, pupil-less. Having
-made sure of his watching me, I tempt him on, all over London. One
-night I go east, another night north, in a few nights I go all round the
+made sure of his watching me, I tempt him on, all over [[London]]. One
+[[Night|night]] I go east, another [[Night|night]] north, in a few nights I go all round the
 compass. Sometimes, I walk; sometimes, I proceed in cabs, draining the
 pocket of the schoolmaster who then follows in cabs. I study and get
 up abstruse No Thoroughfares in the course of the day. With Venetian
-mystery I seek those No Thoroughfares at night, glide into them by means
+mystery I seek those No Thoroughfares at [[Night|night]], glide into them by means
 of dark courts, tempt the schoolmaster to follow, turn suddenly, and
 catch him before he can retreat. Then we face one another, and I pass
 him as unaware of his existence, and he undergoes grinding torments.
 Similarly, I walk at a great pace down a short street, rapidly turn the
 corner, and, getting out of his view, as rapidly turn back. I catch him
 coming on post, again pass him as unaware of his existence, and again
-he undergoes grinding torments. Night after night his disappointment is
-acute, but hope springs eternal in the scholastic breast, and he follows
+he undergoes grinding torments. [[Night]] after [[Night|night]] his disappointment is
+acute, but [[Hope|hope]] springs eternal in the scholastic breast, and he follows
 me again to-morrow. Thus I enjoy the pleasures of the chase, and derive
 great benefit from the healthful exercise. When I do not enjoy the
 pleasures of the chase, for anything I know he watches at the Temple
-Gate all night.’
+Gate all [[Night|night]].’

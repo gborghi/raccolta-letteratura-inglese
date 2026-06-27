@@ -41,12 +41,12 @@ sir.’
 no Finching of either sex.’
 
 ‘Ask your pardon, sir. The lady said she was aware she might be unknown
-by name. But she begged me to say, sir, that she had formerly the honour
+by name. But she begged me to say, sir, that she had formerly the [[Honour|honour]]
 of being acquainted with Miss Dorrit. The lady said, sir, the youngest
 Miss Dorrit.’
 
 Mr Dorrit knitted his brows and rejoined, after a moment or two, ‘Inform
-Mrs Finching, sir,’ emphasising the name as if the innocent man were
+Mrs Finching, sir,’ emphasising the name as if the [[Innocent|innocent]] man were
 solely responsible for it, ‘that she can come up.’
 
 He had reflected, in his momentary pause, that unless she were admitted
@@ -62,37 +62,37 @@ yourself, madam. Place a chair, sir.’
 
 The responsible man, with a start, obeyed, and went out on tiptoe.
 Flora, putting aside her veil with a bashful tremor upon her, proceeded
-to introduce herself. At the same time a singular combination of
+to introduce herself. At the same [[Time|time]] a singular combination of
 perfumes was diffused through the room, as if some brandy had been put
-by mistake in a lavender-water bottle, or as if some lavender-water had
+by mistake in a lavender-[[Water|water]] bottle, or as if some lavender-[[Water|water]] had
 been put by mistake in a brandy-bottle.
 
 ‘I beg Mr Dorrit to offer a thousand apologies and indeed they would
 be far too few for such an intrusion which I know must appear extremely
-bold in a lady and alone too, but I thought it best upon the whole
+bold in a lady and [[Alone|alone]] too, but I thought it best upon the whole
 however difficult and even apparently improper though Mr F.’s Aunt would
 have willingly accompanied me and as a character of great force and
 spirit would probably have struck one possessed of such a knowledge of
-life as no doubt with so many changes must have been acquired, for Mr F.
-himself said frequently that although well educated in the neighbourhood
+life as no [[Doubt|doubt]] with so many changes must have been acquired, for Mr F.
+himself said frequently that although [[Well|well]] educated in the neighbourhood
 of Blackheath at as high as eighty guineas which is a good deal for
 parents and the plate kept back too on going away but that is more a
 meanness than its value that he had learnt more in his first years as a
 commercial traveller with a large commission on the sale of an article
 that nobody would hear of much less buy which preceded the wine trade
-a long time than in the whole six years in that academy conducted by a
+a long [[Time|time]] than in the whole six years in that academy conducted by a
 college Bachelor, though why a Bachelor more clever than a married man I
 do not see and never did but pray excuse me that is not the point.’
 
-Mr Dorrit stood rooted to the carpet, a statue of mystification.
+Mr Dorrit stood rooted to the carpet, a statue of [[Mystification|mystification]].
 
 ‘I must openly admit that I have no pretensions,’ said Flora, ‘but
 having known the dear little thing which under altered circumstances
 appears a liberty but is not so intended and Goodness knows there was no
-favour in half-a-crown a-day to such a needle as herself but quite the
+favour in half-a-[[Crown|crown]] a-day to such a needle as herself but quite the
 other way and as to anything lowering in it far from it the labourer is
 worthy of his hire and I am sure I only wish he got it oftener and more
-animal food and less rheumatism in the back and legs poor soul.’
+animal food and less rheumatism in the back and legs poor [[Soul|soul]].’
 
 ‘Madam,’ said Mr Dorrit, recovering his breath by a great effort, as the
 relict of the late Mr Finching stopped to take hers; ‘madam,’ said Mr
@@ -104,7 +104,7 @@ should not have permitted it. Ha. Never! Never!’
 
 ‘Unnecessary to pursue the subject,’ returned Flora, ‘and would not have
 mentioned it on any account except as supposing it a favourable and only
-letter of introduction but as to being fact no doubt whatever and you
+letter of introduction but as to being fact no [[Doubt|doubt]] whatever and you
 may set your mind at rest for the very dress I have on now can prove it
 and sweetly made though there is no denying that it would tell better on
 a better figure for my own is much too fat though how to bring it down I
@@ -114,9 +114,9 @@ Mr Dorrit backed to his chair in a stony way, and seated himself, as
 Flora gave him a softening look and played with her parasol.
 
 ‘The dear little thing,’ said Flora, ‘having gone off perfectly limp
-and white and cold in my own house or at least papa’s for though not
+and white and cold in my own [[house]] or at least papa’s for though not
 a freehold still a long lease at a peppercorn on the morning when
-Arthur--foolish habit of our youthful days and Mr Clennam far more
+[[arthur|Arthur]]--foolish habit of our youthful days and Mr Clennam far more
 adapted to existing circumstances particularly addressing a stranger and
 that stranger a gentleman in an elevated station--communicated the glad
 tidings imparted by a person of name of Pancks emboldens me.’
@@ -129,9 +129,9 @@ ago, and said, ‘Do me the favour to--ha--state your pleasure, madam.’
 highly natural it seems to me that you should be kind for though more
 stately I perceive a likeness filled out of course but a likeness still,
 the object of my intruding is my own without the slightest consultation
-with any human being and most decidedly not with Arthur--pray excuse me
+with any human being and most decidedly not with [[arthur|Arthur]]--pray excuse me
 Doyce and Clennam I don’t know what I am saying Mr Clennam solus--for to
-put that individual linked by a golden chain to a purple time when all
+put that individual linked by a golden chain to a purple [[Time|time]] when all
 was ethereal out of any anxiety would be worth to me the ransom of a
 monarch not that I have the least idea how much that would come to but
 using it as the total of all I have in the world and more.’

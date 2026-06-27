@@ -25,14 +25,14 @@ umbrella-tops, the jostling of the more impatient passengers, and all
 the noise and tumult of a crowded street in the high tide of its
 occupation: while the two poor strangers, stunned and bewildered by the
 hurry they beheld but had no part in, looked mournfully on; feeling,
-amidst the crowd, a solitude which has no parallel but in the thirst of
+amidst the crowd, a [[Solitude|solitude]] which has no parallel but in the thirst of
 the shipwrecked mariner, who, tost to and fro upon the billows of a
-mighty ocean, his red eyes blinded by looking on the water which hems
+mighty ocean, his red eyes blinded by looking on the [[Water|water]] which hems
 him in on every side, has not one drop to cool his burning tongue.
 
 They withdrew into a low archway for shelter from the rain, and watched
 the faces of those who passed, to find in one among them a ray of
-encouragement or hope.  Some frowned, some smiled, some muttered to
+encouragement or [[Hope|hope]].  Some frowned, some smiled, some muttered to
 themselves, some made slight gestures, as if anticipating the
 conversation in which they would shortly be engaged, some wore the
 cunning look of bargaining and plotting, some were anxious and eager,
@@ -44,43 +44,43 @@ every other man has his, his character and purpose are written broadly
 in his face.  In the public walks and lounges of a town, people go to
 see and to be seen, and there the same expression, with little variety,
 is repeated a hundred times.  The working-day faces come nearer to the
-truth, and let it out more plainly.
+[[Truth|truth]], and let it out more plainly.
 
-Falling into that kind of abstraction which such a solitude awakens,
-the child continued to gaze upon the passing crowd with a wondering
+Falling into that kind of abstraction which such a [[Solitude|solitude]] awakens,
+the [[Child|child]] continued to gaze upon the passing crowd with a wondering
 interest, amounting almost to a temporary forgetfulness of her own
 condition.  But cold, wet, hunger, want of rest, and lack of any place
 in which to lay her aching head, soon brought her thoughts back to the
 point whence they had strayed.  No one passed who seemed to notice
-them, or to whom she durst appeal.  After some time, they left their
+them, or to whom she durst appeal.  After some [[Time|time]], they left their
 place of refuge from the weather, and mingled with the concourse.
 
 Evening came on.  They were still wandering up and down, with fewer
-people about them, but with the same sense of solitude in their own
+people about them, but with the same sense of [[Solitude|solitude]] in their own
 breasts, and the same indifference from all around.  The lights in the
 streets and shops made them feel yet more desolate, for with their
-help, night and darkness seemed to come on faster.  Shivering with the
-cold and damp, ill in body, and sick to death at heart, the child
+help, [[Night|night]] and darkness seemed to come on faster.  Shivering with the
+cold and damp, ill in [[Body|body]], and sick to [[Death|death]] at heart, the [[Child|child]]
 needed her utmost firmness and resolution even to creep along.
 
 Why had they ever come to this noisy town, when there were peaceful
 country places, in which, at least, they might have hungered and
-thirsted, with less suffering than in its squalid strife!  They were
+thirsted, with less [[Suffering|suffering]] than in its squalid strife!  They were
 but an atom, here, in a mountain heap of misery, the very sight of
-which increased their hopelessness and suffering.
+which increased their hopelessness and [[Suffering|suffering]].
 
-The child had not only to endure the accumulated hardships of their
+The [[Child|child]] had not only to endure the accumulated hardships of their
 destitute condition, but to bear the reproaches of her grandfather, who
 began to murmur at having been led away from their late abode, and
 demand that they should return to it.  Being now penniless, and no
 relief or prospect of relief appearing, they retraced their steps
 through the deserted streets, and went back to the wharf, hoping to
-find the boat in which they had come, and to be allowed to sleep on
-board that night.  But here again they were disappointed, for the gate
-was closed, and some fierce dogs, barking at their approach, obliged
+find the boat in which they had come, and to be allowed to [[Sleep|sleep]] on
+board that [[Night|night]].  But here again they were disappointed, for the gate
+was closed, and some fierce [[dogs]], barking at their approach, obliged
 them to retreat.
 
-‘We must sleep in the open air to-night, dear,’ said the child in a
+‘We must [[Sleep|sleep]] in the open air to-[[Night|night]], dear,’ said the [[Child|child]] in a
 weak voice, as they turned away from this last repulse; ‘and to-morrow
 we will beg our way to some quiet part of the country, and try to earn
 our bread in very humble work.’
@@ -90,18 +90,18 @@ bear these close eternal streets.  We came from a quiet part.  Why did
 you force me to leave it?’
 
 ‘Because I must have that dream I told you of, no more,’ said the
-child, with a momentary firmness that lost itself in tears; ‘and we
+[[Child|child]], with a momentary firmness that lost itself in [[Tears|tears]]; ‘and we
 must live among poor people, or it will come again.  Dear grandfather,
 you are old and weak, I know; but look at me.  I never will complain if
-you will not, but I have some suffering indeed.’
+you will not, but I have some [[Suffering|suffering]] indeed.’
 
-‘Ah! poor, houseless, wandering, motherless child!’ cried the old man,
-clasping his hands and gazing as if for the first time upon her anxious
+‘Ah! poor, houseless, wandering, motherless [[Child|child]]!’ cried the old man,
+clasping his hands and gazing as if for the first [[Time|time]] upon her anxious
 face, her travel-stained dress, and bruised and swollen feet; ‘has all
 my agony of care brought her to this at last!  Was I a happy man once,
 and have I lost happiness and all I had, for this!’
 
-‘If we were in the country now,’ said the child, with assumed
+‘If we were in the country now,’ said the [[Child|child]], with assumed
 cheerfulness, as they walked on looking about them for a shelter, we
 should find some good old tree, stretching out his green arms as if he
 loved us, and nodding and rustling as if he would have us fall asleep,
@@ -111,7 +111,7 @@ think, dear, that it was a good thing we came here; for we are lost in
 the crowd and hurry of this place, and if any cruel people should
 pursue us, they could surely never trace us further.  There’s comfort
 in that.  And here’s a deep old doorway--very dark, but quite dry, and
-warm too, for the wind don’t blow in here--What’s that!’
+warm too, for the [[Wind|wind]] don’t blow in here--What’s that!’
 
 Uttering a half shriek, she recoiled from a black figure which came
 suddenly out of the dark recess in which they were about to take
@@ -119,5 +119,5 @@ refuge, and stood still, looking at them.
 
 ‘Speak again,’ it said; ‘do I know the voice?’
 
-‘No,’ replied the child timidly; ‘we are strangers, and having no money
-for a night’s lodging, were going to rest here.’
+‘No,’ replied the [[Child|child]] timidly; ‘we are strangers, and having no money
+for a [[Night|night]]’s lodging, were going to rest here.’

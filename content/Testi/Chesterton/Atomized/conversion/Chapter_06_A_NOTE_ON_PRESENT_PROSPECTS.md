@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS"
+title: "[[conversion]] — Chapter 6: A NOTE ON PRESENT PROSPECTS"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/conversion-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER VI:  A NOTE ON PRESENT PROSPECTS
 
 On reconsidering these notes I find them to be far too personal;
-yet I do not know how any conception of conversion can be anything else.
+yet I do not know how any conception of [[conversion]] can be anything else.
 I do not profess to have any particular knowledge about the actual
 conditions and calculations of the Catholic movement at the moment.
 I do not believe that anybody else has any knowledge of what it will be
@@ -26,7 +26,7 @@ are practically always false.  But there is always a certain faint
 tradition of the thing called common sense; and so long as a glimmer
 of it remains, in spite of all journalism and State instruction,
 it is possible to appreciate what we call a reality.  Nobody in his
-five wits will deny that at this moment conversion is a reality.
+five wits will deny that at this moment [[conversion]] is a reality.
 Everybody knows that his own social circle, which fifty years ago
 would have been a firm territory of Protestantism, perhaps hardening
 into rationalism or indifference but doing even that slowly and without
@@ -47,10 +47,10 @@ read as statistics) there is admittedly something to be set.
 It is what is commonly called leakage; and with a paragraph
 upon this point I will close these pages.  Father Ronald Knox,
 with that felicity that is so good that the wit almost seems
-like good luck, has remarked that the Catholic Church really
+like good luck, has remarked that the [[Catholic Church]] really
 does have to get on by hook or crook.  That is, by the hook
 of the fisherman and the crook of the shepherd; and it is the hook
-that has to catch the convert and the crook that has to keep him.
+that has to catch the [[convert]] and the crook that has to keep him.
 He said in this connection that the conversions to the Church just
 now were so numerous that they would be obvious and overwhelming,
 like a landslide, if it were not that they were neutralised in
@@ -68,24 +68,24 @@ but they are practically never the theological theories
 of Protestantism.  I will not say they leave Catholicism
 for beer and skittles; for Catholicism has never discouraged
 those Christian institutions as Protestantism sometimes has.
-They leave it to have a high old time; and considering what a muddle
-we have made of modern morality, they can hardly be blamed.
-But this reaction, which is only that of a section, is in its nature
+They leave it to have a high old [[Time|time]]; and considering what a muddle
+we have made of modern [[morality]], they can hardly be blamed.
+But this reaction, which is only that of a section, is in its [[Nature|nature]]
 a reaction of the young and as such I do not think it will last.
 I know it is the cant phrase of the old rationalists that their
-reason prevents a return to the Faith, but it is false:
+reason prevents a return to the [[Faith]], but it is false:
 it is no longer reason but rather passion.
 
 This may sound a sweeping statement, but if it be examined it
 will be found not unjust, and certainly not unsympathetic.
 Nothing is more notable if we really study the characteristics
 of the rising generation than the fact that they are not acting
-upon any exact and definite philosophy, such as those which have
+upon any exact and definite [[philosophy]], such as those which have
 made the revolutions of the past.  If they are anarchical,
 they are not anarchist.  The dogmatic anarchism of the middle
 of the nineteenth century is not the creed they hold, or even
 the excuse they offer.  They have a considerable negative revolt
-against religion, a negative revolt against negative morality.
+against religion, a negative revolt against negative [[morality]].
 They have a feeling, which is not unreasonable, that to
 commit themselves to the Catholic citizenship is to take
 responsibilities that continually act as restraints.
@@ -93,25 +93,25 @@ But they do not maintain anything like a contrary system of
 spiritual citizenship, or moral responsibility.  For instance,
 it is perfectly natural that they should want to act naturally.
 But they do not want to act naturally according to any intellectual
-theory of the reliability of Nature.  On the contrary, their young
+theory of the reliability of [[Nature]].  On the contrary, their young
 and brilliant literary representatives are very prone to press
-upon us the crudity and cruelty of Nature.  That is the moral
+upon us the crudity and cruelty of [[Nature]].  That is the moral
 of Mr. Aldous Huxley, and of many others.  State to them any of
-the consistent theories of the supreme claim of Nature upon us,
+the consistent theories of the supreme claim of [[Nature]] upon us,
 such as the pantheistic idea of God in all natural things;
-or the Nietzschean theory that nature is evolving something
+or the Nietzschean theory that [[Nature|nature]] is evolving something
 with superior claims to our own; or any other definable defence
 of the natural process itself, and they will almost certainly
 reject it as something unproved or exploded.  They do not want
-to have an exact imitation of the laws of the physical universe;
-they want to have their own way, a much more intelligible desire.
+to have an exact [[Imitation|imitation]] of the laws of the physical universe;
+they want to have their own way, a much more intelligible [[Desire|desire]].
 But the result is that they are, after all, at a disadvantage
 in face of those other young people who have satisfied their
 reason by a scheme that makes the universe reasonable.
 
 For that is the very simple explanation of the affair.
 In so far as there is really a secession among the young, it is
-but a part of the same process as that conversion of the young,
+but a part of the same process as that [[conversion]] of the young,
 of which I wrote in the first chapter.  The rising generation
 sees the real issue; and those who are ready for it rally,
 and those who are not ready for it scatter.  But there can
@@ -120,10 +120,10 @@ It is not a controversy between two philosophies, as was the Catholic
 and the Calvinist, or the Catholic and the Materialist.  It is
 a controversy between philosophers and philanderers.
 I do not say it in contempt; I have much more sympathy
-with the person who leaves the Church for a love-affair than
-with one who leaves it for a long-winded German theory to prove
+with the person who [[Leaves|leaves]] the Church for a [[Love|love]]-affair than
+with one who [[Leaves|leaves]] it for a long-winded German theory to prove
 that God is evil or that children are a sort of morbid monkey.
-But the very laws of life are against the endurance of a revolt
+But the very laws of life are against the [[Endurance|endurance]] of a revolt
 that rests on nothing but natural passion; it is bound to change
 in its proportion with the coming of experience; and, at the worst,
 it will become a battle between bad Catholics and good Catholics,

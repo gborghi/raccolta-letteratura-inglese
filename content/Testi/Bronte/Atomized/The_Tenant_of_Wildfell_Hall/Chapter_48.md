@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 48"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 48"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,15 +20,15 @@ tags:
 
 
 
-Five or six days after this Mr. Lawrence paid us the honour of a call;
+Five or six days after this Mr. Lawrence paid us the [[Honour|honour]] of a call;
 
-and when he and I were alone together—which I contrived as soon as
+and when he and I were [[Alone|alone]] together—which I contrived as soon as
 
 possible by bringing him out to look at my cornstacks—he showed me
 
 another letter from his sister. This one he was quite willing to submit
 
-to my longing gaze; he thought, I suppose, it would do me good. The
+to my [[Longing|longing]] gaze; he thought, I suppose, it would do me good. The
 
 only answer it gave to my message was this:—
 
@@ -38,7 +38,7 @@ only answer it gave to my message was this:—
 
 judges necessary. He will know that I should wish but little to be said
 
-on the subject. I hope he is well; but tell him he must not think of
+on the subject. I [[Hope|hope]] he is [[Well|well]]; but tell him he must not think of
 
 me.”
 
@@ -76,15 +76,15 @@ have, but they should be judiciously diluted and sparingly used; and I
 
 find it very difficult to keep him to this. At first, his extreme dread
 
-of death rendered the task an easy one; but in proportion as he feels
+of [[Death|death]] rendered the task an easy one; but in proportion as he feels
 
-his acute suffering abating, and sees the danger receding, the more
+his acute [[Suffering|suffering]] abating, and sees the danger receding, the more
 
 intractable he becomes. Now, also, his appetite for food is beginning
 
-to return; and here, too, his long habits of self-indulgence are
+to return; and here, too, his long habits of [[Self|self]]-indulgence are
 
-greatly against him. I watch and restrain him as well as I can, and
+greatly against him. I watch and restrain him as [[Well|well]] as I can, and
 
 often get bitterly abused for my rigid severity; and sometimes he
 
@@ -100,27 +100,27 @@ complete slave of me; and I know it would be unpardonable weakness to
 
 give up all other interests for him. I have the servants to overlook,
 
-and my little Arthur to attend to,—and my own health too, all of which
+and my little [[arthur|Arthur]] to attend to,—and my own health too, all of which
 
 would be entirely neglected were I to satisfy his exorbitant demands. I
 
-do not generally sit up at night, for I think the nurse who has made it
+do not generally sit up at [[Night|night]], for I think the [[Nurse|nurse]] who has made it
 
 her business is better qualified for such undertakings than I am;—but
 
-still, an unbroken night’s rest is what I but seldom enjoy, and never
+still, an unbroken [[Night|night]]’s rest is what I but seldom enjoy, and never
 
 can venture to reckon upon; for my patient makes no scruple of calling
 
 me up at an hour when his wants or his fancies require my presence. But
 
-he is manifestly afraid of my displeasure; and if at one time he tries
+he is manifestly afraid of my displeasure; and if at one [[Time|time]] he tries
 
 my patience by his unreasonable exactions, and fretful complaints and
 
 reproaches, at another he depresses me by his abject submission and
 
-deprecatory self-abasement when he fears he has gone too far. But all
+deprecatory [[Self|self]]-abasement when he fears he has gone too far. But all
 
 this I can readily pardon; I know it is chiefly the result of his
 
@@ -140,7 +140,7 @@ from him and from the future.
 
 
 
-“Helen, what do you mean to do when I get well?” he asked this morning.
+“[[Helen]], what do you mean to do when I get [[Well|well]]?” he asked this morning.
 
 “Will you run away again?”
 
@@ -154,7 +154,7 @@ from him and from the future.
 
 
 
-“But if I find it necessary to leave you, Arthur, I shall not ‘run
+“But if I find it necessary to leave you, [[arthur|Arthur]], I shall not ‘run
 
 away’: you know I have your own promise that I may go whenever I
 
@@ -172,7 +172,7 @@ professions, which I rather coldly checked.
 
 
 
-“Yes,—I _have_ forgiven you: but I know you cannot love me as you once
+“Yes,—I _have_ forgiven you: but I know you cannot [[Love|love]] me as you once
 
 did—and I should be very sorry if you were to, for I could not pretend
 
@@ -182,7 +182,7 @@ By what I _have_ done for you, you may judge of what I _will_ do—if it
 
 be not incompatible with the higher duty I owe to my son (higher,
 
-because he never forfeited his claims, and because I hope to do more
+because he never forfeited his claims, and because I [[Hope|hope]] to do more
 
 good to him than I can ever do to you); and if you wish me to feel
 
@@ -198,11 +198,11 @@ shrug. Alas, unhappy man! words, with him, are so much cheaper than
 
 deeds; it was as if I had said, “Pounds, not pence, must buy the
 
-article you want.” And then he sighed a querulous, self-commiserating
+article you want.” And then he sighed a querulous, [[Self|self]]-commiserating
 
 sigh, as if in pure regret that he, the loved and courted of so many
 
-worshippers, should be now abandoned to the mercy of a harsh, exacting,
+worshippers, should be now abandoned to the [[Mercy|mercy]] of a harsh, exacting,
 
 cold-hearted woman like that, and even glad of what kindness she chose
 
@@ -288,7 +288,7 @@ and take her away—don’t you, Frederick?
 
 
 
-If the perusal of this letter filled me with dismay for Helen’s future
+If the perusal of this letter filled me with dismay for [[Helen]]’s future
 
 life and mine, there was one great source of consolation: it was now in
 
@@ -300,7 +300,7 @@ the cloud—and they should be scorched and dazzled by its beams;—and my
 
 own friends too should see it—they whose suspicions had been such gall
 
-and wormwood to my soul. To effect this I had only to drop the seed
+and wormwood to my [[Soul|soul]]. To effect this I had only to drop the seed
 
 into the ground, and it would soon become a stately, branching herb: a
 
@@ -312,7 +312,7 @@ on my part.
 
 
 
-Rose was delighted; and as soon as I had told her all I thought
+[[Rose]] was delighted; and as soon as I had told her all I thought
 
 proper—which was all I affected to know—she flew with alacrity to put
 
@@ -332,9 +332,9 @@ brightest genius among them.
 
 
 
-As I may never have occasion to mention her again, I may as well tell
+As I may never have occasion to mention her again, I may as [[Well|well]] tell
 
-you here that she was at this time privately engaged to Richard
+you here that she was at this [[Time|time]] privately engaged to [[Richard]]
 
 Wilson—a secret, I believe, to every one but themselves. That worthy
 
@@ -346,7 +346,7 @@ through, and eventually brought him with hard-earned honours, and an
 
 untarnished reputation, to the close of his collegiate career. In due
 
-time he became Mr. Millward’s first and only curate—for that
+[[Time|time]] he became Mr. Millward’s first and only curate—for that
 
 gentleman’s declining years forced him at last to acknowledge that the
 
@@ -354,9 +354,9 @@ duties of his extensive parish were a little too much for those vaunted
 
 energies which he was wont to boast over his younger and less active
 
-brethren of the cloth. This was what the patient, faithful lovers had
+brethren of the cloth. This was what the patient, faithful [[lovers]] had
 
-privately planned and quietly waited for years ago; and in due time
+privately planned and quietly waited for years ago; and in due [[Time|time]]
 
 they were united, to the astonishment of the little world they lived
 
@@ -364,7 +364,7 @@ in, that had long since declared them both born to single blessedness;
 
 affirming it impossible that the pale, retiring bookworm should ever
 
-summon courage to seek a wife, or be able to obtain one if he did, and
+summon [[Courage|courage]] to seek a wife, or be able to obtain one if he did, and
 
 equally impossible that the plain-looking, plain-dealing, unattractive,
 
@@ -374,19 +374,19 @@ unconciliating Miss Millward should ever find a husband.
 
 They still continued to live at the vicarage, the lady dividing her
 
-time between her father, her husband, and their poor parishioners,—and
+[[Time|time]] between her father, her husband, and their poor parishioners,—and
 
-subsequently her rising family; and now that the Reverend Michael
+subsequently her rising family; and now that the Reverend [[Michael]]
 
 Millward has been gathered to his fathers, full of years and honours,
 
-the Reverend Richard Wilson has succeeded him to the vicarage of
+the Reverend [[Richard]] Wilson has succeeded him to the vicarage of
 
 Lindenhope, greatly to the satisfaction of its inhabitants, who had so
 
 long tried and fully proved his merits, and those of his excellent and
 
-well-loved partner.
+[[Well|well]]-loved partner.
 
 
 
@@ -398,27 +398,27 @@ some twelve or thirteen years ago she relieved the happy couple of her
 
 presence by marrying a wealthy tradesman of L——; and I don’t envy him
 
-his bargain. I fear she leads him a rather uncomfortable life, though,
+his bargain. I [[Fear|fear]] she leads him a rather uncomfortable life, though,
 
 happily, he is too dull to perceive the extent of his misfortune. I
 
 have little enough to do with her myself: we have not met for many
 
-years; but, I am well assured, she has not yet forgotten or forgiven
+years; but, I am [[Well|well]] assured, she has not yet forgotten or forgiven
 
-either her former lover, or the lady whose superior qualities first
+either her former [[Lover|lover]], or the lady whose superior qualities first
 
 opened his eyes to the folly of his boyish attachment.
 
 
 
-As for Richard Wilson’s sister, she, having been wholly unable to
+As for [[Richard]] Wilson’s sister, she, having been wholly unable to
 
 recapture Mr. Lawrence, or obtain any partner rich and elegant enough
 
 to suit her ideas of what the husband of Jane Wilson ought to be, is
 
-yet in single blessedness. Shortly after the death of her mother she
+yet in single blessedness. Shortly after the [[Death|death]] of her mother she
 
 withdrew the light of her presence from Ryecote Farm, finding it
 

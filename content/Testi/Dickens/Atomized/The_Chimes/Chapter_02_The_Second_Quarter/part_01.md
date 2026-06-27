@@ -17,7 +17,7 @@ tags:
 CHAPTER II—The Second Quarter.
 
 
-The letter Toby had received from Alderman Cute, was addressed to a great
+The letter Toby had received from [[Alderman Cute]], was addressed to a great
 man in the great district of the town.  The greatest district of the
 town.  It must have been the greatest district of the town, because it
 was commonly called ‘the world’ by its inhabitants.  The letter
@@ -28,14 +28,14 @@ the ponderous amount of gold and silver with which it was associated.
 
 ‘How different from us!’ thought Toby, in all simplicity and earnestness,
 as he looked at the direction.  ‘Divide the lively turtles in the bills
-of mortality, by the number of gentlefolks able to buy ’em; and whose
+of [[Mortality|mortality]], by the number of gentlefolks able to buy ’em; and whose
 share does he take but his own!  As to snatching tripe from anybody’s
 mouth—he’d scorn it!’
 
 With the involuntary homage due to such an exalted character, Toby
 interposed a corner of his apron between the letter and his fingers.
 
-‘His children,’ said Trotty, and a mist rose before his eyes; ‘his
+‘His children,’ said Trotty, and a mist [[Rose|rose]] before his eyes; ‘his
 daughters—Gentlemen may win their hearts and marry them; they may be
 happy wives and mothers; they may be handsome like my darling M-e-’.
 
@@ -45,7 +45,7 @@ the size of the whole alphabet.
 ‘Never mind,’ thought Trotty.  ‘I know what I mean.  That’s more than
 enough for me.’  And with this consolatory rumination, trotted on.
 
-It was a hard frost, that day.  The air was bracing, crisp, and clear.
+It was a hard [[Frost|frost]], that day.  The air was bracing, crisp, and clear.
 The wintry sun, though powerless for warmth, looked brightly down upon
 the ice it was too weak to melt, and set a radiant glory there.  At other
 times, Trotty might have learned a poor man’s lesson from the wintry sun;
@@ -53,12 +53,12 @@ but, he was past that, now.
 
 The Year was Old, that day.  The patient Year had lived through the
 reproaches and misuses of its slanderers, and faithfully performed its
-work.  Spring, summer, autumn, winter.  It had laboured through the
+work.  [[Spring]], [[Summer|summer]], [[Autumn|autumn]], [[Winter|winter]].  It had laboured through the
 destined round, and now laid down its weary head to die.  Shut out from
-hope, high impulse, active happiness, itself, but active messenger of
+[[Hope|hope]], high impulse, active happiness, itself, but active messenger of
 many joys to others, it made appeal in its decline to have its toiling
 days and patient hours remembered, and to die in peace.  Trotty might
-have read a poor man’s allegory in the fading year; but he was past that,
+have read a poor man’s [[Allegory|allegory]] in the fading year; but he was past that,
 now.
 
 And only he?  Or has the like appeal been ever made, by seventy years at
@@ -70,15 +70,15 @@ with welcomes, presents, and rejoicings.  There were books and toys for
 the New Year, glittering trinkets for the New Year, dresses for the New
 Year, schemes of fortune for the New Year; new inventions to beguile it.
 Its life was parcelled out in almanacks and pocket-books; the coming of
-its moons, and stars, and tides, was known beforehand to the moment; all
-the workings of its seasons in their days and nights, were calculated
+its moons, and [[Stars|stars]], and tides, was known beforehand to the moment; all
+the workings of its [[Seasons|seasons]] in their days and nights, were calculated
 with as much precision as Mr. Filer could work sums in men and women.
 
 The New Year, the New Year.  Everywhere the New Year!  The Old Year was
 already looked upon as dead; and its effects were selling cheap, like
 some drowned mariner’s aboardship.  Its patterns were Last Year’s, and
 going at a sacrifice, before its breath was gone.  Its treasures were
-mere dirt, beside the riches of its unborn successor!
+mere dirt, beside the riches of its [[unborn]] successor!
 
 Trotty had no portion, to his thinking, in the New Year or the Old.
 
@@ -86,8 +86,8 @@ Trotty had no portion, to his thinking, in the New Year or the Old.
 old Times, Good old Times!  Put ’em down, Put ’em down!’—his trot went to
 that measure, and would fit itself to nothing else.
 
-But, even that one, melancholy as it was, brought him, in due time, to
-the end of his journey.  To the mansion of Sir Joseph Bowley, Member of
+But, even that one, [[Melancholy|melancholy]] as it was, brought him, in due [[Time|time]], to
+the end of his [[Journey|journey]].  To the mansion of Sir Joseph Bowley, Member of
 Parliament.
 
 The door was opened by a Porter.  Such a Porter!  Not of Toby’s order.
@@ -95,8 +95,8 @@ Quite another thing.  His place was the ticket though; not Toby’s.
 
 This Porter underwent some hard panting before he could speak; having
 breathed himself by coming incautiously out of his chair, without first
-taking time to think about it and compose his mind.  When he had found
-his voice—which it took him a long time to do, for it was a long way off,
+taking [[Time|time]] to think about it and compose his mind.  When he had found
+his voice—which it took him a long [[Time|time]] to do, for it was a long way off,
 and hidden under a load of meat—he said in a fat whisper,
 
 ‘Who’s it from?’
@@ -111,14 +111,14 @@ of hours, a’ purpose.’
 
 Toby wiped his feet (which were quite dry already) with great care, and
 took the way pointed out to him; observing as he went that it was an
-awfully grand house, but hushed and covered up, as if the family were in
+awfully grand [[house]], but hushed and covered up, as if the family were in
 the country.  Knocking at the room-door, he was told to enter from
 within; and doing so found himself in a spacious library, where, at a
 table strewn with files and papers, were a stately lady in a bonnet; and
 a not very stately gentleman in black who wrote from her dictation; while
 another, and an older, and a much statelier gentleman, whose hat and cane
 were on the table, walked up and down, with one hand in his breast, and
-looked complacently from time to time at his own picture—a full length; a
+looked complacently from [[Time|time]] to [[Time|time]] at his own picture—a full length; a
 very full length—hanging over the fireplace.
 
 ‘What is this?’ said the last-named gentleman.  ‘Mr. Fish, will you have
@@ -127,7 +127,7 @@ the goodness to attend?’
 Mr. Fish begged pardon, and taking the letter from Toby, handed it, with
 great respect.
 
-‘From Alderman Cute, Sir Joseph.’
+‘From [[Alderman Cute]], Sir Joseph.’
 
 ‘Is this all?  Have you nothing else, Porter?’ inquired Sir Joseph.
 
@@ -137,5 +137,5 @@ Toby replied in the negative.
 Bowley—of any kind from anybody, have you?’ said Sir Joseph.  ‘If you
 have, present it.  There is a cheque-book by the side of Mr. Fish.  I
 allow nothing to be carried into the New Year.  Every description of
-account is settled in this house at the close of the old one.  So that if
-death was to—to—’
+account is settled in this [[house]] at the close of the old one.  So that if
+[[Death|death]] was to—to—’

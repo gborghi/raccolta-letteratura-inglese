@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 6 (part 2)"
+title: "[[aquinas]] — Chapter 6 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -35,16 +35,16 @@ the sake of argument--or often rather of attack without argument.
 I saw an almost startling example of this essential frivolity
 in a professor of final scepticism, in a paper the other day.
 A man wrote to say that he accepted nothing but Solipsism, and added
-that he had often wondered it was not a more common philosophy.
+that he had often wondered it was not a more common [[philosophy]].
 Now Solipsism simply means that a man believes in his own existence,
 but not in anybody or anything else.  And it never struck this
-simple sophist, that if his philosophy was true, there obviously
+simple sophist, that if his [[philosophy]] was true, there obviously
 were no other philosophers to profess it.
 
 To this question "Is there anything?"  St. Thomas begins by
 answering "Yes"; if he began by answering "No", it would not be
 the beginning, but the end.  That is what some of us call common sense.
-Either there is no philosophy, no philosophers, no thinkers, no thought,
+Either there is no [[philosophy]], no philosophers, no thinkers, no thought,
 no anything; or else there is a real bridge between the mind
 and reality.  But he is actually less exacting than many thinkers,
 much less so than most rationalist and materialist thinkers,
@@ -62,8 +62,8 @@ passages about which the greatest Thomists still differ and dispute.
 But that is a question of a thing being hard to read or understand:
 not hard to accept when understood.  That is a mere matter
 of "The Cat sat on the Mat" being written in Chinese characters:
-or "Mary had a Little Lamb" in Egyptian hieroglyphics.
-The only point I am stressing here is that Aquinas is almost always
+or "Mary had a Little [[Lamb]]" in Egyptian hieroglyphics.
+The only point I am stressing here is that [[aquinas|Aquinas]] is almost always
 on the side of simplicity, and supports the ordinary man's acceptance
 of ordinary truisms.  For instance, one of the most obscure passages,
 in my very inadequate judgment, is that in which he explains
@@ -83,9 +83,9 @@ Unfortunately, between the man in the street and the Angel of
 the Schools, there stands at this moment a very high brick wall,
 with spikes on the top, separating two men who in many ways stand
 for the same thing.  The wall is almost a historical accident;
-at least it was built a very long time ago, for reasons that
+at least it was built a very long [[Time|time]] ago, for reasons that
 need not affect the needs of normal men today; least of all
-the greatest need of normal men; which is for a normal philosophy.
+the greatest need of normal men; which is for a normal [[philosophy]].
 The first difficulty is merely a difference of form; not in the medieval
 but in the modern sense.  There is first a simple obstacle of language;
 there is then a rather more subtle obstacle of logical method.
@@ -93,7 +93,7 @@ But the language itself counts for a great deal; even when it
 is translated, it is still a foreign language; and it is,
 like other foreign languages, very often translated wrong.
 As with every other literature from another age or country, it carried
-with it an atmosphere which is beyond the mere translation of words,
+with it an atmosphere which is beyond the mere [[Translation|translation]] of words,
 as they are translated in a traveller's phrase-book. For instance,
 the whole system of St. Thomas hangs on one huge and yet simple idea;
 which does actually cover everything there is, and even everything
@@ -101,9 +101,9 @@ that could possibly be.  He represents this cosmic conception
 by the word Ens; and anybody who can read any Latin at all,
 however rudely, feels it to be the apt and fitting word; exactly as
 he feels it in a French word in a piece of good French prose.
-It ought to be a matter of logic; but it is also a matter of language.
+It ought to be a matter of [[logic]]; but it is also a matter of language.
 
-Unfortunately there is no satisfying translation of the word Ens. The
+Unfortunately there is no satisfying [[Translation|translation]] of the word Ens. The
 difficulty is rather verbal than logical, but it is practical.
 I mean that when the translator says in English 'being', we are aware
 of a rather different atmosphere.  Atmosphere ought not to affect
@@ -114,9 +114,9 @@ with something we meant to exclude from our consciousness.  And one need
 not be so idealistically irrational as a modern psychologist, in order
 to admit that the very shape and sound of words do make a difference,
 even in the baldest prose, as they do in the most beautiful poetry.
-We cannot quite prevent the imagination from remembering irrelevant
+We cannot quite prevent the [[Imagination|imagination]] from remembering irrelevant
 associations even in the abstract sciences like mathematics.
-Jones Minimus, hustled from history to geometry, may for an instant
+[[Jones]] Minimus, hustled from [[history]] to geometry, may for an instant
 connect the Angles of the isosceles triangle with the Angles
 of the Anglo-Saxon Chronicle; and even the mature mathematician,
 if he is as mad as the psychoanalyst hopes, may have in the roots
@@ -129,7 +129,7 @@ who wave their hands and say, "Thus do we mount to the ineffable
 heights of pure and radiant Being:"  or, worse still, of actual
 professors in real life, who say, "All Being is Becoming;
 and is but the evolution of Not-Being by the law of its Being."
-Perhaps it only reminds him of romantic rhapsodies in old love stories;
+Perhaps it only reminds him of romantic rhapsodies in old [[Love|love]] stories;
 "Beautiful and adorable being, light and breath of my very being."
 Anyhow it has a wild and woolly sort of sound; as if only very vague
 people used it; or as if it might mean all sorts of different things.

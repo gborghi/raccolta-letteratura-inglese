@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 31 (part 2)"
+title: "[[Shirley]] — Chapter 31 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,7 +22,7 @@ At last there came a letter. He himself handed it to Miss Keeldar out of
 
 the bag. He knew the handwriting; he knew the crest on the seal. He did
 
-not see it opened and read, for Shirley took it to her own room; nor did
+not see it opened and read, for [[Shirley]] took it to her own room; nor did
 
 he see it answered, for she wrote her reply shut up, and was very long
 
@@ -32,19 +32,19 @@ answered; she responded, "Yes."
 
 
 
-Again he waited--waited in silence, absolutely not daring to speak, kept
+Again he waited--waited in [[Silence|silence]], absolutely not daring to speak, kept
 
-mute by something in Shirley's face--a very awful something--inscrutable
+mute by something in [[Shirley]]'s face--a very awful something--inscrutable
 
 to him as the writing on the wall to Belshazzar. He was moved more than
 
-once to call Daniel, in the person of Louis Moore, and to ask an
+once to call Daniel, in the person of [[Louis Moore]], and to ask an
 
 interpretation; but his dignity forbade the familiarity. Daniel himself,
 
 perhaps, had his own private difficulties connected with that baffling
 
-bit of translation; he looked like a student for whom grammars are blank
+bit of [[Translation|translation]]; he looked like a student for whom grammars are blank
 
 and dictionaries dumb.
 
@@ -66,17 +66,17 @@ room. He wished to have with her a "_strictly_ private interview."
 
 
 
-She rose, asking no questions and professing no surprise.
+She [[Rose|rose]], asking no questions and professing no surprise.
 
 
 
-"Very well, sir," she said, in the tone of a determined person who is
+"Very [[Well|well]], sir," she said, in the tone of a determined person who is
 
-informed that the dentist is come to extract that large double tooth of
+informed that the dentist is come to extract that large [[Double|double]] tooth of
 
 his, from which he has suffered such a purgatory this month past. She
 
-left her sewing and her thimble in the window-seat, and followed her
+left her sewing and her thimble in the [[Window|window]]-seat, and followed her
 
 uncle where he led.
 
@@ -118,7 +118,7 @@ sisters."
 
 
 
-"Indeed!" said Shirley.
+"Indeed!" said [[Shirley]].
 
 
 
@@ -150,7 +150,7 @@ _insist_ on being heard, and on--on having my own way. My questions
 
 _must_ be answered. I will have clear, satisfactory replies. I am not to
 
-be trifled with. (Silence.)
+be trifled with. ([[Silence]].)
 
 
 
@@ -170,7 +170,7 @@ gone!"
 
 
 
-Shirley raised her brows. "_Bon voyage!_" said she.
+[[Shirley]] raised her brows. "_Bon voyage!_" said she.
 
 
 
@@ -184,7 +184,7 @@ incensed, and perfectly helpless.
 
 
 
-"Come, come now, uncle," expostulated Shirley, "do not begin to fret and
+"Come, come now, uncle," expostulated [[Shirley]], "do not begin to fret and
 
 fume, or we shall make no sense of the business. Ask me what you want to
 
@@ -212,7 +212,7 @@ an offer?"
 
 
 
-"He made you an offer that night we dined at the priory?"
+"He made you an offer that [[Night|night]] we dined at the priory?"
 
 
 
@@ -234,7 +234,7 @@ No answer.
 
 fault--it never is. Subsequently you received a letter from him. On what
 
-subject--of what nature were the contents?"
+subject--of what [[Nature|nature]] were the contents?"
 
 
 
@@ -246,7 +246,7 @@ subject--of what nature were the contents?"
 
 
 
-Shirley's foot tapped quick on the carpet.
+[[Shirley]]'s foot tapped quick on the carpet.
 
 
 
@@ -292,7 +292,7 @@ next?"
 
 
 
-"I desire to know whether you accepted or refused him, and know it I
+"I [[Desire|desire]] to know whether you accepted or refused him, and know it I
 
 will."
 
@@ -302,7 +302,7 @@ will."
 
 
 
-"Refused him! You--_you_, Shirley Keeldar, _refused_ Sir Philip
+"Refused him! You--_you_, [[Shirley Keeldar]], _refused_ Sir Philip
 
 Nunnely?"
 

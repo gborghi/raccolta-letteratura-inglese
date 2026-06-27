@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 Henry VI) — Act I, Scene 1 — exchange (WARWICK) [7]"
+title: "The First Part of the Contention (2 [[Henry VI]]) — Act I, Scene 1 — exchange (WARWICK) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)"

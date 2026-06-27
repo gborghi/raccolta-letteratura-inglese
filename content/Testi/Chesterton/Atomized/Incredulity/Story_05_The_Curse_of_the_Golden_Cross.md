@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Curse of the Golden Cross"
+title: "[[Incredulity]] — The Curse of the Golden [[Cross]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-FIVE:  The Curse of the Golden Cross
+FIVE:  The Curse of the Golden [[Cross]]
 
 Six people sat around a small table, seeming almost as
 incongruous and accidental as if they had been shipwrecked
-separately on the same small desert island.  At least the sea
+separately on the same small [[Desert|desert]] island.  At least the sea
 surrounded them; for in one sense their island was enclosed
 in another island, a large and flying island like Laputa.
 For the little table was one of many little tables dotted
-about in the dining saloon of that monstrous ship the Moravia,
-speeding through the night and the everlasting emptiness
+about in the dining saloon of that monstrous [[Ship|ship]] the Moravia,
+speeding through the [[Night|night]] and the everlasting emptiness
 of the Atlantic.  The little company had nothing in common
-except that all were travelling from America to England.
+except that all were travelling from [[america|America]] to England.
 Two of them at least might be called celebrities; others might
 be called obscure, and in one or two cases even dubious.
 
@@ -39,13 +39,13 @@ that it often gave strangers a start to hear him speak with
 an American accent.  Yet he was, in his way, very American;
 he had long fair hair brushed back from a big square forehead,
 long straight features and a curious mixture of preoccupation
-with a poise of potential swiftness, like a lion pondering absent--
+with a poise of potential swiftness, like a [[Lion|lion]] pondering absent--
 mindedly on his next leap.
 
 There was only one lady in the group; and she was (as the journalists
 often said of her) a host in herself; being quite prepared
 to play hostess, not to say empress, at that or any other table.
-She was Lady Diana Wales, the celebrated lady traveller in tropical
+She was Lady [[Diana]] Wales, the celebrated lady traveller in tropical
 and other countries; but there was nothing rugged or masculine
 about her appearance at dinner.  She was herself handsome in an
 almost tropical fashion, with a mass of hot and heavy red hair;
@@ -56,15 +56,15 @@ questions at political meetings.
 
 The other four figures seemed at first like shadows in this
 shining presence; but they showed differences on a close view.
-One of them was a young man entered on the ship's register as
+One of them was a young man entered on the [[Ship|ship]]'s register as
 Paul T. Tarrant.  He was an American type which might be more truly
 called an American antitype.  Every nation probably has an antitype;
 a sort of extreme exception that proves the national rule.
 Americans really respect work, rather as Europeans respect war.
-There is a halo of heroism about it; and he who shrinks from it
+There is a halo of [[Heroism|heroism]] about it; and he who shrinks from it
 is less than a man.  The antitype is evident through being
 exceedingly rare.  He is the dandy or dude:  the wealthy
-waster who makes a weak villain for so many American novels.
+waster who makes a weak [[Villain|villain]] for so many American novels.
 Paul Tarrant seemed to have nothing whatever to do but
 change his clothes, which he did about six times a day;
 passing into paler or richer shades of his suit of exquisite
@@ -72,7 +72,7 @@ light grey, like the delicate silver changes of the twilight.
 Unlike most Americans, he cultivated very carefully a short,
 curly beard; and unlike most dandies, even of his own type,
 he seemed rather sulky than showy.  Perhaps there was something
-almost Byronic about his silence and his gloom.
+almost Byronic about his [[Silence|silence]] and his gloom.
 
 The next two travellers were naturally classed together; merely because
 they were both English lecturers returning from an American tour.
@@ -104,7 +104,7 @@ replied the Professor dryly.  `They talk about specialists;
 but I think the hardest thing on earth is to specialize.
 In this case, for instance:  how can a man know anything about
 Byzantium till he knows everything about Rome before it and
-about Islam after it?  Most Arab arts were old Byzantine arts.
+about [[Islam]] after it?  Most Arab arts were old Byzantine arts.
 Why, take algebra--`
 
 `But I won't take algebra,' cried the lady decisively.
@@ -113,31 +113,31 @@ I was with Gatton, you know, when he opened the Babylonian tombs.
 Ever since then I found mummies and preserved bodies and all
 that perfectly thrilling.  Do tell us about this one.'
 
-`Gatton was an interesting man,' said the Professor.
+`Gatton was an interesting man,' said [[The Professor|the Professor]].
 `They were an interesting family.  That brother of his who went
 into Parliament was much more than an ordinary politician.
 I never understood the Fascisti till he made that speech about Italy.'
 
-`Well, we're not going to Italy on this trip,'
-said Lady Diana persistently, `and I believe you're going
+`[[Well]], we're not going to [[Italy]] on this trip,'
+said Lady [[Diana]] persistently, `and I believe you're going
 to that little place where they've found the tomb.
 In Sussex, isn't it?'
 
 `Sussex is pretty large, as these little English sections go,'
-replied the Professor.  `One might wander about in it
+replied [[The Professor|the Professor]].  `One might wander about in it
 for a goodish time; and it's a good place to wander in.
 It's wonderful how large those low hills seem when you're on them.'
 
 There was an abrupt accidental silence; and then the lady said,
-`Oh, I'm going on deck,' and rose, the men rising with her.
-But the Professor lingered and the little priest was the last
+`Oh, I'm going on deck,' and [[Rose|rose]], the men rising with her.
+But [[The Professor|the Professor]] lingered and the little priest was the last
 to leave the table, carefully folding up his napkin.
-And as they were thus left alone together the Professor said
+And as they were thus left [[Alone|alone]] together [[The Professor|the Professor]] said
 suddenly to his companion:
 
 `What would you say was the point of that little talk?'
 
-`Well,' said Father Brown, smiling, `since you ask me,
+`[[Well]],' said [[Father Brown]], smiling, `since you ask me,
 there was something that amused me a little.  I may be wrong;
 but it seemed to me that the company made three attempts to get
 you to talk about an embalmed body said to be found in Sussex.
@@ -145,14 +145,14 @@ And you, on your side, very courteously offered to talk--
 first about algebra, and then about the Fascisti, and then
 about the landscape of the Downs.'
 
-`In short,' replied the Professor, `you thought I was ready to talk
+`In short,' replied [[The Professor|the Professor]], `you thought I was ready to talk
 about any subject but that one.  You were quite right.'
 
 The Professor was silent for a little time, looking down at
 the tablecloth; then he looked up and spoke with that swift
 impulsiveness that suggested the lion's leap.
 
-`See here.  Father Brown,' he said, `I consider you about wisest
+`See here.  [[Father Brown]],' he said, `I consider you about wisest
 and whitest man I ever met.'
 
 Father Brown was very English.  He had all the normal nation
@@ -171,7 +171,7 @@ especially at that date.  So Mr Walters (that is the Vicar)
 naturally wonders about Byzantine influences.  But he also mentions
 something else, that is of even more personal interest to me.'
 
-His long grave face seemed to grow even longer and graver as he frowned
+His long [[Grave|grave]] face seemed to grow even longer and graver as he frowned
 down at the tablecloth.  His long finger seemed to be tracing patterns
 on it like the plans of dead cities and their temples and tombs.
 
@@ -188,7 +188,7 @@ is some story about a curse on it; but I take no notice of that.
 But whether or no there is a curse, there really is, in one sense,
 a conspiracy; though the conspiracy should only consist of one man.'
 
-`Of one man?' repeated Father Brown almost mechanically.
+`Of one man?' repeated [[Father Brown]] almost mechanically.
 
 `Of one madman, for all I know,' said Professor Smaill.
 `It's a long story and in some ways a silly one.'
@@ -216,7 +216,7 @@ but rather like a sort of rude or even savage zoology.
 
 `In order to explain very briefly why I thought this find important,
 I must tell you the point of the excavation.  For one thing, it had
-something of the nature of an excavation of an excavation.  We were on
+something of the [[Nature|nature]] of an excavation of an excavation.  We were on
 the track not only of antiquities, but of the antiquarians of antiquity.
 We had reason to believe, or some of us thought we had reason to believe,
 that these underground passages, mostly of the Minoan period,
@@ -235,10 +235,10 @@ or other rioting in the caverns in orgies that had to be hidden
 from the face of the sun.  I belong to the group which believed
 that these caverns had been used in the same way as the catacombs.
 That is, we believed that, during some of the persecutions
-which spread like a fire over the whole Empire, the Christians had
+which spread like a [[Fire|fire]] over the whole Empire, the Christians had
 concealed themselves in these ancient pagan labyrinths of stone.
 It was therefore with a thrill as sharp I as a thunderclap that I found
-and picked up the fallen golden cross and saw the design upon it;
+and picked up the fallen golden [[Cross|cross]] and saw the design upon it;
 and it was with still more of a shock of felicity that, on turning
 to make my way once more outwards and upwards into the light of day,
 I looked up at the walls of bare rock that extended endlessly
@@ -255,10 +255,10 @@ and silence, dropped far below the feet of men and moving in dark
 and twilight and a soundless world.
 
 `Everyone walking along stone passages knows what it is to be followed
-by phantom feet.  The echo follows flapping or clapping behind or
+by [[Phantom|phantom]] feet.  The echo follows flapping or clapping behind or
 in front, so that it is almost impossible for the man who is really
-lonely to believe in his loneliness.  I had got used to the effects
-of this echo and had not noticed it much for some time past, when I
+lonely to believe in his [[Loneliness|loneliness]].  I had got used to the effects
+of this echo and had not noticed it much for some [[Time|time]] past, when I
 caught sight of the symbolical shape scrawled on the wall of rock.
 I stopped, and at the same instant it seemed as if my heart stopped, too;
 for my own feet had halted, but the echo went marching on.
@@ -270,7 +270,7 @@ have sworn they stopped an instant too late; I called out a question;
 and my cry was answered; but the voice was not my own.
 
 `It came round the corner of a rock just in front of me;
-and throughout that uncanny chase I noticed that it was always
+and throughout that [[Uncanny|uncanny]] chase I noticed that it was always
 at some such angle of the crooked path that it paused and spoke.
 The little space in front of me that could be illuminated by my
 small electric torch was always as empty as an empty room.
@@ -285,8 +285,8 @@ like a marble terrace, varied only with a green vegetation that seemed
 somehow more tropical than the purity of the rock, like the Oriental
 invasion that has spread sporadically over the fall of classic Hellas.
 I looked out on a sea of stainless blue, and the sun shone steadily
-on utter loneliness and silence; and there was not a blade of grass
-stirred with a whisper of flight nor the shadow of a shadow of man.
+on utter [[Loneliness|loneliness]] and [[Silence|silence]]; and there was not a blade of grass
+stirred with a whisper of flight nor the [[Shadow|shadow]] of a [[Shadow|shadow]] of man.
 
 `It had been a terrible conversation; so intimate and so individual
 and in a sense so casual.  This being, bodiless, faceless,
@@ -305,15 +305,15 @@ an Indian embroiderer gives to the artistic work of a life--time.
 Yet he was no Oriental; I am certain be was a white man.
 I suspect that he was a countryman of my own.
 
-`Since then I have received from time to time signs and symbols
+`Since then I have received from [[Time|time]] to [[Time|time]] signs and symbols
 and queer impersonal messages that have made me certain,
 at least, that if the man is a maniac he is a monomaniac.
 He is always telling me, in this airy and detached way, that the
-preparations for my death and burial are proceeding satisfactorily;
+preparations for my [[Death|death]] and burial are proceeding satisfactorily;
 and that the only way in which I can prevent their being
-crowned with a comfortable success is to give up the relic
-in my possession--the unique cross that I found in the cavern.
-He does not seem to have any religious sentiment or fanaticism
+crowned with a comfortable [[success]] is to give up the relic
+in my possession--the unique [[Cross|cross]] that I found in the cavern.
+He does not seem to have any religious sentiment or [[Fanaticism|fanaticism]]
 on the point; he seems to have no passion but the passion of a
 collector of curiosities.  That is one of the things that makes
 me feel sure he is a man of the West and not of the East.
@@ -332,7 +332,7 @@ out my unworthy hand towards the cross in the tomb.
 
 ``You will never know me,' he wrote, `you will never say my name; you will
 never see my face; you will die, and never know who has killed you.
-I may be in any form among those about you; but I shall be in that alone
+I may be in any form among those about you; but I shall be in that [[Alone|alone]]
 at which you have forgotten to look.'
 
 `From those threats I deduce that he is quite likely to shadow
@@ -342,18 +342,18 @@ in my life, he may be almost any man I meet.  Logically speaking,
 he may be any of the waiters who wait on me at table.
 He may be any of the passengers who sit with me at table.'
 
-`He may be me,' said Father Brown, with cheerful contempt for grammar.
+`He may be me,' said [[Father Brown]], with cheerful contempt for grammar.
 
 `He may be anybody else,' answered Smaill seriously.
 `That is what I meant by what I said just now.
 You are the only man I feel sure is not the enemy.'
 
-Father Brown again looked embarrassed; then he smiled and said:
+[[Father Brown]] again looked embarrassed; then he smiled and said:
 `Well, oddly enough, I'm not.  What we have to consider
 is any chance of finding out if he really is here before he--
 before he makes himself unpleasant.'
 
-`There is one chance of finding out, I think,' remarked the Professor
+`There is one chance of finding out, I think,' remarked [[The Professor|the Professor]]
 rather grimly.  `When we get to Southampton I shall take a car at
 once along the coast; I should be glad if you would come with me,
 but in the ordinary sense, of course, our little party will break up.
@@ -397,7 +397,7 @@ about a bird of ill omen?'
 They entered the churchyard slowly, the eyes of the American
 antiquary lingering luxuriantly over the isolated roof of the lynch--
 gate and the large unfathomable black growth of the yew looking
-like night itself defying the broad daylight.  The path climbed
+like [[Night|night]] itself defying the broad daylight.  The path climbed
 up amid heaving levels of turf in which the gravestones were
 tilted at all angles like stone rafts tossed on a green sea,
 till it came to the ridge beyond which the great sea itself
@@ -407,7 +407,7 @@ holly and ended in grey and yellow sand; and a foot or two
 from the holly, and outlined darkly against the steely sea,
 stood a motionless figure.  But for its dark--grey clothing it
 might almost have been the statue on some sepulchral monument.
-But Father Brown instantly recognized something in the elegant
+But [[Father Brown]] instantly recognized something in the elegant
 stoop of the shoulders and the rather sullen outward thrust
 of the short beard.
 
@@ -417,7 +417,7 @@ that I should ever get so quick an answer to my question?'
 
 `I thought you might get too many answers to it,' answered Father Brown.
 
-`Why, how do you mean?' inquired the Professor, darting a look
+`Why, how do you mean?' inquired [[The Professor|the Professor]], darting a look
 at him over his shoulder.
 
 `I mean,' answered the other mildly, `that I thought I heard voices behind
@@ -481,12 +481,12 @@ Something rather like a wrangle followed on this collision between
 the impatience of the lady and the suspicions of the archaeologist;
 but the latter's insistence on the official rights of the Vicar
 and the local investigation ultimately prevailed; the little
-man with the moustaches came reluctantly out of his grave
+man with the moustaches came reluctantly out of his [[Grave|grave]]
 again and silently acquiesced in a less impetuous descent.
 Fortunately, the clergyman himself appeared at this stage--
 a grey--haired, good--looking gentleman with a droop accentuated
 by doublet eyeglasses; and while rapidly establishing sympathetic
-relations with the Professor as a fellow--antiquarian, he did
+relations with [[The Professor|the Professor]] as a fellow--antiquarian, he did
 not seem to regard his rather motley group of companions with
 anything more hostile than amusement.
 
@@ -494,10 +494,10 @@ anything more hostile than amusement.
 `I ought to tell you, to start with, that there are supposed
 to be all sorts of bad omens and curses hanging over our devoted
 heads in this business.  I have just been deciphering a Latin
-inscription which was found over the entrance to the chapel;
+[[Inscription|inscription]] which was found over the entrance to the chapel;
 and it would seem that there are no less than three
 curses involved; a curse for entering the sealed chamber,
-a double curse for opening the coffin, and a triple and most
+a [[Double|double]] curse for opening the coffin, and a triple and most
 terrible curse for touching the gold relic found inside it.
 The two first maledictions I have already incurred myself,'
 he added with a smile; `but I fear that even you will have to incur
@@ -616,24 +616,24 @@ In the silence of that candle--lit cavern Lady Diana cried
 out suddenly:  `Don't touch it, I tell you!'
 
 But the man had already made one of his swift leonine movements,
-leaning forward over the body.  The next instant they all darted,
+leaning forward over the [[Body|body]].  The next instant they all darted,
 some forward and some backward, but all with a dreadful ducking
 motion as if the sky were falling.
 
-As the Professor laid a finger on the gold cross, the wooden props,
+As [[The Professor|the Professor]] laid a finger on the gold [[Cross|cross]], the wooden props,
 that bent very slightly in supporting the lifted lid of stone,
 seemed to jump and straighten themselves with a jerk.
 The lip of the stone slab slipped from its wooden perch;
 and in all their souls and stomachs came a sickening sense of down--
 rushing ruin, as if they had all been flung off a precipice.
-Smaill had withdrawn his head swiftly, but not in time; and he lay
-senseless beside the coffin, in a red puddle of blood from scalp
+Smaill had withdrawn his head swiftly, but not in [[Time|time]]; and he lay
+senseless beside the coffin, in a red puddle of [[Blood|blood]] from scalp
 or skull.  And the old stone coffin was once more closed as it had
 been for centuries; save that one or two sticks or splinters stuck
 in the crevice, horribly suggestive of bones crunched by an ogre.
 The leviathan had snapped its jaws of stone.
 
-Lady Diana was looking at the wreck with eyes that had
+Lady [[Diana]] was looking at the wreck with eyes that had
 an electric glare as of lunacy; her red hair looked scarlet
 against the pallor of her face in the greenish twilight.
 Smyth was looking at her, still with something dog--like in
@@ -641,7 +641,7 @@ the turn of his head; but it was the expression of a god who looks
 at a master whose catastrophe he can only partly understand.
 Tarrant and the foreigner had stiffened in their usual
 sullen attitudes, but their faces had turned the colour of clay.
-The Vicar seemed to have fainted.  Father Brown was kneeling
+The Vicar seemed to have fainted.  [[Father Brown]] was kneeling
 beside the fallen figure, trying to test its condition.
 
 Rather to the general surprise, the Byronic lounger, Paul Tarrant,
@@ -659,7 +659,7 @@ My real profession would probably surprise you.'
 
 `I don't think so,' replied Father Brown, with a slight smile.
 `I thought of it about halfway through the voyage.
-You are a detective shadowing somebody.  Well, the cross
+You are a [[Detective|detective]] shadowing somebody.  [[Well]], the [[Cross|cross]]
 is safe from thieves now, anyhow.'
 
 While they were speaking Tarrant had lifted the frail
@@ -711,10 +711,10 @@ either side of the long drooping nose) fixed on the priest.
 The latter looked twice before he realized that the heavy dark
 moustache hid something like a grin or at least a grim smile.
 
-`I thought you were going away,' said Father Brown a little sharply.
+`I thought you were going away,' said [[Father Brown]] a little sharply.
 `I thought you left by that train two hours ago.'
 
-`Well, you see I didn't,' said Boon.
+`[[Well]], you see I didn't,' said Boon.
 
 `Why have you come back?' asked the priest almost sternly.
 
@@ -772,14 +772,14 @@ they were shaken by something yet more recent than the accident
 at the tomb.  Even as he entered, Leonard Smyth was saying:'
 Where is all this going to end?'
 
-`It will never end, I tell you,' repeated Lady Diana, gazing into
+`It will never end, I tell you,' repeated Lady [[Diana]], gazing into
 vacancy with glassy eyes; `it will never end till we all end.
 One after another the curse will take us; perhaps slowly, as the poor
 vicar said; but it will take us all as it has taken him.'
 
-`What in the world has happened now?' asked Father Brown.
+`What in the world has happened now?' asked [[Father Brown]].
 
-There was a silence, and then Tarrant said in a voice that sounded
+There was a [[Silence|silence]], and then Tarrant said in a voice that sounded
 a little hollow:  `Mr Walters, the Vicar, has committed suicide.
 I suppose it was the shock unhinged him.  But I fear there can be no
 doubt about it.  We've just found his black hat and clothes on a rock
@@ -797,7 +797,7 @@ the chapel, and we--`
 `this has got to stop.'
 
 He still wore a heavy though unconscious frown, but in his eyes
-was no longer the cloud of mystification, but a light of almost
+was no longer the cloud of [[Mystification|mystification]], but a light of almost
 terrible understanding.  `What a fool I am!' he muttered.
 `I ought to have seen it long ago.  The tale of the curse ought
 to have told me.'
@@ -805,13 +805,13 @@ to have told me.'
 `Do you mean to say,' demanded Tarrant, `that we can really be killed
 now by something that happened in the thirteenth century?'
 
-Father Brown shook his head and answered with quiet emphasis:
+[[Father Brown]] shook his head and answered with quiet emphasis:
 `I won't discuss whether we can be killed by something that happened
 in the thirteenth century; but I'm jolly certain that we can't be
 killed by something that never happened in the thirteenth century,
 something that never happened at all.'
 
-`Well,' said Tarrant, `it's refreshing to find a priest so sceptical
+`[[Well]],' said Tarrant, `it's refreshing to find a priest so sceptical
 of the supernatural as all that.'
 
 `Not at all,' replied the priest calmly; `it's not
@@ -819,7 +819,7 @@ the supernatural part I doubt.  It's the natural part.
 I'm exactly in the position of the man who said, `I can believe
 the impossible, but not the improbable.'`
 
-`That's what you call a paradox, isn't it?' asked the other.
+`That's what you call a [[Paradox|paradox]], isn't it?' asked the other.
 
 `It's what I call common sense, properly understood,'
 replied Father Brown.  'It really is more natural to believe
@@ -843,8 +843,8 @@ more out of her bright and prominent eyes.
 `What a curious man you are!' she said.  `Why should you
 disbelieve the history?'
 
-`I disbelieve the history because it isn't history,'
-answered Father Brown.  `To anybody who happens to know
+`I disbelieve the [[history]] because it isn't [[history]],'
+answered [[Father Brown]].  `To anybody who happens to know
 a little about the Middle Ages, the whole story was about
 as probable as Gladstone offering Queen Victoria a cigar.
 But does anybody know anything about the Middle Ages?  Do you know
@@ -854,7 +854,7 @@ Do you know what sort of people were Servi Regis?
 `No, of course I don't,' said the lady, rather crossly.
 `What a lot of Latin words!'
 
-`No, of course,' said Father Brown.  `If it had been Tutankhamen
+`No, of course,' said [[Father Brown]].  `If it had been Tutankhamen
 and a set of dried--up Africans preserved, Heaven knows why,
 at the other end of the world; if it had been Babylonia or China;
 if it had been some race as remote and mysterious as the Man
@@ -886,14 +886,14 @@ were the only people who weren't persecuted in the Middle Ages.
 If you want to satirize medievalism, you could make a good case
 by saying that some poor Christian might be burned alive for `making
 a mistake about the Homoousion, while a rich Jew might walk
-down the street openly sneering at Christ and the Mother of God.
-Well, that's what the story is like.  It was never a story of
+down the street openly sneering at [[Christ]] and the Mother of God.
+[[Well]], that's what the story is like.  It was never a story of
 the Middle Ages; it was never even a legend about the Middle Ages.
 It was made up by somebody whose notions came from novels and newspapers,
 and probably made up on the spur of the moment.'
 
 The others seemed a little dazed by the historical digression,
-and seemed to wonder vaguely why the priest emphasized
+and seemed to [[Wonder|wonder]] vaguely why the priest emphasized
 it and made it so important a part of the puzzle.
 But Tarrant, whose trade it was to pick the practical detail
 out of many tangles of digression, had suddenly become alert.
@@ -904,7 +904,7 @@ out his sullen eyes were wide awake.  `Ah,' he said;
 `Perhaps that is an exaggeration,' admitted Father Brown calmly.
 `I should rather say made up more casually and carelessly than
 the rest of an uncommonly careful plot.  But the plotter did not
-think the details of medieval history would matter much to anybody.
+think the details of medieval [[history]] would matter much to anybody.
 And his calculation in a general way was pretty nearly right,
 like most of his other calculations.'
 
@@ -918,7 +918,7 @@ with your he's and him's?'
 `What murderer?' she asked sharply.  `Do you mean that the poor
 Professor was murdered?'
 
-`Well,' said the staring Tarrant gruffly into his beard,
+`[[Well]],' said the staring Tarrant gruffly into his beard,
 `we can't say `murdered', for we don't know he's killed.'
 
 `The murderer killed somebody else, who was not Professor Smaill,'
@@ -932,7 +932,7 @@ The murderer was a sort of monomaniac on the point.'
 
 `It all sounds very strange,' muttered Tarrant.
 `Of course we can't swear that the Vicar's really dead either.
-We haven't seen his body.'
+We haven't seen his [[Body|body]].'
 
 `Oh yes, you have,' said Father Brown.
 
@@ -951,23 +951,23 @@ like a Prince of the Church in a shrine built before the Crusade.'
 that the embalmed body was really the corpse of a murdered man.'
 
 Father Brown was silent for a moment; then he said almost with an air
-of irrelevance:  `The first thing I noticed about it was the cross;
-or rather the string suspending the cross.  Naturally, for most of you,
+of irrelevance:  `The first thing I noticed about it was the [[Cross|cross]];
+or rather the string suspending the [[Cross|cross]].  Naturally, for most of you,
 it was only a string of beads and nothing else in particular;
 but, naturally also, it was rather more in my line than yours.
 You remember it lay close up to the chin, with only a few
 beads showing, as if the whole necklet were quite short.
 But the beads that showed were arranged in a special way, first one
 and then three, and so on; in fact, I knew at a glance that it
-was a rosary, an ordinary rosary with a cross at the end of it.
-But a rosary has at least five decades and additional beads as well;
+was a rosary, an ordinary rosary with a [[Cross|cross]] at the end of it.
+But a rosary has at least five decades and additional beads as [[Well|well]];
 and I naturally wondered where all the rest of it was.
 It would go much more than once round the old man's neck.
-I couldn't understand it at the time; and it was only
+I couldn't understand it at the [[Time|time]]; and it was only
 afterwards I guessed where the extra length had gone to.
 It was coiled round and round the foot of the wooden prop
 that was fixed in the corner of the coffin, holding up the lid.
-So that when poor Smaill merely plucked at the cross it jerked
+So that when poor Smaill merely plucked at the [[Cross|cross]] it jerked
 the prop out of its place and the lid fell on his skull like a
 club of stone.'
 
@@ -979,13 +979,13 @@ more or less to guess the rest.  Remember, first of all,
 that there never was any responsible archaeological authority
 for anything more than investigation.  Poor old Walters was
 an honest antiquary, who was engaged in opening the tomb to find
-out if there was any truth in the legend about embalmed bodies.
+out if there was any [[Truth|truth]] in the legend about embalmed bodies.
 The rest was all rumour, of the sort that often anticipates
-or exaggerates such finds.  As a fact, he found the body
-had not been embalmed, but had fallen into dust long ago.
+or exaggerates such finds.  As a fact, he found the [[Body|body]]
+had not been embalmed, but had fallen into [[Dust|dust]] long ago.
 Only while he was working there by the light of his lonely
 candle in that sunken chapel, the candlelight threw another
-shadow that was not his own.'
+[[Shadow|shadow]] that was not his own.'
 
 `Ah!' cried Lady Diana with a catch in her breath; 'and I know
 what you mean now.  You mean to tell us we have met the murderer,
@@ -1008,14 +1008,14 @@ politeness of a country clergyman.'
 `He ran a considerable risk,' objected Tarrant, `of somebody
 knowing Walters by sight.'
 
-`I admit he was half--mad,' agreed Father Brown; `and I think
+`I admit he was half--mad,' agreed [[Father Brown]]; `and I think
 you will admit that the risk was worth taking, for he has
 got off, after all.'
 
 `I'll admit he was very lucky,' growled Tarrant.
 `And who the devil was he?'
 
-`As you say, he was very lucky,' answered Father Brown, `and not least
+`As you say, he was very lucky,' answered [[Father Brown]], `and not least
 in that respect.  For that is the one thing we may never know.'
 He frowned at the table for a moment and then went on:
 `This fellow has been hovering round and threatening for years,
@@ -1030,11 +1030,11 @@ more of it.'
 to put the detectives on like dogs after this murdering devil.
 I should like to have a go at him myself.'
 
-`Well,' said Father Brown, smiling suddenly after his long fit
+`[[Well]],' said [[Father Brown]], smiling suddenly after his long fit
 of frowning perplexity, `I think I know the very first thing
 he ought to do.'
 
-`And what is that?' asked Lady Diana with graceful eagerness.
+`And what is that?' asked Lady [[Diana]] with graceful eagerness.
 
 `He ought to apologize to all of you,' said Father Brown.
 
@@ -1097,7 +1097,7 @@ What was it like to deal with murder on that scale?
 The world has forgotten these things, as until a little
 while ago it had forgotten war.'
 
-`Yes,' said Father Brown, `but the war came.  The fish may be driven
+`Yes,' said [[Father Brown]], `but the war came.  The fish may be driven
 underground again, but it will come up into the daylight once more.
 As St Antony of Padua humorously remarked, `It is only fishes
-who survive the Deluge.'`
+who survive the [[deluge|Deluge]].'`

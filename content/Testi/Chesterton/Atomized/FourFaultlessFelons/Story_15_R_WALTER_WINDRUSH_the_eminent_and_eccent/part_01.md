@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. WALTER WINDRUSH, the eminent and eccentric painter and poet, lived in (part 1)"
+title: "[[FourFaultlessFelons]] — R. WALTER WINDRUSH, the eminent and eccentric painter and poet, lived in (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 MR. WALTER WINDRUSH, the eminent and eccentric painter and poet, lived in
 
-London and had a curious tree in his back garden. This alone would not
+[[London]] and had a curious tree in his back [[Garden|garden]]. This [[Alone|alone]] would not
 
 have provoked the preposterous events narrated here. Many persons,
 
@@ -40,17 +40,17 @@ it up again, and failed again. Cold classical critics said they could
 
 understand the pulling up better than the putting in. For it was a
 
-grotesque object; a nondescript thing looking stunted or pollarded in the
+[[Grotesque|grotesque]] object; a nondescript thing looking stunted or pollarded in the
 
 manner recalling Burnham Beeches, but not easily classifiable as
 
-vegetation. It was so squat in the trunk that the boughs seemed to spring
+vegetation. It was so squat in the trunk that the boughs seemed to [[spring]]
 
-out of the roots and the roots out of the boughs. The roots also rose
+out of the roots and the roots out of the boughs. The roots also [[Rose|rose]]
 
 clear of the ground, so that light showed through them as through
 
-branches, the earth being washed away by a natural spring just behind.
+branches, the earth being washed away by a natural [[spring]] just behind.
 
 But the girth of the whole was very large, and the thing looked rather
 
@@ -64,7 +64,7 @@ head.
 
 
 
-Nobody indeed had ever planted this particular garden tree. It had grown
+Nobody indeed had ever planted this particular [[Garden|garden]] tree. It had grown
 
 like grass, and even like the wild grass of the wildest prairies. It was,
 
@@ -72,13 +72,13 @@ in all probability, by far the oldest thing in those parts: there was
 
 nothing to prove it was not older than Stonehenge. It had never been
 
-planted in anybody's garden. Everything else had been planted round it.
+planted in anybody's [[Garden|garden]]. Everything else had been planted round it.
 
-The garden and the garden wall and the house had been planted round it.
+The [[Garden|garden]] and the [[Garden|garden]] wall and the [[house]] had been planted round it.
 
 The street had been planted round it; the suburb had been planted round
 
-it. London, in a manner of speaking, had been planted round it. For
+it. [[London]], in a manner of speaking, had been planted round it. For
 
 though the suburb in question was now sunk so deep in the metropolis that
 
@@ -88,7 +88,7 @@ district where the urban expansion had been relatively recent and rapid,
 
 and it was not really so very long ago that the strange tree had stood
 
-alone on a windy and pathless heath.
+[[Alone|alone]] on a windy and pathless heath.
 
 
 
@@ -112,7 +112,7 @@ businesslike) at the inn of the Three Peacocks on the edge of the common;
 
 and the elder man especially showed some impatience to reach its shelter,
 
-as the wind was rising and dusk was falling over that rather desolate
+as the [[Wind|wind]] was rising and dusk was falling over that rather desolate
 
 landscape.
 
@@ -152,9 +152,9 @@ with some impatience to do so. But Walter Windrush could not be awakened
 
 from his trance of admiration. He continued to walk round and round the
 
-tree, to stare down into the straggling pools of water and then up to the
+tree, to stare down into the straggling pools of [[Water|water]] and then up to the
 
-wide cup or nest formed by the crown of boughs.
+wide cup or nest formed by the [[Crown|crown]] of boughs.
 
 
 
@@ -196,7 +196,7 @@ more."
 
 
 
-There was a staring silence and then he said in the same tone: "I never
+There was a staring [[Silence|silence]] and then he said in the same tone: "I never
 
 before in all my life saw anything that I wanted to possess."
 
@@ -212,6 +212,6 @@ Windrush went on as if the other had not spoken. "I have never before
 
 seen, in all my wanderings, any place where I wanted to stop and make my
 
-home. There cannot be anywhere in the world anything like that fantasia
+[[Home|home]]. There cannot be anywhere in the world anything like that fantasia
 
-of earth and sky and water; built upon bridges like Venice, and letting
+of earth and sky and [[Water|water]]; built upon bridges like [[Venice]], and letting

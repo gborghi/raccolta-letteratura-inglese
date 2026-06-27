@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 28 (part 4)"
+title: "[[Villette]] — Chapter 28 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-He rose. “Will he go away without saying another word?” Yes; he turned
+He [[Rose|rose]]. “Will he go away without saying another word?” Yes; he turned
 to the door.
 
 No: he _re_-turned on his steps; but only, perhaps, to take his
@@ -34,7 +34,7 @@ said I was making a watchguard.
 He asked, “For whom?” And I answered, “For a gentleman—one of my
 friends.”
 
-M. Paul stooped down and proceeded—as novel-writers say, and, as was
+M. Paul stooped down and proceeded—as [[Novel|novel]]-writers say, and, as was
 literally true in his case—to “hiss” into my ear some poignant words.
 
 He said that, of all the women he knew, I was the one who could make
@@ -43,7 +43,7 @@ least possible to live on friendly terms. I had a “caractère
 intraitable,” and perverse to a miracle. How I managed it, or what
 possessed me, he, for his part, did not know; but with whatever pacific
 and amicable intentions a person accosted me—crac! I turned concord to
-discord, good-will to enmity. He was sure, he—M. Paul—wished me well
+discord, good-will to enmity. He was sure, he—M. Paul—wished me [[Well|well]]
 enough; he had never done me any harm that he knew of; he might, at
 least, he supposed, claim a right to be regarded as a neutral
 acquaintance, guiltless of hostile sentiments: yet, how I behaved to
@@ -58,7 +58,7 @@ didn’t know….”
 sorry—he was very sorry: for my sake he grieved over the hapless
 peculiarity. This “emportement,” this “chaleur”—generous, perhaps, but
 excessive—would yet, he feared, do me a mischief. It was a pity: I was
-not—he believed, in his soul—wholly without good qualities: and would I
+not—he believed, in his [[Soul|soul]]—wholly without good qualities: and would I
 but hear reason, and be more sedate, more sober, less “en l’air,” less
 “coquette,” less taken by show, less prone to set an undue value on
 outside excellence—to make much of the attentions of people remarkable
@@ -78,15 +78,15 @@ at his ease.
 for the sake of my good, and would venture to refer to a change he had
 noticed in my dress. He was free to confess that when he first knew
 me—or, rather, was in the habit of catching a passing glimpse of me
-from time to time—I satisfied him on this point: the gravity, the
+from [[Time|time]] to [[Time|time]]—I satisfied him on this point: the gravity, the
 austere simplicity, obvious in this particular, were such as to inspire
 the highest hopes for my best interests. What fatal influence had
-impelled me lately to introduce flowers under the brim of my bonnet, to
+impelled me lately to introduce [[Flowers|flowers]] under the brim of my bonnet, to
 wear ‘des cols brodés,’ and even to appear on one occasion in a
 _scarlet gown_—he might indeed conjecture, but, for the present, would
 not openly declare.”
 
-Again I interrupted, and this time not without an accent at once
+Again I interrupted, and this [[Time|time]] not without an accent at once
 indignant and horror-struck.
 
 “Scarlet, Monsieur Paul? It was not scarlet! It was pink, and pale pink
@@ -103,7 +103,7 @@ passionate disposition. He would merely say, in general terms—and in
 these general terms he knew he was correct—that my costume had of late
 assumed ‘des façons mondaines,’ which it wounded him to see.”
 
-What “façons mondaines” he discovered in my present winter merino and
+What “façons mondaines” he discovered in my present [[Winter|winter]] merino and
 plain white collar, I own it puzzled me to guess: and when I asked him,
 he said it was all made with too much attention to effect—and besides,
 “had I not a bow of ribbon at my neck?”
@@ -113,23 +113,23 @@ necessarily disapprove of a thing like this for a gentleman?”—holding
 up my bright little chainlet of silk and gold. His sole reply was a
 groan—I suppose over my levity.
 
-After sitting some minutes in silence, and watching the progress of the
+After sitting some minutes in [[Silence|silence]], and watching the progress of the
 chain, at which I now wrought more assiduously than ever, he inquired:
 “Whether what he had just said would have the effect of making me
 entirely detest him?”
 
 I hardly remember what answer I made, or how it came about; I don’t
-think I spoke at all, but I know we managed to bid good-night on
+think I spoke at all, but I know we managed to bid good-[[Night|night]] on
 friendly terms: and, even after M. Paul had reached the door, he turned
 back just to explain, “that he would not be understood to speak in
 entire condemnation of the scarlet dress” (“Pink! pink!” I threw in);
 “that he had no intention to deny it the merit of _looking_ rather
-well” (the fact was, M. Emanuel’s taste in colours decidedly leaned to
+[[Well|well]]” (the fact was, M. Emanuel’s taste in colours decidedly leaned to
 the brilliant); “only he wished to counsel me, whenever I wore it, to
 do so in the same spirit as if its material were ‘bure,’ and its hue
 ‘gris de poussière.’”
 
-“And the flowers under my bonnet, Monsieur?” I asked. “They are very
+“And the [[Flowers|flowers]] under my bonnet, Monsieur?” I asked. “They are very
 little ones—?”
 
 “Keep them little, then,” said he. “Permit them not to become
@@ -141,24 +141,24 @@ full-blown.”
 
 And so we settled it.
 
-“Well done, Lucy Snowe!” cried I to myself; “you have come in for a
+“[[Well]] done, [[Lucy Snowe]]!” cried I to myself; “you have come in for a
 pretty lecture—brought on yourself a ‘rude savant,’ and all through
 your wicked fondness for worldly vanities! Who would have thought it?
-You deemed yourself a melancholy sober-sides enough! Miss Fanshawe
+You deemed yourself a [[Melancholy|melancholy]] sober-sides enough! Miss Fanshawe
 there regards you as a second Diogenes. M. de Bassompierre, the other
 day, politely turned the conversation when it ran on the wild gifts of
 the actress Vashti, because, as he kindly said, ‘Miss Snowe looked
 uncomfortable.’ Dr. John Bretton knows you only as ‘quiet Lucy’—‘a
-creature inoffensive as a shadow;’ he has said, and you have heard him
-say it: ‘Lucy’s disadvantages spring from over-gravity in tastes and
+creature inoffensive as a [[Shadow|shadow]];’ he has said, and you have heard him
+say it: ‘Lucy’s disadvantages [[spring]] from over-gravity in tastes and
 manner—want of colour in character and costume.’ Such are your own and
 your friends’ impressions; and behold! there starts up a little man,
 differing diametrically from all these, roundly charging you with being
 too airy and cheery—too volatile and versatile—too flowery and coloury.
 This harsh little man—this pitiless censor—gathers up all your poor
-scattered sins of vanity, your luckless chiffon of rose-colour, your
+scattered sins of [[Vanity|vanity]], your luckless chiffon of [[Rose|rose]]-colour, your
 small fringe of a wreath, your small scrap of ribbon, your silly bit of
 lace, and calls you to account for the lot, and for each item. You are
-well habituated to be passed by as a shadow in Life’s sunshine: it is a
+[[Well|well]] habituated to be passed by as a [[Shadow|shadow]] in Life’s sunshine: it is a
 new thing to see one testily lifting his hand to screen his eyes,
 because you tease him with an obtrusive ray.”

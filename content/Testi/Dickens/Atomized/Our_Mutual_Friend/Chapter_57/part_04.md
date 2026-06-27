@@ -19,15 +19,15 @@ cavalier and friend of the family, Mr George Sampson. ‘Why, it’s never
 Bella!’ exclaimed Miss Lavvy starting back at the sight. And then
 bawled, ‘Ma! Here’s Bella!’
 
-This produced, before they could get into the house, Mrs Wilfer. Who,
+This produced, before they could get into the [[house]], Mrs Wilfer. Who,
 standing in the portal, received them with ghostly gloom, and all her
 other appliances of ceremony.
 
-‘My child is welcome, though unlooked for,’ said she, at the time
+‘My [[Child|child]] is welcome, though unlooked for,’ said she, at the [[Time|time]]
 presenting her cheek as if it were a cool slate for visitors to enrol
 themselves upon. ‘You too, R. W., are welcome, though late. Does the
 male domestic of Mrs Boffin hear me there?’ This deep-toned inquiry was
-cast forth into the night, for response from the menial in question.
+cast forth into the [[Night|night]], for response from the menial in question.
 
 ‘There is no one waiting, Ma, dear,’ said Bella.
 
@@ -36,19 +36,19 @@ cast forth into the night, for response from the menial in question.
 ‘No, Ma, dear.’
 
 A dignified shiver pervaded Mrs Wilfer’s shoulders and gloves, as
-who should say, ‘An Enigma!’ and then she marched at the head of the
+who should say, ‘[[An Enigma]]!’ and then she marched at the head of the
 procession to the family keeping-room, where she observed:
 
 ‘Unless, R. W.:’ who started on being solemnly turned upon: ‘you have
 taken the precaution of making some addition to our frugal supper on
-your way home, it will prove but a distasteful one to Bella. Cold neck
+your way [[Home|home]], it will prove but a distasteful one to Bella. Cold neck
 of mutton and a lettuce can ill compete with the luxuries of Mr Boffin’s
 board.’
 
 ‘Pray don’t talk like that, Ma dear,’ said Bella; ‘Mr Boffin’s board is
 nothing to me.’
 
-But, here Miss Lavinia, who had been intently eyeing Bella’s bonnet,
+But, here Miss [[Lavinia]], who had been intently eyeing Bella’s bonnet,
 struck in with ‘Why, Bella!’
 
 ‘Yes, Lavvy, I know.’
@@ -57,11 +57,11 @@ The Irrepressible lowered her eyes to Bella’s dress, and stooped to look
 at it, exclaiming again: ‘Why, Bella!’
 
 ‘Yes, Lavvy, I know what I have got on. I was going to tell Ma when you
-interrupted. I have left Mr Boffin’s house for good, Ma, and I have come
-home again.’
+interrupted. I have left Mr Boffin’s [[house]] for good, Ma, and I have come
+[[Home|home]] again.’
 
 Mrs Wilfer spake no word, but, having glared at her offspring for a
-minute or two in an awful silence, retired into her corner of state
+minute or two in an awful [[Silence|silence]], retired into her corner of state
 backward, and sat down: like a frozen article on sale in a Russian
 market.
 
@@ -72,7 +72,7 @@ it’s a final difference, and there’s an end of all.’
 
 ‘And I am bound to tell you, my dear,’ added R. W., submissively, ‘that
 Bella has acted in a truly brave spirit, and with a truly right feeling.
-And therefore I hope, my dear, you’ll not allow yourself to be greatly
+And therefore I [[Hope|hope]], my dear, you’ll not allow yourself to be greatly
 disappointed.’
 
 ‘George!’ said Miss Lavvy, in a sepulchral, warning voice, founded on
@@ -82,7 +82,7 @@ Boffins?’
 Mr Sampson perceiving his frail bark to be labouring among shoals and
 breakers, thought it safest not to refer back to any particular thing
 that he had been told, lest he should refer back to the wrong thing.
-With admirable seamanship he got his bark into deep water by murmuring
+With admirable seamanship he got his bark into deep [[Water|water]] by murmuring
 ‘Yes indeed.’
 
 ‘Yes! I told George Sampson, as George Sampson tells you,’ said Miss
@@ -93,24 +93,24 @@ Boffins now?’
 
 ‘Lavvy and Ma,’ said Bella, ‘I say of Mr and Mrs Boffin what I always
 have said; and I always shall say of them what I always have said. But
-nothing will induce me to quarrel with any one to-night. I hope you
-are not sorry to see me, Ma dear,’ kissing her; ‘and I hope you are not
+nothing will induce me to quarrel with any one to-[[Night|night]]. I [[Hope|hope]] you
+are not sorry to see me, Ma dear,’ kissing her; ‘and I [[Hope|hope]] you are not
 sorry to see me, Lavvy,’ kissing her too; ‘and as I notice the lettuce
 Ma mentioned, on the table, I’ll make the salad.’
 
 Bella playfully setting herself about the task, Mrs Wilfer’s impressive
 countenance followed her with glaring eyes, presenting a combination
 of the once popular sign of the Saracen’s Head, with a piece of
-Dutch clock-work, and suggesting to an imaginative mind that from the
+Dutch [[Clock|clock]]-work, and suggesting to an imaginative mind that from the
 composition of the salad, her daughter might prudently omit the vinegar.
 But no word issued from the majestic matron’s lips. And this was more
 terrific to her husband (as perhaps she knew) than any flow of eloquence
 with which she could have edified the company.
 
 ‘Now, Ma dear,’ said Bella in due course, ‘the salad’s ready, and it’s
-past supper-time.’
+past supper-[[Time|time]].’
 
-Mrs Wilfer rose, but remained speechless. ‘George!’ said Miss Lavinia
+Mrs Wilfer [[Rose|rose]], but remained speechless. ‘George!’ said Miss [[Lavinia]]
 in her voice of warning, ‘Ma’s chair!’ Mr Sampson flew to the excellent
 lady’s back, and followed her up close chair in hand, as she stalked
 to the banquet. Arrived at the table, she took her rigid seat, after
@@ -131,10 +131,10 @@ the fact: so that a bystander, without beholding Mrs Wilfer at all, must
 have known at whom she was glaring, by seeing her refracted from the
 countenance of the beglared one.
 
-Miss Lavinia was extremely affable to Mr Sampson on this special
+Miss [[Lavinia]] was extremely affable to Mr Sampson on this special
 occasion, and took the opportunity of informing her sister why.
 
 ‘It was not worth troubling you about, Bella, when you were in a sphere
 so far removed from your family as to make it a matter in which you
-could be expected to take very little interest,’ said Lavinia with a
+could be expected to take very little interest,’ said [[Lavinia]] with a
 toss of her chin; ‘but George Sampson is paying his addresses to me.’

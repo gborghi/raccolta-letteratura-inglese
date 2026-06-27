@@ -1,5 +1,5 @@
 ---
-title: "misc — THE MEDIAEVAL VILLAIN"
+title: "[[misc]] — THE MEDIAEVAL [[Villain|VILLAIN]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -14,63 +14,63 @@ tags:
 </nav>
 
 
-THE MEDIAEVAL VILLAIN
+THE MEDIAEVAL [[Villain|VILLAIN]]
 
 
 I see that there have been more attempts at the whitewashing
-of King John.
+of [[King John]].
 
 But the gentleman who wrote has a further interest in the matter;
-for he believes that King John was innocent, not only on this point,
-but as a whole.  He thinks King John has been very badly treated;
+for he believes that [[King John]] was [[Innocent|innocent]], not only on this point,
+but as a whole.  He thinks [[King John]] has been very badly treated;
 though I am not sure whether he would attribute to that Plantagenet
 a saintly merit or merely a humdrum respectability.
 
-I sympathise with the whitewashing of King John, merely because it
-is a protest against our waxwork style of history.  Everybody is
+I sympathise with the whitewashing of [[King John]], merely because it
+is a protest against our waxwork style of [[history]].  Everybody is
 in a particular attitude, with particular moral attributes;
-Rufus is always hunting and Coeur-de-Lion always crusading;
-Henry VIII always marrying, and Charles I always having his head
+Rufus is always hunting and Coeur-de-[[Lion]] always crusading;
+[[Henry VIII]] always marrying, and Charles I always having his head
 cut off; Alfred rapidly and in rotation making his people's
-clocks and spoiling their cakes; and King John pulling out Jews'
+clocks and spoiling their cakes; and [[King John]] pulling out Jews'
 teeth with the celerity and industry of an American dentist.
 Anything is good that shakes all this stiff simplification,
 and makes us remember that these men were once alive;
 that is, mixed, free, flippant, and inconsistent.
 It gives the mind a healthy kick to know that Alfred had fits,
 that Charles I prevented enclosures, that Rufus was really
-interested in architecture, that Henry VIII was really
+interested in architecture, that [[Henry VIII]] was really
 interested in theology.
 
 And as these scraps of reality can startle us into more solid
-imagination of events, so can even errors and exaggerations if they
+[[Imagination|imagination]] of events, so can even errors and exaggerations if they
 are on the right side.  It does some good to call Alfred a prig,
 Charles I a Puritan, and John a jolly good fellow; if this makes us
 feel that they were people whom we might have liked or disliked.
 I do not myself think that John was a nice gentleman;
 but for all that the popular picture of him is all wrong.
 Whether he had any generous qualities or not, he had what
-commonly makes them possible, dare-devil courage, for instance,
-and hot-headed decision.  But, above all, he had a morality
+commonly makes them possible, dare-devil [[Courage|courage]], for instance,
+and hot-headed decision.  But, above all, he had a [[morality]]
 which he broke, but which we misunderstand.
 
 The mediaeval mind turned centrally upon the pivot of
 Free Will.  In their social system the mediaevals were too
 much PARTI-PER-PALE, as their heralds would say, too rigidly
 cut up by fences and quarterings of guild or degree.
-But in their moral philosophy they always thought of man
-as standing free and doubtful at the cross-roads in a forest.
-While they clad and bound the body and (to some extent)
+But in their moral [[philosophy]] they always thought of man
+as standing free and doubtful at the [[Cross|cross]]-roads in a forest.
+While they clad and bound the [[Body|body]] and (to some extent)
 the mind too stiffly and quaintly for our taste, they had a much
-stronger sense than we have of the freedom of the soul.
-For them the soul always hung poised like an eagle in the heavens
+stronger sense than we have of the [[Freedom|freedom]] of the [[Soul|soul]].
+For them the [[Soul|soul]] always hung poised like an eagle in the heavens
 of liberty.  Many of the things that strike a modern as most
 fantastic came from their keen sense of the power of choice.
 
 For instance, the greatest of the Schoolmen devotes folios
 to the minute description of what the world would have been
 like if Adam had refused the apple; what kings, laws, babies,
-animals, planets would have been in an unfallen world.
+[[Animals|animals]], planets would have been in an unfallen world.
 So intensely does he feel that Adam might have decided the other
 way that he sees a complete and complex vision of another world,
 a world that now can never be.
@@ -83,52 +83,52 @@ the physical science of the nineteenth, whatever other truths they
 may have taught, have darkened this liberty with a sense of doom.
 We think of bad men as something like black men, a separate and
 incurable kind of people.  The Byronic spirit was really a sort of
-operatic Calvinism.  It brought the villain upon the stage; the lost soul;
-the modern version of King John.  But the contemporaries of King John
+operatic Calvinism.  It brought the [[Villain|villain]] upon the stage; the lost [[Soul|soul]];
+the modern version of [[King John]].  But the contemporaries of [[King John]]
 did not feel like that about him, even when they detested him.
 They instinctively felt him to be a man of mixed passions like themselves,
-who was allowing his evil passions to have much too good a time of it.
+who was allowing his evil passions to have much too good a [[Time|time]] of it.
 They might have spoken of him as a man in considerable danger
 of going to hell; but they would have not talked of him as if
-he had come from there.  In the ballads of Percy or Robin Hood
-it frequently happens that the King comes upon the scene,
+he had come from there.  In the ballads of Percy or [[Robin Hood]]
+it frequently happens that the [[King]] comes upon the scene,
 and his ultimate decision makes the climax of the tale.
-But we do not feel, as we do in the Byronic or modern romance,
-that there is a definite stage direction "Enter Tyrant."  Nor do we
+But we do not feel, as we do in the Byronic or modern [[Romance|romance]],
+that there is a definite stage direction "Enter [[Tyrant]]."  Nor do we
 behold a deus ex machina who is certain to do all that is mild and just.
-The King in the ballad is in a state of virile indecision.
+The [[King]] in the ballad is in a state of virile indecision.
 Sometimes he will pass from a towering passion to the most
 sweeping magnanimity and friendliness; sometimes he will
 begin an act of vengeance and be turned from it by a jest.
-Yet this august levity is not moral indifference; it is moral freedom.
-It is the strong sense in the writer that the King, being the type of man
-with power, will probably sometimes use it badly and sometimes well.
+Yet this august levity is not moral indifference; it is moral [[Freedom|freedom]].
+It is the strong sense in the writer that the [[King]], being the type of man
+with power, will probably sometimes use it badly and sometimes [[Well|well]].
 In this sense John is certainly misrepresented, for he is pictured
 as something that none of his own friends or enemies saw.
 In that sense he was certainly not so black as he is painted,
 for he lived in a world where every one was piebald.
 
-King John would be represented in a modern play or novel
+[[King John]] would be represented in a modern play or [[Novel|novel]]
 as a kind of degenerate; a shifty eyed moral maniac with a
-twist in his soul's backbone and green blood in his veins.
+twist in his [[Soul|soul]]'s backbone and green [[Blood|blood]] in his veins.
 The mediaevals were quite capable of boiling him in melted lead,
-but they would have been quite incapable of despairing of his soul
+but they would have been quite incapable of despairing of his [[Soul|soul]]
 in the modern fashion.  A striking a fortiori case is that of
 the strange mediaeval legend of Robert the Devil.  Robert was
 represented as a monstrous birth sent to an embittered woman
-actually in answer to prayers to Satan, and his earlier actions
-are simply those of the infernal fire let loose upon earth.
-Yet though he can be called almost literally a child of hell,
+actually in answer to prayers to [[Satan]], and his earlier actions
+are simply those of the infernal [[Fire|fire]] let loose upon earth.
+Yet though he can be called almost literally a [[Child|child]] of hell,
 yet the climax of the story is his repentance at Rome and his
-great reparation.  That is the paradox of mediaeval morals:
+great reparation.  That is the [[Paradox|paradox]] of mediaeval morals:
 as it must appear to the moderns.  We must try to conceive
-a race of men who hated John, and sought his blood, and believed
+a race of men who hated John, and sought his [[Blood|blood]], and believed
 every abomination about him, who would have been quite capable
 of assassinating or torturing him in the extremity of their anger.
 And yet we must admit that they would not really have been
 fundamentally surprised if he had shaved his head in humiliation,
 given all his goods to the poor, embraced the lepers
-in a lazar-house, and been canonised as a saint in heaven.
+in a lazar-[[house]], and been canonised as a saint in heaven.
 So strongly did they hold that the pivot of Will should turn freely,
 which now is rusted, and sticks.
 
@@ -136,7 +136,7 @@ For we, whatever our political opinions, certainly never
 think of our public men like that.  If we hold the opinion
 that Mr. Lloyd George is a noble tribune of the populace
 and protector of the poor, we do not admit that he can ever
-have paltered with the truth or bargained with the powerful.
+have paltered with the [[Truth|truth]] or bargained with the powerful.
 If we hold the equally idiotic opinion that he is a red
 and rabid Socialist, maddening mobs into mutiny and theft,
 then we expect him to go on maddening them--and us.

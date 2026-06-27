@@ -18,15 +18,15 @@ CHAPTER 36
 
 As the single gentleman after some weeks’ occupation of his lodgings,
 still declined to correspond, by word or gesture, either with Mr Brass
-or his sister Sally, but invariably chose Richard Swiveller as his
+or his sister Sally, but invariably chose [[Richard]] Swiveller as his
 channel of communication; and as he proved himself in all respects a
 highly desirable inmate, paying for everything beforehand, giving very
-little trouble, making no noise, and keeping early hours; Mr Richard
-imperceptibly rose to an important position in the family, as one who
+little trouble, making no noise, and keeping early hours; Mr [[Richard]]
+imperceptibly [[Rose|rose]] to an important position in the family, as one who
 had influence over this mysterious lodger, and could negotiate with
 him, for good or evil, when nobody else durst approach his person.
 
-If the truth must be told, even Mr Swiveller’s approaches to the single
+If the [[Truth|truth]] must be told, even Mr Swiveller’s approaches to the single
 gentleman were of a very distant kind, and met with small
 encouragement; but, as he never returned from a monosyllabic conference
 with the unknown, without quoting such expressions as ‘Swiveller, I
@@ -43,21 +43,21 @@ But quite apart from, and independent of, this source of popularity, Mr
 Swiveller had another, which promised to be equally enduring, and to
 lighten his position considerably.
 
-He found favour in the eyes of Miss Sally Brass.  Let not the light
+He found favour in the eyes of Miss [[Sally Brass]].  Let not the light
 scorners of female fascination erect their ears to listen to a new tale
-of love which shall serve them for a jest; for Miss Brass, however
+of [[Love|love]] which shall serve them for a jest; for Miss Brass, however
 accurately formed to be beloved, was not of the loving kind.  That
 amiable virgin, having clung to the skirts of the Law from her earliest
 youth; having sustained herself by their aid, as it were, in her first
-running alone, and maintained a firm grasp upon them ever since; had
-passed her life in a kind of legal childhood.  She had been remarkable,
+running [[Alone|alone]], and maintained a firm grasp upon them ever since; had
+passed her life in a kind of legal [[Childhood|childhood]].  She had been remarkable,
 when a tender prattler for an uncommon talent in counterfeiting the
 walk and manner of a bailiff: in which character she had learned to tap
 her little playfellows on the shoulder, and to carry them off to
-imaginary sponging-houses, with a correctness of imitation which was
+imaginary sponging-houses, with a correctness of [[Imitation|imitation]] which was
 the surprise and delight of all who witnessed her performances, and
 which was only to be exceeded by her exquisite manner of putting an
-execution into her doll’s house, and taking an exact inventory of the
+execution into her doll’s [[house]], and taking an exact inventory of the
 chairs and tables.  These artless sports had naturally soothed and
 cheered the decline of her widowed father: a most exemplary gentleman
 (called ‘old Foxey’ by his friends from his extreme sagacity,) who
@@ -76,23 +76,23 @@ with such high tastes, proficiency in those gentler and softer arts in
 which women usually excel, was scarcely to be looked for.  Miss Sally’s
 accomplishments were all of a masculine and strictly legal kind.  They
 began with the practice of an attorney and they ended with it.  She was
-in a state of lawful innocence, so to speak.  The law had been her
-nurse.  And, as bandy-legs or such physical deformities in children are
+in a state of lawful [[innocence]], so to speak.  The law had been her
+[[Nurse|nurse]].  And, as bandy-legs or such physical deformities in children are
 held to be the consequence of bad nursing, so, if in a mind so
 beautiful any moral twist or handiness could be found, Miss Sally
-Brass’s nurse was alone to blame.
+Brass’s [[Nurse|nurse]] was [[Alone|alone]] to blame.
 
 It was upon this lady, then, that Mr Swiveller burst in full freshness as
 something new and hitherto undreamed of, lighting up the office with
-scraps of song and merriment, conjuring with inkstands and boxes of
+scraps of [[Song|song]] and merriment, conjuring with inkstands and boxes of
 wafers, catching three oranges in one hand, balancing stools upon his
 chin and penknives on his nose, and constantly performing a hundred
-other feats with equal ingenuity; for with such unbendings did Richard,
+other feats with equal ingenuity; for with such unbendings did [[Richard]],
 in Mr Brass’s absence, relieve the tedium of his confinement.  These
 social qualities, which Miss Sally first discovered by accident,
 gradually made such an impression upon her, that she would entreat Mr
 Swiveller to relax as though she were not by, which Mr Swiveller,
-nothing loth, would readily consent to do.  By these means a friendship
+nothing loth, would readily consent to do.  By these means a [[Friendship|friendship]]
 sprung up between them.  Mr Swiveller gradually came to look upon her
 as her brother Sampson did, and as he would have looked upon any other
 clerk.  He imparted to her the mystery of going the odd man or plain
@@ -113,14 +113,14 @@ office, or had a clean face, or took off the coarse apron, or looked
 out of any one of the windows, or stood at the street-door for a breath
 of air, or had any rest or enjoyment whatever.  Nobody ever came to see
 her, nobody spoke of her, nobody cared about her.  Mr Brass had said
-once, that he believed she was a ‘love-child’ (which means anything but
-a child of love), and that was all the information Richard Swiveller
+once, that he believed she was a ‘[[Love|love]]-[[Child|child]]’ (which means anything but
+a [[Child|child]] of [[Love|love]]), and that was all the information [[Richard]] Swiveller
 could obtain.
 
 ‘It’s of no use asking the dragon,’ thought Dick one day, as he sat
-contemplating the features of Miss Sally Brass.  ‘I suspect if I asked
-any questions on that head, our alliance would be at an end.  I wonder
-whether she is a dragon by-the-bye, or something in the mermaid way.
+contemplating the features of Miss [[Sally Brass]].  ‘I suspect if I asked
+any questions on that head, our alliance would be at an end.  I [[Wonder|wonder]]
+whether she is a dragon by-the-bye, or something in the [[Mermaid|mermaid]] way.
 She has rather a scaly appearance.  But mermaids are fond of looking at
 themselves in the glass, which she can’t be.  And they have a habit of
 combing their hair, which she hasn’t.  No, she’s a dragon.’
@@ -133,7 +133,7 @@ her pen as usual on the green dress, and uprose from her seat.
 ‘To dinner!’ thought Dick, ‘that’s another circumstance.  I don’t
 believe that small servant ever has anything to eat.’
 
-‘Sammy won’t be home,’ said Miss Brass.  ‘Stop till I come back.  I
+‘Sammy won’t be [[Home|home]],’ said Miss Brass.  ‘Stop till I come back.  I
 sha’n’t be long.’
 
 Dick nodded, and followed Miss Brass--with his eyes to the door, and
@@ -141,15 +141,15 @@ with his ears to a little back parlour, where she and her brother took
 their meals.
 
 ‘Now,’ said Dick, walking up and down with his hands in his pockets,
-‘I’d give something--if I had it--to know how they use that child, and
+‘I’d give something--if I had it--to know how they use that [[Child|child]], and
 where they keep her.  My mother must have been a very inquisitive
-woman; I have no doubt I’m marked with a note of interrogation
+woman; I have no [[Doubt|doubt]] I’m marked with a note of interrogation
 somewhere.  My feelings I smother, but thou hast been the cause of this
 anguish, my--upon my word,’ said Mr Swiveller, checking himself and
 falling thoughtfully into the client’s chair, ‘I should like to know
 how they use her!’
 
-After running on, in this way, for some time, Mr Swiveller softly
+After running on, in this way, for some [[Time|time]], Mr Swiveller softly
 opened the office door, with the intention of darting across the street
 for a glass of the mild porter.  At that moment he caught a parting
 glimpse of the brown head-dress of Miss Brass flitting down the kitchen
@@ -161,16 +161,16 @@ disappear in the darkness below, he groped his way down, and arrived at
 the door of a back kitchen immediately after Miss Brass had entered the
 same, bearing in her hand a cold leg of mutton.  It was a very dark
 miserable place, very low and very damp: the walls disfigured by a
-thousand rents and blotches.  The water was trickling out of a leaky
+thousand rents and blotches.  The [[Water|water]] was trickling out of a leaky
 butt, and a most wretched cat was lapping up the drops with the sickly
 eagerness of starvation.  The grate, which was a wide one, was wound
 and screwed up tight, so as to hold no more than a little thin sandwich
-of fire.  Everything was locked up; the coal-cellar, the candle-box,
+of [[Fire|fire]].  Everything was locked up; the coal-cellar, the candle-box,
 the salt-box, the meat-safe, were all padlocked.  There was nothing
 that a beetle could have lunched upon.  The pinched and meagre aspect
 of the place would have killed a chameleon.  He would have known, at
 the first mouthful, that the air was not eatable, and must have given up
-the ghost in despair. The small servant stood with humility in presence
+the [[Ghost|ghost]] in [[Despair|despair]]. The small servant stood with [[Humility|humility]] in presence
 of Miss Sally, and hung her head.
 
 ‘Are you there?’ said Miss Sally.
@@ -213,7 +213,7 @@ finished the potatoes.
 
 It was plain that some extraordinary grudge was working in Miss Brass’s
 gentle breast, and that it was that which impelled her, without the
-smallest present cause, to rap the child with the blade of the knife,
+smallest present cause, to rap the [[Child|child]] with the blade of the knife,
 now on her hand, now on her head, and now on her back, as if she found
 it quite impossible to stand so close to her without administering a
 few slight knocks.  But Mr Swiveller was not a little surprised to see
@@ -223,4 +223,4 @@ accomplish it, dart suddenly forward, and falling on the small servant
 give her some hard blows with her clenched hand.  The victim cried, but
 in a subdued manner as if she feared to raise her voice, and Miss
 Sally, comforting herself with a pinch of snuff, ascended the stairs,
-just as Richard had safely reached the office.
+just as [[Richard]] had safely reached the office.

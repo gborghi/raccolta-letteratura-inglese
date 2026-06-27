@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T was the scare of the burglary that actually started the story towards (part 2)"
+title: "[[FourFaultlessFelons]] — T was the scare of the burglary that actually started the story towards (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -40,15 +40,15 @@ that his mouth was always twisting with mockery, rather as if it had
 
 taught itself always to mock, and yet his dark, sunken eyes were not only
 
-grave but in some sort of mad way, enthusiastic. If the grotesque beard
+[[Grave|grave]] but in some sort of mad way, enthusiastic. If the [[Grotesque|grotesque]] beard
 
 could have completely covered the mouth like a mask, they might have been
 
-the eyes of a fanatic in the desert shouting a battle-cry of belief. He
+the eyes of a fanatic in the [[Desert|desert]] shouting a battle-cry of belief. He
 
 must be deeply indignant with society to have turned to this lawless
 
-life; or perhaps he had had a tragedy with a woman or something. She
+life; or perhaps he had had a [[Tragedy|tragedy]] with a woman or something. She
 
 wondered what the real story was, and what the woman was like.
 
@@ -62,13 +62,13 @@ embarrassment about talking.
 
 
 
-"It's jolly fine of you to stand there like that-well, that's another
+"It's jolly fine of you to stand there like that-[[Well|well]], that's another
 
 trait. The English Lady is brave; Edith Cavell was a type of the tribe.
 
 But there are other tribes now, and that sort of brooch generally belongs
 
-to the last sort of person for whom it was made. That alone would be a
+to the last sort of person for whom it was made. That [[Alone|alone]] would be a
 
 justification for the trade of burglary, which keeps things briskly in
 
@@ -84,11 +84,11 @@ straight away, at the expense of my professional profits. But why should
 
 some vulgar cockatoo of a sham Countess own a thing like that? We want
 
-more theft, house-breaking and highway robbery to shift and rearrange the
+more theft, [[house]]-breaking and highway robbery to shift and rearrange the
 
 furniture of society; to regroup-if you follow me-its goods and chattels,
 
-as if after a spring-cleaning; to--"
+as if after a [[spring]]-cleaning; to--"
 
 
 
@@ -102,7 +102,7 @@ doorway, and looking a very small and shrunken figure in an enormous
 
 purple dressing-gown. It was not until that moment that she awoke to
 
-astonishment at her own silence and composure; or saw anything odd in the
+astonishment at her own [[Silence|silence]] and composure; or saw anything odd in the
 
 fact that she had stood listening to the criminal in front of the safe,
 
@@ -172,7 +172,7 @@ this? Why here, of all places?"
 
 
 
-"Why, to tell you the truth," said the other, "I thought that our
+"Why, to tell you the [[Truth|truth]]," said the other, "I thought that our
 
 respected Papa might want a little moral support."
 
@@ -184,7 +184,7 @@ of moral support you are!"
 
 
 
-"I am a very moral support," observed the stranger with proper pride.
+"I am a very moral support," observed the stranger with proper [[Pride|pride]].
 
 "Don't you realize it? I am the only real son and heir. I am the only man
 

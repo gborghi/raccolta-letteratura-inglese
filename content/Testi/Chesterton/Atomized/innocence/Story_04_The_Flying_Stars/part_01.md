@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Flying Stars (part 1)"
+title: "[[innocence]] — The Flying [[Stars]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -14,78 +14,78 @@ tags:
 </nav>
 
 
-                         The Flying Stars
+                         The Flying [[Stars]]
 
-"The most beautiful crime I ever committed," Flambeau would say in his
+"The most beautiful crime I ever committed," [[Flambeau]] would say in his
 highly moral old age, "was also, by a singular coincidence, my last.
-It was committed at Christmas.  As an artist I had always attempted
+It was committed at Christmas.  As an [[Artist|artist]] I had always attempted
 to provide crimes suitable to the special season or landscapes in which I
-found myself, choosing this or that terrace or garden for a catastrophe,
+found myself, choosing this or that terrace or [[Garden|garden]] for a catastrophe,
 as if for a statuary group.  Thus squires should be swindled in long rooms
 panelled with oak; while Jews, on the other hand, should rather find
 themselves unexpectedly penniless among the lights and screens of the
 Cafe Riche.  Thus, in England, if I wished to relieve a dean of his riches
 (which is not so easy as you might suppose), I wished to frame him, if I make
-myself clear, in the green lawns and grey towers of some cathedral town.
+myself clear, in the green lawns and grey towers of some [[Cathedral|cathedral]] town.
 Similarly, in France, when I had got money out of a rich and wicked peasant
 (which is almost impossible), it gratified me to get his indignant head
 relieved against a grey line of clipped poplars, and those solemn plains
 of Gaul over which broods the mighty spirit of Millet.
 
-"Well, my last crime was a Christmas crime, a cheery, cosy, English
+"[[Well]], my last crime was a Christmas crime, a cheery, cosy, English
 middle-class crime; a crime of Charles Dickens.  I did it in a good old
-middle-class house near Putney, a house with a crescent of carriage drive,
-a house with a stable by the side of it, a house with the name on the two
-outer gates, a house with a monkey tree.  Enough, you know the species.
-I really think my imitation of Dickens's style was dexterous and literary.
+middle-class [[house]] near Putney, a [[house]] with a crescent of carriage drive,
+a [[house]] with a stable by the side of it, a [[house]] with the name on the two
+outer gates, a [[house]] with a monkey tree.  Enough, you know the species.
+I really think my [[Imitation|imitation]] of Dickens's style was dexterous and literary.
 It seems almost a pity I repented the same evening."
 
-Flambeau would then proceed to tell the story from the inside;
+[[Flambeau]] would then proceed to tell the story from the inside;
 and even from the inside it was odd.  Seen from the outside
 it was perfectly incomprehensible, and it is from the outside
 that the stranger must study it.  From this standpoint the drama
-may be said to have begun when the front doors of the house
-with the stable opened on the garden with the monkey tree,
-and a young girl came out with bread to feed the birds
+may be said to have begun when the front doors of the [[house]]
+with the stable opened on the [[Garden|garden]] with the monkey tree,
+and a young girl came out with bread to feed the [[Birds|birds]]
 on the afternoon of Boxing Day.  She had a pretty face,
 with brave brown eyes; but her figure was beyond conjecture,
 for she was so wrapped up in brown furs that it was hard to say
 which was hair and which was fur.  But for the attractive face
 she might have been a small toddling bear.
 
-The winter afternoon was reddening towards evening,
+The [[Winter|winter]] afternoon was reddening towards evening,
 and already a ruby light was rolled over the bloomless beds,
-filling them, as it were, with the ghosts of the dead roses.
-On one side of the house stood the stable, on the other an alley
-or cloister of laurels led to the larger garden behind.
-The young lady, having scattered bread for the birds
-(for the fourth or fifth time that day, because the dog
+filling them, as it were, with the [[Ghosts|ghosts]] of the dead roses.
+On one side of the [[house]] stood the stable, on the other an alley
+or cloister of laurels led to the larger [[Garden|garden]] behind.
+The young lady, having scattered bread for the [[Birds|birds]]
+(for the fourth or fifth [[Time|time]] that day, because the dog
 ate it), passed unobutrusively down the lane of laurels
 and into a glimmering plantation of evergreens behind.
-Here she gave an exclamation of wonder, real or ritual,
-and looking up at the high garden wall above her, beheld it
+Here she gave an exclamation of [[Wonder|wonder]], real or ritual,
+and looking up at the high [[Garden|garden]] wall above her, beheld it
 fantastically bestridden by a somewhat fantastic figure.
 
 "Oh, don't jump, Mr. Crook," she called out in some alarm;
 "it's much too high."
 
-The individual riding the party wall like an aerial horse was a tall,
+The individual riding the party wall like an aerial [[Horse|horse]] was a tall,
 angular young man, with dark hair sticking up like a hair brush, intelligent
 and even distinguished lineaments, but a sallow and almost alien complexion.
 This showed the more plainly because he wore an aggressive red tie,
 the only part of his costume of which he seemed to take any care.
 Perhaps it was a symbol.  He took no notice of the girl's alarmed adjuration,
 but leapt like a grasshopper to the ground beside her, where he might
-very well have broken his legs.
+very [[Well|well]] have broken his legs.
 
 "I think I was meant to be a burglar," he said placidly,
-"and I have no doubt I should have been if I hadn't happened
-to be born in that nice house next door.  I can't see any harm
+"and I have no [[Doubt|doubt]] I should have been if I hadn't happened
+to be born in that nice [[house]] next door.  I can't see any harm
 in it, anyhow."
 
 "How can you say such things!" she remonstrated.
 
-"Well," said the young man, "if you're born on the wrong side of the wall,
+"[[Well]]," said the young man, "if you're born on the wrong side of the wall,
 I can't see that it's wrong to climb over it."
 
 "I never know what you will say or do next," she said.
@@ -97,8 +97,8 @@ on the right side of the wall now."
 
 "Whichever side you are on," said the young man named Crook.
 
-As they went together through the laurels towards the front garden a motor
-horn sounded thrice, coming nearer and nearer, and a car of splendid speed,
+As they went together through the laurels towards the front [[Garden|garden]] a motor
+horn sounded thrice, coming nearer and nearer, and a car of splendid [[Speed|speed]],
 great elegance, and a pale green colour swept up to the front doors like a
 bird and stood throbbing.
 
@@ -109,13 +109,13 @@ Miss Adams, that your Santa Claus was so modern as this."
 "Oh, that's my godfather, Sir Leopold Fischer.  He always comes
 on Boxing Day."
 
-Then, after an innocent pause, which unconsciously betrayed some lack
+Then, after an [[Innocent|innocent]] pause, which unconsciously betrayed some lack
 of enthusiasm, Ruby Adams added:
 
 "He is very kind."
 
-John Crook, journalist, had heard of that eminent City magnate;
-and it was not his fault if the City magnate had not heard of him;
+John Crook, journalist, had heard of that eminent [[City]] magnate;
+and it was not his fault if the [[City]] magnate had not heard of him;
 for in certain articles in The Clarion or The New Age Sir Leopold
 had been dealt with austerely.  But he said nothing and grimly watched
 the unloading of the motor-car, which was rather a long process.
@@ -135,7 +135,7 @@ had opened in the middle, and Colonel Adams (father of the furry
 young lady) had come out himself to invite his eminent guest inside.
 He was a tall, sunburnt, and very silent man, who wore a red smoking-cap
 like a fez, making him look like one of the English Sirdars or Pashas
-in Egypt.  With him was his brother-in-law, lately come from Canada,
+in [[Egypt]].  With him was his brother-in-law, lately come from Canada,
 a big and rather boisterous young gentleman-farmer, with a yellow beard,
 by name James Blount.  With him also was the more insignificant figure
 of the priest from the neighbouring Roman Church; for the colonel's

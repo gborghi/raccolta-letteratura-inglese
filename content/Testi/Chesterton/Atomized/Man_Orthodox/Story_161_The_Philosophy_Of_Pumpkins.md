@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Philosophy Of Pumpkins"
+title: "Man Orthodox — The [[philosophy|Philosophy]] Of Pumpkins"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-THE PHILOSOPHY OF PUMPKINS
+THE [[philosophy|PHILOSOPHY]] OF PUMPKINS
 
 There is no philosophical case against miracles.
-There are such things as the laws of Nature, rationally speaking.
-What everybody knows is this only, that there is repetition in nature.
-What every body knows is that pumpkins produce pumpkins.
+There are such things as the laws of [[Nature]], rationally speaking.
+What everybody knows is this only, that there is repetition in [[Nature|nature]].
+What every [[Body|body]] knows is that pumpkins produce pumpkins.
 What nobody knows is why they should not produce elephants and giraffes.
 
 The question of miracles is merely this.  Do you know why a pumpkin
@@ -54,8 +54,8 @@ You have not even seen a pumpkin.
 `IN THE BEGINNING'
 
 What is right with the world is the world.  In fact, nearly every thing
-else is wrong with it.  This is that great truth in the tremendous
-tale of Creation, a truth that our people must remember or perish.
+else is wrong with it.  This is that great [[Truth|truth]] in the tremendous
+tale of Creation, a [[Truth|truth]] that our people must remember or perish.
 It is at the beginning that things are good, and not (as the more
 pallid progressives say) only at the end.  The primordial things--
 existence, energy, fruition--are good so far as they go.
@@ -65,7 +65,7 @@ often perfectly pestilent.  You can use poppies to drug people,
 or birch trees to beat them, or stones to make an idol, or corn
 to make a corner; but it remains true that, in the abstract,
 before you have done anything, each of these four things is
-in strict truth a glory, a beneficent speciality and variety.
+in strict [[Truth|truth]] a glory, a beneficent speciality and variety.
 We do praise the Lord that there are birch trees growing amongst
 the rocks and poppies amongst the corn; we do praise the Lord,
 even if we do not believe in Him.  We do admire and applaud
@@ -82,24 +82,24 @@ are good things, of that I am more brutally certain than I can say.
 But as for what will happen to them, that is to take
 a step into dogma and prophecy.  I speak here, of course,
 solely of my personal feelings, not even of my reasoned creed.
-But on my instincts alone I should have no notion what would
+But on my instincts [[Alone|alone]] I should have no notion what would
 ultimately happen to this material world I think so magnificent.
 I am an agnostic, like most people with a positive theology.
 But I do affirm, with the full weight of sincerity, that trees
-and flowers are good at the beginning, whatever happens to them
+and [[Flowers|flowers]] are good at the beginning, whatever happens to them
 at the end; that human lives were good at the beginning,
 whatever happens to them in the end.  The ordinary modern
 progressive position is that this is a bad universe, but will
 certainly get better.  I say it is certainly a good universe,
-even if it gets worse.  I say that these trees and flowers,
-stars and sexes, are primarily, not merely ultimately, good.
+even if it gets worse.  I say that these trees and [[Flowers|flowers]],
+[[Stars|stars]] and sexes, are primarily, not merely ultimately, good.
 In the Beginning the power beyond words created heaven and earth.
 In the Beginning He looked on them and saw that they were good.
 
 All this unavoidable theory (for theory is always unavoidable)
 may be popularly pulled together thus.  We are to regard existence
 as a raid or great adventure; it is to be judged, therefore,
-not by what calamities it encounters, but by what flag it follows
+not by what calamities it encounters, but by what [[Flag|flag]] it follows
 and what high town it assaults.  The most dangerous thing in
 the world is to be alive; one is always in danger of one's life.
 But anyone who shrinks from this is a traitor to the great scheme

@@ -1,5 +1,5 @@
 ---
-title: "Some Words with a Mummy (part 4)"
+title: "[[Some Words with a Mummy]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Some-Words-with-a-Mummy-(Poe)"
@@ -18,7 +18,7 @@ tags:
       expressed in regard to the somewhat remarkable fact of Allamistakeo’s
       still remaining alive.
 
-      “I should have thought,” observed Mr. Buckingham, “that it is high time
+      “I should have thought,” observed Mr. [[Buckingham]], “that it is high [[Time|time]]
       you were dead.”
 
 
@@ -32,9 +32,9 @@ tags:
       misjudged. It had been five thousand and fifty years and some months since
       he had been consigned to the catacombs at Eleithias.
 
-      “But my remark,” resumed Mr. Buckingham, “had no reference to your age at
+      “But my remark,” resumed Mr. [[Buckingham]], “had no reference to your age at
       the period of interment (I am willing to grant, in fact, that you are
-      still a young man), and my illusion was to the immensity of time during
+      still a young man), and my illusion was to the immensity of [[Time|time]] during
       which, by your own showing, you must have been done up in asphaltum.”
 
 
@@ -43,14 +43,14 @@ tags:
       “In asphaltum,” persisted Mr. B.
 
       “Ah, yes; I have some faint notion of what you mean; it might be made to
-      answer, no doubt—but in my time we employed scarcely any thing else
+      answer, no [[Doubt|doubt]]—but in my [[Time|time]] we employed scarcely any thing else
       than the Bichloride of Mercury.”
 
 
       “But what we are especially at a loss to understand,” said Doctor
-      Ponnonner, “is how it happens that, having been dead and buried in Egypt
+      Ponnonner, “is how it happens that, having been dead and buried in [[Egypt]]
       five thousand years ago, you are here to-day all alive and looking so
-      delightfully well.”
+      delightfully [[Well|well]].”
 
 
       “Had I been, as you say, dead,” replied the Count, “it is more than
@@ -65,23 +65,23 @@ tags:
       “Why, not altogether.”
 
 
-      “Ah, I perceive—a deplorable condition of ignorance! Well I cannot
+      “Ah, I perceive—a deplorable condition of ignorance! [[Well]] I cannot
       enter into details just now: but it is necessary to explain that to embalm
-      (properly speaking), in Egypt, was to arrest indefinitely all the animal
+      (properly speaking), in [[Egypt]], was to arrest indefinitely all the animal
       functions subjected to the process. I use the word ‘animal’ in its widest
       sense, as including the physical not more than the moral and vital being.
       I repeat that the leading principle of embalmment consisted, with us, in
       the immediately arresting, and holding in perpetual abeyance, all the
       animal functions subjected to the process. To be brief, in whatever
       condition the individual was, at the period of embalmment, in that
-      condition he remained. Now, as it is my good fortune to be of the blood of
+      condition he remained. Now, as it is my good fortune to be of the [[Blood|blood]] of
       the Scarabaeus, I was embalmed alive, as you see me at present.”
 
 
-      “The blood of the Scarabaeus!” exclaimed Doctor Ponnonner.
+      “The [[Blood|blood]] of the Scarabaeus!” exclaimed Doctor Ponnonner.
 
       “Yes. The Scarabaeus was the insignium or the ‘arms,’ of a very
-      distinguished and very rare patrician family. To be ‘of the blood of the
+      distinguished and very rare patrician family. To be ‘of the [[Blood|blood]] of the
       Scarabaeus,’ is merely to be one of that family of which the Scarabaeus is
       the insignium. I speak figuratively.”
 
@@ -89,18 +89,18 @@ tags:
       “But what has this to do with you being alive?”
 
 
-      “Why, it is the general custom in Egypt to deprive a corpse, before
-      embalmment, of its bowels and brains; the race of the Scarabaei alone did
+      “Why, it is the general custom in [[Egypt]] to deprive a corpse, before
+      embalmment, of its bowels and brains; the race of the Scarabaei [[Alone|alone]] did
       not coincide with the custom. Had I not been a Scarabeus, therefore, I
       should have been without bowels and brains; and without either it is
       inconvenient to live.”
 
 
-      “I perceive that,” said Mr. Buckingham, “and I presume that all the entire
+      “I perceive that,” said Mr. [[Buckingham]], “and I presume that all the entire
       mummies that come to hand are of the race of Scarabaei.”
 
 
-      “Beyond doubt.”
+      “Beyond [[Doubt|doubt]].”
 
 
       “I thought,” said Mr. Gliddon, very meekly, “that the Scarabaeus was one
@@ -139,24 +139,24 @@ tags:
 
 
       “With great pleasure!” answered the Mummy, after surveying me leisurely
-      through his eye-glass—for it was the first time I had ventured to
+      through his eye-glass—for it was the first [[Time|time]] I had ventured to
       address him a direct question.
 
       “With great pleasure,” he said. “The usual duration of man’s life, in my
-      time, was about eight hundred years. Few men died, unless by most
+      [[Time|time]], was about eight hundred years. Few men died, unless by most
       extraordinary accident, before the age of six hundred; few lived longer
       than a decade of centuries; but eight were considered the natural term.
       After the discovery of the embalming principle, as I have already
       described it to you, it occurred to our philosophers that a laudable
-      curiosity might be gratified, and, at the same time, the interests of
+      curiosity might be gratified, and, at the same [[Time|time]], the interests of
       science much advanced, by living this natural term in installments. In the
-      case of history, indeed, experience demonstrated that something of this
+      case of [[history]], indeed, experience demonstrated that something of this
       kind was indispensable. An historian, for example, having attained the age
       of five hundred, would write a book with great labor and then get himself
       carefully embalmed; leaving instructions to his executors pro tem., that
       they should cause him to be revivified after the lapse of a certain period—say
       five or six hundred years. Resuming existence at the expiration of this
-      time, he would invariably find his great work converted into a species of
+      [[Time|time]], he would invariably find his great work converted into a species of
       hap-hazard note-book—that is to say, into a kind of literary arena
       for the conflicting guesses, riddles, and personal squabbles of whole
       herds of exasperated commentators. These guesses, etc., which passed under
@@ -168,5 +168,5 @@ tags:
       immediately in correcting, from his own private knowledge and experience,
       the traditions of the day concerning the epoch at which he had originally
       lived. Now this process of re-scription and personal rectification,
-      pursued by various individual sages from time to time, had the effect of
-      preventing our history from degenerating into absolute fable.”
+      pursued by various individual sages from [[Time|time]] to [[Time|time]], had the effect of
+      preventing our [[history]] from degenerating into absolute [[Fable|fable]].”

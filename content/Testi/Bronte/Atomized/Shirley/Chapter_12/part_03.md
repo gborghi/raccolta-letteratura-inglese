@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 12 (part 3)"
+title: "[[Shirley]] — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-your friend is beyond and above all doubt, your own worthiness to be his
+your friend is beyond and above all [[Doubt|doubt]], your own worthiness to be his
 
 associate often becomes a matter of question."
 
@@ -32,13 +32,13 @@ Your uncle, by-the-bye, is not a bad specimen of the elderly gentleman.
 
 I am always glad to see his brown, keen, sensible old face, either in my
 
-own house or any other. Are you fond of him? Is he kind to you? Now,
+own [[house]] or any other. Are you fond of him? Is he kind to you? Now,
 
-speak the truth."
+speak the [[Truth|truth]]."
 
 
 
-"He has brought me up from childhood, I doubt not, precisely as he would
+"He has brought me up from [[Childhood|childhood]], I [[Doubt|doubt]] not, precisely as he would
 
 have brought up his own daughter, if he had had one; and that is
 
@@ -52,7 +52,7 @@ presence than in it."
 
 
 
-"Yes, in company; but he is stern and silent at home. As he puts away
+"Yes, in company; but he is stern and silent at [[Home|home]]. As he puts away
 
 his cane and shovel-hat in the rectory hall, so he locks his liveliness
 
@@ -76,17 +76,17 @@ understand such superfine distinctions."
 
 
 
-"Oh yes! Good-nature implies indulgence, which he has not; geniality,
+"Oh yes! Good-[[Nature|nature]] implies indulgence, which he has not; geniality,
 
 warmth of heart, which he does not own; and genuine justice is the
 
-offspring of sympathy and considerateness, of which, I can well
+offspring of sympathy and considerateness, of which, I can [[Well|well]]
 
-conceive, my bronzed old friend is quite innocent."
+conceive, my bronzed old friend is quite [[Innocent|innocent]]."
 
 
 
-"I often wonder, Shirley, whether most men resemble my uncle in their
+"I often [[Wonder|wonder]], [[Shirley]], whether most men resemble my uncle in their
 
 domestic relations; whether it is necessary to be new and unfamiliar to
 
@@ -106,11 +106,11 @@ they are necessarily and universally different from us--fickle, soon
 
 petrifying, unsympathizing--I would never marry. I should not like to
 
-find out that what I loved did not love me, that it was weary of me, and
+find out that what I loved did not [[Love|love]] me, that it was weary of me, and
 
 that whatever effort I might make to please would hereafter be worse
 
-than useless, since it was inevitably in its nature to change and become
+than useless, since it was inevitably in its [[Nature|nature]] to change and become
 
 indifferent. That discovery once made, what should I long for? To go
 
@@ -130,25 +130,25 @@ being a burden and a bore--an inevitable burden, a ceaseless bore! Now,
 
 when I feel my company superfluous, I can comfortably fold my
 
-independence round me like a mantle, and drop my pride like a veil, and
+independence round me like a mantle, and drop my [[Pride|pride]] like a veil, and
 
-withdraw to solitude. If married, that could not be."
+withdraw to [[Solitude|solitude]]. If married, that could not be."
 
 
 
-"I wonder we don't all make up our minds to remain single," said
+"I [[Wonder|wonder]] we don't all make up our minds to remain single," said
 
 Caroline. "We should if we listened to the wisdom of experience. My
 
-uncle always speaks of marriage as a burden; and I believe whenever he
+uncle always speaks of [[Marriage|marriage]] as a burden; and I believe whenever he
 
-hears of a man being married he invariably regards him as a fool, or, at
+hears of a man being married he invariably regards him as a [[Fool|fool]], or, at
 
 any rate, as doing a foolish thing."
 
 
 
-"But, Caroline, men are not all like your uncle. Surely not. I hope
+"But, Caroline, men are not all like your uncle. Surely not. I [[Hope|hope]]
 
 not."
 
@@ -158,7 +158,7 @@ She paused and mused.
 
 
 
-"I suppose we each find an exception in the one we love, till we _are_
+"I suppose we each find an exception in the one we [[Love|love]], till we _are_
 
 married," suggested Caroline.
 
@@ -174,9 +174,9 @@ never harden against us; we read in his eyes that faithful
 
 feeling--affection. I don't think we should trust to what they call
 
-passion at all, Caroline. I believe it is a mere fire of dry sticks,
+passion at all, Caroline. I believe it is a mere [[Fire|fire]] of dry sticks,
 
-blazing up and vanishing. But we watch him, and see him kind to animals,
+blazing up and vanishing. But we watch him, and see him kind to [[Animals|animals]],
 
 to little children, to poor people. He is kind to us likewise, good,
 
@@ -188,9 +188,9 @@ He likes them not only for vain and selfish reasons, but as _we_ like
 
 him--because we like him. Then we observe that he is just, that he
 
-always speaks the truth, that he is conscientious. We feel joy and peace
+always speaks the [[Truth|truth]], that he is conscientious. We feel joy and peace
 
-when he comes into a room; we feel sadness and trouble when he leaves
+when he comes into a room; we feel sadness and trouble when he [[Leaves|leaves]]
 
 it. We know that this man has been a kind son, that he is a kind
 
@@ -214,7 +214,7 @@ month,' he would say."
 
 
 
-"If they are true oracles, it is good never to fall in love."
+"If they are true oracles, it is good never to fall in [[Love|love]]."
 
 
 
@@ -222,7 +222,7 @@ month,' he would say."
 
 
 
-"I choose to doubt their truth."
+"I choose to [[Doubt|doubt]] their [[Truth|truth]]."
 
 
 
@@ -242,7 +242,7 @@ month,' he would say."
 
 comes barefoot to my door; the mouse that steals out of the cranny in
 
-the wainscot; the bird that in frost and snow pecks at my window for a
+the wainscot; the bird that in [[Frost|frost]] and [[Snow|snow]] pecks at my [[Window|window]] for a
 
 crumb; the dog that licks my hand and sits beside my knee."
 

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 80)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 80)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -26,7 +26,7 @@ but why we do not want her to die. For this purpose the official and
 
 conventional compliments or claims can never get any farther than
 
-pompous abstractions about Law and Justice and Truth; the ideals which
+pompous abstractions about Law and Justice and [[Truth]]; the ideals which
 
 England accepts as every civilised state accepts them, and violates as
 
@@ -34,9 +34,9 @@ every civilised state violates them. That is not the way in which the
 
 picture of any people has ever been painted on the sympathetic
 
-imagination of the world. Enthusiasts for old Japan did not tell us that
+[[Imagination|imagination]] of the world. Enthusiasts for old Japan did not tell us that
 
-the Japs recognised the existence of abstract morality; but that they
+the Japs recognised the existence of abstract [[morality]]; but that they
 
 lived in paper houses or wrote letters with paint-brushes. Men who
 
@@ -46,11 +46,11 @@ they are monotheists or moralists; they filled our romances with the
 
 rush of Arab steeds or the colours of strange tents or carpets. What we
 
-want is somebody who will do for the Englishman with his front garden
+want is somebody who will do for the Englishman with his front [[Garden|garden]]
 
-what was done for the Jap and his paper house; who shall understand the
+what was done for the Jap and his paper [[house]]; who shall understand the
 
-Englishman with his dog as well as the Arab with his horse. In a word,
+Englishman with his dog as [[Well|well]] as the Arab with his [[Horse|horse]]. In a word,
 
 what nobody has really tried to do is the one thing that really wants
 
@@ -60,13 +60,13 @@ small nationality.
 
 
 
-For it is a wild folly to suppose that nations will love each other
+For it is a wild folly to suppose that nations will [[Love|love]] each other
 
 because they are alike. They will never really do that unless they are
 
-really alike; and then they will not be nations. Nations can love each
+really alike; and then they will not be nations. Nations can [[Love|love]] each
 
-other as men and women love each other, not because they are alike but
+other as men and women [[Love|love]] each other, not because they are alike but
 
 because they are different. It can easily be shown, I fancy, that in
 
@@ -76,9 +76,9 @@ foreign people, it has always been accompanied with a particular and
 
 positive interest in their most foreign customs and their most foreign
 
-externals. The man who made a romance of the Scotch High-lander made a
+externals. The man who made a [[Romance|romance]] of the Scotch High-lander made a
 
-romance of his kilt and even of his dirk; the friend of the Red Indians
+[[Romance|romance]] of his kilt and even of his dirk; the friend of the Red Indians
 
 was interested in picture writing and had some tendency to be
 
@@ -86,7 +86,7 @@ interested in scalping. To take a more serious example, such nations as
 
 Serbia had been largely commended to international consideration by the
 
-study of Serbian epics, or Serbian songs. The epoch of negro
+study of Serbian epics, or Serbian [[songs]]. The epoch of negro
 
 emancipation was also the epoch of negro melodies. Those who wept over
 
@@ -120,7 +120,7 @@ private life. In that sense there is no public life. In that sense there
 
 is no public opinion. There have never been those prairie fires of
 
-public opinion in England which often sweep over America. At any rate,
+public opinion in England which often sweep over [[america|America]]. At any rate,
 
 there have never been any such popular revolutions since the popular
 
@@ -138,7 +138,7 @@ mysterious people, to explain or suggest why they like tall hedges and
 
 heavy breakfasts and crooked roads and small gardens with large fences,
 
-and why they alone among Christians have kept quite consistently the
+and why they [[Alone|alone]] among Christians have kept quite consistently the
 
 great Christian glory of the open fireplace, here would be a strange and
 
@@ -146,7 +146,7 @@ stimulating opportunity for any of the artists in words, who study the
 
 souls of strange peoples. That would be the true way to create a
 
-friendship between England and America, or between England and anything
+[[Friendship|friendship]] between England and [[america|America]], or between England and anything
 
 else; yes, even between England and Ireland. For this justice at least
 
@@ -160,9 +160,9 @@ I have already noted the commonplace that in order to teach
 
 internationalism we must talk nationalism. We must make the nations as
 
-nations less odious or mysterious to each other. We do not make men love
+nations less odious or mysterious to each other. We do not make men [[Love|love]]
 
-each other by describing a monster with a million arms and legs, but by
+each other by describing a [[Monster|monster]] with a million arms and legs, but by
 
 describing the men as men, with their separate and even solitary
 
@@ -170,7 +170,7 @@ emotions. As this has a particular application to the emotions of the
 
 Englishman, I will return to the topic once more. Now Americans have a
 
-power that is the soul and success of democracy, the power of
+power that is the [[Soul|soul]] and [[success]] of [[democracy]], the power of
 
 spontaneous social organisation. Their high spirits, their humane ideals
 
@@ -182,13 +182,13 @@ of all the leagues and guilds and college clubs will deny that Whitman
 
 was national when he said he would build states and cities out of the
 
-love of comrades. When all this communal enthusiasm collides with the
+[[Love|love]] of comrades. When all this communal enthusiasm collides with the
 
 Englishman, it too often seems literally to leave him cold. They say he
 
 is reserved; they possibly think he is rude. And the Englishman, having
 
-been taught his own history all wrong, is only too likely to take the
+been taught his own [[history]] all wrong, is only too likely to take the
 
 criticism as a compliment. He admits that he is reserved because he is
 

@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — OACH-HOUSE, ORIGINAL PIG. (part 1)"
+title: "Sketches by Boz — OACH-[[house|HOUSE]], ORIGINAL PIG. (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-COACH-HOUSE, ORIGINAL PIG.
+COACH-[[house|HOUSE]], ORIGINAL PIG.
 
 
 _President_—Mr. Carter. _Vice-Presidents_—Mr. Truck and Mr. Waghorn.
@@ -29,17 +29,17 @@ gentlemen of sedentary pursuits, would be an incalculable advantage.
 ‘The President was desirous of knowing whether it was necessary to have
 a level surface on which the gentleman was to run.
 
-‘Professor Queerspeck explained that City gentlemen would run in
+‘Professor Queerspeck explained that [[City]] gentlemen would run in
 trains, being handcuffed together to prevent confusion or
 unpleasantness. For instance, trains would start every morning at
-eight, nine, and ten o’clock, from Camden Town, Islington, Camberwell,
-Hackney, and various other places in which City gentlemen are
+eight, nine, and ten o’[[Clock|clock]], from Camden Town, Islington, Camberwell,
+Hackney, and various other places in which [[City]] gentlemen are
 accustomed to reside. It would be necessary to have a level, but he had
 provided for this difficulty by proposing that the best line that the
 circumstances would admit of, should be taken through the sewers which
-undermine the streets of the metropolis, and which, well lighted by
+undermine the streets of the metropolis, and which, [[Well|well]] lighted by
 jets from the gas pipes which run immediately above them, would form a
-pleasant and commodious arcade, especially in winter-time, when the
+pleasant and commodious arcade, especially in [[Winter|winter]]-[[Time|time]], when the
 inconvenient custom of carrying umbrellas, now so general, could be
 wholly dispensed with. In reply to another question, Professor
 Queerspeck stated that no substitute for the purposes to which these
@@ -47,45 +47,45 @@ arcades were at present devoted had yet occurred to him, but that he
 hoped no fanciful objection on this head would be allowed to interfere
 with so great an undertaking.
 
-‘Mr. Jobba produced a forcing-machine on a novel plan, for bringing
+‘Mr. Jobba produced a forcing-[[Machine|machine]] on a [[Novel|novel]] plan, for bringing
 joint-stock railway shares prematurely to a premium. The instrument was
 in the form of an elegant gilt weather-glass, of most dazzling
 appearance, and was worked behind, by strings, after the manner of a
 pantomime trick, the strings being always pulled by the directors of
-the company to which the machine belonged. The quicksilver was so
+the company to which the [[Machine|machine]] belonged. The quicksilver was so
 ingeniously placed, that when the acting directors held shares in their
 pockets, figures denoting very small expenses and very large returns
 appeared upon the glass; but the moment the directors parted with these
 pieces of paper, the estimate of needful expenditure suddenly increased
 itself to an immense extent, while the statements of certain profits
 became reduced in the same proportion. Mr. Jobba stated that the
-machine had been in constant requisition for some months past, and he
+[[Machine|machine]] had been in constant requisition for some months past, and he
 had never once known it to fail.
 
 ‘A Member expressed his opinion that it was extremely neat and pretty.
 He wished to know whether it was not liable to accidental derangement?
-Mr. Jobba said that the whole machine was undoubtedly liable to be
+Mr. Jobba said that the whole [[Machine|machine]] was undoubtedly liable to be
 blown up, but that was the only objection to it.
 
 ‘Professor Nogo arrived from the anatomical section to exhibit a model
-of a safety fire-escape, which could be fixed at any time, in less than
+of a safety [[Fire|fire]]-escape, which could be fixed at any [[Time|time]], in less than
 half an hour, and by means of which, the youngest or most infirm
 persons (successfully resisting the progress of the flames until it was
 quite ready) could be preserved if they merely balanced themselves for
-a few minutes on the sill of their bedroom window, and got into the
-escape without falling into the street. The Professor stated that the
-number of boys who had been rescued in the daytime by this machine from
-houses which were not on fire, was almost incredible. Not a
-conflagration had occurred in the whole of London for many months past
+a few minutes on the sill of their bedroom [[Window|window]], and got into the
+escape without falling into the street. [[The Professor]] stated that the
+number of boys who had been rescued in the daytime by this [[Machine|machine]] from
+houses which were not on [[Fire|fire]], was almost incredible. Not a
+conflagration had occurred in the whole of [[London]] for many months past
 to which the escape had not been carried on the very next day, and put
 in action before a concourse of persons.
 
 ‘The President inquired whether there was not some difficulty in
-ascertaining which was the top of the machine, and which the bottom, in
+ascertaining which was the top of the [[Machine|machine]], and which the [[Bottom|bottom]], in
 cases of pressing emergency.
 
 ‘Professor Nogo explained that of course it could not be expected to
-act quite as well when there was a fire, as when there was not a fire;
+act quite as [[Well|well]] when there was a [[Fire|fire]], as when there was not a [[Fire|fire]];
 but in the former case he thought it would be of equal service whether
 the top were up or down.’
 
@@ -100,7 +100,7 @@ read, to consider, and to profit.
 The place of meeting for next year has undergone discussion, and has at
 length been decided, regard being had to, and evidence being taken
 upon, the goodness of its wines, the supply of its markets, the
-hospitality of its inhabitants, and the quality of its hotels. We hope
+hospitality of its inhabitants, and the quality of its hotels. We [[Hope|hope]]
 at this next meeting our correspondent may again be present, and that
 we may be once more the means of placing his communications before the
 world. Until that period we have been prevailed upon to allow this
@@ -125,9 +125,9 @@ for the advancement of everything
 
 In October last, we did ourselves the immortal credit of recording, at
 an enormous expense, and by dint of exertions unnpralleled in the
-history of periodical publication, the proceedings of the Mudfog
+[[history]] of periodical publication, the proceedings of the Mudfog
 Association for the Advancement of Everything, which in that month held
-its first great half-yearly meeting, to the wonder and delight of the
+its first great half-yearly meeting, to the [[Wonder|wonder]] and delight of the
 whole empire. We announced at the conclusion of that extraordinary and
 most remarkable Report, that when the Second Meeting of the Society
 should take place, we should be found again at our post, renewing our
@@ -137,10 +137,10 @@ remarkability of our account of its proceedings. In redemption of this
 pledge, we caused to be despatched per steam to Oldcastle (at which
 place this second meeting of the Society was held on the 20th instant),
 the same superhumanly-endowed gentleman who furnished the former
-report, and who,—gifted by nature with transcendent abilities, and
-furnished by us with a body of assistants scarcely inferior to
+report, and who,—gifted by [[Nature|nature]] with transcendent abilities, and
+furnished by us with a [[Body|body]] of assistants scarcely inferior to
 himself,—has forwarded a series of letters, which, for faithfulness of
-description, power of language, fervour of thought, happiness of
+description, [[Power of Language|power of language]], fervour of thought, happiness of
 expression, and importance of subject-matter, have no equal in the
 epistolary literature of any age or country. We give this gentleman’s
 correspondence entire, and in the order in which it reached our office.

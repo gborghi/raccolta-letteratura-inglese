@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 2)"
+title: "[[David Copperfield]] — Chapter 39: WICKFIELD AND HEEP (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-Arrived at Mr. Wickfield’s house, I found, in the little lower room on
-the ground floor, where Uriah Heep had been of old accustomed to sit,
+Arrived at Mr. Wickfield’s [[house]], I found, in the little lower room on
+the ground floor, where [[Uriah Heep]] had been of old accustomed to sit,
 Mr. Micawber plying his pen with great assiduity. He was dressed in a
 legal-looking suit of black, and loomed, burly and large, in that small
 office.
@@ -24,7 +24,7 @@ Mr. Micawber was extremely glad to see me, but a little confused too.
 He would have conducted me immediately into the presence of Uriah, but I
 declined.
 
-‘I know the house of old, you recollect,’ said I, ‘and will find my way
+‘I know the [[house]] of old, you recollect,’ said I, ‘and will find my way
 upstairs. How do you like the law, Mr. Micawber?’
 
 ‘My dear Copperfield,’ he replied. ‘To a man possessed of the higher
@@ -34,7 +34,7 @@ said Mr. Micawber, glancing at some letters he was writing, ‘the mind is
 not at liberty to soar to any exalted form of expression. Still, it is a
 great pursuit. A great pursuit!’
 
-He then told me that he had become the tenant of Uriah Heep’s old house;
+He then told me that he had become the tenant of [[Uriah Heep]]’s old [[house]];
 and that Mrs. Micawber would be delighted to receive me, once more,
 under her own roof.
 
@@ -52,7 +52,7 @@ That disadvantage is not diminished, when that pressure necessitates the
 drawing of stipendiary emoluments, before those emoluments are strictly
 due and payable. All I can say is, that my friend Heep has responded
 to appeals to which I need not more particularly refer, in a manner
-calculated to redound equally to the honour of his head, and of his
+calculated to redound equally to the [[Honour|honour]] of his head, and of his
 heart.’
 
 ‘I should not have supposed him to be very free with his money either,’
@@ -97,7 +97,7 @@ with me.
 
 ‘I am charmed, Copperfield,’ said Mr. Micawber, ‘let me assure you, with
 Miss Wickfield. She is a very superior young lady, of very remarkable
-attractions, graces, and virtues. Upon my honour,’ said Mr. Micawber,
+attractions, graces, and virtues. Upon my [[Honour|honour]],’ said Mr. Micawber,
 indefinitely kissing his hand and bowing with his genteelest air, ‘I do
 Homage to Miss Wickfield! Hem!’ ‘I am glad of that, at least,’ said I.
 
@@ -108,15 +108,15 @@ have supposed that A. had been so.’
 
 We have all some experience of a feeling, that comes over us
 occasionally, of what we are saying and doing having been said and done
-before, in a remote time--of our having been surrounded, dim ages ago,
+before, in a remote [[Time|time]]--of our having been surrounded, dim ages ago,
 by the same faces, objects, and circumstances--of our knowing perfectly
 what will be said next, as if we suddenly remembered it! I never had
 this mysterious impression more strongly in my life, than before he
 uttered those words.
 
-I took my leave of Mr. Micawber, for the time, charging him with my best
-remembrances to all at home. As I left him, resuming his stool and his
-pen, and rolling his head in his stock, to get it into easier writing
+I took my leave of Mr. Micawber, for the [[Time|time]], charging him with my best
+remembrances to all at [[Home|home]]. As I left him, resuming his stool and his
+pen, and [[rolling]] his head in his stock, to get it into easier writing
 order, I clearly perceived that there was something interposed between
 him and me, since he had come into his new functions, which prevented
 our getting at each other as we used to do, and quite altered the
@@ -124,7 +124,7 @@ character of our intercourse.
 
 There was no one in the quaint old drawing-room, though it presented
 tokens of Mrs. Heep’s whereabouts. I looked into the room still
-belonging to Agnes, and saw her sitting by the fire, at a pretty
+belonging to Agnes, and saw her sitting by the [[Fire|fire]], at a pretty
 old-fashioned desk she had, writing.
 
 My darkening the light made her look up. What a pleasure to be the cause

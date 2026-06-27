@@ -35,10 +35,10 @@ consumption that the markets of this country can by possibility produce.
 The loss upon a pound of tripe has been found to be, in the boiling,
 seven-eights of a fifth more than the loss upon a pound of any other
 animal substance whatever.  Tripe is more expensive, properly understood,
-than the hothouse pine-apple.  Taking into account the number of animals
-slaughtered yearly within the bills of mortality alone; and forming a low
-estimate of the quantity of tripe which the carcases of those animals,
-reasonably well butchered, would yield; I find that the waste on that
+than the hothouse pine-apple.  Taking into account the number of [[Animals|animals]]
+slaughtered yearly within the bills of [[Mortality|mortality]] [[Alone|alone]]; and forming a low
+estimate of the quantity of tripe which the carcases of those [[Animals|animals]],
+reasonably [[Well|well]] butchered, would yield; I find that the waste on that
 amount of tripe, if boiled, would victual a garrison of five hundred men
 for five months of thirty-one days each, and a February over.  The Waste,
 the Waste!’
@@ -53,7 +53,7 @@ Trotty made a miserable bow.
 ‘You do, do you?’ said Mr. Filer.  ‘Then I’ll tell you something.  You
 snatch your tripe, my friend, out of the mouths of widows and orphans.’
 
-‘I hope not, sir,’ said Trotty, faintly.  ‘I’d sooner die of want!’
+‘I [[Hope|hope]] not, sir,’ said Trotty, faintly.  ‘I’d sooner die of want!’
 
 ‘Divide the amount of tripe before-mentioned, Alderman,’ said Mr. Filer,
 ‘by the estimated number of existing widows and orphans, and the result
@@ -100,12 +100,12 @@ the mechanism, and trick of which, it has probably quite as distinct
 perceptions, as ever this red-faced gentleman had of his deceased
 Millennium.
 
-It is possible that poor Trotty’s faith in these very vague Old Times was
+It is possible that poor Trotty’s [[Faith|faith]] in these very vague Old Times was
 not entirely destroyed, for he felt vague enough at that moment.  One
 thing, however, was plain to him, in the midst of his distress; to wit,
 that however these gentlemen might differ in details, his misgivings of
-that morning, and of many other mornings, were well founded.  ‘No, no.
-We can’t go right or do right,’ thought Trotty in despair.  ‘There is no
+that morning, and of many other mornings, were [[Well|well]] founded.  ‘No, no.
+We can’t go right or do right,’ thought Trotty in [[Despair|despair]].  ‘There is no
 good in us.  We are born bad!’
 
 But Trotty had a father’s heart within him; which had somehow got into
@@ -114,15 +114,15 @@ the blush of her brief joy, should have her fortune read by these wise
 gentlemen.  ‘God help her,’ thought poor Trotty.  ‘She will know it soon
 enough.’
 
-He anxiously signed, therefore, to the young smith, to take her away.
+He anxiously signed, therefore, to the young [[smith]], to take her away.
 But he was so busy, talking to her softly at a little distance, that he
-only became conscious of this desire, simultaneously with Alderman Cute.
+only became conscious of this [[Desire|desire]], simultaneously with [[Alderman Cute]].
 Now, the Alderman had not yet had his say, but _he_ was a philosopher,
 too—practical, though!  Oh, very practical—and, as he had no idea of
 losing any portion of his audience, he cried ‘Stop!’
 
 ‘Now, you know,’ said the Alderman, addressing his two friends, with a
-self-complacent smile upon his face which was habitual to him, ‘I am a
+[[Self|self]]-complacent smile upon his face which was habitual to him, ‘I am a
 plain man, and a practical man; and I go to work in a plain practical
 way.  That’s my way.  There is not the least mystery or difficulty in
 dealing with this sort of people if you only understand ’em, and can talk

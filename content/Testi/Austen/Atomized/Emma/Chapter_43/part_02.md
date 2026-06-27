@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 5 (part 2)"
+title: "[[Emma]] — Chapter 5 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -15,7 +15,7 @@ tags:
 
 
 They were entering the hall. Mr. Knightley’s eyes had preceded Miss
-Bates’s in a glance at Jane. From Frank Churchill’s face, where he
+Bates’s in a glance at Jane. From [[Frank Churchill]]’s face, where he
 thought he saw confusion suppressed or laughed away, he had
 involuntarily turned to hers; but she was indeed behind, and too busy
 with her shawl. Mr. Weston had walked in. The two other gentlemen
@@ -24,35 +24,35 @@ Churchill the determination of catching her eye—he seemed watching her
 intently—in vain, however, if it were so—Jane passed between them into
 the hall, and looked at neither.
 
-There was no time for farther remark or explanation. The dream must be
+There was no [[Time|time]] for farther remark or explanation. The dream must be
 borne with, and Mr. Knightley must take his seat with the rest round
-the large modern circular table which Emma had introduced at Hartfield,
-and which none but Emma could have had power to place there and
+the large modern circular table which [[Emma]] had introduced at Hartfield,
+and which none but [[Emma]] could have had power to place there and
 persuade her father to use, instead of the small-sized Pembroke, on
 which two of his daily meals had, for forty years been crowded. Tea
 passed pleasantly, and nobody seemed in a hurry to move.
 
-“Miss Woodhouse,” said Frank Churchill, after examining a table behind
+“Miss Woodhouse,” said [[Frank Churchill]], after examining a table behind
 him, which he could reach as he sat, “have your nephews taken away
 their alphabets—their box of letters? It used to stand here. Where is
 it? This is a sort of dull-looking evening, that ought to be treated
-rather as winter than summer. We had great amusement with those letters
+rather as [[Winter|winter]] than [[Summer|summer]]. We had great amusement with those letters
 one morning. I want to puzzle you again.”
 
-Emma was pleased with the thought; and producing the box, the table was
+[[Emma]] was pleased with the thought; and producing the box, the table was
 quickly scattered over with alphabets, which no one seemed so much
 disposed to employ as their two selves. They were rapidly forming words
-for each other, or for any body else who would be puzzled. The
+for each other, or for any [[Body|body]] else who would be puzzled. The
 quietness of the game made it particularly eligible for Mr. Woodhouse,
 who had often been distressed by the more animated sort, which Mr.
 Weston had occasionally introduced, and who now sat happily occupied in
-lamenting, with tender melancholy, over the departure of the “poor
+lamenting, with tender [[Melancholy|melancholy]], over the departure of the “poor
 little boys,” or in fondly pointing out, as he took up any stray letter
-near him, how beautifully Emma had written it.
+near him, how beautifully [[Emma]] had written it.
 
-Frank Churchill placed a word before Miss Fairfax. She gave a slight
+[[Frank Churchill]] placed a word before Miss Fairfax. She gave a slight
 glance round the table, and applied herself to it. Frank was next to
-Emma, Jane opposite to them—and Mr. Knightley so placed as to see them
+[[Emma]], Jane opposite to them—and Mr. Knightley so placed as to see them
 all; and it was his object to see as much as he could, with as little
 apparent observation. The word was discovered, and with a faint smile
 pushed away. If meant to be immediately mixed with the others, and
@@ -65,28 +65,28 @@ was a blush on Jane’s cheek which gave it a meaning not otherwise
 ostensible. Mr. Knightley connected it with the dream; but how it could
 all be, was beyond his comprehension. How the delicacy, the discretion
 of his favourite could have been so lain asleep! He feared there must
-be some decided involvement. Disingenuousness and double dealing seemed
+be some decided involvement. Disingenuousness and [[Double|double]] dealing seemed
 to meet him at every turn. These letters were but the vehicle for
-gallantry and trick. It was a child’s play, chosen to conceal a deeper
-game on Frank Churchill’s part.
+gallantry and trick. It was a [[Child|child]]’s play, chosen to conceal a deeper
+game on [[Frank Churchill]]’s part.
 
 With great indignation did he continue to observe him; with great alarm
 and distrust, to observe also his two blinded companions. He saw a
-short word prepared for Emma, and given to her with a look sly and
-demure. He saw that Emma had soon made it out, and found it highly
+short word prepared for [[Emma]], and given to her with a look sly and
+demure. He saw that [[Emma]] had soon made it out, and found it highly
 entertaining, though it was something which she judged it proper to
 appear to censure; for she said, “Nonsense! for shame!” He heard Frank
 Churchill next say, with a glance towards Jane, “I will give it to
-her—shall I?”—and as clearly heard Emma opposing it with eager laughing
+her—shall I?”—and as clearly heard [[Emma]] opposing it with eager laughing
 warmth. “No, no, you must not; you shall not, indeed.”
 
-It was done however. This gallant young man, who seemed to love without
+It was done however. This gallant young man, who seemed to [[Love|love]] without
 feeling, and to recommend himself without complaisance, directly handed
 over the word to Miss Fairfax, and with a particular degree of sedate
 civility entreated her to study it. Mr. Knightley’s excessive curiosity
 to know what this word might be, made him seize every possible moment
 for darting his eye towards it, and it was not long before he saw it to
-be _Dixon_. Jane Fairfax’s perception seemed to accompany his; her
+be _Dixon_. [[Jane Fairfax]]’s perception seemed to accompany his; her
 comprehension was certainly more equal to the covert meaning, the
 superior intelligence, of those five letters so arranged. She was
 evidently displeased; looked up, and seeing herself watched, blushed
@@ -97,23 +97,23 @@ that could be offered. Her face was averted from those who had made the
 attack, and turned towards her aunt.
 
 “Aye, very true, my dear,” cried the latter, though Jane had not spoken
-a word—“I was just going to say the same thing. It is time for us to be
+a word—“I was just going to say the same thing. It is [[Time|time]] for us to be
 going indeed. The evening is closing in, and grandmama will be looking
 for us. My dear sir, you are too obliging. We really must wish you good
-night.”
+[[Night|night]].”
 
 Jane’s alertness in moving, proved her as ready as her aunt had
 preconceived. She was immediately up, and wanting to quit the table;
 but so many were also moving, that she could not get away; and Mr.
 Knightley thought he saw another collection of letters anxiously pushed
 towards her, and resolutely swept away by her unexamined. She was
-afterwards looking for her shawl—Frank Churchill was looking also—it
+afterwards looking for her shawl—[[Frank Churchill]] was looking also—it
 was growing dusk, and the room was in confusion; and how they parted,
 Mr. Knightley could not tell.
 
 He remained at Hartfield after all the rest, his thoughts full of what
 he had seen; so full, that when the candles came to assist his
 observations, he must—yes, he certainly must, as a friend—an anxious
-friend—give Emma some hint, ask her some question. He could not see her
+friend—give [[Emma]] some hint, ask her some question. He could not see her
 in a situation of such danger, without trying to preserve her. It was
 his duty.

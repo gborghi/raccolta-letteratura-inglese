@@ -24,11 +24,11 @@ them; they would like to see the faintest approach to such a thing.
 One lady (a widow) was quite certain she should stab him if he hinted
 at it.
 
-‘Very well,’ said Mrs Quilp, nodding her head, ‘as I said just now,
+‘Very [[Well|well]],’ said Mrs Quilp, nodding her head, ‘as I said just now,
 it’s very easy to talk, but I say again that I know--that I’m
 sure--Quilp has such a way with him when he likes, that the best
 looking woman here couldn’t refuse him if I was dead, and she was free,
-and he chose to make love to her. Come!’
+and he chose to make [[Love|love]] to her. Come!’
 
 Everybody bridled up at this remark, as much as to say, ‘I know you
 mean me. Let him try--that’s all.’ and yet for some hidden reason they
@@ -62,7 +62,7 @@ This remark being loudly commended and approved of, another lady (from
 the Minories) put in her word:
 
 ‘Mr Quilp may be a very nice man,’ said this lady, ‘and I supposed
-there’s no doubt he is, because Mrs Quilp says he is, and Mrs Jiniwin
+there’s no [[Doubt|doubt]] he is, because Mrs Quilp says he is, and Mrs Jiniwin
 says he is, and they ought to know, or nobody does. But still he is not
 quite a--what one calls a handsome man, nor quite a young man neither,
 which might be a little excuse for him if anything could be; whereas
@@ -71,14 +71,14 @@ greatest thing after all.’
 
 This last clause being delivered with extraordinary pathos, elicited a
 corresponding murmer from the hearers, stimulated by which the lady
-went on to remark that if such a husband was cross and unreasonable
+went on to remark that if such a husband was [[Cross|cross]] and unreasonable
 with such a wife, then--
 
 ‘If he is!’ interposed the mother, putting down her tea-cup and
 brushing the crumbs out of her lap, preparatory to making a solemn
-declaration. ‘If he is! He is the greatest tyrant that every lived, she
-daren’t call her soul her own, he makes her tremble with a word and
-even with a look, he frightens her to death, and she hasn’t the spirit
+declaration. ‘If he is! He is the greatest [[Tyrant|tyrant]] that every lived, she
+daren’t call her [[Soul|soul]] her own, he makes her tremble with a word and
+even with a look, he frightens her to [[Death|death]], and she hasn’t the spirit
 to give him a word back, no, not a single word.’
 
 Notwithstanding that the fact had been notorious beforehand to all the
@@ -93,22 +93,22 @@ I see it with my own eyes and hear it with my own ears, I never will
 believe it.’ Mrs Simmons corroborated this testimony and added strong
 evidence of her own. The lady from the Minories recounted a successful
 course of treatment under which she had placed her own husband, who,
-from manifesting one month after marriage unequivocal symptoms of the
-tiger, had by this means become subdued into a perfect lamb. Another
+from manifesting one month after [[Marriage|marriage]] unequivocal symptoms of the
+tiger, had by this means become subdued into a perfect [[Lamb|lamb]]. Another
 lady recounted her own personal struggle and final triumph, in the
 course whereof she had found it necessary to call in her mother and two
-aunts, and to weep incessantly night and day for six weeks. A third,
+aunts, and to weep incessantly [[Night|night]] and day for six weeks. A third,
 who in the general confusion could secure no other listener, fastened
 herself upon a young woman still unmarried who happened to be amongst
 them, and conjured her, as she valued her own peace of mind and
 happiness to profit by this solemn occasion, to take example from the
-weakness of Mrs Quilp, and from that time forth to direct her whole
+weakness of Mrs Quilp, and from that [[Time|time]] forth to direct her whole
 thoughts to taming and subduing the rebellious spirit of man. The noise
 was at its height, and half the company had elevated their voices into
 a perfect shriek in order to drown the voices of the other half, when
 Mrs Jiniwin was seen to change colour and shake her forefinger
-stealthily, as if exhorting them to silence. Then, and not until then,
-Daniel Quilp himself, the cause and occasion of all this clamour, was
+stealthily, as if exhorting them to [[Silence|silence]]. Then, and not until then,
+[[Daniel Quilp]] himself, the cause and occasion of all this clamour, was
 observed to be in the room, looking on and listening with profound
 attention.
 
@@ -120,7 +120,7 @@ palatable.’
 an accident.’
 
 ‘So much the better, Mrs Quilp; these accidental parties are always the
-pleasantest,’ said the dwarf, rubbing his hands so hard that he seemed
+pleasantest,’ said the [[Dwarf|dwarf]], rubbing his hands so hard that he seemed
 to be engaged in manufacturing, of the dirt with which they were
 encrusted, little charges for popguns. ‘What! Not going, ladies, you
 are not going, surely!’

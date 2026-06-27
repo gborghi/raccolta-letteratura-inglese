@@ -18,7 +18,7 @@ Eugene, cigar in mouth and pen in hand, tossed him his card. After
 spelling it out slowly, the man made it into a little roll, and tied it
 up in an end of his neckerchief still more slowly.
 
-‘Now,’ said Lightwood, for the third time, ‘if you have quite completed
+‘Now,’ said Lightwood, for the third [[Time|time]], ‘if you have quite completed
 your various preparations, my friend, and have fully ascertained that
 your spirits are cool and not in any way hurried, what’s your name?’
 
@@ -35,7 +35,7 @@ Riderhood gave in the definition, ‘Waterside character.’
 
 ‘Anything against you?’ Eugene quietly put in, as he wrote.
 
-Rather baulked, Mr Riderhood evasively remarked, with an innocent air,
+Rather baulked, Mr Riderhood evasively remarked, with an [[Innocent|innocent]] air,
 that he believed the T’other Governor had asked him summa’t.
 
 ‘Ever in trouble?’ said Eugene.
@@ -58,8 +58,8 @@ Lightwood also smoked, with his eyes negligently turned on the informer.
 ‘Now let me be took down again,’ said Riderhood, when he had turned the
 drowned cap over and under, and had brushed it the wrong way (if it had
 a right way) with his sleeve. ‘I give information that the man that done
-the Harmon Murder is Gaffer Hexam, the man that found the body. The hand
-of Jesse Hexam, commonly called Gaffer on the river and along shore, is
+the Harmon Murder is Gaffer Hexam, the man that found the [[Body|body]]. The hand
+of Jesse Hexam, commonly called Gaffer on the [[River|river]] and along shore, is
 the hand that done that deed. His hand and no other.’
 
 The two friends glanced at one another with more serious faces than they
@@ -70,12 +70,12 @@ Lightwood.
 
 ‘On the grounds,’ answered Riderhood, wiping his face with his sleeve,
 ‘that I was Gaffer’s pardner, and suspected of him many a long day and
-many a dark night. On the grounds that I knowed his ways. On the grounds
+many a dark [[Night|night]]. On the grounds that I knowed his ways. On the grounds
 that I broke the pardnership because I see the danger; which I warn you
 his daughter may tell you another story about that, for anythink I can
 say, but you know what it’ll be worth, for she’d tell you lies, the
 world round and the heavens broad, to save her father. On the grounds
-that it’s well understood along the cause’ays and the stairs that he
+that it’s [[Well|well]] understood along the cause’ays and the stairs that he
 done it. On the grounds that he’s fell off from, because he done it. On
 the grounds that I will swear he done it. On the grounds that you may
 take me where you will, and get me sworn to it. I don’t want to back out
@@ -128,7 +128,7 @@ done it. Is THAT enough?’
 answerable for follering it up!’ Then, slowly and emphatically beating
 it all out with his open right hand on the palm of his left; ‘I,
 Roger Riderhood, Lime’us Hole, Waterside character, tell you, Lawyer
-Lightwood, that the man Jesse Hexam, commonly called upon the river and
+Lightwood, that the man Jesse Hexam, commonly called upon the [[River|river]] and
 along-shore Gaffer, told me that he done the deed. What’s more, he told
 me with his own lips that he done the deed. What’s more, he said that he
 done the deed. And I’ll swear it!’
@@ -138,11 +138,11 @@ done the deed. And I’ll swear it!’
 ‘Outside,’ replied Riderhood, always beating it out, with his head
 determinedly set askew, and his eyes watchfully dividing their
 attention between his two auditors, ‘outside the door of the Six Jolly
-Fellowships, towards a quarter after twelve o’clock at midnight—but I
-will not in my conscience undertake to swear to so fine a matter as
-five minutes—on the night when he picked up the body. The Six Jolly
+Fellowships, towards a quarter after twelve o’[[Clock|clock]] at midnight—but I
+will not in my [[Conscience|conscience]] undertake to swear to so fine a matter as
+five minutes—on the [[Night|night]] when he picked up the [[Body|body]]. The Six Jolly
 Fellowships won’t run away. If it turns out that he warn’t at the Six
-Jolly Fellowships that night at midnight, I’m a liar.’
+Jolly Fellowships that [[Night|night]] at midnight, I’m a liar.’
 
 ‘What did he say?’
 

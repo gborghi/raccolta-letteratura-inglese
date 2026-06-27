@@ -26,7 +26,7 @@ not.
 
 ‘I assure you,’ replies Brewer, looking about for anybody else to
 address his answer to, and giving the preference to Lightwood; ‘I assure
-you, the things were going for a song. Handsome things enough, but
+you, the things were going for a [[Song|song]]. Handsome things enough, but
 fetching nothing.’
 
 ‘So I heard this afternoon,’ says Lightwood.
@@ -79,7 +79,7 @@ Eugene (who would seem to be in a gloomy state of suggestiveness),
 suggests, ‘Suppose you have no means and live beyond them?’
 
 This is too insolvent a state of things for the Father to entertain. It
-is too insolvent a state of things for any one with any self-respect
+is too insolvent a state of things for any one with any [[Self|self]]-respect
 to entertain, and is universally scouted. But, it is so amazing how any
 people can have come to a total smash, that everybody feels bound to
 account for it specially. One of the Fathers says, ‘Gaming table.’
@@ -89,7 +89,7 @@ fan, ‘Two establishments.’ Mr Podsnap, saying nothing, is referred
 to for his opinion; which he delivers as follows; much flushed and
 extremely angry:
 
-‘Don’t ask me. I desire to take no part in the discussion of these
+‘Don’t ask me. I [[Desire|desire]] to take no part in the discussion of these
 people’s affairs. I abhor the subject. It is an odious subject, an
 offensive subject, a subject that makes me sick, and I—’ And with his
 favourite right-arm flourish which sweeps away everything and settles it
@@ -108,8 +108,8 @@ who is as nothing off the box; and the Coachman, yielding up his salver,
 retires defeated.
 
 Then, the Analytical, perusing a scrap of paper lying on the salver,
-with the air of a literary Censor, adjusts it, takes his time about
-going to the table with it, and presents it to Mr Eugene Wrayburn.
+with the air of a literary Censor, adjusts it, takes his [[Time|time]] about
+going to the table with it, and presents it to Mr [[Eugene Wrayburn]].
 Whereupon the pleasant Tippins says aloud, ‘The Lord Chancellor has
 resigned!’
 
@@ -142,7 +142,7 @@ Glue Monge.’
 
 ‘Sharp boy again,’ returns Eugene. ‘I’ll go to him.’
 
-Goes out straightway, and, leisurely leaning his arms on the open window
+Goes out straightway, and, leisurely leaning his arms on the open [[Window|window]]
 of a cab in waiting, looks in at Mr Dolls: who has brought his own
 atmosphere with him, and would seem from its odour to have brought it,
 for convenience of carriage, in a rum-cask.
@@ -154,10 +154,10 @@ for convenience of carriage, in a rum-cask.
 After carefully reading the dingy scrap of paper handed to him, and as
 carefully tucking it into his waistcoat pocket, Eugene tells out the
 money; beginning incautiously by telling the first shilling into Mr
-Dolls’s hand, which instantly jerks it out of window; and ending by
+Dolls’s hand, which instantly jerks it out of [[Window|window]]; and ending by
 telling the fifteen shillings on the seat.
 
-‘Give him a ride back to Charing Cross, sharp boy, and there get rid of
+‘Give him a ride back to Charing [[Cross]], sharp boy, and there get rid of
 him.’
 
 Returning to the dining-room, and pausing for an instant behind the

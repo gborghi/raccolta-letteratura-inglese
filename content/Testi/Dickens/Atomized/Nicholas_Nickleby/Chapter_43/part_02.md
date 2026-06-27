@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 43 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 43 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,7 +25,7 @@ declaring that otherwise murder would be surely done, and that he was
 responsible for all the glass and china on the premises.
 
 ‘No one need trouble himself to stir,’ said the young gentleman, ‘I am
-going to remain in the house all night, and shall be found here in the
+going to remain in the [[house]] all [[Night|night]], and shall be found here in the
 morning if there is any assault to answer for.’
 
 ‘What did you strike him for?’ asked one of the bystanders.
@@ -38,15 +38,15 @@ Nicholas, said:
 ‘You inquired just now what was the matter here. The matter is simply
 this. Yonder person, who was drinking with a friend in the coffee-room
 when I took my seat there for half an hour before going to bed, (for I
-have just come off a journey, and preferred stopping here tonight, to
-going home at this hour, where I was not expected until tomorrow,) chose
+have just come off a [[Journey|journey]], and preferred stopping here tonight, to
+going [[Home|home]] at this hour, where I was not expected until tomorrow,) chose
 to express himself in very disrespectful, and insolently familiar
 terms, of a young lady, whom I recognised from his description and other
-circumstances, and whom I have the honour to know. As he spoke loud
+circumstances, and whom I have the [[Honour|honour]] to know. As he spoke loud
 enough to be overheard by the other guests who were present, I informed
 him most civilly that he was mistaken in his conjectures, which were
-of an offensive nature, and requested him to forbear. He did so for a
-little time, but as he chose to renew his conversation when leaving the
+of an offensive [[Nature|nature]], and requested him to forbear. He did so for a
+little [[Time|time]], but as he chose to renew his conversation when leaving the
 room, in a more offensive strain than before, I could not refrain
 from making after him, and facilitating his departure by a kick, which
 reduced him to the posture in which you saw him just now. I am the
@@ -58,7 +58,7 @@ earthly objection, I do assure him.’
 Of all possible courses of proceeding under the circumstances detailed,
 there was certainly not one which, in his then state of mind, could
 have appeared more laudable to Nicholas than this. There were not many
-subjects of dispute which at that moment could have come home to his
+subjects of dispute which at that moment could have come [[Home|home]] to his
 own breast more powerfully, for having the unknown uppermost in his
 thoughts, it naturally occurred to him that he would have done just the
 same if any audacious gossiper durst have presumed in his hearing to
@@ -75,15 +75,15 @@ things, if a man isn’t to admire a handsome girl without being beat to
 pieces for it!’
 
 This reflection appeared to have great weight with the young lady in
-the bar, who (adjusting her cap as she spoke, and glancing at a mirror)
+the bar, who (adjusting her cap as she spoke, and glancing at a [[Mirror|mirror]])
 declared that it would be a very pretty state of things indeed; and that
-if people were to be punished for actions so innocent and natural as
+if people were to be punished for actions so [[Innocent|innocent]] and natural as
 that, there would be more people to be knocked down than there would
 be people to knock them down, and that she wondered what the gentleman
 meant by it, that she did.
 
 ‘My dear girl,’ said the young gentleman in a low voice, advancing
-towards the sash window.
+towards the sash [[Window|window]].
 
 ‘Nonsense, sir!’ replied the young lady sharply, smiling though as she
 turned aside, and biting her lip, (whereat Mrs. Browdie, who was still
@@ -101,14 +101,14 @@ effect yours has had upon me already.’
 
 ‘Yes, I know it’s very pretty,’ said the young man, looking with an air
 of admiration in the barmaid’s face; ‘I said so, you know, just this
-moment. But beauty should be spoken of respectfully--respectfully, and
+moment. But [[Beauty|beauty]] should be spoken of respectfully--respectfully, and
 in proper terms, and with a becoming sense of its worth and excellence,
 whereas this fellow has no more notion--’
 
 The young lady interrupted the conversation at this point, by thrusting
-her head out of the bar-window, and inquiring of the waiter in a shrill
+her head out of the bar-[[Window|window]], and inquiring of the waiter in a shrill
 voice whether that young man who had been knocked down was going to
-stand in the passage all night, or whether the entrance was to be left
+stand in the passage all [[Night|night]], or whether the entrance was to be left
 clear for other people. The waiters taking the hint, and communicating
 it to the hostlers, were not slow to change their tone too, and the
 result was, that the unfortunate victim was bundled out in a twinkling.

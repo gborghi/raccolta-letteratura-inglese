@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -18,12 +18,12 @@ tags:
 (pointing to the young gentleman in sky-blue) is the only son of the
 powerful Marquess of Filletoville.”
 
-‘“Well then, my dear, I’m afraid he’ll never come to the title,” said my
+‘“[[Well]] then, my dear, I’m afraid he’ll never come to the title,” said my
 uncle, looking coolly at the young gentleman as he stood fixed up
 against the wall, in the cockchafer fashion that I have described. “You
-have cut off the entail, my love.”
+have cut off the entail, my [[Love|love]].”
 
-‘“I have been torn from my home and my friends by these villains,” said
+‘“I have been torn from my [[Home|home]] and my friends by these villains,” said
 the young lady, her features glowing with indignation. “That wretch
 would have married me by violence in another hour.”
 
@@ -36,13 +36,13 @@ assistance. If their accomplices find us here, we are lost. Two minutes
 hence may be too late. The mail!” With these words, overpowered by her
 feelings, and the exertion of sticking the young Marquess of
 Filletoville, she sank into my uncle’s arms. My uncle caught her up, and
-bore her to the house door. There stood the mail, with four long-tailed,
+bore her to the [[house]] door. There stood the mail, with four long-tailed,
 flowing-maned, black horses, ready harnessed; but no coachman, no guard,
 no hostler even, at the horses’ heads.
 
-‘Gentlemen, I hope I do no injustice to my uncle’s memory, when I
+‘Gentlemen, I [[Hope|hope]] I do no injustice to my uncle’s [[Memory|memory]], when I
 express my opinion, that although he was a bachelor, he had held some
-ladies in his arms before this time; I believe, indeed, that he had
+ladies in his arms before this [[Time|time]]; I believe, indeed, that he had
 rather a habit of kissing barmaids; and I know, that in one or two
 instances, he had been seen by credible witnesses, to hug a landlady in
 a very perceptible manner. I mention the circumstance, to show what a
@@ -52,7 +52,7 @@ her long dark hair trailed over his arm, and her beautiful dark eyes
 fixed themselves upon his face when she recovered, he felt so strange
 and nervous that his legs trembled beneath him. But who can look in a
 sweet, soft pair of dark eyes, without feeling queer? I can’t,
-gentlemen. I am afraid to look at some eyes I know, and that’s the truth
+gentlemen. I am afraid to look at some eyes I know, and that’s the [[Truth|truth]]
 of it.
 
 ‘“You will never leave me,” murmured the young lady.
@@ -74,7 +74,7 @@ and said--No, she didn’t say anything--she smiled. When you are looking
 at a pair of the most delicious lips in the world, and see them gently
 break into a roguish smile--if you are very near them, and nobody else
 by--you cannot better testify your admiration of their beautiful form
-and colour than by kissing them at once. My uncle did so, and I honour
+and colour than by kissing them at once. My uncle did so, and I [[Honour|honour]]
 him for it.
 
 ‘“Hark!” cried the young lady, starting. “The noise of wheels, and
@@ -84,18 +84,18 @@ horses!”
 the trampling of hoofs; but there appeared to be so many horses and
 carriages rattling towards them, from a distance, that it was impossible
 to form a guess at their number. The sound was like that of fifty
-brakes, with six blood cattle in each.
+brakes, with six [[Blood|blood]] cattle in each.
 
 ‘“We are pursued!” cried the young lady, clasping her hands. “We are
-pursued. I have no hope but in you!”
+pursued. I have no [[Hope|hope]] but in you!”
 
 ‘There was such an expression of terror in her beautiful face, that my
 uncle made up his mind at once. He lifted her into the coach, told her
 not to be frightened, pressed his lips to hers once more, and then
-advising her to draw up the window to keep the cold air out, mounted to
+advising her to draw up the [[Window|window]] to keep the cold air out, mounted to
 the box.
 
-‘“Stay, love,” cried the young lady.
+‘“Stay, [[Love|love]],” cried the young lady.
 
 ‘“What’s the matter?” said my uncle, from the coach-box.
 
@@ -106,18 +106,18 @@ word, dearest.”
 smiled again. Such a smile, gentlemen! It beat the other one, all to
 nothing. My uncle descended from his perch in a twinkling.
 
-‘“What is it, my dear?” said my uncle, looking in at the coach window.
-The lady happened to bend forward at the same time, and my uncle thought
+‘“What is it, my dear?” said my uncle, looking in at the coach [[Window|window]].
+The lady happened to bend forward at the same [[Time|time]], and my uncle thought
 she looked more beautiful than she had done yet. He was very close to
 her just then, gentlemen, so he really ought to know.
 
 ‘“What is it, my dear?” said my uncle.
 
-‘“Will you never love any one but me--never marry any one beside?” said
+‘“Will you never [[Love|love]] any one but me--never marry any one beside?” said
 the young lady.
 
 ‘My uncle swore a great oath that he never would marry anybody else, and
-the young lady drew in her head, and pulled up the window. He jumped
+the young lady drew in her head, and pulled up the [[Window|window]]. He jumped
 upon the box, squared his elbows, adjusted the ribands, seized the whip
 which lay on the roof, gave one flick to the off leader, and away went
 the four long-tailed, flowing-maned black horses, at fifteen good
@@ -125,8 +125,8 @@ English miles an hour, with the old mail-coach behind them. Whew! How
 they tore along!
 
 ‘The noise behind grew louder. The faster the old mail went, the faster
-came the pursuers--men, horses, dogs, were leagued in the pursuit. The
-noise was frightful, but, above all, rose the voice of the young lady,
+came the pursuers--men, horses, [[dogs]], were leagued in the pursuit. The
+noise was frightful, but, above all, [[Rose|rose]] the voice of the young lady,
 urging my uncle on, and shrieking, “Faster! Faster!”
 
 ‘They whirled past the dark trees, as feathers would be swept before a
@@ -145,20 +145,20 @@ them! He got down, and looked eagerly inside for the beautiful young
 lady. Alas! There was neither door nor seat to the coach. It was a mere
 shell.
 
-‘Of course, my uncle knew very well that there was some mystery in the
+‘Of course, my uncle knew very [[Well|well]] that there was some mystery in the
 matter, and that everything had passed exactly as he used to relate it.
 He remained staunch to the great oath he had sworn to the beautiful
 young lady, refusing several eligible landladies on her account, and
 dying a bachelor at last. He always said what a curious thing it was
 that he should have found out, by such a mere accident as his clambering
-over the palings, that the ghosts of mail-coaches and horses, guards,
+over the palings, that the [[Ghosts|ghosts]] of mail-coaches and horses, guards,
 coachmen, and passengers, were in the habit of making journeys regularly
-every night. He used to add, that he believed he was the only living
+every [[Night|night]]. He used to add, that he believed he was the only living
 person who had ever been taken as a passenger on one of these
 excursions. And I think he was right, gentlemen--at least I never heard
 of any other.’
 
-‘I wonder what these ghosts of mail-coaches carry in their bags,’ said
+‘I [[Wonder|wonder]] what these [[Ghosts|ghosts]] of mail-coaches carry in their bags,’ said
 the landlord, who had listened to the whole story with profound
 attention.
 

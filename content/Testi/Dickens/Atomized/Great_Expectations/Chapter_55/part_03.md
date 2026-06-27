@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 55 (part 3)"
+title: "[[Great Expectations]] — Chapter 55 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -47,7 +47,7 @@ wedding-party!”
 
 Breakfast had been ordered at a pleasant little tavern, a mile or so
 away upon the rising ground beyond the green; and there was a bagatelle
-board in the room, in case we should desire to unbend our minds after
+board in the room, in case we should [[Desire|desire]] to unbend our minds after
 the solemnity. It was pleasant to observe that Mrs. Wemmick no longer
 unwound Wemmick’s arm when it adapted itself to her figure, but sat in
 a high-backed chair against the wall, like a violoncello in its case,
@@ -57,7 +57,7 @@ done.
 We had an excellent breakfast, and when any one declined anything on
 table, Wemmick said, “Provided by contract, you know; don’t be afraid
 of it!” I drank to the new couple, drank to the Aged, drank to the
-Castle, saluted the bride at parting, and made myself as agreeable as I
+[[Castle]], saluted the bride at parting, and made myself as agreeable as I
 could.
 
 Wemmick came down to the door with me, and I again shook hands with
@@ -71,5 +71,5 @@ altogether a Walworth sentiment, please.”
 “I understand. Not to be mentioned in Little Britain,” said I.
 
 Wemmick nodded. “After what you let out the other day, Mr. Jaggers may
-as well not know of it. He might think my brain was softening, or
+as [[Well|well]] not know of it. He might think my brain was softening, or
 something of the kind.”

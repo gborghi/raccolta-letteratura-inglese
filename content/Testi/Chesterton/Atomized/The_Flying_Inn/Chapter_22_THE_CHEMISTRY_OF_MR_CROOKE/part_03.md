@@ -24,22 +24,22 @@ The speaker, who appeared to be a powerful person of the plastering occupation, 
 
 
 
-Ivywood looked at the man with that expression of one turned to stone, which his physique made so effective in him. But J. Leveson, Secretary, could summon no such powers of self-petrification. Upon his soul the slaughter red of that unhallowed eve arose when first the Ship and he were foes; when he discovered that the poor are human beings, and therefore are polite and brutal within a comparatively short space of time. He saw that two other men were standing behind the plastering person, one of them apparently urging him to counsels of moderation; which was an ominous sign. And then he lifted his eyes and saw something worse than any omen.
+Ivywood looked at the man with that expression of one turned to stone, which his physique made so effective in him. But J. Leveson, Secretary, could summon no such powers of [[Self|self]]-petrification. Upon his [[Soul|soul]] the slaughter red of that unhallowed eve arose when first the [[Ship]] and he were foes; when he discovered that the poor are human beings, and therefore are polite and brutal within a comparatively short space of [[Time|time]]. He saw that two other men were standing behind the plastering person, one of them apparently urging him to counsels of moderation; which was an ominous sign. And then he lifted his eyes and saw something worse than any omen.
 
 
 
 
-All the glass frontage of the shop was a cloud of crowding faces. They could not be clearly seen, since night was closing in on the street; and the dazzling fires of ruby and amethyst which the lighted shop gave to its great globes of liquid, rather veiled than revealed them. But the foremost actually flattened and whitened their noses on the glass, and the most distant were nearer than Mr. Leveson wanted them. Also he saw a shape erect outside the shop; the shape of an upright staff and a square board. He could not see what was on the board. He did not need to see.
+All the glass frontage of the shop was a cloud of crowding faces. They could not be clearly seen, since [[Night|night]] was closing in on the street; and the dazzling fires of ruby and amethyst which the lighted shop gave to its great globes of liquid, rather veiled than revealed them. But the foremost actually flattened and whitened their noses on the glass, and the most distant were nearer than Mr. Leveson wanted them. Also he saw a shape erect outside the shop; the shape of an upright staff and a square board. He could not see what was on the board. He did not need to see.
 
 
 
 
-Those who saw Lord Ivywood at such moments understood why he stood out so strongly in the history of his time, in spite of his frozen face and his fanciful dogmas. He had all the negative nobility that is possible to man. Unlike Nelson and most of the great heroes, he knew not fear. Thus he was never conquered by a surprise, but was cold and collected when other men had lost their heads even if they had not lost their nerve.
+Those who saw Lord Ivywood at such moments understood why he stood out so strongly in the [[history]] of his [[Time|time]], in spite of his frozen face and his fanciful dogmas. He had all the negative nobility that is possible to man. Unlike Nelson and most of the great heroes, he knew not [[Fear|fear]]. Thus he was never conquered by a surprise, but was cold and collected when other men had lost their heads even if they had not lost their nerve.
 
 
 
 
-“I will not conceal from you, gentlemen,” said Lord Ivywood, “that I have been expecting this. I will not even conceal from you that I have been occupying Mr. Crooke’s time until it occurred. So far from excluding the crowd, I suggest it would be an excellent thing if Mr. Crooke could accommodate them all in this shop. I want to tell, as soon as possible, as large a crowd as possible that the law is altered and this folly about the Flying Inn has ceased. Come in, all of you! Come in and listen!”
+“I will not conceal from you, gentlemen,” said Lord Ivywood, “that I have been expecting this. I will not even conceal from you that I have been occupying Mr. Crooke’s [[Time|time]] until it occurred. So far from excluding the crowd, I suggest it would be an excellent thing if Mr. Crooke could accommodate them all in this shop. I want to tell, as soon as possible, as large a crowd as possible that the law is altered and this folly about the Flying Inn has ceased. Come in, all of you! Come in and listen!”
 
 
 
@@ -49,7 +49,7 @@ Those who saw Lord Ivywood at such moments understood why he stood out so strong
 
 
 
-“Thanky, sir,” said a bright little clock-mender from Croydon, who immediately followed him.
+“Thanky, sir,” said a bright little [[Clock|clock]]-mender from Croydon, who immediately followed him.
 
 
 
@@ -59,7 +59,7 @@ Those who saw Lord Ivywood at such moments understood why he stood out so strong
 
 
 
-“Thank you,” said Mr. Dorian Wimpole, who entered, carrying a large round cheese.
+“Thank you,” said Mr. Dorian Wimpole, who entered, carrying a large round [[cheese]].
 
 
 
@@ -69,12 +69,12 @@ Those who saw Lord Ivywood at such moments understood why he stood out so strong
 
 
 
-“Thank you very much,” said Mr. Humphrey Pump, who entered the shop carrying the sign of “The Old Ship.”
+“Thank you very much,” said Mr. Humphrey Pump, who entered the shop carrying the sign of “The Old [[Ship]].”
 
 
 
 
-I fear it must be recorded that the crowd which followed them dispensed with all expressions of gratitude. But though the crowd filled the shop so that there was no standing room to spare, Leveson still lifted his gloomy eyes and beheld his gloomy omen. For, though there were very many more people standing in the shop, there seemed to be no less people looking in at the window.
+I [[Fear|fear]] it must be recorded that the crowd which followed them dispensed with all expressions of gratitude. But though the crowd filled the shop so that there was no standing room to spare, Leveson still lifted his gloomy eyes and beheld his gloomy omen. For, though there were very many more people standing in the shop, there seemed to be no less people looking in at the [[Window|window]].
 
 
 
@@ -89,12 +89,12 @@ I fear it must be recorded that the crowd which followed them dispensed with all
 
 
 
-“That wooden sign,” said Ivywood, pointing at the queer blue ship, “can be cut up for firewood. It shall lead decent citizens a devil’s dance no more. Understand it once and for all, before you learn it from policemen or prison warders. You are under a new law. That sign is the sign of nothing. You can no more buy and sell alcohol by having that outside your house, than if it were a lamp-post.”
+“That wooden sign,” said Ivywood, pointing at the queer blue [[Ship|ship]], “can be cut up for firewood. It shall lead decent citizens a devil’s [[Dance|dance]] no more. Understand it once and for all, before you learn it from policemen or [[Prison|prison]] warders. You are under a new law. That sign is the sign of nothing. You can no more buy and sell alcohol by having that outside your [[house]], than if it were a lamp-post.”
 
 
 
 
-“D’you meanter say, guv’ner,” said the plasterer, with a dawn of intelligence on his large face which was almost awful to watch, “that I ain’t to ’ave a glass o’ bitter?”
+“D’you meanter say, guv’ner,” said the plasterer, with a [[Dawn|dawn]] of intelligence on his large face which was almost awful to watch, “that I ain’t to ’ave a glass o’ bitter?”
 
 
 
@@ -104,7 +104,7 @@ I fear it must be recorded that the crowd which followed them dispensed with all
 
 
 
-“Captain Dalroy,” said Lord Ivywood, “if you give one drop from that cask to that man, you are breaking the law and you shall sleep in jail.”
+“Captain Dalroy,” said Lord Ivywood, “if you give one drop from that cask to that man, you are breaking the law and you shall [[Sleep|sleep]] in jail.”
 
 
 
@@ -124,7 +124,7 @@ I fear it must be recorded that the crowd which followed them dispensed with all
 
 
 
-“They ain’t got no right to alter the law in the dark like that,” said the clock-mender. “Damn the new law.”
+“They ain’t got no right to alter the law in the dark like that,” said the [[Clock|clock]]-mender. “Damn the new law.”
 
 
 

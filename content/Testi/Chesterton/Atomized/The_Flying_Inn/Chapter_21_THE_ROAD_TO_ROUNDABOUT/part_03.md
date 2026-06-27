@@ -1,5 +1,5 @@
 ---
-title: "The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 3)"
+title: "The Flying Inn — Chapter 21: THE [[Road|ROAD]] TO ROUNDABOUT (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Flying-Inn-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-For all his rather formless hilarity, Dalroy still impressed the poet as being moredistrait than the others, as if his mind were labouring with some bigger thing in the background. He was in a sort of creative trance; and Humphrey Pump, who knew him like his own soul, knew well that it was not mere literary creation. Rather it was a kind of creation which many modern moralists would call destruction. For Patrick Dalroy was, not a little to his misfortune, what is called a man of action; as Captain Dawson realised when he found his entire person a bright pea-green. Fond as he was of jokes and rhymes, nothing he could write or even sing ever satisfied him like something he could do.
+For all his rather formless hilarity, Dalroy still impressed the poet as being moredistrait than the others, as if his mind were labouring with some bigger thing in the background. He was in a sort of creative trance; and Humphrey Pump, who knew him like his own [[Soul|soul]], knew [[Well|well]] that it was not mere literary creation. Rather it was a kind of creation which many modern moralists would call destruction. For Patrick Dalroy was, not a little to his misfortune, what is called a man of action; as Captain Dawson realised when he found his entire person a bright pea-green. Fond as he was of jokes and rhymes, nothing he could write or even sing ever satisfied him like something he could do.
 
 
 
 
-Thus it happened that his contribution to the metrical inquiry into the crooked roads was avowedly hasty and flippant. While Dorian who was of the opposite temper, the temper that receives impressions instead of pushing out to make them, found his artist’s love of beauty fulfilled as it had never been before in that noble nest; and was far more serious and human than usual. Patrick’s verses ran:
+Thus it happened that his contribution to the metrical inquiry into the crooked roads was avowedly hasty and flippant. While Dorian who was of the opposite temper, the temper that receives impressions instead of pushing out to make them, found his [[Artist|artist]]’s [[Love|love]] of [[Beauty|beauty]] fulfilled as it had never been before in that noble nest; and was far more serious and human than usual. Patrick’s verses ran:
 
 
 
@@ -125,12 +125,12 @@ In heaven no longer needs)
 
 
 
-Such dance around the trysting-place
+Such [[Dance|dance]] around the trysting-place
 
 
 
 
-The moonstruck lover leads;
+The moonstruck [[Lover|lover]] leads;
 
 
 
@@ -140,7 +140,7 @@ Which superstition I should scout;
 
 
 
-There is more faith in honest doubt,
+There is more [[Faith|faith]] in honest [[Doubt|doubt]],
 
 
 
@@ -201,7 +201,7 @@ Grey Merlin wrinkled up the roads
 
 
 
-For hope that he should fail;
+For [[Hope|hope]] that he should fail;
 
 
 
@@ -265,7 +265,7 @@ That makes the world go round.”
 
 
 
-Patrick Dalroy relieved his feelings by finishing with a shout, draining a stiff glass of his sailor’s wine, turning restlessly on his elbow and looking across the landscape toward London.
+Patrick Dalroy relieved his feelings by finishing with a shout, draining a stiff glass of his sailor’s wine, turning restlessly on his elbow and looking across the landscape toward [[London]].
 
 
 
@@ -280,12 +280,12 @@ Dorian Wimpole had been drinking golden rum and strong starlight and the fragran
 
 
 
-The rolling English drunkard made the rolling English road.
+The [[rolling]] English drunkard made the [[rolling]] English [[Road|road]].
 
 
 
 
-A reeling road, a rolling road, that rambles round the shire,
+A reeling [[Road|road]], a [[rolling]] [[Road|road]], that rambles round the shire,
 
 
 
@@ -295,12 +295,12 @@ And after him the parson ran, the sexton and the squire.
 
 
 
-A merry road, a mazy road, and such as we did tread
+A merry [[Road|road]], a mazy [[Road|road]], and such as we did tread
 
 
 
 
-That night we went to Birmingham by way of Beachy Head.
+That [[Night|night]] we went to Birmingham by way of Beachy Head.
 
 
 
@@ -311,7 +311,7 @@ That night we went to Birmingham by way of Beachy Head.
 
 
 
-And for to fight the Frenchmen I did not much desire;
+And for to fight the Frenchmen I did not much [[Desire|desire]];
 
 
 
@@ -321,7 +321,7 @@ But I did bash their baggonets because they came arrayed
 
 
 
-To straighten out the crooked road an English drunkard made,
+To straighten out the crooked [[Road|road]] an English drunkard made,
 
 
 
@@ -331,13 +331,13 @@ Where you and I went down the lane with ale-mugs in our hands
 
 
 
-The night we went to Glastonbury by way of Goodwin Sands.
+The [[Night|night]] we went to Glastonbury by way of Goodwin Sands.
 
 
 
 
 
-“His sins they were forgiven him; or why do flowers run
+“His sins they were forgiven him; or why do [[Flowers|flowers]] run
 
 
 
@@ -352,7 +352,7 @@ The wild thing went from left to right and knew not which was which,
 
 
 
-But the wild rose was above him when they found him in the ditch.
+But the wild [[Rose|rose]] was above him when they found him in the ditch.
 
 
 
@@ -362,7 +362,7 @@ God pardon us, nor harden us; we did not see so clear
 
 
 
-The night we went to Bannockburn by way of Brighton Pier.
+The [[Night|night]] we went to Bannockburn by way of Brighton Pier.
 
 
 
@@ -383,7 +383,7 @@ But walk with clearer eyes and ears this path that wandereth,
 
 
 
-And see undrugged in evening light the decent inn of death;
+And see undrugged in evening light the decent inn of [[Death|death]];
 
 
 
@@ -402,12 +402,12 @@ Before we go to Paradise by way of Kensal Green.”
 
 
 
-“Yes,” he said. “But I write under a great disadvantage. You see, I know why the road curves about.” And he read very rapidly, all on one note:
+“Yes,” he said. “But I write under a great disadvantage. You see, I know why the [[Road|road]] curves about.” And he read very rapidly, all on one note:
 
 
 
 
-“The road turned first toward the left
+“The [[Road|road]] turned first toward the left
 
 
 
@@ -447,7 +447,7 @@ It would have been against the laws;
 
 
 
-Squire closed it in King William’s day
+Squire closed it in [[King]] William’s day
 
 
 
@@ -457,12 +457,12 @@ Because it was a Right of Way.
 
 
 
-Still right; to dodge the ridge of chalk
+Still right; to dodge the ridge of [[chalk]]
 
 
 
 
-Where Parson’s Ghost it used to walk,
+Where Parson’s [[Ghost]] it used to walk,
 
 
 
@@ -487,7 +487,7 @@ The good land where old Doggy Burt
 
 
 
-Was owner of the Crown and Cup,
+Was owner of the [[Crown]] and Cup,
 
 
 
@@ -497,7 +497,7 @@ And would not give his freehold up;
 
 
 
-Right, missing the old river-bed,
+Right, missing the old [[River|river]]-bed,
 
 
 

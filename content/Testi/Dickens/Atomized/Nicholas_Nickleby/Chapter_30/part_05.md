@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 30 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 30 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,68 +17,68 @@ tags:
 Next day the posters appeared in due course, and the public were
 informed, in all the colours of the rainbow, and in letters afflicted
 with every possible variation of spinal deformity, how that Mr. Johnson
-would have the honour of making his last appearance that evening, and
+would have the [[Honour|honour]] of making his last appearance that evening, and
 how that an early application for places was requested, in consequence
 of the extraordinary overflow attendant on his performances,--it being
-a remarkable fact in theatrical history, but one long since established
+a remarkable fact in theatrical [[history]], but one long since established
 beyond dispute, that it is a hopeless endeavour to attract people to a
 theatre unless they can be first brought to believe that they will never
 get into it.
 
-Nicholas was somewhat at a loss, on entering the theatre at night,
+Nicholas was somewhat at a loss, on entering the theatre at [[Night|night]],
 to account for the unusual perturbation and excitement visible in the
-countenances of all the company, but he was not long in doubt as to the
+countenances of all the company, but he was not long in [[Doubt|doubt]] as to the
 cause, for before he could make any inquiry respecting it Mr. Crummles
 approached, and in an agitated tone of voice, informed him that there
-was a London manager in the boxes.
+was a [[London]] manager in the boxes.
 
 ‘It’s the phenomenon, depend upon it, sir,’ said Crummles, dragging
 Nicholas to the little hole in the curtain that he might look through at
-the London manager. ‘I have not the smallest doubt it’s the fame of the
+the [[London]] manager. ‘I have not the smallest [[Doubt|doubt]] it’s the fame of the
 phenomenon--that’s the man; him in the great-coat and no shirt-collar.
 She shall have ten pound a week, Johnson; she shall not appear on the
-London boards for a farthing less. They shan’t engage her either, unless
+[[London]] boards for a farthing less. They shan’t engage her either, unless
 they engage Mrs. Crummles too--twenty pound a week for the pair; or I’ll
 tell you what, I’ll throw in myself and the two boys, and they shall
 have the family for thirty. I can’t say fairer than that. They must take
 us all, if none of us will go without the others. That’s the way some of
-the London people do, and it always answers. Thirty pound a week--it’s
+the [[London]] people do, and it always answers. Thirty pound a week--it’s
 too cheap, Johnson. It’s dirt cheap.’
 
-Nicholas replied, that it certainly was; and Mr. Vincent Crummles taking
+Nicholas replied, that it certainly was; and Mr. [[Vincent Crummles]] taking
 several huge pinches of snuff to compose his feelings, hurried away to
 tell Mrs. Crummles that he had quite settled the only terms that could be
 accepted, and had resolved not to abate one single farthing.
 
 When everybody was dressed and the curtain went up, the excitement
-occasioned by the presence of the London manager increased a
-thousand-fold. Everybody happened to know that the London manager had
+occasioned by the presence of the [[London]] manager increased a
+thousand-fold. Everybody happened to know that the [[London]] manager had
 come down specially to witness his or her own performance, and all were
 in a flutter of anxiety and expectation. Some of those who were not
 on in the first scene, hurried to the wings, and there stretched their
 necks to have a peep at him; others stole up into the two little private
 boxes over the stage-doors, and from that position reconnoitred the
-London manager. Once the London manager was seen to smile--he smiled
+[[London]] manager. Once the [[London]] manager was seen to smile--he smiled
 at the comic countryman’s pretending to catch a blue-bottle, while Mrs
 Crummles was making her greatest effect. ‘Very good, my fine fellow,’
 said Mr. Crummles, shaking his fist at the comic countryman when he came
-off, ‘you leave this company next Saturday night.’
+off, ‘you leave this company next Saturday [[Night|night]].’
 
 In the same way, everybody who was on the stage beheld no audience but
-one individual; everybody played to the London manager. When Mr. Lenville
+one individual; everybody played to the [[London]] manager. When Mr. Lenville
 in a sudden burst of passion called the emperor a miscreant, and then
 biting his glove, said, ‘But I must dissemble,’ instead of looking
 gloomily at the boards and so waiting for his cue, as is proper in such
-cases, he kept his eye fixed upon the London manager. When Miss Bravassa
-sang her song at her lover, who according to custom stood ready to shake
+cases, he kept his eye fixed upon the [[London]] manager. When Miss Bravassa
+sang her [[Song|song]] at her [[Lover|lover]], who according to custom stood ready to shake
 hands with her between the verses, they looked, not at each other, but
-at the London manager. Mr. Crummles died point blank at him; and when the
-two guards came in to take the body off after a very hard death, it was
-seen to open its eyes and glance at the London manager. At length the
-London manager was discovered to be asleep, and shortly after that
+at the [[London]] manager. Mr. Crummles died point blank at him; and when the
+two guards came in to take the [[Body|body]] off after a very hard [[Death|death]], it was
+seen to open its eyes and glance at the [[London]] manager. At length the
+[[London]] manager was discovered to be asleep, and shortly after that
 he woke up and went away, whereupon all the company fell foul of the
 unhappy comic countryman, declaring that his buffoonery was the sole
-cause; and Mr. Crummles said, that he had put up with it a long time, but
+cause; and Mr. Crummles said, that he had put up with it a long [[Time|time]], but
 that he really couldn’t stand it any longer, and therefore would feel
 obliged by his looking out for another engagement.
 
@@ -87,19 +87,19 @@ feeling upon the subject was one of sincere satisfaction that the great
 man went away before he appeared. He went through his part in the
 two last pieces as briskly as he could, and having been received with
 unbounded favour and unprecedented applause--so said the bills for next
-day, which had been printed an hour or two before--he took Smike’s arm
-and walked home to bed.
+day, which had been printed an hour or two before--he took [[Smike]]’s arm
+and walked [[Home|home]] to bed.
 
-With the post next morning came a letter from Newman Noggs, very inky,
+With the post next morning came a letter from [[Newman Noggs]], very inky,
 very short, very dirty, very small, and very mysterious, urging Nicholas
-to return to London instantly; not to lose an instant; to be there that
-night if possible.
+to return to [[London]] instantly; not to lose an instant; to be there that
+[[Night|night]] if possible.
 
 ‘I will,’ said Nicholas. ‘Heaven knows I have remained here for the
 best, and sorely against my own will; but even now I may have dallied
-too long. What can have happened? Smike, my good fellow, here--take my
+too long. What can have happened? [[Smike]], my good fellow, here--take my
 purse. Put our things together, and pay what little debts we owe--quick,
-and we shall be in time for the morning coach. I will only tell them
+and we shall be in [[Time|time]] for the morning coach. I will only tell them
 that we are going, and will return to you immediately.’
 
 So saying, he took his hat, and hurrying away to the lodgings of Mr
@@ -112,9 +112,9 @@ The door being opened, Nicholas ran upstairs without any ceremony, and
 bursting into the darkened sitting-room on the one-pair front, found
 that the two Master Crummleses had sprung out of the sofa-bedstead and
 were putting on their clothes with great rapidity, under the impression
-that it was the middle of the night, and the next house was on fire.
+that it was the middle of the [[Night|night]], and the next [[house]] was on [[Fire|fire]].
 
 Before he could undeceive them, Mr. Crummles came down in a flannel gown
 and nightcap; and to him Nicholas briefly explained that circumstances
-had occurred which rendered it necessary for him to repair to London
+had occurred which rendered it necessary for him to repair to [[London]]
 immediately.

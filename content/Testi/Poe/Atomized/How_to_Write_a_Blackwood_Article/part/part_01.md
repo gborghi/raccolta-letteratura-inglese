@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Blackwood Article (part 1)"
+title: "[[How to Write a Blackwood Article]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/How-to-Write-a-Blackwood-Article-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“In the name of the Prophet—figs!!”
+“In the name of the [[Prophet]]—figs!!”
 
                     —_Cry of the Turkish fig-peddler._
 
@@ -28,7 +28,7 @@ tags:
 
       vulgar corruption of Psyche, which is good Greek, and means “the
 
-      soul” (that’s me, I’m all soul) and sometimes “a butterfly,”
+      [[Soul|soul]]” (that’s me, I’m all [[Soul|soul]]) and sometimes “a butterfly,”
 
       which latter meaning undoubtedly alludes to my appearance in my
 
@@ -44,17 +44,17 @@ tags:
 
       Tabitha Turnip indeed! Oh the little wretch! But what can we
 
-      expect from a turnip? Wonder if she remembers the old adage about
+      expect from a turnip? [[Wonder]] if she remembers the old adage about
 
-      “blood out of a turnip,” &c.? [Mem. put her in mind of it the
+      “[[Blood|blood]] out of a turnip,” &c.? [Mem. put her in mind of it the
 
       first opportunity.] [Mem. again—pull her nose.] Where was I? Ah!
 
       I have been assured that Snobbs is a mere corruption of Zenobia,
 
-      and that Zenobia was a queen—(So am I. Dr. Moneypenny always
+      and that Zenobia was a [[Queen|queen]]—(So am I. Dr. Moneypenny always
 
-      calls me the Queen of the Hearts)—and that Zenobia, as well as
+      calls me the [[Queen]] of the Hearts)—and that Zenobia, as [[Well|well]] as
 
       Psyche, is good Greek, and that my father was “a Greek,” and that
 
@@ -94,7 +94,7 @@ tags:
 
       is such a queer man that I am never sure when he is telling me
 
-      the truth. At any rate we always add to our names the initials P.
+      the [[Truth|truth]]. At any rate we always add to our names the initials P.
 
       R. E. T. T. Y. B. L. U. E. B. A. T. C. H.—that is to say,
 
@@ -116,7 +116,7 @@ tags:
 
       exertions of the association to get itself into notice, it met
 
-      with no very great success until I joined it. The truth is, the
+      with no very great [[success]] until I joined it. The [[Truth|truth]] is, the
 
       members indulged in too flippant a tone of discussion. The papers
 
@@ -146,7 +146,7 @@ tags:
 
       better style of thinking and writing, and all the world knows how
 
-      well I have succeeded. We get up as good papers now in the P. R.
+      [[Well|well]] I have succeeded. We get up as good papers now in the P. R.
 
       E. T. T. Y. B. L. U. E. B. A. T. C. H. as any to be found even in
 

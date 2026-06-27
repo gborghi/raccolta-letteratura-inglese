@@ -15,11 +15,11 @@ tags:
 
 
 ‘When she gets better, Stephen, ’tis to be hoped she’ll leave thee to
-thyself again, and do thee no more hurt.  Anyways we will hope so now.
-And now I shall keep silence, for I want thee to sleep.’
+thyself again, and do thee no more hurt.  Anyways we will [[Hope|hope]] so now.
+And now I shall keep [[Silence|silence]], for I want thee to [[Sleep|sleep]].’
 
 He closed his eyes, more to please her than to rest his weary head; but,
-by slow degrees as he listened to the great noise of the wind, he ceased
+by slow degrees as he listened to the great noise of the [[Wind|wind]], he ceased
 to hear it, or it changed into the working of his loom, or even into the
 voices of the day (his own included) saying what had been really said.
 Even this imperfect consciousness faded away at last, and he dreamed a
@@ -42,17 +42,17 @@ thought, more numerous; and they all abhorred him, and there was not one
 pitying or friendly eye among the millions that were fastened on his
 face.  He stood on a raised stage, under his own loom; and, looking up at
 the shape the loom took, and hearing the burial service distinctly read,
-he knew that he was there to suffer death.  In an instant what he stood
+he knew that he was there to suffer [[Death|death]].  In an instant what he stood
 on fell below him, and he was gone.
 
 —Out of what mystery he came back to his usual life, and to places that
 he knew, he was unable to consider; but he was back in those places by
 some means, and with this condemnation upon him, that he was never, in
-this world or the next, through all the unimaginable ages of eternity, to
+this world or the next, through all the unimaginable ages of [[Eternity|eternity]], to
 look on Rachael’s face or hear her voice.  Wandering to and fro,
-unceasingly, without hope, and in search of he knew not what (he only
+unceasingly, without [[Hope|hope]], and in search of he knew not what (he only
 knew that he was doomed to seek it), he was the subject of a nameless,
-horrible dread, a mortal fear of one particular shape which everything
+horrible dread, a mortal [[Fear|fear]] of one particular shape which everything
 took.  Whatsoever he looked at, grew into that form sooner or later.  The
 object of his miserable existence was to prevent its recognition by any
 one among the various people he encountered.  Hopeless labour!  If he led
@@ -61,9 +61,9 @@ it stood, if he drew the curious from places where he knew it to be
 secreted, and got them out into the streets, the very chimneys of the
 mills assumed that shape, and round them was the printed word.
 
-The wind was blowing again, the rain was beating on the house-tops, and
+The [[Wind|wind]] was blowing again, the rain was beating on the [[house]]-tops, and
 the larger spaces through which he had strayed contracted to the four
-walls of his room.  Saving that the fire had died out, it was as his eyes
+walls of his room.  Saving that the [[Fire|fire]] had died out, it was as his eyes
 had closed upon it.  Rachael seemed to have fallen into a doze, in the
 chair by the bed.  She sat wrapped in her shawl, perfectly still.  The
 table stood in the same place, close by the bedside, and on it, in its
@@ -86,23 +86,23 @@ along with them, of the woman he had married eighteen years before.  But
 that he had seen her come to this by inches, he never could have believed
 her to be the same.
 
-All this time, as if a spell were on him, he was motionless and
+All this [[Time|time]], as if a spell were on him, he was motionless and
 powerless, except to watch her.
 
-Stupidly dozing, or communing with her incapable self about nothing, she
+Stupidly dozing, or communing with her incapable [[Self|self]] about nothing, she
 sat for a little while with her hands at her ears, and her head resting
 on them.  Presently, she resumed her staring round the room.  And now,
-for the first time, her eyes stopped at the table with the bottles on it.
+for the first [[Time|time]], her eyes stopped at the table with the bottles on it.
 
 Straightway she turned her eyes back to his corner, with the defiance of
-last night, and moving very cautiously and softly, stretched out her
+last [[Night|night]], and moving very cautiously and softly, stretched out her
 greedy hand.  She drew a mug into the bed, and sat for a while
 considering which of the two bottles she should choose.  Finally, she
-laid her insensate grasp upon the bottle that had swift and certain death
+laid her insensate grasp upon the bottle that had swift and certain [[Death|death]]
 in it, and, before his eyes, pulled out the cork with her teeth.
 
 Dream or reality, he had no voice, nor had he power to stir.  If this be
-real, and her allotted time be not yet come, wake, Rachael, wake!
+real, and her allotted [[Time|time]] be not yet come, wake, Rachael, wake!
 
 She thought of that, too.  She looked at Rachael, and very slowly, very
 cautiously, poured out the contents.  The draught was at her lips.  A
@@ -112,12 +112,12 @@ with a suppressed cry.  The creature struggled, struck her, seized her by
 the hair; but Rachael had the cup.
 
 Stephen broke out of his chair.  ‘Rachael, am I wakin’ or dreamin’ this
-dreadfo’ night?’
+dreadfo’ [[Night|night]]?’
 
-‘’Tis all well, Stephen.  I have been asleep, myself.  ’Tis near three.
-Hush!  I hear the bells.’
+‘’Tis all [[Well|well]], Stephen.  I have been asleep, myself.  ’Tis near three.
+Hush!  I hear [[The Bells|the bells]].’
 
-The wind brought the sounds of the church clock to the window.  They
+The [[Wind|wind]] brought the sounds of the church [[Clock|clock]] to the [[Window|window]].  They
 listened, and it struck three.  Stephen looked at her, saw how pale she
 was, noted the disorder of her hair, and the red marks of fingers on her
 forehead, and felt assured that his senses of sight and hearing had been

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 2)"
+title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -43,7 +43,7 @@ I was puzzled how to answer, but he helped me with a word.
 
 ‘Weak?’ said Mr. Dick.
 
-‘Well,’ I replied, dubiously. ‘Rather so.’
+‘[[Well]],’ I replied, dubiously. ‘Rather so.’
 
 ‘Exactly!’ cried Mr. Dick, who seemed quite enchanted by my reply. ‘That
 is, Trotwood, when they took some of the trouble out of you-know-who’s
@@ -72,7 +72,7 @@ put it in his pocket, and seemed to put my aunt away with it.
 
 ‘Now you are a scholar, Trotwood,’ said Mr. Dick. ‘You are a fine
 scholar. You know what a learned man, what a great man, the Doctor is.
-You know what honour he has always done me. Not proud in his wisdom.
+You know what [[Honour|honour]] he has always done me. Not proud in his wisdom.
 Humble, humble--condescending even to poor Dick, who is simple and knows
 nothing. I have sent his name up, on a scrap of paper, to the kite,
 along the string, when it has been in the sky, among the larks. The kite
@@ -93,7 +93,7 @@ same expression into my own, and shaking my head.
 
 He looked so wistfully into my face, and was so anxious to understand,
 that I took great pains to answer him slowly and distinctly, as I might
-have entered on an explanation to a child.
+have entered on an explanation to a [[Child|child]].
 
 ‘There is some unfortunate division between them,’ I replied. ‘Some
 unhappy cause of separation. A secret. It may be inseparable from the
@@ -103,7 +103,7 @@ Mr. Dick, who had told off every sentence with a thoughtful nod, paused
 when I had done, and sat considering, with his eyes upon my face, and
 his hand upon my knee.
 
-‘Doctor not angry with her, Trotwood?’ he said, after some time.
+‘Doctor not angry with her, Trotwood?’ he said, after some [[Time|time]].
 
 ‘No. Devoted to her.’
 
@@ -112,7 +112,7 @@ his hand upon my knee.
 The sudden exultation with which he slapped me on the knee, and leaned
 back in his chair, with his eyebrows lifted up as high as he could
 possibly lift them, made me think him farther out of his wits than
-ever. He became as suddenly grave again, and leaning forward as before,
+ever. He became as suddenly [[Grave|grave]] again, and leaning forward as before,
 said--first respectfully taking out his pocket-handkerchief, as if it
 really did represent my aunt:
 
@@ -129,7 +129,7 @@ done nothing?’
 ‘Then, I have got it, boy!’ said Mr. Dick. And he stood up before me,
 more exultingly than before, nodding his head, and striking himself
 repeatedly upon the breast, until one might have supposed that he had
-nearly nodded and struck all the breath out of his body.
+nearly nodded and struck all the breath out of his [[Body|body]].
 
 ‘A poor fellow with a craze, sir,’ said Mr. Dick, ‘a simpleton, a
 weak-minded person--present company, you know!’ striking himself again,
@@ -140,11 +140,11 @@ Dick’s nobody! Whoo!’ He blew a slight, contemptuous breath, as if he
 blew himself away.
 
 It was fortunate he had proceeded so far with his mystery, for we heard
-the coach stop at the little garden gate, which brought my aunt and Dora
-home.
+the coach stop at the little [[Garden|garden]] gate, which brought my aunt and Dora
+[[Home|home]].
 
 ‘Not a word, boy!’ he pursued in a whisper; ‘leave all the blame with
-Dick--simple Dick--mad Dick. I have been thinking, sir, for some time,
+Dick--simple Dick--mad Dick. I have been thinking, sir, for some [[Time|time]],
 that I was getting it, and now I have got it. After what you have said
 to me, I am sure I have got it. All right!’ Not another word did Mr.
 Dick utter on the subject; but he made a very telegraph of himself for

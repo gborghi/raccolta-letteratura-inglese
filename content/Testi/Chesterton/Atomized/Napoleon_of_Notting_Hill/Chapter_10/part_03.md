@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 2 (part 3)"
+title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -24,32 +24,32 @@ What did you do with it?"
 "Ah, that is rather interesting!" replied Turnbull, with his mouth full.
 "I used that five pounds in a kindly and philanthropic act."
 
-Wayne was gazing with mystification in his queer and innocent eyes.
+Wayne was gazing with [[Mystification|mystification]] in his queer and [[Innocent|innocent]] eyes.
 
 "I used that five pounds," continued the other, "in giving no less
-than forty little London boys rides in hansom cabs."
+than forty little [[London]] boys rides in hansom cabs."
 
 "Are you insane?" asked the Provost.
 
 "It is only my light touch," returned Turnbull.  "These hansom-cab
 rides will raise the tone...raise the tone, my dear fellow...of
-our London youths, widen their horizon, brace their nervous system,
-make them acquainted with the various public monuments of our great city.
-Education, Wayne, education.  How many excellent thinkers have pointed out
-that political reform is useless until we produce a cultured populace.
+our [[London]] youths, widen their horizon, brace their nervous system,
+make them acquainted with the various public monuments of our great [[City|city]].
+[[Education]], Wayne, [[Education|education]].  How many excellent thinkers have pointed out
+that political [[Reform|reform]] is useless until we produce a cultured populace.
 So that twenty years hence, when these boys are grown up..."
 
 "Mad!" said Wayne, laying down his pencil; "and five pounds gone!"
 
-"You are in error," explained Turnbull.  "You grave creatures
+"You are in error," explained Turnbull.  "You [[Grave|grave]] creatures
 can never be brought to understand how much quicker work
 really goes with the assistance of nonsense and good meals.
 Stripped of its decorative beauties, my statement was strictly accurate.
-Last night I gave forty half-crowns to forty little boys,
-and sent them all over London to take hansom cabs.  I told them
-in every case to tell the cabman to bring them to this spot.
+Last [[Night|night]] I gave forty half-crowns to forty little boys,
+and sent them all over [[London]] to take hansom cabs.  I told them
+in every case to tell the [[cabman]] to bring them to this spot.
 In half an hour from now the declaration of war will be posted up.
-At the same time the cabs will have begun to come in, you will have
+At the same [[Time|time]] the cabs will have begun to come in, you will have
 ordered out the guard, the little boys will drive up in state,
 we shall commandeer the horses for cavalry, use the cabs for barricade,
 and give the men the choice between serving in our ranks and detention

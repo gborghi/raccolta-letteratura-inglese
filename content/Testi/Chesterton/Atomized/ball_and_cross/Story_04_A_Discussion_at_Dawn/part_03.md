@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Discussion at Dawn (part 3)"
+title: "ball and [[Cross|cross]] — A Discussion at [[Dawn]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -21,7 +21,7 @@ But they don't seem to understand the point."
 
 "The point of what?" asked Turnbull.
 
-"The point of the sword," said MacIan, violently, and planted
+"The point of the [[Sword|sword]]," said MacIan, violently, and planted
 the steel point in the soil like a man planting a tree.
 
 "That is a point," said Turnbull, grimly, "that we will discuss later.
@@ -35,7 +35,7 @@ short and sharp.
 not merely because I know the country, which you might learn
 by looking at a map, but because I know the people of the country,
 whom you could not know by living here thirty years.
-That infernal city down there is awake; and it is awake against us.
+That infernal [[City|city]] down there is awake; and it is awake against us.
 All those endless rows of windows and windows are all eyes staring at us.
 All those forests of chimneys are fingers pointing at us,
 as we stand here on the hillside.  This thing has caught on.
@@ -46,18 +46,18 @@ who don't want to die, drop by the score without looking round.
 But because two gentlemen, from private feelings of delicacy,
 do want to die, they will mobilize the army and navy to prevent them.
 For half a year or more, you and I, Mr. MacIan, will be an obstacle
-to every reform in the British Empire.  We shall prevent the Chinese being
+to every [[Reform|reform]] in the British Empire.  We shall prevent the Chinese being
 sent out of the Transvaal and the blocks being stopped in the Strand.
 We shall be the conversational substitute when anyone recommends
-Home Rule, or complains of sky signs.  Therefore, do not imagine,
-in your innocence, that we have only to melt away among those
+[[Home]] Rule, or complains of sky signs.  Therefore, do not imagine,
+in your [[innocence]], that we have only to melt away among those
 English hills as a Highland cateran might into your god-forsaken
-Highland mountains.  We must be eternally on our guard; we must live
+Highland [[Mountains|mountains]].  We must be eternally on our guard; we must live
 the hunted life of two distinguished criminals.  We must expect
 to be recognized as much as if we were Napoleon escaping from Elba.
 We must be prepared for our descriptions being sent to every tiny village,
 and for our faces being recognized by every ambitious policeman.
-We must often sleep under the stars as if we were in Africa.
+We must often [[Sleep|sleep]] under the [[Stars|stars]] as if we were in Africa.
 Last and most important we must not dream of effecting our--
 our final settlement, which will be a thing as famous as
 the Phoenix Park murders, unless we have made real and precise
@@ -75,13 +75,13 @@ It makes me feel I was right to----"
 
 "Yes?" said Turnbull.
 
-"To smash your window," said MacIan.  "I have woken up the world."
+"To smash your [[Window|window]]," said MacIan.  "I have woken up the world."
 
-"Very well, then," said Turnbull, stolidly.  "Let us look at a few
-final facts.  Beyond that hill there is comparatively clear country.
-Fortunately, I know the part well, and if you will follow
+"Very [[Well|well]], then," said Turnbull, stolidly.  "Let us look at a few
+final facts.  Beyond that [[Hill|hill]] there is comparatively clear country.
+Fortunately, I know the part [[Well|well]], and if you will follow
 me exactly, and, when necessary, on your stomach, we may be able
-to get ten miles out of London, literally without meeting anyone
+to get ten miles out of [[London]], literally without meeting anyone
 at all, which will be the best possible beginning, at any rate.
 We have provisions for at least two days and two nights, three days
 if we do it carefully.  We may be able to get fifty or sixty miles
@@ -91,12 +91,12 @@ And the brandy?"
 
 "Yes," said MacIan, like a soldier taking orders.
 
-"Very well, then, come on.  March.  We turn under that third bush
+"Very [[Well|well]], then, come on.  March.  We turn under that third bush
 and so down into the valley."  And he set off ahead at a swinging walk.
 
 Then he stopped suddenly; for he realized that the other was
-not following.  Evan MacIan was leaning on his sword with a lowering face,
-like a man suddenly smitten still with doubt.
+not following.  [[Evan MacIan]] was leaning on his [[Sword|sword]] with a lowering face,
+like a man suddenly smitten still with [[Doubt|doubt]].
 
 "What on earth is the matter?" asked Turnbull, staring in some anger.
 
@@ -104,15 +104,15 @@ Evan made no reply.
 
 "What the deuce is the matter with you?" demanded the leader,
 again, his face slowly growing as red as his beard; then he said,
-suddenly, and in a more human voice, "Are you in pain, MacIan?"
+suddenly, and in a more human voice, "Are you in [[Pain|pain]], MacIan?"
 
 "Yes," replied the Highlander, without lifting his face.
 
 "Take some brandy," cried Turnbull, walking forward hurriedly
 towards him.  "You've got it."
 
-"It's not in the body," said MacIan, in his dull, strange way.
-"The pain has come into my mind.  A very dreadful thing has just
+"It's not in the [[Body|body]]," said MacIan, in his dull, strange way.
+"The [[Pain|pain]] has come into my mind.  A very dreadful thing has just
 come into my thoughts."
 
 "What the devil are you talking about?" asked Turnbull.
@@ -130,21 +130,21 @@ impossible to describe.  "Here, here, upon this blessed grass."
 soon be gone.  Quick!"
 
 And he flung the scabbard from him furiously, and stood with
-the sunlight sparkling along his sword.
+the sunlight sparkling along his [[Sword|sword]].
 
-"You confounded fool," repeated Turnbull.  "Put that thing up again,
-you ass; people will come out of that house at the first clash
+"You confounded [[Fool|fool]]," repeated Turnbull.  "Put that thing up again,
+you ass; people will come out of that [[house]] at the first clash
 of the steel."
 
 "One of us will be dead before they come," said the other, hoarsely,
 "for this is the hour God meant."
 
-"Well, I never thought much of God," said the editor of _The Atheist_,
+"[[Well]], I never thought much of God," said the editor of _The Atheist_,
 losing all patience.  "And I think less now.  Never mind what God meant.
 Kindly enlighten my pagan darkness as to what the devil _you_ mean."
 
 "The hour will soon be gone.  In a moment it will be gone,"
 said the madman.  "It is now, now, now that I must nail your
-blaspheming body to the earth--now, now that I must avenge Our Lady
+blaspheming [[Body|body]] to the earth--now, now that I must avenge Our Lady
 on her vile slanderer.  Now or never.  For the dreadful thought
 is in my mind."

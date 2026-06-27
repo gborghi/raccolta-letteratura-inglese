@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Pompey |
+| *(didascalia)* | Enter [[Pompey]] |

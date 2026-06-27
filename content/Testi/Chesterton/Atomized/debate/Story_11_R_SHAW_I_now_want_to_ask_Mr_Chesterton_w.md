@@ -1,5 +1,5 @@
 ---
-title: "debate — R. SHAW:  I now want to ask Mr. Chesterton why he insists,"
+title: "[[debate]] — R. [[Shaw|SHAW]]:  I now want to ask Mr. Chesterton why he insists,"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/debate-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-MR. SHAW:  I now want to ask Mr. Chesterton why he insists,
+MR. [[Shaw|SHAW]]:  I now want to ask Mr. Chesterton why he insists,
 on the point about the nationalization of the coal-mines--on which
 he agrees with me--that they are an exception.  Are they an exception?
 In what way are the coal-mines an exception?  What is the fundamental
@@ -29,7 +29,7 @@ find you have to go through workings driven out under the sea,
 which took 20 years to make, 20 years continual expenditure
 of capital before coal could be touched, where men going down
 the shaft have to travel sometimes two or three miles to their work.
-That is the reason at bottom why you cannot distribute your coal mine.
+That is the reason at [[Bottom|bottom]] why you cannot distribute your coal mine.
 The reason you have to pay such monstrous prices for your coal
 is they are fixed by the cost of making the submarine mines.
 People who have mines like the Sunderland foreshore naturally make
@@ -46,7 +46,7 @@ are within half-an-hour's drive in a taxi.
 You cannot say that the coal-mine is an exception.
 The coal-mine is only one instance.  Mr. Chesterton in arriving at
 the necessity for the nationalization of the coal-mines has started
-on his journey towards the nationalization of all the industries.
+on his [[Journey|journey]] towards the nationalization of all the industries.
 If he goes on to the land, and from the land to the factory,
 and from there to every other industrial department, he will
 find that every successive case is an exception; and eventually

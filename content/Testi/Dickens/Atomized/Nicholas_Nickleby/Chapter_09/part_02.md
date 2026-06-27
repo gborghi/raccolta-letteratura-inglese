@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 9 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -27,7 +27,7 @@ all, he’s a fondling, that’s my opinion.’
 
 ‘Mrs. Squeers intended to say ‘foundling,’ but, as she frequently
 remarked when she made any such mistake, it would be all the same a
-hundred years hence; with which axiom of philosophy, indeed, she was in
+hundred years hence; with which axiom of [[philosophy]], indeed, she was in
 the constant habit of consoling the boys when they laboured under more
 than ordinary ill-usage.
 
@@ -37,7 +37,7 @@ she is alive now. If he was, it would be no business of ours, for we
 make a very good friend by having him here; and if he likes to learn the
 boys anything besides minding them, I have no objection I am sure.’
 
-‘I say again, I hate him worse than poison,’ said Mrs. Squeers
+‘I say again, I hate him worse than [[Poison|poison]],’ said Mrs. Squeers
 vehemently.
 
 ‘If you dislike him, my dear,’ returned Squeers, ‘I don’t know anybody
@@ -46,9 +46,9 @@ with him, to take the trouble to hide it.’
 
 ‘I don’t intend to, I assure you,’ interposed Mrs. S.
 
-‘That’s right,’ said Squeers; ‘and if he has a touch of pride about him,
+‘That’s right,’ said Squeers; ‘and if he has a touch of [[Pride|pride]] about him,
 as I think he has, I don’t believe there’s woman in all England that can
-bring anybody’s spirit down, as quick as you can, my love.’
+bring anybody’s spirit down, as quick as you can, my [[Love|love]].’
 
 Mrs. Squeers chuckled vastly on the receipt of these flattering
 compliments, and said, she hoped she had tamed a high spirit or two in
@@ -56,7 +56,7 @@ her day. It is but due to her character to say, that in conjunction with
 her estimable husband, she had broken many and many a one.
 
 Miss Fanny Squeers carefully treasured up this, and much more
-conversation on the same subject, until she retired for the night,
+conversation on the same subject, until she retired for the [[Night|night]],
 when she questioned the hungry servant, minutely, regarding the outward
 appearance and demeanour of Nicholas; to which queries the girl returned
 such enthusiastic replies, coupled with so many laudatory remarks
@@ -88,7 +88,7 @@ hesitation.
 without any indication of being stricken to the heart by Miss Squeers’s
 charms.
 
-‘I never knew anything happen so cross,’ exclaimed the young lady.
+‘I never knew anything happen so [[Cross|cross]],’ exclaimed the young lady.
 ‘Thank you! I am very sorry I intruded, I am sure. If I hadn’t thought
 my father was here, I wouldn’t upon any account have--it is very
 provoking--must look so very strange,’ murmured Miss Squeers, blushing
@@ -122,7 +122,7 @@ Upon these instructions Nicholas made the pen; when he gave it to Miss
 Squeers, Miss Squeers dropped it; and when he stooped to pick it up,
 Miss Squeers stooped also, and they knocked their heads together;
 whereat five-and-twenty little boys laughed aloud: being positively for
-the first and only time that half-year.
+the first and only [[Time|time]] that half-year.
 
 ‘Very awkward of me,’ said Nicholas, opening the door for the young
 lady’s retreat.
@@ -130,7 +130,7 @@ lady’s retreat.
 ‘Not at all, sir,’ replied Miss Squeers; ‘it was my fault. It was all my
 foolish--a--a--good-morning!’
 
-‘Goodbye,’ said Nicholas. ‘The next I make for you, I hope will be made
+‘Goodbye,’ said Nicholas. ‘The next I make for you, I [[Hope|hope]] will be made
 less clumsily. Take care! You are biting the nib off now.’
 
 ‘Really,’ said Miss Squeers; ‘so embarrassing that I scarcely know what
@@ -142,7 +142,7 @@ schoolroom door.
 ‘I never saw such legs in the whole course of my life!’ said Miss
 Squeers, as she walked away.
 
-In fact, Miss Squeers was in love with Nicholas Nickleby.
+In fact, Miss Squeers was in [[Love|love]] with [[Nicholas Nickleby]].
 
 To account for the rapidity with which this young lady had conceived a
 passion for Nicholas, it may be necessary to state, that the friend
@@ -153,11 +153,11 @@ miller’s daughter, being fast friends, had covenanted together some two
 years before, according to a custom prevalent among young ladies, that
 whoever was first engaged to be married, should straightway confide the
 mighty secret to the bosom of the other, before communicating it to
-any living soul, and bespeak her as bridesmaid without loss of time; in
+any living [[Soul|soul]], and bespeak her as bridesmaid without loss of [[Time|time]]; in
 fulfilment of which pledge the miller’s daughter, when her engagement
-was formed, came out express, at eleven o’clock at night as the
+was formed, came out express, at eleven o’[[Clock|clock]] at [[Night|night]] as the
 corn-factor’s son made an offer of his hand and heart at twenty-five
-minutes past ten by the Dutch clock in the kitchen, and rushed into Miss
+minutes past ten by the Dutch [[Clock|clock]] in the kitchen, and rushed into Miss
 Squeers’s bedroom with the gratifying intelligence. Now, Miss Squeers
 being five years older, and out of her teens (which is also a great
 matter), had, since, been more than commonly anxious to return the
@@ -167,7 +167,7 @@ please anybody else, had never had an opportunity so to do, inasmuch as
 she had no such secret to disclose. The little interview with Nicholas
 had no sooner passed, as above described, however, than Miss Squeers,
 putting on her bonnet, made her way, with great precipitation, to
-her friend’s house, and, upon a solemn renewal of divers old vows of
+her friend’s [[house]], and, upon a solemn renewal of divers old vows of
 secrecy, revealed how that she was--not exactly engaged, but going to
 be--to a gentleman’s son--(none of your corn-factors, but a gentleman’s
 son of high descent)--who had come down as teacher to Dotheboys Hall,

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 39 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 39 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -28,7 +28,7 @@ The leader of this small party--for, including himself, they were but
 three in number--was our old acquaintance, Mr Tappertit, who seemed,
 physically speaking, to have grown smaller with years (particularly as
 to his legs, which were stupendously little), but who, in a moral point
-of view, in personal dignity and self-esteem, had swelled into a giant.
+of view, in personal dignity and [[Self|self]]-esteem, had swelled into a giant.
 Nor was it by any means difficult for the most unobservant person to
 detect this state of feeling in the quondam ‘prentice, for it not only
 proclaimed itself impressively and beyond mistake in his majestic
@@ -38,18 +38,18 @@ sought communion with its kindred skies.
 
 Mr Tappertit, as chief or captain of the Bulldogs, was attended by his
 two lieutenants; one, the tall comrade of his younger life; the other, a
-‘Prentice Knight in days of yore--Mark Gilbert, bound in the olden time
+‘Prentice Knight in days of yore--Mark Gilbert, bound in the olden [[Time|time]]
 to Thomas Curzon of the Golden Fleece. These gentlemen, like himself,
 were now emancipated from their ‘prentice thraldom, and served as
 journeymen; but they were, in humble emulation of his great example,
 bold and daring spirits, and aspired to a distinguished state in great
 political events. Hence their connection with the Protestant Association
-of England, sanctioned by the name of Lord George Gordon; and hence
+of England, sanctioned by the name of [[Lord George Gordon]]; and hence
 their present visit to The Boot.
 
 ‘Gentlemen!’ said Mr Tappertit, taking off his hat as a great general
-might in addressing his troops. ‘Well met. My lord does me and you the
-honour to send his compliments per self.’
+might in addressing his troops. ‘[[Well]] met. My lord does me and you the
+[[Honour|honour]] to send his compliments per [[Self|self]].’
 
 ‘You’ve seen my lord too, have you?’ said Dennis. ‘I see him this
 afternoon.’
@@ -76,16 +76,16 @@ mile and got together fifty men of the common run, they wouldn’t have
 been worth this one.’
 
 The greater part of the company implicitly subscribed to this
-opinion, and testified their faith in Hugh by nods and looks of great
-significance. Mr Tappertit sat and contemplated him for a long time in
-silence, as if he suspended his judgment; then drew a little nearer to
+opinion, and testified their [[Faith|faith]] in Hugh by nods and looks of great
+significance. Mr Tappertit sat and contemplated him for a long [[Time|time]] in
+[[Silence|silence]], as if he suspended his judgment; then drew a little nearer to
 him, and eyed him over more carefully; then went close up to him, and
 took him apart into a dark corner.
 
 ‘I say,’ he began, with a thoughtful brow, ‘haven’t I seen you before?’
 
 ‘It’s like you may,’ said Hugh, in his careless way. ‘I don’t know;
-shouldn’t wonder.’
+shouldn’t [[Wonder|wonder]].’
 
 ‘No, but it’s very easily settled,’ returned Sim. ‘Look at me. Did you
 ever see ME before? You wouldn’t be likely to forget it, you know, if
@@ -123,7 +123,7 @@ Varden, don’t you?’
 Certainly Hugh did, and he remembered D. Varden too; but that he didn’t
 tell him.
 
-‘You remember coming down there, before I was out of my time, to ask
+‘You remember coming down there, before I was out of my [[Time|time]], to ask
 after a vagabond that had bolted off, and left his disconsolate father a
 prey to the bitterest emotions, and all the rest of it--don’t you?’ said
 Mr Tappertit.
@@ -134,11 +134,11 @@ Mr Tappertit.
 me there. The place would be troubled to go on without me. Don’t you
 remember my thinking you liked the vagabond, and on that account going
 to quarrel with you; and then finding you detested him worse than
-poison, going to drink with you? Don’t you remember that?’
+[[Poison|poison]], going to drink with you? Don’t you remember that?’
 
 ‘To be sure!’ cried Hugh.
 
-‘Well! and are you in the same mind now?’ said Mr Tappertit.
+‘[[Well]]! and are you in the same mind now?’ said Mr Tappertit.
 
 ‘Yes!’ roared Hugh.
 

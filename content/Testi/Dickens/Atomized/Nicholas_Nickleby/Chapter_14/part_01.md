@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 14 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 14 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,14 +20,14 @@ Having the Misfortune to treat of none but Common People, is necessarily
 of a Mean and Vulgar Character
 
 
-In that quarter of London in which Golden Square is situated, there is
+In that quarter of [[London]] in which Golden Square is situated, there is
 a bygone, faded, tumble-down street, with two irregular rows of tall
 meagre houses, which seem to have stared each other out of countenance
-years ago. The very chimneys appear to have grown dismal and melancholy,
+years ago. The very chimneys appear to have grown dismal and [[Melancholy|melancholy]],
 from having had nothing better to look at than the chimneys over the
 way. Their tops are battered, and broken, and blackened with smoke; and,
 here and there, some taller stack than the rest, inclining heavily to
-one side, and toppling over the roof, seems to meditate taking revenge
+one side, and toppling over the roof, seems to meditate taking [[Revenge|revenge]]
 for half a century’s neglect, by crushing the inhabitants of the garrets
 beneath.
 
@@ -42,7 +42,7 @@ scarcely raise a crow among them. The only one with anything approaching
 to a voice, is an aged bantam at the baker’s; and even he is hoarse, in
 consequence of bad living in his last place.
 
-To judge from the size of the houses, they have been, at one time,
+To judge from the size of the houses, they have been, at one [[Time|time]],
 tenanted by persons of better condition than their present occupants;
 but they are now let off, by the week, in floors or rooms, and every
 door has almost as many plates or bell-handles as there are apartments
@@ -56,17 +56,17 @@ to the full-grown girl and half-gallon can.
 In the parlour of one of these houses, which was perhaps a thought
 dirtier than any of its neighbours; which exhibited more bell-handles,
 children, and porter pots, and caught in all its freshness the first
-gust of the thick black smoke that poured forth, night and day, from a
+gust of the thick black smoke that poured forth, [[Night|night]] and day, from a
 large brewery hard by; hung a bill, announcing that there was yet one
 room to let within its walls, though on what story the vacant room could
 be--regard being had to the outward tokens of many lodgers which the
-whole front displayed, from the mangle in the kitchen window to the
+whole front displayed, from the mangle in the kitchen [[Window|window]] to the
 flower-pots on the parapet--it would have been beyond the power of a
 calculating boy to discover.
 
 The common stairs of this mansion were bare and carpetless; but a
 curious visitor who had to climb his way to the top, might have observed
-that there were not wanting indications of the progressive poverty
+that there were not wanting indications of the progressive [[Poverty|poverty]]
 of the inmates, although their rooms were shut. Thus, the first-floor
 lodgers, being flush of furniture, kept an old mahogany table--real
 mahogany--on the landing-place outside, which was only taken in, when
@@ -93,7 +93,7 @@ seemed moreover as though the speaker had uttered them from the interior
 of a mug or other drinking vessel; but they were in the voice of Newman,
 and conveyed a reply in the affirmative.
 
-‘A nasty night, Mr. Noggs!’ said the man in the nightcap, stepping in to
+‘A nasty [[Night|night]], Mr. Noggs!’ said the man in the nightcap, stepping in to
 light his candle.
 
 ‘Does it rain?’ asked Newman.
@@ -103,19 +103,19 @@ light his candle.
 ‘It doesn’t take much to wet you and me through, Mr. Crowl,’ said Newman,
 laying his hand upon the lappel of his threadbare coat.
 
-‘Well; and that makes it the more vexatious,’ observed Mr. Crowl, in the
+‘[[Well]]; and that makes it the more vexatious,’ observed Mr. Crowl, in the
 same pettish tone.
 
 Uttering a low querulous growl, the speaker, whose harsh countenance was
-the very epitome of selfishness, raked the scanty fire nearly out of
+the very epitome of selfishness, raked the scanty [[Fire|fire]] nearly out of
 the grate, and, emptying the glass which Noggs had pushed towards him,
 inquired where he kept his coals.
 
-Newman Noggs pointed to the bottom of a cupboard, and Mr. Crowl, seizing
+[[Newman Noggs]] pointed to the [[Bottom|bottom]] of a cupboard, and Mr. Crowl, seizing
 the shovel, threw on half the stock: which Noggs very deliberately took
 off again, without saying a word.
 
-‘You have not turned saving, at this time of day, I hope?’ said Crowl.
+‘You have not turned saving, at this [[Time|time]] of day, I [[Hope|hope]]?’ said Crowl.
 
 Newman pointed to the empty glass, as though it were a sufficient
 refutation of the charge, and briefly said that he was going downstairs
@@ -131,6 +131,6 @@ couldn’t come, and make up my mind to spend the evening with you!’
 
 ‘I was obliged to go,’ said Newman. ‘They would have me.’
 
-‘Well; but what’s to become of me?’ urged the selfish man, who never
+‘[[Well]]; but what’s to become of me?’ urged the selfish man, who never
 thought of anybody else. ‘It’s all your fault. I’ll tell you what--I’ll
-sit by your fire till you come back again.’
+sit by your [[Fire|fire]] till you come back again.’

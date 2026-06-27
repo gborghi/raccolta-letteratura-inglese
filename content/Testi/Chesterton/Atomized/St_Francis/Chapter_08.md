@@ -18,13 +18,13 @@ Chapter VIII
 
 
 
-THE MIRROR OF CHRIST
+THE [[Mirror|MIRROR]] OF [[Christ|CHRIST]]
 
 
-No man who has been given the freedom of the Faith is likely
+No man who has been given the [[Freedom|freedom]] of the [[Faith]] is likely
 to fall into those hole-and corner extravagances in which later
 degenerate Franciscans, or rather Fraticelli, sought to concentrate
-entirely on St. Francis as a second Christ, the creator of a new gospel.
+entirely on St. Francis as a second [[Christ]], the creator of a new gospel.
 In fact any such notion makes nonsense of every motive in the man's life;
 for no man would reverently magnify what he was meant to rival,
 or only profess to follow what he existed to supplant.
@@ -35,32 +35,32 @@ the universal Church, and prevented it from petering out as that sort
 of stale and second rate sect that is called a new religion.
 Everything that is written here must be understood not only as distinct
 from but diametrically opposed to the idolatry of the Fraticelli.
-The difference between Christ and St. Francis was the difference
+The difference between [[Christ]] and St. Francis was the difference
 between the Creator and the creature; and certainly no creature was
 ever so conscious of that colossal contrast as St. Francis himself.
 But subject to this understanding, it is perfectly true and it is
-vitally important that Christ was the pattern on which St. Francis
+vitally important that [[Christ]] was the pattern on which St. Francis
 sought to fashion himself; and that at many points their human
 and historical lives were even curiously coincident; and above all,
-that compared to most of us at least St. Francis is a most sublime
+that compared to most of us at least St. Francis is a most [[Sublime|sublime]]
 approximation to his Master, and, even in being an intermediary
-and a reflection, is a splendid and yet a merciful Mirror of Christ.
-And this truth suggests another, which I think has hardly been noticed;
+and a reflection, is a splendid and yet a merciful [[Mirror]] of [[Christ]].
+And this [[Truth|truth]] suggests another, which I think has hardly been noticed;
 but which happens to be a highly forcible argument for the authority
-of Christ being continuous in the Catholic Church.
+of [[Christ]] being continuous in the [[Catholic Church]].
 
 Cardinal Newman wrote in his liveliest controversial work a sentence
 that might be a model of what we mean by saying that his creed tends
-to lucidity and logical courage.  In speaking of the ease with which
-truth may be made to look like its own shadow or sham, he said,
-"And if Antichrist is like Christ, Christ I suppose is like Antichrist."
-Mere religious sentiment might well be shocked at the end of the sentence;
+to lucidity and logical [[Courage|courage]].  In speaking of the ease with which
+[[Truth|truth]] may be made to look like its own [[Shadow|shadow]] or sham, he said,
+"And if Antichrist is like [[Christ]], [[Christ]] I suppose is like Antichrist."
+Mere religious sentiment might [[Well|well]] be shocked at the end of the sentence;
 but nobody could object to it except the logician who said
-that Ceasar and Pompey were very much alike, especially Pompey.
+that Ceasar and [[Pompey]] were very much alike, especially [[Pompey]].
 It may give a much milder shock if I say here, what most of us
-have forgotten, that if St. Francis was like Christ, Christ was
+have forgotten, that if St. Francis was like [[Christ]], [[Christ]] was
 to that extent like St. Francis.  And my present point is that it is
-really very enlightening to realise that Christ was like St. Francis.
+really very enlightening to realise that [[Christ]] was like St. Francis.
 What I mean is this; that if men find certain riddles and hard sayings
 in the story of Galilee, and if they find the answers to those
 riddles in the story of Assisi, it really does show that a secret
@@ -68,26 +68,26 @@ has been handed down in one religious tradition and no other.
 It shows that the casket that was locked in Palestine can be unlocked
 in Umbria; for the Church is the keeper of the keys.
 
-Now in truth while it has always seemed natural to explain
-St. Francis in the light of Christ, it has not occurred
-to many people to explain Christ in the light of St. Francis.
+Now in [[Truth|truth]] while it has always seemed natural to explain
+St. Francis in the light of [[Christ]], it has not occurred
+to many people to explain [[Christ]] in the light of St. Francis.
 Perhaps the word "light" is not here the proper metaphor;
-but the same truth is admitted in the accepted metaphor of the mirror.
-St. Francis is the mirror of Christ rather as the moon is the mirror
-of the sun.  The moon is much smaller than the sun, but it is
+but the same [[Truth|truth]] is admitted in the accepted metaphor of the [[Mirror|mirror]].
+St. Francis is the [[Mirror|mirror]] of [[Christ]] rather as the [[Moon|moon]] is the [[Mirror|mirror]]
+of the sun.  The [[Moon|moon]] is much smaller than the sun, but it is
 also much nearer to us; and being less vivid it is more visible.
 Exactly in the same sense St. Francis is nearer to us, and being
 a mere man like ourselves is in that sense more imaginable.
 Being necessarily less of a mystery, he does not, for us,
 so much open his mouth in mysteries.  Yet as a matter of fact,
-many minor things that seem mysteries in the mouth of Christ would
+many minor things that seem mysteries in the mouth of [[Christ]] would
 seem merely characteristic paradoxes in the mouth of St. Francis.
 It seems natural to reread the more remote incidents with the help
-of the more recent ones.  It is a truism to say that Christ lived
-before Christianity; and it follows that as a historical figure.
-He is a figure in heathen history.  I mean that the medium in which He
+of the more recent ones.  It is a truism to say that [[Christ]] lived
+before [[Christianity]]; and it follows that as a historical figure.
+He is a figure in heathen [[history]].  I mean that the medium in which He
 moved was not the medium of Christendom but of the old pagan empire;
-and from that alone, not to mention the distance of time, it follows
+and from that [[Alone|alone]], not to mention the distance of [[Time|time]], it follows
 that His circumstances are more alien to us than those of an Italian
 monk such as we might meet even to-day. I suppose the most authoritative
 commentary can hardly be certain of the current or conventional
@@ -103,11 +103,11 @@ All sorts of critical controversies have revolved round the passage
 which bids men consider the lilies of the field and copy them in taking
 no thought for the morrow.  The sceptic has alternated between
 telling us to be true Christians and do it, and explaining that it
-is impossible to do.  When he is a communist as well as an atheist,
+is impossible to do.  When he is a communist as [[Well|well]] as an atheist,
 he is generally doubtful whether to blame us for preaching what is
 impracticable or for not instantly putting it into practice.
 I am not going to discuss here the point of ethics and economics;
-I merely remark that even those who are puzzled at the saying of Christ
+I merely remark that even those who are puzzled at the saying of [[Christ]]
 would hardly pause in accepting it as a saying of St. Francis.
 Nobody would be surprised to find that he had said, "I beseech you,
 little brothers, that you be as wise as Brother Daisy
@@ -119,11 +119,11 @@ cheek and to give the coat to the robber who has taken the cloak.
 It is widely held to imply the wickedness of war among nations
 about which, in itself, not a word seems to have been said.
 Taken thus literally and universally, it much more clearly implies
-the wickedness of all law and government.  Yet there are many prosperous
+the wickedness of all law and [[government]].  Yet there are many prosperous
 peacemakers who are much more shocked at the idea of using the brute
 force of soldiers against a powerful foreigner than they are at
 using the brute force of policemen against a poor fellow-citizen.
-Here again I am content to point out that the paradox becomes
+Here again I am content to point out that the [[Paradox|paradox]] becomes
 perfectly human and probable if addressed by Francis to Franciscans.
 Nobody would be surprised to read that Brother Juniper did then
 run after the thief that had stolen his hood, beseeching him
@@ -135,7 +135,7 @@ a present of his stockings.  We may like or not the atmosphere
 these things imply; but we know what atmosphere they do imply.
 We recognise a certain note as natural and clear as the note of a bird;
 the note of St. Francis.  There is in it something of gentle
-mockery of the very idea of possessions; something of a hope
+mockery of the very idea of possessions; something of a [[Hope|hope]]
 of disarming the enemy by generosity; something of a humorous sense
 of bewildering the worldly with the unexpected; something of the joy
 of carrying an enthusiastic conviction to a logical extreme.
@@ -150,39 +150,39 @@ natural to suppose that the case that is more remote from our
 experience was like the case that is closer to our experience.
 As the thing is explicable on the assumption that Francis was speaking
 to Franciscans, it is not an irrational explanation to suggest that
-Christ also was speaking to some dedicated band that had much the same
+[[Christ]] also was speaking to some dedicated band that had much the same
 function as Franciscans.  In other words, it seems only natural to hold,
-as the Catholic Church has held, that these counsels of perfection
+as the [[Catholic Church]] has held, that these counsels of perfection
 were part of a particular vocation to astonish and awaken the world.
 But in any case it is important to note that when we do find
 these particular features, with their seemingly fantastic fitness,
 reappearing after more than a thousand years, we find them
 produced by the same religious system which claims continuity
 and authority from the scenes in which they first appeared.
-Any number of philosophies will repeat the platitudes of Christianity.
+Any number of philosophies will repeat the platitudes of [[Christianity]].
 But it is the ancient Church that can again startle the world
-with the paradoxes of Christianity.  Ubi Petrus ibi Franciscus.
+with the paradoxes of [[Christianity]].  Ubi Petrus ibi Franciscus.
 
 But if we understand that it was truly under the inspiration
 of his divine Master that St. Francis did these merely quaint
-or eccentric acts of charity, we must understand that it was under
-the same inspiration that he did acts of self-denial and austerity.
-It is clear that these more or less playful parables of the love
+or eccentric acts of [[Charity|charity]], we must understand that it was under
+the same inspiration that he did acts of [[Self|self]]-denial and austerity.
+It is clear that these more or less playful parables of the [[Love|love]]
 of men were conceived after a close study of the Sermon on the Mount.
 But it is evident that he made an even closer study of the silent
 sermon on that other mountain; the mountain that was called Golgotha.
-Here again he was speaking the strict historical truth,
-when he said that in fasting or suffering humiliation he was
-but trying to do something of what Christ did; and here again it
-seems probable that as the same truth appears at the two ends
-of a chain of tradition, the tradition has preserved the truth.
+Here again he was speaking the strict historical [[Truth|truth]],
+when he said that in fasting or [[Suffering|suffering]] humiliation he was
+but trying to do something of what [[Christ]] did; and here again it
+seems probable that as the same [[Truth|truth]] appears at the two ends
+of a chain of tradition, the tradition has preserved the [[Truth|truth]].
 But the import of this fact at the moment affects the next phase
-in the personal history of the man himself.
+in the personal [[history]] of the man himself.
 
 For as it becomes clearer that his great communal scheme is
 an accomplished fact and past the peril of an early collapse,
 as it becomes evident that there already is such a thing as an Order
-of the Friars Minor, this more individual and intense ambition
+of the Friars Minor, this more individual and intense [[Ambition|ambition]]
 of St. Francis emerges more and more.  So soon as he certainly
 has followers, he does not compare himself with his followers,
 towards whom he might appear as a master; he compares himself
@@ -193,20 +193,20 @@ Every other sort of superiority may be superciliousness.
 But the saint is never supercilious, for he is always by hypothesis
 in the presence of a superior.  The objection to an aristocracy is
 that it is a priesthood without a god.  But in any case the service
-to which St. Francis had committed himself was one which, about this time,
+to which St. Francis had committed himself was one which, about this [[Time|time]],
 he conceived more and more in terms of sacrifice and crucifixion.
 He was full of the sentiment that he had not suffered enough
-to be worthy even to be a distant follower of his suffering God.
-And this passage in his history may really be roughly summarized
-as the Search for Martyrdom.
+to be worthy even to be a distant follower of his [[Suffering|suffering]] God.
+And this passage in his [[history]] may really be roughly summarized
+as the Search for [[Martyrdom]].
 
 This was the ultimate idea in the remarkable business of his
 expedition among the Saracens in Syria.  There were indeed other
 elements in his conception, which are worthy of more intelligent
 understanding than they have often received.  His idea, of course,
-was to bring the Crusades in a double sense to their end;
+was to bring the [[Crusades]] in a [[Double|double]] sense to their end;
 that is, to reach their conclusion and to achieve their purpose.
-Only he wished to do it by conversion and not by conquest; that is,
+Only he wished to do it by [[conversion]] and not by conquest; that is,
 by intellectual and not material means.  The modern mind is hard
 to please; and it generally calls the way of Godfrey ferocious
 and the way of Francis fanatical.  That is, it calls any moral
@@ -221,20 +221,20 @@ It was in one way a simple idea, as most of his ideas were simple ideas.
 But it was not a silly idea; there was a great deal to be said for it
 and it might have succeeded.  It was, of course, simply the idea
 that it is better to create Christians than to destroy Moslems.
-If Islam had been converted, the world would have been immeasurably
+If [[Islam]] had been converted, the world would have been immeasurably
 more united and happy; for one thing, three quarters of the wars
-of modern history would never have taken place.  It was not absurd
+of modern [[history]] would never have taken place.  It was not absurd
 to suppose that this might be effected, without military force,
 by missionaries who were also martyrs.  The Church had conquered
 Europe in that way and may yet conquer Asia or Africa in that way.
 But when all this is allowed for, there is still another sense
-in which St. Francis was not thinking of Martyrdom as a means
+in which St. Francis was not thinking of [[Martyrdom]] as a means
 to an end, but almost as an end in itself; in the sense that to him
-the supreme end was to come closer to the example of Christ.
+the supreme end was to come closer to the example of [[Christ]].
 Through all his plunging and, restless days ran the refrain:
 I have not suffered enough; I have not sacrificed enough;
-I am not yet worthy even of the shadow of the crown of thorns.
-He wandered about the valleys of the world looking for the hill
+I am not yet worthy even of the [[Shadow|shadow]] of the [[Crown|crown]] of thorns.
+He wandered about the valleys of the world looking for the [[Hill|hill]]
 that has the outline of a skull.
 
 A little while before his final departure for the East a vast
@@ -242,13 +242,13 @@ and triumphant assembly of the whole order had been held near
 the Portiuncula; and called the Assembly of the Straw Huts,
 from the manner in which that mighty army encamped in the field.
 Tradition says that it was on this occasion that St. Francis
-met St. Dominic for the first and last time.  It also says,
+met St. Dominic for the first and last [[Time|time]].  It also says,
 what is probable enough, that the practical spirit of the Spaniard
 was almost appalled at the devout irresponsibility of the Italian,
 who had assembled such a crowd without organising a commissariat.
 Dominic the Spaniard was, like nearly every Spaniard, a man
-with the mind of a soldier.  His charity took the practical form
-of provision and preparation.  But, apart from the disputes about faith
+with the mind of a soldier.  His [[Charity|charity]] took the practical form
+of provision and preparation.  But, apart from the disputes about [[Faith|faith]]
 which such incidents open, he probably did not understand in this
 case the power of mere popularity produced by mere personality.
 In all his leaps in the dark, Francis had an extraordinary faculty
@@ -256,8 +256,8 @@ of falling on his feet.  The whole countryside came down like a
 landslide to provide food and drink for this sort of pious picnic.
 Peasants brought waggons of wine and game; great nobles walked
 about doing the work of footmen.  It was a very real victory for
-the Franciscan spirit of a reckless faith not only in God but in man.
-Of course there is much doubt and dispute about the whole story
+the Franciscan spirit of a reckless [[Faith|faith]] not only in God but in man.
+Of course there is much [[Doubt|doubt]] and dispute about the whole story
 and the whole relation of Francis and Dominic; and the story of
 the Assembly of the Straw Huts is told from the Franciscan side.
 But the alleged meeting is worth mentioning, precisely because it
@@ -266,28 +266,28 @@ crusade that he is said to have met St. Dominic, who has been
 so much criticised for lending himself to a more bloody one.
 There is no space in this little book to explain how St. Francis,
 as much as St. Dominic, would ultimately have defended the defence
-of Christian unity by arms.  Indeed it would need a large book instead
-of a little book to develop that point alone from its first principles.
-For the modern mind is merely a blank about the philosophy
+of Christian [[unity]] by arms.  Indeed it would need a large book instead
+of a little book to develop that point [[Alone|alone]] from its first principles.
+For the modern mind is merely a blank about the [[philosophy]]
 of toleration; and the average agnostic of recent times has really
 had no notion of what he meant by religious liberty and equality.
-He took his own ethics as self-evident and enforced them;
+He took his own ethics as [[Self|self]]-evident and enforced them;
 such as decency or the error of the Adamite heresy.  Then he was
 horribly shocked if he heard of anybody else, Moslem or Christian,
-taking his ethics as self-evident and enforcing them; such as reverence
+taking his ethics as [[Self|self]]-evident and enforcing them; such as reverence
 or the error of the Athiest heresy.  And then he wound up by taking
 all this lop-sided illogical deadlock, of the unconscious meeting
 the unfamiliar, and called it the liberality of his own mind.
 Medieval men thought that if a social system was founded
 on a certain idea it must fight for that idea, whether it was
-as simple as Islam or as carefully balanced as Catholicism.
+as simple as [[Islam]] or as carefully balanced as Catholicism.
 Modern men really think the same thing, as is clear when communists
 attack their ideas of property.  Only they do not think it so clearly,
 because they have not really thought out their idea of property.
 But while it is probable that St. Francis would have reluctantly agreed
-with St. Dominic that war for the truth was right in the last resort,
+with St. Dominic that war for the [[Truth|truth]] was right in the last resort,
 it is certain that St. Dominic did enthusiastically agree with
-St. Francis that it was far better to prevail by persuasion and
+St. Francis that it was far better to prevail by [[Persuasion|persuasion]] and
 enlightenment if it were possible.  St. Dominic devoted himself much
 more to persuading than to persecuting; but there was a difference
 in the methods simply because there was a difference in the men.
@@ -306,29 +306,29 @@ into everything else.  It has all that air of running a race which makes
 his whole life read like an escapade or even literally an escape.
 He lay like lumber among the cargo, with one companion whom
 he had swept with him in his rush; but the voyage was apparently
-unfortunate and erratic and ended in an enforced return to Italy.
+unfortunate and erratic and ended in an enforced return to [[Italy]].
 Apparently it was after this first false start that the great reunion
 took place at the Portiuncula, and between this and the final Syrian
-journey there was also an attempt to meet the Moslem menace by
+[[Journey|journey]] there was also an attempt to meet the Moslem menace by
 preaching to the Moors in Spain.  In Spain indeed several of the first
 Franciscans had already succeeded gloriously in being martyred.
 But the great Francis still went about stretching out his
 arms for such torments and desiring that agony in vain.
 No one would have said more readily than he that he was probably less
-like Christ than those others who had already found their Calvary;
+like [[Christ]] than those others who had already found their Calvary;
 but the thing remained with him like a secret; the strangest
 of the sorrows of man.
 
 His later voyage was more successful, so far as arriving at the scene
 of operations was concerned.  He arrived at the headquarters
-of the Crusade which was in front of the besieged city of Damietta,
+of the Crusade which was in front of the besieged [[City|city]] of Damietta,
 and went on in his rapid and solitary fashion to seek the headquarters
 of the Saracens.  He succeeded in obtaining an interview with
 the Sultan; and it was at that interview that he evidently offered,
-and as some say proceeded, to fling himself into the fire as a
+and as some say proceeded, to fling himself into the [[Fire|fire]] as a
 divine ordeal, defying the Moslem religious teachers to do the same.
 It is quite certain that he would have done so at a moment's notice.
-Indeed throwing himself into the fire was hardly more desperate,
+Indeed throwing himself into the [[Fire|fire]] was hardly more desperate,
 in any case, than throwing himself among the weapons and tools
 of torture of a horde of fanatical Mahometans and asking them
 to renounce Mahomet.  It is said further that the Mahometan
@@ -337,7 +337,7 @@ and that one of them quietly withdrew while it was under discussion;
 which would also appear credible.  But for whatever reason Francis
 evidently returned as freely as he came.  There may be something
 in the story of the individual impression produced on the Sultan,
-which the narrator represents as a sort of secret conversion.
+which the narrator represents as a sort of secret [[conversion]].
 There may be something in the suggestion that the holy man was
 unconsciously protected among half-barbarous Orientals by the halo
 of sanctity that is supposed in such places to surround an idiot.
@@ -346,37 +346,37 @@ of that graceful though capricious courtesy and compassion which mingled
 with wilder things in the stately Soldans of the type and tradition
 of Saladin.  Finally, there is perhaps something in the suggestion
 that the tale of St. Francis might be told as a sort of ironic
-tragedy and comedy called The Man Who Could Not Get Killed.
-Men liked him too much for himself to let him die for his faith;
+[[Tragedy|tragedy]] and [[Comedy|comedy]] called The Man Who Could Not Get Killed.
+Men liked him too much for himself to let him die for his [[Faith|faith]];
 and the man was received instead of the message.  But all these are
 only converging guesses at a great effort that is hard to judge,
 because it broke off short like the beginnings of a great bridge
 that might have united East and West, and remains one of the great
-might-have-beens of history.
+might-have-beens of [[history]].
 
-Meanwhile the great movement in Italy was making giant strides.
-Backed now by papal authority as well as popular enthusiasm,
-and creating a kind of comradeship among all classes, it had started
+Meanwhile the great movement in [[Italy]] was making giant strides.
+Backed now by papal authority as [[Well|well]] as popular enthusiasm,
+and creating a kind of [[Comradeship|comradeship]] among all classes, it had started
 a riot of reconstruction on all sides of religious and social life;
 and especially began to express itself in that enthusiasm for building
 which is the mark of all the resurrections of Western Europe.
 There had notably been established at Bologna a magnificent
-mission house of the Friars Minor; and a vast body of them and
-their sympathisers surrounded it with a chorus of acclamation.
-Their unanimity had a strange interruption.  One man alone in that
+mission [[house]] of the Friars Minor; and a vast [[Body|body]] of them and
+their sympathisers surrounded it with a [[Chorus|chorus]] of acclamation.
+Their unanimity had a strange interruption.  One man [[Alone|alone]] in that
 crowd was seen to turn and suddenly denounce the building as if it
 had been a Babylonian temple; demanding indignantly since when
-the Lady Poverty had thus been insulted with the luxury of palaces.
+the Lady [[Poverty]] had thus been insulted with the luxury of palaces.
 It was Francis, a wild figure, returned from his Eastern Crusade;
-and it was the first and last time that he spoke in wrath
+and it was the first and last [[Time|time]] that he spoke in wrath
 to his children.
 
 A word must be said later about this serious division of sentiment
 and policy, about which many Franciscans, and to some extent
 Francis himself, parted company with the more moderate policy
 which ultimately prevailed.  At this point we need only note it
-as another shadow fallen upon his spirit after his disappointment
-in the desert; and as in some sense the prelude to the next phase
+as another [[Shadow|shadow]] fallen upon his spirit after his disappointment
+in the [[Desert|desert]]; and as in some sense the prelude to the next phase
 of his career, which is the most isolated and the most mysterious.
 It is true that everything about this episode seems to be
 covered with some cloud of dispute, even including its date;
@@ -387,42 +387,42 @@ I say indicated for it must be a matter of little more than indication;
 the thing being a mystery both in the higher moral and the more
 trivial historical sense.  Anyhow the conditions of the affair
 seem to have been these.  Francis and a young companion,
-in the course of their common wandering, came past a great castle
-all lighted up with the festivities attending a son of the house
-receiving the honour of knighthood.  This aristocratic mansion,
+in the course of their common wandering, came past a great [[Castle|castle]]
+all lighted up with the festivities attending a son of the [[house]]
+receiving the [[Honour|honour]] of knighthood.  This aristocratic mansion,
 which took its name from Monte Feltro, they entered in their beautiful
 and casual fashion and began to give their own sort of good news.
 There were some at least who listened to the saint "as if he had been
-an angel of God"; among them a gentleman named Orlando of Chiusi,
+an angel of God"; among them a gentleman named [[Orlando]] of Chiusi,
 who had great lands in Tuscany and who proceeded to do St. Francis
 a singular and somewhat picturesque act of courtesy.  He gave him
 a mountain; a thing somewhat unique among the gifts of the world.
 Presumably the Franciscan rule which forbade a man to accept
-money had made no detailed provision about accepting mountains.
+money had made no detailed provision about accepting [[Mountains|mountains]].
 Nor indeed did St. Francis accept it save as he accepted everything,
 as a temporary convenience rather than a personal possession;
 but he turned it into a sort of refuge for the eremitical rather than
-the monastic life; he retired there when he wished for a life of prayer
+the monastic life; he retired there when he wished for a life of [[Prayer|prayer]]
 and fasting which he did not ask even his closest friends to follow.
 This was Alverno of the Apennines, and upon its peak there rests
 for ever a dark cloud that has a rim or halo of glory.
 
 What it was exactly that happened there may never be known.
 The matter has been, I believe, a subject of dispute among the most
-devout students of the saintly life as well as between such students
+devout students of the saintly life as [[Well|well]] as between such students
 and others of the more secular sort.  It may be that St. Francis never
-spoke to a soul on the subject; it would be highly characteristic,
+spoke to a [[Soul|soul]] on the subject; it would be highly characteristic,
 and it is certain in any case that he said very little;
 I think he is only alleged to have spoken of it to one man.
 Subject however to such truly sacred doubts, I will confess that to me
 personally this one solitary and indirect report that has come
 down to us reads very like the report of something real; of some of
 those things that are more real than what we call daily realities.
-Even something as it were double and bewildering about the image seems
+Even something as it were [[Double|double]] and bewildering about the image seems
 to carry the impression of an experience shaking the senses; as does
-the passage in Revelation about the supernatural creatures full of eyes.
+the passage in Revelation about the [[Supernatural|supernatural]] creatures full of eyes.
 It would seem that St. Francis beheld the heavens above him occupied
-by a vast winged being like a seraph spread out like a cross.
+by a vast winged being like a seraph spread out like a [[Cross|cross]].
 There seems some mystery about whether the winged figure was
 itself crucified or in the posture of crucifixion, or whether it
 merely enclosed in its frame of wings some colossal crucifix.
@@ -437,14 +437,14 @@ the general idea of it is very vivid and overwhelming.  St. Francis
 saw above him, filling the whole heavens, some vast immemorial
 unthinkable power, ancient like the Ancient of Days, whose calm men
 had conceived under the forms of winged bulls or monstrous cherubim,
-and all that winged wonder was in pain like a wounded bird.
-This seraphic suffering, it is said, pierced his soul with a sword
+and all that winged [[Wonder|wonder]] was in [[Pain|pain]] like a wounded bird.
+This seraphic [[Suffering|suffering]], it is said, pierced his [[Soul|soul]] with a [[Sword|sword]]
 of grief and pity; it may be inferred that some sort of mounting
 agony accompanied the ecstasy.  Finally after some fashion
-the apocalypse faded from the sky and the agony within subsided;
-and silence and the natural air filled the morning twilight and settled
+the [[Apocalypse|apocalypse]] faded from the sky and the agony within subsided;
+and [[Silence|silence]] and the natural air filled the morning twilight and settled
 slowly in the purple chasms and cleft abysses of the Apennines.
 The head of the solitary sank, amid all that relaxation and quiet
-in which time can drift by with the sense of something ended
+in which [[Time|time]] can drift by with the sense of something ended
 and complete; and as he stared downwards, he saw the marks of nails
 in his own hands.

@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 5 (part 2)"
+title: "[[Don Quixote]] — Chapter 5 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -17,19 +17,19 @@ tags:
 "Mind if I share your omnibus?" asked Murrel, sinking on a
 bench beside the solitary outside passenger; for nobody else
 seemed to be travelling by the vehicle; they were sitting
-well forward in the front seats and the full blast of the night
+[[Well|well]] forward in the front seats and the full blast of the [[Night|night]]
 air came in their faces as the vehicle began to move.
 It seemed to wake Braintree out of a trance of abstraction
 and he assented rather curtly.
 
-"The truth is," said Murrel, "that I feel inclined to go and look
+"The [[Truth|truth]] is," said Murrel, "that I feel inclined to go and look
 at your coal-cellar."
 
 "You wouldn't like to be locked up in the coal-cellar,"
 said the other, still a little gruffly.
 
 "Of course, I should prefer to be locked up in the wine-cellar,"
-admitted Murrel.  "A new version of your parable of Labour.
+admitted Murrel.  "A new version of your [[Parable|parable]] of Labour.
 The vain and idle revelling above, while the dull persistent
 sound of popping corks told them that I was still below,
 toiling, labouring, never at rest. . . . But really, old man,
@@ -43,7 +43,7 @@ He knew the morbid sensitiveness of the most masculine sort of men.
 He knew his friend's almost maniacal dread of snobbery; and knew
 better than to say anything about the successes of the salon.
 To talk about Braintree as a slave in a coal-cellar was to
-steady his self-respect.
+steady his [[Self|self]]-respect.
 
 "Mostly dye-works and that sort of thing, aren't they?"
 asked Murrel, gazing at the forest of factory-chimneys,
@@ -59,14 +59,14 @@ of the soldier."
 
 "And what about the red tie of the Socialist?"
 asked Murrel reproachfully.  "Jack, I cannot believe that red
-tie of yours is freshly dipped in the blood of aristocrats.
-Anxious as I am to think well of you, I cannot think you
+tie of yours is freshly dipped in the [[Blood|blood]] of aristocrats.
+Anxious as I am to think [[Well|well]] of you, I cannot think you
 come reeking from the massacre of our old nobility.
-Besides, I always understood that the blood would be blue.
+Besides, I always understood that the [[Blood|blood]] would be blue.
 Can it be that you yourself are now a walking advertisement
 of old What's-his-name's dye-works?  Buy Our Red Ties.
 Syndicalist Gents Suited.  Mr. John Braintree,
-the Well-Known Revolutionist, Writes 'Since Using Your--'"
+the [[Well]]-Known Revolutionist, Writes 'Since Using Your--'"
 
 "Nobody knows where anything comes from nowadays, Douglas,"
 said Braintree quietly.  "That's what's called publicity and popular
@@ -98,8 +98,8 @@ The answering grunt of the person called Bill was sufficient
 to indicate that he entirely agreed that the hours of proletarian
 employment were much too long.
 
-"Well, you're all right, Bill," said Murrel.  "You're one
-of the lucky ones, especially to-night. Old Charley comes
+"[[Well]], you're all right, Bill," said Murrel.  "You're one
+of the lucky ones, especially to-[[Night|night]]. Old Charley comes
 on at the Dragon, don't he?"
 
 "Why, yes," said the driver in slow and luxuriantly scornful tones.
@@ -114,7 +114,7 @@ Show you bear no malice for Golliwog.  But I swear I only told
 you to back him for a place."
 
 "Never mind, Sir.  Never you mind about that," observed the
-benevolent Bill, in a glow of Christian forgiveness.
+benevolent Bill, in a glow of Christian [[Forgiveness|forgiveness]].
 "Never mind having a bit on; and if you lose your bit--
 why, there you are."
 
@@ -139,11 +139,11 @@ It was the Public Bar or open and honest place of drinking for the poor.
 And the moment Braintree stepped across its threshold, he knew
 he was confronted with something new; with something that he had never
 touched or tasted or seen or smelt before in all his fifteen years
-of tub-thumping. There was a good deal to be smelt as well as seen;
+of tub-thumping. There was a good deal to be smelt as [[Well|well]] as seen;
 and much that he did not feel inclined to touch, far less to taste.
 The place was very hot and densely crowded and full of a deafening
 clatter of people all talking at once.  Many of them did not seem to mind
-much whether the others were listening or talking at the same time.
+much whether the others were listening or talking at the same [[Time|time]].
 A great part of the talk was totally unintelligible to him,
 though evidently full of emphatic expressions; as if a crowd were
 swearing in Dutch or Portuguese.  Every now and then in the stream

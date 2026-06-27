@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-“I remember it very well,” answered the Englishman, with restraint.
+“I remember it very [[Well|well]],” answered the Englishman, with restraint.
 
 
 
 
-“And don’t ye remember,” went on the exhilarated Irishman, with solemnity, “that unless ye could produce a poetic lyric of your own, written and sung by yourself, I threatened to …”
+“And don’t ye remember,” went on the exhilarated Irishman, with solemnity, “that unless ye could produce a poetic [[Lyric|lyric]] of your own, written and sung by yourself, I threatened to …”
 
 
 
@@ -34,32 +34,32 @@ He calmly proceeded to take out of his pockets, which were, alas, more like thos
 
 
 
-“I wrote it when you asked me,” he said simply. “I have never tried to sing it. But I’ll sing it myself, when you’ve sung your song, against anybody singing at all.”
+“I wrote it when you asked me,” he said simply. “I have never tried to sing it. But I’ll sing it myself, when you’ve sung your [[Song|song]], against anybody singing at all.”
 
 
 
 
-“All right,” cried the somewhat excited Captain, “to hear a song from you–why, I’ll sing anything. This is the Song Against Songs, Hump.”
+“All right,” cried the somewhat excited Captain, “to hear a [[Song|song]] from you–why, I’ll sing anything. This is the [[Song]] Against [[songs|Songs]], Hump.”
 
 
 
 
-And again he let his voice out like a bellow against the evening silence.
+And again he let his voice out like a bellow against the evening [[Silence|silence]].
 
 
 
 
-“The song of the sorrow of Melisande is a weary song and a dreary song,
+“The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
 
 
 
 
-The glory of Mariana’s grange had got into great decay,
+The glory of [[Mariana]]’s grange had got into great [[Decay|decay]],
 
 
 
 
-The song of the Raven Never More has never been called a cheery song,
+The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
 
 
 
@@ -69,12 +69,12 @@ And the brightest things in Baudelaire are anything else but gay.
 
 
 
-But who will write us a riding song,
+But who will write us a riding [[Song|song]],
 
 
 
 
-Or a hunting song or a drinking song,
+Or a hunting [[Song|song]] or a drinking [[Song|song]],
 
 
 
@@ -94,48 +94,48 @@ But bring me a quart of claret out,
 
 
 
-And I will write you a clinking song,
+And I will write you a clinking [[Song|song]],
 
 
 
 
-A song of war and a song of wine,
+A [[Song|song]] of war and a [[Song|song]] of wine,
 
 
 
 
-And a song to wake the dead.
+And a [[Song|song]] to wake the dead.
 
 
 
 
 
-“The song of the fury of Fragolette is a florid song and a torrid song,
+“The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
 
 
 
 
-The song of the sorrow of Tara is sung to a harp unstrung,
+The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
 
 
 
 
-The song of the cheerful Shropshire Kid I consider a perfectly horrid song,
+The [[Song|song]] of the cheerful Shropshire Kid I consider a perfectly horrid [[Song|song]],
 
 
 
 
-And the song of the happy Futurist is a song that can’t be sung.
+And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can’t be sung.
 
 
 
 
-But who will write us a riding song,
+But who will write us a riding [[Song|song]],
 
 
 
 
-Or a fighting song or a drinking song,
+Or a fighting [[Song|song]] or a drinking [[Song|song]],
 
 
 
@@ -150,41 +150,41 @@ That knew how to think and thrive?
 
 
 
-But the song of Beauty and Art and Love
+But the [[Song|song]] of [[Beauty]] and Art and [[Love]]
 
 
 
 
-Is simply an utterly stinking song,
+Is simply an utterly stinking [[Song|song]],
 
 
 
 
-To double you up and drag you down,
+To [[Double|double]] you up and drag you down,
 
 
 
 
-And damn your soul alive.
+And damn your [[Soul|soul]] alive.
 
 
 
-“Take some more rum,” concluded the Irish officer, affably, “and let’s hear your song at last.”
-
-
-
-
-With the gravity inseparable from the deep conventionality of country people, Mr. Pump unfolded the paper on which he had recorded the only antagonistic emotion that was strong enough in him to screw his infinite English tolerance to the pitch of song. He read out the title very carefully and in full.
+“Take some more rum,” concluded the Irish officer, affably, “and let’s hear your [[Song|song]] at last.”
 
 
 
 
-“Song Against Grocers, by Humphrey Pump, sole proprietor of ‘The Old Ship,’ Pebblewick. Good Accommodation for Man and Beast. Celebrated as the House at which both Queen Charlotte and Jonathan Wilde put up on different occasions; and where the Ice-cream man was mistaken for Bonaparte. This song is written against Grocers.”
+With the gravity inseparable from the deep conventionality of country people, Mr. Pump unfolded the paper on which he had recorded the only antagonistic emotion that was strong enough in him to screw his infinite English tolerance to the pitch of [[Song|song]]. He read out the title very carefully and in full.
 
 
 
 
-“God made the wicked Grocer,
+“[[Song]] Against Grocers, by Humphrey Pump, sole proprietor of ‘The Old [[Ship]],’ Pebblewick. Good Accommodation for Man and Beast. Celebrated as the [[house|House]] at which both [[Queen]] Charlotte and Jonathan Wilde put up on different occasions; and where the Ice-cream man was mistaken for Bonaparte. This [[Song|song]] is written against Grocers.”
+
+
+
+
+“God made the wicked [[grocer|Grocer]],
 
 
 
@@ -225,7 +225,7 @@ Has seen that they are good.
 
 
 
-“The evil-hearted Grocer
+“The evil-hearted [[grocer|Grocer]]
 
 
 
@@ -240,7 +240,7 @@ And bow at her and bob at her,
 
 
 
-Her aged soul to damn;
+Her aged [[Soul|soul]] to damn;
 
 
 
@@ -327,7 +327,7 @@ Or treat unmoneyed men;
 
 
 
-But who hath seen the Grocer
+But who hath seen the [[grocer|Grocer]]
 
 
 
@@ -342,7 +342,7 @@ Or crack a bottle of fish-sauce,
 
 
 
-Or stand a man a cheese?
+Or stand a man a [[cheese]]?
 
 
 
@@ -358,7 +358,7 @@ As sugar for cash down,
 
 
 
-He sweeps his shop and sells the dust,
+He sweeps his shop and sells the [[Dust|dust]],
 
 
 
@@ -373,7 +373,7 @@ He crams with cans of poisoned meat
 
 
 
-Poor subjects of the King,
+Poor subjects of the [[King]],
 
 
 
@@ -389,7 +389,7 @@ Why, he laughs like anything.
 
 
 
-“The Wicked Grocer groces
+“The Wicked [[grocer|Grocer]] groces
 
 
 
@@ -430,7 +430,7 @@ And drunk in dressing-rooms.
 
 
 
-“The hell-instructed Grocer
+“The hell-instructed [[grocer|Grocer]]
 
 
 
@@ -460,7 +460,7 @@ From sugar of a sort,
 
 
 
-The Grocer trembles; for his time
+The [[grocer|Grocer]] trembles; for his [[Time|time]]
 
 
 
@@ -469,7 +469,7 @@ Just like his weight is short.”
 
 
 
-Captain Dalroy was getting considerably heated with his nautical liquor, and his appreciation of Pump’s song was not merely noisy but active. He leapt to his feet and waved his glass. “Ye ought to be Poet Laureate, Hump–ye’re right, ye’re right; we’ll stand all this no longer!”
+Captain Dalroy was getting considerably heated with his nautical liquor, and his appreciation of Pump’s [[Song|song]] was not merely noisy but active. He leapt to his feet and waved his glass. “Ye ought to be Poet Laureate, Hump–ye’re right, ye’re right; we’ll stand all this no longer!”
 
 
 
@@ -484,7 +484,7 @@ He dashed wildly up the sand slope and pointed with the sign-post towards the da
 
 
 
-They were some way along the coast from the large watering-place of Pebblewick and between the gathering twilight and the rolling country it could not be clearly seen. Nothing was now in sight but the corrugated iron hall by the beach and three half-built red brick villas.
+They were some way along the coast from the large watering-place of Pebblewick and between the gathering twilight and the [[rolling]] country it could not be clearly seen. Nothing was now in sight but the corrugated iron hall by the beach and three half-built red brick villas.
 
 
 
@@ -504,7 +504,7 @@ He brandished the inn-sign in the air like a banner, and began to stride towards
 
 
 
-“In forty days,” he cried, “shall Pebblewick be destroyed. Dogs shall lap the blood of J. Leveson, Secretary, and Unicorns–”
+“In forty days,” he cried, “shall Pebblewick be destroyed. [[dogs|Dogs]] shall lap the [[Blood|blood]] of J. Leveson, Secretary, and Unicorns–”
 
 
 
@@ -519,7 +519,7 @@ He brandished the inn-sign in the air like a banner, and began to stride towards
 
 
 
-“Donkeys will howl, anyhow,” said Pump. “But I suppose the other donkey must follow.”
+“Donkeys will howl, anyhow,” said Pump. “But I suppose the other [[donkey]] must follow.”
 
 
 

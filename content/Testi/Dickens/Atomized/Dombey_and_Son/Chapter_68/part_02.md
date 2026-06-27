@@ -15,11 +15,11 @@ tags:
 
 
 These ceremonies passed, Cornelia led Paul upstairs to the top of the
-house; which was rather a slow journey, on account of Paul being
+[[house]]; which was rather a slow [[Journey|journey]], on account of Paul being
 obliged to land both feet on every stair, before he mounted another.
-But they reached their journey’s end at last; and there, in a front
+But they reached their [[Journey|journey]]’s end at last; and there, in a front
 room, looking over the wild sea, Cornelia showed him a nice little bed
-with white hangings, close to the window, on which there was already
+with white hangings, close to the [[Window|window]], on which there was already
 beautifully written on a card in round text—down strokes very thick,
 and up strokes very fine—DOMBEY; while two other little bedsteads in
 the same room were announced, through like means, as respectively
@@ -34,7 +34,7 @@ unchecked, after having made a dreadful noise. Then Cornelia Blimber
 said to Dombey that dinner would be ready in a quarter of an hour, and
 perhaps he had better go into the schoolroom among his “friends.”
 
-So Dombey, deferentially passing the great clock which was still as
+So Dombey, deferentially passing the great [[Clock|clock]] which was still as
 anxious as ever to know how he found himself, opened the schoolroom
 door a very little way, and strayed in like a lost boy: shutting it
 after him with some difficulty. His friends were all dispersed about
@@ -42,7 +42,7 @@ the room except the stony friend, who remained immoveable. Mr Feeder
 was stretching himself in his grey gown, as if, regardless of expense,
 he were resolved to pull the sleeves off.
 
-“Heigh ho hum!” cried Mr Feeder, shaking himself like a cart-horse. “Oh
+“Heigh ho hum!” cried Mr Feeder, shaking himself like a cart-[[Horse|horse]]. “Oh
 dear me, dear me! Ya-a-a-ah!”
 
 Paul was quite alarmed by Mr Feeder’s yawning; it was done on such a
@@ -53,13 +53,13 @@ washing their hands or brushing their hair, in an adjoining
 ante-chamber—as if they didn’t think they should enjoy it at all.
 
 Young Toots who was ready beforehand, and had therefore nothing to do,
-and had leisure to bestow upon Paul, said, with heavy good nature:
+and had leisure to bestow upon Paul, said, with heavy good [[Nature|nature]]:
 
 “Sit down, Dombey.”
 
 “Thank you, Sir,” said Paul.
 
-His endeavouring to hoist himself on to a very high window-seat, and
+His endeavouring to hoist himself on to a very high [[Window|window]]-seat, and
 his slipping down again, appeared to prepare Toots’s mind for the
 reception of a discovery.
 
@@ -94,13 +94,13 @@ the name again to-morrow morning, as it was rather important. And
 indeed he purposed nothing less than writing himself a private and
 confidential letter from Dombey and Son immediately.
 
-By this time the other pupils (always excepting the stony boy) gathered
+By this [[Time|time]] the other pupils (always excepting the stony boy) gathered
 round. They were polite, but pale; and spoke low; and they were so
 depressed in their spirits, that in comparison with the general tone of
 that company, Master Bitherstone was a perfect Miller, or complete Jest
 Book.” And yet he had a sense of injury upon him, too, had Bitherstone.
 
-“You sleep in my room, don’t you?” asked a solemn young gentleman,
+“You [[Sleep|sleep]] in my room, don’t you?” asked a solemn young gentleman,
 whose shirt-collar curled up the lobes of his ears.
 
 “Master Briggs?” inquired Paul.
@@ -127,15 +127,15 @@ encountered a round of bread, genteelly served on a plate and napkin,
 and with a silver fork lying crosswise on the top of it. Doctor Blimber
 was already in his place in the dining-room, at the top of the table,
 with Miss Blimber and Mrs Blimber on either side of him. Mr Feeder in a
-black coat was at the bottom. Paul’s chair was next to Miss Blimber;
+black coat was at the [[Bottom|bottom]]. Paul’s chair was next to Miss Blimber;
 but it being found, when he sat in it, that his eyebrows were not much
 above the level of the table-cloth, some books were brought in from the
 Doctor’s study, on which he was elevated, and on which he always sat
-from that time— carrying them in and out himself on after occasions,
-like a little elephant and castle.
+from that [[Time|time]]— carrying them in and out himself on after occasions,
+like a little elephant and [[Castle|castle]].
 
 Grace having been said by the Doctor, dinner began. There was some nice
-soup; also roast meat, boiled meat, vegetables, pie, and cheese. Every
+soup; also roast meat, boiled meat, vegetables, pie, and [[cheese]]. Every
 young gentleman had a massive silver fork, and a napkin; and all the
 arrangements were stately and handsome. In particular, there was a
 butler in a blue coat and bright buttons, who gave quite a winey

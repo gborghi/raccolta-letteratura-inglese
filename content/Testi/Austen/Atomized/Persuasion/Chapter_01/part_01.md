@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 1 (part 1)"
+title: "[[Persuasion]] — Chapter 1 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER I.
 
 
 
-Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who,
+[[Sir Walter Elliot]], of Kellynch Hall, in Somersetshire, was a man who,
 
 for his own amusement, never took up any book but the Baronetage; there
 
@@ -36,7 +36,7 @@ into pity and contempt as he turned over the almost endless creations
 
 of the last century; and there, if every other leaf were powerless, he
 
-could read his own history with an interest which never failed. This
+could read his own [[history]] with an interest which never failed. This
 
 was the page at which the favourite volume always opened:
 
@@ -52,7 +52,7 @@ was the page at which the favourite volume always opened:
 
 daughter of James Stevenson, Esq. of South Park, in the county of
 
-Gloucester, by which lady (who died 1800) he has issue Elizabeth, born
+[[Gloucester]], by which lady (who died 1800) he has issue Elizabeth, born
 
 June 1, 1785; Anne, born August 9, 1787; a still-born son, November 5,
 
@@ -76,7 +76,7 @@ wife.
 
 
 
-Then followed the history and rise of the ancient and respectable
+Then followed the [[history]] and rise of the ancient and respectable
 
 family, in the usual terms; how it had been first settled in Cheshire;
 
@@ -102,9 +102,9 @@ second Sir Walter.”
 
 
 
-Vanity was the beginning and the end of Sir Walter Elliot’s character;
+[[Vanity]] was the beginning and the end of [[Sir Walter Elliot]]’s character;
 
-vanity of person and of situation. He had been remarkably handsome in
+[[Vanity|vanity]] of person and of situation. He had been remarkably handsome in
 
 his youth; and, at fifty-four, was still a very fine man. Few women
 
@@ -112,9 +112,9 @@ could think more of their personal appearance than he did, nor could
 
 the valet of any new made lord be more delighted with the place he held
 
-in society. He considered the blessing of beauty as inferior only to
+in society. He considered the blessing of [[Beauty|beauty]] as inferior only to
 
-the blessing of a baronetcy; and the Sir Walter Elliot, who united
+the blessing of a baronetcy; and the [[Sir Walter Elliot]], who united
 
 these gifts, was the constant object of his warmest respect and
 
@@ -166,7 +166,7 @@ This friend, and Sir Walter, did not marry, whatever might have been
 
 anticipated on that head by their acquaintance. Thirteen years had
 
-passed away since Lady Elliot’s death, and they were still near
+passed away since Lady Elliot’s [[Death|death]], and they were still near
 
 neighbours and intimate friends, and one remained a widower, the other
 
@@ -174,9 +174,9 @@ a widow.
 
 
 
-That Lady Russell, of steady age and character, and extremely well
+That [[Lady Russell]], of steady age and character, and extremely [[Well|well]]
 
-provided for, should have no thought of a second marriage, needs no
+provided for, should have no thought of a second [[Marriage|marriage]], needs no
 
 apology to the public, which is rather apt to be unreasonably
 
@@ -214,15 +214,15 @@ weight, her convenience was always to give way—she was only Anne.
 
 
 
-To Lady Russell, indeed, she was a most dear and highly valued
+To [[Lady Russell]], indeed, she was a most dear and highly valued
 
-god-daughter, favourite, and friend. Lady Russell loved them all; but
+god-daughter, favourite, and friend. [[Lady Russell]] loved them all; but
 
 it was only in Anne that she could fancy the mother to revive again.
 
 
 
-A few years before, Anne Elliot had been a very pretty girl, but her
+A few years before, [[Anne Elliot]] had been a very pretty girl, but her
 
 bloom had vanished early; and as even in its height, her father had
 

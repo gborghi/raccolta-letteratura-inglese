@@ -15,31 +15,31 @@ tags:
 
 
 CHAPTER XVII.
-Captain Cuttle does a little Business for the Young People
+[[Captain Cuttle]] does a little Business for the Young People
 
 
-Captain Cuttle, in the exercise of that surprising talent for deep-laid
+[[Captain Cuttle]], in the exercise of that surprising talent for deep-laid
 and unfathomable scheming, with which (as is not unusual in men of
 transparent simplicity) he sincerely believed himself to be endowed by
-nature, had gone to Mr Dombey’s house on the eventful Sunday, winking
+[[Nature|nature]], had gone to Mr Dombey’s [[house]] on the eventful [[Sunday]], winking
 all the way as a vent for his superfluous sagacity, and had presented
 himself in the full lustre of the ankle-jacks before the eyes of
 Towlinson. Hearing from that individual, to his great concern, of the
-impending calamity, Captain Cuttle, in his delicacy, sheered off again
+impending calamity, [[Captain Cuttle]], in his delicacy, sheered off again
 confounded; merely handing in the nosegay as a small mark of his
 solicitude, and leaving his respectful compliments for the family in
-general, which he accompanied with an expression of his hope that they
-would lay their heads well to the wind under existing circumstances,
+general, which he accompanied with an expression of his [[Hope|hope]] that they
+would lay their heads [[Well|well]] to the [[Wind|wind]] under existing circumstances,
 and a friendly intimation that he would “look up again” to-morrow.
 
 The Captain’s compliments were never heard of any more. The Captain’s
-nosegay, after lying in the hall all night, was swept into the dust-bin
+nosegay, after lying in the hall all [[Night|night]], was swept into the [[Dust|dust]]-bin
 next morning; and the Captain’s sly arrangement, involved in one
 catastrophe with greater hopes and loftier designs, was crushed to
 pieces. So, when an avalanche bears down a mountain-forest, twigs and
 bushes suffer with the trees, and all perish together.
 
-When Walter returned home on the Sunday evening from his long walk, and
+When Walter returned [[Home|home]] on the [[Sunday]] evening from his long walk, and
 its memorable close, he was too much occupied at first by the tidings
 he had to give them, and by the emotions naturally awakened in his
 breast by the scene through which he had passed, to observe either that
@@ -53,7 +53,7 @@ impossible of pronunciation, the Captain made such waves and flourishes
 as nobody without a previous knowledge of his mystery, would have been
 at all likely to understand.
 
-Captain Cuttle, however, becoming cognisant of what had happened,
+[[Captain Cuttle]], however, becoming cognisant of what had happened,
 relinquished these attempts, as he perceived the slender chance that
 now existed of his being able to obtain a little easy chat with Mr
 Dombey before the period of Walter’s departure. But in admitting to
@@ -64,16 +64,16 @@ beforehand by the knowing management of a friend—the Captain still felt
 an unabated confidence that he, Ned Cuttle, was the man for Mr Dombey;
 and that, to set Walter’s fortunes quite square, nothing was wanted but
 that they two should come together. For the Captain never could forget
-how well he and Mr Dombey had got on at Brighton; with what nicety each
+how [[Well|well]] he and Mr Dombey had got on at Brighton; with what nicety each
 of them had put in a word when it was wanted; how exactly they had
 taken one another’s measure; nor how Ned Cuttle had pointed out that
 resources in the first extremity, and had brought the interview to the
 desired termination. On all these grounds the Captain soothed himself
 with thinking that though Ned Cuttle was forced by the pressure of
 events to “stand by” almost useless for the present, Ned would fetch up
-with a wet sail in good time, and carry all before him.
+with a wet sail in good [[Time|time]], and carry all before him.
 
-Under the influence of this good-natured delusion, Captain Cuttle even
+Under the influence of this good-natured delusion, [[Captain Cuttle]] even
 went so far as to revolve in his own bosom, while he sat looking at
 Walter and listening with a tear on his shirt-collar to what he
 related, whether it might not be at once genteel and politic to give Mr
@@ -82,7 +82,7 @@ his mutton in Brig Place on some day of his own naming, and enter on
 the question of his young friend’s prospects over a social glass. But
 the uncertain temper of Mrs MacStinger, and the possibility of her
 setting up her rest in the passage during such an entertainment, and
-there delivering some homily of an uncomplimentary nature, operated as
+there delivering some homily of an uncomplimentary [[Nature|nature]], operated as
 a check on the Captain’s hospitable thoughts, and rendered him timid of
 giving them encouragement.
 
@@ -94,16 +94,16 @@ Dombey’s family. He had been, in his own person, connected with the
 incident he so pathetically described; he had been by name remembered
 and commended in close association with it; and his fortunes must have
 a particular interest in his employer’s eyes. If the Captain had any
-lurking doubt whatever of his own conclusions, he had not the least
-doubt that they were good conclusions for the peace of mind of the
+lurking [[Doubt|doubt]] whatever of his own conclusions, he had not the least
+[[Doubt|doubt]] that they were good conclusions for the peace of mind of the
 Instrument-maker. Therefore he availed himself of so favourable a
 moment for breaking the West Indian intelligence to his friend, as a
 piece of extraordinary preferment; declaring that for his part he would
 freely give a hundred thousand pounds (if he had it) for Walter’s gain
-in the long-run, and that he had no doubt such an investment would
+in the long-run, and that he had no [[Doubt|doubt]] such an investment would
 yield a handsome premium.
 
-Solomon Gills was at first stunned by the communication, which fell
+[[Solomon Gills]] was at first stunned by the communication, which fell
 upon the little back-parlour like a thunderbolt, and tore up the hearth
 savagely. But the Captain flashed such golden prospects before his dim
 sight: hinted so mysteriously at Whittingtonian consequences; laid such
@@ -111,12 +111,12 @@ emphasis on what Walter had just now told them: and appealed to it so
 confidently as a corroboration of his predictions, and a great advance
 towards the realisation of the romantic legend of Lovely Peg: that he
 bewildered the old man. Walter, for his part, feigned to be so full of
-hope and ardour, and so sure of coming home again soon, and backed up
+[[Hope|hope]] and ardour, and so sure of coming [[Home|home]] again soon, and backed up
 the Captain with such expressive shakings of his head and rubbings of
-his hands, that Solomon, looking first at him then at Captain Cuttle,
+his hands, that Solomon, looking first at him then at [[Captain Cuttle]],
 began to think he ought to be transported with joy.
 
-“But I’m behind the time, you understand,” he observed in apology,
+“But I’m behind the [[Time|time]], you understand,” he observed in apology,
 passing his hand nervously down the whole row of bright buttons on his
 coat, and then up again, as if they were beads and he were telling them
 twice over: “and I would rather have my dear boy here. It’s an
@@ -124,7 +124,7 @@ old-fashioned notion, I daresay. He was always fond of the sea
 He’s”—and he looked wistfully at Walter—“he’s glad to go.”
 
 “Uncle Sol!” cried Walter, quickly, “if you say that, I won’t go. No,
-Captain Cuttle, I won’t. If my Uncle thinks I could be glad to leave
+[[Captain Cuttle]], I won’t. If my Uncle thinks I could be glad to leave
 him, though I was going to be made Governor of all the Islands in the
 West Indies, that’s enough. I’m a fixture.”
 
@@ -135,7 +135,7 @@ Following with his eyes the majestic action of the Captain’s hook, the
 old man looked at Walter.
 
 “Here is a certain craft,” said the Captain, with a magnificent sense
-of the allegory into which he was soaring, “a-going to put out on a
+of the [[Allegory|allegory]] into which he was soaring, “a-going to put out on a
 certain voyage. What name is wrote upon that craft indelibly? Is it The
 Gay? or,” said the Captain, raising his voice as much as to say,
 observe the point of this, “is it The Gills?”
@@ -143,9 +143,9 @@ observe the point of this, “is it The Gills?”
 “Ned,” said the old man, drawing Walter to his side, and taking his arm
 tenderly through his, “I know. I know. Of course I know that Wally
 considers me more than himself always. That’s in my mind. When I say he
-is glad to go, I mean I hope he is. Eh? look you, Ned and you too,
+is glad to go, I mean I [[Hope|hope]] he is. Eh? look you, Ned and you too,
 Wally, my dear, this is new and unexpected to me; and I’m afraid my
-being behind the time, and poor, is at the bottom of it. Is it really
+being behind the [[Time|time]], and poor, is at the [[Bottom|bottom]] of it. Is it really
 good fortune for him, do you tell me, now?” said the old man, looking
 anxiously from one to the other. “Really and truly? Is it? I can
 reconcile myself to almost anything that advances Wally, but I won’t
@@ -155,22 +155,22 @@ Captain, to the manifest confusion of that diplomatist; “are you
 dealing plainly by your old friend? Speak out, Ned Cuttle. Is there
 anything behind? Ought he to go? How do you know it first, and why?”
 
-As it was a contest of affection and self-denial, Walter struck in with
+As it was a contest of affection and [[Self|self]]-denial, Walter struck in with
 infinite effect, to the Captain’s relief; and between them they
 tolerably reconciled old Sol Gills, by continued talking, to the
-project; or rather so confused him, that nothing, not even the pain of
+project; or rather so confused him, that nothing, not even the [[Pain|pain]] of
 separation, was distinctly clear to his mind.
 
-He had not much time to balance the matter; for on the very next day,
+He had not much [[Time|time]] to balance the matter; for on the very next day,
 Walter received from Mr Carker the Manager, the necessary credentials
 for his passage and outfit, together with the information that the Son
 and Heir would sail in a fortnight, or within a day or two afterwards
 at latest. In the hurry of preparation: which Walter purposely enhanced
-as much as possible: the old man lost what little self-possession he
-ever had; and so the time of departure drew on rapidly.
+as much as possible: the old man lost what little [[Self|self]]-possession he
+ever had; and so the [[Time|time]] of departure drew on rapidly.
 
 The Captain, who did not fail to make himself acquainted with all that
-passed, through inquiries of Walter from day to day, found the time
+passed, through inquiries of Walter from day to day, found the [[Time|time]]
 still tending on towards his going away, without any occasion offering
 itself, or seeming likely to offer itself, for a better understanding
 of his position. It was after much consideration of this fact, and much
@@ -178,18 +178,18 @@ pondering over such an unfortunate combination of circumstances, that a
 bright idea occurred to the Captain. Suppose he made a call on Mr
 Carker, and tried to find out from him how the land really lay!
 
-Captain Cuttle liked this idea very much. It came upon him in a moment
+[[Captain Cuttle]] liked this idea very much. It came upon him in a moment
 of inspiration, as he was smoking an early pipe in Brig Place after
 breakfast; and it was worthy of the tobacco. It would quiet his
-conscience, which was an honest one, and was made a little uneasy by
+[[Conscience|conscience]], which was an honest one, and was made a little uneasy by
 what Walter had confided to him, and what Sol Gills had said; and it
-would be a deep, shrewd act of friendship. He would sound Mr Carker
+would be a deep, shrewd act of [[Friendship|friendship]]. He would sound Mr Carker
 carefully, and say much or little, just as he read that gentleman’s
-character, and discovered that they got on well together or the
+character, and discovered that they got on [[Well|well]] together or the
 reverse.
 
-Accordingly, without the fear of Walter before his eyes (who he knew
-was at home packing), Captain Cuttle again assumed his ankle-jacks and
+Accordingly, without the [[Fear|fear]] of Walter before his eyes (who he knew
+was at [[Home|home]] packing), [[Captain Cuttle]] again assumed his ankle-jacks and
 mourning brooch, and issued forth on this second expedition. He
 purchased no propitiatory nosegay on the present occasion, as he was
 going to a place of business; but he put a small sunflower in his
@@ -197,8 +197,8 @@ button-hole to give himself an agreeable relish of the country; and
 with this, and the knobby stick, and the glazed hat, bore down upon the
 offices of Dombey and Son.
 
-After taking a glass of warm rum-and-water at a tavern close by, to
-collect his thoughts, the Captain made a rush down the court, lest its
+After taking a glass of warm rum-and-[[Water|water]] at a tavern close by, to
+collect his thoughts, the Captain made a rush down the [[Court|court]], lest its
 good effects should evaporate, and appeared suddenly to Mr Perch.
 
 “Matey,” said the Captain, in persuasive accents. “One of your
@@ -220,9 +220,9 @@ in her then condition, be destructive to that lady’s hopes.
 chance,” said the Captain, “I’ll wait.”
 
 Saying which, the Captain took his seat on Mr Perch’s bracket, and
-drawing out his handkerchief from the crown of the glazed hat which he
+drawing out his handkerchief from the [[Crown|crown]] of the glazed hat which he
 jammed between his knees (without injury to its shape, for nothing
-human could bend it), rubbed his head well all over, and appeared
+human could bend it), rubbed his head [[Well|well]] all over, and appeared
 refreshed. He subsequently arranged his hair with his hook, and sat
 looking round the office, contemplating the clerks with a serene
 respect.
@@ -235,7 +235,7 @@ he sat on the bracket.
 
 “Cap’en,” in a deep hoarse whisper.
 
-“Yes,” said Mr Perch, keeping time with his head.
+“Yes,” said Mr Perch, keeping [[Time|time]] with his head.
 
 “Cuttle.”
 
@@ -245,24 +245,24 @@ he’s disengaged now. I don’t know. Perhaps he may be for a minute.”
 
 “Ay, ay, my lad, I won’t detain him longer than a minute,” said the
 Captain, nodding with all the weighty importance that he felt within
-him. Perch, soon returning, said, “Will Captain Cuttle walk this way?”
+him. Perch, soon returning, said, “Will [[Captain Cuttle]] walk this way?”
 
 Mr Carker the Manager, standing on the hearth-rug before the empty
 fireplace, which was ornamented with a castellated sheet of brown
 paper, looked at the Captain as he came in, with no very special
 encouragement.
 
-“Mr Carker?” said Captain Cuttle.
+“Mr Carker?” said [[Captain Cuttle]].
 
 “I believe so,” said Mr Carker, showing all his teeth.
 
 The Captain liked his answering with a smile; it looked pleasant. “You
-see,” began the Captain, rolling his eyes slowly round the little room,
+see,” began the Captain, [[rolling]] his eyes slowly round the little room,
 and taking in as much of it as his shirt-collar permitted; “I’m a
 seafaring man myself, Mr Carker, and Wal”r, as is on your books here,
 is almost a son of mine.”
 
-“Walter Gay?” said Mr Carker, showing all his teeth again.
+“[[Walter Gay]]?” said Mr Carker, showing all his teeth again.
 
 “Wal”r Gay it is,” replied the Captain, “right!” The Captain’s manner
 expressed a warm approval of Mr Carker’s quickness of perception. “I’m
@@ -272,13 +272,13 @@ Cuttle.”
 
 “No!” said Mr Carker, with a still wider demonstration than before.
 
-“Well,” resumed the Captain, “I’ve the pleasure of his acquaintance. I
+“[[Well]],” resumed the Captain, “I’ve the pleasure of his acquaintance. I
 waited upon him down on the Sussex coast there, with my young friend
 Wal”r, when—in short, when there was a little accommodation wanted.”
 The Captain nodded his head in a manner that was at once comfortable,
 easy, and expressive. “You remember, I daresay?”
 
-“I think,” said Mr Carker, “I had the honour of arranging the
+“I think,” said Mr Carker, “I had the [[Honour|honour]] of arranging the
 business.”
 
 “To be sure!” returned the Captain. “Right again! you had. Now I’ve
@@ -291,7 +291,7 @@ does get more way upon himself, perhaps, in his conversation, when he
 sits down. Won’t you take a cheer yourself?”
 
 “No thank you,” said the Manager, standing, perhaps from the force of
-winter habit, with his back against the chimney-piece, and looking down
+[[Winter|winter]] habit, with his back against the chimney-piece, and looking down
 upon the Captain with an eye in every tooth and gum. “You have taken
 the liberty, you were going to say—though it’s none—”
 
@@ -306,9 +306,9 @@ confidential growl, “in a friendly way, entirely between you and me,
 and for my own private reckoning, “till your head Governor has wore
 round a bit, and I can come alongside of him, is this.—Is everything
 right and comfortable here, and is Wal”r out’ard bound with a pretty
-fair wind?”
+fair [[Wind|wind]]?”
 
-“What do you think now, Captain Cuttle?” returned Carker, gathering up
+“What do you think now, [[Captain Cuttle]]?” returned Carker, gathering up
 his skirts and settling himself in his position. “You are a practical
 man; what do you think?”
 
@@ -324,18 +324,18 @@ Mr Carker’s smiling urbanity, that he felt himself in as fair a
 condition to put the question, as if he had expressed his sentiments
 with the utmost elaboration.
 
-“Right,” said Mr Carker, “I have no doubt.”
+“Right,” said Mr Carker, “I have no [[Doubt|doubt]].”
 
-“Out’ard bound with fair weather, then, I say,” cried Captain Cuttle.
+“Out’ard bound with fair weather, then, I say,” cried [[Captain Cuttle]].
 
 Mr Carker smiled assent.
 
-“Wind right astarn, and plenty of it,” pursued the Captain.
+“[[Wind]] right astarn, and plenty of it,” pursued the Captain.
 
 Mr Carker smiled assent again.
 
-“Ay, ay!” said Captain Cuttle, greatly relieved and pleased. “I know’d
-how she headed, well enough; I told Wal”r so. Thank’ee, thank’ee.”
+“Ay, ay!” said [[Captain Cuttle]], greatly relieved and pleased. “I know’d
+how she headed, [[Well|well]] enough; I told Wal”r so. Thank’ee, thank’ee.”
 
 “Gay has brilliant prospects,” observed Mr Carker, stretching his mouth
 wider yet: “all the world before him.”
@@ -370,7 +370,7 @@ Mr Carker still smiled.
 scarlet circle on his forehead swelling in his triumphant joy.
 
 Mr Carker, in reply, still smiling, and now nodding assent, Captain
-Cuttle rose and squeezed him by the hand, assuring him, warmly, that
+Cuttle [[Rose|rose]] and squeezed him by the hand, assuring him, warmly, that
 they were on the same tack, and that as for him (Cuttle) he had laid
 his course that way all along. “He know’d her first,” said the Captain,
 with all the secrecy and gravity that the subject demanded, “in an
@@ -379,12 +379,12 @@ a’most a babby—he has liked her ever since, and she him, as much as two
 youngsters can. We’ve always said, Sol Gills and me, that they was cut
 out for each other.”
 
-A cat, or a monkey, or a hyena, or a death’s-head, could not have shown
-the Captain more teeth at one time, than Mr Carker showed him at this
+A cat, or a monkey, or a hyena, or a [[Death|death]]’s-head, could not have shown
+the Captain more teeth at one [[Time|time]], than Mr Carker showed him at this
 period of their interview.
 
 “There’s a general indraught that way,” observed the happy Captain.
-“Wind and water sets in that direction, you see. Look at his being
+“[[Wind]] and [[Water|water]] sets in that direction, you see. Look at his being
 present t’other day!”
 
 “Most favourable to his hopes,” said Mr Carker.
@@ -415,17 +415,17 @@ his nose in a state of violent inflammation from the same cause.
 
 “Am I right?” said the Captain.
 
-“Captain Cuttle,” said Mr Carker, bending down at the knees, for a
+“[[Captain Cuttle]],” said Mr Carker, bending down at the knees, for a
 moment, in an odd manner, as if he were falling together to hug the
-whole of himself at once, “your views in reference to Walter Gay are
+whole of himself at once, “your views in reference to [[Walter Gay]] are
 thoroughly and accurately right. I understand that we speak together in
 confidence.
 
-“Honour!” interposed the Captain. “Not a word.”
+“[[Honour]]!” interposed the Captain. “Not a word.”
 
 “To him or anyone?” pursued the Manager.
 
-Captain Cuttle frowned and shook his head.
+[[Captain Cuttle]] frowned and shook his head.
 
 “But merely for your own satisfaction and guidance—and guidance, of
 course,” repeated Mr Carker, “with a view to your future proceedings.”
@@ -437,10 +437,10 @@ attention.
 probabilities exactly.”
 
 “And with regard to your head Governor,” said the Captain, “why an
-interview had better come about nat’ral between us. There’s time
+interview had better come about nat’ral between us. There’s [[Time|time]]
 enough.”
 
-Mr Carker, with his mouth from ear to ear, repeated, “Time enough.” Not
+Mr Carker, with his mouth from ear to ear, repeated, “[[Time]] enough.” Not
 articulating the words, but bowing his head affably, and forming them
 with his tongue and lips.
 
@@ -476,7 +476,7 @@ me if I’ve been at all intruding, will you?” said the Captain.
 
 “Thank’ee. My berth ain’t very roomy,” said the Captain, turning back
 again, “but it’s tolerably snug; and if you was to find yourself near
-Brig Place, number nine, at any time—will you make a note of it?—and
+Brig Place, number nine, at any [[Time|time]]—will you make a note of it?—and
 would come upstairs, without minding what was said by the person at the
 door, I should be proud to see you.
 
@@ -488,17 +488,17 @@ very whiskers; even in whose silent passing of his soft hand over his
 white linen and his smooth face; there was something desperately
 cat-like.
 
-The unconscious Captain walked out in a state of self-glorification
+The unconscious Captain walked out in a state of [[Self|self]]-glorification
 that imparted quite a new cut to the broad blue suit. “Stand by, Ned!”
 said the Captain to himself. “You’ve done a little business for the
 youngsters today, my lad!”
 
 In his exultation, and in his familiarity, present and prospective,
-with the House, the Captain, when he reached the outer office, could
+with the [[house|House]], the Captain, when he reached the outer office, could
 not refrain from rallying Mr Perch a little, and asking him whether he
 thought everybody was still engaged. But not to be bitter on a man who
 had done his duty, the Captain whispered in his ear, that if he felt
-disposed for a glass of rum-and-water, and would follow, he would be
+disposed for a glass of rum-and-[[Water|water]], and would follow, he would be
 happy to bestow the same upon him.
 
 Before leaving the premises, the Captain, somewhat to the astonishment
@@ -507,10 +507,10 @@ general survey of the officers part and parcel of a project in which
 his young friend was nearly interested. The strong-room excited his
 especial admiration; but, that he might not appear too particular, he
 limited himself to an approving glance, and, with a graceful
-recognition of the clerks as a body, that was full of politeness and
-patronage, passed out into the court. Being promptly joined by Mr
+recognition of the clerks as a [[Body|body]], that was full of politeness and
+patronage, passed out into the [[Court|court]]. Being promptly joined by Mr
 Perch, he conveyed that gentleman to the tavern, and fulfilled his
-pledge—hastily, for Perch’s time was precious.
+pledge—hastily, for Perch’s [[Time|time]] was precious.
 
 “I’ll give you for a toast,” said the Captain, “Wal”r!”
 
@@ -520,7 +520,7 @@ pledge—hastily, for Perch’s time was precious.
 
 Mr Perch, who seemed to remember having heard in infancy that there was
 once a poet of that name, made no objection; but he was much astonished
-at the Captain’s coming into the City to propose a poet; indeed, if he
+at the Captain’s coming into the [[City]] to propose a poet; indeed, if he
 had proposed to put a poet’s statue up—say Shakespeare’s for example—in
 a civic thoroughfare, he could hardly have done a greater outrage to Mr
 Perch’s experience. On the whole, he was such a mysterious and
@@ -532,10 +532,10 @@ Mysterious and incomprehensible, the Captain, with that lively sense
 upon him of having done a little business for the youngsters, remained
 all day, even to his most intimate friends; and but that Walter
 attributed his winks and grins, and other such pantomimic reliefs of
-himself, to his satisfaction in the success of their innocent deception
+himself, to his satisfaction in the [[success]] of their [[Innocent|innocent]] [[Deception|deception]]
 upon old Sol Gills, he would assuredly have betrayed himself before
-night. As it was, however, he kept his own secret; and went home late
-from the Instrument-maker’s house, wearing the glazed hat so much on
+[[Night|night]]. As it was, however, he kept his own secret; and went [[Home|home]] late
+from the Instrument-maker’s [[house]], wearing the glazed hat so much on
 one side, and carrying such a beaming expression in his eyes, that Mrs
 MacStinger (who might have been brought up at Doctor Blimber’s, she was
 such a Roman matron) fortified herself, at the first glimpse of him,

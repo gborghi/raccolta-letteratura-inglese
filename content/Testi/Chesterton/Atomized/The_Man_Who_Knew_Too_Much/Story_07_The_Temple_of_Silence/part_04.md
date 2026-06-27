@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of Silence (part 4)"
+title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -23,28 +23,28 @@ man with a pugnacious cock of the eyebrow. He had been pickled in
 
 the politics of that countryside from boyhood, he knew everybody's
 
-secrets, and electioneering was the romance of his life.
-"I suppose you think I'm devoured with ambition," said Horne Fisher,
+[[Secrets|secrets]], and electioneering was the [[Romance|romance]] of his life.
+"I suppose you think I'm devoured with [[Ambition|ambition]]," said Horne Fisher,
 
 in his rather listless voice, "aiming at a dictatorship and all
 
-that. Well, I think I can clear myself of the charge of mere selfish
+that. [[Well]], I think I can clear myself of the charge of mere selfish
 
-ambition. I only want certain things done. I don't want to do them.
+[[Ambition|ambition]]. I only want certain things done. I don't want to do them.
 
 I very seldom want to do anything. And I've come here to say that
 
 I'm quite willing to retire from the contest if you can convince me
 
 that we really want to do the same thing."
-The agent of the Reform party looked at him with an odd and slightly
+The agent of the [[Reform]] party looked at him with an odd and slightly
 
 puzzled expression, and before he could reply, Fisher went on in the
 
 same level tones:
-"You'd hardly believe it, but I keep a conscience concealed about
+"You'd hardly believe it, but I keep a [[Conscience|conscience]] concealed about
 
-me; and I am in doubt about several things. For instance, we both
+me; and I am in [[Doubt|doubt]] about several things. For instance, we both
 
 want to turn Verner out of Parliament, but what weapon are we to
 
@@ -54,18 +54,18 @@ on mere gossip? Just as I want to be fair to you, so I want to be
 
 fair to him. If some of the things I've heard are true he ought to
 
-be turned out of Parliament and every other club in London. But I
+be turned out of Parliament and every other club in [[London]]. But I
 
 don't want to turn him out of Parliament if they aren't true."
 At this point the light of battle sprang into Mr. Gryce's eyes and
 
-he became voluble, not to say violent. He, at any rate, had no doubt
+he became voluble, not to say violent. He, at any rate, had no [[Doubt|doubt]]
 
 that the stories were true; he could testify, to his own knowledge,
 
 that they were true. Verner was not only a hard landlord, but a mean
 
-landlord, a robber as well as a rackrenter; any gentleman would be
+landlord, a robber as [[Well|well]] as a rackrenter; any gentleman would be
 
 justified in hounding him out. He had cheated old Wilkins out of his
 
@@ -76,14 +76,14 @@ Biddle to the workhouse; he had stretched the law against Long Adam,
 the poacher, till all the magistrates were ashamed of him.
 "So if you'll serve under the old banner," concluded Mr. Gryce, more
 
-genially, "and turn out a swindling tyrant like that, I'm sure
+genially, "and turn out a swindling [[Tyrant|tyrant]] like that, I'm sure
 
 you'll never regret it."
-"And if that is the truth," said Horne Fisher, "are you going to
+"And if that is the [[Truth|truth]]," said Horne Fisher, "are you going to
 
 tell it?"
-"What do you mean? Tell the truth?" demanded Gryce.
-"I mean you are going to tell the truth as you have just told it,"
+"What do you mean? Tell the [[Truth|truth]]?" demanded Gryce.
+"I mean you are going to tell the [[Truth|truth]] as you have just told it,"
 
 replied Fisher. "You are going to placard this town with the
 
@@ -97,14 +97,14 @@ the poacher he did it to. And you're going to find out by what trade
 
 this man made the money with which he bought the estate; and when
 
-you know the truth, as I said before, of course you are going to
+you know the [[Truth|truth]], as I said before, of course you are going to
 
-tell it. Upon those terms I come under the old flag, as you call it,
+tell it. Upon those terms I come under the old [[Flag|flag]], as you call it,
 
 and haul down my little pennon."
 The agent was eying him with a curious expression, surly but not
 
-entirely unsympathetic. "Well," he said, slowly, "you have to do
+entirely unsympathetic. "[[Well]]," he said, slowly, "you have to do
 
 these things in a regular way, you know, or people don't understand.
 
@@ -151,11 +151,11 @@ the old party, we'd rather you ran your own risk by yourself. But
 
 because I like you and respect your pluck, I'll do you a good turn
 
-before we part. I don't want you to waste time barking up the wrong
+before we part. I don't want you to waste [[Time|time]] barking up the wrong
 
 tree. You talk about how the new squire got the money to buy, and
 
-the ruin of the old squire, and all the rest of it. Well, I'll give
+the ruin of the old squire, and all the rest of it. [[Well]], I'll give
 
 you a hint about that, a hint about something precious few people
 
@@ -173,20 +173,20 @@ a short phrase of thanks and farewell, and went out into the street,
 still very thoughtful.
 His reflection seemed to end in resolution, and, falling into a more
 
-rapid stride, he passed out of the little town along a road leading
+rapid stride, he passed out of the little town along a [[Road|road]] leading
 
 toward the gate of the great park, the country seat of Sir Francis
 
-Verner. A glitter of sunlight made the early winter more like a late
+Verner. A glitter of sunlight made the early [[Winter|winter]] more like a late
 
-autumn, and the dark woods were touched here and there with red and
+[[Autumn|autumn]], and the dark woods were touched here and there with red and
 
-golden leaves, like the last rays of a lost sunset. From a higher
+golden [[Leaves|leaves]], like the last rays of a lost sunset. From a higher
 
-part of the road he had seen the long, classical facade of the great
+part of the [[Road|road]] he had seen the long, classical facade of the great
 
-house with its many windows, almost immediately beneath him, but
+[[house]] with its many windows, almost immediately beneath him, but
 
-when the road ran down under the wall of the estate, topped with
+when the [[Road|road]] ran down under the wall of the estate, topped with
 
 towering trees behind, he realized that it was half a mile round to

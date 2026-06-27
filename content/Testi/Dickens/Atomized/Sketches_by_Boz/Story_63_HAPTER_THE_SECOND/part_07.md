@@ -32,7 +32,7 @@ up fortitude enough to name the day to my future husband.’
 ‘but I cannot do so without at once resorting to a third party.’
 
 ‘A third party!’ thought Watkins Tottle; ‘who the deuce is that to be,
-I wonder!’
+I [[Wonder|wonder]]!’
 
 ‘Mr. Tottle,’ continued Miss Lillerton, ‘you have made me a most
 disinterested and kind offer—that offer I accept. Will you at once be
@@ -45,7 +45,7 @@ averting her head, ‘you must understand whom I mean; Mr. Timson,
 the—the—clergyman.’
 
 ‘Mr. Timson, the clergyman!’ ejaculated Watkins Tottle, in a state of
-inexpressible beatitude, and positive wonder at his own success.
+inexpressible beatitude, and positive [[Wonder|wonder]] at his own [[success]].
 ‘Angel! Certainly—this moment!’
 
 ‘I’ll prepare it immediately,’ said Miss Lillerton, making for the
@@ -64,7 +64,7 @@ Mr. Watkins Tottle flung himself into an arm-chair, and indulged in the
 most delicious reveries of future bliss, in which the idea of ‘Five
 hundred pounds per annum, with an uncontrolled power of disposing of it
 by her last will and testament,’ was somehow or other the foremost. He
-had gone through the interview so well, and it had terminated so
+had gone through the interview so [[Well|well]], and it had terminated so
 admirably, that he almost began to wish he had expressly stipulated for
 the settlement of the annual five hundred on himself.
 
@@ -72,22 +72,22 @@ the settlement of the annual five hundred on himself.
 
 ‘You may,’ replied Watkins.
 
-‘Well, have you done it?’ anxiously inquired Gabriel.
+‘[[Well]], have you done it?’ anxiously inquired Gabriel.
 
 ‘Have I done it!’ said Watkins Tottle. ‘Hush—I’m going to the
 clergyman.’
 
-‘No!’ said Parsons. ‘How well you have managed it!’
+‘No!’ said Parsons. ‘How [[Well|well]] you have managed it!’
 
 ‘Where does Timson live?’ inquired Watkins.
 
 ‘At his uncle’s,’ replied Gabriel, ‘just round the lane. He’s waiting
 for a living, and has been assisting his uncle here for the last two or
-three months. But how well you have done it—I didn’t think you could
+three months. But how [[Well|well]] you have done it—I didn’t think you could
 have carried it off so!’
 
 Mr. Watkins Tottle was proceeding to demonstrate that the Richardsonian
-principle was the best on which love could possibly be made, when he
+principle was the best on which [[Love|love]] could possibly be made, when he
 was interrupted by the entrance of Martha, with a little pink note
 folded like a fancy cocked-hat.
 
@@ -103,15 +103,15 @@ Mr. Watkins Tottle.
 
 ‘Come,’ said Watkins, when the explosion of mirth, consequent on this
 practical jest, had subsided, ‘we’ll be off at once—let’s lose no
-time.’
+[[Time|time]].’
 
 ‘Capital!’ echoed Gabriel Parsons; and in five minutes they were at the
-garden-gate of the villa tenanted by the uncle of Mr. Timson.
+[[Garden|garden]]-gate of the villa tenanted by the uncle of Mr. Timson.
 
-‘Is Mr. Charles Timson at home?’ inquired Mr. Watkins Tottle of Mr.
+‘Is Mr. Charles Timson at [[Home|home]]?’ inquired Mr. Watkins Tottle of Mr.
 Charles Timson’s uncle’s man.
 
-‘Mr. Charles _is_ at home,’ replied the man, stammering; ‘but he
+‘Mr. Charles _is_ at [[Home|home]],’ replied the man, stammering; ‘but he
 desired me to say he couldn’t be interrupted, sir, by any of the
 parishioners.’
 
@@ -124,7 +124,7 @@ himself forward.
 practising the violoncello in his own bedroom, and gave strict orders
 not to be disturbed.’
 
-‘Say I’m here,’ replied Gabriel, leading the way across the garden;
+‘Say I’m here,’ replied Gabriel, leading the way across the [[Garden|garden]];
 ‘Mr. Parsons and Mr. Tottle, on private and particular business.’
 
 They were shown into the parlour, and the servant departed to deliver
@@ -148,7 +148,7 @@ Mr. Watkins Tottle sat down; and while Timson perused the note, fixed
 his eyes on an oyster-sauce-coloured portrait of the Archbishop of
 Canterbury, which hung over the fireplace.
 
-Mr. Timson rose from his seat when he had concluded the note, and
+Mr. Timson [[Rose|rose]] from his seat when he had concluded the note, and
 looked dubiously at Parsons. ‘May I ask,’ he inquired, appealing to
 Watkins Tottle, ‘whether our friend here is acquainted with the object
 of your visit?’

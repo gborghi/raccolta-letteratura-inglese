@@ -30,7 +30,7 @@ tags:
 
       As to personal endowments, I am by no means deficient. On the
 
-      contrary, I believe that I am well made, and possess what nine
+      contrary, I believe that I am [[Well|well]] made, and possess what nine
 
       tenths of the world would call a handsome face. In height I am
 
@@ -58,7 +58,7 @@ tags:
 
       a savor of downright foppery and affectation. I have hitherto
 
-      managed as well as I could without either. But something too much
+      managed as [[Well|well]] as I could without either. But something too much
 
       of these merely personal details, which, after all, are of little
 
@@ -70,13 +70,13 @@ tags:
 
 
 
-      One night last winter I entered a box at the P—— Theatre, in
+      One [[Night|night]] last [[Winter|winter]] I entered a box at the P—— Theatre, in
 
-      company with a friend, Mr. Talbot. It was an opera night, and the
+      company with a friend, Mr. Talbot. It was an opera [[Night|night]], and the
 
-      bills presented a very rare attraction, so that the house was
+      bills presented a very rare attraction, so that the [[house]] was
 
-      excessively crowded. We were in time, however, to obtain the
+      excessively crowded. We were in [[Time|time]], however, to obtain the
 
       front seats which had been reserved for us, and into which, with
 
@@ -90,7 +90,7 @@ tags:
 
       myself by observing the audience, which consisted, in chief part,
 
-      of the very elite of the city. Having satisfied myself upon this
+      of the very elite of the [[City|city]]. Having satisfied myself upon this
 
       point, I was about turning my eyes to the prima donna, when they
 
@@ -116,7 +116,7 @@ tags:
 
 
 
-      The magic of a lovely form in woman—the necromancy of female
+      The [[Magic|magic]] of a lovely form in woman—the necromancy of female
 
       gracefulness—was always a power which I had found it impossible
 
@@ -156,7 +156,7 @@ tags:
 
       extraordinary value. The admirable roundness of the wrist was
 
-      well set off by a bracelet which encircled it, and which also was
+      [[Well|well]] set off by a bracelet which encircled it, and which also was
 
       ornamented and clasped by a magnificent aigrette of
 
@@ -170,9 +170,9 @@ tags:
 
       if I had been suddenly converted to stone; and, during this
 
-      period, I felt the full force and truth of all that has been said
+      period, I felt the full force and [[Truth|truth]] of all that has been said
 
-      or sung concerning “love at first sight.” My feelings were
+      or sung concerning “[[Love|love]] at first sight.” My feelings were
 
       totally different from any which I had hitherto experienced, in
 
@@ -180,13 +180,13 @@ tags:
 
       loveliness. An unaccountable, and what I am compelled to consider
 
-      a magnetic, sympathy of soul for soul, seemed to rivet, not only
+      a magnetic, sympathy of [[Soul|soul]] for [[Soul|soul]], seemed to rivet, not only
 
       my vision, but my whole powers of thought and feeling, upon the
 
       admirable object before me. I saw—I felt—I knew that I was
 
-      deeply, madly, irrevocably in love—and this even before seeing
+      deeply, madly, irrevocably in [[Love|love]]—and this even before seeing
 
       the face of the person beloved. So intense, indeed, was the
 
@@ -194,8 +194,8 @@ tags:
 
       received little if any abatement had the features, yet unseen,
 
-      proved of merely ordinary character; so anomalous is the nature
+      proved of merely ordinary character; so anomalous is the [[Nature|nature]]
 
-      of the only true love—of the love at first sight—and so little
+      of the only true [[Love|love]]—of the [[Love|love]] at first sight—and so little
 
       really dependent is it upon the external conditions which only

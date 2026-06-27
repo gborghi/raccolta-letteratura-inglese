@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 5"
+title: "[[Northanger Abbey]] — Chapter 5"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -34,7 +34,7 @@ hoped to be more fortunate the next day; and when her wishes for fine
 
 weather were answered by seeing a beautiful morning, she hardly felt a
 
-doubt of it; for a fine Sunday in Bath empties every house of its
+[[Doubt|doubt]] of it; for a fine [[Sunday]] in Bath empties every [[house]] of its
 
 inhabitants, and all the world appears on such an occasion to walk
 
@@ -48,17 +48,17 @@ joined each other; and after staying long enough in the pump-room to
 
 discover that the crowd was insupportable, and that there was not a
 
-genteel face to be seen, which everybody discovers every Sunday
+genteel face to be seen, which everybody discovers every [[Sunday]]
 
 throughout the season, they hastened away to the Crescent, to breathe
 
-the fresh air of better company. Here Catherine and Isabella, arm in
+the fresh air of better company. Here Catherine and [[Isabella]], arm in
 
-arm, again tasted the sweets of friendship in an unreserved
+arm, again tasted the sweets of [[Friendship|friendship]] in an unreserved
 
 conversation; they talked much, and with much enjoyment; but again was
 
-Catherine disappointed in her hope of reseeing her partner. He was
+Catherine disappointed in her [[Hope|hope]] of reseeing her partner. He was
 
 nowhere to be met with; every search for him was equally unsuccessful,
 
@@ -74,7 +74,7 @@ no more. He must be gone from Bath. Yet he had not mentioned that his
 
 stay would be so short! this sort of mysteriousness, which is always so
 
-becoming in a hero, threw a fresh grace in Catherine’s imagination
+becoming in a [[Hero|hero]], threw a fresh grace in Catherine’s [[Imagination|imagination]]
 
 around his person and manners, and increased her anxiety to know more
 
@@ -88,7 +88,7 @@ from whom she received every possible encouragement to continue to
 
 think of him; and his impression on her fancy was not suffered
 
-therefore to weaken. Isabella was very sure that he must be a charming
+therefore to weaken. [[Isabella]] was very sure that he must be a charming
 
 young man, and was equally sure that he must have been delighted with
 
@@ -102,7 +102,7 @@ she said it. Perhaps Catherine was wrong in not demanding the cause of
 
 that gentle emotion—but she was not experienced enough in the finesse
 
-of love, or the duties of friendship, to know when delicate raillery
+of [[Love|love]], or the duties of [[Friendship|friendship]], to know when delicate raillery
 
 was properly called for, or when a confidence should be forced.
 
@@ -122,7 +122,7 @@ in Bath!” They were changed into, “How glad I am we have met with Mrs.
 
 Thorpe!” and she was as eager in promoting the intercourse of the two
 
-families, as her young charge and Isabella themselves could be; never
+families, as her young charge and [[Isabella]] themselves could be; never
 
 satisfied with the day unless she spent the chief of it by the side of
 
@@ -136,7 +136,7 @@ of her gowns.
 
 
 
-The progress of the friendship between Catherine and Isabella was quick
+The progress of the [[Friendship|friendship]] between Catherine and [[Isabella]] was quick
 
 as its beginning had been warm, and they passed so rapidly through
 
@@ -146,7 +146,7 @@ fresh proof of it to be given to their friends or themselves. They
 
 called each other by their Christian name, were always arm in arm when
 
-they walked, pinned up each other’s train for the dance, and were not
+they walked, pinned up each other’s train for the [[Dance|dance]], and were not
 
 to be divided in the set; and if a rainy morning deprived them of other
 
@@ -156,7 +156,7 @@ dirt, and shut themselves up, to read novels together. Yes, novels; for
 
 I will not adopt that ungenerous and impolitic custom so common with
 
-novel-writers, of degrading by their contemptuous censure the very
+[[Novel|novel]]-writers, of degrading by their contemptuous censure the very
 
 performances, to the number of which they are themselves adding—joining
 
@@ -164,9 +164,9 @@ with their greatest enemies in bestowing the harshest epithets on such
 
 works, and scarcely ever permitting them to be read by their own
 
-heroine, who, if she accidentally take up a novel, is sure to turn over
+heroine, who, if she accidentally take up a [[Novel|novel]], is sure to turn over
 
-its insipid pages with disgust. Alas! if the heroine of one novel be
+its insipid pages with disgust. Alas! if the heroine of one [[Novel|novel]] be
 
 not patronized by the heroine of another, from whom can she expect
 
@@ -174,23 +174,23 @@ protection and regard? I cannot approve of it. Let us leave it to the
 
 reviewers to abuse such effusions of fancy at their leisure, and over
 
-every new novel to talk in threadbare strains of the trash with which
+every new [[Novel|novel]] to talk in threadbare strains of the trash with which
 
-the press now groans. Let us not desert one another; we are an injured
+the press now groans. Let us not [[Desert|desert]] one another; we are an injured
 
-body. Although our productions have afforded more extensive and
+[[Body|body]]. Although our productions have afforded more extensive and
 
 unaffected pleasure than those of any other literary corporation in the
 
-world, no species of composition has been so much decried. From pride,
+world, no species of composition has been so much decried. From [[Pride|pride]],
 
 ignorance, or fashion, our foes are almost as many as our readers. And
 
-while the abilities of the nine-hundredth abridger of the History of
+while the abilities of the nine-hundredth abridger of the [[history|History]] of
 
 England, or of the man who collects and publishes in a volume some
 
-dozen lines of Milton, Pope, and Prior, with a paper from the
+dozen lines of [[Milton]], Pope, and Prior, with a paper from the
 
 Spectator, and a chapter from Sterne, are eulogized by a thousand
 
@@ -200,13 +200,13 @@ undervaluing the labour of the novelist, and of slighting the
 
 performances which have only genius, wit, and taste to recommend them.
 
-“I am no novel-reader—I seldom look into novels—Do not imagine that _I_
+“I am no [[Novel|novel]]-reader—I seldom look into novels—Do not imagine that _I_
 
-often read novels—It is really very well for a novel.” Such is the
+often read novels—It is really very [[Well|well]] for a [[Novel|novel]].” Such is the
 
 common cant. “And what are you reading, Miss——?” “Oh! it is only a
 
-novel!” replies the young lady, while she lays down her book with
+[[Novel|novel]]!” replies the young lady, while she lays down her book with
 
 affected indifference, or momentary shame. “It is only Cecilia, or
 
@@ -214,9 +214,9 @@ Camilla, or Belinda”; or, in short, only some work in which the
 
 greatest powers of the mind are displayed, in which the most thorough
 
-knowledge of human nature, the happiest delineation of its varieties,
+knowledge of human [[Nature|nature]], the happiest delineation of its varieties,
 
-the liveliest effusions of wit and humour, are conveyed to the world in
+the liveliest effusions of wit and [[Humour|humour]], are conveyed to the world in
 
 the best-chosen language. Now, had the same young lady been engaged
 

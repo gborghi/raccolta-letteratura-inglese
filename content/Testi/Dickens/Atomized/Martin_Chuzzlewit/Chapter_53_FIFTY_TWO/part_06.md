@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 53: FIFTY TWO (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 53: FIFTY TWO (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,18 +16,18 @@ tags:
 
 ‘Martin,’ he added, ‘your rival has not been a dangerous one, but Mrs
 Lupin here has played duenna for some weeks; not so much to watch your
-love as to watch her lover. For that Ghoul’--his fertility in finding
+[[Love|love]] as to watch her [[Lover|lover]]. For that Ghoul’--his fertility in finding
 names for Mr Pecksniff was astonishing--‘would have crawled into her
 daily walks otherwise, and polluted the fresh air. What’s this? Her hand
 is trembling strangely. See if you can hold it.’
 
-Hold it! If he clasped it half as tightly as he did her waist. Well,
-well!
+Hold it! If he clasped it half as tightly as he did her waist. [[Well]],
+[[Well|well]]!
 
 But it was good in him that even then, in his high fortune and
 happiness, with her lips nearly printed on his own, and her proud young
-beauty in his close embrace, he had a hand still left to stretch out to
-Tom Pinch.
+[[Beauty|beauty]] in his close embrace, he had a hand still left to stretch out to
+[[Tom Pinch]].
 
 ‘Oh, Tom! Dear Tom! I saw you, accidentally, coming here. Forgive me!’
 
@@ -81,8 +81,8 @@ pocket-handkerchief, ‘of your old familiar frankness. You have paid for
 it. I was about to make the remark. You have deceived me, sir. Thank you
 again. I am glad of it. To see you in the possession of your health and
 faculties on any terms, is, in itself, a sufficient recompense. To have
-been deceived implies a trusting nature. Mine is a trusting nature. I
-am thankful for it. I would rather have a trusting nature, do you know,
+been deceived implies a trusting [[Nature|nature]]. Mine is a trusting [[Nature|nature]]. I
+am thankful for it. I would rather have a trusting [[Nature|nature]], do you know,
 sir, than a doubting one!’
 
 Here Mr Pecksniff, with a sad smile, bowed, and wiped his eyes.
@@ -91,8 +91,8 @@ Here Mr Pecksniff, with a sad smile, bowed, and wiped his eyes.
 ‘by whom I have not been deceived. I have forgiven those persons on the
 spot. That was my duty; and, of course, I have done it. Whether it was
 worthy of you to partake of my hospitality, and to act the part you
-did act in my house, that, sir, is a question which I leave to your own
-conscience. And your conscience does not acquit you. No, sir, no!’
+did act in my [[house]], that, sir, is a question which I leave to your own
+[[Conscience|conscience]]. And your [[Conscience|conscience]] does not acquit you. No, sir, no!’
 
 Pronouncing these last words in a loud and solemn voice, Mr Pecksniff
 was not so absolutely lost in his own fervour as to be unmindful of the
@@ -104,31 +104,31 @@ delicate and exquisite portion of the human anatomy--the brain. Several
 blows have been inflicted, sir, without a walking-stick, upon that
 tenderer portion of my frame--my heart. You have mentioned, sir,
 my being bankrupt in my purse. Yes, sir, I am. By an unfortunate
-speculation, combined with treachery, I find myself reduced to poverty;
-at a time, sir, when the child of my bosom is widowed, and affliction
+speculation, combined with treachery, I find myself reduced to [[Poverty|poverty]];
+at a [[Time|time]], sir, when the [[Child|child]] of my bosom is widowed, and affliction
 and disgrace are in my family.’
 
 Here Mr Pecksniff wiped his eyes again, and gave himself two or three
 little knocks upon the breast, as if he were answering two or three
 other little knocks from within, given by the tinkling hammer of his
-conscience, to express ‘Cheer up, my boy!’
+[[Conscience|conscience]], to express ‘Cheer up, my boy!’
 
 ‘I know the human mind, although I trust it. That is my weakness. Do I
 not know, sir’--here he became exceedingly plaintive and was observed to
-glance towards Tom Pinch--‘that my misfortunes bring this treatment on
+glance towards [[Tom Pinch]]--‘that my misfortunes bring this treatment on
 me? Do I not know, sir, that but for them I never should have heard what
-I have heard to-day? Do I not know that in the silence and the solitude
-of night, a little voice will whisper in your ear, Mr Chuzzlewit, “This
-was not well. This was not well, sir!” Think of this, sir (if you will
+I have heard to-day? Do I not know that in the [[Silence|silence]] and the [[Solitude|solitude]]
+of [[Night|night]], a little voice will whisper in your ear, Mr Chuzzlewit, “This
+was not [[Well|well]]. This was not [[Well|well]], sir!” Think of this, sir (if you will
 have the goodness), remote from the impulses of passion, and apart from
 the specialities, if I may use that strong remark, of prejudice. And if
 you ever contemplate the silent tomb, sir, which you will excuse me for
-entertaining some doubt of your doing, after the conduct into which you
+entertaining some [[Doubt|doubt]] of your doing, after the conduct into which you
 have allowed yourself to be betrayed this day; if you ever contemplate
 the silent tomb sir, think of me. If you find yourself approaching to
 the silent tomb, sir, think of me. If you should wish to have anything
 inscribed upon your silent tomb, sir, let it be, that I--ah, my
-remorseful sir! that I--the humble individual who has now the honour of
+remorseful sir! that I--the humble individual who has now the [[Honour|honour]] of
 reproaching you, forgave you. That I forgave you when my injuries were
 fresh, and when my bosom was newly wrung. It may be bitterness to you to
 hear it now, sir, but you will live to seek a consolation in it. May you

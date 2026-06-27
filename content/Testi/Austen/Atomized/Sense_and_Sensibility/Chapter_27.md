@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 27"
+title: "[[Sense and Sensibility]] — Chapter 27"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -34,7 +34,7 @@ take it so much to heart.”
 
 “That is true,” cried Marianne, in a cheerful voice, and walking to the
 
-window as she spoke, to examine the day. “I had not thought of _that_.
+[[Window|window]] as she spoke, to examine the day. “I had not thought of _that_.
 
 This weather will keep many sportsmen in the country.”
 
@@ -48,7 +48,7 @@ down to the breakfast table with a happy countenance. “How much they
 
 must enjoy it! But” (with a little return of anxiety) “it cannot be
 
-expected to last long. At this time of the year, and after such a
+expected to last long. At this [[Time|time]] of the year, and after such a
 
 series of rain, we shall certainly have very little more of it. Frosts
 
@@ -84,7 +84,7 @@ But if she _did_, the letter was written and sent away with a privacy
 
 which eluded all her watchfulness to ascertain the fact. Whatever the
 
-truth of it might be, and far as Elinor was from feeling thorough
+[[Truth|truth]] of it might be, and far as Elinor was from feeling thorough
 
 contentment about it, yet while she saw Marianne in spirits, she could
 
@@ -92,7 +92,7 @@ not be very uncomfortable herself. And Marianne was in spirits; happy
 
 in the mildness of the weather, and still happier in her expectation of
 
-a frost.
+a [[Frost|frost]].
 
 
 
@@ -100,7 +100,7 @@ The morning was chiefly spent in leaving cards at the houses of Mrs.
 
 Jennings’s acquaintance to inform them of her being in town; and
 
-Marianne was all the time busy in observing the direction of the wind,
+Marianne was all the [[Time|time]] busy in observing the direction of the [[Wind|wind]],
 
 watching the variations of the sky and imagining an alteration in the
 
@@ -122,11 +122,11 @@ afternoon.”
 
 Elinor was alternately diverted and pained; but Marianne persevered,
 
-and saw every night in the brightness of the fire, and every morning in
+and saw every [[Night|night]] in the brightness of the [[Fire|fire]], and every morning in
 
 the appearance of the atmosphere, the certain symptoms of approaching
 
-frost.
+[[Frost|frost]].
 
 
 
@@ -138,7 +138,7 @@ behaviour to themselves, which was invariably kind. Every thing in her
 
 household arrangements was conducted on the most liberal plan, and
 
-excepting a few old city friends, whom, to Lady Middleton’s regret, she
+excepting a few old [[City|city]] friends, whom, to Lady Middleton’s regret, she
 
 had never dropped, she visited no one to whom an introduction could at
 
@@ -148,19 +148,19 @@ herself more comfortably situated in that particular than she had
 
 expected, Elinor was very willing to compound for the want of much real
 
-enjoyment from any of their evening parties, which, whether at home or
+enjoyment from any of their evening parties, which, whether at [[Home|home]] or
 
 abroad, formed only for cards, could have little to amuse her.
 
 
 
-Colonel Brandon, who had a general invitation to the house, was with
+[[Colonel Brandon]], who had a general invitation to the [[house]], was with
 
 them almost every day; he came to look at Marianne and talk to Elinor,
 
 who often derived more satisfaction from conversing with him than from
 
-any other daily occurrence, but who saw at the same time with much
+any other daily occurrence, but who saw at the same [[Time|time]] with much
 
 concern his continued regard for her sister. She feared it was a
 
@@ -182,7 +182,7 @@ morning’s drive.
 
 “Good God!” cried Marianne, “he has been here while we were out.”
 
-Elinor, rejoiced to be assured of his being in London, now ventured to
+Elinor, rejoiced to be assured of his being in [[London]], now ventured to
 
 say, “Depend upon it, he will call again tomorrow.” But Marianne seemed
 
@@ -276,7 +276,7 @@ Mrs. Jennings soon appeared, and the note being given her, she read it
 
 aloud. It was from Lady Middleton, announcing their arrival in Conduit
 
-Street the night before, and requesting the company of her mother and
+Street the [[Night|night]] before, and requesting the company of her mother and
 
 cousins the following evening. Business on Sir John’s part, and a
 
@@ -306,13 +306,13 @@ young people, and to amuse them with a ball. This was an affair,
 
 however, of which Lady Middleton did not approve. In the country, an
 
-unpremeditated dance was very allowable; but in London, where the
+unpremeditated [[Dance|dance]] was very allowable; but in [[London]], where the
 
 reputation of elegance was more important and less easily attained, it
 
 was risking too much for the gratification of a few girls, to have it
 
-known that Lady Middleton had given a small dance of eight or nine
+known that Lady Middleton had given a small [[Dance|dance]] of eight or nine
 
 couple, with two violins, and a mere side-board collation.
 
@@ -338,9 +338,9 @@ receive or communicate pleasure. After they had been assembled about an
 
 hour, Mr. Palmer sauntered towards the Miss Dashwoods to express his
 
-surprise on seeing them in town, though Colonel Brandon had been first
+surprise on seeing them in town, though [[Colonel Brandon]] had been first
 
-informed of their arrival at his house, and he had himself said
+informed of their arrival at his [[house]], and he had himself said
 
 something very droll on hearing that they were to come.
 
@@ -362,7 +362,7 @@ something very droll on hearing that they were to come.
 
 
 
-Never had Marianne been so unwilling to dance in her life, as she was
+Never had Marianne been so unwilling to [[Dance|dance]] in her life, as she was
 
 that evening, and never so much fatigued by the exercise. She
 
@@ -372,9 +372,9 @@ complained of it as they returned to Berkeley Street.
 
 “Aye, aye,” said Mrs. Jennings, “we know the reason of all that very
 
-well; if a certain person who shall be nameless, had been there, you
+[[Well|well]]; if a certain person who shall be nameless, had been there, you
 
-would not have been a bit tired: and to say the truth it was not very
+would not have been a bit tired: and to say the [[Truth|truth]] it was not very
 
 pretty of him not to give you the meeting when he was invited.”
 
@@ -412,7 +412,7 @@ business, and Elinor began her letter directly, while Marianne, too
 
 restless for employment, too anxious for conversation, walked from one
 
-window to the other, or sat down by the fire in melancholy meditation.
+[[Window|window]] to the other, or sat down by the [[Fire|fire]] in [[Melancholy|melancholy]] meditation.
 
 Elinor was very earnest in her application to her mother, relating all
 
@@ -426,21 +426,21 @@ of her real situation with respect to him.
 
 Her letter was scarcely finished, when a rap foretold a visitor, and
 
-Colonel Brandon was announced. Marianne, who had seen him from the
+[[Colonel Brandon]] was announced. Marianne, who had seen him from the
 
-window, and who hated company of any kind, left the room before he
+[[Window|window]], and who hated company of any kind, left the room before he
 
-entered it. He looked more than usually grave, and though expressing
+entered it. He looked more than usually [[Grave|grave]], and though expressing
 
-satisfaction at finding Miss Dashwood alone, as if he had somewhat in
+satisfaction at finding Miss Dashwood [[Alone|alone]], as if he had somewhat in
 
-particular to tell her, sat for some time without saying a word.
+particular to tell her, sat for some [[Time|time]] without saying a word.
 
 Elinor, persuaded that he had some communication to make in which her
 
 sister was concerned, impatiently expected its opening. It was not the
 
-first time of her feeling the same kind of conviction; for, more than
+first [[Time|time]] of her feeling the same kind of conviction; for, more than
 
 once before, beginning with the observation of “your sister looks
 
@@ -448,7 +448,7 @@ unwell to-day,” or “your sister seems out of spirits,” he had appeared
 
 on the point, either of disclosing, or of inquiring, something
 
-particular about her. After a pause of several minutes, their silence
+particular about her. After a pause of several minutes, their [[Silence|silence]]
 
 was broken, by his asking her in a voice of some agitation, when he was
 
@@ -474,7 +474,7 @@ He looked surprised and said, “I beg your pardon, I am afraid my
 
 inquiry has been impertinent; but I had not supposed any secrecy
 
-intended, as they openly correspond, and their marriage is universally
+intended, as they openly correspond, and their [[Marriage|marriage]] is universally
 
 talked of.”
 
@@ -514,13 +514,13 @@ concealment be possible, is all that remains.”
 
 
 
-These words, which conveyed to Elinor a direct avowal of his love for
+These words, which conveyed to Elinor a direct avowal of his [[Love|love]] for
 
 her sister, affected her very much. She was not immediately able to say
 
 anything, and even when her spirits were recovered, she debated for a
 
-short time, on the answer it would be most proper to give. The real
+short [[Time|time]], on the answer it would be most proper to give. The real
 
 state of things between Willoughby and her sister was so little known
 
@@ -528,11 +528,11 @@ to herself, that in endeavouring to explain it, she might be as liable
 
 to say too much as too little. Yet as she was convinced that Marianne’s
 
-affection for Willoughby, could leave no hope of Colonel Brandon’s
+affection for Willoughby, could leave no [[Hope|hope]] of [[Colonel Brandon]]’s
 
-success, whatever the event of that affection might be, and at the same
+[[success]], whatever the event of that affection might be, and at the same
 
-time wished to shield her conduct from censure, she thought it most
+[[Time|time]] wished to shield her conduct from censure, she thought it most
 
 prudent and kind, after some consideration, to say more than she really
 
@@ -540,7 +540,7 @@ knew or believed. She acknowledged, therefore, that though she had
 
 never been informed by themselves of the terms on which they stood with
 
-each other, of their mutual affection she had no doubt, and of their
+each other, of their mutual affection she had no [[Doubt|doubt]], and of their
 
 correspondence she was not astonished to hear.
 
@@ -548,7 +548,7 @@ correspondence she was not astonished to hear.
 
 He listened to her with silent attention, and on her ceasing to speak,
 
-rose directly from his seat, and after saying in a voice of emotion,
+[[Rose|rose]] directly from his seat, and after saying in a voice of emotion,
 
 “to your sister I wish all imaginable happiness; to Willoughby that he
 
@@ -560,7 +560,7 @@ Elinor derived no comfortable feelings from this conversation, to
 
 lessen the uneasiness of her mind on other points; she was left, on the
 
-contrary, with a melancholy impression of Colonel Brandon’s
+contrary, with a [[Melancholy|melancholy]] impression of [[Colonel Brandon]]’s
 
 unhappiness, and was prevented even from wishing it removed, by her
 

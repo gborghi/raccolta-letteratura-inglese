@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 Mrs. Pott read the paragraph, uttered a loud shriek, and threw herself
 at full length on the hearth-rug, screaming, and tapping it with the
-heels of her shoes, in a manner which could leave no doubt of the
+heels of her shoes, in a manner which could leave no [[Doubt|doubt]] of the
 propriety of her feelings on the occasion.
 
 ‘My dear,’ said the terrified Pott, ‘I didn’t say I believed it;--I--’
@@ -29,7 +29,7 @@ frequent than ever.
 
 ‘My dear,’ said Mr. Pott, ‘I’m very sorry. If you won’t consider your
 own health, consider me, my dear. We shall have a crowd round the
-house.’ But the more strenuously Mr. Pott entreated, the more vehemently
+[[house]].’ But the more strenuously Mr. Pott entreated, the more vehemently
 the screams poured forth.
 
 Very fortunately, however, attached to Mrs. Pott’s person was a
@@ -39,7 +39,7 @@ ways, and in none more so than in the particular department of
 constantly aiding and abetting her mistress in every wish and
 inclination opposed to the desires of the unhappy Pott. The screams
 reached this young lady’s ears in due course, and brought her into the
-room with a speed which threatened to derange, materially, the very
+room with a [[Speed|speed]] which threatened to derange, materially, the very
 exquisite arrangement of her cap and ringlets.
 
 ‘Oh, my dear, dear mistress!’ exclaimed the bodyguard, kneeling
@@ -51,7 +51,7 @@ mistress, what is the matter?’
 Pott was evidently giving way.
 
 ‘It’s a shame,’ said the bodyguard reproachfully. ‘I know he’ll be the
-death on you, ma’am. Poor dear thing!’
+[[Death|death]] on you, ma’am. Poor dear thing!’
 
 He gave way more. The opposite party followed up the attack.
 
@@ -59,8 +59,8 @@ He gave way more. The opposite party followed up the attack.
 clutching at the wrist of the said Goodwin with an hysteric jerk.
 ‘You’re the only person that’s kind to me, Goodwin.’
 
-At this affecting appeal, Goodwin got up a little domestic tragedy of
-her own, and shed tears copiously.
+At this affecting appeal, Goodwin got up a little domestic [[Tragedy|tragedy]] of
+her own, and shed [[Tears|tears]] copiously.
 
 ‘Never, ma’am--never,’ said Goodwin. ‘Oh, sir, you should be careful--
 you should indeed; you don’t know what harm you may do missis; you’ll be
@@ -76,7 +76,7 @@ The unlucky Pott looked timidly on, but said nothing.
 
 Don’t distress yourself by recollecting it, ma’am,’ said the bodyguard.
 
-Pott looked very frightened. It was time to finish him.
+Pott looked very frightened. It was [[Time|time]] to finish him.
 
 ‘And now,’ sobbed Mrs. Pott, ‘now, after all, to be treated in this way;
 to be reproached and insulted in the presence of a third party, and that
@@ -88,7 +88,7 @@ brother, the lieutenant, shall interfere. I’ll be separated, Goodwin!’
 
 Whatever thoughts the threat of a separation might have awakened in Mr.
 Pott’s mind, he forbore to give utterance to them, and contented himself
-by saying, with great humility:--
+by saying, with great [[Humility|humility]]:--
 
 ‘My dear, will you hear me?’
 
@@ -100,11 +100,11 @@ sundry other pieces of information of a similar description.
 feelings. I never believed that the paragraph had any foundation, my
 dear--impossible. I was only angry, my dear--I may say outrageous--with
 the _Independent_ people for daring to insert it; that’s all.’ Mr. Pott
-cast an imploring look at the innocent cause of the mischief, as if to
+cast an imploring look at the [[Innocent|innocent]] cause of the mischief, as if to
 entreat him to say nothing about the serpent.
 
 ‘And what steps, sir, do you mean to take to obtain redress?’ inquired
-Mr. Winkle, gaining courage as he saw Pott losing it.
+Mr. Winkle, gaining [[Courage|courage]] as he saw Pott losing it.
 
 ‘Oh, Goodwin,’ observed Mrs. Pott, ‘does he mean to horsewhip the editor
 of the _Independent_--does he, Goodwin?’
@@ -137,19 +137,19 @@ proper level, Mrs. Pott recovered, and they went to breakfast.
 
 ‘You will not allow this base newspaper slander to shorten your stay
 here, Mr. Winkle?’ said Mrs. Pott, smiling through the traces of her
-tears.
+[[Tears|tears]].
 
-‘I hope not,’ said Mr. Pott, actuated, as he spoke, by a wish that his
+‘I [[Hope|hope]] not,’ said Mr. Pott, actuated, as he spoke, by a wish that his
 visitor would choke himself with the morsel of dry toast which he was
 raising to his lips at the moment, and so terminate his stay
 effectually.
 
-‘I hope not.’
+‘I [[Hope|hope]] not.’
 
 ‘You are very good,’ said Mr. Winkle; ‘but a letter has been received
-from Mr. Pickwick--so I learn by a note from Mr. Tupman, which was
+from Mr. [[Pickwick]]--so I learn by a note from Mr. Tupman, which was
 brought up to my bedroom door, this morning--in which he requests us to
-join him at Bury to-day; and we are to leave by the coach at noon.’
+join him at Bury to-day; and we are to leave by the coach at [[Noon|noon]].’
 
 ‘But you will come back?’ said Mrs. Pott.
 

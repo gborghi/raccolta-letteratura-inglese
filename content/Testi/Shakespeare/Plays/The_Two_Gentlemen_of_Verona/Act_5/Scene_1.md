@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of Verona — Act V, Scene 1"
+title: "The Two Gentlemen of [[Verona]] — Act V, Scene 1"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)"
@@ -17,9 +17,9 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Enter Sir Eglamour |
-| EGLAMOUR | The sun begins to gild the western sky,<br>And now it is about the very hour<br>That Silvia at Friar Patrick’s cell should meet me.<br>She will not fail; for lovers break not hours,<br>Unless it be to come before their time,<br>So much they spur their expedition. |
-| *(didascalia)* | Enter Silvia |
+| EGLAMOUR | The sun begins to gild the western sky,<br>And now it is about the very hour<br>That [[Silvia]] at Friar Patrick’s cell should meet me.<br>She will not fail; for [[lovers]] break not hours,<br>Unless it be to come before their [[Time|time]],<br>So much they spur their expedition. |
+| *(didascalia)* | Enter [[Silvia]] |
 | EGLAMOUR | See where she comes. Lady, a happy evening! |
-| SILVIA | Amen, amen. Go on, good Eglamour,<br>Out at the postern by the abbey wall.<br>I fear I am attended by some spies. |
-| EGLAMOUR | Fear not. The forest is not three leagues off.<br>If we recover that, we are sure enough. |
+| [[Silvia|SILVIA]] | Amen, amen. Go on, good Eglamour,<br>Out at the postern by the abbey wall.<br>I [[Fear|fear]] I am attended by some spies. |
+| EGLAMOUR | [[Fear]] not. The forest is not three leagues off.<br>If we recover that, we are sure enough. |
 | *(didascalia)* | Exeunt |

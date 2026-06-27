@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Original Sin"
+title: "Man Orthodox — [[Original Sin]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-ORIGINAL SIN
+[[Original Sin|ORIGINAL SIN]]

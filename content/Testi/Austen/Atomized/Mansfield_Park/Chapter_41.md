@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 41"
+title: "[[Mansfield Park]] — Chapter 41"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,14 +17,14 @@ tags:
 CHAPTER XLI
 
 
-A week was gone since Edmund might be supposed in town, and Fanny had
+A week was gone since [[Edmund]] might be supposed in town, and Fanny had
 heard nothing of him. There were three different conclusions to be
-drawn from his silence, between which her mind was in fluctuation; each
+drawn from his [[Silence|silence]], between which her mind was in fluctuation; each
 of them at times being held the most probable. Either his going had
 been again delayed, or he had yet procured no opportunity of seeing
-Miss Crawford alone, or he was too happy for letter-writing!
+Miss Crawford [[Alone|alone]], or he was too happy for letter-writing!
 
-One morning, about this time, Fanny having now been nearly four weeks
+One morning, about this [[Time|time]], Fanny having now been nearly four weeks
 from Mansfield, a point which she never failed to think over and
 calculate every day, as she and Susan were preparing to remove, as
 usual, upstairs, they were stopped by the knock of a visitor, whom they
@@ -46,9 +46,9 @@ point of fainting away.
 
 While trying to keep herself alive, their visitor, who had at first
 approached her with as animated a countenance as ever, was wisely and
-kindly keeping his eyes away, and giving her time to recover, while he
+kindly keeping his eyes away, and giving her [[Time|time]] to recover, while he
 devoted himself entirely to her mother, addressing her, and attending
-to her with the utmost politeness and propriety, at the same time with
+to her with the utmost politeness and propriety, at the same [[Time|time]] with
 a degree of friendliness, of interest at least, which was making his
 manner perfect.
 
@@ -58,7 +58,7 @@ advantage before him, she was overflowing with gratitude—artless,
 maternal gratitude—which could not be unpleasing. Mr. Price was out,
 which she regretted very much. Fanny was just recovered enough to feel
 that _she_ could not regret it; for to her many other sources of
-uneasiness was added the severe one of shame for the home in which he
+uneasiness was added the severe one of shame for the [[Home|home]] in which he
 found her. She might scold herself for the weakness, but there was no
 scolding it away. She was ashamed, and she would have been yet more
 ashamed of her father than of all the rest.
@@ -72,26 +72,26 @@ the port-admiral, nor the commissioner, nor yet with the intention of
 going over to the island, nor of seeing the dockyard. Nothing of all
 that she had been used to think of as the proof of importance, or the
 employment of wealth, had brought him to Portsmouth. He had reached it
-late the night before, was come for a day or two, was staying at the
-Crown, had accidentally met with a navy officer or two of his
+late the [[Night|night]] before, was come for a day or two, was staying at the
+[[Crown]], had accidentally met with a navy officer or two of his
 acquaintance since his arrival, but had no object of that kind in
 coming.
 
-By the time he had given all this information, it was not unreasonable
+By the [[Time|time]] he had given all this information, it was not unreasonable
 to suppose that Fanny might be looked at and spoken to; and she was
 tolerably able to bear his eye, and hear that he had spent half an hour
-with his sister the evening before his leaving London; that she had
-sent her best and kindest love, but had had no time for writing; that
+with his sister the evening before his leaving [[London]]; that she had
+sent her best and kindest [[Love|love]], but had had no [[Time|time]] for writing; that
 he thought himself lucky in seeing Mary for even half an hour, having
-spent scarcely twenty-four hours in London, after his return from
-Norfolk, before he set off again; that her cousin Edmund was in town,
+spent scarcely twenty-four hours in [[London]], after his return from
+Norfolk, before he set off again; that her cousin [[Edmund]] was in town,
 had been in town, he understood, a few days; that he had not seen him
-himself, but that he was well, had left them all well at Mansfield, and
+himself, but that he was [[Well|well]], had left them all [[Well|well]] at Mansfield, and
 was to dine, as yesterday, with the Frasers.
 
 Fanny listened collectedly, even to the last-mentioned circumstance;
 nay, it seemed a relief to her worn mind to be at any certainty; and
-the words, “then by this time it is all settled,” passed internally,
+the words, “then by this [[Time|time]] it is all settled,” passed internally,
 without more evidence of emotion than a faint blush.
 
 After talking a little more about Mansfield, a subject in which her
@@ -100,10 +100,10 @@ an early walk. “It was a lovely morning, and at that season of the year
 a fine morning so often turned off, that it was wisest for everybody
 not to delay their exercise”; and such hints producing nothing, he soon
 proceeded to a positive recommendation to Mrs. Price and her daughters
-to take their walk without loss of time. Now they came to an
+to take their walk without loss of [[Time|time]]. Now they came to an
 understanding. Mrs. Price, it appeared, scarcely ever stirred out of
-doors, except of a Sunday; she owned she could seldom, with her large
-family, find time for a walk. “Would she not, then, persuade her
+doors, except of a [[Sunday]]; she owned she could seldom, with her large
+family, find [[Time|time]] for a walk. “Would she not, then, persuade her
 daughters to take advantage of such weather, and allow him the pleasure
 of attending them?” Mrs. Price was greatly obliged and very complying.
 “Her daughters were very much confined; Portsmouth was a sad place;
@@ -113,11 +113,11 @@ that Fanny, strange as it was—strange, awkward, and distressing—found
 herself and Susan, within ten minutes, walking towards the High Street
 with Mr. Crawford.
 
-It was soon pain upon pain, confusion upon confusion; for they were
+It was soon [[Pain|pain]] upon [[Pain|pain]], confusion upon confusion; for they were
 hardly in the High Street before they met her father, whose appearance
 was not the better from its being Saturday. He stopt; and,
 ungentlemanlike as he looked, Fanny was obliged to introduce him to Mr.
-Crawford. She could not have a doubt of the manner in which Mr.
+Crawford. She could not have a [[Doubt|doubt]] of the manner in which Mr.
 Crawford must be struck. He must be ashamed and disgusted altogether.
 He must soon give her up, and cease to have the smallest inclination
 for the match; and yet, though she had been so much wanting his
@@ -131,10 +131,10 @@ Mr. Crawford probably could not regard his future father-in-law with
 any idea of taking him for a model in dress; but (as Fanny instantly,
 and to her great relief, discerned) her father was a very different
 man, a very different Mr. Price in his behaviour to this most highly
-respected stranger, from what he was in his own family at home. His
+respected stranger, from what he was in his own family at [[Home|home]]. His
 manners now, though not polished, were more than passable: they were
 grateful, animated, manly; his expressions were those of an attached
-father, and a sensible man; his loud tones did very well in the open
+father, and a sensible man; his loud tones did very [[Well|well]] in the open
 air, and there was not a single oath to be heard. Such was his
 instinctive compliment to the good manners of Mr. Crawford; and, be the
 consequence what it might, Fanny’s immediate feelings were infinitely
@@ -174,7 +174,7 @@ Once fairly in the dockyard, he began to reckon upon some happy
 intercourse with Fanny, as they were very soon joined by a brother
 lounger of Mr. Price’s, who was come to take his daily survey of how
 things went on, and who must prove a far more worthy companion than
-himself; and after a time the two officers seemed very well satisfied
+himself; and after a [[Time|time]] the two officers seemed very [[Well|well]] satisfied
 going about together, and discussing matters of equal and never-failing
 interest, while the young people sat down upon some timbers in the
 yard, or found a seat on board a vessel in the stocks which they all
@@ -182,18 +182,18 @@ went to look at. Fanny was most conveniently in want of rest. Crawford
 could not have wished her more fatigued or more ready to sit down; but
 he could have wished her sister away. A quick-looking girl of Susan’s
 age was the very worst third in the world: totally different from Lady
-Bertram, all eyes and ears; and there was no introducing the main point
+[[Bertram]], all eyes and ears; and there was no introducing the main point
 before her. He must content himself with being only generally
 agreeable, and letting Susan have her share of entertainment, with the
 indulgence, now and then, of a look or hint for the better-informed and
 conscious Fanny. Norfolk was what he had mostly to talk of: there he
-had been some time, and everything there was rising in importance from
+had been some [[Time|time]], and everything there was rising in importance from
 his present schemes. Such a man could come from no place, no society,
 without importing something to amuse; his journeys and his acquaintance
 were all of use, and Susan was entertained in a way quite new to her.
 For Fanny, somewhat more was related than the accidental agreeableness
 of the parties he had been in. For her approbation, the particular
-reason of his going into Norfolk at all, at this unusual time of year,
+reason of his going into Norfolk at all, at this unusual [[Time|time]] of year,
 was given. It had been real business, relative to the renewal of a
 lease in which the welfare of a large and—he believed—industrious
 family was at stake. He had suspected his agent of some underhand
@@ -206,23 +206,23 @@ duty, he had secured agreeable recollections for his own mind. He had
 introduced himself to some tenants whom he had never seen before; he
 had begun making acquaintance with cottages whose very existence,
 though on his own estate, had been hitherto unknown to him. This was
-aimed, and well aimed, at Fanny. It was pleasing to hear him speak so
+aimed, and [[Well|well]] aimed, at Fanny. It was pleasing to hear him speak so
 properly; here he had been acting as he ought to do. To be the friend
 of the poor and the oppressed! Nothing could be more grateful to her;
 and she was on the point of giving him an approving look, when it was
 all frightened off by his adding a something too pointed of his hoping
 soon to have an assistant, a friend, a guide in every plan of utility
-or charity for Everingham: a somebody that would make Everingham and
+or [[Charity|charity]] for Everingham: a somebody that would make Everingham and
 all about it a dearer object than it had ever been yet.
 
 She turned away, and wished he would not say such things. She was
 willing to allow he might have more good qualities than she had been
 wont to suppose. She began to feel the possibility of his turning out
-well at last; but he was and must ever be completely unsuited to her,
+[[Well|well]] at last; but he was and must ever be completely unsuited to her,
 and ought not to think of her.
 
 He perceived that enough had been said of Everingham, and that it would
-be as well to talk of something else, and turned to Mansfield. He could
+be as [[Well|well]] to talk of something else, and turned to Mansfield. He could
 not have chosen better; that was a topic to bring back her attention
 and her looks almost instantly. It was a real indulgence to her to hear
 or to speak of Mansfield. Now so long divided from everybody who knew
@@ -234,29 +234,29 @@ her uncle as all that was clever and good, and her aunt as having the
 sweetest of all sweet tempers.
 
 He had a great attachment to Mansfield himself; he said so; he looked
-forward with the hope of spending much, very much, of his time there;
+forward with the [[Hope|hope]] of spending much, very much, of his [[Time|time]] there;
 always there, or in the neighbourhood. He particularly built upon a
-very happy summer and autumn there this year; he felt that it would be
-so: he depended upon it; a summer and autumn infinitely superior to the
+very happy [[Summer|summer]] and [[Autumn|autumn]] there this year; he felt that it would be
+so: he depended upon it; a [[Summer|summer]] and [[Autumn|autumn]] infinitely superior to the
 last. As animated, as diversified, as social, but with circumstances of
 superiority undescribable.
 
 “Mansfield, Sotherton, Thornton Lacey,” he continued; “what a society
 will be comprised in those houses! And at Michaelmas, perhaps, a fourth
 may be added: some small hunting-box in the vicinity of everything so
-dear; for as to any partnership in Thornton Lacey, as Edmund Bertram
-once good-humouredly proposed, I hope I foresee two objections: two
+dear; for as to any partnership in Thornton Lacey, as [[Edmund Bertram]]
+once good-humouredly proposed, I [[Hope|hope]] I foresee two objections: two
 fair, excellent, irresistible objections to that plan.”
 
 Fanny was doubly silenced here; though when the moment was passed,
 could regret that she had not forced herself into the acknowledged
 comprehension of one half of his meaning, and encouraged him to say
-something more of his sister and Edmund. It was a subject which she
+something more of his sister and [[Edmund]]. It was a subject which she
 must learn to speak of, and the weakness that shrunk from it would soon
 be quite unpardonable.
 
 When Mr. Price and his friend had seen all that they wished, or had
-time for, the others were ready to return; and in the course of their
+[[Time|time]] for, the others were ready to return; and in the course of their
 walk back, Mr. Crawford contrived a minute’s privacy for telling Fanny
 that his only business in Portsmouth was to see her; that he was come
 down for a couple of days on her account, and hers only, and because he
@@ -273,12 +273,12 @@ but it was not so very bad as she would have expected: the pleasure of
 talking of Mansfield was so very great!
 
 Before they parted, she had to thank him for another pleasure, and one
-of no trivial kind. Her father asked him to do them the honour of
-taking his mutton with them, and Fanny had time for only one thrill of
+of no trivial kind. Her father asked him to do them the [[Honour|honour]] of
+taking his mutton with them, and Fanny had [[Time|time]] for only one thrill of
 horror, before he declared himself prevented by a prior engagement. He
 was engaged to dinner already both for that day and the next; he had
-met with some acquaintance at the Crown who would not be denied; he
-should have the honour, however, of waiting on them again on the
+met with some acquaintance at the [[Crown]] who would not be denied; he
+should have the [[Honour|honour]], however, of waiting on them again on the
 morrow, etc., and so they parted—Fanny in a state of actual felicity
 from escaping so horrible an evil!
 

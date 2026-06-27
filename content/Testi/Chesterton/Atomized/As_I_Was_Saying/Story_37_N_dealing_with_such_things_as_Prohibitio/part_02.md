@@ -21,14 +21,14 @@ Settled States can respect themselves and also respect each other,
 because they can claim the right to defend their own frontiers
 and yet not deny their duty to recognize other people's frontiers.
 But the racial spirit is a restless spirit; it does not go by
-frontiers but by the wandering of the blood.  It is not so much
+frontiers but by the wandering of the [[Blood|blood]].  It is not so much
 as if France were at war with Spain, but rather as if the Gipsies
 were more or less at war with everybody.  You can have a League
 of Nations, but you could hardly have a League of Tribes.
 When the Tribe is on the march, it is apt to forget leagues--
 not to mention frontiers.  But my immediate interest in this flood
 of tribalism is that it has since poured into the empty hollows left
-by the slow drying-up of the great Deluge of the Thirty Years War;
+by the slow drying-up of the great [[deluge|Deluge]] of the Thirty Years War;
 and that all this new and naked nationalism has come to many modern
 men as a substitute for their dead religion.
 
@@ -50,8 +50,8 @@ were turned into watch-towers loud with the tocsins and alarums
 of war, by the challenges of the atheistic cobbler.  It may seem
 at first a little hard on the cobbler to condemn him to an eternal
 ritual of repeating that there is nothing like leather.  But there
-is a truly historic half-truth in the idea of such a limitation.
-And the truth is this:  that a really good cobbler might be really
+is a truly historic half-[[Truth|truth]] in the idea of such a limitation.
+And the [[Truth|truth]] is this:  that a really good cobbler might be really
 interesting about leather, and still be capable of being rather
 a bore about God; and still more of a bore about Godlessness.
 And the reason is this:  that in the trade that a man really
@@ -83,7 +83,7 @@ and not stuck behind in the first alphabet of his craft.
 But as an atheist he would be an amateur, and would probably have stuck
 very stupidly at the first alphabet of atheism; asking how the God
 who made a fig tree grow could stop it from growing; or whether God
-was not alone responsible for all a man did, because he had made
+was not [[Alone|alone]] responsible for all a man did, because he had made
 a man free to do what he liked.  Anyhow, he would probably say
 things we have all heard a thousand times from cosmic theorists,
 and do not specially want to hear all over again from cobblers.
@@ -91,7 +91,7 @@ and do not specially want to hear all over again from cobblers.
 Certainly no one would compare Sir James Jeans to an atheist;
 for no man has, in fact, done more to change the tone of the most modern
 science from atheism to theism.  Nor would it be strictly correct,
-or in accordance with the dull details of biography as given in
+or in accordance with the dull details of [[Biography|biography]] as given in
 _Who's Who,_ to describe him as a cobbler.  But in one way he does raise
 some of the same questions as are suggested in the two proverbs about
 the cobbler, or the faintly implied speculations about the atheist.
@@ -108,9 +108,9 @@ about which he is possibly the chief authority of the age.
 The cosmic cobbler is listened to less respectfully when he talks
 about leather, about the substance or material of which the cosmos
 is made, than when he talks about the problem of unemployment or armament,
-or the need of a new religion, or all the familiar topics well within
+or the need of a new religion, or all the familiar topics [[Well|well]] within
 the range of the village atheist, or at least of the village agnostic.
 And yet his hypothesis about matter is full of new ideas,
-which are really his own; while his defence of the morality of modern
+which are really his own; while his defence of the [[morality]] of modern
 science is necessarily full of old ideas which would have been much
 the same in the mouths of the scientific men of sixty years ago.

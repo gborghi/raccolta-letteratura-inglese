@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act IV, Scene 8"
+title: "Antony and [[Cleopatra]] — Act IV, Scene 8"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -17,7 +17,7 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Alarums. Enter Antony, and Scarus wounded |
-| SCARUS | O my brave Emperor, this is fought indeed!<br>Had we done so at first, we had droven them home<br>With clouts about their heads. |
+| SCARUS | O my brave Emperor, this is fought indeed!<br>Had we done so at first, we had droven them [[Home|home]]<br>With clouts about their heads. |
 | ANTONY | Thou bleed’st apace. |
 | SCARUS | I had a wound here that was like a T,<br>But now ’tis made an H. |
 | *(didascalia)* | Retreat sounded far off |

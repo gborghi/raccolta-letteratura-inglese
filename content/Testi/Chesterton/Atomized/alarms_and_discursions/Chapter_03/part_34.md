@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-Consider, for instance, what wastes of wordy imitation and ambiguity
+Consider, for instance, what wastes of wordy [[Imitation|imitation]] and ambiguity
 the ordinary educated person in the big towns could pour out on the
-subject of the sea.  A country girl I know in the county of Buckingham
+subject of the sea.  A country girl I know in the county of [[Buckingham]]
 had never seen the sea in her life until the other day.  When she
 was asked what she thought of it she said it was like cauliflowers.
 Now that is a piece of pure literature--vivid, entirely independent
@@ -32,7 +32,7 @@ as of a pattern, that made two great poets, Aeschylus and Shakespeare,
 use a word like "multitudinous" of the ocean.  But just where my
 fancy halted the Buckinghamshire young woman rushed (so to speak)
 to my imaginative rescue.  Cauliflowers are twenty times better
-than cabbages, for they show the wave breaking as well as curling,
+than cabbages, for they show the wave breaking as [[Well|well]] as curling,
 and the efflorescence of the branching foam, blind bubbling,
 and opaque.  Moreover, the strong lines of life are suggested;
 the arches of the rushing waves have all the rigid energy of green stalks,
@@ -40,19 +40,19 @@ as if the whole sea were one great green plant with one immense
 white flower rooted in the abyss.
 
 Now, a large number of delicate and superior persons would refuse
-to see the force in that kitchen garden comparison, because it is not
+to see the force in that kitchen [[Garden|garden]] comparison, because it is not
 connected with any of the ordinary maritime sentiments as stated in books
-and songs.  The aesthetic amateur would say that he knew what large and
+and [[songs]].  The aesthetic amateur would say that he knew what large and
 philosophical thoughts he ought to have by the boundless deep.  He would
 say that he was not a greengrocer who would think first of greens.
-To which I should reply, like Hamlet, apropos of a parallel profession,
-"I would you were so honest a man."  The mention of "Hamlet"
+To which I should reply, like [[Hamlet]], apropos of a parallel profession,
+"I would you were so honest a man."  The mention of "[[Hamlet]]"
 reminds me, by the way, that besides the girl who had never seen
 the sea, I knew a girl who had never seen a stage-play. She was taken
-to "Hamlet," and she said it was very sad.  There is another case
+to "[[Hamlet]]," and she said it was very sad.  There is another case
 of going to the primordial point which is overlaid by learning
-and secondary impressions.  We are so used to thinking of "Hamlet"
-as a problem that we sometimes quite forget that it is a tragedy,
+and secondary impressions.  We are so used to thinking of "[[Hamlet]]"
+as a problem that we sometimes quite forget that it is a [[Tragedy|tragedy]],
 just as we are so used to thinking of the sea as vast and vague,
 that we scarcely notice when it is white and green.
 
@@ -67,15 +67,15 @@ of it as a field of vegetables, even as a yard of vegetables.
 The girl was right.  The ocean only suggests infinity when you
 cannot see it; a sea mist may seem endless, but not a sea.
 So far from being vague and vanishing, the sea is the one
-hard straight line in Nature.  It is the one plain limit;
+hard straight line in [[Nature]].  It is the one plain limit;
 the only thing that God has made that really looks like a wall.
 Compared to the sea, not only sun and cloud are chaotic and doubtful,
-but solid mountains and standing forests may be said to melt
+but solid [[Mountains|mountains]] and standing forests may be said to melt
 and fade and flee in the presence of that lonely iron line.
 The old naval phrase, that the seas are England's bulwarks,
 is not a frigid and artificial metaphor; it came into the head
 of some genuine sea-dog, when he was genuinely looking at the sea.
-For the edge of the sea is like the edge of a sword;
+For the edge of the sea is like the edge of a [[Sword|sword]];
 it is sharp, military, and decisive; it really looks like a bolt
 or bar, and not like a mere expansion.  It hangs in heaven, grey,
 or green, or blue, changing in colour, but changeless in form,
@@ -98,7 +98,7 @@ and other Oriental nationalism, and it has tempted me to some
 reflections on the first word of the sentence.
 
 The Sentimentalist, roughly speaking, is the man who wants to eat
-his cake and have it.  He has no sense of honour about ideas;
+his cake and have it.  He has no sense of [[Honour|honour]] about ideas;
 he will not see that one must pay for an idea as for anything else.
 He will not see that any worthy idea, like any honest woman, can only
 be won on its own terms, and with its logical chain of loyalty.
@@ -107,17 +107,17 @@ a third idea flatters him; a fourth idea pays him.
 He will have them all at once in one wild intellectual harem,
 no matter how much they quarrel and contradict each other.
 The Sentimentalist is a philosophic profligate, who tries to capture
-every mental beauty without reference to its rival beauties;
-who will not even be off with the old love before he is on with the new.
-Thus if a man were to say, "I love this woman, but I may some day
+every mental [[Beauty|beauty]] without reference to its rival beauties;
+who will not even be off with the old [[Love|love]] before he is on with the new.
+Thus if a man were to say, "I [[Love|love]] this woman, but I may some day
 find my affinity in some other woman," he would be a Sentimentalist.
 He would be saying, "I will eat my wedding-cake and keep it."
 Or if a man should say, "I am a Republican, believing in
-the equality of citizens; but when the Government has given
+the equality of citizens; but when the [[government|Government]] has given
 me my peerage I can do infinite good as a kind landlord and a
 wise legislator"; then that man would be a Sentimentalist.
-He would be trying to keep at the same time the classic austerity
-of equality and also the vulgar excitement of an aristocrat.
+He would be trying to keep at the same [[Time|time]] the classic austerity
+of equality and also the vulgar excitement of an [[aristocrat]].
 Or if a man should say, "I am in favour of religious equality;
 but I must preserve the Protestant Succession," he would be a
 Sentimentalist of a grosser and more improbable kind.

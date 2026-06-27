@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 36)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 36)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -22,25 +22,25 @@ who might naturally have introduced old characters into new stories.
 
 Dickens, as a matter of fact, was almost the one man who never did it.
 
-It would have seemed natural in him for a double reason; first, that his
+It would have seemed natural in him for a [[Double|double]] reason; first, that his
 
 characters were very valuable to him, and second that they were not very
 
 valuable to his particular stories. They were dear to him, and they are
 
-dear to us; but they really might as well have turned up (within reason)
+dear to us; but they really might as [[Well|well]] have turned up (within reason)
 
-in one environment as well as in another. We, I am sure, should be
+in one environment as [[Well|well]] as in another. We, I am sure, should be
 
 delighted to meet Mr. Mantalini in the story of _Dombey and Son_. And he
 
-certainly would not be much missed from the plot of Nicholas Nickleby.
+certainly would not be much missed from the plot of [[Nicholas Nickleby]].
 
 "I am an affectionate father," said Dickens, "to all the children of my
 
 fancy; but like many other parents I have in my heart of hearts a
 
-favourite child; and his name is David Copperfield." Yet although his
+favourite [[Child|child]]; and his name is [[David Copperfield]]." Yet although his
 
 heart must often have yearned backwards to the children of his fancy
 
@@ -72,7 +72,7 @@ superiors in art and exactitude and closeness to connected reality.
 
 Thackeray wallowed in it; Anthony Trollope lived on it. Those modern
 
-artists who pride themselves most on the separation and unity of a work
+artists who [[Pride|pride]] themselves most on the separation and [[unity]] of a work
 
 of art have indulged in it often; thus, for instance, Stevenson gave a
 
@@ -84,7 +84,7 @@ _The Rising Sun_. The habit of revising old characters is so strong in
 
 Thackeray that _Vanity Fair_, _Pendennis_, _The Newcomes_, and _Philip_
 
-are in one sense all one novel. Certainly the reader sometimes forgets
+are in one sense all one [[Novel|novel]]. Certainly the reader sometimes forgets
 
 which one of them he is reading. Afterwards he cannot remember whether
 
@@ -106,21 +106,21 @@ characters could not possibly have been contemporary he goes out of his
 
 way to make one the remote ancestor of the other. Thus he created the
 
-great house of Warrington solely to connect a "blue-bearded" Bohemian
+[[Great House|great house]] of Warrington solely to connect a "blue-bearded" Bohemian
 
-journalist with the blood of Henry Esmond. It is quite impossible to
+journalist with the [[Blood|blood]] of Henry Esmond. It is quite impossible to
 
 conceive Dickens keeping up this elaborate connection between all his
 
 characters and all his books, especially across the ages. It would give
 
-us a kind of shock if we learnt from Dickens that Major Bagstock was the
+us a kind of shock if we learnt from Dickens that [[Major Bagstock]] was the
 
 nephew of Mr. Chester. Still less can we imagine Dickens carrying on an
 
 almost systematic family chronicle as was in some sense done by
 
-Trollope. There must be some reason for such a paradox; for in itself it
+Trollope. There must be some reason for such a [[Paradox|paradox]]; for in itself it
 
 is a very curious one. The writers who wrote carefully were always
 
@@ -136,9 +136,9 @@ he attempted it once, and then he failed.
 
 The reason lay, I think, in the very genius of Dickens's creation. The
 
-child he bore of his soul quitted him when his term was passed like a
+[[Child|child]] he bore of his [[Soul|soul]] quitted him when his term was passed like a
 
-veritable child born of the body. It was independent of him, as a child
+veritable [[Child|child]] born of the [[Body|body]]. It was independent of him, as a [[Child|child]]
 
 is of its parents. It had become dead to him even in becoming alive.
 
@@ -146,7 +146,7 @@ When Thackeray studied Pendennis or Lord Steyne he was studying
 
 something outside himself, and therefore something that might come
 
-nearer and nearer. But when Dickens brought forth Sam Weller or Pickwick
+nearer and nearer. But when Dickens brought forth [[Sam Weller]] or [[Pickwick]]
 
 he was creating something that had once been inside himself and
 
@@ -158,7 +158,7 @@ lively an author, yet I say it quite seriously; I think it possible that
 
 there arose between Dickens and his characters that strange and almost
 
-supernatural shyness that arises often between parents and children;
+[[Supernatural|supernatural]] shyness that arises often between parents and children;
 
 because they are too close to each other to be open with each other. Too
 
@@ -168,7 +168,7 @@ figures for it to be possible for him without embarrassment ever to
 
 speak with it again. This is the thing which some fools call fickleness;
 
-but which is not the death of feeling, but rather its dreadful
+but which is not the [[Death|death]] of feeling, but rather its dreadful
 
 perpetuation; this shyness is the final seal of strong sentiment; this
 
@@ -178,18 +178,18 @@ coldness is an eternal constancy.
 
 This one case where Dickens broke through his rule was not such a
 
-success as to tempt him in any case to try the thing again.
+[[success]] as to tempt him in any case to try the thing again.
 
 
 
 There is weakness in the strict sense of the word in this particular
 
-reappearance of Samuel Pickwick and Samuel Weller. In the original
+reappearance of [[Samuel Pickwick]] and Samuel Weller. In the original
 
 _Pickwick Papers_ Dickens had with quite remarkable delicacy and
 
 vividness contrived to suggest a certain fundamental sturdiness and
 
-spirit in that corpulent and complacent old gentleman. Mr. Pickwick was
+spirit in that corpulent and complacent old gentleman. Mr. [[Pickwick]] was
 
 a mild man, a respectable man, a placid man; but he was very decidedly a

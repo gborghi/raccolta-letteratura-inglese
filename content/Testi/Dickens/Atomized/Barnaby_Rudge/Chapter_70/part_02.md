@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 70 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 70 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -34,14 +34,14 @@ wouldn’t be as bold as her; I wouldn’t seem to say to all male creeturs
 any earthly crowns as might be offered. Worlds,’ Miggs added solemnly,
 ‘should not reduce me. No. Not if I was Wenis.’
 
-‘Well, but you ARE Wenus, you know,’ said Mr Dennis, confidentially.
+‘[[Well]], but you ARE Wenus, you know,’ said Mr Dennis, confidentially.
 
 ‘No, I am not, good gentleman,’ answered Miggs, shaking her head with an
-air of self-denial which seemed to imply that she might be if she chose,
+air of [[Self|self]]-denial which seemed to imply that she might be if she chose,
 but she hoped she knew better. ‘No, I am not, good gentleman. Don’t
 charge me with it.’
 
-Up to this time she had turned round, every now and then, to where Dolly
+Up to this [[Time|time]] she had turned round, every now and then, to where Dolly
 and Miss Haredale had retired and uttered a scream, or groan, or laid
 her hand upon her heart and trembled excessively, with a view of keeping
 up appearances, and giving them to understand that she conversed with
@@ -63,7 +63,7 @@ hand you over to somebody else.’
 
 Miss Miggs, who had fallen into a terrible state of grief when the first
 part of this sentence was spoken, recovered a little at the second,
-and seemed by the sudden check she put upon her tears, to intimate
+and seemed by the sudden check she put upon her [[Tears|tears]], to intimate
 that possibly this arrangement might meet her views; and that it might,
 perhaps, remain an open question.
 
@@ -73,7 +73,7 @@ took for a rioter, and it’s all over with him.’
 
 Miss Miggs relapsed.
 
-‘Now I want,’ said Dennis, ‘to clear this house, and to see you righted.
+‘Now I want,’ said Dennis, ‘to clear this [[house]], and to see you righted.
 What if I was to get her off, out of the way, eh?’
 
 Miss Miggs, brightening again, rejoined, with many breaks and pauses
@@ -95,8 +95,8 @@ head from side to side, to intimate to Mr Dennis that though he talked
 until he had no breath left, she was as deaf as any adder.
 
 ‘Lookee here, my sugar-stick,’ said Mr Dennis, ‘if your view’s the same
-as mine, and you’ll only be quiet and slip away at the right time, I
-can have the house clear to-morrow, and be out of this trouble.--Stop
+as mine, and you’ll only be quiet and slip away at the right [[Time|time]], I
+can have the [[house]] clear to-morrow, and be out of this trouble.--Stop
 though! there’s the other.’
 
 ‘Which other, sir?’ asked Miggs--still with her fingers in her ears and
@@ -109,8 +109,8 @@ Gashford.
 Miss Miggs replied (still being profoundly deaf) that if Miss Haredale
 stood in the way at all, he might make himself quite easy on that score;
 as she had gathered, from what passed between Hugh and Mr Tappertit when
-they were last there, that she was to be removed alone (not by them, but
-by somebody else), to-morrow night.
+they were last there, that she was to be removed [[Alone|alone]] (not by them, but
+by somebody else), to-morrow [[Night|night]].
 
 Mr Dennis opened his eyes very wide at this piece of information,
 whistled once, considered once, and finally slapped his head once and
@@ -124,41 +124,41 @@ among the rioters, some daring young fellow (and he had one in his eye,
 he said), who, terrified by the threats he could hold out to him, and
 alarmed by the capture of so many who were no better and no worse than
 he, would gladly avail himself of any help to get abroad, and out of
-harm’s way, with his plunder, even though his journey were incumbered
+harm’s way, with his plunder, even though his [[Journey|journey]] were incumbered
 by an unwilling companion; indeed, the unwilling companion being
 a beautiful girl, would probably be an additional inducement and
-temptation. Such a person found, he proposed to bring him there on
-the ensuing night, when the tall one was taken off, and Miss Miggs had
+[[Temptation|temptation]]. Such a person found, he proposed to bring him there on
+the ensuing [[Night|night]], when the tall one was taken off, and Miss Miggs had
 purposely retired; and then that Dolly should be gagged, muffled in a
-cloak, and carried in any handy conveyance down to the river’s side;
+cloak, and carried in any handy conveyance down to the [[River|river]]’s side;
 where there were abundant means of getting her smuggled snugly off in
 any small craft of doubtful character, and no questions asked. With
 regard to the expense of this removal, he would say, at a rough
 calculation, that two or three silver tea or coffee-pots, with something
 additional for drink (such as a muffineer, or toast-rack), would more
 than cover it. Articles of plate of every kind having been buried by the
-rioters in several lonely parts of London, and particularly, as he
+rioters in several lonely parts of [[London]], and particularly, as he
 knew, in St James’s Square, which, though easy of access, was little
-frequented after dark, and had a convenient piece of water in the midst,
+frequented after dark, and had a convenient piece of [[Water|water]] in the midst,
 the needful funds were close at hand, and could be had upon the shortest
 notice. With regard to Dolly, the gentleman would exercise his own
 discretion. He would be bound to do nothing but to take her away,
 and keep her away. All other arrangements and dispositions would rest
 entirely with himself.
 
-If Miss Miggs had had her hearing, no doubt she would have been greatly
+If Miss Miggs had had her hearing, no [[Doubt|doubt]] she would have been greatly
 shocked by the indelicacy of a young female’s going away with a stranger
-by night (for her moral feelings, as we have said, were of the tenderest
+by [[Night|night]] (for her moral feelings, as we have said, were of the tenderest
 kind); but directly Mr Dennis ceased to speak, she reminded him that he
 had only wasted breath. She then went on to say (still with her fingers
 in her ears) that nothing less than a severe practical lesson would save
 the locksmith’s daughter from utter ruin; and that she felt it, as it
 were, a moral obligation and a sacred duty to the family, to wish that
-some one would devise one for her reformation. Miss Miggs remarked, and
+some one would devise one for her [[Reformation|reformation]]. Miss Miggs remarked, and
 very justly, as an abstract sentiment which happened to occur to her
 at the moment, that she dared to say the locksmith and his wife would
 murmur, and repine, if they were ever, by forcible abduction, or
-otherwise, to lose their child; but that we seldom knew, in this world,
+otherwise, to lose their [[Child|child]]; but that we seldom knew, in this world,
 what was best for us: such being our sinful and imperfect natures, that
 very few arrived at that clear understanding.
 

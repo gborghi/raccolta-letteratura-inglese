@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 23 (part 4)"
+title: "[[The Professor]] — Chapter 23 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ composure. The peace I felt, I wished her to feel; my arm, it is true,
 
 still detained her; but with a restraint that was gentle enough, so long
 
-as no opposition tightened it. My gaze was on the red fire; my heart was
+as no opposition tightened it. My gaze was on the red [[Fire|fire]]; my heart was
 
 measuring its own content; it sounded and sounded, and found the depth
 
@@ -34,7 +34,7 @@ lifted her head.
 
 
 
-“Well, Frances?” I like unexaggerated intercourse; it is not my way to
+“[[Well]], Frances?” I like unexaggerated intercourse; it is not my way to
 
 overpower with amorous epithets, any more than to worry with selfishly
 
@@ -62,7 +62,7 @@ tranquil enough?”
 
 
 
-“Well, monsieur, I wished merely to say, that I should like, of course,
+“[[Well]], monsieur, I wished merely to say, that I should like, of course,
 
 to retain my employment of teaching. You will teach still, I suppose,
 
@@ -96,19 +96,19 @@ left M. Pelet’s; and after nearly a month’s seeking, I have got another
 
 place, with a salary of three thousand francs a year, which I can easily
 
-double by a little additional exertion. Thus you see it would be useless
+[[Double|double]] by a little additional exertion. Thus you see it would be useless
 
 for you to fag yourself by going out to give lessons; on six thousand
 
-francs you and I can live, and live well.”
+francs you and I can live, and live [[Well|well]].”
 
 
 
 Frances seemed to consider. There is something flattering to man’s
 
-strength, something consonant to his honourable pride, in the idea of
+strength, something consonant to his honourable [[Pride|pride]], in the idea of
 
-becoming the providence of what he loves--feeding and clothing it, as
+becoming the [[Providence|providence]] of what he loves--feeding and clothing it, as
 
 God does the lilies of the field. So, to decide her resolution, I went
 
@@ -156,13 +156,13 @@ it; and how dull my days would be! You would be away teaching in close,
 
 noisy school-rooms, from morning till evening, and I should be lingering
 
-at home, unemployed and solitary; I should get depressed and sullen, and
+at [[Home|home]], unemployed and solitary; I should get depressed and sullen, and
 
 you would soon tire of me.”
 
 
 
-“Frances, you could read and study--two things you like so well.”
+“Frances, you could read and study--two things you like so [[Well|well]].”
 
 
 
@@ -172,7 +172,7 @@ active life better; I must act in some way, and act with you. I have
 
 taken notice, monsieur, that people who are only in each other’s company
 
-for amusement, never really like each other so well, or esteem each
+for amusement, never really like each other so [[Well|well]], or esteem each
 
 other so highly, as those who work together, and perhaps suffer
 
@@ -180,7 +180,7 @@ together.”
 
 
 
-“You speak God’s truth,” said I at last, “and you shall have your own
+“You speak God’s [[Truth|truth]],” said I at last, “and you shall have your own
 
 way, for it is the best way. Now, as a reward for such ready consent,
 
@@ -198,7 +198,7 @@ interest.
 
 
 
-I know not whether Frances was really much altered since the time
+I know not whether Frances was really much altered since the [[Time|time]]
 
 I first saw her; but, as I looked at her now, I felt that she was
 
@@ -210,13 +210,13 @@ gone, and now I saw a face dressed in graces; smile, dimple, and
 
 rosy tint rounded its contours and brightened its hues. I had been
 
-accustomed to nurse a flattering idea that my strong attachment to her
+accustomed to [[Nurse|nurse]] a flattering idea that my strong attachment to her
 
-proved some particular perspicacity in my nature; she was not handsome,
+proved some particular perspicacity in my [[Nature|nature]]; she was not handsome,
 
 she was not rich, she was not even accomplished, yet was she my life’s
 
-treasure; I must then be a man of peculiar discernment. To-night my eyes
+treasure; I must then be a man of peculiar discernment. To-[[Night|night]] my eyes
 
 opened on the mistake I had made; I began to suspect that it was only my
 
@@ -230,7 +230,7 @@ those prominent defects of eyes, teeth, complexion, shape, which hold at
 
 bay the admiration of the boldest male champions of intellect (for
 
-women can love a downright ugly man if he be but talented); had she been
+women can [[Love|love]] a downright ugly man if he be but talented); had she been
 
 either “edentee, myope, rugueuse, ou bossue,” my feelings towards
 
@@ -238,7 +238,7 @@ her might still have been kindly, but they could never have been
 
 impassioned; I had affection for the poor little misshapen Sylvie, but
 
-for her I could never have had love. It is true Frances’ mental points
+for her I could never have had [[Love|love]]. It is true Frances’ mental points
 
 had been the first to interest me, and they still retained the strongest
 
@@ -248,6 +248,6 @@ derived a pleasure, purely material, from contemplating the clearness
 
 of her brown eyes, the fairness of her fine skin, the purity of her
 
-well-set teeth, the proportion of her delicate form; and that pleasure
+[[Well|well]]-set teeth, the proportion of her delicate form; and that pleasure
 
 I could ill have dispensed with. It appeared, then, that I too was a

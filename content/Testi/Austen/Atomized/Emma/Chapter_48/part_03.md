@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 10 (part 3)"
+title: "[[Emma]] — Chapter 10 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-“Ah!” thought Emma, “he would have done as much for Harriet.”
+“Ah!” thought [[Emma]], “he would have done as much for Harriet.”
 
-“This was settled last night, and Frank was off with the light this
-morning. He stopped at Highbury, at the Bates’s, I fancy, some time—and
+“This was settled last [[Night|night]], and Frank was off with the light this
+morning. He stopped at Highbury, at the Bates’s, I fancy, some [[Time|time]]—and
 then came on hither; but was in such a hurry to get back to his uncle,
 to whom he is just now more necessary than ever, that, as I tell you,
 he could stay with us but a quarter of an hour.—He was very much
@@ -31,19 +31,19 @@ every appearance of his having been feeling a great deal.”
 such perfect secresy?—The Campbells, the Dixons, did none of them know
 of the engagement?”
 
-Emma could not speak the name of Dixon without a little blush.
+[[Emma]] could not speak the name of Dixon without a little blush.
 
 “None; not one. He positively said that it had been known to no being
 in the world but their two selves.”
 
-“Well,” said Emma, “I suppose we shall gradually grow reconciled to the
+“[[Well]],” said [[Emma]], “I suppose we shall gradually grow reconciled to the
 idea, and I wish them very happy. But I shall always think it a very
 abominable sort of proceeding. What has it been but a system of
 hypocrisy and deceit,—espionage, and treachery?—To come among us with
 professions of openness and simplicity; and such a league in secret to
-judge us all!—Here have we been, the whole winter and spring,
-completely duped, fancying ourselves all on an equal footing of truth
-and honour, with two people in the midst of us who may have been
+judge us all!—Here have we been, the whole [[Winter|winter]] and [[spring]],
+completely duped, fancying ourselves all on an equal footing of [[Truth|truth]]
+and [[Honour|honour]], with two people in the midst of us who may have been
 carrying round, comparing and sitting in judgment on sentiments and
 words that were never meant for both to hear.—They must take the
 consequence, if they have heard each other spoken of in a way not
@@ -54,15 +54,15 @@ that I never said any thing of either to the other, which both might
 not have heard.”
 
 “You are in luck.—Your only blunder was confined to my ear, when you
-imagined a certain friend of ours in love with the lady.”
+imagined a certain friend of ours in [[Love|love]] with the lady.”
 
 “True. But as I have always had a thoroughly good opinion of Miss
 Fairfax, I never could, under any blunder, have spoken ill of her; and
 as to speaking ill of him, there I must have been safe.”
 
 At this moment Mr. Weston appeared at a little distance from the
-window, evidently on the watch. His wife gave him a look which invited
-him in; and, while he was coming round, added, “Now, dearest Emma, let
+[[Window|window]], evidently on the watch. His wife gave him a look which invited
+him in; and, while he was coming round, added, “Now, dearest [[Emma]], let
 me intreat you to say and look every thing that may set his heart at
 ease, and incline him to be satisfied with the match. Let us make the
 best of it—and, indeed, almost every thing may be fairly said in her
@@ -74,7 +74,7 @@ given her credit for—and still am disposed to give her credit for, in
 spite of this one great deviation from the strict rule of right. And
 how much may be said in her situation for even that error!”
 
-“Much, indeed!” cried Emma feelingly. “If a woman can ever be excused
+“Much, indeed!” cried [[Emma]] feelingly. “If a woman can ever be excused
 for thinking only of herself, it is in a situation like Jane
 Fairfax’s.—Of such, one may almost say, that ‘the world is not their’s,
 nor the world’s law.’”
@@ -95,10 +95,10 @@ A glance or two between him and his wife, convinced him that all was as
 right as this speech proclaimed; and its happy effect on his spirits
 was immediate. His air and voice recovered their usual briskness: he
 shook her heartily and gratefully by the hand, and entered on the
-subject in a manner to prove, that he now only wanted time and
-persuasion to think the engagement no very bad thing. His companions
+subject in a manner to prove, that he now only wanted [[Time|time]] and
+[[Persuasion|persuasion]] to think the engagement no very bad thing. His companions
 suggested only what could palliate imprudence, or smooth objections;
-and by the time they had talked it all over together, and he had talked
-it all over again with Emma, in their walk back to Hartfield, he was
+and by the [[Time|time]] they had talked it all over together, and he had talked
+it all over again with [[Emma]], in their walk back to Hartfield, he was
 become perfectly reconciled, and not far from thinking it the very best
 thing that Frank could possibly have done.

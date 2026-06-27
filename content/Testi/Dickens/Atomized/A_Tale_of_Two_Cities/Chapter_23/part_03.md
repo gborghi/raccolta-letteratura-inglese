@@ -37,7 +37,7 @@ Of course.”
 “_I_ think?” returned madame, in a high voice. “I and my husband have
 enough to do to keep this wine-shop open, without thinking. All we
 think, here, is how to live. That is the subject _we_ think of, and
-it gives us, from morning to night, enough to think about, without
+it gives us, from morning to [[Night|night]], enough to think about, without
 embarrassing our heads concerning others. _I_ think for others? No, no.”
 
 The spy, who was there to pick up any crumbs he could find or make, did
@@ -48,7 +48,7 @@ Defarge’s little counter, and occasionally sipping his cognac.
 “A bad business this, madame, of Gaspard’s execution. Ah! the poor
 Gaspard!” With a sigh of great compassion.
 
-“My faith!” returned madame, coolly and lightly, “if people use knives
+“My [[Faith|faith]]!” returned madame, coolly and lightly, “if people use knives
 for such purposes, they have to pay for it. He knew beforehand what the
 price of his luxury was; he has paid the price.”
 
@@ -62,7 +62,7 @@ fellow? Between ourselves.”
 
 “Is there not?”
 
-“--Here is my husband!” said Madame Defarge.
+“--Here is my husband!” said [[Madame Defarge]].
 
 As the keeper of the wine-shop entered at the door, the spy saluted
 him by touching his hat, and saying, with an engaging smile, “Good day,
@@ -72,7 +72,7 @@ Jacques!” Defarge stopped short, and stared at him.
 confidence, or quite so easy a smile under the stare.
 
 “You deceive yourself, monsieur,” returned the keeper of the wine-shop.
-“You mistake me for another. That is not my name. I am Ernest Defarge.”
+“You mistake me for another. That is not my name. I am [[Ernest Defarge]].”
 
 “It is all the same,” said the spy, airily, but discomfited too: “good
 day!”
@@ -80,7 +80,7 @@ day!”
 “Good day!” answered Defarge, drily.
 
 “I was saying to madame, with whom I had the pleasure of chatting when
-you entered, that they tell me there is--and no wonder!--much sympathy
+you entered, that they tell me there is--and no [[Wonder|wonder]]!--much sympathy
 and anger in Saint Antoine, touching the unhappy fate of poor Gaspard.”
 
 “No one has told me so,” said Defarge, shaking his head. “I know nothing
@@ -91,27 +91,27 @@ hand on the back of his wife’s chair, looking over that barrier at the
 person to whom they were both opposed, and whom either of them would
 have shot with the greatest satisfaction.
 
-The spy, well used to his business, did not change his unconscious
+The spy, [[Well|well]] used to his business, did not change his unconscious
 attitude, but drained his little glass of cognac, took a sip of fresh
-water, and asked for another glass of cognac. Madame Defarge poured it
-out for him, took to her knitting again, and hummed a little song over
+[[Water|water]], and asked for another glass of cognac. [[Madame Defarge]] poured it
+out for him, took to her knitting again, and hummed a little [[Song|song]] over
 it.
 
-“You seem to know this quarter well; that is to say, better than I do?”
+“You seem to know this quarter [[Well|well]]; that is to say, better than I do?”
  observed Defarge.
 
-“Not at all, but I hope to know it better. I am so profoundly interested
+“Not at all, but I [[Hope|hope]] to know it better. I am so profoundly interested
 in its miserable inhabitants.”
 
 “Hah!” muttered Defarge.
 
 “The pleasure of conversing with you, Monsieur Defarge, recalls to me,”
- pursued the spy, “that I have the honour of cherishing some interesting
+ pursued the spy, “that I have the [[Honour|honour]] of cherishing some interesting
 associations with your name.”
 
 “Indeed!” said Defarge, with much indifference.
 
-“Yes, indeed. When Doctor Manette was released, you, his old domestic,
+“Yes, indeed. When [[Doctor Manette]] was released, you, his old domestic,
 had the charge of him, I know. He was delivered to you. You see I am
 informed of the circumstances?”
 
@@ -136,9 +136,9 @@ Manette and his daughter, in England.”
 “No,” said Defarge.
 
 “In effect,” madame struck in, looking up from her work and her little
-song, “we never hear about them. We received the news of their safe
+[[Song|song]], “we never hear about them. We received the news of their safe
 arrival, and perhaps another letter, or perhaps two; but, since then,
-they have gradually taken their road in life--we, ours--and we have held
+they have gradually taken their [[Road|road]] in life--we, ours--and we have held
 no correspondence.”
 
 “Perfectly so, madame,” replied the spy. “She is going to be married.”
@@ -161,9 +161,9 @@ poor Gaspard! It was cruel, cruel!), it is a curious thing that she is
 going to marry the nephew of Monsieur the Marquis, for whom Gaspard
 was exalted to that height of so many feet; in other words, the present
 Marquis. But he lives unknown in England, he is no Marquis there; he is
-Mr. Charles Darnay. D’Aulnais is the name of his mother’s family.”
+Mr. [[Charles Darnay]]. D’Aulnais is the name of his mother’s family.”
 
-Madame Defarge knitted steadily, but the intelligence had a palpable
+[[Madame Defarge]] knitted steadily, but the intelligence had a palpable
 effect upon her husband. Do what he would, behind the little counter,
 as to the striking of a light and the lighting of his pipe, he was
 troubled, and his hand was not trustworthy. The spy would have been no

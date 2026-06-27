@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 1: Sun and Shadow (part 1)"
+title: "Little Dorrit — Chapter 1: Sun and [[Shadow]] (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,49 +14,49 @@ tags:
 </nav>
 
 
-CHAPTER 1. Sun and Shadow
+CHAPTER 1. Sun and [[Shadow]]
 
 
 Thirty years ago, Marseilles lay burning in the sun, one day.
 
 A blazing sun upon a fierce August day was no greater rarity in southern
-France then, than at any other time, before or since. Everything in
+France then, than at any other [[Time|time]], before or since. Everything in
 Marseilles, and about Marseilles, had stared at the fervid sky, and been
 stared at in return, until a staring habit had become universal there.
 Strangers were stared out of countenance by staring white houses,
-staring white walls, staring white streets, staring tracts of arid road,
+staring white walls, staring white streets, staring tracts of arid [[Road|road]],
 staring hills from which verdure was burnt away. The only things to be
 seen not fixedly staring and glaring were the vines drooping under their
 load of grapes. These did occasionally wink a little, as the hot air
-barely moved their faint leaves.
+barely moved their faint [[Leaves|leaves]].
 
-There was no wind to make a ripple on the foul water within the harbour,
+There was no [[Wind|wind]] to make a ripple on the foul [[Water|water]] within the harbour,
 or on the beautiful sea without. The line of demarcation between the two
 colours, black and blue, showed the point which the pure sea would not
 pass; but it lay as quiet as the abominable pool, with which it never
 mixed. Boats without awnings were too hot to touch; ships blistered at
-their moorings; the stones of the quays had not cooled, night or
+their moorings; the stones of the quays had not cooled, [[Night|night]] or
 day, for months. Hindoos, Russians, Chinese, Spaniards, Portuguese,
 Englishmen, Frenchmen, Genoese, Neapolitans, Venetians, Greeks, Turks,
 descendants from all the builders of Babel, come to trade at Marseilles,
 sought the shade alike--taking refuge in any hiding-place from a sea too
 intensely blue to be looked at, and a sky of purple, set with one great
-flaming jewel of fire.
+flaming [[Jewel|jewel]] of [[Fire|fire]].
 
 The universal stare made the eyes ache. Towards the distant line of
 Italian coast, indeed, it was a little relieved by light clouds of mist,
 slowly rising from the evaporation of the sea, but it softened nowhere
-else. Far away the staring roads, deep in dust, stared from the
-hill-side, stared from the hollow, stared from the interminable
+else. Far away the staring roads, deep in [[Dust|dust]], stared from the
+[[Hill|hill]]-side, stared from the hollow, stared from the interminable
 plain. Far away the dusty vines overhanging wayside cottages, and the
 monotonous wayside avenues of parched trees without shade, drooped
-beneath the stare of earth and sky. So did the horses with drowsy bells,
+beneath the stare of earth and sky. So did the horses with drowsy [[Bells|bells]],
 in long files of carts, creeping slowly towards the interior; so did
 their recumbent drivers, when they were awake, which rarely happened;
 so did the exhausted labourers in the fields. Everything that lived or
 grew, was oppressed by the glare; except the lizard, passing swiftly
 over rough stone walls, and the cicala, chirping his dry hot chirp, like
-a rattle. The very dust was scorched brown, and something quivered in
+a rattle. The very [[Dust|dust]] was scorched brown, and something quivered in
 the atmosphere as if the air itself were panting.
 
 Blinds, shutters, curtains, awnings, were all closed and drawn to keep
@@ -64,14 +64,14 @@ out the stare. Grant it but a chink or keyhole, and it shot in like a
 white-hot arrow. The churches were the freest from it. To come out of
 the twilight of pillars and arches--dreamily dotted with winking lamps,
 dreamily peopled with ugly old shadows piously dozing, spitting, and
-begging--was to plunge into a fiery river, and swim for life to the
+begging--was to plunge into a fiery [[River|river]], and swim for life to the
 nearest strip of shade. So, with people lounging and lying wherever
-shade was, with but little hum of tongues or barking of dogs, with
-occasional jangling of discordant church bells and rattling of vicious
+shade was, with but little hum of tongues or barking of [[dogs]], with
+occasional jangling of discordant church [[Bells|bells]] and rattling of vicious
 drums, Marseilles, a fact to be strongly smelt and tasted, lay broiling
 in the sun one day.
 
-In Marseilles that day there was a villainous prison. In one of its
+In Marseilles that day there was a villainous [[Prison|prison]]. In one of its
 chambers, so repulsive a place that even the obtrusive stare blinked at
 it, and left it to such refuse of reflected light as it could find for
 itself, were two men. Besides the two men, a notched and disfigured
@@ -82,9 +82,9 @@ the chamber held, exclusive of rats and other unseen vermin, in addition
 to the seen vermin, the two men.
 
 It received such light as it got through a grating of iron bars
-fashioned like a pretty large window, by means of which it could be
+fashioned like a pretty large [[Window|window]], by means of which it could be
 always inspected from the gloomy staircase on which the grating gave.
-There was a broad strong ledge of stone to this grating where the bottom
+There was a broad strong ledge of stone to this grating where the [[Bottom|bottom]]
 of it was let into the masonry, three or four feet above the ground.
 Upon it, one of the two men lolled, half sitting and half lying, with
 his knees drawn up, and his feet and shoulders planted against the
@@ -92,12 +92,12 @@ opposite sides of the aperture. The bars were wide enough apart to
 admit of his thrusting his arm through to the elbow; and so he held on
 negligently, for his greater ease.
 
-A prison taint was on everything there. The imprisoned air, the
+A [[Prison|prison]] taint was on everything there. The imprisoned air, the
 imprisoned light, the imprisoned damps, the imprisoned men, were all
 deteriorated by confinement. As the captive men were faded and haggard,
 so the iron was rusty, the stone was slimy, the wood was rotten, the air
-was faint, the light was dim. Like a well, like a vault, like a tomb,
-the prison had no knowledge of the brightness outside, and would have
+was faint, the light was dim. Like a [[Well|well]], like a vault, like a tomb,
+the [[Prison|prison]] had no knowledge of the brightness outside, and would have
 kept its polluted atmosphere intact in one of the spice islands of the
 Indian ocean.
 
@@ -109,7 +109,7 @@ never shines in here!’
 He was waiting to be fed, looking sideways through the bars that he
 might see the further down the stairs, with much of the expression of
 a wild beast in similar expectation. But his eyes, too close together,
-were not so nobly set in his head as those of the king of beasts are in
+were not so nobly set in his head as those of the [[King|king]] of beasts are in
 his, and they were sharp rather than bright--pointed weapons with little
 surface to betray them. They had no depth or change; they glittered,
 and they opened and shut. So far, and waiving their use to himself, a
@@ -121,4 +121,4 @@ all, and a quantity of dry hair, of no definable colour, in its shaggy
 state, but shot with red. The hand with which he held the grating
 (seamed all over the back with ugly scratches newly healed), was
 unusually small and plump; would have been unusually white but for the
-prison grime.
+[[Prison|prison]] grime.

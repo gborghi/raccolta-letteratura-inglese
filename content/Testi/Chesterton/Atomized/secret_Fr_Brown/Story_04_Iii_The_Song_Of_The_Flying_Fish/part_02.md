@@ -1,5 +1,5 @@
 ---
-title: "secret Fr Brown — Iii The Song Of The Flying Fish (part 2)"
+title: "secret Fr Brown — Iii The [[Song]] Of The Flying Fish (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/secret-Fr-Brown-(Chesterton)"
@@ -28,14 +28,14 @@ prefer to trust to luck and the local police."
 
 "It is not always the best bars that keep people out," said the Count.
 "It all depends on who's trying to get in. There was an ancient Hindu
-hermit who lived naked in a cave and passed through the three armies
-that encircled the Mogul and took the great ruby out of the tyrant's
-turban, and went back unscathed like a shadow. For he wished to teach
-the great how small are the laws of space and time."
+hermit who lived naked in a [[Cave|cave]] and passed through the three armies
+that encircled the Mogul and took the great ruby out of the [[Tyrant|tyrant]]'s
+turban, and went back unscathed like a [[Shadow|shadow]]. For he wished to teach
+the great how small are the laws of space and [[Time|time]]."
 
-"When we really study the small laws of space and time," said Dr.
+"When we really study the small laws of space and [[Time|time]]," said Dr.
 Burdock dryly, "we generally find out how those tricks are done. Western
-science has let in daylight on a good deal of Eastern magic. Doubtless a
+science has let in daylight on a good deal of Eastern [[Magic|magic]]. Doubtless a
 great deal can be done with hypnotism and suggestion, to say nothing of
 sleight-of-hand."
 
@@ -44,8 +44,8 @@ fashion; "but he found it among a hundred tents."
 
 "Can't all that be explained by telepathy?" asked the doctor sharply.
 The question sounded the sharper because it was followed by a heavy
-silence, almost as if the distinguished Oriental traveller had, with
-imperfect politeness, gone to sleep.
+[[Silence|silence]], almost as if the distinguished Oriental traveller had, with
+imperfect politeness, gone to [[Sleep|sleep]].
 
 "I beg your pardon," he said rousing himself with a sudden smile. "I had
 forgotten we were talking with words. In the east we talk with thoughts,
@@ -54,7 +54,7 @@ worship words and are satisfied with words. What difference does it make
 to a thing that you now call it telepathy, as you once called it
 tomfoolery? If a man climbs into the sky on a mango-tree, how is it
 altered by saying it is only levitation, instead of saying it is only
-lies. If a medieval witch waved a wand and turned me into a blue baboon,
+lies. If a medieval [[Witch|witch]] waved a wand and turned me into a blue baboon,
 you would say it was only atavism."
 
 The doctor looked for a moment as if he might say that it would not be
@@ -89,8 +89,8 @@ glaring through the same bars, saw that they were once more between him
 and the street, where the beggar stood free and smiling with a paper in
 his hand."
 
-Mr. Imlack Smith, the bank manager, was looking at the carpet with his
-dark sleek head bowed, and he spoke for the first time.
+Mr. Imlack [[smith|Smith]], the bank manager, was looking at the carpet with his
+dark sleek head bowed, and he spoke for the first [[Time|time]].
 
 "Did anything happen about the paper?" he asked.
 
@@ -98,31 +98,31 @@ dark sleek head bowed, and he spoke for the first time.
 affability. "It was a paper of considerable financial importance. Its
 consequences were international."
 
-"I hope they don't occur often," said young Hartopp gloomily.
+"I [[Hope|hope]] they don't occur often," said young Hartopp gloomily.
 
 "I do not touch the political side," said the Count serenely, "but only
-the philosophical. It illustrates how the wise man can get behind time
+the philosophical. It illustrates how the wise man can get behind [[Time|time]]
 and space and turn the levers of them, so to speak, so that the whole
 world turns round before our eyes. But is it so hard for you people to
 believe that spiritual powers are really more powerful than material
 ones."
 
-"Well," said old Smart cheerfully, "I don't profess to be an authority
-on spiritual powers. What do you say, Father Brown?"
+"[[Well]]," said old Smart cheerfully, "I don't profess to be an authority
+on spiritual powers. What do you say, [[Father Brown]]?"
 
 "The only thing that strikes me," answered the little priest, "is that
-all the supernatural acts we have yet heard of seem to be thefts. And
+all the [[Supernatural|supernatural]] acts we have yet heard of seem to be thefts. And
 stealing by spiritual methods seem to me much the same as stealing by
 material ones."
 
-"Father Brown is a Philistine," said the smiling Smith.
+"[[Father Brown]] is a Philistine," said the smiling [[smith|Smith]].
 
-"I have a sympathy with the tribe," said Father Brown. "A Philistine is
+"I have a sympathy with the tribe," said [[Father Brown]]. "A Philistine is
 only a man who is right without knowing why."
 
 "All this is too clever for me," said Hartopp heartily.
 
-"Perhaps," said Father Brown with a smile, "you would like to speak
+"Perhaps," said [[Father Brown]] with a smile, "you would like to speak
 without words, as the Count suggests. He would begin by saying nothing
 in a pointed fashion, and you would retort with a burst of taciturnity."
 

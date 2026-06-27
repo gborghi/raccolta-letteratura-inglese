@@ -22,8 +22,8 @@ with the other lords to take their abnormal tribute in a lump
 instead of a lifetime; but not one of them will live the poorer.
 The main point is that, in passing through that plutocratic machinery,
 even a mad opinion will always emerge in a shape more maniacal than
-its own; and even the silliest fool can only do what the stupidest
-fool will let him.
+its own; and even the silliest [[Fool|fool]] can only do what the stupidest
+[[Fool|fool]] will let him.
 
 --
 
@@ -51,7 +51,7 @@ the tide of evolution at some particular mark in his own mind.
 If I were to propose that people should wear no clothes at all,
 the lady might be shocked.  But I should have as much right as
 anyone else to say that she was obviously an individual with an
-unprogressive mind.  If I were to propose that this reform should
+unprogressive mind.  If I were to propose that this [[Reform|reform]] should
 be imposed on people by force, she would be justly indignant.
 But I could answer her with her own argument--that there had
 always been unprogressive people, and would be till Doomsday.
@@ -70,9 +70,9 @@ a mark of civilization, and that the evolution of them will go on.
 I am highly civilized if I wear ten hats, and more highly civilized if I
 wear twelve hats.  When I have already evolved so far as to put on six
 pairs of trousers, I must still hail the appearance of the seventh pair
-of trousers with the joy due to the waving banner of a great reform.
+of trousers with the joy due to the waving banner of a great [[Reform|reform]].
 When we balance these two lunacies against each other, the central
-point of sanity is surely apparent.  The man who headed his inquiry:
+point of [[Sanity|sanity]] is surely apparent.  The man who headed his inquiry:
 "Have Women Gone Far Enough?" was at least in a real sense stating
 the point rightly.  The point is that there is a "far enough."
 There is a point at which something that was once neglected
@@ -108,9 +108,9 @@ If a man thinks the Victorian conventions kept women out of things
 they would be the happier for having, his natural course is to
 consider what things they are; not to think that any things will do,
 so long as there are more of them.  This is only the sort of living
-logic everybody acts in life.  Suppose somebody says, "Don't you think
+[[logic]] everybody acts in life.  Suppose somebody says, "Don't you think
 all this wood could be used for something else besides palings?"
-We shall very probably answer, "Well, I dare say it could,"
+We shall very probably answer, "[[Well]], I dare say it could,"
 and perhaps begin to think of wooden boxes or wooden stools.
 But we shall not see, as in a sort of vision, a vista of wooden razors,
 wooden carving-knives, wooden coats and hats, wooden pillows and

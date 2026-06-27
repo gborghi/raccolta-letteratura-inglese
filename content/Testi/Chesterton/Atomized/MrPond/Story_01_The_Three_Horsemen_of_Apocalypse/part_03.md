@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Three Horsemen of Apocalypse (part 3)"
+title: "[[MrPond]] — The Three Horsemen of [[Apocalypse]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -30,7 +30,7 @@ eyes of the Lieutenant could have seen anything of the sort, or if
 
 they could have opened any wider even if they had, they might as
 
-well have opened wide enough at the transformation made by the
+[[Well|well]] have opened wide enough at the transformation made by the
 
 gesture.  It was like the removal of an iron mask.  An instant
 
@@ -38,7 +38,7 @@ before, Marshal Von Grock had looked uncommonly like a rhinoceros,
 
 with his heavy folds of leathery cheek and jaw.  Now he was a new
 
-kind of monster: a rhinoceros with the eyes of an eagle.  The bleak
+kind of [[Monster|monster]]: a rhinoceros with the eyes of an eagle.  The bleak
 
 blaze of his old eyes would have told almost anybody that he had
 
@@ -90,7 +90,7 @@ presence of a cow or a cabbage.
 
 
 
-"Again and again, in the history of our Royal House, the servant
+"Again and again, in the [[history]] of our Royal [[house|House]], the servant
 
 has saved the master," went on Grock, "and often got little but
 
@@ -102,13 +102,13 @@ we were successful and we were strong.  They cursed Bismarck for
 
 deceiving even his own master over the Ems telegram; but it made
 
-that master the master of the world.  Paris was taken; Austria
+that master the master of the world.  [[Paris]] was taken; Austria
 
-dethroned; and we were safe.  To-night Paul Petrowski will be dead;
+dethroned; and we were safe.  To-[[Night|night]] Paul Petrowski will be dead;
 
 and we shall again be safe.  That is why I am sending you with his
 
-death-warrant at once.  You understand that you are bearing the
+[[Death|death]]-warrant at once.  You understand that you are bearing the
 
 order for Petrowski's instant execution--and that you must remain
 
@@ -120,27 +120,27 @@ The inarticulate Hocheimer saluted; he could understand that all
 
 right.  And he had some qualities of a dog, after all: he was as
 
-brave as a bulldog; and he could be faithful to the death.
+brave as a bulldog; and he could be faithful to the [[Death|death]].
 
 
 
 "You must mount and ride at once," went on Grock, "and see that
 
-nothing delays or thwarts you.  I know for a fact that fool Arnheim
+nothing delays or thwarts you.  I know for a fact that [[Fool|fool]] Arnheim
 
-is going to release Petrowski to-night, if no message comes.  Make
+is going to release Petrowski to-[[Night|night]], if no message comes.  Make
 
-all speed."
+all [[Speed|speed]]."
 
 
 
-And the Lieutenant again saluted and went out into the night; and
+And the Lieutenant again saluted and went out into the [[Night|night]]; and
 
 mounting one of the superb white chargers that were part of the
 
 splendour of that splendid corps, began to ride along the high,
 
-narrow road along the ridge, almost like the top of a wall, which
+narrow [[Road|road]] along the ridge, almost like the top of a wall, which
 
 overlooked the dark horizon, the dim patterns and decaying colours
 
@@ -148,9 +148,9 @@ of those mighty marshes.
 
 
 
-Almost as the last echoes of his horse's hoofs died away along the
+Almost as the last echoes of his [[Horse|horse]]'s hoofs died away along the
 
-causeway, Von Grock rose and put on his helmet and his spectacles
+causeway, Von Grock [[Rose|rose]] and put on his helmet and his spectacles
 
 and came to the door of his tent; but for another reason.  The
 
@@ -198,7 +198,7 @@ passion of his life was music.
 
 
 
-In truth, the grumbling Grock was inclined to connect with that
+In [[Truth|truth]], the grumbling Grock was inclined to connect with that
 
 remote eccentricity the, to him, highly irritating and exasperating
 
@@ -210,15 +210,15 @@ labyrinthine parade of the military etiquette of their nation; but
 
 plunged at once impatiently into the subject which Grock most
 
-desired to see left alone: the subject of this infernal Pole, his
+desired to see left [[Alone|alone]]: the subject of this infernal Pole, his
 
 popularity and his peril; for the Prince had heard some of the
 
-man's songs sung in half the opera-houses of Europe.
+man's [[songs]] sung in half the opera-houses of Europe.
 
 
 
-"To talk of executing a man like that is madness," said the Prince,
+"To talk of executing a man like that is [[Madness|madness]]," said the Prince,
 
 scowling under his black helmet.  "He is not a common Pole.  He is
 
@@ -236,7 +236,7 @@ be dead.  He would be deified; but he would be dead.  Whatever he
 
 means to do, he would never do it.  Whatever he is doing, he would
 
-do no more.  Death is the fact of all facts; and I am rather fond
+do no more.  [[Death]] is the fact of all facts; and I am rather fond
 
 of facts."
 

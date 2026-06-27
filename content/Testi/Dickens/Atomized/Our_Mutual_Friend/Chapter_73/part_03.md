@@ -35,10 +35,10 @@ tied-up broken head, revealed a head that was whole, and a face that was
 Sloppy’s.
 
 ‘Ha, ha, ha, gentlemen!’ roared Sloppy in a peal of laughter, and with
-immeasureable relish. ‘He never thought as I could sleep standing, and
+immeasureable relish. ‘He never thought as I could [[Sleep|sleep]] standing, and
 often done it when I turned for Mrs Higden! He never thought as I used
 to give Mrs Higden the Police-news in different voices! But I did lead
-him a life all through it, gentlemen, I hope I really and truly DID!’
+him a life all through it, gentlemen, I [[Hope|hope]] I really and truly DID!’
 Here, Mr Sloppy opening his mouth to a quite alarming extent, and
 throwing back his head to peal again, revealed incalculable buttons.
 
@@ -53,7 +53,7 @@ I’ll throw you out of winder!’
 Mr Boffin appeased him with a wave of his hand, and said: ‘I employed
 him, Wegg.’
 
-‘Oh! You employed him, Boffin? Very good. Mr Venus, we raise our terms,
+‘Oh! You employed him, Boffin? Very good. [[Mr Venus]], we raise our terms,
 and we can’t do better than proceed to business. Bof—fin! I want the
 room cleared of these two scum.’
 
@@ -66,60 +66,60 @@ composedly on it at the other.
 ‘No, Wegg,’ said Mr Boffin, shaking his head good-humouredly. ‘Not at my
 peril, and not on any other terms.’
 
-Wegg reflected a moment, and then said: ‘Mr Venus, will you be so good
+Wegg reflected a moment, and then said: ‘[[Mr Venus]], will you be so good
 as hand me over that same dockyment?’
 
-‘Certainly, sir,’ replied Venus, handing it to him with much politeness.
+‘Certainly, sir,’ replied [[Venus]], handing it to him with much politeness.
 ‘There it is. Having now, sir, parted with it, I wish to make a small
 observation: not so much because it is anyways necessary, or expresses
 any new doctrine or discovery, as because it is a comfort to my mind.
-Silas Wegg, you are a precious old rascal.’
+[[Silas Wegg]], you are a precious old rascal.’
 
 Mr Wegg, who, as if anticipating a compliment, had been beating
-time with the paper to the other’s politeness until this unexpected
+[[Time|time]] with the paper to the other’s politeness until this unexpected
 conclusion came upon him, stopped rather abruptly.
 
-‘Silas Wegg,’ said Venus, ‘know that I took the liberty of taking Mr
+‘[[Silas Wegg]],’ said [[Venus]], ‘know that I took the liberty of taking Mr
 Boffin into our concern as a sleeping partner, at a very early period of
 our firm’s existence.’
 
-‘Quite true,’ added Mr Boffin; ‘and I tested Venus by making him a
+‘Quite true,’ added Mr Boffin; ‘and I tested [[Venus]] by making him a
 pretended proposal or two; and I found him on the whole a very honest
 man, Wegg.’
 
-‘So Mr Boffin, in his indulgence, is pleased to say,’ Venus remarked:
+‘So Mr Boffin, in his indulgence, is pleased to say,’ [[Venus]] remarked:
 ‘though in the beginning of this dirt, my hands were not, for a few
-hours, quite as clean as I could wish. But I hope I made early and full
+hours, quite as clean as I could wish. But I [[Hope|hope]] I made early and full
 amends.’
 
-‘Venus, you did,’ said Mr Boffin. ‘Certainly, certainly, certainly.’
+‘[[Venus]], you did,’ said Mr Boffin. ‘Certainly, certainly, certainly.’
 
-Venus inclined his head with respect and gratitude. ‘Thank you, sir.
+[[Venus]] inclined his head with respect and gratitude. ‘Thank you, sir.
 I am much obliged to you, sir, for all. For your good opinion now, for
 your way of receiving and encouraging me when I first put myself in
 communication with you, and for the influence since so kindly brought
-to bear upon a certain lady, both by yourself and by Mr John Harmon.’ To
+to bear upon a certain lady, both by yourself and by Mr [[John Harmon]].’ To
 whom, when thus making mention of him, he also bowed.
 
 Wegg followed the name with sharp ears, and the action with sharp eyes,
 and a certain cringing air was infusing itself into his bullying air,
-when his attention was re-claimed by Venus.
+when his attention was re-claimed by [[Venus]].
 
-‘Everything else between you and me, Mr Wegg,’ said Venus, ‘now explains
+‘Everything else between you and me, Mr Wegg,’ said [[Venus]], ‘now explains
 itself, and you can now make out, sir, without further words from me.
 But totally to prevent any unpleasantness or mistake that might arise on
 what I consider an important point, to be made quite clear at the close
-of our acquaintance, I beg the leave of Mr Boffin and Mr John Harmon to
+of our acquaintance, I beg the leave of Mr Boffin and Mr [[John Harmon]] to
 repeat an observation which I have already had the pleasure of bringing
 under your notice. You are a precious old rascal!’
 
-‘You are a fool,’ said Wegg, with a snap of his fingers, ‘and I’d have
+‘You are a [[Fool|fool]],’ said Wegg, with a snap of his fingers, ‘and I’d have
 got rid of you before now, if I could have struck out any way of doing
 it. I have thought it over, I can tell you. You may go, and welcome. You
 leave the more for me. Because, you know,’ said Wegg, dividing his next
 observation between Mr Boffin and Mr Harmon, ‘I am worth my price, and
-I mean to have it. This getting off is all very well in its way, and it
-tells with such an anatomical Pump as this one,’ pointing out Mr Venus,
+I mean to have it. This getting off is all very [[Well|well]] in its way, and it
+tells with such an anatomical Pump as this one,’ pointing out [[Mr Venus]],
 ‘but it won’t do with a Man. I am here to be bought off, and I have
 named my figure. Now, buy me, or leave me.’
 
@@ -140,5 +140,5 @@ Harmon whether he has any idea of the contents of this present paper?’
 ‘It is a will of my late father’s, of more recent date than the will
 proved by Mr Boffin (address whom again, as you have addressed him
 already, and I’ll knock you down), leaving the whole of his property
-to the Crown,’ said John Harmon, with as much indifference as was
+to the [[Crown]],’ said [[John Harmon]], with as much indifference as was
 compatible with extreme sternness.

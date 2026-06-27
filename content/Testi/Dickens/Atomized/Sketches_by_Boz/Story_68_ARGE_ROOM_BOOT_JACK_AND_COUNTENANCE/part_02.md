@@ -34,7 +34,7 @@ very little difference in point of excitement whether the policeman or
 cab-driver were a man or a block. The great advantage would be, that a
 policeman’s limbs might be all knocked off, and yet he would be in a
 condition to do duty next day. He might even give his evidence next
-morning with his head in his hand, and give it equally well.
+morning with his head in his hand, and give it equally [[Well|well]].
 
 ‘Professor Muff.—Will you allow me to ask you, sir, of what materials
 it is intended that the magistrates’ heads shall be composed?
@@ -49,10 +49,10 @@ possibly be obtained.
 the magistrates ought to talk.
 
 ‘Mr. Coppernose no sooner heard this suggestion than he touched a small
-spring in each of the two models of magistrates which were placed upon
+[[spring]] in each of the two models of magistrates which were placed upon
 the table; one of the figures immediately began to exclaim with great
 volubility that he was sorry to see gentlemen in such a situation, and
-the other to express a fear that the policeman was intoxicated.
+the other to express a [[Fear|fear]] that the policeman was intoxicated.
 
 ‘The section, as with one accord, declared with a shout of applause
 that the invention was complete; and the President, much excited,
@@ -82,13 +82,13 @@ glasses were made.
 
 ‘Mr. Blank exhibited a model of a fashionable annual, composed of
 copper-plates, gold leaf, and silk boards, and worked entirely by milk
-and water.
+and [[Water|water]].
 
-‘Mr. Prosee, after examining the machine, declared it to be so
+‘Mr. Prosee, after examining the [[Machine|machine]], declared it to be so
 ingeniously composed, that he was wholly unable to discover how it went
 on at all.
 
-‘Mr. Blank.—Nobody can, and that is the beauty of it.
+‘Mr. Blank.—Nobody can, and that is the [[Beauty|beauty]] of it.
 
 
 
@@ -101,9 +101,9 @@ _President_—Dr. Soemup. _Vice-Presidents_—Messrs. Pessell and Mortair.
 
 ‘Dr. Grummidge stated to the section a most interesting case of
 monomania, and described the course of treatment he had pursued with
-perfect success. The patient was a married lady in the middle rank of
+perfect [[success]]. The patient was a married lady in the middle rank of
 life, who, having seen another lady at an evening party in a full suit
-of pearls, was suddenly seized with a desire to possess a similar
+of pearls, was suddenly seized with a [[Desire|desire]] to possess a similar
 equipment, although her husband’s finances were by no means equal to
 the necessary outlay. Finding her wish ungratified, she fell sick, and
 the symptoms soon became so alarming, that he (Dr. Grummidge) was
@@ -112,11 +112,11 @@ sullenness, a total indisposition to perform domestic duties, great
 peevishness, and extreme languor, except when pearls were mentioned, at
 which times the pulse quickened, the eyes grew brighter, the pupils
 dilated, and the patient, after various incoherent exclamations, burst
-into a passion of tears, and exclaimed that nobody cared for her, and
+into a passion of [[Tears|tears]], and exclaimed that nobody cared for her, and
 that she wished herself dead. Finding that the patient’s appetite was
 affected in the presence of company, he began by ordering a total
 abstinence from all stimulants, and forbidding any sustenance but weak
-gruel; he then took twenty ounces of blood, applied a blister under
+gruel; he then took twenty ounces of [[Blood|blood]], applied a blister under
 each ear, one upon the chest, and another on the back; having done
 which, and administered five grains of calomel, he left the patient to
 her repose. The next day she was somewhat low, but decidedly better,

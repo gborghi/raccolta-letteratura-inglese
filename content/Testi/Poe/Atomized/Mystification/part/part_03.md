@@ -1,5 +1,5 @@
 ---
-title: "Mystification (part 3)"
+title: "[[Mystification]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mystification-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       yourself to me, is objectionable in so many particulars, that I
 
-      have neither temper nor time for specification. That my opinions,
+      have neither temper nor [[Time|time]] for specification. That my opinions,
 
       however, are not the opinions to be expected from a gentleman, is
 
@@ -32,15 +32,15 @@ tags:
 
       similar cases of personal affront. You will forgive me for the
 
-      moderate tax I shall make upon your imagination, and endeavor to
+      moderate tax I shall make upon your [[Imagination|imagination]], and endeavor to
 
       consider, for an instant, the reflection of your person in yonder
 
-      mirror as the living Mynheer Hermann himself. This being done,
+      [[Mirror|mirror]] as the living Mynheer Hermann himself. This being done,
 
       there will be no difficulty whatever. I shall discharge this
 
-      decanter of wine at your image in yonder mirror, and thus fulfil
+      decanter of wine at your image in yonder [[Mirror|mirror]], and thus fulfil
 
       all the spirit, if not the exact letter, of resentment for your
 
@@ -52,7 +52,7 @@ tags:
 
       With these words he hurled the decanter, full of wine, against
 
-      the mirror which hung directly opposite Hermann; striking the
+      the [[Mirror|mirror]] which hung directly opposite Hermann; striking the
 
       reflection of his person with great precision, and of course
 
@@ -84,7 +84,7 @@ tags:
 
       shelves a number of musty volumes on the subject of the duello,
 
-      and entertained me for a long time with their contents; reading
+      and entertained me for a long [[Time|time]] with their contents; reading
 
       aloud, and commenting earnestly as he read. I can just remember
 
@@ -162,7 +162,7 @@ tags:
 
       Not knowing what better to do, I called upon Ritzner with this
 
-      epistle. He bowed as I presented it; then, with a grave
+      epistle. He bowed as I presented it; then, with a [[Grave|grave]]
 
       countenance, motioned me to a seat. Having perused the cartel, he
 
@@ -178,7 +178,7 @@ tags:
 
       still find great difficulty, (owing to the refinedly peculiar
 
-      nature of our disagreement, and of the personal affront offered
+      [[Nature|nature]] of our disagreement, and of the personal affront offered
 
       on my part,) in so wording what I have to say by way of apology,
 

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 35: DEPRESSION (part 4)"
+title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -36,7 +36,7 @@ I was obliged to admit that Mr. Spenlow had considered it probable.
 Mr. Jorkins, nervously. ‘The fact is--but I have an appointment at the
 Bank, if you’ll have the goodness to excuse me.’
 
-With that he rose in a great hurry, and was going out of the room, when
+With that he [[Rose|rose]] in a great hurry, and was going out of the room, when
 I made bold to say that I feared, then, there was no way of arranging
 the matter?
 
@@ -79,10 +79,10 @@ I was trying to familiarize my mind with the worst, and to present to
 myself the arrangements we should have to make for the future in their
 sternest aspect, when a hackney-chariot coming after me, and stopping at
 my very feet, occasioned me to look up. A fair hand was stretched forth
-to me from the window; and the face I had never seen without a feeling
+to me from the [[Window|window]]; and the face I had never seen without a feeling
 of serenity and happiness, from the moment when it first turned back
 on the old oak staircase with the great broad balustrade, and when I
-associated its softened beauty with the stained-glass window in the
+associated its softened [[Beauty|beauty]] with the stained-glass [[Window|window]] in the
 church, was smiling on me.
 
 ‘Agnes!’ I joyfully exclaimed. ‘Oh, my dear Agnes, of all people in the
@@ -96,51 +96,51 @@ one I should have wished for but you!’
 
 ‘What?’ returned Agnes.
 
-‘Well! perhaps Dora first,’ I admitted, with a blush.
+‘[[Well]]! perhaps Dora first,’ I admitted, with a blush.
 
-‘Certainly, Dora first, I hope,’ said Agnes, laughing.
+‘Certainly, Dora first, I [[Hope|hope]],’ said Agnes, laughing.
 
 ‘But you next!’ said I. ‘Where are you going?’
 
 She was going to my rooms to see my aunt. The day being very fine, she
 was glad to come out of the chariot, which smelt (I had my head in it
-all this time) like a stable put under a cucumber-frame. I dismissed the
+all this [[Time|time]]) like a stable put under a cucumber-frame. I dismissed the
 coachman, and she took my arm, and we walked on together. She was like
-Hope embodied, to me. How different I felt in one short minute, having
+[[Hope]] embodied, to me. How different I felt in one short minute, having
 Agnes at my side!
 
 My aunt had written her one of the odd, abrupt notes--very little longer
 than a Bank note--to which her epistolary efforts were usually limited.
 She had stated therein that she had fallen into adversity, and was
 leaving Dover for good, but had quite made up her mind to it, and was
-so well that nobody need be uncomfortable about her. Agnes had come to
-London to see my aunt, between whom and herself there had been a mutual
-liking these many years: indeed, it dated from the time of my taking up
-my residence in Mr. Wickfield’s house. She was not alone, she said. Her
-papa was with her--and Uriah Heep.
+so [[Well|well]] that nobody need be uncomfortable about her. Agnes had come to
+[[London]] to see my aunt, between whom and herself there had been a mutual
+liking these many years: indeed, it dated from the [[Time|time]] of my taking up
+my residence in Mr. Wickfield’s [[house]]. She was not [[Alone|alone]], she said. Her
+papa was with her--and [[Uriah Heep]].
 
 ‘And now they are partners,’ said I. ‘Confound him!’
 
 ‘Yes,’ said Agnes. ‘They have some business here; and I took advantage
 of their coming, to come too. You must not think my visit all friendly
 and disinterested, Trotwood, for--I am afraid I may be cruelly
-prejudiced--I do not like to let papa go away alone, with him.’ ‘Does he
+prejudiced--I do not like to let papa go away [[Alone|alone]], with him.’ ‘Does he
 exercise the same influence over Mr. Wickfield still, Agnes?’
 
-Agnes shook her head. ‘There is such a change at home,’ said she, ‘that
-you would scarcely know the dear old house. They live with us now.’
+Agnes shook her head. ‘There is such a change at [[Home|home]],’ said she, ‘that
+you would scarcely know the dear old [[house]]. They live with us now.’
 
 ‘They?’ said I.
 
 ‘Mr. Heep and his mother. He sleeps in your old room,’ said Agnes,
 looking up into my face.
 
-‘I wish I had the ordering of his dreams,’ said I. ‘He wouldn’t sleep
+‘I wish I had the ordering of his [[Dreams|dreams]],’ said I. ‘He wouldn’t [[Sleep|sleep]]
 there long.’
 
 ‘I keep my own little room,’ said Agnes, ‘where I used to learn my
-lessons. How the time goes! You remember? The little panelled room that
+lessons. How the [[Time|time]] goes! You remember? The little panelled room that
 opens from the drawing-room?’
 
-‘Remember, Agnes? When I saw you, for the first time, coming out at the
+‘Remember, Agnes? When I saw you, for the first [[Time|time]], coming out at the
 door, with your quaint little basket of keys hanging at your side?’

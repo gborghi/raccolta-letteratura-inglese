@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE THIEF ON TRIAL (part 2)"
+title: "[[FourFaultlessFelons]] — THE THIEF ON TRIAL (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -72,7 +72,7 @@ pointing out that he exercised on a noble scale the ancient virtue of
 
 hospitality. If I say you give very good dinners, am I aspersing your
 
-character? If you ask six other barristers to lunch, and do them well, do
+character? If you ask six other barristers to lunch, and do them [[Well|well]], do
 
 you conceal it like a crime? Are you ashamed of your handsome
 
@@ -88,7 +88,7 @@ hospitality, Mr. Hamble? Are you a miser and a man-hater?"
 
 
 
-"Well, no, sir," said Mr. Hamble, almost modestly. "No, certainly not,
+"[[Well]], no, sir," said Mr. Hamble, almost modestly. "No, certainly not,
 
 sir," he added more firmly.
 
@@ -102,7 +102,7 @@ do them a good turn or stand them a drink, if you could."
 
 
 
-"I hope so, sir," said the virtuous bookmaker.
+"I [[Hope|hope]] so, sir," said the virtuous bookmaker.
 
 
 
@@ -114,7 +114,7 @@ occasion?"
 
 
 
-"Well," admitted Mr. Hamble, a little puzzled, "I suppose I must have
+"[[Well]]," admitted Mr. Hamble, a little puzzled, "I suppose I must have
 
 been rather flush that evening."
 
@@ -132,11 +132,11 @@ hair and a coat faded to bottle-green, was certainly as vague as the
 
 policeman had represented him. During the examination in chief, he got
 
-through well enough by saying that he certainly had a sort of feeling as
+through [[Well|well]] enough by saying that he certainly had a sort of feeling as
 
 if his pockets were being rifled; but even under Nadoway's comparatively
 
-gentle and sympathetic cross examination he became extraordinarily hazy.
+gentle and sympathetic [[Cross|cross]] examination he became extraordinarily hazy.
 
 It seemed that he had eventually, with the assistance of two or three
 
@@ -146,7 +146,7 @@ that he still possessed 4s. 7d. after he had been robbed. But the light
 
 thus thrown upon the robbery was a little dimmed by the fact that he had
 
-then realized, for the first time, that he had never had any notion of
+then realized, for the first [[Time|time]], that he had never had any notion of
 
 what he possessed before he was robbed.
 
@@ -200,7 +200,7 @@ mathematics. He and his friends finally added it up and brought it out as
 
 
 
-"Well, he's a genius," she said with some pride. "He could bring out
+"[[Well]], he's a genius," she said with some [[Pride|pride]]. "He could bring out
 
 anythink as anythink."
 
@@ -242,7 +242,7 @@ for nothink, I daresay. But 'e didn't pay for nobody else's."
 
 "'Cos he brought back his usual wages and a bit more," said Mrs. Hamble,
 
-as if this alone were a sufficient grievance.
+as if this [[Alone|alone]] were a sufficient grievance.
 
 
 
@@ -252,7 +252,7 @@ as if this alone were a sufficient grievance.
 
 "I think I can explain it," said Alan Nadoway, "if your lordship will
 
-allow me to go into the box for two minutes, before I wind up for the
+allow me to go into the box for two minutes, before I [[Wind|wind]] up for the
 
 defence."
 

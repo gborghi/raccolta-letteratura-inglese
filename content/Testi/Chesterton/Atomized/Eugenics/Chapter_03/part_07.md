@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 7)"
+title: "[[Eugenics]] — Part 2 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -35,7 +35,7 @@ who were growing more prosperous by their increasing misery.
 You could not say a country was becoming a white man's country
 when there were more and more black men in it every day.
 You could not say a community was more and more masculine when it
-was producing more and more women.  Nor can you say that a city
+was producing more and more women.  Nor can you say that a [[City|city]]
 is growing richer and richer when more and more of its inhabitants
 are very poor men.  There might be a false agitation founded on
 the pathos of individual cases in a community pretty normal in bulk.
@@ -63,10 +63,10 @@ For instance, that interesting weekly paper The Nation amiably rebuked
 Mr. Belloc and myself for suggesting that revelry and the praise
 of fermented liquor were more characteristic of Continental
 and Catholic communities than of communities with the religion and
-civilization of Belfast.  It said that if we would "cross the border"
+civilization of Belfast.  It said that if we would "[[Cross|cross]] the border"
 into Scotland, we should find out our mistake.  Now, not only
 have I crossed the border, but I have had considerable difficulty
-in crossing the road in a Scotch town on a festive evening.
+in crossing the [[Road|road]] in a Scotch town on a festive evening.
 Men were literally lying like piled-up corpses in the gutters,
 and from broken bottles whisky was pouring down the drains.
 I am not likely, therefore, to attribute a total and arid
@@ -80,7 +80,7 @@ as much a feature of Hoxton as beer is a feature of Munich.
 But who is the connoisseur who prefers the gin of Hoxton to the beer
 of Munich?  Doubtless the Protestant Scotch ask for "Scotch,"
 as the men of Burgundy ask for Burgundy.  But do we find them
-lying in heaps on each side of the road when we walk through
+lying in heaps on each side of the [[Road|road]] when we walk through
 a Burgundian village?  Do we find the French peasant ready
 to let Burgundy escape down a drain-pipe?  Now this one point,
 on which I accept The Nation's challenge, can be exactly
@@ -97,9 +97,9 @@ I flatly deny that he can dislike it more than the militarism of Berlin.
 I can understand a good Socialist hating the petty cares of
 the distributed peasant property.  I deny that any good Socialist
 can hate them more than he hates the large cares of Rockefeller.
-That is the unique tragedy of the plutocratic state to-day;
+That is the unique [[Tragedy|tragedy]] of the plutocratic state to-day;
 it has no successes to hold up against the failures it alleges
-to exist in Latin or other methods.  You can (if you are well out
+to exist in Latin or other methods.  You can (if you are [[Well|well]] out
 of his reach) call the Irish rustic debased and superstitious.
 I defy you to contrast his debasement and superstition with the
 citizenship and enlightenment of the English rustic.
@@ -109,16 +109,16 @@ an organ of the State.  He differs from all other thieves or parasites
 for this reason:  that the brigand who takes by force wishes his victims
 to be rich.  But he who wins by a one-sided contract actually wishes
 them to be poor.  Rob Roy in a cavern, hearing a company approaching,
-will hope (or if in a pious mood, pray) that they may come
+will [[Hope|hope]] (or if in a pious mood, pray) that they may come
 laden with gold or goods.  But Mr. Rockefeller, in his factory,
 knows that if those who pass are laden with goods they will pass on.
 He will therefore (if in a pious mood) pray that they may be destitute,
 and so be forced to work his factory for him for a starvation wage.
 It is said (and also, I believe, disputed) that Blucher riding
-through the richer parts of London exclaimed, "What a city to sack!"
+through the richer parts of [[London]] exclaimed, "What a [[City|city]] to sack!"
 But Blucher was a soldier if he was a bandit.  The true sweater feels
 quite otherwise.  It is when he drives through the poorest parts
-of London that he finds the streets paved with gold, being paved
+of [[London]] that he finds the streets paved with gold, being paved
 with prostrate servants; it is when he sees the grey lean leagues
-of Bow and Poplar that his soul is uplifted and he knows he is secure.
+of Bow and Poplar that his [[Soul|soul]] is uplifted and he knows he is secure.
 This is not rhetoric, but economics.

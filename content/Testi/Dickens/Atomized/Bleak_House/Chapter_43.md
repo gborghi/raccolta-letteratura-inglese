@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 43"
+title: "Bleak [[house|House]] — Chapter 43"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -26,7 +26,7 @@ the peril in which her life was passed was only to be equalled by my
 fears of increasing it. Knowing that my mere existence as a living
 creature was an unforeseen danger in her way, I could not always
 conquer that terror of myself which had seized me when I first knew
-the secret. At no time did I dare to utter her name. I felt as if I
+the secret. At no [[Time|time]] did I dare to utter her name. I felt as if I
 did not even dare to hear it. If the conversation anywhere, when I
 was present, took that direction, as it sometimes naturally did, I
 tried not to hear: I mentally counted, repeated something that I
@@ -39,28 +39,28 @@ It matters little now how often I recalled the tones of my mother’s
 voice, wondered whether I should ever hear it again as I so longed to
 do, and thought how strange and desolate it was that it should be so
 new to me. It matters little that I watched for every public mention
-of my mother’s name; that I passed and repassed the door of her house
+of my mother’s name; that I passed and repassed the door of her [[house]]
 in town, loving it, but afraid to look at it; that I once sat in the
 theatre when my mother was there and saw me, and when we were so wide
 asunder before the great company of all degrees that any link or
-confidence between us seemed a dream. It is all, all over. My lot has
+confidence between us seemed [[A Dream|a dream]]. It is all, all over. My lot has
 been so blest that I can relate little of myself which is not a story
-of goodness and generosity in others. I may well pass that little and
+of goodness and generosity in others. I may [[Well|well]] pass that little and
 go on.
 
-When we were settled at home again, Ada and I had many conversations
-with my guardian of which Richard was the theme. My dear girl was
+When we were settled at [[Home|home]] again, Ada and I had many conversations
+with my guardian of which [[Richard]] was the theme. My dear girl was
 deeply grieved that he should do their kind cousin so much wrong, but
-she was so faithful to Richard that she could not bear to blame him
+she was so faithful to [[Richard]] that she could not bear to blame him
 even for that. My guardian was assured of it, and never coupled his
 name with a word of reproof. “Rick is mistaken, my dear,” he would
-say to her. “Well, well! We have all been mistaken over and over
-again. We must trust to you and time to set him right.”
+say to her. “[[Well]], [[Well|well]]! We have all been mistaken over and over
+again. We must trust to you and [[Time|time]] to set him right.”
 
 We knew afterwards what we suspected then, that he did not trust to
-time until he had often tried to open Richard’s eyes. That he had
+[[Time|time]] until he had often tried to open [[Richard]]’s eyes. That he had
 written to him, gone to him, talked with him, tried every gentle and
-persuasive art his kindness could devise. Our poor devoted Richard
+persuasive art his kindness could devise. Our poor devoted [[Richard]]
 was deaf and blind to all. If he were wrong, he would make amends
 when the Chancery suit was over. If he were groping in the dark,
 he could not do better than do his utmost to clear away those
@@ -68,14 +68,14 @@ clouds in which so much was confused and obscured. Suspicion and
 misunderstanding were the fault of the suit? Then let him work the
 suit out and come through it to his right mind. This was his
 unvarying reply. Jarndyce and Jarndyce had obtained such possession
-of his whole nature that it was impossible to place any consideration
+of his whole [[Nature|nature]] that it was impossible to place any consideration
 before him which he did not, with a distorted kind of reason, make a
 new argument in favour of his doing what he did. “So that it is even
 more mischievous,” said my guardian once to me, “to remonstrate with
-the poor dear fellow than to leave him alone.”
+the poor dear fellow than to leave him [[Alone|alone]].”
 
 I took one of these opportunities of mentioning my doubts of Mr.
-Skimpole as a good adviser for Richard.
+Skimpole as a good adviser for [[Richard]].
 
 “Adviser!” returned my guardian, laughing, “My dear, who would advise
 with Skimpole?”
@@ -85,25 +85,25 @@ with Skimpole?”
 “Encourager!” returned my guardian again. “Who could be encouraged by
 Skimpole?”
 
-“Not Richard?” I asked.
+“Not [[Richard]]?” I asked.
 
 “No,” he replied. “Such an unworldly, uncalculating, gossamer
 creature is a relief to him and an amusement. But as to advising or
 encouraging or occupying a serious station towards anybody or
-anything, it is simply not to be thought of in such a child as
+anything, it is simply not to be thought of in such a [[Child|child]] as
 Skimpole.”
 
 “Pray, cousin John,” said Ada, who had just joined us and now looked
-over my shoulder, “what made him such a child?”
+over my shoulder, “what made him such a [[Child|child]]?”
 
-“What made him such a child?” inquired my guardian, rubbing his head,
+“What made him such a [[Child|child]]?” inquired my guardian, rubbing his head,
 a little at a loss.
 
 “Yes, cousin John.”
 
 “Why,” he slowly replied, roughening his head more and more, “he is
 all sentiment, and—and susceptibility, and—and sensibility,
-and—and imagination. And these qualities are not regulated in him,
+and—and [[Imagination|imagination]]. And these qualities are not regulated in him,
 somehow. I suppose the people who admired him for them in his youth
 attached too much importance to them and too little to any training
 that would have balanced and adjusted them, and so he became what he
@@ -111,13 +111,13 @@ is. Hey?” said my guardian, stopping short and looking at us
 hopefully. “What do you think, you two?”
 
 Ada, glancing at me, said she thought it was a pity he should be an
-expense to Richard.
+expense to [[Richard]].
 
 “So it is, so it is,” returned my guardian hurriedly. “That must not
 be. We must arrange that. I must prevent it. That will never do.”
 
 And I said I thought it was to be regretted that he had ever
-introduced Richard to Mr. Vholes for a present of five pounds.
+introduced [[Richard]] to Mr. Vholes for a present of five pounds.
 
 “Did he?” said my guardian with a passing shade of vexation on his
 face. “But there you have the man. There you have the man! There is
@@ -131,24 +131,24 @@ thinks nothing of it. He told you himself, I’ll be bound, my dear?”
 “Exactly!” cried my guardian, quite triumphant. “There you have the
 man! If he had meant any harm by it or was conscious of any harm in
 it, he wouldn’t tell it. He tells it as he does it in mere
-simplicity. But you shall see him in his own home, and then you’ll
-understand him better. We must pay a visit to Harold Skimpole and
+simplicity. But you shall see him in his own [[Home|home]], and then you’ll
+understand him better. We must pay a visit to [[Harold Skimpole]] and
 caution him on these points. Lord bless you, my dears, an infant, an
 infant!”
 
-In pursuance of this plan, we went into London on an early day and
+In pursuance of this plan, we went into [[London]] on an early day and
 presented ourselves at Mr. Skimpole’s door.
 
 He lived in a place called the Polygon, in Somers Town, where there
-were at that time a number of poor Spanish refugees walking about in
+were at that [[Time|time]] a number of poor Spanish refugees walking about in
 cloaks, smoking little paper cigars. Whether he was a better tenant
 than one might have supposed, in consequence of his friend Somebody
 always paying his rent at last, or whether his inaptitude for
 business rendered it particularly difficult to turn him out, I don’t
-know; but he had occupied the same house some years. It was in a
+know; but he had occupied the same [[house]] some years. It was in a
 state of dilapidation quite equal to our expectation. Two or three of
-the area railings were gone, the water-butt was broken, the knocker
-was loose, the bell-handle had been pulled off a long time to judge
+the area railings were gone, the [[Water|water]]-butt was broken, the knocker
+was loose, the bell-handle had been pulled off a long [[Time|time]] to judge
 from the rusty state of the wire, and dirty footprints on the steps
 were the only signs of its being inhabited.
 
@@ -177,7 +177,7 @@ a dressing-gown, drinking some fragrant coffee from an old china
 cup—it was then about mid-day—and looking at a collection of
 wallflowers in the balcony.
 
-He was not in the least disconcerted by our appearance, but rose and
+He was not in the least disconcerted by our appearance, but [[Rose|rose]] and
 received us in his usual airy manner.
 
 “Here I am, you see!” he said when we were seated, not without some
@@ -203,7 +203,7 @@ an ambitious note, but still he sings.”
 “No,” he answered. “No! Some amiable gardener sells them. His man
 wanted to know, when he brought them last evening, whether he should
 wait for the money. ‘Really, my friend,’ I said, ‘I think not—if
-your time is of any value to you.’ I suppose it was, for he went
+your [[Time|time]] is of any value to you.’ I suppose it was, for he went
 away.”
 
 My guardian looked at us with a smile, as though he asked us, “Is it
@@ -212,15 +212,15 @@ possible to be worldly with this baby?”
 “This is a day,” said Mr. Skimpole, gaily taking a little claret in a
 tumbler, “that will ever be remembered here. We shall call it Saint
 Clare and Saint Summerson day. You must see my daughters. I have a
-blue-eyed daughter who is my Beauty daughter, I have a Sentiment
-daughter, and I have a Comedy daughter. You must see them all.
+blue-eyed daughter who is my [[Beauty]] daughter, I have a Sentiment
+daughter, and I have a [[Comedy]] daughter. You must see them all.
 They’ll be enchanted.”
 
 He was going to summon them when my guardian interposed and asked him
 to pause a moment, as he wished to say a word to him first. “My dear
 Jarndyce,” he cheerfully replied, going back to his sofa, “as many
-moments as you please. Time is no object here. We never know what
-o’clock it is, and we never care. Not the way to get on in life,
+moments as you please. [[Time]] is no object here. We never know what
+o’[[Clock|clock]] it is, and we never care. Not the way to get on in life,
 you’ll tell me? Certainly. But we DON’T get on in life. We don’t
 pretend to do it.”
 
@@ -231,13 +231,13 @@ My guardian looked at us again, plainly saying, “You hear him?”
 “The dearest friend I have!” returned Mr. Skimpole cordially. “I
 suppose he ought not to be my dearest friend, as he is not on terms
 with you. But he is, I can’t help it; he is full of youthful poetry,
-and I love him. If you don’t like it, I can’t help it. I love him.”
+and I [[Love|love]] him. If you don’t like it, I can’t help it. I [[Love|love]] him.”
 
 The engaging frankness with which he made this declaration really had
 a disinterested appearance and captivated my guardian, if not, for
 the moment, Ada too.
 
-“You are welcome to love him as much as you like,” returned Mr.
+“You are welcome to [[Love|love]] him as much as you like,” returned Mr.
 Jarndyce, “but we must save his pocket, Harold.”
 
 “Oh!” said Mr. Skimpole. “His pocket? Now you are coming to what I
@@ -259,7 +259,7 @@ asking busy people what seven and sixpence is in Moorish—which I
 don’t understand. Why should I go about asking them what seven and
 sixpence is in Money—which I don’t understand?”
 
-“Well,” said my guardian, by no means displeased with this artless
+“[[Well]],” said my guardian, by no means displeased with this artless
 reply, “if you come to any kind of journeying with Rick, you must
 borrow the money of me (never breathing the least allusion to that
 circumstance), and leave the calculation to him.”
@@ -291,7 +291,7 @@ them—as bright prospects. But I know no more about them, and I tell
 him so.”
 
 The helpless kind of candour with which he presented this before us,
-the light-hearted manner in which he was amused by his innocence, the
+the light-hearted manner in which he was amused by his [[innocence]], the
 fantastic way in which he took himself under his own protection and
 argued about that curious person, combined with the delightful ease
 of everything he said exactly to make out my guardian’s case. The
@@ -306,15 +306,15 @@ Skimpole left the room with a radiant face to fetch his daughters
 (his sons had run away at various times), leaving my guardian quite
 delighted by the manner in which he had vindicated his childish
 character. He soon came back, bringing with him the three young
-ladies and Mrs. Skimpole, who had once been a beauty but was now a
-delicate high-nosed invalid suffering under a complication of
+ladies and Mrs. Skimpole, who had once been a [[Beauty|beauty]] but was now a
+delicate high-nosed invalid [[Suffering|suffering]] under a complication of
 disorders.
 
-“This,” said Mr. Skimpole, “is my Beauty daughter, Arethusa—plays
+“This,” said Mr. Skimpole, “is my [[Beauty]] daughter, Arethusa—plays
 and sings odds and ends like her father. This is my Sentiment
-daughter, Laura—plays a little but don’t sing. This is my Comedy
+daughter, Laura—plays a little but don’t sing. This is my [[Comedy]]
 daughter, Kitty—sings a little but don’t play. We all draw a little
-and compose a little, and none of us have any idea of time or money.”
+and compose a little, and none of us have any idea of [[Time|time]] or money.”
 
 Mrs. Skimpole sighed, I thought, as if she would have been glad to
 strike out this item in the family attainments. I also thought that
@@ -327,14 +327,14 @@ peculiarities in families. In this family we are all children, and I
 am the youngest.”
 
 The daughters, who appeared to be very fond of him, were amused by
-this droll fact, particularly the Comedy daughter.
+this droll fact, particularly the [[Comedy]] daughter.
 
 “My dears, it is true,” said Mr. Skimpole, “is it not? So it is, and
-so it must be, because like the dogs in the hymn, ‘it is our nature
+so it must be, because like the [[dogs]] in the [[Hymn|hymn]], ‘it is our [[Nature|nature]]
 to.’ Now, here is Miss Summerson with a fine administrative capacity
 and a knowledge of details perfectly surprising. It will sound very
 strange in Miss Summerson’s ears, I dare say, that we know nothing
-about chops in this house. But we don’t, not the least. We can’t cook
+about chops in this [[house]]. But we don’t, not the least. We can’t cook
 anything whatever. A needle and thread we don’t know how to use. We
 admire the people who possess the practical wisdom we want, but we
 don’t quarrel with them. Then why should they quarrel with us? Live
@@ -352,13 +352,13 @@ everything. Have we not?”
 “In fact, that is our family department,” said Mr. Skimpole, “in this
 hurly-burly of life. We are capable of looking on and of being
 interested, and we DO look on, and we ARE interested. What more can
-we do? Here is my Beauty daughter, married these three years. Now I
-dare say her marrying another child, and having two more, was all
+we do? Here is my [[Beauty]] daughter, married these three years. Now I
+dare say her marrying another [[Child|child]], and having two more, was all
 wrong in point of political economy, but it was very agreeable. We
 had our little festivities on those occasions and exchanged social
-ideas. She brought her young husband home one day, and they and their
-young fledglings have their nest upstairs. I dare say at some time or
-other Sentiment and Comedy will bring THEIR husbands home and have
+ideas. She brought her young husband [[Home|home]] one day, and they and their
+young fledglings have their nest upstairs. I dare say at some [[Time|time]] or
+other Sentiment and [[Comedy]] will bring THEIR husbands [[Home|home]] and have
 THEIR nests upstairs too. So we get on, we don’t know how, but
 somehow.”
 
@@ -368,8 +368,8 @@ three daughters had grown up as they could and had had just as little
 haphazard instruction as qualified them to be their father’s
 playthings in his idlest hours. His pictorial tastes were consulted,
 I observed, in their respective styles of wearing their hair, the
-Beauty daughter being in the classic manner, the Sentiment daughter
-luxuriant and flowing, and the Comedy daughter in the arch style,
+[[Beauty]] daughter being in the classic manner, the Sentiment daughter
+luxuriant and flowing, and the [[Comedy]] daughter in the arch style,
 with a good deal of sprightly forehead, and vivacious little curls
 dotted about the corners of her eyes. They were dressed to
 correspond, though in a most untidy and negligent way.
@@ -377,25 +377,25 @@ correspond, though in a most untidy and negligent way.
 Ada and I conversed with these young ladies and found them
 wonderfully like their father. In the meanwhile Mr. Jarndyce (who had
 been rubbing his head to a great extent, and hinted at a change in
-the wind) talked with Mrs. Skimpole in a corner, where we could not
+the [[Wind|wind]]) talked with Mrs. Skimpole in a corner, where we could not
 help hearing the chink of money. Mr. Skimpole had previously
-volunteered to go home with us and had withdrawn to dress himself for
+volunteered to go [[Home|home]] with us and had withdrawn to dress himself for
 the purpose.
 
 “My roses,” he said when he came back, “take care of mama. She is
-poorly to-day. By going home with Mr. Jarndyce for a day or two, I
+poorly to-day. By going [[Home|home]] with Mr. Jarndyce for a day or two, I
 shall hear the larks sing and preserve my amiability. It has been
-tried, you know, and would be tried again if I remained at home.”
+tried, you know, and would be tried again if I remained at [[Home|home]].”
 
-“That bad man!” said the Comedy daughter.
+“That bad man!” said the [[Comedy]] daughter.
 
-“At the very time when he knew papa was lying ill by his wallflowers,
+“At the very [[Time|time]] when he knew papa was lying ill by his wallflowers,
 looking at the blue sky,” Laura complained.
 
 “And when the smell of hay was in the air!” said Arethusa.
 
 “It showed a want of poetry in the man,” Mr. Skimpole assented, but
-with perfect good humour. “It was coarse. There was an absence of the
+with perfect good [[Humour|humour]]. “It was coarse. There was an absence of the
 finer touches of humanity in it! My daughters have taken great
 offence,” he explained to us, “at an honest man—”
 
@@ -405,11 +405,11 @@ offence,” he explained to us, “at an honest man—”
 Mr. Skimpole, “who is a baker in this neighbourhood and from whom we
 borrowed a couple of arm-chairs. We wanted a couple of arm-chairs,
 and we hadn’t got them, and therefore of course we looked to a man
-who HAD got them, to lend them. Well! This morose person lent them,
+who HAD got them, to lend them. [[Well]]! This morose person lent them,
 and we wore them out. When they were worn out, he wanted them back.
 He had them back. He was contented, you will say. Not at all. He
 objected to their being worn. I reasoned with him, and pointed out
-his mistake. I said, ‘Can you, at your time of life, be so
+his mistake. I said, ‘Can you, at your [[Time|time]] of life, be so
 headstrong, my friend, as to persist that an arm-chair is a thing to
 put upon a shelf and look at? That it is an object to contemplate, to
 survey from a distance, to consider from a point of sight? Don’t you
@@ -417,15 +417,15 @@ KNOW that these arm-chairs were borrowed to be sat upon?’ He was
 unreasonable and unpersuadable and used intemperate language. Being
 as patient as I am at this minute, I addressed another appeal to him.
 I said, ‘Now, my good man, however our business capacities may vary,
-we are all children of one great mother, Nature. On this blooming
-summer morning here you see me’ (I was on the sofa) ‘with flowers
+we are all children of one [[Great Mother|great mother]], [[Nature]]. On this blooming
+[[Summer|summer]] morning here you see me’ (I was on the sofa) ‘with [[Flowers|flowers]]
 before me, fruit upon the table, the cloudless sky above me, the air
-full of fragrance, contemplating Nature. I entreat you, by our common
-brotherhood, not to interpose between me and a subject so sublime,
+full of fragrance, contemplating [[Nature]]. I entreat you, by our common
+brotherhood, not to interpose between me and a subject so [[Sublime|sublime]],
 the absurd figure of an angry baker!’ But he did,” said Mr. Skimpole,
 raising his laughing eyes in playful astonishment; “he did interpose
 that ridiculous figure, and he does, and he will again. And therefore
-I am very glad to get out of his way and to go home with my friend
+I am very glad to get out of his way and to go [[Home|home]] with my friend
 Jarndyce.”
 
 It seemed to escape his consideration that Mrs. Skimpole and the
@@ -435,52 +435,52 @@ leave of his family with a tenderness as airy and graceful as any
 other aspect in which he showed himself and rode away with us in
 perfect harmony of mind. We had an opportunity of seeing through some
 open doors, as we went downstairs, that his own apartment was a
-palace to the rest of the house.
+palace to the rest of the [[house]].
 
 I could have no anticipation, and I had none, that something very
 startling to me at the moment, and ever memorable to me in what
 ensued from it, was to happen before this day was out. Our guest was
-in such spirits on the way home that I could do nothing but listen to
-him and wonder at him; nor was I alone in this, for Ada yielded to
-the same fascination. As to my guardian, the wind, which had
+in such spirits on the way [[Home|home]] that I could do nothing but listen to
+him and [[Wonder|wonder]] at him; nor was I [[Alone|alone]] in this, for Ada yielded to
+the same fascination. As to my guardian, the [[Wind|wind]], which had
 threatened to become fixed in the east when we left Somers Town,
 veered completely round before we were a couple of miles from it.
 
 Whether of questionable childishness or not in any other matters, Mr.
-Skimpole had a child’s enjoyment of change and bright weather. In no
-way wearied by his sallies on the road, he was in the drawing-room
+Skimpole had a [[Child|child]]’s enjoyment of change and bright weather. In no
+way wearied by his sallies on the [[Road|road]], he was in the drawing-room
 before any of us; and I heard him at the piano while I was yet
 looking after my housekeeping, singing refrains of barcaroles and
-drinking songs, Italian and German, by the score.
+drinking [[songs]], Italian and German, by the score.
 
 We were all assembled shortly before dinner, and he was still at the
 piano idly picking out in his luxurious way little strains of music,
 and talking between whiles of finishing some sketches of the ruined
 old Verulam wall to-morrow, which he had begun a year or two ago and
 had got tired of, when a card was brought in and my guardian read
-aloud in a surprised voice, “Sir Leicester Dedlock!”
+aloud in a surprised voice, “[[Sir Leicester Dedlock]]!”
 
 The visitor was in the room while it was yet turning round with me
 and before I had the power to stir. If I had had it, I should have
 hurried away. I had not even the presence of mind, in my giddiness,
-to retire to Ada in the window, or to see the window, or to know
+to retire to Ada in the [[Window|window]], or to see the [[Window|window]], or to know
 where it was. I heard my name and found that my guardian was
 presenting me before I could move to a chair.
 
 “Pray be seated, Sir Leicester.”
 
 “Mr. Jarndyce,” said Sir Leicester in reply as he bowed and seated
-himself, “I do myself the honour of calling here—”
+himself, “I do myself the [[Honour|honour]] of calling here—”
 
-“You do ME the honour, Sir Leicester.”
+“You do ME the [[Honour|honour]], Sir Leicester.”
 
-“Thank you—of calling here on my road from Lincolnshire to express
+“Thank you—of calling here on my [[Road|road]] from Lincolnshire to express
 my regret that any cause of complaint, however strong, that I may
 have against a gentleman who—who is known to you and has been your
 host, and to whom therefore I will make no farther reference, should
 have prevented you, still more ladies under your escort and charge,
 from seeing whatever little there may be to gratify a polite and
-refined taste at my house, Chesney Wold.”
+refined taste at my [[house]], Chesney Wold.”
 
 “You are exceedingly obliging, Sir Leicester, and on behalf of those
 ladies (who are present) and for myself, I thank you very much.”
@@ -488,18 +488,18 @@ ladies (who are present) and for myself, I thank you very much.”
 “It is possible, Mr. Jarndyce, that the gentleman to whom, for the
 reasons I have mentioned, I refrain from making further allusion—it
 is possible, Mr. Jarndyce, that that gentleman may have done me the
-honour so far to misapprehend my character as to induce you to
+[[Honour|honour]] so far to misapprehend my character as to induce you to
 believe that you would not have been received by my local
 establishment in Lincolnshire with that urbanity, that courtesy,
 which its members are instructed to show to all ladies and gentlemen
-who present themselves at that house. I merely beg to observe, sir,
+who present themselves at that [[house]]. I merely beg to observe, sir,
 that the fact is the reverse.”
 
 My guardian delicately dismissed this remark without making any
 verbal answer.
 
-“It has given me pain, Mr. Jarndyce,” Sir Leicester weightily
-proceeded. “I assure you, sir, it has given—me—pain—to learn from
+“It has given me [[Pain|pain]], Mr. Jarndyce,” Sir Leicester weightily
+proceeded. “I assure you, sir, it has given—me—[[Pain|pain]]—to learn from
 the housekeeper at Chesney Wold that a gentleman who was in your
 company in that part of the county, and who would appear to possess a
 cultivated taste for the fine arts, was likewise deterred by some
@@ -510,23 +510,23 @@ a card and read, with much gravity and a little trouble, through his
 eye-glass, “Mr. Hirrold—Herald—Harold—Skampling—Skumpling—I beg
 your pardon—Skimpole.”
 
-“This is Mr. Harold Skimpole,” said my guardian, evidently surprised.
+“This is Mr. [[Harold Skimpole]],” said my guardian, evidently surprised.
 
 “Oh!” exclaimed Sir Leicester, “I am happy to meet Mr. Skimpole and
-to have the opportunity of tendering my personal regrets. I hope,
+to have the opportunity of tendering my personal regrets. I [[Hope|hope]],
 sir, that when you again find yourself in my part of the county, you
 will be under no similar sense of restraint.”
 
-“You are very obliging, Sir Leicester Dedlock. So encouraged, I shall
+“You are very obliging, [[Sir Leicester Dedlock]]. So encouraged, I shall
 certainly give myself the pleasure and advantage of another visit to
-your beautiful house. The owners of such places as Chesney Wold,”
+your beautiful [[house]]. The owners of such places as Chesney Wold,”
 said Mr. Skimpole with his usual happy and easy air, “are public
 benefactors. They are good enough to maintain a number of delightful
 objects for the admiration and pleasure of us poor men; and not to
 reap all the admiration and pleasure that they yield is to be
 ungrateful to our benefactors.”
 
-Sir Leicester seemed to approve of this sentiment highly. “An artist,
+Sir Leicester seemed to approve of this sentiment highly. “An [[artist]],
 sir?”
 
 “No,” returned Mr. Skimpole. “A perfectly idle man. A mere amateur.”
@@ -540,7 +540,7 @@ flattered and honoured.
 again to my guardian, “mentioned to the housekeeper, who, as he may
 have observed, is an old and attached retainer of the family—”
 
-(“That is, when I walked through the house the other day, on the
+(“That is, when I walked through the [[house]] the other day, on the
 occasion of my going down to visit Miss Summerson and Miss Clare,”
 Mr. Skimpole airily explained to us.)
 
@@ -548,10 +548,10 @@ Mr. Skimpole airily explained to us.)
 Mr. Jarndyce.” Sir Leicester bowed to the bearer of that name. “And
 hence I became aware of the circumstance for which I have professed
 my regret. That this should have occurred to any gentleman, Mr.
-Jarndyce, but especially a gentleman formerly known to Lady Dedlock,
+Jarndyce, but especially a gentleman formerly known to [[Lady Dedlock]],
 and indeed claiming some distant connexion with her, and for whom (as
 I learn from my Lady herself) she entertains a high respect, does, I
-assure you, give—me—pain.”
+assure you, give—me—[[Pain|pain]].”
 
 “Pray say no more about it, Sir Leicester,” returned my guardian. “I
 am very sensible, as I am sure we all are, of your consideration.
@@ -565,14 +565,14 @@ instinctive avoidance of this gentleman made his presence so
 distressing to me that I thought I understood nothing, through the
 rushing in my head and the beating of my heart.
 
-“I mentioned the subject to Lady Dedlock,” said Sir Leicester,
+“I mentioned the subject to [[Lady Dedlock]],” said Sir Leicester,
 rising, “and my Lady informed me that she had had the pleasure of
 exchanging a few words with Mr. Jarndyce and his wards on the
 occasion of an accidental meeting during their sojourn in the
 vicinity. Permit me, Mr. Jarndyce, to repeat to yourself, and to
 these ladies, the assurance I have already tendered to Mr. Skimpole.
 Circumstances undoubtedly prevent my saying that it would afford me
-any gratification to hear that Mr. Boythorn had favoured my house
+any gratification to hear that Mr. Boythorn had favoured my [[house]]
 with his presence, but those circumstances are confined to that
 gentleman himself and do not extend beyond him.”
 
@@ -580,22 +580,22 @@ gentleman himself and do not extend beyond him.”
 appealing to us. “An amiable bull who is determined to make every
 colour scarlet!”
 
-Sir Leicester Dedlock coughed as if he could not possibly hear
+[[Sir Leicester Dedlock]] coughed as if he could not possibly hear
 another word in reference to such an individual and took his leave
 with great ceremony and politeness. I got to my own room with all
-possible speed and remained there until I had recovered my
-self-command. It had been very much disturbed, but I was thankful to
+possible [[Speed|speed]] and remained there until I had recovered my
+[[Self|self]]-command. It had been very much disturbed, but I was thankful to
 find when I went downstairs again that they only rallied me for
 having been shy and mute before the great Lincolnshire baronet.
 
-By that time I had made up my mind that the period was come when I
+By that [[Time|time]] I had made up my mind that the period was come when I
 must tell my guardian what I knew. The possibility of my being
-brought into contact with my mother, of my being taken to her house,
+brought into contact with my mother, of my being taken to her [[house]],
 even of Mr. Skimpole’s, however distantly associated with me,
 receiving kindnesses and obligations from her husband, was so painful
 that I felt I could no longer guide myself without his assistance.
 
-When we had retired for the night, and Ada and I had had our usual
+When we had retired for the [[Night|night]], and Ada and I had had our usual
 talk in our pretty room, I went out at my door again and sought my
 guardian among his books. I knew he always read at that hour, and as
 I drew near I saw the light shining out into the passage from his
@@ -606,19 +606,19 @@ reading-lamp.
 “Surely, little woman. What’s the matter?”
 
 “Nothing is the matter. I thought I would like to take this quiet
-time of saying a word to you about myself.”
+[[Time|time]] of saying a word to you about myself.”
 
 He put a chair for me, shut his book, and put it by, and turned his
 kind attentive face towards me. I could not help observing that it
 wore that curious expression I had observed in it once before—on
-that night when he had said that he was in no trouble which I could
+that [[Night|night]] when he had said that he was in no trouble which I could
 readily understand.
 
 “What concerns you, my dear Esther,” said he, “concerns us all. You
 cannot be more ready to speak than I am to hear.”
 
 “I know that, guardian. But I have such need of your advice and
-support. Oh! You don’t know how much need I have to-night.”
+support. Oh! You don’t know how much need I have to-[[Night|night]].”
 
 He looked unprepared for my being so earnest, and even a little
 alarmed.
@@ -626,7 +626,7 @@ alarmed.
 “Or how anxious I have been to speak to you,” said I, “ever since the
 visitor was here to-day.”
 
-“The visitor, my dear! Sir Leicester Dedlock?”
+“The visitor, my dear! [[Sir Leicester Dedlock]]?”
 
 “Yes.”
 
@@ -645,7 +645,7 @@ crossed to the door to see that it was shut (but I had seen to that)
 and resumed his seat before me.
 
 “Guardian,” said I, “do you remember, when we were overtaken by the
-thunder-storm, Lady Dedlock’s speaking to you of her sister?”
+thunder-[[Storm|storm]], [[Lady Dedlock]]’s speaking to you of her sister?”
 
 “Of course. Of course I do.”
 
@@ -656,27 +656,27 @@ their several ways?”
 
 “Why did they separate, guardian?”
 
-His face quite altered as he looked at me. “My child, what questions
+His face quite altered as he looked at me. “My [[Child|child]], what questions
 are these! I never knew. No one but themselves ever did know, I
-believe. Who could tell what the secrets of those two handsome and
-proud women were! You have seen Lady Dedlock. If you had ever seen
+believe. Who could tell what the [[Secrets|secrets]] of those two handsome and
+proud women were! You have seen [[Lady Dedlock]]. If you had ever seen
 her sister, you would know her to have been as resolute and haughty
 as she.”
 
-“Oh, guardian, I have seen her many and many a time!”
+“Oh, guardian, I have seen her many and many a [[Time|time]]!”
 
 “Seen her?”
 
 He paused a little, biting his lip. “Then, Esther, when you spoke to
 me long ago of Boythorn, and when I told you that he was all but
 married once, and that the lady did not die, but died to him, and
-that that time had had its influence on his later life—did you know
+that that [[Time|time]] had had its influence on his later life—did you know
 it all, and know who the lady was?”
 
 “No, guardian,” I returned, fearful of the light that dimly broke
 upon me. “Nor do I know yet.”
 
-“Lady Dedlock’s sister.”
+“[[Lady Dedlock]]’s sister.”
 
 “And why,” I could scarcely ask him, “why, guardian, pray tell me why
 were THEY parted?”
@@ -686,12 +686,12 @@ afterwards did conjecture (but it was mere conjecture) that some
 injury which her haughty spirit had received in her cause of quarrel
 with her sister had wounded her beyond all reason, but she wrote him
 that from the date of that letter she died to him—as in literal
-truth she did—and that the resolution was exacted from her by her
-knowledge of his proud temper and his strained sense of honour, which
-were both her nature too. In consideration for those master points in
+[[Truth|truth]] she did—and that the resolution was exacted from her by her
+knowledge of his proud temper and his strained sense of [[Honour|honour]], which
+were both her [[Nature|nature]] too. In consideration for those master points in
 him, and even in consideration for them in herself, she made the
 sacrifice, she said, and would live in it and die in it. She did
-both, I fear; certainly he never saw her, never heard of her from
+both, I [[Fear|fear]]; certainly he never saw her, never heard of her from
 that hour. Nor did any one.”
 
 “Oh, guardian, what have I done!” I cried, giving way to my grief;
@@ -712,9 +712,9 @@ before me all I had myself imperfectly thought and hoped in my better
 state of mind, that, penetrated as I had been with fervent gratitude
 towards him through so many years, I believed I had never loved him
 so dearly, never thanked him in my heart so fully, as I did that
-night. And when he had taken me to my room and kissed me at the door,
-and when at last I lay down to sleep, my thought was how could I ever
+[[Night|night]]. And when he had taken me to my room and kissed me at the door,
+and when at last I lay down to [[Sleep|sleep]], my thought was how could I ever
 be busy enough, how could I ever be good enough, how in my little way
-could I ever hope to be forgetful enough of myself, devoted enough to
+could I ever [[Hope|hope]] to be forgetful enough of myself, devoted enough to
 him, and useful enough to others, to show him how I blessed and
 honoured him.

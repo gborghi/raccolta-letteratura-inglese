@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 4"
+title: "[[Martin Chuzzlewit]] — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,35 +16,35 @@ tags:
 
 CHAPTER FOUR
 
-FROM WHICH IT WILL APPEAR THAT IF UNION BE STRENGTH, AND FAMILY
+FROM WHICH IT WILL APPEAR THAT IF [[Union|UNION]] BE STRENGTH, AND FAMILY
 AFFECTION BE PLEASANT TO CONTEMPLATE, THE CHUZZLEWITS WERE THE STRONGEST
 AND MOST AGREEABLE FAMILY IN THE WORLD
 
 
 That worthy man Mr Pecksniff having taken leave of his cousin in the
-solemn terms recited in the last chapter, withdrew to his own home, and
+solemn terms recited in the last chapter, withdrew to his own [[Home|home]], and
 remained there three whole days; not so much as going out for a walk
-beyond the boundaries of his own garden, lest he should be hastily
+beyond the boundaries of his own [[Garden|garden]], lest he should be hastily
 summoned to the bedside of his penitent and remorseful relative,
 whom, in his ample benevolence, he had made up his mind to forgive
-unconditionally, and to love on any terms. But such was the obstinacy
-and such the bitter nature of that stern old man, that no repentant
+unconditionally, and to [[Love|love]] on any terms. But such was the obstinacy
+and such the bitter [[Nature|nature]] of that stern old man, that no repentant
 summons came; and the fourth day found Mr Pecksniff apparently much
 farther from his Christian object than the first.
 
 During the whole of this interval, he haunted the Dragon at all times
-and seasons in the day and night, and, returning good for evil evinced
+and [[Seasons|seasons]] in the day and [[Night|night]], and, returning good for evil evinced
 the deepest solicitude in the progress of the obdurate invalid, in so
 much that Mrs Lupin was fairly melted by his disinterested anxiety (for
 he often particularly required her to take notice that he would do the
 same by any stranger or pauper in the like condition), and shed many
-tears of admiration and delight.
+[[Tears|tears]] of admiration and delight.
 
-Meantime, old Martin Chuzzlewit remained shut up in his own chamber, and
+Meantime, [[Old Martin Chuzzlewit|old Martin Chuzzlewit]] remained shut up in his own chamber, and
 saw no person but his young companion, saving the hostess of the Blue
 Dragon, who was, at certain times, admitted to his presence. So surely
 as she came into the room, however, Martin feigned to fall asleep. It
-was only when he and the young lady were alone, that he would utter a
+was only when he and the young lady were [[Alone|alone]], that he would utter a
 word, even in answer to the simplest inquiry; though Mr Pecksniff
 could make out, by hard listening at the door, that they two being left
 together, he was talkative enough.
@@ -53,19 +53,19 @@ It happened on the fourth evening, that Mr Pecksniff walking, as usual,
 into the bar of the Dragon and finding no Mrs Lupin there, went straight
 upstairs; purposing, in the fervour of his affectionate zeal, to apply
 his ear once more to the keyhole, and quiet his mind by assuring himself
-that the hard-hearted patient was going on well. It happened that Mr
+that the hard-hearted patient was going on [[Well|well]]. It happened that Mr
 Pecksniff, coming softly upon the dark passage into which a spiral ray
 of light usually darted through the same keyhole, was astonished to find
 no such ray visible; and it happened that Mr Pecksniff, when he had felt
 his way to the chamber-door, stooping hurriedly down to ascertain by
-personal inspection whether the jealousy of the old man had caused this
+personal inspection whether the [[Jealousy|jealousy]] of the old man had caused this
 keyhole to be stopped on the inside, brought his head into such violent
 contact with another head that he could not help uttering in an audible
 voice the monosyllable ‘Oh!’ which was, as it were, sharply unscrewed
 and jerked out of him by very anguish. It happened then, and lastly,
 that Mr Pecksniff found himself immediately collared by something which
 smelt like several damp umbrellas, a barrel of beer, a cask of warm
-brandy-and-water, and a small parlour-full of stale tobacco smoke,
+brandy-and-[[Water|water]], and a small parlour-full of stale tobacco smoke,
 mixed; and was straightway led downstairs into the bar from which he
 had lately come, where he found himself standing opposite to, and in
 the grasp of, a perfectly strange gentleman of still stranger appearance
@@ -100,7 +100,7 @@ gentleman.
 Mr Pecksniff cast him off, as Saint George might have repudiated the
 Dragon in that animal’s last moments, and said:
 
-‘Where is Mrs Lupin, I wonder! can the good woman possibly be aware that
+‘Where is Mrs Lupin, I [[Wonder|wonder]]! can the good woman possibly be aware that
 there is a person here who--’
 
 ‘Stay!’ said the gentleman. ‘Wait a bit. She DOES know. What then?’
@@ -132,7 +132,7 @@ gentleman upstairs. Wait a bit.’
 
 As he said this, he touched the tip of his high nose, by way of
 intimation that he would let Mr Pecksniff into a secret presently; and
-pulling off his hat, began to search inside the crown among a mass of
+pulling off his hat, began to search inside the [[Crown|crown]] among a mass of
 crumpled documents and small pieces of what may be called the bark of
 broken cigars; whence he presently selected the cover of an old letter,
 begrimed with dirt and redolent of tobacco.
@@ -160,7 +160,7 @@ better not; you had indeed.’
 so tightly wedged into his threadbare sleeve that it looked like a cloth
 sausage. ‘Wait a bit!’
 
-He paused to establish himself immediately in front of the fire with his
+He paused to establish himself immediately in front of the [[Fire|fire]] with his
 back towards it. Then gathering the skirts of his coat under his left
 arm, and smoothing his moustache with his right thumb and forefinger, he
 resumed:
@@ -171,8 +171,8 @@ Sir, if there is a man on earth whom a gentleman would feel proud and
 honoured to be mistaken for, that man is my friend Slyme. For he is,
 without an exception, the highest-minded, the most independent-spirited,
 most original, spiritual, classical, talented, the most thoroughly
-Shakspearian, if not Miltonic, and at the same time the most
-disgustingly-unappreciated dog I know. But, sir, I have not the vanity
+Shakspearian, if not Miltonic, and at the same [[Time|time]] the most
+disgustingly-unappreciated dog I know. But, sir, I have not the [[Vanity|vanity]]
 to attempt to pass for Slyme. Any other man in the wide world, I am
 equal to; but Slyme is, I frankly confess, a great many cuts above me.
 Therefore you are wrong.’
@@ -180,7 +180,7 @@ Therefore you are wrong.’
 ‘I judged from this,’ said Mr Pecksniff, holding out the cover of the
 letter.
 
-‘No doubt you did,’ returned the gentleman. ‘But, Mr Pecksniff, the
+‘No [[Doubt|doubt]] you did,’ returned the gentleman. ‘But, Mr Pecksniff, the
 whole thing resolves itself into an instance of the peculiarities
 of genius. Every man of true genius has his peculiarity. Sir, the
 peculiarity of my friend Slyme is, that he is always waiting round the
@@ -201,7 +201,7 @@ search among my papers. I have taken a few notes in my poor way, of some
 of that man’s proceedings--my adopted brother, sir,--which would amaze
 you. He made use of an expression, sir, only on the fifteenth of last
 month when he couldn’t meet a little bill and the other party wouldn’t
-renew, which would have done honour to Napoleon Bonaparte in addressing
+renew, which would have done [[Honour|honour]] to Napoleon Bonaparte in addressing
 the French army.’
 
 ‘And pray,’ asked Mr Pecksniff, obviously not quite at his ease, ‘what
@@ -213,14 +213,14 @@ his proceedings?’
 say, that I object to that remark, and that I strongly and indignantly
 protest against it on behalf of my friend Slyme. In the next place, you
 will give me leave to introduce myself. My name, sir, is Tigg. The name
-of Montague Tigg will perhaps be familiar to you, in connection with the
+of [[Montague Tigg]] will perhaps be familiar to you, in connection with the
 most remarkable events of the Peninsular War?’
 
 Mr Pecksniff gently shook his head.
 
 ‘No matter,’ said the gentleman. ‘That man was my father, and I bear his
-name. I am consequently proud--proud as Lucifer. Excuse me one moment.
-I desire my friend Slyme to be present at the remainder of this
+name. I am consequently proud--proud as [[Lucifer]]. Excuse me one moment.
+I [[Desire|desire]] my friend Slyme to be present at the remainder of this
 conference.’
 
 With this announcement he hurried away to the outer door of the Blue
@@ -237,7 +237,7 @@ prepossessing friend, and calling Mr Pecksniff’s attention to him with
 the other, ‘you two are related; and relations never did agree, and
 never will; which is a wise dispensation and an inevitable thing, or
 there would be none but family parties, and everybody in the world
-would bore everybody else to death. If you were on good terms, I should
+would bore everybody else to [[Death|death]]. If you were on good terms, I should
 consider you a most confoundedly unnatural pair; but standing
 towards each other as you do, I took upon you as a couple of devilish
 deep-thoughted fellows, who may be reasoned with to any extent.’
@@ -258,7 +258,7 @@ requisition of small loans was another instance of the peculiarities of
 genius as developed in his friend Slyme; that he, Tigg, winked at the
 same, because of the strong metaphysical interest which these weaknesses
 possessed; and that in reference to his own personal advocacy of such
-small advances, he merely consulted the humour of his friend, without
+small advances, he merely consulted the [[Humour|humour]] of his friend, without
 the least regard to his own advantage or necessities.
 
 ‘Oh, Chiv, Chiv!’ added Mr Tigg, surveying his adopted brother with an
@@ -268,15 +268,15 @@ beset a mighty mind. If there had never been a telescope in the world,
 I should have been quite certain from my observation of you, Chiv,
 that there were spots on the sun! I wish I may die, if this isn’t the
 queerest state of existence that we find ourselves forced into without
-knowing why or wherefore, Mr Pecksniff! Well, never mind! Moralise as we
-will, the world goes on. As Hamlet says, Hercules may lay about him with
+knowing why or wherefore, Mr Pecksniff! [[Well]], never mind! Moralise as we
+will, the world goes on. As [[Hamlet]] says, Hercules may lay about him with
 his club in every possible direction, but he can’t prevent the cats from
 making a most intolerable row on the roofs of the houses, or the
-dogs from being shot in the hot weather if they run about the streets
-unmuzzled. Life’s a riddle; a most infernally hard riddle to guess, Mr
+[[dogs]] from being shot in the hot weather if they run about the streets
+unmuzzled. Life’s a [[Riddle|riddle]]; a most infernally hard [[Riddle|riddle]] to guess, Mr
 Pecksniff. My own opinions, that like that celebrated conundrum, “Why’s
 a man in jail like a man out of jail?” there’s no answer to it. Upon my
-soul and body, it’s the queerest sort of thing altogether--but there’s
+[[Soul|soul]] and [[Body|body]], it’s the queerest sort of thing altogether--but there’s
 no use in talking about it. Ha! Ha!’
 
 With which consolatory deduction from the gloomy premises recited,
@@ -290,8 +290,8 @@ Pecksniff, you’re the cousin of the testator upstairs and we’re the
 nephew--I say we, meaning Chiv. Perhaps in all essential points you are
 more nearly related to him than we are. Very good. If so, so be it. But
 you can’t get at him, neither can we. I give you my brightest word of
-honour, sir, that I’ve been looking through that keyhole with short
-intervals of rest, ever since nine o’clock this morning, in expectation
+[[Honour|honour]], sir, that I’ve been looking through that keyhole with short
+intervals of rest, ever since nine o’[[Clock|clock]] this morning, in expectation
 of receiving an answer to one of the most moderate and gentlemanly
 applications for a little temporary assistance--only fifteen pounds, and
 MY security--that the mind of man can conceive. In the meantime, sir, he
@@ -305,7 +305,7 @@ I, for one, would not call in question for any earthly consideration; oh
 no!) to regulate his own proceedings by his own likings and dislikings,
 supposing they are not immoral and not irreligious. I may feel in my
 own breast, that Mr Chuzzlewit does not regard--me, for instance; say
-me--with exactly that amount of Christian love which should subsist
+me--with exactly that amount of Christian [[Love|love]] which should subsist
 between us. I may feel grieved and hurt at the circumstance; still I
 may not rush to the conclusion that Mr Chuzzlewit is wholly without a
 justification in all his coldnesses. Heaven forbid! Besides; how, Mr
@@ -332,17 +332,17 @@ evening to you.’
 abruptly on his way to the door.
 
 ‘Mr and Mrs Spottletoe,’ said Chevy Slyme, Esquire, speaking aloud for
-the first time, and speaking very sulkily; shambling with his legs the
-while. ‘Spottletoe married my father’s brother’s child, didn’t he?
+the first [[Time|time]], and speaking very sulkily; shambling with his legs the
+while. ‘Spottletoe married my father’s brother’s [[Child|child]], didn’t he?
 And Mrs Spottletoe is Chuzzlewit’s own niece, isn’t she? She was his
-favourite once. You may well ask what Spottletoes.’
+favourite once. You may [[Well|well]] ask what Spottletoes.’
 
 ‘Now upon my sacred word!’ cried Mr Pecksniff, looking upwards. ‘This is
 dreadful. The rapacity of these people is absolutely frightful!’
 
 ‘It’s not only the Spottletoes either, Tigg,’ said Slyme, looking at
 that gentleman and speaking at Mr Pecksniff. ‘Anthony Chuzzlewit and his
-son have got wind of it, and have come down this afternoon. I saw ‘em
+son have got [[Wind|wind]] of it, and have come down this afternoon. I saw ‘em
 not five minutes ago, when I was waiting round the corner.’
 
 ‘Oh, Mammon, Mammon!’ cried Mr Pecksniff, smiting his forehead.
@@ -357,18 +357,18 @@ Chiv’s uncle) has turned up, some steps must be taken to prevent his
 disappearing again; and, if possible, to counteract the influence which
 is exercised over him now, by this designing favourite. Everybody who
 is interested feels it, sir. The whole family is pouring down to this
-place. The time has come when individual jealousies and interests must
-be forgotten for a time, sir, and union must be made against the
+place. The [[Time|time]] has come when individual jealousies and interests must
+be forgotten for a [[Time|time]], sir, and [[Union|union]] must be made against the
 common enemy. When the common enemy is routed, you will all set up for
 yourselves again; every lady and gentleman who has a part in the game,
 will go in on their own account and bowl away, to the best of their
 ability, at the testator’s wicket, and nobody will be in a worse
 position than before. Think of it. Don’t commit yourself now. You’ll
-find us at the Half Moon and Seven Stars in this village, at any time,
+find us at the Half [[Moon]] and Seven [[Stars]] in this village, at any [[Time|time]],
 and open to any reasonable proposition. Hem! Chiv, my dear fellow, go
-out and see what sort of a night it is.’
+out and see what sort of a [[Night|night]] it is.’
 
-Mr Slyme lost no time in disappearing, and it is to be presumed in going
+Mr Slyme lost no [[Time|time]] in disappearing, and it is to be presumed in going
 round the corner. Mr Tigg, planting his legs as wide apart as he could
 be reasonably expected by the most sanguine man to keep them, shook his
 head at Mr Pecksniff and smiled.
@@ -407,15 +407,15 @@ he stopped short, and looking earnestly at Mr Pecksniff, said:
 ‘I would much rather not,’ Mr Pecksniff rejoined.
 
 ‘Egad!’ cried Tigg, gravely nodding his head as if some ground of
-objection occurred to him at that moment for the first time, ‘it’s
+objection occurred to him at that moment for the first [[Time|time]], ‘it’s
 very possible you may be right. Would you entertain the same sort of
 objection to lending me five shillings now?’
 
 ‘Yes, I couldn’t do it, indeed,’ said Mr Pecksniff.
 
-‘Not even half-a-crown, perhaps?’ urged Mr Tigg.
+‘Not even half-a-[[Crown|crown]], perhaps?’ urged Mr Tigg.
 
-‘Not even half-a-crown.’
+‘Not even half-a-[[Crown|crown]].’
 
 ‘Why, then we come,’ said Mr Tigg, ‘to the ridiculously small amount of
 eighteen pence. Ha! ha!’
@@ -424,10 +424,10 @@ eighteen pence. Ha! ha!’
 
 On receipt of this assurance, Mr Tigg shook him heartily by both hands,
 protesting with much earnestness, that he was one of the most consistent
-and remarkable men he had ever met, and that he desired the honour
+and remarkable men he had ever met, and that he desired the [[Honour|honour]]
 of his better acquaintance. He moreover observed that there were many
 little characteristics about his friend Slyme, of which he could by no
-means, as a man of strict honour, approve; but that he was prepared to
+means, as a man of strict [[Honour|honour]], approve; but that he was prepared to
 forgive him all these slight drawbacks, and much more, in consideration
 of the great pleasure he himself had that day enjoyed in his social
 intercourse with Mr Pecksniff, which had given him a far higher and more
@@ -435,10 +435,10 @@ enduring delight than the successful negotiation of any small loan on
 the part of his friend could possibly have imparted. With which remarks
 he would beg leave, he said, to wish Mr Pecksniff a very good evening.
 And so he took himself off; as little abashed by his recent failure as
-any gentleman would desire to be.
+any gentleman would [[Desire|desire]] to be.
 
 The meditations of Mr Pecksniff that evening at the bar of the Dragon,
-and that night in his own house, were very serious and grave indeed; the
+and that [[Night|night]] in his own [[house]], were very serious and [[Grave|grave]] indeed; the
 more especially as the intelligence he had received from Messrs Tigg and
 Slyme touching the arrival of other members of the family, were fully
 confirmed on more particular inquiry. For the Spottletoes had actually
@@ -446,72 +446,72 @@ gone straight to the Dragon, where they were at that moment housed and
 mounting guard, and where their appearance had occasioned such a vast
 sensation that Mrs Lupin, scenting their errand before they had been
 under her roof half an hour, carried the news herself with all possible
-secrecy straight to Mr Pecksniff’s house; indeed it was her great
+secrecy straight to Mr Pecksniff’s [[house]]; indeed it was her great
 caution in doing so which occasioned her to miss that gentleman, who
 entered at the front door of the Dragon just as she emerged from
 the back one. Moreover, Mr Anthony Chuzzlewit and his son Jonas were
-economically quartered at the Half Moon and Seven Stars, which was an
-obscure ale-house; and by the very next coach there came posting to the
+economically quartered at the Half [[Moon]] and Seven [[Stars]], which was an
+obscure ale-[[house]]; and by the very next coach there came posting to the
 scene of action, so many other affectionate members of the family (who
 quarrelled with each other, inside and out, all the way down, to the
 utter distraction of the coachman), that in less than four-and-twenty
 hours the scanty tavern accommodation was at a premium, and all the
 private lodgings in the place, amounting to full four beds and sofa,
-rose cent per cent in the market.
+[[Rose|rose]] cent per cent in the market.
 
 In a word, things came to that pass that nearly the whole family sat
 down before the Blue Dragon, and formally invested it; and Martin
 Chuzzlewit was in a state of siege. But he resisted bravely; refusing
 to receive all letters, messages, and parcels; obstinately declining to
-treat with anybody; and holding out no hope or promise of capitulation.
+treat with anybody; and holding out no [[Hope|hope]] or promise of capitulation.
 Meantime the family forces were perpetually encountering each other
 in divers parts of the neighbourhood; and, as no one branch of the
 Chuzzlewit tree had ever been known to agree with another within the
-memory of man, there was such a skirmishing, and flouting, and snapping
+[[Memory|memory]] of man, there was such a skirmishing, and flouting, and snapping
 off of heads, in the metaphorical sense of that expression; such a
 bandying of words and calling of names; such an upturning of noses and
 wrinkling of brows; such a formal interment of good feelings and violent
-resurrection of ancient grievances; as had never been known in those
+[[Resurrection|resurrection]] of ancient grievances; as had never been known in those
 quiet parts since the earliest record of their civilized existence.
 
-At length, in utter despair and hopelessness, some few of the
+At length, in utter [[Despair|despair]] and hopelessness, some few of the
 belligerents began to speak to each other in only moderate terms of
 mutual aggravation; and nearly all addressed themselves with a show of
 tolerable decency to Mr Pecksniff, in recognition of his high character
 and influential position. Thus, by little and little, they made common
-cause of Martin Chuzzlewit’s obduracy, until it was agreed (if such a
+cause of [[Martin Chuzzlewit]]’s obduracy, until it was agreed (if such a
 word can be used in connection with the Chuzzlewits) that there should
-be a general council and conference held at Mr Pecksniff’s house upon
-a certain day at noon; which all members of the family who had brought
+be a general council and conference held at Mr Pecksniff’s [[house]] upon
+a certain day at [[Noon|noon]]; which all members of the family who had brought
 themselves within reach of the summons, were forthwith bidden and
 invited, solemnly, to attend.
 
 If ever Mr Pecksniff wore an apostolic look, he wore it on this
 memorable day. If ever his unruffled smile proclaimed the words, ‘I am
 a messenger of peace!’ that was its mission now. If ever man combined
-within himself all the mild qualities of the lamb with a considerable
+within himself all the mild qualities of the [[Lamb|lamb]] with a considerable
 touch of the dove, and not a dash of the crocodile, or the least
 possible suggestion of the very mildest seasoning of the serpent, that
 man was he. And, oh, the two Miss Pecksniffs! Oh, the serene expression
-on the face of Charity, which seemed to say, ‘I know that all my family
+on the face of [[Charity]], which seemed to say, ‘I know that all my family
 have injured me beyond the possibility of reparation, but I forgive
-them, for it is my duty so to do!’ And, oh, the gay simplicity of Mercy;
-so charming, innocent, and infant-like, that if she had gone out
+them, for it is my duty so to do!’ And, oh, the gay simplicity of [[Mercy]];
+so charming, [[Innocent|innocent]], and infant-like, that if she had gone out
 walking by herself, and it had been a little earlier in the season, the
-robin-redbreasts might have covered her with leaves against her will,
+robin-redbreasts might have covered her with [[Leaves|leaves]] against her will,
 believing her to be one of the sweet children in the wood, come out of
 it, and issuing forth once more to look for blackberries in the young
 freshness of her heart! What words can paint the Pecksniffs in that
 trying hour? Oh, none; for words have naughty company among them, and
 the Pecksniffs were all goodness.
 
-But when the company arrived! That was the time. When Mr Pecksniff,
+But when the company arrived! That was the [[Time|time]]. When Mr Pecksniff,
 rising from his seat at the table’s head, with a daughter on either
 hand, received his guests in the best parlour and motioned them to
 chairs, with eyes so overflowing and countenance so damp with gracious
 perspiration, that he may be said to have been in a kind of moist
 meekness! And the company; the jealous stony-hearted distrustful
-company, who were all shut up in themselves, and had no faith in
+company, who were all shut up in themselves, and had no [[Faith|faith]] in
 anybody, and wouldn’t believe anything, and would no more allow
 themselves to be softened or lulled asleep by the Pecksniffs than if
 they had been so many hedgehogs or porcupines!
@@ -529,21 +529,21 @@ nothing but cry--except moan. Then there were Anthony Chuzzlewit, and
 his son Jonas; the face of the old man so sharpened by the wariness and
 cunning of his life, that it seemed to cut him a passage through the
 crowded room, as he edged away behind the remotest chairs; while the son
-had so well profited by the precept and example of the father, that he
+had so [[Well|well]] profited by the precept and example of the father, that he
 looked a year or two the elder of the twain, as they stood winking their
 red eyes, side by side, and whispering to each other softly. Then there
-was the widow of a deceased brother of Mr Martin Chuzzlewit, who being
+was the widow of a deceased brother of Mr [[Martin Chuzzlewit]], who being
 almost supernaturally disagreeable, and having a dreary face and a bony
 figure and a masculine voice, was, in right of these qualities, what is
 commonly called a strong-minded woman; and who, if she could, would have
 established her claim to the title, and have shown herself, mentally
 speaking, a perfect Samson, by shutting up her brother-in-law in a
-private madhouse, until he proved his complete sanity by loving her very
+private madhouse, until he proved his complete [[Sanity|sanity]] by loving her very
 much. Beside her sat her spinster daughters, three in number, and of
 gentlemanly deportment, who had so mortified themselves with tight
 stays, that their tempers were reduced to something less than their
 waists, and sharp lacing was expressed in their very noses. Then there
-was a young gentleman, grandnephew of Mr Martin Chuzzlewit, very dark
+was a young gentleman, grandnephew of Mr [[Martin Chuzzlewit]], very dark
 and very hairy, and apparently born for no particular purpose but to
 save looking-glasses the trouble of reflecting more than just the first
 idea and sketchy notion of a face, which had never been carried out.
@@ -584,12 +584,12 @@ A general murmur echoed this inquiry, and applauded it.
 pursued Mr Spottletoe in a great heat, and giving a violent rap on
 the table with his knuckles, ‘the sooner you desist, and this assembly
 separates, the better. I am no stranger, sir, to your preposterous
-desire to be regarded as the head of this family, but I can tell YOU,
+[[Desire|desire]] to be regarded as the head of this family, but I can tell YOU,
 sir--’
 
 Oh yes, indeed! HE tell. HE! What? He was the head, was he? From the
 strong-minded woman downwards everybody fell, that instant, upon Mr
-Spottletoe, who after vainly attempting to be heard in silence was
+Spottletoe, who after vainly attempting to be heard in [[Silence|silence]] was
 fain to sit down again, folding his arms and shaking his head most
 wrathfully, and giving Mrs Spottletoe to understand in dumb show, that
 that scoundrel Pecksniff might go on for the present, but he would cut
@@ -601,27 +601,27 @@ feel that we are met here without disguise. It is good to know that we
 have no reserve before each other, but are appearing freely in our own
 characters.’
 
-Here, the eldest daughter of the strong-minded woman rose a little way
+Here, the eldest daughter of the strong-minded woman [[Rose|rose]] a little way
 from her seat, and trembling violently from head to foot, more as it
-seemed with passion than timidity, expressed a general hope that some
+seemed with passion than timidity, expressed a general [[Hope|hope]] that some
 people WOULD appear in their own characters, if it were only for such
 a proceeding having the attraction of novelty to recommend it; and that
 when they (meaning the some people before mentioned) talked about their
 relations, they would be careful to observe who was present in company
-at the time; otherwise it might come round to those relations’ ears, in
+at the [[Time|time]]; otherwise it might come round to those relations’ ears, in
 a way they little expected; and as to red noses (she observed) she
 had yet to learn that a red nose was any disgrace, inasmuch as people
 neither made nor coloured their own noses, but had that feature provided
 for them without being first consulted; though even upon that branch of
 the subject she had great doubts whether certain noses were redder than
 other noses, or indeed half as red as some. This remark being received
-with a shrill titter by the two sisters of the speaker, Miss Charity
+with a shrill titter by the two sisters of the speaker, Miss [[Charity]]
 Pecksniff begged with much politeness to be informed whether any of
 those very low observations were levelled at her; and receiving no more
 explanatory answer than was conveyed in the adage ‘Those the cap fits,
 let them wear it,’ immediately commenced a somewhat acrimonious and
 personal retort, wherein she was much comforted and abetted by her
-sister Mercy, who laughed at the same with great heartiness; indeed
+sister [[Mercy]], who laughed at the same with great heartiness; indeed
 far more naturally than life. And it being quite impossible that any
 difference of opinion can take place among women without every woman who
 is within hearing taking active part in it, the strong-minded lady and
@@ -633,11 +633,11 @@ quarrel directly.
 The two Miss Pecksniffs being a pretty good match for the three Miss
 Chuzzlewits, and all five young ladies having, in the figurative
 language of the day, a great amount of steam to dispose of, the
-altercation would no doubt have been a long one but for the high valour
+altercation would no [[Doubt|doubt]] have been a long one but for the high valour
 and prowess of the strong-minded woman, who, in right of her reputation
 for powers of sarcasm, did so belabour and pummel Mrs Spottletoe with
 taunting words that the poor lady, before the engagement was two minutes
-old, had no refuge but in tears. These she shed so plentifully, and so
+old, had no refuge but in [[Tears|tears]]. These she shed so plentifully, and so
 much to the agitation and grief of Mr Spottletoe, that that gentleman,
 after holding his clenched fist close to Mr Pecksniff’s eyes, as if
 it were some natural curiosity from the near inspection whereof he was
@@ -647,9 +647,9 @@ Chuzzlewit for, and in consideration of, the trifling sum of sixpence,
 took his wife under his arm and indignantly withdrew. This diversion, by
 distracting the attention of the combatants, put an end to the strife,
 which, after breaking out afresh some twice or thrice in certain
-inconsiderable spurts and dashes, died away in silence.
+inconsiderable spurts and dashes, died away in [[Silence|silence]].
 
-It was then that Mr Pecksniff once more rose from his chair. It was then
+It was then that Mr Pecksniff once more [[Rose|rose]] from his chair. It was then
 that the two Miss Pecksniffs composed themselves to look as if there
 were no such beings--not to say present, but in the whole compass of the
 world--as the three Miss Chuzzlewits; while the three Miss Chuzzlewits
@@ -669,27 +669,27 @@ peculiar keenness from the first--‘don’t you be a hypocrite.’
 
 ‘A hypocrite.’
 
-‘Charity, my dear,’ said Mr Pecksniff, ‘when I take my chamber
-candlestick to-night, remind me to be more than usually particular in
+‘[[Charity]], my dear,’ said Mr Pecksniff, ‘when I take my chamber
+candlestick to-[[Night|night]], remind me to be more than usually particular in
 praying for Mr Anthony Chuzzlewit; who has done me an injustice.’
 
 This was said in a very bland voice, and aside, as being addressed to
-his daughter’s private ear. With a cheerfulness of conscience, prompting
+his daughter’s private ear. With a cheerfulness of [[Conscience|conscience]], prompting
 almost a sprightly demeanour, he then resumed:
 
 ‘All our thoughts centring in our very dear but unkind relative, and he
 being as it were beyond our reach, we are met to-day, really as if we
-were a funeral party, except--a blessed exception--that there is no body
-in the house.’
+were a funeral party, except--a blessed exception--that there is no [[Body|body]]
+in the [[house]].’
 
 The strong-minded lady was not at all sure that this was a blessed
 exception. Quite the contrary.
 
-‘Well, my dear madam!’ said Mr Pecksniff. ‘Be that as it may, here we
+‘[[Well]], my dear madam!’ said Mr Pecksniff. ‘Be that as it may, here we
 are; and being here, we are to consider whether it is possible by any
 justifiable means--’
 
-‘Why, you know as well as I,’ said the strong-minded lady, ‘that any
+‘Why, you know as [[Well|well]] as I,’ said the strong-minded lady, ‘that any
 means are justifiable in such a case, don’t you?’
 
 ‘Very good, my dear madam, very good; whether it is possible by ANY
@@ -698,23 +698,23 @@ relative to his present infatuation. Whether it is possible to make
 him acquainted by any means with the real character and purpose of that
 young female whose strange, whose very strange position, in reference
 to himself’--here Mr Pecksniff sunk his voice to an impressive
-whisper--‘really casts a shadow of disgrace and shame upon this family;
+whisper--‘really casts a [[Shadow|shadow]] of disgrace and shame upon this family;
 and who, we know’--here he raised his voice again--‘else why is she his
 companion? harbours the very basest designs upon his weakness and his
 property.’
 
 In their strong feeling on this point, they, who agreed in nothing else,
 all concurred as one mind. Good Heaven, that she should harbour designs
-upon his property! The strong-minded lady was for poison, her three
-daughters were for Bridewell and bread-and-water, the cousin with
+upon his property! The strong-minded lady was for [[Poison|poison]], her three
+daughters were for Bridewell and bread-and-[[Water|water]], the cousin with
 the toothache advocated Botany Bay, the two Miss Pecksniffs suggested
 flogging. Nobody but Mr Tigg, who, notwithstanding his extreme
 shabbiness, was still understood to be in some sort a lady’s man,
-in right of his upper lip and his frogs, indicated a doubt of the
-justifiable nature of these measures; and he only ogled the three Miss
+in right of his upper lip and his frogs, indicated a [[Doubt|doubt]] of the
+justifiable [[Nature|nature]] of these measures; and he only ogled the three Miss
 Chuzzlewits with the least admixture of banter in his admiration, as
 though he would observe, ‘You are positively down upon her to too great
-an extent, my sweet creatures, upon my soul you are!’
+an extent, my sweet creatures, upon my [[Soul|soul]] you are!’
 
 ‘Now,’ said Mr Pecksniff, crossing his two forefingers in a manner which
 was at once conciliatory and argumentative; ‘I will not, upon the one
@@ -731,13 +731,13 @@ revered--?’
 ‘Then I will not,’ said Mr Pecksniff. ‘You are quite right, my
 dear madam, and I appreciate and thank you for your discriminating
 objection--our respected relative, to dispose himself to listen to the
-promptings of nature, and not to the--’
+promptings of [[Nature|nature]], and not to the--’
 
-‘Go on, Pa!’ cried Mercy.
+‘Go on, Pa!’ cried [[Mercy]].
 
-‘Why, the truth is, my dear,’ said Mr Pecksniff, smiling upon his
+‘Why, the [[Truth|truth]] is, my dear,’ said Mr Pecksniff, smiling upon his
 assembled kindred, ‘that I am at a loss for a word. The name of those
-fabulous animals (pagan, I regret to say) who used to sing in the water,
+fabulous [[Animals|animals]] (pagan, I regret to say) who used to sing in the [[Water|water]],
 has quite escaped me.’
 
 Mr George Chuzzlewit suggested ‘swans.’
@@ -745,13 +745,13 @@ Mr George Chuzzlewit suggested ‘swans.’
 ‘No,’ said Mr Pecksniff. ‘Not swans. Very like swans, too. Thank you.’
 
 The nephew with the outline of a countenance, speaking for the first and
-last time on that occasion, propounded ‘Oysters.’
+last [[Time|time]] on that occasion, propounded ‘Oysters.’
 
 ‘No,’ said Mr Pecksniff, with his own peculiar urbanity, ‘nor oysters.
 But by no means unlike oysters; a very excellent idea; thank you, my
 dear sir, very much. Wait! Sirens. Dear me! sirens, of course. I think,
 I say, that means might be devised of disposing our respected relative
-to listen to the promptings of nature, and not to the siren-like
+to listen to the promptings of [[Nature|nature]], and not to the siren-like
 delusions of art. Now we must not lose sight of the fact that our
 esteemed friend has a grandson, to whom he was, until lately, very much
 attached, and whom I could have wished to see here to-day, for I have a
@@ -765,8 +765,8 @@ not to look at me and my daughters as if he could eat us.’
 
 ‘As to looking, I have heard it said, Mrs Ned,’ returned Mr George,
 angrily, ‘that a cat is free to contemplate a monarch; and therefore
-I hope I have some right, having been born a member of this family, to
-look at a person who only came into it by marriage. As to eating, I
+I [[Hope|hope]] I have some right, having been born a member of this family, to
+look at a person who only came into it by [[Marriage|marriage]]. As to eating, I
 beg to say, whatever bitterness your jealousies and disappointed
 expectations may suggest to you, that I am not a cannibal, ma’am.’
 
@@ -777,18 +777,18 @@ stimulated by this retort, ‘I think it would occur to me that a lady
 who had outlived three husbands, and suffered so very little from their
 loss, must be most uncommonly tough.’
 
-The strong-minded woman immediately rose.
+The strong-minded woman immediately [[Rose|rose]].
 
 ‘And I will further add,’ said Mr George, nodding his head violently at
 every second syllable; ‘naming no names, and therefore hurting nobody
 but those whose consciences tell them they are alluded to, that I think
 it would be much more decent and becoming, if those who hooked and
 crooked themselves into this family by getting on the blind side of some
-of its members before marriage, and manslaughtering them afterwards by
+of its members before [[Marriage|marriage]], and manslaughtering them afterwards by
 crowing over them to that strong pitch that they were glad to die, would
 refrain from acting the part of vultures in regard to other members of
-this family who are living. I think it would be full as well, if not
-better, if those individuals would keep at home, contenting themselves
+this family who are living. I think it would be full as [[Well|well]], if not
+better, if those individuals would keep at [[Home|home]], contenting themselves
 with what they have got (luckily for them) already; instead of hovering
 about, and thrusting their fingers into, a family pie, which they
 flavour much more than enough, I can tell them, when they are fifty
@@ -800,13 +800,13 @@ followed by her three daughters. ‘Indeed I was fully prepared for it
 from the first. What else could I expect in such an atmosphere as this!’
 
 ‘Don’t direct your halfpay-officers’ gaze at me, ma’am, if you please,’
-interposed Miss Charity; ‘for I won’t bear it.’
+interposed Miss [[Charity]]; ‘for I won’t bear it.’
 
 This was a smart stab at a pension enjoyed by the strong-minded woman,
 during her second widowhood and before her last coverture. It told
 immensely.
 
-‘I passed from the memory of a grateful country, you very miserable
+‘I passed from the [[Memory|memory]] of a grateful country, you very miserable
 minx,’ said Mrs Ned, ‘when I entered this family; and I feel now, though
 I did not feel then, that it served me right, and that I lost my claim
 upon the United Kingdom of Great Britain and Ireland when I so degraded
@@ -819,18 +819,18 @@ Thank you. Good-bye!’
 
 With such departing words, did this strong-minded female paralyse the
 Pecksniffian energies; and so she swept out of the room, and out of
-the house, attended by her daughters, who, as with one accord, elevated
+the [[house]], attended by her daughters, who, as with one accord, elevated
 their three noses in the air, and joined in a contemptuous titter.
-As they passed the parlour window on the outside, they were seen to
+As they passed the parlour [[Window|window]] on the outside, they were seen to
 counterfeit a perfect transport of delight among themselves; and
 with this final blow and great discouragement for those within, they
 vanished.
 
 Before Mr Pecksniff or any of his remaining visitors could offer a
-remark, another figure passed this window, coming, at a great rate in
+remark, another figure passed this [[Window|window]], coming, at a great rate in
 the opposite direction; and immediately afterwards, Mr Spottletoe burst
 into the chamber. Compared with his present state of heat, he had gone
-out a man of snow or ice. His head distilled such oil upon his whiskers,
+out a man of [[Snow|snow]] or ice. His head distilled such oil upon his whiskers,
 that they were rich and clogged with unctuous drops; his face was
 violently inflamed, his limbs trembled; and he gasped and strove for
 breath.
@@ -865,7 +865,7 @@ suspicion. Oh, of course not! She’s not this fellow’s creature. Oh, of
 course not!’
 
 Adding to these exclamations a kind of ironical howl, and gazing upon
-the company for one brief instant afterwards, in a sudden silence, the
+the company for one brief instant afterwards, in a sudden [[Silence|silence]], the
 irritated gentleman started off again at the same tremendous pace, and
 was seen no more.
 
@@ -881,13 +881,13 @@ The moral position taken by Mr Tigg was something quite tremendous; and
 the deaf cousin, who had the complicated aggravation of seeing all the
 proceedings and hearing nothing but the catastrophe, actually scraped
 her shoes upon the scraper, and afterwards distributed impressions of
-them all over the top step, in token that she shook the dust from her
+them all over the top step, in token that she shook the [[Dust|dust]] from her
 feet before quitting that dissembling and perfidious mansion.
 
 Mr Pecksniff had, in short, but one comfort, and that was the knowledge
 that all these his relations and friends had hated him to the very
 utmost extent before; and that he, for his part, had not distributed
-among them any more love than, with his ample capital in that respect,
+among them any more [[Love|love]] than, with his ample capital in that respect,
 he could comfortably afford to part with. This view of his affairs
 yielded him great consolation; and the fact deserves to be noted, as
 showing with what ease a good man may be consoled under circumstances of

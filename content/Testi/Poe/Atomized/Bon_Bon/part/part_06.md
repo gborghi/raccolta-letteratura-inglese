@@ -1,5 +1,5 @@
 ---
-title: "Bon-Bon (part 6)"
+title: "[[Bon-Bon]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Bon-Bon-(Poe)"
@@ -29,7 +29,7 @@ tags:
       him in the Styx—and after all he gave me the cholera morbus.”
 
 
-      “The—hiccup!—wretch!” ejaculated Bon-Bon, “the—hic-cup!—abortion
+      “The—hiccup!—wretch!” ejaculated [[Bon-Bon]], “the—hic-cup!—abortion
       of a pill-box!”—and the philosopher dropped a tear.
 
       “After all,” continued the visitor, “after all, if a dev—if a
@@ -42,7 +42,7 @@ tags:
 
       “Why, we are sometimes exceedingly pushed for provisions. You must know
       that, in a climate so sultry as mine, it is frequently impossible to keep
-      a spirit alive for more than two or three hours; and after death, unless
+      a spirit alive for more than two or three hours; and after [[Death|death]], unless
       pickled immediately (and a pickled spirit is not good), they will—smell—you
       understand, eh? Putrefaction is always to be apprehended when the souls
       are consigned to us in the usual way.”
@@ -53,8 +53,8 @@ tags:
 
       Here the iron lamp commenced swinging with redoubled violence, and the
       devil half started from his seat;—however, with a slight sigh, he
-      recovered his composure, merely saying to our hero in a low tone: “I tell
-      you what, Pierre Bon-Bon, we must have no more swearing.”
+      recovered his composure, merely saying to our [[Hero|hero]] in a low tone: “I tell
+      you what, Pierre [[Bon-Bon]], we must have no more swearing.”
 
 
       The host swallowed another bumper, by way of denoting thorough
@@ -62,27 +62,27 @@ tags:
 
       “Why, there are several ways of managing. The most of us starve: some put
       up with the pickle: for my part I purchase my spirits vivente corpore, in
-      which case I find they keep very well.”
+      which case I find they keep very [[Well|well]].”
 
 
-      “But the body!—hiccup!—the body!”
+      “But the [[Body|body]]!—hiccup!—the [[Body|body]]!”
 
 
-      “The body, the body—well, what of the body?—oh! ah! I
-      perceive. Why, sir, the body is not at all affected by the transaction. I
+      “The [[Body|body]], the [[Body|body]]—[[Well|well]], what of the [[Body|body]]?—oh! ah! I
+      perceive. Why, sir, the [[Body|body]] is not at all affected by the transaction. I
       have made innumerable purchases of the kind in my day, and the parties
-      never experienced any inconvenience. There were Cain and Nimrod, and
+      never experienced any inconvenience. There were [[Cain]] and Nimrod, and
       Nero, and Caligula, and Dionysius, and Pisistratus, and—and a
-      thousand others, who never knew what it was to have a soul during the
+      thousand others, who never knew what it was to have a [[Soul|soul]] during the
       latter part of their lives; yet, sir, these men adorned society. Why
-      isn’t there A——, now, who you know as well as I? Is
+      isn’t there A——, now, who you know as [[Well|well]] as I? Is
       _he_ not in possession of his faculties, mental and corporeal? Who
-      writes a keener epigram? Who reasons more wittily? Who—but stay! I
+      writes a keener [[Epigram|epigram]]? Who reasons more wittily? Who—but stay! I
       have his agreement in my pocket-book.”
 
 
       Thus saying, he produced a red leather wallet, and took from it a number
-      of papers. Upon some of these Bon-Bon caught a glimpse of the letters
+      of papers. Upon some of these [[Bon-Bon]] caught a glimpse of the letters
       _Machi—Maza—Robesp_—with the words _Caligula, George,
       Elizabeth_. His Majesty selected a narrow slip of parchment, and from it
       read aloud the following words:
@@ -90,48 +90,48 @@ tags:
       “In consideration of certain mental endowments which it is unnecessary to
       specify, and in further consideration of one thousand louis d’or, I being
       aged one year and one month, do hereby make over to the bearer of this
-      agreement all my right, title, and appurtenance in the shadow called my
-      soul. (Signed) A....” {*4} (Here His Majesty repeated a name which I did
+      agreement all my right, title, and appurtenance in the [[Shadow|shadow]] called my
+      [[Soul|soul]]. (Signed) A....” {*4} (Here His Majesty repeated a name which I did
       not feel justified in indicating more unequivocally.)
 
       {*4} Quere-Arouet?
 
-      “A clever fellow that,” resumed he; “but like you, Monsieur Bon-Bon, he
-      was mistaken about the soul. The soul a shadow, truly! The soul a shadow;
+      “A clever fellow that,” resumed he; “but like you, Monsieur [[Bon-Bon]], he
+      was mistaken about the [[Soul|soul]]. The [[Soul|soul]] a [[Shadow|shadow]], truly! The [[Soul|soul]] a [[Shadow|shadow]];
       Ha! ha! ha!—he! he! he!—hu! hu! hu! Only think of a fricasseed
-      shadow!”
+      [[Shadow|shadow]]!”
 
 
-      “_Only_ think—hiccup!—of a fricasséed shadow!” exclaimed our
-      hero, whose faculties were becoming much illuminated by the profundity of
+      “_Only_ think—hiccup!—of a fricasséed [[Shadow|shadow]]!” exclaimed our
+      [[Hero|hero]], whose faculties were becoming much illuminated by the profundity of
       his Majesty’s discourse.
 
-      “Only think of a hiccup!—fricasséed shadow!! Now, damme!—hiccup!—humph!
-      If _I_ would have been such a—hiccup!—nincompoop! _My_ soul, Mr.—humph!”
+      “Only think of a hiccup!—fricasséed [[Shadow|shadow]]!! Now, damme!—hiccup!—humph!
+      If _I_ would have been such a—hiccup!—nincompoop! _My_ [[Soul|soul]], Mr.—humph!”
 
 
-      “_Your_ soul, Monsieur Bon-Bon?”
+      “_Your_ [[Soul|soul]], Monsieur [[Bon-Bon]]?”
 
 
-      “Yes, sir—hiccup!—_my_ soul is—”
+      “Yes, sir—hiccup!—_my_ [[Soul|soul]] is—”
 
 
       “What, sir?”
 
 
-      “_No_ shadow, damme!”
+      “_No_ [[Shadow|shadow]], damme!”
 
 
       “Did you mean to say—”
 
 
-      “Yes, sir, my soul is—hiccup!—humph!—yes, sir.”
+      “Yes, sir, my [[Soul|soul]] is—hiccup!—humph!—yes, sir.”
 
 
       “Did you not intend to assert—”
 
 
-      “My soul is—hiccup!—peculiarly qualified for—hiccup!—a—”
+      “My [[Soul|soul]] is—hiccup!—peculiarly qualified for—hiccup!—a—”
 
 
       “What, sir?”
@@ -159,7 +159,7 @@ tags:
       have it—hiccup!—a bargain.” Here the philosopher slapped his
       Majesty upon the back.
 
-      “Couldn’t think of such a thing,” said the latter calmly, at the same time
+      “Couldn’t think of such a thing,” said the latter calmly, at the same [[Time|time]]
       rising from his seat. The metaphysician stared.
 
       “Am supplied at present,” said his Majesty.
@@ -188,7 +188,7 @@ tags:
 
 
       Here the visitor bowed and withdrew—in what manner could not
-      precisely be ascertained—but in a well-concerted effort to discharge
-      a bottle at “the villain,” the slender chain was severed that depended
+      precisely be ascertained—but in a [[Well|well]]-concerted effort to discharge
+      a bottle at “the [[Villain|villain]],” the slender chain was severed that depended
       from the ceiling, and the metaphysician prostrated by the downfall of the
       lamp.

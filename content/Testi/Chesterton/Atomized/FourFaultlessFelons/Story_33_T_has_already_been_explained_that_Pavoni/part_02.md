@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T has already been explained that Pavonia was governed on enlightened (part 2)"
+title: "[[FourFaultlessFelons]] — T has already been explained that Pavonia was governed on enlightened (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -34,7 +34,7 @@ question is answered."
 
 
 
-"Do you know him?" asked the King, speaking for the first time. "Why do
+"Do you know him?" asked the [[King]], speaking for the first [[Time|time]]. "Why do
 
 you say he isn't a miser?"
 
@@ -44,21 +44,21 @@ you say he isn't a miser?"
 
 Jewish vice; it's a peasant's vice, a vice of people who want to protect
 
-themselves with personal possessions in perpetuity. Greed is the Jewish
+themselves with personal possessions in perpetuity. [[Greed]] is the Jewish
 
-vice: greed for luxury; greed for vulgarity; greed for gambling; greed
+vice: [[Greed|greed]] for luxury; [[Greed|greed]] for vulgarity; [[Greed|greed]] for gambling; [[Greed|greed]]
 
 for throwing away other people's money and their own on a harem or a
 
 theatre or a grand hotel or some harlotry-or possibly on a grand
 
-revolution. But not hoarding it. That is the madness of sane men; of men
+revolution. But not hoarding it. That is the [[Madness|madness]] of sane men; of men
 
 who have a soil."
 
 
 
-"How do you know?" asked the King with mild curiosity. "How did you come
+"How do you know?" asked the [[King]] with mild curiosity. "How did you come
 
 to make a study of Jews?"
 
@@ -68,7 +68,7 @@ to make a study of Jews?"
 
 
 
-There was a short silence, and then the King went on with a reassuring
+There was a short [[Silence|silence]], and then the [[King]] went on with a reassuring
 
 smile: "And so you think he may be spending his millions on financing a
 
@@ -78,21 +78,21 @@ revolution."
 
 "It would have to be that or a super-cinema or something," assented
 
-Simon, "and that would explain the pamphlets and printed songs, and may
+Simon, "and that would explain the pamphlets and printed [[songs]], and may
 
 explain other things yet."
 
 
 
-"The most difficult thing to explain," observed the King thoughtfully,
+"The most difficult thing to explain," observed the [[King]] thoughtfully,
 
 "seems to be where any of these people actually are at any given moment.
 
 Professor Phocus is fairly regular in his round at the Museum, but I
 
-doubt if we any of us know his private address. My niece tells me that
+[[Doubt|doubt]] if we any of us know his private address. My niece tells me that
 
-she has actually seen Sebastian, the poet, orating in the public streets,
+she has actually seen [[Sebastian]], the poet, orating in the public streets,
 
 but I've never seen him, and nobody I know seems to have any idea of
 
@@ -112,7 +112,7 @@ Majesty. Through a course of long and rather difficult inquiries, I have
 
 discovered that Lobb, the pawnbroker, did, about two years, ago,
 
-purchase, under another name, a small but comfortable house in Peacock
+purchase, under another name, a small but comfortable [[house]] in Peacock
 
 Crescent. I have set some of my men to watch it, and, according to their
 
@@ -126,7 +126,7 @@ but considerable secrecy, and do not appear to revisit it until the next
 
 little dinner of the kind. There seems to be no regular staff of
 
-servants, and the house is commonly shuttered and deserted, but a servant
+servants, and the [[house]] is commonly shuttered and deserted, but a servant
 
 of one or other of these people generally goes out about an hour before
 
@@ -136,9 +136,9 @@ table. The tradesmen in the neighbourhood report that he appears to be
 
 catering for three or four people, but beyond that they profess to know
 
-nothing. The detective, one of my best men, whom I have set to watch the
+nothing. The [[Detective|detective]], one of my best men, whom I have set to watch the
 
-house, says that the guests always arrive about dusk and very much
+[[house]], says that the guests always arrive about dusk and very much
 
 muffled up in cloaks and coats, but he says he could swear to three of
 
@@ -146,9 +146,9 @@ them."
 
 
 
-"Look here," said the banker after a grave silence, "the fewer people who
+"Look here," said the banker after a [[Grave|grave]] [[Silence|silence]], "the fewer people who
 
-know about this the better. I think it would be well if one or two of us
+know about this the better. I think it would be [[Well|well]] if one or two of us
 
 went down personally, and posted ourselves in that particular street on
 
@@ -162,7 +162,7 @@ guess at the poet."
 
 
 
-King Clovis, in a dry and rather reluctant voice, gave the details of the
+[[King]] Clovis, in a dry and rather reluctant voice, gave the details of the
 
 poet's purple and peacock-green appearance, as conveyed to him by his
 
@@ -170,7 +170,7 @@ indignant niece.
 
 
 
-"Well, that may be a guide, too, sir," said the banker briskly. And that
+"[[Well]], that may be a guide, too, sir," said the banker briskly. And that
 
 was how it came about that the most powerful financier in Pavonia, and
 
@@ -198,7 +198,7 @@ Round the whole semicircle there ran a row of classical pillars, in the
 
 manner of many terraces in Bath or old Brighton; the whole classic curve
 
-looked very cold and marmoreal in the moon which was rising over the
+looked very cold and marmoreal in the [[Moon|moon]] which was rising over the
 
 clump of trees opposite, and it seemed to the watchers that every sound
 
@@ -208,15 +208,15 @@ they made echoed and re-echoed as through a hollow, silver shell.
 
 Their vigil had already been a long one. They had seen, from about the
 
-time of twilight and onward, the routine of the preliminaries which the
+[[Time|time]] of twilight and onward, the routine of the preliminaries which the
 
-police had already noted as marking the rare re-awakenings of the house;
+police had already noted as marking the rare re-awakenings of the [[house]];
 
 the servant in his sober livery going out at the regular hour and
 
 returning with a basket containing bottles of wine and other provisions;
 
-the sudden lighting-up of the dark house from within, or rather of the
+the sudden lighting-up of the dark [[house]] from within, or rather of the
 
 one room in it presumably reserved for the feast; the drawing down of the
 

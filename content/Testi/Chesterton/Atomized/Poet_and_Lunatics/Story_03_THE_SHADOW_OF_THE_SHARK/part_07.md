@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE SHADOW OF THE SHARK (part 7)"
+title: "Poet and Lunatics — THE [[Shadow|SHADOW]] OF THE SHARK (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -24,19 +24,19 @@ down on the sand without leaving a mark to show where he stood?"
 
 Gale nodded.  "That was what puzzled me; till something I saw
 on the sand started a train of thought that led to my asking
-the seafaring people about the tides.  It's very simple; the night
-before we found the body was a flood-tide, and the sea came up higher
+the seafaring people about the tides.  It's very simple; the [[Night|night]]
+before we found the [[Body|body]] was a flood-tide, and the sea came up higher
 than usual; not quite to where Cram was sitting, but pretty near.
 So that was the way that the real human fish came out of the sea.
 That was the way the divine shark really devoured the sacrifice.
-The man came paddling in the foam, like a child on a holiday."
+The man came paddling in the foam, like a [[Child|child]] on a holiday."
 
 "Who came?" asked Garth; but he shuddered.
 
 "Who did go dredging for sea-beasts with a sort of shrimping-net
 along the shore every evening?  Who did inherit the money of
 the old man for his ambitious museum and his scientific career?
-Who did tell me in the garden that a cowslip was only a growth
+Who did tell me in the [[Garden|garden]] that a cowslip was only a growth
 like a cancer?"
 
 "I am compelled to understand you," said the doctor gloomily.
@@ -45,7 +45,7 @@ like a cancer?"
 "To understand Wilkes you must understand a good deal,"
 continued his friend.  "You must reconstruct the crime, as they say.
 Look out over that long line of darkening sea and sand, where the last
-light runs red as blood; that is where he came dredging every day,
+light runs red as [[Blood|blood]]; that is where he came dredging every day,
 in the same bloodshot dusk, looking for big beasts and small;
 and in a true sense everything was fish that came to his net.
 He was constructing his museum as a sort of cosmos; with everything
@@ -55,12 +55,12 @@ he had had magnificent models made, in wax or papier maché,
 of small fish magnified, or extinct fish restored; things that
 South Kensington cannot afford, and certainly Wilkes could not afford.
 But he had persuaded Cram to leave his money to the museum, as you know;
-and for him Cram was simply a silly old fool, who painted pictures
+and for him Cram was simply a silly old [[Fool|fool]], who painted pictures
 he couldn't paint, and talked of sciences he didn't understand;
 and whose only natural function was to die and save the museum.
-Well, when every morning Wilkes had done polishing the glass cases
+[[Well]], when every morning Wilkes had done polishing the glass cases
 of his masks and models, he came round by the cliff and took
-a turn at the fossils in the chalk with his geological hammer;
+a turn at the fossils in the [[chalk]] with his geological hammer;
 then he put it back in that great canvas bag of his, and unslung
 his long shrimping-net and began to wade.  This is where I
 want you to look at that dark red sand and see the picture;
@@ -86,7 +86,7 @@ He plucked him backwards off his stool so that he lay kicking on his
 back on the sand; and doubtless looking more like a large insect
 than ever.  Then the murderer bent forward, propped by one hand
 upon his pole, and the other armed with his geological hammer.
-With the pick at the back of that instrument he struck in what he well
+With the pick at the back of that instrument he struck in what he [[Well|well]]
 knew to be a vital spot.  The curve you noticed in the wound is due
 to that sharp side of the hammer being shaped like a pickaxe.
 But the unusual position of it, and the puzzle of how such a blow could
@@ -99,26 +99,26 @@ caught in it fell out of it, just beyond the dead man's foot.
 At any rate, it was that starfish and the accident of its flying so high
 on the shore, that set my mind drifting in the general direction
 of tides; and the possibility of the murderer having been moving about
-in the water.  If he made any prints the breakers washed them out;
+in the [[Water|water]].  If he made any prints the breakers washed them out;
 and I should never have begun to think of it but for that red
-five-fingered little monster."
+five-fingered little [[Monster|monster]]."
 
 "Then do you mean to tell me," demanded Garth, "that all this
-business about the shadow of the shark had nothing to do with it?"
+business about the [[Shadow|shadow]] of the shark had nothing to do with it?"
 
-"The shadow of the shark had everything to do with it," replied Gale.
-"The murderer hid in the shadow of the shark, and struck from under
-the shadow of the shark.  I doubt if he would have struck at all,
-if he had not had the shadow of that fantastic fin in which to hide.
+"The [[Shadow|shadow]] of the shark had everything to do with it," replied Gale.
+"The murderer hid in the [[Shadow|shadow]] of the shark, and struck from under
+the [[Shadow|shadow]] of the shark.  I [[Doubt|doubt]] if he would have struck at all,
+if he had not had the [[Shadow|shadow]] of that fantastic fin in which to hide.
 And the proof is that he himself took the trouble to emphasize
 and exaggerate the legend of poor Boon dancing before Dagon.
-Do you remember that queer incident of the fish's face at the window?
+Do you remember that queer incident of the fish's face at the [[Window|window]]?
 How did anybody merely playing a practical joke get hold of a
 fish's face?  It was very life-like; for it was one of the masks
 modelled for the Wilkes museum; and Wilkes had left it in the hall
 in his great canvas bag.  It seems simple, doesn't it, for a man
-to raise an alarm inside a house, walk out to see, and instantly
-put on a mask and look in at a window?  That's all he did;
+to raise an alarm inside a [[house]], walk out to see, and instantly
+put on a mask and look in at a [[Window|window]]?  That's all he did;
 and you can see his idea, from the fact that he proceeded to warn
 Sir Owen of an enemy.  He wanted all this idolatrous and mystical
 murder business worked for all it was worth, that his own highly
@@ -129,7 +129,7 @@ Garth sprang to his feet.  "What is to be done?" he said.
 
 "You will know what to do," said the poet.  "You are a good and
 just man, and a practical man, too.  I am not a practical man."
-He rose with a certain air of apology.  "You see, you want an
+He [[Rose|rose]] with a certain air of apology.  "You see, you want an
 unpractical man for finding out this sort of thing."
 
 And once more he gazed down from the precipice into the abysses below.

@@ -17,22 +17,22 @@ tags:
 CHAPTER 16. Nobody’s Weakness
 
 
-The time being come for the renewal of his acquaintance with the Meagles
+The [[Time|time]] being come for the renewal of his acquaintance with the Meagles
 family, Clennam, pursuant to contract made between himself and Mr
 Meagles within the precincts of Bleeding Heart Yard, turned his face
 on a certain Saturday towards Twickenham, where Mr Meagles had a
 cottage-residence of his own. The weather being fine and dry, and any
-English road abounding in interest for him who had been so long away,
+English [[Road|road]] abounding in interest for him who had been so long away,
 he sent his valise on by the coach, and set out to walk. A walk was in
 itself a new enjoyment to him, and one that had rarely diversified his
 life afar off.
 
 He went by Fulham and Putney, for the pleasure of strolling over the
 heath. It was bright and shining there; and when he found himself so far
-on his road to Twickenham, he found himself a long way on his road to
+on his [[Road|road]] to Twickenham, he found himself a long way on his [[Road|road]] to
 a number of airier and less substantial destinations. They had risen
-before him fast, in the healthful exercise and the pleasant road. It is
-not easy to walk alone in the country without musing upon something. And
+before him fast, in the healthful exercise and the pleasant [[Road|road]]. It is
+not easy to walk [[Alone|alone]] in the country without musing upon something. And
 he had plenty of unsettled subjects to meditate upon, though he had been
 walking to the Land’s End.
 
@@ -43,33 +43,33 @@ from rich, and every day of indecision and inaction made his inheritance
 a source of greater anxiety to him. As often as he began to consider how
 to increase this inheritance, or to lay it by, so often his misgiving
 that there was some one with an unsatisfied claim upon his justice,
-returned; and that alone was a subject to outlast the longest walk.
+returned; and that [[Alone|alone]] was a subject to outlast the longest walk.
 Again, there was the subject of his relations with his mother, which
 were now upon an equable and peaceful but never confidential footing,
 and whom he saw several times a week. Little Dorrit was a leading and a
 constant subject: for the circumstances of his life, united to those of
 her own story, presented the little creature to him as the only person
-between whom and himself there were ties of innocent reliance on one
+between whom and himself there were ties of [[Innocent|innocent]] reliance on one
 hand, and affectionate protection on the other; ties of compassion,
 respect, unselfish interest, gratitude, and pity. Thinking of her, and
-of the possibility of her father’s release from prison by the unbarring
-hand of death--the only change of circumstance he could foresee that
+of the possibility of her father’s release from [[Prison|prison]] by the unbarring
+hand of [[Death|death]]--the only change of circumstance he could foresee that
 might enable him to be such a friend to her as he wished to be, by
-altering her whole manner of life, smoothing her rough road, and
-giving her a home--he regarded her, in that perspective, as his adopted
-daughter, his poor child of the Marshalsea hushed to rest. If there were
+altering her whole manner of life, smoothing her rough [[Road|road]], and
+giving her a [[Home|home]]--he regarded her, in that perspective, as his adopted
+daughter, his poor [[Child|child]] of the Marshalsea hushed to rest. If there were
 a last subject in his thoughts, and it lay towards Twickenham, its form
 was so indefinite that it was little more than the pervading atmosphere
 in which these other subjects floated before him.
 
 He had crossed the heath and was leaving it behind when he gained upon a
-figure which had been in advance of him for some time, and which, as
+figure which had been in advance of him for some [[Time|time]], and which, as
 he gained upon it, he thought he knew. He derived this impression
 from something in the turn of the head, and in the figure’s action of
 consideration, as it went on at a sufficiently sturdy walk. But when
 the man--for it was a man’s figure--pushed his hat up at the back of his
 head, and stopped to consider some object before him, he knew it to be
-Daniel Doyce.
+[[Daniel Doyce]].
 
 ‘How do you do, Mr Doyce?’ said Clennam, overtaking him. ‘I am glad to
 see you again, and in a healthier place than the Circumlocution Office.’
@@ -83,7 +83,7 @@ am glad to see you, sir. Will you excuse me if I forget your name?’
 ‘No, no,’ said Daniel, laughing. ‘And now I know what it is. It’s
 Clennam. How do you do, Mr Clennam?’
 
-‘I have some hope,’ said Arthur, as they walked on together, ‘that we
+‘I have some [[Hope|hope]],’ said [[arthur|Arthur]], as they walked on together, ‘that we
 may be going to the same place, Mr Doyce.’
 
 ‘Meaning Twickenham?’ returned Daniel. ‘I am glad to hear it.’
@@ -93,7 +93,7 @@ conversation. The ingenious culprit was a man of great modesty and good
 sense; and, though a plain man, had been too much accustomed to combine
 what was original and daring in conception with what was patient and
 minute in execution, to be by any means an ordinary man. It was at first
-difficult to lead him to speak about himself, and he put off Arthur’s
+difficult to lead him to speak about himself, and he put off [[arthur|Arthur]]’s
 advances in that direction by admitting slightly, oh yes, he had done
 this, and he had done that, and such a thing was of his making, and
 such another thing was his discovery, but it was his trade, you see, his
@@ -105,20 +105,20 @@ he had ‘struck out a few little things’ at the lock-maker’s, which had
 led to his being released from his indentures with a present, which
 present had enabled him to gratify his ardent wish to bind himself to
 a working engineer, under whom he had laboured hard, learned hard, and
-lived hard, seven years. His time being out, he had ‘worked in the shop’
+lived hard, seven years. His [[Time|time]] being out, he had ‘worked in the shop’
 at weekly wages seven or eight years more; and had then betaken
 himself to the banks of the Clyde, where he had studied, and filed, and
 hammered, and improved his knowledge, theoretical and practical, for six
 or seven years more. There he had had an offer to go to Lyons, which he
-had accepted; and from Lyons had been engaged to go to Germany, and in
-Germany had had an offer to go to St Petersburg, and there had done very
-well indeed--never better. However, he had naturally felt a preference
+had accepted; and from Lyons had been engaged to go to [[Germany]], and in
+[[Germany]] had had an offer to go to St Petersburg, and there had done very
+[[Well|well]] indeed--never better. However, he had naturally felt a preference
 for his own country, and a wish to gain distinction there, and to do
 whatever service he could do, there rather than elsewhere. And so he had
-come home. And so at home he had established himself in business, and
+come [[Home|home]]. And so at [[Home|home]] he had established himself in business, and
 had invented and executed, and worked his way on, until, after a dozen
 years of constant suit and service, he had been enrolled in the
-Great British Legion of Honour, the Legion of the Rebuffed of the
+Great British Legion of [[Honour]], the Legion of the Rebuffed of the
 Circumlocution Office, and had been decorated with the Great British
 Order of Merit, the Order of the Disorder of the Barnacles and
 Stiltstalkings.
@@ -138,13 +138,13 @@ made useful. You hold your life on the condition that to the last you
 shall struggle hard for it. Every man holds a discovery on the same
 terms.’
 
-‘That is to say,’ said Arthur, with a growing admiration of his quiet
+‘That is to say,’ said [[arthur|Arthur]], with a growing admiration of his quiet
 companion, ‘you are not finally discouraged even now?’
 
 ‘I have no right to be, if I am,’ returned the other. ‘The thing is as
 true as it ever was.’
 
-When they had walked a little way in silence, Clennam, at once to
+When they had walked a little way in [[Silence|silence]], Clennam, at once to
 change the direct point of their conversation and not to change it
 too abruptly, asked Mr Doyce if he had any partner in his business to
 relieve him of a portion of its anxieties?
@@ -168,11 +168,11 @@ friend over yonder,’ said Doyce, nodding towards Twickenham, ‘extends
 a sort of protection to me, don’t you know, as a man not quite able to
 take care of himself?’
 
-Arthur Clennam could not help joining in the good-humoured laugh, for he
-recognised the truth of the description.
+[[Arthur Clennam]] could not help joining in the good-humoured laugh, for he
+recognised the [[Truth|truth]] of the description.
 
 ‘So I find that I must have a partner who is a man of business and not
-guilty of any inventions,’ said Daniel Doyce, taking off his hat to pass
+guilty of any inventions,’ said [[Daniel Doyce]], taking off his hat to pass
 his hand over his forehead, ‘if it’s only in deference to the current
 opinion, and to uphold the credit of the Works. I don’t think he’ll find
 that I have been very remiss or confused in my way of conducting them;
@@ -185,41 +185,41 @@ is, there’s more to do than there used to be, and the Works are enough
 for me as I grow older. What with the books and correspondence, and
 foreign journeys for which a Principal is necessary, I can’t do all. I
 am going to talk over the best way of negotiating the matter, if I find
-a spare half-hour between this and Monday morning, with my--my Nurse and
+a spare half-hour between this and Monday morning, with my--my [[Nurse]] and
 protector,’ said Doyce, with laughing eyes again. ‘He is a sagacious man
 in business, and has had a good apprenticeship to it.’
 
 After this, they conversed on different subjects until they arrived at
-their journey’s end. A composed and unobtrusive self-sustainment was
-noticeable in Daniel Doyce--a calm knowledge that what was true must
+their [[Journey|journey]]’s end. A composed and unobtrusive [[Self|self]]-sustainment was
+noticeable in [[Daniel Doyce]]--a calm knowledge that what was true must
 remain true, in spite of all the Barnacles in the family ocean, and
-would be just the truth, and neither more nor less when even that sea
-had run dry--which had a kind of greatness in it, though not of the
+would be just the [[Truth|truth]], and neither more nor less when even that sea
+had run dry--which had a kind of [[Greatness|greatness]] in it, though not of the
 official quality.
 
-As he knew the house well, he conducted Arthur to it by the way that
+As he knew the [[house]] [[Well|well]], he conducted [[arthur|Arthur]] to it by the way that
 showed it to the best advantage. It was a charming place (none the worse
-for being a little eccentric), on the road by the river, and just what
-the residence of the Meagles family ought to be. It stood in a garden,
-no doubt as fresh and beautiful in the May of the Year as Pet now was
+for being a little eccentric), on the [[Road|road]] by the [[River|river]], and just what
+the residence of the Meagles family ought to be. It stood in a [[Garden|garden]],
+no [[Doubt|doubt]] as fresh and beautiful in the May of the Year as Pet now was
 in the May of her life; and it was defended by a goodly show of handsome
 trees and spreading evergreens, as Pet was by Mr and Mrs Meagles. It
-was made out of an old brick house, of which a part had been altogether
+was made out of an old brick [[house]], of which a part had been altogether
 pulled down, and another part had been changed into the present cottage;
 so there was a hale elderly portion, to represent Mr and Mrs Meagles,
 and a young picturesque, very pretty portion to represent Pet. There was
 even the later addition of a conservatory sheltering itself against it,
 uncertain of hue in its deep-stained glass, and in its more transparent
-portions flashing to the sun’s rays, now like fire and now like harmless
-water drops; which might have stood for Tattycoram. Within view was
-the peaceful river and the ferry-boat, to moralise to all the inmates
+portions flashing to the sun’s rays, now like [[Fire|fire]] and now like harmless
+[[Water|water]] drops; which might have stood for Tattycoram. Within view was
+the peaceful [[River|river]] and the ferry-boat, to moralise to all the inmates
 saying: Young or old, passionate or tranquil, chafing or content, you,
 thus runs the current always. Let the heart swell into what discord it
-will, thus plays the rippling water on the prow of the ferry-boat ever
+will, thus plays the rippling [[Water|water]] on the prow of the ferry-boat ever
 the same tune. Year after year, so much allowance for the drifting of
 the boat, so many miles an hour the flowing of the stream, here the
-rushes, there the lilies, nothing uncertain or unquiet, upon this road
-that steadily runs away; while you, upon your flowing road of time, are
+rushes, there the lilies, nothing uncertain or unquiet, upon this [[Road|road]]
+that steadily runs away; while you, upon your flowing [[Road|road]] of [[Time|time]], are
 so capricious and distracted.
 
 The bell at the gate had scarcely sounded when Mr Meagles came out to
@@ -229,11 +229,11 @@ had come out, when Tattycoram came out. Never had visitors a more
 hospitable reception.
 
 ‘Here we are, you see,’ said Mr Meagles, ‘boxed up, Mr Clennam, within
-our own home-limits, as if we were never going to expand--that is,
+our own [[Home|home]]-limits, as if we were never going to expand--that is,
 travel--again. Not like Marseilles, eh? No allonging and marshonging
 here!’
 
-‘A different kind of beauty, indeed!’ said Clennam, looking about him.
+‘A different kind of [[Beauty|beauty]], indeed!’ said Clennam, looking about him.
 
 ‘But, Lord bless me!’ cried Mr Meagles, rubbing his hands with a relish,
 ‘it was an uncommonly pleasant thing being in quarantine, wasn’t it?
@@ -244,10 +244,10 @@ This was Mr Meagles’s invariable habit. Always to object to everything
 while he was travelling, and always to want to get back to it when he
 was not travelling.
 
-‘If it was summer-time,’ said Mr Meagles, ‘which I wish it was on your
+‘If it was [[Summer|summer]]-[[Time|time]],’ said Mr Meagles, ‘which I wish it was on your
 account, and in order that you might see the place at its best, you
-would hardly be able to hear yourself speak for birds. Being practical
-people, we never allow anybody to scare the birds; and the birds, being
+would hardly be able to hear yourself speak for [[Birds|birds]]. Being practical
+people, we never allow anybody to scare the [[Birds|birds]]; and the [[Birds|birds]], being
 practical people too, come about us in myriads. We are delighted to see
 you, Clennam (if you’ll allow me, I shall drop the Mister); I heartily
 assure you, we are delighted.’
@@ -258,23 +258,23 @@ added ‘except once--since we last walked to and fro, looking down at the
 Mediterranean.’
 
 ‘Ah!’ returned Mr Meagles. ‘Something like a look out, _that_ was, wasn’t
-it? I don’t want a military government, but I shouldn’t mind a little
+it? I don’t want a military [[government]], but I shouldn’t mind a little
 allonging and marshonging--just a dash of it--in this neighbourhood
 sometimes. It’s Devilish still.’
 
 Bestowing this eulogium on the retired character of his retreat with a
-dubious shake of the head, Mr Meagles led the way into the house. It was
+dubious shake of the head, Mr Meagles led the way into the [[house]]. It was
 just large enough, and no more; was as pretty within as it was without,
-and was perfectly well-arranged and comfortable. Some traces of the
+and was perfectly [[Well|well]]-arranged and comfortable. Some traces of the
 migratory habits of the family were to be observed in the covered frames
 and furniture, and wrapped-up hangings; but it was easy to see that it
 was one of Mr Meagles’s whims to have the cottage always kept, in their
 absence, as if they were always coming back the day after to-morrow. Of
 articles collected on his various expeditions, there was such a vast
 miscellany that it was like the dwelling of an amiable Corsair. There
-were antiquities from Central Italy, made by the best modern houses in
-that department of industry; bits of mummy from Egypt (and perhaps
-Birmingham); model gondolas from Venice; model villages from
+were antiquities from Central [[Italy]], made by the best modern houses in
+that department of industry; bits of mummy from [[Egypt]] (and perhaps
+Birmingham); model gondolas from [[Venice]]; model villages from
 Switzerland; morsels of tesselated pavement from Herculaneum and
 Pompeii, like petrified minced veal; ashes out of tombs, and lava out of
 Vesuvius; Spanish fans, Spezzian straw hats, Moorish slippers, Tuscan
@@ -293,10 +293,10 @@ _had_ considered them rather fine. One man, who at any rate ought to
 know something of the subject, had declared that ‘Sage, Reading’ (a
 specially oily old gentleman in a blanket, with a swan’s-down tippet for
 a beard, and a web of cracks all over him like rich pie-crust), to be a
-fine Guercino. As for Sebastian del Piombo there, you would judge for
+fine Guercino. As for [[Sebastian]] del Piombo there, you would judge for
 yourself; if it were not his later manner, the question was, Who was it?
 Titian, that might or might not be--perhaps he had only touched it.
-Daniel Doyce said perhaps he hadn’t touched it, but Mr Meagles rather
+[[Daniel Doyce]] said perhaps he hadn’t touched it, but Mr Meagles rather
 declined to overhear the remark.
 
 When he had shown all his spoils, Mr Meagles took them into his own
@@ -307,10 +307,10 @@ for shovelling out money.
 
 ‘Here they are, you see,’ said Mr Meagles. ‘I stood behind these two
 articles five-and-thirty years running, when I no more thought of
-gadding about than I now think of--staying at home. When I left the Bank
+gadding about than I now think of--staying at [[Home|home]]. When I left the Bank
 for good, I asked for them, and brought them away with me. I mention it
-at once, or you might suppose that I sit in my counting-house (as Pet
-says I do), like the king in the poem of the four-and-twenty blackbirds,
+at once, or you might suppose that I sit in my counting-[[house]] (as Pet
+says I do), like the [[King|king]] in the poem of the four-and-twenty blackbirds,
 counting out my money.’
 
 Clennam’s eyes had strayed to a natural picture on the wall, of two
@@ -318,7 +318,7 @@ pretty little girls with their arms entwined. ‘Yes, Clennam,’ said
 Mr Meagles, in a lower voice. ‘There they both are. It was taken some
 seventeen years ago. As I often say to Mother, they were babies then.’
 
-‘Their names?’ said Arthur.
+‘Their names?’ said [[arthur|Arthur]].
 
 ‘Ah, to be sure! You have never heard any name but Pet. Pet’s name is
 Minnie; her sister’s Lillie.’
@@ -333,13 +333,13 @@ your portrait.’
 
 ‘D’ye hear that, Mother?’ cried Mr Meagles to his wife, who had followed
 her daughter. ‘It’s always the same, Clennam; nobody can decide. The
-child to your left is Pet.’
+[[Child|child]] to your left is Pet.’
 
-The picture happened to be near a looking-glass. As Arthur looked at
-it again, he saw, by the reflection of the mirror, Tattycoram stop in
+The picture happened to be near a looking-glass. As [[arthur|Arthur]] looked at
+it again, he saw, by the reflection of the [[Mirror|mirror]], Tattycoram stop in
 passing outside the door, listen to what was going on, and pass away
 with an angry and contemptuous frown upon her face, that changed its
-beauty into ugliness.
+[[Beauty|beauty]] into ugliness.
 
 ‘But come!’ said Mr Meagles. ‘You have had a long walk, and will be glad
 to get your boots off. As to Daniel here, I suppose he’d never think of
@@ -356,11 +356,11 @@ screws, and cylinders, and a thousand things.’
 less. But never mind, never mind! Whatever pleases you, pleases me.’
 
 Clennam could not help speculating, as he seated himself in his room
-by the fire, whether there might be in the breast of this honest,
+by the [[Fire|fire]], whether there might be in the breast of this honest,
 affectionate, and cordial Mr Meagles, any microscopic portion of
 the mustard-seed that had sprung up into the great tree of the
 Circumlocution Office. His curious sense of a general superiority to
-Daniel Doyce, which seemed to be founded, not so much on anything
+[[Daniel Doyce]], which seemed to be founded, not so much on anything
 in Doyce’s personal character as on the mere fact of his being an
 originator and a man out of the beaten track of other men, suggested the
 idea. It might have occupied him until he went down to dinner an hour
@@ -368,39 +368,39 @@ afterwards, if he had not had another question to consider, which
 had been in his mind so long ago as before he was in quarantine at
 Marseilles, and which had now returned to it, and was very urgent with
 it. No less a question than this: Whether he should allow himself to
-fall in love with Pet?
+fall in [[Love|love]] with Pet?
 
 He was twice her age. (He changed the leg he had crossed over the other,
 and tried the calculation again, but could not bring out the total at
-less.) He was twice her age. Well! He was young in appearance, young
+less.) He was twice her age. [[Well]]! He was young in appearance, young
 in health and strength, young in heart. A man was certainly not old
 at forty; and many men were not in circumstances to marry, or did not
-marry, until they had attained that time of life. On the other hand, the
+marry, until they had attained that [[Time|time]] of life. On the other hand, the
 question was, not what he thought of the point, but what she thought of
 it.
 
 He believed that Mr Meagles was disposed to entertain a ripe regard for
 him, and he knew that he had a sincere regard for Mr Meagles and his
 good wife. He could foresee that to relinquish this beautiful only
-child, of whom they were so fond, to any husband, would be a trial
-of their love which perhaps they never yet had had the fortitude to
+[[Child|child]], of whom they were so fond, to any husband, would be a trial
+of their [[Love|love]] which perhaps they never yet had had the fortitude to
 contemplate. But the more beautiful and winning and charming she, the
 nearer they must always be to the necessity of approaching it. And why
-not in his favour, as well as in another’s?
+not in his favour, as [[Well|well]] as in another’s?
 
 When he had got so far, it came again into his head that the question
 was, not what they thought of it, but what she thought of it.
 
-Arthur Clennam was a retiring man, with a sense of many deficiencies;
+[[Arthur Clennam]] was a retiring man, with a sense of many deficiencies;
 and he so exalted the merits of the beautiful Minnie in his mind, and
 depressed his own, that when he pinned himself to this point, his hopes
 began to fail him. He came to the final resolution, as he made himself
-ready for dinner, that he would not allow himself to fall in love with
+ready for dinner, that he would not allow himself to fall in [[Love|love]] with
 Pet.
 
 There were only five, at a round table, and it was very pleasant indeed.
 They had so many places and people to recall, and they were all so easy
-and cheerful together (Daniel Doyce either sitting out like an amused
+and cheerful together ([[Daniel Doyce]] either sitting out like an amused
 spectator at cards, or coming in with some shrewd little experiences of
 his own, when it happened to be to the purpose), that they might have
 been together twenty times, and not have known so much of one another.
@@ -424,7 +424,7 @@ An impatient glance from Tattycoram seemed, as Clennam saw it, to answer
 ‘With my eyes!’ But her only answer in words was: ‘I met her near the
 church.’
 
-‘What was she doing there I wonder!’ said Mr Meagles. ‘Not going to it,
+‘What was she doing there I [[Wonder|wonder]]!’ said Mr Meagles. ‘Not going to it,
 I should think.’
 
 ‘She had written to me first,’ said Tattycoram.
@@ -433,15 +433,15 @@ I should think.’
 some one else was touching me!’
 
 She said it in a quick involuntary way, but half playfully, and not more
-petulantly or disagreeably than a favourite child might have done, who
+petulantly or disagreeably than a favourite [[Child|child]] might have done, who
 laughed next moment. Tattycoram set her full red lips together, and
 crossed her arms upon her bosom.
 
 ‘Did you wish to know, sir,’ she said, looking at Mr Meagles, ‘what Miss
 Wade wrote to me about?’
 
-‘Well, Tattycoram,’ returned Mr Meagles, ‘since you ask the question,
-and we are all friends here, perhaps you may as well mention it, if you
+‘[[Well]], Tattycoram,’ returned Mr Meagles, ‘since you ask the question,
+and we are all friends here, perhaps you may as [[Well|well]] mention it, if you
 are so inclined.’
 
 ‘She knew, when we were travelling, where you lived,’ said Tattycoram,
@@ -449,7 +449,7 @@ are so inclined.’
 
 ‘Not quite in a good temper, Tattycoram?’ suggested Mr Meagles,
 shaking his head at the dark eyes with a quiet caution. ‘Take a little
-time--count five-and-twenty, Tattycoram.’
+[[Time|time]]--count five-and-twenty, Tattycoram.’
 
 She pressed her lips together again, and took a long deep breath.
 
@@ -476,11 +476,11 @@ curls, and Tattycoram went away.
 dumb-waiter on his right hand to twirl the sugar towards himself.
 ‘There’s a girl who might be lost and ruined, if she wasn’t among
 practical people. Mother and I know, solely from being practical, that
-there are times when that girl’s whole nature seems to roughen itself
+there are times when that girl’s whole [[Nature|nature]] seems to roughen itself
 against seeing us so bound up in Pet. No father and mother were bound
-up in her, poor soul. I don’t like to think of the way in which that
-unfortunate child, with all that passion and protest in her, feels when
-she hears the Fifth Commandment on a Sunday. I am always inclined to
+up in her, poor [[Soul|soul]]. I don’t like to think of the way in which that
+unfortunate [[Child|child]], with all that passion and protest in her, feels when
+she hears the Fifth Commandment on a [[Sunday]]. I am always inclined to
 call out, Church, Count five-and-twenty, Tattycoram.’
 
 Besides his dumb-waiter, Mr Meagles had two other not dumb waiters in
@@ -490,17 +490,17 @@ see?’ said Mr Meagles on this head. ‘As I always say to Mother, why
 not have something pretty to look at, if you have anything at all?’
 
 A certain Mrs Tickit, who was Cook and Housekeeper when the family were
-at home, and Housekeeper only when the family were away, completed the
-establishment. Mr Meagles regretted that the nature of the duties in
+at [[Home|home]], and Housekeeper only when the family were away, completed the
+establishment. Mr Meagles regretted that the [[Nature|nature]] of the duties in
 which she was engaged, rendered Mrs Tickit unpresentable at present,
 but hoped to introduce her to the new visitor to-morrow. She was an
 important part of the Cottage, he said, and all his friends knew her.
 That was her picture up in the corner. When they went away, she always
 put on the silk-gown and the jet-black row of curls represented in that
 portrait (her hair was reddish-grey in the kitchen), established herself
-in the breakfast-room, put her spectacles between two particular leaves
+in the breakfast-room, put her spectacles between two particular [[Leaves|leaves]]
 of Doctor Buchan’s Domestic Medicine, and sat looking over the blind all
-day until they came back again. It was supposed that no persuasion could
+day until they came back again. It was supposed that no [[Persuasion|persuasion]] could
 be invented which would induce Mrs Tickit to abandon her post at the
 blind, however long their absence, or to dispense with the attendance
 of Dr Buchan; the lucubrations of which learned practitioner, Mr Meagles
@@ -509,33 +509,33 @@ word in her life.
 
 In the evening they played an old-fashioned rubber; and Pet sat looking
 over her father’s hand, or singing to herself by fits and starts at the
-piano. She was a spoilt child; but how could she be otherwise? Who could
+piano. She was a spoilt [[Child|child]]; but how could she be otherwise? Who could
 be much with so pliable and beautiful a creature, and not yield to her
-endearing influence? Who could pass an evening in the house, and not
-love her for the grace and charm of her very presence in the room? This
+endearing influence? Who could pass an evening in the [[house]], and not
+[[Love|love]] her for the grace and charm of her very presence in the room? This
 was Clennam’s reflection, notwithstanding the final conclusion at which
 he had arrived up-stairs.
 
 In making it, he revoked. ‘Why, what are you thinking of, my good sir?’
 asked the astonished Mr Meagles, who was his partner. ‘I beg your
-pardon. Nothing,’ returned Clennam. ‘Think of something, next time;
+pardon. Nothing,’ returned Clennam. ‘Think of something, next [[Time|time]];
 that’s a dear fellow,’ said Mr Meagles. Pet laughingly believed he had
 been thinking of Miss Wade. ‘Why of Miss Wade, Pet?’ asked her father.
-‘Why, indeed!’ said Arthur Clennam. Pet coloured a little, and went to
+‘Why, indeed!’ said [[Arthur Clennam]]. Pet coloured a little, and went to
 the piano again.
 
-As they broke up for the night, Arthur overheard Doyce ask his host if
+As they broke up for the [[Night|night]], [[arthur|Arthur]] overheard Doyce ask his host if
 he could give him half an hour’s conversation before breakfast in the
-morning? The host replying willingly, Arthur lingered behind a moment,
+morning? The host replying willingly, [[arthur|Arthur]] lingered behind a moment,
 having his own word to add to that topic.
 
-‘Mr Meagles,’ he said, on their being left alone, ‘do you remember when
-you advised me to go straight to London?’
+‘Mr Meagles,’ he said, on their being left [[Alone|alone]], ‘do you remember when
+you advised me to go straight to [[London]]?’
 
-‘Perfectly well.’
+‘Perfectly [[Well|well]].’
 
 ‘And when you gave me some other good advice which I needed at that
-time?’
+[[Time|time]]?’
 
 ‘I won’t say what it was worth,’ answered Mr Meagles: ‘but of course I
 remember our being very pleasant and confidential together.’
@@ -562,7 +562,7 @@ likely to coincide, perhaps you will let him know my available position.
 I speak, of course, in ignorance of the details, and they may be
 unsuitable on both sides.’
 
-‘No doubt, no doubt,’ said Mr Meagles, with the caution belonging to the
+‘No [[Doubt|doubt]], no [[Doubt|doubt]],’ said Mr Meagles, with the caution belonging to the
 scales and scoop.
 
 ‘But they will be a question of figures and accounts--’
@@ -571,7 +571,7 @@ scales and scoop.
 belonging to the scales and scoop.
 
 ‘--And I shall be glad to enter into the subject, provided Mr Doyce
-responds, and you think well of it. If you will at present, therefore,
+responds, and you think [[Well|well]] of it. If you will at present, therefore,
 allow me to place it in your hands, you will much oblige me.’
 
 ‘Clennam, I accept the trust with readiness,’ said Mr Meagles. ‘And
@@ -586,12 +586,12 @@ you.’
 ‘You must guide him, you know; you must steer him; you must direct him;
 he is one of a crotchety sort,’ said Mr Meagles, evidently meaning
 nothing more than that he did new things and went new ways; ‘but he is
-as honest as the sun, and so good night!’
+as honest as the sun, and so good [[Night|night]]!’
 
-Clennam went back to his room, sat down again before his fire, and made
-up his mind that he was glad he had resolved not to fall in love with
+Clennam went back to his room, sat down again before his [[Fire|fire]], and made
+up his mind that he was glad he had resolved not to fall in [[Love|love]] with
 Pet. She was so beautiful, so amiable, so apt to receive any true
-impression given to her gentle nature and her innocent heart, and make
+impression given to her gentle [[Nature|nature]] and her [[Innocent|innocent]] heart, and make
 the man who should be so happy as to communicate it, the most fortunate
 and enviable of all men, that he was very glad indeed he had come to
 that conclusion.
@@ -602,19 +602,19 @@ justify himself, perhaps.
 
 ‘Suppose that a man,’ so his thoughts ran, ‘who had been of age some
 twenty years or so; who was a diffident man, from the circumstances of
-his youth; who was rather a grave man, from the tenor of his life; who
+his youth; who was rather a [[Grave|grave]] man, from the tenor of his life; who
 knew himself to be deficient in many little engaging qualities which
 he admired in others, from having been long in a distant region, with
 nothing softening near him; who had no kind sisters to present to her;
-who had no congenial home to make her known in; who was a stranger in
+who had no congenial [[Home|home]] to make her known in; who was a stranger in
 the land; who had not a fortune to compensate, in any measure, for
-these defects; who had nothing in his favour but his honest love and his
-general wish to do right--suppose such a man were to come to this house,
+these defects; who had nothing in his favour but his honest [[Love|love]] and his
+general wish to do right--suppose such a man were to come to this [[house]],
 and were to yield to the captivation of this charming girl, and were to
-persuade himself that he could hope to win her; what a weakness it would
+persuade himself that he could [[Hope|hope]] to win her; what a weakness it would
 be!’
 
-He softly opened his window, and looked out upon the serene river. Year
+He softly opened his [[Window|window]], and looked out upon the serene [[River|river]]. Year
 after year so much allowance for the drifting of the ferry-boat, so
 many miles an hour the flowing of the stream, here the rushes, there the
 lilies, nothing uncertain or unquiet.
@@ -623,5 +623,5 @@ Why should he be vexed or sore at heart? It was not his weakness that he
 had imagined. It was nobody’s, nobody’s within his knowledge; why should
 it trouble him? And yet it did trouble him. And he thought--who has not
 thought for a moment, sometimes?--that it might be better to flow away
-monotonously, like the river, and to compound for its insensibility to
-happiness with its insensibility to pain.
+monotonously, like the [[River|river]], and to compound for its insensibility to
+happiness with its insensibility to [[Pain|pain]].

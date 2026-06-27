@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 5: THE HOME OF MAN"
+title: "whats wrong — Part 5: THE [[Home|HOME]] OF MAN"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/whats-wrong-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-PART FIVE:  THE HOME OF MAN
+PART FIVE:  THE [[Home|HOME]] OF MAN
 
  I      The Empire of the Insect
  II     The Fallacy of the Umbrella Stand
@@ -25,7 +25,7 @@ PART FIVE:  THE HOME OF MAN
 THREE NOTES
 
  I      On Female Suffrage
- II     On Cleanliness in Education
+ II     On Cleanliness in [[Education]]
  III    On Peasant Proprietorship
 
 * * *
@@ -59,19 +59,19 @@ trouble you with a book which, even if it achieves its object
 (which is monstrously unlikely) can only be a thundering
 gallop of theory?
 
-Well, I do it partly because I think you politicians are none
+[[Well]], I do it partly because I think you politicians are none
 the worse for a few inconvenient ideals; but more because you
 will recognise the many arguments we have had, those arguments
 which the most wonderful ladies in the world can never endure
 for very long.  And, perhaps, you will agree with me that
-the thread of comradeship and conversation must be protected
+the thread of [[Comradeship|comradeship]] and conversation must be protected
 because it is so frivolous.  It must be held sacred, it must
 not be snapped, because it is not worth tying together again.
 It is exactly because argument is idle that men (I mean males)
 must take it seriously; for when (we feel), until the crack
 of doom, shall we have so delightful a difference again?
 But most of all I offer it to you because there exists not
-only comradeship, but a very different thing, called friendship;
+only [[Comradeship|comradeship]], but a very different thing, called [[Friendship|friendship]];
 an agreement under all the arguments and a thread which,
 please God, will never break.
 

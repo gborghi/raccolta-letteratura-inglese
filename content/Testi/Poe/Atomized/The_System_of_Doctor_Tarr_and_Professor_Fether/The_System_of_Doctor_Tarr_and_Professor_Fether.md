@@ -1,5 +1,5 @@
 ---
-title: "The System of Doctor Tarr and Professor Fether"
+title: "[[The System of Doctor Tarr and Professor Fether]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
@@ -13,13 +13,13 @@ tags:
 </nav>
 
 
-During the autumn of 18—, while on a tour through the extreme
+During the [[Autumn|autumn]] of 18—, while on a tour through the extreme
 
       southern provinces of France, my route led me within a few miles
 
-      of a certain _Maison de Santé_ or private mad-house, about which
+      of a certain _Maison de Santé_ or private mad-[[house]], about which
 
-      I had heard much, in Paris, from my medical friends. As I had
+      I had heard much, in [[Paris]], from my medical friends. As I had
 
       never visited a place of the kind, I thought the opportunity too
 
@@ -61,11 +61,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       up to the door and introduce me; although his feelings on the
 
-      subject of lunacy would not permit of his entering the house.
+      subject of lunacy would not permit of his entering the [[house]].
 
 
 
-      I thanked him, and, turning from the main road, we entered a
+      I thanked him, and, turning from the main [[Road|road]], we entered a
 
       grass-grown by-path, which, in half an hour, nearly lost itself
 
@@ -79,7 +79,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       neglect. Its aspect inspired me with absolute dread, and,
 
-      checking my horse, I half resolved to turn back. I soon, however,
+      checking my [[Horse|horse]], I half resolved to turn back. I soon, however,
 
       grew ashamed of my weakness, and proceeded.
 
@@ -101,7 +101,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      My friend, having presented me, mentioned my desire to inspect
+      My friend, having presented me, mentioned my [[Desire|desire]] to inspect
 
       the establishment, and received Monsieur Maillard’s assurance
 
@@ -115,13 +115,13 @@ During the autumn of 18—, while on a tour through the extreme
 
       exceedingly neat parlor, containing, among other indications of
 
-      refined taste, many books, drawings, pots of flowers, and musical
+      refined taste, many books, drawings, pots of [[Flowers|flowers]], and musical
 
-      instruments. A cheerful fire blazed upon the hearth. At a piano,
+      instruments. A cheerful [[Fire|fire]] blazed upon the hearth. At a piano,
 
       singing an aria from Bellini, sat a young and very beautiful
 
-      woman, who, at my entrance, paused in her song, and received me
+      woman, who, at my entrance, paused in her [[Song|song]], and received me
 
       with graceful courtesy. Her voice was low, and her whole manner
 
@@ -137,7 +137,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      I had heard, at Paris, that the institution of Monsieur Maillard
+      I had heard, at [[Paris]], that the institution of Monsieur Maillard
 
       was managed upon what is vulgarly termed the “system of
 
@@ -147,7 +147,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       were left much apparent liberty, and that most of them were
 
-      permitted to roam about the house and grounds in the ordinary
+      permitted to roam about the [[house]] and grounds in the ordinary
 
       apparel of persons in right mind.
 
@@ -171,7 +171,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       sense, but a long acquaintance with the metaphysics of mania, had
 
-      taught me to put no faith in such evidence of sanity, and I
+      taught me to put no [[Faith|faith]] in such evidence of [[Sanity|sanity]], and I
 
       continued to practise, throughout the interview, the caution with
 
@@ -199,7 +199,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       course you will know how to excuse me. The excellent
 
-      administration of your affairs here is well understood in Paris,
+      administration of your affairs here is [[Well|well]] understood in [[Paris]],
 
       and I thought it just possible, you know—”
 
@@ -221,7 +221,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       to a dangerous frenzy by injudicious persons who called to
 
-      inspect the house. Hence I was obliged to enforce a rigid system
+      inspect the [[house]]. Hence I was obliged to enforce a rigid system
 
       of exclusion; and none obtained access to the premises upon whose
 
@@ -253,7 +253,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       was, at all times, appalling; and its advantages have been much
 
-      overrated. I believe, sir, that in this house it has been given a
+      overrated. I believe, sir, that in this [[house]] it has been given a
 
       fair trial, if ever in any. We did every thing that rational
 
@@ -303,7 +303,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “By no means. We put much faith in amusements of a simple kind,
+      “By no means. We put much [[Faith|faith]] in amusements of a simple kind,
 
       such as music, dancing, gymnastic exercises generally, cards,
 
@@ -317,9 +317,9 @@ During the autumn of 18—, while on a tour through the extreme
 
       confidence in the understanding or discretion of a madman, is to
 
-      gain him body and soul. In this way we were enabled to dispense
+      gain him [[Body|body]] and [[Soul|soul]]. In this way we were enabled to dispense
 
-      with an expensive body of keepers.”
+      with an expensive [[Body|body]] of keepers.”
 
 
 
@@ -369,7 +369,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “You are young yet, my friend,” replied my host, “but the time
+      “You are young yet, my friend,” replied my host, “but the [[Time|time]]
 
       will arrive when you will learn to judge for yourself of what is
 
@@ -383,7 +383,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       recovered from the fatigue of your ride, I will be happy to take
 
-      you over the house, and introduce to you a system which, in my
+      you over the [[house]], and introduce to you a system which, in my
 
       opinion, and in that of every one who has witnessed its
 
@@ -449,7 +449,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       shamefully bare. I observed, too, that very few of the dresses
 
-      were well made—or, at least, that very few of them fitted the
+      were [[Well|well]] made—or, at least, that very few of them fitted the
 
       wearers. In looking about, I discovered the interesting girl to
 
@@ -475,7 +475,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       feelings during the repast, at finding myself dining with
 
-      lunatics; but I remembered having been informed, in Paris, that
+      lunatics; but I remembered having been informed, in [[Paris]], that
 
       the southern provincialists were a peculiarly eccentric people,
 
@@ -563,7 +563,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       ladies, as usual, talked a great deal. I soon found that nearly
 
-      all the company were well educated; and my host was a world of
+      all the company were [[Well|well]] educated; and my host was a world of
 
       good-humored anecdote in himself. He seemed quite willing to
 
@@ -597,11 +597,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       ago, a person who had taken it into his head that he was a
 
-      donkey—which allegorically speaking, you will say, was quite
+      [[donkey]]—which allegorically speaking, you will say, was quite
 
       true. He was a troublesome patient; and we had much ado to keep
 
-      him within bounds. For a long time he would eat nothing but
+      him within bounds. For a long [[Time|time]] he would eat nothing but
 
       thistles; but of this idea we soon cured him by insisting upon
 
@@ -621,7 +621,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       Our friend here can surely comprehend you without all this. Upon
 
-      my word, you are nearly as great a donkey as the poor unfortunate
+      my word, you are nearly as great a [[donkey]] as the poor unfortunate
 
       imagined himself. Your acting is very natural, as I live.”
 
@@ -667,7 +667,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “Thank you, no,” I replied; “to say the truth, I am not
+      “Thank you, no,” I replied; “to say the [[Truth|truth]], I am not
 
       particularly partial to veal _à la St_.—what is it?—for I do not
 
@@ -721,9 +721,9 @@ During the autumn of 18—, while on a tour through the extreme
 
       been broken off,—“and then, among other oddities, we had a
 
-      patient, once upon a time, who very pertinaciously maintained
+      patient, once upon a [[Time|time]], who very pertinaciously maintained
 
-      himself to be a Cordova cheese, and went about, with a knife in
+      himself to be a Cordova [[cheese]], and went about, with a knife in
 
       his hand, soliciting his friends to try a small slice from the
 
@@ -731,7 +731,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “He was a great fool, beyond doubt,” interposed some one, “but
+      “He was a great [[Fool|fool]], beyond [[Doubt|doubt]],” interposed some one, “but
 
       not to be compared with a certain individual whom we all know,
 
@@ -751,7 +751,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       tongue upon the teeth, created a sharp hissing and fizzing, which
 
-      lasted for several minutes, in imitation of the frothing of
+      lasted for several minutes, in [[Imitation|imitation]] of the frothing of
 
       champagne. This behavior, I saw plainly, was not very pleasing to
 
@@ -787,7 +787,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “I have no doubt of it,” I said.
+      “I have no [[Doubt|doubt]] of it,” I said.
 
 
 
@@ -835,7 +835,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       Bouffon Le Grand—another extraordinary personage in his way. He
 
-      grew deranged through love, and fancied himself possessed of two
+      grew deranged through [[Love|love]], and fancied himself possessed of two
 
       heads. One of these he maintained to be the head of Cicero; the
 
@@ -937,7 +937,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “Oh, Madame Joyeuse was a fool!” she exclaimed, “but there was
+      “Oh, Madame Joyeuse was a [[Fool|fool]]!” she exclaimed, “but there was
 
       really much sound sense, after all, in the opinion of Eugénie
 
@@ -965,11 +965,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       Salsafette from putting herself upon a par with the Medicean
 
-      Venus, when the point was very effectually and suddenly
+      [[Venus]], when the point was very effectually and suddenly
 
       accomplished by a series of loud screams, or yells, from some
 
-      portion of the main body of the _château_.
+      portion of the main [[Body|body]] of the _château_.
 
 
 
@@ -985,7 +985,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       a repetition of the sound. It came again—louder and seemingly
 
-      nearer—and then a third time very loud, and then a fourth time
+      nearer—and then a third [[Time|time]] very loud, and then a fourth [[Time|time]]
 
       with a vigor evidently diminished. At this apparent dying away of
 
@@ -1003,9 +1003,9 @@ During the autumn of 18—, while on a tour through the extreme
 
       lunatics, every now and then, get up a howl in concert; one
 
-      starting another, as is sometimes the case with a bevy of dogs at
+      starting another, as is sometimes the case with a bevy of [[dogs]] at
 
-      night. It occasionally happens, however, that the _concerto_
+      [[Night|night]]. It occasionally happens, however, that the _concerto_
 
       yells are succeeded by a simultaneous effort at breaking loose;
 
@@ -1037,7 +1037,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “It is generally so, but not always. Some time ago, there were
+      “It is generally so, but not always. Some [[Time|time]] ago, there were
 
       about twenty-seven patients here; and, of that number, no less
 
@@ -1061,7 +1061,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       “Hold your tongues, every one of you!” said my host, in a great
 
-      rage. Whereupon the whole company maintained a dead silence for
+      rage. Whereupon the whole company maintained a dead [[Silence|silence]] for
 
       nearly a minute. As for one lady, she obeyed Monsieur Maillard to
 
@@ -1213,11 +1213,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       “I am forced to acknowledge my ignorance,” I replied; “but the
 
-      truth should be held inviolate above all things. Nevertheless, I
+      [[Truth|truth]] should be held inviolate above all things. Nevertheless, I
 
-      feel humbled to the dust, not to be acquainted with the works of
+      feel humbled to the [[Dust|dust]], not to be acquainted with the works of
 
-      these, no doubt, extraordinary men. I will seek out their
+      these, no [[Doubt|doubt]], extraordinary men. I will seek out their
 
       writings forthwith, and peruse them with deliberate care.
 
@@ -1257,7 +1257,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       ordinary key stood no more chance of being heard than the voice
 
-      of a fish from the bottom of Niagara Falls.
+      of a fish from the [[Bottom|bottom]] of Niagara Falls.
 
 
 
@@ -1273,31 +1273,31 @@ During the autumn of 18—, while on a tour through the extreme
 
       indeed. There is no accounting for the caprices of madmen; and,
 
-      in my opinion as well as in that of Dr. Tarr and Professor
+      in my opinion as [[Well|well]] as in that of Dr. Tarr and Professor
 
       Fether, it is never safe to permit them to run at large
 
       unattended. A lunatic may be ‘soothed,’ as it is called, for a
 
-      time, but, in the end, he is very apt to become obstreperous. His
+      [[Time|time]], but, in the end, he is very apt to become obstreperous. His
 
       cunning, too, is proverbial and great. If he has a project in
 
       view, he conceals his design with a marvellous wisdom; and the
 
-      dexterity with which he counterfeits sanity, presents, to the
+      dexterity with which he counterfeits [[Sanity|sanity]], presents, to the
 
       metaphysician, one of the most singular problems in the study of
 
       mind. When a madman appears thoroughly sane, indeed, it is high
 
-      time to put him in a straitjacket.”
+      [[Time|time]] to put him in a straitjacket.”
 
 
 
       “But the danger, my dear sir, of which you were speaking, in your
 
-      own experience—during your control of this house—have you had
+      own experience—during your control of this [[house]]—have you had
 
       practical reason to think liberty hazardous in the case of a
 
@@ -1309,15 +1309,15 @@ During the autumn of 18—, while on a tour through the extreme
 
       very long while ago, a singular circumstance occurred in this
 
-      very house. The ‘soothing system,’ you know, was then in
+      very [[house]]. The ‘soothing system,’ you know, was then in
 
       operation, and the patients were at large. They behaved
 
-      remarkably well—especially so—any one of sense might have known
+      remarkably [[Well|well]]—especially so—any one of sense might have known
 
       that some devilish scheme was brewing from that particular fact,
 
-      that the fellows behaved so remarkably well. And, sure enough,
+      that the fellows behaved so remarkably [[Well|well]]. And, sure enough,
 
       one fine morning the keepers found themselves pinioned hand and
 
@@ -1339,9 +1339,9 @@ During the autumn of 18—, while on a tour through the extreme
 
       lunatic—who, by some means, had taken it into his head that he
 
-      had invented a better system of government than any ever heard of
+      had invented a better system of [[government]] than any ever heard of
 
-      before—of lunatic government, I mean. He wished to give his
+      before—of lunatic [[government]], I mean. He wished to give his
 
       invention a trial, I suppose, and so he persuaded the rest of the
 
@@ -1355,7 +1355,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “No doubt of it. The keepers and kept were soon made to exchange
+      “No [[Doubt|doubt]] of it. The keepers and kept were soon made to exchange
 
       places. Not that exactly either—for the madmen had been free, but
 
@@ -1375,7 +1375,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “There you are out. The head rebel was too cunning for that. He
+      “There you are out. The head [[Rebel|rebel]] was too cunning for that. He
 
       admitted no visitors at all—with the exception, one day, of a
 
@@ -1395,7 +1395,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “Oh, a very long time, indeed—a month certainly—how much longer I
+      “Oh, a very long [[Time|time]], indeed—a month certainly—how much longer I
 
       can’t precisely say. In the meantime, the lunatics had a jolly
 
@@ -1403,11 +1403,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       clothes, and made free with the family wardrobe and jewels. The
 
-      cellars of the château were well stocked with wine; and these
+      cellars of the château were [[Well|well]] stocked with wine; and these
 
       madmen are just the devils that know how to drink it. They lived
 
-      well, I can tell you.”
+      [[Well|well]], I can tell you.”
 
 
 
@@ -1417,7 +1417,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “Why, as for that, a madman is not necessarily a fool, as I have
+      “Why, as for that, a madman is not necessarily a [[Fool|fool]], as I have
 
       already observed; and it is my honest opinion that his treatment
 
@@ -1433,7 +1433,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       yells, of the same character as those which had previously
 
-      disconcerted us. This time, however, they seemed to proceed from
+      disconcerted us. This [[Time|time]], however, they seemed to proceed from
 
       persons rapidly approaching.
 
@@ -1445,7 +1445,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      “I very much fear it is so,” replied Monsieur Maillard, now
+      “I very much [[Fear|fear]] it is so,” replied Monsieur Maillard, now
 
       becoming excessively pale. He had scarcely finished the sentence,
 
@@ -1487,7 +1487,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       restrained from leaping there before. As soon as he fairly
 
-      settled himself, he commenced an oration, which, no doubt, was a
+      settled himself, he commenced an oration, which, no [[Doubt|doubt]], was a
 
       very capital one, if it could only have been heard. At the same
 
@@ -1495,7 +1495,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       spinning around the apartment, with immense energy, and with arms
 
-      outstretched at right angles with his body; so that he had all
+      outstretched at right angles with his [[Body|body]]; so that he had all
 
       the air of a tee-totum in fact, and knocked everybody down that
 
@@ -1507,11 +1507,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       delicate drink during dinner. And then, again, the frog-man
 
-      croaked away as if the salvation of his soul depended upon every
+      croaked away as if the salvation of his [[Soul|soul]] depended upon every
 
       note that he uttered. And, in the midst of all this, the
 
-      continuous braying of a donkey arose over all. As for my old
+      continuous braying of a [[donkey]] arose over all. As for my old
 
       friend, Madame Joyeuse, I really could have wept for the poor
 
@@ -1531,7 +1531,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       windows were very speedily, and almost simultaneously, broken in.
 
-      But I shall never forget the emotions of wonder and horror with
+      But I shall never forget the emotions of [[Wonder|wonder]] and horror with
 
       which I gazed, when, leaping through these windows, and down
 
@@ -1541,7 +1541,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       chimpanzees, ourang-outangs, or big black baboons of the Cape of
 
-      Good Hope.
+      Good [[Hope]].
 
 
 
@@ -1549,11 +1549,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       and lay still. After lying there some fifteen minutes, during
 
-      which time I listened with all my ears to what was going on in
+      which [[Time|time]] I listened with all my ears to what was going on in
 
       the room, I came to same satisfactory _dénouement_ of this
 
-      tragedy. Monsieur Maillard, it appeared, in giving me the account
+      [[Tragedy|tragedy]]. Monsieur Maillard, it appeared, in giving me the account
 
       of the lunatic who had excited his fellows to rebellion, had been
 
@@ -1567,7 +1567,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       me. The keepers, ten in number, having been suddenly overpowered,
 
-      were first well tarred, then carefully feathered, and then shut
+      were first [[Well|well]] tarred, then carefully feathered, and then shut
 
       up in underground cells. They had been so imprisoned for more
 
@@ -1575,11 +1575,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       generously allowed them not only the tar and feathers (which
 
-      constituted his “system”), but some bread and abundance of water.
+      constituted his “system”), but some bread and abundance of [[Water|water]].
 
       The latter was pumped on them daily. At length, one escaping
 
-      through a sewer, gave freedom to all the rest.
+      through a sewer, gave [[Freedom|freedom]] to all the rest.
 
 
 

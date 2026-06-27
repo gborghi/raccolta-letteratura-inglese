@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 2 (part 3)"
+title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -15,9 +15,9 @@ tags:
 
 
 The magnificence with which the green-clad gentleman walked down
-the centre of the road would be something difficult to express
+the centre of the [[Road|road]] would be something difficult to express
 in human language.  For it was an ingrained simplicity and arrogance,
-something in the mere carriage of the head and body, which made ordinary
+something in the mere carriage of the head and [[Body|body]], which made ordinary
 moderns in the street stare after him; but it had comparatively little
 to do with actual conscious gestures or expression.  In the matter
 of these merely temporary movements, the man appeared to be rather
@@ -28,11 +28,11 @@ with an astonishment at his brilliant uniform, that is to say,
 partly because of that instinct which makes us all follow one who
 looks like a madman, but far more because of that instinct which
 makes all men follow (and worship) any one who chooses to behave
-like a king.  He had to so sublime an extent that great quality
+like a [[King|king]].  He had to so [[Sublime|sublime]] an extent that great quality
 of royalty...an almost imbecile unconsciousness of everybody,
 that people went after him as they do after kings...to see
 what would be the first thing or person he would take notice of.
-And all the time, as we have said, in spite of his quiet splendour,
+And all the [[Time|time]], as we have said, in spite of his quiet splendour,
 there was an air about him as if he were looking for somebody;
 an expression of inquiry.
 
@@ -40,7 +40,7 @@ Suddenly that expression of inquiry vanished, none could
 tell why, and was replaced by an expression of contentment.
 Amid the rapt attention of the mob of idlers, the magnificent green
 gentleman deflected himself from his direct course down the centre
-of the road and walked to one side of it.  He came to a halt opposite
+of the [[Road|road]] and walked to one side of it.  He came to a halt opposite
 to a large poster of Colman's Mustard erected on a wooden hoarding.
 His spectators almost held their breath.
 
@@ -48,7 +48,7 @@ He took from a small pocket in his uniform a little penknife;
 with this he made a slash at the stretched paper.  Completing the rest
 of the operation with his fingers, he tore off a strip or rag
 of paper, yellow in colour and wholly irregular in outline.
-Then for the first time the great being addressed his adoring onlookers:
+Then for the first [[Time|time]] the great being addressed his adoring onlookers:
 
 "Can any one," he said, with a pleasing foreign accent,
 "lend me a pin?"
@@ -73,17 +73,17 @@ politeness of the Englishman when once embarrassed.
 "I beg yours also, Senor," said the stranger, bowing.  "I was
 wondering whether any of you had any red about you."
 
-"Any red about us?...well, really...no, I don't think I have...I
+"Any red about us?...[[Well|well]], really...no, I don't think I have...I
 used to carry a red bandanna once, but..."
 
-"Barker," asked Auberon Quin, suddenly, "where's your red cockatoo?
+"Barker," asked [[Auberon Quin]], suddenly, "where's your red cockatoo?
 Where's your red cockatoo?"
 
 "What do you mean?" asked Barker, desperately.  "What cockatoo?
 You've never seen me with any cockatoo."
 
 "I know," said Auberon, vaguely mollified.  "Where's it been
-all the time?"
+all the [[Time|time]]?"
 
 Barker swung round, not without resentment.
 
@@ -94,7 +94,7 @@ to have anything red to lend you.  But why, if one may ask..."
 fulfil my own requirements."
 
 And standing for a second of thought with the penknife in his hand,
-he stabbed his left palm.  The blood fell with so full a stream
+he stabbed his left palm.  The [[Blood|blood]] fell with so full a stream
 that it struck the stones without dripping.  The foreigner pulled
 out his handkerchief and tore a piece from it with his teeth.
 The rag was immediately soaked in scarlet.
@@ -110,15 +110,15 @@ took off his hat.
 the remainder of the handkerchief round his bleeding hand,
 he resumed his walk with an overwhelming stateliness.
 
-While all the rest paused, in some disorder, little Mr. Auberon Quin
+While all the rest paused, in some disorder, little Mr. [[Auberon Quin]]
 ran after the stranger and stopped him, with hat in hand.
 Considerably to everybody's astonishment, he addressed him in
 the purest Spanish:
 
 "Senor," he said in that language, "pardon a hospitality,
 perhaps indiscreet, towards one who appears to be a distinguished,
-but a solitary guest in London.  Will you do me and my friends,
-with whom you have held some conversation, the honour of lunching
+but a solitary guest in [[London]].  Will you do me and my friends,
+with whom you have held some conversation, the [[Honour|honour]] of lunching
 with us at the adjoining restaurant?"
 
 The man in the green uniform had turned a fiery colour of pleasure
@@ -127,7 +127,7 @@ with that profusion of bows which so often shows, in the case
 of the Southern races, the falsehood of the notion that ceremony
 has nothing to do with feeling.
 
-"Senor," he said, "your language is my own; but all my love for my
+"Senor," he said, "your language is my own; but all my [[Love|love]] for my
 people shall not lead me to deny to yours the possession of so
 chivalrous an entertainer.  Let me say that the tongue is Spanish
 but the heart English."  And he passed with the rest into Cicconani's.
@@ -136,14 +136,14 @@ but the heart English."  And he passed with the rest into Cicconani's.
 but burning with curiosity, "perhaps it would be rude of me to ask
 why you did that?"
 
-"Did what, Senor?" asked the guest, who spoke English quite well,
+"Did what, Senor?" asked the guest, who spoke English quite [[Well|well]],
 though in a manner indefinably American.
 
-"Well," said the Englishman, in some confusion, "I mean tore a strip
+"[[Well]]," said the Englishman, in some confusion, "I mean tore a strip
 off a hoarding and... er... cut yourself... and..."
 
 "To tell you that, Senor," answered the other, with a certain
-sad pride, "involves merely telling you who I am.  I am Juan
+sad [[Pride|pride]], "involves merely telling you who I am.  I am Juan
 del Fuego, President of Nicaragua."
 
 The manner with which the President of Nicaragua leant back and drank

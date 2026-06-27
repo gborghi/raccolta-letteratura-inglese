@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Hammer of God (part 4)"
+title: "[[innocence]] — The Hammer of God (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -25,8 +25,8 @@ grasped the whole of it.  The man was actually wearing an iron helmet,
 and the blow scattered it like broken glass.  Look at that woman.
 Look at her arms."
 
-Silence held them all up again, and then the doctor said rather sulkily:
-"Well, I may be wrong; there are objections to everything.
+[[Silence]] held them all up again, and then the doctor said rather sulkily:
+"[[Well]], I may be wrong; there are objections to everything.
 But I stick to the main point.  No man but an idiot would pick up
 that little hammer if he could use a big hammer."
 
@@ -38,14 +38,14 @@ I wanted; you have said the word."
 Then he continued, mastering his discomposure:  "The words you said were,
 `No man but an idiot would pick up the small hammer.'"
 
-"Yes," said the doctor.  "Well?"
+"Yes," said the doctor.  "[[Well]]?"
 
-"Well," said the curate, "no man but an idiot did."
+"[[Well]]," said the curate, "no man but an idiot did."
 The rest stared at him with eyes arrested and riveted,
 and he went on in a febrile and feminine agitation.
 
 "I am a priest," he cried unsteadily, "and a priest should be no shedder
-of blood.  I--I mean that he should bring no one to the gallows.
+of [[Blood|blood]].  I--I mean that he should bring no one to the gallows.
 And I thank God that I see the criminal clearly now--because he is
 a criminal who cannot be brought to the gallows."
 
@@ -65,10 +65,10 @@ My brother was mocking him."
 But how do you explain--"
 
 The Rev. Wilfred was almost trembling with the excitement of his own
-glimpse of the truth.  "Don't you see; don't you see," he cried feverishly;
+glimpse of the [[Truth|truth]].  "Don't you see; don't you see," he cried feverishly;
 "that is the only theory that covers both the queer things, that answers
 both the riddles.  The two riddles are the little hammer and the big blow.
-The smith might have struck the big blow, but would not have chosen
+The [[smith]] might have struck the big blow, but would not have chosen
 the little hammer.  His wife would have chosen the little hammer, but she
 could not have struck the big blow.  But the madman might have done both.
 As for the little hammer--why, he was mad and might have picked up anything.
@@ -78,12 +78,12 @@ paroxysm may have the strength of ten men?"
 The doctor drew a deep breath and then said, "By golly,
 I believe you've got it."
 
-Father Brown had fixed his eyes on the speaker so long
+[[Father Brown]] had fixed his eyes on the speaker so long
 and steadily as to prove that his large grey, ox-like eyes
 were not quite so insignificant as the rest of his face.
-When silence had fallen he said with marked respect:
+When [[Silence|silence]] had fallen he said with marked respect:
 "Mr. Bohun, yours is the only theory yet propounded which
-holds water every way and is essentially unassailable.
+holds [[Water|water]] every way and is essentially unassailable.
 I think, therefore, that you deserve to be told,
 on my positive knowledge, that it is not the true one."
 And with that the old little man walked away and stared again
@@ -102,7 +102,7 @@ party had broken up, they heard voices from the others.
 The priest looked up quietly and then looked down again
 as he heard the blacksmith say in a loud voice:
 
-"I hope I've convinced you, Mr. Inspector.  I'm a strong man,
+"I [[Hope|hope]] I've convinced you, Mr. Inspector.  I'm a strong man,
 as you say, but I couldn't have flung my hammer bang here
 from Greenford.  My hammer hasn't got wings that it should come
 flying half a mile over hedges and fields."
@@ -114,7 +114,7 @@ you can in finding a man as big and strong as yourself.
 By George! you might be useful, if only to hold him!
 I suppose you yourself have no guess at the man?"
 
-"I may have a guess," said the pale smith, "but it is not at
+"I may have a guess," said the pale [[smith]], "but it is not at
 a man."  Then, seeing the scared eyes turn towards his wife
 on the bench, he put his huge hand on her shoulder and said:
 "Nor a woman either."
@@ -123,7 +123,7 @@ on the bench, he put his huge hand on her shoulder and said:
 "You don't think cows use hammers, do you?"
 
 "I think no thing of flesh held that hammer," said the blacksmith
-in a stifled voice; "mortally speaking, I think the man died alone."
+in a stifled voice; "mortally speaking, I think the man died [[Alone|alone]]."
 
 Wilfred made a sudden forward movement and peered at him with burning eyes.
 
@@ -131,9 +131,9 @@ Wilfred made a sudden forward movement and peered at him with burning eyes.
 "that the hammer jumped up of itself and knocked the man down?"
 
 "Oh, you gentlemen may stare and snigger," cried Simeon;
-"you clergymen who tell us on Sunday in what a stillness
+"you clergymen who tell us on [[Sunday]] in what a stillness
 the Lord smote Sennacherib.  I believe that One who walks
-invisible in every house defended the honour of mine, and laid
+invisible in every [[house]] defended the [[Honour|honour]] of mine, and laid
 the defiler dead before the door of it.  I believe the force
 in that blow was just the force there is in earthquakes,
 and no force less."
@@ -144,5 +144,5 @@ Wilfred said, with a voice utterly undescribable:
 "That agent is outside my jurisdiction," said the inspector
 with a slight smile.
 
-"You are not outside His," answered the smith; "see you to it,"
-and, turning his broad back, he went into the house.
+"You are not outside His," answered the [[smith]]; "see you to it,"
+and, turning his broad back, he went into the [[house]].

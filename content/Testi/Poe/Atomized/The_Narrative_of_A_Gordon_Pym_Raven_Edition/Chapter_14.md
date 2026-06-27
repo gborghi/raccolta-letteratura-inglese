@@ -24,11 +24,11 @@ CHAPTER 14
 
       and eighty tons burden. She was unusually sharp in the bows, and
 
-      on a wind, in moderate weather, the fastest sailer I have ever
+      on a [[Wind|wind]], in moderate weather, the fastest sailer I have ever
 
       seen. Her qualities, however, as a rough sea-boat, were not so
 
-      good, and her draught of water was by far too great for the trade
+      good, and her draught of [[Water|water]] was by far too great for the trade
 
       to which she was destined. For this peculiar service, a larger
 
@@ -40,11 +40,11 @@ CHAPTER 14
 
       different construction from the usual South Sea ships. It is
 
-      absolutely necessary that she should be well armed. She should
+      absolutely necessary that she should be [[Well|well]] armed. She should
 
       have, say ten or twelve twelve-pound carronades, and two or three
 
-      long twelves, with brass blunderbusses, and water-tight
+      long twelves, with brass blunderbusses, and [[Water|water]]-tight
 
       arm-chests for each top. Her anchors and cables should be of far
 
@@ -58,7 +58,7 @@ CHAPTER 14
 
       seamen, besides the captain and mate, but she was not altogether
 
-      as well armed or otherwise equipped, as a navigator acquainted
+      as [[Well|well]] armed or otherwise equipped, as a navigator acquainted
 
       with the difficulties and dangers of the trade could have
 
@@ -104,13 +104,13 @@ CHAPTER 14
 
       and steered southwest, stretching over toward the coast of
 
-      Brazil, so as to cross the equator between the meridians of
+      Brazil, so as to [[Cross|cross]] the equator between the meridians of
 
       twenty-eight and thirty degrees west longitude. This is the
 
       course usually taken by vessels bound from Europe to the Cape of
 
-      Good Hope, or by that route to the East Indies. By proceeding
+      Good [[Hope]], or by that route to the East Indies. By proceeding
 
       thus they avoid the calms and strong contrary currents which
 
@@ -136,7 +136,7 @@ CHAPTER 14
 
       distressed situation demanded. In about a fortnight, during which
 
-      time we continued steering to the southeast, with gentle breezes
+      [[Time|time]] we continued steering to the southeast, with gentle breezes
 
       and fine weather, both Peters and myself recovered entirely from
 
@@ -162,9 +162,9 @@ CHAPTER 14
 
       remembered, but not the feelings which the incidents elicited at
 
-      the time of their occurrence. I only know, that when they did
+      the [[Time|time]] of their occurrence. I only know, that when they did
 
-      occur, I then thought human nature could sustain nothing more of
+      occur, I then thought human [[Nature|nature]] could sustain nothing more of
 
       agony.
 
@@ -180,7 +180,7 @@ CHAPTER 14
 
       found south of the twenty-fifth parallel. On the sixteenth of
 
-      September, being in the vicinity of the Cape of Good Hope, the
+      September, being in the vicinity of the Cape of Good [[Hope]], the
 
       schooner encountered her first gale of any violence since leaving
 
@@ -194,13 +194,13 @@ CHAPTER 14
 
       of their most dangerous features is the instantaneous chopping
 
-      round of the wind, an occurrence almost certain to take place
+      round of the [[Wind|wind]], an occurrence almost certain to take place
 
       during the greatest force of the gale. A perfect hurricane will
 
       be blowing at one moment from the northward or northeast, and in
 
-      the next not a breath of wind will be felt in that direction,
+      the next not a breath of [[Wind|wind]] will be felt in that direction,
 
       while from the southwest it will come out all at once with a
 
@@ -238,7 +238,7 @@ CHAPTER 14
 
       every preparation, we were hurled on our beam-ends, as if by
 
-      magic, and a perfect wilderness of foam made a clear breach over
+      [[Magic|magic]], and a perfect wilderness of foam made a clear breach over
 
       us as we lay. The blow from the southwest, however, luckily
 
@@ -246,7 +246,7 @@ CHAPTER 14
 
       fortune to right the vessel without the loss of a spar. A heavy
 
-      cross sea gave us great trouble for a few hours after this, but
+      [[Cross|cross]] sea gave us great trouble for a few hours after this, but
 
       toward morning we found ourselves in nearly as good condition as
 
@@ -270,23 +270,23 @@ CHAPTER 14
 
       and came to anchor in Christmas Harbour, having four fathoms of
 
-      water.
+      [[Water|water]].
 
 
 
       This island, or rather group of islands, bears southeast from the
 
-      Cape of Good Hope, and is distant therefrom nearly eight hundred
+      Cape of Good [[Hope]], and is distant therefrom nearly eight hundred
 
       leagues. It was first discovered in 1772, by the Baron de
 
       Kergulen, or Kerguelen, a Frenchman, who, thinking the land to
 
-      form a portion of an extensive southern continent carried home
+      form a portion of an extensive southern continent carried [[Home|home]]
 
       information to that effect, which produced much excitement at the
 
-      time. The government, taking the matter up, sent the baron back
+      [[Time|time]]. The [[government]], taking the matter up, sent the baron back
 
       in the following year for the purpose of giving his new discovery
 
@@ -296,7 +296,7 @@ CHAPTER 14
 
       principal one the name of Desolation Island, a title which it
 
-      certainly well deserves. Upon approaching the land, however, the
+      certainly [[Well|well]] deserves. Upon approaching the land, however, the
 
       navigator might be induced to suppose otherwise, as the sides of
 
@@ -320,7 +320,7 @@ CHAPTER 14
 
       The face of the country is hilly, although none of the hills can
 
-      be called lofty. Their tops are perpetually covered with snow.
+      be called lofty. Their tops are perpetually covered with [[Snow|snow]].
 
       There are several harbors, of which Christmas Harbour is the most
 
@@ -348,11 +348,11 @@ CHAPTER 14
 
       go with four fathoms, and find anchorage in from ten to three,
 
-      hard clay bottom. A ship might lie here with her best bower ahead
+      hard clay [[Bottom|bottom]]. A [[Ship|ship]] might lie here with her best bower ahead
 
       all the year round without risk. To the westward, at the head of
 
-      Wasp Bay, is a small stream of excellent water, easily procured.
+      Wasp Bay, is a small stream of excellent [[Water|water]], easily procured.
 
 
 
@@ -366,23 +366,23 @@ CHAPTER 14
 
       so called from its size and beautiful plumage, is the largest.
 
-      The upper part of the body is usually gray, sometimes of a lilac
+      The upper part of the [[Body|body]] is usually gray, sometimes of a lilac
 
       tint; the under portion of the purest white imaginable. The head
 
       is of a glossy and most brilliant black, the feet also. The chief
 
-      beauty of plumage, however, consists in two broad stripes of a
+      [[Beauty|beauty]] of plumage, however, consists in two broad stripes of a
 
       gold color, which pass along from the head to the breast. The
 
-      bill is long, and either pink or bright scarlet. These birds walk
+      bill is long, and either pink or bright scarlet. These [[Birds|birds]] walk
 
       erect; with a stately carriage. They carry their heads high with
 
       their wings drooping like two arms, and, as their tails project
 
-      from their body in a line with the legs, the resemblance to a
+      from their [[Body|body]] in a line with the legs, the resemblance to a
 
       human figure is very striking, and would be apt to deceive the
 
@@ -398,7 +398,7 @@ CHAPTER 14
 
 
 
-      Besides the penguin many other birds are here to be found, among
+      Besides the penguin many other [[Birds|birds]] are here to be found, among
 
       which may be mentioned sea-hens, blue peterels, teal, ducks, Port
 
@@ -418,7 +418,7 @@ CHAPTER 14
 
       palatable food. In flying they sometimes sail very close to the
 
-      surface of the water, with the wings expanded, without appearing
+      surface of the [[Water|water]], with the wings expanded, without appearing
 
       to move them in the least degree, or make any exertion with them
 
@@ -428,11 +428,11 @@ CHAPTER 14
 
       The albatross is one of the largest and fiercest of the South Sea
 
-      birds. It is of the gull species, and takes its prey on the wing,
+      [[Birds|birds]]. It is of the gull species, and takes its prey on the wing,
 
       never coming on land except for the purpose of breeding. Between
 
-      this bird and the penguin the most singular friendship exists.
+      this bird and the penguin the most singular [[Friendship|friendship]] exists.
 
       Their nests are constructed with great uniformity upon a plan
 
@@ -454,7 +454,7 @@ CHAPTER 14
 
 
 
-      When the season for incubation arrives, the birds assemble in
+      When the season for incubation arrives, the [[Birds|birds]] assemble in
 
       vast numbers, and for some days appear to be deliberating upon
 
@@ -470,15 +470,15 @@ CHAPTER 14
 
       which is the least encumbered with stones. This matter being
 
-      arranged, the birds proceed, with one accord, and actuated
+      arranged, the [[Birds|birds]] proceed, with one accord, and actuated
 
       apparently by one mind, to trace out, with mathematical accuracy,
 
       either a square or other parallelogram, as may best suit the
 
-      nature of the ground, and of just sufficient size to accommodate
+      [[Nature|nature]] of the ground, and of just sufficient size to accommodate
 
-      easily all the birds assembled, and no more—in this particular
+      easily all the [[Birds|birds]] assembled, and no more—in this particular
 
       seeming determined upon preventing the access of future
 
@@ -486,7 +486,7 @@ CHAPTER 14
 
       encampment. One side of the place thus marked out runs parallel
 
-      with the water’s edge, and is left open for ingress or egress.
+      with the [[Water|water]]’s edge, and is left open for ingress or egress.
 
 
 
@@ -524,7 +524,7 @@ CHAPTER 14
 
       earth, very shallow, being only just of sufficient depth to keep
 
-      her single egg from rolling. The albatross is somewhat less
+      her single egg from [[rolling]]. The albatross is somewhat less
 
       simple in her arrangements, erecting a hillock about a foot high
 
@@ -534,7 +534,7 @@ CHAPTER 14
 
 
 
-      The birds take especial care never to leave their nests
+      The [[Birds|birds]] take especial care never to leave their nests
 
       unoccupied for an instant during the period of incubation, or,
 
@@ -546,7 +546,7 @@ CHAPTER 14
 
       of her partner that she ventures abroad. The eggs are never left
 
-      uncovered at all—while one bird leaves the nest the other
+      uncovered at all—while one bird [[Leaves|leaves]] the nest the other
 
       nestling in by its side. This precaution is rendered necessary by
 
@@ -562,7 +562,7 @@ CHAPTER 14
 
       albatross are the sole population, yet in most of them a variety
 
-      of oceanic birds are to be met with, enjoying all the privileges
+      of oceanic [[Birds|birds]] are to be met with, enjoying all the privileges
 
       of citizenship, and scattering their nests here and there,
 
@@ -578,7 +578,7 @@ CHAPTER 14
 
       tribes) which are continually hovering over it, either going to
 
-      the ocean or returning home. At the same time a crowd of penguins
+      the ocean or returning [[Home|home]]. At the same [[Time|time]] a crowd of penguins
 
       are to be observed, some passing to and fro in the narrow alleys,
 
@@ -592,7 +592,7 @@ CHAPTER 14
 
       and nothing surely can be better calculated to elicit reflection
 
-      in every well-regulated human intellect.
+      in every [[Well|well]]-regulated human intellect.
 
 
 
@@ -604,7 +604,7 @@ CHAPTER 14
 
       captain and a young relation of his on a point of barren land to
 
-      the westward, they having some business, whose nature I could not
+      the westward, they having some business, whose [[Nature|nature]] I could not
 
       ascertain, to transact in the interior of the island. Captain Guy
 
@@ -628,7 +628,7 @@ CHAPTER 14
 
       small islands in the vicinity. Our labours, however, were not
 
-      crowned with any important success. We saw a great many fur seal,
+      crowned with any important [[success]]. We saw a great many fur seal,
 
       but they were exceedingly shy, and with the greatest exertions,
 

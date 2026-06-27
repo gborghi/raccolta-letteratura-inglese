@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -25,8 +25,8 @@ may please to name—at least it seemed so; they made, in that very limited
 sphere of action, such an imposing effect, in point of numbers.
 
 Of these small fry, two had, by some strong machinery, been got into bed
-in a corner, where they might have reposed snugly enough in the sleep of
-innocence, but for a constitutional propensity to keep awake, and also to
+in a corner, where they might have reposed snugly enough in the [[Sleep|sleep]] of
+[[innocence]], but for a constitutional propensity to keep awake, and also to
 scuffle in and out of bed. The immediate occasion of these predatory
 dashes at the waking world, was the construction of an oyster-shell wall
 in a corner, by two other youths of tender age; on which fortification
@@ -46,7 +46,7 @@ slow to return these compliments.
 Besides which, another little boy—the biggest there, but still little—was
 tottering to and fro, bent on one side, and considerably affected in his
 knees by the weight of a large baby, which he was supposed by a fiction
-that obtains sometimes in sanguine families, to be hushing to sleep. But
+that obtains sometimes in sanguine families, to be hushing to [[Sleep|sleep]]. But
 oh! the inexhaustible regions of contemplation and watchfulness into
 which this baby’s eyes were then only beginning to compose themselves to
 stare, over his unconscious shoulder!
@@ -55,16 +55,16 @@ It was a very Moloch of a baby, on whose insatiate altar the whole
 existence of this particular young brother was offered up a daily
 sacrifice. Its personality may be said to have consisted in its never
 being quiet, in any one place, for five consecutive minutes, and never
-going to sleep when required. “Tetterby’s baby” was as well known in the
+going to [[Sleep|sleep]] when required. “Tetterby’s baby” was as [[Well|well]] known in the
 neighbourhood as the postman or the pot-boy. It roved from door-step to
 door-step, in the arms of little Johnny Tetterby, and lagged heavily at
 the rear of troops of juveniles who followed the Tumblers or the Monkey,
 and came up, all on one side, a little too late for everything that was
-attractive, from Monday morning until Saturday night. Wherever childhood
+attractive, from Monday morning until Saturday [[Night|night]]. Wherever [[Childhood|childhood]]
 congregated to play, there was little Moloch making Johnny fag and toil.
 Wherever Johnny desired to stay, little Moloch became fractious, and
 would not remain. Whenever Johnny wanted to go out, Moloch was asleep,
-and must be watched. Whenever Johnny wanted to stay at home, Moloch was
+and must be watched. Whenever Johnny wanted to stay at [[Home|home]], Moloch was
 awake, and must be taken out. Yet Johnny was verily persuaded that it
 was a faultless baby, without its peer in the realm of England, and was
 quite content to catch meek glimpses of things in general from behind its
@@ -75,35 +75,35 @@ directed to anybody, and could never be delivered anywhere.
 The small man who sat in the small parlour, making fruitless attempts to
 read his newspaper peaceably in the midst of this disturbance, was the
 father of the family, and the chief of the firm described in the
-inscription over the little shop front, by the name and title of A.
+[[Inscription|inscription]] over the little shop front, by the name and title of A.
 TETTERBY AND CO., NEWSMEN. Indeed, strictly speaking, he was the only
 personage answering to that designation, as Co. was a mere poetical
 abstraction, altogether baseless and impersonal.
 
 Tetterby’s was the corner shop in Jerusalem Buildings. There was a good
-show of literature in the window, chiefly consisting of
+show of literature in the [[Window|window]], chiefly consisting of
 picture-newspapers out of date, and serial pirates, and footpads.
 Walking-sticks, likewise, and marbles, were included in the stock in
 trade. It had once extended into the light confectionery line; but it
 would seem that those elegancies of life were not in demand about
 Jerusalem Buildings, for nothing connected with that branch of commerce
-remained in the window, except a sort of small glass lantern containing a
-languishing mass of bull’s-eyes, which had melted in the summer and
-congealed in the winter until all hope of ever getting them out, or of
+remained in the [[Window|window]], except a sort of small glass lantern containing a
+languishing mass of bull’s-eyes, which had melted in the [[Summer|summer]] and
+congealed in the [[Winter|winter]] until all [[Hope|hope]] of ever getting them out, or of
 eating them without eating the lantern too, was gone for ever.
 Tetterby’s had tried its hand at several things. It had once made a
 feeble little dart at the toy business; for, in another lantern, there
 was a heap of minute wax dolls, all sticking together upside down, in the
 direst confusion, with their feet on one another’s heads, and a
-precipitate of broken arms and legs at the bottom. It had made a move in
+precipitate of broken arms and legs at the [[Bottom|bottom]]. It had made a move in
 the millinery direction, which a few dry, wiry bonnet-shapes remained in
-a corner of the window to attest. It had fancied that a living might lie
+a corner of the [[Window|window]] to attest. It had fancied that a living might lie
 hidden in the tobacco trade, and had stuck up a representation of a
 native of each of the three integral portions of the British Empire, in
 the act of consuming that fragrant weed; with a poetic legend attached,
 importing that united in one cause they sat and joked, one chewed
 tobacco, one took snuff, one smoked: but nothing seemed to have come of
-it—except flies. Time had been when it had put a forlorn trust in
+it—except flies. [[Time]] had been when it had put a forlorn trust in
 imitative jewellery, for in one pane of glass there was a card of cheap
 seals, and another of pencil-cases, and a mysterious black amulet of
 inscrutable intention, labelled ninepence. But, to that hour, Jerusalem
@@ -123,25 +123,25 @@ times round the parlour, like an undecided carrier-pigeon, made an
 ineffectual rush at one or two flying little figures in bed-gowns that
 skimmed past him, and then, bearing suddenly down upon the only
 unoffending member of the family, boxed the ears of little Moloch’s
-nurse.
+[[Nurse|nurse]].
 
 “You bad boy!” said Mr. Tetterby, “haven’t you any feeling for your poor
-father after the fatigues and anxieties of a hard winter’s day, since
-five o’clock in the morning, but must you wither his rest, and corrode
+father after the fatigues and anxieties of a hard [[Winter|winter]]’s day, since
+five o’[[Clock|clock]] in the morning, but must you wither his rest, and corrode
 his latest intelligence, with _your_ wicious tricks? Isn’t it enough,
 sir, that your brother ’Dolphus is toiling and moiling in the fog and
-cold, and you rolling in the lap of luxury with a—with a baby, and
+cold, and you [[rolling]] in the lap of luxury with a—with a baby, and
 everything you can wish for,” said Mr. Tetterby, heaping this up as a
-great climax of blessings, “but must you make a wilderness of home, and
+great climax of blessings, “but must you make a wilderness of [[Home|home]], and
 maniacs of your parents? Must you, Johnny? Hey?” At each
 interrogation, Mr. Tetterby made a feint of boxing his ears again, but
 thought better of it, and held his hand.
 
 “Oh, father!” whimpered Johnny, “when I wasn’t doing anything, I’m sure,
-but taking such care of Sally, and getting her to sleep. Oh, father!”
+but taking such care of Sally, and getting her to [[Sleep|sleep]]. Oh, father!”
 
-“I wish my little woman would come home!” said Mr. Tetterby, relenting
-and repenting, “I only wish my little woman would come home! I ain’t fit
+“I wish my little woman would come [[Home|home]]!” said Mr. Tetterby, relenting
+and repenting, “I only wish my little woman would come [[Home|home]]! I ain’t fit
 to deal with ’em. They make my head go round, and get the better of me.
 Oh, Johnny! Isn’t it enough that your dear mother has provided you with
 that sweet sister?” indicating Moloch; “isn’t it enough that you were
@@ -154,14 +154,14 @@ Softening more and more, as his own tender feelings and those of his
 injured son were worked on, Mr. Tetterby concluded by embracing him, and
 immediately breaking away to catch one of the real delinquents. A
 reasonably good start occurring, he succeeded, after a short but smart
-run, and some rather severe cross-country work under and over the
+run, and some rather severe [[Cross|cross]]-country work under and over the
 bedsteads, and in and out among the intricacies of the chairs, in
 capturing this infant, whom he condignly punished, and bore to bed. This
 example had a powerful, and apparently, mesmeric influence on him of the
-boots, who instantly fell into a deep sleep, though he had been, but a
+boots, who instantly fell into a deep [[Sleep|sleep]], though he had been, but a
 moment before, broad awake, and in the highest possible feather. Nor was
 it lost upon the two young architects, who retired to bed, in an
-adjoining closet, with great privacy and speed. The comrade of the
+adjoining closet, with great privacy and [[Speed|speed]]. The comrade of the
 Intercepted One also shrinking into his nest with similar discretion, Mr.
 Tetterby, when he paused for breath, found himself unexpectedly in a
 scene of peace.
@@ -179,14 +179,14 @@ mothers, and have respected them in after life as their best friends.’
 Think of your own remarkable mother, my boys,” said Mr. Tetterby, “and
 know her value while she is still among you!”
 
-He sat down again in his chair by the fire, and composed himself,
-cross-legged, over his newspaper.
+He sat down again in his chair by the [[Fire|fire]], and composed himself,
+[[Cross|cross]]-legged, over his newspaper.
 
 “Let anybody, I don’t care who it is, get out of bed again,” said
 Tetterby, as a general proclamation, delivered in a very soft-hearted
 manner, “and astonishment will be the portion of that respected
 contemporary!”—which expression Mr. Tetterby selected from his screen.
-“Johnny, my child, take care of your only sister, Sally; for she’s the
+“Johnny, my [[Child|child]], take care of your only sister, Sally; for she’s the
 brightest gem that ever sparkled on your early brow.”
 
 Johnny sat down on a little stool, and devotedly crushed himself beneath
@@ -204,8 +204,8 @@ think of Sally.”
 Mr. Tetterby desisting, Johnny, with a profound sense of his trust, wiped
 his eyes, and hushed his sister.
 
-“Your brother ’Dolphus,” said his father, poking the fire, “is late
-to-night, Johnny, and will come home like a lump of ice. What’s got your
+“Your brother ’Dolphus,” said his father, poking the [[Fire|fire]], “is late
+to-[[Night|night]], Johnny, and will come [[Home|home]] like a lump of ice. What’s got your
 precious mother?”
 
 “Here’s mother, and ’Dolphus too, father!” exclaimed Johnny, “I think.”
@@ -228,12 +228,12 @@ Mrs. Tetterby, who had been marketing, and carried a basket, threw back
 her bonnet and shawl, and sitting down, fatigued, commanded Johnny to
 bring his sweet charge to her straightway, for a kiss. Johnny having
 complied, and gone back to his stool, and again crushed himself, Master
-Adolphus Tetterby, who had by this time unwound his torso out of a
+Adolphus Tetterby, who had by this [[Time|time]] unwound his torso out of a
 prismatic comforter, apparently interminable, requested the same favour.
 Johnny having again complied, and again gone back to his stool, and again
 crushed himself, Mr. Tetterby, struck by a sudden thought, preferred the
 same claim on his own parental part. The satisfaction of this third
-desire completely exhausted the sacrifice, who had hardly breath enough
+[[Desire|desire]] completely exhausted the sacrifice, who had hardly breath enough
 left to get back to his stool, crush himself again, and pant at his
 relations.
 
@@ -244,7 +244,7 @@ care of her, or never look your mother in the face again.”
 
 “Nor your father, Johnny,” added Mr. Tetterby.
 
-Johnny, much affected by this conditional renunciation of him, looked
+Johnny, much affected by this conditional [[Renunciation|renunciation]] of him, looked
 down at Moloch’s eyes to see that they were all right, so far, and
 skilfully patted her back (which was uppermost), and rocked her with his
 foot.
@@ -256,18 +256,18 @@ chair, and dry yourself.”
 hands. “I an’t very wet, I don’t think. Does my face shine much,
 father?”
 
-“Well, it _does_ look waxy, my boy,” returned Mr. Tetterby.
+“[[Well]], it _does_ look waxy, my boy,” returned Mr. Tetterby.
 
 “It’s the weather, father,” said Adolphus, polishing his cheeks on the
-worn sleeve of his jacket. “What with rain, and sleet, and wind, and
-snow, and fog, my face gets quite brought out into a rash sometimes. And
+worn sleeve of his jacket. “What with rain, and sleet, and [[Wind|wind]], and
+[[Snow|snow]], and fog, my face gets quite brought out into a rash sometimes. And
 shines, it does—oh, don’t it, though!”
 
 Master Adolphus was also in the newspaper line of life, being employed,
 by a more thriving firm than his father and Co., to vend newspapers at a
 railway station, where his chubby little person, like a
 shabbily-disguised Cupid, and his shrill little voice (he was not much
-more than ten years old), were as well known as the hoarse panting of the
+more than ten years old), were as [[Well|well]] known as the hoarse panting of the
 locomotives, running in and out. His juvenility might have been at some
 loss for a harmless outlet, in this early application to traffic, but for
 a fortunate discovery he made of a means of entertaining himself, and of
@@ -276,9 +276,9 @@ business. This ingenious invention, remarkable, like many great
 discoveries, for its simplicity, consisted in varying the first vowel in
 the word “paper,” and substituting, in its stead, at different periods of
 the day, all the other vowels in grammatical succession. Thus, before
-daylight in the winter-time, he went to and fro, in his little oilskin
+daylight in the [[Winter|winter]]-[[Time|time]], he went to and fro, in his little oilskin
 cap and cape, and his big comforter, piercing the heavy air with his cry
-of “Morn-ing Pa-per!” which, about an hour before noon, changed to
+of “Morn-ing Pa-per!” which, about an hour before [[Noon|noon]], changed to
 “Morn-ing Pepper!” which, at about two, changed to “Morn-ing Pip-per!”
 which in a couple of hours changed to “Morn-ing Pop-per!” and so declined
 with the sun into “Eve-ning Pup-per!” to the great relief and comfort of
@@ -286,7 +286,7 @@ this young gentleman’s spirits.
 
 Mrs. Tetterby, his lady-mother, who had been sitting with her bonnet and
 shawl thrown back, as aforesaid, thoughtfully turning her wedding-ring
-round and round upon her finger, now rose, and divesting herself of her
+round and round upon her finger, now [[Rose|rose]], and divesting herself of her
 out-of-door attire, began to lay the cloth for supper.
 
 “Ah, dear me, dear me, dear me!” said Mrs. Tetterby. “That’s the way the
@@ -301,7 +301,7 @@ Mr. Tetterby elevated his eyebrows, folded his newspaper afresh, and
 carried his eyes up it, and down it, and across it, but was wandering in
 his attention, and not reading it.
 
-Mrs. Tetterby, at the same time, laid the cloth, but rather as if she
+Mrs. Tetterby, at the same [[Time|time]], laid the cloth, but rather as if she
 were punishing the table than preparing the family supper; hitting it
 unnecessarily hard with the knives and forks, slapping it with the
 plates, dinting it with the salt-cellar, and coming heavily down upon it
@@ -317,7 +317,7 @@ before. Which is the way the world goes?”
 
 “Sophia!” remonstrated her husband, “you said _that_ before, too.”
 
-“Well, I’ll say it again if you like,” returned Mrs. Tetterby. “Oh
+“[[Well]], I’ll say it again if you like,” returned Mrs. Tetterby. “Oh
 nothing—there! And again if you like, oh nothing—there! And again if
 you like, oh nothing—now then!”
 
@@ -331,7 +331,7 @@ put out at all? _I_ never did.”
 
 Mr. Tetterby gave up the perusal of his newspaper as a bad job, and,
 taking a slow walk across the room, with his hands behind him, and his
-shoulders raised—his gait according perfectly with the resignation of his
+shoulders raised—his gait according perfectly with the [[Resignation|resignation]] of his
 manner—addressed himself to his two eldest offspring.
 
 “Your supper will be ready in a minute, ’Dolphus,” said Mr. Tetterby.
@@ -354,14 +354,14 @@ tokens of contrition behind him, caught him round the neck, and wept.
 
 “Oh, Dolphus!” said Mrs. Tetterby, “how could I go and behave so?”
 
-This reconciliation affected Adolphus the younger and Johnny to that
+This [[Reconciliation|reconciliation]] affected Adolphus the younger and Johnny to that
 degree, that they both, as with one accord, raised a dismal cry, which
 had the effect of immediately shutting up the round eyes in the beds, and
-utterly routing the two remaining little Tetterbys, just then stealing in
+utterly routing the two remaining little [[Tetterbys]], just then stealing in
 from the adjoining closet to see what was going on in the eating way.
 
-“I am sure, ’Dolphus,” sobbed Mrs. Tetterby, “coming home, I had no more
-idea than a child unborn—”
+“I am sure, ’Dolphus,” sobbed Mrs. Tetterby, “coming [[Home|home]], I had no more
+idea than a [[Child|child]] [[unborn]]—”
 
 Mr. Tetterby seemed to dislike this figure of speech, and observed, “Say
 than the baby, my dear.”
@@ -369,13 +369,13 @@ than the baby, my dear.”
 “—Had no more idea than the baby,” said Mrs. Tetterby.—“Johnny, don’t
 look at me, but look at her, or she’ll fall out of your lap and be
 killed, and then you’ll die in agonies of a broken heart, and serve you
-right.—No more idea I hadn’t than that darling, of being cross when I
-came home; but somehow, ’Dolphus—” Mrs. Tetterby paused, and again
+right.—No more idea I hadn’t than that darling, of being [[Cross|cross]] when I
+came [[Home|home]]; but somehow, ’Dolphus—” Mrs. Tetterby paused, and again
 turned her wedding-ring round and round upon her finger.
 
 “I see!” said Mr. Tetterby. “I understand! My little woman was put out.
 Hard times, and hard weather, and hard work, make it trying now and then.
-I see, bless your soul! No wonder! Dolf, my man,” continued Mr.
+I see, bless your [[Soul|soul]]! No [[Wonder|wonder]]! Dolf, my man,” continued Mr.
 Tetterby, exploring the basin with a fork, “here’s your mother been and
 bought, at the cook’s shop, besides pease pudding, a whole knuckle of a
 lovely roast leg of pork, with lots of crackling left upon it, and with
@@ -394,9 +394,9 @@ carver at the cook’s shop had assuredly not forgotten in carving for
 previous customers—but there was no stint of seasoning, and that is an
 accessory dreamily suggesting pork, and pleasantly cheating the sense of
 taste. The pease pudding, too, the gravy and mustard, like the Eastern
-rose in respect of the nightingale, if they were not absolutely pork, had
+[[Rose|rose]] in respect of the [[Nightingale|nightingale]], if they were not absolutely pork, had
 lived near it; so, upon the whole, there was the flavour of a
-middle-sized pig. It was irresistible to the Tetterbys in bed, who,
+middle-sized pig. It was irresistible to the [[Tetterbys]] in bed, who,
 though professing to slumber peacefully, crawled out when unseen by their
 parents, and silently appealed to their brothers for any gastronomic
 token of fraternal affection. They, not hard of heart, presenting scraps
@@ -407,26 +407,26 @@ a charge, before which these guerilla troops retired in all directions
 and in great confusion.
 
 Mrs. Tetterby did not enjoy her supper. There seemed to be something on
-Mrs. Tetterby’s mind. At one time she laughed without reason, and at
-another time she cried without reason, and at last she laughed and cried
+Mrs. Tetterby’s mind. At one [[Time|time]] she laughed without reason, and at
+another [[Time|time]] she cried without reason, and at last she laughed and cried
 together in a manner so very unreasonable that her husband was
 confounded.
 
 “My little woman,” said Mr. Tetterby, “if the world goes that way, it
 appears to go the wrong way, and to choke you.”
 
-“Give me a drop of water,” said Mrs. Tetterby, struggling with herself,
+“Give me a drop of [[Water|water]],” said Mrs. Tetterby, struggling with herself,
 “and don’t speak to me for the present, or take any notice of me. Don’t
 do it!”
 
-Mr. Tetterby having administered the water, turned suddenly on the
+Mr. Tetterby having administered the [[Water|water]], turned suddenly on the
 unlucky Johnny (who was full of sympathy), and demanded why he was
 wallowing there, in gluttony and idleness, instead of coming forward with
 the baby, that the sight of her might revive his mother. Johnny
 immediately approached, borne down by its weight; but Mrs. Tetterby
 holding out her hand to signify that she was not in a condition to bear
 that trying appeal to her feelings, he was interdicted from advancing
-another inch, on pain of perpetual hatred from all his dearest
+another inch, on [[Pain|pain]] of perpetual hatred from all his dearest
 connections; and accordingly retired to his stool again, and crushed
 himself as before.
 
@@ -440,7 +440,7 @@ direction?”
 settling her hair, and pressing the palms of her hands upon her eyes, she
 laughed again.
 
-“What a wicked fool I was, to think so for a moment!” said Mrs. Tetterby.
+“What a wicked [[Fool|fool]] I was, to think so for a moment!” said Mrs. Tetterby.
 “Come nearer, ’Dolphus, and let me ease my mind, and tell you what I
 mean. Let me tell you all about it.”
 
@@ -449,7 +449,7 @@ him a hug, and wiped her eyes.
 
 “You know, Dolphus, my dear,” said Mrs. Tetterby, “that when I was
 single, I might have given myself away in several directions. At one
-time, four after me at once; two of them were sons of Mars.”
+[[Time|time]], four after me at once; two of them were sons of Mars.”
 
 “We’re all sons of Ma’s, my dear,” said Mr. Tetterby, “jointly with
 Pa’s.”
@@ -458,7 +458,7 @@ Pa’s.”
 
 “Oh!” said Mr. Tetterby.
 
-“Well, ’Dolphus, I’m sure I never think of such things now, to regret
+“[[Well]], ’Dolphus, I’m sure I never think of such things now, to regret
 them; and I’m sure I’ve got as good a husband, and would do as much to
 prove that I was fond of him, as—”
 
@@ -470,7 +470,7 @@ gentler consideration for Mrs. Tetterby’s fairy-like stature; and if Mrs.
 Tetterby had been two feet high, she could not have felt it more
 appropriately her due.
 
-“But you see, ’Dolphus,” said Mrs. Tetterby, “this being Christmas-time,
+“But you see, ’Dolphus,” said Mrs. Tetterby, “this being Christmas-[[Time|time]],
 when all people who can, make holiday, and when all people who have got
 money, like to spend some, I did, somehow, get a little out of sorts when
 I was in the streets just now. There were so many things to be sold—such
@@ -483,7 +483,7 @@ was so small, and would go such a little way;—you hate me, don’t you,
 
 “Not quite,” said Mr. Tetterby, “as yet.”
 
-“Well! I’ll tell you the whole truth,” pursued his wife, penitently,
+“[[Well]]! I’ll tell you the whole [[Truth|truth]],” pursued his wife, penitently,
 “and then perhaps you will. I felt all this, so much, when I was
 trudging about in the cold, and when I saw a lot of other calculating
 faces and large baskets trudging about, too, that I began to think
@@ -501,21 +501,21 @@ me now, ’Dolphus?”
 
 Mrs. Tetterby gave him a thankful kiss, and went on.
 
-“I begin to hope you won’t, now, ’Dolphus, though I’m afraid I haven’t
+“I begin to [[Hope|hope]] you won’t, now, ’Dolphus, though I’m afraid I haven’t
 told you the worst. I can’t think what came over me. I don’t know
 whether I was ill, or mad, or what I was, but I couldn’t call up anything
 that seemed to bind us to each other, or to reconcile me to my fortune.
 All the pleasures and enjoyments we had ever had—_they_ seemed so poor
 and insignificant, I hated them. I could have trodden on them. And I
 could think of nothing else, except our being poor, and the number of
-mouths there were at home.”
+mouths there were at [[Home|home]].”
 
-“Well, well, my dear,” said Mr. Tetterby, shaking her hand encouragingly,
-“that’s truth, after all. We _are_ poor, and there _are_ a number of
-mouths at home here.”
+“[[Well]], [[Well|well]], my dear,” said Mr. Tetterby, shaking her hand encouragingly,
+“that’s [[Truth|truth]], after all. We _are_ poor, and there _are_ a number of
+mouths at [[Home|home]] here.”
 
 “Ah! but, Dolf, Dolf!” cried his wife, laying her hands upon his neck,
-“my good, kind, patient fellow, when I had been at home a very little
+“my good, kind, patient fellow, when I had been at [[Home|home]] a very little
 while—how different! Oh, Dolf, dear, how different it was! I felt as if
 there was a rush of recollection on me, all at once, that softened my
 hard heart, and filled it up till it was bursting. All our struggles for
@@ -533,7 +533,7 @@ do it!”
 The good woman, quite carried away by her honest tenderness and remorse,
 was weeping with all her heart, when she started up with a scream, and
 ran behind her husband. Her cry was so terrified, that the children
-started from their sleep and from their beds, and clung about her. Nor
+started from their [[Sleep|sleep]] and from their beds, and clung about her. Nor
 did her gaze belie her voice, as she pointed to a pale man in a black
 cloak who had come into the room.
 
@@ -559,21 +559,21 @@ motion of her eyes, as if she had lost something.
 “What is it that is going from me again?” she muttered, in a low voice.
 “What _is_ this that is going away?”
 
-Then she abruptly answered: “Ill? No, I am quite well,” and stood
+Then she abruptly answered: “Ill? No, I am quite [[Well|well]],” and stood
 looking vacantly at the floor.
 
 Her husband, who had not been altogether free from the infection of her
-fear at first, and whom the present strangeness of her manner did not
+[[Fear|fear]] at first, and whom the present strangeness of her manner did not
 tend to reassure, addressed himself to the pale visitor in the black
 cloak, who stood still, and whose eyes were bent upon the ground.
 
 “What may be your pleasure, sir,” he asked, “with us?”
 
-“I fear that my coming in unperceived,” returned the visitor, “has
+“I [[Fear|fear]] that my coming in unperceived,” returned the visitor, “has
 alarmed you; but you were talking and did not hear me.”
 
 “My little woman says—perhaps you heard her say it,” returned Mr.
-Tetterby, “that it’s not the first time you have alarmed her to-night.”
+Tetterby, “that it’s not the first [[Time|time]] you have alarmed her to-[[Night|night]].”
 
 “I am sorry for it. I remember to have observed her, for a few moments
 only, in the street. I had no intention of frightening her.”
@@ -583,7 +583,7 @@ to see what dread she had of him, and with what dread he observed it—and
 yet how narrowly and closely.
 
 “My name,” he said, “is Redlaw. I come from the old college hard by. A
-young gentleman who is a student there, lodges in your house, does he
+young gentleman who is a student there, lodges in your [[house]], does he
 not?”
 
 “Mr. Denham?” said Tetterby.
@@ -613,10 +613,10 @@ or fascinated.
 At length he said, “I’ll light you, sir, if you’ll follow me.”
 
 “No,” replied the Chemist, “I don’t wish to be attended, or announced to
-him. He does not expect me. I would rather go alone. Please to give me
+him. He does not expect me. I would rather go [[Alone|alone]]. Please to give me
 the light, if you can spare it, and I’ll find the way.”
 
-In the quickness of his expression of this desire, and in taking the
+In the quickness of his expression of this [[Desire|desire]], and in taking the
 candle from the newsman, he touched him on the breast. Withdrawing his
 hand hastily, almost as though he had wounded him by accident (for he did
 not know in what part of himself his new power resided, or how it was
@@ -641,7 +641,7 @@ lagging last. The mother, glancing contemptuously round the sordid room,
 and tossing from her the fragments of their meal, stopped on the
 threshold of her task of clearing the table, and sat down, pondering idly
 and dejectedly. The father betook himself to the chimney-corner, and
-impatiently raking the small fire together, bent over it as if he would
+impatiently raking the small [[Fire|fire]] together, bent over it as if he would
 monopolise it all. They did not interchange a word.
 
 The Chemist, paler than before, stole upward like a thief; looking back
@@ -655,30 +655,30 @@ He looked round, but there was nothing there; and a passage now shutting
 out the little parlour from his view, he went on, directing his eyes
 before him at the way he went.
 
-“It is only since last night,” he muttered gloomily, “that I have
+“It is only since last [[Night|night]],” he muttered gloomily, “that I have
 remained shut up, and yet all things are strange to me. I am strange to
-myself. I am here, as in a dream. What interest have I in this place,
+myself. I am here, as in [[A Dream|a dream]]. What interest have I in this place,
 or in any place that I can bring to my remembrance? My mind is going
 blind!”
 
 There was a door before him, and he knocked at it. Being invited, by a
 voice within, to enter, he complied.
 
-“Is that my kind nurse?” said the voice. “But I need not ask her. There
+“Is that my kind [[Nurse|nurse]]?” said the voice. “But I need not ask her. There
 is no one else to come here.”
 
 It spoke cheerfully, though in a languid tone, and attracted his
 attention to a young man lying on a couch, drawn before the
 chimney-piece, with the back towards the door. A meagre scanty stove,
 pinched and hollowed like a sick man’s cheeks, and bricked into the
-centre of a hearth that it could scarcely warm, contained the fire, to
-which his face was turned. Being so near the windy house-top, it wasted
+centre of a hearth that it could scarcely warm, contained the [[Fire|fire]], to
+which his face was turned. Being so near the windy [[house]]-top, it wasted
 quickly, and with a busy sound, and the burning ashes dropped down fast.
 
 “They chink when they shoot out here,” said the student, smiling, “so,
 according to the gossips, they are not coffins, but purses. I shall be
-well and rich yet, some day, if it please God, and shall live perhaps to
-love a daughter Milly, in remembrance of the kindest nature and the
+[[Well|well]] and rich yet, some day, if it please God, and shall live perhaps to
+[[Love|love]] a daughter Milly, in remembrance of the kindest [[Nature|nature]] and the
 gentlest heart in the world.”
 
 He put up his hand as if expecting her to take it, but, being weakened,
@@ -689,16 +689,16 @@ The Chemist glanced about the room;—at the student’s books and papers,
 piled upon a table in a corner, where they, and his extinguished
 reading-lamp, now prohibited and put away, told of the attentive hours
 that had gone before this illness, and perhaps caused it;—at such signs
-of his old health and freedom, as the out-of-door attire that hung idle
+of his old health and [[Freedom|freedom]], as the out-of-door attire that hung idle
 on the wall;—at those remembrances of other and less solitary scenes, the
-little miniatures upon the chimney-piece, and the drawing of home;—at
+little miniatures upon the chimney-piece, and the drawing of [[Home|home]];—at
 that token of his emulation, perhaps, in some sort, of his personal
-attachment too, the framed engraving of himself, the looker-on. The time
+attachment too, the framed engraving of himself, the looker-on. The [[Time|time]]
 had been, only yesterday, when not one of these objects, in its remotest
 association of interest with the living figure before him, would have
 been lost on Redlaw. Now, they were but objects; or, if any gleam of
 such connexion shot upon him, it perplexed, and not enlightened him, as
-he stood looking round with a dull wonder.
+he stood looking round with a dull [[Wonder|wonder]].
 
 The student, recalling the thin hand which had remained so long
 untouched, raised himself on the couch, and turned his head.
@@ -715,7 +715,7 @@ averted towards the ground.
 
 “I heard, by an accident, by what accident is no matter, that one of my
 class was ill and solitary. I received no other description of him, than
-that he lived in this street. Beginning my inquiries at the first house
+that he lived in this street. Beginning my inquiries at the first [[house]]
 in it, I have found him.”
 
 “I have been ill, sir,” returned the student, not merely with a modest
@@ -771,7 +771,7 @@ is between us.”
 A vacant and contemptuous laugh, was all his answer.
 
 “But, Mr. Redlaw,” said the student, “as a just man, and a good man,
-think how innocent I am, except in name and descent, of participation in
+think how [[Innocent|innocent]] I am, except in name and descent, of participation in
 any wrong inflicted on you or in any sorrow you have borne.”
 
 “Sorrow!” said Redlaw, laughing. “Wrong! What are those to me?”
@@ -790,11 +790,11 @@ from it, like the sun-beam of an instant, and it clouded as before.
 
 “The name my mother bears, sir,” faltered the young man, “the name she
 took, when she might, perhaps, have taken one more honoured. Mr.
-Redlaw,” hesitating, “I believe I know that history. Where my
+Redlaw,” hesitating, “I believe I know that [[history]]. Where my
 information halts, my guesses at what is wanting may supply something not
-remote from the truth. I am the child of a marriage that has not proved
-itself a well-assorted or a happy one. From infancy, I have heard you
-spoken of with honour and respect—with something that was almost
+remote from the [[Truth|truth]]. I am the [[Child|child]] of a [[Marriage|marriage]] that has not proved
+itself a [[Well|well]]-assorted or a happy one. From infancy, I have heard you
+spoken of with [[Honour|honour]] and respect—with something that was almost
 reverence. I have heard of such devotion, of such fortitude and
 tenderness, of such rising up against the obstacles which press men down,
 that my fancy, since I learnt my little lesson from my mother, has shed a
@@ -809,11 +809,11 @@ it has impressed me, and affected me, to find the gracious traces of the
 past, in that certain power of winning gratitude and confidence which is
 associated among us students (among the humblest of us, most) with Mr.
 Redlaw’s generous name. Our ages and positions are so different, sir,
-and I am so accustomed to regard you from a distance, that I wonder at my
+and I am so accustomed to regard you from a distance, that I [[Wonder|wonder]] at my
 own presumption when I touch, however lightly, on that theme. But to one
 who—I may say, who felt no common interest in my mother once—it may be
 something to hear, now that all is past, with what indescribable feelings
-of affection I have, in my obscurity, regarded him; with what pain and
+of affection I have, in my obscurity, regarded him; with what [[Pain|pain]] and
 reluctance I have kept aloof from his encouragement, when a word of it
 would have made me rich; yet how I have felt it fit that I should hold my
 course, content to know him, and to be unknown. Mr. Redlaw,” said the
@@ -833,7 +833,7 @@ his forehead.
 
 “The past is past,” said the Chemist. “It dies like the brutes. Who
 talks to me of its traces in my life? He raves or lies! What have I to
-do with your distempered dreams? If you want money, here it is. I came
+do with your distempered [[Dreams|dreams]]? If you want money, here it is. I came
 to offer it; and that is all I came for. There can be nothing else that
 brings me here,” he muttered, holding his head again, with both his
 hands. “There _can_ be nothing else, and yet—”
@@ -848,7 +848,7 @@ could take from me, with it, the remembrance of your words and offer.”
 
 “I do!”
 
-The Chemist went close to him, for the first time, and took the purse,
+The Chemist went close to him, for the first [[Time|time]], and took the purse,
 and turned him by the arm, and looked him in the face.
 
 “There is sorrow and trouble in sickness, is there not?” he demanded,
@@ -864,8 +864,8 @@ The student did not answer, but again passed his hand, confusedly, across
 his forehead. Redlaw still held him by the sleeve, when Milly’s voice
 was heard outside.
 
-“I can see very well now,” she said, “thank you, Dolf. Don’t cry, dear.
-Father and mother will be comfortable again, to-morrow, and home will be
+“I can see very [[Well|well]] now,” she said, “thank you, Dolf. Don’t cry, dear.
+Father and mother will be comfortable again, to-morrow, and [[Home|home]] will be
 comfortable too. A gentleman with him, is there!”
 
 Redlaw released his hold, as he listened.
@@ -883,7 +883,7 @@ muttered, looking uneasily around.
 She was knocking at the door again.
 
 “Of all the visitors who could come here,” he said, in a hoarse alarmed
-voice, turning to his companion, “this is the one I should desire most to
+voice, turning to his companion, “this is the one I should [[Desire|desire]] most to
 avoid. Hide me!”
 
 The student opened a frail door in the wall, communicating where the
@@ -893,7 +893,7 @@ Redlaw passed in hastily, and shut it after him.
 The student then resumed his place upon the couch, and called to her to
 enter.
 
-“Dear Mr. Edmund,” said Milly, looking round, “they told me there was a
+“Dear Mr. [[Edmund]],” said Milly, looking round, “they told me there was a
 gentleman here.”
 
 “There is no one here but I.”
@@ -907,7 +907,7 @@ couch, as if to take the extended hand—but it was not there. A little
 surprised, in her quiet way, she leaned over to look at his face, and
 gently touched him on the brow.
 
-“Are you quite as well to-night? Your head is not so cool as in the
+“Are you quite as [[Well|well]] to-[[Night|night]]? Your head is not so cool as in the
 afternoon.”
 
 “Tut!” said the student, petulantly, “very little ails me.”
@@ -918,15 +918,15 @@ needlework from her basket. But she laid it down again, on second
 thoughts, and going noiselessly about the room, set everything exactly in
 its place, and in the neatest order; even to the cushions on the couch,
 which she touched with so light a hand, that he hardly seemed to know it,
-as he lay looking at the fire. When all this was done, and she had swept
+as he lay looking at the [[Fire|fire]]. When all this was done, and she had swept
 the hearth, she sat down, in her modest little bonnet, to her work, and
 was quietly busy on it directly.
 
-“It’s the new muslin curtain for the window, Mr. Edmund,” said Milly,
+“It’s the new muslin curtain for the [[Window|window]], Mr. [[Edmund]],” said Milly,
 stitching away as she talked. “It will look very clean and nice, though
 it costs very little, and will save your eyes, too, from the light. My
 William says the room should not be too light just now, when you are
-recovering so well, or the glare might make you giddy.”
+recovering so [[Well|well]], or the glare might make you giddy.”
 
 He said nothing; but there was something so fretful and impatient in his
 change of position, that her quick fingers stopped, and she looked at him
@@ -935,7 +935,7 @@ anxiously.
 “The pillows are not comfortable,” she said, laying down her work and
 rising. “I will soon put them right.”
 
-“They are very well,” he answered. “Leave them alone, pray. You make so
+“They are very [[Well|well]],” he answered. “Leave them [[Alone|alone]], pray. You make so
 much of everything.”
 
 He raised his head to say this, and looked at her so thanklessly, that,
@@ -943,13 +943,13 @@ after he had thrown himself down again, she stood timidly pausing.
 However, she resumed her seat, and her needle, without having directed
 even a murmuring look towards him, and was soon as busy as before.
 
-“I have been thinking, Mr. Edmund, that _you_ have been often thinking of
+“I have been thinking, Mr. [[Edmund]], that _you_ have been often thinking of
 late, when I have been sitting by, how true the saying is, that adversity
 is a good teacher. Health will be more precious to you, after this
-illness, than it has ever been. And years hence, when this time of year
-comes round, and you remember the days when you lay here sick, alone,
+illness, than it has ever been. And years hence, when this [[Time|time]] of year
+comes round, and you remember the days when you lay here sick, [[Alone|alone]],
 that the knowledge of your illness might not afflict those who are
-dearest to you, your home will be doubly dear and doubly blest. Now,
+dearest to you, your [[Home|home]] will be doubly dear and doubly blest. Now,
 isn’t that a good, true thing?”
 
 She was too intent upon her work, and too earnest in what she said, and
@@ -959,7 +959,7 @@ fell harmless, and did not wound her.
 
 “Ah!” said Milly, with her pretty head inclining thoughtfully on one
 side, as she looked down, following her busy fingers with her eyes.
-“Even on me—and I am very different from you, Mr. Edmund, for I have no
+“Even on me—and I am very different from you, Mr. [[Edmund]], for I have no
 learning, and don’t know how to think properly—this view of such things
 has made a great impression, since you have been lying ill. When I have
 seen you so touched by the kindness and attention of the poor people down
@@ -972,7 +972,7 @@ His getting up from the couch, interrupted her, or she was going on to
 say more.
 
 “We needn’t magnify the merit, Mrs. William,” he rejoined slightingly.
-“The people down stairs will be paid in good time I dare say, for any
+“The people down stairs will be paid in good [[Time|time]] I dare say, for any
 little extra service they may have rendered me; and perhaps they
 anticipate no less. I am much obliged to you, too.”
 
@@ -990,10 +990,10 @@ your due in obligation, by preferring enormous claims upon me? Trouble,
 sorrow, affliction, adversity! One might suppose I had been dying a
 score of deaths here!”
 
-“Do you believe, Mr. Edmund,” she asked, rising and going nearer to him,
-“that I spoke of the poor people of the house, with any reference to
+“Do you believe, Mr. [[Edmund]],” she asked, rising and going nearer to him,
+“that I spoke of the poor people of the [[house]], with any reference to
 myself? To me?” laying her hand upon her bosom with a simple and
-innocent smile of astonishment.
+[[Innocent|innocent]] smile of astonishment.
 
 “Oh! I think nothing about it, my good creature,” he returned. “I have
 had an indisposition, which your solicitude—observe! I say
@@ -1005,7 +1005,7 @@ He coldly took a book, and sat down at the table.
 She watched him for a little while, until her smile was quite gone, and
 then, returning to where her basket was, said gently:
 
-“Mr. Edmund, would you rather be alone?”
+“Mr. [[Edmund]], would you rather be [[Alone|alone]]?”
 
 “There is no reason why I should detain you here,” he replied.
 
@@ -1020,11 +1020,11 @@ not choose but look at her, she said:
 
 “If you should want me, I will come back willingly. When you did want
 me, I was quite happy to come; there was no merit in it. I think you
-must be afraid, that, now you are getting well, I may be troublesome to
+must be afraid, that, now you are getting [[Well|well]], I may be troublesome to
 you; but I should not have been, indeed. I should have come no longer
 than your weakness and confinement lasted. You owe me nothing; but it is
 right that you should deal as justly by me as if I was a lady—even the
-very lady that you love; and if you suspect me of meanly making much of
+very lady that you [[Love|love]]; and if you suspect me of meanly making much of
 the little I have tried to do to comfort your sick room, you do yourself
 more wrong than ever you can do me. That is why I am sorry. That is why
 I am very sorry.”
@@ -1045,55 +1045,55 @@ change have you wrought in me? What curse have you brought upon me?
 Give me back _my_self!”
 
 “Give me back myself!” exclaimed Redlaw like a madman. “I am infected!
-I am infectious! I am charged with poison for my own mind, and the minds
+I am infectious! I am charged with [[Poison|poison]] for my own mind, and the minds
 of all mankind. Where I felt interest, compassion, sympathy, I am
-turning into stone. Selfishness and ingratitude spring up in my
+turning into stone. Selfishness and ingratitude [[Spring|spring]] up in my
 blighting footsteps. I am only so much less base than the wretches whom
 I make so, that in the moment of their transformation I can hate them.”
 
 As he spoke—the young man still holding to his cloak—he cast him off, and
-struck him: then, wildly hurried out into the night air where the wind
-was blowing, the snow falling, the cloud-drift sweeping on, the moon
-dimly shining; and where, blowing in the wind, falling with the snow,
+struck him: then, wildly hurried out into the [[Night|night]] air where the [[Wind|wind]]
+was blowing, the [[Snow|snow]] falling, the cloud-drift sweeping on, the [[Moon|moon]]
+dimly shining; and where, blowing in the [[Wind|wind]], falling with the [[Snow|snow]],
 drifting with the clouds, shining in the moonlight, and heavily looming
-in the darkness, were the Phantom’s words, “The gift that I have given,
+in the darkness, were the [[Phantom]]’s words, “The gift that I have given,
 you shall give again, go where you will!”
 
 Whither he went, he neither knew nor cared, so that he avoided company.
-The change he felt within him made the busy streets a desert, and himself
-a desert, and the multitude around him, in their manifold endurances and
+The change he felt within him made the busy streets a [[Desert|desert]], and himself
+a [[Desert|desert]], and the multitude around him, in their manifold endurances and
 ways of life, a mighty waste of sand, which the winds tossed into
 unintelligible heaps and made a ruinous confusion of. Those traces in
-his breast which the Phantom had told him would “die out soon,” were not,
-as yet, so far upon their way to death, but that he understood enough of
-what he was, and what he made of others, to desire to be alone.
+his breast which the [[Phantom]] had told him would “die out soon,” were not,
+as yet, so far upon their way to [[Death|death]], but that he understood enough of
+what he was, and what he made of others, to [[Desire|desire]] to be [[Alone|alone]].
 
 This put it in his mind—he suddenly bethought himself, as he was going
 along, of the boy who had rushed into his room. And then he recollected,
-that of those with whom he had communicated since the Phantom’s
-disappearance, that boy alone had shown no sign of being changed.
+that of those with whom he had communicated since the [[Phantom]]’s
+disappearance, that boy [[Alone|alone]] had shown no sign of being changed.
 
 Monstrous and odious as the wild thing was to him, he determined to seek
 it out, and prove if this were really so; and also to seek it with
-another intention, which came into his thoughts at the same time.
+another intention, which came into his thoughts at the same [[Time|time]].
 
 So, resolving with some difficulty where he was, he directed his steps
 back to the old college, and to that part of it where the general porch
-was, and where, alone, the pavement was worn by the tread of the
+was, and where, [[Alone|alone]], the pavement was worn by the tread of the
 students’ feet.
 
-The keeper’s house stood just within the iron gates, forming a part of
+The keeper’s [[house]] stood just within the iron gates, forming a part of
 the chief quadrangle. There was a little cloister outside, and from that
-sheltered place he knew he could look in at the window of their ordinary
+sheltered place he knew he could look in at the [[Window|window]] of their ordinary
 room, and see who was within. The iron gates were shut, but his hand was
 familiar with the fastening, and drawing it back by thrusting in his
 wrist between the bars, he passed through softly, shut it again, and
-crept up to the window, crumbling the thin crust of snow with his feet.
+crept up to the [[Window|window]], crumbling the thin crust of [[Snow|snow]] with his feet.
 
-The fire, to which he had directed the boy last night, shining brightly
+The [[Fire|fire]], to which he had directed the boy last [[Night|night]], shining brightly
 through the glass, made an illuminated place upon the ground.
 Instinctively avoiding this, and going round it, he looked in at the
-window. At first, he thought that there was no one there, and that the
+[[Window|window]]. At first, he thought that there was no one there, and that the
 blaze was reddening only the old beams in the ceiling and the dark walls;
 but peering in more narrowly, he saw the object of his search coiled
 asleep before it on the floor. He passed quickly to the door, opened it,
@@ -1107,7 +1107,7 @@ heaped upon the ground, he struck his foot out to defend himself.
 
 “Get up!” said the Chemist. “You have not forgotten me?”
 
-“You let me alone!” returned the boy. “This is the woman’s house—not
+“You let me [[Alone|alone]]!” returned the boy. “This is the woman’s [[house]]—not
 yours.”
 
 The Chemist’s steady eye controlled him somewhat, or inspired him with
@@ -1126,7 +1126,7 @@ Redlaw asked these questions to attract his eyes towards himself, and
 with the same intent now held him by the chin, and threw his wild hair
 back, though he loathed to touch him. The boy watched his eyes keenly,
 as if he thought it needful to his own defence, not knowing what he might
-do next; and Redlaw could see well that no change came over him.
+do next; and Redlaw could see [[Well|well]] that no change came over him.
 
 “Where are they?” he inquired.
 
@@ -1149,7 +1149,7 @@ hurry, and told me to stop here.”
 Do you know your way to where you came from?”
 
 “You let me go,” returned the boy, suddenly twisting out of his grasp.
-“I’m not a going to take you there. Let me be, or I’ll heave some fire
+“I’m not a going to take you there. Let me be, or I’ll heave some [[Fire|fire]]
 at you!”
 
 He was down before it, and ready, with his savage little hand, to pluck
@@ -1157,9 +1157,9 @@ the burning coals out.
 
 What the Chemist had felt, in observing the effect of his charmed
 influence stealing over those with whom he came in contact, was not
-nearly equal to the cold vague terror with which he saw this baby-monster
-put it at defiance. It chilled his blood to look on the immovable
-impenetrable thing, in the likeness of a child, with its sharp malignant
+nearly equal to the cold vague terror with which he saw this baby-[[Monster|monster]]
+put it at defiance. It chilled his [[Blood|blood]] to look on the immovable
+impenetrable thing, in the likeness of a [[Child|child]], with its sharp malignant
 face turned up to his, and its almost infant hand, ready at the bars.
 
 “Listen, boy!” he said. “You shall take me where you please, so that you
@@ -1181,7 +1181,7 @@ beginning to get up.
 “Give me some money first, then, and go.”
 
 The Chemist laid a few shillings, one by one, in his extended hand. To
-count them was beyond the boy’s knowledge, but he said “one,” every time,
+count them was beyond the boy’s knowledge, but he said “one,” every [[Time|time]],
 and avariciously looked at each as it was given, and at the donor. He
 had nowhere to put them, out of his hand, but in his mouth; and he put
 them there.
@@ -1189,7 +1189,7 @@ them there.
 Redlaw then wrote with his pencil on a leaf of his pocket-book, that the
 boy was with him; and laying it on the table, signed to him to follow.
 Keeping his rags together, as usual, the boy complied, and went out with
-his bare head and naked feet into the winter night.
+his bare head and naked feet into the [[Winter|winter]] [[Night|night]].
 
 Preferring not to depart by the iron gate by which he had entered, where
 they were in danger of meeting her whom he so anxiously avoided, the
@@ -1213,33 +1213,33 @@ The first occasion was when they were crossing an old churchyard, and
 Redlaw stopped among the graves, utterly at a loss how to connect them
 with any tender, softening, or consolatory thought.
 
-The second was, when the breaking forth of the moon induced him to look
+The second was, when the breaking forth of the [[Moon|moon]] induced him to look
 up at the Heavens, where he saw her in her glory, surrounded by a host of
-stars he still knew by the names and histories which human science has
+[[Stars|stars]] he still knew by the names and histories which human science has
 appended to them; but where he saw nothing else he had been wont to see,
 felt nothing he had been wont to feel, in looking up there, on a bright
-night.
+[[Night|night]].
 
 The third was when he stopped to listen to a plaintive strain of music,
 but could only hear a tune, made manifest to him by the dry mechanism of
 the instruments and his own ears, with no address to any mystery within
 him, without a whisper in it of the past, or of the future, powerless
-upon him as the sound of last year’s running water, or the rushing of
-last year’s wind.
+upon him as the sound of last year’s running [[Water|water]], or the rushing of
+last year’s [[Wind|wind]].
 
 At each of these three times, he saw with horror that, in spite of the
 vast intellectual distance between them, and their being unlike each
 other in all physical respects, the expression on the boy’s face was the
 expression on his own.
 
-They journeyed on for some time—now through such crowded places, that he
+They journeyed on for some [[Time|time]]—now through such crowded places, that he
 often looked over his shoulder thinking he had lost his guide, but
-generally finding him within his shadow on his other side; now by ways so
+generally finding him within his [[Shadow|shadow]] on his other side; now by ways so
 quiet, that he could have counted his short, quick, naked footsteps
 coming on behind—until they arrived at a ruinous collection of houses,
 and the boy touched him and stopped.
 
-“In there!” he said, pointing out one house where there were scattered
+“In there!” he said, pointing out one [[house]] where there were scattered
 lights in the windows, and a dim lantern in the doorway, with “Lodgings
 for Travellers” painted on it.
 
@@ -1249,23 +1249,23 @@ unfenced, undrained, unlighted, and bordered by a sluggish ditch; from
 that, to the sloping line of arches, part of some neighbouring viaduct or
 bridge with which it was surrounded, and which lessened gradually towards
 them, until the last but one was a mere kennel for a dog, the last a
-plundered little heap of bricks; from that, to the child, close to him,
+plundered little heap of bricks; from that, to the [[Child|child]], close to him,
 cowering and trembling with the cold, and limping on one little foot,
 while he coiled the other round his leg to warm it, yet staring at all
 these things with that frightful likeness of expression so apparent in
 his face, that Redlaw started from him.
 
-“In there!” said the boy, pointing out the house again. “I’ll wait.”
+“In there!” said the boy, pointing out the [[house]] again. “I’ll wait.”
 
 “Will they let me in?” asked Redlaw.
 
 “Say you’re a doctor,” he answered with a nod. “There’s plenty ill
 here.”
 
-Looking back on his way to the house-door, Redlaw saw him trail himself
-upon the dust and crawl within the shelter of the smallest arch, as if he
+Looking back on his way to the [[house]]-door, Redlaw saw him trail himself
+upon the [[Dust|dust]] and crawl within the shelter of the smallest arch, as if he
 were a rat. He had no pity for the thing, but he was afraid of it; and
-when it looked out of its den at him, he hurried to the house as a
+when it looked out of its den at him, he hurried to the [[house]] as a
 retreat.
 
 “Sorrow, wrong, and trouble,” said the Chemist, with a painful effort at
@@ -1279,7 +1279,7 @@ head was bent down on her hands and knees. As it was not easy to pass
 without treading on her, and as she was perfectly regardless of his near
 approach, he stopped, and touched her on the shoulder. Looking up, she
 showed him quite a young face, but one whose bloom and promise were all
-swept away, as if the haggard winter should unnaturally kill the spring.
+swept away, as if the haggard [[Winter|winter]] should unnaturally kill the [[Spring|spring]].
 
 With little or no show of concern on his account, she moved nearer to the
 wall to leave him a wider passage.
@@ -1294,7 +1294,7 @@ disfigured; and something, which was not compassion—for the springs in
 which a true compassion for such miseries has its rise, were dried up in
 his breast—but which was nearer to it, for the moment, than any feeling
 that had lately struggled into the darkening, but not yet wholly
-darkened, night of his mind—mingled a touch of softness with his next
+darkened, [[Night|night]] of his mind—mingled a touch of softness with his next
 words.
 
 “I am come here to give relief, if I can,” he said. “Are you thinking of
@@ -1313,7 +1313,7 @@ thousands, when he saw her, drooping at his feet.
 
 “What are your parents?” he demanded.
 
-“I had a good home once. My father was a gardener, far away, in the
+“I had a good [[Home|home]] once. My father was a gardener, far away, in the
 country.”
 
 “Is he dead?”
@@ -1321,13 +1321,13 @@ country.”
 “He’s dead to me. All such things are dead to me. You a gentleman, and
 not know that!” She raised her eyes again, and laughed at him.
 
-“Girl!” said Redlaw, sternly, “before this death, of all such things, was
+“Girl!” said Redlaw, sternly, “before this [[Death|death]], of all such things, was
 brought about, was there no wrong done to you? In spite of all that you
 can do, does no remembrance of wrong cleave to you? Are there not times
 upon times when it is misery to you?”
 
 So little of what was womanly was left in her appearance, that now, when
-she burst into tears, he stood amazed. But he was more amazed, and much
+she burst into [[Tears|tears]], he stood amazed. But he was more amazed, and much
 disquieted, to note that in her awakened recollection of this wrong, the
 first trace of her old humanity and frozen tenderness appeared to show
 itself.
@@ -1355,7 +1355,7 @@ had ever come near her.
 those roots! In the name of God, let me go by!”
 
 Afraid to look at her again, afraid to touch her, afraid to think of
-having sundered the last thread by which she held upon the mercy of
+having sundered the last thread by which she held upon the [[Mercy|mercy]] of
 Heaven, he gathered his cloak about him, and glided swiftly up the
 stairs.
 
@@ -1366,7 +1366,7 @@ emotion in his manner, and, as if by a sudden impulse, mentioned his name
 aloud.
 
 In the surprise of such a recognition there, he stopped, endeavouring to
-recollect the wan and startled face. He had no time to consider it, for,
+recollect the wan and startled face. He had no [[Time|time]] to consider it, for,
 to his yet greater amazement, old Philip came out of the room, and took
 him by the hand.
 
@@ -1375,10 +1375,10 @@ you have heard of it, and have come after us to render any help you can.
 Ah, too late, too late!”
 
 Redlaw, with a bewildered look, submitted to be led into the room. A man
-lay there, on a truckle-bed, and William Swidger stood at the bedside.
+lay there, on a truckle-bed, and [[William Swidger]] stood at the bedside.
 
 “Too late!” murmured the old man, looking wistfully into the Chemist’s
-face; and the tears stole down his cheeks.
+face; and the [[Tears|tears]] stole down his cheeks.
 
 “That’s what I say, father,” interposed his son in a low voice. “That’s
 where it is, exactly. To keep as quiet as ever we can while he’s a
@@ -1389,18 +1389,18 @@ stretched upon the mattress. It was that of a man, who should have been
 in the vigour of his life, but on whom it was not likely the sun would
 ever shine again. The vices of his forty or fifty years’ career had so
 branded him, that, in comparison with their effects upon his face, the
-heavy hand of Time upon the old man’s face who watched him had been
+heavy hand of [[Time]] upon the old man’s face who watched him had been
 merciful and beautifying.
 
 “Who is this?” asked the Chemist, looking round.
 
 “My son George, Mr. Redlaw,” said the old man, wringing his hands. “My
-eldest son, George, who was more his mother’s pride than all the rest!”
+eldest son, George, who was more his mother’s [[Pride|pride]] than all the rest!”
 
 Redlaw’s eyes wandered from the old man’s grey head, as he laid it down
 upon the bed, to the person who had recognised him, and who had kept
 aloof, in the remotest corner of the room. He seemed to be about his own
-age; and although he knew no such hopeless decay and broken man as he
+age; and although he knew no such hopeless [[Decay|decay]] and broken man as he
 appeared to be, there was something in the turn of his figure, as he
 stood with his back towards him, and now went out at the door, that made
 him pass his hand uneasily across his brow.
@@ -1414,11 +1414,11 @@ himself down inch by inch till he can’t let himself down any lower!”
 “Has _he_ done so?” asked Redlaw, glancing after him with the same uneasy
 action as before.
 
-“Just exactly that, sir,” returned William Swidger, “as I’m told. He
+“Just exactly that, sir,” returned [[William Swidger]], “as I’m told. He
 knows a little about medicine, sir, it seems; and having been wayfaring
-towards London with my unhappy brother that you see here,” Mr. William
+towards [[London]] with my unhappy brother that you see here,” Mr. William
 passed his coat-sleeve across his eyes, “and being lodging up stairs for
-the night—what I say, you see, is that strange companions come together
+the [[Night|night]]—what I say, you see, is that strange companions come together
 here sometimes—he looked in to attend upon him, and came for us at his
 request. What a mournful spectacle, sir! But that’s where it is. It’s
 enough to kill my father!”
@@ -1426,18 +1426,18 @@ enough to kill my father!”
 Redlaw looked up, at these words, and, recalling where he was and with
 whom, and the spell he carried with him—which his surprise had
 obscured—retired a little, hurriedly, debating with himself whether to
-shun the house that moment, or remain.
+shun the [[house]] that moment, or remain.
 
 Yielding to a certain sullen doggedness, which it seemed to be a part of
 his condition to struggle with, he argued for remaining.
 
-“Was it only yesterday,” he said, “when I observed the memory of this old
+“Was it only yesterday,” he said, “when I observed the [[Memory|memory]] of this old
 man to be a tissue of sorrow and trouble, and shall I be afraid,
-to-night, to shake it? Are such remembrances as I can drive away, so
-precious to this dying man that I need fear for _him_? No! I’ll stay
+to-[[Night|night]], to shake it? Are such remembrances as I can drive away, so
+precious to this dying man that I need [[Fear|fear]] for _him_? No! I’ll stay
 here.”
 
-But he stayed in fear and trembling none the less for these words; and,
+But he stayed in [[Fear|fear]] and trembling none the less for these words; and,
 shrouded in his black cloak with his face turned from them, stood away
 from the bedside, listening to what they said, as if he felt himself a
 demon in the place.
@@ -1452,11 +1452,11 @@ dreadful thing to think now, of long ago!”
 “No, no, no;” returned the old man. “Think of it. Don’t say it’s
 dreadful. It’s not dreadful to me, my son.”
 
-“It cuts you to the heart, father.” For the old man’s tears were falling
+“It cuts you to the heart, father.” For the old man’s [[Tears|tears]] were falling
 on him.
 
 “Yes, yes,” said Philip, “so it does; but it does me good. It’s a heavy
-sorrow to think of that time, but it does me good, George. Oh, think of
+sorrow to think of that [[Time|time]], but it does me good, George. Oh, think of
 it too, think of it too, and your heart will be softened more and more!
 Where’s my son William? William, my boy, your mother loved him dearly to
 the last, and with her latest breath said, ‘Tell him I forgave him,
@@ -1465,12 +1465,12 @@ never forgotten them, and I’m eighty-seven!”
 
 “Father!” said the man upon the bed, “I am dying, I know. I am so far
 gone, that I can hardly speak, even of what my mind most runs on. Is
-there any hope for me beyond this bed?”
+there any [[Hope|hope]] for me beyond this bed?”
 
-“There is hope,” returned the old man, “for all who are softened and
-penitent. There is hope for all such. Oh!” he exclaimed, clasping his
+“There is [[Hope|hope]],” returned the old man, “for all who are softened and
+penitent. There is [[Hope|hope]] for all such. Oh!” he exclaimed, clasping his
 hands and looking up, “I was thankful, only yesterday, that I could
-remember this unhappy son when he was an innocent child. But what a
+remember this unhappy son when he was an [[Innocent|innocent]] [[Child|child]]. But what a
 comfort it is, now, to think that even God himself has that remembrance
 of him!”
 
@@ -1479,10 +1479,10 @@ Redlaw spread his hands upon his face, and shrank, like a murderer.
 “Ah!” feebly moaned the man upon the bed. “The waste since then, the
 waste of life since then!”
 
-“But he was a child once,” said the old man. “He played with children.
-Before he lay down on his bed at night, and fell into his guiltless rest,
+“But he was a [[Child|child]] once,” said the old man. “He played with children.
+Before he lay down on his bed at [[Night|night]], and fell into his guiltless rest,
 he said his prayers at his poor mother’s knee. I have seen him do it,
-many a time; and seen her lay his head upon her breast, and kiss him.
+many a [[Time|time]]; and seen her lay his head upon her breast, and kiss him.
 Sorrowful as it was to her and me, to think of this, when he went so
 wrong, and when our hopes and plans for him were all broken, this gave
 him still a hold upon us, that nothing else could have given. Oh,
@@ -1493,12 +1493,12 @@ seemed to cry to us!”
 
 As the old man lifted up his trembling hands, the son, for whom he made
 the supplication, laid his sinking head against him for support and
-comfort, as if he were indeed the child of whom he spoke.
+comfort, as if he were indeed the [[Child|child]] of whom he spoke.
 
-When did man ever tremble, as Redlaw trembled, in the silence that
+When did man ever tremble, as Redlaw trembled, in the [[Silence|silence]] that
 ensued! He knew it must come upon them, knew that it was coming fast.
 
-“My time is very short, my breath is shorter,” said the sick man,
+“My [[Time|time]] is very short, my breath is shorter,” said the sick man,
 supporting himself on one arm, and with the other groping in the air,
 “and I remember there is something on my mind concerning the man who was
 here just now, Father and William—wait!—is there really anything in
@@ -1516,7 +1516,7 @@ him. “It’s Mr. Redlaw.”
 The Chemist, whiter than the dying man, appeared before him. Obedient to
 the motion of his hand, he sat upon the bed.
 
-“It has been so ripped up, to-night, sir,” said the sick man, laying his
+“It has been so ripped up, to-[[Night|night]], sir,” said the sick man, laying his
 hand upon his heart, with a look in which the mute, imploring agony of
 his condition was concentrated, “by the sight of my poor old father, and
 the thought of all the trouble I have been the cause of, and all the
@@ -1529,11 +1529,11 @@ another change, that made him stop?
 I’ll try to do. There was another man here. Did you see him?”
 
 Redlaw could not reply by any word; for when he saw that fatal sign he
-knew so well now, of the wandering hand upon the forehead, his voice died
+knew so [[Well|well]] now, of the wandering hand upon the forehead, his voice died
 at his lips. But he made some indication of assent.
 
 “He is penniless, hungry, and destitute. He is completely beaten down,
-and has no resource at all. Look after him! Lose no time! I know he
+and has no resource at all. Look after him! Lose no [[Time|time]]! I know he
 has it in his mind to kill himself.”
 
 It was working. It was on his face. His face was changing, hardening,
@@ -1550,18 +1550,18 @@ here! I have lived bold, and I mean to die bold. To the Devil with
 you!”
 
 And so lay down upon his bed, and put his arms up, over his head and
-ears, as resolute from that time to keep out all access, and to die in
+ears, as resolute from that [[Time|time]] to keep out all access, and to die in
 his indifference.
 
-If Redlaw had been struck by lightning, it could not have struck him from
+If Redlaw had been struck by [[Lightning|lightning]], it could not have struck him from
 the bedside with a more tremendous shock. But the old man, who had left
 the bed while his son was speaking to him, now returning, avoided it
 quickly likewise, and with abhorrence.
 
 “Where’s my boy William?” said the old man hurriedly. “William, come
-away from here. We’ll go home.”
+away from here. We’ll go [[Home|home]].”
 
-“Home, father!” returned William. “Are you going to leave your own son?”
+“[[Home]], father!” returned William. “Are you going to leave your own son?”
 
 “Where’s my own son?” replied the old man.
 
@@ -1584,7 +1584,7 @@ pleasure, I should like to know?”
 William, sulkily.
 
 “Let me think,” said the old man. “For how many Christmas times running,
-have I sat in my warm place, and never had to come out in the cold night
+have I sat in my warm place, and never had to come out in the cold [[Night|night]]
 air; and have made good cheer, without being disturbed by any such
 uncomfortable, wretched sight as him there? Is it twenty, William?”
 
@@ -1599,29 +1599,29 @@ weakly, “and I don’t know as I ever was much put out by anything. I’m
 not going to begin now, because of what he calls my son. He’s not my
 son. I’ve had a power of pleasant times. I recollect once—no I
 don’t—no, it’s broken off. It was something about a game of cricket and
-a friend of mine, but it’s somehow broken off. I wonder who he was—I
-suppose I liked him? And I wonder what became of him—I suppose he died?
+a friend of mine, but it’s somehow broken off. I [[Wonder|wonder]] who he was—I
+suppose I liked him? And I [[Wonder|wonder]] what became of him—I suppose he died?
 But I don’t know. And I don’t care, neither; I don’t care a bit.”
 
 In his drowsy chuckling, and the shaking of his head, he put his hands
 into his waistcoat pockets. In one of them he found a bit of holly (left
-there, probably last night), which he now took out, and looked at.
+there, probably last [[Night|night]]), which he now took out, and looked at.
 
 “Berries, eh?” said the old man. “Ah! It’s a pity they’re not good to
 eat. I recollect, when I was a little chap about as high as that, and
 out a walking with—let me see—who was I out a walking with?—no, I don’t
 remember how that was. I don’t remember as I ever walked with any one
 particular, or cared for any one, or any one for me. Berries, eh?
-There’s good cheer when there’s berries. Well; I ought to have my share
+There’s good cheer when there’s berries. [[Well]]; I ought to have my share
 of it, and to be waited on, and kept warm and comfortable; for I’m
 eighty-seven, and a poor old man. I’m eigh-ty-seven. Eigh-ty-seven!”
 
 The drivelling, pitiable manner in which, as he repeated this, he nibbled
-at the leaves, and spat the morsels out; the cold, uninterested eye with
+at the [[Leaves|leaves]], and spat the morsels out; the cold, uninterested eye with
 which his youngest son (so changed) regarded him; the determined apathy
 with which his eldest son lay hardened in his sin; impressed themselves
 no more on Redlaw’s observation,—for he broke his way from the spot to
-which his feet seemed to have been fixed, and ran out of the house.
+which his feet seemed to have been fixed, and ran out of the [[house]].
 
 His guide came crawling forth from his place of refuge, and was ready for
 him before he reached the arches.
@@ -1645,20 +1645,20 @@ table, when he looked round.
 “Come!” he said. “Don’t you touch me! You’ve not brought me here to
 take my money away.”
 
-Redlaw threw some more upon the ground. He flung his body on it
+Redlaw threw some more upon the ground. He flung his [[Body|body]] on it
 immediately, as if to hide it from him, lest the sight of it should tempt
 him to reclaim it; and not until he saw him seated by his lamp, with his
 face hidden in his hands, began furtively to pick it up. When he had
-done so, he crept near the fire, and, sitting down in a great chair
+done so, he crept near the [[Fire|fire]], and, sitting down in a great chair
 before it, took from his breast some broken scraps of food, and fell to
 munching, and to staring at the blaze, and now and then to glancing at
 his shillings, which he kept clenched up in a bunch, in one hand.
 
 “And this,” said Redlaw, gazing on him with increased repugnance and
-fear, “is the only one companion I have left on earth!”
+[[Fear|fear]], “is the only one companion I have left on earth!”
 
 How long it was before he was aroused from his contemplation of this
-creature, whom he dreaded so—whether half-an-hour, or half the night—he
+creature, whom he dreaded so—whether half-an-hour, or half the [[Night|night]]—he
 knew not. But the stillness of the room was broken by the boy (whom he
 had seen listening) starting up, and running towards the door.
 
@@ -1698,7 +1698,7 @@ misgives me, of the young gentleman who has been ill. What is to be
 done? How is he to be followed? How is he to be saved? Mr. Redlaw,
 pray, oh, pray, advise me! Help me!”
 
-All this time he held the boy, who was half-mad to pass him, and let her
+All this [[Time|time]] he held the boy, who was half-mad to pass him, and let her
 in.
 
 “Phantoms! Punishers of impious thoughts!” cried Redlaw, gazing round in
@@ -1713,8 +1713,8 @@ me!”
 There was no response, but her “Help me, help me, let me in!” and the
 boy’s struggling to get to her.
 
-“Shadow of myself! Spirit of my darker hours!” cried Redlaw, in
-distraction, “come back, and haunt me day and night, but take this gift
+“[[Shadow]] of myself! Spirit of my darker hours!” cried Redlaw, in
+distraction, “come back, and haunt me day and [[Night|night]], but take this gift
 away! Or, if it must still rest with me, deprive me of the dreadful
 power of giving it to others. Undo what I have done. Leave me
 benighted, but restore the day to those whom I have cursed. As I have

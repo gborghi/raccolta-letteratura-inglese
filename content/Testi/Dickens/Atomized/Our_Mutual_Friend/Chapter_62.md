@@ -20,7 +20,7 @@ THE GOLDEN DUSTMAN SINKS AGAIN
 
 
 The evening of that day being one of the reading evenings at the Bower,
-Mr Boffin kissed Mrs Boffin after a five o’clock dinner, and trotted
+Mr Boffin kissed Mrs Boffin after a five o’[[Clock|clock]] dinner, and trotted
 out, nursing his big stick in both arms, so that, as of old, it seemed
 to be whispering in his ear. He carried so very attentive an expression
 on his countenance that it appeared as if the confidential discourse of
@@ -29,44 +29,44 @@ the face of a thoughtful listener to an intricate communication, and, in
 trotting along, he occasionally glanced at that companion with the look
 of a man who was interposing the remark: ‘You don’t mean it!’
 
-Mr Boffin and his stick went on alone together, until they arrived at
-certain cross-ways where they would be likely to fall in with any one
-coming, at about the same time, from Clerkenwell to the Bower. Here they
+Mr Boffin and his stick went on [[Alone|alone]] together, until they arrived at
+certain [[Cross|cross]]-ways where they would be likely to fall in with any one
+coming, at about the same [[Time|time]], from Clerkenwell to the Bower. Here they
 stopped, and Mr Boffin consulted his watch.
 
-‘It wants five minutes, good, to Venus’s appointment,’ said he. ‘I’m
+‘It wants five minutes, good, to [[Venus]]’s appointment,’ said he. ‘I’m
 rather early.’
 
-But Venus was a punctual man, and, even as Mr Boffin replaced his watch
+But [[Venus]] was a punctual man, and, even as Mr Boffin replaced his watch
 in its pocket, was to be descried coming towards him. He quickened his
 pace on seeing Mr Boffin already at the place of meeting, and was soon
 at his side.
 
-‘Thank’ee, Venus,’ said Mr Boffin. ‘Thank’ee, thank’ee, thank’ee!’
+‘Thank’ee, [[Venus]],’ said Mr Boffin. ‘Thank’ee, thank’ee, thank’ee!’
 
 It would not have been very evident why he thanked the anatomist, but
 for his furnishing the explanation in what he went on to say.
 
-‘All right, Venus, all right. Now, that you’ve been to see me, and have
+‘All right, [[Venus]], all right. Now, that you’ve been to see me, and have
 consented to keep up the appearance before Wegg of remaining in it for a
-time, I have got a sort of a backer. All right, Venus. Thank’ee, Venus.
+[[Time|time]], I have got a sort of a backer. All right, [[Venus]]. Thank’ee, [[Venus]].
 Thank’ee, thank’ee, thank’ee!’
 
-Mr Venus shook the proffered hand with a modest air, and they pursued
+[[Mr Venus]] shook the proffered hand with a modest air, and they pursued
 the direction of the Bower.
 
-‘Do you think Wegg is likely to drop down upon me to-night, Venus?’
+‘Do you think Wegg is likely to drop down upon me to-[[Night|night]], [[Venus]]?’
 inquired Mr Boffin, wistfully, as they went along.
 
 ‘I think he is, sir.’
 
-‘Have you any particular reason for thinking so, Venus?’
+‘Have you any particular reason for thinking so, [[Venus]]?’
 
-‘Well, sir,’ returned that personage, ‘the fact is, he has given me
+‘[[Well]], sir,’ returned that personage, ‘the fact is, he has given me
 another look-in, to make sure of what he calls our stock-in-trade being
 correct, and he has mentioned his intention that he was not to be put
-off beginning with you the very next time you should come. And this,’
-hinted Mr Venus, delicately, ‘being the very next time, you know, sir—’
+off beginning with you the very next [[Time|time]] you should come. And this,’
+hinted [[Mr Venus]], delicately, ‘being the very next [[Time|time]], you know, sir—’
 
 —‘Why, therefore you suppose he’ll turn to at the grindstone, eh,
 Wegg?’ said Mr Boffin.
@@ -75,12 +75,12 @@ Wegg?’ said Mr Boffin.
 
 Mr Boffin took his nose in his hand, as if it were already excoriated,
 and the sparks were beginning to fly out of that feature. ‘He’s a
-terrible fellow, Venus; he’s an awful fellow. I don’t know how ever I
-shall go through with it. You must stand by me, Venus like a good man
-and true. You’ll do all you can to stand by me, Venus; won’t you?’
+terrible fellow, [[Venus]]; he’s an awful fellow. I don’t know how ever I
+shall go through with it. You must stand by me, [[Venus]] like a good man
+and true. You’ll do all you can to stand by me, [[Venus]]; won’t you?’
 
-Mr Venus replied with the assurance that he would; and Mr Boffin,
-looking anxious and dispirited, pursued the way in silence until they
+[[Mr Venus]] replied with the assurance that he would; and Mr Boffin,
+looking anxious and dispirited, pursued the way in [[Silence|silence]] until they
 rang at the Bower gate. The stumping approach of Wegg was soon heard
 behind it, and as it turned upon its hinges he became visible with his
 hand on the lock.
@@ -98,7 +98,7 @@ may call specially.’
 ‘Yes, I do say so, sir. And if you hadn’t come round to me tonight, dash
 my wig if I wouldn’t have come round to you tomorrow. Now! I tell you!’
 
-‘Nothing wrong, I hope, Wegg?’
+‘Nothing wrong, I [[Hope|hope]], Wegg?’
 
 ‘Oh no, Mr Boffin,’ was the ironical answer. ‘Nothing wrong! What should
 be wrong in Boffinses Bower! Step in, sir.’
@@ -112,15 +112,15 @@ be wrong in Boffinses Bower! Step in, sir.’
 An unholy glare of contradiction and offence shone in the eyes of Mr
 Wegg, as he turned the key on his patron, after ushering him into the
 yard with this vocal quotation. Mr Boffin’s air was crestfallen and
-submissive. Whispered Wegg to Venus, as they crossed the yard behind
+submissive. Whispered Wegg to [[Venus]], as they crossed the yard behind
 him: ‘Look at the worm and minion; he’s down in the mouth already.’
-Whispered Venus to Wegg: ‘That’s because I’ve told him. I’ve prepared
+Whispered [[Venus]] to Wegg: ‘That’s because I’ve told him. I’ve prepared
 the way for you.’
 
 Mr Boffin, entering the usual chamber, laid his stick upon the settle
 usually reserved for him, thrust his hands into his pockets, and,
 with his shoulders raised and his hat drooping back upon them, looking
-disconsolately at Wegg. ‘My friend and partner, Mr Venus, gives me to
+disconsolately at Wegg. ‘My friend and partner, [[Mr Venus]], gives me to
 understand,’ remarked that man of might, addressing him, ‘that you are
 aware of our power over you. Now, when you have took your hat off, we’ll
 go into that pint.’
@@ -136,7 +136,7 @@ look upon him.
 
 ‘That’s lucky for you, Boffin. Now, do you want to be read to?’
 
-‘I don’t particularly care about it to-night, Wegg.’
+‘I don’t particularly care about it to-[[Night|night]], Wegg.’
 
 ‘Because if you did want to,’ pursued Mr Wegg, the brilliancy of whose
 point was dimmed by his having been unexpectedly answered: ‘you wouldn’t
@@ -155,9 +155,9 @@ and a sniffing, menial.’
 
 ‘Boffin!’ retorted Wegg, ‘I warn you not to attempt a joke with me!’
 
-Here Mr Venus interposed, and remarked that he conceived Mr Boffin to
+Here [[Mr Venus]] interposed, and remarked that he conceived Mr Boffin to
 have taken the description literally; the rather, forasmuch as he, Mr
-Venus, had himself supposed the menial to have contracted an affliction
+[[Venus]], had himself supposed the menial to have contracted an affliction
 or a habit of the nose, involving a serious drawback on the pleasures of
 social intercourse, until he had discovered that Mr Wegg’s description
 of him was to be accepted as merely figurative.
@@ -167,8 +167,8 @@ is here. Now, I won’t have him here. So I call upon Boffin, before I say
 another word, to fetch him in and send him packing to the right-about.’
 
 The unsuspecting Sloppy was at that moment airing his many buttons
-within view of the window. Mr Boffin, after a short interval of
-impassive discomfiture, opened the window and beckoned him to come in.
+within view of the [[Window|window]]. Mr Boffin, after a short interval of
+impassive discomfiture, opened the [[Window|window]] and beckoned him to come in.
 
 ‘I call upon Boffin,’ said Wegg, with one arm a-kimbo and his head on
 one side, like a bullying counsel pausing for an answer from a witness,
@@ -183,18 +183,18 @@ want you, and you are to go from here.’
 ‘For good,’ said Mr Boffin.
 
 Sloppy stared, with both his eyes and all his buttons, and his mouth
-wide open; but was without loss of time escorted forth by Silas Wegg,
+wide open; but was without loss of [[Time|time]] escorted forth by [[Silas Wegg]],
 pushed out at the yard gate by the shoulders, and locked out.
 
 ‘The atomspear,’ said Wegg, stumping back into the room again, a
 little reddened by his late exertion, ‘is now freer for the purposes of
-respiration. Mr Venus, sir, take a chair. Boffin, you may sit down.’
+respiration. [[Mr Venus]], sir, take a chair. Boffin, you may sit down.’
 
 Mr Boffin, still with his hands ruefully stuck in his pockets, sat on
 the edge of the settle, shrunk into a small compass, and eyed the potent
 Silas with conciliatory looks.
 
-‘This gentleman,’ said Silas Wegg, pointing out Venus, ‘this gentleman,
+‘This gentleman,’ said [[Silas Wegg]], pointing out [[Venus]], ‘this gentleman,
 Boffin, is more milk and watery with you than I’ll be. But he hasn’t
 borne the Roman yoke as I have, nor yet he hasn’t been required to
 pander to your depraved appetite for miserly characters.’
@@ -207,7 +207,7 @@ You’ll find you’ve got quite enough to do. Now, you’re aware—are
 you—that you’re in possession of property to which you’ve no right at
 all? Are you aware of that?’
 
-‘Venus tells me so,’ said Mr Boffin, glancing towards him for any
+‘[[Venus]] tells me so,’ said Mr Boffin, glancing towards him for any
 support he could give.
 
 ‘I tell you so,’ returned Silas. ‘Now, here’s my hat, Boffin, and here’s
@@ -217,14 +217,14 @@ make a bargain with the rightful owner. Now, what do you say?’
 
 ‘I say,’ returned Mr Boffin, leaning forward in alarmed appeal, with his
 hands on his knees, ‘that I am sure I don’t want to trifle, Wegg. I have
-said so to Venus.’
+said so to [[Venus]].’
 
-‘You certainly have, sir,’ said Venus.
+‘You certainly have, sir,’ said [[Venus]].
 
 ‘You’re too milk and watery with our friend, you are indeed,’
 remonstrated Silas, with a disapproving shake of his wooden head. ‘Then
 at once you confess yourself desirous to come to terms, do you Boffin?
-Before you answer, keep this hat well in your mind and also this
+Before you answer, keep this hat [[Well|well]] in your mind and also this
 walking-stick.’
 
 ‘I am willing, Wegg, to come to terms.’
@@ -242,7 +242,7 @@ out of you in full, Boffin.’
 be allowed to come to terms, supposing your document is all correct.’
 
 ‘Don’t you be afraid of that,’ said Silas, poking his head at him. ‘You
-shall be satisfied by seeing it. Mr Venus will show it you, and I’ll
+shall be satisfied by seeing it. [[Mr Venus]] will show it you, and I’ll
 hold you the while. Then you want to know what the terms are. Is
 that about the sum and substance of it? Will you or won’t you answer,
 Boffin?’ For he had paused a moment.
@@ -251,18 +251,18 @@ Boffin?’ For he had paused a moment.
 that degree that I’m almost off my head. You hurry me so. Be so good as
 name the terms, Wegg.’
 
-‘Now, mark, Boffin,’ returned Silas: ‘Mark ’em well, because they’re
+‘Now, mark, Boffin,’ returned Silas: ‘Mark ’em [[Well|well]], because they’re
 the lowest terms and the only terms. You’ll throw your Mound (the little
 Mound as comes to you any way) into the general estate, and then you’ll
 divide the whole property into three parts, and you’ll keep one and hand
 over the others.’
 
-Mr Venus’s mouth screwed itself up, as Mr Boffin’s face lengthened
-itself, Mr Venus not having been prepared for such a rapacious demand.
+[[Mr Venus]]’s mouth screwed itself up, as Mr Boffin’s face lengthened
+itself, [[Mr Venus]] not having been prepared for such a rapacious demand.
 
 ‘Now, wait a bit, Boffin,’ Wegg proceeded, ‘there’s something more.
 You’ve been a squandering this property—laying some of it out on
-yourself. _That_ won’t do. You’ve bought a house. You’ll be charged for
+yourself. _That_ won’t do. You’ve bought a [[house]]. You’ll be charged for
 it.’
 
 ‘I shall be ruined, Wegg!’ Mr Boffin faintly protested.
@@ -288,9 +288,9 @@ upon you, have seen you dig up a Dutch bottle.’
 ‘What was in it, Boffin?’ inquired Silas.
 
 ‘Not gold, not silver, not bank notes, not jewels, nothing that you
-could turn into money, Wegg; upon my soul!’
+could turn into money, Wegg; upon my [[Soul|soul]]!’
 
-‘Prepared, Mr Venus,’ said Wegg, turning to his partner with a knowing
+‘Prepared, [[Mr Venus]],’ said Wegg, turning to his partner with a knowing
 and superior air, ‘for an ewasive answer on the part of our dusty friend
 here, I have hit out a little idea which I think will meet your views.
 We charge that bottle against our dusty friend at a thousand pound.’
@@ -309,10 +309,10 @@ settle.
 Boffin, I believe there’s nothing more at present.’
 
 The unlucky gentleman continuing to rock himself to and fro, and to
-utter an occasional moan, Mr Venus besought him to bear up against his
-reverses, and to take time to accustom himself to the thought of his new
-position. But, his taking time was exactly the thing of all others that
-Silas Wegg could not be induced to hear of. ‘Yes or no, and no half
+utter an occasional moan, [[Mr Venus]] besought him to bear up against his
+reverses, and to take [[Time|time]] to accustom himself to the thought of his new
+position. But, his taking [[Time|time]] was exactly the thing of all others that
+[[Silas Wegg]] could not be induced to hear of. ‘Yes or no, and no half
 measures!’ was the motto which that obdurate person many times repeated;
 shaking his fist at Mr Boffin, and pegging his motto into the floor with
 his wooden leg, in a threatening and alarming manner.
@@ -325,7 +325,7 @@ fraudulently unearth if he were left to himself. A more absurd sight
 than Mr Boffin in his mental irritation trotting very nimbly, and Mr
 Wegg hopping after him with great exertion, eager to watch the slightest
 turn of an eyelash, lest it should indicate a spot rich with some
-secret, assuredly had never been seen in the shadow of the Mounds. Mr
+secret, assuredly had never been seen in the [[Shadow|shadow]] of the Mounds. Mr
 Wegg was much distressed when the quarter of an hour expired, and came
 hopping in, a very bad second.
 
@@ -335,26 +335,26 @@ had sunk. ‘What’s the good of my pretending to stand out, when I can’t
 help myself? I must give in to the terms. But I should like to see the
 document.’
 
-Wegg, who was all for clinching the nail he had so strongly driven home,
+Wegg, who was all for clinching the nail he had so strongly driven [[Home|home]],
 announced that Boffin should see it without an hour’s delay. Taking him
 into custody for that purpose, or overshadowing him as if he really were
 his Evil Genius in visible form, Mr Wegg clapped Mr Boffin’s hat
 upon the back of his head, and walked him out by the arm, asserting a
-proprietorship over his soul and body that was at once more grim and
-more ridiculous than anything in Mr Venus’s rare collection. That
+proprietorship over his [[Soul|soul]] and [[Body|body]] that was at once more grim and
+more ridiculous than anything in [[Mr Venus]]’s rare collection. That
 light-haired gentleman followed close upon their heels, at least backing
 up Mr Boffin in a literal sense, if he had not had recent opportunities
 of doing so spiritually; while Mr Boffin, trotting on as hard as he
-could trot, involved Silas Wegg in frequent collisions with the public,
+could trot, involved [[Silas Wegg]] in frequent collisions with the public,
 much as a pre-occupied blind man’s dog may be seen to involve his
 master.
 
-Thus they reached Mr Venus’s establishment, somewhat heated by the
-nature of their progress thither. Mr Wegg, especially, was in a flaming
+Thus they reached [[Mr Venus]]’s establishment, somewhat heated by the
+[[Nature|nature]] of their progress thither. Mr Wegg, especially, was in a flaming
 glow, and stood in the little shop, panting and mopping his head with
 his pocket-handkerchief, speechless for several minutes.
 
-Meanwhile, Mr Venus, who had left the duelling frogs to fight it out in
+Meanwhile, [[Mr Venus]], who had left the duelling frogs to fight it out in
 his absence by candlelight for the public delectation, put the shutters
 up. When all was snug, and the shop-door fastened, he said to the
 perspiring Silas: ‘I suppose, Mr Wegg, we may now produce the paper?’
@@ -364,12 +364,12 @@ minute. Will you obligingly shove that box—which you mentioned on a
 former occasion as containing miscellanies—towards me in the midst of
 the shop here?’
 
-Mr Venus did as he was asked.
+[[Mr Venus]] did as he was asked.
 
 ‘Very good,’ said Silas, looking about: ‘ve—ry good. Will you hand me
 that chair, sir, to put a-top of it?’
 
-Venus handed him the chair.
+[[Venus]] handed him the chair.
 
 ‘Now, Boffin,’ said Wegg, ‘mount up here and take your seat, will you?’
 
@@ -377,18 +377,18 @@ Mr Boffin, as if he were about to have his portrait painted, or to be
 electrified, or to be made a Freemason, or to be placed at any other
 solitary disadvantage, ascended the rostrum prepared for him.
 
-‘Now, Mr Venus,’ said Silas, taking off his coat, ‘when I catches our
-friend here round the arms and body, and pins him tight to the back of
+‘Now, [[Mr Venus]],’ said Silas, taking off his coat, ‘when I catches our
+friend here round the arms and [[Body|body]], and pins him tight to the back of
 the chair, you may show him what he wants to see. If you’ll open it and
-hold it well up in one hand, sir, and a candle in the other, he can read
+hold it [[Well|well]] up in one hand, sir, and a candle in the other, he can read
 it charming.’
 
 Mr Boffin seemed rather inclined to object to these precautionary
 arrangements, but, being immediately embraced by Wegg, resigned himself.
-Venus then produced the document, and Mr Boffin slowly spelt it out
+[[Venus]] then produced the document, and Mr Boffin slowly spelt it out
 aloud: so very slowly, that Wegg, who was holding him in the chair
 with the grip of a wrestler, became again exceedingly the worse for his
-exertions. ‘Say when you’ve put it safe back, Mr Venus,’ he uttered with
+exertions. ‘Say when you’ve put it safe back, [[Mr Venus]],’ he uttered with
 difficulty, ‘for the strain of this is terrimenjious.’
 
 At length the document was restored to its place; and Wegg, whose
@@ -397,7 +397,7 @@ unsuccessfully attempting to stand upon his head, took a seat to recover
 himself. Mr Boffin, for his part, made no attempt to come down, but
 remained aloft disconsolate.
 
-‘Well, Boffin!’ said Wegg, as soon as he was in a condition to speak.
+‘[[Well]], Boffin!’ said Wegg, as soon as he was in a condition to speak.
 ‘Now, you know.’
 
 ‘Yes, Wegg,’ said Mr Boffin, meekly. ‘Now, I know.’
@@ -407,11 +407,11 @@ remained aloft disconsolate.
 ‘No, Wegg. No, Wegg. None,’ was the slow and sad reply.
 
 ‘Then, take care, you,’ said Wegg, ‘that you stick to your conditions.
-Mr Venus, if on this auspicious occasion, you should happen to have a
+[[Mr Venus]], if on this auspicious occasion, you should happen to have a
 drop of anything not quite so mild as tea in the ’ouse, I think I’d take
 the friendly liberty of asking you for a specimen of it.’
 
-Mr Venus, reminded of the duties of hospitality, produced some rum.
+[[Mr Venus]], reminded of the duties of hospitality, produced some rum.
 In answer to the inquiry, ‘Will you mix it, Mr Wegg?’ that gentleman
 pleasantly rejoined, ‘I think not, sir. On so auspicious an occasion, I
 prefer to take it in the form of a Gum-Tickler.’
@@ -434,7 +434,7 @@ inspection.’
 
 ‘Don’t you?’ sneered Wegg. ‘Where’s your wits, Boffin? Till the Mounds
 is down and this business completed, you’re accountable for all the
-property, recollect. Consider yourself accountable to me. Mr Venus here
+property, recollect. Consider yourself accountable to me. [[Mr Venus]] here
 being too milk and watery with you, I am the boy for you.’
 
 ‘I’ve been a-thinking,’ said Mr Boffin, in a tone of despondency, ‘that
@@ -469,7 +469,7 @@ Mr Boffin seemed a little less patient at this point than at any other
 of the negotiations. But he commanded himself, and said tamely enough:
 ‘I think it must be kept from my old lady, Wegg.’
 
-‘Well,’ said Wegg, contemptuously, though, perhaps, perceiving some hint
+‘[[Well]],’ said Wegg, contemptuously, though, perhaps, perceiving some hint
 of danger otherwise, ‘keep it from your old lady. I ain’t going to tell
 her. I can have you under close inspection without that. I’m as good a
 man as you, and better. Ask me to dinner. Give me the run of your ’ouse.
@@ -477,9 +477,9 @@ I was good enough for you and your old lady once, when I helped you out
 with your weal and hammers. Was there no Miss Elizabeth, Master George,
 Aunt Jane, and Uncle Parker, before YOU two?’
 
-‘Gently, Mr Wegg, gently,’ Venus urged.
+‘Gently, Mr Wegg, gently,’ [[Venus]] urged.
 
-‘Milk and water-erily you mean, sir,’ he returned, with some little
+‘Milk and [[Water|water]]-erily you mean, sir,’ he returned, with some little
 thickness of speech, in consequence of the Gum-Ticklers having tickled
 it. ‘I’ve got him under inspection, and I’ll inspect him.
 
@@ -487,14 +487,14 @@ it. ‘I’ve got him under inspection, and I’ll inspect him.
      England expects as this present man
      Will keep Boffin to his duty.”
 
-—Boffin, I’ll see you home.’
+—Boffin, I’ll see you [[Home|home]].’
 
-Mr Boffin descended with an air of resignation, and gave himself up,
-after taking friendly leave of Mr Venus. Once more, Inspector and
+Mr Boffin descended with an air of [[Resignation|resignation]], and gave himself up,
+after taking friendly leave of [[Mr Venus]]. Once more, Inspector and
 Inspected went through the streets together, and so arrived at Mr
 Boffin’s door.
 
-But even there, when Mr Boffin had given his keeper good-night, and had
+But even there, when Mr Boffin had given his keeper good-[[Night|night]], and had
 let himself in with his key, and had softly closed the door, even there
 and then, the all-powerful Silas must needs claim another assertion of
 his newly-asserted power.
@@ -514,6 +514,6 @@ The door was hardly closed, when he again called through the keyhole:
 
 ‘Yes, Wegg.’
 
-This time Silas made no reply, but laboured with a will at turning an
+This [[Time|time]] Silas made no reply, but laboured with a will at turning an
 imaginary grindstone outside the keyhole, while Mr Boffin stooped at it
-within; he then laughed silently, and stumped home.
+within; he then laughed silently, and stumped [[Home|home]].

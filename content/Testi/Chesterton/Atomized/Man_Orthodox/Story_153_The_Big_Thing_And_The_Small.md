@@ -16,8 +16,8 @@ tags:
 
 THE BIG THING AND THE SMALL
 
-Sanity does not consist in seeing things; madmen see
-things more clearly than other people.  Sanity consists
+[[Sanity]] does not consist in seeing things; madmen see
+things more clearly than other people.  [[Sanity]] consists
 in seeing the big things big and the small things small.
 A man can have this sense of pro portion even if he is wrong.
 ... Here is one case.  Human society is the big and certain thing;
@@ -67,7 +67,7 @@ mere lusts and appetites, things entirely innocent in themselves.
 The most typical moderns have joined in this.  Tennyson, for instance,
 spoke of moral improvement as `moving upward, working out the brute'.
 But was he right?  Why should we work out the brute?
-I no more desire, as such, to work out the brute from myself than
+I no more [[Desire|desire]], as such, to work out the brute from myself than
 to work out the brute from between the shafts of a hansom cab.
 The brute in me and the brute in the cab must both be kept in order.
 The brute in me and the brute in the cab have both very obvious uses.
@@ -77,7 +77,7 @@ devil of the medieval story.  He will suffer for evil.
 He will perform heroic acts for evil...
 
 Pigs are not corrupted with the Higher Imperialism.  Tigers have
-no spiritual pride.  Whales never sneer.  Crocodiles are not
+no spiritual [[Pride|pride]].  Whales never sneer.  Crocodiles are not
 (despite a pleasing legend) in the least hypocritical.
 On examining their exterior, it is difficult to understand why
 anyone ever gave them credit for so vivacious and ingenious

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 33: THIRTY THREE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘We are but sickly now,’ said the poor woman, bending over her child.
+‘We are but sickly now,’ said the poor woman, bending over her [[Child|child]].
 ‘But we shall do better when we are seasoned to the place.’
 
 ‘There are some here,’ thought Mark ‘whose seasoning will last for
@@ -22,22 +22,22 @@ ever.’
 
 But he said cheerfully, ‘Do better! To be sure you will. We shall all
 do better. What we’ve got to do is, to keep up our spirits, and be
-neighbourly. We shall come all right in the end, never fear. That
+neighbourly. We shall come all right in the end, never [[Fear|fear]]. That
 reminds me, by the bye, that my partner’s all wrong just at present;
 and that I looked in to beg for him. I wish you’d come and give me your
 opinion of him, master.’
 
 That must have been a very unreasonable request on the part of Mark
 Tapley, with which, in their gratitude for his kind offices on board the
-ship, they would not have complied instantly. The man rose to accompany
-him without a moment’s delay. Before they went, Mark took the sick child
-in his arms, and tried to comfort the mother; but the hand of death was
+[[Ship|ship]], they would not have complied instantly. The man [[Rose|rose]] to accompany
+him without a moment’s delay. Before they went, Mark took the sick [[Child|child]]
+in his arms, and tried to comfort the mother; but the hand of [[Death|death]] was
 on it then, he saw.
 
-They found Martin in the house, lying wrapped up in his blanket on
+They found Martin in the [[house]], lying wrapped up in his blanket on
 the ground. He was, to all appearance, very ill indeed, and shook and
 shivered horribly; not as people do from cold, but in a frightful
-kind of spasm or convulsion, that racked his whole body. Mark’s friend
+kind of spasm or convulsion, that racked his whole [[Body|body]]. Mark’s friend
 pronounced his disease an aggravated kind of fever, accompanied with
 ague; which was very common in those parts, and which he predicted would
 be worse to-morrow, and for many more to-morrows. He had had it himself
@@ -53,19 +53,19 @@ showed Mark how and when to administer it, and how he could best
 alleviate the sufferings of Martin. His attentions did not stop there;
 for he was backwards and forwards constantly, and rendered Mark
 good service in all his brisk attempts to make their situation more
-endurable. Hope or comfort for the future he could not bestow. The
-season was a sickly one; the settlement a grave. His child died that
-night; and Mark, keeping the secret from Martin, helped to bury it,
+endurable. [[Hope]] or comfort for the future he could not bestow. The
+season was a sickly one; the settlement a [[Grave|grave]]. His [[Child|child]] died that
+[[Night|night]]; and Mark, keeping the secret from Martin, helped to bury it,
 beneath a tree, next day.
 
 With all his various duties of attendance upon Martin (who became the
 more exacting in his claims, the worse he grew), Mark worked out of
 doors, early and late; and with the assistance of his friend and others,
 laboured to do something with their land. Not that he had the least
-strength of heart or hope, or steady purpose in so doing, beyond the
+strength of heart or [[Hope|hope]], or steady purpose in so doing, beyond the
 habitual cheerfulness of his disposition, and his amazing power of
-self-sustainment; for within himself, he looked on their condition
-as beyond all hope, and, in his own words, ‘came out strong’ in
+[[Self|self]]-sustainment; for within himself, he looked on their condition
+as beyond all [[Hope|hope]], and, in his own words, ‘came out strong’ in
 consequence.
 
 ‘As to coming out as strong as I could wish, sir,’ he confided to Martin
@@ -78,7 +78,7 @@ with a groan, from underneath his blanket.
 
 ‘Why, only see how easy they might have been stronger, sir,’ said Mark,
 ‘if it wasn’t for the envy of that uncommon fortun of mine, which is
-always after me, and tripping me up. The night we landed here, I thought
+always after me, and tripping me up. The [[Night|night]] we landed here, I thought
 things did look pretty jolly. I won’t deny it. I thought they did look
 pretty jolly.’
 
@@ -87,13 +87,13 @@ pretty jolly.’
 ‘Ah!’ said Mark, ‘Ah, to be sure. That’s the question. How do they look
 now? On the very first morning of my going out, what do I do? Stumble
 on a family I know, who are constantly assisting of us in all sorts of
-ways, from that time to this! That won’t do, you know; that ain’t what
+ways, from that [[Time|time]] to this! That won’t do, you know; that ain’t what
 I’d a right to expect. If I had stumbled on a serpent and got bit; or
 stumbled on a first-rate patriot, and got bowie-knifed, or stumbled on a
-lot of Sympathisers with inverted shirt-collars, and got made a lion of;
+lot of Sympathisers with inverted shirt-collars, and got made a [[Lion|lion]] of;
 I might have distinguished myself, and earned some credit. As it is,
 the great object of my voyage is knocked on the head. So it would be,
-wherever I went. How do you feel to-night, sir?’
+wherever I went. How do you feel to-[[Night|night]], sir?’
 
 ‘Worse than ever,’ said poor Martin.
 

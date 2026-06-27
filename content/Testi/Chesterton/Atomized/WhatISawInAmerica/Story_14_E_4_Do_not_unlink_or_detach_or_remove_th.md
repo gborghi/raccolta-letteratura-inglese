@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm"
+title: "[[WhatISawInAmerica]] — E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

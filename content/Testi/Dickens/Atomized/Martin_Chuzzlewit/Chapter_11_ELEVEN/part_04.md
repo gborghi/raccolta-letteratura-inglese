@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Such as he was, he came slowly creeping on towards the table, until at
 last he crept into the vacant chair, from which, as his dim faculties
 became conscious of the presence of strangers, and those strangers
-ladies, he rose again, apparently intending to make a bow. But he sat
+ladies, he [[Rose|rose]] again, apparently intending to make a bow. But he sat
 down once more without having made it, and breathing on his shrivelled
 hands to warm them, remained with his poor blue nose immovable above his
 plate, looking at nothing, with eyes that saw nothing, and a face that
@@ -53,14 +53,14 @@ with the carving-fork, in order that they might know whom he meant.
 
 ‘Why, you see,’ said Mr Jonas, ‘he’s been addling his old brains with
 figures and book-keeping all his life; and twenty years ago or so he
-went and took a fever. All the time he was out of his head (which was
+went and took a fever. All the [[Time|time]] he was out of his head (which was
 three weeks) he never left off casting up; and he got to so many million
 at last that I don’t believe he’s ever been quite right since. We don’t
 do much business now though, and he an’t a bad clerk.’
 
 ‘A very good one,’ said Anthony.
 
-‘Well! He an’t a dear one at all events,’ observed Jonas; ‘and he earns
+‘[[Well]]! He an’t a dear one at all events,’ observed Jonas; ‘and he earns
 his salt, which is enough for our look-out. I was telling you that he
 hardly understands any one except my father; he always understands him,
 though, and wakes up quite wonderful. He’s been used to his ways so
@@ -93,7 +93,7 @@ nothing again.
 
 ‘He’ll be very disagreeable, mind,’ said Jonas, addressing his cousins
 as he handed the old man’s portion to his father. ‘He always chokes
-himself when it an’t broth. Look at him, now! Did you ever see a horse
+himself when it an’t broth. Look at him, now! Did you ever see a [[Horse|horse]]
 with such a wall-eyed expression as he’s got? If it hadn’t been for the
 joke of it I wouldn’t have let him come in to-day; but I thought he’d
 amuse you.’
@@ -111,7 +111,7 @@ as he significantly added, was saying a great deal.
 
 It was strange enough that Anthony Chuzzlewit, himself so old a man,
 should take a pleasure in these gibings of his estimable son at the
-expense of the poor shadow at their table. But he did, unquestionably;
+expense of the poor [[Shadow|shadow]] at their table. But he did, unquestionably;
 though not so much--to do him justice--with reference to their ancient
 clerk, as in exultation at the sharpness of Jonas. For the same reason
 that young man’s coarse allusions, even to himself, filled him with a
@@ -124,7 +124,7 @@ of my life.’
 What a noble end and aim it was to contemplate in the attainment truly!
 But there be some who manufacture idols after the fashion of themselves,
 and fail to worship them when they are made; charging their deformity on
-outraged nature. Anthony was better than these at any rate.
+outraged [[Nature|nature]]. Anthony was better than these at any rate.
 
 Chuffey boggled over his plate so long, that Mr Jonas, losing patience,
 took it from him at last with his own hands, and requested his father
@@ -138,7 +138,7 @@ him!’
 
 Mr Jonas considered this so particularly childish (perhaps with some
 reason), that he only laughed the more, and told his cousins that he was
-afraid one of these fine days, Chuffey would be the death of him. The
+afraid one of these fine days, Chuffey would be the [[Death|death]] of him. The
 cloth was then removed, and the bottle of wine set upon the table, from
 which Mr Jonas filled the young ladies’ glasses, calling on them not to
 spare it, as they might be certain there was plenty more where that came

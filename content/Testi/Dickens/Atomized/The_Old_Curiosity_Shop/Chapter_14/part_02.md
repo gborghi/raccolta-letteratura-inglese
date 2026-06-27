@@ -26,12 +26,12 @@ exclaim a great many times, ‘oh, delicious!’ ‘oh, fragrant, indeed!’
 and a nose, also supposed to be the property of that gentleman, was
 heard to inhale the scent with a snuffle of exceeding pleasure.
 
-‘I brought it in honour of the occasion, Sir,’ said the old lady.
+‘I brought it in [[Honour|honour]] of the occasion, Sir,’ said the old lady.
 
-‘Ah! an occasion indeed, ma’am, an occasion which does honour to me,
-ma’am, honour to me,’ rejoined Mr Witherden, the notary.  ‘I have had
+‘Ah! an occasion indeed, ma’am, an occasion which does [[Honour|honour]] to me,
+ma’am, [[Honour|honour]] to me,’ rejoined Mr Witherden, the notary.  ‘I have had
 many a gentleman articled to me, ma’am, many a one.  Some of them are
-now rolling in riches, unmindful of their old companion and friend,
+now [[rolling]] in riches, unmindful of their old companion and friend,
 ma’am, others are in the habit of calling upon me to this day and
 saying, “Mr Witherden, some of the pleasantest hours I ever spent in my
 life were spent in this office--were spent, Sir, upon this very stool”;
@@ -53,7 +53,7 @@ voice, ‘I can say, with interest, of him, I am sure.’
 
 ‘It’s a happy circumstance, a truly happy circumstance,’ said the
 Notary, ‘to happen too upon his eight-and-twentieth birthday, and I
-hope I know how to appreciate it.  I trust, Mr Garland, my dear Sir,
+[[Hope|hope]] I know how to appreciate it.  I trust, Mr Garland, my dear Sir,
 that we may mutually congratulate each other upon this auspicious
 occasion.’
 
@@ -64,12 +64,12 @@ not, he believed no son had ever been a greater comfort to his parents
 than Abel Garland had been to his.
 
 ‘Marrying as his mother and I did, late in life, sir, after waiting for
-a great many years, until we were well enough off--coming together when
-we were no longer young, and then being blessed with one child who has
+a great many years, until we were [[Well|well]] enough off--coming together when
+we were no longer young, and then being blessed with one [[Child|child]] who has
 always been dutiful and affectionate--why, it’s a source of great
 happiness to us both, sir.’
 
-‘Of course it is, I have no doubt of it,’ returned the Notary in a
+‘Of course it is, I have no [[Doubt|doubt]] of it,’ returned the Notary in a
 sympathising voice.  ‘It’s the contemplation of this sort of thing,
 that makes me deplore my fate in being a bachelor.  There was a young
 lady once, sir, the daughter of an outfitting warehouse of the first
@@ -87,7 +87,7 @@ school he went to, and came back upon the Monday; but he was very ill
 after that, you remember, my dear; it was quite a dissipation.’
 
 ‘He was not used to it, you know,’ said the old lady, ‘and he couldn’t
-bear it, that’s the truth.  Besides he had no comfort in being there
+bear it, that’s the [[Truth|truth]].  Besides he had no comfort in being there
 without us, and had nobody to talk to or enjoy himself with.’
 
 ‘That was it, you know,’ interposed the same small quiet voice that had
@@ -96,8 +96,8 @@ to think that the sea was between us--oh, I never shall forget what I
 felt when I first thought that the sea was between us!’
 
 ‘Very natural under the circumstances,’ observed the Notary.  ‘Mr
-Abel’s feelings did credit to his nature, and credit to your nature,
-ma’am, and his father’s nature, and human nature.  I trace the same
+Abel’s feelings did credit to his [[Nature|nature]], and credit to your [[Nature|nature]],
+ma’am, and his father’s [[Nature|nature]], and human [[Nature|nature]].  I trace the same
 current now, flowing through all his quiet and unobtrusive
 proceedings.--I am about to sign my name, you observe, at the foot of
 the articles which Mr Chuckster will witness; and placing my finger
@@ -108,7 +108,7 @@ will place his name against the other wafer, repeating the same
 cabalistic words, and the business is over.  Ha ha ha!  You see how
 easily these things are done!’
 
-There was a short silence, apparently, while Mr Abel went through the
+There was a short [[Silence|silence]], apparently, while Mr Abel went through the
 prescribed form, and then the shaking of hands and shuffling of feet
 were renewed, and shortly afterwards there was a clinking of
 wine-glasses and a great talkativeness on the part of everybody.  In
@@ -143,17 +143,17 @@ much, but there was no shop in the street to get change at, so he gave
 it to the boy.
 
 ‘There,’ he said jokingly, ‘I’m coming here again next Monday at the
-same time, and mind you’re here, my lad, to work it out.’
+same [[Time|time]], and mind you’re here, my lad, to work it out.’
 
 ‘Thank you, Sir,’ said Kit.  ‘I’ll be sure to be here.’
 
 He was quite serious, but they all laughed heartily at his saying so,
 especially Mr Chuckster, who roared outright and appeared to relish the
 joke amazingly.  As the pony, with a presentiment that he was going
-home, or a determination that he would not go anywhere else (which was
-the same thing) trotted away pretty nimbly, Kit had no time to justify
+[[Home|home]], or a determination that he would not go anywhere else (which was
+the same thing) trotted away pretty nimbly, Kit had no [[Time|time]] to justify
 himself, and went his way also.  Having expended his treasure in such
-purchases as he knew would be most acceptable at home, not forgetting
+purchases as he knew would be most acceptable at [[Home|home]], not forgetting
 some seed for the wonderful bird, he hastened back as fast as he could,
-so elated with his success and great good fortune, that he more than
+so elated with his [[success]] and great good fortune, that he more than
 half expected Nell and the old man would have arrived before him.

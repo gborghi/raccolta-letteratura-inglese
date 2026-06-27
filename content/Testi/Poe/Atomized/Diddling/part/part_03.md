@@ -1,5 +1,5 @@
 ---
-title: "Diddling (part 3)"
+title: "[[Diddling]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Diddling-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      America—throw the book.”
+      [[America]]—throw the book.”
 
 
 
@@ -42,9 +42,9 @@ tags:
 
       horses and donkeys, and so forth, and so forth. Some grumble but
 
-      all submit, and the diddler goes home a wealthier man by some
+      all submit, and the diddler goes [[Home|home]] a wealthier man by some
 
-      fifty or sixty dollars well earned. This taking a toll from a
+      fifty or sixty dollars [[Well|well]] earned. This taking a toll from a
 
       great crowd of people is an excessively troublesome thing.
 
@@ -134,7 +134,7 @@ tags:
 
       “I don’t much like this tobacco. Here, take it back, and give me
 
-      a glass of brandy and water in its place.” The brandy and water
+      a glass of brandy and [[Water|water]] in its place.” The brandy and [[Water|water]]
 
       is furnished and imbibed, and the diddler makes his way to the
 
@@ -144,13 +144,13 @@ tags:
 
       “I believe, sir, you have forgotten to pay for your brandy and
 
-      water.”
+      [[Water|water]].”
 
 
 
-      “Pay for my brandy and water!—didn’t I give you the tobacco for
+      “Pay for my brandy and [[Water|water]]!—didn’t I give you the tobacco for
 
-      the brandy and water? What more would you have?”
+      the brandy and [[Water|water]]? What more would you have?”
 
 
 
@@ -190,7 +190,7 @@ tags:
 
       really lost, the loser inserts in one of the daily papers of a
 
-      large city a fully descriptive advertisement.
+      large [[City|city]] a fully descriptive advertisement.
 
 
 
@@ -210,7 +210,7 @@ tags:
 
       inserted in at least five or six of the daily papers of the day,
 
-      while in point of time, it makes its appearance only a few hours
+      while in point of [[Time|time]], it makes its appearance only a few hours
 
       after the original. Should it be read by the loser of the purse,
 

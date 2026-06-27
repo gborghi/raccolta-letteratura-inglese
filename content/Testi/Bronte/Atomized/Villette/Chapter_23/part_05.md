@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 23 (part 5)"
+title: "[[Villette]] — Chapter 23 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -16,8 +16,8 @@ tags:
 
 The chamber was a room shadowy with pale-blue hangings, vaporous with
 curtainings and veilings of muslin; the bed seemed to me like
-snow-drift and mist—spotless, soft, and gauzy. Making the women stand
-apart, I undressed their mistress, without their well-meaning but
+[[Snow|snow]]-drift and mist—spotless, soft, and gauzy. Making the women stand
+apart, I undressed their mistress, without their [[Well|well]]-meaning but
 clumsy aid. I was not in a sufficiently collected mood to note with
 separate distinctness every detail of the attire I removed, but I
 received a general impression of refinement, delicacy, and perfect
@@ -30,13 +30,13 @@ As I folded back her plentiful yet fine hair, so shining and soft, and
 so exquisitely tended, I had under my observation a young, pale, weary,
 but high-bred face. The brow was smooth and clear; the eyebrows were
 distinct, but soft, and melting to a mere trace at the temples; the
-eyes were a rich gift of nature—fine and full, large, deep, seeming to
+eyes were a rich gift of [[Nature|nature]]—fine and full, large, deep, seeming to
 hold dominion over the slighter subordinate features—capable, probably,
 of much significance at another hour and under other circumstances than
-the present, but now languid and suffering. Her skin was perfectly
+the present, but now languid and [[Suffering|suffering]]. Her skin was perfectly
 fair, the neck and hands veined finely like the petals of a flower; a
-thin glazing of the ice of pride polished this delicate exterior, and
-her lip wore a curl—I doubt not inherent and unconscious, but which, if
+thin glazing of the ice of [[Pride|pride]] polished this delicate exterior, and
+her lip wore a curl—I [[Doubt|doubt]] not inherent and unconscious, but which, if
 I had seen it first with the accompaniments of health and state, would
 have struck me as unwarranted, and proving in the little lady a quite
 mistaken view of life and her own consequence.
@@ -44,13 +44,13 @@ mistaken view of life and her own consequence.
 Her demeanour under the Doctor’s hands at first excited a smile; it was
 not puerile—rather, on the whole, patient and firm—but yet, once or
 twice she addressed him with suddenness and sharpness, saying that he
-hurt her, and must contrive to give her less pain; I saw her large
+hurt her, and must contrive to give her less [[Pain|pain]]; I saw her large
 eyes, too, settle on his face like the solemn eyes of some pretty,
-wondering child. I know not whether Graham felt this examination: if he
+wondering [[Child|child]]. I know not whether Graham felt this examination: if he
 did, he was cautious not to check or discomfort it by any retaliatory
 look. I think he performed his work with extreme care and gentleness,
-sparing her what pain he could; and she acknowledged as much, when he
-had done, by the words:—“Thank you, Doctor, and good-night,” very
+sparing her what [[Pain|pain]] he could; and she acknowledged as much, when he
+had done, by the words:—“Thank you, Doctor, and good-[[Night|night]],” very
 gratefully pronounced as she uttered them, however, it was with a
 repetition of the serious, direct gaze, I thought, peculiar in its
 gravity and intentness.
@@ -71,7 +71,7 @@ delicately designed, and if at first sight it appeared proud, I believe
 custom might prove it to be soft.
 
 “I thank the lady very sincerely,” said her father: “I fancy she has
-been very good to my child. I think we scarcely dare tell Mrs. Hurst
+been very good to my [[Child|child]]. I think we scarcely dare tell Mrs. Hurst
 who has been her substitute and done her work; she will feel at once
 ashamed and jealous.”
 
@@ -79,8 +79,8 @@ And thus, in the most friendly spirit, parting greetings were
 interchanged; and refreshment having been hospitably offered, but by
 us, as it was late, refused, we withdrew from the Hôtel Crécy.
 
-On our way back we repassed the theatre. All was silence and darkness:
-the roaring, rushing crowd all vanished and gone—the damps, as well as
-the incipient fire, extinct and forgotten. Next morning’s papers
+On our way back we repassed the theatre. All was [[Silence|silence]] and darkness:
+the roaring, rushing crowd all vanished and gone—the damps, as [[Well|well]] as
+the incipient [[Fire|fire]], extinct and forgotten. Next morning’s papers
 explained that it was but some loose drapery on which a spark had
 fallen, and which had blazed up and been quenched in a moment.

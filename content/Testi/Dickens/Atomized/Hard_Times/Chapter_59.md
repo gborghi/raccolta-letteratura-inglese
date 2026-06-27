@@ -22,7 +22,7 @@ MEN AND BROTHERS
 and fellow-countrymen, the slaves of an iron-handed and a grinding
 despotism!  Oh, my friends and fellow-sufferers, and fellow-workmen, and
 fellow-men!  I tell you that the hour is come, when we must rally round
-one another as One united power, and crumble into dust the oppressors
+one another as One united power, and crumble into [[Dust|dust]] the oppressors
 that too long have battened upon the plunder of our families, upon the
 sweat of our brows, upon the labour of our hands, upon the strength of
 our sinews, upon the God-created glorious rights of Humanity, and upon
@@ -35,19 +35,19 @@ and what other froth and fume he had in him.  He had declaimed himself
 into a violent heat, and was as hoarse as he was hot.  By dint of roaring
 at the top of his voice under a flaring gaslight, clenching his fists,
 knitting his brows, setting his teeth, and pounding with his arms, he had
-taken so much out of himself by this time, that he was brought to a stop,
-and called for a glass of water.
+taken so much out of himself by this [[Time|time]], that he was brought to a stop,
+and called for a glass of [[Water|water]].
 
 As he stood there, trying to quench his fiery face with his drink of
-water, the comparison between the orator and the crowd of attentive faces
+[[Water|water]], the comparison between the orator and the crowd of attentive faces
 turned towards him, was extremely to his disadvantage.  Judging him by
-Nature’s evidence, he was above the mass in very little but the stage on
+[[Nature]]’s evidence, he was above the mass in very little but the stage on
 which he stood.  In many great respects he was essentially below them.
 He was not so honest, he was not so manly, he was not so good-humoured;
 he substituted cunning for their simplicity, and passion for their safe
 solid sense.  An ill-made, high-shouldered man, with lowering brows, and
 his features crushed into an habitually sour expression, he contrasted
-most unfavourably, even in his mongrel dress, with the great body of his
+most unfavourably, even in his mongrel dress, with the great [[Body|body]] of his
 hearers in their plain working clothes.  Strange as it always is to
 consider any assembly in the act of submissively resigning itself to the
 dreariness of some complacent person, lord or commoner, whom
@@ -55,7 +55,7 @@ three-fourths of it could, by no human means, raise out of the slough of
 inanity to their own intellectual level, it was particularly strange, and
 it was even particularly affecting, to see this crowd of earnest faces,
 whose honesty in the main no competent observer free from bias could
-doubt, so agitated by such a leader.
+[[Doubt|doubt]], so agitated by such a leader.
 
 Good!  Hear, hear!  Hurrah!  The eagerness both of attention and
 intention, exhibited in all the countenances, made them a most impressive
@@ -64,7 +64,7 @@ the many shades of indifference to be seen in all other assemblies,
 visible for one moment there.  That every man felt his condition to be,
 somehow or other, worse than it might be; that every man considered it
 incumbent on him to join the rest, towards the making of it better; that
-every man felt his only hope to be in his allying himself to the comrades
+every man felt his only [[Hope|hope]] to be in his allying himself to the comrades
 by whom he was surrounded; and that in this belief, right or wrong
 (unhappily wrong then), the whole of that crowd were gravely, deeply,
 faithfully in earnest; must have been as plain to any one who chose to
@@ -74,7 +74,7 @@ these men, through their very delusions, showed great qualities,
 susceptible of being turned to the happiest and best account; and that to
 pretend (on the strength of sweeping axioms, howsoever cut and dried)
 that they went astray wholly without cause, and of their own irrational
-wills, was to pretend that there could be smoke without fire, death
+wills, was to pretend that there could be smoke without [[Fire|fire]], [[Death|death]]
 without birth, harvest without seed, anything or everything produced from
 nothing.
 
@@ -86,21 +86,21 @@ bitterness.
 ‘But oh, my friends and brothers!  Oh, men and Englishmen, the
 down-trodden operatives of Coketown!  What shall we say of that man—that
 working-man, that I should find it necessary so to libel the glorious
-name—who, being practically and well acquainted with the grievances and
+name—who, being practically and [[Well|well]] acquainted with the grievances and
 wrongs of you, the injured pith and marrow of this land, and having heard
 you, with a noble and majestic unanimity that will make Tyrants tremble,
 resolve for to subscribe to the funds of the United Aggregate Tribunal,
-and to abide by the injunctions issued by that body for your benefit,
+and to abide by the injunctions issued by that [[Body|body]] for your benefit,
 whatever they may be—what, I ask you, will you say of that working-man,
-since such I must acknowledge him to be, who, at such a time, deserts his
-post, and sells his flag; who, at such a time, turns a traitor and a
-craven and a recreant, who, at such a time, is not ashamed to make to you
+since such I must acknowledge him to be, who, at such a [[Time|time]], deserts his
+post, and sells his [[Flag|flag]]; who, at such a [[Time|time]], turns a traitor and a
+craven and a recreant, who, at such a [[Time|time]], is not ashamed to make to you
 the dastardly and humiliating avowal that he will hold himself aloof, and
-will _not_ be one of those associated in the gallant stand for Freedom
+will _not_ be one of those associated in the gallant stand for [[Freedom]]
 and for Right?’
 
 The assembly was divided at this point.  There were some groans and
-hisses, but the general sense of honour was much too strong for the
+hisses, but the general sense of [[Honour|honour]] was much too strong for the
 condemnation of a man unheard.  ‘Be sure you’re right, Slackbridge!’
 ‘Put him up!’  ‘Let’s hear him!’  Such things were said on many sides.
 Finally, one strong voice called out, ‘Is the man heer?  If the man’s
@@ -110,10 +110,10 @@ received with a round of applause.
 Slackbridge, the orator, looked about him with a withering smile; and,
 holding out his right hand at arm’s length (as the manner of all
 Slackbridges is), to still the thundering sea, waited until there was a
-profound silence.
+profound [[Silence|silence]].
 
 ‘Oh, my friends and fellow-men!’ said Slackbridge then, shaking his head
-with violent scorn, ‘I do not wonder that you, the prostrate sons of
+with violent scorn, ‘I do not [[Wonder|wonder]] that you, the prostrate sons of
 labour, are incredulous of the existence of such a man.  But he who sold
 his birthright for a mess of pottage existed, and Judas Iscariot existed,
 and Castlereagh existed, and this man exists!’
@@ -127,8 +127,8 @@ the case into his own hands.
 
 ‘My friends,’ said he, ‘by virtue o’ my office as your president, I askes
 o’ our friend Slackbridge, who may be a little over hetter in this
-business, to take his seat, whiles this man Stephen Blackpool is heern.
-You all know this man Stephen Blackpool.  You know him awlung o’ his
+business, to take his seat, whiles this man [[Stephen Blackpool]] is heern.
+You all know this man [[Stephen Blackpool]].  You know him awlung o’ his
 misfort’ns, and his good name.’
 
 With that, the chairman shook him frankly by the hand, and sat down
@@ -137,7 +137,7 @@ from left to right, and never the reverse way.
 
 ‘My friends,’ Stephen began, in the midst of a dead calm; ‘I ha’ hed
 what’s been spok’n o’ me, and ’tis lickly that I shan’t mend it.  But I’d
-liefer you’d hearn the truth concernin myseln, fro my lips than fro onny
+liefer you’d hearn the [[Truth|truth]] concernin myseln, fro my lips than fro onny
 other man’s, though I never cud’n speak afore so monny, wi’out bein
 moydert and muddled.’
 
@@ -146,7 +146,7 @@ bitterness.
 
 ‘I’m th’ one single Hand in Bounderby’s mill, o’ a’ the men theer, as
 don’t coom in wi’ th’ proposed reg’lations.  I canna coom in wi’ ’em.  My
-friends, I doubt their doin’ yo onny good.  Licker they’ll do yo hurt.’
+friends, I [[Doubt|doubt]] their doin’ yo onny good.  Licker they’ll do yo hurt.’
 
 Slackbridge laughed, folded his arms, and frowned sarcastically.
 
@@ -165,7 +165,7 @@ to your children’s and your children’s children’s?’
 There was some applause, and some crying of Shame upon the man; but the
 greater part of the audience were quiet.  They looked at Stephen’s worn
 face, rendered more pathetic by the homely emotions it evinced; and, in
-the kindness of their nature, they were more sorry than indignant.
+the kindness of their [[Nature|nature]], they were more sorry than indignant.
 
 ‘’Tis this Delegate’s trade for t’ speak,’ said Stephen, ‘an’ he’s paid
 for ’t, an’ he knows his work.  Let him keep to ’t.  Let him give no heed
@@ -183,10 +183,10 @@ this delegate here—I ha but a word to sen, and I could sen nommore if I
 was to speak till Strike o’ day.  I know weel, aw what’s afore me.  I
 know weel that yo aw resolve to ha nommore ado wi’ a man who is not wi’
 yo in this matther.  I know weel that if I was a lyin parisht i’ th’
-road, yo’d feel it right to pass me by, as a forrenner and stranger.
+[[Road|road]], yo’d feel it right to pass me by, as a forrenner and stranger.
 What I ha getn, I mun mak th’ best on.’
 
-‘Stephen Blackpool,’ said the chairman, rising, ‘think on ’t agen.  Think
+‘[[Stephen Blackpool]],’ said the chairman, rising, ‘think on ’t agen.  Think
 on ’t once agen, lad, afore thou’rt shunned by aw owd friends.’
 
 There was an universal murmur to the same effect, though no man
@@ -216,13 +216,13 @@ remembered something he had not said, and returned again.
 ‘Haply,’ he said, turning his furrowed face slowly about, that he might
 as it were individually address the whole audience, those both near and
 distant; ‘haply, when this question has been tak’n up and discoosed,
-there’ll be a threat to turn out if I’m let to work among yo.  I hope I
-shall die ere ever such a time cooms, and I shall work solitary among yo
+there’ll be a threat to turn out if I’m let to work among yo.  I [[Hope|hope]] I
+shall die ere ever such a [[Time|time]] cooms, and I shall work solitary among yo
 unless it cooms—truly, I mun do ’t, my friends; not to brave yo, but to
 live.  I ha nobbut work to live by; and wheerever can I go, I who ha
 worked sin I were no heighth at aw, in Coketown heer?  I mak’ no
 complaints o’ bein turned to the wa’, o’ bein outcasten and overlooken
-fro this time forrard, but hope I shall be let to work.  If there is any
+fro this [[Time|time]] forrard, but [[Hope|hope]] I shall be let to work.  If there is any
 right for me at aw, my friends, I think ’tis that.’
 
 Not a word was spoken.  Not a sound was audible in the building, but the
@@ -235,8 +235,8 @@ nothing, Old Stephen, with all his troubles on his head, left the scene.
 Then Slackbridge, who had kept his oratorical arm extended during the
 going out, as if he were repressing with infinite solicitude and by a
 wonderful moral power the vehement passions of the multitude, applied
-himself to raising their spirits.  Had not the Roman Brutus, oh, my
-British countrymen, condemned his son to death; and had not the Spartan
+himself to raising their spirits.  Had not the Roman [[Brutus]], oh, my
+British countrymen, condemned his son to [[Death|death]]; and had not the Spartan
 mothers, oh my soon to be victorious friends, driven their flying
 children on the points of their enemies’ swords?  Then was it not the
 sacred duty of the men of Coketown, with forefathers before them, an
@@ -246,18 +246,18 @@ God-like cause?  The winds of heaven answered Yes; and bore Yes, east,
 west, north, and south.  And consequently three cheers for the United
 Aggregate Tribunal!
 
-Slackbridge acted as fugleman, and gave the time.  The multitude of
-doubtful faces (a little conscience-stricken) brightened at the sound,
+Slackbridge acted as fugleman, and gave the [[Time|time]].  The multitude of
+doubtful faces (a little [[Conscience|conscience]]-stricken) brightened at the sound,
 and took it up.  Private feeling must yield to the common cause.  Hurrah!
 The roof yet vibrated with the cheering, when the assembly dispersed.
 
-Thus easily did Stephen Blackpool fall into the loneliest of lives, the
-life of solitude among a familiar crowd.  The stranger in the land who
+Thus easily did [[Stephen Blackpool]] fall into the loneliest of lives, the
+life of [[Solitude|solitude]] among a familiar crowd.  The stranger in the land who
 looks into ten thousand faces for some answering look and never finds it,
 is in cheering society as compared with him who passes ten averted faces
 daily, that were once the countenances of friends.  Such experience was
 to be Stephen’s now, in every waking moment of his life; at his work, on
-his way to it and from it, at his door, at his window, everywhere.  By
+his way to it and from it, at his door, at his [[Window|window]], everywhere.  By
 general consent, they even avoided that side of the street on which he
 habitually walked; and left it, of all the working men, to him only.
 
@@ -267,18 +267,18 @@ never known before the strength of the want in his heart for the frequent
 recognition of a nod, a look, a word; or the immense amount of relief
 that had been poured into it by drops through such small means.  It was
 even harder than he could have believed possible, to separate in his own
-conscience his abandonment by all his fellows from a baseless sense of
+[[Conscience|conscience]] his abandonment by all his fellows from a baseless sense of
 shame and disgrace.
 
-The first four days of his endurance were days so long and heavy, that he
+The first four days of his [[Endurance|endurance]] were days so long and heavy, that he
 began to be appalled by the prospect before him.  Not only did he see no
-Rachael all the time, but he avoided every chance of seeing her; for,
+Rachael all the [[Time|time]], but he avoided every chance of seeing her; for,
 although he knew that the prohibition did not yet formally extend to the
 women working in the factories, he found that some of them with whom he
 was acquainted were changed to him, and he feared to try others, and
 dreaded that Rachael might be even singled out from the rest if she were
-seen in his company.  So, he had been quite alone during the four days,
-and had spoken to no one, when, as he was leaving his work at night, a
+seen in his company.  So, he had been quite [[Alone|alone]] during the four days,
+and had spoken to no one, when, as he was leaving his work at [[Night|night]], a
 young man of a very light complexion accosted him in the street.
 
 ‘Your name’s Blackpool, ain’t it?’ said the young man.
@@ -293,7 +293,7 @@ very light young man in question.
 Stephen answered ‘Yes,’ again.
 
 ‘I supposed so, from their all appearing to keep away from you.  Mr.
-Bounderby wants to speak to you.  You know his house, don’t you?’
+Bounderby wants to speak to you.  You know his [[house]], don’t you?’
 
 Stephen said ‘Yes,’ again.
 
@@ -303,5 +303,5 @@ you go straight up without me (I was sent to fetch you), you’ll save me a
 walk.’
 
 Stephen, whose way had been in the contrary direction, turned about, and
-betook himself as in duty bound, to the red brick castle of the giant
+betook himself as in duty bound, to the red brick [[Castle|castle]] of the giant
 Bounderby.

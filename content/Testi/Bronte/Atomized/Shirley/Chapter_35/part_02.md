@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 35 (part 2)"
+title: "[[Shirley]] — Chapter 35 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-the fire.
+the [[Fire|fire]].
 
 
 
@@ -32,13 +32,13 @@ somehow."
 
 
 
-"It is true, brother; I have had the whole house thoroughly and
+"It is true, brother; I have had the whole [[house]] thoroughly and
 
 scrupulously cleaned in your absence."
 
 
 
-"Sister, I think on this first day of your return home you ought to have
+"Sister, I think on this first day of your return [[Home|home]] you ought to have
 
 a friend or so to tea, if it were only to see how fresh and spruce you
 
@@ -110,7 +110,7 @@ in pencil by himself, and addressed "Miss Helstone."
 
 
 
-Scarcely had Sarah time to get impatient under the fear of damage to her
+Scarcely had Sarah [[Time|time]] to get impatient under the [[Fear|fear]] of damage to her
 
 toast already prepared when the messenger returned, and with him the
 
@@ -130,7 +130,7 @@ lingered to exchange a few kindly words with Sarah, and to look at the
 
 new tortoise-shell kitten basking on the kitchen hearth, and to speak to
 
-the canary-bird, which a sudden blaze from the fire had startled on its
+the canary-bird, which a sudden blaze from the [[Fire|fire]] had startled on its
 
 perch; and then she betook herself to the parlour.
 
@@ -148,7 +148,7 @@ brought in.
 
 
 
-"I am pleased to come home," repeated Mr. Moore.
+"I am pleased to come [[Home|home]]," repeated Mr. Moore.
 
 
 
@@ -160,13 +160,13 @@ colour and her plump cheeks were returning, she remarked. It was true.
 
 There was an obvious change in Miss Helstone. All about her seemed
 
-elastic; depression, fear, forlornness, were withdrawn. No longer
+elastic; depression, [[Fear|fear]], forlornness, were withdrawn. No longer
 
 crushed, and saddened, and slow, and drooping, she looked like one who
 
 had tasted the cordial of heart's ease, and been lifted on the wing of
 
-hope.
+[[Hope|hope]].
 
 
 
@@ -220,21 +220,21 @@ more than I had calculated."
 
 "Truly it is pleasant; I feel it so. And to see health on your cheek and
 
-hope in your eye is pleasant, Cary; but what is this hope, and what is
+[[Hope|hope]] in your eye is pleasant, Cary; but what is this [[Hope|hope]], and what is
 
 the source of this sunshine I perceive about you?"
 
 
 
-"For one thing, I am happy in mamma. I love her so much, and she loves
+"For one thing, I am happy in mamma. I [[Love|love]] her so much, and she loves
 
 me. Long and tenderly she nursed me. Now, when her care has made me
 
-well, I can occupy myself for and with her all the day. I say it is my
+[[Well|well]], I can occupy myself for and with her all the day. I say it is my
 
 turn to attend to her; and I _do_ attend to her. I am her waiting-woman
 
-as well as her child. I like--you would laugh if you knew what pleasure
+as [[Well|well]] as her [[Child|child]]. I like--you would laugh if you knew what pleasure
 
 I have in making dresses and sewing for her. She looks so nice now,
 
@@ -246,7 +246,7 @@ exhaustless in stores her observant faculties have quietly amassed.
 
 Every day that I live with her I like her better, I esteem her more
 
-highly, I love her more tenderly."
+highly, I [[Love|love]] her more tenderly."
 
 
 
@@ -268,7 +268,7 @@ it is enough to make one jealous of the old lady."
 
 
 
-"Well, of the matron. But you said 'mamma's' affection was _one_ thing
+"[[Well]], of the matron. But you said 'mamma's' affection was _one_ thing
 
 that made you happy; now for the other thing."
 
@@ -308,7 +308,7 @@ my credit, and consequently will not please you."
 
 
 
-"Well, but I half know your 'thing;' indeed, I believe I know all about
+"[[Well]], but I half know your 'thing;' indeed, I believe I know all about
 
 it."
 

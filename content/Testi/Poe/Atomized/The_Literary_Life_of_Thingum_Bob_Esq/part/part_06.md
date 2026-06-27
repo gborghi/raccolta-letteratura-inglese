@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq (part 6)"
+title: "[[The Literary Life of Thingum Bob, Esq]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -24,13 +24,13 @@ tags:
 
       The generous approbation of so clear-sighted a journal as the
 
-      “Mole” penetrated my soul with delight. The only objection which
+      “Mole” penetrated my [[Soul|soul]] with delight. The only objection which
 
       occurred to me was, that the terms “contemptible vagabond” might
 
       have been better written “_odious and_ contemptible _wretch,
 
-      villain and_ vagabond.” This would have sounded more gracefully,
+      [[Villain|villain]] and_ vagabond.” This would have sounded more gracefully,
 
       I think. “Diamond-like,” also, was scarcely, it will be admitted,
 
@@ -80,7 +80,7 @@ tags:
 
       eighty-seven cents and a half for her late valuable Revolutionary
 
-      Tale, entitled ‘The York-Town Katy-Did, and the Bunker-Hill
+      Tale, entitled ‘The York-Town Katy-Did, and the Bunker-[[Hill]]
 
       Katy-Didn’t.’
 
@@ -96,7 +96,7 @@ tags:
 
       Mrs. Squibalittle, and last, though not least, Fatquack. The
 
-      world may well be challenged to produce so rich a galaxy of
+      world may [[Well|well]] be challenged to produce so rich a galaxy of
 
       genius.
 
@@ -120,7 +120,7 @@ tags:
 
       capacity of scullion, we believe, with one of the indecent prints
 
-      about the purlieus of the city; we beg them, for God’s sake, not
+      about the purlieus of the [[City|city]]; we beg them, for God’s sake, not
 
       to confound the compositions. The author of the ‘Oil-of-Bob’ is,
 

@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 12)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 12)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-But he stayed in fear and trembling none the less for these words; and,
+But he stayed in [[Fear|fear]] and trembling none the less for these words; and,
 shrouded in his black cloak with his face turned from them, stood away
 from the bedside, listening to what they said, as if he felt himself a
 demon in the place.
@@ -29,11 +29,11 @@ dreadful thing to think now, of long ago!”
 “No, no, no;” returned the old man. “Think of it. Don’t say it’s
 dreadful. It’s not dreadful to me, my son.”
 
-“It cuts you to the heart, father.” For the old man’s tears were falling
+“It cuts you to the heart, father.” For the old man’s [[Tears|tears]] were falling
 on him.
 
 “Yes, yes,” said Philip, “so it does; but it does me good. It’s a heavy
-sorrow to think of that time, but it does me good, George. Oh, think of
+sorrow to think of that [[Time|time]], but it does me good, George. Oh, think of
 it too, think of it too, and your heart will be softened more and more!
 Where’s my son William? William, my boy, your mother loved him dearly to
 the last, and with her latest breath said, ‘Tell him I forgave him,
@@ -42,12 +42,12 @@ never forgotten them, and I’m eighty-seven!”
 
 “Father!” said the man upon the bed, “I am dying, I know. I am so far
 gone, that I can hardly speak, even of what my mind most runs on. Is
-there any hope for me beyond this bed?”
+there any [[Hope|hope]] for me beyond this bed?”
 
-“There is hope,” returned the old man, “for all who are softened and
-penitent. There is hope for all such. Oh!” he exclaimed, clasping his
+“There is [[Hope|hope]],” returned the old man, “for all who are softened and
+penitent. There is [[Hope|hope]] for all such. Oh!” he exclaimed, clasping his
 hands and looking up, “I was thankful, only yesterday, that I could
-remember this unhappy son when he was an innocent child. But what a
+remember this unhappy son when he was an [[Innocent|innocent]] [[Child|child]]. But what a
 comfort it is, now, to think that even God himself has that remembrance
 of him!”
 
@@ -56,10 +56,10 @@ Redlaw spread his hands upon his face, and shrank, like a murderer.
 “Ah!” feebly moaned the man upon the bed. “The waste since then, the
 waste of life since then!”
 
-“But he was a child once,” said the old man. “He played with children.
-Before he lay down on his bed at night, and fell into his guiltless rest,
+“But he was a [[Child|child]] once,” said the old man. “He played with children.
+Before he lay down on his bed at [[Night|night]], and fell into his guiltless rest,
 he said his prayers at his poor mother’s knee. I have seen him do it,
-many a time; and seen her lay his head upon her breast, and kiss him.
+many a [[Time|time]]; and seen her lay his head upon her breast, and kiss him.
 Sorrowful as it was to her and me, to think of this, when he went so
 wrong, and when our hopes and plans for him were all broken, this gave
 him still a hold upon us, that nothing else could have given. Oh,
@@ -70,12 +70,12 @@ seemed to cry to us!”
 
 As the old man lifted up his trembling hands, the son, for whom he made
 the supplication, laid his sinking head against him for support and
-comfort, as if he were indeed the child of whom he spoke.
+comfort, as if he were indeed the [[Child|child]] of whom he spoke.
 
-When did man ever tremble, as Redlaw trembled, in the silence that
+When did man ever tremble, as Redlaw trembled, in the [[Silence|silence]] that
 ensued! He knew it must come upon them, knew that it was coming fast.
 
-“My time is very short, my breath is shorter,” said the sick man,
+“My [[Time|time]] is very short, my breath is shorter,” said the sick man,
 supporting himself on one arm, and with the other groping in the air,
 “and I remember there is something on my mind concerning the man who was
 here just now, Father and William—wait!—is there really anything in
@@ -93,7 +93,7 @@ him. “It’s Mr. Redlaw.”
 The Chemist, whiter than the dying man, appeared before him. Obedient to
 the motion of his hand, he sat upon the bed.
 
-“It has been so ripped up, to-night, sir,” said the sick man, laying his
+“It has been so ripped up, to-[[Night|night]], sir,” said the sick man, laying his
 hand upon his heart, with a look in which the mute, imploring agony of
 his condition was concentrated, “by the sight of my poor old father, and
 the thought of all the trouble I have been the cause of, and all the
@@ -106,11 +106,11 @@ another change, that made him stop?
 I’ll try to do. There was another man here. Did you see him?”
 
 Redlaw could not reply by any word; for when he saw that fatal sign he
-knew so well now, of the wandering hand upon the forehead, his voice died
+knew so [[Well|well]] now, of the wandering hand upon the forehead, his voice died
 at his lips. But he made some indication of assent.
 
 “He is penniless, hungry, and destitute. He is completely beaten down,
-and has no resource at all. Look after him! Lose no time! I know he
+and has no resource at all. Look after him! Lose no [[Time|time]]! I know he
 has it in his mind to kill himself.”
 
 It was working. It was on his face. His face was changing, hardening,
@@ -127,18 +127,18 @@ here! I have lived bold, and I mean to die bold. To the Devil with
 you!”
 
 And so lay down upon his bed, and put his arms up, over his head and
-ears, as resolute from that time to keep out all access, and to die in
+ears, as resolute from that [[Time|time]] to keep out all access, and to die in
 his indifference.
 
-If Redlaw had been struck by lightning, it could not have struck him from
+If Redlaw had been struck by [[Lightning|lightning]], it could not have struck him from
 the bedside with a more tremendous shock. But the old man, who had left
 the bed while his son was speaking to him, now returning, avoided it
 quickly likewise, and with abhorrence.
 
 “Where’s my boy William?” said the old man hurriedly. “William, come
-away from here. We’ll go home.”
+away from here. We’ll go [[Home|home]].”
 
-“Home, father!” returned William. “Are you going to leave your own son?”
+“[[Home]], father!” returned William. “Are you going to leave your own son?”
 
 “Where’s my own son?” replied the old man.
 

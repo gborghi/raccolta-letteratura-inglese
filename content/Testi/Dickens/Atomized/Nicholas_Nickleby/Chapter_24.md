@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 24"
+title: "[[Nicholas Nickleby]] — Chapter 24"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,7 +25,7 @@ dress, notwithstanding, when he heard footsteps ascending the stairs,
 and was presently saluted by the voices of Mr. Folair the pantomimist,
 and Mr. Lenville, the tragedian.
 
-‘House, house, house!’ cried Mr. Folair.
+‘[[house|House]], [[house]], [[house]]!’ cried Mr. Folair.
 
 ‘What, ho! within there,’ said Mr. Lenville, in a deep voice.
 
@@ -53,40 +53,40 @@ chair, still these advantages can only be had in an apartment of the
 most limited size.’
 
 ‘It isn’t a bit too confined for a single man,’ returned Mr. Lenville.
-‘That reminds me,--my wife, Mr. Johnson,--I hope she’ll have some good
+‘That reminds me,--my wife, Mr. Johnson,--I [[Hope|hope]] she’ll have some good
 part in this piece of yours?’
 
-‘I glanced at the French copy last night,’ said Nicholas. ‘It looks very
+‘I glanced at the French copy last [[Night|night]],’ said Nicholas. ‘It looks very
 good, I think.’
 
 ‘What do you mean to do for me, old fellow?’ asked Mr. Lenville, poking
-the struggling fire with his walking-stick, and afterwards wiping it on
+the struggling [[Fire|fire]] with his walking-stick, and afterwards wiping it on
 the skirt of his coat. ‘Anything in the gruff and grumble way?’
 
-‘You turn your wife and child out of doors,’ said Nicholas; ‘and, in a
-fit of rage and jealousy, stab your eldest son in the library.’
+‘You turn your wife and [[Child|child]] out of doors,’ said Nicholas; ‘and, in a
+fit of rage and [[Jealousy|jealousy]], stab your eldest son in the library.’
 
 ‘Do I though!’ exclaimed Mr. Lenville. ‘That’s very good business.’
 
 ‘After which,’ said Nicholas, ‘you are troubled with remorse till the
 last act, and then you make up your mind to destroy yourself. But, just
-as you are raising the pistol to your head, a clock strikes--ten.’
+as you are raising the [[Pistol|pistol]] to your head, a [[Clock|clock]] strikes--ten.’
 
 ‘I see,’ cried Mr. Lenville. ‘Very good.’
 
-‘You pause,’ said Nicholas; ‘you recollect to have heard a clock
-strike ten in your infancy. The pistol falls from your hand--you are
-overcome--you burst into tears, and become a virtuous and exemplary
+‘You pause,’ said Nicholas; ‘you recollect to have heard a [[Clock|clock]]
+strike ten in your infancy. The [[Pistol|pistol]] falls from your hand--you are
+overcome--you burst into [[Tears|tears]], and become a virtuous and exemplary
 character for ever afterwards.’
 
 ‘Capital!’ said Mr. Lenville: ‘that’s a sure card, a sure card. Get the
-curtain down with a touch of nature like that, and it’ll be a triumphant
-success.’
+curtain down with a touch of [[Nature|nature]] like that, and it’ll be a triumphant
+[[success]].’
 
 ‘Is there anything good for me?’ inquired Mr. Folair, anxiously.
 
 ‘Let me see,’ said Nicholas. ‘You play the faithful and attached
-servant; you are turned out of doors with the wife and child.’
+servant; you are turned out of doors with the wife and [[Child|child]].’
 
 ‘Always coupled with that infernal phenomenon,’ sighed Mr. Folair;
 ‘and we go into poor lodgings, where I won’t take any wages, and talk
@@ -94,9 +94,9 @@ sentiment, I suppose?’
 
 ‘Why--yes,’ replied Nicholas: ‘that is the course of the piece.’
 
-‘I must have a dance of some kind, you know,’ said Mr. Folair. ‘You’ll
+‘I must have a [[Dance|dance]] of some kind, you know,’ said Mr. Folair. ‘You’ll
 have to introduce one for the phenomenon, so you’d better make a PAS DE
-DEUX, and save time.’
+DEUX, and save [[Time|time]].’
 
 ‘There’s nothing easier than that,’ said Mr. Lenville, observing the
 disturbed looks of the young dramatist.
@@ -105,24 +105,24 @@ disturbed looks of the young dramatist.
 
 ‘Why, isn’t it obvious?’ reasoned Mr. Lenville. ‘Gadzooks, who can help
 seeing the way to do it?--you astonish me! You get the distressed lady,
-and the little child, and the attached servant, into the poor lodgings,
-don’t you?--Well, look here. The distressed lady sinks into a chair, and
+and the little [[Child|child]], and the attached servant, into the poor lodgings,
+don’t you?--[[Well]], look here. The distressed lady sinks into a chair, and
 buries her face in her pocket-handkerchief. “What makes you weep, mama?”
- says the child. “Don’t weep, mama, or you’ll make me weep too!”--“And
+ says the [[Child|child]]. “Don’t weep, mama, or you’ll make me weep too!”--“And
 me!” says the favourite servant, rubbing his eyes with his arm. “What
-can we do to raise your spirits, dear mama?” says the little child.
+can we do to raise your spirits, dear mama?” says the little [[Child|child]].
 “Ay, what CAN we do?” says the faithful servant. “Oh, Pierre!” says
 the distressed lady; “would that I could shake off these painful
 thoughts.”--“Try, ma’am, try,” says the faithful servant; “rouse
 yourself, ma’am; be amused.”--“I will,” says the lady, “I will learn
-to suffer with fortitude. Do you remember that dance, my honest friend,
+to suffer with fortitude. Do you remember that [[Dance|dance]], my honest friend,
 which, in happier days, you practised with this sweet angel? It never
 failed to calm my spirits then. Oh! let me see it once again before I
 die!”--There it is--cue for the band, BEFORE I DIE,--and off they go.
 That’s the regular thing; isn’t it, Tommy?’
 
 ‘That’s it,’ replied Mr. Folair. ‘The distressed lady, overpowered by old
-recollections, faints at the end of the dance, and you close in with a
+recollections, faints at the end of the [[Dance|dance]], and you close in with a
 picture.’
 
 Profiting by these and other lessons, which were the result of the
@@ -131,7 +131,7 @@ best breakfast he could, and, when he at length got rid of them, applied
 himself to his task: by no means displeased to find that it was so much
 easier than he had at first supposed. He worked very hard all day,
 and did not leave his room until the evening, when he went down to the
-theatre, whither Smike had repaired before him to go on with another
+theatre, whither [[Smike]] had repaired before him to go on with another
 gentleman as a general rebellion.
 
 Here all the people were so much changed, that he scarcely knew them.
@@ -141,8 +141,8 @@ proportions; Mr. Crummles, his large face shaded by a profusion of
 black hair, a Highland outlaw of most majestic bearing; one of the
 old gentlemen a jailer, and the other a venerable patriarch; the comic
 countryman, a fighting-man of great valour, relieved by a touch of
-humour; each of the Master Crummleses a prince in his own right; and the
-low-spirited lover, a desponding captive. There was a gorgeous banquet
+[[Humour|humour]]; each of the Master Crummleses a prince in his own right; and the
+low-spirited [[Lover|lover]], a desponding captive. There was a gorgeous banquet
 ready spread for the third act, consisting of two pasteboard vases, one
 plate of biscuits, a black bottle, and a vinegar cruet; and, in short,
 everything was on a scale of the utmost splendour and preparation.
@@ -167,23 +167,23 @@ the centre, and the whole of the stage-box.’
 children, and they never come unless the phenomenon plays.’
 
 It would have been difficult for any party, family, or otherwise, to
-have visited the theatre on a night when the phenomenon did NOT play,
+have visited the theatre on a [[Night|night]] when the phenomenon did NOT play,
 inasmuch as she always sustained one, and not uncommonly two or three,
-characters, every night; but Nicholas, sympathising with the feelings of
+characters, every [[Night|night]]; but Nicholas, sympathising with the feelings of
 a father, refrained from hinting at this trifling circumstance, and Mr
 Crummles continued to talk, uninterrupted by him.
 
 ‘Six,’ said that gentleman; ‘pa and ma eight, aunt nine, governess
 ten, grandfather and grandmother twelve. Then, there’s the footman, who
-stands outside, with a bag of oranges and a jug of toast-and-water,
+stands outside, with a bag of oranges and a jug of toast-and-[[Water|water]],
 and sees the play for nothing through the little pane of glass in the
 box-door--it’s cheap at a guinea; they gain by taking a box.’
 
-‘I wonder you allow so many,’ observed Nicholas.
+‘I [[Wonder|wonder]] you allow so many,’ observed Nicholas.
 
 ‘There’s no help for it,’ replied Mr. Crummles; ‘it’s always expected in
 the country. If there are six children, six people come to hold them in
-their laps. A family-box carries double always. Ring in the orchestra,
+their laps. A family-box carries [[Double|double]] always. Ring in the orchestra,
 Grudden!’
 
 That useful lady did as she was requested, and shortly afterwards the
@@ -207,32 +207,32 @@ scene. The plot was most interesting. It belonged to no particular age,
 people, or country, and was perhaps the more delightful on that account,
 as nobody’s previous information could afford the remotest glimmering of
 what would ever come of it. An outlaw had been very successful in doing
-something somewhere, and came home, in triumph, to the sound of shouts
+something somewhere, and came [[Home|home]], in triumph, to the sound of shouts
 and fiddles, to greet his wife--a lady of masculine mind, who talked
 a good deal about her father’s bones, which it seemed were unburied,
 though whether from a peculiar taste on the part of the old gentleman
 himself, or the reprehensible neglect of his relations, did not appear.
 This outlaw’s wife was, somehow or other, mixed up with a patriarch,
-living in a castle a long way off, and this patriarch was the father
+living in a [[Castle|castle]] a long way off, and this patriarch was the father
 of several of the characters, but he didn’t exactly know which, and was
-uncertain whether he had brought up the right ones in his castle, or the
+uncertain whether he had brought up the right ones in his [[Castle|castle]], or the
 wrong ones; he rather inclined to the latter opinion, and, being uneasy,
 relieved his mind with a banquet, during which solemnity somebody in
 a cloak said ‘Beware!’ which somebody was known by nobody (except the
 audience) to be the outlaw himself, who had come there, for reasons
 unexplained, but possibly with an eye to the spoons. There was an
-agreeable little surprise in the way of certain love passages between
+agreeable little surprise in the way of certain [[Love|love]] passages between
 the desponding captive and Miss Snevellicci, and the comic fighting-man
 and Miss Bravassa; besides which, Mr. Lenville had several very tragic
 scenes in the dark, while on throat-cutting expeditions, which were
 all baffled by the skill and bravery of the comic fighting-man (who
 overheard whatever was said all through the piece) and the intrepidity
 of Miss Snevellicci, who adopted tights, and therein repaired to the
-prison of her captive lover, with a small basket of refreshments and a
+[[Prison|prison]] of her captive [[Lover|lover]], with a small basket of refreshments and a
 dark lantern. At last, it came out that the patriarch was the man
 who had treated the bones of the outlaw’s father-in-law with so much
 disrespect, for which cause and reason the outlaw’s wife repaired to
-his castle to kill him, and so got into a dark room, where, after a good
+his [[Castle|castle]] to kill him, and so got into a dark room, where, after a good
 deal of groping in the dark, everybody got hold of everybody else, and
 took them for somebody besides, which occasioned a vast quantity of
 confusion, with some pistolling, loss of life, and torchlight; after
@@ -254,26 +254,26 @@ Snevellicci in particular was uncommonly good.’
 
 ‘She’s a genius,’ said Mr. Crummles; ‘quite a genius, that girl.
 By-the-bye, I’ve been thinking of bringing out that piece of yours on
-her bespeak night.’
+her bespeak [[Night|night]].’
 
 ‘When?’ asked Nicholas.
 
-‘The night of her bespeak. Her benefit night, when her friends and
+‘The [[Night|night]] of her bespeak. Her benefit [[Night|night]], when her friends and
 patrons bespeak the play,’ said Mr. Crummles.
 
 ‘Oh! I understand,’ replied Nicholas.
 
 ‘You see,’ said Mr. Crummles, ‘it’s sure to go, on such an occasion, and
-even if it should not work up quite as well as we expect, why it will be
+even if it should not work up quite as [[Well|well]] as we expect, why it will be
 her risk, you know, and not ours.’
 
 ‘Yours, you mean,’ said Nicholas.
 
 ‘I said mine, didn’t I?’ returned Mr. Crummles. ‘Next Monday week. What
-do you say? You’ll have done it, and are sure to be up in the lover’s
-part, long before that time.’
+do you say? You’ll have done it, and are sure to be up in the [[Lover|lover]]’s
+part, long before that [[Time|time]].’
 
-‘I don’t know about “long before,”’ replied Nicholas; ‘but BY that time
+‘I don’t know about “long before,”’ replied Nicholas; ‘but BY that [[Time|time]]
 I think I can undertake to be ready.’
 
 ‘Very good,’ pursued Mr. Crummles, ‘then we’ll call that settled. Now,
@@ -303,9 +303,9 @@ shouldn’t like to do that.’
 
 ‘The infant will accompany her,’ said Mr. Crummles. ‘The moment it was
 suggested to me, I gave permission for the infant to go. There will not
-be the smallest impropriety--Miss Snevellicci, sir, is the very soul
-of honour. It would be of material service--the gentleman from
-London--author of the new piece--actor in the new piece--first
+be the smallest impropriety--Miss Snevellicci, sir, is the very [[Soul|soul]]
+of [[Honour|honour]]. It would be of material service--the gentleman from
+[[London]]--author of the new piece--actor in the new piece--first
 appearance on any boards--it would lead to a great bespeak, Mr. Johnson.’
 
 ‘I am very sorry to throw a damp upon the prospects of anybody, and
@@ -321,36 +321,36 @@ Nicholas.
 
 ‘Objection!’ exclaimed Mrs. Crummles. ‘Can it be possible?’
 
-‘Oh, I hope not!’ cried Miss Snevellicci. ‘You surely are not so
-cruel--oh, dear me!--Well, I--to think of that now, after all one’s
+‘Oh, I [[Hope|hope]] not!’ cried Miss Snevellicci. ‘You surely are not so
+cruel--oh, dear me!--[[Well]], I--to think of that now, after all one’s
 looking forward to it!’
 
 ‘Mr. Johnson will not persist, my dear,’ said Mrs. Crummles. ‘Think better
 of him than to suppose it. Gallantry, humanity, all the best feelings of
-his nature, must be enlisted in this interesting cause.’
+his [[Nature|nature]], must be enlisted in this interesting cause.’
 
 ‘Which moves even a manager,’ said Mr. Crummles, smiling.
 
-‘And a manager’s wife,’ added Mrs. Crummles, in her accustomed tragedy
+‘And a manager’s wife,’ added Mrs. Crummles, in her accustomed [[Tragedy|tragedy]]
 tones. ‘Come, come, you will relent, I know you will.’
 
-‘It is not in my nature,’ said Nicholas, moved by these appeals, ‘to
+‘It is not in my [[Nature|nature]],’ said Nicholas, moved by these appeals, ‘to
 resist any entreaty, unless it is to do something positively wrong; and,
-beyond a feeling of pride, I know nothing which should prevent my doing
+beyond a feeling of [[Pride|pride]], I know nothing which should prevent my doing
 this. I know nobody here, and nobody knows me. So be it then. I yield.’
 
 Miss Snevellicci was at once overwhelmed with blushes and expressions of
 gratitude, of which latter commodity neither Mr. nor Mrs. Crummles was by
 any means sparing. It was arranged that Nicholas should call upon her,
 at her lodgings, at eleven next morning, and soon after they parted:
-he to return home to his authorship: Miss Snevellicci to dress for the
+he to return [[Home|home]] to his authorship: Miss Snevellicci to dress for the
 after-piece: and the disinterested manager and his wife to discuss the
 probable gains of the forthcoming bespeak, of which they were to have
 two-thirds of the profits by solemn treaty of agreement.
 
 At the stipulated hour next morning, Nicholas repaired to the lodgings
 of Miss Snevellicci, which were in a place called Lombard Street, at
-the house of a tailor. A strong smell of ironing pervaded the little
+the [[house]] of a tailor. A strong smell of ironing pervaded the little
 passage; and the tailor’s daughter, who opened the door, appeared in
 that flutter of spirits which is so often attendant upon the periodical
 getting up of a family’s linen.
@@ -375,12 +375,12 @@ saucers, Miss Snevellicci was then taking her breakfast in bed.
 short period of absence, during which the clinking in the back-room had
 ceased, and been succeeded by whispering--‘She won’t be long.’
 
-As she spoke, she pulled up the window-blind, and having by this means
+As she spoke, she pulled up the [[Window|window]]-blind, and having by this means
 (as she thought) diverted Mr. Johnson’s attention from the room to the
 street, caught up some articles which were airing on the fender, and had
 very much the appearance of stockings, and darted off.
 
-As there were not many objects of interest outside the window, Nicholas
+As there were not many objects of interest outside the [[Window|window]], Nicholas
 looked about the room with more curiosity than he might otherwise have
 bestowed upon it. On the sofa lay an old guitar, several thumbed
 pieces of music, and a scattered litter of curl-papers; together with a
@@ -397,13 +397,13 @@ But the most interesting object of all was, perhaps, the open scrapbook,
 displayed in the midst of some theatrical duodecimos that were strewn
 upon the table; and pasted into which scrapbook were various critical
 notices of Miss Snevellicci’s acting, extracted from different
-provincial journals, together with one poetic address in her honour,
+provincial journals, together with one poetic address in her [[Honour|honour]],
 commencing--
 
-     Sing, God of Love, and tell me in what dearth
+     Sing, God of [[Love]], and tell me in what dearth
      Thrice-gifted SNEVELLICCI came on earth,
      To thrill us with her smile, her tear, her eye,
-     Sing, God of Love, and tell me quickly why.
+     Sing, God of [[Love]], and tell me quickly why.
 
 Besides this effusion, there were innumerable complimentary allusions,
 also extracted from newspapers, such as--‘We observe from an
@@ -418,26 +418,26 @@ with a bumper.’ ‘To Correspondents.--J.S. is misinformed when he
 supposes that the highly-gifted and beautiful Miss Snevellicci, nightly
 captivating all hearts at our pretty and commodious little theatre,
 is NOT the same lady to whom the young gentleman of immense fortune,
-residing within a hundred miles of the good city of York, lately made
+residing within a hundred miles of the good [[City|city]] of York, lately made
 honourable proposals. We have reason to know that Miss Snevellicci IS
 the lady who was implicated in that mysterious and romantic affair, and
-whose conduct on that occasion did no less honour to her head and heart,
+whose conduct on that occasion did no less [[Honour|honour]] to her head and heart,
 than do her histrionic triumphs to her brilliant genius.’ A copious
 assortment of such paragraphs as these, with long bills of benefits
 all ending with ‘Come Early’, in large capitals, formed the principal
 contents of Miss Snevellicci’s scrapbook.
 
 Nicholas had read a great many of these scraps, and was absorbed in a
-circumstantial and melancholy account of the train of events which had
+circumstantial and [[Melancholy|melancholy]] account of the train of events which had
 led to Miss Snevellicci’s spraining her ankle by slipping on a piece of
-orange-peel flung by a monster in human form, (so the paper said,) upon
+orange-peel flung by a [[Monster|monster]] in human form, (so the paper said,) upon
 the stage at Winchester,--when that young lady herself, attired in the
 coal-scuttle bonnet and walking-dress complete, tripped into the room,
 with a thousand apologies for having detained him so long after the
-appointed time.
+appointed [[Time|time]].
 
 ‘But really,’ said Miss Snevellicci, ‘my darling Led, who lives with me
-here, was taken so very ill in the night that I thought she would have
+here, was taken so very ill in the [[Night|night]] that I thought she would have
 expired in my arms.’
 
 ‘Such a fate is almost to be envied,’ returned Nicholas, ‘but I am very
@@ -475,13 +475,13 @@ longer than the other; besides these accidents, the green parasol
 was dropped down an iron grating, and only fished up again with great
 difficulty and by dint of much exertion. However, it was impossible to
 scold her, as she was the manager’s daughter, so Nicholas took it all in
-perfect good humour, and walked on, with Miss Snevellicci, arm-in-arm on
+perfect good [[Humour|humour]], and walked on, with Miss Snevellicci, arm-in-arm on
 one side, and the offending infant on the other.
 
-The first house to which they bent their steps, was situated in
+The first [[house]] to which they bent their steps, was situated in
 a terrace of respectable appearance. Miss Snevellicci’s modest
-double-knock was answered by a foot-boy, who, in reply to her inquiry
-whether Mrs. Curdle was at home, opened his eyes very wide, grinned very
+[[Double|double]]-knock was answered by a foot-boy, who, in reply to her inquiry
+whether Mrs. Curdle was at [[Home|home]], opened his eyes very wide, grinned very
 much, and said he didn’t know, but he’d inquire. With this he
 showed them into a parlour where he kept them waiting, until the two
 women-servants had repaired thither, under false pretences, to see the
@@ -490,10 +490,10 @@ joined in a vast quantity of whispering and giggling, he at length went
 upstairs with Miss Snevellicci’s name.
 
 Now, Mrs. Curdle was supposed, by those who were best informed on
-such points, to possess quite the London taste in matters relating to
+such points, to possess quite the [[London]] taste in matters relating to
 literature and the drama; and as to Mr. Curdle, he had written a pamphlet
-of sixty-four pages, post octavo, on the character of the Nurse’s
-deceased husband in Romeo and Juliet, with an inquiry whether he really
+of sixty-four pages, post octavo, on the character of the [[Nurse]]’s
+deceased husband in [[Romeo]] and [[Juliet]], with an inquiry whether he really
 had been a ‘merry man’ in his lifetime, or whether it was merely his
 widow’s affectionate partiality that induced her so to report him. He
 had likewise proved, that by altering the received mode of punctuation,
@@ -501,11 +501,11 @@ any one of Shakespeare’s plays could be made quite different, and the
 sense completely changed; it is needless to say, therefore, that he was
 a great critic, and a very profound and most original thinker.
 
-‘Well, Miss Snevellicci,’ said Mrs. Curdle, entering the parlour, ‘and
+‘[[Well]], Miss Snevellicci,’ said Mrs. Curdle, entering the parlour, ‘and
 how do YOU do?’
 
 Miss Snevellicci made a graceful obeisance, and hoped Mrs. Curdle was
-well, as also Mr. Curdle, who at the same time appeared. Mrs. Curdle was
+[[Well|well]], as also Mr. Curdle, who at the same [[Time|time]] appeared. Mrs. Curdle was
 dressed in a morning wrapper, with a little cap stuck upon the top
 of her head. Mr. Curdle wore a loose robe on his back, and his right
 forefinger on his forehead after the portraits of Sterne, to whom
@@ -520,26 +520,26 @@ Snevellicci--the drama is gone, perfectly gone.’
 
 ‘As an exquisite embodiment of the poet’s visions, and a realisation of
 human intellectuality, gilding with refulgent light our dreamy moments,
-and laying open a new and magic world before the mental eye, the drama
+and laying open a new and [[Magic|magic]] world before the mental eye, the drama
 is gone, perfectly gone,’ said Mr. Curdle.
 
 ‘What man is there, now living, who can present before us all those
-changing and prismatic colours with which the character of Hamlet is
+changing and prismatic colours with which the character of [[Hamlet]] is
 invested?’ exclaimed Mrs. Curdle.
 
 ‘What man indeed--upon the stage,’ said Mr. Curdle, with a small
-reservation in favour of himself. ‘Hamlet! Pooh! ridiculous! Hamlet is
+reservation in favour of himself. ‘[[Hamlet]]! Pooh! ridiculous! [[Hamlet]] is
 gone, perfectly gone.’
 
 Quite overcome by these dismal reflections, Mr. and Mrs. Curdle sighed,
-and sat for some short time without speaking. At length, the lady,
+and sat for some short [[Time|time]] without speaking. At length, the lady,
 turning to Miss Snevellicci, inquired what play she proposed to have.
 
 ‘Quite a new one,’ said Miss Snevellicci, ‘of which this gentleman is
 the author, and in which he plays; being his first appearance on any
 stage. Mr. Johnson is the gentleman’s name.’
 
-‘I hope you have preserved the unities, sir?’ said Mr. Curdle.
+‘I [[Hope|hope]] you have preserved the unities, sir?’ said Mr. Curdle.
 
 ‘The original piece is a French one,’ said Nicholas. ‘There is abundance
 of incident, sprightly dialogue, strongly-marked characters--’
@@ -548,17 +548,17 @@ of incident, sprightly dialogue, strongly-marked characters--’
 returned Mr. Curdle. ‘The unities of the drama, before everything.’
 
 ‘Might I ask you,’ said Nicholas, hesitating between the respect he
-ought to assume, and his love of the whimsical, ‘might I ask you what
+ought to assume, and his [[Love|love]] of the whimsical, ‘might I ask you what
 the unities are?’
 
 Mr. Curdle coughed and considered. ‘The unities, sir,’ he said, ‘are a
 completeness--a kind of universal dovetailedness with regard to place
-and time--a sort of a general oneness, if I may be allowed to use so
+and [[Time|time]]--a sort of a general oneness, if I may be allowed to use so
 strong an expression. I take those to be the dramatic unities, so far as
 I have been enabled to bestow attention upon them, and I have read
 much upon the subject, and thought much. I find, running through the
-performances of this child,’ said Mr. Curdle, turning to the phenomenon,
-‘a unity of feeling, a breadth, a light and shade, a warmth of
+performances of this [[Child|child]],’ said Mr. Curdle, turning to the phenomenon,
+‘a [[unity]] of feeling, a breadth, a light and shade, a warmth of
 colouring, a tone, a harmony, a glow, an artistical development
 of original conceptions, which I look for, in vain, among older
 performers--I don’t know whether I make myself understood?’
@@ -579,7 +579,7 @@ we do not give THEM the sanction of our names, but that we confer the
 distinction merely upon Miss Snevellicci. That being clearly stated, I
 take it to be, as it were, a duty, that we should extend our patronage
 to a degraded stage, even for the sake of the associations with which
-it is entwined. Have you got two-and-sixpence for half-a-crown, Miss
+it is entwined. Have you got two-and-sixpence for half-a-[[Crown|crown]], Miss
 Snevellicci?’ said Mr. Curdle, turning over four of those pieces of
 money.
 
@@ -600,7 +600,7 @@ to keeping the places for them, and dusting the seat, and sending two
 clean bills as soon as they came out, rang the bell, as a signal for
 breaking up the conference.
 
-‘Odd people those,’ said Nicholas, when they got clear of the house.
+‘Odd people those,’ said Nicholas, when they got clear of the [[house]].
 
 ‘I assure you,’ said Miss Snevellicci, taking his arm, ‘that I think
 myself very lucky they did not owe all the money instead of being
@@ -608,18 +608,18 @@ sixpence short. Now, if you were to succeed, they would give people to
 understand that they had always patronised you; and if you were to fail,
 they would have been quite certain of that from the very beginning.’
 
-At the next house they visited, they were in great glory; for, there,
+At the next [[house]] they visited, they were in great glory; for, there,
 resided the six children who were so enraptured with the public actions
 of the phenomenon, and who, being called down from the nursery to be
 treated with a private view of that young lady, proceeded to poke their
 fingers into her eyes, and tread upon her toes, and show her many other
-little attentions peculiar to their time of life.
+little attentions peculiar to their [[Time|time]] of life.
 
 ‘I shall certainly persuade Mr. Borum to take a private box,’ said the
-lady of the house, after a most gracious reception. ‘I shall only
+lady of the [[house]], after a most gracious reception. ‘I shall only
 take two of the children, and will make up the rest of the party, of
 gentlemen--your admirers, Miss Snevellicci. Augustus, you naughty boy,
-leave the little girl alone.’
+leave the little girl [[Alone|alone]].’
 
 This was addressed to a young gentleman who was pinching the phenomenon
 behind, apparently with a view of ascertaining whether she was real.
@@ -636,7 +636,7 @@ the distracted infant looked helplessly on.
 
 ‘I am sure, where you ever learnt to act as you do,’ said good-natured
 Mrs. Borum, turning again to Miss Snevellicci, ‘I cannot understand
-(Emma, don’t stare so); laughing in one piece, and crying in the next,
+([[Emma]], don’t stare so); laughing in one piece, and crying in the next,
 and so natural in all--oh, dear!’
 
 ‘I am very happy to hear you express so favourable an opinion,’ said
@@ -646,7 +646,7 @@ Miss Snevellicci. ‘It’s quite delightful to think you like it.’
 play, twice a week if I could: I dote upon it--only you’re too affecting
 sometimes. You do put me in such a state--into such fits of crying!
 Goodness gracious me, Miss Lane, how can you let them torment that poor
-child so!’
+[[Child|child]] so!’
 
 The phenomenon was really in a fair way of being torn limb from limb;
 for two strong little boys, one holding on by each of her hands, were
@@ -668,8 +668,8 @@ go at all, because other people went. At length, and by little and
 little, omitting something in this place, and adding something in
 that, Miss Snevellicci pledged herself to a bill of fare which was
 comprehensive enough, if it had no other merit (it included among other
-trifles, four pieces, divers songs, a few combats, and several dances);
-and they returned home, pretty well exhausted with the business of the
+trifles, four pieces, divers [[songs]], a few combats, and several dances);
+and they returned [[Home|home]], pretty [[Well|well]] exhausted with the business of the
 day.
 
 Nicholas worked away at the piece, which was speedily put into
@@ -680,13 +680,13 @@ morning, to proclaim the entertainments with the sound of bell in all
 the thoroughfares; and extra bills of three feet long by nine inches
 wide, were dispersed in all directions, flung down all the areas,
 thrust under all the knockers, and developed in all the shops. They were
-placarded on all the walls too, though not with complete success, for an
+placarded on all the walls too, though not with complete [[success]], for an
 illiterate person having undertaken this office during the indisposition
 of the regular bill-sticker, a part were posted sideways, and the
 remainder upside down.
 
 At half-past five, there was a rush of four people to the gallery-door;
-at a quarter before six, there were at least a dozen; at six o’clock the
+at a quarter before six, there were at least a dozen; at six o’[[Clock|clock]] the
 kicks were terrific; and when the elder Master Crummles opened the door,
 he was obliged to run behind it for his life. Fifteen shillings were
 taken by Mrs. Grudden in the first ten minutes.
@@ -699,18 +699,18 @@ heat and anxiety; even Mr. Crummles himself kept peeping through the hole
 in the curtain, and running back, every now and then, to announce that
 another man had come into the pit.
 
-At last, the orchestra left off, and the curtain rose upon the new
+At last, the orchestra left off, and the curtain [[Rose|rose]] upon the new
 piece. The first scene, in which there was nobody particular, passed
 off calmly enough, but when Miss Snevellicci went on in the second,
-accompanied by the phenomenon as child, what a roar of applause broke
-out! The people in the Borum box rose as one man, waving their hats
+accompanied by the phenomenon as [[Child|child]], what a roar of applause broke
+out! The people in the Borum box [[Rose|rose]] as one man, waving their hats
 and handkerchiefs, and uttering shouts of ‘Bravo!’ Mrs. Borum and the
 governess cast wreaths upon the stage, of which, some fluttered into the
 lamps, and one crowned the temples of a fat gentleman in the pit, who,
-looking eagerly towards the scene, remained unconscious of the honour;
+looking eagerly towards the scene, remained unconscious of the [[Honour|honour]];
 the tailor and his family kicked at the panels of the upper boxes
 till they threatened to come out altogether; the very ginger-beer
-boy remained transfixed in the centre of the house; a young officer,
+boy remained transfixed in the centre of the [[house]]; a young officer,
 supposed to entertain a passion for Miss Snevellicci, stuck his glass
 in his eye as though to hide a tear. Again and again Miss Snevellicci
 curtseyed lower and lower, and again and again the applause came down,
@@ -724,24 +724,24 @@ mother), sneered, and called him ‘presumptuous boy,’ and he defied her,
 what a tumult of applause came on! When he quarrelled with the other
 gentleman about the young lady, and producing a case of pistols, said,
 that if he WAS a gentleman, he would fight him in that drawing-room,
-until the furniture was sprinkled with the blood of one, if not of
+until the furniture was sprinkled with the [[Blood|blood]] of one, if not of
 two--how boxes, pit, and gallery, joined in one most vigorous cheer!
 When he called his mother names, because she wouldn’t give up the young
 lady’s property, and she relenting, caused him to relent likewise,
 and fall down on one knee and ask her blessing, how the ladies in the
 audience sobbed! When he was hid behind the curtain in the dark, and the
-wicked relation poked a sharp sword in every direction, save where his
-legs were plainly visible, what a thrill of anxious fear ran through the
-house! His air, his figure, his walk, his look, everything he said or
+wicked relation poked a sharp [[Sword|sword]] in every direction, save where his
+legs were plainly visible, what a thrill of anxious [[Fear|fear]] ran through the
+[[house]]! His air, his figure, his walk, his look, everything he said or
 did, was the subject of commendation. There was a round of applause
-every time he spoke. And when, at last, in the pump-and-tub scene, Mrs
-Grudden lighted the blue fire, and all the unemployed members of the
+every [[Time|time]] he spoke. And when, at last, in the pump-and-tub scene, Mrs
+Grudden lighted the blue [[Fire|fire]], and all the unemployed members of the
 company came in, and tumbled down in various directions--not because
 that had anything to do with the plot, but in order to finish off with a
-tableau--the audience (who had by this time increased considerably) gave
+tableau--the audience (who had by this [[Time|time]] increased considerably) gave
 vent to such a shout of enthusiasm as had not been heard in those walls
 for many and many a day.
 
-In short, the success both of new piece and new actor was complete, and
+In short, the [[success]] both of new piece and new actor was complete, and
 when Miss Snevellicci was called for at the end of the play, Nicholas
 led her on, and divided the applause.

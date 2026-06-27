@@ -1,5 +1,5 @@
 ---
-title: "The Glass Walking Stick — The Heraldic Lion"
+title: "The Glass Walking Stick — The Heraldic [[Lion]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-THE HERALDIC LION
+THE HERALDIC [[Lion|LION]]
 
 SIR THOMAS BROWNE was, as everybody knows, a medical man.
 He was a rather curious kind of medical man; and there are a great
 many points in which he presents a somewhat singular contrast
 to our doctors of today.  For instance, he wrote an eloquent and
-exhaustive work on urn-burial, churchyards, and death generally;
+exhaustive work on urn-burial, churchyards, and [[Death|death]] generally;
 a subject which doctors are now understood to avoid.
 But in nothing is he so permanently interesting as in his relations
-with the remarkable zoology of his time.  His superb religious
+with the remarkable zoology of his [[Time|time]].  His superb religious
 rhetoric and the whole literary side of him are obviously immortal.
-Nothing finer has ever been said about the soul than that phrase of
+Nothing finer has ever been said about the [[Soul|soul]] than that phrase of
 Browne's that it is a thing in man `which owes no homage unto the sun'.
 But a more delicate defence is needed of his quaint science,
 and, indeed, of all the medieval science from which he drew his ideas.
@@ -123,38 +123,38 @@ over this article.  A great many other examples might be taken.
 The heraldic leopard is not without his good points.
 The dog-headed men in Africa were full of interest;
 nor must we forget Jehan de Mandeville's memorable description
-of a hippopotamus, that it was `half man and half horse'.
-That is what may be called an impressionist or symbolist sketch of it;
+of a hippopotamus, that it was `half man and half [[Horse|horse]]'.
+That is what may be called an impressionist or symbolist [[Sketch|sketch]] of it;
 it avoids teasing details, and gives a sense of mass and atmosphere.
 I have often looked at the hippopotamus in his cage at the
 Zoological Gardens, and wondered which part of his appearance or
 physiognomy impressed the incisive Mandeville as being contributed
 by some human person of his acquaintance.  Had he seen a very human class
 of hippopotamus, or had he mixed with a hippopotamic class of men?
-But the general remarks which I have made about the medieval lion,
-the heraldic lion, apply equally well to all these other medieval
+But the general remarks which I have made about the medieval [[Lion|lion]],
+the heraldic [[Lion|lion]], apply equally [[Well|well]] to all these other medieval
 monstrosities or combinations.  They were all fictitious.
 They were all entirely different from and independent of,
 the living creature upon which they were supposed to be modelled.
 And those who wrote about them and talked about them, and gravely
 disputed about all their characteristics, physical, mental,
-and moral, were, at the bottom of their hearts and the back of
+and moral, were, at the [[Bottom|bottom]] of their hearts and the back of
 their minds, totally indifferent to whether they were true or not.
-The Middle Ages were full of logic.  And logic in its examples
-and symbols is in its nature entirely indifferent to fact.
+The Middle Ages were full of [[logic]].  And [[logic]] in its examples
+and symbols is in its [[Nature|nature]] entirely indifferent to fact.
 It is as easy to be logical about things that do not exist as
 about things that do exist.  If twice three is six, it is certain
 that three men with two legs each will have six legs between them.
 And if twice three is six, it is equally certain that three
 men with two heads each will have six heads between them.
 That there never were three men with two heads each does not
-invalidate the logic in the least.  It makes the deduction impossible,
+invalidate the [[logic]] in the least.  It makes the deduction impossible,
 but it does not make it illogical.  Twice three is still six,
 whether you reckon it in pigs or in flaming dragons, whether you
 reckon it in cottages or in castles-in-the-air. And the object
-of all this great medieval and Renaissance science was simply
-to find everywhere and anywhere examples of its philosophy.
-If the hippopotamus illustrated the idea of justice, well and good;
+of all this great medieval and [[Renaissance]] science was simply
+to find everywhere and anywhere examples of its [[philosophy]].
+If the hippopotamus illustrated the idea of justice, [[Well|well]] and good;
 if it did not, so much the worse for the hippopotamus.
 These ancients sought to make the brutes the mere symbol of the man.
 Some moderns seek to make Man a mere symbol of the brutes.  These old
@@ -162,6 +162,6 @@ scientists were only interested in the human side of the beasts.
 Some new scientists are only interested in the beastly side of the men.
 Instead of making the ape and tiger mere accessories to the man,
 they make man a mere accessory, a mere afterthought to the ape and tiger.
-Instead of employing the hippopotamus to illustrate their philosophy,
-they employ the hippopotamus to make their philosophy, and the great
+Instead of employing the hippopotamus to illustrate their [[philosophy]],
+they employ the hippopotamus to make their [[philosophy]], and the great
 fat books he writes you and I, please God, will never read.

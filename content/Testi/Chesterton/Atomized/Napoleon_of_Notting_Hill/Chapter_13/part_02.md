@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 1 (part 2)"
+title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -24,13 +24,13 @@ than his own.
 "The matter?" said Buck, bitterly; "don't you see how these maniacs
 have got us?  Why should two idiots, one a clown and the other
 a screaming lunatic, make sane men so different from themselves?
-Look here, Barker; I will give you a picture.  A very well-bred
+Look here, Barker; I will give you a picture.  A very [[Well|well]]-bred
 young man of this century is dancing about in a frock-coat. He
 has in his hands a nonsensical seventeenth century halberd,
-with which he is trying to kill men in the street in Notting Hill.
+with which he is trying to kill men in the street in Notting [[Hill]].
 Damn it! don't you see how they've got us?  Never mind how you
-felt...that is how you looked.  The King would put his cursed head
-on one side and call it exquisite.  The Provost of Notting Hill
+felt...that is how you looked.  The [[King]] would put his cursed head
+on one side and call it exquisite.  The Provost of Notting [[Hill]]
 would put his cursed nose in the air and call it heroic.
 But in Heaven's name what would you have called it...two days before?"
 
@@ -40,22 +40,22 @@ Barker bit his lip.
 understand fighting...the atmosphere."
 
 "I don't deny the atmosphere," said Buck, striking the table.
-"I only say it's their atmosphere.  It's Adam Wayne's atmosphere.
+"I only say it's their atmosphere.  It's [[Adam Wayne]]'s atmosphere.
 It's the atmosphere which you and I thought had vanished from
 an educated world for ever."
 
-"Well, it hasn't," said Barker; "and if you have any lingering doubts,
+"[[Well]], it hasn't," said Barker; "and if you have any lingering doubts,
 lend me a poleaxe and I'll show you."
 
-There was a long silence, and then Buck turned to his neighbour
+There was a long [[Silence|silence]], and then Buck turned to his neighbour
 and spoke in that good-tempered tone that comes of a power of looking
 facts in the face; the tone in which he concluded great bargains.
 
 "Barker," he said, "you are right.  This old thing...this fighting,
 has come back.  It has come back suddenly and taken us by surprise.
-So it is first blood to Adam Wayne.  But, unless reason and arithmetic
+So it is first [[Blood|blood]] to [[Adam Wayne]].  But, unless reason and arithmetic
 and everything else have gone crazy, it must be next and last
-blood to us.  But when an issue has really arisen, there is only
+[[Blood|blood]] to us.  But when an issue has really arisen, there is only
 one thing to do...to study that issue as such and win in it.
 Barker, since it is fighting, we must understand fighting.
 I must understand fighting as coolly and completely as I
@@ -81,8 +81,8 @@ were advancing into an open plain where you could see everything.
 Instead of that you were advancing into the bowels of a fortress,
 with streets pointing at you, streets turning on you,
 streets jumping out at you, and all in the hands of the enemy.
-Do you know what Portobello Road is?  It is the only point on
-your journey where two side streets run up opposite each other.
+Do you know what Portobello [[Road]] is?  It is the only point on
+your [[Journey|journey]] where two side streets run up opposite each other.
 Wayne massed his men on the two sides, and when he had let
 enough of your line go past, cut it in two like a worm.
 Don't you see what would have saved you?"
@@ -102,7 +102,7 @@ surrounding them in their turn and hurling them on to your halberds."
 "The thing would have been as possible," said Buck, simply; "as simple
 as arithmetic.  There are a certain number of street entries that lead
 to Pump Street.  There are not nine hundred; there are not nine million.
-They do not grow in the night.  They do not increase like mushrooms.
+They do not grow in the [[Night|night]].  They do not increase like mushrooms.
 It must be possible with such an overwhelming force as we have
 to advance by all of them at once.  In every one of the arteries,
 or approaches, we can put almost as many men as Wayne can put into
@@ -113,7 +113,7 @@ It is like a proposition in Euclid."
 dominated delightfully.
 
 "I'll tell you what I think," said Buck, getting up jovially.
-"I think Adam Wayne made an uncommonly spirited little fight.
+"I think [[Adam Wayne]] made an uncommonly spirited little fight.
 And I think I am confoundedly sorry for him."
 
 "Buck, you are a great man," cried Barker, rising also.
@@ -133,22 +133,22 @@ It is so late."
 Buck turned on him, stamping.
 
 "Do you think fighting is under the Factory Acts?" he said.
-And he called a cab.  "Notting Hill Gate Station," he said,
+And he called a cab.  "Notting [[Hill]] Gate Station," he said,
 and the two drove off.
 
 . . . . .
 
 A genuine reputation can sometimes be made in an hour.  Buck, in the next
 sixty or eighty minutes showed himself a really great man of action.
-His cab carried him like a thunderbolt from the King to Wilson,
+His cab carried him like a thunderbolt from the [[King]] to Wilson,
 from Wilson to Swindon, from Swindon to Barker again;
-if his course was jagged, it had the jaggedness of the lightning.
+if his course was jagged, it had the jaggedness of the [[Lightning|lightning]].
 Only two things he carried with him, his inevitable cigar
-and the map of North Kensington and Notting Hill.  There were,
-as he again and again pointed out, with every variety of persuasion
+and the map of North Kensington and Notting [[Hill]].  There were,
+as he again and again pointed out, with every variety of [[Persuasion|persuasion]]
 and violence, only nine possible ways of approaching Pump Street
 within a quarter of a mile around it; three out of Westbourne Grove,
-two out of Ladbroke Grove, and four out of Notting Hill High Street.
+two out of Ladbroke Grove, and four out of Notting [[Hill]] High Street.
 And he had detachments of two hundred each, stationed at every
 one of the entrances before the last green of that strange sunset
 had sunk out of the black sky.

@@ -34,7 +34,7 @@ enough to BE Miss Podsnap, without being called so. Call me Georgiana.’
 
 ‘Thank you,’ said Miss Podsnap.
 
-‘Dearest Georgiana, pardon me if I scarcely see, my love, why your
+‘Dearest Georgiana, pardon me if I scarcely see, my [[Love|love]], why your
 mamma’s not being shy, is a reason why you should be.’
 
 ‘Don’t you really see that?’ asked Miss Podsnap, plucking at her fingers
@@ -48,7 +48,7 @@ of my dullness.’
 ‘Oh YOU are not dull,’ returned Miss Podsnap. ‘I am dull, but you
 couldn’t have made me talk if you were.’
 
-Some little touch of conscience answering this perception of her having
+Some little touch of [[Conscience|conscience]] answering this perception of her having
 gained a purpose, called bloom enough into Mrs Lammle’s face to make it
 look brighter as she sat smiling her best smile on her dear Georgiana,
 and shaking her head with an affectionate playfulness. Not that it meant
@@ -68,19 +68,19 @@ against the wall again and her eyes closed.
 ‘Oh there’s Ma being awful with somebody with a glass in his eye! Oh I
 know she’s going to bring him here! Oh don’t bring him, don’t bring him!
 Oh he’ll be my partner with his glass in his eye! Oh what shall I do!’
-This time Georgiana accompanied her ejaculations with taps of her feet
+This [[Time|time]] Georgiana accompanied her ejaculations with taps of her feet
 upon the floor, and was altogether in quite a desperate condition. But,
 there was no escape from the majestic Mrs Podsnap’s production of an
 ambling stranger, with one eye screwed up into extinction and the other
 framed and glazed, who, having looked down out of that organ, as if he
-descried Miss Podsnap at the bottom of some perpendicular shaft, brought
+descried Miss Podsnap at the [[Bottom|bottom]] of some perpendicular shaft, brought
 her to the surface, and ambled off with her. And then the captive at the
 piano played another ‘set,’ expressive of his mournful aspirations after
-freedom, and other sixteen went through the former melancholy motions,
+[[Freedom|freedom]], and other sixteen went through the former [[Melancholy|melancholy]] motions,
 and the ambler took Miss Podsnap for a furniture walk, as if he had
 struck out an entirely original conception.
 
-In the mean time a stray personage of a meek demeanour, who had wandered
+In the mean [[Time|time]] a stray personage of a meek demeanour, who had wandered
 to the hearthrug and got among the heads of tribes assembled there in
 conference with Mr Podsnap, eliminated Mr Podsnap’s flush and
 flourish by a highly unpolite remark; no less than a reference to the
@@ -96,7 +96,7 @@ the Inquests and the Registrar’s returns.
 ‘Then it was their own fault,’ said Mr Podsnap.
 
 Veneering and other elders of tribes commended this way out of it. At
-once a short cut and a broad road.
+once a short cut and a broad [[Road|road]].
 
 The man of meek demeanour intimated that truly it would seem from
 the facts, as if starvation had been forced upon the culprits in
@@ -115,7 +115,7 @@ appallingly wrong somewhere.
 
 ‘Where?’ said Mr Podsnap.
 
-The meek man hinted Wouldn’t it be well to try, very seriously, to find
+The meek man hinted Wouldn’t it be [[Well|well]] to try, very seriously, to find
 out where?
 
 ‘Ah!’ said Mr Podsnap. ‘Easy to say somewhere; not so easy to say
@@ -131,17 +131,17 @@ certainly was more staggered by these terrible occurrences than he was
 by names, of howsoever so many syllables. Might he ask, was dying of
 destitution and neglect necessarily English?
 
-‘You know what the population of London is, I suppose,’ said Mr Podsnap.
+‘You know what the population of [[London]] is, I suppose,’ said Mr Podsnap.
 
 The meek man supposed he did, but supposed that had absolutely nothing
-to do with it, if its laws were well administered.
+to do with it, if its laws were [[Well|well]] administered.
 
-‘And you know; at least I hope you know;’ said Mr Podsnap, with
-severity, ‘that Providence has declared that you shall have the poor
+‘And you know; at least I [[Hope|hope]] you know;’ said Mr Podsnap, with
+severity, ‘that [[Providence]] has declared that you shall have the poor
 always with you?’
 
 The meek man also hoped he knew that.
 
 ‘I am glad to hear it,’ said Mr Podsnap with a portentous air. ‘I am
 glad to hear it. It will render you cautious how you fly in the face of
-Providence.’
+[[Providence]].’

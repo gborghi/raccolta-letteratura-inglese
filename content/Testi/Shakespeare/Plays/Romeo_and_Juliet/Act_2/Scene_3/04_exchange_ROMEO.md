@@ -1,5 +1,5 @@
 ---
-title: "Romeo and Juliet — Act II, Scene 3 — exchange (ROMEO) [4]"
+title: "[[Romeo]] and [[Juliet]] — Act II, Scene 3 — exchange ([[Romeo|ROMEO]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ROMEO-AND-JULIET-(Shakespeare)"
@@ -15,9 +15,9 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ROMEO | Ay, Nurse, what of that? Both with an ‘R’. |
-| NURSE | Ah, mocker—that’s the dog’s name. ’R’ is for the—no, I know it begins with some other letter, and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it. |
-| ROMEO | Commend me to thy lady. |
-| NURSE | Ay, a thousand times. Peter! |
+| [[Romeo|ROMEO]] | Ay, [[Nurse]], what of that? Both with an ‘R’. |
+| [[Nurse|NURSE]] | Ah, mocker—that’s the dog’s name. ’R’ is for the—no, I know it begins with some other letter, and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it. |
+| [[Romeo|ROMEO]] | Commend me to thy lady. |
+| [[Nurse|NURSE]] | Ay, a thousand times. Peter! |
 | PETER | Anon. |
-| NURSE | giving Peter her fan Before, and apace. Exeunt Peter and Nurse at one door, Romeo at another door |
+| [[Nurse|NURSE]] | giving Peter her fan Before, and apace. Exeunt Peter and [[Nurse]] at one door, [[Romeo]] at another door |

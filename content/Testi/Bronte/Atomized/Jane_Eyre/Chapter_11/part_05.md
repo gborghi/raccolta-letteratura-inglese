@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 11 (part 5)"
+title: "[[Jane Eyre]] — Chapter 11 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,8 +18,8 @@ I found my pupil sufficiently docile, though disinclined to apply: she
 had not been used to regular occupation of any kind. I felt it would be
 injudicious to confine her too much at first; so, when I had talked to
 her a great deal, and got her to learn a little, and when the morning
-had advanced to noon, I allowed her to return to her nurse. I then
-proposed to occupy myself till dinner-time in drawing some little
+had advanced to [[Noon|noon]], I allowed her to return to her [[Nurse|nurse]]. I then
+proposed to occupy myself till dinner-[[Time|time]] in drawing some little
 sketches for her use.
 
 As I was going upstairs to fetch my portfolio and pencils, Mrs. Fairfax
@@ -27,30 +27,30 @@ called to me: “Your morning school-hours are over now, I suppose,” said
 she. She was in a room the folding-doors of which stood open: I went in
 when she addressed me. It was a large, stately apartment, with purple
 chairs and curtains, a Turkey carpet, walnut-panelled walls, one vast
-window rich in stained glass, and a lofty ceiling, nobly moulded. Mrs.
+[[Window|window]] rich in stained glass, and a lofty ceiling, nobly moulded. Mrs.
 Fairfax was dusting some vases of fine purple spar, which stood on a
 sideboard.
 
 “What a beautiful room!” I exclaimed, as I looked round; for I had
 never before seen any half so imposing.
 
-“Yes; this is the dining-room. I have just opened the window, to let in
+“Yes; this is the dining-room. I have just opened the [[Window|window]], to let in
 a little air and sunshine; for everything gets so damp in apartments
 that are seldom inhabited; the drawing-room yonder feels like a vault.”
 
-She pointed to a wide arch corresponding to the window, and hung like
+She pointed to a wide arch corresponding to the [[Window|window]], and hung like
 it with a Tyrian-dyed curtain, now looped up. Mounting to it by two
 broad steps, and looking through, I thought I caught a glimpse of a
 fairy place, so bright to my novice-eyes appeared the view beyond. Yet
 it was merely a very pretty drawing-room, and within it a boudoir, both
 spread with white carpets, on which seemed laid brilliant garlands of
-flowers; both ceiled with snowy mouldings of white grapes and
-vine-leaves, beneath which glowed in rich contrast crimson couches and
+[[Flowers|flowers]]; both ceiled with snowy mouldings of white grapes and
+vine-[[Leaves|leaves]], beneath which glowed in rich contrast crimson couches and
 ottomans; while the ornaments on the pale Parian mantelpiece were of
 sparkling Bohemian glass, ruby red; and between the windows large
-mirrors repeated the general blending of snow and fire.
+mirrors repeated the general blending of [[Snow|snow]] and [[Fire|fire]].
 
-“In what order you keep these rooms, Mrs. Fairfax!” said I. “No dust,
+“In what order you keep these rooms, Mrs. Fairfax!” said I. “No [[Dust|dust]],
 no canvas coverings: except that the air feels chilly, one would think
 they were inhabited daily.”
 
@@ -68,9 +68,9 @@ he expects to have things managed in conformity to them.”
 
 “Oh, yes; the family have always been respected here. Almost all the
 land in this neighbourhood, as far as you can see, has belonged to the
-Rochesters time out of mind.”
+Rochesters [[Time|time]] out of mind.”
 
-“Well, but, leaving his land out of the question, do you like him? Is
+“[[Well]], but, leaving his land out of the question, do you like him? Is
 he liked for himself?”
 
 “_I_ have no cause to do otherwise than like him; and I believe he is
@@ -99,35 +99,35 @@ persons or things: the good lady evidently belonged to this class; my
 queries puzzled, but did not draw her out. Mr. Rochester was Mr.
 Rochester in her eyes; a gentleman, a landed proprietor—nothing more:
 she inquired and searched no further, and evidently wondered at my wish
-to gain a more definite notion of his identity.
+to gain a more definite notion of his [[Identity|identity]].
 
 When we left the dining-room, she proposed to show me over the rest of
-the house; and I followed her upstairs and downstairs, admiring as I
-went; for all was well arranged and handsome. The large front chambers
+the [[house]]; and I followed her upstairs and downstairs, admiring as I
+went; for all was [[Well|well]] arranged and handsome. The large front chambers
 I thought especially grand: and some of the third-storey rooms, though
 dark and low, were interesting from their air of antiquity. The
-furniture once appropriated to the lower apartments had from time to
-time been removed here, as fashions changed: and the imperfect light
+furniture once appropriated to the lower apartments had from [[Time|time]] to
+[[Time|time]] been removed here, as fashions changed: and the imperfect light
 entering by their narrow casement showed bedsteads of a hundred years
 old; chests in oak or walnut, looking, with their strange carvings of
 palm branches and cherubs’ heads, like types of the Hebrew ark; rows of
 venerable chairs, high-backed and narrow; stools still more antiquated,
 on whose cushioned tops were yet apparent traces of half-effaced
 embroideries, wrought by fingers that for two generations had been
-coffin-dust. All these relics gave to the third storey of Thornfield
-Hall the aspect of a home of the past: a shrine of memory. I liked the
+coffin-[[Dust|dust]]. All these relics gave to the third storey of Thornfield
+Hall the aspect of a [[Home|home]] of the past: a shrine of [[Memory|memory]]. I liked the
 hush, the gloom, the quaintness of these retreats in the day; but I by
-no means coveted a night’s repose on one of those wide and heavy beds:
+no means coveted a [[Night|night]]’s repose on one of those wide and heavy beds:
 shut in, some of them, with doors of oak; shaded, others, with wrought
 old English hangings crusted with thick work, portraying effigies of
-strange flowers, and stranger birds, and strangest human beings,—all
+strange [[Flowers|flowers]], and stranger [[Birds|birds]], and strangest human beings,—all
 which would have looked strange, indeed, by the pallid gleam of
 moonlight.
 
-“Do the servants sleep in these rooms?” I asked.
+“Do the servants [[Sleep|sleep]] in these rooms?” I asked.
 
 “No; they occupy a range of smaller apartments to the back; no one ever
-sleeps here: one would almost say that, if there were a ghost at
+sleeps here: one would almost say that, if there were a [[Ghost|ghost]] at
 Thornfield Hall, this would be its haunt.”
 
-“So I think: you have no ghost, then?”
+“So I think: you have no [[Ghost|ghost]], then?”

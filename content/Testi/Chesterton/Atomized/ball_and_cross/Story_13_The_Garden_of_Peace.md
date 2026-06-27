@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Garden of Peace"
+title: "ball and [[Cross|cross]] — The [[Garden]] of Peace"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-XIII.  THE GARDEN OF PEACE
+XIII.  THE [[Garden|GARDEN]] OF PEACE
 
-Up to this instant Evan MacIan had really understood nothing;
+Up to this instant [[Evan MacIan]] had really understood nothing;
 but when he saw the policeman he saw everything.  He saw his enemies,
 all the powers and princes of the earth.  He suddenly altered
-from a staring statue to a leaping man of the mountains.
+from a staring statue to a leaping man of the [[Mountains|mountains]].
 
 "We must break away from him here," he cried, briefly, and went
 like a whirlwind over the sand ridge in a straight line and at a
 particular angle.  When the policeman had finished his admirable railway
 curve, he found a wall of failing sand between him and the pursued.
-By the time he had scaled it thrice, slid down twice, and crested
+By the [[Time|time]] he had scaled it thrice, slid down twice, and crested
 it in the third effort, the two flying figures were far in front.
 They found the sand harder farther on; it began to be crusted with scraps
 of turf and in a few moments they were flying easily over an open common
@@ -34,7 +34,7 @@ which they had so innocently sent into the chief gate of Thanet
 had called to life the police of half a county on their trail.
 From every side across the grey-green common figures could be seen
 running and closing in; and it was only when MacIan with his big
-body broke down the tangled barrier of a little wood, as men break
+[[Body|body]] broke down the tangled barrier of a little wood, as men break
 down a door with the shoulder; it was only when they vanished
 crashing into the underworld of the black wood, that their hunters
 were even instantaneously thrown off the scent.
@@ -45,30 +45,30 @@ or the hunted) took an incalculable course through the forest,
 which let them out at last by a forest opening--quite forgotten by
 the leaders of the chase.  They ran a mile or two farther along the edge
 of the wood until they reached another and somewhat similar opening.
-Then MacIan stood utterly still and listened, as animals listen,
+Then MacIan stood utterly still and listened, as [[Animals|animals]] listen,
 for every sound in the universe.  Then he said:  "We are quit of them."
 And Turnbull said:  "Where shall we go now?"
 
 MacIan looked at the silver sunset that was closing in, barred by plumy
 lines of purple cloud; he looked at the high tree-tops that caught
-the last light and at the birds going heavily homeward, just as if
+the last light and at the [[Birds|birds]] going heavily homeward, just as if
 all these things were bits of written advice that he could read.
 
 Then he said:  "The best place we can go to is to bed.  If we can
-get some sleep in this wood, now everyone has cleared out of it,
+get some [[Sleep|sleep]] in this wood, now everyone has cleared out of it,
 it will be worth a handicap of two hundred yards tomorrow."
 
 Turnbull, who was exceptionally lively and laughing in his demeanour,
 kicked his legs about like a schoolboy and said he did not want
-to go to sleep.  He walked incessantly and talked very brilliantly.
-And when at last he lay down on the hard earth, sleep struck him
+to go to [[Sleep|sleep]].  He walked incessantly and talked very brilliantly.
+And when at last he lay down on the hard earth, [[Sleep|sleep]] struck him
 senseless like a hammer.
 
-Indeed, he needed the strongest sleep he could get; for the earth
+Indeed, he needed the strongest [[Sleep|sleep]] he could get; for the earth
 was still full of darkness and a kind of morning fog when his
 fellow-fugitive shook him awake.
 
-"No more sleep, I'm afraid," said Evan, in a heavy, almost submissive,
+"No more [[Sleep|sleep]], I'm afraid," said Evan, in a heavy, almost submissive,
 voice of apology.  "They've gone on past us right enough for
 a good thirty miles; but now they've found out their mistake,
 and they're coming back."
@@ -77,7 +77,7 @@ and they're coming back."
 eyebrows with his hand.
 
 The next moment, however, he had jumped up alive and leaping
-like a man struck with a shock of cold water, and he was plunging
+like a man struck with a shock of cold [[Water|water]], and he was plunging
 after MacIan along the woodland path.  The shape of their old
 friend the constable had appeared against the pearl and pink
 of the sunrise.  Somehow, it always looked a very funny shape
@@ -87,24 +87,24 @@ when seen against the sunrise.
 
 A wash of weary daylight was breaking over the country-side,
 and the fields and roads were full of white mist--the kind of white
-mist that clings in corners like cotton wool.  The empty road,
+mist that clings in corners like cotton wool.  The empty [[Road|road]],
 along which the chase had taken its turn, was overshadowed on one
 side by a very high discoloured wall, stained, and streaked green,
 as with seaweed--evidently the high-shouldered sentinel of some great
 gentleman's estate.  A yard or two from the wall ran parallel to it
 a linked and tangled line of lime-trees, forming a kind of cloister
-along the side of the road.  It was under this branching colonnade
+along the side of the [[Road|road]].  It was under this branching colonnade
 that the two fugitives fled, almost concealed from their pursuers
 by the twilight, the mist and the leaping zoetrope of shadows.
 Their feet, though beating the ground furiously, made but a
 faint noise; for they had kicked away their boots in the wood;
 their long, antiquated weapons made no jingle or clatter,
 for they had strapped them across their backs like guitars.
-They had all the advantages that invisibility and silence can
-add to speed.
+They had all the advantages that invisibility and [[Silence|silence]] can
+add to [[Speed|speed]].
 
 A hundred and fifty yards behind them down the centre of the empty
-road the first of their pursuers came pounding and panting--
+[[Road|road]] the first of their pursuers came pounding and panting--
 a fat but powerful policeman who had distanced all the rest.
 He came on at a splendid pace for so portly a figure; but, like all
 heavy bodies in motion, he gave the impression that it would be
@@ -117,34 +117,34 @@ Pursuer and pursued were fixed in their distance as they fled,
 for some quarter of a mile, when they came to a place where two or three
 of the trees grew twistedly together, making a special obscurity.
 Past this place the pursuing policeman went thundering without
-thought or hesitation.  But he was pursuing his shadow or the wind;
+thought or hesitation.  But he was pursuing his [[Shadow|shadow]] or the [[Wind|wind]];
 for Turnbull had put one foot in a crack of the tree and gone up
 it as quickly and softly as a cat.  Somewhat more laboriously
-but in equal silence the long legs of the Highlander had followed;
-and crouching in crucial silence in the cloud of leaves, they saw
-the whole posse of their pursuers go by and die into the dust
+but in equal [[Silence|silence]] the long legs of the Highlander had followed;
+and crouching in crucial [[Silence|silence]] in the cloud of [[Leaves|leaves]], they saw
+the whole posse of their pursuers go by and die into the [[Dust|dust]]
 and mists of the distance.
 
 The white vapour lay, as it often does, in lean and palpable layers;
 and even the head of the tree was above it in the half-daylight,
-like a green ship swinging on a sea of foam.  But higher yet behind them,
+like a green [[Ship|ship]] swinging on a sea of foam.  But higher yet behind them,
 and readier to catch the first coming of the sun, ran the rampart
 of the top of the wall, which in their excitement of escape looked
-at once indispensable and unattainable, like the wall of heaven.
+at once indispensable and [[Unattainable|unattainable]], like the wall of heaven.
 Here, however, it was MacIan's turn to have the advantage; for, though
 less light-limbed and feline, he was longer and stronger in the arms.
 In two seconds he had tugged up his chin over the wall like a
-horizontal bar; the next he sat astride of it, like a horse of stone.
+horizontal bar; the next he sat astride of it, like a [[Horse|horse]] of stone.
 With his assistance Turnbull vaulted to the same perch, and the two
 began cautiously to shift along the wall in the direction by which they
 had come, doubling on their tracks to throw off the last pursuit.
 MacIan could not rid himself of the fancy of bestriding a steed;
 the long, grey coping of the wall shot out in front of him,
-like the long, grey neck of some nightmare Rosinante.
+like the long, grey neck of some [[nightmare]] Rosinante.
 He had the quaint thought that he and Turnbull were two knights
 on one steed on the old shield of the Templars.
 
-The nightmare of the stone horse was increased by the white fog,
+The [[nightmare]] of the stone [[Horse|horse]] was increased by the white fog,
 which seemed thicker inside the wall than outside.  They could make
 nothing of the enclosure upon which they were partial trespassers,
 except that the green and crooked branches of a big apple-tree
@@ -155,46 +155,46 @@ of words to use this tree also as a ladder--a ladder of descent.
 When they dropped from the lowest branch to the ground their stockinged
 feet felt hard gravel beneath them.
 
-They had alighted in the middle of a very broad garden path, and the
-clearing mist permitted them to see the edge of a well-clipped lawn.
+They had alighted in the middle of a very broad [[Garden|garden]] path, and the
+clearing mist permitted them to see the edge of a [[Well|well]]-clipped lawn.
 Though the white vapour was still a veil, it was like the gauzy
 veil of a transformation scene in a pantomime; for through it
 there glowed shapeless masses of colour, masses which might be
 clouds of sunrise or mosaics of gold and crimson, or ladies
 robed in ruby and emerald draperies.  As it thinned yet farther
-they saw that it was only flowers; but flowers in such insolent
+they saw that it was only [[Flowers|flowers]]; but [[Flowers|flowers]] in such insolent
 mass and magnificence as can seldom be seen out of the tropics.
-Purple and crimson rhododendrons rose arrogantly, like rampant
-heraldic animals against their burning background of laburnum gold.
+Purple and crimson rhododendrons [[Rose|rose]] arrogantly, like rampant
+heraldic [[Animals|animals]] against their burning background of laburnum gold.
 The roses were red hot; the clematis was, so to speak, blue hot.
 And yet the mere whiteness of the syringa seemed the most violent
 colour of all.  As the golden sunlight gradually conquered the mists,
 it had really something of the sensational sweetness of the slow opening
 of the gates of Eden.  MacIan, whose mind was always haunted with such
-seraphic or titanic parallels, made some such remark to his companion.
-But Turnbull only cursed and said that it was the back garden
+seraphic or [[titanic]] parallels, made some such remark to his companion.
+But Turnbull only cursed and said that it was the back [[Garden|garden]]
 of some damnable rich man.
 
 When the last haze had faded from the ordered paths, the open lawns,
 and the flaming flower-beds, the two realized, not without an
-abrupt re-examination of their position, that they were not alone
-in the garden.
+abrupt re-examination of their position, that they were not [[Alone|alone]]
+in the [[Garden|garden]].
 
-Down the centre of the central garden path, preceded by a blue
+Down the centre of the central [[Garden|garden]] path, preceded by a blue
 cloud from a cigarette, was walking a gentleman who evidently
-understood all the relish of a garden in the very early morning.
+understood all the relish of a [[Garden|garden]] in the very early morning.
 He was a slim yet satisfied figure, clad in a suit of pale-grey tweed,
 so subdued that the pattern was imperceptible--a costume that was
 casual but not by any means careless.  His face, which was reflective
 and somewhat over-refined, was the face of a quite elderly man,
 though his stringy hair and moustache were still quite yellow.
-A double eye-glass, with a broad, black ribbon, drooped from
+A [[Double|double]] eye-glass, with a broad, black ribbon, drooped from
 his aquiline nose, and he smiled, as he communed with himself,
-with a self-content which was rare and almost irritating.
+with a [[Self|self]]-content which was rare and almost irritating.
 The straw panama on his head was many shades shabbier than his clothes,
 as if he had caught it up by accident.
 
-It needed the full shock of the huge shadow of MacIan, falling across
+It needed the full shock of the huge [[Shadow|shadow]] of MacIan, falling across
 his sunlit path, to rouse him from his smiling reverie.
 When this had fallen on him he lifted his head a little
 and blinked at the intruders with short-sighted benevolence,
@@ -240,20 +240,20 @@ light moustache, and the other continued with increased confidence:
 "One sometimes wants to have it out with another man.  The police
 won't allow it in the streets--and then there's the County Council--
 and in the fields even nothing's allowed but posters of pills.
-But in a gentleman's garden, now----"
+But in a gentleman's [[Garden|garden]], now----"
 
 The strange gentleman smiled again and said, easily enough:
 "Do you want to fight?  What do you want to fight about?"
 
-MacIan had understood his man pretty well up to that point;
+MacIan had understood his man pretty [[Well|well]] up to that point;
 an instinct common to all men with the aristocratic tradition
 of Europe had guided him.  He knew that the kind of man
-who in his own back garden wears good clothes and spoils them
+who in his own back [[Garden|garden]] wears good clothes and spoils them
 with a bad hat is not the kind of man who has an abstract horror
 of illegal actions of violence or the evasion of the police.
 But a man may understand ragging and yet be very far from understanding
 religious ragging.  This seeming host of theirs might comprehend
-a quarrel of husband and lover or a difficulty at cards or even
+a quarrel of husband and [[Lover|lover]] or a difficulty at cards or even
 escape from a pursuing tailor; but it still remained doubtful
 whether he would feel the earth fail under him in that earthquake
 instant when the Virgin is compared to a goddess of Mesopotamia.
@@ -280,58 +280,58 @@ we should both have sticks.  He improves on the suggestion
 and proposes that we should both have steel-pointed sticks.
 The police (with characteristic unreasonableness) will not accept
 either of our proposals; the result is that we run about dodging
-the police and have jumped over your garden wall into your magnificent
-garden to throw ourselves on your magnificent hospitality."
+the police and have jumped over your [[Garden|garden]] wall into your magnificent
+[[Garden|garden]] to throw ourselves on your magnificent hospitality."
 
 The face of the old gentleman had grown redder and redder during
 this address, but it was still smiling; and when he broke out it
 was with a kind of guffaw.
 
-"So you really want to fight with drawn swords in my garden,"
+"So you really want to fight with drawn swords in my [[Garden|garden]],"
 he asked, "about whether there is really a God?"
 
 "Why not?" said MacIan, with his simple monstrosity of speech;
-"all man's worship began when the Garden of Eden was founded."
+"all man's worship began when the [[Garden]] of Eden was founded."
 
 "Yes, by----!" said Turnbull, with an oath, "and ended when the
 Zoological Gardens were founded."
 
-"In this garden!  In my presence!" cried the stranger,
+"In this [[Garden|garden]]!  In my presence!" cried the stranger,
 stamping up and down the gravel and choking with laughter,
 "whether there is a God!"  And he went stamping up and down
-the garden, making it echo with his unintelligible laughter.
+the [[Garden|garden]], making it echo with his unintelligible laughter.
 Then he came back to them more composed and wiping his eyes.
 
 "Why, how small the world is!" he cried at last.  "I can settle
 the whole matter.  Why, I am God!"
 
-And he suddenly began to kick and wave his well-clad legs
+And he suddenly began to kick and wave his [[Well|well]]-clad legs
 about the lawn.
 
 "You are what?" repeated Turnbull, in a tone which is beyond description.
 
 "Why, God, of course!" answered the other, thoroughly amused.
-"How funny it is to think that you have tumbled over a garden wall
+"How funny it is to think that you have tumbled over a [[Garden|garden]] wall
 and fallen exactly on the right person!  You might have gone floundering
 about in all sorts of churches and chapels and colleges and schools
-of philosophy looking for some evidence of the existence of God.
+of [[philosophy]] looking for some evidence of the existence of God.
 Why, there is no evidence, except seeing him.  And now you've seen him.
-You've seen him dance!"
+You've seen him [[Dance|dance]]!"
 
 And the obliging old gentleman instantly stood on one leg without
-relaxing at all the grave and cultured benignity of his expression.
+relaxing at all the [[Grave|grave]] and cultured benignity of his expression.
 
-"I understood that this garden----" began the bewildered MacIan.
+"I understood that this [[Garden|garden]]----" began the bewildered MacIan.
 
 "Quite so!  Quite so!" said the man on one leg, nodding gravely.
-"I said this garden belonged to me and the land outside it.
+"I said this [[Garden|garden]] belonged to me and the land outside it.
 So they do.  So does the country beyond that and the sea
-beyond that and all the rest of the earth.  So does the moon.
-So do the sun and stars."  And he added, with a smile of apology:
+beyond that and all the rest of the earth.  So does the [[Moon|moon]].
+So do the sun and [[Stars|stars]]."  And he added, with a smile of apology:
 "You see, I'm God."
 
 Turnbull and MacIan looked at him for one moment with a sort of notion
-that perhaps he was not too old to be merely playing the fool.
+that perhaps he was not too old to be merely playing the [[Fool|fool]].
 But after staring steadily for an instant Turnbull saw the hard
 and horrible earnestness in the man's eyes behind all his
 empty animation.  Then Turnbull looked very gravely at the strict

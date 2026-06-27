@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 38"
+title: "[[Mansfield Park]] — Chapter 38"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -19,7 +19,7 @@ CHAPTER XXXVIII
 
 The novelty of travelling, and the happiness of being with William,
 soon produced their natural effect on Fanny’s spirits, when Mansfield
-Park was fairly left behind; and by the time their first stage was
+Park was fairly left behind; and by the [[Time|time]] their first stage was
 ended, and they were to quit Sir Thomas’s carriage, she was able to
 take leave of the old coachman, and send back proper messages, with
 cheerful looks.
@@ -33,7 +33,7 @@ for an action with some superior force, which (supposing the first
 lieutenant out of the way, and William was not very merciful to the
 first lieutenant) was to give himself the next step as soon as
 possible, or speculations upon prize-money, which was to be generously
-distributed at home, with only the reservation of enough to make the
+distributed at [[Home|home]], with only the reservation of enough to make the
 little cottage comfortable, in which he and Fanny were to pass all
 their middle and later life together.
 
@@ -41,7 +41,7 @@ Fanny’s immediate concerns, as far as they involved Mr. Crawford, made
 no part of their conversation. William knew what had passed, and from
 his heart lamented that his sister’s feelings should be so cold towards
 a man whom he must consider as the first of human characters; but he
-was of an age to be all for love, and therefore unable to blame; and
+was of an age to be all for [[Love|love]], and therefore unable to blame; and
 knowing her wish on the subject, he would not distress her by the
 slightest allusion.
 
@@ -52,25 +52,25 @@ been a few lines from himself, warm and determined like his speeches.
 It was a correspondence which Fanny found quite as unpleasant as she
 had feared. Miss Crawford’s style of writing, lively and affectionate,
 was itself an evil, independent of what she was thus forced into
-reading from the brother’s pen, for Edmund would never rest till she
+reading from the brother’s pen, for [[Edmund]] would never rest till she
 had read the chief of the letter to him; and then she had to listen to
 his admiration of her language, and the warmth of her attachments.
 There had, in fact, been so much of message, of allusion, of
 recollection, so much of Mansfield in every letter, that Fanny could
 not but suppose it meant for him to hear; and to find herself forced
 into a purpose of that kind, compelled into a correspondence which was
-bringing her the addresses of the man she did not love, and obliging
+bringing her the addresses of the man she did not [[Love|love]], and obliging
 her to administer to the adverse passion of the man she did, was
 cruelly mortifying. Here, too, her present removal promised advantage.
-When no longer under the same roof with Edmund, she trusted that Miss
+When no longer under the same roof with [[Edmund]], she trusted that Miss
 Crawford would have no motive for writing strong enough to overcome the
 trouble, and that at Portsmouth their correspondence would dwindle into
 nothing.
 
 With such thoughts as these, among ten hundred others, Fanny proceeded
-in her journey safely and cheerfully, and as expeditiously as could
+in her [[Journey|journey]] safely and cheerfully, and as expeditiously as could
 rationally be hoped in the dirty month of February. They entered
-Oxford, but she could take only a hasty glimpse of Edmund’s college as
+[[Oxford]], but she could take only a hasty glimpse of [[Edmund]]’s college as
 they passed along, and made no stop anywhere till they reached Newbury,
 where a comfortable meal, uniting dinner and supper, wound up the
 enjoyments and fatigues of the day.
@@ -78,42 +78,42 @@ enjoyments and fatigues of the day.
 The next morning saw them off again at an early hour; and with no
 events, and no delays, they regularly advanced, and were in the
 environs of Portsmouth while there was yet daylight for Fanny to look
-around her, and wonder at the new buildings. They passed the
+around her, and [[Wonder|wonder]] at the new buildings. They passed the
 drawbridge, and entered the town; and the light was only beginning to
 fail as, guided by William’s powerful voice, they were rattled into a
 narrow street, leading from the High Street, and drawn up before the
-door of a small house now inhabited by Mr. Price.
+door of a small [[house]] now inhabited by Mr. Price.
 
-Fanny was all agitation and flutter; all hope and apprehension. The
+Fanny was all agitation and flutter; all [[Hope|hope]] and apprehension. The
 moment they stopped, a trollopy-looking maidservant, seemingly in
 waiting for them at the door, stepped forward, and more intent on
 telling the news than giving them any help, immediately began with,
 “The Thrush is gone out of harbour, please sir, and one of the officers
 has been here to—” She was interrupted by a fine tall boy of eleven
-years old, who, rushing out of the house, pushed the maid aside, and
+years old, who, rushing out of the [[house]], pushed the maid aside, and
 while William was opening the chaise-door himself, called out, “You are
-just in time. We have been looking for you this half-hour. The Thrush
+just in [[Time|time]]. We have been looking for you this half-hour. The Thrush
 went out of harbour this morning. I saw her. It was a beautiful sight.
 And they think she will have her orders in a day or two. And Mr.
-Campbell was here at four o’clock to ask for you: he has got one of the
+Campbell was here at four o’[[Clock|clock]] to ask for you: he has got one of the
 Thrush’s boats, and is going off to her at six, and hoped you would be
-here in time to go with him.”
+here in [[Time|time]] to go with him.”
 
 A stare or two at Fanny, as William helped her out of the carriage, was
 all the voluntary notice which this brother bestowed; but he made no
 objection to her kissing him, though still entirely engaged in
 detailing farther particulars of the Thrush’s going out of harbour, in
 which he had a strong right of interest, being to commence his career
-of seamanship in her at this very time.
+of seamanship in her at this very [[Time|time]].
 
 Another moment and Fanny was in the narrow entrance-passage of the
-house, and in her mother’s arms, who met her there with looks of true
+[[house]], and in her mother’s arms, who met her there with looks of true
 kindness, and with features which Fanny loved the more, because they
-brought her aunt Bertram’s before her, and there were her two sisters:
-Susan, a well-grown fine girl of fourteen, and Betsey, the youngest of
+brought her aunt [[Bertram]]’s before her, and there were her two sisters:
+Susan, a [[Well|well]]-grown fine girl of fourteen, and Betsey, the youngest of
 the family, about five—both glad to see her in their way, though with
 no advantage of manner in receiving her. But manner Fanny did not want.
-Would they but love her, she should be satisfied.
+Would they but [[Love|love]] her, she should be satisfied.
 
 She was then taken into a parlour, so small that her first conviction
 was of its being only a passage-room to something better, and she stood
@@ -125,7 +125,7 @@ enough to suspect anything. She was gone again to the street-door, to
 welcome William. “Oh! my dear William, how glad I am to see you. But
 have you heard about the Thrush? She is gone out of harbour already;
 three days before we had any thought of it; and I do not know what I am
-to do about Sam’s things, they will never be ready in time; for she may
+to do about Sam’s things, they will never be ready in [[Time|time]]; for she may
 have her orders to-morrow, perhaps. It takes me quite unawares. And now
 you must be off for Spithead too. Campbell has been here, quite in a
 worry about you; and now what shall we do? I thought to have had such a
@@ -152,29 +152,29 @@ solicitude to feel for their fatigues and wants as travellers.
 began to think you would never come. Betsey and I have been watching
 for you this half-hour. And when did you get anything to eat? And what
 would you like to have now? I could not tell whether you would be for
-some meat, or only a dish of tea, after your journey, or else I would
+some meat, or only a dish of tea, after your [[Journey|journey]], or else I would
 have got something ready. And now I am afraid Campbell will be here
-before there is time to dress a steak, and we have no butcher at hand.
+before there is [[Time|time]] to dress a steak, and we have no butcher at hand.
 It is very inconvenient to have no butcher in the street. We were
-better off in our last house. Perhaps you would like some tea as soon
+better off in our last [[house]]. Perhaps you would like some tea as soon
 as it can be got.”
 
 They both declared they should prefer it to anything. “Then, Betsey, my
-dear, run into the kitchen and see if Rebecca has put the water on; and
+dear, run into the kitchen and see if Rebecca has put the [[Water|water]] on; and
 tell her to bring in the tea-things as soon as she can. I wish we could
 get the bell mended; but Betsey is a very handy little messenger.”
 
 Betsey went with alacrity, proud to shew her abilities before her fine
 new sister.
 
-“Dear me!” continued the anxious mother, “what a sad fire we have got,
+“Dear me!” continued the anxious mother, “what a sad [[Fire|fire]] we have got,
 and I dare say you are both starved with cold. Draw your chair nearer,
 my dear. I cannot think what Rebecca has been about. I am sure I told
 her to bring some coals half an hour ago. Susan, you should have taken
-care of the fire.”
+care of the [[Fire|fire]].”
 
 “I was upstairs, mama, moving my things,” said Susan, in a fearless,
-self-defending tone, which startled Fanny. “You know you had but just
+[[Self|self]]-defending tone, which startled Fanny. “You know you had but just
 settled that my sister Fanny and I should have the other room; and I
 could not get Rebecca to give me any help.”
 
@@ -192,24 +192,24 @@ on finding herself undistinguished in the dusk, and unthought of. With
 a friendly shake of his son’s hand, and an eager voice, he instantly
 began—“Ha! welcome back, my boy. Glad to see you. Have you heard the
 news? The Thrush went out of harbour this morning. Sharp is the word,
-you see! By G—, you are just in time! The doctor has been here
+you see! By G—, you are just in [[Time|time]]! The doctor has been here
 inquiring for you: he has got one of the boats, and is to be off for
 Spithead by six, so you had better go with him. I have been to Turner’s
-about your mess; it is all in a way to be done. I should not wonder if
-you had your orders to-morrow: but you cannot sail with this wind, if
+about your mess; it is all in a way to be done. I should not [[Wonder|wonder]] if
+you had your orders to-morrow: but you cannot sail with this [[Wind|wind]], if
 you are to cruise to the westward; and Captain Walsh thinks you will
 certainly have a cruise to the westward, with the Elephant. By G—, I
 wish you may! But old Scholey was saying, just now, that he thought you
-would be sent first to the Texel. Well, well, we are ready, whatever
+would be sent first to the Texel. [[Well]], [[Well|well]], we are ready, whatever
 happens. But by G—, you lost a fine sight by not being here in the
 morning to see the Thrush go out of harbour! I would not have been out
-of the way for a thousand pounds. Old Scholey ran in at breakfast-time,
+of the way for a thousand pounds. Old Scholey ran in at breakfast-[[Time|time]],
 to say she had slipped her moorings and was coming out, I jumped up,
 and made but two steps to the platform. If ever there was a perfect
-beauty afloat, she is one; and there she lays at Spithead, and anybody
+[[Beauty|beauty]] afloat, she is one; and there she lays at Spithead, and anybody
 in England would take her for an eight-and-twenty. I was upon the
 platform two hours this afternoon looking at her. She lays close to the
-Endymion, between her and the Cleopatra, just to the eastward of the
+[[Endymion]], between her and the [[Cleopatra]], just to the eastward of the
 sheer hulk.”
 
 “Ha!” cried William, “_that’s_ just where I should have put her myself.
@@ -225,11 +225,11 @@ shrunk back to her seat, with feelings sadly pained by his language and
 his smell of spirits; and he talked on only to his son, and only of the
 Thrush, though William, warmly interested as he was in that subject,
 more than once tried to make his father think of Fanny, and her long
-absence and long journey.
+absence and long [[Journey|journey]].
 
-After sitting some time longer, a candle was obtained; but as there was
+After sitting some [[Time|time]] longer, a candle was obtained; but as there was
 still no appearance of tea, nor, from Betsey’s reports from the
-kitchen, much hope of any under a considerable period, William
+kitchen, much [[Hope|hope]] of any under a considerable period, William
 determined to go and change his dress, and make the necessary
 preparations for his removal on board directly, that he might have his
 tea in comfort afterwards.
@@ -238,18 +238,18 @@ As he left the room, two rosy-faced boys, ragged and dirty, about eight
 and nine years old, rushed into it just released from school, and
 coming eagerly to see their sister, and tell that the Thrush was gone
 out of harbour; Tom and Charles. Charles had been born since Fanny’s
-going away, but Tom she had often helped to nurse, and now felt a
+going away, but Tom she had often helped to [[Nurse|nurse]], and now felt a
 particular pleasure in seeing again. Both were kissed very tenderly,
 but Tom she wanted to keep by her, to try to trace the features of the
 baby she had loved, and talked to, of his infant preference of herself.
-Tom, however, had no mind for such treatment: he came home not to stand
+Tom, however, had no mind for such treatment: he came [[Home|home]] not to stand
 and be talked to, but to run about and make a noise; and both boys had
 soon burst from her, and slammed the parlour-door till her temples
 ached.
 
-She had now seen all that were at home; there remained only two
+She had now seen all that were at [[Home|home]]; there remained only two
 brothers between herself and Susan, one of whom was a clerk in a public
-office in London, and the other midshipman on board an Indiaman. But
+office in [[London]], and the other midshipman on board an Indiaman. But
 though she had _seen_ all the members of the family, she had not yet
 _heard_ all the noise they could make. Another quarter of an hour
 brought her a great deal more. William was soon calling out from the
@@ -261,16 +261,16 @@ which he had been promised to have done for him, entirely neglected.
 
 Mrs. Price, Rebecca, and Betsey all went up to defend themselves, all
 talking together, but Rebecca loudest, and the job was to be done as
-well as it could in a great hurry; William trying in vain to send
+[[Well|well]] as it could in a great hurry; William trying in vain to send
 Betsey down again, or keep her from being troublesome where she was;
-the whole of which, as almost every door in the house was open, could
+the whole of which, as almost every door in the [[house]] was open, could
 be plainly distinguished in the parlour, except when drowned at
 intervals by the superior noise of Sam, Tom, and Charles chasing each
 other up and down stairs, and tumbling about and hallooing.
 
-Fanny was almost stunned. The smallness of the house and thinness of
+Fanny was almost stunned. The smallness of the [[house]] and thinness of
 the walls brought everything so close to her, that, added to the
-fatigue of her journey, and all her recent agitation, she hardly knew
+fatigue of her [[Journey|journey]], and all her recent agitation, she hardly knew
 how to bear it. _Within_ the room all was tranquil enough, for Susan
 having disappeared with the others, there were soon only her father and
 herself remaining; and he, taking out a newspaper, the accustomary loan
@@ -280,57 +280,57 @@ and the paper, without any reference to her possible convenience; but
 she had nothing to do, and was glad to have the light screened from her
 aching head, as she sat in bewildered, broken, sorrowful contemplation.
 
-She was at home. But, alas! it was not such a home, she had not such a
+She was at [[Home|home]]. But, alas! it was not such a [[Home|home]], she had not such a
 welcome, as—she checked herself; she was unreasonable. What right had
 she to be of importance to her family? She could have none, so long
 lost sight of! William’s concerns must be dearest, they always had
 been, and he had every right. Yet to have so little said or asked about
-herself, to have scarcely an inquiry made after Mansfield! It did pain
+herself, to have scarcely an inquiry made after Mansfield! It did [[Pain|pain]]
 her to have Mansfield forgotten; the friends who had done so much—the
 dear, dear friends! But here, one subject swallowed up all the rest.
 Perhaps it must be so. The destination of the Thrush must be now
 preeminently interesting. A day or two might shew the difference. _She_
 only was to blame. Yet she thought it would not have been so at
-Mansfield. No, in her uncle’s house there would have been a
-consideration of times and seasons, a regulation of subject, a
+Mansfield. No, in her uncle’s [[house]] there would have been a
+consideration of times and [[Seasons|seasons]], a regulation of subject, a
 propriety, an attention towards everybody which there was not here.
 
 The only interruption which thoughts like these received for nearly
 half an hour was from a sudden burst of her father’s, not at all
 calculated to compose them. At a more than ordinary pitch of thumping
 and hallooing in the passage, he exclaimed, “Devil take those young
-dogs! How they are singing out! Ay, Sam’s voice louder than all the
+[[dogs]]! How they are singing out! Ay, Sam’s voice louder than all the
 rest! That boy is fit for a boatswain. Holla, you there! Sam, stop your
 confounded pipe, or I shall be after you.”
 
 This threat was so palpably disregarded, that though within five
 minutes afterwards the three boys all burst into the room together and
 sat down, Fanny could not consider it as a proof of anything more than
-their being for the time thoroughly fagged, which their hot faces and
+their being for the [[Time|time]] thoroughly fagged, which their hot faces and
 panting breaths seemed to prove, especially as they were still kicking
 each other’s shins, and hallooing out at sudden starts immediately
 under their father’s eye.
 
 The next opening of the door brought something more welcome: it was for
-the tea-things, which she had begun almost to despair of seeing that
+the tea-things, which she had begun almost to [[Despair|despair]] of seeing that
 evening. Susan and an attendant girl, whose inferior appearance
 informed Fanny, to her great surprise, that she had previously seen the
 upper servant, brought in everything necessary for the meal; Susan
-looking, as she put the kettle on the fire and glanced at her sister,
+looking, as she put the kettle on the [[Fire|fire]] and glanced at her sister,
 as if divided between the agreeable triumph of shewing her activity and
 usefulness, and the dread of being thought to demean herself by such an
 office. “She had been into the kitchen,” she said, “to hurry Sally and
 help make the toast, and spread the bread and butter, or she did not
 know when they should have got tea, and she was sure her sister must
-want something after her journey.”
+want something after her [[Journey|journey]].”
 
 Fanny was very thankful. She could not but own that she should be very
 glad of a little tea, and Susan immediately set about making it, as if
 pleased to have the employment all to herself; and with only a little
 unnecessary bustle, and some few injudicious attempts at keeping her
-brothers in better order than she could, acquitted herself very well.
-Fanny’s spirit was as much refreshed as her body; her head and heart
-were soon the better for such well-timed kindness. Susan had an open,
+brothers in better order than she could, acquitted herself very [[Well|well]].
+Fanny’s spirit was as much refreshed as her [[Body|body]]; her head and heart
+were soon the better for such [[Well|well]]-timed kindness. Susan had an open,
 sensible countenance; she was like William, and Fanny hoped to find her
 like him in disposition and goodwill towards herself.
 
@@ -340,16 +340,16 @@ uniform, looking and moving all the taller, firmer, and more graceful
 for it, and with the happiest smile over his face, walked up directly
 to Fanny, who, rising from her seat, looked at him for a moment in
 speechless admiration, and then threw her arms round his neck to sob
-out her various emotions of pain and pleasure.
+out her various emotions of [[Pain|pain]] and pleasure.
 
 Anxious not to appear unhappy, she soon recovered herself; and wiping
-away her tears, was able to notice and admire all the striking parts of
+away her [[Tears|tears]], was able to notice and admire all the striking parts of
 his dress; listening with reviving spirits to his cheerful hopes of
 being on shore some part of every day before they sailed, and even of
 getting her to Spithead to see the sloop.
 
 The next bustle brought in Mr. Campbell, the surgeon of the Thrush, a
-very well-behaved young man, who came to call for his friend, and for
+very [[Well|well]]-behaved young man, who came to call for his friend, and for
 whom there was with some contrivance found a chair, and with some hasty
 washing of the young tea-maker’s, a cup and saucer; and after another
 quarter of an hour of earnest talk between the gentlemen, noise rising
@@ -358,18 +358,18 @@ together, the moment came for setting off; everything was ready,
 William took leave, and all of them were gone; for the three boys, in
 spite of their mother’s entreaty, determined to see their brother and
 Mr. Campbell to the sally-port; and Mr. Price walked off at the same
-time to carry back his neighbour’s newspaper.
+[[Time|time]] to carry back his neighbour’s newspaper.
 
 Something like tranquillity might now be hoped for; and accordingly,
 when Rebecca had been prevailed on to carry away the tea-things, and
-Mrs. Price had walked about the room some time looking for a
+Mrs. Price had walked about the room some [[Time|time]] looking for a
 shirt-sleeve, which Betsey at last hunted out from a drawer in the
-kitchen, the small party of females were pretty well composed, and the
+kitchen, the small party of females were pretty [[Well|well]] composed, and the
 mother having lamented again over the impossibility of getting Sam
-ready in time, was at leisure to think of her eldest daughter and the
+ready in [[Time|time]], was at leisure to think of her eldest daughter and the
 friends she had come from.
 
-A few inquiries began: but one of the earliest—“How did sister Bertram
+A few inquiries began: but one of the earliest—“How did sister [[Bertram]]
 manage about her servants?” “Was she as much plagued as herself to get
 tolerable servants?”—soon led her mind away from Northamptonshire, and
 fixed it on her own domestic grievances, and the shocking character of
@@ -381,10 +381,10 @@ thoroughly without a single recommendation, that Fanny could not help
 modestly presuming that her mother meant to part with her when her year
 was up.
 
-“Her year!” cried Mrs. Price; “I am sure I hope I shall be rid of her
+“Her year!” cried Mrs. Price; “I am sure I [[Hope|hope]] I shall be rid of her
 before she has staid a year, for that will not be up till November.
 Servants are come to such a pass, my dear, in Portsmouth, that it is
-quite a miracle if one keeps them more than half a year. I have no hope
+quite a miracle if one keeps them more than half a year. I have no [[Hope|hope]]
 of ever being settled; and if I was to part with Rebecca, I should only
 get something worse. And yet I do not think I am a very difficult
 mistress to please; and I am sure the place is easy enough, for there
@@ -396,19 +396,19 @@ Betsey, she could not but think particularly of another sister, a very
 pretty little girl, whom she had left there not much younger when she
 went into Northamptonshire, who had died a few years afterwards. There
 had been something remarkably amiable about her. Fanny in those early
-days had preferred her to Susan; and when the news of her death had at
-last reached Mansfield, had for a short time been quite afflicted. The
+days had preferred her to Susan; and when the news of her [[Death|death]] had at
+last reached Mansfield, had for a short [[Time|time]] been quite afflicted. The
 sight of Betsey brought the image of little Mary back again, but she
 would not have pained her mother by alluding to her for the world.
 While considering her with these ideas, Betsey, at a small distance,
 was holding out something to catch her eyes, meaning to screen it at
-the same time from Susan’s.
+the same [[Time|time]] from Susan’s.
 
-“What have you got there, my love?” said Fanny; “come and shew it to
+“What have you got there, my [[Love|love]]?” said Fanny; “come and shew it to
 me.”
 
 It was a silver knife. Up jumped Susan, claiming it as her own, and
-trying to get it away; but the child ran to her mother’s protection,
+trying to get it away; but the [[Child|child]] ran to her mother’s protection,
 and Susan could only reproach, which she did very warmly, and evidently
 hoping to interest Fanny on her side. “It was very hard that she was
 not to have her _own_ knife; it was her own knife; little sister Mary
@@ -418,23 +418,23 @@ letting Betsey get hold of it; and the end of it would be that Betsey
 would spoil it, and get it for her own, though mama had _promised_ her
 that Betsey should not have it in her own hands.”
 
-Fanny was quite shocked. Every feeling of duty, honour, and tenderness
+Fanny was quite shocked. Every feeling of duty, [[Honour|honour]], and tenderness
 was wounded by her sister’s speech and her mother’s reply.
 
 “Now, Susan,” cried Mrs. Price, in a complaining voice, “now, how can
-you be so cross? You are always quarrelling about that knife. I wish
-you would not be so quarrelsome. Poor little Betsey; how cross Susan is
+you be so [[Cross|cross]]? You are always quarrelling about that knife. I wish
+you would not be so quarrelsome. Poor little Betsey; how [[Cross|cross]] Susan is
 to you! But you should not have taken it out, my dear, when I sent you
 to the drawer. You know I told you not to touch it, because Susan is so
-cross about it. I must hide it another time, Betsey. Poor Mary little
+[[Cross|cross]] about it. I must hide it another [[Time|time]], Betsey. Poor Mary little
 thought it would be such a bone of contention when she gave it me to
-keep, only two hours before she died. Poor little soul! she could but
+keep, only two hours before she died. Poor little [[Soul|soul]]! she could but
 just speak to be heard, and she said so prettily, ‘Let sister Susan
 have my knife, mama, when I am dead and buried.’ Poor little dear! she
 was so fond of it, Fanny, that she would have it lay by her in bed, all
 through her illness. It was the gift of her good godmother, old Mrs.
-Admiral Maxwell, only six weeks before she was taken for death. Poor
-little sweet creature! Well, she was taken away from evil to come. My
+Admiral Maxwell, only six weeks before she was taken for [[Death|death]]. Poor
+little sweet creature! [[Well]], she was taken away from evil to come. My
 own Betsey” (fondling her), “_you_ have not the luck of such a good
 godmother. Aunt Norris lives too far off to think of such little people
 as you.”
@@ -442,23 +442,23 @@ as you.”
 Fanny had indeed nothing to convey from aunt Norris, but a message to
 say she hoped that her god-daughter was a good girl, and learnt her
 book. There had been at one moment a slight murmur in the drawing-room
-at Mansfield Park about sending her a prayer-book; but no second sound
-had been heard of such a purpose. Mrs. Norris, however, had gone home
-and taken down two old prayer-books of her husband with that idea; but,
+at [[Mansfield Park]] about sending her a [[Prayer|prayer]]-book; but no second sound
+had been heard of such a purpose. Mrs. Norris, however, had gone [[Home|home]]
+and taken down two old [[Prayer|prayer]]-books of her husband with that idea; but,
 upon examination, the ardour of generosity went off. One was found to
-have too small a print for a child’s eyes, and the other to be too
+have too small a print for a [[Child|child]]’s eyes, and the other to be too
 cumbersome for her to carry about.
 
 Fanny, fatigued and fatigued again, was thankful to accept the first
 invitation of going to bed; and before Betsey had finished her cry at
-being allowed to sit up only one hour extraordinary in honour of
+being allowed to sit up only one hour extraordinary in [[Honour|honour]] of
 sister, she was off, leaving all below in confusion and noise again;
-the boys begging for toasted cheese, her father calling out for his rum
-and water, and Rebecca never where she ought to be.
+the boys begging for toasted [[cheese]], her father calling out for his rum
+and [[Water|water]], and Rebecca never where she ought to be.
 
 There was nothing to raise her spirits in the confined and scantily
 furnished chamber that she was to share with Susan. The smallness of
 the rooms above and below, indeed, and the narrowness of the passage
-and staircase, struck her beyond her imagination. She soon learned to
-think with respect of her own little attic at Mansfield Park, in _that_
-house reckoned too small for anybody’s comfort.
+and staircase, struck her beyond her [[Imagination|imagination]]. She soon learned to
+think with respect of her own little attic at [[Mansfield Park]], in _that_
+[[house]] reckoned too small for anybody’s comfort.

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25 (part 8)"
+title: "[[The Professor]] — Chapter 25 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-will stir and reward him in time. Meantime, I feel in myself a strong
+will stir and reward him in [[Time|time]]. Meantime, I feel in myself a strong
 
 repugnance to fix the hour which will uproot my sole olive branch, and
 
 transplant it far from me; and, when I speak to Frances on the subject,
 
-I am heard with a kind of patient pain, as though I alluded to some
+I am heard with a kind of patient [[Pain|pain]], as though I alluded to some
 
-fearful operation, at which her nature shudders, but from which her
+fearful operation, at which her [[Nature|nature]] shudders, but from which her
 
 fortitude will not permit her to recoil. The step must, however, be
 
@@ -42,9 +42,9 @@ the offending Adam, and consider that it should be, if not WHIPPED out
 
 of him, at least soundly disciplined; and that he will be cheap of
 
-any amount of either bodily or mental suffering which will ground him
+any amount of either bodily or mental [[Suffering|suffering]] which will ground him
 
-radically in the art of self-control. Frances gives this something in
+radically in the art of [[Self|self]]-control. Frances gives this something in
 
 her son’s marked character no name; but when it appears in the grinding
 
@@ -54,13 +54,13 @@ feeling against disappointment, mischance, sudden sorrow, or supposed
 
 injustice, she folds him to her breast, or takes him to walk with her
 
-alone in the wood; then she reasons with him like any philosopher, and
+[[Alone|alone]] in the wood; then she reasons with him like any philosopher, and
 
 to reason Victor is ever accessible; then she looks at him with eyes of
 
-love, and by love Victor can be infallibly subjugated; but will reason
+[[Love|love]], and by [[Love|love]] Victor can be infallibly subjugated; but will reason
 
-or love be the weapons with which in future the world will meet his
+or [[Love|love]] be the weapons with which in future the world will meet his
 
 violence? Oh, no! for that flash in his black eye--for that cloud on
 
@@ -68,9 +68,9 @@ his bony brow--for that compression of his statuesque lips, the lad will
 
 some day get blows instead of blandishments--kicks instead of kisses;
 
-then for the fit of mute fury which will sicken his body and madden
+then for the fit of mute fury which will sicken his [[Body|body]] and madden
 
-his soul; then for the ordeal of merited and salutary suffering, out of
+his [[Soul|soul]]; then for the ordeal of merited and salutary [[Suffering|suffering]], out of
 
 which he will come (I trust) a wiser and a better man.
 
@@ -80,7 +80,7 @@ I see him now; he stands by Hunsden, who is seated on the lawn under the
 
 beech; Hunsden’s hand rests on the boy’s collar, and he is instilling
 
-God knows what principles into his ear. Victor looks well just now, for
+God knows what principles into his ear. Victor looks [[Well|well]] just now, for
 
 he listens with a sort of smiling interest; he never looks so like his
 
@@ -100,11 +100,11 @@ like a dove guarding its young from a hovering hawk; she says she wishes
 
 Hunsden had children of his own, for then he would better know the
 
-danger of inciting their pride end indulging their foibles.
+danger of inciting their [[Pride|pride]] end indulging their foibles.
 
 
 
-Frances approaches my library window; puts aside the honeysuckle which
+Frances approaches my library [[Window|window]]; puts aside the honeysuckle which
 
 half covers it, and tells me tea is ready; seeing that I continue busy
 
@@ -126,7 +126,7 @@ She draws a chair near, and sits down to wait till I have finished; her
 
 presence is as pleasant to my mind as the perfume of the fresh hay and
 
-spicy flowers, as the glow of the westering sun, as the repose of the
+spicy [[Flowers|flowers]], as the glow of the westering sun, as the repose of the
 
 midsummer eve are to my senses.
 
@@ -136,7 +136,7 @@ But Hunsden comes; I hear his step, and there he is, bending through the
 
 lattice, from which he has thrust away the woodbine with unsparing hand,
 
-disturbing two bees and a butterfly.
+disturbing two [[Bees|bees]] and a butterfly.
 
 
 
@@ -146,7 +146,7 @@ and make him lift up his head.”
 
 
 
-“Well, Hunsden? I hear you--”
+“[[Well]], Hunsden? I hear you--”
 
 
 

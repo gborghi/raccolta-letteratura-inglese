@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 21 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 21 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -30,23 +30,23 @@ something else to do.”
 
 will make Miss Dashwood believe you think of nothing else.” And then to
 
-turn the discourse, she began admiring the house and the furniture.
+turn the discourse, she began admiring the [[house]] and the furniture.
 
 
 
-This specimen of the Miss Steeles was enough. The vulgar freedom and
+This specimen of the Miss Steeles was enough. The vulgar [[Freedom|freedom]] and
 
 folly of the eldest left her no recommendation, and as Elinor was not
 
-blinded by the beauty, or the shrewd look of the youngest, to her want
+blinded by the [[Beauty|beauty]], or the shrewd look of the youngest, to her want
 
-of real elegance and artlessness, she left the house without any wish
+of real elegance and artlessness, she left the [[house]] without any wish
 
 of knowing them better.
 
 
 
-Not so the Miss Steeles. They came from Exeter, well provided with
+Not so the Miss Steeles. They came from Exeter, [[Well|well]] provided with
 
 admiration for the use of Sir John Middleton, his family, and all his
 
@@ -72,7 +72,7 @@ but he did not know that any more was required: to be together was, in
 
 his opinion, to be intimate, and while his continual schemes for their
 
-meeting were effectual, he had not a doubt of their being established
+meeting were effectual, he had not a [[Doubt|doubt]] of their being established
 
 friends.
 
@@ -96,7 +96,7 @@ to make a conquest of a very smart beau since she came to Barton.
 
 she, “and I hear he is quite a beau, and prodigious handsome. And I
 
-hope you may have as good luck yourself soon,—but perhaps you may have
+[[Hope|hope]] you may have as good luck yourself soon,—but perhaps you may have
 
 a friend in the corner already.”
 
@@ -150,7 +150,7 @@ not tell it, for it’s a great secret.”
 
 What! your sister-in-law’s brother, Miss Dashwood? a very agreeable
 
-young man to be sure; I know him very well.”
+young man to be sure; I know him very [[Well|well]].”
 
 
 
@@ -158,7 +158,7 @@ young man to be sure; I know him very well.”
 
 to all her sister’s assertions. “Though we have seen him once or twice
 
-at my uncle’s, it is rather too much to pretend to know him very well.”
+at my uncle’s, it is rather too much to pretend to know him very [[Well|well]].”
 
 
 
@@ -168,7 +168,7 @@ uncle? Where did he live? How came they acquainted?” She wished very
 
 much to have the subject continued, though she did not chuse to join in
 
-it herself; but nothing more of it was said, and for the first time in
+it herself; but nothing more of it was said, and for the first [[Time|time]] in
 
 her life, she thought Mrs. Jennings deficient either in curiosity after
 

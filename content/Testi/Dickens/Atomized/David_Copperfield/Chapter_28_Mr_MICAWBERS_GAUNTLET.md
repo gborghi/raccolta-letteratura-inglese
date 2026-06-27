@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET"
+title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,7 +18,7 @@ CHAPTER 28. Mr. MICAWBER’S GAUNTLET
 
 
 Until the day arrived on which I was to entertain my newly-found
-old friends, I lived principally on Dora and coffee. In my love-lorn
+old friends, I lived principally on Dora and coffee. In my [[Love|love]]-lorn
 condition, my appetite languished; and I was glad of it, for I felt
 as though it would have been an act of perfidy towards Dora to have a
 natural relish for my dinner. The quantity of walking exercise I took,
@@ -39,7 +39,7 @@ sir! You will not ask me sich a thing, for you are better acquainted
 with me than to suppose me capable of doing what I cannot do with ampial
 satisfaction to my own feelings!’ But, in the end, a compromise was
 effected; and Mrs. Crupp consented to achieve this feat, on condition
-that I dined from home for a fortnight afterwards.
+that I dined from [[Home|home]] for a fortnight afterwards.
 
 And here I may remark, that what I underwent from Mrs. Crupp, in
 consequence of the tyranny she established over me, was dreadful. I
@@ -52,7 +52,7 @@ means to be relied upon--she would appear with a reproachful aspect,
 sink breathless on a chair near the door, lay her hand upon her nankeen
 bosom, and become so ill, that I was glad, at any sacrifice of brandy or
 anything else, to get rid of her. If I objected to having my bed made at
-five o’clock in the afternoon--which I do still think an uncomfortable
+five o’[[Clock|clock]] in the afternoon--which I do still think an uncomfortable
 arrangement--one motion of her hand towards the same nankeen region of
 wounded sensibility was enough to make me falter an apology. In short,
 I would have done anything in an honourable way rather than give Mrs.
@@ -60,7 +60,7 @@ Crupp offence; and she was the terror of my life.
 
 I bought a second-hand dumb-waiter for this dinner-party, in preference
 to re-engaging the handy young man; against whom I had conceived a
-prejudice, in consequence of meeting him in the Strand, one Sunday
+prejudice, in consequence of meeting him in the Strand, one [[Sunday]]
 morning, in a waistcoat remarkably like one of mine, which had been
 missing since the former occasion. The ‘young gal’ was re-engaged; but
 on the stipulation that she should only bring in the dishes, and then
@@ -69,14 +69,14 @@ sniffing she had contracted would be lost upon the guests, and where her
 retiring on the plates would be a physical impossibility.
 
 Having laid in the materials for a bowl of punch, to be compounded
-by Mr. Micawber; having provided a bottle of lavender-water, two
+by Mr. Micawber; having provided a bottle of lavender-[[Water|water]], two
 wax-candles, a paper of mixed pins, and a pincushion, to assist Mrs.
 Micawber in her toilette at my dressing-table; having also caused the
-fire in my bedroom to be lighted for Mrs. Micawber’s convenience; and
+[[Fire|fire]] in my bedroom to be lighted for Mrs. Micawber’s convenience; and
 having laid the cloth with my own hands, I awaited the result with
 composure.
 
-At the appointed time, my three visitors arrived together. Mr. Micawber
+At the appointed [[Time|time]], my three visitors arrived together. Mr. Micawber
 with more shirt-collar than usual, and a new ribbon to his eye-glass;
 Mrs. Micawber with her cap in a whitey-brown paper parcel; Traddles
 carrying the parcel, and supporting Mrs. Micawber on his arm. They were
@@ -88,50 +88,50 @@ look.
 ‘My dear Copperfield,’ said Mr. Micawber, ‘this is luxurious. This is a
 way of life which reminds me of the period when I was myself in a state
 of celibacy, and Mrs. Micawber had not yet been solicited to plight her
-faith at the Hymeneal altar.’
+[[Faith|faith]] at the Hymeneal altar.’
 
 ‘He means, solicited by him, Mr. Copperfield,’ said Mrs. Micawber,
 archly. ‘He cannot answer for others.’
 
 ‘My dear,’ returned Mr. Micawber with sudden seriousness, ‘I have no
-desire to answer for others. I am too well aware that when, in the
+[[Desire|desire]] to answer for others. I am too [[Well|well]] aware that when, in the
 inscrutable decrees of Fate, you were reserved for me, it is possible
 you may have been reserved for one, destined, after a protracted
 struggle, at length to fall a victim to pecuniary involvements of a
-complicated nature. I understand your allusion, my love. I regret it,
+complicated [[Nature|nature]]. I understand your allusion, my [[Love|love]]. I regret it,
 but I can bear it.’
 
-‘Micawber!’ exclaimed Mrs. Micawber, in tears. ‘Have I deserved this! I,
-who never have deserted you; who never WILL desert you, Micawber!’ ‘My
-love,’ said Mr. Micawber, much affected, ‘you will forgive, and our old
+‘Micawber!’ exclaimed Mrs. Micawber, in [[Tears|tears]]. ‘Have I deserved this! I,
+who never have deserted you; who never WILL [[Desert|desert]] you, Micawber!’ ‘My
+[[Love|love]],’ said Mr. Micawber, much affected, ‘you will forgive, and our old
 and tried friend Copperfield will, I am sure, forgive, the momentary
 laceration of a wounded spirit, made sensitive by a recent collision
 with the Minion of Power--in other words, with a ribald Turncock
-attached to the water-works--and will pity, not condemn, its excesses.’
+attached to the [[Water|water]]-works--and will pity, not condemn, its excesses.’
 
 Mr. Micawber then embraced Mrs. Micawber, and pressed my hand; leaving
 me to infer from this broken allusion that his domestic supply of
-water had been cut off that afternoon, in consequence of default in the
+[[Water|water]] had been cut off that afternoon, in consequence of default in the
 payment of the company’s rates.
 
-To divert his thoughts from this melancholy subject, I informed Mr.
+To divert his thoughts from this [[Melancholy|melancholy]] subject, I informed Mr.
 Micawber that I relied upon him for a bowl of punch, and led him to
-the lemons. His recent despondency, not to say despair, was gone in a
+the lemons. His recent despondency, not to say [[Despair|despair]], was gone in a
 moment. I never saw a man so thoroughly enjoy himself amid the fragrance
 of lemon-peel and sugar, the odour of burning rum, and the steam of
-boiling water, as Mr. Micawber did that afternoon. It was wonderful to
+boiling [[Water|water]], as Mr. Micawber did that afternoon. It was wonderful to
 see his face shining at us out of a thin cloud of these delicate fumes,
 as he stirred, and mixed, and tasted, and looked as if he were making,
 instead of punch, a fortune for his family down to the latest posterity.
 As to Mrs. Micawber, I don’t know whether it was the effect of the cap,
-or the lavender-water, or the pins, or the fire, or the wax-candles, but
+or the lavender-[[Water|water]], or the pins, or the [[Fire|fire]], or the wax-candles, but
 she came out of my room, comparatively speaking, lovely. And the lark
 was never gayer than that excellent woman.
 
 I suppose--I never ventured to inquire, but I suppose--that Mrs. Crupp,
 after frying the soles, was taken ill. Because we broke down at that
 point. The leg of mutton came up very red within, and very pale without:
-besides having a foreign substance of a gritty nature sprinkled over
+besides having a foreign substance of a gritty [[Nature|nature]] sprinkled over
 it, as if if had had a fall into the ashes of that remarkable kitchen
 fireplace. But we were not in condition to judge of this fact from the
 appearance of the gravy, forasmuch as the ‘young gal’ had dropped it all
@@ -141,7 +141,7 @@ crust being like a disappointing head, phrenologically speaking: full
 of lumps and bumps, with nothing particular underneath. In short, the
 banquet was such a failure that I should have been quite unhappy--about
 the failure, I mean, for I was always unhappy about Dora--if I had not
-been relieved by the great good humour of my company, and by a bright
+been relieved by the great good [[Humour|humour]] of my company, and by a bright
 suggestion from Mr. Micawber.
 
 ‘My dear friend Copperfield,’ said Mr. Micawber, ‘accidents will occur
@@ -149,7 +149,7 @@ in the best-regulated families; and in families not regulated by that
 pervading influence which sanctifies while it enhances the--a--I would
 say, in short, by the influence of Woman, in the lofty character of
 Wife, they may be expected with confidence, and must be borne with
-philosophy. If you will allow me to take the liberty of remarking that
+[[philosophy]]. If you will allow me to take the liberty of remarking that
 there are few comestibles better, in their way, than a Devil, and that
 I believe, with a little division of labour, we could accomplish a good
 one if the young person in attendance could produce a gridiron, I would
@@ -165,24 +165,24 @@ the gridiron, turned them with a fork, and took them off, under Mr.
 Micawber’s direction; and Mrs. Micawber heated, and continually stirred,
 some mushroom ketchup in a little saucepan. When we had slices enough
 done to begin upon, we fell-to, with our sleeves still tucked up at the
-wrist, more slices sputtering and blazing on the fire, and our attention
+wrist, more slices sputtering and blazing on the [[Fire|fire]], and our attention
 divided between the mutton on our plates, and the mutton then preparing.
 
 What with the novelty of this cookery, the excellence of it, the bustle
 of it, the frequent starting up to look after it, the frequent sitting
 down to dispose of it as the crisp slices came off the gridiron hot and
-hot, the being so busy, so flushed with the fire, so amused, and in the
+hot, the being so busy, so flushed with the [[Fire|fire]], so amused, and in the
 midst of such a tempting noise and savour, we reduced the leg of mutton
 to the bone. My own appetite came back miraculously. I am ashamed to
 record it, but I really believe I forgot Dora for a little while. I am
 satisfied that Mr. and Mrs. Micawber could not have enjoyed the
 feast more, if they had sold a bed to provide it. Traddles laughed as
-heartily, almost the whole time, as he ate and worked. Indeed we all
-did, all at once; and I dare say there was never a greater success.
+heartily, almost the whole [[Time|time]], as he ate and worked. Indeed we all
+did, all at once; and I dare say there was never a greater [[success]].
 
 We were at the height of our enjoyment, and were all busily engaged, in
 our several departments, endeavouring to bring the last batch of slices
-to a state of perfection that should crown the feast, when I was aware
+to a state of perfection that should [[Crown|crown]] the feast, when I was aware
 of a strange presence in the room, and my eyes encountered those of the
 staid Littimer, standing hat in hand before me.
 
@@ -204,7 +204,7 @@ here, sir?’
 ‘Not exactly so, sir. But I should think he might be here tomorrow, as
 he has not been here today.’
 
-‘Is he coming up from Oxford?’
+‘Is he coming up from [[Oxford]]?’
 
 ‘I beg, sir,’ he returned respectfully, ‘that you will be seated, and
 allow me to do this.’ With which he took the fork from my unresisting
@@ -226,7 +226,7 @@ come from Heaven knows where, to put my establishment to rights.
 Meanwhile he took the mutton off the gridiron, and gravely handed it
 round. We all took some, but our appreciation of it was gone, and we
 merely made a show of eating it. As we severally pushed away our plates,
-he noiselessly removed them, and set on the cheese. He took that off,
+he noiselessly removed them, and set on the [[cheese]]. He took that off,
 too, when it was done with; cleared the table; piled everything on the
 dumb-waiter; gave us our wine-glasses; and, of his own accord, wheeled
 the dumb-waiter into the pantry. All this was done in a perfect manner,
@@ -240,14 +240,14 @@ I thanked him and said, No; but would he take no dinner himself?
 
 ‘None, I am obliged to you, sir.’
 
-‘Is Mr. Steerforth coming from Oxford?’
+‘Is Mr. Steerforth coming from [[Oxford]]?’
 
 ‘I beg your pardon, sir?’
 
-‘Is Mr. Steerforth coming from Oxford?’
+‘Is Mr. Steerforth coming from [[Oxford]]?’
 
 ‘I should imagine that he might be here tomorrow, sir. I rather thought
-he might have been here today, sir. The mistake is mine, no doubt, sir.’
+he might have been here today, sir. The mistake is mine, no [[Doubt|doubt]], sir.’
 
 ‘If you should see him first--’ said I.
 
@@ -259,14 +259,14 @@ today, as an old schoolfellow of his was here.’
 ‘Indeed, sir!’ and he divided a bow between me and Traddles, with a
 glance at the latter.
 
-He was moving softly to the door, when, in a forlorn hope of saying
+He was moving softly to the door, when, in a forlorn [[Hope|hope]] of saying
 something naturally--which I never could, to this man--I said:
 
 ‘Oh! Littimer!’
 
 ‘Sir!’
 
-‘Did you remain long at Yarmouth, that time?’
+‘Did you remain long at Yarmouth, that [[Time|time]]?’
 
 ‘Not particularly so, sir.’
 
@@ -279,14 +279,14 @@ something naturally--which I never could, to this man--I said:
 ‘Mr. Steerforth has not seen it yet, I suppose?’
 
 ‘I really can’t say, sir. I think--but I really can’t say, sir. I wish
-you good night, sir.’
+you good [[Night|night]], sir.’
 
 He comprehended everybody present, in the respectful bow with which he
 followed these words, and disappeared. My visitors seemed to breathe
 more freely when he was gone; but my own relief was very great, for
 besides the constraint, arising from that extraordinary sense of
 being at a disadvantage which I always had in this man’s presence, my
-conscience had embarrassed me with whispers that I had mistrusted his
+[[Conscience|conscience]] had embarrassed me with whispers that I had mistrusted his
 master, and I could not repress a vague uneasy dread that he might
 find it out. How was it, having so little in reality to conceal, that I
 always DID feel as if this man were finding me out?
@@ -299,8 +299,8 @@ had taken his full share of the general bow, and had received it with
 infinite condescension.
 
 ‘But punch, my dear Copperfield,’ said Mr. Micawber, tasting it, ‘like
-time and tide, waits for no man. Ah! it is at the present moment in high
-flavour. My love, will you give me your opinion?’
+[[Time|time]] and tide, waits for no man. Ah! it is at the present moment in high
+flavour. My [[Love|love]], will you give me your opinion?’
 
 Mrs. Micawber pronounced it excellent.
 
@@ -316,15 +316,15 @@ sung together before now, that
 --in a figurative point of view--on several occasions. I am not exactly
 aware,’ said Mr. Micawber, with the old roll in his voice, and the old
 indescribable air of saying something genteel, ‘what gowans may be, but
-I have no doubt that Copperfield and myself would frequently have taken
+I have no [[Doubt|doubt]] that Copperfield and myself would frequently have taken
 a pull at them, if it had been feasible.’
 
 Mr. Micawber, at the then present moment, took a pull at his punch. So
-we all did: Traddles evidently lost in wondering at what distant time
+we all did: Traddles evidently lost in wondering at what distant [[Time|time]]
 Mr. Micawber and I could have been comrades in the battle of the world.
 
 ‘Ahem!’ said Mr. Micawber, clearing his throat, and warming with the
-punch and with the fire. ‘My dear, another glass?’
+punch and with the [[Fire|fire]]. ‘My dear, another glass?’
 
 Mrs. Micawber said it must be very little; but we couldn’t allow that,
 so it was a glassful.
@@ -360,7 +360,7 @@ What is best suited to a person of Mr. Micawber’s peculiar temperament
 is, I am convinced, a certainty.’
 
 Traddles and I both expressed, by a feeling murmur, that this great
-discovery was no doubt true of Mr. Micawber, and that it did him much
+discovery was no [[Doubt|doubt]] true of Mr. Micawber, and that it did him much
 credit.
 
 ‘I will not conceal from you, my dear Mr. Copperfield,’ said Mrs.
@@ -375,11 +375,11 @@ that idea? None. I may have a conviction that Mr. Micawber’s manners--’
 
 ‘Hem! Really, my dear,’ interposed Mr. Micawber.
 
-‘My love, be silent,’ said Mrs. Micawber, laying her brown glove on his
+‘My [[Love|love]], be silent,’ said Mrs. Micawber, laying her brown glove on his
 hand. ‘I may have a conviction, Mr. Copperfield, that Mr. Micawber’s
 manners peculiarly qualify him for the Banking business. I may argue
-within myself, that if I had a deposit at a banking-house, the manners
-of Mr. Micawber, as representing that banking-house, would inspire
+within myself, that if I had a deposit at a banking-[[house]], the manners
+of Mr. Micawber, as representing that banking-[[house]], would inspire
 confidence, and must extend the connexion. But if the various
 banking-houses refuse to avail themselves of Mr. Micawber’s abilities,
 or receive the offer of them with contumely, what is the use of dwelling
@@ -399,7 +399,7 @@ dear Mr. Copperfield, to which I am irresistibly brought? Am I wrong in
 saying, it is clear that we must live?’
 
 I answered ‘Not at all!’ and Traddles answered ‘Not at all!’ and I found
-myself afterwards sagely adding, alone, that a person must either live
+myself afterwards sagely adding, [[Alone|alone]], that a person must either live
 or die.
 
 ‘Just so,’ returned Mrs. Micawber, ‘It is precisely that. And the fact
@@ -412,10 +412,10 @@ wrong, but I have formed that opinion.’
 
 Both Traddles and I applauded it highly.
 
-‘Very well,’ said Mrs. Micawber. ‘Then what do I recommend? Here is Mr.
+‘Very [[Well|well]],’ said Mrs. Micawber. ‘Then what do I recommend? Here is Mr.
 Micawber with a variety of qualifications--with great talent--’
 
-‘Really, my love,’ said Mr. Micawber.
+‘Really, my [[Love|love]],’ said Mr. Micawber.
 
 ‘Pray, my dear, allow me to conclude. Here is Mr. Micawber, with a
 variety of qualifications, with great talent--I should say, with genius,
@@ -457,7 +457,7 @@ sum of money--on a bill.’
 
 Mr. Micawber, leaning back in his chair, trifled with his eye-glass
 and cast his eyes up at the ceiling; but I thought him observant of
-Traddles, too, who was looking at the fire.
+Traddles, too, who was looking at the [[Fire|fire]].
 
 ‘If no member of my family,’ said Mrs. Micawber, ‘is possessed of
 sufficient natural feeling to negotiate that bill--I believe there is a
@@ -467,7 +467,7 @@ Mr. Micawber, with his eyes still cast up at the ceiling, suggested
 ‘Discount.’
 
 ‘To discount that bill,’ said Mrs. Micawber, ‘then my opinion is, that
-Mr. Micawber should go into the City, should take that bill into the
+Mr. Micawber should go into the [[City]], should take that bill into the
 Money Market, and should dispose of it for what he can get. If the
 individuals in the Money Market oblige Mr. Micawber to sustain a great
 sacrifice, that is between themselves and their consciences. I view
@@ -475,10 +475,10 @@ it, steadily, as an investment. I recommend Mr. Micawber, my dear Mr.
 Copperfield, to do the same; to regard it as an investment which is sure
 of return, and to make up his mind to any sacrifice.’
 
-I felt, but I am sure I don’t know why, that this was self-denying
+I felt, but I am sure I don’t know why, that this was [[Self|self]]-denying
 and devoted in Mrs. Micawber, and I uttered a murmur to that effect.
 Traddles, who took his tone from me, did likewise, still looking at the
-fire.
+[[Fire|fire]].
 
 ‘I will not,’ said Mrs. Micawber, finishing her punch, and gathering her
 scarf about her shoulders, preparatory to her withdrawal to my bedroom:
@@ -486,16 +486,16 @@ scarf about her shoulders, preparatory to her withdrawal to my bedroom:
 pecuniary affairs. At your fireside, my dear Mr. Copperfield, and in the
 presence of Mr. Traddles, who, though not so old a friend, is quite one
 of ourselves, I could not refrain from making you acquainted with the
-course I advise Mr. Micawber to take. I feel that the time is arrived
+course I advise Mr. Micawber to take. I feel that the [[Time|time]] is arrived
 when Mr. Micawber should exert himself and--I will add--assert himself,
 and it appears to me that these are the means. I am aware that I am
 merely a female, and that a masculine judgement is usually considered
 more competent to the discussion of such questions; still I must not
-forget that, when I lived at home with my papa and mama, my papa was in
-the habit of saying, “Emma’s form is fragile, but her grasp of a subject
-is inferior to none.” That my papa was too partial, I well know; but
+forget that, when I lived at [[Home|home]] with my papa and mama, my papa was in
+the habit of saying, “[[Emma]]’s form is fragile, but her grasp of a subject
+is inferior to none.” That my papa was too partial, I [[Well|well]] know; but
 that he was an observer of character in some degree, my duty and my
-reason equally forbid me to doubt.’
+reason equally forbid me to [[Doubt|doubt]].’
 
 With these words, and resisting our entreaties that she would grace
 the remaining circulation of the punch with her presence, Mrs. Micawber
@@ -534,8 +534,8 @@ utmost delicacy and ceremony, at the state of my affections. Nothing
 but the serious assurance of his friend Copperfield to the contrary,
 he observed, could deprive him of the impression that his friend
 Copperfield loved and was beloved. After feeling very hot and
-uncomfortable for some time, and after a good deal of blushing,
-stammering, and denying, I said, having my glass in my hand, ‘Well! I
+uncomfortable for some [[Time|time]], and after a good deal of blushing,
+stammering, and denying, I said, having my glass in my hand, ‘[[Well]]! I
 would give them D.!’ which so excited and gratified Mr. Micawber,
 that he ran with a glass of punch into my bedroom, in order that Mrs.
 Micawber might drink D., who drank it with enthusiasm, crying from
@@ -546,13 +546,13 @@ Our conversation, afterwards, took a more worldly turn; Mr. Micawber
 telling us that he found Camden Town inconvenient, and that the first
 thing he contemplated doing, when the advertisement should have been the
 cause of something satisfactory turning up, was to move. He mentioned
-a terrace at the western end of Oxford Street, fronting Hyde Park, on
+a terrace at the western end of [[Oxford]] Street, fronting Hyde Park, on
 which he had always had his eye, but which he did not expect to attain
 immediately, as it would require a large establishment. There would
 probably be an interval, he explained, in which he should content
-himself with the upper part of a house, over some respectable place of
+himself with the upper part of a [[house]], over some respectable place of
 business--say in Piccadilly,--which would be a cheerful situation for
-Mrs. Micawber; and where, by throwing out a bow-window, or carrying up
+Mrs. Micawber; and where, by throwing out a bow-[[Window|window]], or carrying up
 the roof another story, or making some little alteration of that sort,
 they might live, comfortably and reputably, for a few years. Whatever
 was reserved for him, he expressly said, or wherever his abode might be,
@@ -568,18 +568,18 @@ tea for us in a most agreeable manner; and, whenever I went near her, in
 handing about the tea-cups and bread-and-butter, asked me, in a whisper,
 whether D. was fair, or dark, or whether she was short, or tall: or
 something of that kind; which I think I liked. After tea, we discussed a
-variety of topics before the fire; and Mrs. Micawber was good enough
+variety of topics before the [[Fire|fire]]; and Mrs. Micawber was good enough
 to sing us (in a small, thin, flat voice, which I remembered to have
 considered, when I first knew her, the very table-beer of acoustics) the
 favourite ballads of ‘The Dashing White Sergeant’, and ‘Little Tafflin’.
-For both of these songs Mrs. Micawber had been famous when she lived at
-home with her papa and mama. Mr. Micawber told us, that when he heard
+For both of these [[songs]] Mrs. Micawber had been famous when she lived at
+[[Home|home]] with her papa and mama. Mr. Micawber told us, that when he heard
 her sing the first one, on the first occasion of his seeing her beneath
 the parental roof, she had attracted his attention in an extraordinary
 degree; but that when it came to Little Tafflin, he had resolved to win
 that woman or perish in the attempt.
 
-It was between ten and eleven o’clock when Mrs. Micawber rose to replace
+It was between ten and eleven o’[[Clock|clock]] when Mrs. Micawber [[Rose|rose]] to replace
 her cap in the whitey-brown paper parcel, and to put on her bonnet. Mr.
 Micawber took the opportunity of Traddles putting on his great-coat, to
 slip a letter into my hand, with a whispered request that I would read
@@ -608,15 +608,15 @@ Copperfield; but--I am afraid I have lent him that already.’
 
 ‘No,’ said Traddles. ‘Not for that one. This is the first I have heard
 of that one. I have been thinking that he will most likely propose that
-one, on the way home. Mine’s another.’
+one, on the way [[Home|home]]. Mine’s another.’
 
-‘I hope there will be nothing wrong about it,’ said I. ‘I hope not,’
+‘I [[Hope|hope]] there will be nothing wrong about it,’ said I. ‘I [[Hope|hope]] not,’
 said Traddles. ‘I should think not, though, because he told me, only the
 other day, that it was provided for. That was Mr. Micawber’s expression,
 “Provided for.”’
 
 Mr. Micawber looking up at this juncture to where we were standing, I
-had only time to repeat my caution. Traddles thanked me, and descended.
+had only [[Time|time]] to repeat my caution. Traddles thanked me, and descended.
 But I was much afraid, when I observed the good-natured manner in which
 he went down with the cap in his hand, and gave Mrs. Micawber his arm,
 that he would be carried into the Money Market neck and heels.
@@ -626,7 +626,7 @@ laughing, on the character of Mr. Micawber and the old relations between
 us, when I heard a quick step ascending the stairs. At first, I thought
 it was Traddles coming back for something Mrs. Micawber had left behind;
 but as the step approached, I knew it, and felt my heart beat high, and
-the blood rush to my face, for it was Steerforth’s.
+the [[Blood|blood]] rush to my face, for it was Steerforth’s.
 
 I was never unmindful of Agnes, and she never left that sanctuary in my
 thoughts--if I may call it so--where I had placed her from the first.
@@ -641,20 +641,20 @@ it.
 ‘Why, Daisy, old boy, dumb-foundered!’ laughed Steerforth, shaking
 my hand heartily, and throwing it gaily away. ‘Have I detected you in
 another feast, you Sybarite! These Doctors’ Commons fellows are the
-gayest men in town, I believe, and beat us sober Oxford people all to
+gayest men in town, I believe, and beat us sober [[Oxford]] people all to
 nothing!’ His bright glance went merrily round the room, as he took
 the seat on the sofa opposite to me, which Mrs. Micawber had recently
-vacated, and stirred the fire into a blaze.
+vacated, and stirred the [[Fire|fire]] into a blaze.
 
 ‘I was so surprised at first,’ said I, giving him welcome with all
 the cordiality I felt, ‘that I had hardly breath to greet you with,
 Steerforth.’
 
-‘Well, the sight of me is good for sore eyes, as the Scotch say,’
+‘[[Well]], the sight of me is good for sore eyes, as the Scotch say,’
 replied Steerforth, ‘and so is the sight of you, Daisy, in full bloom.
 How are you, my Bacchanal?’
 
-‘I am very well,’ said I; ‘and not at all Bacchanalian tonight, though I
+‘I am very [[Well|well]],’ said I; ‘and not at all Bacchanalian tonight, though I
 confess to another party of three.’
 
 ‘All of whom I met in the street, talking loud in your praise,’ returned
@@ -665,17 +665,17 @@ laughed heartily at my feeble portrait of that gentleman, and said he
 was a man to know, and he must know him. ‘But who do you suppose our
 other friend is?’ said I, in my turn.
 
-‘Heaven knows,’ said Steerforth. ‘Not a bore, I hope? I thought he
+‘Heaven knows,’ said Steerforth. ‘Not a bore, I [[Hope|hope]]? I thought he
 looked a little like one.’
 
 ‘Traddles!’ I replied, triumphantly.
 
 ‘Who’s he?’ asked Steerforth, in his careless way.
 
-‘Don’t you remember Traddles? Traddles in our room at Salem House?’
+‘Don’t you remember Traddles? Traddles in our room at Salem [[house|House]]?’
 
 ‘Oh! That fellow!’ said Steerforth, beating a lump of coal on the top
-of the fire, with the poker. ‘Is he as soft as ever? And where the deuce
+of the [[Fire|fire]], with the poker. ‘Is he as soft as ever? And where the deuce
 did you pick him up?’
 
 I extolled Traddles in reply, as highly as I could; for I felt that
@@ -688,19 +688,19 @@ beating on the lump of coal with the poker. I observed that he did the
 same thing while I was getting out the remains of the pigeon-pie, and so
 forth.
 
-‘Why, Daisy, here’s a supper for a king!’ he exclaimed, starting out of
-his silence with a burst, and taking his seat at the table. ‘I shall do
+‘Why, Daisy, here’s a supper for a [[King|king]]!’ he exclaimed, starting out of
+his [[Silence|silence]] with a burst, and taking his seat at the table. ‘I shall do
 it justice, for I have come from Yarmouth.’
 
-‘I thought you came from Oxford?’ I returned.
+‘I thought you came from [[Oxford]]?’ I returned.
 
 ‘Not I,’ said Steerforth. ‘I have been seafaring--better employed.’
 
 ‘Littimer was here today, to inquire for you,’ I remarked, ‘and I
-understood him that you were at Oxford; though, now I think of it, he
+understood him that you were at [[Oxford]]; though, now I think of it, he
 certainly did not say so.’
 
-‘Littimer is a greater fool than I thought him, to have been inquiring
+‘Littimer is a greater [[Fool|fool]] than I thought him, to have been inquiring
 for me at all,’ said Steerforth, jovially pouring out a glass of wine,
 and drinking to me. ‘As to understanding him, you are a cleverer fellow
 than most of us, Daisy, if you can do that.’
@@ -711,7 +711,7 @@ have been at Yarmouth, Steerforth!’ interested to know all about it.
 
 ‘No,’ he returned. ‘An escapade of a week or so.’
 
-‘And how are they all? Of course, little Emily is not married yet?’
+‘And how are they all? Of course, [[Little Emily|little Emily]] is not married yet?’
 
 ‘Not yet. Going to be, I believe--in so many weeks, or months, or
 something or other. I have not seen much of ‘em. By the by’; he laid
@@ -720,7 +720,7 @@ and began feeling in his pockets; ‘I have a letter for you.’
 
 ‘From whom?’
 
-‘Why, from your old nurse,’ he returned, taking some papers out of his
+‘Why, from your old [[Nurse|nurse]],’ he returned, taking some papers out of his
 breast pocket. “‘J. Steerforth, Esquire, debtor, to The Willing
 Mind”; that’s not it. Patience, and we’ll find it presently. Old
 what’s-his-name’s in a bad way, and it’s about that, I believe.’
@@ -731,7 +731,7 @@ what’s-his-name’s in a bad way, and it’s about that, I believe.’
 ‘it’s all over with poor Barkis, I am afraid. I saw a little apothecary
 there--surgeon, or whatever he is--who brought your worship into the
 world. He was mighty learned about the case, to me; but the upshot of
-his opinion was, that the carrier was making his last journey rather
+his opinion was, that the carrier was making his last [[Journey|journey]] rather
 fast.---Put your hand into the breast pocket of my great-coat on the
 chair yonder, and I think you’ll find the letter. Is it there?’
 
@@ -762,7 +762,7 @@ ride on! Ride on over all obstacles, and win the race!’
 
 I noticed, I remember, as he paused, looking at me with his handsome
 head a little thrown back, and his glass raised in his hand, that,
-though the freshness of the sea-wind was on his face, and it was ruddy,
+though the freshness of the sea-[[Wind|wind]] was on his face, and it was ruddy,
 there were traces in it, made since I last saw it, as if he had applied
 himself to some habitual strain of the fervent energy which, when
 roused, was so passionately roused within him. I had it in my thoughts
@@ -778,28 +778,28 @@ to me--’
 moving from the table to the fireside again.
 
 ‘Then I tell you what, Steerforth. I think I will go down and see my
-old nurse. It is not that I can do her any good, or render her any real
+old [[Nurse|nurse]]. It is not that I can do her any good, or render her any real
 service; but she is so attached to me that my visit will have as much
 effect on her, as if I could do both. She will take it so kindly that it
 will be a comfort and support to her. It is no great effort to make,
 I am sure, for such a friend as she has been to me. Wouldn’t you go a
-day’s journey, if you were in my place?’
+day’s [[Journey|journey]], if you were in my place?’
 
 His face was thoughtful, and he sat considering a little before he
-answered, in a low voice, ‘Well! Go. You can do no harm.’
+answered, in a low voice, ‘[[Well]]! Go. You can do no harm.’
 
 ‘You have just come back,’ said I, ‘and it would be in vain to ask you
 to go with me?’
 
 ‘Quite,’ he returned. ‘I am for Highgate tonight. I have not seen
-my mother this long time, and it lies upon my conscience, for
+my mother this long [[Time|time]], and it lies upon my [[Conscience|conscience]], for
 it’s something to be loved as she loves her prodigal son.---Bah!
 Nonsense!--You mean to go tomorrow, I suppose?’ he said, holding me out
 at arm’s length, with a hand on each of my shoulders.
 
 ‘Yes, I think so.’
 
-‘Well, then, don’t go till next day. I wanted you to come and stay a
+‘[[Well]], then, don’t go till next day. I wanted you to come and stay a
 few days with us. Here I am, on purpose to bid you, and you fly off to
 Yarmouth!’
 
@@ -813,19 +813,19 @@ holding me as before, and giving me a shake:
 us! Who knows when we may meet again, else? Come! Say the next day! I
 want you to stand between Rosa Dartle and me, and keep us asunder.’
 
-‘Would you love each other too much, without me?’
+‘Would you [[Love|love]] each other too much, without me?’
 
 ‘Yes; or hate,’ laughed Steerforth; ‘no matter which. Come! Say the next
 day!’
 
 I said the next day; and he put on his great-coat and lighted his cigar,
-and set off to walk home. Finding him in this intention, I put on my own
+and set off to walk [[Home|home]]. Finding him in this intention, I put on my own
 great-coat (but did not light my own cigar, having had enough of that
-for one while) and walked with him as far as the open road: a dull road,
-then, at night. He was in great spirits all the way; and when we parted,
+for one while) and walked with him as far as the open [[Road|road]]: a dull [[Road|road]],
+then, at [[Night|night]]. He was in great spirits all the way; and when we parted,
 and I looked after him going so gallantly and airily homeward, I thought
 of his saying, ‘Ride on over all obstacles, and win the race!’ and
-wished, for the first time, that he had some worthy race to run.
+wished, for the first [[Time|time]], that he had some worthy race to run.
 
 I was undressing in my own room, when Mr. Micawber’s letter tumbled on
 the floor. Thus reminded of it, I broke the seal and read as follows. It
@@ -839,7 +839,7 @@ equivalent to winding up his affairs.
 
 ‘It is expedient that I should inform you that the undersigned is
 Crushed. Some flickering efforts to spare you the premature knowledge of
-his calamitous position, you may observe in him this day; but hope has
+his calamitous position, you may observe in him this day; but [[Hope|hope]] has
 sunk beneath the horizon, and the undersigned is Crushed.
 
 ‘The present communication is penned within the personal range (I cannot
@@ -857,23 +857,23 @@ undersigned, it would be found in the fact, that a friendly acceptance
 granted to the undersigned, by the before-mentioned Mr. Thomas Traddles,
 for the sum Of 23l 4s 9 1/2d is over due, and is NOT provided for. Also,
 in the fact that the living responsibilities clinging to the undersigned
-will, in the course of nature, be increased by the sum of one more
+will, in the course of [[Nature|nature]], be increased by the sum of one more
 helpless victim; whose miserable appearance may be looked for--in round
 numbers--at the expiration of a period not exceeding six lunar months
 from the present date.
 
 ‘After premising thus much, it would be a work of supererogation to add,
-that dust and ashes are for ever scattered
+that [[Dust|dust]] and ashes are for ever scattered
 
                ‘On
                     ‘The
                          ‘Head
                               ‘Of
-                                   ‘WILKINS MICAWBER.’
+                                   ‘[[Wilkins Micawber|WILKINS MICAWBER]].’
 
 
-Poor Traddles! I knew enough of Mr. Micawber by this time, to foresee
-that he might be expected to recover the blow; but my night’s rest was
+Poor Traddles! I knew enough of Mr. Micawber by this [[Time|time]], to foresee
+that he might be expected to recover the blow; but my [[Night|night]]’s rest was
 sorely distressed by thoughts of Traddles, and of the curate’s daughter,
 who was one of ten, down in Devonshire, and who was such a dear girl,
 and who would wait for Traddles (ominous praise!) until she was sixty,

@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Change And Decay"
+title: "Man Orthodox — Change And [[Decay]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-CHANGE AND DECAY
+CHANGE AND [[Decay|DECAY]]
 
 All this talk about optimism and pessimism is itself
 a dismal fall from the old talk about right and wrong.
 Our fathers said that a nation had sinned and suffered, like a man.
-We say it has decayed, like a cheese.
+We say it has decayed, like a [[cheese]].
 
-                                  Illustrated London News, July 10th, 1920
+                                  Illustrated [[London]] News, July 10th, 1920

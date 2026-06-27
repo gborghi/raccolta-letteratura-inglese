@@ -23,11 +23,11 @@ posts in the fine church where Mr Dombey was married. A yellow-faced
 old gentleman from India, is going to take unto himself a young wife
 this morning, and six carriages full of company are expected, and Mrs
 Miff has been informed that the yellow-faced old gentleman could pave
-the road to church with diamonds and hardly miss them.
+the [[Road|road]] to church with diamonds and hardly miss them.
 
 The nuptial benediction is to be a superior one, proceeding from a very
 reverend, a dean, and the lady is to be given away, as an extraordinary
-present, by somebody who comes express from the Horse Guards.
+present, by somebody who comes express from the [[Horse]] Guards.
 
 Mrs Miff is more intolerant of common people this morning, than she
 generally is; and she has always strong opinions on that subject, for
@@ -60,10 +60,10 @@ the church. “Ahem,” coughs Mrs Miff whose cough is drier than the hay
 in any hassock in her charge, “you’ll come to us one of these mornings,
 my dears, unless I’m much mistaken!”
 
-They are looking at a tablet on the wall, erected to the memory of
+They are looking at a tablet on the wall, erected to the [[Memory|memory]] of
 someone dead. They are a long way off from Mrs Miff, but Mrs Miff can
 see with half an eye how she is leaning on his arm, and how his head is
-bent down over her. “Well, well,” says Mrs Miff, “you might do worse.
+bent down over her. “[[Well]], [[Well|well]],” says Mrs Miff, “you might do worse.
 For you’re a tidy pair!”
 
 There is nothing personal in Mrs Miff’s remark. She merely speaks of
@@ -72,10 +72,10 @@ She is such a spare, straight, dry old lady—such a pew of a woman—that
 you should find as many individual sympathies in a chip. Mr Sownds,
 now, who is fleshy, and has scarlet in his coat, is of a different
 temperament. He says, as they stand upon the steps watching the young
-couple away, that she has a pretty figure, hasn’t she, and as well as
+couple away, that she has a pretty figure, hasn’t she, and as [[Well|well]] as
 he could see (for she held her head down coming out), an uncommon
 pretty face. “Altogether, Mrs Miff,” says Mr Sownds with a relish, “she
-is what you may call a rose-bud.”
+is what you may call a [[Rose|rose]]-bud.”
 
 Mrs Miff assents with a spare nod of her mortified bonnet; but approves
 of this so little, that she inwardly resolves she wouldn’t be the wife
@@ -86,48 +86,48 @@ out at the gate?
 
 “Dear Walter, thank you! I can go away, now, happy.”
 
-“And when we come back, Florence, we will come and see his grave
+“And when we come back, Florence, we will come and see his [[Grave|grave]]
 again.”
 
-Florence lifts her eyes, so bright with tears, to his kind face; and
+Florence lifts her eyes, so bright with [[Tears|tears]], to his kind face; and
 clasps her disengaged hand on that other modest little hand which
 clasps his arm.
 
 “It is very early, Walter, and the streets are almost empty yet. Let us
 walk.”
 
-“But you will be so tired, my love.”
+“But you will be so tired, my [[Love|love]].”
 
-“Oh no! I was very tired the first time that we ever walked together,
+“Oh no! I was very tired the first [[Time|time]] that we ever walked together,
 but I shall not be so today.”
 
-And thus—not much changed—she, as innocent and earnest-hearted—he, as
+And thus—not much changed—she, as [[Innocent|innocent]] and earnest-hearted—he, as
 frank, as hopeful, and more proud of her—Florence and Walter, on their
 bridal morning, walk through the streets together.
 
 Not even in that childish walk of long ago, were they so far removed
 from all the world about them as today. The childish feet of long ago,
 did not tread such enchanted ground as theirs do now. The confidence
-and love of children may be given many times, and will spring up in
+and [[Love|love]] of children may be given many times, and will [[Spring|spring]] up in
 many places; but the woman’s heart of Florence, with its undivided
 treasure, can be yielded only once, and under slight or change, can
 only droop and die.
 
 They take the streets that are the quietest, and do not go near that in
-which her old home stands. It is a fair, warm summer morning, and the
+which her old [[Home|home]] stands. It is a fair, warm [[Summer|summer]] morning, and the
 sun shines on them, as they walk towards the darkening mist that
-overspreads the City. Riches are uncovering in shops; jewels, gold, and
+overspreads the [[City]]. Riches are uncovering in shops; jewels, gold, and
 silver flash in the goldsmith’s sunny windows; and great houses cast a
 stately shade upon them as they pass. But through the light, and
 through the shade, they go on lovingly together, lost to everything
-around; thinking of no other riches, and no prouder home, than they
+around; thinking of no other riches, and no prouder [[Home|home]], than they
 have now in one another.
 
 Gradually they come into the darker, narrower streets, where the sun,
 now yellow, and now red, is seen through the mist, only at street
 corners, and in small open spaces where there is a tree, or one of the
 innumerable churches, or a paved way and a flight of steps, or a
-curious little patch of garden, or a burying-ground, where the few
+curious little patch of [[Garden|garden]], or a burying-ground, where the few
 tombs and tombstones are almost black. Lovingly and trustfully, through
 all the narrow yards and alleys and the shady streets, Florence goes,
 clinging to his arm, to be his wife.

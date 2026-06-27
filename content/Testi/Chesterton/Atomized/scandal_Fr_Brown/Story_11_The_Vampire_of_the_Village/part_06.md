@@ -16,10 +16,10 @@ tags:
 
 'A third figure in the drama was our dramatic poet, who was also a
 dramatic performer, and quarrelled with Maltravers about how to present
-Hamlet, but more about personal things, too. I think it likely that he
-was in love with Mrs Maltravers even then; I don't believe there was
-anything wrong with them; and I hope it may now be all right with them.
-But he may very well have resented Maltravers in his conjugal capacity;
+[[Hamlet]], but more about personal things, too. I think it likely that he
+was in [[Love|love]] with Mrs Maltravers even then; I don't believe there was
+anything wrong with them; and I [[Hope|hope]] it may now be all right with them.
+But he may very [[Well|well]] have resented Maltravers in his conjugal capacity;
 for Maltravers was a bully and likely to raise rows. In some such row
 they fought with sticks, and the poet hit Maltravers very hard on the
 head, and, in the light of the inquest, had every reason to suppose he
@@ -31,10 +31,10 @@ from him the cost of his upkeep in some luxury as a retired clergyman.
 It was the obvious masquerade for such a man in such a place, simply to
 go on wearing his stage clothes as a retired clergyman. But he had his
 own reason for being a very retired clergyman. For the true story of
-Maltravers' death was that he rolled into a deep undergrowth of bracken,
-gradually recovered, tried to walk towards a house, and was eventually
+Maltravers' [[Death|death]] was that he rolled into a deep undergrowth of bracken,
+gradually recovered, tried to walk towards a [[house]], and was eventually
 overcome, not by the blow, but by the fact that the benevolent clergyman
-had given him poison an hour before, probably in a glass of port. I was
+had given him [[Poison|poison]] an hour before, probably in a glass of port. I was
 beginning to think so, when I drank a glass of the parson's port. It
 made me a little nervous. The police are working on that theory now; but
 whether they will be able to prove that part of the story, I don't know.
@@ -47,7 +47,7 @@ Dr Mulborough. 'What I don't understand is why you ever began to
 suspect. Why in the world should you suspect that very blameless black -
 coated gentleman?'
 
-Father Brown smiled faintly. 'I suppose in one sense,' he said, 'it was
+[[Father Brown]] smiled faintly. 'I suppose in one sense,' he said, 'it was
 a matter of special knowledge; almost a professional matter, but in a
 peculiar sense. You know our controversialists often complain that there
 is a great deal of ignorance about what our religion is really like. But
@@ -57,9 +57,9 @@ England does not know much about the Church of England. Not even as much
 as I do. You would be astonished at how little the average public grasps
 about the Anglican controversies; lots of them don't really know what is
 meant by a High Churchman or a Low Churchman, even on the particular
-points of practice, let alone the two theories of history and philosophy
+points of practice, let [[Alone|alone]] the two theories of [[history]] and [[philosophy]]
 behind them. You can see this ignorance in any newspaper; in any merely
-popular novel or play.
+popular [[Novel|novel]] or play.
 
 'Now the first thing that struck me was that this venerable cleric had
 got the whole thing incredibly mixed up. No Anglican parson could be so
@@ -73,9 +73,9 @@ crucifix in his room. He evidently had no notion of what a very pious
 parson ought to be, except that he ought to be very solemn and venerable
 and frown upon the pleasures of the world.
 
-'All this time there was a subconscious notion running in my head;
-something I couldn't fix in my memory; and then it came to me suddenly.
-This is a Stage Parson. That is exactly the vague venerable old fool who
+'All this [[Time|time]] there was a subconscious notion running in my head;
+something I couldn't fix in my [[Memory|memory]]; and then it came to me suddenly.
+This is a Stage Parson. That is exactly the vague venerable old [[Fool|fool]] who
 would be the nearest notion a popular playwright or play - actor of the
 old school had of anything so odd as a religious man.'
 
@@ -83,7 +83,7 @@ old school had of anything so odd as a religious man.'
 - humouredly, 'who does not set up to know much about being a religious
 man.'
 
-'As a matter of fact,' went on Father Brown, 'there was a plainer and
+'As a matter of fact,' went on [[Father Brown]], 'there was a plainer and
 more glaring cause for suspicion. It concerned the Dark Lady of the
 Grange, who was supposed to be the Vampire of the Village.
 
@@ -91,10 +91,10 @@ I very early formed the impression that this black blot was rather the
 bright spot of the village. She was treated as a mystery; but there was
 really nothing mysterious about her. She had come down here quite
 recently, quite openly, under her own name, to help the new inquiries to
-be made about her own husband. He hadn't treated her too well; but she
+be made about her own husband. He hadn't treated her too [[Well|well]]; but she
 had principles, suggesting that something was due to her married name
 and to common justice. For the same reason, she went to live in the
-house outside which her husband had been found dead. The other innocent
+[[house]] outside which her husband had been found dead. The other [[Innocent|innocent]]
 and straightforward case, besides the Vampire of the Village, was the
 Scandal of the Village, the parson's profligate son. He also made no
 disguise of his profession or past connection with the acting world.
@@ -111,15 +111,15 @@ objected to her seeing him.'
 'Yes, I see that,' assented the other. 'If she had seen the Rev. Samuel
 Horner, she would instantly have recognized the very unreverend actor
 Hankin, disguised as a sham parson with a pretty bad character behind
-the disguise. Well, that is the whole of this simple village idyll, I
+the disguise. [[Well]], that is the whole of this simple village idyll, I
 think. But you will admit I kept my promise; I have shown you something
 in the village considerably more creepy than a corpse; even a corpse
-stuffed with poison. The black coat of a parson stuffed with a
+stuffed with [[Poison|poison]]. The black coat of a parson stuffed with a
 blackmailer is at least worth noticing and my live man is much deadlier
 than your dead one.'
 
 'Yes,' said the doctor, settling himself back comfortably in the
-cushions. 'If it comes to a little cosy company on a railway journey, I
+cushions. 'If it comes to a little cosy company on a railway [[Journey|journey]], I
 should prefer the corpse.'
 
 THE END

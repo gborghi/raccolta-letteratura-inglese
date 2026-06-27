@@ -26,7 +26,7 @@ whiles, ‘Hola, my husband!’ out at the side door.
 My husband answered at length, ‘It is I, my wife!’ and presenting
 himself in his cook’s cap, lighted the traveller up a steep and narrow
 staircase; the traveller carrying his own cloak and knapsack, and
-bidding the landlady good night with a complimentary reference to the
+bidding the landlady good [[Night|night]] with a complimentary reference to the
 pleasure of seeing her again to-morrow. It was a large room, with a
 rough splintery floor, unplastered rafters overhead, and two bedsteads
 on opposite sides. Here ‘my husband’ put down the candle he carried, and
@@ -49,7 +49,7 @@ that he could be only heard, not seen. But the deep regular breathing,
 still going on while the other was taking off his worn shoes and
 gaiters, and still continuing when he had laid aside his coat and
 cravat, became at length a strong provocative to curiosity, and
-incentive to get a glimpse of the sleeper’s face.
+incentive to get a glimpse of [[The Sleeper|the sleeper]]’s face.
 
 The waking traveller, therefore, stole a little nearer, and yet a little
 nearer, and a little nearer to the sleeping traveller’s bed, until he
@@ -58,13 +58,13 @@ drawn the sheet over it. The regular breathing still continuing, he put
 his smooth white hand (such a treacherous hand it looked, as it went
 creeping from him!) to the sheet, and gently lifted it away.
 
-‘Death of my soul!’ he whispered, falling back, ‘here’s Cavalletto!’
+‘[[Death]] of my [[Soul|soul]]!’ he whispered, falling back, ‘here’s Cavalletto!’
 
-The little Italian, previously influenced in his sleep, perhaps, by the
+The little Italian, previously influenced in his [[Sleep|sleep]], perhaps, by the
 stealthy presence at his bedside, stopped in his regular breathing, and
 with a long deep respiration opened his eyes. At first they were not
 awake, though open. He lay for some seconds looking placidly at his
-old prison companion, and then, all at once, with a cry of surprise and
+old [[Prison|prison]] companion, and then, all at once, with a cry of surprise and
 alarm, sprang out of bed.
 
 ‘Hush! What’s the matter? Keep quiet! It’s I. You know me?’ cried the
@@ -73,8 +73,8 @@ other, in a suppressed voice.
 But John Baptist, widely staring, muttering a number of invocations
 and ejaculations, tremblingly backing into a corner, slipping on
 his trousers, and tying his coat by the two sleeves round his neck,
-manifested an unmistakable desire to escape by the door rather than
-renew the acquaintance. Seeing this, his old prison comrade fell back
+manifested an unmistakable [[Desire|desire]] to escape by the door rather than
+renew the acquaintance. Seeing this, his old [[Prison|prison]] comrade fell back
 upon the door, and set his shoulders against it.
 
 ‘Cavalletto! Wake, boy! Rub your eyes and look at me. Not the name you
@@ -108,9 +108,9 @@ for a gentleman, you’ll say. No matter, you shall see how soon I’ll mend
 it. Come and sit down. Take your old place!’
 
 John Baptist, looking anything but reassured, sat down on the floor at
-the bedside, keeping his eyes upon his patron all the time.
+the bedside, keeping his eyes upon his patron all the [[Time|time]].
 
-‘That’s well!’ cried Lagnier. ‘Now we might be in the old infernal hole
+‘That’s [[Well|well]]!’ cried Lagnier. ‘Now we might be in the old infernal hole
 again, hey? How long have you been out?’
 
 ‘Two days after you, my master.’
@@ -129,11 +129,11 @@ the floor.
 
 ‘Ay!’
 
-John Baptist seemed to desire to evade the question without knowing how.
+John Baptist seemed to [[Desire|desire]] to evade the question without knowing how.
 ‘By Bacchus!’ he said at last, as if he were forced to the admission, ‘I
-have sometimes had a thought of going to Paris, and perhaps to England.’
+have sometimes had a thought of going to [[Paris]], and perhaps to England.’
 
-‘Cavalletto. This is in confidence. I also am going to Paris and perhaps
+‘Cavalletto. This is in confidence. I also am going to [[Paris]] and perhaps
 to England. We’ll go together.’
 
 The little man nodded his head, and showed his teeth; and yet seemed not

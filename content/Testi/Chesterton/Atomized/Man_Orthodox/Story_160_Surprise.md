@@ -17,6 +17,6 @@ tags:
 SURPRISE
 
 Of one thing I am certain, that the age needs, first and foremost
-to be startled; to be taught the nature of wonder.
+to be startled; to be taught the [[Nature|nature]] of [[Wonder|wonder]].
 
                                       Black and White, February 14th, 1903

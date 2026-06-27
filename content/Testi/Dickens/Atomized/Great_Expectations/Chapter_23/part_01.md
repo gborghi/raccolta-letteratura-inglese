@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 23 (part 1)"
+title: "[[Great Expectations]] — Chapter 23 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -26,10 +26,10 @@ there was something comic in his distraught way, as though it would
 have been downright ludicrous but for his own perception that it was
 very near being so. When he had talked with me a little, he said to
 Mrs. Pocket, with a rather anxious contraction of his eyebrows, which
-were black and handsome, “Belinda, I hope you have welcomed Mr. Pip?”
+were black and handsome, “Belinda, I [[Hope|hope]] you have welcomed Mr. Pip?”
 And she looked up from her book, and said, “Yes.” She then smiled upon
 me in an absent state of mind, and asked me if I liked the taste of
-orange-flower water? As the question had no bearing, near or remote, on
+orange-flower [[Water|water]]? As the question had no bearing, near or remote, on
 any foregone or subsequent transaction, I consider it to have been
 thrown out, like her previous approaches, in general conversational
 condescension.
@@ -47,7 +47,7 @@ storming the English grammar at the point of the pen, in a desperate
 address engrossed on vellum, on the occasion of the laying of the first
 stone of some building or other, and for handing some Royal Personage
 either the trowel or the mortar. Be that as it may, he had directed
-Mrs. Pocket to be brought up from her cradle as one who in the nature
+Mrs. Pocket to be brought up from her cradle as one who in the [[Nature|nature]]
 of things must marry a title, and who was to be guarded from the
 acquisition of plebeian domestic knowledge.
 
@@ -57,8 +57,8 @@ perfectly helpless and useless. With her character thus happily formed,
 in the first bloom of her youth she had encountered Mr. Pocket: who was
 also in the first bloom of youth, and not quite decided whether to
 mount to the Woolsack, or to roof himself in with a mitre. As his doing
-the one or the other was a mere question of time, he and Mrs. Pocket
-had taken Time by the forelock (when, to judge from its length, it
+the one or the other was a mere question of [[Time|time]], he and Mrs. Pocket
+had taken [[Time]] by the forelock (when, to judge from its length, it
 would seem to have wanted cutting), and had married without the
 knowledge of the judicious parent. The judicious parent, having nothing
 to bestow or withhold but his blessing, had handsomely settled that
@@ -70,7 +70,7 @@ Pocket was in general the object of a queer sort of respectful pity,
 because she had not married a title; while Mr. Pocket was the object of
 a queer sort of forgiving reproach, because he had never got one.
 
-Mr. Pocket took me into the house and showed me my room: which was a
+Mr. Pocket took me into the [[house]] and showed me my room: which was a
 pleasant one, and so furnished as that I could use it with comfort for
 my own private sitting-room. He then knocked at the doors of two other
 similar rooms, and introduced me to their occupants, by name Drummle
@@ -80,19 +80,19 @@ was reading and holding his head, as if he thought himself in danger of
 exploding it with too strong a charge of knowledge.
 
 Both Mr. and Mrs. Pocket had such a noticeable air of being in somebody
-else’s hands, that I wondered who really was in possession of the house
+else’s hands, that I wondered who really was in possession of the [[house]]
 and let them live there, until I found this unknown power to be the
 servants. It was a smooth way of going on, perhaps, in respect of
 saving trouble; but it had the appearance of being expensive, for the
 servants felt it a duty they owed to themselves to be nice in their
 eating and drinking, and to keep a deal of company downstairs. They
 allowed a very liberal table to Mr. and Mrs. Pocket, yet it always
-appeared to me that by far the best part of the house to have boarded
+appeared to me that by far the best part of the [[house]] to have boarded
 in would have been the kitchen,—always supposing the boarder capable of
-self-defence, for, before I had been there a week, a neighbouring lady
+[[Self|self]]-defence, for, before I had been there a week, a neighbouring lady
 with whom the family were personally unacquainted, wrote in to say that
 she had seen Millers slapping the baby. This greatly distressed Mrs.
-Pocket, who burst into tears on receiving the note, and said that it
+Pocket, who burst into [[Tears|tears]] on receiving the note, and said that it
 was an extraordinary thing that the neighbours couldn’t mind their own
 business.
 
@@ -104,20 +104,20 @@ calling of a Grinder. After grinding a number of dull blades,—of whom
 it was remarkable that their fathers, when influential, were always
 going to help him to preferment, but always forgot to do it when the
 blades had left the Grindstone,—he had wearied of that poor work and
-had come to London. Here, after gradually failing in loftier hopes, he
+had come to [[London]]. Here, after gradually failing in loftier hopes, he
 had “read” with divers who had lacked opportunities or neglected them,
 and had refurbished divers others for special occasions, and had turned
 his acquirements to the account of literary compilation and correction,
 and on such means, added to some very moderate private resources, still
-maintained the house I saw.
+maintained the [[house]] I saw.
 
 Mr. and Mrs. Pocket had a toady neighbour; a widow lady of that highly
-sympathetic nature that she agreed with everybody, blessed everybody,
-and shed smiles and tears on everybody, according to circumstances.
-This lady’s name was Mrs. Coiler, and I had the honour of taking her
+sympathetic [[Nature|nature]] that she agreed with everybody, blessed everybody,
+and shed smiles and [[Tears|tears]] on everybody, according to circumstances.
+This lady’s name was Mrs. Coiler, and I had the [[Honour|honour]] of taking her
 down to dinner on the day of my installation. She gave me to understand
 on the stairs, that it was a blow to dear Mrs. Pocket that dear Mr.
 Pocket should be under the necessity of receiving gentlemen to read
-with him. That did not extend to me, she told me in a gush of love and
-confidence (at that time, I had known her something less than five
+with him. That did not extend to me, she told me in a gush of [[Love|love]] and
+confidence (at that [[Time|time]], I had known her something less than five
 minutes); if they were all like Me, it would be quite another thing.

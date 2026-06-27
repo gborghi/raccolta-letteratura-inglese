@@ -18,14 +18,14 @@ DIVINE IMMANENCE
 
 It is evident that, though all things are divine, all things are limited.
 And among other divine things, man himself is limited.
-He has not the memory nor the imagination nor the vigilance nor
+He has not the [[Memory|memory]] nor the [[Imagination|imagination]] nor the vigilance nor
 the sheer physical health to realize the Godhead in every atom or object
 that passes under his hands.  A person who never neglected any object:
-a man who burst into religious tears as he fastened a divine collar
+a man who burst into religious [[Tears|tears]] as he fastened a divine collar
 with an inspired collar-stud, and continued thus with everything
 he looked at, would go mad in five minutes; he would see God and die.
 The only things which man, a limited animal, can do in this matter,
-are two; first, he can believe (as an absolute thing of faith)
+are two; first, he can believe (as an absolute thing of [[Faith|faith]])
 that there is this divinity in things, whether he sees it or not;
 second, he can leave himself reasonably open to those sudden revelations
 whereby one or two of these things--a cloud, a man's face, a noise
@@ -44,8 +44,8 @@ adoration it some one thing, that thing suddenly speaks to him.
 Divinity lurks not in the All, but in everything; and that,
 if it be true, is the explanation of a load of human chronicles,
 of a cataract of human testimony of all the religions,
-and all the wild tales of the world.  ... Providence desires
-its gifts received, intensely and with humility and it is
+and all the wild tales of the world.  ... [[Providence]] desires
+its gifts received, intensely and with [[Humility|humility]] and it is
 possible to look at one of them steadily and confidently until,
 with a great cry, it gives up its god.
 

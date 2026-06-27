@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 4 (part 7)"
+title: "[[Martin Chuzzlewit]] — Chapter 4 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -20,8 +20,8 @@ not to look at me and my daughters as if he could eat us.’
 
 ‘As to looking, I have heard it said, Mrs Ned,’ returned Mr George,
 angrily, ‘that a cat is free to contemplate a monarch; and therefore
-I hope I have some right, having been born a member of this family, to
-look at a person who only came into it by marriage. As to eating, I
+I [[Hope|hope]] I have some right, having been born a member of this family, to
+look at a person who only came into it by [[Marriage|marriage]]. As to eating, I
 beg to say, whatever bitterness your jealousies and disappointed
 expectations may suggest to you, that I am not a cannibal, ma’am.’
 
@@ -32,18 +32,18 @@ stimulated by this retort, ‘I think it would occur to me that a lady
 who had outlived three husbands, and suffered so very little from their
 loss, must be most uncommonly tough.’
 
-The strong-minded woman immediately rose.
+The strong-minded woman immediately [[Rose|rose]].
 
 ‘And I will further add,’ said Mr George, nodding his head violently at
 every second syllable; ‘naming no names, and therefore hurting nobody
 but those whose consciences tell them they are alluded to, that I think
 it would be much more decent and becoming, if those who hooked and
 crooked themselves into this family by getting on the blind side of some
-of its members before marriage, and manslaughtering them afterwards by
+of its members before [[Marriage|marriage]], and manslaughtering them afterwards by
 crowing over them to that strong pitch that they were glad to die, would
 refrain from acting the part of vultures in regard to other members of
-this family who are living. I think it would be full as well, if not
-better, if those individuals would keep at home, contenting themselves
+this family who are living. I think it would be full as [[Well|well]], if not
+better, if those individuals would keep at [[Home|home]], contenting themselves
 with what they have got (luckily for them) already; instead of hovering
 about, and thrusting their fingers into, a family pie, which they
 flavour much more than enough, I can tell them, when they are fifty
@@ -55,13 +55,13 @@ followed by her three daughters. ‘Indeed I was fully prepared for it
 from the first. What else could I expect in such an atmosphere as this!’
 
 ‘Don’t direct your halfpay-officers’ gaze at me, ma’am, if you please,’
-interposed Miss Charity; ‘for I won’t bear it.’
+interposed Miss [[Charity]]; ‘for I won’t bear it.’
 
 This was a smart stab at a pension enjoyed by the strong-minded woman,
 during her second widowhood and before her last coverture. It told
 immensely.
 
-‘I passed from the memory of a grateful country, you very miserable
+‘I passed from the [[Memory|memory]] of a grateful country, you very miserable
 minx,’ said Mrs Ned, ‘when I entered this family; and I feel now, though
 I did not feel then, that it served me right, and that I lost my claim
 upon the United Kingdom of Great Britain and Ireland when I so degraded
@@ -74,18 +74,18 @@ Thank you. Good-bye!’
 
 With such departing words, did this strong-minded female paralyse the
 Pecksniffian energies; and so she swept out of the room, and out of
-the house, attended by her daughters, who, as with one accord, elevated
+the [[house]], attended by her daughters, who, as with one accord, elevated
 their three noses in the air, and joined in a contemptuous titter.
-As they passed the parlour window on the outside, they were seen to
+As they passed the parlour [[Window|window]] on the outside, they were seen to
 counterfeit a perfect transport of delight among themselves; and
 with this final blow and great discouragement for those within, they
 vanished.
 
 Before Mr Pecksniff or any of his remaining visitors could offer a
-remark, another figure passed this window, coming, at a great rate in
+remark, another figure passed this [[Window|window]], coming, at a great rate in
 the opposite direction; and immediately afterwards, Mr Spottletoe burst
 into the chamber. Compared with his present state of heat, he had gone
-out a man of snow or ice. His head distilled such oil upon his whiskers,
+out a man of [[Snow|snow]] or ice. His head distilled such oil upon his whiskers,
 that they were rich and clogged with unctuous drops; his face was
 violently inflamed, his limbs trembled; and he gasped and strove for
 breath.
@@ -120,7 +120,7 @@ suspicion. Oh, of course not! She’s not this fellow’s creature. Oh, of
 course not!’
 
 Adding to these exclamations a kind of ironical howl, and gazing upon
-the company for one brief instant afterwards, in a sudden silence, the
+the company for one brief instant afterwards, in a sudden [[Silence|silence]], the
 irritated gentleman started off again at the same tremendous pace, and
 was seen no more.
 
@@ -136,13 +136,13 @@ The moral position taken by Mr Tigg was something quite tremendous; and
 the deaf cousin, who had the complicated aggravation of seeing all the
 proceedings and hearing nothing but the catastrophe, actually scraped
 her shoes upon the scraper, and afterwards distributed impressions of
-them all over the top step, in token that she shook the dust from her
+them all over the top step, in token that she shook the [[Dust|dust]] from her
 feet before quitting that dissembling and perfidious mansion.
 
 Mr Pecksniff had, in short, but one comfort, and that was the knowledge
 that all these his relations and friends had hated him to the very
 utmost extent before; and that he, for his part, had not distributed
-among them any more love than, with his ample capital in that respect,
+among them any more [[Love|love]] than, with his ample capital in that respect,
 he could comfortably afford to part with. This view of his affairs
 yielded him great consolation; and the fact deserves to be noted, as
 showing with what ease a good man may be consoled under circumstances of

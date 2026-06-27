@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 3 (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -29,11 +29,11 @@ tight as a gooseberry; and though she was not exactly what the world
 calls young, you may make an affidavit, on trust, before any mayor or
 magistrate in Christendom, that there are a great many young ladies in
 the world (blessings on them one and all!) whom you wouldn’t like half
-as well, or admire half as much, as the beaming hostess of the Blue
+as [[Well|well]], or admire half as much, as the beaming hostess of the Blue
 Dragon.
 
-As this fair matron sat beside the fire, she glanced occasionally with
-all the pride of ownership, about the room; which was a large apartment,
+As this fair matron sat beside the [[Fire|fire]], she glanced occasionally with
+all the [[Pride|pride]] of ownership, about the room; which was a large apartment,
 such as one may see in country places, with a low roof and a sunken
 flooring, all downhill from the door, and a descent of two steps on
 the inside so exquisitely unexpected, that strangers, despite the
@@ -42,36 +42,36 @@ plunging-bath. It was none of your frivolous and preposterously bright
 bedrooms, where nobody can close an eye with any kind of propriety or
 decent regard to the association of ideas; but it was a good, dull,
 leaden, drowsy place, where every article of furniture reminded you
-that you came there to sleep, and that you were expected to go to sleep.
-There was no wakeful reflection of the fire there, as in your modern
+that you came there to [[Sleep|sleep]], and that you were expected to go to [[Sleep|sleep]].
+There was no wakeful reflection of the [[Fire|fire]] there, as in your modern
 chambers, which upon the darkest nights have a watchful consciousness of
 French polish; the old Spanish mahogany winked at it now and then, as
 a dozing cat or dog might, nothing more. The very size and shape, and
 hopeless immovability of the bedstead, and wardrobe, and in a minor
-degree of even the chairs and tables, provoked sleep; they were plainly
+degree of even the chairs and tables, provoked [[Sleep|sleep]]; they were plainly
 apoplectic and disposed to snore. There were no staring portraits
-to remonstrate with you for being lazy; no round-eyed birds upon the
+to remonstrate with you for being lazy; no round-eyed [[Birds|birds]] upon the
 curtains, disgustingly wide awake, and insufferably prying. The
 thick neutral hangings, and the dark blinds, and the heavy heap
-of bed-clothes, were all designed to hold in sleep, and act as
+of bed-clothes, were all designed to hold in [[Sleep|sleep]], and act as
 nonconductors to the day and getting up. Even the old stuffed fox upon
 the top of the wardrobe was devoid of any spark of vigilance, for his
 glass eye had fallen out, and he slumbered as he stood.
 
 The wandering attention of the mistress of the Blue Dragon roved to
-these things but twice or thrice, and then for but an instant at a time.
+these things but twice or thrice, and then for but an instant at a [[Time|time]].
 It soon deserted them, and even the distant bed with its strange burden,
 for the young creature immediately before her, who, with her downcast
-eyes intently fixed upon the fire, sat wrapped in silent meditation.
+eyes intently fixed upon the [[Fire|fire]], sat wrapped in silent meditation.
 
 She was very young; apparently no more than seventeen; timid and
-shrinking in her manner, and yet with a greater share of self possession
+shrinking in her manner, and yet with a greater share of [[Self|self]] possession
 and control over her emotions than usually belongs to a far more
 advanced period of female life. This she had abundantly shown, but now,
 in her tending of the sick gentleman. She was short in stature; and her
 figure was slight, as became her years; but all the charms of youth and
 maidenhood set it off, and clustered on her gentle brow. Her face was
-very pale, in part no doubt from recent agitation. Her dark brown hair,
+very pale, in part no [[Doubt|doubt]] from recent agitation. Her dark brown hair,
 disordered from the same cause, had fallen negligently from its bonds,
 and hung upon her neck; for which instance of its waywardness no male
 observer would have had the heart to blame it.
@@ -96,7 +96,7 @@ these attacks?’
 ‘I have seen him very ill before, but not so ill as he has been
 tonight.’
 
-‘What a Providence!’ said the landlady of the Dragon, ‘that you had the
+‘What a [[Providence]]!’ said the landlady of the Dragon, ‘that you had the
 prescriptions and the medicines with you, miss!’
 
 ‘They are intended for such an emergency. We never travel without them.’
@@ -112,7 +112,7 @@ hostess, she was rather confused.
 ‘being so bent on having no assistance, must terrify you very much,
 miss?’
 
-‘I have been very much alarmed to-night. He--he is not my grandfather.’
+‘I have been very much alarmed to-[[Night|night]]. He--he is not my grandfather.’
 
 ‘Father, I should have said,’ returned the hostess, sensible of having
 made an awkward mistake.

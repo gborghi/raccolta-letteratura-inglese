@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,17 +19,17 @@ served for a whole boarding-school, to say nothing of a couple of oaken
 presses that would have held the baggage of a small army; but what
 struck Tom’s fancy most was a strange, grim-looking, high backed chair,
 carved in the most fantastic manner, with a flowered damask cushion, and
-the round knobs at the bottom of the legs carefully tied up in red
+the round knobs at the [[Bottom|bottom]] of the legs carefully tied up in red
 cloth, as if it had got the gout in its toes. Of any other queer chair,
 Tom would only have thought it was a queer chair, and there would have
 been an end of the matter; but there was something about this particular
 chair, and yet he couldn’t tell what it was, so odd and so unlike any
 other piece of furniture he had ever seen, that it seemed to fascinate
-him. He sat down before the fire, and stared at the old chair for half
+him. He sat down before the [[Fire|fire]], and stared at the old chair for half
 an hour.--Damn the chair, it was such a strange old thing, he couldn’t
 take his eyes off it.
 
-‘“Well,” said Tom, slowly undressing himself, and staring at the old
+‘“[[Well]],” said Tom, slowly undressing himself, and staring at the old
 chair all the while, which stood with a mysterious aspect by the
 bedside, “I never saw such a rum concern as that in my days. Very odd,”
  said Tom, who had got rather sage with the hot punch--“very odd.” Tom
@@ -39,17 +39,17 @@ covered himself up warm, and fell asleep.
 
 ‘In about half an hour, Tom woke up with a start, from a confused dream
 of tall men and tumblers of punch; and the first object that presented
-itself to his waking imagination was the queer chair.
+itself to his waking [[Imagination|imagination]] was the queer chair.
 
 ‘“I won’t look at it any more,” said Tom to himself, and he squeezed his
-eyelids together, and tried to persuade himself he was going to sleep
+eyelids together, and tried to persuade himself he was going to [[Sleep|sleep]]
 again. No use; nothing but queer chairs danced before his eyes, kicking
 up their legs, jumping over each other’s backs, and playing all kinds of
 antics.
 
-“‘I may as well see one real chair, as two or three complete sets of
+“‘I may as [[Well|well]] see one real chair, as two or three complete sets of
 false ones,” said Tom, bringing out his head from under the bedclothes.
-There it was, plainly discernible by the light of the fire, looking as
+There it was, plainly discernible by the light of the [[Fire|fire]], looking as
 provoking as ever.
 
 ‘Tom gazed at the chair; and, suddenly as he looked at it, a most
@@ -76,7 +76,7 @@ whichever you like to call him. He stopped winking though, when Tom
 spoke, and began grinning like a superannuated monkey.
 
 ‘“How do you know my name, old nut-cracker face?” inquired Tom Smart,
-rather staggered; though he pretended to carry it off so well.
+rather staggered; though he pretended to carry it off so [[Well|well]].
 
 ‘“Come, come, Tom,” said the old gentleman, “that’s not the way to
 address solid Spanish mahogany. Damme, you couldn’t treat me with less
@@ -86,7 +86,7 @@ so fierce that Tom began to grow frightened.
 ‘“I didn’t mean to treat you with any disrespect, Sir,” said Tom, in a
 much humbler tone than he had spoken in at first.
 
-‘“Well, well,” said the old fellow, “perhaps not--perhaps not. Tom--”
+‘“[[Well]], [[Well|well]],” said the old fellow, “perhaps not--perhaps not. Tom--”
 
 ‘“Sir--”
 
@@ -105,7 +105,7 @@ old gentleman he looked so knowing that Tom blushed, and was silent.
 fine woman--eh, Tom?” Here the old fellow screwed up his eyes, cocked up
 one of his wasted little legs, and looked altogether so unpleasantly
 amorous, that Tom was quite disgusted with the levity of his behaviour--
-at his time of life, too!
+at his [[Time|time]] of life, too!
 
 ‘“I am her guardian, Tom,” said the old gentleman.
 
@@ -123,7 +123,7 @@ unpleasantness in the family.” When the old rascal said this, he looked
 so extremely impertinent, that, as Tom Smart afterwards declared, he
 could have sat upon him without remorse.
 
-‘“I have been a great favourite among the women in my time, Tom,” said
+‘“I have been a great favourite among the women in my [[Time|time]], Tom,” said
 the profligate old debauchee; “hundreds of fine women have sat in my lap
 for hours together. What do you think of that, you dog, eh!” The old
 gentleman was proceeding to recount some other exploits of his youth,

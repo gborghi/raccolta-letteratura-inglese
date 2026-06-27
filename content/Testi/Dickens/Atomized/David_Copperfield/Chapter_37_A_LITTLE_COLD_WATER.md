@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 37: A LITTLE COLD WATER"
+title: "[[David Copperfield]] — Chapter 37: A LITTLE COLD [[Water|WATER]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CHAPTER 37. A LITTLE COLD WATER
+CHAPTER 37. A LITTLE COLD [[Water|WATER]]
 
 
 My new life had lasted for more than a week, and I was stronger than
@@ -30,13 +30,13 @@ As yet, little Dora was quite unconscious of my desperate firmness,
 otherwise than as my letters darkly shadowed it forth. But another
 Saturday came, and on that Saturday evening she was to be at Miss
 Mills’s; and when Mr. Mills had gone to his whist-club (telegraphed to
-me in the street, by a bird-cage in the drawing-room middle window), I
+me in the street, by a bird-cage in the drawing-room middle [[Window|window]]), I
 was to go there to tea.
 
-By this time, we were quite settled down in Buckingham Street, where Mr.
+By this [[Time|time]], we were quite settled down in [[Buckingham]] Street, where Mr.
 Dick continued his copying in a state of absolute felicity. My aunt had
 obtained a signal victory over Mrs. Crupp, by paying her off, throwing
-the first pitcher she planted on the stairs out of window, and
+the first pitcher she planted on the stairs out of [[Window|window]], and
 protecting in person, up and down the staircase, a supernumerary whom
 she engaged from the outer world. These vigorous measures struck such
 terror to the breast of Mrs. Crupp, that she subsided into her own
@@ -64,20 +64,20 @@ Peggotty had considered herself highly privileged in being allowed to
 participate in these labours; and, although she still retained something
 of her old sentiment of awe in reference to my aunt, had received so
 many marks of encouragement and confidence, that they were the best
-friends possible. But the time had now come (I am speaking of the
+friends possible. But the [[Time|time]] had now come (I am speaking of the
 Saturday when I was to take tea at Miss Mills’s) when it was necessary
-for her to return home, and enter on the discharge of the duties she had
+for her to return [[Home|home]], and enter on the discharge of the duties she had
 undertaken in behalf of Ham. ‘So good-bye, Barkis,’ said my aunt, ‘and
 take care of yourself! I am sure I never thought I could be sorry to
 lose you!’
 
 I took Peggotty to the coach office and saw her off. She cried at
-parting, and confided her brother to my friendship as Ham had done. We
+parting, and confided her brother to my [[Friendship|friendship]] as Ham had done. We
 had heard nothing of him since he went away, that sunny afternoon.
 
 ‘And now, my own dear Davy,’ said Peggotty, ‘if, while you’re a
 prentice, you should want any money to spend; or if, when you’re out of
-your time, my dear, you should want any to set you up (and you must do
+your [[Time|time]], my dear, you should want any to set you up (and you must do
 one or other, or both, my darling); who has such a good right to ask
 leave to lend it you, as my sweet girl’s own old stupid me!’
 
@@ -88,17 +88,17 @@ comfort than anything I could have done.
 
 ‘And, my dear!’ whispered Peggotty, ‘tell the pretty little angel that
 I should so have liked to see her, only for a minute! And tell her that
-before she marries my boy, I’ll come and make your house so beautiful
+before she marries my boy, I’ll come and make your [[house]] so beautiful
 for you, if you’ll let me!’
 
 I declared that nobody else should touch it; and this gave Peggotty such
 delight that she went away in good spirits.
 
 I fatigued myself as much as I possibly could in the Commons all day, by
-a variety of devices, and at the appointed time in the evening repaired
+a variety of devices, and at the appointed [[Time|time]] in the evening repaired
 to Mr. Mills’s street. Mr. Mills, who was a terrible fellow to fall
 asleep after dinner, had not yet gone out, and there was no bird-cage in
-the middle window.
+the middle [[Window|window]].
 
 He kept me waiting so long, that I fervently hoped the Club would fine
 him for being late. At last he came out; and then I saw my own Dora hang
@@ -112,14 +112,14 @@ out, tumbling over his own growls, under the impression that I was a
 Bandit; and we all three went in, as happy and loving as could be. I
 soon carried desolation into the bosom of our joys--not that I meant to
 do it, but that I was so full of the subject--by asking Dora, without
-the smallest preparation, if she could love a beggar?
+the smallest preparation, if she could [[Love|love]] a beggar?
 
 My pretty, little, startled Dora! Her only association with the word was
 a yellow face and a nightcap, or a pair of crutches, or a wooden leg, or
 a dog with a decanter-stand in his mouth, or something of that kind; and
-she stared at me with the most delightful wonder.
+she stared at me with the most delightful [[Wonder|wonder]].
 
-‘How can you ask me anything so foolish?’ pouted Dora. ‘Love a beggar!’
+‘How can you ask me anything so foolish?’ pouted Dora. ‘[[Love]] a beggar!’
 
 ‘Dora, my own dearest!’ said I. ‘I am a beggar!’
 
@@ -138,9 +138,9 @@ But I looked so serious, that Dora left off shaking her curls, and laid
 her trembling little hand upon my shoulder, and first looked scared
 and anxious, then began to cry. That was dreadful. I fell upon my knees
 before the sofa, caressing her, and imploring her not to rend my heart;
-but, for some time, poor little Dora did nothing but exclaim Oh dear! Oh
-dear! And oh, she was so frightened! And where was Julia Mills! And oh,
-take her to Julia Mills, and go away, please! until I was almost beside
+but, for some [[Time|time]], poor little Dora did nothing but exclaim Oh dear! Oh
+dear! And oh, she was so frightened! And where was [[Julia]] Mills! And oh,
+take her to [[Julia]] Mills, and go away, please! until I was almost beside
 myself.
 
 At last, after an agony of supplication and protestation, I got Dora
@@ -150,13 +150,13 @@ against mine. Then I told her, with my arms clasped round her, how I
 loved her, so dearly, and so dearly; how I felt it right to offer to
 release her from her engagement, because now I was poor; how I never
 could bear it, or recover it, if I lost her; how I had no fears of
-poverty, if she had none, my arm being nerved and my heart inspired by
-her; how I was already working with a courage such as none but lovers
+[[Poverty|poverty]], if she had none, my arm being nerved and my heart inspired by
+her; how I was already working with a [[Courage|courage]] such as none but [[lovers]]
 knew; how I had begun to be practical, and look into the future; how a
-crust well earned was sweeter far than a feast inherited; and much
+crust [[Well|well]] earned was sweeter far than a feast inherited; and much
 more to the same purpose, which I delivered in a burst of passionate
 eloquence quite surprising to myself, though I had been thinking about
-it, day and night, ever since my aunt had astonished me.
+it, day and [[Night|night]], ever since my aunt had astonished me.
 
 ‘Is your heart mine still, dear Dora?’ said I, rapturously, for I knew
 by her clinging to me that it was.
@@ -168,27 +168,27 @@ I dreadful! To Dora!
 ‘Don’t talk about being poor, and working hard!’ said Dora, nestling
 closer to me. ‘Oh, don’t, don’t!’
 
-‘My dearest love,’ said I, ‘the crust well-earned--’
+‘My dearest [[Love|love]],’ said I, ‘the crust [[Well|well]]-earned--’
 
 ‘Oh, yes; but I don’t want to hear any more about crusts!’ said Dora.
 ‘And Jip must have a mutton-chop every day at twelve, or he’ll die.’
 
 I was charmed with her childish, winning way. I fondly explained to Dora
 that Jip should have his mutton-chop with his accustomed regularity.
-I drew a picture of our frugal home, made independent by my
-labour--sketching in the little house I had seen at Highgate, and my
+I drew a picture of our frugal [[Home|home]], made independent by my
+labour--sketching in the little [[house]] I had seen at Highgate, and my
 aunt in her room upstairs.
 
 ‘I am not dreadful now, Dora?’ said I, tenderly.
 
-‘Oh, no, no!’ cried Dora. ‘But I hope your aunt will keep in her own
-room a good deal. And I hope she’s not a scolding old thing!’
+‘Oh, no, no!’ cried Dora. ‘But I [[Hope|hope]] your aunt will keep in her own
+room a good deal. And I [[Hope|hope]] she’s not a scolding old thing!’
 
-If it were possible for me to love Dora more than ever, I am sure I did.
+If it were possible for me to [[Love|love]] Dora more than ever, I am sure I did.
 But I felt she was a little impracticable. It damped my new-born ardour,
 to find that ardour so difficult of communication to her. I made another
 trial. When she was quite herself again, and was curling Jip’s ears, as
-he lay upon her lap, I became grave, and said:
+he lay upon her lap, I became [[Grave|grave]], and said:
 
 ‘My own! May I mention something?’
 
@@ -201,7 +201,7 @@ and inspire you, Dora!’
 
 ‘Oh, but that’s so shocking!’ cried Dora.
 
-‘My love, no. Perseverance and strength of character will enable us to
+‘My [[Love|love]], no. Perseverance and strength of character will enable us to
 bear much worse things.’ ‘But I haven’t got any strength at all,’
 said Dora, shaking her curls. ‘Have I, Jip? Oh, do kiss Jip, and be
 agreeable!’
@@ -216,18 +216,18 @@ of my graver character for I don’t know how long.
 ‘But, Dora, my beloved!’ said I, at last resuming it; ‘I was going to
 mention something.’
 
-The judge of the Prerogative Court might have fallen in love with her,
+The judge of the Prerogative [[Court]] might have fallen in [[Love|love]] with her,
 to see her fold her little hands and hold them up, begging and praying
 me not to be dreadful any more.
 
 ‘Indeed I am not going to be, my darling!’ I assured her. ‘But, Dora, my
-love, if you will sometimes think,--not despondingly, you know; far from
+[[Love|love]], if you will sometimes think,--not despondingly, you know; far from
 that!--but if you will sometimes think--just to encourage yourself--that
 you are engaged to a poor man--’
 
 ‘Don’t, don’t! Pray don’t!’ cried Dora. ‘It’s so very dreadful!’
 
-‘My soul, not at all!’ said I, cheerfully. ‘If you will sometimes think
+‘My [[Soul|soul]], not at all!’ said I, cheerfully. ‘If you will sometimes think
 of that, and look about now and then at your papa’s housekeeping, and
 endeavour to acquire a little habit--of accounts, for instance--’
 
@@ -244,13 +244,13 @@ brave. There are obstacles to be met, and we must meet, and crush them!’
 I was going on at a great rate, with a clenched hand, and a most
 enthusiastic countenance; but it was quite unnecessary to proceed. I had
 said enough. I had done it again. Oh, she was so frightened! Oh, where
-was Julia Mills! Oh, take her to Julia Mills, and go away, please!
+was [[Julia]] Mills! Oh, take her to [[Julia]] Mills, and go away, please!
 So that, in short, I was quite distracted, and raved about the
 drawing-room.
 
-I thought I had killed her, this time. I sprinkled water on her face.
+I thought I had killed her, this [[Time|time]]. I sprinkled [[Water|water]] on her face.
 I went down on my knees. I plucked at my hair. I denounced myself as a
-remorseless brute and a ruthless beast. I implored her forgiveness.
+remorseless brute and a ruthless beast. I implored her [[Forgiveness|forgiveness]].
 I besought her to look up. I ravaged Miss Mills’s work-box for a
 smelling-bottle, and in my agony of mind applied an ivory needle-case
 instead, and dropped all the needles over Dora. I shook my fists at Jip,
@@ -265,7 +265,7 @@ words to that effect--and hid my face from the light, in the sofa
 cushion.
 
 At first Miss Mills thought it was a quarrel, and that we were verging
-on the Desert of Sahara; but she soon found out how matters stood, for
+on the [[Desert]] of Sahara; but she soon found out how matters stood, for
 my dear affectionate little Dora, embracing her, began exclaiming that I
 was ‘a poor labourer’; and then cried for me, and embraced me, and asked
 me would I let her give me all her money to keep, and then fell on Miss
@@ -277,7 +277,7 @@ gradually convinced her that I was not a labourer--from my manner of
 stating the case I believe Dora concluded that I was a navigator,
 and went balancing myself up and down a plank all day with a
 wheelbarrow--and so brought us together in peace. When we were quite
-composed, and Dora had gone up-stairs to put some rose-water to her
+composed, and Dora had gone up-stairs to put some [[Rose|rose]]-[[Water|water]] to her
 eyes, Miss Mills rang for tea. In the ensuing interval, I told Miss
 Mills that she was evermore my friend, and that my heart must cease to
 vibrate ere I could forget her sympathy.
@@ -285,12 +285,12 @@ vibrate ere I could forget her sympathy.
 I then expounded to Miss Mills what I had endeavoured, so very
 unsuccessfully, to expound to Dora. Miss Mills replied, on general
 principles, that the Cottage of content was better than the Palace of
-cold splendour, and that where love was, all was.
+cold splendour, and that where [[Love|love]] was, all was.
 
 I said to Miss Mills that this was very true, and who should know
-it better than I, who loved Dora with a love that never mortal had
+it better than I, who loved Dora with a [[Love|love]] that never mortal had
 experienced yet? But on Miss Mills observing, with despondency, that
-it were well indeed for some hearts if this were so, I explained that
+it were [[Well|well]] indeed for some hearts if this were so, I explained that
 I begged leave to restrict the observation to mortals of the masculine
 gender.
 
@@ -301,12 +301,12 @@ Book?
 
 Miss Mills, after some consideration, thus replied:
 
-‘Mr. Copperfield, I will be plain with you. Mental suffering and trial
+‘Mr. Copperfield, I will be plain with you. Mental [[Suffering|suffering]] and trial
 supply, in some natures, the place of years, and I will be as plain with
 you as if I were a Lady Abbess. No. The suggestion is not appropriate
-to our Dora. Our dearest Dora is a favourite child of nature. She is a
+to our Dora. Our dearest Dora is a favourite [[Child|child]] of [[Nature|nature]]. She is a
 thing of light, and airiness, and joy. I am free to confess that if it
-could be done, it might be well, but--’ And Miss Mills shook her head.
+could be done, it might be [[Well|well]], but--’ And Miss Mills shook her head.
 
 I was encouraged by this closing admission on the part of Miss Mills to
 ask her, whether, for Dora’s sake, if she had any opportunity of luring
@@ -322,28 +322,28 @@ doubted whether she ought to be troubled with anything so ordinary. And
 she loved me so much, and was so captivating (particularly when she made
 Jip stand on his hind legs for toast, and when she pretended to hold
 that nose of his against the hot teapot for punishment because he
-wouldn’t), that I felt like a sort of Monster who had got into a Fairy’s
+wouldn’t), that I felt like a sort of [[Monster]] who had got into a Fairy’s
 bower, when I thought of having frightened her, and made her cry.
 
 After tea we had the guitar; and Dora sang those same dear old French
-songs about the impossibility of ever on any account leaving off
-dancing, La ra la, La ra la, until I felt a much greater Monster than
+[[songs]] about the impossibility of ever on any account leaving off
+dancing, La ra la, La ra la, until I felt a much greater [[Monster]] than
 before.
 
 We had only one check to our pleasure, and that happened a little while
 before I took my leave, when, Miss Mills chancing to make some allusion
 to tomorrow morning, I unluckily let out that, being obliged to exert
-myself now, I got up at five o’clock. Whether Dora had any idea that
+myself now, I got up at five o’[[Clock|clock]]. Whether Dora had any idea that
 I was a Private Watchman, I am unable to say; but it made a great
 impression on her, and she neither played nor sang any more.
 
 It was still on her mind when I bade her adieu; and she said to me, in
 her pretty coaxing way--as if I were a doll, I used to think:
 
-‘Now don’t get up at five o’clock, you naughty boy. It’s so
+‘Now don’t get up at five o’[[Clock|clock]], you naughty boy. It’s so
 nonsensical!’
 
-‘My love,’ said I, ‘I have work to do.’
+‘My [[Love|love]],’ said I, ‘I have work to do.’
 
 ‘But don’t do it!’ returned Dora. ‘Why should you?’
 
@@ -357,13 +357,13 @@ than lightly and playfully, that we must work to live.
 ‘How? Any how!’ said Dora.
 
 She seemed to think she had quite settled the question, and gave me such
-a triumphant little kiss, direct from her innocent heart, that I would
+a triumphant little kiss, direct from her [[Innocent|innocent]] heart, that I would
 hardly have put her out of conceit with her answer, for a fortune.
 
-Well! I loved her, and I went on loving her, most absorbingly, entirely,
+[[Well]]! I loved her, and I went on loving her, most absorbingly, entirely,
 and completely. But going on, too, working pretty hard, and busily
-keeping red-hot all the irons I now had in the fire, I would sit
-sometimes of a night, opposite my aunt, thinking how I had frightened
-Dora that time, and how I could best make my way with a guitar-case
+keeping red-hot all the irons I now had in the [[Fire|fire]], I would sit
+sometimes of a [[Night|night]], opposite my aunt, thinking how I had frightened
+Dora that [[Time|time]], and how I could best make my way with a guitar-case
 through the forest of difficulty, until I used to fancy that my head was
 turning quite grey.

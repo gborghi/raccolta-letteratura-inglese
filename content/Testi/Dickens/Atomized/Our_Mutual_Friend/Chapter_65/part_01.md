@@ -19,29 +19,29 @@ Chapter 6
 A CRY FOR HELP
 
 
-The Paper Mill had stopped work for the night, and the paths and roads
-in its neighbourhood were sprinkled with clusters of people going home
+The Paper Mill had stopped work for the [[Night|night]], and the paths and roads
+in its neighbourhood were sprinkled with clusters of people going [[Home|home]]
 from their day’s labour in it. There were men, women, and children in
 the groups, and there was no want of lively colour to flutter in the
-gentle evening wind. The mingling of various voices and the sound of
+gentle evening [[Wind|wind]]. The mingling of various voices and the sound of
 laughter made a cheerful impression upon the ear, analogous to that of
-the fluttering colours upon the eye. Into the sheet of water reflecting
+the fluttering colours upon the eye. Into the sheet of [[Water|water]] reflecting
 the flushed sky in the foreground of the living picture, a knot of
 urchins were casting stones, and watching the expansion of the rippling
 circles. So, in the rosy evening, one might watch the ever-widening
-beauty of the landscape—beyond the newly-released workers wending
-home—beyond the silver river—beyond the deep green fields of corn, so
+[[Beauty|beauty]] of the landscape—beyond the newly-released workers wending
+[[Home|home]]—beyond the silver [[River|river]]—beyond the deep green fields of corn, so
 prospering, that the loiterers in their narrow threads of pathway seemed
 to float immersed breast-high—beyond the hedgerows and the clumps of
 trees—beyond the windmills on the ridge—away to where the sky appeared
 to meet the earth, as if there were no immensity of space between
 mankind and Heaven.
 
-It was a Saturday evening, and at such a time the village dogs, always
+It was a Saturday evening, and at such a [[Time|time]] the village [[dogs]], always
 much more interested in the doings of humanity than in the affairs of
 their own species, were particularly active. At the general shop, at
-the butcher’s and at the public-house, they evinced an inquiring spirit
-never to be satiated. Their especial interest in the public-house would
+the butcher’s and at the public-[[house]], they evinced an inquiring spirit
+never to be satiated. Their especial interest in the public-[[house]] would
 seem to imply some latent rakishness in the canine character; for little
 was eaten there, and they, having no taste for beer or tobacco (Mrs
 Hubbard’s dog is said to have smoked, but proof is wanting), could only
@@ -49,24 +49,24 @@ have been attracted by sympathy with loose convivial habits. Moreover,
 a most wretched fiddle played within; a fiddle so unutterably vile, that
 one lean long-bodied cur, with a better ear than the rest, found himself
 under compulsion at intervals to go round the corner and howl. Yet, even
-he returned to the public-house on each occasion with the tenacity of a
+he returned to the public-[[house]] on each occasion with the tenacity of a
 confirmed drunkard.
 
 Fearful to relate, there was even a sort of little Fair in the village.
 Some despairing gingerbread that had been vainly trying to dispose of
-itself all over the country, and had cast a quantity of dust upon its
+itself all over the country, and had cast a quantity of [[Dust|dust]] upon its
 head in its mortification, again appealed to the public from an infirm
 booth. So did a heap of nuts, long, long exiled from Barcelona, and yet
 speaking English so indifferently as to call fourteen of themselves
 a pint. A Peep-show which had originally started with the Battle of
 Waterloo, and had since made it every other battle of later date
 by altering the Duke of Wellington’s nose, tempted the student of
-illustrated history. A Fat Lady, perhaps in part sustained upon
+illustrated [[history]]. A Fat Lady, perhaps in part sustained upon
 postponed pork, her professional associate being a Learned Pig,
 displayed her life-size picture in a low dress as she appeared when
-presented at Court, several yards round. All this was a vicious
+presented at [[Court]], several yards round. All this was a vicious
 spectacle as any poor idea of amusement on the part of the rougher
-hewers of wood and drawers of water in this land of England ever is and
+hewers of wood and drawers of [[Water|water]] in this land of England ever is and
 shall be. They MUST NOT vary the rheumatism with amusement. They may
 vary it with fever and ague, or with as many rheumatic variations as
 they have joints; but positively not with entertainment after their own
@@ -75,8 +75,8 @@ manner.
 The various sounds arising from this scene of depravity, and floating
 away into the still evening air, made the evening, at any point which
 they just reached fitfully, mellowed by the distance, more still by
-contrast. Such was the stillness of the evening to Eugene Wrayburn, as
-he walked by the river with his hands behind him.
+contrast. Such was the stillness of the evening to [[Eugene Wrayburn]], as
+he walked by the [[River|river]] with his hands behind him.
 
 He walked slowly, and with the measured step and preoccupied air of one
 who was waiting. He walked between the two points, an osier-bed at this
@@ -86,7 +86,7 @@ looked expectantly in one direction.
 ‘It is very quiet,’ said he.
 
 It was very quiet. Some sheep were grazing on the grass by the
-river-side, and it seemed to him that he had never before heard the
+[[River|river]]-side, and it seemed to him that he had never before heard the
 crisp tearing sound with which they cropped it. He stopped idly, and
 looked at them.
 
@@ -114,10 +114,10 @@ back, and resumed his walk.
 
 ‘If I had not a reliance on her being truthful,’ said Eugene, after
 taking some half-dozen turns, ‘I should begin to think she had given me
-the slip for the second time. But she promised, and she is a girl of her
+the slip for the second [[Time|time]]. But she promised, and she is a girl of her
 word.’
 
-Turning again at the water-lilies, he saw her coming, and advanced to
+Turning again at the [[Water|water]]-lilies, he saw her coming, and advanced to
 meet her.
 
 ‘I was saying to myself, Lizzie, that you were sure to come, though you

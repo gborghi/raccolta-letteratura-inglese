@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN"
+title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -28,11 +28,11 @@ the form of a Private Bill, which of all kinds and classes of bills
 is without exception the most unreasonable in its charges--Mr Bailey,
 Junior, just tall enough to be seen by an inquiring eye, gazing
 indolently at society from beneath the apron of his master’s cab, drove
-slowly up and down Pall Mall, about the hour of noon, in waiting for his
-‘Governor.’ The horse of distinguished family, who had Capricorn for his
+slowly up and down Pall Mall, about the hour of [[Noon|noon]], in waiting for his
+‘Governor.’ The [[Horse|horse]] of distinguished family, who had Capricorn for his
 nephew, and Cauliflower for his brother, showed himself worthy of his
 high relations by champing at the bit until his chest was white with
-foam, and rearing like a horse in heraldry; the plated harness and the
+foam, and rearing like a [[Horse|horse]] in heraldry; the plated harness and the
 patent leather glittered in the sun; pedestrians admired; Mr Bailey was
 complacent, but unmoved. He seemed to say, ‘A barrow, good people, a
 mere barrow; nothing to what we could do, if we chose!’ and on he went,
@@ -59,10 +59,10 @@ Bailey, not at all disturbed, had still a shower of pleasantries to
 bestow on any one who crossed his path; as, calling to a full-grown
 coal-heaver in a wagon, who for a moment blocked the way, ‘Now, young
 ‘un, who trusted YOU with a cart?’ inquiring of elderly ladies who
-wanted to cross, and ran back again, ‘Why they didn’t go to the
+wanted to [[Cross|cross]], and ran back again, ‘Why they didn’t go to the
 workhouse and get an order to be buried?’ tempting boys, with friendly
 words, to get up behind, and immediately afterwards cutting them down;
-and the like flashes of a cheerful humour, which he would occasionally
+and the like flashes of a cheerful [[Humour|humour]], which he would occasionally
 relieve by going round St. James’s Square at a hand gallop, and coming
 slowly into Pall Mall by another entry, as if, in the interval, his pace
 had been a perfect crawl.
@@ -70,7 +70,7 @@ had been a perfect crawl.
 It was not until these amusements had been very often repeated, and the
 apple-stall at the corner had sustained so many miraculous escapes as to
 appear impregnable, that Mr Bailey was summoned to the door of a certain
-house in Pall Mall, and turning short, obeyed the call and jumped out.
+[[house]] in Pall Mall, and turning short, obeyed the call and jumped out.
 It was not until he had held the bridle for some minutes longer, every
 jerk of Cauliflower’s brother’s head, and every twitch of Cauliflower’s
 brother’s nostril, taking him off his legs in the meanwhile, that
@@ -87,15 +87,15 @@ The appearance of Mr Bailey’s governor as he drove along fully justified
 that enthusiastic youth’s description of him to the wondering Poll. He
 had a world of jet-black shining hair upon his head, upon his cheeks,
 upon his chin, upon his upper lip. His clothes, symmetrically made, were
-of the newest fashion and the costliest kind. Flowers of gold and blue,
-and green and blushing red, were on his waistcoat; precious chains
+of the newest fashion and the costliest kind. [[Flowers]] of gold and blue,
+and green and blushing red, were on his waistcoat; precious [[Chains|chains]]
 and jewels sparkled on his breast; his fingers, clogged with brilliant
-rings, were as unwieldly as summer flies but newly rescued from a
+rings, were as unwieldly as [[Summer|summer]] flies but newly rescued from a
 honey-pot. The daylight mantled in his gleaming hat and boots as in
 a polished glass. And yet, though changed his name, and changed his
 outward surface, it was Tigg. Though turned and twisted upside down,
 and inside out, as great men have been sometimes known to be; though
-no longer Montague Tigg, but Tigg Montague; still it was Tigg; the same
+no longer [[Montague Tigg]], but Tigg Montague; still it was Tigg; the same
 Satanic, gallant, military Tigg. The brass was burnished, lacquered,
 newly stamped; yet it was the true Tigg metal notwithstanding.
 
@@ -105,7 +105,7 @@ shall it be phrased?--the triumvirate of golden balls? Not David,
 tapster at the Lombards’ Arms? Yes. The very man.
 
 ‘The secretary’s salary, David,’ said Mr Montague, ‘the office being
-now established, is eight hundred pounds per annum, with his house-rent,
+now established, is eight hundred pounds per annum, with his [[house]]-rent,
 coals, and candles free. His five-and-twenty shares he holds, of course.
 Is that enough?’
 
@@ -116,7 +116,7 @@ question.
 ‘If that’s enough,’ said Montague, ‘I will propose it at the Board
 to-day, in my capacity as chairman.’
 
-The secretary smiled again; laughed, indeed, this time; and said,
+The secretary smiled again; laughed, indeed, this [[Time|time]]; and said,
 rubbing his nose slily with one end of the portfolio:
 
 ‘It was a capital thought, wasn’t it?’
@@ -126,7 +126,7 @@ rubbing his nose slily with one end of the portfolio:
 ‘The Anglo-Bengalee,’ tittered the secretary.
 
 ‘The Anglo-Bengalee Disinterested Loan and Life Assurance Company is
-rather a capital concern, I hope, David,’ said Montague.
+rather a capital concern, I [[Hope|hope]], David,’ said Montague.
 
 ‘Capital indeed!’ cried the secretary, with another laugh--’ in one
 sense.’
@@ -151,7 +151,7 @@ alarm had subsided.
 
 ‘Say, genius, David, genius.’
 
-‘Well, upon my soul, you ARE a genius then,’ said David. ‘I always knew
+‘[[Well]], upon my [[Soul|soul]], you ARE a genius then,’ said David. ‘I always knew
 you had the gift of the gab, of course; but I never believed you were
 half the man you are. How could I?’
 
@@ -174,18 +174,18 @@ friend, for he laughed too, heartily.
 ‘--Being,’ resumed David, ‘being amenable--your property in Bengal being
 amenable--to all claims upon the company; when I look at you and think
 of that, you might tickle me into fits by waving the feather of a pen at
-me. Upon my soul you might!’
+me. Upon my [[Soul|soul]] you might!’
 
 ‘It a devilish fine property,’ said Tigg Montague, ‘to be amenable
-to any claims. The preserve of tigers alone is worth a mint of money,
+to any claims. The preserve of tigers [[Alone|alone]] is worth a mint of money,
 David.’
 
 David could only reply in the intervals of his laughter, ‘Oh, what a
 chap you are!’ and so continued to laugh, and hold his sides, and wipe
-his eyes, for some time, without offering any other observation.
+his eyes, for some [[Time|time]], without offering any other observation.
 
-‘A capital idea?’ said Tigg, returning after a time to his companion’s
-first remark; ‘no doubt it was a capital idea. It was my idea.’
+‘A capital idea?’ said Tigg, returning after a [[Time|time]] to his companion’s
+first remark; ‘no [[Doubt|doubt]] it was a capital idea. It was my idea.’
 
 ‘No, no. It was my idea,’ said David. ‘Hang it, let a man have some
 credit. Didn’t I say to you that I’d saved a few pounds?--’
@@ -240,29 +240,29 @@ upon this great principle, was thriving pretty comfortably.
 
 The Anglo-Bengalee Disinterested Loan and Life Assurance Company started
 into existence one morning, not an Infant Institution, but a Grown-up
-Company running alone at a great pace, and doing business right and
+Company running [[Alone|alone]] at a great pace, and doing business right and
 left: with a ‘branch’ in a first floor over a tailor’s at the west-end
-of the town, and main offices in a new street in the City, comprising
-the upper part of a spacious house resplendent in stucco and
+of the town, and main offices in a new street in the [[City]], comprising
+the upper part of a spacious [[house]] resplendent in stucco and
 plate-glass, with wire-blinds in all the windows, and ‘Anglo-Bengalee’
 worked into the pattern of every one of them. On the doorpost was
 painted again in large letters, ‘offices of the Anglo-Bengalee
 Disinterested Loan and Life Assurance Company,’ and on the door was a
-large brass plate with the same inscription; always kept very bright, as
-courting inquiry; staring the City out of countenance after office hours
+large brass plate with the same [[Inscription|inscription]]; always kept very bright, as
+courting inquiry; staring the [[City]] out of countenance after office hours
 on working days, and all day long on Sundays; and looking bolder than
 the Bank. Within, the offices were newly plastered, newly painted,
 newly papered, newly countered, newly floor-clothed, newly tabled, newly
 chaired, newly fitted up in every way, with goods that were substantial
 and expensive, and designed (like the company) to last. Business! Look
 at the green ledgers with red backs, like strong cricket-balls beaten
-flat; the court-guides directories, day-books, almanacks, letter-boxes,
-weighing-machines for letters, rows of fire-buckets for dashing out a
+flat; the [[Court|court]]-guides directories, day-books, almanacks, letter-boxes,
+weighing-machines for letters, rows of [[Fire|fire]]-buckets for dashing out a
 conflagration in its first spark, and saving the immense wealth in notes
-and bonds belonging to the company; look at the iron safes, the clock,
-the office seal--in its capacious self, security for anything. Solidity!
+and bonds belonging to the company; look at the iron safes, the [[Clock|clock]],
+the office seal--in its capacious [[Self|self]], security for anything. Solidity!
 Look at the massive blocks of marble in the chimney-pieces, and the
-gorgeous parapet on the top of the house! Publicity! Why, Anglo-Bengalee
+gorgeous parapet on the top of the [[house]]! Publicity! Why, Anglo-Bengalee
 Disinterested Loan and Life Assurance company is painted on the very
 coal-scuttles. It is repeated at every turn until the eyes are dazzled
 with it, and the head is giddy. It is engraved upon the top of all the
@@ -286,7 +286,7 @@ misrepresented, he had altered it to Crimple.
 
 Lest with all these proofs and confirmations, any man should be
 suspicious of the Anglo-Bengalee Disinterested Loan and Life Assurance
-company; should doubt in tiger, cab, or person, Tigg Montague, Esquire,
+company; should [[Doubt|doubt]] in tiger, cab, or person, Tigg Montague, Esquire,
 (of Pall Mall and Bengal), or any other name in the imaginative List of
 Directors; there was a porter on the premises--a wonderful creature,
 in a vast red waistcoat and a short-tailed pepper-and-salt coat--who
@@ -300,9 +300,9 @@ terms. They were high; but he knew, doubtless, that no man could carry
 such an extent of waistcoat as himself, and felt the full value of his
 capacity to such an institution. When he sat upon a seat erected for him
 in a corner of the office, with his glazed hat hanging on a peg over his
-head, it was impossible to doubt the respectability of the concern.
+head, it was impossible to [[Doubt|doubt]] the respectability of the concern.
 It went on doubling itself with every square inch of his red waistcoat
-until, like the problem of the nails in the horse’s shoes, the total
+until, like the problem of the nails in the [[Horse|horse]]’s shoes, the total
 became enormous. People had been known to apply to effect an insurance
 on their lives for a thousand pounds, and looking at him, to beg, before
 the form of proposal was filled up, that it might be made two. And yet
@@ -315,7 +315,7 @@ Rival offices had endeavoured to lure him away; Lombard Street itself
 had beckoned to him; rich companies had whispered ‘Be a Beadle!’ but he
 still continued faithful to the Anglo-Bengalee. Whether he was a deep
 rogue, or a stately simpleton, it was impossible to make out, but he
-appeared to believe in the Anglo-Bengalee. He was grave with imaginary
+appeared to believe in the Anglo-Bengalee. He was [[Grave|grave]] with imaginary
 cares of office; and having nothing whatever to do, and something less
 to take care of, would look as if the pressure of his numerous duties,
 and a sense of the treasure in the company’s strong-room, made him a
@@ -326,7 +326,7 @@ on the pavement, crying aloud ‘Room for the chairman, room for the
 chairman, if you please!’ much to the admiration of the bystanders,
 who, it is needless to say, had their attention directed to the
 Anglo-Bengalee Company thenceforth, by that means. Mr Tigg leaped
-gracefully out, followed by the Managing Director (who was by this time
+gracefully out, followed by the Managing Director (who was by this [[Time|time]]
 very distant and respectful), and ascended the stairs, still preceded by
 the porter, who cried as he went, ‘By your leave there! by your leave!
 The Chairman of the Board, Gentle--MEN! In like manner, but in a still
@@ -368,16 +368,16 @@ see you.’
 himself luxuriously into an easy-chair (they were all easy-chairs in the
 board-room), and taking a handsome gold snuff-box from the pocket of his
 black satin waistcoat. ‘How are you? A little worn with business, eh? If
-so, rest. A little feverish from wine, humph? If so, water. Nothing
+so, rest. A little feverish from wine, humph? If so, [[Water|water]]. Nothing
 at all the matter, and quite comfortable? Then take some lunch. A very
-wholesome thing at this time of day to strengthen the gastric juices
+wholesome thing at this [[Time|time]] of day to strengthen the gastric juices
 with lunch, Mr Montague.’
 
 The Medical Officer (he was the same medical officer who had followed
-poor old Anthony Chuzzlewit to the grave, and who had attended Mrs
+poor old Anthony Chuzzlewit to the [[Grave|grave]], and who had attended Mrs
 Gamp’s patient at the Bull) smiled in saying these words; and casually
 added, as he brushed some grains of snuff from his shirt-frill, ‘I
-always take it myself about this time of day, do you know!’
+always take it myself about this [[Time|time]] of day, do you know!’
 
 ‘Bullamy!’ said the Chairman, ringing the little bell.
 
@@ -385,7 +385,7 @@ always take it myself about this time of day, do you know!’
 
 ‘Lunch.’
 
-‘Not on my account, I hope?’ said the doctor. ‘You are very good. Thank
+‘Not on my account, I [[Hope|hope]]?’ said the doctor. ‘You are very good. Thank
 you. I’m quite ashamed. Ha, ha! if I had been a sharp practitioner,
 Mr Montague, I shouldn’t have mentioned it without a fee; for you may
 depend upon it, my dear sir, that if you don’t make a point of taking
@@ -423,7 +423,7 @@ The doctor let Mr Crimple’s leg fall suddenly, as if he were already in
 that agreeable condition; turned down his wristbands again, and looked
 triumphantly at the chairman.
 
-‘We know a few secrets of nature in our profession, sir,’ said the
+‘We know a few [[Secrets|secrets]] of [[Nature|nature]] in our profession, sir,’ said the
 doctor. ‘Of course we do. We study for that; we pass the Hall and the
 College for that; and we take our station in society BY that. It’s
 extraordinary how little is known on these subjects generally. Where
@@ -444,13 +444,13 @@ Crimple.
 ‘You think you do,’ replied the doctor; ‘but science knows better. There
 was a patient of mine once,’ touching one of the many mourning rings
 upon his fingers, and slightly bowing his head, ‘a gentleman who did
-me the honour to make a very handsome mention of me in his will--“in
+me the [[Honour|honour]] to make a very handsome mention of me in his will--“in
 testimony,” as he was pleased to say, “of the unremitting zeal, talent,
 and attention of my friend and medical attendant, John Jobling, Esquire,
 M.R.C.S.,”--who was so overcome by the idea of having all his life
 laboured under an erroneous view of the locality of this important
 organ, that when I assured him on my professional reputation, he was
-mistaken, he burst into tears, put out his hand, and said, “Jobling,
+mistaken, he burst into [[Tears|tears]], put out his hand, and said, “Jobling,
 God bless you!” Immediately afterwards he became speechless, and was
 ultimately buried at Brixton.’
 
@@ -465,10 +465,10 @@ and drink whenever we can. Eh, Mr Crimple?’
 The resident Director acquiesced rather sulkily, as if the gratification
 of replenishing his stomach had been impaired by the unsettlement of his
 preconceived opinions in reference to its situation. But the appearance
-of the porter and under-porter with a tray covered with a snow-white
+of the porter and under-porter with a tray covered with a [[Snow|snow]]-white
 cloth, which, being thrown back, displayed a pair of cold roast fowls,
 flanked by some potted meats and a cool salad, quickly restored his
-good humour. It was enhanced still further by the arrival of a bottle
+good [[Humour|humour]]. It was enhanced still further by the arrival of a bottle
 of excellent madeira, and another of champagne; and he soon attacked
 the repast with an appetite scarcely inferior to that of the medical
 officer.
@@ -481,7 +481,7 @@ joyous and red-faced, insomuch that every mouthful he ate, and every
 drop of wine he swallowed, seemed to impart new lustre to his eyes, and
 to light up new sparks in his nose and forehead.
 
-In certain quarters of the City and its neighbourhood, Mr Jobling was,
+In certain quarters of the [[City]] and its neighbourhood, Mr Jobling was,
 as we have already seen in some measure, a very popular character. He
 had a portentously sagacious chin, and a pompous voice, with a rich
 huskiness in some of its tones that went directly to the heart, like a
@@ -490,7 +490,7 @@ His neckerchief and shirt-frill were ever of the whitest, his clothes of
 the blackest and sleekest, his gold watch-chain of the heaviest, and
 his seals of the largest. His boots, which were always of the brightest,
 creaked as he walked. Perhaps he could shake his head, rub his hands,
-or warm himself before a fire, better than any man alive; and he had a
+or warm himself before a [[Fire|fire]], better than any man alive; and he had a
 peculiar way of smacking his lips and saying, ‘Ah!’ at intervals while
 patients detailed their symptoms, which inspired great confidence. It
 seemed to express, ‘I know what you’re going to say better than you do;
@@ -508,7 +508,7 @@ Jobling was for many reasons, and not last in the list because his
 connection lay principally among tradesmen and their families, exactly
 the sort of person whom the Anglo-Bengalee Company wanted for a medical
 officer. But Jobling was far too knowing to connect himself with the
-company in any closer ties than as a paid (and well paid) functionary,
+company in any closer ties than as a paid (and [[Well|well]] paid) functionary,
 or to allow his connection to be misunderstood abroad, if he could help
 it. Hence he always stated the case to an inquiring patient, after this
 manner:
@@ -517,8 +517,8 @@ manner:
 you see, is limited; very limited. I am the medical officer, in
 consideration of a certain monthly payment. The labourer is worthy of
 his hire; BIS DAT QUI CITO DAT’--[‘classical scholar, Jobling!’ thinks
-the patient, ‘well-read man!’)--‘and I receive it regularly. Therefore
-I am bound, so far as my own knowledge goes, to speak well of the
+the patient, ‘[[Well|well]]-read man!’)--‘and I receive it regularly. Therefore
+I am bound, so far as my own knowledge goes, to speak [[Well|well]] of the
 establishment.’ [‘Nothing can be fairer than Jobling’s conduct,’ thinks
 the patient, who has just paid Jobling’s bill himself.) ‘If you put
 any question to me, my dear friend,’ says the doctor, ‘touching the
@@ -530,7 +530,7 @@ characteristics of a medical man.’ [‘Nothing can be finer or more
 gentlemanly than Jobling’s feeling,’ thinks the patient.) ‘Very good,
 my dear sir, so the matter stands. You don’t know Mr Montague? I’m sorry
 for it. A remarkably handsome man, and quite the gentleman in every
-respect. Property, I am told, in India. House and everything belonging
+respect. Property, I am told, in India. [[house|House]] and everything belonging
 to him, beautiful. Costly furniture on the most elegant and lavish
 scale. And pictures, which, even in an anatomical point of view, are
 perfection. In case you should ever think of doing anything with the
@@ -539,14 +539,14 @@ report you a healthy subject. If I understand any man’s constitution, it
 is yours; and this little indisposition has done him more good,
 ma’am,’ says the doctor, turning to the patient’s wife, ‘than if he had
 swallowed the contents of half the nonsensical bottles in my surgery.
-For they ARE nonsense--to tell the honest truth, one half of them are
+For they ARE nonsense--to tell the honest [[Truth|truth]], one half of them are
 nonsense--compared with such a constitution as his!’ [‘Jobling is the
 most friendly creature I ever met with in my life,’ thinks the patient;
-‘and upon my word and honour, I’ll consider of it!’)
+‘and upon my word and [[Honour|honour]], I’ll consider of it!’)
 
 ‘Commission to you, doctor, on four new policies, and a loan this
 morning, eh?’ said Crimple, looking, when they had finished lunch, over
-some papers brought in by the porter. ‘Well done!’
+some papers brought in by the porter. ‘[[Well]] done!’
 
 ‘Jobling, my dear friend,’ said Tigg, ‘long life to you.’
 
@@ -554,12 +554,12 @@ some papers brought in by the porter. ‘Well done!’
 said the doctor, ‘I haven’t really. It’s picking your pocket. I don’t
 recommend anybody here. I only say what I know. My patients ask me what
 I know, and I tell ‘em what I know. Nothing else. Caution is my weak
-side, that’s the truth; and always was from a boy. That is,’ said the
+side, that’s the [[Truth|truth]]; and always was from a boy. That is,’ said the
 doctor, filling his glass, ‘caution in behalf of other people. Whether I
 would repose confidence in this company myself, if I had not been paying
 money elsewhere for many years--that’s quite another question.’
 
-He tried to look as if there were no doubt about it; but feeling that he
+He tried to look as if there were no [[Doubt|doubt]] about it; but feeling that he
 did it but indifferently, changed the theme and praised the wine.
 
 ‘Talking of wine,’ said the doctor, ‘reminds me of one of the finest
@@ -567,7 +567,7 @@ glasses of light old port I ever drank in my life; and that was at a
 funeral. You have not seen anything of--of THAT party, Mr Montague, have
 you?’ handing him a card.
 
-‘He is not buried, I hope?’ said Tigg, as he took it. ‘The honour of his
+‘He is not buried, I [[Hope|hope]]?’ said Tigg, as he took it. ‘The [[Honour|honour]] of his
 company is not requested if he is.’
 
 ‘Ha, ha!’ laughed the doctor. ‘No; not quite. He was honourably
@@ -596,7 +596,7 @@ other door. Mr Crimple, business.’
 smiling sweetly.
 
 The doctor disappeared into the outer office, and immediately returned
-with Jonas Chuzzlewit.
+with [[Jonas Chuzzlewit]].
 
 ‘Mr Montague,’ said Jobling. ‘Allow me. My friend Mr Chuzzlewit. My dear
 friend--our chairman. Now do you know,’ he added checking himself with
@@ -615,31 +615,31 @@ Pending these remarks on the part of the doctor, and the lengthened and
 sonorous pinch with which he followed them up, Jonas took a seat at
 the board; as ungainly a man as ever he has been within the reader’s
 knowledge. It is too common with all of us, but it is especially in
-the nature of a mean mind, to be overawed by fine clothes and fine
+the [[Nature|nature]] of a mean mind, to be overawed by fine clothes and fine
 furniture. They had a very decided influence on Jonas.
 
 ‘Now you two gentlemen have business to discuss, I know,’ said the
-doctor, ‘and your time is precious. So is mine; for several lives are
+doctor, ‘and your [[Time|time]] is precious. So is mine; for several lives are
 waiting for me in the next room, and I have a round of visits to make
 after--after I have taken ‘em. Having had the happiness to introduce you
 to each other, I may go about my business. Good-bye. But allow me, Mr
 Montague, before I go, to say this of my friend who sits beside you:
 That gentleman has done more, sir,’ rapping his snuff-box solemnly, ‘to
-reconcile me to human nature, than any man alive or dead. Good-bye!’
+reconcile me to human [[Nature|nature]], than any man alive or dead. Good-bye!’
 
 With these words Jobling bolted abruptly out of the room, and proceeded
 in his own official department, to impress the lives in waiting with a
 sense of his keen conscientiousness in the discharge of his duty, and
 the great difficulty of getting into the Anglo-Bengalee; by feeling
 their pulses, looking at their tongues, listening at their ribs,
-poking them in the chest, and so forth; though, if he didn’t well know
+poking them in the chest, and so forth; though, if he didn’t [[Well|well]] know
 beforehand that whatever kind of lives they were, the Anglo-Bengalee
 would accept them readily, he was far from being the Jobling that his
 friend considered him; and was not the original Jobling, but a spurious
-imitation.
+[[Imitation|imitation]].
 
 Mr Crimple also departed on the business of the morning; and Jonas
-Chuzzlewit and Tigg were left alone.
+Chuzzlewit and Tigg were left [[Alone|alone]].
 
 ‘I learn from our friend,’ said Tigg, drawing his chair towards Jonas
 with a winning ease of manner, ‘that you have been thinking--’
@@ -650,7 +650,7 @@ coming here for such or such a purpose, why, that’s his lookout. I don’t
 stand committed by that.’
 
 Jonas said this offensively enough; for over and above the habitual
-distrust of his character, it was in his nature to seek to revenge
+distrust of his character, it was in his [[Nature|nature]] to seek to [[Revenge|revenge]]
 himself on the fine clothes and the fine furniture, in exact proportion
 as he had been unable to withstand their influence.
 
@@ -661,16 +661,16 @@ know,’ said Jonas.
 ‘My dear fellow!’ cried Tigg, clapping him on the shoulder, ‘I applaud
 your frankness. If men like you and I speak openly at first, all
 possible misunderstanding is avoided. Why should I disguise what you
-know so well, but what the crowd never dream of? We companies are all
-birds of prey; mere birds of prey. The only question is, whether in
-serving our own turn, we can serve yours too; whether in double-lining
+know so [[Well|well]], but what the crowd never dream of? We companies are all
+[[Birds|birds]] of prey; mere [[Birds|birds]] of prey. The only question is, whether in
+serving our own turn, we can serve yours too; whether in [[Double|double]]-lining
 our own nest, we can put a single living into yours. Oh, you’re in our
 secret. You’re behind the scenes. We’ll make a merit of dealing plainly
 with you, when we know we can’t help it.’
 
 It was remarked, on the first introduction of Mr Jonas into these pages,
 that there is a simplicity of cunning no less than a simplicity of
-innocence, and that in all matters involving a faith in knavery, he was
+[[innocence]], and that in all matters involving a [[Faith|faith]] in knavery, he was
 the most credulous of men. If Mr Tigg had preferred any claim to high
 and honourable dealing, Jonas would have suspected him though he had
 been a very model of probity; but when he gave utterance to Jonas’s own
@@ -684,14 +684,14 @@ more boastful attitude; and smiling in his miserable conceit rejoined:
 it, I WILL say.’
 
 ‘Tut, tut,’ said Tigg, nodding confidentially, and showing his white
-teeth; ‘we are not children, Mr Chuzzlewit; we are grown men, I hope.’
+teeth; ‘we are not children, Mr Chuzzlewit; we are grown men, I [[Hope|hope]].’
 
-Jonas assented, and said after a short silence, first spreading out his
-legs, and sticking one arm akimbo to show how perfectly at home he was,
+Jonas assented, and said after a short [[Silence|silence]], first spreading out his
+legs, and sticking one arm akimbo to show how perfectly at [[Home|home]] he was,
 
-‘The truth is--’
+‘The [[Truth|truth]] is--’
 
-‘Don’t say, the truth,’ interposed Tigg, with another grin. ‘It’s so
+‘Don’t say, the [[Truth|truth]],’ interposed Tigg, with another grin. ‘It’s so
 like humbug.’
 
 Greatly charmed by this, Jonas began again.
@@ -700,7 +700,7 @@ Greatly charmed by this, Jonas began again.
 
 ‘Better,’ muttered Tigg. ‘Much better!’
 
-‘--That I didn’t consider myself very well used by one or two of the old
+‘--That I didn’t consider myself very [[Well|well]] used by one or two of the old
 companies in some negotiations I have had with ‘em--once had, I mean.
 They started objections they had no right to start, and put questions
 they had no right to put, and carried things much too high for my
@@ -715,7 +715,7 @@ pleasantest manner:
 ‘Take a glass of wine.’
 
 ‘No, no,’ returned Jonas, with a cunning shake of the head; ‘none of
-that, thankee. No wine over business. All very well for you, but it
+that, thankee. No wine over business. All very [[Well|well]] for you, but it
 wouldn’t do for me.’
 
 ‘What an old hand you are, Mr Chuzzlewit!’ said Tigg, leaning back in
@@ -739,16 +739,16 @@ about it; which I’d much rather not do, for it’s just in a woman’s way
 to take it into her head, if you talk to her about such things, that
 she’s going to die directly.’
 
-‘So it is,’ cried Tigg, kissing his hand in honour of the sex. ‘You’re
+‘So it is,’ cried Tigg, kissing his hand in [[Honour|honour]] of the sex. ‘You’re
 quite right. Sweet, silly, fluttering little simpletons!’
 
-‘Well,’ said Jonas, ‘on that account, you know, and because offence
+‘[[Well]],’ said Jonas, ‘on that account, you know, and because offence
 has been given me in other quarters, I wouldn’t mind patronizing this
 Company. But I want to know what sort of security there is for the
 Company’s going on. That’s the--’
 
-‘Not the truth?’ cried Tigg, holding up his jewelled hand. ‘Don’t use
-that Sunday School expression, please!’
+‘Not the [[Truth|truth]]?’ cried Tigg, holding up his jewelled hand. ‘Don’t use
+that [[Sunday]] School expression, please!’
 
 ‘The long and the short of it,’ said Jonas. ‘The long and the short of
 it is, what’s the security?’
@@ -760,7 +760,7 @@ on the table, ‘is, at this present moment--’
 
 ‘You do?’ cried Tigg, stopping short.
 
-‘I should hope so.’
+‘I should [[Hope|hope]] so.’
 
 He turned the papers down again, and moving nearer to him, said in his
 ear:
@@ -787,7 +787,7 @@ don’t mean when--’
 ‘Yes,’ cried Tigg, ‘when there was a very charming and delightful little
 family party, at which yourself and your respected father assisted.’
 
-‘Well, never mind HIM,’ said Jonas. ‘He’s dead, and there’s no help for
+‘[[Well]], never mind HIM,’ said Jonas. ‘He’s dead, and there’s no help for
 it.’
 
 ‘Dead, is he!’ cried Tigg, ‘Venerable old gentleman, is he dead! You’re
@@ -798,10 +798,10 @@ because of his own private sentiments in reference to the personal
 appearance of his deceased parent; perhaps because he was not best
 pleased to find that Montague and Tigg were one. That gentleman
 perceived it, and tapping him familiarly on the sleeve, beckoned him
-to the window. From this moment, Mr Montague’s jocularity and flow of
+to the [[Window|window]]. From this moment, Mr Montague’s jocularity and flow of
 spirits were remarkable.
 
-‘Do you find me at all changed since that time?’ he asked. ‘Speak
+‘Do you find me at all changed since that [[Time|time]]?’ he asked. ‘Speak
 plainly.’
 
 Jonas looked hard at his waistcoat and jewels; and said ‘Rather, ecod!’
@@ -858,14 +858,14 @@ me to-morrow, in Pall Mall!’
 
 ‘Done!’ cried Montague. ‘Wait a bit. Take these papers with you and look
 ‘em over. See,’ he said, snatching some printed forms from the table. ‘B
-is a little tradesman, clerk, parson, artist, author, any common thing
+is a little tradesman, clerk, parson, [[Artist|artist]], author, any common thing
 you like.’
 
-‘Yes,’ said Jonas, looking greedily over his shoulder. ‘Well!’
+‘Yes,’ said Jonas, looking greedily over his shoulder. ‘[[Well]]!’
 
 ‘B wants a loan. Say fifty or a hundred pound; perhaps more; no matter.
-B proposes self and two securities. B is accepted. Two securities give
-a bond. B assures his own life for double the amount, and brings two
+B proposes [[Self|self]] and two securities. B is accepted. Two securities give
+a bond. B assures his own life for [[Double|double]] the amount, and brings two
 friends’ lives also--just to patronize the office. Ha ha, ha! Is that a
 good notion?’
 
@@ -875,7 +875,7 @@ it?’
 ‘Do it!’ repeated the chairman. ‘B’s hard up, my good fellow, and will
 do anything. Don’t you see? It’s my idea.’
 
-‘It does you honour. I’m blest if it don’t,’ said Jonas.
+‘It does you [[Honour|honour]]. I’m blest if it don’t,’ said Jonas.
 
 ‘I think it does,’ replied the chairman, ‘and I’m proud to hear you say
 so. B pays the highest lawful interest--’
@@ -885,19 +885,19 @@ so. B pays the highest lawful interest--’
 ‘Right! quite right!’ retorted Tigg. ‘And hard it is upon the part
 of the law that it should be so confoundedly down upon us unfortunate
 victims; when it takes such amazing good interest for itself from all
-its clients. But charity begins at home, and justice begins next door.
-Well! The law being hard upon us, we’re not exactly soft upon B; for
+its clients. But [[Charity|charity]] begins at [[Home|home]], and justice begins next door.
+[[Well]]! The law being hard upon us, we’re not exactly soft upon B; for
 besides charging B the regular interest, we get B’s premium, and B’s
 friends’ premiums, and we charge B for the bond, and, whether we accept
 him or not, we charge B for “inquiries” (we keep a man, at a pound a
 week, to make ‘em), and we charge B a trifle for the secretary; and in
-short, my good fellow, we stick it into B, up hill and down dale, and
+short, my good fellow, we stick it into B, up [[Hill|hill]] and down dale, and
 make a devilish comfortable little property out of him. Ha, ha, ha! I
 drive B, in point of fact,’ said Tigg, pointing to the cabriolet, ‘and a
-thoroughbred horse he is. Ha, ha, ha!’
+thoroughbred [[Horse|horse]] he is. Ha, ha, ha!’
 
 Jonas enjoyed this joke very much indeed. It was quite in his peculiar
-vein of humour.
+vein of [[Humour|humour]].
 
 ‘Then,’ said Tigg Montague, ‘we grant annuities on the very lowest and
 most advantageous terms known in the money market; and the old ladies
@@ -912,7 +912,7 @@ ha, ha! Then there are the Life Assurances without loans; the common
 policies. Very profitable, very comfortable. Money down, you know;
 repeated every year; capital fun!’
 
-‘But when they begin to fall in,’ observed Jonas. ‘It’s all very well,
+‘But when they begin to fall in,’ observed Jonas. ‘It’s all very [[Well|well]],
 while the office is young, but when the policies begin to die--that’s
 what I am thinking of.’
 
@@ -922,12 +922,12 @@ us down to a grand piano.’
 
 ‘Brought you down where?’ cried Jonas.
 
-‘I give you my sacred word of honour,’ said Tigg Montague, ‘that I
+‘I give you my sacred word of [[Honour|honour]],’ said Tigg Montague, ‘that I
 raised money on every other individual piece of property, and was left
-alone in the world with a grand piano. And it was an upright-grand too,
+[[Alone|alone]] in the world with a grand piano. And it was an upright-grand too,
 so that I couldn’t even sit upon it. But, my dear fellow, we got over
 it. We granted a great many new policies that week (liberal allowance
-to solicitors, by the bye), and got over it in no time. Whenever they
+to solicitors, by the bye), and got over it in no [[Time|time]]. Whenever they
 should chance to fall in heavily, as you very justly observe they may,
 one of these days; then--’ he finished the sentence in so low a whisper,
 that only one disconnected word was audible, and that imperfectly. But
@@ -935,11 +935,11 @@ it sounded like ‘Bolt.’
 
 ‘Why, you’re as bold as brass!’ said Jonas, in the utmost admiration.
 
-‘A man can well afford to be as bold as brass, my good fellow, when he
+‘A man can [[Well|well]] afford to be as bold as brass, my good fellow, when he
 gets gold in exchange!’ cried the chairman, with a laugh that shook him
 from head to foot. ‘You’ll dine with me to-morrow?’
 
-‘At what time?’ asked Jonas.
+‘At what [[Time|time]]?’ asked Jonas.
 
 ‘Seven. Here’s my card. Take the documents. I see you’ll join us!’
 
@@ -955,7 +955,7 @@ Being charged to show Jonas out, it went before; and the voice within it
 cried, as usual, ‘By your leave there, by your leave! Gentleman from the
 board-room, by your leave!’
 
-Mr Montague being left alone, pondered for some moments, and then said,
+Mr Montague being left [[Alone|alone]], pondered for some moments, and then said,
 raising his voice:
 
 ‘Is Nadgett in the office there?’
@@ -967,18 +967,18 @@ He was the man at a pound a week who made the inquiries. It was no
 virtue or merit in Nadgett that he transacted all his Anglo-Bengalee
 business secretly and in the closest confidence; for he was born to be
 a secret. He was a short, dried-up, withered old man, who seemed to have
-secreted his very blood; for nobody would have given him credit for the
-possession of six ounces of it in his whole body. How he lived was a
+secreted his very [[Blood|blood]]; for nobody would have given him credit for the
+possession of six ounces of it in his whole [[Body|body]]. How he lived was a
 secret; where he lived was a secret; and even what he was, was a secret.
 In his musty old pocket-book he carried contradictory cards, in some of
 which he called himself a coal-merchant, in others a wine-merchant,
 in others a commission-agent, in others a collector, in others an
 accountant; as if he really didn’t know the secret himself. He was
-always keeping appointments in the City, and the other man never seemed
+always keeping appointments in the [[City]], and the other man never seemed
 to come. He would sit on ‘Change for hours, looking at everybody who
 walked in and out, and would do the like at Garraway’s, and in other
 business coffee-rooms, in some of which he would be occasionally seen
-drying a very damp pocket-handkerchief before the fire, and still
+drying a very damp pocket-handkerchief before the [[Fire|fire]], and still
 looking over his shoulder for the man who never appeared. He was
 mildewed, threadbare, shabby; always had flue upon his legs and back;
 and kept his linen so secretly buttoning up and wrapping over, that he
@@ -995,10 +995,10 @@ weeks afterwards, very much to his own surprise, quite yellow. He was
 that sort of man that if he had died worth a million of money, or had
 died worth twopence halfpenny, everybody would have been perfectly
 satisfied, and would have said it was just as they expected. And yet
-he belonged to a class; a race peculiar to the City; who are secrets as
+he belonged to a class; a race peculiar to the [[City]]; who are [[Secrets|secrets]] as
 profound to one another, as they are to the rest of mankind.
 
-‘Mr Nadgett,’ said Montague, copying Jonas Chuzzlewit’s address upon a
+‘Mr Nadgett,’ said Montague, copying [[Jonas Chuzzlewit]]’s address upon a
 piece of paper, from the card which was still lying on the table, ‘any
 information about this name, I shall be glad to have myself. Don’t you
 mind what it is. Any you can scrape together, bring me. Bring it to me,
@@ -1008,7 +1008,7 @@ Nadgett put on his spectacles, and read the name attentively; then
 looked at the chairman over his glasses, and bowed; then took them off,
 and put them in their case; and then put the case in his pocket. When he
 had done so, he looked, without his spectacles, at the paper as it lay
-before him, and at the same time produced his pocket-book from somewhere
+before him, and at the same [[Time|time]] produced his pocket-book from somewhere
 about the middle of his spine. Large as it was, it was very full of
 documents, but he found a place for this one; and having clasped it
 carefully, passed it by a kind of solemn legerdemain into the same

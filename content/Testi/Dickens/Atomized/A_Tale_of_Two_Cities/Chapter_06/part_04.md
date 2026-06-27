@@ -29,7 +29,7 @@ she had repeated it.
 “Remember? No, I don’t remember. It was so very long ago.”
 
 That he had no recollection whatever of his having been brought from his
-prison to that house, was apparent to them. They heard him mutter,
+[[Prison|prison]] to that [[house]], was apparent to them. They heard him mutter,
 “One Hundred and Five, North Tower;” and when he looked about him, it
 evidently was for the strong fortress-walls which had long encompassed
 him. On their reaching the courtyard he instinctively altered his
@@ -39,8 +39,8 @@ dropped his daughter’s hand and clasped his head again.
 
 No crowd was about the door; no people were discernible at any of the
 many windows; not even a chance passerby was in the street. An unnatural
-silence and desertion reigned there. Only one soul was to be seen, and
-that was Madame Defarge--who leaned against the door-post, knitting, and
+[[Silence|silence]] and desertion reigned there. Only one [[Soul|soul]] was to be seen, and
+that was [[Madame Defarge]]--who leaned against the door-post, knitting, and
 saw nothing.
 
 The prisoner had got into a coach, and his daughter had followed
@@ -57,29 +57,29 @@ over-swinging lamps.
 
 Under the over-swinging lamps--swinging ever brighter in the better
 streets, and ever dimmer in the worse--and by lighted shops, gay crowds,
-illuminated coffee-houses, and theatre-doors, to one of the city
-gates. Soldiers with lanterns, at the guard-house there. “Your papers,
+illuminated coffee-houses, and theatre-doors, to one of the [[City|city]]
+gates. Soldiers with lanterns, at the guard-[[house]] there. “Your papers,
 travellers!” “See here then, Monsieur the Officer,” said Defarge,
 getting down, and taking him gravely apart, “these are the papers of
 monsieur inside, with the white head. They were consigned to me, with
 him, at the--” He dropped his voice, there was a flutter among the
 military lanterns, and one of them being handed into the coach by an arm
 in uniform, the eyes connected with the arm looked, not an every day
-or an every night look, at monsieur with the white head. “It is well.
+or an every [[Night|night]] look, at monsieur with the white head. “It is [[Well|well]].
 Forward!” from the uniform. “Adieu!” from Defarge. And so, under a short
 grove of feebler and feebler over-swinging lamps, out under the great
-grove of stars.
+grove of [[Stars|stars]].
 
 Beneath that arch of unmoved and eternal lights; some, so remote from
 this little earth that the learned tell us it is doubtful whether their
 rays have even yet discovered it, as a point in space where anything
-is suffered or done: the shadows of the night were broad and black.
-All through the cold and restless interval, until dawn, they once more
-whispered in the ears of Mr. Jarvis Lorry--sitting opposite the buried
+is suffered or done: the shadows of the [[Night|night]] were broad and black.
+All through the cold and restless interval, until [[Dawn|dawn]], they once more
+whispered in the ears of Mr. [[Jarvis Lorry]]--sitting opposite the buried
 man who had been dug out, and wondering what subtle powers were for ever
 lost to him, and what were capable of restoration--the old inquiry:
 
-“I hope you care to be recalled to life?”
+“I [[Hope|hope]] you care to be recalled to life?”
 
 And the old answer:
 

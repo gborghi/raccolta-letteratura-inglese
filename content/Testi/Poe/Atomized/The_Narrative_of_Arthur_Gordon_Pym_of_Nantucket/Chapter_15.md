@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 16"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 16"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -26,7 +26,7 @@ about the Auroras, to proceed through the Strait of Magellan, and up
 
 along the western coast of Patagonia; but information received at
 
-Tristan d'Acunha induced him to steer to the southward, in the hope of
+Tristan d'Acunha induced him to steer to the southward, in the [[Hope|hope]] of
 
 falling in with some small islands said to lie about the parallel of
 
@@ -48,7 +48,7 @@ we again made sail to the southward, with the resolution of penetrating
 
 in that course as far as possible. Before entering upon this portion of
 
-my narrative, it may be as well, for the information of those readers
+my narrative, it may be as [[Well|well]], for the information of those readers
 
 who have paid little attention to the progress of discovery in these
 
@@ -74,7 +74,7 @@ large cakes, and usually it was packed so closely that the vessels had
 
 great difficulty in forcing a passage. At this period Captain Cook
 
-supposed, from the vast number of birds to be seen, and from other
+supposed, from the vast number of [[Birds|birds]] to be seen, and from other
 
 indications, that he was in the near vicinity of land. He kept on to
 
@@ -90,13 +90,13 @@ but did not succeed in penetrating much farther; for, upon reaching
 
 latitude 67° 15', they found all farther progress impeded by an immense
 
-body of ice, extending all along the southern horizon as far as the eye
+[[Body|body]] of ice, extending all along the southern horizon as far as the eye
 
 could reach. This ice was of every variety--and some large floes of it,
 
 miles in extent, formed a compact mass, rising eighteen or twenty feet
 
-above the water. It being late in the season, and no hope entertained
+above the [[Water|water]]. It being late in the season, and no [[Hope|hope]] entertained
 
 of rounding these obstructions, Captain Cook now reluctantly turned to
 
@@ -112,7 +112,7 @@ In December, when the vessels were in latitude 67° 31', longitude 142°
 
 54' W., the cold was excessive, with heavy gales and fog. Here also
 
-birds were abundant; the albatross, the penguin, and the peterel
+[[Birds|birds]] were abundant; the albatross, the penguin, and the peterel
 
 especially. In latitude 70° 23' some large islands of ice were
 
@@ -134,7 +134,7 @@ frozen surface was comparatively smooth for some distance, until
 
 terminated in the extreme back-ground by gigantic ranges of ice
 
-mountains, the one towering above the other. Captain Cook concluded
+[[Mountains|mountains]], the one towering above the other. Captain Cook concluded
 
 that this vast field reached the southern pole or was joined to a
 
@@ -160,9 +160,9 @@ arrested by the ice; which, we apprehend, must always be the case in
 
 that point, and so early in the season as the sixth of January--and we
 
-should not be surprised if a portion of the icy mountains described was
+should not be surprised if a portion of the icy [[Mountains|mountains]] described was
 
-attached to the main body of Palmer's Land, or to some other portions
+attached to the main [[Body|body]] of Palmer's Land, or to some other portions
 
 of land lying farther to the southward and westward."
 
@@ -170,7 +170,7 @@ of land lying farther to the southward and westward."
 
 In 1803, Captains Kreutzenstern and Lisiausky were despatched by
 
-Alexander of Russia for the purpose of circumnavigating the globe. In
+Alexander of [[Russia]] for the purpose of circumnavigating the globe. In
 
 endeavouring to get south, they made no farther than 59° 58', in
 
@@ -208,7 +208,7 @@ it, not a particle was to be discovered, and that, upon arriving at the
 
 latitude of 74° 15', no fields, and only three islands of ice were
 
-visible. It is somewhat remarkable that, although vast flocks of birds
+visible. It is somewhat remarkable that, although vast flocks of [[Birds|birds]]
 
 were seen, and other usual indications of land, and although, south of
 
@@ -228,7 +228,7 @@ penetrating as far south as possible. On the first of February he found
 
 himself in latitude 64° 52' S., longitude 118° 27' E. The following
 
-passage is extracted from his journal of that date. "The wind soon
+passage is extracted from his journal of that date. "The [[Wind|wind]] soon
 
 freshened to an eleven-knot breeze, and we embraced this opportunity of
 
@@ -248,15 +248,15 @@ Under the date of March fourteenth I find also this entry. "The sea was
 
 now entirely free of field ice, and there were not more than a dozen
 
-ice islands in sight. At the same time the temperature of the air and
+ice islands in sight. At the same [[Time|time]] the temperature of the air and
 
-water was at least thirteen degrees higher (more mild) than we had ever
+[[Water|water]] was at least thirteen degrees higher (more mild) than we had ever
 
 found it between the parallels of sixty and sixty-two south. We were
 
 now in latitude 70° 14' S., and the temperature of the air was
 
-forty-seven, and that of the water forty-four. In this situation I
+forty-seven, and that of the [[Water|water]] forty-four. In this situation I
 
 found the variation to be 14° 27' easterly, per azimuth.... I have
 
@@ -264,7 +264,7 @@ several times passed within the Antarctic circle on different
 
 meridians, and have uniformly found the temperature, both of the air
 
-and the water, to become more and more mild the farther I advanced
+and the [[Water|water]], to become more and more mild the farther I advanced
 
 beyond the sixty-fifth degree of south latitude, and that the variation
 
@@ -278,11 +278,11 @@ innumerable ice islands, some of which were from one to two miles in
 
 circumference, and more than five hundred feet above the surface of the
 
-water."
+[[Water|water]]."
 
 
 
-Being nearly destitute of fuel and water, and without proper
+Being nearly destitute of fuel and [[Water|water]], and without proper
 
 instruments, it being also late in the season, Captain Morrell was now
 
@@ -306,15 +306,15 @@ experience.
 
 In 1831, Captain Briscoe, in the employ of the Messieurs Enderby,
 
-whale-ship owners of London, sailed in the brig Lively for the South
+whale-[[Ship|ship]] owners of [[London]], sailed in the brig Lively for the South
 
 Seas, accompanied by the cutter Tula. On the twenty-eighth of February,
 
 being in latitude 66° 30' S., longitude 47° 31' E., he descried land,
 
-and "clearly discovered through the snow the black peaks of a range of
+and "clearly discovered through the [[Snow|snow]] the black peaks of a range of
 
-mountains running E. S. E." He remained in this neighbourhood during
+[[Mountains|mountains]] running E. S. E." He remained in this neighbourhood during
 
 the whole of the following month, but was unable to approach the coast
 
@@ -322,7 +322,7 @@ nearer than within ten leagues, owing to the boisterous state of the
 
 weather. Finding it impossible to make farther discovery during this
 
-season, he returned northward to winter in Van Diemen's Land.
+season, he returned northward to [[Winter|winter]] in Van Diemen's Land.
 
 
 
@@ -336,11 +336,11 @@ headland of the country he had first discovered. On the twenty-first of
 
 the month he succeeded in landing on the latter, and took possession of
 
-it in the name of William IV., calling it Adelaide's Island, in honour
+it in the name of William IV., calling it Adelaide's Island, in [[Honour|honour]]
 
-of the English queen. These particulars being made known to the Royal
+of the English [[Queen|queen]]. These particulars being made known to the Royal
 
-Geographical Society of London, the conclusion was drawn by that body
+Geographical Society of [[London]], the conclusion was drawn by that [[Body|body]]
 
 "that there is a continuous tract of land extending from 47° 30' E. to
 

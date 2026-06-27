@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Mistake of the Machine (part 3)"
+title: "[[wifrb11]] — The Mistake of the [[Machine]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -16,19 +16,19 @@ tags:
 
      "She retraced her steps in equal secrecy and the door
 closed behind her again.  I was about to climb the fence and follow,
-when I realized that the detective fever that had lured me
+when I realized that the [[Detective|detective]] fever that had lured me
 into the adventure was rather undignified; and that in a more
 authoritative capacity I already held all the cards in my hand. 
-I was just turning away when a new noise broke on the night. 
-A window was thrown up in one of the upper floors, but just round
-the corner of the house so that I could not see it; and a voice
-of terrible distinctness was heard shouting across the dark garden
+I was just turning away when a new noise broke on the [[Night|night]]. 
+A [[Window|window]] was thrown up in one of the upper floors, but just round
+the corner of the [[house]] so that I could not see it; and a voice
+of terrible distinctness was heard shouting across the dark [[Garden|garden]]
 to know where Lord Falconroy was, for he was missing from every room
-in the house.  There was no mistaking that voice.  I have
+in the [[house]].  There was no mistaking that voice.  I have
 heard it on many a political platform or meeting of directors;
 it was Ireton Todd himself.  Some of the others seemed to have gone
 to the lower windows or on to the steps, and were calling up to him
-that Falconroy had gone for a stroll down to the Pilgrim's Pond
+that Falconroy had gone for a stroll down to the [[Pilgrim]]'s Pond
 an hour before, and could not be traced since.  Then Todd cried
 `Mighty Murder!' and shut down the window violently; and I could hear him
 plunging down the stairs inside.  Repossessing myself of my former
@@ -90,24 +90,24 @@ in a list of words connected with something quite different,
 yet a list in which it occurs quite naturally.  Thus I wrote `heron' and
 `eagle' and `owl', and when I wrote `falcon' he was tremendously agitated;
 and when I began to make an `r' at the end of the word,
-that machine just bounded.  Who else in this republic has any reason
+that [[Machine|machine]] just bounded.  Who else in this republic has any reason
 to jump at the name of a newly-arrived Englishman like Falconroy
 except the man who's shot him?  Isn't that better evidence than
-a lot of gabble  from  witnesses--if the evidence of a reliable machine?"
+a lot of gabble  from  witnesses--if the evidence of a reliable [[Machine|machine]]?"
 
-     "You always forget," observed his companion, "that the reliable machine
-always has to be worked by an unreliable machine."
+     "You always forget," observed his companion, "that the reliable [[Machine|machine]]
+always has to be worked by an unreliable [[Machine|machine]]."
 
-     "Why, what do you mean?" asked the detective.
+     "Why, what do you mean?" asked the [[Detective|detective]].
 
-     "I mean Man," said Father Brown, "the most unreliable machine
+     "I mean Man," said [[Father Brown]], "the most unreliable [[Machine|machine]]
 I know of.  I don't want to be rude; and I don't think you will consider
 Man to be an offensive or inaccurate description of yourself. 
 You say you observed his manner; but how do you know you observed it right?
 You say the words have to come in a natural way; but how do you know
 that you did it naturally?  How do you know, if you come to that,
 that he did not observe your manner?  Who is to prove that you were not
-tremendously agitated?  There was no machine tied on to your pulse."
+tremendously agitated?  There was no [[Machine|machine]] tied on to your pulse."
 
      "I tell you," cried the American in the utmost excitement,
 "I was as cool as a cucumber."
@@ -115,7 +115,7 @@ tremendously agitated?  There was no machine tied on to your pulse."
      "Criminals also can be as cool as cucumbers," said Brown
 with a smile.  "And almost as cool as you."
 
-     "Well, this one wasn't," said Usher, throwing the papers about. 
+     "[[Well]], this one wasn't," said Usher, throwing the papers about. 
 "Oh, you make me tired!"
 
      "I'm sorry," said the other.  "I only point out what seems

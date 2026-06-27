@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 58"
+title: "[[Great Expectations]] — Chapter 58"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -25,24 +25,24 @@ my good opinion with warm assiduity when I was coming into property,
 the Boar was exceedingly cool on the subject now that I was going out
 of property.
 
-It was evening when I arrived, much fatigued by the journey I had so
+It was evening when I arrived, much fatigued by the [[Journey|journey]] I had so
 often made so easily. The Boar could not put me into my usual bedroom,
 which was engaged (probably by some one who had expectations), and
 could only assign me a very indifferent chamber among the pigeons and
-post-chaises up the yard. But I had as sound a sleep in that lodging as
+post-chaises up the yard. But I had as sound a [[Sleep|sleep]] in that lodging as
 in the most superior accommodation the Boar could have given me, and
-the quality of my dreams was about the same as in the best bedroom.
+the quality of my [[Dreams|dreams]] was about the same as in the best bedroom.
 
 Early in the morning, while my breakfast was getting ready, I strolled
-round by Satis House. There were printed bills on the gate and on bits
+round by Satis [[house|House]]. There were printed bills on the gate and on bits
 of carpet hanging out of the windows, announcing a sale by auction of
-the Household Furniture and Effects, next week. The House itself was to
+the Household Furniture and Effects, next week. The [[house|House]] itself was to
 be sold as old building materials, and pulled down. LOT 1 was marked in
-whitewashed knock-knee letters on the brew house; LOT 2 on that part of
+whitewashed knock-knee letters on the brew [[house]]; LOT 2 on that part of
 the main building which had been so long shut up. Other lots were
 marked off on other parts of the structure, and the ivy had been torn
 down to make room for the inscriptions, and much of it trailed low in
-the dust and was withered already. Stepping in for a moment at the open
+the [[Dust|dust]] and was withered already. Stepping in for a moment at the open
 gate, and looking around me with the uncomfortable air of a stranger
 who had no business there, I saw the auctioneer’s clerk walking on the
 casks and telling them off for the information of a catalogue-compiler,
@@ -94,7 +94,7 @@ same fat five fingers.
 a-going to Joseph?”
 
 “In heaven’s name,” said I, firing in spite of myself, “what does it
-matter to you where I am going? Leave that teapot alone.”
+matter to you where I am going? Leave that teapot [[Alone|alone]].”
 
 It was the worst course I could have taken, because it gave Pumblechook
 the opportunity he wanted.
@@ -102,7 +102,7 @@ the opportunity he wanted.
 “Yes, young man,” said he, releasing the handle of the article in
 question, retiring a step or two from my table, and speaking for the
 behoof of the landlord and waiter at the door, “I _will_ leave that
-teapot alone. You are right, young man. For once you are right. I
+teapot [[Alone|alone]]. You are right, young man. For once you are right. I
 forgit myself when I take such an interest in your breakfast, as to
 wish your frame, exhausted by the debilitating effects of
 prodigygality, to be stimilated by the ’olesome nourishment of your
@@ -116,7 +116,7 @@ particularly affected.
 
 “This is him,” said Pumblechook, “as I have rode in my shay-cart. This
 is him as I have seen brought up by hand. This is him untoe the sister
-of which I was uncle by marriage, as her name was Georgiana M’ria from
+of which I was uncle by [[Marriage|marriage]], as her name was Georgiana M’ria from
 her own mother, let him deny it if he can!”
 
 The waiter seemed convinced that I could not deny it, and that it gave
@@ -153,19 +153,19 @@ Joseph will probably betray surprise.”
 
 “Says you,” Pumblechook went on, “‘Joseph, I have seen that man, and
 that man bears you no malice and bears me no malice. He knows your
-character, Joseph, and is well acquainted with your pig-headedness and
+character, Joseph, and is [[Well|well]] acquainted with your pig-headedness and
 ignorance; and he knows my character, Joseph, and he knows my want of
 gratitoode. Yes, Joseph,’ says you,” here Pumblechook shook his head
 and hand at me, “‘he knows my total deficiency of common human
 gratitoode. _He_ knows it, Joseph, as none can. _You_ do not know it,
 Joseph, having no call to know it, but that man do.’”
 
-Windy donkey as he was, it really amazed me that he could have the face
+Windy [[donkey]] as he was, it really amazed me that he could have the face
 to talk thus to mine.
 
 “Says you, ‘Joseph, he gave me a little message, which I will now
 repeat. It was that, in my being brought low, he saw the finger of
-Providence. He knowed that finger when he saw Joseph, and he saw it
+[[Providence]]. He knowed that finger when he saw Joseph, and he saw it
 plain. It pinted out this writing, Joseph. _Reward of ingratitoode to
 his earliest benefactor, and founder of fortun’s_. But that man said he
 did not repent of what he had done, Joseph. Not at all. It was right to
@@ -182,14 +182,14 @@ or down town, if such should be your wishes, that it was right to do
 it, kind to do it, benevolent to do it, and that I would do it again.”
 
 With those words the Impostor shook them both by the hand, with an air,
-and left the house; leaving me much more astonished than delighted by
+and left the [[house]]; leaving me much more astonished than delighted by
 the virtues of that same indefinite “it.” I was not long after him in
-leaving the house too, and when I went down the High Street I saw him
-holding forth (no doubt to the same effect) at his shop door to a
+leaving the [[house]] too, and when I went down the High Street I saw him
+holding forth (no [[Doubt|doubt]] to the same effect) at his shop door to a
 select group, who honoured me with very unfavourable glances as I
 passed on the opposite side of the way.
 
-But, it was only the pleasanter to turn to Biddy and to Joe, whose
+But, it was only the pleasanter to turn to [[Biddy]] and to Joe, whose
 great forbearance shone more brightly than before, if that could be,
 contrasted with this brazen pretender. I went towards them slowly, for
 my limbs were weak, but with a sense of increasing relief as I drew
@@ -201,16 +201,16 @@ soaring high over the green corn, I thought all that countryside more
 beautiful and peaceful by far than I had ever known it to be yet. Many
 pleasant pictures of the life that I would lead there, and of the
 change for the better that would come over my character when I had a
-guiding spirit at my side whose simple faith and clear home wisdom I
+guiding spirit at my side whose simple [[Faith|faith]] and clear [[Home|home]] wisdom I
 had proved, beguiled my way. They awakened a tender emotion in me; for
 my heart was softened by my return, and such a change had come to pass,
-that I felt like one who was toiling home barefoot from distant travel,
+that I felt like one who was toiling [[Home|home]] barefoot from distant travel,
 and whose wanderings had lasted many years.
 
-The schoolhouse where Biddy was mistress I had never seen; but, the
+The schoolhouse where [[Biddy]] was mistress I had never seen; but, the
 little roundabout lane by which I entered the village, for quietness’
 sake, took me past it. I was disappointed to find that the day was a
-holiday; no children were there, and Biddy’s house was closed. Some
+holiday; no children were there, and [[Biddy]]’s [[house]] was closed. Some
 hopeful notion of seeing her, busily engaged in her daily duties,
 before she saw me, had been in my mind and was defeated.
 
@@ -219,26 +219,26 @@ under the sweet green limes, listening for the clink of Joe’s hammer.
 Long after I ought to have heard it, and long after I had fancied I
 heard it and found it but a fancy, all was still. The limes were there,
 and the white thorns were there, and the chestnut-trees were there, and
-their leaves rustled harmoniously when I stopped to listen; but, the
-clink of Joe’s hammer was not in the midsummer wind.
+their [[Leaves|leaves]] rustled harmoniously when I stopped to listen; but, the
+clink of Joe’s hammer was not in the midsummer [[Wind|wind]].
 
 Almost fearing, without knowing why, to come in view of the forge, I
-saw it at last, and saw that it was closed. No gleam of fire, no
+saw it at last, and saw that it was closed. No gleam of [[Fire|fire]], no
 glittering shower of sparks, no roar of bellows; all shut up, and
 still.
 
-But the house was not deserted, and the best parlour seemed to be in
-use, for there were white curtains fluttering in its window, and the
-window was open and gay with flowers. I went softly towards it, meaning
-to peep over the flowers, when Joe and Biddy stood before me, arm in
+But the [[house]] was not deserted, and the best parlour seemed to be in
+use, for there were white curtains fluttering in its [[Window|window]], and the
+[[Window|window]] was open and gay with [[Flowers|flowers]]. I went softly towards it, meaning
+to peep over the [[Flowers|flowers]], when Joe and [[Biddy]] stood before me, arm in
 arm.
 
-At first Biddy gave a cry, as if she thought it was my apparition, but
+At first [[Biddy]] gave a cry, as if she thought it was my apparition, but
 in another moment she was in my embrace. I wept to see her, and she
 wept to see me; I, because she looked so fresh and pleasant; she,
 because I looked so worn and white.
 
-“But dear Biddy, how smart you are!”
+“But dear [[Biddy]], how smart you are!”
 
 “Yes, dear Pip.”
 
@@ -248,28 +248,28 @@ because I looked so worn and white.
 
 I looked at both of them, from one to the other, and then—
 
-“It’s my wedding-day!” cried Biddy, in a burst of happiness, “and I am
+“It’s my wedding-day!” cried [[Biddy]], in a burst of happiness, “and I am
 married to Joe!”
 
 They had taken me into the kitchen, and I had laid my head down on the
-old deal table. Biddy held one of my hands to her lips, and Joe’s
+old deal table. [[Biddy]] held one of my hands to her lips, and Joe’s
 restoring touch was on my shoulder. “Which he warn’t strong enough, my
-dear, fur to be surprised,” said Joe. And Biddy said, “I ought to have
+dear, fur to be surprised,” said Joe. And [[Biddy]] said, “I ought to have
 thought of it, dear Joe, but I was too happy.” They were both so
 overjoyed to see me, so proud to see me, so touched by my coming to
 them, so delighted that I should have come by accident to make their
 day complete!
 
 My first thought was one of great thankfulness that I had never
-breathed this last baffled hope to Joe. How often, while he was with me
+breathed this last baffled [[Hope|hope]] to Joe. How often, while he was with me
 in my illness, had it risen to my lips! How irrevocable would have been
 his knowledge of it, if he had remained with me but another hour!
 
-“Dear Biddy,” said I, “you have the best husband in the whole world,
+“Dear [[Biddy]],” said I, “you have the best husband in the whole world,
 and if you could have seen him by my bed you would have—But no, you
-couldn’t love him better than you do.”
+couldn’t [[Love|love]] him better than you do.”
 
-“No, I couldn’t indeed,” said Biddy.
+“No, I couldn’t indeed,” said [[Biddy]].
 
 “And, dear Joe, you have the best wife in the whole world, and she will
 make you as happy as even you deserve to be, you dear, good, noble
@@ -278,52 +278,52 @@ Joe!”
 Joe looked at me with a quivering lip, and fairly put his sleeve before
 his eyes.
 
-“And Joe and Biddy both, as you have been to church to-day, and are in
-charity and love with all mankind, receive my humble thanks for all you
+“And Joe and [[Biddy]] both, as you have been to church to-day, and are in
+[[Charity|charity]] and [[Love|love]] with all mankind, receive my humble thanks for all you
 have done for me, and all I have so ill repaid! And when I say that I
 am going away within the hour, for I am soon going abroad, and that I
 shall never rest until I have worked for the money with which you have
-kept me out of prison, and have sent it to you, don’t think, dear Joe
-and Biddy, that if I could repay it a thousand times over, I suppose I
+kept me out of [[Prison|prison]], and have sent it to you, don’t think, dear Joe
+and [[Biddy]], that if I could repay it a thousand times over, I suppose I
 could cancel a farthing of the debt I owe you, or that I would do so if
 I could!”
 
 They were both melted by these words, and both entreated me to say no
 more.
 
-“But I must say more. Dear Joe, I hope you will have children to love,
-and that some little fellow will sit in this chimney-corner of a winter
-night, who may remind you of another little fellow gone out of it for
-ever. Don’t tell him, Joe, that I was thankless; don’t tell him, Biddy,
+“But I must say more. Dear Joe, I [[Hope|hope]] you will have children to [[Love|love]],
+and that some little fellow will sit in this chimney-corner of a [[Winter|winter]]
+[[Night|night]], who may remind you of another little fellow gone out of it for
+ever. Don’t tell him, Joe, that I was thankless; don’t tell him, [[Biddy]],
 that I was ungenerous and unjust; only tell him that I honoured you
-both, because you were both so good and true, and that, as your child,
+both, because you were both so good and true, and that, as your [[Child|child]],
 I said it would be natural to him to grow up a much better man than I
 did.”
 
 “I ain’t a-going,” said Joe, from behind his sleeve, “to tell him
-nothink o’ that natur, Pip. Nor Biddy ain’t. Nor yet no one ain’t.”
+nothink o’ that natur, Pip. Nor [[Biddy]] ain’t. Nor yet no one ain’t.”
 
 “And now, though I know you have already done it in your own kind
 hearts, pray tell me, both, that you forgive me! Pray let me hear you
 say the words, that I may carry the sound of them away with me, and
 then I shall be able to believe that you can trust me, and think better
-of me, in the time to come!”
+of me, in the [[Time|time]] to come!”
 
 “O dear old Pip, old chap,” said Joe. “God knows as I forgive you, if I
 have anythink to forgive!”
 
-“Amen! And God knows I do!” echoed Biddy.
+“Amen! And God knows I do!” echoed [[Biddy]].
 
 “Now let me go up and look at my old little room, and rest there a few
 minutes by myself. And then, when I have eaten and drunk with you, go
-with me as far as the finger-post, dear Joe and Biddy, before we say
+with me as far as the finger-post, dear Joe and [[Biddy]], before we say
 good-bye!”
 
 
 
 
 I sold all I had, and put aside as much as I could, for a composition
-with my creditors,—who gave me ample time to pay them in full,—and I
+with my creditors,—who gave me ample [[Time|time]] to pay them in full,—and I
 went out and joined Herbert. Within a month, I had quitted England, and
 within two months I was clerk to Clarriker and Co., and within four
 months I assumed my first undivided responsibility. For the beam across
@@ -332,17 +332,17 @@ old Bill Barley’s growls and was at peace, and Herbert had gone away to
 marry Clara, and I was left in sole charge of the Eastern Branch until
 he brought her back.
 
-Many a year went round before I was a partner in the House; but I lived
+Many a year went round before I was a partner in the [[house|House]]; but I lived
 happily with Herbert and his wife, and lived frugally, and paid my
-debts, and maintained a constant correspondence with Biddy and Joe. It
+debts, and maintained a constant correspondence with [[Biddy]] and Joe. It
 was not until I became third in the Firm, that Clarriker betrayed me to
 Herbert; but he then declared that the secret of Herbert’s partnership
-had been long enough upon his conscience, and he must tell it. So he
+had been long enough upon his [[Conscience|conscience]], and he must tell it. So he
 told it, and Herbert was as much moved as amazed, and the dear fellow
 and I were not the worse friends for the long concealment. I must not
-leave it to be supposed that we were ever a great House, or that we
+leave it to be supposed that we were ever a [[Great House|great House]], or that we
 made mints of money. We were not in a grand way of business, but we had
-a good name, and worked for our profits, and did very well. We owed so
+a good name, and worked for our profits, and did very [[Well|well]]. We owed so
 much to Herbert’s ever cheerful industry and readiness, that I often
 wondered how I had conceived that old idea of his inaptitude, until I
 was one day enlightened by the reflection, that perhaps the inaptitude

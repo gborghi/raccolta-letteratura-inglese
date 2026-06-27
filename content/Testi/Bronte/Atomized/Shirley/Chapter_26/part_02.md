@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 26 (part 2)"
+title: "[[Shirley]] — Chapter 26 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -44,11 +44,11 @@ be bad. Let it be denounced and chained up.
 
 
 
-Henry Sympson, the only son and youngest child of the family, was a boy
+Henry Sympson, the only son and youngest [[Child|child]] of the family, was a boy
 
 of fifteen. He generally kept with his tutor. When he left him, he
 
-sought his cousin Shirley. This boy differed from his sisters. He was
+sought his cousin [[Shirley]]. This boy differed from his sisters. He was
 
 little, lame, and pale; his large eyes shone somewhat languidly in a wan
 
@@ -66,9 +66,9 @@ she allowed. She believed him regenerate--a new Samuel--called of God
 
 from his birth. He was to be a clergyman. Mr. and the Misses Sympson,
 
-not understanding the youth, let him much alone. Shirley made him her
+not understanding the youth, let him much [[Alone|alone]]. [[Shirley]] made him her
 
-pet, and he made Shirley his playmate.
+pet, and he made [[Shirley]] his playmate.
 
 
 
@@ -78,7 +78,7 @@ tutor--the satellite.
 
 
 
-Yes, Louis Moore was a satellite of the house of Sympson--connected, yet
+Yes, [[Louis Moore]] was a satellite of the [[house]] of Sympson--connected, yet
 
 apart; ever attendant, ever distant. Each member of that correct family
 
@@ -92,7 +92,7 @@ by their manner, that their brother's tutor did not live for them. They
 
 were learned; so was he--but not for them. They were accomplished; he
 
-had talents too, imperceptible to their senses. The most spirited sketch
+had talents too, imperceptible to their senses. The most spirited [[Sketch|sketch]]
 
 from his fingers was a blank to their eyes; the most original
 
@@ -104,7 +104,7 @@ exceed the propriety of their behaviour.
 
 I should have said nothing could have equalled it; but I remember a fact
 
-which strangely astonished Caroline Helstone. It was--to discover that
+which strangely astonished [[Caroline Helstone]]. It was--to discover that
 
 her cousin had absolutely _no_ sympathizing friend at Fieldhead; that to
 
@@ -114,21 +114,21 @@ little a man, as to the estimable Misses Sympson.
 
 
 
-What had befallen the kind-hearted Shirley that she should be so
+What had befallen the kind-hearted [[Shirley]] that she should be so
 
 indifferent to the dreary position of a fellow-creature thus isolated
 
 under her roof? She was not, perhaps, haughty to him, but she never
 
-noticed him--she let him alone. He came and went, spoke or was silent,
+noticed him--she let him [[Alone|alone]]. He came and went, spoke or was silent,
 
 and she rarely recognized his existence.
 
 
 
-As to Louis Moore himself, he had the air of a man used to this life,
+As to [[Louis Moore]] himself, he had the air of a man used to this life,
 
-and who had made up his mind to bear it for a time. His faculties seemed
+and who had made up his mind to bear it for a [[Time|time]]. His faculties seemed
 
 walled up in him, and were unmurmuring in their captivity. He never
 
@@ -140,11 +140,11 @@ than civility from the rest of the world. It even appeared that he would
 
 accept nothing more--in that abode at least; for when his cousin
 
-Caroline made gentle overtures of friendship, he did not encourage
+Caroline made gentle overtures of [[Friendship|friendship]], he did not encourage
 
-them--he rather avoided than sought her. One living thing alone, besides
+them--he rather avoided than sought her. One living thing [[Alone|alone]], besides
 
-his pale, crippled scholar, he fondled in the house, and that was the
+his pale, crippled scholar, he fondled in the [[house]], and that was the
 
 ruffianly Tartar, who, sullen and impracticable to others, acquired a
 
@@ -152,7 +152,7 @@ singular partiality for him--a partiality so marked that sometimes, when
 
 Moore, summoned to a meal, entered the room and sat down unwelcomed,
 
-Tartar would rise from his lair at Shirley's feet and betake himself to
+Tartar would rise from his lair at [[Shirley]]'s feet and betake himself to
 
 the taciturn tutor. Once--but once--she noticed the desertion, and
 
@@ -162,7 +162,7 @@ Tartar looked, slavered, and sighed, as his manner was, but yet
 
 disregarded the invitation, and coolly settled himself on his haunches
 
-at Louis Moore's side. That gentleman drew the dog's big, black-muzzled
+at [[Louis Moore]]'s side. That gentleman drew the dog's big, black-muzzled
 
 head on to his knee, patted him, and smiled one little smile to himself.
 
@@ -170,7 +170,7 @@ head on to his knee, patted him, and smiled one little smile to himself.
 
 An acute observer might have remarked, in the course of the same
 
-evening, that after Tartar had resumed his allegiance to Shirley, and
+evening, that after Tartar had resumed his allegiance to [[Shirley]], and
 
 was once more couched near her footstool, the audacious tutor by one
 
@@ -188,17 +188,17 @@ significant smile again rippled across Moore's quiet face.
 
 
 
-"Shirley," said Caroline one day, as they two were sitting alone in the
+"[[Shirley]]," said Caroline one day, as they two were sitting [[Alone|alone]] in the
 
-summer-house, "did you know that my cousin Louis was tutor in your
+[[Summer|summer]]-[[house]], "did you know that my cousin Louis was tutor in your
 
 uncle's family before the Sympsons came down here?"
 
 
 
-Shirley's reply was not so prompt as her responses usually were, but at
+[[Shirley]]'s reply was not so prompt as her responses usually were, but at
 
-last she answered, "Yes--of course; I knew it well."
+last she answered, "Yes--of course; I knew it [[Well|well]]."
 
 
 
@@ -206,7 +206,7 @@ last she answered, "Yes--of course; I knew it well."
 
 
 
-"Well! what then?"
+"[[Well]]! what then?"
 
 
 
@@ -226,7 +226,7 @@ freely. How was that circumstance never touched on?"
 
 
 
-"Because it never was," and Shirley laughed.
+"Because it never was," and [[Shirley]] laughed.
 
 
 

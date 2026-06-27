@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 14 (part 3)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,8 +15,8 @@ tags:
 
 
 As he only waits for Mr. Grewgious now, and will depart immediately
-after having seen him, he takes a sauntering leave of the ancient city
-and its neighbourhood. He recalls the time when Rosa and he walked here
+after having seen him, he takes a sauntering leave of the ancient [[City|city]]
+and its neighbourhood. He recalls the [[Time|time]] when Rosa and he walked here
 or there, mere children, full of the dignity of being engaged. Poor
 children! he thinks, with a pitying sadness.
 
@@ -24,7 +24,7 @@ Finding that his watch has stopped, he turns into the jeweller’s shop,
 to have it wound and set. The jeweller is knowing on the subject of a
 bracelet, which he begs leave to submit, in a general and quite aimless
 way. It would suit (he considers) a young bride, to perfection;
-especially if of a rather diminutive style of beauty. Finding the
+especially if of a rather diminutive style of [[Beauty|beauty]]. Finding the
 bracelet but coldly looked at, the jeweller invites attention to a tray
 of rings for gentlemen; here is a style of ring, now, he remarks—a very
 chaste signet—which gentlemen are much given to purchasing, when
@@ -43,7 +43,7 @@ to a gentleman relative, on any particular occasion—But he said with a
 smile that he had an inventory in his mind of all the jewellery his
 gentleman relative ever wore; namely, his watch and chain, and his
 shirt-pin.” Still (the jeweller considers) that might not apply to all
-times, though applying to the present time. “Twenty minutes past two,
+times, though applying to the present [[Time|time]]. “Twenty minutes past two,
 Mr. Drood, I set your watch at. Let me recommend you not to let it run
 down, sir.”
 
@@ -51,20 +51,20 @@ Edwin takes his watch, puts it on, and goes out, thinking: “Dear old
 Jack! If I were to make an extra crease in my neckcloth, he would think
 it worth noticing!”
 
-He strolls about and about, to pass the time until the dinner-hour. It
+He strolls about and about, to pass the [[Time|time]] until the dinner-hour. It
 somehow happens that Cloisterham seems reproachful to him to-day; has
-fault to find with him, as if he had not used it well; but is far more
+fault to find with him, as if he had not used it [[Well|well]]; but is far more
 pensive with him than angry. His wonted carelessness is replaced by a
 wistful looking at, and dwelling upon, all the old landmarks. He will
 soon be far away, and may never see them again, he thinks. Poor youth!
 Poor youth!
 
-As dusk draws on, he paces the Monks’ Vineyard. He has walked to and
-fro, full half an hour by the Cathedral chimes, and it has closed in
+As dusk draws on, he paces the [[Monks]]’ Vineyard. He has walked to and
+fro, full half an hour by the [[Cathedral]] chimes, and it has closed in
 dark, before he becomes quite aware of a woman crouching on the ground
-near a wicket gate in a corner. The gate commands a cross bye-path,
+near a wicket gate in a corner. The gate commands a [[Cross|cross]] bye-path,
 little used in the gloaming; and the figure must have been there all
-the time, though he has but gradually and lately made it out.
+the [[Time|time]], though he has but gradually and lately made it out.
 
 He strikes into that path, and walks up to the wicket. By the light of
 a lamp near it, he sees that the woman is of a haggard appearance, and
@@ -94,7 +94,7 @@ begins to shake.
 He straightens himself, recoils a step, and looks down at her in a
 dread amazement; for he seems to know her.
 
-“Good Heaven!” he thinks, next moment. “Like Jack that night!”
+“Good Heaven!” he thinks, next moment. “Like Jack that [[Night|night]]!”
 
 As he looks down at her, she looks up at him, and whimpers: “My lungs
 is weakly; my lungs is dreffle bad. Poor me, poor me, my cough is
@@ -102,21 +102,21 @@ rattling dry!” and coughs in confirmation horribly.
 
 “Where do you come from?”
 
-“Come from London, deary.” (Her cough still rending her.)
+“Come from [[London]], deary.” (Her cough still rending her.)
 
 “Where are you going to?”
 
-“Back to London, deary. I came here, looking for a needle in a
+“Back to [[London]], deary. I came here, looking for a needle in a
 haystack, and I ain’t found it. Look’ee, deary; give me
 three-and-sixpence, and don’t you be afeard for me. I’ll get back to
-London then, and trouble no one. I’m in a business.—Ah, me! It’s slack,
+[[London]] then, and trouble no one. I’m in a business.—Ah, me! It’s slack,
 it’s slack, and times is very bad!—but I can make a shift to live by
 it.”
 
 “Do you eat opium?”
 
 “Smokes it,” she replies with difficulty, still racked by her cough.
-“Give me three-and-sixpence, and I’ll lay it out well, and get back. If
+“Give me three-and-sixpence, and I’ll lay it out [[Well|well]], and get back. If
 you don’t give me three-and-sixpence, don’t give me a brass farden. And
 if you do give me three-and-sixpence, deary, I’ll tell you something.”
 
@@ -139,14 +139,14 @@ his face.
 
 “How should I know?”
 
-“Haven’t you a sweetheart, upon your soul?”
+“Haven’t you a sweetheart, upon your [[Soul|soul]]?”
 
 “None.”
 
 She is moving away, with another “Bless ye, and thank’ee, deary!” when
-he adds: “You were to tell me something; you may as well do so.”
+he adds: “You were to tell me something; you may as [[Well|well]] do so.”
 
-“So I was, so I was. Well, then. Whisper. You be thankful that your
+“So I was, so I was. [[Well]], then. Whisper. You be thankful that your
 name ain’t Ned.”
 
 He looks at her quite steadily, as he asks: “Why?”
@@ -161,4 +161,4 @@ He looks at her quite steadily, as he asks: “Why?”
 lightly.
 
 “Then Ned—so threatened is he, wherever he may be while I am a-talking
-to you, deary—should live to all eternity!” replies the woman.
+to you, deary—should live to all [[Eternity|eternity]]!” replies the woman.

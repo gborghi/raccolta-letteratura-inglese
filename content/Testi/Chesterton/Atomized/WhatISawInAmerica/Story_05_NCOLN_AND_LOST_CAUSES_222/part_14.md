@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 14)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 14)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 for the moment to reaffirm the merely imaginative pleasure of those
 
-dizzy turrets and dancing fires. If those nightmare buildings were
+dizzy turrets and dancing fires. If those [[nightmare]] buildings were
 
 really all built for nothing, how noble they would be! The fact that
 
@@ -38,11 +38,11 @@ written with a fiery finger, like that huge unhuman finger that wrote on
 
 Belshazzar's wall.... But what did it write on Belshazzar's wall?... I
 
-am content once more to end on a note of doubt and a rather dark
+am content once more to end on a note of [[Doubt|doubt]] and a rather dark
 
 sympathy with those many-coloured solar systems turning so dizzily, far
 
-up in the divine vacuum of the night.
+up in the divine vacuum of the [[Night|night]].
 
 
 
@@ -68,13 +68,13 @@ It is often asked what should be the first thing that a man sees when he
 
 lands in a foreign country; but I think it should be the vision of his
 
-own country. At least when I came into New York Harbour, a sort of grey
+own country. At least when I came into [[New York]] Harbour, a sort of grey
 
 and green cloud came between me and the towers with multitudinous
 
-windows, white in the winter sunlight; and I saw an old brown house
+windows, white in the [[Winter|winter]] sunlight; and I saw an old brown [[house]]
 
-standing back among the beech-trees at home, the house of only one among
+standing back among the beech-trees at [[Home|home]], the [[house]] of only one among
 
 many friends and neighbours, but one somehow so sunken in the very heart
 
@@ -86,7 +86,7 @@ clear the vision that revisited me was something else. Before we touched
 
 land the men of my own guild, the journalists and reporters, had already
 
-boarded the ship like pirates. And one of them spoke to me in an accent
+boarded the [[Ship|ship]] like pirates. And one of them spoke to me in an accent
 
 that I knew; and thanked me for all I had done for Ireland. And it was
 
@@ -120,7 +120,7 @@ persecuted people at least this land had really been an asylum; even if
 
 recent legislation (as I have said) had made them think it a lunatic
 
-asylum. They had made it so much their home that the very colour of the
+asylum. They had made it so much their [[Home|home]] that the very colour of the
 
 country seemed to change with the infusion; as the bronze of the great
 
@@ -138,15 +138,15 @@ than his practice; and his defence more ill-considered than the most
 
 indefensible things that it was intended to defend. There is in this
 
-matter a curious tangle of cross-purposes, which only a parallel example
+matter a curious tangle of [[Cross|cross]]-purposes, which only a parallel example
 
 can make at all clear. And I will note the point here, because it is
 
 some testimony to its vivid importance that it was really the first I
 
-had to discuss on American soil with an American citizen. In a double
+had to discuss on American soil with an American citizen. In a [[Double|double]]
 
-sense I touched Ireland before I came to America. I will take an
+sense I touched Ireland before I came to [[America]]. I will take an
 
 imaginary instance from another controversy; in order to show how the
 
@@ -156,13 +156,13 @@ is worse than the worst that we can do.
 
 
 
-There was a time when English poets and other publicists could always be
+There was a [[Time|time]] when English poets and other publicists could always be
 
 inspired with instantaneous indignation about the persecuted Jews in
 
-Russia. We have heard less about them since we heard more about the
+[[Russia]]. We have heard less about them since we heard more about the
 
-persecuting Jews in Russia. I fear there are a great many middle-class
+persecuting Jews in [[Russia]]. I [[Fear|fear]] there are a great many middle-class
 
 Englishmen already who wish that Trotsky had been persecuted a little
 
@@ -174,9 +174,9 @@ never seen, in Warsaw, and the Jews whom they had often seen in
 
 Whitechapel. It seemed to be assumed that, by a curious coincidence,
 
-Russia possessed not only the very worst Anti-Semites but the very best
+[[Russia]] possessed not only the very worst Anti-Semites but the very best
 
-Semites. A moneylender in London might be like Judas Iscariot; but a
+Semites. A moneylender in [[London]] might be like Judas Iscariot; but a
 
 moneylender in Moscow must be like Judas Maccabaeus.
 
@@ -184,7 +184,7 @@ moneylender in Moscow must be like Judas Maccabaeus.
 
 Nevertheless there remained in our common sense an unconscious but
 
-fundamental comprehension of the unity of Israel; a sense that some
+fundamental comprehension of the [[unity]] of Israel; a sense that some
 
 things could be said, and some could not be said, about the Jews as a
 
@@ -198,7 +198,7 @@ follows:--
 
 
 
-'It is all very well for foreigners to complain of our denying civic
+'It is all very [[Well|well]] for foreigners to complain of our denying civic
 
 rights to our Jewish subjects; but we know the Jews better than they do.
 

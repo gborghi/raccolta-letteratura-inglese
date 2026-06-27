@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 3 (part 3)"
+title: "[[Don Quixote]] — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -26,13 +26,13 @@ Anybody would say at once, 'That's a Hittite gesture.'"
 to a hundred lips."
 
 But though he continued to stare at the librarian in frank
-and admiring mystification, he was gradually convinced
+and admiring [[Mystification|mystification]], he was gradually convinced
 of the seriousness of the whole strange situation.
 For he saw on Herne's face that expression of shrewdness
 that is the final proof of simplicity.
 
 "But hang it all," burst out Archer, like one throwing off
-a nightmare of hypnotism, "I tell you it's only a play!
+a [[nightmare]] of hypnotism, "I tell you it's only a play!
 I know my part already; and it's a lot longer than yours."
 
 "Anyhow, you've had the start in studying it," insisted Herne,
@@ -44,7 +44,7 @@ I don't believe in interfering with people who know their own subject;
 and you've been studying the period."
 
 He was gazing at the somewhat blank if beautiful countenance of the young
-woman in front of him; while Archer, in the shadow behind her,
+woman in front of him; while Archer, in the [[Shadow|shadow]] behind her,
 seemed finally overcome with a sort of hopeless amusement.
 Suddenly the librarian lost his meditative immobility and seemed
 to awaken to life.
@@ -71,7 +71,7 @@ he hoisted himself on to the shelf, in the gap left by the book,
 and sat there as if he were a new and valuable folio presented
 to the library.  It was rather dark up there under the roof;
 but an electric light hung there and he calmly turned it on.
-A silence followed and he continued to sit there on his remote perch,
+A [[Silence|silence]] followed and he continued to sit there on his remote perch,
 with his long legs dangling in mid-air and his head entirely
 invisible behind the leather wall of the large volume.
 "Mad," said Archer in a low voice.  "A bit touched,
@@ -94,30 +94,30 @@ Anyhow, he felt the difference acutely and when the playful Archer
 laid hands on the ladder to lift it away, told him to chuck it
 in a tone verging on ferocity.
 
-At that moment, however, it happened that a well-known voice
-called to him by name from the doorway opening on the garden.
+At that moment, however, it happened that a [[Well|well]]-known voice
+called to him by name from the doorway opening on the [[Garden|garden]].
 He turned and saw the dark figure of Olive Ashley framed
 in the doorway, with something about her attitude that was
 expectant and imperative.
 
-"You jolly well leave that ladder alone," he said hastily
+"You jolly [[Well|well]] leave that ladder [[Alone|alone]]," he said hastily
 over his shoulder as he turned away, "or by George . . ."
 
-"Well?" demanded the defiant Archer.
+"[[Well]]?" demanded the defiant Archer.
 
 "Or I'll indulge in what we would call a Hittite gesture,"
 said Murrel and walked hastily across to where Olive was standing.
-The other girl had already stepped out into the garden to
+The other girl had already stepped out into the [[Garden|garden]] to
 speak to her, as she was obviously excited about something;
-and Archer was left alone with the unconscious librarian
+and Archer was left [[Alone|alone]] with the unconscious librarian
 and the alluring ladder.
 
 Archer felt like a schoolboy who had been dared to do something.
 He was no coward; and he was very vain.  He unhooked the ladder
 from the high book-shelf very carefully without disturbing a grain
-of dust on the dusty shelves or a hair on the head of the unconscious
+of [[Dust|dust]] on the dusty shelves or a hair on the head of the unconscious
 scholar who was reading the large book.  He quietly carried
-the ladder out into the garden and leaned it up against a shed.
+the ladder out into the [[Garden|garden]] and leaned it up against a shed.
 Then he looked round for the rest of the company; and eventually
 saw them as a distant group on the lawn, so deep in conversation
 as to be as unconscious of the crime as the victim himself.

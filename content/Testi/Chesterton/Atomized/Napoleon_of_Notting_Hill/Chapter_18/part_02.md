@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 2 (part 2)"
+title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -14,39 +14,39 @@ tags:
 </nav>
 
 
-Wayne was standing by a tree alone after the battle.
+Wayne was standing by a tree [[Alone|alone]] after the battle.
 Several men approached him with axes.  One struck at him.
 His foot seemed partly to slip; but he flung his hand out,
 and steadied himself against the tree.
 
-Barker sprang after him, sword in hand, and shaking with excitement.
+Barker sprang after him, [[Sword|sword]] in hand, and shaking with excitement.
 
-"How large now, my lord," he cried, "is the Empire of Notting Hill?"
+"How large now, my lord," he cried, "is the Empire of Notting [[Hill]]?"
 
 Wayne smiled in the gathering dark.
 
-"Always as large as this," he said, and swept his sword round
+"Always as large as this," he said, and swept his [[Sword|sword]] round
 in a semicircle of silver.
 
 Barker dropped, wounded in the neck; and Wilson sprang over his
-body like a tiger-cat, rushing at Wayne.  At the same moment there
-came behind the Lord of the Red Lion a cry and a flare of yellow,
+[[Body|body]] like a tiger-cat, rushing at Wayne.  At the same moment there
+came behind the Lord of the Red [[Lion]] a cry and a flare of yellow,
 and a mass of the West Kensington halberdiers ploughed up the slope,
-knee-deep in grass, bearing the yellow banner of the city before them,
+knee-deep in grass, bearing the yellow banner of the [[City|city]] before them,
 and shouting aloud.
 
-At the same second Wilson went down under Wayne's sword, seemingly smashed
-like a fly.  The great sword rose again like, a bird, but Wilson
-seemed to rise with it, and, his sword being broken, sprang at
+At the same second Wilson went down under Wayne's [[Sword|sword]], seemingly smashed
+like a fly.  The great [[Sword|sword]] [[Rose|rose]] again like, a bird, but Wilson
+seemed to rise with it, and, his [[Sword|sword]] being broken, sprang at
 Wayne's throat like a dog.  The foremost of the yellow halberdiers
 had reached the tree and swung his axe above the struggling Wayne.
-With a curse the King whirled up his own halberd and dashed
+With a curse the [[King]] whirled up his own halberd and dashed
 the blade in the man's face.  He reeled, and rolled, down the slope,
 just as the furious Wilson was flung on his back again.
 And again he was on his feet, and again at Wayne's throat.
-Then he was flung again, but this time laughing triumphantly.
+Then he was flung again, but this [[Time|time]] laughing triumphantly.
 Grasped in his hand was the red and yellow favour that Wayne wore
-as Provost of Notting Hill.  He had torn it from the place where it
+as Provost of Notting [[Hill]].  He had torn it from the place where it
 had been carried for twenty-five years.
 
 With a shout the West Kensington men closed round Wayne, the great
@@ -60,24 +60,24 @@ As the banner stooped, he grasped the yellow folds and tore off a shred.
 A halberdier struck him on the shoulder, wounding bloodily.
 
 "Here is one colour!" he cried, pushing the yellow into his belt;
-"and here!" he cried, pointing to his own blood, "Here is the other."
+"and here!" he cried, pointing to his own [[Blood|blood]], "Here is the other."
 
-At the same instant the shock of a sudden and heavy halberd laid the King
+At the same instant the shock of a sudden and heavy halberd laid the [[King]]
 stunned or dead.  In the wild visions of vanishing consciousness,
-he saw again something that belonged to an utterly forgotten time,
+he saw again something that belonged to an utterly forgotten [[Time|time]],
 something that he had seen somewhere long ago in a restaurant.
 He saw, with his swimming eyes, red and yellow, the colours of Nicaragua.
 
 Quin did not see the end.  Wilson, wild with joy, sprang again
-at Adam Wayne, and the great sword of Notting Hill was whirled
+at [[Adam Wayne]], and the great [[Sword|sword]] of Notting [[Hill]] was whirled
 above once more.  Then men ducked instinctively at the rushing
-noise of the sword coming down out of the sky, and Wilson of
+noise of the [[Sword|sword]] coming down out of the sky, and Wilson of
 Bayswater was smashed and wiped down upon the floor like a fly.
 Nothing was left of him but a wreck; but the blade that had
-broken him was broken.  In dying he had snapped the great sword
-and the spell of it; the sword of Wayne was broken, at the hilt.
+broken him was broken.  In dying he had snapped the great [[Sword|sword]]
+and the spell of it; the [[Sword|sword]] of Wayne was broken, at the hilt.
 One rush of the enemy carried Wayne by force against the tree.
-They were too close to use halberd or even sword; they were breast
+They were too close to use halberd or even [[Sword|sword]]; they were breast
 to breast, even nostrils to nostrils.  But Buck got his dagger free.
 
 "Kill him!" he cried, in a strange stifled voice.  "Kill him!
@@ -90,7 +90,7 @@ a mighty heave went over his breast, and his whole huge figure,
 like an earthquake over great hills.  And with that convulsion of effort
 he rent the branch out of the tree, with tongues of torn wood.
 And swaying it once only, he let the splintered club fall on Buck,
-breaking his neck.  The planner of the Great Road fell face
+breaking his neck.  The planner of the Great [[Road]] fell face
 foremost dead, with his dagger in a grip of steel.
 
 "For you and me, and for all brave men, my brother," said Wayne,
@@ -99,11 +99,11 @@ the end of the world."
 
 The packed men made another lurch or heave towards him; it was
 almost too dark to fight clearly.  He caught hold of the oak again,
-this time getting his hand into a wide crevice and grasping,
+this [[Time|time]] getting his hand into a wide crevice and grasping,
 as it were, the bowels of the tree.  The whole crowd,
 numbering some thirty men, made a rush to tear him away from it;
 they hung on with all their weight and numbers, and nothing stirred.
-A solitude could not have been stiller than that group of straining men.
+A [[Solitude|solitude]] could not have been stiller than that group of straining men.
 Then there was a faint sound.
 
 "His hand is slipping," cried two men in exultation.
@@ -128,17 +128,17 @@ all my life, what is the only happiness, what is the only universality.
 I am clinging to something.  Let it fall, and there let it lie.
 Fools, you go about and see the kingdoms of the earth, and are liberal,
 and wise, and cosmopolitan, which is all that the devil can give
-you...all that he could offer to Christ only to be spurned away.
-I am doing what the truly wise do.  When a child goes out into the garden
+you...all that he could offer to [[Christ]] only to be spurned away.
+I am doing what the truly wise do.  When a [[Child|child]] goes out into the [[Garden|garden]]
 and takes hold of a tree, saying, 'Let this tree be all I have,'
-that moment its roots take hold on hell and its branches on the stars.
-The joy I have is what the lover knows when a woman is everything.
+that moment its roots take hold on hell and its branches on the [[Stars|stars]].
+The joy I have is what the [[Lover|lover]] knows when a woman is everything.
 It is what a savage knows when his idol is everything.
-It is what I know when Notting Hill is everything.  I have a city.
+It is what I know when Notting [[Hill]] is everything.  I have a [[City|city]].
 Let it stand or fall."
 
 As he spoke the turf lifted itself like a living thing, and out
-of it rose slowly, like crested serpents, the roots of the oak.
+of it [[Rose|rose]] slowly, like crested serpents, the roots of the oak.
 Then the great head of the tree, that seemed a green cloud among
 grey ones, swept the sky suddenly like a broom, and the whole tree
-heeled over like a ship, smashing every one in its fall.
+heeled over like a [[Ship|ship]], smashing every one in its fall.

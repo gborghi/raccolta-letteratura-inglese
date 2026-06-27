@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — R. ROBERT BOLTON"
+title: "A [[Child]]'s [[history|History]] of England — R. ROBERT BOLTON"
 author: "Dickens"
 unitType: story
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"

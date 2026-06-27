@@ -25,9 +25,9 @@ woman had a rather particular appointment to keep.
 
 Yet Pa and the lovely woman were not going out together. Bella was up
 before four, but had no bonnet on. She was waiting at the foot of the
-stairs—was sitting on the bottom stair, in fact—to receive Pa when he
-came down, but her only object seemed to be to get Pa well out of the
-house.
+stairs—was sitting on the [[Bottom|bottom]] stair, in fact—to receive Pa when he
+came down, but her only object seemed to be to get Pa [[Well|well]] out of the
+[[house]].
 
 ‘Your breakfast is ready, sir,’ whispered Bella, after greeting him with
 a hug, ‘and all you have to do, is, to eat it up and drink it up, and
@@ -42,7 +42,7 @@ down to the kitchen on tiptoe; she stopping on every separate stair to
 put the tip of her forefinger on her rosy lips, and then lay it on his
 lips, according to her favourite petting way of kissing Pa.
 
-‘How do YOU feel, my love?’ asked R. W., as she gave him his breakfast.
+‘How do YOU feel, my [[Love|love]]?’ asked R. W., as she gave him his breakfast.
 
 ‘I feel as if the Fortune-teller was coming true, dear Pa, and the fair
 little man was turning out as was predicted.’
@@ -51,7 +51,7 @@ little man was turning out as was predicted.’
 
 Bella put another of those finger-seals upon his lips, and then said,
 kneeling down by him as he sat at table: ‘Now, look here, sir. If you
-keep well up to the mark this day, what do you think you deserve?
+keep [[Well|well]] up to the mark this day, what do you think you deserve?
 What did I promise you should have, if you were good, upon a certain
 occasion?’
 
@@ -98,16 +98,16 @@ Church.’
 ‘No you weren’t,’ said Pa.
 
 ‘A vexatious (do you hear, sir?), a vexatious, capricious, thankless,
-troublesome, Animal; but I hope you’ll do better in the time to come,
+troublesome, Animal; but I [[Hope|hope]] you’ll do better in the [[Time|time]] to come,
 and I bless you and forgive you!’ Here, she quite forgot that it was
 Pa’s turn to make the responses, and clung to his neck. ‘Dear Pa, if you
 knew how much I think this morning of what you told me once, about the
-first time of our seeing old Mr Harmon, when I stamped and screamed
+first [[Time|time]] of our seeing old Mr Harmon, when I stamped and screamed
 and beat you with my detestable little bonnet! I feel as if I had been
 stamping and screaming and beating you with my hateful little bonnet,
 ever since I was born, darling!’
 
-‘Nonsense, my love. And as to your bonnets, they have always been nice
+‘Nonsense, my [[Love|love]]. And as to your bonnets, they have always been nice
 bonnets, for they have always become you—or you have become them;
 perhaps it was that—at every age.’
 
@@ -115,40 +115,40 @@ perhaps it was that—at every age.’
 (notwithstanding her repentance), with fantastic pleasure in the
 picture, ‘when I beat you with my bonnet?’
 
-‘No, my child. Wouldn’t have hurt a fly!’
+‘No, my [[Child|child]]. Wouldn’t have hurt a fly!’
 
 ‘Ay, but I am afraid I shouldn’t have beat you at all, unless I had
 meant to hurt you,’ said Bella. ‘Did I pinch your legs, Pa?’
 
-‘Not much, my dear; but I think it’s almost time I—’
+‘Not much, my dear; but I think it’s almost [[Time|time]] I—’
 
 ‘Oh, yes!’ cried Bella. ‘If I go on chattering, you’ll be taken alive.
 Fly, Pa, fly!’
 
 So, they went softly up the kitchen stairs on tiptoe, and Bella with
-her light hand softly removed the fastenings of the house door, and Pa,
+her light hand softly removed the fastenings of the [[house]] door, and Pa,
 having received a parting hug, made off. When he had gone a little way,
 he looked back. Upon which, Bella set another of those finger seals upon
 the air, and thrust out her little foot expressive of the mark. Pa, in
 appropriate action, expressed fidelity to the mark, and made off as fast
 as he could go.
 
-Bella walked thoughtfully in the garden for an hour and more, and then,
+Bella walked thoughtfully in the [[Garden|garden]] for an hour and more, and then,
 returning to the bedroom where Lavvy the Irrepressible still slumbered,
 put on a little bonnet of quiet, but on the whole of sly appearance,
 which she had yesterday made. ‘I am going for a walk, Lavvy,’ she said,
 as she stooped down and kissed her. The Irrepressible, with a bounce in
-the bed, and a remark that it wasn’t time to get up yet, relapsed into
+the bed, and a remark that it wasn’t [[Time|time]] to get up yet, relapsed into
 unconsciousness, if she had come out of it.
 
 Behold Bella tripping along the streets, the dearest girl afoot under
-the summer sun! Behold Pa waiting for Bella behind a pump, at least
+the [[Summer|summer]] sun! Behold Pa waiting for Bella behind a pump, at least
 three miles from the parental roof-tree. Behold Bella and Pa aboard an
 early steamboat for Greenwich.
 
 Were they expected at Greenwich? Probably. At least, Mr John Rokesmith
 was on the pier looking out, about a couple of hours before the coaly
-(but to him gold-dusty) little steamboat got her steam up in London.
+(but to him gold-dusty) little steamboat got her steam up in [[London]].
 Probably. At least, Mr John Rokesmith seemed perfectly satisfied when
 he descried them on board. Probably. At least, Bella no sooner stepped
 ashore than she took Mr John Rokesmith’s arm, without evincing surprise,

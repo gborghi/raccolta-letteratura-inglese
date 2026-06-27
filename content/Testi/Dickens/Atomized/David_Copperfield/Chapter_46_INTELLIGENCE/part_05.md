@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 46: INTELLIGENCE (part 5)"
+title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,28 +18,28 @@ tags:
 
 I needed no other answer than his face.
 
-‘Do you know that she is in London?’
+‘Do you know that she is in [[London]]?’
 
 ‘I have seen her in the streets,’ he answered, with a shiver.
 
 ‘But you don’t know,’ said I, ‘that Emily was charitable to her, with
-Ham’s help, long before she fled from home. Nor, that, when we met one
-night, and spoke together in the room yonder, over the way, she listened
+Ham’s help, long before she fled from [[Home|home]]. Nor, that, when we met one
+[[Night|night]], and spoke together in the room yonder, over the way, she listened
 at the door.’
 
-‘Mas’r Davy!’ he replied in astonishment. ‘That night when it snew so
+‘Mas’r Davy!’ he replied in astonishment. ‘That [[Night|night]] when it snew so
 hard?’
 
-‘That night. I have never seen her since. I went back, after parting
+‘That [[Night|night]]. I have never seen her since. I went back, after parting
 from you, to speak to her, but she was gone. I was unwilling to mention
 her to you then, and I am now; but she is the person of whom I speak,
 and with whom I think we should communicate. Do you understand?’
 
-‘Too well, sir,’ he replied. We had sunk our voices, almost to a
+‘Too [[Well|well]], sir,’ he replied. We had sunk our voices, almost to a
 whisper, and continued to speak in that tone.
 
 ‘You say you have seen her. Do you think that you could find her? I
-could only hope to do so by chance.’
+could only [[Hope|hope]] to do so by chance.’
 
 ‘I think, Mas’r Davy, I know wheer to look.’
 
@@ -53,9 +53,9 @@ finally took out of a drawer one of her dresses (I remember to have
 seen her wear it), neatly folded with some other garments, and a bonnet,
 which he placed upon a chair. He made no allusion to these clothes,
 neither did I. There they had been waiting for her, many and many a
-night, no doubt.
+[[Night|night]], no [[Doubt|doubt]].
 
-‘The time was, Mas’r Davy,’ he said, as we came downstairs, ‘when I
+‘The [[Time|time]] was, Mas’r Davy,’ he said, as we came downstairs, ‘when I
 thowt this girl, Martha, a’most like the dirt underneath my Em’ly’s
 feet. God forgive me, theer’s a difference now!’
 
@@ -85,17 +85,17 @@ times, and never found no answer. And theer’s one curious thing--that,
 though he is so pleasant, I wouldn’t fare to feel comfortable to try and
 get his mind upon ‘t. He never said a wured to me as warn’t as dootiful
 as dootiful could be, and it ain’t likely as he’d begin to speak any
-other ways now; but it’s fur from being fleet water in his mind, where
+other ways now; but it’s fur from being fleet [[Water|water]] in his mind, where
 them thowts lays. It’s deep, sir, and I can’t see down.’
 
 ‘You are right,’ said I, ‘and that has sometimes made me anxious.’
 
 ‘And me too, Mas’r Davy,’ he rejoined. ‘Even more so, I do assure you,
 than his ventersome ways, though both belongs to the alteration in him.
-I doen’t know as he’d do violence under any circumstances, but I hope as
+I doen’t know as he’d do violence under any circumstances, but I [[Hope|hope]] as
 them two may be kep asunders.’
 
-We had come, through Temple Bar, into the city. Conversing no more now,
+We had come, through Temple Bar, into the [[City|city]]. Conversing no more now,
 and walking at my side, he yielded himself up to the one aim of his
 devoted life, and went on, with that hushed concentration of his
 faculties which would have made his figure solitary in a multitude.
@@ -103,12 +103,12 @@ We were not far from Blackfriars Bridge, when he turned his head and
 pointed to a solitary female figure flitting along the opposite side of
 the street. I knew it, readily, to be the figure that we sought.
 
-We crossed the road, and were pressing on towards her, when it occurred
+We crossed the [[Road|road]], and were pressing on towards her, when it occurred
 to me that she might be more disposed to feel a woman’s interest in the
 lost girl, if we spoke to her in a quieter place, aloof from the crowd,
 and where we should be less observed. I advised my companion, therefore,
 that we should not address her yet, but follow her; consulting in this,
-likewise, an indistinct desire I had, to know where she went.
+likewise, an indistinct [[Desire|desire]] I had, to know where she went.
 
 He acquiescing, we followed at a distance: never losing sight of her,
 but never caring to come very near, as she frequently looked about.
@@ -120,5 +120,5 @@ destination; and this, and her keeping in the busy streets, and I
 suppose the strange fascination in the secrecy and mystery of so
 following anyone, made me adhere to my first purpose. At length she
 turned into a dull, dark street, where the noise and crowd were lost;
-and I said, ‘We may speak to her now’; and, mending our pace, we went
+and I said, ‘We may speak to her now’; and, [[mending]] our pace, we went
 after her.

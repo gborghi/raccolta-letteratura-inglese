@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 43"
+title: "[[Sense and Sensibility]] — Chapter 43"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,31 +20,31 @@ CHAPTER XLIII.
 
 
 
-Marianne got up the next morning at her usual time; to every inquiry
+Marianne got up the next morning at her usual [[Time|time]]; to every inquiry
 
 replied that she was better, and tried to prove herself so, by engaging
 
 in her accustomary employments. But a day spent in sitting shivering
 
-over the fire with a book in her hand, which she was unable to read, or
+over the [[Fire|fire]] with a book in her hand, which she was unable to read, or
 
 in lying, weary and languid, on a sofa, did not speak much in favour of
 
 her amendment; and when, at last, she went early to bed, more and more
 
-indisposed, Colonel Brandon was only astonished at her sister’s
+indisposed, [[Colonel Brandon]] was only astonished at her sister’s
 
 composure, who, though attending and nursing her the whole day, against
 
-Marianne’s inclination, and forcing proper medicines on her at night,
+Marianne’s inclination, and forcing proper medicines on her at [[Night|night]],
 
-trusted, like Marianne, to the certainty and efficacy of sleep, and
+trusted, like Marianne, to the certainty and efficacy of [[Sleep|sleep]], and
 
 felt no real alarm.
 
 
 
-A very restless and feverish night, however, disappointed the
+A very restless and feverish [[Night|night]], however, disappointed the
 
 expectation of both; and when Marianne, after persisting in rising,
 
@@ -68,7 +68,7 @@ on her baby’s account. Mrs. Jennings, who had been inclined from the
 
 first to think Marianne’s complaint more serious than Elinor, now
 
-looked very grave on Mr. Harris’s report, and confirming Charlotte’s
+looked very [[Grave|grave]] on Mr. Harris’s report, and confirming Charlotte’s
 
 fears and caution, urged the necessity of her immediate removal with
 
@@ -80,7 +80,7 @@ withstood. Her departure, therefore, was fixed on; and within an hour
 
 after Mr. Harris’s arrival, she set off, with her little boy and his
 
-nurse, for the house of a near relation of Mr. Palmer’s, who lived a
+[[Nurse|nurse]], for the [[house]] of a near relation of Mr. Palmer’s, who lived a
 
 few miles on the other side of Bath; whither her husband promised, at
 
@@ -88,7 +88,7 @@ her earnest entreaty, to join her in a day or two; and whither she was
 
 almost equally urgent with her mother to accompany her. Mrs. Jennings,
 
-however, with a kindness of heart which made Elinor really love her,
+however, with a kindness of heart which made Elinor really [[Love|love]] her,
 
 declared her resolution of not stirring from Cleveland as long as
 
@@ -104,15 +104,15 @@ experience in nursing, of material use.
 
 
 
-Poor Marianne, languid and low from the nature of her malady, and
+Poor Marianne, languid and low from the [[Nature|nature]] of her malady, and
 
-feeling herself universally ill, could no longer hope that tomorrow
+feeling herself universally ill, could no longer [[Hope|hope]] that tomorrow
 
 would find her recovered; and the idea of what tomorrow would have
 
 produced, but for this unlucky illness, made every ailment severe; for
 
-on that day they were to have begun their journey home; and, attended
+on that day they were to have begun their [[Journey|journey]] [[Home|home]]; and, attended
 
 the whole way by a servant of Mrs. Jennings, were to have taken their
 
@@ -132,11 +132,11 @@ patient; she certainly was not better, and, except that there was no
 
 amendment, did not appear worse. Their party was now farther reduced;
 
-for Mr. Palmer, though very unwilling to go as well from real humanity
+for Mr. Palmer, though very unwilling to go as [[Well|well]] from real humanity
 
-and good-nature, as from a dislike of appearing to be frightened away
+and good-[[Nature|nature]], as from a dislike of appearing to be frightened away
 
-by his wife, was persuaded at last by Colonel Brandon to perform his
+by his wife, was persuaded at last by [[Colonel Brandon]] to perform his
 
 promise of following her; and while he was preparing to go, Colonel
 
@@ -144,7 +144,7 @@ Brandon himself, with a much greater exertion, began to talk of going
 
 likewise.—Here, however, the kindness of Mrs. Jennings interposed most
 
-acceptably; for to send the Colonel away while his love was in so much
+acceptably; for to send the Colonel away while his [[Love|love]] was in so much
 
 uneasiness on her sister’s account, would be to deprive them both, she
 
@@ -162,7 +162,7 @@ long even affect to demur; especially as Mrs. Jennings’s entreaty was
 
 warmly seconded by Mr. Palmer, who seemed to feel a relief to himself,
 
-in leaving behind him a person so well able to assist or advise Miss
+in leaving behind him a person so [[Well|well]] able to assist or advise Miss
 
 Dashwood in any emergence.
 
@@ -172,7 +172,7 @@ Marianne was, of course, kept in ignorance of all these arrangements.
 
 She knew not that she had been the means of sending the owners of
 
-Cleveland away, in about seven days from the time of their arrival. It
+Cleveland away, in about seven days from the [[Time|time]] of their arrival. It
 
 gave her no surprise that she saw nothing of Mrs. Palmer; and as it
 
@@ -180,7 +180,7 @@ gave her likewise no concern, she never mentioned her name.
 
 
 
-Two days passed away from the time of Mr. Palmer’s departure, and her
+Two days passed away from the [[Time|time]] of Mr. Palmer’s departure, and her
 
 situation continued, with little variation, the same. Mr. Harris, who
 
@@ -190,7 +190,7 @@ Miss Dashwood was equally sanguine; but the expectation of the others
 
 was by no means so cheerful. Mrs. Jennings had determined very early in
 
-the seizure that Marianne would never get over it, and Colonel Brandon,
+the seizure that Marianne would never get over it, and [[Colonel Brandon]],
 
 who was chiefly of use in listening to Mrs. Jennings’s forebodings, was
 
@@ -200,9 +200,9 @@ himself out of fears, which the different judgment of the apothecary
 
 seemed to render absurd; but the many hours of each day in which he was
 
-left entirely alone, were but too favourable for the admission of every
+left entirely [[Alone|alone]], were but too favourable for the admission of every
 
-melancholy idea, and he could not expel from his mind the persuasion
+[[Melancholy|melancholy]] idea, and he could not expel from his mind the [[Persuasion|persuasion]]
 
 that he should see Marianne no more.
 
@@ -216,13 +216,13 @@ his patient materially better. Her pulse was much stronger, and every
 
 symptom more favourable than on the preceding visit. Elinor, confirmed
 
-in every pleasant hope, was all cheerfulness; rejoicing that in her
+in every pleasant [[Hope|hope]], was all cheerfulness; rejoicing that in her
 
 letters to her mother, she had pursued her own judgment rather than her
 
 friend’s, in making very light of the indisposition which delayed them
 
-at Cleveland; and almost fixing on the time when Marianne would be able
+at Cleveland; and almost fixing on the [[Time|time]] when Marianne would be able
 
 to travel.
 
@@ -242,9 +242,9 @@ cordials prescribed, saw her, with satisfaction, sink at last into a
 
 slumber, from which she expected the most beneficial effects. Her
 
-sleep, though not so quiet as Elinor wished to see it, lasted a
+[[Sleep|sleep]], though not so quiet as Elinor wished to see it, lasted a
 
-considerable time; and anxious to observe the result of it herself, she
+considerable [[Time|time]]; and anxious to observe the result of it herself, she
 
 resolved to sit with her during the whole of it. Mrs. Jennings, knowing
 
@@ -252,7 +252,7 @@ nothing of any change in the patient, went unusually early to bed; her
 
 maid, who was one of the principal nurses, was recreating herself in
 
-the housekeeper’s room, and Elinor remained alone with Marianne.
+the housekeeper’s room, and Elinor remained [[Alone|alone]] with Marianne.
 
 
 
@@ -266,7 +266,7 @@ which passed her lips, was almost wishing to rouse her from so painful
 
 a slumber, when Marianne, suddenly awakened by some accidental noise in
 
-the house, started hastily up, and, with feverish wildness, cried out,—
+the [[house]], started hastily up, and, with feverish wildness, cried out,—
 
 
 
@@ -276,15 +276,15 @@ the house, started hastily up, and, with feverish wildness, cried out,—
 
 “Not yet,” cried the other, concealing her terror, and assisting
 
-Marianne to lie down again, “but she will be here, I hope, before it is
+Marianne to lie down again, “but she will be here, I [[Hope|hope]], before it is
 
 long. It is a great way, you know, from hence to Barton.”
 
 
 
-“But she must not go round by London,” cried Marianne, in the same
+“But she must not go round by [[London]],” cried Marianne, in the same
 
-hurried manner. “I shall never see her, if she goes by London.”
+hurried manner. “I shall never see her, if she goes by [[London]].”
 
 
 
@@ -298,7 +298,7 @@ alarm increased so rapidly, as to determine her on sending instantly
 
 for Mr. Harris, and despatching a messenger to Barton for her mother.
 
-To consult with Colonel Brandon on the best means of effecting the
+To consult with [[Colonel Brandon]] on the best means of effecting the
 
 latter, was a thought which immediately followed the resolution of its
 
@@ -310,9 +310,9 @@ was generally to be found at a much later hour than the present.
 
 
 
-It was no time for hesitation. Her fears and her difficulties were
+It was no [[Time|time]] for hesitation. Her fears and her difficulties were
 
-immediately before him. Her fears, he had no courage, no confidence to
+immediately before him. Her fears, he had no [[Courage|courage]], no confidence to
 
 attempt the removal of:—he listened to them in silent despondence;—but
 
@@ -332,13 +332,13 @@ directly, she wrote a few lines to her mother.
 
 
 
-The comfort of such a friend at that moment as Colonel Brandon—or such
+The comfort of such a friend at that moment as [[Colonel Brandon]]—or such
 
 a companion for her mother,—how gratefully was it felt!—a companion
 
 whose judgment would guide, whose attendance must relieve, and whose
 
-friendship might soothe her!—as far as the shock of such a summons
+[[Friendship|friendship]] might soothe her!—as far as the shock of such a summons
 
 _could_ be lessened to her, his presence, his manners, his assistance,
 
@@ -350,23 +350,23 @@ _He_, meanwhile, whatever he might feel, acted with all the firmness of
 
 a collected mind, made every necessary arrangement with the utmost
 
-despatch, and calculated with exactness the time in which she might
+despatch, and calculated with exactness the [[Time|time]] in which she might
 
 look for his return. Not a moment was lost in delay of any kind. The
 
-horses arrived, even before they were expected, and Colonel Brandon
+horses arrived, even before they were expected, and [[Colonel Brandon]]
 
 only pressing her hand with a look of solemnity, and a few words spoken
 
 too low to reach her ear, hurried into the carriage. It was then about
 
-twelve o’clock, and she returned to her sister’s apartment to wait for
+twelve o’[[Clock|clock]], and she returned to her sister’s apartment to wait for
 
 the arrival of the apothecary, and to watch by her the rest of the
 
-night. It was a night of almost equal suffering to both. Hour after
+[[Night|night]]. It was a [[Night|night]] of almost equal [[Suffering|suffering]] to both. Hour after
 
-hour passed away in sleepless pain and delirium on Marianne’s side, and
+hour passed away in sleepless [[Pain|pain]] and delirium on Marianne’s side, and
 
 in the most cruel anxiety on Elinor’s, before Mr. Harris appeared. Her
 
@@ -390,9 +390,9 @@ so many days of illness, and wretched for some immediate relief,
 
 fancied that all relief might soon be in vain, that every thing had
 
-been delayed too long, and pictured to herself her suffering mother
+been delayed too long, and pictured to herself her [[Suffering|suffering]] mother
 
-arriving too late to see this darling child, or to see her rational.
+arriving too late to see this darling [[Child|child]], or to see her rational.
 
 
 
@@ -400,7 +400,7 @@ She was on the point of sending again for Mr. Harris, or if _he_ could
 
 not come, for some other advice, when the former—but not till after
 
-five o’clock—arrived. His opinion, however, made some little amends for
+five o’[[Clock|clock]]—arrived. His opinion, however, made some little amends for
 
 his delay, for though acknowledging a very unexpected and unpleasant
 
@@ -424,13 +424,13 @@ their aid, did Mrs. Jennings hear in the morning of what had passed.
 
 Her former apprehensions, now with greater reason restored, left her no
 
-doubt of the event; and though trying to speak comfort to Elinor, her
+[[Doubt|doubt]] of the event; and though trying to speak comfort to Elinor, her
 
 conviction of her sister’s danger would not allow her to offer the
 
-comfort of hope. Her heart was really grieved. The rapid decay, the
+comfort of [[Hope|hope]]. Her heart was really grieved. The rapid [[Decay|decay]], the
 
-early death of a girl so young, so lovely as Marianne, must have struck
+early [[Death|death]] of a girl so young, so lovely as Marianne, must have struck
 
 a less interested person with concern. On Mrs. Jennings’s compassion
 
@@ -460,7 +460,7 @@ than all, his fears in a moment, proposed to call in further advice.
 
 But he judged it unnecessary: he had still something more to try, some
 
-more fresh application, of whose success he was as confident as the
+more fresh application, of whose [[success]] he was as confident as the
 
 last, and his visit concluded with encouraging assurances which reached
 
@@ -468,11 +468,11 @@ the ear, but could not enter the heart of Miss Dashwood. She was calm,
 
 except when she thought of her mother; but she was almost hopeless; and
 
-in this state she continued till noon, scarcely stirring from her
+in this state she continued till [[Noon|noon]], scarcely stirring from her
 
 sister’s bed, her thoughts wandering from one image of grief, one
 
-suffering friend to another, and her spirits oppressed to the utmost by
+[[Suffering|suffering]] friend to another, and her spirits oppressed to the utmost by
 
 the conversation of Mrs. Jennings, who scrupled not to attribute the
 
@@ -486,11 +486,11 @@ her reflections.
 
 
 
-About noon, however, she began—but with a caution—a dread of
+About [[Noon|noon]], however, she began—but with a caution—a dread of
 
-disappointment which for some time kept her silent, even to her
+disappointment which for some [[Time|time]] kept her silent, even to her
 
-friend—to fancy, to hope she could perceive a slight amendment in her
+friend—to fancy, to [[Hope|hope]] she could perceive a slight amendment in her
 
 sister’s pulse;—she waited, watched, and examined it again and
 
@@ -504,9 +504,9 @@ acknowledge a temporary revival, tried to keep her young friend from
 
 indulging a thought of its continuance;—and Elinor, conning over every
 
-injunction of distrust, told herself likewise not to hope. But it was
+injunction of distrust, told herself likewise not to [[Hope|hope]]. But it was
 
-too late. Hope had already entered; and feeling all its anxious
+too late. [[Hope]] had already entered; and feeling all its anxious
 
 flutter, she bent over her sister to watch—she hardly knew for what.
 
@@ -516,15 +516,15 @@ Others even arose to confirm it. Her breath, her skin, her lips, all
 
 flattered Elinor with signs of amendment; and Marianne fixed her eyes
 
-on her with a rational, though languid, gaze. Anxiety and hope now
+on her with a rational, though languid, gaze. Anxiety and [[Hope|hope]] now
 
 oppressed her in equal degrees, and left her no moment of tranquillity
 
-till the arrival of Mr. Harris at four o’clock;—when his assurances,
+till the arrival of Mr. Harris at four o’[[Clock|clock]];—when his assurances,
 
 his felicitations on a recovery in her sister even surpassing his
 
-expectation, gave her confidence, comfort, and tears of joy.
+expectation, gave her confidence, comfort, and [[Tears|tears]] of joy.
 
 
 
@@ -558,7 +558,7 @@ smiles. All within Elinor’s breast was satisfaction, silent and strong.
 
 She continued by the side of her sister, with little intermission the
 
-whole afternoon, calming every fear, satisfying every inquiry of her
+whole afternoon, calming every [[Fear|fear]], satisfying every inquiry of her
 
 enfeebled spirits, supplying every succour, and watching almost every
 
@@ -568,27 +568,27 @@ some moments, occur to remind her of what anxiety was—but when she saw,
 
 on her frequent and minute examination, that every symptom of recovery
 
-continued, and saw Marianne at six o’clock sink into a quiet, steady,
+continued, and saw Marianne at six o’[[Clock|clock]] sink into a quiet, steady,
 
-and to all appearance comfortable, sleep, she silenced every doubt.
+and to all appearance comfortable, [[Sleep|sleep]], she silenced every [[Doubt|doubt]].
 
 
 
-The time was now drawing on, when Colonel Brandon might be expected
+The [[Time|time]] was now drawing on, when [[Colonel Brandon]] might be expected
 
-back. At ten o’clock, she trusted, or at least not much later her
+back. At ten o’[[Clock|clock]], she trusted, or at least not much later her
 
 mother would be relieved from the dreadful suspense in which she must
 
 now be travelling towards them. The Colonel, too!—perhaps scarcely less
 
-an object of pity!—Oh!—how slow was the progress of time which yet kept
+an object of pity!—Oh!—how slow was the progress of [[Time|time]] which yet kept
 
 them in ignorance!
 
 
 
-At seven o’clock, leaving Marianne still sweetly asleep, she joined
+At seven o’[[Clock|clock]], leaving Marianne still sweetly asleep, she joined
 
 Mrs. Jennings in the drawing-room to tea. Of breakfast she had been
 
@@ -602,7 +602,7 @@ would have persuaded her, at its conclusion, to take some rest before
 
 her mother’s arrival, and allow _her_ to take her place by Marianne;
 
-but Elinor had no sense of fatigue, no capability of sleep at that
+but Elinor had no sense of fatigue, no capability of [[Sleep|sleep]] at that
 
 moment about her, and she was not to be kept away from her sister an
 
@@ -612,11 +612,11 @@ into the sick chamber, to satisfy herself that all continued right,
 
 left her there again to her charge and her thoughts, and retired to her
 
-own room to write letters and sleep.
+own room to write letters and [[Sleep|sleep]].
 
 
 
-The night was cold and stormy. The wind roared round the house, and the
+The [[Night|night]] was cold and stormy. The [[Wind|wind]] roared round the [[house]], and the
 
 rain beat against the windows; but Elinor, all happiness within,
 
@@ -628,17 +628,17 @@ inconvenience.
 
 
 
-The clock struck eight. Had it been ten, Elinor would have been
+The [[Clock|clock]] struck eight. Had it been ten, Elinor would have been
 
 convinced that at that moment she heard a carriage driving up to the
 
-house; and so strong was the persuasion that she _did_, in spite of the
+[[house]]; and so strong was the [[Persuasion|persuasion]] that she _did_, in spite of the
 
 _almost_ impossibility of their being already come, that she moved into
 
-the adjoining dressing-closet and opened a window shutter, to be
+the adjoining dressing-closet and opened a [[Window|window]] shutter, to be
 
-satisfied of the truth. She instantly saw that her ears had not
+satisfied of the [[Truth|truth]]. She instantly saw that her ears had not
 
 deceived her. The flaring lamps of a carriage were immediately in view.
 
@@ -654,9 +654,9 @@ Never in her life had Elinor found it so difficult to be calm, as at
 
 that moment. The knowledge of what her mother must be feeling as the
 
-carriage stopt at the door—of her doubt—her dread—perhaps her
+carriage stopt at the door—of her [[Doubt|doubt]]—her dread—perhaps her
 
-despair!—and of what _she_ had to tell!—with such knowledge it was
+[[Despair|despair]]!—and of what _she_ had to tell!—with such knowledge it was
 
 impossible to be calm. All that remained to be done was to be speedy;
 
@@ -668,6 +668,6 @@ with her sister, she hurried down stairs.
 
 The bustle in the vestibule, as she passed along an inner lobby,
 
-assured her that they were already in the house. She rushed to the
+assured her that they were already in the [[house]]. She rushed to the
 
 drawing-room,—she entered it,—and saw only Willoughby.

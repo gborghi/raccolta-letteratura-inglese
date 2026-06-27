@@ -1,5 +1,5 @@
 ---
-title: "Mellonta Tauta (part 5)"
+title: "[[Mellonta Tauta]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mellonta-Tauta-(Poe)"
@@ -72,7 +72,7 @@ tags:
 
       failure to be rendered visible by the incalculable host of
 
-      glorious suns glaring in all directions about it? No doubt what
+      glorious suns glaring in all directions about it? No [[Doubt|doubt]] what
 
       he finally maintained was merely a centre of gravity common to
 
@@ -92,9 +92,9 @@ tags:
 
       merely the mathematical, in contradistinction from the practical,
 
-      idea—is, in sober fact, the practical conception which alone we
+      idea—is, in sober fact, the practical conception which [[Alone|alone]] we
 
-      have any right to entertain in respect to those Titanic circles
+      have any right to entertain in respect to those [[titanic|Titanic]] circles
 
       with which we have to deal, at least in fancy, when we suppose
 
@@ -106,7 +106,7 @@ tags:
 
       circuit so unutterable! It would scarcely be paradoxical to say
 
-      that a flash of lightning itself, travelling forever upon the
+      that a flash of [[Lightning|lightning]] itself, travelling forever upon the
 
       circumference of this inconceivable circle, would still forever
 
@@ -124,7 +124,7 @@ tags:
 
       that a decisive curvature had become apparent during the brief
 
-      period of their astronomical history—during the mere point—during
+      period of their astronomical [[history]]—during the mere point—during
 
       the utter nothingness of two or three thousand years! How
 
@@ -138,13 +138,13 @@ tags:
 
 
 
-      April 7.—Continued last night our astronomical amusements. Had a
+      April 7.—Continued last [[Night|night]] our astronomical amusements. Had a
 
       fine view of the five Neptunian asteroids, and watched with much
 
       interest the putting up of a huge impost on a couple of lintels
 
-      in the new temple at Daphnis in the moon. It was amusing to think
+      in the new temple at Daphnis in the [[Moon|moon]]. It was amusing to think
 
       that creatures so diminutive as the lunarians, and bearing so
 
@@ -172,9 +172,9 @@ tags:
 
       ground for a new fountain at Paradise, the Emperor’s principal
 
-      pleasure garden. Paradise, it appears, has been, literally
+      pleasure [[Garden|garden]]. Paradise, it appears, has been, literally
 
-      speaking, an island time out of mind—that is to say, its northern
+      speaking, an island [[Time|time]] out of mind—that is to say, its northern
 
       boundary was always (as far back as any record extends) a
 

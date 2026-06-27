@@ -1,5 +1,5 @@
 ---
-title: "Timon of Athens — Act IV, Scene 3 — exchange (TIMON) [15]"
+title: "[[Timon]] of Athens — Act IV, Scene 3 — exchange ([[Timon|TIMON]]) [15]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| TIMON | Look thee, ’tis so. Thou singly honest man, He gives Flavius gold Here, take. The gods, out of my misery, Has sent thee treasure. Go, live rich and happy, But thus conditioned: thou shalt build from men, Hate all, curse all, show charity to none, But let the famished flesh slide from the bone Ere thou relieve the beggar. Give to dogs What thou deniest to men. Let prisons swallow ‘em, Debts wither ’em to nothing; be men like blasted woods, And may diseases lick up their false bloods. And so farewell, and thrive. |
-| FLAVIUS | O, let me stay And comfort you, my master. |
-| TIMON | If thou hat’st curses, Stay not. Fly whilst thou art blest and free. Ne’er see thou man, and let me ne’er see thee. Exeunt Timon into his cave, Flavius another way |
+| [[Timon|TIMON]] | Look thee, ’tis so. Thou singly honest man, He gives [[Flavius]] gold Here, take. The gods, out of my misery, Has sent thee treasure. Go, live rich and happy, But thus conditioned: thou shalt build from men, Hate all, curse all, show [[Charity|charity]] to none, But let the famished flesh slide from the bone Ere thou relieve the beggar. Give to [[dogs]] What thou deniest to men. Let prisons [[Swallow|swallow]] ‘em, Debts wither ’em to nothing; be men like blasted woods, And may diseases lick up their false bloods. And so farewell, and thrive. |
+| [[Flavius|FLAVIUS]] | O, let me stay And comfort you, my master. |
+| [[Timon|TIMON]] | If thou hat’st curses, Stay not. Fly whilst thou art blest and free. Ne’er see thou man, and let me ne’er see thee. Exeunt [[Timon]] into his [[Cave|cave]], [[Flavius]] another way |

@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The haughty coldness of the reply seemed to afford Major Bagstock
+The haughty coldness of the reply seemed to afford [[Major Bagstock]]
 infinite delight. He swelled and swelled, exceedingly: and even laid
 down his knife and fork for a moment, to rub his hands.
 
@@ -35,12 +35,12 @@ what, Dombey.” The Major paused in his eating, and looked mysteriously
 indignant. “That’s a de-vilish ambitious woman, Sir.”
 
 Mr Dombey said “Indeed?” with frigid indifference: mingled perhaps with
-some contemptuous incredulity as to Miss Tox having the presumption to
+some contemptuous [[Incredulity|incredulity]] as to Miss Tox having the presumption to
 harbour such a superior quality.
 
-“That woman, Sir,” said the Major, “is, in her way, a Lucifer. Joey B.
+“That woman, Sir,” said the Major, “is, in her way, a [[Lucifer]]. Joey B.
 has had his day, Sir, but he keeps his eyes. He sees, does Joe. His
-Royal Highness the late Duke of York observed of Joey, at a levee, that
+Royal Highness the late [[Duke of York]] observed of Joey, at a levee, that
 he saw.”
 
 The Major accompanied this with such a look, and, between eating,
@@ -57,23 +57,23 @@ aspires sky-high, Sir. Matrimonially, Dombey.”
 
 “Why should I not, Major?” said Mr Dombey.
 
-The Major gave no answer but the horse’s cough, and went on eating
+The Major gave no answer but the [[Horse|horse]]’s cough, and went on eating
 vigorously.
 
 “She has taken an interest in your household,” said the Major, stopping
-short again, “and has been a frequent visitor at your house for some
-time now.”
+short again, “and has been a frequent visitor at your [[house]] for some
+[[Time|time]] now.”
 
 “Yes,” replied Mr Dombey with great stateliness, “Miss Tox was
-originally received there, at the time of Mrs Dombey’s death, as a
-friend of my sister’s; and being a well-behaved person, and showing a
+originally received there, at the [[Time|time]] of Mrs Dombey’s [[Death|death]], as a
+friend of my sister’s; and being a [[Well|well]]-behaved person, and showing a
 liking for the poor infant, she was permitted—may I say encouraged—to
 repeat her visits with my sister, and gradually to occupy a kind of
 footing of familiarity in the family. I have,” said Mr Dombey, in the
 tone of a man who was making a great and valuable concession, “I have a
 respect for Miss Tox. She has been so obliging as to render many little
-services in my house: trifling and insignificant services perhaps,
-Major, but not to be disparaged on that account: and I hope I have had
+services in my [[house]]: trifling and insignificant services perhaps,
+Major, but not to be disparaged on that account: and I [[Hope|hope]] I have had
 the good fortune to be enabled to acknowledge them by such attention
 and notice as it has been in my power to bestow. I hold myself indebted
 to Miss Tox, Major,” added Mr Dombey, with a slight wave of his hand,
@@ -97,19 +97,19 @@ weakness, and nothing should induce him to submit to it.
 “and all the credit that belongs to her, J. B. is willing to give her,
 Sir. Notwithstanding which, Ma’am,” he added, raising his eyes from his
 plate, and casting them across Princess’s Place, to where Miss Tox was
-at that moment visible at her window watering her flowers, “you’re a
-scheming jade, Ma’am, and your ambition is a piece of monstrous
+at that moment visible at her [[Window|window]] watering her [[Flowers|flowers]], “you’re a
+scheming jade, Ma’am, and your [[Ambition|ambition]] is a piece of monstrous
 impudence. If it only made yourself ridiculous, Ma’am,” said the Major,
-rolling his head at the unconscious Miss Tox, while his starting eyes
+[[rolling]] his head at the unconscious Miss Tox, while his starting eyes
 appeared to make a leap towards her, “you might do that to your heart’s
 content, Ma’am, without any objection, I assure you, on the part of
 Bagstock.” Here the Major laughed frightfully up in the tips of his
 ears and in the veins of his head. “But when, Ma’am,” said the Major,
 “you compromise other people, and generous, unsuspicious people too, as
-a repayment for their condescension, you stir the blood of old Joe in
-his body.”
+a repayment for their condescension, you stir the [[Blood|blood]] of old Joe in
+his [[Body|body]].”
 
-“Major,” said Mr Dombey, reddening, “I hope you do not hint at anything
+“Major,” said Mr Dombey, reddening, “I [[Hope|hope]] you do not hint at anything
 so absurd on the part of Miss Tox as—”
 
 “Dombey,” returned the Major, “I hint at nothing. But Joey B. has lived
@@ -127,14 +127,14 @@ Ma’am,” cried the Major, again apostrophising his fair neighbour, with
 great ire,—“when the provocation is too strong to admit of his
 remaining silent.”
 
-The emotion of this outbreak threw the Major into a paroxysm of horse’s
-coughs, which held him for a long time. On recovering he added:
+The emotion of this outbreak threw the Major into a paroxysm of [[Horse|horse]]’s
+coughs, which held him for a long [[Time|time]]. On recovering he added:
 
 “And now, Dombey, as you have invited Joe—old Joe, who has no other
 merit, Sir, but that he is tough and hearty—to be your guest and guide
 at Leamington, command him in any way you please, and he is wholly
-yours. I don’t know, Sir,” said the Major, wagging his double chin with
+yours. I don’t know, Sir,” said the Major, wagging his [[Double|double]] chin with
 a jocose air, “what it is you people see in Joe to make you hold him in
 such great request, all of you; but this I know, Sir, that if he wasn’t
 pretty tough, and obstinate in his refusals, you’d kill him among you
-with your invitations and so forth, in double-quick time.”
+with your invitations and so forth, in [[Double|double]]-quick [[Time|time]].”

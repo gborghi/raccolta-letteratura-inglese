@@ -28,11 +28,11 @@ harmless animal he exhibited.
 ‘Not ready for more ham yet, Nandy? Why, how slow you are! (His last
 teeth,’ he explained to the company, ‘are going, poor old boy.’)
 
-At another time, he said, ‘No shrimps, Nandy?’ and on his not instantly
+At another [[Time|time]], he said, ‘No shrimps, Nandy?’ and on his not instantly
 replying, observed, [‘His hearing is becoming very defective. He’ll be
 deaf directly.’)
 
-At another time he asked him, ‘Do you walk much, Nandy, about the yard
+At another [[Time|time]] he asked him, ‘Do you walk much, Nandy, about the yard
 within the walls of that place of yours?’
 
 ‘No, sir; no. I haven’t any great liking for that.’
@@ -46,9 +46,9 @@ anything to keep him afloat, how old his younger grandchild was?
 ‘John Edward,’ said the pensioner, slowly laying down his knife and fork
 to consider. ‘How old, sir? Let me think now.’
 
-The Father of the Marshalsea tapped his forehead [‘Memory weak.’)
+The Father of the Marshalsea tapped his forehead [‘[[Memory]] weak.’)
 
-‘John Edward, sir? Well, I really forget. I couldn’t say at this minute,
+‘John Edward, sir? [[Well]], I really forget. I couldn’t say at this minute,
 sir, whether it’s two and two months, or whether it’s two and five
 months. It’s one or the other.’
 
@@ -59,38 +59,38 @@ in the life he leads!’)
 The more of these discoveries that he persuaded himself he made in the
 pensioner, the better he appeared to like him; and when he got out of
 his chair after tea to bid the pensioner good-bye, on his intimating
-that he feared, honoured sir, his time was running out, he made himself
+that he feared, honoured sir, his [[Time|time]] was running out, he made himself
 look as erect and strong as possible.
 
 ‘We don’t call this a shilling, Nandy, you know,’ he said, putting one
 in his hand. ‘We call it tobacco.’
 
 ‘Honoured sir, I thank you. It shall buy tobacco. My thanks and duty to
-Miss Amy and Miss Fanny. I wish you good night, Mr Clennam.’
+Miss Amy and Miss Fanny. I wish you good [[Night|night]], Mr Clennam.’
 
 ‘And mind you don’t forget us, you know, Nandy,’ said the Father. ‘You
 must come again, mind, whenever you have an afternoon. You must not come
-out without seeing us, or we shall be jealous. Good night, Nandy. Be
+out without seeing us, or we shall be jealous. Good [[Night|night]], Nandy. Be
 very careful how you descend the stairs, Nandy; they are rather uneven
 and worn.’ With that he stood on the landing, watching the old man down:
 and when he came into the room again, said, with a solemn satisfaction
-on him, ‘A melancholy sight that, Mr Clennam, though one has the
+on him, ‘A [[Melancholy|melancholy]] sight that, Mr Clennam, though one has the
 consolation of knowing that he doesn’t feel it himself. The poor old
 fellow is a dismal wreck. Spirit broken and gone--pulverised--crushed
 out of him, sir, completely!’
 
 As Clennam had a purpose in remaining, he said what he could responsive
-to these sentiments, and stood at the window with their enunciator,
+to these sentiments, and stood at the [[Window|window]] with their enunciator,
 while Maggy and her Little Mother washed the tea-service and cleared it
-away. He noticed that his companion stood at the window with the air of
+away. He noticed that his companion stood at the [[Window|window]] with the air of
 an affable and accessible Sovereign, and that, when any of his people in
 the yard below looked up, his recognition of their salutes just stopped
 short of a blessing.
 
 When Little Dorrit had her work on the table, and Maggy hers on the
 bedstead, Fanny fell to tying her bonnet as a preliminary to her
-departure. Arthur, still having his purpose, still remained. At this
-time the door opened, without any notice, and Mr Tip came in. He kissed
+departure. [[arthur|Arthur]], still having his purpose, still remained. At this
+[[Time|time]] the door opened, without any notice, and Mr Tip came in. He kissed
 Amy as she started up to meet him, nodded to Fanny, nodded to his
 father, gloomed on the visitor without further recognition, and sat
 down.
@@ -119,7 +119,7 @@ accommodation, easily within his power--easily within his power,
 mind!--and when that individual writes back word to me that he begs to
 be excused, I consider that he doesn’t treat me like a gentleman.’
 
-The Father of the Marshalsea, who had surveyed his son in silence, no
+The Father of the Marshalsea, who had surveyed his son in [[Silence|silence]], no
 sooner heard this sentiment, than he began in angry voice:--
 
 ‘How dare you--’ But his son stopped him.

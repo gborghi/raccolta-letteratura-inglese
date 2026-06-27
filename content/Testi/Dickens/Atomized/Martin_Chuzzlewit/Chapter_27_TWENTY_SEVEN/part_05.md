@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -18,7 +18,7 @@ Jobling was for many reasons, and not last in the list because his
 connection lay principally among tradesmen and their families, exactly
 the sort of person whom the Anglo-Bengalee Company wanted for a medical
 officer. But Jobling was far too knowing to connect himself with the
-company in any closer ties than as a paid (and well paid) functionary,
+company in any closer ties than as a paid (and [[Well|well]] paid) functionary,
 or to allow his connection to be misunderstood abroad, if he could help
 it. Hence he always stated the case to an inquiring patient, after this
 manner:
@@ -27,8 +27,8 @@ manner:
 you see, is limited; very limited. I am the medical officer, in
 consideration of a certain monthly payment. The labourer is worthy of
 his hire; BIS DAT QUI CITO DAT’--[‘classical scholar, Jobling!’ thinks
-the patient, ‘well-read man!’)--‘and I receive it regularly. Therefore
-I am bound, so far as my own knowledge goes, to speak well of the
+the patient, ‘[[Well|well]]-read man!’)--‘and I receive it regularly. Therefore
+I am bound, so far as my own knowledge goes, to speak [[Well|well]] of the
 establishment.’ [‘Nothing can be fairer than Jobling’s conduct,’ thinks
 the patient, who has just paid Jobling’s bill himself.) ‘If you put
 any question to me, my dear friend,’ says the doctor, ‘touching the
@@ -40,7 +40,7 @@ characteristics of a medical man.’ [‘Nothing can be finer or more
 gentlemanly than Jobling’s feeling,’ thinks the patient.) ‘Very good,
 my dear sir, so the matter stands. You don’t know Mr Montague? I’m sorry
 for it. A remarkably handsome man, and quite the gentleman in every
-respect. Property, I am told, in India. House and everything belonging
+respect. Property, I am told, in India. [[house|House]] and everything belonging
 to him, beautiful. Costly furniture on the most elegant and lavish
 scale. And pictures, which, even in an anatomical point of view, are
 perfection. In case you should ever think of doing anything with the
@@ -49,14 +49,14 @@ report you a healthy subject. If I understand any man’s constitution, it
 is yours; and this little indisposition has done him more good,
 ma’am,’ says the doctor, turning to the patient’s wife, ‘than if he had
 swallowed the contents of half the nonsensical bottles in my surgery.
-For they ARE nonsense--to tell the honest truth, one half of them are
+For they ARE nonsense--to tell the honest [[Truth|truth]], one half of them are
 nonsense--compared with such a constitution as his!’ [‘Jobling is the
 most friendly creature I ever met with in my life,’ thinks the patient;
-‘and upon my word and honour, I’ll consider of it!’)
+‘and upon my word and [[Honour|honour]], I’ll consider of it!’)
 
 ‘Commission to you, doctor, on four new policies, and a loan this
 morning, eh?’ said Crimple, looking, when they had finished lunch, over
-some papers brought in by the porter. ‘Well done!’
+some papers brought in by the porter. ‘[[Well]] done!’
 
 ‘Jobling, my dear friend,’ said Tigg, ‘long life to you.’
 
@@ -64,12 +64,12 @@ some papers brought in by the porter. ‘Well done!’
 said the doctor, ‘I haven’t really. It’s picking your pocket. I don’t
 recommend anybody here. I only say what I know. My patients ask me what
 I know, and I tell ‘em what I know. Nothing else. Caution is my weak
-side, that’s the truth; and always was from a boy. That is,’ said the
+side, that’s the [[Truth|truth]]; and always was from a boy. That is,’ said the
 doctor, filling his glass, ‘caution in behalf of other people. Whether I
 would repose confidence in this company myself, if I had not been paying
 money elsewhere for many years--that’s quite another question.’
 
-He tried to look as if there were no doubt about it; but feeling that he
+He tried to look as if there were no [[Doubt|doubt]] about it; but feeling that he
 did it but indifferently, changed the theme and praised the wine.
 
 ‘Talking of wine,’ said the doctor, ‘reminds me of one of the finest
@@ -77,7 +77,7 @@ glasses of light old port I ever drank in my life; and that was at a
 funeral. You have not seen anything of--of THAT party, Mr Montague, have
 you?’ handing him a card.
 
-‘He is not buried, I hope?’ said Tigg, as he took it. ‘The honour of his
+‘He is not buried, I [[Hope|hope]]?’ said Tigg, as he took it. ‘The [[Honour|honour]] of his
 company is not requested if he is.’
 
 ‘Ha, ha!’ laughed the doctor. ‘No; not quite. He was honourably
@@ -106,7 +106,7 @@ other door. Mr Crimple, business.’
 smiling sweetly.
 
 The doctor disappeared into the outer office, and immediately returned
-with Jonas Chuzzlewit.
+with [[Jonas Chuzzlewit]].
 
 ‘Mr Montague,’ said Jobling. ‘Allow me. My friend Mr Chuzzlewit. My dear
 friend--our chairman. Now do you know,’ he added checking himself with
@@ -125,5 +125,5 @@ Pending these remarks on the part of the doctor, and the lengthened and
 sonorous pinch with which he followed them up, Jonas took a seat at
 the board; as ungainly a man as ever he has been within the reader’s
 knowledge. It is too common with all of us, but it is especially in
-the nature of a mean mind, to be overawed by fine clothes and fine
+the [[Nature|nature]] of a mean mind, to be overawed by fine clothes and fine
 furniture. They had a very decided influence on Jonas.

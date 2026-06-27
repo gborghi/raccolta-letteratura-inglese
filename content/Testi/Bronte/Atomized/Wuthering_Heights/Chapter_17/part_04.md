@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 17 (part 4)"
+title: "[[Wuthering Heights]] — Chapter 17 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-“This morning, when I came down, about half an hour before noon, Mr.
-Earnshaw was sitting by the fire, deadly sick; his evil genius, almost
+“This morning, when I came down, about half an hour before [[Noon|noon]], Mr.
+Earnshaw was sitting by the [[Fire|fire]], deadly sick; his evil genius, almost
 as gaunt and ghastly, leant against the chimney. Neither appeared
 inclined to dine, and, having waited till all was cold on the table, I
-commenced alone. Nothing hindered me from eating heartily, and I
+commenced [[Alone|alone]]. Nothing hindered me from eating heartily, and I
 experienced a certain sense of satisfaction and superiority, as, at
 intervals, I cast a look towards my silent companions, and felt the
-comfort of a quiet conscience within me. After I had done, I ventured
-on the unusual liberty of drawing near the fire, going round Earnshaw’s
+comfort of a quiet [[Conscience|conscience]] within me. After I had done, I ventured
+on the unusual liberty of drawing near the [[Fire|fire]], going round Earnshaw’s
 seat, and kneeling in the corner beside him.
 
-“Heathcliff did not glance my way, and I gazed up, and contemplated his
+“[[Heathcliff]] did not glance my way, and I gazed up, and contemplated his
 features almost as confidently as if they had been turned to stone. His
 forehead, that I once thought so manly, and that I now think so
 diabolical, was shaded with a heavy cloud; his basilisk eyes were
@@ -35,32 +35,32 @@ an expression of unspeakable sadness. Had it been another, I would have
 covered my face in the presence of such grief. In _his_ case, I was
 gratified; and, ignoble as it seems to insult a fallen enemy, I
 couldn’t miss this chance of sticking in a dart: his weakness was the
-only time when I could taste the delight of paying wrong for wrong.”
+only [[Time|time]] when I could taste the delight of paying wrong for wrong.”
 
 “Fie, fie, Miss!” I interrupted. “One might suppose you had never
-opened a Bible in your life. If God afflict your enemies, surely that
+opened a [[Bible]] in your life. If God afflict your enemies, surely that
 ought to suffice you. It is both mean and presumptuous to add your
 torture to his!”
 
 “In general I’ll allow that it would be, Ellen,” she continued; “but
-what misery laid on Heathcliff could content me, unless I have a hand
+what misery laid on [[Heathcliff]] could content me, unless I have a hand
 in it? I’d rather he suffered _less_, if I might cause his sufferings
 and he might _know_ that I was the cause. Oh, I owe him so much. On
-only one condition can I hope to forgive him. It is, if I may take an
+only one condition can I [[Hope|hope]] to forgive him. It is, if I may take an
 eye for an eye, a tooth for a tooth; for every wrench of agony return a
 wrench: reduce him to my level. As he was the first to injure, make him
 the first to implore pardon; and then—why then, Ellen, I might show you
 some generosity. But it is utterly impossible I can ever be revenged,
-and therefore I cannot forgive him. Hindley wanted some water, and I
+and therefore I cannot forgive him. Hindley wanted some [[Water|water]], and I
 handed him a glass, and asked him how he was.
 
 “‘Not as ill as I wish,’ he replied. ‘But leaving out my arm, every
 inch of me is as sore as if I had been fighting with a legion of imps!’
 
-“‘Yes, no wonder,’ was my next remark. ‘Catherine used to boast that
+“‘Yes, no [[Wonder|wonder]],’ was my next remark. ‘Catherine used to boast that
 she stood between you and bodily harm: she meant that certain persons
-would not hurt you for fear of offending her. It’s well people don’t
-_really_ rise from their grave, or, last night, she might have
+would not hurt you for [[Fear|fear]] of offending her. It’s [[Well|well]] people don’t
+_really_ rise from their [[Grave|grave]], or, last [[Night|night]], she might have
 witnessed a repulsive scene! Are not you bruised, and cut over your
 chest and shoulders?’
 
@@ -78,22 +78,22 @@ blackness through his features.
 
 “‘Oh, if God would but give me strength to strangle him in my last
 agony, I’d go to hell with joy,’ groaned the impatient man, writhing to
-rise, and sinking back in despair, convinced of his inadequacy for the
+rise, and sinking back in [[Despair|despair]], convinced of his inadequacy for the
 struggle.
 
 “‘Nay, it’s enough that he has murdered one of you,’ I observed aloud.
 ‘At the Grange, every one knows your sister would have been living now
-had it not been for Mr. Heathcliff. After all, it is preferable to be
+had it not been for Mr. [[Heathcliff]]. After all, it is preferable to be
 hated than loved by him. When I recollect how happy we were—how happy
 Catherine was before he came—I’m fit to curse the day.’
 
-“Most likely, Heathcliff noticed more the truth of what was said, than
+“Most likely, [[Heathcliff]] noticed more the [[Truth|truth]] of what was said, than
 the spirit of the person who said it. His attention was roused, I saw,
-for his eyes rained down tears among the ashes, and he drew his breath
+for his eyes rained down [[Tears|tears]] among the ashes, and he drew his breath
 in suffocating sighs. I stared full at him, and laughed scornfully. The
 clouded windows of hell flashed a moment towards me; the fiend which
 usually looked out, however, was so dimmed and drowned that I did not
-fear to hazard another sound of derision.
+[[Fear|fear]] to hazard another sound of derision.
 
 “‘Get up, and begone out of my sight,’ said the mourner.
 
@@ -106,12 +106,12 @@ that she’s dead, I see her in Hindley: Hindley has exactly her eyes, if
 you had not tried to gouge them out, and made them black and red; and
 her—’
 
-“‘Get up, wretched idiot, before I stamp you to death!’ he cried,
+“‘Get up, wretched idiot, before I stamp you to [[Death|death]]!’ he cried,
 making a movement that caused me to make one also.
 
 “‘But then,’ I continued, holding myself ready to flee, ‘if poor
 Catherine had trusted you, and assumed the ridiculous, contemptible,
-degrading title of Mrs. Heathcliff, she would soon have presented a
+degrading title of Mrs. [[Heathcliff]], she would soon have presented a
 similar picture! _She_ wouldn’t have borne your abominable behaviour
 quietly: her detestation and disgust must have found voice.’
 
@@ -119,15 +119,15 @@ quietly: her detestation and disgust must have found voice.’
 him; so instead of endeavouring to reach me, he snatched a dinner-knife
 from the table and flung it at my head. It struck beneath my ear, and
 stopped the sentence I was uttering; but, pulling it out, I sprang to
-the door and delivered another; which I hope went a little deeper than
+the door and delivered another; which I [[Hope|hope]] went a little deeper than
 his missile. The last glimpse I caught of him was a furious rush on his
 part, checked by the embrace of his host; and both fell locked together
-on the hearth. In my flight through the kitchen I bid Joseph speed to
+on the hearth. In my flight through the kitchen I bid Joseph [[Speed|speed]] to
 his master; I knocked over Hareton, who was hanging a litter of puppies
-from a chair-back in the doorway; and, blessed as a soul escaped from
-purgatory, I bounded, leaped, and flew down the steep road; then,
-quitting its windings, shot direct across the moor, rolling over banks,
+from a chair-back in the doorway; and, blessed as a [[Soul|soul]] escaped from
+purgatory, I bounded, leaped, and flew down the steep [[Road|road]]; then,
+quitting its windings, shot direct across the moor, [[rolling]] over banks,
 and wading through marshes: precipitating myself, in fact, towards the
 beacon-light of the Grange. And far rather would I be condemned to a
-perpetual dwelling in the infernal regions than, even for one night,
-abide beneath the roof of Wuthering Heights again.”
+perpetual dwelling in the infernal regions than, even for one [[Night|night]],
+abide beneath the roof of [[Wuthering Heights]] again.”

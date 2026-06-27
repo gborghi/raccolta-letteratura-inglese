@@ -19,13 +19,13 @@ Chapter 16
 THE FEAST OF THE THREE HOBGOBLINS
 
 
-The City looked unpromising enough, as Bella made her way along its
+The [[City]] looked unpromising enough, as Bella made her way along its
 gritty streets. Most of its money-mills were slackening sail, or had
 left off grinding for the day. The master-millers had already departed,
 and the journeymen were departing. There was a jaded aspect on
 the business lanes and courts, and the very pavements had a weary
 appearance, confused by the tread of a million of feet. There must be
-hours of night to temper down the day’s distraction of so feverish a
+hours of [[Night|night]] to temper down the day’s distraction of so feverish a
 place. As yet the worry of the newly-stopped whirling and grinding on
 the part of the money-mills seemed to linger in the air, and the quiet
 was more like the prostration of a spent giant than the repose of one
@@ -39,14 +39,14 @@ gold in their composition, dancing before her bright eyes, she arrived
 in the drug-flavoured region of Mincing Lane, with the sensation of
 having just opened a drawer in a chemist’s shop.
 
-The counting-house of Chicksey, Veneering, and Stobbles was pointed out
+The counting-[[house]] of Chicksey, Veneering, and Stobbles was pointed out
 by an elderly female accustomed to the care of offices, who dropped upon
-Bella out of a public-house, wiping her mouth, and accounted for its
-humidity on natural principles well known to the physical sciences, by
-explaining that she had looked in at the door to see what o’clock it
-was. The counting-house was a wall-eyed ground floor by a dark gateway,
+Bella out of a public-[[house]], wiping her mouth, and accounted for its
+humidity on natural principles [[Well|well]] known to the physical sciences, by
+explaining that she had looked in at the door to see what o’[[Clock|clock]] it
+was. The counting-[[house]] was a wall-eyed ground floor by a dark gateway,
 and Bella was considering, as she approached it, could there be any
-precedent in the City for her going in and asking for R. Wilfer, when
+precedent in the [[City]] for her going in and asking for R. Wilfer, when
 whom should she see, sitting at one of the windows with the plate-glass
 sash raised, but R. Wilfer himself, preparing to take a slight
 refection.
@@ -57,7 +57,7 @@ Simultaneously with this discovery on her part, her father discovered
 her, and invoked the echoes of Mincing Lane to exclaim ‘My gracious me!’
 
 He then came cherubically flying out without a hat, and embraced her,
-and handed her in. ‘For it’s after hours and I am all alone, my dear,’
+and handed her in. ‘For it’s after hours and I am all [[Alone|alone]], my dear,’
 he explained, ‘and am having—as I sometimes do when they are all
 gone—a quiet tea.’
 
@@ -71,7 +71,7 @@ footman down the Lane, my dear?’
 
 ‘I have brought no footman with me, Pa.’
 
-‘Oh indeed! But you have brought the elegant turn-out, my love?’
+‘Oh indeed! But you have brought the elegant turn-out, my [[Love|love]]?’
 
 ‘No, Pa.’
 
@@ -86,16 +86,16 @@ to break it to him just yet.
 and would very much like to share your tea.’
 
 The cottage loaf and the pennyworth of milk had been set forth on a
-sheet of paper on the window-seat. The cherubic pocket-knife, with the
+sheet of paper on the [[Window|window]]-seat. The cherubic pocket-knife, with the
 first bit of the loaf still on its point, lay beside them where it had
 been hastily thrown down. Bella took the bit off, and put it in her
-mouth. ‘My dear child,’ said her father, ‘the idea of your partaking of
+mouth. ‘My dear [[Child|child]],’ said her father, ‘the idea of your partaking of
 such lowly fare! But at least you must have your own loaf and your own
 penn’orth. One moment, my dear. The Dairy is just over the way and round
 the corner.’
 
 Regardless of Bella’s dissuasions he ran out, and quickly returned with
-the new supply. ‘My dear child,’ he said, as he spread it on another
+the new supply. ‘My dear [[Child|child]],’ he said, as he spread it on another
 piece of paper before her, ‘the idea of a splendid—!’ and then looked
 at her figure, and stopped short.
 
@@ -117,12 +117,12 @@ little shake, as if to rouse his faculties.
 ‘And have you grown so fickle that you don’t like your own taste, Pa
 dear?’
 
-‘Well, my love,’ he returned, swallowing a bit of the cottage loaf with
+‘[[Well]], my [[Love|love]],’ he returned, swallowing a bit of the cottage loaf with
 considerable effort, for it seemed to stick by the way: ‘I should have
 thought it was hardly sufficiently splendid for existing circumstances.’
 
 ‘And so, Pa,’ said Bella, moving coaxingly to his side instead of
-remaining opposite, ‘you sometimes have a quiet tea here all alone? I
+remaining opposite, ‘you sometimes have a quiet tea here all [[Alone|alone]]? I
 am not in the tea’s way, if I draw my arm over your shoulder like this,
 Pa?’
 
@@ -134,7 +134,7 @@ a little wearing, too.’
 
 ‘I know, Pa.’
 
-‘Yes, my dear. So sometimes I put a quiet tea at the window here, with
+‘Yes, my dear. So sometimes I put a quiet tea at the [[Window|window]] here, with
 a little quiet contemplation of the Lane (which comes soothing), between
 the day, and domestic—’
 
@@ -145,9 +145,9 @@ phrase.
 
 Bella kissed him. ‘And it is in this dark dingy place of captivity,
 poor dear, that you pass all the hours of your life when you are not at
-home?’
+[[Home|home]]?’
 
-‘Not at home, or not on the road there, or on the road here, my love.
+‘Not at [[Home|home]], or not on the [[Road|road]] there, or on the [[Road|road]] here, my [[Love|love]].
 Yes. You see that little desk in the corner?’
 
 ‘In the dark corner, furthest both from the light and from the

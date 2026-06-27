@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 38 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 38 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-Such was her parting concern; for after this, she had time only to pay
+Such was her parting concern; for after this, she had [[Time|time]] only to pay
 
 her farewell compliments to Mrs. Jennings, before her company was
 
 claimed by Mrs. Richardson; and Elinor was left in possession of
 
-knowledge which might feed her powers of reflection some time, though
+knowledge which might feed her powers of reflection some [[Time|time]], though
 
 she had learnt very little more than what had been already foreseen and
 
-foreplanned in her own mind. Edward’s marriage with Lucy was as firmly
+foreplanned in her own mind. Edward’s [[Marriage|marriage]] with Lucy was as firmly
 
-determined on, and the time of its taking place remained as absolutely
+determined on, and the [[Time|time]] of its taking place remained as absolutely
 
 uncertain, as she had concluded it would be;—every thing depended,
 
@@ -64,11 +64,11 @@ will set down upon a curacy of fifty pounds a-year, with the interest
 
 of his two thousand pounds, and what little matter Mr. Steele and Mr.
 
-Pratt can give her. Then they will have a child every year! and Lord
+Pratt can give her. Then they will have a [[Child|child]] every year! and Lord
 
 help ’em! how poor they will be! I must see what I can give them
 
-towards furnishing their house. Two maids and two men, indeed! as I
+towards furnishing their [[house]]. Two maids and two men, indeed! as I
 
 talked of t’ other day. No, no, they must get a stout girl of all
 
@@ -88,9 +88,9 @@ Lucy herself. It was as follows:
 
 
 
-“I hope my dear Miss Dashwood will excuse the liberty I take of writing
+“I [[Hope|hope]] my dear Miss Dashwood will excuse the liberty I take of writing
 
-to her; but I know your friendship for me will make you pleased to hear
+to her; but I know your [[Friendship|friendship]] for me will make you pleased to hear
 
 such a good account of myself and my dear Edward, after all the
 
@@ -98,11 +98,11 @@ troubles we have went through lately, therefore will make no more
 
 apologies, but proceed to say that, thank God! though we have suffered
 
-dreadfully, we are both quite well now, and as happy as we must always
+dreadfully, we are both quite [[Well|well]] now, and as happy as we must always
 
-be in one another’s love. We have had great trials, and great
+be in one another’s [[Love|love]]. We have had great trials, and great
 
-persecutions, but however, at the same time, gratefully acknowledge
+persecutions, but however, at the same [[Time|time]], gratefully acknowledge
 
 many friends, yourself not the least among them, whose great kindness I
 
@@ -122,9 +122,9 @@ never be, he did not regard his mother’s anger, while he could have my
 
 affections; our prospects are not very bright, to be sure, but we must
 
-wait, and hope for the best; he will be ordained shortly; and should it
+wait, and [[Hope|hope]] for the best; he will be ordained shortly; and should it
 
-ever be in your power to recommend him to any body that has a living to
+ever be in your power to recommend him to any [[Body|body]] that has a living to
 
 bestow, am very sure you will not forget us, and dear Mrs. Jennings
 
@@ -134,7 +134,7 @@ Palmer, or any friend that may be able to assist us.—Poor Anne was much
 
 to blame for what she did, but she did it for the best, so I say
 
-nothing; hope Mrs. Jennings won’t think it too much trouble to give us
+nothing; [[Hope|hope]] Mrs. Jennings won’t think it too much trouble to give us
 
 a call, should she come this way any morning, ’twould be a great
 
@@ -144,7 +144,7 @@ me to conclude; and begging to be most gratefully and respectfully
 
 remembered to her, and to Sir John, and Lady Middleton, and the dear
 
-children, when you chance to see them, and love to Miss Marianne,
+children, when you chance to see them, and [[Love|love]] to Miss Marianne,
 
 
 
@@ -166,18 +166,18 @@ praise.
 
 
 
-“Very well indeed!—how prettily she writes!—aye, that was quite proper
+“Very [[Well|well]] indeed!—how prettily she writes!—aye, that was quite proper
 
-to let him be off if he would. That was just like Lucy. Poor soul! I
+to let him be off if he would. That was just like Lucy. Poor [[Soul|soul]]! I
 
 wish I _could_ get him a living, with all my heart. She calls me dear
 
 Mrs. Jennings, you see. She is a good-hearted girl as ever lived. Very
 
-well upon my word. That sentence is very prettily turned. Yes, yes, I
+[[Well|well]] upon my word. That sentence is very prettily turned. Yes, yes, I
 
 will go and see her, sure enough. How attentive she is, to think of
 
-every body!—Thank you, my dear, for showing it me. It is as pretty a
+every [[Body|body]]!—Thank you, my dear, for showing it me. It is as pretty a
 
 letter as ever I saw, and does Lucy’s head and heart great credit.”

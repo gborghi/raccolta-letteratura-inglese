@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 6)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-“Mr. Redlaw is much altered, and has told me this morning that his memory
-is impaired. Be very considerate to him, Mr. Edmund; he needs that from
+“Mr. Redlaw is much altered, and has told me this morning that his [[Memory|memory]]
+is impaired. Be very considerate to him, Mr. [[Edmund]]; he needs that from
 us all.”
 
 The young man assured her, by a look, that her caution was not
@@ -27,7 +27,7 @@ after him as he passed on. He drooped his head upon his hand too, as
 trying to reawaken something he had lost. But it was gone.
 
 The abiding change that had come upon him since the influence of the
-music, and the Phantom’s reappearance, was, that now he truly felt how
+music, and the [[Phantom]]’s reappearance, was, that now he truly felt how
 much he had lost, and could compassionate his own condition, and contrast
 it, clearly, with the natural state of those who were around him. In
 this, an interest in those who were around him was revived, and a meek,
@@ -38,29 +38,29 @@ insensibility or sullenness being added to the list of its infirmities.
 He was conscious that, as he redeemed, through Milly, more and more of
 the evil he had done, and as he was more and more with her, this change
 ripened itself within him. Therefore, and because of the attachment she
-inspired him with (but without other hope), he felt that he was quite
+inspired him with (but without other [[Hope|hope]]), he felt that he was quite
 dependent on her, and that she was his staff in his affliction.
 
-So, when she asked him whether they should go home now, to where the old
+So, when she asked him whether they should go [[Home|home]] now, to where the old
 man and her husband were, and he readily replied “yes”—being anxious in
 that regard—he put his arm through hers, and walked beside her; not as if
-he were the wise and learned man to whom the wonders of Nature were an
+he were the wise and learned man to whom the wonders of [[Nature]] were an
 open book, and hers were the uninstructed mind, but as if their two
 positions were reversed, and he knew nothing, and she all.
 
 He saw the children throng about her, and caress her, as he and she went
-away together thus, out of the house; he heard the ringing of their
+away together thus, out of the [[house]]; he heard the ringing of their
 laughter, and their merry voices; he saw their bright faces, clustering
-around him like flowers; he witnessed the renewed contentment and
+around him like [[Flowers|flowers]]; he witnessed the renewed contentment and
 affection of their parents; he breathed the simple air of their poor
-home, restored to its tranquillity; he thought of the unwholesome blight
+[[Home|home]], restored to its tranquillity; he thought of the unwholesome blight
 he had shed upon it, and might, but for her, have been diffusing then;
-and perhaps it is no wonder that he walked submissively beside her, and
+and perhaps it is no [[Wonder|wonder]] that he walked submissively beside her, and
 drew her gentle bosom nearer to his own.
 
 When they arrived at the Lodge, the old man was sitting in his chair in
 the chimney-corner, with his eyes fixed on the ground, and his son was
-leaning against the opposite side of the fire-place, looking at him. As
+leaning against the opposite side of the [[Fire|fire]]-place, looking at him. As
 she came in at the door, both started, and turned round towards her, and
 a radiant change came upon their faces.
 
@@ -71,16 +71,16 @@ are two more!”
 Pleased to see her! Pleasure was no word for it. She ran into her
 husband’s arms, thrown wide open to receive her, and he would have been
 glad to have her there, with her head lying on his shoulder, through the
-short winter’s day. But the old man couldn’t spare her. He had arms for
+short [[Winter|winter]]’s day. But the old man couldn’t spare her. He had arms for
 her too, and he locked her in them.
 
-“Why, where has my quiet Mouse been all this time?” said the old man.
+“Why, where has my quiet Mouse been all this [[Time|time]]?” said the old man.
 “She has been a long while away. I find that it’s impossible for me to
 get on without Mouse. I—where’s my son William?—I fancy I have been
 dreaming, William.”
 
 “That’s what I say myself, father,” returned his son. “I have been in an
-ugly sort of dream, I think.—How are you, father? Are you pretty well?”
+ugly sort of dream, I think.—How are you, father? Are you pretty [[Well|well]]?”
 
 “Strong and brave, my boy,” returned the old man.
 
@@ -99,8 +99,8 @@ said Mr. William, with enthusiasm. “When I think of all that my father’s
 gone through, and all the chances and changes, and sorrows and troubles,
 that have happened to him in the course of his long life, and under which
 his head has grown grey, and years upon years have gathered on it, I feel
-as if we couldn’t do enough to honour the old gentleman, and make his old
-age easy.—How are you, father? Are you really pretty well, though?”
+as if we couldn’t do enough to [[Honour|honour]] the old gentleman, and make his old
+age easy.—How are you, father? Are you really pretty [[Well|well]], though?”
 
 Mr. William might never have left off repeating this inquiry, and shaking
 hands with him again, and patting him again, and rubbing him down again,
@@ -109,10 +109,10 @@ seen.
 
 “I ask your pardon, Mr. Redlaw,” said Philip, “but didn’t know you were
 here, sir, or should have made less free. It reminds me, Mr. Redlaw,
-seeing you here on a Christmas morning, of the time when you was a
+seeing you here on a Christmas morning, of the [[Time|time]] when you was a
 student yourself, and worked so hard that you were backwards and forwards
-in our Library even at Christmas time. Ha! ha! I’m old enough to
-remember that; and I remember it right well, I do, though I am
+in our Library even at Christmas [[Time|time]]. Ha! ha! I’m old enough to
+remember that; and I remember it right [[Well|well]], I do, though I am
 eighty-seven. It was after you left here that my poor wife died. You
 remember my poor wife, Mr. Redlaw?”
 
@@ -126,15 +126,15 @@ The Chemist looked at him, and shook his head. “I had a sister,” he said
 vacantly. He knew no more.
 
 “One Christmas morning,” pursued the old man, “that you come here with
-her—and it began to snow, and my wife invited the lady to walk in, and
-sit by the fire that is always a burning on Christmas Day in what used to
+her—and it began to [[Snow|snow]], and my wife invited the lady to walk in, and
+sit by the [[Fire|fire]] that is always a burning on Christmas Day in what used to
 be, before our ten poor gentlemen commuted, our great Dinner Hall. I was
 there; and I recollect, as I was stirring up the blaze for the young lady
 to warm her pretty feet by, she read the scroll out loud, that is
-underneath that pictur, ‘Lord, keep my memory green!’ She and my poor
+underneath that pictur, ‘Lord, keep my [[Memory|memory]] green!’ She and my poor
 wife fell a talking about it; and it’s a strange thing to think of, now,
 that they both said (both being so unlike to die) that it was a good
-prayer, and that it was one they would put up very earnestly, if they
+[[prayer]], and that it was one they would put up very earnestly, if they
 were called away young, with reference to those who were dearest to them.
 ‘My brother,’ says the young lady—‘My husband,’ says my poor wife.—‘Lord,
-keep his memory of me, green, and do not let me be forgotten!’”
+keep his [[Memory|memory]] of me, green, and do not let me be forgotten!’”

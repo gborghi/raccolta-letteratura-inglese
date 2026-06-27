@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 2)"
+title: "[[David Copperfield]] — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,12 +20,12 @@ I, ‘that would be pleasant and amiable. And by the way,’ I said aloud,
 
 ‘Really,’ replied Traddles, laughing, and reddening, ‘I can’t wholly
 deny that I do, my dear Copperfield. For being in one of the back rows
-of the King’s Bench the other day, with a pen in my hand, the fancy came
+of the [[King]]’s Bench the other day, with a pen in my hand, the fancy came
 into my head to try how I had preserved that accomplishment. And I am
-afraid there’s a skeleton--in a wig--on the ledge of the desk.’
+afraid there’s a [[skeleton]]--in a wig--on the ledge of the desk.’
 
 After we had both laughed heartily, Traddles wound up by looking with a
-smile at the fire, and saying, in his forgiving way, ‘Old Creakle!’
+smile at the [[Fire|fire]], and saying, in his forgiving way, ‘Old Creakle!’
 
 ‘I have a letter from that old--Rascal here,’ said I. For I never was
 less disposed to forgive him the way he used to batter Traddles, than
@@ -35,7 +35,7 @@ when I saw Traddles so ready to forgive him himself.
 
 ‘Among the persons who are attracted to me in my rising fame and
 fortune,’ said I, looking over my letters, ‘and who discover that they
-were always much attached to me, is the self-same Creakle. He is not
+were always much attached to me, is the [[Self|self]]-same Creakle. He is not
 a schoolmaster now, Traddles. He is retired. He is a Middlesex
 Magistrate.’
 
@@ -52,11 +52,11 @@ county to nominate him for the commission.’
 
 ‘On the commission he is, at any rate,’ said I. ‘And he writes to me
 here, that he will be glad to show me, in operation, the only true
-system of prison discipline; the only unchallengeable way of making
+system of [[Prison|prison]] discipline; the only unchallengeable way of making
 sincere and lasting converts and penitents--which, you know, is by
 solitary confinement. What do you say?’
 
-‘To the system?’ inquired Traddles, looking grave.
+‘To the system?’ inquired Traddles, looking [[Grave|grave]].
 
 ‘No. To my accepting the offer, and your going with me?’
 
@@ -76,15 +76,15 @@ created beings.’
 Traddles shrugged his shoulders, and was not at all surprised. I had not
 expected him to be, and was not surprised myself; or my observation of
 similar practical satires would have been but scanty. We arranged the
-time of our visit, and I wrote accordingly to Mr. Creakle that evening.
+[[Time|time]] of our visit, and I wrote accordingly to Mr. Creakle that evening.
 
 On the appointed day--I think it was the next day, but no
-matter--Traddles and I repaired to the prison where Mr. Creakle was
+matter--Traddles and I repaired to the [[Prison|prison]] where Mr. Creakle was
 powerful. It was an immense and solid building, erected at a vast
 expense. I could not help thinking, as we approached the gate, what
 an uproar would have been made in the country, if any deluded man had
 proposed to spend one half the money it had cost, on the erection of an
-industrial school for the young, or a house of refuge for the deserving
+industrial school for the young, or a [[house]] of refuge for the deserving
 old.
 
 In an office that might have been on the ground-floor of the Tower of
@@ -104,16 +104,16 @@ to look at.
 After some conversation among these gentlemen, from which I might have
 supposed that there was nothing in the world to be legitimately taken
 into account but the supreme comfort of prisoners, at any expense, and
-nothing on the wide earth to be done outside prison-doors, we began
-our inspection. It being then just dinner-time, we went, first into the
+nothing on the wide earth to be done outside [[Prison|prison]]-doors, we began
+our inspection. It being then just dinner-[[Time|time]], we went, first into the
 great kitchen, where every prisoner’s dinner was in course of being set
 out separately (to be handed to him in his cell), with the regularity
-and precision of clock-work. I said aside, to Traddles, that I wondered
+and precision of [[Clock|clock]]-work. I said aside, to Traddles, that I wondered
 whether it occurred to anybody, that there was a striking contrast
 between these plentiful repasts of choice quality, and the dinners, not
 to say of paupers, but of soldiers, sailors, labourers, the great bulk
 of the honest, working community; of whom not one man in five hundred
-ever dined half so well. But I learned that the ‘system’ required high
+ever dined half so [[Well|well]]. But I learned that the ‘system’ required high
 living; and, in short, to dispose of the system, once for all, I found
 that on that head and on all others, ‘the system’ put an end to all
 doubts, and disposed of all anomalies. Nobody appeared to have the least
@@ -132,7 +132,7 @@ and to traverse the passages in which those cells were, and to have the
 manner of the going to chapel and so forth, explained to us, that there
 was a strong probability of the prisoners knowing a good deal about each
 other, and of their carrying on a pretty complete system of intercourse.
-This, at the time I write, has been proved, I believe, to be the case;
+This, at the [[Time|time]] I write, has been proved, I believe, to be the case;
 but, as it would have been flat blasphemy against the system to have
-hinted such a doubt then, I looked out for the penitence as diligently
+hinted such a [[Doubt|doubt]] then, I looked out for the penitence as diligently
 as I could.

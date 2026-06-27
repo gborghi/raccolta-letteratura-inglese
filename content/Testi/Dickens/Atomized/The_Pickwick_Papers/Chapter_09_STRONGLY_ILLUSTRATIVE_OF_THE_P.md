@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF"
+title: "The [[Pickwick]] Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,43 +15,43 @@ tags:
 
 
 CHAPTER VIII. STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF
-TRUE LOVE IS NOT A RAILWAY
+TRUE [[Love|LOVE]] IS NOT A RAILWAY
 
 The quiet seclusion of Dingley Dell, the presence of so many of the
 gentler sex, and the solicitude and anxiety they evinced in his behalf,
 were all favourable to the growth and development of those softer
-feelings which nature had implanted deep in the bosom of Mr. Tracy
+feelings which [[Nature|nature]] had implanted deep in the bosom of Mr. Tracy
 Tupman, and which now appeared destined to centre in one lovely object.
 The young ladies were pretty, their manners winning, their dispositions
 unexceptionable; but there was a dignity in the air, a touch-me-not-
 ishness in the walk, a majesty in the eye, of the spinster aunt, to
-which, at their time of life, they could lay no claim, which
+which, at their [[Time|time]] of life, they could lay no claim, which
 distinguished her from any female on whom Mr. Tupman had ever gazed.
-That there was something kindred in their nature, something congenial in
+That there was something kindred in their [[Nature|nature]], something congenial in
 their souls, something mysteriously sympathetic in their bosoms, was
-evident. Her name was the first that rose to Mr. Tupman’s lips as he lay
+evident. Her name was the first that [[Rose|rose]] to Mr. Tupman’s lips as he lay
 wounded on the grass; and her hysteric laughter was the first sound that
-fell upon his ear when he was supported to the house. But had her
+fell upon his ear when he was supported to the [[house]]. But had her
 agitation arisen from an amiable and feminine sensibility which would
 have been equally irrepressible in any case; or had it been called forth
 by a more ardent and passionate feeling, which he, of all men living,
-could alone awaken? These were the doubts which racked his brain as he
+could [[Alone|alone]] awaken? These were the doubts which racked his brain as he
 lay extended on the sofa; these were the doubts which he determined
 should be at once and for ever resolved.
 
-It was evening. Isabella and Emily had strolled out with Mr. Trundle;
+It was evening. [[Isabella]] and Emily had strolled out with Mr. Trundle;
 the deaf old lady had fallen asleep in her chair; the snoring of the fat
 boy, penetrated in a low and monotonous sound from the distant kitchen;
 the buxom servants were lounging at the side door, enjoying the
 pleasantness of the hour, and the delights of a flirtation, on first
-principles, with certain unwieldy animals attached to the farm; and
+principles, with certain unwieldy [[Animals|animals]] attached to the farm; and
 there sat the interesting pair, uncared for by all, caring for none, and
 dreaming only of themselves; there they sat, in short, like a pair of
 carefully-folded kid gloves--bound up in each other.
 
-‘I have forgotten my flowers,’ said the spinster aunt.
+‘I have forgotten my [[Flowers|flowers]],’ said the spinster aunt.
 
-‘Water them now,’ said Mr. Tupman, in accents of persuasion.
+‘[[Water]] them now,’ said Mr. Tupman, in accents of [[Persuasion|persuasion]].
 
 ‘You will take cold in the evening air,’ urged the spinster aunt
 affectionately.
@@ -60,7 +60,7 @@ affectionately.
 you.’
 
 The lady paused to adjust the sling in which the left arm of the youth
-was placed, and taking his right arm led him to the garden.
+was placed, and taking his right arm led him to the [[Garden|garden]].
 
 There was a bower at the farther end, with honeysuckle, jessamine, and
 creeping plants--one of those sweet retreats which humane men erect for
@@ -81,14 +81,14 @@ rattle.
 ‘Mr. Tupman!’ exclaimed Rachael, blushing as red as the watering-pot
 itself.
 
-‘Nay,’ said the eloquent Pickwickian--‘I know it but too well.’
+‘Nay,’ said the eloquent Pickwickian--‘I know it but too [[Well|well]].’
 
 ‘All women are angels, they say,’ murmured the lady playfully.
 
 ‘Then what can you be; or to what, without presumption, can I compare
 you?’ replied Mr. Tupman. ‘Where was the woman ever seen who resembled
-you? Where else could I hope to find so rare a combination of excellence
-and beauty? Where else could I seek to--Oh!’ Here Mr. Tupman paused, and
+you? Where else could I [[Hope|hope]] to find so rare a combination of excellence
+and [[Beauty|beauty]]? Where else could I seek to--Oh!’ Here Mr. Tupman paused, and
 pressed the hand which clasped the handle of the happy watering-pot.
 
 The lady turned aside her head. ‘Men are such deceivers,’ she softly
@@ -110,7 +110,7 @@ intention, Mr. Tupman had sunk upon his knees at her feet.
 
 ‘Never!’ was the valorous reply. ‘Oh, Rachael!’ He seized her passive
 hand, and the watering-pot fell to the ground as he pressed it to his
-lips.--‘Oh, Rachael! say you love me.’
+lips.--‘Oh, Rachael! say you [[Love|love]] me.’
 
 ‘Mr. Tupman,’ said the spinster aunt, with averted head, ‘I can hardly
 speak the words; but--but--you are not wholly indifferent to me.’
@@ -150,7 +150,7 @@ Mr. Tupman looked at him very hard again; but there was not a wink in
 his eye, or a curve in his face.
 
 Mr. Tupman took the arm of the spinster aunt, and walked towards the
-house; the fat boy followed behind.
+[[house]]; the fat boy followed behind.
 
 ‘He knows nothing of what has happened,’ he whispered.
 
@@ -163,7 +163,7 @@ visage.
 
 ‘He must have been fast asleep,’ whispered Mr. Tupman.
 
-‘I have not the least doubt of it,’ replied the spinster aunt.
+‘I have not the least [[Doubt|doubt]] of it,’ replied the spinster aunt.
 
 They both laughed heartily.
 
@@ -171,64 +171,64 @@ Mr. Tupman was wrong. The fat boy, for once, had not been fast asleep.
 He was awake--wide awake--to what had been going forward.
 
 The supper passed off without any attempt at a general conversation. The
-old lady had gone to bed; Isabella Wardle devoted herself exclusively to
+old lady had gone to bed; [[Isabella]] Wardle devoted herself exclusively to
 Mr. Trundle; the spinster’s attentions were reserved for Mr. Tupman; and
 Emily’s thoughts appeared to be engrossed by some distant object--
 possibly they were with the absent Snodgrass.
 
-Eleven--twelve--one o’clock had struck, and the gentlemen had not
+Eleven--twelve--one o’[[Clock|clock]] had struck, and the gentlemen had not
 arrived. Consternation sat on every face. Could they have been waylaid
 and robbed? Should they send men and lanterns in every direction by
-which they could be supposed likely to have travelled home? or should
+which they could be supposed likely to have travelled [[Home|home]]? or should
 they--Hark! there they were. What could have made them so late? A
 strange voice, too! To whom could it belong? They rushed into the
 kitchen, whither the truants had repaired, and at once obtained rather
 more than a glimmering of the real state of the case.
 
-Mr. Pickwick, with his hands in his pockets and his hat cocked
+Mr. [[Pickwick]], with his hands in his pockets and his hat cocked
 completely over his left eye, was leaning against the dresser, shaking
 his head from side to side, and producing a constant succession of the
 blandest and most benevolent smiles without being moved thereunto by any
 discernible cause or pretence whatsoever; old Mr. Wardle, with a highly-
 inflamed countenance, was grasping the hand of a strange gentleman
-muttering protestations of eternal friendship; Mr. Winkle, supporting
-himself by the eight-day clock, was feebly invoking destruction upon the
+muttering protestations of eternal [[Friendship|friendship]]; Mr. Winkle, supporting
+himself by the eight-day [[Clock|clock]], was feebly invoking destruction upon the
 head of any member of the family who should suggest the propriety of his
-retiring for the night; and Mr. Snodgrass had sunk into a chair, with an
+retiring for the [[Night|night]]; and Mr. Snodgrass had sunk into a chair, with an
 expression of the most abject and hopeless misery that the human mind
 can imagine, portrayed in every lineament of his expressive face.
 
 ‘Is anything the matter?’ inquired the three ladies.
 
-‘Nothing the matter,’ replied Mr. Pickwick. ‘We--we’re--all right.--I
+‘Nothing the matter,’ replied Mr. [[Pickwick]]. ‘We--we’re--all right.--I
 say, Wardle, we’re all right, ain’t we?’
 
 ‘I should think so,’ replied the jolly host.--‘My dears, here’s my
-friend Mr. Jingle--Mr. Pickwick’s friend, Mr. Jingle, come ‘pon--little
+friend Mr. Jingle--Mr. [[Pickwick]]’s friend, Mr. Jingle, come ‘pon--little
 visit.’
 
 ‘Is anything the matter with Mr. Snodgrass, Sir?’ inquired Emily, with
 great anxiety.
 
 ‘Nothing the matter, ma’am,’ replied the stranger. ‘Cricket dinner--
-glorious party--capital songs--old port--claret--good--very good--wine,
+glorious party--capital [[songs]]--old port--claret--good--very good--wine,
 ma’am--wine.’
 
 
 ‘It wasn’t the wine,’ murmured Mr. Snodgrass, in a broken voice. ‘It was
 the salmon.’ (Somehow or other, it never is the wine, in these cases.)
 
-‘Hadn’t they better go to bed, ma’am?’ inquired Emma. ‘Two of the boys
+‘Hadn’t they better go to bed, ma’am?’ inquired [[Emma]]. ‘Two of the boys
 will carry the gentlemen upstairs.’
 
 ‘I won’t go to bed,’ said Mr. Winkle firmly.
 
-‘No living boy shall carry me,’ said Mr. Pickwick stoutly; and he went
+‘No living boy shall carry me,’ said Mr. [[Pickwick]] stoutly; and he went
 on smiling as before.
 
 ‘Hurrah!’ gasped Mr. Winkle faintly.
 
-‘Hurrah!’ echoed Mr. Pickwick, taking off his hat and dashing it on the
+‘Hurrah!’ echoed Mr. [[Pickwick]], taking off his hat and dashing it on the
 floor, and insanely casting his spectacles into the middle of the
 kitchen. At this humorous feat he laughed outright.
 
@@ -239,10 +239,10 @@ bed, and a sanguinary regret that he had not ‘done for old Tupman’ in
 the morning, he fell fast asleep; in which condition he was borne to his
 apartment by two young giants under the personal superintendence of the
 fat boy, to whose protecting care Mr. Snodgrass shortly afterwards
-confided his own person, Mr. Pickwick accepted the proffered arm of Mr.
+confided his own person, Mr. [[Pickwick]] accepted the proffered arm of Mr.
 Tupman and quietly disappeared, smiling more than ever; and Mr. Wardle,
 after taking as affectionate a leave of the whole family as if he were
-ordered for immediate execution, consigned to Mr. Trundle the honour of
+ordered for immediate execution, consigned to Mr. Trundle the [[Honour|honour]] of
 conveying him upstairs, and retired, with a very futile attempt to look
 impressively solemn and dignified.
 
@@ -250,7 +250,7 @@ impressively solemn and dignified.
 
 ‘Dis-gusting!’ ejaculated both the young ladies.
 
-‘Dreadful--dreadful!’ said Jingle, looking very grave: he was about a
+‘Dreadful--dreadful!’ said Jingle, looking very [[Grave|grave]]: he was about a
 bottle and a half ahead of any of his companions. ‘Horrid spectacle--
 very!’
 
@@ -261,7 +261,7 @@ very!’
 ‘Oh, decidedly,’ observed the spinster aunt.
 
 Mr. Tupman thought of the widow at Rochester, and his mind was troubled.
-The succeeding half-hour’s conversation was not of a nature to calm his
+The succeeding half-hour’s conversation was not of a [[Nature|nature]] to calm his
 perturbed spirit. The new visitor was very talkative, and the number of
 his anecdotes was only to be exceeded by the extent of his politeness.
 Mr. Tupman felt that as Jingle’s popularity increased, he (Tupman)
@@ -271,9 +271,9 @@ he thought, with horrid delight, on the satisfaction it would afford him
 to have Jingle’s head at that moment between the feather bed and the
 mattress.
 
-The indefatigable stranger rose betimes next morning, and, although his
+The indefatigable stranger [[Rose|rose]] betimes next morning, and, although his
 companions remained in bed overpowered with the dissipation of the
-previous night, exerted himself most successfully to promote the
+previous [[Night|night]], exerted himself most successfully to promote the
 hilarity of the breakfast-table. So successful were his efforts, that
 even the deaf old lady insisted on having one or two of his best jokes
 retailed through the trumpet; and even she condescended to observe to
@@ -281,7 +281,7 @@ the spinster aunt, that ‘He’ (meaning Jingle) ‘was an impudent young
 fellow:’ a sentiment in which all her relations then and there present
 thoroughly coincided.
 
-It was the old lady’s habit on the fine summer mornings to repair to the
+It was the old lady’s habit on the fine [[Summer|summer]] mornings to repair to the
 arbour in which Mr. Tupman had already signalised himself, in form and
 manner following: first, the fat boy fetched from a peg behind the old
 lady’s bedroom door, a close black satin bonnet, a warm cotton shawl,
@@ -289,8 +289,8 @@ and a thick stick with a capacious handle; and the old lady, having put
 on the bonnet and shawl at her leisure, would lean one hand on the stick
 and the other on the fat boy’s shoulder, and walk leisurely to the
 arbour, where the fat boy would leave her to enjoy the fresh air for the
-space of half an hour; at the expiration of which time he would return
-and reconduct her to the house.
+space of half an hour; at the expiration of which [[Time|time]] he would return
+and reconduct her to the [[house]].
 
 The old lady was very precise and very particular; and as this ceremony
 had been observed for three successive summers without the slightest
@@ -311,7 +311,7 @@ it seemed to her, a threatening tone--
 
 ‘Missus!’
 
-Now it so happened that Mr. Jingle was walking in the garden close to
+Now it so happened that Mr. Jingle was walking in the [[Garden|garden]] close to
 the arbour at that moment. He too heard the shouts of ‘Missus,’ and
 stopped to hear more. There were three reasons for his doing so. In the
 first place, he was idle and curious; secondly, he was by no means
@@ -320,7 +320,7 @@ flowering shrubs. So there he stood, and there he listened.
 
 ‘Missus!’ shouted the fat boy.
 
-‘Well, Joe,’ said the trembling old lady. ‘I’m sure I have been a good
+‘[[Well]], Joe,’ said the trembling old lady. ‘I’m sure I have been a good
 mistress to you, Joe. You have invariably been treated very kindly. You
 have never had too much to do; and you have always had enough to eat.’
 
@@ -329,7 +329,7 @@ seemed touched, as he replied emphatically--
 
 ‘I knows I has.’
 
-‘Then what can you want to do now?’ said the old lady, gaining courage.
+‘Then what can you want to do now?’ said the old lady, gaining [[Courage|courage]].
 
 ‘I wants to make your flesh creep,’ replied the boy.
 
@@ -337,7 +337,7 @@ This sounded like a very bloodthirsty mode of showing one’s gratitude;
 and as the old lady did not precisely understand the process by which
 such a result was to be attained, all her former horrors returned.
 
-‘What do you think I see in this very arbour last night?’ inquired the
+‘What do you think I see in this very arbour last [[Night|night]]?’ inquired the
 boy.
 
 ‘Bless us! What?’ exclaimed the old lady, alarmed at the solemn manner
@@ -346,7 +346,7 @@ of the corpulent youth.
 ‘The strange gentleman--him as had his arm hurt--a-kissin’ and huggin’--
 ‘
 
-‘Who, Joe? None of the servants, I hope.’
+‘Who, Joe? None of the servants, I [[Hope|hope]].’
 
 Worser than that,’ roared the fat boy, in the old lady’s ear.
 
@@ -380,16 +380,16 @@ fat boy’s features as he said--
 If Mr. Jingle, from his place of concealment, could have beheld the
 expression which the old lady’s face assumed at this communication, the
 probability is that a sudden burst of laughter would have betrayed his
-close vicinity to the summer-house. He listened attentively. Fragments
-of angry sentences such as, ‘Without my permission!’--‘At her time of
+close vicinity to the [[Summer|summer]]-[[house]]. He listened attentively. Fragments
+of angry sentences such as, ‘Without my permission!’--‘At her [[Time|time]] of
 life’--‘Miserable old ‘ooman like me’--‘Might have waited till I was
 dead,’ and so forth, reached his ears; and then he heard the heels of
 the fat boy’s boots crunching the gravel, as he retired and left the old
-lady alone.
+lady [[Alone|alone]].
 
 It was a remarkable coincidence perhaps, but it was nevertheless a fact,
 that Mr. Jingle within five minutes of his arrival at Manor Farm on the
-preceding night, had inwardly resolved to lay siege to the heart of the
+preceding [[Night|night]], had inwardly resolved to lay siege to the heart of the
 spinster aunt, without delay. He had observation enough to see, that his
 off-hand manner was by no means disagreeable to the fair object of his
 attack; and he had more than a strong suspicion that she possessed that
@@ -397,28 +397,28 @@ most desirable of all requisites, a small independence. The imperative
 necessity of ousting his rival by some means or other, flashed quickly
 upon him, and he immediately resolved to adopt certain proceedings
 tending to that end and object, without a moment’s delay. Fielding tells
-us that man is fire, and woman tow, and the Prince of Darkness sets a
+us that man is [[Fire|fire]], and woman tow, and the Prince of Darkness sets a
 light to ‘em. Mr. Jingle knew that young men, to spinster aunts, are as
-lighted gas to gunpowder, and he determined to essay the effect of an
-explosion without loss of time.
+lighted gas to gunpowder, and he determined to [[Essay|essay]] the effect of an
+explosion without loss of [[Time|time]].
 
 Full of reflections upon this important decision, he crept from his
 place of concealment, and, under cover of the shrubs before mentioned,
-approached the house. Fortune seemed determined to favour his design.
-Mr. Tupman and the rest of the gentlemen left the garden by the side
+approached the [[house]]. Fortune seemed determined to favour his design.
+Mr. Tupman and the rest of the gentlemen left the [[Garden|garden]] by the side
 gate just as he obtained a view of it; and the young ladies, he knew,
-had walked out alone, soon after breakfast. The coast was clear.
+had walked out [[Alone|alone]], soon after breakfast. The coast was clear.
 
 The breakfast-parlour door was partially open. He peeped in. The
 spinster aunt was knitting. He coughed; she looked up and smiled.
-Hesitation formed no part of Mr. Alfred Jingle’s character. He laid his
+Hesitation formed no part of Mr. [[Alfred Jingle]]’s character. He laid his
 finger on his lips mysteriously, walked in, and closed the door.
 
 ‘Miss Wardle,’ said Mr. Jingle, with affected earnestness, ‘forgive
-intrusion--short acquaintance--no time for ceremony--all discovered.’
+intrusion--short acquaintance--no [[Time|time]] for ceremony--all discovered.’
 
 ‘Sir!’ said the spinster aunt, rather astonished by the unexpected
-apparition and somewhat doubtful of Mr. Jingle’s sanity.
+apparition and somewhat doubtful of Mr. Jingle’s [[Sanity|sanity]].
 
 ‘Hush!’ said Mr. Jingle, in a stage-whisper--‘Large boy--dumpling face--
 round eyes--rascal!’ Here he shook his head expressively, and the
@@ -439,13 +439,13 @@ the tale--came to warn you of your danger--tender my services--prevent
 the hubbub. Never mind--think it an insult--leave the room’--and he
 turned, as if to carry the threat into execution.
 
-‘What _shall_ I do!’ said the poor spinster, bursting into tears. ‘My
+‘What _shall_ I do!’ said the poor spinster, bursting into [[Tears|tears]]. ‘My
 brother will be furious.’
 
 ‘Of course he will,’ said Mr. Jingle pausing--‘outrageous.’
 
 Oh, Mr. Jingle, what _can_ I say!’ exclaimed the spinster aunt, in
-another flood of despair.
+another flood of [[Despair|despair]].
 
 ‘Say he dreamt it,’ replied Mr. Jingle coolly.
 
@@ -470,7 +470,7 @@ suddenly withdrew them.
 the cause, with a view, if possible, to its removal?’
 
 ‘Ha!’ exclaimed Mr. Jingle, with another start--‘removal! remove my
-unhappiness, and your love bestowed upon a man who is insensible to the
+unhappiness, and your [[Love|love]] bestowed upon a man who is insensible to the
 blessing--who even now contemplates a design upon the affections of the
 niece of the creature who--but no; he is my friend; I will not expose
 his vices. Miss Wardle--farewell!’ At the conclusion of this address,
@@ -482,7 +482,7 @@ towards the door.
 an allusion to Mr. Tupman--explain it.’
 
 ‘Never!’ exclaimed Jingle, with a professional (i.e., theatrical) air.
-‘Never!’ and, by way of showing that he had no desire to be questioned
+‘Never!’ and, by way of showing that he had no [[Desire|desire]] to be questioned
 further, he drew a chair close to that of the spinster aunt and sat
 down.
 
@@ -506,9 +506,9 @@ Short girl--black eyes--niece Emily.’
 There was a pause.
 
 Now, if there was one individual in the whole world, of whom the
-spinster aunt entertained a mortal and deep-rooted jealousy, it was this
+spinster aunt entertained a mortal and deep-rooted [[Jealousy|jealousy]], it was this
 identical niece. The colour rushed over her face and neck, and she
-tossed her head in silence with an air of ineffable contempt. At last,
+tossed her head in [[Silence|silence]] with an air of ineffable contempt. At last,
 biting her thin lips, and bridling up, she said--
 
 ‘It can’t be. I won’t believe it.’
@@ -561,28 +561,28 @@ Yes.’
 ‘You shall.’
 
 Mr. Jingle fell on his knees, remained thereupon for five minutes
-thereafter; and rose the accepted lover of the spinster aunt--
+thereafter; and [[Rose|rose]] the accepted [[Lover|lover]] of the spinster aunt--
 conditionally upon Mr. Tupman’s perjury being made clear and manifest.
 
-The burden of proof lay with Mr. Alfred Jingle; and he produced his
+The burden of proof lay with Mr. [[Alfred Jingle]]; and he produced his
 evidence that very day at dinner. The spinster aunt could hardly believe
-her eyes. Mr. Tracy Tupman was established at Emily’s side, ogling,
+her eyes. Mr. [[Tracy Tupman]] was established at Emily’s side, ogling,
 whispering, and smiling, in opposition to Mr. Snodgrass. Not a word, not
-a look, not a glance, did he bestow upon his heart’s pride of the
+a look, not a glance, did he bestow upon his heart’s [[Pride|pride]] of the
 evening before.
 
 ‘Damn that boy!’ thought old Mr. Wardle to himself.--He had heard the
 story from his mother. ‘Damn that boy! He must have been asleep. It’s
-all imagination.’
+all [[Imagination|imagination]].’
 
 ‘Traitor!’ thought the spinster aunt. ‘Dear Mr. Jingle was not deceiving
 me. Ugh! how I hate the wretch!’
 
 The following conversation may serve to explain to our readers this
 apparently unaccountable alteration of deportment on the part of Mr.
-Tracy Tupman.
+[[Tracy Tupman]].
 
-The time was evening; the scene the garden. There were two figures
+The [[Time|time]] was evening; the scene the [[Garden|garden]]. There were two figures
 walking in a side path; one was rather short and stout; the other tall
 and slim. They were Mr. Tupman and Mr. Jingle. The stout figure
 commenced the dialogue.
@@ -596,22 +596,22 @@ to-morrow--every evening till further notice.’
 
 ‘Of course--she don’t like it--but must be done--avert suspicion--afraid
 of her brother--says there’s no help for it--only a few days more--when
-old folks blinded--crown your happiness.’
+old folks blinded--[[Crown|crown]] your happiness.’
 
 ‘Any message?’
 
-‘Love--best love--kindest regards--unalterable affection. Can I say
+‘[[Love]]--best [[Love|love]]--kindest regards--unalterable affection. Can I say
 anything for you?’
 
 ‘My dear fellow,’ replied the unsuspicious Mr. Tupman, fervently
-grasping his ‘friend’s’ hand--‘carry my best love--say how hard I find
+grasping his ‘friend’s’ hand--‘carry my best [[Love|love]]--say how hard I find
 it to dissemble--say anything that’s kind: but add how sensible I am of
 the necessity of the suggestion she made to me, through you, this
 morning. Say I applaud her wisdom and admire her discretion.’
 
 I will. Anything more?’
 
-‘Nothing, only add how ardently I long for the time when I may call her
+‘Nothing, only add how ardently I long for the [[Time|time]] when I may call her
 mine, and all dissimulation may be unnecessary.’
 
 ‘Certainly, certainly. Anything more?’
@@ -631,7 +631,7 @@ can you?--very particular purpose--pay you in three days.’
 
 ‘Only three days--all over then--no more difficulties.’ Mr. Tupman
 counted the money into his companion’s hand, and he dropped it piece by
-piece into his pocket, as they walked towards the house.
+piece into his pocket, as they walked towards the [[house]].
 
 ‘Be careful,’ said Mr. Jingle--‘not a look.’
 
@@ -647,15 +647,15 @@ aunt--only way of deceiving the old ones.’
 ‘I’ll take care,’ said Mr. Tupman aloud.
 
 ‘And _I’ll_ take care,’ said Mr. Jingle internally; and they entered the
-house.
+[[house]].
 
 The scene of that afternoon was repeated that evening, and on the three
 afternoons and evenings next ensuing. On the fourth, the host was in
 high spirits, for he had satisfied himself that there was no ground for
 the charge against Mr. Tupman. So was Mr. Tupman, for Mr. Jingle had
 told him that his affair would soon be brought to a crisis. So was Mr.
-Pickwick, for he was seldom otherwise. So was not Mr. Snodgrass, for he
+[[Pickwick]], for he was seldom otherwise. So was not Mr. Snodgrass, for he
 had grown jealous of Mr. Tupman. So was the old lady, for she had been
 winning at whist. So were Mr. Jingle and Miss Wardle, for reasons of
-sufficient importance in this eventful history to be narrated in another
+sufficient importance in this eventful [[history]] to be narrated in another
 chapter.

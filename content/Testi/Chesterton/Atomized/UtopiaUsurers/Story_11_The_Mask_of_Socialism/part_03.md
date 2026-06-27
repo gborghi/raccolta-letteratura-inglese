@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 3)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -24,15 +24,15 @@ course, and their schoolmasters gave it to them as a matter of course.
 
 To tell a poor woman that she must not have any until half the day is
 
-over is simply cracked, like telling a dog or a child that he must
+over is simply cracked, like telling a dog or a [[Child|child]] that he must
 
-not have water. (2) The public-house is not a secret rendezvous of bad
+not have [[Water|water]]. (2) The public-[[house]] is not a secret rendezvous of bad
 
 characters. It is the open and obvious place for a certain purpose,
 
 which all men used for that purpose until the rich began to be snobs
 
-and the poor to become slaves. One might as well warn people against
+and the poor to become slaves. One might as [[Well|well]] warn people against
 
 Willesden Junction. (3) Many poor people live in houses where they
 
@@ -62,11 +62,11 @@ Something has come into our community, which is strong enough to save
 
 our community; but which has not yet got a name. Let no one fancy I
 
-confess any unreality when I confess the namelessness. The morality
+confess any unreality when I confess the namelessness. The [[morality]]
 
-called Puritanism, the tendency called Liberalism, the reaction called
+called [[Puritanism]], the tendency called Liberalism, the reaction called
 
-Tory Democracy, had not only long been powerful, but had practically
+Tory [[Democracy]], had not only long been powerful, but had practically
 
 done most of their work, before these actual names were attached to
 
@@ -76,7 +76,7 @@ portable and practicable way of referring to those who think as we do
 
 in our main concern. Which is, that men in England are ruled, at this
 
-minute by the clock, by brutes who refuse them bread, by liars who
+minute by the [[Clock|clock]], by brutes who refuse them bread, by liars who
 
 refuse them news, and by fools who cannot govern, and therefore wish to
 
@@ -88,21 +88,21 @@ Let me explain first why I am not satisfied with the word commonly used,
 
 which I have often used myself; and which, in some contexts, is quite
 
-the right word to use. I mean the word "rebel." Passing over the fact
+the right word to use. I mean the word "[[Rebel|rebel]]." Passing over the fact
 
 that many who understand the justice of our cause (as a great many at
 
-the Universities) would still use the word "rebel" in its old and strict
+the Universities) would still use the word "[[Rebel|rebel]]" in its old and strict
 
 sense as meaning only a disturber of just rule. I pass to a much more
 
-practical point. The word "rebel" understates our cause. It is much too
+practical point. The word "[[Rebel|rebel]]" understates our cause. It is much too
 
 mild; it lets our enemies off much too easily. There is a tradition in
 
-all western life and letters of Prometheus defying the stars, of man
+all western life and letters of [[Prometheus]] defying the [[Stars|stars]], of man
 
-at war with the Universe, and dreaming what nature had never dared to
+at war with the Universe, and dreaming what [[Nature|nature]] had never dared to
 
 dream. All this is valuable in its place and proportion. But it has
 
@@ -110,7 +110,7 @@ nothing whatever to do with our ease; or rather it very much weakens it.
 
 The plutocrats will be only too pleased if we profess to preach a new
 
-morality; for they know jolly well that they have broken the old one.
+[[morality]]; for they know jolly [[Well|well]] that they have broken the old one.
 
 They will be only too pleased to be able to say that we, by our own
 
@@ -126,9 +126,9 @@ Christians. And avarice has gone mad in the governing class to-day, just
 
 as lust went mad in the circle of Nero. By all the working and orthodox
 
-standards of sanity, capitalism is insane. I should not say to Mr.
+standards of [[Sanity|sanity]], capitalism is insane. I should not say to Mr.
 
-Rockefeller "I am a rebel." I should say "I am a respectable man: and
+Rockefeller "I am a [[Rebel|rebel]]." I should say "I am a respectable man: and
 
 you are not."
 
@@ -170,17 +170,17 @@ to ascertain the cause. And suppose the clerk could only explain, in a
 
 muffled voice through the brown paper, that he was by constitution and
 
-temperament a Rebel. Don't you see that he would be rather understating
+temperament a [[Rebel]]. Don't you see that he would be rather understating
 
 his case? Don't you see he would be bearing his injuries much too
 
 meekly? They might take him out of the parcel; but they would very
 
-possibly put him into a mad-house instead. Symbolically speaking, that
+possibly put him into a mad-[[house]] instead. Symbolically speaking, that
 
 is what they would like to do with us. Symbolically speaking, the dirty
 
-misers who rule us will put us in a mad-house--unless we can put them
+misers who rule us will put us in a mad-[[house]]--unless we can put them
 
 there.
 
@@ -202,11 +202,11 @@ position. Suppose no books were shown. Suppose when the new cashier came
 
 to be initiated into his duties, the old cashier did not tell him about
 
-the money, but confided it to the honour and delicacy of his own maiden
+the money, but confided it to the [[Honour|honour]] and delicacy of his own maiden
 
 aunt at Cricklewood. Suppose he then went off in a yacht to visit
 
-the whale fisheries of the North Sea. Well, in every moral and legal
+the whale fisheries of the North Sea. [[Well]], in every moral and legal
 
 principle, that is a precise account of the dealings with the Party
 

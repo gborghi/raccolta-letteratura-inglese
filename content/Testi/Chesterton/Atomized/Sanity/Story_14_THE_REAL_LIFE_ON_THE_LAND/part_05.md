@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE REAL LIFE ON THE LAND (part 5)"
+title: "[[Sanity]] — THE REAL LIFE ON THE LAND (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -16,15 +16,15 @@ tags:
 
 Though much could be done by volunteers, and by a voluntary bargain
 between the man who really could do the work and the man who frequently
-cannot get the rent, there is nothing in our social philosophy
+cannot get the rent, there is nothing in our social [[philosophy]]
 that forbids the use of the State power where it can be used.
 And either by the State subsidy or some large voluntary fund,
 it seems to me that it would still be possible at least to give
 the other man something as good as the rent that he does not get.
 In other words, long before our Communists come to the controversial
 ethics of confiscation, it seems to me within the resources of
-civilization to enable Brown to buy from Smith what is now of very
-little value to Smith and might be of very great value to Brown.
+civilization to enable Brown to buy from [[smith|Smith]] what is now of very
+little value to [[smith|Smith]] and might be of very great value to Brown.
 I know the current complaint against subsidy, and the general
 argument that applies equally to subscription; but I do think
 that a subsidy to restore agriculture would find more repayment
@@ -33,13 +33,13 @@ just as I think that in its turn more defensible than half a hundred
 salaries that we pay to a mob of nobodies for plaguing the poor with sham
 science and petty tyranny.  But there are, as I have already hinted,
 other ways by which even the State could help in the matter.
-So long as we have State education, it seems a pity that it can
+So long as we have State [[Education|education]], it seems a pity that it can
 never at any moment be determined by the needs of the State.
 If the immediate need of the State is to pay some attention
 to the existence of the earth, there really seems no reason why
-the eyes of the schoolmasters and schoolboys, staring at the stars,
+the eyes of the schoolmasters and schoolboys, staring at the [[Stars|stars]],
 should not be turned in the direction of that planet.  At present
-we have education, not indeed for angels, but rather for aviators.
+we have [[Education|education]], not indeed for angels, but rather for aviators.
 They do not even understand a man's wish to remain tied to the ground.
 There is in their ideal an insanity that may be truly called unearthly.
 
@@ -67,7 +67,7 @@ people do not even believe in its existence, and can hardly believe
 in its extension.
 
 So far, I merely propose to suggest that many peasants would now be
-ready to work alone on the land, though it would be a sacrifice;
+ready to work [[Alone|alone]] on the land, though it would be a sacrifice;
 that many squires would be ready to let them have the land,
 though it would be a sacrifice; that the State (and for that matter
 any other patriotic corporation) could be called upon to help either
@@ -89,13 +89,13 @@ for undoing it.  The others are all proposals for overdoing it.
 The natural thing to do with a wrong operation is to reverse it.
 The natural action, when property has fallen into fewer hands,
 is to restore it to more numerous hands.  If twenty men are fishing
-in a river in such a crowd that their fishing-lines all get
+in a [[River|river]] in such a crowd that their fishing-lines all get
 entangled into one, the normal operation is to disentangle them,
 and sort them out so that each fisherman has his own fishing-line.
-No doubt a collectivist philosopher standing on the bank might
+No [[Doubt|doubt]] a collectivist philosopher standing on the bank might
 point out that the interwoven lines were now practically a net;
 and might be trailed along by a common effort so as to drag
-the river-bed. But apart from his scheme being doubtful in practice,
+the [[River|river]]-bed. But apart from his scheme being doubtful in practice,
 it insults the intellectual instincts even in principle.  It is not
 putting things right to take a doubtful advantage of their being wrong;
 and it does not even sound like a sane design to exaggerate an accident.
@@ -107,14 +107,14 @@ the long-winded sociological schemes to be quite unnatural.
 For that reason I suggest in this section that many ordinary men,
 landlords and labourers, Tories and Radicals, would probably help
 us in this task, if it were separated from party politics and from
-the pride and pedantry of the intellectuals.
+the [[Pride|pride]] and pedantry of the intellectuals.
 
 But there is another aspect in which the task is both more easy
 and more difficult.  It is more easy because it need not be crushed
 by complexities of cosmopolitan trade.  It is harder because it is
 a hard life to live apart from them.  A Distributist for whose work
 (on a little paper defaced, alas, with my own initials)
-I have a very lively gratitude, once noted a truth often neglected.
+I have a very lively gratitude, once noted a [[Truth|truth]] often neglected.
 He said that living on the land was quite a different thing from living
 by carting things off it.  He proved, far more lucidly than I could,
 how practical is the difference in economics.  But I should like
@@ -138,11 +138,11 @@ in the sense of sleeping on the land but of feeding on the land.
 There will be many who maintain that this would mean a very dull life
 compared with the excitements of dying in a workhouse in Liverpool;
 just as there are many who insist that the average woman is made
-to drudge in the home, without asking whether the average man exults
+to drudge in the [[Home|home]], without asking whether the average man exults
 in having to drudge in the office.  But passing over the fact that we
 may soon be faced with a problem at least as prosaic as a famine,
 I do not admit that such a life is necessarily or entirely prosaic.
-Rustic populations, largely self-supporting, seem to have amused
+Rustic populations, largely [[Self|self]]-supporting, seem to have amused
 themselves with a great many mythologies and dances and decorative arts;
 and I am not convinced that the turnip-eater always has a head like a
 turnip or that the top-hat always covers the brain of a philosopher.
@@ -160,6 +160,6 @@ The community is at present very defective because there
 is not in the core of it any such simple consciousness;
 any one man who represents the two parties to a contract.
 Unless there is, there is nowhere a full understanding of those terms:
-self-support, self-control, self-government. He is the only unanimous
+[[Self|self]]-support, [[Self|self]]-control, [[Self|self]]-[[government]]. He is the only unanimous
 mob and the only universal man.  He is the one half of the world
 which does know how the other half lives.

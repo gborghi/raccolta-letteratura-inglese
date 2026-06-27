@@ -1,5 +1,5 @@
 ---
-title: "debate — R. CHESTERTON:  Ladies and gentlemen.  The answer is in the negative."
+title: "[[debate]] — R. CHESTERTON:  Ladies and gentlemen.  The answer is in the negative."
 author: "Chesterton"
 unitType: story
 parentWork: "Works/debate-(Chesterton)"
@@ -15,16 +15,16 @@ tags:
 
 
 MR. CHESTERTON:  Ladies and gentlemen.  The answer is in the negative.
-I don't agree with it.  Nor does Mr. Shaw.  He does not think,
+I don't agree with it.  Nor does Mr. [[Shaw]].  He does not think,
 any more than I do, that all the people in this hall, who have
 already created some confusion, should increase the confusion
 by killing each other and searching each other's pockets to see
-whether there is half-a-crown or two shillings in them.
+whether there is half-a-[[Crown|crown]] or two shillings in them.
 As regards the general question, what I want to say is this:
 I should like to say to begin with that I have no intention of
-following Mr. Shaw into a discussion which would be very improper on
+following Mr. [[Shaw]] into a discussion which would be very improper on
 my part on the condition of the Church of England.  But since he has
 definitely challenged me on the point I will say--he will not agree--
-that Mr. Shaw is indeed a peacemaker and has reconciled both sides.
+that Mr. [[Shaw]] is indeed a peacemaker and has reconciled both sides.
 For if the Arch bishop is anti-intellectual there will be nobody
 to pretend that the Bishop is intellectual.

@@ -32,9 +32,9 @@ man with a great puffed head and forehead, swelled veins in his temples,
 and such a strained skin to his face that it seemed to hold his eyes
 open, and lift his eyebrows up.  A man with a pervading appearance on him
 of being inflated like a balloon, and ready to start.  A man who could
-never sufficiently vaunt himself a self-made man.  A man who was always
+never sufficiently vaunt himself a [[Self-Made Man|self-made man]].  A man who was always
 proclaiming, through that brassy speaking-trumpet of a voice of his, his
-old ignorance and his old poverty.  A man who was the Bully of humility.
+old ignorance and his old [[Poverty|poverty]].  A man who was the Bully of [[Humility|humility]].
 
 A year or two younger than his eminently practical friend, Mr. Bounderby
 looked older; his seven or eight and forty might have had the seven or
@@ -44,15 +44,15 @@ left, all standing up in disorder, was in that condition from being
 constantly blown about by his windy boastfulness.
 
 In the formal drawing-room of Stone Lodge, standing on the hearthrug,
-warming himself before the fire, Mr. Bounderby delivered some
+warming himself before the [[Fire|fire]], Mr. Bounderby delivered some
 observations to Mrs. Gradgrind on the circumstance of its being his
-birthday.  He stood before the fire, partly because it was a cool spring
+birthday.  He stood before the [[Fire|fire]], partly because it was a cool [[spring]]
 afternoon, though the sun shone; partly because the shade of Stone Lodge
-was always haunted by the ghost of damp mortar; partly because he thus
+was always haunted by the [[Ghost|ghost]] of damp mortar; partly because he thus
 took up a commanding position, from which to subdue Mrs. Gradgrind.
 
 ‘I hadn’t a shoe to my foot.  As to a stocking, I didn’t know such a
-thing by name.  I passed the day in a ditch, and the night in a pigsty.
+thing by name.  I passed the day in a ditch, and the [[Night|night]] in a pigsty.
 That’s the way I spent my tenth birthday.  Not that a ditch was new to
 me, for I was born in a ditch.’
 
@@ -62,7 +62,7 @@ without any effect, and who, whenever she showed a symptom of coming to
 life, was invariably stunned by some weighty piece of fact tumbling on
 her; Mrs. Gradgrind hoped it was a dry ditch?
 
-‘No!  As wet as a sop.  A foot of water in it,’ said Mr. Bounderby.
+‘No!  As wet as a sop.  A foot of [[Water|water]] in it,’ said Mr. Bounderby.
 
 ‘Enough to give a baby cold,’ Mrs. Gradgrind considered.
 
@@ -104,37 +104,37 @@ was big enough to run away, of course I ran away.  Then I became a young
 vagabond; and instead of one old woman knocking me about and starving me,
 everybody of all ages knocked me about and starved me.  They were right;
 they had no business to do anything else.  I was a nuisance, an
-incumbrance, and a pest.  I know that very well.’
+incumbrance, and a pest.  I know that very [[Well|well]].’
 
-His pride in having at any time of his life achieved such a great social
+His [[Pride|pride]] in having at any [[Time|time]] of his life achieved such a great social
 distinction as to be a nuisance, an incumbrance, and a pest, was only to
 be satisfied by three sonorous repetitions of the boast.
 
 ‘I was to pull through it, I suppose, Mrs. Gradgrind.  Whether I was to
 do it or not, ma’am, I did it.  I pulled through it, though nobody threw
 me out a rope.  Vagabond, errand-boy, vagabond, labourer, porter, clerk,
-chief manager, small partner, Josiah Bounderby of Coketown.  Those are
-the antecedents, and the culmination.  Josiah Bounderby of Coketown
+chief manager, small partner, [[Josiah Bounderby]] of Coketown.  Those are
+the antecedents, and the culmination.  [[Josiah Bounderby]] of Coketown
 learnt his letters from the outsides of the shops, Mrs. Gradgrind, and
-was first able to tell the time upon a dial-plate, from studying the
-steeple clock of St. Giles’s Church, London, under the direction of a
+was first able to tell the [[Time|time]] upon a dial-plate, from studying the
+steeple [[Clock|clock]] of St. Giles’s Church, [[London]], under the direction of a
 drunken cripple, who was a convicted thief, and an incorrigible vagrant.
-Tell Josiah Bounderby of Coketown, of your district schools and your
+Tell [[Josiah Bounderby]] of Coketown, of your district schools and your
 model schools, and your training schools, and your whole kettle-of-fish
-of schools; and Josiah Bounderby of Coketown, tells you plainly, all
+of schools; and [[Josiah Bounderby]] of Coketown, tells you plainly, all
 right, all correct—he hadn’t such advantages—but let us have hard-headed,
-solid-fisted people—the education that made him won’t do for everybody,
-he knows well—such and such his education was, however, and you may force
-him to swallow boiling fat, but you shall never force him to suppress the
+solid-fisted people—the [[Education|education]] that made him won’t do for everybody,
+he knows [[Well|well]]—such and such his [[Education|education]] was, however, and you may force
+him to [[Swallow|swallow]] boiling fat, but you shall never force him to suppress the
 facts of his life.’
 
-Being heated when he arrived at this climax, Josiah Bounderby of Coketown
+Being heated when he arrived at this climax, [[Josiah Bounderby]] of Coketown
 stopped.  He stopped just as his eminently practical friend, still
 accompanied by the two young culprits, entered the room.  His eminently
 practical friend, on seeing him, stopped also, and gave Louisa a
 reproachful look that plainly said, ‘Behold your Bounderby!’
 
-‘Well!’ blustered Mr. Bounderby, ‘what’s the matter?  What is young
+‘[[Well]]!’ blustered Mr. Bounderby, ‘what’s the matter?  What is young
 Thomas in the dumps about?’
 
 He spoke of young Thomas, but he looked at Louisa.
@@ -146,7 +146,7 @@ lifting up her eyes, ‘and father caught us.’
 soon have expected to find my children reading poetry.’
 
 ‘Dear me,’ whimpered Mrs. Gradgrind.  ‘How can you, Louisa and Thomas!  I
-wonder at you.  I declare you’re enough to make one regret ever having
+[[Wonder|wonder]] at you.  I declare you’re enough to make one regret ever having
 had a family at all.  I have a great mind to say I wish I hadn’t.  _Then_
 what would you have done, I should like to know?’
 
@@ -155,7 +155,7 @@ He frowned impatiently.
 
 ‘As if, with my head in its present throbbing state, you couldn’t go and
 look at the shells and minerals and things provided for you, instead of
-circuses!’ said Mrs. Gradgrind.  ‘You know, as well as I do, no young
+circuses!’ said Mrs. Gradgrind.  ‘You know, as [[Well|well]] as I do, no young
 people have circus masters, or keep circuses in cabinets, or attend
 lectures about circuses.  What can you possibly want to know of circuses
 then?  I am sure you have enough to do, if that’s what you want.  With my
@@ -170,15 +170,15 @@ Mrs. Gradgrind was not a scientific character, and usually dismissed her
 children to their studies with this general injunction to choose their
 pursuit.
 
-In truth, Mrs. Gradgrind’s stock of facts in general was woefully
+In [[Truth|truth]], Mrs. Gradgrind’s stock of facts in general was woefully
 defective; but Mr. Gradgrind in raising her to her high matrimonial
 position, had been influenced by two reasons.  Firstly, she was most
 satisfactory as a question of figures; and, secondly, she had ‘no
 nonsense’ about her.  By nonsense he meant fancy; and truly it is
-probable she was as free from any alloy of that nature, as any human
+probable she was as free from any alloy of that [[Nature|nature]], as any human
 being not arrived at the perfection of an absolute idiot, ever was.
 
-The simple circumstance of being left alone with her husband and Mr.
+The simple circumstance of being left [[Alone|alone]] with her husband and Mr.
 Bounderby, was sufficient to stun this admirable lady again without
 collision between herself and any other fact.  So, she once more died
 away, and nobody minded her.
@@ -187,8 +187,8 @@ away, and nobody minded her.
 are always so interested in my young people—particularly in Louisa—that I
 make no apology for saying to you, I am very much vexed by this
 discovery.  I have systematically devoted myself (as you know) to the
-education of the reason of my family.  The reason is (as you know) the
-only faculty to which education should be addressed.  ‘And yet,
+[[Education|education]] of the reason of my family.  The reason is (as you know) the
+only faculty to which [[Education|education]] should be addressed.  ‘And yet,
 Bounderby, it would appear from this unexpected circumstance of to-day,
 though in itself a trifling one, as if something had crept into Thomas’s
 and Louisa’s minds which is—or rather, which is not—I don’t know that I
@@ -200,30 +200,30 @@ vagabonds,’ returned Bounderby.  ‘When I was a vagabond myself, nobody
 looked with any interest at _me_; I know that.’
 
 ‘Then comes the question; said the eminently practical father, with his
-eyes on the fire, ‘in what has this vulgar curiosity its rise?’
+eyes on the [[Fire|fire]], ‘in what has this vulgar curiosity its rise?’
 
-‘I’ll tell you in what.  In idle imagination.’
+‘I’ll tell you in what.  In idle [[Imagination|imagination]].’
 
-‘I hope not,’ said the eminently practical; ‘I confess, however, that the
-misgiving _has_ crossed me on my way home.’
+‘I [[Hope|hope]] not,’ said the eminently practical; ‘I confess, however, that the
+misgiving _has_ crossed me on my way [[Home|home]].’
 
-‘In idle imagination, Gradgrind,’ repeated Bounderby.  ‘A very bad thing
+‘In idle [[Imagination|imagination]], Gradgrind,’ repeated Bounderby.  ‘A very bad thing
 for anybody, but a cursed bad thing for a girl like Louisa.  I should ask
 Mrs. Gradgrind’s pardon for strong expressions, but that she knows very
-well I am not a refined character.  Whoever expects refinement in _me_
+[[Well|well]] I am not a refined character.  Whoever expects refinement in _me_
 will be disappointed.  I hadn’t a refined bringing up.’
 
 ‘Whether,’ said Gradgrind, pondering with his hands in his pockets, and
-his cavernous eyes on the fire, ‘whether any instructor or servant can
+his cavernous eyes on the [[Fire|fire]], ‘whether any instructor or servant can
 have suggested anything?  Whether Louisa or Thomas can have been reading
 anything?  Whether, in spite of all precautions, any idle story-book can
-have got into the house?  Because, in minds that have been practically
+have got into the [[house]]?  Because, in minds that have been practically
 formed by rule and line, from the cradle upwards, this is so curious, so
 incomprehensible.’
 
-‘Stop a bit!’ cried Bounderby, who all this time had been standing, as
+‘Stop a bit!’ cried Bounderby, who all this [[Time|time]] had been standing, as
 before, on the hearth, bursting at the very furniture of the room with
-explosive humility.  ‘You have one of those strollers’ children in the
+explosive [[Humility|humility]].  ‘You have one of those strollers’ children in the
 school.’
 
 ‘Cecilia Jupe, by name,’ said Mr. Gradgrind, with something of a stricken
@@ -231,8 +231,8 @@ look at his friend.
 
 ‘Now, stop a bit!’ cried Bounderby again.  ‘How did she come there?’
 
-‘Why, the fact is, I saw the girl myself, for the first time, only just
-now.  She specially applied here at the house to be admitted, as not
+‘Why, the fact is, I saw the girl myself, for the first [[Time|time]], only just
+now.  She specially applied here at the [[house]] to be admitted, as not
 regularly belonging to our town, and—yes, you are right, Bounderby, you
 are right.’
 
@@ -240,7 +240,7 @@ are right.’
 came?’
 
 ‘Louisa certainly did see her, for she mentioned the application to me.
-But Louisa saw her, I have no doubt, in Mrs. Gradgrind’s presence.’
+But Louisa saw her, I have no [[Doubt|doubt]], in Mrs. Gradgrind’s presence.’
 
 ‘Pray, Mrs. Gradgrind,’ said Bounderby, ‘what passed?’
 
@@ -255,7 +255,7 @@ the right about, and there’s an end of it.’
 
 ‘I am much of your opinion.’
 
-‘Do it at once,’ said Bounderby, ‘has always been my motto from a child.
+‘Do it at once,’ said Bounderby, ‘has always been my motto from a [[Child|child]].
 When I thought I would run away from my egg-box and my grandmother, I did
 it at once.  Do you the same.  Do this at once!’
 
@@ -277,16 +277,16 @@ went up-stairs for the address, he opened the door of the children’s
 study and looked into that serene floor-clothed apartment, which,
 notwithstanding its book-cases and its cabinets and its variety of
 learned and philosophical appliances, had much of the genial aspect of a
-room devoted to hair-cutting.  Louisa languidly leaned upon the window
+room devoted to hair-cutting.  Louisa languidly leaned upon the [[Window|window]]
 looking out, without looking at anything, while young Thomas stood
-sniffing revengefully at the fire.  Adam Smith and Malthus, two younger
+sniffing revengefully at the [[Fire|fire]].  Adam [[smith|Smith]] and Malthus, two younger
 Gradgrinds, were out at lecture in custody; and little Jane, after
 manufacturing a good deal of moist pipe-clay on her face with
-slate-pencil and tears, had fallen asleep over vulgar fractions.
+slate-pencil and [[Tears|tears]], had fallen asleep over vulgar fractions.
 
 ‘It’s all right now, Louisa: it’s all right, young Thomas,’ said Mr.
 Bounderby; ‘you won’t do so any more.  I’ll answer for it’s being all
-over with father.  Well, Louisa, that’s worth a kiss, isn’t it?’
+over with father.  [[Well]], Louisa, that’s worth a kiss, isn’t it?’
 
 ‘You can take one, Mr. Bounderby,’ returned Louisa, when she had coldly
 paused, and slowly walked across the room, and ungraciously raised her

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 18"
+title: "[[Villette]] — Chapter 18"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -20,7 +20,7 @@ WE QUARREL.
 
 During the first days of my stay at the Terrace, Graham never took a
 seat near me, or in his frequent pacing of the room approached the
-quarter where I sat, or looked pre-occupied, or more grave than usual,
+quarter where I sat, or looked pre-occupied, or more [[Grave|grave]] than usual,
 but I thought of Miss Fanshawe and expected her name to leap from his
 lips. I kept my ear and mind in perpetual readiness for the tender
 theme; my patience was ordered to be permanently under arms, and my
@@ -54,7 +54,7 @@ application for that privilege.”
 “Yes; several to her uncle.”
 
 “They will not be deficient in wit and _naïveté_; there is so much
-sparkle, and so little art in her soul?”
+sparkle, and so little art in her [[Soul|soul]]?”
 
 “She writes comprehensively enough when she writes to M. de
 Bassompierre: he who runs may read.” (In fact, Ginevra’s epistles to
@@ -66,22 +66,22 @@ think?”
 
 It was, and I said so.
 
-“I verily believe that all she does is well done,” said Dr. John; and
+“I verily believe that all she does is [[Well|well]] done,” said Dr. John; and
 as I seemed in no hurry to chime in with this remark, he added “You,
 who know her, could you name a point in which she is deficient?”
 
-“She does several things very well.” (“Flirtation amongst the rest,”
+“She does several things very [[Well|well]].” (“Flirtation amongst the rest,”
 subjoined I, in thought.)
 
 “When do you suppose she will return to town?” he soon inquired.
 
-“Pardon me, Dr. John, I must explain. You honour me too much in
+“Pardon me, Dr. John, I must explain. You [[Honour|honour]] me too much in
 ascribing to me a degree of intimacy with Miss Fanshawe I have not the
 felicity to enjoy. I have never been the depositary of her plans and
-secrets. You will find her particular friends in another sphere than
+[[Secrets|secrets]]. You will find her particular friends in another sphere than
 mine: amongst the Cholmondeleys, for instance.”
 
-He actually thought I was stung with a kind of jealous pain similar to
+He actually thought I was stung with a kind of jealous [[Pain|pain]] similar to
 his own!
 
 “Excuse her,” he said; “judge her indulgently; the glitter of fashion
@@ -99,8 +99,8 @@ humiliated, cast-off, and now pining confidante of the distinguished
 Miss Fanshawe: but, reader, it was a hard submission.
 
 “Yet, you see,” continued Graham, “while I comfort _you_, I cannot take
-the same consolation to myself; I cannot hope she will do me justice.
-De Hamal is most worthless, yet I fear he pleases her: wretched
+the same consolation to myself; I cannot [[Hope|hope]] she will do me justice.
+De Hamal is most worthless, yet I [[Fear|fear]] he pleases her: wretched
 delusion!”
 
 My patience really gave way, and without notice: all at once. I suppose
@@ -117,7 +117,7 @@ I got up, and left the room very much excited.
 This little scene took place in the morning; I had to meet him again in
 the evening, and then I saw I had done mischief. He was not made of
 common clay, not put together out of vulgar materials; while the
-outlines of his nature had been shaped with breadth and vigour, the
+outlines of his [[Nature|nature]] had been shaped with breadth and vigour, the
 details embraced workmanship of almost feminine delicacy: finer, much
 finer, than you could be prepared to meet with; than you could believe
 inherent in him, even after years of acquaintance. Indeed, till some
@@ -132,33 +132,33 @@ considerately refrain from passing to an extreme, and pronouncing him
 _un_sympathizing, unfeeling: on the contrary, he was a kind, generous
 man. Make your need known, his hand was open. Put your grief into
 words, he turned no deaf ear. Expect refinements of perception,
-miracles of intuition, and realize disappointment. This night, when Dr.
-John entered the room, and met the evening lamp, I saw well and at one
+miracles of intuition, and realize disappointment. This [[Night|night]], when Dr.
+John entered the room, and met the evening lamp, I saw [[Well|well]] and at one
 glance his whole mechanism.
 
 To one who had named him “slave,” and, on any point, banned him from
-respect, he must now have peculiar feelings. That the epithet was well
+respect, he must now have peculiar feelings. That the epithet was [[Well|well]]
 applied, and the ban just, might be; he put forth no denial that it was
 so: his mind even candidly revolved that unmanning possibility. He
-sought in this accusation the cause of that ill-success which had got
+sought in this accusation the cause of that ill-[[success]] which had got
 so galling a hold on his mental peace: Amid the worry of a
-self-condemnatory soliloquy, his demeanour seemed grave, perhaps cold,
+[[Self|self]]-condemnatory soliloquy, his demeanour seemed [[Grave|grave]], perhaps cold,
 both to me and his mother. And yet there was no bad feeling, no malice,
 no rancour, no littleness in his countenance, beautiful with a man’s
-best beauty, even in its depression. When I placed his chair at the
+best [[Beauty|beauty]], even in its depression. When I placed his chair at the
 table, which I hastened to do, anticipating the servant, and when I
 handed him his tea, which I did with trembling care, he said: “Thank
 you, Lucy,” in as kindly a tone of his full pleasant voice as ever my
 ear welcomed.
 
 For my part, there was only one plan to be pursued; I must expiate my
-culpable vehemence, or I must not sleep that night. This would not do
+culpable vehemence, or I must not [[Sleep|sleep]] that [[Night|night]]. This would not do
 at all; I could not stand it: I made no pretence of capacity to wage
-war on this footing. School solitude, conventual silence and
+war on this footing. School [[Solitude|solitude]], conventual [[Silence|silence]] and
 stagnation, anything seemed preferable to living embroiled with Dr.
 John. As to Ginevra, she might take the silver wings of a dove, or any
 other fowl that flies, and mount straight up to the highest place,
-among the highest stars, where her lover’s highest flight of fancy
+among the highest [[Stars|stars]], where her [[Lover|lover]]’s highest flight of fancy
 chose to fix the constellation of her charms: never more be it mine to
 dispute the arrangement. Long I tried to catch his eye. Again and again
 that eye just met mine; but, having nothing to say, it withdrew, and I
@@ -177,8 +177,8 @@ in one thunder-clap.
 “Dr. Bretton, forgive my hasty words: _do, do_ forgive them.”
 
 He smiled that moment I spoke. “Perhaps I deserved them, Lucy. If you
-don’t respect me, I am sure it is because I am not respectable. I fear,
-I am an awkward fool: I must manage badly in some way, for where I wish
+don’t respect me, I am sure it is because I am not respectable. I [[Fear|fear]],
+I am an awkward [[Fool|fool]]: I must manage badly in some way, for where I wish
 to please, it seems I don’t please.”
 
 “Of that you cannot be sure; and even if such be the case, is it the
@@ -198,19 +198,19 @@ Let me be pardoned; that is what I ask.”
 that, to ease me of the heart-ache.”
 
 “Put away your heart-ache, as I will put away mine; for you wounded me
-a little, Lucy. Now, when the pain is gone, I more than forgive: I feel
-grateful, as to a sincere well-wisher.”
+a little, Lucy. Now, when the [[Pain|pain]] is gone, I more than forgive: I feel
+grateful, as to a sincere [[Well|well]]-wisher.”
 
-“I _am_ your sincere well-wisher: you are right.”
+“I _am_ your sincere [[Well|well]]-wisher: you are right.”
 
 Thus our quarrel ended.
 
 Reader, if in the course of this work, you find that my opinion of Dr.
 John undergoes modification, excuse the seeming inconsistency. I give
-the feeling as at the time I felt it; I describe the view of character
+the feeling as at the [[Time|time]] I felt it; I describe the view of character
 as it appeared when discovered.
 
-He showed the fineness of his nature by being kinder to me after that
+He showed the fineness of his [[Nature|nature]] by being kinder to me after that
 misunderstanding than before. Nay, the very incident which, by my
 theory, must in some degree estrange me and him, changed, indeed,
 somewhat our relations; but not in the sense I painfully anticipated.
@@ -218,7 +218,7 @@ An invisible, but a cold something, very slight, very transparent, but
 very chill: a sort of screen of ice had hitherto, all through our two
 lives, glazed the medium through which we exchanged intercourse. Those
 few warm words, though only warm with anger, breathed on that frail
-frost-work of reserve; about this time, it gave note of dissolution. I
+[[Frost|frost]]-work of reserve; about this [[Time|time]], it gave note of dissolution. I
 think from that day, so long as we continued friends, he never in
 discourse stood on topics of ceremony with me. He seemed to know that
 if he would but talk about himself, and about that in which he was most
@@ -227,11 +227,11 @@ satisfied. It follows, as a matter of course, that I continued to hear
 much of “Ginevra.”
 
 “Ginevra!” He thought her so fair, so good; he spoke so lovingly of her
-charms, her sweetness, her innocence, that, in spite of my plain prose
+charms, her sweetness, her [[innocence]], that, in spite of my plain prose
 knowledge of the reality, a kind of reflected glow began to settle on
 her idea, even for me. Still, reader, I am free to confess, that he
 often talked nonsense; but I strove to be unfailingly patient with him.
-I had had my lesson: I had learned how severe for me was the pain of
+I had had my lesson: I had learned how severe for me was the [[Pain|pain]] of
 crossing, or grieving, or disappointing him. In a strange and new
 sense, I grew most selfish, and quite powerless to deny myself the
 delight of indulging his mood, and being pliant to his will. He still
@@ -242,7 +242,7 @@ only coquetting to goad him, and that, at heart, she coveted every one
 of his words and looks. Sometimes he harassed me, in spite of my
 resolution to bear and hear; in the midst of the indescribable
 gall-honey pleasure of thus bearing and hearing, he struck so on the
-flint of what firmness I owned, that it emitted fire once and again. I
+flint of what firmness I owned, that it emitted [[Fire|fire]] once and again. I
 chanced to assert one day, with a view to stilling his impatience, that
 in my own mind, I felt positive Miss Fanshawe _must_ intend eventually
 to accept him.
@@ -254,9 +254,9 @@ assurance?”
 
 “Now, Lucy, _do_ tell me what!”
 
-“You know them as well as I; and, knowing them, Dr. John, it really
+“You know them as [[Well|well]] as I; and, knowing them, Dr. John, it really
 amazes me that you should not repose the frankest confidence in her
-fidelity. To doubt, under the circumstances, is almost to insult.”
+fidelity. To [[Doubt|doubt]], under the circumstances, is almost to insult.”
 
 “Now you are beginning to speak fast and to breathe short; but speak a
 little faster and breathe a little shorter, till you have given an
@@ -264,7 +264,7 @@ explanation—a full explanation: I must have it.”
 
 “You shall, Dr. John. In some cases, you are a lavish, generous man:
 you are a worshipper ever ready with the votive offering should Père
-Silas ever convert _you_, you will give him abundance of alms for his
+Silas ever [[convert]] _you_, you will give him abundance of alms for his
 poor, you will supply his altar with tapers, and the shrine of your
 favourite saint you will do your best to enrich: Ginevra, Dr. John—”
 
@@ -272,7 +272,7 @@ favourite saint you will do your best to enrich: Ginevra, Dr. John—”
 
 “Hush, I will _not_: and go on I _will_: Ginevra has had her hands
 filled from your hands more times than I can count. You have sought for
-her the costliest flowers; you have busied your brain in devising gifts
+her the costliest [[Flowers|flowers]]; you have busied your brain in devising gifts
 the most delicate: such, one would have thought, as only a woman could
 have imagined; and in addition, Miss Fanshawe owns a set of ornaments,
 to purchase which your generosity must have verged on extravagance.”
@@ -284,7 +284,7 @@ flushed all over the face of her admirer.
 scissors. “I offered them to please myself: I felt she did me a favour
 in accepting them.”
 
-“She did more than a favour, Dr. John: she pledged her very honour that
+“She did more than a favour, Dr. John: she pledged her very [[Honour|honour]] that
 she would make you some return; and if she cannot pay you in affection,
 she ought to hand out a business-like equivalent, in the shape of some
 rouleaux of gold pieces.”
@@ -292,8 +292,8 @@ rouleaux of gold pieces.”
 “But you don’t understand her; she is far too disinterested to care for
 my gifts, and too simple-minded to know their value.”
 
-I laughed out: I had heard her adjudge to every jewel its price; and
-well I knew money-embarrassment, money-schemes; money’s worth, and
+I laughed out: I had heard her adjudge to every [[Jewel|jewel]] its price; and
+[[Well|well]] I knew money-embarrassment, money-schemes; money’s worth, and
 endeavours to realise supplies, had, young as she was, furnished the
 most frequent, and the favourite stimulus of her thoughts for years.
 
@@ -318,12 +318,12 @@ were I to offer her all I have, and she to take it, such is her
 incapacity to be swayed by sordid considerations, I should not venture
 to believe the transaction advanced me one step.”
 
-“Dr. John,” I began, “Love is blind;” but just then a blue subtle ray
+“Dr. John,” I began, “[[Love]] is blind;” but just then a blue subtle ray
 sped sideways from Dr. John’s eye: it reminded me of old days, it
 reminded me of his picture: it half led me to think that part, at
-least, of his professed persuasion of Miss Fanshawe’s _naïveté_ was
+least, of his professed [[Persuasion|persuasion]] of Miss Fanshawe’s _naïveté_ was
 assumed; it led me dubiously to conjecture that perhaps, in spite of
-his passion for her beauty, his appreciation of her foibles might
+his passion for her [[Beauty|beauty]], his appreciation of her foibles might
 possibly be less mistaken, more clear-sighted, than from his general
 language was presumable. After all it might be only a chance look, or
 at best the token of a merely momentary impression. Chance or

@@ -29,39 +29,39 @@ without any windows, and the astronomer within should arrange the starry
 universe solely by pen, ink, and paper, so Mr. Gradgrind, in _his_
 Observatory (and there are many like it), had no need to cast an eye upon
 the teeming myriads of human beings around him, but could settle all
-their destinies on a slate, and wipe out all their tears with one dirty
+their destinies on a slate, and wipe out all their [[Tears|tears]] with one dirty
 little bit of sponge.
 
-To this Observatory, then: a stern room, with a deadly statistical clock
+To this Observatory, then: a stern room, with a deadly statistical [[Clock|clock]]
 in it, which measured every second with a beat like a rap upon a
-coffin-lid; Louisa repaired on the appointed morning.  A window looked
+coffin-lid; Louisa repaired on the appointed morning.  A [[Window|window]] looked
 towards Coketown; and when she sat down near her father’s table, she saw
 the high chimneys and the long tracts of smoke looming in the heavy
 distance gloomily.
 
-‘My dear Louisa,’ said her father, ‘I prepared you last night to give me
+‘My dear Louisa,’ said her father, ‘I prepared you last [[Night|night]] to give me
 your serious attention in the conversation we are now going to have
-together.  You have been so well trained, and you do, I am happy to say,
-so much justice to the education you have received, that I have perfect
+together.  You have been so [[Well|well]] trained, and you do, I am happy to say,
+so much justice to the [[Education|education]] you have received, that I have perfect
 confidence in your good sense.  You are not impulsive, you are not
 romantic, you are accustomed to view everything from the strong
-dispassionate ground of reason and calculation.  From that ground alone,
+dispassionate ground of reason and calculation.  From that ground [[Alone|alone]],
 I know you will view and consider what I am going to communicate.’
 
 He waited, as if he would have been glad that she said something.  But
 she said never a word.
 
-‘Louisa, my dear, you are the subject of a proposal of marriage that has
+‘Louisa, my dear, you are the subject of a proposal of [[Marriage|marriage]] that has
 been made to me.’
 
 Again he waited, and again she answered not one word.  This so far
 surprised him, as to induce him gently to repeat, ‘a proposal of
-marriage, my dear.’  To which she returned, without any visible emotion
+[[Marriage|marriage]], my dear.’  To which she returned, without any visible emotion
 whatever:
 
 ‘I hear you, father.  I am attending, I assure you.’
 
-‘Well!’ said Mr. Gradgrind, breaking into a smile, after being for the
+‘[[Well]]!’ said Mr. Gradgrind, breaking into a smile, after being for the
 moment at a loss, ‘you are even more dispassionate than I expected,
 Louisa.  Or, perhaps, you are not unprepared for the announcement I have
 it in charge to make?’
@@ -78,27 +78,27 @@ of it, considering how to go on.
 ‘What you say, my dear Louisa, is perfectly reasonable.  I have
 undertaken then to let you know that—in short, that Mr. Bounderby has
 informed me that he has long watched your progress with particular
-interest and pleasure, and has long hoped that the time might ultimately
-arrive when he should offer you his hand in marriage.  That time, to
+interest and pleasure, and has long hoped that the [[Time|time]] might ultimately
+arrive when he should offer you his hand in [[Marriage|marriage]].  That [[Time|time]], to
 which he has so long, and certainly with great constancy, looked forward,
-is now come.  Mr. Bounderby has made his proposal of marriage to me, and
-has entreated me to make it known to you, and to express his hope that
+is now come.  Mr. Bounderby has made his proposal of [[Marriage|marriage]] to me, and
+has entreated me to make it known to you, and to express his [[Hope|hope]] that
 you will take it into your favourable consideration.’
 
-Silence between them.  The deadly statistical clock very hollow.  The
+[[Silence]] between them.  The deadly statistical [[Clock|clock]] very hollow.  The
 distant smoke very black and heavy.
 
-‘Father,’ said Louisa, ‘do you think I love Mr. Bounderby?’
+‘Father,’ said Louisa, ‘do you think I [[Love|love]] Mr. Bounderby?’
 
 Mr. Gradgrind was extremely discomfited by this unexpected question.
-‘Well, my child,’ he returned, ‘I—really—cannot take upon myself to say.’
+‘[[Well]], my [[Child|child]],’ he returned, ‘I—really—cannot take upon myself to say.’
 
 ‘Father,’ pursued Louisa in exactly the same voice as before, ‘do you ask
-me to love Mr. Bounderby?’
+me to [[Love|love]] Mr. Bounderby?’
 
 ‘My dear Louisa, no.  No.  I ask nothing.’
 
-‘Father,’ she still pursued, ‘does Mr. Bounderby ask me to love him?’
+‘Father,’ she still pursued, ‘does Mr. Bounderby ask me to [[Love|love]] him?’
 
 ‘Really, my dear,’ said Mr. Gradgrind, ‘it is difficult to answer your
 question—’
@@ -119,7 +119,7 @@ dear—may be a little misplaced.’
 ‘What would you advise me to use in its stead, father?’
 
 ‘Why, my dear Louisa,’ said Mr. Gradgrind, completely recovered by this
-time, ‘I would advise you (since you ask me) to consider this question,
+[[Time|time]], ‘I would advise you (since you ask me) to consider this question,
 as you have been accustomed to consider every other question, simply as
 one of tangible Fact.  The ignorant and the giddy may embarrass such
 subjects with irrelevant fancies, and other absurdities that have no
@@ -129,9 +129,9 @@ You are, we will say in round numbers, twenty years of age; Mr. Bounderby
 is, we will say in round numbers, fifty.  There is some disparity in your
 respective years, but in your means and positions there is none; on the
 contrary, there is a great suitability.  Then the question arises, Is
-this one disparity sufficient to operate as a bar to such a marriage?  In
+this one disparity sufficient to operate as a bar to such a [[Marriage|marriage]]?  In
 considering this question, it is not unimportant to take into account the
-statistics of marriage, so far as they have yet been obtained, in England
+statistics of [[Marriage|marriage]], so far as they have yet been obtained, in England
 and Wales.  I find, on reference to the figures, that a large proportion
 of these marriages are contracted between parties of very unequal ages,
 and that the elder of these contracting parties is, in rather more than

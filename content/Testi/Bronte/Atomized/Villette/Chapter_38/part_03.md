@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 36 (part 3)"
+title: "[[Villette]] — Chapter 36 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,8 +15,8 @@ tags:
 
 
 A mortal bewilderment cleared suddenly from my head and vision; the
-solution of the Sphinx-riddle was won; the conjunction of those two
-names, Père Silas and Paul Emanuel, gave the key to all. The penitent
+solution of [[The Sphinx|the Sphinx]]-[[Riddle|riddle]] was won; the conjunction of those two
+names, Père Silas and [[Paul Emanuel]], gave the key to all. The penitent
 had been with his director; permitted to withhold nothing; suffered to
 keep no corner of his heart sacred to God and to himself; the whole
 narrative of our late interview had been drawn from him; he had avowed
@@ -25,33 +25,33 @@ such a covenant, such adoption, be sanctioned by the Church? Fraternal
 communion with a heretic! I seemed to hear Père Silas annulling the
 unholy pact; warning his penitent of its perils; entreating, enjoining
 reserve, nay, by the authority of his office, and in the name, and by
-the memory of all M. Emanuel held most dear and sacred, commanding the
-enforcement of that new system whose frost had pierced to the marrow of
+the [[Memory|memory]] of all M. Emanuel held most dear and sacred, commanding the
+enforcement of that new system whose [[Frost|frost]] had pierced to the marrow of
 my bones.
 
 These may not seem pleasant hypotheses; yet, by comparison, they were
 welcome. The vision of a ghostly troubler hovering in the background,
-was as nothing, matched with the fear of spontaneous change arising in
+was as nothing, matched with the [[Fear|fear]] of spontaneous change arising in
 M. Paul himself.
 
-At this distance of time, I cannot be sure how far the above
-conjectures were self-suggested: or in what measure they owed their
+At this distance of [[Time|time]], I cannot be sure how far the above
+conjectures were [[Self|self]]-suggested: or in what measure they owed their
 origin and confirmation to another quarter. Help was not wanting.
 
 This evening there was no bright sunset: west and east were one cloud;
-no summer night-mist, blue, yet rose-tinged, softened the distance; a
-clammy fog from the marshes crept grey round Villette. To-night the
-watering-pot might rest in its niche by the well: a small rain had been
+no [[Summer|summer]] [[Night|night]]-mist, blue, yet [[Rose|rose]]-tinged, softened the distance; a
+clammy fog from the marshes crept grey round [[Villette]]. To-[[Night|night]] the
+watering-pot might rest in its niche by the [[Well|well]]: a small rain had been
 drizzling all the afternoon, and still it fell fast and quietly. This
 was no weather for rambling in the wet alleys, under the dripping
-trees; and I started to hear Sylvie’s sudden bark in the garden—her
+trees; and I started to hear Sylvie’s sudden bark in the [[Garden|garden]]—her
 bark of welcome. Surely she was not accompanied and yet this glad,
 quick bark was never uttered, save in homage to one presence.
 
 Through the glass door and the arching berceau, I commanded the deep
 vista of the allée défendue: thither rushed Sylvie, glistening through
-its gloom like a white guelder-rose. She ran to and fro, whining,
-springing, harassing little birds amongst the bushes. I watched five
+its gloom like a white guelder-[[Rose|rose]]. She ran to and fro, whining,
+springing, harassing little [[Birds|birds]] amongst the bushes. I watched five
 minutes; no fulfilment followed the omen. I returned to my books;
 Sylvie’s sharp bark suddenly ceased. Again I looked up. She was
 standing not many yards distant, wagging her white feathery tail as
@@ -61,9 +61,9 @@ bent over the soil, digging in the wet mould amongst the rain-laden and
 streaming shrubs, working as hard as if his day’s pittance were yet to
 earn by the literal sweat of his brow.
 
-In this sign I read a ruffled mood. He would dig thus in frozen snow on
-the coldest winter day, when urged inwardly by painful emotion, whether
-of nervous excitation, or, sad thoughts of self-reproach. He would dig
+In this sign I read a ruffled mood. He would dig thus in frozen [[Snow|snow]] on
+the coldest [[Winter|winter]] day, when urged inwardly by painful emotion, whether
+of nervous excitation, or, sad thoughts of [[Self|self]]-reproach. He would dig
 by the hour, with knit brow and set teeth, nor once lift his head, or
 open his lips.
 
@@ -71,7 +71,7 @@ Sylvie watched till she was tired. Again scampering devious, bounding
 here, rushing there, snuffing and sniffing everywhere; she at last
 discovered me in classe. Instantly she flew barking at the panes, as if
 to urge me forth to share her pleasure or her master’s toil; she had
-seen me occasionally walking in that alley with M. Paul; and I doubt
+seen me occasionally walking in that alley with M. Paul; and I [[Doubt|doubt]]
 not, considered it my duty to join him now, wet as it was.
 
 She made such a bustle that M. Paul at last looked up, and of course
@@ -87,19 +87,19 @@ books and papers far and wide.
 M. Emanuel advanced to still the clamour and repair the disarrangement.
 Having gathered up the books, he captured Sylvie, and stowed her away
 under his paletôt, where she nestled as quiet as a mouse, her head just
-peeping forth. She was very tiny, and had the prettiest little innocent
+peeping forth. She was very tiny, and had the prettiest little [[Innocent|innocent]]
 face, the silkiest long ears, the finest dark eyes in the world. I
-never saw her, but I thought of Paulina de Bassompierre: forgive the
+never saw her, but I thought of [[Paulina]] de Bassompierre: forgive the
 association, reader, it _would_ occur.
 
 M. Paul petted and patted her; the endearments she received were not to
-be wondered at; she invited affection by her beauty and her vivacious
+be wondered at; she invited affection by her [[Beauty|beauty]] and her vivacious
 life.
 
 While caressing the spaniel, his eye roved over the papers and books
 just replaced; it settled on the religious tract. His lips moved; he
 half checked the impulse to speak. What! had he promised never to
-address me more? If so, his better nature pronounced the vow “more
+address me more? If so, his better [[Nature|nature]] pronounced the vow “more
 honoured in the breach than in the observance,” for with a second
 effort, he spoke.—“You have not yet read the brochure, I presume? It is
 not sufficiently inviting?”

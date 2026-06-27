@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 9"
+title: "[[Pride and Prejudice]] — Chapter 9"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -19,10 +19,10 @@ CHAPTER IX.
 
 [Illustration]
 
-Elizabeth passed the chief of the night in her sister’s room, and in the
+Elizabeth passed the chief of the [[Night|night]] in her sister’s room, and in the
 morning had the pleasure of being able to send a tolerable answer to the
 inquiries which she very early received from Mr. Bingley by a housemaid,
-and some time afterwards from the two elegant ladies who waited on his
+and some [[Time|time]] afterwards from the two elegant ladies who waited on his
 sisters. In spite of this amendment, however, she requested to have a
 note sent to Longbourn, desiring her mother to visit Jane, and form her
 own judgment of her situation. The note was immediately despatched, and
@@ -34,14 +34,14 @@ very miserable; but being satisfied on seeing her that her illness was
 not alarming, she had no wish of her recovering immediately, as her
 restoration to health would probably remove her from Netherfield. She
 would not listen, therefore, to her daughter’s proposal of being carried
-home; neither did the apothecary, who arrived about the same time, think
+[[Home|home]]; neither did the apothecary, who arrived about the same [[Time|time]], think
 it at all advisable. After sitting a little while with Jane, on Miss
 Bingley’s appearance and invitation, the mother and three daughters all
 attended her into the breakfast parlour. Bingley met them with hopes
 that Mrs. Bennet had not found Miss Bennet worse than she expected.
 
 “Indeed I have, sir,” was her answer. “She is a great deal too ill to be
-moved. Mr. Jones says we must not think of moving her. We must trespass
+moved. Mr. [[Jones]] says we must not think of moving her. We must trespass
 a little longer on your kindness.”
 
 “Removed!” cried Bingley. “It must not be thought of. My sister, I am
@@ -61,7 +61,7 @@ temper I ever met with. I often tell my other girls they are nothing to
 _her_. You have a sweet room here, Mr. Bingley, and a charming prospect
 over that gravel walk. I do not know a place in the country that is
 equal to Netherfield. You will not think of quitting it in a hurry, I
-hope, though you have but a short lease.”
+[[Hope|hope]], though you have but a short lease.”
 
 “Whatever I do is done in a hurry,” replied he; “and therefore if I
 should resolve to quit Netherfield, I should probably be off in five
@@ -80,7 +80,7 @@ through, I am afraid, is pitiful.”
 intricate character is more or less estimable than such a one as yours.”
 
 “Lizzy,” cried her mother, “remember where you are, and do not run on in
-the wild manner that you are suffered to do at home.”
+the wild manner that you are suffered to do at [[Home|home]].”
 
 “I did not know before,” continued Bingley, immediately, “that you were
 a studier of character. It must be an amusing study.”
@@ -103,7 +103,7 @@ Everybody was surprised; and Darcy, after looking at her for a moment,
 turned silently away. Mrs. Bennet, who fancied she had gained a complete
 victory over him, continued her triumph,--
 
-“I cannot see that London has any great advantage over the country, for
+“I cannot see that [[London]] has any great advantage over the country, for
 my part, except the shops and public places. The country is a vast deal
 pleasanter, is not it, Mr. Bingley?”
 
@@ -128,7 +128,7 @@ Nothing but concern for Elizabeth could enable Bingley to keep his
 countenance. His sister was less delicate, and directed her eye towards
 Mr. Darcy with a very expressive smile. Elizabeth, for the sake of
 saying something that might turn her mother’s thoughts, now asked her if
-Charlotte Lucas had been at Longbourn since _her_ coming away.
+[[Charlotte Lucas]] had been at Longbourn since _her_ coming away.
 
 “Yes, she called yesterday with her father. What an agreeable man Sir
 William is, Mr. Bingley--is not he? so much the man of fashion! so
@@ -138,7 +138,7 @@ important and never open their mouths quite mistake the matter.”
 
 “Did Charlotte dine with you?”
 
-“No, she would go home. I fancy she was wanted about the mince-pies. For
+“No, she would go [[Home|home]]. I fancy she was wanted about the mince-pies. For
 my part, Mr. Bingley, _I_ always keep servants that can do their own
 work; _my_ daughters are brought up differently. But everybody is to
 judge for themselves, and the Lucases are a very good sort of girls, I
@@ -148,28 +148,28 @@ Charlotte so _very_ plain; but then she is our particular friend.”
 “She seems a very pleasant young woman,” said Bingley.
 
 “Oh dear, yes; but you must own she is very plain. Lady Lucas herself
-has often said so, and envied me Jane’s beauty. I do not like to boast
-of my own child; but to be sure, Jane--one does not often see anybody
+has often said so, and envied me Jane’s [[Beauty|beauty]]. I do not like to boast
+of my own [[Child|child]]; but to be sure, Jane--one does not often see anybody
 better looking. It is what everybody says. I do not trust my own
 partiality. When she was only fifteen there was a gentleman at my
-brother Gardiner’s in town so much in love with her, that my
+brother Gardiner’s in town so much in [[Love|love]] with her, that my
 sister-in-law was sure he would make her an offer before we came away.
 But, however, he did not. Perhaps he thought her too young. However, he
 wrote some verses on her, and very pretty they were.”
 
 “And so ended his affection,” said Elizabeth, impatiently. “There has
-been many a one, I fancy, overcome in the same way. I wonder who first
-discovered the efficacy of poetry in driving away love!”
+been many a one, I fancy, overcome in the same way. I [[Wonder|wonder]] who first
+discovered the efficacy of poetry in driving away [[Love|love]]!”
 
-“I have been used to consider poetry as the _food_ of love,” said Darcy.
+“I have been used to consider poetry as the _food_ of [[Love|love]],” said Darcy.
 
-“Of a fine, stout, healthy love it may. Everything nourishes what is
+“Of a fine, stout, healthy [[Love|love]] it may. Everything nourishes what is
 strong already. But if it be only a slight, thin sort of inclination, I
-am convinced that one good sonnet will starve it entirely away.”
+am convinced that one good [[Sonnet|sonnet]] will starve it entirely away.”
 
 Darcy only smiled; and the general pause which ensued made Elizabeth
 tremble lest her mother should be exposing herself again. She longed to
-speak, but could think of nothing to say; and after a short silence Mrs.
+speak, but could think of nothing to say; and after a short [[Silence|silence]] Mrs.
 Bennet began repeating her thanks to Mr. Bingley for his kindness to
 Jane, with an apology for troubling him also with Lizzy. Mr. Bingley was
 unaffectedly civil in his answer, and forced his younger sister to be
@@ -181,10 +181,10 @@ each other during the whole visit; and the result of it was, that the
 youngest should tax Mr. Bingley with having promised on his first coming
 into the country to give a ball at Netherfield.
 
-Lydia was a stout, well-grown girl of fifteen, with a fine complexion
+Lydia was a stout, [[Well|well]]-grown girl of fifteen, with a fine complexion
 and good-humoured countenance; a favourite with her mother, whose
 affection had brought her into public at an early age. She had high
-animal spirits, and a sort of natural self-consequence, which the
+animal spirits, and a sort of natural [[Self|self]]-consequence, which the
 attentions of the officers, to whom her uncle’s good dinners and her
 own easy manners recommended her, had increased into assurance. She was
 very equal, therefore, to address Mr. Bingley on the subject of the
@@ -197,7 +197,7 @@ your sister is recovered, you shall, if you please, name the very day of
 the ball. But you would not wish to be dancing while she is ill?”
 
 Lydia declared herself satisfied. “Oh yes--it would be much better to
-wait till Jane was well; and by that time, most likely, Captain Carter
+wait till Jane was [[Well|well]]; and by that [[Time|time]], most likely, Captain Carter
 would be at Meryton again. And when you have given _your_ ball,” she
 added, “I shall insist on their giving one also. I shall tell Colonel
 Forster it will be quite a shame if he does not.”

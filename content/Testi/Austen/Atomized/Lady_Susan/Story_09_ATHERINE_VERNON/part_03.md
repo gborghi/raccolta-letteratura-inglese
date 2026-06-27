@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON. (part 3)"
+title: "[[Lady Susan]] — ATHERINE VERNON. (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -20,17 +20,17 @@ be done for this poor girl, if her feelings are such as both I and her
 
 uncle believe them to be. She must not be sacrificed to policy or
 
-ambition, and she must not be left to suffer from the dread of it. The
+[[Ambition|ambition]], and she must not be left to suffer from the dread of it. The
 
-girl whose heart can distinguish Reginald De Courcy, deserves, however
+girl whose heart can distinguish [[Reginald De Courcy]], deserves, however
 
 he may slight her, a better fate than to be Sir James Martin’s wife. As
 
-soon as I can get her alone, I will discover the real truth; but she
+soon as I can get her [[Alone|alone]], I will discover the real [[Truth|truth]]; but she
 
-seems to wish to avoid me. I hope this does not proceed from anything
+seems to wish to avoid me. I [[Hope|hope]] this does not proceed from anything
 
-wrong, and that I shall not find out I have thought too well of her.
+wrong, and that I shall not find out I have thought too [[Well|well]] of her.
 
 Her behaviour to Sir James certainly speaks the greatest consciousness
 
@@ -64,7 +64,7 @@ _Miss Vernon to Mr. De Courcy._
 
 
 
-Sir,—I hope you will excuse this liberty; I am forced upon it by the
+Sir,—I [[Hope|hope]] you will excuse this liberty; I am forced upon it by the
 
 greatest distress, or I should be ashamed to trouble you. I am very
 
@@ -140,7 +140,7 @@ and must relieve myself by writing to you, who I know will enter into
 
 all my feelings. Who should come on Tuesday but Sir James Martin! Guess
 
-my astonishment, and vexation—for, as you well know, I never wished him
+my astonishment, and vexation—for, as you [[Well|well]] know, I never wished him
 
 to be seen at Churchhill. What a pity that you should not have known
 
@@ -148,7 +148,7 @@ his intentions! Not content with coming, he actually invited himself to
 
 remain here a few days. I could have poisoned him! I made the best of
 
-it, however, and told my story with great success to Mrs. Vernon, who,
+it, however, and told my story with great [[success]] to Mrs. Vernon, who,
 
 whatever might be her real sentiments, said nothing in opposition to
 
@@ -158,7 +158,7 @@ and gave her to understand that I was absolutely determined on her
 
 marrying him. She said something of her misery, but that was all. I
 
-have for some time been more particularly resolved on the match from
+have for some [[Time|time]] been more particularly resolved on the match from
 
 seeing the rapid increase of her affection for Reginald, and from not
 
@@ -178,7 +178,7 @@ her person. _He_ was all astonishment at the appearance of my visitor,
 
 and at first observed Sir James with an attention which I was pleased
 
-to see not unmixed with jealousy; but unluckily it was impossible for
+to see not unmixed with [[Jealousy|jealousy]]; but unluckily it was impossible for
 
 me really to torment him, as Sir James, though extremely gallant to me,
 
@@ -186,7 +186,7 @@ very soon made the whole party understand that his heart was devoted to
 
 my daughter. I had no great difficulty in convincing De Courcy, when we
 
-were alone, that I was perfectly justified, all things considered, in
+were [[Alone|alone]], that I was perfectly justified, all things considered, in
 
 desiring the match; and the whole business seemed most comfortably
 
@@ -238,4 +238,4 @@ receiving her letter, he had conversed with her on the subject of it,
 
 in order to understand the particulars, and to assure himself of her
 
-real wishes. I have not a doubt but that the girl took this opportunity
+real wishes. I have not a [[Doubt|doubt]] but that the girl took this opportunity

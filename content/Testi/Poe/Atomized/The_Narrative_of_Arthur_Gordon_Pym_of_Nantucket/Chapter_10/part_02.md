@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 11 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-suffering was obtained by chewing small pieces of it and spitting them
+[[Suffering|suffering]] was obtained by chewing small pieces of it and spitting them
 
-out. Towards night my companions awoke, one by one, each in an
+out. Towards [[Night|night]] my companions awoke, one by one, each in an
 
 indescribable state of weakness and horror, brought on by the wine,
 
 whose fumes had now evaporated. They shook as if with a violent ague,
 
-and uttered the most lamentable cries for water. Their condition
+and uttered the most lamentable cries for [[Water|water]]. Their condition
 
-affected me in the most lively degree, at the same time causing me to
+affected me in the most lively degree, at the same [[Time|time]] causing me to
 
 rejoice in the fortunate train of circumstances which had prevented me
 
 from indulging in the wine, and consequently from sharing their
 
-melancholy and most distressing sensations. Their conduct, however,
+[[Melancholy|melancholy]] and most distressing sensations. Their conduct, however,
 
 gave me great uneasiness and alarm; for it was evident that, unless
 
@@ -50,7 +50,7 @@ the others, and I endeavoured, by every means in my power, to arouse
 
 him. Thinking that a plunge in the seawater might have a beneficial
 
-effect, I contrived to fasten the end of a rope around his body, and
+effect, I contrived to fasten the end of a rope around his [[Body|body]], and
 
 then, leading him to the companion-way (he remaining quite passive all
 
@@ -74,7 +74,7 @@ benefit from the shock. This idea of sudden immersion had been
 
 suggested to me by reading in some medical work the good effect of the
 
-shower-bath in a case where the patient was suffering from _mania à
+shower-bath in a case where the patient was [[Suffering|suffering]] from _mania à
 
 potu_.
 
@@ -94,17 +94,17 @@ and a blanket, but nothing which could serve us for food. I continued
 
 my efforts, after getting these articles, until I was completely
 
-exhausted, but brought up nothing else. During the night Parker and
+exhausted, but brought up nothing else. During the [[Night|night]] Parker and
 
 Peters occupied themselves by turns in the same manner; but nothing
 
-coming to hand, we now gave up this attempt in despair, concluding that
+coming to hand, we now gave up this attempt in [[Despair|despair]], concluding that
 
 we were exhausting ourselves in vain.
 
 
 
-We passed the remainder of this night in a state of the most intense
+We passed the remainder of this [[Night|night]] in a state of the most intense
 
 mental and bodily anguish that can possibly be imagined. The morning of
 
@@ -136,7 +136,7 @@ sadly reduced, and so feeble that he could not raise his head from his
 
 bosom, was not so far gone as the other two. He suffered with great
 
-patience, making no complaint, and endeavouring to inspire us with hope
+patience, making no complaint, and endeavouring to inspire us with [[Hope|hope]]
 
 in every manner he could devise. For myself, although at the
 
@@ -148,7 +148,7 @@ much less reduced in frame, and retaining my powers of mind in a
 
 surprising degree, while the rest were completely prostrated in
 
-intellect, and seemed to be brought to a species of second childhood,
+intellect, and seemed to be brought to a species of second [[Childhood|childhood]],
 
 generally simpering in their expressions, with idiotic smiles, and
 
@@ -156,13 +156,13 @@ uttering the most absurd platitudes. At intervals, however, they would
 
 appear to revive suddenly, as if inspired all at once with a
 
-consciousness of their condition, when they would spring upon their
+consciousness of their condition, when they would [[spring]] upon their
 
 feet in a momentary flash of vigour, and speak, for a short period, of
 
 their prospects, in a manner altogether rational, although full of the
 
-most intense despair. It is possible, however, that my companions may
+most intense [[Despair|despair]]. It is possible, however, that my companions may
 
 have entertained the same opinion of their own condition as I did of
 
@@ -174,7 +174,7 @@ cannot be determined.
 
 
 
-About noon Parker declared that he saw land off the larboard quarter,
+About [[Noon|noon]] Parker declared that he saw land off the larboard quarter,
 
 and it was with the utmost difficulty I could restrain him from
 
@@ -186,16 +186,16 @@ up in moody contemplation. Upon looking in the direction pointed out I
 
 could not perceive the faintest appearance of the shore--indeed, I was
 
-too well aware that we were far from any land to indulge in a hope of
+too [[Well|well]] aware that we were far from any land to indulge in a [[Hope|hope]] of
 
-that nature. It was a long time, nevertheless, before I could convince
+that [[Nature|nature]]. It was a long [[Time|time]], nevertheless, before I could convince
 
-Parker of his mistake. He then burst into a flood of tears, weeping
+Parker of his mistake. He then burst into a flood of [[Tears|tears]], weeping
 
-like a child, with loud cries and sobs, for two or three hours, when,
+like a [[Child|child]], with loud cries and sobs, for two or three hours, when,
 
 becoming exhausted, he fell asleep.
 
 
 
-Peters and Augustus now made several ineffectual efforts to swallow
+Peters and Augustus now made several ineffectual efforts to [[Swallow|swallow]]

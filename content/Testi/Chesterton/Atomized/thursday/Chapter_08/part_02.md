@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 8 (part 2)"
+title: "[[thursday]] — Chapter 8 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -25,7 +25,7 @@ from the docks.
 "At myself," answered Syme, and went off again into the agony
 of his ecstatic reaction.
 
-"Pull yourself together," said the Professor, "or you'll get hysterical.
+"Pull yourself together," said [[The Professor|the Professor]], "or you'll get hysterical.
 Have some more beer.  I'll join you."
 
 "You haven't drunk your milk," said Syme.
@@ -69,9 +69,9 @@ himself de Worms.  "I thought the President was talking about me,
 and I rattled in my boots."
 
 "And I thought he was talking about me," said Syme, with his rather
-reckless laughter.  "I had my hand on my revolver all the time."
+reckless laughter.  "I had my hand on my revolver all the [[Time|time]]."
 
-"So had I," said the Professor grimly; "so had Gogol evidently."
+"So had I," said [[The Professor|the Professor]] grimly; "so had Gogol evidently."
 
 Syme struck the table with an exclamation.
 
@@ -86,16 +86,16 @@ still have done nothing."
 "Not if we were three hundred against four?" asked Syme,
 jeering rather boisterously.
 
-"No," said the Professor with sobriety, "not if we were three
-hundred against Sunday."
+"No," said [[The Professor|the Professor]] with sobriety, "not if we were three
+hundred against [[Sunday]]."
 
 And the mere name struck Syme cold and serious; his laughter
 had died in his heart before it could die on his lips.
 The face of the unforgettable President sprang into his mind
 as startling as a coloured photograph, and he remarked this
-difference between Sunday and all his satellites, that their faces,
-however fierce or sinister, became gradually blurred by memory
-like other human faces, whereas Sunday's seemed almost to grow
+difference between [[Sunday]] and all his satellites, that their faces,
+however fierce or sinister, became gradually blurred by [[Memory|memory]]
+like other human faces, whereas [[Sunday]]'s seemed almost to grow
 more actual during absence, as if a man's painted portrait
 should slowly come alive.
 
@@ -104,17 +104,17 @@ speech came with a rush, like the sudden foaming of champagne.
 
 "Professor," he cried, "it is intolerable.  Are you afraid of this man?"
 
-The Professor lifted his heavy lids, and gazed at Syme with large,
+[[The Professor]] lifted his heavy lids, and gazed at Syme with large,
 wide-open, blue eyes of an almost ethereal honesty.
 
 "Yes, I am," he said mildly.  "So are you."
 
-Syme was dumb for an instant.  Then he rose to his feet erect,
+Syme was dumb for an instant.  Then he [[Rose|rose]] to his feet erect,
 like an insulted man, and thrust the chair away from him.
 
 "Yes," he said in a voice indescribable, "you are right.
 I am afraid of him.  Therefore I swear by God that I will seek out
-this man whom I fear until I find him, and strike him on the mouth.
+this man whom I [[Fear|fear]] until I find him, and strike him on the mouth.
 If heaven were his throne and the earth his footstool, I swear
 that I would pull him down."
 
@@ -123,41 +123,41 @@ that I would pull him down."
 "Because I am afraid of him," said Syme; "and no man should leave
 in the universe anything of which he is afraid."
 
-De Worms blinked at him with a sort of blind wonder.
+De Worms blinked at him with a sort of blind [[Wonder|wonder]].
 He made an effort to speak, but Syme went on in a low voice,
 but with an undercurrent of inhuman exaltation--
 
-"Who would condescend to strike down the mere things that he does not fear?
+"Who would condescend to strike down the mere things that he does not [[Fear|fear]]?
 Who would debase himself to be merely brave, like any common prizefighter?
-Who would stoop to be fearless--like a tree?  Fight the thing that you fear.
+Who would stoop to be fearless--like a tree?  Fight the thing that you [[Fear|fear]].
 You remember the old tale of the English clergyman who gave the last rites
-to the brigand of Sicily, and how on his death-bed the great robber said,
+to the brigand of Sicily, and how on his [[Death|death]]-bed the great robber said,
 'I can give you no money, but I can give you advice for a lifetime:
 your thumb on the blade, and strike upwards.'  So I say to you,
-strike upwards, if you strike at the stars."
+strike upwards, if you strike at the [[Stars|stars]]."
 
 The other looked at the ceiling, one of the tricks of his pose.
 
-"Sunday is a fixed star," he said.
+"[[Sunday]] is a fixed star," he said.
 
 "You shall see him a falling star," said Syme, and put on his hat.
 
-The decision of his gesture drew the Professor vaguely to his feet.
+The decision of his gesture drew [[The Professor|the Professor]] vaguely to his feet.
 
 "Have you any idea," he asked, with a sort of benevolent bewilderment,
 "exactly where you are going?"
 
 "Yes," replied Syme shortly, "I am going to prevent this bomb
-being thrown in Paris."
+being thrown in [[Paris]]."
 
 "Have you any conception how?" inquired the other.
 
 "No," said Syme with equal decision.
 
 "You remember, of course," resumed the soi-disant de Worms, pulling his
-beard and looking out of the window, "that when we broke up rather
+beard and looking out of the [[Window|window]], "that when we broke up rather
 hurriedly the whole arrangements for the atrocity were left in the private
-hands of the Marquis and Dr. Bull.  The Marquis is by this time probably
+hands of the Marquis and Dr. Bull.  The Marquis is by this [[Time|time]] probably
 crossing the Channel.  But where he will go and what he will do it
 is doubtful whether even the President knows; certainly we don't know.
 The only man who does know is Dr. Bull."

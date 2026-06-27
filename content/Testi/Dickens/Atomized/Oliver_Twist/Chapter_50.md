@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 50"
+title: "[[Oliver Twist]] — Chapter 50"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -20,10 +20,10 @@ THE PURSUIT AND ESCAPE
 
 Near to that part of the Thames on which the church at Rotherhithe
 abuts, where the buildings on the banks are dirtiest and the vessels on
-the river blackest with the dust of colliers and the smoke of
+the [[River|river]] blackest with the [[Dust|dust]] of colliers and the smoke of
 close-built low-roofed houses, there exists the filthiest, the
 strangest, the most extraordinary of the many localities that are
-hidden in London, wholly unknown, even by name, to the great mass of
+hidden in [[London]], wholly unknown, even by name, to the great mass of
 its inhabitants.
 
 To reach this place, the visitor has to penetrate through a maze of
@@ -31,31 +31,31 @@ close, narrow, and muddy streets, thronged by the roughest and poorest
 of waterside people, and devoted to the traffic they may be supposed to
 occasion. The cheapest and least delicate provisions are heaped in the
 shops; the coarsest and commonest articles of wearing apparel dangle at
-the salesman’s door, and stream from the house-parapet and windows.
+the salesman’s door, and stream from the [[house]]-parapet and windows.
 Jostling with unemployed labourers of the lowest class,
 ballast-heavers, coal-whippers, brazen women, ragged children, and the
-raff and refuse of the river, he makes his way with difficulty along,
+raff and refuse of the [[River|river]], he makes his way with difficulty along,
 assailed by offensive sights and smells from the narrow alleys which
 branch off on the right and left, and deafened by the clash of
 ponderous waggons that bear great piles of merchandise from the stacks
 of warehouses that rise from every corner. Arriving, at length, in
 streets remoter and less-frequented than those through which he has
-passed, he walks beneath tottering house-fronts projecting over the
+passed, he walks beneath tottering [[house]]-fronts projecting over the
 pavement, dismantled walls that seem to totter as he passes, chimneys
 half crushed half hesitating to fall, windows guarded by rusty iron
-bars that time and dirt have almost eaten away, every imaginable sign
+bars that [[Time|time]] and dirt have almost eaten away, every imaginable sign
 of desolation and neglect.
 
 In such a neighborhood, beyond Dockhead in the Borough of Southwark,
 stands Jacob’s Island, surrounded by a muddy ditch, six or eight feet
 deep and fifteen or twenty wide when the tide is in, once called Mill
 Pond, but known in the days of this story as Folly Ditch. It is a creek
-or inlet from the Thames, and can always be filled at high water by
+or inlet from the Thames, and can always be filled at high [[Water|water]] by
 opening the sluices at the Lead Mills from which it took its old name.
 At such times, a stranger, looking from one of the wooden bridges
 thrown across it at Mill Lane, will see the inhabitants of the houses
 on either side lowering from their back doors and windows, buckets,
-pails, domestic utensils of all kinds, in which to haul the water up;
+pails, domestic utensils of all kinds, in which to haul the [[Water|water]] up;
 and when his eye is turned from these operations to the houses
 themselves, his utmost astonishment will be excited by the scene before
 him. Crazy wooden galleries common to the backs of half a dozen houses,
@@ -65,7 +65,7 @@ never there; rooms so small, so filthy, so confined, that the air would
 seem too tainted even for the dirt and squalor which they shelter;
 wooden chambers thrusting themselves out above the mud, and threatening
 to fall into it—as some have done; dirt-besmeared walls and decaying
-foundations; every repulsive lineament of poverty, every loathsome
+foundations; every repulsive lineament of [[Poverty|poverty]], every loathsome
 indication of filth, rot, and garbage; all these ornament the banks of
 Folly Ditch.
 
@@ -75,16 +75,16 @@ into the streets; the chimneys are blackened, but they yield no smoke.
 Thirty or forty years ago, before losses and chancery suits came upon
 it, it was a thriving place; but now it is a desolate island indeed.
 The houses have no owners; they are broken open, and entered upon by
-those who have the courage; and there they live, and there they die.
+those who have the [[Courage|courage]]; and there they live, and there they die.
 They must have powerful motives for a secret residence, or be reduced
 to a destitute condition indeed, who seek a refuge in Jacob’s Island.
 
-In an upper room of one of these houses—a detached house of fair size,
-ruinous in other respects, but strongly defended at door and window: of
-which house the back commanded the ditch in manner already
+In an upper room of one of these houses—a detached [[house]] of fair size,
+ruinous in other respects, but strongly defended at door and [[Window|window]]: of
+which [[house]] the back commanded the ditch in manner already
 described—there were assembled three men, who, regarding each other
 every now and then with looks expressive of perplexity and expectation,
-sat for some time in profound and gloomy silence. One of these was Toby
+sat for some [[Time|time]] in profound and gloomy [[Silence|silence]]. One of these was Toby
 Crackit, another Mr. Chitling, and the third a robber of fifty years,
 whose nose had been almost beaten in, in some old scuffle, and whose
 face bore a frightful scar which might probably be traced to the same
@@ -96,13 +96,13 @@ here, my fine feller.”
 
 “Why didn’t you, blunder-head!” said Kags.
 
-“Well, I thought you’d have been a little more glad to see me than
-this,” replied Mr. Chitling, with a melancholy air.
+“[[Well]], I thought you’d have been a little more glad to see me than
+this,” replied Mr. Chitling, with a [[Melancholy|melancholy]] air.
 
 “Why, look’e, young gentleman,” said Toby, “when a man keeps himself so
-very ex-clusive as I have done, and by that means has a snug house over
+very ex-clusive as I have done, and by that means has a snug [[house]] over
 his head with nobody a prying and smelling about it, it’s rather a
-startling thing to have the honour of a wisit from a young gentleman
+startling thing to have the [[Honour|honour]] of a wisit from a young gentleman
 (however respectable and pleasant a person he may be to play cards with
 at conweniency) circumstanced as you are.”
 
@@ -111,20 +111,20 @@ with him, that’s arrived sooner than was expected from foreign parts,
 and is too modest to want to be presented to the Judges on his return,”
 added Mr. Kags.
 
-There was a short silence, after which Toby Crackit, seeming to abandon
+There was a short [[Silence|silence]], after which Toby Crackit, seeming to abandon
 as hopeless any further effort to maintain his usual devil-may-care
 swagger, turned to Chitling and said,
 
-“When was Fagin took then?”
+“When was [[Fagin]] took then?”
 
-“Just at dinner-time—two o’clock this afternoon. Charley and I made our
-lucky up the wash-us chimney, and Bolter got into the empty water-butt,
+“Just at dinner-[[Time|time]]—two o’[[Clock|clock]] this afternoon. Charley and I made our
+lucky up the wash-us chimney, and Bolter got into the empty [[Water|water]]-butt,
 head downwards; but his legs were so precious long that they stuck out
 at the top, and so they took him too.”
 
 “And Bet?”
 
-“Poor Bet! She went to see the Body, to speak to who it was,” replied
+“Poor Bet! She went to see the [[Body]], to speak to who it was,” replied
 Chitling, his countenance falling more and more, “and went off mad,
 screaming and raving, and beating her head against the boards; so they
 put a strait-weskut on her and took her to the hospital—and there she
@@ -141,8 +141,8 @@ went up there and see it with my own eyes—is filled with traps.”
 one will go with this.”
 
 “The sessions are on,” said Kags: “if they get the inquest over, and
-Bolter turns King’s evidence: as of course he will, from what he’s said
-already: they can prove Fagin an accessory before the fact, and get the
+Bolter turns [[King]]’s evidence: as of course he will, from what he’s said
+already: they can prove [[Fagin]] an accessory before the fact, and get the
 trial on on Friday, and he’ll swing in six days from this, by G—!”
 
 “You should have heard the people groan,” said Chitling; “the officers
@@ -152,7 +152,7 @@ seen how he looked about him, all muddy and bleeding, and clung to them
 as if they were his dearest friends. I can see ’em now, not able to
 stand upright with the pressing of the mob, and draggin him along
 amongst ’em; I can see the people jumping up, one behind another, and
-snarling with their teeth and making at him; I can see the blood upon
+snarling with their teeth and making at him; I can see the [[Blood|blood]] upon
 his hair and beard, and hear the cries with which the women worked
 themselves into the centre of the crowd at the street corner, and swore
 they’d tear his heart out!”
@@ -161,28 +161,28 @@ The horror-stricken witness of this scene pressed his hands upon his
 ears, and with his eyes closed got up and paced violently to and fro,
 like one distracted.
 
-While he was thus engaged, and the two men sat by in silence with their
+While he was thus engaged, and the two men sat by in [[Silence|silence]] with their
 eyes fixed upon the floor, a pattering noise was heard upon the stairs,
-and Sikes’s dog bounded into the room. They ran to the window,
+and Sikes’s dog bounded into the room. They ran to the [[Window|window]],
 downstairs, and into the street. The dog had jumped in at an open
-window; he made no attempt to follow them, nor was his master to be
+[[Window|window]]; he made no attempt to follow them, nor was his master to be
 seen.
 
 “What’s the meaning of this?” said Toby when they had returned. “He
-can’t be coming here. I—I—hope not.”
+can’t be coming here. I—I—[[Hope|hope]] not.”
 
 “If he was coming here, he’d have come with the dog,” said Kags,
 stooping down to examine the animal, who lay panting on the floor.
-“Here! Give us some water for him; he has run himself faint.”
+“Here! Give us some [[Water|water]] for him; he has run himself faint.”
 
 “He’s drunk it all up, every drop,” said Chitling after watching the
-dog some time in silence. “Covered with mud—lame—half blind—he must
+dog some [[Time|time]] in [[Silence|silence]]. “Covered with mud—lame—half blind—he must
 have come a long way.”
 
 “Where can he have come from!” exclaimed Toby. “He’s been to the other
 kens of course, and finding them filled with strangers come on here,
-where he’s been many a time and often. But where can he have come from
-first, and how comes he here alone without the other!”
+where he’s been many a [[Time|time]] and often. But where can he have come from
+first, and how comes he here [[Alone|alone]] without the other!”
 
 “He”—(none of them called the murderer by his old name)—“He can’t have
 made away with himself. What do you think?” said Chitling.
@@ -195,7 +195,7 @@ behind. He must have given him the slip somehow, or he wouldn’t be so
 easy.”
 
 This solution, appearing the most probable one, was adopted as the
-right; the dog, creeping under a chair, coiled himself up to sleep,
+right; the dog, creeping under a chair, coiled himself up to [[Sleep|sleep]],
 without more notice from anybody.
 
 It being now dark, the shutter was closed, and a candle lighted and
@@ -206,15 +206,15 @@ together, starting at every sound. They spoke little, and that in
 whispers, and were as silent and awe-stricken as if the remains of the
 murdered woman lay in the next room.
 
-They had sat thus, some time, when suddenly was heard a hurried
+They had sat thus, some [[Time|time]], when suddenly was heard a hurried
 knocking at the door below.
 
-“Young Bates,” said Kags, looking angrily round, to check the fear he
+“Young Bates,” said Kags, looking angrily round, to check the [[Fear|fear]] he
 felt himself.
 
 The knocking came again. No, it wasn’t he. He never knocked like that.
 
-Crackit went to the window, and shaking all over, drew in his head.
+Crackit went to the [[Window|window]], and shaking all over, drew in his head.
 There was no need to tell them who it was; his pale face was enough.
 The dog too was on the alert in an instant, and ran whining to the
 door.
@@ -233,7 +233,7 @@ Crackit went down to the door, and returned followed by a man with the
 lower part of his face buried in a handkerchief, and another tied over
 his head under his hat. He drew them slowly off. Blanched face, sunken
 eyes, hollow cheeks, beard of three days’ growth, wasted flesh, short
-thick breath; it was the very ghost of Sikes.
+thick breath; it was the very [[Ghost|ghost]] of Sikes.
 
 He laid his hand upon a chair which stood in the middle of the room,
 but shuddering as he was about to drop into it, and seeming to glance
@@ -241,15 +241,15 @@ over his shoulder, dragged it back close to the wall—as close as it
 would go—and ground it against it—and sat down.
 
 Not a word had been exchanged. He looked from one to another in
-silence. If an eye were furtively raised and met his, it was instantly
-averted. When his hollow voice broke silence, they all three started.
+[[Silence|silence]]. If an eye were furtively raised and met his, it was instantly
+averted. When his hollow voice broke [[Silence|silence]], they all three started.
 They seemed never to have heard its tones before.
 
 “How came that dog here?” he asked.
 
-“Alone. Three hours ago.”
+“[[Alone]]. Three hours ago.”
 
-“Tonight’s paper says that Fagin’s took. Is it true, or a lie?”
+“Tonight’s paper says that [[Fagin]]’s took. Is it true, or a lie?”
 
 “True.”
 
@@ -260,14 +260,14 @@ you nothing to say to me?”
 
 There was an uneasy movement among them, but nobody spoke.
 
-“You that keep this house,” said Sikes, turning his face to Crackit,
+“You that keep this [[house]],” said Sikes, turning his face to Crackit,
 “do you mean to sell me, or to let me lie here till this hunt is over?”
 
 “You may stop here, if you think it safe,” returned the person
 addressed, after some hesitation.
 
 Sikes carried his eyes slowly up the wall behind him: rather trying to
-turn his head than actually doing it: and said, “Is—it—the body—is it
+turn his head than actually doing it: and said, “Is—it—the [[Body|body]]—is it
 buried?”
 
 They shook their heads.
@@ -276,7 +276,7 @@ They shook their heads.
 they keep such ugly things above the ground for?—Who’s that knocking?”
 
 Crackit intimated, by a motion of his hand as he left the room, that
-there was nothing to fear; and directly came back with Charley Bates
+there was nothing to [[Fear|fear]]; and directly came back with Charley Bates
 behind him. Sikes sat opposite the door, so that the moment the boy
 entered the room he encountered his figure.
 
@@ -295,7 +295,7 @@ farther.
 
 “Don’t come nearer me,” answered the boy, still retreating, and
 looking, with horror in his eyes, upon the murderer’s face. “You
-monster!”
+[[Monster|monster]]!”
 
 The man stopped half-way, and they looked at each other; but Sikes’s
 eyes sunk gradually to the ground.
@@ -321,7 +321,7 @@ and never ceasing to call for help with all his might.
 
 The contest, however, was too unequal to last long. Sikes had him down,
 and his knee was on his throat, when Crackit pulled him back with a
-look of alarm, and pointed to the window. There were lights gleaming
+look of alarm, and pointed to the [[Window|window]]. There were lights gleaming
 below, voices in loud and earnest conversation, the tramp of hurried
 footsteps—endless they seemed in number—crossing the nearest wooden
 bridge. One man on horseback seemed to be among the crowd; for there
@@ -333,15 +333,15 @@ multitude of angry voices as would have made the boldest quail.
 “Help!” shrieked the boy in a voice that rent the air. “He’s here!
 Break down the door!”
 
-“In the King’s name,” cried the voices without; and the hoarse cry
+“In the [[King]]’s name,” cried the voices without; and the hoarse cry
 arose again, but louder.
 
 “Break down the door!” screamed the boy. “I tell you they’ll never open
 it. Run straight to the room where the light is. Break down the door!”
 
 Strokes, thick and heavy, rattled upon the door and lower
-window-shutters as he ceased to speak, and a loud huzzah burst from the
-crowd; giving the listener, for the first time, some adequate idea of
+[[Window|window]]-shutters as he ceased to speak, and a loud huzzah burst from the
+crowd; giving the listener, for the first [[Time|time]], some adequate idea of
 its immense extent.
 
 “Open the door of some place where I can lock this screeching
@@ -350,7 +350,7 @@ boy, now, as easily as if he were an empty sack. “That door. Quick!” He
 flung him in, bolted it, and turned the key. “Is the downstairs door
 fast?”
 
-“Double-locked and chained,” replied Crackit, who, with the other two
+“[[Double]]-locked and chained,” replied Crackit, who, with the other two
 men, still remained quite helpless and bewildered.
 
 “The panels—are they strong?”
@@ -366,11 +366,11 @@ menacing the crowd. “Do your worst! I’ll cheat you yet!”
 
 Of all the terrific yells that ever fell on mortal ears, none could
 exceed the cry of the infuriated throng. Some shouted to those who were
-nearest to set the house on fire; others roared to the officers to
+nearest to set the [[house]] on [[Fire|fire]]; others roared to the officers to
 shoot him dead. Among them all, none showed such fury as the man on
 horseback, who, throwing himself out of the saddle, and bursting
-through the crowd as if he were parting water, cried, beneath the
-window, in a voice that rose above all others, “Twenty guineas to the
+through the crowd as if he were parting [[Water|water]], cried, beneath the
+[[Window|window]], in a voice that [[Rose|rose]] above all others, “Twenty guineas to the
 man who brings a ladder!”
 
 The nearest voices took up the cry, and hundreds echoed it. Some called
@@ -378,10 +378,10 @@ for ladders, some for sledge-hammers; some ran with torches to and fro
 as if to seek them, and still came back and roared again; some spent
 their breath in impotent curses and execrations; some pressed forward
 with the ecstasy of madmen, and thus impeded the progress of those
-below; some among the boldest attempted to climb up by the water-spout
+below; some among the boldest attempted to climb up by the [[Water|water]]-spout
 and crevices in the wall; and all waved to and fro, in the darkness
-beneath, like a field of corn moved by an angry wind: and joined from
-time to time in one loud furious roar.
+beneath, like a field of corn moved by an angry [[Wind|wind]]: and joined from
+[[Time|time]] to [[Time|time]] in one loud furious roar.
 
 “The tide,” cried the murderer, as he staggered back into the room, and
 shut the faces out, “the tide was in as I came up. Give me a rope, a
@@ -391,13 +391,13 @@ and kill myself.”
 
 The panic-stricken men pointed to where such articles were kept; the
 murderer, hastily selecting the longest and strongest cord, hurried up
-to the house-top.
+to the [[house]]-top.
 
-All the windows in the rear of the house had been long ago bricked up,
+All the windows in the rear of the [[house]] had been long ago bricked up,
 except one small trap in the room where the boy was locked, and that
-was too small even for the passage of his body. But, from this
+was too small even for the passage of his [[Body|body]]. But, from this
 aperture, he had never ceased to call on those without, to guard the
-back; and thus, when the murderer emerged at last on the house-top by
+back; and thus, when the murderer emerged at last on the [[house]]-top by
 the door in the roof, a loud shout proclaimed the fact to those in
 front, who immediately began to pour round, pressing upon each other in
 an unbroken stream.
@@ -407,23 +407,23 @@ so firmly against the door that it must be matter of great difficulty
 to open it from the inside; and creeping over the tiles, looked over
 the low parapet.
 
-The water was out, and the ditch a bed of mud.
+The [[Water|water]] was out, and the ditch a bed of mud.
 
 The crowd had been hushed during these few moments, watching his
 motions and doubtful of his purpose, but the instant they perceived it
 and knew it was defeated, they raised a cry of triumphant execration to
 which all their previous shouting had been whispers. Again and again it
-rose. Those who were at too great a distance to know its meaning, took
+[[Rose|rose]]. Those who were at too great a distance to know its meaning, took
 up the sound; it echoed and re-echoed; it seemed as though the whole
-city had poured its population out to curse him.
+[[City|city]] had poured its population out to curse him.
 
 On pressed the people from the front—on, on, on, in a strong struggling
 current of angry faces, with here and there a glaring torch to lighten
 them up, and show them out in all their wrath and passion. The houses
 on the opposite side of the ditch had been entered by the mob; sashes
 were thrown up, or torn bodily out; there were tiers and tiers of faces
-in every window; cluster upon cluster of people clinging to every
-house-top. Each little bridge (and there were three in sight) bent
+in every [[Window|window]]; cluster upon cluster of people clinging to every
+[[house]]-top. Each little bridge (and there were three in sight) bent
 beneath the weight of the crowd upon it. Still the current poured on to
 find some nook or hole from which to vent their shouts, and only for an
 instant see the wretch.
@@ -447,8 +447,8 @@ striving with his neighbor, and all panting with impatience to get near
 the door, and look upon the criminal as the officers brought him out.
 The cries and shrieks of those who were pressed almost to suffocation,
 or trampled down and trodden under foot in the confusion, were
-dreadful; the narrow ways were completely blocked up; and at this time,
-between the rush of some to regain the space in front of the house, and
+dreadful; the narrow ways were completely blocked up; and at this [[Time|time]],
+between the rush of some to regain the space in front of the [[house]], and
 the unavailing struggles of others to extricate themselves from the
 mass, the immediate attention was distracted from the murderer,
 although the universal eagerness for his capture was, if possible,
@@ -462,7 +462,7 @@ ditch, and, at the risk of being stifled, endeavouring to creep away in
 the darkness and confusion.
 
 Roused into new strength and energy, and stimulated by the noise within
-the house which announced that an entrance had really been effected, he
+the [[house]] which announced that an entrance had really been effected, he
 set his foot against the stack of chimneys, fastened one end of the
 rope tightly and firmly round it, and with the other made a strong
 running noose by the aid of his hands and teeth almost in a second. He
@@ -480,7 +480,7 @@ his arms above his head, and uttered a yell of terror.
 
 “The eyes again!” he cried in an unearthly screech.
 
-Staggering as if struck by lightning, he lost his balance and tumbled
+Staggering as if struck by [[Lightning|lightning]], he lost his balance and tumbled
 over the parapet. The noose was on his neck. It ran up with his weight,
 tight as a bow-string, and swift as the arrow it speeds. He fell for
 five-and-thirty feet. There was a sudden jerk, a terrific convulsion of
@@ -489,11 +489,11 @@ stiffening hand.
 
 The old chimney quivered with the shock, but stood it bravely. The
 murderer swung lifeless against the wall; and the boy, thrusting aside
-the dangling body which obscured his view, called to the people to come
+the dangling [[Body|body]] which obscured his view, called to the people to come
 and take him out, for God’s sake.
 
 A dog, which had lain concealed till now, ran backwards and forwards on
-the parapet with a dismal howl, and collecting himself for a spring,
+the parapet with a dismal howl, and collecting himself for a [[spring]],
 jumped for the dead man’s shoulders. Missing his aim, he fell into the
 ditch, turning completely over as he went; and striking his head
 against a stone, dashed out his brains.

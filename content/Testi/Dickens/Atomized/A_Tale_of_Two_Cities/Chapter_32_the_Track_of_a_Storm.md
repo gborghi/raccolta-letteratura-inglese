@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Book 3: the Track of a Storm"
+title: "A Tale of Two Cities — Book 3: the Track of a [[Storm]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/A-Tale-of-Two-Cities-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-Book the Third--the Track of a Storm
+Book the Third--the Track of a [[Storm]]

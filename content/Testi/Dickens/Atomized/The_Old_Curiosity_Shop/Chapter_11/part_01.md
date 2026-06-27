@@ -16,33 +16,33 @@ tags:
 
 CHAPTER 11
 
-Quiet and solitude were destined to hold uninterrupted rule no longer,
-beneath the roof that sheltered the child.  Next morning, the old man
+Quiet and [[Solitude|solitude]] were destined to hold uninterrupted rule no longer,
+beneath the roof that sheltered the [[Child|child]].  Next morning, the old man
 was in a raging fever accompanied with delirium; and sinking under the
 influence of this disorder he lay for many weeks in imminent peril of
 his life.  There was watching enough, now, but it was the watching of
 strangers who made a greedy trade of it, and who, in the intervals in
 their attendance upon the sick man huddled together with a ghastly
 good-fellowship, and ate and drank and made merry; for disease and
-death were their ordinary household gods.
+[[Death|death]] were their ordinary household gods.
 
-Yet, in all the hurry and crowding of such a time, the child was more
-alone than she had ever been before; alone in spirit, alone in her
-devotion to him who was wasting away upon his burning bed; alone in her
+Yet, in all the hurry and crowding of such a [[Time|time]], the [[Child|child]] was more
+[[Alone|alone]] than she had ever been before; [[Alone|alone]] in spirit, [[Alone|alone]] in her
+devotion to him who was wasting away upon his burning bed; [[Alone|alone]] in her
 unfeigned sorrow, and her unpurchased sympathy.  Day after day, and
-night after night, found her still by the pillow of the unconscious
+[[Night|night]] after [[Night|night]], found her still by the pillow of the unconscious
 sufferer, still anticipating his every want, still listening to those
 repetitions of her name and those anxieties and cares for her, which
 were ever uppermost among his feverish wanderings.
 
-The house was no longer theirs.  Even the sick chamber seemed to be
+The [[house]] was no longer theirs.  Even the sick chamber seemed to be
 retained, on the uncertain tenure of Mr Quilp’s favour.  The old man’s
 illness had not lasted many days when he took formal possession of the
 premises and all upon them, in virtue of certain legal powers to that
 effect, which few understood and none presumed to call in question.
 This important step secured, with the assistance of a man of law whom
-he brought with him for the purpose, the dwarf proceeded to establish
-himself and his coadjutor in the house, as an assertion of his claim
+he brought with him for the purpose, the [[Dwarf|dwarf]] proceeded to establish
+himself and his coadjutor in the [[house]], as an assertion of his claim
 against all comers; and then set about making his quarters comfortable,
 after his own fashion.
 
@@ -60,9 +60,9 @@ smoke, himself, without cessation, but to insist upon it that his legal
 friend did the like.  Moreover, he sent an express to the wharf for the
 tumbling boy, who arriving with all despatch was enjoined to sit
 himself down in another chair just inside the door, continually to
-smoke a great pipe which the dwarf had provided for the purpose, and to
+smoke a great pipe which the [[Dwarf|dwarf]] had provided for the purpose, and to
 take it from his lips under any pretence whatever, were it only for one
-minute at a time, if he dared.  These arrangements completed, Mr Quilp
+minute at a [[Time|time]], if he dared.  These arrangements completed, Mr Quilp
 looked round him with chuckling satisfaction, and remarked that he
 called that comfort.
 
@@ -76,7 +76,7 @@ conciliating his good opinion, he tried to smile, and nodded his
 acquiescence with the best grace he could assume.
 
 This Brass was an attorney of no very good repute, from Bevis Marks in
-the city of London; he was a tall, meagre man, with a nose like a wen,
+the [[City|city]] of [[London]]; he was a tall, meagre man, with a nose like a wen,
 a protruding forehead, retreating eyes, and hair of a deep red.  He
 wore a long black surtout reaching nearly to his ankles, short black
 trousers, high shoes, and cotton stockings of a bluish grey.  He had a
@@ -92,7 +92,7 @@ smoke from him, was quite overjoyed and rubbed his hands with glee.
 
 ‘Smoke away, you dog,’ said Quilp, turning to the boy; ‘fill your pipe
 again and smoke it fast, down to the last whiff, or I’ll put the
-sealing-waxed end of it in the fire and rub it red hot upon your
+sealing-waxed end of it in the [[Fire|fire]] and rub it red hot upon your
 tongue.’
 
 Luckily the boy was case-hardened, and would have smoked a small
@@ -103,15 +103,15 @@ muttered a brief defiance of his master, and did as he was ordered.
 Grand Turk?’ said Quilp.
 
 Mr Brass thought that if he did, the Grand Turk’s feelings were by no
-means to be envied, but he said it was famous, and he had no doubt he
+means to be envied, but he said it was famous, and he had no [[Doubt|doubt]] he
 felt very like that Potentate.
 
 ‘This is the way to keep off fever,’ said Quilp, ‘this is the way to
-keep off every calamity of life!  We’ll never leave off, all the time
-we stop here--smoke away, you dog, or you shall swallow the pipe!’
+keep off every calamity of life!  We’ll never leave off, all the [[Time|time]]
+we stop here--smoke away, you dog, or you shall [[Swallow|swallow]] the pipe!’
 
 ‘Shall we stop here long, Mr Quilp?’ inquired his legal friend, when
-the dwarf had given his boy this gentle admonition.
+the [[Dwarf|dwarf]] had given his boy this gentle admonition.
 
 ‘We must stop, I suppose, till the old gentleman up stairs is dead,’
 returned Quilp.
@@ -119,12 +119,12 @@ returned Quilp.
 ‘He he he!’ laughed Mr Brass, ‘oh! very good!’
 
 ‘Smoke away!’ cried Quilp.  ‘Never stop!  You can talk as you smoke.
-Don’t lose time.’
+Don’t lose [[Time|time]].’
 
 ‘He he he!’ cried Brass faintly, as he again applied himself to the
 odious pipe.  ‘But if he should get better, Mr Quilp?’
 
-‘Then we shall stop till he does, and no longer,’ returned the dwarf.
+‘Then we shall stop till he does, and no longer,’ returned the [[Dwarf|dwarf]].
 
 ‘How kind it is of you, Sir, to wait till then!’ said Brass.  ‘Some
 people, Sir, would have sold or removed the goods--oh dear, the very

@@ -33,10 +33,10 @@ to be heard.’
 ‘I mean the French people. They’re always at it. As to Marseilles, we
 know what Marseilles is. It sent the most insurrectionary tune into the
 world that was ever composed. It couldn’t exist without allonging and
-marshonging to something or other--victory or death, or blazes, or
+marshonging to something or other--victory or [[Death|death]], or blazes, or
 something.’
 
-The speaker, with a whimsical good humour upon him all the time, looked
+The speaker, with a whimsical good [[Humour|humour]] upon him all the [[Time|time]], looked
 over the parapet-wall with the greatest disparagement of Marseilles; and
 taking up a determined position by putting his hands in his pockets and
 rattling his money at it, apostrophised it with a short laugh.
@@ -57,24 +57,24 @@ and as the East is the country of the plague--’
 ‘The plague!’ repeated the other. ‘That’s my grievance. I have had the
 plague continually, ever since I have been here. I am like a sane man
 shut up in a madhouse; I can’t stand the suspicion of the thing. I came
-here as well as ever I was in my life; but to suspect me of the plague
+here as [[Well|well]] as ever I was in my life; but to suspect me of the plague
 is to give me the plague. And I have had it--and I have got it.’
 
-‘You bear it very well, Mr Meagles,’ said the second speaker, smiling.
+‘You bear it very [[Well|well]], Mr Meagles,’ said the second speaker, smiling.
 
 ‘No. If you knew the real state of the case, that’s the last observation
-you would think of making. I have been waking up night after night, and
+you would think of making. I have been waking up [[Night|night]] after [[Night|night]], and
 saying, _now_ I have got it, _now_ it has developed itself, _now_ I am
 in for it, _now_ these fellows are making out their case for their
 precautions. Why, I’d as soon have a spit put through me, and be stuck
 upon a card in a collection of beetles, as lead the life I have been
 leading here.’
 
-‘Well, Mr Meagles, say no more about it now it’s over,’ urged a cheerful
+‘[[Well]], Mr Meagles, say no more about it now it’s over,’ urged a cheerful
 feminine voice.
 
 ‘Over!’ repeated Mr Meagles, who appeared (though without any
-ill-nature) to be in that peculiar state of mind in which the last word
+ill-[[Nature|nature]]) to be in that peculiar state of mind in which the last word
 spoken by anybody else is a new injury. ‘Over! and why should I say no
 more about it because it’s over?’
 
@@ -88,7 +88,7 @@ sake content yourself with Pet.’
 
 ‘With Pet?’ repeated Mr Meagles in his injured vein. Pet, however,
 being close behind him, touched him on the shoulder, and Mr Meagles
-immediately forgave Marseilles from the bottom of his heart.
+immediately forgave Marseilles from the [[Bottom|bottom]] of his heart.
 
 Pet was about twenty. A fair girl with rich brown hair hanging free in
 natural ringlets. A lovely girl, with a frank face, and wonderful eyes;
@@ -110,7 +110,7 @@ quarantine?’
 you for that remark. Now, Pet, my darling, you had better go along with
 Mother and get ready for the boat. The officer of health, and a variety
 of humbugs in cocked hats, are coming off to let us out of this at last:
-and all we jail-birds are to breakfast together in something approaching
+and all we jail-[[Birds|birds]] are to breakfast together in something approaching
 to a Christian style again, before we take wing for our different
 destinations. Tattycoram, stick you close to your young mistress.’
 
@@ -118,7 +118,7 @@ He spoke to a handsome girl with lustrous dark hair and eyes, and very
 neatly dressed, who replied with a half curtsey as she passed off in the
 train of Mrs Meagles and Pet. They crossed the bare scorched terrace
 all three together, and disappeared through a staring white archway.
-Mr Meagles’s companion, a grave dark man of forty, still stood looking
+Mr Meagles’s companion, a [[Grave|grave]] dark man of forty, still stood looking
 towards this archway after they were gone; until Mr Meagles tapped him
 on the arm.
 
@@ -152,4 +152,4 @@ gravity of his dark face.
 
 ‘Practical people. So one day, five or six years ago now, when we took
 Pet to church at the Foundling--you have heard of the Foundling Hospital
-in London? Similar to the Institution for the Found Children in Paris?’
+in [[London]]? Similar to the Institution for the Found Children in [[Paris]]?’

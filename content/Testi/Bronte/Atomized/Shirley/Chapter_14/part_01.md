@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 14 (part 1)"
+title: "[[Shirley]] — Chapter 14 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,15 +18,15 @@ CHAPTER XIV.
 
 
 
-SHIRLEY SEEKS TO BE SAVED BY WORKS.
+[[Shirley|SHIRLEY]] SEEKS TO BE SAVED BY WORKS.
 
 
 
 
 
-"Of course, I know he will marry Shirley," were her first words when she
+"Of course, I know he will marry [[Shirley]]," were her first words when she
 
-rose in the morning. "And he ought to marry her. She can help him," she
+[[Rose|rose]] in the morning. "And he ought to marry her. She can help him," she
 
 added firmly. "But I shall be forgotten when they _are_ married," was
 
@@ -36,11 +36,11 @@ what--_what_ shall I do when Robert is taken quite from me? Where shall
 
 I turn? _My_ Robert! I wish I could justly call him mine. But I am
 
-poverty and incapacity; Shirley is wealth and power. And she is beauty
+[[Poverty|poverty]] and incapacity; [[Shirley]] is wealth and power. And she is [[Beauty|beauty]]
 
-too, and love. I cannot deny it. This is no sordid suit. She loves
+too, and [[Love|love]]. I cannot deny it. This is no sordid suit. She loves
 
-him--not with inferior feelings. She loves, or _will_ love, as he must
+him--not with inferior feelings. She loves, or _will_ [[Love|love]], as he must
 
 feel proud to be loved. Not a valid objection can be made. Let them be
 
@@ -54,7 +54,7 @@ endurable. Once let that pair be united, and I will certainly leave
 
 them. As for lingering about, playing the hypocrite, and pretending to
 
-calm sentiments of friendship, when my soul will be wrung with other
+calm sentiments of [[Friendship|friendship]], when my [[Soul|soul]] will be wrung with other
 
 feelings, I shall not descend to such degradation. As little could I
 
@@ -62,7 +62,7 @@ fill the place of their mutual friend as that of their deadly foe; as
 
 little could I stand between them as trample over them. Robert is a
 
-first-rate man--in my eyes. I _have_ loved, _do_ love, and _must___ love
+first-rate man--in my eyes. I _have_ loved, _do_ [[Love|love]], and _must___ [[Love|love]]
 
 him. I would be his wife if I could; as I cannot, I must go where I
 
@@ -70,7 +70,7 @@ shall never see him. There is but one alternative--to cleave to him as
 
 if I were a part of him, or to be sundered from him wide as the two
 
-poles of a sphere.--Sunder me then, Providence. Part us speedily."
+poles of a sphere.--Sunder me then, [[Providence]]. Part us speedily."
 
 
 
@@ -78,7 +78,7 @@ Some such aspirations as these were again working in her mind late in
 
 the afternoon, when the apparition of one of the personages haunting her
 
-thoughts passed the parlour window. Miss Keeldar sauntered slowly by,
+thoughts passed the parlour [[Window|window]]. Miss Keeldar sauntered slowly by,
 
 her gait, her countenance, wearing that mixture of wistfulness and
 
@@ -102,15 +102,15 @@ promised?" was her address to Caroline as she entered the room.
 
 
 
-"I was not in the humour," replied Miss Helstone, very truly.
+"I was not in the [[Humour|humour]]," replied Miss Helstone, very truly.
 
 
 
-Shirley had already fixed on her a penetrating eye.
+[[Shirley]] had already fixed on her a penetrating eye.
 
 
 
-"No," she said; "I see you are not in the humour for loving me. You are
+"No," she said; "I see you are not in the [[Humour|humour]] for loving me. You are
 
 in one of your sunless, inclement moods, when one feels a
 
@@ -120,7 +120,7 @@ Are you aware of it?"
 
 
 
-"Do you mean to stay long, Shirley?"
+"Do you mean to stay long, [[Shirley]]?"
 
 
 
@@ -138,25 +138,25 @@ And this she did, and then stood on the rug with her hands behind her.
 
 gazing keenly, though not inimically--rather indeed pityingly--at
 
-Caroline. "Wonderfully self-supported you look, you solitude-seeking,
+Caroline. "Wonderfully [[Self|self]]-supported you look, you [[Solitude|solitude]]-seeking,
 
-wounded deer. Are you afraid Shirley will worry you if she discovers
+wounded deer. Are you afraid [[Shirley]] will worry you if she discovers
 
 that you are hurt, and that you bleed?"
 
 
 
-"I never do fear Shirley."
+"I never do [[Fear|fear]] [[Shirley]]."
 
 
 
-"But sometimes you dislike her; often you avoid her. Shirley can feel
+"But sometimes you dislike her; often you avoid her. [[Shirley]] can feel
 
-when she is slighted and shunned. If you had not walked home in the
+when she is slighted and shunned. If you had not walked [[Home|home]] in the
 
-company you did last night, you would have been a different girl to-day.
+company you did last [[Night|night]], you would have been a different girl to-day.
 
-What time did you reach the rectory?"
+What [[Time|time]] did you reach the rectory?"
 
 
 
@@ -170,17 +170,17 @@ or Moore, who lingered so?"
 
 
 
-"Shirley, you talk nonsense."
+"[[Shirley]], you talk nonsense."
 
 
 
-"_He_ talked nonsense--that I doubt not; or he looked it, which is a
+"_He_ talked nonsense--that I [[Doubt|doubt]] not; or he looked it, which is a
 
 thousand times worse. I see the reflection of his eyes on your forehead
 
 at this moment. I feel disposed to call him out, if I could only get a
 
-trustworthy second. I feel desperately irritated. I felt so last night,
+trustworthy second. I feel desperately irritated. I felt so last [[Night|night]],
 
 and have felt it all day."
 
@@ -190,7 +190,7 @@ and have felt it all day."
 
 silent, over-modest thing; and you don't deserve that I should pour out
 
-my secrets into your lap without an invitation. Upon my word, I could
+my [[Secrets|secrets]] into your lap without an invitation. Upon my word, I could
 
 have found it in my heart to have dogged Moore yesterday evening with
 
@@ -198,7 +198,7 @@ dire intent. I have pistols, and can use them."
 
 
 
-"Stuff, Shirley! Which would you have shot--me or Robert?"
+"Stuff, [[Shirley]]! Which would you have shot--me or Robert?"
 
 
 
@@ -236,13 +236,13 @@ advance Moore's fortune you would cut off your right hand."
 
 
 
-"But not tell lies. And if I speak the truth, I must assure you that he
+"But not tell lies. And if I speak the [[Truth|truth]], I must assure you that he
 
-was just civil to me last night--that was all."
+was just civil to me last [[Night|night]]--that was all."
 
 
 
-"I never asked what he was. I can guess. I saw him from the window take
+"I never asked what he was. I can guess. I saw him from the [[Window|window]] take
 
 your hand in his long fingers, just as he went out at my gate."
 

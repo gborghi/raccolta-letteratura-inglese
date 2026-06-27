@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Doom of the Darnaways (part 7)"
+title: "[[Incredulity]] — The Doom of the Darnaways (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -21,7 +21,7 @@ superstition now,' said Martin Wood.
 `Why should I indulge in superstition because somebody else
 indulges in suicide?'
 
-`You think poor Mr Darnaway committed suicide?' asked the priest.
+`You think poor Mr Darnaway committed [[suicide]]?' asked the priest.
 
 `I'm sure he committed suicide,' replied the doctor.
 
@@ -40,14 +40,14 @@ like that, you're bound to degenerate whether you like it or not.
 The laws of heredity can't be dodged; the truths of science can't
 be denied.  The minds of the Darnaways are falling to pieces,
 as their blighted old sticks and stones are falling to pieces,
-eaten away by the sea and the salt air.  Suicide--of course
-he committed suicide; I dare say all the rest will commit suicide.
+eaten away by the sea and the salt air.  [[suicide|Suicide]]--of course
+he committed [[suicide]]; I dare say all the rest will commit [[suicide]].
 Perhaps the best thing they could do.'
 
 As the man of science spoke there sprang suddenly and with startling
-clearness into Payne's memory the face of the daughter of
+clearness into Payne's [[Memory|memory]] the face of the daughter of
 the Darnaways, a tragic mask pale against an unfathomable blackness,
-but itself of a blinding and more than mortal beauty.
+but itself of a blinding and more than mortal [[Beauty|beauty]].
 He opened his mouth to speak and found himself speechless.
 
 `I see,' said Father Brown to the doctor; `so you do believe
@@ -56,7 +56,7 @@ in the superstition after all?'
 `What do you mean--believe in the superstition?
 I believe in the suicide as a matter of scientific necessity.'
 
-`Well,' replied the priest, `I don't see a pin to choose between
+`[[Well]],' replied the priest, `I don't see a pin to choose between
 your scientific superstition and the other magical superstition.
 They both seem to end in turning people into paralytics, who can't
 move their own legs or arms or save their own lives or souls.
@@ -73,7 +73,7 @@ superstition that both end in the dark.  And the proof of it is this:
 that you are all entirely in the dark about what really happened
 in that house.'
 
-`Do you mean about the suicide?' asked Payne.
+`Do you mean about the [[suicide]]?' asked Payne.
 
 `I mean about the murder,' said Father Brown; and his voice,
 though only slightly lifted to a louder note, seemed somehow
@@ -129,16 +129,16 @@ or an evil god of the garden.
 `What do you mean?' she asked steadily.  `What is this word
 that will set us free?'
 
-`The word is murder,' he said, `and the freedom it brings is as fresh
-as the flowers of spring.  No; I do not mean I have murdered anybody.
+`The word is murder,' he said, `and the [[Freedom|freedom]] it brings is as fresh
+as the [[Flowers|flowers]] of [[spring]].  No; I do not mean I have murdered anybody.
 But the fact that anybody can be murdered is itself good news,
-after the evil dreams you have been living in.  Don't you understand?
+after the evil [[Dreams|dreams]] you have been living in.  Don't you understand?
 In that dream of yours everything that happened to you came from
 inside you; the Doom of the Darnaways was stored up in the Darnaways;
 it unfolded itself like a horrible flower.  There was no escape
 even by happy accident; it was all inevitable; whether it was Vine
 and his old--wives' tales, or Barnet and his new--fangled heredity.
-But this man who died was not the victim of a magic curse or an
-inherited madness.  He was murdered; and for us that murder is simply
+But this man who died was not the victim of a [[Magic|magic]] curse or an
+inherited [[Madness|madness]].  He was murdered; and for us that murder is simply
 an accident; yes, requiescat in pace:  but a happy accident.
 It is a ray of daylight, because it comes from outside.'

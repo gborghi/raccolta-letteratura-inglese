@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Fairy Tale of Father Brown (part 5)"
+title: "[[wifrb11]] — The Fairy Tale of [[Father Brown]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -18,9 +18,9 @@ tags:
 and then a shot that shrieked as it came and then was stilled suddenly
 by impact.  Otto of Grossenmark lay very peacefully among the fairy
 trees, and would do no more harm either with gold or steel; only the
-silver pencil of the moon would pick out and trace here and there the
+silver pencil of the [[Moon|moon]] would pick out and trace here and there the
 intricate ornament of his uniform, or the old wrinkles on his brow. 
-May God have mercy on his soul.
+May God have [[Mercy|mercy]] on his [[Soul|soul]].
 
      "The sentry who had fired, according to the strict orders
 of the garrison, naturally ran forward to find some trace of his quarry. 
@@ -38,27 +38,27 @@ that there was a fairy tale, after all, in that little wood,
 horrible as was its occasion.  Whether the young lady named Hedwig
 had any previous knowledge of the soldier she saved and eventually married,
 or whether she came accidentally upon the accident and their intimacy
-began that night, we shall probably never know.  But we can know,
+began that [[Night|night]], we shall probably never know.  But we can know,
 I fancy, that this Hedwig was a heroine, and deserved to marry a man
-who became something of a hero.  She did the bold and the wise thing. 
+who became something of a [[Hero|hero]].  She did the bold and the wise thing. 
 She persuaded the sentry to go back to his post, in which place
 there was nothing to connect him with the disaster; he was but one of
 the most loyal and orderly of fifty such sentries within call. 
-She remained by the body and gave the alarm; and there was nothing
+She remained by the [[Body|body]] and gave the alarm; and there was nothing
 to connect her with the disaster either, since she had not got,
 and could not have, any firearms.
 
-     "Well," said Father Brown rising cheerfully "I hope they're happy."
+     "[[Well]]," said [[Father Brown]] rising cheerfully "I [[Hope|hope]] they're happy."
 
      "Where are you going?" asked his friend.
 
      "I'm going to have another look at that portrait of the Chamberlain,
 the Arnhold who betrayed his brethren," answered the priest. 
-"I wonder what part--I wonder if a man is less a traitor when he is
+"I [[Wonder|wonder]] what part--I [[Wonder|wonder]] if a man is less a traitor when he is
 twice a traitor?"
 
      And he ruminated long before the portrait of a white-haired man
 with black eyebrows and a pink, painted sort of smile that seemed
 to contradict the black warning in his eyes.
 
-End of this Project Gutenberg Etext of The Wisdom of Father Brown
+End of this Project Gutenberg Etext of The Wisdom of [[Father Brown]]

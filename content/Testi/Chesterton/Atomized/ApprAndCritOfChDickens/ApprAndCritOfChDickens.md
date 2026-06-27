@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens"
+title: "[[ApprAndCritOfChDickens]]"
 author: "Chesterton"
 unitType: work
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -59,9 +59,9 @@ G. K. CHESTERTON
 
 1911
 
-LONDON: J. M. DENT & SONS, LTD.
+[[London|LONDON]]: J. M. DENT & SONS, LTD.
 
-NEW YORK: E. P. DUTTON & CO.
+[[New York|NEW YORK]]: E. P. DUTTON & CO.
 
 _All rights reserved_
 
@@ -73,33 +73,33 @@ CONTENTS
 
     II. SKETCHES BY BOZ                  1
 
-   III. PICKWICK PAPERS                 13
+   III. [[Pickwick|PICKWICK]] PAPERS                 13
 
-    IV. NICHOLAS NICKLEBY               26
+    IV. [[Nicholas Nickleby|NICHOLAS NICKLEBY]]               26
 
-     V. OLIVER TWIST                    38
+     V. [[Oliver Twist|OLIVER TWIST]]                    38
 
     VI. OLD CURIOSITY SHOP              50
 
-   VII. BARNABY RUDGE                   65
+   VII. [[Barnaby Rudge|BARNABY RUDGE]]                   65
 
   VIII. AMERICAN NOTES                  76
 
-    IX. PICTURES FROM ITALY             87
+    IX. PICTURES FROM [[Italy|ITALY]]             87
 
-     X. MARTIN CHUZZLEWIT               90
+     X. [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]               90
 
     XI. CHRISTMAS BOOKS                103
 
    XII. DOMBEY AND SON                 114
 
-  XIII. DAVID COPPERFIELD              129
+  XIII. [[David Copperfield|DAVID COPPERFIELD]]              129
 
    XIV. CHRISTMAS STORIES              140
 
-    XV. BLEAK HOUSE                    148
+    XV. BLEAK [[house|HOUSE]]                    148
 
-   XVI. CHILD'S HISTORY OF ENGLAND     160
+   XVI. [[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND     160
 
    XVII. HARD TIMES                    169
 
@@ -107,13 +107,13 @@ CONTENTS
 
     XIX. A TALE OF TWO CITIES          188
 
-     XX. GREAT EXPECTATIONS            197
+     XX. [[Great Expectations|GREAT EXPECTATIONS]]            197
 
     XXI. OUR MUTUAL FRIEND             207
 
-   XXII. EDWIN DROOD                   218
+   XXII. [[Edwin Drood|EDWIN DROOD]]                   218
 
-  XXIII. MASTER HUMPHREY'S CLOCK       229
+  XXIII. MASTER HUMPHREY'S [[Clock|CLOCK]]       229
 
    XXIV. REPRINTED PIECES              239
 
@@ -129,7 +129,7 @@ ILLUSTRATIONS
 
     From a bust by H. Dexter, executed during Dickens's
 
-    first visit to America.
+    first visit to [[america|America]].
 
   CHARLES DICKENS, 1844                                               90
 
@@ -167,7 +167,7 @@ they were harmless, being diluted by, or rather drowned in Dickens. My
 
 scrap of theory was a mere dry biscuit to be taken with the grand tawny
 
-port of great English comedy; and by most people it was not taken at
+port of great English [[Comedy|comedy]]; and by most people it was not taken at
 
 all--like the biscuit. Nevertheless the essays were not in intention so
 
@@ -245,13 +245,13 @@ constitution. That world is rapidly ceasing to understand itself. It is
 
 vain to repeat the complaint of the old Quarterly Reviewers, that
 
-Dickens had not enjoyed a university education. What would the old
+Dickens had not enjoyed a university [[Education|education]]. What would the old
 
 Quarterly Reviewers themselves have thought of the Rhodes Scholarships?
 
 It is useless to repeat the old tag that Dickens could not describe a
 
-gentleman. A gentleman in our time has become something quite
+gentleman. A gentleman in our [[Time|time]] has become something quite
 
 indescribable.
 
@@ -265,13 +265,13 @@ educated and more pretentious contemporaries. I give but one example out
 
 of many. Thackeray was a good Victorian radical, who seems to have gone
 
-to his grave quite contented with the early Victorian radical
+to his [[Grave|grave]] quite contented with the early Victorian radical
 
 theory--the theory which Macaulay preached with unparalleled luminosity
 
 and completeness; the theory that true progress goes on so steadily
 
-through human history, that while reaction is indefensible, revolution
+through human [[history]], that while reaction is indefensible, revolution
 
 is unnecessary. Thackeray seems to have been quite content to think that
 
@@ -293,15 +293,15 @@ Dickens was a Socialist, but it is not absurd to say so. And it would
 
 be simply absurd to say it of any of the great Individualist novelists
 
-of the Victorian time. Dickens saw far enough ahead to know that the
+of the Victorian [[Time|time]]. Dickens saw far enough ahead to know that the
 
-time was coming when the people would be imploring the State to save
+[[Time|time]] was coming when the people would be imploring the State to save
 
-them from mere freedom, as from some frightful foreign oppressor. He
+them from mere [[Freedom|freedom]], as from some frightful foreign oppressor. He
 
 felt the society changing; and Thackeray never did.
 
-As talking about Socialism and Individualism is one of the greatest
+As talking about Socialism and [[Individualism]] is one of the greatest
 
 bores ever endured among men, I will take another instance to illustrate
 
@@ -317,23 +317,23 @@ there is an odd thing about which I cannot make up my mind; I do not
 
 know whether it is unconscious observation or fiendish irony. But it is
 
-this. In _Our Mutual Friend_ is an old patriarch named Aaron, who is a
+this. In _Our Mutual Friend_ is an old patriarch named [[Aaron]], who is a
 
 saintly Jew made to do the dirty work of an abominable Christian usurer.
 
-In an artistic sense I think the patriarch Aaron as much of a humbug as
+In an artistic sense I think the patriarch [[Aaron]] as much of a humbug as
 
-the patriarch Casby. In a moral sense there is no doubt at all that
+the patriarch Casby. In a moral sense there is no [[Doubt|doubt]] at all that
 
 Dickens introduced the Jew with a philanthropic idea of doing justice to
 
 Judaism, which he was told he had affronted by the great gargoyle of
 
-Fagin. If this was his motive, it was morally a most worthy one. But it
+[[Fagin]]. If this was his motive, it was morally a most worthy one. But it
 
 is certainly unfortunate for the Hebrew cause that the bad Jew should be
 
-so very much more convincing than the good one. Old Aaron is not an
+so very much more convincing than the good one. Old [[Aaron]] is not an
 
 exaggeration of Jewish virtues; he is simply not Jewish, because he is
 
@@ -369,7 +369,7 @@ furniture--of what stock was he? Mr. Lammle, with "too much nose in his
 
 face, too much ginger in his whiskers, too much sparkle in his studs and
 
-manners"--of what blood was he? Mr. Lammle's friends, coarse and
+manners"--of what [[Blood|blood]] was he? Mr. Lammle's friends, coarse and
 
 thick-lipped, with fingers so covered with rings that they could hardly
 
@@ -391,11 +391,11 @@ if he put in one good Jew whom nobody could believe in, and then
 
 balanced him with ten bad Jews whom nobody could fail to recognise. It
 
-seems as if he had avenged himself for the doubt about Fagin by
+seems as if he had avenged himself for the [[Doubt|doubt]] about [[Fagin]] by
 
 introducing five or six Fagins--triumphant Fagins, fashionable Fagins,
 
-Fagins who had changed their names. The impeccable old Aaron stands up
+Fagins who had changed their names. The impeccable old [[Aaron]] stands up
 
 in the middle of this ironic carnival with a peculiar solemnity and
 
@@ -407,13 +407,13 @@ be Englishmen.
 
 But this notion of a sneer is not admissible. Dickens was far too frank
 
-and generous a writer to employ such an elaborate plot of silence. His
+and generous a writer to employ such an elaborate plot of [[Silence|silence]]. His
 
-satire was always intended to attack, never to entrap; moreover, he was
+[[Satire|satire]] was always intended to attack, never to entrap; moreover, he was
 
-far too vain a man not to wish the crowd to see all his jokes. Vanity is
+far too vain a man not to wish the crowd to see all his jokes. [[Vanity]] is
 
-more divine than pride, because it is more democratic than pride. Third,
+more divine than [[Pride|pride]], because it is more democratic than [[Pride|pride]]. Third,
 
 and most important, Dickens was a good Liberal, and would have been
 
@@ -435,7 +435,7 @@ and cosmopolitan financier without even knowing that it was oriental or
 
 cosmopolitan. He had, in fact, fallen a victim to a very simple fallacy
 
-affecting this problem. Somebody said, with great wit and truth, that
+affecting this problem. Somebody said, with great wit and [[Truth|truth]], that
 
 treason cannot prosper, because when it prospers it cannot be called
 
@@ -459,7 +459,7 @@ though he did not know the millionaire's name. Nobody does. His was not
 
 a type of mind to disentangle either the abstract truths touching the
 
-Socialist, nor the highly personal truth about the millionaire. He was a
+Socialist, nor the highly personal [[Truth|truth]] about the millionaire. He was a
 
 man of impressions; he has never been equalled in the art of conveying
 
@@ -479,27 +479,27 @@ impressive because he did not understand them.
 
 Now for this reason Dickens must definitely be considered in the light
 
-of the changes which his soul foresaw. Thackeray has become classical;
+of the changes which his [[Soul|soul]] foresaw. Thackeray has become classical;
 
 but Dickens has done more: he has remained modern. The grand
 
-retrospective spirit of Thackeray is by its nature attached to places
+retrospective spirit of Thackeray is by its [[Nature|nature]] attached to places
 
-and times; he belongs to Queen Victoria as much as Addison belongs to
+and times; he belongs to [[Queen]] Victoria as much as Addison belongs to
 
-Queen Anne, and it is not only Queen Anne who is dead. But Dickens, in a
+[[Queen]] Anne, and it is not only [[Queen]] Anne who is dead. But Dickens, in a
 
 dark prophetic kind of way, belongs to the developments. He belongs to
 
-the times since his death when Hard Times grew harder, and when
+the times since his [[Death|death]] when Hard Times grew harder, and when
 
 Veneering became not only a Member of Parliament, but a Cabinet
 
-Minister; the times when the very soul and spirit of Fledgeby carried
+Minister; the times when the very [[Soul|soul]] and spirit of Fledgeby carried
 
 war into Africa. Dickens can be criticised as a contemporary of Bernard
 
-Shaw or Anatole France or C. F. G. Masterman. In talking of him one need
+[[Shaw]] or Anatole France or C. F. G. Masterman. In talking of him one need
 
 no longer talk merely of the Manchester School or Puseyism or the Charge
 
@@ -513,7 +513,7 @@ and some meaner than his own; and it is a very rough effort so to
 
 consider him which is the excuse of these pages. Of the essays in this
 
-book I desire to say as little as possible; I will discuss any other
+book I [[Desire|desire]] to say as little as possible; I will discuss any other
 
 subject in preference with a readiness which reaches to avidity. But I
 
@@ -525,7 +525,7 @@ far less than justice to that fine book considered in its relation to
 
 eternal literature; but I have dwelt at some length upon a particular
 
-element in it which has grown enormous in England after Dickens's death.
+element in it which has grown enormous in England after Dickens's [[Death|death]].
 
 Thus again, in introducing the _Sketches by Boz_ I have felt chiefly
 
@@ -533,25 +533,25 @@ that I am introducing them to a new generation insufficiently in
 
 sympathy with such palpable and unsophisticated fun. A Board School
 
-education, evolved since Dickens's day, has given to our people a queer
+[[Education|education]], evolved since Dickens's day, has given to our people a queer
 
 and inadequate sort of refinement, one which prevents them from enjoying
 
-the raw jests of the _Sketches by Boz_, but leaves them easily open to
+the raw jests of the _Sketches by Boz_, but [[Leaves|leaves]] them easily open to
 
 that slight but poisonous sentimentalism which I note amid all the
 
-merits of David Copperfield. In the same way I shall speak of _Little
+merits of [[David Copperfield]]. In the same way I shall speak of _Little
 
 Dorrit_, with reference to a school of pessimistic fiction which did not
 
 exist when it was written, of _Hard Times_ in the light of the most
 
-modern crises of economics, and of _The Child's History of England_ in
+modern crises of economics, and of _The [[Child]]'s [[history|History]] of England_ in
 
-the light of the most matured authority of history. In short, these
+the light of the most matured authority of [[history]]. In short, these
 
-criticisms are an intrinsically ephemeral comment from one generation
+criticisms are an intrinsically [[ephemeral]] comment from one generation
 
 upon work that will delight many more. Dickens was a very great man, and
 
@@ -571,7 +571,7 @@ Victorian illusion) there begins to emerge a menacing and even monstrous
 
 thing--we may begin again to behold the English people. If that strange
 
-dawn ever comes, it will be the final vindication of Dickens. It will be
+[[Dawn|dawn]] ever comes, it will be the final vindication of Dickens. It will be
 
 proved that he is hardly even a caricaturist; that he is something very
 
@@ -581,9 +581,9 @@ incredible will be found to be the immense majority of the citizens of
 
 this country. We shall find that Sweedlepipe cuts our hair and
 
-Pumblechook sells our cereals; that Sam Weller blacks our boots and
+Pumblechook sells our cereals; that [[Sam Weller]] blacks our boots and
 
-Tony Weller drives our omnibus. For the exaggerated notion of the
+[[Tony Weller]] drives our omnibus. For the exaggerated notion of the
 
 exaggerations of Dickens (as was admirably pointed out by my old friend
 
@@ -601,7 +601,7 @@ firm all this was, comparatively speaking, concealed. For the English,
 
 of all nations, have the most uniform upper class and the most varied
 
-democracy. In France it is the peasants who are solid to uniformity; it
+[[democracy]]. In France it is the peasants who are solid to uniformity; it
 
 is the marquises who are a little mad. But in England, while good form
 
@@ -627,15 +627,15 @@ I do not see the same degree of variety in my own class or in the class
 
 above it; there is more superficial resemblance between two Kensington
 
-doctors or two Highland dukes. No; the democracy is really composed of
+doctors or two Highland dukes. No; the [[democracy]] is really composed of
 
 Dickens characters, for the simple reason that Dickens was himself one
 
-of the democracy.
+of the [[democracy]].
 
 There remains one thing to be added to this attempt to exhibit Dickens
 
-in the growing and changing lights of our time. God forbid that any one
+in the growing and changing lights of our [[Time|time]]. God forbid that any one
 
 (especially any Dickensian) should dilute or discourage the great
 
@@ -647,13 +647,13 @@ and numbers, but on Bob Sawyer and Tim Linkinwater, on Mrs. Lirriper and
 
 Dr. Marigold. I wish Mr. Sidney Webb would shut his eyes until he _sees_
 
-Sam Weller.
+[[Sam Weller]].
 
 A great many circumstances have led to the neglect in literature of
 
 these exuberant types which do actually exist in the ruder classes of
 
-society. Perhaps the principal cause is that since Dickens's time the
+society. Perhaps the principal cause is that since Dickens's [[Time|time]] the
 
 study of the poor has ceased to be an art and become a sort of sham
 
@@ -689,13 +689,13 @@ mere attempt to reduce what is actually vivid and unmistakable to what
 
 is in comparison colourless or unnoticeable. Even the creditable and
 
-necessary efforts of our time in certain matters of social reform have
+necessary efforts of our [[Time|time]] in certain matters of social [[Reform|reform]] have
 
 discouraged the old distinctive Dickens treatment. People are so anxious
 
 to do something for the poor man that they have a sort of subconscious
 
-desire to think that there is only one kind of man to do it for. Thus
+[[Desire|desire]] to think that there is only one kind of man to do it for. Thus
 
 while the old accounts were sometimes too steep and crazy, the new
 
@@ -705,19 +705,19 @@ for instance, as if it were one problem. Dickens could have told them
 
 that there is the abyss between heaven and hell between the incongruous
 
-excesses of Mr. Pickwick and the fatalistic soaking of Mr. Wickfield. He
+excesses of Mr. [[Pickwick]] and the fatalistic soaking of Mr. Wickfield. He
 
 could have shown that there was nothing in common between the brandy and
 
-water of Bob Sawyer and the rum and water of Mr. Stiggins. People talk
+[[Water|water]] of Bob Sawyer and the rum and [[Water|water]] of Mr. Stiggins. People talk
 
 of imprudent marriages among the poor, as if it were all one question.
 
 Dickens could have told them that it is one thing to marry without much
 
-money, like Stephen Blackpool, and quite another to marry without the
+money, like [[Stephen Blackpool]], and quite another to marry without the
 
-smallest intention of ever trying to get any, like Harold Skimpole.
+smallest intention of ever trying to get any, like [[Harold Skimpole]].
 
 People talk about husbands in the working-classes being kind or brutal
 
@@ -727,7 +727,7 @@ possibility need be considered. Dickens could have told them that there
 
 was the case (the by no means uncommon case) of the husband of Mrs.
 
-Gargery as well as of the wife of Mr. Quilp. In short, Dickens saw the
+Gargery as [[Well|well]] as of the wife of Mr. Quilp. In short, Dickens saw the
 
 problem of the poor not as a dead and definite business, but as a living
 
@@ -739,7 +739,7 @@ revolutionary.
 
 LITTLE DORRIT
 
-In the time of the decline and death of Dickens, and even more strongly
+In the [[Time|time]] of the decline and [[Death|death]] of Dickens, and even more strongly
 
 after it, there arose a school of criticism which substantially
 
@@ -749,21 +749,21 @@ sentiment as this that made Mr. George Gissing, that able writer, come
 
 near to contending that _Little Dorrit_ is Dickens's best book. It was
 
-the principle of his philosophy to maintain (I know not why) that a man
+the principle of his [[philosophy]] to maintain (I know not why) that a man
 
-was more likely to perceive the truth when in low spirits than when in
+was more likely to perceive the [[Truth|truth]] when in low spirits than when in
 
 high spirits.
 
 REPRINTED PIECES
 
-The three articles on Sunday of which I speak are almost the last
+The three articles on [[Sunday]] of which I speak are almost the last
 
 expression of an articulate sort in English literature of the ancient
 
-and existing morality of the English people. It is always asserted that
+and existing [[morality]] of the English people. It is always asserted that
 
-Puritanism came in with the seventeenth century and thoroughly soaked
+[[Puritanism]] came in with the seventeenth century and thoroughly soaked
 
 and absorbed the English. We are now, it is constantly said, an
 
@@ -773,7 +773,7 @@ shall not refuse to admit to the Puritans that they conquered and
 
 crushed the English people; but I do not think that they ever
 
-transformed it. My doubt is chiefly derived from three historical
+transformed it. My [[Doubt|doubt]] is chiefly derived from three historical
 
 facts. First, that England was never so richly and recognisably English
 
@@ -787,9 +787,9 @@ not the Puritanic tradition; Dryden, Johnson, Wilkes, Fox, Nelson, were
 
 hardly Puritans. And third, that the real rise of a new, cold, and
 
-illiberal morality in these matters seems to me to have occurred in the
+illiberal [[morality]] in these matters seems to me to have occurred in the
 
-time of Queen Victoria, and not of Queen Elizabeth. All things
+[[Time|time]] of [[Queen]] Victoria, and not of [[Queen Elizabeth]]. All things
 
 considered, it is likely that future historians will say that the
 
@@ -803,7 +803,7 @@ Dickens there is, moreover, another use and fascination which all
 
 Dickensians will understand; which, after a manner, is not for the
 
-profane. All who love Dickens have a strange sense that he is really
+profane. All who [[Love|love]] Dickens have a strange sense that he is really
 
 inexhaustible. It is this fantastic infinity that divides him even from
 
@@ -817,11 +817,11 @@ _Pickwick_; I have not so much read it twenty times as read in it a
 
 million times; and it almost seemed as if I always read something new.
 
-We of the true faith look at each other and understand; yes, our master
+We of the true [[Faith|faith]] look at each other and understand; yes, our master
 
-was a magician. I believe the books are alive; I believe that leaves
+was a magician. I believe the books are alive; I believe that [[Leaves|leaves]]
 
-still grow in them, as leaves grow on the trees. I believe that this
+still grow in them, as [[Leaves|leaves]] grow on the trees. I believe that this
 
 fairy library flourishes and increases like a fairy forest: but the
 
@@ -833,7 +833,7 @@ One thing at least seems certain. Dickens may or may not have been
 
 socialist in his tendencies; one might quote on the affirmative side his
 
-satire against Mr. Podsnap, who thought Centralisation "un-English"; one
+[[Satire|satire]] against Mr. Podsnap, who thought Centralisation "un-English"; one
 
 might quote in reply the fact that he satirised quite as unmercifully
 
@@ -855,7 +855,7 @@ ruled like slaves, only they are not fed like slaves. The children are
 
 forcibly provided with a school; only they are not provided with a
 
-house. Officials give the most detailed domestic directions about the
+[[house]]. Officials give the most detailed domestic directions about the
 
 fireguard; only they do not give the fireguard. Officials bring round
 
@@ -863,11 +863,11 @@ the most stringent directions about the milk; only they do not bring
 
 round the milk. The situation is perhaps the most humorous in the whole
 
-history of oppression. We force the nigger to dig; but as a concession
+[[history]] of oppression. We force the nigger to dig; but as a concession
 
 to him we do not give him a spade. We compel Sambo to cook; but we
 
-consult his dignity so far as to refuse him a fire.
+consult his dignity so far as to refuse him a [[Fire|fire]].
 
 This state of things at least cannot conceivably endure. We must either
 
@@ -889,7 +889,7 @@ and remember in the land. If this be so, the work of Dickens may be
 
 considered as a great vision--a vision, as Swinburne said, between a
 
-sleep and a sleep. It can be said that between the grey past of
+[[Sleep|sleep]] and a [[Sleep|sleep]]. It can be said that between the grey past of
 
 territorial depression and the grey future of economic routine the
 
@@ -901,7 +901,7 @@ far from reproaching him with not understanding a gentleman, the critic
 
 will be astonished at the accuracy with which he has really observed the
 
-worth and the weakness of the aristocrat. He is quite right when he
+worth and the weakness of the [[aristocrat]]. He is quite right when he
 
 suggests that such a man has intelligence enough to despise the
 
@@ -921,13 +921,13 @@ honestly appreciative of essential goodness--in other people. He is
 
 quite right in making him really good at the graceful combination of
 
-satire and sentiment, both perfectly sincere. He is also right in
+[[Satire|satire]] and sentiment, both perfectly sincere. He is also right in
 
 indicating that the only cure for this intellectual condition is a
 
 violent blow on the head.
 
-DAVID COPPERFIELD
+[[David Copperfield|DAVID COPPERFIELD]]
 
 The real achievement of the earlier part of _David Copperfield_ lies in
 
@@ -943,7 +943,7 @@ or moles as big as molehills. To him parents and guardians are not
 
 Olympians (as in Mr. Kenneth Grahame's clever book), mysterious and
 
-dignified, dwelling upon a cloudy hill. Rather they are all the more
+dignified, dwelling upon a cloudy [[Hill|hill]]. Rather they are all the more
 
 visible for being large. They come all the closer because they are
 
@@ -951,15 +951,15 @@ colossal. Their queer features and weaknesses stand out large in a sort
 
 of gigantic domesticity, like the hairs and freckles of a
 
-Brobdingnagian. We feel the sombre Murdstone coming upon the house like
+Brobdingnagian. We feel the sombre Murdstone coming upon the [[house]] like
 
-a tall storm striding through the sky. We watch every pucker of
+a tall [[Storm|storm]] striding through the sky. We watch every pucker of
 
 Peggotty's peasant face in its moods of flinty prejudice or whimsical
 
-hesitation. We look up and feel that Aunt Betsey in her garden gloves
+hesitation. We look up and feel that Aunt Betsey in her [[Garden|garden]] gloves
 
-was really terrible--especially her garden gloves. But one cannot avoid
+was really terrible--especially her [[Garden|garden]] gloves. But one cannot avoid
 
 the impression that as the boy grows larger these figures grow smaller,
 
@@ -967,15 +967,15 @@ and are not perhaps so completely satisfactory.
 
 CHRISTMAS BOOKS
 
-And there is doubtless a certain poetic unity and irony in gathering
+And there is doubtless a certain poetic [[unity]] and irony in gathering
 
 together three or four of the crudest and most cocksure of the modern
 
 theorists, with their shrill voices and metallic virtues, under the
 
-fulness and the sonorous sanity of Christian bells. But the figures
+fulness and the sonorous [[Sanity|sanity]] of Christian [[Bells|bells]]. But the figures
 
-satirised in _The Chimes_ cross each other's path and spoil each other
+satirised in _The Chimes_ [[Cross|cross]] each other's path and spoil each other
 
 in some degree. The main purpose of the book was a protest against that
 
@@ -983,9 +983,9 @@ impudent and hard-hearted utilitarianism which arranges the people only
 
 in rows of men or even in rows of figures. It is a flaming denunciation
 
-of that strange mathematical morality which was twisted often unfairly
+of that strange mathematical [[morality]] which was twisted often unfairly
 
-out of Bentham and Mill: a morality by which each citizen must regard
+out of Bentham and Mill: a [[morality]] by which each citizen must regard
 
 himself as a fraction, and a very vulgar fraction. Though the particular
 
@@ -995,7 +995,7 @@ still of value, and may be wholesome for those who are teaching the poor
 
 to be provident. Doubtless it is a good idea to be provident, in the
 
-sense that Providence is provident, but that should mean being kind, and
+sense that [[Providence]] is provident, but that should mean being kind, and
 
 certainly not merely being cold.
 
@@ -1007,19 +1007,19 @@ abstract or serious terms. It is a brief domestic glimpse; it is an
 
 interior. It must be remembered that Dickens was fond of interiors as
 
-such; he was like a romantic tramp who should go from window to window
+such; he was like a romantic tramp who should go from [[Window|window]] to [[Window|window]]
 
 looking in at the parlours. He had that solid, indescribable delight in
 
 the mere solidity and neatness of funny little humanity in its funny
 
-little houses, like doll's houses. To him every house was a box, a
+little houses, like doll's houses. To him every [[house]] was a box, a
 
 Christmas box, in which a dancing human doll was tied up in bricks and
 
 slates instead of string and brown paper. He went from one gleaming
 
-window to another, looking in at the lamp-lit parlours. Thus he stood
+[[Window|window]] to another, looking in at the lamp-lit parlours. Thus he stood
 
 for a little while looking in at this cosy if commonplace interior of
 
@@ -1027,39 +1027,39 @@ the carrier and his wife; but he did not stand there very long. He was
 
 on his way to quainter towns and villages. Already the plants were
 
-sprouting upon the balcony of Miss Tox; and the great wind was rising
+sprouting upon the balcony of Miss Tox; and the great [[Wind|wind]] was rising
 
 that flung Mr. Pecksniff against his own front door.
 
 TALE OF TWO CITIES
 
-It was well for him, at any rate, that the people rose in France. It was
+It was [[Well|well]] for him, at any rate, that the people [[Rose|rose]] in France. It was
 
-well for him, at any rate, that the guillotine was set up in the Place
+[[Well|well]] for him, at any rate, that the guillotine was set up in the Place
 
 de la Concorde. Unconsciously, but not accidentally, Dickens was here
 
 working out the whole true comparison between swift revolutionism in
 
-Paris and slow evolutionism in London. Sidney Carton is one of those
+[[Paris]] and slow evolutionism in [[London]]. Sidney Carton is one of those
 
-sublime ascetics whose head offends them, and who cut it off. For him at
+[[Sublime|sublime]] ascetics whose head offends them, and who cut it off. For him at
 
-least it was better that the blood should flow in Paris than that the
+least it was better that the [[Blood|blood]] should flow in [[Paris]] than that the
 
-wine should flow any longer in London. And if I say that even now the
+wine should flow any longer in [[London]]. And if I say that even now the
 
-guillotine might be the best cure for many a London lawyer, I ask you to
+guillotine might be the best cure for many a [[London]] lawyer, I ask you to
 
 believe that I am not merely flippant. But you will not believe it.
 
-BARNABY RUDGE
+[[Barnaby Rudge|BARNABY RUDGE]]
 
 It may be said that there is no comparison between that explosive
 
-opening of the intellect in Paris and an antiquated madman leading a
+opening of the intellect in [[Paris]] and an antiquated madman leading a
 
-knot of provincial Protestants. The Man of the Hill, says Victor Hugo
+knot of provincial Protestants. The Man of the [[Hill]], says Victor Hugo
 
 somewhere, fights for an idea; the Man of the Forest for a prejudice.
 
@@ -1073,11 +1073,11 @@ qualities of men, it was common among lords and lacqueys to attribute to
 
 them the stagey and piratical pretentiousness of urchins. The kings
 
-called Napoleon's pistol a toy pistol even while it was holding up their
+called Napoleon's [[Pistol|pistol]] a toy [[Pistol|pistol]] even while it was holding up their
 
-coach and mastering their money or their lives; they called his sword a
+coach and mastering their money or their lives; they called his [[Sword|sword]] a
 
-stage sword even while they ran away from it. Something of the same
+stage [[Sword|sword]] even while they ran away from it. Something of the same
 
 senile inconsistency can be found in an English and American habit
 
@@ -1099,11 +1099,11 @@ was a sort of answer to everything; and the young men were mocked as
 
 American republics to-day is symbolical and even menacing of many
 
-things; and it may be that the romance of riot will not be so much
+things; and it may be that the [[Romance|romance]] of riot will not be so much
 
-extinguished as extended; and nearer home we may have boys being boys
+extinguished as extended; and nearer [[Home|home]] we may have boys being boys
 
-again, and in London the cry of "clubs."
+again, and in [[London]] the cry of "clubs."
 
 THE UNCOMMERCIAL TRAVELLER
 
@@ -1111,7 +1111,7 @@ _The Uncommercial Traveller_ is a collection of Dickens's memories
 
 rather than of his literary purposes; but it is due to him to say that
 
-memory is often more startling in him than prophecy in anybody else.
+[[Memory|memory]] is often more startling in him than prophecy in anybody else.
 
 They have the character which belongs to all his vivid incidental
 
@@ -1123,7 +1123,7 @@ the Tree of Life than of the Tree of Knowledge--even of the knowledge of
 
 good and of evil. He was in this profoundest sense a realist. Critics
 
-have talked of an artist with his eye on the object. Dickens as an
+have talked of an [[artist]] with his eye on the object. Dickens as an
 
 essayist always had his eye on an object before he had the faintest
 
@@ -1161,7 +1161,7 @@ This riotous realism of Dickens has its disadvantage--a disadvantage
 
 that comes out more clearly in these casual sketches than in his
 
-constructed romances. One grave defect in his greatness is that he was
+constructed romances. One [[Grave|grave]] defect in his [[Greatness|greatness]] is that he was
 
 altogether too indifferent to theories. On large matters he went right
 
@@ -1169,7 +1169,7 @@ by the very largeness of his mind; but in small matters he suffered from
 
 the lack of any logical test and ready reckoner. Hence his comment upon
 
-the details of civilisation or reform are sometimes apt to be jerky and
+the details of civilisation or [[Reform|reform]] are sometimes apt to be jerky and
 
 jarring, and even grossly inconsistent. So long as a thing was heroic
 
@@ -1177,7 +1177,7 @@ enough to admire, Dickens admired it; whenever it was absurd enough to
 
 laugh at he laughed at it: so far he was on sure ground. But about all
 
-the small human projects that lie between the extremes of the sublime
+the small human projects that lie between the extremes of the [[Sublime|sublime]]
 
 and the ridiculous, his criticism was apt to have an accidental quality.
 
@@ -1191,7 +1191,7 @@ like other hasty travellers, to be criticising elements and institutions
 
 which he has quite inadequately understood; and once or twice the
 
-Uncommercial Traveller might almost as well be a Commercial Traveller
+Uncommercial Traveller might almost as [[Well|well]] be a Commercial Traveller
 
 for all he knows of the countryside.
 
@@ -1199,7 +1199,7 @@ An instance of what I mean may be found in the amusing article about the
 
 nightmares of the nursery. Superficially read it might almost be taken
 
-to mean that Dickens disapproved of ghost stories--disapproved of that
+to mean that Dickens disapproved of [[Ghost|ghost]] stories--disapproved of that
 
 old and genial horror which nurses can hardly supply fast enough for the
 
@@ -1209,7 +1209,7 @@ the last man in the world to object to horrible stories, having himself
 
 written some of the most horrible that exist in the world. The author of
 
-the Madman's Manuscript, of the disease of Monk and the death of Krook,
+the Madman's Manuscript, of the disease of Monk and the [[Death|death]] of Krook,
 
 cannot be considered fastidious in the matter of revolting realism or of
 
@@ -1227,7 +1227,7 @@ that infernal refrain of "Mudstains, bloodstains" which Dickens himself,
 
 in one of his highest moments of hellish art, put into _Oliver Twist_.
 
-I take this one instance of the excellent article called "Nurse's
+I take this one instance of the excellent article called "[[Nurse]]'s
 
 Stories" because it is quite typical of all the rest. Dickens (accused
 
@@ -1241,11 +1241,11 @@ superficial. He judged them by whether they hit him, and not by what
 
 they were trying to hit. Thus in this book the great wizard of the
 
-Christmas ghosts seems almost the enemy of ghost stories; thus the
+Christmas [[Ghosts|ghosts]] seems almost the enemy of [[Ghost|ghost]] stories; thus the
 
-almost melodramatic moralist who created Ralph Nickleby and Jonas
+almost melodramatic moralist who created [[Ralph Nickleby]] and Jonas
 
-Chuzzlewit cannot see the point in original sin; thus the great
+Chuzzlewit cannot see the point in [[Original Sin|original sin]]; thus the great
 
 denouncer of official oppression in England may be found far too
 
@@ -1281,7 +1281,7 @@ by good ones. This is in some degree true even in the case of Dickens.
 
 The public continued to call him "Boz" long after the public had
 
-forgotten the _Sketches by Boz_. Numberless writers of the time speak of
+forgotten the _Sketches by Boz_. Numberless writers of the [[Time|time]] speak of
 
 "Boz" as having written _Martin Chuzzlewit_ and "Boz" as having written
 
@@ -1289,13 +1289,13 @@ _David Copperfield_. Yet if they had gone back to the original book
 
 signed "Boz" they might even have felt that it was vulgar and flippant.
 
-This is indeed the chief tragedy of publishers: that they may easily
+This is indeed the chief [[Tragedy|tragedy]] of publishers: that they may easily
 
 refuse at the same moment the wrong manuscript and the right man. It is
 
 easy to see of Dickens now that he was the right man; but a man might
 
-have been very well excused if he had not realised that the _Sketches_
+have been very [[Well|well]] excused if he had not realised that the _Sketches_
 
 was the right book. Dickens, I say, is a case for this primary query:
 
@@ -1313,7 +1313,7 @@ much more numerous than those of Dickens. Thackeray came much nearer to
 
 being the ordinary literary failure than Dickens ever came. Read some of
 
-the earliest criticisms of Mr. Yellowplush or Michael Angelo Titmarsh
+the earliest criticisms of Mr. Yellowplush or [[Michael]] [[Angelo]] Titmarsh
 
 and you will realise that at the very beginning there was more potential
 
@@ -1345,11 +1345,11 @@ written until thirty years hence we should all wait for it eagerly. The
 
 general impression produced by Dickens's work is the same as that
 
-produced by miraculous visions; it is the destruction of time. Thomas
+produced by miraculous visions; it is the destruction of [[Time|time]]. Thomas
 
-Aquinas said that there was no time in the sight of God; however this
+[[aquinas|Aquinas]] said that there was no [[Time|time]] in the sight of God; however this
 
-may be, there was no time in the sight of Dickens. As a general rule
+may be, there was no [[Time|time]] in the sight of Dickens. As a general rule
 
 Dickens can be read in any order; not only in any order of books, but
 
@@ -1359,9 +1359,9 @@ so amusing and alive that you can read the parts backwards; you can read
 
 the quarrel first and then the cause of the quarrel; you can fall in
 
-love with a woman in the tenth chapter and then turn back to the first
+[[Love|love]] with a woman in the tenth chapter and then turn back to the first
 
-chapter to find out who she is. This is not chaos; it is eternity. It
+chapter to find out who she is. This is not chaos; it is [[Eternity|eternity]]. It
 
 means merely that Dickens instinctively felt all his figures to be
 
@@ -1411,17 +1411,17 @@ consists of purely creative things: farces, romances, stories in any
 
 case with a non-natural perfection, or a poetical justice, to round them
 
-off. One class is admirably represented, for instance, by the sketch
+off. One class is admirably represented, for instance, by the [[Sketch|sketch]]
 
-describing the Charity Dinner, the other by such a story as that of
+describing the [[Charity]] Dinner, the other by such a story as that of
 
 _Horatio Sparkins_. These things were almost certainly written by
 
 Dickens at very various periods of his youth; and early as the harvest
 
-is, no doubt it is a harvest and had ripened during a reasonably long
+is, no [[Doubt|doubt]] it is a harvest and had ripened during a reasonably long
 
-time. Nevertheless it is with these two types of narrative that the
+[[Time|time]]. Nevertheless it is with these two types of narrative that the
 
 young Charles Dickens first enters English literature; he enters it with
 
@@ -1433,7 +1433,7 @@ side of the extravagant and even the superficial. Journalism had not
 
 then, indeed, sunk to the low level which it has since reached. His
 
-sketches of dirty London would not have been dirty enough for the modern
+sketches of dirty [[London]] would not have been dirty enough for the modern
 
 Imperialist press. Still these first efforts of his are journalism, and
 
@@ -1455,19 +1455,19 @@ educated class such a transition is really tragic. A duke may become a
 
 navvy for a joke, but a clerk cannot become a navvy for a joke.
 
-Dickens's parents went to a debtors' prison; Dickens himself went to a
+Dickens's parents went to a debtors' [[Prison|prison]]; Dickens himself went to a
 
-far more unpleasant place. The debtors' prison had about it at least
+far more unpleasant place. The debtors' [[Prison|prison]] had about it at least
 
-that element of amiable compromise and kindly decay which belonged (and
+that element of amiable compromise and kindly [[Decay|decay]] which belonged (and
 
 belongs still) to all the official institutions of England. But Dickens
 
 was doomed to see the very blackest aspect of nineteenth-century
 
-England, something far blacker than any mere bad government. He went not
+England, something far blacker than any mere bad [[government]]. He went not
 
-to a prison but to a factory. In the musty traditionalism of the
+to a [[Prison|prison]] but to a factory. In the musty traditionalism of the
 
 Marshalsea old John Dickens could easily remain optimistic. In the
 
@@ -1479,7 +1479,7 @@ he even escaped the factory itself. His next step in life was, if
 
 possible, even more eccentric. He was sent to school; he was sent off
 
-like an innocent little boy in Eton collars to learn the rudiments of
+like an [[Innocent|innocent]] little boy in Eton collars to learn the rudiments of
 
 Latin grammar, without any reference to the fact that he had already
 
@@ -1491,7 +1491,7 @@ sending him to a dame's school. Nor was the third stage of this career
 
 unconnected with the oddity of the others. On leaving the school he was
 
-made a clerk in a lawyer's office, as if henceforward this child of
+made a clerk in a lawyer's office, as if henceforward this [[Child|child]] of
 
 ridiculous changes was to settle down into a silent assistant for a
 
@@ -1499,27 +1499,27 @@ quiet solicitor. It was exactly at this moment that his fundamental
 
 rebellion began to seethe; it seethed more against the quiet finality of
 
-his legal occupation than it had seethed against the squalor and slavery
+his legal occupation than it had seethed against the squalor and [[Slavery|slavery]]
 
-of his days of poverty. There must have been in his mind, I think, a dim
+of his days of [[Poverty|poverty]]. There must have been in his mind, I think, a dim
 
 feeling: "Did all my dark crises mean only this; was I crucified only
 
-that I might become a solicitor's clerk?" Whatever be the truth about
+that I might become a solicitor's clerk?" Whatever be the [[Truth|truth]] about
 
 this conjecture there can be no question about the facts themselves. It
 
-was about this time that he began to burst and bubble over, to insist
+was about this [[Time|time]] that he began to burst and bubble over, to insist
 
-upon his own intellect, to claim a career. It was about this time that
+upon his own intellect, to claim a career. It was about this [[Time|time]] that
 
 he put together a loose pile of papers, satires on institutions,
 
 pictures of private persons, fairy tales of the vulgarity of his world,
 
-odds and ends such as come out of the facility and the fierce vanity of
+odds and ends such as come out of the facility and the fierce [[Vanity|vanity]] of
 
-youth. It was about this time at any rate that he decided to publish
+youth. It was about this [[Time|time]] at any rate that he decided to publish
 
 them, and gave them the name of _Sketches by Boz_.
 
@@ -1533,7 +1533,7 @@ Similarly, it has often been found that a man who can patiently endure
 
 penal servitude through a judicial blunder will nevertheless, when once
 
-his cause is well asserted, quarrel about the amount of compensation or
+his cause is [[Well|well]] asserted, quarrel about the amount of compensation or
 
 complain of small slights in his professional existence. These are the
 
@@ -1545,7 +1545,7 @@ way been unfairly treated reaches even to impudence. It is a terrible
 
 thing for any man to find out that his elders are wrong. And this
 
-almost unkindly courage of youth must partly be held responsible for the
+almost unkindly [[Courage|courage]] of youth must partly be held responsible for the
 
 smartness of Dickens, that almost offensive smartness which in these
 
@@ -1583,7 +1583,7 @@ he had the power to live. And indeed it is most valuable to have these
 
 early specimens of the Dickens work if only because they are specimens
 
-of his spirit apart from his matured intelligence. It is well to be able
+of his spirit apart from his matured intelligence. It is [[Well|well]] to be able
 
 to realise that contact with the Dickens world is almost like a physical
 
@@ -1601,7 +1601,7 @@ Ramsgate_. He will not find very much of that verbal felicity or
 
 fantastic irony that Dickens afterwards developed; the incidents are
 
-upon the plain lines of the stock comedy of the day: sharpers who entrap
+upon the plain lines of the stock [[Comedy|comedy]] of the day: sharpers who entrap
 
 simpletons, spinsters who angle for husbands, youths who try to look
 
@@ -1615,25 +1615,25 @@ fun. Doubtless, for instance, a million comic writers of that epoch had
 
 made game of the dark, romantic young man who pretended to abysses of
 
-philosophy and despair. And it is not easy to say exactly why we feel
+[[philosophy]] and [[Despair|despair]]. And it is not easy to say exactly why we feel
 
-that the few metaphysical remarks of Mr. Horatio Sparkins are in some
+that the few metaphysical remarks of Mr. [[Horatio]] Sparkins are in some
 
 way really much funnier than any of those old stock jokes. It is in a
 
-certain quality of deep enjoyment in the writer as well as the reader;
+certain quality of deep enjoyment in the writer as [[Well|well]] as the reader;
 
 as if the few words written had been dipped in dark nonsense and were,
 
 as it were, reeking with derision. "Because if Effect be the result of
 
-Cause and Cause be the Precursor of Effect," said Mr. Horatio Sparkins,
+Cause and Cause be the Precursor of Effect," said Mr. [[Horatio]] Sparkins,
 
 "I apprehend that you are wrong." Nobody can get at the real secret of
 
 sentences like that; sentences which were afterwards strewed with
 
-reckless liberality over the conversation of Dick Swiveller or Mr.
+reckless liberality over the conversation of [[Dick Swiveller]] or Mr.
 
 Mantalini, Sim Tappertit or Mr. Pecksniff. Though the joke seems most
 
@@ -1647,7 +1647,7 @@ drinking, or in Mr. Mantalini deceiving his wife. It is something in
 
 the arrangement of the words; something in a last inspired turn of
 
-absurdity given to a sentence. In spite of everything Horatio Sparkins
+absurdity given to a sentence. In spite of everything [[Horatio]] Sparkins
 
 is funny. We cannot tell why he is funny. When we know why he is funny
 
@@ -1655,13 +1655,13 @@ we shall know why Dickens is great.
 
 Standing as we do here upon the threshold, as it were, of the work of
 
-Dickens, it may be well perhaps to state this truth as being, after all,
+Dickens, it may be [[Well|well]] perhaps to state this [[Truth|truth]] as being, after all,
 
 the most important one. This first work had, as I have said, the faults
 
 of first work and the special faults that arose from its author's
 
-accidental history; he was deprived of education, and therefore it was
+accidental [[history]]; he was deprived of [[Education|education]], and therefore it was
 
 in some ways uneducated; he was confronted with the folly and failure of
 
@@ -1705,13 +1705,13 @@ the phrase goes) by the fact that he seems to be echoing a poor kind of
 
 claptrap in his choice of incidents and images. Partly, of course, he
 
-suffers from the very fact of his success; his play with these topics
+suffers from the very fact of his [[success]]; his play with these topics
 
 was so good that every one else has played with them increasingly since;
 
 he may indeed have copied the old jokes, but he certainly renewed them.
 
-For instance, "Ally Sloper" was certainly copied from Wilkins Micawber.
+For instance, "Ally Sloper" was certainly copied from [[Wilkins Micawber]].
 
 To this day you may see (in the front page of that fine periodical) the
 
@@ -1723,7 +1723,7 @@ from Micawber, for that very reason the new generation feels as if
 
 Micawber were stolen from "Sloper." Many modern readers feel as if
 
-Dickens were copying the comic papers, whereas in truth the comic papers
+Dickens were copying the comic papers, whereas in [[Truth|truth]] the comic papers
 
 are still copying Dickens.
 
@@ -1733,11 +1733,11 @@ established topics. There is no clearer sign of the absence of
 
 originality among modern poets than their disposition to find new
 
-themes. Really original poets write poems about the spring. They are
+themes. Really original poets write [[Poems|poems]] about the [[spring]]. They are
 
-always fresh, just as the spring is always fresh. Men wholly without
+always fresh, just as the [[spring]] is always fresh. Men wholly without
 
-originality write poems about torture, or new religions, of some
+originality write [[Poems|poems]] about torture, or new religions, of some
 
 perversion of obscenity, hoping that the mere sting of the subject may
 
@@ -1745,9 +1745,9 @@ speak for them. But we do not sufficiently realise that what is true of
 
 the classic ode is also true of the classic joke. A true poet writes
 
-about the spring being beautiful because (after a thousand springs) the
+about the [[spring]] being beautiful because (after a thousand springs) the
 
-spring really is beautiful. In the same way the true humourist writes
+[[spring]] really is beautiful. In the same way the true humourist writes
 
 about a man sitting down on his hat, because the act of sitting down on
 
@@ -1781,25 +1781,25 @@ that the first appeal must be made upon the threshold of Dickens
 
 criticism. Let them really read the thing and really see whether the
 
-humour is the gross and half-witted jeering which they imagine it to be.
+[[Humour|humour]] is the gross and half-witted jeering which they imagine it to be.
 
 It is exactly here that the whole genius of Dickens is concerned. His
 
 subjects are indeed stock subjects; like the skylark of Shelley, or the
 
-autumn of Keats. But all the more because they are stock subjects the
+[[Autumn|autumn]] of Keats. But all the more because they are stock subjects the
 
 reader realises what a magician is at work. The notion of a clumsy
 
-fellow who falls off his horse is indeed a stock and stale subject. But
+fellow who falls off his [[Horse|horse]] is indeed a stock and stale subject. But
 
-Mr. Winkle is not a stock and stale subject. Nor is his horse a stock
+Mr. Winkle is not a stock and stale subject. Nor is his [[Horse|horse]] a stock
 
-and stale subject; it is as immortal as the horses of Achilles. The
+and stale subject; it is as immortal as the horses of [[Achilles]]. The
 
 notion of a fat old gentleman proud of his legs might easily be vulgar.
 
-But Mr. Pickwick proud of his legs is not vulgar; somehow we feel that
+But Mr. [[Pickwick]] proud of his legs is not vulgar; somehow we feel that
 
 they were legs to be proud of. And it is exactly this that we must look
 
@@ -1809,7 +1809,7 @@ are low farces. Rather we must see that they are not low farces; and see
 
 that nobody but Dickens could have prevented them from being so.
 
-PICKWICK PAPERS
+[[Pickwick|PICKWICK]] PAPERS
 
 There are those who deny with enthusiasm the existence of a God and are
 
@@ -1825,7 +1825,7 @@ unknown. These controversialists cover the very widest field, and their
 
 attacks upon Scripture are varied to the point of wildness. They range
 
-from the proposition that the unexpurgated Bible is almost as unfit for
+from the proposition that the unexpurgated [[Bible]] is almost as unfit for
 
 an American girls' school as is an unexpurgated Shakespeare; they
 
@@ -1833,7 +1833,7 @@ descend to the proposition that kissing the Book is almost as
 
 hygienically dangerous as kissing the babies of the poor. A superficial
 
-critic might well imagine that there was not one single sentence left of
+critic might [[Well|well]] imagine that there was not one single sentence left of
 
 the Hebrew or Christian Scriptures which this school had not marked with
 
@@ -1849,9 +1849,9 @@ singular arrangement in the mystical account of the Creation by which
 
 light is created first and all the luminous bodies afterwards. One could
 
-not imagine a process more open to the elephantine logic of the
+not imagine a process more open to the elephantine [[logic]] of the
 
-Bible-smasher than this: that the sun should be created after the
+[[Bible]]-smasher than this: that the sun should be created after the
 
 sunlight. The conception that lies at the back of the phrase is indeed
 
@@ -1859,7 +1859,7 @@ profoundly antagonistic to much of the modern point of view. To many
 
 modern people it would sound like saying that foliage existed before the
 
-first leaf; it would sound like saying that childhood existed before a
+first leaf; it would sound like saying that [[Childhood|childhood]] existed before a
 
 baby was born. The idea is, as I have said, alien to most modern
 
@@ -1871,17 +1871,17 @@ meaning of the passage in the actual primeval poem, there is a very real
 
 metaphysical meaning in the idea that light existed before the sun and
 
-stars. It is not barbaric; it is rather Platonic. The idea existed
+[[Stars|stars]]. It is not barbaric; it is rather Platonic. The idea existed
 
 before any of the machinery which made manifest the idea. Justice
 
-existed when there was no need of judges, and mercy existed before any
+existed when there was no need of judges, and [[Mercy|mercy]] existed before any
 
 man was oppressed.
 
-However this may be in the matter of religion and philosophy, it can be
+However this may be in the matter of religion and [[philosophy]], it can be
 
-said with little exaggeration that this truth is the very key of
+said with little exaggeration that this [[Truth|truth]] is the very key of
 
 literature. The whole difference between construction and creation is
 
@@ -1889,7 +1889,7 @@ exactly this: that a thing constructed can only be loved after it is
 
 constructed; but a thing created is loved before it exists, as the
 
-mother can love the unborn child. In creative art the essence of a book
+mother can [[Love|love]] the [[unborn]] [[Child|child]]. In creative art the essence of a book
 
 exists before the book or before even the details or main features of
 
@@ -1903,17 +1903,17 @@ thought of anything sad. He knows the atmosphere before he knows
 
 anything. There is a low priggish maxim sometimes uttered by men so
 
-frivolous as to take humour seriously--a maxim that a man should not
+frivolous as to take [[Humour|humour]] seriously--a maxim that a man should not
 
-laugh at his own jokes. But the great artist not only laughs at his own
+laugh at his own jokes. But the great [[artist]] not only laughs at his own
 
 jokes; he laughs at his own jokes before he has made them. In the case
 
-of a man really humorous we can see humour in his eye before he has
+of a man really humorous we can see [[Humour|humour]] in his eye before he has
 
 thought of any amusing words at all. So the creative writer laughs at
 
-his comedy before he creates it, and he has tears for his tragedy before
+his [[Comedy|comedy]] before he creates it, and he has [[Tears|tears]] for his [[Tragedy|tragedy]] before
 
 he knows what it is. When the symbols and the fulfilling facts do come
 
@@ -1921,9 +1921,9 @@ to him, they come generally in a manner very fragmentary and inverted,
 
 mostly in irrational glimpses of crisis or consummation. The last page
 
-comes before the first; before his romance has begun, he knows that it
+comes before the first; before his [[Romance|romance]] has begun, he knows that it
 
-has ended well. He sees the wedding before the wooing; he sees the death
+has ended [[Well|well]]. He sees the wedding before the wooing; he sees the [[Death|death]]
 
 before the duel. But most of all he sees the colour and character of the
 
@@ -1939,9 +1939,9 @@ of book he wants to write when he knows nothing else about it.
 
 _Pickwick_ is in Dickens's career the mere mass of light before the
 
-creation of sun or moon. It is the splendid, shapeless substance of
+creation of sun or [[Moon|moon]]. It is the splendid, shapeless substance of
 
-which all his stars were ultimately made. You might split up _Pickwick_
+which all his [[Stars|stars]] were ultimately made. You might split up _Pickwick_
 
 into innumerable novels as you could split up that primeval light into
 
@@ -1953,7 +1953,7 @@ of Dickens. He had not yet settled down into the plain, professional
 
 habit of picking out a plot and characters, of attending to one thing at
 
-a time, of writing a separate, sensible novel and sending it off to his
+a [[Time|time]], of writing a separate, sensible [[Novel|novel]] and sending it off to his
 
 publishers. He is still in the youthful whirl of the kind of world that
 
@@ -1967,7 +1967,7 @@ crude experiences of his boyhood; he sticks in irrelevant short stories
 
 shamelessly, as into a scrap-book; he adopts designs and abandons them,
 
-begins episodes and leaves them unfinished; but from the first page to
+begins episodes and [[Leaves|leaves]] them unfinished; but from the first page to
 
 the last there is a nameless and elemental ecstasy--that of the man who
 
@@ -1975,7 +1975,7 @@ is doing the kind of thing that he can do. Dickens, like every other
 
 honest and effective writer, came at last to some degree of care and
 
-self-restraint. He learned how to make his _dramatis personæ_ assist his
+[[Self|self]]-restraint. He learned how to make his _dramatis personæ_ assist his
 
 drama; he learned how to write stories which were full of rambling and
 
@@ -1991,7 +1991,7 @@ figures. That vision was _Pickwick_.
 
 It must be remembered that this is true even in connection with the
 
-man's contemporaneous biography. Apart from anything else about it,
+man's contemporaneous [[Biography|biography]]. Apart from anything else about it,
 
 _Pickwick_ was his first great chance. It was a big commission given in
 
@@ -2005,19 +2005,19 @@ book may most properly be regarded as simply a lump of Dickens. He was
 
 anxious to show all that was in him. He was more concerned to prove that
 
-he could write well than to prove that he could write this particular
+he could write [[Well|well]] than to prove that he could write this particular
 
-book well. And he did prove this, at any rate. No one ever sent such a
+book [[Well|well]]. And he did prove this, at any rate. No one ever sent such a
 
 sample as the sample of Dickens. His roll of leather blocked up the
 
-street; his lump of coal set the Thames on fire.
+street; his lump of coal set the Thames on [[Fire|fire]].
 
 The book originated in the suggestion of a publisher; as many more good
 
 books have done than the arrogance of the man of letters is commonly
 
-inclined to admit. Very much is said in our time about Apollo and
+inclined to admit. Very much is said in our [[Time|time]] about [[Apollo]] and
 
 Admetus, and the impossibility of asking genius to work within
 
@@ -2049,7 +2049,7 @@ and promising; the more he has a grasp of everything the more ready he
 
 will be to write anything. It is very hard (if that is the question) to
 
-throw a brick at a man and ask him to write an epic; but the more he is
+throw a brick at a man and ask him to write an [[Epic|epic]]; but the more he is
 
 a great man the more able he will be to write about the brick. It is
 
@@ -2059,13 +2059,13 @@ and demand a flood of philosophical eloquence; but the greater the man
 
 is the more likely he will be to give it to you. So it was proved, not
 
-for the first time, in this great experiment of the early employment of
+for the first [[Time|time]], in this great experiment of the early employment of
 
 Dickens. Messrs. Chapman and Hall came to him with a scheme for a string
 
 of sporting stories to serve as the context, and one might almost say
 
-the excuse, for a string of sketches by Seymour, the sporting artist.
+the excuse, for a string of sketches by Seymour, the sporting [[artist]].
 
 Dickens made some modifications in the plan, but he adopted its main
 
@@ -2083,9 +2083,9 @@ brave figures. He was destined to have the applause of continents like a
 
 statesman, and to dictate to his publishers like a despot; but perhaps
 
-he never worked again so supremely well as here, where he worked in
+he never worked again so supremely [[Well|well]] as here, where he worked in
 
-chains. It may well be questioned whether his one hack book is not his
+[[Chains|chains]]. It may [[Well|well]] be questioned whether his one hack book is not his
 
 masterpiece.
 
@@ -2095,13 +2095,13 @@ he kicked quite free of the influences that had suggested his story. So
 
 Shakespeare declared his independence of the original chronicle of
 
-Hamlet, Prince of Denmark, eliminating altogether (with some wisdom)
+[[Hamlet]], Prince of [[Denmark]], eliminating altogether (with some wisdom)
 
 another uncle called Wiglerus. At the start the Nimrod Club of Chapman
 
-and Hall may have even had equal chances with the Pickwick Club of young
+and Hall may have even had equal chances with the [[Pickwick]] Club of young
 
-Mr. Dickens; but the Pickwick Club became something much better than any
+Mr. Dickens; but the [[Pickwick]] Club became something much better than any
 
 publisher had dared to dream of. Some of the old links were indeed
 
@@ -2121,7 +2121,7 @@ critics have commented on the somewhat discordant and inartistic change
 
 between the earlier part of _Pickwick_ and the later; they have pointed
 
-out, not without good sense, that the character of Mr. Pickwick changes
+out, not without good sense, that the character of Mr. [[Pickwick]] changes
 
 from that of a silly buffoon to that of a solid merchant. But the case,
 
@@ -2129,31 +2129,31 @@ if these critics had noticed it, is much stronger in the minor
 
 characters of the great company. Mr. Winkle, who has been an idiot
 
-(even, perhaps, as Mr. Pickwick says, "an impostor"), suddenly becomes a
+(even, perhaps, as Mr. [[Pickwick]] says, "an impostor"), suddenly becomes a
 
-romantic and even reckless lover, scaling a forbidden wall and planning
+romantic and even reckless [[Lover|lover]], scaling a forbidden wall and planning
 
 a bold elopement. Mr. Snodgrass, who has behaved in a ridiculous manner
 
 in all serious positions, suddenly finds himself in a ridiculous
 
-position--that of a gentleman surprised in a secret love affair--and
+position--that of a gentleman surprised in a secret [[Love|love]] affair--and
 
 behaves in a manner perfectly manly, serious, and honourable. Mr.
 
-Tupman alone has no serious emotional development, and for this reason
+Tupman [[Alone|alone]] has no serious emotional development, and for this reason
 
 it is, presumably, that we hear less and less of Mr. Tupman towards the
 
-end of the book. Dickens has by this time got into a thoroughly serious
+end of the book. Dickens has by this [[Time|time]] got into a thoroughly serious
 
 mood--a mood expressed indeed by extravagant incidents, but none the
 
 less serious for that; and into this Winkle and Snodgrass, in the
 
-character of romantic lovers, could be made to fit. Mr. Tupman had to be
+character of romantic [[lovers]], could be made to fit. Mr. Tupman had to be
 
-left out of the love affairs; therefore Mr. Tupman is left out of the
+left out of the [[Love|love]] affairs; therefore Mr. Tupman is left out of the
 
 book.
 
@@ -2163,19 +2163,19 @@ the story. It may seem strange at the first glance to say that Sam
 
 Weller helped to make the story serious. Nevertheless, this is strictly
 
-true. The introduction of Sam Weller had, to begin with, some merely
+true. The introduction of [[Sam Weller]] had, to begin with, some merely
 
 accidental and superficial effects. When Samuel Weller had appeared,
 
-Samuel Pickwick was no longer the chief farcical character. Weller
+[[Samuel Pickwick]] was no longer the chief farcical character. Weller
 
-became the joker and Pickwick in some sense the butt of his jokes. Thus
+became the joker and [[Pickwick]] in some sense the butt of his jokes. Thus
 
 it was obvious that the more simple, solemn, and really respectable this
 
-butt could be made the better. Mr. Pickwick had been the figure capering
+butt could be made the better. Mr. [[Pickwick]] had been the figure capering
 
-before the footlights. But with the advent of Sam, Mr. Pickwick had
+before the footlights. But with the advent of Sam, Mr. [[Pickwick]] had
 
 become a sort of black background and had to behave as such. But this
 
@@ -2183,17 +2183,17 @@ explanation, though true as far as it goes, is a mean and unsatisfactory
 
 one, leaving the great elements unexplained. For a much deeper and more
 
-righteous reason Sam Weller introduces the more serious tone of
+righteous reason [[Sam Weller]] introduces the more serious tone of
 
-Pickwick. He introduces it because he introduces something which it was
+[[Pickwick]]. He introduces it because he introduces something which it was
 
 the chief business of Dickens to preach throughout his life--something
 
-which he never preached so well as when he preached it unconsciously.
+which he never preached so [[Well|well]] as when he preached it unconsciously.
 
-Sam Weller introduces the English people.
+[[Sam Weller]] introduces the English people.
 
-Sam Weller is the great symbol in English literature of the populace
+[[Sam Weller]] is the great symbol in English literature of the populace
 
 peculiar to England. His incessant stream of sane nonsense is a
 
@@ -2201,11 +2201,11 @@ wonderful achievement of Dickens: but it is no great falsification of
 
 the incessant stream of sane nonsense as it really exists among the
 
-English poor. The English poor live in an atmosphere of humour; they
+English poor. The English poor live in an atmosphere of [[Humour|humour]]; they
 
-think in humour. Irony is the very air that they breathe. A joke comes
+think in [[Humour|humour]]. Irony is the very air that they breathe. A joke comes
 
-suddenly from time to time into the head of a politician or a gentleman,
+suddenly from [[Time|time]] to [[Time|time]] into the head of a politician or a gentleman,
 
 and then as a rule he makes the most of it; but when a serious word
 
@@ -2225,25 +2225,25 @@ against a wall. The driver and I simultaneously said something. But I
 
 said: "This'll never do!" and he said: "This is all right!" Even in the
 
-act of pulling back his horse's nose from a brick wall, that confirmed
+act of pulling back his [[Horse|horse]]'s nose from a brick wall, that confirmed
 
-satirist thought in terms of his highly-trained and traditional satire;
+satirist thought in terms of his highly-trained and traditional [[Satire|satire]];
 
 while I, belonging to a duller and simpler class, expressed my feelings
 
-in words as innocent and literal as those of a rustic or a child.
+in words as [[Innocent|innocent]] and literal as those of a rustic or a [[Child|child]].
 
 This eternal output of divine derision has never been so truly typified
 
-as by the character of Sam; he is a grotesque fountain which gushes the
+as by the character of Sam; he is a [[Grotesque|grotesque]] fountain which gushes the
 
 living waters for ever. Dickens is accused of exaggeration and he is
 
 often guilty of exaggeration; but here he does not exaggerate: he merely
 
-symbolises and sublimates like any other great artist. Sam Weller does
+symbolises and sublimates like any other great [[artist]]. [[Sam Weller]] does
 
-not exaggerate the wit of the London street arab one atom more than
+not exaggerate the wit of the [[London]] street arab one atom more than
 
 Colonel Newcome, let us say, exaggerates the stateliness of an ordinary
 
@@ -2255,9 +2255,9 @@ brotherhood of the poor lent a special seriousness and smell of reality
 
 to the whole story. The unconscious follies of Winkle and Tupman are
 
-blown away like leaves before the solid and conscious folly of Sam
+blown away like [[Leaves|leaves]] before the solid and conscious folly of Sam
 
-Weller. Moreover, the relations between Pickwick and his servant Sam are
+Weller. Moreover, the relations between [[Pickwick]] and his servant Sam are
 
 in some ways new and valuable in literature. Many comic writers had
 
@@ -2265,9 +2265,9 @@ described the clever rascal and his ridiculous dupe; but here, in a
 
 fresh and very human atmosphere, we have a clever servant who was not a
 
-rascal and a dupe who was not ridiculous. Sam Weller stands in some ways
+rascal and a dupe who was not ridiculous. [[Sam Weller]] stands in some ways
 
-for a cheerful knowledge of the world; Mr. Pickwick stands for a still
+for a cheerful knowledge of the world; Mr. [[Pickwick]] stands for a still
 
 more cheerful ignorance of the world. And Dickens responded to a
 
@@ -2275,15 +2275,15 @@ profound human sentiment (the sentiment that has made saints and the
 
 sanctity of children) when he made the gentler and less-travelled
 
-type--the type which moderates and controls. Knowledge and innocence are
+type--the type which moderates and controls. Knowledge and [[innocence]] are
 
 both excellent things, and they are both very funny. But it is right
 
-that knowledge should be the servant and innocence the master.
+that knowledge should be the servant and [[innocence]] the master.
 
-The sincerity of this study of Sam Weller has produced one particular
+The sincerity of this study of [[Sam Weller]] has produced one particular
 
-effect in the book which I wonder that critics of Dickens have never
+effect in the book which I [[Wonder|wonder]] that critics of Dickens have never
 
 noticed or discussed. Because it has no Dickens "pathos," certain parts
 
@@ -2293,9 +2293,9 @@ of the book was fun, felt that he ought to keep out of it any great
 
 experiments in sadness and keep within limits those that he put in. He
 
-used this restraint in order not to spoil the humour; but (if he had
+used this restraint in order not to spoil the [[Humour|humour]]; but (if he had
 
-known himself better) he might well have used it in order not to spoil
+known himself better) he might [[Well|well]] have used it in order not to spoil
 
 the pathos. This is the one book in which Dickens was, as it were,
 
@@ -2305,9 +2305,9 @@ is the one book where all the tenderness there is is quite
 
 unquestionably true. An admirable example of what I mean may be found in
 
-the scene in which Sam Weller goes down to see his bereaved father after
+the scene in which [[Sam Weller]] goes down to see his bereaved father after
 
-the death of his step-mother. The most loyal admirer of Dickens can
+the [[Death|death]] of his step-mother. The most loyal admirer of Dickens can
 
 hardly prevent himself from giving a slight shudder when he thinks of
 
@@ -2325,13 +2325,13 @@ dignified, and really sad. There is no attempt made by these simple and
 
 honest men, the father and son, to pretend that the dead woman was
 
-anything greatly other than she was; their respect is for death, and for
+anything greatly other than she was; their respect is for [[Death|death]], and for
 
 the human weakness and mystery which it must finally cover. Old Tony
 
 Weller does not tell his shrewish wife that she is already a
 
-white-winged angel; he speaks to her with an admirable good nature and
+white-winged angel; he speaks to her with an admirable good [[Nature|nature]] and
 
 good sense:
 
@@ -2343,7 +2343,7 @@ good sense:
 
      died arter all."
 
-That is perhaps the first and the last time that Dickens ever touched
+That is perhaps the first and the last [[Time|time]] that Dickens ever touched
 
 the extreme dignity of pathos. He is restraining his compassion, and
 
@@ -2351,9 +2351,9 @@ afterwards he let it go. Now laughter is a thing that can be let go;
 
 laughter has in it a quality of liberty. But sorrow has in it by its
 
-very nature a quality of confinement; pathos by its very nature fights
+very [[Nature|nature]] a quality of confinement; pathos by its very [[Nature|nature]] fights
 
-with itself. Humour is expansive; it bursts outwards; the fact is
+with itself. [[Humour]] is expansive; it bursts outwards; the fact is
 
 attested by the common expression, "holding one's sides." But sorrow is
 
@@ -2367,9 +2367,9 @@ pity, which we call pathos, a thing quite obvious, infectious, public,
 
 as if it were journalism or the measles. It is pleasant to think that in
 
-this supreme masterpiece, done in the dawn of his career, there is not
+this supreme masterpiece, done in the [[Dawn|dawn]] of his career, there is not
 
-even this faint fleck upon the sun of his just splendour. Pickwick will
+even this faint fleck upon the sun of his just splendour. [[Pickwick]] will
 
 always be remembered as the great example of everything that made
 
@@ -2377,7 +2377,7 @@ Dickens great; of the solemn conviviality of great friendships, of the
 
 erratic adventures of old English roads, of the hospitality of old
 
-English inns, of the great fundamental kindliness and honour of old
+English inns, of the great fundamental kindliness and [[Honour|honour]] of old
 
 English manners. First of all, however, it will always be remembered for
 
@@ -2387,27 +2387,27 @@ ultimate and sacred thing which cannot be criticised. Our relations
 
 with a good joke are direct and even divine relations. We speak of
 
-"seeing" a joke just as we speak of "seeing" a ghost or a vision. If we
+"seeing" a joke just as we speak of "seeing" a [[Ghost|ghost]] or a vision. If we
 
 have seen it, it is futile to argue with us; and we have seen the vision
 
-of _Pickwick_. _Pickwick_ may be the top of Dickens's humour; I think
+of _Pickwick_. _Pickwick_ may be the top of Dickens's [[Humour|humour]]; I think
 
-upon the whole it is. But the broad humour of _Pickwick_ he broadened
+upon the whole it is. But the broad [[Humour|humour]] of _Pickwick_ he broadened
 
 over many wonderful kingdoms; the narrow pathos of _Pickwick_ he never
 
 found again.
 
-NICHOLAS NICKLEBY
+[[Nicholas Nickleby|NICHOLAS NICKLEBY]]
 
-Romance is perhaps the highest point of human expression, except indeed
+[[Romance]] is perhaps the highest point of human expression, except indeed
 
-religion, to which it is closely allied. Romance resembles religion
+religion, to which it is closely allied. [[Romance]] resembles religion
 
 especially in this, that it is not only a simplification but a
 
-shortening of existence. Both romance and religion see everything as it
+shortening of existence. Both [[Romance|romance]] and religion see everything as it
 
 were foreshortened; they see everything in an abrupt and fantastic
 
@@ -2435,7 +2435,7 @@ futility; in the second case, opportunity. But the case is even stronger
 
 than this. Religion shortens everything. Religion shortens even
 
-eternity. Where science, submitting to the false standard of time, sees
+[[Eternity|eternity]]. Where science, submitting to the false standard of [[Time|time]], sees
 
 evolution, which is slow, religion sees creation, which is sudden.
 
@@ -2443,27 +2443,27 @@ Philosophically speaking, the process is neither slow nor quick since
 
 we have nothing to compare it with. Religion prefers to think of it as
 
-quick. For religion the flowers shoot up suddenly like rockets. For
+quick. For religion the [[Flowers|flowers]] shoot up suddenly like rockets. For
 
-religion the mountains are lifted up suddenly like waves. Those who
+religion the [[Mountains|mountains]] are lifted up suddenly like waves. Those who
 
 quote that fine passage which says that in God's sight a thousand years
 
-are as yesterday that is passed as a watch in the night, do not realise
+are as yesterday that is passed as a watch in the [[Night|night]], do not realise
 
 the full force of the meaning. To God a thousand years are not only a
 
-watch but an exciting watch. For God time goes at a gallop, as it does
+watch but an exciting watch. For God [[Time|time]] goes at a gallop, as it does
 
 to a man reading a good tale.
 
-All this is, in a humble manner, true for romance. Romance is a
+All this is, in a humble manner, true for [[Romance|romance]]. [[Romance]] is a
 
 shortening and sharpening of the human difficulty. Where you and I have
 
 to vote against a man, or write (rather feebly) against a man, or sign
 
-illegible petitions against a man, romance does for him what we should
+illegible petitions against a man, [[Romance|romance]] does for him what we should
 
 really like to see done. It knocks him down; it shortens the slow
 
@@ -2471,21 +2471,21 @@ process of historical justice. All romances consist of three characters.
 
 Other characters may be introduced; but those other characters are
 
-certainly mere scenery as far as the romance is concerned. They are
+certainly mere scenery as far as the [[Romance|romance]] is concerned. They are
 
 bushes that wave rather excitedly; they are posts that stand up with a
 
-certain pride; they are correctly painted rocks that frown very
+certain [[Pride|pride]]; they are correctly painted rocks that frown very
 
 correctly; but they are all landscape--they are all a background. In
 
-every pure romance there are three living and moving characters. For the
+every pure [[Romance|romance]] there are three living and moving characters. For the
 
 sake of argument they may be called St. George and the Dragon and the
 
-Princess. In every romance there must be the twin elements of loving and
+Princess. In every [[Romance|romance]] there must be the twin elements of loving and
 
-fighting. In every romance there must be the three characters: there
+fighting. In every [[Romance|romance]] there must be the three characters: there
 
 must be the Princess, who is a thing to be loved; there must be the
 
@@ -2493,7 +2493,7 @@ Dragon, who is a thing to be fought; and there must be St. George, who
 
 is a thing that both loves and fights. There have been many symptoms of
 
-cynicism and decay in our modern civilisation. But of all the signs of
+cynicism and [[Decay|decay]] in our modern civilisation. But of all the signs of
 
 modern feebleness, of lack of grasp on morals as they actually must be,
 
@@ -2511,33 +2511,33 @@ even Tolstoi, can be found to tell us that we should go in for loving
 
 instead of fighting. The two things imply each other; they implied each
 
-other in the old romance and in the old religion, which were the two
+other in the old [[Romance|romance]] and in the old religion, which were the two
 
-permanent things of humanity. You cannot love a thing without wanting to
+permanent things of humanity. You cannot [[Love|love]] a thing without wanting to
 
-fight for it. You cannot fight without something to fight for. To love a
+fight for it. You cannot fight without something to fight for. To [[Love|love]] a
 
-thing without wishing to fight for it is not love at all; it is lust. It
+thing without wishing to fight for it is not [[Love|love]] at all; it is lust. It
 
 may be an airy, philosophical, and disinterested lust; it may be, so to
 
 speak, a virgin lust; but it is lust, because it is wholly
 
-self-indulgent and invites no attack. On the other hand, fighting for a
+[[Self|self]]-indulgent and invites no attack. On the other hand, fighting for a
 
 thing without loving it is not even fighting; it can only be called a
 
-kind of horse-play that is occasionally fatal. Wherever human nature is
+kind of [[Horse|horse]]-play that is occasionally fatal. Wherever human [[Nature|nature]] is
 
 human and unspoilt by any special sophistry, there exists this natural
 
 kinship between war and wooing, and that natural kinship is called
 
-romance. It comes upon a man especially in the great hour of youth; and
+[[Romance|romance]]. It comes upon a man especially in the great hour of youth; and
 
 every man who has ever been young at all has felt, if only for a moment,
 
-this ultimate and poetic paradox. He knows that loving the world is the
+this ultimate and poetic [[Paradox|paradox]]. He knows that loving the world is the
 
 same thing as fighting the world. It was at the very moment when he
 
@@ -2547,25 +2547,25 @@ every man that can be called a man this especial moment of the romantic
 
 culmination has come. In the first resort the man wished to live a
 
-romance. In the second resort, in the last and worst resort, he was
+[[Romance|romance]]. In the second resort, in the last and worst resort, he was
 
 content to write one.
 
 Now there is a certain moment when this element enters independently
 
-into the life of Dickens. There is a particular time when we can see him
+into the life of Dickens. There is a particular [[Time|time]] when we can see him
 
-suddenly realise that he wants to write a romance and nothing else. In
+suddenly realise that he wants to write a [[Romance|romance]] and nothing else. In
 
 reading his letters, in appreciating his character, this point emerges
 
-clearly enough. He was full of the afterglow of his marriage; he was
+clearly enough. He was full of the afterglow of his [[Marriage|marriage]]; he was
 
 still young and psychologically ignorant; above all, he was now, really
 
-for the first time, sure that he was going to be at least some kind of
+for the first [[Time|time]], sure that he was going to be at least some kind of
 
-success. There is, I repeat, a certain point at which one feels that
+[[success]]. There is, I repeat, a certain point at which one feels that
 
 Dickens will either begin to write romances or go off on something
 
@@ -2587,9 +2587,9 @@ of these books we see that they came from another source and were really
 
 designed upon another plan. The three books were, of course, the
 
-_Sketches by Boz_, _the Pickwick Papers_, and _Oliver Twist_. It is, I
+_Sketches by Boz_, _the [[Pickwick]] Papers_, and _Oliver Twist_. It is, I
 
-suppose, sufficiently well understood that the _Sketches by Boz_ are, as
+suppose, sufficiently [[Well|well]] understood that the _Sketches by Boz_ are, as
 
 their name implies, only sketches. But surely it is quite equally clear
 
@@ -2597,7 +2597,7 @@ that the _Pickwick Papers_ are, as their name implies, merely papers.
 
 Nor is the case at all different in spirit and essence when we come to
 
-_Oliver Twist_. There is indeed a sort of romance in _Oliver Twist_, but
+_Oliver Twist_. There is indeed a sort of [[Romance|romance]] in _Oliver Twist_, but
 
 it is such an uncommonly bad one that it can hardly be regarded as
 
@@ -2613,23 +2613,23 @@ so much all in one atmosphere, that it can best be considered as an
 
 exception or a solitary excursus in his work. Perhaps it can best be
 
-considered as the extension of one of his old sketches, of some sketch
+considered as the extension of one of his old sketches, of some [[Sketch|sketch]]
 
 that happened to be about a visit to a workhouse or a gaol. In the
 
-_Sketches by Boz_ he might well have visited a workhouse where he saw
+_Sketches by Boz_ he might [[Well|well]] have visited a workhouse where he saw
 
-Bumble; in the _Sketches by Boz_ he might well have visited a prison
+Bumble; in the _Sketches by Boz_ he might [[Well|well]] have visited a [[Prison|prison]]
 
-where he saw Fagin. We are still in the realm of sketches and
+where he saw [[Fagin]]. We are still in the realm of sketches and
 
-sketchiness. _The Pickwick Papers_ may be called an extension of one of
+sketchiness. _The [[Pickwick]] Papers_ may be called an extension of one of
 
 his bright sketches. _Oliver Twist_ may be called an extension of one of
 
 his gloomy ones.
 
-Had he continued along this line all his books might very well have been
+Had he continued along this line all his books might very [[Well|well]] have been
 
 note-books. It would be very easy to split up all his subsequent books
 
@@ -2651,7 +2651,7 @@ Shop_. He might have merely written short stories called "The Glorious
 
 Apollos," "Mrs. Quilp's Tea-Party," "Mrs. Jarley's Waxwork," "The Little
 
-Servant," and "The Death of a Dwarf." _Martin Chuzzlewit_ might have
+Servant," and "The [[Death]] of a [[Dwarf]]." _Martin Chuzzlewit_ might have
 
 been twenty stories instead of one story. _Dombey and Son_ might have
 
@@ -2659,7 +2659,7 @@ been twenty stories instead of one story. We might have lost all
 
 Dickens's novels; we might have lost altogether Dickens the novelist. We
 
-might have lost that steady love of a seminal and growing romance which
+might have lost that steady [[Love|love]] of a seminal and growing [[Romance|romance]] which
 
 grew on him steadily as the years advanced, and which gave us towards
 
@@ -2675,9 +2675,9 @@ friends the evolutionists go wrong. I suppose that there is an instant
 
 of midsummer as there is an instant of midnight. If in the same way
 
-there is a supreme point of spring, _Nicholas Nickleby_ is the supreme
+there is a supreme point of [[spring]], _Nicholas Nickleby_ is the supreme
 
-point of Dickens's spring. I do not mean that it is the best book that
+point of Dickens's [[spring]]. I do not mean that it is the best book that
 
 he wrote in his youth. _Pickwick_ is a better book. I do not mean that
 
@@ -2695,39 +2695,39 @@ they have not really been novels at all. There are many indications of
 
 the change I mean. Here is one, for instance, which is more or less
 
-final. _Nicholas Nickleby_ is Dickens's first romantic novel because it
+final. _Nicholas Nickleby_ is Dickens's first romantic [[Novel|novel]] because it
 
-is his first novel with a proper and dignified romantic hero; which
+is his first [[Novel|novel]] with a proper and dignified romantic [[Hero|hero]]; which
 
-means, of course, a somewhat chivalrous young donkey. The hero of
+means, of course, a somewhat chivalrous young [[donkey]]. The [[Hero|hero]] of
 
-_Pickwick_ is an old man. The hero of _Oliver Twist_ is a child. Even
+_Pickwick_ is an old man. The [[Hero|hero]] of _Oliver Twist_ is a [[Child|child]]. Even
 
 after _Nicholas Nickleby_ this non-romantic custom continued. The _Old
 
-Curiosity Shop_ has no hero in particular. The hero of _Barnaby Rudge_
+Curiosity Shop_ has no [[Hero|hero]] in particular. The [[Hero|hero]] of _Barnaby Rudge_
 
-is a lunatic. But Nicholas Nickleby is a proper, formal, and ceremonial
+is a lunatic. But [[Nicholas Nickleby]] is a proper, formal, and ceremonial
 
-hero. He has no psychology; he has not even any particular character;
+[[Hero|hero]]. He has no psychology; he has not even any particular character;
 
-but he is made deliberately a hero--young, poor, brave, unimpeachable,
+but he is made deliberately a [[Hero|hero]]--young, poor, brave, unimpeachable,
 
-and ultimately triumphant. He is, in short, the hero. Mr. Vincent
+and ultimately triumphant. He is, in short, the [[Hero|hero]]. Mr. Vincent
 
 Crummles had a colossal intellect; and I always have a fancy that under
 
 all his pomposity he saw things more keenly than he allowed others to
 
-see. The moment he saw Nicholas Nickleby, almost in rags and limping
+see. The moment he saw [[Nicholas Nickleby]], almost in rags and limping
 
-along the high road, he engaged him (you will remember) as first walking
+along the high [[Road|road]], he engaged him (you will remember) as first walking
 
 gentleman. He was right. Nobody could possibly be more of a first
 
-walking gentleman than Nicholas Nickleby was. He was the first walking
+walking gentleman than [[Nicholas Nickleby]] was. He was the first walking
 
-gentleman before he went on to the boards of Mr. Vincent Crummles's
+gentleman before he went on to the boards of Mr. [[Vincent Crummles]]'s
 
 theatre, and he remained the first walking gentleman after he had come
 
@@ -2735,7 +2735,7 @@ off.
 
 Now this romantic method involves a certain element of climax which to
 
-us appears crudity. Nicholas Nickleby, for instance, wanders through the
+us appears crudity. [[Nicholas Nickleby]], for instance, wanders through the
 
 world; he takes a situation as assistant to a Yorkshire schoolmaster;
 
@@ -2749,13 +2749,13 @@ like an old cigar, and he goes away. The modern intellect is positively
 
 prostrated and flattened by this rapid and romantic way of righting
 
-wrongs. If a modern philanthropist came to Dotheboys Hall I fear he
+wrongs. If a modern philanthropist came to Dotheboys Hall I [[Fear|fear]] he
 
 would not employ the simple, sacred, and truly Christian solution of
 
 beating Mr. Squeers with a stick. I fancy he would petition the
 
-Government to appoint a Royal Commission to inquire into Mr. Squeers. I
+[[government|Government]] to appoint a Royal Commission to inquire into Mr. Squeers. I
 
 think he would every now and then write letters to newspapers reminding
 
@@ -2789,17 +2789,17 @@ be what, after four years, the Royal Commission would have said; but it
 
 would not matter in the least what the Royal Commission had said, for by
 
-that time the philanthropists would be off on a new tack and the world
+that [[Time|time]] the philanthropists would be off on a new tack and the world
 
 would have forgotten all about Dotheboys Hall and everything connected
 
-with it. By that time the philanthropists would be petitioning
+with it. By that [[Time|time]] the philanthropists would be petitioning
 
 Parliament for another Royal Commission; perhaps a Royal Commission to
 
 inquire into whether Mr. Mantalini was extravagant with his wife's
 
-money; perhaps a commission to inquire into whether Mr. Vincent Crummles
+money; perhaps a commission to inquire into whether Mr. [[Vincent Crummles]]
 
 kept the Infant Phenomenon short by means of gin.
 
@@ -2813,7 +2813,7 @@ remedies. Our fathers had a plain sort of pity; if you will, a gross and
 
 coarse pity. They had their own sort of sentimentalism. They were quite
 
-willing to weep over Smike. But it certainly never occurred to them to
+willing to weep over [[Smike]]. But it certainly never occurred to them to
 
 weep over Squeers. Even those who opposed the French war opposed it
 
@@ -2829,25 +2829,25 @@ as any of his contemporaries. All their interference was heroic
 
 interference. All their legislation was heroic legislation. All their
 
-remedies were heroic remedies. No doubt they were often narrow and often
+remedies were heroic remedies. No [[Doubt|doubt]] they were often narrow and often
 
-visionary. No doubt they often looked at a political formula when they
+visionary. No [[Doubt|doubt]] they often looked at a political formula when they
 
-should have looked at an elemental fact. No doubt they were pedantic in
+should have looked at an elemental fact. No [[Doubt|doubt]] they were pedantic in
 
 some of their principles and clumsy in some of their solutions. No
 
-doubt, in short, they were all very wrong; and no doubt we are the
+[[Doubt|doubt]], in short, they were all very wrong; and no [[Doubt|doubt]] we are the
 
 people, and wisdom shall die with us. But when they saw something which
 
-in their eyes, such as they were, really violated their morality, such
+in their eyes, such as they were, really violated their [[morality]], such
 
 as it was, then they did not cry "Investigate!" They did not cry
 
 "Educate!" They did not cry "Improve!" They did not cry "Evolve!" Like
 
-Nicholas Nickleby they cried "Stop!" And it did stop.
+[[Nicholas Nickleby]] they cried "Stop!" And it did stop.
 
 This is the first mark of the purely romantic method: the swiftness and
 
@@ -2859,29 +2859,29 @@ mean the tendency in the purely romantic story to regard the heroine
 
 merely as something to be won; to regard the princess solely as
 
-something to be saved from the dragon. The father of Madeline Bray is
+something to be saved from the dragon. The father of [[Madeline Bray]] is
 
 really a very respectable dragon. His selfishness is suggested with much
 
-more psychological tact and truth than that of any other of the villains
+more psychological tact and [[Truth|truth]] than that of any other of the villains
 
-that Dickens described about this time. But his daughter is merely the
+that Dickens described about this [[Time|time]]. But his daughter is merely the
 
-young woman with whom Nicholas is in love. We do not care a rap about
+young woman with whom Nicholas is in [[Love|love]]. We do not care a rap about
 
-Madeline Bray. Personally I should have preferred Cecilia Bobster. Here
+[[Madeline Bray]]. Personally I should have preferred Cecilia Bobster. Here
 
-is one real point where the Victorian romance falls below the
+is one real point where the Victorian [[Romance|romance]] falls below the
 
 Elizabethan romantic drama. Shakespeare always made his heroines heroic
 
-as well as his heroes.
+as [[Well|well]] as his heroes.
 
 In Dickens's actual literary career it is this romantic quality in
 
 _Nicholas Nickleby_ that is most important. It is his first definite
 
-attempt to write a young and chivalrous novel. In this sense the comic
+attempt to write a young and chivalrous [[Novel|novel]]. In this sense the comic
 
 characters and the comic scenes are secondary; and indeed the comic
 
@@ -2901,7 +2901,7 @@ becoming in literature pompous and delightful. I have remarked before
 
 that nearly every one of the amusing characters of Dickens is in reality
 
-a great fool. But I might go further. Almost every one of his amusing
+a great [[Fool|fool]]. But I might go further. Almost every one of his amusing
 
 characters is in reality a great bore. The very people that we fly to in
 
@@ -2911,27 +2911,27 @@ in Crummles than the mere entertainment of his solemnity and his tedium.
 
 The enormous seriousness with which he takes his art is always an exact
 
-touch in regard to the unsuccessful artist. If an artist is successful,
+touch in regard to the unsuccessful [[artist]]. If an [[artist]] is successful,
 
 everything then depends upon a dilemma of his moral character. If he is
 
-a mean artist success will make him a society man. If he is a
+a mean [[artist]] [[success]] will make him a society man. If he is a
 
-magnanimous artist, success will make him an ordinary man. But only as
+magnanimous [[artist]], [[success]] will make him an ordinary man. But only as
 
 long as he is unsuccessful will he be an unfathomable and serious
 
-artist, like Mr. Crummles. Dickens was always particularly good at
+[[artist]], like Mr. Crummles. Dickens was always particularly good at
 
 expressing thus the treasures that belong to those who do not succeed in
 
-this world. There are vast prospects and splendid songs in the point of
+this world. There are vast prospects and splendid [[songs]] in the point of
 
 view of the typically unsuccessful man; if all the used-up actors and
 
-spoilt journalists and broken clerks could give a chorus, it would be a
+spoilt journalists and broken clerks could give a [[Chorus|chorus]], it would be a
 
-wonderful chorus in praise of the world. But these unsuccessful men
+wonderful [[Chorus|chorus]] in praise of the world. But these unsuccessful men
 
 commonly cannot even speak. Dickens is the voice of them, and a very
 
@@ -2939,13 +2939,13 @@ ringing voice; because he was perhaps the only one of these unsuccessful
 
 men that was ever successful.
 
-OLIVER TWIST
+[[Oliver Twist|OLIVER TWIST]]
 
 In considering Dickens, as we almost always must consider him, as a man
 
 of rich originality, we may possibly miss the forces from which he drew
 
-even his original energy. It is not well for man to be alone. We, in the
+even his original energy. It is not [[Well|well]] for man to be [[Alone|alone]]. We, in the
 
 modern world, are ready enough to admit that when it is applied to some
 
@@ -2953,9 +2953,9 @@ problem of monasticism or of an ecstatic life. But we will not admit
 
 that our modern artistic claim to absolute originality is really a claim
 
-to absolute unsociability; a claim to absolute loneliness. The anarchist
+to absolute unsociability; a claim to absolute [[Loneliness|loneliness]]. The anarchist
 
-is at least as solitary as the ascetic. And the men of very vivid vigour
+is at least as solitary as the [[ascetic]]. And the men of very vivid vigour
 
 in literature, the men such as Dickens, have generally displayed a large
 
@@ -2981,7 +2981,7 @@ our view even the giants that begat him. But much more is this
 
 difficulty due to the fact that Dickens mixed up with the old material,
 
-materials so subtly modern, so made of the French Revolution, that the
+materials so subtly modern, so made of the [[French Revolution]], that the
 
 whole is transformed. If we want the best example of this, the best
 
@@ -2991,13 +2991,13 @@ Relatively to the other works of Dickens _Oliver Twist_ is not of great
 
 value, but it is of great importance. Some parts of it are so crude and
 
-of so clumsy a melodrama, that one is almost tempted to say that Dickens
+of so clumsy a [[Melodrama|melodrama]], that one is almost tempted to say that Dickens
 
 would have been greater without it. But even if he had been greater
 
 without it he would still have been incomplete without it. With the
 
-exception of some gorgeous passages, both of humour and horror, the
+exception of some gorgeous passages, both of [[Humour|humour]] and horror, the
 
 interest of the book lies not so much in its revelation of Dickens's
 
@@ -3029,9 +3029,9 @@ give a pathetic piece after his humorous one; and with all his many
 
 moral merits, there was much that was stagey about Dickens. But this
 
-explanation alone is altogether inadequate and unworthy. There was in
+explanation [[Alone|alone]] is altogether inadequate and unworthy. There was in
 
-Dickens this other kind of energy, horrible, uncanny, barbaric, capable
+Dickens this other kind of energy, horrible, [[Uncanny|uncanny]], barbaric, capable
 
 in another age of coarseness, greedy for the emblems of established
 
@@ -3043,27 +3043,27 @@ especially he was all the more of a boy. We can all recall with pleasure
 
 the fact that Miss Petowker (afterwards Mrs. Lillyvick) was in the habit
 
-of reciting a poem called "The Blood Drinker's Burial." I cannot express
+of reciting a poem called "The [[Blood]] Drinker's Burial." I cannot express
 
 my regret that the words of this poem are not given; for Dickens would
 
-have been quite as capable of writing "The Blood Drinker's Burial" as
+have been quite as capable of writing "The [[Blood]] Drinker's Burial" as
 
 Miss Petowker was of reciting it. This strain existed in Dickens
 
 alongside of his happy laughter; both were allied to the same robust
 
-romance. Here as elsewhere Dickens is close to all the permanent human
+[[Romance|romance]]. Here as elsewhere Dickens is close to all the permanent human
 
 things. He is close to religion, which has never allowed the thousand
 
-devils on its churches to stop the dancing of its bells. He is allied to
+devils on its churches to stop the dancing of its [[Bells|bells]]. He is allied to
 
-the people, to the real poor, who love nothing so much as to take a
+the people, to the real poor, who [[Love|love]] nothing so much as to take a
 
 cheerful glass and to talk about funerals. The extremes of his gloom and
 
-gaiety are the mark of religion and democracy; they mark him off from
+gaiety are the mark of religion and [[democracy]]; they mark him off from
 
 the moderate happiness of philosophers, and from that stoicism which is
 
@@ -3071,15 +3071,15 @@ the virtue and the creed of aristocrats. There is nothing odd in the
 
 fact that the same man who conceived the humane hospitalities of
 
-Pickwick should also have imagined the inhuman laughter of Fagin's den.
+[[Pickwick]] should also have imagined the inhuman laughter of [[Fagin]]'s den.
 
 They are both genuine and they are both exaggerated. And the whole human
 
 tradition has tied up together in a strange knot these strands of
 
-festivity and fear. It is over the cups of Christmas Eve that men have
+festivity and [[Fear|fear]]. It is over the cups of Christmas Eve that men have
 
-always competed in telling ghost stories.
+always competed in telling [[Ghost|ghost]] stories.
 
 This first element was present in Dickens, and it is very powerfully
 
@@ -3087,7 +3087,7 @@ present in _Oliver Twist_. It had not been present with sufficient
 
 consistency or continuity in _Pickwick_ to make it remain on the
 
-reader's memory at all, for the tale of "Gabriel Grubb" is grotesque
+reader's [[Memory|memory]] at all, for the tale of "Gabriel Grubb" is [[Grotesque|grotesque]]
 
 rather than horrible, and the two gloomy stories of the "Madman" and the
 
@@ -3097,15 +3097,15 @@ reader remember them he probably does not remember that they occur in
 
 _Pickwick_. Critics have complained of Shakespeare and others for
 
-putting comic episodes into a tragedy. It required a man with the
+putting comic episodes into a [[Tragedy|tragedy]]. It required a man with the
 
-courage and coarseness of Dickens actually to put tragic episodes into a
+[[Courage|courage]] and coarseness of Dickens actually to put tragic episodes into a
 
 farce. But they are not caught up into the story at all. In _Oliver
 
 Twist_, however, the thing broke out with an almost brutal inspiration,
 
-and those who had fallen in love with Dickens for his generous
+and those who had fallen in [[Love|love]] with Dickens for his generous
 
 buffoonery may very likely have been startled at receiving such very
 
@@ -3113,41 +3113,41 @@ different fare at the next helping. When you have bought a man's book
 
 because you like his writing about Mr. Wardle's punch-bowl and Mr.
 
-Winkle's skates, it may very well be surprising to open it and read
+Winkle's skates, it may very [[Well|well]] be surprising to open it and read
 
-about the sickening thuds that beat out the life of Nancy, or that
+about the sickening thuds that beat out the life of [[Nancy]], or that
 
-mysterious villain whose face was blasted with disease.
+mysterious [[Villain|villain]] whose face was blasted with disease.
 
-As a nightmare, the work is really admirable. Characters which are not
+As a [[nightmare]], the work is really admirable. Characters which are not
 
 very clearly conceived as regards their own psychology are yet, at
 
 certain moments, managed so as to shake to its foundations our own
 
-psychology. Bill Sikes is not exactly a real man, but for all that he is
+psychology. [[Bill Sikes]] is not exactly a real man, but for all that he is
 
-a real murderer. Nancy is not really impressive as a living woman; but
+a real murderer. [[Nancy]] is not really impressive as a living woman; but
 
 (as the phrase goes) she makes a lovely corpse. Something quite childish
 
 and eternal in us, something which is shocked with the mere simplicity
 
-of death, quivers when we read of those repeated blows or see Sikes
+of [[Death|death]], quivers when we read of those repeated blows or see Sikes
 
 cursing the tell-tale cur who will follow his bloody foot-prints. And
 
-this strange, sublime, vulgar melodrama, which is melodrama and yet is
+this strange, [[Sublime|sublime]], vulgar [[Melodrama|melodrama]], which is [[Melodrama|melodrama]] and yet is
 
 painfully real, reaches its hideous height in that fine scene of the
 
-death of Sikes, the besieged house, the boy screaming within, the crowd
+[[Death|death]] of Sikes, the besieged [[house]], the boy screaming within, the crowd
 
 screaming without, the murderer turned almost a maniac and dragging his
 
 victim uselessly up and down the room, the escape over the roof, the
 
-rope swiftly running taut, and death sudden, startling and symbolic; a
+rope swiftly running taut, and [[Death|death]] sudden, startling and symbolic; a
 
 man hanged. There is in this and similar scenes something of the quality
 
@@ -3159,7 +3159,7 @@ beyond saying that it is a sort of alphabetical realism, like the cruel
 
 candour of children. But it has about it these two special principles
 
-which separate it from all that we call realism in our time. First, that
+which separate it from all that we call realism in our [[Time|time]]. First, that
 
 with us a moral story means a story about moral people; with them a
 
@@ -3169,7 +3169,7 @@ with us realism is always associated with some subtle view of morals;
 
 with them realism was always associated with some simple view of morals.
 
-The end of Bill Sikes exactly in the way that the law would have killed
+The end of [[Bill Sikes]] exactly in the way that the law would have killed
 
 him--this is a Hogarthian incident; it carries on that tradition of
 
@@ -3179,7 +3179,7 @@ All this element in the book was a sincere thing in the author, but none
 
 the less it came from old soils, from the graveyard and the gallows, and
 
-the lane where the ghost walked. Dickens was always attracted to such
+the lane where the [[Ghost|ghost]] walked. Dickens was always attracted to such
 
 things, and (as Forster says with inimitable simplicity) "but for his
 
@@ -3193,19 +3193,19 @@ a belief in bad spirits. The great disadvantage of those who have too
 
 much strong sense to believe in supernaturalism is that they keep last
 
-the low and little forms of the supernatural, such as omens, curses,
+the low and little forms of the [[Supernatural|supernatural]], such as omens, curses,
 
 spectres, and retributions, but find a high and happy supernaturalism
 
 quite incredible. Thus the Puritans denied the sacraments, but went on
 
-burning witches. This shadow does rest, to some extent, upon the
+burning witches. This [[Shadow|shadow]] does rest, to some extent, upon the
 
 rational English writers like Dickens; supernaturalism was dying, but
 
 its ugliest roots died last. Dickens would have found it easier to
 
-believe in a ghost than in a vision of the Virgin with angels. There,
+believe in a [[Ghost|ghost]] than in a vision of the Virgin with angels. There,
 
 for good or evil, however, was the root of the old _diablerie_ in
 
@@ -3239,17 +3239,17 @@ This subject is social oppression. It is surely fair to say that no one
 
 could have gathered from _Pickwick_ how this question boiled in the
 
-blood of the author of _Pickwick_. There are, indeed, passages,
+[[Blood|blood]] of the author of _Pickwick_. There are, indeed, passages,
 
-particularly in connection with Mr. Pickwick in the debtor's prison,
+particularly in connection with Mr. [[Pickwick]] in the debtor's [[Prison|prison]],
 
 which prove to us, looking back on a whole public career, that Dickens
 
 had been from the beginning bitter and inquisitive about the problem of
 
-our civilisation. No one could have imagined at the time that this
+our civilisation. No one could have imagined at the [[Time|time]] that this
 
-bitterness ran in an unbroken river under all the surges of that superb
+bitterness ran in an unbroken [[River|river]] under all the surges of that superb
 
 gaiety and exuberance. With _Oliver Twist_ this sterner side of Dickens
 
@@ -3259,17 +3259,17 @@ stern even when they are funny. They amuse, but they cannot be enjoyed,
 
 as can the passages about the follies of Mr. Snodgrass or the
 
-humiliations of Mr. Winkle. The difference between the old easy humour
+humiliations of Mr. Winkle. The difference between the old easy [[Humour|humour]]
 
-and this new harsh humour is a difference not of degree but of kind.
+and this new harsh [[Humour|humour]] is a difference not of degree but of kind.
 
 Dickens makes game of Mr. Bumble because he wants to kill Mr. Bumble; he
 
 made game of Mr. Winkle because he wanted him to live for ever. Dickens
 
-has taken the sword in hand; against what is he declaring war?
+has taken the [[Sword|sword]] in hand; against what is he declaring war?
 
-It is just here that the greatness of Dickens comes in; it is just here
+It is just here that the [[Greatness|greatness]] of Dickens comes in; it is just here
 
 that the difference lies between the pedant and the poet. Dickens enters
 
@@ -3277,7 +3277,7 @@ the social and political war, and the first stroke he deals is not only
 
 significant but even startling. Fully to see this we must appreciate the
 
-national situation. It was an age of reform, and even of radical reform;
+national situation. It was an age of [[Reform|reform]], and even of radical [[Reform|reform]];
 
 the world was full of radicals and reformers; but only too many of them
 
@@ -3287,13 +3287,13 @@ some particular theory among the many political theories that possessed
 
 the end of the eighteenth century. Some had so much perfected the
 
-perfect theory of republicanism that they almost lay awake at night
+perfect theory of republicanism that they almost lay awake at [[Night|night]]
 
-because Queen Victoria had a crown on her head. Others were so certain
+because [[Queen]] Victoria had a [[Crown|crown]] on her head. Others were so certain
 
 that mankind had hitherto been merely strangled in the bonds of the
 
-State that they saw truth only in the destruction of tariffs or of
+State that they saw [[Truth|truth]] only in the destruction of tariffs or of
 
 by-laws. The greater part of that generation held that clearness,
 
@@ -3313,7 +3313,7 @@ other things the old-world belief in beggars. They sought among other
 
 things to clear away the old visionary kindliness on the subject of
 
-vagrants. Hence those reformers enacted not only a new reform bill but
+vagrants. Hence those reformers enacted not only a new [[Reform|reform]] bill but
 
 also a new poor law. In creating many other modern things they created
 
@@ -3323,7 +3323,7 @@ first thing that he broke with his battle-axe.
 
 This is where Dickens's social revolt is of more value than mere
 
-politics and avoids the vulgarity of the novel with a purpose. His
+politics and avoids the vulgarity of the [[Novel|novel]] with a purpose. His
 
 revolt is not a revolt of the commercialist against the feudalist, of
 
@@ -3347,9 +3347,9 @@ face is, indeed, the only thing in the world that we have really to
 
 fight between here and the fires of Hell. That which pedants of that
 
-time and this time would have called the sentimentalism of Dickens was
+[[Time|time]] and this [[Time|time]] would have called the sentimentalism of Dickens was
 
-really simply the detached sanity of Dickens. He cared nothing for the
+really simply the detached [[Sanity|sanity]] of Dickens. He cared nothing for the
 
 fugitive explanations of the Constitutional Conservatives; he cared
 
@@ -3363,9 +3363,9 @@ forms there was one fact, the tyranny of man over man; and he struck at
 
 it when he saw it, whether it was old or new. When he found that footmen
 
-and rustics were too much afraid of Sir Leicester Dedlock, he attacked
+and rustics were too much afraid of [[Sir Leicester Dedlock]], he attacked
 
-Sir Leicester Dedlock; he did not care whether Sir Leicester Dedlock
+[[Sir Leicester Dedlock]]; he did not care whether [[Sir Leicester Dedlock]]
 
 said he was attacking England or whether Mr. Rouncewell, the
 
@@ -3373,7 +3373,7 @@ Ironmaster, said he was attacking an effete oligarchy. In that case he
 
 pleased Mr. Rouncewell, the Iron-master, and displeased Sir Leicester
 
-Dedlock, the Aristocrat. But when he found that Mr. Rouncewell's workmen
+Dedlock, the [[aristocrat|Aristocrat]]. But when he found that Mr. Rouncewell's workmen
 
 were much too frightened of Mr. Rouncewell, then he displeased Mr.
 
@@ -3383,7 +3383,7 @@ him Mr. Bounderby. When he imagined himself to be fighting old laws he
 
 gave a sort of vague and general approval to new laws. But when he came
 
-to the new laws they had a bad time. When Dickens found that after a
+to the new laws they had a bad [[Time|time]]. When Dickens found that after a
 
 hundred economic arguments and granting a hundred economic
 
@@ -3397,39 +3397,39 @@ This is what makes the opening chapters of _Oliver Twist_ so curious and
 
 important. The very fact of Dickens's distance from, and independence
 
-of, the elaborate financial arguments of his time, makes more definite
+of, the elaborate financial arguments of his [[Time|time]], makes more definite
 
 and dazzling his sudden assertion that he sees the old human tyranny in
 
-front of him as plain as the sun at noon-day. Dickens attacks the modern
+front of him as plain as the sun at [[Noon|noon]]-day. Dickens attacks the modern
 
 workhouse with a sort of inspired simplicity as of a boy in a fairy tale
 
-who had wandered about, sword in hand, looking for ogres and who had
+who had wandered about, [[Sword|sword]] in hand, looking for ogres and who had
 
-found an indisputable ogre. All the other people of his time are
+found an indisputable ogre. All the other people of his [[Time|time]] are
 
 attacking things because they are bad economics or because they are bad
 
-politics, or because they are bad science; he alone is attacking things
+politics, or because they are bad science; he [[Alone|alone]] is attacking things
 
 because they are bad. All the others are Radicals with a large R; he
 
-alone is radical with a small one. He encounters evil with that
+[[Alone|alone]] is radical with a small one. He encounters evil with that
 
 beautiful surprise which, as it is the beginning of all real pleasure,
 
 is also the beginning of all righteous indignation. He enters the
 
-workhouse just as Oliver Twist enters it, as a little child.
+workhouse just as [[Oliver Twist]] enters it, as a little [[Child|child]].
 
 This is the real power and pathos of that celebrated passage in the book
 
 which has passed into a proverb; but which has not lost its terrible
 
-humour even in being hackneyed. I mean, of course, the everlasting
+[[Humour|humour]] even in being hackneyed. I mean, of course, the everlasting
 
-quotation about Oliver Twist asking for more. The real poignancy that
+quotation about [[Oliver Twist]] asking for more. The real poignancy that
 
 there is in this idea is a very good study in that strong school of
 
@@ -3441,23 +3441,23 @@ not daring to speak at all, not expecting anything, not hoping anything,
 
 past all possibility of affording even an ironical contrast or a protest
 
-of despair. A modern, in short, would have made all the boys in the
+of [[Despair|despair]]. A modern, in short, would have made all the boys in the
 
-workhouse pathetic by making them all pessimists. But Oliver Twist is
+workhouse pathetic by making them all pessimists. But [[Oliver Twist]] is
 
-not pathetic because he is a pessimist. Oliver Twist is pathetic because
+not pathetic because he is a pessimist. [[Oliver Twist]] is pathetic because
 
-he is an optimist. The whole tragedy of that incident is in the fact
+he is an optimist. The whole [[Tragedy|tragedy]] of that incident is in the fact
 
 that he does expect the universe to be kind to him, that he does believe
 
 that he is living in a just world. He comes before the Guardians as the
 
-ragged peasants of the French Revolution came before the Kings and
+ragged peasants of the [[French Revolution]] came before the Kings and
 
 Parliaments of Europe. That is to say, he comes, indeed, with gloomy
 
-experiences, but he comes with a happy philosophy. He knows that there
+experiences, but he comes with a happy [[philosophy]]. He knows that there
 
 are wrongs of man to be reviled; but he believes also that there are
 
@@ -3469,15 +3469,15 @@ of all the desperate men who have dragged down tyranny, were, as a
 
 matter of fact, by no means worse off than the poor of many other
 
-European countries before the Revolution. The truth is that the French
+European countries before the Revolution. The [[Truth|truth]] is that the French
 
 were tragic because they were better off. The others had known the
 
-sorrowful experiences; but they alone had known the splendid expectation
+sorrowful experiences; but they [[Alone|alone]] had known the splendid expectation
 
 and the original claims. It was just here that Dickens was so true a
 
-child of them and of that happy theory so bitterly applied. They were
+[[Child|child]] of them and of that happy theory so bitterly applied. They were
 
 the one oppressed people that simply asked for justice; they were the
 
@@ -3485,7 +3485,7 @@ one Parish Boy who innocently asked for more.
 
 OLD CURIOSITY SHOP
 
-Nothing is important except the fate of the soul; and literature is only
+Nothing is important except the fate of the [[Soul|soul]]; and literature is only
 
 redeemed from an utter triviality, surpassing that of naughts and
 
@@ -3515,13 +3515,13 @@ Dickens expresses an eager anticipation of everything that will happen
 
 in the motley affairs of men; he looks at the quiet crowd waiting for it
 
-to be picturesque and to play the fool; he expects everything; he is
+to be picturesque and to play the [[Fool|fool]]; he expects everything; he is
 
 torn with a happy hunger. Thackeray is always looking back to yesterday;
 
 Dickens is always looking forward to to-morrow. Both are profoundly
 
-humorous, for there is a humour of the morning and a humour of the
+humorous, for there is a [[Humour|humour]] of the morning and a [[Humour|humour]] of the
 
 evening; but the first guesses at what it will get, at all the
 
@@ -3537,11 +3537,11 @@ back. It is an idle but obvious thing, which many must have noticed,
 
 that we often find in the title of one of an author's books what might
 
-very well stand for a general description of all of them. Thus all
+very [[Well|well]] stand for a general description of all of them. Thus all
 
-Spenser's works might be called _A Hymn to Heavenly Beauty_; or all Mr.
+Spenser's works might be called _A [[Hymn]] to Heavenly Beauty_; or all Mr.
 
-Bernard Shaw's bound books might be called _You Never Can Tell_. In the
+Bernard [[Shaw]]'s bound books might be called _You Never Can Tell_. In the
 
 same way the whole substance and spirit of Thackeray might be gathered
 
@@ -3557,7 +3557,7 @@ is reading into Dickens something that he did not mean; and I have been
 
 told that it would have greatly surprised Dickens to be informed that he
 
-"went down the broad road of the Revolution." Of course it would.
+"went down the broad [[Road|road]] of the Revolution." Of course it would.
 
 Criticism does not exist to say about authors the things that they knew
 
@@ -3605,9 +3605,9 @@ opening and original framework express the idea of a random experience,
 
 a thing come across in the street; a single face in the crowd, followed
 
-until it tells its story. Though the thing ends in a novel it begins in
+until it tells its story. Though the thing ends in a [[Novel|novel]] it begins in
 
-a sketch; it begins as one of the _Sketches by Boz_. There is something
+a [[Sketch|sketch]]; it begins as one of the _Sketches by Boz_. There is something
 
 unconsciously artistic in the very clumsiness of this opening. Master
 
@@ -3619,11 +3619,11 @@ of one adventure; he goes out to notice everybody and he finds himself
 
 busily and variedly occupied only in watching somebody. In this there is
 
-a very profound truth about the true excitement and inexhaustible poetry
+a very profound [[Truth|truth]] about the true excitement and inexhaustible poetry
 
-of life. The truth is not so much that eternity is full of souls as that
+of life. The [[Truth|truth]] is not so much that [[Eternity|eternity]] is full of souls as that
 
-one soul can fill eternity. In strict art there is something quite lame
+one [[Soul|soul]] can fill [[Eternity|eternity]]. In strict art there is something quite lame
 
 and lumbering about the way in which the benevolent old story-teller
 
@@ -3631,7 +3631,7 @@ starts to tell many stories and then drops away altogether, while one of
 
 his stories takes his place. But in a larger art, his collision with
 
-Little Nell and his complete eclipse by her personality and narrative
+[[Little Nell]] and his complete eclipse by her personality and narrative
 
 have a real significance. They suggest the random richness of such
 
@@ -3643,29 +3643,29 @@ It is not true, as is commonly said, that the Dickens pathos as pathos
 
 is bad. It is not true, as is still more commonly said, that the whole
 
-business about Little Nell is bad. The case is more complex than that.
+business about [[Little Nell]] is bad. The case is more complex than that.
 
 Yet complex as it is it admits of one sufficiently clear distinction.
 
-Those who have written about the death of Little Nell, have generally
+Those who have written about the [[Death|death]] of [[Little Nell]], have generally
 
 noticed the crudities of the character itself; the little girl's
 
-unnatural and staring innocence, her constrained and awkward piety. But
+unnatural and staring [[innocence]], her constrained and awkward piety. But
 
 they have nearly all of them entirely failed to notice that there is in
 
-the death of Little Nell one quite definite and really artistic idea. It
+the [[Death|death]] of [[Little Nell]] one quite definite and really artistic idea. It
 
-is not an artistic idea that a little child should die rhetorically on
+is not an artistic idea that a little [[Child|child]] should die rhetorically on
 
-the stage like Paul Dombey; and Little Nell does not die rhetorically
+the stage like [[Paul Dombey]]; and [[Little Nell]] does not die rhetorically
 
-upon the stage like Paul Dombey. But it is an artistic idea that all the
+upon the stage like [[Paul Dombey]]. But it is an artistic idea that all the
 
 good powers and personalities in the story should set out in pursuit of
 
-one insignificant child, to repair an injustice to her, should track her
+one insignificant [[Child|child]], to repair an injustice to her, should track her
 
 from town to town over England with all the resources of wealth,
 
@@ -3675,17 +3675,17 @@ fairies and all the kind magicians, all the just kings and all the
 
 gallant princes, with chariots and flying dragons and armies and navies
 
-go after one little child who had strayed into a wood, and find her
+go after one little [[Child|child]] who had strayed into a wood, and find her
 
 dead. That is the conception which Dickens's artistic instinct was
 
-really aiming at when he finally condemned Little Nell to death, after
+really aiming at when he finally condemned [[Little Nell]] to [[Death|death]], after
 
 keeping her, so to speak, so long with the rope round her neck. The
 
-death of Little Nell is open certainly to the particular denial which
+[[Death|death]] of [[Little Nell]] is open certainly to the particular denial which
 
-its enemies make about it. The death of Little Nell is not pathetic. It
+its enemies make about it. The [[Death|death]] of [[Little Nell]] is not pathetic. It
 
 is perhaps tragic; it is in reality ironic. Here is a very good case of
 
@@ -3693,15 +3693,15 @@ the injustice to Dickens on his purely literary side. It is not that I
 
 say that Dickens achieved what he designed; it is that the critics will
 
-not see what the design was. They go on talking of the death of Little
+not see what the design was. They go on talking of the [[Death|death]] of Little
 
-Nell as if it were a mere example of maudlin description like the death
+Nell as if it were a mere example of maudlin description like the [[Death|death]]
 
 of Little Paul. As a fact it is not described at all; so it cannot be
 
-objectionable. It is not the death of Little Nell, but the life of
+objectionable. It is not the [[Death|death]] of [[Little Nell]], but the life of
 
-Little Nell, that I object to.
+[[Little Nell]], that I object to.
 
 In this, in the actual picture of her personality, if you can call it a
 
@@ -3709,15 +3709,15 @@ personality, Dickens did fall into some of his facile vices. The real
 
 objection to much of his pathos belongs really to another part of his
 
-character. It is connected with his vanity, his voracity for all kinds
+character. It is connected with his [[Vanity|vanity]], his voracity for all kinds
 
 of praise, his restive experimentalism and even perhaps his envy. He
 
-strained himself to achieve pathos. His humour was inspiration; but his
+strained himself to achieve pathos. His [[Humour|humour]] was inspiration; but his
 
-pathos was ambition. His laughter was lonely; he would have laughed on a
+pathos was [[Ambition|ambition]]. His laughter was lonely; he would have laughed on a
 
-desert island. But his grief was gregarious. He liked to move great
+[[Desert|desert]] island. But his grief was gregarious. He liked to move great
 
 masses of men, to melt them into tenderness, to play on the people as a
 
@@ -3727,25 +3727,25 @@ him a way of showing his power; and for that reason it was really
 
 powerless. He could not help making people laugh; but he tried to make
 
-them cry. We come in this novel, as we often do come in his novels, upon
+them cry. We come in this [[Novel|novel]], as we often do come in his novels, upon
 
 hard lumps of unreality, upon a phrase that suddenly sickens. That is
 
 always due to his conscious despotism over the delicate feelings; that
 
-is always due to his love of fame as distinct from his love of fun. But
+is always due to his [[Love|love]] of fame as distinct from his [[Love|love]] of fun. But
 
 it is not true that all Dickens's pathos is like this; it is not even
 
-true that all the passages about Little Nell are like this; there are
+true that all the passages about [[Little Nell]] are like this; there are
 
 two strands almost everywhere and they can be differentiated as the
 
 sincere and the deliberate. There is a great difference between Dickens
 
-thinking about the tears of his characters and Dickens thinking about
+thinking about the [[Tears|tears]] of his characters and Dickens thinking about
 
-the tears of his audience.
+the [[Tears|tears]] of his audience.
 
 When all this is allowed, however, and the exaggerated contempt for the
 
@@ -3753,37 +3753,37 @@ Dickens pathos is properly corrected, the broad fact remains: that to
 
 pass from the solemn characters in this book to the comic characters in
 
-this book, is to be like some Ulysses who should pass suddenly from the
+this book, is to be like some [[Ulysses]] who should pass suddenly from the
 
-land of shadows to the mountain of the gods. Little Nell has her own
+land of shadows to the mountain of the gods. [[Little Nell]] has her own
 
 position in careful and reasonable criticism: even that wobbling old
 
 ass, her grandfather, has his position in it; perhaps even the
 
-dissipated Fred (whom long acquaintance with Mr. Dick Swiveller has not
+dissipated [[Fred]] (whom long acquaintance with Mr. [[Dick Swiveller]] has not
 
 made any less dismal in his dissipation) has a place in it also. But
 
-when we come to Swiveller and Sampson Brass and Quilp and Mrs. Jarley,
+when we come to Swiveller and [[Sampson Brass]] and Quilp and Mrs. Jarley,
 
-then Fred and Nell and the grandfather simply do not exist. There are no
+then [[Fred]] and Nell and the grandfather simply do not exist. There are no
 
-such people in the story. The real hero and heroine of _The Old
+such people in the story. The real [[Hero|hero]] and heroine of _The Old
 
-Curiosity Shop_ are of course Dick Swiveller and the Marchioness. It is
+Curiosity Shop_ are of course [[Dick Swiveller]] and the [[Marchioness]]. It is
 
 significant in a sense that these two sane, strong, living, and lovable
 
 human beings are the only two, or almost the only two, people in the
 
-story who do not run after Little Nell. They have something better to do
+story who do not run after [[Little Nell]]. They have something better to do
 
-than to go on that shadowy chase after that cheerless phantom. They have
+than to go on that shadowy chase after that cheerless [[Phantom|phantom]]. They have
 
-to build up between them a true romance; perhaps the one true romance in
+to build up between them a true [[Romance|romance]]; perhaps the one true [[Romance|romance]] in
 
-the whole of Dickens. Dick Swiveller really has all the half-heroic
+the whole of Dickens. [[Dick Swiveller]] really has all the half-heroic
 
 characteristics which make a man respected by a woman and which are the
 
@@ -3791,7 +3791,7 @@ male contribution to virtue. He is brave, magnanimous, sincere about
 
 himself, amusing, absurdly hopeful; above all, he is both strong and
 
-weak. On the other hand the Marchioness really has all the
+weak. On the other hand the [[Marchioness]] really has all the
 
 characteristics, the entirely heroic characteristics which make a woman
 
@@ -3805,19 +3805,19 @@ above all, she is physically timid and yet she can face anything. All
 
 this solid rocky romanticism is really implied in the speech and action
 
-of these two characters and can be felt behind them all the time.
+of these two characters and can be felt behind them all the [[Time|time]].
 
 Because they are the two most absurd people in the book they are also
 
-the most vivid, human, and imaginable. There are two really fine love
+the most vivid, human, and imaginable. There are two really fine [[Love|love]]
 
 affairs in Dickens; and I almost think only two. One is the happy
 
-courtship of Swiveller and the Marchioness; the other is the tragic
+courtship of Swiveller and the [[Marchioness]]; the other is the tragic
 
-courtship of Toots and Florence Dombey. When Dick Swiveller wakes up in
+courtship of Toots and [[Florence Dombey]]. When [[Dick Swiveller]] wakes up in
 
-bed and sees the Marchioness playing cribbage he thinks that he and she
+bed and sees the [[Marchioness]] playing cribbage he thinks that he and she
 
 are a prince and princess in a fairy tale. He thinks right.
 
@@ -3833,19 +3833,19 @@ through this fantastic medium, in such figures as Swiveller and the
 
 little servant. The warmest upholder of Dickens would not go to the
 
-solemn or sentimental passages for anything fresh or suggestive in faith
+solemn or sentimental passages for anything fresh or suggestive in [[Faith|faith]]
 
-or philosophy. No one would pretend that the death of little Dombey
+or [[philosophy]]. No one would pretend that the [[Death|death]] of little Dombey
 
 (with its "What are the wild waves saying?") told us anything new or
 
-real about death. A good Christian dying, one would imagine, not only
+real about [[Death|death]]. A good Christian dying, one would imagine, not only
 
 would not know what the wild waves were saying, but would not care. No
 
-one would pretend that the repentance of old Paul Dombey throws any
+one would pretend that the repentance of old [[Paul Dombey]] throws any
 
-light on the psychology or philosophy of repentance. No doubt old
+light on the psychology or [[philosophy]] of repentance. No [[Doubt|doubt]] old
 
 Dombey, white-haired and amiable, was a great improvement on old Dombey
 
@@ -3859,21 +3859,21 @@ the sentimental people find them, at least they do not convey anything
 
 in the way of an illuminating glimpse or a bold suggestion about men's
 
-moral nature. The serious figures do not tell one anything about the
+moral [[Nature|nature]]. The serious figures do not tell one anything about the
 
-human soul. The comic figures do. Take anything almost at random out of
+human [[Soul|soul]]. The comic figures do. Take anything almost at random out of
 
-these admirable speeches of Dick Swiveller. Notice, for instance, how
+these admirable speeches of [[Dick Swiveller]]. Notice, for instance, how
 
 exquisitely Dickens has caught a certain very deep and delicate quality
 
-at the bottom of this idle kind of man. I mean that odd impersonal sort
+at the [[Bottom|bottom]] of this idle kind of man. I mean that odd impersonal sort
 
 of intellectual justice, by which the frivolous fellow sees things as
 
 they are and even himself as he is; and is above irritation. Mr.
 
-Swiveller, you remember, asks the Marchioness whether the Brass family
+Swiveller, you remember, asks the [[Marchioness]] whether the Brass family
 
 ever talk about him; she nods her head with vivacity. "'Complimentary?'
 
@@ -3881,7 +3881,7 @@ inquired Mr. Swiveller. The motion of the little servant's head
 
 altered.... 'But she says,' continued the little servant, 'that you
 
-ain't to be trusted.' 'Well, do you know, Marchioness,' said Mr.
+ain't to be trusted.' '[[Well]], do you know, [[Marchioness]],' said Mr.
 
 Swiveller thoughtfully, 'many people, not exactly professional people,
 
@@ -3889,17 +3889,17 @@ but tradesmen, have had the same idea. The excellent citizen from whom I
 
 ordered this beer inclines strongly to that opinion.'"
 
-This philosophical freedom from all resentment, this strange love of
+This philosophical [[Freedom|freedom]] from all resentment, this strange [[Love|love]] of
 
-truth which seems actually to come through carelessness, is a very real
+[[Truth|truth]] which seems actually to come through carelessness, is a very real
 
 piece of spiritual observation. Even among liars there are two classes,
 
 one immeasurably better than another. The honest liar is the man who
 
-tells the truth about his old lies; who says on Wednesday, "I told a
+tells the [[Truth|truth]] about his old lies; who says on Wednesday, "I told a
 
-magnificent lie on Monday." He keeps the truth in circulation; no one
+magnificent lie on Monday." He keeps the [[Truth|truth]] in circulation; no one
 
 version of things stagnates in him and becomes an evil secret. He does
 
@@ -3909,17 +3909,17 @@ may mislead the waiter about whether he has the money to pay; but he
 
 does not mislead his friend, and he does not mislead himself on the
 
-point. He is quite as well aware as any one can be of the accumulating
+point. He is quite as [[Well|well]] aware as any one can be of the accumulating
 
 falsity of the position of a gentleman who by his various debts has
 
 closed up all the streets into the Strand except one, and who is going
 
-to close that to-night with a pair of gloves. He shuts up the street
+to close that to-[[Night|night]] with a pair of gloves. He shuts up the street
 
 with a pair of gloves, but he does not shut up his mind with a secret.
 
-The traffic of truth is still kept open through his soul.
+The traffic of [[Truth|truth]] is still kept open through his [[Soul|soul]].
 
 It is exactly in these absurd characters, then, that we can find a mass
 
@@ -3929,35 +3929,35 @@ serious characters except indeed in some of the later experiments: there
 
 is a little of such psychological and ethical suggestion in figures like
 
-Gridley, like Jasper, like Bradley Headstone. But in these earlier books
+Gridley, like Jasper, like [[Bradley Headstone]]. But in these earlier books
 
-at least, such as _The Old Curiosity Shop_, the grave or moral figures
+at least, such as _The Old Curiosity Shop_, the [[Grave|grave]] or moral figures
 
 throw no light upon morals. I should maintain this generalisation even
 
 in the presence of that apparent exception _The Christmas Carol_ with
 
-its trio of didactic ghosts. Charity is certainly splendid, at once a
+its trio of didactic [[Ghosts|ghosts]]. [[Charity]] is certainly splendid, at once a
 
 luxury and a necessity; but Dickens is not most effective when he is
 
-preaching charity seriously; he is most effective when he is preaching
+preaching [[Charity|charity]] seriously; he is most effective when he is preaching
 
 it uproariously; when he is preaching it by means of massive
 
 personalities and vivid scenes. One might say that he is best not when
 
-he is preaching his human love, but when he is practising it. In his
+he is preaching his human [[Love|love]], but when he is practising it. In his
 
-grave pages he tells us to love men; but in his wild pages he creates
+[[Grave|grave]] pages he tells us to [[Love|love]] men; but in his wild pages he creates
 
-men whom we can love. By his solemnity he commands us to love our
+men whom we can [[Love|love]]. By his solemnity he commands us to [[Love|love]] our
 
-neighbours. By his caricature he makes us love them.
+neighbours. By his caricature he makes us [[Love|love]] them.
 
-There is an odd literary question which I wonder is not put more often
+There is an odd literary question which I [[Wonder|wonder]] is not put more often
 
-in literature. How far can an author tell a truth without seeing it
+in literature. How far can an author tell a [[Truth|truth]] without seeing it
 
 himself? Perhaps an actual example will express my meaning. I was once
 
@@ -3979,13 +3979,13 @@ clamour which is nevertheless not open or explicable, on her temper
 
 which is not so much bad temper as insatiable, bloodthirsty, man-eating
 
-temper. How far can a writer thus indicate by accident a truth of which
+temper. How far can a writer thus indicate by accident a [[Truth|truth]] of which
 
-he is himself ignorant? If truth is a plan or pattern of things that
+he is himself ignorant? If [[Truth|truth]] is a plan or pattern of things that
 
-really are, or in other words, if truth truly exists outside ourselves,
+really are, or in other words, if [[Truth|truth]] truly exists outside ourselves,
 
-or in other words, if truth exists at all, it must be often possible for
+or in other words, if [[Truth|truth]] exists at all, it must be often possible for
 
 a writer to uncover a corner of it which he happens not to understand,
 
@@ -3993,7 +3993,7 @@ but which his reader does happen to understand. The author sees only two
 
 lines; the reader sees where they meet and what is the angle. The author
 
-sees only an arc or fragment of a curve; the reader sees the size of the
+sees only an arc or [[Fragment|fragment]] of a curve; the reader sees the size of the
 
 circle. The last thing to say about Dickens, and especially about books
 
@@ -4003,7 +4003,7 @@ unconscious truths. The careless reader may miss them. The careless
 
 author almost certainly did miss them. But from them can be gathered an
 
-impression of real truth to life which is for the grave critics of
+impression of real [[Truth|truth]] to life which is for the [[Grave|grave]] critics of
 
 Dickens an almost unknown benefit, buried treasure. Here for instance is
 
@@ -4017,7 +4017,7 @@ to entertain a hatred bordering upon frenzy for the stolid, patient,
 
 respectful, and laborious Kit. Now in the formal plan of the story Mr.
 
-Chuckster is a fool, and Kit is almost a hero; at least he is a noble
+Chuckster is a [[Fool|fool]], and Kit is almost a [[Hero|hero]]; at least he is a noble
 
 boy. Yet unconsciously Dickens made the idiot Chuckster say something
 
@@ -4045,7 +4045,7 @@ snob. His natural dignity does include and is partly marred by that
 
 instinctive subservience to the employing class which has been the
 
-comfortable weakness of the whole English democracy, which has prevented
+comfortable weakness of the whole English [[democracy]], which has prevented
 
 their making any revolution for the last two hundred years. Kit would
 
@@ -4057,7 +4057,7 @@ the goodness. All this is the English popular evil which goes along with
 
 the English popular virtues of geniality, of homeliness, tolerance and
 
-strong humour, hope and an enormous appetite for a hand-to-mouth
+strong [[Humour|humour]], [[Hope|hope]] and an enormous appetite for a hand-to-mouth
 
 happiness. The scene in which Kit takes his family to the theatre is a
 
@@ -4075,11 +4075,11 @@ Kit is a splendid and final symbol. But amid all his masculine and
 
 English virtue, he has this weak touch of meekness, or acceptance of the
 
-powers that be. It is a sound touch; it is a real truth about Kit. But
+powers that be. It is a sound touch; it is a real [[Truth|truth]] about Kit. But
 
 Dickens did not know it. Mr. Chuckster did.
 
-Dickens's stories taken as a whole have more artistic unity than appears
+Dickens's stories taken as a whole have more artistic [[unity]] than appears
 
 at the first glance. It is the immediate impulse of a modern critic to
 
@@ -4087,9 +4087,9 @@ dismiss them as mere disorderly scrap-books with very brilliant scraps.
 
 But this is not quite so true as it looks. In one of Dickens's novels
 
-there is generally no particular unity of construction; but there is
+there is generally no particular [[unity]] of construction; but there is
 
-often a considerable unity of sentiment and atmosphere. Things are
+often a considerable [[unity]] of sentiment and atmosphere. Things are
 
 irrelevant, but not somehow inappropriate. The whole book is written
 
@@ -4097,7 +4097,7 @@ carelessly; but the whole book is generally written in one mood. To take
 
 a rude parallel from the other arts, we may say that there is not much
 
-unity of form, but there is much unity of colour. In most of the novels
+[[unity]] of form, but there is much [[unity]] of colour. In most of the novels
 
 this can be seen. _Nicholas Nickleby_, as I have remarked, is full of a
 
@@ -4115,9 +4115,9 @@ way, the central story of _Oliver Twist_ is sombre; and hence even its
 
 comic character is almost sombre; at least he is too ugly to be merely
 
-amusing. Mr. Bumble is in some ways a terrible grotesque; his apoplectic
+amusing. Mr. Bumble is in some ways a terrible [[Grotesque|grotesque]]; his apoplectic
 
-visage recalls the "fire-red Cherubimme's face," which added such horror
+visage recalls the "[[Fire|fire]]-red Cherubimme's face," which added such horror
 
 to the height and stature of Chaucer's Sompnour. In both these cases
 
@@ -4127,7 +4127,7 @@ tint of the whole story. But this neglected merit of Dickens can
 
 certainly be seen best in _The Old Curiosity Shop_.
 
-The curiosity shop itself was a lumber of grotesque and sinister things,
+The curiosity shop itself was a lumber of [[Grotesque|grotesque]] and sinister things,
 
 outlandish weapons, twisted and diabolic decorations. The comic
 
@@ -4137,11 +4137,11 @@ shop. Quilp might be a gargoyle. He might be some sort of devilish
 
 door-knocker, dropped down and crawling about the pavement. The same
 
-applies to the sinister and really terrifying stiffness of Sally Brass.
+applies to the sinister and really terrifying stiffness of [[Sally Brass]].
 
-She is like some old staring figure cut out of wood. Sampson Brass, her
+She is like some old staring figure cut out of wood. [[Sampson Brass]], her
 
-brother, again is a grotesque in the same rather inhuman manner; he is
+brother, again is a [[Grotesque|grotesque]] in the same rather inhuman manner; he is
 
 especially himself when he comes in with the green shade over his eye.
 
@@ -4173,23 +4173,23 @@ his own fist. It is indeed a perfect symbol; for Quilp is always
 
 fighting himself for want of anybody else. He is energy, and energy by
 
-itself is always suicidal; he is that primordial energy which tears and
+itself is always suicidal; he is that primordial energy which [[Tears|tears]] and
 
 which destroys itself.
 
-BARNABY RUDGE
+[[Barnaby Rudge|BARNABY RUDGE]]
 
-_Barnaby Rudge_ was written by Dickens in the spring and first flowing
+_Barnaby Rudge_ was written by Dickens in the [[spring]] and first flowing
 
 tide of his popularity; it came immediately after _The Old Curiosity
 
-Shop_, and only a short time after _Pickwick_. Dickens was one of those
+Shop_, and only a short [[Time|time]] after _Pickwick_. Dickens was one of those
 
-rare but often very sincere men in whom the high moment of success
+rare but often very sincere men in whom the high moment of [[success]]
 
 almost coincides with the high moment of youth. The calls upon him at
 
-this time were insistent and overwhelming; this necessarily happens at a
+this [[Time|time]] were insistent and overwhelming; this necessarily happens at a
 
 certain stage of a successful writer's career. He was just successful
 
@@ -4205,17 +4205,17 @@ throw himself into anything else. But there was an intervening period,
 
 early in his life, when there was almost too much work for his
 
-imagination, and yet not quite enough work for his housekeeping. To this
+[[Imagination|imagination]], and yet not quite enough work for his housekeeping. To this
 
 period _Barnaby Rudge_ belongs. And it is a curious tribute to the quite
 
-curious greatness of Dickens that in this period of youthful strain we
+curious [[Greatness|greatness]] of Dickens that in this period of youthful strain we
 
 do not feel the strain but feel only the youth. His own amazing wish to
 
 write equalled or outstripped even his readers' amazing wish to read.
 
-Working too hard did not cure him of his abstract love of work.
+Working too hard did not cure him of his abstract [[Love|love]] of work.
 
 Unreasonable publishers asked him to write ten novels at once; but he
 
@@ -4231,7 +4231,7 @@ _Barnaby Rudge_ marks this epoch because it marks the fact that he is
 
 still confused about what kind of person he is going to be. He has
 
-already struck the note of the normal romance in _Nicholas Nickleby_; he
+already struck the note of the normal [[Romance|romance]] in _Nicholas Nickleby_; he
 
 has already created some of his highest comic characters in _Pickwick_
 
@@ -4239,15 +4239,15 @@ and _The Old Curiosity Shop_, but here he betrays the fact that it is
 
 still a question what ultimate guide he shall follow. _Barnaby Rudge_ is
 
-a romantic, historical novel. Its design reminds us of Scott; some parts
+a romantic, [[Historical Novel|historical novel]]. Its design reminds us of Scott; some parts
 
 of its fulfilment remind us, alas! of Harrison Ainsworth. It is a very
 
-fine romantic historical novel; Scott would have been proud of it. But
+fine romantic [[Historical Novel|historical novel]]; Scott would have been proud of it. But
 
 it is still so far different from the general work of Dickens that it is
 
-permissible to wonder how far Dickens was proud of it. The book,
+permissible to [[Wonder|wonder]] how far Dickens was proud of it. The book,
 
 effective as it is, is almost entirely devoted to dealings with a
 
@@ -4275,57 +4275,57 @@ Shakespeare, for instance, delighted in certain merely pictorial
 
 contrasts which are quite distinct from, even when they are akin to, the
 
-spiritual view involved. For instance, there is admirable satire in the
+spiritual view involved. For instance, there is admirable [[Satire|satire]] in the
 
-idea of Touchstone teaching worldly wisdom and worldly honour to the
+idea of [[Touchstone]] teaching worldly wisdom and worldly [[Honour|honour]] to the
 
-woodland yokels. There is excellent philosophy in the idea of the fool
+woodland yokels. There is excellent [[philosophy]] in the idea of the [[Fool|fool]]
 
 being the representative of civilisation in the forest. But quite apart
 
 from this deeper meaning in the incident, the mere figure of the jester,
 
-in his bright motley and his cap and bells, against the green background
+in his bright motley and his cap and [[Bells|bells]], against the green background
 
 of the forest and the rude forms of the shepherds, is a strong example
 
 of the purely picturesque. There is excellent tragic irony in the
 
-confrontation of the melancholy philosopher among the tombs with the
+confrontation of the [[Melancholy|melancholy]] philosopher among the tombs with the
 
 cheerful digger of the graves. It sums up the essential point, that dead
 
 bodies can be comic; it is only dead souls that can be tragic. But quite
 
-apart from such irony, the mere picture of the grotesque gravedigger,
+apart from such irony, the mere picture of the [[Grotesque|grotesque]] gravedigger,
 
 the black-clad prince, and the skull is a picture in the strongest sense
 
-picturesque. Caliban and the two shipwrecked drunkards are an admirable
+picturesque. [[Caliban]] and the two shipwrecked drunkards are an admirable
 
-symbol; but they are also an admirable scene. Bottom, with the ass's
+symbol; but they are also an admirable scene. [[Bottom]], with the ass's
 
-head, sitting in a ring of elves, is excellent moving comedy, but also
+head, sitting in a ring of elves, is excellent moving [[Comedy|comedy]], but also
 
-excellent still life. Falstaff with his huge body, Bardolph with his
+excellent still life. [[Falstaff]] with his huge [[Body|body]], Bardolph with his
 
 burning nose, are masterpieces of the pen; but they would be fine
 
-sketches even for the pencil. King Lear, in the storm, is a landscape as
+sketches even for the pencil. [[King Lear]], in the [[Storm|storm]], is a landscape as
 
-well as a character study. There is something decorative even about the
+[[Well|well]] as a character study. There is something decorative even about the
 
-insistence on the swarthiness of Othello, or the deformity of Richard
+insistence on the swarthiness of [[Othello]], or the deformity of [[Richard]]
 
 III. Shakespeare's work is much more than picturesque; but it is
 
 picturesque. And the same which is said here of him by way of example is
 
-largely true of the highest class of literature. Dante's _Divine Comedy_
+largely true of the highest class of literature. [[Dante]]'s _Divine Comedy_
 
-is supremely important as a philosophy; but it is important merely as a
+is supremely important as a [[philosophy]]; but it is important merely as a
 
-panorama. Spenser's _Faery Queen_ pleases us as an allegory; but it
+panorama. Spenser's _Faery Queen_ pleases us as an [[Allegory|allegory]]; but it
 
 would please us even as a wall-paper. Stronger still is the case of
 
@@ -4351,15 +4351,15 @@ contrasts. It brings together types that stand out from their
 
 background, but are abruptly different from each other, like the clown
 
-among the fairies or the fool in the forest. And his audacious
+among the fairies or the [[Fool|fool]] in the forest. And his audacious
 
-reconciliation is a mark not of frivolity but of extreme seriousness. A
+[[Reconciliation|reconciliation]] is a mark not of frivolity but of extreme seriousness. A
 
-man who deals in harmonies, who only matches stars with angels or lambs
+man who deals in harmonies, who only matches [[Stars|stars]] with angels or lambs
 
-with spring flowers, he indeed may be frivolous; for he is taking one
+with [[spring]] [[Flowers|flowers]], he indeed may be frivolous; for he is taking one
 
-mood at a time, and perhaps forgetting each mood as it passes. But a man
+mood at a [[Time|time]], and perhaps forgetting each mood as it passes. But a man
 
 who ventures to combine an angel and an octopus must have some serious
 
@@ -4371,19 +4371,19 @@ should write a dialogue between an early Christian and the Missing Link
 
 would have to be a philosopher. The more widely different the types
 
-talked of, the more serious and universal must be the philosophy which
+talked of, the more serious and universal must be the [[philosophy]] which
 
 talks of them. The mark of the light and thoughtless writer is the
 
 harmony of his subject matter; the mark of the thoughtful writer is its
 
-apparent diversity. The most flippant lyric poet might write a pretty
+apparent diversity. The most flippant [[Lyric|lyric]] poet might write a pretty
 
 poem about lambs; but it requires something bolder and graver than a
 
-poet, it requires an ecstatic prophet, to talk about the lion lying down
+poet, it requires an ecstatic [[Prophet|prophet]], to talk about the [[Lion|lion]] lying down
 
-with the lamb.
+with the [[Lamb|lamb]].
 
 Dickens, at any rate, strongly supports this conception: that great
 
@@ -4403,55 +4403,55 @@ connected with the fact that he is a member of the Ebenezer Temperance
 
 Association; Quilp is little, because a little of him goes a long way.
 
-Mr. Carker smiles and smiles and is a villain; Mr. Chadband is fat
+Mr. Carker smiles and smiles and is a [[Villain|villain]]; Mr. Chadband is fat
 
 because in his case to be fat is to be hated. The story is immeasurably
 
 more important than the picture; it is not mere indulgence in the
 
-picturesque. Generally it is an intellectual love of the comic; not a
+picturesque. Generally it is an intellectual [[Love|love]] of the comic; not a
 
-pure love of the grotesque.
+pure [[Love|love]] of the [[Grotesque|grotesque]].
 
-But in one book Dickens suddenly confesses that he likes the grotesque
+But in one book Dickens suddenly confesses that he likes the [[Grotesque|grotesque]]
 
 even without the comic. In one case he makes clear that he enjoys pure
 
-pictures with a pure love of the picturesque. That place is _Barnaby
+pictures with a pure [[Love|love]] of the picturesque. That place is _Barnaby
 
 Rudge_. There had indeed been hints of it in many episodes in his books;
 
-notably, for example, in that fine scene of the death of Quilp--a scene
+notably, for example, in that fine scene of the [[Death|death]] of Quilp--a scene
 
-in which the dwarf remains fantastic long after he has ceased to be in
+in which the [[Dwarf|dwarf]] remains fantastic long after he has ceased to be in
 
-any way funny. Still, the dwarf was meant to be funny. Humour of a
+any way funny. Still, the [[Dwarf|dwarf]] was meant to be funny. [[Humour]] of a
 
-horrible kind, but still humour, is the purpose of Quilp's existence and
+horrible kind, but still [[Humour|humour]], is the purpose of Quilp's existence and
 
 position in the book. Laughter is the object of all his oddities. But
 
-laughter is not the object of Barnaby Rudge's oddities. His idiot
+laughter is not the object of [[Barnaby Rudge]]'s oddities. His idiot
 
 costume and his ugly raven are used for the purpose of the pure
 
-grotesque; solely to make a certain kind of Gothic sketch.
+[[Grotesque|grotesque]]; solely to make a certain kind of Gothic [[Sketch|sketch]].
 
-It is commonly this love of pictures that drives men back upon the
+It is commonly this [[Love|love]] of pictures that drives men back upon the
 
-historical novel. But it is very typical of Dickens's living interest in
+[[Historical Novel|historical novel]]. But it is very typical of Dickens's living interest in
 
-his own time, that though he wrote two historical novels they were
+his own [[Time|time]], that though he wrote two historical novels they were
 
-neither of them of very ancient history. They were both, indeed, of very
+neither of them of very ancient [[history]]. They were both, indeed, of very
 
-recent history; only they were those parts of recent history which were
+recent [[history]]; only they were those parts of recent [[history]] which were
 
 specially picturesque. I do not think that this was due to any mere
 
-consciousness on his part that he knew no history. Undoubtedly he knew
+consciousness on his part that he knew no [[history]]. Undoubtedly he knew
 
-no history; and he may or may not have been conscious of the fact. But
+no [[history]]; and he may or may not have been conscious of the fact. But
 
 the consciousness did not prevent him from writing a _History of
 
@@ -4461,19 +4461,19 @@ works with tales of the pictorial past, such as the tale of the broken
 
 swords in _Master Humphrey's Clock_, or the indefensibly delightful
 
-nightmare of the lady in the stage-coach, which helps to soften the
+[[nightmare]] of the lady in the stage-coach, which helps to soften the
 
-amiable end of Pickwick. Neither, worst of all, did it prevent him from
+amiable end of [[Pickwick]]. Neither, worst of all, did it prevent him from
 
 dogmatising anywhere and everywhere about the past, of which he knew
 
-nothing; it did not prevent him from telling the bells to tell Trotty
+nothing; it did not prevent him from telling [[The Bells|the bells]] to tell Trotty
 
 Veck that the Middle Ages were a failure, nor from solemnly declaring
 
-that the best thing that the mediæval monks ever did was to create the
+that the best thing that the mediæval [[Monks|monks]] ever did was to create the
 
-mean and snobbish quietude of a modern cathedral city. No, it was not
+mean and snobbish quietude of a modern [[Cathedral|cathedral]] [[City|city]]. No, it was not
 
 historical reverence that held him back from dealing with the remote
 
@@ -4481,23 +4481,23 @@ past; but rather something much better--a living interest in the living
 
 century in which he was born. He would have thought himself quite
 
-intellectually capable of writing a novel about the Council of Trent or
+intellectually capable of writing a [[Novel|novel]] about the Council of Trent or
 
 the First Crusade. He would have thought himself quite equal to
 
-analysing the psychology of Abelard or giving a bright, satiric sketch
+analysing the psychology of Abelard or giving a bright, satiric [[Sketch|sketch]]
 
 of St. Augustine. It must frankly be confessed that it was not a sense
 
-of his own unworthiness that held him back; I fear it was rather a sense
+of his own unworthiness that held him back; I [[Fear|fear]] it was rather a sense
 
 of St. Augustine's unworthiness. He could not see the point of any
 
-history before the first slow swell of the French Revolution. He could
+[[history]] before the first slow swell of the [[French Revolution]]. He could
 
 understand the revolutions of the eighteenth century; all the other
 
-revolutions of history (so many and so splendid) were unmeaning to him.
+revolutions of [[history]] (so many and so splendid) were unmeaning to him.
 
 But the revolutions of the eighteenth century he did understand; and to
 
@@ -4515,7 +4515,7 @@ eighteenth-century revolutions may seem to differ, and perhaps do
 
 differ in everything except in being revolutions and of the eighteenth
 
-century. The French Revolution, which is the theme of _A Tale of Two
+century. The [[French Revolution]], which is the theme of _A Tale of Two
 
 Cities_, was a revolt in favour of all that is now called enlightenment
 
@@ -4527,21 +4527,21 @@ mere ignorant and obscurantist Protestantism. Nevertheless both belonged
 
 more typically to the age out of which Dickens came--the great sceptical
 
-and yet creative eighteenth century of Europe. Whether the mob rose on
+and yet creative eighteenth century of Europe. Whether the mob [[Rose|rose]] on
 
-the right side or the wrong they both belonged to the time in which a
+the right side or the wrong they both belonged to the [[Time|time]] in which a
 
 mob could rise, in which a mob could conquer. No growth of intellectual
 
 science or of moral cowardice had made it impossible to fight in the
 
-streets, whether for the republic or for the Bible. If we wish to know
+streets, whether for the republic or for the [[Bible]]. If we wish to know
 
-what was the real link, existing actually in ultimate truth, existing
+what was the real link, existing actually in ultimate [[Truth|truth]], existing
 
 unconsciously in Dickens's mind, which connected the Gordon Riots with
 
-the French Revolution, the link may be defined though not with any great
+the [[French Revolution]], the link may be defined though not with any great
 
 adequacy. The nearest and truest way of stating it is that neither of
 
@@ -4549,19 +4549,19 @@ the two could possibly happen in Fleet Street to-morrow evening.
 
 Another point of resemblance between the two books might be found in the
 
-fact that they both contain the sketch of the same kind of
+fact that they both contain the [[Sketch|sketch]] of the same kind of
 
-eighteenth-century aristocrat, if indeed that kind of aristocrat really
+eighteenth-century [[aristocrat]], if indeed that kind of [[aristocrat]] really
 
 existed in the eighteenth century. The diabolical dandy with the rapier
 
 and the sneer is at any rate a necessity of all normal plays and
 
-romances; hence Mr. Chester has a right to exist in this romance, and
+romances; hence Mr. Chester has a right to exist in this [[Romance|romance]], and
 
-Foulon a right to exist in a page of history almost as cloudy and
+Foulon a right to exist in a page of [[history]] almost as cloudy and
 
-disputable as a romance. What Dickens and other romancers do probably
+disputable as a [[Romance|romance]]. What Dickens and other romancers do probably
 
 omit from the picture of the eighteenth-century oligarch is probably his
 
@@ -4569,7 +4569,7 @@ liberality. It must never be forgotten that even when he was a despot in
 
 practice he was generally a liberal in theory. Dickens and romancers
 
-make the pre-revolution tyrant a sincere believer in tyranny; generally
+make the pre-revolution [[Tyrant|tyrant]] a sincere believer in tyranny; generally
 
 he was not. He was a sceptic about everything, even about his own
 
@@ -4581,7 +4581,7 @@ at all) probably said it as a sort of dreary joke because he couldn't
 
 think of any other way out of the problem. Similarly Mr. Chester, a
 
-cynic as he is, believes seriously in the beauty of being a gentleman; a
+cynic as he is, believes seriously in the [[Beauty|beauty]] of being a gentleman; a
 
 real man of that type probably disbelieved in that as in everything
 
@@ -4589,11 +4589,11 @@ else. Dickens was too bracing, one may say too bouncing himself to
 
 understand the psychology of fatigue in a protected and leisured class.
 
-He could understand a tyrant like Quilp, a tyrant who is on his throne
+He could understand a [[Tyrant|tyrant]] like Quilp, a [[Tyrant|tyrant]] who is on his throne
 
 because he has climbed up into it, like a monkey. He could not
 
-understand a tyrant who is on his throne because he is too weary to get
+understand a [[Tyrant|tyrant]] who is on his throne because he is too weary to get
 
 out of it. The old aristocrats were in a dead way quite good-natured.
 
@@ -4605,11 +4605,11 @@ they were tired humanitarians; tired with doing nothing. Figures like
 
 that of Mr. Chester, therefore, fail somewhat to give the true sense of
 
-something hopeless and helpless which led men to despair of the upper
+something hopeless and helpless which led men to [[Despair|despair]] of the upper
 
 class. He has a boyish pleasure in play-acting; he has an interest in
 
-life; being a villain is his hobby. But the true man of that type had
+life; being a [[Villain|villain]] is his hobby. But the true man of that type had
 
 found all hobbies fail him. He had wearied of himself as he had wearied
 
@@ -4637,33 +4637,33 @@ intolerable in all the half hours during which nothing whatever is said
 
 or done. We are entering again into the mind, into the real mind of
 
-Foulon and Mr. Chester. We begin to understand the deep despair of those
+Foulon and Mr. Chester. We begin to understand the deep [[Despair|despair]] of those
 
 tyrants whom our fathers pulled down. But Dickens could never have
 
-understood that despair; it was not in his soul. And it is an
+understood that [[Despair|despair]]; it was not in his [[Soul|soul]]. And it is an
 
 interesting coincidence that here, in this book of _Barnaby Rudge_,
 
-there is a character meant to be wholly grotesque, who, nevertheless,
+there is a character meant to be wholly [[Grotesque|grotesque]], who, nevertheless,
 
 expresses much of that element in Dickens which prevented him from being
 
-a true interpreter of the tired and sceptical aristocrat.
+a true interpreter of the tired and sceptical [[aristocrat]].
 
-Sim Tappertit is a fool, but a perfectly honourable fool. It requires
+Sim Tappertit is a [[Fool|fool]], but a perfectly honourable [[Fool|fool]]. It requires
 
 some sincerity to pose. Posing means that one has not dried up in
 
-oneself all the youthful and innocent vanities with the slow paralysis
+oneself all the youthful and [[Innocent|innocent]] vanities with the slow paralysis
 
-of mere pride. Posing means that one is still fresh enough to enjoy the
+of mere [[Pride|pride]]. Posing means that one is still fresh enough to enjoy the
 
 good opinion of one's fellows. On the other hand, the true cynic has not
 
-enough truth in him to attempt affectation; he has never even seen the
+enough [[Truth|truth]] in him to attempt affectation; he has never even seen the
 
-truth, far less tried to imitate it. Now we might very well take the
+[[Truth|truth]], far less tried to imitate it. Now we might very [[Well|well]] take the
 
 type of Mr. Chester on the one hand, and of Sim Tappertit on the other,
 
@@ -4687,7 +4687,7 @@ revolution thought itself rational; but so did Sim Tappertit. It was
 
 really a huge revolt of romanticism against a reason which had grown
 
-sick even of itself. Sim Tappertit rose against Mr. Chester; and, thank
+sick even of itself. Sim Tappertit [[Rose|rose]] against Mr. Chester; and, thank
 
 God! he put his foot upon his neck.
 
@@ -4695,25 +4695,25 @@ God! he put his foot upon his neck.
 
   From a bust by H. Dexter, executed during Dickens's first visit to
 
-  America.]
+  [[america|America]].]
 
 AMERICAN NOTES
 
 _American Notes_ was written soon after Dickens had returned from his
 
-first visit to America. That visit had, of course, been a great epoch in
+first visit to [[america|America]]. That visit had, of course, been a great epoch in
 
 his life; but how much of an epoch men did not truly realise until, some
 
-time after, in the middle of a quiet story about Salisbury and a
+[[Time|time]] after, in the middle of a quiet story about Salisbury and a
 
-ridiculous architect, his feelings flamed out and flared up to the stars
+ridiculous architect, his feelings flamed out and flared up to the [[Stars|stars]]
 
 in _Martin Chuzzlewit_. The _American Notes_ are, however, interesting,
 
 because in them he betrays his feelings when he does not know that he is
 
-betraying them. Dickens's first visit to America was, from his own point
+betraying them. Dickens's first visit to [[america|America]] was, from his own point
 
 of view, and at the beginning, a happy and festive experiment. It is
 
@@ -4733,11 +4733,11 @@ pure optimism; he believed so readily that men were going to be good to
 
 him that an injury to him was something more than an injury: it was a
 
-shock. What was the exact nature of the American shock must, however, be
+shock. What was the exact [[Nature|nature]] of the American shock must, however, be
 
 more carefully stated.
 
-The famous quarrel between Dickens and America, which finds its most
+The famous quarrel between Dickens and [[america|America]], which finds its most
 
 elaborate expression in _American Notes_, though its most brilliant
 
@@ -4749,13 +4749,13 @@ be said is this. This old Anglo-American quarrel was much more
 
 fundamentally friendly than most Anglo-American alliances. In Dickens's
 
-day each nation understood the other enough to argue. In our time
+day each nation understood the other enough to argue. In our [[Time|time]]
 
 neither nation understands itself even enough to quarrel. There was an
 
 English tradition, from Fox and eighteenth-century England; there was an
 
-American tradition from Franklin and eighteenth-century America; and
+American tradition from Franklin and eighteenth-century [[america|America]]; and
 
 they were still close enough together to discuss their differences with
 
@@ -4765,11 +4765,11 @@ eighteenth-century belief in a liberal civilisation was still a dogma;
 
 for dogma is the only thing that makes argument or reasoning possible.
 
-America, under all its swagger, did still really believe that Europe was
+[[america|America]], under all its swagger, did still really believe that Europe was
 
 its fountain and its mother, because Europe was more fully civilised.
 
-Dickens, under all his disgust, did still believe that America was in
+Dickens, under all his disgust, did still believe that [[america|America]] was in
 
 advance of Europe, because it was more democratic. It was an age, in
 
@@ -4785,21 +4785,21 @@ direction; and it is exactly about the direction that we disagree. Do
 
 not let us therefore be misled into any mistaken optimism or special
 
-self-congratulation upon what many people would call the improved
+[[Self|self]]-congratulation upon what many people would call the improved
 
-relations between England and America. The relations are improved
+relations between England and [[america|America]]. The relations are improved
 
-because America has finally become a foreign country. And with foreign
+because [[america|America]] has finally become a foreign country. And with foreign
 
 countries all sane men take care to exchange a certain consideration and
 
-courtesy. But even as late as the time of Dickens's first visit to the
+courtesy. But even as late as the [[Time|time]] of Dickens's first visit to the
 
-United States, we English still felt America as a colony; an insolent,
+United States, we English still felt [[america|America]] as a colony; an insolent,
 
 offensive, and even unintelligible colony sometimes, but still a colony;
 
-a part of our civilisation, a limb of our life. And America itself, as I
+a part of our civilisation, a limb of our life. And [[america|America]] itself, as I
 
 have said, under all its bounce and independence, really regarded us as
 
@@ -4811,9 +4811,9 @@ This tone, as a sort of family responsibility, can be felt quite
 
 specially all through the satires or suggestions of these _American
 
-Notes_. Dickens is cross with America because he is worried about
+Notes_. Dickens is [[Cross|cross]] with [[america|America]] because he is worried about
 
-America; as if he were its father. He explores its industrial, legal,
+[[america|America]]; as if he were its father. He explores its industrial, legal,
 
 and educational arrangements like a mother looking at the housekeeping
 
@@ -4827,11 +4827,11 @@ different from Dickens's characteristic way of dealing with a foreign
 
 country. In countries really foreign, such as France, Switzerland, and
 
-Italy, he had two attitudes, neither of them in the least worried or
+[[Italy]], he had two attitudes, neither of them in the least worried or
 
 paternal. When he found a thing in Europe which he did not understand,
 
-such as the Roman Catholic Church, he simply called it an old-world
+such as the Roman [[Catholic Church]], he simply called it an old-world
 
 superstition, and sat looking at it like a moonlit ruin. When he found
 
@@ -4845,11 +4845,11 @@ may be found in one of his letters, in which he describes the
 
 backwardness and idleness of Catholics who would not build a Birmingham
 
-in Italy. He seems quite unconscious of the obvious truth, that the
+in [[Italy]]. He seems quite unconscious of the obvious [[Truth|truth]], that the
 
-backwardness of Catholics was simply the refusal of Bob Cratchit to
+backwardness of Catholics was simply the refusal of [[Bob Cratchit]] to
 
-enter the house of Gradgrind. An example of the second attitude can be
+enter the [[house]] of Gradgrind. An example of the second attitude can be
 
 found in the purple patches of fun in _Mugby Junction_; in which the
 
@@ -4867,21 +4867,21 @@ friendly suggestions to the governors of Parisian prisons. Or if he
 
 does, it is in a different spirit; it is in the spirit of an ordinary
 
-tourist being shown over the Coliseum or the Pyramids. But he visited
+tourist being shown over [[The Coliseum|the Coliseum]] or the Pyramids. But he visited
 
-America in the spirit of a Government inspector dealing with something
+[[america|America]] in the spirit of a [[government|Government]] inspector dealing with something
 
 it was his duty to inspect. This is never felt either in his praise or
 
 blame of Continental countries. When he did not leave a foreign country
 
-to decay like a dead dog, he merely watched it at play like a kitten.
+to [[Decay|decay]] like a dead dog, he merely watched it at play like a kitten.
 
-France he mistook for a kitten. Italy he mistook for a dead dog.
+France he mistook for a kitten. [[Italy]] he mistook for a dead dog.
 
-But with America he could feel--and fear. There he could hate, because
+But with [[america|America]] he could feel--and [[Fear|fear]]. There he could hate, because
 
-he could love. There he could feel not the past alone nor the present,
+he could [[Love|love]]. There he could feel not the past [[Alone|alone]] nor the present,
 
 but the future also; and, like all brave men, when he saw the future he
 
@@ -4901,19 +4901,19 @@ the wrong one. The true patriot is always doubtful of victory; because
 
 he knows that he is dealing with a living thing; a thing with free will.
 
-To be certain of free will is to be uncertain of success.
+To be certain of free will is to be uncertain of [[success]].
 
 The subject matter of the real difference of opinion between Dickens and
 
-the public of America can only be understood if it is thus treated as a
+the public of [[america|America]] can only be understood if it is thus treated as a
 
 dispute between brothers about the destiny of a common heritage. The
 
 point at issue might be stated like this. Dickens, on his side, did not
 
-in his heart doubt for a moment that England would eventually follow
+in his heart [[Doubt|doubt]] for a moment that England would eventually follow
 
-America along the road towards real political equality and purely
+[[america|America]] along the [[Road|road]] towards real political equality and purely
 
 republican institutions. He lived, it must be remembered, before the
 
@@ -4921,7 +4921,7 @@ revival of aristocracy, which has since overwhelmed us--the revival of
 
 aristocracy worked through popular science and commercial dictatorship,
 
-and which has nowhere been more manifest than in America itself. He knew
+and which has nowhere been more manifest than in [[america|America]] itself. He knew
 
 nothing of this; in his heart he conceded to the Yankees that not only
 
@@ -4945,17 +4945,17 @@ had of current and present problems, though his criticism is useless to
 
 the point of nonentity about all things remote from him in style of
 
-civilisation or in time. His point about good manners is really
+civilisation or in [[Time|time]]. His point about good manners is really
 
 important. All his grumblings through this book of _American Notes_, all
 
-his shrieking satire in _Martin Chuzzlewit_ are expressions of a grave
+his shrieking [[Satire|satire]] in _Martin Chuzzlewit_ are expressions of a [[Grave|grave]]
 
-and reasonable fear he had touching the future of democracy. And
+and reasonable [[Fear|fear]] he had touching the future of [[democracy]]. And
 
 remember again what has been already remarked--instinctively he paid
 
-America the compliment of looking at her as the future of democracy.
+[[america|America]] the compliment of looking at her as the future of [[democracy]].
 
 The mistake which he attacked still exists. I cannot imagine why it is
 
@@ -4977,19 +4977,19 @@ certain Socialist leaders call each other Tom, Dick, and Harry;
 
 especially when Tom is accusing Harry of having basely imposed upon the
 
-well-known imbecility of Dick. There is something quite undemocratic in
+[[Well|well]]-known imbecility of Dick. There is something quite undemocratic in
 
 all men calling each other by the special and affectionate term
 
 "comrade"; especially when they say it with a sneer and smart inquiry
 
-about the funds. Democracy would be quite satisfied if every man called
+about the funds. [[democracy|Democracy]] would be quite satisfied if every man called
 
-every other man "sir." Democracy would have no conceivable reason to
+every other man "sir." [[democracy|Democracy]] would have no conceivable reason to
 
 complain if every man called every other man "your excellency" or "your
 
-holiness" or "brother of the sun and moon." The only democratic
+holiness" or "brother of the sun and [[Moon|moon]]." The only democratic
 
 essential is that it should be a term of dignity and that it should be
 
@@ -5001,7 +5001,7 @@ once was specially democratic. That involved equality certainly, but it
 
 was lacking in respect.
 
-Dickens saw America as markedly the seat of this danger. He saw that
+Dickens saw [[america|America]] as markedly the seat of this danger. He saw that
 
 there was a perilous possibility that republican ideals might be allied
 
@@ -5015,7 +5015,7 @@ hand to the plough, might put his feet on the tablecloth, and an
 
 impression prevail that it was all a part of the same rugged equality
 
-and freedom. Insolence might become a tradition. Bad manners might have
+and [[Freedom|freedom]]. Insolence might become a tradition. Bad manners might have
 
 all the sanctity of good manners. "There you are!" cries Martin
 
@@ -5029,23 +5029,23 @@ matter is that he would not thus have worried about the degradation of
 
 republican simplicity into general rudeness if he had not from first to
 
-last instinctively felt that America held human democracy in her hand,
+last instinctively felt that [[america|America]] held human [[democracy]] in her hand,
 
 to exalt it or to let it fall. In one of his gloomier moments he wrote
 
-down his fear that the greatest blow ever struck at liberty would be
+down his [[Fear|fear]] that the greatest blow ever struck at liberty would be
 
-struck by America in the failure of her mission upon the earth.
+struck by [[america|America]] in the failure of her mission upon the earth.
 
 This brings us to the other ground of his alarm--the matter of liberty
 
 of speech. Here also he was much more reasonable and philosophic than
 
-has commonly been realised. The truth is that the lurid individualism of
+has commonly been realised. The [[Truth|truth]] is that the lurid [[Individualism|individualism]] of
 
 Carlyle has, with its violent colours, "killed" the tones of most
 
-criticism of his time; and just as we can often see a scheme of
+criticism of his [[Time|time]]; and just as we can often see a scheme of
 
 decoration better if we cover some flaming picture, so you can judge
 
@@ -5057,37 +5057,37 @@ been the chief feature of modernity, but his judgments were often not
 
 only spiritually false, but really quite superficial. Dickens understood
 
-the danger of democracy far better than Carlyle; just as he understood
+the danger of [[democracy]] far better than Carlyle; just as he understood
 
-the merits of democracy far better than Carlyle. And of this fact we can
+the merits of [[democracy]] far better than Carlyle. And of this fact we can
 
 produce one plain evidence in the matter of which we speak. Carlyle, in
 
 his general dislike of the revolutionary movement, lumped liberty and
 
-democracy together and said that the chief objection to democracy was
+[[democracy]] together and said that the chief objection to [[democracy]] was
 
-that it involved the excess and misuse of liberty; he called democracy
+that it involved the excess and misuse of liberty; he called [[democracy]]
 
 "anarchy or no-rule." Dickens, with far more philosophical insight and
 
-spiritual delicacy, saw that the real danger of democracy is that it
+spiritual delicacy, saw that the real danger of [[democracy]] is that it
 
 tends to the very opposite of anarchy; even to the very opposite of
 
-liberty. He lamented in America the freedom of manners. But he lamented
+liberty. He lamented in [[america|America]] the [[Freedom|freedom]] of manners. But he lamented
 
-even more the absence of freedom of opinion. "I believe there is no
+even more the absence of [[Freedom|freedom]] of opinion. "I believe there is no
 
-country on the face of the earth," he says, "where there is less freedom
+country on the face of the earth," he says, "where there is less [[Freedom|freedom]]
 
 of opinion on any subject in reference to which there is a broad
 
 difference of opinion than in this. There! I write the words with
 
-reluctance, disappointment, and sorrow; but I believe it from the bottom
+reluctance, disappointment, and sorrow; but I believe it from the [[Bottom|bottom]]
 
-of my soul. The notion that I, a man alone by myself in America, should
+of my [[Soul|soul]]. The notion that I, a man [[Alone|alone]] by myself in [[america|America]], should
 
 venture to suggest to the Americans that there was one point on which
 
@@ -5099,7 +5099,7 @@ Halleck, Dana, Washington Allston--every man who writes in this country
 
 is devoted to the question, and not one of them _dares_ to raise his
 
-voice and complain of the atrocious state of the law. The wonder is that
+voice and complain of the atrocious state of the law. The [[Wonder|wonder]] is that
 
 a breathing man can be found with temerity enough to suggest to the
 
@@ -5109,31 +5109,31 @@ have seen the faces that I saw down both sides of the table at Hartford
 
 when I began to talk about Scott. I wish you could have heard how I gave
 
-it out. My blood so boiled when I thought of the monstrous injustice
+it out. My [[Blood|blood]] so boiled when I thought of the monstrous injustice
 
 that I felt as if I were twelve feet high when I thrust it down their
 
-throats." Dickens knew no history, but he had all history behind him in
+throats." Dickens knew no [[history]], but he had all [[history]] behind him in
 
-feeling that a pure democracy does tend, when it goes wrong, to be too
+feeling that a pure [[democracy]] does tend, when it goes wrong, to be too
 
-traditional and absolute. The truth is indeed a singular example of the
+traditional and absolute. The [[Truth|truth]] is indeed a singular example of the
 
-unfair attack upon democracy in our own time. Everybody can repeat the
+unfair attack upon [[democracy]] in our own [[Time|time]]. Everybody can repeat the
 
 platitude that the mob can be the greatest of all tyrants. But few
 
-realise or remember the corresponding truth which goes along with
+realise or remember the corresponding [[Truth|truth]] which goes along with
 
 it--that the mob is the only permanent and unassailable high priest.
 
-Democracy drives its traditions too hard; but democracy is the only
+[[democracy|Democracy]] drives its traditions too hard; but [[democracy]] is the only
 
 thing that keeps any traditions. An aristocracy must always be going
 
-after some new thing. The severity of democracy is far more of a virtue
+after some new thing. The severity of [[democracy]] is far more of a virtue
 
-than its liberty. The decorum of a democracy is far more of a danger
+than its liberty. The decorum of a [[democracy]] is far more of a danger
 
 than its lawlessness. Dickens discovered this in his great quarrels
 
@@ -5143,15 +5143,15 @@ opinion as if it were going to lynch him. But, fortunately for the
 
 purpose of this argument, there is no need to go back to the forties for
 
-such a case. Another great literary man has of late visited America; and
+such a case. Another great literary man has of late visited [[america|America]]; and
 
 it is possible that Maxim Gorky may be in a position to state how far
 
-democracy is likely to err on the side of mere liberty and laxity. He
+[[democracy]] is likely to err on the side of mere liberty and laxity. He
 
-may have found, like Dickens, some freedom of manners; he did not find
+may have found, like Dickens, some [[Freedom|freedom]] of manners; he did not find
 
-much freedom of morals.
+much [[Freedom|freedom]] of morals.
 
 Along with such American criticism should really go his very
 
@@ -5169,19 +5169,19 @@ Brighton. It is curious to note the contrast between the cheery, nay
 
 Cockney, contempt with which Dickens speaks of the American Indian and
 
-that chivalrous and pathetic essay in which Washington Irving celebrates
+that chivalrous and pathetic [[Essay|essay]] in which Washington Irving celebrates
 
 the virtues of the vanishing race. Between Washington Irving and his
 
-friend Charles Dickens there was always indeed this ironical comedy of
+friend Charles Dickens there was always indeed this ironical [[Comedy|comedy]] of
 
 inversion. It is amusing that the Englishman should have been the
 
 pushing and even pert modernist, and the American the stately
 
-antiquarian and lover of lost causes. But while a man of more mellow
+antiquarian and [[Lover|lover]] of lost causes. But while a man of more mellow
 
-sympathies may well dislike Dickens's dislike of savages, and even
+sympathies may [[Well|well]] dislike Dickens's dislike of savages, and even
 
 disdain his disdain, he ought to sharply remind himself of the admirable
 
@@ -5195,7 +5195,7 @@ have any right to sweep them away. We have no right to wrong the man, he
 
 means to say, even if he himself be a kind of wrong. Here we strike the
 
-ringing iron of the old conscience and sense of honour which marked the
+ringing iron of the old [[Conscience|conscience]] and sense of [[Honour|honour]] which marked the
 
 best men of his party and of his epoch. This rigid and even reluctant
 
@@ -5211,7 +5211,7 @@ because they are nasty, or the humanitarian who cannot be just to them
 
 without pretending that they are nice.
 
-PICTURES FROM ITALY
+PICTURES FROM [[Italy|ITALY]]
 
 The _Pictures from Italy_ are excellent in themselves and excellent as a
 
@@ -5227,7 +5227,7 @@ enjoy it. For no man can entirely enjoy that which he loves; contentment
 
 is always unpatriotic. The difference can indeed be put with approximate
 
-perfection in one phrase. In Italy he was on a holiday; in America he
+perfection in one phrase. In [[Italy]] he was on a holiday; in [[america|America]] he
 
 was on a tour. But indeed Dickens himself has quite sufficiently
 
@@ -5239,9 +5239,9 @@ especially in small matters. The _American Notes_ really are notes, like
 
 the notes of a student or a professional witness. The _Pictures from
 
-Italy_ are only pictures from Italy, like the miscellaneous pictures
+Italy_ are only pictures from [[Italy]], like the miscellaneous pictures
 
-that all tourists bring from Italy.
+that all tourists bring from [[Italy]].
 
 To take another and perhaps closer figure of speech, almost all
 
@@ -5287,11 +5287,11 @@ else. Perhaps the most attractive of them is the incomparable
 
 description of the Italian Marionette Theatre in which they acted a play
 
-about the death of Napoleon in St. Helena. The description is better
+about the [[Death|death]] of Napoleon in St. [[Helena]]. The description is better
 
 than that of Codlin and Short's Punch and Judy, and almost as good as
 
-that of Mrs. Jarley's Wax Works. Indeed the humour is similar; for Punch
+that of Mrs. Jarley's Wax Works. Indeed the [[Humour|humour]] is similar; for Punch
 
 is supposed to be funny, but Napoleon (as Mrs. Jarley said when asked if
 
@@ -5307,7 +5307,7 @@ for calling him General Bonaparte--"Sir Hudson Low, call me not thus; I
 
 am Napoleon, Emperor of the French." There is also something singularly
 
-gratifying about the scene of Napoleon's death, in which he lay in bed
+gratifying about the scene of Napoleon's [[Death|death]], in which he lay in bed
 
 with his little wooden hands outside the counterpane and the doctor (who
 
@@ -5321,7 +5321,7 @@ which Dickens probably valued highly. But it is not for such things that
 
 he is valued. In all his writings, from his most reasoned and sustained
 
-novel to his maddest private note, it is always this obstreperous
+[[Novel|novel]] to his maddest private note, it is always this obstreperous
 
 instinct for farce which stands out as his in the highest sense. His
 
@@ -5329,7 +5329,7 @@ wisdom is at the best talent, his foolishness is genius. Just that
 
 exuberant levity which we associate with a moment we associate in his
 
-case with immortality. It is said of certain old masonry that the mortar
+case with [[Immortality|immortality]]. It is said of certain old masonry that the mortar
 
 was so hard that it has survived the stones. So if Dickens could revisit
 
@@ -5345,7 +5345,7 @@ for ever.
 
   From a miniature by Margaret Gillies.]
 
-MARTIN CHUZZLEWIT
+[[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]
 
 There is a certain quality or element which broods over the whole of
 
@@ -5353,11 +5353,11 @@ _Martin Chuzzlewit_ to which it is difficult for either friends or foes
 
 to put a name. I think the reader who enjoys Dickens's other books has
 
-an impression that it is a kind of melancholy. There are grotesque
+an impression that it is a kind of [[Melancholy|melancholy]]. There are [[Grotesque|grotesque]]
 
 figures of the most gorgeous kind; there are scenes that are farcical
 
-even by the standard of the farcical license of Dickens; there is humour
+even by the standard of the farcical license of Dickens; there is [[Humour|humour]]
 
 both of the heaviest and of the lightest kind; there are two great comic
 
@@ -5365,7 +5365,7 @@ personalities who run like a rich vein through the whole story,
 
 Pecksniff and Mrs. Gamp; there is one blinding patch of brilliancy, the
 
-satire on American cant; there is Todgers's boarding-house; there is
+[[Satire|satire]] on American cant; there is Todgers's boarding-[[house]]; there is
 
 Bailey; there is Mr. Mould, the incomparable undertaker. But yet in
 
@@ -5375,9 +5375,9 @@ No one I think ever went to it in that mixed mood of a tired tenderness
 
 and a readiness to believe and laugh in which most of Dickens's novels
 
-are most enjoyed. We go for a particular novel to Dickens as we go for a
+are most enjoyed. We go for a particular [[Novel|novel]] to Dickens as we go for a
 
-particular inn. We go to the sign of the Pickwick Papers. We go to the
+particular inn. We go to the sign of the [[Pickwick]] Papers. We go to the
 
 sign of the Rudge and Raven. We go to the sign of the Old Curiosities.
 
@@ -5391,9 +5391,9 @@ happiness that we require. And as in the case of inns we also remember
 
 that while there was shelter in all and food in all and some kind of
 
-fire and some kind of wine in all, yet one has left upon us an
+[[Fire|fire]] and some kind of wine in all, yet one has left upon us an
 
-indescribable and unaccountable memory of mortality and decay, of
+indescribable and unaccountable [[Memory|memory]] of [[Mortality|mortality]] and [[Decay|decay]], of
 
 dreariness in the rooms and even of tastelessness in the banquet. So any
 
@@ -5401,7 +5401,7 @@ one who has enjoyed the stories of Dickens as they should be enjoyed has
 
 a nameless feeling that this one story is sad and almost sodden. Dickens
 
-himself had this feeling, though his breezy vanity forbade him to
+himself had this feeling, though his breezy [[Vanity|vanity]] forbade him to
 
 express it in so many words. In spite of Pecksniff, in spite of Mrs.
 
@@ -5411,27 +5411,27 @@ even lifelessly; he found the sales falling off; he fancied his
 
 popularity waning, and by a sudden impulse most inartistic and yet most
 
-artistic, he dragged in the episode of Martin's visit to America, which
+artistic, he dragged in the episode of Martin's visit to [[america|America]], which
 
-is the blazing jewel and the sudden redemption of the book. He wrote it
+is the blazing [[Jewel|jewel]] and the sudden redemption of the book. He wrote it
 
 at an uneasy and unhappy period of his life; when he had ceased
 
-wandering in America, but could not cease wandering altogether; when he
+wandering in [[america|America]], but could not cease wandering altogether; when he
 
 had lost his original routine of work which was violent but regular, and
 
-had not yet settled down to the full enjoyment of his success and his
+had not yet settled down to the full enjoyment of his [[success]] and his
 
 later years. He poured into this book genius that might make the
 
-mountains laugh, invention that juggled with the stars. But the book was
+[[Mountains|mountains]] laugh, invention that juggled with the [[Stars|stars]]. But the book was
 
 sad; and he knew it.
 
 The just reason for this is really interesting. Yet it is one that is
 
-not easy to state without guarding one's self on the one side or the
+not easy to state without guarding one's [[Self|self]] on the one side or the
 
 other against great misunderstandings; and these stipulations or
 
@@ -5447,9 +5447,9 @@ strict and narrow sense at any rate, Thackeray was a far greater
 
 novelist than Dickens. But Dickens certainly was the satirist. The
 
-essence of satire is that it perceives some absurdity inherent in the
+essence of [[Satire|satire]] is that it perceives some absurdity inherent in the
 
-logic of some position, and that it draws that absurdity out and
+[[logic]] of some position, and that it draws that absurdity out and
 
 isolates it, so that all can see it. Thus for instance when Dickens
 
@@ -5457,7 +5457,7 @@ says, "Lord Coodle would go out; Sir Thomas Doodle wouldn't come in; and
 
 there being no people to speak of in England except Coodle and Doodle
 
-the country has been without a Government"; when Dickens says this he
+the country has been without a [[government|Government]]"; when Dickens says this he
 
 suddenly pounces on and plucks out the one inherent absurdity in the
 
@@ -5473,9 +5473,9 @@ does remain the bold, bleak question which Dickens in substance asks,
 
 "Suppose I want somebody else who is neither Coodle nor Doodle." This is
 
-the great quality called satire; it is a kind of taunting
+the great quality called [[Satire|satire]]; it is a kind of taunting
 
-reasonableness; and it is inseparable from a certain insane logic which
+reasonableness; and it is inseparable from a certain insane [[logic]] which
 
 is often called exaggeration. Dickens was more of a satirist than
 
@@ -5491,9 +5491,9 @@ he emphasised them. Dickens drew a man's absurdity out of him; Thackeray
 
 left a man's absurdity in him. Of this last fact we can take any example
 
-we like; take for instance the comparison between the city man as
+we like; take for instance the comparison between the [[City|city]] man as
 
-treated by Thackeray in the most satiric of his novels, with the city
+treated by Thackeray in the most satiric of his novels, with the [[City|city]]
 
 man as treated by Dickens in one of the mildest and maturest of his.
 
@@ -5503,17 +5503,17 @@ character of Mr. Podsnap in _Our Mutual Friend_. In the case of Mr.
 
 Osborne there is nothing except the solid blocking in of a brutal dull
 
-convincing character. _Vanity Fair_ is not a satire on the City except
+convincing character. _Vanity Fair_ is not a [[Satire|satire]] on the [[City]] except
 
-in so far as it happens to be true. _Vanity Fair_ is not a satire on the
+in so far as it happens to be true. _Vanity Fair_ is not a [[Satire|satire]] on the
 
-City, in short, except in so far as the City is a satire on the City.
+[[City]], in short, except in so far as the [[City]] is a [[Satire|satire]] on the [[City]].
 
-But Mr. Podsnap is a pure satire; he is an extracting out of the City
+But Mr. Podsnap is a pure [[Satire|satire]]; he is an extracting out of the [[City]]
 
 man of those purely intellectual qualities which happen to make that
 
-kind of City man a particularly exasperating fool. One might almost say
+kind of [[City]] man a particularly exasperating [[Fool|fool]]. One might almost say
 
 that Mr. Podsnap is all Mr. Osborne's opinions separated from Mr.
 
@@ -5533,27 +5533,27 @@ portrait painter; but a man must have a serious intellect in order to be
 
 a caricaturist. He has to select what thing he will caricature. True
 
-satire is always of this intellectual kind; true satire is always, so
+[[Satire|satire]] is always of this intellectual kind; true [[Satire|satire]] is always, so
 
-to speak, a variation or fantasia upon the air of pure logic. The
+to speak, a variation or fantasia upon the air of pure [[logic]]. The
 
 satirist is the man who carries men's enthusiasm further than they carry
 
 it themselves. He outstrips the most extravagant fanatic. He is years
 
-ahead of the most audacious prophet. He sees where men's detached
+ahead of the most audacious [[Prophet|prophet]]. He sees where men's detached
 
 intellect will eventually lead them, and he tells them the name of the
 
 place--which is generally hell.
 
-Now of this detached and rational use of satire there is one great
+Now of this detached and rational use of [[Satire|satire]] there is one great
 
 example in this book. Even _Gulliver's Travels_ is hardly more
 
-reasonable than Martin Chuzzlewit's travels in the incredible land of
+reasonable than [[Martin Chuzzlewit]]'s travels in the incredible land of
 
-the Americans. Before considering the humour of this description in its
+the Americans. Before considering the [[Humour|humour]] of this description in its
 
 more exhaustive and liberal aspects, it may be first remarked that in
 
@@ -5563,13 +5563,13 @@ sharpens up his own more controversial and political intelligence. There
 
 are more things here than anywhere else in Dickens that partake of the
 
-nature of pamphleteering, of positive challenge, of sudden repartee, of
+[[Nature|nature]] of pamphleteering, of positive challenge, of sudden repartee, of
 
 pugnacious and exasperating query, in a word of everything that belongs
 
 to the pure art of controversy as distinct not only from the pure art of
 
-fiction but even also from the pure art of satire. I am inclined to
+fiction but even also from the pure art of [[Satire|satire]]. I am inclined to
 
 think (to put the matter not only shortly but clumsily) that Dickens was
 
@@ -5607,27 +5607,27 @@ not to the interest of a man to get drunk, but he does get drunk. This
 
 pugnacious atmosphere of parry and riposte must first of all be allowed
 
-for and understood in all the satiric excursus of Martin in America.
+for and understood in all the satiric excursus of Martin in [[america|America]].
 
-Dickens is arguing all the time; and, to do him justice, arguing very
+Dickens is arguing all the [[Time|time]]; and, to do him justice, arguing very
 
-well. These chapters are full not merely of exuberant satire on America
+[[Well|well]]. These chapters are full not merely of exuberant [[Satire|satire]] on [[america|America]]
 
 in the sense that Dotheboys Hall or Mr. Bumble's Workhouse are exuberant
 
-satires on England. They are full also of sharp argument with America as
+satires on England. They are full also of sharp argument with [[america|America]] as
 
 if the man who wrote expected retort and was prepared with rejoinder.
 
 The rest of the book, like the rest of Dickens's books, possesses
 
-humour. This part of the book, like hardly any of Dickens's books,
+[[Humour|humour]]. This part of the book, like hardly any of Dickens's books,
 
 possesses wit. The republican gentleman who receives Martin on landing
 
 is horrified on hearing an English servant speak of the employer as "the
 
-master." "There are no masters in America," says the gentleman. "All
+master." "There are no masters in [[america|America]]," says the gentleman. "All
 
 owners are they?" says Martin. This sort of verbal promptitude is out of
 
@@ -5639,9 +5639,9 @@ breaking out into a controversial lucidity, which is elsewhere not at
 
 all a part of his character. When they talk to him about the
 
-institutions of America he asks sarcastically whether bowie knives and
+institutions of [[america|America]] he asks sarcastically whether bowie knives and
 
-swordsticks and revolvers are the institutions of America. All this (if
+swordsticks and revolvers are the institutions of [[america|America]]. All this (if
 
 I may summarise) is expressive of one main fact. Being a satirist means
 
@@ -5651,35 +5651,35 @@ had this permanent quality of the philosopher about him, that he always
 
 remembered people by their opinions. Elijah Pogram was to him the man
 
-who said that "his boastful answer to the tyrant and the despot was that
+who said that "his boastful answer to the [[Tyrant|tyrant]] and the despot was that
 
-his bright home was the land of the settin' sun." Mr. Scadder and Mr.
+his bright [[Home|home]] was the land of the settin' sun." Mr. Scadder and Mr.
 
 Jefferson Brick were to him the men who said (in cooperation) that "the
 
-libation of freedom must sometimes be quaffed in blood." And in these
+libation of [[Freedom|freedom]] must sometimes be quaffed in [[Blood|blood]]." And in these
 
 chapters more than anywhere else he falls into the extreme habit of
 
-satire, that of treating people as if there were nothing about them
+[[Satire|satire]], that of treating people as if there were nothing about them
 
 except their opinions. It is therefore difficult to accept these pages
 
-as pages in a novel, splendid as they are considered as pages in a
+as pages in a [[Novel|novel]], splendid as they are considered as pages in a
 
-parody. I do not dispute that men have said and do say that "the
+[[Parody|parody]]. I do not dispute that men have said and do say that "the
 
-libation of freedom must sometimes be quaffed in blood," that "their
+libation of [[Freedom|freedom]] must sometimes be quaffed in [[Blood|blood]]," that "their
 
 bright homes are the land of the settin' sun," that "they taunt that
 
-lion," that "alone they dare him," or "that softly sleeps the calm ideal
+[[Lion|lion]]," that "[[Alone|alone]] they dare him," or "that softly sleeps the calm ideal
 
-in the whispering chambers of imagination." I have read too much
+in the whispering chambers of [[Imagination|imagination]]." I have read too much
 
 American journalism to deny that any of these sentences and any of these
 
-opinions may at some time or other have been uttered. I do not deny
+opinions may at some [[Time|time]] or other have been uttered. I do not deny
 
 that there are such opinions. But I do deny that there are such people.
 
@@ -5687,15 +5687,15 @@ Elijah Pogram had some other business in life besides defending
 
 defaulting postmasters; he must have been a son or a father or a husband
 
-or at least (admirable thought) a lover. Mr. Chollop had some moments in
+or at least (admirable thought) a [[Lover|lover]]. Mr. Chollop had some moments in
 
 his existence when he was not threatening his fellow-creatures with his
 
-sword-stick and his revolver. Of all this human side of such American
+[[Sword|sword]]-stick and his revolver. Of all this human side of such American
 
 types Dickens does not really give any hint at all. He does not suggest
 
-that the bully Chollop had even such coarse good-humour as bullies
+that the bully Chollop had even such coarse good-[[Humour|humour]] as bullies
 
 almost always have. He does not suggest that the humbug Elijah Pogram
 
@@ -5711,13 +5711,13 @@ is not describing characters, he is satirising fads. To put it more
 
 exactly, he is not describing characters; he is persecuting heresies.
 
-There is one thing really to be said against his American satire; it is
+There is one thing really to be said against his American [[Satire|satire]]; it is
 
 a serious thing to be said: it is an argument, and it is true. This can
 
-be said of Martin's wanderings in America, that from the time he lands
+be said of Martin's wanderings in [[america|America]], that from the [[Time|time]] he lands
 
-in America to the time he sets sail from it he never meets a living man.
+in [[america|America]] to the [[Time|time]] he sets sail from it he never meets a living man.
 
 He has travelled in the land of Laputa. All the people he has met have
 
@@ -5737,17 +5737,17 @@ themselves about the street. It may be admitted that Thackeray would not
 
 have allowed an absurd opinion to walk about the street without at least
 
-tying a man on to it for the sake of safety. But while this first truth
+tying a man on to it for the sake of safety. But while this first [[Truth|truth]]
 
-may be evident, the second truth which is the complement of it may
+may be evident, the second [[Truth|truth]] which is the complement of it may
 
 easily be forgotten. On the one hand there was no man who could so much
 
-enjoy mere intellectual satire apart from humanity as Dickens. On the
+enjoy mere intellectual [[Satire|satire]] apart from humanity as Dickens. On the
 
 other hand there was no man who, with another and more turbulent part of
 
-his nature, demanded humanity, and demanded its supremacy over
+his [[Nature|nature]], demanded humanity, and demanded its supremacy over
 
 intellect, more than Dickens. To put it shortly: there never was a man
 
@@ -5767,7 +5767,7 @@ not forget them he caricatured them. He was too emotional to regard them
 
 as anything but enemies, if they were not friends. He was too humane not
 
-to hate them. Charles Lamb said with his inimitable sleek pungency that
+to hate them. Charles [[Lamb]] said with his inimitable sleek pungency that
 
 he could read all the books there were; he excluded books that obviously
 
@@ -5791,7 +5791,7 @@ made up; they are not only different strands, they are even antagonistic
 
 strands. I mean that the whole of Dickens is made up of the strand of
 
-satire and the strand of sentimentalism; and the strand of satire is
+[[Satire|satire]] and the strand of sentimentalism; and the strand of [[Satire|satire]] is
 
 quite unnecessarily merciless and hostile, and the strand of
 
@@ -5799,11 +5799,11 @@ sentimentalism is quite unnecessarily humanitarian and even maudlin. On
 
 the proper interweaving of these two things depends the great part of
 
-Dickens's success in a novel. And by the consideration of them we can
+Dickens's [[success]] in a [[Novel|novel]]. And by the consideration of them we can
 
 probably best arrive at the solution of the particular emotional enigma
 
-of the novel called _Martin Chuzzlewit_.
+of the [[Novel|novel]] called _Martin Chuzzlewit_.
 
 _Martin Chuzzlewit_ is, I think, vaguely unsatisfactory to the reader,
 
@@ -5813,7 +5813,7 @@ _Martin Chuzzlewit_ more than anywhere else in Dickens's works, more
 
 even than in _Oliver Twist_, there is a predominance of the harsh and
 
-hostile sort of humour over the hilarious and the humane. It is absurd
+hostile sort of [[Humour|humour]] over the hilarious and the humane. It is absurd
 
 to lay down any such little rules for the testing of literature. But
 
@@ -5821,7 +5821,7 @@ this may be broadly said and yet with confidence: that Dickens is always
 
 at his best when he is laughing at the people whom he really admires. He
 
-is at his most humorous in writing of Mr. Pickwick, who represents
+is at his most humorous in writing of Mr. [[Pickwick]], who represents
 
 passive virtue. He is at his most humorous in writing of Mr. Sam
 
@@ -5837,19 +5837,19 @@ the majority of cases with the study of such genial and honourable
 
 eccentrics; if they are lunatics they are amiable lunatics. In the last
 
-important novel before _Martin Chuzzlewit_, _Barnaby Rudge_, the hero
+important [[Novel|novel]] before _Martin Chuzzlewit_, _Barnaby Rudge_, the [[Hero|hero]]
 
-himself is an amiable lunatic. In the novel before that, _The Old
+himself is an amiable lunatic. In the [[Novel|novel]] before that, _The Old
 
-Curiosity Shop_, the two comic figures, Dick Swiveller and the
+Curiosity Shop_, the two comic figures, [[Dick Swiveller]] and the
 
-Marchioness, are not only the most really entertaining, but also the
+[[Marchioness]], are not only the most really entertaining, but also the
 
 most really sympathetic characters in the book. Before that came _Oliver
 
 Twist_ (which is, I have said, an exception), and before that
 
-_Pickwick_, where the hero is, as Mr. Weller says, "an angel in
+_Pickwick_, where the [[Hero|hero]] is, as Mr. Weller says, "an angel in
 
 gaiters." Hitherto, then, on the whole, the central Dickens character
 
@@ -5857,7 +5857,7 @@ had been the man who gave to the poor many things, gold and wine and
 
 feasting and good advice; but among other things gave them a good laugh
 
-at himself. The jolly old English merchant of the Pickwick type was
+at himself. The jolly old English merchant of the [[Pickwick]] type was
 
 popular on both counts. People liked to see him throw his money in the
 
@@ -5875,13 +5875,13 @@ amusing even for Dickens, and who are both especially heartless and
 
 abominable even for Dickens--I mean of course Mr. Pecksniff on the one
 
-hand and Mrs. Gamp on the other. The humour of both of them is
+hand and Mrs. Gamp on the other. The [[Humour|humour]] of both of them is
 
-gigantesque. Nobody will ever forget the first time he read the words
+gigantesque. Nobody will ever forget the first [[Time|time]] he read the words
 
 "Now I should be very glad to see Mrs. Todgers's idea of a wooden leg."
 
-It is like remembering first love: there is still some sort of ancient
+It is like remembering first [[Love|love]]: there is still some sort of ancient
 
 sweetness and sting. I am afraid that, in spite of many criticisms to
 
@@ -5897,31 +5897,31 @@ have loved Pecksniff. Mr. Noyes thinks it clear that Dickens hated
 
 Pecksniff. I cannot believe it. Hatred does indeed linger round its
 
-object as much as love; but not in that way. Dickens is always making
+object as much as [[Love|love]]; but not in that way. Dickens is always making
 
-Pecksniff say things which have a wild poetical truth about them. Hatred
+Pecksniff say things which have a wild poetical [[Truth|truth]] about them. Hatred
 
-allows no such outbursts of original innocence. But however that may be
+allows no such outbursts of original [[innocence]]. But however that may be
 
 the broad fact remains--Dickens may or may not have loved Pecksniff
 
-comically, but he did not love him seriously; he did not respect him as
+comically, but he did not [[Love|love]] him seriously; he did not respect him as
 
-he certainly respected Sam Weller. The same of course is true of Mrs.
+he certainly respected [[Sam Weller]]. The same of course is true of Mrs.
 
 Gamp. To any one who appreciates her unctuous and sumptuous conversation
 
 it is difficult indeed not to feel that it would be almost better to be
 
-killed by Mrs. Gamp than to be saved by a better nurse. But the fact
+killed by Mrs. Gamp than to be saved by a better [[Nurse|nurse]]. But the fact
 
-remains. In this book Dickens has not allowed us to love the most absurd
+remains. In this book Dickens has not allowed us to [[Love|love]] the most absurd
 
 people seriously, and absurd people ought to be loved seriously.
 
-Pecksniff has to be amusing all the time; the instant he ceases to be
+Pecksniff has to be amusing all the [[Time|time]]; the instant he ceases to be
 
-laughable he becomes detestable. Pickwick can take his ease at his inn;
+laughable he becomes detestable. [[Pickwick]] can take his ease at his inn;
 
 he can be leisurely, he can be spacious; he can fall into moods of
 
@@ -5931,15 +5931,15 @@ forfeit the reader's concern, for he is a good man, and therefore even
 
 his dulness is beautiful, just as is the dulness of the animal. We can
 
-leave Pickwick a little while by the fire to think; for the thoughts of
+leave [[Pickwick]] a little while by the [[Fire|fire]] to think; for the thoughts of
 
-Pickwick, even if they were to go slowly, would be full of all the
+[[Pickwick]], even if they were to go slowly, would be full of all the
 
-things that all men care for--old friends and old inns and memory and
+things that all men care for--old friends and old inns and [[Memory|memory]] and
 
-the goodness of God. But we dare not leave Pecksniff alone for a moment.
+the goodness of God. But we dare not leave Pecksniff [[Alone|alone]] for a moment.
 
-We dare not leave him thinking by the fire, for the thoughts of
+We dare not leave him thinking by the [[Fire|fire]], for the thoughts of
 
 Pecksniff would be too frightful.
 
@@ -5961,7 +5961,7 @@ bustling, nineteenth-century man, full of the almost cock-sure
 
 common-sense of the utilitarian and liberal epoch, came to associate his
 
-name chiefly in literary history with the perpetuation of a half pagan
+name chiefly in literary [[history]] with the perpetuation of a half pagan
 
 and half Catholic festival which he would certainly have called an
 
@@ -5993,7 +5993,7 @@ of Scott's study he would certainly have read his brother novelist a
 
 lesson in no measured terms about the futility of thus fumbling in the
 
-dust-bins of old oppression and error. So far from Dickens being one of
+[[Dust|dust]]-bins of old oppression and error. So far from Dickens being one of
 
 those who like a thing because it is old, he was one of those cruder
 
@@ -6005,13 +6005,13 @@ who tries to uproot abuses; he was partly also that more suicidal kind
 
 of Radical who tries to uproot himself. In theory at any rate, he had no
 
-adequate conception of the importance of human tradition; in his time it
+adequate conception of the importance of human tradition; in his [[Time|time]] it
 
 had been twisted and falsified into the form of an opposition to
 
-democracy. In truth, of course, tradition is the most democratic of all
+[[democracy]]. In [[Truth|truth]], of course, tradition is the most democratic of all
 
-things, for tradition is merely a democracy of the dead as well as the
+things, for tradition is merely a [[democracy]] of the dead as [[Well|well]] as the
 
 living. But Dickens and his special group or generation had no grasp of
 
@@ -6037,7 +6037,7 @@ ritualism, doomed to disappear in the light of reason along with the
 
 Boy-Bishop and the Lord of Misrule, I am not sure that Dickens (though
 
-he was one of the readiest and most rapid masters of reply in history)
+he was one of the readiest and most rapid masters of reply in [[history]])
 
 would have found it very easy upon his own principles to answer. It was
 
@@ -6051,9 +6051,9 @@ intellect. There is a dark kinship and brotherhood of all mankind which
 
 is much too deep to be called heredity or to be in any way explained in
 
-scientific formulæ; blood is thicker than water and is especially very
+scientific formulæ; [[Blood|blood]] is thicker than [[Water|water]] and is especially very
 
-much thicker than water on the brain. But this unconscious and even
+much thicker than [[Water|water]] on the brain. But this unconscious and even
 
 automatic quality in Dickens's defence of the Christmas feast, this fact
 
@@ -6067,9 +6067,9 @@ subject itself. We must not ask Dickens what Christmas is, for with all
 
 his heat and eloquence he does not know. Rather we must ask Christmas
 
-what Dickens is--ask how this strange child of Christmas came to be born
+what Dickens is--ask how this strange [[Child|child]] of Christmas came to be born
 
-out of due time.
+out of due [[Time|time]].
 
 Dickens devoted his genius in a somewhat special sense to the
 
@@ -6085,11 +6085,11 @@ habitual, has something about it which renders artistic description
 
 almost impossible. There are twenty tiny minor poets who can describe
 
-fairly impressively an eternity of agony; there are very few even of the
+fairly impressively an [[Eternity|eternity]] of agony; there are very few even of the
 
 eternal poets who can describe ten minutes of satisfaction.
 
-Nevertheless, mankind being half divine is always in love with the
+Nevertheless, mankind being half divine is always in [[Love|love]] with the
 
 impossible, and numberless attempts have been made from the beginning of
 
@@ -6097,11 +6097,11 @@ human literature to describe a real state of felicity. Upon the whole, I
 
 think, the most successful have been the most frankly physical and
 
-symbolic; the flowers of Eden or the jewels of the New Jerusalem. Many
+symbolic; the [[Flowers|flowers]] of Eden or the jewels of the New Jerusalem. Many
 
 writers, for instance, have called the gold and chrysolite of the Holy
 
-City a vulgar lump of jewellery. But when these critics themselves
+[[City]] a vulgar lump of jewellery. But when these critics themselves
 
 attempt to describe their conceptions of future happiness, it is always
 
@@ -6111,19 +6111,19 @@ some priggish nonsense about "planes," about "cycles of fulfilment," or
 
 metaphor as a flower of Eden; a spiral is just as much a physical
 
-metaphor as a precious stone. But, after all, a garden is a beautiful
+metaphor as a precious stone. But, after all, a [[Garden|garden]] is a beautiful
 
 thing; whereas this is by no means necessarily true of a cycle, as can
 
-be seen in the case of a bicycle. A jewel, after all, is a beautiful
+be seen in the case of a bicycle. A [[Jewel|jewel]], after all, is a beautiful
 
 thing; but this is not necessarily so of a spiral, as can be seen in the
 
 case of a corkscrew. Nothing is gained by dropping the old material
 
-metaphors, which did hint at heavenly beauty, and adopting other
+metaphors, which did hint at heavenly [[Beauty|beauty]], and adopting other
 
-material metaphors which do not even give a hint of earthly beauty. This
+material metaphors which do not even give a hint of earthly [[Beauty|beauty]]. This
 
 modern or spiral method of describing indescribable happiness may, I
 
@@ -6131,7 +6131,7 @@ think, be dismissed. Then there has been another method which has been
 
 adopted by many men of a very real poetical genius. It was the method of
 
-the old pastoral poets like Theocritus. It was in another way that
+the old [[Pastoral|pastoral]] poets like Theocritus. It was in another way that
 
 adopted by the elegance and piety of Spenser. It was certainly expressed
 
@@ -6147,7 +6147,7 @@ the atmosphere of a commonwealth, the enduring climate of certain cities
 
 or islands. They poured forth treasures of the truest kind of
 
-imagination upon describing the happy lives and landscapes of Utopia or
+[[Imagination|imagination]] upon describing the happy lives and landscapes of Utopia or
 
 Atlantis or the Earthly Paradise. They traced with the most tender
 
@@ -6157,7 +6157,7 @@ its women; they used every ingenuity of colour or intricate shape to
 
 suggest its infinite delight. And what they succeeded in suggesting was
 
-always its infinite melancholy. William Morris described the Earthly
+always its infinite [[Melancholy|melancholy]]. William Morris described the Earthly
 
 Paradise in such a way that the only strong emotional note left on the
 
@@ -6165,7 +6165,7 @@ mind was the feeling of how homeless his travellers felt in that alien
 
 Elysium; and the reader sympathised with them, feeling that he would
 
-prefer not only Elizabethan England but even twentieth-century
+prefer not only [[Elizabethan England]] but even twentieth-century
 
 Camberwell to such a land of shining shadows. Thus literature has almost
 
@@ -6207,17 +6207,17 @@ The first quality is what may be called the dramatic quality. The
 
 happiness is not a state; it is a crisis. All the old customs
 
-surrounding the celebration of the birth of Christ are made by human
+surrounding the celebration of the birth of [[Christ]] are made by human
 
 instinct so as to insist and re-insist upon this crucial quality.
 
 Everything is so arranged that the whole household may feel, if
 
-possible, as a household does when a child is actually being born in it.
+possible, as a household does when a [[Child|child]] is actually being born in it.
 
 The thing is a vigil and a vigil with a definite limit. People sit up at
 
-night until they hear the bells ring. Or they try to sleep at night in
+[[Night|night]] until they hear [[The Bells|the bells]] ring. Or they try to [[Sleep|sleep]] at [[Night|night]] in
 
 order to see their presents the next morning. Everywhere there is a
 
@@ -6233,7 +6233,7 @@ instinct and the mother wit of the world has wisely put into the popular
 
 celebrations of Christmas, is also a quality which is essential in such
 
-romantic literature as Dickens wrote. In romantic literature the hero
+romantic literature as Dickens wrote. In romantic literature the [[Hero|hero]]
 
 and heroine must indeed be happy, but they must also be unexpectedly
 
@@ -6245,9 +6245,9 @@ Christmas.
 
 The second element to be found in all such festivity and all such
 
-romance is the element which is represented as well as it could be
+[[Romance|romance]] is the element which is represented as [[Well|well]] as it could be
 
-represented by the mere fact that Christmas occurs in the winter. It is
+represented by the mere fact that Christmas occurs in the [[Winter|winter]]. It is
 
 the element not merely of contrast, but actually of antagonism. It
 
@@ -6257,7 +6257,7 @@ of such ceremonies or such banquets. If we are carousing, at least we
 
 are warriors carousing. We hang above us, as it were, the shields and
 
-battle-axes with which we must do battle with the giants of the snow and
+battle-axes with which we must do battle with the giants of the [[Snow|snow]] and
 
 hail. All comfort must be based on discomfort. Man chooses when he
 
@@ -6265,7 +6265,7 @@ wishes to be most joyful the very moment when the whole material
 
 universe is most sad. It is this contradiction and mystical defiance
 
-which gives a quality of manliness and reality to the old winter feasts
+which gives a quality of manliness and reality to the old [[Winter|winter]] feasts
 
 which is not characteristic of the sunny felicities of the Earthly
 
@@ -6279,7 +6279,7 @@ artificially easy: on the contrary, it was rather to make everything
 
 artificially difficult. Idealism is not only expressed by shooting an
 
-arrow at the stars; the fundamental principle of idealism is also
+arrow at the [[Stars|stars]]; the fundamental principle of idealism is also
 
 expressed by putting a leg of mutton at the top of a greasy pole. There
 
@@ -6299,17 +6299,17 @@ the connection of this kind of historic instinct with a romantic writer
 
 like Dickens. The healthy novelist must always play snapdragon with his
 
-principal characters; he must always be snatching the hero and heroine
+principal characters; he must always be snatching the [[Hero|hero]] and heroine
 
-like raisins out of the fire.
+like raisins out of the [[Fire|fire]].
 
-The third great Christmas element is the element of the grotesque. The
+The third great Christmas element is the element of the [[Grotesque|grotesque]]. The
 
-grotesque is the natural expression of joy; and all the Utopias and new
+[[Grotesque|grotesque]] is the natural expression of joy; and all the Utopias and new
 
 Edens of the poets fail to give a real impression of enjoyment, very
 
-largely because they leave out the grotesque. A man in most modern
+largely because they leave out the [[Grotesque|grotesque]]. A man in most modern
 
 Utopias cannot really be happy; he is too dignified. A man in Morris's
 
@@ -6319,13 +6319,13 @@ decorative. When real human beings have real delights they tend to
 
 express them entirely in grotesques--I might almost say entirely in
 
-goblins. On Christmas Eve one may talk about ghosts so long as they are
+goblins. On Christmas Eve one may talk about [[Ghosts|ghosts]] so long as they are
 
-turnip ghosts. But one would not be allowed (I hope, in any decent
+turnip [[Ghosts|ghosts]]. But one would not be allowed (I [[Hope|hope]], in any decent
 
 family) to talk on Christmas Eve about astral bodies. The boar's head of
 
-old Yule-time was as grotesque as the donkey's head of Bottom the
+old Yule-[[Time|time]] was as [[Grotesque|grotesque]] as the [[donkey]]'s head of [[Bottom]] the
 
 Weaver. But there is only one set of goblins quite wild enough to
 
@@ -6337,17 +6337,17 @@ Arcadian poets and Arcadian painters have striven to express happiness
 
 by means of beautiful figures. Dickens understood that happiness is best
 
-expressed by ugly figures. In beauty, perhaps, there is something allied
+expressed by ugly figures. In [[Beauty|beauty]], perhaps, there is something allied
 
-to sadness; certainly there is something akin to joy in the grotesque,
+to sadness; certainly there is something akin to joy in the [[Grotesque|grotesque]],
 
 nay, in the uncouth. There is something mysteriously associated with
 
-happiness not only in the corpulence of Falstaff and the corpulence of
+happiness not only in the corpulence of [[Falstaff]] and the corpulence of
 
-Tony Weller, but even in the red nose of Bardolph or the red nose of Mr.
+[[Tony Weller]], but even in the red nose of Bardolph or the red nose of Mr.
 
-Stiggins. A thing of beauty is an inspiration for ever--a matter of
+Stiggins. A thing of [[Beauty|beauty]] is an inspiration for ever--a matter of
 
 meditation for ever. It is rather a thing of ugliness that is strictly a
 
@@ -6359,7 +6359,7 @@ two or three famous Yuletide tales--The _Christmas Carol_ and _The
 
 Chimes_ and _The Cricket on the Hearth_. Of these _The Christmas Carol_
 
-is beyond comparison the best as well as the most popular. Indeed,
+is beyond comparison the best as [[Well|well]] as the most popular. Indeed,
 
 Dickens is in so profound and spiritual a sense a popular author that in
 
@@ -6367,13 +6367,13 @@ his case, unlike most others, it can generally be said that the best
 
 work is the most popular. It is for _Pickwick_ that he is best known;
 
-and upon the whole it is for Pickwick that he is best worth knowing. In
+and upon the whole it is for [[Pickwick]] that he is best worth knowing. In
 
 any case this superiority of _The Christmas Carol_ makes it convenient
 
 for us to take it as an example of the generalisations already made. If
 
-we study the very real atmosphere of rejoicing and of riotous charity in
+we study the very real atmosphere of rejoicing and of riotous [[Charity|charity]] in
 
 _The Christmas Carol_ we shall find that all the three marks I have
 
@@ -6381,9 +6381,9 @@ mentioned are unmistakably visible. _The Christmas Carol_ is a happy
 
 story first, because it describes an abrupt and dramatic change. It is
 
-not only the story of a conversion, but of a sudden conversion; as
+not only the story of a [[conversion]], but of a sudden [[conversion]]; as
 
-sudden as the conversion of a man at a Salvation Army meeting. Popular
+sudden as the [[conversion]] of a man at a Salvation Army meeting. Popular
 
 religion is quite right in insisting on the fact of a crisis in most
 
@@ -6393,13 +6393,13 @@ probably be converted from the punch bowl; whereas Scrooge was converted
 
 to it. That only means that Scrooge and Dickens represented a higher and
 
-more historic Christianity.
+more historic [[Christianity]].
 
 Again, _The Christmas Carol_ owes much of its hilarity to our second
 
-source--the fact of its being a tale of winter and of a very wintry
+source--the fact of its being a tale of [[Winter|winter]] and of a very wintry
 
-winter. There is much about comfort in the story; yet the comfort is
+[[Winter|winter]]. There is much about comfort in the story; yet the comfort is
 
 never enervating: it is saved from that by a tingle of something bitter
 
@@ -6407,7 +6407,7 @@ and bracing in the weather. Lastly, the story exemplifies throughout the
 
 power of the third principle--the kinship between gaiety and the
 
-grotesque. Everybody is happy because nobody is dignified. We have a
+[[Grotesque|grotesque]]. Everybody is happy because nobody is dignified. We have a
 
 feeling somehow that Scrooge looked even uglier when he was kind than he
 
@@ -6445,7 +6445,7 @@ something of the general character of novels in themselves. How
 
 essential this is we shall see shortly.
 
-It must first be remembered that the novel is the most typical of modern
+It must first be remembered that the [[Novel|novel]] is the most typical of modern
 
 forms. It is typical of modern forms especially in this, that it is
 
@@ -6453,43 +6453,43 @@ essentially formless. All the ancient modes or structures of literature
 
 were definite and severe. Any one composing them had to abide by their
 
-rules; they were what their name implied. Thus a tragedy might be a bad
+rules; they were what their name implied. Thus a [[Tragedy|tragedy]] might be a bad
 
-tragedy, but it was always a tragedy. Thus an epic might be a bad epic,
+[[Tragedy|tragedy]], but it was always a [[Tragedy|tragedy]]. Thus an [[Epic|epic]] might be a bad [[Epic|epic]],
 
-but it was always an epic. Now in the sense in which there is such a
+but it was always an [[Epic|epic]]. Now in the sense in which there is such a
 
-thing as an epic, in that sense there is no such thing as a novel. We
+thing as an [[Epic|epic]], in that sense there is no such thing as a [[Novel|novel]]. We
 
-call any long fictitious narrative in prose a novel, just as we call any
+call any long fictitious narrative in prose a [[Novel|novel]], just as we call any
 
-short piece of prose without any narrative an essay. Both these forms
+short piece of prose without any narrative an [[Essay|essay]]. Both these forms
 
 are really quite formless, and both of them are really quite new. The
 
-difference between a good epic by Mr. John Milton and a bad epic by Mr.
+difference between a good [[Epic|epic]] by Mr. John [[Milton]] and a bad [[Epic|epic]] by Mr.
 
-John Smith was simply the difference between the same thing done well
+John [[smith|Smith]] was simply the difference between the same thing done [[Well|well]]
 
 and the same thing done badly. But it was not (for instance) like the
 
-difference between _Clarissa Harlowe_ and _The Time Machine_. If we
+difference between _Clarissa Harlowe_ and _The [[Time]] Machine_. If we
 
 class Richardson's book with Mr. Wells's book it is really only for
 
 convenience; if we say that they are both novels we shall certainly be
 
-puzzled in that case to say what on earth a novel is. But the note of
+puzzled in that case to say what on earth a [[Novel|novel]] is. But the note of
 
 our age, both for good and evil, is a highly poetical and largely
 
-illogical faith in liberty. Liberty is not a negation or a piece of
+illogical [[Faith|faith]] in liberty. Liberty is not a negation or a piece of
 
 nonsense, as the cheap reactionaries say; it is a belief in variety and
 
 growth. But it is a purely poetic and even a merely romantic belief. The
 
-nineteenth century was an age of romance as certainly as the Middle Ages
+nineteenth century was an age of [[Romance|romance]] as certainly as the Middle Ages
 
 was an age of reason. Mediævals liked to have everything defined and
 
@@ -6503,29 +6503,29 @@ originally small things swollen to enormous size and power. The modern
 
 world is like a world in which toadstools should be as big as trees, and
 
-insects should walk about in the sun as large as elephants. Thus, for
+[[Insects|insects]] should walk about in the sun as large as elephants. Thus, for
 
 instance, the shopkeeper, almost an unimportant figure in carefully
 
-ordered states, has in our time become the millionaire, and has more
+ordered states, has in our [[Time|time]] become the millionaire, and has more
 
-power than ten kings. Thus again a practical knowledge of nature, of the
+power than ten kings. Thus again a practical knowledge of [[Nature|nature]], of the
 
-habits of animals or the properties of fire and water, was in the old
+habits of [[Animals|animals]] or the properties of [[Fire|fire]] and [[Water|water]], was in the old
 
 ordered state either an almost servile labour or a sort of joke; it was
 
-left to old women and gamekeepers and boys who went birds'-nesting. In
+left to old women and gamekeepers and boys who went [[Birds|birds]]'-nesting. In
 
-our time this commonplace daily knowledge has swollen into the enormous
+our [[Time|time]] this commonplace daily knowledge has swollen into the enormous
 
-miracle of physical size, weighing the stars and talking under the sea.
+miracle of physical size, weighing the [[Stars|stars]] and talking under the sea.
 
 In short, our age is a sort of splendid jungle in which some of the most
 
 towering weeds and blossoms have come from the smallest seed.
 
-And this is, generally speaking, the explanation of the novel. The novel
+And this is, generally speaking, the explanation of the [[Novel|novel]]. The [[Novel|novel]]
 
 is not so much the filling up of an artistic plan, however new or
 
@@ -6535,21 +6535,21 @@ and has often turned out much larger than the author intended. And this,
 
 lastly, is the final result of these facts, that the critic can
 
-generally trace in a novel what was the original artistic type or shape
+generally trace in a [[Novel|novel]] what was the original artistic type or shape
 
 of thought from which the whole matter started, and he will generally
 
-find that this is different in every case. In one novel he will find
+find that this is different in every case. In one [[Novel|novel]] he will find
 
-that the first impulse is a character. In another novel he will find
+that the first impulse is a character. In another [[Novel|novel]] he will find
 
 that the first impulse is a landscape, the atmosphere of some special
 
-countryside. In another novel he will find that the first impulse is the
+countryside. In another [[Novel|novel]] he will find that the first impulse is the
 
-last chapter. Or it may be a thrust with sword or dagger, it may be a
+last chapter. Or it may be a thrust with [[Sword|sword]] or dagger, it may be a
 
-theology, it may be a song. Somewhere embedded in every ordinary book
+theology, it may be a [[Song|song]]. Somewhere embedded in every ordinary book
 
 are the five or six words for which really all the rest will be written.
 
@@ -6557,9 +6557,9 @@ Some of our enterprising editors who set their readers to hunt for
 
 banknotes and missing ladies might start a competition for finding those
 
-words in every novel. But whether or no this is possible, there is no
+words in every [[Novel|novel]]. But whether or no this is possible, there is no
 
-doubt that the principle in question is of great importance in the case
+[[Doubt|doubt]] that the principle in question is of great importance in the case
 
 of Dickens, and especially in the case of _Dombey and Son_.
 
@@ -6581,17 +6581,17 @@ observation, Scott still retains a certain purely poetical right--a
 
 right to make his heroes and outlaws and great kings speak at the great
 
-moments with a rhetoric so rhythmical that it partakes of the nature of
+moments with a rhetoric so rhythmical that it partakes of the [[Nature|nature]] of
 
-song, the same quite metrical rhetoric which is used in the metrical
+[[Song|song]], the same quite metrical rhetoric which is used in the metrical
 
 speeches of Marmion or Roderick Dhu. In the same way, although _Don
 
-Quixote_ is a modern novel in its irony and subtlety, we can see that it
+Quixote_ is a modern [[Novel|novel]] in its irony and subtlety, we can see that it
 
 comes from the old long romances of chivalry. In the same way, although
 
-_Clarissa_ is a modern novel in its intimacy and actuality, we can see
+_Clarissa_ is a modern [[Novel|novel]] in its intimacy and actuality, we can see
 
 that it comes from the old polite letter-writing and polite essays of
 
@@ -6611,9 +6611,9 @@ the style, the rather fragmentary style, in which he was to write
 
 _Vanity Fair_. In most modern cases, in short (until very lately, at any
 
-rate), the novel is an enormous outgrowth from something that was not a
+rate), the [[Novel|novel]] is an enormous outgrowth from something that was not a
 
-novel. And in Dickens this is very important. All his novels are
+[[Novel|novel]]. And in Dickens this is very important. All his novels are
 
 outgrowths of the original notion of taking notes, splendid and
 
@@ -6631,9 +6631,9 @@ Dickens as a modern novelist and expecting all his books to be modern
 
 novels. Dickens did not know at what exact point he really turned into a
 
-novelist. Nor do we. Dickens did not know, in his deepest soul, whether
+novelist. Nor do we. Dickens did not know, in his deepest [[Soul|soul]], whether
 
-he ever really did turn into a novelist. Nor do we. The novel being a
+he ever really did turn into a novelist. Nor do we. The [[Novel|novel]] being a
 
 modern product is one of the few things to which we really can apply
 
@@ -6657,7 +6657,7 @@ constructor of fiction in the serious sense. Before _Dombey and Son_
 
 even his pathos had been really frivolous. After _Dombey and Son_ even
 
-his absurdity was intentional and grave.
+his absurdity was intentional and [[Grave|grave]].
 
 In case this transition is not understood, one or two tests may be taken
 
@@ -6677,23 +6677,23 @@ _Nicholas Nickleby_, in _Dombey and Son_, and in _David Copperfield_.
 
 But the difference is enormous. Dotheboys Hall does not exist to tell us
 
-anything about Nicholas Nickleby. Rather Nicholas Nickleby exists
+anything about [[Nicholas Nickleby]]. Rather [[Nicholas Nickleby]] exists
 
 entirely in order to tell us about Dotheboys Hall. It does not in any
 
-way affect his history or psychology; he enters Mr. Squeers's school and
+way affect his [[history]] or psychology; he enters Mr. Squeers's school and
 
-leaves Mr. Squeers's school with the same character, or rather absence
+[[Leaves|leaves]] Mr. Squeers's school with the same character, or rather absence
 
 of character. It is a mere episode, existing for itself. But when little
 
-Paul Dombey goes to an old-fashioned but kindly school, it is in a very
+[[Paul Dombey]] goes to an old-fashioned but kindly school, it is in a very
 
 different sense and for a very different reason from that for which
 
-Nicholas Nickleby goes to an old-fashioned and cruel school. The sending
+[[Nicholas Nickleby]] goes to an old-fashioned and cruel school. The sending
 
-of little Paul to Dr. Blimber's is a real part of the history of little
+of little Paul to Dr. Blimber's is a real part of the [[history]] of little
 
 Paul, such as it is. Dickens deliberately invents all that elderly
 
@@ -6701,7 +6701,7 @@ pedantry in order to show up Paul's childishness. Dickens deliberately
 
 invents all that rather heavy kindness in order to show up Paul's
 
-predestination and tragedy. Dotheboys Hall is not meant to show up
+predestination and [[Tragedy|tragedy]]. Dotheboys Hall is not meant to show up
 
 anything except Dotheboys Hall. But although Dickens doubtless enjoyed
 
@@ -6713,21 +6713,21 @@ foil to Nicholas; Nicholas is merely a lame excuse for Squeers. The
 
 change can be seen continued in the school, or rather the two schools,
 
-to which David Copperfield goes. The whole idea of David Copperfield's
+to which [[David Copperfield]] goes. The whole idea of [[David Copperfield]]'s
 
 life is that he had the dregs of life before the wine of it. He knew
 
-the worst of the world before he knew the best of it. His childhood at
+the worst of the world before he knew the best of it. His [[Childhood|childhood]] at
 
-Dr. Strong's is a second childhood. Now for this purpose the two schools
+Dr. Strong's is a second [[Childhood|childhood]]. Now for this purpose the two schools
 
-are perfectly well adapted. Mr. Creakle's school is not only, like Mr.
+are perfectly [[Well|well]] adapted. Mr. Creakle's school is not only, like Mr.
 
 Squeers's school, a bad school, it is a bad influence upon David
 
 Copperfield. Dr. Strong's school is not only a good school, it is a good
 
-influence upon David Copperfield. I have taken this case of the schools
+influence upon [[David Copperfield]]. I have taken this case of the schools
 
 as a case casual but concrete. The same, however, can be seen in any of
 
@@ -6735,39 +6735,39 @@ the groups or incidents of the novels on both sides of the boundary. Mr.
 
 Crummles's theatrical company is only a society that Nicholas happens to
 
-fall into. America is only a place to which Martin Chuzzlewit happens to
+fall into. [[america|America]] is only a place to which [[Martin Chuzzlewit]] happens to
 
 go. These things are isolated sketches, and nothing else. Even Todgers's
 
-boarding-house is only a place where Mr. Pecksniff can be delightfully
+boarding-[[house]] is only a place where Mr. Pecksniff can be delightfully
 
 hypocritical. It is not a place which throws any new light on Mr.
 
 Pecksniff's hypocrisy. But the case is different with that more subtle
 
-hypocrite in _Dombey and Son_--I mean Major Bagstock. Dickens does mean
+hypocrite in _Dombey and Son_--I mean [[Major Bagstock]]. Dickens does mean
 
 it as a deliberate light on Mr. Dombey's character that he basks with a
 
-fatuous calm in the blazing sun of Major Bagstock's tropical and
+fatuous calm in the blazing sun of [[Major Bagstock]]'s tropical and
 
 offensive flattery. Here, then, is the essence of the change. He not
 
-only wishes to write a novel; this he did as early as _Nicholas
+only wishes to write a [[Novel|novel]]; this he did as early as _Nicholas
 
-Nickleby_. He wishes to have as little as possible in the novel that
+Nickleby_. He wishes to have as little as possible in the [[Novel|novel]] that
 
-does not really assist it as a novel. Previously he had asked with the
+does not really assist it as a [[Novel|novel]]. Previously he had asked with the
 
-assistance of what incidents could his hero wander farther and farther
+assistance of what incidents could his [[Hero|hero]] wander farther and farther
 
 from the pathway. Now he has really begun to ask with the assistance of
 
-what incidents his hero can get nearer and nearer to the goal.
+what incidents his [[Hero|hero]] can get nearer and nearer to the goal.
 
 The change made Dickens a greater novelist. I am not sure that it made
 
-him a greater man. One good character by Dickens requires all eternity
+him a greater man. One good character by Dickens requires all [[Eternity|eternity]]
 
 to stretch its legs in; and the characters in his later books are always
 
@@ -6775,7 +6775,7 @@ being tripped up by some tiresome nonsense about the story. For
 
 instance, in _Dombey and Son_, Mrs. Skewton is really very funny. But
 
-nobody with a love of the real smell of Dickens would compare her for a
+nobody with a [[Love|love]] of the real smell of Dickens would compare her for a
 
 moment, for instance, with Mrs. Nickleby. And the reason of Mrs.
 
@@ -6789,7 +6789,7 @@ story, except to get in everybody's way. The consequence is that we
 
 complain not of her for getting in everyone's way, but of everyone for
 
-getting in hers. What are suns and stars, what are times and seasons,
+getting in hers. What are suns and [[Stars|stars]], what are times and [[Seasons|seasons]],
 
 what is the mere universe, that it should presume to interrupt Mrs.
 
@@ -6807,15 +6807,15 @@ adventurous filament of frail and daring folly. Nothing could be better
 
 than Mrs. Skewton when she finds herself, after convolutions of speech,
 
-somehow on the subject of Henry VIII., and pauses to mention with
+somehow on the subject of [[Henry VIII]]., and pauses to mention with
 
 approval "his dear little peepy eyes and his benevolent chin." Nothing
 
-could be better than her attempt at Mahomedan resignation when she feels
+could be better than her attempt at Mahomedan [[Resignation|resignation]] when she feels
 
 almost inclined to say "that there is no What's-his-name but Thingummy,
 
-and What-you-may-call-it is his prophet!" But she has not so much time
+and What-you-may-call-it is his [[Prophet|prophet]]!" But she has not so much [[Time|time]]
 
 as Mrs. Nickleby to say these good things; also she has not sufficient
 
@@ -6829,17 +6829,17 @@ shrivelled ear" to listen to what Dombey is saying to Edith. Worldliness
 
 is the most solemn thing in the world; it is far more solemn than
 
-other-worldliness. Mrs. Nickleby can afford to ramble as a child does in
+other-worldliness. Mrs. Nickleby can afford to ramble as a [[Child|child]] does in
 
-a field, or as a child does to laugh at nothing, for she is like a
+a field, or as a [[Child|child]] does to laugh at nothing, for she is like a
 
-child, innocent. It is only the good who can afford to be frivolous.
+[[Child|child]], [[Innocent|innocent]]. It is only the good who can afford to be frivolous.
 
 Broadly speaking, what is said here of Mrs. Skewton applies to the great
 
 part of _Dombey and Son_, even to the comic part of it. It shows an
 
-advance in art and unity; it does not show an advance in genius and
+advance in art and [[unity]]; it does not show an advance in genius and
 
 creation. In some cases, in fact, I cannot help feeling that it shows a
 
@@ -6849,13 +6849,13 @@ comic character really prominent in Dickens, upon whom Dickens has
 
 really lavished the wealth of his invention, and who does not amuse me
 
-at all, and that character is Captain Cuttle. But three great exceptions
+at all, and that character is [[Captain Cuttle]]. But three great exceptions
 
 must be made to any such disparagement of _Dombey and Son_. They are all
 
 three of that royal order in Dickens's creation which can no more be
 
-described or criticised than strong wine. The first is Major Bagstock,
+described or criticised than strong wine. The first is [[Major Bagstock]],
 
 the second is Cousin Feenix, the third is Toots. In Bagstock Dickens has
 
@@ -6863,7 +6863,7 @@ blasted for ever that type which pretends to be sincere by the simple
 
 operation of being explosively obvious. He tells about a quarter of the
 
-truth, and then poses as truthful because a quarter of the truth is much
+[[Truth|truth]], and then poses as truthful because a quarter of the [[Truth|truth]] is much
 
 simpler than the whole of it. He is the kind of man who goes about with
 
@@ -6883,9 +6883,9 @@ down in black and white, as if black and white were the only two
 
 colours; as if blue and green and red and gold were not facts of the
 
-universe. He is too selfish to tell the truth and too impatient even to
+universe. He is too selfish to tell the [[Truth|truth]] and too impatient even to
 
-hear it. He cannot endure the truth, because it is subtle. This man is
+hear it. He cannot endure the [[Truth|truth]], because it is subtle. This man is
 
 almost always like Bagstock--a sycophant and a toad-eater. A man is not
 
@@ -6919,45 +6919,45 @@ with--monsters like Sir Mulberry Hawk or Lord Verisopht. They are merely
 
 created upon the old principle, that your scoundrel must be polite and
 
-powerful--a very sound principle. The villain must be not only a
+powerful--a very sound principle. The [[Villain|villain]] must be not only a
 
-villain, but a tyrant. The giant must be larger than Jack. But in the
+[[Villain|villain]], but a [[Tyrant|tyrant]]. The giant must be larger than Jack. But in the
 
 books of the Dombey period we have many shrewd glimpses of the queer
 
 realities of English aristocracy. Of these Cousin Feenix is one of the
 
-best. Cousin Feenix is a much better sketch of the essentially decent
+best. Cousin Feenix is a much better [[Sketch|sketch]] of the essentially decent
 
-and chivalrous aristocrat than Sir Leicester Dedlock. Both of the men
+and chivalrous [[aristocrat]] than [[Sir Leicester Dedlock]]. Both of the men
 
 are, if you will, fools, as both are honourable gentlemen. But if one
 
-may attempt a classification among fools, Sir Leicester Dedlock is a
+may attempt a classification among fools, [[Sir Leicester Dedlock]] is a
 
-stupid fool, while Cousin Feenix is a silly fool--which is much better.
+stupid [[Fool|fool]], while Cousin Feenix is a silly [[Fool|fool]]--which is much better.
 
-The difference is that the silly fool has a folly which is always on the
+The difference is that the silly [[Fool|fool]] has a folly which is always on the
 
 borderland of wit, and even of wisdom; his wandering wits come often
 
-upon undiscovered truths. The stupid fool is as consistent and as
+upon undiscovered truths. The stupid [[Fool|fool]] is as consistent and as
 
 homogeneous as wood; he is as invincible as the ancestral darkness.
 
-Cousin Feenix is a good sketch of the sort of well-bred old ass who is
+Cousin Feenix is a good [[Sketch|sketch]] of the sort of [[Well|well]]-bred old ass who is
 
 so fundamentally genuine that he is always saying very true things by
 
 accident. His whole tone also, though exaggerated like everything in
 
-Dickens, is very true to the bewildered good nature which marks English
+Dickens, is very true to the bewildered good [[Nature|nature]] which marks English
 
 aristocratic life. The statement that Dickens could not describe a
 
 gentleman is, like most popular animadversions against Dickens, so very
 
-thin and one-sided a truth as to be for serious purposes a falsehood.
+thin and one-sided a [[Truth|truth]] as to be for serious purposes a falsehood.
 
 When people say that Dickens could not describe a gentleman, what they
 
@@ -6969,7 +6969,7 @@ that he could not take that atmosphere easily, accept it as the normal
 
 atmosphere, or describe that world from the inside. This is true. In
 
-Dickens's time there was such a thing as the English people, and Dickens
+Dickens's [[Time|time]] there was such a thing as the English people, and Dickens
 
 belonged to it. Because there is no such thing as an English people now,
 
@@ -6987,13 +6987,13 @@ gentlemen in the way that gentlemen describe gentlemen. He described
 
 them in the way in which he described waiters, or railway guards, or men
 
-drawing with chalk on the pavement. He described them, in short (and
+drawing with [[chalk]] on the pavement. He described them, in short (and
 
 this we may freely concede), from the outside, as he described any other
 
 oddity or special trade. But when it comes to saying that he did not
 
-describe them well, then that is quite another matter, and that I should
+describe them [[Well|well]], then that is quite another matter, and that I should
 
 emphatically deny. The things that are really odd about the English
 
@@ -7023,23 +7023,23 @@ governs England. Take, for an instance, his hazy notion that he is in a
 
 world where everybody knows everybody; whenever he mentions a man, it is
 
-a man "with whom my friend Dombey is no doubt acquainted." That pierces
+a man "with whom my friend Dombey is no [[Doubt|doubt]] acquainted." That pierces
 
-to the very helpless soul of aristocracy. Take again the stupendous
+to the very helpless [[Soul|soul]] of aristocracy. Take again the stupendous
 
-gravity with which he leads up to a joke. That is the very soul of the
+gravity with which he leads up to a joke. That is the very [[Soul|soul]] of the
 
-House of Commons and the Cabinet, of the high-class English politics,
+[[house|House]] of Commons and the Cabinet, of the high-class English politics,
 
 where a joke is always enjoyed solemnly. Take his insistence upon the
 
-technique of Parliament, his regrets for the time when the rules of
+technique of Parliament, his regrets for the [[Time|time]] when the rules of
 
-debate were perhaps better observed than they are now. Take that
+[[debate]] were perhaps better observed than they are now. Take that
 
 wonderful mixture in him (which is the real human virtue of our
 
-aristocracy) of a fair amount of personal modesty with an innocent
+aristocracy) of a fair amount of personal modesty with an [[Innocent|innocent]]
 
 assumption of rank. Of a man who saw all these genteel foibles so
 
@@ -7053,11 +7053,11 @@ Lastly, there is the admirable study of Toots, who may be considered as
 
 being in some ways the masterpiece of Dickens. Nowhere else did Dickens
 
-express with such astonishing insight and truth his main contention,
+express with such astonishing insight and [[Truth|truth]] his main contention,
 
 which is that to be good and idiotic is not a poor fate, but, on the
 
-contrary, an experience of primeval innocence, which wonders at all
+contrary, an experience of primeval [[innocence]], which wonders at all
 
 things. Dickens did not know, anymore than any great man ever knows,
 
@@ -7065,7 +7065,7 @@ what was the particular thing that he had to preach. He did not know it;
 
 he only preached it. But the particular thing that he had to preach was
 
-this: That humility is the only possible basis of enjoyment; that if one
+this: That [[Humility|humility]] is the only possible basis of enjoyment; that if one
 
 has no other way of being humble except being poor, then it is better to
 
@@ -7073,7 +7073,7 @@ be poor, and to enjoy; that if one has no other way of being humble
 
 except being imbecile, then it is better to be imbecile, and to enjoy.
 
-That is the deep unconscious truth in the character of Toots--that all
+That is the deep unconscious [[Truth|truth]] in the character of Toots--that all
 
 his externals are flashy and false; all his internals unconscious,
 
@@ -7081,23 +7081,23 @@ obscure, and true. He wears loud clothes, and he is silent inside them.
 
 His shirts and waistcoats are covered with bright spots of pink and
 
-purple, while his soul is always covered with the sacred shame. He
+purple, while his [[Soul|soul]] is always covered with the sacred shame. He
 
 always gets all the outside things of life wrong, and all the inside
 
 things right. He always admires the right Christian people, and gives
 
-them the wrong Christian names. Dimly connecting Captain Cuttle with the
+them the wrong Christian names. Dimly connecting [[Captain Cuttle]] with the
 
-shop of Mr. Solomon Gills, he always addresses the astonished mariner as
+shop of Mr. [[Solomon Gills]], he always addresses the astonished mariner as
 
-"Captain Gills." He turns Mr. Walter Gay, by a most improving
+"Captain Gills." He turns Mr. [[Walter Gay]], by a most improving
 
 transformation, into "Lieutenant Walters." But he always knows which
 
 people upon his own principles to admire. He forgets who they are, but
 
-he remembers what they are. With the clear eyes of humility he perceives
+he remembers what they are. With the clear eyes of [[Humility|humility]] he perceives
 
 the whole world as it is. He respects the Game Chicken for being
 
@@ -7105,7 +7105,7 @@ strong, as even the Game Chicken ought to be respected for being strong.
 
 He respects Florence for being good, as even Florence ought to be
 
-respected for being good. And he has no doubt about which he admires
+respected for being good. And he has no [[Doubt|doubt]] about which he admires
 
 most; he prefers goodness to strength, as do all masculine men. It is
 
@@ -7117,9 +7117,9 @@ makes a difference that he keeps the right half of his wits. When we
 
 think of the unclean and craven spirit in which Toots might be treated
 
-in a psychological novel of to-day; how he might walk with a mooncalf
+in a psychological [[Novel|novel]] of to-day; how he might walk with a mooncalf
 
-face, and a brain of bestial darkness, the soul rises in real homage to
+face, and a brain of bestial darkness, the [[Soul|soul]] rises in real homage to
 
 Dickens for showing how much simple gratitude and happiness can remain
 
@@ -7135,7 +7135,7 @@ reward.
 
   From a daguerreotype by Mayall.]
 
-DAVID COPPERFIELD
+[[David Copperfield|DAVID COPPERFIELD]]
 
 In this book Dickens is really trying to write a new kind of book, and
 
@@ -7155,7 +7155,7 @@ Cuttle and Mr. Sol Gills very funny, and the whole Wooden Midshipman
 
 seems to me very wooden. In _David Copperfield_ he suddenly unseals a
 
-new torrent of truth, the truth out of his own life. The impulse of the
+new torrent of [[Truth|truth]], the [[Truth|truth]] out of his own life. The impulse of the
 
 thing is autobiography; he is trying to tell all the absurd things that
 
@@ -7197,9 +7197,9 @@ it constantly disappoints the critical and intelligent reader. The
 
 reason is that Dickens began it under his sudden emotional impulse of
 
-telling the whole truth about himself and gradually allowed the whole
+telling the whole [[Truth|truth]] about himself and gradually allowed the whole
 
-truth to be more and more diluted, until towards the end of the book we
+[[Truth|truth]] to be more and more diluted, until towards the end of the book we
 
 are back in the old pedantic and decorative art of Dickens, an art which
 
@@ -7227,27 +7227,27 @@ emigration? He seems to think that he can cure the souls of a whole
 
 cartload, or rather boatload, of his characters by sending them all
 
-to the Colonies. Peggotty is a desolate and insulted parent whose house
+to the Colonies. Peggotty is a desolate and insulted parent whose [[house]]
 
-has been desecrated and his pride laid low; therefore let him go to
+has been desecrated and his [[Pride|pride]] laid low; therefore let him go to
 
-Australia. Emily is a woman whose heart is broken and whose honour is
+Australia. Emily is a woman whose heart is broken and whose [[Honour|honour]] is
 
 blasted; but she will be quite happy if she goes to Australia. Mr.
 
-Micawber is a man whose soul cannot be made to understand the tyranny of
+Micawber is a man whose [[Soul|soul]] cannot be made to understand the tyranny of
 
-time or the limits of human hope; but he will understand all these
+[[Time|time]] or the limits of human [[Hope|hope]]; but he will understand all these
 
 things if he goes to Australia. For it must be noted that Dickens does
 
 not use this emigration merely as a mode of exit. He does not send these
 
-characters away on a ship merely as a symbol suggesting that they pass
+characters away on a [[Ship|ship]] merely as a symbol suggesting that they pass
 
 wholly out of his hearer's life. He does definitely suggest that
 
-Australia is a sort of island Valley of Avalon, where the soul may heal
+Australia is a sort of island Valley of Avalon, where the [[Soul|soul]] may heal
 
 it of its grievous wound. It is seriously suggested that Peggotty finds
 
@@ -7263,9 +7263,9 @@ and that he would certainly be nowhere. Colonising is not talked of
 
 merely as a coarse, economic expedient for going to a new market. It is
 
-really offered as something that will cure the hopeless tragedy of
+really offered as something that will cure the hopeless [[Tragedy|tragedy]] of
 
-Peggotty; as something that will cure the still more hopeless comedy of
+Peggotty; as something that will cure the still more hopeless [[Comedy|comedy]] of
 
 Micawber.
 
@@ -7289,11 +7289,11 @@ diseased. It is said that in the twilight and decline of Rome, close to
 
 the dark ages, the people in Gaul believed that Britain was a land of
 
-ghosts (perhaps it was foggy), and that the dead were ferried across to
+[[Ghosts|ghosts]] (perhaps it was foggy), and that the dead were ferried across to
 
 it from the northern coast of France. If (as is not entirely impossible)
 
-our own century appears to future ages as a time of temporary decay and
+our own century appears to future ages as a [[Time|time]] of temporary [[Decay|decay]] and
 
 twilight, it may be said that there was attached to England a blessed
 
@@ -7303,11 +7303,11 @@ ferried across to remain in bliss for ever.
 
 This element which is represented by the colonial optimism at the end of
 
-_David Copperfield_ is a moral element. The truth is that there is
+_David Copperfield_ is a moral element. The [[Truth|truth]] is that there is
 
 something a little mean about this sort of optimism. I do not like the
 
-notion of David Copperfield sitting down comfortably to his tea-table
+notion of [[David Copperfield]] sitting down comfortably to his tea-table
 
 with Agnes, having got rid of all the inconvenient or distressing
 
@@ -7321,7 +7321,7 @@ There is too much in the whole thing of that element which was satirised
 
 by an ironic interpretation of the epitaph "Peace, perfect peace, with
 
-loved ones far away." We should have thought more of David Copperfield
+loved ones far away." We should have thought more of [[David Copperfield]]
 
 (and also of Charles Dickens) if he had endeavoured for the rest of his
 
@@ -7333,17 +7333,17 @@ Copperfield (and also of Charles Dickens) if he had faced the
 
 possibility of going on till his dying day lending money to Mr. Wilkins
 
-Micawber. We should have thought more of David Copperfield (and also of
+Micawber. We should have thought more of [[David Copperfield]] (and also of
 
-Charles Dickens) if he had not looked upon the marriage with Dora merely
+Charles Dickens) if he had not looked upon the [[Marriage|marriage]] with Dora merely
 
 as a flirtation, an episode which he survived and ought to survive. And
 
-yet the truth is that there is nowhere in fiction where we feel so
+yet the [[Truth|truth]] is that there is nowhere in fiction where we feel so
 
-keenly the primary human instinct and principle that a marriage is a
+keenly the primary human instinct and principle that a [[Marriage|marriage]] is a
 
-marriage and irrevocable, that such things do leave a wound and also a
+[[Marriage|marriage]] and irrevocable, that such things do leave a wound and also a
 
 bond as in this case of David's short connection with his silly little
 
@@ -7355,19 +7355,19 @@ everything in the pink tape of optimism, the fact, in the psychology of
 
 the reader, still remains. The reader does still feel that David's
 
-marriage to Dora was a real marriage; and that his marriage to Agnes was
+[[Marriage|marriage]] to Dora was a real [[Marriage|marriage]]; and that his [[Marriage|marriage]] to Agnes was
 
 nothing, a middle-aged compromise, a taking of the second best, a sort
 
-of spiritualised and sublimated marriage of convenience. For all the
+of spiritualised and sublimated [[Marriage|marriage]] of convenience. For all the
 
 readers of Dickens Dora is thoroughly avenged. The modern world (intent
 
-on anarchy in everything, even in Government) refuses to perceive the
+on anarchy in everything, even in [[government|Government]]) refuses to perceive the
 
 permanent element of tragic constancy which inheres in all passion, and
 
-which is the origin of marriage. Marriage rests upon the fact that you
+which is the origin of [[Marriage|marriage]]. [[Marriage]] rests upon the fact that you
 
 cannot have your cake and eat it; that you cannot lose your heart and
 
@@ -7375,11 +7375,11 @@ have it. But, as I have said, there is perhaps no place in literature
 
 where we feel more vividly the sense of this monogamous instinct in man
 
-than in David Copperfield. A man is monogamous even if he is only
+than in [[David Copperfield]]. A man is monogamous even if he is only
 
-monogamous for a month; love is eternal even if it is only eternal for a
+monogamous for a month; [[Love|love]] is eternal even if it is only eternal for a
 
-month. It always leaves behind it the sense of something broken and
+month. It always [[Leaves|leaves]] behind it the sense of something broken and
 
 betrayed.
 
@@ -7391,7 +7391,7 @@ there is at the end of this book too much tendency to bless people and
 
 get rid of them. Micawber is a nuisance. Dickens the despot condemns him
 
-to exile. Dora is a nuisance. Dickens the despot condemns her to death.
+to [[Exile|exile]]. Dora is a nuisance. Dickens the despot condemns her to [[Death|death]].
 
 But it is the whole business of Dickens in the world to express the fact
 
@@ -7429,19 +7429,19 @@ stretches of experience of life. It is just the man who is maddening
 
 when he is ordering a cutlet or arranging an appointment who is probably
 
-the man in whose company it is worth while to journey steadily towards
+the man in whose company it is worth while to [[Journey|journey]] steadily towards
 
-the grave. Distribute the dignified people and the capable people and
+the [[Grave|grave]]. Distribute the dignified people and the capable people and
 
 the highly business-like people among all the situations which their
 
-ambition or their innate corruption may demand; but keep close to your
+[[Ambition|ambition]] or their innate corruption may demand; but keep close to your
 
 heart, keep deep in your inner councils the absurd people. Let the
 
 clever people pretend to govern you, let the unimpeachable people
 
-pretend to advise you, but let the fools alone influence you; let the
+pretend to advise you, but let the fools [[Alone|alone]] influence you; let the
 
 laughable people whose faults you see and understand be the only people
 
@@ -7457,7 +7457,7 @@ way to deny it. He seems to want to get rid of the preposterous people
 
 simply because they will always continue to be preposterous. I have a
 
-horrible feeling that David Copperfield will send even his aunt to
+horrible feeling that [[David Copperfield]] will send even his aunt to
 
 Australia if she worries him too much about donkeys.
 
@@ -7465,13 +7465,13 @@ I repeat, then, that this wrong ending of _David Copperfield_ is one of
 
 the very few examples in Dickens of a real symptom of fatigue. Having
 
-created splendid beings for whom alone life might be worth living, he
+created splendid beings for whom [[Alone|alone]] life might be worth living, he
 
-cannot endure the thought of his hero living with them. Having given his
+cannot endure the thought of his [[Hero|hero]] living with them. Having given his
 
-hero superb and terrible friends, he is afraid of the awful and
+[[Hero|hero]] superb and terrible friends, he is afraid of the awful and
 
-tempestuous vista of their friendship. He slips back into a more
+tempestuous vista of their [[Friendship|friendship]]. He slips back into a more
 
 superficial kind of story and ends it in a more superficial way. He is
 
@@ -7479,13 +7479,13 @@ afraid of the things he has made; of that terrible figure Micawber; of
 
 that yet more terrible figure Dora. He cannot make up his mind to see
 
-his hero perpetually entangled in the splendid tortures and sacred
+his [[Hero|hero]] perpetually entangled in the splendid tortures and sacred
 
 surprises that come from living with really individual and unmanageable
 
 people. He cannot endure the idea that his fairy prince will not have
 
-henceforward a perfectly peaceful time. But the wise old fairy tales
+henceforward a perfectly peaceful [[Time|time]]. But the wise old fairy tales
 
 (which are the wisest things in the world, at any rate the wisest things
 
@@ -7497,19 +7497,19 @@ The fairy tales said that the prince and princess lived happily ever
 
 afterwards: and so they did. They lived happily, although it is very
 
-likely that from time to time they threw the furniture at each other.
+likely that from [[Time|time]] to [[Time|time]] they threw the furniture at each other.
 
 Most marriages, I think, are happy marriages; but there is no such thing
 
-as a contented marriage. The whole pleasure of marriage is that it is a
+as a contented [[Marriage|marriage]]. The whole pleasure of [[Marriage|marriage]] is that it is a
 
-perpetual crisis. David Copperfield and Dora quarrelled over the cold
+perpetual crisis. [[David Copperfield]] and Dora quarrelled over the cold
 
 mutton; and if they had gone on quarrelling to the end of their lives,
 
 they would have gone on loving each other to the end of their lives; it
 
-would have been a human marriage. But David Copperfield and Agnes would
+would have been a human [[Marriage|marriage]]. But [[David Copperfield]] and Agnes would
 
 agree about the cold mutton. And that cold mutton would be very cold.
 
@@ -7539,19 +7539,19 @@ welcomed _David Copperfield_.
 
 _David Copperfield_ begins as if it were going to be a new kind of
 
-Dickens novel; then it gradually turns into an old kind of Dickens
+Dickens [[Novel|novel]]; then it gradually turns into an old kind of Dickens
 
-novel. It is here that many readers of this splendid book have been
+[[Novel|novel]]. It is here that many readers of this splendid book have been
 
-subtly and secretly irritated. Nicholas Nickleby is all very well; we
+subtly and secretly irritated. [[Nicholas Nickleby]] is all very [[Well|well]]; we
 
 accept him as something which is required to tie the whole affair
 
 together. Nicholas is a sort of string or clothes-line on which are hung
 
-the limp figure of Smike, the jumping-jack of Mr. Squeers and the twin
+the limp figure of [[Smike]], the jumping-jack of Mr. Squeers and the twin
 
-dolls named Cheeryble. If we do not accept Nicholas Nickleby as the hero
+dolls named Cheeryble. If we do not accept [[Nicholas Nickleby]] as the [[Hero|hero]]
 
 of the story, at least we accept him as the title of the story. But in
 
@@ -7559,19 +7559,19 @@ _David Copperfield_ Dickens begins something which looks for the moment
 
 fresh and startling. In the earlier chapters (the amazing earlier
 
-chapters of this book) he does seem to be going to tell the living truth
+chapters of this book) he does seem to be going to tell the living [[Truth|truth]]
 
-about a living boy and man. It is melancholy to see that sudden fire
+about a living boy and man. It is [[Melancholy|melancholy]] to see that sudden [[Fire|fire]]
 
-fading. It is sad to see David Copperfield gradually turning into
+fading. It is sad to see [[David Copperfield]] gradually turning into
 
-Nicholas Nickleby. Nicholas Nickleby does not exist at all; he is a
+[[Nicholas Nickleby]]. [[Nicholas Nickleby]] does not exist at all; he is a
 
 quite colourless primary condition of the story. We look through
 
-Nicholas Nickleby at the story just as we look through a plain pane of
+[[Nicholas Nickleby]] at the story just as we look through a plain pane of
 
-glass at the street. But David Copperfield does begin by existing; it is
+glass at the street. But [[David Copperfield]] does begin by existing; it is
 
 only gradually that he gives up that exhausting habit.
 
@@ -7601,7 +7601,7 @@ word, I have been talking not about Dickens, but about the absence of
 
 Dickens. But when we come to him and his work itself, what is there to
 
-be said? What is there to be said about earthquake and the dawn? He has
+be said? What is there to be said about earthquake and the [[Dawn|dawn]]? He has
 
 created, especially in this book of _David Copperfield_, he has created,
 
@@ -7615,7 +7615,7 @@ This is the excuse for all that indeterminate and rambling and sometimes
 
 sentimental criticism of which Dickens, more than any one else, is the
 
-victim, of which I fear that I for one have made him the victim in this
+victim, of which I [[Fear|fear]] that I for one have made him the victim in this
 
 place. When I was a boy I could not understand why the Dickensians
 
@@ -7623,7 +7623,7 @@ worried so wearily about Dickens, about where he went to school and
 
 where he ate his dinners, about how he wore his trousers and when he cut
 
-his hair. I used to wonder why they did not write something that I could
+his hair. I used to [[Wonder|wonder]] why they did not write something that I could
 
 read about a man like Micawber. But I have come to the conclusion that
 
@@ -7663,11 +7663,11 @@ have been considering the books that he wrote; here we have rather to
 
 consider the books that he might have written. And here we find the
 
-final evidence and the unconscious stamp of greatness, as we might find
+final evidence and the unconscious stamp of [[Greatness|greatness]], as we might find
 
 it in some broken bust or some rejected moulding in the studio of
 
-Michael Angelo.
+[[Michael]] [[Angelo]].
 
 These sketches or parts of sketches all belong to that period in his
 
@@ -7687,7 +7687,7 @@ objected to him strongly. It is not easy, and perhaps it is not
 
 important, to state truly the cause of this incapacity. It was not in
 
-the least what is called the ordinary fault or weakness of the artist.
+the least what is called the ordinary fault or weakness of the [[artist]].
 
 It was not that he was careless; rather it was that he was too
 
@@ -7699,7 +7699,7 @@ wanted everybody to see things as he saw them. But in spite of all this
 
 he certainly ran two great popular periodicals--_Household Words_ and
 
-_All the Year Round_--with enormous popular success. And he certainly so
+_All the Year Round_--with enormous popular [[success]]. And he certainly so
 
 far succeeded in throwing himself into the communism of journalism, into
 
@@ -7723,13 +7723,13 @@ better than the work in his best novels, can be found in these slight
 
 and composite scraps of journalism. For instance, the solemn and
 
-self-satisfied account of the duty and dignity of a waiter given in the
+[[Self|self]]-satisfied account of the duty and dignity of a waiter given in the
 
 opening chapter of _Somebody's Luggage_ is quite as full and fine as
 
 anything done anywhere by its author in the same vein of sumptuous
 
-satire. It is as good as the account which Mr. Bumble gives of out-door
+[[Satire|satire]]. It is as good as the account which Mr. Bumble gives of out-door
 
 relief, which, "properly understood, is the parochial safeguard. The
 
@@ -7737,7 +7737,7 @@ great thing is to give the paupers what they don't want, and then they
 
 never come again." It is as good as Mr. Podsnap's description of the
 
-British Constitution, which was bestowed on him by Providence. None of
+British Constitution, which was bestowed on him by [[Providence]]. None of
 
 these celebrated passages is more obviously Dickens at his best than
 
@@ -7745,17 +7745,17 @@ this, the admirable description of "the true principles of waitering,"
 
 or the account of how the waiter's father came back to his mother in
 
-broad daylight, "in itself an act of madness on the part of a waiter,"
+broad daylight, "in itself an act of [[Madness|madness]] on the part of a waiter,"
 
 and how he expired repeating continually "two and six is three and four
 
 is nine." That waiter's explanatory soliloquy might easily have opened
 
-an excellent novel, as _Martin Chuzzlewit_ is opened by the clever
+an excellent [[Novel|novel]], as _Martin Chuzzlewit_ is opened by the clever
 
 nonsense about the genealogy of the Chuzzlewits, or as _Bleak House_ is
 
-opened by a satiric account of the damp, dim life of a law court. Yet
+opened by a satiric account of the damp, dim life of a law [[Court|court]]. Yet
 
 Dickens practically abandoned the scheme of _Somebody's Luggage_; he
 
@@ -7765,7 +7765,7 @@ be said to have only written a brilliant introduction to another man's
 
 book.
 
-Yet it is exactly in such broken outbreaks that his greatness appears.
+Yet it is exactly in such broken outbreaks that his [[Greatness|greatness]] appears.
 
 If a man has flung away bad ideas he has shown his sense, but if he has
 
@@ -7773,19 +7773,19 @@ flung away good ideas he has shown his genius. He has proved that he
 
 actually has that over-pressure of pure creativeness which we see in
 
-nature itself, "that of a hundred seeds, she often brings but one to
+[[Nature|nature]] itself, "that of a hundred seeds, she often brings but one to
 
 bear." Dickens had to be Malthusian about his spiritual children.
 
 Critics have called Keats and others who died young "the great
 
-Might-have-beens of literary history." Dickens certainly was not merely
+Might-have-beens of literary [[history]]." Dickens certainly was not merely
 
 a great Might-have-been. Dickens, to say the least of him, was a great
 
 Was. Yet this fails fully to express the richness of his talent; for
 
-the truth is that he was a great Was and also a great Might-have-been.
+the [[Truth|truth]] is that he was a great Was and also a great Might-have-been.
 
 He said what he had to say, and yet not all he had to say. Wild
 
@@ -7797,7 +7797,7 @@ that at the end there was a vast mass of them left over, ideas that he
 
 literally had not the opportunity to develop, tales that he literally
 
-had not the time to tell. This is shown clearly in his private notes and
+had not the [[Time|time]] to tell. This is shown clearly in his private notes and
 
 letters, which are full of schemes singularly striking and suggestive,
 
@@ -7807,11 +7807,11 @@ these _Christmas Stories_, collected out of the chaotic opulence of
 
 _Household Words_ and _All the Year Round_. He wrote short stories
 
-actually because he had not time to write long stories. He often put
+actually because he had not [[Time|time]] to write long stories. He often put
 
-into the short story a deep and branching idea which would have done
+into the [[Short Story|short story]] a deep and branching idea which would have done
 
-very well for a long story; many of his long stories, so to speak, broke
+very [[Well|well]] for a long story; many of his long stories, so to speak, broke
 
 off short. This is where he differs from most who are called the
 
@@ -7823,11 +7823,11 @@ Examine for example this case of the waiter in _Somebody's Luggage_.
 
 Dickens obviously knew enough about that waiter to have made him a
 
-running spring of joy throughout a whole novel; as the beadle is in
+running [[spring]] of joy throughout a whole [[Novel|novel]]; as the beadle is in
 
 _Oliver Twist_, or the undertaker in _Martin Chuzzlewit_. Every touch of
 
-him tingles with truth, from the vague gallantry with which he asks,
+him tingles with [[Truth|truth]], from the vague gallantry with which he asks,
 
 "Would'st thou know, fair reader (if of the adorable female sex)" to the
 
@@ -7837,59 +7837,59 @@ pegs as is desirable for the future comfort of all parties." If Dickens
 
 had developed this character at full length in a book he would have
 
-preserved for ever in literature a type of great humour and great value,
+preserved for ever in literature a type of great [[Humour|humour]] and great value,
 
-and a type which may only too soon be disappearing from English history.
+and a type which may only too soon be disappearing from English [[history]].
 
 He would have eternalised the English waiter. He still exists in some
 
 sound old taverns and decent country inns, but there is no one left
 
-really capable of singing his praises. I know that Mr. Bernard Shaw has
+really capable of singing his praises. I know that Mr. Bernard [[Shaw]] has
 
 done something of the sort in the delightfully whimsical account of
 
 William in _You Never Can Tell_. But nothing will persuade me that Mr.
 
-Bernard Shaw can really understand the English waiter. He can never have
+Bernard [[Shaw]] can really understand the English waiter. He can never have
 
 ordered wine from him for instance. And though the English waiter is by
 
-the nature of things solemn about everything, he can never reach the
+the [[Nature|nature]] of things solemn about everything, he can never reach the
 
 true height and ecstasy of his solemnity except about wine. What the
 
-real English waiter would do or say if Mr. Shaw asked him for a
+real English waiter would do or say if Mr. [[Shaw]] asked him for a
 
-vegetarian meal I cannot dare to predict. I rather think that for the
+[[vegetarian]] meal I cannot dare to predict. I rather think that for the
 
-first time in his life he would laugh--a horrible sight.
+first [[Time|time]] in his life he would laugh--a horrible sight.
 
 Dickens's waiter is described by one who is not merely witty, truthful,
 
-and observant, like Mr. Bernard Shaw, but one who really knew the
+and observant, like Mr. Bernard [[Shaw]], but one who really knew the
 
 atmosphere of inns, one who knew and even liked the smell of beef, and
 
 beer, and brandy. Hence there is a richness in Dickens's portrait which
 
-does not exist in Mr. Shaw's. Mr. Shaw's waiter is merely a man of tact;
+does not exist in Mr. [[Shaw]]'s. Mr. [[Shaw]]'s waiter is merely a man of tact;
 
-Dickens's is a man of principle. Mr. Shaw's waiter is an opportunist,
+Dickens's is a man of principle. Mr. [[Shaw]]'s waiter is an opportunist,
 
-just as Mr. Shaw is an opportunist in politics. Dickens's waiter is
+just as Mr. [[Shaw]] is an opportunist in politics. Dickens's waiter is
 
 ready to stand up seriously for "the true principles of waitering,"
 
 just as Dickens was ready to stand up for the true principles of
 
-Liberalism. Mr. Shaw's waiter is agnostic; his motto is "You never can
+Liberalism. Mr. [[Shaw]]'s waiter is agnostic; his motto is "You never can
 
 tell." Dickens's waiter is a dogmatist; his motto is "You can tell; I
 
 will tell you." And the true old-fashioned English waiter had really
 
-this grave and even moral attitude; he was the servant of the customers
+this [[Grave|grave]] and even moral attitude; he was the servant of the customers
 
 as a priest is the servant of the faithful, but scarcely in any less
 
@@ -7917,17 +7917,17 @@ sketches scattered about these short stories. But there are many others,
 
 and one at least demands special mention; I mean Mrs. Lirriper, the
 
-London landlady. Not only did Dickens never do anything better in a
+[[London]] landlady. Not only did Dickens never do anything better in a
 
 literary sense, but he never performed more perfectly his main moral
 
 function, that of insisting through laughter and flippancy upon the
 
-virtue of Christian charity. There has been much broad farce against the
+virtue of Christian [[Charity|charity]]. There has been much broad farce against the
 
-lodging-house keeper: he alone could have written broad farce in her
+lodging-[[house]] keeper: he [[Alone|alone]] could have written broad farce in her
 
-favour. It is fashionable to represent the landlady as a tyrant; it is
+favour. It is fashionable to represent the landlady as a [[Tyrant|tyrant]]; it is
 
 too much forgotten that if she is one of the oppressors she is at least
 
@@ -7947,29 +7947,29 @@ Wozenham. But in Mrs. Lirriper he went further and did not fare worse.
 
 In Mrs. Lirriper he suggested quite truly how huge a mass of real good
 
-humour, of grand unconscious patience, of unfailing courtesy and
+[[Humour|humour]], of grand unconscious patience, of unfailing courtesy and
 
 constant and difficult benevolence is concealed behind many a
 
-lodging-house door and compact in the red-faced person of many a
+lodging-[[house]] door and compact in the red-faced person of many a
 
-preposterous landlady. Any one could easily excuse the ill-humour of the
+preposterous landlady. Any one could easily excuse the ill-[[Humour|humour]] of the
 
-poor. But great masses of the poor have not even any ill-humour to be
+poor. But great masses of the poor have not even any ill-[[Humour|humour]] to be
 
 excused. Their cheeriness is startling enough to be the foundation of a
 
 miracle play; and certainly is startling enough to be the foundation of
 
-a romance. Yet I do not know of any romance in which it is expressed
+a [[Romance|romance]]. Yet I do not know of any [[Romance|romance]] in which it is expressed
 
 except this one.
 
 Of the landlady as of the waiter it may be said that Dickens left in a
 
-slight sketch what he might have developed through a long and strong
+slight [[Sketch|sketch]] what he might have developed through a long and strong
 
-novel. For Dickens had hold of one great truth, the neglect of which
+[[Novel|novel]]. For Dickens had hold of one great [[Truth|truth]], the neglect of which
 
 has, as it were, truncated and made meagre the work of many brilliant
 
@@ -7987,15 +7987,15 @@ is not by any means so interesting as Mrs. Lirriper in France; for she
 
 is trying to find France and he is only trying to find George Moore.
 
-Mrs. Lirriper is the female equivalent of Mr. Pickwick. Unlike Mrs.
+Mrs. Lirriper is the female equivalent of Mr. [[Pickwick]]. Unlike Mrs.
 
 Bardell (another and lesser landlady) she was fully worthy to be Mrs.
 
-Pickwick. For in both cases the essential truth is the same; that
+[[Pickwick]]. For in both cases the essential [[Truth|truth]] is the same; that
 
-original innocence which alone deserves adventures and because it alone
+original [[innocence]] which [[Alone|alone]] deserves adventures and because it [[Alone|alone]]
 
-can appreciate them. We have had Mr. Pickwick in England and we can
+can appreciate them. We have had Mr. [[Pickwick]] in England and we can
 
 imagine him in France. We have had Mrs. Lirriper in France and we can
 
@@ -8005,11 +8005,11 @@ modern novels we cannot really imagine anywhere except in the suburbs or
 
 in Limbo.
 
-BLEAK HOUSE
+BLEAK [[house|HOUSE]]
 
 _Bleak House_ is not certainly Dickens's best book; but perhaps it is
 
-his best novel. Such a distinction is not a mere verbal trick; it has to
+his best [[Novel|novel]]. Such a distinction is not a mere verbal trick; it has to
 
 be remembered rather constantly in connection with his work. This
 
@@ -8025,7 +8025,7 @@ intelligent epicure may find it less adapted to his particular purpose;
 
 but the mind of an intelligent potato would at once admit it as being,
 
-beyond all doubt, a genuine, fully developed specimen of his own
+beyond all [[Doubt|doubt]], a genuine, fully developed specimen of his own
 
 particular species. The same is in some degree true even of literature.
 
@@ -8051,9 +8051,9 @@ force into order. Like Napoleon, he had a victorious army almost before
 
 he had an army. After his decisive victories Napoleon began to put his
 
-house in order; after his decisive victories Dickens also began to put
+[[house]] in order; after his decisive victories Dickens also began to put
 
-his house in order. The house, when he had put it in order, was _Bleak
+his [[house]] in order. The [[house]], when he had put it in order, was _Bleak
 
 House_.
 
@@ -8067,29 +8067,29 @@ tales for the very simple reason that they were all about rambling
 
 people. They were novels of adventure; they were even diaries of travel.
 
-Since the hero strayed from place to place, it did not seem unreasonable
+Since the [[Hero|hero]] strayed from place to place, it did not seem unreasonable
 
 that the story should stray from subject to subject. This is true of the
 
 bulk of the novels up to and including _David Copperfield_, up to the
 
-very brink or threshold of _Bleak House_. Mr. Pickwick wanders about on
+very brink or threshold of _Bleak House_. Mr. [[Pickwick]] wanders about on
 
 the white English roads, always looking for antiquities and always
 
-finding novelties. Poor Oliver Twist wanders along the same white roads
+finding novelties. Poor [[Oliver Twist]] wanders along the same white roads
 
-to seek his fortune and to find his misfortune. Nicholas Nickleby goes
+to seek his fortune and to find his misfortune. [[Nicholas Nickleby]] goes
 
-walking across England because he is young and hopeful; Little Nell's
+walking across England because he is young and hopeful; [[Little Nell]]'s
 
 grandfather does the same thing because he is old and silly. There is
 
-not much in common between Samuel Pickwick and Oliver Twist; there is
+not much in common between [[Samuel Pickwick]] and [[Oliver Twist]]; there is
 
-not much in common between Oliver Twist and Nicholas Nickleby; there is
+not much in common between [[Oliver Twist]] and [[Nicholas Nickleby]]; there is
 
-not much in common (let us hope) between Little Nell's grandfather and
+not much in common (let us [[Hope|hope]]) between [[Little Nell]]'s grandfather and
 
 any other human being. But they all have this in common, that they may
 
@@ -8097,7 +8097,7 @@ actually all have trodden in each other's footprints. They were all
 
 wanderers on the face of the same fair English land. _Martin Chuzzlewit_
 
-was only made popular by the travels of the hero in America. When we
+was only made popular by the travels of the [[Hero|hero]] in [[america|America]]. When we
 
 come to _Dombey and Son_ we find, as I have said, an exception; but even
 
@@ -8115,15 +8115,15 @@ of a vagabond and a wastrel. The most important point, however, is that
 
 when we come to _David Copperfield_, in some sense the summit of his
 
-serious literature, we find the thing still there. The hero still
+serious literature, we find the thing still there. The [[Hero|hero]] still
 
 wanders from place to place, his genius is still gipsy. The adventures
 
 in the book are less violent and less improbable than those which wait
 
-for Pickwick and Nicholas Nickleby; but they are still adventures and
+for [[Pickwick]] and [[Nicholas Nickleby]]; but they are still adventures and
 
-not merely events; they are still things met on a road. The facts of the
+not merely events; they are still things met on a [[Road|road]]. The facts of the
 
 story fall away from David as such facts do fall away from a traveller
 
@@ -8133,11 +8133,11 @@ school than to pass by Mrs. Jarley's wax-works. The only point is that
 
 we should pass by both of them. Up to this point in Dickens's
 
-development, his novel, however true, is still picaresque; his hero
+development, his [[Novel|novel]], however true, is still picaresque; his [[Hero|hero]]
 
 never really rests anywhere in the story. No one seems really to know
 
-where Mr. Pickwick lived. Here he has no abiding city.
+where Mr. [[Pickwick]] lived. Here he has no abiding [[City|city]].
 
 When we come to _Bleak House_, we come to a change in artistic
 
@@ -8145,29 +8145,29 @@ structure. The thing is no longer a string of incidents; it is a cycle
 
 of incidents. It returns upon itself; it has recurrent melody and
 
-poetic justice; it has artistic constancy and artistic revenge. It
+poetic justice; it has artistic constancy and artistic [[Revenge|revenge]]. It
 
 preserves the unities; even to some extent it preserves the unities of
 
-time and place. The story circles round two or three symbolic places; it
+[[Time|time]] and place. The story circles round two or three symbolic places; it
 
 does not go straggling irregularly all over England like one of Mr.
 
-Pickwick's coaches. People go from one place to another place; but not
+[[Pickwick]]'s coaches. People go from one place to another place; but not
 
-from one place to another place on the road to everywhere else. Mr.
+from one place to another place on the [[Road|road]] to everywhere else. Mr.
 
-Jarndyce goes from Bleak House to visit Mr. Boythorn; but he comes back
+Jarndyce goes from Bleak [[house|House]] to visit Mr. Boythorn; but he comes back
 
-to Bleak House. Miss Clare and Miss Summerson go from Bleak House to
+to Bleak [[house|House]]. Miss Clare and Miss Summerson go from Bleak [[house|House]] to
 
-visit Mr. and Mrs. Bayham Badger; but they come back to Bleak House. The
+visit Mr. and Mrs. Bayham Badger; but they come back to Bleak [[house|House]]. The
 
-whole story strays from Bleak House and plunges into the foul fogs of
+whole story strays from Bleak [[house|House]] and plunges into the foul fogs of
 
-Chancery and the autumn mists of Chesney Wold; but the whole story comes
+Chancery and the [[Autumn|autumn]] mists of Chesney Wold; but the whole story comes
 
-back to Bleak House. The domestic title is appropriate; it is a
+back to Bleak [[house|House]]. The domestic title is appropriate; it is a
 
 permanent address.
 
@@ -8185,7 +8185,7 @@ the breezy entrance and banging exit of Miss Betsy Trotwood. But if
 
 there is ultimately any crisis or serious subject-matter of _David
 
-Copperfield_, it is the marred marriage with Dora, the final return to
+Copperfield_, it is the marred [[Marriage|marriage]] with Dora, the final return to
 
 Agnes; and all this is in no way involved in the highly-amusing fact
 
@@ -8197,7 +8197,7 @@ and there is no real connection between the beginning and the end
 
 except a biographical connection.
 
-A picaresque novel is only a very eventful biography; but the opening of
+A picaresque [[Novel|novel]] is only a very eventful [[Biography|biography]]; but the opening of
 
 _Bleak House_ is quite another business altogether. It is admirable in
 
@@ -8205,7 +8205,7 @@ quite another way. The description of the fog in the first chapter of
 
 _Bleak House_ is good in itself; but it is not merely good in itself,
 
-like the description of the wind in the opening of _Martin Chuzzlewit_;
+like the description of the [[Wind|wind]] in the opening of _Martin Chuzzlewit_;
 
 it is also good in the sense that Maeterlinck is good; it is what the
 
@@ -8213,7 +8213,7 @@ modern people call an atmosphere. Dickens begins in the Chancery fog
 
 because he means to end in the Chancery fog. He did not begin in the
 
-Chuzzlewit wind because he meant to end in it; he began in it because it
+Chuzzlewit [[Wind|wind]] because he meant to end in it; he began in it because it
 
 was a good beginning. This is perhaps the best short way of stating the
 
@@ -8235,25 +8235,25 @@ and crowded with symbols. Miss Flite is a funny character, like Miss La
 
 Creevy, but Miss La Creevy means only Miss La Creevy. Miss Flite means
 
-Chancery. The rag-and-bone man, Krook, is a powerful grotesque; so is
+Chancery. The rag-and-bone man, Krook, is a powerful [[Grotesque|grotesque]]; so is
 
 Quilp; but in the story Quilp only means Quilp; Krook means Chancery.
 
 Rick Carstone is a kind and tragic figure, like Sidney Carton; but
 
-Sidney Carton only means the tragedy of human nature; Rick Carstone
+Sidney Carton only means the [[Tragedy|tragedy]] of human [[Nature|nature]]; Rick Carstone
 
-means the tragedy of Chancery. Little Jo dies pathetically like Little
+means the [[Tragedy|tragedy]] of Chancery. Little Jo dies pathetically like Little
 
-Paul; but for the death of Little Paul we can only blame Dickens; for
+Paul; but for the [[Death|death]] of Little Paul we can only blame Dickens; for
 
-the death of Little Jo we blame Chancery. Thus the artistic unity of the
+the [[Death|death]] of Little Jo we blame Chancery. Thus the artistic [[unity]] of the
 
 book, compared to all the author's earlier novels, is satisfying, almost
 
 suffocating. There is the _motif_, and again the _motif_. Almost
 
-everything is calculated to assert and re-assert the savage morality of
+everything is calculated to assert and re-assert the savage [[morality]] of
 
 Dickens's protest against a particular social evil. The whole theme is
 
@@ -8273,7 +8273,7 @@ of the fastidious critics have, in the quite strict and solid sense of
 
 the words, never read Dickens at all; hence their opposition is due to
 
-and inspired by a hearty innocence which will certainly make them
+and inspired by a hearty [[innocence]] which will certainly make them
 
 enthusiastic Dickensians if they ever, by some accident, happen to read
 
@@ -8283,7 +8283,7 @@ the eye of a conventional critic, admiring what we expect to admire,
 
 regretting what we are told to regret, waiting for Mr. Bumble to admire
 
-him, waiting for Little Nell to despise her. Yet again, of course, it is
+him, waiting for [[Little Nell]] to despise her. Yet again, of course, it is
 
 sometimes due to that basest of all artistic indulgences (certainly far
 
@@ -8291,7 +8291,7 @@ baser than the pleasure of absinthe or the pleasure of opium), the
 
 pleasure of appreciating works of art which ordinary men cannot
 
-appreciate. Surely the vilest point of human vanity is exactly that; to
+appreciate. Surely the vilest point of human [[Vanity|vanity]] is exactly that; to
 
 ask to be admired for admiring what your admirers do not admire. But
 
@@ -8303,7 +8303,7 @@ with a book like _Bleak House_ something that may be called a solid and
 
 impressive challenge. Let anyone who thinks that Dickens could not
 
-describe the semi-tones and the abrupt instincts of real human nature
+describe the semi-tones and the abrupt instincts of real human [[Nature|nature]]
 
 simply take the trouble to read the stretch of chapters which detail the
 
@@ -8313,7 +8313,7 @@ Chancery. Let him note the manner in which the mere masculinity of
 
 Carstone is caught; how as he grows more mad he grows more logical, nay,
 
-more rational. Good women who love him come to him, and point out the
+more rational. Good women who [[Love|love]] him come to him, and point out the
 
 fact that Jarndyce is a good man, a fact to them solid like an object of
 
@@ -8331,7 +8331,7 @@ beats itself like battering waves against the thin smooth wall of his
 
 insane consistency. I repeat: let any one who thinks that Dickens was a
 
-gross and indelicate artist read that part of the book. If Dickens had
+gross and indelicate [[artist]] read that part of the book. If Dickens had
 
 been the clumsy journalist that such people represent, he never could
 
@@ -8339,7 +8339,7 @@ have written such an episode at all. A clumsy journalist would have
 
 made Rick Carstone in his mad career cast off Esther and Ada and the
 
-others. The great artist knew better. He knew that even if all the good
+others. The great [[artist]] knew better. He knew that even if all the good
 
 in a man is dying, the last sense that dies is the sense that knows a
 
@@ -8351,29 +8351,29 @@ Jarndyce with an explosion of hatred, as of one who had made an
 
 exposure--who had found out what low people call "a false friend" in
 
-what they call "his true colours." The great artist knew better; he knew
+what they call "his true colours." The great [[artist]] knew better; he knew
 
-that a good man going wrong tries to salve his soul to the last with the
+that a good man going wrong tries to salve his [[Soul|soul]] to the last with the
 
-sense of generosity and intellectual justice. He will try to love his
+sense of generosity and intellectual justice. He will try to [[Love|love]] his
 
-enemy if only out of mere love of himself. As the wolf dies fighting,
+enemy if only out of mere [[Love|love]] of himself. As the wolf dies fighting,
 
 the good man gone wrong dies arguing. This is what constitutes the true
 
-and real tragedy of Richard Carstone. It is strictly the one and only
+and real [[Tragedy|tragedy]] of [[Richard Carstone]]. It is strictly the one and only
 
-great tragedy that Dickens wrote. It is like the tragedy of Hamlet. The
+great [[Tragedy|tragedy]] that Dickens wrote. It is like the [[Tragedy|tragedy]] of [[Hamlet]]. The
 
 others are not tragedies because they deal almost with dead men. The
 
-tragedy of old Dorrit is merely the sad spectacle of a dotard dragged
+[[Tragedy|tragedy]] of old Dorrit is merely the sad spectacle of a dotard dragged
 
-about Europe in his last childhood. The tragedy of Steerforth is only
+about Europe in his last [[Childhood|childhood]]. The [[Tragedy|tragedy]] of Steerforth is only
 
-that of one who dies suddenly; the tragedy of old Dombey only that of
+that of one who dies suddenly; the [[Tragedy|tragedy]] of old Dombey only that of
 
-one who was dead all the time. But Rick is a real tragedy, for he is
+one who was dead all the [[Time|time]]. But Rick is a real [[Tragedy|tragedy]], for he is
 
 still alive when the quicksand sucks him down.
 
@@ -8395,13 +8395,13 @@ things, certainly meant us to read this story in terms of his protest
 
 and his insurrection against the emptiness and arrogance of law, against
 
-the folly and the pride of judges. Everything else that there is in this
+the folly and the [[Pride|pride]] of judges. Everything else that there is in this
 
 story entered into it through the unconscious or accidental energy of
 
-his genius, which broke in at every gap. But it was the tragedy of
+his genius, which broke in at every gap. But it was the [[Tragedy|tragedy]] of
 
-Richard Carstone that he meant, not the comedy of Harold Skimpole. He
+[[Richard Carstone]] that he meant, not the [[Comedy|comedy]] of [[Harold Skimpole]]. He
 
 could not help being amusing; but he meant to be depressing.
 
@@ -8413,11 +8413,11 @@ Dickens at his best in his old and more familiar satiric manner. But in
 
 the midst of the Jellyby pandemonium, which is in itself described with
 
-the same _abandon_ and irrelevance as the boarding-house of Mrs. Todgers
+the same _abandon_ and irrelevance as the boarding-[[house]] of Mrs. Todgers
 
 or the travelling theatre of Mr. Crummles, the elder Dickens introduced
 
-another piece of pure truth and even tenderness. I mean the account of
+another piece of pure [[Truth|truth]] and even tenderness. I mean the account of
 
 Caddy Jellyby. If Carstone is a truly masculine study of how a man goes
 
@@ -8425,7 +8425,7 @@ wrong, Caddy is a perfectly feminine study of how a girl goes right.
 
 Nowhere else perhaps in fiction, and certainly nowhere else in Dickens,
 
-is the mere female paradox so well epitomised, the unjust use of words
+is the mere female [[Paradox|paradox]] so [[Well|well]] epitomised, the unjust use of words
 
 covering so much capacity for a justice of ultimate estimate; the
 
@@ -8435,9 +8435,9 @@ pitiless sense of responsibility about things; the air of being always
 
 at daggers-drawn with her own kindred, yet the confession of incurable
 
-kinship implied in pride and shame; and, above all, that thirst for
+kinship implied in [[Pride|pride]] and shame; and, above all, that thirst for
 
-order and beauty as for something physical; that strange female power of
+order and [[Beauty|beauty]] as for something physical; that strange female power of
 
 hating ugliness and waste as good men can only hate sin and bad men
 
@@ -8457,13 +8457,13 @@ With one or two exceptions, all the effects in this story are of this
 
 somewhat quieter kind, though none of them are so subtly successful as
 
-Rick Carstone and Caddy. Harold Skimpole begins as a sketch drawn with a
+Rick Carstone and Caddy. [[Harold Skimpole]] begins as a [[Sketch|sketch]] drawn with a
 
-pencil almost as airy and fanciful as his own. The humour of the earlier
+pencil almost as airy and fanciful as his own. The [[Humour|humour]] of the earlier
 
 scenes is delightful--the scenes in which Skimpole looks on at other
 
-people paying his debts with the air of a kindly outsider, and suggests
+people paying his debts with the air of a kindly [[Outsider|outsider]], and suggests
 
 in formless legal phraseology that they might "sign something" or "make
 
@@ -8493,7 +8493,7 @@ with a note of interrogation. As it is, he ends with a big, black,
 
 unmistakable blot. Speaking purely artistically, we may say that this is
 
-as great a collapse or vulgarisation as if Richard Carstone had turned
+as great a collapse or vulgarisation as if [[Richard Carstone]] had turned
 
 into a common blackguard and wife-beater, or Caddy Jellyby into a comic
 
@@ -8513,15 +8513,15 @@ the toil of nations. But he was fairer than many modern revolutionists,
 
 and he insisted on satirising also those who prey on society not in the
 
-name of rank or law, but in the name of intellect and beauty. Sir
+name of rank or law, but in the name of intellect and [[Beauty|beauty]]. Sir
 
-Leicester Dedlock and Mr. Harold Skimpole are alike in accepting with a
+Leicester Dedlock and Mr. [[Harold Skimpole]] are alike in accepting with a
 
 royal unconsciousness the anomaly and evil of their position. But the
 
-idleness and insolence of the aristocrat is human and humble compared to
+idleness and insolence of the [[aristocrat]] is human and humble compared to
 
-the idleness and insolence of the artist.
+the idleness and insolence of the [[artist]].
 
 With the exception of a few fine freaks, such as Turveydrop and
 
@@ -8537,15 +8537,15 @@ for it was the symbol of oppression. Deliberately he did not dispel the
 
 darkness at the end of this book, as he does dispel it at the end of
 
-most of his books. Pickwick gets out of the Fleet Prison; Carstone never
+most of his books. [[Pickwick]] gets out of the Fleet [[Prison]]; Carstone never
 
-gets out of Chancery but by death. This tyranny, Dickens said, shall not
+gets out of Chancery but by [[Death|death]]. This tyranny, Dickens said, shall not
 
 be lifted by the light subterfuge of a fiction. This tyranny shall never
 
 be lifted till all Englishmen lift it together.
 
-CHILD'S HISTORY OF ENGLAND
+[[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND
 
 There are works of great authors manifestly inferior to their typical
 
@@ -8561,11 +8561,11 @@ without this chance minor compilation we should not really have the key
 
 of Scott. Without this one insignificant book we should not see his
 
-significance. For the truth was that Scott loved history more than
+significance. For the [[Truth|truth]] was that Scott loved [[history]] more than
 
-romance, because he was so constituted as to find it more romantic than
+[[Romance|romance]], because he was so constituted as to find it more romantic than
 
-romance. He preferred the deeds of Wallace and Douglas to those of
+[[Romance|romance]]. He preferred the deeds of Wallace and Douglas to those of
 
 Marmion and Ivanhoe. Therefore his garrulous gossip of old times, his
 
@@ -8573,13 +8573,13 @@ rambles in dead centuries, give us the real material and impulse of all
 
 his work; they represent the quarry in which he dug and the food on
 
-which he fed. Almost alone among novelists Scott actually preferred
+which he fed. Almost [[Alone|alone]] among novelists Scott actually preferred
 
 those parts of his historical novels which he had not invented himself.
 
 He exults when he can boast in an eager note that he has stolen some
 
-saying from history. Thus _The Tales of a Grandfather_, though small, is
+saying from [[history]]. Thus _The Tales of a Grandfather_, though small, is
 
 in some sense the frame of all the Waverley novels. We realise that all
 
@@ -8607,7 +8607,7 @@ The third great master of English fiction whose glory fills the
 
 nineteenth century also produced a small experiment in the
 
-popularisation of history. It is separated from the other two partly by
+popularisation of [[history]]. It is separated from the other two partly by
 
 a great difference of merit but partly also by an utter difference of
 
@@ -8623,19 +8623,19 @@ impatient with the past.
 
 A collection of the works of Dickens would be incomplete in an essential
 
-as well as a literal sense without his _Child's History of England_. It
+as [[Well|well]] as a literal sense without his _Child's [[history|History]] of England_. It
 
-may not be important as a contribution to history, but it is important
+may not be important as a contribution to [[history]], but it is important
 
-as a contribution to biography; as a contribution to the character and
+as a contribution to [[Biography|biography]]; as a contribution to the character and
 
-the career of the man who wrote it, a typical man of his time. That he
+the career of the man who wrote it, a typical man of his [[Time|time]]. That he
 
 had made no personal historical researches, that he had no special
 
-historical learning, that he had not had, in truth, even anything that
+historical learning, that he had not had, in [[Truth|truth]], even anything that
 
-could be called a good education, all this only accentuates not the
+could be called a good [[Education|education]], all this only accentuates not the
 
 merit but at least the importance of the book. For here we may read in
 
@@ -8645,31 +8645,31 @@ exposition has never been surpassed among men, a brief account of the
 
 origin and meaning of England as it seemed to the average Englishman of
 
-that age. When subtler views of our history, some more false and some
+that age. When subtler views of our [[history]], some more false and some
 
-more true than his, have become popular, or at least well known, when in
+more true than his, have become popular, or at least [[Well|well]] known, when in
 
-the near future Carlylean or Catholic or Marxian views of history have
+the near future Carlylean or Catholic or Marxian views of [[history]] have
 
 spread themselves among the reading public, this book will always remain
 
 as a bright and brisk summary of the cock-sure, healthy-minded,
 
-essentially manly and essentially ungentlemanly view of history which
+essentially manly and essentially ungentlemanly view of [[history]] which
 
-characterised the Radicals of that particular Radical era. The history
+characterised the Radicals of that particular Radical era. The [[history]]
 
 tells us nothing about the periods that it talks about; but it tells us
 
 a great deal about the period that it does not talk about; the period in
 
-which it was written. It is in no sense a history of England from the
+which it was written. It is in no sense a [[history]] of England from the
 
 Roman invasion; but it is certainly one of the documents which will
 
-contribute to a history of England in the nineteenth century.
+contribute to a [[history]] of England in the nineteenth century.
 
-Of the actual nature of its philosophical and technical limitations it
+Of the actual [[Nature|nature]] of its philosophical and technical limitations it
 
 is, I suppose, unnecessary to speak. They all resolve themselves into
 
@@ -8691,7 +8691,7 @@ unmeaning, often accidental, and nearly always unfair. Thus, for
 
 instance, a fierce and fighting penal code, which had been perfectly
 
-natural when the robbers were as strong as the Government, had become in
+natural when the robbers were as strong as the [[government|Government]], had become in
 
 more ordered times nothing but a base and bloody habit. Thus again
 
@@ -8707,7 +8707,7 @@ and needful work; but it was so difficult that to the men engaged in it
 
 it blocked up the perspective and filled the sky, so that they slid into
 
-a very natural mental mistake which coloured all their views of history.
+a very natural mental mistake which coloured all their views of [[history]].
 
 They supposed that this particular problem on which they were engaged
 
@@ -8715,17 +8715,17 @@ was the one problem upon which all mankind had always been engaged. They
 
 got it into their heads that breaking away from a dead past was the
 
-perpetual process of humanity. The truth is obviously that humanity has
+perpetual process of humanity. The [[Truth|truth]] is obviously that humanity has
 
 found itself in many difficulties very different from that. Sometimes
 
 the best business of an age is to resist some alien invasion; sometimes
 
-to preach practical self-control in a world too self-indulgent and
+to preach practical [[Self|self]]-control in a world too [[Self|self]]-indulgent and
 
 diffused; sometimes to prevent the growth in the State of great new
 
-private enterprises that would poison or oppress it. Above all it may
+private enterprises that would [[Poison|poison]] or oppress it. Above all it may
 
 sometimes happen that the highest task of a thinking citizen may be to
 
@@ -8741,7 +8741,7 @@ exactly the position of all thinking men in what we call the dark ages,
 
 say from the sixth to the tenth century. The cheap progressive view of
 
-history can never make head or tail of that epoch; it was an epoch
+[[history]] can never make head or tail of that epoch; it was an epoch
 
 upside down. We think of the old things as barbaric and the new things
 
@@ -8751,21 +8751,21 @@ the barbaric and brutally ignorant things were new and up to date.
 
 Republicanism was a fading legend; despotism was a new and successful
 
-experiment. Christianity was not only better than the clans that
+experiment. [[Christianity]] was not only better than the clans that
 
-rebelled against it; Christianity was more rationalistic than they were.
+rebelled against it; [[Christianity]] was more rationalistic than they were.
 
 When men looked back they saw progress and reason; when they looked
 
 forward they saw shapeless tradition and tribal terror. Touching such
 
-an age it is obvious that all our modern terms describing reform or
+an age it is obvious that all our modern terms describing [[Reform|reform]] or
 
 conservation are foolish and beside the mark. The Conservative was then
 
 the only possible reformer. If a man did not strengthen the remains of
 
-Roman order and the root of Roman Christianity, he was simply helping
+Roman order and the root of Roman [[Christianity]], he was simply helping
 
 the world to roll downhill into ruin and idiotcy. Remember all these
 
@@ -8801,7 +8801,7 @@ call St. Anthony of Padua a good man, we must mean what we mean when we
 
 call Huxley a good man, or else there is no sense in using the word
 
-"good." The fault of the Dickens school of popular history lies, not in
+"good." The fault of the Dickens school of popular [[history]] lies, not in
 
 the application of a plain rule of right and wrong to all circumstances,
 
@@ -8809,15 +8809,15 @@ but in ignorance of the circumstances to which it was applied. It is not
 
 that they wrongly enforce the fixed principle that life should be saved;
 
-it is that they take a fire-engine to a shipwreck and a lifeboat to a
+it is that they take a [[Fire|fire]]-engine to a shipwreck and a lifeboat to a
 
-house on fire. The business of a good man in Dickens's time was to bring
+[[house]] on [[Fire|fire]]. The business of a good man in Dickens's [[Time|time]] was to bring
 
-justice up to date. The business of a good man in Dunstan's time was to
+justice up to date. The business of a good man in Dunstan's [[Time|time]] was to
 
-toil to ensure the survival of any justice at all.
+toil to ensure the [[Survival|survival]] of any justice at all.
 
-And Dickens, through being a living and fighting man of his own time,
+And Dickens, through being a living and fighting man of his own [[Time|time]],
 
 kept the health of his own heart, and so saw many truths with a single
 
@@ -8841,19 +8841,19 @@ but was probably not shared by Rufus. In this connection, or rather in
 
 connection with the other case of Froude, it is worth while to take
 
-another figure from Dickens's history, which illustrates the other and
+another figure from Dickens's [[history]], which illustrates the other and
 
 better side of the facile and popular method. Sheer ignorance of the
 
 environment made him wrong about Dunstan. But sheer instinct and good
 
-moral tradition made him right, for instance, about Henry VIII.; right
+moral tradition made him right, for instance, about [[Henry VIII]].; right
 
-where Froude is wildly wrong. Dickens's imagination could not re-picture
+where Froude is wildly wrong. Dickens's [[Imagination|imagination]] could not re-picture
 
 an age where learning and liberty were dying rather than being born: but
 
-Henry VIII. lived in a time of expanding knowledge and unrest; a time
+[[Henry VIII]]. lived in a [[Time|time]] of expanding knowledge and unrest; a [[Time|time]]
 
 therefore somewhat like the Victorian. And Dickens in his childish but
 
@@ -8861,9 +8861,9 @@ robust way does perceive the main point about him: that he was a wicked
 
 man. He misses all the fine shades, of course; he makes him every kind
 
-of wicked man at once. He leaves out the serious interests of the man:
+of wicked man at once. He [[Leaves|leaves]] out the serious interests of the man:
 
-his strange but real concern for theology; his love of certain legal and
+his strange but real concern for theology; his [[Love|love]] of certain legal and
 
 moral forms; his half-unconscious patriotism. But he sees the solid bulk
 
@@ -8871,39 +8871,39 @@ of definite badness simply because it was there; and Froude cannot see
 
 it at all; because Froude followed Carlyle and played tricks with the
 
-eternal conscience. Henry VIII. _was_ "a blot of blood and grease upon
+eternal [[Conscience|conscience]]. [[Henry VIII]]. _was_ "a blot of [[Blood|blood]] and grease upon
 
-the history of England." For he was the embodiment of the Devil in the
+the [[history]] of England." For he was the embodiment of the Devil in the
 
 Renascence, that wild worship of mere pleasure and scorn, which with its
 
 pictures and its palaces has enriched and ruined the world.
 
-The time will soon come when the mere common-sense of Dickens, like the
+The [[Time|time]] will soon come when the mere common-sense of Dickens, like the
 
 mere common-sense of Macaulay (though his was poisoned by learning and
 
 Whig politics), will appear to give a plainer and therefore truer
 
-picture of the mass of history than the mystical perversity of a man of
+picture of the mass of [[history]] than the mystical perversity of a man of
 
 genius writing only out of his own temperament, like Carlyle or Taine.
 
 If a man has a new theory of ethics there is one thing he must not be
 
-allowed to do. Let him give laws on Sinai, let him dictate a Bible, let
+allowed to do. Let him give laws on Sinai, let him dictate a [[Bible]], let
 
 him fill the world with cathedrals if he can. But he must not be allowed
 
-to write a history of England; or a history of any country. All history
+to write a [[history]] of England; or a [[history]] of any country. All [[history]]
 
-was conducted on ordinary morality: with his extraordinary morality he
+was conducted on ordinary [[morality]]: with his extraordinary [[morality]] he
 
 is certain to read it all askew. Thus Carlyle tries to write of the
 
-Middle Ages with a bias against humility and mercy; that is, with a bias
+Middle Ages with a bias against [[Humility|humility]] and [[Mercy|mercy]]; that is, with a bias
 
-against the whole theoretic morality of the Middle Ages. The result is
+against the whole theoretic [[morality]] of the Middle Ages. The result is
 
 that he turns into a mere turmoil of arrogant German savages what was
 
@@ -8917,11 +8917,11 @@ passing moment, but in that moment, to be true to eternal things.
 
 It must be remembered, of course, that Dickens deliberately offers this
 
-only as a "child's" history of England. That is, he only professes to be
+only as a "[[Child|child]]'s" [[history]] of England. That is, he only professes to be
 
-able to teach history as any father of a little boy of five professes to
+able to teach [[history]] as any father of a little boy of five professes to
 
-be able to teach him history. And although the history of England would
+be able to teach him [[history]]. And although the [[history]] of England would
 
 certainly be taught very differently (as regards the actual criticism of
 
@@ -8929,25 +8929,25 @@ events and men) in a family with a wider culture or with another
 
 religion, the general method would be the same. For the general method
 
-is quite right. This black-and-white history of heroes and villains;
+is quite right. This black-and-white [[history]] of heroes and villains;
 
-this history full of pugnacious ethics and of nothing else, is the right
+this [[history]] full of pugnacious ethics and of nothing else, is the right
 
-kind of history for children. I have often wondered how the scientific
+kind of [[history]] for children. I have often wondered how the scientific
 
-Marxians and the believers in "the materialist view of history" will
+Marxians and the believers in "the materialist view of [[history]]" will
 
 ever manage to teach their dreary economic generalisations to children:
 
-but I suppose they will have no children. Dickens's history will always
+but I suppose they will have no children. Dickens's [[history]] will always
 
 be popular with the young; almost as popular as Dickens's novels, and
 
 for the same reason: because it is full of moralising. Science and art
 
-without morality are not dangerous in the sense commonly supposed. They
+without [[morality]] are not dangerous in the sense commonly supposed. They
 
-are not dangerous like a fire, but dangerous like a fog. A fire is
+are not dangerous like a [[Fire|fire]], but dangerous like a fog. A [[Fire|fire]] is
 
 dangerous in its brightness; a fog in its dulness; and thought without
 
@@ -8955,7 +8955,7 @@ morals is merely dull, like a fog. The fog seems to be creeping up the
 
 street; putting out lamp after lamp. But this cockney lamp-post which
 
-the children love is still crowned with its flame; and when the fathers
+the children [[Love|love]] is still crowned with its flame; and when the fathers
 
 have forgotten ethics, their babies will turn and teach them.
 
@@ -8975,7 +8975,7 @@ they lead to warmth; whereas, obviously, we ought, even in a social
 
 sense, to seek those things specially. The warmth of the discussion is
 
-as much a part of hospitality as the warmth of the fire. And it is
+as much a part of hospitality as the warmth of the [[Fire|fire]]. And it is
 
 singularly suggestive that in English literature the two things have
 
@@ -8987,19 +8987,19 @@ his narrow political conviction. The very people who would mock him for
 
 his narrow radicalism are those who would mock him for his broad
 
-fireside. Real conviction and real charity are much nearer than people
+fireside. Real conviction and real [[Charity|charity]] are much nearer than people
 
-suppose. Dickens was capable of loving all men; but he refused to love
+suppose. Dickens was capable of loving all men; but he refused to [[Love|love]]
 
-all opinions. The modern humanitarian can love all opinions, but he
+all opinions. The modern humanitarian can [[Love|love]] all opinions, but he
 
-cannot love all men; he seems, sometimes, in the ecstasy of his
+cannot [[Love|love]] all men; he seems, sometimes, in the ecstasy of his
 
-humanitarianism, even to hate them all. He can love all opinions,
+[[Humanitarianism|humanitarianism]], even to hate them all. He can [[Love|love]] all opinions,
 
 including the opinion that men are unlovable.
 
-In feeling Dickens as a lover we must never forget him as a fighter, and
+In feeling Dickens as a [[Lover|lover]] we must never forget him as a fighter, and
 
 a fighter for a creed; but indeed there is no other kind of fighter. The
 
@@ -9013,7 +9013,7 @@ strictly to decide how far he was to be excused. He was willing to like
 
 Mr. Twemlow in spite of his snobbishness, but Dickens and Dickens's
 
-doctrine were alone to be judges of how far he was snobbish. There was
+doctrine were [[Alone|alone]] to be judges of how far he was snobbish. There was
 
 never a more didactic writer: hence there was never one more amusing. He
 
@@ -9037,7 +9037,7 @@ when you will not come upon one of the convictions of Dickens; and when
 
 you do come upon it you do know it. It is as hard and as high as any
 
-precipice or peak of the mountains. The highest and hardest of these
+precipice or peak of the [[Mountains|mountains]]. The highest and hardest of these
 
 peaks is _Hard Times_.
 
@@ -9049,21 +9049,21 @@ that his bones stick out. There are indeed many other books of his which
 
 are written better and written in a sadder tone. _Great Expectations_ is
 
-melancholy in a sense; but it is doubtful of everything, even of its
+[[Melancholy|melancholy]] in a sense; but it is doubtful of everything, even of its
 
-own melancholy. _The Tale of Two Cities_ is a great tragedy, but it is
+own [[Melancholy|melancholy]]. _The Tale of Two Cities_ is a great [[Tragedy|tragedy]], but it is
 
-still a sentimental tragedy. It is a great drama, but it is still a
+still a sentimental [[Tragedy|tragedy]]. It is a great drama, but it is still a
 
-melodrama. But this tale of _Hard Times_ is in some way harsher than all
+[[Melodrama|melodrama]]. But this tale of _Hard Times_ is in some way harsher than all
 
 these. For it is the expression of a righteous indignation which cannot
 
-condescend to humour and which cannot even condescend to pathos. Twenty
+condescend to [[Humour|humour]] and which cannot even condescend to pathos. Twenty
 
 times we have taken Dickens's hand and it has been sometimes hot with
 
-revelry and sometimes weak with weariness; but this time we start a
+revelry and sometimes weak with weariness; but this [[Time|time]] we start a
 
 little, for it is inhumanly cold; and then we realise that we have
 
@@ -9109,11 +9109,11 @@ unprepared for their ideas--a world ignorant of the possibility of such
 
 ideas. Somewhat the same mistake is made by those who suggest that
 
-Christianity was adopted by a world incapable of criticising it; whereas
+[[Christianity]] was adopted by a world incapable of criticising it; whereas
 
 obviously it was adopted by a world that was tired of criticising
 
-everything. The vital mistake that is made about the French Revolution
+everything. The vital mistake that is made about the [[French Revolution]]
 
 is merely this--that everyone talks about it as the introduction of a
 
@@ -9127,9 +9127,9 @@ world having never got used to them there would be no mass of men ready
 
 to fight for them at a moment's notice. That which was irritating about
 
-the French Revolution was this--that it was not the introduction of a
+the [[French Revolution]] was this--that it was not the introduction of a
 
-new ideal, but the practical fulfilment of an old one. From the time of
+new ideal, but the practical fulfilment of an old one. From the [[Time|time]] of
 
 the first fairy tales men had always believed ideally in equality; they
 
@@ -9153,7 +9153,7 @@ had been just too accurately copied. It was a platitude which they had
 
 always held in theory unexpectedly put into practice. The tyrants did
 
-not hate democracy because it was a paradox; they hated it because it
+not hate [[democracy]] because it was a [[Paradox|paradox]]; they hated it because it
 
 was a truism which seemed in some danger of coming true.
 
@@ -9201,9 +9201,9 @@ sense of Danton and the mere ecstasy of Herbert Spencer marks the
 
 English way of colouring and altering the revolutionary idea. The
 
-English people as a body went blind, as the saying is, for interpreting
+English people as a [[Body|body]] went blind, as the saying is, for interpreting
 
-democracy entirely in terms of liberty. They said in substance that if
+[[democracy]] entirely in terms of liberty. They said in substance that if
 
 they had more and more liberty it did not matter whether they had any
 
@@ -9227,9 +9227,9 @@ great political economists like Mill. The man who kept his head kept a
 
 head full of fantastic nonsense; he was a writer of rowdy farces, a
 
-demagogue of fiction, a man without education in any serious sense
+demagogue of fiction, a man without [[Education|education]] in any serious sense
 
-whatever, a man whose whole business was to turn ordinary cockneys into
+whatever, a man whose whole business was to turn ordinary [[cockneys]] into
 
 extraordinary caricatures. Yet when all these other children of the
 
@@ -9269,7 +9269,7 @@ stand as a very good example of the spirit of England in those years of
 
 eager emancipation and expanding wealth--the years in which Liberalism
 
-was turned from an omnipotent truth to a weak scientific system.
+was turned from an omnipotent [[Truth|truth]] to a weak scientific system.
 
 Macaulay's private comment on _Hard Times_ runs, "One or two passages of
 
@@ -9281,27 +9281,27 @@ how the book struck those people who were mad on political liberty and
 
 dead about everything else. Macaulay mistook for a new formula called
 
-Socialism what was, in truth, only the old formula called political
+Socialism what was, in [[Truth|truth]], only the old formula called political
 
-democracy. He and his Whigs had so thoroughly mauled and modified the
+[[democracy]]. He and his Whigs had so thoroughly mauled and modified the
 
 original idea of Rousseau or Jefferson that when they saw it again they
 
 positively thought that it was something quite new and eccentric. But
 
-the truth was that Dickens was not a Socialist, but an unspoilt Liberal;
+the [[Truth|truth]] was that Dickens was not a Socialist, but an unspoilt Liberal;
 
 he was not sullen; nay, rather, he had remained strangely hopeful. They
 
 called him a sullen Socialist only to disguise their astonishment at
 
-finding still loose about the London streets a happy republican.
+finding still loose about the [[London]] streets a happy republican.
 
 Dickens is the one living link between the old kindness and the new,
 
 between the good will of the past and the good works of the future. He
 
-links May Day with Bank Holiday, and he does it almost alone. All the
+links May Day with Bank Holiday, and he does it almost [[Alone|alone]]. All the
 
 men around him, great and good as they were, were in comparison
 
@@ -9309,7 +9309,7 @@ puritanical, and never so puritanical as when they were also atheistic.
 
 He is a sort of solitary pipe down which pours to the twentieth century
 
-the original river of Merry England. And although this _Hard Times_ is,
+the original [[River|river]] of Merry England. And although this _Hard Times_ is,
 
 as its name implies, the hardest of his works, although there is less in
 
@@ -9317,7 +9317,7 @@ it perhaps than in any of the others of the _abandon_ and the buffoonery
 
 of Dickens, this only emphasises the more clearly the fact that he stood
 
-almost alone for a more humane and hilarious view of democracy. None of
+almost [[Alone|alone]] for a more humane and hilarious view of [[democracy]]. None of
 
 his great and much more highly-educated contemporaries could help him in
 
@@ -9333,13 +9333,13 @@ bitter, but it was a protest against bitterness. It may be dark, but it
 
 is the darkness of the subject and not of the author. He is by his own
 
-account dealing with hard times, but not with a hard eternity, not with
+account dealing with hard times, but not with a hard [[Eternity|eternity]], not with
 
-a hard philosophy of the universe. Nevertheless, this is the one place
+a hard [[philosophy]] of the universe. Nevertheless, this is the one place
 
 in his work where he does not make us remember human happiness by
 
-example as well as by precept. This is, as I have said, not the saddest,
+example as [[Well|well]] as by precept. This is, as I have said, not the saddest,
 
 but certainly the harshest of his stories. It is perhaps the only place
 
@@ -9353,7 +9353,7 @@ sombre hatred very different from the half affectionate derision which
 
 he directed against the old tyrants or humbugs of the earlier nineteenth
 
-century--the pompous Dedlock or the fatuous Nupkins, the grotesque
+century--the pompous Dedlock or the fatuous Nupkins, the [[Grotesque|grotesque]]
 
 Bumble or the inane Tigg. In those old books his very abuse was
 
@@ -9367,17 +9367,17 @@ dying generation. It was evident, or at least it seemed evident then,
 
 that Nupkins could not go on much longer making up the law of England to
 
-suit himself; that Sir Leicester Dedlock could not go on much longer
+suit himself; that [[Sir Leicester Dedlock]] could not go on much longer
 
-being kind to his tenants as if they were dogs and cats. And some of
+being kind to his tenants as if they were [[dogs]] and cats. And some of
 
 these evils the nineteenth century did really eliminate or improve. For
 
 the first half of the century Dickens and all his friends were justified
 
-in feeling that the chains were falling from mankind. At any rate, the
+in feeling that the [[Chains|chains]] were falling from mankind. At any rate, the
 
-chains did fall from Mr. Rouncewell the Iron-master. And when they fell
+[[Chains|chains]] did fall from Mr. Rouncewell the Iron-master. And when they fell
 
 from him he picked them up and put them upon the poor.
 
@@ -9389,7 +9389,7 @@ LITTLE DORRIT
 
 _Little Dorrit_ stands in Dickens's life chiefly as a signal of how far
 
-he went down the road of realism, of sadness, and of what is called
+he went down the [[Road|road]] of realism, of sadness, and of what is called
 
 modernity. True, it was by no means the best of the books of his later
 
@@ -9397,13 +9397,13 @@ period; some even think it the worst. _Great Expectations_ is certainly
 
 the best of the later novels; some even think it the best of all the
 
-novels. Nor is it the novel most concerned with strictly recent
+novels. Nor is it the [[Novel|novel]] most concerned with strictly recent
 
 problems; that title must be given to _Hard Times_. Nor again is it the
 
-most finely finished or well constructed of the later books; that claim
+most finely finished or [[Well|well]] constructed of the later books; that claim
 
-can be probably made for _Edwin Drood_. By a queer verbal paradox the
+can be probably made for _Edwin Drood_. By a queer verbal [[Paradox|paradox]] the
 
 most carefully finished of his later tales is the tale that is not
 
@@ -9413,11 +9413,11 @@ resemblance to those earlier works by which the young Dickens had set
 
 the whole world laughing long ago. Much of the story refers to a remote
 
-time early in the nineteenth century; much of it was actually recalled
+[[Time|time]] early in the nineteenth century; much of it was actually recalled
 
 and copied from the life of Dickens's father in the old Marshalsea
 
-prison. Also the narrative has something of the form, or rather absence
+[[Prison|prison]]. Also the narrative has something of the form, or rather absence
 
 of form, which belonged to _Nicholas Nickleby_ or _Martin Chuzzlewit_.
 
@@ -9427,41 +9427,41 @@ adventures, like a boy's book about bears and Indians. The Dorrits go
 
 wandering for no particular reason on the Continent of Europe, just as
 
-young Martin Chuzzlewit went wandering for no particular reason on the
+young [[Martin Chuzzlewit]] went wandering for no particular reason on the
 
-continent of America. The story of _Little Dorrit_ stops and lingers at
+continent of [[america|America]]. The story of _Little Dorrit_ stops and lingers at
 
 the doors of the Circumlocution Office much in the same way that the
 
-story of Samuel Pickwick stops and lingers in the political excitement
+story of [[Samuel Pickwick]] stops and lingers in the political excitement
 
-of Eatanswill. The villain, Blandois, is a very stagey villain indeed;
+of Eatanswill. The [[Villain|villain]], Blandois, is a very stagey [[Villain|villain]] indeed;
 
-quite as stagey as Ralph Nickleby or the mysterious Monk. The secret of
+quite as stagey as [[Ralph Nickleby]] or the mysterious Monk. The secret of
 
-the dark house of Clennam is a very silly secret; quite as silly as the
+the dark [[house]] of Clennam is a very silly secret; quite as silly as the
 
-secret of Ralph Nickleby or the secret of Monk. Yet all these external
+secret of [[Ralph Nickleby]] or the secret of Monk. Yet all these external
 
 similarities between _Little Dorrit_ and the earliest books, all this
 
 loose, melodramatic quality, only serves to make more obvious and
 
-startling the fact that some change has come over the soul of Dickens.
+startling the fact that some change has come over the [[Soul|soul]] of Dickens.
 
 _Hard Times_ is harsh; but then _Hard Times_ is a social pamphlet;
 
 perhaps it is only harsh as a social pamphlet must be harsh. _Bleak
 
-House_ is a little sombre; but then _Bleak House_ is almost a detective
+House_ is a little sombre; but then _Bleak House_ is almost a [[Detective|detective]]
 
-story; perhaps it is only sombre in the sense that a detective story
+story; perhaps it is only sombre in the sense that a [[Detective|detective]] story
 
-must be sombre. _A Tale of Two Cities_ is a tragedy; but then _A Tale of
+must be sombre. _A Tale of Two Cities_ is a [[Tragedy|tragedy]]; but then _A Tale of
 
-Two Cities_ is a tale of the French Revolution; perhaps it is only a
+Two Cities_ is a tale of the [[French Revolution]]; perhaps it is only a
 
-tragedy because the French Revolution was a tragedy. _The Mystery of
+[[Tragedy|tragedy]] because the [[French Revolution]] was a [[Tragedy|tragedy]]. _The Mystery of
 
 Edwin Drood_ is dark; but then the mystery of anybody must be dark. In
 
@@ -9471,7 +9471,7 @@ given--a reason of theme or of construction for the slight sadness that
 
 seems to cling to them. But exactly because _Little Dorrit_ is a mere
 
-Dickens novel, it shows that something must somehow have happened to
+Dickens [[Novel|novel]], it shows that something must somehow have happened to
 
 Dickens himself. Even in resuming his old liberty, he cannot resume his
 
@@ -9481,17 +9481,17 @@ It so happens that this strange difference between the new and the old
 
 mode of Dickens can be symbolised and stated in one separate and simple
 
-contrast. Dickens's father had been a prisoner in a debtors' prison, and
+contrast. Dickens's father had been a prisoner in a debtors' [[Prison|prison]], and
 
 Dickens's works contain two pictures partly suggested by the personality
 
 of that prisoner. Mr. Micawber is one picture of him. Mr. Dorrit is
 
-another. This truth is almost incredible, but it is the truth. The
+another. This [[Truth|truth]] is almost incredible, but it is the [[Truth|truth]]. The
 
-joyful Micawber, whose very despair was exultant, and the desolate
+joyful Micawber, whose very [[Despair|despair]] was exultant, and the desolate
 
-Dorrit, whose very pride was pitiful, were the same man. The valiant
+Dorrit, whose very [[Pride|pride]] was pitiful, were the same man. The valiant
 
 Micawber and the nervous, shaking Dorrit were the same man. The defiant
 
@@ -9523,11 +9523,11 @@ anybody who had read Dickens with simple and superficial enjoyment, as
 
 all good literature ought to be read. It will seem to them just as
 
-silly as saying that the Fat Boy and Mr. Alfred Jingle were both copied
+silly as saying that the Fat Boy and Mr. [[Alfred Jingle]] were both copied
 
 from the same character. It will seem as insane as saying that the
 
-character of Smike and the character of Major Bagstock were both copied
+character of [[Smike]] and the character of [[Major Bagstock]] were both copied
 
 from Dickens's father. Yet it is an unquestionable historical fact that
 
@@ -9551,59 +9551,59 @@ men do. My only purpose here is to point out that Dickens drew the gay
 
 moral in 1849, and the sad moral in 1857.
 
-There must have been some real sadness at this time creeping like a
+There must have been some real sadness at this [[Time|time]] creeping like a
 
 cloud over Dickens himself. It is nothing that a man dwells on the
 
 darkness of dark things; all healthy men do that. It is when he dwells
 
-on the darkness of bright things that we have reason to fear some
+on the darkness of bright things that we have reason to [[Fear|fear]] some
 
 disease of the emotions. There must really have been some depression
 
-when a man can only see the sad side of flowers or the sad side of
+when a man can only see the sad side of [[Flowers|flowers]] or the sad side of
 
 holidays or the sad side of wine. And there must be some depression of
 
 an uncommonly dark and genuine character when a man has reached such a
 
-point that he can see only the sad side of Mr. Wilkins Micawber.
+point that he can see only the sad side of Mr. [[Wilkins Micawber]].
 
-Yet this is in reality what had happened to Dickens about this time.
+Yet this is in reality what had happened to Dickens about this [[Time|time]].
 
-Staring at Wilkins Micawber he could see only the weakness and the
+Staring at [[Wilkins Micawber]] he could see only the weakness and the
 
-tragedy that was made possible by his indifference, his indulgence, and
+[[Tragedy|tragedy]] that was made possible by his indifference, his indulgence, and
 
 his bravado. He had already indeed been slightly moved towards this
 
 study of the feebleness and ruin of the old epicurean type with which he
 
-had once sympathised, the type of Bob Sawyer or Dick Swiveller. He had
+had once sympathised, the type of Bob Sawyer or [[Dick Swiveller]]. He had
 
 already attacked the evil of it in _Bleak House_ in the character of
 
-Harold Skimpole, with its essentially cowardly carelessness and its
+[[Harold Skimpole]], with its essentially cowardly carelessness and its
 
 highly selfish communism. Nevertheless, as I have said before, it must
 
 have been no small degree of actual melancholia which led Dickens to
 
-look for a lesson of disaster and slavery in the very same career from
+look for a lesson of disaster and [[Slavery|slavery]] in the very same career from
 
 which he had once taught lessons of continual recuperation and a kind of
 
-fantastic freedom. There must have been at this time some melancholy
+fantastic [[Freedom|freedom]]. There must have been at this [[Time|time]] some [[Melancholy|melancholy]]
 
-behind the writings. There must have existed on this earth at the time
+behind the writings. There must have existed on this earth at the [[Time|time]]
 
-that portent and paradox--a somewhat depressed Dickens.
+that portent and [[Paradox|paradox]]--a somewhat depressed Dickens.
 
 Perhaps it was a reminiscence of that metaphorical proverb which tells
 
-us that "truth lies at the bottom of a well." Perhaps these people
+us that "[[Truth|truth]] lies at the [[Bottom|bottom]] of a [[Well|well]]." Perhaps these people
 
-thought that the only way to find truth in the well was to drown
+thought that the only way to find [[Truth|truth]] in the [[Well|well]] was to drown
 
 oneself. But on whatever thin theoretic basis, the type and period of
 
@@ -9625,9 +9625,9 @@ pre-eminent and unmistakable. This is the fact that when all is said and
 
 done the main business of the story of _Little Dorrit_ is to describe
 
-the victory of circumstances over a soul. The circumstances are the
+the victory of circumstances over a [[Soul|soul]]. The circumstances are the
 
-financial ruin and long imprisonment of Edward Dorrit; the soul is
+financial ruin and long [[Imprisonment|imprisonment]] of Edward Dorrit; the [[Soul|soul]] is
 
 Edward Dorrit himself. Let it be granted that the circumstances are
 
@@ -9635,19 +9635,19 @@ exceptional and oppressive, are denounced as exceptional and oppressive,
 
 are finally exploded and overthrown; still, they are circumstances. Let
 
-it be granted that the soul is that of a man perhaps weak in any case
+it be granted that the [[Soul|soul]] is that of a man perhaps weak in any case
 
-and retaining many merits to the last, still it is a soul. Let it be
+and retaining many merits to the last, still it is a [[Soul|soul]]. Let it be
 
 granted, above all, that the admission that such spiritual tragedies do
 
-occur does not decrease by so much as an iota our faith in the validity
+occur does not decrease by so much as an iota our [[Faith|faith]] in the validity
 
 of any spiritual struggle. For example, Stevenson has made a study of
 
 the breakdown of a good man's character under a burden for which he is
 
-not to blame, in the tragedy of Henry Durie in _The Master of
+not to blame, in the [[Tragedy|tragedy]] of Henry Durie in _The Master of
 
 Ballantrae_. Yet he has added, in the mouth of Mackellar, the exact
 
@@ -9687,7 +9687,7 @@ thistledown. Wherever there is the definite phenomenon called
 
 depression, it commonly means that something else has been closer to us
 
-than so normal a thing as death. There has been disease, bodily or
+than so normal a thing as [[Death|death]]. There has been disease, bodily or
 
 mental, or there has been sin, or there has been some struggle or
 
@@ -9699,9 +9699,9 @@ a wholesome human life; there had been the quarrel with his wife, and
 
 there had been the strain of incessant and exaggerated intellectual
 
-labour. He had not an easy time; and on top of that (or perhaps rather
+labour. He had not an easy [[Time|time]]; and on top of that (or perhaps rather
 
-at the bottom of it) he had not an easy nature. Not only did his life
+at the [[Bottom|bottom]] of it) he had not an easy [[Nature|nature]]. Not only did his life
 
 necessitate work, but his character necessitated worry about work; and
 
@@ -9737,31 +9737,31 @@ this more sombre quality of which I have spoken are not very hard to
 
 find. The thing can easily be seen by comparing a book like _Little
 
-Dorrit_ with a book like _David Copperfield_. David Copperfield and
+Dorrit_ with a book like _David Copperfield_. [[David Copperfield]] and
 
-Arthur Clennam have both been brought up in unhappy homes, under bitter
+[[Arthur Clennam]] have both been brought up in unhappy homes, under bitter
 
 guardians and a black, disheartening religion. It is the whole point of
 
-David Copperfield that he has broken out of a Calvinistic tyranny which
+[[David Copperfield]] that he has broken out of a Calvinistic tyranny which
 
-he cannot forgive. But it is the whole point of Arthur Clennam that he
+he cannot forgive. But it is the whole point of [[Arthur Clennam]] that he
 
 has not broken out of the Calvinistic tyranny, but is still under its
 
-shadow. Copperfield has come from a gloomy childhood; Clennam, though
+[[Shadow|shadow]]. Copperfield has come from a gloomy [[Childhood|childhood]]; Clennam, though
 
-forty years old, is still in a gloomy childhood. When David meets the
+forty years old, is still in a gloomy [[Childhood|childhood]]. When David meets the
 
 Murdstones again it is to defy them with the health and hilarious anger
 
 that go with his happy delirium about Dora. But when Clennam re-enters
 
-his sepulchral house there is a weight upon his soul which makes it
+his sepulchral [[house]] there is a weight upon his [[Soul|soul]] which makes it
 
 impossible for him to answer, with any spirit, the morbidities of his
 
-mother, or even the grotesque interferences of Mr. Flintwinch. This is
+mother, or even the [[Grotesque|grotesque]] interferences of Mr. Flintwinch. This is
 
 only another example of the same quality which makes the Dickens of
 
@@ -9771,27 +9771,27 @@ Dickens of _David Copperfield_ insisted on his splendid
 
 irresponsibility, his essential emancipation. Imprisonments passed over
 
-Micawber like summer clouds. But the imprisonment in _Little Dorrit_ is
+Micawber like [[Summer|summer]] clouds. But the [[Imprisonment|imprisonment]] in _Little Dorrit_ is
 
 like a complete natural climate and environment; it has positively
 
-modified the shapes and functions of the animals that dwell in it. A
+modified the shapes and functions of the [[Animals|animals]] that dwell in it. A
 
 horrible thing has happened to Dickens; he has almost become an
 
 Evolutionist. Worse still, in studying the Calvinism of Mrs. Clennam's
 
-house, he has almost become a Calvinist. He half believes (as do some of
+[[house]], he has almost become a Calvinist. He half believes (as do some of
 
-the modern scientists) that there is really such a thing as "a child of
+the modern scientists) that there is really such a thing as "a [[Child|child]] of
 
-wrath," that a man on whom such an early shadow had fallen could never
+wrath," that a man on whom such an early [[Shadow|shadow]] had fallen could never
 
 shake it off. For ancient Calvinism and modern Evolutionism are
 
 essentially the same things. They are both ingenious logical blasphemies
 
-against the dignity and liberty of the human soul.
+against the dignity and liberty of the human [[Soul|soul]].
 
 The workmanship of the book in detail is often extremely good. The one
 
@@ -9823,7 +9823,7 @@ in the predestined passion of Tattycoram or the incurable cruelty of
 
 Miss Wade. Even Little Dorrit herself had, we are told, one stain from
 
-her prison experience; and it is spoken of like a bodily stain; like
+her [[Prison|prison]] experience; and it is spoken of like a bodily stain; like
 
 something that cannot be washed away.
 
@@ -9837,17 +9837,17 @@ have done; he descended into Hell. Nor is it irreverent to continue the
 
 quotation from the Creed, for in the next book he was to write he was to
 
-break out of all these dreams of fate and failure, and with his highest
+break out of all these [[Dreams|dreams]] of fate and failure, and with his highest
 
 voice to speak of the triumph of the weak of this world. His next book
 
-was to leave us saying, as Sydney Carton mounted the scaffold, words
+was to leave us saying, as [[Sydney Carton]] mounted the scaffold, words
 
 which, splendid in themselves, have never been so splendidly quoted--"I
 
-am the Resurrection and the Life; whoso believeth in Me though he be
+am the [[Resurrection]] and the Life; whoso believeth in Me though he be
 
-dead yet he shall live." In Sydney Carton at least, Dickens shows none
+dead yet he shall live." In [[Sydney Carton]] at least, Dickens shows none
 
 of that dreary submission to the environment of the irrevocable that had
 
@@ -9855,7 +9855,7 @@ for an instant lain on him like a cloud. On this occasion he sees with
 
 the old heroic clearness that to be a failure may be one step to being a
 
-saint. On the third day he rose again from the dead.
+saint. On the third day he [[Rose|rose]] again from the dead.
 
   [Illustration: Charles Dickens, 1859
 
@@ -9867,13 +9867,13 @@ As an example of Dickens's literary work, _A Tale of Two Cities_ is not
 
 wrongly named. It is his most typical contact with the civic ideals of
 
-Europe. All his other tales have been tales of one city. He was in
+Europe. All his other tales have been tales of one [[City|city]]. He was in
 
 spirit a Cockney; though that title has been quite unreasonably twisted
 
 to mean a cad. By the old sound and proverbial test a Cockney was a man
 
-born within the sound of Bow bells. That is, he was a man born within
+born within the sound of Bow [[Bells|bells]]. That is, he was a man born within
 
 the immediate appeal of high civilisation and of eternal religion.
 
@@ -9881,19 +9881,19 @@ Shakespeare, in the heart of his fantastic forest, turns with a splendid
 
 suddenness to the Cockney ideal as being the true one after all. For a
 
-jest, for a reaction, for an idle summer love or still idler summer
+jest, for a reaction, for an idle [[Summer|summer]] [[Love|love]] or still idler [[Summer|summer]]
 
-hatred, it is well to wander away into the bewildering forest of Arden.
+hatred, it is [[Well|well]] to wander away into the bewildering forest of Arden.
 
-It is well that those who are sick with love or sick with the absence of
+It is [[Well|well]] that those who are sick with [[Love|love]] or sick with the absence of
 
-love, those who weary of the folly of courts or weary yet more of their
+[[Love|love]], those who weary of the folly of courts or weary yet more of their
 
 wisdom, it is natural that these should trail away into the twinkling
 
 twilight of the woods. Yet it is here that Shakespeare makes one of his
 
-most arresting and startling assertions of the truth. Here is one of
+most arresting and startling assertions of the [[Truth|truth]]. Here is one of
 
 those rare and tremendous moments of which one may say that there is a
 
@@ -9901,7 +9901,7 @@ stage direction, "Enter Shakespeare." He has admitted that for men weary
 
 of courts, for men sick of cities, the wood is the wisest place, and he
 
-has praised it with his purest lyric ecstasy. But when a man enters
+has praised it with his purest [[Lyric|lyric]] ecstasy. But when a man enters
 
 suddenly upon that celestial picnic, a man who is not sick of cities,
 
@@ -9915,7 +9915,7 @@ sincerity and cries the praise of practical human civilisation:
 
     If ever you have sat at good men's feasts,
 
-    If ever been where bells have knolled to church,
+    If ever been where [[Bells|bells]] have knolled to church,
 
     If ever from your eyelids wiped a tear
 
@@ -9925,11 +9925,11 @@ There is nothing finer even in Shakespeare than that conception of the
 
 circle of rich men all pretending to rough it in the country, and the
 
-one really hungry man entering, sword in hand, and praising the city.
+one really hungry man entering, [[Sword|sword]] in hand, and praising the [[City|city]].
 
-"If ever been where bells have knolled to church"; if you have ever been
+"If ever been where [[Bells|bells]] have knolled to church"; if you have ever been
 
-within sound of Bow bells; if you have ever been happy and haughty
+within sound of Bow [[Bells|bells]]; if you have ever been happy and haughty
 
 enough to call yourself a Cockney.
 
@@ -9945,7 +9945,7 @@ served." If there was one thing he would have favoured instinctively it
 
 would have been the spreading of the town as meaning the spreading of
 
-civilisation. And we should (I hope) all favour the spreading of the
+civilisation. And we should (I [[Hope|hope]]) all favour the spreading of the
 
 town if it did mean the spreading of civilisation. The objection to the
 
@@ -9955,7 +9955,7 @@ such a suburb is much more barbaric than any village in Europe could
 
 ever conceivably be. And again, if there is anything that Dickens would
 
-have definitely hated it is that general treatment of nature as a
+have definitely hated it is that general treatment of [[Nature|nature]] as a
 
 dramatic spectacle, a piece of scene-painting which has become the
 
@@ -9967,15 +9967,15 @@ was upon the whole emphatically on the side of the town. He was on the
 
 side of bricks and mortar. He was a citizen; and, after all, a citizen
 
-means a man of the city. His strength was, after all, in the fact that
+means a man of the [[City|city]]. His strength was, after all, in the fact that
 
-he was a man of the city. But, after all, his weakness, his calamitous
+he was a man of the [[City|city]]. But, after all, his weakness, his calamitous
 
-weakness, was that he was a man of one city.
+weakness, was that he was a man of one [[City|city]].
 
 For all practical purposes he had never been outside such places as
 
-Chatham and London. He did indeed travel on the Continent; but surely no
+Chatham and [[London]]. He did indeed travel on the Continent; but surely no
 
 man's travel was ever so superficial as his. He was more superficial
 
@@ -9987,17 +9987,17 @@ whether a man has travelled to any profit in Europe. An Englishman is,
 
 as such, a European, and as he approaches the central splendours of
 
-Europe he ought to feel that he is coming home. If he does not feel at
+Europe he ought to feel that he is coming [[Home|home]]. If he does not feel at
 
-home he had much better have stopped at home. England is a real home;
+[[Home|home]] he had much better have stopped at [[Home|home]]. England is a real [[Home|home]];
 
-London is a real home; and all the essential feelings of adventure or
+[[London]] is a real [[Home|home]]; and all the essential feelings of adventure or
 
-the picturesque can easily be gained by going out at night upon the
+the picturesque can easily be gained by going out at [[Night|night]] upon the
 
 flats of Essex or the cloven hills of Surrey. Your visit to Europe is
 
-useless unless it gives you the sense of an exile returning. Your first
+useless unless it gives you the sense of an [[Exile|exile]] returning. Your first
 
 sight of Rome is futile unless you feel that you have seen it before.
 
@@ -10009,13 +10009,13 @@ as a boy, a scamper out of Chatham into some strange meadows, as he
 
 would have enjoyed, when a grown man, a steam in a police boat out into
 
-the fens to the far east of London. But he was the Cockney venturing
+the fens to the far east of [[London]]. But he was the Cockney venturing
 
-far; he was not the European coming home. He is still the splendid
+far; he was not the European coming [[Home|home]]. He is still the splendid
 
-Cockney Orlando of whom I spoke above; he cannot but suppose that any
+Cockney [[Orlando]] of whom I spoke above; he cannot but suppose that any
 
-strange men, being happy in some pastoral way, are mysterious foreign
+strange men, being happy in some [[Pastoral|pastoral]] way, are mysterious foreign
 
 scoundrels. Dickens's real speech to the lazy and laughing civilisation
 
@@ -10023,21 +10023,21 @@ of Southern Europe would really have run in the Shakespearian words:
 
                     but whoe'er you be
 
-    Who in this desert inaccessible,
+    Who in this [[Desert|desert]] inaccessible,
 
-    Under the shade of melancholy boughs
+    Under the shade of [[Melancholy|melancholy]] boughs
 
-    Lose and neglect the creeping hours of time.
+    Lose and neglect the creeping hours of [[Time|time]].
 
     If ever you have looked on better things,
 
-    If ever been where bells have knolled to church.
+    If ever been where [[Bells|bells]] have knolled to church.
 
 If, in short, you have ever had the advantage of being born within the
 
-sound of Bow bells. Dickens could not really conceive that there was any
+sound of Bow [[Bells|bells]]. Dickens could not really conceive that there was any
 
-other city but his own.
+other [[City|city]] but his own.
 
 It is necessary thus to insist that Dickens never understood the
 
@@ -10045,9 +10045,9 @@ Continent, because only thus can we appreciate the really remarkable
 
 thing he did in _A Tale of Two Cities_. It is necessary to feel, first
 
-of all, the fact that to him London was the centre of the universe. He
+of all, the fact that to him [[London]] was the centre of the universe. He
 
-did not understand at all the real sense in which Paris is the capital
+did not understand at all the real sense in which [[Paris]] is the capital
 
 of Europe. He had never realised that all roads lead to Rome. He had
 
@@ -10057,9 +10057,9 @@ was a Londoner. Yet with everything against him he did this astonishing
 
 thing. He wrote a book about two cities, one of which he understood; the
 
-other he did not understand. And his description of the city he did not
+other he did not understand. And his description of the [[City|city]] he did not
 
-know is almost better than his description of the city he did know. This
+know is almost better than his description of the [[City|city]] he did know. This
 
 is the entrance of the unquestionable thing about Dickens; the thing
 
@@ -10067,7 +10067,7 @@ called genius; the thing which every one has to talk about directly and
 
 distinctly because no one knows what it is. For a plain word (as for
 
-instance the word fool) always covers an infinite mystery.
+instance the word [[Fool|fool]]) always covers an infinite mystery.
 
 _A Tale of Two Cities_ is one of the more tragic tints of the later life
 
@@ -10075,9 +10075,9 @@ of Dickens. It might be said that he grew sadder as he grew older; but
 
 this would be false, for two reasons. First, a man never or hardly ever
 
-does grow sad as he grows old; on the contrary, the most melancholy
+does grow sad as he grows old; on the contrary, the most [[Melancholy|melancholy]]
 
-young lovers can be found forty years afterwards chuckling over their
+young [[lovers]] can be found forty years afterwards chuckling over their
 
 port wine. And second, Dickens never did grow old, even in a physical
 
@@ -10089,7 +10089,7 @@ everything. To call Dickens a victim of elderly disenchantment would be
 
 as absurd as to say the same of Keats. Such fatigue as there was, was
 
-due not to the slowing down of his blood, but rather to its unremitting
+due not to the slowing down of his [[Blood|blood]], but rather to its unremitting
 
 rapidity. He was not wearied by his age; rather he was wearied by his
 
@@ -10105,33 +10105,33 @@ fact is the fact of his dependence upon another of the great writers of
 
 the Victorian era. And it is in connection with this that we can best
 
-see the truth of which I have been speaking; the truth that his actual
+see the [[Truth|truth]] of which I have been speaking; the [[Truth|truth]] that his actual
 
-ignorance of France went with amazing intuitive perception of the truth
+ignorance of France went with amazing intuitive perception of the [[Truth|truth]]
 
 about it. It is here that he has most clearly the plain mark of the man
 
 of genius; that he can understand what he does not understand.
 
-Dickens was inspired to the study of the French Revolution and to the
+Dickens was inspired to the study of the [[French Revolution]] and to the
 
-writing of a romance about it by the example and influence of Carlyle.
+writing of a [[Romance|romance]] about it by the example and influence of Carlyle.
 
 Thomas Carlyle undoubtedly rediscovered for Englishmen the revolution
 
 that was at the back of all their policies and reforms. It is an
 
-entertaining side joke that the French Revolution should have been
+entertaining side joke that the [[French Revolution]] should have been
 
 discovered for Britons by the only British writer who did not really
 
 believe in it. Nevertheless, the most authoritative and the most recent
 
-critics on that great renaissance agree in considering Carlyle's work
+critics on that great [[Renaissance|renaissance]] agree in considering Carlyle's work
 
 one of the most searching and detailed power. Carlyle had read a great
 
-deal about the French Revolution. Dickens had read nothing at all,
+deal about the [[French Revolution]]. Dickens had read nothing at all,
 
 except Carlyle. Carlyle was a man who collected his ideas by the careful
 
@@ -10139,7 +10139,7 @@ collation of documents and the verification of references. Dickens was a
 
 man who collected his ideas from loose hints in the streets, and those
 
-always the same streets; as I have said, he was the citizen of one city.
+always the same streets; as I have said, he was the citizen of one [[City|city]].
 
 Carlyle was in his way learned; Dickens was in every way ignorant.
 
@@ -10149,7 +10149,7 @@ historically connected with France. And yet, when all this is said and
 
 certified, Dickens is more right than Carlyle. Dickens's French
 
-Revolution is probably more like the real French Revolution than
+Revolution is probably more like the real [[French Revolution]] than
 
 Carlyle's. It is difficult, if not impossible, to state the grounds of
 
@@ -10169,11 +10169,11 @@ spirits. That is why he preferred prose to poetry. He could understand
 
 rhetoric; for rhetoric means singing with an object. But he could not
 
-understand lyrics; for the lyric means singing without an object; as
+understand lyrics; for the [[Lyric|lyric]] means singing without an object; as
 
-every one does when he is happy. Now for all its blood and its black
+every one does when he is happy. Now for all its [[Blood|blood]] and its black
 
-guillotines, the French Revolution was full of mere high spirits. Nay,
+guillotines, the [[French Revolution]] was full of mere high spirits. Nay,
 
 it was full of happiness. This actual lilt and levity Carlyle never
 
@@ -10187,7 +10187,7 @@ and quite one-sided satisfaction with which the French mob battered down
 
 the Bastille. Dickens utterly and innocently believed in certain things;
 
-he would, I think, have drawn the sword for them. Carlyle half believed
+he would, I think, have drawn the [[Sword|sword]] for them. Carlyle half believed
 
 in half a hundred things; he was at once more of a mystic and more of a
 
@@ -10215,9 +10215,9 @@ No one can fail to notice this deep difference between Dickens and the
 
 Carlyle whom he avowedly copied. Splendid and symbolic as are Carlyle's
 
-scenes of the French Revolution, we have in reading them a curious sense
+scenes of the [[French Revolution]], we have in reading them a curious sense
 
-that everything is happening at night. In Dickens even massacre happens
+that everything is happening at [[Night|night]]. In Dickens even massacre happens
 
 by daylight. Carlyle always assumes that because things were tragedies
 
@@ -10225,7 +10225,7 @@ therefore the men who did them felt tragic. Dickens knows that the man
 
 who works the worst tragedies is the man who feels comic; as for
 
-example, Mr. Quilp. The French Revolution was a much simpler world than
+example, Mr. Quilp. The [[French Revolution]] was a much simpler world than
 
 Carlyle could understand; for Carlyle was subtle and not simple. Dickens
 
@@ -10237,7 +10237,7 @@ that obvious vindictiveness and that obvious brutality which followed.
 
 "Cruelty and the abuse of absolute power," he told an American
 
-slave-owner, "are two of the bad passions of human nature." Carlyle was
+slave-owner, "are two of the bad passions of human [[Nature|nature]]." Carlyle was
 
 quite incapable of rising to the height of that uplifted common-sense.
 
@@ -10251,21 +10251,21 @@ and called it the rule of the strong. In both cases he could not
 
 understand the common-sense justice or the common-sense vengeance of
 
-Dickens and the French Revolution.
+Dickens and the [[French Revolution]].
 
 Yet Dickens has in this book given a perfect and final touch to this
 
-whole conception of mere rebellion and mere human nature. Carlyle had
+whole conception of mere rebellion and mere human [[Nature|nature]]. Carlyle had
 
-written the story of the French Revolution and had made the story a mere
+written the story of the [[French Revolution]] and had made the story a mere
 
-tragedy. Dickens writes the story about the French Revolution, and does
+[[Tragedy|tragedy]]. Dickens writes the story about the [[French Revolution]], and does
 
-not make the Revolution itself the tragedy at all. Dickens knows that an
+not make the Revolution itself the [[Tragedy|tragedy]] at all. Dickens knows that an
 
-outbreak is seldom a tragedy; generally it is the avoidance of a
+outbreak is seldom a [[Tragedy|tragedy]]; generally it is the avoidance of a
 
-tragedy. All the real tragedies are silent. Men fight each other with
+[[Tragedy|tragedy]]. All the real tragedies are silent. Men fight each other with
 
 furious cries, because men fight each other with chivalry and an
 
@@ -10273,25 +10273,25 @@ unchangeable sense of brotherhood. But trees fight each other in utter
 
 stillness; because they fight each other cruelly and without quarter. In
 
-this book, as in history, the guillotine is not the calamity, but rather
+this book, as in [[history]], the guillotine is not the calamity, but rather
 
-the solution of the calamity. The sin of Sydney Carton is a sin of
+the solution of the calamity. The sin of [[Sydney Carton]] is a sin of
 
-habit, not of revolution. His gloom is the gloom of London, not the
+habit, not of revolution. His gloom is the gloom of [[London]], not the
 
-gloom of Paris.
+gloom of [[Paris]].
 
   [Illustration: Charles Dickens, Circa 1860
 
   Photograph by J. & C. Watkins.]
 
-GREAT EXPECTATIONS
+[[Great Expectations|GREAT EXPECTATIONS]]
 
 _Great Expectations_, which was written in the afternoon of Dickens's
 
 life and fame, has a quality of serene irony and even sadness, which
 
-puts it quite alone among his other works. At no time could Dickens
+puts it quite [[Alone|alone]] among his other works. At no [[Time|time]] could Dickens
 
 possibly be called cynical, he had too much vitality; but relatively to
 
@@ -10301,9 +10301,9 @@ cynicism of old age, not the hard cynicism of youth. To be a young cynic
 
 is to be a young brute; but Dickens, who had been so perfectly romantic
 
-and sentimental in his youth, could afford to admit this touch of doubt
+and sentimental in his youth, could afford to admit this touch of [[Doubt|doubt]]
 
-into the mixed experience of his middle age. At no time could any books
+into the mixed experience of his middle age. At no [[Time|time]] could any books
 
 by Dickens have been called Thackerayan. Both of the two men were too
 
@@ -10313,17 +10313,17 @@ book may be called Thackerayan. It is a study in human weakness and the
 
 slow human surrender. It describes how easily a free lad of fresh and
 
-decent instincts can be made to care more for rank and pride and the
+decent instincts can be made to care more for rank and [[Pride|pride]] and the
 
-degrees of our stratified society than for old affection and for honour.
+degrees of our stratified society than for old affection and for [[Honour|honour]].
 
 It is an extra chapter to _The Book of Snobs_.
 
 The best way of stating the change which this book marks in Dickens can
 
-be put in one phrase. In this book for the first time the hero
+be put in one phrase. In this book for the first [[Time|time]] the [[Hero|hero]]
 
-disappears. The hero had descended to Dickens by a long line which
+disappears. The [[Hero|hero]] had descended to Dickens by a long line which
 
 begins with the gods, nay, perhaps if one may say so, which begins with
 
@@ -10331,25 +10331,25 @@ God. First comes Deity and then the image of Deity; first comes the god
 
 and then the demi-god, the Hercules who labours and conquers before he
 
-receives his heavenly crown. That idea, with continual mystery and
+receives his heavenly [[Crown|crown]]. That idea, with continual mystery and
 
 modification, has continued behind all romantic tales; the demi-god
 
-became the hero of paganism; the hero of paganism became the
+became the [[Hero|hero]] of paganism; the [[Hero|hero]] of paganism became the
 
-knight-errant of Christianity; the knight-errant who wandered and was
+knight-errant of [[Christianity]]; the knight-errant who wandered and was
 
-foiled before he triumphed became the hero of the later prose romance,
+foiled before he triumphed became the [[Hero|hero]] of the later prose [[Romance|romance]],
 
-the romance in which the hero had to fight a duel with the villain but
+the [[Romance|romance]] in which the [[Hero|hero]] had to fight a duel with the [[Villain|villain]] but
 
-always survived, in which the hero drove desperate horses through the
+always survived, in which the [[Hero|hero]] drove desperate horses through the
 
-night in order to rescue the heroine, but always rescued her.
+[[Night|night]] in order to rescue the heroine, but always rescued her.
 
-This heroic modern hero, this demi-god in a top-hat, may be said to
+This heroic modern [[Hero|hero]], this demi-god in a top-hat, may be said to
 
-reach his supreme moment and typical example about the time when Dickens
+reach his supreme moment and typical example about the [[Time|time]] when Dickens
 
 was writing that thundering and thrilling and highly unlikely scene in
 
@@ -10359,19 +10359,19 @@ atrocious Gride in his hour of grinning triumph, and a thud upon the
 
 floor above tells them that the heroine's tyrannical father has died
 
-just in time to set her free. That is the apotheosis of the pure heroic
+just in [[Time|time]] to set her free. That is the apotheosis of the pure heroic
 
 as Dickens found it, and as Dickens in some sense continued it. It may
 
 be that it does not appear with quite so much unmistakable youth,
 
-beauty, valour, and virtue as it does in Nicholas Nickleby. Walter Gay
+[[Beauty|beauty]], valour, and virtue as it does in [[Nicholas Nickleby]]. [[Walter Gay]]
 
-is a simpler and more careless hero, but when he is doing any of the
+is a simpler and more careless [[Hero|hero]], but when he is doing any of the
 
-business of the story he is purely heroic. Kit Nubbles is a humbler
+business of the story he is purely heroic. [[Kit Nubbles]] is a humbler
 
-hero, but he is a hero; when he is good he is very good. Even David
+[[Hero|hero]], but he is a [[Hero|hero]]; when he is good he is very good. Even David
 
 Copperfield, who confesses to boyish tremors and boyish evasions in his
 
@@ -10379,45 +10379,45 @@ account of his boyhood, acts the strict stiff part of the chivalrous
 
 gentleman in all the active and determining scenes of the tale. But
 
-_Great Expectations_ may be called, like _Vanity Fair_, a novel without
+_Great Expectations_ may be called, like _Vanity Fair_, a [[Novel|novel]] without
 
-a hero. Almost all Thackeray's novels except Esmond are novels without a
+a [[Hero|hero]]. Almost all Thackeray's novels except Esmond are novels without a
 
-hero, but only one of Dickens's novels can be so described. I do not
+[[Hero|hero]], but only one of Dickens's novels can be so described. I do not
 
-mean that it is a novel without a _jeune premier_, a young man to make
+mean that it is a [[Novel|novel]] without a _jeune premier_, a young man to make
 
-love; _Pickwick_ is that and _Oliver Twist_, and, perhaps, _The Old
+[[Love|love]]; _Pickwick_ is that and _Oliver Twist_, and, perhaps, _The Old
 
-Curiosity Shop_. I mean that it is a novel without a hero in the same
+Curiosity Shop_. I mean that it is a [[Novel|novel]] without a [[Hero|hero]] in the same
 
-far deeper and more deadly sense in which _Pendennis_ is also a novel
+far deeper and more deadly sense in which _Pendennis_ is also a [[Novel|novel]]
 
-without a hero. I mean that it is a novel which aims chiefly at showing
+without a [[Hero|hero]]. I mean that it is a [[Novel|novel]] which aims chiefly at showing
 
-that the hero is unheroic.
+that the [[Hero|hero]] is unheroic.
 
 All such phrases as these must appear of course to overstate the case.
 
-Pip is a much more delightful person than Nicholas Nickleby. Or to take
+Pip is a much more delightful person than [[Nicholas Nickleby]]. Or to take
 
 a stronger case for the purpose of our argument, Pip is a much more
 
-delightful person than Sydney Carton. Still the fact remains. Most of
+delightful person than [[Sydney Carton]]. Still the fact remains. Most of
 
-Nicholas Nickleby's personal actions are meant to show that he is
+[[Nicholas Nickleby]]'s personal actions are meant to show that he is
 
 heroic. Most of Pip's actions are meant to show that he is not heroic.
 
-The study of Sydney Carton is meant to indicate that with all his vices
+The study of [[Sydney Carton]] is meant to indicate that with all his vices
 
-Sydney Carton was a hero. The study of Pip is meant to indicate that
+[[Sydney Carton]] was a [[Hero|hero]]. The study of Pip is meant to indicate that
 
 with all his virtues Pip was a snob. The motive of the literary
 
 explanation is different. Pip and Pendennis are meant to show how
 
-circumstances can corrupt men. Sam Weller and Hercules are meant to show
+circumstances can corrupt men. [[Sam Weller]] and Hercules are meant to show
 
 how heroes can subdue circumstances.
 
@@ -10425,9 +10425,9 @@ This is the preliminary view of the book which is necessary if we are
 
 to regard it as a real and separate fact in the life of Dickens. Dickens
 
-had many moods because he was an artist; but he had one great mood,
+had many moods because he was an [[artist]]; but he had one great mood,
 
-because he was a great artist. Any real difference therefore from the
+because he was a great [[artist]]. Any real difference therefore from the
 
 general drift, or rather (I apologise to Dickens) the general drive of
 
@@ -10451,11 +10451,11 @@ weakness of Pendennis. When he sets out to describe Pip's great
 
 expectation he does not set out, as in a fairytale, with the idea that
 
-these great expectations will be fulfilled; he sets out from the first
+these [[Great Expectations|great expectations]] will be fulfilled; he sets out from the first
 
-with the idea that these great expectations will be disappointing. We
+with the idea that these [[Great Expectations|great expectations]] will be disappointing. We
 
-might very well, as I have remarked elsewhere, apply to all Dickens's
+might very [[Well|well]], as I have remarked elsewhere, apply to all Dickens's
 
 books the title _Great Expectations_. All his books are full of an airy
 
@@ -10511,7 +10511,7 @@ the clothes of which he is so proud and so ashamed. Nothing could be so
 
 exquisitely human, nothing especially could be so exquisitely masculine
 
-as that combination of self-love and self-assertion and even insolence
+as that combination of [[Self|self]]-[[Love|love]] and [[Self|self]]-assertion and even insolence
 
 with a naked and helpless sensibility to the slightest breath of
 
@@ -10523,9 +10523,9 @@ gentleman. Dickens has described perfectly this quivering and
 
 defenceless dignity. Dickens has described perfectly how ill-armed it is
 
-against the coarse humour of real humanity--the real humanity which
+against the coarse [[Humour|humour]] of real humanity--the real humanity which
 
-Dickens loved, but which idealists and philanthropists do not love, the
+Dickens loved, but which idealists and philanthropists do not [[Love|love]], the
 
 humanity of cabmen and costermongers and men singing in a third-class
 
@@ -10543,17 +10543,17 @@ described the weakness of Pip. Exactly what George Eliot and Thackeray
 
 could not have described was the vigour of Trabb's boy. There would have
 
-been admirable humour and observation in their accounts of that
+been admirable [[Humour|humour]] and observation in their accounts of that
 
 intolerable urchin. Thackeray would have given us little light touches
 
-of Trabb's boy, absolutely true to the quality and colour of the humour,
+of Trabb's boy, absolutely true to the quality and colour of the [[Humour|humour]],
 
 just as in his novels of the eighteenth century, the glimpses of Steele
 
 or Bolingbroke or Doctor Johnson are exactly and perfectly true to the
 
-colour and quality of their humour. George Eliot in her earlier books
+colour and quality of their [[Humour|humour]]. George Eliot in her earlier books
 
 would have given us shrewd authentic scraps of the real dialect of
 
@@ -10569,13 +10569,13 @@ what Dickens does give, is the _bounce_ of Trabb's boy. It is the real
 
 unconquerable rush and energy in a character which was the supreme and
 
-quite indescribable greatness of Dickens. He conquered by rushes; he
+quite indescribable [[Greatness|greatness]] of Dickens. He conquered by rushes; he
 
 attacked in masses; he carried things at the spear point in a charge of
 
 spears; he was the Rupert of Fiction. The thing about any figure of
 
-Dickens, about Sam Weller or Dick Swiveller, or Micawber, or Bagstock,
+Dickens, about [[Sam Weller]] or [[Dick Swiveller]], or Micawber, or Bagstock,
 
 or Trabb's boy,--the thing about each one of these persons is that he
 
@@ -10633,17 +10633,17 @@ hated and dreaded in the people. And it is the thing which poor Pip
 
 really hates and dreads in Trabb's boy.
 
-A great man of letters or any great artist is symbolic without knowing
+A great man of letters or any great [[artist]] is symbolic without knowing
 
 it. The things he describes are types because they are truths.
 
-Shakespeare may, or may not, have ever put it to himself that Richard
+Shakespeare may, or may not, have ever put it to himself that [[Richard]]
 
 the Second was a philosophical symbol; but all good criticism must
 
 necessarily see him so. It may be a reasonable question whether the
 
-artist should be allegorical. There can be no doubt among sane men that
+[[artist]] should be allegorical. There can be no [[Doubt|doubt]] among sane men that
 
 the critic should be allegorical. Spenser may have lost by being less
 
@@ -10655,13 +10655,13 @@ a fine book like _Great Expectations_ that we should give even to its
 
 unpretentious and realistic figures a certain massive mysticism. Pip is
 
-Pip, but he is also the well-meaning snob. And this is even more true of
+Pip, but he is also the [[Well|well]]-meaning snob. And this is even more true of
 
 those two great figures in the tale which stand for the English
 
-democracy. For, indeed, the first and last word upon the English
+[[democracy]]. For, indeed, the first and last word upon the English
 
-democracy is said in Joe Gargery and Trabb's boy. The actual English
+[[democracy]] is said in [[Joe Gargery]] and Trabb's boy. The actual English
 
 populace, as distinct from the French populace or the Scotch or Irish
 
@@ -10689,11 +10689,11 @@ sometimes do their best to make the tyrants lose their heads. The gutter
 
 boys of the great towns carry the art of personal criticism to so rich
 
-and delicate a degree that some well-dressed persons when they walk past
+and delicate a degree that some [[Well|well]]-dressed persons when they walk past
 
 a file of them feel as if they were walking past a row of omniscient
 
-critics or judges with a power of life and death. Here and there only is
+critics or judges with a power of life and [[Death|death]]. Here and there only is
 
 some ordinary human custom, some natural human pleasure suppressed in
 
@@ -10701,11 +10701,11 @@ deference to the fastidiousness of the rich. But all the rich tremble
 
 before the fastidiousness of the poor.
 
-Of the other type of democracy it is far more difficult to speak. It is
+Of the other type of [[democracy]] it is far more difficult to speak. It is
 
 always hard to speak of good things or good people, for in satisfying
 
-the soul they take away a certain spur to speech. Dickens was often
+the [[Soul|soul]] they take away a certain spur to speech. Dickens was often
 
 called a sentimentalist. In one sense he sometimes was a sentimentalist.
 
@@ -10715,9 +10715,9 @@ theatrical, then in the core and reality of his character Dickens was
 
 the very reverse of a sentimentalist. He seriously and definitely loved
 
-goodness. To see sincerity and charity satisfied him like a meal. What
+goodness. To see sincerity and [[Charity|charity]] satisfied him like a meal. What
 
-some critics call his love of sweet stuff is really his love of plain
+some critics call his [[Love|love]] of sweet stuff is really his [[Love|love]] of plain
 
 beef and bread. Sometimes one is tempted to wish that in the long
 
@@ -10735,11 +10735,11 @@ are tainted with the bitterness of absinthe. Yet because of the very
 
 simplicity of Dickens's moral tastes it is impossible to speak
 
-adequately of them; and Joe Gargery must stand as he stands in the book,
+adequately of them; and [[Joe Gargery]] must stand as he stands in the book,
 
 a thing too obvious to be understood. But this may be said of him in one
 
-of his minor aspects, that he stands for a certain long-suffering in the
+of his minor aspects, that he stands for a certain long-[[Suffering|suffering]] in the
 
 English poor, a certain weary patience and politeness which almost
 
@@ -10753,7 +10753,7 @@ _Our Mutual Friend_ marks a happy return to the earlier manner of
 
 Dickens at the end of Dickens's life. One might call it a sort of Indian
 
-summer of his farce. Those who most truly love Dickens love the earlier
+[[Summer|summer]] of his farce. Those who most truly [[Love|love]] Dickens [[Love|love]] the earlier
 
 Dickens; and any return to his farce must be welcomed, like a young man
 
@@ -10795,7 +10795,7 @@ two things can at least be said--that this class does understand the
 
 meaning of the word "friend" and the meaning of the word "mutual." I
 
-know that for some long time before he had been slowly and subtly sucked
+know that for some long [[Time|time]] before he had been slowly and subtly sucked
 
 into the whirlpool of the fashionable views of later England. I know
 
@@ -10815,19 +10815,19 @@ Cloisterham at the expense of the dissenting demagogue, Honeythunder; I
 
 know that he even took the last and most disastrous step in the modern
 
-English reaction. While blaming the old Cloisterham monks (who were
+English reaction. While blaming the old Cloisterham [[Monks|monks]] (who were
 
 democratic), he praised the old-world peace that they had left behind
 
 them--an old-world peace which is simply one of the last amusements of
 
-aristocracy. The modern rich feel quite at home with the dead monks.
+aristocracy. The modern rich feel quite at [[Home|home]] with the dead [[Monks|monks]].
 
 They would have felt anything but comfortable with the live ones. I
 
-know, in short, how the simple democracy of Dickens was gradually dimmed
+know, in short, how the simple [[democracy]] of Dickens was gradually dimmed
 
-by the decay and reaction of the middle of the nineteenth century. I
+by the [[Decay|decay]] and reaction of the middle of the nineteenth century. I
 
 know that he fell into some of the bad habits of aristocratic
 
@@ -10839,7 +10839,7 @@ the very title of one of his best books was a vulgarism. It is pleasant
 
 to contemplate this last unconscious knock in the eye for the gentility
 
-with which Dickens was half impressed. Dickens is the old self-made man;
+with which Dickens was half impressed. Dickens is the old [[Self-Made Man|self-made man]];
 
 you may take him or leave him. He has its disadvantages and its merits.
 
@@ -10851,7 +10851,7 @@ If it were a mere matter of the accident of a name it would not be worth
 
 while thus to dwell on it, even as a preface. But the title is in this
 
-respect typical of the tale. The novel called _Our Mutual Friend_ is in
+respect typical of the tale. The [[Novel|novel]] called _Our Mutual Friend_ is in
 
 many ways a real reaction towards the earlier Dickens manner. I have
 
@@ -10859,7 +10859,7 @@ remarked that _Little Dorrit_ was a reversion to the form of the first
 
 books, but not to their spirit; _Our Mutual Friend_ is a reversion to
 
-the spirit as well as the form. Compare, for instance, the public
+the spirit as [[Well|well]] as the form. Compare, for instance, the public
 
 figures that make a background in each book. Mr. Merdle is a commercial
 
@@ -10869,7 +10869,7 @@ commercial man having no great connection with the plot. This is
 
 altogether in the spirit of the earlier books; the whole point of an
 
-early Dickens novel was to have as many people as possible entirely
+early Dickens [[Novel|novel]] was to have as many people as possible entirely
 
 unconnected with the plot. But exactly because both studies are
 
@@ -10883,21 +10883,21 @@ is a happy and hilarious description. It recalls the days when he hunted
 
 great game; when he went out of his way to entrap such adorable monsters
 
-as Mr. Pecksniff or Mr. Vincent Crummles. With these wild beings we
+as Mr. Pecksniff or Mr. [[Vincent Crummles]]. With these wild beings we
 
 never bother about the cause of their coming. Such guests in a story
 
-may be uninvited, but they are never _de trop_. They earn their night's
+may be uninvited, but they are never _de trop_. They earn their [[Night|night]]'s
 
 lodging in any tale by being so uproariously amusing; like little Tommy
 
 Tucker in the legend, they sing for their supper. This is really the
 
-marked truth about _Our Mutual Friend_, as a stage in the singular
+marked [[Truth|truth]] about _Our Mutual Friend_, as a stage in the singular
 
 latter career of Dickens. It is like the leaping up and flaming of a
 
-slowly dying fire. The best things in the book are in the old best
+slowly dying [[Fire|fire]]. The best things in the book are in the old best
 
 manner of the author. They have that great Dickens quality of being
 
@@ -10905,13 +10905,13 @@ something which is pure farce and yet which is not superficial; an
 
 unfathomable farce--a farce that goes down to the roots of the universe.
 
-The highest compliment that can ever be paid to the humour of Dickens is
+The highest compliment that can ever be paid to the [[Humour|humour]] of Dickens is
 
 paid when some lady says, with the sudden sincerity of her sex, that it
 
 is "too silly." The phrase is really a perfectly sound and acute
 
-criticism. Humour does consist in being too silly, in passing the
+criticism. [[Humour]] does consist in being too silly, in passing the
 
 borderland, in breaking through the floor of sense and falling into some
 
@@ -10925,13 +10925,13 @@ Chuzzlewit_; just as it is not present in _Little Dorrit_ or in _Hard
 
 Times_. Many tests might be employed. One is the pleasure in purely
 
-physical jokes--jokes about the body. The general dislike which every
+physical jokes--jokes about the [[Body|body]]. The general dislike which every
 
 one felt for Mr. Stiggins's nose is of the same kind as the ardent
 
-desire which Mr. Lammle felt for Mr. Fledgeby's nose. "Give me your
+[[Desire|desire]] which Mr. Lammle felt for Mr. Fledgeby's nose. "Give me your
 
-nose, Sir," said Mr. Lammle. That sentence alone would be enough to show
+nose, Sir," said Mr. Lammle. That sentence [[Alone|alone]] would be enough to show
 
 that the young Dickens had never died.
 
@@ -10941,11 +10941,11 @@ Friend_ is much more instinctively energetic and light-hearted than that
 
 of any of the other novels of his concluding period. Dickens had always
 
-enough optimism to make his stories end well. He had not, in his later
+enough optimism to make his stories end [[Well|well]]. He had not, in his later
 
-years, always enough optimism to make them begin well. Even _Great
+years, always enough optimism to make them begin [[Well|well]]. Even _Great
 
-Expectations_, the saddest of his later books, ends well; it ends well
+Expectations_, the saddest of his later books, ends [[Well|well]]; it ends [[Well|well]]
 
 in spite of himself, who had intended it to end badly. But if we leave
 
@@ -10955,9 +10955,9 @@ we see how much _Our Mutual Friend_ stands out from among the other
 
 novels of the evening or the end of Dickens. The tale of _Little Dorrit_
 
-begins in a prison. One of the prisoners is a villain, and his villainy
+begins in a [[Prison|prison]]. One of the prisoners is a [[Villain|villain]], and his villainy
 
-is as dreary as the prison; that might matter nothing. But the other
+is as dreary as the [[Prison|prison]]; that might matter nothing. But the other
 
 prisoner is vivacious, and even his vivacity is dreary. The first note
 
@@ -10967,11 +10967,11 @@ opium den, suffocated with every sort of phantasy and falsehood. Nor is
 
 it true that these openings are merely accidental; they really cast
 
-their shadow over the tales. The people of _Little Dorrit_ begin in
+their [[Shadow|shadow]] over the tales. The people of _Little Dorrit_ begin in
 
-prison; and it is the whole point of the book that people never get out
+[[Prison|prison]]; and it is the whole point of the book that people never get out
 
-of prison. The story of _Edwin Drood_ begins amid the fumes of opium,
+of [[Prison|prison]]. The story of _Edwin Drood_ begins amid the fumes of opium,
 
 and it never gets out of the fumes of opium. The darkness of that
 
@@ -10983,7 +10983,7 @@ the cue from its inception. All the more remarkable, therefore, is the
 
 real jerk and spurt of good spirits with which he opens _Our Mutual
 
-Friend_. It begins with a good piece of rowdy satire, wildly exaggerated
+Friend_. It begins with a good piece of rowdy [[Satire|satire]], wildly exaggerated
 
 and extremely true. It belongs to the same class as the first chapter
 
@@ -10995,7 +10995,7 @@ imbecilities about the Theory of Tittlebats and Mr. Blotton of Aldgate.
 
 Doubtless the early satiric chapter in _Our Mutual Friend_ is of a more
 
-strategic and ingenious kind of satire than can be found in these early
+strategic and ingenious kind of [[Satire|satire]] than can be found in these early
 
 and explosive parodies. Still, there is a quality common to both, and
 
@@ -11033,25 +11033,25 @@ instance, is the description of the way in which all the guests ignored
 
 the host; how the host and hostess peered and gaped for some stray
 
-attention as if they had been a pair of poor relations. Again, how well,
+attention as if they had been a pair of poor relations. Again, how [[Well|well]],
 
 as a matter of social colour, the distinctions between the type and
 
 tone of the guests are made even in the matter of this unguestlike
 
-insolence. How well Dickens distinguishes the ill-bred indifference of
+insolence. How [[Well|well]] Dickens distinguishes the ill-bred indifference of
 
-Podsnap from the well-bred indifference of Mortimer Lightwood and Eugene
+Podsnap from the [[Well|well]]-bred indifference of Mortimer Lightwood and Eugene
 
-Wrayburn. How well he distinguishes the bad manners of the merchant from
+Wrayburn. How [[Well|well]] he distinguishes the bad manners of the merchant from
 
-the equally typical bad manners of the gentleman. Above all, how well he
+the equally typical bad manners of the gentleman. Above all, how [[Well|well]] he
 
 catches the character of the creature who is really the master of all
 
-these: the impenetrable male servant. Nowhere in literature is the truth
+these: the impenetrable male servant. Nowhere in literature is the [[Truth|truth]]
 
-about servants better told. For that truth is simply this: that the
+about servants better told. For that [[Truth|truth]] is simply this: that the
 
 secret of aristocracy is hidden even from aristocrats. Servants,
 
@@ -11071,11 +11071,11 @@ the real gentlemen with the same gloomy and incurable contempt. He
 
 offers wine to the offensive Podsnap or the shrieking Tippins with a
 
-melancholy sincerity and silence; but he offers his letter to the
+[[Melancholy|melancholy]] sincerity and [[Silence|silence]]; but he offers his letter to the
 
 aristocratic and unconscious Mortimer with the same sincerity and with
 
-the same silence. It is a great pity that the Analytical Chemist only
+the same [[Silence|silence]]. It is a great pity that the Analytical Chemist only
 
 occurs in two or three scenes of this excellent story. As far as I know,
 
@@ -11101,9 +11101,9 @@ Friend_. For indeed, outside Mr. Fledgeby and the people at the
 
 dinner-party, there is something a little heavy and careless about the
 
-story. Mr. Silas Wegg is really funny; and he serves the purpose of a
+story. Mr. [[Silas Wegg]] is really funny; and he serves the purpose of a
 
-necessary villain in the plot. But his humour and his villainy seem to
+necessary [[Villain|villain]] in the plot. But his [[Humour|humour]] and his villainy seem to
 
 have no particular connection with each other; when he is not scheming
 
@@ -11117,17 +11117,17 @@ wooden leg. For while his villainy is supposed to be of a dull, mean,
 
 and bitter sort (quite unlike, for instance, the uproarious villainy of
 
-Quilp), his humour is of the sincere, flowing and lyric character, like
+Quilp), his [[Humour|humour]] is of the sincere, flowing and [[Lyric|lyric]] character, like
 
-that of Dick Swiveller or Mr. Micawber. He tells Mr. Boffin that he will
+that of [[Dick Swiveller]] or Mr. Micawber. He tells Mr. Boffin that he will
 
 drop into poetry in a friendly way. He does drop into it in a friendly
 
 way; in much too really a friendly way to make him convincing as a mere
 
-calculating knave. He and Mr. Venus are such natural and genuine
+calculating knave. He and Mr. [[Venus]] are such natural and genuine
 
-companions that one does not see why if Venus repents Wegg should not
+companions that one does not see why if [[Venus]] repents Wegg should not
 
 repent too. In short, Wegg is a convenience for a plot and not a very
 
@@ -11143,7 +11143,7 @@ a sort of miser, and then afterwards explains that he only assumed the
 
 character for reasons of his own, has something about it highly jerky
 
-and unsatisfactory. The truth of the whole matter I think, almost
+and unsatisfactory. The [[Truth|truth]] of the whole matter I think, almost
 
 certainly, is that Dickens did not originally mean Boffin's lapse to be
 
@@ -11151,7 +11151,7 @@ fictitious. He originally meant Boffin really to be corrupted by wealth,
 
 slowly to degenerate and as slowly to repent. But the story went too
 
-quickly for this long, double, and difficult process; therefore Dickens
+quickly for this long, [[Double|double]], and difficult process; therefore Dickens
 
 at the last moment made a sudden recovery possible by representing that
 
@@ -11167,9 +11167,9 @@ actual fracture; the story had broken down and been mended.
 
 If Dickens had fulfilled what was probably his original design, and
 
-described the slow freezing of Boffin's soul in prosperity, I do not say
+described the slow freezing of Boffin's [[Soul|soul]] in prosperity, I do not say
 
-that he would have done the thing well. He was not good at describing
+that he would have done the thing [[Well|well]]. He was not good at describing
 
 change in anybody, especially not good at describing a change for the
 
@@ -11185,7 +11185,7 @@ Boffin. Such a character as his--rough, simple and lumberingly
 
 unconscious--might be more easily conceived as really sinking in
 
-self-respect and honour than as keeping up, month after month, so
+[[Self|self]]-respect and [[Honour|honour]] than as keeping up, month after month, so
 
 strained and inhuman a theatrical performance. To a good man (of that
 
@@ -11195,7 +11195,7 @@ It might have taken years to turn Noddy Boffin into a miser; but it
 
 would have taken centuries to turn him into an actor. This unreality in
 
-the later Boffin scenes makes the end of the story of John Harmon
+the later Boffin scenes makes the end of the story of [[John Harmon]]
 
 somewhat more unimpressive perhaps than it might otherwise have been.
 
@@ -11205,7 +11205,7 @@ figures of Dickens. It is true that it is an unfair criticism to object,
 
 as some have done, that Dickens does not succeed in disguising the
 
-identity of John Harmon with John Rokesmith. Dickens never intended to
+[[Identity|identity]] of [[John Harmon]] with John Rokesmith. Dickens never intended to
 
 disguise it; the whole story would be mainly unintelligible and largely
 
@@ -11215,33 +11215,33 @@ Harmon or Rokesmith was never intended to be merely a man of mystery, it
 
 is not quite so easy to say what he was intended to be. Bella is a
 
-possible and pretty sketch. Mrs. Wilfer, her mother, is an entirely
+possible and pretty [[Sketch|sketch]]. Mrs. Wilfer, her mother, is an entirely
 
 impossible and entirely delightful one. Miss Podsnap is not only
 
 excellent, she is to a healthy taste positively attractive; there is a
 
-real suggestion in her of the fact that humility is akin to truth, even
+real suggestion in her of the fact that [[Humility|humility]] is akin to [[Truth|truth]], even
 
-when humility takes its more comic form of shyness. There is not in all
+when [[Humility|humility]] takes its more comic form of shyness. There is not in all
 
 literature a more human _cri de coeur_ than that with which Georgiana
 
 Podsnap receives the information that a young man has professed himself
 
-to be attracted by her--"Oh what a Fool he must be!"
+to be attracted by her--"Oh what a [[Fool]] he must be!"
 
 Two other figures require praise, though they are in the more tragic
 
-manner which Dickens touched from time to time in his later period.
+manner which Dickens touched from [[Time|time]] to [[Time|time]] in his later period.
 
-Bradley Headstone is really a successful villain; so successful that he
+[[Bradley Headstone]] is really a successful [[Villain|villain]]; so successful that he
 
 fully captures our sympathies. Also there is something original in the
 
 very conception. It was a new notion to add to the villains of fiction,
 
-whose thoughts go quickly, this villain whose thoughts go slow but sure;
+whose thoughts go quickly, this [[Villain|villain]] whose thoughts go slow but sure;
 
 and it was a new notion to combine a deadly criminality not with high
 
@@ -11249,7 +11249,7 @@ life or the slums (the usual haunts for villains) but with the laborious
 
 respectability of the lower, middle classes. The other good conception
 
-is the boy, Bradley Headstone's pupil, with his dull, inexhaustible
+is the boy, [[Bradley Headstone]]'s pupil, with his dull, inexhaustible
 
 egoism, his pert, unconscious cruelty, and the strict decorum and
 
@@ -11259,21 +11259,21 @@ who was not only a radical and a social reformer, but one who would have
 
 been particularly concerned to maintain the principle of modern popular
 
-education, should nevertheless have seen so clearly this potential evil
+[[Education|education]], should nevertheless have seen so clearly this potential evil
 
-in the mere educationalism of our time--the fact that merely educating
+in the mere educationalism of our [[Time|time]]--the fact that merely educating
 
-the democracy may easily mean setting to work to despoil it of all the
+the [[democracy]] may easily mean setting to work to despoil it of all the
 
-democratic virtues. It is better to be Lizzie Hexam and not know how to
+democratic virtues. It is better to be [[Lizzie Hexam]] and not know how to
 
 read and write than to be Charlie Hexam and not know how to appreciate
 
-Lizzie Hexam. It is not only necessary that the democracy should be
+[[Lizzie Hexam]]. It is not only necessary that the [[democracy]] should be
 
-taught; it is also necessary that the democracy should be taught
+taught; it is also necessary that the [[democracy]] should be taught
 
-democracy. Otherwise it will certainly fall a victim to that
+[[democracy]]. Otherwise it will certainly fall a victim to that
 
 snobbishness and system of worldly standards which is the most natural
 
@@ -11281,13 +11281,13 @@ and easy of all the forms of human corruption. This is one of the many
 
 dangers which Dickens saw before it existed. Dickens was really a
 
-prophet; far more of a prophet than Carlyle.
+[[Prophet|prophet]]; far more of a [[Prophet|prophet]] than Carlyle.
 
   [Illustration: Charles Dickens, 1868
 
   From a photograph by Gurney.]
 
-EDWIN DROOD
+[[Edwin Drood|EDWIN DROOD]]
 
 _Pickwick_ was a work partly designed by others, but ultimately filled
 
@@ -11307,7 +11307,7 @@ his literary end was melodramatic. Something more seems hinted at in the
 
 cutting short of _Edwin Drood_ by Dickens than the mere cutting short of
 
-a good novel by a great man. It seems rather like the last taunt of some
+a good [[Novel|novel]] by a great man. It seems rather like the last taunt of some
 
 elf, leaving the world, that it should be this story which is not ended,
 
@@ -11337,35 +11337,35 @@ a dramatic mystery. Any Thackerayan could have completed the plot of
 
 _Denis Duval_; except indeed that a really sympathetic Thackerayan might
 
-have had some doubt as to whether there was any plot to complete. But
+have had some [[Doubt|doubt]] as to whether there was any plot to complete. But
 
 Dickens, having had far too little plot in his stories previously, had
 
 far too much plot in the story he never told. Dickens dies in the act of
 
-telling, not his tenth novel, but his first news of murder. He drops
+telling, not his tenth [[Novel|novel]], but his first news of murder. He drops
 
 down dead as he is in the act of denouncing the assassin. It is
 
 permitted to Dickens, in short, to come to a literary end as strange as
 
-his literary beginning. He began by completing the old romance of
+his literary beginning. He began by completing the old [[Romance|romance]] of
 
-travel. He ended by inventing the new detective story.
+travel. He ended by inventing the new [[Detective|detective]] story.
 
-It is as a detective story first and last that we have to consider _The
+It is as a [[Detective|detective]] story first and last that we have to consider _The
 
 Mystery of Edwin Drood_. This does not mean, of course, that the details
 
-are not often admirable in their swift and penetrating humour; to say
+are not often admirable in their swift and penetrating [[Humour|humour]]; to say
 
 that of the book would be to say that Dickens did not write it. Nothing
 
 could be truer, for instance, than the manner in which the dazed and
 
-drunken dignity of Durdles illustrates a certain bitterness at the
+drunken dignity of [[Durdles]] illustrates a certain bitterness at the
 
-bottom of the bewilderment of the poor. Nothing could be better than the
+[[Bottom|bottom]] of the bewilderment of the poor. Nothing could be better than the
 
 way in which the haughty and allusive conversation between Miss
 
@@ -11393,15 +11393,15 @@ waiter" left the room, casting a glance which indicated "let it be
 
 understood that all emoluments are mine, and that Nil is the reward of
 
-this slave." Still, Dickens wrote the book as a detective story; he
+this slave." Still, Dickens wrote the book as a [[Detective|detective]] story; he
 
-wrote it as _The Mystery of Edwin Drood_. And alone, perhaps, among
+wrote it as _The Mystery of Edwin Drood_. And [[Alone|alone]], perhaps, among
 
-detective-story writers, he never lived to destroy his mystery. Here
+[[Detective|detective]]-story writers, he never lived to destroy his mystery. Here
 
-alone then among the Dickens novels it is necessary to speak of the plot
+[[Alone|alone]] then among the Dickens novels it is necessary to speak of the plot
 
-and of the plot alone. And when we speak of the plot it becomes
+and of the plot [[Alone|alone]]. And when we speak of the plot it becomes
 
 immediately necessary to speak of the two or three standing explanations
 
@@ -11411,11 +11411,11 @@ The story, so far as it was written by Dickens, can be read here. It
 
 describes, as will be seen, the disappearance of the young architect
 
-Edwin Drood after a night of festivity which was supposed to celebrate
+[[Edwin Drood]] after a [[Night|night]] of festivity which was supposed to celebrate
 
-his reconciliation with a temporary enemy, Neville Landless, and was
+his [[Reconciliation|reconciliation]] with a temporary enemy, [[Neville Landless]], and was
 
-held at the house of his uncle John Jasper. Dickens continued the tale
+held at the [[house]] of his uncle [[John Jasper]]. Dickens continued the tale
 
 long enough to explain or explode the first and most obvious of his
 
@@ -11427,7 +11427,7 @@ by his uncle who professes for him an almost painful affection. The fact
 
 that we all know this, however, ought not in fairness to blind us to
 
-the fact that, considered as the first fraud in a detective story, it
+the fact that, considered as the first fraud in a [[Detective|detective]] story, it
 
 has been, with great skill, at once suggested and concealed. Nothing,
 
@@ -11443,7 +11443,7 @@ it is only afterwards that the frightful fancy breaks upon us that it is
 
 not morbid affection but morbid antagonism. This first mystery (which is
 
-no longer a mystery) of Jasper's guilt, is only worth remarking because
+no longer a mystery) of Jasper's [[Guilt|guilt]], is only worth remarking because
 
 it shows that Dickens meant and felt himself able to mask all his
 
@@ -11459,17 +11459,17 @@ Christmas Carol_. Not that one complains of his giving himself away;
 
 there was no better gift.
 
-What was the mystery of Edwin Drood from Dickens's point of view we
+What was the mystery of [[Edwin Drood]] from Dickens's point of view we
 
 shall never know, except perhaps from Dickens in heaven, and then he
 
-will very likely have forgotten. But the mystery of Edwin Drood from our
+will very likely have forgotten. But the mystery of [[Edwin Drood]] from our
 
 point of view, from that of his critics, and those who have with some
 
-courage (after his death) attempted to be his collaborators, is simply
+[[Courage|courage]] (after his [[Death|death]]) attempted to be his collaborators, is simply
 
-this. There is no doubt that Jasper either murdered Drood or supposed
+this. There is no [[Doubt|doubt]] that Jasper either murdered Drood or supposed
 
 that he had murdered him. This certainty we have from the fact that it
 
@@ -11485,13 +11485,13 @@ needless as his murder. In other words the only question is whether,
 
 while he certainly thought he had murdered Drood, he had really done it.
 
-It need hardly be said that such a doubt would not have been raised for
+It need hardly be said that such a [[Doubt|doubt]] would not have been raised for
 
 nothing; gentlemen like Jasper do not as a rule waste good remorse
 
-except upon successful crime. The origin of the doubt about the real
+except upon successful crime. The origin of the [[Doubt|doubt]] about the real
 
-death of Drood is this. Towards the latter end of the existing chapters
+[[Death|death]] of Drood is this. Towards the latter end of the existing chapters
 
 there appears very abruptly, and with a quite ostentatious air of
 
@@ -11533,15 +11533,15 @@ argument he had was rather one of general artistic effect. This argument
 
 has been quite perfectly summed up by Mr. Andrew Lang in one sentence:
 
-"If Edwin Drood is dead, there is not much mystery about him." This is
+"If [[Edwin Drood]] is dead, there is not much mystery about him." This is
 
 quite true; Dickens, when writing in so deliberate, nay, dark and
 
-conspiratorial a manner, would surely have kept the death of Drood and
+conspiratorial a manner, would surely have kept the [[Death|death]] of Drood and
 
-the guilt of Jasper hidden a little longer if the only real mystery had
+the [[Guilt|guilt]] of Jasper hidden a little longer if the only real mystery had
 
-been the guilt of Jasper and the death of Drood. It certainly seems
+been the [[Guilt|guilt]] of Jasper and the [[Death|death]] of Drood. It certainly seems
 
 artistically more likely that there was a further mystery of Edwin
 
@@ -11551,13 +11551,13 @@ not murdered. It is true indeed that Mr. Cumming Walters has a theory of
 
 Datchery (to which I have already darkly alluded) a theory which is wild
 
-enough to be the centre not only of any novel but of any harlequinade.
+enough to be the centre not only of any [[Novel|novel]] but of any harlequinade.
 
 But the point is that even Mr. Cumming Walters's theory, though it makes
 
 the mystery more extraordinary, does not make it any more of a mystery
 
-of Edwin Drood. It should not have been called _The Mystery of Drood_,
+of [[Edwin Drood]]. It should not have been called _The Mystery of Drood_,
 
 but _The Mystery of Datchery_. This is the strongest case for Proctor;
 
@@ -11575,7 +11575,7 @@ murdered, should not have raised the alarm. Happy young architects,
 
 when nearly strangled by elderly organists, do not generally stroll away
 
-and come back some time afterwards in a wig and with a false name.
+and come back some [[Time|time]] afterwards in a wig and with a false name.
 
 Superficially it would seem almost as odd to find the murderer
 
@@ -11583,7 +11583,7 @@ investigating the origin of the murder, as to find the corpse
 
 investigating it. To this problem two of the ablest literary critics of
 
-our time, Mr. Andrew Lang and Mr. William Archer (both of them persuaded
+our [[Time|time]], Mr. Andrew Lang and Mr. William Archer (both of them persuaded
 
 generally of the Proctor theory) have especially addressed themselves.
 
@@ -11601,13 +11601,13 @@ when he recovered from the attack, was doubtful about who had been his
 
 assailant. This might really explain, if a little fancifully, his coming
 
-back to the town in the character of a detective. He might think it due
+back to the town in the character of a [[Detective|detective]]. He might think it due
 
 to his uncle (whom he last remembered in a kind of murderous vision) to
 
 make an independent investigation as to whether he was really guilty or
 
-not. He might say, as Hamlet said of a vision equally terrifying, "I'll
+not. He might say, as [[Hamlet]] said of a vision equally terrifying, "I'll
 
 have grounds more relative than this." In fairness it must be said that
 
@@ -11617,7 +11617,7 @@ this respect; that there is a sort of farcical cheerfulness about
 
 Datchery which does not seem altogether appropriate to a lad who ought
 
-to be in an agony of doubt as to whether his best friend was or was not
+to be in an agony of [[Doubt|doubt]] as to whether his best friend was or was not
 
 his assassin. Still there are many such incongruities in Dickens; and
 
@@ -11635,7 +11635,7 @@ where it does end, not by accident but by design. The murder is
 
 explained. Jasper is ready to be hanged, and every one else in a decent
 
-novel ought to be ready to be married. If there was to be much more of
+[[Novel|novel]] ought to be ready to be married. If there was to be much more of
 
 anything, it must have been of anticlimax. Nevertheless there are
 
@@ -11647,9 +11647,9 @@ Datchery may be Bazzard; but it is not very exciting if he is; for we
 
 know nothing about Bazzard and care less. Again, he might be Grewgious;
 
-but there is something pointless about one grotesque character dressing
+but there is something pointless about one [[Grotesque|grotesque]] character dressing
 
-up as another grotesque character actually less amusing than himself.
+up as another [[Grotesque|grotesque]] character actually less amusing than himself.
 
 Now, Mr. Cumming Walters has at least had the distinction of inventing a
 
@@ -11663,7 +11663,7 @@ sulky Landless, has a sister even swarthier and, except for her queenly
 
 dignity, even sulkier than he. This barbaric princess is evidently meant
 
-to be (in a sombre way) in love with Crisparkle, the clergyman and
+to be (in a sombre way) in [[Love|love]] with Crisparkle, the clergyman and
 
 muscular Christian who represents the breezy element in the emotions of
 
@@ -11671,7 +11671,7 @@ the tale. Mr. Cumming Walters seriously maintains that it is this
 
 barbaric princess who puts on a wig and dresses up as Mr. Datchery. He
 
-urges his case with much ingenuity of detail. Helena Landless certainly
+urges his case with much ingenuity of detail. [[Helena Landless]] certainly
 
 had a motive; to save her brother, who was accused falsely, by accusing
 
@@ -11679,23 +11679,23 @@ Jasper justly. She certainly had some of the faculties; it is
 
 elaborately stated in the earlier part of her story that she was
 
-accustomed as a child to dress up in male costume and run into the
+accustomed as a [[Child|child]] to dress up in male costume and run into the
 
 wildest adventures. There may be something in Mr. Cumming Walters's
 
-argument that the very flippancy of Datchery is the self-conscious
+argument that the very flippancy of Datchery is the [[Self|self]]-conscious
 
 flippancy of a strong woman in such an odd situation; certainly there is
 
-the same flippancy in Portia and in Rosalind. Nevertheless, I think,
+the same flippancy in [[Portia]] and in [[Rosalind]]. Nevertheless, I think,
 
 there is one final objection to the theory; and that is simply this,
 
 that it is comic. It is generally wrong to represent a great master of
 
-the grotesque as being grotesque exactly where he does not intend to be.
+the [[Grotesque|grotesque]] as being [[Grotesque|grotesque]] exactly where he does not intend to be.
 
-And I am persuaded that if Dickens had really meant Helena to turn into
+And I am persuaded that if Dickens had really meant [[Helena]] to turn into
 
 Datchery, he would have made her from the first in some way more light,
 
@@ -11707,7 +11707,7 @@ incredible about the idea of a lady so dark and dignified dressing up as
 
 a swaggering old gentleman in a blue coat and grey trousers. We might
 
-almost as easily imagine Edith Dombey dressing up as Major Bagstock. We
+almost as easily imagine Edith Dombey dressing up as [[Major Bagstock]]. We
 
 might almost as easily imagine Rebecca in _Ivanhoe_ dressing up as Isaac
 
@@ -11717,9 +11717,9 @@ Of course such a question can never really be settled precisely, because
 
 it is the question not merely of a mystery but of a puzzle. For here the
 
-detective novel differs from every other kind of novel. The ordinary
+[[Detective|detective]] [[Novel|novel]] differs from every other kind of [[Novel|novel]]. The ordinary
 
-novelist desires to keep his readers to the point; the detective
+novelist desires to keep his readers to the point; the [[Detective|detective]]
 
 novelist actually desires to keep his readers off the point. In the
 
@@ -11749,7 +11749,7 @@ farcical. Mr. Walters says that all Mr. Lang's clues were blinds; Mr.
 
 Lang says that all Mr. Walters's clues were blinds. Mr. Walters can say
 
-that some passages seemed to show that Helena was Datchery; Mr. Lang can
+that some passages seemed to show that [[Helena]] was Datchery; Mr. Lang can
 
 reply that those passages were only meant to deceive simple people like
 
@@ -11781,23 +11781,23 @@ with him. Even if we get the right solution we shall not know that it is
 
 right. The tale might have been, and yet it has not been.
 
-And I think there is no thought so much calculated to make one doubt
+And I think there is no thought so much calculated to make one [[Doubt|doubt]]
 
-death itself, to feel that sublime doubt which has created all
+[[Death|death]] itself, to feel that [[Sublime|sublime]] [[Doubt|doubt]] which has created all
 
-religion--the doubt that found death incredible. Edwin Drood may or may
+religion--the [[Doubt|doubt]] that found [[Death|death]] incredible. [[Edwin Drood]] may or may
 
 not have really died; but surely Dickens did not really die. Surely our
 
-real detective liveth and shall appear in the latter days of the earth.
+real [[Detective|detective]] liveth and shall appear in the latter days of the earth.
 
-For a finished tale may give a man immortality in the light and literary
+For a finished tale may give a man [[Immortality|immortality]] in the light and literary
 
-sense; but an unfinished tale suggests another immortality, more
+sense; but an unfinished tale suggests another [[Immortality|immortality]], more
 
 essential and more strange.
 
-MASTER HUMPHREY'S CLOCK
+MASTER HUMPHREY'S [[Clock|CLOCK]]
 
 It is quite indispensable to include a criticism of _Master Humphrey's
 
@@ -11819,21 +11819,21 @@ level and monotony those creations commonly stand out. This book is the
 
 background of his mind. It is the basis and minimum of him which was
 
-always there. Alone, of all written things, this shows how he felt when
+always there. [[Alone]], of all written things, this shows how he felt when
 
-he was not writing. Dickens might have written it in his sleep. That is
+he was not writing. Dickens might have written it in his [[Sleep|sleep]]. That is
 
 to say, it is written by a sluggish Dickens, a half automatic Dickens, a
 
 dreaming and drifting Dickens; but still by the enduring Dickens.
 
-But this truth can only be made evident by beginning nearer to the root
+But this [[Truth|truth]] can only be made evident by beginning nearer to the root
 
 of the matter. _Nicholas Nickleby_ had just completed, or, to speak more
 
 strictly, confirmed, the popularity of the young author; wonderful as
 
-_Pickwick_ was it might have been a nine days' wonder; _Oliver Twist_
+_Pickwick_ was it might have been a nine days' [[Wonder|wonder]]; _Oliver Twist_
 
 had been powerful but painful; it was _Nicholas Nickleby_ that proved
 
@@ -11853,7 +11853,7 @@ And indeed it is literally as the editor of his own works that he next
 
 appears; for the next thing to which he proposes to put his name is not
 
-a novel, but for all practical purposes a magazine. Yet although it is a
+a [[Novel|novel]], but for all practical purposes a magazine. Yet although it is a
 
 magazine, it is a magazine entirely written by himself; the publishers,
 
@@ -11881,17 +11881,17 @@ best scrappily and by episodes. The omnipotence of the editor helped the
 
 eccentricities of the author. He could excuse himself for all his own
 
-shortcomings. He could begin a novel, get tired of it, and turn it into
+shortcomings. He could begin a [[Novel|novel]], get tired of it, and turn it into
 
-a short story. He could begin a short story, get fond of it, and turn
+a [[Short Story|short story]]. He could begin a [[Short Story|short story]], get fond of it, and turn
 
-it into a novel. Thus in the days of _Household Words_ he could begin a
+it into a [[Novel|novel]]. Thus in the days of _Household Words_ he could begin a
 
 big scheme of stories, such as _Somebody's Luggage_, or _Seven Poor
 
 Travellers_, and after writing a tale or two toss the rest to his
 
-colleagues. Thus, on the other hand, in the time of _Master Humphrey's
+colleagues. Thus, on the other hand, in the [[Time|time]] of _Master Humphrey's
 
 Clock_, he could begin one small adventure of Master Humphrey and find
 
@@ -11901,15 +11901,15 @@ moral evidence, which some call reading between the lines) that he
 
 originally meant to tell many separate tales of Master Humphrey's
 
-wanderings in London, only one of which, and that a short one, was to
+wanderings in [[London]], only one of which, and that a short one, was to
 
-have been concerned with a little girl going home. Fortunately for us
+have been concerned with a little girl going [[Home|home]]. Fortunately for us
 
 that little girl had a grandfather, and that grandfather had a curiosity
 
 shop and also a nephew, and that nephew had an entirely irrelevant
 
-friend whom men and angels called Richard Swiveller. Once having come
+friend whom men and angels called [[Richard]] Swiveller. Once having come
 
 into the society of Swiveller it is not unnatural that Dickens stayed
 
@@ -11921,17 +11921,17 @@ thing that had come of it. It died in childbirth.
 
 There is, however, another circumstance which, even in ordinary public
 
-opinion, makes this miscellany important, besides the great novel that
+opinion, makes this miscellany important, besides the great [[Novel|novel]] that
 
 came out of it. I mean that the ordinary reader can remember one great
 
 thing about _Master Humphrey's Clock_, besides the fact that it was the
 
-frame-work of _The Old Curiosity Shop_. He remembers that Mr. Pickwick
+frame-work of _The Old Curiosity Shop_. He remembers that Mr. [[Pickwick]]
 
-and the Wellers rise again from the dead. Dickens makes Samuel Pickwick
+and the Wellers rise again from the dead. Dickens makes [[Samuel Pickwick]]
 
-become a member of Master Humphrey's Clock Society; and he institutes a
+become a member of Master Humphrey's [[Clock]] Society; and he institutes a
 
 parallel society in the kitchen under the name of Mr. Weller's Watch.
 
@@ -11945,25 +11945,25 @@ who might naturally have introduced old characters into new stories.
 
 Dickens, as a matter of fact, was almost the one man who never did it.
 
-It would have seemed natural in him for a double reason; first, that his
+It would have seemed natural in him for a [[Double|double]] reason; first, that his
 
 characters were very valuable to him, and second that they were not very
 
 valuable to his particular stories. They were dear to him, and they are
 
-dear to us; but they really might as well have turned up (within reason)
+dear to us; but they really might as [[Well|well]] have turned up (within reason)
 
-in one environment as well as in another. We, I am sure, should be
+in one environment as [[Well|well]] as in another. We, I am sure, should be
 
 delighted to meet Mr. Mantalini in the story of _Dombey and Son_. And he
 
-certainly would not be much missed from the plot of Nicholas Nickleby.
+certainly would not be much missed from the plot of [[Nicholas Nickleby]].
 
 "I am an affectionate father," said Dickens, "to all the children of my
 
 fancy; but like many other parents I have in my heart of hearts a
 
-favourite child; and his name is David Copperfield." Yet although his
+favourite [[Child|child]]; and his name is [[David Copperfield]]." Yet although his
 
 heart must often have yearned backwards to the children of his fancy
 
@@ -11993,7 +11993,7 @@ superiors in art and exactitude and closeness to connected reality.
 
 Thackeray wallowed in it; Anthony Trollope lived on it. Those modern
 
-artists who pride themselves most on the separation and unity of a work
+artists who [[Pride|pride]] themselves most on the separation and [[unity]] of a work
 
 of art have indulged in it often; thus, for instance, Stevenson gave a
 
@@ -12005,7 +12005,7 @@ _The Rising Sun_. The habit of revising old characters is so strong in
 
 Thackeray that _Vanity Fair_, _Pendennis_, _The Newcomes_, and _Philip_
 
-are in one sense all one novel. Certainly the reader sometimes forgets
+are in one sense all one [[Novel|novel]]. Certainly the reader sometimes forgets
 
 which one of them he is reading. Afterwards he cannot remember whether
 
@@ -12027,21 +12027,21 @@ characters could not possibly have been contemporary he goes out of his
 
 way to make one the remote ancestor of the other. Thus he created the
 
-great house of Warrington solely to connect a "blue-bearded" Bohemian
+[[Great House|great house]] of Warrington solely to connect a "blue-bearded" Bohemian
 
-journalist with the blood of Henry Esmond. It is quite impossible to
+journalist with the [[Blood|blood]] of Henry Esmond. It is quite impossible to
 
 conceive Dickens keeping up this elaborate connection between all his
 
 characters and all his books, especially across the ages. It would give
 
-us a kind of shock if we learnt from Dickens that Major Bagstock was the
+us a kind of shock if we learnt from Dickens that [[Major Bagstock]] was the
 
 nephew of Mr. Chester. Still less can we imagine Dickens carrying on an
 
 almost systematic family chronicle as was in some sense done by
 
-Trollope. There must be some reason for such a paradox; for in itself it
+Trollope. There must be some reason for such a [[Paradox|paradox]]; for in itself it
 
 is a very curious one. The writers who wrote carefully were always
 
@@ -12055,9 +12055,9 @@ he attempted it once, and then he failed.
 
 The reason lay, I think, in the very genius of Dickens's creation. The
 
-child he bore of his soul quitted him when his term was passed like a
+[[Child|child]] he bore of his [[Soul|soul]] quitted him when his term was passed like a
 
-veritable child born of the body. It was independent of him, as a child
+veritable [[Child|child]] born of the [[Body|body]]. It was independent of him, as a [[Child|child]]
 
 is of its parents. It had become dead to him even in becoming alive.
 
@@ -12065,7 +12065,7 @@ When Thackeray studied Pendennis or Lord Steyne he was studying
 
 something outside himself, and therefore something that might come
 
-nearer and nearer. But when Dickens brought forth Sam Weller or Pickwick
+nearer and nearer. But when Dickens brought forth [[Sam Weller]] or [[Pickwick]]
 
 he was creating something that had once been inside himself and
 
@@ -12077,7 +12077,7 @@ lively an author, yet I say it quite seriously; I think it possible that
 
 there arose between Dickens and his characters that strange and almost
 
-supernatural shyness that arises often between parents and children;
+[[Supernatural|supernatural]] shyness that arises often between parents and children;
 
 because they are too close to each other to be open with each other. Too
 
@@ -12087,7 +12087,7 @@ figures for it to be possible for him without embarrassment ever to
 
 speak with it again. This is the thing which some fools call fickleness;
 
-but which is not the death of feeling, but rather its dreadful
+but which is not the [[Death|death]] of feeling, but rather its dreadful
 
 perpetuation; this shyness is the final seal of strong sentiment; this
 
@@ -12095,17 +12095,17 @@ coldness is an eternal constancy.
 
 This one case where Dickens broke through his rule was not such a
 
-success as to tempt him in any case to try the thing again.
+[[success]] as to tempt him in any case to try the thing again.
 
 There is weakness in the strict sense of the word in this particular
 
-reappearance of Samuel Pickwick and Samuel Weller. In the original
+reappearance of [[Samuel Pickwick]] and Samuel Weller. In the original
 
 _Pickwick Papers_ Dickens had with quite remarkable delicacy and
 
 vividness contrived to suggest a certain fundamental sturdiness and
 
-spirit in that corpulent and complacent old gentleman. Mr. Pickwick was
+spirit in that corpulent and complacent old gentleman. Mr. [[Pickwick]] was
 
 a mild man, a respectable man, a placid man; but he was very decidedly a
 
@@ -12113,13 +12113,13 @@ man. He could denounce his enemies and fight for his nightcap. He was
 
 fat; but he had a backbone. In _Master Humphrey's Clock_ the backbone
 
-seems somehow to be broken; his good nature seems limp instead of alert.
+seems somehow to be broken; his good [[Nature|nature]] seems limp instead of alert.
 
 He gushes out of his good heart; instead of taking a good heart for
 
 granted as a part of any decent gentleman's furniture as did the older
 
-and stronger Pickwick. The truth is, I think, that Mr. Pickwick in
+and stronger [[Pickwick]]. The [[Truth|truth]] is, I think, that Mr. [[Pickwick]] in
 
 complete repose loses some part of the whole point of his existence. The
 
@@ -12129,7 +12129,7 @@ fairy tales is a quality which all the great fairy tales possess, and
 
 which marks them out from most modern writing. A modern novelist
 
-generally endeavours to make his story interesting, by making his hero
+generally endeavours to make his story interesting, by making his [[Hero|hero]]
 
 odd. The most typical modern books are those in which the central figure
 
@@ -12137,29 +12137,29 @@ is himself or herself an exception, a cripple, a courtesan, a lunatic, a
 
 swindler, or a person of the most perverse temperament. Such stories,
 
-for instance, are _Sir Richard Calmady_, _Dodo_, _Quisante_, _La Bête
+for instance, are _Sir [[Richard]] Calmady_, _Dodo_, _Quisante_, _La Bête
 
 Humaine_, even the _Egoist_. But in a fairy tale the boy sees all the
 
 wonders of fairyland because he is an ordinary boy. In the same way Mr.
 
-Samuel Pickwick sees an extraordinary England because he is an ordinary
+[[Samuel Pickwick]] sees an extraordinary England because he is an ordinary
 
 old gentleman. He does not see things through the rosy spectacles of the
 
 modern optimist or the green-smoked spectacles of the pessimist; he sees
 
-it through the crystal glasses of his own innocence. One must see the
+it through the crystal glasses of his own [[innocence]]. One must see the
 
 world clearly even in order to see its wildest poetry. One must see it
 
 sanely even in order to see that it is insane.
 
-Mr. Pickwick, then, relieved against a background of heavy kindliness
+Mr. [[Pickwick]], then, relieved against a background of heavy kindliness
 
 and quiet club life does not seem to be quite the same heroic figure as
 
-Mr. Pickwick relieved against a background of the fighting police
+Mr. [[Pickwick]] relieved against a background of the fighting police
 
 constables at Ipswich or the roaring mobs of Eatanswill. Of the
 
@@ -12185,21 +12185,21 @@ and could not appear for an instant without being amusing.
 
 The other elements in the make-up of _Master Humphrey's Clock_ come
 
-under the same paradox which I have applied to the whole work. Though
+under the same [[Paradox|paradox]] which I have applied to the whole work. Though
 
 not very important in literature they are somehow quite important in
 
 criticism. They show us better than anything else the whole unconscious
 
-trend of Dickens, the stuff of which his very dreams were made. If he
+trend of Dickens, the stuff of which his very [[Dreams|dreams]] were made. If he
 
-had made up tales to amuse himself when half-awake (as I have no doubt
+had made up tales to amuse himself when half-awake (as I have no [[Doubt|doubt]]
 
 he did) they would be just such tales as these. They would have been
 
-ghostly legends of the nooks and holes of London, echoes of old love and
+ghostly legends of the nooks and holes of [[London]], echoes of old [[Love|love]] and
 
-laughter from the taverns or the Inns of Court. In a sense also one may
+laughter from the taverns or the Inns of [[Court]]. In a sense also one may
 
 say that these tales are the great might-have-beens of Dickens. They are
 
@@ -12211,13 +12211,13 @@ incredible colours. Nothing, for instance, could have been nearer to the
 
 heart of Dickens than his great Gargantuan conception of Gog and Magog
 
-telling London legends to each other all through the night. Those two
+telling [[London]] legends to each other all through the [[Night|night]]. Those two
 
-giants might have stood on either side of some new great city of his
+giants might have stood on either side of some new great [[City|city]] of his
 
 invention, swarming with fanciful figures and noisy with new events.
 
-But as it is, the two giants stand alone in a wilderness, guarding
+But as it is, the two giants stand [[Alone|alone]] in a wilderness, guarding
 
 either side of a gate that leads nowhere.
 
@@ -12227,15 +12227,15 @@ Those abuses which are supposed to belong specially to religion belong
 
 to all human institutions. They are not the sins of supernaturalism, but
 
-the sins of nature. In this respect it is interesting to observe that
+the sins of [[Nature|nature]]. In this respect it is interesting to observe that
 
 all the evils which our Rationalist or Protestant tradition associates
 
 with the idolatrous veneration of sacred figures arises in the merely
 
-human atmosphere of literature and history. Every extravagance of
+human atmosphere of literature and [[history]]. Every extravagance of
 
-hagiology can be found in hero-worship. Every folly alleged in the
+hagiology can be found in [[Hero|hero]]-worship. Every folly alleged in the
 
 worship of saints can be found in the worship of poets. There are those
 
@@ -12243,7 +12243,7 @@ who are honourably and intensely opposed to the atmosphere of religious
 
 symbolism or religious archæology. There are people who have a vague
 
-idea that the worship of saints is worse than the imitation of sinners.
+idea that the worship of saints is worse than the [[Imitation|imitation]] of sinners.
 
 There are some, like a lady I once knew, who think that hagiology is the
 
@@ -12253,11 +12253,11 @@ generally have idolatries and superstitions of their own, particularly
 
 idolatries and superstitions in connection with celebrated people. Mr.
 
-Stead preserves a pistol belonging to Oliver Cromwell in the office of
+Stead preserves a [[Pistol|pistol]] belonging to [[Oliver]] Cromwell in the office of
 
 the _Review of Reviews_; and I am sure he worships it in his rare
 
-moments of solitude and leisure. A man, who could not be induced to
+moments of [[Solitude|solitude]] and leisure. A man, who could not be induced to
 
 believe in God by all the arguments of all the philosophers, professed
 
@@ -12267,7 +12267,7 @@ handwriting of Mr. Gladstone. Persons not otherwise noted for their
 
 religious exercise have been known to procure and preserve portions of
 
-the hair of Paderewski. Nay, by this time blasphemy itself is a sacred
+the hair of Paderewski. Nay, by this [[Time|time]] blasphemy itself is a sacred
 
 tradition, and almost as much respect would be paid to the alleged
 
@@ -12281,21 +12281,21 @@ Of all the instances of this there is none stranger than the case of
 
 Dickens. It should be pondered very carefully by those who reproach
 
-Christianity with having been easily corrupted into a system of
+[[Christianity]] with having been easily corrupted into a system of
 
 superstitions. If ever there was a message full of what modern people
 
-call true Christianity, the direct appeal to the common heart, a faith
+call true [[Christianity]], the direct appeal to the common heart, a [[Faith|faith]]
 
-that was simple, a hope that was infinite, and a charity that was
+that was simple, a [[Hope|hope]] that was infinite, and a [[Charity|charity]] that was
 
-omnivorous, if ever there came among men what they call the Christianity
+omnivorous, if ever there came among men what they call the [[Christianity]]
 
-of Christ, it was in the message of Dickens. Christianity has been in
+of [[Christ]], it was in the message of Dickens. [[Christianity]] has been in
 
 the world nearly two thousand years, and it has not yet quite lost, its
 
-enemies being judges, its first fire and charity; but friends and
+enemies being judges, its first [[Fire|fire]] and [[Charity|charity]]; but friends and
 
 enemies would agree that it was from the very first more detailed and
 
@@ -12305,9 +12305,9 @@ the world about sixty years; and already it is a superstition. Already
 
 it is loaded with relics. Already it is stiff with antiquity.
 
-Everything that can be said about the perversion of Christianity can be
+Everything that can be said about the perversion of [[Christianity]] can be
 
-said about the perversion of Dickens. It is said that Christ's words
+said about the perversion of Dickens. It is said that [[Christ]]'s words
 
 are repeated by the very High Priests and Scribes whom He meant to
 
@@ -12361,15 +12361,15 @@ by a thunderbolt out of heaven or outlawed by the whole human race, all
 
 that would seem quite natural. What has really happened is this: that
 
-two respectable towns in Suffolk are still disputing for the honour of
+two respectable towns in Suffolk are still disputing for the [[Honour|honour]] of
 
-having been the original Eatanswill; as if two innocent hamlets each
+having been the original Eatanswill; as if two [[Innocent|innocent]] hamlets each
 
 claimed to be Gomorrah. I make no comment; the thing is beyond speech.
 
 But this strange sentimental and relic-hunting worship of Dickens has
 
-many more innocent manifestations. One of them is that which takes
+many more [[Innocent|innocent]] manifestations. One of them is that which takes
 
 advantage of the fact that Dickens happened to be a journalist by trade.
 
@@ -12377,7 +12377,7 @@ It occupies itself therefore with hunting through papers and magazines
 
 for unsigned articles which may possibly be proved to be his. Only a
 
-little time ago one of these enthusiasts ran up to me, rubbing his
+little [[Time|time]] ago one of these enthusiasts ran up to me, rubbing his
 
 hands, and told me that he was sure he had found two and a half short
 
@@ -12395,7 +12395,7 @@ journalist to write bad literature. It is sometimes the first duty of a
 
 good man to write it. Pot-boilers to my feeling are sacred things; but
 
-they may well be secret as well as sacred, like the holy pot which it is
+they may [[Well|well]] be secret as [[Well|well]] as sacred, like the holy pot which it is
 
 their purpose to boil. In the collection called _Reprinted Pieces_ there
 
@@ -12411,7 +12411,7 @@ solid appreciation of the author.
 
 Of these the first in importance is that which comes last in order. I
 
-mean the three remarkable pamphlets upon the English Sunday, called
+mean the three remarkable pamphlets upon the English [[Sunday]], called
 
 _Sunday under Three Heads_. Here, at least, we find the eternal Dickens,
 
@@ -12429,7 +12429,7 @@ any other conclusion equally reasonable and unimportant. These things
 
 have no colour of the great man's character. But on the subject of the
 
-English Sunday he does stand for his own philosophy. He stands for a
+English [[Sunday]] he does stand for his own [[philosophy]]. He stands for a
 
 particular view, remote at present both from Liberals and Conservatives.
 
@@ -12439,7 +12439,7 @@ every sense the last.
 
 In his appeal for the pleasures of the people, Dickens has remained
 
-alone. The pleasures of the people have now no defender, Radical or
+[[Alone|alone]]. The pleasures of the people have now no defender, Radical or
 
 Tory. The Tories despise the people. The Radicals despise the pleasures.
 
@@ -12623,7 +12623,7 @@ copying, distributing, performing, displaying or creating derivative
 
 works based on the work as long as all references to Project Gutenberg
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 
 Gutenberg-tm mission of promoting free access to electronic works by
 
@@ -12725,7 +12725,7 @@ active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may [[convert]] to and distribute this work in any binary,
 
 compressed, marked up, nonproprietary or proprietary form, including any
 
@@ -12815,7 +12815,7 @@ electronic work or group of works on different terms than are set
 
 forth in this agreement, you must obtain permission in writing from
 
-both the Project Gutenberg Literary Archive Foundation and Michael
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]
 
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
@@ -12991,7 +12991,7 @@ Fairbanks, AK, 99712., but its volunteers and employees are scattered
 
 throughout numerous locations.  Its business office is located at
 
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email
 
 business@pglaf.org.  Email contact links and up to date contact
 
@@ -13017,7 +13017,7 @@ spread public support and donations to carry out its mission of
 
 increasing the number of public domain and licensed works that can be
 
-freely distributed in machine readable form accessible by the widest
+freely distributed in [[Machine|machine]] readable form accessible by the widest
 
 array of equipment including outdated equipment.  Many small donations
 
@@ -13053,7 +13053,7 @@ International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States.  U.S. laws [[Alone|alone]] swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -13067,7 +13067,7 @@ Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor [[Michael]] S. Hart is the originator of the Project Gutenberg-tm
 
 concept of a library of electronic works that could be freely shared
 

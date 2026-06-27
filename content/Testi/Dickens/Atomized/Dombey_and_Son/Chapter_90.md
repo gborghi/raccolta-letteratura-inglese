@@ -19,18 +19,18 @@ Another Mother and Daughter
 
 
 In an ugly and dark room, an old woman, ugly and dark too, sat
-listening to the wind and rain, and crouching over a meagre fire. More
+listening to the [[Wind|wind]] and rain, and crouching over a meagre [[Fire|fire]]. More
 constant to the last-named occupation than the first, she never changed
 her attitude, unless, when any stray drops of rain fell hissing on the
 smouldering embers, to raise her head with an awakened attention to the
 whistling and pattering outside, and gradually to let it fall again
 lower and lower and lower as she sunk into a brooding state of thought,
-in which the noises of the night were as indistinctly regarded as is
-the monotonous rolling of a sea by one who sits in contemplation on its
+in which the noises of the [[Night|night]] were as indistinctly regarded as is
+the monotonous [[rolling]] of a sea by one who sits in contemplation on its
 shore.
 
-There was no light in the room save that which the fire afforded.
-Glaring sullenly from time to time like the eye of a fierce beast half
+There was no light in the room save that which the [[Fire|fire]] afforded.
+Glaring sullenly from [[Time|time]] to [[Time|time]] like the eye of a fierce beast half
 asleep, it revealed no objects that needed to be jealous of a better
 display. A heap of rags, a heap of bones, a wretched bed, two or three
 mutilated chairs or stools, the black walls and blacker ceiling, were
@@ -38,25 +38,25 @@ all its winking brightness shone upon. As the old woman, with a
 gigantic and distorted image of herself thrown half upon the wall
 behind her, half upon the roof above, sat bending over the few loose
 bricks within which it was pent, on the damp hearth of the chimney—for
-there was no stove—she looked as if she were watching at some witch’s
+there was no stove—she looked as if she were watching at some [[Witch|witch]]’s
 altar for a favourable token; and but that the movement of her
 chattering jaws and trembling chin was too frequent and too fast for
-the slow flickering of the fire, it would have seemed an illusion
+the slow flickering of the [[Fire|fire]], it would have seemed an illusion
 wrought by the light, as it came and went, upon a face as motionless as
 the form to which it belonged.
 
 If Florence could have stood within the room and looked upon the
-original of the shadow thrown upon the wall and roof as it cowered thus
-over the fire, a glance might have sufficed to recall the figure of
+original of the [[Shadow|shadow]] thrown upon the wall and roof as it cowered thus
+over the [[Fire|fire]], a glance might have sufficed to recall the figure of
 Good Mrs Brown; notwithstanding that her childish recollection of that
-terrible old woman was as grotesque and exaggerated a presentment of
-the truth, perhaps, as the shadow on the wall. But Florence was not
+terrible old woman was as [[Grotesque|grotesque]] and exaggerated a presentment of
+the [[Truth|truth]], perhaps, as the [[Shadow|shadow]] on the wall. But Florence was not
 there to look on; and Good Mrs Brown remained unrecognised, and sat
-staring at her fire, unobserved.
+staring at her [[Fire|fire]], unobserved.
 
 Attracted by a louder sputtering than usual, as the rain came hissing
 down the chimney in a little stream, the old woman raised her head,
-impatiently, to listen afresh. And this time she did not drop it again;
+impatiently, to listen afresh. And this [[Time|time]] she did not drop it again;
 for there was a hand upon the door, and a footstep in the room.
 
 “Who’s that?” she said, looking over her shoulder.
@@ -71,11 +71,11 @@ for there was a hand upon the door, and a footstep in the room.
 
 “Ay, from beyond seas.”
 
-The old woman raked the fire together, hurriedly, and going close to
+The old woman raked the [[Fire|fire]] together, hurriedly, and going close to
 her visitor who had entered, and shut the door, and who now stood in
 the middle of the room, put her hand upon the drenched cloak, and
 turned the unresisting figure, so as to have it in the full light of
-the fire. She did not find what she had expected, whatever that might
+the [[Fire|fire]]. She did not find what she had expected, whatever that might
 be; for she let the cloak go again, and uttered a querulous cry of
 disappointment and misery.
 
@@ -88,9 +88,9 @@ terrible howl.
 
 “It’s not my gal!” cried the old woman, tossing up her arms, and
 clasping her hands above her head. “Where’s my Alice? Where’s my
-handsome daughter? They’ve been the death of her!”
+handsome daughter? They’ve been the [[Death|death]] of her!”
 
-“They’ve not been the death of her yet, if your name’s Marwood,” said
+“They’ve not been the [[Death|death]] of her yet, if your name’s Marwood,” said
 the visitor.
 
 “Have you seen my gal, then?” cried the old woman. “Has she wrote to
@@ -104,7 +104,7 @@ me?”
 
 The old woman, mumbling and shaking her head, and muttering to herself
 about her handsome daughter, brought a candle from a cupboard in the
-corner, and thrusting it into the fire with a trembling hand, lighted
+corner, and thrusting it into the [[Fire|fire]] with a trembling hand, lighted
 it with some difficulty and set it on the table. Its dirty wick burnt
 dimly at first, being choked in its own grease; and when the bleared
 eyes and failing sight of the old woman could distinguish anything by
@@ -148,19 +148,19 @@ all these years, and all the wretched life I’ve led!”
 
 “Why, mother!” said Alice, shaking her ragged skirts to detach the old
 woman from them: “there are two sides to that. There have been years
-for me as well as you, and there has been wretchedness for me as well
+for me as [[Well|well]] as you, and there has been wretchedness for me as [[Well|well]]
 as you. Get up, get up!”
 
-Her mother rose, and cried, and wrung her hands, and stood at a little
+Her mother [[Rose|rose]], and cried, and wrung her hands, and stood at a little
 distance gazing on her. Then she took the candle again, and going round
-her, surveyed her from head to foot, making a low moaning all the time.
+her, surveyed her from head to foot, making a low moaning all the [[Time|time]].
 Then she put the candle down, resumed her chair, and beating her hands
-together to a kind of weary tune, and rolling herself from side to
+together to a kind of weary tune, and [[rolling]] herself from side to
 side, continued moaning and wailing to herself.
 
 Alice got up, took off her wet cloak, and laid it aside. That done, she
 sat down as before, and with her arms folded, and her eyes gazing at
-the fire, remained silently listening with a contemptuous face to her
+the [[Fire|fire]], remained silently listening with a contemptuous face to her
 old mother’s inarticulate complainings.
 
 “Did you expect to see me return as youthful as I went away, mother?”
@@ -174,10 +174,10 @@ so, to hear you!”
 that don’t last, mother, or my way out is easier than my way in.”
 
 “Hear that!” exclaimed the mother. “After all these years she threatens
-to desert me in the moment of her coming back again!”
+to [[Desert|desert]] me in the moment of her coming back again!”
 
-“I tell you, mother, for the second time, there have been years for me
-as well as you,” said Alice. “Come back harder? Of course I have come
+“I tell you, mother, for the second [[Time|time]], there have been years for me
+as [[Well|well]] as you,” said Alice. “Come back harder? Of course I have come
 back harder. What else did you expect?”
 
 “Harder to me! To her own dear mother!” cried the old woman
@@ -192,22 +192,22 @@ enough, and have come back no better, you may swear. But have you been
 very dutiful to me?”
 
 “I!” cried the old woman. “To my gal! A mother dutiful to her own
-child!”
+[[Child|child]]!”
 
 “It sounds unnatural, don’t it?” returned the daughter, looking coldly
 on her with her stern, regardless, hardy, beautiful face; “but I have
 thought of it sometimes, in the course of my lone years, till I have
 got used to it. I have heard some talk about duty first and last; but
 it has always been of my duty to other people. I have wondered now and
-then—to pass away the time—whether no one ever owed any duty to me.”
+then—to pass away the [[Time|time]]—whether no one ever owed any duty to me.”
 
 Her mother sat mowing, and mumbling, and shaking her head, but whether
 angrily or remorsefully, or in denial, or only in her physical
 infirmity, did not appear.
 
-“There was a child called Alice Marwood,” said the daughter, with a
+“There was a [[Child|child]] called Alice Marwood,” said the daughter, with a
 laugh, and looking down at herself in terrible derision of herself,
-“born, among poverty and neglect, and nursed in it. Nobody taught her,
+“born, among [[Poverty|poverty]] and neglect, and nursed in it. Nobody taught her,
 nobody stepped forward to help her, nobody cared for her.”
 
 “Nobody!” echoed the mother, pointing to herself, and striking her
@@ -217,14 +217,14 @@ breast.
 stinted, and abused sometimes; and she might have done better without
 that. She lived in homes like this, and in the streets, with a crowd of
 little wretches like herself; and yet she brought good looks out of
-this childhood. So much the worse for her. She had better have been
-hunted and worried to death for ugliness.”
+this [[Childhood|childhood]]. So much the worse for her. She had better have been
+hunted and worried to [[Death|death]] for ugliness.”
 
 “Go on! go on!” exclaimed the mother.
 
 “I am going on,” returned the daughter. “There was a girl called Alice
 Marwood. She was handsome. She was taught too late, and taught all
-wrong. She was too well cared for, too well trained, too well helped
+wrong. She was too [[Well|well]] cared for, too [[Well|well]] trained, too [[Well|well]] helped
 on, too much looked after. You were very fond of her—you were better
 off then. What came to that girl comes to thousands every year. It was
 only ruin, and she was born to it.”
@@ -235,11 +235,11 @@ this.”
 “She’ll soon have ended,” said the daughter. “There was a criminal
 called Alice Marwood—a girl still, but deserted and an outcast. And she
 was tried, and she was sentenced. And lord, how the gentlemen in the
-Court talked about it! and how grave the judge was on her duty, and on
-her having perverted the gifts of nature—as if he didn’t know better
+[[Court]] talked about it! and how [[Grave|grave]] the judge was on her duty, and on
+her having perverted the gifts of [[Nature|nature]]—as if he didn’t know better
 than anybody there, that they had been made curses to her!—and how he
 preached about the strong arm of the Law—so very strong to save her,
-when she was an innocent and helpless little wretch!—and how solemn and
+when she was an [[Innocent|innocent]] and helpless little wretch!—and how solemn and
 religious it all was! I have thought of that, many times since, to be
 sure!”
 
@@ -250,7 +250,7 @@ made the howl of the old woman musical.
 to learn her duty, where there was twenty times less duty, and more
 wickedness, and wrong, and infamy, than here. And Alice Marwood is come
 back a woman. Such a woman as she ought to be, after all this. In good
-time, there will be more solemnity, and more fine talk, and more strong
+[[Time|time]], there will be more solemnity, and more fine talk, and more strong
 arm, most likely, and there will be an end of her; but the gentlemen
 needn’t be afraid of being thrown out of work. There’s crowds of little
 wretches, boy and girl, growing up in any of the streets they live in,
@@ -262,23 +262,23 @@ perhaps.
 
 “There! I have done, mother,” said the daughter, with a motion of her
 head, as if in dismissal of the subject. “I have said enough. Don’t let
-you and I talk of being dutiful, whatever we do. Your childhood was
+you and I talk of being dutiful, whatever we do. Your [[Childhood|childhood]] was
 like mine, I suppose. So much the worse for both of us. I don’t want to
 blame you, or to defend myself; why should I? That’s all over long ago.
 But I am a woman—not a girl, now—and you and I needn’t make a show of
-our history, like the gentlemen in the Court. We know all about it,
-well enough.”
+our [[history]], like the gentlemen in the [[Court]]. We know all about it,
+[[Well|well]] enough.”
 
-Lost and degraded as she was, there was a beauty in her, both of face
+Lost and degraded as she was, there was a [[Beauty|beauty]] in her, both of face
 and form, which, even in its worst expression, could not but be
 recognised as such by anyone regarding her with the least attention. As
-she subsided into silence, and her face which had been harshly
-agitated, quieted down; while her dark eyes, fixed upon the fire,
+she subsided into [[Silence|silence]], and her face which had been harshly
+agitated, quieted down; while her dark eyes, fixed upon the [[Fire|fire]],
 exchanged the reckless light that had animated them, for one that was
 softened by something like sorrow; there shone through all her wayworn
 misery and fatigue, a ray of the departed radiance of the fallen angel.
 
-Her mother, after watching her for some time without speaking, ventured
+Her mother, after watching her for some [[Time|time]] without speaking, ventured
 to steal her withered hand a little nearer to her across the table; and
 finding that she permitted this, to touch her face, and smooth her
 hair. With the feeling, as it seemed, that the old woman was at least
@@ -289,16 +289,16 @@ her shoulders, and hovered humbly about her, muttering to herself, as
 she recognised her old features and expression more and more.
 
 “You are very poor, mother, I see,” said Alice, looking round, when she
-had sat thus for some time.
+had sat thus for some [[Time|time]].
 
 “Bitter poor, my deary,” replied the old woman.
 
 She admired her daughter, and was afraid of her. Perhaps her
 admiration, such as it was, had originated long ago, when she first
 found anything that was beautiful appearing in the midst of the squalid
-fight of her existence. Perhaps her fear was referable, in some sort,
+fight of her existence. Perhaps her [[Fear|fear]] was referable, in some sort,
 to the retrospect she had so lately heard. Be this as it might, she
-stood, submissively and deferentially, before her child, and inclined
+stood, submissively and deferentially, before her [[Child|child]], and inclined
 her head, as if in a pitiful entreaty to be spared any further
 reproach.
 
@@ -320,15 +320,15 @@ humbly and submissively than before.
 
 “What family?”
 
-“Hush, darling. Don’t be angry with me. I did it for the love of you.
-In memory of my poor gal beyond seas.” She put out her hand
+“Hush, darling. Don’t be angry with me. I did it for the [[Love|love]] of you.
+In [[Memory|memory]] of my poor gal beyond seas.” She put out her hand
 deprecatingly, and drawing it back again, laid it on her lips.
 
 “Years ago, my deary,” she pursued, glancing timidly at the attentive
-and stern face opposed to her, “I came across his little child, by
+and stern face opposed to her, “I came across his little [[Child|child]], by
 chance.”
 
-“Whose child?”
+“Whose [[Child|child]]?”
 
 “Not his, Alice deary; don’t look at me like that; not his. How could
 it be his? You know he has none.”
@@ -339,7 +339,7 @@ it be his? You know he has none.”
 Since then, darling, I have seen them often. I have seen _him_.”
 
 In uttering this last word, the old woman shrunk and recoiled, as if
-with sudden fear that her daughter would strike her. But though the
+with sudden [[Fear|fear]] that her daughter would strike her. But though the
 daughter’s face was fixed upon her, and expressed the most vehement
 passion, she remained still: except that she clenched her arms tighter
 and tighter within each other, on her bosom, as if to restrain them by
@@ -353,7 +353,7 @@ hand.
 
 “But there we were, said the old woman, “face to face. I spoke to him,
 and he spoke to me. I sat and watched him as he went away down a long
-grove of trees: and at every step he took, I cursed him soul and body.”
+grove of trees: and at every step he took, I cursed him [[Soul|soul]] and [[Body|body]].”
 
 “He will thrive in spite of that,” returned the daughter disdainfully.
 
@@ -364,7 +364,7 @@ rage. It seemed as if the bosom would burst with the emotions that
 strove within it. The effort that constrained and held it pent up, was
 no less formidable than the rage itself: no less bespeaking the violent
 and dangerous character of the woman who made it. But it succeeded, and
-she asked, after a silence:
+she asked, after a [[Silence|silence]]:
 
 “Is he married?”
 
@@ -375,7 +375,7 @@ she asked, after a silence:
 “Not that I know of, deary. But his master and friend is married. Oh,
 we may give him joy! We may give ’em all joy!” cried the old woman,
 hugging herself with her lean arms in her exultation. “Nothing but joy
-to us will come of that marriage. Mind me!”
+to us will come of that [[Marriage|marriage]]. Mind me!”
 
 The daughter looked at her for an explanation.
 
@@ -386,14 +386,14 @@ table—“little here. Have you any money, Alice, deary?”
 
 The covetous, sharp, eager face, with which she asked the question and
 looked on, as her daughter took out of her bosom the little gift she
-had so lately received, told almost as much of the history of this
-parent and child as the child herself had told in words.
+had so lately received, told almost as much of the [[history]] of this
+parent and [[Child|child]] as the [[Child|child]] herself had told in words.
 
 “Is that all?” said the mother.
 
-“I have no more. I should not have this, but for charity.”
+“I have no more. I should not have this, but for [[Charity|charity]].”
 
-“But for charity, eh, deary?” said the old woman, bending greedily over
+“But for [[Charity|charity]], eh, deary?” said the old woman, bending greedily over
 the table to look at the money, which she appeared distrustful of her
 daughter’s still retaining in her hand, and gazing on. “Humph! six and
 six is twelve, and six eighteen—so—we must make the most of it. I’ll go
@@ -403,13 +403,13 @@ With greater alacrity than might have been expected in one of her
 appearance—for age and misery seemed to have made her as decrepit as
 ugly—she began to occupy her trembling hands in tying an old bonnet on
 her head, and folding a torn shawl about herself: still eyeing the
-money in her daughter’s hand, with the same sharp desire.
+money in her daughter’s hand, with the same sharp [[Desire|desire]].
 
-“What joy is to come to us of this marriage, mother?” asked the
+“What joy is to come to us of this [[Marriage|marriage]], mother?” asked the
 daughter. “You have not told me that.”
 
 “The joy,” she replied, attiring herself, with fumbling fingers, “of no
-love at all, and much pride and hate, my deary. The joy of confusion
+[[Love|love]] at all, and much [[Pride|pride]] and hate, my deary. The joy of confusion
 and strife among ’em, proud as they are, and of danger—danger, Alice!”
 
 “What danger?”
@@ -420,7 +420,7 @@ keep good company yet!”
 
 Then, seeing that in the wondering earnestness with which her daughter
 regarded her, her hand involuntarily closed upon the money, the old
-woman made more speed to secure it, and hurriedly added, “but I’ll go
+woman made more [[Speed|speed]] to secure it, and hurriedly added, “but I’ll go
 buy something; I’ll go buy something.”
 
 As she stood with her hand stretched out before her daughter, her
@@ -453,24 +453,24 @@ The daughter smiled incredulously.
 “I know of his brother, Alice,” said the old woman, stretching out her
 neck with a leer of malice absolutely frightful, “who might have been
 where you have been—for stealing money—and who lives with his sister,
-over yonder, by the north road out of London.”
+over yonder, by the north [[Road|road]] out of [[London]].”
 
 “Where?”
 
-“By the north road out of London, deary. You shall see the house if you
+“By the north [[Road|road]] out of [[London]], deary. You shall see the [[house]] if you
 like. It ain’t much to boast of, genteel as his own is. No, no, no,”
 cried the old woman, shaking her head and laughing; for her daughter
 had started up, “not now; it’s too far off; it’s by the milestone,
 where the stones are heaped;—to-morrow, deary, if it’s fine, and you
-are in the humour. But I’ll go spend—”
+are in the [[Humour|humour]]. But I’ll go spend—”
 
 “Stop!” and the daughter flung herself upon her, with her former
-passion raging like a fire. “The sister is a fair-faced Devil, with
+passion raging like a [[Fire|fire]]. “The sister is a fair-faced Devil, with
 brown hair?”
 
 The old woman, amazed and terrified, nodded her head.
 
-“I see the shadow of him in her face! It’s a red house standing by
+“I see the [[Shadow|shadow]] of him in her face! It’s a red [[house]] standing by
 itself. Before the door there is a small green porch.”
 
 Again the old woman nodded.
@@ -483,24 +483,24 @@ Again the old woman nodded.
 
 She forced it from the old woman’s hand as she spoke, and utterly
 indifferent to her complainings and entreaties, threw on the garments
-she had taken off, and hurried out, with headlong speed.
+she had taken off, and hurried out, with headlong [[Speed|speed]].
 
 The mother followed, limping after her as she could, and expostulating
-with no more effect upon her than upon the wind and rain and darkness
+with no more effect upon her than upon the [[Wind|wind]] and rain and darkness
 that encompassed them. Obdurate and fierce in her own purpose, and
 indifferent to all besides, the daughter defied the weather and the
 distance, as if she had known no travel or fatigue, and made for the
-house where she had been relieved. After some quarter of an hour’s
+[[house]] where she had been relieved. After some quarter of an hour’s
 walking, the old woman, spent and out of breath, ventured to hold by
-her skirts; but she ventured no more, and they travelled on in silence
+her skirts; but she ventured no more, and they travelled on in [[Silence|silence]]
 through the wet and gloom. If the mother now and then uttered a word of
 complaint, she stifled it lest her daughter should break away from her
 and leave her behind; and the daughter was dumb.
 
 It was within an hour or so of midnight, when they left the regular
 streets behind them, and entered on the deeper gloom of that neutral
-ground where the house was situated. The town lay in the distance,
-lurid and lowering; the bleak wind howled over the open space; all
+ground where the [[house]] was situated. The town lay in the distance,
+lurid and lowering; the bleak [[Wind|wind]] howled over the open space; all
 around was black, wild, desolate.
 
 “This is a fit place for me!” said the daughter, stopping to look back.
@@ -515,11 +515,11 @@ around was black, wild, desolate.
 it. We want supper, deary. Money is money, whoever gives it. Say what
 you will, but keep the money.”
 
-“See there!” was all the daughter’s answer. “That is the house I mean.
+“See there!” was all the daughter’s answer. “That is the [[house]] I mean.
 Is that it?”
 
 The old woman nodded in the affirmative; and a few more paces brought
-them to the threshold. There was the light of fire and candle in the
+them to the threshold. There was the light of [[Fire|fire]] and candle in the
 room where Alice had sat to dry her clothes; and on her knocking at the
 door, John Carker appeared from that room.
 
@@ -541,12 +541,12 @@ it would gladly strangle her; that she drew close to her brother for
 protection.
 
 “That I could speak with you, and not know you! That I could come near
-you, and not feel what blood was running in your veins, by the tingling
+you, and not feel what [[Blood|blood]] was running in your veins, by the tingling
 of my own!” said Alice, with a menacing gesture.
 
 “What do you mean? What have I done?”
 
-“Done!” returned the other. “You have sat me by your fire; you have
+“Done!” returned the other. “You have sat me by your [[Fire|fire]]; you have
 given me food and money; you have bestowed your compassion on me! You!
 whose name I spit upon!”
 
@@ -557,53 +557,53 @@ imploring her to keep the money.
 
 “If I dropped a tear upon your hand, may it wither it up! If I spoke a
 gentle word in your hearing, may it deafen you! If I touched you with
-my lips, may the touch be poison to you! A curse upon this roof that
+my lips, may the touch be [[Poison|poison]] to you! A curse upon this roof that
 gave me shelter! Sorrow and shame upon your head! Ruin upon all
 belonging to you!”
 
 As she said the words, she threw the money down upon the ground, and
 spurned it with her foot.
 
-“I tread it in the dust: I wouldn’t take it if it paved my way to
+“I tread it in the [[Dust|dust]]: I wouldn’t take it if it paved my way to
 Heaven! I would the bleeding foot that brought me here today, had
-rotted off, before it led me to your house!”
+rotted off, before it led me to your [[house]]!”
 
 Harriet, pale and trembling, restrained her brother, and suffered her
 to go on uninterrupted.
 
-“It was well that I should be pitied and forgiven by you, or anyone of
-your name, in the first hour of my return! It was well that you should
+“It was [[Well|well]] that I should be pitied and forgiven by you, or anyone of
+your name, in the first hour of my return! It was [[Well|well]] that you should
 act the kind good lady to me! I’ll thank you when I die; I’ll pray for
 you, and all your race, you may be sure!”
 
 With a fierce action of her hand, as if she sprinkled hatred on the
 ground, and with it devoted those who were standing there to
 destruction, she looked up once at the black sky, and strode out into
-the wild night.
+the wild [[Night|night]].
 
 The mother, who had plucked at her skirts again and again in vain, and
-had eyed the money lying on the threshold with an absorbing greed that
+had eyed the money lying on the threshold with an absorbing [[Greed|greed]] that
 seemed to concentrate her faculties upon it, would have prowled about,
-until the house was dark, and then groped in the mire on the chance of
+until the [[house]] was dark, and then groped in the mire on the chance of
 repossessing herself of it. But the daughter drew her away, and they
 set forth, straight, on their return to their dwelling; the old woman
-whimpering and bemoaning their loss upon the road, and fretfully
+whimpering and bemoaning their loss upon the [[Road|road]], and fretfully
 bewailing, as openly as she dared, the undutiful conduct of her
-handsome girl in depriving her of a supper, on the very first night of
+handsome girl in depriving her of a supper, on the very first [[Night|night]] of
 their reunion.
 
 Supperless to bed she went, saving for a few coarse fragments; and
-those she sat mumbling and munching over a scrap of fire, long after
+those she sat mumbling and munching over a scrap of [[Fire|fire]], long after
 her undutiful daughter lay asleep.
 
 Were this miserable mother, and this miserable daughter, only the
 reduction to their lowest grade, of certain social vices sometimes
 prevailing higher up? In this round world of many circles within
-circles, do we make a weary journey from the high grade to the low, to
+circles, do we make a weary [[Journey|journey]] from the high grade to the low, to
 find at last that they lie close together, that the two extremes touch,
-and that our journey’s end is but our starting-place? Allowing for
+and that our [[Journey|journey]]’s end is but our starting-place? Allowing for
 great difference of stuff and texture, was the pattern of this woof
-repeated among gentle blood at all?
+repeated among gentle [[Blood|blood]] at all?
 
-Say, Edith Dombey! And Cleopatra, best of mothers, let us have your
+Say, Edith Dombey! And [[Cleopatra]], best of mothers, let us have your
 testimony!

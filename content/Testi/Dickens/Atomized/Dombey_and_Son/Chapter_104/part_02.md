@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-At this stage of her recovery, Captain Cuttle, with an imperfect
+At this stage of her recovery, [[Captain Cuttle]], with an imperfect
 association of a Watch with a Physician’s treatment of a patient, took
 his own down from the mantel-shelf, and holding it out on his hook, and
 taking Florence’s hand in his, looked steadily from one to the other,
@@ -27,7 +27,7 @@ half-an-hour every morning, and about another quarter towards the
 arternoon, and you’re a watch as can be ekalled by few and excelled by
 none. What cheer, my lady lass!”
 
-“Captain Cuttle! Is it you?” exclaimed Florence, raising herself a
+“[[Captain Cuttle]]! Is it you?” exclaimed Florence, raising herself a
 little.
 
 “Yes, yes, my lady lass,” said the Captain, hastily deciding in his own
@@ -39,20 +39,20 @@ courtly he could think of.
 “Here, pretty?” returned the Captain. “He ain’t been here this many a
 long day. He ain’t been heerd on, since he sheered off arter poor
 Wal”r. But,” said the Captain, as a quotation, “Though lost to sight,
-to memory dear, and England, Home, and Beauty!”
+to [[Memory|memory]] dear, and England, [[Home]], and [[Beauty]]!”
 
 “Do you live here?” asked Florence.
 
 “Yes, my lady lass,” returned the Captain.
 
-“Oh, Captain Cuttle!” cried Florence, putting her hands together, and
+“Oh, [[Captain Cuttle]]!” cried Florence, putting her hands together, and
 speaking wildly. “Save me! keep me here! Let no one know where I am!
 I’ll tell you what has happened by-and-by, when I can. I have no one in
 the world to go to. Do not send me away!”
 
 “Send you away, my lady lass!” exclaimed the Captain. “You, my Heart’s
 Delight! Stay a bit! We’ll put up this here deadlight, and take a
-double turn on the key!”
+[[Double|double]] turn on the key!”
 
 With these words, the Captain, using his one hand and his hook with the
 greatest dexterity, got out the shutter of the door, put it up, made it
@@ -61,8 +61,8 @@ all fast, and locked the door itself.
 When he came back to the side of Florence, she took his hand, and
 kissed it. The helplessness of the action, the appeal it made to him,
 the confidence it expressed, the unspeakable sorrow in her face, the
-pain of mind she had too plainly suffered, and was suffering then, his
-knowledge of her past history, her present lonely, worn, and
+[[Pain|pain]] of mind she had too plainly suffered, and was [[Suffering|suffering]] then, his
+knowledge of her past [[history]], her present lonely, worn, and
 unprotected appearance, all so rushed upon the good Captain together,
 that he fairly overflowed with compassion and gentleness.
 
@@ -92,23 +92,23 @@ must take some breakfast, lady lass, and the dog shall have some too.
 And arter that you shall go aloft to old Sol Gills’s room, and fall
 asleep there, like a angel.”
 
-Captain Cuttle patted Diogenes when he made allusion to him, and
+[[Captain Cuttle]] patted Diogenes when he made allusion to him, and
 Diogenes met that overture graciously, half-way. During the
 administration of the restoratives he had clearly been in two minds
-whether to fly at the Captain or to offer him his friendship; and he
+whether to fly at the Captain or to offer him his [[Friendship|friendship]]; and he
 had expressed that conflict of feeling by alternate waggings of his
 tail, and displays of his teeth, with now and then a growl or so. But
-by this time, his doubts were all removed. It was plain that he
+by this [[Time|time]], his doubts were all removed. It was plain that he
 considered the Captain one of the most amiable of men, and a man whom
-it was an honour to a dog to know.
+it was an [[Honour|honour]] to a dog to know.
 
 In evidence of these convictions, Diogenes attended on the Captain
 while he made some tea and toast, and showed a lively interest in his
 housekeeping. But it was in vain for the kind Captain to make such
-preparations for Florence, who sorely tried to do some honour to them,
+preparations for Florence, who sorely tried to do some [[Honour|honour]] to them,
 but could touch nothing, and could only weep and weep again.
 
-“Well, well!” said the compassionate Captain, “arter turning in, my
+“[[Well]], [[Well|well]]!” said the compassionate Captain, “arter turning in, my
 Heart’s Delight, you’ll get more way upon you. Now, I’ll serve out your
 allowance, my lad.” To Diogenes. “And you shall keep guard on your
 mistress aloft.”
@@ -117,7 +117,7 @@ Diogenes, however, although he had been eyeing his intended breakfast
 with a watering mouth and glistening eyes, instead of falling to,
 ravenously, when it was put before him, pricked up his ears, darted to
 the shop-door, and barked there furiously: burrowing with his head at
-the bottom, as if he were bent on mining his way out.
+the [[Bottom|bottom]], as if he were bent on mining his way out.
 
 “Can there be anybody there!” asked Florence, in alarm.
 

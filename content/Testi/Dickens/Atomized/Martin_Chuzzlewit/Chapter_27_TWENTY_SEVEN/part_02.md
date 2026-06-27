@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,7 +21,7 @@ tags:
 ‘The Anglo-Bengalee,’ tittered the secretary.
 
 ‘The Anglo-Bengalee Disinterested Loan and Life Assurance Company is
-rather a capital concern, I hope, David,’ said Montague.
+rather a capital concern, I [[Hope|hope]], David,’ said Montague.
 
 ‘Capital indeed!’ cried the secretary, with another laugh--’ in one
 sense.’
@@ -46,7 +46,7 @@ alarm had subsided.
 
 ‘Say, genius, David, genius.’
 
-‘Well, upon my soul, you ARE a genius then,’ said David. ‘I always knew
+‘[[Well]], upon my [[Soul|soul]], you ARE a genius then,’ said David. ‘I always knew
 you had the gift of the gab, of course; but I never believed you were
 half the man you are. How could I?’
 
@@ -69,18 +69,18 @@ friend, for he laughed too, heartily.
 ‘--Being,’ resumed David, ‘being amenable--your property in Bengal being
 amenable--to all claims upon the company; when I look at you and think
 of that, you might tickle me into fits by waving the feather of a pen at
-me. Upon my soul you might!’
+me. Upon my [[Soul|soul]] you might!’
 
 ‘It a devilish fine property,’ said Tigg Montague, ‘to be amenable
-to any claims. The preserve of tigers alone is worth a mint of money,
+to any claims. The preserve of tigers [[Alone|alone]] is worth a mint of money,
 David.’
 
 David could only reply in the intervals of his laughter, ‘Oh, what a
 chap you are!’ and so continued to laugh, and hold his sides, and wipe
-his eyes, for some time, without offering any other observation.
+his eyes, for some [[Time|time]], without offering any other observation.
 
-‘A capital idea?’ said Tigg, returning after a time to his companion’s
-first remark; ‘no doubt it was a capital idea. It was my idea.’
+‘A capital idea?’ said Tigg, returning after a [[Time|time]] to his companion’s
+first remark; ‘no [[Doubt|doubt]] it was a capital idea. It was my idea.’
 
 ‘No, no. It was my idea,’ said David. ‘Hang it, let a man have some
 credit. Didn’t I say to you that I’d saved a few pounds?--’
@@ -135,29 +135,29 @@ upon this great principle, was thriving pretty comfortably.
 
 The Anglo-Bengalee Disinterested Loan and Life Assurance Company started
 into existence one morning, not an Infant Institution, but a Grown-up
-Company running alone at a great pace, and doing business right and
+Company running [[Alone|alone]] at a great pace, and doing business right and
 left: with a ‘branch’ in a first floor over a tailor’s at the west-end
-of the town, and main offices in a new street in the City, comprising
-the upper part of a spacious house resplendent in stucco and
+of the town, and main offices in a new street in the [[City]], comprising
+the upper part of a spacious [[house]] resplendent in stucco and
 plate-glass, with wire-blinds in all the windows, and ‘Anglo-Bengalee’
 worked into the pattern of every one of them. On the doorpost was
 painted again in large letters, ‘offices of the Anglo-Bengalee
 Disinterested Loan and Life Assurance Company,’ and on the door was a
-large brass plate with the same inscription; always kept very bright, as
-courting inquiry; staring the City out of countenance after office hours
+large brass plate with the same [[Inscription|inscription]]; always kept very bright, as
+courting inquiry; staring the [[City]] out of countenance after office hours
 on working days, and all day long on Sundays; and looking bolder than
 the Bank. Within, the offices were newly plastered, newly painted,
 newly papered, newly countered, newly floor-clothed, newly tabled, newly
 chaired, newly fitted up in every way, with goods that were substantial
 and expensive, and designed (like the company) to last. Business! Look
 at the green ledgers with red backs, like strong cricket-balls beaten
-flat; the court-guides directories, day-books, almanacks, letter-boxes,
-weighing-machines for letters, rows of fire-buckets for dashing out a
+flat; the [[Court|court]]-guides directories, day-books, almanacks, letter-boxes,
+weighing-machines for letters, rows of [[Fire|fire]]-buckets for dashing out a
 conflagration in its first spark, and saving the immense wealth in notes
-and bonds belonging to the company; look at the iron safes, the clock,
-the office seal--in its capacious self, security for anything. Solidity!
+and bonds belonging to the company; look at the iron safes, the [[Clock|clock]],
+the office seal--in its capacious [[Self|self]], security for anything. Solidity!
 Look at the massive blocks of marble in the chimney-pieces, and the
-gorgeous parapet on the top of the house! Publicity! Why, Anglo-Bengalee
+gorgeous parapet on the top of the [[house]]! Publicity! Why, Anglo-Bengalee
 Disinterested Loan and Life Assurance company is painted on the very
 coal-scuttles. It is repeated at every turn until the eyes are dazzled
 with it, and the head is giddy. It is engraved upon the top of all the

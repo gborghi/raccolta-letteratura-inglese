@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 16: SIXTEEN (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 16: SIXTEEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-They made their way as they best could through the melancholy crowd of
+They made their way as they best could through the [[Melancholy|melancholy]] crowd of
 emigrants upon the wharf, who, grouped about their beds and boxes, with
 the bare ground below them and the bare sky above, might have fallen
 from another planet, for anything they knew of the country; and walked
@@ -24,13 +24,13 @@ storehouses and offices, ornamented with more black boards and white
 letters, and more white boards and black letters, than Martin had ever
 seen before, in fifty times the space. Presently they turned up a narrow
 street, and presently into other narrow streets, until at last they
-stopped before a house whereon was painted in great characters, ‘ROWDY
+stopped before a [[house]] whereon was painted in great characters, ‘ROWDY
 JOURNAL.’
 
 The colonel, who had walked the whole way with one hand in his breast,
 his head occasionally wagging from side to side, and his hat thrown back
 upon his ears, like a man who was oppressed to inconvenience by a sense
-of his own greatness, led the way up a dark and dirty flight of stairs
+of his own [[Greatness|greatness]], led the way up a dark and dirty flight of stairs
 into a room of similar character, all littered and bestrewn with odds
 and ends of newspapers and other crumpled fragments, both in proof and
 manuscript. Behind a mangy old writing-table in this apartment sat a
@@ -43,7 +43,7 @@ Colonel Diver.
 The individual who sat clipping and slicing as aforesaid at the Rowdy
 Journals, was a small young gentleman of very juvenile appearance, and
 unwholesomely pale in the face; partly, perhaps, from intense thought,
-but partly, there is no doubt, from the excessive use of tobacco, which
+but partly, there is no [[Doubt|doubt]], from the excessive use of tobacco, which
 he was at that moment chewing vigorously. He wore his shirt-collar
 turned down over a black ribbon; and his lank hair, a fragile crop, was
 not only smoothed and parted back from his brow, that none of the Poetry
@@ -56,15 +56,15 @@ were tokens of a sandy down; so very, very smooth and scant, that,
 though encouraged to the utmost, it looked more like a recent trace of
 gingerbread than the fair promise of a moustache; and this conjecture,
 his apparently tender age went far to strengthen. He was intent upon
-his work. Every time he snapped the great pair of scissors, he made
+his work. Every [[Time|time]] he snapped the great pair of scissors, he made
 a corresponding motion with his jaws, which gave him a very terrible
 appearance.
 
 Martin was not long in determining within himself that this must be
-Colonel Diver’s son; the hope of the family, and future mainspring of
+Colonel Diver’s son; the [[Hope|hope]] of the family, and future mainspring of
 the Rowdy Journal. Indeed he had begun to say that he presumed this
 was the colonel’s little boy, and that it was very pleasant to see
-him playing at Editor in all the guilelessness of childhood, when the
+him playing at Editor in all the guilelessness of [[Childhood|childhood]], when the
 colonel proudly interposed and said:
 
 ‘My War Correspondent, sir--Mr Jefferson Brick!’
@@ -85,8 +85,8 @@ Jefferson Brick. Let me see. When did you leave England, sir?’
 
 ‘Five weeks ago,’ repeated the colonel, thoughtfully; as he took his
 seat upon the table, and swung his legs. ‘Now let me ask you, sir which
-of Mr Brick’s articles had become at that time the most obnoxious to the
-British Parliament and the Court of Saint James’s?’
+of Mr Brick’s articles had become at that [[Time|time]] the most obnoxious to the
+British Parliament and the [[Court]] of Saint James’s?’
 
 ‘Upon my word,’ said Martin, ‘I--’
 
@@ -96,21 +96,21 @@ Brick. I should like to be informed, sir, from your lips, which of his
 sentiments has struck the deadliest blow--’
 
 ‘At the hundred heads of the Hydra of Corruption now grovelling in the
-dust beneath the lance of Reason, and spouting up to the universal arch
+[[Dust|dust]] beneath the lance of Reason, and spouting up to the universal arch
 above us, its sanguinary gore,’ said Mr Brick, putting on a little blue
 cloth cap with a glazed front, and quoting his last article.
 
-‘The libation of freedom, Brick’--hinted the colonel.
+‘The libation of [[Freedom|freedom]], Brick’--hinted the colonel.
 
-‘--Must sometimes be quaffed in blood, colonel,’ cried Brick. And when
-he said ‘blood,’ he gave the great pair of scissors a sharp snap, as if
-THEY said blood too, and were quite of his opinion.
+‘--Must sometimes be quaffed in [[Blood|blood]], colonel,’ cried Brick. And when
+he said ‘[[Blood|blood]],’ he gave the great pair of scissors a sharp snap, as if
+THEY said [[Blood|blood]] too, and were quite of his opinion.
 
 This done, they both looked at Martin, pausing for a reply.
 
-‘Upon my life,’ said Martin, who had by this time quite recovered his
+‘Upon my life,’ said Martin, who had by this [[Time|time]] quite recovered his
 usual coolness, ‘I can’t give you any satisfactory information about it;
-for the truth is that I--’
+for the [[Truth|truth]] is that I--’
 
 ‘Stop!’ cried the colonel, glancing sternly at his war correspondent and
 giving his head one shake after every sentence. ‘That you never heard of

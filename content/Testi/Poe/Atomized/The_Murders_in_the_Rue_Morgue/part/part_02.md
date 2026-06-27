@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 2)"
+title: "[[The Murders in the Rue Morgue]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -64,7 +64,7 @@ tags:
 
       and the analytic ability there exists a difference far greater,
 
-      indeed, than that between the fancy and the imagination, but of a
+      indeed, than that between the fancy and the [[Imagination|imagination]], but of a
 
       character very strictly analogous. It will be found, in fact,
 
@@ -80,15 +80,15 @@ tags:
 
 
 
-      Residing in Paris during the spring and part of the summer of
+      Residing in [[Paris]] during the [[Spring|spring]] and part of the [[Summer|summer]] of
 
-      18—, I there became acquainted with a Monsieur C. Auguste Dupin.
+      18—, I there became acquainted with a Monsieur [[C. Auguste Dupin]].
 
       This young gentleman was of an excellent, indeed of an
 
       illustrious family, but, by a variety of untoward events, had
 
-      been reduced to such poverty that the energy of his character
+      been reduced to such [[Poverty|poverty]] that the energy of his character
 
       succumbed beneath it, and he ceased to bestir himself in the
 
@@ -104,7 +104,7 @@ tags:
 
       superfluities. Books, indeed, were his sole luxuries, and in
 
-      Paris these are easily obtained.
+      [[Paris]] these are easily obtained.
 
 
 
@@ -116,23 +116,23 @@ tags:
 
       communion. We saw each other again and again. I was deeply
 
-      interested in the little family history which he detailed to me
+      interested in the little family [[history]] which he detailed to me
 
       with all that candor which a Frenchman indulges whenever mere
 
-      self is his theme. I was astonished, too, at the vast extent of
+      [[Self|self]] is his theme. I was astonished, too, at the vast extent of
 
-      his reading; and, above all, I felt my soul enkindled within me
+      his reading; and, above all, I felt my [[Soul|soul]] enkindled within me
 
-      by the wild fervor, and the vivid freshness of his imagination.
+      by the wild fervor, and the vivid freshness of his [[Imagination|imagination]].
 
-      Seeking in Paris the objects I then sought, I felt that the
+      Seeking in [[Paris]] the objects I then sought, I felt that the
 
       society of such a man would be to me a treasure beyond price; and
 
       this feeling I frankly confided to him. It was at length arranged
 
-      that we should live together during my stay in the city; and as
+      that we should live together during my stay in the [[City|city]]; and as
 
       my worldly circumstances were somewhat less embarrassed than his
 
@@ -140,7 +140,7 @@ tags:
 
       furnishing in a style which suited the rather fantastic gloom of
 
-      our common temper, a time-eaten and grotesque mansion, long
+      our common temper, a [[Time|time]]-eaten and [[Grotesque|grotesque]] mansion, long
 
       deserted through superstitions into which we did not inquire, and
 
@@ -154,7 +154,7 @@ tags:
 
       world, we should have been regarded as madmen—although, perhaps,
 
-      as madmen of a harmless nature. Our seclusion was perfect. We
+      as madmen of a harmless [[Nature|nature]]. Our seclusion was perfect. We
 
       admitted no visitors. Indeed the locality of our retirement had
 
@@ -162,13 +162,13 @@ tags:
 
       it had been many years since Dupin had ceased to know or be known
 
-      in Paris. We existed within ourselves alone.
+      in [[Paris]]. We existed within ourselves [[Alone|alone]].
 
 
 
       It was a freak of fancy in my friend (for what else shall I call
 
-      it?) to be enamored of the night for her own sake; and into this
+      it?) to be enamored of the [[Night|night]] for her own sake; and into this
 
       _bizarrerie_, as into all his others, I quietly fell; giving
 
@@ -176,7 +176,7 @@ tags:
 
       divinity would not herself dwell with us always; but we could
 
-      counterfeit her presence. At the first dawn of the morning we
+      counterfeit her presence. At the first [[Dawn|dawn]] of the morning we
 
       closed all the messy shutters of our old building; lighting a
 
@@ -184,15 +184,15 @@ tags:
 
       ghastliest and feeblest of rays. By the aid of these we then
 
-      busied our souls in dreams—reading, writing, or conversing, until
+      busied our souls in [[Dreams|dreams]]—reading, writing, or conversing, until
 
-      warned by the clock of the advent of the true Darkness. Then we
+      warned by the [[Clock|clock]] of the advent of the true Darkness. Then we
 
       sallied forth into the streets arm in arm, continuing the topics
 
       of the day, or roaming far and wide until a late hour, seeking,
 
-      amid the wild lights and shadows of the populous city, that
+      amid the wild lights and shadows of the populous [[City|city]], that
 
       infinity of mental excitement which quiet observation can afford.
 

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 26 (part 3)"
+title: "[[Jane Eyre]] — Chapter 26 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,13 +17,13 @@ tags:
 Still holding me fast, he left the church: the three gentlemen came
 after. At the front door of the hall we found the carriage.
 
-“Take it back to the coach-house, John,” said Mr. Rochester coolly; “it
+“Take it back to the coach-[[house]], John,” said Mr. Rochester coolly; “it
 will not be wanted to-day.”
 
 At our entrance, Mrs. Fairfax, Adèle, Sophie, Leah, advanced to meet
 and greet us.
 
-“To the right-about—every soul!” cried the master; “away with your
+“To the right-about—every [[Soul|soul]]!” cried the master; “away with your
 congratulations! Who wants them? Not I!—they are fifteen years too
 late!”
 
@@ -37,9 +37,9 @@ to the tapestried room, with its great bed and its pictorial cabinet.
 here.”
 
 He lifted the hangings from the wall, uncovering the second door: this,
-too, he opened. In a room without a window, there burnt a fire guarded
+too, he opened. In a room without a [[Window|window]], there burnt a [[Fire|fire]] guarded
 by a high and strong fender, and a lamp suspended from the ceiling by a
-chain. Grace Poole bent over the fire, apparently cooking something in
+chain. Grace Poole bent over the [[Fire|fire]], apparently cooking something in
 a saucepan. In the deep shade, at the farther end of the room, a figure
 ran backwards and forwards. What it was, whether beast or human being,
 one could not, at first sight, tell: it grovelled, seemingly, on all
@@ -54,7 +54,7 @@ your charge to-day?”
 mess carefully on to the hob: “rather snappish, but not ’rageous.”
 
 A fierce cry seemed to give the lie to her favourable report: the
-clothed hyena rose up, and stood tall on its hind-feet.
+clothed hyena [[Rose|rose]] up, and stood tall on its hind-feet.
 
 “Ah! sir, she sees you!” exclaimed Grace: “you’d better not stay.”
 
@@ -63,7 +63,7 @@ clothed hyena rose up, and stood tall on its hind-feet.
 “Take care then, sir!—for God’s sake, take care!”
 
 The maniac bellowed: she parted her shaggy locks from her visage, and
-gazed wildly at her visitors. I recognised well that purple face,—those
+gazed wildly at her visitors. I recognised [[Well|well]] that purple face,—those
 bloated features. Mrs. Poole advanced.
 
 “Keep out of the way,” said Mr. Rochester, thrusting her aside: “she
@@ -82,7 +82,7 @@ throat viciously, and laid her teeth to his cheek: they struggled. She
 was a big woman, in stature almost equalling her husband, and corpulent
 besides: she showed virile force in the contest—more than once she
 almost throttled him, athletic as he was. He could have settled her
-with a well-planted blow; but he would not strike: he would only
+with a [[Well|well]]-planted blow; but he would not strike: he would only
 wrestle. At last he mastered her arms; Grace Poole gave him a cord, and
 he pinioned them behind her: with more rope, which was at hand, he
 bound her to a chair. The operation was performed amidst the fiercest
@@ -92,7 +92,7 @@ spectators: he looked at them with a smile both acrid and desolate.
 “That is _my wife_,” said he. “Such is the sole conjugal embrace I am
 ever to know—such are the endearments which are to solace my leisure
 hours! And _this_ is what I wished to have” (laying his hand on my
-shoulder): “this young girl, who stands so grave and quiet at the mouth
+shoulder): “this young girl, who stands so [[Grave|grave]] and quiet at the mouth
 of hell, looking collectedly at the gambols of a demon, I wanted her
 just as a change after that fierce ragout. Wood and Briggs, look at the
 difference! Compare these clear eyes with the red balls yonder—this
@@ -111,18 +111,18 @@ returns to Madeira.”
 “My uncle! What of him? Do you know him?”
 
 “Mr. Mason does. Mr. Eyre has been the Funchal correspondent of his
-house for some years. When your uncle received your letter intimating
-the contemplated union between yourself and Mr. Rochester, Mr. Mason,
+[[house]] for some years. When your uncle received your letter intimating
+the contemplated [[Union|union]] between yourself and Mr. Rochester, Mr. Mason,
 who was staying at Madeira to recruit his health, on his way back to
 Jamaica, happened to be with him. Mr. Eyre mentioned the intelligence;
 for he knew that my client here was acquainted with a gentleman of the
 name of Rochester. Mr. Mason, astonished and distressed as you may
 suppose, revealed the real state of matters. Your uncle, I am sorry to
-say, is now on a sick bed; from which, considering the nature of his
+say, is now on a sick bed; from which, considering the [[Nature|nature]] of his
 disease—decline—and the stage it has reached, it is unlikely he will
 ever rise. He could not then hasten to England himself, to extricate
 you from the snare into which you had fallen, but he implored Mr. Mason
-to lose no time in taking steps to prevent the false marriage. He
+to lose no [[Time|time]] in taking steps to prevent the false [[Marriage|marriage]]. He
 referred him to me for assistance. I used all despatch, and am thankful
 I was not too late: as you, doubtless, must be also. Were I not morally
 certain that your uncle will be dead ere you reach Madeira, I would

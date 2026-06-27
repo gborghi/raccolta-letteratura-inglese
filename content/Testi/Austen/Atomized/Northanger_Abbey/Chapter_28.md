@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 27"
+title: "[[Northanger Abbey]] — Chapter 27"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER 27
 
 The next morning brought the following very unexpected letter from
 
-Isabella:
+[[Isabella]]:
 
 
 
@@ -40,17 +40,17 @@ My dearest Catherine,
 
     really am quite ashamed of my idleness; but in this horrid place
 
-    one can find time for nothing. I have had my pen in my hand to
+    one can find [[Time|time]] for nothing. I have had my pen in my hand to
 
     begin a letter to you almost every day since you left Bath, but
 
     have always been prevented by some silly trifler or other. Pray
 
-    write to me soon, and direct to my own home. Thank God, we leave
+    write to me soon, and direct to my own [[Home|home]]. Thank God, we leave
 
     this vile place to-morrow. Since you went away, I have had no
 
-    pleasure in it—the dust is beyond anything; and everybody one cares
+    pleasure in it—the [[Dust|dust]] is beyond anything; and everybody one cares
 
     for is gone. I believe if I could see you I should not mind the
 
@@ -58,15 +58,15 @@ My dearest Catherine,
 
     quite uneasy about your dear brother, not having heard from him
 
-    since he went to Oxford; and am fearful of some misunderstanding.
+    since he went to [[Oxford]]; and am fearful of some misunderstanding.
 
     Your kind offices will set all right: he is the only man I ever did
 
-    or could love, and I trust you will convince him of it. The spring
+    or could [[Love|love]], and I trust you will convince him of it. The [[spring]]
 
     fashions are partly down; and the hats the most frightful you can
 
-    imagine. I hope you spend your time pleasantly, but am afraid you
+    imagine. I [[Hope|hope]] you spend your [[Time|time]] pleasantly, but am afraid you
 
     never think of me. I will not say all that I could of the family
 
@@ -84,11 +84,11 @@ My dearest Catherine,
 
     disposed to follow and tease me, before you went away. Afterwards
 
-    he got worse, and became quite my shadow. Many girls might have
+    he got worse, and became quite my [[Shadow|shadow]]. Many girls might have
 
     been taken in, for never were such attentions; but I knew the
 
-    fickle sex too well. He went away to his regiment two days ago, and
+    fickle sex too [[Well|well]]. He went away to his regiment two days ago, and
 
     I trust I shall never be plagued with him again. He is the greatest
 
@@ -96,7 +96,7 @@ My dearest Catherine,
 
     he was always by the side of Charlotte Davis: I pitied his taste,
 
-    but took no notice of him. The last time we met was in Bath Street,
+    but took no notice of him. The last [[Time|time]] we met was in Bath Street,
 
     and I turned directly into a shop that he might not speak to me; I
 
@@ -116,13 +116,13 @@ My dearest Catherine,
 
     my conduct amiss. Pray explain everything to his satisfaction; or,
 
-    if he still harbours any doubt, a line from himself to me, or a
+    if he still harbours any [[Doubt|doubt]], a line from himself to me, or a
 
     call at Putney when next in town, might set all to rights. I have
 
     not been to the Rooms this age, nor to the play, except going in
 
-    last night with the Hodges, for a frolic, at half price: they
+    last [[Night|night]] with the Hodges, for a frolic, at half price: they
 
     teased me into it; and I was determined they should not say I shut
 
@@ -130,9 +130,9 @@ My dearest Catherine,
 
     Mitchells, and they pretended to be quite surprised to see me out.
 
-    I knew their spite: at one time they could not be civil to me, but
+    I knew their spite: at one [[Time|time]] they could not be civil to me, but
 
-    now they are all friendship; but I am not such a fool as to be
+    now they are all [[Friendship|friendship]]; but I am not such a [[Fool|fool]] as to be
 
     taken in by them. You know I have a pretty good spirit of my own.
 
@@ -142,13 +142,13 @@ My dearest Catherine,
 
     happened to become my odd face, I believe, at least Tilney told me
 
-    so at the time, and said every eye was upon me; but he is the last
+    so at the [[Time|time]], and said every eye was upon me; but he is the last
 
     man whose word I would take. I wear nothing but purple now: I know
 
     I look hideous in it, but no matter—it is your dear brother’s
 
-    favourite colour. Lose no time, my dearest, sweetest Catherine, in
+    favourite colour. Lose no [[Time|time]], my dearest, sweetest Catherine, in
 
     writing to him and to me,
 
@@ -166,25 +166,25 @@ Such a strain of shallow artifice could not impose even upon Catherine.
 
 Its inconsistencies, contradictions, and falsehood struck her from the
 
-very first. She was ashamed of Isabella, and ashamed of having ever
+very first. She was ashamed of [[Isabella]], and ashamed of having ever
 
 loved her. Her professions of attachment were now as disgusting as her
 
 excuses were empty, and her demands impudent. “Write to James on her
 
-behalf! no, James should never hear Isabella’s name mentioned by her
+behalf! no, James should never hear [[Isabella]]’s name mentioned by her
 
 again.”
 
 
 
-On Henry’s arrival from Woodston, she made known to him and Eleanor
+On Henry’s arrival from Woodston, she made known to him and [[Eleanor]]
 
 their brother’s safety, congratulating them with sincerity on it, and
 
 reading aloud the most material passages of her letter with strong
 
-indignation. When she had finished it—“So much for Isabella,” she
+indignation. When she had finished it—“So much for [[Isabella]],” she
 
 cried, “and for all our intimacy! she must think me an idiot, or she
 
@@ -208,7 +208,7 @@ I wish I had never known her.”
 
 had designs on Captain Tilney, which have not succeeded; but I do not
 
-understand what Captain Tilney has been about all this time. Why should
+understand what Captain Tilney has been about all this [[Time|time]]. Why should
 
 he pay her such attentions as to make her quarrel with my brother, and
 
@@ -218,7 +218,7 @@ then fly off himself?”
 
 “I have very little to say for Frederick’s motives, such as I believe
 
-them to have been. He has his vanities as well as Miss Thorpe, and the
+them to have been. He has his vanities as [[Well|well]] as Miss Thorpe, and the
 
 chief difference is, that, having a stronger head, they have not yet
 
@@ -244,19 +244,19 @@ Henry bowed his assent.
 
 
 
-“Well, then, I must say that I do not like him at all. Though it has
+“[[Well]], then, I must say that I do not like him at all. Though it has
 
-turned out so well for us, I do not like him at all. As it happens,
+turned out so [[Well|well]] for us, I do not like him at all. As it happens,
 
-there is no great harm done, because I do not think Isabella has any
+there is no great harm done, because I do not think [[Isabella]] has any
 
-heart to lose. But, suppose he had made her very much in love with
+heart to lose. But, suppose he had made her very much in [[Love|love]] with
 
 him?”
 
 
 
-“But we must first suppose Isabella to have had a heart to
+“But we must first suppose [[Isabella]] to have had a heart to
 
 lose—consequently to have been a very different creature; and, in that
 
@@ -274,7 +274,7 @@ the disappointment of Miss Thorpe. But your mind is warped by an innate
 
 principle of general integrity, and therefore not accessible to the
 
-cool reasonings of family partiality, or a desire of revenge.”
+cool reasonings of family partiality, or a [[Desire|desire]] of [[Revenge|revenge]].”
 
 
 
@@ -282,6 +282,6 @@ Catherine was complimented out of further bitterness. Frederick could
 
 not be unpardonably guilty, while Henry made himself so agreeable. She
 
-resolved on not answering Isabella’s letter, and tried to think no more
+resolved on not answering [[Isabella]]’s letter, and tried to think no more
 
 of it.

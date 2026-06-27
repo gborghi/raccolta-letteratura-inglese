@@ -18,36 +18,36 @@ There is an awful armor of ice which may be the legitimate protection
 of a more delicate organism; but whatever be the psychological
 explanation there can surely be no question of the fact.
 The instinctive cry of the female in anger is noli me tangere.
-I take this as the most obvious and at the same time the least
+I take this as the most obvious and at the same [[Time|time]] the least
 hackneyed instance of a fundamental quality in the female tradition,
-which has tended in our time to be almost immeasurably misunderstood,
+which has tended in our [[Time|time]] to be almost immeasurably misunderstood,
 both by the cant of moralists and the cant of immoralists.
 The proper name for the thing is modesty; but as we live in an age
 of prejudice and must not call things by their right names,
 we will yield to a more modern nomenclature and call it dignity.
 Whatever else it is, it is the thing which a thousand poets and
-a million lovers have called the coldness of Chloe.  It is akin
-to the classical, and is at least the opposite of the grotesque.
+a million [[lovers]] have called the coldness of Chloe.  It is akin
+to the classical, and is at least the opposite of the [[Grotesque|grotesque]].
 And since we are talking here chiefly in types and symbols,
 perhaps as good an embodiment as any of the idea may
 be found in the mere fact of a woman wearing a skirt.
 It is highly typical of the rabid plagiarism which now passes
 everywhere for emancipation, that a little while ago it was common
 for an "advanced" woman to claim the right to wear trousers;
-a right about as grotesque as the right to wear a false nose.
+a right about as [[Grotesque|grotesque]] as the right to wear a false nose.
 Whether female liberty is much advanced by the act of wearing
 a skirt on each leg I do not know; perhaps Turkish women might
 offer some information on the point.  But if the western woman
 walks about (as it were) trailing the curtains of the harem
 with her, it is quite certain that the woven mansion is meant
-for a perambulating palace, not for a perambulating prison.
+for a perambulating palace, not for a perambulating [[Prison|prison]].
 It is quite certain that the skirt means female dignity,
 not female submission; it can be proved by the simplest of all tests.
 No ruler would deliberately dress up in the recognized fetters
 of a slave; no judge would appear covered with broad arrows.
 But when men wish to be safely impressive, as judges,
 priests or kings, they do wear skirts, the long, trailing robes
-of female dignity The whole world is under petticoat government;
+of female dignity The whole world is under petticoat [[government]];
 for even men wear petticoats when they wish to govern.
 
 
@@ -69,18 +69,18 @@ asked by all that know the dull tricks and turns of the modern
 sexual quarrel.  The advanced person will at once begin to argue
 about whether these instincts are inherent and inevitable
 in woman or whether they are merely prejudices produced
-by her history and education.  Now I do not propose to discuss
+by her [[history]] and [[Education|education]].  Now I do not propose to discuss
 whether woman could now be educated out of her habits touching
 thrift and dignity; and that for two excellent reasons.
 First it is a question which cannot conceivably ever find
 any answer:  that is why modern people are so fond of it.
-From the nature of the case it is obviously impossible
+From the [[Nature|nature]] of the case it is obviously impossible
 to decide whether any of the peculiarities of civilized
 man have been strictly necessary to his civilization.
-It is not self-evident (for instance), that even the habit
+It is not [[Self|self]]-evident (for instance), that even the habit
 of standing upright was the only path of human progress.
-There might have been a quadrupedal civilization, in which a city
-gentleman put on four boots to go to the city every morning.
+There might have been a quadrupedal civilization, in which a [[City|city]]
+gentleman put on four boots to go to the [[City|city]] every morning.
 Or there might have been a reptilian civilization, in which
 he rolled up to the office on his stomach; it is impossible to say
 that intelligence might not have developed in such creatures.
@@ -114,14 +114,14 @@ It may often be in Hawaii simply as it is in Hoxton.  That is,
 the woman does not work because the man tells her to work and she obeys.
 On the contrary, the woman works because she has told the man
 to work and he hasn't obeyed.  I do not affirm that this
-is the whole truth, but I do affirm that we have too little
+is the whole [[Truth|truth]], but I do affirm that we have too little
 comprehension of the souls of savages to know how far it is untrue.
 It is the same with the relations of our hasty and surface science,
 with the problem of sexual dignity and modesty.  Professors find all
 over the world fragmentary ceremonies in which the bride affects some
 sort of reluctance, hides from her husband, or runs away from him.
-The professor then pompously proclaims that this is a survival
-of Marriage by Capture.  I wonder he never says that the veil
-thrown over the bride is really a net.  I gravely doubt whether
+[[The Professor|The professor]] then pompously proclaims that this is a [[Survival|survival]]
+of [[Marriage]] by Capture.  I [[Wonder|wonder]] he never says that the veil
+thrown over the bride is really a net.  I gravely [[Doubt|doubt]] whether
 women ever were married by capture I think they pretended to be;
 as they do still.

@@ -38,7 +38,7 @@ I came to see my poor Sophronia, my only friend. Oh! how I felt the
 separation, my dear Sophronia, before I knew you were brought low in the
 world, and how much more I feel it now!’
 
-There were actually tears in the bold woman’s eyes, as the soft-headed
+There were actually [[Tears|tears]] in the bold woman’s eyes, as the soft-headed
 and soft-hearted girl twined her arms about her neck.
 
 ‘But I’ve come on business,’ said Georgiana, sobbing and drying her
@@ -49,7 +49,7 @@ kept waiting on the doorsteps of that dreadful turban, and there never
 were such pawing horses as ours unsettling my mind every moment more
 and more when I want more mind than I have got, by pawing up Mr Boffin’s
 street where they have no business to be. Oh! where is, where is it?
-Oh! I can’t find it!’ All this time sobbing, and searching in the little
+Oh! I can’t find it!’ All this [[Time|time]] sobbing, and searching in the little
 reticule.
 
 ‘What do you miss, my dear?’ asked Mr Boffin, stepping forward.
@@ -57,7 +57,7 @@ reticule.
 ‘Oh! it’s little enough,’ replied Georgiana, ‘because Ma always treats
 me as if I was in the nursery (I am sure I wish I was!), but I hardly
 ever spend it and it has mounted up to fifteen pounds, Sophronia, and I
-hope three five-pound notes are better than nothing, though so little,
+[[Hope|hope]] three five-pound notes are better than nothing, though so little,
 so little! And now I have found that—oh, my goodness! there’s the other
 gone next! Oh no, it isn’t, here it is!’
 
@@ -67,7 +67,7 @@ produced a necklace.
 ‘Ma says chits and jewels have no business together,’ pursued Georgiana,
 ‘and that’s the reason why I have no trinkets except this, but I suppose
 my aunt Hawkinson was of a different opinion, because she left me this,
-though I used to think she might just as well have buried it, for it’s
+though I used to think she might just as [[Well|well]] have buried it, for it’s
 always kept in jewellers’ cotton. However, here it is, I am thankful
 to say, and of use at last, and you’ll sell it, dear Sophronia, and buy
 things with it.’
@@ -90,7 +90,7 @@ will you?’
 ‘No, no,’ said Mr Boffin, ‘it shall be seen to.’
 
 ‘Oh, thank you, thank you!’ cried Georgiana. ‘If my maid had a little
-note and half a crown, I could run round to the pastrycook’s to sign
+note and half a [[Crown|crown]], I could run round to the pastrycook’s to sign
 something, or I could sign something in the Square if somebody would
 come and cough for me to let ’em in with the key, and would bring a pen
 and ink with ’em and a bit of blotting-paper. Oh, my gracious! I must
@@ -121,7 +121,7 @@ Mrs Lammle had taken up her parasol from a side table, and stood
 sketching with it on the pattern of the damask cloth, as she had
 sketched on the pattern of Mr Twemlow’s papered wall.
 
-‘You will not undeceive her I hope, Mr Boffin?’ she said, turning her
+‘You will not undeceive her I [[Hope|hope]], Mr Boffin?’ she said, turning her
 head towards him, but not her eyes.
 
 ‘No,’ said Mr Boffin.
@@ -129,6 +129,6 @@ head towards him, but not her eyes.
 ‘I mean, as to the worth and value of her friend,’ Mrs Lammle explained,
 in a measured voice, and with an emphasis on her last word.
 
-‘No,’ he returned. ‘I may try to give a hint at her home that she is in
+‘No,’ he returned. ‘I may try to give a hint at her [[Home|home]] that she is in
 want of kind and careful protection, but I shall say no more than that
 to her parents, and I shall say nothing to the young lady herself.’

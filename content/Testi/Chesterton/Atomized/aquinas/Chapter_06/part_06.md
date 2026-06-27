@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 7 (part 6)"
+title: "[[aquinas]] — Chapter 7 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -43,7 +43,7 @@ really different; things not classified together like grass and grains.
 The first flash of fact shows us a world of really strange
 things not merely strange to us, but strange to each other.
 The separate things need have nothing in common except Being.
-Everything is Being; but it is not true that everything is Unity.
+Everything is Being; but it is not true that everything is [[unity|Unity]].
 It is here, as I have said, that St. Thomas does definitely one
 might say defiantly, part company with the Pantheist and Monist.
 All things are; but among the things that are is the thing
@@ -52,15 +52,15 @@ And here again we begin to be bound again to the Lord, not only by the
 universality of grass, but by the incompatibility of grass and gravel.
 For this world of different and varied beings is especially the world
 of the Christian Creator; the world of created things, like things
-made by an artist; as compared with the world that is only one thing,
+made by an [[artist]]; as compared with the world that is only one thing,
 with a sort of shimmering and shifting veil of misleading change;
 which is the conception of so many of the ancient religions of Asia
-and the modern sophistries of Germany.  In the face of these, St. Thomas
+and the modern sophistries of [[Germany]].  In the face of these, St. Thomas
 still stands stubborn in the same obstinate objective fidelity.
 He has seen grass and gravel; and he is not disobedient to
 the heavenly vision.
 
-To sum up; the reality of things, the mutability of things,
+To sum up; the reality of things, the [[Mutability|mutability]] of things,
 the diversity of things, and all other such things that can be
 attributed to things, is followed carefully by the medieval philosopher,
 without losing touch with the original point of the reality.
@@ -85,10 +85,10 @@ or Fulfilment, in which all this relative relativity becomes actuality;
 in which the trees burst into flower or the rockets into flame.
 
 Here I leave the reader, on the very lowest rung of those ladders
-of logic, by which St. Thomas besieged and mounted the House of Man.
+of [[logic]], by which St. Thomas besieged and mounted the [[house|House]] of Man.
 It is enough to say that by arguments as honest and laborious,
 he climbed up to the turrets and talked with angels on the roofs of gold.
-This is, in a very rude outline, his philosophy; it is impossible
+This is, in a very rude outline, his [[philosophy]]; it is impossible
 in such an outline to describe his theology.  Anyone writing
 so small a book about so big a man, must leave out something.
 Those who know him best will best understand why, after some

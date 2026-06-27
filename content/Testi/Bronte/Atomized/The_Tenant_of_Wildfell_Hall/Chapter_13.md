@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 13"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 13"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,7 +24,7 @@ tags:
 
 said my mother one morning after some display of unjustifiable
 
-ill-humour on my part. “You say there is nothing the matter with you,
+ill-[[Humour|humour]] on my part. “You say there is nothing the matter with you,
 
 and nothing has happened to grieve you, and yet I never _saw_ anyone so
 
@@ -42,7 +42,7 @@ I do wish you’d try to check it.”
 
 “Why, your strange temper. You don’t know _how_ it spoils you. I’m sure
 
-a finer disposition than yours by nature could not be, if you’d let it
+a finer disposition than yours by [[Nature|nature]] could not be, if you’d let it
 
 have fair play: so you’ve no excuse _that_ way.”
 
@@ -74,7 +74,7 @@ and branch. It’s as much as my life is worth to come within six yards
 
 of him. The other day he nearly fractured my skull for singing a
 
-pretty, inoffensive love-song, on purpose to amuse him.”
+pretty, inoffensive [[Love|love]]-[[Song|song]], on purpose to amuse him.”
 
 
 
@@ -100,7 +100,7 @@ and found my skull not broken, I thought it was a miracle, and no
 
 mistake. But, poor fellow!” added he, with a sentimental sigh—“his
 
-heart’s broken—that’s the truth of it—and his head’s—”
+heart’s broken—that’s the [[Truth|truth]] of it—and his head’s—”
 
 
 
@@ -110,7 +110,7 @@ so fiercely that my mother, thinking I meant to inflict some grievous
 
 bodily injury, laid her hand on my arm, and besought me to let him
 
-alone, and he walked leisurely out, with his hands in his pockets,
+[[Alone|alone]], and he walked leisurely out, with his hands in his pockets,
 
 singing provokingly—“Shall I, because a woman’s fair,” &c.
 
@@ -150,7 +150,7 @@ life promised no enjoyment within my vocation, at least it offered no
 
 allurements out of it; and henceforth I would put my shoulder to the
 
-wheel and toil away, like any poor drudge of a cart-horse that was
+[[Wheel|wheel]] and toil away, like any poor drudge of a cart-[[Horse|horse]] that was
 
 fairly broken in to its labour, and plod through life, not wholly
 
@@ -160,17 +160,17 @@ lot.
 
 
 
-Thus resolving, with a kind of sullen resignation, if such a term may
+Thus resolving, with a kind of sullen [[Resignation|resignation]], if such a term may
 
 be allowed, I wended my way to Ryecote Farm, scarcely expecting to find
 
-its owner within at this time of day, but hoping to learn in what part
+its owner within at this [[Time|time]] of day, but hoping to learn in what part
 
 of the premises he was most likely to be found.
 
 
 
-Absent he was, but expected home in a few minutes; and I was desired to
+Absent he was, but expected [[Home|home]] in a few minutes; and I was desired to
 
 step into the parlour and wait. Mrs. Wilson was busy in the kitchen,
 
@@ -184,7 +184,7 @@ have made the same resolution on her part. We had not met since the
 
 evening of the tea-party; but there was no visible emotion either of
 
-pleasure or pain, no attempt at pathos, no display of injured pride:
+pleasure or [[Pain|pain]], no attempt at pathos, no display of injured [[Pride|pride]]:
 
 she was cool in temper, civil in demeanour. There was even an ease and
 
@@ -200,9 +200,9 @@ her spite on me. On the other hand, Miss Wilson was as affable and
 
 courteous as heart could wish, and though I was in no very conversable
 
-humour myself, the two ladies between them managed to keep up a pretty
+[[Humour|humour]] myself, the two ladies between them managed to keep up a pretty
 
-continuous fire of small talk. But Eliza took advantage of the first
+continuous [[Fire|fire]] of small talk. But Eliza took advantage of the first
 
 convenient pause to ask if I had lately seen Mrs. Graham, in a tone of
 
@@ -254,7 +254,7 @@ bleed afresh at every mention of the loved one’s name.”
 
 name is unworthy to be mentioned in the presence of right-minded
 
-females. I wonder, Eliza, you should think of referring to that
+females. I [[Wonder|wonder]], Eliza, you should think of referring to that
 
 unfortunate person—you might know the mention of her would be anything
 
@@ -262,21 +262,21 @@ but agreeable to any one here present.”
 
 
 
-How could this be borne? I rose and was about to clap my hat upon my
+How could this be borne? I [[Rose|rose]] and was about to clap my hat upon my
 
-head and burst away, in wrathful indignation from the house; but
+head and burst away, in wrathful indignation from the [[house]]; but
 
-recollecting—just in time to save my dignity—the folly of such a
+recollecting—just in [[Time|time]] to save my dignity—the folly of such a
 
 proceeding, and how it would only give my fair tormentors a merry laugh
 
 at my expense, for the sake of one I acknowledged in my own heart to be
 
-unworthy of the slightest sacrifice—though the ghost of my former
+unworthy of the slightest sacrifice—though the [[Ghost|ghost]] of my former
 
-reverence and love so hung about me still, that I could not bear to
+reverence and [[Love|love]] so hung about me still, that I could not bear to
 
-hear her name aspersed by others—I merely walked to the window, and
+hear her name aspersed by others—I merely walked to the [[Window|window]], and
 
 having spent a few seconds in vengibly biting my lips and sternly
 
@@ -284,9 +284,9 @@ repressing the passionate heavings of my chest, I observed to Miss
 
 Wilson, that I could see nothing of her brother, and added that, as my
 
-time was precious, it would perhaps be better to call again to-morrow,
+[[Time|time]] was precious, it would perhaps be better to call again to-morrow,
 
-at some time when I should be sure to find him at home.
+at some [[Time|time]] when I should be sure to find him at [[Home|home]].
 
 
 
@@ -312,13 +312,13 @@ more to the thrifty farmer’s satisfaction than he cared to acknowledge.
 
 Then, leaving him to the discussion of his substantial “refreshment,” I
 
-gladly quitted the house, and went to look after my reapers.
+gladly quitted the [[house]], and went to look after my reapers.
 
 
 
 Leaving them busy at work on the side of the valley, I ascended the
 
-hill, intending to visit a corn-field in the more elevated regions, and
+[[Hill|hill]], intending to visit a corn-field in the more elevated regions, and
 
 see when it would be ripe for the sickle. But I did _not_ visit it that
 
@@ -326,7 +326,7 @@ day; for, as I approached, I beheld, at no great distance, Mrs. Graham
 
 and her son coming down in the opposite direction. They saw me; and
 
-Arthur already was running to meet me; but I immediately turned back
+[[arthur|Arthur]] already was running to meet me; but I immediately turned back
 
 and walked steadily homeward; for I had fully determined never to
 

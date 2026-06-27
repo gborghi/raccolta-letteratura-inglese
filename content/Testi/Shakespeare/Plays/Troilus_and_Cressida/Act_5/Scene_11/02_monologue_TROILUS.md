@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act V, Scene 11 — monologue (TROILUS) [2]"
+title: "[[Troilus]] and [[Cressida]] — Act V, Scene 11 — monologue ([[Troilus|TROILUS]]) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| TROILUS | You understand me not that tell me so. I do not speak of flight, of fear of death, But dare all imminence that gods and men Address their dangers in. Hector is gone. Who shall tell Priam so, or Hecuba? Let him that will a screech-owl aye be called Go into Troy and say their Hector’s dead. There is a word will Priam turn to stone, Make wells and Niobes of the maids and wives, Cold statues of the youth, and in a word Scare Troy out of itself. But march away. Hector is dead; there is no more to say. Stay yet.—You vile abominable tents Thus proudly pitched upon our Phrygian plains, Let Titan rise as early as he dare, I’ll through and through you! And thou great-sized coward, No space of earth shall sunder our two hates. I’ll haunt thee like a wicked conscience still, That mouldeth goblins swift as frenzy’s thoughts. Strike a free march! To Troy with comfort go: Hope of revenge shall hide our inward woe. Exeunt marching |
+| [[Troilus|TROILUS]] | You understand me not that tell me so. I do not speak of flight, of [[Fear|fear]] of [[Death|death]], But dare all imminence that gods and men Address their dangers in. [[Hector]] is gone. Who shall tell Priam so, or Hecuba? Let him that will a screech-owl aye be called Go into Troy and say their [[Hector]]’s dead. There is a word will Priam turn to stone, Make wells and Niobes of the maids and wives, Cold statues of the youth, and in a word Scare Troy out of itself. But march away. [[Hector]] is dead; there is no more to say. Stay yet.—You vile abominable tents Thus proudly pitched upon our Phrygian plains, Let Titan rise as early as he dare, I’ll through and through you! And thou great-sized coward, No space of earth shall sunder our two hates. I’ll haunt thee like a wicked [[Conscience|conscience]] still, That mouldeth goblins swift as frenzy’s thoughts. Strike a free march! To Troy with comfort go: [[Hope]] of [[Revenge|revenge]] shall hide our inward woe. Exeunt marching |

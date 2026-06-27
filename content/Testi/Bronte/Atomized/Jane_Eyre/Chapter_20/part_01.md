@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 20 (part 1)"
+title: "[[Jane Eyre]] — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,17 +18,17 @@ CHAPTER XX
 
 
 I had forgotten to draw my curtain, which I usually did, and also to
-let down my window-blind. The consequence was, that when the moon,
-which was full and bright (for the night was fine), came in her course
+let down my [[Window|window]]-blind. The consequence was, that when the [[Moon|moon]],
+which was full and bright (for the [[Night|night]] was fine), came in her course
 to that space in the sky opposite my casement, and looked in at me
 through the unveiled panes, her glorious gaze roused me. Awaking in the
-dead of night, I opened my eyes on her disk—silver-white and crystal
-clear. It was beautiful, but too solemn: I half rose, and stretched my
+dead of [[Night|night]], I opened my eyes on her disk—silver-white and crystal
+clear. It was beautiful, but too solemn: I half [[Rose|rose]], and stretched my
 arm to draw the curtain.
 
 Good God! What a cry!
 
-The night—its silence—its rest, was rent in twain by a savage, a sharp,
+The [[Night|night]]—its [[Silence|silence]]—its rest, was rent in twain by a savage, a sharp,
 a shrilly sound that ran from end to end of Thornfield Hall.
 
 My pulse stopped: my heart stood still; my stretched arm was paralysed.
@@ -52,14 +52,14 @@ stamping went on wildly, I distinguished through plank and plaster:—
 
 A chamber-door opened: some one ran, or rushed, along the gallery.
 Another step stamped on the flooring above and something fell; and
-there was silence.
+there was [[Silence|silence]].
 
 I had put on some clothes, though horror shook all my limbs; I issued
 from my apartment. The sleepers were all aroused: ejaculations,
 terrified murmurs sounded in every room; door after door unclosed; one
 looked out and another looked out; the gallery filled. Gentlemen and
 ladies alike had quitted their beds; and “Oh! what is it?”—“Who is
-hurt?”—“What has happened?”—“Fetch a light!”—“Is it fire?”—“Are there
+hurt?”—“What has happened?”—“Fetch a light!”—“Is it [[Fire|fire]]?”—“Are there
 robbers?”—“Where shall we run?” was demanded confusedly on all hands.
 But for the moonlight they would have been in complete darkness. They
 ran to and fro; they crowded together: some sobbed, some stumbled: the
@@ -89,10 +89,10 @@ Ado about Nothing. Ladies, keep off, or I shall wax dangerous.”
 And dangerous he looked: his black eyes darted sparks. Calming himself
 by an effort, he added—
 
-“A servant has had the nightmare; that is all. She’s an excitable,
+“A servant has had the [[nightmare]]; that is all. She’s an excitable,
 nervous person: she construed her dream into an apparition, or
-something of that sort, no doubt; and has taken a fit with fright. Now,
-then, I must see you all back into your rooms; for, till the house is
+something of that sort, no [[Doubt|doubt]]; and has taken a fit with fright. Now,
+then, I must see you all back into your rooms; for, till the [[house]] is
 settled, she cannot be looked after. Gentlemen, have the goodness to
 set the ladies the example. Miss Ingram, I am sure you will not fail in
 evincing superiority to idle terrors. Amy and Louisa, return to your
@@ -109,20 +109,20 @@ Not, however, to go to bed: on the contrary, I began and dressed myself
 carefully. The sounds I had heard after the scream, and the words that
 had been uttered, had probably been heard only by me; for they had
 proceeded from the room above mine: but they assured me that it was not
-a servant’s dream which had thus struck horror through the house; and
+a servant’s dream which had thus struck horror through the [[house]]; and
 that the explanation Mr. Rochester had given was merely an invention
 framed to pacify his guests. I dressed, then, to be ready for
-emergencies. When dressed, I sat a long time by the window looking out
+emergencies. When dressed, I sat a long [[Time|time]] by the [[Window|window]] looking out
 over the silent grounds and silvered fields and waiting for I knew not
 what. It seemed to me that some event must follow the strange cry,
 struggle, and call.
 
 No: stillness returned: each murmur and movement ceased gradually, and
-in about an hour Thornfield Hall was again as hushed as a desert. It
-seemed that sleep and night had resumed their empire. Meantime the moon
+in about an hour Thornfield Hall was again as hushed as a [[Desert|desert]]. It
+seemed that [[Sleep|sleep]] and [[Night|night]] had resumed their empire. Meantime the [[Moon|moon]]
 declined: she was about to set. Not liking to sit in the cold and
 darkness, I thought I would lie down on my bed, dressed as I was. I
-left the window, and moved with little noise across the carpet; as I
+left the [[Window|window]], and moved with little noise across the carpet; as I
 stooped to take off my shoes, a cautious hand tapped low at the door.
 
 “Am I wanted?” I asked.
@@ -139,7 +139,7 @@ stooped to take off my shoes, a cautious hand tapped low at the door.
 
 I obeyed. Mr. Rochester stood in the gallery holding a light.
 
-“I want you,” he said: “come this way: take your time, and make no
+“I want you,” he said: “come this way: take your [[Time|time]], and make no
 noise.”
 
 My slippers were thin: I could walk the matted floor as softly as a

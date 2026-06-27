@@ -19,7 +19,7 @@ emphasis. ‘You wrong me, wrong me!’
 
 ‘Don’t you be put out, my dear,’ complacently retorted Mr Boffin. ‘I’ll
 bring this young man to book. Now, you Rokesmith! You can’t decline
-to hear, you know, as well as to answer. You hear me tell you that the
+to hear, you know, as [[Well|well]] as to answer. You hear me tell you that the
 first side of your conduct was Insolence—Insolence and Presumption.
 Answer me one thing, if you can. Didn’t this young lady tell you so
 herself?’
@@ -52,10 +52,10 @@ suspicious attitude, and wrinkling his face into a very map of curves
 and corners. ‘Don’t I know what grabs are made at a man with money? If
 I didn’t keep my eyes open, and my pockets buttoned, shouldn’t I
 be brought to the workhouse before I knew where I was? Wasn’t the
-experience of Dancer, and Elwes, and Hopkins, and Blewbury Jones, and
+experience of Dancer, and Elwes, and Hopkins, and Blewbury [[Jones]], and
 ever so many more of ’em, similar to mine? Didn’t everybody want to make
-grabs at what they’d got, and bring ’em to poverty and ruin? Weren’t
-they forced to hide everything belonging to ’em, for fear it should be
+grabs at what they’d got, and bring ’em to [[Poverty|poverty]] and ruin? Weren’t
+they forced to hide everything belonging to ’em, for [[Fear|fear]] it should be
 snatched from ’em? Of course they was. I shall be told next that they
 didn’t know human natur!’
 
@@ -72,7 +72,7 @@ the street. Are you, or ain’t you?’
 ‘Go on, Mr Boffin; don’t appeal to me.’
 
 ‘Not appeal to YOU,’ retorted Mr Boffin as if he hadn’t done so. ‘No,
-I should hope not! Appealing to YOU, would be rather a rum course. As I
+I should [[Hope|hope]] not! Appealing to YOU, would be rather a rum course. As I
 was saying, you’re a needy chap that I pick up in the street. You come
 and ask me in the street to take you for a Secretary, and I take you.
 Very good.’
@@ -104,16 +104,16 @@ himself with ridiculous inconsistency. ‘Look at him!’
 ‘Precious unfortunate for you, I can tell you,’ said Mr Boffin.
 
 ‘—are not to be combated by any one, and I address myself to no such
-hopeless task. But I will say a word upon the truth.’
+hopeless task. But I will say a word upon the [[Truth|truth]].’
 
-‘Yah! Much you care about the truth,’ said Mr Boffin, with a snap of his
+‘Yah! Much you care about the [[Truth|truth]],’ said Mr Boffin, with a snap of his
 fingers.
 
-‘Noddy! My dear love!’ expostulated his wife.
+‘Noddy! My dear [[Love|love]]!’ expostulated his wife.
 
 ‘Old lady,’ returned Mr Boffin, ‘you keep still. I say to this Rokesmith
-here, much he cares about the truth. I tell him again, much he cares
-about the truth.’
+here, much he cares about the [[Truth|truth]]. I tell him again, much he cares
+about the [[Truth|truth]].’
 
 ‘Our connexion being at an end, Mr Boffin,’ said the Secretary, ‘it can
 be of very little moment to me what you say.’

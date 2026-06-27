@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 3: On the Road (part 3)"
+title: "Little Dorrit — Chapter 3: On the [[Road]] (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-More treacherous than snow, perhaps, colder at heart, and harder to
-melt, Blandois of Paris by degrees passed out of her mind, as they came
+More treacherous than [[Snow|snow]], perhaps, colder at heart, and harder to
+melt, Blandois of [[Paris]] by degrees passed out of her mind, as they came
 down into the softer regions. Again the sun was warm, again the streams
 descending from glaciers and snowy caverns were refreshing to drink at,
 again they came among the pine-trees, the rocky rivulets, the verdant
@@ -24,17 +24,17 @@ country. Sometimes the way so widened that she and her father could
 ride abreast. And then to look at him, handsomely clothed in his fur and
 broadcloths, rich, free, numerously served and attended, his eyes roving
 far away among the glories of the landscape, no miserable screen before
-them to darken his sight and cast its shadow on him, was enough.
+them to darken his sight and cast its [[Shadow|shadow]] on him, was enough.
 
-Her uncle was so far rescued from that shadow of old, that he wore the
+Her uncle was so far rescued from that [[Shadow|shadow]] of old, that he wore the
 clothes they gave him, and performed some ablutions as a sacrifice to
 the family credit, and went where he was taken, with a certain patient
 animal enjoyment, which seemed to express that the air and change did
 him good. In all other respects, save one, he shone with no light but
-such as was reflected from his brother. His brother’s greatness, wealth,
-freedom, and grandeur, pleased him without any reference to himself.
+such as was reflected from his brother. His brother’s [[Greatness|greatness]], wealth,
+[[Freedom|freedom]], and grandeur, pleased him without any reference to himself.
 Silent and retiring, he had no use for speech when he could hear his
-brother speak; no desire to be waited on, so that the servants devoted
+brother speak; no [[Desire|desire]] to be waited on, so that the servants devoted
 themselves to his brother. The only noticeable change he originated in
 himself, was an alteration in his manner to his younger niece. Every day
 it refined more and more into a marked respect, very rarely shown by age
@@ -47,30 +47,30 @@ the profoundest deference. Yet it never appeared misplaced or forced,
 being always heartily simple, spontaneous, and genuine. Neither would he
 ever consent, even at his brother’s request, to be helped to any place
 before her, or to take precedence of her in anything. So jealous was he
-of her being respected, that, on this very journey down from the Great
+of her being respected, that, on this very [[Journey|journey]] down from the Great
 Saint Bernard, he took sudden and violent umbrage at the footman’s being
 remiss to hold her stirrup, though standing near when she dismounted;
 and unspeakably astonished the whole retinue by charging at him on a
 hard-headed mule, riding him into a corner, and threatening to trample
-him to death.
+him to [[Death|death]].
 
 They were a goodly company, and the Innkeepers all but worshipped them.
 Wherever they went, their importance preceded them in the person of the
 courier riding before, to see that the rooms of state were ready. He was
 the herald of the family procession. The great travelling-carriage came
-next: containing, inside, Mr Dorrit, Miss Dorrit, Miss Amy Dorrit,
+next: containing, inside, Mr Dorrit, Miss Dorrit, Miss [[Amy Dorrit]],
 and Mrs General; outside, some of the retainers, and (in fine weather)
 Edward Dorrit, Esquire, for whom the box was reserved. Then came
 the chariot containing Frederick Dorrit, Esquire, and an empty place
 occupied by Edward Dorrit, Esquire, in wet weather. Then came the
 fourgon with the rest of the retainers, the heavy baggage, and as much
-as it could carry of the mud and dust which the other vehicles left
+as it could carry of the mud and [[Dust|dust]] which the other vehicles left
 behind.
 
 These equipages adorned the yard of the hotel at Martigny, on the return
 of the family from their mountain excursion. Other vehicles were there,
-much company being on the road, from the patched Italian Vettura--like
-the body of a swing from an English fair put upon a wooden tray on
+much company being on the [[Road|road]], from the patched Italian Vettura--like
+the [[Body|body]] of a swing from an English fair put upon a wooden tray on
 wheels, and having another wooden tray without wheels put atop of it--to
 the trim English carriage. But there was another adornment of the
 hotel which Mr Dorrit had not bargained for. Two strange travellers
@@ -91,7 +91,7 @@ yet gone.
 Nothing could exceed Mr Dorrit’s indignation, as he turned at the foot
 of the staircase on hearing these apologies. He felt that the family
 dignity was struck at by an assassin’s hand. He had a sense of his
-dignity, which was of the most exquisite nature. He could detect a
+dignity, which was of the most exquisite [[Nature|nature]]. He could detect a
 design upon it when nobody else had any perception of the fact. His
 life was made an agony by the number of fine scalpels that he felt to be
 incessantly engaged in dissecting his dignity.
@@ -104,15 +104,15 @@ Thousands of pardons! It was the host’s profound misfortune to have been
 overcome by that too genteel lady. He besought Monseigneur not to enrage
 himself. He threw himself on Monseigneur for clemency. If Monseigneur
 would have the distinguished goodness to occupy the other salon
-especially reserved for him, for but five minutes, all would go well.
+especially reserved for him, for but five minutes, all would go [[Well|well]].
 
 ‘No, sir,’ said Mr Dorrit. ‘I will not occupy any salon. I will leave
-your house without eating or drinking, or setting foot in it. How do
+your [[house]] without eating or drinking, or setting foot in it. How do
 you dare to act like this? Who am I that you--ha--separate me from other
 gentlemen?’
 
 Alas! The host called all the universe to witness that Monseigneur was
-the most amiable of the whole body of nobility, the most important,
+the most amiable of the whole [[Body|body]] of nobility, the most important,
 the most estimable, the most honoured. If he separated Monseigneur from
 others, it was only because he was more distinguished, more cherished,
 more generous, more renowned.

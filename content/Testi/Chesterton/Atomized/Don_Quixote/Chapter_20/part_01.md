@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 19 (part 1)"
+title: "[[Don Quixote]] — Chapter 19 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -16,10 +16,10 @@ tags:
 
 CHAPTER XIX
 
-THE RETURN OF DON QUIXOTE
+THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 
 Someday perhaps the story will be told of the adventures
-of the new Don Quixote and the new Sancho Panza,
+of the new [[Don Quixote]] and the new Sancho Panza,
 as they wandered about the winding roads of England.
 From the standpoint of the cold and satiric populace
 the story was rather that of the progress of the hansom cab,
@@ -33,7 +33,7 @@ the vehicle for the defence and consolation of the oppressed.
 Of how they gave lifts to tramps and rides to children;
 of how they turned the cab into a coffee stall at Reading
 and into a tent on Salisbury Plain.  Of how the cab figured
-as a bathing-machine in the dreadful affair at Worthing.
+as a bathing-[[Machine|machine]] in the dreadful affair at Worthing.
 Of how it was regarded by simple Calvinists of the Border
 as a perambulating pulpit, with a place below for the Precentor
 to sing and a place above for the minister to preach,
@@ -41,7 +41,7 @@ which Mr. Douglas Murrel proceeded to do with great unction
 and edification.  Of how Mr. Douglas Murrel organised
 a series of historical lectures by Mr. Herne from the top
 of the cab, and seconded them with comments and explanations,
-making the lecturing tour quite a financial success by
+making the lecturing tour quite a financial [[success]] by
 methods perhaps not invariably respectful to the lecturer.
 But though there may have been moments when the squire fell
 short of a complete seriousness, it is probable on the whole
@@ -52,26 +52,26 @@ who badly wanted fighting.  And Herne at least was completely
 convinced of the serious social utility of this line of attack.
 A sadder and conceivably even a wiser man, he had many long
 talks with his friend, in which he never ceased to elaborate
-the Defence of Don Quixote and the necessity of his real return.
+the Defence of [[Don Quixote]] and the necessity of his real return.
 One was especially memorable:  which took place as they sat
 under a hedge in the high lanes of Sussex.
 
 "They say I am behind the times," said Herne, "and living in the days
-that Don Quixote dreamed of.  They seemed to forget that they
+that [[Don Quixote]] dreamed of.  They seemed to forget that they
 themselves are at least three hundred years behind the times
-and living in the days when Cervantes dreamed of Don Quixote.
-They are still living in the Renaissance; in what Cervantes
+and living in the days when Cervantes dreamed of [[Don Quixote]].
+They are still living in the [[Renaissance]]; in what Cervantes
 naturally regarded as the New Birth.  But I say that a baby
 that is three hundred years old is already getting on in life.
-It is time he was born again."
+It is [[Time|time]] he was born again."
 
 "Is he to be born again," asked Murrel, "as a medieval knight-errant?"
 
-"Why not?" asked the other, "if the Renaissance man was born
-again as an Ancient Greek?  Cervantes thought that Romance
+"Why not?" asked the other, "if the [[Renaissance]] man was born
+again as an Ancient Greek?  Cervantes thought that [[Romance]]
 was dying and that Reason might reasonably take its place.
-But I say that in our time Reason is dying, in that sense;
-and it is old age is really less respectable than the old romance.
+But I say that in our [[Time|time]] Reason is dying, in that sense;
+and it is old age is really less respectable than the old [[Romance|romance]].
 We want to recur to the more simple and direct attack.
 What we want now is somebody who does believe in tilting at giants."
 
@@ -79,7 +79,7 @@ What we want now is somebody who does believe in tilting at giants."
 
 "Have you ever reflected," said his friend, "what a good
 thing it would have been if he had smashed the windmills?
-From what I know now of medieval history, I should say his only
+From what I know now of medieval [[history]], I should say his only
 mistake was in tilting at the mills instead of the millers.
 The miller was the middleman of the middle ages.
 He was the beginning of all the middlemen of the modern ages.
@@ -87,7 +87,7 @@ His mills were the beginning of all the mills and
 manufactures that have darkened and degraded modern life.
 So that even Cervantes, in a way, chose an example
 against himself.  And it's more so with the other examples.
-Don Quixote set free a lot of captives who were only convicts.
+[[Don Quixote]] set free a lot of captives who were only convicts.
 Nowadays it's mostly those who have been beggared who are
 jailed and those who have robbed them who are free.
 I'm not sure the mistake would be quite so mistaken."
@@ -98,20 +98,20 @@ to be dealt with in such a simple way?"
 "I think," replied Herne, "that modern things are too complicated
 to be dealt with except in a simple way."
 
-He rose from his feet and strode to and fro on the road with all
+He [[Rose|rose]] from his feet and strode to and fro on the [[Road|road]] with all
 the dreamy energy of his prototype.  He seemed trying to tear
 his real meaning out of himself.
 
 "Don't you see," he cried, "that is the moral of the whole thing.
 All your machinery has become so inhuman that it has become natural.
-In becoming a second nature, it has become as remote and indifferent
-and cruel as nature.  The Knight is once more riding in the forest.
+In becoming a second [[Nature|nature]], it has become as remote and indifferent
+and cruel as [[Nature|nature]].  The Knight is once more riding in the forest.
 Only he is lost in the wheels instead of in the woods.
 You have made your dead system on so large a scale that you do not
-yourselves know how or where it will hit.  That's the paradox!
+yourselves know how or where it will hit.  That's the [[Paradox|paradox]]!
 Things have grown incalculable by being calculated.
 You have tied men to tools so gigantic that they do not know on whom
-the strokes descend.  You have justified the nightmare of Don Quixote.
+the strokes descend.  You have justified the [[nightmare]] of [[Don Quixote]].
 The mills really _are_ giants."
 
 "Is there any method in that case," demanded the other.
@@ -134,5 +134,5 @@ stung him into speech upon certain matters; for under all this
 tomfoolery he had something more than the reticence of his breed.
 As it was, he looked uncomfortable and said:  "Look here, you mustn't
 give me credit like that.  I'm not on as Galahad in this scene.
-I hope I'd have done my best for the old Honkey; but I did like that girl;
+I [[Hope|hope]] I'd have done my best for the old Honkey; but I did like that girl;
 I liked her rather a lot."

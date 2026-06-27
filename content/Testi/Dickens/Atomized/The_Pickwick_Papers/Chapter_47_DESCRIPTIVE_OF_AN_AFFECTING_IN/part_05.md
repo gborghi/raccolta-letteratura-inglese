@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-‘Now, Sam!’ said Mr. Pickwick, looking back.
+‘Now, Sam!’ said Mr. [[Pickwick]], looking back.
 
 ‘I’m a-comin’, sir,’ replied Mr. Weller, mechanically following his
 master; and still he lifted not his eyes from Mr. Job Trotter, who
-walked at his side in silence.
+walked at his side in [[Silence|silence]].
 
-Job kept his eyes fixed on the ground for some time. Sam, with his glued
+Job kept his eyes fixed on the ground for some [[Time|time]]. Sam, with his glued
 to Job’s countenance, ran up against the people who were walking about,
 and fell over little children, and stumbled against steps and railings,
 without appearing at all sensible of it, until Job, looking stealthily
@@ -28,20 +28,20 @@ up, said--
 
 ‘How do you do, Mr. Weller?’
 
-‘It _is_ him!’ exclaimed Sam; and having established Job’s identity
-beyond all doubt, he smote his leg, and vented his feelings in a long,
+‘It _is_ him!’ exclaimed Sam; and having established Job’s [[Identity|identity]]
+beyond all [[Doubt|doubt]], he smote his leg, and vented his feelings in a long,
 shrill whistle.
 
 ‘Things has altered with me, sir,’ said Job.
 
 ‘I should think they had,’ exclaimed Mr. Weller, surveying his
-companion’s rags with undisguised wonder. ‘This is rayther a change for
+companion’s rags with undisguised [[Wonder|wonder]]. ‘This is rayther a change for
 the worse, Mr. Trotter, as the gen’l’m’n said, wen he got two doubtful
-shillin’s and sixpenn’orth o’ pocket-pieces for a good half-crown.’
+shillin’s and sixpenn’orth o’ pocket-pieces for a good half-[[Crown|crown]].’
 
-‘It is indeed,’ replied Job, shaking his head. ‘There is no deception
-now, Mr. Weller. Tears,’ said Job, with a look of momentary slyness--
-‘tears are not the only proofs of distress, nor the best ones.’
+‘It is indeed,’ replied Job, shaking his head. ‘There is no [[Deception|deception]]
+now, Mr. Weller. [[Tears]],’ said Job, with a look of momentary slyness--
+‘[[Tears|tears]] are not the only proofs of distress, nor the best ones.’
 
 ‘No, they ain’t,’ replied Sam expressively.
 
@@ -88,11 +88,11 @@ Thus admonished, Mr. Trotter raised the pot to his lips, and, by gentle
 and almost imperceptible degrees, tilted it into the air. He paused
 once, and only once, to draw a long breath, but without raising his face
 from the vessel, which, in a few moments thereafter, he held out at
-arm’s length, bottom upward. Nothing fell upon the ground but a few
+arm’s length, [[Bottom|bottom]] upward. Nothing fell upon the ground but a few
 particles of froth, which slowly detached themselves from the rim, and
 trickled lazily down.
 
-‘Well done!’ said Sam. ‘How do you find yourself arter it?’
+‘[[Well]] done!’ said Sam. ‘How do you find yourself arter it?’
 
 ‘Better, Sir. I think I am better,’ responded Job.
 
@@ -113,8 +113,8 @@ it to save boiling.’
 
 ‘He has, Sir,’ replied Job. ‘More than that, Mr. Weller; my master being
 very ill, he got us a room--we were in a kennel before--and paid for it,
-Sir; and come to look at us, at night, when nobody should know. Mr.
-Weller,’ said Job, with real tears in his eyes, for once, ‘I could serve
+Sir; and come to look at us, at [[Night|night]], when nobody should know. Mr.
+Weller,’ said Job, with real [[Tears|tears]] in his eyes, for once, ‘I could serve
 that gentleman till I fell down dead at his feet.’
 
 ‘I say!’ said Sam, ‘I’ll trouble you, my friend! None o’ that!’
@@ -133,25 +133,25 @@ defiance, Mr. Weller buttoned up his change in a side pocket, and, with
 many confirmatory nods and gestures by the way, proceeded in search of
 the subject of discourse.
 
-They found Mr. Pickwick, in company with Jingle, talking very earnestly,
+They found Mr. [[Pickwick]], in company with Jingle, talking very earnestly,
 and not bestowing a look on the groups who were congregated on the
 racket-ground; they were very motley groups too, and worth the looking
 at, if it were only in idle curiosity.
 
-‘Well,’ said Mr. Pickwick, as Sam and his companion drew nigh, ‘you will
+‘[[Well]],’ said Mr. [[Pickwick]], as Sam and his companion drew nigh, ‘you will
 see how your health becomes, and think about it meanwhile. Make the
 statement out for me when you feel yourself equal to the task, and I
 will discuss the subject with you when I have considered it. Now, go to
 your room. You are tired, and not strong enough to be out long.’
 
-Mr. Alfred Jingle, without one spark of his old animation--with nothing
-even of the dismal gaiety which he had assumed when Mr. Pickwick first
+Mr. [[Alfred Jingle]], without one spark of his old animation--with nothing
+even of the dismal gaiety which he had assumed when Mr. [[Pickwick]] first
 stumbled on him in his misery--bowed low without speaking, and,
 motioning to Job not to follow him just yet, crept slowly away.
 
-‘Curious scene this, is it not, Sam?’ said Mr. Pickwick, looking good-
+‘Curious scene this, is it not, Sam?’ said Mr. [[Pickwick]], looking good-
 humouredly round.
 
 ‘Wery much so, Sir,’ replied Sam. ‘Wonders ‘ull never cease,’ added Sam,
 speaking to himself. ‘I’m wery much mistaken if that ‘ere Jingle worn’t
-a-doin somethin’ in the water-cart way!’
+a-doin somethin’ in the [[Water|water]]-cart way!’

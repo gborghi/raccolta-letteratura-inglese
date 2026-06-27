@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 15 (part 1)"
+title: "[[Shirley]] — Chapter 15 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,9 +24,9 @@ MR. DONNE'S EXODUS.
 
 
 
-The next day Shirley expressed to Caroline how delighted she felt that
+The next day [[Shirley]] expressed to Caroline how delighted she felt that
 
-the little party had gone off so well.
+the little party had gone off so [[Well|well]].
 
 
 
@@ -40,11 +40,11 @@ of no importance to us; but gentlemen seem to retain something of the
 
 _naïveté_ of children about food, and one likes to please them--that is,
 
-when they show the becoming, decent self-government of our admirable
+when they show the becoming, decent [[Self|self]]-[[government]] of our admirable
 
 rectors. I watch Moore sometimes, to try and discover how he can be
 
-pleased; but he has not that child's simplicity about him. Did you ever
+pleased; but he has not that [[Child|child]]'s simplicity about him. Did you ever
 
 find out his accessible point, Caroline? you have seen more of him than
 
@@ -60,7 +60,7 @@ Miss Keeldar's lead respecting the discussion of her cousin's character.
 
 Left to herself, she would never have touched on the subject; but when
 
-invited, the temptation of talking about him of whom she was ever
+invited, the [[Temptation|temptation]] of talking about him of whom she was ever
 
 thinking was irresistible. "But," she added, "I really don't know what
 
@@ -70,7 +70,7 @@ presently baffled by finding he was watching me."
 
 
 
-"There it is!" exclaimed Shirley. "You can't fix your eyes on him but
+"There it is!" exclaimed [[Shirley]]. "You can't fix your eyes on him but
 
 his presently flash on you. He is never off his guard. He won't give you
 
@@ -86,11 +86,11 @@ singularly. How does it affect you?"
 
 
 
-This question was a specimen of one of Shirley's sharp, sudden turns.
+This question was a specimen of one of [[Shirley]]'s sharp, sudden turns.
 
 Caroline used to be fluttered by them at first, but she had now got into
 
-the way of parrying these home-thrusts like a little Quakeress.
+the way of parrying these [[Home|home]]-thrusts like a little Quakeress.
 
 
 
@@ -98,9 +98,9 @@ the way of parrying these home-thrusts like a little Quakeress.
 
 
 
-"Here he comes!" suddenly exclaimed Shirley, breaking off, starting up
+"Here he comes!" suddenly exclaimed [[Shirley]], breaking off, starting up
 
-and running to the window. "Here comes a diversion. I never told you of
+and running to the [[Window|window]]. "Here comes a diversion. I never told you of
 
 a superb conquest I have made lately--made at those parties to which I
 
@@ -112,7 +112,7 @@ bell--and, by all that's delicious! there are two of them. Do they never
 
 hunt, then, except in couples? You may have one, Lina, and you may take
 
-your choice. I hope I am generous enough. Listen to Tartar!"
+your choice. I [[Hope|hope]] I am generous enough. Listen to Tartar!"
 
 
 
@@ -128,7 +128,7 @@ succeeded.
 
 
 
-"Listen!" again cried Shirley, laughing. "You would think that the
+"Listen!" again cried [[Shirley]], laughing. "You would think that the
 
 prelude to a bloody onslaught. They will be frightened. They don't know
 
@@ -154,7 +154,7 @@ there was a yell--a scutter--a run--a positive tumult.
 
 
 
-"He really is worrying them!" exclaimed Shirley. "They have struck him.
+"He really is worrying them!" exclaimed [[Shirley]]. "They have struck him.
 
 A blow is what he is not used to, and will not take."
 
@@ -164,13 +164,13 @@ Out she ran. A gentleman was fleeing up the oak staircase, making for
 
 refuge in the gallery or chambers in hot haste; another was backing fast
 
-to the stairfoot, wildly flourishing a knotty stick, at the same time
+to the stairfoot, wildly flourishing a knotty stick, at the same [[Time|time]]
 
 reiterating, "Down! down! down!" while the tawny dog bayed, bellowed,
 
 howled at him, and a group of servants came bundling from the kitchen.
 
-The dog made a spring; the second gentleman turned tail and rushed after
+The dog made a [[spring]]; the second gentleman turned tail and rushed after
 
 his comrade. The first was already safe in a bedroom; he held the door
 
@@ -192,7 +192,7 @@ She was caressing the said Tartar. He lay crouched at her feet, his fore
 
 paws stretched out, his tail still in threatening agitation, his
 
-nostrils snorting, his bulldog eyes conscious of a dull fire. He was an
+nostrils snorting, his bulldog eyes conscious of a dull [[Fire|fire]]. He was an
 
 honest, phlegmatic, stupid, but stubborn canine character. He loved his
 
@@ -204,7 +204,7 @@ with a stick, and that put a demon into him at once.
 
 
 
-"Mr. Malone, how do you do?" continued Shirley, lifting up her mirth-lit
+"Mr. Malone, how do you do?" continued [[Shirley]], lifting up her mirth-lit
 
 face to the gallery. "That is not the way to the oak parlour; that is
 
@@ -226,7 +226,7 @@ reassure him."
 
 
 
-"It appears you did. Well, come down, if you please.--John" (turning to
+"It appears you did. [[Well]], come down, if you please.--John" (turning to
 
 her manservant), "go upstairs and liberate Mr. Donne.--Take care, Mr.
 
@@ -234,7 +234,7 @@ Malone; the stairs are slippery."
 
 
 
-In truth they were, being of polished oak. The caution came a little
+In [[Truth|truth]] they were, being of polished oak. The caution came a little
 
 late for Malone. He had slipped already in his stately descent, and was
 

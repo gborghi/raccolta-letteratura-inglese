@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 24"
+title: "[[Shirley]] — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XXIV.
 
 
 
-THE VALLEY OF THE SHADOW OF DEATH.
+THE VALLEY OF THE [[Shadow|SHADOW]] OF [[Death|DEATH]].
 
 
 
@@ -26,9 +26,9 @@ THE VALLEY OF THE SHADOW OF DEATH.
 
 The future sometimes seems to sob a low warning of the events it is
 
-bringing us, like some gathering though yet remote storm, which, in
+bringing us, like some gathering though yet remote [[Storm|storm]], which, in
 
-tones of the wind, in flushings of the firmament, in clouds strangely
+tones of the [[Wind|wind]], in flushings of the firmament, in clouds strangely
 
 torn, announces a blast strong to strew the sea with wrecks; or
 
@@ -40,7 +40,7 @@ the lattices of English homes with the breath of Indian plague. At other
 
 times this future bursts suddenly, as if a rock had rent, and in it a
 
-grave had opened, whence issues the body of one that slept. Ere you are
+[[Grave|grave]] had opened, whence issues the [[Body|body]] of one that slept. Ere you are
 
 aware you stand face to face with a shrouded and unthought-of
 
@@ -48,7 +48,7 @@ calamity--a new Lazarus.
 
 
 
-Caroline Helstone went home from Hollow's Cottage in good health, as she
+[[Caroline Helstone]] went [[Home|home]] from Hollow's Cottage in good health, as she
 
 imagined. On waking the next morning she felt oppressed with unwonted
 
@@ -62,7 +62,7 @@ sense of appetite. Palatable food was as ashes and sawdust to her.
 
 bright, their pupils dilated, her cheeks seemed rosier, and fuller than
 
-usual. "I look well; why can I not eat?"
+usual. "I look [[Well|well]]; why can I not eat?"
 
 
 
@@ -76,7 +76,7 @@ tinged her complexion.
 
 
 
-Now followed a hot, parched, thirsty, restless night. Towards morning
+Now followed a hot, parched, thirsty, restless [[Night|night]]. Towards morning
 
 one terrible dream seized her like a tiger; when she woke, she felt and
 
@@ -86,7 +86,7 @@ knew she was ill.
 
 How she had caught the fever (fever it was) she could not tell. Probably
 
-in her late walk home, some sweet, poisoned breeze, redolent of
+in her late walk [[Home|home]], some sweet, poisoned breeze, redolent of
 
 honey-dew and miasma, had passed into her lungs and veins, and finding
 
@@ -94,17 +94,17 @@ there already a fever of mental excitement, and a languor of long
 
 conflict and habitual sadness, had fanned the spark to flame, and left a
 
-well-lit fire behind it.
+[[Well|well]]-lit [[Fire|fire]] behind it.
 
 
 
-It seemed, however, but a gentle fire. After two hot days and worried
+It seemed, however, but a gentle [[Fire|fire]]. After two hot days and worried
 
 nights, there was no violence in the symptoms, and neither her uncle,
 
 nor Fanny, nor the doctor, nor Miss Keeldar, when she called, had any
 
-fear for her. A few days would restore her, every one believed.
+[[Fear|fear]] for her. A few days would restore her, every one believed.
 
 
 
@@ -120,7 +120,7 @@ and placed her finger on her wrist; then, quietly leaving the chamber,
 
 she went to Mr. Helstone's study. With him she remained closeted a long
 
-time--half the morning. On returning to her sick young friend, she laid
+[[Time|time]]--half the morning. On returning to her sick young friend, she laid
 
 aside shawl and bonnet. She stood awhile at the bedside, one hand placed
 
@@ -142,9 +142,9 @@ acceptable, Caroline?"
 
 ill, but I cannot refuse resolutely. It will be such comfort to know you
 
-are in the house, to see you sometimes in the room; but don't confine
+are in the [[house]], to see you sometimes in the room; but don't confine
 
-yourself on my account, dear Mrs. Pryor. Fanny nurses me very well."
+yourself on my account, dear Mrs. Pryor. Fanny nurses me very [[Well|well]]."
 
 
 
@@ -156,9 +156,9 @@ these offices, Caroline, smiling, lifted her face to kiss her.
 
 
 
-"Are you free from pain? Are you tolerably at ease?" was inquired in a
+"Are you free from [[Pain|pain]]? Are you tolerably at ease?" was inquired in a
 
-low, earnest voice, as the self-elected nurse yielded to the caress.
+low, earnest voice, as the [[Self|self]]-elected [[Nurse|nurse]] yielded to the caress.
 
 
 
@@ -196,7 +196,7 @@ her to her heart, and held her close gathered an instant.
 
 
 
-"I shall hardly wish to get well, that I may keep you always," said
+"I shall hardly wish to get [[Well|well]], that I may keep you always," said
 
 Caroline.
 
@@ -232,13 +232,13 @@ Negligent, indeed, she was not. From that hour Fanny and Eliza became
 
 ciphers in the sick-room. Mrs. Pryor made it her domain; she performed
 
-all its duties; she lived in it day and night. The patient
+all its duties; she lived in it day and [[Night|night]]. The patient
 
 remonstrated--faintly, however, from the first, and not at all ere long.
 
-Loneliness and gloom were now banished from her bedside; protection and
+[[Loneliness]] and gloom were now banished from her bedside; protection and
 
-solace sat there instead. She and her nurse coalesced in wondrous union.
+solace sat there instead. She and her [[Nurse|nurse]] coalesced in wondrous [[Union|union]].
 
 Caroline was usually pained to require or receive much attendance. Mrs.
 
@@ -248,7 +248,7 @@ of performing little offices of service; but all now passed with such
 
 ease, so naturally, that the patient was as willing to be cherished as
 
-the nurse was bent on cherishing; no sign of weariness in the latter
+the [[Nurse|nurse]] was bent on cherishing; no sign of weariness in the latter
 
 ever reminded the former that she ought to be anxious. There was, in
 
@@ -258,15 +258,15 @@ hard.
 
 
 
-With all this care it seemed strange the sick girl did not get well; yet
+With all this care it seemed strange the sick girl did not get [[Well|well]]; yet
 
-such was the case. She wasted like any snow-wreath in thaw; she faded
+such was the case. She wasted like any [[Snow|snow]]-wreath in thaw; she faded
 
 like any flower in drought. Miss Keeldar, on whose thoughts danger or
 
-death seldom intruded, had at first entertained no fears at all for her
+[[Death|death]] seldom intruded, had at first entertained no fears at all for her
 
-friend; but seeing her change and sink from time to time when she paid
+friend; but seeing her change and sink from [[Time|time]] to [[Time|time]] when she paid
 
 her visits, alarm clutched her heart. She went to Mr. Helstone and
 
@@ -284,13 +284,13 @@ the future was to solve the mystery, wrote some prescriptions, gave some
 
 directions--the whole with an air of crushing authority--pocketed his
 
-fee, and went. Probably he knew well enough he could do no good, but
+fee, and went. Probably he knew [[Well|well]] enough he could do no good, but
 
 didn't like to say so.
 
 
 
-Still, no rumour of serious illness got wind in the neighbourhood. At
+Still, no rumour of serious illness got [[Wind|wind]] in the neighbourhood. At
 
 Hollow's Cottage it was thought that Caroline had only a severe cold,
 
@@ -318,7 +318,7 @@ meantime falling fast into a condition of prostration, whose quickly
 
 consummated debility puzzled all who witnessed it except one; for that
 
-one alone reflected how liable is the undermined structure to sink in
+one [[Alone|alone]] reflected how liable is the undermined structure to sink in
 
 sudden ruin.
 
@@ -326,19 +326,19 @@ sudden ruin.
 
 Sick people often have fancies inscrutable to ordinary attendants, and
 
-Caroline had one which even her tender nurse could not at first explain.
+Caroline had one which even her tender [[Nurse|nurse]] could not at first explain.
 
 On a certain day in the week, at a certain hour, she would--whether
 
 worse or better--entreat to be taken up and dressed, and suffered to sit
 
-in her chair near the window. This station she would retain till noon
+in her chair near the [[Window|window]]. This station she would retain till [[Noon|noon]]
 
 was past. Whatever degree of exhaustion or debility her wan aspect
 
-betrayed, she still softly put off all persuasion to seek repose until
+betrayed, she still softly put off all [[Persuasion|persuasion]] to seek repose until
 
-the church clock had duly tolled midday. The twelve strokes sounded, she
+the church [[Clock|clock]] had duly tolled midday. The twelve strokes sounded, she
 
 grew docile, and would meekly lie down. Returned to the couch, she
 
@@ -348,7 +348,7 @@ round her, as if to shut out the world and sun, of which she was tired.
 
 More than once, as she thus lay, a slight convulsion shook the sick-bed,
 
-and a faint sob broke the silence round it. These things were not
+and a faint sob broke the [[Silence|silence]] round it. These things were not
 
 unnoted by Mrs. Pryor.
 
@@ -360,23 +360,23 @@ sat wrapped in her white dressing-gown, leaning forward in the
 
 easy-chair, gazing steadily and patiently from the lattice. Mrs. Pryor
 
-was seated a little behind, knitting as it seemed, but, in truth,
+was seated a little behind, knitting as it seemed, but, in [[Truth|truth]],
 
 watching her. A change crossed her pale, mournful brow, animating its
 
 languor; a light shot into her faded eyes, reviving their lustre; she
 
-half rose and looked earnestly out. Mrs. Pryor, drawing softly near,
+half [[Rose|rose]] and looked earnestly out. Mrs. Pryor, drawing softly near,
 
-glanced over her shoulder. From this window was visible the churchyard,
+glanced over her shoulder. From this [[Window|window]] was visible the churchyard,
 
-beyond it the road; and there, riding sharply by, appeared a horseman.
+beyond it the [[Road|road]]; and there, riding sharply by, appeared a horseman.
 
 The figure was not yet too remote for recognition. Mrs. Pryor had long
 
 sight; she knew Mr. Moore. Just as an intercepting rising ground
 
-concealed him from view, the clock struck twelve.
+concealed him from view, the [[Clock|clock]] struck twelve.
 
 
 
@@ -384,7 +384,7 @@ concealed him from view, the clock struck twelve.
 
 
 
-Her nurse assisted her to bed. Having laid her down and drawn the
+Her [[Nurse|nurse]] assisted her to bed. Having laid her down and drawn the
 
 curtain, she stood listening near. The little couch trembled, the
 
@@ -394,7 +394,7 @@ Pryor's features; she wrung her hands; half a groan escaped her lips.
 
 She now remembered that Tuesday was Whinbury market day. Mr. Moore must
 
-always pass the rectory on his way thither, just ere noon of that day.
+always pass the rectory on his way thither, just ere [[Noon|noon]] of that day.
 
 
 
@@ -408,7 +408,7 @@ parted with it. When dressed it was hidden in her bosom; as she lay in
 
 bed she always held it in her hand. That Tuesday afternoon the transient
 
-doze--more like lethargy than sleep--which sometimes abridged the long
+doze--more like lethargy than [[Sleep|sleep]]--which sometimes abridged the long
 
 days, had stolen over her. The weather was hot. While turning in febrile
 
@@ -418,9 +418,9 @@ bent to replace them. The small, wasted hand, lying nerveless on the
 
 sick girl's breast, clasped as usual her jealously-guarded treasure.
 
-Those fingers whose attenuation it gave pain to see were now relaxed in
+Those fingers whose attenuation it gave [[Pain|pain]] to see were now relaxed in
 
-sleep. Mrs. Pryor gently disengaged the braid, drawing out a tiny
+[[Sleep|sleep]]. Mrs. Pryor gently disengaged the braid, drawing out a tiny
 
 locket--a slight thing it was, such as it suited her small purse to
 
@@ -452,11 +452,11 @@ Caroline looked abroad into the chamber; she thought it empty. As her
 
 stray ideas returned slowly, each folding its weak wings on the mind's
 
-sad shore, like birds exhausted, beholding void, and perceiving silence
+sad shore, like [[Birds|birds]] exhausted, beholding void, and perceiving [[Silence|silence]]
 
-round her, she believed herself alone. Collected she was not yet;
+round her, she believed herself [[Alone|alone]]. Collected she was not yet;
 
-perhaps healthy self-possession and self-control were to be hers no
+perhaps healthy [[Self|self]]-possession and [[Self|self]]-control were to be hers no
 
 more; perhaps that world the strong and prosperous live in had already
 
@@ -482,19 +482,19 @@ they have laid me out, and I am senseless, cold, and stiff.
 
 
 
-"What can my departed soul feel then? Can it see or know what happens to
+"What can my departed [[Soul|soul]] feel then? Can it see or know what happens to
 
 the clay? Can spirits, through any medium, communicate with living
 
 flesh? Can the dead at all revisit those they leave? Can they come in
 
-the elements? Will wind, water, fire, lend me a path to Moore?
+the elements? Will [[Wind|wind]], [[Water|water]], [[Fire|fire]], lend me a path to Moore?
 
 
 
-"Is it for nothing the wind sounds almost articulately sometimes--sings
+"Is it for nothing the [[Wind|wind]] sounds almost articulately sometimes--sings
 
-as I have lately heard it sing at night--or passes the casement sobbing,
+as I have lately heard it sing at [[Night|night]]--or passes the casement sobbing,
 
 as if for sorrow to come? Does nothing, then, haunt it, nothing inspire
 
@@ -502,7 +502,7 @@ it?
 
 
 
-"Why, it suggested to me words one night; it poured a strain which I
+"Why, it suggested to me words one [[Night|night]]; it poured a strain which I
 
 could have written down, only I was appalled, and dared not rise to seek
 
@@ -510,7 +510,7 @@ pencil and paper by the dim watch-light.
 
 
 
-"What is that electricity they speak of, whose changes make us well or
+"What is that electricity they speak of, whose changes make us [[Well|well]] or
 
 ill, whose lack or excess blasts, whose even balance revives? What are
 
@@ -532,13 +532,13 @@ when the veil must be rent for me? Do I not know the Grand Mystery is
 
 likely to burst prematurely on me? Great Spirit, in whose goodness I
 
-confide, whom, as my Father, I have petitioned night and morning from
+confide, whom, as my Father, I have petitioned [[Night|night]] and morning from
 
 early infancy, help the weak creation of Thy hands! Sustain me through
 
 the ordeal I dread and must undergo! Give me strength! Give me patience!
 
-Give me--oh, _give me_ FAITH!"
+Give me--oh, _give me_ [[Faith|FAITH]]!"
 
 
 
@@ -554,7 +554,7 @@ The next day several callers came. It had become known that Miss
 
 Helstone was worse. Mr. Hall and his sister Margaret arrived. Both,
 
-after they had been in the sickroom, quitted it in tears; they had found
+after they had been in the sickroom, quitted it in [[Tears|tears]]; they had found
 
 the patient more altered than they expected. Hortense Moore came.
 
@@ -574,11 +574,11 @@ leave.
 
 
 
-"He was very well when he left."
+"He was very [[Well|well]] when he left."
 
 
 
-"Left! Is he gone from home?"
+"Left! Is he gone from [[Home|home]]?"
 
 
 
@@ -600,21 +600,21 @@ and probably a fortnight might elapse ere he returned.
 
 After this visit, Mrs. Pryor took care not to approach Caroline's couch
 
-for above an hour. She heard her weep, and dared not look on her tears.
+for above an hour. She heard her weep, and dared not look on her [[Tears|tears]].
 
 
 
 As evening closed in, she brought her some tea. Caroline, opening her
 
-eyes from a moment's slumber, viewed her nurse with an unrecognizing
+eyes from a moment's slumber, viewed her [[Nurse|nurse]] with an unrecognizing
 
 glance.
 
 
 
-"I smelt the honeysuckles in the glen this summer morning," she said,
+"I smelt the honeysuckles in the glen this [[Summer|summer]] morning," she said,
 
-"as I stood at the counting-house window."
+"as I stood at the counting-[[house]] [[Window|window]]."
 
 
 
@@ -632,23 +632,23 @@ books; in real life they are harrowing.
 
 "I went in to call Robert to breakfast. I have been with him in the
 
-garden. He asked me to go. A heavy dew has refreshed the flowers. The
+[[Garden|garden]]. He asked me to go. A heavy dew has refreshed the [[Flowers|flowers]]. The
 
 peaches are ripening."
 
 
 
-"My darling! my darling!" again and again repeated the nurse.
+"My darling! my darling!" again and again repeated the [[Nurse|nurse]].
 
 
 
 "I thought it was daylight--long after sunrise. It looks dark. Is the
 
-moon now set?"
+[[Moon|moon]] now set?"
 
 
 
-That moon, lately risen, was gazing full and mild upon her. Floating in
+That [[Moon|moon]], lately risen, was gazing full and mild upon her. Floating in
 
 deep blue space, it watched her unclouded.
 
@@ -660,17 +660,17 @@ shape at my bedside."
 
 
 
-"It is myself--it is your friend--your nurse--your---- Lean your head on
+"It is myself--it is your friend--your [[Nurse|nurse]]--your---- Lean your head on
 
 my shoulder. Collect yourself." In a lower tone--"O God, take pity! Give
 
-_her_ life, and _me_ strength! Send me courage! Teach me words!"
+_her_ life, and _me_ strength! Send me [[Courage|courage]]! Teach me words!"
 
 
 
-Some minutes passed in silence. The patient lay mute and passive in the
+Some minutes passed in [[Silence|silence]]. The patient lay mute and passive in the
 
-trembling arms, on the throbbing bosom of the nurse.
+trembling arms, on the throbbing bosom of the [[Nurse|nurse]].
 
 
 
@@ -678,13 +678,13 @@ trembling arms, on the throbbing bosom of the nurse.
 
 where I am. This is Mrs. Pryor near me. I was dreaming. I talk when I
 
-wake up from dreams; people often do in illness. How fast your heart
+wake up from [[Dreams|dreams]]; people often do in illness. How fast your heart
 
 beats, ma'am! Do not be afraid."
 
 
 
-"It is not fear, child--only a little anxiety, which will pass. I have
+"It is not [[Fear|fear]], [[Child|child]]--only a little anxiety, which will pass. I have
 
 brought you some tea, Cary. Your uncle made it himself. You know he says
 
@@ -704,7 +704,7 @@ She drank eagerly.
 
 
 
-"What o'clock is it, ma'am?" she asked.
+"What o'[[Clock|clock]] is it, ma'am?" she asked.
 
 
 
@@ -712,7 +712,7 @@ She drank eagerly.
 
 
 
-"Not later? Oh! I have yet a long night before me. But the tea has made
+"Not later? Oh! I have yet a long [[Night|night]] before me. But the tea has made
 
 me strong. I will sit up."
 
@@ -726,11 +726,11 @@ Mrs. Pryor raised her, and arranged her pillows.
 
 The afternoon has been bad since Hortense went; perhaps the evening may
 
-be better. It is a fine night, I think? The moon shines clear."
+be better. It is a fine [[Night|night]], I think? The [[Moon|moon]] shines clear."
 
 
 
-"Very fine--a perfect summer night. The old church-tower gleams white
+"Very fine--a perfect [[Summer|summer]] [[Night|night]]. The old church-tower gleams white
 
 almost as silver."
 
@@ -740,7 +740,7 @@ almost as silver."
 
 
 
-"Yes, and the garden also. Dew glistens on the foliage."
+"Yes, and the [[Garden|garden]] also. Dew glistens on the foliage."
 
 
 
@@ -752,7 +752,7 @@ look turfy and flowery?"
 
 "I see closed daisy-heads gleaming like pearls on some mounds. Thomas
 
-has mown down the dock-leaves and rank grass, and cleared all away."
+has mown down the dock-[[Leaves|leaves]] and rank grass, and cleared all away."
 
 
 
@@ -760,7 +760,7 @@ has mown down the dock-leaves and rank grass, and cleared all away."
 
 in order. And, I dare say, within the church just now that moonlight
 
-shines as softly as in my room. It will fall through the east window
+shines as softly as in my room. It will fall through the east [[Window|window]]
 
 full on the Helstone monument. When I close my eyes I seem to see poor
 
@@ -770,19 +770,19 @@ room for other inscriptions underneath."
 
 
 
-"William Farren came to look after your flowers this morning. He was
+"William Farren came to look after your [[Flowers|flowers]] this morning. He was
 
 afraid, now you cannot tend them yourself, they would be neglected. He
 
-has taken two of your favourite plants home to nurse for you."
+has taken two of your favourite plants [[Home|home]] to [[Nurse|nurse]] for you."
 
 
 
-"If I were to make a will, I would leave William all my plants; Shirley
+"If I were to make a will, I would leave William all my plants; [[Shirley]]
 
 my trinkets--except one, which must not be taken off my neck; and you,
 
-ma'am, my books." After a pause--"Mrs. Pryor, I feel a longing wish for
+ma'am, my books." After a pause--"Mrs. Pryor, I feel a [[Longing|longing]] wish for
 
 something."
 
@@ -792,19 +792,19 @@ something."
 
 
 
-"You know I always delight to hear you sing. Sing me a hymn just now.
+"You know I always delight to hear you sing. Sing me a [[Hymn|hymn]] just now.
 
-Sing that hymn which begins,--
+Sing that [[Hymn|hymn]] which begins,--
 
 
 
     'Our God, our help in ages past,
 
-       Our hope for years to come,
+       Our [[Hope|hope]] for years to come,
 
      Our shelter from the stormy blast,
 
-       Our refuge, haven, home!'"
+       Our refuge, haven, [[Home|home]]!'"
 
 
 
@@ -812,9 +812,9 @@ Mrs. Pryor at once complied.
 
 
 
-No wonder Caroline liked to hear her sing. Her voice, even in speaking,
+No [[Wonder|wonder]] Caroline liked to hear her sing. Her voice, even in speaking,
 
-was sweet and silver clear; in song it was almost divine. Neither flute
+was sweet and silver clear; in [[Song|song]] it was almost divine. Neither flute
 
 nor dulcimer has tones so pure. But the tone was secondary, compared to
 
@@ -826,9 +826,9 @@ heart.
 
 The servants in the kitchen, hearing the strain, stole to the stair-foot
 
-to listen. Even old Helstone, as he walked in the garden, pondering over
+to listen. Even old Helstone, as he walked in the [[Garden|garden]], pondering over
 
-the unaccountable and feeble nature of women, stood still amongst his
+the unaccountable and feeble [[Nature|nature]] of women, stood still amongst his
 
 borders to catch the mournful melody more distinctly. Why it reminded
 
@@ -842,7 +842,7 @@ magistrate, a visit that evening. Low spirits and gloomy thoughts were
 
 very much his aversion. When they attacked him he usually found means to
 
-make them march in double-quick time. The hymn followed him faintly as
+make them march in [[Double|double]]-quick [[Time|time]]. The [[Hymn|hymn]] followed him faintly as
 
 he crossed the fields. He hastened his customary sharp pace, that he
 
@@ -850,11 +850,11 @@ might get beyond its reach.
 
 
 
-    "Thy word commands our flesh to dust,--
+    "Thy word commands our flesh to [[Dust|dust]],--
 
        'Return, ye sons of men;'
 
-     All nations rose from earth at first,
+     All nations [[Rose|rose]] from earth at first,
 
        And turn to earth again.
 
@@ -864,17 +864,17 @@ might get beyond its reach.
 
        Are like an evening gone--
 
-     Short as the watch that ends the night
+     Short as the watch that ends the [[Night|night]]
 
        Before the rising sun.
 
 
 
-    "Time, like an ever-rolling stream,
+    "[[Time]], like an ever-[[rolling]] stream,
 
        Bears all its sons away;
 
-     They fly, forgotten, as a dream
+     They fly, forgotten, as [[A Dream|a dream]]
 
        Dies at the opening day.
 
@@ -884,23 +884,23 @@ might get beyond its reach.
 
        Fresh in the morning light;
 
-     The flowers beneath the mower's hand
+     The [[Flowers|flowers]] beneath the mower's hand
 
-       Lie withering ere 'tis night.
+       Lie withering ere 'tis [[Night|night]].
 
 
 
     "Our God, our help in ages past,
 
-       Our hope for years to come,
+       Our [[Hope|hope]] for years to come,
 
      Be Thou our guard while troubles last--
 
-       O Father, be our home!"
+       O Father, be our [[Home|home]]!"
 
 
 
-"Now sing a song--a Scottish song," suggested Caroline, when the hymn
+"Now sing a [[Song|song]]--a Scottish [[Song|song]]," suggested Caroline, when the [[Hymn|hymn]]
 
 was over--"'Ye banks and braes o' bonnie Doon.'"
 
@@ -926,7 +926,7 @@ encircle her.
 
 "You often soothe me; let me soothe you," murmured the young girl,
 
-kissing her cheek. "I hope," she added, "it is not for me you weep?"
+kissing her cheek. "I [[Hope|hope]]," she added, "it is not for me you weep?"
 
 
 
@@ -960,7 +960,7 @@ think if an abundant gush of happiness came on me I could revive yet."
 
 
 
-"You love me, Caroline?"
+"You [[Love|love]] me, Caroline?"
 
 
 
@@ -986,17 +986,17 @@ intently on her face.
 
 
 
-"Then, if you love me," said she, speaking quickly, with an altered
+"Then, if you [[Love|love]] me," said she, speaking quickly, with an altered
 
 voice; "if you feel as if, to use your own words, you could 'grow to my
 
-heart,' it will be neither shock nor pain for you to know that _that_
+heart,' it will be neither shock nor [[Pain|pain]] for you to know that _that_
 
 heart is the source whence yours was filled; that from _my_ veins issued
 
 the tide which flows in _yours_; that you are _mine_--my daughter--my
 
-own child."
+own [[Child|child]]."
 
 
 
@@ -1004,7 +1004,7 @@ own child."
 
 
 
-"My own child!"
+"My own [[Child|child]]!"
 
 
 
@@ -1032,7 +1032,7 @@ _mine_. I have proved it. I thought perhaps you were all his, which
 
 would have been a cruel dispensation for me. I find it is _not_ so. God
 
-permitted me to be the parent of my child's mind. It belongs to me; it
+permitted me to be the parent of my [[Child|child]]'s mind. It belongs to me; it
 
 is my property--my _right_. These features are James's own. He had a
 
@@ -1046,7 +1046,7 @@ conferred; but the heart and the brain are _mine_. The germs are from
 
 _me_, and they are improved, they are developed to excellence. I esteem
 
-and approve my child as highly as I do most fondly love her."
+and approve my [[Child|child]] as highly as I do most fondly [[Love|love]] her."
 
 
 
@@ -1066,11 +1066,11 @@ generally did not like her--so I have been given to understand."
 
 
 
-"They told you that? Well, your mother now tells you that, not having
+"They told you that? [[Well]], your mother now tells you that, not having
 
 the gift to please people generally, for their approbation she does not
 
-care. Her thoughts are centred in her child. Does that child welcome or
+care. Her thoughts are centred in her [[Child|child]]. Does that [[Child|child]] welcome or
 
 reject her?"
 
@@ -1086,9 +1086,9 @@ can live. I should like to recover----"
 
 were a tiny, fair infant, over whose blue eyes I used to weep, fearing I
 
-beheld in your very beauty the sign of qualities that had entered my
+beheld in your very [[Beauty|beauty]] the sign of qualities that had entered my
 
-heart like iron, and pierced through my soul like a sword. Daughter! we
+heart like iron, and pierced through my [[Soul|soul]] like a [[Sword|sword]]. Daughter! we
 
 have been long parted; I return now to cherish you again."
 
@@ -1096,7 +1096,7 @@ have been long parted; I return now to cherish you again."
 
 She held her to her bosom; she cradled her in her arms; she rocked her
 
-softly, as if lulling a young child to sleep.
+softly, as if lulling a young [[Child|child]] to [[Sleep|sleep]].
 
 
 
@@ -1108,13 +1108,13 @@ The offspring nestled to the parent; that parent, feeling the endearment
 
 and hearing the appeal, gathered her closer still. She covered her with
 
-noiseless kisses; she murmured love over her, like a cushat fostering
+noiseless kisses; she murmured [[Love|love]] over her, like a cushat fostering
 
 its young.
 
 
 
-There was silence in the room for a long while.
+There was [[Silence|silence]] in the room for a long while.
 
 
 
@@ -1136,7 +1136,7 @@ There was silence in the room for a long while.
 
 "How could it be otherwise? Mr. and Miss Helstone being announced, I was
 
-prepared to see my child."
+prepared to see my [[Child|child]]."
 
 
 
@@ -1192,15 +1192,15 @@ me. Had you been rustic, clownish, awkward, I should have been content."
 
 "I had reason to dread a fair outside, to mistrust a popular bearing, to
 
-shudder before distinction, grace, and courtesy. Beauty and affability
+shudder before distinction, grace, and courtesy. [[Beauty]] and affability
 
 had come in my way when I was recluse, desolate, young, and ignorant--a
 
 toil-worn governess perishing of uncheered labour, breaking down before
 
-her time. These, Caroline, when they smiled on me, I mistook for angels.
+her [[Time|time]]. These, Caroline, when they smiled on me, I mistook for angels.
 
-I followed them home; and when into their hands I had given without
+I followed them [[Home|home]]; and when into their hands I had given without
 
 reserve my whole chance of future happiness, it was my lot to witness a
 
@@ -1232,9 +1232,9 @@ patience. He kept me in the days of my anguish. I was afraid with
 
 terror--I was troubled. Through great tribulation He brought me through
 
-to a salvation revealed in this last time. My fear had torment; He has
+to a salvation revealed in this last [[Time|time]]. My [[Fear|fear]] had torment; He has
 
-cast it out. He has given me in its stead perfect love. But,
+cast it out. He has given me in its stead perfect [[Love|love]]. But,
 
 Caroline----"
 
@@ -1262,15 +1262,15 @@ God is the arbiter. This world's laws never came near us--never! They
 
 were powerless as a rotten bulrush to protect me--impotent as idiot
 
-babblings to restrain him! As you said, it is all over now; the grave
+babblings to restrain him! As you said, it is all over now; the [[Grave|grave]]
 
-lies between us. There he sleeps, in that church. To his dust I say this
+lies between us. There he sleeps, in that church. To his [[Dust|dust]] I say this
 
-night, what I have never said before, 'James, slumber peacefully! See!
+[[Night|night]], what I have never said before, 'James, slumber peacefully! See!
 
 your terrible debt is cancelled! Look! I wipe out the long, black
 
-account with my own hand! James, your child atones. This living likeness
+account with my own hand! James, your [[Child|child]] atones. This living likeness
 
 of you--this thing with your perfect features--this one good gift you
 
@@ -1282,13 +1282,13 @@ gave me has nestled affectionately to my heart, and tenderly called me
 
 "Dearest mother, that is right! Can papa's spirit hear us? Is he
 
-comforted to know that we still love him?"
+comforted to know that we still [[Love|love]] him?"
 
 
 
-"I said nothing of love. I spoke of forgiveness. Mind the truth, child;
+"I said nothing of [[Love|love]]. I spoke of [[Forgiveness|forgiveness]]. Mind the [[Truth|truth]], [[Child|child]];
 
-I said nothing of love! On the threshold of eternity, should he be there
+I said nothing of [[Love|love]]! On the threshold of [[Eternity|eternity]], should he be there
 
 to see me enter, will I maintain that."
 
@@ -1298,7 +1298,7 @@ to see me enter, will I maintain that."
 
 
 
-"O child, the human heart _can_ suffer! It can hold more tears than the
+"O [[Child|child]], the human heart _can_ suffer! It can hold more [[Tears|tears]] than the
 
 ocean holds waters. We never know how deep, how wide it is, till misery
 
@@ -1322,9 +1322,9 @@ the bays of Australia ere I forget."
 
 
 
-And the child lulled the parent, as the parent had erst lulled the
+And the [[Child|child]] lulled the parent, as the parent had erst lulled the
 
-child. At last Mrs. Pryor wept. She then grew calmer. She resumed those
+[[Child|child]]. At last Mrs. Pryor wept. She then grew calmer. She resumed those
 
 tender cares agitation had for a moment suspended. Replacing her
 
@@ -1342,23 +1342,23 @@ to come into this room by-and-by. I want to hear him say that I am your
 
 daughter. And, mamma, take your supper here. Don't leave me for one
 
-minute to-night."
+minute to-[[Night|night]]."
 
 
 
-"O Caroline, it is well you are gentle! You will say to me, Go, and I
+"O Caroline, it is [[Well|well]] you are gentle! You will say to me, Go, and I
 
 shall go; Come, and I shall come; Do this, and I shall do it. You
 
-inherit a certain manner as well as certain features. It will always be
+inherit a certain manner as [[Well|well]] as certain features. It will always be
 
 'mamma' prefacing a mandate--softly spoken, though, from you, thank God!
 
-Well," she added, under her breath, "he spoke softly too, once, like a
+[[Well]]," she added, under her breath, "he spoke softly too, once, like a
 
 flute breathing tenderness; and then, when the world was not by to
 
-listen, discords that split the nerves and curdled the blood--sounds to
+listen, discords that split the nerves and curdled the [[Blood|blood]]--sounds to
 
 inspire insanity."
 
@@ -1374,13 +1374,13 @@ me be troublesome. Check me if I encroach."
 
 "You must not depend on me to check you; you must keep guard over
 
-yourself. I have little moral courage; the want of it is my bane. It is
+yourself. I have little moral [[Courage|courage]]; the want of it is my bane. It is
 
 that which has made me an unnatural parent--which has kept me apart from
 
-my child during the ten years which have elapsed since my husband's
+my [[Child|child]] during the ten years which have elapsed since my husband's
 
-death left me at liberty to claim her. It was that which first unnerved
+[[Death|death]] left me at liberty to claim her. It was that which first unnerved
 
 my arms and permitted the infant I might have retained a while longer to
 
@@ -1400,7 +1400,7 @@ portrait, taken at eight years old; that portrait confirmed my fears.
 
 Had it shown me a sunburnt little rustic--a heavy, blunt-featured,
 
-commonplace child--I should have hastened to claim you; but there, under
+commonplace [[Child|child]]--I should have hastened to claim you; but there, under
 
 the silver paper, I saw blooming the delicacy of an aristocratic
 
@@ -1414,13 +1414,13 @@ fairy-like representative. My sweet little lady overwhelmed me with
 
 dismay; her air of native elegance froze my very marrow. In my
 
-experience I had not met with truth, modesty, good principle as the
+experience I had not met with [[Truth|truth]], modesty, good principle as the
 
-concomitants of beauty. A form so straight and fine, I argued, must
+concomitants of [[Beauty|beauty]]. A form so straight and fine, I argued, must
 
-conceal a mind warped and cruel. I had little faith in the power of
+conceal a mind warped and cruel. I had little [[Faith|faith]] in the power of
 
-education to rectify such a mind; or rather, I entirely misdoubted my
+[[Education|education]] to rectify such a mind; or rather, I entirely misdoubted my
 
 own ability to influence it. Caroline, I dared not undertake to rear
 
@@ -1444,9 +1444,9 @@ unmolested. My married name recalled too vividly my married life; I
 
 could not bear it. Besides, threats were uttered of forcing me to return
 
-to bondage. It could not be. Rather a bier for a bed, the grave for a
+to bondage. It could not be. Rather a bier for a bed, the [[Grave|grave]] for a
 
-home. My new name sheltered me. I resumed under its screen my old
+[[Home|home]]. My new name sheltered me. I resumed under its screen my old
 
 occupation of teaching. At first it scarcely procured me the means of
 
@@ -1456,7 +1456,7 @@ safe seemed the darkness and chill of an unkindled hearth when no lurid
 
 reflection from terror crimsoned its desolation! How serene was
 
-solitude, when I feared not the irruption of violence and vice!"
+[[Solitude|solitude]], when I feared not the irruption of violence and vice!"
 
 
 
@@ -1500,7 +1500,7 @@ summoned him to his niece's apartment.
 
 
 
-"She's not worse, I hope?" he inquired hastily.
+"She's not worse, I [[Hope|hope]]?" he inquired hastily.
 
 
 
@@ -1622,7 +1622,7 @@ eagerness." To Caroline--"She had the trouble of bringing you into the
 
 world at any rate. Mind you show your duty to her by quickly getting
 
-well, and repairing the waste of these cheeks.--Heigh-ho! she used to be
+[[Well|well]], and repairing the waste of these cheeks.--Heigh-ho! she used to be
 
 plump. What she has done with it all I can't, for the life of me,
 
@@ -1630,7 +1630,7 @@ divine."
 
 
 
-"If _wishing_ to get well will help me, I shall not be long sick. This
+"If _wishing_ to get [[Well|well]] will help me, I shall not be long sick. This
 
 morning I had no reason and no strength to wish it."
 
@@ -1658,7 +1658,7 @@ extremely wire-drawn notions, that put me about. Let a woman ask me to
 
 give her an edible or a wearable--be the same a roc's egg or the
 
-breastplate of Aaron, a share of St. John's locusts and honey or the
+breastplate of [[Aaron]], a share of St. John's locusts and honey or the
 
 leathern girdle about his loins--I can, at least, understand the demand;
 
@@ -1700,11 +1700,11 @@ praised the morsel he had brought, and smiled gratefully in his face, he
 
 stooped over her pillow, kissed her, and said, with a broken, rugged
 
-accent, "Good-night, bairnie! God bless thee!"
+accent, "Good-[[Night|night]], bairnie! God bless thee!"
 
 
 
-Caroline enjoyed such peaceful rest that night, circled by her mother's
+Caroline enjoyed such peaceful rest that [[Night|night]], circled by her mother's
 
 arms, and pillowed on her breast, that she forgot to wish for any other
 
@@ -1718,6 +1718,6 @@ soon as felt.
 
 
 
-As to the mother, she spent the night like Jacob at Peniel. Till break
+As to the mother, she spent the [[Night|night]] like Jacob at Peniel. Till break
 
-of day she wrestled with God in earnest prayer.
+of day she wrestled with God in earnest [[prayer]].

@@ -15,26 +15,26 @@ tags:
 
 
 CHAPTER VIII
-NEVER WONDER
+NEVER [[Wonder|WONDER]]
 
 
 LET us strike the key-note again, before pursuing the tune.
 
 When she was half a dozen years younger, Louisa had been overheard to
 begin a conversation with her brother one day, by saying ‘Tom, I
-wonder’—upon which Mr. Gradgrind, who was the person overhearing, stepped
-forth into the light and said, ‘Louisa, never wonder!’
+[[Wonder|wonder]]’—upon which Mr. Gradgrind, who was the person overhearing, stepped
+forth into the light and said, ‘Louisa, never [[Wonder|wonder]]!’
 
-Herein lay the spring of the mechanical art and mystery of educating the
+Herein lay the [[spring]] of the mechanical art and mystery of educating the
 reason without stooping to the cultivation of the sentiments and
-affections.  Never wonder.  By means of addition, subtraction,
+affections.  Never [[Wonder|wonder]].  By means of addition, subtraction,
 multiplication, and division, settle everything somehow, and never
-wonder.  Bring to me, says M’Choakumchild, yonder baby just able to walk,
-and I will engage that it shall never wonder.
+[[Wonder|wonder]].  Bring to me, says M’Choakumchild, yonder baby just able to walk,
+and I will engage that it shall never [[Wonder|wonder]].
 
 Now, besides very many babies just able to walk, there happened to be in
 Coketown a considerable population of babies who had been walking against
-time towards the infinite world, twenty, thirty, forty, fifty years and
+[[Time|time]] towards the infinite world, twenty, thirty, forty, fifty years and
 more.  These portentous infants being alarming creatures to stalk about
 in any human society, the eighteen denominations incessantly scratched
 one another’s faces and pulled one another’s hair by way of agreeing on
@@ -42,24 +42,24 @@ the steps to be taken for their improvement—which they never did; a
 surprising circumstance, when the happy adaptation of the means to the
 end is considered.  Still, although they differed in every other
 particular, conceivable and inconceivable (especially inconceivable),
-they were pretty well united on the point that these unlucky infants were
-never to wonder.  Body number one, said they must take everything on
-trust.  Body number two, said they must take everything on political
-economy.  Body number three, wrote leaden little books for them, showing
+they were pretty [[Well|well]] united on the point that these unlucky infants were
+never to [[Wonder|wonder]].  [[Body]] number one, said they must take everything on
+trust.  [[Body]] number two, said they must take everything on political
+economy.  [[Body]] number three, wrote leaden little books for them, showing
 how the good grown-up baby invariably got to the Savings-bank, and the
-bad grown-up baby invariably got transported.  Body number four, under
-dreary pretences of being droll (when it was very melancholy indeed),
+bad grown-up baby invariably got transported.  [[Body]] number four, under
+dreary pretences of being droll (when it was very [[Melancholy|melancholy]] indeed),
 made the shallowest pretences of concealing pitfalls of knowledge, into
 which it was the duty of these babies to be smuggled and inveigled.  But,
-all the bodies agreed that they were never to wonder.
+all the bodies agreed that they were never to [[Wonder|wonder]].
 
 There was a library in Coketown, to which general access was easy.  Mr.
 Gradgrind greatly tormented his mind about what the people read in this
 library: a point whereon little rivers of tabular statements periodically
 flowed into the howling ocean of tabular statements, which no diver ever
 got to any depth in and came up sane.  It was a disheartening
-circumstance, but a melancholy fact, that even these readers persisted in
-wondering.  They wondered about human nature, human passions, human hopes
+circumstance, but a [[Melancholy|melancholy]] fact, that even these readers persisted in
+wondering.  They wondered about human [[Nature|nature]], human passions, human hopes
 and fears, the struggles, triumphs and defeats, the cares and joys and
 sorrows, the lives and deaths of common men and women!  They sometimes,
 after fifteen hours’ work, sat down to read mere fables about men and
@@ -71,7 +71,7 @@ eccentric sum, and he never could make out how it yielded this
 unaccountable product.
 
 ‘I am sick of my life, Loo.  I, hate it altogether, and I hate everybody
-except you,’ said the unnatural young Thomas Gradgrind in the
+except you,’ said the unnatural young [[Thomas Gradgrind]] in the
 hair-cutting chamber at twilight.
 
 ‘You don’t hate Sissy, Tom?’
@@ -86,16 +86,16 @@ of us.  They’ll bother her head off, I think, before they have done with
 her.  Already she’s getting as pale as wax, and as heavy as—I am.’
 
 Young Thomas expressed these sentiments sitting astride of a chair before
-the fire, with his arms on the back, and his sulky face on his arms.  His
+the [[Fire|fire]], with his arms on the back, and his sulky face on his arms.  His
 sister sat in the darker corner by the fireside, now looking at him, now
 looking at the bright sparks as they dropped upon the hearth.
 
 ‘As to me,’ said Tom, tumbling his hair all manner of ways with his sulky
-hands, ‘I am a Donkey, that’s what _I_ am.  I am as obstinate as one, I
+hands, ‘I am a [[donkey|Donkey]], that’s what _I_ am.  I am as obstinate as one, I
 am more stupid than one, I get as much pleasure as one, and I should like
 to kick like one.’
 
-‘Not me, I hope, Tom?’
+‘Not me, I [[Hope|hope]], Tom?’
 
 ‘No, Loo; I wouldn’t hurt _you_.  I made an exception of you at first.  I
 don’t know what this—jolly old—Jaundiced Jail,’ Tom had paused to find a
@@ -112,13 +112,13 @@ it in unison with his spirit.
 ‘Because, Tom,’ said his sister, after silently watching the sparks
 awhile, ‘as I get older, and nearer growing up, I often sit wondering
 here, and think how unfortunate it is for me that I can’t reconcile you
-to home better than I am able to do.  I don’t know what other girls know.
+to [[Home|home]] better than I am able to do.  I don’t know what other girls know.
 I can’t play to you, or sing to you.  I can’t talk to you so as to
 lighten your mind, for I never see any amusing sights or read any amusing
 books that it would be a pleasure or a relief to you to talk about, when
 you are tired.’
 
-‘Well, no more do I.  I am as bad as you in that respect; and I am a Mule
+‘[[Well]], no more do I.  I am as bad as you in that respect; and I am a Mule
 too, which you’re not.  If father was determined to make me either a Prig
 or a Mule, and I am not a Prig, why, it stands to reason, I must be a
 Mule.  And so I am,’ said Tom, desperately.
@@ -141,9 +141,9 @@ corner again.
 spitefully setting his teeth, ‘and all the Figures, and all the people
 who found them out: and I wish I could put a thousand barrels of
 gunpowder under them, and blow them all up together!  However, when I go
-to live with old Bounderby, I’ll have my revenge.’
+to live with old Bounderby, I’ll have my [[Revenge|revenge]].’
 
-‘Your revenge, Tom?’
+‘Your [[Revenge|revenge]], Tom?’
 
 ‘I mean, I’ll enjoy myself a little, and go about and see something, and
 hear something.  I’ll recompense myself for the way in which I have been
@@ -152,14 +152,14 @@ brought up.’
 ‘But don’t disappoint yourself beforehand, Tom.  Mr. Bounderby thinks as
 father thinks, and is a great deal rougher, and not half so kind.’
 
-‘Oh!’ said Tom, laughing; ‘I don’t mind that.  I shall very well know how
+‘Oh!’ said Tom, laughing; ‘I don’t mind that.  I shall very [[Well|well]] know how
 to manage and smooth old Bounderby!’
 
 Their shadows were defined upon the wall, but those of the high presses
 in the room were all blended together on the wall and on the ceiling, as
 if the brother and sister were overhung by a dark cavern.  Or, a fanciful
-imagination—if such treason could have been there—might have made it out
-to be the shadow of their subject, and of its lowering association with
+[[Imagination|imagination]]—if such treason could have been there—might have made it out
+to be the [[Shadow|shadow]] of their subject, and of its lowering association with
 their future.
 
 ‘What is your great mode of smoothing and managing, Tom?  Is it a
@@ -173,27 +173,27 @@ was sure you would be easier with me than this.”  That’ll bring him
 about, or nothing will.’
 
 After waiting for some answering remark, and getting none, Tom wearily
-relapsed into the present time, and twined himself yawning round and
+relapsed into the present [[Time|time]], and twined himself yawning round and
 about the rails of his chair, and rumpled his head more and more, until
 he suddenly looked up, and asked:
 
-‘Have you gone to sleep, Loo?’
+‘Have you gone to [[Sleep|sleep]], Loo?’
 
-‘No, Tom.  I am looking at the fire.’
+‘No, Tom.  I am looking at the [[Fire|fire]].’
 
 ‘You seem to find more to look at in it than ever I could find,’ said
 Tom.  ‘Another of the advantages, I suppose, of being a girl.’
 
 ‘Tom,’ enquired his sister, slowly, and in a curious tone, as if she were
-reading what she asked in the fire, and it was not quite plainly written
+reading what she asked in the [[Fire|fire]], and it was not quite plainly written
 there, ‘do you look forward with any satisfaction to this change to Mr.
 Bounderby’s?’
 
 ‘Why, there’s one thing to be said of it,’ returned Tom, pushing his
-chair from him, and standing up; ‘it will be getting away from home.’
+chair from him, and standing up; ‘it will be getting away from [[Home|home]].’
 
 ‘There is one thing to be said of it,’ Louisa repeated in her former
-curious tone; ‘it will be getting away from home.  Yes.’
+curious tone; ‘it will be getting away from [[Home|home]].  Yes.’
 
 ‘Not but what I shall be very unwilling, both to leave you, Loo, and to
 leave you here.  But I must go, you know, whether I like it or not; and I
@@ -204,10 +204,10 @@ than where I should lose it altogether.  Don’t you see?’
 
 The answer was so long in coming, though there was no indecision in it,
 that Tom went and leaned on the back of her chair, to contemplate the
-fire which so engrossed her, from her point of view, and see what he
+[[Fire|fire]] which so engrossed her, from her point of view, and see what he
 could make of it.
 
-‘Except that it is a fire,’ said Tom, ‘it looks to me as stupid and blank
+‘Except that it is a [[Fire|fire]],’ said Tom, ‘it looks to me as stupid and blank
 as everything else looks.  What do you see in it?  Not a circus?’
 
 ‘I don’t see anything in it, Tom, particularly.  But since I have been
@@ -216,15 +216,15 @@ looking at it, I have been wondering about you and me, grown up.’
 ‘Wondering again!’ said Tom.
 
 ‘I have such unmanageable thoughts,’ returned his sister, ‘that they
-_will_ wonder.’
+_will_ [[Wonder|wonder]].’
 
 ‘Then I beg of you, Louisa,’ said Mrs. Gradgrind, who had opened the door
 without being heard, ‘to do nothing of that description, for goodness’
 sake, you inconsiderate girl, or I shall never hear the last of it from
 your father.  And, Thomas, it is really shameful, with my poor head
 continually wearing me out, that a boy brought up as you have been, and
-whose education has cost what yours has, should be found encouraging his
-sister to wonder, when he knows his father has expressly said that she is
+whose [[Education|education]] has cost what yours has, should be found encouraging his
+sister to [[Wonder|wonder]], when he knows his father has expressly said that she is
 not to do it.’
 
 Louisa denied Tom’s participation in the offence; but her mother stopped
@@ -233,13 +233,13 @@ health; for unless you had been encouraged, it is morally and physically
 impossible that you could have done it.’
 
 ‘I was encouraged by nothing, mother, but by looking at the red sparks
-dropping out of the fire, and whitening and dying.  It made me think,
-after all, how short my life would be, and how little I could hope to do
+dropping out of the [[Fire|fire]], and whitening and dying.  It made me think,
+after all, how short my life would be, and how little I could [[Hope|hope]] to do
 in it.’
 
 ‘Nonsense!’ said Mrs. Gradgrind, rendered almost energetic.  ‘Nonsense!
 Don’t stand there and tell me such stuff, Louisa, to my face, when you
-know very well that if it was ever to reach your father’s ears I should
+know very [[Well|well]] that if it was ever to reach your father’s ears I should
 never hear the last of it.  After all the trouble that has been taken
 with you!  After the lectures you have attended, and the experiments you
 have seen!  After I have heard you myself, when the whole of my right

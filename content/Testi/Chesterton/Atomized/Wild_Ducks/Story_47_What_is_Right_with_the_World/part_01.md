@@ -35,7 +35,7 @@ But I do say that the prominent personalities of the literary
 world are very largely the creations of their publishers,
 in so far as they are not solely the creations of their wives.
 Here is a small incident out of my own existence.
-I designed to write a sort of essay, divided into sections,
+I designed to write a sort of [[Essay|essay]], divided into sections,
 on one particular point of political error.  This fallacy,
 though small and scholastic at first sight, seemed to me
 to be the real mistake in most modern sociological works.
@@ -76,7 +76,7 @@ method of the publisher or editor making up the title,
 while the author makes up the remarks about it.  Any man
 with a large mind ought to be able to write about anything.
 Any really free man ought to be able to write to order.
-Some of the greatest books in the world--Pickwick, for instance--
+Some of the greatest books in the world--[[Pickwick]], for instance--
 were written to fulfil a scheme partly sketched out by a publisher.
 But I only brought together these two cases of titles that came
 to me from outside because they do illustrate the necessity
@@ -86,14 +86,14 @@ and too simple.  I would never have dreamed of announcing,
 like some discovery of my own, what is wrong with the world.
 What is wrong with the world is the devil, and what is right
 with it is God; the human race will travel for a few more million
-years in all sorts of muddle and reform, and when it perishes
+years in all sorts of muddle and [[Reform|reform]], and when it perishes
 of the last cold or heat it will still be within the limits
 of that very simple definition.  But in an age that has confused
 itself with such phrases as `optimist' and `pessimist',
 it is necessary to distinguish along more delicate lines.
 One of the strangest things about the use of the word `optimist'
 is that it is now so constantly used about the future.
-The house of man is criticised not as a house, but as a kind
+The [[house]] of man is criticised not as a [[house]], but as a kind
 of caravan; not by what it is; but by where it is going to.
 None are more vitally and recklessly otherworldly than those
 modern progressives who do not believe in another world.
@@ -123,12 +123,12 @@ yet taken his degree.  He has taken many other things.
 And so, sincerely speaking, there are no uneducated men.
 They may escape the trivial examinations, but not the tremendous
 examinations of existence.  The dependence of infancy,
-the enjoyment of animals, the love of woman, and the fear
-of death--these are more frightful and more fixed than
+the enjoyment of [[Animals|animals]], the [[Love|love]] of woman, and the [[Fear|fear]]
+of [[Death|death]]--these are more frightful and more fixed than
 all conceivable forms of the cultivation of the mind.
 It is idle to complain of schools and colleges being trivial.
 Schools and colleges must always be trivial.
 In no case will a college ever teach the important things.
 For before a man is twenty he has always learnt the important things.
 He has learnt them right or wrong, and he has learnt
-them all alone.
+them all [[Alone|alone]].

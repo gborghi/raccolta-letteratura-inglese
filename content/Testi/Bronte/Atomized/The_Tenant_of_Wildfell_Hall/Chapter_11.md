@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 11"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 11"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,9 +24,9 @@ You must suppose about three weeks passed over. Mrs. Graham and I were
 
 now established friends—or brother and sister, as we rather chose to
 
-consider ourselves. She called me Gilbert, by my express desire, and I
+consider ourselves. She called me Gilbert, by my express [[Desire|desire]], and I
 
-called her Helen, for I had seen that name written in her books. I
+called her [[Helen]], for I had seen that name written in her books. I
 
 seldom attempted to see her above twice a week; and still I made our
 
@@ -46,17 +46,17 @@ nonchalance was very hard to sustain, and I often felt myself a most
 
 confounded hypocrite with it all; I saw too, or rather I felt, that, in
 
-spite of herself, “I was not indifferent to her,” as the novel heroes
+spite of herself, “I was not indifferent to her,” as the [[Novel|novel]] heroes
 
 modestly express it, and while I thankfully enjoyed my present good
 
-fortune, I could not fail to wish and hope for something better in
+fortune, I could not fail to wish and [[Hope|hope]] for something better in
 
-future; but, of course, I kept such dreams entirely to myself.
+future; but, of course, I kept such [[Dreams|dreams]] entirely to myself.
 
 
 
-“Where are you going, Gilbert?” said Rose, one evening, shortly after
+“Where are you going, Gilbert?” said [[Rose]], one evening, shortly after
 
 tea, when I had been busy with the farm all day.
 
@@ -88,17 +88,17 @@ and put on such smart new gloves when you take a walk?”
 
 
 
-“Nonsense, child! I don’t go once in six weeks—what do you mean?”
+“Nonsense, [[Child|child]]! I don’t go once in six weeks—what do you mean?”
 
 
 
-“Well, but if I were you, I wouldn’t have so much to do with Mrs.
+“[[Well]], but if I were you, I wouldn’t have so much to do with Mrs.
 
 Graham.”
 
 
 
-“Why, Rose, are you, too, giving in to the prevailing opinion?”
+“Why, [[Rose]], are you, too, giving in to the prevailing opinion?”
 
 
 
@@ -108,7 +108,7 @@ lately, both at the Wilsons’ and the vicarage;—and besides, mamma says,
 
 if she were a proper person she would not be living there by
 
-herself—and don’t you remember last winter, Gilbert, all that about the
+herself—and don’t you remember last [[Winter|winter]], Gilbert, all that about the
 
 false name to the picture; and how she explained it—saying she had
 
@@ -120,11 +120,11 @@ then, how suddenly she started up and left the room when that person
 
 came—whom she took good care not to let us catch a glimpse of, and who
 
-Arthur, with such an air of mystery, told us was his mamma’s friend?”
+[[arthur|Arthur]], with such an air of mystery, told us was his mamma’s friend?”
 
 
 
-“Yes, Rose, I remember it all; and I can forgive your uncharitable
+“Yes, [[Rose]], I remember it all; and I can forgive your uncharitable
 
 conclusions; for, perhaps, if I did not know her myself, I should put
 
@@ -134,7 +134,7 @@ God, I do know her; and I should be unworthy the name of a man, if I
 
 could believe anything that was said against her, unless I heard it
 
-from her own lips.—I should as soon believe such things of you, Rose.”
+from her own lips.—I should as soon believe such things of you, [[Rose]].”
 
 
 
@@ -142,23 +142,23 @@ from her own lips.—I should as soon believe such things of you, Rose.”
 
 
 
-“Well, do you think I _could_ believe anything of the kind,—whatever
+“[[Well]], do you think I _could_ believe anything of the kind,—whatever
 
 the Wilsons and Millwards dared to whisper?”
 
 
 
-“I should hope _not_ indeed!”
+“I should [[Hope|hope]] _not_ indeed!”
 
 
 
-“And why not?—Because I know you—Well, and I know her just as well.”
+“And why not?—Because I know you—[[Well]], and I know her just as [[Well|well]].”
 
 
 
 “Oh, no! you know nothing of her former life; and last year, at this
 
-time, you did not know that such a person existed.”
+[[Time|time]], you did not know that such a person existed.”
 
 
 
@@ -166,7 +166,7 @@ time, you did not know that such a person existed.”
 
 into the heart, and learning more of the height, and breadth, and depth
 
-of another’s soul in one hour than it might take you a lifetime to
+of another’s [[Soul|soul]] in one hour than it might take you a lifetime to
 
 discover, if he or she were not disposed to reveal it, or if you had
 
@@ -190,7 +190,7 @@ not the sense to understand it.”
 
 
 
-“But she must know some time, if you go on.”
+“But she must know some [[Time|time]], if you go on.”
 
 
 
@@ -204,7 +204,7 @@ right to interfere between us.”
 
 “But if you knew how they talk you would be more careful, for her sake
 
-as well as for your own. Jane Wilson thinks your visits to the old hall
+as [[Well|well]] as for your own. Jane Wilson thinks your visits to the old hall
 
 but another proof of her depravity—”
 
@@ -218,7 +218,7 @@ but another proof of her depravity—”
 
 
 
-“I hope she is.”
+“I [[Hope|hope]] she is.”
 
 
 
@@ -234,13 +234,13 @@ but another proof of her depravity—”
 
 
 
-“Oh, I never thought of this!—And so they dare to turn my friendship
+“Oh, I never thought of this!—And so they dare to turn my [[Friendship|friendship]]
 
 into food for further scandal against her!—That proves the falsehood of
 
 their other lies, at all events, if any proof were wanting.—Mind you
 
-contradict them, Rose, whenever you can.”
+contradict them, [[Rose]], whenever you can.”
 
 
 
@@ -252,11 +252,11 @@ they think.”
 
 
 
-“Well, then, I won’t go to-day, as it’s getting latish. But oh, deuce
+“[[Well]], then, I won’t go to-day, as it’s getting latish. But oh, deuce
 
 take their cursed, envenomed tongues!” I muttered, in the bitterness of
 
-my soul.
+my [[Soul|soul]].
 
 
 
@@ -264,17 +264,17 @@ And just at that moment the vicar entered the room: we had been too
 
 much absorbed in our conversation to observe his knock. After his
 
-customary cheerful and fatherly greeting of Rose, who was rather a
+customary cheerful and fatherly greeting of [[Rose]], who was rather a
 
 favourite with the old gentleman, he turned somewhat sternly to me:—
 
 
 
-“Well, sir!” said he, “you’re quite a stranger. It is—let—me—see,” he
+“[[Well]], sir!” said he, “you’re quite a stranger. It is—let—me—see,” he
 
 continued, slowly, as he deposited his ponderous bulk in the arm-chair
 
-that Rose officiously brought towards him; “it is just—six-weeks—by my
+that [[Rose]] officiously brought towards him; “it is just—six-weeks—by my
 
 reckoning, since you darkened—my—door!” He spoke it with emphasis, and
 
@@ -316,7 +316,7 @@ Just then my mother came in, and created a diversion in my favour by
 
 her loquacious and animated welcome of the reverend guest. She
 
-regretted deeply that he had not come a little earlier, in time for
+regretted deeply that he had not come a little earlier, in [[Time|time]] for
 
 tea, but offered to have some immediately prepared, if he would do her
 
@@ -324,7 +324,7 @@ the favour to partake of it.
 
 
 
-“Not any for me, I thank you,” replied he; “I shall be at home in a few
+“Not any for me, I thank you,” replied he; “I shall be at [[Home|home]] in a few
 
 minutes.”
 
@@ -352,7 +352,7 @@ bell and order the favoured beverage.
 
 “I thought,” continued he, “I’d just look in upon you as I passed, and
 
-taste your home-brewed ale. I’ve been to call on Mrs. Graham.”
+taste your [[Home|home]]-brewed ale. I’ve been to call on Mrs. Graham.”
 
 
 
@@ -414,9 +414,9 @@ hostess:—
 
 
 
-“Hardened, I fear—hardened!” he replied, with a despondent shake of the
+“Hardened, I [[Fear|fear]]—hardened!” he replied, with a despondent shake of the
 
-head; “and, at the same time, there was a strong display of
+head; “and, at the same [[Time|time]], there was a strong display of
 
 unchastened, misdirected passions. She turned white in the face, and
 
@@ -426,7 +426,7 @@ offered no extenuation or defence; and with a kind of shameless
 
 calmness—shocking indeed to witness in one so young—as good as told me
 
-that my remonstrance was unavailing, and my pastoral advice quite
+that my remonstrance was unavailing, and my [[Pastoral|pastoral]] advice quite
 
 thrown away upon her—nay, that my very _presence was_ displeasing while
 
@@ -452,7 +452,7 @@ no more, but took the wiser part of snatching up my hat and bolting
 
 from the room, slamming the door behind me, with a bang that shook the
 
-house to its foundations, and made my mother scream, and gave a
+[[house]] to its foundations, and made my mother scream, and gave a
 
 momentary relief to my excited feelings.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES"
+title: "The [[Pickwick]] Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -18,20 +18,20 @@ CHAPTER XXIII. IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES
 TO THE RETURN MATCH BETWEEN HIMSELF AND MR. TROTTER
 
 In a small room in the vicinity of the stableyard, betimes in the
-morning, which was ushered in by Mr. Pickwick’s adventure with the
+morning, which was ushered in by Mr. [[Pickwick]]’s adventure with the
 middle--aged lady in the yellow curl-papers, sat Mr. Weller, senior,
-preparing himself for his journey to London. He was sitting in an
+preparing himself for his [[Journey|journey]] to [[London]]. He was sitting in an
 excellent attitude for having his portrait taken; and here it is.
 
 It is very possible that at some earlier period of his career, Mr.
 Weller’s profile might have presented a bold and determined outline. His
 face, however, had expanded under the influence of good living, and a
-disposition remarkable for resignation; and its bold, fleshy curves had
+disposition remarkable for [[Resignation|resignation]]; and its bold, fleshy curves had
 so far extended beyond the limits originally assigned them, that unless
 you took a full view of his countenance in front, it was difficult to
 distinguish more than the extreme tip of a very rubicund nose. His chin,
-from the same cause, had acquired the grave and imposing form which is
-generally described by prefixing the word ‘double’ to that expressive
+from the same cause, had acquired the [[Grave|grave]] and imposing form which is
+generally described by prefixing the word ‘[[Double|double]]’ to that expressive
 feature; and his complexion exhibited that peculiarly mottled
 combination of colours which is only to be seen in gentlemen of his
 profession, and in underdone roast beef. Round his neck he wore a
@@ -41,14 +41,14 @@ of the one, from the folds of the other. Over this, he mounted a long
 waistcoat of a broad pink-striped pattern, and over that again, a wide-
 skirted green coat, ornamented with large brass buttons, whereof the two
 which garnished the waist, were so far apart, that no man had ever
-beheld them both at the same time. His hair, which was short, sleek, and
+beheld them both at the same [[Time|time]]. His hair, which was short, sleek, and
 black, was just visible beneath the capacious brim of a low-crowned
 brown hat. His legs were encased in knee-cord breeches, and painted top-
 boots; and a copper watch-chain, terminating in one seal, and a key of
 the same material, dangled loosely from his capacious waistband.
 
-We have said that Mr. Weller was engaged in preparing for his journey to
-London--he was taking sustenance, in fact. On the table before him,
+We have said that Mr. Weller was engaged in preparing for his [[Journey|journey]] to
+[[London]]--he was taking sustenance, in fact. On the table before him,
 stood a pot of ale, a cold round of beef, and a very respectable-looking
 loaf, to each of which he distributed his favours in turn, with the most
 rigid impartiality. He had just cut a mighty slice from the latter, when
@@ -82,7 +82,7 @@ are ‘ceptions to ev’ry rule. I have heerd how many ordinary women one
 widder’s equal to in pint o’ comin’ over you. I think it’s five-and-
 twenty, but I don’t rightly know vether it ain’t more.’
 
-‘Well; that’s pretty well,’ said Sam.
+‘[[Well]]; that’s pretty [[Well|well]],’ said Sam.
 
 ‘Besides,’ continued Mr. Weller, not noticing the interruption, ‘that’s
 a wery different thing. You know what the counsel said, Sammy, as
@@ -101,21 +101,21 @@ vay; scorned it, Sammy.’ In the excitement of feeling produced by this
 agonising reflection, Mr. Weller rang the bell, and ordered an
 additional pint of ale.
 
-‘Well, it’s no use talking about it now,’ said Sam. ‘It’s over, and
+‘[[Well]], it’s no use talking about it now,’ said Sam. ‘It’s over, and
 can’t be helped, and that’s one consolation, as they always says in
 Turkey, ven they cuts the wrong man’s head off. It’s my innings now,
 gov’nor, and as soon as I catches hold o’ this ‘ere Trotter, I’ll have a
 good ‘un.’
 
-‘I hope you will, Sammy. I hope you will,’ returned Mr. Weller. ‘Here’s
+‘I [[Hope|hope]] you will, Sammy. I [[Hope|hope]] you will,’ returned Mr. Weller. ‘Here’s
 your health, Sammy, and may you speedily vipe off the disgrace as you’ve
-inflicted on the family name.’ In honour of this toast Mr. Weller
+inflicted on the family name.’ In [[Honour|honour]] of this toast Mr. Weller
 imbibed at a draught, at least two-thirds of a newly-arrived pint, and
 handed it over to his son, to dispose of the remainder, which he
 instantaneously did.
 
-‘And now, Sammy,’ said Mr. Weller, consulting a large double-faced
-silver watch that hung at the end of the copper chain. ‘Now it’s time I
+‘And now, Sammy,’ said Mr. Weller, consulting a large [[Double|double]]-faced
+silver watch that hung at the end of the copper chain. ‘Now it’s [[Time|time]] I
 was up at the office to get my vay-bill and see the coach loaded; for
 coaches, Sammy, is like guns--they requires to be loaded with wery great
 care, afore they go off.’
@@ -125,11 +125,11 @@ filial smile. His revered parent continued in a solemn tone--
 
 ‘I’m a-goin’ to leave you, Samivel, my boy, and there’s no telling ven I
 shall see you again. Your mother-in-law may ha’ been too much for me, or
-a thousand things may have happened by the time you next hears any news
+a thousand things may have happened by the [[Time|time]] you next hears any news
 o’ the celebrated Mr. Veller o’ the Bell Savage. The family name depends
-wery much upon you, Samivel, and I hope you’ll do wot’s right by it.
+wery much upon you, Samivel, and I [[Hope|hope]] you’ll do wot’s right by it.
 Upon all little pints o’ breedin’, I know I may trust you as vell as if
-it was my own self. So I’ve only this here one little bit of adwice to
+it was my own [[Self|self]]. So I’ve only this here one little bit of adwice to
 give you. If ever you gets to up’ards o’ fifty, and feels disposed to go
 a-marryin’ anybody--no matter who--jist you shut yourself up in your own
 room, if you’ve got one, and pison yourself off hand. Hangin’s wulgar,
@@ -139,10 +139,10 @@ affecting words, Mr. Weller looked steadfastly on his son, and turning
 slowly upon his heel, disappeared from his sight.
 
 In the contemplative mood which these words had awakened, Mr. Samuel
-Weller walked forth from the Great White Horse when his father had left
+Weller walked forth from the Great White [[Horse]] when his father had left
 him; and bending his steps towards St. Clement’s Church, endeavoured to
-dissipate his melancholy, by strolling among its ancient precincts. He
-had loitered about, for some time, when he found himself in a retired
+dissipate his [[Melancholy|melancholy]], by strolling among its ancient precincts. He
+had loitered about, for some [[Time|time]], when he found himself in a retired
 spot--a kind of courtyard of venerable appearance--which he discovered
 had no other outlet than the turning by which he had entered. He was
 about retracing his steps, when he was suddenly transfixed to the spot
@@ -152,7 +152,7 @@ now proceed to relate.
 Mr. Samuel Weller had been staring up at the old brick houses now and
 then, in his deep abstraction, bestowing a wink upon some healthy-
 looking servant girl as she drew up a blind, or threw open a bedroom
-window, when the green gate of a garden at the bottom of the yard
+[[Window|window]], when the green gate of a [[Garden|garden]] at the [[Bottom|bottom]] of the yard
 opened, and a man having emerged therefrom, closed the green gate very
 carefully after him, and walked briskly towards the very spot where Mr.
 Weller was standing.
@@ -176,11 +176,11 @@ however, he was not long in perceiving that he must pass Mr. Samuel
 Weller to get away. He therefore resumed his brisk pace, and advanced,
 staring straight before him. The most extraordinary thing about the man
 was, that he was contorting his face into the most fearful and
-astonishing grimaces that ever were beheld. Nature’s handiwork never was
+astonishing grimaces that ever were beheld. [[Nature]]’s handiwork never was
 disguised with such extraordinary artificial carving, as the man had
 overlaid his countenance with in one moment.
 
-‘Well!’ said Mr. Weller to himself, as the man approached. ‘This is wery
+‘[[Well]]!’ said Mr. Weller to himself, as the man approached. ‘This is wery
 odd. I could ha’ swore it was him.’
 
 Up came the man, and his face became more frightfully distorted than
@@ -202,14 +202,14 @@ The stranger stopped.
 ‘Hollo!’ repeated Sam, still more gruffly.
 
 The man with the horrible face looked, with the greatest surprise, up
-the court, and down the court, and in at the windows of the houses--
-everywhere but at Sam Weller--and took another step forward, when he was
+the [[Court|court]], and down the [[Court|court]], and in at the windows of the houses--
+everywhere but at [[Sam Weller]]--and took another step forward, when he was
 brought to again by another shout.
 
-‘Hollo, you sir!’ said Sam, for the third time.
+‘Hollo, you sir!’ said Sam, for the third [[Time|time]].
 
 There was no pretending to mistake where the voice came from now, so the
-stranger, having no other resource, at last looked Sam Weller full in
+stranger, having no other resource, at last looked [[Sam Weller]] full in
 the face.
 
 ‘It won’t do, Job Trotter,’ said Sam. ‘Come! None o’ that ‘ere nonsense.
@@ -227,7 +227,7 @@ Mr. Walker!’
 ‘Glad!’ exclaimed Job Trotter; ‘Oh, Mr. Walker, if you had but known how
 I have looked forward to this meeting! It is too much, Mr. Walker; I
 cannot bear it, indeed I cannot.’ And with these words, Mr. Trotter
-burst into a regular inundation of tears, and, flinging his arms around
+burst into a regular inundation of [[Tears|tears]], and, flinging his arms around
 those of Mr. Weller, embraced him closely, in an ecstasy of joy.
 
 ‘Get off!’ cried Sam, indignant at this process, and vainly endeavouring
@@ -270,14 +270,14 @@ Sam eyed his companion for a few seconds, and then, as if actuated by a
 sudden impulse, complied with his request.
 
 ‘How,’ said Job Trotter, as they walked away, ‘how is your dear, good
-master? Oh, he is a worthy gentleman, Mr. Weller! I hope he didn’t catch
-cold, that dreadful night, Sir.’
+master? Oh, he is a worthy gentleman, Mr. Weller! I [[Hope|hope]] he didn’t catch
+cold, that dreadful [[Night|night]], Sir.’
 
 There was a momentary look of deep slyness in Job Trotter’s eye, as he
 said this, which ran a thrill through Mr. Weller’s clenched fist, as he
-burned with a desire to make a demonstration on his ribs. Sam
+burned with a [[Desire|desire]] to make a demonstration on his ribs. Sam
 constrained himself, however, and replied that his master was extremely
-well.
+[[Well|well]].
 
 ‘Oh, I am so glad,’ replied Mr. Trotter; ‘is he here?’
 
@@ -295,7 +295,7 @@ worse than ever.’
 ‘No, not at a boarding-school,’ replied Job Trotter, with the same sly
 look which Sam had noticed before; ‘not at a boarding-school.’
 
-‘At the house with the green gate?’ said Sam, eyeing his companion
+‘At the [[house]] with the green gate?’ said Sam, eyeing his companion
 closely.
 
 ‘No, no--oh, not there,’ replied Job, with a quickness very unusual to
@@ -305,13 +305,13 @@ him, ‘not there.’
 inside the gate by accident, perhaps?’
 
 ‘Why, Mr. Weller,’ replied Job, ‘I don’t mind telling you my little
-secrets, because, you know, we took such a fancy for each other when we
+[[Secrets|secrets]], because, you know, we took such a fancy for each other when we
 first met. You recollect how pleasant we were that morning?’
 
-‘Oh, yes,’ said Sam, impatiently. ‘I remember. Well?’
+‘Oh, yes,’ said Sam, impatiently. ‘I remember. [[Well]]?’
 
-‘Well,’ replied Job, speaking with great precision, and in the low tone
-of a man who communicates an important secret; ‘in that house with the
+‘[[Well]],’ replied Job, speaking with great precision, and in the low tone
+of a man who communicates an important secret; ‘in that [[house]] with the
 green gate, Mr. Weller, they keep a good many servants.’
 
 ‘So I should think, from the look on it,’ interposed Sam.
@@ -322,7 +322,7 @@ herself in life, to open a little shop in the chandlery way, you see.’
 
 Yes.’
 
-‘Yes, Mr. Weller. Well, Sir, I met her at a chapel that I go to; a very
+‘Yes, Mr. Weller. [[Well]], Sir, I met her at a chapel that I go to; a very
 neat little chapel in this town, Mr. Weller, where they sing the number
 four collection of hymns, which I generally carry about with me, in a
 little book, which you may perhaps have seen in my hand--and I got a
@@ -334,7 +334,7 @@ be the chandler.’
 with a side look of intense dislike.
 
 ‘The great advantage of this, Mr. Weller,’ continued Job, his eyes
-filling with tears as he spoke, ‘will be, that I shall be able to leave
+filling with [[Tears|tears]] as he spoke, ‘will be, that I shall be able to leave
 my present disgraceful service with that bad man, and to devote myself
 to a better and more virtuous life; more like the way in which I was
 brought up, Mr. Weller.’
@@ -351,14 +351,14 @@ Sam.
 ‘I was, sir,’ replied Job, heaving a deep sigh; ‘I was the idol of the
 place.’
 
-‘Ah,’ said Sam, ‘I don’t wonder at it. What a comfort you must ha’ been
+‘Ah,’ said Sam, ‘I don’t [[Wonder|wonder]] at it. What a comfort you must ha’ been
 to your blessed mother.’
 
 At these words, Mr. Job Trotter inserted an end of the pink handkerchief
 into the corner of each eye, one after the other, and began to weep
 copiously.
 
-‘Wot’s the matter with the man,’ said Sam, indignantly. ‘Chelsea water-
+‘Wot’s the matter with the man,’ said Sam, indignantly. ‘Chelsea [[Water|water]]-
 works is nothin’ to you. What are you melting vith now? The
 consciousness o’ willainy?’
 
@@ -375,8 +375,8 @@ speculation! Oh! Mr. Weller, it makes me shudder.’
 
 ‘Vell,’ said Sam, as they had now arrived near the hotel, ‘I vant to
 have a little bit o’ talk with you, Job; so if you’re not partickler
-engaged, I should like to see you at the Great White Horse to-night,
-somewheres about eight o’clock.’
+engaged, I should like to see you at the Great White [[Horse]] to-[[Night|night]],
+somewheres about eight o’[[Clock|clock]].’
 
 ‘I shall be sure to come,’ said Job.
 
@@ -388,13 +388,13 @@ and then I might cut you out, you know.’
 Sam’s hand with the utmost fervour, he walked away.
 
 ‘Take care, Job Trotter, take care,’ said Sam, looking after him, ‘or I
-shall be one too many for you this time. I shall, indeed.’ Having
+shall be one too many for you this [[Time|time]]. I shall, indeed.’ Having
 uttered this soliloquy, and looked after Job till he was to be seen no
 more, Mr. Weller made the best of his way to his master’s bedroom.
 
 ‘It’s all in training, Sir,’ said Sam.
 
-‘What’s in training, Sam?’ inquired Mr. Pickwick.
+‘What’s in training, Sam?’ inquired Mr. [[Pickwick]].
 
 ‘I’ve found ‘em out, Sir,’ said Sam.
 
@@ -403,14 +403,14 @@ more, Mr. Weller made the best of his way to his master’s bedroom.
 ‘That ‘ere queer customer, and the melan-cholly chap with the black
 hair.’
 
-‘Impossible, Sam!’ said Mr. Pickwick, with the greatest energy. ‘Where
+‘Impossible, Sam!’ said Mr. [[Pickwick]], with the greatest energy. ‘Where
 are they, Sam: where are they?’
 
-‘Hush, hush!’ replied Mr. Weller; and as he assisted Mr. Pickwick to
+‘Hush, hush!’ replied Mr. Weller; and as he assisted Mr. [[Pickwick]] to
 dress, he detailed the plan of action on which he proposed to enter.
 
-‘But when is this to be done, Sam?’ inquired Mr. Pickwick.
+‘But when is this to be done, Sam?’ inquired Mr. [[Pickwick]].
 
-‘All in good time, Sir,’ replied Sam.
+‘All in good [[Time|time]], Sir,’ replied Sam.
 
-Whether it was done in good time, or not, will be seen hereafter.
+Whether it was done in good [[Time|time]], or not, will be seen hereafter.

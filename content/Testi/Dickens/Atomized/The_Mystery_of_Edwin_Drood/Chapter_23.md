@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 22"
+title: "The Mystery of [[Edwin Drood]] — Chapter 22"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -19,11 +19,11 @@ A GRITTY STATE OF THINGS COMES ON
 
 
 Mr. Tartar’s chambers were the neatest, the cleanest, and the
-best-ordered chambers ever seen under the sun, moon, and stars. The
+best-ordered chambers ever seen under the sun, [[Moon|moon]], and [[Stars|stars]]. The
 floors were scrubbed to that extent, that you might have supposed the
-London blacks emancipated for ever, and gone out of the land for good.
+[[London]] blacks emancipated for ever, and gone out of the land for good.
 Every inch of brass-work in Mr. Tartar’s possession was polished and
-burnished, till it shone like a brazen mirror. No speck, nor spot, nor
+burnished, till it shone like a brazen [[Mirror|mirror]]. No speck, nor spot, nor
 spatter soiled the purity of any of Mr. Tartar’s household gods, large,
 small, or middle-sized. His sitting-room was like the admiral’s cabin,
 his bath-room was like a dairy, his sleeping-chamber, fitted all about
@@ -41,18 +41,18 @@ His gleaming little service of plate was so arranged upon his sideboard
 as that a slack salt-spoon would have instantly betrayed itself; his
 toilet implements were so arranged upon his dressing-table as that a
 toothpick of slovenly deportment could have been reported at a glance.
-So with the curiosities he had brought home from various voyages.
+So with the curiosities he had brought [[Home|home]] from various voyages.
 Stuffed, dried, repolished, or otherwise preserved, according to their
-kind; birds, fishes, reptiles, arms, articles of dress, shells,
+kind; [[Birds|birds]], fishes, reptiles, arms, articles of dress, shells,
 seaweeds, grasses, or memorials of coral reef; each was displayed in
 its especial place, and each could have been displayed in no better
 place. Paint and varnish seemed to be kept somewhere out of sight, in
 constant readiness to obliterate stray finger-marks wherever any might
 become perceptible in Mr. Tartar’s chambers. No man-of-war was ever
-kept more spick and span from careless touch. On this bright summer
-day, a neat awning was rigged over Mr. Tartar’s flower-garden as only a
+kept more spick and span from careless touch. On this bright [[Summer|summer]]
+day, a neat awning was rigged over Mr. Tartar’s flower-[[Garden|garden]] as only a
 sailor can rig it, and there was a sea-going air upon the whole effect,
-so delightfully complete, that the flower-garden might have appertained
+so delightfully complete, that the flower-[[Garden|garden]] might have appertained
 to stern-windows afloat, and the whole concern might have bowled away
 gallantly with all on board, if Mr. Tartar had only clapped to his lips
 the speaking-trumpet that was slung in a corner, and given hoarse
@@ -63,20 +63,20 @@ Mr. Tartar doing the honours of this gallant craft was of a piece with
 the rest. When a man rides an amiable hobby that shies at nothing and
 kicks nobody, it is only agreeable to find him riding it with a
 humorous sense of the droll side of the creature. When the man is a
-cordial and an earnest man by nature, and withal is perfectly fresh and
+cordial and an earnest man by [[Nature|nature]], and withal is perfectly fresh and
 genuine, it may be doubted whether he is ever seen to greater advantage
-than at such a time. So Rosa would have naturally thought (even if she
-hadn’t been conducted over the ship with all the homage due to the
+than at such a [[Time|time]]. So Rosa would have naturally thought (even if she
+hadn’t been conducted over the [[Ship|ship]] with all the homage due to the
 First Lady of the Admiralty, or First Fairy of the Sea), that it was
 charming to see and hear Mr. Tartar half laughing at, and half
 rejoicing in, his various contrivances. So Rosa would have naturally
 thought, anyhow, that the sunburnt sailor showed to great advantage
 when, the inspection finished, he delicately withdrew out of his
-admiral’s cabin, beseeching her to consider herself its Queen, and
-waving her free of his flower-garden with the hand that had had Mr.
+admiral’s cabin, beseeching her to consider herself its [[Queen]], and
+waving her free of his flower-[[Garden|garden]] with the hand that had had Mr.
 Crisparkle’s life in it.
 
-“Helena! Helena Landless! Are you there?”
+“[[Helena]]! [[Helena Landless]]! Are you there?”
 
 “Who speaks to me? Not Rosa?” Then a second handsome face appearing.
 
@@ -86,23 +86,23 @@ Crisparkle’s life in it.
 
 “I—I don’t quite know,” said Rosa with a blush; “unless I am dreaming!”
 
-Why with a blush? For their two faces were alone with the other
-flowers. Are blushes among the fruits of the country of the magic
+Why with a blush? For their two faces were [[Alone|alone]] with the other
+[[Flowers|flowers]]. Are blushes among the fruits of the country of the [[Magic|magic]]
 bean-stalk?
 
-“_I_ am not dreaming,” said Helena, smiling. “I should take more for
+“_I_ am not dreaming,” said [[Helena]], smiling. “I should take more for
 granted if I were. How do we come together—or so near together—so very
 unexpectedly?”
 
 Unexpectedly indeed, among the dingy gables and chimneypots of P. J.
-T.’s connection, and the flowers that had sprung from the salt sea. But
+T.’s connection, and the [[Flowers|flowers]] that had sprung from the salt sea. But
 Rosa, waking, told in a hurry how they came to be together, and all the
 why and wherefore of that matter.
 
 “And Mr. Crisparkle is here,” said Rosa, in rapid conclusion; “and,
 could you believe it? long ago he saved his life!”
 
-“I could believe any such thing of Mr. Crisparkle,” returned Helena,
+“I could believe any such thing of Mr. Crisparkle,” returned [[Helena]],
 with a mantling face.
 
 (More blushes in the bean-stalk country!)
@@ -110,14 +110,14 @@ with a mantling face.
 “Yes, but it wasn’t Crisparkle,” said Rosa, quickly putting in the
 correction.
 
-“I don’t understand, love.”
+“I don’t understand, [[Love|love]].”
 
 “It was very nice of Mr. Crisparkle to be saved,” said Rosa, “and he
 couldn’t have shown his high opinion of Mr. Tartar more expressively.
 But it was Mr. Tartar who saved him.”
 
-Helena’s dark eyes looked very earnestly at the bright face among the
-leaves, and she asked, in a slower and more thoughtful tone:
+[[Helena]]’s dark eyes looked very earnestly at the bright face among the
+[[Leaves|leaves]], and she asked, in a slower and more thoughtful tone:
 
 “Is Mr. Tartar with you now, dear?”
 
@@ -126,29 +126,29 @@ a beautiful place!”
 
 “Is it?”
 
-“It is like the inside of the most exquisite ship that ever sailed. It
+“It is like the inside of the most exquisite [[Ship|ship]] that ever sailed. It
 is like—it is like—”
 
-“Like a dream?” suggested Helena.
+“Like [[A Dream|a dream]]?” suggested [[Helena]].
 
-Rosa answered with a little nod, and smelled the flowers.
+Rosa answered with a little nod, and smelled the [[Flowers|flowers]].
 
-Helena resumed, after a short pause of silence, during which she seemed
+[[Helena]] resumed, after a short pause of [[Silence|silence]], during which she seemed
 (or it was Rosa’s fancy) to compassionate somebody: “My poor Neville is
 reading in his own room, the sun being so very bright on this side just
 now. I think he had better not know that you are so near.”
 
 “O, I think so too!” cried Rosa very readily.
 
-“I suppose,” pursued Helena, doubtfully, “that he must know by-and-by
+“I suppose,” pursued [[Helena]], doubtfully, “that he must know by-and-by
 all you have told me; but I am not sure. Ask Mr. Crisparkle’s advice,
 my darling. Ask him whether I may tell Neville as much or as little of
 what you have told me as I think best.”
 
 Rosa subsided into her state-cabin, and propounded the question. The
-Minor Canon was for the free exercise of Helena’s judgment.
+Minor Canon was for the free exercise of [[Helena]]’s judgment.
 
-“I thank him very much,” said Helena, when Rosa emerged again with her
+“I thank him very much,” said [[Helena]], when Rosa emerged again with her
 report. “Ask him whether it would be best to wait until any more
 maligning and pursuing of Neville on the part of this wretch shall
 disclose itself, or to try to anticipate it: I mean, so far as to find
@@ -156,39 +156,39 @@ out whether any such goes on darkly about us?”
 
 The Minor Canon found this point so difficult to give a confident
 opinion on, that, after two or three attempts and failures, he
-suggested a reference to Mr. Grewgious. Helena acquiescing, he betook
+suggested a reference to Mr. Grewgious. [[Helena]] acquiescing, he betook
 himself (with a most unsuccessful assumption of lounging indifference)
 across the quadrangle to P. J. T.’s, and stated it. Mr. Grewgious held
 decidedly to the general principle, that if you could steal a march
 upon a brigand or a wild beast, you had better do it; and he also held
-decidedly to the special case, that John Jasper was a brigand and a
+decidedly to the special case, that [[John Jasper]] was a brigand and a
 wild beast in combination.
 
 Thus advised, Mr. Crisparkle came back again and reported to Rosa, who
-in her turn reported to Helena. She now steadily pursuing her train of
-thought at her window, considered thereupon.
+in her turn reported to [[Helena]]. She now steadily pursuing her train of
+thought at her [[Window|window]], considered thereupon.
 
 “We may count on Mr. Tartar’s readiness to help us, Rosa?” she
 inquired.
 
 O yes! Rosa shyly thought so. O yes, Rosa shyly believed she could
 almost answer for it. But should she ask Mr. Crisparkle? “I think your
-authority on the point as good as his, my dear,” said Helena, sedately,
-“and you needn’t disappear again for that.” Odd of Helena!
+authority on the point as good as his, my dear,” said [[Helena]], sedately,
+“and you needn’t disappear again for that.” Odd of [[Helena]]!
 
-“You see, Neville,” Helena pursued after more reflection, “knows no one
+“You see, Neville,” [[Helena]] pursued after more reflection, “knows no one
 else here: he has not so much as exchanged a word with any one else
 here. If Mr. Tartar would call to see him openly and often; if he would
 spare a minute for the purpose, frequently; if he would even do so,
 almost daily; something might come of it.”
 
 “Something might come of it, dear?” repeated Rosa, surveying her
-friend’s beauty with a highly perplexed face. “Something might?”
+friend’s [[Beauty|beauty]] with a highly perplexed face. “Something might?”
 
 “If Neville’s movements are really watched, and if the purpose really
 is to isolate him from all friends and acquaintance and wear his daily
 life out grain by grain (which would seem to be the threat to you),
-does it not appear likely,” said Helena, “that his enemy would in some
+does it not appear likely,” said [[Helena]], “that his enemy would in some
 way communicate with Mr. Tartar to warn him off from Neville? In which
 case, we might not only know the fact, but might know from Mr. Tartar
 what the terms of the communication were.”
@@ -203,14 +203,14 @@ little confusion between the inside of the state-cabin and out—had
 declared his readiness to act as she had suggested, and to enter on his
 task that very day.
 
-“I thank him from my heart,” said Helena. “Pray tell him so.”
+“I thank him from my heart,” said [[Helena]]. “Pray tell him so.”
 
-Again not a little confused between the Flower-garden and the Cabin,
+Again not a little confused between the Flower-[[Garden|garden]] and the Cabin,
 Rosa dipped in with her message, and dipped out again with more
 assurances from Mr. Tartar, and stood wavering in a divided state
-between Helena and him, which proved that confusion is not always
+between [[Helena]] and him, which proved that confusion is not always
 necessarily awkward, but may sometimes present a very pleasant
 appearance.
 
-“And now, darling,” said Helena, “we will be mindful of the caution
+“And now, darling,” said [[Helena]], “we will be mindful of the caution
 that has restricted us to this interview for the present, and will

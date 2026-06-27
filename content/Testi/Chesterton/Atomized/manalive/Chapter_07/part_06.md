@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 1 (part 6)"
+title: "[[manalive]] — Chapter 1 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -15,14 +15,14 @@ tags:
 
 
 "Emerson Eames was an eccentric in many ways, but his throne
-in philosophy and metaphysics was of international eminence;
+in [[philosophy]] and metaphysics was of international eminence;
 the university could hardly have afforded to lose him, and, moreover,
 a don has only to continue any of his bad habits long enough
 to make them a part of the British Constitution.  The bad habits
-of Emerson Eames were to sit up all night and to be a student
+of Emerson Eames were to sit up all [[Night|night]] and to be a student
 of Schopenhauer.  Personally, he was a lean, lounging sort of man,
 with a blond pointed beard, not so very much older than his
-pupil Smith in the matter of mere years, but older by centuries
+pupil [[smith|Smith]] in the matter of mere years, but older by centuries
 in the two essential respects of having a European reputation
 and a bald head.
 
@@ -36,7 +36,7 @@ living authority on the pessimist thinkers--'
 "`All thinkers,' said Eames, `are pessimist thinkers.'
 
 "After a patch of pause, not the first--for this depressing conversation
-had gone on for some hours with alternations of cynicism and silence--
+had gone on for some hours with alternations of cynicism and [[Silence|silence]]--
 the Warden continued with his air of weary brilliancy:  `It's all a question
 of wrong calculation.  The moth flies into the candle because he doesn't
 happen to know that the game is not worth the candle.  The wasp gets
@@ -57,13 +57,13 @@ like the man that wanders about the coulisse of a theater.
 He has only opened the wrong door and come into the right place.
 He sees things at the right angle.  But the common world--'
 
-"`Oh, hang the common world!' said the sullen Smith, letting his fist
-fall on the table in an idle despair.
+"`Oh, hang the common world!' said the sullen [[smith|Smith]], letting his fist
+fall on the table in an idle [[Despair|despair]].
 
 "`Let's give it a bad name first,' said the Professor calmly,
 `and then hang it.  A puppy with hydrophobia would probably struggle
 for life while we killed it; but if we were kind we should kill it.
-So an omniscient god would put us out of our pain.
+So an omniscient god would put us out of our [[Pain|pain]].
 He would strike us dead.'
 
 "`Why doesn't he strike us dead?' asked the undergraduate abstractedly,
@@ -86,26 +86,26 @@ Then he saw behind it the chambered barrel and cocked hammer of
 a revolver, and behind that the flushed and rather heavy face of Smith,
 apparently quite unchanged, or even more mild than before.
 
-"`I'll help you out of your hole, old man,' said Smith,
+"`I'll help you out of your hole, old man,' said [[smith|Smith]],
 with rough tenderness.  `I'll put the puppy out of his pain.'
 
 "Emerson Eames retreated towards the window.  `Do you mean
 to kill me?' he cried.
 
 "`It's not a thing I'd do for every one,' said Smith with emotion;
-`but you and I seem to have got so intimate to-night, somehow.
+`but you and I seem to have got so intimate to-[[Night|night]], somehow.
 I know all your troubles now, and the only cure, old chap.'
 
 "`Put that thing down,' shouted the Warden.
 
-"`It'll soon be over, you know,' said Smith with the air of a
-sympathetic dentist.  And as the Warden made a run for the window
+"`It'll soon be over, you know,' said [[smith|Smith]] with the air of a
+sympathetic dentist.  And as the Warden made a run for the [[Window|window]]
 and balcony, his benefactor followed him with a firm step
 and a compassionate expression.
 
 "Both men were perhaps surprised to see that the gray and white
 of early daybreak had already come.  One of them, however,
-had emotions calculated to swallow up surprise.  Brakespeare College
+had emotions calculated to [[Swallow|swallow]] up surprise.  Brakespeare College
 was one of the few that retained real traces of Gothic ornament,
 and just beneath Dr. Eames's balcony there ran out what had perhaps
 been a flying buttress, still shapelessly shaped into gray beasts
@@ -114,16 +114,16 @@ With an ungainly and most courageous leap, Eames sprang out on this
 antique bridge, as the only possible mode of escape from the maniac.
 He sat astride of it, still in his academic gown, dangling his
 long thin legs, and considering further chances of flight.
-The whitening daylight opened under as well as over him that
+The whitening daylight opened under as [[Well|well]] as over him that
 impression of vertical infinity already remarked about the little
 lakes round Brakespeare.  Looking down and seeing the spires
-and chimneys pendent in the pools, they felt alone in space.
+and chimneys pendent in the pools, they felt [[Alone|alone]] in space.
 They felt as if they were looking over the edge from the North Pole
 and seeing the South Pole below.
 
 "`Hang the world, we said,' observed Smith, `and the world is hanged.
-"He has hanged the world upon nothing," says the Bible.  Do you like being
+"He has hanged the world upon nothing," says the [[Bible]].  Do you like being
 hanged upon nothing?  I'm going to be hanged upon something myself.
 I'm going to swing for you... Dear, tender old phrase,' he murmured;
 `never true till this moment.  I am going to swing for you.
-For you, dear friend.  For your sake.  At your express desire.'
+For you, dear friend.  For your sake.  At your express [[Desire|desire]].'

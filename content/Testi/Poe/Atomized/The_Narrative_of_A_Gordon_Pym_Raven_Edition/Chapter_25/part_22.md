@@ -24,15 +24,15 @@ tags:
 
       This noble-spirited note I kissed a million times, and committed,
 
-      no doubt, on its account, a thousand other extravagances that
+      no [[Doubt|doubt]], on its account, a thousand other extravagances that
 
-      have now escaped my memory. Still Talbot _would_ not return.
+      have now escaped my [[Memory|memory]]. Still Talbot _would_ not return.
 
-      Alas! could he have formed even the vaguest idea of the suffering
+      Alas! could he have formed even the vaguest idea of the [[Suffering|suffering]]
 
       his absence had occasioned his friend, would not his sympathizing
 
-      nature have flown immediately to my relief? Still, however, he
+      [[Nature|nature]] have flown immediately to my relief? Still, however, he
 
       came _not_. I wrote. He replied. He was detained by urgent
 
@@ -42,7 +42,7 @@ tags:
 
       drink nothing stronger than Hock—and to bring the consolations of
 
-      philosophy to my aid. The fool! if he could not come himself,
+      [[philosophy]] to my aid. The [[Fool|fool]]! if he could not come himself,
 
       why, in the name of every thing rational, could he not have
 
@@ -82,7 +82,7 @@ tags:
 
       But I had yet a resource left, in my constitutional audacity.
 
-      Hitherto it had served me well, and I now resolved to make it
+      Hitherto it had served me [[Well|well]], and I now resolved to make it
 
       avail me to the end. Besides, after the correspondence which had
 
@@ -92,7 +92,7 @@ tags:
 
       Lalande? Since the affair of the letter, I had been in the habit
 
-      of watching her house, and thus discovered that, about twilight,
+      of watching her [[house]], and thus discovered that, about twilight,
 
       it was her custom to promenade, attended only by a negro in
 
@@ -114,7 +114,7 @@ tags:
 
       valet at once fell into the rear, and now, with hearts full to
 
-      overflowing, we discoursed long and unreservedly of our love.
+      overflowing, we discoursed long and unreservedly of our [[Love|love]].
 
 
 
@@ -124,9 +124,9 @@ tags:
 
       tongue, so adapted to passion, I gave loose to the impetuous
 
-      enthusiasm of my nature, and, with all the eloquence I could
+      enthusiasm of my [[Nature|nature]], and, with all the eloquence I could
 
-      command, besought her to consent to an immediate marriage.
+      command, besought her to consent to an immediate [[Marriage|marriage]].
 
 
 
@@ -158,11 +158,11 @@ tags:
 
       connections, her standing in society. She begged me, but with a
 
-      sigh, to reconsider my proposal, and termed my love an
+      sigh, to reconsider my proposal, and termed my [[Love|love]] an
 
       infatuation—a will o’ the wisp—a fancy or fantasy of the moment—a
 
-      baseless and unstable creation rather of the imagination than of
+      baseless and unstable creation rather of the [[Imagination|imagination]] than of
 
       the heart. These things she uttered as the shadows of the sweet
 
@@ -174,15 +174,15 @@ tags:
 
 
 
-      I replied as best I could—as only a true lover can. I spoke at
+      I replied as best I could—as only a true [[Lover|lover]] can. I spoke at
 
       length, and perseveringly of my devotion, of my passion—of her
 
-      exceeding beauty, and of my own enthusiastic admiration. In
+      exceeding [[Beauty|beauty]], and of my own enthusiastic admiration. In
 
       conclusion, I dwelt, with a convincing energy, upon the perils
 
-      that encompass the course of love—that course of true love that
+      that encompass the course of [[Love|love]]—that course of true [[Love|love]] that
 
       never did run smooth—and thus deduced the manifest danger of
 

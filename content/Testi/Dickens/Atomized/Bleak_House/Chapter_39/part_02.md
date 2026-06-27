@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 39 (part 2)"
+title: "Bleak [[house|House]] — Chapter 39 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -25,14 +25,14 @@ scalping himself, and sits down at his desk. The client throws his
 hat and gloves upon the ground—tosses them anywhere, without looking
 after them or caring where they go; flings himself into a chair, half
 sighing and half groaning; rests his aching head upon his hand and
-looks the portrait of young despair.
+looks the portrait of young [[Despair|despair]].
 
-“Again nothing done!” says Richard. “Nothing, nothing done!”
+“Again nothing done!” says [[Richard]]. “Nothing, nothing done!”
 
 “Don’t say nothing done, sir,” returns the placid Vholes. “That is
 scarcely fair, sir, scarcely fair!”
 
-“Why, what IS done?” says Richard, turning gloomily upon him.
+“Why, what IS done?” says [[Richard]], turning gloomily upon him.
 
 “That may not be the whole question,” returns Vholes, “The question
 may branch off into what is doing, what is doing?”
@@ -43,7 +43,7 @@ Vholes, sitting with his arms on the desk, quietly bringing the tips
 of his five right fingers to meet the tips of his five left fingers,
 and quietly separating them again, and fixedly and slowly looking at
 his client, replies, “A good deal is doing, sir. We have put our
-shoulders to the wheel, Mr. Carstone, and the wheel is going round.”
+shoulders to the [[Wheel|wheel]], Mr. Carstone, and the [[Wheel|wheel]] is going round.”
 
 “Yes, with Ixion on it. How am I to get through the next four or five
 accursed months?” exclaims the young man, rising from his chair and
@@ -55,17 +55,17 @@ account. Excuse me if I recommend you not to chafe so much, not to be
 so impetuous, not to wear yourself out so. You should have more
 patience. You should sustain yourself better.”
 
-“I ought to imitate you, in fact, Mr. Vholes?” says Richard, sitting
+“I ought to imitate you, in fact, Mr. Vholes?” says [[Richard]], sitting
 down again with an impatient laugh and beating the devil’s tattoo
 with his boot on the patternless carpet.
 
 “Sir,” returns Vholes, always looking at the client as if he were
-making a lingering meal of him with his eyes as well as with his
+making a lingering meal of him with his eyes as [[Well|well]] as with his
 professional appetite. “Sir,” returns Vholes with his inward manner
 of speech and his bloodless quietude, “I should not have had the
-presumption to propose myself as a model for your imitation or any
+presumption to propose myself as a model for your [[Imitation|imitation]] or any
 man’s. Let me but leave the good name to my three daughters, and that
-is enough for me; I am not a self-seeker. But since you mention me so
+is enough for me; I am not a [[Self|self]]-seeker. But since you mention me so
 pointedly, I will acknowledge that I should like to impart to you a
 little of my—come, sir, you are disposed to call it insensibility,
 and I am sure I have no objection—say insensibility—a little of my
@@ -83,7 +83,7 @@ they have known me much longer than you have, and the confiding eye
 of affection is not the distrustful eye of business. Not that I
 complain, sir, of the eye of business being distrustful; quite the
 contrary. In attending to your interests, I wish to have all possible
-checks upon me; it is right that I should have them; I court inquiry.
+checks upon me; it is right that I should have them; I [[Court|court]] inquiry.
 But your interests demand that I should be cool and methodical, Mr.
 Carstone; and I cannot be otherwise—no, sir, not even to please
 you.”
@@ -93,22 +93,22 @@ watching a mouse’s hole, fixes his charmed gaze again on his young
 client and proceeds in his buttoned-up, half-audible voice as if
 there were an unclean spirit in him that will neither come out nor
 speak out, “What are you to do, sir, you inquire, during the
-vacation. I should hope you gentlemen of the army may find many means
+vacation. I should [[Hope|hope]] you gentlemen of the army may find many means
 of amusing yourselves if you give your minds to it. If you had asked
 me what I was to do during the vacation, I could have answered you
 more readily. I am to attend to your interests. I am to be found
 here, day by day, attending to your interests. That is my duty, Mr.
-C., and term-time or vacation makes no difference to me. If you wish
+C., and term-[[Time|time]] or vacation makes no difference to me. If you wish
 to consult me as to your interests, you will find me here at all
 times alike. Other professional men go out of town. I don’t. Not that
 I blame them for going; I merely say I don’t go. This desk is your
 rock, sir!”
 
 Mr. Vholes gives it a rap, and it sounds as hollow as a coffin. Not
-to Richard, though. There is encouragement in the sound to him.
+to [[Richard]], though. There is encouragement in the sound to him.
 Perhaps Mr. Vholes knows there is.
 
-“I am perfectly aware, Mr. Vholes,” says Richard, more familiarly and
+“I am perfectly aware, Mr. Vholes,” says [[Richard]], more familiarly and
 good-humouredly, “that you are the most reliable fellow in the world
 and that to have to do with you is to have to do with a man of
 business who is not to be hoodwinked. But put yourself in my case,
@@ -126,7 +126,7 @@ hopes. It might seem as if costs were my object. Still, when you say
 there is no change for the better, I must, as a bare matter of fact,
 deny that.”
 
-“Aye?” returns Richard, brightening. “But how do you make it out?”
+“Aye?” returns [[Richard]], brightening. “But how do you make it out?”
 
 “Mr. Carstone, you are represented by—”
 

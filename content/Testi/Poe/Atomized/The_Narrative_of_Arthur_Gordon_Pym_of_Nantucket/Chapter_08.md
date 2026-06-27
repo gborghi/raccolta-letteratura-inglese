@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 9"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,25 +20,25 @@ CHAPTER IX.
 
 
 
-Luckily, just before night, all four of us had lashed ourselves firmly
+Luckily, just before [[Night|night]], all four of us had lashed ourselves firmly
 
 to the fragments of the windlass, lying in this manner as flat upon the
 
-deck as possible. This precaution alone saved us from destruction. As
+deck as possible. This precaution [[Alone|alone]] saved us from destruction. As
 
-it was, we were all more or less stunned by the immense weight of water
+it was, we were all more or less stunned by the immense weight of [[Water|water]]
 
 which tumbled upon us, and which did not roll from above us until we
 
 were nearly exhausted. As soon as I could recover breath, I called
 
-aloud to my companions. Augustus alone replied, saying, "It is all over
+aloud to my companions. Augustus [[Alone|alone]] replied, saying, "It is all over
 
-with us, and may God have mercy upon our souls." By-and-by both the
+with us, and may God have [[Mercy|mercy]] upon our souls." By-and-by both the
 
-others were enabled to speak, when they exhorted us to take courage, as
+others were enabled to speak, when they exhorted us to take [[Courage|courage]], as
 
-there was still hope; it being impossible, from the nature of the
+there was still [[Hope|hope]]; it being impossible, from the [[Nature|nature]] of the
 
 cargo, that the brig could go down, and there being every chance that
 
@@ -50,15 +50,15 @@ vessel with a cargo of empty oil-casks would not sink, I had been
 
 hitherto so confused in mind as to have overlooked this consideration
 
-altogether; and the danger which I had for some time regarded as the
+altogether; and the danger which I had for some [[Time|time]] regarded as the
 
-most imminent was that of foundering. As hope revived within me, I made
+most imminent was that of foundering. As [[Hope|hope]] revived within me, I made
 
 use of every opportunity to strengthen the lashings which held me to
 
 the remains of the windlass, and in this occupation I soon discovered
 
-that my companions were also busy. The night was as dark as it could
+that my companions were also busy. The [[Night|night]] was as dark as it could
 
 possibly be, and the horrible shrieking din and confusion which
 
@@ -68,7 +68,7 @@ with the sea, or rather we were encircled with a towering ridge of
 
 foam, a portion of which swept over us every instant. It is not too
 
-much to say that our heads were not fairly out of water more than one
+much to say that our heads were not fairly out of [[Water|water]] more than one
 
 second in three. Although we lay close together, no one of us could see
 
@@ -76,7 +76,7 @@ the other, or, indeed, any portion of the brig itself, upon which we
 
 were so tempestuously hurled about. At intervals we called one to the
 
-other, thus endeavouring to keep alive hope, and render consolation and
+other, thus endeavouring to keep alive [[Hope|hope]], and render consolation and
 
 encouragement to such of us as stood most in need of it. The feeble
 
@@ -92,7 +92,7 @@ overboard--yet to render him aid was a thing altogether out of the
 
 question. Fortunately, his station was more secure than that of any of
 
-the rest of us; for the upper part of his body lying just beneath a
+the rest of us; for the upper part of his [[Body|body]] lying just beneath a
 
 portion of the shattered windlass, the seas, as they tumbled in upon
 
@@ -108,13 +108,13 @@ liable to be washed off than otherwise would have been the case. The
 
 heel, as I have before stated, was to larboard, about one half of the
 
-deck being constantly under water. The seas, therefore, which struck us
+deck being constantly under [[Water|water]]. The seas, therefore, which struck us
 
 to starboard were much broken by the vessel's side, only reaching us in
 
 fragments as we lay flat on our faces; while those which came from
 
-larboard, being what are called back-water seas, and obtaining little
+larboard, being what are called back-[[Water|water]] seas, and obtaining little
 
 hold upon us on account of our posture, had not sufficient force to
 
@@ -126,29 +126,29 @@ In this frightful situation we lay until the day broke so as to show us
 
 more fully the horrors which surrounded us. The brig was a mere log,
 
-rolling about at the mercy of every wave; the gale was upon the
+[[rolling]] about at the [[Mercy|mercy]] of every wave; the gale was upon the
 
 increase, if anything, blowing indeed a complete hurricane, and there
 
 appeared to us no earthly prospect of deliverance. For several hours we
 
-held on in silence, expecting every moment that our lashings would
+held on in [[Silence|silence]], expecting every moment that our lashings would
 
 either give way, that the remains of the windlass would go by the
 
 board, or that some of the huge seas, which roared in every direction
 
-around us and above us, would drive the hulk so far beneath the water
+around us and above us, would drive the hulk so far beneath the [[Water|water]]
 
 that we should be drowned before it could regain the surface. By the
 
-mercy of God, however, we were preserved from these imminent dangers,
+[[Mercy|mercy]] of God, however, we were preserved from these imminent dangers,
 
 and about midday were cheered by the light of the blessed sun. Shortly
 
 afterward we could perceive a sensible diminution in the force of the
 
-wind, when, now for the first time since the latter part of the evening
+[[Wind|wind]], when, now for the first [[Time|time]] since the latter part of the evening
 
 before, Augustus spoke, asking Peters, who lay closest to him, if he
 
@@ -158,7 +158,7 @@ at first made to this question, we all concluded that the hybrid had
 
 been drowned where he lay; but presently, to our great joy, he spoke,
 
-although very feebly, saying that he was in great pain, being so cut by
+although very feebly, saying that he was in great [[Pain|pain]], being so cut by
 
 the tightness of his lashings across the stomach, that he must either
 
@@ -186,7 +186,7 @@ As the evening drew on, the sea had fallen so much that scarcely more
 
 than one wave broke over the hulk from windward in the course of five
 
-minutes, and the wind had abated a great deal, although still blowing a
+minutes, and the [[Wind|wind]] had abated a great deal, although still blowing a
 
 severe gale. I had not heard any of my companions speak for hours, and
 
@@ -200,7 +200,7 @@ Parker, neither of whom returned any answer.
 
 Shortly after this period I fell into a state of partial insensibility,
 
-during which the most pleasing images floated in my imagination; such
+during which the most pleasing images floated in my [[Imagination|imagination]]; such
 
 as green trees, waving meadows of ripe grain, processions of dancing
 
@@ -208,9 +208,9 @@ girls, troops of cavalry, and other phantasies. I now remember that, in
 
 all which passed before my mind's eye, _motion_ was a predominant idea.
 
-Thus, I never fancied any stationary object, such as a house, a
+Thus, I never fancied any stationary object, such as a [[house]], a
 
-mountain, or anything of that kind; but windmills, ships, large birds,
+mountain, or anything of that kind; but windmills, ships, large [[Birds|birds]],
 
 balloons, people on horseback, carriages driving furiously, and similar
 
@@ -222,13 +222,13 @@ hour high. I had the greatest difficulty in bringing to recollection
 
 the various circumstances connected with my situation, and for some
 
-time remained firmly convinced that I was still in the hold of the
+[[Time|time]] remained firmly convinced that I was still in the hold of the
 
-brig, near the box, and that the body of Parker was that of Tiger.
+brig, near the box, and that the [[Body|body]] of Parker was that of Tiger.
 
 
 
-When I at length completely came to my senses, I found that the wind
+When I at length completely came to my senses, I found that the [[Wind|wind]]
 
 blew no more than a moderate breeze, and that the sea was comparatively
 
@@ -240,7 +240,7 @@ elbow; my right was entirely benumbed, and the hand and wrist swollen
 
 prodigiously by the pressure of the rope, which had worked from the
 
-shoulder downward. I was also in great pain from another rope which
+shoulder downward. I was also in great [[Pain|pain]] from another rope which
 
 went about my waist, and had been drawn to an insufferable degree of
 
@@ -254,7 +254,7 @@ made a feeble motion to me with his hand, pointing to the rope.
 
 Augustus gave no indication of life whatever, and was bent nearly
 
-double across a splinter of the windlass. Parker spoke to me when he
+[[Double|double]] across a splinter of the windlass. Parker spoke to me when he
 
 saw me moving, and asked me if I had not sufficient strength to release
 
@@ -262,7 +262,7 @@ him from his situation; saying, that if I would summon up what spirits
 
 I could, and contrive to untie him, we might yet save our lives; but
 
-that otherwise we must all perish. I told him to take courage, and I
+that otherwise we must all perish. I told him to take [[Courage|courage]], and I
 
 would endeavour to free him. Feeling in my pantaloons' pocket, I got
 
@@ -280,7 +280,7 @@ move my right arm in any direction. Upon mentioning this to Parker, he
 
 advised me to lie quiet for a few minutes, holding on to the windlass
 
-with my left hand, so as to allow time for the blood to circulate.
+with my left hand, so as to allow [[Time|time]] for the [[Blood|blood]] to circulate.
 
 Doing this, the numbness presently began to die away, so that I could
 
@@ -292,39 +292,39 @@ caution towards Parker, without getting on my legs, and soon cut loose
 
 all the lashings about him, when, after a short delay, he also
 
-recovered the partial use of his limbs. We now lost no time in getting
+recovered the partial use of his limbs. We now lost no [[Time|time]] in getting
 
 loose the rope from Peters. It had cut a deep gash through the
 
 waistband of his woollen pantaloons, and through two shirts, and made
 
-its way into his groin, from which the blood flowed out copiously as we
+its way into his groin, from which the [[Blood|blood]] flowed out copiously as we
 
 removed the cordage. No sooner had we removed it, however, than he
 
 spoke, and seemed to experience instant relief--being able to move with
 
-much greater ease than either Parker or myself--this was no doubt owing
+much greater ease than either Parker or myself--this was no [[Doubt|doubt]] owing
 
-to the discharge of blood.
+to the discharge of [[Blood|blood]].
 
 
 
-We had little hope that Augustus would recover, as he evinced no signs
+We had little [[Hope|hope]] that Augustus would recover, as he evinced no signs
 
 of life; but, upon getting to him, we discovered that he had merely
 
-swooned from loss of blood, the bandages we had placed around his
+swooned from loss of [[Blood|blood]], the bandages we had placed around his
 
-wounded arm having been torn off by the water; none of the ropes which
+wounded arm having been torn off by the [[Water|water]]; none of the ropes which
 
 held him to the windlass were drawn sufficiently tight to occasion his
 
-death. Having relieved him from the fastenings, and got him clear of
+[[Death|death]]. Having relieved him from the fastenings, and got him clear of
 
 the broken wood about the windlass, we secured him in a dry place to
 
-windward, with his head somewhat lower than his body, and all three of
+windward, with his head somewhat lower than his [[Body|body]], and all three of
 
 us busied ourselves in chafing his limbs. In about half an hour he came
 
@@ -332,7 +332,7 @@ to himself, although it was not until the next morning that he gave
 
 signs of recognising any of us, or had sufficient strength to speak. By
 
-the time we had thus got clear of our lashings it was quite dark, and
+the [[Time|time]] we had thus got clear of our lashings it was quite dark, and
 
 it began to cloud up, so that we were again in the greatest agony lest
 
@@ -340,7 +340,7 @@ it should come on to blow hard, in which event nothing could have saved
 
 us from perishing, exhausted as we were. By good fortune it continued
 
-very moderate during the night, the sea subsiding every minute, which
+very moderate during the [[Night|night]], the sea subsiding every minute, which
 
 gave us great hopes of ultimate preservation. A gentle breeze still
 
@@ -358,7 +358,7 @@ ropes about the windlass, and devising methods of escape from our
 
 frightful situation. We derived much comfort from taking off our
 
-clothes and wringing the water from them. When we put them on after
+clothes and wringing the [[Water|water]] from them. When we put them on after
 
 this, they felt remarkably warm and pleasant, and served to invigorate
 
@@ -376,7 +376,7 @@ within us, and we were induced to regret that we had escaped the less
 
 dreadful perils of the sea. We endeavoured, however, to console
 
-ourselves with the hope of being speedily picked up by some vessel, and
+ourselves with the [[Hope|hope]] of being speedily picked up by some vessel, and
 
 encouraged each other to bear with fortitude the evils that might
 
@@ -394,13 +394,13 @@ we could not determine, the brig did not lie so much along as she had
 
 done before, the deck was comparatively dry, and we could move about
 
-with freedom. We had now been better than three entire days and nights
+with [[Freedom|freedom]]. We had now been better than three entire days and nights
 
 without either food or drink, and it became absolutely necessary that
 
 we should make an attempt to get up something from below. As the brig
 
-was completely full of water, we went to this work despondingly, and
+was completely full of [[Water|water]], we went to this work despondingly, and
 
 with but little expectation of being able to obtain anything. We made a
 
@@ -410,7 +410,7 @@ of the companion-hatch into two pieces of wood. Tying these across each
 
 other, and fastening them to the end of a rope, we threw them into the
 
-cabin, and dragged them to and fro, in the faint hope of being thus
+cabin, and dragged them to and fro, in the faint [[Hope|hope]] of being thus
 
 able to entangle some article which might be of use to us for food, or
 
@@ -422,19 +422,19 @@ nothing more than a few bedclothes, which were readily caught by the
 
 nails. Indeed, our contrivance was so very clumsy, that any greater
 
-success was hardly to be anticipated.
+[[success]] was hardly to be anticipated.
 
 
 
 We now tried the forecastle, but equally in vain, and were upon the
 
-brink of despair, when Peters proposed that we should fasten a rope to
+brink of [[Despair|despair]], when Peters proposed that we should fasten a rope to
 
-his body, and let him make an attempt to get up something by diving
+his [[Body|body]], and let him make an attempt to get up something by diving
 
 into the cabin. This proposition we hailed with all the delight which
 
-reviving hope could inspire. He proceeded immediately to strip off his
+reviving [[Hope|hope]] could inspire. He proceeded immediately to strip off his
 
 clothes with the exception of his pantaloons; and a strong rope was
 
@@ -448,7 +448,7 @@ as we could hardly expect to find much, if any provision in the cabin
 
 itself, it was necessary that the diver, after letting himself down,
 
-should make a turn to the right, and proceed under water a distance of
+should make a turn to the right, and proceed under [[Water|water]] a distance of
 
 ten or twelve feet, in a narrow passage, to the storeroom, and return,
 
@@ -458,7 +458,7 @@ without drawing breath.
 
 Everything being ready, Peters now descended into the cabin, going down
 
-the companion-ladder until the water reached his chin. He then plunged
+the companion-ladder until the [[Water|water]] reached his chin. He then plunged
 
 in, head first, turning to the right as he plunged, and endeavouring to
 
@@ -484,9 +484,9 @@ to rest full fifteen minutes before he could again venture to descend.
 
 
 
-The second attempt met with even worse success; for he remained so long
+The second attempt met with even worse [[success]]; for he remained so long
 
-under water without giving the signal, that, becoming alarmed for his
+under [[Water|water]] without giving the signal, that, becoming alarmed for his
 
 safety, we drew him out without it, and found that he was almost at the
 
@@ -502,7 +502,7 @@ remove it, if possible, before proceeding with our design. As we had no
 
 means of getting it away except by main force, we all descended into
 
-the water as far as we could on the ladder, and, giving a pull against
+the [[Water|water]] as far as we could on the ladder, and, giving a pull against
 
 it with our united strength, succeeded in breaking it down.
 
@@ -514,7 +514,7 @@ now became evident that nothing could be done in this manner without
 
 the aid of some weight with which the diver might steady himself, and
 
-keep to the floor of the cabin while making his search. For a long time
+keep to the floor of the cabin while making his search. For a long [[Time|time]]
 
 we looked about in vain for something which might answer this purpose;
 
@@ -524,7 +524,7 @@ weather-forechains so loose that we had not the least difficulty in
 
 wrenching it off. Having fastened this securely to one of his ancles,
 
-Peters now made his fourth descent into the cabin, and this time
+Peters now made his fourth descent into the cabin, and this [[Time|time]]
 
 succeeded in making his way to the door of the steward's room. To his
 
@@ -532,11 +532,11 @@ inexpressible grief, however, he found it locked, and was obliged to
 
 return without effecting an entrance, as, with the greatest exertion,
 
-he could remain under water not more, at the utmost extent, than a
+he could remain under [[Water|water]] not more, at the utmost extent, than a
 
 single minute. Our affairs now looked gloomy indeed, and neither
 
-Augustus nor myself could refrain from bursting into tears, as we
+Augustus nor myself could refrain from bursting into [[Tears|tears]], as we
 
 thought of the host of difficulties which encompassed us, and the
 
@@ -546,6 +546,6 @@ this weakness was not of long duration. Throwing ourselves on our knees
 
 to God, we implored his aid in the many dangers which beset us; and
 
-arose with renewed hope and vigour to think what could yet be done by
+arose with renewed [[Hope|hope]] and vigour to think what could yet be done by
 
 mortal means towards accomplishing our deliverance.

@@ -17,42 +17,42 @@ tags:
 The Patent Office at Washington, furnishes an extraordinary example of
 American enterprise and ingenuity; for the immense number of models it
 contains are the accumulated inventions of only five years; the whole of
-the previous collection having been destroyed by fire.  The elegant
+the previous collection having been destroyed by [[Fire|fire]].  The elegant
 structure in which they are arranged is one of design rather than
 execution, for there is but one side erected out of four, though the
 works are stopped.  The Post Office is a very compact and very beautiful
 building.  In one of the departments, among a collection of rare and
 curious articles, are deposited the presents which have been made from
-time to time to the American ambassadors at foreign courts by the various
+[[Time|time]] to [[Time|time]] to the American ambassadors at foreign courts by the various
 potentates to whom they were the accredited agents of the Republic; gifts
 which by the law they are not permitted to retain.  I confess that I
 looked upon this as a very painful exhibition, and one by no means
-flattering to the national standard of honesty and honour.  That can
+flattering to the national standard of honesty and [[Honour|honour]].  That can
 scarcely be a high state of moral feeling which imagines a gentleman of
 repute and station, likely to be corrupted, in the discharge of his duty,
-by the present of a snuff-box, or a richly-mounted sword, or an Eastern
+by the present of a snuff-box, or a richly-mounted [[Sword|sword]], or an Eastern
 shawl; and surely the Nation who reposes confidence in her appointed
 servants, is likely to be better served, than she who makes them the
 subject of such very mean and paltry suspicions.
 
 At George Town, in the suburbs, there is a Jesuit College; delightfully
-situated, and, so far as I had an opportunity of seeing, well managed.
+situated, and, so far as I had an opportunity of seeing, [[Well|well]] managed.
 Many persons who are not members of the Romish Church, avail themselves,
 I believe, of these institutions, and of the advantageous opportunities
-they afford for the education of their children.  The heights of this
-neighbourhood, above the Potomac River, are very picturesque: and are
+they afford for the [[Education|education]] of their children.  The heights of this
+neighbourhood, above the Potomac [[River]], are very picturesque: and are
 free, I should conceive, from some of the insalubrities of Washington.
 The air, at that elevation, was quite cool and refreshing, when in the
-city it was burning hot.
+[[City|city]] it was burning hot.
 
-The President’s mansion is more like an English club-house, both within
+The President’s mansion is more like an English club-[[house]], both within
 and without, than any other kind of establishment with which I can
-compare it.  The ornamental ground about it has been laid out in garden
+compare it.  The ornamental ground about it has been laid out in [[Garden|garden]]
 walks; they are pretty, and agreeable to the eye; though they have that
 uncomfortable air of having been made yesterday, which is far from
 favourable to the display of such beauties.
 
-My first visit to this house was on the morning after my arrival, when I
+My first visit to this [[house]] was on the morning after my arrival, when I
 was carried thither by an official gentleman, who was so kind as to
 charge himself with my presentation to the President.
 
@@ -71,7 +71,7 @@ any of the furniture, or sold the fixtures for his private benefit.
 
 After glancing at these loungers; who were scattered over a pretty
 drawing-room, opening upon a terrace which commanded a beautiful prospect
-of the river and the adjacent country; and who were sauntering, too,
+of the [[River|river]] and the adjacent country; and who were sauntering, too,
 about a larger state-room called the Eastern Drawing-room; we went
 up-stairs into another chamber, where were certain visitors, waiting for
 audiences.  At sight of my conductor, a black in plain clothes and yellow
@@ -82,9 +82,9 @@ off to announce him.
 We had previously looked into another chamber fitted all round with a
 great, bare, wooden desk or counter, whereon lay files of newspapers, to
 which sundry gentlemen were referring.  But there were no such means of
-beguiling the time in this apartment, which was as unpromising and
+beguiling the [[Time|time]] in this apartment, which was as unpromising and
 tiresome as any waiting-room in one of our public establishments, or any
-physician’s dining-room during his hours of consultation at home.
+physician’s dining-room during his hours of consultation at [[Home|home]].
 
 There were some fifteen or twenty persons in the room.  One, a tall,
 wiry, muscular old man, from the west; sunburnt and swarthy; with a brown
@@ -94,11 +94,11 @@ twitching the hard lines about his mouth, as if he had made up his mind
 ‘to fix’ the President on what he had to say, and wouldn’t bate him a
 grain.  Another, a Kentucky farmer, six-feet-six in height, with his hat
 on, and his hands under his coat-tails, who leaned against the wall and
-kicked the floor with his heel, as though he had Time’s head under his
+kicked the floor with his heel, as though he had [[Time]]’s head under his
 shoe, and were literally ‘killing’ him.  A third, an oval-faced,
 bilious-looking man, with sleek black hair cropped close, and whiskers
 and beard shaved down to blue dots, who sucked the head of a thick stick,
-and from time to time took it out of his mouth, to see how it was getting
+and from [[Time|time]] to [[Time|time]] took it out of his mouth, to see how it was getting
 on.  A fourth did nothing but whistle.  A fifth did nothing but spit.
 And indeed all these gentlemen were so very persevering and energetic in
 this latter particular, and bestowed their favours so abundantly upon the
@@ -110,8 +110,8 @@ servants.
 We had not waited in this room many minutes, before the black messenger
 returned, and conducted us into another of smaller dimensions, where, at
 a business-like table covered with papers, sat the President himself.  He
-looked somewhat worn and anxious, and well he might; being at war with
+looked somewhat worn and anxious, and [[Well|well]] he might; being at war with
 everybody—but the expression of his face was mild and pleasant, and his
 manner was remarkably unaffected, gentlemanly, and agreeable.  I thought
 that in his whole carriage and demeanour, he became his station
-singularly well.
+singularly [[Well|well]].

@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player"
+title: "[[Maelzel's Chess-Player]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -43,25 +43,25 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       been many and wonderful automata. In Brewster’s Letters on
 
-      Natural Magic, we have an account of the most remarkable. Among
+      Natural [[Magic]], we have an account of the most remarkable. Among
 
-      these may be mentioned, as having beyond doubt existed, firstly,
+      these may be mentioned, as having beyond [[Doubt|doubt]] existed, firstly,
 
       the coach invented by M. Camus for the amusement of Louis XIV
 
-      when a child. A table, about four feet square, was introduced,
+      when a [[Child|child]]. A table, about four feet square, was introduced,
 
       into the room appropriated for the exhibition. Upon this table
 
       was placed a carriage, six inches in length, made of wood, and
 
-      drawn by two horses of the same material. One window being down,
+      drawn by two horses of the same material. One [[Window|window]] being down,
 
       a lady was seen on the back seat. A coachman held the reins on
 
       the box, and a footman and page were in their places behind. M.
 
-      Camus now touched a spring; whereupon the coachman smacked his
+      Camus now touched a [[spring]]; whereupon the coachman smacked his
 
       whip, and the horses proceeded in a natural manner, along the
 
@@ -105,7 +105,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       answering certain given questions. A figure, dressed like a
 
-      magician, appears seated at the bottom of a wall, holding a wand
+      magician, appears seated at the [[Bottom|bottom]] of a wall, holding a wand
 
       in one hand, and a book in the other A number of questions, ready
 
@@ -115,7 +115,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       and having placed it in a drawer ready to receive it, the drawer
 
-      shuts with a spring till the answer is returned. The magician
+      shuts with a [[spring]] till the answer is returned. The magician
 
       then arises from his seat, bows his head, describes circles with
 
@@ -155,7 +155,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       machinery is wound up, the movements continue about an hour,
 
-      during which time about fifty questions may be answered. The
+      during which [[Time|time]] about fifty questions may be answered. The
 
       inventor stated that the means by which the different medallions
 
@@ -167,7 +167,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       The duck of Vaucanson was still more remarkable. It was _of _the
 
-      size of life, and so perfect an imitation of the living animal
+      size of life, and so perfect an [[Imitation|imitation]] of the living animal
 
       that all the spectators were deceived. It executed, says
 
@@ -177,11 +177,11 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       and throat which are peculiar to the duck, and like it muddled
 
-      the water which it drank with its bill. It produced also the
+      the [[Water|water]] which it drank with its bill. It produced also the
 
       sound of quacking in the most natural manner. In the anatomical
 
-      structure the artist exhibited the highest skill. Every bone in
+      structure the [[Artist|artist]] exhibited the highest skill. Every bone in
 
       the real duck had its representative In the automaton, and its
 
@@ -199,7 +199,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       But if these machines were ingenious, what shall we think of the
 
-      calculating machine of Mr. Babbage? What shall we think of an
+      calculating [[Machine|machine]] of Mr. Babbage? What shall we think of an
 
       engine of wood and metal which can not only compute astronomical
 
@@ -209,13 +209,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       power of correcting its possible errors? What shall we think of a
 
-      machine which can not only accomplish all this, but actually
+      [[Machine|machine]] which can not only accomplish all this, but actually
 
       print off its elaborate results, when obtained, without the
 
       slightest intervention of the intellect of man? It will, perhaps,
 
-      be said, in reply, that a machine such as we have described is
+      be said, in reply, that a [[Machine|machine]] such as we have described is
 
       altogether above comparison with the Chess-Player of Maelzel. By
 
@@ -223,11 +223,11 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       assume (what should never for a moment be assumed) that the
 
-      Chess-Player is a _pure machine, _and performs its operations
+      Chess-Player is a _pure [[Machine|machine]], _and performs its operations
 
       without any immediate human agency. Arithmetical or algebraical
 
-      calculations are, from their very nature, fixed and determinate.
+      calculations are, from their very [[Nature|nature]], fixed and determinate.
 
       Certain _data _being given, certain results necessarily and
 
@@ -305,9 +305,9 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       then no analogy whatever between the operations of the
 
-      Chess-Player, and those of the calculating machine of Mr.
+      Chess-Player, and those of the calculating [[Machine|machine]] of Mr.
 
-      Babbage, and if we choose to call the former a _pure machine _we
+      Babbage, and if we choose to call the former a _pure [[Machine|machine]] _we
 
       must be prepared to admit that it is, beyond all comparison, the
 
@@ -333,7 +333,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       brought to bear. Before entering upon this subject it would be as
 
-      well to give a brief history and description of the Chess-Player
+      [[Well|well]] to give a brief [[history]] and description of the Chess-Player
 
       for the benefit of such of our readers as may never have had an
 
@@ -349,9 +349,9 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       its present possessor. {2*} Soon after its completion it was
 
-      exhibited in Presburg, Paris, Vienna, and other continental
+      exhibited in Presburg, [[Paris]], Vienna, and other continental
 
-      cities. In 1783 and 1784, it was taken to London by Mr. Maelzel.
+      cities. In 1783 and 1784, it was taken to [[London]] by Mr. Maelzel.
 
       Of late years it has visited the principal towns in the United
 
@@ -381,23 +381,23 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       At the hour appointed for exhibition, a curtain is withdrawn, or
 
-      folding doors are thrown open, and the machine rolled to within
+      folding doors are thrown open, and the [[Machine|machine]] rolled to within
 
       about twelve feet of the nearest of the spectators, between whom
 
-      and it (the machine) a rope is stretched. A figure is seen
+      and it (the [[Machine|machine]]) a rope is stretched. A figure is seen
 
       habited as a Turk, and seated, with its legs crossed, at a large
 
       box apparently of maple wood, which serves it as a table. The
 
-      exhibiter will, if requested, roll the machine to any portion of
+      exhibiter will, if requested, roll the [[Machine|machine]] to any portion of
 
       the room, suffer it to remain altogether on any designated spot,
 
       or even shift its location repeatedly during the progress of a
 
-      game. The bottom of the box is elevated considerably above the
+      game. The [[Bottom|bottom]] of the box is elevated considerably above the
 
       floor by means of the castors or brazen rollers on which it
 
@@ -411,7 +411,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       The right arm of the Chess-Player is extended at full length
 
-      before him, at right angles with his body, and lying, in an
+      before him, at right angles with his [[Body|body]], and lying, in an
 
       apparently careless position, by the side of the board. The back
 
@@ -439,7 +439,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       Maelzel now informs the company that he will disclose to their
 
-      view the mechanism of the machine. Taking from his pocket a bunch
+      view the mechanism of the [[Machine|machine]]. Taking from his pocket a bunch
 
       of keys he unlocks with one of them, door marked ~ in the cut
 
@@ -459,9 +459,9 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       one first opened. Holding a lighted candle at this door, and
 
-      shifting the position of the whole machine repeatedly at the same
+      shifting the position of the whole [[Machine|machine]] repeatedly at the same
 
-      time, a bright light is thrown entirely through the cupboard,
+      [[Time|time]], a bright light is thrown entirely through the cupboard,
 
       which is now clearly seen to be full, completely full, of
 
@@ -475,7 +475,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       exhibiter now proceeds to open the drawer which lies beneath the
 
-      cupboards at the bottom of the box—for although there are
+      cupboards at the [[Bottom|bottom]] of the box—for although there are
 
       apparently two drawers, there is really only one—the two handles
 
@@ -485,7 +485,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       of chessmen, fixed in a frame work made to support them
 
-      perpendicularly, are discovered. Leaving this drawer, as well as
+      perpendicularly, are discovered. Leaving this drawer, as [[Well|well]] as
 
       cupboard No. 1 open, Maelzel now unlocks door No. 2, and door No.
 
@@ -513,7 +513,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       compartment near the rear corner on the spectators’ left hand.
 
-      Leaving doors No. 2 and No. 3 open as well as the drawer, and
+      Leaving doors No. 2 and No. 3 open as [[Well|well]] as the drawer, and
 
       door No. I, the exhibiter now goes round to the back of the main
 
@@ -539,7 +539,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       thoroughly satisfied of having beheld and completely scrutinized,
 
-      at one and the same time, every individual portion of the
+      at one and the same [[Time|time]], every individual portion of the
 
       Automaton, and the idea of any person being concealed in the
 
@@ -551,7 +551,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
 
 
-      M. Maelzel, having rolled the machine back into its original
+      M. Maelzel, having rolled the [[Machine|machine]] back into its original
 
       position, now informs the company that the Automaton will play a
 
@@ -587,7 +587,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       keys in door No. 1. He also closes the drawer, and, finally,
 
-      winds up the machine, by applying a key to an aperture in the
+      winds up the [[Machine|machine]], by applying a key to an aperture in the
 
       left end (the spectators’ left) of the box. The game now
 
@@ -601,7 +601,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       seldom any objection to continue it. Not to weary the company, is
 
-      the ostensible, and no doubt the real object of the limitation.
+      the ostensible, and no [[Doubt|doubt]] the real object of the limitation.
 
       It Wits of course be understood that when a move is made at his
 
@@ -633,9 +633,9 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       He has also a peculiar shuffle with his feet, calculated to
 
-      induce suspicion of collusion with the machine in minds which are
+      induce suspicion of collusion with the [[Machine|machine]] in minds which are
 
-      more cunning than sagacious. These peculiarities are, no doubt,
+      more cunning than sagacious. These peculiarities are, no [[Doubt|doubt]],
 
       mere mannerisms of M. Maelzel, or, if he is aware of them at all,
 
@@ -689,13 +689,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       the spectators, and drawing his left arm farther back than usual,
 
-      suffers his fingers alone to rest upon the cushion. In general,
+      suffers his fingers [[Alone|alone]] to rest upon the cushion. In general,
 
       the Turk is victorious—once or twice he has been beaten. The game
 
       being ended, Maelzel will again if desired, exhibit the mechanism
 
-      of the box, in the same manner as before. The machine is then
+      of the box, in the same manner as before. The [[Machine|machine]] is then
 
       rolled back, and a curtain hides it from the view of the company.
 
@@ -709,7 +709,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       was, as we have before said, that no immediate human agency was
 
-      employed—in other words, that the machine was purely a machine
+      employed—in other words, that the [[Machine|machine]] was purely a [[Machine|machine]]
 
       and nothing else. Many, however maintained that the exhibiter
 
@@ -723,7 +723,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       relation to the second it is only necessary to repeat what we
 
-      have before stated, that the machine is rolled about on castors,
+      have before stated, that the [[Machine|machine]] is rolled about on castors,
 
       and will, at the request of a spectator, be moved to and fro to
 
@@ -745,21 +745,21 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       least the first attempt of which we ourselves have any knowledge,
 
-      was made in a large pamphlet printed at Paris in 1785. The
+      was made in a large pamphlet printed at [[Paris]] in 1785. The
 
-      author’s hypothesis amounted to this—that a dwarf actuated the
+      author’s hypothesis amounted to this—that a [[Dwarf|dwarf]] actuated the
 
-      machine. This dwarf he supposed to conceal himself during the
+      [[Machine|machine]]. This [[Dwarf|dwarf]] he supposed to conceal himself during the
 
       opening of the box by thrusting his legs into two hollow
 
       cylinders, which were represented to be (but which are not) among
 
-      the machinery in the cupboard No. I, while his body was out of
+      the machinery in the cupboard No. I, while his [[Body|body]] was out of
 
       the box entirely, and covered by the drapery of the Turk. When
 
-      the doors were shut, the dwarf was enabled to bring his body
+      the doors were shut, the [[Dwarf|dwarf]] was enabled to bring his [[Body|body]]
 
       within the box—the noise produced by some portion of the
 
@@ -771,7 +771,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       the author of this pamphlet, are satisfied that no one is within
 
-      any portion of the machine. This whole hypothesis was too
+      any portion of the [[Machine|machine]]. This whole hypothesis was too
 
       obviously absurd to require comment, or refutation, and
 
@@ -785,7 +785,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       Freyhere’s book was a pretty large one, and copiously illustrated
 
-      by colored engravings. His supposition was that “a well-taught
+      by colored engravings. His supposition was that “a [[Well|well]]-taught
 
       boy very thin and tall of his age (sufficiently so that he could
 
@@ -799,9 +799,9 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       and was in some measure believed to be the true solution of the
 
-      wonder, until the inventor put an end to the discussion by
+      [[Wonder|wonder]], until the inventor put an end to the discussion by
 
-      suffering a close examination of the top of the box.
+      [[Suffering|suffering]] a close examination of the top of the box.
 
 
 
@@ -813,29 +813,29 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       blunder upon a plausible solution—although we cannot consider it
 
-      altogether the true one. His Essay was first published in a
+      altogether the true one. His [[Essay]] was first published in a
 
       Baltimore weekly paper, was illustrated by cuts, and was entitled
 
       “An attempt to analyze the Automaton Chess-Player of M. Maelzel.”
 
-      This Essay we suppose to have been the original of the _pamphlet
+      This [[Essay]] we suppose to have been the original of the _pamphlet
 
       to _which Sir David Brewster alludes in his letters on Natural
 
-      Magic, and which he has no hesitation in declaring a thorough and
+      [[Magic]], and which he has no hesitation in declaring a thorough and
 
       satisfactory explanation. The _results _of the analysis are
 
       undoubtedly, in the main, just; but we can only account for
 
-      Brewster’s pronouncing the Essay a thorough and satisfactory
+      Brewster’s pronouncing the [[Essay]] a thorough and satisfactory
 
       explanation, by supposing him to have bestowed upon it a very
 
-      cursory and inattentive perusal. In the compendium of the Essay,
+      cursory and inattentive perusal. In the compendium of the [[Essay]],
 
-      made use of in the Letters on Natural Magic, it is quite
+      made use of in the Letters on Natural [[Magic]], it is quite
 
       impossible to arrive at any distinct conclusion in regard to the
 
@@ -853,19 +853,19 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       shifting the partitions _of the box, as to allow a human being,
 
-      concealed in the interior, to move portions of his body from one
+      concealed in the interior, to move portions of his [[Body|body]] from one
 
       part of the box to another, during the exhibition of the
 
       mechanism—thus eluding the scrutiny of the spectators. There can
 
-      be no doubt, as we have before observed, and as we will presently
+      be no [[Doubt|doubt]], as we have before observed, and as we will presently
 
       endeavor to show, that the principle, or rather the result, of
 
       this solution is the true one. Some person is concealed in the
 
-      box during the whole time of exhibiting the interior. We object,
+      box during the whole [[Time|time]] of exhibiting the interior. We object,
 
       however, to the whole verbose description of the _manner _in
 
@@ -889,7 +889,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       by which the same results may be obtained. The probability of the
 
-      one assumed proving the correct one is then as unity to infinity.
+      one assumed proving the correct one is then as [[unity]] to infinity.
 
       But, in reality, this particular point, the shifting of the
 
@@ -907,7 +907,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       pannel or the door, and the whole operations carried on, as the
 
-      author of the Essay himself shows, and as we shall attempt to
+      author of the [[Essay]] himself shows, and as we shall attempt to
 
       show more fully hereafter, entirely out of reach of the
 
@@ -921,7 +921,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       effected, and afterwards describe, as briefly as possible, the
 
-      nature of the _observations _from which we have deduced our
+      [[Nature|nature]] of the _observations _from which we have deduced our
 
       result.
 
@@ -961,11 +961,11 @@ Perhaps no exhibition of the kind has ever elicited so general
 
 
 
-      Now, let us suppose that when the machine is first rolled into
+      Now, let us suppose that when the [[Machine|machine]] is first rolled into
 
       the presence of the spectators, a man is already within it. His
 
-      body is situated behind the dense machinery in cupboard No. T.
+      [[Body|body]] is situated behind the dense machinery in cupboard No. T.
 
       (the rear portion of which machinery is so contrived as to slip
 
@@ -983,13 +983,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       cupboard No. I, is opened. A bright light then pervades the
 
-      cupboard, and the body of the man would be discovered if it were
+      cupboard, and the [[Body|body]] of the man would be discovered if it were
 
       there. But it is not. The putting the key in the lock of the back
 
       door was a signal on hearing which the person concealed brought
 
-      his body forward to an angle as acute as possible—throwing it
+      his [[Body|body]] forward to an angle as acute as possible—throwing it
 
       altogether, or nearly so, into the main compartment. This,
 
@@ -997,7 +997,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       Accordingly we find that Maelzel _closes the back door. _This
 
-      being done, there is no reason why the body of the man may not
+      being done, there is no reason why the [[Body|body]] of the man may not
 
       resume its former situation—for the cupboard is again so dark as
 
@@ -1007,7 +1007,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       occupied. {*4} There is, consequently, now no longer any part of
 
-      the man in the main compartment—his body being behind the
+      the man in the main compartment—his [[Body|body]] being behind the
 
       machinery in cupboard No. 1, and his legs in the space occupied
 
@@ -1021,13 +1021,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       view—and exposed too, all portions of it at one and the same
 
-      time. But of course this is not the case. They neither see the
+      [[Time|time]]. But of course this is not the case. They neither see the
 
       space behind the drawer, nor the interior of cupboard No. 1—the
 
       front door of which latter the exhibiter virtually shuts in
 
-      shutting its back door. Maelzel, having now rolled the machine
+      shutting its back door. Maelzel, having now rolled the [[Machine|machine]]
 
       around, lifted up the drapery of the Turk, opened the doors in
 
@@ -1037,7 +1037,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       doors. The man within is now at liberty to move about. He gets up
 
-      into the body of the Turk just so high as to bring his eyes above
+      into the [[Body|body]] of the Turk just so high as to bring his eyes above
 
       the level of the chess-board. It is very probable that he seats
 
@@ -1059,7 +1059,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       right arm brought across the breast. The motions of the head and
 
-      eyes, and of the right arm of the figure, as well as the sound
+      eyes, and of the right arm of the figure, as [[Well|well]] as the sound
 
       _echec _are produced by other mechanism in the interior, and
 
@@ -1067,7 +1067,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       mechanism—that is to say all the mechanism essential to the
 
-      machine—is most probably contained within the little cupboard (of
+      [[Machine|machine]]—is most probably contained within the little cupboard (of
 
       about six inches in breadth) partitioned off at the right (the
 
@@ -1099,13 +1099,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       I. The moves of the Turk are not made at regular intervals of
 
-      time, but accommodate themselves to the moves of the
+      [[Time|time]], but accommodate themselves to the moves of the
 
       antagonist—although this point (of regularity) so important in
 
       all kinds of mechanical contrivance, might have been readily
 
-      brought about by limiting the time allowed for the moves of the
+      brought about by limiting the [[Time|time]] allowed for the moves of the
 
       antagonist. For example, if this limit were three minutes, the
 
@@ -1117,7 +1117,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       regularity is unimportant to the action of the Automaton—in other
 
-      words, that the Automaton is not a _pure machine._
+      words, that the Automaton is not a _pure [[Machine|machine]]._
 
 
 
@@ -1181,9 +1181,9 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       3. The Automaton does not invariably win the game. Were the
 
-      machine a pure machine this would not be the case—it would always
+      [[Machine|machine]] a pure [[Machine|machine]] this would not be the case—it would always
 
-      win. The _principle _being discovered by which a machine can be
+      win. The _principle _being discovered by which a [[Machine|machine]] can be
 
       made to _play _a game of chess, an extension of the same
 
@@ -1193,13 +1193,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       of an antagonist. A little consideration will convince any one
 
-      that the difficulty of making a machine beat all games, Is not in
+      that the difficulty of making a [[Machine|machine]] beat all games, Is not in
 
       the least degree greater, as regards the principle of the
 
       operations necessary, than that of making it beat a single game.
 
-      If then we regard the Chess-Player as a machine, we must suppose,
+      If then we regard the Chess-Player as a [[Machine|machine]], we must suppose,
 
       (what is highly improbable,) that its inventor preferred leaving
 
@@ -1209,7 +1209,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       afford an argument against the possibility of its being a pure
 
-      machine—the very argument we now adduce.
+      [[Machine|machine]]—the very argument we now adduce.
 
 
 
@@ -1227,7 +1227,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       meditation, and the ingenious Baron Kempelen would have adapted
 
-      these movements (were the machine a pure machine) to occasions
+      these movements (were the [[Machine|machine]] a pure [[Machine|machine]]) to occasions
 
       proper for their display—that is, to occasions of complexity. But
 
@@ -1235,19 +1235,19 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       precisely to our supposition of a man in the interior. When
 
-      engaged in meditation about the game he has no time to think of
+      engaged in meditation about the game he has no [[Time|time]] to think of
 
       setting in motion the mechanism of the Automaton by which are
 
       moved the head and the eyes. When the game, however, is obvious,
 
-      he has time to look about him, and, accordingly, we see the head
+      he has [[Time|time]] to look about him, and, accordingly, we see the head
 
       shake and the eyes roll.
 
 
 
-      5. When the machine is rolled round to allow the spectators an
+      5. When the [[Machine|machine]] is rolled round to allow the spectators an
 
       examination of the back of the Turk, and when his drapery is
 
@@ -1257,7 +1257,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       scrutinizing this machinery while the Automaton was in motion,
 
-      that is to say while the whole machine was moving on the castors,
+      that is to say while the whole [[Machine|machine]] was moving on the castors,
 
       it appeared to us that certain portions of the mechanism changed
 
@@ -1283,11 +1283,11 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       give it the appearance of being crowded with mechanism. Now the
 
-      direct inference from this is that the machine is not a pure
+      direct inference from this is that the [[Machine|machine]] is not a pure
 
-      machine. For if it were, the inventor, so far from wishing its
+      [[Machine|machine]]. For if it were, the inventor, so far from wishing its
 
-      mechanism to appear complex, and using deception for the purpose
+      mechanism to appear complex, and using [[Deception|deception]] for the purpose
 
       of giving it this appearance, would have been especially desirous
 
@@ -1319,7 +1319,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       better, or of intentional neglect—accidental neglect being out of
 
-      the question, when we consider that the whole time of the
+      the question, when we consider that the whole [[Time|time]] of the
 
       ingenious proprietor is occupied in the improvement of his
 
@@ -1349,13 +1349,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       convince any assemblage of persons that these wooden automata
 
-      were not living creatures. We cannot, therefore, doubt Mr.
+      were not living creatures. We cannot, therefore, [[Doubt|doubt]] Mr.
 
       Maelzel’s ability, and we must necessarily suppose that he
 
       intentionally suffered his Chess Player to remain the same
 
-      artificial and unnatural figure which Baron Kempelen (no doubt
+      artificial and unnatural figure which Baron Kempelen (no [[Doubt|doubt]]
 
       also through design) originally made it. What this design was it
 
@@ -1371,7 +1371,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
 
 
-      7. When, a short time previous to the commencement of the game,
+      7. When, a short [[Time|time]] previous to the commencement of the game,
 
       the Automaton is wound up by the exhibiter as usual, an ear in
 
@@ -1381,7 +1381,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       that the axis turned by the key in the box of the Chess-Player,
 
-      cannot possibly be connected with either a weight, a spring, or
+      cannot possibly be connected with either a weight, a [[spring]], or
 
       any system of machinery whatever. The inference here is the same
 
@@ -1395,7 +1395,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       8. When the question is demanded explicitly of Maelzel—“Is the
 
-      Automaton a pure machine or not?” his reply is invariably the
+      Automaton a pure [[Machine|machine]] or not?” his reply is invariably the
 
       same—“I will say nothing about it.” Now the notoriety of the
 
@@ -1403,11 +1403,11 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       are owing more especially to the prevalent opinion that it is a
 
-      pure machine, than to any other circumstance. Of course, then, it
+      pure [[Machine|machine]], than to any other circumstance. Of course, then, it
 
       is the interest of the proprietor to represent it as a pure
 
-      machine. And what more obvious, and more effectual method could
+      [[Machine|machine]]. And what more obvious, and more effectual method could
 
       there be of impressing the spectators with this desired idea,
 
@@ -1415,13 +1415,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       other hand, what more obvious and effectual method could there be
 
-      of exciting a disbelief in the Automaton’s being a pure machine,
+      of exciting a disbelief in the Automaton’s being a pure [[Machine|machine]],
 
       than by withholding such explicit declaration? For, people will
 
       naturally reason thus,—It is Maelzel’s interest to represent this
 
-      thing a pure machine—he refuses to do so, directly, in words,
+      thing a pure [[Machine|machine]]—he refuses to do so, directly, in words,
 
       although he does not scruple, and is evidently anxious to do so,
 
@@ -1431,9 +1431,9 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       more direct testimony of words—the inference is, that a
 
-      consciousness of its not being a pure machine, is the reason of
+      consciousness of its not being a pure [[Machine|machine]], is the reason of
 
-      his silence—his actions cannot implicate him in a falsehood—his
+      his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
 
       words may.
 
@@ -1445,11 +1445,11 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       it, he holds a lighted candle at the back door (as mentioned
 
-      above) and moves the entire machine to and fro with a view of
+      above) and moves the entire [[Machine|machine]] to and fro with a view of
 
       convincing the company that the cupboard No. 1 is entirely filled
 
-      with machinery. When the machine is thus moved about, it will be
+      with machinery. When the [[Machine|machine]] is thus moved about, it will be
 
       apparent to any careful observer, that whereas that portion of
 
@@ -1457,7 +1457,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       unwavering, the portion farther within fluctuates, in a very
 
-      slight degree, with the movements of the machine. This
+      slight degree, with the movements of the [[Machine|machine]]. This
 
       circumstance first aroused in us the suspicion that the more
 
@@ -1467,7 +1467,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       require it. This occasion we have already stated to occur when
 
-      the man concealed within brings his body into an erect position
+      the man concealed within brings his [[Body|body]] into an erect position
 
       upon the closing of the back door.
 
@@ -1479,7 +1479,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       Nothing is more easy than to err in our notions of magnitude. The
 
-      body of the Automaton is generally insulated, and, having no
+      [[Body|body]] of the Automaton is generally insulated, and, having no
 
       means of immediately comparing it with any human form, we suffer
 
@@ -1489,7 +1489,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       is sometimes the case, the exhibiter approaches it. Mr. Maelzel,
 
-      to be sure, is not very tall, but upon drawing near the machine,
+      to be sure, is not very tall, but upon drawing near the [[Machine|machine]],
 
       his head will be found at least eighteen inches below the head of
 
@@ -1507,7 +1507,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       the accommodation of a man very much above the common size—and
 
-      the main compartment alone is capable of holding any ordinary man
+      the main compartment [[Alone|alone]] is capable of holding any ordinary man
 
       in the position we have mentioned as assumed by the person
 
@@ -1529,7 +1529,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       three inches between the top of the drawer as seen from the
 
-      exterior, and the bottom of the cupboard—a space which must be
+      exterior, and the [[Bottom|bottom]] of the cupboard—a space which must be
 
       included in the height of the drawer. These contrivances to make
 
@@ -1575,13 +1575,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       to play at the board of the Automaton, but is seated at some
 
-      distance from the machine. The reason which, most probably, would
+      distance from the [[Machine|machine]]. The reason which, most probably, would
 
       be assigned for this circumstance, if the question were demanded,
 
       is, that were the antagonist otherwise situated, his person would
 
-      intervene between the machine and the spectators, and preclude
+      intervene between the [[Machine|machine]] and the spectators, and preclude
 
       the latter from a distinct view. But this difficulty might be
 
@@ -1601,7 +1601,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       14. Although M. Maelzel, in disclosing the interior of the
 
-      machine, sometimes slightly deviates from the _routine _which we
+      [[Machine|machine]], sometimes slightly deviates from the _routine _which we
 
       have pointed out, yet _reeler in _any instance does he _so
 
@@ -1619,7 +1619,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       cupboard No. 1 while the main compartment is open—and the game of
 
-      chess is never commenced until the whole machine is closed. Now
+      chess is never commenced until the whole [[Machine|machine]] is closed. Now
 
       if it were observed that _never, in any single instance, _did M.
 
@@ -1645,11 +1645,11 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       been amply sufficient to afford the spectators a clear view of
 
-      the board, in a room otherwise so well lit up as the exhibition
+      the board, in a room otherwise so [[Well|well]] lit up as the exhibition
 
-      room always is—when, moreover, if we suppose the machine a _pure
+      room always is—when, moreover, if we suppose the [[Machine|machine]] a _pure
 
-      machine, _there can be no necessity for so much light, or indeed
+      [[Machine|machine]], _there can be no necessity for so much light, or indeed
 
       any light at all, to enable _it _to perform its operations—and
 
@@ -1709,7 +1709,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       This Italian professed a _total _ignorance of the game of chess,
 
-      although all others of the suite played well. Similar
+      although all others of the suite played [[Well|well]]. Similar
 
       observations have been made since the Automaton has been
 
@@ -1731,13 +1731,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       exhibition. Moreover, some years ago Maelzel visited Richmond
 
-      with his automata, and exhibited them, we believe, in the house
+      with his automata, and exhibited them, we believe, in the [[house]]
 
       now occupied by M. Bossieux as a Dancing Academy. _Schlumberg_er
 
       was suddenly taken ill, and during his illness there was no
 
-      exhibition of the Chess-Player. These facts are well known to
+      exhibition of the Chess-Player. These facts are [[Well|well]] known to
 
       many of our citizens. The reason assigned for the suspension of
 
@@ -1767,13 +1767,13 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       this that deductions are to be made (if made at all) which shall
 
-      lead us to the truth.
+      lead us to the [[Truth|truth]].
 
 
 
       The circumstance of the Automaton’s playing with his left hand
 
-      cannot have connexion with the operations of the machine,
+      cannot have connexion with the operations of the [[Machine|machine]],
 
       considered merely as such. Any mechanical arrangement which would
 
@@ -1815,9 +1815,9 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       within either to use his right arm in an exceedingly painful and
 
-      awkward position, (viz. brought up close to his body and tightly
+      awkward position, (viz. brought up close to his [[Body|body]] and tightly
 
-      compressed between his body and the side of the Automaton,) or
+      compressed between his [[Body|body]] and the side of the Automaton,) or
 
       else to use his left arm brought across his breast. In neither
 

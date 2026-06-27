@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Miracle of Moon Crescent (part 1)"
+title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -14,24 +14,24 @@ tags:
 </nav>
 
 
-FOUR:  The Miracle of Moon Crescent
+FOUR:  The Miracle of [[Moon]] Crescent
 
-MOON CRESCENT was meant in a sense to be as romantic as its name;
+[[Moon|MOON]] CRESCENT was meant in a sense to be as romantic as its name;
 and the things that happened there were romantic enough in their way.
 At least it had been an expression of that genuine element
 of sentiment--historic and almost heroic--which manages
 to remain side by side with commercialism in the elder cities
-on the eastern coast of America.  It was originally a curve
+on the eastern coast of [[america|America]].  It was originally a curve
 of classical architecture really recalling that eighteenth--
 century atmosphere in which men like Washington and Jefferson
 had seemed to be all the more republicans for being aristocrats.
 Travellers faced with the recurrent query of what they thought
-of our city were understood to be specially answerable for what they
-thought of our Moon Crescent.  The very contrasts that confuse
-its original harmony were characteristic of its survival.
+of our [[City|city]] were understood to be specially answerable for what they
+thought of our [[Moon]] Crescent.  The very contrasts that confuse
+its original harmony were characteristic of its [[Survival|survival]].
 At one extremity or horn of the crescent its last windows
 looked over an enclosure like a strip of a gentleman's park,
-with trees and hedges as formal as a Queen Anne garden.
+with trees and hedges as formal as a [[Queen]] Anne [[Garden|garden]].
 But immediately round the corner, the other windows, even of
 the same rooms, or rather `apartments', looked out on the blank,
 unsightly wall of a huge warehouse attached to some ugly industry.
@@ -106,7 +106,7 @@ other papers and possessions were stacked in boxes and corded bales.
 holding the letters, `and then get me the pamphlet on the
 Minneapolis Night Clubs; you'll find it in the bundle marked `G'.
 I shall want it in half an hour, but don't disturb me till then.
-Well, Mr Vandam, I think your proposition sounds very promising;
+[[Well]], Mr Vandam, I think your proposition sounds very promising;
 but I can't give a final answer till I've seen the report.
 It ought to reach me to--morrow afternoon, and I'll phone you at once.
 I'm sorry I can't say anything more definite just now.'

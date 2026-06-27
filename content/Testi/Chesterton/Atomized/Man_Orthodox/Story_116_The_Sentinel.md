@@ -22,10 +22,10 @@ a certain law, to champion which was his sole and simple business.
 `He hath shown thee, O man, that which is good' is perhaps
 of all earthly sayings the one which has the deepest ring;
 it seems, as it were, too true and simple to be comprehended.
-The stars in their courses might fight against his honour,
+The [[Stars|stars]] in their courses might fight against his [[Honour|honour]],
 scientific discoveries might make the world seem more perilous
 and equivocal; at the turning of a stone or the splitting of a sea beast,
-the whole cosmic army might seem suddenly to desert to the devil.
+the whole cosmic army might seem suddenly to [[Desert|desert]] to the devil.
 But man had in his heart a secret which would outlast these things;
 he had his orders; he was the sentinel of God.
 

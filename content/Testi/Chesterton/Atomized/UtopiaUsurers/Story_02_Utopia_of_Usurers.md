@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — Utopia of Usurers"
+title: "[[UtopiaUsurers]] — Utopia of Usurers"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"

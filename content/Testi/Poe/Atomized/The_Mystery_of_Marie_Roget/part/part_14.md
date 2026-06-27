@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 14)"
+title: "[[The Mystery of Marie Roget]] (part 14)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -32,13 +32,13 @@ tags:
 
       should have them made to her by another. And here let me call
 
-      your attention to the fact, that the time elapsing between the
+      your attention to the fact, that the [[Time|time]] elapsing between the
 
       first ascertained, and the second supposed elopement, is a few
 
       months more than the general period of the cruises of our
 
-      men-of-war. Had the lover been interrupted in his first villany
+      men-of-war. Had the [[Lover|lover]] been interrupted in his first villany
 
       by the necessity of departure to sea, and had he seized the first
 
@@ -60,23 +60,23 @@ tags:
 
       no honorable suitors of Marie. Of none other is there any thing
 
-      said. Who, then, is the secret lover, of whom the relatives (at
+      said. Who, then, is the secret [[Lover|lover]], of whom the relatives (at
 
       least most of them) know nothing, but whom Marie meets upon the
 
-      morning of Sunday, and who is so deeply in her confidence, that
+      morning of [[Sunday]], and who is so deeply in her confidence, that
 
       she hesitates not to remain with him until the shades of the
 
       evening descend, amid the solitary groves of the Barrière du
 
-      Roule? Who is that secret lover, I ask, of whom, at least, most
+      Roule? Who is that secret [[Lover|lover]], I ask, of whom, at least, most
 
       of the relatives know nothing? And what means the singular
 
       prophecy of Madame Rogêt on the morning of Marie’s departure?—‘I
 
-      fear that I shall never see Marie again.’
+      [[Fear|fear]] that I shall never see Marie again.’
 
 
 
@@ -84,7 +84,7 @@ tags:
 
       elopement, may we not at least suppose this design entertained by
 
-      the girl? Upon quitting home, she gave it to be understood that
+      the girl? Upon quitting [[Home|home]], she gave it to be understood that
 
       she was about to visit her aunt in the Rue des Drômes and St.
 
@@ -94,15 +94,15 @@ tags:
 
       let us reflect. That she did meet some companion, and proceed
 
-      with him across the river, reaching the Barrière du Roule at so
+      with him across the [[River|river]], reaching the Barrière du Roule at so
 
-      late an hour as three o’clock in the afternoon, is known. But in
+      late an hour as three o’[[Clock|clock]] in the afternoon, is known. But in
 
       consenting so to accompany this individual, (_for whatever
 
       purpose—to her mother known or unknown,_) she must have thought
 
-      of her expressed intention when leaving home, and of the surprise
+      of her expressed intention when leaving [[Home|home]], and of the surprise
 
       and suspicion aroused in the bosom of her affianced suitor, St.
 
@@ -114,7 +114,7 @@ tags:
 
       intelligence, he should become aware of her continued absence
 
-      from home. She must have thought of these things, I say. She must
+      from [[Home|home]]. She must have thought of these things, I say. She must
 
       have foreseen the chagrin of St. Eustache, the suspicion of all.
 
@@ -132,7 +132,7 @@ tags:
 
       only to myself. It is necessary that there be no chance of
 
-      interruption—there must be sufficient time given us to elude
+      interruption—there must be sufficient [[Time|time]] given us to elude
 
       pursuit—I will give it to be understood that I shall visit and
 
@@ -140,15 +140,15 @@ tags:
 
       Eustache not to call for me until dark—in this way, my absence
 
-      from home for the longest possible period, without causing
+      from [[Home|home]] for the longest possible period, without causing
 
       suspicion or anxiety, will be accounted for, and I shall gain
 
-      more time than in any other manner. If I bid St. Eustache call
+      more [[Time|time]] than in any other manner. If I bid St. Eustache call
 
       for me at dark, he will be sure not to call before; but, if I
 
-      wholly neglect to bid him call, my time for escape will be
+      wholly neglect to bid him call, my [[Time|time]] for escape will be
 
       diminished, since it will be expected that I return the earlier,
 
@@ -162,7 +162,7 @@ tags:
 
       that I have played him false—a fact of which I might keep him for
 
-      ever in ignorance, by leaving home without notifying him of my
+      ever in ignorance, by leaving [[Home|home]] without notifying him of my
 
       intention, by returning before dark, and by then stating that I
 
@@ -170,7 +170,7 @@ tags:
 
       design never to return—or not for some weeks—or not until certain
 
-      concealments are effected—the gaining of time is the only point
+      concealments are effected—the gaining of [[Time|time]] is the only point
 
       about which I need give myself any concern.’
 

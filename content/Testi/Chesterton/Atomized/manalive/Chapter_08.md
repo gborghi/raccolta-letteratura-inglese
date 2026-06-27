@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 2"
+title: "[[manalive]] — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/manalive-(Chesterton)"
@@ -20,7 +20,7 @@ tags:
 		   or, the Burglary Charge
 
 
-Arthur Inglewood handed the document he had just read to the leaders
+[[arthur|Arthur]] Inglewood handed the document he had just read to the leaders
 of the prosecution, who examined it with their heads together.
 Both the Jew and the American were of sensitive and excitable stocks,
 and they revealed by the jumpings and bumpings of the black head and the
@@ -30,19 +30,19 @@ Sub-Warden, however regrettably different in dignity and social tone.
 
 "Very few words," said Inglewood, "are required to conclude
 our case in this matter.  Surely it is now plain that our client
-carried his pistol about with the eccentric but innocent
+carried his [[Pistol|pistol]] about with the eccentric but [[Innocent|innocent]]
 purpose of giving a wholesome scare to those whom he regarded
 as blasphemers.  In each case the scare was so wholesome
 that the victim himself has dated from it as from a new birth.
-Smith, so far from being a madman, is rather a mad doctor--
+[[smith|Smith]], so far from being a madman, is rather a mad doctor--
 he walks the world curing frenzies and not distributing them.
 That is the answer to the two unanswerable questions which I
 put to the prosecutors.  That is why they dared not produce
-a line by any one who had actually confronted the pistol.
-All who had actually confronted the pistol confessed that they
-had profited by it.  That was why Smith, though a good shot,
+a line by any one who had actually confronted the [[Pistol|pistol]].
+All who had actually confronted the [[Pistol|pistol]] confessed that they
+had profited by it.  That was why [[smith|Smith]], though a good shot,
 never hit anybody.  He never hit anybody because he was a good shot.
-His mind was as clear of murder as his hands are of blood.
+His mind was as clear of murder as his hands are of [[Blood|blood]].
 This, I say, is the only possible explanation of these facts
 and of all the other facts.  No one can possibly explain
 the Warden's conduct except by believing the Warden's story.
@@ -53,7 +53,7 @@ could find no other theory to cover the case."
 said Dr. Cyrus Pym dreamily; "the science of criminology is in
 its infancy, and--"
 
-"Infancy!" cried Moon, jerking his red pencil in the air with a gesture
+"Infancy!" cried [[Moon]], jerking his red pencil in the air with a gesture
 of enlightenment; "why, that explains it!"
 
 "I repeat," proceeded Inglewood, "that neither Dr. Pym nor any one else
@@ -64,12 +64,12 @@ The little Yankee had slipped to his feet with some return
 of a cock-fighting coolness.  "The defence," he said,
 "omits a coldly colossal fact.  They say we produce none of
 the actual victims.  Wal, here is one victim--England's celebrated
-and stricken Warner.  I reckon he is pretty well produced.
+and stricken Warner.  I reckon he is pretty [[Well|well]] produced.
 And they suggest that all the outrages were followed
-by reconciliation.  Wal, there's no flies on England's Warner;
+by [[Reconciliation|reconciliation]].  Wal, there's no flies on England's Warner;
 and he isn't reconciliated much."
 
-"My learned friend," said Moon, getting elaborately to his feet,
+"My learned friend," said [[Moon]], getting elaborately to his feet,
 "must remember that the science of shooting Dr. Warner is in its infancy.
 Dr. Warner would strike the idlest eye as one specially difficult to startle
 into any recognition of the glory of God.  We admit that our client,
@@ -78,52 +78,52 @@ But I am empowered to offer, on behalf of my client, a proposal
 for operating on Dr. Warner again, at his earliest convenience,
 and without further fees."
 
-"'Ang it all, Michael," cried Gould, quite serious for the first time
+"'Ang it all, [[Michael]]," cried Gould, quite serious for the first [[Time|time]]
 in his life, "you might give us a bit of bally sense for a chinge."
 
 "What was Dr. Warner talking about just before the first shot?"
-asked Moon sharply.
+asked [[Moon]] sharply.
 
 "The creature," said Dr. Warner superciliously, "asked me,
 with characteristic rationality, whether it was my birthday."
 
-"And you answered, with characteristic swank," cried Moon, shooting out
-a long lean finger, as rigid and arresting as the pistol of Smith,
+"And you answered, with characteristic swank," cried [[Moon]], shooting out
+a long lean finger, as rigid and arresting as the [[Pistol|pistol]] of [[smith|Smith]],
 "that you didn't keep your birthday."
 
 "Something like that," assented the doctor.
 
-"Then," continued Moon, "he asked you why not, and you said it was because you
+"Then," continued [[Moon]], "he asked you why not, and you said it was because you
 didn't see that birth was anything to rejoice over.  Agreed?  Now is there
 any one who doubts that our tale is true?"
 
-There was a cold crash of stillness in the room; and Moon said, "Pax populi
-vox Dei; it is the silence of the people that is the voice of God.  Or in
+There was a cold crash of stillness in the room; and [[Moon]] said, "Pax populi
+vox Dei; it is the [[Silence|silence]] of the people that is the voice of God.  Or in
 Dr. Pym's more civilized language, it is up to him to open the next charge.
 On this we claim an acquittal."
 
 
 It was about an hour later.  Dr. Cyrus Pym had remained for an unprecedented
-time with his eyes closed and his thumb and finger in the air.
+[[Time|time]] with his eyes closed and his thumb and finger in the air.
 It almost seemed as if he had been "struck so," as the nurses say;
-and in the deathly silence Michael Moon felt forced to relieve
+and in the deathly [[Silence|silence]] [[Michael]] [[Moon]] felt forced to relieve
 the strain with some remark.  For the last half-hour or so the eminent
 criminologist had been explaining that science took the same view
 of offences against property as it did of offences against life.
 "Most murder," he had said, "is a variation of homicidal mania,
 and in the same way most theft is a version of kleptomania.
-I cannot entertain any doubt that my learned friends opposite
+I cannot entertain any [[Doubt|doubt]] that my learned friends opposite
 adequately con-ceive how this must involve a scheme of punishment
 more tol'rant and humane than the cruel methods of ancient codes.
 They will doubtless exhibit consciousness of a chasm so eminently yawning,
 so thought-arresting, so--" It was here that he paused and indulged
-in the delicate gesture to which allusion has been made; and Michael
+in the delicate gesture to which allusion has been made; and [[Michael]]
 could bear it no longer.
 
 "Yes, yes," he said impatiently, "we admit the chasm.
 The old cruel codes accuse a man of theft and send him
-to prison for ten years.  The tolerant and humane ticket
-accuses him of nothing and sends him to prison for ever.
+to [[Prison|prison]] for ten years.  The tolerant and humane ticket
+accuses him of nothing and sends him to [[Prison|prison]] for ever.
 We pass the chasm."
 
 It was characteristic of the eminent Pym, in one of his trances
@@ -139,17 +139,17 @@ closed again as he hesitated)--"in short, for the required period.
 But there is something special in the case we investigate here.
 Kleptomania commonly con-joins itself--"
 
-"I beg pardon," said Michael; "I did not ask just now because,
-to tell the truth, I really thought Dr. Pym, though seemingly vertical,
-was enjoying well-earned slumber, with a pinch in his fingers
-of scentless and delicate dust.  But now that things are moving
+"I beg pardon," said [[Michael]]; "I did not ask just now because,
+to tell the [[Truth|truth]], I really thought Dr. Pym, though seemingly vertical,
+was enjoying [[Well|well]]-earned slumber, with a pinch in his fingers
+of scentless and delicate [[Dust|dust]].  But now that things are moving
 a little more, there is something I should really like to know.
 I have hung on Dr. Pym's lips, of course, with an interest that it
 were weak to call rapture, but I have so far been unable to form
 any conjecture about what the accused, in the present instance,
 is supposed to have been and gone and done."
 
-"If Mr. Moon will have patience," said Pym with dignity, "he will find
+"If Mr. [[Moon]] will have patience," said Pym with dignity, "he will find
 that this was the very point to which my exposition was di-rected.
 Kleptomania, I say, exhibits itself as a kind of physical attraction
 to certain defined materials; and it has been held (by no less a man
@@ -166,31 +166,31 @@ of depredator to whom this principle is at first sight hard to apply.
 I allude to our fellow-citizen the housebreaker.
 
 "It has been maintained by some of our boldest young
-truth-seekers, that the eye of a burglar beyond the back-garden
+[[Truth|truth]]-seekers, that the eye of a burglar beyond the back-[[Garden|garden]]
 wall could hardly be caught and hypnotized by a fork
 that is insulated in a locked box under the butler's bed.
 They have thrown down the gauntlet to American science on this point.
 They declare that diamond links are not left about in conspicuous
 locations in the haunts of the lower classes, as they were
-in the great test experiment of Calypso College.  We hope this
+in the great test experiment of Calypso College.  We [[Hope|hope]] this
 experiment here will be an answer to that young ringing challenge,
-and will bring the burglar once more into line and union
+and will bring the burglar once more into line and [[Union|union]]
 with his fellow criminals."
 
-Moon, whose face had gone through every phase of black bewilderment
+[[Moon]], whose face had gone through every phase of black bewilderment
 for five minutes past, suddenly lifted his hand and struck the table
 in explosive enlightenment.
 
-"Oh, I see!" he cried; "you mean that Smith is a burglar."
+"Oh, I see!" he cried; "you mean that [[smith|Smith]] is a burglar."
 
 "I thought I made it quite ad'quately lucid," said Mr. Pym,
 folding up his eyelids.  It was typical of this topsy-turvy private
 trial that all the eloquent extras, all the rhetoric or digression
 on either side, was exasperating and unintelligible to the other.
-Moon could not make head or tail of the solemnity of a new civilization.
+[[Moon]] could not make head or tail of the solemnity of a new civilization.
 Pym could not make head or tail of the gaiety of an old one.
 
-"All the cases in which Smith has figured as an expropriator,"
+"All the cases in which [[smith|Smith]] has figured as an expropriator,"
 continued the American doctor, "are cases of burglary.
 Pursuing the same course as in the previous case, we select
 the indubitable instance from the rest, and we take the most
@@ -199,12 +199,12 @@ Mr. Gould, to read a letter we have received from the earnest,
 unspotted Canon of Durham, Canon Hawkins."
 
 Mr. Moses Gould leapt up with his usual alacrity to read the letter from
-the earnest and unspotted Hawkins.  Moses Gould could imitate a farmyard well,
-Sir Henry Irving not so well, Marie Lloyd to a point of excellence, and the
+the earnest and unspotted Hawkins.  Moses Gould could imitate a farmyard [[Well|well]],
+Sir Henry Irving not so [[Well|well]], Marie Lloyd to a point of excellence, and the
 new motor horns in a manner that put him upon the platform of great artists.
-But his imitation of a Canon of Durham was not convincing; indeed, the sense
+But his [[Imitation|imitation]] of a Canon of Durham was not convincing; indeed, the sense
 of the letter was so much obscured by the extraordinary leaps and gasps of his
-pronunciation that it is perhaps better to print it here as Moon read it when,
+pronunciation that it is perhaps better to print it here as [[Moon]] read it when,
 a little later, it was handed across the table.
 
 
@@ -217,7 +217,7 @@ in a not uneventful and perhaps not an unimportant career.
 I am by no means without experience in scenes of civil tumult.
 I have faced many a political crisis in the old Primrose League
 days at Herne Bay, and, before I broke with the wilder set,
-have spent many a night at the Christian Social Union.  But this
+have spent many a [[Night|night]] at the Christian Social [[Union]].  But this
 other experience was quite inconceivable.  I can only describe
 it as the letting loose of a place which it is not for me,
 as a clergyman, to mention.
@@ -251,22 +251,22 @@ judgements of the appearance of the people in the hall.
 Yet a glance round the room, revealing ranks of debased
 and envious faces--"
 
-"Adopting," said Moon explosively, for he was getting restive--"adopting
-the reverend gentleman's favourite figure of logic, may I say that
+"Adopting," said [[Moon]] explosively, for he was getting restive--"adopting
+the reverend gentleman's favourite figure of [[logic]], may I say that
 while tortures would not tear from me a whisper about his intellect,
 he is a blasted old jackass."
 
 "Really!" said Dr. Pym; "I protest."
 
-"You must keep quiet, Michael," said Inglewood; "they have a right
+"You must keep quiet, [[Michael]]," said Inglewood; "they have a right
 to read their story."
 
-"Chair!  Chair!  Chair!" cried Gould, rolling about exuberantly in his own;
+"Chair!  Chair!  Chair!" cried Gould, [[rolling]] about exuberantly in his own;
 and Pym glanced for a moment towards the canopy which covered all
-the authority of the Court of Beacon.
+the authority of the [[Court]] of Beacon.
 
-"Oh, don't wake the old lady," said Moon, lowering his voice in a moody
-good-humour. "I apologize.  I won't interrupt again."
+"Oh, don't wake the old lady," said [[Moon]], lowering his voice in a moody
+good-[[Humour|humour]]. "I apologize.  I won't interrupt again."
 
 Before the little eddy of interruption was ended the reading
 of the clergyman's letter was already continuing.
@@ -275,11 +275,11 @@ of the clergyman's letter was already continuing.
 will say nothing.  It was deplorable.  Many of the audience
 were Irish, and showed the weakness of that impetuous people.
 When gathered together into gangs and conspiracies they seem
-to lose altogether that lovable good-nature and readiness to accept
+to lose altogether that lovable good-[[Nature|nature]] and readiness to accept
 anything one tells them which distinguishes them as individuals."
 
 
-With a slight start, Michael rose to his feet, bowed solemnly,
+With a slight start, [[Michael]] [[Rose|rose]] to his feet, bowed solemnly,
 and sat down again.
 
 
@@ -287,11 +287,11 @@ and sat down again.
 of Mr. Percy.  He descended to their level with witticisms about rent
 and a reserve of labour.  Confiscation, expropriation, arbitration, and such
 words with which I cannot soil my lips, recurred constantly.  Some hours
-afterward the storm broke.  I had been addressing the meeting for some time,
+afterward the [[Storm|storm]] broke.  I had been addressing the meeting for some [[Time|time]],
 pointing out the lack of thrift in the working classes, their insufficient
 attendance at evening service, their neglect of the Harvest Festival, and of
 many other things that might materially help them to improve their lot.
-It was, I think, about this time that an extraordinary interruption occurred.
+It was, I think, about this [[Time|time]] that an extraordinary interruption occurred.
 An enormous, powerful man, partly concealed with white plaster,
 arose in the middle of the hall, and offered (in a loud, roaring voice,
 like a bull's) some observations which seemed to be in a foreign language.
@@ -339,18 +339,18 @@ or whatever he was, with the most terrifying vagueness.
 `I have a way with me.  I'm a Permeator.'
 
 "I could not imagine what he meant, but my companion laughed,
-so I was sufficiently reassured to continue the unaccountable journey
+so I was sufficiently reassured to continue the unaccountable [[Journey|journey]]
 for the present.  It led us through most singular ways; out of the lane,
 where we were already rather cramped, into a paved passage,
 at the end of which we passed through a wooden gate left open.
 We then found ourselves, in the increasing darkness and vapour,
-crossing what appeared to be a beaten path across a kitchen garden.
+crossing what appeared to be a beaten path across a kitchen [[Garden|garden]].
 I called out to the enormous person going on in front, but he answered
 obscurely that it was a short cut.
 
-"I was just repeating my very natural doubt to my clerical companion
+"I was just repeating my very natural [[Doubt|doubt]] to my clerical companion
 when I was brought up against a short ladder, apparently leading
-to a higher level of road.  My thoughtless colleague ran up it so
+to a higher level of [[Road|road]].  My thoughtless colleague ran up it so
 quickly that I could not do otherwise than follow as best I could.
 The path on which I then planted my feet was quite unprecedentedly narrow.
 I had never had to walk along a thoroughfare so exiguous.
@@ -358,11 +358,11 @@ Along one side of it grew what, in the dark and density of air,
 I first took to be some short, strong thicket of shrubs.  Then I saw
 that they were not short shrubs; they were the tops of tall trees.
 I, an English gentleman and clergyman of the Church of England--I was
-walking along the top of a garden wall like a tom cat.
+walking along the top of a [[Garden|garden]] wall like a tom cat.
 
 "I am glad to say that I stopped within my first five steps,
 and let loose my just reprobation, balancing myself as best I
-could all the time.
+could all the [[Time|time]].
 
 "`It's a right-of-way,' declared my indefensible informant.
 `It's closed to traffic once in a hundred years.'
@@ -376,12 +376,12 @@ whatever he is.'
 
 "`I am a burglar,' explained the big creature quite calmly.
 `I am a member of the Fabian Society.  I take back the wealth stolen
-by the capitalist, not by sweeping civil war and revolution, but by reform
+by the capitalist, not by sweeping civil war and revolution, but by [[Reform|reform]]
 fitted to the special occasion--here a little and there a little.
-Do you see that fifth house along the terrace with the flat roof?
-I'm permeating that one to-night.'
+Do you see that fifth [[house]] along the terrace with the flat roof?
+I'm permeating that one to-[[Night|night]].'
 
-"`Whether this is a crime or a joke,' I cried, `I desire to be quit of it.'
+"`Whether this is a crime or a joke,' I cried, `I [[Desire|desire]] to be quit of it.'
 
 "`The ladder is just behind you,' answered the creature
 with horrible courtesy; `and, before you go, do let me give
@@ -399,26 +399,26 @@ the chimneys, and that Raymond Percy (a priest of God and,
 what was worse, a gentleman) was crawling up after him.
 I have never seen either of them since that day.
 
-"In consequence of this soul-searching experience I severed my
+"In consequence of this [[Soul|soul]]-searching experience I severed my
 connection with the wild set.  I am far from saying that every
-member of the Christian Social Union must necessarily be a burglar.
+member of the Christian Social [[Union]] must necessarily be a burglar.
 I have no right to bring any such charge.  But it gave me a hint
 of what such courses may lead to in many cases; and I saw them no more.
 
 "I have only to add that the photograph you enclose, taken by a
 Mr. Inglewood, is undoubtedly that of the burglar in question.
-When I got home that night I looked at his card, and he was inscribed
-there under the name of Innocent Smith.--Yours faithfully,
+When I got [[Home|home]] that [[Night|night]] I looked at his card, and he was inscribed
+there under the name of [[Innocent]] [[smith|Smith]].--Yours faithfully,
 				      John Clement Hawkins."
 
 
-Moon merely went through the form of glancing at the paper.  He knew that
+[[Moon]] merely went through the form of glancing at the paper.  He knew that
 the prosecutors could not have invented so heavy a document; that Moses Gould
 (for one) could no more write like a canon than he could read like one.
-After handing it back he rose to open the defence on the burglary charge.
+After handing it back he [[Rose|rose]] to open the defence on the burglary charge.
 
-"We wish," said Michael, "to give all reasonable facilities to
-the prosecution; especially as it will save the time of the whole court.
+"We wish," said [[Michael]], "to give all reasonable facilities to
+the prosecution; especially as it will save the [[Time|time]] of the whole [[Court|court]].
 The latter object I shall once again pursue by passing over all
 those points of theory which are so dear to Dr. Pym.  I know how they
 are made.  Perjury is a variety of aphasia, leading a man to say
@@ -426,37 +426,37 @@ one thing instead of another.  Forgery is a kind of writer's cramp,
 forcing a man to write his uncle's name instead of his own.
 Piracy on the high seas is probably a form of sea-sickness. But it is
 unnecessary for us to inquire into the causes of a fact which we deny.
-Innocent Smith never did commit burglary at all.
+[[Innocent]] [[smith|Smith]] never did commit burglary at all.
 
 "I should like to claim the power permitted by our previous arrangement,
 and ask the prosecution two or three questions."
 
 Dr. Cyrus Pym closed his eyes to indicate a courteous assent.
 
-"In the first place," continued Moon, "have you the date of Canon Hawkins's
-last glimpse of Smith and Percy climbing up the walls and roofs?"
+"In the first place," continued [[Moon]], "have you the date of Canon Hawkins's
+last glimpse of [[smith|Smith]] and Percy climbing up the walls and roofs?"
 
 "Ho, yus!" called out Gould smartly.  "November thirteen, eighteen ninety-one."
 
-"Have you," continued Moon, "identified the houses in Hoxton up
+"Have you," continued [[Moon]], "identified the houses in Hoxton up
 which they climbed?"
 
 "Must have been Ladysmith Terrace out of the highroad,"
 answered Gould with the same clockwork readiness.
 
-"Well," said Michael, cocking an eyebrow at him, "was there any burglary
-in that terrace that night?  Surely you could find that out."
+"[[Well]]," said [[Michael]], cocking an eyebrow at him, "was there any burglary
+in that terrace that [[Night|night]]?  Surely you could find that out."
 
-"There may well have been," said the doctor primly, after a pause,
+"There may [[Well|well]] have been," said the doctor primly, after a pause,
 "an unsuccessful one that led to no legalities."
 
-"Another question," proceeded Michael.  "Canon Hawkins, in his
-blood-and-thunder boyish way, left off at the exciting moment.
+"Another question," proceeded [[Michael]].  "Canon Hawkins, in his
+[[Blood|blood]]-and-thunder boyish way, left off at the exciting moment.
 Why don't you produce the evidence of the other clergyman,
 who actually followed the burglar and presumably was present
 at the crime?"
 
-Dr. Pym rose and planted the points of his fingers on the table,
+Dr. Pym [[Rose|rose]] and planted the points of his fingers on the table,
 as he did when he was specially confident of the clearness
 of his reply.
 
@@ -468,36 +468,36 @@ I think it will appear pretty natural to a bright thinker.
 This Mr. Raymond Percy is admittedly, by the canon's evidence,
 a minister of eccentric ways.  His con-nection with England's proudest
 and fairest does not seemingly prevent a taste for the society
-of the real low-down. On the other hand, the prisoner Smith is,
+of the real low-down. On the other hand, the prisoner [[smith|Smith]] is,
 by general agreement, a man of irr'sistible fascination.
-I entertain no doubt that Smith led the Revered Percy into the crime
+I entertain no [[Doubt|doubt]] that [[smith|Smith]] led the Revered Percy into the crime
 and forced him to hide his head in the real crim'nal class.
 That would fully account for his non-appearance, and the failure
 of all attempts to trace him."
 
-"It is impossible, then, to trace him?" asked Moon.
+"It is impossible, then, to trace him?" asked [[Moon]].
 
 "Impossible," repeated the specialist, shutting his eyes.
 
 "You are sure it's impossible?"
 
-"Oh dry up, Michael," cried Gould, irritably.  "We'd 'ave found
+"Oh dry up, [[Michael]]," cried Gould, irritably.  "We'd 'ave found
 'im if we could, for you bet 'e saw the burglary.  Don't YOU
 start looking for 'im. Look for your own 'ead in the dustbin.
 You'll find that--after a bit," and his voice died away in grumbling.
 
-"Arthur," directed Michael Moon, sitting down, "kindly read
-Mr. Raymond Percy's letter to the court."
+"[[arthur|Arthur]]," directed [[Michael]] [[Moon]], sitting down, "kindly read
+Mr. Raymond Percy's letter to the [[Court|court]]."
 
-"Wishing, as Mr. Moon has said, to shorten the proceedings as much
+"Wishing, as Mr. [[Moon]] has said, to shorten the proceedings as much
 as possible," began Inglewood, "I will not read the first part
 of the letter sent to us.  It is only fair to the prosecution
 to admit the account given by the second clergyman fully ratifies,
 as far as facts are concerned, that given by the first clergyman.
 We concede, then, the canon's story so far as it goes.
 This must necessarily be valuable to the prosecutor and also convenient
-to the court.  I begin Mr. Percy's letter, then, at the point
-when all three men were standing on the garden wall:--
+to the [[Court|court]].  I begin Mr. Percy's letter, then, at the point
+when all three men were standing on the [[Garden|garden]] wall:--
 
 
 "As I watched Hawkins wavering on the wall, I made up my own mind
@@ -505,14 +505,14 @@ not to waver.  A cloud of wrath was on my brain, like the cloud
 of copper fog on the houses and gardens round.  My decision was
 violent and simple; yet the thoughts that led up to it were so
 complicated and contradictory that I could not retrace them now.
-I knew Hawkins was a kind, innocent gentleman; and I would have
-given ten pounds for the pleasure of kicking him down the road.
+I knew Hawkins was a kind, [[Innocent|innocent]] gentleman; and I would have
+given ten pounds for the pleasure of kicking him down the [[Road|road]].
 That God should allow good people to be as bestially stupid as that--
-rose against me like a towering blasphemy.
+[[Rose|rose]] against me like a towering blasphemy.
 
-"At Oxford, I fear, I had the artistic temperament rather badly;
-and artists love to be limited.  I liked the church as a pretty pattern;
-discipline was mere decoration.  I delighted in mere divisions of time;
+"At [[Oxford]], I [[Fear|fear]], I had the artistic temperament rather badly;
+and artists [[Love|love]] to be limited.  I liked the church as a pretty pattern;
+discipline was mere decoration.  I delighted in mere divisions of [[Time|time]];
 I liked eating fish on Friday.  But then I like fish; and the fast
 was made for men who like meat.  Then I came to Hoxton and found men
 who had fasted for five hundred years; men who had to gnaw fish because
@@ -534,41 +534,41 @@ in the market-place, I should still have had that patience that all
 good Christians have with the wrongs inflicted on other people.
 But there is no priestcraft about Hawkins--nor any other kind of craft.
 He is as perfectly incapable of being a priest as he is of being a carpenter
-or a cabman or a gardener or a plasterer.  He is a perfect gentleman;
+or a [[cabman]] or a gardener or a plasterer.  He is a perfect gentleman;
 that is his complaint.  He does not impose his creed, but simply his class.
 He never said a word of religion in the whole of his damnable address.
 He simply said all the things his brother, the major, would have said.
 A voice from heaven assures me that he has a brother, and that this
 brother is a major.
 
-"When this helpless aristocrat had praised cleanliness in the body
-and convention in the soul to people who could hardly keep body
-and soul together, the stampede against our platform began.
+"When this helpless [[aristocrat]] had praised cleanliness in the [[Body|body]]
+and convention in the [[Soul|soul]] to people who could hardly keep [[Body|body]]
+and [[Soul|soul]] together, the stampede against our platform began.
 I took part in his undeserved rescue, I followed his
 obscure deliverer, until (as I have said) we stood together
 on the wall above the dim gardens, already clouding with fog.
 Then I looked at the curate and at the burglar, and decided, in a spasm
 of inspiration, that the burglar was the better man of the two.
 The burglar seemed quite as kind and human as the curate was--
-and he was also brave and self-reliant, which the curate was not.
+and he was also brave and [[Self|self]]-reliant, which the curate was not.
 I knew there was no virtue in the upper class, for I belong to
 it myself; I knew there was not so very much in the lower class,
-for I had lived with it a long time.  Many old texts about
+for I had lived with it a long [[Time|time]].  Many old texts about
 the despised and persecuted came back to my mind, and I thought
-that the saints might well be hidden in the criminal class.
-About the time Hawkins let himself down the ladder I was crawling
+that the saints might [[Well|well]] be hidden in the criminal class.
+About the [[Time|time]] Hawkins let himself down the ladder I was crawling
 up a low, sloping, blue-slate roof after the large man, who went
 leaping in front of me like a gorilla.
 
 "This upward scramble was short, and we soon found
-ourselves tramping along a broad road of flat roofs,
+ourselves tramping along a broad [[Road|road]] of flat roofs,
 broader than many big thoroughfares, with chimney-pots here
 and there that seemed in the haze as bulky as small forts.
 The asphyxiation of the fog seemed to increase the somewhat
-swollen and morbid anger under which my brain and body laboured.
+swollen and morbid anger under which my brain and [[Body|body]] laboured.
 The sky and all those things that are commonly clear seemed
 overpowered by sinister spirits.  Tall spectres with turbans of vapour
-seemed to stand higher than the sun or moon, eclipsing both.
+seemed to stand higher than the sun or [[Moon|moon]], eclipsing both.
 I thought dimly of illustrations to the `Arabian Nights'
 on brown paper with rich but sombre tints, showing genii
 gathering round the Seal of Solomon.  By the way, what was
@@ -672,7 +672,7 @@ chimney-pot. He must have landed at a level considerably lower, for,
 tall as he was, nothing but his weirdly tousled head remained visible.
 Something again far off, and yet familiar, pleased me about this way
 of invading the houses of men.  I thought of little chimney-sweeps,
-and `The Water Babies;' but I decided that it was not that.
+and `The [[Water]] Babies;' but I decided that it was not that.
 Then I remembered what it was that made me connect such topsy-turvy
 trespass with ideas quite opposite to the idea of crime.
 Christmas Eve, of course, and Santa Claus coming down the chimney.
@@ -685,14 +685,14 @@ to follow with that enthusiastic impatience proper only among old friends.
 I jumped into the gulf, and as blindly as Curtius, for I was still thinking
 of Santa Claus and the traditional virtue of such vertical entrance.
 
-"In every well-appointed gentleman's house, I reflected, there was
+"In every [[Well|well]]-appointed gentleman's [[house]], I reflected, there was
 the front door for the gentlemen, and the side door for the tradesmen;
 but there was also the top door for the gods.  The chimney is,
 so to speak, the underground passage between earth and heaven.
 By this starry tunnel Santa Claus manages--like the skylark--
-to be true to the kindred points of heaven and home.
+to be true to the kindred points of heaven and [[Home|home]].
 Nay, owing to certain conventions, and a widely distributed lack
-of courage for climbing, this door was, perhaps, little used.
+of [[Courage|courage]] for climbing, this door was, perhaps, little used.
 But Santa Claus's door was really the front door:
 it was the door fronting the universe.
 
@@ -700,7 +700,7 @@ it was the door fronting the universe.
 the roof, and scrambled down the squat ladder that let us down into a yet
 larger loft below.  Yet it was not till I was half-way down the ladder that I
 suddenly stood still, and thought for an instant of retracing all my steps,
-as my companion had retraced them from the beginning of the garden wall.
+as my companion had retraced them from the beginning of the [[Garden|garden]] wall.
 The name of Santa Claus had suddenly brought me back to my senses.
 I remembered why Santa Clause came, and why he was welcome.
 
@@ -710,7 +710,7 @@ the regular denunciations of robbery, both right and wrong;
 I had read the Ten Commandments in church a thousand times.
 And then and there, at the age of thirty-four, half-way
 down a ladder in a dark room in the bodily act of burglar,
-I saw suddenly for the first time that theft, after all,
+I saw suddenly for the first [[Time|time]] that theft, after all,
 is really wrong.
 
 "It was too late to turn back, however, and I followed
@@ -722,7 +722,7 @@ and we found ourselves looking down into a lamp-lit sitting room,
 of the sort that in large houses often leads out of a bedroom,
 and is an adjunct to it.  Light thus breaking from beneath
 our feet like a soundless explosion, showed that the trapdoor
-just lifted was clogged with dust and rust, and had doubtless
+just lifted was clogged with [[Dust|dust]] and rust, and had doubtless
 been long disused until the advent of my enterprising friend.
 But I did not look at this long, for the sight of the shining
 room underneath us had an almost unnatural attractiveness.
@@ -759,13 +759,13 @@ and stood looking at me, `you've thought about that, too.'
 
 "`I can't express a millionth part of what I've thought of,' I cried,
 `but it's something like this... oh, can't you see it?  Why are children
-not afraid of Santa Claus, though he comes like a thief in the night?
+not afraid of Santa Claus, though he comes like a thief in the [[Night|night]]?
 He is permitted secrecy, trespass, almost treachery--because there are
 more toys where he has been.  What should we feel if there were less?
 Down what chimney from hell would come the goblin that should take
 away the children's balls and dolls while they slept?  Could a Greek
-tragedy be more gray and cruel than that daybreak and awakening?
-Dog-stealer, horse-stealer, man-stealer--can you think of anything
+[[Tragedy|tragedy]] be more gray and cruel than that daybreak and awakening?
+Dog-stealer, [[Horse|horse]]-stealer, man-stealer--can you think of anything
 so base as a toy-stealer?'
 
 "The burglar, as if absently, took a large revolver from his pocket and laid
@@ -776,7 +776,7 @@ fixed on my face.
 it's really wrong.  The goods of the unhappy children of men
 should be really respected because of their worthlessness.
 I know Naboth's vineyard is as painted as Noah's Ark.  I know
-Nathan's ewe-lamb is really a woolly baa-lamb on a wooden stand.
+Nathan's ewe-[[Lamb|lamb]] is really a woolly baa-[[Lamb|lamb]] on a wooden stand.
 That is why I could not take them away.  I did not mind so much,
 as long as I thought of men's things as their valuables;
 but I dare not put a hand upon their vanities.'
@@ -795,7 +795,7 @@ Don't you see there's something sacred in the silliness of such things?'
 "`It's not the last bottle,' answered my criminal calmly;
 `there's plenty more in the cellar.'
 
-"`You know the house, then?'  I said.
+"`You know the [[house]], then?'  I said.
 
 "`Too well,' he answered, with a sadness so strange as to have
 something eerie about it.  `I am always trying to forget what I know--
@@ -829,7 +829,7 @@ and talking with the same rather creepy confidentialness.
 I come in through skylights and trapdoors to find him;
 but whenever I find him--he is doing what I am doing.'
 
-"I sprang to my feet with a thrill of fear.  `There is some one coming,'
+"I sprang to my feet with a thrill of [[Fear|fear]].  `There is some one coming,'
 I cried, and my cry had something of a shriek in it.  Not from
 the stairs below, but along the passage from the inner bedchamber
 (which seemed somehow to make it more alarming), footsteps were
@@ -845,20 +845,20 @@ conveyed experience as well as intelligence.  All she said was,
 `I didn't hear you come in.'
 
 "`I came in another way,' said the Permeator, somewhat vaguely.
-`I'd left my latchkey at home.'
+`I'd left my latchkey at [[Home|home]].'
 
 "I got to my feet in a mixture of politeness and mania.
 `I'm really very sorry,' I cried.  `I know my position is irregular.
-Would you be so obliging as to tell me whose house this is?'
+Would you be so obliging as to tell me whose [[house]] this is?'
 
 "`Mine,' said the burglar, `May I present you to my wife?'
 
 "I doubtfully, and somewhat slowly, resumed my seat;
-and I did not get out of it till nearly morning.  Mrs. Smith
+and I did not get out of it till nearly morning.  Mrs. [[smith|Smith]]
 (such was the prosaic name of this far from prosaic household)
 lingered a little, talking slightly and pleasantly.
 She left on my mind the impression of a certain odd mixture
-of shyness and sharpness; as if she knew the world well,
+of shyness and sharpness; as if she knew the world [[Well|well]],
 but was still a little harmlessly afraid of it.
 Perhaps the possession of so jumpy and incalculable a husband
 had left her a little nervous.  Anyhow, when she had retired
@@ -867,28 +867,28 @@ forth his apologia and autobiography over the dwindling wine.
 
 "He had been sent to Cambridge with a view to a mathematical
 and scientific, rather than a classical or literary, career.
-A starless nihilism was then the philosophy of the schools;
+A starless nihilism was then the [[philosophy]] of the schools;
 and it bred in him a war between the members and the spirit,
 but one in which the members were right.  While his brain
-accepted the black creed, his very body rebelled against it.
+accepted the black creed, his very [[Body|body]] rebelled against it.
 As he put it, his right hand taught him terrible things.
 As the authorities of Cambridge University put it, unfortunately,
 it had taken the form of his right hand flourishing a loaded
 firearm in the very face of a distinguished don, and driving
-him to climb out of the window and cling to a waterspout.
+him to climb out of the [[Window|window]] and cling to a waterspout.
 He had done it solely because the poor don had professed
 in theory a preference for non-existence. For this
 very unacademic type of argument he had been sent down.
 Vomiting as he was with revulsion, from the pessimism that had
-quailed under his pistol, he made himself a kind of fanatic
+quailed under his [[Pistol|pistol]], he made himself a kind of fanatic
 of the joy of life.  He cut across all the associations
 of serious-minded men.  He was gay, but by no means careless.
 His practical jokes were more in earnest than verbal ones.
 Though not an optimist in the absurd sense of maintaining that
 life is all beer and skittles, he did really seem to maintain
 that beer and skittles are the most serious part of it.
-`What is more immortal,' he would cry, `than love and war?
-Type of all desire and joy--beer.  Type of all battle
+`What is more immortal,' he would cry, `than [[Love|love]] and war?
+Type of all [[Desire|desire]] and joy--beer.  Type of all battle
 and conquest--skittles.'
 
 "There was something in him of what the old world called
@@ -939,22 +939,22 @@ He apologized in wild gasps through all his wild wet labours to bring
 her to the shore, and when he had done so at last, he seems to have
 proposed to her on the bank.  Anyhow, with the same impetuosity
 with which he had nearly murdered her, he completely married her;
-and she was the lady in green to whom I had recently said `good-night.'
+and she was the lady in green to whom I had recently said `good-[[Night|night]].'
 
 "They had settled down in these high narrow houses
 near Highbury.  Perhaps, indeed, that is hardly the word.
-One could strictly say that Smith was married, that he was very
+One could strictly say that [[smith|Smith]] was married, that he was very
 happily married, that he not only did not care for any woman
-but his wife, but did not seem to care for any place but his home;
+but his wife, but did not seem to care for any place but his [[Home|home]];
 but perhaps one could hardly say that he had settled down.
 `I am a very domestic fellow,' he explained with gravity,
-`and have often come in through a broken window rather than be
+`and have often come in through a broken [[Window|window]] rather than be
 late for tea.'
 
-"He lashed his soul with laughter to prevent it falling asleep.
+"He lashed his [[Soul|soul]] with laughter to prevent it falling asleep.
 He lost his wife a series of excellent servants by knocking at
-the door as a total stranger, and asking if Mr. Smith lived there
-and what kind of a man he was.  The London general servant is not
+the door as a total stranger, and asking if Mr. [[smith|Smith]] lived there
+and what kind of a man he was.  The [[London]] general servant is not
 used to the master indulging in such transcendental ironies.
 And it was found impossible to explain to her that he did it in order
 to feel the same interest in his own affairs that he always felt
@@ -965,27 +965,27 @@ weird way, `living in one of the tall houses in this terrace.
 I know he is really happy, and yet I can never catch him at it.'
 
 "Sometimes he would, of a sudden, treat his wife with a kind of paralyzed
-politeness, like a young stranger struck with love at first sight.
-Sometimes he would extend this poetic fear to the very furniture;
+politeness, like a young stranger struck with [[Love|love]] at first sight.
+Sometimes he would extend this poetic [[Fear|fear]] to the very furniture;
 would seem to apologize to the chair he sat on, and climb the staircase
-as cautiously as a cragsman, to renew in himself the sense of their skeleton
+as cautiously as a cragsman, to renew in himself the sense of their [[skeleton]]
 of reality.  Every stair is a ladder and every stool a leg, he said.
 And at other times he would play the stranger exactly in the opposite sense,
 and would enter by another way, so as to feel like a thief and a robber.
-He would break and violate his own home, as he had done with me that night.
+He would break and violate his own [[Home|home]], as he had done with me that [[Night|night]].
 It was near morning before I could tear myself from this queer confidence
 of the Man Who Would Not Die, and as I shook hands with him on the doorstep
 the last load of fog was lifting, and rifts of daylight revealed the stairway
 of irregular street levels that looked like the end of the world.
 
-"It will be enough for many to say that I had passed a night with a maniac.
+"It will be enough for many to say that I had passed a [[Night|night]] with a maniac.
 What other term, it will be said, could be applied to such a being?
 A man who reminds himself that he is married by pretending not to be married!
 A man who tries to covet his own goods instead of his neighbor's! On
-this I have but one word to say, and I feel it of my honour to say it,
+this I have but one word to say, and I feel it of my [[Honour|honour]] to say it,
 though no one understands.  I believe the maniac was one of those who
 do not merely come, but are sent; sent like a great gale upon ships
-by Him who made His angels winds and His messengers a flaming fire.
+by Him who made His angels winds and His messengers a flaming [[Fire|fire]].
 This, at least, I know for certain.  Whether such men have laughed
 or wept, we have laughed at their laughter as much as at their weeping.
 Whether they cursed or blessed the world, they have never fitted it.
@@ -997,7 +997,7 @@ For the goodness of good things, like the badness of bad things,
 is a prodigy past speech; it is to be pictured rather than spoken.
 We shall have gone deeper than the deeps of heaven and grown older than
 the oldest angels before we feel, even in its first faint vibrations,
-the everlasting violence of that double passion with which God hates
+the everlasting violence of that [[Double|double]] passion with which God hates
 and loves the world.--I am, yours faithfully,
 					    "Raymond Percy."
 
@@ -1014,7 +1014,7 @@ Moses Gould was as good a fellow in his way as ever lived;
 far kinder to his family than more refined men of pleasure,
 simple and steadfast in his admiration, a thoroughly wholesome
 animal and a thoroughly genuine character.  But wherever there
-is conflict, crises come in which any soul, personal or racial,
+is conflict, crises come in which any [[Soul|soul]], personal or racial,
 unconsciously turns on the world the most hateful of its hundred faces.
 English reverence, Irish mysticism, American idealism,
 looked up and saw on the face of Moses a certain smile.
@@ -1023,21 +1023,21 @@ for many a cruel riot in Russian villages or mediaeval towns.
 
 "Oh, 'oly, 'oly, 'oly!" said Moses Gould.
 
-Finding that this was not well received, he explained further,
+Finding that this was not [[Well|well]] received, he explained further,
 exuberance deepening on his dark exuberant features.
 
-"Always fun to see a bloke swallow a wasp when 'e's corfin' up a fly,"
-he said pleasantly.  "Don't you see you've bunged up old Smith anyhow.
-If this parson's tale's O.K.--why, Smith is 'ot.  'E's pretty 'ot.
+"Always fun to see a bloke [[Swallow|swallow]] a wasp when 'e's corfin' up a fly,"
+he said pleasantly.  "Don't you see you've bunged up old [[smith|Smith]] anyhow.
+If this parson's tale's O.K.--why, [[smith|Smith]] is 'ot.  'E's pretty 'ot.
 We find him elopin' with Miss Gray (best respects!) in a cab.
-Well, what abart this Mrs. Smith the curate talks of, with her
+[[Well]], what abart this Mrs. [[smith|Smith]] the curate talks of, with her
 blarsted shyness--transmigogrified into a blighted sharpness?
 Miss Gray ain't been very sharp, but I reckon she'll be pretty shy."
 
-"Don't be a brute," growled Michael Moon.
+"Don't be a brute," growled [[Michael]] [[Moon]].
 
 None could lift their eyes to look at Mary; but Inglewood sent a glance
-along the table at Innocent Smith.  He was still bowed above his paper toys,
+along the table at [[Innocent]] [[smith|Smith]].  He was still bowed above his paper toys,
 and a wrinkle was on his forehead that might have been worry or shame.
 He carefully plucked out one corner of a complicated paper and tucked it
 in elsewhere; then the wrinkle vanished and he looked relieved.

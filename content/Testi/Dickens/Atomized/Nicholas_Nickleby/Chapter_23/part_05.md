@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 23 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 23 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -26,7 +26,7 @@ entertainments, properly conducted.’
 ‘Then they have none, sir,’ rejoined Mr. Crummles. ‘To the infant’s
 benefit, last year, on which occasion she repeated three of her most
 popular characters, and also appeared in the Fairy Porcupine, as
-originally performed by her, there was a house of no more than four
+originally performed by her, there was a [[house]] of no more than four
 pound twelve.’
 
 ‘Is it possible?’ cried Nicholas.
@@ -61,32 +61,32 @@ some nice little part with the infant?’
 
 ‘You are very good,’ replied Nicholas hastily; ‘but I think perhaps it
 would be better if I had somebody of my own size at first, in case I
-should turn out awkward. I should feel more at home, perhaps.’
+should turn out awkward. I should feel more at [[Home|home]], perhaps.’
 
 ‘True,’ said the manager. ‘Perhaps you would. And you could play up to
-the infant, in time, you know.’
+the infant, in [[Time|time]], you know.’
 
 ‘Certainly,’ replied Nicholas: devoutly hoping that it would be a very
-long time before he was honoured with this distinction.
+long [[Time|time]] before he was honoured with this distinction.
 
 ‘Then I’ll tell you what we’ll do,’ said Mr. Crummles. ‘You shall study
-Romeo when you’ve done that piece--don’t forget to throw the pump
-and tubs in by-the-bye--Juliet Miss Snevellicci, old Grudden the
-nurse.--Yes, that’ll do very well. Rover too;--you might get up Rover
-while you were about it, and Cassio, and Jeremy Diddler. You can easily
+[[Romeo]] when you’ve done that piece--don’t forget to throw the pump
+and tubs in by-the-bye--[[Juliet]] Miss Snevellicci, old Grudden the
+[[Nurse|nurse]].--Yes, that’ll do very [[Well|well]]. Rover too;--you might get up Rover
+while you were about it, and [[Cassio]], and Jeremy Diddler. You can easily
 knock them off; one part helps the other so much. Here they are, cues
 and all.’
 
 With these hasty general directions Mr. Crummles thrust a number of
 little books into the faltering hands of Nicholas, and bidding his
 eldest son go with him and show where lodgings were to be had, shook him
-by the hand, and wished him good night.
+by the hand, and wished him good [[Night|night]].
 
 There is no lack of comfortable furnished apartments in Portsmouth, and
 no difficulty in finding some that are proportionate to very slender
 finances; but the former were too good, and the latter too bad, and they
 went into so many houses, and came out unsuited, that Nicholas seriously
-began to think he should be obliged to ask permission to spend the night
+began to think he should be obliged to ask permission to spend the [[Night|night]]
 in the theatre, after all.
 
 Eventually, however, they stumbled upon two small rooms up three pair of
@@ -95,7 +95,7 @@ Common Hard: a dirty street leading down to the dockyard. These Nicholas
 engaged, only too happy to have escaped any request for payment of a
 week’s rent beforehand.
 
-‘There! Lay down our personal property, Smike,’ he said, after showing
+‘There! Lay down our personal property, [[Smike]],’ he said, after showing
 young Crummles downstairs. ‘We have fallen upon strange times, and
 Heaven only knows the end of them; but I am tired with the events of
 these three days, and will postpone reflection till tomorrow--if I can.’

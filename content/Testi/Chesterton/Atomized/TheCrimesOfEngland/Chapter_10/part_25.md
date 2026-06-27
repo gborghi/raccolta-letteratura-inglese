@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 25)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 25)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -16,27 +16,27 @@ tags:
 
 expect him personally to take arms and pursue the ruffian; and if he
 
-refused to do so, would very probably experiment with another king. And
+refused to do so, would very probably experiment with another [[King|king]]. And
 
-the same primitive conception of a king being kept for some kind of
+the same primitive conception of a [[King|king]] being kept for some kind of
 
 purpose, led them also to expect him to lead in a foreign campaign, and
 
 it was with his own hand that he fired the first shot of the war which
 
-brought down into the dust the ancient empire of the Grand Turk.
+brought down into the [[Dust|dust]] the ancient empire of the Grand Turk.
 
 
 
 His kingdom was little more than the black mountain after which it was
 
-named: we commonly refer to it under its Italian translation of
+named: we commonly refer to it under its Italian [[Translation|translation]] of
 
 Montenegro. It is worth while to pause for a moment upon his picturesque
 
 and peculiar community, because it is perhaps the simplest working model
 
-of all that stood in the path of the great Germanic social machine I
+of all that stood in the path of the great Germanic social [[Machine|machine]] I
 
 have described in the last chapter--stood in its path and was soon to be
 
@@ -48,7 +48,7 @@ many hundred years, had mocked at the predatory empire of the Turks. The
 
 Serbians in their turn were but one branch of the peasant Slavs,
 
-millions of whom are spread over Russia and subject on many sides to
+millions of whom are spread over [[Russia]] and subject on many sides to
 
 empires with which they have less sympathy; and the Slavs again, in the
 
@@ -66,15 +66,15 @@ excellent model.
 
 Moreover, the instance of one small Christian State will serve to
 
-emphasise that this is not a quarrel between England and Germany, but
+emphasise that this is not a quarrel between England and [[Germany]], but
 
-between Europe and Germany. It is my whole purpose in these pages not to
+between Europe and [[Germany]]. It is my whole purpose in these pages not to
 
 spare my own country where it is open to criticism; and I freely admit
 
 that Montenegro, morally and politically speaking, is almost as much in
 
-advance of England as it is of Germany. In Montenegro there are no
+advance of England as it is of [[Germany]]. In Montenegro there are no
 
 millionaires--and therefore next to no Socialists. As to why there are
 
@@ -88,9 +88,9 @@ usurer, every forestaller, every adulterater, every user of false
 
 weights, every fixer of false boundaries, every land-thief, every
 
-water-thief, you afterwards discover by a strange indirect miracle, or
+[[Water|water]]-thief, you afterwards discover by a strange indirect miracle, or
 
-disconnected truth from heaven, that you have no millionaires. Without
+disconnected [[Truth|truth]] from heaven, that you have no millionaires. Without
 
 dwelling further on this dark matter, we may say that this great gap in
 
@@ -116,7 +116,7 @@ are patriotic for Montenegro; but Turks are not patriotic for Turkey.
 
 They never heard of it, in fact. They are Bedouins, as homeless as the
 
-desert. The "wrong horse" of Lord Salisbury was an Arab steed, only
+[[Desert|desert]]. The "wrong [[Horse|horse]]" of Lord Salisbury was an Arab steed, only
 
 stabled in Byzantium. It is hard enough to rule vagabond people, like
 
@@ -126,7 +126,7 @@ the gypsies. To be ruled by them is impossible.
 
 Nevertheless what was called the nineteenth century, and named with a
 
-sort of transcendental faith (as in a Pythagorean worship of number),
+sort of transcendental [[Faith|faith]] (as in a Pythagorean worship of number),
 
 was wearing to its close with reaction everywhere, and the Turk, the
 
@@ -142,9 +142,9 @@ and Mr. Kipling, a less mystical Carlyle, was expending a type of praise
 
 upon the British Army which would have been even more appropriate to the
 
-Prussian Army. The Prussian Army ruled Prussia; Prussia ruled Germany;
+Prussian Army. The Prussian Army ruled Prussia; Prussia ruled [[Germany]];
 
-Germany ruled the Concert of Europe. She was planting everywhere the
+[[Germany]] ruled the Concert of Europe. She was planting everywhere the
 
 appliances of that new servile machinery which was her secret; the
 
@@ -162,9 +162,9 @@ the dream of the citizen was at an end.
 
 
 
-It was under a sky so leaden and on a road so strewn with bones that the
+It was under a sky so leaden and on a [[Road|road]] so strewn with bones that the
 
-little mountain democracy with its patriarchal prince went out, first
+little mountain [[democracy]] with its patriarchal prince went out, first
 
 and before all its friends, on the last and seemingly the most hopeless
 
@@ -180,18 +180,18 @@ ways, and was seen by many, and probably most, sincere liberals as a
 
 mere extension of the Imperialist reaction of Bosnia and Paardeberg, and
 
-not as the promise of newer things. Italy, it must be remembered, was
+not as the promise of newer things. [[Italy]], it must be remembered, was
 
 still supposed to be the partner of Prussia and the Hapsburgs. For days
 
 that seemed like months the microscopic state seemed to be attempting
 
-alone what the Crusades had failed to accomplish. And for days Europe
+[[Alone|alone]] what the [[Crusades]] had failed to accomplish. And for days Europe
 
 and the great powers were thunderstruck, again and yet again, by the
 
 news of Turkish forts falling, Turkish cohorts collapsing, the
 
-unconquerable Crescent going down in blood. The Serbians, the
+unconquerable Crescent going down in [[Blood|blood]]. The Serbians, the
 
 Bulgarians, the Greeks had gathered and risen from their lairs; and men

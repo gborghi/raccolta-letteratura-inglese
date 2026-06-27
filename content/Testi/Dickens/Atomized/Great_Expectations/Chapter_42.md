@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 42"
+title: "[[Great Expectations]] — Chapter 42"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,27 +18,27 @@ Chapter XLII.
 
 
 “Dear boy and Pip’s comrade. I am not a-going fur to tell you my life
-like a song, or a story-book. But to give it you short and handy, I’ll
+like a [[Song|song]], or a story-book. But to give it you short and handy, I’ll
 put it at once into a mouthful of English. In jail and out of jail, in
 jail and out of jail, in jail and out of jail. There, you’ve got it.
 That’s _my_ life pretty much, down to such times as I got shipped off,
 arter Pip stood my friend.
 
-“I’ve been done everything to, pretty well—except hanged. I’ve been
+“I’ve been done everything to, pretty [[Well|well]]—except hanged. I’ve been
 locked up as much as a silver tea-kittle. I’ve been carted here and
 carted there, and put out of this town, and put out of that town, and
 stuck in the stocks, and whipped and worried and drove. I’ve no more
 notion where I was born than you have—if so much. I first become aware
 of myself down in Essex, a thieving turnips for my living. Summun had
-run away from me—a man—a tinker—and he’d took the fire with him, and
+run away from me—a man—a tinker—and he’d took the [[Fire|fire]] with him, and
 left me wery cold.
 
 “I know’d my name to be Magwitch, chrisen’d Abel. How did I know it?
-Much as I know’d the birds’ names in the hedges to be chaffinch,
+Much as I know’d the [[Birds|birds]]’ names in the hedges to be chaffinch,
 sparrer, thrush. I might have thought it was all lies together, only as
-the birds’ names come out true, I supposed mine did.
+the [[Birds|birds]]’ names come out true, I supposed mine did.
 
-“So fur as I could find, there warn’t a soul that see young Abel
+“So fur as I could find, there warn’t a [[Soul|soul]] that see young Abel
 Magwitch, with us little on him as in him, but wot caught fright at
 him, and either drove him off, or took him up. I was took up, took up,
 took up, to that extent that I reg’larly grow’d up took up.
@@ -47,7 +47,7 @@ took up, to that extent that I reg’larly grow’d up took up.
 much to be pitied as ever I see (not that I looked in the glass, for
 there warn’t many insides of furnished houses known to me), I got the
 name of being hardened. ‘This is a terrible hardened one,’ they says to
-prison wisitors, picking out me. ‘May be said to live in jails, this
+[[Prison|prison]] wisitors, picking out me. ‘May be said to live in jails, this
 boy.’ Then they looked at me, and I looked at them, and they measured
 my head, some on ’em,—they had better a measured my stomach,—and others
 on ’em giv me tracts what I couldn’t read, and made me speeches what I
@@ -64,7 +64,7 @@ haymaker, a bit of a hawker, a bit of most things that don’t pay and
 lead to trouble, I got to be a man. A deserting soldier in a
 Traveller’s Rest, what lay hid up to the chin under a lot of taturs,
 learnt me to read; and a travelling Giant what signed his name at a
-penny a time learnt me to write. I warn’t locked up as often now as
+penny a [[Time|time]] learnt me to write. I warn’t locked up as often now as
 formerly, but I wore out my good share of key-metal still.
 
 “At Epsom races, a matter of over twenty years ago, I got acquainted
@@ -72,12 +72,12 @@ wi’ a man whose skull I’d crack wi’ this poker, like the claw of a
 lobster, if I’d got it on this hob. His right name was Compeyson; and
 that’s the man, dear boy, what you see me a pounding in the ditch,
 according to what you truly told your comrade arter I was gone last
-night.
+[[Night|night]].
 
 “He set up fur a gentleman, this Compeyson, and he’d been to a public
 boarding-school and had learning. He was a smooth one to talk, and was
 a dab at the ways of gentlefolks. He was good-looking too. It was the
-night afore the great race, when I found him on the heath, in a booth
+[[Night|night]] afore the great race, when I found him on the heath, in a booth
 that I know’d on. Him and some more was a sitting among the tables when
 I went in, and the landlord (which had a knowledge of me, and was a
 sporting one) called him out, and said, ‘I think this is a man that
@@ -95,56 +95,56 @@ been for something else; but it warn’t.)
 
 “‘Luck changes,’ says Compeyson; ‘perhaps yours is going to change.’
 
-“I says, ‘I hope it may be so. There’s room.’
+“I says, ‘I [[Hope|hope]] it may be so. There’s room.’
 
 “‘What can you do?’ says Compeyson.
 
 “‘Eat and drink,’ I says; ‘if you’ll find the materials.’
 
 “Compeyson laughed, looked at me again very noticing, giv me five
-shillings, and appointed me for next night. Same place.
+shillings, and appointed me for next [[Night|night]]. Same place.
 
-“I went to Compeyson next night, same place, and Compeyson took me on
+“I went to Compeyson next [[Night|night]], same place, and Compeyson took me on
 to be his man and pardner. And what was Compeyson’s business in which
 we was to go pardners? Compeyson’s business was the swindling,
 handwriting forging, stolen bank-note passing, and such-like. All sorts
 of traps as Compeyson could set with his head, and keep his own legs
 out of and get the profits from and let another man in for, was
 Compeyson’s business. He’d no more heart than a iron file, he was as
-cold as death, and he had the head of the Devil afore mentioned.
+cold as [[Death|death]], and he had the head of the Devil afore mentioned.
 
-“There was another in with Compeyson, as was called Arthur,—not as
+“There was another in with Compeyson, as was called [[arthur|Arthur]],—not as
 being so chrisen’d, but as a surname. He was in a Decline, and was a
-shadow to look at. Him and Compeyson had been in a bad thing with a
+[[Shadow|shadow]] to look at. Him and Compeyson had been in a bad thing with a
 rich lady some years afore, and they’d made a pot of money by it; but
-Compeyson betted and gamed, and he’d have run through the king’s taxes.
-So, Arthur was a dying, and a dying poor and with the horrors on him,
+Compeyson betted and gamed, and he’d have run through the [[King|king]]’s taxes.
+So, [[arthur|Arthur]] was a dying, and a dying poor and with the horrors on him,
 and Compeyson’s wife (which Compeyson kicked mostly) was a having pity
 on him when she could, and Compeyson was a having pity on nothing and
 nobody.
 
-“I might a took warning by Arthur, but I didn’t; and I won’t pretend I
+“I might a took warning by [[arthur|Arthur]], but I didn’t; and I won’t pretend I
 was partick’ler—for where ’ud be the good on it, dear boy and comrade?
-So I begun wi’ Compeyson, and a poor tool I was in his hands. Arthur
-lived at the top of Compeyson’s house (over nigh Brentford it was), and
+So I begun wi’ Compeyson, and a poor tool I was in his hands. [[arthur|Arthur]]
+lived at the top of Compeyson’s [[house]] (over nigh Brentford it was), and
 Compeyson kept a careful account agen him for board and lodging, in
-case he should ever get better to work it out. But Arthur soon settled
-the account. The second or third time as ever I see him, he come a
-tearing down into Compeyson’s parlour late at night, in only a flannel
+case he should ever get better to work it out. But [[arthur|Arthur]] soon settled
+the account. The second or third [[Time|time]] as ever I see him, he come a
+tearing down into Compeyson’s parlour late at [[Night|night]], in only a flannel
 gown, with his hair all in a sweat, and he says to Compeyson’s wife,
 ‘Sally, she really is upstairs alonger me, now, and I can’t get rid of
-her. She’s all in white,’ he says, ‘wi’ white flowers in her hair, and
+her. She’s all in white,’ he says, ‘wi’ white [[Flowers|flowers]] in her hair, and
 she’s awful mad, and she’s got a shroud hanging over her arm, and she
 says she’ll put it on me at five in the morning.’
 
-“Says Compeyson: ‘Why, you fool, don’t you know she’s got a living
-body? And how should she be up there, without coming through the door,
-or in at the window, and up the stairs?’
+“Says Compeyson: ‘Why, you [[Fool|fool]], don’t you know she’s got a living
+[[Body|body]]? And how should she be up there, without coming through the door,
+or in at the [[Window|window]], and up the stairs?’
 
-“‘I don’t know how she’s there,’ says Arthur, shivering dreadful with
+“‘I don’t know how she’s there,’ says [[arthur|Arthur]], shivering dreadful with
 the horrors, ‘but she’s standing in the corner at the foot of the bed,
 awful mad. And over where her heart’s broke—_you_ broke it!—there’s
-drops of blood.’
+drops of [[Blood|blood]].’
 
 “Compeyson spoke hardy, but he was always a coward. ‘Go up alonger this
 drivelling sick man,’ he says to his wife, ‘and Magwitch, lend her a
@@ -169,7 +169,7 @@ from her?’ ‘Yes, yes, all right.’ ‘You’re a good creetur,’ he says,
 then he starts up with a scream, and screams out, ‘Here she is! She’s
 got the shroud again. She’s unfolding it. She’s coming out of the
 corner. She’s coming to the bed. Hold me, both on you—one of each
-side—don’t let her touch me with it. Hah! she missed me that time.
+side—don’t let her touch me with it. Hah! she missed me that [[Time|time]].
 Don’t let her throw it over my shoulders. Don’t let her lift me up to
 get it round me. She’s lifting me up. Keep me down!’ Then he lifted
 himself up hard, and was dead.
@@ -185,22 +185,22 @@ that man got me into such nets as made me his black slave. I was always
 in debt to him, always under his thumb, always a working, always a
 getting into danger. He was younger than me, but he’d got craft, and
 he’d got learning, and he overmatched me five hundred times told and no
-mercy. My Missis as I had the hard time wi’—Stop though! I ain’t
+[[Mercy|mercy]]. My Missis as I had the hard [[Time|time]] wi’—Stop though! I ain’t
 brought _her_ in—”
 
 He looked about him in a confused way, as if he had lost his place in
-the book of his remembrance; and he turned his face to the fire, and
+the book of his remembrance; and he turned his face to the [[Fire|fire]], and
 spread his hands broader on his knees, and lifted them off and put them
 on again.
 
 “There ain’t no need to go into it,” he said, looking round once more.
-“The time wi’ Compeyson was a’most as hard a time as ever I had; that
-said, all’s said. Did I tell you as I was tried, alone, for
+“The [[Time|time]] wi’ Compeyson was a’most as hard a [[Time|time]] as ever I had; that
+said, all’s said. Did I tell you as I was tried, [[Alone|alone]], for
 misdemeanor, while with Compeyson?”
 
 I answered, No.
 
-“Well!” he said, “I _was_, and got convicted. As to took up on
+“[[Well]]!” he said, “I _was_, and got convicted. As to took up on
 suspicion, that was twice or three times in the four or five year that
 it lasted; but evidence was wanting. At last, me and Compeyson was both
 committed for felony,—on a charge of putting stolen notes in
@@ -220,31 +220,31 @@ money had been paid to, how it was always me that had seemed to work
 the thing and get the profit. But when the defence come on, then I see
 the plan plainer; for, says the counsellor for Compeyson, ‘My lord and
 gentlemen, here you has afore you, side by side, two persons as your
-eyes can separate wide; one, the younger, well brought up, who will be
+eyes can separate wide; one, the younger, [[Well|well]] brought up, who will be
 spoke to as such; one, the elder, ill brought up, who will be spoke to
 as such; one, the younger, seldom if ever seen in these here
 transactions, and only suspected; t’other, the elder, always seen in
-’em and always wi’ his guilt brought home. Can you doubt, if there is
+’em and always wi’ his [[Guilt|guilt]] brought [[Home|home]]. Can you [[Doubt|doubt]], if there is
 but one in it, which is the one, and, if there is two in it, which is
 much the worst one?’ And such-like. And when it come to character,
 warn’t it Compeyson as had been to the school, and warn’t it his
 schoolfellows as was in this position and in that, and warn’t it him as
 had been know’d by witnesses in such clubs and societies, and nowt to
 his disadvantage? And warn’t it me as had been tried afore, and as had
-been know’d up hill and down dale in Bridewells and Lock-Ups! And when
+been know’d up [[Hill|hill]] and down dale in Bridewells and Lock-Ups! And when
 it come to speech-making, warn’t it Compeyson as could speak to ’em wi’
 his face dropping every now and then into his white
 pocket-handkercher,—ah! and wi’ verses in his speech, too,—and warn’t
 it me as could only say, ‘Gentlemen, this man at my side is a most
 precious rascal’? And when the verdict come, warn’t it Compeyson as was
-recommended to mercy on account of good character and bad company, and
+recommended to [[Mercy|mercy]] on account of good character and bad company, and
 giving up all the information he could agen me, and warn’t it me as got
 never a word but Guilty? And when I says to Compeyson, ‘Once out of
-this court, I’ll smash that face of yourn!’ ain’t it Compeyson as prays
+this [[Court|court]], I’ll smash that face of yourn!’ ain’t it Compeyson as prays
 the Judge to be protected, and gets two turnkeys stood betwixt us? And
 when we’re sentenced, ain’t it him as gets seven year, and me fourteen,
 and ain’t it him as the Judge is sorry for, because he might a done so
-well, and ain’t it me as the Judge perceives to be a old offender of
+[[Well|well]], and ain’t it me as the Judge perceives to be a old offender of
 wiolent passion, likely to come to worse?”
 
 He had worked himself into a state of great excitement, but he checked
@@ -258,10 +258,10 @@ his face and head and neck and hands, before he could go on.
 [Illustration]
 
 “I had said to Compeyson that I’d smash that face of his, and I swore
-Lord smash mine! to do it. We was in the same prison-ship, but I
+Lord smash mine! to do it. We was in the same [[Prison|prison]]-[[Ship|ship]], but I
 couldn’t get at him for long, though I tried. At last I come behind him
 and hit him on the cheek to turn him round and get a smashing one at
-him, when I was seen and seized. The black-hole of that ship warn’t a
+him, when I was seen and seized. The black-hole of that [[Ship|ship]] warn’t a
 strong one, to a judge of black-holes that could swim and dive. I
 escaped to the shore, and I was a hiding among the graves there,
 envying them as was in ’em and all over, when I first see my boy!”
@@ -270,7 +270,7 @@ He regarded me with a look of affection that made him almost abhorrent
 to me again, though I had felt great pity for him.
 
 “By my boy, I was giv to understand as Compeyson was out on them
-marshes too. Upon my soul, I half believe he escaped in his terror, to
+marshes too. Upon my [[Soul|soul]], I half believe he escaped in his terror, to
 get quit of me, not knowing it was me as had got ashore. I hunted him
 down. I smashed his face. ‘And now,’ says I ‘as the worst thing I can
 do, caring nothing for myself, I’ll drag you back.’ And I’d have swum
@@ -287,7 +287,7 @@ He wiped himself again, as he had done before, and then slowly took his
 tangle of tobacco from his pocket, and plucked his pipe from his
 button-hole, and slowly filled it, and began to smoke.
 
-“Is he dead?” I asked, after a silence.
+“Is he dead?” I asked, after a [[Silence|silence]].
 
 “Is who dead, dear boy?”
 
@@ -298,11 +298,11 @@ button-hole, and slowly filled it, and began to smoke.
 
 Herbert had been writing with his pencil in the cover of a book. He
 softly pushed the book over to me, as Provis stood smoking with his
-eyes on the fire, and I read in it:—
+eyes on the [[Fire|fire]], and I read in it:—
 
-“Young Havisham’s name was Arthur. Compeyson is the man who professed
-to be Miss Havisham’s lover.”
+“Young Havisham’s name was [[arthur|Arthur]]. Compeyson is the man who professed
+to be [[Miss Havisham]]’s [[Lover|lover]].”
 
 I shut the book and nodded slightly to Herbert, and put the book by;
 but we neither of us said anything, and both looked at Provis as he
-stood smoking by the fire.
+stood smoking by the [[Fire|fire]].

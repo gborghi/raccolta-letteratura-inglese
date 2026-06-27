@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 20 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 20 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -48,7 +48,7 @@ would go with him to Barton. He is so droll! He never tells me any
 
 thing! I am so sorry we cannot stay longer; however we shall meet again
 
-in town very soon, I hope.”
+in town very soon, I [[Hope|hope]].”
 
 
 
@@ -58,11 +58,11 @@ They were obliged to put an end to such an expectation.
 
 “Not go to town!” cried Mrs. Palmer, with a laugh, “I shall be quite
 
-disappointed if you do not. I could get the nicest house in the world
+disappointed if you do not. I could get the nicest [[house]] in the world
 
 for you, next door to ours, in Hanover-square. You must come, indeed. I
 
-am sure I shall be very happy to chaperon you at any time till I am
+am sure I shall be very happy to chaperon you at any [[Time|time]] till I am
 
 confined, if Mrs. Dashwood should not like to go into public.”
 
@@ -72,15 +72,15 @@ They thanked her; but were obliged to resist all her entreaties.
 
 
 
-“Oh, my love,” cried Mrs. Palmer to her husband, who just then entered
+“Oh, my [[Love|love]],” cried Mrs. Palmer to her husband, who just then entered
 
 the room—“you must help me to persuade the Miss Dashwoods to go to town
 
-this winter.”
+this [[Winter|winter]].”
 
 
 
-Her love made no answer; and after slightly bowing to the ladies, began
+Her [[Love|love]] made no answer; and after slightly bowing to the ladies, began
 
 complaining of the weather.
 
@@ -88,11 +88,11 @@ complaining of the weather.
 
 “How horrid all this is!” said he. “Such weather makes every thing and
 
-every body disgusting. Dullness is as much produced within doors as
+every [[Body|body]] disgusting. Dullness is as much produced within doors as
 
 without, by rain. It makes one detest all one’s acquaintance. What the
 
-devil does Sir John mean by not having a billiard room in his house?
+devil does Sir John mean by not having a billiard room in his [[house]]?
 
 How few people know what comfort is! Sir John is as stupid as the
 
@@ -110,7 +110,7 @@ take your usual walk to Allenham today.”
 
 
 
-Marianne looked very grave and said nothing.
+Marianne looked very [[Grave|grave]] and said nothing.
 
 
 
@@ -128,7 +128,7 @@ country, you know. Not above ten miles, I dare say.”
 
 
 
-“Ah, well! there is not much difference. I never was at his house; but
+“Ah, [[Well|well]]! there is not much difference. I never was at his [[house]]; but
 
 they say it is a sweet pretty place.”
 
@@ -178,13 +178,13 @@ ceremony.”
 
 
 
-“My love you contradict every body,” said his wife with her usual
+“My [[Love|love]] you contradict every [[Body|body]],” said his wife with her usual
 
 laugh. “Do you know that you are quite rude?”
 
 
 
-“I did not know I contradicted any body in calling your mother
+“I did not know I contradicted any [[Body|body]] in calling your mother
 
 ill-bred.”
 
@@ -200,7 +200,7 @@ So there I have the whip hand of you.”
 
 Charlotte laughed heartily to think that her husband could not get rid
 
-of her; and exultingly said, she did not care how cross he was to her,
+of her; and exultingly said, she did not care how [[Cross|cross]] he was to her,
 
 as they must live together. It was impossible for any one to be more
 
@@ -208,7 +208,7 @@ thoroughly good-natured, or more determined to be happy than Mrs.
 
 Palmer. The studied indifference, insolence, and discontent of her
 
-husband gave her no pain; and when he scolded or abused her, she was
+husband gave her no [[Pain|pain]]; and when he scolded or abused her, she was
 
 highly diverted.
 
@@ -216,7 +216,7 @@ highly diverted.
 
 “Mr. Palmer is so droll!” said she, in a whisper, to Elinor. “He is
 
-always out of humour.”
+always out of [[Humour|humour]].”
 
 
 
@@ -228,15 +228,15 @@ wished to appear. His temper might perhaps be a little soured by
 
 finding, like many others of his sex, that through some unaccountable
 
-bias in favour of beauty, he was the husband of a very silly woman—but
+bias in favour of [[Beauty|beauty]], he was the husband of a very silly woman—but
 
 she knew that this kind of blunder was too common for any sensible man
 
 to be lastingly hurt by it. It was rather a wish of distinction, she
 
-believed, which produced his contemptuous treatment of every body, and
+believed, which produced his contemptuous treatment of every [[Body|body]], and
 
-his general abuse of every thing before him. It was the desire of
+his general abuse of every thing before him. It was the [[Desire|desire]] of
 
 appearing superior to other people. The motive was too common to be
 
@@ -252,11 +252,11 @@ him except his wife.
 
 got such a favour to ask of you and your sister. Will you come and
 
-spend some time at Cleveland this Christmas? Now, pray do,—and come
+spend some [[Time|time]] at Cleveland this Christmas? Now, pray do,—and come
 
 while the Westons are with us. You cannot think how happy I shall be!
 
-It will be quite delightful!—My love,” applying to her husband, “don’t
+It will be quite delightful!—My [[Love|love]],” applying to her husband, “don’t
 
 you long to have the Miss Dashwoods come to Cleveland?”
 

@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 6)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -34,17 +34,17 @@ consists of purely creative things: farces, romances, stories in any
 
 case with a non-natural perfection, or a poetical justice, to round them
 
-off. One class is admirably represented, for instance, by the sketch
+off. One class is admirably represented, for instance, by the [[Sketch|sketch]]
 
-describing the Charity Dinner, the other by such a story as that of
+describing the [[Charity]] Dinner, the other by such a story as that of
 
 _Horatio Sparkins_. These things were almost certainly written by
 
 Dickens at very various periods of his youth; and early as the harvest
 
-is, no doubt it is a harvest and had ripened during a reasonably long
+is, no [[Doubt|doubt]] it is a harvest and had ripened during a reasonably long
 
-time. Nevertheless it is with these two types of narrative that the
+[[Time|time]]. Nevertheless it is with these two types of narrative that the
 
 young Charles Dickens first enters English literature; he enters it with
 
@@ -56,7 +56,7 @@ side of the extravagant and even the superficial. Journalism had not
 
 then, indeed, sunk to the low level which it has since reached. His
 
-sketches of dirty London would not have been dirty enough for the modern
+sketches of dirty [[London]] would not have been dirty enough for the modern
 
 Imperialist press. Still these first efforts of his are journalism, and
 
@@ -80,19 +80,19 @@ educated class such a transition is really tragic. A duke may become a
 
 navvy for a joke, but a clerk cannot become a navvy for a joke.
 
-Dickens's parents went to a debtors' prison; Dickens himself went to a
+Dickens's parents went to a debtors' [[Prison|prison]]; Dickens himself went to a
 
-far more unpleasant place. The debtors' prison had about it at least
+far more unpleasant place. The debtors' [[Prison|prison]] had about it at least
 
-that element of amiable compromise and kindly decay which belonged (and
+that element of amiable compromise and kindly [[Decay|decay]] which belonged (and
 
 belongs still) to all the official institutions of England. But Dickens
 
 was doomed to see the very blackest aspect of nineteenth-century
 
-England, something far blacker than any mere bad government. He went not
+England, something far blacker than any mere bad [[government]]. He went not
 
-to a prison but to a factory. In the musty traditionalism of the
+to a [[Prison|prison]] but to a factory. In the musty traditionalism of the
 
 Marshalsea old John Dickens could easily remain optimistic. In the
 
@@ -104,7 +104,7 @@ he even escaped the factory itself. His next step in life was, if
 
 possible, even more eccentric. He was sent to school; he was sent off
 
-like an innocent little boy in Eton collars to learn the rudiments of
+like an [[Innocent|innocent]] little boy in Eton collars to learn the rudiments of
 
 Latin grammar, without any reference to the fact that he had already
 
@@ -116,7 +116,7 @@ sending him to a dame's school. Nor was the third stage of this career
 
 unconnected with the oddity of the others. On leaving the school he was
 
-made a clerk in a lawyer's office, as if henceforward this child of
+made a clerk in a lawyer's office, as if henceforward this [[Child|child]] of
 
 ridiculous changes was to settle down into a silent assistant for a
 
@@ -124,27 +124,27 @@ quiet solicitor. It was exactly at this moment that his fundamental
 
 rebellion began to seethe; it seethed more against the quiet finality of
 
-his legal occupation than it had seethed against the squalor and slavery
+his legal occupation than it had seethed against the squalor and [[Slavery|slavery]]
 
-of his days of poverty. There must have been in his mind, I think, a dim
+of his days of [[Poverty|poverty]]. There must have been in his mind, I think, a dim
 
 feeling: "Did all my dark crises mean only this; was I crucified only
 
-that I might become a solicitor's clerk?" Whatever be the truth about
+that I might become a solicitor's clerk?" Whatever be the [[Truth|truth]] about
 
 this conjecture there can be no question about the facts themselves. It
 
-was about this time that he began to burst and bubble over, to insist
+was about this [[Time|time]] that he began to burst and bubble over, to insist
 
-upon his own intellect, to claim a career. It was about this time that
+upon his own intellect, to claim a career. It was about this [[Time|time]] that
 
 he put together a loose pile of papers, satires on institutions,
 
 pictures of private persons, fairy tales of the vulgarity of his world,
 
-odds and ends such as come out of the facility and the fierce vanity of
+odds and ends such as come out of the facility and the fierce [[Vanity|vanity]] of
 
-youth. It was about this time at any rate that he decided to publish
+youth. It was about this [[Time|time]] at any rate that he decided to publish
 
 them, and gave them the name of _Sketches by Boz_.
 
@@ -160,7 +160,7 @@ Similarly, it has often been found that a man who can patiently endure
 
 penal servitude through a judicial blunder will nevertheless, when once
 
-his cause is well asserted, quarrel about the amount of compensation or
+his cause is [[Well|well]] asserted, quarrel about the amount of compensation or
 
 complain of small slights in his professional existence. These are the
 
@@ -172,7 +172,7 @@ way been unfairly treated reaches even to impudence. It is a terrible
 
 thing for any man to find out that his elders are wrong. And this
 
-almost unkindly courage of youth must partly be held responsible for the
+almost unkindly [[Courage|courage]] of youth must partly be held responsible for the
 
 smartness of Dickens, that almost offensive smartness which in these
 

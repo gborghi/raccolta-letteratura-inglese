@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 15"
+title: "[[Pride and Prejudice]] — Chapter 15"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -19,24 +19,24 @@ CHAPTER XV.
 
 [Illustration]
 
-Mr. Collins was not a sensible man, and the deficiency of nature had
-been but little assisted by education or society; the greatest part of
+Mr. Collins was not a sensible man, and the deficiency of [[Nature|nature]] had
+been but little assisted by [[Education|education]] or society; the greatest part of
 his life having been spent under the guidance of an illiterate and
 miserly father; and though he belonged to one of the universities, he
 had merely kept the necessary terms without forming at it any useful
 acquaintance. The subjection in which his father had brought him up had
-given him originally great humility of manner; but it was now a good
-deal counteracted by the self-conceit of a weak head, living in
+given him originally great [[Humility|humility]] of manner; but it was now a good
+deal counteracted by the [[Self|self]]-conceit of a weak head, living in
 retirement, and the consequential feelings of early and unexpected
 prosperity. A fortunate chance had recommended him to Lady Catherine de
 Bourgh when the living of Hunsford was vacant; and the respect which he
 felt for her high rank, and his veneration for her as his patroness,
 mingling with a very good opinion of himself, of his authority as a
 clergyman, and his right as a rector, made him altogether a mixture of
-pride and obsequiousness, self-importance and humility.
+[[Pride|pride]] and obsequiousness, [[Self|self]]-importance and [[Humility|humility]].
 
-Having now a good house and a very sufficient income, he intended to
-marry; and in seeking a reconciliation with the Longbourn family he had
+Having now a good [[house]] and a very sufficient income, he intended to
+marry; and in seeking a [[Reconciliation|reconciliation]] with the Longbourn family he had
 a wife in view, as he meant to choose one of the daughters, if he found
 them as handsome and amiable as they were represented by common report.
 This was his plan of amends--of atonement--for inheriting their father’s
@@ -49,7 +49,7 @@ confirmed his views, and established all his strictest notions of what
 was due to seniority; and for the first evening _she_ was his settled
 choice. The next morning, however, made an alteration; for in a quarter
 of an hour’s _tête-à-tête_ with Mrs. Bennet before breakfast, a
-conversation beginning with his parsonage-house, and leading naturally
+conversation beginning with his parsonage-[[house]], and leading naturally
 to the avowal of his hopes, that a mistress for it might be found at
 Longbourn, produced from her, amid very complaisant smiles and general
 encouragement, a caution against the very Jane he had fixed on. “As to
@@ -59,8 +59,8 @@ _eldest_ daughter she must just mention--she felt it incumbent on her to
 hint, was likely to be very soon engaged.”
 
 Mr. Collins had only to change from Jane to Elizabeth--and it was soon
-done--done while Mrs. Bennet was stirring the fire. Elizabeth, equally
-next to Jane in birth and beauty, succeeded her of course.
+done--done while Mrs. Bennet was stirring the [[Fire|fire]]. Elizabeth, equally
+next to Jane in birth and [[Beauty|beauty]], succeeded her of course.
 
 Mrs. Bennet treasured up the hint, and trusted that she might soon have
 two daughters married; and the man whom she could not bear to speak of
@@ -72,27 +72,27 @@ at the request of Mr. Bennet, who was most anxious to get rid of him,
 and have his library to himself; for thither Mr. Collins had followed
 him after breakfast, and there he would continue, nominally engaged with
 one of the largest folios in the collection, but really talking to Mr.
-Bennet, with little cessation, of his house and garden at Hunsford. Such
+Bennet, with little cessation, of his [[house]] and [[Garden|garden]] at Hunsford. Such
 doings discomposed Mr. Bennet exceedingly. In his library he had been
 always sure of leisure and tranquillity; and though prepared, as he told
 Elizabeth, to meet with folly and conceit in every other room in the
-house, he was used to be free from them there: his civility, therefore,
+[[house]], he was used to be free from them there: his civility, therefore,
 was most prompt in inviting Mr. Collins to join his daughters in their
 walk; and Mr. Collins, being in fact much better fitted for a walker
-than a reader, was extremely well pleased to close his large book, and
+than a reader, was extremely [[Well|well]] pleased to close his large book, and
 go.
 
 In pompous nothings on his side, and civil assents on that of his
-cousins, their time passed till they entered Meryton. The attention of
+cousins, their [[Time|time]] passed till they entered Meryton. The attention of
 the younger ones was then no longer to be gained by _him_. Their eyes
-were immediately wandering up the street in quest of the officers, and
+were immediately wandering up the street in [[Quest|quest]] of the officers, and
 nothing less than a very smart bonnet, indeed, or a really new muslin in
-a shop window, could recall them.
+a shop [[Window|window]], could recall them.
 
 But the attention of every lady was soon caught by a young man, whom
 they had never seen before, of most gentlemanlike appearance, walking
 with an officer on the other side of the way. The officer was the very
-Mr. Denny concerning whose return from London Lydia came to inquire, and
+Mr. Denny concerning whose return from [[London]] Lydia came to inquire, and
 he bowed as they passed. All were struck with the stranger’s air, all
 wondered who he could be; and Kitty and Lydia, determined if possible
 to find out, led the way across the street, under pretence of wanting
@@ -103,10 +103,10 @@ introduce his friend, Mr. Wickham, who had returned with him the day
 before from town, and, he was happy to say, had accepted a commission in
 their corps. This was exactly as it should be; for the young man wanted
 only regimentals to make him completely charming. His appearance was
-greatly in his favour: he had all the best parts of beauty, a fine
+greatly in his favour: he had all the best parts of [[Beauty|beauty]], a fine
 countenance, a good figure, and very pleasing address. The introduction
 was followed up on his side by a happy readiness of conversation--a
-readiness at the same time perfectly correct and unassuming; and the
+readiness at the same [[Time|time]] perfectly correct and unassuming; and the
 whole party were still standing and talking together very agreeably,
 when the sound of horses drew their notice, and Darcy and Bingley were
 seen riding down the street. On distinguishing the ladies of the group
@@ -127,16 +127,16 @@ In another minute Mr. Bingley, but without seeming to have noticed what
 passed, took leave and rode on with his friend.
 
 Mr. Denny and Mr. Wickham walked with the young ladies to the door of
-Mr. Philips’s house, and then made their bows, in spite of Miss Lydia’s
+Mr. Philips’s [[house]], and then made their bows, in spite of Miss Lydia’s
 pressing entreaties that they would come in, and even in spite of Mrs.
-Philips’s throwing up the parlour window, and loudly seconding the
+Philips’s throwing up the parlour [[Window|window]], and loudly seconding the
 invitation.
 
 Mrs. Philips was always glad to see her nieces; and the two eldest, from
 their recent absence, were particularly welcome; and she was eagerly
-expressing her surprise at their sudden return home, which, as their own
+expressing her surprise at their sudden return [[Home|home]], which, as their own
 carriage had not fetched them, she should have known nothing about, if
-she had not happened to see Mr. Jones’s shopboy in the street, who had
+she had not happened to see Mr. [[Jones]]’s shopboy in the street, who had
 told her that they were not to send any more draughts to Netherfield,
 because the Miss Bennets were come away, when her civility was claimed
 towards Mr. Collins by Jane’s introduction of him. She received him with
@@ -148,7 +148,7 @@ her notice. Mrs. Philips was quite awed by such an excess of good
 breeding; but her contemplation of one stranger was soon put an end to
 by exclamations and inquiries about the other, of whom, however, she
 could only tell her nieces what they already knew, that Mr. Denny had
-brought him from London, and that he was to have a lieutenant’s
+brought him from [[London]], and that he was to have a lieutenant’s
 commission in the ----shire. She had been watching him the last hour,
 she said, as he walked up and down the street,--and had Mr. Wickham
 appeared, Kitty and Lydia would certainly have continued the occupation;
@@ -164,7 +164,7 @@ delights was very cheering, and they parted in mutual good spirits. Mr.
 Collins repeated his apologies in quitting the room, and was assured,
 with unwearying civility, that they were perfectly needless.
 
-As they walked home, Elizabeth related to Jane what she had seen pass
+As they walked [[Home|home]], Elizabeth related to Jane what she had seen pass
 between the two gentlemen; but though Jane would have defended either or
 both, had they appeared to be wrong, she could no more explain such
 behaviour than her sister.

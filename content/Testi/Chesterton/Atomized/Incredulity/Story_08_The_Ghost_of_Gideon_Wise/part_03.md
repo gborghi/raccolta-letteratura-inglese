@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Ghost of Gideon Wise (part 3)"
+title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -15,7 +15,7 @@ tags:
 
 
 With which the extraordinary young man disappeared down the steps
-and Byrne continued to mount them, more and more mystification
+and Byrne continued to mount them, more and more [[Mystification|mystification]]
 clouding his mind.
 
 He found the group of three augmented to four by the presence
@@ -26,15 +26,15 @@ His name was Nares, and the questions which he directed towards
 Byrne referred chiefly, for some reason or other, to the number
 of those probably enrolled in the revolutionary organization.
 Of this, as Byrne knew little, he said less; and the four men
-eventually rose from their seats, the last word being with the man
+eventually [[Rose|rose]] from their seats, the last word being with the man
 who had been most silent.
 
 `Thank you, Mr Byrne,' said Stein, folding up his eyeglasses.
 `It only remains to say that everything is ready; on that point
-I quite agree with Mr Elias.  Tomorrow, before noon, the police
+I quite agree with Mr Elias.  Tomorrow, before [[Noon|noon]], the police
 will have arrested Mr Elias, on evidence I shall by then
 have put before them, and those three at least will be in jail
-before night.  As you know, I attempted to avoid this course.
+before [[Night|night]].  As you know, I attempted to avoid this course.
 I think that is all, gentlemen.'
 
 But Mr Jacob P. Stein did not lay his formal information next day,
@@ -114,9 +114,9 @@ It may affect you more if I tell you they are imprudent.
 You practically admit that you hated the dead man.'
 
 `Going to put me in quod for that, are you?' jeered the demagogue.
-`All right.  Only you'll have to build a prison for a million men if
+`All right.  Only you'll have to build a [[Prison|prison]] for a million men if
 you're going to jail all the poor people who had reason to hate Gid Wise.
-And you know it's God truth as well as I do.'
+And you know it's God [[Truth|truth]] as [[Well|well]] as I do.'
 
 Nares was silent; and nobody spoke until Elias interposed with his clear
 though faintly lisping drawl.

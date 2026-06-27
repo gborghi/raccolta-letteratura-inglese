@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — OACH-HOUSE, PIG AND TINDER-BOX."
+title: "A [[Child]]'s [[history|History]] of England — OACH-[[house|HOUSE]], PIG AND TINDER-BOX."
 author: "Dickens"
 unitType: story
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-                     COACH-HOUSE, PIG AND TINDER-BOX.
+                     COACH-[[house|HOUSE]], PIG AND TINDER-BOX.
 
   _President_—Dr. Toorell.  _Vice-Presidents_—Professors Muff and Nogo.
 
@@ -27,13 +27,13 @@ to any medical man.  His frame was stout and muscular, his step firm and
 elastic, his cheeks plump and red, his voice loud, his appetite good, his
 pulse full and round.  He was in the constant habit of eating three meals
 _per diem_, and of drinking at least one bottle of wine, and one glass of
-spirituous liquors diluted with water, in the course of the
+spirituous liquors diluted with [[Water|water]], in the course of the
 four-and-twenty hours.  He laughed constantly, and in so hearty a manner
 that it was terrible to hear him.  By dint of powerful medicine, low
 diet, and bleeding, the symptoms in the course of three days perceptibly
 decreased.  A rigid perseverance in the same course of treatment for only
-one week, accompanied with small doses of water-gruel, weak broth, and
-barley-water, led to their entire disappearance.  In the course of a
+one week, accompanied with small doses of [[Water|water]]-gruel, weak broth, and
+barley-[[Water|water]], led to their entire disappearance.  In the course of a
 month he was sufficiently recovered to be carried down-stairs by two
 nurses, and to enjoy an airing in a close carriage, supported by soft
 pillows.  At the present moment he was restored so far as to walk about,
@@ -65,7 +65,7 @@ unobserved from the room, with that portion of the coats of the stomach
 upon which an exact model of the instrument was distinctly impressed,
 with which he hastened to a locksmith of doubtful character, who made a
 new key from the pattern so shown to him.  With this key the medical
-student entered the house of the deceased gentleman, and committed a
+student entered the [[house]] of the deceased gentleman, and committed a
 burglary to a large amount, for which he was subsequently tried and
 executed.
 
@@ -79,7 +79,7 @@ must have lain very cold and heavy upon the gentleman’s stomach.
 
 ‘MR. KNIGHT BELL believed it did at first.  It was worthy of remark,
 perhaps, that for some years the gentleman was troubled with a
-night-mare, under the influence of which he always imagined himself a
+[[Night|night]]-mare, under the influence of which he always imagined himself a
 wine-cellar door.
 
 ‘PROFESSOR MUFF related a very extraordinary and convincing proof of the
@@ -94,20 +94,20 @@ tried the experiment in a curious manner upon a publican who had been
 brought into the hospital with a broken head, and was cured upon the
 infinitesimal system in the incredibly short space of three months.  This
 man was a hard drinker.  He (Professor Muff) had dispersed three drops of
-rum through a bucket of water, and requested the man to drink the whole.
+rum through a bucket of [[Water|water]], and requested the man to drink the whole.
 What was the result?  Before he had drunk a quart, he was in a state of
 beastly intoxication; and five other men were made dead drunk with the
 remainder.
 
-‘THE PRESIDENT wished to know whether an infinitesimal dose of soda-water
+‘THE PRESIDENT wished to know whether an infinitesimal dose of soda-[[Water|water]]
 would have recovered them?  Professor Muff replied that the twenty-fifth
 part of a teaspoonful, properly administered to each patient, would have
 sobered him immediately.  The President remarked that this was a most
-important discovery, and he hoped the Lord Mayor and Court of Aldermen
+important discovery, and he hoped the [[Lord Mayor]] and [[Court]] of Aldermen
 would patronize it immediately.
 
 ‘A Member begged to be informed whether it would be possible to
-administer—say, the twentieth part of a grain of bread and cheese to all
+administer—say, the twentieth part of a grain of bread and [[cheese]] to all
 grown-up paupers, and the fortieth part to children, with the same
 satisfying effect as their present allowance.
 
@@ -121,7 +121,7 @@ extraordinary case of animal magnetism.  A private watchman, being merely
 looked at by the operator from the opposite side of a wide street, was at
 once observed to be in a very drowsy and languid state.  He was followed
 to his box, and being once slightly rubbed on the palms of the hands,
-fell into a sound sleep, in which he continued without intermission for
+fell into a sound [[Sleep|sleep]], in which he continued without intermission for
 ten hours.
 
 
@@ -136,8 +136,8 @@ ten hours.
 
 ‘MR. SLUG stated to the section the result of some calculations he had
 made with great difficulty and labour, regarding the state of infant
-education among the middle classes of London.  He found that, within a
-circle of three miles from the Elephant and Castle, the following were
+[[Education|education]] among the middle classes of [[London]].  He found that, within a
+circle of three miles from the Elephant and [[Castle]], the following were
 the names and numbers of children’s books principally in circulation:—
 
 ‘Jack the Giant-killer              7,943
@@ -147,17 +147,17 @@ Ditto and Jill                      1,998
                         Total      21,407
 
 ‘He found that the proportion of Robinson Crusoes to Philip Quarlls was
-as four and a half to one; and that the preponderance of Valentine and
+as four and a half to one; and that the preponderance of [[Valentine]] and
 Orsons over Goody Two Shoeses was as three and an eighth of the former to
 half a one of the latter; a comparison of Seven Champions with Simple
 Simons gave the same result.  The ignorance that prevailed, was
-lamentable.  One child, on being asked whether he would rather be Saint
+lamentable.  One [[Child|child]], on being asked whether he would rather be Saint
 George of England or a respectable tallow-chandler, instantly replied,
 “Taint George of Ingling.”  Another, a little boy of eight years old, was
 found to be firmly impressed with a belief in the existence of dragons,
 and openly stated that it was his intention when he grew up, to rush
-forth sword in hand for the deliverance of captive princesses, and the
-promiscuous slaughter of giants.  Not one child among the number
+forth [[Sword|sword]] in hand for the deliverance of captive princesses, and the
+promiscuous slaughter of giants.  Not one [[Child|child]] among the number
 interrogated had ever heard of Mungo Park,—some inquiring whether he was
 at all connected with the black man that swept the crossing; and others
 whether he was in any way related to the Regent’s Park.  They had not the
@@ -167,8 +167,8 @@ world had ever produced.
 
 ‘A Member strongly deprecating the use of all the other books mentioned,
 suggested that Jack and Jill might perhaps be exempted from the general
-censure, inasmuch as the hero and heroine, in the very outset of the
-tale, were depicted as going _up_ a hill to fetch a pail of water, which
+censure, inasmuch as the [[Hero|hero]] and heroine, in the very outset of the
+tale, were depicted as going _up_ a [[Hill|hill]] to fetch a pail of [[Water|water]], which
 was a laborious and useful occupation,—supposing the family linen was
 being washed, for instance.
 
@@ -187,21 +187,21 @@ immense and urgent necessity of storing the minds of children with
 nothing but facts and figures; which process the President very forcibly
 remarked, had made them (the section) the men they were.
 
-‘MR. SLUG then stated some curious calculations respecting the dogs’-meat
-barrows of London.  He found that the total number of small carts and
-barrows engaged in dispensing provision to the cats and dogs of the
+‘MR. SLUG then stated some curious calculations respecting the [[dogs]]’-meat
+barrows of [[London]].  He found that the total number of small carts and
+barrows engaged in dispensing provision to the cats and [[dogs]] of the
 metropolis was, one thousand seven hundred and forty-three.  The average
-number of skewers delivered daily with the provender, by each dogs’-meat
+number of skewers delivered daily with the provender, by each [[dogs]]’-meat
 cart or barrow, was thirty-six.  Now, multiplying the number of skewers
 so delivered by the number of barrows, a total of sixty-two thousand
 seven hundred and forty-eight skewers daily would be obtained.  Allowing
 that, of these sixty-two thousand seven hundred and forty-eight skewers,
 the odd two thousand seven hundred and forty-eight were accidentally
-devoured with the meat, by the most voracious of the animals supplied, it
+devoured with the meat, by the most voracious of the [[Animals|animals]] supplied, it
 followed that sixty thousand skewers per day, or the enormous number of
 twenty-one millions nine hundred thousand skewers annually, were wasted
-in the kennels and dustholes of London; which, if collected and
-warehoused, would in ten years’ time afford a mass of timber more than
+in the kennels and dustholes of [[London]]; which, if collected and
+warehoused, would in ten years’ [[Time|time]] afford a mass of timber more than
 sufficient for the construction of a first-rate vessel of war for the use
 of her Majesty’s navy, to be called “The Royal Skewer,” and to become
 under that name the terror of all the enemies of this island.
@@ -215,7 +215,7 @@ three legs to a seat, yielded only ten thousand seats in all.  From this
 calculation it would appear,—not taking wooden or cork legs into the
 account, but allowing two legs to every person,—that ten thousand
 individuals (one-half of the whole population) were either destitute of
-any rest for their legs at all, or passed the whole of their leisure time
+any rest for their legs at all, or passed the whole of their leisure [[Time|time]]
 in sitting upon boxes.
 
 

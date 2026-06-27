@@ -1,5 +1,5 @@
 ---
-title: "Common Man — Vandalism"
+title: "[[Common Man]] — Vandalism"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -23,7 +23,7 @@ procession of those typically modern thinkers, who are too tired
 to think, has already left behind a trail or tradition of language;
 by which it is vaguely suggested that whatever is constructive
 is good and only what is destructive is bad.  Anyone wishing
-to lose himself in mazes of such logic, or rather illogicality,
+to lose himself in mazes of such [[logic]], or rather illogicality,
 may put to himself some particular proposition; as that it is
 good to construct a stake, with faggots, for burning a man alive,
 and yet bad to destroy a growing plantation or cut down trees,
@@ -34,9 +34,9 @@ it is better to be the barbarian who destroys something, which for
 some reason he dislikes or does not understand, and who may yet
 sincerely like other things that he does understand, rather than to be
 the vulgarian who erects something exactly expressive of what he likes;
-and in that act rears a colossal image of the smallness of his soul.
-Destructive Vandalism, though a very great evil at the present time,
-and indeed through all history, has not been in all history so bad
+and in that act rears a colossal image of the smallness of his [[Soul|soul]].
+Destructive Vandalism, though a very great evil at the present [[Time|time]],
+and indeed through all [[history]], has not been in all [[history]] so bad
 as it is now; and certainly not so bad as many more constructive
 things that exist now.
 
@@ -45,7 +45,7 @@ mere destructiveness; neither on the noblest level of human culture,
 but neither on the most ignoble.  First, of course, the Vandal
 may be the Iconoclast.  He may destroy certain artistic creations
 because they are really opposed to his moral convictions.
-Thus a Puritan fanatic from America might conceivably think himself
+Thus a Puritan fanatic from [[america|America]] might conceivably think himself
 commanded by the Lord to dynamite Westminster Abbey, because it
 is full of idols; that is of images with a religious character.
 Curiously enough, he would be half right.  It is full of idols;
@@ -62,23 +62,23 @@ in the act of worshipping; but in the act of being worshipped.
 For the eighteenth century, which has been called the Age of Reason,
 was the real Age of Idolatry.  This, however, is a parenthesis.
 The point is that the American fanatic would be a much finer fellow
-than the American chain-store man who finds half London in the chains
+than the American chain-store man who finds half [[London]] in the [[Chains|chains]]
 of his cheap and tawdry stores.  If the dynamite of the Iconoclast
 caved in the whole front of Westminster Abbey, I should be far
 less horrified than I am at a project of a Yankee shopkeeper for
-building a tower with bells, taller than Westminster Cathedral.
+building a tower with [[Bells|bells]], taller than Westminster [[Cathedral]].
 It is curious to reflect on the few stray nerves of criticism and
 sensibility that still remain.  I fancy that if an American erected
-immediately opposite Windsor Castle, on the other side of the river,
-another castle of exactly the same castellated form and plan,
+immediately opposite Windsor [[Castle]], on the other side of the [[River|river]],
+another [[Castle|castle]] of exactly the same castellated form and plan,
 only a little bigger (being made of cheap and rotten material)
-and then flew the flag of his own ancient family in direct defiance
-of the personal flag of the King, there would be a good many people
+and then flew the [[Flag|flag]] of his own ancient family in direct defiance
+of the personal [[Flag|flag]] of the [[King]], there would be a good many people
 in society who would tell the American, however rich he was,
 that this was going a bit too far.  Which shows how much safer it
 is to insult religion than to insult royalty.
 
-Secondly, in the great moral philosophy of being fair to Vandals,
+Secondly, in the great moral [[philosophy]] of being fair to Vandals,
 we must remember that there is a certain element in life which
 has even a right to its place in life, though that place may
 not always be easy to find, without displacing better things.
@@ -86,30 +86,30 @@ We talk of positive and negative, of creation and destruction;
 but in a sense the association is incorrect.  Destruction is
 not negation; at least it is not always and of necessity negation.
 There is a positive pleasure in destruction, which can be harmless
-and is certainly real.  It is innocent, for it is felt strongly
+and is certainly real.  It is [[Innocent|innocent]], for it is felt strongly
 by children when they first tear up paper or break sticks.
-But I trust that few of us have so entirely lost our innocence,
-as to be unable to drink deep joy from smashing up the happy home.
-Breathes there a man with soul so dead that he has never,
-when standing in a respectable parlour, felt a wild desire
+But I trust that few of us have so entirely lost our [[innocence]],
+as to be unable to drink deep joy from smashing up the happy [[Home|home]].
+Breathes there a man with [[Soul|soul]] so dead that he has never,
+when standing in a respectable parlour, felt a wild [[Desire|desire]]
 to seize a pot and plant and send it crashing through the bow
-windows into the front-garden or the street?  These things are
+windows into the front-[[Garden|garden]] or the street?  These things are
 not entirely to be sterilised; these things also are from God.
 It is all explained in a ballade which my friends and I composed
 years ago, after I had shattered a great tumbler all over the carpet.
 It has the refrain:  "I like the noise of breaking glass."
-And though I should not like the glass of Chartres Cathedral to be
+And though I should not like the glass of Chartres [[Cathedral]] to be
 broken merely to gratify this taste, I can imagine two types of human
 beings who might break it and remain human.  A lunatic might do it
-because he thought it unChristian to make pictures of the life of Christ;
+because he thought it unChristian to make pictures of the life of [[Christ]];
 and a boy might do it because he liked the noise of breaking glass.
 So much for the defence of the more dignified Vandal--the Destroyer.
 
 But the new sort of Vandal is much more indefensible.
 The crude creative Vandal is much more of a pestilence and a peril.
-There is more to be said for the conqueror, who makes a solitude
+There is more to be said for the conqueror, who makes a [[Solitude|solitude]]
 and calls it peace, than for the other who makes a pandemonium
-and calls it progress.  For he brands upon the eye in memory
+and calls it progress.  For he brands upon the eye in [[Memory|memory]]
 the positive and vivid picture of his own meanness and stupidity.
 The barbarians who laid waste the world may have prevailed in so far
 that some good things were forgotten, but they did not insist

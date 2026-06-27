@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 54: CONTAINING SOME PARTICULARS RELATIVE TO THE DOUBLE KNOCK, (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 54: CONTAINING SOME PARTICULARS RELATIVE TO THE [[Double|DOUBLE]] KNOCK, (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,9 +17,9 @@ tags:
 Driving to the George and Vulture, they found that Arabella and her maid
 had sent for a hackney-coach immediately on the receipt of a short note
 from Emily announcing her arrival in town, and had proceeded straight to
-the Adelphi. As Wardle had business to transact in the city, they sent
+the Adelphi. As Wardle had business to transact in the [[City|city]], they sent
 the carriage and the fat boy to his hotel, with the information that he
-and Mr. Pickwick would return together to dinner at five o’clock.
+and Mr. [[Pickwick]] would return together to dinner at five o’[[Clock|clock]].
 
 Charged with this message, the fat boy returned, slumbering as peaceably
 in his dickey, over the stones, as if it had been a down bed on watch
@@ -36,7 +36,7 @@ undoubted fact that he walked into the sitting-room without previously
 knocking at the door; and so beheld a gentleman with his arms clasping
 his young mistress’s waist, sitting very lovingly by her side on a sofa,
 while Arabella and her pretty handmaid feigned to be absorbed in looking
-out of a window at the other end of the room. At the sight of this
+out of a [[Window|window]] at the other end of the room. At the sight of this
 phenomenon, the fat boy uttered an interjection, the ladies a scream,
 and the gentleman an oath, almost simultaneously.
 
@@ -49,7 +49,7 @@ To this the fat boy, considerably terrified, briefly responded,
 ‘What do you want me for,’ inquired Emily, turning her head aside, ‘you
 stupid creature?’
 
-‘Master and Mr. Pickwick is a-going to dine here at five,’ replied the
+‘Master and Mr. [[Pickwick]] is a-going to dine here at five,’ replied the
 fat boy.
 
 ‘Leave the room!’ said Mr. Snodgrass, glaring upon the bewildered youth.
@@ -77,8 +77,8 @@ The fat boy’s perception being slow, he looked rather puzzled at first
 to account for this sudden prepossession in his favour, and stared about
 him in a very alarming manner. At length his broad face began to show
 symptoms of a grin of proportionately broad dimensions; and then,
-thrusting half-a-crown into each of his pockets, and a hand and wrist
-after it, he burst into a horse laugh: being for the first and only time
+thrusting half-a-[[Crown|crown]] into each of his pockets, and a hand and wrist
+after it, he burst into a [[Horse|horse]] laugh: being for the first and only [[Time|time]]
 in his existence.
 
 ‘He understands us, I see,’ said Arabella.
@@ -105,7 +105,7 @@ porter.
 
 Having apostrophised his eye, in a species of rapture, five or six
 times, the youth took the head of the little table, and Mary seated
-herself at the bottom.
+herself at the [[Bottom|bottom]].
 
 ‘Will you have some of this?’ said the fat boy, plunging into the pie up
 to the very ferules of the knife and fork.
@@ -121,7 +121,7 @@ and fork in them, fall on his knees, said, very slowly--
 
 This was said in an admiring manner, and was, so far, gratifying; but
 still there was enough of the cannibal in the young gentleman’s eyes to
-render the compliment a double one.
+render the compliment a [[Double|double]] one.
 
 ‘Dear me, Joseph,’ said Mary, affecting to blush, ‘what do you mean?’
 
@@ -130,9 +130,9 @@ heavy sigh, and, remaining thoughtful for a few moments, drank a long
 draught of the porter. Having achieved this feat, he sighed again, and
 applied himself assiduously to the pie.
 
-‘What a nice young lady Miss Emily is!’ said Mary, after a long silence.
+‘What a nice young lady Miss Emily is!’ said Mary, after a long [[Silence|silence]].
 
-The fat boy had by this time finished the pie. He fixed his eyes on
+The fat boy had by this [[Time|time]] finished the pie. He fixed his eyes on
 Mary, and replied--
 
 ‘I knows a nicerer.’
@@ -156,11 +156,11 @@ ogle.
 
 ‘Don’t I, though?’ replied the fat boy. ‘I say?’
 
-‘Well?’
+‘[[Well]]?’
 
 ‘Are you going to come here regular?’
 
-‘No,’ rejoined Mary, shaking her head, ‘I’m going away again to-night.
+‘No,’ rejoined Mary, shaking her head, ‘I’m going away again to-[[Night|night]].
 Why?’
 
 ‘Oh,’ said the fat boy, in a tone of strong feeling; ‘how we should have

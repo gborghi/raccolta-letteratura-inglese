@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Three Horsemen of Apocalypse (part 1)"
+title: "[[MrPond]] — The Three Horsemen of [[Apocalypse]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-THE THREE HORSEMEN OF APOCALYPSE
+THE THREE HORSEMEN OF [[Apocalypse|APOCALYPSE]]
 
 
 
@@ -24,35 +24,35 @@ The curious and sometimes creepy effect which Mr. Pond produced
 
 upon me, despite his commonplace courtesy and dapper decorum, was
 
-possibly connected with some memories of childhood; and the vague
+possibly connected with some memories of [[Childhood|childhood]]; and the vague
 
-verbal association of his name.  He was a Government official who
+verbal association of his name.  He was a [[government|Government]] official who
 
 was an old friend of my father; and I fancy my infantile
 
-imagination had somehow mixed up the name of Mr. Pond with the pond
+[[Imagination|imagination]] had somehow mixed up the name of Mr. Pond with the pond
 
-in the garden.  When one came to think of it, he was curiously like
+in the [[Garden|garden]].  When one came to think of it, he was curiously like
 
-the pond in the garden.  He was so quiet at all normal times, so
+the pond in the [[Garden|garden]].  He was so quiet at all normal times, so
 
 neat in shape and so shiny, so to speak, in his ordinary
 
 reflections of earth and sky and the common daylight.  And yet I
 
-knew there were some queer things in the pond in the garden.  Once
+knew there were some queer things in the pond in the [[Garden|garden]].  Once
 
 in a hundred times, on one or two days during the whole year, the
 
 pond would look oddly different; or there would come a flitting
 
-shadow or a flash in its flat serenity; and a fish or a frog or
+[[Shadow|shadow]] or a flash in its flat serenity; and a fish or a frog or
 
-some more grotesque creature would show itself to the sky.  And I
+some more [[Grotesque|grotesque]] creature would show itself to the sky.  And I
 
 knew there were monsters in Mr. Pond also: monsters in his mind
 
-which rose only for a moment to the surface and sank again.  They
+which [[Rose|rose]] only for a moment to the surface and sank again.  They
 
 took the form of monstrous remarks, in the middle of all his mild
 
@@ -96,19 +96,19 @@ earth he meant.
 
 
 
-He was talking quite quietly one day to Sir Hubert Wotton, the well-
+He was talking quite quietly one day to Sir [[Hubert]] Wotton, the [[Well|well]]-
 
 known diplomatist; they were seated under gaily-striped tents or
 
-giant parasols in our own garden, and gazing towards the pond which
+giant parasols in our own [[Garden|garden]], and gazing towards the pond which
 
 I had perversely associated with him.  They happened to be talking
 
-about a part of the world that both of them knew well, and very few
+about a part of the world that both of them knew [[Well|well]], and very few
 
 people in Western Europe at all: the vast flats fading into fens
 
-and swamps that stretch across Pomerania and Poland and Russia and
+and swamps that stretch across Pomerania and Poland and [[Russia]] and
 
 the rest; right away, for all I know, into the Siberian deserts.
 
@@ -116,7 +116,7 @@ And Mr. Pond recalled that, across a region where the swamps are
 
 deepest and intersected by pools and sluggish rivers, there runs a
 
-single road raised on a high causeway with steep and sloping sides:
+single [[Road|road]] raised on a high causeway with steep and sloping sides:
 
 a straight path safe enough for the ordinary pedestrian, but barely
 
@@ -126,7 +126,7 @@ beginning of the story.
 
 
 
-It concerned a time not very long ago, but a time in which horsemen
+It concerned a [[Time|time]] not very long ago, but a [[Time|time]] in which horsemen
 
 were still used much more than they are at present, though already
 
@@ -144,7 +144,7 @@ necessary to expound the politics of the matter, or discuss its
 
 rights and wrongs here.  Let us merely say, more lightly, that Mr.
 
-Pond amused the company with a riddle.
+Pond amused the company with a [[Riddle|riddle]].
 
 
 
@@ -172,7 +172,7 @@ in general command; and, as it happened, his own old regiment,
 
 which was still his favourite regiment, the White Hussars, was
 
-posted nearest to the beginning of the great embanked road.  Of
+posted nearest to the beginning of the great embanked [[Road|road]].  Of
 
 course, everything was spick and span, down to every detail of the
 
@@ -186,7 +186,7 @@ them for that; I sometimes feel the old epoch of heraldry was a
 
 finer thing than all that epoch of imitative colouring, that came
 
-in with natural history and the worship of chameleons and beetles.
+in with natural [[history]] and the worship of chameleons and beetles.
 
 Anyhow, this crack regiment of cavalry in the Prussian service
 
@@ -196,13 +196,13 @@ element in the fiasco.  But it wasn't only the uniforms; it was the
 
 uniformity.  The whole thing went wrong because the discipline was
 
-too good.  Grock's soldiers obeyed him too well; so he simply
+too good.  Grock's soldiers obeyed him too [[Well|well]]; so he simply
 
 couldn't do a thing he wanted."
 
 
 
-"I suppose that's a paradox," said Wotton, heaving a sigh.  "Of
+"I suppose that's a [[Paradox|paradox]]," said Wotton, heaving a sigh.  "Of
 
 course, it's very clever and all that; but really, it's all
 

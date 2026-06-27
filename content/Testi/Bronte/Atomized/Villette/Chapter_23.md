@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 23"
+title: "[[Villette]] — Chapter 23"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,12 +18,12 @@ CHAPTER XXIII.
 VASHTI.
 
 
-To wonder sadly, did I say? No: a new influence began to act upon my
+To [[Wonder|wonder]] sadly, did I say? No: a new influence began to act upon my
 life, and sadness, for a certain space, was held at bay. Conceive a
 dell, deep-hollowed in forest secresy; it lies in dimness and mist: its
-turf is dank, its herbage pale and humid. A storm or an axe makes a
+turf is dank, its herbage pale and humid. A [[Storm|storm]] or an axe makes a
 wide gap amongst the oak-trees; the breeze sweeps in; the sun looks
-down; the sad, cold dell becomes a deep cup of lustre; high summer
+down; the sad, cold dell becomes a deep cup of lustre; high [[Summer|summer]]
 pours her blue glory and her golden light out of that beauteous sky,
 which till now the starved hollow never saw.
 
@@ -34,9 +34,9 @@ in that case, box, drawer up-stairs, casketed with that first letter,
 four companions like to it, traced by the same firm pen, sealed with
 the same clear seal, full of the same vital comfort. Vital comfort it
 seemed to me then: I read them in after years; they were kind letters
-enough—pleasing letters, because composed by one well pleased; in the
+enough—pleasing letters, because composed by one [[Well|well]] pleased; in the
 two last there were three or four closing lines half-gay, half-tender,
-“by _feeling_ touched, but not subdued.” Time, dear reader, mellowed
+“by _feeling_ touched, but not subdued.” [[Time]], dear reader, mellowed
 them to a beverage of this mild quality; but when I first tasted their
 elixir, fresh from the fount so honoured, it seemed juice of a divine
 vintage: a draught which Hebe might fill, and the very gods approve.
@@ -45,7 +45,7 @@ Does the reader, remembering what was said some pages back, care to ask
 how I answered these letters: whether under the dry, stinting check of
 Reason, or according to the full, liberal impulse of Feeling?
 
-To speak truth, I compromised matters; I served two masters: I bowed
+To speak [[Truth|truth]], I compromised matters; I served two masters: I bowed
 down in the houses of Rimmon, and lifted the heart at another shrine. I
 wrote to these letters two answers—one for my own relief, the other for
 Graham’s perusal.
@@ -60,8 +60,8 @@ sneaking suspicion of what are called “warmer feelings:” women do not
 entertain these “warmer feelings” where, from the commencement, through
 the whole progress of an acquaintance, they have never once been
 cheated of the conviction that, to do so would be to commit a mortal
-absurdity: nobody ever launches into Love unless he has seen or dreamed
-the rising of Hope’s star over Love’s troubled waters)—when, then, I
+absurdity: nobody ever launches into [[Love]] unless he has seen or dreamed
+the rising of [[Hope]]’s star over [[Love]]’s troubled waters)—when, then, I
 had given expression to a closely-clinging and deeply-honouring
 attachment—an attachment that wanted to attract to itself and take to
 its own lot all that was painful in the destiny of its object; that
@@ -87,24 +87,24 @@ professional skill, and gratified his natural benevolence, by a course
 of cordial and attentive treatment.
 
 One evening, the first in December, I was walking by myself in the
-carré; it was six o’clock; the classe-doors were closed; but within,
+carré; it was six o’[[Clock|clock]]; the classe-doors were closed; but within,
 the pupils, rampant in the licence of evening recreation, were
 counterfeiting a miniature chaos. The carré was quite dark, except a
 red light shining under and about the stove; the wide glass-doors and
 the long windows were frosted over; a crystal sparkle of starlight,
-here and there spangling this blanched winter veil, and breaking with
+here and there spangling this blanched [[Winter|winter]] veil, and breaking with
 scattered brilliance the paleness of its embroidery, proved it a clear
-night, though moonless. That I should dare to remain thus alone in
+[[Night|night]], though moonless. That I should dare to remain thus [[Alone|alone]] in
 darkness, showed that my nerves were regaining a healthy tone: I
 thought of the nun, but hardly feared her; though the staircase was
-behind me, leading up, through blind, black night, from landing to
+behind me, leading up, through blind, black [[Night|night]], from landing to
 landing, to the haunted grenier. Yet I own my heart quaked, my pulse
 leaped, when I suddenly heard breathing and rustling, and turning, saw
-in the deep shadow of the steps a deeper shadow still—a shape that
+in the deep [[Shadow|shadow]] of the steps a deeper [[Shadow|shadow]] still—a shape that
 moved and descended. It paused a while at the classe-door, and then it
 glided before me. Simultaneously came a clangor of the distant
 door-bell. Life-like sounds bring life-like feelings: this shape was
-too round and low for my gaunt nun: it was only Madame Beck on duty.
+too round and low for my gaunt nun: it was only [[Madame Beck]] on duty.
 
 “Mademoiselle Lucy!” cried Rosine, bursting in, lamp in hand, from the
 corridor, “on est là pour vous au salon.”
@@ -121,12 +121,12 @@ her: she immediately said, ‘Take Lucy in my place.’ Will you go?”
 merino.
 
 “You have half an hour to dress. I should have given you notice, but I
-only determined on going since five o’clock, when I heard there was to
+only determined on going since five o’[[Clock|clock]], when I heard there was to
 be a genuine regale in the presence of a great actress.”
 
 And he mentioned a name that thrilled me—a name that, in those days,
 could thrill Europe. It is hushed now: its once restless echoes are all
-still; she who bore it went years ago to her rest: night and oblivion
+still; she who bore it went years ago to her rest: [[Night|night]] and oblivion
 long since closed above her; but _then_ her day—a day of Sirius—stood
 at its full height, light and fervour.
 
@@ -135,7 +135,7 @@ never once checked, reader, by the thought which perhaps at this moment
 checks you: namely, that to go anywhere with Graham and without Mrs.
 Bretton could be objectionable. I could not have conceived, much less
 have expressed to Graham, such thought—such scruple—without risk of
-exciting a tyrannous self-contempt: of kindling an inward fire of shame
+exciting a tyrannous [[Self|self]]-contempt: of kindling an inward [[Fire|fire]] of shame
 so quenchless, and so devouring, that I think it would soon have licked
 up the very life in my veins. Besides, my godmother, knowing her son,
 and knowing me, would as soon have thought of chaperoning a sister with
@@ -155,7 +155,7 @@ shone a solemn light, like a star, but broader. So plainly it shone,
 that it revealed the deep alcove with a portion of the tarnished
 scarlet curtain drawn over it. Instantly, silently, before my eyes, it
 vanished; so did the curtain and alcove: all that end of the garret
-became black as night. I ventured no research; I had not time nor will;
+became black as [[Night|night]]. I ventured no research; I had not [[Time|time]] nor will;
 snatching my dress, which hung on the wall, happily near the door, I
 rushed out, relocked the door with convulsed haste, and darted
 downwards to the dormitory.
@@ -163,7 +163,7 @@ downwards to the dormitory.
 But I trembled too much to dress myself: impossible to arrange hair or
 fasten hooks-and-eyes with such fingers, so I called Rosine and bribed
 her to help me. Rosine liked a bribe, so she did her best, smoothed and
-plaited my hair as well as a coiffeur would have done, placed the lace
+plaited my hair as [[Well|well]] as a coiffeur would have done, placed the lace
 collar mathematically straight, tied the neck-ribbon accurately—in
 short, did her work like the neat-handed Phillis she could be when she
 chose. Having given me my handkerchief and gloves, she took the candle
@@ -178,11 +178,11 @@ But I utterly denied the charge: I was vexed to be suspected of a
 second illusion. He was sceptical.
 
 “She has been, as sure as I live,” said he; “her figure crossing your
-eyes leaves on them a peculiar gleam and expression not to be
+eyes [[Leaves|leaves]] on them a peculiar gleam and expression not to be
 mistaken.”
 
 “She has _not_ been,” I persisted: for, indeed, I could deny her
-apparition with truth.
+apparition with [[Truth|truth]].
 
 “The old symptoms are there,” he affirmed: “a particular pale, and what
 the Scotch call a ‘raised’ look.”
@@ -191,7 +191,7 @@ He was so obstinate, I thought it better to tell him what I really
 _had_ seen. Of course with him it was held to be another effect of the
 same cause: it was all optical illusion—nervous malady, and so on. Not
 one bit did I believe him; but I dared not contradict: doctors are so
-self-opinionated, so immovable in their dry, materialist views.
+[[Self|self]]-opinionated, so immovable in their dry, materialist views.
 
 Rosine brought the shawl, and I was bundled into the carriage.
 
@@ -202,51 +202,51 @@ before that stage; I longed to see a being of whose powers I had heard
 reports which made me conceive peculiar anticipations. I wondered if
 she would justify her renown: with strange curiosity, with feelings
 severe and austere, yet of riveted interest, I waited. She was a study
-of such nature as had not encountered my eyes yet: a great and new
+of such [[Nature|nature]] as had not encountered my eyes yet: a great and new
 planet she was: but in what shape? I waited her rising.
 
-She rose at nine that December night: above the horizon I saw her come.
+She [[Rose|rose]] at nine that December [[Night|night]]: above the horizon I saw her come.
 She could shine yet with pale grandeur and steady might; but that star
 verged already on its judgment-day. Seen near, it was a chaos—hollow,
 half-consumed: an orb perished or perishing—half lava, half glow.
 
 I had heard this woman termed “plain,” and I expected bony harshness
 and grimness—something large, angular, sallow. What I saw was the
-shadow of a royal Vashti: a queen, fair as the day once, turned pale
+[[Shadow|shadow]] of a royal Vashti: a [[Queen|queen]], fair as the day once, turned pale
 now like twilight, and wasted like wax in flame.
 
 For a while—a long while—I thought it was only a woman, though an
 unique woman, who moved in might and grace before this multitude.
 By-and-by I recognised my mistake. Behold! I found upon her something
 neither of woman nor of man: in each of her eyes sat a devil. These
-evil forces bore her through the tragedy, kept up her feeble
-strength—for she was but a frail creature; and as the action rose and
+evil forces bore her through the [[Tragedy|tragedy]], kept up her feeble
+strength—for she was but a frail creature; and as the action [[Rose|rose]] and
 the stir deepened, how wildly they shook her with their passions of the
 pit! They wrote HELL on her straight, haughty brow. They tuned her
 voice to the note of torment. They writhed her regal face to a demoniac
-mask. Hate and Murder and Madness incarnate she stood.
+mask. Hate and Murder and [[Madness]] incarnate she stood.
 
 It was a marvellous sight: a mighty revelation.
 
 It was a spectacle low, horrible, immoral.
 
-Swordsmen thrust through, and dying in their blood on the arena sand;
+Swordsmen thrust through, and dying in their [[Blood|blood]] on the arena sand;
 bulls goring horses disembowelled, made a meeker vision for the
 public—a milder condiment for a people’s palate—than Vashti torn by
 seven devils: devils which cried sore and rent the tenement they
 haunted, but still refused to be exorcised.
 
-Suffering had struck that stage empress; and she stood before her
+[[Suffering]] had struck that stage empress; and she stood before her
 audience neither yielding to, nor enduring, nor, in finite measure,
 resenting it: she stood locked in struggle, rigid in resistance. She
 stood, not dressed, but draped in pale antique folds, long and regular
 like sculpture. A background and entourage and flooring of deepest
 crimson threw her out, white like alabaster—like silver: rather, be it
-said, like Death.
+said, like [[Death]].
 
-Where was the artist of the Cleopatra? Let him come and sit down and
+Where was the [[artist]] of the [[Cleopatra]]? Let him come and sit down and
 study this different vision. Let him seek here the mighty brawn, the
-muscle, the abounding blood, the full-fed flesh he worshipped: let all
+muscle, the abounding [[Blood|blood]], the full-fed flesh he worshipped: let all
 materialists draw nigh and look on.
 
 I have said that she does not _resent_ her grief. No; the weakness of
@@ -254,29 +254,29 @@ that word would make it a lie. To her, what hurts becomes immediately
 embodied: she looks on it as a thing that can be attacked, worried
 down, torn in shreds. Scarcely a substance herself, she grapples to
 conflict with abstractions. Before calamity she is a tigress; she rends
-her woes, shivers them in convulsed abhorrence. Pain, for her, has no
-result in good: tears water no harvest of wisdom: on sickness, on death
-itself, she looks with the eye of a rebel. Wicked, perhaps, she is, but
-also she is strong; and her strength has conquered Beauty, has overcome
+her woes, shivers them in convulsed abhorrence. [[Pain]], for her, has no
+result in good: [[Tears|tears]] [[Water|water]] no harvest of wisdom: on sickness, on [[Death|death]]
+itself, she looks with the eye of a [[Rebel|rebel]]. Wicked, perhaps, she is, but
+also she is strong; and her strength has conquered [[Beauty]], has overcome
 Grace, and bound both at her side, captives peerlessly fair, and docile
 as fair. Even in the uttermost frenzy of energy is each maenad movement
 royally, imperially, incedingly upborne. Her hair, flying loose in
 revel or war, is still an angel’s hair, and glorious under a halo.
 Fallen, insurgent, banished, she remembers the heaven where she
-rebelled. Heaven’s light, following her exile, pierces its confines,
+rebelled. Heaven’s light, following her [[Exile|exile]], pierces its confines,
 and discloses their forlorn remoteness.
 
-Place now the Cleopatra, or any other slug, before her as an obstacle,
+Place now the [[Cleopatra]], or any other slug, before her as an obstacle,
 and see her cut through the pulpy mass as the scimitar of Saladin clove
 the down cushion. Let Paul Peter Rubens wake from the dead, let him
 rise out of his cerements, and bring into this presence all the army of
-his fat women; the magian power or prophet-virtue gifting that slight
+his fat women; the magian power or [[Prophet|prophet]]-virtue gifting that slight
 rod of Moses, could, at one waft, release and re-mingle a sea
 spell-parted, whelming the heavy host with the down-rush of overthrown
 sea-ramparts.
 
 Vashti was not good, I was told; and I have said she did not look good:
-though a spirit, she was a spirit out of Tophet. Well, if so much of
+though a spirit, she was a spirit out of Tophet. [[Well]], if so much of
 unholy force can arise from below, may not an equal efflux of sacred
 essence descend one day from above?
 
@@ -287,42 +287,42 @@ question what he thought. The strong magnetism of genius drew my heart
 out of its wonted orbit; the sunflower turned from the south to a
 fierce light, not solar—a rushing, red, cometary light—hot on vision
 and to sensation. I had seen acting before, but never anything like
-this: never anything which astonished Hope and hushed Desire; which
+this: never anything which astonished [[Hope]] and hushed [[Desire]]; which
 outstripped Impulse and paled Conception; which, instead of merely
-irritating imagination with the thought of what _might_ be done, at the
-same time fevering the nerves because it was _not_ done, disclosed
-power like a deep, swollen winter river, thundering in cataract, and
-bearing the soul, like a leaf, on the steep and steelly sweep of its
+irritating [[Imagination|imagination]] with the thought of what _might_ be done, at the
+same [[Time|time]] fevering the nerves because it was _not_ done, disclosed
+power like a deep, swollen [[Winter|winter]] [[River|river]], thundering in cataract, and
+bearing the [[Soul|soul]], like a leaf, on the steep and steelly sweep of its
 descent.
 
 Miss Fanshawe, with her usual ripeness of judgment, pronounced Dr.
-Bretton a serious, impassioned man, too grave and too impressible. Not
+Bretton a serious, impassioned man, too [[Grave|grave]] and too impressible. Not
 in such light did I ever see him: no such faults could I lay to his
 charge. His natural attitude was not the meditative, nor his natural
-mood the sentimental; _impressionable_ he was as dimpling water, but,
-almost as water, _unimpressible:_ the breeze, the sun, moved him—metal
-could not grave, nor fire brand.
+mood the sentimental; _impressionable_ he was as dimpling [[Water|water]], but,
+almost as [[Water|water]], _unimpressible:_ the breeze, the sun, moved him—metal
+could not [[Grave|grave]], nor [[Fire|fire]] brand.
 
-Dr. John _could_ think and think well, but he was rather a man of
+Dr. John _could_ think and think [[Well|well]], but he was rather a man of
 action than of thought; he _could_ feel, and feel vividly in his way,
 but his heart had no chord for enthusiasm: to bright, soft, sweet
 influences his eyes and lips gave bright, soft, sweet welcome,
-beautiful to see as dyes of rose and silver, pearl and purple, imbuing
-summer clouds; for what belonged to storm, what was wild and intense,
+beautiful to see as dyes of [[Rose|rose]] and silver, pearl and purple, imbuing
+[[Summer|summer]] clouds; for what belonged to [[Storm|storm]], what was wild and intense,
 dangerous, sudden, and flaming, he had no sympathy, and held with it no
-communion. When I took time and regained inclination to glance at him,
+communion. When I took [[Time|time]] and regained inclination to glance at him,
 it amused and enlightened me to discover that he was watching that
-sinister and sovereign Vashti, not with wonder, nor worship, nor yet
-dismay, but simply with intense curiosity. Her agony did not pain him,
+sinister and sovereign Vashti, not with [[Wonder|wonder]], nor worship, nor yet
+dismay, but simply with intense curiosity. Her agony did not [[Pain|pain]] him,
 her wild moan—worse than a shriek—did not much move him; her fury
 revolted him somewhat, but not to the point of horror. Cool young
 Briton! The pale cliffs of his own England do not look down on the
 tides of the Channel more calmly than he watched the Pythian
-inspiration of that night.
+inspiration of that [[Night|night]].
 
 Looking at his face, I longed to know his exact opinions, and at last I
 put a question tending to elicit them. At the sound of my voice he
-awoke as if out of a dream; for he had been thinking, and very intently
+awoke as if out of [[A Dream|a dream]]; for he had been thinking, and very intently
 thinking, his own thoughts, after his own manner. “How did he like
 Vashti?” I wished to know.
 
@@ -331,14 +331,14 @@ then such a strange smile went wandering round his lips, a smile so
 critical, so almost callous! I suppose that for natures of that order
 his sympathies _were_ callous. In a few terse phrases he told me his
 opinion of, and feeling towards, the actress: he judged her as a woman,
-not an artist: it was a branding judgment.
+not an [[artist]]: it was a branding judgment.
 
-That night was already marked in my book of life, not with white, but
-with a deep-red cross. But I had not done with it yet; and other
+That [[Night|night]] was already marked in my book of life, not with white, but
+with a deep-red [[Cross|cross]]. But I had not done with it yet; and other
 memoranda were destined to be set down in characters of tint indelible.
 
-Towards midnight, when the deepening tragedy blackened to the
-death-scene, and all held their breath, and even Graham bit his
+Towards midnight, when the deepening [[Tragedy|tragedy]] blackened to the
+[[Death|death]]-scene, and all held their breath, and even Graham bit his
 under-lip, and knit his brow, and sat still and struck—when the whole
 theatre was hushed, when the vision of all eyes centred in one point,
 when all ears listened towards one quarter—nothing being seen but the
@@ -346,21 +346,21 @@ white form sunk on a seat, quivering in conflict with her last, her
 worst-hated, her visibly-conquering foe—nothing heard but her throes,
 her gaspings, breathing yet of mutiny, panting still defiance; when, as
 it seemed, an inordinate will, convulsing a perishing mortal frame,
-bent it to battle with doom and death, fought every inch of ground,
-sold every drop of blood, resisted to the latest the rape of every
+bent it to battle with doom and [[Death|death]], fought every inch of ground,
+sold every drop of [[Blood|blood]], resisted to the latest the rape of every
 faculty, _would_ see, _would_ hear, _would_ breathe, _would_ live, up
-to, within, well-nigh _beyond_ the moment when death says to all sense
+to, within, [[Well|well]]-nigh _beyond_ the moment when [[Death|death]] says to all sense
 and all being—“Thus far and no farther!”—
 
 Just then a stir, pregnant with omen, rustled behind the scenes—feet
-ran, voices spoke. What was it? demanded the whole house. A flame, a
+ran, voices spoke. What was it? demanded the whole [[house]]. A flame, a
 smell of smoke replied.
 
-“Fire!” rang through the gallery. “Fire!” was repeated, re-echoed,
+“[[Fire]]!” rang through the gallery. “[[Fire]]!” was repeated, re-echoed,
 yelled forth: and then, and faster than pen can set it down, came
 panic, rushing, crushing—a blind, selfish, cruel chaos.
 
-And Dr. John? Reader, I see him yet, with his look of comely courage
+And Dr. John? Reader, I see him yet, with his look of comely [[Courage|courage]]
 and cordial calm.
 
 “Lucy will sit still, I know,” said he, glancing down at me with the
@@ -403,8 +403,8 @@ could not get between or over.
 
 Our pioneer proved strong and adroit; he opened the dense mass like a
 wedge; with patience and toil he at last bored through the
-flesh-and-blood rock—so solid, hot, and suffocating—and brought us to
-the fresh, freezing night.
+flesh-and-[[Blood|blood]] rock—so solid, hot, and suffocating—and brought us to
+the fresh, freezing [[Night|night]].
 
 “You are an Englishman!” said he, turning shortly on Dr. Bretton, when
 we got into the street.
@@ -421,17 +421,17 @@ carriage.”
 “Tell him I am not hurt, except just in my shoulder. Oh, my shoulder!
 They trod just here.”
 
-“Dislocation, perhaps!” muttered the Doctor: “let us hope there is no
+“Dislocation, perhaps!” muttered the Doctor: “let us [[Hope|hope]] there is no
 worse injury done. Lucy, lend a hand one instant.”
 
 And I assisted while he made some arrangement of drapery and position
-for the ease of his suffering burden. She suppressed a moan, and lay in
+for the ease of his [[Suffering|suffering]] burden. She suppressed a moan, and lay in
 his arms quietly and patiently.
 
-“She is very light,” said Graham, “like a child!” and he asked in my
-ear, “Is she a child, Lucy? Did you notice her age?”
+“She is very light,” said Graham, “like a [[Child|child]]!” and he asked in my
+ear, “Is she a [[Child|child]], Lucy? Did you notice her age?”
 
-“I am not a child—I am a person of seventeen,” responded the patient,
+“I am not a [[Child|child]]—I am a person of seventeen,” responded the patient,
 demurely and with dignity. Then, directly after: “Tell papa to come; I
 get anxious.”
 
@@ -453,7 +453,7 @@ Crécy, in the Rue Crécy.”
 We followed; the carriage drove fast; myself and Graham were silent.
 This seemed like an adventure.
 
-Some little time being lost in seeking our own equipage, we reached the
+Some little [[Time|time]] being lost in seeking our own equipage, we reached the
 hotel perhaps about ten minutes after these strangers. It was an hotel
 in the foreign sense: a collection of dwelling-houses, not an inn—a
 vast, lofty pile, with a huge arch to its street-door, leading through
@@ -464,7 +464,7 @@ at Numéro 2 on the second landing; the first floor comprising the abode
 of I know not what “prince Russe,” as Graham informed me. On ringing
 the bell at a second great door, we were admitted to a suite of very
 handsome apartments. Announced by a servant in livery, we entered a
-drawing-room whose hearth glowed with an English fire, and whose walls
+drawing-room whose hearth glowed with an English [[Fire|fire]], and whose walls
 gleamed with foreign mirrors. Near the hearth appeared a little group:
 a slight form sunk in a deep arm-chair, one or two women busy about it,
 the iron-grey gentleman anxiously looking on.
@@ -493,13 +493,13 @@ no less skilled in surgery than medicine, and, on examination, found
 that no further advice than his own was necessary to the treatment of
 the present case. He ordered her to be carried to her chamber, and
 whispered to me:—“Go with the women, Lucy; they seem but dull; you can
-at least direct their movements, and thus spare her some pain. She must
+at least direct their movements, and thus spare her some [[Pain|pain]]. She must
 be touched very tenderly.”
 
 The chamber was a room shadowy with pale-blue hangings, vaporous with
 curtainings and veilings of muslin; the bed seemed to me like
-snow-drift and mist—spotless, soft, and gauzy. Making the women stand
-apart, I undressed their mistress, without their well-meaning but
+[[Snow|snow]]-drift and mist—spotless, soft, and gauzy. Making the women stand
+apart, I undressed their mistress, without their [[Well|well]]-meaning but
 clumsy aid. I was not in a sufficiently collected mood to note with
 separate distinctness every detail of the attire I removed, but I
 received a general impression of refinement, delicacy, and perfect
@@ -512,13 +512,13 @@ As I folded back her plentiful yet fine hair, so shining and soft, and
 so exquisitely tended, I had under my observation a young, pale, weary,
 but high-bred face. The brow was smooth and clear; the eyebrows were
 distinct, but soft, and melting to a mere trace at the temples; the
-eyes were a rich gift of nature—fine and full, large, deep, seeming to
+eyes were a rich gift of [[Nature|nature]]—fine and full, large, deep, seeming to
 hold dominion over the slighter subordinate features—capable, probably,
 of much significance at another hour and under other circumstances than
-the present, but now languid and suffering. Her skin was perfectly
+the present, but now languid and [[Suffering|suffering]]. Her skin was perfectly
 fair, the neck and hands veined finely like the petals of a flower; a
-thin glazing of the ice of pride polished this delicate exterior, and
-her lip wore a curl—I doubt not inherent and unconscious, but which, if
+thin glazing of the ice of [[Pride|pride]] polished this delicate exterior, and
+her lip wore a curl—I [[Doubt|doubt]] not inherent and unconscious, but which, if
 I had seen it first with the accompaniments of health and state, would
 have struck me as unwarranted, and proving in the little lady a quite
 mistaken view of life and her own consequence.
@@ -526,13 +526,13 @@ mistaken view of life and her own consequence.
 Her demeanour under the Doctor’s hands at first excited a smile; it was
 not puerile—rather, on the whole, patient and firm—but yet, once or
 twice she addressed him with suddenness and sharpness, saying that he
-hurt her, and must contrive to give her less pain; I saw her large
+hurt her, and must contrive to give her less [[Pain|pain]]; I saw her large
 eyes, too, settle on his face like the solemn eyes of some pretty,
-wondering child. I know not whether Graham felt this examination: if he
+wondering [[Child|child]]. I know not whether Graham felt this examination: if he
 did, he was cautious not to check or discomfort it by any retaliatory
 look. I think he performed his work with extreme care and gentleness,
-sparing her what pain he could; and she acknowledged as much, when he
-had done, by the words:—“Thank you, Doctor, and good-night,” very
+sparing her what [[Pain|pain]] he could; and she acknowledged as much, when he
+had done, by the words:—“Thank you, Doctor, and good-[[Night|night]],” very
 gratefully pronounced as she uttered them, however, it was with a
 repetition of the serious, direct gaze, I thought, peculiar in its
 gravity and intentness.
@@ -553,7 +553,7 @@ delicately designed, and if at first sight it appeared proud, I believe
 custom might prove it to be soft.
 
 “I thank the lady very sincerely,” said her father: “I fancy she has
-been very good to my child. I think we scarcely dare tell Mrs. Hurst
+been very good to my [[Child|child]]. I think we scarcely dare tell Mrs. Hurst
 who has been her substitute and done her work; she will feel at once
 ashamed and jealous.”
 
@@ -561,8 +561,8 @@ And thus, in the most friendly spirit, parting greetings were
 interchanged; and refreshment having been hospitably offered, but by
 us, as it was late, refused, we withdrew from the Hôtel Crécy.
 
-On our way back we repassed the theatre. All was silence and darkness:
-the roaring, rushing crowd all vanished and gone—the damps, as well as
-the incipient fire, extinct and forgotten. Next morning’s papers
+On our way back we repassed the theatre. All was [[Silence|silence]] and darkness:
+the roaring, rushing crowd all vanished and gone—the damps, as [[Well|well]] as
+the incipient [[Fire|fire]], extinct and forgotten. Next morning’s papers
 explained that it was but some loose drapery on which a spark had
 fallen, and which had blazed up and been quenched in a moment.

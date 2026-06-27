@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 4 (part 5)"
+title: "[[Jane Eyre]] — Chapter 4 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -32,28 +32,28 @@ Reed, for I hate to live here.”
 “I will indeed send her to school soon,” murmured Mrs. Reed _sotto
 voce_; and gathering up her work, she abruptly quitted the apartment.
 
-I was left there alone—winner of the field. It was the hardest battle I
+I was left there [[Alone|alone]]—winner of the field. It was the hardest battle I
 had fought, and the first victory I had gained: I stood awhile on the
 rug, where Mr. Brocklehurst had stood, and I enjoyed my conqueror’s
-solitude. First, I smiled to myself and felt elate; but this fierce
+[[Solitude|solitude]]. First, I smiled to myself and felt elate; but this fierce
 pleasure subsided in me as fast as did the accelerated throb of my
-pulses. A child cannot quarrel with its elders, as I had done; cannot
+pulses. A [[Child|child]] cannot quarrel with its elders, as I had done; cannot
 give its furious feelings uncontrolled play, as I had given mine,
 without experiencing afterwards the pang of remorse and the chill of
 reaction. A ridge of lighted heath, alive, glancing, devouring, would
 have been a meet emblem of my mind when I accused and menaced Mrs.
 Reed: the same ridge, black and blasted after the flames are dead,
 would have represented as meetly my subsequent condition, when
-half-an-hour’s silence and reflection had shown me the madness of my
+half-an-hour’s [[Silence|silence]] and reflection had shown me the [[Madness|madness]] of my
 conduct, and the dreariness of my hated and hating position.
 
-Something of vengeance I had tasted for the first time; as aromatic
+Something of vengeance I had tasted for the first [[Time|time]]; as aromatic
 wine it seemed, on swallowing, warm and racy: its after-flavour,
 metallic and corroding, gave me a sensation as if I had been poisoned.
 Willingly would I now have gone and asked Mrs. Reed’s pardon; but I
 knew, partly from experience and partly from instinct, that was the way
-to make her repulse me with double scorn, thereby re-exciting every
-turbulent impulse of my nature.
+to make her repulse me with [[Double|double]] scorn, thereby re-exciting every
+turbulent impulse of my [[Nature|nature]].
 
 I would fain exercise some better faculty than that of fierce speaking;
 fain find nourishment for some less fiendish feeling than that of
@@ -61,23 +61,23 @@ sombre indignation. I took a book—some Arabian tales; I sat down and
 endeavoured to read. I could make no sense of the subject; my own
 thoughts swam always between me and the page I had usually found
 fascinating. I opened the glass-door in the breakfast-room: the
-shrubbery was quite still: the black frost reigned, unbroken by sun or
+shrubbery was quite still: the black [[Frost|frost]] reigned, unbroken by sun or
 breeze, through the grounds. I covered my head and arms with the skirt
 of my frock, and went out to walk in a part of the plantation which was
 quite sequestrated; but I found no pleasure in the silent trees, the
-falling fir-cones, the congealed relics of autumn, russet leaves, swept
+falling fir-cones, the congealed relics of [[Autumn|autumn]], russet [[Leaves|leaves]], swept
 by past winds in heaps, and now stiffened together. I leaned against a
 gate, and looked into an empty field where no sheep were feeding, where
 the short grass was nipped and blanched. It was a very grey day; a most
 opaque sky, “onding on snaw,” canopied all; thence flakes fell at
 intervals, which settled on the hard path and on the hoary lea without
-melting. I stood, a wretched child enough, whispering to myself over
+melting. I stood, a wretched [[Child|child]] enough, whispering to myself over
 and over again, “What shall I do?—what shall I do?”
 
 All at once I heard a clear voice call, “Miss Jane! where are you? Come
 to lunch!”
 
-It was Bessie, I knew well enough; but I did not stir; her light step
+It was Bessie, I knew [[Well|well]] enough; but I did not stir; her light step
 came tripping down the path.
 
 “You naughty little thing!” she said. “Why don’t you come when you are
@@ -85,7 +85,7 @@ called?”
 
 Bessie’s presence, compared with the thoughts over which I had been
 brooding, seemed cheerful; even though, as usual, she was somewhat
-cross. The fact is, after my conflict with and victory over Mrs. Reed,
+[[Cross|cross]]. The fact is, after my conflict with and victory over Mrs. Reed,
 I was not disposed to care much for the nursemaid’s transitory anger;
 and I _was_ disposed to bask in her youthful lightness of heart. I just
 put my two arms round her and said, “Come, Bessie! don’t scold.”
@@ -93,7 +93,7 @@ put my two arms round her and said, “Come, Bessie! don’t scold.”
 The action was more frank and fearless than any I was habituated to
 indulge in: somehow it pleased her.
 
-“You are a strange child, Miss Jane,” she said, as she looked down at
+“You are a strange [[Child|child]], Miss Jane,” she said, as she looked down at
 me; “a little roving, solitary thing: and you are going to school, I
 suppose?”
 
@@ -115,7 +115,7 @@ for you.”
 
 “I don’t think you have, Bessie.”
 
-“Child! what do you mean? What sorrowful eyes you fix on me! Well, but
+“[[Child]]! what do you mean? What sorrowful eyes you fix on me! [[Well]], but
 Missis and the young ladies and Master John are going out to tea this
 afternoon, and you shall have tea with me. I’ll ask cook to bake you a
 little cake, and then you shall help me to look over your drawers; for
@@ -125,7 +125,7 @@ you.”
 
 “Bessie, you must promise not to scold me any more till I go.”
 
-“Well, I will; but mind you are a very good girl, and don’t be afraid
+“[[Well]], I will; but mind you are a very good girl, and don’t be afraid
 of me. Don’t start when I chance to speak rather sharply; it’s so
 provoking.”
 
@@ -158,7 +158,7 @@ now if I were to ask you for a kiss you wouldn’t give it me: you’d say
 you’d _rather_ not.”
 
 “I’ll kiss you and welcome: bend your head down.” Bessie stooped; we
-mutually embraced, and I followed her into the house quite comforted.
+mutually embraced, and I followed her into the [[house]] quite comforted.
 That afternoon lapsed in peace and harmony; and in the evening Bessie
 told me some of her most enchanting stories, and sang me some of her
-sweetest songs. Even for me life had its gleams of sunshine.
+sweetest [[songs]]. Even for me life had its gleams of sunshine.

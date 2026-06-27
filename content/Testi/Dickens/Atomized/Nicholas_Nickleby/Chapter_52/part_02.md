@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 52 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 52 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘You would, I believe,’ said Newman. ‘But where are you hurrying now?’
 
 ‘Homewards,’ answered Nicholas. ‘Do you come with me, or I shall say
-good-night?’
+good-[[Night|night]]?’
 
 ‘I’ll come a little way, if you will but walk: not run,’ said Noggs.
 
@@ -31,11 +31,11 @@ view.
 
 ‘He’s a violent youth at times,’ said Newman, looking after him; ‘and
 yet I like him for it. There’s cause enough now, or the deuce is in it.
-Hope! I SAID hope, I think! Ralph Nickleby and Gride with their heads
-together! And hope for the opposite party! Ho! ho!’
+[[Hope]]! I SAID [[Hope|hope]], I think! [[Ralph Nickleby]] and Gride with their heads
+together! And [[Hope|hope]] for the opposite party! Ho! ho!’
 
-It was with a very melancholy laugh that Newman Noggs concluded this
-soliloquy; and it was with a very melancholy shake of the head, and a
+It was with a very [[Melancholy|melancholy]] laugh that [[Newman Noggs]] concluded this
+soliloquy; and it was with a very [[Melancholy|melancholy]] shake of the head, and a
 very rueful countenance, that he turned about, and went plodding on his
 way.
 
@@ -43,12 +43,12 @@ This, under ordinary circumstances, would have been to some small tavern
 or dram-shop; that being his way, in more senses than one. But, Newman
 was too much interested, and too anxious, to betake himself even to
 this resource, and so, with many desponding and dismal reflections, went
-straight home.
+straight [[Home|home]].
 
 It had come to pass, that afternoon, that Miss Morleena Kenwigs had
 received an invitation to repair next day, per steamer from Westminster
 Bridge, unto the Eel-pie Island at Twickenham: there to make merry upon
-a cold collation, bottled beer, shrub, and shrimps, and to dance in the
+a cold collation, bottled beer, shrub, and shrimps, and to [[Dance|dance]] in the
 open air to the music of a locomotive band, conveyed thither for the
 purpose: the steamer being specially engaged by a dancing-master of
 extensive connection for the accommodation of his numerous pupils,
@@ -57,7 +57,7 @@ services, by purchasing themselves, and inducing their friends to do the
 like, divers light-blue tickets, entitling them to join the expedition.
 Of these light-blue tickets, one had been presented by an ambitious
 neighbour to Miss Morleena Kenwigs, with an invitation to join her
-daughters; and Mrs. Kenwigs, rightly deeming that the honour of the
+daughters; and Mrs. Kenwigs, rightly deeming that the [[Honour|honour]] of the
 family was involved in Miss Morleena’s making the most splendid
 appearance possible on so short a notice, and testifying to the
 dancing-master that there were other dancing-masters besides him, and to
@@ -65,7 +65,7 @@ all fathers and mothers present that other people’s children could learn
 to be genteel besides theirs, had fainted away twice under the magnitude
 of her preparations, but, upheld by a determination to sustain the
 family name or perish in the attempt, was still hard at work when Newman
-Noggs came home.
+Noggs came [[Home|home]].
 
 Now, between the italian-ironing of frills, the flouncing of trousers,
 the trimming of frocks, the faintings and the comings-to again,
@@ -75,25 +75,25 @@ flaxen tails of Miss Morleena’s hair were, in a manner, run to seed; and
 that, unless she were put under the hands of a skilful hairdresser, she
 never could achieve that signal triumph over the daughters of all other
 people, anything less than which would be tantamount to defeat. This
-discovery drove Mrs. Kenwigs to despair; for the hairdresser lived three
+discovery drove Mrs. Kenwigs to [[Despair|despair]]; for the hairdresser lived three
 streets and eight dangerous crossings off; Morleena could not be trusted
-to go there alone, even if such a proceeding were strictly proper:
+to go there [[Alone|alone]], even if such a proceeding were strictly proper:
 of which Mrs. Kenwigs had her doubts; Mr. Kenwigs had not returned from
 business; and there was nobody to take her. So, Mrs. Kenwigs first
 slapped Miss Kenwigs for being the cause of her vexation, and then shed
-tears.
+[[Tears|tears]].
 
-‘You ungrateful child!’ said Mrs. Kenwigs, ‘after I have gone through
-what I have, this night, for your good.’
+‘You ungrateful [[Child|child]]!’ said Mrs. Kenwigs, ‘after I have gone through
+what I have, this [[Night|night]], for your good.’
 
-‘I can’t help it, ma,’ replied Morleena, also in tears; ‘my hair WILL
+‘I can’t help it, ma,’ replied Morleena, also in [[Tears|tears]]; ‘my hair WILL
 grow.’
 
 ‘Don’t talk to me, you naughty thing!’ said Mrs. Kenwigs, ‘don’t! Even if
 I was to trust you by yourself and you were to escape being run over,
 I know you’d run in to Laura Chopkins,’ who was the daughter of the
 ambitious neighbour, ‘and tell her what you’re going to wear tomorrow,
-I know you would. You’ve no proper pride in yourself, and are not to be
+I know you would. You’ve no proper [[Pride|pride]] in yourself, and are not to be
 trusted out of sight for an instant.’
 
 Deploring the evil-mindedness of her eldest daughter in these terms, Mrs
@@ -102,8 +102,8 @@ that she did believe there never was anybody so tried as she was.
 Thereupon, Morleena Kenwigs wept afresh, and they bemoaned themselves
 together.
 
-Matters were at this point, as Newman Noggs was heard to limp past the
-door on his way upstairs; when Mrs. Kenwigs, gaining new hope from the
+Matters were at this point, as [[Newman Noggs]] was heard to limp past the
+door on his way upstairs; when Mrs. Kenwigs, gaining new [[Hope|hope]] from the
 sound of his footsteps, hastily removed from her countenance as many
 traces of her late emotion as were effaceable on so short a notice: and
 presenting herself before him, and representing their dilemma, entreated
@@ -125,7 +125,7 @@ It was not exactly a hairdresser’s; that is to say, people of a coarse
 and vulgar turn of mind might have called it a barber’s; for they not
 only cut and curled ladies elegantly, and children carefully, but shaved
 gentlemen easily. Still, it was a highly genteel establishment--quite
-first-rate in fact--and there were displayed in the window, besides
+first-rate in fact--and there were displayed in the [[Window|window]], besides
 other elegancies, waxen busts of a light lady and a dark gentleman which
 were the admiration of the whole neighbourhood. Indeed, some ladies
 had gone so far as to assert, that the dark gentleman was actually
@@ -136,6 +136,6 @@ on both sides--encouraged the idea. The better informed among the sex,
 however, made light of this assertion, for however willing they were
 (and they were very willing) to do full justice to the handsome face
 and figure of the proprietor, they held the countenance of the dark
-gentleman in the window to be an exquisite and abstract idea of
-masculine beauty, realised sometimes, perhaps, among angels and military
+gentleman in the [[Window|window]] to be an exquisite and abstract idea of
+masculine [[Beauty|beauty]], realised sometimes, perhaps, among angels and military
 men, but very rarely embodied to gladden the eyes of mortals.

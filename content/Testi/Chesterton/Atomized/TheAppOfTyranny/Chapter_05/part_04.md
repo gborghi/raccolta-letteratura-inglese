@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 4)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Rome, at her very weakest, has always been a river that wanders and widens
+Rome, at her very weakest, has always been a [[River|river]] that wanders and widens
 
 and that waters many fields. Berlin, at its strongest, will never be
 
@@ -22,7 +22,7 @@ anything but a whirlpool, which seeks its own centre, and is sucked down.
 
 It would only narrow all the rest of Europe, as it has already narrowed all
 
-the rest of Germany. There is a spirit of diseased egoism, which at last
+the rest of [[Germany]]. There is a spirit of diseased egoism, which at last
 
 makes all things spin upon one pin-point in the brain. It is a spirit
 
@@ -30,17 +30,17 @@ expressed more often in the slangs than in the tongues of men. The English
 
 call it a fad. I do not know what the Italians call it; the Prussians call
 
-it philosophy.
+it [[philosophy]].
 
 
 
 Here is the sort of instance that made me think of you. What would you feel
 
-first, let us say, if I mentioned Michael Angelo? For the first moment,
+first, let us say, if I mentioned [[Michael]] [[Angelo]]? For the first moment,
 
 perhaps, boredom: such as I feel when Americans ask me about
 
-Stratford-on-Avon. But, supposing that just fear quieted, you would feel
+Stratford-on-Avon. But, supposing that just [[Fear|fear]] quieted, you would feel
 
 what I and every one else can feel. It might be the sense of the majestic
 
@@ -54,11 +54,11 @@ flank and chest and throat in "The Slave," which is like an earthquake
 
 lifting a whole landscape; it might be that tremendous Madonna, whose
 
-charity is more strong than death. Anyhow, your thoughts would be something
+[[Charity|charity]] is more strong than [[Death|death]]. Anyhow, your thoughts would be something
 
-worthy of the man's terrible paganism and his more terrible Christianity.
+worthy of the man's terrible paganism and his more terrible [[Christianity]].
 
-Who but God could have graven Michael Angelo; who came so near to graving
+Who but God could have graven [[Michael]] [[Angelo]]; who came so near to graving
 
 the Mother of God?
 
@@ -80,7 +80,7 @@ Lombard Beonrad, corresponding to the word Bonroth. Corresponding names are
 
 Mackrodt, Osterroth, Leonard." And so on, and so on, and so on. "In his
 
-face he has always been well-coloured...the eyes might be called small
+face he has always been [[Well|well]]-coloured...the eyes might be called small
 
 rather than large, of the colour of horn, but variable with 'flecks' of
 
@@ -106,13 +106,13 @@ West brunette race."
 
 
 
-Would you take the trouble to prove that Michael Angelo was an Italian that
+Would you take the trouble to prove that [[Michael]] [[Angelo]] was an Italian that
 
 this man takes to prove that he was a German? Of course not. The only
 
 impression this man (who is a recognised Prussian historian) produces on
 
-your mind or mine is that he does not care about Michael Angelo. For you,
+your mind or mine is that he does not care about [[Michael]] [[Angelo]]. For you,
 
 being an Italian, are therefore something more than an Italian; and I being
 
@@ -124,13 +124,13 @@ dead Prussians, in the catacombs of Rome or under the ruins of Troy. If he
 
 can find one blue eye lying about somewhere, he is satisfied. He has no
 
-philosophy. He has a hobby, which is collecting Germans. It would probably
+[[philosophy]]. He has a hobby, which is collecting Germans. It would probably
 
 be vain for you and me to point out that we could prove anything by the
 
 sort of ingenuity which finds the German "rothe" in Buonarotti. We could
 
-have great fun depriving Germany of all her geniuses in that style. We
+have great fun depriving [[Germany]] of all her geniuses in that style. We
 
 could say that Moltke must have been an Italian, from the old Latin root
 
@@ -148,7 +148,7 @@ between us and the Prussian professor is simply that we are not mad.
 
 The father of Frederick the Great, the founder of the more modern
 
-Hohenzollerns, was mad. His madness consisted of stealing giants; like an
+Hohenzollerns, was mad. His [[Madness|madness]] consisted of stealing giants; like an
 
 unscrupulous travelling showman. Any man much over six foot high, whether
 
@@ -156,7 +156,7 @@ he were called the Russian Giant or the Irish Giant or the Chinese Giant or
 
 the Hottentot Giant, was in danger of being kidnapped and imprisoned in a
 
-Prussian uniform. It is the same mean sort of madness that is working in
+Prussian uniform. It is the same mean sort of [[Madness|madness]] that is working in
 
 Prussian professors such as the one I have quoted. They can get no further
 
@@ -168,7 +168,7 @@ Leonardo da Vinci, and Shakespeare himself are among the monstrosities
 
 exhibited at Frederick-William fair--on grounds as good as those quoted
 
-above. But I have put this particular case before you, as an artist rather
+above. But I have put this particular case before you, as an [[artist]] rather
 
 than an Italian, to show what I mean when I object to a "German future for
 
@@ -180,7 +180,7 @@ conceited and small-minded; but which also has that kind of pertinacity
 
 which always belongs to lunatics. It wants to be able to congratulate
 
-itself on Michael Angelo; never to congratulate the world. It is the spirit
+itself on [[Michael]] [[Angelo]]; never to congratulate the world. It is the spirit
 
 that can be seen in those who go bald trying to trace a genealogy; or go
 
@@ -188,4 +188,4 @@ bankrupt trying to make out a claim to some remote estate. The Prussian has
 
 the inconsistency of the _parvenu_; he will labour to prove that he is
 
-related to some gentleman of the Renaissance, even while he boasts of being
+related to some gentleman of the [[Renaissance]], even while he boasts of being

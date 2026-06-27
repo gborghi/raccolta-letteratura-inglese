@@ -18,9 +18,9 @@ She asked it so anxiously, that if he had been in possession of any
 kind of tenement, he would have had it plastered a foot deep rather
 than answer No. But he was obliged to answer No; and he saw a shade of
 disappointment on her face, as she checked a sigh, and looked at the
-low fire. Then he saw, also, that Mrs Plornish was a young woman, made
-somewhat slatternly in herself and her belongings by poverty; and so
-dragged at by poverty and the children together, that their united
+low [[Fire|fire]]. Then he saw, also, that Mrs Plornish was a young woman, made
+somewhat slatternly in herself and her belongings by [[Poverty|poverty]]; and so
+dragged at by [[Poverty|poverty]] and the children together, that their united
 forces had already dragged her face into wrinkles.
 
 ‘All such things as jobs,’ said Mrs Plornish, ‘seems to me to have gone
@@ -28,13 +28,13 @@ underground, they do indeed.’ (Herein Mrs Plornish limited her remark to
 the plastering trade, and spoke without reference to the Circumlocution
 Office and the Barnacle Family.)
 
-‘Is it so difficult to get work?’ asked Arthur Clennam.
+‘Is it so difficult to get work?’ asked [[Arthur Clennam]].
 
 ‘Plornish finds it so,’ she returned. ‘He is quite unfortunate. Really
 he is.’
 
-Really he was. He was one of those many wayfarers on the road of life,
-who seem to be afflicted with supernatural corns, rendering it
+Really he was. He was one of those many wayfarers on the [[Road|road]] of life,
+who seem to be afflicted with [[Supernatural|supernatural]] corns, rendering it
 impossible for them to keep up even with their lame competitors. A
 willing, working, soft hearted, not hard-headed fellow, Plornish took
 his fortune as smoothly as could be expected; but it was a rough one. It
@@ -50,7 +50,7 @@ between the bars of the grate; ‘nor yet for want of working at them when
 they are to be got. No one ever heard my husband complain of work.’
 
 Somehow or other, this was the general misfortune of Bleeding Heart
-Yard. From time to time there were public complaints, pathetically
+Yard. From [[Time|time]] to [[Time|time]] there were public complaints, pathetically
 going about, of labour being scarce--which certain people seemed to take
 extraordinarily ill, as though they had an absolute right to it on their
 own terms--but Bleeding Heart Yard, though as willing a Yard as any in
@@ -71,7 +71,7 @@ flannel-jacketed, lime-whitened.
 conversation with you on the subject of the Dorrit family.’
 
 Plornish became suspicious. Seemed to scent a creditor. Said, ‘Ah, yes.
-Well. He didn’t know what satisfaction _he_ could give any gentleman,
+[[Well]]. He didn’t know what satisfaction _he_ could give any gentleman,
 respecting that family. What might it be about, now?’
 
 ‘I know you better,’ said Clennam, smiling, ‘than you suppose.’
@@ -79,19 +79,19 @@ respecting that family. What might it be about, now?’
 Plornish observed, not smiling in return, And yet he hadn’t the pleasure
 of being acquainted with the gentleman, neither.
 
-‘No,’ said Arthur, ‘I know your kind offices at second hand, but on the
+‘No,’ said [[Arthur]], ‘I know your kind offices at second hand, but on the
 best authority; through Little Dorrit.--I mean,’ he explained, ‘Miss
 Dorrit.’
 
 ‘Mr Clennam, is it? Oh! I’ve heard of you, Sir.’
 
-‘And I of you,’ said Arthur.
+‘And I of you,’ said [[Arthur]].
 
 ‘Please to sit down again, Sir, and consider yourself welcome.--Why,
-yes,’ said Plornish, taking a chair, and lifting the elder child upon
+yes,’ said Plornish, taking a chair, and lifting the elder [[Child|child]] upon
 his knee, that he might have the moral support of speaking to a stranger
 over his head, ‘I have been on the wrong side of the Lock myself, and
-in that way we come to know Miss Dorrit. Me and my wife, we are well
+in that way we come to know Miss Dorrit. Me and my wife, we are [[Well|well]]
 acquainted with Miss Dorrit.’
 
 ‘Intimate!’ cried Mrs Plornish. Indeed, she was so proud of the
@@ -117,7 +117,7 @@ dursn’t!’
 
 ‘Without admiring him for that,’ Clennam quietly observed, ‘I am very
 sorry for him.’ The remark appeared to suggest to Plornish, for the
-first time, that it might not be a very fine trait of character after
+first [[Time|time]], that it might not be a very fine trait of character after
 all. He pondered about it for a moment, and gave it up.
 
 ‘As to me,’ he resumed, ‘certainly Mr Dorrit is as affable with me, I
@@ -130,7 +130,7 @@ speaking of.’
 Mr Plornish picked a bit of lime out of his whisker, put it between his
 lips, turned it with his tongue like a sugar-plum, considered, found
 himself unequal to the task of lucid explanation, and appealing to his
-wife, said, ‘Sally, _you_ may as well mention how it was, old woman.’
+wife, said, ‘Sally, _you_ may as [[Well|well]] mention how it was, old woman.’
 
 ‘Miss Dorrit,’ said Sally, hushing the baby from side to side, and
 laying her chin upon the little hand as it tried to disarrange the gown
@@ -147,7 +147,7 @@ places than one? No, says Miss Dorrit, I have not, but I will. She
 copied it out according, on this table, in a sweet writing, and
 Plornish, he took it where he worked, having a job just then,’ (Plornish
 repeated job just then,) ‘and likewise to the landlord of the Yard;
-through which it was that Mrs Clennam first happened to employ Miss
+through which it was that [[Mrs Clennam]] first happened to employ Miss
 Dorrit.’ Plornish repeated, employ Miss Dorrit; and Mrs Plornish having
 come to an end, feigned to bite the fingers of the little hand as she
 kissed it.

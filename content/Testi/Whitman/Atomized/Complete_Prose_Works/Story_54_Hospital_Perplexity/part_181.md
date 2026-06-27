@@ -22,7 +22,7 @@ have not long pass'd away; and yes, Whittier and Tennyson remain, over
 eighty years old--the latter having sent out not long since a fresh
 volume, which the English-speaking Old and New Worlds are yet reading. I
 have already put on record my notions of T. and his effusions: they are
-very attractive and flowery to me--but flowers, too, are at least as
+very attractive and flowery to me--but [[Flowers|flowers]], too, are at least as
 profound as anything; and by common consent T. is settled as the poetic
 cream-skimmer of our age's melody, _ennui_ and polish--a verdict in
 which I agree, and should say that nobody (not even Shakspere)
@@ -33,14 +33,14 @@ too, and quite certainly repays the trouble--but I am old and indolent,
 and cannot study (and never did.)
 
 Grand as to-day's accumulative fund of poetry is, there is certainly
-something unborn, not yet come forth, different from anything
+something [[unborn]], not yet come forth, different from anything
 now formulated in any verse, or contributed by the past in any
 land--something waited for, craved, hitherto non-express'd. What it
 will be, and how, no one knows. It will probably have to prove itself by
 itself and its readers. One thing, it must run through entire humanity
 (this new word and meaning Solidarity has arisen to us moderns) twining
 all lands like a divine thread, stringing all beads, pebbles or gold,
-from God and the soul, and like God's dynamics and sunshine illustrating
+from God and the [[Soul|soul]], and like God's dynamics and sunshine illustrating
 all and having reference to all. From anything like a cosmical point of
 view, the entirety of imaginative literature's themes and results as
 we get them to-day seems painfully narrow. All that has been put in
@@ -54,36 +54,36 @@ print, in short tales, "poetry" or books.
 
 I give these speculations, or notions, in all their audacity, for the
 comfort of thousands--perhaps a majority of ardent minds, women's and
-young men's--who stand in awe and despair before the immensity of suns
-and stars already in the firmament. Even in the Iliad and Shakspere
+young men's--who stand in awe and [[Despair|despair]] before the immensity of suns
+and [[Stars|stars]] already in the firmament. Even in the Iliad and Shakspere
 there is (is there not?) a certain humiliation produced to us by the
 absorption of them, unless we sound in equality, or above them,
-the songs due our own democratic era and surroundings, and the full
+the [[songs]] due our own democratic era and surroundings, and the full
 assertion of ourselves. And in vain (such is my opinion) will
-America seek successfully to tune any superb national song unless the
+[[america|America]] seek successfully to tune any superb national [[Song|song]] unless the
 heart-strings of the people start it from their own breasts--to be
 return'd and echoed there again.
 
 
-SHIP AHOY
+[[Ship|SHIP]] AHOY
 
-    In dreams I was a ship, and sail'd the boundless seas,
+    In [[Dreams|dreams]] I was a [[Ship|ship]], and sail'd the boundless seas,
     Sailing and ever sailing--all seas and into every port, or out
       upon the offing,
     Saluting, cheerily hailing each mate, met or pass'd, little or big,
-    "Ship ahoy!" thro' trumpet or by voice--if nothing more, some
+    "[[Ship]] ahoy!" thro' trumpet or by voice--if nothing more, some
       friendly merry word at least,
     For companionship and good will for ever to all and each.
 
 
-FOR QUEEN VICTORIA'S BIRTHDAY
+FOR [[Queen|QUEEN]] VICTORIA'S BIRTHDAY
 
 _An American arbutus bunch to be put in a little vase on the royal
 breakfast table May 24th, 1890_.
 
 Lady, accept a birth-day thought--haply an idle gift and token, Right
 from the scented soil's May-utterance here, (Smelling of countless
-blessings, prayers, and old-time thanks,)[45] A bunch of white and pink
+blessings, prayers, and old-[[Time|time]] thanks,)[45] A bunch of white and pink
 arbutus, silent, spicy, shy, From Hudson's, Delaware's, or Potomac's
 woody banks.
 
@@ -99,15 +99,15 @@ with Great Britain--follow'd unquestionably, as that war would have, by
 recognition of the Southern Confederacy from all the leading European
 nations. It is now certain that all this then inevitable train of
 calamity hung on arrogant and peremptory phrases in the prepared and
-written missive of the British Minister, to America, which the Queen
+written missive of the British Minister, to [[america|America]], which the [[Queen]]
 (and Prince Albert latent) positively and promptly cancell'd; and which
-her firm attitude did alone actually erase and leave out, against all
-the other official prestige and Court of St. James's. On such minor and
+her firm attitude did [[Alone|alone]] actually erase and leave out, against all
+the other official prestige and [[Court]] of St. James's. On such minor and
 personal incidents (so to call them,) often depend the great growths and
-turns of civilization. This moment of a woman and a queen surely swung
-the grandest oscillation of modern history's pendulum. Many sayings and
-doings of that period, from foreign potentates and powers, might well be
-dropt in oblivion by America--but never _this_, if I could have my way.
+turns of civilization. This moment of a woman and a [[Queen|queen]] surely swung
+the grandest oscillation of modern [[history]]'s pendulum. Many sayings and
+doings of that period, from foreign potentates and powers, might [[Well|well]] be
+dropt in oblivion by [[america|America]]--but never _this_, if I could have my way.
 W. W.
 
 
@@ -118,8 +118,8 @@ AMERICAN NATIONAL LITERATURE
 _Is there any such thing--or can there ever be?_
 
 
-So you want an essay about American National Literature, (tremendous
-and fearful subject!) do you?[46] Well, if you will let me put down some
+So you want an [[Essay|essay]] about American National Literature, (tremendous
+and fearful subject!) do you?[46] [[Well]], if you will let me put down some
 melanged cogitations regarding the matter, hap-hazard, and from my own
 points of view, I will try. Horace Greeley wrote a book named "Hints
 toward Reforms," and the title-line was consider'd the best part of all.
@@ -128,4 +128,4 @@ and ambitious intent enough anyhow--first reiterating the question right
 out plainly: American National Literature--is there distinctively
 any such thing, or can there ever be? First to me comes an almost
 indescribably august form, the People, with varied typical shapes and
-attitudes-then the divine mirror, Literature.
+attitudes-then the divine [[Mirror|mirror]], Literature.

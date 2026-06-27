@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 29 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 29 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-your loss such as leaves no opening for consolation? Much as you suffer
+your loss such as [[Leaves|leaves]] no opening for consolation? Much as you suffer
 
 now, think of what you would have suffered if the discovery of his
 
@@ -36,7 +36,7 @@ on your side, would have made the blow more dreadful.”
 
 
 
-“No, he is not so unworthy as you believe him. He has broken no faith
+“No, he is not so unworthy as you believe him. He has broken no [[Faith|faith]]
 
 with me.”
 
@@ -86,9 +86,9 @@ you will feel something more than surprise, when you know that I am in
 
 town. An opportunity of coming hither, though with Mrs. Jennings, was a
 
-temptation we could not resist. I wish you may receive this in time to
+[[Temptation|temptation]] we could not resist. I wish you may receive this in [[Time|time]] to
 
-come here to-night, but I will not depend on it. At any rate I shall
+come here to-[[Night|night]], but I will not depend on it. At any rate I shall
 
 expect you to-morrow. For the present, adieu.
 
@@ -102,7 +102,7 @@ expect you to-morrow. For the present, adieu.
 
 
 
-Her second note, which had been written on the morning after the dance
+Her second note, which had been written on the morning after the [[Dance|dance]]
 
 at the Middletons’, was in these words:—
 
@@ -118,17 +118,17 @@ from you, and still more to see you, every hour of the day. Pray call
 
 again as soon as possible, and explain the reason of my having expected
 
-this in vain. You had better come earlier another time, because we are
+this in vain. You had better come earlier another [[Time|time]], because we are
 
-generally out by one. We were last night at Lady Middleton’s, where
+generally out by one. We were last [[Night|night]] at Lady Middleton’s, where
 
-there was a dance. I have been told that you were asked to be of the
+there was a [[Dance|dance]]. I have been told that you were asked to be of the
 
 party. But could it be so? You must be very much altered indeed since
 
 we parted, if that could be the case, and you not there. But I will not
 
-suppose this possible, and I hope very soon to receive your personal
+suppose this possible, and I [[Hope|hope]] very soon to receive your personal
 
 assurance of its being otherwise.
 
@@ -146,7 +146,7 @@ The contents of her last note to him were these:—
 
 
 
-“What am I to imagine, Willoughby, by your behaviour last night? Again
+“What am I to imagine, Willoughby, by your behaviour last [[Night|night]]? Again
 
 I demand an explanation of it. I was prepared to meet you with the
 
@@ -154,7 +154,7 @@ pleasure which our separation naturally produced, with the familiarity
 
 which our intimacy at Barton appeared to me to justify. I was repulsed
 
-indeed! I have passed a wretched night in endeavouring to excuse a
+indeed! I have passed a wretched [[Night|night]] in endeavouring to excuse a
 
 conduct which can scarcely be called less than insulting; but though I
 
@@ -234,7 +234,7 @@ he did. Whatever may have changed him now, (and nothing but the
 
 blackest art employed against me can have done it), I was once as dear
 
-to him as my own soul could wish. This lock of hair, which now he can
+to him as my own [[Soul|soul]] could wish. This lock of hair, which now he can
 
 so readily give up, was begged of me with the most earnest
 
@@ -270,8 +270,8 @@ instigated?”
 
 every creature of my acquaintance leagued together to ruin me in his
 
-opinion, than believe his nature capable of such cruelty. This woman of
+opinion, than believe his [[Nature|nature]] capable of such cruelty. This woman of
 
 whom he writes—whoever she be—or any one, in short, but your own dear
 
-self, mama, and Edward, may have been so barbarous to bely me. Beyond
+[[Self|self]], mama, and Edward, may have been so barbarous to bely me. Beyond

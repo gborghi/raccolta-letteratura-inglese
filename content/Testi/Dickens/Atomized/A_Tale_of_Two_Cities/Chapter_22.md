@@ -19,21 +19,21 @@ Knitting
 
 
 There had been earlier drinking than usual in the wine-shop of Monsieur
-Defarge. As early as six o’clock in the morning, sallow faces peeping
+Defarge. As early as six o’[[Clock|clock]] in the morning, sallow faces peeping
 through its barred windows had descried other faces within, bending over
 measures of wine. Monsieur Defarge sold a very thin wine at the best
 of times, but it would seem to have been an unusually thin wine that
-he sold at this time. A sour wine, moreover, or a souring, for its
+he sold at this [[Time|time]]. A sour wine, moreover, or a souring, for its
 influence on the mood of those who drank it was to make them gloomy. No
 vivacious Bacchanalian flame leaped out of the pressed grape of Monsieur
-Defarge: but, a smouldering fire that burnt in the dark, lay hidden in
+Defarge: but, a smouldering [[Fire|fire]] that burnt in the dark, lay hidden in
 the dregs of it.
 
 This had been the third morning in succession, on which there had been
 early drinking at the wine-shop of Monsieur Defarge. It had begun
 on Monday, and here was Wednesday come. There had been more of early
 brooding than drinking; for, many men had listened and whispered and
-slunk about there from the time of the opening of the door, who could
+slunk about there from the [[Time|time]] of the opening of the door, who could
 not have laid a piece of money on the counter to save their souls. These
 were to the full as interested in the place, however, as if they could
 have commanded whole barrels of wine; and they glided from seat to seat,
@@ -43,17 +43,17 @@ looks.
 Notwithstanding an unusual flow of company, the master of the wine-shop
 was not visible. He was not missed; for, nobody who crossed the
 threshold looked for him, nobody asked for him, nobody wondered to see
-only Madame Defarge in her seat, presiding over the distribution of
+only [[Madame Defarge]] in her seat, presiding over the distribution of
 wine, with a bowl of battered small coins before her, as much defaced
 and beaten out of their original impress as the small coinage of
 humanity from whose ragged pockets they had come.
 
 A suspended interest and a prevalent absence of mind, were perhaps
 observed by the spies who looked in at the wine-shop, as they looked in
-at every place, high and low, from the king’s palace to the criminal’s
+at every place, high and low, from the [[King|king]]’s palace to the criminal’s
 gaol. Games at cards languished, players at dominoes musingly built
 towers with them, drinkers drew figures on the tables with spilt drops
-of wine, Madame Defarge herself picked out the pattern on her sleeve
+of wine, [[Madame Defarge]] herself picked out the pattern on her sleeve
 with her toothpick, and saw and heard something inaudible and invisible
 a long way off.
 
@@ -61,7 +61,7 @@ Thus, Saint Antoine in this vinous feature of his, until midday. It was
 high noontide, when two dusty men passed through his streets and under
 his swinging lamps: of whom, one was Monsieur Defarge: the other a
 mender of roads in a blue cap. All adust and athirst, the two entered
-the wine-shop. Their arrival had lighted a kind of fire in the breast
+the wine-shop. Their arrival had lighted a kind of [[Fire|fire]] in the breast
 of Saint Antoine, fast spreading as they came along, which stirred and
 flickered in flames of faces at most doors and windows. Yet, no one had
 followed them, and no man spoke when they entered the wine-shop, though
@@ -70,30 +70,30 @@ the eyes of every man there were turned upon them.
 “Good day, gentlemen!” said Monsieur Defarge.
 
 It may have been a signal for loosening the general tongue. It elicited
-an answering chorus of “Good day!”
+an answering [[Chorus|chorus]] of “Good day!”
 
 “It is bad weather, gentlemen,” said Defarge, shaking his head.
 
 Upon which, every man looked at his neighbour, and then all cast down
 their eyes and sat silent. Except one man, who got up and went out.
 
-“My wife,” said Defarge aloud, addressing Madame Defarge: “I have
+“My wife,” said Defarge aloud, addressing [[Madame Defarge]]: “I have
 travelled certain leagues with this good mender of roads, called
-Jacques. I met him--by accident--a day and half’s journey out of Paris.
-He is a good child, this mender of roads, called Jacques. Give him to
+Jacques. I met him--by accident--a day and half’s [[Journey|journey]] out of [[Paris]].
+He is a good [[Child|child]], this mender of roads, called Jacques. Give him to
 drink, my wife!”
 
-A second man got up and went out. Madame Defarge set wine before the
+A second man got up and went out. [[Madame Defarge]] set wine before the
 mender of roads called Jacques, who doffed his blue cap to the company,
 and drank. In the breast of his blouse he carried some coarse dark
 bread; he ate of this between whiles, and sat munching and drinking near
-Madame Defarge’s counter. A third man got up and went out.
+[[Madame Defarge]]’s counter. A third man got up and went out.
 
 Defarge refreshed himself with a draught of wine--but, he took less
 than was given to the stranger, as being himself a man to whom it was no
 rarity--and stood waiting until the countryman had made his breakfast.
 He looked at no one present, and no one now looked at him; not even
-Madame Defarge, who had taken up her knitting, and was at work.
+[[Madame Defarge]], who had taken up her knitting, and was at work.
 
 “Have you finished your repast, friend?” he asked, in due season.
 
@@ -125,13 +125,13 @@ it, and said, “Where shall I commence, monsieur?”
 commencement.”
 
 “I saw him then, messieurs,” began the mender of roads, “a year ago this
-running summer, underneath the carriage of the Marquis, hanging by the
-chain. Behold the manner of it. I leaving my work on the road, the sun
-going to bed, the carriage of the Marquis slowly ascending the hill, he
+running [[Summer|summer]], underneath the carriage of the Marquis, hanging by the
+chain. Behold the manner of it. I leaving my work on the [[Road|road]], the sun
+going to bed, the carriage of the Marquis slowly ascending the [[Hill|hill]], he
 hanging by the chain--like this.”
 
 Again the mender of roads went through the whole performance; in which
-he ought to have been perfect by that time, seeing that it had been
+he ought to have been perfect by that [[Time|time]], seeing that it had been
 the infallible resource and indispensable entertainment of his village
 during a whole year.
 
@@ -145,13 +145,13 @@ Jacques Three demanded how he afterwards recognised him then?
 finger at his nose. “When Monsieur the Marquis demands that evening,
 ‘Say, what is he like?’ I make response, ‘Tall as a spectre.’”
 
-“You should have said, short as a dwarf,” returned Jacques Two.
+“You should have said, short as a [[Dwarf|dwarf]],” returned Jacques Two.
 
 “But what did I know? The deed was not then accomplished, neither did he
 confide in me. Observe! Under those circumstances even, I do not
 offer my testimony. Monsieur the Marquis indicates me with his finger,
 standing near our little fountain, and says, ‘To me! Bring that rascal!’
-My faith, messieurs, I offer nothing.”
+My [[Faith|faith]], messieurs, I offer nothing.”
 
 “He is right there, Jacques,” murmured Defarge, to him who had
 interrupted. “Go on!”
@@ -159,30 +159,30 @@ interrupted. “Go on!”
 “Good!” said the mender of roads, with an air of mystery. “The tall man
 is lost, and he is sought--how many months? Nine, ten, eleven?”
 
-“No matter, the number,” said Defarge. “He is well hidden, but at last
+“No matter, the number,” said Defarge. “He is [[Well|well]] hidden, but at last
 he is unluckily found. Go on!”
 
-“I am again at work upon the hill-side, and the sun is again about to
+“I am again at work upon the [[Hill|hill]]-side, and the sun is again about to
 go to bed. I am collecting my tools to descend to my cottage down in the
 village below, where it is already dark, when I raise my eyes, and see
-coming over the hill six soldiers. In the midst of them is a tall man
+coming over the [[Hill|hill]] six soldiers. In the midst of them is a tall man
 with his arms bound--tied to his sides--like this!”
 
 With the aid of his indispensable cap, he represented a man with his
 elbows bound fast at his hips, with cords that were knotted behind him.
 
 “I stand aside, messieurs, by my heap of stones, to see the soldiers
-and their prisoner pass (for it is a solitary road, that, where any
-spectacle is well worth looking at), and at first, as they approach, I
+and their prisoner pass (for it is a solitary [[Road|road]], that, where any
+spectacle is [[Well|well]] worth looking at), and at first, as they approach, I
 see no more than that they are six soldiers with a tall man bound, and
 that they are almost black to my sight--except on the side of the sun
 going to bed, where they have a red edge, messieurs. Also, I see that
 their long shadows are on the hollow ridge on the opposite side of the
-road, and are on the hill above it, and are like the shadows of giants.
-Also, I see that they are covered with dust, and that the dust moves
+[[Road|road]], and are on the [[Hill|hill]] above it, and are like the shadows of giants.
+Also, I see that they are covered with [[Dust|dust]], and that the [[Dust|dust]] moves
 with them as they come, tramp, tramp! But when they advance quite near
 to me, I recognise the tall man, and he recognises me. Ah, but he would
-be well content to precipitate himself over the hill-side once again, as
+be [[Well|well]] content to precipitate himself over the [[Hill|hill]]-side once again, as
 on the evening when he and I first encountered, close to the same spot!”
 
 He described it as if he were there, and it was evident that he saw it
@@ -199,12 +199,12 @@ consequently slow, they drive him with their guns--like this!”
 He imitated the action of a man’s being impelled forward by the
 butt-ends of muskets.
 
-“As they descend the hill like madmen running a race, he falls. They
-laugh and pick him up again. His face is bleeding and covered with dust,
+“As they descend the [[Hill|hill]] like madmen running a race, he falls. They
+laugh and pick him up again. His face is bleeding and covered with [[Dust|dust]],
 but he cannot touch it; thereupon they laugh again. They bring him into
 the village; all the village runs to look; they take him past the mill,
-and up to the prison; all the village sees the prison gate open in the
-darkness of the night, and swallow him--like this!”
+and up to the [[Prison|prison]]; all the village sees the [[Prison|prison]] gate open in the
+darkness of the [[Night|night]], and [[Swallow|swallow]] him--like this!”
 
 He opened his mouth as wide as he could, and shut it with a sounding
 snap of his teeth. Observant of his unwillingness to mar the effect by
@@ -212,12 +212,12 @@ opening it again, Defarge said, “Go on, Jacques.”
 
 “All the village,” pursued the mender of roads, on tiptoe and in a low
 voice, “withdraws; all the village whispers by the fountain; all the
-village sleeps; all the village dreams of that unhappy one, within the
-locks and bars of the prison on the crag, and never to come out of it,
+village sleeps; all the village [[Dreams|dreams]] of that unhappy one, within the
+locks and bars of the [[Prison|prison]] on the crag, and never to come out of it,
 except to perish. In the morning, with my tools upon my shoulder, eating
-my morsel of black bread as I go, I make a circuit by the prison, on
+my morsel of black bread as I go, I make a circuit by the [[Prison|prison]], on
 my way to my work. There I see him, high up, behind the bars of a lofty
-iron cage, bloody and dusty as last night, looking through. He has no
+iron cage, bloody and dusty as last [[Night|night]], looking through. He has no
 hand free, to wave to me; I dare not call to him; he regards me like a
 dead man.”
 
@@ -226,38 +226,38 @@ of them were dark, repressed, and revengeful, as they listened to the
 countryman’s story; the manner of all of them, while it was secret, was
 authoritative too. They had the air of a rough tribunal; Jacques One
 and Two sitting on the old pallet-bed, each with his chin resting on
-his hand, and his eyes intent on the road-mender; Jacques Three, equally
+his hand, and his eyes intent on the [[Road|road]]-mender; Jacques Three, equally
 intent, on one knee behind them, with his agitated hand always gliding
 over the network of fine nerves about his mouth and nose; Defarge
 standing between them and the narrator, whom he had stationed in the
-light of the window, by turns looking from him to them, and from them to
+light of the [[Window|window]], by turns looking from him to them, and from them to
 him.
 
 “Go on, Jacques,” said Defarge.
 
 “He remains up there in his iron cage some days. The village looks
 at him by stealth, for it is afraid. But it always looks up, from a
-distance, at the prison on the crag; and in the evening, when the work
+distance, at the [[Prison|prison]] on the crag; and in the evening, when the work
 of the day is achieved and it assembles to gossip at the fountain, all
-faces are turned towards the prison. Formerly, they were turned towards
-the posting-house; now, they are turned towards the prison. They
-whisper at the fountain, that although condemned to death he will not be
-executed; they say that petitions have been presented in Paris, showing
-that he was enraged and made mad by the death of his child; they say
-that a petition has been presented to the King himself. What do I know?
+faces are turned towards the [[Prison|prison]]. Formerly, they were turned towards
+the posting-[[house]]; now, they are turned towards the [[Prison|prison]]. They
+whisper at the fountain, that although condemned to [[Death|death]] he will not be
+executed; they say that petitions have been presented in [[Paris]], showing
+that he was enraged and made mad by the [[Death|death]] of his [[Child|child]]; they say
+that a petition has been presented to the [[King]] himself. What do I know?
 It is possible. Perhaps yes, perhaps no.”
 
 “Listen then, Jacques,” Number One of that name sternly interposed.
-“Know that a petition was presented to the King and Queen. All here,
-yourself excepted, saw the King take it, in his carriage in the street,
-sitting beside the Queen. It is Defarge whom you see here, who, at the
+“Know that a petition was presented to the [[King]] and [[Queen]]. All here,
+yourself excepted, saw the [[King]] take it, in his carriage in the street,
+sitting beside the [[Queen]]. It is Defarge whom you see here, who, at the
 hazard of his life, darted out before the horses, with the petition in
 his hand.”
 
 “And once again listen, Jacques!” said the kneeling Number Three:
 his fingers ever wandering over and over those fine nerves, with a
 strikingly greedy air, as if he hungered for something--that was neither
-food nor drink; “the guard, horse and foot, surrounded the petitioner,
+food nor drink; “the guard, [[Horse|horse]] and foot, surrounded the petitioner,
 and struck him blows. You hear?”
 
 “I hear, messieurs.”
@@ -275,12 +275,12 @@ which will be made in his arms, his breast, and his legs, there will be
 poured boiling oil, melted lead, hot resin, wax, and sulphur; finally,
 that he will be torn limb from limb by four strong horses. That old man
 says, all this was actually done to a prisoner who made an attempt on
-the life of the late King, Louis Fifteen. But how do I know if he lies?
+the life of the late [[King]], Louis Fifteen. But how do I know if he lies?
 I am not a scholar.”
 
 “Listen once again then, Jacques!” said the man with the restless hand
 and the craving air. “The name of that prisoner was Damiens, and it was
-all done in open day, in the open streets of this city of Paris; and
+all done in open day, in the open streets of this [[City|city]] of [[Paris]]; and
 nothing was more noticed in the vast concourse that saw it done, than
 the crowd of ladies of quality and fashion, who were full of eager
 attention to the last--to the last, Jacques, prolonged until nightfall,
@@ -295,48 +295,48 @@ it.”
 “Enough!” said Defarge, with grim impatience. “Long live the Devil! Go
 on.”
 
-“Well! Some whisper this, some whisper that; they speak of nothing else;
-even the fountain appears to fall to that tune. At length, on Sunday
-night when all the village is asleep, come soldiers, winding down from
-the prison, and their guns ring on the stones of the little street.
+“[[Well]]! Some whisper this, some whisper that; they speak of nothing else;
+even the fountain appears to fall to that tune. At length, on [[Sunday]]
+[[Night|night]] when all the village is asleep, come soldiers, winding down from
+the [[Prison|prison]], and their guns ring on the stones of the little street.
 Workmen dig, workmen hammer, soldiers laugh and sing; in the morning, by
 the fountain, there is raised a gallows forty feet high, poisoning the
-water.”
+[[Water|water]].”
 
 The mender of roads looked _through_ rather than _at_ the low ceiling,
 and pointed as if he saw the gallows somewhere in the sky.
 
 “All work is stopped, all assemble there, nobody leads the cows out,
 the cows are there with the rest. At midday, the roll of drums. Soldiers
-have marched into the prison in the night, and he is in the midst
+have marched into the [[Prison|prison]] in the [[Night|night]], and he is in the midst
 of many soldiers. He is bound as before, and in his mouth there is
 a gag--tied so, with a tight string, making him look almost as if he
 laughed.” He suggested it, by creasing his face with his two thumbs,
 from the corners of his mouth to his ears. “On the top of the gallows is
 fixed the knife, blade upwards, with its point in the air. He is hanged
-there forty feet high--and is left hanging, poisoning the water.”
+there forty feet high--and is left hanging, poisoning the [[Water|water]].”
 
 They looked at one another, as he used his blue cap to wipe his face,
 on which the perspiration had started afresh while he recalled the
 spectacle.
 
 “It is frightful, messieurs. How can the women and the children draw
-water! Who can gossip of an evening, under that shadow! Under it, have
+[[Water|water]]! Who can gossip of an evening, under that [[Shadow|shadow]]! Under it, have
 I said? When I left the village, Monday evening as the sun was going to
-bed, and looked back from the hill, the shadow struck across the church,
-across the mill, across the prison--seemed to strike across the earth,
+bed, and looked back from the [[Hill|hill]], the [[Shadow|shadow]] struck across the church,
+across the mill, across the [[Prison|prison]]--seemed to strike across the earth,
 messieurs, to where the sky rests upon it!”
 
 The hungry man gnawed one of his fingers as he looked at the other
 three, and his finger quivered with the craving that was on him.
 
 “That’s all, messieurs. I left at sunset (as I had been warned to do),
-and I walked on, that night and half next day, until I met (as I was
+and I walked on, that [[Night|night]] and half next day, until I met (as I was
 warned I should) this comrade. With him, I came on, now riding and now
-walking, through the rest of yesterday and through last night. And here
+walking, through the rest of yesterday and through last [[Night|night]]. And here
 you see me!”
 
-After a gloomy silence, the first Jacques said, “Good! You have acted
+After a gloomy [[Silence|silence]], the first Jacques said, “Good! You have acted
 and recounted faithfully. Will you wait for us a little, outside the
 door?”
 
@@ -360,27 +360,27 @@ The hungry man repeated, in a rapturous croak, “Magnificent!” and began
 gnawing another finger.
 
 “Are you sure,” asked Jacques Two, of Defarge, “that no embarrassment
-can arise from our manner of keeping the register? Without doubt it is
+can arise from our manner of keeping the register? Without [[Doubt|doubt]] it is
 safe, for no one beyond ourselves can decipher it; but shall we always
 be able to decipher it--or, I ought to say, will she?”
 
 “Jacques,” returned Defarge, drawing himself up, “if madame my wife
-undertook to keep the register in her memory alone, she would not lose
+undertook to keep the register in her [[Memory|memory]] [[Alone|alone]], she would not lose
 a word of it--not a syllable of it. Knitted, in her own stitches and her
 own symbols, it will always be as plain to her as the sun. Confide in
-Madame Defarge. It would be easier for the weakest poltroon that lives,
+[[Madame Defarge]]. It would be easier for the weakest poltroon that lives,
 to erase himself from existence, than to erase one letter of his name or
-crimes from the knitted register of Madame Defarge.”
+crimes from the knitted register of [[Madame Defarge]].”
 
 There was a murmur of confidence and approval, and then the man who
-hungered, asked: “Is this rustic to be sent back soon? I hope so. He is
+hungered, asked: “Is this rustic to be sent back soon? I [[Hope|hope]] so. He is
 very simple; is he not a little dangerous?”
 
 “He knows nothing,” said Defarge; “at least nothing more than would
 easily elevate himself to a gallows of the same height. I charge myself
 with him; let him remain with me; I will take care of him, and set him
-on his road. He wishes to see the fine world--the King, the Queen, and
-Court; let him see them on Sunday.”
+on his [[Road|road]]. He wishes to see the fine world--the [[King]], the [[Queen]], and
+[[Court]]; let him see them on [[Sunday]].”
 
 “What?” exclaimed the hungry man, staring. “Is it a good sign, that he
 wishes to see Royalty and Nobility?”
@@ -391,11 +391,11 @@ him to bring it down one day.”
 
 Nothing more was said, and the mender of roads, being found already
 dozing on the topmost stair, was advised to lay himself down on the
-pallet-bed and take some rest. He needed no persuasion, and was soon
+pallet-bed and take some rest. He needed no [[Persuasion|persuasion]], and was soon
 asleep.
 
 Worse quarters than Defarge’s wine-shop, could easily have been found
-in Paris for a provincial slave of that degree. Saving for a mysterious
+in [[Paris]] for a provincial slave of that degree. Saving for a mysterious
 dread of madame by which he was constantly haunted, his life was very
 new and agreeable. But, madame sat all day at her counter, so expressly
 unconscious of him, and so particularly determined not to perceive that
@@ -407,17 +407,17 @@ into her brightly ornamented head to pretend that she had seen him do a
 murder and afterwards flay the victim, she would infallibly go through
 with it until the play was played out.
 
-Therefore, when Sunday came, the mender of roads was not enchanted
+Therefore, when [[Sunday]] came, the mender of roads was not enchanted
 (though he said he was) to find that madame was to accompany monsieur
 and himself to Versailles. It was additionally disconcerting to have
 madame knitting all the way there, in a public conveyance; it was
 additionally disconcerting yet, to have madame in the crowd in the
 afternoon, still with her knitting in her hands as the crowd waited to
-see the carriage of the King and Queen.
+see the carriage of the [[King]] and [[Queen]].
 
 “You work hard, madame,” said a man near her.
 
-“Yes,” answered Madame Defarge; “I have a good deal to do.”
+“Yes,” answered [[Madame Defarge]]; “I have a good deal to do.”
 
 “What do you make, madame?”
 
@@ -425,21 +425,21 @@ see the carriage of the King and Queen.
 
 “For instance--”
 
-“For instance,” returned Madame Defarge, composedly, “shrouds.”
+“For instance,” returned [[Madame Defarge]], composedly, “shrouds.”
 
 The man moved a little further away, as soon as he could, and the mender
 of roads fanned himself with his blue cap: feeling it mightily close
-and oppressive. If he needed a King and Queen to restore him, he was
-fortunate in having his remedy at hand; for, soon the large-faced King
-and the fair-faced Queen came in their golden coach, attended by the
-shining Bull’s Eye of their Court, a glittering multitude of laughing
+and oppressive. If he needed a [[King]] and [[Queen]] to restore him, he was
+fortunate in having his remedy at hand; for, soon the large-faced [[King]]
+and the fair-faced [[Queen]] came in their golden coach, attended by the
+shining Bull’s Eye of their [[Court]], a glittering multitude of laughing
 ladies and fine lords; and in jewels and silks and powder and splendour
 and elegantly spurning figures and handsomely disdainful faces of both
 sexes, the mender of roads bathed himself, so much to his temporary
-intoxication, that he cried Long live the King, Long live the Queen,
+intoxication, that he cried Long live the [[King]], Long live the [[Queen]],
 Long live everybody and everything! as if he had never heard of
-ubiquitous Jacques in his time. Then, there were gardens, courtyards,
-terraces, fountains, green banks, more King and Queen, more Bull’s Eye,
+ubiquitous Jacques in his [[Time|time]]. Then, there were gardens, courtyards,
+terraces, fountains, green banks, more [[King]] and [[Queen]], more Bull’s Eye,
 more lords and ladies, more Long live they all! until he absolutely wept
 with sentiment. During the whole of this scene, which lasted some three
 hours, he had plenty of shouting and weeping and sentimental company,
@@ -461,14 +461,14 @@ insolent, and it is the nearer ended.”
 
 “These fools know nothing. While they despise your breath, and would
 stop it for ever and ever, in you or in a hundred like you rather than
-in one of their own horses or dogs, they only know what your breath
+in one of their own horses or [[dogs]], they only know what your breath
 tells them. Let it deceive them, then, a little longer; it cannot
 deceive them too much.”
 
-Madame Defarge looked superciliously at the client, and nodded in
+[[Madame Defarge]] looked superciliously at the client, and nodded in
 confirmation.
 
-“As to you,” said she, “you would shout and shed tears for anything, if
+“As to you,” said she, “you would shout and shed [[Tears|tears]] for anything, if
 it made a show and a noise. Say! Would you not?”
 
 “Truly, madame, I think so. For the moment.”
@@ -479,12 +479,12 @@ pick out the richest and gayest. Say! Would you not?”
 
 “Truly yes, madame.”
 
-“Yes. And if you were shown a flock of birds, unable to fly, and were
+“Yes. And if you were shown a flock of [[Birds|birds]], unable to fly, and were
 set upon them to strip them of their feathers for your own advantage,
-you would set upon the birds of the finest feathers; would you not?”
+you would set upon the [[Birds|birds]] of the finest feathers; would you not?”
 
 “It is true, madame.”
 
-“You have seen both dolls and birds to-day,” said Madame Defarge, with
+“You have seen both dolls and [[Birds|birds]] to-day,” said [[Madame Defarge]], with
 a wave of her hand towards the place where they had last been apparent;
-“now, go home!”
+“now, go [[Home|home]]!”

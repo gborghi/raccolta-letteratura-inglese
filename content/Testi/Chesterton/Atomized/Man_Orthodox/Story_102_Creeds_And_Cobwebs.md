@@ -33,9 +33,9 @@ talking to simple people such as children or the very poor,
 one does not repeat theoretic dogmas in their very theoretic form.
 One does not use frigid and philosophical language.
 One does not, in short, define the dogma.  But let no one suppose
-that one is any the less dogmatic.  For the simple truth is that,
+that one is any the less dogmatic.  For the simple [[Truth|truth]] is that,
 instead of defining the dogma, we simply assume the dogma.
-A mother does not say to her child, `There is a personal God,
+A mother does not say to her [[Child|child]], `There is a personal God,
 the moral and intelligent Governor of the universe'.
 She says, `God will be pleased if you are good'.
 She is quite as dogmatic as a college of theologians.
@@ -44,8 +44,8 @@ that a dogma is true than to declare that a dogma is true.
 But she is certainly simpler and better adapted to looking
 after babies than a college of theologians would be.
 And from this fact flows a singular consequence.
-It does often happen that the more good or innocent a man is,
-the more he imagines that he is undogmatic.  The truth is that,
+It does often happen that the more good or [[Innocent|innocent]] a man is,
+the more he imagines that he is undogmatic.  The [[Truth|truth]] is that,
 so far from being undogmatic, he believes his dogmas so implicitly
 that he thinks that they are truisms.  ...
 
@@ -53,15 +53,15 @@ But if there is one thing psychologically certain, it is that men
 cannot live wholly by instincts, even wholesome instincts.
 Men must have theories--even to build a wall.  It is neither
 respectful to them, nor dignified in us, that we should always
-dance round them and implore them to accept our creed.
-They will find the truth, as we have found it, who deserved
-it so much less.  And the truth is that a man's philosophy
+[[Dance|dance]] round them and implore them to accept our creed.
+They will find the [[Truth|truth]], as we have found it, who deserved
+it so much less.  And the [[Truth|truth]] is that a man's [[philosophy]]
 of the cosmos is directly concerned in every act of his life.
 Call theories threads of cotton; still the strain of life is on
 those threads Call the metaphysics of free will a mere cob-web;
-still in the hour of temptation everything will hang on
-that cob-web. Call the mystical nature of man a mere fancy;
-the time may come when nothing but that prevents you from
+still in the hour of [[Temptation|temptation]] everything will hang on
+that cob-web. Call the mystical [[Nature|nature]] of man a mere fancy;
+the [[Time|time]] may come when nothing but that prevents you from
 shooting a nigger.
 
                                            Daily News, February 13th, 1906

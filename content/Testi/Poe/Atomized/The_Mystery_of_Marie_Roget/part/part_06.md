@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 6)"
+title: "[[The Mystery of Marie Roget]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -32,7 +32,7 @@ tags:
 
       torn off, and were on the thorn bush, about a foot from the
 
-      ground..... There can be no doubt, therefore, that the spot of
+      ground..... There can be no [[Doubt|doubt]], therefore, that the spot of
 
       this appalling outrage has been discovered.”
 
@@ -42,19 +42,19 @@ tags:
 
       Deluc testified that she keeps a roadside inn not far from the
 
-      bank of the river, opposite the Barrière du Roule. The
+      bank of the [[River|river]], opposite the Barrière du Roule. The
 
-      neighborhood is secluded—particularly so. It is the usual Sunday
+      neighborhood is secluded—particularly so. It is the usual [[Sunday]]
 
-      resort of blackguards from the city, who cross the river in
+      resort of blackguards from the [[City|city]], who [[Cross|cross]] the [[River|river]] in
 
-      boats. About three o’clock, in the afternoon of the Sunday in
+      boats. About three o’[[Clock|clock]], in the afternoon of the [[Sunday]] in
 
       question, a young girl arrived at the inn, accompanied by a young
 
-      man of dark complexion. The two remained here for some time. On
+      man of dark complexion. The two remained here for some [[Time|time]]. On
 
-      their departure, they took the road to some thick woods in the
+      their departure, they took the [[Road|road]] to some thick woods in the
 
       vicinity. Madame Deluc’s attention was called to the dress worn
 
@@ -68,7 +68,7 @@ tags:
 
       payment, followed in the route of the young man and girl,
 
-      returned to the inn about dusk, and re-crossed the river as if in
+      returned to the inn about dusk, and re-crossed the [[River|river]] as if in
 
       great haste.
 
@@ -76,7 +76,7 @@ tags:
 
       It was soon after dark, upon this same evening, that Madame
 
-      Deluc, as well as her eldest son, heard the screams of a female
+      Deluc, as [[Well|well]] as her eldest son, heard the screams of a female
 
       in the vicinity of the inn. The screams were violent but brief.
 
@@ -86,11 +86,11 @@ tags:
 
       omnibus driver, Valence, (*13) now also testified that he saw
 
-      Marie Rogêt cross a ferry on the Seine, on the Sunday in
+      Marie Rogêt [[Cross|cross]] a ferry on the Seine, on the [[Sunday]] in
 
       question, in company with a young man of dark complexion. He,
 
-      Valence, knew Marie, and could not be mistaken in her identity.
+      Valence, knew Marie, and could not be mistaken in her [[Identity|identity]].
 
       The articles found in the thicket were fully identified by the
 
@@ -108,17 +108,17 @@ tags:
 
       the clothes as above described, the lifeless, or nearly lifeless
 
-      body of St. Eustache, Marie’s betrothed, was found in the
+      [[Body|body]] of St. Eustache, Marie’s betrothed, was found in the
 
       vicinity of what all now supposed the scene of the outrage. A
 
       phial labelled “laudanum,” and emptied, was found near him. His
 
-      breath gave evidence of the poison. He died without speaking.
+      breath gave evidence of the [[Poison|poison]]. He died without speaking.
 
-      Upon his person was found a letter, briefly stating his love for
+      Upon his person was found a letter, briefly stating his [[Love|love]] for
 
-      Marie, with his design of self-destruction.
+      Marie, with his design of [[Self|self]]-destruction.
 
 
 
@@ -166,7 +166,7 @@ tags:
 
       not so much ‘what has occurred?’ as ‘what has occurred that has
 
-      never occurred before?’ In the investigations at the house of
+      never occurred before?’ In the investigations at the [[house]] of
 
       Madame L’Espanaye, (*14) the agents of G—— were discouraged and
 
@@ -174,9 +174,9 @@ tags:
 
       regulated intellect, would have afforded the surest omen of
 
-      success; while this same intellect might have been plunged in
+      [[success]]; while this same intellect might have been plunged in
 
-      despair at the ordinary character of all that met the eye in the
+      [[Despair|despair]] at the ordinary character of all that met the eye in the
 
       case of the perfumery-girl, and yet told of nothing but easy
 
@@ -186,13 +186,13 @@ tags:
 
       “In the case of Madame L’Espanaye and her daughter there was,
 
-      even at the beginning of our investigation, no doubt that murder
+      even at the beginning of our investigation, no [[Doubt|doubt]] that murder
 
-      had been committed. The idea of suicide was excluded at once.
+      had been committed. The idea of [[suicide]] was excluded at once.
 
       Here, too, we are freed, at the commencement, from all
 
-      supposition of self-murder. The body found at the Barrière du
+      supposition of [[Self|self]]-murder. The [[Body|body]] found at the Barrière du
 
       Roule, was found under such circumstances as to leave us no room
 

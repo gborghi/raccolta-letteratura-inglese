@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -18,22 +18,22 @@ tags:
 said Martin, ‘and the less said about it the better for me. Mark, here,
 hadn’t a voice in the matter.’
 
-‘Well! but he hadn’t a voice in any other matter, had he?’ returned Mr
+‘[[Well]]! but he hadn’t a voice in any other matter, had he?’ returned Mr
 Bevan; laughing with an air that showed his understanding of Mark and
 Martin too.
 
 ‘Not a very powerful one, I am afraid,’ said Martin with a blush. ‘But
 live and learn, Mr Bevan! Nearly die and learn; we learn the quicker.’
 
-‘Now,’ said their friend, ‘about your plans. You mean to return home at
+‘Now,’ said their friend, ‘about your plans. You mean to return [[Home|home]] at
 once?’
 
 ‘Oh, I think so,’ returned Martin hastily, for he turned pale at the
-thought of any other suggestion. ‘That is your opinion too, I hope?’
+thought of any other suggestion. ‘That is your opinion too, I [[Hope|hope]]?’
 
 ‘Unquestionably. For I don’t know why you ever came here; though it’s
 not such an unusual case, I am sorry to say, that we need go any farther
-into that. You don’t know that the ship in which you came over with our
+into that. You don’t know that the [[Ship|ship]] in which you came over with our
 friend General Fladdock, is in port, of course?’
 
 ‘Indeed!’ said Martin.
@@ -41,7 +41,7 @@ friend General Fladdock, is in port, of course?’
 ‘Yes. And is advertised to sail to-morrow.’
 
 This was tempting news, but tantalising too; for Martin knew that his
-getting any employment on board a ship of that class was hopeless. The
+getting any employment on board a [[Ship|ship]] of that class was hopeless. The
 money in his pocket would not pay one-fourth of the sum he had already
 borrowed, and if it had been enough for their passage-money, he could
 hardly have resolved to spend it. He explained this to Mr Bevan, and
@@ -50,7 +50,7 @@ stated what their project was.
 ‘Why, that’s as wild as Eden every bit,’ returned his friend. ‘You must
 take your passage like a Christian; at least, as like a Christian as a
 fore-cabin passenger can; and owe me a few more dollars than you intend.
-If Mark will go down to the ship and see what passengers there are,
+If Mark will go down to the [[Ship|ship]] and see what passengers there are,
 and finds that you can go in her without being actually suffocated, my
 advice is, go! You and I will look about us in the meantime (we won’t
 call at the Norris’s unless you like), and we will all three dine
@@ -61,7 +61,7 @@ But he went out of the room after Mark, and advised him to take their
 passage in the Screw, though they lay upon the bare deck; which Mr
 Tapley, who needed no entreaty on the subject readily promised to do.
 
-When he and Martin met again, and were alone, he was in high spirits,
+When he and Martin met again, and were [[Alone|alone]], he was in high spirits,
 and evidently had something to communicate, in which he gloried very
 much.
 
@@ -76,7 +76,7 @@ Martin looked at him for farther explanation.
 
 ‘And when I got on board, and the word was passed that it was me,’ said
 Mark, ‘the mate he comes and asks me whether I’d engage to take this
-said cook’s place upon the passage home. “For you’re used to it,” he
+said cook’s place upon the passage [[Home|home]]. “For you’re used to it,” he
 says; “you were always a-cooking for everybody on your passage out.”
  And so I was,’ said Mark, ‘although I never cooked before, I’ll take my
 oath.’
@@ -86,9 +86,9 @@ oath.’
 ‘Say!’ cried Mark. ‘That I’d take anything I could get. “If that’s
 so,” says the mate, “why, bring a glass of rum;” which they brought
 according. And my wages, sir,’ said Mark in high glee, ‘pays your
-passage; and I’ve put the rolling-pin in your berth to take it (it’s
+passage; and I’ve put the [[rolling]]-pin in your berth to take it (it’s
 the easy one up in the corner); and there we are, Rule Britannia, and
-Britons strike home!’
+Britons strike [[Home|home]]!’
 
 ‘There never was such a good fellow as you are!’ cried Martin seizing
 him by the hand. ‘But what do you mean by “doing” Mr Bevan, Mark?’
@@ -101,7 +101,7 @@ see?’
 
 Martin’s delight in this idea was not inferior to Mark’s. It was all
 done as he proposed. They passed a cheerful evening; slept at the hotel;
-left the letter as arranged; and went off to the ship betimes next
+left the letter as arranged; and went off to the [[Ship|ship]] betimes next
 morning, with such light hearts as the weight of their past miseries
 engendered.
 
@@ -110,13 +110,13 @@ friend. ‘How shall I remember all your kindness! How shall I ever thank
 you!’
 
 ‘If you ever become a rich man, or a powerful one,’ returned his friend,
-‘you shall try to make your Government more careful of its subjects when
+‘you shall try to make your [[government|Government]] more careful of its subjects when
 they roam abroad to live. Tell it what you know of emigration in your
-own case, and impress upon it how much suffering may be prevented with a
+own case, and impress upon it how much [[Suffering|suffering]] may be prevented with a
 little pains!’
 
-Cheerily, lads, cheerily! Anchor weighed. Ship in full sail. Her sturdy
-bowsprit pointing true to England. America a cloud upon the sea behind
+Cheerily, lads, cheerily! Anchor weighed. [[Ship]] in full sail. Her sturdy
+bowsprit pointing true to England. [[America]] a cloud upon the sea behind
 them!
 
 ‘Why, Cook! what are you thinking of so steadily?’ said Martin.
@@ -128,10 +128,10 @@ and was called upon to paint the American Eagle, how should I do it?’
 
 ‘No,’ said Mark. ‘That wouldn’t do for me, sir. I should want to draw it
 like a Bat, for its short-sightedness; like a Bantam, for its bragging;
-like a Magpie, for its honesty; like a Peacock, for its vanity; like a
+like a Magpie, for its honesty; like a Peacock, for its [[Vanity|vanity]]; like a
 ostrich, for its putting its head in the mud, and thinking nobody sees
 it--’
 
 ‘And like a Phoenix, for its power of springing from the ashes of its
-faults and vices, and soaring up anew into the sky!’ said Martin. ‘Well,
-Mark. Let us hope so.’
+faults and vices, and soaring up anew into the sky!’ said Martin. ‘[[Well]],
+Mark. Let us [[Hope|hope]] so.’

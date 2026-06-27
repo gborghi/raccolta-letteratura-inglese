@@ -1,5 +1,5 @@
 ---
-title: "The Angel of the Odd (part 2)"
+title: "[[The Angel of the Odd]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Angel-of-the-Odd-(Poe)"
@@ -68,7 +68,7 @@ tags:
 
 
 
-      “Well, den, zit still and pehabe yourself, or I’ll rap you again
+      “[[Well]], den, zit still and pehabe yourself, or I’ll rap you again
 
       mid me vist. It iz te shicken ab te wing, und te owl ab te wing,
 
@@ -90,7 +90,7 @@ tags:
 
       This language was rather more than I could bear, even from an
 
-      angel; so, plucking up courage, I seized a salt-cellar which lay
+      angel; so, plucking up [[Courage|courage]], I seized a salt-cellar which lay
 
       within reach, and hurled it at the head of the intruder. Either
 
@@ -98,7 +98,7 @@ tags:
 
       accomplished was the demolition of the crystal which protected
 
-      the dial of the clock upon the mantel-piece. As for the Angel, he
+      the dial of the [[Clock|clock]] upon the mantel-piece. As for the Angel, he
 
       evinced his sense of my assault by giving me two or three hard
 
@@ -106,17 +106,17 @@ tags:
 
       once to submission, and I am almost ashamed to confess that
 
-      either through pain or vexation, there came a few tears into my
+      either through [[Pain|pain]] or vexation, there came a few [[Tears|tears]] into my
 
       eyes.
 
 
 
-      “Mein Gott!” said the Angel of the Odd, apparently much softened
+      “Mein Gott!” said [[The Angel of the Odd|the Angel of the Odd]], apparently much softened
 
       at my distress; “mein Gott, te man is eder ferry dronk or ferry
 
-      zorry. You mos not trink it so strong—you mos put te water in te
+      zorry. You mos not trink it so strong—you mos put te [[Water|water]] in te
 
       wine. Here, trink dis, like a goot veller, und don’t gry
 
@@ -124,7 +124,7 @@ tags:
 
 
 
-      Hereupon the Angel of the Odd replenished my goblet (which was
+      Hereupon [[The Angel of the Odd|the Angel of the Odd]] replenished my goblet (which was
 
       about a third full of Port) with a colorless fluid that he poured
 
@@ -138,7 +138,7 @@ tags:
 
       The considerate kindness of the Angel mollified me in no little
 
-      measure; and, aided by the water with which he diluted my Port
+      measure; and, aided by the [[Water|water]] with which he diluted my Port
 
       more than once, I at length regained sufficient temper to listen
 
@@ -150,9 +150,9 @@ tags:
 
       whose business it was to bring about the _odd accidents_ which
 
-      are continually astonishing the skeptic. Once or twice, upon my
+      are continually astonishing the [[skeptic]]. Once or twice, upon my
 
-      venturing to express my total incredulity in respect to his
+      venturing to express my total [[Incredulity|incredulity]] in respect to his
 
       pretensions, he grew very angry indeed, so that at length I
 
@@ -190,7 +190,7 @@ tags:
 
       appointment of consequence, which it was quite indispensable that
 
-      I should keep. The policy of insurance for my dwelling house had
+      I should keep. The policy of insurance for my dwelling [[house]] had
 
       expired the day before; and, some dispute having arisen, it was
 
@@ -198,7 +198,7 @@ tags:
 
       company and settle the terms of a renewal. Glancing upward at the
 
-      clock on the mantel-piece, (for I felt too drowsy to take out my
+      [[Clock|clock]] on the mantel-piece, (for I felt too drowsy to take out my
 
       watch), I had the pleasure to find that I had still twenty-five
 
@@ -214,7 +214,7 @@ tags:
 
       Having completed them to my satisfaction, I again looked toward
 
-      the time-piece and was half inclined to believe in the
+      the [[Time|time]]-piece and was half inclined to believe in the
 
       possibility of odd accidents when I found that, instead of my
 
@@ -222,8 +222,8 @@ tags:
 
       for it still wanted seven and twenty of the appointed hour. I
 
-      betook myself again to my nap, and at length a second time awoke,
+      betook myself again to my nap, and at length a second [[Time|time]] awoke,
 
       when, to my utter amazement, it _still_ wanted twenty-seven
 
-      minutes of six. I jumped up to examine the clock, and found that
+      minutes of six. I jumped up to examine the [[Clock|clock]], and found that

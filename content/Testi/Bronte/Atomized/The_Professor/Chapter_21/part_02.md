@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 20 (part 2)"
+title: "[[The Professor]] — Chapter 20 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ witnessed.
 
 
 
-Now, it was precisely about this time that the directress, stung by
+Now, it was precisely about this [[Time|time]] that the directress, stung by
 
 my coldness, bewitched by my scorn, and excited by the preference she
 
@@ -34,7 +34,7 @@ which she wished to entangle me. Conscious of the state of things in
 
 that quarter, I gathered, from the condition in which I saw my
 
-employer, that his lady-love had betrayed the alienation of her
+employer, that his lady-[[Love|love]] had betrayed the [[Alienation|alienation]] of her
 
 affections--inclinations, rather, I would say; affection is a word at
 
@@ -64,7 +64,7 @@ deportment, as she calls your accursed English formality--and your pure
 
 morals, forsooth! des moeurs de Caton a-t-elle dit--sotte!” Hers, I
 
-thought, must be a curious soul, where in spite of a strong, natural
+thought, must be a curious [[Soul|soul]], where in spite of a strong, natural
 
 tendency to estimate unduly advantages of wealth and station, the
 
@@ -80,25 +80,25 @@ better feelings remained untouched. Next day, when I saw the directress,
 
 and when she made an excuse to meet me in the corridor, and besought my
 
-notice by a demeanour and look subdued to Helot humility, I could
+notice by a demeanour and look subdued to Helot [[Humility|humility]], I could
 
-not love, I could scarcely pity her. To answer briefly and dryly
+not [[Love|love]], I could scarcely pity her. To answer briefly and dryly
 
 some interesting inquiry about my health--to pass her by with a stern
 
 bow--was all I could; her presence and manner had then, and for some
 
-time previously and consequently, a singular effect upon me: they
+[[Time|time]] previously and consequently, a singular effect upon me: they
 
-sealed up all that was good, elicited all that was noxious in my nature;
+sealed up all that was good, elicited all that was noxious in my [[Nature|nature]];
 
 sometimes they enervated my senses, but they always hardened my heart.
 
 I was aware of the detriment done, and quarrelled with myself for the
 
-change. I had ever hated a tyrant; and, behold, the possession of a
+change. I had ever hated a [[Tyrant|tyrant]]; and, behold, the possession of a
 
-slave, self-given, went near to transform me into what I abhorred!
+slave, [[Self|self]]-given, went near to transform me into what I abhorred!
 
 There was at once a sort of low gratification in receiving this luscious
 
@@ -144,7 +144,7 @@ daughter.
 
 When Pelet awoke on the morning after his frenzy fit, he retained no
 
-recollection of what had happened the previous night, and his mother
+recollection of what had happened the previous [[Night|night]], and his mother
 
 fortunately had the discretion to refrain from informing him that I had
 
@@ -152,11 +152,11 @@ been a witness of his degradation. He did not again have recourse to
 
 wine for curing his griefs, but even in his sober mood he soon showed
 
-that the iron of jealousy had entered into his soul. A thorough
+that the iron of [[Jealousy|jealousy]] had entered into his [[Soul|soul]]. A thorough
 
 Frenchman, the national characteristic of ferocity had not been omitted
 
-by nature in compounding the ingredients of his character; it had
+by [[Nature|nature]] in compounding the ingredients of his character; it had
 
 appeared first in his access of drunken wrath, when some of his
 
@@ -170,13 +170,13 @@ blue eyes, when their glance chanced to encounter mine. He absolutely
 
 avoided speaking to me; I was now spared even the falsehood of his
 
-politeness. In this state of our mutual relations, my soul rebelled
+politeness. In this state of our mutual relations, my [[Soul|soul]] rebelled
 
-sometimes almost ungovernably, against living in the house and
+sometimes almost ungovernably, against living in the [[house]] and
 
 discharging the service of such a man; but who is free from the
 
-constraint of circumstances? At that time, I was not: I used to rise
+constraint of circumstances? At that [[Time|time]], I was not: I used to rise
 
 each morning eager to shake off his yoke, and go out with my portmanteau
 
@@ -192,11 +192,11 @@ and pliant, sensitive and sagacious, serious and ardent, in my head; a
 
 certain tone of feeling, fervid and modest, refined and practical, pure
 
-and powerful, delighting and troubling my memory--visions of new ties I
+and powerful, delighting and troubling my [[Memory|memory]]--visions of new ties I
 
 longed to contract, of new duties I longed to undertake, had taken the
 
-rover and the rebel out of me, and had shown endurance of my hated lot
+rover and the [[Rebel|rebel]] out of me, and had shown [[Endurance|endurance]] of my hated lot
 
 in the light of a Spartan virtue.
 

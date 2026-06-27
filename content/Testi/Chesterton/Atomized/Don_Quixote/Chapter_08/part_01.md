@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 7 (part 1)"
+title: "[[Don Quixote]] — Chapter 7 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -26,25 +26,25 @@ to stare into the depths of the distance with blind but shining eyes.
 She lugged down a lumbering volume from one of the lower shelves
 and laid it open at a blazoned page on which the letters seemed
 to have come to life and to be crawling about like gilded dragons.
-In one corner was the image of the many-headed monster of the Apocalypse;
+In one corner was the image of the many-headed [[Monster|monster]] of the [[Apocalypse]];
 and even to the careless eye of her companion, its tint glowed across
 the ages with a red that had the purity of flame.
 
 "Do you mean," he asked, "that I am to go hunting that particular
-animal through the streets of London?"
+animal through the streets of [[London]]?"
 
 "I mean you are to go hunting that particular paint," she said,
-"and as you say you can get anything in the streets of London,
+"and as you say you can get anything in the streets of [[London]],
 you oughtn't to hunt far, I suppose.  There was a man called Hendry,
-in the Haymarket, who used to sell it when I was a child;
+in the Haymarket, who used to sell it when I was a [[Child|child]];
 but I can't get that sort of fine fourteenth century red at any
-artist's colourmen's round here."
+[[Artist|artist]]'s colourmen's round here."
 
-"Well, I've been painting the town red myself in a
+"[[Well]], I've been painting the town red myself in a
 quiet way, for the last few hours," said Murrel modestly,
 "but I suppose it wasn't a fine fourteenth century red.
 It was only a twentieth century red, like Braintree's tie.
-I told him at the time that the tie might begin to ignite the town."
+I told him at the [[Time|time]] that the tie might begin to ignite the town."
 
 "Braintree!" said Olive rather sharply.  "Was Mr. Braintree with you
 when you--when you painted it red?"
@@ -68,7 +68,7 @@ and hear discussions about things he had never heard of.
 I'm sure that discussion we had at the Pig and Whistle was
 one that he'd never heard before in his life."
 
-"You know perfectly well," she retorted a little crossly,
+"You know perfectly [[Well|well]]," she retorted a little crossly,
 "that I never wanted him to go to those horrid places.
 I meant him to have real discussions with intellectual people
 about important things."
@@ -97,7 +97,7 @@ it was very wrong of you to take him to such low places."
 
 "And what about me?" asked the gentleman plaintively,
 "What about my morals?  Is my moral training of no importance?
-Is my immortal soul of no value?  Why this levity and indifference
+Is my immortal [[Soul|soul]] of no value?  Why this levity and indifference
 to my spiritual prospects at the Pig and Whistle?"
 
 "Oh," she replied with elaborate indifference "everybody knows
@@ -106,23 +106,23 @@ you don't mind that sort of thing."
 "I raise against the Red Tie the more truly democratic blazon of
 the Red Nose; and appeal from the Marseillaise to the Music Hall,"
 he said, smiling.  "Don't you think now that if I went hunting
-for the Red Nose through London, rejecting the pink, the purple,
+for the Red Nose through [[London]], rejecting the pink, the purple,
 the merely russet, the too dusky crimson, and so on, I might find
 at last a nose of that delicate fourteenth century tint which--"
 
 "If you can find the paint," retorted Olive, "I don't care whose
 nose you paint with it.  But I'd prefer Mr. Archer's."
 
-It is necessary that the long-suffering reader should know something
+It is necessary that the long-[[Suffering|suffering]] reader should know something
 of the central incident in the play called "Blondel the Troubadour,"
-as that alone could have rendered possible or credible the central
-incident in the story called, "The Return of Don Quixote."
-In this drama, Blondel leaves his lady-love in a somewhat unnecessary
-state of mystification and jealousy, supposing that he is touring
-the Continent serenading ladies of all nationalities and types of beauty;
+as that [[Alone|alone]] could have rendered possible or credible the central
+incident in the story called, "The Return of [[Don Quixote]]."
+In this drama, Blondel [[Leaves|leaves]] his lady-[[Love|love]] in a somewhat unnecessary
+state of [[Mystification|mystification]] and [[Jealousy|jealousy]], supposing that he is touring
+the Continent serenading ladies of all nationalities and types of [[Beauty|beauty]];
 whereas in fact he is only serenading a large and muscular gentleman
 for purely political reasons.  The large and muscular gentleman,
-otherwise Richard Coeur de Lion, was to be acted on this occasion by a
+otherwise [[Richard]] Coeur de [[Lion]], was to be acted on this occasion by a
 modern gentleman answering to that description as far as externals went;
 a certain Major Trelawney, a distant cousin of Miss Ashley.
 He was one of those men, sometimes to be found in the fashionable world,
@@ -137,8 +137,8 @@ loftiest kind.  His motives throughout the play were of an almost
 irritating disinterestedness; a purity that amounted to perversity.
 Murrel could never conceal his amusement at hearing these suicidally
 unselfish sentiments breathed from the lips of Mr. Julian Archer.
-Blondel, in short, overflowed with loyalty to his king and love
-of his country and a desire to restore the former to the latter.
-He wished to bring the king back to restore order to his kingdom
+Blondel, in short, overflowed with loyalty to his [[King|king]] and [[Love|love]]
+of his country and a [[Desire|desire]] to restore the former to the latter.
+He wished to bring the [[King|king]] back to restore order to his kingdom
 and defeat the intrigues of John, that universal and useful,
-not to say overworked, villain of many crusading tales.
+not to say overworked, [[Villain|villain]] of many crusading tales.

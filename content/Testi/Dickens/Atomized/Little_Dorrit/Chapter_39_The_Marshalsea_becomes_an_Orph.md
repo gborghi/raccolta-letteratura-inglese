@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 36: The Marshalsea becomes an Orphan"
+title: "Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-CHAPTER 36. The Marshalsea becomes an Orphan
+CHAPTER 36. The Marshalsea becomes an [[Orphan]]
 
 
 And now the day arrived when Mr Dorrit and his family were to leave the
-prison for ever, and the stones of its much-trodden pavement were to
+[[Prison|prison]] for ever, and the stones of its much-trodden pavement were to
 know them no more.
 
 The interval had been short, but he had greatly complained of its
@@ -36,11 +36,11 @@ forgot whom he talked to.
 Towards the Marshal, who was a Marshal of many years’ standing, and
 with whom he had never had any previous difference, Mr Dorrit comported
 himself with severity. That officer, on personally tendering his
-congratulations, offered the free use of two rooms in his house for Mr
+congratulations, offered the free use of two rooms in his [[house]] for Mr
 Dorrit’s occupation until his departure. Mr Dorrit thanked him at the
 moment, and replied that he would think of it; but the Marshal was no
 sooner gone than he sat down and wrote him a cutting note, in which
-he remarked that he had never on any former occasion had the honour of
+he remarked that he had never on any former occasion had the [[Honour|honour]] of
 receiving his congratulations (which was true, though indeed there had
 not been anything particular to congratulate him upon), and that he
 begged, on behalf of himself and family, to repudiate the Marshal’s
@@ -56,9 +56,9 @@ Fanny and Mr Tip required no direction in making an appearance of great
 fashion and elegance; and the three passed this interval together at the
 best hotel in the neighbourhood--though truly, as Miss Fanny said, the
 best was very indifferent. In connection with that establishment, Mr
-Tip hired a cabriolet, horse, and groom, a very neat turn out, which
-was usually to be observed for two or three hours at a time gracing the
-Borough High Street, outside the Marshalsea court-yard. A modest
+Tip hired a cabriolet, [[Horse|horse]], and groom, a very neat turn out, which
+was usually to be observed for two or three hours at a [[Time|time]] gracing the
+Borough High Street, outside the Marshalsea [[Court|court]]-yard. A modest
 little hired chariot and pair was also frequently to be seen there;
 in alighting from and entering which vehicle, Miss Fanny fluttered the
 Marshal’s daughters by the display of inaccessible bonnets.
@@ -66,7 +66,7 @@ Marshal’s daughters by the display of inaccessible bonnets.
 A great deal of business was transacted in this short period. Among
 other items, Messrs Peddle and Pool, solicitors, of Monument Yard, were
 instructed by their client Edward Dorrit, Esquire, to address a letter
-to Mr Arthur Clennam, enclosing the sum of twenty-four pounds nine
+to Mr [[Arthur Clennam]], enclosing the sum of twenty-four pounds nine
 shillings and eightpence, being the amount of principal and interest
 computed at the rate of five per cent. per annum, in which their
 client believed himself to be indebted to Mr Clennam. In making this
@@ -80,7 +80,7 @@ be done, within the so-soon-to-be-orphaned Marshalsea, by Mr Dorrit
 so long its Father, chiefly arising out of applications made to him
 by Collegians for small sums of money. To these he responded with the
 greatest liberality, and with no lack of formality; always first writing
-to appoint a time at which the applicant might wait upon him in his
+to appoint a [[Time|time]] at which the applicant might wait upon him in his
 room, and then receiving him in the midst of a vast accumulation of
 documents, and accompanying his donation (for he said in every such
 case, ‘it is a donation, not a loan’) with a great deal of good counsel:
@@ -94,7 +94,7 @@ was creditable to the College, and made it famous in the newspapers.
 Perhaps more of them thought, too, than were quite aware of it, that the
 thing might in the lottery of chances have happened to themselves, or
 that something of the sort might yet happen to themselves some day or
-other. They took it very well. A few were low at the thought of being
+other. They took it very [[Well|well]]. A few were low at the thought of being
 left behind, and being left poor; but even these did not grudge the
 family their brilliant reverse. There might have been much more envy in
 politer places. It seems probable that mediocrity of fortune would have
@@ -108,10 +108,10 @@ answer. In that document he assured them, in a Royal manner, that he
 received the profession of their attachment with a full conviction
 of its sincerity; and again generally exhorted them to follow his
 example--which, at least in so far as coming into a great property was
-concerned, there is no doubt they would have gladly imitated. He took
+concerned, there is no [[Doubt|doubt]] they would have gladly imitated. He took
 the same occasion of inviting them to a comprehensive entertainment, to
 be given to the whole College in the yard, and at which he signified
-he would have the honour of taking a parting glass to the health and
+he would have the [[Honour|honour]] of taking a parting glass to the health and
 happiness of all those whom he was about to leave behind.
 
 He did not in person dine at this public repast (it took place at two in
@@ -120,14 +120,14 @@ his son was so good as to take the head of the principal table, and to
 be very free and engaging. He himself went about among the company, and
 took notice of individuals, and saw that the viands were of the quality
 he had ordered, and that all were served. On the whole, he was like a
-baron of the olden time in a rare good humour. At the conclusion of the
+baron of the olden [[Time|time]] in a rare good [[Humour|humour]]. At the conclusion of the
 repast, he pledged his guests in a bumper of old Madeira; and told them
 that he hoped they had enjoyed themselves, and what was more, that they
 would enjoy themselves for the rest of the evening; that he wished them
-well; and that he bade them welcome. His health being drunk with
+[[Well|well]]; and that he bade them welcome. His health being drunk with
 acclamations, he was not so baronial after all but that in trying to
 return thanks he broke down, in the manner of a mere serf with a heart
-in his breast, and wept before them all. After this great success, which
+in his breast, and wept before them all. After this great [[success]], which
 he supposed to be a failure, he gave them ‘Mr Chivery and his brother
 officers;’ whom he had beforehand presented with ten pounds each, and
 who were all in attendance. Mr Chivery spoke to the toast, saying, What
@@ -138,15 +138,15 @@ playing a game of skittles with the Collegian who was the next oldest
 inhabitant to himself; and left the tenantry to their diversions.
 
 But all these occurrences preceded the final day. And now the day
-arrived when he and his family were to leave the prison for ever, and
+arrived when he and his family were to leave the [[Prison|prison]] for ever, and
 when the stones of its much-trodden pavement were to know them no more.
 
-Noon was the hour appointed for the departure. As it approached, there
+[[Noon]] was the hour appointed for the departure. As it approached, there
 was not a Collegian within doors, nor a turnkey absent. The latter class
-of gentlemen appeared in their Sunday clothes, and the greater part of
+of gentlemen appeared in their [[Sunday]] clothes, and the greater part of
 the Collegians were brightened up as much as circumstances allowed. Two
 or three flags were even displayed, and the children put on odds and
-ends of ribbon. Mr Dorrit himself, at this trying time, preserved a
+ends of ribbon. Mr Dorrit himself, at this trying [[Time|time]], preserved a
 serious but graceful dignity. Much of his great attention was given to
 his brother, as to whose bearing on the great occasion he felt anxious.
 
@@ -178,7 +178,7 @@ yes.’
 
 ‘Your position, my dear Frederick, is now a fine one. Your position, as
 my brother, is a very fine one. And I know that it belongs to your
-conscientious nature to try to become worthy of it, my dear Frederick,
+conscientious [[Nature|nature]] to try to become worthy of it, my dear Frederick,
 and to try to adorn it. To be no discredit to it, but to adorn it.’
 
 ‘William,’ said the other weakly, and with a sigh, ‘I will do anything
@@ -194,7 +194,7 @@ to do anything it can for you.’
 
 William passed his hand across his eyes, and murmured with august
 satisfaction, ‘Blessings on your attachment, my poor dear fellow!’ Then
-he said aloud, ‘Well, my dear Frederick, if you will only try, as we
+he said aloud, ‘[[Well]], my dear Frederick, if you will only try, as we
 walk out, to show that you are alive to the occasion--that you think
 about it--’
 
@@ -213,8 +213,8 @@ which a softened compassion predominates, What will they do without me!’
 go, What will they do without my brother! Poor things! What will they do
 without him!’
 
-Twelve o’clock having just struck, and the carriage being reported ready
-in the outer court-yard, the brothers proceeded down-stairs arm-in-arm.
+Twelve o’[[Clock|clock]] having just struck, and the carriage being reported ready
+in the outer [[Court|court]]-yard, the brothers proceeded down-stairs arm-in-arm.
 Edward Dorrit, Esquire (once Tip), and his sister Fanny followed,
 also arm-in-arm; Mr Plornish and Maggy, to whom had been entrusted the
 removal of such of the family effects as were considered worth removing,
@@ -230,11 +230,11 @@ and female relatives of many more Collegians kissed his hand, nothing
 doubting that he had done it all. In the yard, was the man with the
 shadowy grievance respecting the Fund which the Marshal embezzled, who
 had got up at five in the morning to complete the copying of a perfectly
-unintelligible history of that transaction, which he had committed to Mr
+unintelligible [[history]] of that transaction, which he had committed to Mr
 Dorrit’s care, as a document of the last importance, calculated to stun
-the Government and effect the Marshal’s downfall. In the yard, was the
+the [[government|Government]] and effect the Marshal’s downfall. In the yard, was the
 insolvent whose utmost energies were always set on getting into debt,
-who broke into prison with as much pains as other men have broken out
+who broke into [[Prison|prison]] with as much pains as other men have broken out
 of it, and who was always being cleared and complimented; while the
 insolvent at his elbow--a mere little, snivelling, striving tradesman,
 half dead of anxious efforts to keep out of debt--found it a hard
@@ -245,14 +245,14 @@ no children and large resources, whose failure astonished nobody. There,
 were the people who were always going out to-morrow, and always putting
 it off; there, were the people who had come in yesterday, and who
 were much more jealous and resentful of this freak of fortune than
-the seasoned birds. There, were some who, in pure meanness of spirit,
+the seasoned [[Birds|birds]]. There, were some who, in pure meanness of spirit,
 cringed and bowed before the enriched Collegian and his family; there,
 were others who did so really because their eyes, accustomed to the
-gloom of their imprisonment and poverty, could not support the light of
+gloom of their [[Imprisonment|imprisonment]] and [[Poverty|poverty]], could not support the light of
 such bright sunshine. There, were many whose shillings had gone into his
 pocket to buy him meat and drink; but none who were now obtrusively Hail
-fellow well met! with him, on the strength of that assistance. It was
-rather to be remarked of the caged birds, that they were a little shy
+fellow [[Well|well]] met! with him, on the strength of that assistance. It was
+rather to be remarked of the caged [[Birds|birds]], that they were a little shy
 of the bird about to be so grandly free, and that they had a tendency to
 withdraw themselves towards the bars, and seem a little fluttered as he
 passed.
@@ -267,8 +267,8 @@ seemed for their consolation to walk encircled by the legend in golden
 characters, ‘Be comforted, my people! Bear it!’
 
 At last three honest cheers announced that he had passed the gate, and
-that the Marshalsea was an orphan. Before they had ceased to ring in the
-echoes of the prison walls, the family had got into their carriage, and
+that the Marshalsea was an [[Orphan|orphan]]. Before they had ceased to ring in the
+echoes of the [[Prison|prison]] walls, the family had got into their carriage, and
 the attendant had the steps in his hand.
 
 Then, and not before, ‘Good Gracious!’ cried Miss Fanny all at once,
@@ -289,13 +289,13 @@ narrow passage leading to the Lodge, flushed indignantly.
 ‘What is disgraceful, Fanny?’
 
 ‘I do say,’ she repeated, ‘this is perfectly infamous! Really almost
-enough, even at such a time as this, to make one wish one was dead!
-Here is that child Amy, in her ugly old shabby dress, which she was so
+enough, even at such a [[Time|time]] as this, to make one wish one was dead!
+Here is that [[Child|child]] Amy, in her ugly old shabby dress, which she was so
 obstinate about, Pa, which I over and over again begged and prayed her
 to change, and which she over and over again objected to, and promised
 to change to-day, saying she wished to wear it as long as ever she
 remained in there with you--which was absolutely romantic nonsense of
-the lowest kind--here is that child Amy disgracing us to the last moment
+the lowest kind--here is that [[Child|child]] Amy disgracing us to the last moment
 and at the last moment, by being carried out in that dress after all.
 And by that Mr Clennam too!’
 
@@ -305,15 +305,15 @@ his arms.
 
 ‘She has been forgotten,’ he said, in a tone of pity not free from
 reproach. ‘I ran up to her room (which Mr Chivery showed me) and found
-the door open, and that she had fainted on the floor, dear child.
+the door open, and that she had fainted on the floor, dear [[Child|child]].
 She appeared to have gone to change her dress, and to have sunk down
 overpowered. It may have been the cheering, or it may have happened
 sooner. Take care of this poor cold hand, Miss Dorrit. Don’t let it
 fall.’
 
-‘Thank you, sir,’ returned Miss Dorrit, bursting into tears. ‘I believe
+‘Thank you, sir,’ returned Miss Dorrit, bursting into [[Tears|tears]]. ‘I believe
 I know what to do, if you will give me leave. Dear Amy, open your eyes,
-that’s a love! Oh, Amy, Amy, I really am so vexed and ashamed! Do rouse
+that’s a [[Love|love]]! Oh, Amy, Amy, I really am so vexed and ashamed! Do rouse
 yourself, darling! Oh, why are they not driving on! Pray, Pa, do drive
 on!’
 

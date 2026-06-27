@@ -18,7 +18,7 @@ XXII
 
 _On Journalistic Philosophy_
 
-THERE appears at regular intervals in the Sunday Press,
+THERE appears at regular intervals in the [[Sunday]] Press,
 like the article on the Cuckoo or Christmas Shopping,
 an article on the supposed superstition of the Good Old Times,
 laboriously alleging that they were really Bad Old Times.
@@ -28,7 +28,7 @@ but, except for the title, the article was the same.
 The same examples, the same hackneyed historical details,
 the same comfortable moral in almost exactly the same words.
 There are several things that are rather curious about this
-well-known journalistic feature.  One is that the article professes
+[[Well|well]]-known journalistic feature.  One is that the article professes
 to be an answer to another article which does not exist.
 I have never in my life seen the first original offending statement,
 that the Good Old Times really were Good Old Times.  I have never
@@ -50,15 +50,15 @@ was more financially regular before we went off the Gold Standard;
 who positively regretted the process of lowering wages in order
 to start businesses; who would have it that our big industries
 were better off when they lived on a profit and not on
-an overdraft, and who stuck to their old paradox that banking
+an overdraft, and who stuck to their old [[Paradox|paradox]] that banking
 was safer when there were not so many banks going bust.
 In short, I have known many perverse persons who held that,
 in this or that particular respect, we were better off
 in this or that particular period.  But this visionary man
 who walks about the streets in funereal garb, wailing aloud,
 and at large over the disappearance of some undefined and undated
-Good Old Days--I have never met him, I rather doubt whether
-anybody has ever met him; and I doubt still more whether it
+Good Old Days--I have never met him, I rather [[Doubt|doubt]] whether
+anybody has ever met him; and I [[Doubt|doubt]] still more whether it
 is necessary to reprint the same article so many hundreds
 of times in order to check his pestilential influence.
 
@@ -74,7 +74,7 @@ does not mark any other or older system; it only marks the most
 crude and clumsy beginnings of our present or modern system.
 It is not like saying that there was another world,
 for better or worse, before Rousseau or before Luther
-or before Christ, in the ancient Pagan world.  At the date
+or before [[Christ]], in the ancient Pagan world.  At the date
 chosen we already had machinery, but much cruder machinery;
 we already had big towns, but much more unfinished and disorderly
 big towns; we already had a complete dependence on commerce,
@@ -88,17 +88,17 @@ and that is, finished.
 
 Everyone knows the list of examples.  Our fathers hanged men
 for petty thefts, whereas we only exalt and ennoble men or put them
-in the House of Lords for really large and impressive thefts.
+in the [[house|House]] of Lords for really large and impressive thefts.
 But I am not troubled here by such questions, but only by the sameness
 and the lack of any lively curiosity about questions on the other side.
 Thus it begins with drunkenness; how typical of that type of moralist to
 begin with drunkenness ... as if nothing else could be quite so immoral!
-"In those days there was undoubtedly more drunkenness."  I wonder.
+"In those days there was undoubtedly more drunkenness."  I [[Wonder|wonder]].
 There was certainly more drunkenness among those who could stand it best;
 strong men who rode hard in country air and drank before they slept.
 Was there more drunkenness among schoolgirls than there is
-in America, or more drunkenness among Society girls than there
-now is in Mayfair?  I wonder.  But I wonder, most of all, why this
+in [[america|America]], or more drunkenness among Society girls than there
+now is in Mayfair?  I [[Wonder|wonder]].  But I [[Wonder|wonder]], most of all, why this
 sort of questioner is always content with his one fixed question.
 Suppose I were to ask him a question.  Does he think there was
 a bigger trade in cocaine and drugs before the Battle of Waterloo
@@ -117,7 +117,7 @@ The writer must know, if he knows anything, that these small
 men were steadily disappearing--or rather, being destroyed--
 all through what he considers the great period of progress.
 I do not say there were not other things in which our forefathers
-were unjust.  I only wonder, by this time somewhat wearily,
+were unjust.  I only [[Wonder|wonder]], by this [[Time|time]] somewhat wearily,
 why the story of the Yeoman never even occurs to the writers
 of the perennial article.
 
@@ -137,13 +137,13 @@ is one of the most towering and typical creations of the last hundred
 and fifty years.
 
 That is what I complain of in this sort of regular journalistic
-philosophy.  Not that it criticizes conditions a hundred years ago,
+[[philosophy]].  Not that it criticizes conditions a hundred years ago,
 when there were, heaven knows, plenty of things to criticize.
 But that it is intellectually incapable of criticizing conditions now,
 when there are new and different things to criticize.
-Nobody can take in the scale of the modern changes, let alone feel
+Nobody can take in the scale of the modern changes, let [[Alone|alone]] feel
 free enough of them to note what is sinister or dubious about them.
-For instance, nobody has yet measured the meaning of State education,
+For instance, nobody has yet measured the meaning of State [[Education|education]],
 with its practical elimination of the parent; at least
 of the poor parent.  In a real study of modern and relatively
 recent things it would be necessary to go into these questions.

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 3 (part 2)"
+title: "[[Jane Eyre]] — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,63 +17,63 @@ tags:
 Bessie had now finished dusting and tidying the room, and having washed
 her hands, she opened a certain little drawer, full of splendid shreds
 of silk and satin, and began making a new bonnet for Georgiana’s doll.
-Meantime she sang: her song was—
+Meantime she sang: her [[Song|song]] was—
 
 “In the days when we went gipsying,
-    A long time ago.”
+    A long [[Time|time]] ago.”
 
 
-I had often heard the song before, and always with lively delight; for
+I had often heard the [[Song|song]] before, and always with lively delight; for
 Bessie had a sweet voice,—at least, I thought so. But now, though her
 voice was still sweet, I found in its melody an indescribable sadness.
 Sometimes, preoccupied with her work, she sang the refrain very low,
-very lingeringly; “A long time ago” came out like the saddest cadence
-of a funeral hymn. She passed into another ballad, this time a really
+very lingeringly; “A long [[Time|time]] ago” came out like the saddest cadence
+of a funeral [[Hymn|hymn]]. She passed into another ballad, this [[Time|time]] a really
 doleful one.
 
 “My feet they are sore, and my limbs they are weary;
-    Long is the way, and the mountains are wild;
+    Long is the way, and the [[Mountains|mountains]] are wild;
 Soon will the twilight close moonless and dreary
-    Over the path of the poor orphan child.
+    Over the path of the poor [[Orphan|orphan]] [[Child|child]].
 
 Why did they send me so far and so lonely,
     Up where the moors spread and grey rocks are piled?
 Men are hard-hearted, and kind angels only
-    Watch o’er the steps of a poor orphan child.
+    Watch o’er the steps of a poor [[Orphan|orphan]] [[Child|child]].
 
-Yet distant and soft the night breeze is blowing,
-    Clouds there are none, and clear stars beam mild,
-God, in His mercy, protection is showing,
-    Comfort and hope to the poor orphan child.
+Yet distant and soft the [[Night|night]] breeze is blowing,
+    Clouds there are none, and clear [[Stars|stars]] beam mild,
+God, in His [[Mercy|mercy]], protection is showing,
+    Comfort and [[Hope|hope]] to the poor [[Orphan|orphan]] [[Child|child]].
 
 Ev’n should I fall o’er the broken bridge passing,
     Or stray in the marshes, by false lights beguiled,
 Still will my Father, with promise and blessing,
-    Take to His bosom the poor orphan child.
+    Take to His bosom the poor [[Orphan|orphan]] [[Child|child]].
 
 There is a thought that for strength should avail me,
     Though both of shelter and kindred despoiled;
-Heaven is a home, and a rest will not fail me;
-    God is a friend to the poor orphan child.”
+Heaven is a [[Home|home]], and a rest will not fail me;
+    God is a friend to the poor [[Orphan|orphan]] [[Child|child]].”
 
 
 “Come, Miss Jane, don’t cry,” said Bessie as she finished. She might as
-well have said to the fire, “don’t burn!” but how could she divine the
-morbid suffering to which I was a prey? In the course of the morning
+[[Well|well]] have said to the [[Fire|fire]], “don’t burn!” but how could she divine the
+morbid [[Suffering|suffering]] to which I was a prey? In the course of the morning
 Mr. Lloyd came again.
 
-“What, already up!” said he, as he entered the nursery. “Well, nurse,
+“What, already up!” said he, as he entered the nursery. “[[Well]], [[Nurse|nurse]],
 how is she?”
 
-Bessie answered that I was doing very well.
+Bessie answered that I was doing very [[Well|well]].
 
 “Then she ought to look more cheerful. Come here, Miss Jane: your name
 is Jane, is it not?”
 
-“Yes, sir, Jane Eyre.”
+“Yes, sir, [[Jane Eyre]].”
 
-“Well, you have been crying, Miss Jane Eyre; can you tell me what
-about? Have you any pain?”
+“[[Well]], you have been crying, Miss [[Jane Eyre]]; can you tell me what
+about? Have you any [[Pain|pain]]?”
 
 “No, sir.”
 
@@ -82,7 +82,7 @@ in the carriage,” interposed Bessie.
 
 “Surely not! why, she is too old for such pettishness.”
 
-I thought so too; and my self-esteem being wounded by the false charge,
+I thought so too; and my [[Self|self]]-esteem being wounded by the false charge,
 I answered promptly, “I never cried for such a thing in my life: I hate
 going out in the carriage. I cry because I am miserable.”
 
@@ -102,11 +102,11 @@ me at leisure, he said—
 age? She must be eight or nine years old.”
 
 “I was knocked down,” was the blunt explanation, jerked out of me by
-another pang of mortified pride; “but that did not make me ill,” I
+another pang of mortified [[Pride|pride]]; “but that did not make me ill,” I
 added; while Mr. Lloyd helped himself to a pinch of snuff.
 
 As he was returning the box to his waistcoat pocket, a loud bell rang
-for the servants’ dinner; he knew what it was. “That’s for you, nurse,”
+for the servants’ dinner; he knew what it was. “That’s for you, [[Nurse|nurse]],”
 said he; “you can go down; I’ll give Miss Jane a lecture till you come
 back.”
 
@@ -116,21 +116,21 @@ punctuality at meals was rigidly enforced at Gateshead Hall.
 “The fall did not make you ill; what did, then?” pursued Mr. Lloyd when
 Bessie was gone.
 
-“I was shut up in a room where there is a ghost till after dark.”
+“I was shut up in a room where there is a [[Ghost|ghost]] till after dark.”
 
-I saw Mr. Lloyd smile and frown at the same time.
+I saw Mr. Lloyd smile and frown at the same [[Time|time]].
 
-“Ghost! What, you are a baby after all! You are afraid of ghosts?”
+“[[Ghost]]! What, you are a baby after all! You are afraid of [[Ghosts|ghosts]]?”
 
-“Of Mr. Reed’s ghost I am: he died in that room, and was laid out
-there. Neither Bessie nor any one else will go into it at night, if
-they can help it; and it was cruel to shut me up alone without a
+“Of Mr. Reed’s [[Ghost|ghost]] I am: he died in that room, and was laid out
+there. Neither Bessie nor any one else will go into it at [[Night|night]], if
+they can help it; and it was cruel to shut me up [[Alone|alone]] without a
 candle,—so cruel that I think I shall never forget it.”
 
 “Nonsense! And is it that makes you so miserable? Are you afraid now in
 daylight?”
 
-“No: but night will come again before long: and besides,—I am
+“No: but [[Night|night]] will come again before long: and besides,—I am
 unhappy,—very unhappy, for other things.”
 
 “What other things? Can you tell me some of them?”
@@ -152,12 +152,12 @@ Again I paused; then bunglingly enounced—
 “But John Reed knocked me down, and my aunt shut me up in the
 red-room.”
 
-Mr. Lloyd a second time produced his snuff-box.
+Mr. Lloyd a second [[Time|time]] produced his snuff-box.
 
-“Don’t you think Gateshead Hall a very beautiful house?” asked he. “Are
+“Don’t you think Gateshead Hall a very beautiful [[house]]?” asked he. “Are
 you not very thankful to have such a fine place to live at?”
 
-“It is not my house, sir; and Abbot says I have less right to be here
+“It is not my [[house]], sir; and Abbot says I have less right to be here
 than a servant.”
 
 “Pooh! you can’t be silly enough to wish to leave such a splendid

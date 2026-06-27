@@ -1,5 +1,5 @@
 ---
-title: "The Ballad of the White Horse — Book IV"
+title: "The Ballad of the White [[Horse]] — Book IV"
 author: "Chesterton"
 unitType: section
 parentWork: "Works/The-Ballad-of-the-White-Horse-(Chesterton)"
@@ -21,8 +21,8 @@ HICK thunder of the snorting swine,
        Enormous in the gloam,  
      Rending among all roots that cling,  
      And the wild horses whinnying,  
-     Were the night’s noises when the King, [5]  
-       Shouldering his harp, went home.  
+     Were the [[Night|night]]’s noises when the [[King]], [5]  
+       Shouldering his harp, went [[Home|home]].  
      With eyes of owl and feet of fox,  
        Full of all thoughts he went;  
      He marked the tilt of the pagan camp,  
@@ -30,14 +30,14 @@ HICK thunder of the snorting swine,
      And the one great stolen altar-lamp  
        Over Guthrum in his tent.  
      By scrub and thorn in Ethandune  
-       That night the foe had lain;  
+       That [[Night|night]] the foe had lain;  
      Whence ran across the heather grey [15]  
      The old stones of a Roman way;  
      And in a wood not far away  
-       The pale road split in twain.  
+       The pale [[Road|road]] split in twain.  
      He marked the wood and the cloven ways  
        With an old captain’s eyes, [20]  
-     And he thought how many a time had he  
+     And he thought how many a [[Time|time]] had he  
      Sought to see Doom he could not see;  
      How ruin had come and victory,  
        And both were a surprise.  
@@ -54,24 +54,24 @@ HICK thunder of the snorting swine,
      Flung him, and drove him flying [35]  
        Like a pirate to the shore.  
      Wise he had been before defeat,  
-       And wise before success;  
+       And wise before [[success]];  
      Wise in both hours, and ignorant,  
        Knowing neither more nor less. [40]  
-     As he went down to the river-hut  
-       He knew a night-shade scent,  
+     As he went down to the [[River|river]]-hut  
+       He knew a [[Night|night]]-shade scent,  
      Owls did as evil cherubs rise,  
      With little wings and lantern eyes,  
      As though he sank through the under-skies; [45]  
        But down and down he went.  
-     As he went down to the river-hut  
+     As he went down to the [[River|river]]-hut  
        He went as one that fell;  
      Seeing the high forest domes and spars.  
      Dim green or torn with golden scars, [50]  
-     As the proud look up at the evil stars,  
+     As the proud look up at the evil [[Stars|stars]],  
        In the red heavens of hell.  
-     For he must meet by the river-hut  
+     For he must meet by the [[River|river]]-hut  
        Them he had bidden to arm,  
-     Mark from the towers of Italy, [55]  
+     Mark from the towers of [[Italy]], [55]  
      And Colan of the Sacred Tree,  
      And Eldred who beside the sea  
        Held heavily his farm.  
@@ -81,7 +81,7 @@ HICK thunder of the snorting swine,
      But opened in a little space  
      A great grey woman with scarred face  
        And strong and humbled eyes.  
-     King Alfred was but a meagre man, [65]  
+     [[King Alfred]] was but a meagre man, [65]  
        Bright eyed, but lean and pale,  
      And swordless, with his harp and rags,  
      He seemed a beggar, such as lags  
@@ -90,18 +90,18 @@ HICK thunder of the snorting swine,
        Of pity at once and ire,  
      Said, when that she had glared a span,  
      “There is a cake for any man  
-       If he will watch the fire.”  
+       If he will watch the [[Fire|fire]].”  
      And Alfred, bowing heavily, [75]  
-       Sat down the fire to stir,  
+       Sat down the [[Fire|fire]] to stir,  
      And even as the woman pitied him  
        So did he pity her.  
-     Saying, “O great heart in the night,  
+     Saying, “O great heart in the [[Night|night]],  
        O best cast forth for worst, [80]  
      Twilight shall melt and morning stir,  
      And no kind thing shall come to her,  
      Till God shall turn the world over  
        And all the last are first.  
-     “And well may God with the serving-folk [85]  
+     “And [[Well|well]] may God with the serving-folk [85]  
        Cast in His dreadful lot;  
      Is not He too a servant,  
        And is not He forgot?  
@@ -118,12 +118,12 @@ HICK thunder of the snorting swine,
      Build this pavilion of the pines,  
      And herd the fowls and fill the vines, [100]  
      And labour and pass and leave no signs  
-       Save mercy and mystery?  
+       Save [[Mercy|mercy]] and mystery?  
      “For God is a great servant,  
-       And rose before the day,  
+       And [[Rose|rose]] before the day,  
      From some primordial slumber torn; [105]  
      But all we living later born  
-     Sleep on, and rise after the morn,  
+     [[Sleep]] on, and rise after the morn,  
        And the Lord has gone away.  
      “On things half sprung from sleeping,  
        All sleepy suns have shone, [110]  
@@ -131,7 +131,7 @@ HICK thunder of the snorting swine,
      The beasts blink upon hands and knees,  
      Man is awake and does and sees—  
        But Heaven has done and gone.  
-     “For who shall guess the good riddle [115]  
+     “For who shall guess the good [[Riddle|riddle]] [115]  
        Or speak of the Holiest,  
      Save in faint figures and failing words,  
      Who loves, yet laughs among the swords,  
@@ -143,27 +143,27 @@ HICK thunder of the snorting swine,
      “Wherefore was God in Golgotha,  
        Slain as a serf is slain; [125]  
      And hate He had of prince and peer,  
-     And love He had and made good cheer  
+     And [[Love|love]] He had and made good cheer  
      Of them that, like this woman here,  
-       Go powerfully in pain.  
+       Go powerfully in [[Pain|pain]].  
      “But in this grey morn of man’s life [130]  
        Cometh sometime to the mind  
      A little light that leaps and flies,  
-       Like a star blown on the wind.  
+       Like a star blown on the [[Wind|wind]].  
      “A star of nowhere, a nameless star,  
        A light that spins and swirls, [135]  
-     And cries that even in hedge and hill,  
+     And cries that even in hedge and [[Hill|hill]],  
      Even on earth, it may go ill  
        At last with the evil earls.  
      “A dancing sparkle, a doubtful star,  
-       On the waste wind whirled and driven, [140]  
+       On the waste [[Wind|wind]] whirled and driven, [140]  
      But it seems to sing of a wilder worth,  
-     A time discrowned of doom and birth,  
+     A [[Time|time]] discrowned of doom and birth,  
      And the kingdom of the poor on earth  
        Come, as it is in heaven.  
      “But even though such days endure, [145]  
        How shall it profit her?  
-     Who shall go groaning to the grave,  
+     Who shall go groaning to the [[Grave|grave]],  
      With many a meek and mighty slave,  
      Field-breaker and fisher on the wave,  
        And woodman and waggoner. [150]  
@@ -181,7 +181,7 @@ HICK thunder of the snorting swine,
        Yet burning from the bar,  
      And struck him suddenly on the face,  
        Leaving a scarlet scar.  
-     King Alfred stood up wordless, [165]  
+     [[King Alfred]] stood up wordless, [165]  
        A man dead with surprise,  
      And torture stood and the evil things  
      That are in the childish hearts of kings  
@@ -193,7 +193,7 @@ HICK thunder of the snorting swine,
      And the strange spears hung with ancient charms  
        Of Colan of the Usk. [175]  
      With one whole farm marching afoot  
-       The trampled road resounds,  
+       The trampled [[Road|road]] resounds,  
      Farm-hands and farm-beasts blundering by  
      And jars of mead and stores of rye,  
      Where Eldred strode above his high [180]  
@@ -205,7 +205,7 @@ HICK thunder of the snorting swine,
        Blowing a ram’s horn.  
      As mocking such rude revelry,  
        The dim clan of the Gael  
-     Came like a bad king’s burial-end,  
+     Came like a bad [[King|king]]’s burial-end,  
      With dismal robes that drop and rend [190]  
        And demon pipes that wail—  
      In long, outlandish garments,  
@@ -213,7 +213,7 @@ HICK thunder of the snorting swine,
      With Druid beards and Druid spears,  
      As a resurrected race appears [195]  
        Out of an elder earth.  
-     And though the King had called them forth  
+     And though the [[King]] had called them forth  
        And knew them for his own,  
      So still each eye stood like a gem,  
      So spectral hung each broidered hem, [200]  
@@ -222,7 +222,7 @@ HICK thunder of the snorting swine,
      And the two wild peoples of the north  
        Stood fronting in the gloam,  
      And heard and knew each in its mind [205]  
-     The third great thunder on the wind,  
+     The third great thunder on the [[Wind|wind]],  
      The living walls that hedge mankind,  
        The walking walls of Rome.  
      Mark’s were the mixed tribes of the west,  
@@ -235,50 +235,50 @@ HICK thunder of the snorting swine,
        Those hundreds trod the field,  
      From red Arabia to the Tyne  
      The earth had heard that marching-line,  
-     Since the cry on the hill Capitoline,  
+     Since the cry on the [[Hill|hill]] Capitoline,  
        And the fall of the golden shield. [220]  
-     And the earth shook and the King stood still  
+     And the earth shook and the [[King]] stood still  
        Under the greenwood bough,  
      And the smoking cake lay at his feet  
      And the blow was on his brow.  
      Then Alfred laughed out suddenly, [225]  
-       Like thunder in the spring,  
+       Like thunder in the [[Spring|spring]],  
      Till shook aloud the lintel-beams,  
-     And the squirrels stirred in dusty dreams,  
-     And the startled birds went up in streams,  
-       For the laughter of the King. [230]  
-     And the beasts of the earth and the birds looked down,  
+     And the squirrels stirred in dusty [[Dreams|dreams]],  
+     And the startled [[Birds|birds]] went up in streams,  
+       For the laughter of the [[King]]. [230]  
+     And the beasts of the earth and the [[Birds|birds]] looked down,  
        In a wild solemnity,  
      On a stranger sight than a sylph or elf,  
      On one man laughing at himself  
        Under the greenwood tree— [235]  
      The giant laughter of Christian men  
        That roars through a thousand tales,  
-     Where greed is an ape and pride is an ass,  
+     Where [[Greed|greed]] is an ape and [[Pride|pride]] is an ass,  
      And Jack’s away with his master’s lass,  
      And the miser is banged with all his brass, [240]  
        The farmer with all his flails;  
      Tales that tumble and tales that trick,  
        Yet end not all in scorning—  
      Of kings and clowns in a merry plight,  
-     And the clock gone wrong and the world gone right, [245]  
-     That the mummers sing upon Christmas night  
+     And the [[Clock|clock]] gone wrong and the world gone right, [245]  
+     That the mummers sing upon Christmas [[Night|night]]  
        And Christmas Day in the morning.  
      “Now here is a good warrant,”  
-       Cried Alfred, “by my sword;  
+       Cried Alfred, “by my [[Sword|sword]];  
      For he that is struck for an ill servant [250]  
        Should be a kind lord.  
      “He that has been a servant  
        Knows more than priests and kings,  
      But he that has been an ill servant,  
        He knows all earthly things. [255]  
-     “Pride flings frail palaces at the sky,  
+     “[[Pride]] flings frail palaces at the sky,  
        As a man flings up sand,  
-     But the firm feet of humility  
+     But the firm feet of [[Humility|humility]]  
        Take hold of heavy land.  
-     “Pride juggles with her toppling towers, [260]  
+     “[[Pride]] juggles with her toppling towers, [260]  
        They strike the sun and cease,  
-     But the firm feet of humility  
+     But the firm feet of [[Humility|humility]]  
        They grip the ground like trees.  
      “He that hath failed in a little thing  
        Hath a sign upon the brow; [265]  
@@ -300,30 +300,30 @@ HICK thunder of the snorting swine,
        As the dead kings drave;  
      Before me rocking hosts be riven,  
      And battering cohorts backwards driven,  
-     For I am the first king known of heaven  
+     For I am the first [[King|king]] known of heaven  
        That has been struck like a slave. [285]  
-     “Up on the old white road, brothers,  
+     “Up on the old white [[Road|road]], brothers,  
        Up on the Roman walls!  
-     For this is the night of the drawing of swords,  
+     For this is the [[Night|night]] of the drawing of swords,  
      And the painted tower of the heathen hordes  
      Leans to our hammers, fires and cords, [290]  
        Leans a little and falls.  
      “Follow the star that lives and leaps,  
-       Follow the sword that sings,  
+       Follow the [[Sword|sword]] that sings,  
      For we go gathering heathen men,  
      A terrible harvest, ten by ten, [295]  
-     As the wrath of the last red autumn—then  
-       When Christ reaps down the kings.  
+     As the wrath of the last red [[Autumn|autumn]]—then  
+       When [[Christ]] reaps down the kings.  
      “Follow a light that leaps and spins,  
-       Follow the fire unfurled!  
+       Follow the [[Fire|fire]] unfurled!  
      For riseth up against realm and rod, [300]  
      A thing forgotten, a thing downtrod,  
      The last lost giant, even God,  
        Is risen against the world.”  
      Roaring they went o’er the Roman wall,  
        And roaring up the lane, [305]  
-     Their torches tossed, a ladder of fire,  
-     Higher their hymn was heard and higher,  
-     More sweet for hate and for heart’s desire,  
+     Their torches tossed, a ladder of [[Fire|fire]],  
+     Higher their [[Hymn|hymn]] was heard and higher,  
+     More sweet for hate and for heart’s [[Desire|desire]],  
      And up in the northern scrub and brier  
        They fell upon the Dane. [310]  

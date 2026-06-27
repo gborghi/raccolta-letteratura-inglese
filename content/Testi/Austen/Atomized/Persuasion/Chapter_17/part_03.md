@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 17 (part 3)"
+title: "[[Persuasion]] — Chapter 17 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -18,19 +18,19 @@ of a carriage drawn up near its pavement,” observed Sir Walter. “Sir
 
 Henry Russell’s widow, indeed, has no honours to distinguish her arms,
 
-but still it is a handsome equipage, and no doubt is well known to
+but still it is a handsome equipage, and no [[Doubt|doubt]] is [[Well|well]] known to
 
-convey a Miss Elliot. A widow Mrs Smith lodging in Westgate Buildings!
+convey a Miss Elliot. A widow Mrs [[smith|Smith]] lodging in Westgate Buildings!
 
 A poor widow barely able to live, between thirty and forty; a mere Mrs
 
-Smith, an every-day Mrs Smith, of all people and all names in the
+[[smith|Smith]], an every-day Mrs [[smith|Smith]], of all people and all names in the
 
-world, to be the chosen friend of Miss Anne Elliot, and to be preferred
+world, to be the chosen friend of Miss [[Anne Elliot]], and to be preferred
 
 by her to her own family connections among the nobility of England and
 
-Ireland! Mrs Smith! Such a name!”
+Ireland! Mrs [[smith|Smith]]! Such a name!”
 
 
 
@@ -44,7 +44,7 @@ claims to theirs, but her sense of personal respect to her father
 
 prevented her. She made no reply. She left it to himself to recollect,
 
-that Mrs Smith was not the only widow in Bath between thirty and forty,
+that Mrs [[smith|Smith]] was not the only widow in Bath between thirty and forty,
 
 with little to live on, and no surname of dignity.
 
@@ -60,19 +60,19 @@ not only been quite at her ladyship’s service themselves, but had
 
 actually been happy to be employed by her in collecting others, and had
 
-been at the trouble of inviting both Lady Russell and Mr Elliot; and Mr
+been at the trouble of inviting both [[Lady Russell]] and Mr Elliot; and Mr
 
 Elliot had made a point of leaving Colonel Wallis early, and Lady
 
 Russell had fresh arranged all her evening engagements in order to wait
 
-on her. Anne had the whole history of all that such an evening could
+on her. Anne had the whole [[history]] of all that such an evening could
 
-supply from Lady Russell. To her, its greatest interest must be, in
+supply from [[Lady Russell]]. To her, its greatest interest must be, in
 
 having been very much talked of between her friend and Mr Elliot; in
 
-having been wished for, regretted, and at the same time honoured for
+having been wished for, regretted, and at the same [[Time|time]] honoured for
 
 staying away in such a cause. Her kind, compassionate visits to this
 
@@ -92,9 +92,9 @@ sensations which her friend meant to create.
 
 
 
-Lady Russell was now perfectly decided in her opinion of Mr Elliot. She
+[[Lady Russell]] was now perfectly decided in her opinion of Mr Elliot. She
 
-was as much convinced of his meaning to gain Anne in time as of his
+was as much convinced of his meaning to gain Anne in [[Time|time]] as of his
 
 deserving her, and was beginning to calculate the number of weeks which
 
@@ -116,11 +116,11 @@ blushed, and gently shook her head.
 
 
 
-“I am no match-maker, as you well know,” said Lady Russell, “being much
+“I am no match-maker, as you [[Well|well]] know,” said [[Lady Russell]], “being much
 
-too well aware of the uncertainty of all human events and calculations.
+too [[Well|well]] aware of the uncertainty of all human events and calculations.
 
-I only mean that if Mr Elliot should some time hence pay his addresses
+I only mean that if Mr Elliot should some [[Time|time]] hence pay his addresses
 
 to you, and if you should be disposed to accept him, I think there
 
@@ -138,25 +138,25 @@ think highly of him,” said Anne; “but we should not suit.”
 
 
 
-Lady Russell let this pass, and only said in rejoinder, “I own that to
+[[Lady Russell]] let this pass, and only said in rejoinder, “I own that to
 
 be able to regard you as the future mistress of Kellynch, the future
 
 Lady Elliot, to look forward and see you occupying your dear mother’s
 
-place, succeeding to all her rights, and all her popularity, as well as
+place, succeeding to all her rights, and all her popularity, as [[Well|well]] as
 
 to all her virtues, would be the highest possible gratification to me.
 
-You are your mother’s self in countenance and disposition; and if I
+You are your mother’s [[Self|self]] in countenance and disposition; and if I
 
 might be allowed to fancy you such as she was, in situation and name,
 
-and home, presiding and blessing in the same spot, and only superior to
+and [[Home|home]], presiding and blessing in the same spot, and only superior to
 
 her in being more highly valued! My dearest Anne, it would give me more
 
-delight than is often felt at my time of life!”
+delight than is often felt at my [[Time|time]] of life!”
 
 
 
@@ -164,15 +164,15 @@ Anne was obliged to turn away, to rise, to walk to a distant table,
 
 and, leaning there in pretended employment, try to subdue the feelings
 
-this picture excited. For a few moments her imagination and her heart
+this picture excited. For a few moments her [[Imagination|imagination]] and her heart
 
 were bewitched. The idea of becoming what her mother had been; of
 
 having the precious name of “Lady Elliot” first revived in herself; of
 
-being restored to Kellynch, calling it her home again, her home for
+being restored to Kellynch, calling it her [[Home|home]] again, her [[Home|home]] for
 
-ever, was a charm which she could not immediately resist. Lady Russell
+ever, was a charm which she could not immediately resist. [[Lady Russell]]
 
 said not another word, willing to leave the matter to its own
 
@@ -198,7 +198,7 @@ Though they had now been acquainted a month, she could not be satisfied
 
 that she really knew his character. That he was a sensible man, an
 
-agreeable man, that he talked well, professed good opinions, seemed to
+agreeable man, that he talked [[Well|well]], professed good opinions, seemed to
 
 judge properly and as a man of principle, this was all clear enough. He
 
@@ -214,7 +214,7 @@ to former practices and pursuits, suggested suspicions not favourable
 
 of what he had been. She saw that there had been bad habits; that
 
-Sunday travelling had been a common thing; that there had been a period
+[[Sunday]] travelling had been a common thing; that there had been a period
 
 of his life (and probably not a short one) when he had been, at least,
 
@@ -250,24 +250,24 @@ varied, whose tongue never slipped.
 
 Mr Elliot was too generally agreeable. Various as were the tempers in
 
-her father’s house, he pleased them all. He endured too well, stood too
+her father’s [[house]], he pleased them all. He endured too [[Well|well]], stood too
 
-well with every body. He had spoken to her with some degree of openness
+[[Well|well]] with every [[Body|body]]. He had spoken to her with some degree of openness
 
 of Mrs Clay; had appeared completely to see what Mrs Clay was about,
 
 and to hold her in contempt; and yet Mrs Clay found him as agreeable as
 
-any body.
+any [[Body|body]].
 
 
 
-Lady Russell saw either less or more than her young friend, for she saw
+[[Lady Russell]] saw either less or more than her young friend, for she saw
 
 nothing to excite distrust. She could not imagine a man more exactly
 
 what he ought to be than Mr Elliot; nor did she ever enjoy a sweeter
 
-feeling than the hope of seeing him receive the hand of her beloved
+feeling than the [[Hope|hope]] of seeing him receive the hand of her beloved
 
-Anne in Kellynch church, in the course of the following autumn.
+Anne in Kellynch church, in the course of the following [[Autumn|autumn]].

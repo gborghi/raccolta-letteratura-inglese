@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 John Westlock lived in Furnival’s Inn, High Holborn, which was within a
 quarter of an hour’s walk of Tom’s starting-point, but seemed a long way
-off, by reason of his going two or three miles out of the straight road
+off, by reason of his going two or three miles out of the straight [[Road|road]]
 to make a short cut. When at last he arrived outside John’s door, two
 stories up, he stood faltering with his hand upon the knocker, and
 trembled from head to foot. For he was rendered very nervous by the
@@ -29,16 +29,16 @@ get it over.’
 
 Rat tat.
 
-‘I am afraid that’s not a London knock,’ thought Tom. ‘It didn’t sound
+‘I am afraid that’s not a [[London]] knock,’ thought Tom. ‘It didn’t sound
 bold. Perhaps that’s the reason why nobody answers the door.’
 
 It is quite certain that nobody came, and that Tom stood looking at the
 knocker; wondering whereabouts in the neighbourhood a certain gentleman
 resided, who was roaring out to somebody ‘Come in!’ with all his might.
 
-‘Bless my soul!’ thought Tom at last. ‘Perhaps he lives here, and is
+‘Bless my [[Soul|soul]]!’ thought Tom at last. ‘Perhaps he lives here, and is
 calling to me. I never thought of that. Can I open the door from the
-outside, I wonder. Yes, to be sure I can.’
+outside, I [[Wonder|wonder]]. Yes, to be sure I can.’
 
 To be sure he could, by turning the handle; and to be sure when he did
 turn it the same voice came rushing out, crying ‘Why don’t you come
@@ -54,7 +54,7 @@ plunge at Tom, and hugged him.
 
 ‘Why, Tom, my boy!’ cried the gentleman. ‘Tom!’
 
-‘How glad I am to see you, Mr Westlock!’ said Tom Pinch, shaking both
+‘How glad I am to see you, Mr Westlock!’ said [[Tom Pinch]], shaking both
 his hands, and trembling more than ever. ‘How kind you are!’
 
 ‘Mr Westlock!’ repeated John, ‘what do you mean by that, Pinch? You have
@@ -65,17 +65,17 @@ me, how kind you are!’
 
 ‘I never saw such a fellow in all my life!’ cried John. ‘What do you
 mean by saying THAT over and over again? What did you expect me to be, I
-wonder! Here, sit down, Tom, and be a reasonable creature. How are you,
+[[Wonder|wonder]]! Here, sit down, Tom, and be a reasonable creature. How are you,
 my boy? I am delighted to see you!’
 
 ‘And I am delighted to see YOU,’ said Tom.
 
-‘It’s mutual, of course,’ returned John. ‘It always was, I hope. If
+‘It’s mutual, of course,’ returned John. ‘It always was, I [[Hope|hope]]. If
 I had known you had been coming, Tom, I would have had something for
 breakfast. I would rather have such a surprise than the best breakfast
-in the world, myself; but yours is another case, and I have no doubt you
-are as hungry as a hunter. You must make out as well as you can, Tom,
-and we’ll recompense ourselves at dinner-time. You take sugar, I know;
+in the world, myself; but yours is another case, and I have no [[Doubt|doubt]] you
+are as hungry as a hunter. You must make out as [[Well|well]] as you can, Tom,
+and we’ll recompense ourselves at dinner-[[Time|time]]. You take sugar, I know;
 I recollect the sugar at Pecksniff’s. Ha, ha, ha! How IS Pecksniff? When
 did you come to town? DO begin at something or other, Tom. There are
 only scraps here, but they are not at all bad. Boar’s Head potted. Try
@@ -86,15 +86,15 @@ While he delivered himself of these words in a state of great commotion,
 John was constantly running backwards and forwards to and from the
 closet, bringing out all sorts of things in pots, scooping extraordinary
 quantities of tea out of the caddy, dropping French rolls into his
-boots, pouring hot water over the butter, and making a variety of
+boots, pouring hot [[Water|water]] over the butter, and making a variety of
 similar mistakes without disconcerting himself in the least.
 
-‘There!’ said John, sitting down for the fiftieth time, and instantly
+‘There!’ said John, sitting down for the fiftieth [[Time|time]], and instantly
 starting up again to make some other addition to the breakfast. ‘Now we
-are as well off as we are likely to be till dinner. And now let us have
+are as [[Well|well]] off as we are likely to be till dinner. And now let us have
 the news, Tom. Imprimis, how’s Pecksniff?’
 
-‘I don’t know how he is,’ was Tom’s grave answer.
+‘I don’t know how he is,’ was Tom’s [[Grave|grave]] answer.
 
 John Westlock put the teapot down, and looked at him, in astonishment.
 
@@ -114,8 +114,8 @@ Tom had no need to direct that appealing look towards his friend, in
 mild and gentle deprecation of his answering with a laugh. John Westlock
 would as soon have thought of striking him down upon the floor.
 
-‘It was all a dream of mine,’ said Tom, ‘and it is over. I’ll tell you
-how it happened, at some other time. Bear with my folly, John. I do not,
+‘It was all [[A Dream|a dream]] of mine,’ said Tom, ‘and it is over. I’ll tell you
+how it happened, at some other [[Time|time]]. Bear with my folly, John. I do not,
 just now, like to think or speak about it.’
 
 ‘I swear to you, Tom,’ returned his friend, with great earnestness of

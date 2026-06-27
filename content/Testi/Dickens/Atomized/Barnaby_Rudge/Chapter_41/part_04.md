@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 41 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 41 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -16,8 +16,8 @@ tags:
 
 ‘What a handy jade it is!’ said the locksmith to Mrs Varden, who stood
 by with folded hands--rather proud of her husband too--while Miggs held
-his cap and sword at arm’s length, as if mistrusting that the latter
-might run some one through the body of its own accord; ‘but never marry
+his cap and [[Sword|sword]] at arm’s length, as if mistrusting that the latter
+might run some one through the [[Body|body]] of its own accord; ‘but never marry
 a soldier, Doll, my dear.’
 
 Dolly didn’t ask why not, or say a word, indeed, but stooped her head
@@ -45,33 +45,33 @@ find some one more deserving to talk about, I think.’
 Miss Miggs gave a great sniff to the same effect.
 
 ‘Nay, Martha,’ cried the locksmith, ‘don’t let us bear too hard upon
-him. If the lad is dead indeed, we’ll deal kindly by his memory.’
+him. If the lad is dead indeed, we’ll deal kindly by his [[Memory|memory]].’
 
 ‘A runaway and a vagabond!’ said Mrs Varden.
 
 Miss Miggs expressed her concurrence as before.
 
 ‘A runaway, my dear, but not a vagabond,’ returned the locksmith in
-a gentle tone. ‘He behaved himself well, did Joe--always--and was a
+a gentle tone. ‘He behaved himself [[Well|well]], did Joe--always--and was a
 handsome, manly fellow. Don’t call him a vagabond, Martha.’
 
 Mrs Varden coughed--and so did Miggs.
 
 ‘He tried hard to gain your good opinion, Martha, I can tell you,’ said
 the locksmith smiling, and stroking his chin. ‘Ah! that he did. It seems
-but yesterday that he followed me out to the Maypole door one night, and
-begged me not to say how like a boy they used him--say here, at home, he
-meant, though at the time, I recollect, I didn’t understand. “And how’s
+but yesterday that he followed me out to the Maypole door one [[Night|night]], and
+begged me not to say how like a boy they used him--say here, at [[Home|home]], he
+meant, though at the [[Time|time]], I recollect, I didn’t understand. “And how’s
 Miss Dolly, sir?” says Joe,’ pursued the locksmith, musing sorrowfully,
 ‘Ah! Poor Joe!’
 
-‘Well, I declare,’ cried Miggs. ‘Oh! Goodness gracious me!’
+‘[[Well]], I declare,’ cried Miggs. ‘Oh! Goodness gracious me!’
 
 ‘What’s the matter now?’ said Gabriel, turning sharply to her.
 
 ‘Why, if here an’t Miss Dolly,’ said the handmaid, stooping down to look
-into her face, ‘a-giving way to floods of tears. Oh mim! oh sir. Raly
-it’s give me such a turn,’ cried the susceptible damsel, pressing her
+into her face, ‘a-giving way to floods of [[Tears|tears]]. Oh mim! oh sir. Raly
+it’s give me such a turn,’ cried the susceptible [[Damsel|damsel]], pressing her
 hand upon her side to quell the palpitation of her heart, ‘that you
 might knock me down with a feather.’
 
@@ -89,7 +89,7 @@ name was never to be mentioned, and I have not spoken of him, have I?’
 
 Mrs Varden merely replied that she had no patience with him, and bounced
 off after the other two. The unfortunate locksmith wound his sash about
-him, girded on his sword, put on his cap, and walked out.
+him, girded on his [[Sword|sword]], put on his cap, and walked out.
 
 ‘I am not much of a dab at my exercise,’ he said under his breath, ‘but
 I shall get into fewer scrapes at that work than at this. Every man came
@@ -98,4 +98,4 @@ woman cry without meaning it. It’s rather hard!’
 
 But he forgot it before he reached the end of the street, and went on
 with a shining face, nodding to the neighbours, and showering about his
-friendly greetings like mild spring rain.
+friendly greetings like mild [[spring]] rain.

@@ -26,15 +26,15 @@ man that science has really been unfortunate in losing.
 He was the old-fashioned English Naturalist like
 Gilbert White or even Isaac Walton, who learned things
 not academically like an American Professor, but
-actually, like an American Indian.  And every truth a
+actually, like an American Indian.  And every [[Truth|truth]] a
 man has found out as a man of science is always
-subtly different from any truth he has found out as a
+subtly different from any [[Truth|truth]] he has found out as a
 man, because a man's family, friends, habits and social
-type have always got well under way before he has
+type have always got [[Well|well]] under way before he has
 thoroughly learned the theory of anything.  For
 instance, any eminent botanist at a _Soirée_ of the Royal
 Society could tell you, of course, that other edible
-fungi exist, as well as mushrooms and truffles.  But
+fungi exist, as [[Well|well]] as mushrooms and truffles.  But
 long before he was a botanist, still less an eminent
 botanist, he had begun, so to speak, on a basis of
 mushrooms and truffles.  He felt, in a vague way, that these
@@ -64,14 +64,14 @@ vegetables isn't half bad, so long as you know what
 vegetables there are and eat all of them that you can.
 But there are two ways where it goes wrong among
 the gentry.  First, they've never had to eat a carrot
-or a potato because it was all there was in the house; so
+or a potato because it was all there was in the [[house]]; so
 they've never learnt how to be really hungry for
-carrots, as that donkey might be.  They only know the
+carrots, as that [[donkey]] might be.  They only know the
 vegetables that are meant to help the meat.  They
 know you take duck and peas; and when they turn
-vegetarian they can only think of the peas without
+[[vegetarian]] they can only think of the peas without
 the duck.  They know you take lobster in a salad; and
-when they turn vegetarian they can only think of the
+when they turn [[vegetarian]] they can only think of the
 salad without the lobster.  But the other reason is
 worse.  There's plenty of good people even round
 here, and still more in the north, who get meat very
@@ -79,11 +79,11 @@ seldom.  But then, when they do get it, they gobble
 it up like good 'uns.  But the trouble with the gentry
 is different.  The trouble is, the same sort of gentry
 that don't want to eat meat don't really want to eat
-anything.  The man called a Vegetarian who goes
-to Ivywood House is generally like a cow trying to
+anything.  The man called a [[vegetarian|Vegetarian]] who goes
+to Ivywood [[house|House]] is generally like a cow trying to
 live on a blade of grass a day.  You and I, Captain,
-have pretty well been vegetarians for some time, so as
-not to break into the cheese, and we haven't found it
+have pretty [[Well|well]] been vegetarians for some [[Time|time]], so as
+not to break into the [[cheese]], and we haven't found it
 so difficult, because we eat as much as we can."
 
 "It's not so difficult as being teetotallers," answered
@@ -92,24 +92,24 @@ never deny that I feel the better for that, too, on the
 whole.  But only because I could leave off being one
 whenever I chose.  And, now I come to think of it,"
 he cried, with one of his odd returns of animal energy,
-"if I'm to be a vegetarian why shouldn't I drink?
-Why shouldn't I have a purely vegetarian drink?
+"if I'm to be a [[vegetarian]] why shouldn't I drink?
+Why shouldn't I have a purely [[vegetarian]] drink?
 Why shouldn't I take vegetables in their highest form,
 so to speak?  The modest vegetarians ought obviously
-to stick to wine or beer, plain vegetarian drinks,
-instead of filling their goblets with the blood of bulls
+to stick to wine or beer, plain [[vegetarian]] drinks,
+instead of filling their goblets with the [[Blood|blood]] of bulls
 and elephants, as all conventional meat-eaters do, I
 suppose.  What is the matter?"
 
 "Nothing," answered Pump.  "I was looking out
-for somebody who generally turns up about this time.
+for somebody who generally turns up about this [[Time|time]].
 But I think I'm fast."
 
 "I should never have thought so from the look of
 you," answered the Captain, "but what I'm saying is
 that the drinking of decent fermented liquor is just
 simply the triumph of vegetarianism.  Why, it's an
-inspiring idea!  I could write a sort of song about it.
+inspiring idea!  I could write a sort of [[Song|song]] about it.
 As, for instance--
 
     "You will find me drinking rum
@@ -117,7 +117,7 @@ As, for instance--
       You will find me drinking beer like a Bavarian;
      You will find me drinking gin
      In the lowest kind of inn,
-      Because I am a rigid Vegetarian."
+      Because I am a rigid [[vegetarian|Vegetarian]]."
 
 Why, it's a vista of verbal felicity and spiritual
 edification!  It has I don't know how many hundred
@@ -129,23 +129,23 @@ Something like--
        And I tried to hail the constable as 'Marion';
      But he said I couldn't speak,
      And he bowled me to the Beak,
-       Because I was a Happy Vegetarian."
+       Because I was a Happy [[vegetarian|Vegetarian]]."
 
 "I really think something instructive to the human race
 may come out of all this . . . Hullo!  Is that
 what you were looking for?"
 
-The quadruped Quoodle came in out of the woods a
-whole minute later than the usual time and took his
+The quadruped [[quoodle|Quoodle]] came in out of the woods a
+whole minute later than the usual [[Time|time]] and took his
 seat beside Humphrey's left foot with a preoccupied
 air.
 
 "Good old boy," said the Captain.  "You seem to
-have taken quite a fancy to us.  I doubt, Hump, if
-he's properly looked after up at the house.  I
+have taken quite a fancy to us.  I [[Doubt|doubt]], Hump, if
+he's properly looked after up at the [[house]].  I
 particularly don't want to talk against Ivywood, Hump.  I
-don't want his soul to be able in all eternity to accuse
-my soul of a mean detraction.  I want to be fair to
+don't want his [[Soul|soul]] to be able in all [[Eternity|eternity]] to accuse
+my [[Soul|soul]] of a mean detraction.  I want to be fair to
 him, because I hate him like hell, and he has taken
 from me all for which I lived.  But I don't think, with
 all this in my mind, I don't think I say anything beyond
@@ -160,7 +160,7 @@ acts with; he never looks at them as you and I look
 at that dog.  There was a fellow calling himself
 Gluck who was (mainly by Ivywood's influence, I
 believe) his colleague on the Turkish Conferences,
-being supposed to represent Germany.  My dear
+being supposed to represent [[Germany]].  My dear
 Hump, he was a man that a great gentleman like
 Ivywood ought not to have touched with a barge-pole.  It's
 not the race he was--if it was one race--it's the Sort
@@ -176,7 +176,7 @@ you.
        And his attitudes were anything but Aryan;
      So I gave him all the pork
      That I had, upon a fork;
-       Because I am myself a Vegetarian."
+       Because I am myself a [[vegetarian|Vegetarian]]."
 
 "If you are," said Humphrey Pump, "You'd better
 come and eat some vegetables.  The White Hat can
@@ -184,7 +184,7 @@ be eaten cold--or raw, for that matter.  But
 Bloodspots wants some cooking."
 
 "You are right, Hump," said Dalroy, seating
-himself with every appearance of speechless greed.  "I
+himself with every appearance of speechless [[Greed|greed]].  "I
 will be silent.  As the poet says--
 
     "I am silent in the Club,
@@ -192,10 +192,10 @@ will be silent.  As the poet says--
        I am silent on a bally peak in Darien;
      For I stuff away for life,
      Shoving peas in with a knife,
-       Because I am at heart a Vegetarian."
+       Because I am at heart a [[vegetarian|Vegetarian]]."
 
 He fell to his food with great gusto, dispatched a
-good deal of it in a very short time, threw a glance of
+good deal of it in a very short [[Time|time]], threw a glance of
 gloomy envy at the cask, and then sprang to his feet
 again.  He caught up the inn-sign from where it
 leant against the Pantomime Cottage, and planted it
@@ -211,42 +211,42 @@ to sing again, in an even louder voice than before.
 "that I'm rather tired of that particular tune?"
 
 "Tired, is it?" said the indignant Irishman, "then
-I'll sing you a longer song, to an even worse tune,
+I'll sing you a longer [[Song|song]], to an even worse tune,
 about more and more vegetarians, and you shall see
-me dance as well; and I will dance till you burst into
-tears and offer me the half of your kingdom; and I
+me [[Dance|dance]] as [[Well|well]]; and I will [[Dance|dance]] till you burst into
+[[Tears|tears]] and offer me the half of your kingdom; and I
 shall ask for Mr. Leveson's head on the frying-pan.
-For this, let me tell you, is a song of oriental origin,
+For this, let me tell you, is a [[Song|song]] of oriental origin,
 celebrating the caprices of an ancient Babylonian
 Sultan and should be performed in palaces of ivory with
 palm trees and a bulbul accompaniment."
 
-And he began to bellow another and older lyric of
+And he began to bellow another and older [[Lyric|lyric]] of
 his own on vegetarianism.
 
-    "Nebuchadnezzar, the King of the Jews,
+    "Nebuchadnezzar, the [[King]] of the Jews,
      Suffered from new and original views,
      He crawled on his hands and knees it's said,
-     With grass in his mouth and a crown on his head,
+     With grass in his mouth and a [[Crown|crown]] on his head,
         With a wowtyiddly, etc.
 
     "Those in traditional paths that trod,
      Thought the thing was a curse from God;
      But a Pioneer men always abuse,
-     Like Nebuchadnezzar the King of the Jews."
+     Like Nebuchadnezzar the [[King]] of the Jews."
 
-Dalroy, as he sang this, actually began to dance
+Dalroy, as he sang this, actually began to [[Dance|dance]]
 about like a ballet girl, an enormous and ridiculous
 figure in the sunlight, waving the wooden sign around
-his head.  Quoodle opened his eyes and pricked up
+his head.  [[quoodle|Quoodle]] opened his eyes and pricked up
 his ears and seemed much interested in these
 extraordinary evolutions.  Suddenly, with one of those
 startling changes that will transfigure the most sedentary
-dogs, Quoodle decided that the dance was a game, and
+[[dogs]], [[quoodle|Quoodle]] decided that the [[Dance|dance]] was a game, and
 began to bark and bound round the performer, sometimes
 leaping so far into the air as almost to threaten
 the man's throat.  But, though the sailor naturally
-knew less about dogs than the countryman, he knew
+knew less about [[dogs]] than the countryman, he knew
 enough about them (as about many other things) not
 to be afraid, and the voice he sang with might have
 drowned the baying of a pack.
@@ -257,21 +257,21 @@ drowned the baying of a pack.
      So they stuffed him with grass when they cut off his head.
         With a wowtyiddly, etc.
 
-    "For the pride of his soul he perished then,
-     But of course it is always of Pride that men
+    "For the [[Pride|pride]] of his [[Soul|soul]] he perished then,
+     But of course it is always of [[Pride]] that men
      A Man in Advance of his Age accuse
-     Like Nebuchadnezzar the King of the Jews.
+     Like Nebuchadnezzar the [[King]] of the Jews.
 
     "Simeon Scudder of Styx, in Maine,
      Thought of the thing and was at it again;
-     He gave good grass and water in pails
+     He gave good grass and [[Water|water]] in pails
      To a thousand Irishmen hammering rails,
         With a wowtyiddly, etc.
 
     "Appetites differ, and tied to a stake,
-     He was tarred and feathered for Conscience Sake;
+     He was tarred and feathered for [[Conscience]] Sake;
      But stoning the prophets is ancient news,
-     Like Nebuchadnezzar the King of the Jews."
+     Like Nebuchadnezzar the [[King]] of the Jews."
 
 In an abandon, unusual even for him, he had danced
 his way down through the thistles into the jungle of
@@ -280,11 +280,11 @@ now fully convinced that it was not only a game but
 an expedition, perhaps a hunting expedition, ran barking
 in front of him, along the path that his own dog's
 paws had already burst through the tangle.  Before
-Patrick Dalroy well knew what he was doing, or even
+Patrick Dalroy [[Well|well]] knew what he was doing, or even
 remembered that he still carried the ridiculous sign-board in his hand, he found himself outside the open
 porch of a sort of narrow tower at the angle of a
 building which, to the best of his recollection, he had
-never seen before.  Quoodle instantly ran up four or
+never seen before.  [[quoodle|Quoodle]] instantly ran up four or
 five steps in the dark staircase inside, and then, lifting
 his ears again, looked back for his companion.
 
@@ -298,7 +298,7 @@ porch, and proceeded to climb the stairs.  It was quite
 dark, and it was only after at least two twists of the
 stone spiral that he saw light ahead of him, and then
 it was a sort of rent in the wall that seemed to him
-as ragged as the mouth of a Cornish cave.  It was
+as ragged as the mouth of a Cornish [[Cave|cave]].  It was
 also so low that he had some difficulty in squeezing
 his bulk through it, but the dog had jumped through
 with an air of familiarity, and once more looked back
@@ -311,9 +311,9 @@ surroundings which he had never seen before, or even,
 in one sense, believed possible.
 
 His first feeling was that he was walking in the
-most sealed and secret suite of apartments in the castle
-of a dream.  All the chambers had that air of
-perpetually opening inwards which is the soul of the
+most sealed and secret suite of apartments in the [[Castle|castle]]
+of [[A Dream|a dream]].  All the chambers had that air of
+perpetually opening inwards which is the [[Soul|soul]] of the
 Arabian Nights.  And the ornament was of the same
 tradition; gorgeous and flamboyant, yet featureless
 and stiff.  A purple mansion seemed to be built inside
@@ -328,8 +328,8 @@ Worm.
 But he had also another sensation which he could
 not analyze; for it reminded him of being a fly on the
 ceiling or the wall.  Was it the Hanging Gardens of
-Babylon coming back to his imagination; or the Castle
-East of the Sun and West of the Moon?  Then he
+Babylon coming back to his [[Imagination|imagination]]; or the [[Castle]]
+East of the Sun and West of the [[Moon]]?  Then he
 remembered that in some boyish illness he had stared
 at a rather Moorish sort of wall paper, which was like
 rows and rows of brightly coloured corridors, empty
@@ -339,20 +339,20 @@ seemed to his childish fancy that the corridors were
 all dead in front of the fly, but all came to life as he
 passed.
 
-"By George!" he cried, "I wonder whether that's
-the real truth about East and West!  That the
+"By George!" he cried, "I [[Wonder|wonder]] whether that's
+the real [[Truth|truth]] about East and West!  That the
 gorgeous East offers everything needed for adventures
 except the man to enjoy them.  It would explain the
-tradition of the Crusades uncommonly well.  Perhaps
+tradition of the [[Crusades]] uncommonly [[Well|well]].  Perhaps
 that's what God meant by Europe and Asia.  We
-dress the characters and they paint the scenery.  Well,
+dress the characters and they paint the scenery.  [[Well]],
 anyhow, three of the least Asiatic things in the world
 are lost in this endless Asiatic palace--a good dog, a
-straight sword, and an Irishman."
+straight [[Sword|sword]], and an Irishman."
 
 But as he went down this telescope of tropical colours
 he really felt something of that hard fatalistic
-freedom of the heroes (or should we say villains?)
+[[Freedom|freedom]] of the heroes (or should we say villains?)
 in the Arabian Nights.  He was prepared for any
 impossibility.  He would hardly have been surprised
 if from under the lid of one of the porcelain pots
@@ -360,24 +360,24 @@ standing in a corner had come a serpentine string of
 blue or yellow smoke, as if some wizard's oil were
 within.  He would hardly have been surprised if from
 under the curtains or closed doors had crawled out a
-snaky track of blood, or if a dumb negro dressed in
+snaky track of [[Blood|blood]], or if a dumb negro dressed in
 white had come out with a bow string, having done
 his work.  He would not have been surprised if he had
 walked suddenly into the still chamber of some Sultan
-asleep, whom to wake was a death in torments.  And
+asleep, whom to wake was a [[Death|death]] in torments.  And
 yet he was very much more surprised by what he did
 see, and when he saw it, he was certain at last that
 he was only wandering in the labyrinth of his own
 brain.  For what he saw was what was really in the
-core of all his dreams.
+core of all his [[Dreams|dreams]].
 
 What he saw, indeed, was more appropriate to that
 inmost eastern chamber than anything he had imagined.
-On a divan of blood-red and orange cushions
+On a divan of [[Blood|blood]]-red and orange cushions
 lay a startlingly beautiful woman, with a skin almost
-swarthy enough for an Arab's, and who might well
+swarthy enough for an Arab's, and who might [[Well|well]]
 have been the Princess proper to such an Arabian
-tale.  But in truth it was not her appropriateness to
+tale.  But in [[Truth|truth]] it was not her appropriateness to
 the scene, but rather her inappropriateness, that made
 his heart bound.  It was not her strangeness but her
 familiarity that made his big feet suddenly stop.
@@ -388,37 +388,37 @@ his short hind legs.  Then she looked up, and seemed
 turned to stone.
 
 "Bismillah," said the oriental traveller, affably, "may
-your shadow never grow less--or more, as the ladies
+your [[Shadow|shadow]] never grow less--or more, as the ladies
 would say.  The Commander of the Faithful has deputed
 his least competent slave to bring you back a dog.
 Owing to temporary delay in collecting the fifteen
-largest diamonds in the moon, he has been compelled
+largest diamonds in the [[Moon|moon]], he has been compelled
 to send the animal without any collar.  Those responsible
-for the delay will instantly be beaten to death,
+for the delay will instantly be beaten to [[Death|death]],
 with the tails of dragons--"
 
 The frightful shock, which had not yet left the
 lady's face, brought him back to responsible speech.
 
-"In short," he said, "in the name of the Prophet,
-dog.  I say, Joan, I wish this wasn't a dream."
+"In short," he said, "in the name of the [[Prophet]],
+dog.  I say, Joan, I wish this wasn't [[A Dream|a dream]]."
 
-"It isn't," said the girl, speaking for the first time,
+"It isn't," said the girl, speaking for the first [[Time|time]],
 "and I don't know yet whether I wish it was."
 
-"Well," argued the dreamer, rationally, "what are
-you, anytime, if you're not a dream--or a vision?
-And what are all these rooms, if they aren't a dream
---or rather a nightmare?"
+"[[Well]]," argued the dreamer, rationally, "what are
+you, anytime, if you're not [[A Dream|a dream]]--or a vision?
+And what are all these rooms, if they aren't [[A Dream|a dream]]
+--or rather a [[nightmare]]?"
 
-"This is the new wing of Ivywood House," said
+"This is the new wing of Ivywood [[house|House]]," said
 the lady addressed as Joan, speaking with great
 difficulty.  "Lord Ivywood has fitted them up in the
 eastern style; he is inside conducting a most interesting
-debate in defence of Eastern Vegetarianism.  I only
+[[debate]] in defence of Eastern Vegetarianism.  I only
 came out because the room was rather hot."
 
-"Vegetarian!" cried Dalroy, with abrupt and rather
+"[[vegetarian|Vegetarian]]!" cried Dalroy, with abrupt and rather
 unreasonable exasperation.  "That table seems to fall
 a bit short of Vegetarianism."  And he pointed to one
 of the long, narrow tables, laid somewhere in almost
@@ -444,7 +444,7 @@ Lady Joan Brett stood up straight but trembling.
 
 "Now that's really wrong, Pat," she cried.  "Oh,
 don't be silly--you know I don't care about the alcohol
-or all that.  But you're in the man's house, uninvited,
+or all that.  But you're in the man's [[house]], uninvited,
 and he doesn't know.  That wasn't like you."
 
 "He shall know, all right," said the large man,
@@ -456,7 +456,7 @@ of a bill of fare on the table, and then carefully laid
 three shillings on top of it.
 
 "And there you do Philip the worst wrong of all,"
-cried Lady Joan, flaming white.  "You know as well
+cried Lady Joan, flaming white.  "You know as [[Well|well]]
 as I do, anyhow, that he would not take your money."
 Patrick Dalroy stood looking at her for some
 seconds with an expression on his broad and unusually
@@ -484,16 +484,16 @@ Ivywood clearly told me, with his own careful lips,
 that I might go in and pay for fermented liquor in any
 place displaying a public sign outside.  And he won't
 go back on that definition or on any definition.  If he
-finds me here, he may quite possibly put me in prison
+finds me here, he may quite possibly put me in [[Prison|prison]]
 on some other charge, as a thief or a vagabond, or
 what not.  But he will not grudge the champagne.
 And he will accept the three shillings.  And I shall
-honour him for his glorious consistency."
+[[Honour|honour]] him for his glorious consistency."
 
 "I don't understand," said Joan, "one word of what
 you are talking about.  Which way did you come?
 How can I get you away?  You don't seem to grasp
-that you're in Ivywood House."
+that you're in Ivywood [[house|House]]."
 
 "You see there's a new name outside the gate,"
 observed Patrick, conversationally, and led the lady to
@@ -501,13 +501,13 @@ the end of the corridor by which he had entered and
 into its ultimate turret chamber.
 
 Following his indications, Lady Joan peered a little
-over the edge of the window where hung the brilliant
+over the edge of the [[Window|window]] where hung the brilliant
 purple bird in its brilliant golden cage.  Almost
 immediately below, outside the entrance to the half-closed
 stairway, stood a wooden tavern sign, as solid and still
 as if it had been there for centuries.
 
-"All back at the sign of 'The Old Ship,' you see,"
+"All back at the sign of 'The Old [[Ship]],' you see,"
 said the Captain.  "Can I offer you anything in a lady-like way?"
 
 There was a vast impudence in the slight, hospitable
@@ -515,7 +515,7 @@ movement of his hand, that disturbed Lady Joan's
 features with an emotion other than any that she desired
 to show.
 
-"Well!" cried Patrick, with a wild geniality, "I've
+"[[Well]]!" cried Patrick, with a wild geniality, "I've
 made you laugh again, my dear."
 
 He caught her to him as in a whirlwind, and then

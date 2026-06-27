@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 37 (part 1)"
+title: "[[Jane Eyre]] — Chapter 37 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,21 +17,21 @@ tags:
 CHAPTER XXXVII
 
 
-The manor-house of Ferndean was a building of considerable antiquity,
+The manor-[[house]] of Ferndean was a building of considerable antiquity,
 moderate size, and no architectural pretensions, deep buried in a wood.
 I had heard of it before. Mr. Rochester often spoke of it, and
 sometimes went there. His father had purchased the estate for the sake
-of the game covers. He would have let the house, but could find no
+of the game covers. He would have let the [[house]], but could find no
 tenant, in consequence of its ineligible and insalubrious site.
 Ferndean then remained uninhabited and unfurnished, with the exception
 of some two or three rooms fitted up for the accommodation of the
 squire when he went there in the season to shoot.
 
-To this house I came just ere dark on an evening marked by the
+To this [[house]] I came just ere dark on an evening marked by the
 characteristics of sad sky, cold gale, and continued small penetrating
 rain. The last mile I performed on foot, having dismissed the chaise
-and driver with the double remuneration I had promised. Even when
-within a very short distance of the manor-house, you could see nothing
+and driver with the [[Double|double]] remuneration I had promised. Even when
+within a very short distance of the manor-[[house]], you could see nothing
 of it, so thick and dark grew the timber of the gloomy wood about it.
 Iron gates between granite pillars showed me where to enter, and
 passing through them, I found myself at once in the twilight of
@@ -42,22 +42,22 @@ and on, it wound far and farther: no sign of habitation or grounds was
 visible.
 
 I thought I had taken a wrong direction and lost my way. The darkness
-of natural as well as of sylvan dusk gathered over me. I looked round
-in search of another road. There was none: all was interwoven stem,
-columnar trunk, dense summer foliage—no opening anywhere.
+of natural as [[Well|well]] as of sylvan dusk gathered over me. I looked round
+in search of another [[Road|road]]. There was none: all was interwoven stem,
+columnar trunk, dense [[Summer|summer]] foliage—no opening anywhere.
 
 I proceeded: at last my way opened, the trees thinned a little;
-presently I beheld a railing, then the house—scarce, by this dim light,
+presently I beheld a railing, then the [[house]]—scarce, by this dim light,
 distinguishable from the trees; so dank and green were its decaying
 walls. Entering a portal, fastened only by a latch, I stood amidst a
 space of enclosed ground, from which the wood swept away in a
-semicircle. There were no flowers, no garden-beds; only a broad
+semicircle. There were no [[Flowers|flowers]], no [[Garden|garden]]-beds; only a broad
 gravel-walk girdling a grass-plat, and this set in the heavy frame of
-the forest. The house presented two pointed gables in its front; the
+the forest. The [[house]] presented two pointed gables in its front; the
 windows were latticed and narrow: the front door was narrow too, one
 step led up to it. The whole looked, as the host of the Rochester Arms
 had said, “quite a desolate spot.” It was as still as a church on a
-week-day: the pattering rain on the forest leaves was the only sound
+week-day: the pattering rain on the forest [[Leaves|leaves]] was the only sound
 audible in its vicinage.
 
 “Can there be life here?” I asked.
@@ -73,7 +73,7 @@ master, Edward Fairfax Rochester, and no other.
 
 I stayed my step, almost my breath, and stood to watch him—to examine
 him, myself unseen, and alas! to him invisible. It was a sudden
-meeting, and one in which rapture was kept well in check by pain. I had
+meeting, and one in which rapture was kept [[Well|well]] in check by [[Pain|pain]]. I had
 no difficulty in restraining my voice from exclamation, my step from
 hasty advance.
 
@@ -87,7 +87,7 @@ to approach in his sullen woe. The caged eagle, whose gold-ringed eyes
 cruelty has extinguished, might look as looked that sightless Samson.
 
 And, reader, do you think I feared him in his blind ferocity?—if you
-do, you little know me. A soft hope blent with my sorrow that soon I
+do, you little know me. A soft [[Hope|hope]] blent with my sorrow that soon I
 should dare to drop a kiss on that brow of rock, and on those lips so
 sternly sealed beneath it: but not yet. I would not accost him yet.
 
@@ -107,24 +107,24 @@ quarter.
 “Will you take my arm, sir?” he said; “there is a heavy shower coming
 on: had you not better go in?”
 
-“Let me alone,” was the answer.
+“Let me [[Alone|alone]],” was the answer.
 
 John withdrew without having observed me. Mr. Rochester now tried to
 walk about: vainly,—all was too uncertain. He groped his way back to
-the house, and, re-entering it, closed the door.
+the [[house]], and, re-entering it, closed the door.
 
 I now drew near and knocked: John’s wife opened for me. “Mary,” I said,
 “how are you?”
 
-She started as if she had seen a ghost: I calmed her. To her hurried
+She started as if she had seen a [[Ghost|ghost]]: I calmed her. To her hurried
 “Is it really you, miss, come at this late hour to this lonely place?”
 I answered by taking her hand; and then I followed her into the
-kitchen, where John now sat by a good fire. I explained to them, in few
+kitchen, where John now sat by a good [[Fire|fire]]. I explained to them, in few
 words, that I had heard all which had happened since I left Thornfield,
 and that I was come to see Mr. Rochester. I asked John to go down to
-the turn-pike-house, where I had dismissed the chaise, and bring my
+the turn-pike-[[house]], where I had dismissed the chaise, and bring my
 trunk, which I had left there: and then, while I removed my bonnet and
 shawl, I questioned Mary as to whether I could be accommodated at the
-Manor House for the night; and finding that arrangements to that
+Manor [[house|House]] for the [[Night|night]]; and finding that arrangements to that
 effect, though difficult, would not be impossible, I informed her I
 should stay. Just at this moment the parlour-bell rang.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 66"
+title: "Bleak [[house|House]] — Chapter 66"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,37 +20,37 @@ Down in Lincolnshire
 
 
 There is a hush upon Chesney Wold in these altered days, as there is
-upon a portion of the family history. The story goes that Sir
+upon a portion of the family [[history]]. The story goes that Sir
 Leicester paid some who could have spoken out to hold their peace;
 but it is a lame story, feebly whispering and creeping about, and any
 brighter spark of life it shows soon dies away. It is known for
-certain that the handsome Lady Dedlock lies in the mausoleum in the
+certain that the handsome [[Lady Dedlock]] lies in the mausoleum in the
 park, where the trees arch darkly overhead, and the owl is heard at
-night making the woods ring; but whence she was brought home to be
+[[Night|night]] making the woods ring; but whence she was brought [[Home|home]] to be
 laid among the echoes of that solitary place, or how she died, is all
 mystery. Some of her old friends, principally to be found among the
-peachy-cheeked charmers with the skeleton throats, did once
+peachy-cheeked charmers with the [[skeleton]] throats, did once
 occasionally say, as they toyed in a ghastly manner with large
-fans—like charmers reduced to flirting with grim death, after losing
+fans—like charmers reduced to flirting with grim [[Death|death]], after losing
 all their other beaux—did once occasionally say, when the world
 assembled together, that they wondered the ashes of the Dedlocks,
-entombed in the mausoleum, never rose against the profanation of her
+entombed in the mausoleum, never [[Rose|rose]] against the profanation of her
 company. But the dead-and-gone Dedlocks take it very calmly and have
 never been known to object.
 
-Up from among the fern in the hollow, and winding by the bridle-road
+Up from among the fern in the hollow, and winding by the bridle-[[Road|road]]
 among the trees, comes sometimes to this lonely spot the sound of
 horses’ hoofs. Then may be seen Sir Leicester—invalided, bent, and
 almost blind, but of worthy presence yet—riding with a stalwart man
 beside him, constant to his bridle-rein. When they come to a certain
-spot before the mausoleum-door, Sir Leicester’s accustomed horse
+spot before the mausoleum-door, Sir Leicester’s accustomed [[Horse|horse]]
 stops of his own accord, and Sir Leicester, pulling off his hat, is
 still for a few moments before they ride away.
 
 War rages yet with the audacious Boythorn, though at uncertain
 intervals, and now hotly, and now coolly, flickering like an unsteady
-fire. The truth is said to be that when Sir Leicester came down to
-Lincolnshire for good, Mr. Boythorn showed a manifest desire to
+[[Fire|fire]]. The [[Truth|truth]] is said to be that when Sir Leicester came down to
+Lincolnshire for good, Mr. Boythorn showed a manifest [[Desire|desire]] to
 abandon his right of way and do whatever Sir Leicester would, which
 Sir Leicester, conceiving to be a condescension to his illness or
 misfortune, took in such high dudgeon, and was so magnificently
@@ -58,7 +58,7 @@ aggrieved by, that Mr. Boythorn found himself under the necessity of
 committing a flagrant trespass to restore his neighbour to himself.
 Similarly, Mr. Boythorn continues to post tremendous placards on the
 disputed thoroughfare and (with his bird upon his head) to hold forth
-vehemently against Sir Leicester in the sanctuary of his own home;
+vehemently against Sir Leicester in the sanctuary of his own [[Home|home]];
 similarly, also, he defies him as of old in the little church by
 testifying a bland unconsciousness of his existence. But it is
 whispered that when he is most ferocious towards his old foe, he is
@@ -70,13 +70,13 @@ is not the man to tell him. So the quarrel goes on to the
 satisfaction of both.
 
 In one of the lodges of the park—that lodge within sight of the
-house where, once upon a time, when the waters were out down in
-Lincolnshire, my Lady used to see the keeper’s child—the stalwart
+[[house]] where, once upon a [[Time|time]], when the waters were out down in
+Lincolnshire, my Lady used to see the keeper’s [[Child|child]]—the stalwart
 man, the trooper formerly, is housed. Some relics of his old calling
 hang upon the walls, and these it is the chosen recreation of a
 little lame man about the stable-yard to keep gleaming bright. A busy
-little man he always is, in the polishing at harness-house doors, of
-stirrup-irons, bits, curb-chains, harness bosses, anything in the way
+little man he always is, in the polishing at harness-[[house]] doors, of
+stirrup-irons, bits, curb-[[Chains|chains]], harness bosses, anything in the way
 of a stable-yard that will take a polish, leading a life of friction.
 A shaggy little damaged man, withal, not unlike an old dog of some
 mongrel breed, who has been considerably knocked about. He answers to
@@ -84,11 +84,11 @@ the name of Phil.
 
 A goodly sight it is to see the grand old housekeeper (harder of
 hearing now) going to church on the arm of her son and to
-observe—which few do, for the house is scant of company in these
+observe—which few do, for the [[house]] is scant of company in these
 times—the relations of both towards Sir Leicester, and his towards
-them. They have visitors in the high summer weather, when a grey
+them. They have visitors in the high [[Summer|summer]] weather, when a grey
 cloak and umbrella, unknown to Chesney Wold at other periods, are
-seen among the leaves; when two young ladies are occasionally found
+seen among the [[Leaves|leaves]]; when two young ladies are occasionally found
 gambolling in sequestered saw-pits and such nooks of the park; and
 when the smoke of two pipes wreathes away into the fragrant evening
 air from the trooper’s door. Then is a fife heard trolling within the
@@ -97,17 +97,17 @@ evening closes in, a gruff inflexible voice is heard to say, while
 two men pace together up and down, “But I never own to it before the
 old girl. Discipline must be maintained.”
 
-The greater part of the house is shut up, and it is a show-house no
+The greater part of the [[house]] is shut up, and it is a show-[[house]] no
 longer; yet Sir Leicester holds his shrunken state in the long
 drawing-room for all that, and reposes in his old place before my
-Lady’s picture. Closed in by night with broad screens, and illumined
+Lady’s picture. Closed in by [[Night|night]] with broad screens, and illumined
 only in that part, the light of the drawing-room seems gradually
 contracting and dwindling until it shall be no more. A little more,
-in truth, and it will be all extinguished for Sir Leicester; and the
+in [[Truth|truth]], and it will be all extinguished for Sir Leicester; and the
 damp door in the mausoleum which shuts so tight, and looks so
 obdurate, will have opened and received him.
 
-Volumnia, growing with the flight of time pinker as to the red in her
+[[Volumnia]], growing with the flight of [[Time|time]] pinker as to the red in her
 face, and yellower as to the white, reads to Sir Leicester in the
 long evenings and is driven to various artifices to conceal her
 yawns, of which the chief and most efficacious is the insertion of
@@ -118,9 +118,9 @@ and no Buffy, or saved by being all Buffy and no Boodle (it must be
 one of the two, and cannot be anything else), are the staple of her
 reading. Sir Leicester is not particular what it is and does not
 appear to follow it very closely, further than that he always comes
-broad awake the moment Volumnia ventures to leave off, and sonorously
+broad awake the moment [[Volumnia]] ventures to leave off, and sonorously
 repeating her last words, begs with some displeasure to know if she
-finds herself fatigued. However, Volumnia, in the course of her
+finds herself fatigued. However, [[Volumnia]], in the course of her
 bird-like hopping about and pecking at papers, has alighted on a
 memorandum concerning herself in the event of “anything happening” to
 her kinsman, which is handsome compensation for an extensive course
@@ -135,7 +135,7 @@ of the place, gets into a fearful state of depression, groaning under
 penitential sofa-pillows in his gunless hours and protesting that
 such fernal old jail’s—nough t’sew fler up—frever.
 
-The only great occasions for Volumnia in this changed aspect of the
+The only great occasions for [[Volumnia]] in this changed aspect of the
 place in Lincolnshire are those occasions, rare and widely separated,
 when something is to be done for the county or the country in the way
 of gracing a public ball. Then, indeed, does the tuckered sylph come
@@ -147,8 +147,8 @@ upside down. Then, indeed, does she captivate all hearts by her
 condescension, by her girlish vivacity, and by her skipping about as
 in the days when the hideous old general with the mouth too full of
 teeth had not cut one of them at two guineas each. Then does she
-twirl and twine, a pastoral nymph of good family, through the mazes
-of the dance. Then do the swains appear with tea, with lemonade, with
+twirl and twine, a [[Pastoral|pastoral]] nymph of good family, through the mazes
+of the [[Dance|dance]]. Then do the swains appear with tea, with lemonade, with
 sandwiches, with homage. Then is she kind and cruel, stately and
 unassuming, various, beautifully wilful. Then is there a singular
 kind of parallel between her and the little glass chandeliers of
@@ -158,26 +158,26 @@ drops are, their bare little stalks from which knobs and drops have
 both departed, and their little feeble prismatic twinkling, all seem
 Volumnias.
 
-For the rest, Lincolnshire life to Volumnia is a vast blank of
-overgrown house looking out upon trees, sighing, wringing their
-hands, bowing their heads, and casting their tears upon the
-window-panes in monotonous depressions. A labyrinth of grandeur, less
+For the rest, Lincolnshire life to [[Volumnia]] is a vast blank of
+overgrown [[house]] looking out upon trees, sighing, wringing their
+hands, bowing their heads, and casting their [[Tears|tears]] upon the
+[[Window|window]]-panes in monotonous depressions. A labyrinth of grandeur, less
 the property of an old family of human beings and their ghostly
 likenesses than of an old family of echoings and thunderings which
 start out of their hundred graves at every sound and go resounding
 through the building. A waste of unused passages and staircases in
-which to drop a comb upon a bedroom floor at night is to send a
-stealthy footfall on an errand through the house. A place where few
-people care to go about alone, where a maid screams if an ash drops
-from the fire, takes to crying at all times and seasons, becomes the
+which to drop a comb upon a bedroom floor at [[Night|night]] is to send a
+stealthy footfall on an errand through the [[house]]. A place where few
+people care to go about [[Alone|alone]], where a maid screams if an ash drops
+from the [[Fire|fire]], takes to crying at all times and [[Seasons|seasons]], becomes the
 victim of a low disorder of the spirits, and gives warning and
 departs.
 
 Thus Chesney Wold. With so much of itself abandoned to darkness and
-vacancy; with so little change under the summer shining or the wintry
-lowering; so sombre and motionless always—no flag flying now by day,
-no rows of lights sparkling by night; with no family to come and go,
+vacancy; with so little change under the [[Summer|summer]] shining or the wintry
+lowering; so sombre and motionless always—no [[Flag|flag]] flying now by day,
+no rows of lights sparkling by [[Night|night]]; with no family to come and go,
 no visitors to be the souls of pale cold shapes of rooms, no stir of
-life about it—passion and pride, even to the stranger’s eye, have
+life about it—passion and [[Pride|pride]], even to the stranger’s eye, have
 died away from the place in Lincolnshire and yielded it to dull
 repose.

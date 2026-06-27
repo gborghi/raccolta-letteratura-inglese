@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 24 (part 3)"
+title: "[[The Professor]] — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -56,9 +56,9 @@ unawares on a tender point. A sort of trouble momentarily darkened
 
 his eye, and I believe he filled up the transient pause succeeding his
 
-antagonist’s home-thrust, by a wish that some one did love him as
+antagonist’s [[Home|home]]-thrust, by a wish that some one did [[Love|love]] him as
 
-he would like to be loved--some one whose love he could unreservedly
+he would like to be loved--some one whose [[Love|love]] he could unreservedly
 
 return.
 
@@ -70,13 +70,13 @@ The lady pursued her temporary advantage.
 
 “If your world is a world without associations, Mr. Hunsden, I no longer
 
-wonder that you hate England so. I don’t clearly know what Paradise is,
+[[Wonder|wonder]] that you hate England so. I don’t clearly know what Paradise is,
 
 and what angels are; yet taking it to be the most glorious region I can
 
 conceive, and angels the most elevated existences--if one of them--if
 
-Abdiel the Faithful himself” (she was thinking of Milton) “were suddenly
+Abdiel the Faithful himself” (she was thinking of [[Milton]]) “were suddenly
 
 stripped of the faculty of association, I think he would soon rush forth
 
@@ -126,9 +126,9 @@ so?”
 
 
 
-“I should have thought no child would have asked that question,” replied
+“I should have thought no [[Child|child]] would have asked that question,” replied
 
-Hunsden, who never at any time gave information without reproving for
+Hunsden, who never at any [[Time|time]] gave information without reproving for
 
 stupidity those who asked it of him. “If you had been my pupil, as I
 
@@ -156,21 +156,21 @@ associations? Do you calculate that I am prepared to dwell only on what
 
 vice and degradation may be found in Alpine villages, and to leave
 
-quite out of my heart the social greatness of my countrymen, and our
+quite out of my heart the social [[Greatness|greatness]] of my countrymen, and our
 
-blood-earned freedom, and the natural glories of our mountains? You’re
+[[Blood|blood]]-earned [[Freedom|freedom]], and the natural glories of our [[Mountains|mountains]]? You’re
 
 mistaken--you’re mistaken.”
 
 
 
-“Social greatness? Call it what you will, your countrymen are sensible
+“Social [[Greatness|greatness]]? Call it what you will, your countrymen are sensible
 
 fellows; they make a marketable article of what to you is an abstract
 
-idea; they have, ere this, sold their social greatness and also their
+idea; they have, ere this, sold their social [[Greatness|greatness]] and also their
 
-blood-earned freedom to be the servants of foreign kings.”
+[[Blood|blood]]-earned [[Freedom|freedom]] to be the servants of foreign kings.”
 
 
 
@@ -198,7 +198,7 @@ accuse them of being perfidious: there is no justice in your dictums.”
 
 
 
-“There is truth.”
+“There is [[Truth|truth]].”
 
 
 
@@ -206,9 +206,9 @@ accuse them of being perfidious: there is no justice in your dictums.”
 
 unpractical woman, for you don’t acknowledge what really exists; you
 
-want to annihilate individual patriotism and national greatness as
+want to annihilate individual patriotism and national [[Greatness|greatness]] as
 
-an atheist would annihilate God and his own soul, by denying their
+an atheist would annihilate God and his own [[Soul|soul]], by denying their
 
 existence.”
 
@@ -216,27 +216,27 @@ existence.”
 
 “Where are you flying to? You are off at a tangent--I thought we were
 
-talking about the mercenary nature of the Swiss.”
+talking about the mercenary [[Nature|nature]] of the Swiss.”
 
 
 
 “We were--and if you proved to me that the Swiss are mercenary to-morrow
 
-(which you cannot do) I should love Switzerland still.”
+(which you cannot do) I should [[Love|love]] Switzerland still.”
 
 
 
 “You would be mad, then--mad as a March hare--to indulge in a passion
 
-for millions of shiploads of soil, timber, snow, and ice.”
+for millions of shiploads of soil, timber, [[Snow|snow]], and ice.”
 
 
 
-“Not so mad as you who love nothing.”
+“Not so mad as you who [[Love|love]] nothing.”
 
 
 
-“There’s a method in my madness; there’s none in yours.”
+“There’s a method in my [[Madness|madness]]; there’s none in yours.”
 
 
 
@@ -246,11 +246,11 @@ the refuse, by way of turning it to what you call use.”
 
 
 
-“You cannot reason at all,” said Hunsden; “there is no logic in you.”
+“You cannot reason at all,” said Hunsden; “there is no [[logic]] in you.”
 
 
 
-“Better to be without logic than without feeling,” retorted Frances, who
+“Better to be without [[logic]] than without feeling,” retorted Frances, who
 
 was now passing backwards and forwards from her cupboard to the table,
 

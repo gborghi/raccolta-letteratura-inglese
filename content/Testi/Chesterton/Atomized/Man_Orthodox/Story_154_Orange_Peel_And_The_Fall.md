@@ -16,8 +16,8 @@ tags:
 
 ORANGE PEEL AND THE FALL
 
-This life of ours and the great pathway of history and civilization
-is a road entirely carpeted with orange peel.  The obstacles
+This life of ours and the great pathway of [[history]] and civilization
+is a [[Road|road]] entirely carpeted with orange peel.  The obstacles
 are so numerous, the complications are so varied that we live,
 as it were, in an eternal crisis, in an immortal catastrophe.
 We are permanently in an exceptional state; nay, we are permanently

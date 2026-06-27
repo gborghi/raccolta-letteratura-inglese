@@ -1,5 +1,5 @@
 ---
-title: "incredulity Fr Brown — The Dagger with Wings (part 1)"
+title: "[[Incredulity|incredulity]] Fr Brown — The Dagger with Wings (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 SIX: The Dagger with Wings
 
-FATHER BROWN, at one period of his life, found it difficult to hang his
+[[Father Brown|FATHER BROWN]], at one period of his life, found it difficult to hang his
 hat on a hat - peg without repressing a slight shudder. The origin of
 this idiosyncrasy was indeed a mere detail in much more complicated
 events; but it was perhaps the only detail that remained to him in his
@@ -33,22 +33,22 @@ the traditional religion of their native land. It would be hard to say
 whether their creed is a very superficial varnish or a very fundamental
 substratum; but most probably it is both, with a mass of materialism in
 between. Anyhow, when he thought that matters of that sort might be
-involved, he asked Father Brown to call, though he made no pretence of
+involved, he asked [[Father Brown]] to call, though he made no pretence of
 preference for that aspect of them.
 
 'I'm not sure I want you, you know,' was his greeting. 'I'm not sure
 about anything yet. I'm hanged if I can make out whether it's a case for
 a doctor, or a policeman, or a priest.'
 
-'Well,' said Father Brown with a smile, 'as I suppose you're both a
+'[[Well]],' said [[Father Brown]] with a smile, 'as I suppose you're both a
 policeman and a doctor, I seem to be rather in a minority.'
 
 'I admit you're what politicians call an instructed minority,' replied
 the doctor. 'I mean, I know you've had to do a little in our line as
-well as your own. But it's precious hard to say whether this business is
+[[Well|well]] as your own. But it's precious hard to say whether this business is
 in your line or ours, or merely in the line of the Commissioners in
 Lunacy. We've just had a message from a man living near here, in that
-white house on the hill, asking for protection against a murderous
+white [[house]] on the [[Hill|hill]], asking for protection against a murderous
 persecution. We've gone into the facts as far as we could, and perhaps
 I'd better tell you the story as it is supposed to have happened, from
 the beginning.
@@ -64,8 +64,8 @@ in all sorts of dingy occultism, including palmistry and astrology, and
 his three sons say that Strake encouraged him in it. But they said a
 great many other things besides that. They said Strake was an amazing
 scoundrel, and especially an amazing liar; a genius in inventing lies on
-the spur of the moment, and telling them so as to deceive a detective.
-But that might very well be a natural prejudice, in the light of what
+the spur of the moment, and telling them so as to deceive a [[Detective|detective]].
+But that might very [[Well|well]] be a natural prejudice, in the light of what
 happened.
 
 Perhaps you can more or less imagine what happened. The old man left
@@ -74,7 +74,7 @@ real sons disputed the will. They said their father had been frightened
 into surrender and, not to put too fine a point on it, into gibbering
 idiocy. They said Strake had the strangest and most cunning ways of
 getting at him, in spite of the nurses and the family, and terrorizing
-him on his death - bed. Anyhow, they seemed to have proved something
+him on his [[Death|death]] - bed. Anyhow, they seemed to have proved something
 about the dead man's mental condition, for the courts set aside the will
 and the sons inherited. Strake is said to have broken out in the most
 dreadful fashion, and sworn he would kill all three of them, one after
@@ -84,12 +84,12 @@ protection.'
 
 'Third and last,' said the priest, looking at him gravely.
 
-'Yes,' said Boyne. 'The other two are dead.' There was a silence before
-he continued. 'That is where the doubt comes in. There is no proof they
+'Yes,' said Boyne. 'The other two are dead.' There was a [[Silence|silence]] before
+he continued. 'That is where the [[Doubt|doubt]] comes in. There is no proof they
 were murdered, but they might possibly have been. The eldest, who took
-up his position as squire, was supposed to have committed suicide in his
-garden. The second, who went into trade as a manufacturer, was knocked
-onthe head by the machinery in his factory; he might very well have
+up his position as squire, was supposed to have committed [[suicide]] in his
+[[Garden|garden]]. The second, who went into trade as a manufacturer, was knocked
+onthe head by the machinery in his factory; he might very [[Well|well]] have
 taken a false step and fallen. But if Strake did kill them, he is
 certainly very cunning in his way of getting to work and getting away.
 On the other hand, it's more than likely that the whole thing is a mania
@@ -97,27 +97,27 @@ of conspiracy founded on a coincidence. Look here, what I want is this.
 I want somebody of sense, who isn't an official, to go up and have a
 talk with this Mr Arnold Aylmer and form an impression of him. You know
 what a man with a delusion is like, and how a man looks when he is
-telling the truth. I want you to be the advance guard, before we take
+telling the [[Truth|truth]]. I want you to be the advance guard, before we take
 the matter up.'
 
-'It seems rather odd,' said Father Brown, 'that you haven't had to take
+'It seems rather odd,' said [[Father Brown]], 'that you haven't had to take
 it up before. If there is anything in this business, it seems to have
-been going on for a good time. Is there any particular reason why he
-should send for you just now, any more than any other time?'
+been going on for a good [[Time|time]]. Is there any particular reason why he
+should send for you just now, any more than any other [[Time|time]]?'
 
 'That had occurred to me, as you may imagine,' answered Dr Boyne. 'He
 does give a reason, but I confess it is one of the things that make me
-wonder whether the whole thing isn't only the whim of some half - witted
+[[Wonder|wonder]] whether the whole thing isn't only the whim of some half - witted
 crank. He declared that all his servants have suddenly gone on strike
 and left him, so that he is obliged to call on the police to look after
-his house. And on making inquiries, I certainly do find that there has
-been a general exodus of servants from that house on the hill; and of
+his [[house]]. And on making inquiries, I certainly do find that there has
+been a general exodus of servants from that [[house]] on the [[Hill|hill]]; and of
 course the town is full of tales, very one - sided tales I dare say.
 Their account of it seems to be that their employer had become quite
 impossible in his fidgets and fears and exactions; that he wanted them
-to guard the house like sentries, or sit up like night nurses in a
-hospital; that they could never be left alone because he must never be
-left alone. So they all announced in a loud voice that he was a lunatic,
+to guard the [[house]] like sentries, or sit up like [[Night|night]] nurses in a
+hospital; that they could never be left [[Alone|alone]] because he must never be
+left [[Alone|alone]]. So they all announced in a loud voice that he was a lunatic,
 and left. Of course that does not prove he is a lunatic; but it seems
 rather rum nowadays for a man to expect his valet or his parlour - maid
 to act as an armed guard.'

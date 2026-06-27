@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 19 (part 3)"
+title: "[[The Professor]] — Chapter 19 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,7 +20,7 @@ street. I remember that, feeling a little hungry, and not desiring to
 
 go back and take my share of the “gouter,” now on the refectory-table
 
-at Pelet’s--to wit, pistolets and water--I stepped into a baker’s and
+at Pelet’s--to wit, pistolets and [[Water|water]]--I stepped into a baker’s and
 
 refreshed myself on a COUC(?)--it is a Flemish word, I don’t know how
 
@@ -28,27 +28,27 @@ to spell it--A CORINTHE-ANGLICE, a currant bun--and a cup of coffee; and
 
 then I strolled on towards the Porte de Louvain. Very soon I was out of
 
-the city, and slowly mounting the hill, which ascends from the gate, I
+the [[City|city]], and slowly mounting the [[Hill|hill]], which ascends from the gate, I
 
-took my time; for the afternoon, though cloudy, was very sultry, and not
+took my [[Time|time]]; for the afternoon, though cloudy, was very sultry, and not
 
 a breeze stirred to refresh the atmosphere. No inhabitant of Brussels
 
-need wander far to search for solitude; let him but move half a league
+need wander far to search for [[Solitude|solitude]]; let him but move half a league
 
-from his own city and he will find her brooding still and blank over
+from his own [[City|city]] and he will find her brooding still and blank over
 
 the wide fields, so drear though so fertile, spread out treeless and
 
 trackless round the capital of Brabant. Having gained the summit of the
 
-hill, and having stood and looked long over the cultured but lifeless
+[[Hill|hill]], and having stood and looked long over the cultured but lifeless
 
-campaign, I felt a wish to quit the high road, which I had hitherto
+campaign, I felt a wish to quit the high [[Road|road]], which I had hitherto
 
 followed, and get in among those tilled grounds--fertile as the beds
 
-of a Brobdignagian kitchen-garden--spreading far and wide even to the
+of a Brobdignagian kitchen-[[Garden|garden]]--spreading far and wide even to the
 
 boundaries of the horizon, where, from a dusk green, distance changed
 
@@ -66,11 +66,11 @@ thickly planted nursery of yew and cypress, for of that species were
 
 the branches resting on the pale parapets, and crowding gloomily about a
 
-massive cross, planted doubtless on a central eminence and extending its
+massive [[Cross|cross]], planted doubtless on a central eminence and extending its
 
 arms, which seemed of black marble, over the summits of those sinister
 
-trees. I approached, wondering to what house this well-protected garden
+trees. I approached, wondering to what [[house]] this [[Well|well]]-protected [[Garden|garden]]
 
 appertained; I turned the angle of the wall, thinking to see some
 
@@ -84,11 +84,11 @@ its hinges, for it groaned dolefully as they revolved. Thick planting
 
 embowered the entrance. Passing up the avenue, I saw objects on
 
-each hand which, in their own mute language of inscription and sign,
+each hand which, in their own mute language of [[Inscription|inscription]] and sign,
 
 explained clearly to what abode I had made my way. This was the
 
-house appointed for all living; crosses, monuments, and garlands of
+[[house]] appointed for all living; crosses, monuments, and garlands of
 
 everlastings announced, “The Protestant Cemetery, outside the gate of
 
@@ -100,23 +100,23 @@ The place was large enough to afford half an hour’s strolling without
 
 the monotony of treading continually the same path; and, for those who
 
-love to peruse the annals of graveyards, here was variety of inscription
+[[Love|love]] to peruse the annals of graveyards, here was variety of [[Inscription|inscription]]
 
-enough to occupy the attention for double or treble that space of time.
+enough to occupy the attention for [[Double|double]] or treble that space of [[Time|time]].
 
 Hither people of many kindreds, tongues, and nations, had brought their
 
 dead for interment; and here, on pages of stone, of marble, and of
 
-brass, were written names, dates, last tributes of pomp or love, in
+brass, were written names, dates, last tributes of pomp or [[Love|love]], in
 
 English, in French, in German, and Latin. Here the Englishman had
 
-erected a marble monument over the remains of his Mary Smith or Jane
+erected a marble monument over the remains of his Mary [[smith|Smith]] or Jane
 
 Brown, and inscribed it only with her name. There the French widower had
 
-shaded the grave of his Elmire or Celestine with a brilliant thicket
+shaded the [[Grave|grave]] of his Elmire or Celestine with a brilliant thicket
 
 of roses, amidst which a little tablet rising, bore an equally bright
 
@@ -126,7 +126,7 @@ mourned after its own fashion; and how soundless was the mourning of
 
 all! My own tread, though slow and upon smooth-rolled paths, seemed to
 
-startle, because it formed the sole break to a silence otherwise total.
+startle, because it formed the sole break to a [[Silence|silence]] otherwise total.
 
 Not only the winds, but the very fitful, wandering airs, were that
 
@@ -142,11 +142,11 @@ nestled a warm breathless gloom, out of which the cypresses stood up
 
 straight and mute, above which the willows hung low and still; where
 
-the flowers, as languid as fair, waited listless for night dew or
+the [[Flowers|flowers]], as languid as fair, waited listless for [[Night|night]] dew or
 
 thunder-shower; where the tombs, and those they hid, lay impassible to
 
-sun or shadow, to rain or drought.
+sun or [[Shadow|shadow]], to rain or drought.
 
 
 
@@ -164,7 +164,7 @@ soon discerned it was a living thing, and a human thing; and, drawing
 
 nearer, I perceived it was a woman, pacing slowly to and fro, and
 
-evidently deeming herself alone as I had deemed myself alone, and
+evidently deeming herself [[Alone|alone]] as I had deemed myself [[Alone|alone]], and
 
 meditating as I had been meditating. Ere long she returned to a seat
 
@@ -176,16 +176,16 @@ the white wall before her, and a little stone set up against the wall,
 
 and, at the foot of the stone, was an allotment of turf freshly turned
 
-up, a new-made grave. I put on my spectacles, and passed softly close
+up, a new-made [[Grave|grave]]. I put on my spectacles, and passed softly close
 
-behind her; glancing at the inscription on the stone, I read, “Julienne
+behind her; glancing at the [[Inscription|inscription]] on the stone, I read, “Julienne
 
 Henri, died at Brussels, aged sixty. August 10th, 18--.” Having perused
 
-the inscription, I looked down at the form sitting bent and thoughtful
+the [[Inscription|inscription]], I looked down at the form sitting bent and thoughtful
 
 just under my eyes, unconscious of the vicinity of any living thing; it
 
 was a slim, youthful figure in mourning apparel of the plainest black
 
-stuff, with a little simple, black crape bonnet; I felt, as well as
+stuff, with a little simple, black crape bonnet; I felt, as [[Well|well]] as

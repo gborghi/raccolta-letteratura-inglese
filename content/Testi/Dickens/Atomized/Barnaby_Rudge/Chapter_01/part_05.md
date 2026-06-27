@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 1 (part 5)"
+title: "[[Barnaby Rudge]] — Chapter 1 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 By this flickering light, which made the old room, with its heavy
 timbers and panelled walls, look as if it were built of polished
-ebony--the wind roaring and howling without, now rattling the latch
+ebony--the [[Wind|wind]] roaring and howling without, now rattling the latch
 and creaking the hinges of the stout oaken door, and now driving at
 the casement as though it would beat it in--by this light, and under
 circumstances so auspicious, Solomon Daisy began his tale:
@@ -41,7 +41,7 @@ years ago was the owner of the Warren, which, as Joe has said--not that
 you remember it, Joe, for a boy like you can’t do that, but because you
 have often heard me say so--was then a much larger and better place, and
 a much more valuable property than it is now. His lady was lately
-dead, and he was left with one child--the Miss Haredale you have been
+dead, and he was left with one [[Child|child]]--the Miss Haredale you have been
 inquiring about--who was then scarcely a year old.’
 
 Although the speaker addressed himself to the man who had shown so much
@@ -55,7 +55,7 @@ show his sense of such indecent behaviour.
 
 ‘Mr Haredale,’ said Solomon, turning his back upon the strange man,
 ‘left this place when his lady died, feeling it lonely like, and went
-up to London, where he stopped some months; but finding that place as
+up to [[London]], where he stopped some months; but finding that place as
 lonely as this--as I suppose and have always heard say--he suddenly
 came back again with his little girl to the Warren, bringing with him
 besides, that day, only two women servants, and his steward, and a
@@ -67,23 +67,23 @@ enjoyment of the tobacco and strong pulling at the pipe, and afterwards
 with increasing distinctness:
 
 ‘--Bringing with him two women servants, and his steward, and a
-gardener. The rest stopped behind up in London, and were to follow next
-day. It happened that that night, an old gentleman who lived at Chigwell
+gardener. The rest stopped behind up in [[London]], and were to follow next
+day. It happened that that [[Night|night]], an old gentleman who lived at Chigwell
 Row, and had long been poorly, deceased, and an order came to me at half
-after twelve o’clock at night to go and toll the passing-bell.’
+after twelve o’[[Clock|clock]] at [[Night|night]] to go and toll the passing-bell.’
 
 There was a movement in the little group of listeners, sufficiently
 indicative of the strong repugnance any one of them would have felt to
-have turned out at such a time upon such an errand. The clerk felt and
+have turned out at such a [[Time|time]] upon such an errand. The clerk felt and
 understood it, and pursued his theme accordingly.
 
-‘It WAS a dreary thing, especially as the grave-digger was laid up in
+‘It WAS a dreary thing, especially as the [[Grave|grave]]-digger was laid up in
 his bed, from long working in a damp soil and sitting down to take his
 dinner on cold tombstones, and I was consequently under obligation to go
-alone, for it was too late to hope to get any other companion. However,
+[[Alone|alone]], for it was too late to [[Hope|hope]] to get any other companion. However,
 I wasn’t unprepared for it; as the old gentleman had often made it a
 request that the bell should be tolled as soon as possible after the
-breath was out of his body, and he had been expected to go for some
+breath was out of his [[Body|body]], and he had been expected to go for some
 days. I put as good a face upon it as I could, and muffling myself up
 (for it was mortal cold), started out with a lighted lantern in one hand
 and the key of the church in the other.’
@@ -95,66 +95,66 @@ to Joe whether this was the case. Joe shaded his eyes with his hand and
 peered into the corner, but could make out nothing, and so shook his
 head.
 
-‘It was just such a night as this; blowing a hurricane, raining heavily,
+‘It was just such a [[Night|night]] as this; blowing a hurricane, raining heavily,
 and very dark--I often think now, darker than I ever saw it before or
 since; that may be my fancy, but the houses were all close shut and the
 folks in doors, and perhaps there is only one other man who knows how
 dark it really was. I got into the church, chained the door back so that
-it should keep ajar--for, to tell the truth, I didn’t like to be shut
-in there alone--and putting my lantern on the stone seat in the little
+it should keep ajar--for, to tell the [[Truth|truth]], I didn’t like to be shut
+in there [[Alone|alone]]--and putting my lantern on the stone seat in the little
 corner where the bell-rope is, sat down beside it to trim the candle.
 
 ‘I sat down to trim the candle, and when I had done so I could not
 persuade myself to get up again, and go about my work. I don’t know how
-it was, but I thought of all the ghost stories I had ever heard, even
+it was, but I thought of all the [[Ghost|ghost]] stories I had ever heard, even
 those that I had heard when I was a boy at school, and had forgotten
 long ago; and they didn’t come into my mind one after another, but
 all crowding at once, like. I recollected one story there was in the
-village, how that on a certain night in the year (it might be that very
-night for anything I knew), all the dead people came out of the ground
+village, how that on a certain [[Night|night]] in the year (it might be that very
+[[Night|night]] for anything I knew), all the dead people came out of the ground
 and sat at the heads of their own graves till morning. This made me
 think how many people I had known, were buried between the church-door
 and the churchyard gate, and what a dreadful thing it would be to have
 to pass among them and know them again, so earthy and unlike themselves.
-I had known all the niches and arches in the church from a child; still,
+I had known all the niches and arches in the church from a [[Child|child]]; still,
 I couldn’t persuade myself that those were their natural shadows which
 I saw on the pavement, but felt sure there were some ugly figures hiding
 among ‘em and peeping out. Thinking on in this way, I began to think of
 the old gentleman who was just dead, and I could have sworn, as I looked
 up the dark chancel, that I saw him in his usual place, wrapping his
-shroud about him and shivering as if he felt it cold. All this time I
+shroud about him and shivering as if he felt it cold. All this [[Time|time]] I
 sat listening and listening, and hardly dared to breathe. At length
 I started up and took the bell-rope in my hands. At that minute there
 rang--not that bell, for I had hardly touched the rope--but another!
 
 ‘I heard the ringing of another bell, and a deep bell too, plainly. It
-was only for an instant, and even then the wind carried the sound away,
-but I heard it. I listened for a long time, but it rang no more. I had
+was only for an instant, and even then the [[Wind|wind]] carried the sound away,
+but I heard it. I listened for a long [[Time|time]], but it rang no more. I had
 heard of corpse candles, and at last I persuaded myself that this must
 be a corpse bell tolling of itself at midnight for the dead. I tolled my
-bell--how, or how long, I don’t know--and ran home to bed as fast as I
+bell--how, or how long, I don’t know--and ran [[Home|home]] to bed as fast as I
 could touch the ground.
 
-‘I was up early next morning after a restless night, and told the story
+‘I was up early next morning after a restless [[Night|night]], and told the story
 to my neighbours. Some were serious and some made light of it; I don’t
 think anybody believed it real. But, that morning, Mr Reuben Haredale
 was found murdered in his bedchamber; and in his hand was a piece of the
 cord attached to an alarm-bell outside the roof, which hung in his room
-and had been cut asunder, no doubt by the murderer, when he seized it.
+and had been cut asunder, no [[Doubt|doubt]] by the murderer, when he seized it.
 
 ‘That was the bell I heard.
 
 ‘A bureau was found opened, and a cash-box, which Mr Haredale had
 brought down that day, and was supposed to contain a large sum of money,
 was gone. The steward and gardener were both missing and both suspected
-for a long time, but they were never found, though hunted far and wide.
+for a long [[Time|time]], but they were never found, though hunted far and wide.
 And far enough they might have looked for poor Mr Rudge the steward,
-whose body--scarcely to be recognised by his clothes and the watch and
-ring he wore--was found, months afterwards, at the bottom of a piece of
-water in the grounds, with a deep gash in the breast where he had been
+whose [[Body|body]]--scarcely to be recognised by his clothes and the watch and
+ring he wore--was found, months afterwards, at the [[Bottom|bottom]] of a piece of
+[[Water|water]] in the grounds, with a deep gash in the breast where he had been
 stabbed with a knife. He was only partly dressed; and people all agreed
 that he had been sitting up reading in his own room, where there were
-many traces of blood, and was suddenly fallen upon and killed before his
+many traces of [[Blood|blood]], and was suddenly fallen upon and killed before his
 master.
 
 Everybody now knew that the gardener must be the murderer, and though

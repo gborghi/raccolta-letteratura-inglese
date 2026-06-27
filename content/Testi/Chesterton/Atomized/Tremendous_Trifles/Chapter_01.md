@@ -16,17 +16,17 @@ tags:
 
 Chapter
       I	Tremendous Trifles
-     II	A Piece of Chalk
+     II	A Piece of [[chalk|Chalk]]
     III	The Secret of a Train
      IV	The Perfect Game
-      V	The Extraordinary Cabman
+      V	The Extraordinary [[cabman|Cabman]]
      VI	An Accident
     VII	The Advantages of Having One Leg
    VIII	The End of the World
      IX	In the Place de la Bastille
       X	On Lying in Bed
      XI	The Twelve Men
-    XII	The Wind and the Trees
+    XII	The [[Wind]] and the Trees
    XIII	The Dickensian
     XIV	In Topsy-Turvy Land
      XV	What I Found in My Pocket
@@ -38,18 +38,18 @@ Chapter
     XXI	The Great Man
    XXII	The Orthodox Barber
   XXIII	The Toy Theatre
-   XXIV	A Tragedy of Twopence
+   XXIV	A [[Tragedy]] of Twopence
     XXV	A Cab Ride Across Country
    XXVI	The Two Noises
   XXVII	Some Policemen and a Moral
- XXVIII	The Lion
+ XXVIII	The [[Lion]]
    XXIX	Humanity: An Interlude
-    XXX	The Little Birds Who Won't Sing
-   XXXI	The Riddle of the Ivy
+    XXX	The Little [[Birds]] Who Won't Sing
+   XXXI	The [[Riddle]] of the Ivy
   XXXII	The Travellers in State
  XXXIII	The Prehistoric Railway Station
-  XXXIV	The Diabolist
+  XXXIV	The [[diabolist|Diabolist]]
    XXXV	A Glimpse of My Country
   XXXVI	A Somewhat Improbable Story
- XXXVII	The Shop of Ghosts
+ XXXVII	The Shop of [[Ghosts]]
 XXXVIII The Ballade of a Strange Town XXXIX The Mystery of a Pageant

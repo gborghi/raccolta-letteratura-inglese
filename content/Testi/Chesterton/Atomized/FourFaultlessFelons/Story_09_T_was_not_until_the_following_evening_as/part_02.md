@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T was not until the following evening, as already noted, that the news (part 2)"
+title: "[[FourFaultlessFelons]] — T was not until the following evening, as already noted, that the news (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -16,9 +16,9 @@ tags:
 
 Pentapolis, at which he made an eloquent speech, which must have reached
 
-its beautiful peroration about the time when Tallboys was being shot at,
+its beautiful peroration about the [[Time|time]] when Tallboys was being shot at,
 
-here at the corner of the road."
+here at the corner of the [[Road|road]]."
 
 
 
@@ -54,9 +54,9 @@ would explain and dispose of the whole incident, and dismiss it from her
 
 mind along with another disturbing but hardly conscious thought. Now that
 
-the criminal had again become a nameless shadow, he began to haunt her
+the criminal had again become a nameless [[Shadow|shadow]], he began to haunt her
 
-mind with dreadful hints of identity and she had spasms of fear, in which
+mind with dreadful hints of [[Identity|identity]] and she had spasms of [[Fear|fear]], in which
 
 that shadowy figure was suddenly fitted with a face.
 
@@ -64,13 +64,13 @@ that shadowy figure was suddenly fitted with a face.
 
 As has been already noted, Barbara Traill was a little morbid about her
 
-brother and the tragedy of the Traills. She was an omnivorous reader; she
+brother and the [[Tragedy|tragedy]] of the Traills. She was an omnivorous reader; she
 
 had been the sort of schoolgirl who is always found in a corner with a
 
 book. And this means generally, under modern conditions, that she read
 
-everything she could not understand some time before she read anything
+everything she could not understand some [[Time|time]] before she read anything
 
 that she could. Her mind was a hotch-potch of popular science about
 
@@ -86,7 +86,7 @@ been publicly insulted, and even crazily threatened, by her brother.
 
 
 
-That sort of psychological poison works itself deeper and deeper into the
+That sort of psychological [[Poison|poison]] works itself deeper and deeper into the
 
 brain. Barbara's broodings branched and thickened like a dark forest; and
 
@@ -96,13 +96,13 @@ really a maniac and a murderer. The unnatural generalizations of the
 
 books she had read pushed her farther and farther. If her brother, why
 
-not her sister? If her sister, why not herself? Here memory exaggerated
+not her sister? If her sister, why not herself? Here [[Memory|memory]] exaggerated
 
 and distorted the distracted demeanour of her sister in the
 
-flower-garden, till she could almost fancy that Olive had torn up the
+flower-[[Garden|garden]], till she could almost fancy that Olive had torn up the
 
-flowers with her teeth. As is always the case in such unbalanced worry,
+[[Flowers|flowers]] with her teeth. As is always the case in such unbalanced worry,
 
 all sorts of accidents took on a terrible significance. Her sister had
 
@@ -122,7 +122,7 @@ shock, so that she almost cried aloud when she thought of it. Meanwhile
 
 the rest of her mind went round and round in the iron circle of all such
 
-logic from hell. She told herself again and again that she was being
+[[logic]] from hell. She told herself again and again that she was being
 
 morbid, and then told herself again and again that she was only morbid
 
@@ -130,7 +130,7 @@ because she was mad. But she was not in the least mad, she was only
 
 young, and thousands of young people go through such a phase of
 
-nightmare, and nobody knows or helps.
+[[nightmare]], and nobody knows or helps.
 
 
 
@@ -138,7 +138,7 @@ But she was moved with a curious impulse in the search for help, and it
 
 was the same impulse that had driven her back across the moonlit glade to
 
-the wooden hut upon the hill. She was actually mounting that hill again,
+the wooden hut upon the [[Hill|hill]]. She was actually mounting that [[Hill|hill]] again,
 
 when she met John Hume coming down.
 
@@ -156,13 +156,13 @@ of itself.
 
 "So there it is," she said at the end of her impetuous monologue. "I
 
-began by being quite sure that poor Tom had done it. But by this time I
+began by being quite sure that poor Tom had done it. But by this [[Time|time]] I
 
 feel as if I might have done it myself."
 
 
 
-"Well, that's logical enough," agreed Hume. "It's about as sensible to
+"[[Well]], that's logical enough," agreed Hume. "It's about as sensible to
 
 say that you are guilty as that Tom is. And about as sensible to say the
 
@@ -196,19 +196,19 @@ call a protected neurotic, which is their long-winded way of saying he
 
 has an extra skin that the Public School varnish won't stick on, but runs
 
-off like water off a duck's back. So much the better for him, as likely
+off like [[Water|water]] off a duck's back. So much the better for him, as likely
 
 as not, in the long run. But even suppose he did remain a little more
 
-like a child than the rest of us. Is there anything particularly horrible
+like a [[Child|child]] than the rest of us. Is there anything particularly horrible
 
-about a child? Do you shudder when you think of your dog, merely because
+about a [[Child|child]]? Do you shudder when you think of your dog, merely because
 
 he's happy and fond of you and yet can't do the forty-eighth proposition
 
-of Euclid? Being a dog is not a disease. Being a child is not a disease.
+of Euclid? Being a dog is not a disease. Being a [[Child|child]] is not a disease.
 
-Even remaining a child is not a disease; don't you sometimes wish we
+Even remaining a [[Child|child]] is not a disease; don't you sometimes wish we
 
 could all remain children?"
 

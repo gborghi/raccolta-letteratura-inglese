@@ -39,9 +39,9 @@ is one of the easiest achievements in life to offend your family when
 your family want to get rid of you. Fledgeby’s mother’s family had
 been very much offended with her for being poor, and broke with her
 for becoming comparatively rich. Fledgeby’s mother’s family was the
-Snigsworth family. She had even the high honour to be cousin to Lord
+Snigsworth family. She had even the high [[Honour|honour]] to be cousin to Lord
 Snigsworth—so many times removed that the noble Earl would have had no
-compunction in removing her one time more and dropping her clean outside
+compunction in removing her one [[Time|time]] more and dropping her clean outside
 the cousinly pale; but cousin for all that.
 
 Among her pre-matrimonial transactions with Fledgeby’s father,
@@ -53,12 +53,12 @@ say objective interchanges of boot-jacks, backgammon boards, and other
 such domestic missiles, between Fledgeby’s father and Fledgeby’s mother,
 and those led to Fledgeby’s mother spending as much money as she
 could, and to Fledgeby’s father doing all he couldn’t to restrain her.
-Fledgeby’s childhood had been, in consequence, a stormy one; but the
-winds and the waves had gone down in the grave, and Fledgeby flourished
-alone.
+Fledgeby’s [[Childhood|childhood]] had been, in consequence, a stormy one; but the
+winds and the waves had gone down in the [[Grave|grave]], and Fledgeby flourished
+[[Alone|alone]].
 
 He lived in chambers in the Albany, did Fledgeby, and maintained a
-spruce appearance. But his youthful fire was all composed of sparks from
+spruce appearance. But his youthful [[Fire|fire]] was all composed of sparks from
 the grindstone; and as the sparks flew off, went out, and never warmed
 anything, be sure that Fledgeby had his tools at the grindstone, and
 turned it with a wary eye.
@@ -98,7 +98,7 @@ the same thing. Now, Lammle, I am never going to answer questions.’
 ‘Never mind. It seemed so, but things are not always what they seem. I
 saw a man examined as a witness in Westminster Hall. Questions put to
 him seemed the simplest in the world, but turned out to be anything
-rather than that, after he had answered ’em. Very well. Then he should
+rather than that, after he had answered ’em. Very [[Well|well]]. Then he should
 have held his tongue. If he had held his tongue he would have kept out
 of scrapes that he got into.’
 
@@ -131,23 +131,23 @@ Fledgeby, should I have proposed our little compact of advantage, to my
 Fledgeby?’
 
 ‘Ah!’ remarked Fascination, shaking his head slyly. ‘But I am not to
-be got at in that way. I am not vain. That sort of vanity don’t pay,
+be got at in that way. I am not vain. That sort of [[Vanity|vanity]] don’t pay,
 Lammle. No, no, no. Compliments only make me hold my tongue the more.’
 
 Alfred Lammle pushed his plate away (no great sacrifice under the
 circumstances of there being so little in it), thrust his hands in his
-pockets, leaned back in his chair, and contemplated Fledgeby in silence.
+pockets, leaned back in his chair, and contemplated Fledgeby in [[Silence|silence]].
 Then he slowly released his left hand from its pocket, and made that
-bush of his whiskers, still contemplating him in silence. Then he slowly
-broke silence, and slowly said: ‘What—the—Dev-il is this fellow about
+bush of his whiskers, still contemplating him in [[Silence|silence]]. Then he slowly
+broke [[Silence|silence]], and slowly said: ‘What—the—Dev-il is this fellow about
 this morning?’
 
 ‘Now, look here, Lammle,’ said Fascination Fledgeby, with the meanest
 of twinkles in his meanest of eyes: which were too near together, by
-the way: ‘look here, Lammle; I am very well aware that I didn’t show to
-advantage last night, and that you and your wife—who, I consider, is
+the way: ‘look here, Lammle; I am very [[Well|well]] aware that I didn’t show to
+advantage last [[Night|night]], and that you and your wife—who, I consider, is
 a very clever woman and an agreeable woman—did. I am not calculated to
-show to advantage under that sort of circumstances. I know very well you
+show to advantage under that sort of circumstances. I know very [[Well|well]] you
 two did show to advantage, and managed capitally. But don’t you on that
 account come talking to me as if I was your doll and puppet, because I
 am not.

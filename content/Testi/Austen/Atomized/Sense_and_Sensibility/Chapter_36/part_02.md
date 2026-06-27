@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 36 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 36 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -68,7 +68,7 @@ occasion, to her brother’s carriage; which they were ready to enter
 
 five minutes after it stopped at the door, a punctuality not very
 
-agreeable to their sister-in-law, who had preceded them to the house of
+agreeable to their sister-in-law, who had preceded them to the [[house]] of
 
 her acquaintance, and was there hoping for some delay on their part
 
@@ -124,11 +124,11 @@ own merit, than on the merit of his nearest relations! For then his
 
 brother’s bow must have given the finishing stroke to what the
 
-ill-humour of his mother and sister would have begun. But while she
+ill-[[Humour|humour]] of his mother and sister would have begun. But while she
 
 wondered at the difference of the two young men, she did not find that
 
-the emptiness and conceit of the one, put her out of all charity with
+the emptiness and conceit of the one, put her out of all [[Charity|charity]] with
 
 the modesty and worth of the other. Why they _were_ different, Robert
 
@@ -140,17 +140,17 @@ _gaucherie_ which he really believed kept him from mixing in proper
 
 society, he candidly and generously attributed it much less to any
 
-natural deficiency, than to the misfortune of a private education;
+natural deficiency, than to the misfortune of a private [[Education|education]];
 
 while he himself, though probably without any particular, any material
 
-superiority by nature, merely from the advantage of a public school,
+superiority by [[Nature|nature]], merely from the advantage of a public school,
 
-was as well fitted to mix in the world as any other man.
+was as [[Well|well]] fitted to mix in the world as any other man.
 
 
 
-“Upon my soul,” he added, “I believe it is nothing more; and so I often
+“Upon my [[Soul|soul]],” he added, “I believe it is nothing more; and so I often
 
 tell my mother, when she is grieving about it. ‘My dear Madam,’ I
 
@@ -160,9 +160,9 @@ irremediable, and it has been entirely your own doing. Why would you be
 
 persuaded by my uncle, Sir Robert, against your own judgment, to place
 
-Edward under private tuition, at the most critical time of his life? If
+Edward under private tuition, at the most critical [[Time|time]] of his life? If
 
-you had only sent him to Westminster as well as myself, instead of
+you had only sent him to Westminster as [[Well|well]] as myself, instead of
 
 sending him to Mr. Pratt’s, all this would have been prevented.’ This
 
@@ -192,7 +192,7 @@ surprising to him that anybody could live in Devonshire, without living
 
 near Dawlish. He bestowed his hearty approbation however on their
 
-species of house.
+species of [[house]].
 
 
 
@@ -202,11 +202,11 @@ is always so much comfort, so much elegance about them. And I protest,
 
 if I had any money to spare, I should buy a little land and build one
 
-myself, within a short distance of London, where I might drive myself
+myself, within a short distance of [[London]], where I might drive myself
 
-down at any time, and collect a few friends about me, and be happy. I
+down at any [[Time|time]], and collect a few friends about me, and be happy. I
 
-advise every body who is going to build, to build a cottage. My friend
+advise every [[Body|body]] who is going to build, to build a cottage. My friend
 
 Lord Courtland came to me the other day on purpose to ask my advice,
 

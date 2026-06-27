@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 45"
+title: "[[Oliver Twist]] — Chapter 45"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
  CHAPTER XLV.
-NOAH CLAYPOLE IS EMPLOYED BY FAGIN ON A SECRET MISSION
+NOAH CLAYPOLE IS EMPLOYED BY [[Fagin|FAGIN]] ON A SECRET MISSION
 
 
 The old man was up, betimes, next morning, and waited impatiently for
@@ -23,30 +23,30 @@ the appearance of his new associate, who after a delay that seemed
 interminable, at length presented himself, and commenced a voracious
 assault on the breakfast.
 
-“Bolter,” said Fagin, drawing up a chair and seating himself opposite
+“Bolter,” said [[Fagin]], drawing up a chair and seating himself opposite
 Morris Bolter.
 
-“Well, here I am,” returned Noah. “What’s the matter? Don’t yer ask me
+“[[Well]], here I am,” returned Noah. “What’s the matter? Don’t yer ask me
 to do anything till I have done eating. That’s a great fault in this
-place. Yer never get time enough over yer meals.”
+place. Yer never get [[Time|time]] enough over yer meals.”
 
-“You can talk as you eat, can’t you?” said Fagin, cursing his dear
-young friend’s greediness from the very bottom of his heart.
+“You can talk as you eat, can’t you?” said [[Fagin]], cursing his dear
+young friend’s greediness from the very [[Bottom|bottom]] of his heart.
 
 “Oh yes, I can talk. I get on better when I talk,” said Noah, cutting a
 monstrous slice of bread. “Where’s Charlotte?”
 
-“Out,” said Fagin. “I sent her out this morning with the other young
-woman, because I wanted us to be alone.”
+“Out,” said [[Fagin]]. “I sent her out this morning with the other young
+woman, because I wanted us to be [[Alone|alone]].”
 
 “Oh!” said Noah. “I wish yer’d ordered her to make some buttered toast
-first. Well. Talk away. Yer won’t interrupt me.”
+first. [[Well]]. Talk away. Yer won’t interrupt me.”
 
-There seemed, indeed, no great fear of anything interrupting him, as he
+There seemed, indeed, no great [[Fear|fear]] of anything interrupting him, as he
 had evidently sat down with a determination to do a great deal of
 business.
 
-“You did well yesterday, my dear,” said Fagin. “Beautiful! Six
+“You did [[Well|well]] yesterday, my dear,” said [[Fagin]]. “Beautiful! Six
 shillings and ninepence halfpenny on the very first day! The kinchin
 lay will be a fortune to you.”
 
@@ -56,16 +56,16 @@ Bolter.
 “No, no, my dear. The pint-pots were great strokes of genius: but the
 milk-can was a perfect masterpiece.”
 
-“Pretty well, I think, for a beginner,” remarked Mr. Bolter
+“Pretty [[Well|well]], I think, for a beginner,” remarked Mr. Bolter
 complacently. “The pots I took off airy railings, and the milk-can was
-standing by itself outside a public-house. I thought it might get rusty
+standing by itself outside a public-[[house]]. I thought it might get rusty
 with the rain, or catch cold, yer know. Eh? Ha! ha! ha!”
 
-Fagin affected to laugh very heartily; and Mr. Bolter having had his
+[[Fagin]] affected to laugh very heartily; and Mr. Bolter having had his
 laugh out, took a series of large bites, which finished his first hunk
 of bread and butter, and assisted himself to a second.
 
-“I want you, Bolter,” said Fagin, leaning over the table, “to do a
+“I want you, Bolter,” said [[Fagin]], leaning over the table, “to do a
 piece of work for me, my dear, that needs great care and caution.”
 
 “I say,” rejoined Bolter, “don’t yer go shoving me into danger, or
@@ -77,21 +77,21 @@ Jew; “it’s only to dodge a woman.”
 
 “An old woman?” demanded Mr. Bolter.
 
-“A young one,” replied Fagin.
+“A young one,” replied [[Fagin]].
 
-“I can do that pretty well, I know,” said Bolter. “I was a regular
+“I can do that pretty [[Well|well]], I know,” said Bolter. “I was a regular
 cunning sneak when I was at school. What am I to dodge her for? Not
 to—”
 
 “Not to do anything, but to tell me where she goes, who she sees, and,
 if possible, what she says; to remember the street, if it is a street,
-or the house, if it is a house; and to bring me back all the
+or the [[house]], if it is a [[house]]; and to bring me back all the
 information you can.”
 
 “What’ll yer give me?” asked Noah, setting down his cup, and looking
 his employer, eagerly, in the face.
 
-“If you do it well, a pound, my dear. One pound,” said Fagin, wishing
+“If you do it [[Well|well]], a pound, my dear. One pound,” said [[Fagin]], wishing
 to interest him in the scent as much as possible. “And that’s what I
 never gave yet, for any job of work where there wasn’t valuable
 consideration to be gained.”
@@ -104,54 +104,54 @@ consideration to be gained.”
 yer?”
 
 “She has found out some new friends, my dear, and I must know who they
-are,” replied Fagin.
+are,” replied [[Fagin]].
 
 “I see,” said Noah. “Just to have the pleasure of knowing them, if
 they’re respectable people, eh? Ha! ha! ha! I’m your man.”
 
-“I knew you would be,” cried Fagin, elated by the success of his
+“I knew you would be,” cried [[Fagin]], elated by the [[success]] of his
 proposal.
 
 “Of course, of course,” replied Noah. “Where is she? Where am I to wait
 for her? Where am I to go?”
 
 “All that, my dear, you shall hear from me. I’ll point her out at the
-proper time,” said Fagin. “You keep ready, and leave the rest to me.”
+proper [[Time|time]],” said [[Fagin]]. “You keep ready, and leave the rest to me.”
 
-That night, and the next, and the next again, the spy sat booted and
-equipped in his carter’s dress: ready to turn out at a word from Fagin.
-Six nights passed—six long weary nights—and on each, Fagin came home
+That [[Night|night]], and the next, and the next again, the spy sat booted and
+equipped in his carter’s dress: ready to turn out at a word from [[Fagin]].
+Six nights passed—six long weary nights—and on each, [[Fagin]] came [[Home|home]]
 with a disappointed face, and briefly intimated that it was not yet
-time. On the seventh, he returned earlier, and with an exultation he
-could not conceal. It was Sunday.
+[[Time|time]]. On the seventh, he returned earlier, and with an exultation he
+could not conceal. It was [[Sunday]].
 
-“She goes abroad tonight,” said Fagin, “and on the right errand, I’m
-sure; for she has been alone all day, and the man she is afraid of will
+“She goes abroad tonight,” said [[Fagin]], “and on the right errand, I’m
+sure; for she has been [[Alone|alone]] all day, and the man she is afraid of will
 not be back much before daybreak. Come with me. Quick!”
 
 Noah started up without saying a word; for the Jew was in a state of
-such intense excitement that it infected him. They left the house
+such intense excitement that it infected him. They left the [[house]]
 stealthily, and hurrying through a labyrinth of streets, arrived at
-length before a public-house, which Noah recognised as the same in
-which he had slept, on the night of his arrival in London.
+length before a public-[[house]], which Noah recognised as the same in
+which he had slept, on the [[Night|night]] of his arrival in [[London]].
 
-It was past eleven o’clock, and the door was closed. It opened softly
-on its hinges as Fagin gave a low whistle. They entered, without noise;
+It was past eleven o’[[Clock|clock]], and the door was closed. It opened softly
+on its hinges as [[Fagin]] gave a low whistle. They entered, without noise;
 and the door was closed behind them.
 
 Scarcely venturing to whisper, but substituting dumb show for words,
-Fagin, and the young Jew who had admitted them, pointed out the pane of
+[[Fagin]], and the young Jew who had admitted them, pointed out the pane of
 glass to Noah, and signed to him to climb up and observe the person in
 the adjoining room.
 
 “Is that the woman?” he asked, scarcely above his breath.
 
-Fagin nodded yes.
+[[Fagin]] nodded yes.
 
-“I can’t see her face well,” whispered Noah. “She is looking down, and
+“I can’t see her face [[Well|well]],” whispered Noah. “She is looking down, and
 the candle is behind her.”
 
-“Stay there,” whispered Fagin. He signed to Barney, who withdrew. In an
+“Stay there,” whispered [[Fagin]]. He signed to Barney, who withdrew. In an
 instant, the lad entered the room adjoining, and, under pretence of
 snuffing the candle, moved it in the required position, and, speaking
 to the girl, caused her to raise her face.
@@ -163,13 +163,13 @@ to the girl, caused her to raise her face.
 “I should know her among a thousand.”
 
 He hastily descended, as the room-door opened, and the girl came out.
-Fagin drew him behind a small partition which was curtained off, and
+[[Fagin]] drew him behind a small partition which was curtained off, and
 they held their breaths as she passed within a few feet of their place
 of concealment, and emerged by the door at which they had entered.
 
 “Hist!” cried the lad who held the door. “Dow.”
 
-Noah exchanged a look with Fagin, and darted out.
+Noah exchanged a look with [[Fagin]], and darted out.
 
 “To the left,” whispered the lad; “take the left had, and keep od the
 other side.”
@@ -179,6 +179,6 @@ figure, already at some distance before him. He advanced as near as he
 considered prudent, and kept on the opposite side of the street, the
 better to observe her motions. She looked nervously round, twice or
 thrice, and once stopped to let two men who were following close behind
-her, pass on. She seemed to gather courage as she advanced, and to walk
+her, pass on. She seemed to gather [[Courage|courage]] as she advanced, and to walk
 with a steadier and firmer step. The spy preserved the same relative
 distance between them, and followed: with his eye upon her.

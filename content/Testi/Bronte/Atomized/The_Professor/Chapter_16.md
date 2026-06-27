@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 15"
+title: "[[The Professor]] — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XV.
 
 
 
-SOME time elapsed before I again gave a lesson in the first class; the
+SOME [[Time|time]] elapsed before I again gave a lesson in the first class; the
 
 holiday of Whitsuntide occupied three days, and on the fourth it was the
 
@@ -32,9 +32,9 @@ they made as much noise as might have sufficed for fifty; they seemed
 
 very little under her control; three or four at once assailed her with
 
-importunate requirements; she looked harassed, she demanded silence, but
+importunate requirements; she looked harassed, she demanded [[Silence|silence]], but
 
-in vain. She saw me, and I read in her eye pain that a stranger should
+in vain. She saw me, and I read in her eye [[Pain|pain]] that a stranger should
 
 witness the insubordination of her pupils; she seemed to entreat
 
@@ -54,7 +54,7 @@ of the eldest and most turbulent of the lot--
 
 “Amelie Mullenberg, ask me no question, and request of me no assistance,
 
-for a week to come; during that space of time I will neither speak to
+for a week to come; during that space of [[Time|time]] I will neither speak to
 
 you nor help you.”
 
@@ -62,7 +62,7 @@ you nor help you.”
 
 The words were uttered with emphasis--nay, with vehemence--and a
 
-comparative silence followed; whether the calm was permanent, I know
+comparative [[Silence|silence]] followed; whether the calm was permanent, I know
 
 not; two doors now closed between me and the CARRE.
 
@@ -76,11 +76,11 @@ before her was standing Mdlle. Henri, in an attitude (as it seemed to
 
 me) of somewhat reluctant attention. The directress was knitting and
 
-talking at the same time. Amidst the hum of a large school-room, it was
+talking at the same [[Time|time]]. Amidst the hum of a large school-room, it was
 
 easy so to speak in the ear of one person, as to be heard by that person
 
-alone, and it was thus Mdlle. Reuter parleyed with her teacher. The face
+[[Alone|alone]], and it was thus Mdlle. Reuter parleyed with her teacher. The face
 
 of the latter was a little flushed, not a little troubled; there was
 
@@ -126,21 +126,21 @@ each in her appropriate key, lisped, stuttered, mumbled, and jabbered as
 
 usual; about fifteen had racked me in turn, and my auricular nerve was
 
-expecting with resignation the discords of the sixteenth, when a full,
+expecting with [[Resignation|resignation]] the discords of the sixteenth, when a full,
 
 though low voice, read out, in clear correct English.
 
 
 
-“On his way to Perth, the king was met by a Highland woman, calling
+“On his way to Perth, the [[King|king]] was met by a Highland woman, calling
 
 herself a prophetess; she stood at the side of the ferry by which he was
 
 about to travel to the north, and cried with a loud voice, ‘My lord the
 
-king, if you pass this water you will never return again alive!’”--(VIDE
+[[King|king]], if you pass this [[Water|water]] you will never return again alive!’”--(VIDE
 
-the HISTORY OF SCOTLAND).
+the [[history|HISTORY]] OF SCOTLAND).
 
 
 
@@ -148,11 +148,11 @@ I looked up in amazement; the voice was a voice of Albion; the accent
 
 was pure and silvery; it only wanted firmness, and assurance, to be the
 
-counterpart of what any well-educated lady in Essex or Middlesex might
+counterpart of what any [[Well|well]]-educated lady in Essex or Middlesex might
 
 have enounced, yet the speaker or reader was no other than Mdlle. Henri,
 
-in whose grave, joyless face I saw no mark of consciousness that she had
+in whose [[Grave|grave]], joyless face I saw no mark of consciousness that she had
 
 performed any extraordinary feat. No one else evinced surprise either.
 
@@ -172,13 +172,13 @@ visage with indifference, and ordered the next girl to proceed.
 
 When the lesson was over, I took advantage of the confusion caused by
 
-breaking up, to approach Mdlle. Henri; she was standing near the window
+breaking up, to approach Mdlle. Henri; she was standing near the [[Window|window]]
 
 and retired as I advanced; she thought I wanted to look out, and did
 
 not imagine that I could have anything to say to her. I took her
 
-exercise-book out of her hand; as I turned over the leaves I addressed
+exercise-book out of her hand; as I turned over the [[Leaves|leaves]] I addressed
 
 her:--
 
@@ -192,7 +192,7 @@ her:--
 
 
 
-“No! you read it well; you have been in England?”
+“No! you read it [[Well|well]]; you have been in England?”
 
 
 
@@ -240,7 +240,7 @@ Mdlle. Henri obeyed.
 
 “What splendid weather!” observed the directress cheerfully, glancing at
 
-the same time from the window. I assented and was withdrawing. “What of
+the same [[Time|time]] from the [[Window|window]]. I assented and was withdrawing. “What of
 
 your new pupil, monsieur?” continued she, following my retreating steps.
 
@@ -262,9 +262,9 @@ you relieve me by an assurance at least of its average power?”
 
 
 
-“I see no reason to doubt its average power, mademoiselle, but really
+“I see no reason to [[Doubt|doubt]] its average power, mademoiselle, but really
 
-I scarcely know her, and have not had time to study the calibre of her
+I scarcely know her, and have not had [[Time|time]] to study the calibre of her
 
 capacity. I wish you a very good afternoon.”
 
@@ -288,7 +288,7 @@ then but natural I should sympathize with her; and sometimes when I see
 
 the difficulty she has in managing pupils, I feel quite chagrined.
 
-I doubt not she does her best, her intentions are excellent; but,
+I [[Doubt|doubt]] not she does her best, her intentions are excellent; but,
 
 monsieur, she wants tact and firmness. I have talked to her on the
 
@@ -306,7 +306,7 @@ in particular, have so paramount a power of making yourself obeyed;
 
 a word of advice from you could not but do her good; even if she were
 
-sullen and headstrong (which I hope she is not), she would scarcely
+sullen and headstrong (which I [[Hope|hope]] she is not), she would scarcely
 
 refuse to listen to you; for my own part, I can truly say that I never
 
@@ -318,7 +318,7 @@ anxiety to me; they cannot impress the young ladies with sentiments of
 
 respect, nor restrain the levity natural to youth: in you, monsieur, I
 
-feel the most absolute confidence; try then to put this poor child
+feel the most absolute confidence; try then to put this poor [[Child|child]]
 
 into the way of controlling our giddy, high-spirited Brabantoises.
 
@@ -328,7 +328,7 @@ beware of inflicting a wound there. I reluctantly admit that in that
 
 particular she is blameably--some would say ridiculously--susceptible.
 
-I fear I have touched this sore point inadvertently, and she cannot get
+I [[Fear|fear]] I have touched this sore point inadvertently, and she cannot get
 
 over it.”
 
@@ -370,21 +370,21 @@ nets, and when, too, she was aware that I possessed her secret, for I
 
 had not scrupled to tell her as much: but the fact is that as it was
 
-her nature to doubt the reality and under-value the worth of modesty,
+her [[Nature|nature]] to [[Doubt|doubt]] the reality and under-value the worth of modesty,
 
 affection, disinterestedness--to regard these qualities as foibles of
 
-character--so it was equally her tendency to consider pride, hardness,
+character--so it was equally her tendency to consider [[Pride|pride]], hardness,
 
 selfishness, as proofs of strength. She would trample on the neck
 
-of humility, she would kneel at the feet of disdain; she would meet
+of [[Humility|humility]], she would kneel at the feet of disdain; she would meet
 
 tenderness with secret contempt, indifference she would woo with
 
 ceaseless assiduities. Benevolence, devotedness, enthusiasm, were
 
-her antipathies; for dissimulation and self-interest she had a
+her antipathies; for dissimulation and [[Self|self]]-interest she had a
 
 preference--they were real wisdom in her eyes; moral and physical
 
@@ -410,4 +410,4 @@ considered one of themselves; but ere long the plating of pretension
 
 wore off, the real material appeared below, and they laid her aside as a
 
-deception.
+[[Deception|deception]].

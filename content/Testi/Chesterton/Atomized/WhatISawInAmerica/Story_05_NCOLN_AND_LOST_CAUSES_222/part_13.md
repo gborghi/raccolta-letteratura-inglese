@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 13)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -42,27 +42,27 @@ bolster and a paper mask, calling out
 
 
 
-But I admit it is a disadvantage that they have not a saint or hero to
+But I admit it is a disadvantage that they have not a saint or [[Hero|hero]] to
 
-crown in effigy as well as a traitor to burn in effigy. I admit that
+[[Crown|crown]] in effigy as [[Well|well]] as a traitor to burn in effigy. I admit that
 
 popular Protestantism has become too purely negative for people to
 
-wreathe in flowers the statue of Mr. Kensit or even of Dr. Clifford. I
+wreathe in [[Flowers|flowers]] the statue of Mr. Kensit or even of Dr. [[Clifford]]. I
 
 do not disguise my preference for popular Catholicism; which still has
 
-statues that can be wreathed in flowers. I wish our national feast of
+statues that can be wreathed in [[Flowers|flowers]]. I wish our national feast of
 
 fireworks revolved round something positive and popular. I wish the
 
-beauty of a Catherine Wheel were displayed to the glory of St.
+[[Beauty|beauty]] of a Catherine [[Wheel]] were displayed to the glory of St.
 
 Catherine. I should not especially complain if Roman candles were really
 
 Roman candles. But this negative character does not destroy the national
 
-character; which began at least in disinterested faith and has ended at
+character; which began at least in disinterested [[Faith|faith]] and has ended at
 
 least in disinterested fun. There is nothing disinterested at all about
 
@@ -76,13 +76,13 @@ congratulated me on the impression I produced on a lady interviewer,
 
 observing, 'She says you're a regular guy.' This puzzled me a little at
 
-the time. 'Her description is no doubt correct,' I said, 'but I confess
+the [[Time|time]]. 'Her description is no [[Doubt|doubt]] correct,' I said, 'but I confess
 
 that it would never have struck me as specially complimentary.' But it
 
 appears that it is one of the most graceful of compliments, in the
 
-original American. A guy in America is a colourless term for a human
+original American. A guy in [[America]] is a colourless term for a human
 
 being. All men are guys, being endowed by their Creator with certain ...
 
@@ -90,11 +90,11 @@ but I am misled by another association. And a regular guy means, I
 
 presume, a reliable or respectable guy. The point here, however, is that
 
-the guy in the grotesque English sense does represent the dilapidated
+the guy in the [[Grotesque|grotesque]] English sense does represent the dilapidated
 
 remnant of a real human tradition of symbolising real historic ideals by
 
-the sacramental mystery of fire. It is a great fall from the lowest of
+the sacramental mystery of [[Fire|fire]]. It is a great fall from the lowest of
 
 these lowly bonfires to the highest of the modern sky-signs. The new
 
@@ -118,7 +118,7 @@ are imposed upon us by a mercantile minority, and we are merely passive
 
 to the suggestion. The hypnotist of high finance or big business merely
 
-writes his commands in heaven with a finger of fire. All men really are
+writes his commands in heaven with a finger of [[Fire|fire]]. All men really are
 
 guys, in the sense of dummies. We are only the victims of his
 
@@ -132,41 +132,41 @@ such art and architecture. It is not that it is toppling, but that it is
 
 top-heavy. It is not that it is vulgar, but rather that it is not
 
-popular. In other words, the democratic ideal of countries like America,
+popular. In other words, the democratic ideal of countries like [[America]],
 
 while it is still generally sincere and sometimes intense, is at issue
 
 with another tendency, an industrial progress which is of all things on
 
-earth the most undemocratic. America is not alone in possessing the
+earth the most undemocratic. [[America]] is not [[Alone|alone]] in possessing the
 
-industrialism, but she is alone in emphasising the ideal that strives
+industrialism, but she is [[Alone|alone]] in emphasising the ideal that strives
 
-with industrialism. Industrial capitalism and ideal democracy are
+with industrialism. Industrial capitalism and ideal [[democracy]] are
 
 everywhere in controversy; but perhaps only here are they in conflict.
 
 France has a democratic ideal; but France is not industrial. England and
 
-Germany are industrial; but England and Germany are not really
+[[Germany]] are industrial; but England and [[Germany]] are not really
 
 democratic. Of course when I speak here of industrialism I speak of
 
 great industrial areas; there is, as will be noted later, another side
 
-to all these countries; there is in America itself not only a great deal
+to all these countries; there is in [[America]] itself not only a great deal
 
 of agricultural society, but a great deal of agricultural equality;
 
-just as there are still peasants in Germany and may some day again be
+just as there are still peasants in [[Germany]] and may some day again be
 
 peasants in England. But the point is that the ideal and its enemy the
 
 reality are here crushed very close to each other in the high, narrow
 
-city; and that the sky-scraper is truly named because its top, towering
+[[City|city]]; and that the sky-scraper is truly named because its top, towering
 
-in such insolence, is scraping the stars off the American sky, the very
+in such insolence, is scraping the [[Stars|stars]] off the American sky, the very
 
 heaven of the American spirit.
 
@@ -176,26 +176,26 @@ That seems to me the main outline of the whole problem. In the first
 
 chapter of this book, I have emphasised the fact that equality is still
 
-the ideal though no longer the reality of America. I should like to
+the ideal though no longer the reality of [[America]]. I should like to
 
 conclude this one by emphasising the fact that the reality of modern
 
 capitalism is menacing that ideal with terrors and even splendours that
 
-might well stagger the wavering and impressionable modern spirit. Upon
+might [[Well|well]] stagger the wavering and impressionable modern spirit. Upon
 
 the issue of that struggle depends the question of whether this new
 
 great civilisation continues to exist, and even whether any one cares if
 
-it exists or not. I have already used the parable of the American flag,
+it exists or not. I have already used the [[Parable|parable]] of the American [[Flag|flag]],
 
-and the stars that stand for a multitudinous equality; I might here take
+and the [[Stars|stars]] that stand for a multitudinous equality; I might here take
 
-the opposite symbol of these artificial and terrestrial stars flaming on
+the opposite symbol of these artificial and terrestrial [[Stars|stars]] flaming on
 
-the forehead of the commercial city; and note the peril of the last
+the forehead of the commercial [[City|city]]; and note the peril of the last
 
-illusion, which is that the artificial stars may seem to fill the
+illusion, which is that the artificial [[Stars|stars]] may seem to fill the
 
-heavens, and the real stars to have faded from sight. But I am content
+heavens, and the real [[Stars|stars]] to have faded from sight. But I am content

@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act II, Scene 1 — exchange (KING RICHARD) [7]"
+title: "[[Richard II]] — Act II, Scene 1 — exchange ([[King|KING]] [[Richard|RICHARD]]) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| KING RICHARD | Why uncle, what’s the matter? |
+| [[King|KING]] [[Richard|RICHARD]] | Why uncle, what’s the matter? |

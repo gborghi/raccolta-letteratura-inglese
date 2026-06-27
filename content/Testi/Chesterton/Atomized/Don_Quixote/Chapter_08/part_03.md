@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 7 (part 3)"
+title: "[[Don Quixote]] — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -20,7 +20,7 @@ a few lines in the play."
 
 He paused a moment, and Julian Archer looked at him with an
 almost absent-minded pity, as he murmured that it would be all
-right on the night.  For Archer, with all his highly practical
+right on the [[Night|night]].  For Archer, with all his highly practical
 _savoir faire,_ was not the man to feel the most subtle changes
 in the social climate; and he still regarded the librarian more
 or less as a sort of odd footman or stable-boy brought in by
@@ -32,14 +32,14 @@ and was only faintly conscious that the man was maundering still.
 "But I can't help thinking," the librarian was continuing,
 in his low meditative voice, "that it might give rather
 an interesting scope for a romantic actor to act
-exactly that sort of high and yet hollow romance.
-There is a kind of dance that expresses contempt for the body.
+exactly that sort of high and yet hollow [[Romance|romance]].
+There is a kind of [[Dance|dance]] that expresses contempt for the [[Body|body]].
 You can see it running like a pattern through any number
-of Asiatic traceries and arabesques.  That dance was the dance
-of the Albigensian troubadours; and it was a dance of death.
-For that spirit can scorn the body in either of two ways;
+of Asiatic traceries and arabesques.  That [[Dance|dance]] was the [[Dance|dance]]
+of the Albigensian troubadours; and it was a [[Dance of Death|dance of death]].
+For that spirit can scorn the [[Body|body]] in either of two ways;
 mutilating it like a fakir or pampering it like a sultan;
-but never doing it honour.  Surely it will be rather interesting
+but never doing it [[Honour|honour]].  Surely it will be rather interesting
 for you to interpret bitter hedonism, the high and wild cries,
 the horns and hootings of the old heathen revel, along with
 the underlying pessimism."
@@ -49,7 +49,7 @@ the underlying pessimism."
 will only fidget about with her potty little paints."
 
 He lowered his voice a little hastily with the last words,
-for he realised for the first time that the lady in question
+for he realised for the first [[Time|time]] that the lady in question
 was sitting at the other end of the library, with her back
 to him, bent over books and fidgeting away as described.
 She had not apparently heard him; in any case she did not
@@ -70,13 +70,13 @@ as I have.  Now unless she can put a little more pep into the dialogue,
 I'm not sure I can grip my audience."
 
 Herne was trying to listen politely with one half of his mind,
-but for the other half the garden beyond was taking on,
+but for the other half the [[Garden|garden]] beyond was taking on,
 as it so often did, the vague quality of a pageant in a vision.
 Far away at the end of an avenue of shining grass, among delicate trees,
 twinkling in the sunlight, he saw the figure of the Princess of the play.
 Rosamund was clad in her magnificent blue robes with her almost fantastic
 blue head-dress, and as she came round the curve of the path she made
-an outward gesture at once of freedom and fatigue, thrusting out
+an outward gesture at once of [[Freedom|freedom]] and fatigue, thrusting out
 her arms or throwing out her hands as if stretching herself.
 The long pointed sleeves she wore gave it somewhat the appearance
 of a bird flapping its wings; a bird of paradise, as the actor had said.
@@ -90,7 +90,7 @@ however, even the dreamy librarian began to think that
 there might be another reason for that outward gesture.
 Something in her face suggested that the movement had been one
 of impatience or even of dismay since it cannot help looking
-like a mask of tragedy over quite trivial irritations.  It might be
+like a mask of [[Tragedy|tragedy]] over quite trivial irritations.  It might be
 questioned whether she regarded her present irritation as trivial.
 But she unconsciously carried about with her such a glow of good
 health and such a confidence of manner, that there was a second
@@ -100,12 +100,12 @@ news sound as if it were good.
 
 "And here's a nice state of things," she said indignantly,
 flapping open a telegram and staring round her in impersonal anger.
-"Hugh Trelawney says he can't act the King after all."
+"Hugh Trelawney says he can't act the [[King]] after all."
 
 On some matters Julian Archer's mind worked very swiftly indeed.
 He was as much annoyed in a sense as she was; but before she had spoken
 again he had considered the possibility of taking a new part himself,
-and finding time to learn the lines appropriated to the King.  It would
+and finding [[Time|time]] to learn the lines appropriated to the [[King]].  It would
 be a fag; but he had never minded hard work when it was worth his while.
 The great difficulty he saw was the difficulty of imagining anybody
 in his part as the Troubadour.
@@ -119,7 +119,7 @@ were you.  It seems rather rotten, when we've all taken such a lot
 of trouble."  His eye wandered inconsequently to the other end
 of the room, where the dark head and rigid back of Miss Ashley were
 obstinately fixed in concentrated interest on the illuminations.
-It was a long time since she had been apparently concentrated on
+It was a long [[Time|time]] since she had been apparently concentrated on
 anything else; save for long disappearances, supposed to be country walks,
 which had remained something of a mystery.
 
@@ -127,6 +127,6 @@ which had remained something of a mystery.
 merely in illustration of the industry of the company.
 
 "But how can we go on with it?" asked Rosamund in exasperation.
-"Who else is there who could take the King?  We had trouble enough
+"Who else is there who could take the [[King]]?  We had trouble enough
 in getting hold of an assistant Troubadour, till Mr. Herne was kind
 enough to help us."

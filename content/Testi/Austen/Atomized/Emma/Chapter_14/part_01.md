@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 14 (part 1)"
+title: "[[Emma]] — Chapter 14 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -19,9 +19,9 @@ CHAPTER XIV
 
 Some change of countenance was necessary for each gentleman as they
 walked into Mrs. Weston’s drawing-room;—Mr. Elton must compose his
-joyous looks, and Mr. John Knightley disperse his ill-humour. Mr. Elton
+joyous looks, and Mr. John Knightley disperse his ill-[[Humour|humour]]. Mr. Elton
 must smile less, and Mr. John Knightley more, to fit them for the
-place.—Emma only might be as nature prompted, and shew herself just as
+place.—[[Emma]] only might be as [[Nature|nature]] prompted, and shew herself just as
 happy as she was. To her it was real enjoyment to be with the Westons.
 Mr. Weston was a great favourite, and there was not a creature in the
 world to whom she spoke with such unreserve, as to his wife; not any
@@ -36,20 +36,20 @@ of private life depends, was one of the first gratifications of each.
 This was a pleasure which perhaps the whole day’s visit might not
 afford, which certainly did not belong to the present half-hour; but
 the very sight of Mrs. Weston, her smile, her touch, her voice was
-grateful to Emma, and she determined to think as little as possible of
+grateful to [[Emma]], and she determined to think as little as possible of
 Mr. Elton’s oddities, or of any thing else unpleasant, and enjoy all
 that was enjoyable to the utmost.
 
-The misfortune of Harriet’s cold had been pretty well gone through
+The misfortune of Harriet’s cold had been pretty [[Well|well]] gone through
 before her arrival. Mr. Woodhouse had been safely seated long enough to
-give the history of it, besides all the history of his own and
-Isabella’s coming, and of Emma’s being to follow, and had indeed just
+give the [[history]] of it, besides all the [[history]] of his own and
+[[Isabella]]’s coming, and of [[Emma]]’s being to follow, and had indeed just
 got to the end of his satisfaction that James should come and see his
 daughter, when the others appeared, and Mrs. Weston, who had been
 almost wholly engrossed by her attentions to him, was able to turn away
-and welcome her dear Emma.
+and welcome her dear [[Emma]].
 
-Emma’s project of forgetting Mr. Elton for a while made her rather
+[[Emma]]’s project of forgetting Mr. Elton for a while made her rather
 sorry to find, when they had all taken their places, that he was close
 to her. The difficulty was great of driving his strange insensibility
 towards Harriet, from her mind, while he not only sat at her elbow, but
@@ -62,9 +62,9 @@ Harriet to me?—Absurd and insufferable!”—Yet he would be so anxious for
 her being perfectly warm, would be so interested about her father, and
 so delighted with Mrs. Weston; and at last would begin admiring her
 drawings with so much zeal and so little knowledge as seemed terribly
-like a would-be lover, and made it some effort with her to preserve her
+like a would-be [[Lover|lover]], and made it some effort with her to preserve her
 good manners. For her own sake she could not be rude; and for
-Harriet’s, in the hope that all would yet turn out right, she was even
+Harriet’s, in the [[Hope|hope]] that all would yet turn out right, she was even
 positively civil; but it was an effort; especially as something was
 going on amongst the others, in the most overpowering period of Mr.
 Elton’s nonsense, which she particularly wished to listen to. She heard
@@ -75,16 +75,16 @@ suspected that he was announcing an early visit from his son; but
 before she could quiet Mr. Elton, the subject was so completely past
 that any reviving question from her would have been awkward.
 
-Now, it so happened that in spite of Emma’s resolution of never
+Now, it so happened that in spite of [[Emma]]’s resolution of never
 marrying, there was something in the name, in the idea of Mr. Frank
 Churchill, which always interested her. She had frequently
-thought—especially since his father’s marriage with Miss Taylor—that if
+thought—especially since his father’s [[Marriage|marriage]] with Miss Taylor—that if
 she _were_ to marry, he was the very person to suit her in age,
 character and condition. He seemed by this connexion between the
 families, quite to belong to her. She could not but suppose it to be a
-match that every body who knew them must think of. That Mr. and Mrs.
+match that every [[Body|body]] who knew them must think of. That Mr. and Mrs.
 Weston did think of it, she was very strongly persuaded; and though not
-meaning to be induced by him, or by any body else, to give up a
+meaning to be induced by him, or by any [[Body|body]] else, to give up a
 situation which she believed more replete with good than any she could
 change it for, she had a great curiosity to see him, a decided
 intention of finding him pleasant, of being liked by him to a certain
@@ -93,7 +93,7 @@ their friends’ imaginations.
 
 With such sensations, Mr. Elton’s civilities were dreadfully ill-timed;
 but she had the comfort of appearing very polite, while feeling very
-cross—and of thinking that the rest of the visit could not possibly
+[[Cross|cross]]—and of thinking that the rest of the visit could not possibly
 pass without bringing forward the same information again, or the
 substance of it, from the open-hearted Mr. Weston.—So it proved;—for
 when happily released from Mr. Elton, and seated by Mr. Weston, at
@@ -102,19 +102,19 @@ hospitality, the very first leisure from the saddle of mutton, to say
 to her,
 
 “We want only two more to be just the right number. I should like to
-see two more here,—your pretty little friend, Miss Smith, and my
+see two more here,—your pretty little friend, Miss [[smith|Smith]], and my
 son—and then I should say we were quite complete. I believe you did not
 hear me telling the others in the drawing-room that we are expecting
 Frank. I had a letter from him this morning, and he will be with us
 within a fortnight.”
 
-Emma spoke with a very proper degree of pleasure; and fully assented to
-his proposition of Mr. Frank Churchill and Miss Smith making their
+[[Emma]] spoke with a very proper degree of pleasure; and fully assented to
+his proposition of Mr. [[Frank Churchill]] and Miss [[smith|Smith]] making their
 party quite complete.
 
 “He has been wanting to come to us,” continued Mr. Weston, “ever since
 September: every letter has been full of it; but he cannot command his
-own time. He has those to please who must be pleased, and who (between
+own [[Time|time]]. He has those to please who must be pleased, and who (between
 ourselves) are sometimes to be pleased only by a good many sacrifices.
-But now I have no doubt of seeing him here about the second week in
+But now I have no [[Doubt|doubt]] of seeing him here about the second week in
 January.”

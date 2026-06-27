@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 62 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 62 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -19,25 +19,25 @@ Chapter 62
 
 The prisoner, left to himself, sat down upon his bedstead: and resting
 his elbows on his knees, and his chin upon his hands, remained in
-that attitude for hours. It would be hard to say, of what nature his
+that attitude for hours. It would be hard to say, of what [[Nature|nature]] his
 reflections were. They had no distinctness, and, saving for some
 flashes now and then, no reference to his condition or the train of
 circumstances by which it had been brought about. The cracks in the
 pavement of his cell, the chinks in the wall where stone was joined
-to stone, the bars in the window, the iron ring upon the floor,--such
+to stone, the bars in the [[Window|window]], the iron ring upon the floor,--such
 things as these, subsiding strangely into one another, and awakening an
 indescribable kind of interest and amusement, engrossed his whole mind;
-and although at the bottom of his every thought there was an uneasy
-sense of guilt, and dread of death, he felt no more than that vague
-consciousness of it, which a sleeper has of pain. It pursues him through
-his dreams, gnaws at the heart of all his fancied pleasures, robs the
+and although at the [[Bottom|bottom]] of his every thought there was an uneasy
+sense of [[Guilt|guilt]], and dread of [[Death|death]], he felt no more than that vague
+consciousness of it, which a sleeper has of [[Pain|pain]]. It pursues him through
+his [[Dreams|dreams]], gnaws at the heart of all his fancied pleasures, robs the
 banquet of its taste, music of its sweetness, makes happiness itself
-unhappy, and yet is no bodily sensation, but a phantom without shape,
+unhappy, and yet is no bodily sensation, but a [[Phantom|phantom]] without shape,
 or form, or visible presence; pervading everything, but having no
 existence; recognisable everywhere, but nowhere seen, or touched, or met
-with face to face, until the sleep is past, and waking agony returns.
+with face to face, until the [[Sleep|sleep]] is past, and waking agony returns.
 
-After a long time the door of his cell opened. He looked up; saw the
+After a long [[Time|time]] the door of his cell opened. He looked up; saw the
 blind man enter; and relapsed into his former position.
 
 Guided by his breathing, the visitor advanced to where he sat; and
@@ -46,7 +46,7 @@ he was right, remained, for a good space, silent.
 
 ‘This is bad, Rudge. This is bad,’ he said at length.
 
-The prisoner shuffled with his feet upon the ground in turning his body
+The prisoner shuffled with his feet upon the ground in turning his [[Body|body]]
 from him, but made no other answer.
 
 ‘How were you taken?’ he asked. ‘And where? You never told me more than
@@ -60,7 +60,7 @@ he asked again, coming still nearer to him.
 ‘Because I went there to avoid the man I stumbled on,’ he answered.
 ‘Because I was chased and driven there, by him and Fate. Because I was
 urged to go there, by something stronger than my own will. When I found
-him watching in the house she used to live in, night after night, I knew
+him watching in the [[house]] she used to live in, [[Night|night]] after [[Night|night]], I knew
 I never could escape him--never! and when I heard the Bell--’
 
 He shivered; muttered that it was very cold; paced quickly up and down
@@ -76,7 +76,7 @@ The blind man turned a wistful and inquisitive face towards him, but he
 continued to speak, without noticing him.
 
 ‘I went to Chigwell, in search of the mob. I have been so hunted and
-beset by this man, that I knew my only hope of safety lay in joining
+beset by this man, that I knew my only [[Hope|hope]] of safety lay in joining
 them. They had gone on before; I followed them when it left off.’
 
 ‘When what left off?’
@@ -103,32 +103,32 @@ him,’ said the blind man.
 
 ‘Might I? Between that man and me, was one who led him on--I saw it,
 though he did not--and raised above his head a bloody hand. It was in
-the room above that HE and I stood glaring at each other on the night of
+the room above that HE and I stood glaring at each other on the [[Night|night]] of
 the murder, and before he fell he raised his hand like that, and fixed
 his eyes on me. I knew the chase would end there.’
 
 ‘You have a strong fancy,’ said the blind man, with a smile.
 
-‘Strengthen yours with blood, and see what it will come to.’
+‘Strengthen yours with [[Blood|blood]], and see what it will come to.’
 
-He groaned, and rocked himself, and looking up for the first time, said,
+He groaned, and rocked himself, and looking up for the first [[Time|time]], said,
 in a low, hollow voice:
 
 ‘Eight-and-twenty years! Eight-and-twenty years! He has never changed
-in all that time, never grown older, nor altered in the least degree.
-He has been before me in the dark night, and the broad sunny day; in the
-twilight, the moonlight, the sunlight, the light of fire, and lamp,
+in all that [[Time|time]], never grown older, nor altered in the least degree.
+He has been before me in the dark [[Night|night]], and the broad sunny day; in the
+twilight, the moonlight, the sunlight, the light of [[Fire|fire]], and lamp,
 and candle; and in the deepest gloom. Always the same! In company, in
-solitude, on land, on shipboard; sometimes leaving me alone for months,
+[[Solitude|solitude]], on land, on shipboard; sometimes leaving me [[Alone|alone]] for months,
 and sometimes always with me. I have seen him, at sea, come gliding in
-the dead of night along the bright reflection of the moon in the calm
-water; and I have seen him, on quays and market-places, with his hand
+the dead of [[Night|night]] along the bright reflection of the [[Moon|moon]] in the calm
+[[Water|water]]; and I have seen him, on quays and market-places, with his hand
 uplifted, towering, the centre of a busy crowd, unconscious of the
 terrible form that had its silent stand among them. Fancy! Are you real?
-Am I? Are these iron fetters, riveted on me by the smith’s hammer, or
+Am I? Are these iron fetters, riveted on me by the [[smith]]’s hammer, or
 are they fancies I can shatter at a blow?’
 
-The blind man listened in silence.
+The blind man listened in [[Silence|silence]].
 
 ‘Fancy! Do I fancy that I killed him? Do I fancy that as I left the
 chamber where he lay, I saw the face of a man peeping from a dark door,
@@ -143,9 +143,9 @@ feet--but dead!’
 The blind man, who knew that he had risen, motioned him to sit down
 again upon his bedstead; but he took no notice of the gesture.
 
-‘It was then I thought, for the first time, of fastening the murder upon
+‘It was then I thought, for the first [[Time|time]], of fastening the murder upon
 him. It was then I dressed him in my clothes, and dragged him down
-the back-stairs to the piece of water. Do I remember listening to the
+the back-stairs to the piece of [[Water|water]]. Do I remember listening to the
 bubbles that came rising up when I had rolled him in? Do I remember
-wiping the water from my face, and because the body splashed it there,
-in its descent, feeling as if it MUST be blood?
+wiping the [[Water|water]] from my face, and because the [[Body|body]] splashed it there,
+in its descent, feeling as if it MUST be [[Blood|blood]]?

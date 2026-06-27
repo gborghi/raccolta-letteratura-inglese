@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 30 (part 3)"
+title: "[[Shirley]] — Chapter 30 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-dispatched a note requesting a private interview. I found her at home,
+dispatched a note requesting a private interview. I found her at [[Home|home]],
 
-and alone.
+and [[Alone|alone]].
 
 
 
@@ -34,7 +34,7 @@ person--with my debts, of course, as a settlement.
 
 "It vexed me, it kindled my ire, to find that she neither blushed,
 
-trembled, nor looked down. She responded, 'I doubt whether I have
+trembled, nor looked down. She responded, 'I [[Doubt|doubt]] whether I have
 
 understood you, Mr. Moore.'
 
@@ -46,7 +46,7 @@ as A B C, before she would fully take it in. And then, what did she do?
 
 Instead of faltering a sweet Yes, or maintaining a soft, confused
 
-silence (which would have been as good), she started up, walked twice
+[[Silence|silence]] (which would have been as good), she started up, walked twice
 
 fast through the room, in the way that _she_ only does, and no other
 
@@ -72,13 +72,13 @@ and if you knew how strangely you worded it and looked it, you would be
 
 startled at yourself. You spoke like a brigand who demanded my purse
 
-rather than like a lover who asked my heart.'
+rather than like a [[Lover|lover]] who asked my heart.'
 
 
 
 "A queer sentence, was it not, Yorke? And I knew, as she uttered it, it
 
-was true as queer. Her words were a mirror in which I saw myself.
+was true as queer. Her words were a [[Mirror|mirror]] in which I saw myself.
 
 
 
@@ -86,21 +86,21 @@ was true as queer. Her words were a mirror in which I saw myself.
 
 
 
-"'Gérard Moore, you know you don't love Shirley Keeldar.' I might have
+"'Gérard Moore, you know you don't [[Love|love]] [[Shirley Keeldar]].' I might have
 
-broken out into false swearing--vowed that I did love her; but I could
+broken out into false swearing--vowed that I did [[Love|love]] her; but I could
 
 not lie in her pure face. I could not perjure myself in her truthful
 
 presence. Besides, such hollow oaths would have been vain as void. She
 
-would no more have believed me than she would have believed the ghost of
+would no more have believed me than she would have believed the [[Ghost|ghost]] of
 
-Judas, had he broken from the night and stood before her. Her female
+Judas, had he broken from the [[Night|night]] and stood before her. Her female
 
 heart had finer perceptions than to be cheated into mistaking my
 
-half-coarse, half-cold admiration for true-throbbing, manly love.
+half-coarse, half-cold admiration for true-throbbing, manly [[Love|love]].
 
 
 
@@ -108,7 +108,7 @@ half-coarse, half-cold admiration for true-throbbing, manly love.
 
 
 
-"Why, she sat down in the window-seat and cried. She cried passionately.
+"Why, she sat down in the [[Window|window]]-seat and cried. She cried passionately.
 
 Her eyes not only rained but lightened. They flashed, open, large, dark,
 
@@ -136,7 +136,7 @@ at palliation. I stood to be scorned.
 
 
 
-"Sold to the devil for the time being, I was certainly infatuated. When
+"Sold to the devil for the [[Time|time]] being, I was certainly infatuated. When
 
 I did speak, what do you think I said?
 
@@ -148,7 +148,7 @@ Keeldar.'
 
 
 
-"Beautiful, was it not? She sat quite confounded. 'Is it Robert Moore
+"Beautiful, was it not? She sat quite confounded. 'Is it [[Robert Moore]]
 
 that speaks?' I heard her mutter. 'Is it a man--or something lower?'
 
@@ -156,7 +156,7 @@ that speaks?' I heard her mutter. 'Is it a man--or something lower?'
 
 "'Do you mean,' she asked aloud--'do you mean you thought I loved you as
 
-we love those we wish to marry?'
+we [[Love|love]] those we wish to marry?'
 
 
 
@@ -166,7 +166,7 @@ we love those we wish to marry?'
 
 "'You conceived an idea obnoxious to a woman's feelings,' was her
 
-answer. 'You have announced it in a fashion revolting to a woman's soul.
+answer. 'You have announced it in a fashion revolting to a woman's [[Soul|soul]].
 
 You insinuate that all the frank kindness I have shown you has been a
 
@@ -186,7 +186,7 @@ affection for me.'
 
 
 
-"I hope I was answered, Yorke?
+"I [[Hope|hope]] I was answered, Yorke?
 
 
 
@@ -220,7 +220,7 @@ could get none.
 
 then? When I stopped you in Maythorn Lane, did you think I loved you
 
-then? When I called on you in the counting-house, when I walked with you
+then? When I called on you in the counting-[[house]], when I walked with you
 
 on the pavement, did you think I loved you then?'
 
@@ -230,7 +230,7 @@ on the pavement, did you think I loved you then?'
 
 
 
-"By the Lord! Yorke, she rose, she grew tall, she expanded and refined
+"By the Lord! Yorke, she [[Rose|rose]], she grew tall, she expanded and refined
 
 almost to flame. There was a trembling all through her, as in live coal
 
@@ -248,17 +248,17 @@ degrading herself and her sex; that I have sought where the incorrupt of
 
 my kind naturally scorn and abhor to seek.' She and I were silent for
 
-many a minute. 'Lucifer, Star of the Morning,' she went on, 'thou art
+many a minute. '[[Lucifer]], Star of the Morning,' she went on, 'thou art
 
 fallen! You, once high in my esteem, are hurled down; you, once intimate
 
-in my friendship, are cast out. Go!'
+in my [[Friendship|friendship]], are cast out. Go!'
 
 
 
 "I went not. I had heard her voice tremble, seen her lip quiver. I knew
 
-another storm of tears would fall, and then I believed some calm and
+another [[Storm|storm]] of [[Tears|tears]] would fall, and then I believed some calm and
 
 some sunshine must come, and I would wait for it.
 

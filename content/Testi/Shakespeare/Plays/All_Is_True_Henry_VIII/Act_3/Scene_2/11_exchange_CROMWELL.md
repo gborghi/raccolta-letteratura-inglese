@@ -1,5 +1,5 @@
 ---
-title: "All Is True (Henry VIII) — Act III, Scene 2 — exchange (CROMWELL) [11]"
+title: "All Is True ([[Henry VIII]]) — Act III, Scene 2 — exchange (CROMWELL) [11]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)"
@@ -16,4 +16,4 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | CROMWELL | Good sir, have patience. |
-| CARDINAL WOLSEY | So I have. Farewell The hopes of court; my hopes in heaven do dwell. Exeunt |
+| [[Cardinal Wolsey|CARDINAL WOLSEY]] | So I have. Farewell The hopes of [[Court|court]]; my hopes in heaven do dwell. Exeunt |

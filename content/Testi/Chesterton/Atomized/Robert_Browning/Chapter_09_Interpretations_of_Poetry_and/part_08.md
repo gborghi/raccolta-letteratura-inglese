@@ -18,7 +18,7 @@ tags:
 
 TWELVE ENGLISHMEN STATESMEN.
 
-Crown 8vo. 2s. 6d. each.
+[[Crown]] 8vo. 2s. 6d. each.
 
 * *
  * _A Series of Short Biographies, not designed to be a complete roll
@@ -29,21 +29,21 @@ and the position of Great Britain among States_.
 
 
 WILLIAM THE CONQUEROR. By EDWARD A. FREEMAN, D.C.L., LL.D., late
-Regius Professor of Modern History in the University of Oxford.
+Regius Professor of Modern [[history|History]] in the University of [[Oxford]].
 
 HENRY II. By Mrs. J.R. GREEN.
 
-EDWARD I. By T.F. TOUT, M.A., Professor of History, The Owens
+EDWARD I. By T.F. TOUT, M.A., Professor of [[history|History]], The Owens
 College, Manchester.
 
-HENRY VII. By JAMES GAIRDNER. CARDINAL WOLSEY. By Bishop
-CREIGHTON, D.D., late Dixie Professor of Ecclesiastical History in the
+HENRY VII. By JAMES GAIRDNER. [[Cardinal Wolsey|CARDINAL WOLSEY]]. By Bishop
+CREIGHTON, D.D., late Dixie Professor of Ecclesiastical [[history|History]] in the
 University of Cambridge.
 
-ELIZABETH. By E.S. BEESLY, M.A., Professor of Modern History,
-University College, London.
+ELIZABETH. By E.S. BEESLY, M.A., Professor of Modern [[history|History]],
+University College, [[London]].
 
-OLIVER CROMWELL. By FREDERIC HARRISON.
+[[Oliver|OLIVER]] CROMWELL. By FREDERIC HARRISON.
 
 WILLIAM III. By H.D. TRAILL.
 
@@ -54,7 +54,7 @@ CHATHAM. By JOHN MORLEY. [_In preparation_
 PITT. By Lord ROSEBERY.
 
 PEEL. By J.R. THURSFIELD, M.A., late Fellow of Jesus College,
-Oxford.
+[[Oxford]].
 
 
 
@@ -146,7 +146,7 @@ individual work is in the public domain in the United States and you are
 located in the United States, we do not claim a right to prevent you from
 copying, distributing, performing, displaying or creating derivative
 works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 Gutenberg-tm mission of promoting free access to electronic works by
 freely sharing Project Gutenberg-tm works in compliance with the terms of
 this agreement for keeping the Project Gutenberg-tm name associated with

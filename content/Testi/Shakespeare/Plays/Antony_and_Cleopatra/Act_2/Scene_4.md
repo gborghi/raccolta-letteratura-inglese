@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act II, Scene 4"
+title: "Antony and [[Cleopatra]] — Act II, Scene 4"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -16,13 +16,13 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Lepidus, Maecenas, and Agrippa |
-| LEPIDUS | Trouble yourselves no further. Pray you, hasten<br>Your generals after. |
-| AGRIPPA | Sir, Mark Antony<br>Will e’en but kiss Octavia, and we’ll follow. |
-| LEPIDUS | Till I shall see you in your soldier’s dress,<br>Which will become you both, farewell. |
-| MAECENAS | We shall, As I conceive the journey, be at the Mount<br>Before you, Lepidus. |
-| LEPIDUS | Your way is shorter.<br>My purposes do draw me much about.<br>You’ll win two days upon me. |
+| *(didascalia)* | Enter [[Lepidus]], Maecenas, and Agrippa |
+| [[Lepidus|LEPIDUS]] | Trouble yourselves no further. Pray you, hasten<br>Your generals after. |
+| AGRIPPA | Sir, [[Mark Antony]]<br>Will e’en but kiss [[Octavia]], and we’ll follow. |
+| [[Lepidus|LEPIDUS]] | Till I shall see you in your soldier’s dress,<br>Which will become you both, farewell. |
+| MAECENAS | We shall, As I conceive the [[Journey|journey]], be at the Mount<br>Before you, [[Lepidus]]. |
+| [[Lepidus|LEPIDUS]] | Your way is shorter.<br>My purposes do draw me much about.<br>You’ll win two days upon me. |
 | MAECENAS | and |
-| AGRIPPA | Sir, good success. |
-| LEPIDUS | Farewell. |
-| *(didascalia)* | Exeunt Maecenas and Agrippa at one door, Lepidus at another |
+| AGRIPPA | Sir, good [[success]]. |
+| [[Lepidus|LEPIDUS]] | Farewell. |
+| *(didascalia)* | Exeunt Maecenas and Agrippa at one door, [[Lepidus]] at another |

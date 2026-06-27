@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 42"
+title: "Bleak [[house|House]] — Chapter 42"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,39 +21,39 @@ In Mr. Tulkinghorn’s Chambers
 
 From the verdant undulations and the spreading oaks of the Dedlock
 property, Mr. Tulkinghorn transfers himself to the stale heat and
-dust of London. His manner of coming and going between the two places
+[[Dust|dust]] of [[London]]. His manner of coming and going between the two places
 is one of his impenetrabilities. He walks into Chesney Wold as if it
 were next door to his chambers and returns to his chambers as if he
-had never been out of Lincoln’s Inn Fields. He neither changes his
-dress before the journey nor talks of it afterwards. He melted out of
+had never been out of [[Lincoln]]’s Inn Fields. He neither changes his
+dress before the [[Journey|journey]] nor talks of it afterwards. He melted out of
 his turret-room this morning, just as now, in the late twilight, he
 melts into his own square.
 
-Like a dingy London bird among the birds at roost in these pleasant
+Like a dingy [[London]] bird among the [[Birds|birds]] at roost in these pleasant
 fields, where the sheep are all made into parchment, the goats into
 wigs, and the pasture into chaff, the lawyer, smoke-dried and faded,
 dwelling among mankind but not consorting with them, aged without
 experience of genial youth, and so long used to make his cramped nest
-in holes and corners of human nature that he has forgotten its
-broader and better range, comes sauntering home. In the oven made by
+in holes and corners of human [[Nature|nature]] that he has forgotten its
+broader and better range, comes sauntering [[Home|home]]. In the oven made by
 the hot pavements and hot buildings, he has baked himself dryer than
 usual; and he has in his thirsty mind his mellowed port-wine half a
 century old.
 
 The lamplighter is skipping up and down his ladder on Mr.
 Tulkinghorn’s side of the Fields when that high-priest of noble
-mysteries arrives at his own dull court-yard. He ascends the
+mysteries arrives at his own dull [[Court|court]]-yard. He ascends the
 door-steps and is gliding into the dusky hall when he encounters, on
 the top step, a bowing and propitiatory little man.
 
 “Is that Snagsby?”
 
-“Yes, sir. I hope you are well, sir. I was just giving you up, sir,
-and going home.”
+“Yes, sir. I [[Hope|hope]] you are [[Well|well]], sir. I was just giving you up, sir,
+and going [[Home|home]].”
 
 “Aye? What is it? What do you want with me?”
 
-“Well, sir,” says Mr. Snagsby, holding his hat at the side of his
+“[[Well]], sir,” says Mr. Snagsby, holding his hat at the side of his
 head in his deference towards his best customer, “I was wishful to
 say a word to you, sir.”
 
@@ -63,7 +63,7 @@ say a word to you, sir.”
 
 “Say it then.” The lawyer turns, leans his arms on the iron railing
 at the top of the steps, and looks at the lamplighter lighting the
-court-yard.
+[[Court|court]]-yard.
 
 “It is relating,” says Mr. Snagsby in a mysterious low voice, “it is
 relating—not to put too fine a point upon it—to the foreigner,
@@ -75,27 +75,27 @@ Mr. Tulkinghorn eyes him with some surprise. “What foreigner?”
 acquainted with that language myself, but I should judge from her
 manners and appearance that she was French; anyways, certainly
 foreign. Her that was upstairs, sir, when Mr. Bucket and me had the
-honour of waiting upon you with the sweeping-boy that night.”
+[[Honour|honour]] of waiting upon you with the sweeping-boy that [[Night|night]].”
 
 “Oh! Yes, yes. Mademoiselle Hortense.”
 
 “Indeed, sir?” Mr. Snagsby coughs his cough of submission behind his
 hat. “I am not acquainted myself with the names of foreigners in
-general, but I have no doubt it WOULD be that.” Mr. Snagsby appears
+general, but I have no [[Doubt|doubt]] it WOULD be that.” Mr. Snagsby appears
 to have set out in this reply with some desperate design of repeating
 the name, but on reflection coughs again to excuse himself.
 
 “And what can you have to say, Snagsby,” demands Mr. Tulkinghorn,
 “about her?”
 
-“Well, sir,” returns the stationer, shading his communication with
+“[[Well]], sir,” returns the stationer, shading his communication with
 his hat, “it falls a little hard upon me. My domestic happiness is
 very great—at least, it’s as great as can be expected, I’m sure—but
-my little woman is rather given to jealousy. Not to put too fine a
-point upon it, she is very much given to jealousy. And you see, a
+my little woman is rather given to [[Jealousy|jealousy]]. Not to put too fine a
+point upon it, she is very much given to [[Jealousy|jealousy]]. And you see, a
 foreign female of that genteel appearance coming into the shop, and
 hovering—I should be the last to make use of a strong expression if
-I could avoid it, but hovering, sir—in the court—you know it
+I could avoid it, but hovering, sir—in the [[Court|court]]—you know it
 is—now ain’t it? I only put it to yourself, sir.”
 
 Mr. Snagsby, having said this in a very plaintive manner, throws in a
@@ -107,29 +107,29 @@ cough of general application to fill up all the blanks.
 yourself and would excuse the reasonableness of MY feelings when
 coupled with the known excitableness of my little woman. You see, the
 foreign female—which you mentioned her name just now, with quite a
-native sound I am sure—caught up the word Snagsby that night, being
+native sound I am sure—caught up the word Snagsby that [[Night|night]], being
 uncommon quick, and made inquiry, and got the direction and come at
-dinner-time. Now Guster, our young woman, is timid and has fits, and
+dinner-[[Time|time]]. Now Guster, our young woman, is timid and has fits, and
 she, taking fright at the foreigner’s looks—which are fierce—and at
 a grinding manner that she has of speaking—which is calculated to
 alarm a weak mind—gave way to it, instead of bearing up against it,
 and tumbled down the kitchen stairs out of one into another, such
 fits as I do sometimes think are never gone into, or come out of, in
-any house but ours. Consequently there was by good fortune ample
+any [[house]] but ours. Consequently there was by good fortune ample
 occupation for my little woman, and only me to answer the shop. When
 she DID say that Mr. Tulkinghorn, being always denied to her by his
-employer (which I had no doubt at the time was a foreign mode of
+employer (which I had no [[Doubt|doubt]] at the [[Time|time]] was a foreign mode of
 viewing a clerk), she would do herself the pleasure of continually
 calling at my place until she was let in here. Since then she has
 been, as I began by saying, hovering, hovering, sir”—Mr. Snagsby
-repeats the word with pathetic emphasis—“in the court. The effects
-of which movement it is impossible to calculate. I shouldn’t wonder
+repeats the word with pathetic emphasis—“in the [[Court|court]]. The effects
+of which movement it is impossible to calculate. I shouldn’t [[Wonder|wonder]]
 if it might have already given rise to the painfullest mistakes even
 in the neighbours’ minds, not mentioning (if such a thing was
 possible) my little woman. Whereas, goodness knows,” says Mr.
 Snagsby, shaking his head, “I never had an idea of a foreign female,
 except as being formerly connected with a bunch of brooms and a baby,
-or at the present time with a tambourine and earrings. I never had, I
+or at the present [[Time|time]] with a tambourine and earrings. I never had, I
 do assure you, sir!”
 
 Mr. Tulkinghorn had listened gravely to this complaint and inquires
@@ -145,7 +145,7 @@ is mad,” says the lawyer.
 a consolation to have some weapon or another in the form of a foreign
 dagger planted in the family.”
 
-“No,” says the other. “Well, well! This shall be stopped. I am sorry
+“No,” says the other. “[[Well]], [[Well|well]]! This shall be stopped. I am sorry
 you have been inconvenienced. If she comes again, send her here.”
 
 Mr. Snagsby, with much bowing and short apologetic coughing, takes
@@ -156,7 +156,7 @@ now! But I will be short with THIS jade at least!”
 
 So saying, he unlocks his door, gropes his way into his murky rooms,
 lights his candles, and looks about him. It is too dark to see much
-of the Allegory overhead there, but that importunate Roman, who is
+of the [[Allegory]] overhead there, but that importunate Roman, who is
 for ever toppling out of the clouds and pointing, is at his old work
 pretty distinctly. Not honouring him with much attention, Mr.
 Tulkinghorn takes a small key from his pocket, unlocks a drawer in
@@ -166,7 +166,7 @@ descend to the regions of old wine. He is going towards the door with
 a candle in his hand when a knock comes.
 
 “Who’s this? Aye, aye, mistress, it’s you, is it? You appear at a
-good time. I have just been hearing of you. Now! What do you want?”
+good [[Time|time]]. I have just been hearing of you. Now! What do you want?”
 
 He stands the candle on the chimney-piece in the clerk’s hall and
 taps his dry cheek with the key as he addresses these words of
@@ -179,7 +179,7 @@ closes the door before replying.
 “HAVE you!”
 
 “I have been here very often, sir. It has always been said to me, he
-is not at home, he is engage, he is this and that, he is not for
+is not at [[Home|home]], he is engage, he is this and that, he is not for
 you.”
 
 “Quite right, and quite true.”
@@ -187,7 +187,7 @@ you.”
 “Not true. Lies!”
 
 At times there is a suddenness in the manner of Mademoiselle Hortense
-so like a bodily spring upon the subject of it that such subject
+so like a bodily [[spring]] upon the subject of it that such subject
 involuntarily starts and falls back. It is Mr. Tulkinghorn’s case at
 present, though Mademoiselle Hortense, with her eyes almost shut up
 (but still looking out sideways), is only smiling contemptuously and
@@ -196,19 +196,19 @@ shaking her head.
 “Now, mistress,” says the lawyer, tapping the key hastily upon the
 chimney-piece. “If you have anything to say, say it, say it.”
 
-“Sir, you have not use me well. You have been mean and shabby.”
+“Sir, you have not use me [[Well|well]]. You have been mean and shabby.”
 
 “Mean and shabby, eh?” returns the lawyer, rubbing his nose with the
 key.
 
 “Yes. What is it that I tell you? You know you have. You have
 attrapped me—catched me—to give you information; you have asked me
-to show you the dress of mine my Lady must have wore that night, you
+to show you the dress of mine my Lady must have wore that [[Night|night]], you
 have prayed me to come in it here to meet that boy. Say! Is it not?”
-Mademoiselle Hortense makes another spring.
+Mademoiselle Hortense makes another [[spring]].
 
 “You are a vixen, a vixen!” Mr. Tulkinghorn seems to meditate as he
-looks distrustfully at her, then he replies, “Well, wench, well. I
+looks distrustfully at her, then he replies, “[[Well]], wench, [[Well|well]]. I
 paid you.”
 
 “You paid me!” she repeats with fierce disdain. “Two sovereign! I
@@ -242,20 +242,20 @@ setting all her teeth.
 “Oh! I knew that, did I?” says Mr. Tulkinghorn, examining the wards
 of the key.
 
-“Yes, without doubt. I am not blind. You have made sure of me because
+“Yes, without [[Doubt|doubt]]. I am not blind. You have made sure of me because
 you knew that. You had reason! I det-est her.” Mademoiselle Hortense folds her
 arms and throws this last remark at him over one of her shoulders.
 
 “Having said this, have you anything else to say, mademoiselle?”
 
-“I am not yet placed. Place me well. Find me a good condition! If you
+“I am not yet placed. Place me [[Well|well]]. Find me a good condition! If you
 cannot, or do not choose to do that, employ me to pursue her, to
-chase her, to disgrace and to dishonour her. I will help you well,
+chase her, to disgrace and to dishonour her. I will help you [[Well|well]],
 and with a good will. It is what YOU do. Do I not know that?”
 
 “You appear to know a good deal,” Mr. Tulkinghorn retorts.
 
-“Do I not? Is it that I am so weak as to believe, like a child, that
+“Do I not? Is it that I am so weak as to believe, like a [[Child|child]], that
 I come here in that dress to rec-eive that boy only to decide a
 little bet, a wager? Eh, my God, oh yes!” In this reply, down to the
 word “wager” inclusive, mademoiselle has been ironically polite and
@@ -282,7 +282,7 @@ That visit not succeeding either, you will go again perhaps?”
 “And yet again. And yet again. And many times again. In effect, for
 ever!”
 
-“Very well. Now, Mademoiselle Hortense, let me recommend you to take
+“Very [[Well|well]]. Now, Mademoiselle Hortense, let me recommend you to take
 the candle and pick up that money of yours. I think you will find it
 behind the clerk’s partition in the corner yonder.”
 
@@ -295,11 +295,11 @@ with folded arms.
 
 “So much the poorer you; so much the richer I! Look, mistress, this
 is the key of my wine-cellar. It is a large key, but the keys of
-prisons are larger. In this city there are houses of correction
+prisons are larger. In this [[City|city]] there are houses of correction
 (where the treadmills are, for women), the gates of which are very
-strong and heavy, and no doubt the keys too. I am afraid a lady of
+strong and heavy, and no [[Doubt|doubt]] the keys too. I am afraid a lady of
 your spirit and activity would find it an inconvenience to have one
-of those keys turned upon her for any length of time. What do you
+of those keys turned upon her for any length of [[Time|time]]. What do you
 think?”
 
 “I think,” mademoiselle replies without any action and in a clear,
@@ -307,7 +307,7 @@ obliging voice, “that you are a miserable wretch.”
 
 “Probably,” returns Mr. Tulkinghorn, quietly blowing his nose. “But I
 don’t ask what you think of myself; I ask what you think of the
-prison.”
+[[Prison|prison]].”
 
 “Nothing. What does it matter to me?”
 
@@ -315,18 +315,18 @@ prison.”
 putting away his handkerchief and adjusting his frill; “the law is so
 despotic here that it interferes to prevent any of our good English
 citizens from being troubled, even by a lady’s visits against his
-desire. And on his complaining that he is so troubled, it takes hold
-of the troublesome lady and shuts her up in prison under hard
+[[Desire|desire]]. And on his complaining that he is so troubled, it takes hold
+of the troublesome lady and shuts her up in [[Prison|prison]] under hard
 discipline. Turns the key upon her, mistress.” Illustrating with the
 cellar-key.
 
 “Truly?” returns mademoiselle in the same pleasant voice. “That is
-droll! But—my faith!—still what does it matter to me?”
+droll! But—my [[Faith|faith]]!—still what does it matter to me?”
 
 “My fair friend,” says Mr. Tulkinghorn, “make another visit here, or
 at Mr. Snagsby’s, and you shall learn.”
 
-“In that case you will send me to the prison, perhaps?”
+“In that case you will send me to the [[Prison|prison]], perhaps?”
 
 “Perhaps.”
 
@@ -345,7 +345,7 @@ ignominious manner, strapped down on a board, my good wench.”
 “I will try if you dare to do it!”
 
 “And if,” pursues the lawyer without minding her, “I place you in
-that good condition of being locked up in jail, it will be some time
+that good condition of being locked up in jail, it will be some [[Time|time]]
 before you find yourself at liberty again.”
 
 “I will prove you,” repeats mademoiselle in her former whisper.

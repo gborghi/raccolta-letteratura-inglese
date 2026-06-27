@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 9 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 9 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,9 +24,9 @@ knew her better than they.
 
 
 
-Meantime, my brain was on fire with indignation, and my heart seemed
+Meantime, my brain was on [[Fire|fire]] with indignation, and my heart seemed
 
-ready to burst from its prison with conflicting passions. I regarded my
+ready to burst from its [[Prison|prison]] with conflicting passions. I regarded my
 
 two fair neighbours with a feeling of abhorrence and loathing I
 
@@ -44,23 +44,23 @@ that he was no tea-drinker, and that it was highly injurious to keep
 
 loading the stomach with slops to the exclusion of more wholesome
 
-sustenance, and so give himself time to finish his fourth cup.
+sustenance, and so give himself [[Time|time]] to finish his fourth cup.
 
 
 
-At length it was over; and I rose and left the table and the guests
+At length it was over; and I [[Rose|rose]] and left the table and the guests
 
 without a word of apology—I could endure their company no longer. I
 
 rushed out to cool my brain in the balmy evening air, and to compose my
 
-mind or indulge my passionate thoughts in the solitude of the garden.
+mind or indulge my passionate thoughts in the [[Solitude|solitude]] of the [[Garden|garden]].
 
 
 
 To avoid being seen from the windows I went down a quiet little avenue
 
-that skirted one side of the inclosure, at the bottom of which was a
+that skirted one side of the inclosure, at the [[Bottom|bottom]] of which was a
 
 seat embowered in roses and honeysuckles. Here I sat down to think over
 
@@ -70,7 +70,7 @@ so occupied two minutes, before voices and laughter, and glimpses of
 
 moving objects through the trees, informed me that the whole company
 
-had turned out to take an airing in the garden too. However, I nestled
+had turned out to take an airing in the [[Garden|garden]] too. However, I nestled
 
 up in a corner of the bower, and hoped to retain possession of it,
 
@@ -78,7 +78,7 @@ secure alike from observation and intrusion. But no—confound it—there
 
 was some one coming down the avenue! Why couldn’t they enjoy the
 
-flowers and sunshine of the open garden, and leave that sunless nook to
+[[Flowers|flowers]] and sunshine of the open [[Garden|garden]], and leave that sunless nook to
 
 me, and the gnats and midges?
 
@@ -90,11 +90,11 @@ discover who the intruders were (for a murmur of voices told me it was
 
 more than one), my vexation instantly subsided, and far other feelings
 
-agitated my still unquiet soul; for there was Mrs. Graham, slowly
+agitated my still unquiet [[Soul|soul]]; for there was Mrs. Graham, slowly
 
-moving down the walk with Arthur by her side, and no one else. Why were
+moving down the walk with [[arthur|Arthur]] by her side, and no one else. Why were
 
-they alone? Had the poison of detracting tongues already spread through
+they [[Alone|alone]]? Had the [[Poison|poison]] of detracting tongues already spread through
 
 all; and had they all turned their backs upon her? I now recollected
 
@@ -116,11 +116,11 @@ some person then present was the luckless object of her calumnies: and
 
 from all these tokens, together with my mother’s looks and gestures of
 
-mingled horror and incredulity, I now concluded that object to have
+mingled horror and [[Incredulity|incredulity]], I now concluded that object to have
 
 been Mrs. Graham. I did not emerge from my place of concealment till
 
-she had nearly reached the bottom of the walk, lest my appearance
+she had nearly reached the [[Bottom|bottom]] of the walk, lest my appearance
 
 should drive her away; and when I did step forward she stood still and
 
@@ -146,7 +146,7 @@ absent myself in this uncourteous fashion from my guests.”
 
 “I was rather, but it’s over now. Do sit here a little and rest, and
 
-tell me how you like this arbour,” said I, and, lifting Arthur by the
+tell me how you like this arbour,” said I, and, lifting [[arthur|Arthur]] by the
 
 shoulders, I planted him in the middle of the seat by way of securing
 
@@ -158,17 +158,17 @@ threw herself back in one corner, while I took possession of the other.
 
 But that word refuge disturbed me. Had their unkindness then really
 
-driven her to seek for peace in solitude?
+driven her to seek for peace in [[Solitude|solitude]]?
 
 
 
-“Why have they left you alone?” I asked.
+“Why have they left you [[Alone|alone]]?” I asked.
 
 
 
 “It is I who have left them,” was the smiling rejoinder. “I was wearied
 
-to death with small talk—nothing wears me out like that. I cannot
+to [[Death|death]] with small talk—nothing wears me out like that. I cannot
 
 imagine how they _can_ go on as they do.”
 

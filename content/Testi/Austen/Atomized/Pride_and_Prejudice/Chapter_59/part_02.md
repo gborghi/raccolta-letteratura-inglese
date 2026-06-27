@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 59 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 59 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -16,9 +16,9 @@ tags:
 
 In the evening, soon after Mr. Bennet withdrew to the library, she saw
 Mr. Darcy rise also and follow him, and her agitation on seeing it was
-extreme. She did not fear her father’s opposition, but he was going to
+extreme. She did not [[Fear|fear]] her father’s opposition, but he was going to
 be made unhappy, and that it should be through her means; that _she_,
-his favourite child, should be distressing him by her choice, should be
+his favourite [[Child|child]], should be distressing him by her choice, should be
 filling him with fears and regrets in disposing of her, was a wretched
 reflection, and she sat in misery till Mr. Darcy appeared again, when,
 looking at him, she was a little relieved by his smile. In a few minutes
@@ -26,7 +26,7 @@ he approached the table where she was sitting with Kitty; and, while
 pretending to admire her work, said in a whisper, “Go to your father; he
 wants you in the library.” She was gone directly.
 
-Her father was walking about the room, looking grave and anxious.
+Her father was walking about the room, looking [[Grave|grave]] and anxious.
 “Lizzy,” said he, “what are you doing? Are you out of your senses to be
 accepting this man? Have not you always hated him?”
 
@@ -46,9 +46,9 @@ indifference?”
 “None at all. We all know him to be a proud, unpleasant sort of man; but
 this would be nothing if you really liked him.”
 
-“I do, I do like him,” she replied, with tears in her eyes; “I love him.
-Indeed he has no improper pride. He is perfectly amiable. You do not
-know what he really is; then pray do not pain me by speaking of him in
+“I do, I do like him,” she replied, with [[Tears|tears]] in her eyes; “I [[Love|love]] him.
+Indeed he has no improper [[Pride|pride]]. He is perfectly amiable. You do not
+know what he really is; then pray do not [[Pain|pain]] me by speaking of him in
 such terms.”
 
 “Lizzy,” said her father, “I have given him my consent. He is the kind
@@ -58,8 +58,8 @@ having him. But let me advise you to think better of it. I know your
 disposition, Lizzy. I know that you could be neither happy nor
 respectable, unless you truly esteemed your husband, unless you looked
 up to him as a superior. Your lively talents would place you in the
-greatest danger in an unequal marriage. You could scarcely escape
-discredit and misery. My child, let me not have the grief of seeing
+greatest danger in an unequal [[Marriage|marriage]]. You could scarcely escape
+discredit and misery. My [[Child|child]], let me not have the grief of seeing
 _you_ unable to respect your partner in life. You know not what you are
 about.”
 
@@ -69,10 +69,10 @@ object of her choice, by explaining the gradual change which her
 estimation of him had undergone, relating her absolute certainty that
 his affection was not the work of a day, but had stood the test of many
 months’ suspense, and enumerating with energy all his good qualities,
-she did conquer her father’s incredulity, and reconcile him to the
+she did conquer her father’s [[Incredulity|incredulity]], and reconcile him to the
 match.
 
-“Well, my dear,” said he, when she ceased speaking, “I have no more to
+“[[Well]], my dear,” said he, when she ceased speaking, “I have no more to
 say. If this be the case, he deserves you. I could not have parted with
 you, my Lizzy, to anyone less worthy.”
 
@@ -83,12 +83,12 @@ had voluntarily done for Lydia. He heard her with astonishment.
 made up the match, gave the money, paid the fellow’s debts, and got him
 his commission! So much the better. It will save me a world of trouble
 and economy. Had it been your uncle’s doing, I must and _would_ have
-paid him; but these violent young lovers carry everything their own
-way. I shall offer to pay him to-morrow, he will rant and storm about
-his love for you, and there will be an end of the matter.”
+paid him; but these violent young [[lovers]] carry everything their own
+way. I shall offer to pay him to-morrow, he will rant and [[Storm|storm]] about
+his [[Love|love]] for you, and there will be an end of the matter.”
 
 He then recollected her embarrassment a few days before on his reading
-Mr. Collins’s letter; and after laughing at her some time, allowed her
+Mr. Collins’s letter; and after laughing at her some [[Time|time]], allowed her
 at last to go, saying, as she quitted the room, “If any young men come
 for Mary or Kitty, send them in, for I am quite at leisure.”
 
@@ -97,16 +97,16 @@ half an hour’s quiet reflection in her own room, she was able to join
 the others with tolerable composure. Everything was too recent for
 gaiety, but the evening passed tranquilly away; there was no longer
 anything material to be dreaded, and the comfort of ease and familiarity
-would come in time.
+would come in [[Time|time]].
 
-When her mother went up to her dressing-room at night, she followed her,
+When her mother went up to her dressing-room at [[Night|night]], she followed her,
 and made the important communication. Its effect was most extraordinary;
 for, on first hearing it, Mrs. Bennet sat quite still, and unable to
 utter a syllable. Nor was it under many, many minutes, that she could
 comprehend what she heard, though not in general backward to credit what
 was for the advantage of her family, or that came in the shape of a
-lover to any of them. She began at length to recover, to fidget about in
-her chair, get up, sit down again, wonder, and bless herself.
+[[Lover|lover]] to any of them. She began at length to recover, to fidget about in
+her chair, get up, sit down again, [[Wonder|wonder]], and bless herself.
 
 “Good gracious! Lord bless me! only think! dear me! Mr. Darcy! Who would
 have thought it? And is it really true? Oh, my sweetest Lizzy! how rich
@@ -114,7 +114,7 @@ and how great you will be! What pin-money, what jewels, what carriages
 you will have! Jane’s is nothing to it--nothing at all. I am so
 pleased--so happy. Such a charming man! so handsome! so tall! Oh, my
 dear Lizzy! pray apologize for my having disliked him so much before. I
-hope he will overlook it. Dear, dear Lizzy. A house in town! Everything
+[[Hope|hope]] he will overlook it. Dear, dear Lizzy. A [[house]] in town! Everything
 that is charming! Three daughters married! Ten thousand a year! Oh,
 Lord! what will become of me? I shall go distracted.”
 
@@ -123,10 +123,10 @@ Elizabeth, rejoicing that such an effusion was heard only by herself,
 soon went away. But before she had been three minutes in her own room,
 her mother followed her.
 
-“My dearest child,” she cried, “I can think of nothing else. Ten
+“My dearest [[Child|child]],” she cried, “I can think of nothing else. Ten
 thousand a year, and very likely more! ’Tis as good as a lord! And a
 special licence--you must and shall be married by a special licence.
-But, my dearest love, tell me what dish Mr. Darcy is particularly fond
+But, my dearest [[Love|love]], tell me what dish Mr. Darcy is particularly fond
 of, that I may have it to-morrow.”
 
 This was a sad omen of what her mother’s behaviour to the gentleman
@@ -143,7 +143,7 @@ acquainted with him; and Mr. Bennet soon assured her that he was rising
 every hour in his esteem.
 
 “I admire all my three sons-in-law highly,” said he. “Wickham, perhaps,
-is my favourite; but I think I shall like _your_ husband quite as well
+is my favourite; but I think I shall like _your_ husband quite as [[Well|well]]
 as Jane’s.”
 
 

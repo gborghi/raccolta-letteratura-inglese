@@ -1,5 +1,5 @@
 ---
-title: "Berenice (part 2)"
+title: "[[Berenice]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Berenice-(Poe)"
@@ -16,10 +16,10 @@ tags:
 
       To muse for long unwearied hours, with my attention riveted to
       some frivolous device on the margin, or in the typography of a
-      book; to become absorbed, for the better part of a summer’s day,
-      in a quaint shadow falling aslant upon the tapestry or upon the
-      floor; to lose myself, for an entire night, in watching the
-      steady flame of a lamp, or the embers of a fire; to dream away
+      book; to become absorbed, for the better part of a [[Summer|summer]]’s day,
+      in a quaint [[Shadow|shadow]] falling aslant upon the tapestry or upon the
+      floor; to lose myself, for an entire [[Night|night]], in watching the
+      steady flame of a lamp, or the embers of a [[Fire|fire]]; to dream away
       whole days over the perfume of a flower; to repeat, monotonously,
       some common word, until the sound, by dint of frequent
       repetition, ceased to convey any idea whatever to the mind; to
@@ -31,10 +31,10 @@ tags:
       anything like analysis or explanation.
 
       Yet let me not be misapprehended. The undue, earnest, and morbid
-      attention thus excited by objects in their own nature frivolous,
+      attention thus excited by objects in their own [[Nature|nature]] frivolous,
       must not be confounded in character with that ruminating
       propensity common to all mankind, and more especially indulged in
-      by persons of ardent imagination. It was not even, as might be at
+      by persons of ardent [[Imagination|imagination]]. It was not even, as might be at
       first supposed, an extreme condition, or exaggeration of such
       propensity, but primarily and essentially distinct and different.
       In the one instance, the dreamer, or enthusiast, being interested
@@ -57,14 +57,14 @@ tags:
 
       My books, at this epoch, if they did not actually serve to
       irritate the disorder, partook, it will be perceived, largely, in
-      their imaginative and inconsequential nature, of the
-      characteristic qualities of the disorder itself. I well remember,
+      their imaginative and inconsequential [[Nature|nature]], of the
+      characteristic qualities of the disorder itself. I [[Well|well]] remember,
       among others, the treatise of the noble Italian, Coelius Secundus
       Curio, “_De Amplitudine Beati Regni Dei;_” St. Austin’s great
-      work, the “City of God;” and Tertullian’s “_De Carne Christi_,”
+      work, the “[[City]] of God;” and Tertullian’s “_De Carne Christi_,”
       in which the paradoxical sentence “_Mortuus est Dei filius;
       credible est quia ineptum est: et sepultus resurrexit; certum est
-      quia impossibile est,_” occupied my undivided time, for many
+      quia impossibile est,_” occupied my undivided [[Time|time]], for many
       weeks of laborious and fruitless investigation.
 
       Thus it will appear that, shaken from its balance only by trivial
@@ -73,42 +73,42 @@ tags:
       human violence, and the fiercer fury of the waters and the winds,
       trembled only to the touch of the flower called Asphodel. And
       although, to a careless thinker, it might appear a matter beyond
-      doubt, that the alteration produced by her unhappy malady, in the
-      _moral_ condition of Berenice, would afford me many objects for
-      the exercise of that intense and abnormal meditation whose nature
+      [[Doubt|doubt]], that the alteration produced by her unhappy malady, in the
+      _moral_ condition of [[Berenice]], would afford me many objects for
+      the exercise of that intense and abnormal meditation whose [[Nature|nature]]
       I have been at some trouble in explaining, yet such was not in
       any degree the case. In the lucid intervals of my infirmity, her
-      calamity, indeed, gave me pain, and, taking deeply to heart that
+      calamity, indeed, gave me [[Pain|pain]], and, taking deeply to heart that
       total wreck of her fair and gentle life, I did not fail to
-      ponder, frequently and bitterly, upon the wonder-working means by
+      ponder, frequently and bitterly, upon the [[Wonder|wonder]]-working means by
       which so strange a revolution had been so suddenly brought to
       pass. But these reflections partook not of the idiosyncrasy of my
       disease, and were such as would have occurred, under similar
       circumstances, to the ordinary mass of mankind. True to its own
       character, my disorder revelled in the less important but more
-      startling changes wrought in the _physical_ frame of Berenice—in
+      startling changes wrought in the _physical_ frame of [[Berenice]]—in
       the singular and most appalling distortion of her personal
-      identity.
+      [[Identity|identity]].
 
-      During the brightest days of her unparalleled beauty, most surely
+      During the brightest days of her unparalleled [[Beauty|beauty]], most surely
       I had never loved her. In the strange anomaly of my existence,
       feelings with me, _had never been_ of the heart, and my passions
       _always were_ of the mind. Through the gray of the early
       morning—among the trellised shadows of the forest at noonday—and
-      in the silence of my library at night—she had flitted by my eyes,
-      and I had seen her—not as the living and breathing Berenice, but
-      as the Berenice of a dream; not as a being of the earth, earthy,
+      in the [[Silence|silence]] of my library at [[Night|night]]—she had flitted by my eyes,
+      and I had seen her—not as the living and breathing [[Berenice]], but
+      as the [[Berenice]] of [[A Dream|a dream]]; not as a being of the earth, earthy,
       but as the abstraction of such a being; not as a thing to admire,
-      but to analyze; not as an object of love, but as the theme of the
+      but to analyze; not as an object of [[Love|love]], but as the theme of the
       most abstruse although desultory speculation. And _now_—now I
       shuddered in her presence, and grew pale at her approach; yet,
       bitterly lamenting her fallen and desolate condition, I called to
       mind that she had loved me long, and, in an evil moment, I spoke
-      to her of marriage.
+      to her of [[Marriage|marriage]].
 
       And at length the period of our nuptials was approaching, when,
-      upon an afternoon in the winter of the year—one of those
-      unseasonably warm, calm, and misty days which are the nurse of
+      upon an afternoon in the [[Winter|winter]] of the year—one of those
+      unseasonably warm, calm, and misty days which are the [[Nurse|nurse]] of
       the beautiful Halcyon (*1),—I sat, (and sat, as I thought,
-      alone,) in the inner apartment of the library. But, uplifting my
-      eyes, I saw that Berenice stood before me.
+      [[Alone|alone]],) in the inner apartment of the library. But, uplifting my
+      eyes, I saw that [[Berenice]] stood before me.

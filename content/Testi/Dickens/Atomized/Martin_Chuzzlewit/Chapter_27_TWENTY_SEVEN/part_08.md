@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 8)"
+title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -20,7 +20,7 @@ ha, ha! Then there are the Life Assurances without loans; the common
 policies. Very profitable, very comfortable. Money down, you know;
 repeated every year; capital fun!’
 
-‘But when they begin to fall in,’ observed Jonas. ‘It’s all very well,
+‘But when they begin to fall in,’ observed Jonas. ‘It’s all very [[Well|well]],
 while the office is young, but when the policies begin to die--that’s
 what I am thinking of.’
 
@@ -30,12 +30,12 @@ us down to a grand piano.’
 
 ‘Brought you down where?’ cried Jonas.
 
-‘I give you my sacred word of honour,’ said Tigg Montague, ‘that I
+‘I give you my sacred word of [[Honour|honour]],’ said Tigg Montague, ‘that I
 raised money on every other individual piece of property, and was left
-alone in the world with a grand piano. And it was an upright-grand too,
+[[Alone|alone]] in the world with a grand piano. And it was an upright-grand too,
 so that I couldn’t even sit upon it. But, my dear fellow, we got over
 it. We granted a great many new policies that week (liberal allowance
-to solicitors, by the bye), and got over it in no time. Whenever they
+to solicitors, by the bye), and got over it in no [[Time|time]]. Whenever they
 should chance to fall in heavily, as you very justly observe they may,
 one of these days; then--’ he finished the sentence in so low a whisper,
 that only one disconnected word was audible, and that imperfectly. But
@@ -43,11 +43,11 @@ it sounded like ‘Bolt.’
 
 ‘Why, you’re as bold as brass!’ said Jonas, in the utmost admiration.
 
-‘A man can well afford to be as bold as brass, my good fellow, when he
+‘A man can [[Well|well]] afford to be as bold as brass, my good fellow, when he
 gets gold in exchange!’ cried the chairman, with a laugh that shook him
 from head to foot. ‘You’ll dine with me to-morrow?’
 
-‘At what time?’ asked Jonas.
+‘At what [[Time|time]]?’ asked Jonas.
 
 ‘Seven. Here’s my card. Take the documents. I see you’ll join us!’
 
@@ -63,7 +63,7 @@ Being charged to show Jonas out, it went before; and the voice within it
 cried, as usual, ‘By your leave there, by your leave! Gentleman from the
 board-room, by your leave!’
 
-Mr Montague being left alone, pondered for some moments, and then said,
+Mr Montague being left [[Alone|alone]], pondered for some moments, and then said,
 raising his voice:
 
 ‘Is Nadgett in the office there?’
@@ -75,18 +75,18 @@ He was the man at a pound a week who made the inquiries. It was no
 virtue or merit in Nadgett that he transacted all his Anglo-Bengalee
 business secretly and in the closest confidence; for he was born to be
 a secret. He was a short, dried-up, withered old man, who seemed to have
-secreted his very blood; for nobody would have given him credit for the
-possession of six ounces of it in his whole body. How he lived was a
+secreted his very [[Blood|blood]]; for nobody would have given him credit for the
+possession of six ounces of it in his whole [[Body|body]]. How he lived was a
 secret; where he lived was a secret; and even what he was, was a secret.
 In his musty old pocket-book he carried contradictory cards, in some of
 which he called himself a coal-merchant, in others a wine-merchant,
 in others a commission-agent, in others a collector, in others an
 accountant; as if he really didn’t know the secret himself. He was
-always keeping appointments in the City, and the other man never seemed
+always keeping appointments in the [[City]], and the other man never seemed
 to come. He would sit on ‘Change for hours, looking at everybody who
 walked in and out, and would do the like at Garraway’s, and in other
 business coffee-rooms, in some of which he would be occasionally seen
-drying a very damp pocket-handkerchief before the fire, and still
+drying a very damp pocket-handkerchief before the [[Fire|fire]], and still
 looking over his shoulder for the man who never appeared. He was
 mildewed, threadbare, shabby; always had flue upon his legs and back;
 and kept his linen so secretly buttoning up and wrapping over, that he
@@ -103,10 +103,10 @@ weeks afterwards, very much to his own surprise, quite yellow. He was
 that sort of man that if he had died worth a million of money, or had
 died worth twopence halfpenny, everybody would have been perfectly
 satisfied, and would have said it was just as they expected. And yet
-he belonged to a class; a race peculiar to the City; who are secrets as
+he belonged to a class; a race peculiar to the [[City]]; who are [[Secrets|secrets]] as
 profound to one another, as they are to the rest of mankind.
 
-‘Mr Nadgett,’ said Montague, copying Jonas Chuzzlewit’s address upon a
+‘Mr Nadgett,’ said Montague, copying [[Jonas Chuzzlewit]]’s address upon a
 piece of paper, from the card which was still lying on the table, ‘any
 information about this name, I shall be glad to have myself. Don’t you
 mind what it is. Any you can scrape together, bring me. Bring it to me,
@@ -116,7 +116,7 @@ Nadgett put on his spectacles, and read the name attentively; then
 looked at the chairman over his glasses, and bowed; then took them off,
 and put them in their case; and then put the case in his pocket. When he
 had done so, he looked, without his spectacles, at the paper as it lay
-before him, and at the same time produced his pocket-book from somewhere
+before him, and at the same [[Time|time]] produced his pocket-book from somewhere
 about the middle of his spine. Large as it was, it was very full of
 documents, but he found a place for this one; and having clasped it
 carefully, passed it by a kind of solemn legerdemain into the same

@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 13 (part 4)"
+title: "[[thursday]] — Chapter 13 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -18,11 +18,11 @@ tags:
 
 
 The man once known as Gogol said nothing, but the movements of his hands
-and feet were like those of a man urging a horse to renewed efforts.
+and feet were like those of a man urging a [[Horse|horse]] to renewed efforts.
 
 Through street after street, through district after district,
 went the prodigy of the flying elephant, calling crowds
-to every window, and driving the traffic left and right.
+to every [[Window|window]], and driving the traffic left and right.
 And still through all this insane publicity the three cabs toiled
 after it, until they came to be regarded as part of a procession,
 and perhaps the advertisement of a circus.  They went at such
@@ -31,12 +31,12 @@ the Albert Hall in Kensington when he thought that he was still
 in Paddington.  The animal's pace was even more fast and free
 through the empty, aristocratic streets of South Kensington,
 and he finally headed towards that part of the sky-line
-where the enormous Wheel of Earl's Court stood up in the sky.
-The wheel grew larger and larger, till it filled heaven like
-the wheel of stars.
+where the enormous [[Wheel]] of Earl's [[Court]] stood up in the sky.
+The [[Wheel|wheel]] grew larger and larger, till it filled heaven like
+the [[Wheel|wheel]] of [[Stars|stars]].
 
 The beast outstripped the cabs.  They lost him round several corners,
-and when they came to one of the gates of the Earl's Court Exhibition they
+and when they came to one of the gates of the Earl's [[Court]] Exhibition they
 found themselves finally blocked.  In front of them was an enormous crowd;
 in the midst of it was an enormous elephant, heaving and shuddering as such
 shapeless creatures do.  But the President had disappeared.
@@ -45,7 +45,7 @@ shapeless creatures do.  But the President had disappeared.
 
 "Gentleman rushed into the Exhibition, sir!" said an official
 in a dazed manner.  Then he added in an injured voice:
-"Funny gentleman, sir.  Asked me to hold his horse,
+"Funny gentleman, sir.  Asked me to hold his [[Horse|horse]],
 and gave me this."
 
 He held out with distaste a piece of folded paper, addressed:
@@ -75,30 +75,30 @@ a captive balloon?"
 "Nothing," said Syme, "except that it isn't captive!"
 
 They all turned their eyes to where the balloon swung and swelled
-above the Exhibition on a string, like a child's balloon.
+above the Exhibition on a string, like a [[Child|child]]'s balloon.
 A second afterwards the string came in two just under the car,
-and the balloon, broken loose, floated away with the freedom
+and the balloon, broken loose, floated away with the [[Freedom|freedom]]
 of a soap bubble.
 
 "Ten thousand devils!" shrieked the Secretary.  "He's got into it!"
 and he shook his fists at the sky.
 
-The balloon, borne by some chance wind, came right above them,
+The balloon, borne by some chance [[Wind|wind]], came right above them,
 and they could see the great white head of the President peering
 over the side and looking benevolently down on them.
 
-"God bless my soul!" said the Professor with the elderly manner that
+"God bless my [[Soul|soul]]!" said [[The Professor|the Professor]] with the elderly manner that
 he could never disconnect from his bleached beard and parchment face.
-"God bless my soul!  I seemed to fancy that something fell on the top
+"God bless my [[Soul|soul]]!  I seemed to fancy that something fell on the top
 of my hat!"
 
 He put up a trembling hand and took from that shelf a piece of twisted paper,
-which he opened absently only to find it inscribed with a true lover's
+which he opened absently only to find it inscribed with a true [[Lover|lover]]'s
 knot and, the words:--
 
-"Your beauty has not left me indifferent.--From LITTLE SNOWDROP."
+"Your [[Beauty|beauty]] has not left me indifferent.--From LITTLE SNOWDROP."
 
-There was a short silence, and then Syme said, biting his beard--
+There was a short [[Silence|silence]], and then Syme said, biting his beard--
 
 "I'm not beaten yet.  The blasted thing must come down somewhere.
 Let's follow it!"

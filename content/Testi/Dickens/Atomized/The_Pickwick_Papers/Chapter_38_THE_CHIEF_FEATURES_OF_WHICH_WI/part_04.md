@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-Just as the clock struck three, there was blown into the crescent a
+Just as the [[Clock|clock]] struck three, there was blown into the crescent a
 sedan-chair with Mrs. Dowler inside, borne by one short, fat chairman,
 and one long, thin one, who had had much ado to keep their bodies
 perpendicular: to say nothing of the chair. But on that high ground, and
-in the crescent, which the wind swept round and round as if it were
+in the crescent, which the [[Wind|wind]] swept round and round as if it were
 going to tear the paving stones up, its fury was tremendous. They were
-very glad to set the chair down, and give a good round loud double-knock
+very glad to set the chair down, and give a good round loud [[Double|double]]-knock
 at the street door.
 
-They waited some time, but nobody came.
+They waited some [[Time|time]], but nobody came.
 
 ‘Servants is in the arms o’ Porpus, I think,’ said the short chairman,
 warming his hands at the attendant link-boy’s torch.
@@ -35,8 +35,8 @@ chair. ‘Knock two or three times, if you please.’
 
 The short man was quite willing to get the job over, as soon as
 possible; so he stood on the step, and gave four or five most startling
-double-knocks, of eight or ten knocks a-piece, while the long man went
-into the road, and looked up at the windows for a light.
+[[Double|double]]-knocks, of eight or ten knocks a-piece, while the long man went
+into the [[Road|road]], and looked up at the windows for a light.
 
 Nobody came. It was all as silent and dark as ever.
 
@@ -56,7 +56,7 @@ with the utmost politeness.
 
 The short man did knock again several times, without producing the
 smallest effect. The tall man, growing very impatient, then relieved
-him, and kept on perpetually knocking double-knocks of two loud knocks
+him, and kept on perpetually knocking [[Double|double]]-knocks of two loud knocks
 each, like an insane postman.
 
 At length Mr. Winkle began to dream that he was at a club, and that the
@@ -91,27 +91,27 @@ footman; ‘but open the door.’
 
 Mr. Winkle, being half asleep, obeyed the command mechanically, opened
 the door a little, and peeped out. The first thing he saw, was the red
-glare of the link-boy’s torch. Startled by the sudden fear that the
-house might be on fire, he hastily threw the door wide open, and holding
+glare of the link-boy’s torch. Startled by the sudden [[Fear|fear]] that the
+[[house]] might be on [[Fire|fire]], he hastily threw the door wide open, and holding
 the candle above his head, stared eagerly before him, not quite certain
-whether what he saw was a sedan-chair or a fire-engine. At this instant
-there came a violent gust of wind; the light was blown out; Mr. Winkle
+whether what he saw was a sedan-chair or a [[Fire|fire]]-engine. At this instant
+there came a violent gust of [[Wind|wind]]; the light was blown out; Mr. Winkle
 felt himself irresistibly impelled on to the steps; and the door blew
 to, with a loud crash.
 
-‘Well, young man, now you _have _done it!’ said the short chairman.
+‘[[Well]], young man, now you _have _done it!’ said the short chairman.
 
-Mr. Winkle, catching sight of a lady’s face at the window of the sedan,
+Mr. Winkle, catching sight of a lady’s face at the [[Window|window]] of the sedan,
 turned hastily round, plied the knocker with all his might and main, and
 called frantically upon the chairman to take the chair away again.
 
 
 ‘Take it away, take it away,’ cried Mr. Winkle. ‘Here’s somebody coming
-out of another house; put me into the chair. Hide me! Do something with
+out of another [[house]]; put me into the chair. Hide me! Do something with
 me!’
 
-All this time he was shivering with cold; and every time he raised his
-hand to the knocker, the wind took the dressing-gown in a most
+All this [[Time|time]] he was shivering with cold; and every [[Time|time]] he raised his
+hand to the knocker, the [[Wind|wind]] took the dressing-gown in a most
 unpleasant manner.
 
 ‘The people are coming down the crescent now. There are ladies with ‘em;
@@ -121,35 +121,35 @@ slightest assistance, and the ladies were every moment approaching
 nearer and nearer.
 
 Mr. Winkle gave a last hopeless knock; the ladies were only a few doors
-off. He threw away the extinguished candle, which, all this time he had
+off. He threw away the extinguished candle, which, all this [[Time|time]] he had
 held above his head, and fairly bolted into the sedan-chair where Mrs.
 Dowler was.
 
 Now, Mrs. Craddock had heard the knocking and the voices at last; and,
 only waiting to put something smarter on her head than her nightcap, ran
 down into the front drawing-room to make sure that it was the right
-party. Throwing up the window-sash as Mr. Winkle was rushing into the
+party. Throwing up the [[Window|window]]-sash as Mr. Winkle was rushing into the
 chair, she no sooner caught sight of what was going forward below, than
 she raised a vehement and dismal shriek, and implored Mr. Dowler to get
 up directly, for his wife was running away with another gentleman.
 
 Upon this, Mr. Dowler bounced off the bed as abruptly as an India-rubber
-ball, and rushing into the front room, arrived at one window just as Mr.
-Pickwick threw up the other, when the first object that met the gaze of
+ball, and rushing into the front room, arrived at one [[Window|window]] just as Mr.
+[[Pickwick]] threw up the other, when the first object that met the gaze of
 both, was Mr. Winkle bolting into the sedan-chair.
 
 ‘Watchman,’ shouted Dowler furiously, ‘stop him--hold him--keep him
 tight--shut him in, till I come down. I’ll cut his throat--give me a
 knife--from ear to ear, Mrs. Craddock--I will!’ And breaking from the
-shrieking landlady, and from Mr. Pickwick, the indignant husband seized
+shrieking landlady, and from Mr. [[Pickwick]], the indignant husband seized
 a small supper-knife, and tore into the street.
 
 But Mr. Winkle didn’t wait for him. He no sooner heard the horrible
 threat of the valorous Dowler, than he bounced out of the sedan, quite
 as quickly as he had bounced in, and throwing off his slippers into the
-road, took to his heels and tore round the crescent, hotly pursued by
+[[Road|road]], took to his heels and tore round the crescent, hotly pursued by
 Dowler and the watchman. He kept ahead; the door was open as he came
-round the second time; he rushed in, slammed it in Dowler’s face,
+round the second [[Time|time]]; he rushed in, slammed it in Dowler’s face,
 mounted to his bedroom, locked the door, piled a wash-hand-stand, chest
 of drawers, and a table against it, and packed up a few necessaries
 ready for flight with the first ray of morning.
@@ -157,9 +157,9 @@ ready for flight with the first ray of morning.
 Dowler came up to the outside of the door; avowed, through the keyhole,
 his steadfast determination of cutting Mr. Winkle’s throat next day;
 and, after a great confusion of voices in the drawing-room, amidst which
-that of Mr. Pickwick was distinctly heard endeavouring to make peace,
+that of Mr. [[Pickwick]] was distinctly heard endeavouring to make peace,
 the inmates dispersed to their several bed-chambers, and all was quiet
 once more.
 
 It is not unlikely that the inquiry may be made, where Mr. Weller was,
-all this time? We will state where he was, in the next chapter.
+all this [[Time|time]]? We will state where he was, in the next chapter.

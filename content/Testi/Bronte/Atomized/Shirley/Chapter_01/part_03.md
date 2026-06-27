@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 1 (part 3)"
+title: "[[Shirley]] — Chapter 1 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,11 +24,11 @@ spoke of rags, beggary, and pestilence. The little parlour was in an
 
 uproar; you would have thought a duel must follow such virulent abuse;
 
-it seemed a wonder that Mr. and Mrs. Gale did not take alarm at the
+it seemed a [[Wonder|wonder]] that Mr. and Mrs. Gale did not take alarm at the
 
 noise, and send for a constable to keep the peace. But they were
 
-accustomed to such demonstrations; they well knew that the curates never
+accustomed to such demonstrations; they [[Well|well]] knew that the curates never
 
 dined or took tea together without a little exercise of the sort, and
 
@@ -36,13 +36,13 @@ were quite easy as to consequences, knowing that these clerical quarrels
 
 were as harmless as they were noisy, that they resulted in nothing, and
 
-that, on whatever terms the curates might part to-night, they would be
+that, on whatever terms the curates might part to-[[Night|night]], they would be
 
 sure to meet the best friends in the world to-morrow morning.
 
 
 
-As the worthy pair were sitting by their kitchen fire, listening to the
+As the worthy pair were sitting by their kitchen [[Fire|fire]], listening to the
 
 repeated and sonorous contact of Malone's fist with the mahogany plane
 
@@ -170,13 +170,13 @@ cavernous--"what! has the miracle of Pentecost been renewed? Have the
 
 cloven tongues come down again? Where are they? The sound filled the
 
-whole house just now. I heard the seventeen languages in full action:
+whole [[house]] just now. I heard the seventeen languages in full action:
 
 Parthians, and Medes, and Elamites, the dwellers in Mesopotamia, and in
 
 Judea, and Cappadocia, in Pontus and Asia, Phrygia and Pamphylia, in
 
-Egypt and in the parts of Libya about Cyrene, strangers of Rome, Jews
+[[Egypt]] and in the parts of Libya about Cyrene, strangers of Rome, Jews
 
 and proselytes, Cretes and Arabians; every one of these must have had
 
@@ -200,7 +200,7 @@ proceeded,--
 
 chapter, and book, and Testament--gospel for law, Acts for Genesis, the
 
-city of Jerusalem for the plain of Shinar. It was no gift but the
+[[City|city]] of Jerusalem for the plain of Shinar. It was no gift but the
 
 confusion of tongues which has gabbled me deaf as a post. _You_,
 
@@ -222,7 +222,7 @@ Dissenters? It sounded to me much more like settling his co-apostles.
 
 You were quarrelling together, making almost as much noise--you three
 
-alone--as Moses Barraclough, the preaching tailor, and all his hearers
+[[Alone|alone]]--as Moses Barraclough, the preaching tailor, and all his hearers
 
 are making in the Methodist chapel down yonder, where they are in the
 
@@ -260,4 +260,4 @@ ramrod, looking keen as a kite, presented, despite his clerical hat,
 
 black coat, and gaiters, more the air of a veteran officer chiding his
 
-subalterns than of a venerable priest exhorting his sons in the faith.
+subalterns than of a venerable priest exhorting his sons in the [[Faith|faith]].

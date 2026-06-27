@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 60)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 60)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-forget that they were stories by an American about America. The very
+forget that they were stories by an American about [[America]]. The very
 
 first fact about them is that they are told with an American accent,
 
@@ -22,15 +22,15 @@ that is, in the unmistakable tones of a brilliant and fascinating
 
 foreigner. And the same is true of every other recent work of which the
 
-fame has managed to cross the Atlantic. We did not say that _The Spoon
+fame has managed to [[Cross|cross]] the Atlantic. We did not say that _The Spoon
 
-River Anthology_ was a new book, but that it was a new book from
+[[River]] Anthology_ was a new book, but that it was a new book from
 
-America. It was exactly as if a remarkable realistic novel was reported
+[[America]]. It was exactly as if a remarkable realistic [[Novel|novel]] was reported
 
-from Russia or Italy. We were in no danger of confusing it with the
+from [[Russia]] or [[Italy]]. We were in no danger of confusing it with the
 
-'Elegy in a Country Churchyard.' People in England who heard of Main
+'[[Elegy]] in a Country Churchyard.' People in England who heard of Main
 
 Street were not likely to identify it with a High Street; with the
 
@@ -38,9 +38,9 @@ principal thoroughfare in any little town in Berkshire or
 
 Buckinghamshire. But when I was a boy I practically identified the
 
-boarding-house of the Autocrat with any boarding-house I happened to
+boarding-[[house]] of the Autocrat with any boarding-[[house]] I happened to
 
-know in Brompton or Brighton. No doubt there were differences; but the
+know in Brompton or Brighton. No [[Doubt|doubt]] there were differences; but the
 
 point is that the differences did not pierce the consciousness or prick
 
@@ -52,15 +52,15 @@ boarding-houses,' not 'People are like this in Boston.'
 
 This can be seen even in the simple matter of language, especially in
 
-the sense of slang. Take, for instance, the delightful sketch in the
+the sense of slang. Take, for instance, the delightful [[Sketch|sketch]] in the
 
-causerie of Oliver Wendell Holmes; the character of the young man called
+causerie of [[Oliver]] Wendell Holmes; the character of the young man called
 
 John. He is the very modern type in every modern country who does
 
 specialise in slang. He is the young fellow who is something in the
 
-City; the everyday young man of the Gilbertian song, with a stick and a
+[[City]]; the everyday young man of the Gilbertian [[Song|song]], with a stick and a
 
 pipe and a half-bred black-and-tan. In every country he is at once witty
 
@@ -70,7 +70,7 @@ vivacity and the vulgarity of slang. But when he appeared in Holmes's
 
 book, his language was not very different from what it would have been
 
-in a Brighton instead of a Boston boarding-house; or, in short, if the
+in a Brighton instead of a Boston boarding-[[house]]; or, in short, if the
 
 young man called John had more commonly been called 'Arry. If he had
 
@@ -84,9 +84,9 @@ dizzy and involved metaphors of O. Henry. Nor is it an answer that this
 
 depended on the personalities of the particular writers. A comparison
 
-between the real journalism of the time of Holmes and the real
+between the real journalism of the [[Time|time]] of Holmes and the real
 
-journalism of the time of Henry reveals the same thing. It is the
+journalism of the [[Time|time]] of Henry reveals the same thing. It is the
 
 expansion of a slight difference of style into a luxuriant difference of
 
@@ -112,19 +112,19 @@ Indeed, the story of the reversal is somewhat singular, when we come to
 
 think of it. It began in a certain atmosphere and spirit of certain
 
-well-meaning people who talked about the English-speaking race; and were
+[[Well|well]]-meaning people who talked about the English-speaking race; and were
 
 apparently indifferent to how the English was spoken, whether in the
 
 accent of a Jamaican negro or a convict from Botany Bay. It was their
 
-logical tendency to say that Dante was a Dago. It was their logical
+logical tendency to say that [[Dante]] was a Dago. It was their logical
 
 punishment to say that Disraeli was an Englishman. Now there may have
 
 been a period when this Anglo-American amalgamation included more or
 
-less equal elements from England and America. It never included the
+less equal elements from England and [[America]]. It never included the
 
 larger elements, or the more valuable elements of either. But, on the
 
@@ -138,23 +138,23 @@ their past triumphs to England; which was false. They ended up by
 
 telling the English that they would owe all their future triumphs to
 
-America; which is if possible still more false. Because we chose to
+[[America]]; which is if possible still more false. Because we chose to
 
-forget that New York had been New Amsterdam, we are now in danger of
+forget that [[New York]] had been New Amsterdam, we are now in danger of
 
-forgetting that London is not New York. Because we insisted that Chicago
+forgetting that [[London]] is not [[New York]]. Because we insisted that Chicago
 
-was only a pious imitation of Chiswick, we may yet see Chiswick an
+was only a pious [[Imitation|imitation]] of Chiswick, we may yet see Chiswick an
 
-inferior imitation of Chicago. Our Anglo-Saxon historians attempted that
+inferior [[Imitation|imitation]] of Chicago. Our Anglo-Saxon historians attempted that
 
 conquest in which Howe and Burgoyne had failed, and with infinitely less
 
 justification on their side. They attempted the great crime of the
 
-Anglicisation of America. They have called down the punishment of the
+Anglicisation of [[America]]. They have called down the punishment of the
 
-Americanisation of England. We must not murmur; but it is a heavy
+[[americanisation|Americanisation]] of England. We must not murmur; but it is a heavy
 
 punishment.
 
@@ -164,13 +164,13 @@ It may lift a little of its load, however, if we look at it more
 
 closely; we shall then find that though it is very much on top of us, it
 
-is only on top. In that sense such Americanisation as there is is very
+is only on top. In that sense such [[americanisation|Americanisation]] as there is is very
 
 superficial. For instance, there is a certain amount of American slang
 
 picked up at random; it appears in certain pushing types of journalism
 
-and drama. But we may easily dwell too much on this tragedy; of people
+and drama. But we may easily dwell too much on this [[Tragedy|tragedy]]; of people
 
 who have never spoken English beginning to speak American. I am far from
 
@@ -186,10 +186,10 @@ instance, is a real discovery and revelation, a new and necessary name
 
 for something that walked nameless but enormous in the modern world, a
 
-shaft of light and a stroke of lightning. That comes from America and
+shaft of light and a stroke of [[Lightning|lightning]]. That comes from [[America]] and
 
-belongs to the world, as much as 'The Raven' or _The Scarlet Letter_ or
+belongs to the world, as much as '[[The Raven]]' or _The Scarlet Letter_ or
 
 the novels of Henry James belong to the world. In fact, I can imagine
 
-Henry James originating it in the throes of self-expression, and
+Henry James originating it in the throes of [[Self|self]]-expression, and

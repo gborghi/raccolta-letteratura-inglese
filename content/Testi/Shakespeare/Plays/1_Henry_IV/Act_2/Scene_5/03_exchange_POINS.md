@@ -1,5 +1,5 @@
 ---
-title: "1 Henry IV — Act II, Scene 5 — exchange (POINS) [3]"
+title: "1 [[Henry IV]] — Act II, Scene 5 — exchange (POINS) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/1-HENRY-IV-(Shakespeare)"
@@ -38,7 +38,7 @@ tags:
 | PRINCE HARRY | I will give thee for it a thousand pound. Ask me when thou wilt, and thou shalt have it— |
 | POINS | (within) Francis! |
 | FRANCIS | Anon, anon! |
-| PRINCE HARRY | Anon, Francis? No, Francis, but tomorrow, Francis; or, Francis, o’ Thursday; or, indeed, Francis, when thou wilt. But Francis. |
+| PRINCE HARRY | Anon, Francis? No, Francis, but tomorrow, Francis; or, Francis, o’ [[thursday|Thursday]]; or, indeed, Francis, when thou wilt. But Francis. |
 | FRANCIS | My lord. |
 | PRINCE HARRY | Wilt thou rob this leathern-jerkin, crystal-button, knot-pated, agate-ring, puke-stocking, caddis-garter, smooth-tongue, Spanish-pouch? |
 | FRANCIS | O Lord, sir, who do you mean ? |
@@ -49,10 +49,10 @@ tags:
 | PRINCE HARRY | way to go. |
 | *(didascalia)* | Enter Vintner |
 | VINTNER | What, standest thou still, and hearest such a calling? Look to the guests within. Exit Francis My lord, old Sir John with half a dozen more are at the door. Shall I let them in? |
-| PRINCE HARRY | Let them alone a while, and then open the door. Exit Vintner Poins ! |
+| PRINCE HARRY | Let them [[Alone|alone]] a while, and then open the door. Exit Vintner Poins ! |
 | POINS | within Anon, anon, sir! Enter Poins |
 | PRINCE HARRY | Sirrah, Oldcastle and the rest of the thieves are at the door. Shall we be merry? |
 | POINS | As merry as crickets, my lad. But hark ye, what cunning match have you made with this jest of the drawer? Come, what’s the issue? |
-| PRINCE HARRY | I am now of all humours that have showed themselves humours since the old days of goodman Adam to the pupil age of this present twelve o’clock at midnight. Enter Francis What’s o’clock, Francis? |
+| PRINCE HARRY | I am now of all humours that have showed themselves humours since the old days of goodman Adam to the pupil age of this present twelve o’[[Clock|clock]] at midnight. Enter Francis What’s o’[[Clock|clock]], Francis? |
 | FRANCIS | Anon, anon, sir ! Exit at another door |
-| PRINCE HARRY | That ever this fellow should have fewer words than a parrot, and yet the son of a woman ! His industry is upstairs and downstairs, his eloquence the parcel of a reckoning. I am not yet of Percy’s mind, the Hotspur of the North—he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, ‘Fie upon this quiet life ! I want work.’ ‘O my sweet Harry,’ says she, ‘how many hast thou killed today?’ Give my roan horse a drench,’says he, and answers, ‘Some fourteen,’ an hour after; ‘a trifle, a trifle.’ I prithee call in Oldcastle. I’ll play Percy, and that damned brawn shall play Dame Mortimer his wife. ‘Rivo!’ says the drunkard. Call in Ribs, call in Tallow. Enter Sir John Oldcastle, with sword and buckler, Russell, Harvey, and Gadshill, followed by Francis, with wine |
+| PRINCE HARRY | That ever this fellow should have fewer words than a parrot, and yet the son of a woman ! His industry is upstairs and downstairs, his eloquence the parcel of a reckoning. I am not yet of Percy’s mind, the [[Hotspur]] of the North—he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, ‘Fie upon this quiet life ! I want work.’ ‘O my sweet Harry,’ says she, ‘how many hast thou killed today?’ Give my roan [[Horse|horse]] a drench,’says he, and answers, ‘Some fourteen,’ an hour after; ‘a trifle, a trifle.’ I prithee call in Oldcastle. I’ll play Percy, and that damned brawn shall play Dame Mortimer his wife. ‘Rivo!’ says the drunkard. Call in Ribs, call in Tallow. Enter Sir John Oldcastle, with [[Sword|sword]] and buckler, Russell, Harvey, and Gadshill, followed by Francis, with wine |

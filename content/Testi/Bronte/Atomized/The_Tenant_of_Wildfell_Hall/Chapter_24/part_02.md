@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 24 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-He made no answer, and the meal was concluded in silence. It was a
+He made no answer, and the meal was concluded in [[Silence|silence]]. It was a
 
 relief to both when the letter-bag was brought in. It contained upon
 
@@ -24,17 +24,17 @@ letters for me, which he tossed across the table without a remark. One
 
 was from my brother, the other from Milicent Hargrave, who is now in
 
-London with her mother. His, I think, were business letters, and
+[[London]] with her mother. His, I think, were business letters, and
 
 apparently not much to his mind, for he crushed them into his pocket
 
 with some muttered expletives that I should have reproved him for at
 
-any other time. The paper he set before him, and pretended to be deeply
+any other [[Time|time]]. The paper he set before him, and pretended to be deeply
 
 absorbed in its contents during the remainder of breakfast, and a
 
-considerable time after.
+considerable [[Time|time]] after.
 
 
 
@@ -42,21 +42,21 @@ The reading and answering of my letters, and the direction of household
 
 concerns, afforded me ample employment for the morning: after lunch I
 
-got my drawing, and from dinner till bed-time I read. Meanwhile, poor
+got my drawing, and from dinner till bed-[[Time|time]] I read. Meanwhile, poor
 
-Arthur was sadly at a loss for something to amuse him or to occupy his
+[[arthur|Arthur]] was sadly at a loss for something to amuse him or to occupy his
 
-time. He wanted to appear as busy and as unconcerned as I did. Had the
+[[Time|time]]. He wanted to appear as busy and as unconcerned as I did. Had the
 
-weather at all permitted, he would doubtless have ordered his horse and
+weather at all permitted, he would doubtless have ordered his [[Horse|horse]] and
 
 set off to some distant region, no matter where, immediately after
 
-breakfast, and not returned till night: had there been a lady anywhere
+breakfast, and not returned till [[Night|night]]: had there been a lady anywhere
 
 within reach, of any age between fifteen and forty-five, he would have
 
-sought revenge and found employment in getting up, or trying to get up,
+sought [[Revenge|revenge]] and found employment in getting up, or trying to get up,
 
 a desperate flirtation with her; but being, to my private satisfaction,
 
@@ -70,31 +70,31 @@ of the morning and the whole of the afternoon in fidgeting about from
 
 room to room, watching the clouds, cursing the rain, alternately
 
-petting and teasing and abusing his dogs, sometimes lounging on the
+petting and teasing and abusing his [[dogs]], sometimes lounging on the
 
 sofa with a book that he could not force himself to read, and very
 
 often fixedly gazing at me when he thought I did not perceive it, with
 
-the vain hope of detecting some traces of tears, or some tokens of
+the vain [[Hope|hope]] of detecting some traces of [[Tears|tears]], or some tokens of
 
 remorseful anguish in my face. But I managed to preserve an undisturbed
 
-though grave serenity throughout the day. I was not really angry: I
+though [[Grave|grave]] serenity throughout the day. I was not really angry: I
 
-felt for him all the time, and longed to be reconciled; but I
+felt for him all the [[Time|time]], and longed to be reconciled; but I
 
 determined he should make the first advances, or at least show some
 
 signs of an humble and contrite spirit first; for, if I began, it would
 
-only minister to his self-conceit, increase his arrogance, and quite
+only minister to his [[Self|self]]-conceit, increase his arrogance, and quite
 
 destroy the lesson I wanted to give him.
 
 
 
-He made a long stay in the dining-room after dinner, and, I fear, took
+He made a long stay in the dining-room after dinner, and, I [[Fear|fear]], took
 
 an unusual quantity of wine, but not enough to loosen his tongue: for
 
@@ -106,7 +106,7 @@ suppressed disapprobation, and, shutting the door with a bang, went and
 
 stretched himself at full length on the sofa, and composed himself to
 
-sleep. But his favourite cocker, Dash, that had been lying at my feet,
+[[Sleep|sleep]]. But his favourite cocker, Dash, that had been lying at my feet,
 
 took the liberty of jumping upon him and beginning to lick his face. He
 
@@ -128,7 +128,7 @@ out, and then quietly took up the book.
 
 
 
-“Give that book to me,” said Arthur, in no very courteous tone. I gave
+“Give that book to me,” said [[arthur|Arthur]], in no very courteous tone. I gave
 
 it to him.
 
@@ -156,7 +156,7 @@ same manner; but in a little while, after several portentous yawns, he
 
 pronounced _his_ book to be “cursed trash,” and threw it on the table.
 
-Then followed eight or ten minutes of silence, during the greater part
+Then followed eight or ten minutes of [[Silence|silence]], during the greater part
 
 of which, I believe, he was staring at me. At last his patience was
 
@@ -164,7 +164,7 @@ tired out.
 
 
 
-“What _is_ that book, Helen?” he exclaimed.
+“What _is_ that book, [[Helen]]?” he exclaimed.
 
 
 
@@ -186,25 +186,25 @@ was much communication between my eyes and my brain; for, while the
 
 former ran over the pages, the latter was earnestly wondering when
 
-Arthur would speak next, and what he would say, and what I should
+[[arthur|Arthur]] would speak next, and what he would say, and what I should
 
-answer. But he did not speak again till I rose to make the tea, and
+answer. But he did not speak again till I [[Rose|rose]] to make the tea, and
 
 then it was only to say he should not take any. He continued lounging
 
 on the sofa, and alternately closing his eyes and looking at his watch
 
-and at me, till bed-time, when I rose, and took my candle and retired.
+and at me, till bed-[[Time|time]], when I [[Rose|rose]], and took my candle and retired.
 
 
 
-“Helen!” cried he, the moment I had left the room. I turned back, and
+“[[Helen]]!” cried he, the moment I had left the room. I turned back, and
 
 stood awaiting his commands.
 
 
 
-“What do you want, Arthur?” I said at length.
+“What do you want, [[arthur|Arthur]]?” I said at length.
 
 
 
@@ -220,7 +220,7 @@ willing it should be something else.
 
 
 
-“Were you speaking, Arthur?” I asked.
+“Were you speaking, [[arthur|Arthur]]?” I asked.
 
 
 
@@ -228,7 +228,7 @@ willing it should be something else.
 
 more of him till the following morning at breakfast, when he came down
 
-a full hour after the usual time.
+a full hour after the usual [[Time|time]].
 
 
 
@@ -238,7 +238,7 @@ a full hour after the usual time.
 
 “You needn’t have waited for me,” was his; and he walked up to the
 
-window again. It was just such weather as yesterday.
+[[Window|window]] again. It was just such weather as yesterday.
 
 
 

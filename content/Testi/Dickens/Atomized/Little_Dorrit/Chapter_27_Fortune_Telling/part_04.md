@@ -15,30 +15,30 @@ tags:
 
 
 But here again she was undeceived by anomalous and incongruous conduct
-on the part of Mr Pancks himself. She had left the table half an hour,
-and was at work alone. Flora had ‘gone to lie down’ in the next room,
+on the part of [[Mr Pancks]] himself. She had left the table half an hour,
+and was at work [[Alone|alone]]. Flora had ‘gone to lie down’ in the next room,
 concurrently with which retirement a smell of something to drink
-had broken out in the house. The Patriarch was fast asleep, with his
+had broken out in the [[house]]. The Patriarch was fast asleep, with his
 philanthropic mouth open under a yellow pocket-handkerchief in the
-dining-room. At this quiet time, Mr Pancks softly appeared before her,
+dining-room. At this quiet [[Time|time]], [[Mr Pancks]] softly appeared before her,
 urbanely nodding.
 
 ‘Find it a little dull, Miss Dorrit?’ inquired Pancks in a low voice.
 
 ‘No, thank you, sir,’ said Little Dorrit.
 
-‘Busy, I see,’ observed Mr Pancks, stealing into the room by inches.
+‘Busy, I see,’ observed [[Mr Pancks]], stealing into the room by inches.
 ‘What are those now, Miss Dorrit?’
 
 ‘Handkerchiefs.’
 
 ‘Are they, though!’ said Pancks. ‘I shouldn’t have thought it.’ Not in
 the least looking at them, but looking at Little Dorrit. ‘Perhaps you
-wonder who I am. Shall I tell you? I am a fortune-teller.’
+[[Wonder|wonder]] who I am. Shall I tell you? I am a fortune-teller.’
 
 Little Dorrit now began to think he was mad.
 
-‘I belong body and soul to my proprietor,’ said Pancks; ‘you saw my
+‘I belong [[Body|body]] and [[Soul|soul]] to my proprietor,’ said Pancks; ‘you saw my
 proprietor having his dinner below. But I do a little in the other way,
 sometimes; privately, very privately, Miss Dorrit.’
 
@@ -95,9 +95,9 @@ ever!’
 More surprised than before, and a little more frightened, she looked to
 him for an explanation of his last words.
 
-‘Not that,’ said Pancks, making, with great seriousness, an imitation
+‘Not that,’ said Pancks, making, with great seriousness, an [[Imitation|imitation]]
 of a surprised look and manner that appeared to be unintentionally
-grotesque. ‘Don’t do that. Never on seeing me, no matter when, no matter
+[[Grotesque|grotesque]]. ‘Don’t do that. Never on seeing me, no matter when, no matter
 where. I am nobody. Don’t take on to mind me. Don’t mention me. Take no
 notice. Will you agree, Miss Dorrit?’
 
@@ -121,7 +121,7 @@ to know it.” Is it agreed, Miss Dorrit?’
 ‘Ye-es,’ faltered Little Dorrit, whom he greatly confused, ‘I suppose
 so, while you do no harm.’
 
-‘Good!’ Mr Pancks glanced at the wall of the adjoining room, and stooped
+‘Good!’ [[Mr Pancks]] glanced at the wall of the adjoining room, and stooped
 forward. ‘Honest creature, woman of capital points, but heedless and
 a loose talker, Miss Dorrit.’ With that he rubbed his hands as if the
 interview had been very satisfactory to him, panted away to the door,
@@ -130,30 +130,30 @@ and urbanely nodded himself out again.
 If Little Dorrit were beyond measure perplexed by this curious conduct
 on the part of her new acquaintance, and by finding herself involved
 in this singular treaty, her perplexity was not diminished by ensuing
-circumstances. Besides that Mr Pancks took every opportunity afforded
-him in Mr Casby’s house of significantly glancing at her and snorting
+circumstances. Besides that [[Mr Pancks]] took every opportunity afforded
+him in Mr Casby’s [[house]] of significantly glancing at her and snorting
 at her--which was not much, after what he had done already--he began to
 pervade her daily life. She saw him in the street, constantly. When she
-went to Mr Casby’s, he was always there. When she went to Mrs Clennam’s,
+went to Mr Casby’s, he was always there. When she went to [[Mrs Clennam]]’s,
 he came there on any pretence, as if to keep her in his sight. A week
 had not gone by, when she found him to her astonishment in the Lodge one
-night, conversing with the turnkey on duty, and to all appearance one
+[[Night|night]], conversing with the turnkey on duty, and to all appearance one
 of his familiar companions. Her next surprise was to find him equally at
-his ease within the prison; to hear of his presenting himself among
-the visitors at her father’s Sunday levee; to see him arm in arm with
+his ease within the [[Prison|prison]]; to hear of his presenting himself among
+the visitors at her father’s [[Sunday]] levee; to see him arm in arm with
 a Collegiate friend about the yard; to learn, from Fame, that he had
 greatly distinguished himself one evening at the social club that held
 its meetings in the Snuggery, by addressing a speech to the members
-of the institution, singing a song, and treating the company to five
+of the institution, singing a [[Song|song]], and treating the company to five
 gallons of ale--report madly added a bushel of shrimps. The effect on
 Mr Plornish of such of these phenomena as he became an eye-witness of in
 his faithful visits, made an impression on Little Dorrit only second to
 that produced by the phenomena themselves. They seemed to gag and bind
 him. He could only stare, and sometimes weakly mutter that it wouldn’t
 be believed down Bleeding Heart Yard that this was Pancks; but he never
-said a word more, or made a sign more, even to Little Dorrit. Mr Pancks
+said a word more, or made a sign more, even to Little Dorrit. [[Mr Pancks]]
 crowned his mysteries by making himself acquainted with Tip in some
-unknown manner, and taking a Sunday saunter into the College on that
+unknown manner, and taking a [[Sunday]] saunter into the College on that
 gentleman’s arm. Throughout he never took any notice of Little Dorrit,
 save once or twice when he happened to come close to her and there
 was no one very near; on which occasions, he said in passing,

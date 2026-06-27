@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 5)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -24,21 +24,21 @@ me now, ’Dolphus?”
 
 Mrs. Tetterby gave him a thankful kiss, and went on.
 
-“I begin to hope you won’t, now, ’Dolphus, though I’m afraid I haven’t
+“I begin to [[Hope|hope]] you won’t, now, ’Dolphus, though I’m afraid I haven’t
 told you the worst. I can’t think what came over me. I don’t know
 whether I was ill, or mad, or what I was, but I couldn’t call up anything
 that seemed to bind us to each other, or to reconcile me to my fortune.
 All the pleasures and enjoyments we had ever had—_they_ seemed so poor
 and insignificant, I hated them. I could have trodden on them. And I
 could think of nothing else, except our being poor, and the number of
-mouths there were at home.”
+mouths there were at [[Home|home]].”
 
-“Well, well, my dear,” said Mr. Tetterby, shaking her hand encouragingly,
-“that’s truth, after all. We _are_ poor, and there _are_ a number of
-mouths at home here.”
+“[[Well]], [[Well|well]], my dear,” said Mr. Tetterby, shaking her hand encouragingly,
+“that’s [[Truth|truth]], after all. We _are_ poor, and there _are_ a number of
+mouths at [[Home|home]] here.”
 
 “Ah! but, Dolf, Dolf!” cried his wife, laying her hands upon his neck,
-“my good, kind, patient fellow, when I had been at home a very little
+“my good, kind, patient fellow, when I had been at [[Home|home]] a very little
 while—how different! Oh, Dolf, dear, how different it was! I felt as if
 there was a rush of recollection on me, all at once, that softened my
 hard heart, and filled it up till it was bursting. All our struggles for
@@ -56,7 +56,7 @@ do it!”
 The good woman, quite carried away by her honest tenderness and remorse,
 was weeping with all her heart, when she started up with a scream, and
 ran behind her husband. Her cry was so terrified, that the children
-started from their sleep and from their beds, and clung about her. Nor
+started from their [[Sleep|sleep]] and from their beds, and clung about her. Nor
 did her gaze belie her voice, as she pointed to a pale man in a black
 cloak who had come into the room.
 
@@ -82,21 +82,21 @@ motion of her eyes, as if she had lost something.
 “What is it that is going from me again?” she muttered, in a low voice.
 “What _is_ this that is going away?”
 
-Then she abruptly answered: “Ill? No, I am quite well,” and stood
+Then she abruptly answered: “Ill? No, I am quite [[Well|well]],” and stood
 looking vacantly at the floor.
 
 Her husband, who had not been altogether free from the infection of her
-fear at first, and whom the present strangeness of her manner did not
+[[Fear|fear]] at first, and whom the present strangeness of her manner did not
 tend to reassure, addressed himself to the pale visitor in the black
 cloak, who stood still, and whose eyes were bent upon the ground.
 
 “What may be your pleasure, sir,” he asked, “with us?”
 
-“I fear that my coming in unperceived,” returned the visitor, “has
+“I [[Fear|fear]] that my coming in unperceived,” returned the visitor, “has
 alarmed you; but you were talking and did not hear me.”
 
 “My little woman says—perhaps you heard her say it,” returned Mr.
-Tetterby, “that it’s not the first time you have alarmed her to-night.”
+Tetterby, “that it’s not the first [[Time|time]] you have alarmed her to-[[Night|night]].”
 
 “I am sorry for it. I remember to have observed her, for a few moments
 only, in the street. I had no intention of frightening her.”
@@ -106,7 +106,7 @@ to see what dread she had of him, and with what dread he observed it—and
 yet how narrowly and closely.
 
 “My name,” he said, “is Redlaw. I come from the old college hard by. A
-young gentleman who is a student there, lodges in your house, does he
+young gentleman who is a student there, lodges in your [[house]], does he
 not?”
 
 “Mr. Denham?” said Tetterby.
@@ -136,10 +136,10 @@ or fascinated.
 At length he said, “I’ll light you, sir, if you’ll follow me.”
 
 “No,” replied the Chemist, “I don’t wish to be attended, or announced to
-him. He does not expect me. I would rather go alone. Please to give me
+him. He does not expect me. I would rather go [[Alone|alone]]. Please to give me
 the light, if you can spare it, and I’ll find the way.”
 
-In the quickness of his expression of this desire, and in taking the
+In the quickness of his expression of this [[Desire|desire]], and in taking the
 candle from the newsman, he touched him on the breast. Withdrawing his
 hand hastily, almost as though he had wounded him by accident (for he did
 not know in what part of himself his new power resided, or how it was

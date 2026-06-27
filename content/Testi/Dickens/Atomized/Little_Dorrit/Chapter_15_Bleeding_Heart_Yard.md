@@ -17,26 +17,26 @@ tags:
 CHAPTER 12. Bleeding Heart Yard
 
 
-In London itself, though in the old rustic road towards a suburb of note
+In [[London]] itself, though in the old rustic [[Road|road]] towards a suburb of note
 where in the days of William Shakespeare, author and stage-player, there
 were Royal hunting-seats--howbeit no sport is left there now but for
 hunters of men--Bleeding Heart Yard was to be found; a place much
 changed in feature and in fortune, yet with some relish of ancient
-greatness about it. Two or three mighty stacks of chimneys, and a few
+[[Greatness|greatness]] about it. Two or three mighty stacks of chimneys, and a few
 large dark rooms which had escaped being walled and subdivided out of
 the recognition of their old proportions, gave the Yard a character.
 It was inhabited by poor people, who set up their rest among its faded
-glories, as Arabs of the desert pitch their tents among the fallen
+glories, as Arabs of the [[Desert|desert]] pitch their tents among the fallen
 stones of the Pyramids; but there was a family sentimental feeling
 prevalent in the Yard, that it had a character.
 
-As if the aspiring city had become puffed up in the very ground on which
+As if the aspiring [[City|city]] had become puffed up in the very ground on which
 it stood, the ground had so risen about Bleeding Heart Yard that you
 got into it down a flight of steps which formed no part of the original
 approach, and got out of it by a low gateway into a maze of shabby
 streets, which went about and about, tortuously ascending to the level
 again. At this end of the Yard and over the gateway, was the factory of
-Daniel Doyce, often heavily beating like a bleeding heart of iron,
+[[Daniel Doyce]], often heavily beating like a bleeding heart of iron,
 with the clink of metal upon metal.
 
 The opinion of the Yard was divided respecting the derivation of its
@@ -44,15 +44,15 @@ name. The more practical of its inmates abided by the tradition of a
 murder; the gentler and more imaginative inhabitants, including the
 whole of the tender sex, were loyal to the legend of a young lady of
 former times closely imprisoned in her chamber by a cruel father for
-remaining true to her own true love, and refusing to marry the suitor he
+remaining true to her own true [[Love|love]], and refusing to marry the suitor he
 chose for her. The legend related how that the young lady used to be
-seen up at her window behind the bars, murmuring a love-lorn song of
+seen up at her [[Window|window]] behind the bars, murmuring a [[Love|love]]-lorn [[Song|song]] of
 which the burden was, ‘Bleeding Heart, Bleeding Heart, bleeding away,’
 until she died. It was objected by the murderous party that this Refrain
 was notoriously the invention of a tambour-worker, a spinster and
 romantic, still lodging in the Yard. But, forasmuch as all favourite
 legends must be associated with the affections, and as many more people
-fall in love than commit murder--which it may be hoped, howsoever bad we
+fall in [[Love|love]] than commit murder--which it may be hoped, howsoever bad we
 are, will continue until the end of the world to be the dispensation
 under which we shall live--the Bleeding Heart, Bleeding Heart, bleeding
 away story, carried the day by a great majority. Neither party would
@@ -64,32 +64,32 @@ filled with the earthiest and coarsest sand, the Bleeding Heart Yarders
 had reason enough for objecting to be despoiled of the one little golden
 grain of poetry that sparkled in it.
 
-Down in to the Yard, by way of the steps, came Daniel Doyce, Mr Meagles,
+Down in to the Yard, by way of the steps, came [[Daniel Doyce]], Mr Meagles,
 and Clennam. Passing along the Yard, and between the open doors on
 either hand, all abundantly garnished with light children nursing heavy
-ones, they arrived at its opposite boundary, the gateway. Here Arthur
+ones, they arrived at its opposite boundary, the gateway. Here [[arthur|Arthur]]
 Clennam stopped to look about him for the domicile of Plornish,
 plasterer, whose name, according to the custom of Londoners, Daniel
 Doyce had never seen or heard of to that hour.
 
 It was plain enough, nevertheless, as Little Dorrit had said; over a
 lime-splashed gateway in the corner, within which Plornish kept a ladder
-and a barrel or two. The last house in Bleeding Heart Yard which she
-had described as his place of habitation, was a large house, let off to
+and a barrel or two. The last [[house]] in Bleeding Heart Yard which she
+had described as his place of habitation, was a large [[house]], let off to
 various tenants; but Plornish ingeniously hinted that he lived in the
 parlour, by means of a painted hand under his name, the forefinger of
-which hand (on which the artist had depicted a ring and a most elaborate
+which hand (on which the [[artist]] had depicted a ring and a most elaborate
 nail of the genteelest form) referred all inquirers to that apartment.
 
 Parting from his companions, after arranging another meeting with
-Mr Meagles, Clennam went alone into the entry, and knocked with his
+Mr Meagles, Clennam went [[Alone|alone]] into the entry, and knocked with his
 knuckles at the parlour-door. It was opened presently by a woman with
-a child in her arms, whose unoccupied hand was hastily rearranging the
+a [[Child|child]] in her arms, whose unoccupied hand was hastily rearranging the
 upper part of her dress. This was Mrs Plornish, and this maternal
 action was the action of Mrs Plornish during a large part of her waking
 existence.
 
-Was Mr Plornish at home? ‘Well, sir,’ said Mrs Plornish, a civil woman,
+Was Mr Plornish at [[Home|home]]? ‘[[Well]], sir,’ said Mrs Plornish, a civil woman,
 ‘not to deceive you, he’s gone to look for a job.’
 
 ‘Not to deceive you’ was a method of speech with Mrs Plornish. She would
@@ -99,9 +99,9 @@ a trick of answering in this provisional form.
 ‘Do you think he will be back soon, if I wait for him?’
 
 ‘I have been expecting him,’ said Mrs Plornish, ‘this half an hour, at
-any minute of time. Walk in, sir.’
+any minute of [[Time|time]]. Walk in, sir.’
 
-Arthur entered the rather dark and close parlour (though it was lofty
+[[arthur|Arthur]] entered the rather dark and close parlour (though it was lofty
 too), and sat down in the chair she placed for him.
 
 ‘Not to deceive you, sir, I notice it,’ said Mrs Plornish, ‘and I take
@@ -116,7 +116,7 @@ it than people think.’
 
 Clennam returned, with an uncomfortable feeling in so very slight a
 courtesy being unusual, Was that all! And stooping down to pinch the
-cheek of another young child who was sitting on the floor, staring at
+cheek of another young [[Child|child]] who was sitting on the floor, staring at
 him, asked Mrs Plornish how old that fine boy was?
 
 ‘Four year just turned, sir,’ said Mrs Plornish. ‘He _is_ a fine little
@@ -129,9 +129,9 @@ She asked it so anxiously, that if he had been in possession of any
 kind of tenement, he would have had it plastered a foot deep rather
 than answer No. But he was obliged to answer No; and he saw a shade of
 disappointment on her face, as she checked a sigh, and looked at the
-low fire. Then he saw, also, that Mrs Plornish was a young woman, made
-somewhat slatternly in herself and her belongings by poverty; and so
-dragged at by poverty and the children together, that their united
+low [[Fire|fire]]. Then he saw, also, that Mrs Plornish was a young woman, made
+somewhat slatternly in herself and her belongings by [[Poverty|poverty]]; and so
+dragged at by [[Poverty|poverty]] and the children together, that their united
 forces had already dragged her face into wrinkles.
 
 ‘All such things as jobs,’ said Mrs Plornish, ‘seems to me to have gone
@@ -139,13 +139,13 @@ underground, they do indeed.’ (Herein Mrs Plornish limited her remark to
 the plastering trade, and spoke without reference to the Circumlocution
 Office and the Barnacle Family.)
 
-‘Is it so difficult to get work?’ asked Arthur Clennam.
+‘Is it so difficult to get work?’ asked [[Arthur Clennam]].
 
 ‘Plornish finds it so,’ she returned. ‘He is quite unfortunate. Really
 he is.’
 
-Really he was. He was one of those many wayfarers on the road of life,
-who seem to be afflicted with supernatural corns, rendering it
+Really he was. He was one of those many wayfarers on the [[Road|road]] of life,
+who seem to be afflicted with [[Supernatural|supernatural]] corns, rendering it
 impossible for them to keep up even with their lame competitors. A
 willing, working, soft hearted, not hard-headed fellow, Plornish took
 his fortune as smoothly as could be expected; but it was a rough one. It
@@ -161,7 +161,7 @@ between the bars of the grate; ‘nor yet for want of working at them when
 they are to be got. No one ever heard my husband complain of work.’
 
 Somehow or other, this was the general misfortune of Bleeding Heart
-Yard. From time to time there were public complaints, pathetically
+Yard. From [[Time|time]] to [[Time|time]] there were public complaints, pathetically
 going about, of labour being scarce--which certain people seemed to take
 extraordinarily ill, as though they had an absolute right to it on their
 own terms--but Bleeding Heart Yard, though as willing a Yard as any in
@@ -182,7 +182,7 @@ flannel-jacketed, lime-whitened.
 conversation with you on the subject of the Dorrit family.’
 
 Plornish became suspicious. Seemed to scent a creditor. Said, ‘Ah, yes.
-Well. He didn’t know what satisfaction _he_ could give any gentleman,
+[[Well]]. He didn’t know what satisfaction _he_ could give any gentleman,
 respecting that family. What might it be about, now?’
 
 ‘I know you better,’ said Clennam, smiling, ‘than you suppose.’
@@ -190,19 +190,19 @@ respecting that family. What might it be about, now?’
 Plornish observed, not smiling in return, And yet he hadn’t the pleasure
 of being acquainted with the gentleman, neither.
 
-‘No,’ said Arthur, ‘I know your kind offices at second hand, but on the
+‘No,’ said [[arthur|Arthur]], ‘I know your kind offices at second hand, but on the
 best authority; through Little Dorrit.--I mean,’ he explained, ‘Miss
 Dorrit.’
 
 ‘Mr Clennam, is it? Oh! I’ve heard of you, Sir.’
 
-‘And I of you,’ said Arthur.
+‘And I of you,’ said [[arthur|Arthur]].
 
 ‘Please to sit down again, Sir, and consider yourself welcome.--Why,
-yes,’ said Plornish, taking a chair, and lifting the elder child upon
+yes,’ said Plornish, taking a chair, and lifting the elder [[Child|child]] upon
 his knee, that he might have the moral support of speaking to a stranger
 over his head, ‘I have been on the wrong side of the Lock myself, and
-in that way we come to know Miss Dorrit. Me and my wife, we are well
+in that way we come to know Miss Dorrit. Me and my wife, we are [[Well|well]]
 acquainted with Miss Dorrit.’
 
 ‘Intimate!’ cried Mrs Plornish. Indeed, she was so proud of the
@@ -228,7 +228,7 @@ dursn’t!’
 
 ‘Without admiring him for that,’ Clennam quietly observed, ‘I am very
 sorry for him.’ The remark appeared to suggest to Plornish, for the
-first time, that it might not be a very fine trait of character after
+first [[Time|time]], that it might not be a very fine trait of character after
 all. He pondered about it for a moment, and gave it up.
 
 ‘As to me,’ he resumed, ‘certainly Mr Dorrit is as affable with me, I
@@ -241,7 +241,7 @@ speaking of.’
 Mr Plornish picked a bit of lime out of his whisker, put it between his
 lips, turned it with his tongue like a sugar-plum, considered, found
 himself unequal to the task of lucid explanation, and appealing to his
-wife, said, ‘Sally, _you_ may as well mention how it was, old woman.’
+wife, said, ‘Sally, _you_ may as [[Well|well]] mention how it was, old woman.’
 
 ‘Miss Dorrit,’ said Sally, hushing the baby from side to side, and
 laying her chin upon the little hand as it tried to disarrange the gown
@@ -258,12 +258,12 @@ places than one? No, says Miss Dorrit, I have not, but I will. She
 copied it out according, on this table, in a sweet writing, and
 Plornish, he took it where he worked, having a job just then,’ (Plornish
 repeated job just then,) ‘and likewise to the landlord of the Yard;
-through which it was that Mrs Clennam first happened to employ Miss
+through which it was that [[Mrs Clennam]] first happened to employ Miss
 Dorrit.’ Plornish repeated, employ Miss Dorrit; and Mrs Plornish having
 come to an end, feigned to bite the fingers of the little hand as she
 kissed it.
 
-‘The landlord of the Yard,’ said Arthur Clennam, ‘is--’
+‘The landlord of the Yard,’ said [[Arthur Clennam]], ‘is--’
 
 ‘He is Mr Casby, by name, he is,’ said Plornish, ‘and Pancks, he
 collects the rents. That,’ added Mr Plornish, dwelling on the subject
@@ -274,32 +274,32 @@ you may believe me or not, as you think proper.’
 ‘Ay?’ returned Clennam, thoughtful in his turn. ‘Mr Casby, too! An old
 acquaintance of mine, long ago!’
 
-Mr Plornish did not see his road to any comment on this fact, and made
+Mr Plornish did not see his [[Road|road]] to any comment on this fact, and made
 none. As there truly was no reason why he should have the least interest
-in it, Arthur Clennam went on to the present purport of his visit;
+in it, [[Arthur Clennam]] went on to the present purport of his visit;
 namely, to make Plornish the instrument of effecting Tip’s release,
-with as little detriment as possible to the self-reliance and
-self-helpfulness of the young man, supposing him to possess any remnant
-of those qualities: without doubt a very wide stretch of supposition.
+with as little detriment as possible to the [[Self-Reliance|self-reliance]] and
+[[Self|self]]-helpfulness of the young man, supposing him to possess any remnant
+of those qualities: without [[Doubt|doubt]] a very wide stretch of supposition.
 Plornish, having been made acquainted with the cause of action from the
-Defendant’s own mouth, gave Arthur to understand that the Plaintiff
+Defendant’s own mouth, gave [[arthur|Arthur]] to understand that the Plaintiff
 was a ‘Chaunter’--meaning, not a singer of anthems, but a seller of
 horses--and that he (Plornish) considered that ten shillings in the
 pound ‘would settle handsome,’ and that more would be a waste of money.
 The Principal and instrument soon drove off together to a stable-yard in
 High Holborn, where a remarkably fine grey gelding, worth, at the lowest
 figure, seventy-five guineas (not taking into account the value of the
-shot he had been made to swallow for the improvement of his form), was
+shot he had been made to [[Swallow|swallow]] for the improvement of his form), was
 to be parted with for a twenty-pound note, in consequence of his having
 run away last week with Mrs Captain Barbary of Cheltenham, who wasn’t up
-to a horse of his courage, and who, in mere spite, insisted on selling
+to a [[Horse|horse]] of his [[Courage|courage]], and who, in mere spite, insisted on selling
 him for that ridiculous sum: or, in other words, on giving him away.
-Plornish, going up this yard alone and leaving his Principal outside,
+Plornish, going up this yard [[Alone|alone]] and leaving his Principal outside,
 found a gentleman with tight drab legs, a rather old hat, a little
 hooked stick, and a blue neckerchief (Captain Maroon of Gloucestershire,
 a private friend of Captain Barbary); who happened to be there, in
 a friendly way, to mention these little circumstances concerning the
-remarkably fine grey gelding to any real judge of a horse and quick
+remarkably fine grey gelding to any real judge of a [[Horse|horse]] and quick
 snapper-up of a good thing, who might look in at that address as per
 advertisement. This gentleman, happening also to be the Plaintiff in the
 Tip case, referred Mr Plornish to his solicitor, and declined to treat
@@ -308,11 +308,11 @@ he appeared there with a twenty-pound note: in which case only, the
 gentleman would augur from appearances that he meant business, and
 might be induced to talk to him. On this hint, Mr Plornish retired
 to communicate with his Principal, and presently came back with the
-required credentials. Then said Captain Maroon, ‘Now, how much time do
+required credentials. Then said Captain Maroon, ‘Now, how much [[Time|time]] do
 you want to make the other twenty in? Now, I’ll give you a month.’ Then
 said Captain Maroon, when that wouldn’t suit, ‘Now, I’ll tell what I’ll
 do with you. You shall get me a good bill at four months, made payable
-at a banking-house, for the other twenty!’ Then said Captain Maroon,
+at a banking-[[house]], for the other twenty!’ Then said Captain Maroon,
 when _that_ wouldn’t suit, ‘Now, come; Here’s the last I’ve got to say
 to you. You shall give me another ten down, and I’ll run my pen clean
 through it.’ Then said Captain Maroon when _that_ wouldn’t suit, ‘Now,
@@ -323,7 +323,7 @@ Captain Maroon, when _that_ wouldn’t suit either, ‘Hand over, then!’--And
 in consideration of the first offer, gave a receipt in full and
 discharged the prisoner.
 
-‘Mr Plornish,’ said Arthur, ‘I trust to you, if you please, to keep my
+‘Mr Plornish,’ said [[arthur|Arthur]], ‘I trust to you, if you please, to keep my
 secret. If you will undertake to let the young man know that he is free,
 and to tell him that you were employed to compound for the debt by
 some one whom you are not at liberty to name, you will not only do me a
@@ -351,19 +351,19 @@ Clennam’s card and appropriate pecuniary compliment.
 He was earnest to finish his commission at once, and his Principal
 was in the same mind. So his Principal offered to set him down at the
 Marshalsea Gate, and they drove in that direction over Blackfriars
-Bridge. On the way, Arthur elicited from his new friend a confused
+Bridge. On the way, [[arthur|Arthur]] elicited from his new friend a confused
 summary of the interior life of Bleeding Heart Yard. They was all hard
-up there, Mr Plornish said, uncommon hard up, to be sure. Well, he
+up there, Mr Plornish said, uncommon hard up, to be sure. [[Well]], he
 couldn’t say how it was; he didn’t know as anybody _could_ say how it
 was; all he know’d was, that so it was. When a man felt, on his own
 back and in his own belly, that poor he was, that man (Mr Plornish gave
-it as his decided belief) know’d well that he was poor somehow or
+it as his decided belief) know’d [[Well|well]] that he was poor somehow or
 another, and you couldn’t talk it out of him, no more than you could
 talk Beef into him. Then you see, some people as was better off said,
 and a good many such people lived pretty close up to the mark themselves
 if not beyond it so he’d heerd, that they was ‘improvident’ (that was
 the favourite word) down the Yard. For instance, if they see a man with
-his wife and children going to Hampton Court in a Wan, perhaps once in a
+his wife and children going to Hampton [[Court]] in a Wan, perhaps once in a
 year, they says, ‘Hallo! I thought you was poor, my improvident friend!’
 Why, Lord, how hard it was upon a man! What was a man to do? He couldn’t
 go mollancholy mad, and even if he did, you wouldn’t be the better for
@@ -372,9 +372,9 @@ seemed to want to make a man mollancholy mad. You was always at it--if
 not with your right hand, with your left. What was they a doing in the
 Yard? Why, take a look at ‘em and see. There was the girls and their
 mothers a working at their sewing, or their shoe-binding, or their
-trimming, or their waistcoat making, day and night and night and day,
-and not more than able to keep body and soul together after all--often
-not so much. There was people of pretty well all sorts of trades you
+trimming, or their waistcoat making, day and [[Night|night]] and [[Night|night]] and day,
+and not more than able to keep [[Body|body]] and [[Soul|soul]] together after all--often
+not so much. There was people of pretty [[Well|well]] all sorts of trades you
 could name, all wanting to work, and yet not able to get it. There was
 old people, after working all their lives, going and being shut up in
 the workhouse, much worse fed and lodged and treated altogether,
@@ -390,8 +390,8 @@ do nothing for him, you had better take nothing from him for doing of
 it; so far as he could make out, that was about what it come to. Thus,
 in a prolix, gently-growling, foolish way, did Plornish turn the tangled
 skein of his estate about and about, like a blind man who was trying to
-find some beginning or end to it; until they reached the prison gate.
-There, he left his Principal alone; to wonder, as he rode away, how many
-thousand Plornishes there might be within a day or two’s journey of the
+find some beginning or end to it; until they reached the [[Prison|prison]] gate.
+There, he left his Principal [[Alone|alone]]; to [[Wonder|wonder]], as he rode away, how many
+thousand Plornishes there might be within a day or two’s [[Journey|journey]] of the
 Circumlocution Office, playing sundry curious variations on the same
 tune, which were not known by ear in that glorious institution.

@@ -15,24 +15,24 @@ tags:
 
 
 A steward passes.  ‘Steward!’  ‘Sir?’  ‘What _is_ the matter? what _do_
-you call this?’  ‘Rather a heavy sea on, sir, and a head-wind.’
+you call this?’  ‘Rather a heavy sea on, sir, and a head-[[Wind|wind]].’
 
-A head-wind!  Imagine a human face upon the vessel’s prow, with fifteen
+A head-[[Wind|wind]]!  Imagine a human face upon the vessel’s prow, with fifteen
 thousand Samsons in one bent upon driving her back, and hitting her
 exactly between the eyes whenever she attempts to advance an inch.
-Imagine the ship herself, with every pulse and artery of her huge body
+Imagine the [[Ship|ship]] herself, with every pulse and artery of her huge [[Body|body]]
 swollen and bursting under this maltreatment, sworn to go on or die.
-Imagine the wind howling, the sea roaring, the rain beating: all in
+Imagine the [[Wind|wind]] howling, the sea roaring, the rain beating: all in
 furious array against her.  Picture the sky both dark and wild, and the
 clouds, in fearful sympathy with the waves, making another ocean in the
 air.  Add to all this, the clattering on deck and down below; the tread
 of hurried feet; the loud hoarse shouts of seamen; the gurgling in and
-out of water through the scuppers; with, every now and then, the striking
+out of [[Water|water]] through the scuppers; with, every now and then, the striking
 of a heavy sea upon the planks above, with the deep, dead, heavy sound of
-thunder heard within a vault;—and there is the head-wind of that January
+thunder heard within a vault;—and there is the head-[[Wind|wind]] of that January
 morning.
 
-I say nothing of what may be called the domestic noises of the ship: such
+I say nothing of what may be called the domestic noises of the [[Ship|ship]]: such
 as the breaking of glass and crockery, the tumbling down of stewards, the
 gambols, overhead, of loose casks and truant dozens of bottled porter,
 and the very remarkable and far from exhilarating sounds raised in their
@@ -44,9 +44,9 @@ again, excessively sea-sick.
 
 Not sea-sick, be it understood, in the ordinary acceptation of the term:
 I wish I had been: but in a form which I have never seen or heard
-described, though I have no doubt it is very common.  I lay there, all
+described, though I have no [[Doubt|doubt]] it is very common.  I lay there, all
 the day long, quite coolly and contentedly; with no sense of weariness,
-with no desire to get up, or get better, or take the air; with no
+with no [[Desire|desire]] to get up, or get better, or take the air; with no
 curiosity, or care, or regret, of any sort or degree, saving that I think
 I can remember, in this universal indifference, having a kind of lazy
 joy—of fiendish delight, if anything so lethargic can be dignified with
@@ -55,7 +55,7 @@ be allowed to illustrate my state of mind by such an example, I should
 say that I was exactly in the condition of the elder Mr. Willet, after
 the incursion of the rioters into his bar at Chigwell.  Nothing would
 have surprised me.  If, in the momentary illumination of any ray of
-intelligence that may have come upon me in the way of thoughts of Home, a
+intelligence that may have come upon me in the way of thoughts of [[Home]], a
 goblin postman, with a scarlet coat and bell, had come into that little
 kennel before me, broad awake in broad day, and, apologising for being
 damp through walking in the sea, had handed me a letter directed to
@@ -85,26 +85,26 @@ fluctuate before me as though I saw it reflected in an unsteady
 looking-glass; but I knew it for the captain; and such was the cheerful
 influence of his face, that I tried to smile: yes, even then I tried to
 smile.  I saw by his gestures that he addressed me; but it was a long
-time before I could make out that he remonstrated against my standing up
-to my knees in water—as I was; of course I don’t know why.  I tried to
+[[Time|time]] before I could make out that he remonstrated against my standing up
+to my knees in [[Water|water]]—as I was; of course I don’t know why.  I tried to
 thank him, but couldn’t.  I could only point to my boots—or wherever I
 supposed my boots to be—and say in a plaintive voice, ‘Cork soles:’ at
-the same time endeavouring, I am told, to sit down in the pool.  Finding
-that I was quite insensible, and for the time a maniac, he humanely
+the same [[Time|time]] endeavouring, I am told, to sit down in the pool.  Finding
+that I was quite insensible, and for the [[Time|time]] a maniac, he humanely
 conducted me below.
 
-There I remained until I got better: suffering, whenever I was
+There I remained until I got better: [[Suffering|suffering]], whenever I was
 recommended to eat anything, an amount of anguish only second to that
 which is said to be endured by the apparently drowned, in the process of
 restoration to life.  One gentleman on board had a letter of introduction
-to me from a mutual friend in London.  He sent it below with his card, on
-the morning of the head-wind; and I was long troubled with the idea that
-he might be up, and well, and a hundred times a day expecting me to call
+to me from a mutual friend in [[London]].  He sent it below with his card, on
+the morning of the head-[[Wind|wind]]; and I was long troubled with the idea that
+he might be up, and [[Well|well]], and a hundred times a day expecting me to call
 upon him in the saloon.  I imagined him one of those cast-iron images—I
 will not call them men—who ask, with red faces, and lusty voices, what
 sea-sickness means, and whether it really is as bad as it is represented
 to be.  This was very torturing indeed; and I don’t think I ever felt
 such perfect gratification and gratitude of heart, as I did when I heard
-from the ship’s doctor that he had been obliged to put a large mustard
+from the [[Ship|ship]]’s doctor that he had been obliged to put a large mustard
 poultice on this very gentleman’s stomach.  I date my recovery from the
 receipt of that intelligence.

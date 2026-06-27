@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. ASA LEE PINION, of the Chicago Comet, had crossed half of America, (part 3)"
+title: "[[FourFaultlessFelons]] — R. ASA LEE PINION, of the Chicago Comet, had crossed half of [[America]], (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -24,7 +24,7 @@ he was very quick and had already guessed the joke.
 
 
 
-"Well, it's quite simple, isn't it?" replied his informant. "He feasts on
+"[[Well]], it's quite simple, isn't it?" replied his informant. "He feasts on
 
 all the most luxurious and expensive things that he doesn't like.
 
@@ -56,7 +56,7 @@ he hates olives? If he thoughtfully scans the whole wine-list and
 
 eventually selects a rather recondite Hock, who will guess that his whole
 
-soul rises in disgust at the very thought of Hock: and that he knows
+[[Soul|soul]] rises in disgust at the very thought of Hock: and that he knows
 
 that's the nastiest--even of Hocks? Whereas, if he were to demand dried
 
@@ -78,7 +78,7 @@ I can say it. I had a touch of it myself once, only in one special
 
 direction, and I found it almost impossible to explain to anybody. Only
 
-there is one mark of the real mystic and ascetic of this sort; that he
+there is one mark of the real mystic and [[ascetic]] of this sort; that he
 
 only wants to do it to himself. He wants everybody else to have what wine
 
@@ -108,13 +108,13 @@ with a sort of grunt of laughter.
 
 
 
-"Well," he said, "it's pretty plain you've never been about with Mrs.
+"[[Well]]," he said, "it's pretty plain you've never been about with Mrs.
 
 Prague."
 
 
 
-"Why, what do you mean?" asked Pinion; and this time there was something
+"Why, what do you mean?" asked Pinion; and this [[Time|time]] there was something
 
 like a general laugh.
 
@@ -164,7 +164,7 @@ Fourth in which she will no longer be a chattel; all the cliches. And he
 
 still has two acts before him, in which she will not be something else,
 
-will not be a slave in the home or an outcast flung from the home. He's
+will not be a slave in the [[Home|home]] or an outcast flung from the [[Home|home]]. He's
 
 seen it six times without turning a hair; you can't even see him grind
 
@@ -176,7 +176,7 @@ understand, only her third husband carried her off as if there was real
 
 understanding--and so on, as if there were anything to be understood. You
 
-know what an utterly egotistical fool is like. And he suffers even those
+know what an utterly egotistical [[Fool|fool]] is like. And he suffers even those
 
 fools gladly."
 
@@ -196,13 +196,13 @@ nerves as that."
 
 tripping on the light fantastic toe and only found a hermit standing on
 
-his head." After a silence he said abruptly, "Is this really true? How
+his head." After a [[Silence|silence]] he said abruptly, "Is this really true? How
 
 did you find it out?"
 
 
 
-"That's rather a long story," replied the man opposite. "The truth is
+"That's rather a long story," replied the man opposite. "The [[Truth|truth]] is
 
 that Marillac allows himself one feast in the year, on Christmas Day, and
 
@@ -220,11 +220,11 @@ that this is a confidential conversation."
 
 regarded as a lunatic if I did. People don't understand that sort of
 
-lunacy nowadays, and I rather wonder you take to it so much yourself."
+lunacy nowadays, and I rather [[Wonder|wonder]] you take to it so much yourself."
 
 
 
-"Well, I put my own case before him, you see," answered the other. "In a
+"[[Well]], I put my own case before him, you see," answered the other. "In a
 
 small way it was a little like his own. And then I introduced him to my
 
@@ -236,7 +236,7 @@ friends, and so he became a sort of President of our little club."
 
 
 
-"Well, we are four men with a common bond at least. We have all had
+"[[Well]], we are four men with a common bond at least. We have all had
 
 occasion, like Marillac, to look rather worse than we were."
 

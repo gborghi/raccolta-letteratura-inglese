@@ -1,5 +1,5 @@
 ---
-title: "Common Man — Rabelaisian Regrets (part 1)"
+title: "[[Common Man]] — Rabelaisian Regrets (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -16,12 +16,12 @@ tags:
 
 RABELAISIAN REGRETS
 
-There has arisen in our time an extraordinary notion that there is
+There has arisen in our [[Time|time]] an extraordinary notion that there is
 something humane, open-hearted or generous about refusing to define
-one's creed.  Obviously the very opposite is the truth.  Refusing to
+one's creed.  Obviously the very opposite is the [[Truth|truth]].  Refusing to
 define a creed is not only not generous, it is distinctly mean.
 It fails in frankness and fraternity towards the enemy.
-It is fighting without a flag or a declaration of war.
+It is fighting without a [[Flag|flag]] or a declaration of war.
 It denies to the enemy the decent concessions of battle;
 the right to know the policy and to treat with the headquarters.
 Modern "broad-mindedness" has a quality that can only be called sneakish;
@@ -49,7 +49,7 @@ But the modern world has not adopted this clear creed and never will.
 What it has done has been to spread everywhere a strong but vague
 prejudice against certain forms of drinking, particularly those
 adopted by the poor.  We have not made it wicked to drink ale,
-but we have made it slightly disreputable to go into a public-house.
+but we have made it slightly disreputable to go into a public-[[house]].
 In other words, we have made it slightly disreputable, if you
 drink ale, to be poor or to be sociable.  What it comes to is this:
 that any one wishing to sneer at me can get a laugh by saying I am
@@ -85,22 +85,22 @@ did huge forces ever come so silently or secretly into the world as they
 come to-day. No one knows or can name the real beginning of Imperialism
 or of the popularity of the Royal Family (a thing quite recent yet
 quite untraceable), or of the taking for granted, in so many minds,
-of the materialist philosophy or of the practical imposition of
+of the materialist [[philosophy]] or of the practical imposition of
 teetotalism as a discipline on the Nonconformist public ministry.
-These things come out of the night and are formless even when they
+These things come out of the [[Night|night]] and are formless even when they
 are forming everything else.
 
 But discussions on the subject of the Censor and other theatrical problems
 have brought before the public a supreme instance of what I mean.
-We have been asked for the hundredth time to find some solution of
-that problem of the combination in art of truth with sexual modesty;
+We have been asked for the hundredth [[Time|time]] to find some solution of
+that problem of the combination in art of [[Truth|truth]] with sexual modesty;
 and the result of considering this has been that we find ourselves
 face to face with a profound and most important change in public
 opinion on this subject; a change that has been going on,
 perhaps, for the last twenty years, perhaps ever since the coming
 of the Puritans; but a change which is, at any rate, of the utmost
 import to the wholesomeness of ethics, and a change which has
-proceeded in the same powerful silence as the growth of a tree.
+proceeded in the same powerful [[Silence|silence]] as the growth of a tree.
 It is this difference between new English and old English ethics
 in the matter of verbal delicacy of which I wish to speak here.
 The subject is difficult, it is even emotional and painful;
@@ -120,21 +120,21 @@ But these people are not only insane people, they are in the most emphatic
 sense of the word stupid people.  They do not think; they only point
 (as children do) and say "Why?"  Even children only do it when they
 are tired; but exactly this tired quality is most of what passes
-in our time not only for thought but for bold and disturbing thought.
+in our [[Time|time]] not only for thought but for bold and disturbing thought.
 To ask, "Why cannot we discuss sex coolly and rationally anywhere?"
 is a tired and unintelligent question.  It is like asking, "Why does
-not a man walk on his hands as well as on his feet?"  It is silly.
+not a man walk on his hands as [[Well|well]] as on his feet?"  It is silly.
 If a man walked systematically on his hands, they would not be hands,
-but feet.  And if love or lust were things that we could all discuss
-without any possible emotion they would not be love or lust, they would
+but feet.  And if [[Love|love]] or lust were things that we could all discuss
+without any possible emotion they would not be [[Love|love]] or lust, they would
 be something else--some mechanical function or abstract natural duty
-which may or may not exist in animals or in angels, but which has
-nothing at all to do with the sexuality we are talking about.
+which may or may not exist in [[Animals|animals]] or in angels, but which has
+nothing at all to do with the [[Sexuality|sexuality]] we are talking about.
 All the ideas of grasp or gesture, which to us make up the meaning
 of the word "hand", depend upon the fact that hands are loose
 extremities used not for walking on but for waving about.
 And all that we mean when we speak of "sex" is involved in the fact
-that it is not an unconscious or innocent thing, but a special
+that it is not an unconscious or [[Innocent|innocent]] thing, but a special
 and violent emotional stimulation at once spiritual and physical.
 A man who asks us to have no emotion in sex is asking us to have
 no emotion in emotion.  He has forgotten the subject-matter

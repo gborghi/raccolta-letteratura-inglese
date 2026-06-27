@@ -15,7 +15,7 @@ tags:
 
 
 To an Englishman, especially a Londoner, this was like walking
-to the corner of a London street and finding the policeman
+to the corner of a [[London]] street and finding the policeman
 in rags, with a patch on his trousers and a smudge on his face;
 but the crossing-sweeper wearing, a single eyeglass and a suit
 fresh from a West End tailor.  In fact, it was nearly as surprising
@@ -25,24 +25,24 @@ what was orderly and organised was belated and broken down.
 For it must be sharply realised that the peasant proprietors
 succeeded here, not only because they were really proprietors,
 but because they were only peasants.  It was _because_ they were on
-a small scale that they were a great success.  It was because they were
+a small scale that they were a great [[success]].  It was because they were
 too poor to have servants that they grew rich in spite of strikers.
 It was, so far as it went, the flattest possible contradiction to
 all that is said in England, both by Collectivists and Capitalists,
 about the efficiency of the great organisation.  For in so far as it
 had failed, it had actually failed, not only through being great,
-but through being organised.  On the left side of the road the big
-machine had stopped working, _because_ it was a big machine.
+but through being organised.  On the left side of the [[Road|road]] the big
+[[Machine|machine]] had stopped working, _because_ it was a big [[Machine|machine]].
 The small men were still working, because they were not machines.
-Such were the strange relations of the two things, that the stars
-in their courses fought against Capitalism; that the very clouds rolling
+Such were the strange relations of the two things, that the [[Stars|stars]]
+in their courses fought against Capitalism; that the very clouds [[rolling]]
 over that rocky valley warred for its pigmies against its giants.
 The rain falls alike on the just and the unjust; yet here it had not
 fallen alike on the rich and poor, It had fallen to the destruction
 of the rich.
 
 Now I do, as a point of personal opinion, believe that the right
-side of the road was really the right side of the road.
+side of the [[Road|road]] was really the right side of the [[Road|road]].
 That is, I believe it represented the right side of the question;
 that these little pottering peasants had got hold of the true secret,
 which is missed both by Capitalism and Collectivism.
@@ -53,7 +53,7 @@ out is that it is the fundamental argument against Unionism.
 Perhaps it is, on that ultimate level, the only argument against Unionism;
 which is probably why it is never used against Unionists.  I mean,
 of course, that it was never really used against English Unionists
-by English Home Rulers, in the recriminations of that Irish Question
+by English [[Home]] Rulers, in the recriminations of that [[Irish Question]]
 which was really an English Question.  The essential demanded
 of that question was merely that it should be an open question;
 a thing rather like an open wound.  Modern industrial society
@@ -61,8 +61,8 @@ is fond of problems, and therefore not at all fond of solutions.
 A consideration of those who really have understood this fundamental
 fact will be sufficient to show how confusing and useless are
 the mere party labels in the matter.  George Wyndham was a Unionist
-who was deposed because he was a Home Ruler.  Sir Horace Plunkett
-is a Unionist who is trusted because he is a Home Ruler.
+who was deposed because he was a [[Home]] Ruler.  Sir Horace Plunkett
+is a Unionist who is trusted because he is a [[Home]] Ruler.
 By far the most revolutionary piece of Nationalism that was ever
 really effected for Ireland was effected by Wyndham, who was
 an English Tory squire.  And by far the most brutal and brainless
@@ -71,7 +71,7 @@ the name of the Radical theory of Free Trade, when the Irish juries
 brought in verdicts of wilful murder against Lord John Russell.
 I say this to show that my sense of a reality is quite apart from
 the personal accident that I have myself always been a Radical
-in English politics, as well as a Home Ruler in Irish politics.
+in English politics, as [[Well|well]] as a [[Home]] Ruler in Irish politics.
 But I say it even more in order to reaffirm that the English have
 first to forget all their old formula and look at a new fact.
 It is not a new fact; but it is new to them.
@@ -95,12 +95,12 @@ marks the Slovene temperament, they have often employed violence,
 but always for the restoration of what they regarded as a reasonable
 system of private property.  Now in a hundred determining districts,
 of which France is the most famous, this system has prospered.
-It has its own faults as well as its own merits; but it has prospered.
+It has its own faults as [[Well|well]] as its own merits; but it has prospered.
 What is going to happen to it?  I will here confine myself to saying
 with the most solid confidence what is not going to happen to it.
 It is not going to be _really_ ruled by Socialists; and it is not
 going to be really ruled by merchant princes, like those who ruled
-Venice or like those who rule England.
+[[Venice]] or like those who rule England.
 
 It is not so much that England ought not to rule Ireland as that
 England cannot.  It is not so much that Englishmen cannot rule Irishmen,
@@ -120,7 +120,7 @@ simply something that becomes more insanely impossible every day.
 If the two societies were stationary, they would be sufficiently separate;
 but they are both moving rapidly in opposite directions.
 England may be moving towards a condition which some call Socialism,
-and I call Slavery; but whatever it is, Ireland is speeding
+and I call [[Slavery]]; but whatever it is, Ireland is speeding
 farther and farther from it.  Whatever it is, the men who manage
 it will no more be able to manage a European peasantry than
 the peasants in these mud cabins could manage the Stock Exchange.

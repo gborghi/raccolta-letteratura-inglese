@@ -16,8 +16,8 @@ tags:
 
 I  
 He did not wear his scarlet coat,  
-For blood and wine are red,  
-And blood and wine were on his hands  
+For [[Blood|blood]] and wine are red,  
+And [[Blood|blood]] and wine were on his hands  
 When they found him with the dead,  
 The poor dead woman whom he loved,  
 And murdered in her bed.  
@@ -33,18 +33,18 @@ Upon that little tent of blue
 Which prisoners call the sky,  
 And at every drifting cloud that went  
 With sails of silver by.  
-I walked, with other souls in pain,  
+I walked, with other souls in [[Pain|pain]],  
 Within another ring,  
 And was wondering if the man had done  
 A great or little thing,  
 When a voice behind me whispered low,  
 ‘THAT FELLOW’S GOT TO SWING.’  
-Dear Christ! the very prison walls  
+Dear [[Christ]]! the very [[Prison|prison]] walls  
 Suddenly seemed to reel,  
 And the sky above my head became  
 Like a casque of scorching steel;  
-And, though I was a soul in pain,  
-My pain I could not feel.  
+And, though I was a [[Soul|soul]] in [[Pain|pain]],  
+My [[Pain|pain]] I could not feel.  
 I only knew what hunted thought  
 Quickened his step, and why  
 He looked upon the garish day  
@@ -56,32 +56,32 @@ By each let this be heard,
 Some do it with a bitter look,  
 Some with a flattering word,  
 The coward does it with a kiss,  
-The brave man with a sword!  
-Some kill their love when they are young,  
+The brave man with a [[Sword|sword]]!  
+Some kill their [[Love|love]] when they are young,  
 And some when they are old;  
 Some strangle with the hands of Lust,  
 Some with the hands of Gold:  
 The kindest use a knife, because  
 The dead so soon grow cold.  
-Some love too little, some too long,  
+Some [[Love|love]] too little, some too long,  
 Some sell, and others buy;  
-Some do the deed with many tears,  
+Some do the deed with many [[Tears|tears]],  
 And some without a sigh:  
 For each man kills the thing he loves,  
 Yet each man does not die.  
-He does not die a death of shame  
+He does not die a [[Death|death]] of shame  
 On a day of dark disgrace,  
 Nor have a noose about his neck,  
 Nor a cloth upon his face,  
 Nor drop feet foremost through the floor  
 Into an empty space.  
 He does not sit with silent men  
-Who watch him night and day;  
+Who watch him [[Night|night]] and day;  
 Who watch him when he tries to weep,  
 And when he tries to pray;  
 Who watch him lest himself should rob  
-The prison of its prey.  
-He does not wake at dawn to see  
+The [[Prison|prison]] of its prey.  
+He does not wake at [[Dawn|dawn]] to see  
 Dread figures throng his room,  
 The shivering Chaplain robed in white,  
 The Sheriff stern with gloom,  
@@ -102,9 +102,9 @@ And binds one with three leathern thongs,
 That the throat may thirst no more.  
 He does not bend his head to hear  
 The Burial Office read,  
-Nor, while the terror of his soul  
+Nor, while the terror of his [[Soul|soul]]  
 Tells him he is not dead,  
-Cross his own coffin, as he moves  
+[[Cross]] his own coffin, as he moves  
 Into the hideous shed.  
 He does not stare upon the air  
 Through a little roof of glass:  

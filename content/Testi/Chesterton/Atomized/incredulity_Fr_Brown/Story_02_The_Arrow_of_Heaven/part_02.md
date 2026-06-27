@@ -1,5 +1,5 @@
 ---
-title: "incredulity Fr Brown — The Arrow of Heaven (part 2)"
+title: "[[Incredulity|incredulity]] Fr Brown — The Arrow of Heaven (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 'Brian Horder's widow,' explained Wain, 'had to sell most of his
 valuables, I believe, and Brander Merton must have purchased the cup at
-that time, for he had it when I first knew him. But you can guess for
+that [[Time|time]], for he had it when I first knew him. But you can guess for
 yourself that it's not a very comfortable thing to have.'
 
 'Has Mr Merton ever had any of the threatening letters?' asked Father
@@ -35,11 +35,11 @@ tore up, too, before even his secretary saw them. The secretary himself
 is getting nervous and says he is sure somebody is laying for the old
 man; and the long and the short of it is, that we'd be very grateful for
 a little advice in the matter. Everybody knows your great reputation.
-Father Brown, and the secretary asked me to see if you'd mind coming
-straight out to the Merton house at once.'
+[[Father Brown]], and the secretary asked me to see if you'd mind coming
+straight out to the Merton [[house]] at once.'
 
-'Oh, I see,' said Father Brown, on whom the meaning of this apparent
-kidnapping began to dawn at last. 'But, really, I don't see that I can
+'Oh, I see,' said [[Father Brown]], on whom the meaning of this apparent
+kidnapping began to [[Dawn|dawn]] at last. 'But, really, I don't see that I can
 do any more than you can. You're on the spot, and must have a hundred
 times more data for a scientific conclusion than a chance visitor.'
 
@@ -48,11 +48,11 @@ be true. I reckon if anything hit a man like Titus P. Trant, it just
 came out of the sky without waiting for any scientific explanation. What
 they call a bolt from the blue.'
 
-'You can't possibly mean,' cried Wain, 'that it was supernatural!'
+'You can't possibly mean,' cried Wain, 'that it was [[Supernatural|supernatural]]!'
 
-But it was by no means easy at any time to discover what Mr Drage could
+But it was by no means easy at any [[Time|time]] to discover what Mr Drage could
 possibly mean; except that if he said somebody was a real smart man, he
-very probably meant he was a fool. Mr Drage maintained an Oriental
+very probably meant he was a [[Fool|fool]]. Mr Drage maintained an Oriental
 immobility until the car stopped, a little while after, at what was
 obviously their destination. It was rather a singular place. They had
 been driving through a thinly - wooded country that opened into a wide
@@ -63,7 +63,7 @@ and closer inspection proved it to be of metal.
 
 They all alighted from the car, and one small door in the wall was slid
 open with considerable caution, after manipulations resembling the
-opening of a safe. But, much to Father Brown's surprise, the man called
+opening of a safe. But, much to [[Father Brown]]'s surprise, the man called
 Norman Drage showed no disposition to enter, but took leave of them with
 sinister gaiety.
 
@@ -71,11 +71,11 @@ sinister gaiety.
 for old man Merton, I reckon. He loves the sight of me so much that he'd
 die of joy.'
 
-And he strode away, while Father Brown, with increasing wonder, was
+And he strode away, while [[Father Brown]], with increasing [[Wonder|wonder]], was
 admitted through the steel door which instantly clicked behind him.
-Inside was a large and elaborate garden of gay and varied colours, but
-entirely without any trees or tall shrubs or flowers. In the centre of
-it rose a house of handsome and even striking architecture, but so high
+Inside was a large and elaborate [[Garden|garden]] of gay and varied colours, but
+entirely without any trees or tall shrubs or [[Flowers|flowers]]. In the centre of
+it [[Rose|rose]] a [[house]] of handsome and even striking architecture, but so high
 and narrow as rather to resemble a tower. The burning sunlight gleamed
 on glass roofing here and there at the top, but there seemed to be no
 windows at all in the lower part of it. Over everything was that
@@ -87,31 +87,31 @@ the centre between the solid walls, and the approach to it was guarded
 by heavy, powerful men like plain - clothes policemen.
 
 'Pretty elaborate protection, I know,' said Wain. 'Maybe it makes you
-smile a little, Father Brown, to find Merton has to live in a fortress
-like this without even a tree in the garden for anyone to hide behind.
+smile a little, [[Father Brown]], to find Merton has to live in a fortress
+like this without even a tree in the [[Garden|garden]] for anyone to hide behind.
 But you don't know what sort of proposition we're up against in this
 country. And perhaps you don't know just what the name of Brander Merton
 means. He's a quiet - looking man enough, and anybody might pass him in
 the street; not that they get much chance nowadays, for he can only go
 out now and then in a closed car. But if anything happened to Brander
 Merton there'd be earthquakes from Alaska to the Cannibal Islands. I
-fancy there was never a king or emperor who had such power over the
+fancy there was never a [[King|king]] or emperor who had such power over the
 nations as he has. After all, I suppose if you'd been asked to visit the
-tsar, or the king of England, you'd have had the curiosity to go. You
+tsar, or the [[King|king]] of England, you'd have had the curiosity to go. You
 mayn't care much for tsars or millionaires; but it just means that power
-like that is always interesting. And I hope it's not against your
+like that is always interesting. And I [[Hope|hope]] it's not against your
 principles to visit a modern sort of emperor like Merton.'
 
-'Not at all,' said Father Brown, quietly. 'It is my duty to visit
+'Not at all,' said [[Father Brown]], quietly. 'It is my duty to visit
 prisoners and all miserable men in captivity.'
 
-There was a silence, and the young man frowned with a strange and almost
+There was a [[Silence|silence]], and the young man frowned with a strange and almost
 shifty look on his lean face. Then he said, abruptly:
 
-'Well, you've got to remember it isn't only common crooks or the Black
+'[[Well]], you've got to remember it isn't only common crooks or the Black
 Hand that's against him. This Daniel Doom is pretty much like the devil.
 Look how he dropped Trant in his own gardens and Horder outside his
-house, and got away with it.'
+[[house]], and got away with it.'
 
 The top floor of the mansion, inside the enormously thick walls,
 consisted of two rooms; an outer room which they entered, and an inner
@@ -129,7 +129,7 @@ the business of the firm. The four men met in the middle of the outer
 room and paused for a little polite conversation, in the act of
 respectively going and coming. And through all goings and comings
 another figure sat at the back of the room near the inner door, massive
-and motionless in the half - light from the inner window; a man with a
-Negro face and enormous shoulders. This was what the humorous self -
-criticism of America playfully calls the Bad Man; whom his friends might
+and motionless in the half - light from the inner [[Window|window]]; a man with a
+Negro face and enormous shoulders. This was what the humorous [[Self|self]] -
+criticism of [[america|America]] playfully calls the Bad Man; whom his friends might
 call a bodyguard and his enemies a bravo.

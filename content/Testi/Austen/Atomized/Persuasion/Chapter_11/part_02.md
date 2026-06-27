@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 11 (part 2)"
+title: "[[Persuasion]] — Chapter 11 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -26,7 +26,7 @@ Lyme understood.
 
 The party from Uppercross passing down by the now deserted and
 
-melancholy looking rooms, and still descending, soon found themselves
+[[Melancholy|melancholy]] looking rooms, and still descending, soon found themselves
 
 on the sea-shore; and lingering only, as all must linger and gaze on a
 
@@ -34,9 +34,9 @@ first return to the sea, who ever deserved to look on it at all,
 
 proceeded towards the Cobb, equally their object in itself and on
 
-Captain Wentworth’s account: for in a small house, near the foot of an
+[[Captain Wentworth]]’s account: for in a small [[house]], near the foot of an
 
-old pier of unknown date, were the Harvilles settled. Captain Wentworth
+old pier of unknown date, were the Harvilles settled. [[Captain Wentworth]]
 
 turned in to call on his friend; the others walked on, and he was to
 
@@ -46,27 +46,27 @@ join them on the Cobb.
 
 They were by no means tired of wondering and admiring; and not even
 
-Louisa seemed to feel that they had parted with Captain Wentworth long,
+Louisa seemed to feel that they had parted with [[Captain Wentworth]] long,
 
-when they saw him coming after them, with three companions, all well
+when they saw him coming after them, with three companions, all [[Well|well]]
 
 known already, by description, to be Captain and Mrs Harville, and a
 
-Captain Benwick, who was staying with them.
+[[Captain Benwick]], who was staying with them.
 
 
 
-Captain Benwick had some time ago been first lieutenant of the Laconia;
+[[Captain Benwick]] had some [[Time|time]] ago been first lieutenant of the Laconia;
 
-and the account which Captain Wentworth had given of him, on his return
+and the account which [[Captain Wentworth]] had given of him, on his return
 
 from Lyme before, his warm praise of him as an excellent young man and
 
 an officer, whom he had always valued highly, which must have stamped
 
-him well in the esteem of every listener, had been followed by a little
+him [[Well|well]] in the esteem of every listener, had been followed by a little
 
-history of his private life, which rendered him perfectly interesting
+[[history]] of his private life, which rendered him perfectly interesting
 
 in the eyes of all the ladies. He had been engaged to Captain
 
@@ -76,9 +76,9 @@ or two waiting for fortune and promotion. Fortune came, his prize-money
 
 as lieutenant being great; promotion, too, came at _last;_ but Fanny
 
-Harville did not live to know it. She had died the preceding summer
+Harville did not live to know it. She had died the preceding [[Summer|summer]]
 
-while he was at sea. Captain Wentworth believed it impossible for man
+while he was at sea. [[Captain Wentworth]] believed it impossible for man
 
 to be more attached to woman than poor Benwick had been to Fanny
 
@@ -90,23 +90,23 @@ uniting very strong feelings with quiet, serious, and retiring manners,
 
 and a decided taste for reading, and sedentary pursuits. To finish the
 
-interest of the story, the friendship between him and the Harvilles
+interest of the story, the [[Friendship|friendship]] between him and the Harvilles
 
 seemed, if possible, augmented by the event which closed all their
 
-views of alliance, and Captain Benwick was now living with them
+views of alliance, and [[Captain Benwick]] was now living with them
 
-entirely. Captain Harville had taken his present house for half a year;
+entirely. Captain Harville had taken his present [[house]] for half a year;
 
 his taste, and his health, and his fortune, all directing him to a
 
 residence inexpensive, and by the sea; and the grandeur of the country,
 
-and the retirement of Lyme in the winter, appeared exactly adapted to
+and the retirement of Lyme in the [[Winter|winter]], appeared exactly adapted to
 
-Captain Benwick’s state of mind. The sympathy and good-will excited
+[[Captain Benwick]]’s state of mind. The sympathy and good-will excited
 
-towards Captain Benwick was very great.
+towards [[Captain Benwick]] was very great.
 
 
 
@@ -128,17 +128,17 @@ man, with a sensible, benevolent countenance; a little lame; and from
 
 strong features and want of health, looking much older than Captain
 
-Wentworth. Captain Benwick looked, and was, the youngest of the three,
+Wentworth. [[Captain Benwick]] looked, and was, the youngest of the three,
 
 and, compared with either of them, a little man. He had a pleasing face
 
-and a melancholy air, just as he ought to have, and drew back from
+and a [[Melancholy|melancholy]] air, just as he ought to have, and drew back from
 
 conversation.
 
 
 
-Captain Harville, though not equalling Captain Wentworth in manners,
+Captain Harville, though not equalling [[Captain Wentworth]] in manners,
 
 was a perfect gentleman, unaffected, warm, and obliging. Mrs Harville,
 
@@ -146,15 +146,15 @@ a degree less polished than her husband, seemed, however, to have the
 
 same good feelings; and nothing could be more pleasant than their
 
-desire of considering the whole party as friends of their own, because
+[[Desire|desire]] of considering the whole party as friends of their own, because
 
-the friends of Captain Wentworth, or more kindly hospitable than their
+the friends of [[Captain Wentworth]], or more kindly hospitable than their
 
 entreaties for their all promising to dine with them. The dinner,
 
 already ordered at the inn, was at last, though unwillingly, accepted
 
-as a excuse; but they seemed almost hurt that Captain Wentworth should
+as a excuse; but they seemed almost hurt that [[Captain Wentworth]] should
 
 have brought any such party to Lyme, without considering it as a thing
 
@@ -162,7 +162,7 @@ of course that they should dine with them.
 
 
 
-There was so much attachment to Captain Wentworth in all this, and such
+There was so much attachment to [[Captain Wentworth]] in all this, and such
 
 a bewitching charm in a degree of hospitality so uncommon, so unlike
 
@@ -192,9 +192,9 @@ contrivances and nice arrangements of Captain Harville, to turn the
 
 actual space to the best account, to supply the deficiencies of
 
-lodging-house furniture, and defend the windows and doors against the
+lodging-[[house]] furniture, and defend the windows and doors against the
 
-winter storms to be expected. The varieties in the fitting-up of the
+[[Winter|winter]] storms to be expected. The varieties in the fitting-up of the
 
 rooms, where the common necessaries provided by the owner, in the
 

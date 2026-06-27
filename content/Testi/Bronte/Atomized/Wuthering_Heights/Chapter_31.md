@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 31"
+title: "[[Wuthering Heights]] — Chapter 31"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -22,13 +22,13 @@ proposed: my housekeeper entreated me to bear a little note from her to
 her young lady, and I did not refuse, for the worthy woman was not
 conscious of anything odd in her request. The front door stood open,
 but the jealous gate was fastened, as at my last visit; I knocked and
-invoked Earnshaw from among the garden-beds; he unchained it, and I
+invoked Earnshaw from among the [[Garden|garden]]-beds; he unchained it, and I
 entered. The fellow is as handsome a rustic as need be seen. I took
-particular notice of him this time; but then he does his best
+particular notice of him this [[Time|time]]; but then he does his best
 apparently to make the least of his advantages.
 
-I asked if Mr. Heathcliff were at home? He answered, No; but he would
-be in at dinner-time. It was eleven o’clock, and I announced my
+I asked if Mr. [[Heathcliff]] were at [[Home|home]]? He answered, No; but he would
+be in at dinner-[[Time|time]]. It was eleven o’[[Clock|clock]], and I announced my
 intention of going in and waiting for him; at which he immediately
 flung down his tools and accompanied me, in the office of watchdog, not
 as a substitute for the host.
@@ -41,13 +41,13 @@ same disregard to common forms of politeness as before; never returning
 my bow and good-morning by the slightest acknowledgment.
 
 “She does not seem so amiable,” I thought, “as Mrs. Dean would persuade
-me to believe. She’s a beauty, it is true; but not an angel.”
+me to believe. She’s a [[Beauty|beauty]], it is true; but not an angel.”
 
 Earnshaw surlily bid her remove her things to the kitchen. “Remove them
 yourself,” she said, pushing them from her as soon as she had done; and
-retiring to a stool by the window, where she began to carve figures of
-birds and beasts out of the turnip-parings in her lap. I approached
-her, pretending to desire a view of the garden; and, as I fancied,
+retiring to a stool by the [[Window|window]], where she began to carve figures of
+[[Birds|birds]] and beasts out of the turnip-parings in her lap. I approached
+her, pretending to [[Desire|desire]] a view of the [[Garden|garden]]; and, as I fancied,
 adroitly dropped Mrs. Dean’s note on to her knee, unnoticed by
 Hareton—but she asked aloud, “What is that?” And chucked it off.
 
@@ -55,14 +55,14 @@ Hareton—but she asked aloud, “What is that?” And chucked it off.
 answered; annoyed at her exposing my kind deed, and fearful lest it
 should be imagined a missive of my own. She would gladly have gathered
 it up at this information, but Hareton beat her; he seized and put it
-in his waistcoat, saying Mr. Heathcliff should look at it first.
+in his waistcoat, saying Mr. [[Heathcliff]] should look at it first.
 Thereat, Catherine silently turned her face from us, and, very
 stealthily, drew out her pocket-handkerchief and applied it to her
 eyes; and her cousin, after struggling awhile to keep down his softer
 feelings, pulled out the letter and flung it on the floor beside her,
 as ungraciously as he could. Catherine caught and perused it eagerly;
 then she put a few questions to me concerning the inmates, rational and
-irrational, of her former home; and gazing towards the hills, murmured
+irrational, of her former [[Home|home]]; and gazing towards the hills, murmured
 in soliloquy:
 
 “I should like to be riding Minny down there! I should like to be
@@ -71,18 +71,18 @@ her pretty head back against the sill, with half a yawn and half a
 sigh, and lapsed into an aspect of abstracted sadness: neither caring
 nor knowing whether we remarked her.
 
-“Mrs. Heathcliff,” I said, after sitting some time mute, “you are not
+“Mrs. [[Heathcliff]],” I said, after sitting some [[Time|time]] mute, “you are not
 aware that I am an acquaintance of yours? so intimate that I think it
 strange you won’t come and speak to me. My housekeeper never wearies of
 talking about and praising you; and she’ll be greatly disappointed if I
 return with no news of or from you, except that you received her letter
 and said nothing!”
 
-She appeared to wonder at this speech, and asked,—
+She appeared to [[Wonder|wonder]] at this speech, and asked,—
 
 “Does Ellen like you?”
 
-“Yes, very well,” I replied, hesitatingly.
+“Yes, very [[Well|well]],” I replied, hesitatingly.
 
 “You must tell her,” she continued, “that I would answer her letter,
 but I have no materials for writing: not even a book from which I might
@@ -94,15 +94,15 @@ large library, I’m frequently very dull at the Grange; take my books
 away, and I should be desperate!”
 
 “I was always reading, when I had them,” said Catherine; “and Mr.
-Heathcliff never reads; so he took it into his head to destroy my
+[[Heathcliff]] never reads; so he took it into his head to destroy my
 books. I have not had a glimpse of one for weeks. Only once, I searched
 through Joseph’s store of theology, to his great irritation; and once,
 Hareton, I came upon a secret stock in your room—some Latin and Greek,
 and some tales and poetry: all old friends. I brought the last here—and
-you gathered them, as a magpie gathers silver spoons, for the mere love
+you gathered them, as a magpie gathers silver spoons, for the mere [[Love|love]]
 of stealing! They are of no use to you; or else you concealed them in
 the bad spirit that, as you cannot enjoy them, nobody else shall.
-Perhaps _your_ envy counselled Mr. Heathcliff to rob me of my
+Perhaps _your_ envy counselled Mr. [[Heathcliff]] to rob me of my
 treasures? But I’ve most of them written on my brain and printed in my
 heart, and you cannot deprive me of those!”
 
@@ -125,7 +125,7 @@ The young man evidently thought it too bad that he should be laughed at
 for his ignorance, and then laughed at for trying to remove it. I had a
 similar notion; and, remembering Mrs. Dean’s anecdote of his first
 attempt at enlightening the darkness in which he had been reared, I
-observed,—“But, Mrs. Heathcliff, we have each had a commencement, and
+observed,—“But, Mrs. [[Heathcliff]], we have each had a commencement, and
 each stumbled and tottered on the threshold; had our teachers scorned
 instead of aiding us, we should stumble and totter yet.”
 
@@ -134,12 +134,12 @@ has no right to appropriate what is mine, and make it ridiculous to me
 with his vile mistakes and mispronunciations! Those books, both prose
 and verse, are consecrated to me by other associations; and I hate to
 have them debased and profaned in his mouth! Besides, of all, he has
-selected my favourite pieces that I love the most to repeat, as if out
+selected my favourite pieces that I [[Love|love]] the most to repeat, as if out
 of deliberate malice.”
 
-Hareton’s chest heaved in silence a minute: he laboured under a severe
+Hareton’s chest heaved in [[Silence|silence]] a minute: he laboured under a severe
 sense of mortification and wrath, which it was no easy task to
-suppress. I rose, and, from a gentlemanly idea of relieving his
+suppress. I [[Rose|rose]], and, from a gentlemanly idea of relieving his
 embarrassment, took up my station in the doorway, surveying the
 external prospect as I stood. He followed my example, and left the
 room; but presently reappeared, bearing half a dozen volumes in his
@@ -154,19 +154,19 @@ portion in the drawling tone of a beginner; then laughed, and threw it
 from her. “And listen,” she continued, provokingly, commencing a verse
 of an old ballad in the same fashion.
 
-But his self-love would endure no further torment: I heard, and not
+But his [[Self|self]]-[[Love|love]] would endure no further torment: I heard, and not
 altogether disapprovingly, a manual check given to her saucy tongue.
 The little wretch had done her utmost to hurt her cousin’s sensitive
 though uncultivated feelings, and a physical argument was the only mode
 he had of balancing the account, and repaying its effects on the
 inflictor. He afterwards gathered the books and hurled them on the
-fire. I read in his countenance what anguish it was to offer that
+[[Fire|fire]]. I read in his countenance what anguish it was to offer that
 sacrifice to spleen. I fancied that as they consumed, he recalled the
 pleasure they had already imparted, and the triumph and ever-increasing
 pleasure he had anticipated from them; and I fancied I guessed the
 incitement to his secret studies also. He had been content with daily
 labour and rough animal enjoyments, till Catherine crossed his path.
-Shame at her scorn, and hope of her approval, were his first prompters
+Shame at her scorn, and [[Hope|hope]] of her approval, were his first prompters
 to higher pursuits; and instead of guarding him from one and winning
 him to the other, his endeavours to raise himself had produced just the
 contrary result.
@@ -179,13 +179,13 @@ conflagration with indignant eyes.
 
 And his agitation precluded further speech; he advanced hastily to the
 entrance, where I made way for him to pass. But ere he had crossed the
-door-stones, Mr. Heathcliff, coming up the causeway, encountered him,
+door-stones, Mr. [[Heathcliff]], coming up the causeway, encountered him,
 and laying hold of his shoulder asked,—“What’s to do now, my lad?”
 
 “Naught, naught,” he said, and broke away to enjoy his grief and anger
-in solitude.
+in [[Solitude|solitude]].
 
-Heathcliff gazed after him, and sighed.
+[[Heathcliff]] gazed after him, and sighed.
 
 “It will be odd if I thwart myself,” he muttered, unconscious that I
 was behind him. “But when I look for his father in his face, I find
@@ -195,23 +195,23 @@ see him.”
 He bent his eyes to the ground, and walked moodily in. There was a
 restless, anxious expression in his countenance, I had never remarked
 there before; and he looked sparer in person. His daughter-in-law, on
-perceiving him through the window, immediately escaped to the kitchen,
-so that I remained alone.
+perceiving him through the [[Window|window]], immediately escaped to the kitchen,
+so that I remained [[Alone|alone]].
 
 “I’m glad to see you out of doors again, Mr. Lockwood,” he said, in
 reply to my greeting; “from selfish motives partly: I don’t think I
 could readily supply your loss in this desolation. I’ve wondered more
 than once what brought you here.”
 
-“An idle whim, I fear, sir,” was my answer; “or else an idle whim is
-going to spirit me away. I shall set out for London next week; and I
+“An idle whim, I [[Fear|fear]], sir,” was my answer; “or else an idle whim is
+going to spirit me away. I shall set out for [[London]] next week; and I
 must give you warning that I feel no disposition to retain Thrushcross
 Grange beyond the twelve months I agreed to rent it. I believe I shall
 not live there any more.”
 
 “Oh, indeed; you’re tired of being banished from the world, are you?”
 he said. “But if you be coming to plead off paying for a place you
-won’t occupy, your journey is useless: I never relent in exacting my
+won’t occupy, your [[Journey|journey]] is useless: I never relent in exacting my
 due from any one.”
 
 “I’m coming to plead off nothing about it,” I exclaimed, considerably
@@ -226,23 +226,23 @@ where are you?”
 
 Catherine reappeared, bearing a tray of knives and forks.
 
-“You may get your dinner with Joseph,” muttered Heathcliff, aside, “and
+“You may get your dinner with Joseph,” muttered [[Heathcliff]], aside, “and
 remain in the kitchen till he is gone.”
 
 She obeyed his directions very punctually: perhaps she had no
-temptation to transgress. Living among clowns and misanthropists, she
+[[Temptation|temptation]] to transgress. Living among clowns and misanthropists, she
 probably cannot appreciate a better class of people when she meets
 them.
 
-With Mr. Heathcliff, grim and saturnine, on the one hand, and Hareton,
+With Mr. [[Heathcliff]], grim and saturnine, on the one hand, and Hareton,
 absolutely dumb, on the other, I made a somewhat cheerless meal, and
 bade adieu early. I would have departed by the back way, to get a last
 glimpse of Catherine and annoy old Joseph; but Hareton received orders
-to lead up my horse, and my host himself escorted me to the door, so I
+to lead up my [[Horse|horse]], and my host himself escorted me to the door, so I
 could not fulfil my wish.
 
-“How dreary life gets over in that house!” I reflected, while riding
-down the road. “What a realisation of something more romantic than a
-fairy tale it would have been for Mrs. Linton Heathcliff, had she and I
-struck up an attachment, as her good nurse desired, and migrated
+“How dreary life gets over in that [[house]]!” I reflected, while riding
+down the [[Road|road]]. “What a realisation of something more romantic than a
+fairy tale it would have been for Mrs. [[Linton Heathcliff]], had she and I
+struck up an attachment, as her good [[Nurse|nurse]] desired, and migrated
 together into the stirring atmosphere of the town!”

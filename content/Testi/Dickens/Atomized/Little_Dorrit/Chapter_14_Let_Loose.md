@@ -17,25 +17,25 @@ tags:
 CHAPTER 11. Let Loose
 
 
-A late, dull autumn night was closing in upon the river Saone. The
+A late, dull [[Autumn|autumn]] [[Night|night]] was closing in upon the [[River|river]] Saone. The
 stream, like a sullied looking-glass in a gloomy place, reflected the
 clouds heavily; and the low banks leaned over here and there, as if they
 were half curious, and half afraid, to see their darkening pictures in
-the water. The flat expanse of country about Chalons lay a long heavy
+the [[Water|water]]. The flat expanse of country about Chalons lay a long heavy
 streak, occasionally made a little ragged by a row of poplar trees
-against the wrathful sunset. On the banks of the river Saone it was wet,
-depressing, solitary; and the night deepened fast.
+against the wrathful sunset. On the banks of the [[River|river]] Saone it was wet,
+depressing, solitary; and the [[Night|night]] deepened fast.
 
 One man slowly moving on towards Chalons was the only visible figure in
-the landscape. Cain might have looked as lonely and avoided. With an old
+the landscape. [[Cain]] might have looked as lonely and avoided. With an old
 sheepskin knapsack at his back, and a rough, unbarked stick cut out of
 some wood in his hand; miry, footsore, his shoes and gaiters trodden
 out, his hair and beard untrimmed; the cloak he carried over his
 shoulder, and the clothes he wore, sodden with wet; limping along in
-pain and difficulty; he looked as if the clouds were hurrying from him,
-as if the wail of the wind and the shuddering of the grass were directed
-against him, as if the low mysterious plashing of the water murmured at
-him, as if the fitful autumn night were disturbed by him.
+[[Pain|pain]] and difficulty; he looked as if the clouds were hurrying from him,
+as if the wail of the [[Wind|wind]] and the shuddering of the grass were directed
+against him, as if the low mysterious plashing of the [[Water|water]] murmured at
+him, as if the fitful [[Autumn|autumn]] [[Night|night]] were disturbed by him.
 
 He glanced here, and he glanced there, sullenly but shrinkingly; and
 sometimes stopped and turned about, and looked all round him. Then he
@@ -65,12 +65,12 @@ doorposts; there was the silversmith’s with its earrings, and its
 offerings for altars; there was the tobacco dealer’s with its lively
 group of soldier customers coming out pipe in mouth; there were the bad
 odours of the town, and the rain and the refuse in the kennels, and
-the faint lamps slung across the road, and the huge Diligence, and its
+the faint lamps slung across the [[Road|road]], and the huge Diligence, and its
 mountain of luggage, and its six grey horses with their tails tied up,
 getting under weigh at the coach office. But no small cabaret for a
 straitened traveller being within sight, he had to seek one round the
-dark corner, where the cabbage leaves lay thickest, trodden about the
-public cistern at which women had not yet left off drawing water. There,
+dark corner, where the cabbage [[Leaves|leaves]] lay thickest, trodden about the
+public cistern at which women had not yet left off drawing [[Water|water]]. There,
 in the back street he found one, the Break of Day. The curtained windows
 clouded the Break of Day, but it seemed light and warm, and it announced
 in legible inscriptions with appropriate pictorial embellishment
@@ -83,8 +83,8 @@ door, and limped in.
 He touched his discoloured slouched hat, as he came in at the door, to
 a few men who occupied the room. Two were playing dominoes at one of the
 little tables; three or four were seated round the stove, conversing
-as they smoked; the billiard-table in the centre was left alone for the
-time; the landlady of the Daybreak sat behind her little counter among
+as they smoked; the billiard-table in the centre was left [[Alone|alone]] for the
+[[Time|time]]; the landlady of the Daybreak sat behind her little counter among
 her cloudy bottles of syrups, baskets of cakes, and leaden drainage for
 glasses, working at her needle.
 
@@ -93,9 +93,9 @@ the stove, he put down his knapsack and his cloak upon the ground. As
 he raised his head from stooping to do so, he found the landlady beside
 him.
 
-‘One can lodge here to-night, madame?’
+‘One can lodge here to-[[Night|night]], madame?’
 
-‘Perfectly!’ said the landlady in a high, sing-song, cheery voice.
+‘Perfectly!’ said the landlady in a high, sing-[[Song|song]], cheery voice.
 
 ‘Good. One can dine--sup--what you please to call it?’
 
@@ -108,9 +108,9 @@ you can; and some wine at once. I am exhausted.’
 
 ‘Cursed weather.’
 
-‘And a very long road.’
+‘And a very long [[Road|road]].’
 
-‘A cursed road.’
+‘A cursed [[Road|road]].’
 
 His hoarse voice failed him, and he rested his head upon his hands until
 a bottle of wine was brought from the counter. Having filled and emptied
@@ -118,12 +118,12 @@ his little tumbler twice, and having broken off an end from the great
 loaf that was set before him with his cloth and napkin, soup-plate,
 salt, pepper, and oil, he rested his back against the corner of the
 wall, made a couch of the bench on which he sat, and began to chew
-crust, until such time as his repast should be ready.
+crust, until such [[Time|time]] as his repast should be ready.
 
 There had been that momentary interruption of the talk about the stove,
 and that temporary inattention to and distraction from one another,
 which is usually inseparable in such a company from the arrival of a
-stranger. It had passed over by this time; and the men had done glancing
+stranger. It had passed over by this [[Time|time]]; and the men had done glancing
 at him, and were talking again.
 
 ‘That’s the true reason,’ said one of them, bringing a story he had
@@ -152,12 +152,12 @@ yes.’
 
 ‘He was a bad subject.’
 
-‘He was a wicked wretch,’ said the landlady, ‘and well merited what he
+‘He was a wicked wretch,’ said the landlady, ‘and [[Well|well]] merited what he
 had the good fortune to escape. So much the worse.’
 
 ‘Stay, madame! Let us see,’ returned the Swiss, argumentatively turning
 his cigar between his lips. ‘It may have been his unfortunate destiny.
-He may have been the child of circumstances. It is always possible that
+He may have been the [[Child|child]] of circumstances. It is always possible that
 he had, and has, good in him if one did but know how to find it out.
 Philosophical philanthropy teaches--’
 
@@ -175,9 +175,9 @@ both, unfortunately) who have no good in them--none. That there are
 people whom it is necessary to detest without compromise. That there are
 people who must be dealt with as enemies of the human race. That there
 are people who have no human heart, and who must be crushed like savage
-beasts and cleared out of the way. They are but few, I hope; but I have
+beasts and cleared out of the way. They are but few, I [[Hope|hope]]; but I have
 seen (in this world here where I find myself, and even at the little
-Break of Day) that there are such people. And I do not doubt that this
+Break of Day) that there are such people. And I do not [[Doubt|doubt]] that this
 man--whatever they call him, I forget his name--is one of them.’
 
 The landlady’s lively speech was received with greater favour at
@@ -185,9 +185,9 @@ the Break of Day, than it would have elicited from certain amiable
 whitewashers of the class she so unreasonably objected to, nearer Great
 Britain.
 
-‘My faith! If your philosophical philanthropy,’ said the landlady,
+‘My [[Faith|faith]]! If your philosophical philanthropy,’ said the landlady,
 putting down her work, and rising to take the stranger’s soup from her
-husband, who appeared with it at a side door, ‘puts anybody at the mercy
+husband, who appeared with it at a side door, ‘puts anybody at the [[Mercy|mercy]]
 of such people by holding terms with them at all, in words or deeds, or
 both, take it away from the Break of Day, for it isn’t worth a sou.’
 
@@ -195,7 +195,7 @@ As she placed the soup before the guest, who changed his attitude to a
 sitting one, he looked her full in the face, and his moustache went up
 under his nose, and his nose came down over his moustache.
 
-‘Well!’ said the previous speaker, ‘let us come back to our subject.
+‘[[Well]]!’ said the previous speaker, ‘let us come back to our subject.
 Leaving all that aside, gentlemen, it was because the man was acquitted
 on his trial that people said at Marseilles that the devil was let
 loose. That was how the phrase began to circulate, and what it meant;
@@ -203,9 +203,9 @@ nothing more.’
 
 ‘How do they call him?’ said the landlady. ‘Biraud, is it not?’
 
-‘Rigaud, madame,’ returned the tall Swiss.
+‘[[Rigaud]], madame,’ returned the tall Swiss.
 
-‘Rigaud! To be sure.’
+‘[[Rigaud]]! To be sure.’
 
 The traveller’s soup was succeeded by a dish of meat, and that by a dish
 of vegetables. He ate all that was placed before him, emptied his bottle
@@ -223,17 +223,17 @@ by the stove, warming his ragged feet.
 
 ‘Pardon me, madame--that Biraud.’
 
-‘Rigaud, monsieur.’
+‘[[Rigaud]], monsieur.’
 
-‘Rigaud. Pardon me again--has contracted your displeasure, how?’
+‘[[Rigaud]]. Pardon me again--has contracted your displeasure, how?’
 
 The landlady, who had been at one moment thinking within herself that
 this was a handsome man, at another moment that this was an ill-looking
 man, observed the nose coming down and the moustache going up, and
-strongly inclined to the latter decision. Rigaud was a criminal, she
+strongly inclined to the latter decision. [[Rigaud]] was a criminal, she
 said, who had killed his wife.
 
-‘Ay, ay? Death of my life, that’s a criminal indeed. But how do you know
+‘Ay, ay? [[Death]] of my life, that’s a criminal indeed. But how do you know
 it?’
 
 ‘All the world knows it.’
@@ -242,7 +242,7 @@ it?’
 
 ‘Monsieur, the law could not prove it against him to its satisfaction.
 So the law says. Nevertheless, all the world knows he did it. The people
-knew it so well, that they tried to tear him to pieces.’
+knew it so [[Well|well]], that they tried to tear him to pieces.’
 
 ‘Being all in perfect accord with their own wives?’ said the guest.
 ‘Haha!’
@@ -256,9 +256,9 @@ not ill-looking after all.
 became of him?’
 
 The landlady shook her head; it being the first conversational stage at
-which her vivacious earnestness had ceased to nod it, keeping time to what
+which her vivacious earnestness had ceased to nod it, keeping [[Time|time]] to what
 she said. It had been mentioned at the Daybreak, she remarked, on the
-authority of the journals, that he had been kept in prison for his own
+authority of the journals, that he had been kept in [[Prison|prison]] for his own
 safety. However that might be, he had escaped his deserts; so much the
 worse.
 
@@ -281,7 +281,7 @@ whiles, ‘Hola, my husband!’ out at the side door.
 My husband answered at length, ‘It is I, my wife!’ and presenting
 himself in his cook’s cap, lighted the traveller up a steep and narrow
 staircase; the traveller carrying his own cloak and knapsack, and
-bidding the landlady good night with a complimentary reference to the
+bidding the landlady good [[Night|night]] with a complimentary reference to the
 pleasure of seeing her again to-morrow. It was a large room, with a
 rough splintery floor, unplastered rafters overhead, and two bedsteads
 on opposite sides. Here ‘my husband’ put down the candle he carried, and
@@ -304,7 +304,7 @@ that he could be only heard, not seen. But the deep regular breathing,
 still going on while the other was taking off his worn shoes and
 gaiters, and still continuing when he had laid aside his coat and
 cravat, became at length a strong provocative to curiosity, and
-incentive to get a glimpse of the sleeper’s face.
+incentive to get a glimpse of [[The Sleeper|the sleeper]]’s face.
 
 The waking traveller, therefore, stole a little nearer, and yet a little
 nearer, and a little nearer to the sleeping traveller’s bed, until he
@@ -313,13 +313,13 @@ drawn the sheet over it. The regular breathing still continuing, he put
 his smooth white hand (such a treacherous hand it looked, as it went
 creeping from him!) to the sheet, and gently lifted it away.
 
-‘Death of my soul!’ he whispered, falling back, ‘here’s Cavalletto!’
+‘[[Death]] of my [[Soul|soul]]!’ he whispered, falling back, ‘here’s Cavalletto!’
 
-The little Italian, previously influenced in his sleep, perhaps, by the
+The little Italian, previously influenced in his [[Sleep|sleep]], perhaps, by the
 stealthy presence at his bedside, stopped in his regular breathing, and
 with a long deep respiration opened his eyes. At first they were not
 awake, though open. He lay for some seconds looking placidly at his
-old prison companion, and then, all at once, with a cry of surprise and
+old [[Prison|prison]] companion, and then, all at once, with a cry of surprise and
 alarm, sprang out of bed.
 
 ‘Hush! What’s the matter? Keep quiet! It’s I. You know me?’ cried the
@@ -328,8 +328,8 @@ other, in a suppressed voice.
 But John Baptist, widely staring, muttering a number of invocations
 and ejaculations, tremblingly backing into a corner, slipping on
 his trousers, and tying his coat by the two sleeves round his neck,
-manifested an unmistakable desire to escape by the door rather than
-renew the acquaintance. Seeing this, his old prison comrade fell back
+manifested an unmistakable [[Desire|desire]] to escape by the door rather than
+renew the acquaintance. Seeing this, his old [[Prison|prison]] comrade fell back
 upon the door, and set his shoulders against it.
 
 ‘Cavalletto! Wake, boy! Rub your eyes and look at me. Not the name you
@@ -363,9 +363,9 @@ for a gentleman, you’ll say. No matter, you shall see how soon I’ll mend
 it. Come and sit down. Take your old place!’
 
 John Baptist, looking anything but reassured, sat down on the floor at
-the bedside, keeping his eyes upon his patron all the time.
+the bedside, keeping his eyes upon his patron all the [[Time|time]].
 
-‘That’s well!’ cried Lagnier. ‘Now we might be in the old infernal hole
+‘That’s [[Well|well]]!’ cried Lagnier. ‘Now we might be in the old infernal hole
 again, hey? How long have you been out?’
 
 ‘Two days after you, my master.’
@@ -384,11 +384,11 @@ the floor.
 
 ‘Ay!’
 
-John Baptist seemed to desire to evade the question without knowing how.
+John Baptist seemed to [[Desire|desire]] to evade the question without knowing how.
 ‘By Bacchus!’ he said at last, as if he were forced to the admission, ‘I
-have sometimes had a thought of going to Paris, and perhaps to England.’
+have sometimes had a thought of going to [[Paris]], and perhaps to England.’
 
-‘Cavalletto. This is in confidence. I also am going to Paris and perhaps
+‘Cavalletto. This is in confidence. I also am going to [[Paris]] and perhaps
 to England. We’ll go together.’
 
 The little man nodded his head, and showed his teeth; and yet seemed not
@@ -400,16 +400,16 @@ it. It is agreed? Are we one?’
 
 ‘Oh, surely, surely!’ said the little man.
 
-‘Then you shall hear before I sleep--and in six words, for I want
-sleep--how I appear before you, I, Lagnier. Remember that. Not the
+‘Then you shall hear before I [[Sleep|sleep]]--and in six words, for I want
+[[Sleep|sleep]]--how I appear before you, I, Lagnier. Remember that. Not the
 other.’
 
 ‘Altro, altro! Not Ri----’ Before John Baptist could finish the name, his
 comrade had got his hand under his chin and fiercely shut up his mouth.
 
-‘Death! what are you doing? Do you want me to be trampled upon and
+‘[[Death]]! what are you doing? Do you want me to be trampled upon and
 stoned? Do _you_ want to be trampled upon and stoned? You would be. You
-don’t imagine that they would set upon me, and let my prison chum go?
+don’t imagine that they would set upon me, and let my [[Prison|prison]] chum go?
 Don’t think it!’
 
 There was an expression in his face as he released his grip of his
@@ -425,11 +425,11 @@ it is my character to govern. How has society respected those qualities
 in me? I have been shrieked at through the streets. I have been guarded
 through the streets against men, and especially women, running at me
 armed with any weapons they could lay their hands on. I have lain in
-prison for security, with the place of my confinement kept a secret,
+[[Prison|prison]] for security, with the place of my confinement kept a secret,
 lest I should be torn out of it and felled by a hundred blows. I have
-been carted out of Marseilles in the dead of night, and carried leagues
+been carted out of Marseilles in the dead of [[Night|night]], and carried leagues
 away from it packed in straw. It has not been safe for me to go near my
-house; and, with a beggar’s pittance in my pocket, I have walked through
+[[house]]; and, with a beggar’s pittance in my pocket, I have walked through
 vile mud and weather ever since, until my feet are crippled--look at
 them! Such are the humiliations that society has inflicted upon me,
 possessing the qualities I have mentioned, and which you know me to
@@ -445,14 +445,14 @@ to strike them dead! But the wrongs society has heaped upon me are
 treasured in this breast.’
 
 To all of which John Baptist, listening attentively to the suppressed
-hoarse voice, said from time to time, ‘Surely, surely!’ tossing his
+hoarse voice, said from [[Time|time]] to [[Time|time]], ‘Surely, surely!’ tossing his
 head and shutting his eyes, as if there were the clearest case against
 society that perfect candour could make out.
 
 ‘Put my shoes there,’ continued Lagnier. ‘Hang my cloak to dry there
 by the door. Take my hat.’ He obeyed each instruction, as it was given.
 ‘And this is the bed to which society consigns me, is it? Hah. _Very_
-well!’
+[[Well|well]]!’
 
 As he stretched out his length upon it, with a ragged handkerchief
 bound round his wicked head, and only his wicked head showing above the
@@ -462,29 +462,29 @@ it did, and the nose from any more coming down as it did.
 
 ‘Shaken out of destiny’s dice-box again into your company, eh? By
 Heaven! So much the better for you. You’ll profit by it. I shall need a
-long rest. Let me sleep in the morning.’
+long rest. Let me [[Sleep|sleep]] in the morning.’
 
-John Baptist replied that he should sleep as long as he would, and
-wishing him a happy night, put out the candle. One might have supposed
+John Baptist replied that he should [[Sleep|sleep]] as long as he would, and
+wishing him a happy [[Night|night]], put out the candle. One might have supposed
 that the next proceeding of the Italian would have been to undress;
 but he did exactly the reverse, and dressed himself from head to foot,
 saving his shoes. When he had so done, he lay down upon his bed with
 some of its coverings over him, and his coat still tied round his neck,
-to get through the night.
+to get through the [[Night|night]].
 
 When he started up, the Godfather Break of Day was peeping at its
-namesake. He rose, took his shoes in his hand, turned the key in the
+namesake. He [[Rose|rose]], took his shoes in his hand, turned the key in the
 door with great caution, and crept downstairs. Nothing was astir there
 but the smell of coffee, wine, tobacco, and syrups; and madame’s little
 counter looked ghastly enough. But he had paid madame his little note
-at it over night, and wanted to see nobody--wanted nothing but to get on
+at it over [[Night|night]], and wanted to see nobody--wanted nothing but to get on
 his shoes and his knapsack, open the door, and run away.
 
 He prospered in his object. No movement or voice was heard when he
 opened the door; no wicked head tied up in a ragged handkerchief looked
-out of the upper window. When the sun had raised his full disc above the
-flat line of the horizon, and was striking fire out of the long muddy
-vista of paved road with its weary avenue of little trees, a black speck
-moved along the road and splashed among the flaming pools of rain-water,
+out of the upper [[Window|window]]. When the sun had raised his full disc above the
+flat line of the horizon, and was striking [[Fire|fire]] out of the long muddy
+vista of paved [[Road|road]] with its weary avenue of little trees, a black speck
+moved along the [[Road|road]] and splashed among the flaming pools of rain-[[Water|water]],
 which black speck was John Baptist Cavalletto running away from his
 patron.

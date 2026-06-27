@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 36"
+title: "Bleak [[house|House]] — Chapter 36"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,12 +19,12 @@ CHAPTER XXXVI
 Chesney Wold
 
 
-Charley and I did not set off alone upon our expedition into
+Charley and I did not set off [[Alone|alone]] upon our expedition into
 Lincolnshire. My guardian had made up his mind not to lose sight of
-me until I was safe in Mr. Boythorn’s house, so he accompanied us,
-and we were two days upon the road. I found every breath of air, and
+me until I was safe in Mr. Boythorn’s [[house]], so he accompanied us,
+and we were two days upon the [[Road|road]]. I found every breath of air, and
 every scent, and every flower and leaf and blade of grass, and every
-passing cloud, and everything in nature, more beautiful and wonderful
+passing cloud, and everything in [[Nature|nature]], more beautiful and wonderful
 to me than I had ever found it yet. This was my first gain from my
 illness. How little I had lost, when the wide world was so full of
 delight for me.
@@ -33,16 +33,16 @@ My guardian intending to go back immediately, we appointed, on our
 way down, a day when my dear girl should come. I wrote her a letter,
 of which he took charge, and he left us within half an hour of our
 arrival at our destination, on a delightful evening in the early
-summer-time.
+[[Summer|summer]]-[[Time|time]].
 
-If a good fairy had built the house for me with a wave of her wand,
-and I had been a princess and her favoured god-child, I could not
+If a good fairy had built the [[house]] for me with a wave of her wand,
+and I had been a princess and her favoured god-[[Child|child]], I could not
 have been more considered in it. So many preparations were made for
 me and such an endearing remembrance was shown of all my little
 tastes and likings that I could have sat down, overcome, a dozen
 times before I had revisited half the rooms. I did better than that,
 however, by showing them all to Charley instead. Charley’s delight
-calmed mine; and after we had had a walk in the garden, and Charley
+calmed mine; and after we had had a walk in the [[Garden|garden]], and Charley
 had exhausted her whole vocabulary of admiring expressions, I was as
 tranquilly happy as I ought to have been. It was a great comfort to
 be able to say to myself after tea, “Esther, my dear, I think you are
@@ -50,21 +50,21 @@ quite sensible enough to sit down now and write a note of thanks to
 your host.” He had left a note of welcome for me, as sunny as his own
 face, and had confided his bird to my care, which I knew to be his
 highest mark of confidence. Accordingly I wrote a little note to him
-in London, telling him how all his favourite plants and trees were
-looking, and how the most astonishing of birds had chirped the
-honours of the house to me in the most hospitable manner, and how,
+in [[London]], telling him how all his favourite plants and trees were
+looking, and how the most astonishing of [[Birds|birds]] had chirped the
+honours of the [[house]] to me in the most hospitable manner, and how,
 after singing on my shoulder, to the inconceivable rapture of my
 little maid, he was then at roost in the usual corner of his cage,
 but whether dreaming or no I could not report. My note finished and
 sent off to the post, I made myself very busy in unpacking and
-arranging; and I sent Charley to bed in good time and told her I
-should want her no more that night.
+arranging; and I sent Charley to bed in good [[Time|time]] and told her I
+should want her no more that [[Night|night]].
 
 For I had not yet looked in the glass and had never asked to have my
 own restored to me. I knew this to be a weakness which must be
 overcome, but I had always said to myself that I would begin afresh
-when I got to where I now was. Therefore I had wanted to be alone,
-and therefore I said, now alone, in my own room, “Esther, if you are
+when I got to where I now was. Therefore I had wanted to be [[Alone|alone]],
+and therefore I said, now [[Alone|alone]], in my own room, “Esther, if you are
 to be happy, if you are to have any right to pray to be true-hearted,
 you must keep your word, my dear.” I was quite resolved to keep it,
 but I sat down for a little while first to reflect upon all my
@@ -76,7 +76,7 @@ went up to the glass upon the dressing-table. There was a little
 muslin curtain drawn across it. I drew it back and stood for a moment
 looking through such a veil of my own hair that I could see nothing
 else. Then I put my hair aside and looked at the reflection in the
-mirror, encouraged by seeing how placidly it looked at me. I was very
+[[Mirror|mirror]], encouraged by seeing how placidly it looked at me. I was very
 much changed—oh, very, very much. At first my face was so strange to
 me that I think I should have put my hands before it and started back
 but for the encouragement I have mentioned. Very soon it became more
@@ -85,13 +85,13 @@ than I had done at first. It was not like what I had expected, but I
 had expected nothing definite, and I dare say anything definite would
 have surprised me.
 
-I had never been a beauty and had never thought myself one, but I had
+I had never been a [[Beauty|beauty]] and had never thought myself one, but I had
 been very different from this. It was all gone now. Heaven was so
-good to me that I could let it go with a few not bitter tears and
-could stand there arranging my hair for the night quite thankfully.
+good to me that I could let it go with a few not bitter [[Tears|tears]] and
+could stand there arranging my hair for the [[Night|night]] quite thankfully.
 
-One thing troubled me, and I considered it for a long time before I
-went to sleep. I had kept Mr. Woodcourt’s flowers. When they were
+One thing troubled me, and I considered it for a long [[Time|time]] before I
+went to [[Sleep|sleep]]. I had kept Mr. Woodcourt’s [[Flowers|flowers]]. When they were
 withered I had dried them and put them in a book that I was fond of.
 Nobody knew this, not even Ada. I was doubtful whether I had a right
 to preserve what he had sent to one so different—whether it was
@@ -100,7 +100,7 @@ in the secret depths of my heart, which he would never know, because
 I could have loved him—could have been devoted to him. At last I
 came to the conclusion that I might keep them if I treasured them
 only as a remembrance of what was irrevocably past and gone, never to
-be looked back on any more, in any other light. I hope this may not
+be looked back on any more, in any other light. I [[Hope|hope]] this may not
 seem trivial. I was very much in earnest.
 
 I took care to be up early in the morning and to be before the glass
@@ -109,7 +109,7 @@ when Charley came in on tiptoe.
 “Dear, dear, miss!” cried Charley, starting. “Is that you?”
 
 “Yes, Charley,” said I, quietly putting up my hair. “And I am very
-well indeed, and very happy.”
+[[Well|well]] indeed, and very happy.”
 
 I saw it was a weight off Charley’s mind, but it was a greater weight
 off mine. I knew the worst now and was composed to it. I shall not
@@ -121,9 +121,9 @@ Wishing to be fully re-established in my strength and my good spirits
 before Ada came, I now laid down a little series of plans with
 Charley for being in the fresh air all day long. We were to be out
 before breakfast, and were to dine early, and were to be out again
-before and after dinner, and were to talk in the garden after tea,
-and were to go to rest betimes, and were to climb every hill and
-explore every road, lane, and field in the neighbourhood. As to
+before and after dinner, and were to talk in the [[Garden|garden]] after tea,
+and were to go to rest betimes, and were to climb every [[Hill|hill]] and
+explore every [[Road|road]], lane, and field in the neighbourhood. As to
 restoratives and strengthening delicacies, Mr. Boythorn’s good
 housekeeper was for ever trotting about with something to eat or
 drink in her hand; I could not even be heard of as resting in the
@@ -138,7 +138,7 @@ a capital understanding that when he was jogging with me lazily, and
 rather obstinately, down some shady lane, if I patted his neck and
 said, “Stubbs, I am surprised you don’t canter when you know how much
 I like it; and I think you might oblige me, for you are only getting
-stupid and going to sleep,” he would give his head a comical shake or
+stupid and going to [[Sleep|sleep]],” he would give his head a comical shake or
 two and set off directly, while Charley would stand still and laugh
 with such enjoyment that her laughter was like music. I don’t know
 who had given Stubbs his name, but it seemed to belong to him as
@@ -151,88 +151,88 @@ ears the whole way without appearing to advance an inch, and stopped
 to think about it. I suppose he came to the decision that it was not
 to be borne, for he steadily refused to move until I gave the reins
 to Charley and got out and walked, when he followed me with a sturdy
-sort of good humour, putting his head under my arm and rubbing his
+sort of good [[Humour|humour]], putting his head under my arm and rubbing his
 ear against my sleeve. It was in vain for me to say, “Now, Stubbs, I
 feel quite sure from what I know of you that you will go on if I ride
 a little while,” for the moment I left him, he stood stock still
 again. Consequently I was obliged to lead the way, as before; and in
-this order we returned home, to the great delight of the village.
+this order we returned [[Home|home]], to the great delight of the village.
 
 Charley and I had reason to call it the most friendly of villages, I
-am sure, for in a week’s time the people were so glad to see us go
+am sure, for in a week’s [[Time|time]] the people were so glad to see us go
 by, though ever so frequently in the course of a day, that there were
 faces of greeting in every cottage. I had known many of the grown
 people before and almost all the children, but now the very steeple
 began to wear a familiar and affectionate look. Among my new friends
 was an old old woman who lived in such a little thatched and
 whitewashed dwelling that when the outside shutter was turned up on
-its hinges, it shut up the whole house-front. This old lady had a
+its hinges, it shut up the whole [[house]]-front. This old lady had a
 grandson who was a sailor, and I wrote a letter to him for her and
 drew at the top of it the chimney-corner in which she had brought him
 up and where his old stool yet occupied its old place. This was
 considered by the whole village the most wonderful achievement in the
 world, but when an answer came back all the way from Plymouth, in
 which he mentioned that he was going to take the picture all the way
-to America, and from America would write again, I got all the credit
+to [[america|America]], and from [[america|America]] would write again, I got all the credit
 that ought to have been given to the post-office and was invested
 with the merit of the whole system.
 
 Thus, what with being so much in the air, playing with so many
 children, gossiping with so many people, sitting on invitation in so
-many cottages, going on with Charley’s education, and writing long
-letters to Ada every day, I had scarcely any time to think about that
+many cottages, going on with Charley’s [[Education|education]], and writing long
+letters to Ada every day, I had scarcely any [[Time|time]] to think about that
 little loss of mine and was almost always cheerful. If I did think of
 it at odd moments now and then, I had only to be busy and forget it.
-I felt it more than I had hoped I should once when a child said,
+I felt it more than I had hoped I should once when a [[Child|child]] said,
 “Mother, why is the lady not a pretty lady now like she used to be?”
-But when I found the child was not less fond of me, and drew its soft
+But when I found the [[Child|child]] was not less fond of me, and drew its soft
 hand over my face with a kind of pitying protection in its touch,
 that soon set me up again. There were many little occurrences which
 suggested to me, with great consolation, how natural it is to gentle
 hearts to be considerate and delicate towards any inferiority. One of
 these particularly touched me. I happened to stroll into the little
-church when a marriage was just concluded, and the young couple had
+church when a [[Marriage|marriage]] was just concluded, and the young couple had
 to sign the register.
 
-The bridegroom, to whom the pen was handed first, made a rude cross
+The bridegroom, to whom the pen was handed first, made a rude [[Cross|cross]]
 for his mark; the bride, who came next, did the same. Now, I had
 known the bride when I was last there, not only as the prettiest girl
 in the place, but as having quite distinguished herself in the
 school, and I could not help looking at her with some surprise. She
-came aside and whispered to me, while tears of honest love and
+came aside and whispered to me, while [[Tears|tears]] of honest [[Love|love]] and
 admiration stood in her bright eyes, “He’s a dear good fellow, miss;
 but he can’t write yet—he’s going to learn of me—and I wouldn’t
-shame him for the world!” Why, what had I to fear, I thought, when
-there was this nobility in the soul of a labouring man’s daughter!
+shame him for the world!” Why, what had I to [[Fear|fear]], I thought, when
+there was this nobility in the [[Soul|soul]] of a labouring man’s daughter!
 
 The air blew as freshly and revivingly upon me as it had ever blown,
 and the healthy colour came into my new face as it had come into my
 old one. Charley was wonderful to see, she was so radiant and so
 rosy; and we both enjoyed the whole day and slept soundly the whole
-night.
+[[Night|night]].
 
 There was a favourite spot of mine in the park-woods of Chesney Wold
 where a seat had been erected commanding a lovely view. The wood had
 been cleared and opened to improve this point of sight, and the
 bright sunny landscape beyond was so beautiful that I rested there at
 least once every day. A picturesque part of the Hall, called the
-Ghost’s Walk, was seen to advantage from this higher ground; and the
+[[Ghost]]’s Walk, was seen to advantage from this higher ground; and the
 startling name, and the old legend in the Dedlock family which I had
 heard from Mr. Boythorn accounting for it, mingled with the view and
 gave it something of a mysterious interest in addition to its real
 charms. There was a bank here, too, which was a famous one for
 violets; and as it was a daily delight of Charley’s to gather wild
-flowers, she took as much to the spot as I did.
+[[Flowers|flowers]], she took as much to the spot as I did.
 
-It would be idle to inquire now why I never went close to the house
+It would be idle to inquire now why I never went close to the [[house]]
 or never went inside it. The family were not there, I had heard on my
 arrival, and were not expected. I was far from being incurious or
 uninterested about the building; on the contrary, I often sat in this
 place wondering how the rooms ranged and whether any echo like a
 footstep really did resound at times, as the story said, upon the
-lonely Ghost’s Walk. The indefinable feeling with which Lady Dedlock
+lonely [[Ghost]]’s Walk. The indefinable feeling with which [[Lady Dedlock]]
 had impressed me may have had some influence in keeping me from the
-house even when she was absent. I am not sure. Her face and figure
+[[house]] even when she was absent. I am not sure. Her face and figure
 were associated with it, naturally; but I cannot say that they
 repelled me from it, though something did. For whatever reason or no
 reason, I had never once gone near it, down to the day at which my
@@ -240,14 +240,14 @@ story now arrives.
 
 I was resting at my favourite point after a long ramble, and Charley
 was gathering violets at a little distance from me. I had been
-looking at the Ghost’s Walk lying in a deep shade of masonry afar off
+looking at the [[Ghost]]’s Walk lying in a deep shade of masonry afar off
 and picturing to myself the female shape that was said to haunt it
 when I became aware of a figure approaching through the wood. The
-perspective was so long and so darkened by leaves, and the shadows of
+perspective was so long and so darkened by [[Leaves|leaves]], and the shadows of
 the branches on the ground made it so much more intricate to the eye,
 that at first I could not discern what figure it was. By little and
-little it revealed itself to be a woman’s—a lady’s—Lady Dedlock’s.
-She was alone and coming to where I sat with a much quicker step, I
+little it revealed itself to be a woman’s—a lady’s—[[Lady Dedlock]]’s.
+She was [[Alone|alone]] and coming to where I sat with a much quicker step, I
 observed to my surprise, than was usual with her.
 
 I was fluttered by her being unexpectedly so near (she was almost
@@ -255,9 +255,9 @@ within speaking distance before I knew her) and would have risen to
 continue my walk. But I could not. I was rendered motionless. Not so
 much by her hurried gesture of entreaty, not so much by her quick
 advance and outstretched hands, not so much by the great change in
-her manner and the absence of her haughty self-restraint, as by a
+her manner and the absence of her haughty [[Self|self]]-restraint, as by a
 something in her face that I had pined for and dreamed of when I was
-a little child, something I had never seen in any face, something I
+a little [[Child|child]], something I had never seen in any face, something I
 had never seen in hers before.
 
 A dread and faintness fell upon me, and I called to Charley. Lady
@@ -276,19 +276,19 @@ say what was in my whirling thoughts.
 
 “You are recovering again?” she asked kindly.
 
-“I was quite well but a moment ago, Lady Dedlock.”
+“I was quite [[Well|well]] but a moment ago, [[Lady Dedlock]].”
 
 “Is this your young attendant?”
 
 “Yes.”
 
-“Will you send her on before and walk towards your house with me?”
+“Will you send her on before and walk towards your [[house]] with me?”
 
-“Charley,” said I, “take your flowers home, and I will follow you
+“Charley,” said I, “take your [[Flowers|flowers]] [[Home|home]], and I will follow you
 directly.”
 
 Charley, with her best curtsy, blushingly tied on her bonnet and went
-her way. When she was gone, Lady Dedlock sat down on the seat beside
+her way. When she was gone, [[Lady Dedlock]] sat down on the seat beside
 me.
 
 I cannot tell in any words what the state of my mind was when I saw
@@ -299,10 +299,10 @@ could not draw my breath. The beating of my heart was so violent and
 wild that I felt as if my life were breaking from me. But when she
 caught me to her breast, kissed me, wept over me, compassionated me,
 and called me back to myself; when she fell down on her knees and
-cried to me, “Oh, my child, my child, I am your wicked and unhappy
+cried to me, “Oh, my [[Child|child]], my [[Child|child]], I am your wicked and unhappy
 mother! Oh, try to forgive me!”—when I saw her at my feet on the
 bare earth in her great agony of mind, I felt, through all my tumult
-of emotion, a burst of gratitude to the providence of God that I was
+of emotion, a burst of gratitude to the [[Providence|providence]] of God that I was
 so changed as that I never could disgrace her by any trace of
 likeness, as that nobody could ever now look at me and look at her
 and remotely think of any near tie between us.
@@ -311,25 +311,25 @@ I raised my mother up, praying and beseeching her not to stoop before
 me in such affliction and humiliation. I did so in broken, incoherent
 words, for besides the trouble I was in, it frightened me to see her
 at MY feet. I told her—or I tried to tell her—that if it were for
-me, her child, under any circumstances to take upon me to forgive
+me, her [[Child|child]], under any circumstances to take upon me to forgive
 her, I did it, and had done it, many, many years. I told her that my
-heart overflowed with love for her, that it was natural love which
+heart overflowed with [[Love|love]] for her, that it was natural [[Love|love]] which
 nothing in the past had changed or could change. That it was not for
-me, then resting for the first time on my mother’s bosom, to take her
+me, then resting for the first [[Time|time]] on my mother’s bosom, to take her
 to account for having given me life, but that my duty was to bless
 her and receive her, though the whole world turned from her, and that
 I only asked her leave to do it. I held my mother in my embrace, and
-she held me in hers, and among the still woods in the silence of the
-summer day there seemed to be nothing but our two troubled minds that
+she held me in hers, and among the still woods in the [[Silence|silence]] of the
+[[Summer|summer]] day there seemed to be nothing but our two troubled minds that
 was not at peace.
 
 “To bless and receive me,” groaned my mother, “it is far too late. I
-must travel my dark road alone, and it will lead me where it will.
+must travel my dark [[Road|road]] [[Alone|alone]], and it will lead me where it will.
 From day to day, sometimes from hour to hour, I do not see the way
 before my guilty feet. This is the earthly punishment I have brought
 upon myself. I bear it, and I hide it.”
 
-Even in the thinking of her endurance, she drew her habitual air of
+Even in the thinking of her [[Endurance|endurance]], she drew her habitual air of
 proud indifference about her like a veil, though she soon cast it off
 again.
 
@@ -337,7 +337,7 @@ again.
 for myself. I have a husband, wretched and dishonouring creature that
 I am!”
 
-These words she uttered with a suppressed cry of despair, more
+These words she uttered with a suppressed cry of [[Despair|despair]], more
 terrible in its sound than any shriek. Covering her face with her
 hands, she shrank down in my embrace as if she were unwilling that I
 should touch her; nor could I, by my utmost persuasions or by any
@@ -347,19 +347,19 @@ everywhere else; she would be humbled and ashamed there, in the only
 natural moments of her life.
 
 My unhappy mother told me that in my illness she had been nearly
-frantic. She had but then known that her child was living. She could
-not have suspected me to be that child before. She had followed me
+frantic. She had but then known that her [[Child|child]] was living. She could
+not have suspected me to be that [[Child|child]] before. She had followed me
 down here to speak to me but once in all her life. We never could
-associate, never could communicate, never probably from that time
+associate, never could communicate, never probably from that [[Time|time]]
 forth could interchange another word on earth. She put into my hands
 a letter she had written for my reading only and said when I had read
 it and destroyed it—but not so much for her sake, since she asked
 nothing, as for her husband’s and my own—I must evermore consider
 her as dead. If I could believe that she loved me, in this agony in
-which I saw her, with a mother’s love, she asked me to do that, for
+which I saw her, with a mother’s [[Love|love]], she asked me to do that, for
 then I might think of her with a greater pity, imagining what she
-suffered. She had put herself beyond all hope and beyond all help.
-Whether she preserved her secret until death or it came to be
+suffered. She had put herself beyond all [[Hope|hope]] and beyond all help.
+Whether she preserved her secret until [[Death|death]] or it came to be
 discovered and she brought dishonour and disgrace upon the name she
 had taken, it was her solitary struggle always; and no affection
 could come near her, and no human creature could render her any aid.
@@ -374,7 +374,7 @@ any day.”
 “Do you dread a particular person?”
 
 “Hush! Do not tremble and cry so much for me. I am not worthy of
-these tears,” said my mother, kissing my hands. “I dread one person
+these [[Tears|tears]],” said my mother, kissing my hands. “I dread one person
 very much.”
 
 “An enemy?”
@@ -396,24 +396,24 @@ standstill, but I can never shake him off.”
 “Has he so little pity or compunction?”
 
 “He has none, and no anger. He is indifferent to everything but his
-calling. His calling is the acquisition of secrets and the holding
+calling. His calling is the acquisition of [[Secrets|secrets]] and the holding
 possession of such power as they give him, with no sharer or opponent
 in it.”
 
 “Could you trust in him?”
 
-“I shall never try. The dark road I have trodden for so many years
-will end where it will. I follow it alone to the end, whatever the
-end be. It may be near, it may be distant; while the road lasts,
+“I shall never try. The dark [[Road|road]] I have trodden for so many years
+will end where it will. I follow it [[Alone|alone]] to the end, whatever the
+end be. It may be near, it may be distant; while the [[Road|road]] lasts,
 nothing turns me.”
 
 “Dear mother, are you so resolved?”
 
-“I AM resolved. I have long outbidden folly with folly, pride with
-pride, scorn with scorn, insolence with insolence, and have outlived
+“I AM resolved. I have long outbidden folly with folly, [[Pride|pride]] with
+[[Pride|pride]], scorn with scorn, insolence with insolence, and have outlived
 many vanities with many more. I will outlive this danger, and outdie
 it, if I can. It has closed around me almost as awfully as if these
-woods of Chesney Wold had closed around the house, but my course
+woods of Chesney Wold had closed around the [[house]], but my course
 through it is the same. I have but one; I can have but one.”
 
 “Mr. Jarndyce—” I was beginning when my mother hurriedly inquired,
@@ -423,42 +423,42 @@ through it is the same. I have but one; I can have but one.”
 her what he had related to me as his knowledge of my story. “But he
 is so good and sensible,” said I, “that perhaps if he knew—”
 
-My mother, who until this time had made no change in her position,
+My mother, who until this [[Time|time]] had made no change in her position,
 raised her hand up to my lips and stopped me.
 
 “Confide fully in him,” she said after a little while. “You have my
 free consent—a small gift from such a mother to her injured
-child!—but do not tell me of it. Some pride is left in me even yet.”
+[[Child|child]]!—but do not tell me of it. Some [[Pride|pride]] is left in me even yet.”
 
 I explained, as nearly as I could then, or can recall now—for my
 agitation and distress throughout were so great that I scarcely
 understood myself, though every word that was uttered in the mother’s
-voice, so unfamiliar and so melancholy to me, which in my childhood I
-had never learned to love and recognize, had never been sung to sleep
-with, had never heard a blessing from, had never had a hope inspired
-by, made an enduring impression on my memory—I say I explained, or
+voice, so unfamiliar and so [[Melancholy|melancholy]] to me, which in my [[Childhood|childhood]] I
+had never learned to [[Love|love]] and recognize, had never been sung to [[Sleep|sleep]]
+with, had never heard a blessing from, had never had a [[Hope|hope]] inspired
+by, made an enduring impression on my [[Memory|memory]]—I say I explained, or
 tried to do it, how I had only hoped that Mr. Jarndyce, who had been
 the best of fathers to me, might be able to afford some counsel and
 support to her. But my mother answered no, it was impossible; no one
-could help her. Through the desert that lay before her, she must go
-alone.
+could help her. Through the [[Desert|desert]] that lay before her, she must go
+[[Alone|alone]].
 
-“My child, my child!” she said. “For the last time! These kisses for
-the last time! These arms upon my neck for the last time! We shall
-meet no more. To hope to do what I seek to do, I must be what I have
+“My [[Child|child]], my [[Child|child]]!” she said. “For the last [[Time|time]]! These kisses for
+the last [[Time|time]]! These arms upon my neck for the last [[Time|time]]! We shall
+meet no more. To [[Hope|hope]] to do what I seek to do, I must be what I have
 been so long. Such is my reward and doom. If you hear of Lady
 Dedlock, brilliant, prosperous, and flattered, think of your wretched
-mother, conscience-stricken, underneath that mask! Think that the
-reality is in her suffering, in her useless remorse, in her murdering
-within her breast the only love and truth of which it is capable! And
+mother, [[Conscience|conscience]]-stricken, underneath that mask! Think that the
+reality is in her [[Suffering|suffering]], in her useless remorse, in her murdering
+within her breast the only [[Love|love]] and [[Truth|truth]] of which it is capable! And
 then forgive her if you can, and cry to heaven to forgive her, which
 it never can!”
 
 We held one another for a little space yet, but she was so firm that
 she took my hands away, and put them back against my breast, and with
 a last kiss as she held them there, released them, and went from me
-into the wood. I was alone, and calm and quiet below me in the sun
-and shade lay the old house, with its terraces and turrets, on which
+into the wood. I was [[Alone|alone]], and calm and quiet below me in the sun
+and shade lay the old [[house]], with its terraces and turrets, on which
 there had seemed to me to be such complete repose when I first saw
 it, but which now looked like the obdurate and unpitying watcher of
 my mother’s misery.
@@ -471,17 +471,17 @@ crying, and I constrained myself to think of every sacred obligation
 that there was upon me to be careful and collected. It was not a
 little while before I could succeed or could even restrain bursts of
 grief, but after an hour or so I was better and felt that I might
-return. I went home very slowly and told Charley, whom I found at the
+return. I went [[Home|home]] very slowly and told Charley, whom I found at the
 gate looking for me, that I had been tempted to extend my walk after
-Lady Dedlock had left me and that I was over-tired and would lie
+[[Lady Dedlock]] had left me and that I was over-tired and would lie
 down. Safe in my own room, I read the letter. I clearly derived from
 it—and that was much then—that I had not been abandoned by my
-mother. Her elder and only sister, the godmother of my childhood,
+mother. Her elder and only sister, the godmother of my [[Childhood|childhood]],
 discovering signs of life in me when I had been laid aside as dead,
-had in her stern sense of duty, with no desire or willingness that I
+had in her stern sense of duty, with no [[Desire|desire]] or willingness that I
 should live, reared me in rigid secrecy and had never again beheld my
 mother’s face from within a few hours of my birth. So strangely did I
-hold my place in this world that until within a short time back I had
+hold my place in this world that until within a short [[Time|time]] back I had
 never, to my own mother’s knowledge, breathed—had been buried—had
 never been endowed with life—had never borne a name. When she had
 first seen me in the church she had been startled and had thought of
@@ -492,7 +492,7 @@ What more the letter told me needs not to be repeated here. It has
 its own times and places in my story.
 
 My first care was to burn what my mother had written and to consume
-even its ashes. I hope it may not appear very unnatural or bad in me
+even its ashes. I [[Hope|hope]] it may not appear very unnatural or bad in me
 that I then became heavily sorrowful to think I had ever been reared.
 That I felt as if I knew it would have been better and happier for
 many people if indeed I had never breathed. That I had a terror of
@@ -508,7 +508,7 @@ with my load of trouble for others. I was more than ever frightened
 of myself, thinking anew of her against whom I was a witness, of the
 owner of Chesney Wold, of the new and terrible meaning of the old
 words now moaning in my ear like a surge upon the shore, “Your
-mother, Esther, was your disgrace, and you are hers. The time will
+mother, Esther, was your disgrace, and you are hers. The [[Time|time]] will
 come—and soon enough—when you will understand this better, and will
 feel it too, as no one save a woman can.” With them, those other
 words returned, “Pray daily that the sins of others be not visited
@@ -517,49 +517,49 @@ felt as if the blame and the shame were all in me, and the visitation
 had come down.
 
 The day waned into a gloomy evening, overcast and sad, and I still
-contended with the same distress. I went out alone, and after walking
+contended with the same distress. I went out [[Alone|alone]], and after walking
 a little in the park, watching the dark shades falling on the trees
 and the fitful flight of the bats, which sometimes almost touched me,
-was attracted to the house for the first time. Perhaps I might not
+was attracted to the [[house]] for the first [[Time|time]]. Perhaps I might not
 have gone near it if I had been in a stronger frame of mind. As it
 was, I took the path that led close by it.
 
 I did not dare to linger or to look up, but I passed before the
-terrace garden with its fragrant odours, and its broad walks, and its
-well-kept beds and smooth turf; and I saw how beautiful and grave it
+terrace [[Garden|garden]] with its fragrant odours, and its broad walks, and its
+[[Well|well]]-kept beds and smooth turf; and I saw how beautiful and [[Grave|grave]] it
 was, and how the old stone balustrades and parapets, and wide flights
-of shallow steps, were seamed by time and weather; and how the
+of shallow steps, were seamed by [[Time|time]] and weather; and how the
 trained moss and ivy grew about them, and around the old stone
 pedestal of the sun-dial; and I heard the fountain falling. Then the
 way went by long lines of dark windows diversified by turreted towers
-and porches of eccentric shapes, where old stone lions and grotesque
-monsters bristled outside dens of shadow and snarled at the evening
+and porches of eccentric shapes, where old stone lions and [[Grotesque|grotesque]]
+monsters bristled outside dens of [[Shadow|shadow]] and snarled at the evening
 gloom over the escutcheons they held in their grip. Thence the path
-wound underneath a gateway, and through a court-yard where the
+wound underneath a gateway, and through a [[Court|court]]-yard where the
 principal entrance was (I hurried quickly on), and by the stables
 where none but deep voices seemed to be, whether in the murmuring of
-the wind through the strong mass of ivy holding to a high red wall,
+the [[Wind|wind]] through the strong mass of ivy holding to a high red wall,
 or in the low complaining of the weathercock, or in the barking of
-the dogs, or in the slow striking of a clock. So, encountering
+the [[dogs]], or in the slow striking of a [[Clock|clock]]. So, encountering
 presently a sweet smell of limes, whose rustling I could hear, I
 turned with the turning of the path to the south front, and there
-above me were the balustrades of the Ghost’s Walk and one lighted
-window that might be my mother’s.
+above me were the balustrades of the [[Ghost]]’s Walk and one lighted
+[[Window|window]] that might be my mother’s.
 
 The way was paved here, like the terrace overhead, and my footsteps
 from being noiseless made an echoing sound upon the flags. Stopping
 to look at nothing, but seeing all I did see as I went, I was passing
 quickly on, and in a few moments should have passed the lighted
-window, when my echoing footsteps brought it suddenly into my mind
-that there was a dreadful truth in the legend of the Ghost’s Walk,
-that it was I who was to bring calamity upon the stately house and
+[[Window|window]], when my echoing footsteps brought it suddenly into my mind
+that there was a dreadful [[Truth|truth]] in the legend of the [[Ghost]]’s Walk,
+that it was I who was to bring calamity upon the stately [[house]] and
 that my warning feet were haunting it even then. Seized with an
 augmented terror of myself which turned me cold, I ran from myself
 and everything, retraced the way by which I had come, and never
 paused until I had gained the lodge-gate, and the park lay sullen and
 black behind me.
 
-Not before I was alone in my own room for the night and had again
+Not before I was [[Alone|alone]] in my own room for the [[Night|night]] and had again
 been dejected and unhappy there did I begin to know how wrong and
 thankless this state was. But from my darling who was coming on the
 morrow, I found a joyful letter, full of such loving anticipation
@@ -568,40 +568,40 @@ guardian, too, I found another letter, asking me to tell Dame Durden,
 if I should see that little woman anywhere, that they had moped most
 pitiably without her, that the housekeeping was going to rack and
 ruin, that nobody else could manage the keys, and that everybody in
-and about the house declared it was not the same house and was
+and about the [[house]] declared it was not the same [[house]] and was
 becoming rebellious for her return. Two such letters together made me
 think how far beyond my deserts I was beloved and how happy I ought
 to be. That made me think of all my past life; and that brought me,
 as it ought to have done before, into a better condition.
 
-For I saw very well that I could not have been intended to die, or I
+For I saw very [[Well|well]] that I could not have been intended to die, or I
 should never have lived; not to say should never have been reserved
-for such a happy life. I saw very well how many things had worked
+for such a happy life. I saw very [[Well|well]] how many things had worked
 together for my welfare, and that if the sins of the fathers were
 sometimes visited upon the children, the phrase did not mean what I
-had in the morning feared it meant. I knew I was as innocent of my
-birth as a queen of hers and that before my Heavenly Father I should
-not be punished for birth nor a queen rewarded for it. I had had
+had in the morning feared it meant. I knew I was as [[Innocent|innocent]] of my
+birth as a [[Queen|queen]] of hers and that before my Heavenly Father I should
+not be punished for birth nor a [[Queen|queen]] rewarded for it. I had had
 experience, in the shock of that very day, that I could, even thus
 soon, find comforting reconcilements to the change that had fallen on
 me. I renewed my resolutions and prayed to be strengthened in them,
 pouring out my heart for myself and for my unhappy mother and feeling
 that the darkness of the morning was passing away. It was not upon my
-sleep; and when the next day’s light awoke me, it was gone.
+[[Sleep|sleep]]; and when the next day’s light awoke me, it was gone.
 
-My dear girl was to arrive at five o’clock in the afternoon. How to
-help myself through the intermediate time better than by taking a
-long walk along the road by which she was to come, I did not know; so
+My dear girl was to arrive at five o’[[Clock|clock]] in the afternoon. How to
+help myself through the intermediate [[Time|time]] better than by taking a
+long walk along the [[Road|road]] by which she was to come, I did not know; so
 Charley and I and Stubbs—Stubbs saddled, for we never drove him
-after the one great occasion—made a long expedition along that road
-and back. On our return, we held a great review of the house and
-garden and saw that everything was in its prettiest condition, and
+after the one great occasion—made a long expedition along that [[Road|road]]
+and back. On our return, we held a great review of the [[house]] and
+[[Garden|garden]] and saw that everything was in its prettiest condition, and
 had the bird out ready as an important part of the establishment.
 
 There were more than two full hours yet to elapse before she could
 come, and in that interval, which seemed a long one, I must confess I
 was nervously anxious about my altered looks. I loved my darling so
-well that I was more concerned for their effect on her than on any
+[[Well|well]] that I was more concerned for their effect on her than on any
 one. I was not in this slight distress because I at all repined—I am
 quite certain I did not, that day—but, I thought, would she be
 wholly prepared? When she first saw me, might she not be a little
@@ -609,25 +609,25 @@ shocked and disappointed? Might it not prove a little worse than she
 expected? Might she not look for her old Esther and not find her?
 Might she not have to grow used to me and to begin all over again?
 
-I knew the various expressions of my sweet girl’s face so well, and
+I knew the various expressions of my sweet girl’s face so [[Well|well]], and
 it was such an honest face in its loveliness, that I was sure
 beforehand she could not hide that first look from me. And I
 considered whether, if it should signify any one of these meanings,
 which was so very likely, could I quite answer for myself?
 
-Well, I thought I could. After last night, I thought I could. But to
+[[Well]], I thought I could. After last [[Night|night]], I thought I could. But to
 wait and wait, and expect and expect, and think and think, was such
-bad preparation that I resolved to go along the road again and meet
+bad preparation that I resolved to go along the [[Road|road]] again and meet
 her.
 
 So I said to Charley, “Charley, I will go by myself and walk along
-the road until she comes.” Charley highly approving of anything that
-pleased me, I went and left her at home.
+the [[Road|road]] until she comes.” Charley highly approving of anything that
+pleased me, I went and left her at [[Home|home]].
 
 But before I got to the second milestone, I had been in so many
-palpitations from seeing dust in the distance (though I knew it was
+palpitations from seeing [[Dust|dust]] in the distance (though I knew it was
 not, and could not, be the coach yet) that I resolved to turn back
-and go home again. And when I had turned, I was in such fear of the
+and go [[Home|home]] again. And when I had turned, I was in such [[Fear|fear]] of the
 coach coming up behind me (though I still knew that it neither would,
 nor could, do any such thing) that I ran the greater part of the way
 to avoid being overtaken.
@@ -638,19 +638,19 @@ instead of the best.
 
 At last, when I believed there was at least a quarter of an hour more
 yet, Charley all at once cried out to me as I was trembling in the
-garden, “Here she comes, miss! Here she is!”
+[[Garden|garden]], “Here she comes, miss! Here she is!”
 
 I did not mean to do it, but I ran upstairs into my room and hid
 myself behind the door. There I stood trembling, even when I heard my
-darling calling as she came upstairs, “Esther, my dear, my love,
+darling calling as she came upstairs, “Esther, my dear, my [[Love|love]],
 where are you? Little woman, dear Dame Durden!”
 
 She ran in, and was running out again when she saw me. Ah, my angel
-girl! The old dear look, all love, all fondness, all affection.
+girl! The old dear look, all [[Love|love]], all fondness, all affection.
 Nothing else in it—no, nothing, nothing!
 
 Oh, how happy I was, down upon the floor, with my sweet beautiful
 girl down upon the floor too, holding my scarred face to her lovely
-cheek, bathing it with tears and kisses, rocking me to and fro like a
-child, calling me by every tender name that she could think of, and
+cheek, bathing it with [[Tears|tears]] and kisses, rocking me to and fro like a
+[[Child|child]], calling me by every tender name that she could think of, and
 pressing me to her faithful heart.

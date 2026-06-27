@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Maeterlinck"
+title: "[[VariedTypes]] — Maeterlinck"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -34,7 +34,7 @@ run this process of mutilation has happened to all great men. It was the
 
 mark of a great patriot to be drawn and quartered and his head set on
 
-one spike in one city and his left leg on another spike in another city.
+one spike in one [[City|city]] and his left leg on another spike in another [[City|city]].
 
 It was the mark of a saint that even these fragments began to work
 
@@ -44,7 +44,7 @@ However careless, however botchy, may be the version of Maeterlinck or
 
 of anyone else given in such a selection as this, it is assuredly far
 
-less careless and far less botchy than the version, the parody, the
+less careless and far less botchy than the version, the [[Parody|parody]], the
 
 wild misrepresentation of Maeterlinck which future ages will hear and
 
@@ -52,23 +52,23 @@ distant critics be called upon to consider.
 
 
 
-No one can feel any reasonable doubt that we have heard about Christ and
+No one can feel any reasonable [[Doubt|doubt]] that we have heard about [[Christ]] and
 
 Socrates and Buddha and St. Francis a mere chaos of excerpts, a mere
 
 book of quotations. But from those fragmentary epigrams we can deduce
 
-greatness as clearly as we can deduce Venus from the torso of Venus or
+[[Greatness|greatness]] as clearly as we can deduce [[Venus]] from the torso of [[Venus]] or
 
 Hercules _ex pede Herculem_. If we knew nothing else about the Founder
 
-of Christianity, for example, beyond the fact that a religious teacher
+of [[Christianity]], for example, beyond the fact that a religious teacher
 
 lived in a remote country, and in the course of his peregrinations and
 
 proclamations consistently called Himself "the Son of Man," we should
 
-know by that alone that he was a man of almost immeasurable greatness.
+know by that [[Alone|alone]] that he was a man of almost immeasurable [[Greatness|greatness]].
 
 If future ages happened to record nothing else about Socrates except
 
@@ -86,7 +86,7 @@ editions, the complete works of this author or that author which are
 
 forgotten. It is such books as this that have revolutionised the destiny
 
-of the world. Great things like Christianity or Platonism have never
+of the world. Great things like [[Christianity]] or Platonism have never
 
 been founded upon consistent editions; all of them have been founded
 
@@ -122,11 +122,11 @@ to any one of them to think of the Surrey Hills. The one real struggle
 
 in modern life is the struggle between the man like Maeterlinck, who
 
-sees the inside as the truth, and the man like Zola, who sees the
+sees the inside as the [[Truth|truth]], and the man like Zola, who sees the
 
-outside as the truth. A hundred cases might be given. We may take, for
+outside as the [[Truth|truth]]. A hundred cases might be given. We may take, for
 
-the sake of argument, the case of what is called falling in love. The
+the sake of argument, the case of what is called falling in [[Love|love]]. The
 
 sincere realist, the man who believes in a certain finality in physical
 
@@ -140,7 +140,7 @@ certain natural purposes." The man on the other side, the idealist,
 
 replies, with quite equal confidence, that this is the very reverse of
 
-the truth. I put it as it has always struck me; he replies, "Not at all.
+the [[Truth|truth]]. I put it as it has always struck me; he replies, "Not at all.
 
 You may, if you like, describe this thing as an animal and sexual
 
@@ -148,7 +148,7 @@ instinct, designed for certain natural purposes; that is your
 
 philosophical or zoölogical theory about it. What it is, beyond all
 
-doubt of any kind, is a divine and sacred and incredible vision." The
+[[Doubt|doubt]] of any kind, is a divine and sacred and incredible vision." The
 
 fact that it is an animal necessity only comes to the naturalistic
 
@@ -158,7 +158,7 @@ constructing an explanation of its existence, more or less natural and
 
 conclusive. The fact that it is a spiritual triumph comes to the first
 
-errand boy who happens to feel it. If a lad of seventeen falls in love
+errand boy who happens to feel it. If a lad of seventeen falls in [[Love|love]]
 
 and is struck dead by a hansom cab an hour afterwards, he has known the
 
@@ -166,7 +166,7 @@ thing as it is, a spiritual ecstasy; he has never come to trouble about
 
 the thing as it may be, a physical destiny. If anyone says that falling
 
-in love is an animal thing, the answer is very simple. The only way of
+in [[Love|love]] is an animal thing, the answer is very simple. The only way of
 
 testing the matter is to ask those who are experiencing it, and none of
 
@@ -188,13 +188,13 @@ realism. He discovers the one indestructible thing. This material world
 
 on which such vast systems have been superimposed--this may mean
 
-anything. It may be a dream, it may be a joke, it may be a trap or
+anything. It may be [[A Dream|a dream]], it may be a joke, it may be a trap or
 
-temptation, it may be a charade, it may be the beatific vision: the only
+[[Temptation|temptation]], it may be a charade, it may be the beatific vision: the only
 
-thing of which we are certain is this human soul. This human soul finds
+thing of which we are certain is this human [[Soul|soul]]. This human [[Soul|soul]] finds
 
-itself alone in a terrible world, afraid of the grass. It has brought
+itself [[Alone|alone]] in a terrible world, afraid of the grass. It has brought
 
 forth poetry and religion in order to explain matters; it will bring
 
@@ -202,7 +202,7 @@ them forth again. It matters not one atom how often the lulls of
 
 materialism and scepticism occur; they are always broken by the
 
-reappearance of a fanatic. They have come in our time: they have been
+reappearance of a fanatic. They have come in our [[Time|time]]: they have been
 
 broken by Maeterlinck.
 
@@ -230,7 +230,7 @@ passionate red ink and declared that his dear friend had selected for
 
 admiration the very parts of his work which were vile, brainless, and
 
-revolting. That, however, was merely Ruskin's humour, and one of the
+revolting. That, however, was merely Ruskin's [[Humour|humour]], and one of the
 
 deepest disappointments with Mr. Collingwood is that he, like everyone
 
@@ -240,9 +240,9 @@ humourist: half the explosions which are solemnly scolded as "one-sided"
 
 were simply meant to be one-sided, were mere laughing experiments in
 
-language. Like a woman, he saw the humour of his own prejudices, did not
+language. Like a woman, he saw the [[Humour|humour]] of his own prejudices, did not
 
-sophisticate them by logic, but deliberately exaggerated them by
+sophisticate them by [[logic]], but deliberately exaggerated them by
 
 rhetoric. One tenth of his paradoxes would have made the fortune of a
 
@@ -254,23 +254,23 @@ He did not ask humanity to dine on pickles.
 
 
 
-But while his kaleidoscope of fancy and epigram gives him some kinship
+But while his kaleidoscope of fancy and [[Epigram|epigram]] gives him some kinship
 
 with the present day, he was essentially of an earlier type: he was the
 
 last of the prophets. With him vanishes the secret of that early
 
-Victorian simplicity which gave a man the courage to mount a pulpit
+Victorian simplicity which gave a man the [[Courage|courage]] to mount a pulpit
 
 above the head of his fellows. Many elements, good and bad, have
 
-destroyed it; humility as well as fear, camaraderie as well as
+destroyed it; [[Humility|humility]] as [[Well|well]] as [[Fear|fear]], camaraderie as [[Well|well]] as
 
-scepticism, have bred in us a desire to give our advice lightly and
+scepticism, have bred in us a [[Desire|desire]] to give our advice lightly and
 
-persuasively, to mask our morality, to whisper a word and glide away.
+persuasively, to mask our [[morality]], to whisper a word and glide away.
 
-The contrast was in some degree typified in the House of Commons under
+The contrast was in some degree typified in the [[house|House]] of Commons under
 
 the last leadership of Mr. Gladstone: the old order with its fist on the
 
@@ -282,7 +282,7 @@ It made Ruskin capricious and despotic, Tennyson lonely and whimsical,
 
 Carlyle harsh to the point of hatred, and Kingsley often rabid to the
 
-ruin of logic and charity. One alone of that race of giants, the
+ruin of [[logic]] and [[Charity|charity]]. One [[Alone|alone]] of that race of giants, the
 
 greatest and most neglected, was sober after the cup. No mission, no
 
@@ -300,15 +300,15 @@ prophetic character. Ibsen declares that he only depicts life, that as
 
 far as he is concerned there is nothing to be done, and still armies of
 
-"Ibsenites" rally to the flag and enthusiastically do nothing. I have
+"Ibsenites" rally to the [[Flag|flag]] and enthusiastically do nothing. I have
 
 found traces of a school which avowedly follows Mr. Henry James: an idea
 
-full of humour. I like to think of a crowd with pikes and torches
+full of [[Humour|humour]]. I like to think of a crowd with pikes and torches
 
 shouting passages from "The Awkward Age." It is right and proper for a
 
-multitude to declare its readiness to follow a prophet to the end of the
+multitude to declare its readiness to follow a [[Prophet|prophet]] to the end of the
 
 world, but if he himself explains, with pathetic gesticulations, that
 
@@ -322,7 +322,7 @@ He lifted up paving stones and got down into early Florentine cellars,
 
 where, by hanging upside down, he could catch a glimpse of a Cimabue
 
-unpraisable but by divine silence. He rushed from one end of a city to
+unpraisable but by divine [[Silence|silence]]. He rushed from one end of a [[City|city]] to
 
 the other comparing ceilings. His limbs were weary, his clothes were
 
@@ -348,7 +348,7 @@ error of intelligent reactionaries, that of ignoring our own debt to
 
 revolutions. Ruskin could not destroy the market of Raphaelism, but he
 
-could and did destroy its monopoly. We may go back to the Renaissance,
+could and did destroy its monopoly. We may go back to the [[Renaissance]],
 
 but let us remember that we go back free. We can picnic now in the ruins
 
@@ -378,9 +378,9 @@ with which the Oriental believes in the past. It may be that banging his
 
 head against that roof for twenty years did not improve the temper of
 
-the prophet. But he made what he praised in the old Italian
+the [[Prophet|prophet]]. But he made what he praised in the old Italian
 
-pictures--"an opening into eternity."
+pictures--"an opening into [[Eternity|eternity]]."
 
 
 
@@ -388,4 +388,4 @@ FOOTNOTES:
 
 
 
-[2] "The Life of John Ruskin." By W.G. Collingwood. London: Methuen.
+[2] "The Life of John Ruskin." By W.G. Collingwood. [[London]]: Methuen.

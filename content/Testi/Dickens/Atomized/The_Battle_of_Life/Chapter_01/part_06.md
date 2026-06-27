@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Well, Alfred!’ cried the Doctor, ‘what do you say now?’
+‘[[Well]], Alfred!’ cried the Doctor, ‘what do you say now?’
 
 ‘I say, sir,’ replied Alfred, ‘that the greatest favour you could do me,
 and yourself too, I am inclined to think, would be to try sometimes to
@@ -28,31 +28,31 @@ into people’s heads from behind.  There is terrible treading down, and
 trampling on.  It is rather a bad business.’
 
 ‘I believe, Mr. Snitchey,’ said Alfred, ‘there are quiet victories and
-struggles, great sacrifices of self, and noble acts of heroism, in
+struggles, great sacrifices of [[Self|self]], and noble acts of [[Heroism|heroism]], in
 it—even in many of its apparent lightnesses and contradictions—not the
 less difficult to achieve, because they have no earthly chronicle or
 audience—done every day in nooks and corners, and in little households,
 and in men’s and women’s hearts—any one of which might reconcile the
-sternest man to such a world, and fill him with belief and hope in it,
+sternest man to such a world, and fill him with belief and [[Hope|hope]] in it,
 though two-fourths of its people were at war, and another fourth at law;
 and that’s a bold word.’
 
 Both the sisters listened keenly.
 
-‘Well, well!’ said the Doctor, ‘I am too old to be converted, even by my
+‘[[Well]], [[Well|well]]!’ said the Doctor, ‘I am too old to be converted, even by my
 friend Snitchey here, or my good spinster sister, Martha Jeddler; who had
 what she calls her domestic trials ages ago, and has led a sympathising
 life with all sorts of people ever since; and who is so much of your
 opinion (only she’s less reasonable and more obstinate, being a woman),
 that we can’t agree, and seldom meet.  I was born upon this battle-field.
-I began, as a boy, to have my thoughts directed to the real history of a
+I began, as a boy, to have my thoughts directed to the real [[history]] of a
 battle-field.  Sixty years have gone over my head, and I have never seen
 the Christian world, including Heaven knows how many loving mothers and
 good enough girls like mine here, anything but mad for a battle-field.
 The same contradictions prevail in everything.  One must either laugh or
 cry at such stupendous inconsistencies; and I prefer to laugh.’
 
-Britain, who had been paying the profoundest and most melancholy
+Britain, who had been paying the profoundest and most [[Melancholy|melancholy]]
 attention to each speaker in his turn, seemed suddenly to decide in
 favour of the same preference, if a deep sepulchral sound that escaped
 him might be construed into a demonstration of risibility.  His face,
@@ -60,7 +60,7 @@ however, was so perfectly unaffected by it, both before and afterwards,
 that although one or two of the breakfast party looked round as being
 startled by a mysterious noise, nobody connected the offender with it.
 
-Except his partner in attendance, Clemency Newcome; who rousing him with
+Except his partner in attendance, [[Clemency Newcome]]; who rousing him with
 one of those favourite joints, her elbows, inquired, in a reproachful
 whisper, what he laughed at.
 
@@ -80,7 +80,7 @@ visage.  ‘I don’t care for anything.  I don’t make out anything.  I don’
 believe anything.  And I don’t want anything.’
 
 Although this forlorn summary of his general condition may have been
-overcharged in an access of despondency, Benjamin Britain—sometimes
+overcharged in an access of despondency, [[Benjamin Britain]]—sometimes
 called Little Britain, to distinguish him from Great; as we might say
 Young England, to express Old England with a decided difference—had
 defined his real state more accurately than might be supposed.  For,
@@ -89,8 +89,8 @@ day after day to innumerable orations addressed by the Doctor to various
 people, all tending to show that his very existence was at best a mistake
 and an absurdity, this unfortunate servitor had fallen, by degrees, into
 such an abyss of confused and contradictory suggestions from within and
-without, that Truth at the bottom of her well, was on the level surface
-as compared with Britain in the depths of his mystification.  The only
+without, that [[Truth]] at the [[Bottom|bottom]] of her [[Well|well]], was on the level surface
+as compared with Britain in the depths of his [[Mystification|mystification]].  The only
 point he clearly comprehended, was, that the new element usually brought
 into these discussions by Snitchey and Craggs, never served to make them
 clearer, and always seemed to give the Doctor a species of advantage and
@@ -100,11 +100,11 @@ causes of his state of mind, and held them in abhorrence accordingly.
 ‘But, this is not our business, Alfred,’ said the Doctor.  ‘Ceasing to be
 my ward (as you have said) to-day; and leaving us full to the brim of
 such learning as the Grammar School down here was able to give you, and
-your studies in London could add to that, and such practical knowledge as
+your studies in [[London]] could add to that, and such practical knowledge as
 a dull old country Doctor like myself could graft upon both; you are
 away, now, into the world.  The first term of probation appointed by your
 poor father, being over, away you go now, your own master, to fulfil his
-second desire.  And long before your three years’ tour among the foreign
+second [[Desire|desire]].  And long before your three years’ tour among the foreign
 schools of medicine is finished, you’ll have forgotten us.  Lord, you’ll
 forget us easily in six months!’
 
@@ -118,7 +118,7 @@ Marion, trifling with her teacup, seemed to say—but she didn’t say
 it—that he was welcome to forget, if he could.  Grace pressed the
 blooming face against her cheek, and smiled.
 
-‘I haven’t been, I hope, a very unjust steward in the execution of my
+‘I haven’t been, I [[Hope|hope]], a very unjust steward in the execution of my
 trust,’ pursued the Doctor; ‘but I am to be, at any rate, formally
 discharged, and released, and what not this morning; and here are our
 good friends Snitchey and Craggs, with a bagful of papers, and accounts,

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 3"
+title: "[[Jane Eyre]] — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,9 +18,9 @@ CHAPTER III
 
 
 The next thing I remember is, waking up with a feeling as if I had had
-a frightful nightmare, and seeing before me a terrible red glare,
+a frightful [[nightmare]], and seeing before me a terrible red glare,
 crossed with thick black bars. I heard voices, too, speaking with a
-hollow sound, and as if muffled by a rush of wind or water: agitation,
+hollow sound, and as if muffled by a rush of [[Wind|wind]] or [[Water|water]]: agitation,
 uncertainty, and an all-predominating sense of terror confused my
 faculties. Ere long, I became aware that some one was handling me;
 lifting me up and supporting me in a sitting posture, and that more
@@ -28,8 +28,8 @@ tenderly than I had ever been raised or upheld before. I rested my head
 against a pillow or an arm, and felt easy.
 
 In five minutes more the cloud of bewilderment dissolved: I knew quite
-well that I was in my own bed, and that the red glare was the nursery
-fire. It was night: a candle burnt on the table; Bessie stood at the
+[[Well|well]] that I was in my own bed, and that the red glare was the nursery
+[[Fire|fire]]. It was [[Night|night]]: a candle burnt on the table; Bessie stood at the
 bed-foot with a basin in her hand, and a gentleman sat in a chair near
 my pillow, leaning over me.
 
@@ -42,19 +42,19 @@ face of the gentleman: I knew him; it was Mr. Lloyd, an apothecary,
 sometimes called in by Mrs. Reed when the servants were ailing: for
 herself and the children she employed a physician.
 
-“Well, who am I?” he asked.
+“[[Well]], who am I?” he asked.
 
-I pronounced his name, offering him at the same time my hand: he took
-it, smiling and saying, “We shall do very well by-and-by.” Then he laid
+I pronounced his name, offering him at the same [[Time|time]] my hand: he took
+it, smiling and saying, “We shall do very [[Well|well]] by-and-by.” Then he laid
 me down, and addressing Bessie, charged her to be very careful that I
-was not disturbed during the night. Having given some further
+was not disturbed during the [[Night|night]]. Having given some further
 directions, and intimated that he should call again the next day, he
 departed; to my grief: I felt so sheltered and befriended while he sat
 in the chair near my pillow; and as he closed the door after him, all
 the room darkened and my heart again sank: inexpressible sadness
 weighed it down.
 
-“Do you feel as if you should sleep, Miss?” asked Bessie, rather
+“Do you feel as if you should [[Sleep|sleep]], Miss?” asked Bessie, rather
 softly.
 
 Scarcely dared I answer her; for I feared the next sentence might be
@@ -64,22 +64,22 @@ rough. “I will try.”
 
 “No, thank you, Bessie.”
 
-“Then I think I shall go to bed, for it is past twelve o’clock; but you
-may call me if you want anything in the night.”
+“Then I think I shall go to bed, for it is past twelve o’[[Clock|clock]]; but you
+may call me if you want anything in the [[Night|night]].”
 
 Wonderful civility this! It emboldened me to ask a question.
 
 “Bessie, what is the matter with me? Am I ill?”
 
 “You fell sick, I suppose, in the red-room with crying; you’ll be
-better soon, no doubt.”
+better soon, no [[Doubt|doubt]].”
 
 Bessie went into the housemaid’s apartment, which was near. I heard her
 say—
 
-“Sarah, come and sleep with me in the nursery; I daren’t for my life be
-alone with that poor child to-night: she might die; it’s such a strange
-thing she should have that fit: I wonder if she saw anything. Missis
+“Sarah, come and [[Sleep|sleep]] with me in the nursery; I daren’t for my life be
+[[Alone|alone]] with that poor [[Child|child]] to-[[Night|night]]: she might die; it’s such a strange
+thing she should have that fit: I [[Wonder|wonder]] if she saw anything. Missis
 was rather too hard.”
 
 Sarah came back with her; they both went to bed; they were whispering
@@ -89,24 +89,24 @@ the main subject discussed.
 
 “Something passed her, all dressed in white, and vanished”—“A great
 black dog behind him”—“Three loud raps on the chamber door”—“A light in
-the churchyard just over his grave,” &c., &c.
+the churchyard just over his [[Grave|grave]],” &c., &c.
 
-At last both slept: the fire and the candle went out. For me, the
-watches of that long night passed in ghastly wakefulness; ear, eye, and
+At last both slept: the [[Fire|fire]] and the candle went out. For me, the
+watches of that long [[Night|night]] passed in ghastly wakefulness; ear, eye, and
 mind were alike strained by dread: such dread as children only can
 feel.
 
 No severe or prolonged bodily illness followed this incident of the
 red-room; it only gave my nerves a shock of which I feel the
 reverberation to this day. Yes, Mrs. Reed, to you I owe some fearful
-pangs of mental suffering, but I ought to forgive you, for you knew not
+pangs of mental [[Suffering|suffering]], but I ought to forgive you, for you knew not
 what you did: while rending my heart-strings, you thought you were only
 uprooting my bad propensities.
 
-Next day, by noon, I was up and dressed, and sat wrapped in a shawl by
+Next day, by [[Noon|noon]], I was up and dressed, and sat wrapped in a shawl by
 the nursery hearth. I felt physically weak and broken down: but my
 worse ailment was an unutterable wretchedness of mind: a wretchedness
-which kept drawing from me silent tears; no sooner had I wiped one salt
+which kept drawing from me silent [[Tears|tears]]; no sooner had I wiped one salt
 drop from my cheek than another followed. Yet, I thought, I ought to
 have been happy, for none of the Reeds were there, they were all gone
 out in the carriage with their mama. Abbot, too, was sewing in another
@@ -128,24 +128,24 @@ privilege. This precious vessel was now placed on my knee, and I was
 cordially invited to eat the circlet of delicate pastry upon it. Vain
 favour! coming, like most other favours long deferred and often wished
 for, too late! I could not eat the tart; and the plumage of the bird,
-the tints of the flowers, seemed strangely faded: I put both plate and
+the tints of the [[Flowers|flowers]], seemed strangely faded: I put both plate and
 tart away. Bessie asked if I would have a book: the word _book_ acted
 as a transient stimulus, and I begged her to fetch Gulliver’s Travels
 from the library. This book I had again and again perused with delight.
 I considered it a narrative of facts, and discovered in it a vein of
 interest deeper than what I found in fairy tales: for as to the elves,
-having sought them in vain among foxglove leaves and bells, under
+having sought them in vain among foxglove [[Leaves|leaves]] and [[Bells|bells]], under
 mushrooms and beneath the ground-ivy mantling old wall-nooks, I had at
-length made up my mind to the sad truth, that they were all gone out of
+length made up my mind to the sad [[Truth|truth]], that they were all gone out of
 England to some savage country where the woods were wilder and thicker,
 and the population more scant; whereas, Lilliput and Brobdignag being,
 in my creed, solid parts of the earth’s surface, I doubted not that I
 might one day, by taking a long voyage, see with my own eyes the little
 fields, houses, and trees, the diminutive people, the tiny cows, sheep,
-and birds of the one realm; and the corn-fields forest-high, the mighty
-mastiffs, the monster cats, the tower-like men and women, of the other.
+and [[Birds|birds]] of the one realm; and the corn-fields forest-high, the mighty
+mastiffs, the [[Monster|monster]] cats, the tower-like men and women, of the other.
 Yet, when this cherished volume was now placed in my hand—when I turned
-over its leaves, and sought in its marvellous pictures the charm I had,
+over its [[Leaves|leaves]], and sought in its marvellous pictures the charm I had,
 till now, never failed to find—all was eerie and dreary; the giants
 were gaunt goblins, the pigmies malevolent and fearful imps, Gulliver a
 most desolate wanderer in most dread and dangerous regions. I closed
@@ -155,63 +155,63 @@ beside the untasted tart.
 Bessie had now finished dusting and tidying the room, and having washed
 her hands, she opened a certain little drawer, full of splendid shreds
 of silk and satin, and began making a new bonnet for Georgiana’s doll.
-Meantime she sang: her song was—
+Meantime she sang: her [[Song|song]] was—
 
 “In the days when we went gipsying,
-    A long time ago.”
+    A long [[Time|time]] ago.”
 
 
-I had often heard the song before, and always with lively delight; for
+I had often heard the [[Song|song]] before, and always with lively delight; for
 Bessie had a sweet voice,—at least, I thought so. But now, though her
 voice was still sweet, I found in its melody an indescribable sadness.
 Sometimes, preoccupied with her work, she sang the refrain very low,
-very lingeringly; “A long time ago” came out like the saddest cadence
-of a funeral hymn. She passed into another ballad, this time a really
+very lingeringly; “A long [[Time|time]] ago” came out like the saddest cadence
+of a funeral [[Hymn|hymn]]. She passed into another ballad, this [[Time|time]] a really
 doleful one.
 
 “My feet they are sore, and my limbs they are weary;
-    Long is the way, and the mountains are wild;
+    Long is the way, and the [[Mountains|mountains]] are wild;
 Soon will the twilight close moonless and dreary
-    Over the path of the poor orphan child.
+    Over the path of the poor [[Orphan|orphan]] [[Child|child]].
 
 Why did they send me so far and so lonely,
     Up where the moors spread and grey rocks are piled?
 Men are hard-hearted, and kind angels only
-    Watch o’er the steps of a poor orphan child.
+    Watch o’er the steps of a poor [[Orphan|orphan]] [[Child|child]].
 
-Yet distant and soft the night breeze is blowing,
-    Clouds there are none, and clear stars beam mild,
-God, in His mercy, protection is showing,
-    Comfort and hope to the poor orphan child.
+Yet distant and soft the [[Night|night]] breeze is blowing,
+    Clouds there are none, and clear [[Stars|stars]] beam mild,
+God, in His [[Mercy|mercy]], protection is showing,
+    Comfort and [[Hope|hope]] to the poor [[Orphan|orphan]] [[Child|child]].
 
 Ev’n should I fall o’er the broken bridge passing,
     Or stray in the marshes, by false lights beguiled,
 Still will my Father, with promise and blessing,
-    Take to His bosom the poor orphan child.
+    Take to His bosom the poor [[Orphan|orphan]] [[Child|child]].
 
 There is a thought that for strength should avail me,
     Though both of shelter and kindred despoiled;
-Heaven is a home, and a rest will not fail me;
-    God is a friend to the poor orphan child.”
+Heaven is a [[Home|home]], and a rest will not fail me;
+    God is a friend to the poor [[Orphan|orphan]] [[Child|child]].”
 
 
 “Come, Miss Jane, don’t cry,” said Bessie as she finished. She might as
-well have said to the fire, “don’t burn!” but how could she divine the
-morbid suffering to which I was a prey? In the course of the morning
+[[Well|well]] have said to the [[Fire|fire]], “don’t burn!” but how could she divine the
+morbid [[Suffering|suffering]] to which I was a prey? In the course of the morning
 Mr. Lloyd came again.
 
-“What, already up!” said he, as he entered the nursery. “Well, nurse,
+“What, already up!” said he, as he entered the nursery. “[[Well]], [[Nurse|nurse]],
 how is she?”
 
-Bessie answered that I was doing very well.
+Bessie answered that I was doing very [[Well|well]].
 
 “Then she ought to look more cheerful. Come here, Miss Jane: your name
 is Jane, is it not?”
 
-“Yes, sir, Jane Eyre.”
+“Yes, sir, [[Jane Eyre]].”
 
-“Well, you have been crying, Miss Jane Eyre; can you tell me what
-about? Have you any pain?”
+“[[Well]], you have been crying, Miss [[Jane Eyre]]; can you tell me what
+about? Have you any [[Pain|pain]]?”
 
 “No, sir.”
 
@@ -220,7 +220,7 @@ in the carriage,” interposed Bessie.
 
 “Surely not! why, she is too old for such pettishness.”
 
-I thought so too; and my self-esteem being wounded by the false charge,
+I thought so too; and my [[Self|self]]-esteem being wounded by the false charge,
 I answered promptly, “I never cried for such a thing in my life: I hate
 going out in the carriage. I cry because I am miserable.”
 
@@ -240,11 +240,11 @@ me at leisure, he said—
 age? She must be eight or nine years old.”
 
 “I was knocked down,” was the blunt explanation, jerked out of me by
-another pang of mortified pride; “but that did not make me ill,” I
+another pang of mortified [[Pride|pride]]; “but that did not make me ill,” I
 added; while Mr. Lloyd helped himself to a pinch of snuff.
 
 As he was returning the box to his waistcoat pocket, a loud bell rang
-for the servants’ dinner; he knew what it was. “That’s for you, nurse,”
+for the servants’ dinner; he knew what it was. “That’s for you, [[Nurse|nurse]],”
 said he; “you can go down; I’ll give Miss Jane a lecture till you come
 back.”
 
@@ -254,21 +254,21 @@ punctuality at meals was rigidly enforced at Gateshead Hall.
 “The fall did not make you ill; what did, then?” pursued Mr. Lloyd when
 Bessie was gone.
 
-“I was shut up in a room where there is a ghost till after dark.”
+“I was shut up in a room where there is a [[Ghost|ghost]] till after dark.”
 
-I saw Mr. Lloyd smile and frown at the same time.
+I saw Mr. Lloyd smile and frown at the same [[Time|time]].
 
-“Ghost! What, you are a baby after all! You are afraid of ghosts?”
+“[[Ghost]]! What, you are a baby after all! You are afraid of [[Ghosts|ghosts]]?”
 
-“Of Mr. Reed’s ghost I am: he died in that room, and was laid out
-there. Neither Bessie nor any one else will go into it at night, if
-they can help it; and it was cruel to shut me up alone without a
+“Of Mr. Reed’s [[Ghost|ghost]] I am: he died in that room, and was laid out
+there. Neither Bessie nor any one else will go into it at [[Night|night]], if
+they can help it; and it was cruel to shut me up [[Alone|alone]] without a
 candle,—so cruel that I think I shall never forget it.”
 
 “Nonsense! And is it that makes you so miserable? Are you afraid now in
 daylight?”
 
-“No: but night will come again before long: and besides,—I am
+“No: but [[Night|night]] will come again before long: and besides,—I am
 unhappy,—very unhappy, for other things.”
 
 “What other things? Can you tell me some of them?”
@@ -290,12 +290,12 @@ Again I paused; then bunglingly enounced—
 “But John Reed knocked me down, and my aunt shut me up in the
 red-room.”
 
-Mr. Lloyd a second time produced his snuff-box.
+Mr. Lloyd a second [[Time|time]] produced his snuff-box.
 
-“Don’t you think Gateshead Hall a very beautiful house?” asked he. “Are
+“Don’t you think Gateshead Hall a very beautiful [[house]]?” asked he. “Are
 you not very thankful to have such a fine place to live at?”
 
-“It is not my house, sir; and Abbot says I have less right to be here
+“It is not my [[house]], sir; and Abbot says I have less right to be here
 than a servant.”
 
 “Pooh! you can’t be silly enough to wish to leave such a splendid
@@ -316,10 +316,10 @@ them.”
 
 “If you had such, would you like to go to them?”
 
-I reflected. Poverty looks grim to grown people; still more so to
+I reflected. [[Poverty]] looks grim to grown people; still more so to
 children: they have not much idea of industrious, working, respectable
-poverty; they think of the word only as connected with ragged clothes,
-scanty food, fireless grates, rude manners, and debasing vices: poverty
+[[Poverty|poverty]]; they think of the word only as connected with ragged clothes,
+scanty food, fireless grates, rude manners, and debasing vices: [[Poverty|poverty]]
 for me was synonymous with degradation.
 
 “No; I should not like to belong to poor people,” was my reply.
@@ -349,39 +349,39 @@ school-discipline (gathered from the young ladies of a family where she
 had lived before coming to Gateshead) were somewhat appalling, her
 details of certain accomplishments attained by these same young ladies
 were, I thought, equally attractive. She boasted of beautiful paintings
-of landscapes and flowers by them executed; of songs they could sing
+of landscapes and [[Flowers|flowers]] by them executed; of [[songs]] they could sing
 and pieces they could play, of purses they could net, of French books
 they could translate; till my spirit was moved to emulation as I
 listened. Besides, school would be a complete change: it implied a long
-journey, an entire separation from Gateshead, an entrance into a new
+[[Journey|journey]], an entire separation from Gateshead, an entrance into a new
 life.
 
 “I should indeed like to go to school,” was the audible conclusion of
 my musings.
 
-“Well, well! who knows what may happen?” said Mr. Lloyd, as he got up.
-“The child ought to have change of air and scene,” he added, speaking
+“[[Well]], [[Well|well]]! who knows what may happen?” said Mr. Lloyd, as he got up.
+“The [[Child|child]] ought to have change of air and scene,” he added, speaking
 to himself; “nerves not in a good state.”
 
-Bessie now returned; at the same moment the carriage was heard rolling
+Bessie now returned; at the same moment the carriage was heard [[rolling]]
 up the gravel-walk.
 
-“Is that your mistress, nurse?” asked Mr. Lloyd. “I should like to
+“Is that your mistress, [[Nurse|nurse]]?” asked Mr. Lloyd. “I should like to
 speak to her before I go.”
 
 Bessie invited him to walk into the breakfast-room, and led the way
 out. In the interview which followed between him and Mrs. Reed, I
 presume, from after-occurrences, that the apothecary ventured to
-recommend my being sent to school; and the recommendation was no doubt
+recommend my being sent to school; and the recommendation was no [[Doubt|doubt]]
 readily enough adopted; for as Abbot said, in discussing the subject
-with Bessie when both sat sewing in the nursery one night, after I was
+with Bessie when both sat sewing in the nursery one [[Night|night]], after I was
 in bed, and, as they thought, asleep, “Missis was, she dared say, glad
-enough to get rid of such a tiresome, ill-conditioned child, who always
+enough to get rid of such a tiresome, ill-conditioned [[Child|child]], who always
 looked as if she were watching everybody, and scheming plots
 underhand.” Abbot, I think, gave me credit for being a sort of
 infantine Guy Fawkes.
 
-On that same occasion I learned, for the first time, from Miss Abbot’s
+On that same occasion I learned, for the first [[Time|time]], from Miss Abbot’s
 communications to Bessie, that my father had been a poor clergyman;
 that my mother had married him against the wishes of her friends, who
 considered the match beneath her; that my grandfather Reed was so
@@ -395,11 +395,11 @@ within a month of each other.
 Bessie, when she heard this narrative, sighed and said, “Poor Miss Jane
 is to be pitied, too, Abbot.”
 
-“Yes,” responded Abbot; “if she were a nice, pretty child, one might
+“Yes,” responded Abbot; “if she were a nice, pretty [[Child|child]], one might
 compassionate her forlornness; but one really cannot care for such a
 little toad as that.”
 
-“Not a great deal, to be sure,” agreed Bessie: “at any rate, a beauty
+“Not a great deal, to be sure,” agreed Bessie: “at any rate, a [[Beauty|beauty]]
 like Miss Georgiana would be more moving in the same condition.”
 
 “Yes, I doat on Miss Georgiana!” cried the fervent Abbot. “Little

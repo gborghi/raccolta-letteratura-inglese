@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-For Mr Pancks had suddenly made that blowing effort with unusual force.
+For [[Mr Pancks]] had suddenly made that blowing effort with unusual force.
 
 ‘It’s nothing,’ said Pancks.
 
@@ -23,17 +23,17 @@ a fair bargain. I wish to make a fair bargain with you, that you shall
 enlighten me concerning the Dorrit family when you have it in your
 power, as I have enlightened you. It may not give you a very flattering
 idea of my business habits, that I failed to make my terms beforehand,’
-continued Clennam; ‘but I prefer to make them a point of honour. I have
+continued Clennam; ‘but I prefer to make them a point of [[Honour|honour]]. I have
 seen so much business done on sharp principles that, to tell you the
-truth, Mr Pancks, I am tired of them.’
+[[Truth|truth]], [[Mr Pancks]], I am tired of them.’
 
-Mr Pancks laughed. ‘It’s a bargain, sir,’ said he. ‘You shall find me
+[[Mr Pancks]] laughed. ‘It’s a bargain, sir,’ said he. ‘You shall find me
 stick to it.’
 
 After that, he stood a little while looking at Clennam, and biting his
 ten nails all round; evidently while he fixed in his mind what he had
 been told, and went over it carefully, before the means of supplying a
-gap in his memory should be no longer at hand. ‘It’s all right,’ he said
+gap in his [[Memory|memory]] should be no longer at hand. ‘It’s all right,’ he said
 at last, ‘and now I’ll wish you good day, as it’s collecting day in the
 Yard. By-the-bye, though. A lame foreigner with a stick.’
 
@@ -61,10 +61,10 @@ hospital?’ said Pancks. And again blew off that remarkable sound.
 
 ‘I have been shown so too,’ said Clennam, coldly.
 
-Mr Pancks, being by that time quite ready for a start, got under steam
+[[Mr Pancks]], being by that [[Time|time]] quite ready for a start, got under steam
 in a moment, and, without any other signal or ceremony, was snorting
 down the step-ladder and working into Bleeding Heart Yard, before he
-seemed to be well out of the counting-house.
+seemed to be [[Well|well]] out of the counting-[[house]].
 
 Throughout the remainder of the day, Bleeding Heart Yard was in
 consternation, as the grim Pancks cruised in it; haranguing the
@@ -72,23 +72,23 @@ inhabitants on their backslidings in respect of payment, demanding his
 bond, breathing notices to quit and executions, running down defaulters,
 sending a swell of terror on before him, and leaving it in his wake.
 Knots of people, impelled by a fatal attraction, lurked outside any
-house in which he was known to be, listening for fragments of his
+[[house]] in which he was known to be, listening for fragments of his
 discourses to the inmates; and, when he was rumoured to be coming down
 the stairs, often could not disperse so quickly but that he would be
 prematurely in among them, demanding their own arrears, and rooting them
-to the spot. Throughout the remainder of the day, Mr Pancks’s What were
+to the spot. Throughout the remainder of the day, [[Mr Pancks]]’s What were
 they up to? and What did they mean by it? sounded all over the Yard. Mr
 Pancks wouldn’t hear of excuses, wouldn’t hear of complaints, wouldn’t
 hear of repairs, wouldn’t hear of anything but unconditional money down.
 Perspiring and puffing and darting about in eccentric directions, and
 becoming hotter and dingier every moment, he lashed the tide of the yard
 into a most agitated and turbid state. It had not settled down into calm
-water again full two hours after he had been seen fuming away on the
+[[Water|water]] again full two hours after he had been seen fuming away on the
 horizon at the top of the steps.
 
 There were several small assemblages of the Bleeding Hearts at the
-popular points of meeting in the Yard that night, among whom it was
-universally agreed that Mr Pancks was a hard man to have to do with; and
+popular points of meeting in the Yard that [[Night|night]], among whom it was
+universally agreed that [[Mr Pancks]] was a hard man to have to do with; and
 that it was much to be regretted, so it was, that a gentleman like Mr
 Casby should put his rents in his hands, and never know him in his true
 light. For (said the Bleeding Hearts), if a gentleman with that head of
@@ -101,7 +101,7 @@ floated serenely through the Yard in the forenoon before the harrying
 began, with the express design of getting up this trustfulness in his
 shining bumps and silken locks--at which identical hour and minute,
 that first-rate humbug of a thousand guns was heavily floundering in the
-little Dock of his exhausted Tug at home, and was saying, as he turned
+little Dock of his exhausted Tug at [[Home|home]], and was saying, as he turned
 his thumbs:
 
 ‘A very bad day’s work, Pancks, very bad day’s work. It seems to me,

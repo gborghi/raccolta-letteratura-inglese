@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -16,35 +16,35 @@ tags:
 
 CHAPTER XLVII. IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE
 TEMPORAL ADVANTAGE OF DODSON AND FOGG--MR. WINKLE REAPPEARS UNDER
-EXTRAORDINARY CIRCUMSTANCES--MR. PICKWICK’S BENEVOLENCE PROVES STRONGER
+EXTRAORDINARY CIRCUMSTANCES--MR. [[Pickwick|PICKWICK]]’S BENEVOLENCE PROVES STRONGER
 THAN HIS OBSTINACY
 
-Job Trotter, abating nothing of his speed, ran up Holborn, sometimes in
-the middle of the road, sometimes on the pavement, sometimes in the
+Job Trotter, abating nothing of his [[Speed|speed]], ran up Holborn, sometimes in
+the middle of the [[Road|road]], sometimes on the pavement, sometimes in the
 gutter, as the chances of getting along varied with the press of men,
 women, children, and coaches, in each division of the thoroughfare, and,
 regardless of all obstacles stopped not for an instant until he reached
 the gate of Gray’s Inn. Notwithstanding all the expedition he had used,
 however, the gate had been closed a good half-hour when he reached it,
-and by the time he had discovered Mr. Perker’s laundress, who lived with
+and by the [[Time|time]] he had discovered Mr. Perker’s laundress, who lived with
 a married daughter, who had bestowed her hand upon a non-resident
 waiter, who occupied the one-pair of some number in some street closely
 adjoining to some brewery somewhere behind Gray’s Inn Lane, it was
-within fifteen minutes of closing the prison for the night. Mr. Lowten
+within fifteen minutes of closing the [[Prison|prison]] for the [[Night|night]]. Mr. Lowten
 had still to be ferreted out from the back parlour of the Magpie and
 Stump; and Job had scarcely accomplished this object, and communicated
-Sam Weller’s message, when the clock struck ten.
+[[Sam Weller]]’s message, when the [[Clock|clock]] struck ten.
 
-‘There,’ said Lowten, ‘it’s too late now. You can’t get in to-night;
+‘There,’ said Lowten, ‘it’s too late now. You can’t get in to-[[Night|night]];
 you’ve got the key of the street, my friend.’
 
-‘Never mind me,’ replied Job. ‘I can sleep anywhere. But won’t it be
-better to see Mr. Perker to-night, so that we may be there, the first
+‘Never mind me,’ replied Job. ‘I can [[Sleep|sleep]] anywhere. But won’t it be
+better to see Mr. Perker to-[[Night|night]], so that we may be there, the first
 thing in the morning?’
 
 ‘Why,’ responded Lowten, after a little consideration, ‘if it was in
 anybody else’s case, Perker wouldn’t be best pleased at my going up to
-his house; but as it’s Mr. Pickwick’s, I think I may venture to take a
+his [[house]]; but as it’s Mr. [[Pickwick]]’s, I think I may venture to take a
 cab and charge it to the office.’ Deciding on this line of conduct, Mr.
 Lowten took up his hat, and begging the assembled company to appoint a
 deputy-chairman during his temporary absence, led the way to the nearest
@@ -56,7 +56,7 @@ appearance of lights in the drawing-room windows, the sound of an
 improved grand piano, and an improvable cabinet voice issuing therefrom,
 and a rather overpowering smell of meat which pervaded the steps and
 entry. In fact, a couple of very good country agencies happening to come
-up to town, at the same time, an agreeable little party had been got
+up to town, at the same [[Time|time]], an agreeable little party had been got
 together to meet them, comprising Mr. Snicks, the Life Office Secretary,
 Mr. Prosee, the eminent counsel, three solicitors, one commissioner of
 bankrupts, a special pleader from the Temple, a small-eyed peremptory
@@ -74,9 +74,9 @@ table.
 ‘Now, Lowten,’ said little Mr. Perker, shutting the door, ‘what’s the
 matter? No important letter come in a parcel, is there?’
 
-‘No, Sir,’ replied Lowten. ‘This is a messenger from Mr. Pickwick, Sir.’
+‘No, Sir,’ replied Lowten. ‘This is a messenger from Mr. [[Pickwick]], Sir.’
 
-‘From Pickwick, eh?’ said the little man, turning quickly to Job. ‘Well,
+‘From [[Pickwick]], eh?’ said the little man, turning quickly to Job. ‘[[Well]],
 what is it?’
 
 ‘Dodson and Fogg have taken Mrs. Bardell in execution for her costs,
@@ -116,19 +116,19 @@ for a decanter and glasses.
 As Lowten _did _mean yes, he said no more on the subject, but inquired
 of Job, in an audible whisper, whether the portrait of Perker, which
 hung opposite the fireplace, wasn’t a wonderful likeness, to which Job
-of course replied that it was. The wine being by this time poured out,
+of course replied that it was. The wine being by this [[Time|time]] poured out,
 Lowten drank to Mrs. Perker and the children, and Job to Perker. The
 gentleman in the plush shorts and cottons considering it no part of his
 duty to show the people from the office out, consistently declined to
 answer the bell, and they showed themselves out. The attorney betook
 himself to his drawing-room, the clerk to the Magpie and Stump, and Job
-to Covent Garden Market to spend the night in a vegetable basket.
+to Covent [[Garden]] Market to spend the [[Night|night]] in a vegetable basket.
 
 Punctually at the appointed hour next morning, the good-humoured little
-attorney tapped at Mr. Pickwick’s door, which was opened with great
-alacrity by Sam Weller.
+attorney tapped at Mr. [[Pickwick]]’s door, which was opened with great
+alacrity by [[Sam Weller]].
 
-‘Mr. Perker, sir,’ said Sam, announcing the visitor to Mr. Pickwick, who
-was sitting at the window in a thoughtful attitude. ‘Wery glad you’ve
+‘Mr. Perker, sir,’ said Sam, announcing the visitor to Mr. [[Pickwick]], who
+was sitting at the [[Window|window]] in a thoughtful attitude. ‘Wery glad you’ve
 looked in accidentally, Sir. I rather think the gov’nor wants to have a
 word and a half with you, Sir.’

@@ -16,34 +16,34 @@ tags:
 
 Nevertheless, there is another aspect of this fancy, whether or no it
 is anything more than a fancy, in which it may be used to suggest
-a rather neglected truth.  If we were only allowed to accept
+a rather neglected [[Truth|truth]].  If we were only allowed to accept
 scientific suggestion, as jokes, we could sometimes get some serious
 good out of them.  If the young scientist would ever allow us
-to regard his hypothesis as anything so human as a half-truth,
+to regard his hypothesis as anything so human as a half-[[Truth|truth]],
 it might sometimes really be worth while to find the other half.
 If, instead of claiming that everything is covered by his explanation,
 he confined himself to pleading that there is something in his suggestion,
-he would look considerably less of a fool when the next man,
+he would look considerably less of a [[Fool|fool]] when the next man,
 with the new explanation, comes along in about thirty years.
 And there is something in the suggestion about mind and muscle,
 though there may be nothing but nonsense in an attempt to affirm
 muscle and deny mind.  It is true, I think, that among the lesser
-guides to truth is a certain craving for creative movement:
-a longing to stretch the limbs, to smite, to scrawl, to make
-sweeping gestures, to lift up the hands as well as the heart.
-There is an instinctive movement of the body towards better and
+guides to [[Truth|truth]] is a certain craving for creative movement:
+a [[Longing|longing]] to stretch the limbs, to smite, to scrawl, to make
+sweeping gestures, to lift up the hands as [[Well|well]] as the heart.
+There is an instinctive movement of the [[Body|body]] towards better and
 nobler things, as in the text that said, `I will lift up mine eyes
 to the hills', or in that divine command of liberation that took
 the form of `Stretch forth thine hand'.  The old ceremonial gestures
-of the human body are necessary to the health of the human soul:
+of the human [[Body|body]] are necessary to the health of the human [[Soul|soul]]:
 the gesture that pledged the guest in the goblet that strewed
-the flowers upon the grave; that drew the sword for the salute
+the [[Flowers|flowers]] upon the [[Grave|grave]]; that drew the [[Sword|sword]] for the salute
 or set up the candle before the shrine.  In that sense a man
 actually can think with his muscles; he can pray with his muscles;
-he can love with his muscles and lament with his muscles.
+he can [[Love|love]] with his muscles and lament with his muscles.
 All religion that is without that gesture, all Puritan or purely
-Intellectualist religion that rages at ritual, is raging at human nature.
-If an ancient pagan came from the city of Plato and the temple of Pallas,
+Intellectualist religion that rages at ritual, is raging at human [[Nature|nature]].
+If an ancient pagan came from the [[City|city]] of Plato and the temple of Pallas,
 and found himself in a certain type of town of the Middle West, I
 admit that he would probably prefer to be a Behaviourist rather
 than a Baptist.
@@ -100,9 +100,9 @@ for men never grow wise and many old men retain a very attractive
 childishness and cheerful innocence.  Elderly people are often much
 more romantic than younger people, and sometimes even more adventurous,
 having begun to realize how many things they do not know.
-It is a true proverb, no doubt, which says `There is no fool
-like an old fool'.  Perhaps there is no fool who is half so happy
-in his own fool's paradise.  But, however this may be, it is true
+It is a true proverb, no doubt, which says `There is no [[Fool|fool]]
+like an old [[Fool|fool]]'.  Perhaps there is no [[Fool|fool]] who is half so happy
+in his own [[Fool|fool]]'s paradise.  But, however this may be, it is true
 that the advantages of maturity are not those which are generally
 urged even in praise of it, and when they are truly urged they
 sound like an almost comic contradiction.
@@ -115,24 +115,24 @@ and codes of manners that seem in our first days to be dead.
 A young man grows up in a world that often seems to him intolerably old.
 He grows up among proverbs and precepts that appear to be quite
 stiff and senseless.  He seems to be stuffed with stale things;
-to be given the stones of death instead of the bread of life;
-to be fed on the dust of the dead past; to live in a town of tombs.
+to be given the stones of [[Death|death]] instead of the bread of life;
+to be fed on the [[Dust|dust]] of the dead past; to live in a town of tombs.
 It is a very natural mistake, but it is a mistake.  The advantage
 of advancing years lies in discovering that traditions are true,
 and therefore alive; indeed, a tradition is not even traditional except
 when it is alive.  It is great fun to find out that the world has
 not repeated proverbs because they are proverbial, but because they
 are practical.  Until I owned a dog, I never knew what is meant
-by the proverb about letting a sleeping dog lie, or the fable
+by the proverb about letting a sleeping dog lie, or the [[Fable|fable]]
 about the dog in the manger.  Now those dead phrases are quite alive
 to me, for they are parts of a perfectly practical psychology.
 Until I went to live in the country, I had no notion of the meaning
-of the maxim, `It's an ill wind that blows nobody good'.
+of the maxim, `It's an ill [[Wind|wind]] that blows nobody good'.
 Now it seems to me as pertinent and even pungent as if it were
-a new remark just made to me by a neighbour at the garden gate.
+a new remark just made to me by a neighbour at the [[Garden|garden]] gate.
 It is something to come to live in a world of living and significant
 things instead of dead and unmeaning things.  And it is youth
 in revolt, even in righteous revolt, which sees its surroundings
-as dead and unmeaning.  It is old age, and even second childhood,
+as dead and unmeaning.  It is old age, and even second [[Childhood|childhood]],
 that has come to see that everything means something and that life
 itself has never died.

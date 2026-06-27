@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 9"
+title: "[[Villette]] — Chapter 9"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,21 +18,21 @@ CHAPTER IX.
 ISIDORE.
 
 
-My time was now well and profitably filled up. What with teaching
+My [[Time|time]] was now [[Well|well]] and profitably filled up. What with teaching
 others and studying closely myself, I had hardly a spare moment. It was
 pleasant. I felt I was getting on; not lying the stagnant prey of
 mould and rust, but polishing my faculties and whetting them to a keen
 edge with constant use. Experience of a certain kind lay before me, on
-no narrow scale. Villette is a cosmopolitan city, and in this school
+no narrow scale. [[Villette]] is a cosmopolitan [[City|city]], and in this school
 were girls of almost every European nation, and likewise of very varied
 rank in life. Equality is much practised in Labassecour; though not
 republican in form, it is nearly so in substance, and at the desks of
-Madame Beck’s establishment the young countess and the young bourgeoise
+[[Madame Beck]]’s establishment the young countess and the young bourgeoise
 sat side by side. Nor could you always by outward indications decide
 which was noble and which plebeian; except that, indeed, the latter had
 often franker and more courteous manners, while the former bore away
 the bell for a delicately-balanced combination of insolence and deceit.
-In the former there was often quick French blood mixed with the
+In the former there was often quick French [[Blood|blood]] mixed with the
 marsh-phlegm: I regret to say that the effect of this vivacious fluid
 chiefly appeared in the oilier glibness with which flattery and fiction
 ran from the tongue, and in a manner lighter and livelier, but quite
@@ -42,25 +42,25 @@ To do all parties justice, the honest aboriginal Labassecouriennes had
 an hypocrisy of their own, too; but it was of a coarse order, such as
 could deceive few. Whenever a lie was necessary for their occasions,
 they brought it out with a careless ease and breadth altogether
-untroubled by the rebuke of conscience. Not a soul in Madame Beck’s
-house, from the scullion to the directress herself, but was above being
+untroubled by the rebuke of [[Conscience|conscience]]. Not a [[Soul|soul]] in [[Madame Beck]]’s
+[[house]], from the scullion to the directress herself, but was above being
 ashamed of a lie; they thought nothing of it: to invent might not be
 precisely a virtue, but it was the most venial of faults. “J’ai menti
 plusieurs fois,” formed an item of every girl’s and woman’s monthly
 confession: the priest heard unshocked, and absolved unreluctant. If
-they had missed going to mass, or read a chapter of a novel, that was
+they had missed going to mass, or read a chapter of a [[Novel|novel]], that was
 another thing: these were crimes whereof rebuke and penance were the
 unfailing weed.
 
 While yet but half-conscious of this state of things, and unlearned in
-its results, I got on in my new sphere very well. After the first few
+its results, I got on in my new sphere very [[Well|well]]. After the first few
 difficult lessons, given amidst peril and on the edge of a moral
 volcano that rumbled under my feet and sent sparks and hot fumes into
 my eyes, the eruptive spirit seemed to subside, as far as I was
-concerned. My mind was a good deal bent on success: I could not bear
+concerned. My mind was a good deal bent on [[success]]: I could not bear
 the thought of being baffled by mere undisciplined disaffection and
 wanton indocility, in this first attempt to get on in life. Many hours
-of the night I used to lie awake, thinking what plan I had best adopt
+of the [[Night|night]] I used to lie awake, thinking what plan I had best adopt
 to get a reliable hold on these mutineers, to bring this stiff-necked
 tribe under permanent influence. In the first place, I saw plainly
 that aid in no shape was to be expected from Madame: her righteous plan
@@ -77,7 +77,7 @@ Imprimis—it was clear as the day that this swinish multitude were not
 to be driven by force. They were to be humoured, borne with very
 patiently: a courteous though sedate manner impressed them; a very rare
 flash of raillery did good. Severe or continuous mental application
-they could not, or would not, bear: heavy demand on the memory, the
+they could not, or would not, bear: heavy demand on the [[Memory|memory]], the
 reason, the attention, they rejected point-blank. Where an English girl
 of not more than average capacity and docility would quietly take a
 theme and bind herself to the task of comprehension and mastery, a
@@ -92,21 +92,21 @@ of their understandings, return it to them thus modified, and lay on
 the lash of sarcasm with unsparing hand. They would feel the sting,
 perhaps wince a little under it; but they bore no malice against this
 sort of attack, provided the sneer was not _sour_, but _hearty_, and
-that it held well up to them, in a clear, light, and bold type, so that
+that it held [[Well|well]] up to them, in a clear, light, and bold type, so that
 she who ran might read, their incapacity, ignorance, and sloth. They
 would riot for three additional lines to a lesson; but I never knew
-them rebel against a wound given to their self-respect: the little they
+them [[Rebel|rebel]] against a wound given to their [[Self|self]]-respect: the little they
 had of that quality was trained to be crushed, and it rather liked the
 pressure of a firm heel than otherwise.
 
-By degrees, as I acquired fluency and freedom in their language, and
+By degrees, as I acquired fluency and [[Freedom|freedom]] in their language, and
 could make such application of its more nervous idioms as suited their
 case, the elder and more intelligent girls began rather to like me in
 their way: I noticed that whenever a pupil had been roused to feel in
-her soul the stirring of worthy emulation, or the quickening of honest
+her [[Soul|soul]] the stirring of worthy emulation, or the quickening of honest
 shame, from that date she was won. If I could but once make their
 (usually large) ears burn under their thick glossy hair, all was
-comparatively well. By-and-by bouquets began to be laid on my desk in
+comparatively [[Well|well]]. By-and-by bouquets began to be laid on my desk in
 the morning; by way of acknowledgment for this little foreign
 attention, I used sometimes to walk with a select few during
 recreation. In the course of conversation it befel once or twice that I
@@ -120,8 +120,8 @@ edifying consequence ensued. Something—an unseen, an indefinite, a
 nameless—something stole between myself and these my best pupils: the
 bouquets continued to be offered, but conversation thenceforth became
 impracticable. As I paced the alleys or sat in the berceau, a girl
-never came to my right hand but a teacher, as if by magic, appeared at
-my left. Also, wonderful to relate, Madame’s shoes of silence brought
+never came to my right hand but a teacher, as if by [[Magic|magic]], appeared at
+my left. Also, wonderful to relate, Madame’s shoes of [[Silence|silence]] brought
 her continually to my back, as quick, as noiseless and unexpected, as
 some wandering zephyr.
 
@@ -147,15 +147,15 @@ vive ici-bas.”
 
 I laughed, as, indeed, it was impossible to do otherwise.
 
-Has the reader forgotten Miss Ginevra Fanshawe? If so, I must be
+Has the reader forgotten Miss [[Ginevra Fanshawe]]? If so, I must be
 allowed to re-introduce that young lady as a thriving pupil of Madame
 Beck’s; for such she was. On her arrival in the Rue Fossette, two or
 three days after my sudden settlement there, she encountered me with
-very little surprise. She must have had good blood in her veins, for
+very little surprise. She must have had good [[Blood|blood]] in her veins, for
 never was any duchess more perfectly, radically, unaffectedly
 _nonchalante_ than she: a weak, transient amaze was all she knew of the
-sensation of wonder. Most of her other faculties seemed to be in the
-same flimsy condition: her liking and disliking, her love and hate,
+sensation of [[Wonder|wonder]]. Most of her other faculties seemed to be in the
+same flimsy condition: her liking and disliking, her [[Love|love]] and hate,
 were mere cobweb and gossamer; but she had one thing about her that
 seemed strong and durable enough, and that was—her selfishness.
 
@@ -166,12 +166,12 @@ the cookery was not to her taste; the people about her, teachers and
 pupils, she held to be despicable, because they were foreigners. I bore
 with her abuse of the Friday’s salt fish and hard eggs—with her
 invective against the soup, the bread, the coffee—with some patience
-for a time; but at last, wearied by iteration, I turned crusty, and put
+for a [[Time|time]]; but at last, wearied by iteration, I turned crusty, and put
 her to rights: a thing I ought to have done in the very beginning, for
 a salutary setting down always agreed with her.
 
 Much longer had I to endure her demands on me in the way of work. Her
-wardrobe, so far as concerned articles of external wear, was well and
+wardrobe, so far as concerned articles of external wear, was [[Well|well]] and
 elegantly supplied; but there were other habiliments not so carefully
 provided: what she had, needed frequent repair. She hated
 needle-drudgery herself, and she would bring her hose, &c. to me in
@@ -184,14 +184,14 @@ could.
 
 Notwithstanding these foibles, and various others needless to
 mention—but by no means of a refined or elevating character—how pretty
-she was! How charming she looked, when she came down on a sunny Sunday
-morning, well-dressed and well-humoured, robed in pale lilac silk, and
-with her fair long curls reposing on her white shoulders. Sunday was a
+she was! How charming she looked, when she came down on a sunny [[Sunday]]
+morning, [[Well|well]]-dressed and [[Well|well]]-humoured, robed in pale lilac silk, and
+with her fair long curls reposing on her white shoulders. [[Sunday]] was a
 holiday which she always passed with friends resident in town; and
 amongst these friends she speedily gave me to understand was one who
 would fain become something more. By glimpses and hints it was shown
 me, and by the general buoyancy of her look and manner it was ere long
-proved, that ardent admiration—perhaps genuine love—was at her command.
+proved, that ardent admiration—perhaps genuine [[Love|love]]—was at her command.
 She called her suitor “Isidore:” this, however, she intimated was not
 his real name, but one by which it pleased her to baptize him—his own,
 she hinted, not being “very pretty.” Once, when she had been bragging
@@ -199,7 +199,7 @@ about the vehemence of “Isidore’s” attachment, I asked if she loved him
 in return.
 
 “Comme cela,” said she: “he is handsome, and he loves me to
-distraction, so that I am well amused. Ca suffit.”
+distraction, so that I am [[Well|well]] amused. Ca suffit.”
 
 Finding that she carried the thing on longer than, from her very fickle
 tastes, I had anticipated, I one day took it upon me to make serious
@@ -222,20 +222,20 @@ the end, he will be made miserable.”
 “Of course he will break his heart. I should be shocked and,
 disappointed if he didn’t.”
 
-“I wonder whether this M. Isidore is a fool?” said I.
+“I [[Wonder|wonder]] whether this M. Isidore is a [[Fool|fool]]?” said I.
 
 “He is, about me; but he is wise in other things, à ce qu’on dit. Mrs.
 Cholmondeley considers him extremely clever: she says he will push his
 way by his talents; all I know is, that he does little more than sigh
-in my presence, and that I can wind him round my little finger.”
+in my presence, and that I can [[Wind|wind]] him round my little finger.”
 
-Wishing to get a more definite idea of this love-stricken M. Isidore;
+Wishing to get a more definite idea of this [[Love|love]]-stricken M. Isidore;
 whose position seemed to me of the least secure, I requested her to
 favour me with a personal description; but she could not describe: she
 had neither words nor the power of putting them together so as to make
 graphic phrases. She even seemed not properly to have noticed him:
 nothing of his looks, of the changes in his countenance, had touched
-her heart or dwelt in her memory—that he was “beau, mais plutôt bel
+her heart or dwelt in her [[Memory|memory]]—that he was “beau, mais plutôt bel
 homme que joli garçon,” was all she could assert. My patience would
 often have failed, and my interest flagged, in listening to her, but
 for one thing. All the hints she dropped, all the details she gave,
@@ -250,17 +250,17 @@ Miss Ginevra’s school-studies were little better than nominal; there
 were but three things she practised in earnest, viz. music, singing,
 and dancing; also embroidering the fine cambric handkerchiefs which she
 could not afford to buy ready worked: such mere trifles as lessons in
-history, geography, grammar, and arithmetic, she left undone, or got
-others to do for her. Very much of her time was spent in visiting.
+[[history]], geography, grammar, and arithmetic, she left undone, or got
+others to do for her. Very much of her [[Time|time]] was spent in visiting.
 Madame, aware that her stay at school was now limited to a certain
 period, which would not be extended whether she made progress or not,
 allowed her great licence in this particular. Mrs. Cholmondeley—her
 _chaperon_—a gay, fashionable lady, invited her whenever she had
-company at her own house, and sometimes took her to evening-parties at
+company at her own [[house]], and sometimes took her to evening-parties at
 the houses of her acquaintance. Ginevra perfectly approved this mode of
-procedure: it had but one inconvenience; she was obliged to be well
+procedure: it had but one inconvenience; she was obliged to be [[Well|well]]
 dressed, and she had not money to buy variety of dresses. All her
-thoughts turned on this difficulty; her whole soul was occupied with
+thoughts turned on this difficulty; her whole [[Soul|soul]] was occupied with
 expedients for effecting its solution. It was wonderful to witness the
 activity of her otherwise indolent mind on this point, and to see the
 much-daring intrepidity to which she was spurred by a sense of
@@ -279,8 +279,8 @@ Miss Fanshawe’s friends, to oppose resistance to encroachment. After a
 while I heard no more of Mrs. Cholmondeley’s presents; but still,
 visiting went on, and the absolutely necessary dresses continued to be
 supplied: also many little expensive _etcetera_—gloves, bouquets, even
-trinkets. These things, contrary to her custom, and even nature—for she
-was not secretive—were most sedulously kept out of sight for a time;
+trinkets. These things, contrary to her custom, and even [[Nature|nature]]—for she
+was not secretive—were most sedulously kept out of sight for a [[Time|time]];
 but one evening, when she was going to a large party for which
 particular care and elegance of costume were demanded, she could not
 resist coming to my chamber to show herself in all her splendour.
@@ -294,7 +294,7 @@ completeness.
 
 I viewed her from top to toe. She turned airily round that I might
 survey her on all sides. Conscious of her charms, she was in her best
-humour: her rather small blue eyes sparkled gleefully. She was going to
+[[Humour|humour]]: her rather small blue eyes sparkled gleefully. She was going to
 bestow on me a kiss, in her school-girl fashion of showing her delights
 but I said, “Steady! Let us be Steady, and know what we are about, and
 find out the meaning of our magnificence”—and so put her off at arm’s
@@ -307,7 +307,7 @@ don’t understand yours.”
 
 “But how do I look?”
 
-“You look well dressed.”
+“You look [[Well|well]] dressed.”
 
 She thought the praise not warm enough, and proceeded to direct
 attention to the various decorative points of her attire. “Look at this
@@ -354,7 +354,7 @@ come flourishing and fluttering into my chamber—a mere jay in borrowed
 plumes. I have not the least respect for your feathers, Miss Fanshawe;
 and especially the peacock’s eyes you call a _parure_: very pretty
 things, if you had bought them with money which was your own, and which
-you could well spare, but not at all pretty under present
+you could [[Well|well]] spare, but not at all pretty under present
 circumstances.”
 
 “On est là pour Mademoiselle Fanshawe!” was announced by the portress,
@@ -382,18 +382,18 @@ I _must_ go out. Papa himself said that he wished me to see something
 of the world; he particularly remarked to Mrs. Cholmondeley, that,
 though I was a sweet creature enough, I had rather a
 bread-and-butter-eating, school-girl air; of which it was his special
-desire that I should get rid, by an introduction to society here,
-before I make my regular début in England. Well, then, if I go out, I
+[[Desire|desire]] that I should get rid, by an introduction to society here,
+before I make my regular début in England. [[Well]], then, if I go out, I
 _must_ dress. Mrs. Cholmondeley is turned shabby, and will give nothing
 more; it would be too hard upon uncle to make him pay for _all_ the
 things I need: _that_ you can’t deny—_that_ agrees with your own
-preachments. Well, but SOMEBODY who heard me (quite by chance, I assure
+preachments. [[Well]], but SOMEBODY who heard me (quite by chance, I assure
 you) complaining to Mrs. Cholmondeley of my distressed circumstances,
 and what straits I was put to for an ornament or two—_somebody_, far
 from grudging one a present, was quite delighted at the idea of being
 permitted to offer some trifle. You should have seen what a _blanc-bec_
 he looked when he first spoke of it: how he hesitated and blushed, and
-positively trembled from fear of a repulse.”
+positively trembled from [[Fear|fear]] of a repulse.”
 
 “That will do, Miss Fanshawe. I suppose I am to understand that M.
 Isidore is the benefactor: that it is from him you have accepted that
@@ -401,13 +401,13 @@ costly _parure_; that he supplies your bouquets and your gloves?”
 
 “You express yourself so disagreeably,” said she, “one hardly knows how
 to answer; what I mean to say is, that I occasionally allow Isidore the
-pleasure and honour of expressing his homage by the offer of a trifle.”
+pleasure and [[Honour|honour]] of expressing his homage by the offer of a trifle.”
 
-“It comes to the same thing…. Now, Ginevra, to speak the plain truth, I
-don’t very well understand these matters; but I believe you are doing
+“It comes to the same thing…. Now, Ginevra, to speak the plain [[Truth|truth]], I
+don’t very [[Well|well]] understand these matters; but I believe you are doing
 very wrong—seriously wrong. Perhaps, however, you now feel certain that
 you will be able to marry M. Isidore; your parents and uncle have given
-their consent, and, for your part, you love him entirely?”
+their consent, and, for your part, you [[Love|love]] him entirely?”
 
 “Mais pas du tout!” (she always had recourse to French when about to
 say something specially heartless and perverse). “Je suis sa reine,
@@ -415,11 +415,11 @@ mais il n’est pas mon roi.”
 
 “Excuse me, I must believe this language is mere nonsense and coquetry.
 There is nothing great about you, yet you are above profiting by the
-good nature and purse of a man to whom you feel absolute indifference.
-You love M. Isidore far more than you think, or will avow.”
+good [[Nature|nature]] and purse of a man to whom you feel absolute indifference.
+You [[Love|love]] M. Isidore far more than you think, or will avow.”
 
-“No. I danced with a young officer the other night, whom I love a
-thousand times more than he. I often wonder why I feel so very cold to
+“No. I danced with a young officer the other [[Night|night]], whom I [[Love|love]] a
+thousand times more than he. I often [[Wonder|wonder]] why I feel so very cold to
 Isidore, for everybody says he is handsome, and other ladies admire
 him; but, somehow, he bores me: let me see now how it is….”
 
@@ -440,7 +440,7 @@ lowest, and know me to be coquettish, and ignorant, and flirting, and
 fickle, and silly, and selfish, and all the other sweet things you and
 I have agreed to be a part of my character.”
 
-“This is all very well,” I said, making a strenuous effort to preserve
+“This is all very [[Well|well]],” I said, making a strenuous effort to preserve
 that gravity and severity which ran risk of being shaken by this
 whimsical candour, “but it does not alter that wretched business of the
 presents. Pack them up, Ginevra, like a good, honest girl, and send
@@ -465,7 +465,7 @@ myself, by promise or vow, to this man or that. When first I saw
 Isidore, I believed he would help me to enjoy it I believed he would be
 content with my being a pretty girl; and that we should meet and part
 and flutter about like two butterflies, and be happy. Lo, and behold! I
-find him at times as grave as a judge, and deep-feeling and thoughtful.
+find him at times as [[Grave|grave]] as a judge, and deep-feeling and thoughtful.
 Bah! Les penseurs, les hommes profonds et passionnés ne sont pas à mon
 goût. Le Colonel Alfred de Hamal suits me far better. Va pour les beaux
 fats et les jolis fripons! Vive les joies et les plaisirs! A bas les
@@ -477,4 +477,4 @@ She looked for an answer to this tirade. I gave none.
 Je ne serai jamais femme de bourgeois, moi!”
 
 I now signified that it was imperatively necessary my apartment should
-be relieved of the honour of her presence: she went away laughing.
+be relieved of the [[Honour|honour]] of her presence: she went away laughing.

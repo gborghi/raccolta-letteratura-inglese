@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 3 (part 3)"
+title: "[[Shirley]] — Chapter 3 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,7 +28,7 @@ myself," returned the rector.
 
 t' bits o' frames, and teed Joe Scott's legs wi' band, suld be hung
 
-without benefit o' clergy. It's a hanging matter, or suld be. No doubt
+without benefit o' clergy. It's a hanging matter, or suld be. No [[Doubt|doubt]]
 
 o' that."
 
@@ -36,13 +36,13 @@ o' that."
 
 "If I judged them I'd give them short shrift!" cried Moore. "But I mean
 
-to let them quite alone this bout, to give them rope enough, certain
+to let them quite [[Alone|alone]] this bout, to give them rope enough, certain
 
 that in the end they will hang themselves."
 
 
 
-"Let them alone, will ye, Moore? Do you promise that?"
+"Let them [[Alone|alone]], will ye, Moore? Do you promise that?"
 
 
 
@@ -56,9 +56,9 @@ trouble to catch them; but if one falls in my way----"
 
 something worse than merely stop a wagon before you reckon with them.
 
-Well, we'll say no more on the subject at present. Here we are at my
+[[Well]], we'll say no more on the subject at present. Here we are at my
 
-door, gentlemen, and I hope you and the men will step in. You will none
+door, gentlemen, and I [[Hope|hope]] you and the men will step in. You will none
 
 of you be the worse of a little refreshment."
 
@@ -66,9 +66,9 @@ of you be the worse of a little refreshment."
 
 Moore and Helstone opposed this proposition as unnecessary. It was,
 
-however, pressed on them so courteously, and the night, besides, was so
+however, pressed on them so courteously, and the [[Night|night]], besides, was so
 
-inclement, and the gleam from the muslin-curtained windows of the house
+inclement, and the gleam from the muslin-curtained windows of the [[house]]
 
 before which they had halted looked so inviting, that at length they
 
@@ -102,7 +102,7 @@ ushered in at the front entrance. They found themselves in a matted
 
 hall, lined almost to the ceiling with pictures. Through this they were
 
-conducted to a large parlour, with a magnificent fire in the grate--the
+conducted to a large parlour, with a magnificent [[Fire|fire]] in the grate--the
 
 most cheerful of rooms it appeared as a whole, and when you came to
 
@@ -120,15 +120,15 @@ valuable. Even by candle-light the bright clear skies, the soft
 
 distances, with blue air quivering between the eye and the hills, the
 
-fresh tints, and well-massed lights and shadows, charmed the view. The
+fresh tints, and [[Well|well]]-massed lights and shadows, charmed the view. The
 
-subjects were all pastoral, the scenes were all sunny. There was a
+subjects were all [[Pastoral|pastoral]], the scenes were all sunny. There was a
 
 guitar and some music on a sofa; there were cameos, beautiful
 
 miniatures; a set of Grecian-looking vases on the mantelpiece; there
 
-were books well arranged in two elegant bookcases.
+were books [[Well|well]] arranged in two elegant bookcases.
 
 
 
@@ -164,7 +164,7 @@ and justice-meeting where we encountered one another."
 
 "Does it agree wi' ye now, Mr. Helstone, to be riding out after rioters,
 
-of a wet night, at your age?"
+of a wet [[Night|night]], at your age?"
 
 
 
@@ -178,7 +178,7 @@ for an archbishop."
 
 "Fit for ye, at ony rate. But where's t' curate? He's happen gone to
 
-visit some poor body in a sick gird, or he's happen hunting down vermin
+visit some poor [[Body|body]] in a sick gird, or he's happen hunting down vermin
 
 in another direction."
 
@@ -188,9 +188,9 @@ in another direction."
 
 
 
-"You left him a sup o' wine, I hope, Bob" (turning to Mr. Moore), "to
+"You left him a sup o' wine, I [[Hope|hope]], Bob" (turning to Mr. Moore), "to
 
-keep his courage up?"
+keep his [[Courage|courage]] up?"
 
 
 
@@ -294,6 +294,6 @@ Yorke, ce mot, ami, m'irrite trop; ne m'en parlez plus."
 
 And here Mr. Yorke held his peace; and while he sits leaning back in his
 
-three-cornered carved oak chair, I will snatch my opportunity to sketch
+three-cornered carved oak chair, I will snatch my opportunity to [[Sketch|sketch]]
 
 the portrait of this French-speaking Yorkshire gentleman.

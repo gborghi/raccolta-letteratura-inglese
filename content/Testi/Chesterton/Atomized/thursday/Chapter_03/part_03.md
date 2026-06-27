@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 3 (part 3)"
+title: "[[thursday]] — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -31,22 +31,22 @@ with an automatic and lifeless distinctness--
 Syme looked straight into those frightful eyes with his own pale blue ones,
 and said with dignity--
 
-"Comrade Gregory accuses me of hypocrisy.  He knows as well as I do
+"Comrade Gregory accuses me of hypocrisy.  He knows as [[Well|well]] as I do
 that I am keeping all my engagements and doing nothing but my duty.
 I do not mince words.  I do not pretend to.  I say that Comrade Gregory
-is unfit to be Thursday for all his amiable qualities.
-He is unfit to be Thursday because of his amiable qualities.
+is unfit to be [[thursday|Thursday]] for all his amiable qualities.
+He is unfit to be [[thursday|Thursday]] because of his amiable qualities.
 We do not want the Supreme Council of Anarchy infected with
-a maudlin mercy (hear, hear). This is no time for ceremonial
-politeness, neither is it a time for ceremonial modesty.
+a maudlin [[Mercy|mercy]] (hear, hear). This is no [[Time|time]] for ceremonial
+politeness, neither is it a [[Time|time]] for ceremonial modesty.
 I set myself against Comrade Gregory as I would set myself
 against all the Governments of Europe, because the anarchist
 who has given himself to anarchy has forgotten modesty as much
-as he has forgotten pride (cheers). I am not a man at all.
+as he has forgotten [[Pride|pride]] (cheers). I am not a man at all.
 I am a cause (renewed cheers). I set myself against Comrade Gregory
-as impersonally and as calmly as I should choose one pistol
+as impersonally and as calmly as I should choose one [[Pistol|pistol]]
 rather than another out of that rack upon the wall; and I say
-that rather than have Gregory and his milk-and-water methods
+that rather than have Gregory and his milk-and-[[Water|water]] methods
 on the Supreme Council, I would offer myself for election--"
 
 His sentence was drowned in a deafening cataract of applause.
@@ -54,7 +54,7 @@ The faces, that had grown fiercer and fiercer with approval as
 his tirade grew more and more uncompromising, were now distorted
 with grins of anticipation or cloven with delighted cries.
 At the moment when he announced himself as ready to stand
-for the post of Thursday, a roar of excitement and assent
+for the post of [[thursday|Thursday]], a roar of excitement and assent
 broke forth, and became uncontrollable, and at the same
 moment Gregory sprang to his feet, with foam upon his mouth,
 and shouted against the shouting.
@@ -85,16 +85,16 @@ and had said--
 The voice of the chairman clove his speech with a cold accent.
 
 "Does anyone second this amendment?" he said.  A tall,
-tired man, with melancholy eyes and an American chin beard,
+tired man, with [[Melancholy|melancholy]] eyes and an American chin beard,
 was observed on the back bench to be slowly rising to his feet.
-Gregory had been screaming for some time past; now there
+Gregory had been screaming for some [[Time|time]] past; now there
 was a change in his accent, more shocking than any scream.
 "I end all this!" he said, in a voice as heavy as stone.
 
 "This man cannot be elected.  He is a--"
 
 "Yes," said Syme, quite motionless, "what is he?"  Gregory's mouth
-worked twice without sound; then slowly the blood began to crawl back
+worked twice without sound; then slowly the [[Blood|blood]] began to crawl back
 into his dead face.  "He is a man quite inexperienced in our work,"
 he said, and sat down abruptly.
 
@@ -120,7 +120,7 @@ you a counsel which you can call mad if you like.  No, I will
 not call it a counsel, for I can give you no reason for it.
 I will call it a command.  Call it a mad command, but act upon it.
 Strike, but hear me!  Kill me, but obey me!  Do not elect this man."
-Truth is so terrible, even in fetters, that for a moment
+[[Truth]] is so terrible, even in fetters, that for a moment
 Syme's slender and insane victory swayed like a reed.
 But you could not have guessed it from Syme's bleak blue eyes.
 He merely began--
@@ -129,12 +129,12 @@ He merely began--
 
 Then the spell was snapped, and one anarchist called out to Gregory--
 
-"Who are you?  You are not Sunday"; and another anarchist added
-in a heavier voice, "And you are not Thursday."
+"Who are you?  You are not [[Sunday]]"; and another anarchist added
+in a heavier voice, "And you are not [[thursday|Thursday]]."
 
 "Comrades," cried Gregory, in a voice like that of a martyr
-who in an ecstacy of pain has passed beyond pain, "it is nothing
-to me whether you detest me as a tyrant or detest me as a slave.
+who in an ecstacy of [[Pain|pain]] has passed beyond [[Pain|pain]], "it is nothing
+to me whether you detest me as a [[Tyrant|tyrant]] or detest me as a slave.
 If you will not take my command, accept my degradation.
 I kneel to you.  I throw myself at your feet.  I implore you.
 Do not elect this man."
@@ -142,10 +142,10 @@ Do not elect this man."
 "Comrade Gregory," said the chairman after a painful pause,
 "this is really not quite dignified."
 
-For the first time in the proceedings there was for a few
-seconds a real silence.  Then Gregory fell back in his seat,
+For the first [[Time|time]] in the proceedings there was for a few
+seconds a real [[Silence|silence]].  Then Gregory fell back in his seat,
 a pale wreck of a man, and the chairman repeated, like a piece
-of clock-work suddenly started again--
+of [[Clock|clock]]-work suddenly started again--
 
-"The question is that Comrade Syme be elected to the post of Thursday
+"The question is that Comrade Syme be elected to the post of [[thursday|Thursday]]
 on the General Council."

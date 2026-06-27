@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — Art and Advertisement"
+title: "[[UtopiaUsurers]] — Art and Advertisement"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -26,11 +26,11 @@ profane, I can only prophesy when I am in a rage and think things look
 
 ugly for everybody. And like all healthy-minded prophets, I prophesy in
 
-the hope that my prophecy may not come true. For the prediction made by
+the [[Hope|hope]] that my prophecy may not come true. For the prediction made by
 
 the true soothsayer is like the warning given by a good doctor. And the
 
-doctor has really triumphed when the patient he condemned to death has
+doctor has really triumphed when the patient he condemned to [[Death|death]] has
 
 revived to life. The threat is justified at the very moment when it is
 
@@ -44,7 +44,7 @@ it is growing stronger. Most of the excuses which serve the capitalists
 
 as masks are, of course, the excuses of hypocrites. They lie when they
 
-claim philanthropy; they no more feel any particular love of men than
+claim philanthropy; they no more feel any particular [[Love|love]] of men than
 
 Albu felt an affection for Chinamen. They lie when they say they have
 
@@ -54,7 +54,7 @@ generally have to pay men to organise the mine, exactly as they pay
 
 men to go down it. They often lie about the present wealth, as they
 
-generally lie about their past poverty. But when they say that they
+generally lie about their past [[Poverty|poverty]]. But when they say that they
 
 are going in for a "constructive social policy," they do not lie. They
 
@@ -118,7 +118,7 @@ Victorian epoch can be best seen in this: that the Victorian atmosphere,
 
 with all its faults, did not permit such a style of patronage to pass as
 
-a matter of course. Michael Angelo may have been proud to have helped an
+a matter of course. [[Michael]] [[Angelo]] may have been proud to have helped an
 
 emperor or a pope; though, indeed, I think he was prouder than they
 
@@ -126,21 +126,21 @@ were on his own account. I do not believe Sir John Millais was proud of
 
 having helped a soap-boiler. I do not say he thought it wrong; but he
 
-was not proud of it. And that marks precisely the change from his time
+was not proud of it. And that marks precisely the change from his [[Time|time]]
 
 to our own. Our merchants have really adopted the style of merchant
 
 princes. They have begun openly to dominate the civilisation of the
 
-State, as the emperors and popes openly dominated in Italy. In Millais's
+State, as the emperors and popes openly dominated in [[Italy]]. In Millais's
 
-time, broadly speaking, art was supposed to mean good art; advertisement
+[[Time|time]], broadly speaking, art was supposed to mean good art; advertisement
 
 was supposed to mean inferior art. The head of a black man, painted
 
 to advertise somebody's blacking, could be a rough symbol, like an inn
 
-sign. The black man had only to be black enough. An artist exhibiting
+sign. The black man had only to be black enough. An [[Artist|artist]] exhibiting
 
 the picture of a negro was expected to know that a black man is not so
 
@@ -164,7 +164,7 @@ I should say the first effect of the triumph of the capitalist (if
 
 we allow him to triumph) will be that that line of demarcation will
 
-entirely disappear. There will be no art that might not just as well be
+entirely disappear. There will be no art that might not just as [[Well|well]] be
 
 advertisement. I do not necessarily mean that there will be no good art;
 
@@ -178,13 +178,13 @@ of a negro advertising Somebody's Blacking now adays were finished
 
 with as careful and subtle colours as one of the old and superstitious
 
-painters would have wasted on the negro king who brought gifts to
+painters would have wasted on the negro [[King|king]] who brought gifts to
 
-Christ. But the improvement of advertisements is the degradation of
+[[Christ]]. But the improvement of advertisements is the degradation of
 
 artists. It is their degradation for this clear and vital reason: that
 
-the artist will work, not only to please the rich, but only to increase
+the [[Artist|artist]] will work, not only to please the rich, but only to increase
 
 their riches; which is a considerable step lower. After all, it was as
 
@@ -200,7 +200,7 @@ which the Pope ordered of Raphael. And no one who knows the small-minded
 
 cynicism of our plutocracy, its secrecy, its gambling spirit, its
 
-contempt of conscience, can doubt that the artist-advertiser will often
+contempt of [[Conscience|conscience]], can [[Doubt|doubt]] that the [[Artist|artist]]-advertiser will often
 
 be assisting enterprises over which he will have no moral control, and
 
@@ -216,7 +216,7 @@ brethren, and the noble duty of praise. For that picture by Millais is
 
 a very allegorical picture. It is almost a prophecy of what uses are
 
-awaiting the beauty of the child unborn. The praise will be of a kind
+awaiting the [[Beauty|beauty]] of the [[Child|child]] [[unborn]]. The praise will be of a kind
 
 that may correctly be called soap; and the enterprises of a kind that
 

@@ -15,15 +15,15 @@ tags:
 
 
 ‘All right,’ said the ‘Admiral,’ and off the thing thundered, like a
-fire-engine at full gallop, with the kidnapped customer inside,
+[[Fire|fire]]-engine at full gallop, with the kidnapped customer inside,
 standing in the position of a half doubled-up bootjack, and falling
-about with every jerk of the machine, first on the one side, and then
+about with every jerk of the [[Machine|machine]], first on the one side, and then
 on the other, like a ‘Jack-in-the-green,’ on May-day, setting to the
 lady with a brass ladle.
 
 ‘For Heaven’s sake, where am I to sit?’ inquired the miserable man of
 an old gentleman, into whose stomach he had just fallen for the fourth
-time.
+[[Time|time]].
 
 ‘Anywhere but on my _chest_, sir,’ replied the old gentleman in a surly
 tone.
@@ -33,10 +33,10 @@ damp lawyer’s clerk, in a pink shirt, and a smirking countenance.
 
 After a great deal of struggling and falling about, Dumps at last
 managed to squeeze himself into a seat, which, in addition to the
-slight disadvantage of being between a window that would not shut, and
+slight disadvantage of being between a [[Window|window]] that would not shut, and
 a door that must be open, placed him in close contact with a passenger,
 who had been walking about all the morning without an umbrella, and who
-looked as if he had spent the day in a full water-butt—only wetter.
+looked as if he had spent the day in a full [[Water|water]]-butt—only wetter.
 
 ‘Don’t bang the door so,’ said Dumps to the conductor, as he shut it
 after letting out four of the passengers; I am very nervous—it destroys
@@ -57,9 +57,9 @@ proof of the assertion.
 sitting opposite Dumps, ‘I beg your pardon; but have you ever observed,
 when you have been in an omnibus on a wet day, that four people out of
 five always come in with large cotton umbrellas, without a handle at
-the top, or the brass spike at the bottom?’
+the top, or the brass spike at the [[Bottom|bottom]]?’
 
-‘Why, sir,’ returned Dumps, as he heard the clock strike twelve, ‘it
+‘Why, sir,’ returned Dumps, as he heard the [[Clock|clock]] strike twelve, ‘it
 never struck me before; but now you mention it, I—Hollo! hollo!’
 shouted the persecuted individual, as the omnibus dashed past
 Drury-lane, where he had directed to be set down.—‘Where is the cad?’
@@ -82,7 +82,7 @@ gen’lm’n as vas to be set down at Doory-lane.—Now, sir, make haste, if
 you please,’ he added, opening the door, and assisting Dumps out with
 as much coolness as if it was ‘all right.’ Dumps’s indignation was for
 once getting the better of his cynical equanimity. ‘Drury-lane!’ he
-gasped, with the voice of a boy in a cold bath for the first time.
+gasped, with the voice of a boy in a cold bath for the first [[Time|time]].
 
 ‘Doory-lane, sir?—yes, sir,—third turning on the right-hand side, sir.’
 
@@ -96,7 +96,7 @@ close by the driver.
 ‘Hollo!’ said that respectable person, standing up on the box, and
 leaning with one hand on the roof of the omnibus. ‘Hollo, Tom! tell the
 gentleman if so be as he feels aggrieved, we will take him up to the
-Edge-er (Edgeware) Road for nothing, and set him down at Doory-lane
+Edge-er (Edgeware) [[Road]] for nothing, and set him down at Doory-lane
 when we comes back. He can’t reject that, anyhow.’
 
 The argument was irresistible: Dumps paid the disputed sixpence, and in
@@ -108,10 +108,10 @@ Everything indicated that preparations were making for the reception of
 ditto wine-glasses—looking anything but transparent, with little bits
 of straw in them on the slab in the passage, just arrived. There was a
 great smell of nutmeg, port wine, and almonds, on the staircase; the
-covers were taken off the stair-carpet, and the figure of Venus on the
+covers were taken off the stair-carpet, and the figure of [[Venus]] on the
 first landing looked as if she were ashamed of the composition-candle
 in her right hand, which contrasted beautifully with the lamp-blacked
-drapery of the goddess of love. The female servant (who looked very
+drapery of the goddess of [[Love|love]]. The female servant (who looked very
 warm and bustling) ushered Dumps into a front drawing-room, very
 prettily furnished, with a plentiful sprinkling of little baskets,
 paper table-mats, china watchmen, pink and gold albums, and
@@ -127,16 +127,16 @@ it doubtful whether in his life he had ever experienced the sensation.
 cough. ‘I’m sure—hem—any friend—of Charles’s—hem—much less a relation,
 is—’
 
-‘I knew you’d say so, my love,’ said little Kitterbell, who, while he
+‘I knew you’d say so, my [[Love|love]],’ said little Kitterbell, who, while he
 appeared to be gazing on the opposite houses, was looking at his wife
 with a most affectionate air: ‘Bless you!’ The last two words were
 accompanied with a simper, and a squeeze of the hand, which stirred up
 all Uncle Dumps’s bile.
 
-‘Jane, tell nurse to bring down baby,’ said Mrs. Kitterbell, addressing
+‘Jane, tell [[Nurse|nurse]] to bring down baby,’ said Mrs. Kitterbell, addressing
 the servant. Mrs. Kitterbell was a tall, thin young lady, with very
 light hair, and a particularly white face—one of those young women who
 almost invariably, though one hardly knows why, recall to one’s mind
 the idea of a cold fillet of veal. Out went the servant, and in came
-the nurse, with a remarkably small parcel in her arms, packed up in a
+the [[Nurse|nurse]], with a remarkably small parcel in her arms, packed up in a
 blue mantle trimmed with white fur.—This was the baby.

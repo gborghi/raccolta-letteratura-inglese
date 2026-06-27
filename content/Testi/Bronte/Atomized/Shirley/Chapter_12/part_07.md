@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 12 (part 7)"
+title: "[[Shirley]] — Chapter 12 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-cry of despair; but, that cry uttered, I believe the deadly spasm passed
+cry of [[Despair|despair]]; but, that cry uttered, I believe the deadly spasm passed
 
 from his heart, that he wept abundantly, and was comforted."
 
 
 
-Shirley resumed her ballad minstrelsy. Stopping short, she remarked ere
+[[Shirley]] resumed her ballad minstrelsy. Stopping short, she remarked ere
 
 long, "One could have loved Cowper, if it were only for the sake of
 
@@ -40,7 +40,7 @@ not made to be loved by woman."
 
 "What I say. I know there is a kind of natures in the world--and very
 
-noble, elevated natures too--whom love never comes near. You might have
+noble, elevated natures too--whom [[Love|love]] never comes near. You might have
 
 sought Cowper with the intention of loving him, and you would have
 
@@ -74,7 +74,7 @@ should assert the same of them."
 
 divine by analogy? Moore never talked to me either about Cowper, or
 
-Rousseau, or love. The voice we hear in solitude told me all I know on
+Rousseau, or [[Love|love]]. The voice we hear in [[Solitude|solitude]] told me all I know on
 
 these subjects."
 
@@ -86,9 +86,9 @@ these subjects."
 
 "Not at all, as a whole. I sympathize intensely with certain qualities
 
-they possess. Certain divine sparks in their nature dazzle my eyes, and
+they possess. Certain divine sparks in their [[Nature|nature]] dazzle my eyes, and
 
-make my soul glow. Then, again, I scorn them. They are made of clay and
+make my [[Soul|soul]] glow. Then, again, I scorn them. They are made of clay and
 
 gold. The refuse and the ore make a mass of weakness: taken altogether,
 
@@ -118,7 +118,7 @@ much, now that you and he never meet."
 
 
 
-"I cannot imagine," pursued Shirley, who had lately got a habit of
+"I cannot imagine," pursued [[Shirley]], who had lately got a habit of
 
 introducing Moore's name into the conversation, even when it seemed to
 
@@ -154,19 +154,19 @@ in return?"
 
 
 
-"Shirley, men and women are so different; they are in such a different
+"[[Shirley]], men and women are so different; they are in such a different
 
 position. Women have so few things to think about, men so many. You may
 
-have a friendship for a man, while he is almost indifferent to you. Much
+have a [[Friendship|friendship]] for a man, while he is almost indifferent to you. Much
 
 of what cheers your life may be dependent on him, while not a feeling or
 
 interest of moment in his eyes may have reference to you. Robert used to
 
-be in the habit of going to London, sometimes for a week or a fortnight
+be in the habit of going to [[London]], sometimes for a week or a fortnight
 
-together. Well, while he was away, I found his absence a void. There
+together. [[Well]], while he was away, I found his absence a void. There
 
 was something wanting; Briarfield was duller. Of course, I had my usual
 
@@ -194,7 +194,7 @@ profession--a trade?"
 
 
 
-"I wish it fifty times a day. As it is, I often wonder what I came into
+"I wish it fifty times a day. As it is, I often [[Wonder|wonder]] what I came into
 
 the world for. I long to have something absorbing and compulsory to fill
 
@@ -202,13 +202,13 @@ my head and hands and to occupy my thoughts."
 
 
 
-"Can labour alone make a human being happy?"
+"Can labour [[Alone|alone]] make a human being happy?"
 
 
 
-"No; but it can give varieties of pain, and prevent us from breaking our
+"No; but it can give varieties of [[Pain|pain]], and prevent us from breaking our
 
-hearts with a single tyrant master-torture. Besides, successful labour
+hearts with a single [[Tyrant|tyrant]] master-torture. Besides, successful labour
 
 has its recompense; a vacant, weary, lonely, hopeless life has none."
 
@@ -232,7 +232,7 @@ absolutely offend men's eyes as they pass them in the street; for the
 
 rest, they should be allowed, without too much scorn, to be as absorbed,
 
-grave, plain-looking, and plain-dressed as they please."
+[[Grave|grave]], plain-looking, and plain-dressed as they please."
 
 
 
@@ -246,7 +246,7 @@ Sykes; and no one else will ever marry me."
 
 
 
-Here fell a long pause. Shirley broke it. Again the name by which she
+Here fell a long pause. [[Shirley]] broke it. Again the name by which she
 
 seemed bewitched was almost the first on her lips.
 
@@ -262,7 +262,7 @@ country."
 
 
 
-"Well, Lina, do you remember my one day noticing an inequality in your
+"[[Well]], Lina, do you remember my one day noticing an inequality in your
 
 hair--a curl wanting on that right side--and your telling me that it was
 
@@ -282,9 +282,9 @@ steal your hair?"
 
 "I don't know--yes, I do. It was my doing, not his. Everything of that
 
-sort always was my doing. He was going from home--to London, as usual;
+sort always was my doing. He was going from [[Home|home]]--to [[London]], as usual;
 
-and the night before he went, I had found in his sister's workbox a lock
+and the [[Night|night]] before he went, I had found in his sister's workbox a lock
 
 of black hair--a short, round curl. Hortense told me it was her
 
@@ -302,11 +302,11 @@ got one of his short ones. I keep his, but I dare say he has lost mine.
 
 It was my doing, and one of those silly deeds it distresses the heart
 
-and sets the face on fire to think of; one of those small but sharp
+and sets the face on [[Fire|fire]] to think of; one of those small but sharp
 
-recollections that return, lacerating your self-respect like tiny
+recollections that return, lacerating your [[Self|self]]-respect like tiny
 
-penknives, and forcing from your lips, as you sit alone, sudden,
+penknives, and forcing from your lips, as you sit [[Alone|alone]], sudden,
 
 insane-sounding interjections."
 
@@ -316,7 +316,7 @@ insane-sounding interjections."
 
 
 
-"I _do_ think myself a fool, Shirley, in some respects; I _do_ despise
+"I _do_ think myself a [[Fool|fool]], [[Shirley]], in some respects; I _do_ despise
 
 myself. But I said I would not make you my confessor, for you cannot
 
@@ -338,7 +338,7 @@ This was said in answer to a tap at the door. Miss Keeldar happened to
 
 be near it at the moment, Caroline at the other end of the room. She saw
 
-a note put into Shirley's hands, and heard the words, "From Mr. Moore,
+a note put into [[Shirley]]'s hands, and heard the words, "From Mr. Moore,
 
 ma'am."
 
@@ -356,4 +356,4 @@ Caroline sat expectant.
 
 brought, she neither opened nor read it. The rector's Fanny was
 
-presently announced, and the rector's niece went home.
+presently announced, and the rector's niece went [[Home|home]].

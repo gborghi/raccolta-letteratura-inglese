@@ -19,12 +19,12 @@ tags:
 
 
 
-“We shall sleep in jail tonight,” said Humphrey, Pump. “I know it in my bones.”
+“We shall [[Sleep|sleep]] in jail tonight,” said Humphrey, Pump. “I know it in my bones.”
 
 
 
 
-“It is enough to say,” proceeded the millionaire, “that by the law as it now stands, any innkeeper, even if he display a sign, is subject to imprisonment if he sells alcohol on premises where it has not been previously kept for three days.”
+“It is enough to say,” proceeded the millionaire, “that by the law as it now stands, any innkeeper, even if he display a sign, is subject to [[Imprisonment|imprisonment]] if he sells alcohol on premises where it has not been previously kept for three days.”
 
 
 
@@ -74,12 +74,12 @@ Mr. Leveson and Dr. Meadows looked across at each other, and on the face of the 
 
 
 
-In this he was apparently in error; for several persons present seemed to object to it. But curiously enough it was not the withered and fanatical face of the philanthropist Meadows, nor the dark and equine face of the official Leveson, which stood out most vividly as a picture of protest. The face most strangely unsympathetic with this form of charity was that of the ex-proprietor of Hugby’s Ales. His gooseberry eyes were almost dropping from his head and his words sprang from his lips before he could stop them.
+In this he was apparently in error; for several persons present seemed to object to it. But curiously enough it was not the withered and fanatical face of the philanthropist Meadows, nor the dark and equine face of the official Leveson, which stood out most vividly as a picture of protest. The face most strangely unsympathetic with this form of [[Charity|charity]] was that of the ex-proprietor of Hugby’s Ales. His gooseberry eyes were almost dropping from his head and his words sprang from his lips before he could stop them.
 
 
 
 
-“And you blooming well think you can come here like a big buffoon, you beast, and take away all my trade–”
+“And you blooming [[Well|well]] think you can come here like a big buffoon, you beast, and take away all my trade–”
 
 
 
@@ -94,27 +94,27 @@ Old Meadows turned on him with the swiftness of an adder.
 
 
 
-The brewer bubbled with a sort of bursting anger. The goats all looked at the ground as is, according to a Roman poet, the habit of the lower animals. Man (in the character of Mr. Patrick Dalroy) taking advantage of a free but fine translation of the Latin passage, “looked aloft, and with uplifted eyes beheld his own hereditary skies.”
+The brewer bubbled with a sort of bursting anger. The goats all looked at the ground as is, according to a Roman poet, the habit of the lower [[Animals|animals]]. Man (in the character of Mr. Patrick Dalroy) taking advantage of a free but fine [[Translation|translation]] of the Latin passage, “looked aloft, and with uplifted eyes beheld his own hereditary skies.”
 
 
 
 
-“Well, all I can say is,” roared Mr. Hugby, “if the police come all this way and can’t lock up a dirty loafer whose coat’s all in rags, there’s an end of me paying these fat infernal taxes and–”
+“[[Well]], all I can say is,” roared Mr. Hugby, “if the police come all this way and can’t lock up a dirty loafer whose coat’s all in rags, there’s an end of me paying these fat infernal taxes and–”
 
 
 
 
-“Yes,” said Dalroy, in a voice that fell like an axe, “there is an end of you, please God. It’s brewers like you that have made the inns stink with poison, till even good men asked for no inns at all. And you are worse than the teetotallers, for you prevented what they never knew. And as for you, eminent man of science, great philanthropist, idealist and destroyer of inns, let me give one cold fact for your information. You are not respected. You are obeyed. Why should I or anyone respect you particularly? You say you built this town and get up at daybreak to watch this town. You built it for money and you watch it for more money. Why should I respect you because you are fastidious about food, that your poor old digestion may outlive the hearts of better men? Why should you be the god of this valley, whose god is your belly, merely because you do not even love your god, but only fear him? Go home to your prayers, old man; for all men shall die. Read the Bible, if you like, as they do in your German home; and I suppose you once read it to pick texts as you now read it to pick holes. I don’t read it myself, I’m afraid, but I remember some words in old Mulligan’s translation; and I leave them with you. ‘Unless God,’” and he made a movement with his arm, so natural and yet so vast that for an instant the town really looked like a toy of bright coloured cardboard at the feet of the giant; “‘unless God build the city, their labour is but lost that build it; unless God keep the city, the watchman watcheth in vain. It is lost labour that you rise up early in the morning and eat the bread of carefulness; while He giveth His beloved sleep.’ Try and understand what that means, and never mind whether it’s Elohistic. And now, Hump, we’ll away and away. I’m tired of the green tiles over there. Come, fill up my cup,” and he banged down the cask in the car, “come saddle my horses and call out my men. And tremble, gay goats, in the midst of your glee; for you’ve no’ seen the last of my milk can and me.”
+“Yes,” said Dalroy, in a voice that fell like an axe, “there is an end of you, please God. It’s brewers like you that have made the inns stink with [[Poison|poison]], till even good men asked for no inns at all. And you are worse than the teetotallers, for you prevented what they never knew. And as for you, eminent man of science, great philanthropist, idealist and destroyer of inns, let me give one cold fact for your information. You are not respected. You are obeyed. Why should I or anyone respect you particularly? You say you built this town and get up at daybreak to watch this town. You built it for money and you watch it for more money. Why should I respect you because you are fastidious about food, that your poor old digestion may outlive the hearts of better men? Why should you be the god of this valley, whose god is your belly, merely because you do not even [[Love|love]] your god, but only [[Fear|fear]] him? Go [[Home|home]] to your prayers, old man; for all men shall die. Read the [[Bible]], if you like, as they do in your German [[Home|home]]; and I suppose you once read it to pick texts as you now read it to pick holes. I don’t read it myself, I’m afraid, but I remember some words in old Mulligan’s [[Translation|translation]]; and I leave them with you. ‘Unless God,’” and he made a movement with his arm, so natural and yet so vast that for an instant the town really looked like a toy of bright coloured cardboard at the feet of the giant; “‘unless God build the [[City|city]], their labour is but lost that build it; unless God keep the [[City|city]], the watchman watcheth in vain. It is lost labour that you rise up early in the morning and eat the bread of carefulness; while He giveth His beloved [[Sleep|sleep]].’ Try and understand what that means, and never mind whether it’s Elohistic. And now, Hump, we’ll away and away. I’m tired of the green tiles over there. Come, fill up my cup,” and he banged down the cask in the car, “come saddle my horses and call out my men. And tremble, gay goats, in the midst of your glee; for you’ve no’ seen the last of my milk can and me.”
 
 
 
 
-This song was joyously borne away with Mr. Dalroy in the disappearing car; and the motorists were miles beyond pursuit from Peaceways before they thought of halting again. But they were still beside the bank of that noble and enlarging river; and in a place of deep fern and fairy-ribboned birches with the glowing and gleaming water behind them, Patrick asked his friend to stop the car.
+This [[Song|song]] was joyously borne away with Mr. Dalroy in the disappearing car; and the motorists were miles beyond pursuit from Peaceways before they thought of halting again. But they were still beside the bank of that noble and enlarging [[River|river]]; and in a place of deep fern and fairy-ribboned birches with the glowing and gleaming [[Water|water]] behind them, Patrick asked his friend to stop the car.
 
 
 
 
-“By the way,” said Humphrey, suddenly, “there was one thing I didn’t understand. Why was he so afraid of the Public Analyst? What poison and chemicals does he put in the milk?”
+“By the way,” said Humphrey, suddenly, “there was one thing I didn’t understand. Why was he so afraid of the Public Analyst? What [[Poison|poison]] and chemicals does he put in the milk?”
 
 
 

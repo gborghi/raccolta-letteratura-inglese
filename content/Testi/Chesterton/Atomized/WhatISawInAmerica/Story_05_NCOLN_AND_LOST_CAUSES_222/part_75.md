@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 75)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 75)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-illogical good humour amid unreason and disorder is one of the real
+illogical good [[Humour|humour]] amid unreason and disorder is one of the real
 
 virtues of the English people. It is the real advantage they have in
 
@@ -24,25 +24,25 @@ reluctantly induced to call an Empire. That receptive ridicule remains
 
 with them as a secret pleasure when they are colonists--or convicts.
 
-Dickens might have written another version of the great romance, and one
+Dickens might have written another version of the great [[Romance|romance]], and one
 
-in which America was really seen gaily by Mark instead of gloomily by
+in which [[america|America]] was really seen gaily by Mark instead of gloomily by
 
-Martin. Mark Tapley might really have made the best of America. Then
+Martin. [[Mark Tapley]] might really have made the best of [[america|America]]. Then
 
-America would have lived and danced before us like Pickwick's England, a
+[[america|America]] would have lived and danced before us like [[Pickwick]]'s England, a
 
 fairyland of happy lunatics and lovable monsters, and we might still
 
 have sympathised as much with the rhetoric of Lafayette Kettle as with
 
-the rhetoric of Wilkins Micawber, or with the violence of Chollop as
+the rhetoric of [[Wilkins Micawber]], or with the violence of Chollop as
 
-with the violence of Boythorn. That new Martin Chuzzlewit will never be
+with the violence of Boythorn. That new [[Martin Chuzzlewit]] will never be
 
 written; and the loss of it is more tragic than the loss of _Edwin
 
-Drood_. But every man who has travelled in America has seen glimpses and
+Drood_. But every man who has travelled in [[america|America]] has seen glimpses and
 
 episodes in that untold tale; and far away on the Red-Indian frontiers
 
@@ -72,9 +72,9 @@ _The Spirit of America_
 
 I suggest that diplomatists of the internationalist school should spend
 
-some of their money on staging farces and comedies of cross-purposes,
+some of their money on staging farces and comedies of [[Cross|cross]]-purposes,
 
-founded on the curious and prevalent idea that England and America have
+founded on the curious and prevalent idea that England and [[america|America]] have
 
 the same language. I know, of course, that we both inherit the glorious
 
@@ -98,7 +98,7 @@ already given the example of calling a person 'a regular guy,' which in
 
 the States is a graceful expression of respect and esteem, but which on
 
-the stage, properly handled, might surely lead the way towards a divorce
+the stage, properly handled, might surely lead the way towards a [[divorce]]
 
 or duel or something lively. Sometimes coincidence merely clinches a
 
@@ -152,7 +152,7 @@ was nothing the matter with him beyond a mistaken choice of the
 
 theatrical profession. Surely there are here the elements of a play, not
 
-to mention a cinema play. Surely a New England village maiden might find
+to mention a cinema play. Surely a [[New England]] village maiden might find
 
 herself among the wigwams in the power of the formidable and fiendish
 
@@ -192,11 +192,11 @@ stage, anyhow, the American girl may say, referring to her friend's
 
 fiancé, with a cynical wave of the cigarette, 'I suppose he's bound to
 
-come and see you.' And at this the blue blood of the Vere de Veres will
+come and see you.' And at this the blue [[Blood|blood]] of the Vere de Veres will
 
 boil over; the English lady will be deeply wounded and insulted at the
 
-suggestion that her lover only comes to see her because he is forced to
+suggestion that her [[Lover|lover]] only comes to see her because he is forced to
 
 do so. A staggering stage quarrel will then ensue, and things will go
 

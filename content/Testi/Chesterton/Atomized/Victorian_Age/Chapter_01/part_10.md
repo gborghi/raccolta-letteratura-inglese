@@ -54,7 +54,7 @@ least sentimental of his books, _Unto this Last_; but many suggestions
 
 of it are scattered through _Sesame and Lilies_, _The Political Economy
 
-of Art_, and even _Modern Painters_. On this side of his soul Ruskin
+of Art_, and even _Modern Painters_. On this side of his [[Soul|soul]] Ruskin
 
 became the second founder of Socialism. The argument was not by any
 
@@ -70,7 +70,7 @@ Ruskin was seldom so sensible and logical (right or wrong) as when he
 
 was talking about economics. He constantly talked the most glorious
 
-nonsense about landscape and natural history, which it was his business
+nonsense about landscape and natural [[history]], which it was his business
 
 to understand. Within his own limits, he talked the most cold common
 
@@ -78,9 +78,9 @@ sense about political economy, which was no business of his at all.
 
 
 
-On the other side of his literary soul, his mere unwrapping of the
+On the other side of his literary [[Soul|soul]], his mere unwrapping of the
 
-wealth and wonder of European art, he set going another influence,
+wealth and [[Wonder|wonder]] of European art, he set going another influence,
 
 earlier and vaguer than his influence on Socialism. He represented what
 
@@ -96,11 +96,11 @@ They used the mediæval imagery to blaspheme the mediæval religion.
 
 Ruskin's dark and doubtful decision to accept Catholic art but not
 
-Catholic ethics had borne rapid or even flagrant fruit by the time that
+Catholic ethics had borne rapid or even flagrant fruit by the [[Time|time]] that
 
 Swinburne, writing about a harlot, composed a learned and sympathetic
 
-and indecent parody on the Litany of the Blessed Virgin.
+and indecent [[Parody|parody]] on the [[litany|Litany]] of the Blessed Virgin.
 
 
 
@@ -126,7 +126,7 @@ is, without the funny parts. I may be wrong, but I cannot recall at this
 
 moment a single passage in which Pater's style takes a holiday or in
 
-which his wisdom plays the fool. Newman and Ruskin were as careful and
+which his wisdom plays the [[Fool|fool]]. Newman and Ruskin were as careful and
 
 graceful stylists as he. Newman and Ruskin were as serious, elaborate,
 
@@ -144,7 +144,7 @@ the keenest emotions meet is that you feel none of them.
 
 
 
-In this sense Pater may well stand for a substantial summary of the
+In this sense Pater may [[Well|well]] stand for a substantial summary of the
 
 æsthetes, apart from the purely poetical merits of men like Rossetti and
 
@@ -152,17 +152,17 @@ Swinburne. Like Swinburne and others he first attempted to use mediæval
 
 tradition without trusting it. These people wanted to see Paganism
 
-_through_ Christianity: because it involved the incidental amusement of
+_through_ [[Christianity]]: because it involved the incidental amusement of
 
-seeing through Christianity itself. They not only tried to be in all
+seeing through [[Christianity]] itself. They not only tried to be in all
 
-ages at once (which is a very reasonable ambition, though not often
+ages at once (which is a very reasonable [[Ambition|ambition]], though not often
 
 realised), but they wanted to be on all sides at once: which is
 
-nonsense. Swinburne tries to question the philosophy of Christianity in
+nonsense. Swinburne tries to question the [[philosophy]] of [[Christianity]] in
 
-the metres of a Christmas carol: and Dante Rossetti tries to write as if
+the metres of a Christmas [[carol]]: and [[Dante]] Rossetti tries to write as if
 
 he were Christina Rossetti. Certainly the almost successful summit of
 
@@ -170,15 +170,15 @@ all this attempt is Pater's superb passage on the Mona Lisa; in which he
 
 seeks to make her at once a mystery of good and a mystery of evil. The
 
-philosophy is false; even evidently false, for it bears no fruit to-day.
+[[philosophy]] is false; even evidently false, for it bears no fruit to-day.
 
-There never was a woman, not Eve herself in the instant of temptation,
+There never was a woman, not Eve herself in the instant of [[Temptation|temptation]],
 
-who could smile the same smile as the mother of Helen and the mother of
+who could smile the same smile as the mother of [[Helen]] and the mother of
 
-Mary. But it is the high-water mark of that vast attempt at an
+Mary. But it is the high-[[Water|water]] mark of that vast attempt at an
 
-impartiality reached through art: and no other mere artist ever rose so
+impartiality reached through art: and no other mere [[Artist|artist]] ever [[Rose|rose]] so
 
 high again.
 

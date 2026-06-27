@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 13 (part 4)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 13 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-They walked on by the river. They began to speak of their separate
+They walked on by the [[River|river]]. They began to speak of their separate
 plans. He would quicken his departure from England, and she would
-remain where she was, at least as long as Helena remained. The poor
+remain where she was, at least as long as [[Helena]] remained. The poor
 dear girls should have their disappointment broken to them gently, and,
 as the first preliminary, Miss Twinkleton should be confided in by
 Rosa, even in advance of the reappearance of Mr. Grewgious. It should
@@ -29,8 +29,8 @@ he did already entertain some wandering speculations whether it might
 ever come to pass that he would know more of Miss Landless.
 
 The bright, frosty day declined as they walked and spoke together. The
-sun dipped in the river far behind them, and the old city lay red
-before them, as their walk drew to a close. The moaning water cast its
+sun dipped in the [[River|river]] far behind them, and the old [[City|city]] lay red
+before them, as their walk drew to a close. The moaning [[Water|water]] cast its
 seaweed duskily at their feet, when they turned to leave its margin;
 and the rooks hovered above them with hoarse cries, darker splashes in
 the darkening air.
@@ -52,7 +52,7 @@ you think so?”
 
 Still there was that lingering tenderness in their hearts towards the
 old positions they were relinquishing, that they prolonged their
-parting. When they came among the elm-trees by the Cathedral, where
+parting. When they came among the elm-trees by the [[Cathedral]], where
 they had last sat together, they stopped as by consent, and Rosa raised
 her face to his, as she had never raised it in the old days;—for they
 were old already.
@@ -63,7 +63,7 @@ were old already.
 
 They kissed each other fervently.
 
-“Now, please take me home, Eddy, and let me be by myself.”
+“Now, please take me [[Home|home]], Eddy, and let me be by myself.”
 
 “Don’t look round, Rosa,” he cautioned her, as he drew her arm through
 his, and led her away. “Didn’t you see Jack?”

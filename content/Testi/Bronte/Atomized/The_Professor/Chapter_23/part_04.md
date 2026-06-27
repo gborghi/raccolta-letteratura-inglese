@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 22 (part 4)"
+title: "[[The Professor]] — Chapter 22 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,7 +20,7 @@ tags:
 
 “Nothing extraordinary--don’t be alarmed; he put himself under the
 
-protection of the court, compounded with his creditors--tenpence in
+protection of the [[Court|court]], compounded with his creditors--tenpence in
 
 the pound; in six weeks set up again, coaxed back his wife, and is
 
@@ -32,7 +32,7 @@ flourishing like a green bay-tree.”
 
 
 
-“Everything--from the grand piano down to the rolling-pin.”
+“Everything--from the grand piano down to the [[rolling]]-pin.”
 
 
 
@@ -76,7 +76,7 @@ sou.”
 
 I did. “But surely,” I thought to myself, “I shall not always be so
 
-poverty-stricken; I may one day buy it back yet.--Who purchased it? do
+[[Poverty|poverty]]-stricken; I may one day buy it back yet.--Who purchased it? do
 
 you know?” I asked.
 
@@ -86,11 +86,11 @@ you know?” I asked.
 
 the unpractical man--to imagine all the world is interested in what
 
-interests himself! Now, good night--I’m off for Germany to-morrow
+interests himself! Now, good [[Night|night]]--I’m off for [[Germany]] to-morrow
 
 morning; I shall be back here in six weeks, and possibly I may call
 
-and see you again; I wonder whether you’ll be still out of place!”
+and see you again; I [[Wonder|wonder]] whether you’ll be still out of place!”
 
  he laughed, as mockingly, as heartlessly as Mephistopheles, and so
 
@@ -112,11 +112,11 @@ knew.
 
 
 
-A ruffled mind makes a restless pillow; I slept little on the night
+A ruffled mind makes a restless pillow; I slept little on the [[Night|night]]
 
 after this interview; towards morning I began to doze, but hardly had my
 
-slumber become sleep, when I was roused from it by hearing a noise in
+slumber become [[Sleep|sleep]], when I was roused from it by hearing a noise in
 
 my sitting room, to which my bed-room adjoined--a step, and a shoving of
 
@@ -126,7 +126,7 @@ of the door it ceased. I listened; not a mouse stirred; perhaps I
 
 had dreamt it; perhaps a locataire had made a mistake, and entered my
 
-apartment instead of his own. It was yet but five o’clock; neither I nor
+apartment instead of his own. It was yet but five o’[[Clock|clock]]; neither I nor
 
 the day were wide awake; I turned, and was soon unconscious. When I did
 
@@ -168,7 +168,7 @@ being at length removed, I lifted from the case a large picture, in a
 
 magnificent frame; leaning it against a chair, in a position where the
 
-light from the window fell favourably upon it, I stepped back--already I
+light from the [[Window|window]] fell favourably upon it, I stepped back--already I
 
 had mounted my spectacles. A portrait-painter’s sky (the most sombre and
 
@@ -212,17 +212,17 @@ spoke:--
 
 
 
-“There is a sort of stupid pleasure in giving a child sweets, a fool his
+“There is a sort of stupid pleasure in giving a [[Child|child]] sweets, a [[Fool|fool]] his
 
-bells, a dog a bone. You are repaid by seeing the child besmear his face
+[[Bells|bells]], a dog a bone. You are repaid by seeing the [[Child|child]] besmear his face
 
-with sugar; by witnessing how the fool’s ecstasy makes a greater fool of
+with sugar; by witnessing how the [[Fool|fool]]’s ecstasy makes a greater [[Fool|fool]] of
 
-him than ever; by watching the dog’s nature come out over his bone.
+him than ever; by watching the dog’s [[Nature|nature]] come out over his bone.
 
-In giving William Crimsworth his mother’s picture, I give him sweets,
+In giving [[William Crimsworth]] his mother’s picture, I give him sweets,
 
-bells, and bone all in one; what grieves me is, that I cannot behold
+[[Bells|bells]], and bone all in one; what grieves me is, that I cannot behold
 
 the result; I would have added five shillings more to my bid if the
 
@@ -234,7 +234,7 @@ auctioneer could only have promised me that pleasure.
 
 
 
-“P.S.--You said last night you positively declined adding another item
+“P.S.--You said last [[Night|night]] you positively declined adding another item
 
 to your account with me; don’t you think I’ve saved you that trouble?”
 

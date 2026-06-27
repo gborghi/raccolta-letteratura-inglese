@@ -15,7 +15,7 @@ tags:
 
 
 In this flow of spirits and conversation, only interrupted by his usual
-plethoric symptoms, and by intervals of lunch, and from time to time by
+plethoric symptoms, and by intervals of lunch, and from [[Time|time]] to [[Time|time]] by
 some violent assault upon the Native, who wore a pair of ear-rings in
 his dark-brown ears, and on whom his European clothes sat with an
 outlandish impossibility of adjustment—being, of their own accord, and
@@ -25,7 +25,7 @@ loose, and loose where they ought to be tight—and to which he imparted
 a new grace, whenever the Major attacked him, by shrinking into them
 like a shrivelled nut, or a cold monkey—in this flow of spirits and
 conversation, the Major continued all day: so that when evening came
-on, and found them trotting through the green and leafy road near
+on, and found them trotting through the green and leafy [[Road|road]] near
 Leamington, the Major’s voice, what with talking and eating and
 chuckling and choking, appeared to be in the box under the rumble, or
 in some neighbouring hay-stack. Nor did the Major improve it at the
@@ -34,7 +34,7 @@ oppressed his organs of speech by eating and drinking, that when he
 retired to bed he had no voice at all, except to cough with, and could
 only make himself intelligible to the dark servant by gasping at him.
 
-He not only rose next morning, however, like a giant refreshed, but
+He not only [[Rose|rose]] next morning, however, like a giant refreshed, but
 conducted himself, at breakfast like a giant refreshing. At this meal
 they arranged their daily habits. The Major was to take the
 responsibility of ordering everything to eat and drink; and they were
@@ -43,7 +43,7 @@ together every day. Mr Dombey would prefer remaining in his own room,
 or walking in the country by himself, on that first day of their
 sojourn at Leamington; but next morning he would be happy to accompany
 the Major to the Pump-room, and about the town. So they parted until
-dinner-time. Mr Dombey retired to nurse his wholesome thoughts in his
+dinner-[[Time|time]]. Mr Dombey retired to [[Nurse|nurse]] his wholesome thoughts in his
 own way. The Major, attended by the Native carrying a camp-stool, a
 great-coat, and an umbrella, swaggered up and down through all the
 public places: looking into subscription books to find out who was
@@ -53,14 +53,14 @@ went. There never was a man who stood by a friend more staunchly than
 the Major, when in puffing him, he puffed himself.
 
 It was surprising how much new conversation the Major had to let off at
-dinner-time, and what occasion he gave Mr Dombey to admire his social
+dinner-[[Time|time]], and what occasion he gave Mr Dombey to admire his social
 qualities. At breakfast next morning, he knew the contents of the
 latest newspapers received; and mentioned several subjects in connexion
 with them, on which his opinion had recently been sought by persons of
 such power and might, that they were only to be obscurely hinted at. Mr
 Dombey, who had been so long shut up within himself, and who had
-rarely, at any time, overstepped the enchanted circle within which the
+rarely, at any [[Time|time]], overstepped the enchanted circle within which the
 operations of Dombey and Son were conducted, began to think this an
 improvement on his solitary life; and in place of excusing himself for
-another day, as he had thought of doing when alone, walked out with the
+another day, as he had thought of doing when [[Alone|alone]], walked out with the
 Major arm-in-arm.

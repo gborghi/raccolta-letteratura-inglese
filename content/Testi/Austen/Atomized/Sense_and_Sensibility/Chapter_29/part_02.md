@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 29 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 29 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-    find there was anything in my behaviour last night that did not
+    find there was anything in my behaviour last [[Night|night]] that did not
 
     meet your approbation; and though I am quite at a loss to discover
 
     in what point I could be so unfortunate as to offend you, I entreat
 
-    your forgiveness of what I can assure you to have been perfectly
+    your [[Forgiveness|forgiveness]] of what I can assure you to have been perfectly
 
     unintentional. I shall never reflect on my former acquaintance with
 
@@ -60,7 +60,7 @@ tags:
 
 “humble servant,
 
-“JOHN WILLOUGHBY.”
+“[[John Willoughby|JOHN WILLOUGHBY]].”
 
 
 
@@ -82,9 +82,9 @@ delicate feeling—so far from the common decorum of a gentleman, as to
 
 send a letter so impudently cruel: a letter which, instead of bringing
 
-with his desire of a release any professions of regret, acknowledged no
+with his [[Desire|desire]] of a release any professions of regret, acknowledged no
 
-breach of faith, denied all peculiar affection whatever—a letter of
+breach of [[Faith|faith]], denied all peculiar affection whatever—a letter of
 
 which every line was an insult, and which proclaimed its writer to be
 
@@ -92,7 +92,7 @@ deep in hardened villainy.
 
 
 
-She paused over it for some time with indignant astonishment; then read
+She paused over it for some [[Time|time]] with indignant astonishment; then read
 
 it again and again; but every perusal only served to increase her
 
@@ -124,7 +124,7 @@ sister, forgot that she had three letters on her lap yet unread, and so
 
 entirely forgot how long she had been in the room, that when on hearing
 
-a carriage drive up to the door, she went to the window to see who
+a carriage drive up to the door, she went to the [[Window|window]] to see who
 
 could be coming so unreasonably early, she was all astonishment to
 
@@ -142,7 +142,7 @@ its cause, admitted the excuse most readily, and Elinor, after seeing
 
 her safe off, returned to Marianne, whom she found attempting to rise
 
-from the bed, and whom she reached just in time to prevent her from
+from the bed, and whom she reached just in [[Time|time]] to prevent her from
 
 falling on the floor, faint and giddy from a long want of proper rest
 
@@ -182,13 +182,13 @@ miserable, indeed,” before her voice was entirely lost in sobs.
 
 Elinor could no longer witness this torrent of unresisted grief in
 
-silence.
+[[Silence|silence]].
 
 
 
 “Exert yourself, dear Marianne,” she cried, “if you would not kill
 
-yourself and all who love you. Think of your mother; think of her
+yourself and all who [[Love|love]] you. Think of your mother; think of her
 
 misery while _you_ suffer: for her sake you must exert yourself.”
 

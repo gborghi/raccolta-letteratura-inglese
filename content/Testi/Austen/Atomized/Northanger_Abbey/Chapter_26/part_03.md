@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 25 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 25 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -36,13 +36,13 @@ she had blushed before); “James only means to give me good advice.”
 
 He gladly received the letter, and, having read it through, with close
 
-attention, returned it saying, “Well, if it is to be so, I can only say
+attention, returned it saying, “[[Well]], if it is to be so, I can only say
 
 that I am sorry for it. Frederick will not be the first man who has
 
 chosen a wife with less sense than his family expected. I do not envy
 
-his situation, either as a lover or a son.”
+his situation, either as a [[Lover|lover]] or a son.”
 
 
 
@@ -70,7 +70,7 @@ into Miss Thorpe’s connections and fortune.
 
 
 
-“No, not very. I do not believe Isabella has any fortune at all: but
+“No, not very. I do not believe [[Isabella]] has any fortune at all: but
 
 that will not signify in your family. Your father is so very liberal!
 
@@ -78,7 +78,7 @@ He told me the other day that he only valued money as it allowed him to
 
 promote the happiness of his children.” The brother and sister looked
 
-at each other. “But,” said Eleanor, after a short pause, “would it be
+at each other. “But,” said [[Eleanor]], after a short pause, “would it be
 
 to promote his happiness, to enable him to marry such a girl? She must
 
@@ -104,7 +104,7 @@ suppose that she would part with one gentleman before the other was
 
 secured. It is all over with Frederick indeed! he is a deceased
 
-man—defunct in understanding. Prepare for your sister-in-law, Eleanor,
+man—defunct in understanding. Prepare for your sister-in-law, [[Eleanor]],
 
 and such a sister-in-law as you must delight in! open, candid, artless,
 
@@ -114,7 +114,7 @@ and knowing no disguise.”
 
 
 
-“Such a sister-in-law, Henry, I should delight in,” said Eleanor with a
+“Such a sister-in-law, Henry, I should delight in,” said [[Eleanor]] with a
 
 smile.
 
@@ -138,7 +138,7 @@ arrivals.”
 
 
 
-“You think it is all for ambition, then? And, upon my word, there are
+“You think it is all for [[Ambition|ambition]], then? And, upon my word, there are
 
 some things that seem very like it. I cannot forget that, when she
 
@@ -164,7 +164,7 @@ James, I suppose he will hardly ever recover it.”
 
 must not, in our concern for his sufferings, undervalue yours. You
 
-feel, I suppose, that in losing Isabella, you lose half yourself: you
+feel, I suppose, that in losing [[Isabella]], you lose half yourself: you
 
 feel a void in your heart which nothing else can occupy. Society is
 
@@ -184,9 +184,9 @@ difficulty, you could rely on. You feel all this?”
 
 “No,” said Catherine, after a few moments’ reflection, “I do not—ought
 
-I? To say the truth, though I am hurt and grieved, that I cannot still
+I? To say the [[Truth|truth]], though I am hurt and grieved, that I cannot still
 
-love her, that I am never to hear from her, perhaps never to see her
+[[Love|love]] her, that I am never to hear from her, perhaps never to see her
 
 again, I do not feel so very, very much afflicted as one would have
 
@@ -196,7 +196,7 @@ thought.”
 
 “You feel, as you always do, what is most to the credit of human
 
-nature. Such feelings ought to be investigated, that they may know
+[[Nature|nature]]. Such feelings ought to be investigated, that they may know
 
 themselves.”
 

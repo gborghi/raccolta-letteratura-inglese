@@ -29,7 +29,7 @@ in all the people who think they can solve a problem
 they cannot understand by abolishing everything that
 has contributed to it.  We all know these people.  If a
 barber has cut his customer's throat because the girl
-has changed her partner for a dance or donkey ride on
+has changed her partner for a [[Dance|dance]] or [[donkey]] ride on
 Hampstead Heath, there are always people to protest
 against the mere institutions that led up to it.  This
 would not have happened if barbers were abolished,
@@ -37,12 +37,12 @@ or if cutlery were abolished, or if the objection felt by
 girls to imperfectly grown beards were abolished, or if
 the girls were abolished, or if heaths and open spaces
 were abolished, or if dancing were abolished, or if
-donkeys were abolished.  But donkeys, I fear, will
+donkeys were abolished.  But donkeys, I [[Fear|fear]], will
 never be abolished.
 
 There were plenty of such donkeys in the common
 land of this particular controversy.  Some made it an
-argument against democracy, because poor Garge was
+argument against [[democracy]], because poor Garge was
 a carpenter.  Some made it an argument against Alien
 Immigration, because Misysra Ammon was a Turk.
 Some proposed that ladies should no longer be admitted
@@ -63,7 +63,7 @@ not inexcusable.  Nobody did know what had
 happened; nobody knows it to this day, of course, or it
 would be unnecessary to write this story.  No one can
 suppose this story is written from any motive save that
-of telling the plain, humdrum truth.
+of telling the plain, humdrum [[Truth|truth]].
 
 That queer confused cunning which was the only
 definable quality possessed by Hibbs However had
@@ -89,7 +89,7 @@ satisfied Mr. George.
 It was not until almost a year after that it was
 felt in philosophical circles that the last word had
 been said on the matter.  An estimate of the incident
-and of its bearing on natural and supernatural history
+and of its bearing on natural and [[Supernatural|supernatural]] [[history]]
 occurred in Professor Widge's celebrated "Historicity
 of the Petro-Piscatorial Phenomena"; which so
 profoundly affected modern thought when it came out in
@@ -99,14 +99,14 @@ critic must apply to the thaumaturgics of the Lake of
 Tiberias the same principle of criticism which Dr.
 Bunk and others have so successfully applied to the
 thaumaturgics of the Cana narrative: "Authorities
-as final as Pink and Toscher," wrote the Professor,
+as final as Pink and Toscher," wrote [[The Professor|the Professor]],
 "have now shown with an emphasis that no emancipated
 mind is entitled to question, that the Aqua-Vinic
 thaumaturgy at Cana is wholly inconsistent with the
 psychology of the 'master of the feast,' as modern
 research has analysed it; and indeed with the whole
 Judaeo-Aramaic psychology at that stage of its
-development, as well as being painfully incongruous with
+development, as [[Well|well]] as being painfully incongruous with
 the elevated ideals of the ethical teacher in question.
 But as we rise to higher levels of moral achievement,
 it will probably be found necessary to apply the Canaic
@@ -115,7 +115,7 @@ This principle has, of course, been mainly expounded
 by Huscher in the sense that the whole episode is
 unhistorical, while the alternative theory, that the wine
 was non-alcoholic and was naturally infused into the
-water, can claim on its side the impressive name of
+[[Water|water]], can claim on its side the impressive name of
 Minns.  It is clear that if we apply the same alternative
 to the so-called Miraculous Draught of Fishes we must
 either hold with Gilp, that the fishes were stuffed

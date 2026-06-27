@@ -20,7 +20,7 @@ diameter, constantly repeating these words, and shaking her fist above
 her head, and working her mouth about.
 
 “Misses Brown,” pleaded Rob, coming a little out of his corner, “I’m
-sure you wouldn’t injure a cove, on second thoughts, and in cold blood,
+sure you wouldn’t injure a cove, on second thoughts, and in cold [[Blood|blood]],
 would you?”
 
 “Don’t talk to me,” said Mrs Brown, still wrathfully pursuing her
@@ -54,7 +54,7 @@ keep it there.
 amicable posture, they had pledged each other.
 
 “Hush! If you’d be so good, Misses Brown, as to speak a little lower,”
-Rob implored. “Why, he’s pretty well, thank’ee, I suppose.”
+Rob implored. “Why, he’s pretty [[Well|well]], thank’ee, I suppose.”
 
 “You’re not out of place, Robby?” said Mrs Brown, in a wheedling tone.
 
@@ -64,12 +64,12 @@ in pay, Misses Brown.”
 “And nothing to do, Rob?”
 
 “Nothing particular to do just now, Misses Brown, but to—keep my eyes
-open,” said the Grinder, rolling them in a forlorn way.
+open,” said the Grinder, [[rolling]] them in a forlorn way.
 
 “Master abroad, Rob?”
 
 “Oh, for goodness’ sake, Misses Brown, couldn’t you gossip with a cove
-about anything else?” cried the Grinder, in a burst of despair.
+about anything else?” cried the Grinder, in a burst of [[Despair|despair]].
 
 The impetuous Mrs Brown rising directly, the tortured Grinder detained
 her, stammering “Ye-es, Misses Brown, I believe he’s abroad. What’s she
@@ -87,14 +87,14 @@ supplication.
 
 “Yes, I believe I see her once,” replied Rob.
 
-“The night she went away, Robby, eh?” said the old woman in his ear,
+“The [[Night|night]] she went away, Robby, eh?” said the old woman in his ear,
 and taking note of every change in his face. “Aha! I know it was that
-night.”
+[[Night|night]].”
 
-“Well, if you know it was that night, you know, Misses Brown,” replied
+“[[Well]], if you know it was that [[Night|night]], you know, Misses Brown,” replied
 Rob, “it’s no use putting pinchers into a cove to make him say so.
 
-“Where did they go that night, Rob? Straight away? How did they go?
+“Where did they go that [[Night|night]], Rob? Straight away? How did they go?
 Where did you see her? Did she laugh? Did she cry? Tell me all about
 it,” cried the old hag, holding him closer yet, patting the hand that
 was drawn through his arm against her other hand, and searching every
@@ -106,13 +106,13 @@ The wretched Grinder made a gasp, and a pause.
 
 “Are you dumb?” said the old woman, angrily.
 
-“Lord, Misses Brown, no! You expect a cove to be a flash of lightning.
+“Lord, Misses Brown, no! You expect a cove to be a flash of [[Lightning|lightning]].
 I wish I was the electric fluency,” muttered the bewildered Grinder.
 “I’d have a shock at somebody, that would settle their business.”
 
 “What do you say?” asked the old woman, with a grin.
 
-“I’m wishing my love to you, Misses Brown,” returned the false Rob,
+“I’m wishing my [[Love|love]] to you, Misses Brown,” returned the false Rob,
 seeking consolation in the glass. “Where did they go to first was it?
 Him and her, do you mean?”
 
@@ -132,10 +132,10 @@ different ways, I tell you Misses Brown.”
 after a moment’s silent and keen scrutiny of his face.
 
 “Why, if they weren’t a going to meet somewhere, I suppose they might
-as well have stayed at home, mightn’t they, Brown?” returned the
+as [[Well|well]] have stayed at [[Home|home]], mightn’t they, Brown?” returned the
 unwilling Grinder.
 
-“Well, Rob? Well?” said the old woman, drawing his arm yet tighter
+“[[Well]], Rob? [[Well]]?” said the old woman, drawing his arm yet tighter
 through her own, as if, in her eagerness, she were afraid of his
 slipping away.
 
@@ -143,7 +143,7 @@ slipping away.
 Grinder, who, between his sense of injury, his sense of liquor, and his
 sense of being on the rack, had become so lachrymose, that at almost
 every answer he scooped his coats into one or other of his eyes, and
-uttered an unavailing whine of remonstrance. “Did she laugh that night,
+uttered an unavailing whine of remonstrance. “Did she laugh that [[Night|night]],
 was it? Didn’t you ask if she laughed, Misses Brown?”
 
 “Or cried?” added the old woman, nodding assent.

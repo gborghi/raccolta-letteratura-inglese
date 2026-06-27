@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 35 (part 3)"
+title: "[[Shirley]] — Chapter 35 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -30,7 +30,7 @@ something, she at last said, "Miss Keeldar spent a day at the rectory
 
 about a week since. The evening came on very wintry, and we persuaded
 
-her to stay all night."
+her to stay all [[Night|night]]."
 
 
 
@@ -46,7 +46,7 @@ her to stay all night."
 
 
 
-"It was not at curling-hair time, so you are not as wise as you think;
+"It was not at curling-hair [[Time|time]], so you are not as wise as you think;
 
 and, besides, she didn't tell me."
 
@@ -56,9 +56,9 @@ and, besides, she didn't tell me."
 
 
 
-"We occupied the same room and bed. We did not sleep much; we talked the
+"We occupied the same room and bed. We did not [[Sleep|sleep]] much; we talked the
 
-whole night through."
+whole [[Night|night]] through."
 
 
 
@@ -84,11 +84,11 @@ her money, and that she refused me indignantly and scornfully (you need
 
 neither start nor blush; nor yet need you prick your trembling fingers
 
-with your needle. That is the plain truth, whether you like it or
+with your needle. That is the plain [[Truth|truth]], whether you like it or
 
 not)--if such was not the subject of her august confidences, on what
 
-point did they turn? You say you talked the whole night through; what
+point did they turn? You say you talked the whole [[Night|night]] through; what
 
 about?"
 
@@ -118,11 +118,11 @@ should always confide in each other."
 
 
 
-"Not even to Louis. What does Louis care for young ladies' secrets?"
+"Not even to Louis. What does Louis care for young ladies' [[Secrets|secrets]]?"
 
 
 
-"Robert, Shirley is a curious, magnanimous being."
+"Robert, [[Shirley]] is a curious, magnanimous being."
 
 
 
@@ -134,9 +134,9 @@ about her."
 
 "I have found her chary in showing her feelings; but when they rush out,
 
-river-like, and pass full and powerful before you--almost without leave
+[[River|river]]-like, and pass full and powerful before you--almost without leave
 
-from her--you gaze, wonder; you admire, and--I think--love her."
+from her--you gaze, [[Wonder|wonder]]; you admire, and--I think--[[Love|love]] her."
 
 
 
@@ -144,11 +144,11 @@ from her--you gaze, wonder; you admire, and--I think--love her."
 
 
 
-"Yes; at dead of night, when all the house was silent, and starlight and
+"Yes; at dead of [[Night|night]], when all the [[house]] was silent, and starlight and
 
-the cold reflection from the snow glimmered in our chamber, then I saw
+the cold reflection from the [[Snow|snow]] glimmered in our chamber, then I saw
 
-Shirley's heart."
+[[Shirley]]'s heart."
 
 
 
@@ -164,13 +164,13 @@ Shirley's heart."
 
 
 
-"Like a shrine, for it was holy; like snow, for it was pure; like
+"Like a shrine, for it was holy; like [[Snow|snow]], for it was pure; like
 
-flame, for it was warm; like death, for it was strong."
+flame, for it was warm; like [[Death|death]], for it was strong."
 
 
 
-"Can she love? tell me that."
+"Can she [[Love|love]]? tell me that."
 
 
 
@@ -198,7 +198,7 @@ He named a list of gentlemen, closing with Sir Philip Nunnely.
 
 
 
-"Of some women's, but not of Shirley's."
+"Of some women's, but not of [[Shirley]]'s."
 
 
 
@@ -278,21 +278,21 @@ constructed as to be able thoroughly to understand each other."
 
 concerning her are harsh--perhaps uncharitable. I believe, for instance,
 
-that she is incapable of love----"
+that she is incapable of [[Love|love]]----"
 
 
 
-"Shirley incapable of love!"
+"[[Shirley]] incapable of [[Love|love]]!"
 
 
 
 "That she will never marry. I imagine her jealous of compromising her
 
-pride, of relinquishing her power, of sharing her property."
+[[Pride|pride]], of relinquishing her power, of sharing her property."
 
 
 
-"Shirley has hurt your _amour propre_."
+"[[Shirley]] has hurt your _amour propre_."
 
 
 
@@ -310,13 +310,13 @@ of passion for her."
 
 kiss Miss Keeldar in my life, though she has fine lips, scarlet and
 
-round as ripe cherries; or, if I did wish it, it was the mere desire of
+round as ripe cherries; or, if I did wish it, it was the mere [[Desire|desire]] of
 
 the eye."
 
 
 
-"I doubt, now, whether you are speaking the truth. The grapes or the
+"I [[Doubt|doubt]], now, whether you are speaking the [[Truth|truth]]. The grapes or the
 
 cherries are sour--'hung too high.'"
 

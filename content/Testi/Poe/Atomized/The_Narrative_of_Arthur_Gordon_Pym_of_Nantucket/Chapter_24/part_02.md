@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 25 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,11 +20,11 @@ sound, which we found it impossible to imitate, even after repeated
 
 endeavours, and which was precisely the same with the note of the black
 
-bittern we had eaten upon the summit of the hill.
+bittern we had eaten upon the summit of the [[Hill|hill]].
 
 
 
-_March 3._ The heat of the water was now truly remarkable, and its
+_March 3._ The heat of the [[Water|water]] was now truly remarkable, and its
 
 colour was undergoing a rapid change, being no longer transparent, but
 
@@ -56,7 +56,7 @@ murmurings of Tekeli-li! Tekeli-li!
 
 
 
-_March 5._ The wind had entirely ceased, but it was evident that we
+_March 5._ The [[Wind|wind]] had entirely ceased, but it was evident that we
 
 were still hurrying on to the southward, under the influence of a
 
@@ -64,13 +64,13 @@ powerful current. And now, indeed, it would seem reasonable that we
 
 should experience some alarm at the turn events were taking--but we
 
-felt none. The countenance of Peters indicated nothing of this nature,
+felt none. The countenance of Peters indicated nothing of this [[Nature|nature]],
 
 although it wore at times an expression I could not fathom. The Polar
 
-winter appeared to be coming on--but coming without its terrors. I felt
+[[Winter|winter]] appeared to be coming on--but coming without its terrors. I felt
 
-a _numbness_ of body and mind--a dreaminess of sensation--but this was
+a _numbness_ of [[Body|body]] and mind--a dreaminess of sensation--but this was
 
 all.
 
@@ -80,9 +80,9 @@ _March 6._ The gray vapour had now arisen many more degrees above the
 
 horizon, and was gradually losing its grayness of tint. The heat of the
 
-water was extreme, even unpleasant to the touch, and its milky hue was
+[[Water|water]] was extreme, even unpleasant to the touch, and its milky hue was
 
-more evident than ever. To-day a violent agitation of the water
+more evident than ever. To-day a violent agitation of the [[Water|water]]
 
 occurred very close to the canoe. It was attended, as usual, with a
 
@@ -90,11 +90,11 @@ wild flaring up of the vapour at its summit, and a momentary division
 
 at its base. A fine white powder, resembling ashes--but certainly not
 
-such--fell over the canoe and over a large surface of the water, as the
+such--fell over the canoe and over a large surface of the [[Water|water]], as the
 
 flickering died away among the vapour and the commotion subsided in the
 
-sea. Nu-Nu now threw himself on his face in the bottom of the boat, and
+sea. Nu-Nu now threw himself on his face in the [[Bottom|bottom]] of the boat, and
 
 no persuasions could induce him to arise.
 
@@ -106,7 +106,7 @@ countrymen in destroying our companions; but he appeared to be too
 
 utterly overcome by terror to afford us any rational reply. He still
 
-obstinately lay in the bottom of the boat; and, upon our reiterating
+obstinately lay in the [[Bottom|bottom]] of the boat; and, upon our reiterating
 
 the questions as to the motive, made use only of idiotic
 
@@ -118,13 +118,13 @@ never before seen the teeth of an inhabitant of Tsalal.
 
 
 
-_March 8._ To-day there floated by us one of the white animals whose
+_March 8._ To-day there floated by us one of the white [[Animals|animals]] whose
 
 appearance upon the beach at Tsalal had occasioned so wild a commotion
 
 among the savages. I would have picked it up, but there came over me a
 
-sudden listlessness, and I forbore. The heat of the water still
+sudden listlessness, and I forbore. The heat of the [[Water|water]] still
 
 increased, and the hand could no longer be endured within it. Peters
 
@@ -140,7 +140,7 @@ in vast quantities. The range of vapour to the southward had arisen
 
 prodigiously in the horizon, and began to assume more distinctness of
 
-form. I can liken it to nothing but a limitless cataract, rolling
+form. I can liken it to nothing but a limitless cataract, [[rolling]]
 
 silently into the sea from some immense and far-distant rampart in the
 
@@ -158,7 +158,7 @@ the bulwarks of the boat. We were nearly overwhelmed by the white ashy
 
 shower which settled upon us and upon the canoe, but melted into the
 
-water as it fell. The summit of the cataract was utterly lost in the
+[[Water|water]] as it fell. The summit of the cataract was utterly lost in the
 
 dimness and the distance. Yet we were evidently approaching it with a
 
@@ -174,13 +174,13 @@ soundless winds, tearing up the enkindled ocean in their course.
 
 _March 22._ The darkness had materially increased, relieved only by the
 
-glare of the water thrown back from the white curtain before us. Many
+glare of the [[Water|water]] thrown back from the white curtain before us. Many
 
-gigantic and pallidly white birds flew continuously now from beyond the
+gigantic and pallidly white [[Birds|birds]] flew continuously now from beyond the
 
 veil, and their scream was the eternal _Tekeli-li!_ as they retreated
 
-from our vision. Hereupon Nu-Nu stirred in the bottom of the boat; but,
+from our vision. Hereupon Nu-Nu stirred in the [[Bottom|bottom]] of the boat; but,
 
 upon touching him, we found his spirit departed. And now we rushed into
 
@@ -190,7 +190,7 @@ receive us. But there arose in our pathway a shrouded human figure,
 
 very far larger in its proportions than any dweller among men. And the
 
-hue of the skin of the figure was of the perfect whiteness of the snow.
+hue of the skin of the figure was of the perfect whiteness of the [[Snow|snow]].
 
 
 
@@ -206,9 +206,9 @@ NOTE.
 
 
 
-The circumstances connected with the late sudden and distressing death
+The circumstances connected with the late sudden and distressing [[Death|death]]
 
-of Mr. Pym are already well known to the public through the medium of
+of Mr. Pym are already [[Well|well]] known to the public through the medium of
 
 the daily press. It is feared that the few remaining chapters which
 

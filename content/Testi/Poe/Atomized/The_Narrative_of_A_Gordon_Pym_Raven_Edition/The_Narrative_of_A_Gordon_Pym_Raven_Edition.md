@@ -33,17 +33,17 @@ INTRODUCTORY NOTE
 
       reasons, however, for declining to do so, some of which were of a
 
-      nature altogether private, and concern no person but myself;
+      [[Nature|nature]] altogether private, and concern no person but myself;
 
       others not so much so. One consideration which deterred me was
 
-      that, having kept no journal during a greater portion of the time
+      that, having kept no journal during a greater portion of the [[Time|time]]
 
       in which I was absent, I feared I should not be able to write,
 
-      from mere memory, a statement so minute and connected as to have
+      from mere [[Memory|memory]], a statement so minute and connected as to have
 
-      the _appearance_of that truth it would really possess, barring
+      the _appearance_of that [[Truth|truth]] it would really possess, barring
 
       only the natural and unavoidable exaggeration to which all of us
 
@@ -51,17 +51,17 @@ INTRODUCTORY NOTE
 
       in exciting the imaginative faculties. Another reason was, that
 
-      the incidents to be narrated were of a nature so positively
+      the incidents to be narrated were of a [[Nature|nature]] so positively
 
       marvellous that, unsupported as my assertions must necessarily be
 
       (except by the evidence of a single individual, and he a
 
-      half-breed Indian), I could only hope for belief among my family,
+      half-breed Indian), I could only [[Hope|hope]] for belief among my family,
 
       and those of my friends who have had reason, through life, to put
 
-      faith in my veracity—the probability being that the public at
+      [[Faith|faith]] in my veracity—the probability being that the public at
 
       large would regard what I should put forth as merely an impudent
 
@@ -81,7 +81,7 @@ INTRODUCTORY NOTE
 
       lately editor of the “Southern Literary Messenger,” a monthly
 
-      magazine, published by Mr. Thomas W. White, in the city of
+      magazine, published by Mr. Thomas W. White, in the [[City|city]] of
 
       Richmond. He strongly advised me, among others, to prepare at
 
@@ -95,7 +95,7 @@ INTRODUCTORY NOTE
 
       there were any, would give it all the better chance of being
 
-      received as truth.
+      received as [[Truth|truth]].
 
 
 
@@ -131,23 +131,23 @@ INTRODUCTORY NOTE
 
       adventures in question; for I found that, in spite of the air of
 
-      fable which had been so ingeniously thrown around that portion of
+      [[Fable|fable]] which had been so ingeniously thrown around that portion of
 
       my statement which appeared in the “Messenger” (without altering
 
       or distorting a single fact), the public were still not at all
 
-      disposed to receive it as fable, and several letters were sent to
+      disposed to receive it as [[Fable|fable]], and several letters were sent to
 
       Mr. P.’s address, distinctly expressing a conviction to the
 
       contrary. I thence concluded that the facts of my narrative would
 
-      prove of such a nature as to carry with them sufficient evidence
+      prove of such a [[Nature|nature]] as to carry with them sufficient evidence
 
       of their own authenticity, and that I had consequently little to
 
-      fear on the score of popular incredulity.
+      [[Fear|fear]] on the score of popular [[Incredulity|incredulity]].
 
 
 
@@ -183,7 +183,7 @@ CHAPTER 1
 
 
 
-      My name is Arthur Gordon Pym. My father was a respectable trader
+      My name is [[arthur|Arthur]] Gordon Pym. My father was a respectable trader
 
       in sea-stores at Nantucket, where I was born. My maternal
 
@@ -199,21 +199,21 @@ CHAPTER 1
 
       in the world, and I expected to inherit the most of his property
 
-      at his death. He sent me, at six years of age, to the school of
+      at his [[Death|death]]. He sent me, at six years of age, to the school of
 
       old Mr. Ricketts, a gentleman with only one arm and of eccentric
 
-      manners—he is well known to almost every person who has visited
+      manners—he is [[Well|well]] known to almost every person who has visited
 
       New Bedford. I stayed at his school until I was sixteen, when I
 
-      left him for Mr. E. Ronald’s academy on the hill. Here I became
+      left him for Mr. E. Ronald’s academy on the [[Hill|hill]]. Here I became
 
       intimate with the son of Mr. Barnard, a sea-captain, who
 
       generally sailed in the employ of Lloyd and Vredenburgh—Mr.
 
-      Barnard is also very well known in New Bedford, and has many
+      Barnard is also very [[Well|well]] known in New Bedford, and has many
 
       relations, I am certain, in Edgarton. His son was named Augustus,
 
@@ -223,9 +223,9 @@ CHAPTER 1
 
       always talking to me of his adventures in the South Pacific
 
-      Ocean. I used frequently to go home with him, and remain all day,
+      Ocean. I used frequently to go [[Home|home]] with him, and remain all day,
 
-      and sometimes all night. We occupied the same bed, and he would
+      and sometimes all [[Night|night]]. We occupied the same bed, and he would
 
       be sure to keep me awake until almost light, telling me stories
 
@@ -233,9 +233,9 @@ CHAPTER 1
 
       visited in his travels. At last I could not help being interested
 
-      in what he said, and by degrees I felt the greatest desire to go
+      in what he said, and by degrees I felt the greatest [[Desire|desire]] to go
 
-      to sea. I owned a sailboat called the Ariel, and worth about
+      to sea. I owned a sailboat called the [[Ariel]], and worth about
 
       seventy-five dollars. She had a half-deck or cuddy, and was
 
@@ -253,25 +253,25 @@ CHAPTER 1
 
       I will relate one of these adventures by way of introduction to a
 
-      longer and more momentous narrative. One night there was a party
+      longer and more momentous narrative. One [[Night|night]] there was a party
 
       at Mr. Barnard’s, and both Augustus and myself were not a little
 
       intoxicated toward the close of it. As usual, in such cases, I
 
-      took part of his bed in preference to going home. He went to
+      took part of his bed in preference to going [[Home|home]]. He went to
 
-      sleep, as I thought, very quietly (it being near one when the
+      [[Sleep|sleep]], as I thought, very quietly (it being near one when the
 
       party broke up), and without saying a word on his favorite topic.
 
-      It might have been half an hour from the time of our getting in
+      It might have been half an hour from the [[Time|time]] of our getting in
 
       bed, and I was just about falling into a doze, when he suddenly
 
       started up, and swore with a terrible oath that he would not go
 
-      to sleep for any Arthur Pym in Christendom, when there was so
+      to [[Sleep|sleep]] for any [[arthur|Arthur]] Pym in Christendom, when there was so
 
       glorious a breeze from the southwest. I never was so astonished
 
@@ -285,7 +285,7 @@ CHAPTER 1
 
       sober in his life. He was only tired, he added, of lying in bed
 
-      on such a fine night like a dog, and was determined to get up and
+      on such a fine [[Night|night]] like a dog, and was determined to get up and
 
       dress, and go out on a frolic with the boat. I can hardly tell
 
@@ -309,7 +309,7 @@ CHAPTER 1
 
 
 
-      We lost no time in getting on our clothes and hurrying down to
+      We lost no [[Time|time]] in getting on our clothes and hurrying down to
 
       the boat. She was lying at the old decayed wharf by the
 
@@ -317,15 +317,15 @@ CHAPTER 1
 
       against the rough logs. Augustus got into her and bailed her, for
 
-      she was nearly half full of water. This being done, we hoisted
+      she was nearly half full of [[Water|water]]. This being done, we hoisted
 
       jib and mainsail, kept full, and started boldly out to sea.
 
 
 
-      The wind, as I before said, blew freshly from the southwest. The
+      The [[Wind|wind]], as I before said, blew freshly from the southwest. The
 
-      night was very clear and cold. Augustus had taken the helm, and I
+      [[Night|night]] was very clear and cold. Augustus had taken the helm, and I
 
       stationed myself by the mast, on the deck of the cuddy. We flew
 
@@ -333,17 +333,17 @@ CHAPTER 1
 
       casting loose from the wharf. I now asked my companion what
 
-      course he intended to steer, and what time he thought it probable
+      course he intended to steer, and what [[Time|time]] he thought it probable
 
       we should get back. He whistled for a few minutes, and then said
 
-      crustily: “_I_ am going to sea—_you_ may go home if you think
+      crustily: “_I_ am going to sea—_you_ may go [[Home|home]] if you think
 
       proper.” Turning my eyes upon him, I perceived at once that, in
 
       spite of his assumed _nonchalance_, he was greatly agitated. I
 
-      could see him distinctly by the light of the moon—his face was
+      could see him distinctly by the light of the [[Moon|moon]]—his face was
 
       paler than any marble, and his hand shook so excessively that he
 
@@ -353,13 +353,13 @@ CHAPTER 1
 
       knew little about the management of a boat, and was now depending
 
-      entirely upon the nautical skill of my friend. The wind, too, had
+      entirely upon the nautical skill of my friend. The [[Wind|wind]], too, had
 
       suddenly increased, as we were fast getting out of the lee of the
 
       land—still I was ashamed to betray any trepidation, and for
 
-      almost half an hour maintained a resolute silence. I could stand
+      almost half an hour maintained a resolute [[Silence|silence]]. I could stand
 
       it no longer, however, and spoke to Augustus about the propriety
 
@@ -367,7 +367,7 @@ CHAPTER 1
 
       answer, or took any notice of my suggestion. “By-and-by,” said he
 
-      at length—“time enough—home by-and-by.” I had expected a similar
+      at length—“[[Time|time]] enough—[[Home|home]] by-and-by.” I had expected a similar
 
       reply, but there was something in the tone of these words which
 
@@ -385,9 +385,9 @@ CHAPTER 1
 
       apparent surprise, letting go the tiller at the same moment, and
 
-      falling forward into the bottom of the boat—“matter—why, nothing
+      falling forward into the [[Bottom|bottom]] of the boat—“matter—why, nothing
 
-      is the—matter—going home—d—d—don’t you see?” The whole truth now
+      is the—matter—going [[Home|home]]—d—d—don’t you see?” The whole [[Truth|truth]] now
 
       flashed upon me. I flew to him and raised him up. He was
 
@@ -395,9 +395,9 @@ CHAPTER 1
 
       see. His eyes were perfectly glazed; and as I let him go in the
 
-      extremity of my despair, he rolled like a mere log into the
+      extremity of my [[Despair|despair]], he rolled like a mere log into the
 
-      bilge-water, from which I had lifted him. It was evident that,
+      bilge-[[Water|water]], from which I had lifted him. It was evident that,
 
       during the evening, he had drunk far more than I suspected, and
 
@@ -405,15 +405,15 @@ CHAPTER 1
 
       highly-concentrated state of intoxication—a state which, like
 
-      madness, frequently enables the victim to imitate the outward
+      [[Madness|madness]], frequently enables the victim to imitate the outward
 
       demeanour of one in perfect possession of his senses. The
 
-      coolness of the night air, however, had had its usual effect—the
+      coolness of the [[Night|night]] air, however, had had its usual effect—the
 
       mental energy began to yield before its influence—and the
 
-      confused perception which he no doubt then had of his perilous
+      confused perception which he no [[Doubt|doubt]] then had of his perilous
 
       situation had assisted in hastening the catastrophe. He was now
 
@@ -429,9 +429,9 @@ CHAPTER 1
 
       timid and irresolute. I knew that I was altogether incapable of
 
-      managing the boat, and that a fierce wind and strong ebb tide
+      managing the boat, and that a fierce [[Wind|wind]] and strong ebb tide
 
-      were hurrying us to destruction. A storm was evidently gathering
+      were hurrying us to destruction. A [[Storm|storm]] was evidently gathering
 
       behind us; we had neither compass nor provisions; and it was
 
@@ -445,7 +445,7 @@ CHAPTER 1
 
       the possibility of making any exertion. The boat was going
 
-      through the water at a terrible rate—full before the wind—no reef
+      through the [[Water|water]] at a terrible rate—full before the [[Wind|wind]]—no reef
 
       in either jib or mainsail—running her bows completely under the
 
@@ -457,35 +457,35 @@ CHAPTER 1
 
       kept steady, and gradually I recovered some degree of presence of
 
-      mind. Still the wind was increasing fearfully, and whenever we
+      mind. Still the [[Wind|wind]] was increasing fearfully, and whenever we
 
-      rose from a plunge forward, the sea behind fell combing over our
+      [[Rose|rose]] from a plunge forward, the sea behind fell combing over our
 
-      counter, and deluged us with water. I was so utterly benumbed,
+      counter, and deluged us with [[Water|water]]. I was so utterly benumbed,
 
       too, in every limb, as to be nearly unconscious of sensation. At
 
-      length I summoned up the resolution of despair, and rushing to
+      length I summoned up the resolution of [[Despair|despair]], and rushing to
 
       the mainsail let it go by the run. As might have been expected,
 
-      it flew over the bows, and, getting drenched with water, carried
+      it flew over the bows, and, getting drenched with [[Water|water]], carried
 
-      away the mast short off by the board. This latter accident alone
+      away the mast short off by the board. This latter accident [[Alone|alone]]
 
       saved me from instant destruction. Under the jib only, I now
 
-      boomed along before the wind, shipping heavy seas occasionally
+      boomed along before the [[Wind|wind]], shipping heavy seas occasionally
 
       over the counter, but relieved from the terror of immediate
 
-      death. I took the helm, and breathed with greater freedom as I
+      [[Death|death]]. I took the helm, and breathed with greater [[Freedom|freedom]] as I
 
       found that there yet remained to us a chance of ultimate escape.
 
-      Augustus still lay senseless in the bottom of the boat; and as
+      Augustus still lay senseless in the [[Bottom|bottom]] of the boat; and as
 
-      there was imminent danger of his drowning (the water being nearly
+      there was imminent danger of his drowning (the [[Water|water]] being nearly
 
       a foot deep just where he fell), I contrived to raise him
 
@@ -493,7 +493,7 @@ CHAPTER 1
 
       rope round his waist, and lashing it to a ringbolt in the deck of
 
-      the cuddy. Having thus arranged every thing as well as I could in
+      the cuddy. Having thus arranged every thing as [[Well|well]] as I could in
 
       my chilled and agitated condition, I recommended myself to God,
 
@@ -513,11 +513,11 @@ CHAPTER 1
 
       experienced at that moment. My hair stood erect on my head—I felt
 
-      the blood congealing in my veins—my heart ceased utterly to beat,
+      the [[Blood|blood]] congealing in my veins—my heart ceased utterly to beat,
 
       and without having once raised my eyes to learn the source of my
 
-      alarm, I tumbled headlong and insensible upon the body of my
+      alarm, I tumbled headlong and insensible upon the [[Body|body]] of my
 
       fallen companion.
 
@@ -525,19 +525,19 @@ CHAPTER 1
 
       I found myself, upon reviving, in the cabin of a large
 
-      whaling-ship (the Penguin) bound to Nantucket. Several persons
+      whaling-[[Ship|ship]] (the Penguin) bound to Nantucket. Several persons
 
-      were standing over me, and Augustus, paler than death, was busily
+      were standing over me, and Augustus, paler than [[Death|death]], was busily
 
       occupied in chafing my hands. Upon seeing me open my eyes, his
 
       exclamations of gratitude and joy excited alternate laughter and
 
-      tears from the rough-looking personages who were present. The
+      [[Tears|tears]] from the rough-looking personages who were present. The
 
       mystery of our being in existence was now soon explained. We had
 
-      been run down by the whaling-ship, which was close-hauled,
+      been run down by the whaling-[[Ship|ship]], which was close-hauled,
 
       beating up to Nantucket with every sail she could venture to set,
 
@@ -549,7 +549,7 @@ CHAPTER 1
 
       in contact—their shouts of warning upon seeing us were what so
 
-      terribly alarmed me. The huge ship, I was told, rode immediately
+      terribly alarmed me. The huge [[Ship|ship]], I was told, rode immediately
 
       over us with as much ease as our own little vessel would have
 
@@ -559,7 +559,7 @@ CHAPTER 1
 
       the victim—there was a slight grating sound to be heard mingling
 
-      with the roar of wind and water, as the frail bark which was
+      with the roar of [[Wind|wind]] and [[Water|water]], as the frail bark which was
 
       swallowed up rubbed for a moment along the keel of her
 
@@ -567,7 +567,7 @@ CHAPTER 1
 
       remembered was dismasted) some mere shell cut adrift as useless,
 
-      the captain (Captain E. T. V. Block, of New London) was for
+      the captain (Captain E. T. V. Block, of New [[London]]) was for
 
       proceeding on his course without troubling himself further about
 
@@ -581,7 +581,7 @@ CHAPTER 1
 
       was no business of his to be eternally watching for egg-shells;
 
-      that the ship should not put about for any such nonsense; and if
+      that the [[Ship|ship]] should not put about for any such nonsense; and if
 
       there was a man run down, it was nobody’s fault but his own, he
 
@@ -589,7 +589,7 @@ CHAPTER 1
 
       Henderson, the first mate, now took the matter up, being justly
 
-      indignant, as well as the whole ship’s crew, at a speech evincing
+      indignant, as [[Well|well]] as the whole [[Ship|ship]]’s crew, at a speech evincing
 
       so base a degree of heartless atrocity. He spoke plainly, seeing
 
@@ -603,7 +603,7 @@ CHAPTER 1
 
       on one side, and seizing the helm, gave the word, in a firm
 
-      voice, Hard-a-lee! The men flew to their posts, and the ship went
+      voice, Hard-a-lee! The men flew to their posts, and the [[Ship|ship]] went
 
       cleverly about. All this had occupied nearly five minutes, and it
 
@@ -619,59 +619,59 @@ CHAPTER 1
 
       which are attributed by the wise and pious to the special
 
-      interference of Providence.
+      interference of [[Providence]].
 
 
 
-      While the ship was yet in stays, the mate lowered the jolly-boat
+      While the [[Ship|ship]] was yet in stays, the mate lowered the jolly-boat
 
       and jumped into her with the very two men, I believe, who spoke
 
       up as having seen me at the helm. They had just left the lee of
 
-      the vessel (the moon still shining brightly) when she made a long
+      the vessel (the [[Moon|moon]] still shining brightly) when she made a long
 
       and heavy roll to windward, and Henderson, at the same moment,
 
-      starting up in his seat bawled out to his crew to back water. He
+      starting up in his seat bawled out to his crew to back [[Water|water]]. He
 
-      would say nothing else—repeating his cry impatiently, back water!
+      would say nothing else—repeating his cry impatiently, back [[Water|water]]!
 
-      back water! The men put back as speedily as possible, but by this
+      back [[Water|water]]! The men put back as speedily as possible, but by this
 
-      time the ship had gone round, and gotten fully under headway,
+      [[Time|time]] the [[Ship|ship]] had gone round, and gotten fully under headway,
 
       although all hands on board were making great exertions to take
 
       in sail. In despite of the danger of the attempt, the mate clung
 
-      to the main-chains as soon as they came within his reach. Another
+      to the main-[[Chains|chains]] as soon as they came within his reach. Another
 
       huge lurch now brought the starboard side of the vessel out of
 
-      water nearly as far as her keel, when the cause of his anxiety
+      [[Water|water]] nearly as far as her keel, when the cause of his anxiety
 
-      was rendered obvious enough. The body of a man was seen to be
+      was rendered obvious enough. The [[Body|body]] of a man was seen to be
 
       affixed in the most singular manner to the smooth and shining
 
-      bottom (the Penguin was coppered and copper-fastened), and
+      [[Bottom|bottom]] (the Penguin was coppered and copper-fastened), and
 
       beating violently against it with every movement of the hull.
 
       After several ineffectual efforts, made during the lurches of the
 
-      ship, and at the imminent risk of swamping the boat I was finally
+      [[Ship|ship]], and at the imminent risk of swamping the boat I was finally
 
       disengaged from my perilous situation and taken on board—for the
 
-      body proved to be my own. It appeared that one of the
+      [[Body|body]] proved to be my own. It appeared that one of the
 
       timber-bolts having started and broken a passage through the
 
-      copper, it had arrested my progress as I passed under the ship,
+      copper, it had arrested my progress as I passed under the [[Ship|ship]],
 
-      and fastened me in so extraordinary a manner to her bottom. The
+      and fastened me in so extraordinary a manner to her [[Bottom|bottom]]. The
 
       head of the bolt had made its way through the collar of the green
 
@@ -691,9 +691,9 @@ CHAPTER 1
 
 
 
-      In the meantime, Henderson had again put off from the ship,
+      In the meantime, Henderson had again put off from the [[Ship|ship]],
 
-      although the wind was now blowing almost a hurricane. He had not
+      although the [[Wind|wind]] was now blowing almost a hurricane. He had not
 
       been gone many minutes when he fell in with some fragments of our
 
@@ -707,7 +707,7 @@ CHAPTER 1
 
       signals to return were made them by Captain Block, and although
 
-      every moment on the water in so frail a boat was fraught to them
+      every moment on the [[Water|water]] in so frail a boat was fraught to them
 
       with the most imminent and deadly peril. Indeed, it is nearly
 
@@ -723,15 +723,15 @@ CHAPTER 1
 
 
 
-      After searching in vain for about the period of time just
+      After searching in vain for about the period of [[Time|time]] just
 
-      mentioned, it was determined to get back to the ship. They had
+      mentioned, it was determined to get back to the [[Ship|ship]]. They had
 
       scarcely made this resolve when a feeble cry arose from a dark
 
       object that floated rapidly by. They pursued and soon overtook
 
-      it. It proved to be the entire deck of the Ariel’s cuddy.
+      it. It proved to be the entire deck of the [[Ariel]]’s cuddy.
 
       Augustus was struggling near it, apparently in the last agonies.
 
@@ -745,17 +745,17 @@ CHAPTER 1
 
       doing, it appeared, had been ultimately the means of preserving
 
-      his life. The Ariel was slightly put together, and in going down
+      his life. The [[Ariel]] was slightly put together, and in going down
 
       her frame naturally went to pieces; the deck of the cuddy, as
 
-      might have been expected, was lifted, by the force of the water
+      might have been expected, was lifted, by the force of the [[Water|water]]
 
       rushing in, entirely from the main timbers, and floated (with
 
-      other fragments, no doubt) to the surface—Augustus was buoyed up
+      other fragments, no [[Doubt|doubt]]) to the surface—Augustus was buoyed up
 
-      with it, and thus escaped a terrible death.
+      with it, and thus escaped a terrible [[Death|death]].
 
 
 
@@ -763,11 +763,11 @@ CHAPTER 1
 
       before he could give any account of himself, or be made to
 
-      comprehend the nature of the accident which had befallen our
+      comprehend the [[Nature|nature]] of the accident which had befallen our
 
       boat. At length he became thoroughly aroused, and spoke much of
 
-      his sensations while in the water. Upon his first attaining any
+      his sensations while in the [[Water|water]]. Upon his first attaining any
 
       degree of consciousness, he found himself beneath the surface,
 
@@ -785,13 +785,13 @@ CHAPTER 1
 
       greatest degree clouded and confused. He now knew that some
 
-      accident had occurred, and that he was in the water, although his
+      accident had occurred, and that he was in the [[Water|water]], although his
 
       mouth was above the surface, and he could breathe with some
 
-      freedom. Possibly, at this period the deck was drifting rapidly
+      [[Freedom|freedom]]. Possibly, at this period the deck was drifting rapidly
 
-      before the wind, and drawing him after it, as he floated upon his
+      before the [[Wind|wind]], and drawing him after it, as he floated upon his
 
       back. Of course, as long as he could have retained this position,
 
@@ -809,9 +809,9 @@ CHAPTER 1
 
       of his struggles he had not the faintest recollection of the
 
-      Ariel, nor of the matters in connexion with the source of his
+      [[Ariel]], nor of the matters in connexion with the source of his
 
-      disaster. A vague feeling of terror and despair had taken entire
+      disaster. A vague feeling of terror and [[Despair|despair]] had taken entire
 
       possession of his faculties. When he was finally picked up, every
 
@@ -821,7 +821,7 @@ CHAPTER 1
 
       became fully aware of his condition. In regard to myself—I was
 
-      resuscitated from a state bordering very nearly upon death (and
+      resuscitated from a state bordering very nearly upon [[Death|death]] (and
 
       after every other means had been tried in vain for three hours
 
@@ -835,15 +835,15 @@ CHAPTER 1
 
 
 
-      The Penguin got into port about nine o’clock in the morning,
+      The Penguin got into port about nine o’[[Clock|clock]] in the morning,
 
       after encountering one of the severest gales ever experienced off
 
       Nantucket. Both Augustus and myself managed to appear at Mr.
 
-      Barnard’s in time for breakfast—which, luckily, was somewhat
+      Barnard’s in [[Time|time]] for breakfast—which, luckily, was somewhat
 
-      late, owing to the party over night. I suppose all at the table
+      late, owing to the party over [[Night|night]]. I suppose all at the table
 
       were too much fatigued themselves to notice our jaded
 
@@ -851,7 +851,7 @@ CHAPTER 1
 
       scrutiny. Schoolboys, however, can accomplish wonders in the way
 
-      of deception, and I verily believe not one of our friends in
+      of [[Deception|deception]], and I verily believe not one of our friends in
 
       Nantucket had the slightest suspicion that the terrible story
 
@@ -859,13 +859,13 @@ CHAPTER 1
 
       sea and drowned some thirty or forty poor devils, had reference
 
-      either to the Ariel, my companion, or myself. We two have since
+      either to the [[Ariel]], my companion, or myself. We two have since
 
       very frequently talked the matter over—but never without a
 
       shudder. In one of our conversations Augustus frankly confessed
 
-      to me, that in his whole life he had at no time experienced so
+      to me, that in his whole life he had at no [[Time|time]] experienced so
 
       excruciating a sense of dismay, as when on board our little boat
 
@@ -897,13 +897,13 @@ CHAPTER 2
 
       the sea. On the contrary, I never experienced a more ardent
 
-      longing for the wild adventures incident to the life of a
+      [[Longing|longing]] for the wild adventures incident to the life of a
 
       navigator than within a week after our miraculous deliverance.
 
       This short period proved amply long enough to erase from my
 
-      memory the shadows, and bring out in vivid light all the
+      [[Memory|memory]] the shadows, and bring out in vivid light all the
 
       pleasurably exciting points of color, all the picturesqueness, of
 
@@ -913,31 +913,31 @@ CHAPTER 2
 
       manner of relating his stories of the ocean (more than one half
 
-      of which I now suspect to have been sheer fabrications) well
+      of which I now suspect to have been sheer fabrications) [[Well|well]]
 
       adapted to have weight with one of my enthusiastic temperament
 
-      and somewhat gloomy although glowing imagination. It is strange,
+      and somewhat gloomy although glowing [[Imagination|imagination]]. It is strange,
 
       too, that he most strongly enlisted my feelings in behalf of the
 
       life of a seaman, when he depicted his more terrible moments of
 
-      suffering and despair. For the bright side of the painting I had
+      [[Suffering|suffering]] and [[Despair|despair]]. For the bright side of the painting I had
 
       a limited sympathy. My visions were of shipwreck and famine; of
 
-      death or captivity among barbarian hordes; of a lifetime dragged
+      [[Death|death]] or captivity among barbarian hordes; of a lifetime dragged
 
-      out in sorrow and tears, upon some gray and desolate rock, in an
+      out in sorrow and [[Tears|tears]], upon some gray and desolate rock, in an
 
       ocean unapproachable and unknown. Such visions or desires—for
 
       they amounted to desires—are common, I have since been assured,
 
-      to the whole numerous race of the melancholy among men—at the
+      to the whole numerous race of the [[Melancholy|melancholy]] among men—at the
 
-      time of which I speak I regarded them only as prophetic glimpses
+      [[Time|time]] of which I speak I regarded them only as prophetic glimpses
 
       of a destiny which I felt myself in a measure bound to fulfil.
 
@@ -949,9 +949,9 @@ CHAPTER 2
 
 
 
-      About eighteen months after the period of the Ariel’s disaster,
+      About eighteen months after the period of the [[Ariel]]’s disaster,
 
-      the firm of Lloyd and Vredenburgh (a house connected in some
+      the firm of Lloyd and Vredenburgh (a [[house]] connected in some
 
       manner with the Messieurs Enderby, I believe, of Liverpool) were
 
@@ -969,7 +969,7 @@ CHAPTER 2
 
       ready, he frequently urged upon me the excellency of the
 
-      opportunity now offered for indulging my desire of travel. He
+      opportunity now offered for indulging my [[Desire|desire]] of travel. He
 
       found me by no means an unwilling listener—yet the matter could
 
@@ -983,7 +983,7 @@ CHAPTER 2
 
       the subject to him again. These difficulties, however, so far
 
-      from abating my desire, only added fuel to the flame. I
+      from abating my [[Desire|desire]], only added fuel to the flame. I
 
       determined to go at all hazards; and, having made known my
 
@@ -997,13 +997,13 @@ CHAPTER 2
 
       abandoned the design. I have since frequently examined my conduct
 
-      on this occasion with sentiments of displeasure as well as of
+      on this occasion with sentiments of displeasure as [[Well|well]] as of
 
       surprise. The intense hypocrisy I made use of for the furtherance
 
       of my project—an hypocrisy pervading every word and action of my
 
-      life for so long a period of time—could only have been rendered
+      life for so long a period of [[Time|time]]—could only have been rendered
 
       tolerable to myself by the wild and burning expectation with
 
@@ -1013,7 +1013,7 @@ CHAPTER 2
 
 
 
-      In pursuance of my scheme of deception, I was necessarily obliged
+      In pursuance of my scheme of [[Deception|deception]], I was necessarily obliged
 
       to leave much to the management of Augustus, who was employed for
 
@@ -1021,7 +1021,7 @@ CHAPTER 2
 
       some arrangements for his father in the cabin and cabin hold. At
 
-      night, however, we were sure to have a conference and talk over
+      [[Night|night]], however, we were sure to have a conference and talk over
 
       our hopes. After nearly a month passed in this manner, without
 
@@ -1029,11 +1029,11 @@ CHAPTER 2
 
       me at last that he had determined upon everything necessary. I
 
-      had a relation living in New Bedford, a Mr. Ross, at whose house
+      had a relation living in New Bedford, a Mr. Ross, at whose [[house]]
 
       I was in the habit of spending occasionally two or three weeks at
 
-      a time. The brig was to sail about the middle of June (June,
+      a [[Time|time]]. The brig was to sail about the middle of June (June,
 
       1827), and it was agreed that, a day or two before her putting to
 
@@ -1063,7 +1063,7 @@ CHAPTER 2
 
       at the joke. Vessels enough would be met with by which a letter
 
-      might be sent home explaining the adventure to my parents.
+      might be sent [[Home|home]] explaining the adventure to my parents.
 
 
 
@@ -1071,7 +1071,7 @@ CHAPTER 2
 
       matured. The note was written and delivered, and on a Monday
 
-      morning I left the house for the New Bedford packet, as supposed.
+      morning I left the [[house]] for the New Bedford packet, as supposed.
 
       I went, however, straight to Augustus, who was waiting for me at
 
@@ -1081,7 +1081,7 @@ CHAPTER 2
 
       brig; but, as there was now a thick fog in our favor, it was
 
-      agreed to lose no time in secreting me. Augustus led the way to
+      agreed to lose no [[Time|time]] in secreting me. Augustus led the way to
 
       the wharf, and I followed at a little distance, enveloped in a
 
@@ -1089,15 +1089,15 @@ CHAPTER 2
 
       person might not be easily recognized. Just as we turned the
 
-      second corner, after passing Mr. Edmund’s well, who should
+      second corner, after passing Mr. [[Edmund]]’s [[Well|well]], who should
 
       appear, standing right in front of me, and looking me full in the
 
-      face, but old Mr. Peterson, my grandfather. “Why, bless my soul,
+      face, but old Mr. Peterson, my grandfather. “Why, bless my [[Soul|soul]],
 
       Gordon,” said he, after a long pause, “why, why,—whose dirty
 
-      cloak is that you have on?” “Sir!” I replied, assuming, as well
+      cloak is that you have on?” “Sir!” I replied, assuming, as [[Well|well]]
 
       as I could, in the exigency of the moment, an air of offended
 
@@ -1127,7 +1127,7 @@ CHAPTER 2
 
       muttering between his teeth: “Won’t do—new glasses—thought it was
 
-      Gordon—d—d good-for-nothing salt water Long Tom.”
+      Gordon—d—d good-for-nothing salt [[Water|water]] Long Tom.”
 
 
 
@@ -1139,7 +1139,7 @@ CHAPTER 2
 
       doing something to the forecastle combings. Captain Barnard, we
 
-      knew very well, was engaged at Lloyd and Vredenburgh’s, and would
+      knew very [[Well|well]], was engaged at Lloyd and Vredenburgh’s, and would
 
       remain there until late in the evening, so we had little to
 
@@ -1161,11 +1161,11 @@ CHAPTER 2
 
       and staterooms. The ceiling was full seven feet high, and, in
 
-      short, every thing appeared of a more roomy and agreeable nature
+      short, every thing appeared of a more roomy and agreeable [[Nature|nature]]
 
       than I had anticipated. Augustus, however, would allow me but
 
-      little time for observation, insisting upon the necessity of my
+      little [[Time|time]] for observation, insisting upon the necessity of my
 
       concealing myself as soon as possible. He led the way into his
 
@@ -1203,7 +1203,7 @@ CHAPTER 2
 
       been neatly cut out and again adjusted. As he pressed, this
 
-      portion rose up at one end sufficiently to allow the passage of
+      portion [[Rose|rose]] up at one end sufficiently to allow the passage of
 
       his finger beneath. In this manner he raised the mouth of the
 
@@ -1251,7 +1251,7 @@ CHAPTER 2
 
       to the ceiling, a complete chaos of almost every species of
 
-      ship-furniture, together with a heterogeneous medley of crates,
+      [[Ship|ship]]-furniture, together with a heterogeneous medley of crates,
 
       hampers, barrels, and bales, so that it seemed a matter no less
 
@@ -1273,11 +1273,11 @@ CHAPTER 2
 
       interior, at which I was excessively amused. A mattress from one
 
-      of the cabin berths covered the whole of its bottom, and it
+      of the cabin berths covered the whole of its [[Bottom|bottom]], and it
 
       contained almost every article of mere comfort which could be
 
-      crowded into so small a space, allowing me, at the same time,
+      crowded into so small a space, allowing me, at the same [[Time|time]],
 
       sufficient room for my accommodation, either in a sitting
 
@@ -1285,7 +1285,7 @@ CHAPTER 2
 
       some books, pen, ink, and paper, three blankets, a large jug full
 
-      of water, a keg of sea-biscuit, three or four immense Bologna
+      of [[Water|water]], a keg of sea-biscuit, three or four immense Bologna
 
       sausages, an enormous ham, a cold leg of roast mutton, and half a
 
@@ -1341,7 +1341,7 @@ CHAPTER 2
 
       coming down to me. At length I heard the trap open and shut, and
 
-      presently he called in a low voice, asking if all was well, and
+      presently he called in a low voice, asking if all was [[Well|well]], and
 
       if there was any thing I wanted. “Nothing,” I replied; “I am as
 
@@ -1349,11 +1349,11 @@ CHAPTER 2
 
       under weigh in less than half an hour,” he answered. “I came to
 
-      let you know, and for fear you should be uneasy at my absence. I
+      let you know, and for [[Fear|fear]] you should be uneasy at my absence. I
 
       shall not have a chance of coming down again for some
 
-      time—perhaps for three or four days more. All is going on right
+      [[Time|time]]—perhaps for three or four days more. All is going on right
 
       aboveboard. After I go up and close the trap, do you creep along
 
@@ -1361,7 +1361,7 @@ CHAPTER 2
 
       watch there—it may be useful to you, as you have no daylight to
 
-      keep time by. I suppose you can’t tell how long you have been
+      keep [[Time|time]] by. I suppose you can’t tell how long you have been
 
       buried—only three days—this is the twentieth. I would bring the
 
@@ -1393,13 +1393,13 @@ CHAPTER 2
 
       of a former position. At length I reached the nail, and securing
 
-      the object of my journey, returned with it in safety. I now
+      the object of my [[Journey|journey]], returned with it in safety. I now
 
       looked over the books which had been so thoughtfully provided,
 
       and selected the expedition of Lewis and Clarke to the mouth of
 
-      the Columbia. With this I amused myself for some time, when,
+      the Columbia. With this I amused myself for some [[Time|time]], when,
 
       growing sleepy, I extinguished the light with great care, and
 
@@ -1407,7 +1407,7 @@ CHAPTER 2
 
 
 
-      Upon awakening I felt strangely confused in mind, and some time
+      Upon awakening I felt strangely confused in mind, and some [[Time|time]]
 
       elapsed before I could bring to recollection all the various
 
@@ -1423,7 +1423,7 @@ CHAPTER 2
 
       almost ravenous appetite, I bethought myself of the cold mutton,
 
-      some of which I had eaten just before going to sleep, and found
+      some of which I had eaten just before going to [[Sleep|sleep]], and found
 
       excellent. What was my astonishment in discovering it to be in a
 
@@ -1433,7 +1433,7 @@ CHAPTER 2
 
       experienced upon awakening, I began to suppose that I must have
 
-      slept for an inordinately long period of time. The close
+      slept for an inordinately long period of [[Time|time]]. The close
 
       atmosphere of the hold might have had something to do with this,
 
@@ -1447,7 +1447,7 @@ CHAPTER 2
 
       disturbance by opening the trap or otherwise, and, having wound
 
-      up the watch, contented myself as well as possible.
+      up the watch, contented myself as [[Well|well]] as possible.
 
 
 
@@ -1457,15 +1457,15 @@ CHAPTER 2
 
       of the grossest inattention. What alarmed me chiefly was, that
 
-      the water in my jug was reduced to about half a pint, and I was
+      the [[Water|water]] in my jug was reduced to about half a pint, and I was
 
-      suffering much from thirst, having eaten freely of the Bologna
+      [[Suffering|suffering]] much from thirst, having eaten freely of the Bologna
 
       sausages after the loss of my mutton. I became very uneasy, and
 
       could no longer take any interest in my books. I was overpowered,
 
-      too, with a desire to sleep, yet trembled at the thought of
+      too, with a [[Desire|desire]] to [[Sleep|sleep]], yet trembled at the thought of
 
       indulging it, lest there might exist some pernicious influence,
 
@@ -1485,7 +1485,7 @@ CHAPTER 2
 
       him—but I could think of none which would account for his
 
-      suffering me to remain so long a prisoner, except, indeed, his
+      [[Suffering|suffering]] me to remain so long a prisoner, except, indeed, his
 
       having suddenly died or fallen overboard, and upon this idea I
 
@@ -1517,17 +1517,17 @@ CHAPTER 2
 
       or get at least a little fresh air through the opening, and a
 
-      further supply of water from the stateroom. While occupied with
+      further supply of [[Water|water]] from the stateroom. While occupied with
 
       this thought, however, I fell in spite of every exertion to the
 
-      contrary, into a state of profound sleep, or rather stupor. My
+      contrary, into a state of profound [[Sleep|sleep]], or rather stupor. My
 
-      dreams were of the most terrific description. Every species of
+      [[Dreams|dreams]] were of the most terrific description. Every species of
 
       calamity and horror befell me. Among other miseries I was
 
-      smothered to death between huge pillows, by demons of the most
+      smothered to [[Death|death]] between huge pillows, by demons of the most
 
       ghastly and ferocious aspect. Immense serpents held me in their
 
@@ -1537,25 +1537,25 @@ CHAPTER 2
 
       and awe-inspiring character, spread themselves out before me.
 
-      Immensely tall trunks of trees, gray and leafless, rose up in
+      Immensely tall trunks of trees, gray and leafless, [[Rose|rose]] up in
 
       endless succession as far as the eye could reach. Their roots
 
-      were concealed in wide-spreading morasses, whose dreary water lay
+      were concealed in wide-spreading morasses, whose dreary [[Water|water]] lay
 
       intensely black, still, and altogether terrible, beneath. And the
 
       strange trees seemed endowed with a human vitality, and waving to
 
-      and fro their skeleton arms, were crying to the silent waters for
+      and fro their [[skeleton]] arms, were crying to the silent waters for
 
-      mercy, in the shrill and piercing accents of the most acute agony
+      [[Mercy|mercy]], in the shrill and piercing accents of the most acute agony
 
-      and despair. The scene changed; and I stood, naked and alone,
+      and [[Despair|despair]]. The scene changed; and I stood, naked and [[Alone|alone]],
 
       amidst the burning sand-plains of Sahara. At my feet lay crouched
 
-      a fierce lion of the tropics. Suddenly his wild eyes opened and
+      a fierce [[Lion|lion]] of the tropics. Suddenly his wild eyes opened and
 
       fell upon me. With a conclusive bound he sprang to his feet, and
 
@@ -1567,9 +1567,9 @@ CHAPTER 2
 
       I at last found myself partially awake. My dream, then, was not
 
-      all a dream. Now, at least, I was in possession of my senses. The
+      all [[A Dream|a dream]]. Now, at least, I was in possession of my senses. The
 
-      paws of some huge and real monster were pressing heavily upon my
+      paws of some huge and real [[Monster|monster]] were pressing heavily upon my
 
       bosom—his hot breath was in my ear—and his white and ghastly
 
@@ -1587,7 +1587,7 @@ CHAPTER 2
 
       helpless, and, I fancied, a dying condition beneath him. I felt
 
-      that my powers of body and mind were fast leaving me—in a word,
+      that my powers of [[Body|body]] and mind were fast leaving me—in a word,
 
       that I was perishing, and perishing of sheer fright. My brain
 
@@ -1601,7 +1601,7 @@ CHAPTER 2
 
       fury of the animal. He precipitated himself at full length upon
 
-      my body; but what was my astonishment, when, with a long and low
+      my [[Body|body]]; but what was my astonishment, when, with a long and low
 
       whine, he commenced licking my face and hands with the greatest
 
@@ -1611,19 +1611,19 @@ CHAPTER 2
 
       amazement—but I could not forget the peculiar whine of my
 
-      Newfoundland dog Tiger, and the odd manner of his caresses I well
+      Newfoundland dog Tiger, and the odd manner of his caresses I [[Well|well]]
 
-      knew. It was he. I experienced a sudden rush of blood to my
+      knew. It was he. I experienced a sudden rush of [[Blood|blood]] to my
 
       temples—a giddy and overpowering sense of deliverance and
 
-      reanimation. I rose hurriedly from the mattress upon which I had
+      reanimation. I [[Rose|rose]] hurriedly from the mattress upon which I had
 
       been lying, and, throwing myself upon the neck of my faithful
 
       follower and friend, relieved the long oppression of my bosom in
 
-      a flood of the most passionate tears.
+      a flood of the most passionate [[Tears|tears]].
 
 
 
@@ -1631,11 +1631,11 @@ CHAPTER 2
 
       greatest indistinctness and confusion after leaving the mattress.
 
-      For a long time I found it nearly impossible to connect any
+      For a long [[Time|time]] I found it nearly impossible to connect any
 
       ideas; but, by very slow degrees, my thinking faculties returned,
 
-      and I again called to memory the several incidents of my
+      and I again called to [[Memory|memory]] the several incidents of my
 
       condition. For the presence of Tiger I tried in vain to account;
 
@@ -1643,9 +1643,9 @@ CHAPTER 2
 
       respecting him, was forced to content myself with rejoicing that
 
-      he was with me to share my dreary solitude, and render me comfort
+      he was with me to share my dreary [[Solitude|solitude]], and render me comfort
 
-      by his caresses. Most people love their dogs—but for Tiger I had
+      by his caresses. Most people [[Love|love]] their [[dogs]]—but for Tiger I had
 
       an affection far more ardent than common; and never, certainly,
 
@@ -1657,9 +1657,9 @@ CHAPTER 2
 
       the animal. I had rescued him, when a puppy, from the clutches of
 
-      a malignant little villain in Nantucket who was leading him, with
+      a malignant little [[Villain|villain]] in Nantucket who was leading him, with
 
-      a rope around his neck, to the water; and the grown dog repaid
+      a rope around his neck, to the [[Water|water]]; and the grown dog repaid
 
       the obligation, about three years afterward, by saving me from
 
@@ -1675,31 +1675,31 @@ CHAPTER 2
 
       feelings, that I had slept, as before, for a very long period of
 
-      time, how long, it was of course impossible to say. I was burning
+      [[Time|time]], how long, it was of course impossible to say. I was burning
 
       up with fever, and my thirst was almost intolerable. I felt about
 
-      the box for my little remaining supply of water, for I had no
+      the box for my little remaining supply of [[Water|water]], for I had no
 
       light, the taper having burnt to the socket of the lantern, and
 
       the phosphorus-box not coming readily to hand. Upon finding the
 
-      jug, however, I discovered it to be empty—Tiger, no doubt, having
+      jug, however, I discovered it to be empty—Tiger, no [[Doubt|doubt]], having
 
-      been tempted to drink it, as well as to devour the remnant of
+      been tempted to drink it, as [[Well|well]] as to devour the remnant of
 
-      mutton, the bone of which lay, well picked, by the opening of the
+      mutton, the bone of which lay, [[Well|well]] picked, by the opening of the
 
-      box. The spoiled meat I could well spare, but my heart sank as I
+      box. The spoiled meat I could [[Well|well]] spare, but my heart sank as I
 
-      thought of the water. I was feeble in the extreme—so much so that
+      thought of the [[Water|water]]. I was feeble in the extreme—so much so that
 
       I shook all over, as with an ague, at the slightest movement or
 
       exertion. To add to my troubles, the brig was pitching and
 
-      rolling with great violence, and the oil-casks which lay upon my
+      [[rolling]] with great violence, and the oil-casks which lay upon my
 
       box were in momentary danger of falling down, so as to block up
 
@@ -1721,7 +1721,7 @@ CHAPTER 2
 
       placed them), I gave up the search for the present, and bidding
 
-      Tiger lie quiet, began at once my journey toward the trap.
+      Tiger lie quiet, began at once my [[Journey|journey]] toward the trap.
 
 
 
@@ -1739,7 +1739,7 @@ CHAPTER 2
 
       swoon amid the narrow and intricate windings of the lumber, in
 
-      which event I had nothing but death to expect as the result. At
+      which event I had nothing but [[Death|death]] to expect as the result. At
 
       length, upon making a push forward with all the energy I could
 
@@ -1757,7 +1757,7 @@ CHAPTER 2
 
       position, it being closely wedged in among the surrounding boxes
 
-      and ship-furniture. It became necessary, therefore, enfeebled as
+      and [[Ship|ship]]-furniture. It became necessary, therefore, enfeebled as
 
       I was, either to leave the guidance of the whipcord and seek out
 
@@ -1767,7 +1767,7 @@ CHAPTER 2
 
       difficulties and dangers to be thought of without a shudder. In
 
-      my present weak state of both mind and body, I should infallibly
+      my present weak state of both mind and [[Body|body]], I should infallibly
 
       lose my way if I attempted it, and perish miserably amid the
 
@@ -1799,7 +1799,7 @@ CHAPTER 2
 
       upon which no foothold could be obtained. In vain I attempted, by
 
-      every means in my power, to reach the top, with the hope of being
+      every means in my power, to reach the top, with the [[Hope|hope]] of being
 
       thus enabled to draw myself up. Had I succeeded in reaching it,
 
@@ -1823,7 +1823,7 @@ CHAPTER 2
 
       opposite side—in other words, that the top was wanting, it being
 
-      the bottom through which I had forced my way. I now met with no
+      the [[Bottom|bottom]] through which I had forced my way. I now met with no
 
       important difficulty in proceeding along the line until I finally
 
@@ -1845,9 +1845,9 @@ CHAPTER 2
 
       all my strength—it still did not give way: with rage, with fury,
 
-      with despair—it set at defiance my utmost efforts; and it was
+      with [[Despair|despair]]—it set at defiance my utmost efforts; and it was
 
-      evident, from the unyielding nature of the resistance, that the
+      evident, from the unyielding [[Nature|nature]] of the resistance, that the
 
       hole had either been discovered and effectually nailed up, or
 
@@ -1929,7 +1929,7 @@ CHAPTER 2
 
       devoured with avidity—afterward, however, resuming his
 
-      extraordinary manoeuvres. I now imagined that he was suffering,
+      extraordinary manoeuvres. I now imagined that he was [[Suffering|suffering]],
 
       like myself, the torments of thirst, and was about adopting this
 
@@ -1937,7 +1937,7 @@ CHAPTER 2
 
       had as yet only examined his paws, and that there might possibly
 
-      be a wound upon some portion of his body or head. The latter I
+      be a wound upon some portion of his [[Body|body]] or head. The latter I
 
       felt carefully over, but found nothing. On passing my hand,
 
@@ -1947,7 +1947,7 @@ CHAPTER 2
 
       I discovered a string, and tracing it up, found that it encircled
 
-      the whole body. Upon a closer scrutiny, I came across a small
+      the whole [[Body|body]]. Upon a closer scrutiny, I came across a small
 
       slip of what had the feeling of letter paper, through which the
 
@@ -1983,7 +1983,7 @@ CHAPTER 3
 
       recollection of having put them carefully away just before
 
-      falling asleep; and, indeed, previously to my last journey to the
+      falling asleep; and, indeed, previously to my last [[Journey|journey]] to the
 
       trap, I had been able to remember the exact spot where I had
 
@@ -2041,7 +2041,7 @@ CHAPTER 3
 
       they were. The phosphorus, of which there was only a speck or
 
-      two, I gathered up as well as I could, and returned with it,
+      two, I gathered up as [[Well|well]] as I could, and returned with it,
 
       after much difficulty, to my box, where Tiger had all the while
 
@@ -2061,7 +2061,7 @@ CHAPTER 3
 
       slightly askance, I found that it became in some measure
 
-      perceptible. Thus the gloom of my prison may be imagined, and the
+      perceptible. Thus the gloom of my [[Prison|prison]] may be imagined, and the
 
       note of my friend, if indeed it were a note from him, seemed only
 
@@ -2073,7 +2073,7 @@ CHAPTER 3
 
       procuring light—such expedients precisely as a man in the
 
-      perturbed sleep occasioned by opium would be apt to fall upon for
+      perturbed [[Sleep|sleep]] occasioned by opium would be apt to fall upon for
 
       a similar purpose—each and all of which appear by turns to the
 
@@ -2085,7 +2085,7 @@ CHAPTER 3
 
       occurred to me which seemed rational, and which gave me cause to
 
-      wonder, very justly, that I had not entertained it before. I
+      [[Wonder|wonder]], very justly, that I had not entertained it before. I
 
       placed the slip of paper on the back of a book, and, collecting
 
@@ -2115,17 +2115,17 @@ CHAPTER 3
 
       idiocy. There were, to be sure, momentary intervals of perfect
 
-      sanity, and, now and then, even of energy; but these were few. It
+      [[Sanity|sanity]], and, now and then, even of energy; but these were few. It
 
       must be remembered that I had been, for many days certainly,
 
       inhaling the almost pestilential atmosphere of a close hold in a
 
-      whaling vessel, and for a long portion of that time but scantily
+      whaling vessel, and for a long portion of that [[Time|time]] but scantily
 
-      supplied with water. For the last fourteen or fifteen hours I had
+      supplied with [[Water|water]]. For the last fourteen or fifteen hours I had
 
-      none—nor had I slept during that time. Salt provisions of the
+      none—nor had I slept during that [[Time|time]]. Salt provisions of the
 
       most exciting kind had been my chief, and, indeed, since the loss
 
@@ -2195,7 +2195,7 @@ CHAPTER 3
 
       emitted. My difficulties had taught me the necessity of caution,
 
-      and I now took time to reflect upon what I was about to do. It
+      and I now took [[Time|time]] to reflect upon what I was about to do. It
 
       was very probable, I considered, that some words were written
 
@@ -2209,7 +2209,7 @@ CHAPTER 3
 
       proper manner, as written. There was the greater necessity of
 
-      ascertaining the point in question beyond a doubt, as the
+      ascertaining the point in question beyond a [[Doubt|doubt]], as the
 
       phosphorus remaining would be altogether insufficient for a third
 
@@ -2247,7 +2247,7 @@ CHAPTER 3
 
       I had previously done. Having rubbed in the phosphorus, a
 
-      brilliancy ensued as before—but this time several lines of MS. in
+      brilliancy ensued as before—but this [[Time|time]] several lines of MS. in
 
       a large hand, and apparently in red ink, became distinctly
 
@@ -2255,13 +2255,13 @@ CHAPTER 3
 
       momentary. Still, had I not been too greatly excited, there would
 
-      have been ample time enough for me to peruse the whole three
+      have been ample [[Time|time]] enough for me to peruse the whole three
 
       sentences before me—for I saw there were three. In my anxiety,
 
       however, to read all at once, I succeeded only in reading the
 
-      seven concluding words, which thus appeared—“blood—your life
+      seven concluding words, which thus appeared—“[[Blood|blood]]—your life
 
       depends upon lying close.”
 
@@ -2279,9 +2279,9 @@ CHAPTER 3
 
       and yet indefinable horror with which I was inspired by the
 
-      fragmentary warning thus received. And “blood,” too, that word of
+      fragmentary warning thus received. And “[[Blood|blood]],” too, that word of
 
-      all words—so rife at all times with mystery, and suffering, and
+      all words—so rife at all times with mystery, and [[Suffering|suffering]], and
 
       terror—how trebly full of import did it now appear—how chilly and
 
@@ -2289,9 +2289,9 @@ CHAPTER 3
 
       qualify or render it distinct) did its vague syllables fall, amid
 
-      the deep gloom of my prison, into the innermost recesses of my
+      the deep gloom of my [[Prison|prison]], into the innermost recesses of my
 
-      soul!
+      [[Soul|soul]]!
 
 
 
@@ -2301,7 +2301,7 @@ CHAPTER 3
 
       be—but I could think of nothing affording a satisfactory solution
 
-      of the mystery. Just after returning from my last journey to the
+      of the mystery. Just after returning from my last [[Journey|journey]] to the
 
       trap, and before my attention had been otherwise directed by the
 
@@ -2315,17 +2315,17 @@ CHAPTER 3
 
       accomplish one of these two purposes in the last emergency, had
 
-      given me courage (which I should not otherwise have had) to
+      given me [[Courage|courage]] (which I should not otherwise have had) to
 
       endure the evils of my situation. The few words I had been able
 
       to read, however, had cut me off from these final resources, and
 
-      I now, for the first time, felt all the misery of my fate. In a
+      I now, for the first [[Time|time]], felt all the misery of my fate. In a
 
-      paroxysm of despair I threw myself again upon the mattress,
+      paroxysm of [[Despair|despair]] I threw myself again upon the mattress,
 
-      where, for about the period of a day and night, I lay in a kind
+      where, for about the period of a day and [[Night|night]], I lay in a kind
 
       of stupor, relieved only by momentary intervals of reason and
 
@@ -2337,11 +2337,11 @@ CHAPTER 3
 
       the horrors which encompassed me. For another twenty-four hours
 
-      it was barely possible that I might exist without water—for a
+      it was barely possible that I might exist without [[Water|water]]—for a
 
-      longer time I could not do so. During the first portion of my
+      longer [[Time|time]] I could not do so. During the first portion of my
 
-      imprisonment I had made free use of the cordials with which
+      [[Imprisonment|imprisonment]] I had made free use of the cordials with which
 
       Augustus had supplied me, but they only served to excite fever,
 
@@ -2383,7 +2383,7 @@ CHAPTER 3
 
       ran his nose against my hand with a slight snarl; but I was too
 
-      greatly excited at the time to pay much attention to the
+      greatly excited at the [[Time|time]] to pay much attention to the
 
       circumstance. Soon afterward, it will be remembered, I threw
 
@@ -2405,13 +2405,13 @@ CHAPTER 3
 
       times, until finally his behaviour inspired me with so great a
 
-      degree of fear, that I became fully aroused. He was now lying
+      degree of [[Fear|fear]], that I became fully aroused. He was now lying
 
       close by the door of the box, snarling fearfully, although in a
 
       kind of undertone, and grinding his teeth as if strongly
 
-      convulsed. I had no doubt whatever that the want of water or the
+      convulsed. I had no [[Doubt|doubt]] whatever that the want of [[Water|water]] or the
 
       confined atmosphere of the hold had driven him mad, and I was at
 
@@ -2431,7 +2431,7 @@ CHAPTER 3
 
       should render it necessary for me to do so. To get out, I had to
 
-      pass directly over his body, and he already seemed to anticipate
+      pass directly over his [[Body|body]], and he already seemed to anticipate
 
       my design—missing himself upon his fore-legs (as I perceived by
 
@@ -2449,7 +2449,7 @@ CHAPTER 3
 
       sooner did I do this, than the dog sprang with a loud growl
 
-      toward my throat. The whole weight of his body struck me on the
+      toward my throat. The whole weight of his [[Body|body]] struck me on the
 
       right shoulder, and I fell violently to the left, while the
 
@@ -2465,9 +2465,9 @@ CHAPTER 3
 
       all the folds. I was now beneath the dog, and a few moments would
 
-      place me completely in his power. Despair gave me strength, and I
+      place me completely in his power. [[Despair]] gave me strength, and I
 
-      rose boldly up, shaking him from me by main force, and dragging
+      [[Rose|rose]] boldly up, shaking him from me by main force, and dragging
 
       with me the blankets from the mattress. These I now threw over
 
@@ -2483,7 +2483,7 @@ CHAPTER 3
 
       felt myself actuated by one of those fits of perverseness which
 
-      might be supposed to influence a spoiled child in similar
+      might be supposed to influence a spoiled [[Child|child]] in similar
 
       circumstances, and, raising the bottle to my lips, I drained it
 
@@ -2529,7 +2529,7 @@ CHAPTER 3
 
       I could not utter! I felt, I am sure, more than ten thousand
 
-      times the agonies of death itself. My brain reeled, and I fell,
+      times the agonies of [[Death|death]] itself. My brain reeled, and I fell,
 
       deadly sick, against the end of the box.
 
@@ -2547,9 +2547,9 @@ CHAPTER 3
 
       called my name could be no one but himself. All was silent for
 
-      some moments. At length I again heard the word “Arthur!” repeated
+      some moments. At length I again heard the word “[[arthur|Arthur]]!” repeated
 
-      in a low tone, and one full of hesitation. Reviving hope loosened
+      in a low tone, and one full of hesitation. Reviving [[Hope|hope]] loosened
 
       at once my powers of speech, and I now screamed at the top of my
 
@@ -2559,11 +2559,11 @@ CHAPTER 3
 
       be with you immediately—as soon as I can make my way through the
 
-      hold.” For a long time I heard him moving among the lumber, and
+      hold.” For a long [[Time|time]] I heard him moving among the lumber, and
 
       every moment seemed to me an age. At length I felt his hand upon
 
-      my shoulder, and he placed, at the same moment, a bottle of water
+      my shoulder, and he placed, at the same moment, a bottle of [[Water|water]]
 
       to my lips. Those only who have been suddenly redeemed from the
 
@@ -2571,7 +2571,7 @@ CHAPTER 3
 
       thirst under circumstances as aggravated as those which
 
-      encompassed me in my dreary prison, can form any idea of the
+      encompassed me in my dreary [[Prison|prison]], can form any idea of the
 
       unutterable transports which that one long draught of the richest
 
@@ -2621,7 +2621,7 @@ CHAPTER 4
 
       risk of having the secret of the trap discovered. When at length
 
-      he did come, I had assured him that I was doing as well as
+      he did come, I had assured him that I was doing as [[Well|well]] as
 
       possible; and, therefore, for the two next days he felt but
 
@@ -2655,7 +2655,7 @@ CHAPTER 4
 
       watch, and the seventh since I had first entered the hold. He
 
-      then went down without taking with him any water or provisions,
+      then went down without taking with him any [[Water|water]] or provisions,
 
       intending in the first place merely to call my attention, and get
 
@@ -2685,7 +2685,7 @@ CHAPTER 4
 
       long period during which the brig had been used as a whaling
 
-      vessel, I am more inclined to wonder that I awoke at all, after
+      vessel, I am more inclined to [[Wonder|wonder]] that I awoke at all, after
 
       once falling asleep, than that I should have slept
 
@@ -2701,7 +2701,7 @@ CHAPTER 4
 
       continued to snore. He was now at a loss what to do. It would
 
-      take him some time to make his way through the lumber to my box,
+      take him some [[Time|time]] to make his way through the lumber to my box,
 
       and in the meanwhile his absence would be noticed by Captain
 
@@ -2715,7 +2715,7 @@ CHAPTER 4
 
       induced to this resolve, as my slumber appeared to be of the most
 
-      tranquil nature, and he could not suppose that I had undergone
+      tranquil [[Nature|nature]], and he could not suppose that I had undergone
 
       any inconvenience from my incarceration. He had just made up his
 
@@ -2727,7 +2727,7 @@ CHAPTER 4
 
       it, and threw open the door of his stateroom. No sooner had he
 
-      put his foot over the threshold than a pistol flashed in his
+      put his foot over the threshold than a [[Pistol|pistol]] flashed in his
 
       face, and he was knocked down, at the same moment, by a blow from
 
@@ -2743,7 +2743,7 @@ CHAPTER 4
 
       the steps of the companion-way, with his head down, and a deep
 
-      wound in the forehead, from which the blood was flowing in a
+      wound in the forehead, from which the [[Blood|blood]] was flowing in a
 
       continued stream. He spoke not a word, and was apparently dying.
 
@@ -2785,11 +2785,11 @@ CHAPTER 4
 
       axe. The poor fellow fell to the deck without a groan, and the
 
-      black cook lifted him up in his arms as he would a child, and
+      black cook lifted him up in his arms as he would a [[Child|child]], and
 
       tossed him deliberately into the sea. Hearing the blow and the
 
-      plunge of the body, the men below could now be induced to venture
+      plunge of the [[Body|body]], the men below could now be induced to venture
 
       on deck neither by threats nor promises, until a proposition was
 
@@ -2805,7 +2805,7 @@ CHAPTER 4
 
       arms, submitted after a brief struggle. The mate gave them fair
 
-      words—no doubt with a view of inducing those below to yield, for
+      words—no [[Doubt|doubt]] with a view of inducing those below to yield, for
 
       they had no difficulty in hearing all that was said on deck. The
 
@@ -2861,7 +2861,7 @@ CHAPTER 4
 
       who seemed to exert as much influence, if not more, than the mate
 
-      himself), would listen to no proposition of the kind, and rose
+      himself), would listen to no proposition of the kind, and [[Rose|rose]]
 
       repeatedly for the purpose of resuming his work at the gangway.
 
@@ -2879,7 +2879,7 @@ CHAPTER 4
 
       believe, or at least connected in some manner with the Indian
 
-      trading-posts on Lewis river. Peters himself was one of the most
+      trading-posts on Lewis [[River|river]]. Peters himself was one of the most
 
       ferocious-looking men I ever beheld. He was short in stature, not
 
@@ -2887,13 +2887,13 @@ CHAPTER 4
 
       Herculean mould. His hands, especially, were so enormously thick
 
-      and broad as hardly to retain a human shape. His arms, as well as
+      and broad as hardly to retain a human shape. His arms, as [[Well|well]] as
 
       legs, were bowed in the most singular manner, and appeared to
 
       possess no flexibility whatever. His head was equally deformed,
 
-      being of immense size, with an indentation on the crown (like
+      being of immense size, with an indentation on the [[Crown|crown]] (like
 
       that on the head of most negroes), and entirely bald. To conceal
 
@@ -2903,7 +2903,7 @@ CHAPTER 4
 
       presented itself—occasionally the skin of a Spanish dog or
 
-      American grizzly bear. At the time spoken of, he had on a portion
+      American grizzly bear. At the [[Time|time]] spoken of, he had on a portion
 
       of one of these bearskins; and it added no little to the natural
 
@@ -2937,9 +2937,9 @@ CHAPTER 4
 
       strength when under excitement, and some of them had given rise
 
-      to a doubt of his sanity. But on board the Grampus, it seems, he
+      to a [[Doubt|doubt]] of his [[Sanity|sanity]]. But on board the Grampus, it seems, he
 
-      was regarded, at the time of the mutiny, with feelings more of
+      was regarded, at the [[Time|time]] of the mutiny, with feelings more of
 
       derision than of anything else. I have been thus particular in
 
@@ -2953,7 +2953,7 @@ CHAPTER 4
 
       say, which, in its latter portions, will be found to include
 
-      incidents of a nature so entirely out of the range of human
+      incidents of a [[Nature|nature]] so entirely out of the range of human
 
       experience, and for this reason so far beyond the limits of human
 
@@ -2961,7 +2961,7 @@ CHAPTER 4
 
       credence for all that I shall tell, yet confidently trusting in
 
-      time and progressing science to verify some of the most important
+      [[Time|time]] and progressing science to verify some of the most important
 
       and most improbable of my statements.
 
@@ -2981,7 +2981,7 @@ CHAPTER 4
 
       below when the mutineers came up. Presently the two made their
 
-      appearance, the captain pale as death, but somewhat recovered
+      appearance, the captain pale as [[Death|death]], but somewhat recovered
 
       from the effects of his wound. He spoke to the men in a voice
 
@@ -2991,7 +2991,7 @@ CHAPTER 4
 
       chose, and to take no steps for bringing them to justice. He
 
-      might as well have spoken to the winds. Two of the ruffians
+      might as [[Well|well]] have spoken to the winds. Two of the ruffians
 
       seized him by the arms and hurled him over the brig’s side into
 
@@ -3007,19 +3007,19 @@ CHAPTER 4
 
       of being permitted to bid his father farewell. A handful of
 
-      sea-biscuit and a jug of water were now handed down; but neither
+      sea-biscuit and a jug of [[Water|water]] were now handed down; but neither
 
       mast, sail, oar, nor compass. The boat was towed astern for a few
 
       minutes, during which the mutineers held another consultation—it
 
-      was then finally cut adrift. By this time night had come on—there
+      was then finally cut adrift. By this [[Time|time]] [[Night|night]] had come on—there
 
-      were neither moon nor stars visible—and a short and ugly sea was
+      were neither [[Moon|moon]] nor [[Stars|stars]] visible—and a short and ugly sea was
 
-      running, although there was no great deal of wind. The boat was
+      running, although there was no great deal of [[Wind|wind]]. The boat was
 
-      instantly out of sight, and little hope could be entertained for
+      instantly out of sight, and little [[Hope|hope]] could be entertained for
 
       the unfortunate sufferers who were in it. This event happened,
 
@@ -3043,7 +3043,7 @@ CHAPTER 4
 
       some piratical expedition, in which, from all that could be
 
-      understood, a ship was to be intercepted on her way from the Cape
+      understood, a [[Ship|ship]] was to be intercepted on her way from the Cape
 
       Verd Islands to Porto Rico. No attention was paid to Augustus,
 
@@ -3063,7 +3063,7 @@ CHAPTER 4
 
       distressing result of his condition; and, indeed, I had never
 
-      reason to doubt the sincerity of his friendship. More than once
+      reason to [[Doubt|doubt]] the sincerity of his [[Friendship|friendship]]. More than once
 
       he had resolved to acquaint the mutineers with the secret of my
 
@@ -3071,7 +3071,7 @@ CHAPTER 4
 
       recollection of the atrocities he had already beheld, and partly
 
-      through a hope of being able soon to bring me relief. For the
+      through a [[Hope|hope]] of being able soon to bring me relief. For the
 
       latter purpose he was constantly on the watch; but, in spite of
 
@@ -3079,7 +3079,7 @@ CHAPTER 4
 
       was cut adrift before any chance occurred. At length, on the
 
-      night of the third day, there came on a heavy blow from the
+      [[Night|night]] of the third day, there came on a heavy blow from the
 
       eastward, and all hands were called up to take in sail. During
 
@@ -3089,7 +3089,7 @@ CHAPTER 4
 
       that the latter had been rendered a place of deposit for a
 
-      variety of sea-stores and ship-furniture, and that several
+      variety of sea-stores and [[Ship|ship]]-furniture, and that several
 
       fathoms of old chain-cable, which had been stowed away beneath
 
@@ -3141,7 +3141,7 @@ CHAPTER 5
 
       For some minutes after the cook had left the forecastle, Augustus
 
-      abandoned himself to despair, never hoping to leave the berth
+      abandoned himself to [[Despair|despair]], never hoping to leave the berth
 
       alive. He now came to the resolution of acquainting the first of
 
@@ -3151,7 +3151,7 @@ CHAPTER 5
 
       thirst in the hold,—for it had been ten days since I was first
 
-      imprisoned, and my jug of water was not a plentiful supply even
+      imprisoned, and my jug of [[Water|water]] was not a plentiful supply even
 
       for four. As he was thinking on this subject, the idea came all
 
@@ -3197,7 +3197,7 @@ CHAPTER 5
 
       was now heard at the forecastle companion-way, and he had just
 
-      time to put his right hand into its handcuff (the left had not
+      [[Time|time]] to put his right hand into its handcuff (the left had not
 
       been removed) and to draw the rope in a slipknot around his
 
@@ -3209,7 +3209,7 @@ CHAPTER 5
 
       animal, and thought it would give me pleasure to have him with me
 
-      during the voyage. He went up to our house for him immediately
+      during the voyage. He went up to our [[house]] for him immediately
 
       after first taking me into the hold, but did not think of
 
@@ -3229,11 +3229,11 @@ CHAPTER 5
 
       him out, and, with a species of good feeling which my friend knew
 
-      well how to appreciate, had now brought him to him in the
+      [[Well|well]] how to appreciate, had now brought him to him in the
 
-      forecastle as a companion, leaving at the same time some salt
+      forecastle as a companion, leaving at the same [[Time|time]] some salt
 
-      junk and potatoes, with a can of water, he then went on deck,
+      junk and potatoes, with a can of [[Water|water]], he then went on deck,
 
       promising to come down with something more to eat on the next
 
@@ -3259,7 +3259,7 @@ CHAPTER 5
 
       its proper position. For the remainder of the day, however, no
 
-      disturbance occurred, and by night he had completely divided the
+      disturbance occurred, and by [[Night|night]] he had completely divided the
 
       plank. It should here be observed that none of the crew occupied
 
@@ -3291,17 +3291,17 @@ CHAPTER 5
 
       oil-casks piled nearly as high as the upper deck, there being
 
-      barely room enough left for his body. Upon reaching the hatch he
+      barely room enough left for his [[Body|body]]. Upon reaching the hatch he
 
       found that Tiger had followed him below, squeezing between two
 
       rows of the casks. It was now too late, however, to attempt
 
-      getting to me before dawn, as the chief difficulty lay in passing
+      getting to me before [[Dawn|dawn]], as the chief difficulty lay in passing
 
       through the close stowage in the lower hold. He therefore
 
-      resolved to return, and wait till the next night. With this
+      resolved to return, and wait till the next [[Night|night]]. With this
 
       design, he proceeded to loosen the hatch, so that he might have
 
@@ -3311,9 +3311,9 @@ CHAPTER 5
 
       opening produced, snuffed for a moment, and then uttered a long
 
-      whine, scratching at the same time, as if anxious to remove the
+      whine, scratching at the same [[Time|time]], as if anxious to remove the
 
-      covering with his paws. There could be no doubt, from his
+      covering with his paws. There could be no [[Doubt|doubt]], from his
 
       behaviour, that he was aware of my being in the hold, and
 
@@ -3353,21 +3353,21 @@ CHAPTER 5
 
       Mr. Ross. This had been the original draught; but the handwriting
 
-      not being sufficiently well imitated, Augustus had written
+      not being sufficiently [[Well|well]] imitated, Augustus had written
 
       another, thrusting the first, by good fortune, into his
 
       coat-pocket, where it was now most opportunely discovered. Ink
 
-      alone was thus wanting, and a substitute was immediately found
+      [[Alone|alone]] was thus wanting, and a substitute was immediately found
 
       for this by means of a slight incision with the pen-knife on the
 
-      back of a finger just above the nail—a copious flow of blood
+      back of a finger just above the nail—a copious flow of [[Blood|blood]]
 
       ensuing, as usual, from wounds in that vicinity. The note was now
 
-      written, as well as it could be in the dark and under the
+      written, as [[Well|well]] as it could be in the dark and under the
 
       circumstances. It briefly explained that a mutiny had taken
 
@@ -3377,7 +3377,7 @@ CHAPTER 5
 
       must not venture upon making any disturbance. It concluded with
 
-      these words: “_I have scrawled this with blood—your life depends
+      these words: “_I have scrawled this with [[Blood|blood]]—your life depends
 
       upon lying close._”
 
@@ -3401,19 +3401,19 @@ CHAPTER 5
 
       These arrangements were scarcely completed when Dirk Peters came
 
-      below, very drunk, but in excellent humour, and bringing with him
+      below, very drunk, but in excellent [[Humour|humour]], and bringing with him
 
       my friend’s allowance of provision for the day. This consisted of
 
-      a dozen large Irish potatoes roasted, and a pitcher of water. He
+      a dozen large Irish potatoes roasted, and a pitcher of [[Water|water]]. He
 
-      sat for some time on a chest by the berth, and talked freely
+      sat for some [[Time|time]] on a chest by the berth, and talked freely
 
       about the mate and the general concerns of the brig. His
 
-      demeanour was exceedingly capricious, and even grotesque. At one
+      demeanour was exceedingly capricious, and even [[Grotesque|grotesque]]. At one
 
-      time Augustus was much alarmed by odd conduct. At last, however,
+      [[Time|time]] Augustus was much alarmed by odd conduct. At last, however,
 
       he went on deck, muttering a promise to bring his prisoner a good
 
@@ -3427,7 +3427,7 @@ CHAPTER 5
 
       were much divided among themselves as to their ultimate course,
 
-      agreeing in no point, except the attack on the ship from the Cape
+      agreeing in no point, except the attack on the [[Ship|ship]] from the Cape
 
       Verd Islands, with which they were in hourly expectation of
 
@@ -3465,11 +3465,11 @@ CHAPTER 5
 
       be found among the innumerable islands of the Pacific, on the
 
-      perfect security and freedom from all restraint to be enjoyed,
+      perfect security and [[Freedom|freedom]] from all restraint to be enjoyed,
 
       but, more particularly, on the deliciousness of the climate, on
 
-      the abundant means of good living, and on the voluptuous beauty
+      the abundant means of good living, and on the voluptuous [[Beauty|beauty]]
 
       of the women. As yet, nothing had been absolutely determined
 
@@ -3485,15 +3485,15 @@ CHAPTER 5
 
       The three men went away in about an hour, and no one else entered
 
-      the forecastle all day. Augustus lay quiet until nearly night. He
+      the forecastle all day. Augustus lay quiet until nearly [[Night|night]]. He
 
       then freed himself from the rope and irons, and prepared for his
 
       attempt. A bottle was found in one of the berths, and this he
 
-      filled with water from the pitcher left by Peters, storing his
+      filled with [[Water|water]] from the pitcher left by Peters, storing his
 
-      pockets at the same time with cold potatoes. To his great joy he
+      pockets at the same [[Time|time]] with cold potatoes. To his great joy he
 
       also came across a lantern, with a small piece of tallow candle
 
@@ -3531,7 +3531,7 @@ CHAPTER 5
 
       no reply, and his apprehensions seemed thus to be confirmed. The
 
-      brig was rolling violently, and there was so much noise in
+      brig was [[rolling]] violently, and there was so much noise in
 
       consequence, that it was useless to listen for any weak sound,
 
@@ -3543,13 +3543,13 @@ CHAPTER 5
 
       alive, be aware that succor was approaching. Still nothing was
 
-      heard from me, and the supposition of my death began to assume
+      heard from me, and the supposition of my [[Death|death]] began to assume
 
       the character of certainty. He determined, nevertheless, to force
 
       a passage, if possible, to the box, and at least ascertain beyond
 
-      a doubt the truth of his surmises. He pushed on for some time in
+      a [[Doubt|doubt]] the [[Truth|truth]] of his surmises. He pushed on for some [[Time|time]] in
 
       a most pitiable state of anxiety, until, at length, he found the
 
@@ -3559,7 +3559,7 @@ CHAPTER 5
 
       Overcome now by his feelings, he threw himself among the lumber
 
-      in despair, and wept like a child. It was at this period that he
+      in [[Despair|despair]], and wept like a [[Child|child]]. It was at this period that he
 
       heard the crash occasioned by the bottle which I had thrown down.
 
@@ -3585,7 +3585,7 @@ CHAPTER 5
 
       circumstances which embarrassed him should be taken into
 
-      consideration. The night was fast wearing away, and his absence
+      consideration. The [[Night|night]] was fast wearing away, and his absence
 
       from the forecastle might be discovered; and indeed would
 
@@ -3605,7 +3605,7 @@ CHAPTER 5
 
       and I had made him no answer. I had been now eleven days and
 
-      nights with no more water than that contained in the jug which he
+      nights with no more [[Water|water]] than that contained in the jug which he
 
       had left with me—a supply which it was not at all probable I had
 
@@ -3615,11 +3615,11 @@ CHAPTER 5
 
       have appeared to him, coming from the comparatively open air of
 
-      the steerage, of a nature absolutely poisonous, and by far more
+      the steerage, of a [[Nature|nature]] absolutely poisonous, and by far more
 
       intolerable than it had seemed to me upon my first taking up my
 
-      quarters in the box—the hatchways at that time having been
+      quarters in the box—the hatchways at that [[Time|time]] having been
 
       constantly open for many months previous. Add to these
 
@@ -3627,15 +3627,15 @@ CHAPTER 5
 
       lately witnessed by my friend; his confinement, privations, and
 
-      narrow escapes from death, together with the frail and equivocal
+      narrow escapes from [[Death|death]], together with the frail and equivocal
 
-      tenure by which he still existed—circumstances all so well
+      tenure by which he still existed—circumstances all so [[Well|well]]
 
       calculated to prostrate every energy of mind—and the reader will
 
       be easily brought, as I have been, to regard his apparent falling
 
-      off in friendship and in faith with sentiments rather of sorrow
+      off in [[Friendship|friendship]] and in [[Faith|faith]] with sentiments rather of sorrow
 
       than of anger.
 
@@ -3643,7 +3643,7 @@ CHAPTER 5
 
       The crash of the bottle was distinctly heard, yet Augustus was
 
-      not sure that it proceeded from the hold. The doubt, however, was
+      not sure that it proceeded from the hold. The [[Doubt|doubt]], however, was
 
       sufficient inducement to persevere. He clambered up nearly to the
 
@@ -3659,11 +3659,11 @@ CHAPTER 5
 
       violent agitation as to be incapable of reply. Confident, now,
 
-      that his worst apprehensions were well founded, he descended,
+      that his worst apprehensions were [[Well|well]] founded, he descended,
 
       with a view of getting back to the forecastle without loss of
 
-      time. In his haste some small boxes were thrown down, the noise
+      [[Time|time]]. In his haste some small boxes were thrown down, the noise
 
       occasioned by which I heard, as will be recollected. He had made
 
@@ -3671,9 +3671,9 @@ CHAPTER 5
 
       again caused him to hesitate. He retraced his steps immediately,
 
-      and, clambering up the stowage a second time, called out my name,
+      and, clambering up the stowage a second [[Time|time]], called out my name,
 
-      loudly as before, having watched for a lull. This time I found
+      loudly as before, having watched for a lull. This [[Time|time]] I found
 
       voice to answer. Overjoyed at discovering me to be still alive,
 
@@ -3729,17 +3729,17 @@ CHAPTER 6
 
       door. We found him lying at full length, apparently in a deep
 
-      stupor, yet still alive. No time was to be lost, yet I could not
+      stupor, yet still alive. No [[Time|time]] was to be lost, yet I could not
 
       bring myself to abandon an animal who had now been twice
 
       instrumental in saving my life, without some attempt at
 
-      preserving him. We therefore dragged him along with us as well as
+      preserving him. We therefore dragged him along with us as [[Well|well]] as
 
       we could, although with the greatest difficulty and fatigue;
 
-      Augustus, during part of the time, being forced to clamber over
+      Augustus, during part of the [[Time|time]], being forced to clamber over
 
       the impediments in our way with the huge dog in his arms—a feat
 
@@ -3777,7 +3777,7 @@ CHAPTER 6
 
       by no means as careful or as experienced a seaman as the
 
-      hazardous nature of the service on which he was employed would
+      hazardous [[Nature|nature]] of the service on which he was employed would
 
       seem necessarily to demand. A proper stowage cannot be
 
@@ -3799,7 +3799,7 @@ CHAPTER 6
 
       great attention must be paid, not only to the bulk taken in, but
 
-      to the nature of the bulk, and whether there be a full or only a
+      to the [[Nature|nature]] of the bulk, and whether there be a full or only a
 
       partial cargo. In most kinds of freight the stowage is
 
@@ -3809,7 +3809,7 @@ CHAPTER 6
 
       vessel that the barrels or hogsheads, upon discharging, are found
 
-      to be completely flattened, and take some time to regain their
+      to be completely flattened, and take some [[Time|time]] to regain their
 
       original shape. This screwing, however, is resorted to
 
@@ -3831,7 +3831,7 @@ CHAPTER 6
 
       has been known, through the expansion of its bulk, to rend a
 
-      vessel asunder at sea. There can be no doubt either that the same
+      vessel asunder at sea. There can be no [[Doubt|doubt]] either that the same
 
       result would ensue in the case of tobacco, while undergoing its
 
@@ -3847,9 +3847,9 @@ CHAPTER 6
 
       always taken to guard against such misfortune. Only those who
 
-      have encountered a violent gale of wind, or rather who have
+      have encountered a violent gale of [[Wind|wind]], or rather who have
 
-      experienced the rolling of a vessel in a sudden calm after the
+      experienced the [[rolling]] of a vessel in a sudden calm after the
 
       gale, can form an idea of the tremendous force of the plunges,
 
@@ -3873,7 +3873,7 @@ CHAPTER 6
 
       lurches the whole of the cargo tumbles over to the side of the
 
-      vessel which lies upon the water, and, being thus prevented from
+      vessel which lies upon the [[Water|water]], and, being thus prevented from
 
       regaining her equilibrium, as she would otherwise necessarily do,
 
@@ -3917,7 +3917,7 @@ CHAPTER 6
 
       weather experienced. If grain loosely thrown in a vessel, then,
 
-      is ever so well secured by shifting-boards and stanchions, it
+      is ever so [[Well|well]] secured by shifting-boards and stanchions, it
 
       will be liable to shift in a long passage so greatly as to bring
 
@@ -3943,7 +3943,7 @@ CHAPTER 6
 
       partial cargoes, even of the most dangerous species, and without
 
-      any precaution whatever. The wonder is that no more accidents
+      any precaution whatever. The [[Wonder|wonder]] is that no more accidents
 
       occur than do actually happen. A lamentable instance of this
 
@@ -3969,15 +3969,15 @@ CHAPTER 6
 
       sail of Madeira there came on a strong gale from the N. N. E.
 
-      which forced him to lie-to. He brought the schooner to the wind
+      which forced him to lie-to. He brought the schooner to the [[Wind|wind]]
 
-      under a double-reefed foresail alone, when she rode as well as
+      under a [[Double|double]]-reefed foresail [[Alone|alone]], when she rode as [[Well|well]] as
 
       any vessel could be expected to do, and shipped not a drop of
 
-      water. Toward night the gale somewhat abated, and she rolled with
+      [[Water|water]]. Toward [[Night|night]] the gale somewhat abated, and she rolled with
 
-      more unsteadiness than before, but still did very well, until a
+      more unsteadiness than before, but still did very [[Well|well]], until a
 
       heavy lurch threw her upon her beam-ends to starboard. The corn
 
@@ -3999,11 +3999,11 @@ CHAPTER 6
 
       stowage that could be called which was little better than a
 
-      promiscuous huddling together of oil-casks {*1} and ship
+      promiscuous huddling together of oil-casks {*1} and [[Ship|ship]]
 
       furniture. I have already spoken of the condition of articles in
 
-      the hold. On the orlop deck there was space enough for my body
+      the hold. On the orlop deck there was space enough for my [[Body|body]]
 
       (as I have stated) between the oil-casks and the upper deck; a
 
@@ -4019,7 +4019,7 @@ CHAPTER 6
 
 
 
-      By the time my friend had got safely into the berth, and
+      By the [[Time|time]] my friend had got safely into the berth, and
 
       readjusted his handcuffs and the rope, it was broad daylight. We
 
@@ -4027,7 +4027,7 @@ CHAPTER 6
 
       matters, when the mate came below, with Dirk Peters and the cook.
 
-      They talked for some time about the vessel from the Cape Verds,
+      They talked for some [[Time|time]] about the vessel from the Cape Verds,
 
       and seemed to be excessively anxious for her appearance. At
 
@@ -4043,17 +4043,17 @@ CHAPTER 6
 
       the aperture, in which case all would have been discovered, and
 
-      our lives would, no doubt, have been instantly sacrificed. Our
+      our lives would, no [[Doubt|doubt]], have been instantly sacrificed. Our
 
       good fortune prevailed, however; and although he frequently
 
       touched it as the vessel rolled, he never pressed against it
 
-      sufficiently to bring about a discovery. The bottom of the jacket
+      sufficiently to bring about a discovery. The [[Bottom|bottom]] of the jacket
 
       had been carefully fastened to the bulkhead, so that the hole
 
-      might not be seen by its swinging to one side. All this time
+      might not be seen by its swinging to one side. All this [[Time|time]]
 
       Tiger was lying in the foot of the berth, and appeared to have
 
@@ -4075,13 +4075,13 @@ CHAPTER 6
 
       were with him, was a feint. He answered all my companion’s
 
-      questions with perfect freedom; told him that he had no doubt of
+      questions with perfect [[Freedom|freedom]]; told him that he had no [[Doubt|doubt]] of
 
       his father’s having been picked up, as there were no less than
 
       five sail in sight just before sundown on the day he was cut
 
-      adrift; and used other language of a consolatory nature, which
+      adrift; and used other language of a consolatory [[Nature|nature]], which
 
       occasioned me no less surprise than pleasure. Indeed, I began to
 
@@ -4097,19 +4097,19 @@ CHAPTER 6
 
       conduct of the hybrid appeared to be instigated by the most
 
-      arbitrary caprice alone; and, indeed, it was difficult to say if
+      arbitrary caprice [[Alone|alone]]; and, indeed, it was difficult to say if
 
       he was at any moment of sound mind. Peters went upon deck in
 
-      about an hour, and did not return again until noon, when he
+      about an hour, and did not return again until [[Noon|noon]], when he
 
       brought Augustus a plentiful supply of junk beef and pudding. Of
 
-      this, when we were left alone, I partook heartily, without
+      this, when we were left [[Alone|alone]], I partook heartily, without
 
       returning through the hole. No one else came down into the
 
-      forecastle during the day, and at night, I got into Augustus’
+      forecastle during the day, and at [[Night|night]], I got into Augustus’
 
       berth, where I slept soundly and sweetly until nearly daybreak,
 
@@ -4121,15 +4121,15 @@ CHAPTER 6
 
       entirely, and gave no indications of hydrophobia, drinking a
 
-      little water that was offered him with great apparent eagerness.
+      little [[Water|water]] that was offered him with great apparent eagerness.
 
       During the day he regained all his former vigour and appetite.
 
-      His strange conduct had been brought on, no doubt, by the
+      His strange conduct had been brought on, no [[Doubt|doubt]], by the
 
       deleterious quality of the air of the hold, and had no connexion
 
-      with canine madness. I could not sufficiently rejoice that I had
+      with canine [[Madness|madness]]. I could not sufficiently rejoice that I had
 
       persisted in bringing him with me from the box. This day was the
 
@@ -4161,9 +4161,9 @@ CHAPTER 6
 
       pleased anywhere forward of the mainmast, and that he had been
 
-      ordered to sleep, as usual, in the forecastle. He brought me,
+      ordered to [[Sleep|sleep]], as usual, in the forecastle. He brought me,
 
-      too, a good dinner, and a plentiful supply of water. The brig was
+      too, a good dinner, and a plentiful supply of [[Water|water]]. The brig was
 
       still cruising for the vessel from the Cape Verds, and a sail was
 
@@ -4189,7 +4189,7 @@ CHAPTER 6
 
       if not yet entirely recovered from the effects of his sickness.
 
-      Toward night a flaw of wind struck the brig before sail could be
+      Toward [[Night|night]] a flaw of [[Wind|wind]] struck the brig before sail could be
 
       taken in, and very nearly capsized her. The puff died away
 
@@ -4221,7 +4221,7 @@ CHAPTER 6
 
       Liverpool, and was allowed to pass unmolested. Augustus spent
 
-      most of his time on deck, with a view of obtaining all the
+      most of his [[Time|time]] on deck, with a view of obtaining all the
 
       information in his power respecting the intentions of the
 
@@ -4237,7 +4237,7 @@ CHAPTER 6
 
       July 5th. About daybreak there came on a stiff breeze from the
 
-      west, which at noon freshened into a gale, so that the brig could
+      west, which at [[Noon|noon]] freshened into a gale, so that the brig could
 
       carry nothing more than her trysail and foresail. In taking in
 
@@ -4249,11 +4249,11 @@ CHAPTER 6
 
       whole number of persons on board was now thirteen, to wit: Dirk
 
-      Peters; Seymour, the black cook; Jones, Greely, Hartman Rogers
+      Peters; Seymour, the black cook; [[Jones]], Greely, Hartman Rogers
 
       and William Allen, all of the cook’s party; the mate, whose name
 
-      I never learned; Absalom Hicks, Wilson, John Hunty Richard
+      I never learned; Absalom Hicks, Wilson, John Hunty [[Richard]]
 
       Parker, of the mate’s party;—besides Augustus and myself.
 
@@ -4261,15 +4261,15 @@ CHAPTER 6
 
       July 6th. The gale lasted all this day, blowing in heavy squalls,
 
-      accompanied with rain. The brig took in a good deal of water
+      accompanied with rain. The brig took in a good deal of [[Water|water]]
 
       through her seams, and one of the pumps was kept continually
 
       going, Augustus being forced to take his turn. Just at twilight a
 
-      large ship passed close by us, without having been discovered
+      large [[Ship|ship]] passed close by us, without having been discovered
 
-      until within hail. The ship was supposed to be the one for which
+      until within hail. The [[Ship|ship]] was supposed to be the one for which
 
       the mutineers were on the lookout. The mate hailed her, but the
 
@@ -4281,7 +4281,7 @@ CHAPTER 6
 
       morning the weather moderated, and at sunrise there was very
 
-      little wind.
+      little [[Wind|wind]].
 
 
 
@@ -4305,7 +4305,7 @@ CHAPTER 6
 
       could be done to remedy it, as it was occasioned by the brig's
 
-      straining, and taking in the water through her seams. A sail was
+      straining, and taking in the [[Water|water]] through her seams. A sail was
 
       thrummed, and got under the bows, which aided us in some measure,
 
@@ -4369,7 +4369,7 @@ CHAPTER 7
 
       July 10. Spoke a brig from Rio, bound to Norfolk. Weather hazy,
 
-      with a light baffling wind from the eastward. To-day Hartman
+      with a light baffling [[Wind|wind]] from the eastward. To-day Hartman
 
       Rogers died, having been attacked on the eighth with spasms after
 
@@ -4381,27 +4381,27 @@ CHAPTER 7
 
       if he did not be on the look-out, his own turn would come
 
-      shortly. There were now only himself, Jones, and the cook
+      shortly. There were now only himself, [[Jones]], and the cook
 
       belonging to his own gang—on the other side there were five. He
 
-      had spoken to Jones about taking the command from the mate; but
+      had spoken to [[Jones]] about taking the command from the mate; but
 
       the project having been coolly received, he had been deterred
 
       from pressing the matter any further, or from saying any thing to
 
-      the cook. It was well, as it happened, that he was so prudent,
+      the cook. It was [[Well|well]], as it happened, that he was so prudent,
 
       for in the afternoon the cook expressed his determination of
 
       siding with the mate, and went over formally to that party; while
 
-      Jones took an opportunity of quarrelling with Peters, and hinted
+      [[Jones]] took an opportunity of quarrelling with Peters, and hinted
 
       that he would let the mate know of the plan in agitation. There
 
-      was now, evidently, no time to be lost, and Peters expressed his
+      was now, evidently, no [[Time|time]] to be lost, and Peters expressed his
 
       determination of attempting to take the vessel at all hazards,
 
@@ -4415,7 +4415,7 @@ CHAPTER 7
 
       more astonished than delighted, as he had no reliance whatever
 
-      upon Jones, whom he already considered as belonging to the party
+      upon [[Jones]], whom he already considered as belonging to the party
 
       of the mate. They went below immediately, when Augustus called to
 
@@ -4423,9 +4423,9 @@ CHAPTER 7
 
       was agreed that we should attempt to retake the vessel upon the
 
-      first good opportunity, leaving Jones altogether out of our
+      first good opportunity, leaving [[Jones]] altogether out of our
 
-      councils. In the event of success, we were to run the brig into
+      councils. In the event of [[success]], we were to run the brig into
 
       the first port that offered, and deliver her up. The desertion of
 
@@ -4455,19 +4455,19 @@ CHAPTER 7
 
       beam-ends. By keeping her away, however, she righted, having
 
-      shipped a good deal of water. Scarcely was everything secure,
+      shipped a good deal of [[Water|water]]. Scarcely was everything secure,
 
       when another squall took the vessel, and immediately afterward
 
       another—no damage being done. There was every appearance of a
 
-      gale of wind, which, indeed, shortly came on, with great fury,
+      gale of [[Wind|wind]], which, indeed, shortly came on, with great fury,
 
       from the northward and westward. All was made as snug as
 
       possible, and we laid-to, as usual, under a close-reefed
 
-      foresail. As night drew on, the wind increased in violence, with
+      foresail. As [[Night|night]] drew on, the [[Wind|wind]] increased in violence, with
 
       a remarkably heavy sea. Peters now came into the forecastle with
 
@@ -4503,7 +4503,7 @@ CHAPTER 7
 
       as an axe or a handspike lying in their customary places—we began
 
-      to fear that the mate had his suspicions, at least in regard to
+      to [[Fear|fear]] that the mate had his suspicions, at least in regard to
 
       Peters, and that he would let slip no opportunity of getting rid
 
@@ -4543,11 +4543,11 @@ CHAPTER 7
 
       discipline is most rigidly enforced, to station a watch on deck
 
-      when a vessel is lying-to in a gale of wind. As I address myself
+      when a vessel is lying-to in a gale of [[Wind|wind]]. As I address myself
 
       principally, if not altogether, to persons who have never been to
 
-      sea, it may be as well to state the exact condition of a vessel
+      sea, it may be as [[Well|well]] to state the exact condition of a vessel
 
       under such circumstances. Lying-to, or, in sea-parlance,
 
@@ -4563,19 +4563,19 @@ CHAPTER 7
 
       accomplished by throwing round some portion of her sails, so as
 
-      to let the wind take them aback, when she becomes stationary. But
+      to let the [[Wind|wind]] take them aback, when she becomes stationary. But
 
-      we are now speaking of lying-to in a gale of wind. This is done
+      we are now speaking of lying-to in a gale of [[Wind|wind]]. This is done
 
-      when the wind is ahead, and too violent to admit of carrying sail
+      when the [[Wind|wind]] is ahead, and too violent to admit of carrying sail
 
-      without danger of capsizing; and sometimes even when the wind is
+      without danger of capsizing; and sometimes even when the [[Wind|wind]] is
 
       fair, but the sea too heavy for the vessel to be put before it.
 
-      If a vessel be suffered to scud before the wind in a very heavy
+      If a vessel be suffered to scud before the [[Wind|wind]] in a very heavy
 
-      sea, much damage is usually done her by the shipping of water
+      sea, much damage is usually done her by the shipping of [[Water|water]]
 
       over her stern, and sometimes by the violent plunges she makes
 
@@ -4583,7 +4583,7 @@ CHAPTER 7
 
       case, unless through necessity. When the vessel is in a leaky
 
-      condition she is often put before the wind even in the heaviest
+      condition she is often put before the [[Wind|wind]] even in the heaviest
 
       seas; for, when lying-to, her seams are sure to be greatly opened
 
@@ -4595,13 +4595,13 @@ CHAPTER 7
 
       pieces the sail which is employed with a view of bringing her
 
-      head to the wind, or when, through the false modelling of the
+      head to the [[Wind|wind]], or when, through the false modelling of the
 
       frame or other causes, this main object cannot be effected.
 
 
 
-      Vessels in a gale of wind are laid-to in different manners,
+      Vessels in a gale of [[Wind|wind]] are laid-to in different manners,
 
       according to their peculiar construction. Some lie-to best under
 
@@ -4609,11 +4609,11 @@ CHAPTER 7
 
       employed. Large square-rigged vessels have sails for the express
 
-      purpose, called storm-staysails. But the jib is occasionally
+      purpose, called [[Storm|storm]]-staysails. But the jib is occasionally
 
       employed by itself,—sometimes the jib and foresail, or a
 
-      double-reefed foresail, and not unfrequently the after-sails, are
+      [[Double|double]]-reefed foresail, and not unfrequently the after-sails, are
 
       made use of. Foretopsails are very often found to answer the
 
@@ -4625,19 +4625,19 @@ CHAPTER 7
 
       When a vessel is to be laid-to, her head is brought up to the
 
-      wind just so nearly as to fill the sail under which she lies when
+      [[Wind|wind]] just so nearly as to fill the sail under which she lies when
 
       hauled flat aft, that is, when brought diagonally across the
 
       vessel. This being done, the bows point within a few degrees of
 
-      the direction from which the wind issues, and the windward bow of
+      the direction from which the [[Wind|wind]] issues, and the windward bow of
 
       course receives the shock of the waves. In this situation a good
 
-      vessel will ride out a very heavy gale of wind without shipping a
+      vessel will ride out a very heavy gale of [[Wind|wind]] without shipping a
 
-      drop of water, and without any further attention being requisite
+      drop of [[Water|water]], and without any further attention being requisite
 
       on the part of the crew. The helm is usually lashed down, but
 
@@ -4651,21 +4651,21 @@ CHAPTER 7
 
       seas if there be no room for the helm to play. As long as the
 
-      sail holds, a well modelled vessel will maintain her situation,
+      sail holds, a [[Well|well]] modelled vessel will maintain her situation,
 
       and ride every sea, as if instinct with life and reason. If the
 
-      violence of the wind, however, should tear the sail into pieces
+      violence of the [[Wind|wind]], however, should tear the sail into pieces
 
       (a feat which it requires a perfect hurricane to accomplish under
 
       ordinary circumstances), there is then imminent danger. The
 
-      vessel falls off from the wind, and, coming broadside to the sea,
+      vessel falls off from the [[Wind|wind]], and, coming broadside to the sea,
 
-      is completely at its mercy: the only resource in this case is to
+      is completely at its [[Mercy|mercy]]: the only resource in this case is to
 
-      put her quietly before the wind, letting her scud until some
+      put her quietly before the [[Wind|wind]], letting her scud until some
 
       other sail can be set. Some vessels will lie-to under no sail
 
@@ -4677,17 +4677,17 @@ CHAPTER 7
 
       with the mate to have any watch on deck when lying-to in a gale
 
-      of wind, and the fact that he had now one, coupled with the
+      of [[Wind|wind]], and the fact that he had now one, coupled with the
 
       circumstance of the missing axes and handspikes, fully convinced
 
-      us that the crew were too well on the watch to be taken by
+      us that the crew were too [[Well|well]] on the watch to be taken by
 
       surprise in the manner Peters had suggested. Something, however,
 
       was to be done, and that with as little delay as practicable, for
 
-      there could be no doubt that a suspicion having been once
+      there could be no [[Doubt|doubt]] that a suspicion having been once
 
       entertained against Peters, he would be sacrificed upon the
 
@@ -4707,19 +4707,19 @@ CHAPTER 7
 
       convinced us that the vessel rolled and pitched too violently for
 
-      any attempt of that nature.
+      any attempt of that [[Nature|nature]].
 
 
 
       By good fortune I at length hit upon the idea of working upon the
 
-      superstitious terrors and guilty conscience of the mate. It will
+      superstitious terrors and guilty [[Conscience|conscience]] of the mate. It will
 
       be remembered that one of the crew, Hartman Rogers, had died
 
       during the morning, having been attacked two days before with
 
-      spasms after drinking some spirits and water. Peters had
+      spasms after drinking some spirits and [[Water|water]]. Peters had
 
       expressed to us his opinion that this man had been poisoned by
 
@@ -4743,11 +4743,11 @@ CHAPTER 7
 
       convulsions; and the corpse presented in a few minutes after
 
-      death one of the most horrid and loathsome spectacles I ever
+      [[Death|death]] one of the most horrid and loathsome spectacles I ever
 
       remember to have seen. The stomach was swollen immensely, like
 
-      that of a man who has been drowned and lain under water for many
+      that of a man who has been drowned and lain under [[Water|water]] for many
 
       weeks. The hands were in the same condition, while the face was
 
@@ -4759,17 +4759,17 @@ CHAPTER 7
 
       diagonally across the face, completely covering up an eye as if
 
-      with a band of red velvet. In this disgusting condition the body
+      with a band of red velvet. In this disgusting condition the [[Body|body]]
 
-      had been brought up from the cabin at noon to be thrown
+      had been brought up from the cabin at [[Noon|noon]] to be thrown
 
       overboard, when the mate getting a glimpse of it (for he now saw
 
-      it for the first time), and being either touched with remorse for
+      it for the first [[Time|time]]), and being either touched with remorse for
 
       his crime or struck with terror at so horrible a sight, ordered
 
-      the men to sew the body up in its hammock, and allow it the usual
+      the men to sew the [[Body|body]] up in its hammock, and allow it the usual
 
       rites of sea-burial. Having given these directions, he went
 
@@ -4781,7 +4781,7 @@ CHAPTER 7
 
       The corpse, left to itself, was washed into the larboard
 
-      scuppers, where it still lay at the time of which I speak,
+      scuppers, where it still lay at the [[Time|time]] of which I speak,
 
       floundering about with the furious lurches of the brig.
 
@@ -4795,7 +4795,7 @@ CHAPTER 7
 
       be stationed more as a watch upon the forecastle than for any
 
-      other purpose. The fate of this villain, however, was speedily
+      other purpose. The fate of this [[Villain|villain]], however, was speedily
 
       and silently decided; for Peters, approaching him in a careless
 
@@ -4819,7 +4819,7 @@ CHAPTER 7
 
       set the pumps going, as it was evident the brig must be taking in
 
-      water very fast. After searching about for some time, we could
+      [[Water|water]] very fast. After searching about for some [[Time|time]], we could
 
       find nothing more fit for our purpose than the two pump-handles,
 
@@ -4827,7 +4827,7 @@ CHAPTER 7
 
       these, we stripped off the shirt of the corpse and dropped the
 
-      body overboard. Peters and myself then went below, leaving
+      [[Body|body]] overboard. Peters and myself then went below, leaving
 
       Augustus to watch upon deck, where he took his station just where
 
@@ -4843,7 +4843,7 @@ CHAPTER 7
 
       represent the corpse of Rogers. The shirt which we had taken from
 
-      the body aided us very much, for it was of singular form and
+      the [[Body|body]] aided us very much, for it was of singular form and
 
       character, and easily recognizable—a kind of smock, which the
 
@@ -4851,7 +4851,7 @@ CHAPTER 7
 
       with large white stripes running across. Having put this on, I
 
-      proceeded to equip myself with a false stomach, in imitation of
+      proceeded to equip myself with a false stomach, in [[Imitation|imitation]] of
 
       the horrible deformity of the swollen corpse. This was soon
 
@@ -4863,9 +4863,9 @@ CHAPTER 7
 
       offered themselves. Peters then arranged my face, first rubbing
 
-      it well over with white chalk, and afterward blotching it with
+      it [[Well|well]] over with white [[chalk]], and afterward blotching it with
 
-      blood, which he took from a cut in his finger. The streak across
+      [[Blood|blood]], which he took from a cut in his finger. The streak across
 
       the eye was not forgotten and presented a most shocking
 
@@ -4885,7 +4885,7 @@ CHAPTER 8
 
 
 
-      As I viewed myself in a fragment of looking-glass which hung up
+      As I viewed myself in a [[Fragment|fragment]] of looking-glass which hung up
 
       in the cabin, and by the dim light of a kind of battle-lantern, I
 
@@ -4941,7 +4941,7 @@ CHAPTER 8
 
 
 
-      We listened to their conversation for some time before we could
+      We listened to their conversation for some [[Time|time]] before we could
 
       make up our minds how to act, having as yet resolved on nothing
 
@@ -4975,7 +4975,7 @@ CHAPTER 8
 
       answer was made, but we could easily perceive that the hint was
 
-      well received by the whole party, and more particularly by Jones.
+      [[Well|well]] received by the whole party, and more particularly by [[Jones]].
 
       At this period I was excessively agitated, the more so as I could
 
@@ -4989,7 +4989,7 @@ CHAPTER 8
 
 
 
-      The tremendous noise made by the roaring of the wind in the
+      The tremendous noise made by the roaring of the [[Wind|wind]] in the
 
       rigging, and the washing of the sea over the deck, prevented us
 
@@ -4999,7 +4999,7 @@ CHAPTER 8
 
       “go forward, have an eye upon them, for he wanted no such secret
 
-      doings on board the brig.” It was well for us that the pitching
+      doings on board the brig.” It was [[Well|well]] for us that the pitching
 
       of the vessel at this moment was so violent as to prevent this
 
@@ -5013,7 +5013,7 @@ CHAPTER 8
 
       creating a good deal of other confusion. Luckily, neither of our
 
-      party was thrown from his position, and we had time to make a
+      party was thrown from his position, and we had [[Time|time]] to make a
 
       precipitate retreat to the forecastle, and arrange a hurried plan
 
@@ -5039,7 +5039,7 @@ CHAPTER 8
 
       had found it. The mate received them with feigned cordiality, and
 
-      told Augustus that, since he had behaved himself so well of late,
+      told Augustus that, since he had behaved himself so [[Well|well]] of late,
 
       he might take up his quarters in the cabin and be one of them for
 
@@ -5057,7 +5057,7 @@ CHAPTER 8
 
 
 
-      I now steadied myself as well as possible so as to have a good
+      I now steadied myself as [[Well|well]] as possible so as to have a good
 
       view of all that was passing within, and endeavoured to nerve
 
@@ -5081,11 +5081,11 @@ CHAPTER 8
 
       thought he was upon the point of swooning. Peters now asked him
 
-      if he did not think it would be better to have the body thrown
+      if he did not think it would be better to have the [[Body|body]] thrown
 
       overboard at once as it was too horrible a sight to see it
 
-      floundering about in the scuppers. At this the villain absolutely
+      floundering about in the scuppers. At this the [[Villain|villain]] absolutely
 
       gasped for breath, and turned his head slowly round upon his
 
@@ -5107,25 +5107,25 @@ CHAPTER 8
 
       all to be wondered at when the various circumstances are taken
 
-      into consideration. Usually, in cases of a similar nature, there
+      into consideration. Usually, in cases of a similar [[Nature|nature]], there
 
-      is left in the mind of the spectator some glimmering of doubt as
+      is left in the mind of the spectator some glimmering of [[Doubt|doubt]] as
 
-      to the reality of the vision before his eyes; a degree of hope,
+      to the reality of the vision before his eyes; a degree of [[Hope|hope]],
 
       however feeble, that he is the victim of chicanery, and that the
 
       apparition is not actually a visitant from the old world of
 
-      shadows. It is not too much to say that such remnants of doubt
+      shadows. It is not too much to say that such remnants of [[Doubt|doubt]]
 
-      have been at the bottom of almost every such visitation, and that
+      have been at the [[Bottom|bottom]] of almost every such visitation, and that
 
       the appalling horror which has sometimes been brought about, is
 
       to be attributed, even in the cases most in point, and where most
 
-      suffering has been experienced, more to a kind of anticipative
+      [[Suffering|suffering]] has been experienced, more to a kind of anticipative
 
       horror, lest the apparition might possibly be real, than to an
 
@@ -5133,9 +5133,9 @@ CHAPTER 8
 
       it will be seen immediately, that in the minds of the mutineers
 
-      there was not even the shadow of a basis upon which to rest a
+      there was not even the [[Shadow|shadow]] of a basis upon which to rest a
 
-      doubt that the apparition of Rogers was indeed a revivification
+      [[Doubt|doubt]] that the apparition of Rogers was indeed a revivification
 
       of his disgusting corpse, or at least its spiritual image. The
 
@@ -5143,7 +5143,7 @@ CHAPTER 8
 
       on account of the gale, confined the apparently possible means of
 
-      deception within such narrow and definite limits, that they must
+      [[Deception|deception]] within such narrow and definite limits, that they must
 
       have thought themselves enabled to survey them all at a glance.
 
@@ -5163,7 +5163,7 @@ CHAPTER 8
 
       enter their minds even for an instant. Add to these
 
-      considerations the awe-inspiring nature of the tempest, and that
+      considerations the awe-inspiring [[Nature|nature]] of the tempest, and that
 
       of the conversation brought about by Peters; the deep impression
 
@@ -5171,13 +5171,13 @@ CHAPTER 8
 
       morning upon the imaginations of the men; the excellence of the
 
-      imitation in my person, and the uncertain and wavering light in
+      [[Imitation|imitation]] in my person, and the uncertain and wavering light in
 
       which they beheld me, as the glare of the cabin lantern, swinging
 
       violently to and fro, fell dubiously and fitfully upon my figure,
 
-      and there will be no reason to wonder that the deception had even
+      and there will be no reason to [[Wonder|wonder]] that the [[Deception|deception]] had even
 
       more than the entire effect which we had anticipated. The mate
 
@@ -5191,13 +5191,13 @@ CHAPTER 8
 
       first any degree of presence of mind. The four others sat for
 
-      some time rooted apparently to the floor, the most pitiable
+      some [[Time|time]] rooted apparently to the floor, the most pitiable
 
-      objects of horror and utter despair my eyes ever encountered. The
+      objects of horror and utter [[Despair|despair]] my eyes ever encountered. The
 
       only opposition we experienced at all was from the cook, John
 
-      Hunt, and Richard Parker; but they made but a feeble and
+      Hunt, and [[Richard]] Parker; but they made but a feeble and
 
       irresolute defence. The two former were shot instantly by Peters,
 
@@ -5209,21 +5209,21 @@ CHAPTER 8
 
       Wilson through the breast. There were now but three remaining;
 
-      but by this time they had become aroused from their lethargy, and
+      but by this [[Time|time]] they had become aroused from their lethargy, and
 
-      perhaps began to see that a deception had been practised upon
+      perhaps began to see that a [[Deception|deception]] had been practised upon
 
       them, for they fought with great resolution and fury, and, but
 
       for the immense muscular strength of Peters, might have
 
-      ultimately got the better of us. These three men were—Jones,
+      ultimately got the better of us. These three men were—[[Jones]],
 
-      Greely, and Absolom Hicks. Jones had thrown Augustus to the
+      Greely, and Absolom Hicks. [[Jones]] had thrown Augustus to the
 
       floor, stabbed him in several places along the right arm, and
 
-      would no doubt have soon dispatched him (as neither Peters nor
+      would no [[Doubt|doubt]] have soon dispatched him (as neither Peters nor
 
       myself could immediately get rid of our own antagonists), had it
 
@@ -5233,7 +5233,7 @@ CHAPTER 8
 
       Tiger. With a low growl, he bounded into the cabin, at a most
 
-      critical moment for Augustus, and throwing himself upon Jones,
+      critical moment for Augustus, and throwing himself upon [[Jones]],
 
       pinned him to the floor in an instant. My friend, however, was
 
@@ -5241,11 +5241,11 @@ CHAPTER 8
 
       encumbered with my disguise that I could do but little. The dog
 
-      would not leave his hold upon the throat of Jones—Peters,
+      would not leave his hold upon the throat of [[Jones]]—Peters,
 
       nevertheless, was far more than a match for the two men who
 
-      remained, and would, no doubt, have dispatched them sooner, had
+      remained, and would, no [[Doubt|doubt]], have dispatched them sooner, had
 
       it not been for the narrow space in which he had to act, and the
 
@@ -5261,13 +5261,13 @@ CHAPTER 8
 
       throat, and, by dint of sheer strength, strangled him
 
-      instantaneously. Thus, in far less time than I have taken to tell
+      instantaneously. Thus, in far less [[Time|time]] than I have taken to tell
 
       it, we found ourselves masters of the brig.
 
 
 
-      The only person of our opponents who was left alive was Richard
+      The only person of our opponents who was left alive was [[Richard]]
 
       Parker. This man, it will be remembered, I had knocked down with
 
@@ -5277,23 +5277,23 @@ CHAPTER 8
 
       upon Peters touching him with his foot, he spoke, and entreated
 
-      for mercy. His head was only slightly cut, and otherwise he had
+      for [[Mercy|mercy]]. His head was only slightly cut, and otherwise he had
 
       received no injury, having been merely stunned by the blow. He
 
       now got up, and, for the present, we secured his hands behind his
 
-      back. The dog was still growling over Jones; but, upon
+      back. The dog was still growling over [[Jones]]; but, upon
 
-      examination, we found him completely dead, the blood issuing in a
+      examination, we found him completely dead, the [[Blood|blood]] issuing in a
 
-      stream from a deep wound in the throat, inflicted, no doubt, by
+      stream from a deep wound in the throat, inflicted, no [[Doubt|doubt]], by
 
       the sharp teeth of the animal.
 
 
 
-      It was now about one o’clock in the morning, and the wind was
+      It was now about one o’[[Clock|clock]] in the morning, and the [[Wind|wind]] was
 
       still blowing tremendously. The brig evidently laboured much more
 
@@ -5307,7 +5307,7 @@ CHAPTER 8
 
       hatchway having been left open by myself when I descended. The
 
-      entire range of bulwarks to larboard had been swept away, as well
+      entire range of bulwarks to larboard had been swept away, as [[Well|well]]
 
       as the caboose, together with the jollyboat from the counter. The
 
@@ -5319,11 +5319,11 @@ CHAPTER 8
 
       (a very reprehensible practice, occasionally resorted to by
 
-      ignorant ship-builders), so that it was in imminent danger of
+      ignorant [[Ship|ship]]-builders), so that it was in imminent danger of
 
-      working from its step. But, to crown all our difficulties, we
+      working from its step. But, to [[Crown|crown]] all our difficulties, we
 
-      plummed the well, and found no less than seven feet of water.
+      plummed the [[Well|well]], and found no less than seven feet of [[Water|water]].
 
 
 
@@ -5331,7 +5331,7 @@ CHAPTER 8
 
       immediately at the pumps—Parker, of course, being set at liberty
 
-      to assist us in the labour. Augustus’s arm was bound up as well
+      to assist us in the labour. Augustus’s arm was bound up as [[Well|well]]
 
       as we could effect it, and he did what he could, but that was not
 
@@ -5349,7 +5349,7 @@ CHAPTER 8
 
 
 
-      In this manner we passed a night of terrible anxiety and fatigue,
+      In this manner we passed a [[Night|night]] of terrible anxiety and fatigue,
 
       and, when the day at length broke, the gale had neither abated in
 
@@ -5383,7 +5383,7 @@ CHAPTER 8
 
       heavy sea, striking the brig to the windward, threw her off
 
-      several points from the wind, and, before she could regain her
+      several points from the [[Wind|wind]], and, before she could regain her
 
       position, another broke completely over her, and hurled her full
 
@@ -5391,7 +5391,7 @@ CHAPTER 8
 
       (the stowage had been knocking about perfectly at random for some
 
-      time), and for a few moments we thought nothing could save us
+      [[Time|time]]), and for a few moments we thought nothing could save us
 
       from capsizing. Presently, however, we partially righted; but the
 
@@ -5439,7 +5439,7 @@ CHAPTER 8
 
 
 
-      At noon there seemed to be some slight appearance of the gale’s
+      At [[Noon|noon]] there seemed to be some slight appearance of the gale’s
 
       abating, but in this we were sadly disappointed, for it only
 
@@ -5447,21 +5447,21 @@ CHAPTER 8
 
       in the afternoon it was utterly impossible to stand up against
 
-      the violence of the blast; and, as the night closed in upon us, I
+      the violence of the blast; and, as the [[Night|night]] closed in upon us, I
 
-      had not a shadow of hope that the vessel would hold together
+      had not a [[Shadow|shadow]] of [[Hope|hope]] that the vessel would hold together
 
       until morning.
 
 
 
-      By midnight we had settled very deep in the water, which was now
+      By midnight we had settled very deep in the [[Water|water]], which was now
 
       up to the orlop deck. The rudder went soon afterward, the sea
 
       which tore it away lifting the after portion of the brig entirely
 
-      from the water, against which she thumped in her descent with
+      from the [[Water|water]], against which she thumped in her descent with
 
       such a concussion as would be occasioned by going ashore. We had
 
@@ -5489,7 +5489,7 @@ CHAPTER 8
 
 
 
-      We had scarcely time to draw breath after the violence of this
+      We had scarcely [[Time|time]] to draw breath after the violence of this
 
       shock, when one of the most tremendous waves I had then ever
 
@@ -5497,7 +5497,7 @@ CHAPTER 8
 
       clear off, bursting in the hatchways, and filling every inch of
 
-      the vessel with water.
+      the vessel with [[Water|water]].
 
 
 
@@ -5513,27 +5513,27 @@ CHAPTER 9
 
 
 
-      Luckily, just before night, all four of us had lashed ourselves
+      Luckily, just before [[Night|night]], all four of us had lashed ourselves
 
       firmly to the fragments of the windlass, lying in this manner as
 
-      flat upon the deck as possible. This precaution alone saved us
+      flat upon the deck as possible. This precaution [[Alone|alone]] saved us
 
       from destruction. As it was, we were all more or less stunned by
 
-      the immense weight of water which tumbled upon us, and which did
+      the immense weight of [[Water|water]] which tumbled upon us, and which did
 
       not roll from above us until we were nearly exhausted. As soon as
 
       I could recover breath, I called aloud to my companions. Augustus
 
-      alone replied, saying: “It is all over with us, and may God have
+      [[Alone|alone]] replied, saying: “It is all over with us, and may God have
 
-      mercy upon our souls!” By-and-by both the others were enabled to
+      [[Mercy|mercy]] upon our souls!” By-and-by both the others were enabled to
 
-      speak, when they exhorted us to take courage, as there was still
+      speak, when they exhorted us to take [[Courage|courage]], as there was still
 
-      hope; it being impossible, from the nature of the cargo, that the
+      [[Hope|hope]]; it being impossible, from the [[Nature|nature]] of the cargo, that the
 
       brig could go down, and there being every chance that the gale
 
@@ -5547,15 +5547,15 @@ CHAPTER 9
 
       consideration altogether; and the danger which I had for some
 
-      time regarded as the most imminent was that of foundering. As
+      [[Time|time]] regarded as the most imminent was that of foundering. As
 
-      hope revived within me, I made use of every opportunity to
+      [[Hope|hope]] revived within me, I made use of every opportunity to
 
       strengthen the lashings which held me to the remains of the
 
       windlass, and in this occupation I soon discovered that my
 
-      companions were also busy. The night was as dark as it could
+      companions were also busy. The [[Night|night]] was as dark as it could
 
       possibly be, and the horrible shrieking din and confusion which
 
@@ -5567,7 +5567,7 @@ CHAPTER 9
 
       is not too much to say that our heads were not fairly out of the
 
-      water more than one second in three. Although we lay close
+      [[Water|water]] more than one second in three. Although we lay close
 
       together, no one of us could see the other, or, indeed, any
 
@@ -5575,7 +5575,7 @@ CHAPTER 9
 
       hurled about. At intervals we called one to the other, thus
 
-      endeavouring to keep alive hope, and render consolation and
+      endeavouring to keep alive [[Hope|hope]], and render consolation and
 
       encouragement to such of us as stood most in need of it. The
 
@@ -5593,7 +5593,7 @@ CHAPTER 9
 
       was more secure than that of any of the rest of us; for the upper
 
-      part of his body lying just beneath a portion of the shattered
+      part of his [[Body|body]] lying just beneath a portion of the shattered
 
       windlass, the seas, as they tumbled in upon him, were greatly
 
@@ -5609,7 +5609,7 @@ CHAPTER 9
 
       case. The heel, as I have before stated, was to larboard, about
 
-      one half of the deck being constantly under water. The seas,
+      one half of the deck being constantly under [[Water|water]]. The seas,
 
       therefore, which struck us to starboard were much broken, by the
 
@@ -5617,7 +5617,7 @@ CHAPTER 9
 
       our faces; while those which came from larboard being what are
 
-      called back-water seas, and obtaining little hold upon us on
+      called back-[[Water|water]] seas, and obtaining little hold upon us on
 
       account of our posture, had not sufficient force to drag us from
 
@@ -5629,13 +5629,13 @@ CHAPTER 9
 
       show us more fully the horrors which surrounded us. The brig was
 
-      a mere log, rolling about at the mercy of every wave; the gale
+      a mere log, [[rolling]] about at the [[Mercy|mercy]] of every wave; the gale
 
       was upon the increase, if any thing, blowing indeed a complete
 
       hurricane, and there appeared to us no earthly prospect of
 
-      deliverance. For several hours we held on in silence, expecting
+      deliverance. For several hours we held on in [[Silence|silence]], expecting
 
       every moment that our lashings would either give way, that the
 
@@ -5643,17 +5643,17 @@ CHAPTER 9
 
       the huge seas, which roared in every direction around us and
 
-      above us, would drive the hulk so far beneath the water that we
+      above us, would drive the hulk so far beneath the [[Water|water]] that we
 
       should be drowned before it could regain the surface. By the
 
-      mercy of God, however, we were preserved from these imminent
+      [[Mercy|mercy]] of God, however, we were preserved from these imminent
 
       dangers, and about midday were cheered by the light of the
 
       blessed sun. Shortly afterward we could perceive a sensible
 
-      diminution in the force of the wind, when, now for the first time
+      diminution in the force of the [[Wind|wind]], when, now for the first [[Time|time]]
 
       since the latter part of the evening before, Augustus spoke,
 
@@ -5665,7 +5665,7 @@ CHAPTER 9
 
       drowned where he lay; but presently, to our great joy, he spoke,
 
-      although very feebly, saying that he was in great pain, being so
+      although very feebly, saying that he was in great [[Pain|pain]], being so
 
       cut by the tightness of his lashings across the stomach, that he
 
@@ -5695,7 +5695,7 @@ CHAPTER 9
 
       more than one wave broke over the hulk from windward in the
 
-      course of five minutes, and the wind had abated a great deal,
+      course of five minutes, and the [[Wind|wind]] had abated a great deal,
 
       although still blowing a severe gale. I had not heard any of my
 
@@ -5713,7 +5713,7 @@ CHAPTER 9
 
       insensibility, during which the most pleasing images floated in
 
-      my imagination; such as green trees, waving meadows of ripe
+      my [[Imagination|imagination]]; such as green trees, waving meadows of ripe
 
       grain, processions of dancing girls, troops of cavalry, and other
 
@@ -5721,9 +5721,9 @@ CHAPTER 9
 
       mind’s eye, motion was a predominant idea. Thus, I never fancied
 
-      any stationary object, such as a house, a mountain, or any thing
+      any stationary object, such as a [[house]], a mountain, or any thing
 
-      of that kind; but windmills, ships, large birds, balloons, people
+      of that kind; but windmills, ships, large [[Birds|birds]], balloons, people
 
       on horseback, carriages driving furiously, and similar moving
 
@@ -5735,9 +5735,9 @@ CHAPTER 9
 
       recollection the various circumstances connected with my
 
-      situation, and for some time remained firmly convinced that I was
+      situation, and for some [[Time|time]] remained firmly convinced that I was
 
-      still in the hold of the brig, near the box, and that the body of
+      still in the hold of the brig, near the box, and that the [[Body|body]] of
 
       Parker was that of Tiger.
 
@@ -5745,7 +5745,7 @@ CHAPTER 9
 
       When I at length completely came to my senses, I found that the
 
-      wind blew no more than a moderate breeze, and that the sea was
+      [[Wind|wind]] blew no more than a moderate breeze, and that the sea was
 
       comparatively calm; so much so that it only washed over the brig
 
@@ -5757,7 +5757,7 @@ CHAPTER 9
 
       rope, which had worked from the shoulder downward. I was also in
 
-      great pain from another rope which went about my waist, and had
+      great [[Pain|pain]] from another rope which went about my waist, and had
 
       been drawn to an insufferable degree of tightness. Looking round
 
@@ -5771,7 +5771,7 @@ CHAPTER 9
 
       Augustus gave no indication of life whatever, and was bent nearly
 
-      double across a splinter of the windlass. Parker spoke to me when
+      [[Double|double]] across a splinter of the windlass. Parker spoke to me when
 
       he saw me moving, and asked me if I had not sufficient strength
 
@@ -5781,7 +5781,7 @@ CHAPTER 9
 
       save our lives; but that otherwise we must all perish. I told him
 
-      to take courage, and I would endeavor to free him. Feeling in my
+      to take [[Courage|courage]], and I would endeavor to free him. Feeling in my
 
       pantaloons’ pocket, I got hold of my penknife, and, after several
 
@@ -5799,7 +5799,7 @@ CHAPTER 9
 
       advised me to lie quiet for a few minutes, holding on to the
 
-      windlass with my left hand, so as to allow time for the blood to
+      windlass with my left hand, so as to allow [[Time|time]] for the [[Blood|blood]] to
 
       circulate. Doing this, the numbness presently began to die away
 
@@ -5813,13 +5813,13 @@ CHAPTER 9
 
       him, when, after a short delay, he also recovered the partial use
 
-      of his limbs. We now lost no time in getting loose the rope from
+      of his limbs. We now lost no [[Time|time]] in getting loose the rope from
 
       Peters. It had cut a deep gash through the waistband of his
 
       woollen pantaloons, and through two shirts, and made its way into
 
-      his groin, from which the blood flowed out copiously as we
+      his groin, from which the [[Blood|blood]] flowed out copiously as we
 
       removed the cordage. No sooner had we removed it, however, than
 
@@ -5827,7 +5827,7 @@ CHAPTER 9
 
       move with much greater ease than either Parker or myself—this was
 
-      no doubt owing to the discharge of blood.
+      no [[Doubt|doubt]] owing to the discharge of [[Blood|blood]].
 
 
 
@@ -5835,19 +5835,19 @@ CHAPTER 9
 
       signs of life; but, upon getting to him, we discovered that he
 
-      had merely swooned from the loss of blood, the bandages we had
+      had merely swooned from the loss of [[Blood|blood]], the bandages we had
 
-      placed around his wounded arm having been torn off by the water;
+      placed around his wounded arm having been torn off by the [[Water|water]];
 
       none of the ropes which held him to the windlass were drawn
 
-      sufficiently tight to occasion his death. Having relieved him
+      sufficiently tight to occasion his [[Death|death]]. Having relieved him
 
       from the fastenings, and got him clear of the broken wood about
 
       the windlass, we secured him in a dry place to windward, with his
 
-      head somewhat lower than his body, and all three of us busied
+      head somewhat lower than his [[Body|body]], and all three of us busied
 
       ourselves in chafing his limbs. In about half an hour he came to
 
@@ -5855,7 +5855,7 @@ CHAPTER 9
 
       signs of recognizing any of us, or had sufficient strength to
 
-      speak. By the time we had thus got clear of our lashings it was
+      speak. By the [[Time|time]] we had thus got clear of our lashings it was
 
       quite dark, and it began to cloud up, so that we were again in
 
@@ -5865,7 +5865,7 @@ CHAPTER 9
 
       were. By good fortune it continued very moderate during the
 
-      night, the sea subsiding every minute, which gave us great hopes
+      [[Night|night]], the sea subsiding every minute, which gave us great hopes
 
       of ultimate preservation. A gentle breeze still blew from the N.
 
@@ -5883,7 +5883,7 @@ CHAPTER 9
 
       of escape from our frightful situation. We derived much comfort
 
-      from taking off our clothes and wringing the water from them.
+      from taking off our clothes and wringing the [[Water|water]] from them.
 
       When we put them on after this, they felt remarkably warm and
 
@@ -5903,7 +5903,7 @@ CHAPTER 9
 
       had escaped the less dreadful perils of the sea. We endeavoured,
 
-      however, to console ourselves with the hope of being speedily
+      however, to console ourselves with the [[Hope|hope]] of being speedily
 
       picked up by some vessel and encouraged each other to bear with
 
@@ -5921,7 +5921,7 @@ CHAPTER 9
 
       much along as she had done before, the deck was comparatively
 
-      dry, and we could move about with freedom. We had now been better
+      dry, and we could move about with [[Freedom|freedom]]. We had now been better
 
       than three entire days and nights without either food or drink,
 
@@ -5929,7 +5929,7 @@ CHAPTER 9
 
       to get up something from below. As the brig was completely full
 
-      of water, we went to this work despondently, and with but little
+      of [[Water|water]], we went to this work despondently, and with but little
 
       expectation of being able to obtain anything. We made a kind of
 
@@ -5941,7 +5941,7 @@ CHAPTER 9
 
       them into the cabin, and dragged them to and fro, in the faint
 
-      hope of being thus able to entangle some article which might be
+      [[Hope|hope]] of being thus able to entangle some article which might be
 
       of use to us for food, or which might at least render us
 
@@ -5953,19 +5953,19 @@ CHAPTER 9
 
       Indeed, our contrivance was so very clumsy that any greater
 
-      success was hardly to be anticipated.
+      [[success]] was hardly to be anticipated.
 
 
 
       We now tried the forecastle, but equally in vain, and were upon
 
-      the brink of despair, when Peters proposed that we should fasten
+      the brink of [[Despair|despair]], when Peters proposed that we should fasten
 
-      a rope to his body, and let him make an attempt to get up
+      a rope to his [[Body|body]], and let him make an attempt to get up
 
       something by diving into the cabin. This proposition we hailed
 
-      with all the delight which reviving hope could inspire. He
+      with all the delight which reviving [[Hope|hope]] could inspire. He
 
       proceeded immediately to strip off his clothes with the exception
 
@@ -5981,7 +5981,7 @@ CHAPTER 9
 
       itself, it was necessary that the diver, after letting himself
 
-      down, should make a turn to the right, and proceed under water a
+      down, should make a turn to the right, and proceed under [[Water|water]] a
 
       distance of ten or twelve feet, in a narrow passage, to the
 
@@ -5991,7 +5991,7 @@ CHAPTER 9
 
       Everything being ready, Peters now descended in the cabin, going
 
-      down the companion-ladder until the water reached his chin. He
+      down the companion-ladder until the [[Water|water]] reached his chin. He
 
       then plunged in, head first, turning to the right as he plunged,
 
@@ -6021,9 +6021,9 @@ CHAPTER 9
 
 
 
-      The second attempt met with even worse success; for he remained
+      The second attempt met with even worse [[success]]; for he remained
 
-      so long under water without giving the signal, that, becoming
+      so long under [[Water|water]] without giving the signal, that, becoming
 
       alarmed for his safety, we drew him out without it, and found
 
@@ -6041,7 +6041,7 @@ CHAPTER 9
 
       of getting it away except by main force, we all descended into
 
-      the water as far as we could on the ladder, and giving a pull
+      the [[Water|water]] as far as we could on the ladder, and giving a pull
 
       against it with our united strength, succeeded in breaking it
 
@@ -6057,7 +6057,7 @@ CHAPTER 9
 
       steady himself, and keep to the floor of the cabin while making
 
-      his search. For a long time we looked about in vain for something
+      his search. For a long [[Time|time]] we looked about in vain for something
 
       which might answer this purpose; but at length, to our great joy,
 
@@ -6067,7 +6067,7 @@ CHAPTER 9
 
       this securely to one of his ankles, Peters now made his fourth
 
-      descent into the cabin, and this time succeeded in making his way
+      descent into the cabin, and this [[Time|time]] succeeded in making his way
 
       to the door of the steward’s room. To his inexpressible grief,
 
@@ -6075,11 +6075,11 @@ CHAPTER 9
 
       effecting an entrance, as, with the greatest exertion, he could
 
-      remain under water not more, at the utmost extent, than a single
+      remain under [[Water|water]] not more, at the utmost extent, than a single
 
       minute. Our affairs now looked gloomy indeed, and neither
 
-      Augustus nor myself could refrain from bursting into tears, as we
+      Augustus nor myself could refrain from bursting into [[Tears|tears]], as we
 
       thought of the host of difficulties which encompassed us, and the
 
@@ -6089,7 +6089,7 @@ CHAPTER 9
 
       our knees to God, we implored His aid in the many dangers which
 
-      beset us; and arose with renewed hope and vigor to think what
+      beset us; and arose with renewed [[Hope|hope]] and vigor to think what
 
       could yet be done by mortal means toward accomplishing our
 
@@ -6157,9 +6157,9 @@ CHAPTER 10
 
       extravagant rhodomontades, intermingled with howls and
 
-      imprecations, while the latter burst into tears, and continued
+      imprecations, while the latter burst into [[Tears|tears]], and continued
 
-      for many minutes weeping like a child.
+      for many minutes weeping like a [[Child|child]].
 
 
 
@@ -6231,7 +6231,7 @@ CHAPTER 10
 
       nearer, we saw a red flannel cap which he had on fall from his
 
-      head into the water; but of this he took little or no notice,
+      head into the [[Water|water]]; but of this he took little or no notice,
 
       continuing his odd smiles and gesticulations. I relate these
 
@@ -6261,7 +6261,7 @@ CHAPTER 10
 
       turning to my companions, perceived that they were paler than
 
-      marble. But we had now no time left for question or surmise—the
+      marble. But we had now no [[Time|time]] left for question or surmise—the
 
       brig was within fifty feet of us, and it seemed to be her
 
@@ -6283,7 +6283,7 @@ CHAPTER 10
 
       and most loathsome state of putrefaction. We plainly saw that not
 
-      a soul lived in that fated vessel! Yet we could not help shouting
+      a [[Soul|soul]] lived in that fated vessel! Yet we could not help shouting
 
       to the dead for help! Yes, long and loudly did we beg, in the
 
@@ -6293,7 +6293,7 @@ CHAPTER 10
 
       would receive us among their goodly company! We were raving with
 
-      horror and despair—thoroughly mad through the anguish of our
+      horror and [[Despair|despair]]—thoroughly mad through the anguish of our
 
       grievous disappointment.
 
@@ -6329,13 +6329,13 @@ CHAPTER 10
 
       talons deep buried, and its white plumage spattered all over with
 
-      blood. As the brig moved farther round so as to bring us close in
+      [[Blood|blood]]. As the brig moved farther round so as to bring us close in
 
       view, the bird, with much apparent difficulty, drew out its
 
       crimsoned head, and, after eyeing us for a moment as if
 
-      stupefied, arose lazily from the body upon which it had been
+      stupefied, arose lazily from the [[Body|body]] upon which it had been
 
       feasting, and, flying directly above our deck, hovered there a
 
@@ -6345,7 +6345,7 @@ CHAPTER 10
 
       immediately at the feet of Parker. May God forgive me, but now,
 
-      for the first time, there flashed through my mind a thought, a
+      for the first [[Time|time]], there flashed through my mind a thought, a
 
       thought which I will not mention, and I felt myself making a step
 
@@ -6361,7 +6361,7 @@ CHAPTER 10
 
 
 
-      The body from which it had been taken, resting as it did upon the
+      The [[Body|body]] from which it had been taken, resting as it did upon the
 
       rope, had been easily swayed to and fro by the exertions of the
 
@@ -6377,7 +6377,7 @@ CHAPTER 10
 
       whole flesh around the mouth, leaving the teeth utterly naked.
 
-      This, then, was the smile which had cheered us on to hope! this
+      This, then, was the smile which had cheered us on to [[Hope|hope]]! this
 
       the—but I forbear. The brig, as I have already told, passed under
 
@@ -6389,11 +6389,11 @@ CHAPTER 10
 
       possibly have found means of boarding her, had not our sudden
 
-      disappointment and the appalling nature of the discovery which
+      disappointment and the appalling [[Nature|nature]] of the discovery which
 
       accompanied it laid entirely prostrate every active faculty of
 
-      mind and body. We had seen and felt, but we could neither think
+      mind and [[Body|body]]. We had seen and felt, but we could neither think
 
       nor act, until, alas! too late. How much our intellects had been
 
@@ -6423,7 +6423,7 @@ CHAPTER 10
 
       character; but the intense excitement of the moment blinded us to
 
-      every thing of that nature. From the saffron-like hue of such of
+      every thing of that [[Nature|nature]]. From the saffron-like hue of such of
 
       the corpses as were not entirely decayed, we concluded that the
 
@@ -6431,7 +6431,7 @@ CHAPTER 10
 
       other virulent disease of the same fearful kind. If such were the
 
-      case (and I know not what else to imagine), death, to judge from
+      case (and I know not what else to imagine), [[Death|death]], to judge from
 
       the positions of the bodies, must have come upon them in a manner
 
@@ -6441,7 +6441,7 @@ CHAPTER 10
 
       pestilences with which mankind are acquainted. It is possible,
 
-      indeed, that poison, accidentally introduced into some of their
+      indeed, that [[Poison|poison]], accidentally introduced into some of their
 
       sea-stores, may have brought about the disaster, or that the
 
@@ -6451,7 +6451,7 @@ CHAPTER 10
 
       useless to form conjectures where all is involved, and will, no
 
-      doubt, remain for ever involved, in the most appalling and
+      [[Doubt|doubt]], remain for ever involved, in the most appalling and
 
       unfathomable mystery.
 
@@ -6479,7 +6479,7 @@ CHAPTER 11
 
       all other cares and considerations. Nothing, however, could be
 
-      done until the morning, and, securing ourselves as well as
+      done until the morning, and, securing ourselves as [[Well|well]] as
 
       possible, we endeavoured to snatch a little repose. In this I
 
@@ -6503,7 +6503,7 @@ CHAPTER 11
 
       storeroom, thinking it possible that he might be able to force it
 
-      open, provided he could get at it in sufficient time; and this he
+      open, provided he could get at it in sufficient [[Time|time]]; and this he
 
       hoped to do, as the hulk lay much more steadily than before.
 
@@ -6511,13 +6511,13 @@ CHAPTER 11
 
       He succeeded very quickly in reaching the door, when, loosening
 
-      one of the chains from his ankle, he made every exertion to force
+      one of the [[Chains|chains]] from his ankle, he made every exertion to force
 
       the passage with it, but in vain, the framework of the room being
 
       far stronger than was anticipated. He was quite exhausted with
 
-      his long stay under water, and it became absolutely necessary
+      his long stay under [[Water|water]], and it became absolutely necessary
 
       that some other one of us should take his place. For this service
 
@@ -6537,7 +6537,7 @@ CHAPTER 11
 
 
 
-      Peters had left one of the chains in the passage, and I found,
+      Peters had left one of the [[Chains|chains]] in the passage, and I found,
 
       upon plunging in, that I had not sufficient balance to keep me
 
@@ -6547,7 +6547,7 @@ CHAPTER 11
 
       along the floor of the passage for this, I felt a hard substance,
 
-      which I immediately grasped, not having time to ascertain what it
+      which I immediately grasped, not having [[Time|time]] to ascertain what it
 
       was, but returning and ascending instantly to the surface. The
 
@@ -6573,17 +6573,17 @@ CHAPTER 11
 
       descended, and now recovered the chain, with which I instantly
 
-      came up. I then fastened it on and went down for the third time,
+      came up. I then fastened it on and went down for the third [[Time|time]],
 
       when I became fully satisfied that no exertions whatever, in that
 
       situation, would enable me to force open the door of the
 
-      storeroom. I therefore returned in despair.
+      storeroom. I therefore returned in [[Despair|despair]].
 
 
 
-      There seemed now to be no longer any room for hope, and I could
+      There seemed now to be no longer any room for [[Hope|hope]], and I could
 
       perceive in the countenances of my companions that they had made
 
@@ -6613,13 +6613,13 @@ CHAPTER 11
 
       belonging to Captain Barnard. This was immediately opened in the
 
-      faint hope that it might contain something to eat or drink. We
+      faint [[Hope|hope]] that it might contain something to eat or drink. We
 
       found nothing, however, except a box of razors and two linen
 
-      shirts. I now went down again, and returned without any success.
+      shirts. I now went down again, and returned without any [[success]].
 
-      As my head came above water I heard a crash on deck, and, upon
+      As my head came above [[Water|water]] I heard a crash on deck, and, upon
 
       getting up, saw that my companions had ungratefully taken
 
@@ -6629,9 +6629,9 @@ CHAPTER 11
 
       I saw them. I remonstrated with them on the heartlessness of
 
-      their conduct, when Augustus burst into tears. The other two
+      their conduct, when Augustus burst into [[Tears|tears]]. The other two
 
-      endeavoured to laugh the matter off as a joke, but I hope never
+      endeavoured to laugh the matter off as a joke, but I [[Hope|hope]] never
 
       again to behold laughter of such a species: the distortion of
 
@@ -6649,17 +6649,17 @@ CHAPTER 11
 
 
 
-      I now found myself, as it were, alone in the brig, and my
+      I now found myself, as it were, [[Alone|alone]] in the brig, and my
 
       reflections, to be sure, were of the most fearful and gloomy
 
-      nature. No prospect offered itself to my view but a lingering
+      [[Nature|nature]]. No prospect offered itself to my view but a lingering
 
-      death by famine, or, at the best, by being overwhelmed in the
+      [[Death|death]] by famine, or, at the best, by being overwhelmed in the
 
-      first gale which should spring up, for in our present exhausted
+      first gale which should [[Spring|spring]] up, for in our present exhausted
 
-      condition we could have no hope of living through another.
+      condition we could have no [[Hope|hope]] of living through another.
 
 
 
@@ -6671,11 +6671,11 @@ CHAPTER 11
 
       of the leather trunk, and endeavoured to eat it, but found it
 
-      utterly impossible to swallow a single morsel, although I fancied
+      utterly impossible to [[Swallow|swallow]] a single morsel, although I fancied
 
-      that some little alleviation of my suffering was obtained by
+      that some little alleviation of my [[Suffering|suffering]] was obtained by
 
-      chewing small pieces of it and spitting them out. Toward night my
+      chewing small pieces of it and spitting them out. Toward [[Night|night]] my
 
       companions awoke, one by one, each in an indescribable state of
 
@@ -6683,15 +6683,15 @@ CHAPTER 11
 
       evaporated. They shook as if with a violent ague, and uttered the
 
-      most lamentable cries for water. Their condition affected me in
+      most lamentable cries for [[Water|water]]. Their condition affected me in
 
-      the most lively degree, at the same time causing me to rejoice in
+      the most lively degree, at the same [[Time|time]] causing me to rejoice in
 
       the fortunate train of circumstances which had prevented me from
 
       indulging in the wine, and consequently from sharing their
 
-      melancholy and most distressing sensations. Their conduct,
+      [[Melancholy|melancholy]] and most distressing sensations. Their conduct,
 
       however, gave me great uneasiness and alarm; for it was evident
 
@@ -6711,9 +6711,9 @@ CHAPTER 11
 
       I endeavoured, by every means in my power, to rouse him. Thinking
 
-      that a plunge in the sea-water might have a beneficial effect, I
+      that a plunge in the sea-[[Water|water]] might have a beneficial effect, I
 
-      contrived to fasten the end of a rope around his body, and then,
+      contrived to fasten the end of a rope around his [[Body|body]], and then,
 
       leading him to the companion-way (he remaining quite passive all
 
@@ -6739,7 +6739,7 @@ CHAPTER 11
 
       by reading in some medical work the good effect of the
 
-      shower-bath in a case where the patient was suffering from _mania
+      shower-bath in a case where the patient was [[Suffering|suffering]] from _mania
 
       a potu_.
 
@@ -6761,17 +6761,17 @@ CHAPTER 11
 
       articles, until I was completely exhausted, but brought up
 
-      nothing else. During the night Parker and Peters occupied
+      nothing else. During the [[Night|night]] Parker and Peters occupied
 
       themselves by turns in the same manner; but nothing coming to
 
-      hand, we now gave up this attempt in despair, concluding that we
+      hand, we now gave up this attempt in [[Despair|despair]], concluding that we
 
       were exhausting ourselves in vain.
 
 
 
-      We passed the remainder of this night in a state of the most
+      We passed the remainder of this [[Night|night]] in a state of the most
 
       intense mental and bodily anguish that can possibly be imagined.
 
@@ -6807,7 +6807,7 @@ CHAPTER 11
 
       gone as the other two. He suffered with great patience, making no
 
-      complaint, and endeavouring to inspire us with hope in every
+      complaint, and endeavouring to inspire us with [[Hope|hope]] in every
 
       manner he could devise. For myself, although at the commencement
 
@@ -6821,7 +6821,7 @@ CHAPTER 11
 
       intellect, and seemed to be brought to a species of second
 
-      childhood, generally simpering in their expressions, with idiotic
+      [[Childhood|childhood]], generally simpering in their expressions, with idiotic
 
       smiles, and uttering the most absurd platitudes. At intervals,
 
@@ -6829,11 +6829,11 @@ CHAPTER 11
 
       at once with a consciousness of their condition, when they would
 
-      spring upon their feet in a momentary flash of vigour, and speak,
+      [[Spring|spring]] upon their feet in a momentary flash of vigour, and speak,
 
       for a short period, of their prospects, in a manner altogether
 
-      rational, although full of the most intense despair. It is
+      rational, although full of the most intense [[Despair|despair]]. It is
 
       possible, however, that my companions may have entertained the
 
@@ -6847,7 +6847,7 @@ CHAPTER 11
 
 
 
-      About noon Parker declared that he saw land off the larboard
+      About [[Noon|noon]] Parker declared that he saw land off the larboard
 
       quarter, and it was with the utmost difficulty I could restrain
 
@@ -6859,15 +6859,15 @@ CHAPTER 11
 
       direction pointed out, I could not perceive the faintest
 
-      appearance of the shore—indeed, I was too well aware that we were
+      appearance of the shore—indeed, I was too [[Well|well]] aware that we were
 
-      far from any land to indulge in a hope of that nature. It was a
+      far from any land to indulge in a [[Hope|hope]] of that [[Nature|nature]]. It was a
 
-      long time, nevertheless, before I could convince Parker of his
+      long [[Time|time]], nevertheless, before I could convince Parker of his
 
-      mistake. He then burst into a flood of tears, weeping like a
+      mistake. He then burst into a flood of [[Tears|tears]], weeping like a
 
-      child, with loud cries and sobs, for two or three hours, when
+      [[Child|child]], with loud cries and sobs, for two or three hours, when
 
       becoming exhausted, he fell asleep.
 
@@ -6875,7 +6875,7 @@ CHAPTER 11
 
       Peters and Augustus now made several ineffectual efforts to
 
-      swallow portions of the leather. I advised them to chew it and
+      [[Swallow|swallow]] portions of the leather. I advised them to chew it and
 
       spit it out; but they were too excessively debilitated to be able
 
@@ -6883,7 +6883,7 @@ CHAPTER 11
 
       intervals, and found some relief from so doing; my chief distress
 
-      was for water, and I was only prevented from taking a draught
+      was for [[Water|water]], and I was only prevented from taking a draught
 
       from the sea by remembering the horrible consequences which thus
 
@@ -6897,7 +6897,7 @@ CHAPTER 11
 
       to the eastward, and on our larboard bow. She appeared to be a
 
-      large ship, and was coming nearly athwart us, being probably
+      large [[Ship|ship]], and was coming nearly athwart us, being probably
 
       twelve or fifteen miles distant. None of my companions had as yet
 
@@ -6919,19 +6919,19 @@ CHAPTER 11
 
       tearing their hair, and praying and cursing by turns. I was so
 
-      affected by their conduct, as well as by what I considered a sure
+      affected by their conduct, as [[Well|well]] as by what I considered a sure
 
       prospect of deliverance, that I could not refrain from joining in
 
-      with their madness, and gave way to the impulses of my gratitude
+      with their [[Madness|madness]], and gave way to the impulses of my gratitude
 
-      and ecstasy by lying and rolling on the deck, clapping my hands,
+      and ecstasy by lying and [[rolling]] on the deck, clapping my hands,
 
       shouting, and other similar acts, until I was suddenly called to
 
       my recollection, and once more to the extreme human misery and
 
-      despair, by perceiving the ship all at once with her stern fully
+      [[Despair|despair]], by perceiving the [[Ship|ship]] all at once with her stern fully
 
       presented toward us, and steering in a direction nearly opposite
 
@@ -6939,7 +6939,7 @@ CHAPTER 11
 
 
 
-      It was some time before I could induce my poor companions to
+      It was some [[Time|time]] before I could induce my poor companions to
 
       believe that this sad reverse in our prospects had actually taken
 
@@ -6951,11 +6951,11 @@ CHAPTER 11
 
       affected me. In spite of all I could say or do to the contrary,
 
-      he persisted in saying that the ship was rapidly nearing us, and
+      he persisted in saying that the [[Ship|ship]] was rapidly nearing us, and
 
       in making preparations to go on board of her. Some seaweed
 
-      floating by the brig, he maintained that it was the ship’s boat,
+      floating by the brig, he maintained that it was the [[Ship|ship]]’s boat,
 
       and endeavoured to throw himself upon it, howling and shrieking
 
@@ -6967,7 +6967,7 @@ CHAPTER 11
 
       Having become in some degree pacified, we continued to watch the
 
-      ship until we finally lost sight of her, the weather becoming
+      [[Ship|ship]] until we finally lost sight of her, the weather becoming
 
       hazy, with a light breeze springing up. As soon as she was
 
@@ -6975,7 +6975,7 @@ CHAPTER 11
 
       expression of countenance which made me shudder. There was about
 
-      him an air of self-possession which I had not noticed in him
+      him an air of [[Self|self]]-possession which I had not noticed in him
 
       until now, and before he opened his lips my heart told me what he
 
@@ -6997,11 +6997,11 @@ CHAPTER 12
 
 
 
-      I had for some time past, dwelt upon the prospect of our being
+      I had for some [[Time|time]] past, dwelt upon the prospect of our being
 
       reduced to this last horrible extremity, and had secretly made up
 
-      my mind to suffer death in any shape or under any circumstances
+      my mind to suffer [[Death|death]] in any shape or under any circumstances
 
       rather than resort to such a course. Nor was this resolution in
 
@@ -7013,7 +7013,7 @@ CHAPTER 12
 
       praying to God for power to dissuade him from the horrible
 
-      purpose he entertained, I expostulated with him for a long time,
+      purpose he entertained, I expostulated with him for a long [[Time|time]],
 
       and in the most supplicating manner, begging him in the name of
 
@@ -7027,19 +7027,19 @@ CHAPTER 12
 
       He heard all I said without attempting to controvert any of my
 
-      arguments, and I had begun to hope that he would be prevailed
+      arguments, and I had begun to [[Hope|hope]] that he would be prevailed
 
       upon to do as I desired. But when I had ceased speaking, he said
 
-      that he knew very well all I had said was true, and that to
+      that he knew very [[Well|well]] all I had said was true, and that to
 
       resort to such a course was the most horrible alternative which
 
       could enter into the mind of man; but that he had now held out as
 
-      long as human nature could be sustained; that it was unnecessary
+      long as human [[Nature|nature]] could be sustained; that it was unnecessary
 
-      for all to perish, when, by the death of one, it was possible,
+      for all to perish, when, by the [[Death|death]] of one, it was possible,
 
       and even probable, that the rest might be finally preserved;
 
@@ -7047,7 +7047,7 @@ CHAPTER 12
 
       from his purpose, his mind having been thoroughly made up on the
 
-      subject even before the appearance of the ship, and that only her
+      subject even before the appearance of the [[Ship|ship]], and that only her
 
       heaving in sight had prevented him from mentioning his intention
 
@@ -7063,7 +7063,7 @@ CHAPTER 12
 
       I could devise, and which I thought likely to have influence with
 
-      one of his rough nature. He said, in reply, that he had not
+      one of his rough [[Nature|nature]]. He said, in reply, that he had not
 
       spoken until the very last possible moment, that he could exist
 
@@ -7097,7 +7097,7 @@ CHAPTER 12
 
       drawing a knife, made several ineffectual efforts to stab me in
 
-      the stomach; an atrocity which his excessive debility alone
+      the stomach; an atrocity which his excessive debility [[Alone|alone]]
 
       prevented him from accomplishing. In the meantime, being roused
 
@@ -7131,7 +7131,7 @@ CHAPTER 12
 
       myself in resisting any attempt to execute so dreadful a purpose,
 
-      and, with the aid of either one of them, I had no fear of being
+      and, with the aid of either one of them, I had no [[Fear|fear]] of being
 
       able to prevent its accomplishment. Being disappointed in this
 
@@ -7141,7 +7141,7 @@ CHAPTER 12
 
       possibly be considered by men in their frightful condition a
 
-      sufficient excuse for refusing me fair play in the tragedy that I
+      sufficient excuse for refusing me fair play in the [[Tragedy|tragedy]] that I
 
       knew would speedily be enacted.
 
@@ -7153,7 +7153,7 @@ CHAPTER 12
 
       had gathered around us might have an opportunity of lifting, when
 
-      it was possible that the ship we had seen might be again in
+      it was possible that the [[Ship|ship]] we had seen might be again in
 
       sight. After great difficulty I obtained from them a promise to
 
@@ -7171,11 +7171,11 @@ CHAPTER 12
 
       after events have been able to efface in the slightest degree
 
-      from my memory, and whose stern recollection will embitter every
+      from my [[Memory|memory]], and whose stern recollection will embitter every
 
       future moment of my existence. Let me run over this portion of my
 
-      narrative with as much haste as the nature of the events to be
+      narrative with as much haste as the [[Nature|nature]] of the events to be
 
       spoken of will permit. The only method we could devise for the
 
@@ -7203,19 +7203,19 @@ CHAPTER 12
 
       existence may be held. But now that the silent, definite, and
 
-      stern nature of the business in which I was engaged (so different
+      stern [[Nature|nature]] of the business in which I was engaged (so different
 
-      from the tumultuous dangers of the storm or the gradually
+      from the tumultuous dangers of the [[Storm|storm]] or the gradually
 
       approaching horrors of famine) allowed me to reflect on the few
 
-      chances I had of escaping the most appalling of deaths—a death
+      chances I had of escaping the most appalling of deaths—a [[Death|death]]
 
       for the most appalling of purposes—every particle of that energy
 
       which had so long buoyed me up departed like feathers before the
 
-      wind, leaving me a helpless prey to the most abject and pitiable
+      [[Wind|wind]], leaving me a helpless prey to the most abject and pitiable
 
       terror. I could not, at first, even summon up sufficient strength
 
@@ -7231,13 +7231,13 @@ CHAPTER 12
 
       and entreating them to let me escape this necessity; of suddenly
 
-      rushing upon them, and, by putting one of them to death, of
+      rushing upon them, and, by putting one of them to [[Death|death]], of
 
       rendering the decision by lot useless—in short, of every thing
 
       but of going through with the matter I had in hand. At last,
 
-      after wasting a long time in this imbecile conduct, I was
+      after wasting a long [[Time|time]] in this imbecile conduct, I was
 
       recalled to my senses by the voice of Parker, who urged me to
 
@@ -7311,9 +7311,9 @@ CHAPTER 12
 
 
 
-      I recovered from my swoon in time to behold the consummation of
+      I recovered from my swoon in [[Time|time]] to behold the consummation of
 
-      the tragedy in the death of him who had been chiefly instrumental
+      the [[Tragedy|tragedy]] in the [[Death|death]] of him who had been chiefly instrumental
 
       in bringing it about. He made no resistance whatever, and was
 
@@ -7327,13 +7327,13 @@ CHAPTER 12
 
       suffice to say that, having in some measure appeased the raging
 
-      thirst which consumed us by the blood of the victim, and having
+      thirst which consumed us by the [[Blood|blood]] of the victim, and having
 
       by common consent taken off the hands, feet, and head, throwing
 
       them together with the entrails, into the sea, we devoured the
 
-      rest of the body, piecemeal, during the four ever memorable days
+      rest of the [[Body|body]], piecemeal, during the four ever memorable days
 
       of the seventeenth, eighteenth, nineteenth, and twentieth of the
 
@@ -7343,7 +7343,7 @@ CHAPTER 12
 
       On the nineteenth, there coming on a smart shower which lasted
 
-      fifteen or twenty minutes, we contrived to catch some water by
+      fifteen or twenty minutes, we contrived to catch some [[Water|water]] by
 
       means of a sheet which had been fished up from the cabin by our
 
@@ -7351,7 +7351,7 @@ CHAPTER 12
 
       amount to more than half a gallon; but even this scanty allowance
 
-      supplied us with comparative strength and hope.
+      supplied us with comparative strength and [[Hope|hope]].
 
 
 
@@ -7369,9 +7369,9 @@ CHAPTER 12
 
       through my mind all at once an idea which inspired me with a
 
-      bright gleam of hope. I remembered that, when the foremast had
+      bright gleam of [[Hope|hope]]. I remembered that, when the foremast had
 
-      been cut away, Peters, being in the windward chains, passed one
+      been cut away, Peters, being in the windward [[Chains|chains]], passed one
 
       of the axes into my hand, requesting me to put it, if possible,
 
@@ -7405,7 +7405,7 @@ CHAPTER 12
 
       square, had remained uninjured. I did not hesitate, however, to
 
-      attempt the descent; and a rope being fastened round my body as
+      attempt the descent; and a rope being fastened round my [[Body|body]] as
 
       before, I plunged boldly in, feet foremost, made my way quickly
 
@@ -7421,7 +7421,7 @@ CHAPTER 12
 
       We now commenced cutting at the deck with all the energy of
 
-      rekindled hope, Peters and myself taking the axe by turns,
+      rekindled [[Hope|hope]], Peters and myself taking the axe by turns,
 
       Augustus’s wounded arm not permitting him to aid us in any
 
@@ -7437,7 +7437,7 @@ CHAPTER 12
 
       storeroom. This consideration, however, did not discourage us;
 
-      and, working all night by the light of the moon, we succeeded in
+      and, working all [[Night|night]] by the light of the [[Moon|moon]], we succeeded in
 
       effecting our purpose by daybreak on the morning of the
 
@@ -7455,7 +7455,7 @@ CHAPTER 12
 
       with the greatest avidity, we proceeded to let him down again.
 
-      This time he succeeded beyond our utmost expectations, returning
+      This [[Time|time]] he succeeded beyond our utmost expectations, returning
 
       instantly with a large ham and a bottle of Madeira wine. Of the
 
@@ -7465,7 +7465,7 @@ CHAPTER 12
 
       except about two pounds near the bone, was not in a condition to
 
-      be eaten, having been entirely spoiled by the salt water. The
+      be eaten, having been entirely spoiled by the salt [[Water|water]]. The
 
       sound part was divided among us. Peters and Augustus, not being
 
@@ -7479,11 +7479,11 @@ CHAPTER 12
 
 
 
-      By noon, feeling somewhat strengthened and refreshed, we again
+      By [[Noon|noon]], feeling somewhat strengthened and refreshed, we again
 
       renewed our attempt at getting up provisions, Peters and myself
 
-      going down alternately, and always with more or less success,
+      going down alternately, and always with more or less [[success]],
 
       until sundown. During this interval we had the good fortune to
 
@@ -7511,7 +7511,7 @@ CHAPTER 12
 
       islands called the Gallipagos, which, indeed, derive their name
 
-      from the animal—the Spanish word Gallipago meaning a fresh-water
+      from the animal—the Spanish word Gallipago meaning a fresh-[[Water|water]]
 
       terrapin. From the peculiarity of their shape and action they
 
@@ -7539,25 +7539,25 @@ CHAPTER 12
 
       resemblance to that of a serpent. They can exist without food for
 
-      an almost incredible length of time, instances having been known
+      an almost incredible length of [[Time|time]], instances having been known
 
       where they have been thrown into the hold of a vessel and lain
 
       two years without nourishment of any kind—being as fat, and, in
 
-      every respect, in as good order at the expiration of the time as
+      every respect, in as good order at the expiration of the [[Time|time]] as
 
       when they were first put in. In one particular these
 
-      extraordinary animals bear a resemblance to the dromedary, or
+      extraordinary [[Animals|animals]] bear a resemblance to the dromedary, or
 
-      camel of the desert. In a bag at the root of the neck they carry
+      camel of the [[Desert|desert]]. In a bag at the root of the neck they carry
 
-      with them a constant supply of water. In some instances, upon
+      with them a constant supply of [[Water|water]]. In some instances, upon
 
       killing them after a full year’s deprivation of all nourishment,
 
-      as much as three gallons of perfectly sweet and fresh water have
+      as much as three gallons of perfectly sweet and fresh [[Water|water]] have
 
       been found in their bags. Their food is chiefly wild parsley and
 
@@ -7569,7 +7569,7 @@ CHAPTER 12
 
       animal itself is discovered. They are excellent and highly
 
-      nutritious food, and have, no doubt, been the means of preserving
+      nutritious food, and have, no [[Doubt|doubt]], been the means of preserving
 
       the lives of thousands of seamen employed in the whale-fishery
 
@@ -7585,7 +7585,7 @@ CHAPTER 12
 
       being exceedingly fat, and having more than a quart of limpid and
 
-      sweet water in its bag. This was indeed a treasure; and, falling
+      sweet [[Water|water]] in its bag. This was indeed a treasure; and, falling
 
       on our knees with one accord, we returned fervent thanks to God
 
@@ -7599,7 +7599,7 @@ CHAPTER 12
 
       prodigious. It was upon the point of making its escape from
 
-      Peter’s grasp, and slipping back into the water, when Augustus,
+      Peter’s grasp, and slipping back into the [[Water|water]], when Augustus,
 
       throwing a rope with a slipknot around its throat, held it up in
 
@@ -7609,7 +7609,7 @@ CHAPTER 12
 
 
 
-      The water we drew carefully from the bag into the jug; which, it
+      The [[Water|water]] we drew carefully from the bag into the jug; which, it
 
       will be remembered, had been brought up before from the cabin.
 
@@ -7627,19 +7627,19 @@ CHAPTER 12
 
       During the last two or three days, the weather having been dry
 
-      and pleasant, the bedding we had obtained from the cabin, as well
+      and pleasant, the bedding we had obtained from the cabin, as [[Well|well]]
 
       as our clothing, had become thoroughly dry, so that we passed
 
-      this night (that of the twenty-third) in comparative comfort,
+      this [[Night|night]] (that of the twenty-third) in comparative comfort,
 
       enjoying a tranquil repose, after having supped plentifully on
 
       olives and ham, with a small allowance of the wine. Being afraid
 
-      of losing some of our stores overboard during the night, in the
+      of losing some of our stores overboard during the [[Night|night]], in the
 
-      event of a breeze springing up, we secured them as well as
+      event of a breeze springing up, we secured them as [[Well|well]] as
 
       possible with cordage to the fragments of the windlass. Our
 
@@ -7671,7 +7671,7 @@ CHAPTER 13
 
       for a fortnight even with great care, almost entirely without
 
-      water, and floating about at the mercy of every wind and wave on
+      [[Water|water]], and floating about at the [[Mercy|mercy]] of every [[Wind|wind]] and wave on
 
       the merest wreck in the world, still the infinitely more terrible
 
@@ -7689,15 +7689,15 @@ CHAPTER 13
 
       something from the storeroom, when, a smart shower coming on,
 
-      with some lightning, we turn our attention to the catching of
+      with some [[Lightning|lightning]], we turn our attention to the catching of
 
-      water by means of the sheet we had used before for this purpose.
+      [[Water|water]] by means of the sheet we had used before for this purpose.
 
       We had no other means of collecting the rain than by holding the
 
       sheet spread out with one of the forechain-plates in the middle
 
-      of it. The water, thus conducted to the centre, was drained
+      of it. The [[Water|water]], thus conducted to the centre, was drained
 
       through into our jug. We had nearly filled it in this manner,
 
@@ -7713,21 +7713,21 @@ CHAPTER 13
 
       anticipated or would have been imagined possible under the
 
-      circumstances. At noon the wind had freshened into a two-reef
+      circumstances. At [[Noon|noon]] the [[Wind|wind]] had freshened into a two-reef
 
-      breeze, and by night into a stiff gale, accompanied with a
+      breeze, and by [[Night|night]] into a stiff gale, accompanied with a
 
       tremendously heavy swell. Experience having taught us, however,
 
       the best method of arranging our lashings, we weathered this
 
-      dreary night in tolerable security, although thoroughly drenched
+      dreary [[Night|night]] in tolerable security, although thoroughly drenched
 
       at almost every instant by the sea, and in momentary dread of
 
       being washed off. Fortunately, the weather was so warm as to
 
-      render the water rather grateful than otherwise.
+      render the [[Water|water]] rather grateful than otherwise.
 
 
 
@@ -7737,7 +7737,7 @@ CHAPTER 13
 
       were able to keep ourselves dry upon the deck. To our great
 
-      grief, however, we found that two jars of our olives, as well as
+      grief, however, we found that two jars of our olives, as [[Well|well]] as
 
       the whole of our ham, had been washed overboard, in spite of the
 
@@ -7747,7 +7747,7 @@ CHAPTER 13
 
       present with a breakfast on a few of the olives, and a measure of
 
-      water each, which latter we mixed half and half, with wine,
+      [[Water|water]] each, which latter we mixed half and half, with wine,
 
       finding great relief and strength from the mixture, without the
 
@@ -7765,9 +7765,9 @@ CHAPTER 13
 
       we could not stand an instant without lashing ourselves. On this
 
-      account we passed a gloomy and uncomfortable day. At noon the sun
+      account we passed a gloomy and uncomfortable day. At [[Noon|noon]] the sun
 
-      appeared to be nearly vertical, and we had no doubt that we had
+      appeared to be nearly vertical, and we had no [[Doubt|doubt]] that we had
 
       been driven down by the long succession of northward and
 
@@ -7777,9 +7777,9 @@ CHAPTER 13
 
       audacious manner in which an enormously large one approached us.
 
-      At one time, a lurch throwing the deck very far beneath the
+      At one [[Time|time]], a lurch throwing the deck very far beneath the
 
-      water, the monster actually swam in upon us, floundering for some
+      [[Water|water]], the [[Monster|monster]] actually swam in upon us, floundering for some
 
       moments just over the companion-hatch, and striking Peters
 
@@ -7791,7 +7791,7 @@ CHAPTER 13
 
 
 
-      July 26. This morning, the wind having greatly abated, and the
+      July 26. This morning, the [[Wind|wind]] having greatly abated, and the
 
       sea not being very rough, we determined to renew our exertions in
 
@@ -7801,13 +7801,13 @@ CHAPTER 13
 
       quarter, the partitions of the room having been stove during the
 
-      night, and its contents swept into the hold. This discovery, as
+      [[Night|night]], and its contents swept into the hold. This discovery, as
 
-      may be supposed, filled us with despair.
+      may be supposed, filled us with [[Despair|despair]].
 
 
 
-      July 27. The sea nearly smooth, with a light wind, and still from
+      July 27. The sea nearly smooth, with a light [[Wind|wind]], and still from
 
       the northward and westward. The sun coming out hotly in the
 
@@ -7825,17 +7825,17 @@ CHAPTER 13
 
       July 28. Good weather still. The brig now began to lie along so
 
-      alarmingly that we feared she would eventually roll bottom up.
+      alarmingly that we feared she would eventually roll [[Bottom|bottom]] up.
 
-      Prepared ourselves as well as we could for this emergency,
+      Prepared ourselves as [[Well|well]] as we could for this emergency,
 
       lashing our tortoise, waterjug, and two remaining jars of olives
 
       as far as possible over to the windward, placing them outside the
 
-      hull below the main-chains. The sea very smooth all day, with
+      hull below the main-[[Chains|chains]]. The sea very smooth all day, with
 
-      little or no wind.
+      little or no [[Wind|wind]].
 
 
 
@@ -7843,7 +7843,7 @@ CHAPTER 13
 
       arm began to evince symptoms of mortification. He complained of
 
-      drowsiness and excessive thirst, but no acute pain. Nothing could
+      drowsiness and excessive thirst, but no acute [[Pain|pain]]. Nothing could
 
       be done for his relief beyond rubbing his wounds with a little of
 
@@ -7851,11 +7851,11 @@ CHAPTER 13
 
       be experienced. We did every thing in our power for his comfort,
 
-      and trebled his allowance of water.
+      and trebled his allowance of [[Water|water]].
 
 
 
-      July 30. An excessively hot day, with no wind. An enormous shark
+      July 30. An excessively hot day, with no [[Wind|wind]]. An enormous shark
 
       kept close by the hulk during the whole of the forenoon. We made
 
@@ -7867,17 +7867,17 @@ CHAPTER 13
 
       constantly prayed to be relieved from his sufferings, wishing for
 
-      nothing but death. This evening we ate the last of our olives,
+      nothing but [[Death|death]]. This evening we ate the last of our olives,
 
-      and found the water in our jug so putrid that we could not
+      and found the [[Water|water]] in our jug so putrid that we could not
 
-      swallow it at all without the addition of wine. Determined to
+      [[Swallow|swallow]] it at all without the addition of wine. Determined to
 
       kill our tortoise in the morning.
 
 
 
-      July 31. After a night of excessive anxiety and fatigue, owing to
+      July 31. After a [[Night|night]] of excessive anxiety and fatigue, owing to
 
       the position of the hulk, we set about killing and cutting up our
 
@@ -7903,21 +7903,21 @@ CHAPTER 13
 
       us thirteen days. A brisk shower, with severe thunder and
 
-      lightning, came on about dusk, but lasted so short a time that we
+      [[Lightning|lightning]], came on about dusk, but lasted so short a [[Time|time]] that we
 
-      only succeeded in catching about half a pint of water. The whole
+      only succeeded in catching about half a pint of [[Water|water]]. The whole
 
       of this, by common consent, was given to Augustus, who now
 
-      appeared to be in the last extremity. He drank the water from the
+      appeared to be in the last extremity. He drank the [[Water|water]] from the
 
       sheet as we caught it (we holding it above him as he lay so as to
 
       let it run into his mouth), for we had now nothing left capable
 
-      of holding water, unless we had chosen to empty out our wine from
+      of holding [[Water|water]], unless we had chosen to empty out our wine from
 
-      the carboy, or the stale water from the jug. Either of these
+      the carboy, or the stale [[Water|water]] from the jug. Either of these
 
       expedients would have been resorted to had the shower lasted.
 
@@ -7947,11 +7947,11 @@ CHAPTER 13
 
       August 1. A continuance of the same calm weather, with an
 
-      oppressively hot sun. Suffered exceedingly from thirst, the water
+      oppressively hot sun. Suffered exceedingly from thirst, the [[Water|water]]
 
       in the jug being absolutely putrid and swarming with vermin. We
 
-      contrived, nevertheless, to swallow a portion of it by mixing it
+      contrived, nevertheless, to [[Swallow|swallow]] a portion of it by mixing it
 
       with wine; our thirst, however, was but little abated. We found
 
@@ -7965,9 +7965,9 @@ CHAPTER 13
 
       nothing to relieve his sufferings, which appeared to be great.
 
-      About twelve o’clock he expired in strong convulsions, and
+      About twelve o’[[Clock|clock]] he expired in strong convulsions, and
 
-      without having spoken for several hours. His death filled us with
+      without having spoken for several hours. His [[Death|death]] filled us with
 
       the most gloomy forebodings, and had so great an effect upon our
 
@@ -7975,15 +7975,15 @@ CHAPTER 13
 
       day, and never addressed each other except in a whisper. It was
 
-      not until some time after dark that we took courage to get up and
+      not until some [[Time|time]] after dark that we took [[Courage|courage]] to get up and
 
-      throw the body overboard. It was then loathsome beyond
+      throw the [[Body|body]] overboard. It was then loathsome beyond
 
       expression, and so far decayed that, as Peters attempted to lift
 
       it, an entire leg came off in his grasp. As the mass of
 
-      putrefaction slipped over the vessel’s side into the water, the
+      putrefaction slipped over the vessel’s side into the [[Water|water]], the
 
       glare of phosphoric light with which it was surrounded plainly
 
@@ -7997,15 +7997,15 @@ CHAPTER 13
 
 
 
-      August 2. The same fearfully calm and hot weather. The dawn found
+      August 2. The same fearfully calm and hot weather. The [[Dawn|dawn]] found
 
-      us in a state of pitiable dejection as well as bodily exhaustion.
+      us in a state of pitiable dejection as [[Well|well]] as bodily exhaustion.
 
-      The water in the jug was now absolutely useless, being a thick
+      The [[Water|water]] in the jug was now absolutely useless, being a thick
 
       gelatinous mass; nothing but frightful-looking worms mingled with
 
-      slime. We threw it out, and washed the jug well in the sea,
+      slime. We threw it out, and washed the jug [[Well|well]] in the sea,
 
       afterward pouring a little vinegar in it from our bottles of
 
@@ -8025,7 +8025,7 @@ CHAPTER 13
 
       opportunity of bathing, but to no purpose; for the hulk was now
 
-      entirely besieged on all sides with sharks—no doubt the identical
+      entirely besieged on all sides with sharks—no [[Doubt|doubt]] the identical
 
       monsters who had devoured our poor companion on the evening
 
@@ -8033,7 +8033,7 @@ CHAPTER 13
 
       feast. This circumstance occasioned us the most bitter regret and
 
-      filled us with the most depressing and melancholy forebodings. We
+      filled us with the most depressing and [[Melancholy|melancholy]] forebodings. We
 
       had experienced indescribable relief in bathing, and to have this
 
@@ -8059,7 +8059,7 @@ CHAPTER 13
 
       conceive our sufferings from thirst at this period. We passed a
 
-      sleepless night, both on this account and through dread of the
+      sleepless [[Night|night]], both on this account and through dread of the
 
       sharks.
 
@@ -8073,23 +8073,23 @@ CHAPTER 13
 
       tortoise-meat, so that we might not lose them in the event of our
 
-      rolling over. Got out two stout spikes from the forechains, and,
+      [[rolling]] over. Got out two stout spikes from the forechains, and,
 
       by means of the axe, drove them into the hull to windward within
 
-      a couple of feet of the water, this not being very far from the
+      a couple of feet of the [[Water|water]], this not being very far from the
 
       keel, as we were nearly upon our beam-ends. To these spikes we
 
       now lashed our provisions, as being more secure than their former
 
-      position beneath the chains. Suffered great agony from thirst
+      position beneath the [[Chains|chains]]. Suffered great agony from thirst
 
       during the whole day—no chance of bathing on account of the
 
       sharks, which never left us for a moment. Found it impossible to
 
-      sleep.
+      [[Sleep|sleep]].
 
 
 
@@ -8099,7 +8099,7 @@ CHAPTER 13
 
       by the movement. At first the roll was slow and gradual, and we
 
-      contrived to clamber over to windward very well, having taken the
+      contrived to clamber over to windward very [[Well|well]], having taken the
 
       precaution to leave ropes hanging from the spikes we had driven
 
@@ -8117,7 +8117,7 @@ CHAPTER 13
 
 
 
-      In going under the water I had been obliged to let go my hold
+      In going under the [[Water|water]] I had been obliged to let go my hold
 
       upon the rope; and finding that I was completely beneath the
 
@@ -8129,7 +8129,7 @@ CHAPTER 13
 
       consideration the natural rebound of the hull to windward. The
 
-      whirl of the water upward, which the vessel occasioned in rolling
+      whirl of the [[Water|water]] upward, which the vessel occasioned in [[rolling]]
 
       partially back, brought me to the surface still more violently
 
@@ -8153,15 +8153,15 @@ CHAPTER 13
 
       knew to be in my vicinity. In order to deter these, if possible,
 
-      from approaching me, I splashed the water vigorously with both
+      from approaching me, I splashed the [[Water|water]] vigorously with both
 
-      hands and feet as I swam towards the hulk, creating a body of
+      hands and feet as I swam towards the hulk, creating a [[Body|body]] of
 
-      foam. I have no doubt that to this expedient, simple as it was, I
+      foam. I have no [[Doubt|doubt]] that to this expedient, simple as it was, I
 
       was indebted for my preservation; for the sea all round the brig,
 
-      just before her rolling over, was so crowded with these monsters,
+      just before her [[rolling]] over, was so crowded with these monsters,
 
       that I must have been, and really was, in actual contact with
 
@@ -8191,7 +8191,7 @@ CHAPTER 13
 
       all our care in securing it; and seeing no longer the remotest
 
-      possibility of obtaining more, we gave way both of us to despair,
+      possibility of obtaining more, we gave way both of us to [[Despair|despair]],
 
       weeping aloud like children, and neither of us attempting to
 
@@ -8199,7 +8199,7 @@ CHAPTER 13
 
       conceived, and to those who have never been similarly situated
 
-      will, no doubt, appear unnatural; but it must be remembered that
+      will, no [[Doubt|doubt]], appear unnatural; but it must be remembered that
 
       our intellects were so entirely disordered by the long course of
 
@@ -8213,7 +8213,7 @@ CHAPTER 13
 
       situation, and Peters, it will be seen, evinced a stoical
 
-      philosophy nearly as incredible as his present childlike
+      [[philosophy]] nearly as incredible as his present childlike
 
       supineness and imbecility—the mental condition made the
 
@@ -8231,7 +8231,7 @@ CHAPTER 13
 
       rainwater, and of the jug in which we had kept it when caught;
 
-      for we found the whole bottom, from within two or three feet of
+      for we found the whole [[Bottom|bottom]], from within two or three feet of
 
       the bends as far as the keel, together with the keel itself,
 
@@ -8253,7 +8253,7 @@ CHAPTER 13
 
 
 
-      The difficulty, however, of now obtaining water blinded us to all
+      The difficulty, however, of now obtaining [[Water|water]] blinded us to all
 
       the benefits of the change in our condition. That we might be
 
@@ -8265,11 +8265,11 @@ CHAPTER 13
 
       even under the most favorable circumstances, than half a gill at
 
-      a time. No signs of a cloud appeared during the day, and the
+      a [[Time|time]]. No signs of a cloud appeared during the day, and the
 
-      agonies of our thirst were nearly intolerable. At night, Peters
+      agonies of our thirst were nearly intolerable. At [[Night|night]], Peters
 
-      obtained about an hour’s disturbed sleep, but my intense
+      obtained about an hour’s disturbed [[Sleep|sleep]], but my intense
 
       sufferings would not permit me to close my eyes for a single
 
@@ -8289,27 +8289,27 @@ CHAPTER 13
 
       Seeing no trace of sharks among the seaweed, we also ventured to
 
-      bathe, and remained in the water for four or five hours, during
+      bathe, and remained in the [[Water|water]] for four or five hours, during
 
       which we experienced a very sensible diminution of our thirst.
 
-      Were greatly refreshed, and spent the night somewhat more
+      Were greatly refreshed, and spent the [[Night|night]] somewhat more
 
-      comfortably than before, both of us snatching a little sleep.
+      comfortably than before, both of us snatching a little [[Sleep|sleep]].
 
 
 
       August 6. This day we were blessed by a brisk and continual rain,
 
-      lasting from about noon until after dark. Bitterly did we now
+      lasting from about [[Noon|noon]] until after dark. Bitterly did we now
 
       regret the loss of our jug and carboy; for, in spite of the
 
-      little means we had of catching the water, we might have filled
+      little means we had of catching the [[Water|water]], we might have filled
 
       one, if not both of them. As it was, we contrived to satisfy the
 
-      cravings of thirst by suffering the shirts to become saturated,
+      cravings of thirst by [[Suffering|suffering]] the shirts to become saturated,
 
       and then wringing them so as to let the grateful fluid trickle
 
@@ -8357,13 +8357,13 @@ CHAPTER 13
 
       regarded as belonging to the human species. {*2} In this
 
-      instance, however, by the mercy of God, we were destined to be
+      instance, however, by the [[Mercy|mercy]] of God, we were destined to be
 
       most happily deceived; for, presently we were aware of a sudden
 
       commotion on the deck of the stranger, who immediately afterward
 
-      ran up a British flag, and, hauling her wind, bore up directly
+      ran up a British [[Flag|flag]], and, hauling her [[Wind|wind]], bore up directly
 
       upon us. In half an hour more we found ourselves in her cabin.
 
@@ -8389,11 +8389,11 @@ CHAPTER 14
 
       and eighty tons burden. She was unusually sharp in the bows, and
 
-      on a wind, in moderate weather, the fastest sailer I have ever
+      on a [[Wind|wind]], in moderate weather, the fastest sailer I have ever
 
       seen. Her qualities, however, as a rough sea-boat, were not so
 
-      good, and her draught of water was by far too great for the trade
+      good, and her draught of [[Water|water]] was by far too great for the trade
 
       to which she was destined. For this peculiar service, a larger
 
@@ -8405,11 +8405,11 @@ CHAPTER 14
 
       different construction from the usual South Sea ships. It is
 
-      absolutely necessary that she should be well armed. She should
+      absolutely necessary that she should be [[Well|well]] armed. She should
 
       have, say ten or twelve twelve-pound carronades, and two or three
 
-      long twelves, with brass blunderbusses, and water-tight
+      long twelves, with brass blunderbusses, and [[Water|water]]-tight
 
       arm-chests for each top. Her anchors and cables should be of far
 
@@ -8423,7 +8423,7 @@ CHAPTER 14
 
       seamen, besides the captain and mate, but she was not altogether
 
-      as well armed or otherwise equipped, as a navigator acquainted
+      as [[Well|well]] armed or otherwise equipped, as a navigator acquainted
 
       with the difficulties and dangers of the trade could have
 
@@ -8469,13 +8469,13 @@ CHAPTER 14
 
       and steered southwest, stretching over toward the coast of
 
-      Brazil, so as to cross the equator between the meridians of
+      Brazil, so as to [[Cross|cross]] the equator between the meridians of
 
       twenty-eight and thirty degrees west longitude. This is the
 
       course usually taken by vessels bound from Europe to the Cape of
 
-      Good Hope, or by that route to the East Indies. By proceeding
+      Good [[Hope]], or by that route to the East Indies. By proceeding
 
       thus they avoid the calms and strong contrary currents which
 
@@ -8501,7 +8501,7 @@ CHAPTER 14
 
       distressed situation demanded. In about a fortnight, during which
 
-      time we continued steering to the southeast, with gentle breezes
+      [[Time|time]] we continued steering to the southeast, with gentle breezes
 
       and fine weather, both Peters and myself recovered entirely from
 
@@ -8527,9 +8527,9 @@ CHAPTER 14
 
       remembered, but not the feelings which the incidents elicited at
 
-      the time of their occurrence. I only know, that when they did
+      the [[Time|time]] of their occurrence. I only know, that when they did
 
-      occur, I then thought human nature could sustain nothing more of
+      occur, I then thought human [[Nature|nature]] could sustain nothing more of
 
       agony.
 
@@ -8545,7 +8545,7 @@ CHAPTER 14
 
       found south of the twenty-fifth parallel. On the sixteenth of
 
-      September, being in the vicinity of the Cape of Good Hope, the
+      September, being in the vicinity of the Cape of Good [[Hope]], the
 
       schooner encountered her first gale of any violence since leaving
 
@@ -8559,13 +8559,13 @@ CHAPTER 14
 
       of their most dangerous features is the instantaneous chopping
 
-      round of the wind, an occurrence almost certain to take place
+      round of the [[Wind|wind]], an occurrence almost certain to take place
 
       during the greatest force of the gale. A perfect hurricane will
 
       be blowing at one moment from the northward or northeast, and in
 
-      the next not a breath of wind will be felt in that direction,
+      the next not a breath of [[Wind|wind]] will be felt in that direction,
 
       while from the southwest it will come out all at once with a
 
@@ -8603,7 +8603,7 @@ CHAPTER 14
 
       every preparation, we were hurled on our beam-ends, as if by
 
-      magic, and a perfect wilderness of foam made a clear breach over
+      [[Magic|magic]], and a perfect wilderness of foam made a clear breach over
 
       us as we lay. The blow from the southwest, however, luckily
 
@@ -8611,7 +8611,7 @@ CHAPTER 14
 
       fortune to right the vessel without the loss of a spar. A heavy
 
-      cross sea gave us great trouble for a few hours after this, but
+      [[Cross|cross]] sea gave us great trouble for a few hours after this, but
 
       toward morning we found ourselves in nearly as good condition as
 
@@ -8635,23 +8635,23 @@ CHAPTER 14
 
       and came to anchor in Christmas Harbour, having four fathoms of
 
-      water.
+      [[Water|water]].
 
 
 
       This island, or rather group of islands, bears southeast from the
 
-      Cape of Good Hope, and is distant therefrom nearly eight hundred
+      Cape of Good [[Hope]], and is distant therefrom nearly eight hundred
 
       leagues. It was first discovered in 1772, by the Baron de
 
       Kergulen, or Kerguelen, a Frenchman, who, thinking the land to
 
-      form a portion of an extensive southern continent carried home
+      form a portion of an extensive southern continent carried [[Home|home]]
 
       information to that effect, which produced much excitement at the
 
-      time. The government, taking the matter up, sent the baron back
+      [[Time|time]]. The [[government]], taking the matter up, sent the baron back
 
       in the following year for the purpose of giving his new discovery
 
@@ -8661,7 +8661,7 @@ CHAPTER 14
 
       principal one the name of Desolation Island, a title which it
 
-      certainly well deserves. Upon approaching the land, however, the
+      certainly [[Well|well]] deserves. Upon approaching the land, however, the
 
       navigator might be induced to suppose otherwise, as the sides of
 
@@ -8685,7 +8685,7 @@ CHAPTER 14
 
       The face of the country is hilly, although none of the hills can
 
-      be called lofty. Their tops are perpetually covered with snow.
+      be called lofty. Their tops are perpetually covered with [[Snow|snow]].
 
       There are several harbors, of which Christmas Harbour is the most
 
@@ -8713,11 +8713,11 @@ CHAPTER 14
 
       go with four fathoms, and find anchorage in from ten to three,
 
-      hard clay bottom. A ship might lie here with her best bower ahead
+      hard clay [[Bottom|bottom]]. A [[Ship|ship]] might lie here with her best bower ahead
 
       all the year round without risk. To the westward, at the head of
 
-      Wasp Bay, is a small stream of excellent water, easily procured.
+      Wasp Bay, is a small stream of excellent [[Water|water]], easily procured.
 
 
 
@@ -8731,23 +8731,23 @@ CHAPTER 14
 
       so called from its size and beautiful plumage, is the largest.
 
-      The upper part of the body is usually gray, sometimes of a lilac
+      The upper part of the [[Body|body]] is usually gray, sometimes of a lilac
 
       tint; the under portion of the purest white imaginable. The head
 
       is of a glossy and most brilliant black, the feet also. The chief
 
-      beauty of plumage, however, consists in two broad stripes of a
+      [[Beauty|beauty]] of plumage, however, consists in two broad stripes of a
 
       gold color, which pass along from the head to the breast. The
 
-      bill is long, and either pink or bright scarlet. These birds walk
+      bill is long, and either pink or bright scarlet. These [[Birds|birds]] walk
 
       erect; with a stately carriage. They carry their heads high with
 
       their wings drooping like two arms, and, as their tails project
 
-      from their body in a line with the legs, the resemblance to a
+      from their [[Body|body]] in a line with the legs, the resemblance to a
 
       human figure is very striking, and would be apt to deceive the
 
@@ -8763,7 +8763,7 @@ CHAPTER 14
 
 
 
-      Besides the penguin many other birds are here to be found, among
+      Besides the penguin many other [[Birds|birds]] are here to be found, among
 
       which may be mentioned sea-hens, blue peterels, teal, ducks, Port
 
@@ -8783,7 +8783,7 @@ CHAPTER 14
 
       palatable food. In flying they sometimes sail very close to the
 
-      surface of the water, with the wings expanded, without appearing
+      surface of the [[Water|water]], with the wings expanded, without appearing
 
       to move them in the least degree, or make any exertion with them
 
@@ -8793,11 +8793,11 @@ CHAPTER 14
 
       The albatross is one of the largest and fiercest of the South Sea
 
-      birds. It is of the gull species, and takes its prey on the wing,
+      [[Birds|birds]]. It is of the gull species, and takes its prey on the wing,
 
       never coming on land except for the purpose of breeding. Between
 
-      this bird and the penguin the most singular friendship exists.
+      this bird and the penguin the most singular [[Friendship|friendship]] exists.
 
       Their nests are constructed with great uniformity upon a plan
 
@@ -8819,7 +8819,7 @@ CHAPTER 14
 
 
 
-      When the season for incubation arrives, the birds assemble in
+      When the season for incubation arrives, the [[Birds|birds]] assemble in
 
       vast numbers, and for some days appear to be deliberating upon
 
@@ -8835,15 +8835,15 @@ CHAPTER 14
 
       which is the least encumbered with stones. This matter being
 
-      arranged, the birds proceed, with one accord, and actuated
+      arranged, the [[Birds|birds]] proceed, with one accord, and actuated
 
       apparently by one mind, to trace out, with mathematical accuracy,
 
       either a square or other parallelogram, as may best suit the
 
-      nature of the ground, and of just sufficient size to accommodate
+      [[Nature|nature]] of the ground, and of just sufficient size to accommodate
 
-      easily all the birds assembled, and no more—in this particular
+      easily all the [[Birds|birds]] assembled, and no more—in this particular
 
       seeming determined upon preventing the access of future
 
@@ -8851,7 +8851,7 @@ CHAPTER 14
 
       encampment. One side of the place thus marked out runs parallel
 
-      with the water’s edge, and is left open for ingress or egress.
+      with the [[Water|water]]’s edge, and is left open for ingress or egress.
 
 
 
@@ -8889,7 +8889,7 @@ CHAPTER 14
 
       earth, very shallow, being only just of sufficient depth to keep
 
-      her single egg from rolling. The albatross is somewhat less
+      her single egg from [[rolling]]. The albatross is somewhat less
 
       simple in her arrangements, erecting a hillock about a foot high
 
@@ -8899,7 +8899,7 @@ CHAPTER 14
 
 
 
-      The birds take especial care never to leave their nests
+      The [[Birds|birds]] take especial care never to leave their nests
 
       unoccupied for an instant during the period of incubation, or,
 
@@ -8911,7 +8911,7 @@ CHAPTER 14
 
       of her partner that she ventures abroad. The eggs are never left
 
-      uncovered at all—while one bird leaves the nest the other
+      uncovered at all—while one bird [[Leaves|leaves]] the nest the other
 
       nestling in by its side. This precaution is rendered necessary by
 
@@ -8927,7 +8927,7 @@ CHAPTER 14
 
       albatross are the sole population, yet in most of them a variety
 
-      of oceanic birds are to be met with, enjoying all the privileges
+      of oceanic [[Birds|birds]] are to be met with, enjoying all the privileges
 
       of citizenship, and scattering their nests here and there,
 
@@ -8943,7 +8943,7 @@ CHAPTER 14
 
       tribes) which are continually hovering over it, either going to
 
-      the ocean or returning home. At the same time a crowd of penguins
+      the ocean or returning [[Home|home]]. At the same [[Time|time]] a crowd of penguins
 
       are to be observed, some passing to and fro in the narrow alleys,
 
@@ -8957,7 +8957,7 @@ CHAPTER 14
 
       and nothing surely can be better calculated to elicit reflection
 
-      in every well-regulated human intellect.
+      in every [[Well|well]]-regulated human intellect.
 
 
 
@@ -8969,7 +8969,7 @@ CHAPTER 14
 
       captain and a young relation of his on a point of barren land to
 
-      the westward, they having some business, whose nature I could not
+      the westward, they having some business, whose [[Nature|nature]] I could not
 
       ascertain, to transact in the interior of the island. Captain Guy
 
@@ -8993,7 +8993,7 @@ CHAPTER 14
 
       small islands in the vicinity. Our labours, however, were not
 
-      crowned with any important success. We saw a great many fur seal,
+      crowned with any important [[success]]. We saw a great many fur seal,
 
       but they were exceedingly shy, and with the greatest exertions,
 
@@ -9047,7 +9047,7 @@ CHAPTER 15
 
 
 
-      This group, now so well known, and which consists of three
+      This group, now so [[Well|well]] known, and which consists of three
 
       circular islands, was first discovered by the Portuguese, and was
 
@@ -9077,17 +9077,17 @@ CHAPTER 15
 
       the upper region is barren rock, usually hidden among the clouds,
 
-      and covered with snow during the greater part of the year. There
+      and covered with [[Snow|snow]] during the greater part of the year. There
 
       are no shoals or other dangers about the island, the shores being
 
-      remarkably bold and the water deep. On the northwestern coast is
+      remarkably bold and the [[Water|water]] deep. On the northwestern coast is
 
       a bay, with a beach of black sand where a landing with boats can
 
-      be easily effected, provided there be a southerly wind. Plenty of
+      be easily effected, provided there be a southerly [[Wind|wind]]. Plenty of
 
-      excellent water may here be readily procured; also cod and other
+      excellent [[Water|water]] may here be readily procured; also cod and other
 
       fish may be taken with hook and line.
 
@@ -9109,7 +9109,7 @@ CHAPTER 15
 
 
 
-      Nightingale Island, the smallest and most southerly, is in
+      [[Nightingale]] Island, the smallest and most southerly, is in
 
       latitude 37 degrees 26’ S., longitude 12 degrees 12’ W. Off its
 
@@ -9125,31 +9125,31 @@ CHAPTER 15
 
       sea lions, sea elephants, the hair and fur seal, together with a
 
-      great variety of oceanic birds. Whales are also plenty in their
+      great variety of oceanic [[Birds|birds]]. Whales are also plenty in their
 
-      vicinity. Owing to the ease with which these various animals were
+      vicinity. Owing to the ease with which these various [[Animals|animals]] were
 
       here formerly taken, the group has been much visited since its
 
       discovery. The Dutch and French frequented it at a very early
 
-      period. In 1790, Captain Patten, of the ship Industry, of
+      period. In 1790, Captain Patten, of the [[Ship|ship]] Industry, of
 
       Philadelphia, made Tristan d’Acunha, where he remained seven
 
       months (from August, 1790, to April, 1791) for the purpose of
 
-      collecting sealskins. In this time he gathered no less than five
+      collecting sealskins. In this [[Time|time]] he gathered no less than five
 
       thousand six hundred, and says that he would have had no
 
-      difficulty in loading a large ship with oil in three weeks. Upon
+      difficulty in loading a large [[Ship|ship]] with oil in three weeks. Upon
 
       his arrival he found no quadrupeds, with the exception of a few
 
       wild goats; the island now abounds with all our most valuable
 
-      domestic animals, which have been introduced by subsequent
+      domestic [[Animals|animals]], which have been introduced by subsequent
 
       navigators.
 
@@ -9185,17 +9185,17 @@ CHAPTER 15
 
       1817 the islands were taken possession of by the British
 
-      Government, who sent a detachment for that purpose from the Cape
+      [[government|Government]], who sent a detachment for that purpose from the Cape
 
-      of Good Hope. They did not, however, retain them long; but, upon
+      of Good [[Hope]]. They did not, however, retain them long; but, upon
 
       the evacuation of the country as a British possession, two or
 
       three English families took up their residence there
 
-      independently of the Government. On the twenty-fifth of March,
+      independently of the [[government|Government]]. On the twenty-fifth of March,
 
-      1824, the Berwick, Captain Jeffrey, from London to Van Diemen’s
+      1824, the Berwick, Captain Jeffrey, from [[London]] to Van Diemen’s
 
       Land, arrived at the place, where they found an Englishman of the
 
@@ -9211,7 +9211,7 @@ CHAPTER 15
 
       collecting sealskins and sea elephant oil, with which they traded
 
-      to the Cape of Good Hope, Glass owning a small schooner. At the
+      to the Cape of Good [[Hope]], Glass owning a small schooner. At the
 
       period of our arrival the governor was still a resident, but his
 
@@ -9219,7 +9219,7 @@ CHAPTER 15
 
       upon Tristan, besides a smaller settlement of seven on
 
-      Nightingale Island. We had no difficulty in procuring almost
+      [[Nightingale]] Island. We had no difficulty in procuring almost
 
       every kind of refreshment which we required—sheep, hogs,
 
@@ -9249,9 +9249,9 @@ CHAPTER 15
 
       These islands are said to have been discovered as early as 1762,
 
-      by the commander of the ship Aurora. In 1790, Captain Manuel de
+      by the commander of the [[Ship|ship]] Aurora. In 1790, Captain Manuel de
 
-      Oyarvido, in the ship Princess, belonging to the Royal Philippine
+      Oyarvido, in the [[Ship|ship]] Princess, belonging to the Royal Philippine
 
       Company, sailed, as he asserts, directly among them. In 1794, the
 
@@ -9339,9 +9339,9 @@ CHAPTER 15
 
       far as the parallel of fifty-two degrees south, when we turned to
 
-      the eastward, and kept our parallel by double altitudes, morning
+      the eastward, and kept our parallel by [[Double|double]] altitudes, morning
 
-      and evening, and meridian altitudes of the planets and moon.
+      and evening, and meridian altitudes of the planets and [[Moon|moon]].
 
       Having thus gone eastwardly to the meridian of the western coast
 
@@ -9363,7 +9363,7 @@ CHAPTER 15
 
       no vestige of them remained at the present day. Since my return
 
-      home I find that the same ground was traced over, with equal
+      [[Home|home]] I find that the same ground was traced over, with equal
 
       care, in 1822, by Captain Johnson, of the American schooner
 
@@ -9393,7 +9393,7 @@ CHAPTER 16
 
       information received at Tristan d’Acunha induced him to steer to
 
-      the southward, in the hope of falling in with some small islands
+      the southward, in the [[Hope|hope]] of falling in with some small islands
 
       said to lie about the parallel of 60 degrees S., longitude 41
 
@@ -9417,7 +9417,7 @@ CHAPTER 16
 
       Before entering upon this portion of my narrative, it may be as
 
-      well, for the information of those readers who have paid little
+      [[Well|well]], for the information of those readers who have paid little
 
       attention to the progress of discovery in these regions, to give
 
@@ -9445,7 +9445,7 @@ CHAPTER 16
 
       difficulty in forcing a passage. At this period Captain Cook
 
-      supposed, from the vast number of birds to be seen, and from
+      supposed, from the vast number of [[Birds|birds]] to be seen, and from
 
       other indications, that he was in the near vicinity of land. He
 
@@ -9461,7 +9461,7 @@ CHAPTER 16
 
       penetrating much farther; for upon reaching latitude 67 degrees
 
-      15’ they found all farther progress impeded by an immense body of
+      15’ they found all farther progress impeded by an immense [[Body|body]] of
 
       ice, extending all along the southern horizon as far as the eye
 
@@ -9469,9 +9469,9 @@ CHAPTER 16
 
       of it, miles in extent, formed a compact mass, rising eighteen or
 
-      twenty feet above the water. It being late in the season, and no
+      twenty feet above the [[Water|water]]. It being late in the season, and no
 
-      hope entertained of rounding these obstructions, Captain Cook now
+      [[Hope|hope]] entertained of rounding these obstructions, Captain Cook now
 
       reluctantly turned to the northward.
 
@@ -9485,7 +9485,7 @@ CHAPTER 16
 
       67 degrees 31’, longitude 142 degrees 54’ W., the cold was
 
-      excessive, with heavy gales and fog. Here also birds were
+      excessive, with heavy gales and fog. Here also [[Birds|birds]] were
 
       abundant; the albatross, the penguin, and the peterel especially.
 
@@ -9511,7 +9511,7 @@ CHAPTER 16
 
       terminated in the extreme background by gigantic ranges of ice
 
-      mountains, the one towering above the other. Captain Cook
+      [[Mountains|mountains]], the one towering above the other. Captain Cook
 
       concluded that this vast field reached the southern pole or was
 
@@ -9541,7 +9541,7 @@ CHAPTER 16
 
       the sixth of January—and we should not be surprised if a portion
 
-      of the icy mountains described was attached to the main body of
+      of the icy [[Mountains|mountains]] described was attached to the main [[Body|body]] of
 
       Palmer’s Land, or to some other portions of land lying farther to
 
@@ -9551,7 +9551,7 @@ CHAPTER 16
 
       In 1803, Captains Kreutzenstern and Lisiausky were dispatched by
 
-      Alexander of Russia for the purpose of circumnavigating the
+      Alexander of [[Russia]] for the purpose of circumnavigating the
 
       globe. In endeavouring to get south, they made no farther than 59
 
@@ -9593,7 +9593,7 @@ CHAPTER 16
 
       15’, no fields, and only three islands of ice were visible. It is
 
-      somewhat remarkable that, although vast flocks of birds were
+      somewhat remarkable that, although vast flocks of [[Birds|birds]] were
 
       seen, and other usual indications of land, and although, south of
 
@@ -9615,7 +9615,7 @@ CHAPTER 16
 
       degrees 27’ E. The following passage is extracted from his
 
-      journal of that date. “The wind soon freshened to an eleven-knot
+      journal of that date. “The [[Wind|wind]] soon freshened to an eleven-knot
 
       breeze, and we embraced this opportunity of making to the west;
 
@@ -9637,9 +9637,9 @@ CHAPTER 16
 
       sea was now entirely free of field ice, and there were not more
 
-      than a dozen ice islands in sight. At the same time the
+      than a dozen ice islands in sight. At the same [[Time|time]] the
 
-      temperature of the air and water was at least thirteen degrees
+      temperature of the air and [[Water|water]] was at least thirteen degrees
 
       higher (more mild) than we had ever found it between the
 
@@ -9647,7 +9647,7 @@ CHAPTER 16
 
       70 degrees 14’ S., and the temperature of the air was
 
-      forty-seven, and that of the water forty-four. In this situation
+      forty-seven, and that of the [[Water|water]] forty-four. In this situation
 
       I found the variation to be 14 degrees 27’ easterly, per
 
@@ -9655,7 +9655,7 @@ CHAPTER 16
 
       circle, on different meridians, and have uniformly found the
 
-      temperature, both of the air and the water, to become more and
+      temperature, both of the air and the [[Water|water]], to become more and
 
       more mild the farther I advanced beyond the sixty-fifth degree of
 
@@ -9671,11 +9671,11 @@ CHAPTER 16
 
       circumference, and more than five hundred feet above the surface
 
-      of the water.”
+      of the [[Water|water]].”
 
 
 
-      Being nearly destitute of fuel and water, and without proper
+      Being nearly destitute of fuel and [[Water|water]], and without proper
 
       instruments, it being also late in the season, Captain Morrell
 
@@ -9701,7 +9701,7 @@ CHAPTER 16
 
       In 1831, Captain Briscoe, in the employ of the Messieurs Enderby,
 
-      whale-ship owners of London, sailed in the brig Lively for the
+      whale-[[Ship|ship]] owners of [[London]], sailed in the brig Lively for the
 
       South Seas, accompanied by the cutter Tula. On the twenty-eighth
 
@@ -9709,7 +9709,7 @@ CHAPTER 16
 
       degrees 31’ E., he descried land, and “clearly discovered through
 
-      the snow the black peaks of a range of mountains running E. S.
+      the [[Snow|snow]] the black peaks of a range of [[Mountains|mountains]] running E. S.
 
       E.” He remained in this neighbourhood during the whole of the
 
@@ -9719,7 +9719,7 @@ CHAPTER 16
 
       Finding it impossible to make further discovery during this
 
-      season, he returned northward to winter in Van Diemen’s Land.
+      season, he returned northward to [[Winter|winter]] in Van Diemen’s Land.
 
 
 
@@ -9735,13 +9735,13 @@ CHAPTER 16
 
       landing on the latter, and took possession of it in the name of
 
-      William IV, calling it Adelaide’s Island, in honour of the
+      William IV, calling it Adelaide’s Island, in [[Honour|honour]] of the
 
-      English queen. These particulars being made known to the Royal
+      English [[Queen|queen]]. These particulars being made known to the Royal
 
-      Geographical Society of London, the conclusion was drawn by that
+      Geographical Society of [[London]], the conclusion was drawn by that
 
-      body “that there is a continuous tract of land extending from 47
+      [[Body|body]] “that there is a continuous tract of land extending from 47
 
       degrees 30’ E. to 69 degrees 29’ W. longitude, running the
 
@@ -9799,7 +9799,7 @@ CHAPTER 17
 
       search for Glass’s islands, without meeting with any ice at all.
 
-      On the twenty-sixth, at noon, we were in latitude 63 degrees 23’
+      On the twenty-sixth, at [[Noon|noon]], we were in latitude 63 degrees 23’
 
       S., longitude 41 degrees 25’ W. We now saw several large ice
 
@@ -9807,11 +9807,11 @@ CHAPTER 17
 
       extent. The winds generally blew from the southeast, or the
 
-      northeast, but were very light. Whenever we had a westerly wind,
+      northeast, but were very light. Whenever we had a westerly [[Wind|wind]],
 
       which was seldom, it was invariably attended with a rain squall.
 
-      Every day we had more or less snow. The thermometer, on the
+      Every day we had more or less [[Snow|snow]]. The thermometer, on the
 
       twenty-seventh stood at thirty-five.
 
@@ -9833,7 +9833,7 @@ CHAPTER 17
 
       sail to force a passage through the smaller flakes into some open
 
-      water beyond. As we approached this space we took in sail by
+      [[Water|water]] beyond. As we approached this space we took in sail by
 
       degrees, and having at length got clear, lay-to under a single
 
@@ -9841,7 +9841,7 @@ CHAPTER 17
 
 
 
-      January 2.—We had now tolerably pleasant weather. At noon we
+      January 2.—We had now tolerably pleasant weather. At [[Noon|noon]] we
 
       found ourselves in latitude 69 degrees 10’ S, longitude 42
 
@@ -9871,7 +9871,7 @@ CHAPTER 17
 
       to a stand by an immense expanse of firm ice. We saw,
 
-      nevertheless, much open water to the southward, and felt no doubt
+      nevertheless, much open [[Water|water]] to the southward, and felt no [[Doubt|doubt]]
 
       of being able to reach it eventually. Standing to the eastward
 
@@ -9883,7 +9883,7 @@ CHAPTER 17
 
       ice islands, but had no field ice, and we pushed on boldly as
 
-      before. The cold did not seem to increase, although we had snow
+      before. The cold did not seem to increase, although we had [[Snow|snow]]
 
       very frequently, and now and then hail squalls of great violence.
 
@@ -9893,7 +9893,7 @@ CHAPTER 17
 
 
 
-      January 7.—The sea still remained pretty well open, so that we
+      January 7.—The sea still remained pretty [[Well|well]] open, so that we
 
       had no difficulty in holding on our course. To the westward we
 
@@ -9905,7 +9905,7 @@ CHAPTER 17
 
       probably, at the base, three-quarters of a league, and several
 
-      streams of water were running from crevices in its sides. We
+      streams of [[Water|water]] were running from crevices in its sides. We
 
       remained in sight of this island two days, and then only lost it
 
@@ -9917,11 +9917,11 @@ CHAPTER 17
 
       man overboard. He was an American named Peter Vredenburgh, a
 
-      native of New York, and was one of the most valuable hands on
+      native of [[New York]], and was one of the most valuable hands on
 
       board the schooner. In going over the bows his foot slipped, and
 
-      he fell between two cakes of ice, never rising again. At noon of
+      he fell between two cakes of ice, never rising again. At [[Noon|noon]] of
 
       this day we were in latitude 78 degrees 30’, longitude 40 degrees
 
@@ -9935,7 +9935,7 @@ CHAPTER 17
 
       in tiers, one mass above the other. Some driftwood floated by
 
-      during the evening, and a great quantity of birds flew over,
+      during the evening, and a great quantity of [[Birds|birds]] flew over,
 
       among which were nellies, peterels, albatrosses, and a large bird
 
@@ -9951,11 +9951,11 @@ CHAPTER 17
 
       nothing was to be seen in the direction of the pole but one
 
-      apparently limitless floe, backed by absolute mountains of ragged
+      apparently limitless floe, backed by absolute [[Mountains|mountains]] of ragged
 
       ice, one precipice of which arose frowningly above the other. We
 
-      stood to the westward until the fourteenth, in the hope of
+      stood to the westward until the fourteenth, in the [[Hope|hope]] of
 
       finding an entrance.
 
@@ -9971,11 +9971,11 @@ CHAPTER 17
 
       of half a mile per hour. The temperature of the air was
 
-      forty-seven, that of the water thirty-four. We now sailed to the
+      forty-seven, that of the [[Water|water]] thirty-four. We now sailed to the
 
       southward without meeting any interruption of moment until the
 
-      sixteenth, when, at noon, we were in latitude 81 degrees 21’,
+      sixteenth, when, at [[Noon|noon]], we were in latitude 81 degrees 21’,
 
       longitude 42 degrees W. We here again sounded, and found a
 
@@ -9995,7 +9995,7 @@ CHAPTER 17
 
       January 17.—This day was full of incident. Innumerable flights of
 
-      birds flew over us from the southward, and several were shot from
+      [[Birds|birds]] flew over us from the southward, and several were shot from
 
       the deck, one of them, a species of pelican, proved to be
 
@@ -10013,15 +10013,15 @@ CHAPTER 17
 
       possession of a gigantic creature of the race of the Arctic bear,
 
-      but far exceeding in size the largest of these animals. Being
+      but far exceeding in size the largest of these [[Animals|animals]]. Being
 
-      well armed, we made no scruple of attacking it at once. Several
+      [[Well|well]] armed, we made no scruple of attacking it at once. Several
 
       shots were fired in quick succession, the most of which took
 
-      effect, apparently, in the head and body. Nothing discouraged,
+      effect, apparently, in the head and [[Body|body]]. Nothing discouraged,
 
-      however, the monster threw himself from the ice, and swam with
+      however, the [[Monster|monster]] threw himself from the ice, and swam with
 
       open jaws, to the boat in which were Peters and myself. Owing to
 
@@ -10043,7 +10043,7 @@ CHAPTER 17
 
       reaching the spinal marrow at a blow. The brute tumbled into the
 
-      sea lifeless, and without a struggle, rolling over Peters as he
+      sea lifeless, and without a struggle, [[rolling]] over Peters as he
 
       fell. The latter soon recovered himself, and a rope being thrown
 
@@ -10055,7 +10055,7 @@ CHAPTER 17
 
       his greatest length. His wool was perfectly white, and very
 
-      coarse, curling tightly. The eyes were of a blood red, and larger
+      coarse, curling tightly. The eyes were of a [[Blood|blood]] red, and larger
 
       than those of the Arctic bear, the snout also more rounded,
 
@@ -10087,7 +10087,7 @@ CHAPTER 17
 
       corded bales of cotton. Around this ledge to the westward is a
 
-      small bay, at the bottom of which our boats effected a convenient
+      small bay, at the [[Bottom|bottom]] of which our boats effected a convenient
 
       landing.
 
@@ -10117,7 +10117,7 @@ CHAPTER 17
 
       situation of the islet (to which Captain Guy gave the name of
 
-      Bennet’s Islet, in honour of his partner in the ownership of the
+      Bennet’s Islet, in [[Honour|honour]] of his partner in the ownership of the
 
       schooner) is 82 degrees 50’ S. latitude, 42 degrees 20’ W.
 
@@ -10135,7 +10135,7 @@ CHAPTER 17
 
       surprising, that the temperature of the air, and latterly of the
 
-      water, became milder. The weather might even be called pleasant,
+      [[Water|water]], became milder. The weather might even be called pleasant,
 
       and we had a steady but very gentle breeze always from some
 
@@ -10145,7 +10145,7 @@ CHAPTER 17
 
       horizon—this, however, was invariably of brief duration. Two
 
-      difficulties alone presented themselves to our view; we were
+      difficulties [[Alone|alone]] presented themselves to our view; we were
 
       getting short of fuel, and symptoms of scurvy had occurred among
 
@@ -10185,7 +10185,7 @@ CHAPTER 17
 
       been instrumental, however remotely, in opening to the eye of
 
-      science one of the most intensely exciting secrets which has ever
+      science one of the most intensely exciting [[Secrets|secrets]] which has ever
 
       engrossed its attention.
 
@@ -10209,13 +10209,13 @@ CHAPTER 18
 
       the air tolerably warm and from the northeast, the temperature of
 
-      the water fifty-three. We now again got our sounding-gear in
+      the [[Water|water]] fifty-three. We now again got our sounding-gear in
 
       order, and, with a hundred and fifty fathoms of line, found the
 
       current setting toward the pole at the rate of a mile an hour.
 
-      This constant tendency to the southward, both in the wind and
+      This constant tendency to the southward, both in the [[Wind|wind]] and
 
       current, caused some degree of speculation, and even of alarm, in
 
@@ -10241,7 +10241,7 @@ CHAPTER 18
 
       armed with long claws of a brilliant scarlet, and resembling
 
-      coral in substance. The body was covered with a straight silky
+      coral in substance. The [[Body|body]] was covered with a straight silky
 
       hair, perfectly white. The tail was peaked like that of a rat,
 
@@ -10263,29 +10263,29 @@ CHAPTER 18
 
       scrutiny, found it to be one of a group of very large islands.
 
-      The shore was precipitous, and the interior seemed to be well
+      The shore was precipitous, and the interior seemed to be [[Well|well]]
 
       wooded, a circumstance which occasioned us great joy. In about
 
       four hours from our first discovering the land we came to anchor
 
-      in ten fathoms, sandy bottom, a league from the coast, as a high
+      in ten fathoms, sandy [[Bottom|bottom]], a league from the coast, as a high
 
       surf, with strong ripples here and there, rendered a nearer
 
       approach of doubtful expediency. The two largest boats were now
 
-      ordered out, and a party, well armed (among whom were Peters and
+      ordered out, and a party, [[Well|well]] armed (among whom were Peters and
 
       myself), proceeded to look for an opening in the reef which
 
       appeared to encircle the island. After searching about for some
 
-      time, we discovered an inlet, which we were entering, when we saw
+      [[Time|time]], we discovered an inlet, which we were entering, when we saw
 
       four large canoes put off from the shore, filled with men who
 
-      seemed to be well armed. We waited for them to come up, and, as
+      seemed to be [[Well|well]] armed. We waited for them to come up, and, as
 
       they moved with great rapidity, they were soon within hail.
 
@@ -10313,7 +10313,7 @@ CHAPTER 18
 
       thick and long woolly hair. They were clothed in skins of an
 
-      unknown black animal, shaggy and silky, and made to fit the body
+      unknown black animal, shaggy and silky, and made to fit the [[Body|body]]
 
       with some degree of skill, the hair being inside, except where
 
@@ -10349,7 +10349,7 @@ CHAPTER 18
 
       on board the largest of our boats, and seated himself by the side
 
-      of Captain Guy, pointing at the same time to the schooner, and
+      of Captain Guy, pointing at the same [[Time|time]] to the schooner, and
 
       repeating the word Anamoo-moo! and Lama-Lama! We now put back to
 
@@ -10373,7 +10373,7 @@ CHAPTER 18
 
       Too-wit) to understand that we could admit no more than twenty of
 
-      his men on deck at one time. With this arrangement he appeared
+      his men on deck at one [[Time|time]]. With this arrangement he appeared
 
       perfectly satisfied, and gave some directions to the canoes, when
 
@@ -10383,7 +10383,7 @@ CHAPTER 18
 
       over every part of the deck, and scramble about among the
 
-      rigging, making themselves much at home, and examining every
+      rigging, making themselves much at [[Home|home]], and examining every
 
       article with great inquisitiveness.
 
@@ -10421,7 +10421,7 @@ CHAPTER 18
 
 
 
-      When the visitors had satisfied, as well as they could, their
+      When the visitors had satisfied, as [[Well|well]] as they could, their
 
       curiosity in regard to our upper works, they were admitted below,
 
@@ -10429,7 +10429,7 @@ CHAPTER 18
 
       appeared to be far too deep for words, for they roamed about in
 
-      silence, broken only by low ejaculations. The arms afforded them
+      [[Silence|silence]], broken only by low ejaculations. The arms afforded them
 
       much food for speculation, and they were suffered to handle and
 
@@ -10441,7 +10441,7 @@ CHAPTER 18
 
       watched their movements while handling them. At the great guns
 
-      their wonder was redoubled. They approached them with every mark
+      their [[Wonder|wonder]] was redoubled. They approached them with every mark
 
       of the profoundest reverence and awe, but forbore to examine them
 
@@ -10453,15 +10453,15 @@ CHAPTER 18
 
       one and his back to the other, before he fairly perceived them.
 
-      Upon raising his eyes and seeing his reflected self in the glass,
+      Upon raising his eyes and seeing his reflected [[Self|self]] in the glass,
 
       I thought the savage would go mad; but, upon turning short round
 
-      to make a retreat, and beholding himself a second time in the
+      to make a retreat, and beholding himself a second [[Time|time]] in the
 
       opposite direction, I was afraid he would expire upon the spot.
 
-      No persuasion could prevail upon him to take another look;
+      No [[Persuasion|persuasion]] could prevail upon him to take another look;
 
       throwing himself upon the floor, with his face buried in his
 
@@ -10473,7 +10473,7 @@ CHAPTER 18
 
       The whole of the savages were admitted on board in this manner,
 
-      twenty at a time, Too-wit being suffered to remain during the
+      twenty at a [[Time|time]], Too-wit being suffered to remain during the
 
       entire period. We saw no disposition to thievery among them, nor
 
@@ -10507,7 +10507,7 @@ CHAPTER 18
 
       in regard to the latitude—induced Captain Guy to wish for a
 
-      thorough investigation of the country, in the hope of making a
+      thorough investigation of the country, in the [[Hope|hope]] of making a
 
       profitable speculation in his discovery. For my own part, anxious
 
@@ -10521,7 +10521,7 @@ CHAPTER 18
 
       parallel, with an open sea before us, a current setting strongly
 
-      to the southward, and the wind fair, I could not listen with any
+      to the southward, and the [[Wind|wind]] fair, I could not listen with any
 
       patience to a proposition of stopping longer than was absolutely
 
@@ -10531,7 +10531,7 @@ CHAPTER 18
 
       captain that we might easily make this group on our return, and
 
-      winter here in the event of being blocked up by the ice. He at
+      [[Winter|winter]] here in the event of being blocked up by the ice. He at
 
       length came into my views (for in some way, hardly known to
 
@@ -10551,9 +10551,9 @@ CHAPTER 18
 
       on the southeastern coast of the main island, and in ten fathoms
 
-      of water, black sandy bottom. At the head of this bay there were
+      of [[Water|water]], black sandy [[Bottom|bottom]]. At the head of this bay there were
 
-      three fine springs (we were told) of good water, and we saw
+      three fine springs (we were told) of good [[Water|water]], and we saw
 
       abundance of wood in the vicinity. The four canoes followed us
 
@@ -10567,7 +10567,7 @@ CHAPTER 18
 
       as hostages, a party of us, twelve in all, got in readiness to
 
-      attend the chief. We took care to be well armed, yet without
+      attend the chief. We took care to be [[Well|well]] armed, yet without
 
       evincing any distrust. The schooner had her guns run out, her
 
@@ -10595,7 +10595,7 @@ CHAPTER 18
 
       altogether unlike those of the lower southern latitudes we had
 
-      already traversed. The very rocks were novel in their mass, their
+      already traversed. The very rocks were [[Novel|novel]] in their mass, their
 
       color, and their stratification; and the streams themselves,
 
@@ -10605,37 +10605,37 @@ CHAPTER 18
 
       and, indeed, had difficulty in bringing ourselves to believe that
 
-      their qualities were purely those of nature. At a small brook
+      their qualities were purely those of [[Nature|nature]]. At a small brook
 
       which crossed our path (the first we had reached) Too-wit and his
 
       attendants halted to drink. On account of the singular character
 
-      of the water, we refused to taste it, supposing it to be
+      of the [[Water|water]], we refused to taste it, supposing it to be
 
-      polluted; and it was not until some time afterward we came to
+      polluted; and it was not until some [[Time|time]] afterward we came to
 
       understand that such was the appearance of the streams throughout
 
       the whole group. I am at a loss to give a distinct idea of the
 
-      nature of this liquid, and cannot do so without many words.
+      [[Nature|nature]] of this liquid, and cannot do so without many words.
 
       Although it flowed with rapidity in all declivities where common
 
-      water would do so, yet never, except when falling in a cascade,
+      [[Water|water]] would do so, yet never, except when falling in a cascade,
 
       had it the customary appearance of limpidity. It was,
 
       nevertheless, in point of fact, as perfectly limpid as any
 
-      limestone water in existence, the difference being only in
+      limestone [[Water|water]] in existence, the difference being only in
 
       appearance. At first sight, and especially in cases where little
 
       declivity was found, it bore resemblance, as regards consistency,
 
-      to a thick infusion of gum arabic in common water. But this was
+      to a thick infusion of gum arabic in common [[Water|water]]. But this was
 
       only the least remarkable of its extraordinary qualities. It was
 
@@ -10647,7 +10647,7 @@ CHAPTER 18
 
       produced in a manner which excited as profound astonishment in
 
-      the minds of our party as the mirror had done in the case of
+      the minds of our party as the [[Mirror|mirror]] had done in the case of
 
       Too-wit. Upon collecting a basinful, and allowing it to settle
 
@@ -10661,7 +10661,7 @@ CHAPTER 18
 
       imperfect in regard to neighbouring veins. Upon passing the blade
 
-      of a knife athwart the veins, the water closed over it
+      of a knife athwart the veins, the [[Water|water]] closed over it
 
       immediately, as with us, and also, in withdrawing it, all traces
 
@@ -10671,7 +10671,7 @@ CHAPTER 18
 
       veins, a perfect separation was effected, which the power of
 
-      cohesion did not immediately rectify. The phenomena of this water
+      cohesion did not immediately rectify. The phenomena of this [[Water|water]]
 
       formed the first definite link in that vast chain of apparent
 
@@ -10703,7 +10703,7 @@ CHAPTER 19
 
       which joined us, as if by accident, at different turns of the
 
-      road. There appeared so much of system in this that I could not
+      [[Road|road]]. There appeared so much of system in this that I could not
 
       help feeling distrust, and I spoke to Captain Guy of my
 
@@ -10711,7 +10711,7 @@ CHAPTER 19
 
       concluded that our best security lay in evincing a perfect
 
-      confidence in the good faith of Too-wit. We accordingly went on,
+      confidence in the good [[Faith|faith]] of Too-wit. We accordingly went on,
 
       keeping a wary eye upon the manoeuvres of the savages, and not
 
@@ -10791,23 +10791,23 @@ CHAPTER 19
 
       access in other directions. Through the middle of the valley ran
 
-      a brawling stream of the same magical-looking water which has
+      a brawling stream of the same magical-looking [[Water|water]] which has
 
-      been described. We saw several strange animals about the
+      been described. We saw several strange [[Animals|animals]] about the
 
       dwellings, all appearing to be thoroughly domesticated. The
 
       largest of these creatures resembled our common hog in the
 
-      structure of the body and snout; the tail, however, was bushy,
+      structure of the [[Body|body]] and snout; the tail, however, was bushy,
 
       and the legs slender as those of the antelope. Its motion was
 
       exceedingly awkward and indecisive, and we never saw it attempt
 
-      to run. We noticed also several animals very similar in
+      to run. We noticed also several [[Animals|animals]] very similar in
 
-      appearance, but of a greater length of body, and covered with a
+      appearance, but of a greater length of [[Body|body]], and covered with a
 
       black wool. There were a great variety of tame fowls running
 
@@ -10815,11 +10815,11 @@ CHAPTER 19
 
       natives. To our astonishment we saw black albatross among these
 
-      birds in a state of entire domestication, going to sea
+      [[Birds|birds]] in a state of entire domestication, going to sea
 
       periodically for food, but always returning to the village as a
 
-      home, and using the southern shore in the vicinity as a place of
+      [[Home|home]], and using the southern shore in the vicinity as a place of
 
       incubation. There they were joined by their friends the pelicans
 
@@ -10849,7 +10849,7 @@ CHAPTER 19
 
       Gallipago tortoise was also very plentiful. We saw but few wild
 
-      animals, and none of a large size, or of a species with which we
+      [[Animals|animals]], and none of a large size, or of a species with which we
 
       were familiar. One or two serpents of a formidable aspect crossed
 
@@ -10877,9 +10877,9 @@ CHAPTER 19
 
       were a great many women and children, the former not altogether
 
-      wanting in what might be termed personal beauty. They were
+      wanting in what might be termed personal [[Beauty|beauty]]. They were
 
-      straight, tall, and well formed, with a grace and freedom of
+      straight, tall, and [[Well|well]] formed, with a grace and [[Freedom|freedom]] of
 
       carriage not to be found in civilized society. Their lips,
 
@@ -10915,9 +10915,9 @@ CHAPTER 19
 
       skins fastened together with wooden skewers, was secured at the
 
-      bottom with pegs driven through it and into the ground. The floor
+      [[Bottom|bottom]] with pegs driven through it and into the ground. The floor
 
-      was strewed with a quantity of dry leaves by way of carpet.
+      was strewed with a quantity of dry [[Leaves|leaves]] by way of carpet.
 
 
 
@@ -10925,7 +10925,7 @@ CHAPTER 19
 
       of the natives crowded in after us as possible. Too-wit seated
 
-      himself on the leaves, and made signs that we should follow his
+      himself on the [[Leaves|leaves]], and made signs that we should follow his
 
       example. This we did, and presently found ourselves in a
 
@@ -10943,7 +10943,7 @@ CHAPTER 19
 
       probably was every individual on the whole island, the crowd
 
-      being prevented from trampling us to death only by the incessant
+      being prevented from trampling us to [[Death|death]] only by the incessant
 
       exertions and vociferations of Too-wit. Our chief security lay,
 
@@ -10967,11 +10967,11 @@ CHAPTER 19
 
       strenuously insisted upon than the Lama-Lamas! We listened in
 
-      profound silence until the conclusion of this harangue, when
+      profound [[Silence|silence]] until the conclusion of this harangue, when
 
       Captain Guy replied by assuring the chief of his eternal
 
-      friendship and goodwill, concluding what he had to say by a
+      [[Friendship|friendship]] and goodwill, concluding what he had to say by a
 
       present of several strings of blue beads and a knife. At the
 
@@ -11011,7 +11011,7 @@ CHAPTER 19
 
       When the monarch had made an end of his meal, we commenced a
 
-      series of cross-questioning in every ingenious manner we could
+      series of [[Cross|cross]]-questioning in every ingenious manner we could
 
       devise, with a view of discovering what were the chief
 
@@ -11089,7 +11089,7 @@ CHAPTER 20
 
       we had ever seen, and the ducks surpassed our best species of
 
-      wild fowl, being exceedingly tender, juicy, and well-flavoured.
+      wild fowl, being exceedingly tender, juicy, and [[Well|well]]-flavoured.
 
       Besides these, the savages brought us, upon our making them
 
@@ -11101,7 +11101,7 @@ CHAPTER 20
 
       benefit in restoring those of our men who had shown symptoms of
 
-      disease. In a very short time we had not a single person on the
+      disease. In a very short [[Time|time]] we had not a single person on the
 
       sick-list. We had also plenty of other kinds of fresh provisions,
 
@@ -11109,7 +11109,7 @@ CHAPTER 20
 
       the mussel in shape, but with the taste of an oyster. Shrimps,
 
-      too, and prawns were abundant, and albatross and other birds’
+      too, and prawns were abundant, and albatross and other [[Birds|birds]]’
 
       eggs with dark shells. We took in, too, a plentiful stock of the
 
@@ -11127,7 +11127,7 @@ CHAPTER 20
 
       the schooner, where our barterings were carried on with every
 
-      appearance of good faith, and a degree of order which their
+      appearance of good [[Faith|faith]], and a degree of order which their
 
       conduct at the village of _Klock-klock_ had not led us to expect
 
@@ -11189,7 +11189,7 @@ CHAPTER 20
 
 
 
-      A description of the nature of this important article of
+      A description of the [[Nature|nature]] of this important article of
 
       commerce, and the method of preparing it, may prove of some
 
@@ -11199,7 +11199,7 @@ CHAPTER 20
 
       comprehensive notice of the substance is taken from a modern
 
-      history of a voyage to the South Seas.
+      [[history]] of a voyage to the South Seas.
 
 
 
@@ -11215,11 +11215,11 @@ CHAPTER 20
 
       Chinese market, where it commands a great price, perhaps as much
 
-      as their much-talked-of edible birds’ nests, which are properly
+      as their much-talked-of edible [[Birds|birds]]’ nests, which are properly
 
       made up of the gelatinous matter picked up by a species of
 
-      swallow from the body of these molluscae. They have no shell, no
+      [[Swallow|swallow]] from the [[Body|body]] of these molluscae. They have no shell, no
 
       legs, nor any prominent part, except an _absorbing_ and an
 
@@ -11227,7 +11227,7 @@ CHAPTER 20
 
       caterpillars or worms, they creep in shallow waters, in which,
 
-      when low, they can be seen by a kind of swallow, the sharp bill
+      when low, they can be seen by a kind of [[Swallow|swallow]], the sharp bill
 
       of which, inserted in the soft animal, draws a gummy and
 
@@ -11245,15 +11245,15 @@ CHAPTER 20
 
       less than two feet long. They were nearly round, a little
 
-      flattish on one side, which lies next to the bottom of the sea;
+      flattish on one side, which lies next to the [[Bottom|bottom]] of the sea;
 
       and they are from one to eight inches thick. They crawl up into
 
-      shallow water at particular seasons of the year, probably for the
+      shallow [[Water|water]] at particular [[Seasons|seasons]] of the year, probably for the
 
       purpose of gendering, as we often find them in pairs. It is when
 
-      the sun has the most power on the water, rendering it tepid, that
+      the sun has the most power on the [[Water|water]], rendering it tepid, that
 
       they approach the shore; and they often go up into places so
 
@@ -11261,9 +11261,9 @@ CHAPTER 20
 
       to the beat of the sun. But they do not bring forth their young
 
-      in shallow water, as we never see any of their progeny, and
+      in shallow [[Water|water]], as we never see any of their progeny, and
 
-      full-grown ones are always observed coming in from deep water.
+      full-grown ones are always observed coming in from deep [[Water|water]].
 
       They feed principally on that class of zoophytes which produce
 
@@ -11273,7 +11273,7 @@ CHAPTER 20
 
       “The _biche de mer_ is generally taken in three or four feet of
 
-      water; after which they are brought on shore, and split at one
+      [[Water|water]]; after which they are brought on shore, and split at one
 
       end with a knife, the incision being one inch or more, according
 
@@ -11287,13 +11287,13 @@ CHAPTER 20
 
       or too little. They are then buried in the ground for four hours,
 
-      then boiled again for a short time, after which they are dried,
+      then boiled again for a short [[Time|time]], after which they are dried,
 
-      either by the fire or the sun. Those cured by the sun are worth
+      either by the [[Fire|fire]] or the sun. Those cured by the sun are worth
 
       the most; but where one picul (133 1/3 lbs.) can be cured that
 
-      way, I can cure thirty piculs by the fire. When once properly
+      way, I can cure thirty piculs by the [[Fire|fire]]. When once properly
 
       cured, they can be kept in a dry place for two or three years
 
@@ -11335,7 +11335,7 @@ CHAPTER 20
 
       eastern shore of the bay was selected, where there was plenty of
 
-      both wood and water, and within a convenient distance of the
+      both wood and [[Water|water]], and within a convenient distance of the
 
       principal reefs on which the _biche de mer_ was to be procured.
 
@@ -11351,7 +11351,7 @@ CHAPTER 20
 
       three men whom we intended to leave behind. These were John
 
-      Carson, Alfred Harris, and ___ Peterson (all natives of London, I
+      Carson, Alfred Harris, and ___ Peterson (all natives of [[London]], I
 
       believe), who volunteered their services in this respect.
 
@@ -11367,9 +11367,9 @@ CHAPTER 20
 
       it advisable to run the risk of offending him by a final refusal.
 
-      I believe that not one of us had at this time the slightest
+      I believe that not one of us had at this [[Time|time]] the slightest
 
-      suspicion of the good faith of the savages. They had uniformly
+      suspicion of the good [[Faith|faith]] of the savages. They had uniformly
 
       behaved with the greatest decorum, aiding us with alacrity in our
 
@@ -11389,7 +11389,7 @@ CHAPTER 20
 
       single thought of perfidy on the part of a people who treated us
 
-      so well. A very short while sufficed to prove that this apparent
+      so [[Well|well]]. A very short while sufficed to prove that this apparent
 
       kindness of disposition was only the result of a deeply laid plan
 
@@ -11417,7 +11417,7 @@ CHAPTER 20
 
       constantly on deck. The boarding-nettings were up, the guns
 
-      double-shotted with grape and canister, and the swivels loaded
+      [[Double|double]]-shotted with grape and canister, and the swivels loaded
 
       with canisters of musket-balls. She lay, with her anchor apeak,
 
@@ -11425,7 +11425,7 @@ CHAPTER 20
 
       any direction without being distinctly seen and exposed to the
 
-      full fire of our swivels immediately.
+      full [[Fire|fire]] of our swivels immediately.
 
 
 
@@ -11455,7 +11455,7 @@ CHAPTER 20
 
 
 
-      We had passed the spring and rivulet of which I before spoke, and
+      We had passed the [[Spring|spring]] and rivulet of which I before spoke, and
 
       were now entering upon a narrow gorge leading through the chain
 
@@ -11513,7 +11513,7 @@ CHAPTER 20
 
       natives), and, more than all, to the long-sustained pretension of
 
-      friendship kept up by these infamous wretches. Five or six of
+      [[Friendship|friendship]] kept up by these infamous wretches. Five or six of
 
       them went on before, as if to lead the way, ostentatiously
 
@@ -11523,7 +11523,7 @@ CHAPTER 20
 
       taking care only to prevent separation. Behind followed the main
 
-      body of the savages, observing unusual order and decorum.
+      [[Body|body]] of the savages, observing unusual order and decorum.
 
 
 
@@ -11537,7 +11537,7 @@ CHAPTER 20
 
       wide enough for one person to enter without squeezing, and
 
-      extended back into the hill some eighteen or twenty feet in a
+      extended back into the [[Hill|hill]] some eighteen or twenty feet in a
 
       straight course, sloping afterward to the left. The height of the
 
@@ -11623,13 +11623,13 @@ CHAPTER 21
 
       conclusion that the walls of the fissure in which we had ventured
 
-      had, by some convulsion of nature, or probably from their own
+      had, by some convulsion of [[Nature|nature]], or probably from their own
 
       weight, caved in overhead, and that we were consequently lost for
 
-      ever, being thus entombed alive. For a long time we gave up
+      ever, being thus entombed alive. For a long [[Time|time]] we gave up
 
-      supinely to the most intense agony and despair, such as cannot be
+      supinely to the most intense agony and [[Despair|despair]], such as cannot be
 
       adequately imagined by those who have never been in a similar
 
@@ -11645,7 +11645,7 @@ CHAPTER 21
 
       stifling fumes from the damp earth, unite with the ghastly
 
-      considerations that we are beyond the remotest confines of hope,
+      considerations that we are beyond the remotest confines of [[Hope|hope]],
 
       and that such is the allotted portion of the dead, to carry into
 
@@ -11657,11 +11657,11 @@ CHAPTER 21
 
       At length Peters proposed that we should endeavour to ascertain
 
-      precisely the extent of our calamity, and grope about our prison;
+      precisely the extent of our calamity, and grope about our [[Prison|prison]];
 
       it being barely possible, he observed, that some opening might
 
-      yet be left us for escape. I caught eagerly at this hope, and,
+      yet be left us for escape. I caught eagerly at this [[Hope|hope]], and,
 
       arousing myself to exertion, attempted to force my way through
 
@@ -11673,7 +11673,7 @@ CHAPTER 21
 
       We now took some degree of heart, and encouraged each other to
 
-      hope for the best. Having scrambled over a bank of rubbish which
+      [[Hope|hope]] for the best. Having scrambled over a bank of rubbish which
 
       impeded our farther progress in the direction of the light, we
 
@@ -11697,7 +11697,7 @@ CHAPTER 21
 
       see through the whole extent of this opening; but, as a good deal
 
-      of light came down it, we had little doubt of finding at the top
+      of light came down it, we had little [[Doubt|doubt]] of finding at the top
 
       of it (if we could by any means reach the top) a clear passage
 
@@ -11715,7 +11715,7 @@ CHAPTER 21
 
       in of the earth above us, Peters at length cried out to me that
 
-      he had hold of our companion’s foot, and that his whole body was
+      he had hold of our companion’s foot, and that his whole [[Body|body]] was
 
       deeply buried beneath the rubbish beyond the possibility of
 
@@ -11733,7 +11733,7 @@ CHAPTER 21
 
       after one or two ineffectual efforts at getting up, we began once
 
-      more to despair. I have before said that the chain of hills
+      more to [[Despair|despair]]. I have before said that the chain of hills
 
       through which ran the main gorge was composed of a species of
 
@@ -11747,9 +11747,9 @@ CHAPTER 21
 
       places, where the ascent was nearly perpendicular, the difficulty
 
-      was, of course, much aggravated; and, indeed, for some time we
+      was, of course, much aggravated; and, indeed, for some [[Time|time]] we
 
-      thought insurmountable. We took courage, however, from despair,
+      thought insurmountable. We took [[Courage|courage]], however, from [[Despair|despair]],
 
       and what, by dint of cutting steps in the soft stone with our
 
@@ -11781,13 +11781,13 @@ CHAPTER 21
 
       the rescue by firing the pistols which still remained in our
 
-      girdles—the muskets as well as cutlasses had been lost among the
+      girdles—the muskets as [[Well|well]] as cutlasses had been lost among the
 
-      loose earth at the bottom of the chasm. Subsequent events proved
+      loose earth at the [[Bottom|bottom]] of the chasm. Subsequent events proved
 
       that, had we fired, we should have sorely repented it, but
 
-      luckily a half suspicion of foul play had by this time arisen in
+      luckily a half suspicion of foul play had by this [[Time|time]] arisen in
 
       my mind, and we forbore to let the savages know of our
 
@@ -11853,7 +11853,7 @@ CHAPTER 21
 
       from the edge of the gulf. Strong cords of grape vine were
 
-      attached to the stakes still remaining on the hill, and it was
+      attached to the stakes still remaining on the [[Hill|hill]], and it was
 
       evident that such cords had also been attached to each of the
 
@@ -11865,7 +11865,7 @@ CHAPTER 21
 
       our escape from inhumation will afford a further conception of
 
-      its nature. This was such that almost every natural convulsion
+      its [[Nature|nature]]. This was such that almost every natural convulsion
 
       would be sure to split the soil into perpendicular layers or
 
@@ -11877,7 +11877,7 @@ CHAPTER 21
 
       themselves to accomplish their treacherous ends. There can be no
 
-      doubt that, by the continuous line of stakes, a partial rupture
+      [[Doubt|doubt]] that, by the continuous line of stakes, a partial rupture
 
       of the soil had been brought about probably to the depth of one
 
@@ -11889,11 +11889,11 @@ CHAPTER 21
 
       leverage power was obtained, capable of hurling the whole face of
 
-      the hill, upon a given signal, into the bosom of the abyss below.
+      the [[Hill|hill]], upon a given signal, into the bosom of the abyss below.
 
       The fate of our poor companions was no longer a matter of
 
-      uncertainty. We alone had escaped from the tempest of that
+      uncertainty. We [[Alone|alone]] had escaped from the tempest of that
 
       overwhelming destruction. We were the only living white men upon
 
@@ -11917,17 +11917,17 @@ CHAPTER 22
 
       than when we had conceived ourselves entombed forever. We saw
 
-      before us no prospect but that of being put to death by the
+      before us no prospect but that of being put to [[Death|death]] by the
 
       savages, or of dragging out a miserable existence in captivity
 
-      among them. We might, to be sure, conceal ourselves for a time
+      among them. We might, to be sure, conceal ourselves for a [[Time|time]]
 
       from their observation among the fastnesses of the hills, and, as
 
       a final resort, in the chasm from which we had just issued; but
 
-      we must either perish in the long polar winter through cold and
+      we must either perish in the long polar [[Winter|winter]] through cold and
 
       famine, or be ultimately discovered in our efforts to obtain
 
@@ -11955,7 +11955,7 @@ CHAPTER 22
 
       bringing immediate destruction upon our own heads, with but a
 
-      remote hope of benefit to them. A pistol fired might suffice to
+      remote [[Hope|hope]] of benefit to them. A [[Pistol|pistol]] fired might suffice to
 
       apprise them that something wrong had occurred; but the report
 
@@ -11963,7 +11963,7 @@ CHAPTER 22
 
       lay in getting out of the harbour forthwith—it could not tell
 
-      them that no principles of honour now bound them to remain, that
+      them that no principles of [[Honour|honour]] now bound them to remain, that
 
       their companions were no longer among the living. Upon hearing
 
@@ -11995,7 +11995,7 @@ CHAPTER 22
 
       immediate vicinity especially, and blockading the sole path by
 
-      which we could hope to attain the shore at the proper point were
+      which we could [[Hope|hope]] to attain the shore at the proper point were
 
       stationed the whole party of the black skin warriors, with
 
@@ -12021,7 +12021,7 @@ CHAPTER 22
 
       the southern bight of the harbor. They appeared to have no arms
 
-      except short clubs, and stones which lay in the bottom of the
+      except short clubs, and stones which lay in the [[Bottom|bottom]] of the
 
       rafts. Immediately afterward another detachment, still larger,
 
@@ -12031,9 +12031,9 @@ CHAPTER 22
 
       up from the bushes at the head of the bay, and put off swiftly to
 
-      join the other parties. Thus, in less time than I have taken to
+      join the other parties. Thus, in less [[Time|time]] than I have taken to
 
-      tell it, and as if by magic, the Jane saw herself surrounded by
+      tell it, and as if by [[Magic|magic]], the Jane saw herself surrounded by
 
       an immense multitude of desperadoes evidently bent upon capturing
 
@@ -12055,9 +12055,9 @@ CHAPTER 22
 
       them get springs upon the cable, and bring the vessel’s starboard
 
-      broadside to bear upon the canoes, which by this time were within
+      broadside to bear upon the canoes, which by this [[Time|time]] were within
 
-      pistol range, the rafts being nearly a quarter of a mile to
+      [[Pistol|pistol]] range, the rafts being nearly a quarter of a mile to
 
       windward. Owing to some cause unknown, but most probably to the
 
@@ -12097,13 +12097,13 @@ CHAPTER 22
 
       The discharge to larboard produced the most terrible effect. The
 
-      star and double-headed shot of the large guns cut seven or eight
+      star and [[Double|double]]-headed shot of the large guns cut seven or eight
 
       of the rafts completely asunder, and killed, perhaps, thirty or
 
       forty of the savages outright, while a hundred of them, at least,
 
-      were thrown into the water, the most of them dreadfully wounded.
+      were thrown into the [[Water|water]], the most of them dreadfully wounded.
 
       The remainder, frightened out of their senses, commenced at once
 
@@ -12111,7 +12111,7 @@ CHAPTER 22
 
       companions, who were swimming about in every direction, screaming
 
-      and yelling for aid. This great success, however, came too late
+      and yelling for aid. This great [[success]], however, came too late
 
       for the salvation of our devoted people. The canoe party were
 
@@ -12119,7 +12119,7 @@ CHAPTER 22
 
       hundred and fifty, the most of them having succeeded in
 
-      scrambling up the chains and over the boarding-netting even
+      scrambling up the [[Chains|chains]] and over the boarding-netting even
 
       before the matches had been applied to the larboard guns. Nothing
 
@@ -12139,7 +12139,7 @@ CHAPTER 22
 
       The decks were split open and ripped up; the cordage, sails, and
 
-      everything movable on deck demolished as if by magic, while, by
+      everything movable on deck demolished as if by [[Magic|magic]], while, by
 
       dint of pushing at the stern, towing with the canoes, and hauling
 
@@ -12163,13 +12163,13 @@ CHAPTER 22
 
       Too-wit’s descent left us at liberty to quit our hiding place and
 
-      reconnoitre the hill in the vicinity of the chasm. At about fifty
+      reconnoitre the [[Hill|hill]] in the vicinity of the chasm. At about fifty
 
-      yards from the mouth of it we saw a small spring of water, at
+      yards from the mouth of it we saw a small [[Spring|spring]] of [[Water|water]], at
 
       which we slaked the burning thirst that now consumed us. Not far
 
-      from the spring we discovered several of the filbert-bushes which
+      from the [[Spring|spring]] we discovered several of the filbert-bushes which
 
       I mentioned before. Upon tasting the nuts we found them
 
@@ -12209,7 +12209,7 @@ CHAPTER 22
 
       We now went out again to look about us, and ventured a
 
-      considerable distance down the southern declivity of the hill,
+      considerable distance down the southern declivity of the [[Hill|hill]],
 
       but met with nothing else which could serve us for food. We
 
@@ -12219,7 +12219,7 @@ CHAPTER 22
 
       village, laden with the plunder of the vessel, and who, we were
 
-      apprehensive, might discover us in passing beneath the hill.
+      apprehensive, might discover us in passing beneath the [[Hill|hill]].
 
 
 
@@ -12243,7 +12243,7 @@ CHAPTER 22
 
       remain within the ravine itself, and not venture out upon the
 
-      hill, We could perceive no traces of the savages having ever been
+      [[Hill|hill]], We could perceive no traces of the savages having ever been
 
       within this hollow; but, indeed, when we came to reflect upon the
 
@@ -12257,7 +12257,7 @@ CHAPTER 22
 
       as fearful lest there should be absolutely no means left us for
 
-      descent. We resolved to explore the summit of the hill
+      descent. We resolved to explore the summit of the [[Hill|hill]]
 
       thoroughly, when a good opportunity should offer. In the meantime
 
@@ -12267,7 +12267,7 @@ CHAPTER 22
 
       They had already made a complete wreck of the vessel, and were
 
-      now preparing to set her on fire. In a little while we saw the
+      now preparing to set her on [[Fire|fire]]. In a little while we saw the
 
       smoke ascending in huge volumes from her main hatchway, and,
 
@@ -12275,7 +12275,7 @@ CHAPTER 22
 
       forecastle. The rigging, masts and what remained of the sails
 
-      caught immediately, and the fire spread rapidly along the decks.
+      caught immediately, and the [[Fire|fire]] spread rapidly along the decks.
 
       Still a great many of the savages retained their stations about
 
@@ -12307,7 +12307,7 @@ CHAPTER 22
 
       thundercloud—then, as if from its bowels, arose a tall stream of
 
-      vivid fire to the height, apparently, of a quarter of a mile—then
+      vivid [[Fire|fire]] to the height, apparently, of a quarter of a mile—then
 
       there came a sudden circular expansion of the flame—then the
 
@@ -12357,9 +12357,9 @@ CHAPTER 22
 
 
 
-      Presently we saw a large body go off into the hills, whence they
+      Presently we saw a large [[Body|body]] go off into the hills, whence they
 
-      returned in a short time, carrying stakes of wood. These they
+      returned in a short [[Time|time]], carrying stakes of wood. These they
 
       brought to the station where the crowd was the thickest, which
 
@@ -12373,7 +12373,7 @@ CHAPTER 22
 
       teeth and claws which the schooner had picked up at sea on the
 
-      eighteenth of January. Captain Guy had had the body preserved for
+      eighteenth of January. Captain Guy had had the [[Body|body]] preserved for
 
       the purpose of stuffing the skin and taking it to England. I
 
@@ -12415,15 +12415,15 @@ CHAPTER 23
 
       During the six or seven days immediately following we remained in
 
-      our hiding-place upon the hill, going out only occasionally, and
+      our hiding-place upon the [[Hill|hill]], going out only occasionally, and
 
-      then with the greatest precaution, for water and filberts. We had
+      then with the greatest precaution, for [[Water|water]] and filberts. We had
 
       made a kind of penthouse on the platform, furnishing it with a
 
-      bed of dry leaves, and placing in it three large flat stones,
+      bed of dry [[Leaves|leaves]], and placing in it three large flat stones,
 
-      which served us for both fireplace and table. We kindled a fire
+      which served us for both fireplace and table. We kindled a [[Fire|fire]]
 
       without difficulty by rubbing two pieces of dry wood together,
 
@@ -12455,7 +12455,7 @@ CHAPTER 23
 
       in, with violent headache. We had seen several large tortoises
 
-      near the seashore to the eastward of the hill, and perceived they
+      near the seashore to the eastward of the [[Hill|hill]], and perceived they
 
       might be easily taken, if we could get at them without the
 
@@ -12491,13 +12491,13 @@ CHAPTER 23
 
       necks, we discovered that we had merely descended into a vast pit
 
-      of black granite, with fine dust at the bottom, and whence the
+      of black granite, with fine [[Dust|dust]] at the [[Bottom|bottom]], and whence the
 
       only egress was by the rugged path in which we had come down.
 
       Toiling again up this path, we now tried the northern edge of the
 
-      hill. Here we were obliged to use the greatest possible caution
+      [[Hill|hill]]. Here we were obliged to use the greatest possible caution
 
       in our maneuvers, as the least indiscretion would expose us to
 
@@ -12521,13 +12521,13 @@ CHAPTER 23
 
       way back to the platform, and throwing ourselves upon the bed of
 
-      leaves, slept sweetly and soundly for some hours.
+      [[Leaves|leaves]], slept sweetly and soundly for some hours.
 
 
 
       For several days after this fruitless search we were occupied in
 
-      exploring every part of the summit of the hill, in order to
+      exploring every part of the summit of the [[Hill|hill]], in order to
 
       inform ourselves of its actual resources. We found that it would
 
@@ -12545,7 +12545,7 @@ CHAPTER 23
 
       lamentable. {*5} On the sixteenth we again went round the walls
 
-      of our prison, in hope of finding some avenue of escape; but to
+      of our [[Prison|prison]], in [[Hope|hope]] of finding some avenue of escape; but to
 
       no purpose. We also descended the chasm in which we had been
 
@@ -12571,7 +12571,7 @@ CHAPTER 23
 
 
 
-      We found no great difficulty in reaching the bottom of the hollow
+      We found no great difficulty in reaching the [[Bottom|bottom]] of the hollow
 
       as before, and were now sufficiently calm to survey it with some
 
@@ -12579,7 +12579,7 @@ CHAPTER 23
 
       places imaginable, and we could scarcely bring ourselves to
 
-      believe it altogether the work of nature. The pit, from its
+      believe it altogether the work of [[Nature|nature]]. The pit, from its
 
       eastern to its western extremity, was about five hundred yards in
 
@@ -12591,11 +12591,11 @@ CHAPTER 23
 
       yards. Upon first descending into the chasm, that is to say, for
 
-      a hundred feet downward from the summit of the hill, the sides of
+      a hundred feet downward from the summit of the [[Hill|hill]], the sides of
 
       the abyss bore little resemblance to each other, and, apparently,
 
-      had at no time been connected, the one surface being of the
+      had at no [[Time|time]] been connected, the one surface being of the
 
       soapstone, and the other of marl, granulated with some metallic
 
@@ -12611,7 +12611,7 @@ CHAPTER 23
 
       still dissimilar in their material and form of surface. Upon
 
-      arriving within fifty feet of the bottom, a perfect regularity
+      arriving within fifty feet of the [[Bottom|bottom]], a perfect regularity
 
       commenced. The sides were now entirely uniform in substance, in
 
@@ -12641,7 +12641,7 @@ CHAPTER 23
 
       there were several, each cavity having a corresponding
 
-      protuberance opposite. The bottom of the gulf was covered to the
+      protuberance opposite. The [[Bottom|bottom]] of the gulf was covered to the
 
       depth of three or four inches with a powder almost impalpable,
 
@@ -12665,7 +12665,7 @@ CHAPTER 23
 
       for about thirty feet, and found that the aperture was a low and
 
-      regularly formed arch, having a bottom of the same impalpable
+      regularly formed arch, having a [[Bottom|bottom]] of the same impalpable
 
       powder as that in the main chasm. A strong light now broke upon
 
@@ -12713,7 +12713,7 @@ CHAPTER 23
 
       surface of the marl forming the termination of the _cul-de-sac_.
 
-      With a very slight exertion of the imagination, the left, or most
+      With a very slight exertion of the [[Imagination|imagination]], the left, or most
 
       northern of these indentures might have been taken for the
 
@@ -12737,15 +12737,15 @@ CHAPTER 23
 
       projecting points exactly fitting the indentures; thus proving
 
-      them to have been the work of nature.
+      them to have been the work of [[Nature|nature]].
 
 
 
       After satisfying ourselves that these singular caverns afforded
 
-      us no means of escape from our prison, we made our way back,
+      us no means of escape from our [[Prison|prison]], we made our way back,
 
-      dejected and dispirited, to the summit of the hill. Nothing worth
+      dejected and dispirited, to the summit of the [[Hill|hill]]. Nothing worth
 
       mentioning occurred during the next twenty-four hours, except
 
@@ -12759,7 +12759,7 @@ CHAPTER 23
 
       wells, without outlet. They were each about twenty yards in
 
-      circumference, and their shape, as well as relative position in
+      circumference, and their shape, as [[Well|well]] as relative position in
 
       regard to the third chasm, is shown in figure 5. {image}
 
@@ -12785,7 +12785,7 @@ CHAPTER 24
 
       a desperate attempt at descending the southern declivity of the
 
-      hill. The face of the precipice was here of the softest species
+      [[Hill|hill]]. The face of the precipice was here of the softest species
 
       of soapstone, although nearly perpendicular throughout its whole
 
@@ -12805,7 +12805,7 @@ CHAPTER 24
 
       which we had clambered up from the chasm when we had been buried
 
-      by the fall of the hill—that is, by cutting steps in the face of
+      by the fall of the [[Hill|hill]]—that is, by cutting steps in the face of
 
       the soapstone with our knives. The extreme hazard of the attempt
 
@@ -12829,7 +12829,7 @@ CHAPTER 24
 
       rock above to the height of a foot, or thereabout, so as to allow
 
-      of his driving, with the butt of a pistol, a tolerably strong peg
+      of his driving, with the butt of a [[Pistol|pistol]], a tolerably strong peg
 
       into the levelled surface. I then drew him up for about four
 
@@ -12877,11 +12877,11 @@ CHAPTER 24
 
       finally succeeded, with the occasional aid of projections in the
 
-      cliff, in reaching the bottom without accident.
+      cliff, in reaching the [[Bottom|bottom]] without accident.
 
 
 
-      It was some time before I could summon sufficient resolution to
+      It was some [[Time|time]] before I could summon sufficient resolution to
 
       follow him; but I did at length attempt it. Peters had taken off
 
@@ -12895,13 +12895,13 @@ CHAPTER 24
 
       banish the trepidation which I could overcome in no other manner.
 
-      This answered sufficiently well for the first four or five steps;
+      This answered sufficiently [[Well|well]] for the first four or five steps;
 
-      but presently I found my imagination growing terribly excited by
+      but presently I found my [[Imagination|imagination]] growing terribly excited by
 
       thoughts of the vast depths yet to be descended, and the
 
-      precarious nature of the pegs and soapstone holes which were my
+      precarious [[Nature|nature]] of the pegs and soapstone holes which were my
 
       only support. It was in vain I endeavored to banish these
 
@@ -12931,7 +12931,7 @@ CHAPTER 24
 
       There was a ringing in my ears, and I said, “This is my knell of
 
-      death!” And now I was consumed with the irrepressible desire of
+      [[Death|death]]!” And now I was consumed with the irrepressible [[Desire|desire]] of
 
       looking below. I could not, I would not, confine my glances to
 
@@ -12943,11 +12943,11 @@ CHAPTER 24
 
       their hold, while, with the movement, the faintest possible idea
 
-      of ultimate escape wandered, like a shadow, through my mind—in
+      of ultimate escape wandered, like a [[Shadow|shadow]], through my mind—in
 
-      the next my whole soul was pervaded with a longing to fall; a
+      the next my whole [[Soul|soul]] was pervaded with a [[Longing|longing]] to fall; a
 
-      desire, a yearning, a passion utterly uncontrollable. I let go at
+      [[Desire|desire]], a yearning, a passion utterly uncontrollable. I let go at
 
       once my grasp upon the peg, and, turning half round from the
 
@@ -12955,7 +12955,7 @@ CHAPTER 24
 
       face. But now there came a spinning of the brain; a
 
-      shrill-sounding and phantom voice screamed within my ears; a
+      shrill-sounding and [[Phantom|phantom]] voice screamed within my ears; a
 
       dusky, fiendish, and filmy figure stood immediately beneath me;
 
@@ -12967,11 +12967,11 @@ CHAPTER 24
 
       I had swooned, and Peters had caught me as I fell. He had
 
-      observed my proceedings from his station at the bottom of the
+      observed my proceedings from his station at the [[Bottom|bottom]] of the
 
       cliff; and perceiving my imminent danger, had endeavored to
 
-      inspire me with courage by every suggestion he could devise;
+      inspire me with [[Courage|courage]] by every suggestion he could devise;
 
       although my confusion of mind had been so great as to prevent my
 
@@ -12979,7 +12979,7 @@ CHAPTER 24
 
       to me at all. At length, seeing me totter, he hastened to ascend
 
-      to my rescue, and arrived just in time for my preservation. Had I
+      to my rescue, and arrived just in [[Time|time]] for my preservation. Had I
 
       fallen with my full weight, the rope of linen would inevitably
 
@@ -12993,7 +12993,7 @@ CHAPTER 24
 
       vanished; I felt a new being, and, with some little further aid
 
-      from my companion, reached the bottom also in safety.
+      from my companion, reached the [[Bottom|bottom]] also in safety.
 
 
 
@@ -13001,7 +13001,7 @@ CHAPTER 24
 
       the tomb of our friends, and to the southward of the spot where
 
-      the hill had fallen. The place was one of singular wildness, and
+      the [[Hill|hill]] had fallen. The place was one of singular wildness, and
 
       its aspect brought to my mind the descriptions given by
 
@@ -13035,7 +13035,7 @@ CHAPTER 24
 
       catching turtle, several of which we had observed from our place
 
-      of concealment on the hill. We had proceeded some hundred yards,
+      of concealment on the [[Hill|hill]]. We had proceeded some hundred yards,
 
       threading our route cautiously between the huge rocks and tumuli,
 
@@ -13045,7 +13045,7 @@ CHAPTER 24
 
       club. As he fell the whole party rushed upon him to secure their
 
-      victim, leaving me time to recover from my astonishment. I still
+      victim, leaving me [[Time|time]] to recover from my astonishment. I still
 
       had the musket, but the barrel had received so much injury in
 
@@ -13105,7 +13105,7 @@ CHAPTER 24
 
       before he had advanced many paces, and were about to put him to
 
-      death, when Peters suggested that we might derive some benefit
+      [[Death|death]], when Peters suggested that we might derive some benefit
 
       from forcing him to accompany us in our attempt to escape. We
 
@@ -13139,9 +13139,9 @@ CHAPTER 24
 
       ground, when I discovered the bows of two canoes projecting from
 
-      behind a large rock which ran out into the water. Toward these we
+      behind a large rock which ran out into the [[Water|water]]. Toward these we
 
-      now ran with all speed, and, reaching them, found them unguarded,
+      now ran with all [[Speed|speed]], and, reaching them, found them unguarded,
 
       and without any other freight than three of the large Gallipago
 
@@ -13161,17 +13161,17 @@ CHAPTER 24
 
       oversight of which we had been guilty in leaving the other canoe
 
-      in the power of the savages, who, by this time, were not more
+      in the power of the savages, who, by this [[Time|time]], were not more
 
       than twice as far from the beach as ourselves, and were rapidly
 
-      advancing to the pursuit. No time was now to be lost. Our hope
+      advancing to the pursuit. No [[Time|time]] was now to be lost. Our [[Hope|hope]]
 
       was, at best, a forlorn one, but we had none other. It was very
 
       doubtful whether, with the utmost exertion, we could get back in
 
-      time to anticipate them in taking possession of the canoe; but
+      [[Time|time]] to anticipate them in taking possession of the canoe; but
 
       yet there was a chance that we could. We might save ourselves if
 
@@ -13187,7 +13187,7 @@ CHAPTER 24
 
       paddling. As soon as the savages perceived this they redoubled
 
-      their yells, as well as their speed, and approached with
+      their yells, as [[Well|well]] as their [[Speed|speed]], and approached with
 
       inconceivable rapidity. We pulled, however, with all the energy
 
@@ -13197,31 +13197,31 @@ CHAPTER 24
 
       his superior agility, Peters shooting him through the head with a
 
-      pistol as he approached the shore. The foremost among the rest of
+      [[Pistol|pistol]] as he approached the shore. The foremost among the rest of
 
       his party were probably some twenty or thirty paces distant as we
 
       seized upon the canoe. We at first endeavored to pull her into
 
-      the deep water, beyond the reach of the savages, but, finding her
+      the deep [[Water|water]], beyond the reach of the savages, but, finding her
 
-      too firmly aground, and there being no time to spare, Peters,
+      too firmly aground, and there being no [[Time|time]] to spare, Peters,
 
       with one or two heavy strokes from the butt of the musket,
 
       succeeded in dashing out a large portion of the bow and of one
 
-      side. We then pushed off. Two of the natives by this time had got
+      side. We then pushed off. Two of the natives by this [[Time|time]] had got
 
       hold of our boat, obstinately refusing to let go, until we were
 
       forced to despatch them with our knives. We were now clear off,
 
-      and making great way out to sea. The main body of the savages,
+      and making great way out to sea. The main [[Body|body]] of the savages,
 
       upon reaching the broken canoe, set up the most tremendous yell
 
-      of rage and disappointment conceivable. In truth, from everything
+      of rage and disappointment conceivable. In [[Truth|truth]], from everything
 
       I could see of these wretches, they appeared to be the most
 
@@ -13229,7 +13229,7 @@ CHAPTER 24
 
       fiendish race of men upon the face of the globe. It is clear we
 
-      should have had no mercy had we fallen into their hands. They
+      should have had no [[Mercy|mercy]] had we fallen into their hands. They
 
       made a mad attempt at following us in the fractured canoe, but,
 
@@ -13243,7 +13243,7 @@ CHAPTER 24
 
       was still sufficiently gloomy. We knew that four canoes of the
 
-      kind we had were at one time in the possession of the savages,
+      kind we had were at one [[Time|time]] in the possession of the savages,
 
       and were not aware of the fact (afterward ascertained from our
 
@@ -13257,7 +13257,7 @@ CHAPTER 24
 
       Fearing this, we made every exertion to leave the island behind
 
-      us, and went rapidly through the water, forcing the prisoner to
+      us, and went rapidly through the [[Water|water]], forcing the prisoner to
 
       take a paddle. In about half an hour, when we had gained probably
 
@@ -13289,9 +13289,9 @@ CHAPTER 25
 
       and with no provision but the three turtles. The long polar
 
-      winter, too, could not be considered as far distant, and it
+      [[Winter|winter]], too, could not be considered as far distant, and it
 
-      became necessary that we should deliberate well upon the course
+      became necessary that we should deliberate [[Well|well]] upon the course
 
       to be pursued. There were six or seven islands in sight belonging
 
@@ -13313,7 +13313,7 @@ CHAPTER 25
 
       period of the season. Only one course seemed to be left open for
 
-      hope. We resolved to steer boldly to the southward, where there
+      [[Hope|hope]]. We resolved to steer boldly to the southward, where there
 
       was at least a probability of discovering other lands, and more
 
@@ -13323,17 +13323,17 @@ CHAPTER 25
 
       So far we had found the Antarctic, like the Arctic Ocean,
 
-      peculiarly free from violent storms or immoderately rough water;
+      peculiarly free from violent storms or immoderately rough [[Water|water]];
 
       but our canoe was, at best, of frail structure, although large,
 
       and we set busily to work with a view of rendering her as safe as
 
-      the limited means in our possession would admit. The body of the
+      the limited means in our possession would admit. The [[Body|body]] of the
 
       boat was of no better material than bark—the bark of a tree
 
-      unknown. The ribs were of a tough osier, well adapted to the
+      unknown. The ribs were of a tough osier, [[Well|well]] adapted to the
 
       purpose for which it was used. We had fifty feet room from stem
 
@@ -13397,7 +13397,7 @@ CHAPTER 25
 
       southward. The weather could by no means be considered
 
-      disagreeable. We had a prevailing and very gentle wind from the
+      disagreeable. We had a prevailing and very gentle [[Wind|wind]] from the
 
       northward, a smooth sea, and continual daylight. No ice whatever
 
@@ -13405,17 +13405,17 @@ CHAPTER 25
 
       leaving the parallel of Bennet’s Islet._Indeed, the temperature
 
-      of the water was here far too warm for its existence in any
+      of the [[Water|water]] was here far too warm for its existence in any
 
       quantity. Having killed the largest of our tortoises, and
 
-      obtained from him not only food but a copious supply of water, we
+      obtained from him not only food but a copious supply of [[Water|water]], we
 
       continued on our course, without any incident of moment, for
 
       perhaps seven or eight days, during which period we must have
 
-      proceeded a vast distance to the southward, as the wind blew
+      proceeded a vast distance to the southward, as the [[Wind|wind]] blew
 
       constantly with us, and a very strong current set continually in
 
@@ -13425,7 +13425,7 @@ CHAPTER 25
 
       _March 1st_. {*7}-Many unusual phenomena now—indicated that we
 
-      were entering upon a region of novelty and wonder. A high range
+      were entering upon a region of novelty and [[Wonder|wonder]]. A high range
 
       of light gray vapor appeared constantly in the southern horizon,
 
@@ -13455,13 +13455,13 @@ CHAPTER 25
 
       there were eight islands in the group—that they were governed by
 
-      a common king, named _Tsalemon_or _Psalemoun,_who resided in one
+      a common [[King|king]], named _Tsalemon_or _Psalemoun,_who resided in one
 
       of the smallest of the islands; that the black skins forming the
 
       dress of the warriors came from an animal of huge size to be
 
-      found only in a valley near the court of the king—that the
+      found only in a valley near the [[Court|court]] of the [[King|king]]—that the
 
       inhabitants of the group fabricated no other boats than the
 
@@ -13483,11 +13483,11 @@ CHAPTER 25
 
       with the note of the black bittern we had eaten up on the summit
 
-      of the hill.
+      of the [[Hill|hill]].
 
 
 
-      _March 3d._-The heat of the water was now truly remarkable, and
+      _March 3d._-The heat of the [[Water|water]] was now truly remarkable, and
 
       in color was undergoing a rapid change, being no longer
 
@@ -13523,7 +13523,7 @@ CHAPTER 25
 
 
 
-      _March_5th.-The wind had entirely ceased, but it was evident that
+      _March_5th.-The [[Wind|wind]] had entirely ceased, but it was evident that
 
       we were still hurrying on to the southward, under the influence
 
@@ -13533,11 +13533,11 @@ CHAPTER 25
 
       taking—but we felt none. The countenance of Peters indicated
 
-      nothing of this nature, although it wore at times an expression I
+      nothing of this [[Nature|nature]], although it wore at times an expression I
 
-      could not fathom. The polar winter appeared to be coming on—but
+      could not fathom. The polar [[Winter|winter]] appeared to be coming on—but
 
-      coming without its terrors. I felt a numbness of body and mind—a
+      coming without its terrors. I felt a numbness of [[Body|body]] and mind—a
 
       dreaminess of sensation but this was all.
 
@@ -13547,11 +13547,11 @@ CHAPTER 25
 
       above the horizon, and was gradually losing its grayness of tint.
 
-      The heat of the water was extreme, even unpleasant to the touch,
+      The heat of the [[Water|water]] was extreme, even unpleasant to the touch,
 
       and its milky hue was more evident than ever. Today a violent
 
-      agitation of the water occurred very close to the canoe. It was
+      agitation of the [[Water|water]] occurred very close to the canoe. It was
 
       attended, as usual, with a wild flaring up of the vapor at its
 
@@ -13559,11 +13559,11 @@ CHAPTER 25
 
       powder, resembling ashes—but certainly not such—fell over the
 
-      canoe and over a large surface of the water, as the flickering
+      canoe and over a large surface of the [[Water|water]], as the flickering
 
       died away among the vapor and the commotion subsided in the sea.
 
-      Nu-Nu now threw himself on his face in the bottom of the boat,
+      Nu-Nu now threw himself on his face in the [[Bottom|bottom]] of the boat,
 
       and no persuasions could induce him to arise.
 
@@ -13575,7 +13575,7 @@ CHAPTER 25
 
       to be too utterly overcome by terror to afford us any rational
 
-      reply. He still obstinately lay in the bottom of the boat; and,
+      reply. He still obstinately lay in the [[Bottom|bottom]] of the boat; and,
 
       upon reiterating the questions as to the motive, made use only of
 
@@ -13589,7 +13589,7 @@ CHAPTER 25
 
 
 
-      _March 8th._-To-day there floated by us one of the white animals
+      _March 8th._-To-day there floated by us one of the white [[Animals|animals]]
 
       whose appearance upon the beach at Tsalal had occasioned so wild
 
@@ -13597,7 +13597,7 @@ CHAPTER 25
 
       there came over me a sudden listlessness, and I forbore. The heat
 
-      of the water still increased, and the hand could no longer be
+      of the [[Water|water]] still increased, and the hand could no longer be
 
       endured within it. Peters spoke little, and I knew not what to
 
@@ -13613,7 +13613,7 @@ CHAPTER 25
 
       distinctness of form. I can liken it to nothing but a limitless
 
-      cataract, rolling silently into the sea from some immense and
+      cataract, [[rolling]] silently into the sea from some immense and
 
       far-distant rampart in the heaven. The gigantic curtain ranged
 
@@ -13631,7 +13631,7 @@ CHAPTER 25
 
       the white ashy shower which settled upon us and upon the canoe,
 
-      but melted into the water as it fell. The summit of the cataract
+      but melted into the [[Water|water]] as it fell. The summit of the cataract
 
       was utterly lost in the dimness and the distance. Yet we were
 
@@ -13649,15 +13649,15 @@ CHAPTER 25
 
       _March 22d._-The darkness had materially increased, relieved only
 
-      by the glare of the water thrown back from the white curtain
+      by the glare of the [[Water|water]] thrown back from the white curtain
 
-      before us. Many gigantic and pallidly white birds flew
+      before us. Many gigantic and pallidly white [[Birds|birds]] flew
 
       continuously now from beyond the veil, and their scream was the
 
       eternal _Tekeli-li!_as they retreated from our vision. Hereupon
 
-      Nu-Nu stirred in the bottom of the boat; but upon touching him we
+      Nu-Nu stirred in the [[Bottom|bottom]] of the boat; but upon touching him we
 
       found his spirit departed. And now we rushed into the embraces of
 
@@ -13669,7 +13669,7 @@ CHAPTER 25
 
       of the skin of the figure was of the perfect whiteness of the
 
-      snow.
+      [[Snow|snow]].
 
 
 
@@ -13679,7 +13679,7 @@ CHAPTER 25
 
       THE circumstances connected with the late sudden and distressing
 
-      death of Mr. Pym are already well known to the public through the
+      [[Death|death]] of Mr. Pym are already [[Well|well]] known to the public through the
 
       medium of the daily press. It is feared that the few remaining
 
@@ -13707,7 +13707,7 @@ CHAPTER 25
 
       connected with the general inaccuracy of the details afforded
 
-      him, and his disbelief in the entire truth of the latter portions
+      him, and his disbelief in the entire [[Truth|truth]] of the latter portions
 
       of the narration. Peters, from whom some information might be
 
@@ -13715,7 +13715,7 @@ CHAPTER 25
 
       be met with at present. He may hereafter be found, and will, no
 
-      doubt, afford material for a conclusion of Mr. Pym’s account.
+      [[Doubt|doubt]], afford material for a conclusion of Mr. Pym’s account.
 
 
 
@@ -13735,7 +13735,7 @@ CHAPTER 25
 
 
 
-      On one point in the narrative some remarks may well be offered;
+      On one point in the narrative some remarks may [[Well|well]] be offered;
 
       and it would afford the writer of this appendix much pleasure if
 
@@ -13769,7 +13769,7 @@ CHAPTER 25
 
       (viz., the fitting of the projections of the fragments found
 
-      among the dust into the indentures upon the wall), that we are
+      among the [[Dust|dust]] into the indentures upon the wall), that we are
 
       forced to believe the writer in earnest; and no reasonable reader
 
@@ -13777,11 +13777,11 @@ CHAPTER 25
 
       figures are most singular (especially when taken in connection
 
-      with statements made in the body of the narrative), it may be as
+      with statements made in the [[Body|body]] of the narrative), it may be as
 
-      well to say a word or two concerning them all—this, too, the more
+      [[Well|well]] to say a word or two concerning them all—this, too, the more
 
-      especially as the facts in question have, beyond doubt, escaped
+      especially as the facts in question have, beyond [[Doubt|doubt]], escaped
 
       the attention of Mr. Poe.
 
@@ -13799,7 +13799,7 @@ CHAPTER 25
 
       distinct character), constitute an Ethiopian verbal root—the root
 
-      “To be shady,’—whence all the inflections of shadow or darkness.
+      “To be shady,’—whence all the inflections of [[Shadow|shadow]] or darkness.
 
 
 
@@ -13855,7 +13855,7 @@ CHAPTER 25
 
       _white_materials in possession of Mr. Pym. This also was the
 
-      shriek of the swift-flying, _white, _and gigantic birds which
+      shriek of the swift-flying, _white, _and gigantic [[Birds|birds]] which
 
       issued from the vapory _white_curtain of the South. Nothing
 
@@ -13875,7 +13875,7 @@ CHAPTER 25
 
       _“I have graven it within the hills, and my vengeance upon the
 
-      dust within the rock.”_
+      [[Dust|dust]] within the rock.”_
 
 
 
@@ -13915,11 +13915,11 @@ NOTES TO THE THIRD VOLUME
 
       belonging to him. On the fifteenth, having cleared the shoal of
 
-      Georges, she sprung a leak in a gale of wind from the southeast,
+      Georges, she sprung a leak in a gale of [[Wind|wind]] from the southeast,
 
       and was finally capsized; but, the masts going by the board, she
 
-      afterward righted. They remained in this situation, without fire,
+      afterward righted. They remained in this situation, without [[Fire|fire]],
 
       and with very little provision, for the period of one hundred and
 
@@ -13929,7 +13929,7 @@ NOTES TO THE THIRD VOLUME
 
       survivors, were taken off the wreck by the Fame, of Hull, Captain
 
-      Featherstone, bound home from Rio Janeiro. When picked up, they
+      Featherstone, bound [[Home|home]] from Rio Janeiro. When picked up, they
 
       were in latitude 28 degrees N., longitude 13 degrees W., having
 
@@ -13947,7 +13947,7 @@ NOTES TO THE THIRD VOLUME
 
       distance, upon the most frequented part of the Atlantic, and not
 
-      be discovered all this time. They were passed by more than a
+      be discovered all this [[Time|time]]. They were passed by more than a
 
       dozen sail, one of which came so nigh them that they could
 
@@ -13963,11 +13963,11 @@ NOTES TO THE THIRD VOLUME
 
       {*3} Among the vessels which at various times have professed to
 
-      meet with the Auroras may be mentioned the ship San Miguel, in
+      meet with the Auroras may be mentioned the [[Ship|ship]] San Miguel, in
 
-      1769; the ship Aurora, in 1774; the brig Pearl, in 1779; and the
+      1769; the [[Ship|ship]] Aurora, in 1774; the brig Pearl, in 1779; and the
 
-      ship Dolores, in 1790. They all agree in giving the mean latitude
+      [[Ship|ship]] Dolores, in 1790. They all agree in giving the mean latitude
 
       fifty-three degrees south.
 
@@ -13977,11 +13977,11 @@ NOTES TO THE THIRD VOLUME
 
       avoid confusion in my narrative, as far as possible, must not, of
 
-      course, be taken in their ordinary sense. For a long time past we
+      course, be taken in their ordinary sense. For a long [[Time|time]] past we
 
-      had had no night at all, the daylight being continual. The dates
+      had had no [[Night|night]] at all, the daylight being continual. The dates
 
-      throughout are according to nautical time, and the bearing must
+      throughout are according to nautical [[Time|time]], and the bearing must
 
       be understood as per compass. I would also remark, in this place,
 
@@ -13993,7 +13993,7 @@ NOTES TO THE THIRD VOLUME
 
       of which this first portion treats. In many instances I have
 
-      relied altogether upon memory.
+      relied altogether upon [[Memory|memory]].
 
 
 
@@ -14035,25 +14035,25 @@ LIGEIA
 
       mysteries of the will, with its vigor? For God is but a great
 
-      will pervading all things by nature of its intentness. Man doth
+      will pervading all things by [[Nature|nature]] of its intentness. Man doth
 
-      not yield himself to the angels, nor unto death utterly, save
+      not yield himself to the angels, nor unto [[Death|death]] utterly, save
 
       only through the weakness of his feeble will.—_Joseph Glanvill_.
 
 
 
-      I cannot, for my soul, remember how, when, or even precisely
+      I cannot, for my [[Soul|soul]], remember how, when, or even precisely
 
       where, I first became acquainted with the lady Ligeia. Long years
 
-      have since elapsed, and my memory is feeble through much
+      have since elapsed, and my [[Memory|memory]] is feeble through much
 
-      suffering. Or, perhaps, I cannot now bring these points to mind,
+      [[Suffering|suffering]]. Or, perhaps, I cannot now bring these points to mind,
 
-      because, in truth, the character of my beloved, her rare
+      because, in [[Truth|truth]], the character of my beloved, her rare
 
-      learning, her singular yet placid cast of beauty, and the
+      learning, her singular yet placid cast of [[Beauty|beauty]], and the
 
       thrilling and enthralling eloquence of her low musical language,
 
@@ -14063,15 +14063,15 @@ LIGEIA
 
       believe that I met her first and most frequently in some large,
 
-      old, decaying city near the Rhine. Of her family—I have surely
+      old, decaying [[City|city]] near the Rhine. Of her family—I have surely
 
       heard her speak. That it is of a remotely ancient date cannot be
 
-      doubted. Ligeia! Ligeia! Buried in studies of a nature more than
+      doubted. Ligeia! Ligeia! Buried in studies of a [[Nature|nature]] more than
 
       all else adapted to deaden impressions of the outward world, it
 
-      is by that sweet word alone—by Ligeia—that I bring before mine
+      is by that sweet word [[Alone|alone]]—by Ligeia—that I bring before mine
 
       eyes in fancy the image of her who is no more. And now, while I
 
@@ -14089,7 +14089,7 @@ LIGEIA
 
       wildly romantic offering on the shrine of the most passionate
 
-      devotion? I but indistinctly recall the fact itself—what wonder
+      devotion? I but indistinctly recall the fact itself—what [[Wonder|wonder]]
 
       that I have utterly forgotten the circumstances which originated
 
@@ -14097,13 +14097,13 @@ LIGEIA
 
       entitled _Romance_—if ever she, the wan and the misty-winged
 
-      _Ashtophet_ of idolatrous Egypt, presided, as they tell, over
+      _Ashtophet_ of idolatrous [[Egypt]], presided, as they tell, over
 
       marriages ill-omened, then most surely she presided over mine.
 
 
 
-      There is one dear topic, however, on which my memory fails me
+      There is one dear topic, however, on which my [[Memory|memory]] fails me
 
       not. It is the person of Ligeia. In stature she was tall,
 
@@ -14113,13 +14113,13 @@ LIGEIA
 
       her demeanor, or the incomprehensible lightness and elasticity of
 
-      her footfall. She came and departed as a shadow. I was never made
+      her footfall. She came and departed as a [[Shadow|shadow]]. I was never made
 
       aware of her entrance into my closed study save by the dear music
 
       of her low sweet voice, as she placed her marble hand upon my
 
-      shoulder. In beauty of face no maiden ever equalled her. It was
+      shoulder. In [[Beauty|beauty]] of face no maiden ever equalled her. It was
 
       the radiance of an opium-dream—an airy and spirit-lifting vision
 
@@ -14131,9 +14131,9 @@ LIGEIA
 
       worship in the classical labors of the heathen. “There is no
 
-      exquisite beauty,” says Bacon, Lord Verulam, speaking truly of
+      exquisite [[Beauty|beauty]],” says Bacon, Lord Verulam, speaking truly of
 
-      all the forms and genera of beauty, “without some strangeness in
+      all the forms and genera of [[Beauty|beauty]], “without some strangeness in
 
       the proportion.” Yet, although I saw that the features of Ligeia
 
@@ -14143,7 +14143,7 @@ LIGEIA
 
       of “strangeness” pervading it, yet I have tried in vain to detect
 
-      the irregularity and to trace home my own perception of “the
+      the irregularity and to trace [[Home|home]] my own perception of “the
 
       strange.” I examined the contour of the lofty and pale
 
@@ -14153,7 +14153,7 @@ LIGEIA
 
       commanding extent and repose, the gentle prominence of the
 
-      regions above the temples; and then the raven-black, the glossy,
+      regions above the temples; and then [[The Raven|the raven]]-black, the glossy,
 
       the luxuriant and naturally-curling tresses, setting forth the
 
@@ -14187,7 +14187,7 @@ LIGEIA
 
       the fullness and the spirituality, of the Greek—the contour which
 
-      the god Apollo revealed but in a dream, to Cleomenes, the son of
+      the god [[Apollo]] revealed but in [[A Dream|a dream]], to Cleomenes, the son of
 
       the Athenian. And then I peered into the large eyes of Ligeia.
 
@@ -14207,11 +14207,11 @@ LIGEIA
 
       excitement—that this peculiarity became more than slightly
 
-      noticeable in Ligeia. And at such moments was her beauty—in my
+      noticeable in Ligeia. And at such moments was her [[Beauty|beauty]]—in my
 
-      heated fancy thus it appeared perhaps—the beauty of beings either
+      heated fancy thus it appeared perhaps—the [[Beauty|beauty]] of beings either
 
-      above or apart from the earth—the beauty of the fabulous Houri of
+      above or apart from the earth—the [[Beauty|beauty]] of the fabulous Houri of
 
       the Turk. The hue of the orbs was the most brilliant of black,
 
@@ -14221,7 +14221,7 @@ LIGEIA
 
       “strangeness,” however, which I found in the eyes, was of a
 
-      nature distinct from the formation, or the color, or the
+      [[Nature|nature]] distinct from the formation, or the color, or the
 
       brilliancy of the features, and must, after all, be referred to
 
@@ -14233,15 +14233,15 @@ LIGEIA
 
       hours have I pondered upon it! How have I, through the whole of a
 
-      midsummer night, struggled to fathom it! What was it—that
+      midsummer [[Night|night]], struggled to fathom it! What was it—that
 
-      something more profound than the well of Democritus—which lay far
+      something more profound than the [[Well|well]] of Democritus—which lay far
 
       within the pupils of my beloved? What was it? I was possessed
 
       with a passion to discover. Those eyes! those large, those
 
-      shining, those divine orbs! they became to me twin stars of Leda,
+      shining, those divine orbs! they became to me twin [[Stars|stars]] of Leda,
 
       and I to them devoutest of astrologers.
 
@@ -14253,7 +14253,7 @@ LIGEIA
 
       fact—never, I believe, noticed in the schools—that, in our
 
-      endeavors to recall to memory something long forgotten, we often
+      endeavors to recall to [[Memory|memory]] something long forgotten, we often
 
       find ourselves upon the very verge of remembrance, without being
 
@@ -14269,7 +14269,7 @@ LIGEIA
 
       the universe, a circle of analogies to that expression. I mean to
 
-      say that, subsequently to the period when Ligeia’s beauty passed
+      say that, subsequently to the period when Ligeia’s [[Beauty|beauty]] passed
 
       into my spirit, there dwelling as in a shrine, I derived, from
 
@@ -14283,15 +14283,15 @@ LIGEIA
 
       the survey of a rapidly-growing vine—in the contemplation of a
 
-      moth, a butterfly, a chrysalis, a stream of running water. I have
+      moth, a butterfly, a chrysalis, a stream of running [[Water|water]]. I have
 
       felt it in the ocean—in the falling of a meteor. I have felt it
 
       in the glances of unusually aged people. And there are one or two
 
-      stars in heaven—(one especially, a star of the sixth magnitude,
+      [[Stars|stars]] in heaven—(one especially, a star of the sixth magnitude,
 
-      double and changeable, to be found near the large star in Lyra)
+      [[Double|double]] and changeable, to be found near the large star in Lyra)
 
       in a telescopic scrutiny of which I have been made aware of the
 
@@ -14299,7 +14299,7 @@ LIGEIA
 
       stringed instruments, and not unfrequently by passages from
 
-      books. Among innumerable other instances, I well remember
+      books. Among innumerable other instances, I [[Well|well]] remember
 
       something in a volume of Joseph Glanvill, which (perhaps merely
 
@@ -14309,9 +14309,9 @@ LIGEIA
 
       Who knoweth the mysteries of the will, with its vigor? For God is
 
-      but a great will pervading all things by nature of its
+      but a great will pervading all things by [[Nature|nature]] of its
 
-      intentness. Man doth not yield him to the angels, nor unto death
+      intentness. Man doth not yield him to the angels, nor unto [[Death|death]]
 
       utterly, save only through the weakness of his feeble will.”
 
@@ -14365,7 +14365,7 @@ LIGEIA
 
       have I ever found Ligeia at fault? How singularly—how
 
-      thrillingly, this one point in the nature of my wife has forced
+      thrillingly, this one point in the [[Nature|nature]] of my wife has forced
 
       itself, at this late period only, upon my attention! I said her
 
@@ -14381,15 +14381,15 @@ LIGEIA
 
       aware of her infinite supremacy to resign myself, with a
 
-      child-like confidence, to her guidance through the chaotic world
+      [[Child|child]]-like confidence, to her guidance through the chaotic world
 
       of metaphysical investigation at which I was most busily occupied
 
-      during the earlier years of our marriage. With how vast a
+      during the earlier years of our [[Marriage|marriage]]. With how vast a
 
       triumph—with how vivid a delight—with how much of all that is
 
-      ethereal in hope did I feel, as she bent over me in studies but
+      ethereal in [[Hope|hope]] did I feel, as she bent over me in studies but
 
       little sought—but less known—that delicious vista by slow degrees
 
@@ -14403,11 +14403,11 @@ LIGEIA
 
       How poignant, then, must have been the grief with which, after
 
-      some years, I beheld my well-grounded expectations take wings to
+      some years, I beheld my [[Well|well]]-grounded expectations take wings to
 
-      themselves and fly away! Without Ligeia I was but as a child
+      themselves and fly away! Without Ligeia I was but as a [[Child|child]]
 
-      groping benighted. Her presence, her readings alone, rendered
+      groping benighted. Her presence, her readings [[Alone|alone]], rendered
 
       vividly luminous the many mysteries of the transcendentalism in
 
@@ -14421,7 +14421,7 @@ LIGEIA
 
       too—too glorious effulgence; the pale fingers became of the
 
-      transparent waxen hue of the grave; and the blue veins upon the
+      transparent waxen hue of the [[Grave|grave]]; and the blue veins upon the
 
       lofty forehead swelled and sank impetuously with the tides of the
 
@@ -14431,19 +14431,19 @@ LIGEIA
 
       the passionate wife were, to my astonishment, even more energetic
 
-      than my own. There had been much in her stern nature to impress
+      than my own. There had been much in her stern [[Nature|nature]] to impress
 
-      me with the belief that, to her, death would have come without
+      me with the belief that, to her, [[Death|death]] would have come without
 
       its terrors; but not so. Words are impotent to convey any just
 
       idea of the fierceness of resistance with which she wrestled with
 
-      the Shadow. I groaned in anguish at the pitiable spectacle. I
+      the [[Shadow]]. I groaned in anguish at the pitiable spectacle. I
 
       would have soothed—I would have reasoned; but, in the intensity
 
-      of her wild desire for life,—for life—but for life—solace and
+      of her wild [[Desire|desire]] for life,—for life—but for life—solace and
 
       reason were the uttermost folly. Yet not until the last instance,
 
@@ -14457,15 +14457,15 @@ LIGEIA
 
       hearkened, entranced, to a melody more than mortal—to assumptions
 
-      and aspirations which mortality had never before known.
+      and aspirations which [[Mortality|mortality]] had never before known.
 
 
 
       That she loved me I should not have doubted; and I might have
 
-      been easily aware that, in a bosom such as hers, love would have
+      been easily aware that, in a bosom such as hers, [[Love|love]] would have
 
-      reigned no ordinary passion. But in death only, was I fully
+      reigned no ordinary passion. But in [[Death|death]] only, was I fully
 
       impressed with the strength of her affection. For long hours,
 
@@ -14481,15 +14481,15 @@ LIGEIA
 
       subject I cannot bear to dilate. Let me say only, that in
 
-      Ligeia’s more than womanly abandonment to a love, alas! all
+      Ligeia’s more than womanly abandonment to a [[Love|love]], alas! all
 
       unmerited, all unworthily bestowed, I at length recognized the
 
-      principle of her longing with so wildly earnest a desire for the
+      principle of her [[Longing|longing]] with so wildly earnest a [[Desire|desire]] for the
 
       life which was now fleeing so rapidly away. It is this wild
 
-      longing—it is this eager vehemence of desire for life—but for
+      [[Longing|longing]]—it is this eager vehemence of [[Desire|desire]] for life—but for
 
       life—that I have no power to portray—no utterance capable of
 
@@ -14497,7 +14497,7 @@ LIGEIA
 
 
 
-      At high noon of the night in which she departed, beckoning me,
+      At high [[Noon|noon]] of the [[Night|night]] in which she departed, beckoning me,
 
       peremptorily, to her side, she bade me repeat certain verses
 
@@ -14507,13 +14507,13 @@ LIGEIA
 
 
 
-Lo! ’tis a gala night
+Lo! ’tis a gala [[Night|night]]
 
     Within the lonesome latter years!
 
 An angel throng, bewinged, bedight
 
-    In veils, and drowned in tears,
+    In veils, and drowned in [[Tears|tears]],
 
 Sit in a theatre, to see
 
@@ -14547,17 +14547,17 @@ That motley drama!—oh, be sure
 
     It shall not be forgot!
 
-With its Phantom chased forever more,
+With its [[Phantom]] chased forever more,
 
     By a crowd that seize it not,
 
 Through a circle that ever returneth in
 
-    To the self-same spot,
+    To the [[Self|self]]-same spot,
 
-And much of Madness and more of Sin
+And much of [[Madness]] and more of Sin
 
-    And Horror the soul of the plot.
+    And Horror the [[Soul|soul]] of the plot.
 
 
 
@@ -14565,9 +14565,9 @@ But see, amid the mimic rout,
 
     A crawling shape intrude!
 
-A blood-red thing that writhes from out
+A [[Blood|blood]]-red thing that writhes from out
 
-    The scenic solitude!
+    The scenic [[Solitude|solitude]]!
 
 It writhes!—it writhes!—with mortal pangs
 
@@ -14585,15 +14585,15 @@ Out—out are the lights—out all!
 
 The curtain, a funeral pall,
 
-    Comes down with the rush of a storm,
+    Comes down with the rush of a [[Storm|storm]],
 
 And the angels, all pallid and wan,
 
     Uprising, unveiling, affirm
 
-That the play is the tragedy, “Man,”
+That the play is the [[Tragedy|tragedy]], “Man,”
 
-    And its hero the Conqueror Worm.
+    And its [[Hero|hero]] [[The Conqueror Worm|the Conqueror Worm]].
 
 
 
@@ -14609,7 +14609,7 @@ That the play is the tragedy, “Man,”
 
       the will with its vigor? Man doth not yield him to the angels,
 
-      nor unto death utterly, save only through the weakness of his
+      nor unto [[Death|death]] utterly, save only through the weakness of his
 
       feeble will.”
 
@@ -14617,7 +14617,7 @@ That the play is the tragedy, “Man,”
 
       And now, as if exhausted with emotion, she suffered her white
 
-      arms to fall, and returned solemnly to her bed of death. And as
+      arms to fall, and returned solemnly to her bed of [[Death|death]]. And as
 
       she breathed her last sighs, there came mingled with them a low
 
@@ -14625,17 +14625,17 @@ That the play is the tragedy, “Man,”
 
       again, the concluding words of the passage in Glanvill—“Man doth
 
-      not yield him to the angels, nor unto death utterly, save only
+      not yield him to the angels, nor unto [[Death|death]] utterly, save only
 
       through the weakness of his feeble will.”
 
 
 
-      She died: and I, crushed into the very dust with sorrow, could no
+      She died: and I, crushed into the very [[Dust|dust]] with sorrow, could no
 
       longer endure the lonely desolation of my dwelling in the dim and
 
-      decaying city by the Rhine. I had no lack of what the world calls
+      decaying [[City|city]] by the Rhine. I had no lack of what the world calls
 
       wealth. Ligeia had brought me far more, very far more than
 
@@ -14649,7 +14649,7 @@ That the play is the tragedy, “Man,”
 
       and dreary grandeur of the building, the almost savage aspect of
 
-      the domain, the many melancholy and time-honored memories
+      the domain, the many [[Melancholy|melancholy]] and [[Time|time]]-honored memories
 
       connected with both, had much in unison with the feelings of
 
@@ -14657,21 +14657,21 @@ That the play is the tragedy, “Man,”
 
       unsocial region of the country. Yet although the external abbey,
 
-      with its verdant decay hanging about it, suffered but little
+      with its verdant [[Decay|decay]] hanging about it, suffered but little
 
-      alteration, I gave way, with a child-like perversity, and
+      alteration, I gave way, with a [[Child|child]]-like perversity, and
 
-      perchance with a faint hope of alleviating my sorrows, to a
+      perchance with a faint [[Hope|hope]] of alleviating my sorrows, to a
 
       display of more than regal magnificence within. For such follies,
 
-      even in childhood, I had imbibed a taste and now they came back
+      even in [[Childhood|childhood]], I had imbibed a taste and now they came back
 
       to me as if in the dotage of grief. Alas, I feel how much even of
 
-      incipient madness might have been discovered in the gorgeous and
+      incipient [[Madness|madness]] might have been discovered in the gorgeous and
 
-      fantastic draperies, in the solemn carvings of Egypt, in the wild
+      fantastic draperies, in the solemn carvings of [[Egypt]], in the wild
 
       cornices and furniture, in the Bedlam patterns of the carpets of
 
@@ -14679,11 +14679,11 @@ That the play is the tragedy, “Man,”
 
       opium, and my labors and my orders had taken a coloring from my
 
-      dreams. But these absurdities I must not pause to detail. Let me
+      [[Dreams|dreams]]. But these absurdities I must not pause to detail. Let me
 
       speak only of that one chamber, ever accursed, whither in a
 
-      moment of mental alienation, I led from the altar as my bride—as
+      moment of mental [[Alienation|alienation]], I led from the altar as my bride—as
 
       the successor of the unforgotten Ligeia—the fair-haired and
 
@@ -14707,19 +14707,19 @@ That the play is the tragedy, “Man,”
 
       system, no keeping, in the fantastic display, to take hold upon
 
-      the memory. The room lay in a high turret of the castellated
+      the [[Memory|memory]]. The room lay in a high turret of the castellated
 
       abbey, was pentagonal in shape, and of capacious size. Occupying
 
-      the whole southern face of the pentagon was the sole window—an
+      the whole southern face of the pentagon was the sole [[Window|window]]—an
 
-      immense sheet of unbroken glass from Venice—a single pane, and
+      immense sheet of unbroken glass from [[Venice]]—a single pane, and
 
       tinted of a leaden hue, so that the rays of either the sun or
 
-      moon, passing through it, fell with a ghastly lustre on the
+      [[Moon|moon]], passing through it, fell with a ghastly lustre on the
 
-      objects within. Over the upper portion of this huge window,
+      objects within. Over the upper portion of this huge [[Window|window]],
 
       extended the trellice-work of an aged vine, which clambered up
 
@@ -14727,11 +14727,11 @@ That the play is the tragedy, “Man,”
 
       oak, was excessively lofty, vaulted, and elaborately fretted with
 
-      the wildest and most grotesque specimens of a semi-Gothic,
+      the wildest and most [[Grotesque|grotesque]] specimens of a semi-Gothic,
 
       semi-Druidical device. From out the most central recess of this
 
-      melancholy vaulting, depended, by a single chain of gold with
+      [[Melancholy|melancholy]] vaulting, depended, by a single chain of gold with
 
       long links, a huge censer of the same metal, Saracenic in
 
@@ -14769,7 +14769,7 @@ That the play is the tragedy, “Man,”
 
       as a canopy for the bed, and as the gorgeous volutes of the
 
-      curtains which partially shaded the window. The material was the
+      curtains which partially shaded the [[Window|window]]. The material was the
 
       richest cloth of gold. It was spotted all over, at irregular
 
@@ -14799,7 +14799,7 @@ That the play is the tragedy, “Man,”
 
       vastly heightened by the artificial introduction of a strong
 
-      continual current of wind behind the draperies—giving a hideous
+      continual current of [[Wind|wind]] behind the draperies—giving a hideous
 
       and uneasy animation to the whole.
 
@@ -14809,7 +14809,7 @@ That the play is the tragedy, “Man,”
 
       with the Lady of Tremaine, the unhallowed hours of the first
 
-      month of our marriage—passed them with but little disquietude.
+      month of our [[Marriage|marriage]]—passed them with but little disquietude.
 
       That my wife dreaded the fierce moodiness of my temper—that she
 
@@ -14817,7 +14817,7 @@ That the play is the tragedy, “Man,”
 
       but it gave me rather pleasure than otherwise. I loathed her with
 
-      a hatred belonging more to demon than to man. My memory flew
+      a hatred belonging more to demon than to man. My [[Memory|memory]] flew
 
       back, (oh, with what intensity of regret!) to Ligeia, the
 
@@ -14825,27 +14825,27 @@ That the play is the tragedy, “Man,”
 
       recollections of her purity, of her wisdom, of her lofty, her
 
-      ethereal nature, of her passionate, her idolatrous love. Now,
+      ethereal [[Nature|nature]], of her passionate, her idolatrous [[Love|love]]. Now,
 
       then, did my spirit fully and freely burn with more than all the
 
-      fires of her own. In the excitement of my opium dreams (for I was
+      fires of her own. In the excitement of my opium [[Dreams|dreams]] (for I was
 
       habitually fettered in the shackles of the drug) I would call
 
-      aloud upon her name, during the silence of the night, or among
+      aloud upon her name, during the [[Silence|silence]] of the [[Night|night]], or among
 
       the sheltered recesses of the glens by day, as if, through the
 
       wild eagerness, the solemn passion, the consuming ardor of my
 
-      longing for the departed, I could restore her to the pathway she
+      [[Longing|longing]] for the departed, I could restore her to the pathway she
 
       had abandoned—ah, could it be forever?—upon the earth.
 
 
 
-      About the commencement of the second month of the marriage, the
+      About the commencement of the second month of the [[Marriage|marriage]], the
 
       Lady Rowena was attacked with sudden illness, from which her
 
@@ -14859,11 +14859,11 @@ That the play is the tragedy, “Man,”
 
       her fancy, or perhaps in the phantasmagoric influences of the
 
-      chamber itself. She became at length convalescent—finally well.
+      chamber itself. She became at length convalescent—finally [[Well|well]].
 
       Yet but a brief period elapsed, ere a second more violent
 
-      disorder again threw her upon a bed of suffering; and from this
+      disorder again threw her upon a bed of [[Suffering|suffering]]; and from this
 
       attack her frame, at all times feeble, never altogether
 
@@ -14881,7 +14881,7 @@ That the play is the tragedy, “Man,”
 
       nervous irritation of her temperament, and in her excitability by
 
-      trivial causes of fear. She spoke again, and now more frequently
+      trivial causes of [[Fear|fear]]. She spoke again, and now more frequently
 
       and pertinaciously, of the sounds—of the slight sounds—and of the
 
@@ -14891,7 +14891,7 @@ That the play is the tragedy, “Man,”
 
 
 
-      One night, near the closing in of September, she pressed this
+      One [[Night|night]], near the closing in of September, she pressed this
 
       distressing subject with more than usual emphasis upon my
 
@@ -14907,7 +14907,7 @@ That the play is the tragedy, “Man,”
 
       which she then heard, but which I could not hear—of motions which
 
-      she then saw, but which I could not perceive. The wind was
+      she then saw, but which I could not perceive. The [[Wind|wind]] was
 
       rushing hurriedly behind the tapestries, and I wished to show her
 
@@ -14917,7 +14917,7 @@ That the play is the tragedy, “Man,”
 
       of the figures upon the wall, were but the natural effects of
 
-      that customary rushing of the wind. But a deadly pallor,
+      that customary rushing of the [[Wind|wind]]. But a deadly pallor,
 
       overspreading her face, had proved to me that my exertions to
 
@@ -14931,17 +14931,17 @@ That the play is the tragedy, “Man,”
 
       as I stepped beneath the light of the censer, two circumstances
 
-      of a startling nature attracted my attention. I had felt that
+      of a startling [[Nature|nature]] attracted my attention. I had felt that
 
       some palpable although invisible object had passed lightly by my
 
       person; and I saw that there lay upon the golden carpet, in the
 
-      very middle of the rich lustre thrown from the censer, a shadow—a
+      very middle of the rich lustre thrown from the censer, a [[Shadow|shadow]]—a
 
-      faint, indefinite shadow of angelic aspect—such as might be
+      faint, indefinite [[Shadow|shadow]] of angelic aspect—such as might be
 
-      fancied for the shadow of a shade. But I was wild with the
+      fancied for the [[Shadow|shadow]] of a shade. But I was wild with the
 
       excitement of an immoderate dose of opium, and heeded these
 
@@ -14963,7 +14963,7 @@ That the play is the tragedy, “Man,”
 
       or may have dreamed that I saw, fall within the goblet, as if
 
-      from some invisible spring in the atmosphere of the room, three
+      from some invisible [[Spring|spring]] in the atmosphere of the room, three
 
       or four large drops of a brilliant and ruby colored fluid. If
 
@@ -14973,7 +14973,7 @@ That the play is the tragedy, “Man,”
 
       all, I considered, have been but the suggestion of a vivid
 
-      imagination, rendered morbidly active by the terror of the lady,
+      [[Imagination|imagination]], rendered morbidly active by the terror of the lady,
 
       by the opium, and by the hour.
 
@@ -14985,13 +14985,13 @@ That the play is the tragedy, “Man,”
 
       worse took place in the disorder of my wife; so that, on the
 
-      third subsequent night, the hands of her menials prepared her for
+      third subsequent [[Night|night]], the hands of her menials prepared her for
 
-      the tomb, and on the fourth, I sat alone, with her shrouded body,
+      the tomb, and on the fourth, I sat [[Alone|alone]], with her shrouded [[Body|body]],
 
       in that fantastic chamber which had received her as my bride.
 
-      Wild visions, opium-engendered, flitted, shadow-like, before me.
+      Wild visions, opium-engendered, flitted, [[Shadow|shadow]]-like, before me.
 
       I gazed with unquiet eye upon the sarcophagi in the angles of the
 
@@ -15001,11 +15001,11 @@ That the play is the tragedy, “Man,”
 
       eyes then fell, as I called to mind the circumstances of a former
 
-      night, to the spot beneath the glare of the censer where I had
+      [[Night|night]], to the spot beneath the glare of the censer where I had
 
-      seen the faint traces of the shadow. It was there, however, no
+      seen the faint traces of the [[Shadow|shadow]]. It was there, however, no
 
-      longer; and breathing with greater freedom, I turned my glances
+      longer; and breathing with greater [[Freedom|freedom]], I turned my glances
 
       to the pallid and rigid figure upon the bed. Then rushed upon me
 
@@ -15015,21 +15015,21 @@ That the play is the tragedy, “Man,”
 
       unutterable woe with which I had regarded her thus enshrouded.
 
-      The night waned; and still, with a bosom full of bitter thoughts
+      The [[Night|night]] waned; and still, with a bosom full of bitter thoughts
 
       of the one only and supremely beloved, I remained gazing upon the
 
-      body of Rowena.
+      [[Body|body]] of Rowena.
 
 
 
       It might have been midnight, or perhaps earlier, or later, for I
 
-      had taken no note of time, when a sob, low, gentle, but very
+      had taken no note of [[Time|time]], when a sob, low, gentle, but very
 
       distinct, startled me from my revery. I _felt_ that it came from
 
-      the bed of ebony—the bed of death. I listened in an agony of
+      the bed of ebony—the bed of [[Death|death]]. I listened in an agony of
 
       superstitious terror—but there was no repetition of the sound. I
 
@@ -15037,11 +15037,11 @@ That the play is the tragedy, “Man,”
 
       was not the slightest perceptible. Yet I could not have been
 
-      deceived. I had heard the noise, however faint, and my soul was
+      deceived. I had heard the noise, however faint, and my [[Soul|soul]] was
 
       awakened within me. I resolutely and perseveringly kept my
 
-      attention riveted upon the body. Many minutes elapsed before any
+      attention riveted upon the [[Body|body]]. Many minutes elapsed before any
 
       circumstance occurred tending to throw light upon the mystery. At
 
@@ -15051,15 +15051,15 @@ That the play is the tragedy, “Man,”
 
       along the sunken small veins of the eyelids. Through a species of
 
-      unutterable horror and awe, for which the language of mortality
+      unutterable horror and awe, for which the language of [[Mortality|mortality]]
 
       has no sufficiently energetic expression, I felt my heart cease
 
       to beat, my limbs grow rigid where I sat. Yet a sense of duty
 
-      finally operated to restore my self-possession. I could no longer
+      finally operated to restore my [[Self|self]]-possession. I could no longer
 
-      doubt that we had been precipitate in our preparations—that
+      [[Doubt|doubt]] that we had been precipitate in our preparations—that
 
       Rowena still lived. It was necessary that some immediate exertion
 
@@ -15071,7 +15071,7 @@ That the play is the tragedy, “Man,”
 
       for many minutes—and this I could not venture to do. I therefore
 
-      struggled alone in my endeavors to call back the spirit ill
+      struggled [[Alone|alone]] in my endeavors to call back the spirit ill
 
       hovering. In a short period it was certain, however, that a
 
@@ -15081,9 +15081,9 @@ That the play is the tragedy, “Man,”
 
       lips became doubly shrivelled and pinched up in the ghastly
 
-      expression of death; a repulsive clamminess and coldness
+      expression of [[Death|death]]; a repulsive clamminess and coldness
 
-      overspread rapidly the surface of the body; and all the usual
+      overspread rapidly the surface of the [[Body|body]]; and all the usual
 
       rigorous illness immediately supervened. I fell back with a
 
@@ -15097,7 +15097,7 @@ That the play is the tragedy, “Man,”
 
       An hour thus elapsed when (could it be possible?) I was a second
 
-      time aware of some vague sound issuing from the region of the
+      [[Time|time]] aware of some vague sound issuing from the region of the
 
       bed. I listened—in extremity of horror. The sound came again—it
 
@@ -15109,7 +15109,7 @@ That the play is the tragedy, “Man,”
 
       bosom with the profound awe which had hitherto reigned there
 
-      alone. I felt that my vision grew dim, that my reason wandered;
+      [[Alone|alone]]. I felt that my vision grew dim, that my reason wandered;
 
       and it was only by a violent effort that I at length succeeded in
 
@@ -15131,7 +15131,7 @@ That the play is the tragedy, “Man,”
 
       the pulsation ceased, the lips resumed the expression of the
 
-      dead, and, in an instant afterward, the whole body took upon
+      dead, and, in an instant afterward, the whole [[Body|body]] took upon
 
       itself the icy chilliness, the livid hue, the intense rigidity,
 
@@ -15147,15 +15147,15 @@ That the play is the tragedy, “Man,”
 
       sob from the region of the ebony bed. But why shall I minutely
 
-      detail the unspeakable horrors of that night? Why shall I pause
+      detail the unspeakable horrors of that [[Night|night]]? Why shall I pause
 
-      to relate how, time after time, until near the period of the gray
+      to relate how, [[Time|time]] after [[Time|time]], until near the period of the gray
 
-      dawn, this hideous drama of revivification was repeated; how each
+      [[Dawn|dawn]], this hideous drama of revivification was repeated; how each
 
       terrific relapse was only into a sterner and apparently more
 
-      irredeemable death; how each agony wore the aspect of a struggle
+      irredeemable [[Death|death]]; how each agony wore the aspect of a struggle
 
       with some invisible foe; and how each struggle was succeeded by I
 
@@ -15165,7 +15165,7 @@ That the play is the tragedy, “Man,”
 
 
 
-      The greater part of the fearful night had worn away, and she who
+      The greater part of the fearful [[Night|night]] had worn away, and she who
 
       had been dead, once again stirred—and now more vigorously than
 
@@ -15187,17 +15187,17 @@ That the play is the tragedy, “Man,”
 
       pressed heavily together, and that the bandages and draperies of
 
-      the grave still imparted their charnel character to the figure, I
+      the [[Grave|grave]] still imparted their charnel character to the figure, I
 
       might have dreamed that Rowena had indeed shaken off, utterly,
 
-      the fetters of Death. But if this idea was not, even then,
+      the fetters of [[Death]]. But if this idea was not, even then,
 
-      altogether adopted, I could at least doubt no longer, when,
+      altogether adopted, I could at least [[Doubt|doubt]] no longer, when,
 
       arising from the bed, tottering, with feeble steps, with closed
 
-      eyes, and with the manner of one bewildered in a dream, the thing
+      eyes, and with the manner of one bewildered in [[A Dream|a dream]], the thing
 
       that was enshrouded advanced boldly and palpably into the middle
 
@@ -15219,19 +15219,19 @@ That the play is the tragedy, “Man,”
 
       indeed be Rowena at all—the fair-haired, the blue-eyed Lady
 
-      Rowena Trevanion of Tremaine? Why, why should I doubt it? The
+      Rowena Trevanion of Tremaine? Why, why should I [[Doubt|doubt]] it? The
 
       bandage lay heavily about the mouth—but then might it not be the
 
       mouth of the breathing Lady of Tremaine? And the cheeks—there
 
-      were the roses as in her noon of life—yes, these might indeed be
+      were the roses as in her [[Noon|noon]] of life—yes, these might indeed be
 
       the fair cheeks of the living Lady of Tremaine. And the chin,
 
       with its dimples, as in health, might it not be hers?—but had she
 
-      then grown taller since her malady? What inexpressible madness
+      then grown taller since her malady? What inexpressible [[Madness|madness]]
 
       seized me with that thought? One bound, and I had reached her
 
@@ -15243,13 +15243,13 @@ That the play is the tragedy, “Man,”
 
       huge masses of long and dishevelled hair; _it was blacker than
 
-      the raven wings of the midnight!_ And now slowly opened the eyes
+      [[The Raven|the raven]] wings of the midnight!_ And now slowly opened the eyes
 
       of the figure which stood before me. “Here then, at least,” I
 
       shrieked aloud, “can I never—can I never be mistaken—these are
 
-      the full, and the black, and the wild eyes—of my lost love—of the
+      the full, and the black, and the wild eyes—of my lost [[Love|love]]—of the
 
       Lady—of the LADY LIGEIA.”
 
@@ -15277,7 +15277,7 @@ MORELLA
 
       friend Morella. Thrown by accident into her society many years
 
-      ago, my soul from our first meeting, burned with fires it had
+      ago, my [[Soul|soul]] from our first meeting, burned with fires it had
 
       never before known; but the fires were not of Eros, and bitter
 
@@ -15287,23 +15287,23 @@ MORELLA
 
       vague intensity. Yet we met; and fate bound us together at the
 
-      altar; and I never spoke of passion nor thought of love. She,
+      altar; and I never spoke of passion nor thought of [[Love|love]]. She,
 
-      however, shunned society, and, attaching herself to me alone
+      however, shunned society, and, attaching herself to me [[Alone|alone]]
 
-      rendered me happy. It is a happiness to wonder; it is a happiness
+      rendered me happy. It is a happiness to [[Wonder|wonder]]; it is a happiness
 
       to dream.
 
 
 
-      Morella’s erudition was profound. As I hope to live, her talents
+      Morella’s erudition was profound. As I [[Hope|hope]] to live, her talents
 
       were of no common order—her powers of mind were gigantic. I felt
 
       this, and, in many matters, became her pupil. I soon, however,
 
-      found that, perhaps on account of her Presburg education, she
+      found that, perhaps on account of her Presburg [[Education|education]], she
 
       placed before me a number of those mystical writings which are
 
@@ -15311,7 +15311,7 @@ MORELLA
 
       These, for what reason I could not imagine, were her favourite
 
-      and constant study—and that in process of time they became my
+      and constant study—and that in process of [[Time|time]] they became my
 
       own, should be attributed to the simple but effectual influence
 
@@ -15337,17 +15337,17 @@ MORELLA
 
       spirit enkindling within me—would Morella place her cold hand
 
-      upon my own, and rake up from the ashes of a dead philosophy some
+      upon my own, and rake up from the ashes of a dead [[philosophy]] some
 
       low, singular words, whose strange meaning burned themselves in
 
-      upon my memory. And then, hour after hour, would I linger by her
+      upon my [[Memory|memory]]. And then, hour after hour, would I linger by her
 
       side, and dwell upon the music of her voice, until at length its
 
-      melody was tainted with terror, and there fell a shadow upon my
+      melody was tainted with terror, and there fell a [[Shadow|shadow]] upon my
 
-      soul, and I grew pale, and shuddered inwardly at those too
+      [[Soul|soul]], and I grew pale, and shuddered inwardly at those too
 
       unearthly tones. And thus, joy suddenly faded into horror, and
 
@@ -15361,21 +15361,21 @@ MORELLA
 
       disquisitions which, growing out of the volumes I have mentioned,
 
-      formed, for so long a time, almost the sole conversation of
+      formed, for so long a [[Time|time]], almost the sole conversation of
 
       Morella and myself. By the learned in what might be termed
 
-      theological morality they will be readily conceived, and by the
+      theological [[morality]] they will be readily conceived, and by the
 
       unlearned they would, at all events, be little understood. The
 
       wild Pantheism of Fichte; the modified Paliggenedia of the
 
-      Pythagoreans; and, above all, the doctrines of Identity as urged
+      Pythagoreans; and, above all, the doctrines of [[Identity]] as urged
 
       by Schelling, were generally the points of discussion presenting
 
-      the most of beauty to the imaginative Morella. That identity
+      the most of [[Beauty|beauty]] to the imaginative Morella. That [[Identity|identity]]
 
       which is termed personal, Mr. Locke, I think, truly defines to
 
@@ -15389,13 +15389,13 @@ MORELLA
 
       distinguishing us from other beings that think, and giving us our
 
-      personal identity. But the _principium indivduationis_, the
+      personal [[Identity|identity]]. But the _principium indivduationis_, the
 
-      notion of that identity _which at death is or is not lost
+      notion of that [[Identity|identity]] _which at [[Death|death]] is or is not lost
 
       forever_—was to me, at all times, a consideration of intense
 
-      interest; not more from the perplexing and exciting nature of its
+      interest; not more from the perplexing and exciting [[Nature|nature]] of its
 
       consequences, than from the marked and agitated manner in which
 
@@ -15403,31 +15403,31 @@ MORELLA
 
 
 
-      But, indeed, the time had now arrived when the mystery of my
+      But, indeed, the [[Time|time]] had now arrived when the mystery of my
 
       wife’s manner oppressed me as a spell. I could no longer bear the
 
       touch of her wan fingers, nor the low tone of her musical
 
-      language, nor the lustre of her melancholy eyes. And she knew all
+      language, nor the lustre of her [[Melancholy|melancholy]] eyes. And she knew all
 
       this, but did not upbraid; she seemed conscious of my weakness or
 
       my folly, and, smiling, called it Fate. She seemed, also,
 
-      conscious of a cause, to me unknown, for the gradual alienation
+      conscious of a cause, to me unknown, for the gradual [[Alienation|alienation]]
 
-      of my regard; but she gave me no hint or token of its nature. Yet
+      of my regard; but she gave me no hint or token of its [[Nature|nature]]. Yet
 
-      was she woman, and pined away daily. In time the crimson spot
+      was she woman, and pined away daily. In [[Time|time]] the crimson spot
 
       settled steadily upon the cheek, and the blue veins upon the pale
 
-      forehead became prominent; and one instant my nature melted into
+      forehead became prominent; and one instant my [[Nature|nature]] melted into
 
       pity, but in, next I met the glance of her meaning eyes, and then
 
-      my soul sickened and became giddy with the giddiness of one who
+      my [[Soul|soul]] sickened and became giddy with the giddiness of one who
 
       gazes downward into some dreary and unfathomable abyss.
 
@@ -15435,7 +15435,7 @@ MORELLA
 
       Shall I then say that I longed with an earnest and consuming
 
-      desire for the moment of Morella’s decease? I did; but the
+      [[Desire|desire]] for the moment of Morella’s decease? I did; but the
 
       fragile spirit clung to its tenement of clay for many days—for
 
@@ -15457,7 +15457,7 @@ MORELLA
 
       the earth, and a warm glow upon the waters, and amid the rich
 
-      October leaves of the forest, a rainbow from the firmament had
+      October [[Leaves|leaves]] of the forest, a rainbow from the firmament had
 
       surely fallen.
 
@@ -15469,7 +15469,7 @@ MORELLA
 
       earth and life—ah, more fair for the daughters of heaven and
 
-      death!”
+      [[Death|death]]!”
 
 
 
@@ -15485,9 +15485,9 @@ MORELLA
 
 
 
-      “The days have never been when thou couldst love me—but her whom
+      “The days have never been when thou couldst [[Love|love]] me—but her whom
 
-      in life thou didst abhor, in death thou shalt adore.”
+      in life thou didst abhor, in [[Death|death]] thou shalt adore.”
 
 
 
@@ -15499,7 +15499,7 @@ MORELLA
 
       affection—ah, how little!—which thou didst feel for me, Morella.
 
-      And when my spirit departs shall the child live—thy child and
+      And when my spirit departs shall the [[Child|child]] live—thy [[Child|child]] and
 
       mine, Morella’s. But thy days shall be days of sorrow—that sorrow
 
@@ -15511,7 +15511,7 @@ MORELLA
 
       twice in a year. Thou shalt no longer, then, play the Teian with
 
-      time, but, being ignorant of the myrtle and the vine, thou shalt
+      [[Time|time]], but, being ignorant of the myrtle and the vine, thou shalt
 
       bear about with thee thy shroud on the earth, as do the Moslemin
 
@@ -15527,15 +15527,15 @@ MORELLA
 
 
 
-      Yet, as she had foretold, her child, to which in dying she had
+      Yet, as she had foretold, her [[Child|child]], to which in dying she had
 
       given birth, which breathed not until the mother breathed no
 
-      more, her child, a daughter, lived. And she grew strangely in
+      more, her [[Child|child]], a daughter, lived. And she grew strangely in
 
       stature and intellect, and was the perfect resemblance of her who
 
-      had departed, and I loved her with a love more fervent than I had
+      had departed, and I loved her with a [[Love|love]] more fervent than I had
 
       believed it possible to feel for any denizen of earth.
 
@@ -15545,7 +15545,7 @@ MORELLA
 
       and gloom, and horror, and grief swept over it in clouds. I said
 
-      the child grew strangely in stature and intelligence. Strange,
+      the [[Child|child]] grew strangely in stature and intelligence. Strange,
 
       indeed, was her rapid increase in bodily size—but terrible, oh!
 
@@ -15555,7 +15555,7 @@ MORELLA
 
       otherwise, when I daily discovered in the conceptions of the
 
-      child the adult powers and faculties of the woman?—when the
+      [[Child|child]] the adult powers and faculties of the woman?—when the
 
       lessons of experience fell from the lips of infancy? and when the
 
@@ -15565,11 +15565,11 @@ MORELLA
 
       evident to my appalled senses—when I could no longer hide it from
 
-      my soul, nor throw it off from those perceptions which trembled
+      my [[Soul|soul]], nor throw it off from those perceptions which trembled
 
       to receive it—is it to be wondered at that suspicions, of a
 
-      nature fearful and exciting, crept in upon my spirit, or that my
+      [[Nature|nature]] fearful and exciting, crept in upon my spirit, or that my
 
       thoughts fell back aghast upon the wild tales and thrilling
 
@@ -15577,7 +15577,7 @@ MORELLA
 
       the world a being whom destiny compelled me to adore, and in the
 
-      rigorous seclusion of my home, watched with an agonizing anxiety
+      rigorous seclusion of my [[Home|home]], watched with an agonizing anxiety
 
       over all which concerned the beloved.
 
@@ -15589,7 +15589,7 @@ MORELLA
 
       form, day after day did I discover new points of resemblance in
 
-      the child to her mother, the melancholy and the dead. And hourly
+      the [[Child|child]] to her mother, the [[Melancholy|melancholy]] and the dead. And hourly
 
       grew darker these shadows of similitude, and more full, and more
 
@@ -15601,7 +15601,7 @@ MORELLA
 
       eyes were like Morella’s I could endure; but then they, too,
 
-      often looked down into the depths of my soul with Morella’s own
+      often looked down into the depths of my [[Soul|soul]] with Morella’s own
 
       intense and bewildering meaning. And in the contour of the high
 
@@ -15621,13 +15621,13 @@ MORELLA
 
       Thus passed away two lustra of her life, and as yet my daughter
 
-      remained nameless upon the earth. “My child,” and “my love,” were
+      remained nameless upon the earth. “My [[Child|child]],” and “my [[Love|love]],” were
 
       the designations usually prompted by a father’s affection, and
 
       the rigid seclusion of her days precluded all other intercourse.
 
-      Morella’s name died with her at her death. Of the mother I had
+      Morella’s name died with her at her [[Death|death]]. Of the mother I had
 
       never spoken to the daughter;—it was impossible to speak. Indeed,
 
@@ -15649,21 +15649,21 @@ MORELLA
 
       many, many fair titles of the gentle, and the happy, and the
 
-      good. What prompted me then to disturb the memory of the buried
+      good. What prompted me then to disturb the [[Memory|memory]] of the buried
 
       dead? What demon urged me to breathe that sound, which in its
 
-      very recollection was wont to make ebb the purple blood in
+      very recollection was wont to make ebb the purple [[Blood|blood]] in
 
       torrents from the temples to the heart? What fiend spoke from the
 
-      recesses of my soul, when amid those dim aisles, and in the
+      recesses of my [[Soul|soul]], when amid those dim aisles, and in the
 
-      silence of the night, I whispered within the ears of the holy man
+      [[Silence|silence]] of the [[Night|night]], I whispered within the ears of the holy man
 
       the syllables—Morella? What more than fiend convulsed the
 
-      features of my child, and overspread them with hues of death, as
+      features of my [[Child|child]], and overspread them with hues of [[Death|death]], as
 
       starting at that scarcely audible sound, she turned her glassy
 
@@ -15677,13 +15677,13 @@ MORELLA
 
       within my ear, and thence like molten lead rolled hissingly into
 
-      my brain. Years—years may pass away, but the memory of that
+      my brain. Years—years may pass away, but the [[Memory|memory]] of that
 
-      epoch—never! Nor was I indeed ignorant of the flowers and the
+      epoch—never! Nor was I indeed ignorant of the [[Flowers|flowers]] and the
 
-      vine—but the hemlock and the cypress overshadowed me night and
+      vine—but the hemlock and the cypress overshadowed me [[Night|night]] and
 
-      day. And I kept no reckoning of time or place, and the stars of
+      day. And I kept no reckoning of [[Time|time]] or place, and the [[Stars|stars]] of
 
       my fate faded from heaven, and therefore the earth grew dark, and
 
@@ -15709,7 +15709,7 @@ MORELLA
 
 
 
-A TALE OF THE RAGGED MOUNTAINS
+A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
 
 
 
@@ -15753,7 +15753,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       by no means unpleasing, as might be supposed; but it had no
 
-      variation whatever. It was one of profound melancholy—of a
+      variation whatever. It was one of profound [[Melancholy|melancholy]]—of a
 
       phaseless and unceasing gloom. His eyes were abnormally large,
 
@@ -15791,7 +15791,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       of neuralgic attacks had reduced him from a condition of more
 
-      than usual personal beauty, to that which I saw. For many years
+      than usual personal [[Beauty|beauty]], to that which I saw. For many years
 
       past he had been attended by a physician, named Templeton—an old
 
@@ -15807,7 +15807,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       consideration of a liberal annual allowance, had consented to
 
-      devote his time and medical experience exclusively to the care of
+      devote his [[Time|time]] and medical experience exclusively to the care of
 
       the invalid.
 
@@ -15815,19 +15815,19 @@ A TALE OF THE RAGGED MOUNTAINS
 
       Doctor Templeton had been a traveller in his younger days, and at
 
-      Paris had become a convert, in great measure, to the doctrines of
+      [[Paris]] had become a [[convert]], in great measure, to the doctrines of
 
       Mesmer. It was altogether by means of magnetic remedies that he
 
       had succeeded in alleviating the acute pains of his patient; and
 
-      this success had very naturally inspired the latter with a
+      this [[success]] had very naturally inspired the latter with a
 
       certain degree of confidence in the opinions from which the
 
       remedies had been educed. The Doctor, however, like all
 
-      enthusiasts, had struggled hard to make a thorough convert of his
+      enthusiasts, had struggled hard to make a thorough [[convert]] of his
 
       pupil, and finally so far gained his point as to induce the
 
@@ -15839,7 +15839,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       at the period of which I write, had very rarely been known in
 
-      America. I mean to say, that between Doctor Templeton and Bedloe
+      [[America]]. I mean to say, that between Doctor Templeton and Bedloe
 
       there had grown up, little by little, a very distinct and
 
@@ -15847,7 +15847,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       to assert, however, that this rapport extended beyond the limits
 
-      of the simple sleep-producing power, but this power itself had
+      of the simple [[Sleep|sleep]]-producing power, but this power itself had
 
       attained great intensity. At the first attempt to induce the
 
@@ -15861,7 +15861,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       physician, so that, when I first became acquainted with the two,
 
-      sleep was brought about almost instantaneously by the mere
+      [[Sleep|sleep]] was brought about almost instantaneously by the mere
 
       volition of the operator, even when the invalid was unaware of
 
@@ -15875,9 +15875,9 @@ A TALE OF THE RAGGED MOUNTAINS
 
       The temperature of Bedloe was, in the highest degree sensitive,
 
-      excitable, enthusiastic. His imagination was singularly vigorous
+      excitable, enthusiastic. His [[Imagination|imagination]] was singularly vigorous
 
-      and creative; and no doubt it derived additional force from the
+      and creative; and no [[Doubt|doubt]] it derived additional force from the
 
       habitual use of morphine, which he swallowed in great quantity,
 
@@ -15889,27 +15889,27 @@ A TALE OF THE RAGGED MOUNTAINS
 
       of strong coffee, for he ate nothing in the forenoon—and then set
 
-      forth alone, or attended only by a dog, upon a long ramble among
+      forth [[Alone|alone]], or attended only by a dog, upon a long ramble among
 
       the chain of wild and dreary hills that lie westward and
 
       southward of Charlottesville, and are there dignified by the
 
-      title of the Ragged Mountains.
+      title of the Ragged [[Mountains]].
 
 
 
       Upon a dim, warm, misty day, toward the close of November, and
 
-      during the strange interregnum of the seasons which in America is
+      during the strange interregnum of the [[Seasons|seasons]] which in [[America]] is
 
-      termed the Indian Summer, Mr. Bedloe departed as usual for the
+      termed the Indian [[Summer]], Mr. Bedloe departed as usual for the
 
       hills. The day passed, and still he did not return.
 
 
 
-      About eight o’clock at night, having become seriously alarmed at
+      About eight o’[[Clock|clock]] at [[Night|night]], having become seriously alarmed at
 
       his protracted absence, we were about setting out in search of
 
@@ -15927,7 +15927,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       morning when I left Charlottesville. I bent my steps immediately
 
-      to the mountains, and, about ten, entered a gorge which was
+      to the [[Mountains|mountains]], and, about ten, entered a gorge which was
 
       entirely new to me. I followed the windings of this pass with
 
@@ -15937,7 +15937,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       indescribable and to me a delicious aspect of dreary desolation.
 
-      The solitude seemed absolutely virgin. I could not help believing
+      The [[Solitude|solitude]] seemed absolutely virgin. I could not help believing
 
       that the green sods and the gray rocks upon which I trod had been
 
@@ -15955,13 +15955,13 @@ A TALE OF THE RAGGED MOUNTAINS
 
       “The thick and peculiar mist, or smoke, which distinguishes the
 
-      Indian Summer, and which now hung heavily over all objects,
+      Indian [[Summer]], and which now hung heavily over all objects,
 
-      served, no doubt, to deepen the vague impressions which these
+      served, no [[Doubt|doubt]], to deepen the vague impressions which these
 
       objects created. So dense was this pleasant fog that I could at
 
-      no time see more than a dozen yards of the path before me. This
+      no [[Time|time]] see more than a dozen yards of the path before me. This
 
       path was excessively sinuous, and as the sun could not be seen, I
 
@@ -15975,7 +15975,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       of a trefoil—in the humming of a bee—in the gleaming of a
 
-      dew-drop—in the breathing of the wind—in the faint odors that
+      dew-drop—in the breathing of the [[Wind|wind]]—in the faint odors that
 
       came from the forest—there came a whole universe of suggestion—a
 
@@ -16035,7 +16035,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
 
 
-      “The sight of this monster rather relieved than heightened my
+      “The sight of this [[Monster|monster]] rather relieved than heightened my
 
       terrors—for I now made sure that I dreamed, and endeavored to
 
@@ -16043,7 +16043,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       briskly forward. I rubbed my eyes. I called aloud. I pinched my
 
-      limbs. A small spring of water presented itself to my view, and
+      limbs. A small [[Spring|spring]] of [[Water|water]] presented itself to my view, and
 
       here, stooping, I bathed my hands and my head and neck. This
 
@@ -16061,9 +16061,9 @@ A TALE OF THE RAGGED MOUNTAINS
 
       tree. Presently there came a feeble gleam of sunshine, and the
 
-      shadow of the leaves of the tree fell faintly but definitely upon
+      [[Shadow|shadow]] of the [[Leaves|leaves]] of the tree fell faintly but definitely upon
 
-      the grass. At this shadow I gazed wonderingly for many minutes.
+      the grass. At this [[Shadow|shadow]] I gazed wonderingly for many minutes.
 
       Its character stupefied me with astonishment. I looked upward.
 
@@ -16077,13 +16077,13 @@ A TALE OF THE RAGGED MOUNTAINS
 
       that I had perfect command of my senses—and these senses now
 
-      brought to my soul a world of novel and singular sensation. The
+      brought to my [[Soul|soul]] a world of [[Novel|novel]] and singular sensation. The
 
       heat became all at once intolerable. A strange odor loaded the
 
       breeze. A low, continuous murmur, like that arising from a full,
 
-      but gently flowing river, came to my ears, intermingled with the
+      but gently flowing [[River|river]], came to my ears, intermingled with the
 
       peculiar hum of multitudinous human voices.
 
@@ -16091,7 +16091,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       “While I listened in an extremity of astonishment which I need
 
-      not attempt to describe, a strong and brief gust of wind bore off
+      not attempt to describe, a strong and brief gust of [[Wind|wind]] bore off
 
       the incumbent fog as if by the wand of an enchanter.
 
@@ -16099,9 +16099,9 @@ A TALE OF THE RAGGED MOUNTAINS
 
       “I found myself at the foot of a high mountain, and looking down
 
-      into a vast plain, through which wound a majestic river. On the
+      into a vast plain, through which wound a majestic [[River|river]]. On the
 
-      margin of this river stood an Eastern-looking city, such as we
+      margin of this [[River|river]] stood an Eastern-looking [[City|city]], such as we
 
       read of in the Arabian Tales, but of a character even more
 
@@ -16147,15 +16147,15 @@ A TALE OF THE RAGGED MOUNTAINS
 
       clung to the minarets and oriels. From the swarming streets to
 
-      the banks of the river, there descended innumerable flights of
+      the banks of the [[River|river]], there descended innumerable flights of
 
-      steps leading to bathing places, while the river itself seemed to
+      steps leading to bathing places, while the [[River|river]] itself seemed to
 
       force a passage with difficulty through the vast fleets of
 
       deeply-burthened ships that far and wide encountered its surface.
 
-      Beyond the limits of the city arose, in frequent majestic groups,
+      Beyond the limits of the [[City|city]] arose, in frequent majestic groups,
 
       the palm and the cocoa, with other gigantic and weird trees of
 
@@ -16165,7 +16165,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       or a solitary graceful maiden taking her way, with a pitcher upon
 
-      her head, to the banks of the magnificent river.
+      her head, to the banks of the magnificent [[River|river]].
 
 
 
@@ -16175,21 +16175,21 @@ A TALE OF THE RAGGED MOUNTAINS
 
       of the unmistakable idiosyncrasy of the dream. All was rigorously
 
-      self-consistent. At first, doubting that I was really awake, I
+      [[Self|self]]-consistent. At first, doubting that I was really awake, I
 
       entered into a series of tests, which soon convinced me that I
 
-      really was. Now, when one dreams, and, in the dream, suspects
+      really was. Now, when one [[Dreams|dreams]], and, in the dream, suspects
 
-      that he dreams, the suspicion never fails to confirm itself, and
+      that he [[Dreams|dreams]], the suspicion never fails to confirm itself, and
 
-      the sleeper is almost immediately aroused. Thus Novalis errs not
+      [[The Sleeper|the sleeper]] is almost immediately aroused. Thus Novalis errs not
 
       in saying that ‘we are near waking when we dream that we dream.’
 
       Had the vision occurred to me as I describe it, without my
 
-      suspecting it as a dream, then a dream it might absolutely have
+      suspecting it as [[A Dream|a dream]], then [[A Dream|a dream]] it might absolutely have
 
       been, but, occurring as it did, and suspected and tested as it
 
@@ -16199,7 +16199,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       “In this I am not sure that you are wrong,” observed Dr.
 
-      Templeton, “but proceed. You arose and descended into the city.”
+      Templeton, “but proceed. You arose and descended into the [[City|city]].”
 
 
 
@@ -16207,7 +16207,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       profound astonishment “I arose, as you say, and descended into
 
-      the city. On my way I fell in with an immense populace, crowding
+      the [[City|city]]. On my way I fell in with an immense populace, crowding
 
       through every avenue, all in the same direction, and exhibiting
 
@@ -16225,7 +16225,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       them, and, swiftly, by a circuitous path, reached and entered the
 
-      city. Here all was the wildest tumult and contention. A small
+      [[City|city]]. Here all was the wildest tumult and contention. A small
 
       party of men, clad in garments half Indian, half European, and
 
@@ -16237,7 +16237,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       officer, and fighting I knew not whom with the nervous ferocity
 
-      of despair. We were soon overpowered by numbers, and driven to
+      of [[Despair|despair]]. We were soon overpowered by numbers, and driven to
 
       seek refuge in a species of kiosk. Here we barricaded ourselves,
 
@@ -16247,17 +16247,17 @@ A TALE OF THE RAGGED MOUNTAINS
 
       agitation, surrounding and assaulting a gay palace that overhung
 
-      the river. Presently, from an upper window of this place, there
+      the [[River|river]]. Presently, from an upper [[Window|window]] of this place, there
 
       descended an effeminate-looking person, by means of a string made
 
       of the turbans of his attendants. A boat was at hand, in which he
 
-      escaped to the opposite bank of the river.
+      escaped to the opposite bank of the [[River|river]].
 
 
 
-      “And now a new object took possession of my soul. I spoke a few
+      “And now a new object took possession of my [[Soul|soul]]. I spoke a few
 
       hurried but energetic words to my companions, and, having
 
@@ -16267,7 +16267,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       surrounded it. They retreated, at first, before us. They rallied,
 
-      fought madly, and retreated again. In the mean time we were borne
+      fought madly, and retreated again. In the mean [[Time|time]] we were borne
 
       far from the kiosk, and became bewildered and entangled among the
 
@@ -16281,7 +16281,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       remarkable, and resembled in some respects the writhing creese of
 
-      the Malay. They were made to imitate the body of a creeping
+      the Malay. They were made to imitate the [[Body|body]] of a creeping
 
       serpent, and were long and black, with a poisoned barb. One of
 
@@ -16295,7 +16295,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
        “You will hardly persist _now_,” said I smiling, “that the whole
 
-       of your adventure was not a dream. You are not prepared to
+       of your adventure was not [[A Dream|a dream]]. You are not prepared to
 
        maintain that you are dead?”
 
@@ -16319,9 +16319,9 @@ A TALE OF THE RAGGED MOUNTAINS
 
       sole feeling—was that of darkness and nonentity, with the
 
-      consciousness of death. At length there seemed to pass a violent
+      consciousness of [[Death|death]]. At length there seemed to pass a violent
 
-      and sudden shock through my soul, as if of electricity. With it
+      and sudden shock through my [[Soul|soul]], as if of electricity. With it
 
       came the sense of elasticity and of light. This latter I felt—not
 
@@ -16329,7 +16329,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       bodily, no visible, audible, or palpable presence. The crowd had
 
-      departed. The tumult had ceased. The city was in comparative
+      departed. The tumult had ceased. The [[City|city]] was in comparative
 
       repose. Beneath me lay my corpse, with the arrow in my temple,
 
@@ -16341,21 +16341,21 @@ A TALE OF THE RAGGED MOUNTAINS
 
       none, but appeared to be impelled into motion, and flitted
 
-      buoyantly out of the city, retracing the circuitous path by which
+      buoyantly out of the [[City|city]], retracing the circuitous path by which
 
       I had entered it. When I had attained that point of the ravine in
 
-      the mountains at which I had encountered the hyena, I again
+      the [[Mountains|mountains]] at which I had encountered the hyena, I again
 
       experienced a shock as of a galvanic battery; the sense of
 
       weight, of volition, of substance, returned. I became my original
 
-      self, and bent my steps eagerly homeward—but the past had not
+      [[Self|self]], and bent my steps eagerly homeward—but the past had not
 
       lost the vividness of the real—and not now, even for an instant,
 
-      can I compel my understanding to regard it as a dream.”
+      can I compel my understanding to regard it as [[A Dream|a dream]].”
 
 
 
@@ -16363,7 +16363,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       it would be difficult to say how otherwise it should be termed.
 
-      Let us suppose only, that the soul of the man of to-day is upon
+      Let us suppose only, that the [[Soul|soul]] of the man of to-day is upon
 
       the verge of some stupendous psychal discoveries. Let us content
 
@@ -16399,19 +16399,19 @@ A TALE OF THE RAGGED MOUNTAINS
 
       Oldeb—to whom I became much attached at Calcutta, during the
 
-      administration of Warren Hastings. I was then only twenty years
+      administration of Warren [[Hastings]]. I was then only twenty years
 
       old. When I first saw you, Mr. Bedloe, at Saratoga, it was the
 
       miraculous similarity which existed between yourself and the
 
-      painting which induced me to accost you, to seek your friendship,
+      painting which induced me to accost you, to seek your [[Friendship|friendship]],
 
       and to bring about those arrangements which resulted in my
 
       becoming your constant companion. In accomplishing this point, I
 
-      was urged partly, and perhaps principally, by a regretful memory
+      was urged partly, and perhaps principally, by a regretful [[Memory|memory]]
 
       of the deceased, but also, in part, by an uneasy, and not
 
@@ -16423,17 +16423,17 @@ A TALE OF THE RAGGED MOUNTAINS
 
       the hills, you have described, with the minutest accuracy, the
 
-      Indian city of Benares, upon the Holy River. The riots, the
+      Indian [[City|city]] of Benares, upon the Holy [[River]]. The riots, the
 
       combat, the massacre, were the actual events of the insurrection
 
-      of Cheyte Sing, which took place in 1780, when Hastings was put
+      of Cheyte Sing, which took place in 1780, when [[Hastings]] was put
 
       in imminent peril of his life. The man escaping by the string of
 
       turbans was Cheyte Sing himself. The party in the kiosk were
 
-      sepoys and British officers, headed by Hastings. Of this party I
+      sepoys and British officers, headed by [[Hastings]]. Of this party I
 
       was one, and did all I could to prevent the rash and fatal sally
 
@@ -16449,7 +16449,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       these things amid the hills, I was engaged in detailing them upon
 
-      paper here at home.”
+      paper here at [[Home|home]].”
 
 
 
@@ -16459,7 +16459,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
 
 
-      “We have the painful duty of announcing the death of Mr. Augustus
+      “We have the painful duty of announcing the [[Death|death]] of Mr. Augustus
 
       Bedlo, a gentleman whose amiable manners and many virtues have
 
@@ -16475,9 +16475,9 @@ A TALE OF THE RAGGED MOUNTAINS
 
       cause was one of especial singularity. In an excursion to the
 
-      Ragged Mountains, a few days since, a slight cold and fever were
+      Ragged [[Mountains]], a few days since, a slight cold and fever were
 
-      contracted, attended with great determination of blood to the
+      contracted, attended with great determination of [[Blood|blood]] to the
 
       head. To relieve this, Dr. Templeton resorted to topical
 
@@ -16537,7 +16537,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       “Then,” said I mutteringly, as I turned upon my heel, “then
 
-      indeed has it come to pass that one truth is stranger than any
+      indeed has it come to pass that one [[Truth|truth]] is stranger than any
 
       fiction—for Bedloe, without the e, what is it but Oldeb
 
@@ -16559,7 +16559,7 @@ THE SPECTACLES
 
 
 
-      Many years ago, it was the fashion to ridicule the idea of “love
+      Many years ago, it was the fashion to ridicule the idea of “[[Love|love]]
 
       at first sight;” but those who think, not less than those who
 
@@ -16579,7 +16579,7 @@ THE SPECTACLES
 
       am about to make will add another to the already almost
 
-      innumerable instances of the truth of the position.
+      innumerable instances of the [[Truth|truth]] of the position.
 
 
 
@@ -16607,7 +16607,7 @@ THE SPECTACLES
 
       I assumed the name, Simpson, with some reluctance, as in my true
 
-      patronym, Froissart, I felt a very pardonable pride—believing
+      patronym, Froissart, I felt a very pardonable [[Pride|pride]]—believing
 
       that I could trace a descent from the immortal author of the
 
@@ -16617,7 +16617,7 @@ THE SPECTACLES
 
       some of my immediate predecessors. My father was a Monsieur
 
-      Froissart, of Paris. His wife—my mother, whom he married at
+      Froissart, of [[Paris]]. His wife—my mother, whom he married at
 
       fifteen—was a Mademoiselle Croissart, eldest daughter of
 
@@ -16627,7 +16627,7 @@ THE SPECTACLES
 
       Voissart, very singularly, had married a lady of similar name—a
 
-      Mademoiselle Moissart. She, too, was quite a child when married;
+      Mademoiselle Moissart. She, too, was quite a [[Child|child]] when married;
 
       and her mother, also, Madame Moissart, was only fourteen when led
 
@@ -16647,7 +16647,7 @@ THE SPECTACLES
 
       As to personal endowments, I am by no means deficient. On the
 
-      contrary, I believe that I am well made, and possess what nine
+      contrary, I believe that I am [[Well|well]] made, and possess what nine
 
       tenths of the world would call a handsome face. In height I am
 
@@ -16675,7 +16675,7 @@ THE SPECTACLES
 
       a savor of downright foppery and affectation. I have hitherto
 
-      managed as well as I could without either. But something too much
+      managed as [[Well|well]] as I could without either. But something too much
 
       of these merely personal details, which, after all, are of little
 
@@ -16687,13 +16687,13 @@ THE SPECTACLES
 
 
 
-      One night last winter I entered a box at the P—— Theatre, in
+      One [[Night|night]] last [[Winter|winter]] I entered a box at the P—— Theatre, in
 
-      company with a friend, Mr. Talbot. It was an opera night, and the
+      company with a friend, Mr. Talbot. It was an opera [[Night|night]], and the
 
-      bills presented a very rare attraction, so that the house was
+      bills presented a very rare attraction, so that the [[house]] was
 
-      excessively crowded. We were in time, however, to obtain the
+      excessively crowded. We were in [[Time|time]], however, to obtain the
 
       front seats which had been reserved for us, and into which, with
 
@@ -16707,7 +16707,7 @@ THE SPECTACLES
 
       myself by observing the audience, which consisted, in chief part,
 
-      of the very elite of the city. Having satisfied myself upon this
+      of the very elite of the [[City|city]]. Having satisfied myself upon this
 
       point, I was about turning my eyes to the prima donna, when they
 
@@ -16733,7 +16733,7 @@ THE SPECTACLES
 
 
 
-      The magic of a lovely form in woman—the necromancy of female
+      The [[Magic|magic]] of a lovely form in woman—the necromancy of female
 
       gracefulness—was always a power which I had found it impossible
 
@@ -16773,7 +16773,7 @@ THE SPECTACLES
 
       extraordinary value. The admirable roundness of the wrist was
 
-      well set off by a bracelet which encircled it, and which also was
+      [[Well|well]] set off by a bracelet which encircled it, and which also was
 
       ornamented and clasped by a magnificent aigrette of
 
@@ -16787,9 +16787,9 @@ THE SPECTACLES
 
       if I had been suddenly converted to stone; and, during this
 
-      period, I felt the full force and truth of all that has been said
+      period, I felt the full force and [[Truth|truth]] of all that has been said
 
-      or sung concerning “love at first sight.” My feelings were
+      or sung concerning “[[Love|love]] at first sight.” My feelings were
 
       totally different from any which I had hitherto experienced, in
 
@@ -16797,13 +16797,13 @@ THE SPECTACLES
 
       loveliness. An unaccountable, and what I am compelled to consider
 
-      a magnetic, sympathy of soul for soul, seemed to rivet, not only
+      a magnetic, sympathy of [[Soul|soul]] for [[Soul|soul]], seemed to rivet, not only
 
       my vision, but my whole powers of thought and feeling, upon the
 
       admirable object before me. I saw—I felt—I knew that I was
 
-      deeply, madly, irrevocably in love—and this even before seeing
+      deeply, madly, irrevocably in [[Love|love]]—and this even before seeing
 
       the face of the person beloved. So intense, indeed, was the
 
@@ -16811,9 +16811,9 @@ THE SPECTACLES
 
       received little if any abatement had the features, yet unseen,
 
-      proved of merely ordinary character; so anomalous is the nature
+      proved of merely ordinary character; so anomalous is the [[Nature|nature]]
 
-      of the only true love—of the love at first sight—and so little
+      of the only true [[Love|love]]—of the [[Love|love]] at first sight—and so little
 
       really dependent is it upon the external conditions which only
 
@@ -16827,7 +16827,7 @@ THE SPECTACLES
 
       partially toward me, so that I beheld the entire profile of the
 
-      face. Its beauty even exceeded my anticipations—and yet there was
+      face. Its [[Beauty|beauty]] even exceeded my anticipations—and yet there was
 
       something about it which disappointed me without my being able to
 
@@ -16853,7 +16853,7 @@ THE SPECTACLES
 
       susceptible man for any act of extravagance. Had the lady been
 
-      alone, I should undoubtedly have entered her box and accosted her
+      [[Alone|alone]], I should undoubtedly have entered her box and accosted her
 
       at all hazards; but, fortunately, she was attended by two
 
@@ -16867,7 +16867,7 @@ THE SPECTACLES
 
       hereafter, an introduction to the elder lady, or, for the
 
-      present, at all events, a more distinct view of her beauty. I
+      present, at all events, a more distinct view of her [[Beauty|beauty]]. I
 
       would have removed my position to one nearer her own, but the
 
@@ -16879,7 +16879,7 @@ THE SPECTACLES
 
       been so fortunate as to have one with me—but I had not—and was
 
-      thus in despair.
+      thus in [[Despair|despair]].
 
 
 
@@ -16905,11 +16905,11 @@ THE SPECTACLES
 
 
 
-      “She is very beautiful, no doubt,” he said.
+      “She is very beautiful, no [[Doubt|doubt]],” he said.
 
 
 
-      “I wonder who she can be?”
+      “I [[Wonder|wonder]] who she can be?”
 
 
 
@@ -16917,11 +16917,11 @@ THE SPECTACLES
 
       is? ‘Not to know her argues yourself unknown.’ She is the
 
-      celebrated Madame Lalande—the beauty of the day par excellence,
+      celebrated Madame Lalande—the [[Beauty|beauty]] of the day par excellence,
 
       and the talk of the whole town. Immensely wealthy too—a widow,
 
-      and a great match—has just arrived from Paris.”
+      and a great match—has just arrived from [[Paris]].”
 
 
 
@@ -17005,9 +17005,9 @@ THE SPECTACLES
 
       astonishment at perceiving that she not only did not a second
 
-      time avert her head, but that she actually took from her girdle a
+      [[Time|time]] avert her head, but that she actually took from her girdle a
 
-      double eyeglass—elevated it—adjusted it—and then regarded me
+      [[Double|double]] eyeglass—elevated it—adjusted it—and then regarded me
 
       through it, intently and deliberately, for the space of several
 
@@ -17099,7 +17099,7 @@ THE SPECTACLES
 
       thrown into an extremity of agitation by seeing her unfold, for
 
-      the second time, the eye-glass which hung at her side, fully
+      the second [[Time|time]], the eye-glass which hung at her side, fully
 
       confront me as before, and, disregarding the renewed buzz of the
 
@@ -17107,13 +17107,13 @@ THE SPECTACLES
 
       composure which had previously so delighted and confounded my
 
-      soul.
+      [[Soul|soul]].
 
 
 
       This extraordinary behavior, by throwing me into a perfect fever
 
-      of excitement—into an absolute delirium of love—served rather to
+      of excitement—into an absolute delirium of [[Love|love]]—served rather to
 
       embolden than to disconcert me. In the mad intensity of my
 
@@ -17153,7 +17153,7 @@ THE SPECTACLES
 
       conception of my astonishment—of my profound amazement—my
 
-      delirious bewilderment of heart and soul—when, instantly
+      delirious bewilderment of heart and [[Soul|soul]]—when, instantly
 
       afterward, having again glanced furtively around, she allowed her
 
@@ -17173,15 +17173,15 @@ THE SPECTACLES
 
       mad with excess of happiness, it was myself at that moment. I
 
-      loved. This was my first love—so I felt it to be. It was love
+      loved. This was my first [[Love|love]]—so I felt it to be. It was [[Love|love]]
 
-      supreme—indescribable. It was “love at first sight;” and at first
+      supreme—indescribable. It was “[[Love|love]] at first sight;” and at first
 
       sight, too, it had been appreciated and returned.
 
 
 
-      Yes, returned. How and why should I doubt it for an instant. What
+      Yes, returned. How and why should I [[Doubt|doubt]] it for an instant. What
 
       other construction could I possibly put upon such conduct, on the
 
@@ -17193,7 +17193,7 @@ THE SPECTACLES
 
       was Madame Lalande? Yes, she loved me—she returned the enthusiasm
 
-      of my love, with an enthusiasm as blind—as uncompromising—as
+      of my [[Love|love]], with an enthusiasm as blind—as uncompromising—as
 
       uncalculating—as abandoned—and as utterly unbounded as my own!
 
@@ -17221,13 +17221,13 @@ THE SPECTACLES
 
       This morrow at last came, that is to say, a day finally dawned
 
-      upon a long and weary night of impatience; and then the hours
+      upon a long and weary [[Night|night]] of impatience; and then the hours
 
       until “one” were snail-paced, dreary, and innumerable. But even
 
       Stamboul, it is said, shall have an end, and there came an end to
 
-      this long delay. The clock struck. As the last echo ceased, I
+      this long delay. The [[Clock|clock]] struck. As the last echo ceased, I
 
       stepped into B——’s and inquired for Talbot.
 
@@ -17265,9 +17265,9 @@ THE SPECTACLES
 
       appointment with myself—had forgotten it as soon as it was made.
 
-      At no time was he a very scrupulous man of his word. There was no
+      At no [[Time|time]] was he a very scrupulous man of his word. There was no
 
-      help for it; so smothering my vexation as well as I could, I
+      help for it; so smothering my vexation as [[Well|well]] as I could, I
 
       strolled moodily up the street, propounding futile inquiries
 
@@ -17283,7 +17283,7 @@ THE SPECTACLES
 
       liberty of introducing me through the formality of a morning
 
-      call. While I stood thus in despair, conversing with a trio of
+      call. While I stood thus in [[Despair|despair]], conversing with a trio of
 
       friends upon the all-absorbing subject of my heart, it so
 
@@ -17313,7 +17313,7 @@ THE SPECTACLES
 
 
 
-      “Her companion also wears remarkably well,” said the one of my
+      “Her companion also wears remarkably [[Well|well]],” said the one of my
 
       trio who had spoken first.
 
@@ -17323,7 +17323,7 @@ THE SPECTACLES
 
       but art will do wonders. Upon my word, she looks better than she
 
-      did at Paris five years ago. A beautiful woman still;—don’t you
+      did at [[Paris]] five years ago. A beautiful woman still;—don’t you
 
       think so, Froissart?—Simpson, I mean.”
 
@@ -17331,7 +17331,7 @@ THE SPECTACLES
 
       “_Still!_” said I, “and why shouldn’t she be? But compared with
 
-      her friend she is as a rush-light to the evening star—a glow-worm
+      her friend she is as a rush-light to the [[Evening Star|evening star]]—a glow-worm
 
       to Antares.”
 
@@ -17367,9 +17367,9 @@ THE SPECTACLES
 
 
 
-      As for an introduction, I was obliged to abandon all hope of it
+      As for an introduction, I was obliged to abandon all [[Hope|hope]] of it
 
-      until such time as Talbot should think proper to return from the
+      until such [[Time|time]] as Talbot should think proper to return from the
 
       country. In the meantime I perseveringly frequented every
 
@@ -17385,15 +17385,15 @@ THE SPECTACLES
 
       every day had been thrown into a spasm of wrath by the
 
-      everlasting “Not come home yet” of his footman.
+      everlasting “Not come [[Home|home]] yet” of his footman.
 
 
 
       Upon the evening in question, therefore, I was in a condition
 
-      little short of madness. Madame Lalande, I had been told, was a
+      little short of [[Madness|madness]]. Madame Lalande, I had been told, was a
 
-      Parisian—had lately arrived from Paris—might she not suddenly
+      Parisian—had lately arrived from [[Paris]]—might she not suddenly
 
       return?—return before Talbot came back—and might she not be thus
 
@@ -17419,13 +17419,13 @@ THE SPECTACLES
 
       which had passed between us. I went so far as to say that I felt
 
-      assured of her love; while I offered this assurance, and my own
+      assured of her [[Love|love]]; while I offered this assurance, and my own
 
       intensity of devotion, as two excuses for my otherwise
 
-      unpardonable conduct. As a third, I spoke of my fear that she
+      unpardonable conduct. As a third, I spoke of my [[Fear|fear]] that she
 
-      might quit the city before I could have the opportunity of a
+      might quit the [[City|city]] before I could have the opportunity of a
 
       formal introduction. I concluded the most wildly enthusiastic
 
@@ -17453,11 +17453,11 @@ THE SPECTACLES
 
       she had obeyed the frank dictates of her reason—the generous
 
-      impulses of her nature—despising the conventional pruderies of
+      impulses of her [[Nature|nature]]—despising the conventional pruderies of
 
       the world. She had not scorned my proposals. She had not
 
-      sheltered herself in silence. She had not returned my letter
+      sheltered herself in [[Silence|silence]]. She had not returned my letter
 
       unopened. She had even sent me, in reply, one penned by her own
 
@@ -17487,15 +17487,15 @@ THE SPECTACLES
 
       This noble-spirited note I kissed a million times, and committed,
 
-      no doubt, on its account, a thousand other extravagances that
+      no [[Doubt|doubt]], on its account, a thousand other extravagances that
 
-      have now escaped my memory. Still Talbot _would_ not return.
+      have now escaped my [[Memory|memory]]. Still Talbot _would_ not return.
 
-      Alas! could he have formed even the vaguest idea of the suffering
+      Alas! could he have formed even the vaguest idea of the [[Suffering|suffering]]
 
       his absence had occasioned his friend, would not his sympathizing
 
-      nature have flown immediately to my relief? Still, however, he
+      [[Nature|nature]] have flown immediately to my relief? Still, however, he
 
       came _not_. I wrote. He replied. He was detained by urgent
 
@@ -17505,7 +17505,7 @@ THE SPECTACLES
 
       drink nothing stronger than Hock—and to bring the consolations of
 
-      philosophy to my aid. The fool! if he could not come himself,
+      [[philosophy]] to my aid. The [[Fool|fool]]! if he could not come himself,
 
       why, in the name of every thing rational, could he not have
 
@@ -17545,7 +17545,7 @@ THE SPECTACLES
 
       But I had yet a resource left, in my constitutional audacity.
 
-      Hitherto it had served me well, and I now resolved to make it
+      Hitherto it had served me [[Well|well]], and I now resolved to make it
 
       avail me to the end. Besides, after the correspondence which had
 
@@ -17555,7 +17555,7 @@ THE SPECTACLES
 
       Lalande? Since the affair of the letter, I had been in the habit
 
-      of watching her house, and thus discovered that, about twilight,
+      of watching her [[house]], and thus discovered that, about twilight,
 
       it was her custom to promenade, attended only by a negro in
 
@@ -17577,7 +17577,7 @@ THE SPECTACLES
 
       valet at once fell into the rear, and now, with hearts full to
 
-      overflowing, we discoursed long and unreservedly of our love.
+      overflowing, we discoursed long and unreservedly of our [[Love|love]].
 
 
 
@@ -17587,9 +17587,9 @@ THE SPECTACLES
 
       tongue, so adapted to passion, I gave loose to the impetuous
 
-      enthusiasm of my nature, and, with all the eloquence I could
+      enthusiasm of my [[Nature|nature]], and, with all the eloquence I could
 
-      command, besought her to consent to an immediate marriage.
+      command, besought her to consent to an immediate [[Marriage|marriage]].
 
 
 
@@ -17621,11 +17621,11 @@ THE SPECTACLES
 
       connections, her standing in society. She begged me, but with a
 
-      sigh, to reconsider my proposal, and termed my love an
+      sigh, to reconsider my proposal, and termed my [[Love|love]] an
 
       infatuation—a will o’ the wisp—a fancy or fantasy of the moment—a
 
-      baseless and unstable creation rather of the imagination than of
+      baseless and unstable creation rather of the [[Imagination|imagination]] than of
 
       the heart. These things she uttered as the shadows of the sweet
 
@@ -17637,15 +17637,15 @@ THE SPECTACLES
 
 
 
-      I replied as best I could—as only a true lover can. I spoke at
+      I replied as best I could—as only a true [[Lover|lover]] can. I spoke at
 
       length, and perseveringly of my devotion, of my passion—of her
 
-      exceeding beauty, and of my own enthusiastic admiration. In
+      exceeding [[Beauty|beauty]], and of my own enthusiastic admiration. In
 
       conclusion, I dwelt, with a convincing energy, upon the perils
 
-      that encompass the course of love—that course of true love that
+      that encompass the course of [[Love|love]]—that course of true [[Love|love]] that
 
       never did run smooth—and thus deduced the manifest danger of
 
@@ -17689,11 +17689,11 @@ THE SPECTACLES
 
 
 
-      About all this there was a nobility of soul—a dignity of
+      About all this there was a nobility of [[Soul|soul]]—a dignity of
 
       candor—which delighted—which enchanted me—which eternally riveted
 
-      my chains. I could scarcely restrain the excessive transport
+      my [[Chains|chains]]. I could scarcely restrain the excessive transport
 
       which possessed me.
 
@@ -17705,11 +17705,11 @@ THE SPECTACLES
 
       what then? The customs of the world are so many conventional
 
-      follies. To those who love as ourselves, in what respect differs
+      follies. To those who [[Love|love]] as ourselves, in what respect differs
 
       a year from an hour? I am twenty-two, you say; granted: indeed,
 
-      you may as well call me, at once, twenty-three. Now you yourself,
+      you may as [[Well|well]] call me, at once, twenty-three. Now you yourself,
 
       my dearest Eugénie, can have numbered no more than—can have
 
@@ -17741,13 +17741,13 @@ THE SPECTACLES
 
       represents. Besides, upon the back of the trinket you may
 
-      discover, perhaps, the very information you seem to desire. It is
+      discover, perhaps, the very information you seem to [[Desire|desire]]. It is
 
       now, to be sure, growing rather dark—but you can examine it at
 
       your leisure in the morning. In the meantime, you shall be my
 
-      escort home to-night. My friends are about holding a little
+      escort [[Home|home]] to-[[Night|night]]. My friends are about holding a little
 
       musical _levée_. I can promise you, too, some good singing. We
 
@@ -17759,7 +17759,7 @@ THE SPECTACLES
 
 
 
-      With this, she took my arm, and I attended her home. The mansion
+      With this, she took my arm, and I attended her [[Home|home]]. The mansion
 
       was quite a fine one, and, I believe, furnished in good taste. Of
 
@@ -17767,7 +17767,7 @@ THE SPECTACLES
 
       it was just dark as we arrived; and in American mansions of the
 
-      better sort lights seldom, during the heat of summer, make their
+      better sort lights seldom, during the heat of [[Summer|summer]], make their
 
       appearance at this, the most pleasant period of the day. In about
 
@@ -17781,11 +17781,11 @@ THE SPECTACLES
 
       company chiefly assembled, remained, during the whole evening, in
 
-      a very agreeable shadow. This is a well-conceived custom, giving
+      a very agreeable [[Shadow|shadow]]. This is a [[Well|well]]-conceived custom, giving
 
       the party at least a choice of light or shade, and one which our
 
-      friends over the water could not do better than immediately
+      friends over the [[Water|water]] could not do better than immediately
 
       adopt.
 
@@ -17801,7 +17801,7 @@ THE SPECTACLES
 
       performers were many and of superior talents. The vocalists were
 
-      chiefly ladies, and no individual sang less than well. At length,
+      chiefly ladies, and no individual sang less than [[Well|well]]. At length,
 
       upon a peremptory call for “Madame Lalande,” she arose at once,
 
@@ -17813,7 +17813,7 @@ THE SPECTACLES
 
       main drawing-room. I would have escorted her myself, but felt
 
-      that, under the circumstances of my introduction to the house, I
+      that, under the circumstances of my introduction to the [[house]], I
 
       had better remain unobserved where I was. I was thus deprived of
 
@@ -17827,7 +17827,7 @@ THE SPECTACLES
 
       know not how adequately to describe it. It arose in part, no
 
-      doubt, from the sentiment of love with which I was imbued; but
+      [[Doubt|doubt]], from the sentiment of [[Love|love]] with which I was imbued; but
 
       chiefly from my conviction of the extreme sensibility of the
 
@@ -17835,11 +17835,11 @@ THE SPECTACLES
 
       recitative with more impassioned expression than was hers. Her
 
-      utterance of the romance in Otello—the tone with which she gave
+      utterance of the [[Romance|romance]] in Otello—the tone with which she gave
 
       the words “Sul mio sasso,” in the Capuletti—is ringing in my
 
-      memory yet. Her lower tones were absolutely miraculous. Her voice
+      [[Memory|memory]] yet. Her lower tones were absolutely miraculous. Her voice
 
       embraced three complete octaves, extending from the contralto D
 
@@ -17861,7 +17861,7 @@ THE SPECTACLES
 
 
 
-      Here, in imitation of Malibran, she modified the original phrase
+      Here, in [[Imitation|imitation]] of Malibran, she modified the original phrase
 
       of Bellini, so as to let her voice descend to the tenor G, when,
 
@@ -17907,15 +17907,15 @@ THE SPECTACLES
 
       even of those physical infirmities, the disclosure of which, in
 
-      demanding so much higher a degree of courage, is so much surer an
+      demanding so much higher a degree of [[Courage|courage]], is so much surer an
 
-      evidence of love. I touched upon my college indiscretions—upon my
+      evidence of [[Love|love]]. I touched upon my college indiscretions—upon my
 
       extravagances—upon my carousals—upon my debts—upon my
 
       flirtations. I even went so far as to speak of a slightly hectic
 
-      cough with which, at one time, I had been troubled—of a chronic
+      cough with which, at one [[Time|time]], I had been troubled—of a chronic
 
       rheumatism—of a twinge of hereditary gout—and, in conclusion, of
 
@@ -17943,7 +17943,7 @@ THE SPECTACLES
 
 
 
-      As she spoke she twirled in her fingers the identical double
+      As she spoke she twirled in her fingers the identical [[Double|double]]
 
       eye-glass which had so overwhelmed me with confusion at the
 
@@ -17951,7 +17951,7 @@ THE SPECTACLES
 
 
 
-      “Full well—alas! do I remember it,” I exclaimed, pressing
+      “Full [[Well|well]]—alas! do I remember it,” I exclaimed, pressing
 
       passionately the delicate hand which offered the glasses for my
 
@@ -17985,7 +17985,7 @@ THE SPECTACLES
 
       us the observation of the company, and restrained by their
 
-      presence alone from throwing myself impetuously at her feet.
+      presence [[Alone|alone]] from throwing myself impetuously at her feet.
 
       “Name it, my beloved, my Eugénie, my own!—name it!—but, alas! it
 
@@ -17995,13 +17995,13 @@ THE SPECTACLES
 
       “You shall conquer, then, _mon ami_,” said she, “for the sake of
 
-      the Eugénie whom you love, this little weakness which you have at
+      the Eugénie whom you [[Love|love]], this little weakness which you have at
 
       last confessed—this weakness more moral than physical—and which,
 
       let me assure you, is so unbecoming the nobility of your real
 
-      nature—so inconsistent with the candor of your usual
+      [[Nature|nature]]—so inconsistent with the candor of your usual
 
       character—and which, if permitted further control, will assuredly
 
@@ -18047,11 +18047,11 @@ THE SPECTACLES
 
       muster at the moment. “It is done—it is most cheerfully agreed. I
 
-      sacrifice every feeling for your sake. To-night I wear this dear
+      sacrifice every feeling for your sake. To-[[Night|night]] I wear this dear
 
       eye-glass, as an eye-glass, and upon my heart; but with the
 
-      earliest dawn of that morning which gives me the pleasure of
+      earliest [[Dawn|dawn]] of that morning which gives me the pleasure of
 
       calling you wife, I will place it upon my—upon my nose,—and there
 
@@ -18059,7 +18059,7 @@ THE SPECTACLES
 
       fashionable, but certainly in the more serviceable, form which
 
-      you desire.”
+      you [[Desire|desire]].”
 
 
 
@@ -18077,11 +18077,11 @@ THE SPECTACLES
 
       could easily enter it unobserved. We were then to call at the
 
-      house of a clergyman who would be in waiting; there be married,
+      [[house]] of a clergyman who would be in waiting; there be married,
 
       drop Talbot, and proceed on a short tour to the East; leaving the
 
-      fashionable world at home to make whatever comments upon the
+      fashionable world at [[Home|home]] to make whatever comments upon the
 
       matter it thought best.
 
@@ -18109,7 +18109,7 @@ THE SPECTACLES
 
 
 
-      I found Talbot at home, and proceeded at once to acquaint him
+      I found Talbot at [[Home|home]], and proceeded at once to acquaint him
 
       with my good fortune. He professed excessive astonishment, of
 
@@ -18131,9 +18131,9 @@ THE SPECTACLES
 
       It had been determined for us by Talbot, that, as we were to be
 
-      up all night, we should make our first stop at C——, a village
+      up all [[Night|night]], we should make our first stop at C——, a village
 
-      about twenty miles from the city, and there get an early
+      about twenty miles from the [[City|city]], and there get an early
 
       breakfast and some repose, before proceeding upon our route. At
 
@@ -18177,13 +18177,13 @@ THE SPECTACLES
 
       easily do I call to mind the precise words of the dear promise
 
-      you made to Eugénie last night. Listen! You spoke thus: ‘It is
+      you made to Eugénie last [[Night|night]]. Listen! You spoke thus: ‘It is
 
       done!—it is most cheerfully agreed! I sacrifice every feeling for
 
-      your sake. To-night I wear this dear eye-glass as an eye-glass,
+      your sake. To-[[Night|night]] I wear this dear eye-glass as an eye-glass,
 
-      and upon my heart; but with the earliest dawn of that morning
+      and upon my heart; but with the earliest [[Dawn|dawn]] of that morning
 
       which gives me the privilege of calling you wife, I will place it
 
@@ -18191,13 +18191,13 @@ THE SPECTACLES
 
       less romantic, and less fashionable, but certainly in the more
 
-      serviceable, form which you desire.’ These were the exact words,
+      serviceable, form which you [[Desire|desire]].’ These were the exact words,
 
       my beloved husband, were they not?”
 
 
 
-      “They were,” I said; “you have an excellent memory; and
+      “They were,” I said; “you have an excellent [[Memory|memory]]; and
 
       assuredly, my beautiful Eugénie, there is no disposition on my
 
@@ -18253,7 +18253,7 @@ THE SPECTACLES
 
       floor, confronting Mrs. Simpson, with my arms set a-kimbo, and
 
-      grinning and foaming, but, at the same time, utterly speechless
+      grinning and foaming, but, at the same [[Time|time]], utterly speechless
 
       with terror and with rage.
 
@@ -18281,7 +18281,7 @@ THE SPECTACLES
 
       astonishment, for some moments—“Vell, Monsieur?—and vat den?—vat
 
-      de matter now? Is it de dance of de Saint itusse dat you ave? If
+      de matter now? Is it de [[Dance|dance]] of de Saint itusse dat you ave? If
 
       not like me, vat for vy buy de pig in the poke?”
 
@@ -18311,7 +18311,7 @@ THE SPECTACLES
 
       take for dese fifty-five year. Ven I go marry my segonde usbande,
 
-      Monsieur Lalande, at dat time I had de portraite take for my
+      Monsieur Lalande, at dat [[Time|time]] I had de portraite take for my
 
       daughter by my first usbande, Monsieur Moissart!”
 
@@ -18323,7 +18323,7 @@ THE SPECTACLES
 
       “Yes, Moissart,” said she, mimicking my pronunciation, which, to
 
-      speak the truth, was none of the best,—“and vat den? Vat you know
+      speak the [[Truth|truth]], was none of the best,—“and vat den? Vat you know
 
       about de Moissart?”
 
@@ -18331,7 +18331,7 @@ THE SPECTACLES
 
       “Nothing, you old fright!—I know nothing about him at all; only I
 
-      had an ancestor of that name, once upon a time.”
+      had an ancestor of that name, once upon a [[Time|time]].”
 
 
 
@@ -18379,7 +18379,7 @@ THE SPECTACLES
 
       and Voissart, and Croissart, and Froissart. But Monsieur
 
-      Froissart, he vas von _ver_ big vat you call fool—he vas von ver
+      Froissart, he vas von _ver_ big vat you call [[Fool|fool]]—he vas von ver
 
       great big donce like yourself—for he lef _la belle France_ for
 
@@ -18397,7 +18397,7 @@ THE SPECTACLES
 
 
 
-      Either the length or the nature of this speech, had the effect of
+      Either the length or the [[Nature|nature]] of this speech, had the effect of
 
       working up Mrs. Simpson into a very extraordinary passion indeed;
 
@@ -18455,7 +18455,7 @@ THE SPECTACLES
 
       pearl-powder, of rouge, of false hair, false teeth, and false
 
-      tournure, as well as of the most skilful modistes of Paris, she
+      tournure, as [[Well|well]] as of the most skilful modistes of [[Paris]], she
 
       contrived to hold a respectable footing among the beauties _en
 
@@ -18467,11 +18467,11 @@ THE SPECTACLES
 
 
 
-      She was immensely wealthy, and being left, for the second time, a
+      She was immensely wealthy, and being left, for the second [[Time|time]], a
 
       widow without children, she bethought herself of my existence in
 
-      America, and for the purpose of making me her heir, paid a visit
+      [[America]], and for the purpose of making me her heir, paid a visit
 
       to the United States, in company with a distant and exceedingly
 
@@ -18489,7 +18489,7 @@ THE SPECTACLES
 
       herself. Thus interested, and knowing that the heir she sought
 
-      was actually in the city, she made inquiries of her party
+      was actually in the [[City|city]], she made inquiries of her party
 
       respecting me. The gentleman who attended her knew my person, and
 
@@ -18501,7 +18501,7 @@ THE SPECTACLES
 
       returned my bow, however, under the impression that, by some odd
 
-      accident, I had discovered her identity. When, deceived by my
+      accident, I had discovered her [[Identity|identity]]. When, deceived by my
 
       weakness of vision, and the arts of the toilet, in respect to the
 
@@ -18509,9 +18509,9 @@ THE SPECTACLES
 
       enthusiastically of Talbot who she was, he concluded that I meant
 
-      the younger beauty, as a matter of course, and so informed me,
+      the younger [[Beauty|beauty]], as a matter of course, and so informed me,
 
-      with perfect truth, that she was “the celebrated widow, Madame
+      with perfect [[Truth|truth]], that she was “the celebrated widow, Madame
 
       Lalande.”
 
@@ -18529,9 +18529,9 @@ THE SPECTACLES
 
       relative discovered, much to her chagrin, that she had been
 
-      deceived in supposing me aware of her identity, and that I had
+      deceived in supposing me aware of her [[Identity|identity]], and that I had
 
-      been merely making a fool of myself in making open love, in a
+      been merely making a [[Fool|fool]] of myself in making open [[Love|love]], in a
 
       theatre, to an old woman unknown. By way of punishing me for this
 
@@ -18559,7 +18559,7 @@ THE SPECTACLES
 
       lady was intended; and it was she who arose to obey the call; my
 
-      great, great, grandmother, to further the deception, arising at
+      great, great, grandmother, to further the [[Deception|deception]], arising at
 
       the same moment and accompanying her to the piano in the main
 
@@ -18569,13 +18569,13 @@ THE SPECTACLES
 
       was; but my own prudential views rendered this unnecessary. The
 
-      songs which I so much admired, and which so confirmed my
+      [[songs]] which I so much admired, and which so confirmed my
 
       impression of the youth of my mistress, were executed by Madame
 
       Stéphanie Lalande. The eyeglass was presented by way of adding a
 
-      reproof to the hoax—a sting to the epigram of the deception. Its
+      reproof to the hoax—a sting to the [[Epigram|epigram]] of the [[Deception|deception]]. Its
 
       presentation afforded an opportunity for the lecture upon
 
@@ -18599,7 +18599,7 @@ THE SPECTACLES
 
       out of town. Talbot took a seat at his side. The two scoundrels
 
-      were thus “in at the death,” and through a half-open window of
+      were thus “in at the [[Death|death]],” and through a half-open [[Window|window]] of
 
       the back parlor of the inn, amused themselves in grinning at the
 
@@ -18633,13 +18633,13 @@ THE SPECTACLES
 
 
 
-KING PEST
+[[King|KING]] PEST
 
 
 
 
 
-      A Tale Containing an Allegory.
+      A Tale Containing an [[Allegory]].
 
 
 
@@ -18647,11 +18647,11 @@ KING PEST
 
      The things which they abhor in rascal routes.
 
-                    —_Buckhurst’s Tragedy of Ferrex and Porrex._
+                    —_Buckhurst’s [[Tragedy]] of Ferrex and Porrex._
 
 
 
-      About twelve o’clock, one night in the month of October, and
+      About twelve o’[[Clock|clock]], one [[Night|night]] in the month of October, and
 
       during the chivalrous reign of the third Edward, two seamen
 
@@ -18659,11 +18659,11 @@ KING PEST
 
       plying between Sluys and the Thames, and then at anchor in that
 
-      river, were much astonished to find themselves seated in the
+      [[River|river]], were much astonished to find themselves seated in the
 
-      tap-room of an ale-house in the parish of St. Andrews,
+      tap-room of an ale-[[house]] in the parish of St. Andrews,
 
-      London—which ale-house bore for sign the portraiture of a “Jolly
+      [[London]]—which ale-[[house]] bore for sign the portraiture of a “Jolly
 
       Tar.”
 
@@ -18675,9 +18675,9 @@ KING PEST
 
       such places at the period—was, nevertheless, in the opinion of
 
-      the grotesque groups scattered here and there within it,
+      the [[Grotesque|grotesque]] groups scattered here and there within it,
 
-      sufficiently well adapted to its purpose.
+      sufficiently [[Well|well]] adapted to its purpose.
 
 
 
@@ -18691,7 +18691,7 @@ KING PEST
 
       addressed by the characteristic appellation of “Legs,” was at the
 
-      same time much the taller of the two. He might have measured six
+      same [[Time|time]] much the taller of the two. He might have measured six
 
       feet and a half, and an habitual stoop in the shoulders seemed to
 
@@ -18705,9 +18705,9 @@ KING PEST
 
       a pennant at the mast-head, or, when sober, have served for a
 
-      jib-boom. But these jests, and others of a similar nature, had
+      jib-boom. But these jests, and others of a similar [[Nature|nature]], had
 
-      evidently produced, at no time, any effect upon the cachinnatory
+      evidently produced, at no [[Time|time]], any effect upon the cachinnatory
 
       muscles of the tar. With high cheek-bones, a large hawk-nose,
 
@@ -18719,7 +18719,7 @@ KING PEST
 
       was not the less utterly solemn and serious beyond all attempts
 
-      at imitation or description.
+      at [[Imitation|imitation]] or description.
 
 
 
@@ -18741,7 +18741,7 @@ KING PEST
 
       and his thick upper-lip rested upon the still thicker one beneath
 
-      with an air of complacent self-satisfaction, much heightened by
+      with an air of complacent [[Self|self]]-satisfaction, much heightened by
 
       the owner’s habit of licking them at intervals. He evidently
 
@@ -18757,7 +18757,7 @@ KING PEST
 
       worthy couple in and about the different tap-houses of the
 
-      neighbourhood during the earlier hours of the night. Funds even
+      neighbourhood during the earlier hours of the [[Night|night]]. Funds even
 
       the most ample, are not always everlasting: and it was with empty
 
@@ -18765,7 +18765,7 @@ KING PEST
 
 
 
-      At the precise period, then, when this history properly
+      At the precise period, then, when this [[history]] properly
 
       commences, Legs, and his fellow Hugh Tarpaulin, sat, each with
 
@@ -18775,7 +18775,7 @@ KING PEST
 
       from behind a huge flagon of unpaid-for “humming-stuff,” the
 
-      portentous words, “No Chalk,” which to their indignation and
+      portentous words, “No [[chalk|Chalk]],” which to their indignation and
 
       astonishment were scored over the doorway by means of that very
 
@@ -18787,7 +18787,7 @@ KING PEST
 
       inditing—could, in strict justice, have been laid to the charge
 
-      of either disciple of the sea; but there was, to say the truth, a
+      of either disciple of the sea; but there was, to say the [[Truth|truth]], a
 
       certain twist in the formation of the letters—an indescribable
 
@@ -18795,9 +18795,9 @@ KING PEST
 
       seamen, a long run of dirty weather; and determined them at once,
 
-      in the allegorical words of Legs himself, to “pump ship, clew up
+      in the allegorical words of Legs himself, to “pump [[Ship|ship]], clew up
 
-      all sail, and scud before the wind.”
+      all sail, and scud before the [[Wind|wind]].”
 
 
 
@@ -18807,9 +18807,9 @@ KING PEST
 
       bolt for the street. Although Tarpaulin rolled twice into the
 
-      fire-place, mistaking it for the door, yet their escape was at
+      [[Fire|fire]]-place, mistaking it for the door, yet their escape was at
 
-      length happily effected—and half after twelve o’clock found our
+      length happily effected—and half after twelve o’[[Clock|clock]] found our
 
       heroes ripe for mischief, and running for life down a dark alley
 
@@ -18823,7 +18823,7 @@ KING PEST
 
       years before and after, all England, but more especially the
 
-      metropolis, resounded with the fearful cry of “Plague!” The city
+      metropolis, resounded with the fearful cry of “Plague!” The [[City|city]]
 
       was in a great measure depopulated—and in those horrible regions,
 
@@ -18831,21 +18831,21 @@ KING PEST
 
       filthy lanes and alleys, the Demon of Disease was supposed to
 
-      have had his nativity, Awe, Terror, and Superstition were alone
+      have had his nativity, Awe, Terror, and Superstition were [[Alone|alone]]
 
       to be found stalking abroad.
 
 
 
-      By authority of the king such districts were placed under ban,
+      By authority of the [[King|king]] such districts were placed under ban,
 
-      and all persons forbidden, under pain of death, to intrude upon
+      and all persons forbidden, under [[Pain|pain]] of [[Death|death]], to intrude upon
 
-      their dismal solitude. Yet neither the mandate of the monarch,
+      their dismal [[Solitude|solitude]]. Yet neither the mandate of the monarch,
 
       nor the huge barriers erected at the entrances of the streets,
 
-      nor the prospect of that loathsome death which, with almost
+      nor the prospect of that loathsome [[Death|death]] which, with almost
 
       absolute certainty, overwhelmed the wretch whom no peril could
 
@@ -18859,7 +18859,7 @@ KING PEST
 
 
 
-      Above all, it was usually found, upon the annual winter opening
+      Above all, it was usually found, upon the annual [[Winter|winter]] opening
 
       of the barriers, that locks, bolts, and secret cellars, had
 
@@ -18869,7 +18869,7 @@ KING PEST
 
       removal, many of the numerous dealers having shops in the
 
-      neighbourhood had consented to trust, during the period of exile,
+      neighbourhood had consented to trust, during the period of [[Exile|exile]],
 
       to so insufficient a security.
 
@@ -18881,7 +18881,7 @@ KING PEST
 
       Pest-spirits, plague-goblins, and fever-demons, were the popular
 
-      imps of mischief; and tales so blood-chilling were hourly told,
+      imps of mischief; and tales so [[Blood|blood]]-chilling were hourly told,
 
       that the whole mass of forbidden buildings was, at length,
 
@@ -18891,7 +18891,7 @@ KING PEST
 
       created; leaving the entire vast circuit of prohibited district
 
-      to gloom, silence, pestilence, and death.
+      to gloom, [[Silence|silence]], pestilence, and [[Death|death]].
 
 
 
@@ -18903,7 +18903,7 @@ KING PEST
 
       found their progress suddenly impeded. To return was out of the
 
-      question, and no time was to be lost, as their pursuers were
+      question, and no [[Time|time]] was to be lost, as their pursuers were
 
       close upon their heels. With thorough-bred seamen to clamber up
 
@@ -18949,13 +18949,13 @@ KING PEST
 
       impediments such as these, to stay the course of men who,
 
-      naturally brave, and at that time especially, brimful of courage
+      naturally brave, and at that [[Time|time]] especially, brimful of [[Courage|courage]]
 
       and of “humming-stuff,” would have reeled, as straight as their
 
       condition might have permitted, undauntedly into the very jaws of
 
-      Death. Onward—still onward stalked the grim Legs, making the
+      [[Death]]. Onward—still onward stalked the grim Legs, making the
 
       desolate solemnity echo and re-echo with yells like the terrific
 
@@ -18987,7 +18987,7 @@ KING PEST
 
       rubbish, it was by no means seldom that the hand fell upon a
 
-      skeleton or rested upon a more fleshly corpse.
+      [[skeleton]] or rested upon a more fleshly corpse.
 
 
 
@@ -18999,11 +18999,11 @@ KING PEST
 
       in a rapid succession of wild, laughter-like, and fiendish
 
-      shrieks. Nothing daunted at sounds which, of such a nature, at
+      shrieks. Nothing daunted at sounds which, of such a [[Nature|nature]], at
 
-      such a time, and in such a place, might have curdled the very
+      such a [[Time|time]], and in such a place, might have curdled the very
 
-      blood in hearts less irrevocably on fire, the drunken couple
+      [[Blood|blood]] in hearts less irrevocably on [[Fire|fire]], the drunken couple
 
       rushed headlong against the door, burst it open, and staggered
 
@@ -19019,7 +19019,7 @@ KING PEST
 
       whose depths the occasional sound of bursting bottles proclaimed
 
-      to be well stored with their appropriate contents. In the middle
+      to be [[Well|well]] stored with their appropriate contents. In the middle
 
       of the room stood a table—in the centre of which again arose a
 
@@ -19045,11 +19045,11 @@ KING PEST
 
       His face was as yellow as saffron—but no feature excepting one
 
-      alone, was sufficiently marked to merit a particular description.
+      [[Alone|alone]], was sufficiently marked to merit a particular description.
 
       This one consisted in a forehead so unusually and hideously
 
-      lofty, as to have the appearance of a bonnet or crown of flesh
+      lofty, as to have the appearance of a bonnet or [[Crown|crown]] of flesh
 
       superadded upon the natural head. His mouth was puckered and
 
@@ -19069,7 +19069,7 @@ KING PEST
 
       he held a huge human thigh-bone, with which he appeared to have
 
-      been just knocking down some member of the company for a song.
+      been just knocking down some member of the company for a [[Song|song]].
 
 
 
@@ -19163,9 +19163,9 @@ KING PEST
 
       in calling attention to his gaudy-colored surtout. This, to say
 
-      the truth, must have cost him no little money, and was made to
+      the [[Truth|truth]], must have cost him no little money, and was made to
 
-      fit him exceedingly well—being fashioned from one of the
+      fit him exceedingly [[Well|well]]—being fashioned from one of the
 
       curiously embroidered silken covers appertaining to those
 
@@ -19195,7 +19195,7 @@ KING PEST
 
       wine-bibbing cast of his visage. A pair of prodigious ears,
 
-      nevertheless, which it was no doubt found impossible to confine,
+      nevertheless, which it was no [[Doubt|doubt]] found impossible to confine,
 
       towered away into the atmosphere of the apartment, and were
 
@@ -19237,17 +19237,17 @@ KING PEST
 
       Before each of the party lay a portion of a skull, which was used
 
-      as a drinking cup. Overhead was suspended a human skeleton, by
+      as a drinking cup. Overhead was suspended a human [[skeleton]], by
 
       means of a rope tied round one of the legs and fastened to a ring
 
       in the ceiling. The other limb, confined by no such fetter, stuck
 
-      off from the body at right angles, causing the whole loose and
+      off from the [[Body|body]] at right angles, causing the whole loose and
 
       rattling frame to dangle and twirl about at the caprice of every
 
-      occasional puff of wind which found its way into the apartment.
+      occasional puff of [[Wind|wind]] which found its way into the apartment.
 
       In the cranium of this hideous thing lay quantity of ignited
 
@@ -19327,7 +19327,7 @@ KING PEST
 
       what business ye have here, rigged off like the foul fiends, and
 
-      swilling the snug blue ruin stowed away for the winter by my
+      swilling the snug blue ruin stowed away for the [[Winter|winter]] by my
 
       honest shipmate, Will Wimble, the undertaker!”
 
@@ -19353,15 +19353,15 @@ KING PEST
 
       that in these dominions I am monarch, and here rule with
 
-      undivided empire under the title of ‘King Pest the First.’
+      undivided empire under the title of ‘[[King]] Pest the First.’
 
 
 
-      “This apartment, which you no doubt profanely suppose to be the
+      “This apartment, which you no [[Doubt|doubt]] profanely suppose to be the
 
       shop of Will Wimble the undertaker—a man whom we know not, and
 
-      whose plebeian appellation has never before this night thwarted
+      whose plebeian appellation has never before this [[Night|night]] thwarted
 
       our royal ears—this apartment, I say, is the Dais-Chamber of our
 
@@ -19371,11 +19371,11 @@ KING PEST
 
 
 
-      “The noble lady who sits opposite is Queen Pest, our Serene
+      “The noble lady who sits opposite is [[Queen]] Pest, our Serene
 
       Consort. The other exalted personages whom you behold are all of
 
-      our family, and wear the insignia of the blood royal under the
+      our family, and wear the insignia of the [[Blood|blood]] royal under the
 
       respective titles of ‘His Grace the Arch Duke Pest-Iferous’—‘His
 
@@ -19389,7 +19389,7 @@ KING PEST
 
       which we sit here in council, we might be pardoned for replying
 
-      that it concerns, and concerns alone, our own private and regal
+      that it concerns, and concerns [[Alone|alone]], our own private and regal
 
       interest, and is in no manner important to any other than
 
@@ -19397,13 +19397,13 @@ KING PEST
 
       and strangers you may feel yourselves entitled, we will
 
-      furthermore explain that we are here this night, prepared by deep
+      furthermore explain that we are here this [[Night|night]], prepared by deep
 
       research and accurate investigation, to examine, analyze, and
 
       thoroughly determine the indefinable spirit—the incomprehensible
 
-      qualities and nature—of those inestimable treasures of the
+      qualities and [[Nature|nature]]—of those inestimable treasures of the
 
       palate, the wines, ales, and liqueurs of this goodly metropolis:
 
@@ -19411,11 +19411,11 @@ KING PEST
 
       welfare of that unearthly sovereign whose reign is over us all,
 
-      whose dominions are unlimited, and whose name is ‘Death’.”
+      whose dominions are unlimited, and whose name is ‘[[Death]]’.”
 
 
 
-      “Whose name is Davy Jones!” ejaculated Tarpaulin, helping the
+      “Whose name is Davy [[Jones]]!” ejaculated Tarpaulin, helping the
 
       lady by his side to a skull of liqueur, and pouring out a second
 
@@ -19451,7 +19451,7 @@ KING PEST
 
       “It would be a matter of utter impossibility,” replied Legs, whom
 
-      the assumptions and dignity of King Pest the First had evidently
+      the assumptions and dignity of [[King]] Pest the First had evidently
 
       inspired some feelings of respect, and who arose and steadied
 
@@ -19473,9 +19473,9 @@ KING PEST
 
       please your majesty, be so good as to take the will for the
 
-      deed—for by no manner of means either can I or will I swallow
+      deed—for by no manner of means either can I or will I [[Swallow|swallow]]
 
-      another drop—least of all a drop of that villainous bilge-water
+      another drop—least of all a drop of that villainous bilge-[[Water|water]]
 
       that answers to the name of ‘Black Strap.’”
 
@@ -19483,7 +19483,7 @@ KING PEST
 
       “Belay that!” interrupted Tarpaulin, astonished not more at the
 
-      length of his companion’s speech than at the nature of his
+      length of his companion’s speech than at the [[Nature|nature]] of his
 
       refusal—“Belay that you lubber!—and I say, Legs, none of your
 
@@ -19501,7 +19501,7 @@ KING PEST
 
       accordance with the terms of the mulct or sentence, which is in
 
-      its nature Median, and not to be altered or recalled. The
+      its [[Nature|nature]] Median, and not to be altered or recalled. The
 
       conditions we have imposed must be fulfilled to the letter, and
 
@@ -19517,7 +19517,7 @@ KING PEST
 
       glorious decree!—a most worthy and upright, and holy
 
-      condemnation!” shouted the Pest family altogether. The king
+      condemnation!” shouted the Pest family altogether. The [[King|king]]
 
       elevated his forehead into innumerable wrinkles; the gouty little
 
@@ -19537,7 +19537,7 @@ KING PEST
 
       excitation, “ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—I was
 
-      saying,” said he, “I was saying when Mr. King Pest poked in his
+      saying,” said he, “I was saying when Mr. [[King]] Pest poked in his
 
       marlin-spike, that as for the matter of two or three gallons more
 
@@ -19547,7 +19547,7 @@ KING PEST
 
       the Devil (whom God assoilzie) and going down upon my marrow
 
-      bones to his ill-favored majesty there, whom I know, as well as I
+      bones to his ill-favored majesty there, whom I know, as [[Well|well]] as I
 
       know myself to be a sinner, to be nobody in the whole world, but
 
@@ -19567,7 +19567,7 @@ KING PEST
 
 
 
-      “Treason!” shouted his Majesty King Pest the First.
+      “Treason!” shouted his Majesty [[King]] Pest the First.
 
 
 
@@ -19609,13 +19609,13 @@ KING PEST
 
       Not tamely, however, did the tall seaman behold the discomfiture
 
-      of his companion. Jostling King Pest through the open trap, the
+      of his companion. Jostling [[King]] Pest through the open trap, the
 
       valiant Legs slammed the door down upon him with an oath, and
 
       strode towards the centre of the room. Here tearing down the
 
-      skeleton which swung over the table, he laid it about him with so
+      [[skeleton]] which swung over the table, he laid it about him with so
 
       much energy and good will, that, as the last glimpses of light
 
@@ -19627,15 +19627,15 @@ KING PEST
 
       Hugh Tarpaulin, he rolled it over and over in an instant. Out
 
-      burst a deluge of liquor so fierce—so impetuous—so
+      burst a [[deluge]] of liquor so fierce—so impetuous—so
 
       overwhelming—that the room was flooded from wall to wall—the
 
       loaded table was overturned—the tressels were thrown upon their
 
-      backs—the tub of punch into the fire-place—and the ladies into
+      backs—the tub of punch into the [[Fire|fire]]-place—and the ladies into
 
-      hysterics. Piles of death-furniture floundered about. Jugs,
+      hysterics. Piles of [[Death|death]]-furniture floundered about. Jugs,
 
       pitchers, and carboys mingled promiscuously in the _mêlée_, and
 
@@ -19673,15 +19673,15 @@ THREE SUNDAYS IN A WEEK
 
       fusty, old savage!” said I, in fancy, one afternoon, to my grand
 
-      uncle Rumgudgeon—shaking my fist at him in imagination.
+      uncle Rumgudgeon—shaking my fist at him in [[Imagination|imagination]].
 
 
 
-      Only in imagination. The fact is, some trivial discrepancy _did_
+      Only in [[Imagination|imagination]]. The fact is, some trivial discrepancy _did_
 
       exist, just then, between what I said and what I had not the
 
-      courage to say—between what I did and what I had half a mind to
+      [[Courage|courage]] to say—between what I did and what I had half a mind to
 
       do.
 
@@ -19721,7 +19721,7 @@ THREE SUNDAYS IN A WEEK
 
       “I am sure, my dearest uncle (you confounded old rascal!), that
 
-      you have no design really, seriously, to oppose my union with
+      you have no design really, seriously, to oppose my [[Union|union]] with
 
       Kate. This is merely a joke of yours, I know—ha! ha! ha!—how very
 
@@ -19737,7 +19737,7 @@ THREE SUNDAYS IN A WEEK
 
       that Kate and myself wish at present, is that you would oblige us
 
-      with your advice as—as regards the time—you know, uncle—in short,
+      with your advice as—as regards the [[Time|time]]—you know, uncle—in short,
 
       when will it be most convenient for yourself, that the wedding
 
@@ -19755,7 +19755,7 @@ THREE SUNDAYS IN A WEEK
 
       that’s good!—oh, that’s capital—_such_ a wit! But all we want
 
-      just _now_, you know, uncle, is that you would indicate the time
+      just _now_, you know, uncle, is that you would indicate the [[Time|time]]
 
       precisely.”
 
@@ -19771,7 +19771,7 @@ THREE SUNDAYS IN A WEEK
 
       “Wouldn’t it answer, Bobby, if I were to leave it at random—some
 
-      time within a year or so, for example?—_must_ I say precisely?”
+      [[Time|time]] within a year or so, for example?—_must_ I say precisely?”
 
 
 
@@ -19779,9 +19779,9 @@ THREE SUNDAYS IN A WEEK
 
 
 
-      “Well, then, Bobby, my boy—you’re a fine fellow, aren’t
+      “[[Well]], then, Bobby, my boy—you’re a fine fellow, aren’t
 
-      you?—since you _will_ have the exact time I’ll—why I’ll oblige
+      you?—since you _will_ have the exact [[Time|time]] I’ll—why I’ll oblige
 
       you for once.”
 
@@ -19795,9 +19795,9 @@ THREE SUNDAYS IN A WEEK
 
       shall have my consent—and the _plum_, we mus’n’t forget the
 
-      plum—let me see! when shall it be? To-day’s Sunday—isn’t it?
+      plum—let me see! when shall it be? To-day’s [[Sunday]]—isn’t it?
 
-      Well, then, you shall be married precisely—_precisely_, now
+      [[Well]], then, you shall be married precisely—_precisely_, now
 
       mind!—_when three Sundays come together in a week!_ Do you hear
 
@@ -19811,13 +19811,13 @@ THREE SUNDAYS IN A WEEK
 
       swallowed his bumper of port, while I rushed from the room in
 
-      despair.
+      [[Despair|despair]].
 
 
 
       A very “fine old English gentleman,” was my grand-uncle
 
-      Rumgudgeon, but unlike him of the song, he had his weak points.
+      Rumgudgeon, but unlike him of the [[Song|song]], he had his weak points.
 
       He was a little, pursy, pompous, passionate semicircular
 
@@ -19845,7 +19845,7 @@ THREE SUNDAYS IN A WEEK
 
       at last, was generally in direct ratio with the length of the
 
-      siege and the stubbornness of the resistance. In charity no one
+      siege and the stubbornness of the resistance. In [[Charity|charity]] no one
 
       gave more liberally or with a worse grace.
 
@@ -19865,7 +19865,7 @@ THREE SUNDAYS IN A WEEK
 
       assured me one day, when I asked him for a new copy of Horace,
 
-      that the translation of “Poeta nascitur non fit” was “a nasty
+      that the [[Translation|translation]] of “Poeta nascitur non fit” was “a nasty
 
       poet for nothing fit”—a remark which I took in high dudgeon. His
 
@@ -19899,7 +19899,7 @@ THREE SUNDAYS IN A WEEK
 
       dying, had bequeathed me to him as a rich legacy. I believe the
 
-      old villain loved me as his own child—nearly if not quite as well
+      old [[Villain|villain]] loved me as his own [[Child|child]]—nearly if not quite as [[Well|well]]
 
       as he loved Kate—but it was a dog’s existence that he led me,
 
@@ -19907,13 +19907,13 @@ THREE SUNDAYS IN A WEEK
 
       very regular floggings. From five to fifteen, he threatened me,
 
-      hourly, with the House of Correction. From fifteen to twenty, not
+      hourly, with the [[house|House]] of Correction. From fifteen to twenty, not
 
       a day passed in which he did not promise to cut me off with a
 
       shilling. I was a sad dog, it is true—but then it was a part of
 
-      my nature—a point of my faith. In Kate, however, I had a firm
+      my [[Nature|nature]]—a point of my [[Faith|faith]]. In Kate, however, I had a firm
 
       friend, and I knew it. She was a good girl, and told me very
 
@@ -19943,7 +19943,7 @@ THREE SUNDAYS IN A WEEK
 
       mice. In his heart he wished for nothing more ardently than our
 
-      union. He had made up his mind to this all along. In fact, he
+      [[Union|union]]. He had made up his mind to this all along. In fact, he
 
       would have given ten thousand pounds from his own pocket (Kate’s
 
@@ -19969,11 +19969,11 @@ THREE SUNDAYS IN A WEEK
 
       old-womanish superstition which beset him. He was great in
 
-      dreams, portents, et id genus omne of rigmarole. He was
+      [[Dreams|dreams]], portents, et id genus omne of rigmarole. He was
 
       excessively punctilious, too, upon small points of honor, and,
 
-      after his own fashion, was a man of his word, beyond doubt. This
+      after his own fashion, was a man of his word, beyond [[Doubt|doubt]]. This
 
       was, in fact, one of his hobbies. The spirit of his vows he made
 
@@ -19987,7 +19987,7 @@ THREE SUNDAYS IN A WEEK
 
       unexpected advantage, and, having thus, in the fashion of all
 
-      modern bards and orators, exhausted in prolegomena, all the time
+      modern bards and orators, exhausted in prolegomena, all the [[Time|time]]
 
       at my command, and nearly all the room at my disposal, I will sum
 
@@ -20005,7 +20005,7 @@ THREE SUNDAYS IN A WEEK
 
       cousin and I, preconcertedly paid uncle Rumgudgeon a visit on the
 
-      afternoon of Sunday, October the tenth,—just three weeks after
+      afternoon of [[Sunday]], October the tenth,—just three weeks after
 
       the memorable decision which had so cruelly defeated our hopes.
 
@@ -20017,7 +20017,7 @@ THREE SUNDAYS IN A WEEK
 
 
 
-      CAPT. PRATT. “Well I have been absent just one year.—Just one
+      CAPT. PRATT. “[[Well]] I have been absent just one year.—Just one
 
       year to-day, as I live—let me see! yes!—this is October the
 
@@ -20039,7 +20039,7 @@ THREE SUNDAYS IN A WEEK
 
 
 
-      UNCLE. “Yes, yes, yes—I remember it very well—very queer indeed!
+      UNCLE. “Yes, yes, yes—I remember it very [[Well|well]]—very queer indeed!
 
       Both of you gone just one year. A very strange coincidence,
 
@@ -20069,7 +20069,7 @@ THREE SUNDAYS IN A WEEK
 
       KATE. “Why, papa, Captain Pratt went round Cape Horn, and Captain
 
-      Smitherton doubled the Cape of Good Hope.”
+      Smitherton doubled the Cape of Good [[Hope]].”
 
 
 
@@ -20091,25 +20091,25 @@ THREE SUNDAYS IN A WEEK
 
       PRATT. “Wist, my dear fellow—you forget. To-morrow will be
 
-      Sunday. Some other evening—”
+      [[Sunday]]. Some other evening—”
 
 
 
       KATE. “Oh, no, fie!—Robert’s not quite so bad as that. To-day’s
 
-      Sunday.”
+      [[Sunday]].”
 
 
 
       PRATT. “I beg both your pardons—but I can’t be so much mistaken.
 
-      I know to-morrow’s Sunday, because-”
+      I know to-morrow’s [[Sunday]], because-”
 
 
 
       SMITHERTON. (Much surprised.) “What are you all thinking about?
 
-      Wasn’t yesterday, Sunday, I should like to know?”
+      Wasn’t yesterday, [[Sunday]], I should like to know?”
 
 
 
@@ -20117,33 +20117,33 @@ THREE SUNDAYS IN A WEEK
 
 
 
-      UNCLE. “To-day’s Sunday, I say—don’t I know?”
+      UNCLE. “To-day’s [[Sunday]], I say—don’t I know?”
 
 
 
-      PRATT. “Oh no!—to-morrow’s Sunday.”
+      PRATT. “Oh no!—to-morrow’s [[Sunday]].”
 
 
 
       SMITHERTON. “You are all mad—every one of you. I am as positive
 
-      that yesterday was Sunday as I am that I sit upon this chair.”
+      that yesterday was [[Sunday]] as I am that I sit upon this chair.”
 
 
 
       KATE. (Jumping up eagerly.) “I see it—I see it all. Papa, this is
 
-      a judgment upon you, about—about you know what. Let me alone, and
+      a judgment upon you, about—about you know what. Let me [[Alone|alone]], and
 
       I’ll explain it all in a minute. It’s a very simple thing,
 
-      indeed. Captain Smitherton says that yesterday was Sunday: so it
+      indeed. Captain Smitherton says that yesterday was [[Sunday]]: so it
 
       was; he is right. Cousin Bobby, and uncle and I say that to-day
 
-      is Sunday: so it is; we are right. Captain Pratt maintains that
+      is [[Sunday]]: so it is; we are right. Captain Pratt maintains that
 
-      to-morrow will be Sunday: so it will; he is right, too. The fact
+      to-morrow will be [[Sunday]]: so it will; he is right, too. The fact
 
       is, we are all right, and thus three Sundays have come together
 
@@ -20171,13 +20171,13 @@ THREE SUNDAYS IN A WEEK
 
 
 
-      SMITHERTON. (Drowning his voice.) “Well, sir; that is at the rate
+      SMITHERTON. (Drowning his voice.) “[[Well]], sir; that is at the rate
 
       of one thousand miles per hour. Now, suppose that I sail from
 
       this position a thousand miles east. Of course I anticipate the
 
-      rising of the sun here at London by just one hour. I see the sun
+      rising of the sun here at [[London]] by just one hour. I see the sun
 
       rise one hour before you do. Proceeding, in the same direction,
 
@@ -20189,15 +20189,15 @@ THREE SUNDAYS IN A WEEK
 
       spot, when, having gone twenty-four thousand miles east, I
 
-      anticipate the rising of the London sun by no less than
+      anticipate the rising of the [[London]] sun by no less than
 
       twenty-four hours; that is to say, I am a day in advance of your
 
-      time. Understand, eh?”
+      [[Time|time]]. Understand, eh?”
 
 
 
-      UNCLE. “But Double L. Dee—”
+      UNCLE. “But [[Double]] L. Dee—”
 
 
 
@@ -20209,11 +20209,11 @@ THREE SUNDAYS IN A WEEK
 
       thousand miles west, was twenty-four hours, or one day, behind
 
-      the time at London. Thus, with me, yesterday was Sunday—thus,
+      the [[Time|time]] at [[London]]. Thus, with me, yesterday was [[Sunday]]—thus,
 
-      with you, to-day is Sunday—and thus, with Pratt, to-morrow will
+      with you, to-day is [[Sunday]]—and thus, with Pratt, to-morrow will
 
-      be Sunday. And what is more, Mr. Rumgudgeon, it is positively
+      be [[Sunday]]. And what is more, Mr. Rumgudgeon, it is positively
 
       clear that we are all right; for there can be no philosophical
 
@@ -20223,7 +20223,7 @@ THREE SUNDAYS IN A WEEK
 
 
 
-      UNCLE. “My eyes!—well, Kate—well, Bobby!—this is a judgment upon
+      UNCLE. “My eyes!—[[Well|well]], Kate—[[Well|well]], Bobby!—this is a judgment upon
 
       me, as you say. But I am a man of my word—mark that! you shall
 
@@ -20241,4 +20241,4 @@ THREE SUNDAYS IN A WEEK
 
 
 
-End of the Project Gutenberg EBook of The Works of Edgar Allan Poe, Volume 3, by Edgar Allan Poe
+End of the Project Gutenberg EBook of The Works of [[Edgar]] Allan Poe, Volume 3, by [[Edgar]] Allan Poe

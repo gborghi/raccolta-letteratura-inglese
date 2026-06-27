@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 22 (part 2)"
+title: "[[The Professor]] — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -58,7 +58,7 @@ come near me more, so long as the tide of fortune bore me smoothly on
 
 its surface; but the painted furniture, the bare walls, the cheerless
 
-solitude of my room relaxed his rigid pride, and I know not what
+[[Solitude|solitude]] of my room relaxed his rigid [[Pride|pride]], and I know not what
 
 softening change had taken place both in his voice and look ere he spoke
 
@@ -96,15 +96,15 @@ in such matters.”
 
 
 
-“He served me once very well; I have no claim on him, and am not in the
+“He served me once very [[Well|well]]; I have no claim on him, and am not in the
 
-humour to bother him again.”
+[[Humour|humour]] to bother him again.”
 
 
 
 “Oh, if you’re bashful, and dread being intrusive, you need only
 
-commission me. I shall see him to-night; I can put in a word.”
+commission me. I shall see him to-[[Night|night]]; I can put in a word.”
 
 
 
@@ -118,9 +118,9 @@ positively adding another item to the account.”
 
 
 
-“If the wind sits that way, I’m satisfied. I thought my unexampled
+“If the [[Wind|wind]] sits that way, I’m satisfied. I thought my unexampled
 
-generosity in turning you out of that accursed counting-house would be
+generosity in turning you out of that accursed counting-[[house]] would be
 
 duly appreciated some day: ‘Cast your bread on the waters, and it
 
@@ -132,13 +132,13 @@ common herd. In the meantime, to put all humbug aside and talk sense for
 
 a few moments, you would be greatly the better of a situation, and what
 
-is more, you are a fool if you refuse to take one from any hand that
+is more, you are a [[Fool|fool]] if you refuse to take one from any hand that
 
 offers it.”
 
 
 
-“Very well, Mr. Hunsden; now you have settled that point, talk of
+“Very [[Well|well]], Mr. Hunsden; now you have settled that point, talk of
 
 something else. What news from X----?”
 
@@ -148,7 +148,7 @@ something else. What news from X----?”
 
 before we get to X----. Is this Miss Zenobie” (Zoraide, interposed
 
-I)--“well, Zoraide--is she really married to Pelet?”
+I)--“[[Well|well]], Zoraide--is she really married to Pelet?”
 
 
 
@@ -226,7 +226,7 @@ Hunsden triumphed: his eyes--his laugh announced victory.
 
 
 
-“At your exemplary composure. Well, lad, I’ll not bore you; I see how
+“At your exemplary composure. [[Well]], lad, I’ll not bore you; I see how
 
 it is: Zoraide has jilted you--married some one richer, as any sensible
 
@@ -238,9 +238,9 @@ I made no reply--I let him think so, not feeling inclined to enter into
 
 an explanation of the real state of things, and as little to forge a
 
-false account; but it was not easy to blind Hunsden; my very silence,
+false account; but it was not easy to blind Hunsden; my very [[Silence|silence]],
 
-instead of convincing him that he had hit the truth, seemed to render
+instead of convincing him that he had hit the [[Truth|truth]], seemed to render
 
 him doubtful about it; he went on:--
 
@@ -252,7 +252,7 @@ are amongst rational people: you offered her your youth and your
 
 talents--such as they are--in exchange for her position and money: I
 
-don’t suppose you took appearance, or what is called LOVE, into the
+don’t suppose you took appearance, or what is called [[Love|LOVE]], into the
 
 account--for I understand she is older than you, and Brown says, rather
 
@@ -270,7 +270,7 @@ so--business-like and legitimate. And now we’ll talk of something else.”
 
 “Do,” said I, very glad to dismiss the topic, and especially glad to
 
-have baffled the sagacity of my cross-questioner--if, indeed, I had
+have baffled the sagacity of my [[Cross|cross]]-questioner--if, indeed, I had
 
 baffled it; for though his words now led away from the dangerous point,
 

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 35 (part 4)"
+title: "[[Villette]] — Chapter 35 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -17,15 +17,15 @@ tags:
 He covered with his hand the upper part of his face, but did not
 conceal his mouth, where I saw hovering an expression I liked.
 
-“I see you have entered into my secrets,” said he, “but how was it
+“I see you have entered into my [[Secrets|secrets]],” said he, “but how was it
 done?”
 
-So I told him how—the commission on which I had been sent, the storm
+So I told him how—the commission on which I had been sent, the [[Storm|storm]]
 which had detained me, the abruptness of the lady, the kindness of the
 priest.
 
 “As I sat waiting for the rain to cease, Père Silas whiled away the
-time with a story,” I said.
+[[Time|time]] with a story,” I said.
 
 “A story! What story? Père Silas is no romancist.”
 
@@ -46,7 +46,7 @@ point. But what of the ‘Priest’s Pupil?’”
 
 “Oh! many things.”
 
-“You may as well define _what_ things. I mean to know.”
+“You may as [[Well|well]] define _what_ things. I mean to know.”
 
 “There was the pupil’s youth, the pupil’s manhood;—his avarice, his
 ingratitude, his implacability, his inconstancy. Such a bad pupil,
@@ -56,8 +56,8 @@ Monsieur!—so thankless, cold-hearted, unchivalrous, unforgiving!”
 
 “Et puis,” I pursued, “he underwent calamities which one did not
 pity—bore them in a spirit one did not admire—endured wrongs for which
-one felt no sympathy; finally took the unchristian revenge of heaping
-coals of fire on his adversary’s head.”
+one felt no sympathy; finally took the unchristian [[Revenge|revenge]] of heaping
+coals of [[Fire|fire]] on his adversary’s head.”
 
 “You have not told me all,” said he.
 
@@ -80,9 +80,9 @@ almost that of a priest—that his life was considered consecrated.”
 
 Some meditative minutes passed.
 
-“Now, Mademoiselle Lucy, look at me, and with that truth which I
+“Now, Mademoiselle Lucy, look at me, and with that [[Truth|truth]] which I
 believe you never knowingly violate, answer me one question. Raise your
-eyes; rest them on mine; have no hesitation; fear not to trust me—I am
+eyes; rest them on mine; have no hesitation; [[Fear|fear]] not to trust me—I am
 a man to be trusted.”
 
 I raised my eyes.
@@ -94,17 +94,17 @@ friends?”
 “If Monsieur wants a friend in me, I shall be glad to have a friend in
 him.”
 
-“But a close friend I mean—intimate and real—kindred in all but blood.
+“But a close friend I mean—intimate and real—kindred in all but [[Blood|blood]].
 Will Miss Lucy be the sister of a very poor, fettered, burdened,
 encumbered man?”
 
 I could not answer him in words, yet I suppose I _did_ answer him; he
 took my hand, which found comfort, in the shelter of his. _His_
-friendship was not a doubtful, wavering benefit—a cold, distant hope—a
+[[Friendship|friendship]] was not a doubtful, wavering benefit—a cold, distant [[Hope|hope]]—a
 sentiment so brittle as not to bear the weight of a finger: I at once
 felt (or _thought_ I felt) its support like that of some rock.
 
-“When I talk of friendship, I mean _true_ friendship,” he repeated
+“When I talk of [[Friendship|friendship]], I mean _true_ [[Friendship|friendship]],” he repeated
 emphatically; and I could hardly believe that words so earnest had
 blessed my ear; I hardly could credit the reality of that kind, anxious
 look he gave. If he _really_ wished for my confidence and regard, and
@@ -130,19 +130,19 @@ material in some hands.”
 
 While he spoke, the tone of his voice, the light of his now
 affectionate eye, gave me such a pleasure as, certainly, I had never
-felt. I envied no girl her lover, no bride her bridegroom, no wife her
-husband; I was content with this my voluntary, self-offering friend. If
+felt. I envied no girl her [[Lover|lover]], no bride her bridegroom, no wife her
+husband; I was content with this my voluntary, [[Self|self]]-offering friend. If
 he would but prove reliable, and he _looked_ reliable, what, beyond his
-friendship, could I ever covet? But, if all melted like a dream, as
+[[Friendship|friendship]], could I ever covet? But, if all melted like [[A Dream|a dream]], as
 once before had happened—?
 
 “Qu’est-ce donc? What is it?” said he, as this thought threw its weight
-on my heart, its shadow on my countenance. I told him; and after a
+on my heart, its [[Shadow|shadow]] on my countenance. I told him; and after a
 moment’s pause, and a thoughtful smile, he showed me how an equal
-fear—lest I should weary of him, a man of moods so difficult and
+[[Fear|fear]]—lest I should weary of him, a man of moods so difficult and
 fitful—had haunted his mind for more than one day, or one month.
 
-On hearing this, a quiet courage cheered me. I ventured a word of
+On hearing this, a quiet [[Courage|courage]] cheered me. I ventured a word of
 re-assurance. That word was not only tolerated; its repetition was
 courted. I grew quite happy—strangely happy—in making him secure,
 content, tranquil. Yesterday, I could not have believed that earth
@@ -152,7 +152,7 @@ darkly in; but to see unhoped-for happiness take form, find place, and
 grow more real as the seconds sped, was indeed a new experience.
 
 “Lucy,” said M. Paul, speaking low, and still holding my hand, “did you
-see a picture in the boudoir of the old house?”
+see a picture in the boudoir of the old [[house]]?”
 
 “I did; a picture painted on a panel.”
 
@@ -160,11 +160,11 @@ see a picture in the boudoir of the old house?”
 
 “Yes.”
 
-“You heard her history?”
+“You heard her [[history]]?”
 
 “Yes.”
 
-“You remember what we saw that night in the berceau?”
+“You remember what we saw that [[Night|night]] in the berceau?”
 
 “I shall never forget it.”
 

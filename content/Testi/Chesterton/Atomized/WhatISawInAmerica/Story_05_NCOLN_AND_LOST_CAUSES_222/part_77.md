@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 77)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 77)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-He is not ashamed of his emotion, of the fire or even the tear in his
+He is not ashamed of his emotion, of the [[Fire|fire]] or even the tear in his
 
-manly eye, when he tells you that the great wheel of his machine breaks
+manly eye, when he tells you that the great [[Wheel|wheel]] of his [[Machine|machine]] breaks
 
 four billion butterflies an hour.
 
@@ -28,7 +28,7 @@ sportive. It is because it is not very sportive that we sometimes say it
 
 is not very sporting. It has the vices of a religion. It has all the
 
-paradox of original sin in the service of aboriginal faith. It is
+[[Paradox|paradox]] of [[Original Sin|original sin]] in the service of aboriginal [[Faith|faith]]. It is
 
 sometimes untruthful because it is sincere. It is sometimes treacherous
 
@@ -40,21 +40,21 @@ Highland feud. We may say that the vassal readily committed treason; but
 
 it is equally true that he readily endured torture. So does the American
 
-athlete endure torture. Not only the self-sacrifice but the solemnity of
+athlete endure torture. Not only the [[Self-Sacrifice|self-sacrifice]] but the solemnity of
 
 the American athlete is like that of the American Indian. The athletes
 
 in the States have the attitude of the athletes among the Spartans, the
 
-great historical nation without a sense of humour. They suffer an
+great historical nation without a sense of [[Humour|humour]]. They suffer an
 
-ascetic régime not to be matched in any monasticism and hardly in any
+[[ascetic]] régime not to be matched in any monasticism and hardly in any
 
 militarism. If any tradition of these things remains in a saner age,
 
 they will probably be remembered as a mysterious religious order of
 
-fakirs or dancing dervishes, who shaved their heads and fasted in honour
+fakirs or dancing dervishes, who shaved their heads and fasted in [[Honour|honour]]
 
 of Hercules or Castor and Pollux. And that is really the spiritual
 
@@ -78,7 +78,7 @@ that Americans are so stupid as not to know that cocoa-nuts are only
 
 cocoa-nuts and paper boats only made of paper. Americans are, on an
 
-average, rather more intelligent than Englishmen; and they are well
+average, rather more intelligent than Englishmen; and they are [[Well|well]]
 
 aware that Hercules is a myth and that Mrs. Asquith is something of a
 
@@ -92,15 +92,15 @@ people for being excited. An American so struggling for some
 
 disproportionate trifle (like one of my lectures) really feels in a
 
-mystical way that he is right, because it is his whole morality to be
+mystical way that he is right, because it is his whole [[morality]] to be
 
 keen. So long as he wants something very much, whatever it is, he feels
 
-he has his conscience behind him, and the common sentiment of society
+he has his [[Conscience|conscience]] behind him, and the common sentiment of society
 
 behind him, and God and the whole universe behind him. Wedged on one leg
 
-in a hot crowd at a trivial lecture, he has self-respect; his dignity
+in a hot crowd at a trivial lecture, he has [[Self|self]]-respect; his dignity
 
 is at rest. That is what he means when he says he is bound to come to
 
@@ -116,7 +116,7 @@ lark that he should think it a lark; that he should laugh at it even
 
 when he does it. Being English myself, I like it; but being English
 
-myself, I know it is connected with weaknesses as well as merits. In its
+myself, I know it is connected with weaknesses as [[Well|well]] as merits. In its
 
 irony there is condescension and therefore embarrassment. This patronage
 
@@ -126,9 +126,9 @@ tradition of society. The larks are a variant of laziness because of
 
 leisure; and the leisure is a variant of the security and even supremacy
 
-of the gentleman. When an undergraduate at Oxford smashes half a hundred
+of the gentleman. When an undergraduate at [[Oxford]] smashes half a hundred
 
-windows he is well aware that the incident is merely a trifle. He can be
+windows he is [[Well|well]] aware that the incident is merely a trifle. He can be
 
 trusted to explain to his parents and guardians that it was merely a
 
@@ -148,11 +148,11 @@ entirely commonplace; though the owners of the windows may possibly not
 
 think so. This rather indescribable element runs through a hundred
 
-English things, as in the love of bathos shown even in the sound of
+English things, as in the [[Love|love]] of bathos shown even in the sound of
 
-proper names; so that even the yearning lover in a lyric yearns for
+proper names; so that even the yearning [[Lover|lover]] in a [[Lyric|lyric]] yearns for
 
-somebody named Sally rather than Salome, and for a place called Wapping
+somebody named Sally rather than [[Salome]], and for a place called Wapping
 
 rather than a place called Westermain. Even in the relapse into
 
@@ -180,9 +180,9 @@ relaxation but a laxity. Finally, this is shown in the fact that he only
 
 smashes windows when he is in the mood to smash windows; when some
 
-fortunate conjunction of stars and all the tints and nuances of nature
+fortunate conjunction of [[Stars|stars]] and all the tints and nuances of [[Nature|nature]]
 
-whisper to him that it would be well to smash windows. But the American
+whisper to him that it would be [[Well|well]] to smash windows. But the American
 
 is always ready, at any moment, to waste his energies on the wilder and
 

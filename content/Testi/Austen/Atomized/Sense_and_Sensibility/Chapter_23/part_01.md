@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 23 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 23 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,21 +24,21 @@ However small Elinor’s general dependence on Lucy’s veracity might be,
 
 it was impossible for her on serious reflection to suspect it in the
 
-present case, where no temptation could be answerable to the folly of
+present case, where no [[Temptation|temptation]] could be answerable to the folly of
 
 inventing a falsehood of such a description. What Lucy had asserted to
 
-be true, therefore, Elinor could not, dared not longer doubt; supported
+be true, therefore, Elinor could not, dared not longer [[Doubt|doubt]]; supported
 
 as it was too on every side by such probabilities and proofs, and
 
 contradicted by nothing but her own wishes. Their opportunity of
 
-acquaintance in the house of Mr. Pratt was a foundation for the rest,
+acquaintance in the [[house]] of Mr. Pratt was a foundation for the rest,
 
 at once indisputable and alarming; and Edward’s visit near Plymouth,
 
-his melancholy state of mind, his dissatisfaction at his own prospects,
+his [[Melancholy|melancholy]] state of mind, his dissatisfaction at his own prospects,
 
 his uncertain behaviour towards herself, the intimate knowledge of the
 
@@ -46,13 +46,13 @@ Miss Steeles as to Norland and their family connections, which had
 
 often surprised her, the picture, the letter, the ring, formed
 
-altogether such a body of evidence, as overcame every fear of
+altogether such a [[Body|body]] of evidence, as overcame every [[Fear|fear]] of
 
 condemning him unfairly, and established as a fact, which no partiality
 
 could set aside, his ill-treatment of herself.—Her resentment of such
 
-behaviour, her indignation at having been its dupe, for a short time
+behaviour, her indignation at having been its dupe, for a short [[Time|time]]
 
 made her feel only for herself; but other ideas, other considerations,
 
@@ -68,9 +68,9 @@ She could not be deceived in that. Her mother, sisters, Fanny, all had
 
 been conscious of his regard for her at Norland; it was not an illusion
 
-of her own vanity. He certainly loved her. What a softener of the heart
+of her own [[Vanity|vanity]]. He certainly loved her. What a softener of the heart
 
-was this persuasion! How much could it not tempt her to forgive! He had
+was this [[Persuasion|persuasion]]! How much could it not tempt her to forgive! He had
 
 been blamable, highly blamable, in remaining at Norland after he first
 
@@ -84,13 +84,13 @@ imprudence had made her miserable for a while; but it seemed to have
 
 deprived himself of all chance of ever being otherwise. She might in
 
-time regain tranquillity; but _he_, what had he to look forward to?
+[[Time|time]] regain tranquillity; but _he_, what had he to look forward to?
 
-Could he ever be tolerably happy with Lucy Steele; could he, were his
+Could he ever be tolerably happy with [[Lucy Steele]]; could he, were his
 
 affection for herself out of the question, with his integrity, his
 
-delicacy, and well-informed mind, be satisfied with a wife like
+delicacy, and [[Well|well]]-informed mind, be satisfied with a wife like
 
 her—illiterate, artful, and selfish?
 
@@ -98,17 +98,17 @@ her—illiterate, artful, and selfish?
 
 The youthful infatuation of nineteen would naturally blind him to every
 
-thing but her beauty and good nature; but the four succeeding
+thing but her [[Beauty|beauty]] and good [[Nature|nature]]; but the four succeeding
 
 years—years, which if rationally spent, give such improvement to the
 
-understanding, must have opened his eyes to her defects of education,
+understanding, must have opened his eyes to her defects of [[Education|education]],
 
-while the same period of time, spent on her side in inferior society
+while the same period of [[Time|time]], spent on her side in inferior society
 
 and more frivolous pursuits, had perhaps robbed her of that simplicity
 
-which might once have given an interesting character to her beauty.
+which might once have given an interesting character to her [[Beauty|beauty]].
 
 
 
@@ -122,7 +122,7 @@ connections, and probably inferior in fortune to herself. These
 
 difficulties, indeed, with a heart so alienated from Lucy, might not
 
-press very hard upon his patience; but melancholy was the state of the
+press very hard upon his patience; but [[Melancholy|melancholy]] was the state of the
 
 person by whom the expectation of family opposition and unkindness,
 
@@ -140,9 +140,9 @@ belief that Edward had done nothing to forfeit her esteem, she thought
 
 she could even now, under the first smart of the heavy blow, command
 
-herself enough to guard every suspicion of the truth from her mother
+herself enough to guard every suspicion of the [[Truth|truth]] from her mother
 
-and sisters. And so well was she able to answer her own expectations,
+and sisters. And so [[Well|well]] was she able to answer her own expectations,
 
 that when she joined them at dinner only two hours after she had first
 
@@ -152,13 +152,13 @@ supposed from the appearance of the sisters, that Elinor was mourning
 
 in secret over obstacles which must divide her for ever from the object
 
-of her love, and that Marianne was internally dwelling on the
+of her [[Love|love]], and that Marianne was internally dwelling on the
 
 perfections of a man, of whose whole heart she felt thoroughly
 
 possessed, and whom she expected to see in every carriage which drove
 
-near their house.
+near their [[house]].
 
 
 
@@ -184,11 +184,11 @@ From their counsel, or their conversation, she knew she could receive
 
 no assistance, their tenderness and sorrow must add to her distress,
 
-while her self-command would neither receive encouragement from their
+while her [[Self|self]]-command would neither receive encouragement from their
 
-example nor from their praise. She was stronger alone, and her own good
+example nor from their praise. She was stronger [[Alone|alone]], and her own good
 
-sense so well supported her, that her firmness was as unshaken, her
+sense so [[Well|well]] supported her, that her firmness was as unshaken, her
 
 appearance of cheerfulness as invariable, as with regrets so poignant
 

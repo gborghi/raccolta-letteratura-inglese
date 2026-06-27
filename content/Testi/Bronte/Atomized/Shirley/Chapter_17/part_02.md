@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 17 (part 2)"
+title: "[[Shirley]] — Chapter 17 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Nonconformists, and, it was said, drank more water in that one afternoon
+Nonconformists, and, it was said, drank more [[Water|water]] in that one afternoon
 
 than he had swallowed for a twelvemonth before. Mr. Hall had taken care
 
@@ -26,7 +26,7 @@ and Mr. Helstone shook hands heartily when they had fairly got the whole
 
 party through the lane. The curates began to exult, but Mr. Helstone
 
-presently put the curb on their innocent spirits. He remarked that they
+presently put the curb on their [[Innocent|innocent]] spirits. He remarked that they
 
 never had sense to know what to say, and had better hold their tongues;
 
@@ -48,15 +48,15 @@ a brief grace was pronounced by Mr. Hall and sung by the children. Their
 
 young voices sounded melodious, even touching, in the open air. Large
 
-currant buns and hot, well-sweetened tea were then administered in the
+currant buns and hot, [[Well|well]]-sweetened tea were then administered in the
 
 proper spirit of liberality. No stinting was permitted on this day, at
 
-least; the rule for each child's allowance being that it was to have
+least; the rule for each [[Child|child]]'s allowance being that it was to have
 
 about twice as much as it could possibly eat, thus leaving a reserve to
 
-be carried home for such as age, sickness, or other impediment prevented
+be carried [[Home|home]] for such as age, sickness, or other impediment prevented
 
 from coming to the feast. Buns and beer circulated, meantime, amongst
 
@@ -82,9 +82,9 @@ smartness and daintiness of dress, and many handsome forms were seen
 
 amongst the younger ones. About half a score were cutting bread and
 
-butter, another half-score supplying hot water, brought from the coppers
+butter, another half-score supplying hot [[Water|water]], brought from the coppers
 
-of the rector's kitchen. The profusion of flowers and evergreens
+of the rector's kitchen. The profusion of [[Flowers|flowers]] and evergreens
 
 decorating the white walls, the show of silver teapots and bright
 
@@ -94,7 +94,7 @@ flitting about everywhere, formed altogether a refreshing and lively
 
 spectacle. Everybody talked, not very loudly, but merrily, and the
 
-canary birds sang shrill in their high-hung cages.
+canary [[Birds|birds]] sang shrill in their high-hung cages.
 
 
 
@@ -124,9 +124,9 @@ now, as she rearranged the cups and spoons before her, whispered to him
 
 in a low voice remarks on the events of the day. He looked a little
 
-grave about what had taken place in Royd Lane, and she tried to smile
+[[Grave|grave]] about what had taken place in Royd Lane, and she tried to smile
 
-him out of his seriousness. Miss Keeldar sat near--for a wonder, neither
+him out of his seriousness. Miss Keeldar sat near--for a [[Wonder|wonder]], neither
 
 laughing nor talking; on the contrary, very still, and gazing round her
 
@@ -138,7 +138,7 @@ satin dress over an undue portion of the bench, or laid her gloves or
 
 her embroidered handkerchief upon it. Caroline noticed this _manège_ at
 
-last, and asked her what friend she expected. Shirley bent towards her,
+last, and asked her what friend she expected. [[Shirley]] bent towards her,
 
 almost touched her ear with her rosy lips, and whispered with a musical
 
@@ -146,7 +146,7 @@ softness that often characterized her tones when what she said tended
 
 even remotely to stir some sweet secret source of feeling in her heart,
 
-"I expect Mr. Moore. I saw him last night, and I made him promise to
+"I expect Mr. Moore. I saw him last [[Night|night]], and I made him promise to
 
 come with his sister, and to sit at our table. He won't fail me, I feel
 
@@ -178,7 +178,7 @@ old gentleman, too, had publicly declared that the Fieldhead estate and
 
 the De Walden estate were delightfully _contagious_--a malapropism which
 
-rumour had not failed to repeat to Shirley.
+rumour had not failed to repeat to [[Shirley]].
 
 
 
@@ -188,7 +188,7 @@ Moore," her heart yet beat and her cheek yet glowed with it, when a note
 
 from the organ pealed above the confused hum of the place. Dr. Boultby,
 
-Mr. Helstone, and Mr. Hall rose, so did all present, and grace was sung
+Mr. Helstone, and Mr. Hall [[Rose|rose]], so did all present, and grace was sung
 
 to the accompaniment of the music; and then tea began. She was kept too
 

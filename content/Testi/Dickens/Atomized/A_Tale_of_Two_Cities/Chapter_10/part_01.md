@@ -25,28 +25,28 @@ public enemy was not a correspondence of to-day, or of yesterday, or
 even of last year, or of the year before. That, it was certain the
 prisoner had, for longer than that, been in the habit of passing and
 repassing between France and England, on secret business of which
-he could give no honest account. That, if it were in the nature of
+he could give no honest account. That, if it were in the [[Nature|nature]] of
 traitorous ways to thrive (which happily it never was), the real
-wickedness and guilt of his business might have remained undiscovered.
-That Providence, however, had put it into the heart of a person who
-was beyond fear and beyond reproach, to ferret out the nature of the
+wickedness and [[Guilt|guilt]] of his business might have remained undiscovered.
+That [[Providence]], however, had put it into the heart of a person who
+was beyond [[Fear|fear]] and beyond reproach, to ferret out the [[Nature|nature]] of the
 prisoner’s schemes, and, struck with horror, to disclose them to his
 Majesty’s Chief Secretary of State and most honourable Privy Council.
 That, this patriot would be produced before them. That, his position and
-attitude were, on the whole, sublime. That, he had been the prisoner’s
+attitude were, on the whole, [[Sublime|sublime]]. That, he had been the prisoner’s
 friend, but, at once in an auspicious and an evil hour detecting his
 infamy, had resolved to immolate the traitor he could no longer cherish
 in his bosom, on the sacred altar of his country. That, if statues
-were decreed in Britain, as in ancient Greece and Rome, to public
+were decreed in Britain, as in [[Ancient Greece|ancient Greece]] and Rome, to public
 benefactors, this shining citizen would assuredly have had one. That, as
 they were not so decreed, he probably would not have one. That, Virtue,
-as had been observed by the poets (in many passages which he well
+as had been observed by the poets (in many passages which he [[Well|well]]
 knew the jury would have, word for word, at the tips of their tongues;
 whereat the jury’s countenances displayed a guilty consciousness that
 they knew nothing about the passages), was in a manner contagious; more
-especially the bright virtue known as patriotism, or love of country.
+especially the bright virtue known as patriotism, or [[Love|love]] of country.
 That, the lofty example of this immaculate and unimpeachable witness
-for the Crown, to refer to whom however unworthily was an honour, had
+for the [[Crown]], to refer to whom however unworthily was an [[Honour|honour]], had
 communicated itself to the prisoner’s servant, and had engendered in him
 a holy determination to examine his master’s table-drawers and pockets,
 and secrete his papers. That, he (Mr. Attorney-General) was prepared to
@@ -58,7 +58,7 @@ on the jury to come and do likewise. That, the evidence of these two
 witnesses, coupled with the documents of their discovering that would be
 produced, would show the prisoner to have been furnished with lists of
 his Majesty’s forces, and of their disposition and preparation, both by
-sea and land, and would leave no doubt that he had habitually conveyed
+sea and land, and would leave no [[Doubt|doubt]] that he had habitually conveyed
 such information to a hostile power. That, these lists could not be
 proved to be in the prisoner’s handwriting; but that it was all the
 same; that, indeed, it was rather the better for the prosecution, as
@@ -76,31 +76,31 @@ of their children laying their heads upon their pillows; in short, that
 there never more could be, for them or theirs, any laying of heads upon
 pillows at all, unless the prisoner’s head was taken off. That head
 Mr. Attorney-General concluded by demanding of them, in the name of
-everything he could think of with a round turn in it, and on the faith
+everything he could think of with a round turn in it, and on the [[Faith|faith]]
 of his solemn asseveration that he already considered the prisoner as
 good as dead and gone.
 
-When the Attorney-General ceased, a buzz arose in the court as if
+When the Attorney-General ceased, a buzz arose in the [[Court|court]] as if
 a cloud of great blue-flies were swarming about the prisoner, in
 anticipation of what he was soon to become. When toned down again, the
 unimpeachable patriot appeared in the witness-box.
 
 Mr. Solicitor-General then, following his leader’s lead, examined the
-patriot: John Barsad, gentleman, by name. The story of his pure soul was
+patriot: John Barsad, gentleman, by name. The story of his pure [[Soul|soul]] was
 exactly what Mr. Attorney-General had described it to be--perhaps, if
 it had a fault, a little too exactly. Having released his noble bosom
 of its burden, he would have modestly withdrawn himself, but that the
 wigged gentleman with the papers before him, sitting not far from Mr.
 Lorry, begged to ask him a few questions. The wigged gentleman sitting
-opposite, still looking at the ceiling of the court.
+opposite, still looking at the ceiling of the [[Court|court]].
 
 Had he ever been a spy himself? No, he scorned the base insinuation.
 What did he live upon? His property. Where was his property? He didn’t
 precisely remember where it was. What was it? No business of anybody’s.
 Had he inherited it? Yes, he had. From whom? Distant relation. Very
-distant? Rather. Ever been in prison? Certainly not. Never in a debtors’
-prison? Didn’t see what that had to do with it. Never in a debtors’
-prison?--Come, once again. Never? Yes. How many times? Two or three
+distant? Rather. Ever been in [[Prison|prison]]? Certainly not. Never in a debtors’
+[[Prison|prison]]? Didn’t see what that had to do with it. Never in a debtors’
+[[Prison|prison]]?--Come, once again. Never? Yes. How many times? Two or three
 times. Not five or six? Perhaps. Of what profession? Gentleman. Ever
 been kicked? Might have been. Frequently? No. Ever kicked downstairs?
 Decidedly not; once received a kick on the top of a staircase, and fell
@@ -113,7 +113,7 @@ Ever pay him? No. Was not this intimacy with the prisoner, in reality a
 very slight one, forced upon the prisoner in coaches, inns, and packets?
 No. Sure he saw the prisoner with these lists? Certain. Knew no more
 about the lists? No. Had not procured them himself, for instance? No.
-Expect to get anything by this evidence? No. Not in regular government
+Expect to get anything by this evidence? No. Not in regular [[government]]
 pay and employment, to lay traps? Oh dear no. Or to do anything? Oh dear
 no. Swear that? Over and over again. No motives but motives of sheer
 patriotism? None whatever.

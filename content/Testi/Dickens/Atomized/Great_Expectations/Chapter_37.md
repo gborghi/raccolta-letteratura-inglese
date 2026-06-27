@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 37"
+title: "[[Great Expectations]] — Chapter 37"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,16 +17,16 @@ tags:
 Chapter XXXVII.
 
 
-Deeming Sunday the best day for taking Mr. Wemmick’s Walworth
-sentiments, I devoted the next ensuing Sunday afternoon to a pilgrimage
-to the Castle. On arriving before the battlements, I found the Union
+Deeming [[Sunday]] the best day for taking Mr. Wemmick’s Walworth
+sentiments, I devoted the next ensuing [[Sunday]] afternoon to a pilgrimage
+to the [[Castle]]. On arriving before the battlements, I found the [[Union]]
 Jack flying and the drawbridge up; but undeterred by this show of
 defiance and resistance, I rang at the gate, and was admitted in a most
 pacific manner by the Aged.
 
 “My son, sir,” said the old man, after securing the drawbridge, “rather
 had it in his mind that you might happen to drop in, and he left word
-that he would soon be home from his afternoon’s walk. He is very
+that he would soon be [[Home|home]] from his afternoon’s walk. He is very
 regular in his walks, is my son. Very regular in everything, is my
 son.”
 
@@ -57,7 +57,7 @@ meaning understood.
 
 “No,” said the old gentleman; “the warehousing, the warehousing. First,
 over yonder;” he appeared to mean up the chimney, but I believe he
-intended to refer me to Liverpool; “and then in the City of London
+intended to refer me to Liverpool; “and then in the [[City]] of [[London]]
 here. However, having an infirmity—for I am hard of hearing, sir—”
 
 I expressed in pantomime the greatest astonishment.
@@ -73,7 +73,7 @@ me to say anything that would have amused him half as much as this
 imaginary pleasantry, when I was startled by a sudden click in the wall
 on one side of the chimney, and the ghostly tumbling open of a little
 wooden flap with “JOHN” upon it. The old man, following my eyes, cried
-with great triumph, “My son’s come home!” and we both went out to the
+with great triumph, “My son’s come [[Home|home]]!” and we both went out to the
 drawbridge.
 
 It was worth any money to see Wemmick waving a salute to me from the
@@ -91,7 +91,7 @@ before and behind, made her figure very like a boy’s kite; and I might
 have pronounced her gown a little too decidedly orange, and her gloves
 a little too intensely green. But she seemed to be a good sort of
 fellow, and showed a high regard for the Aged. I was not long in
-discovering that she was a frequent visitor at the Castle; for, on our
+discovering that she was a frequent visitor at the [[Castle]]; for, on our
 going in, and my complimenting Wemmick on his ingenious contrivance for
 announcing himself to the Aged, he begged me to give my attention for a
 moment to the other side of the chimney, and disappeared. Presently
@@ -100,7 +100,7 @@ Skiffins” on it; then Miss Skiffins shut up and John tumbled open; then
 Miss Skiffins and John both tumbled open together, and finally shut up
 together. On Wemmick’s return from working these mechanical appliances,
 I expressed the great admiration with which I regarded them, and he
-said, “Well, you know, they’re both pleasant and useful to the Aged.
+said, “[[Well]], you know, they’re both pleasant and useful to the Aged.
 And by George, sir, it’s a thing worth mentioning, that of all the
 people who come to this gate, the secret of those pulls is only known
 to the Aged, Miss Skiffins, and me!”
@@ -113,27 +113,27 @@ gloves during the evening as an outward and visible sign that there was
 company), Wemmick invited me to take a walk with him round the
 property, and see how the island looked in wintertime. Thinking that he
 did this to give me an opportunity of taking his Walworth sentiments, I
-seized the opportunity as soon as we were out of the Castle.
+seized the opportunity as soon as we were out of the [[Castle]].
 
 Having thought of the matter with care, I approached my subject as if I
 had never hinted at it before. I informed Wemmick that I was anxious in
-behalf of Herbert Pocket, and I told him how we had first met, and how
-we had fought. I glanced at Herbert’s home, and at his character, and
+behalf of [[Herbert Pocket]], and I told him how we had first met, and how
+we had fought. I glanced at Herbert’s [[Home|home]], and at his character, and
 at his having no means but such as he was dependent on his father for;
 those, uncertain and unpunctual. I alluded to the advantages I had
 derived in my first rawness and ignorance from his society, and I
 confessed that I feared I had but ill repaid them, and that he might
-have done better without me and my expectations. Keeping Miss Havisham
+have done better without me and my expectations. Keeping [[Miss Havisham]]
 in the background at a great distance, I still hinted at the
 possibility of my having competed with him in his prospects, and at the
-certainty of his possessing a generous soul, and being far above any
+certainty of his possessing a generous [[Soul|soul]], and being far above any
 mean distrusts, retaliations, or designs. For all these reasons (I told
 Wemmick), and because he was my young companion and friend, and I had a
 great affection for him, I wished my own good fortune to reflect some
 rays upon him, and therefore I sought advice from Wemmick’s experience
 and knowledge of men and affairs, how I could best try with my
 resources to help Herbert to some present income,—say of a hundred a
-year, to keep him in good hope and heart,—and gradually to buy him on
+year, to keep him in good [[Hope|hope]] and heart,—and gradually to buy him on
 to some small partnership. I begged Wemmick, in conclusion, to
 understand that my help must always be rendered without Herbert’s
 knowledge or suspicion, and that there was no one else in the world
@@ -143,7 +143,7 @@ must be troublesome to you; but that is your fault, in having ever
 brought me here.”
 
 Wemmick was silent for a little while, and then said with a kind of
-start, “Well you know, Mr. Pip, I must tell you one thing. This is
+start, “[[Well]] you know, Mr. Pip, I must tell you one thing. This is
 devilish good of you.”
 
 “Say you’ll help me to be good then,” said I.
@@ -164,7 +164,7 @@ our private and personal capacity, still it may be mentioned that there
 _are_ Newgate cobwebs about, and it brushes them away.”
 
 After a little further conversation to the same effect, we returned
-into the Castle where we found Miss Skiffins preparing tea. The
+into the [[Castle]] where we found Miss Skiffins preparing tea. The
 responsible duty of making the toast was delegated to the Aged, and
 that excellent old gentleman was so intent upon it that he seemed to me
 in some danger of melting his eyes. It was no nominal meal that we were
@@ -172,20 +172,20 @@ going to make, but a vigorous reality. The Aged prepared such a
 hay-stack of buttered toast, that I could scarcely see him over it as
 it simmered on an iron stand hooked on to the top-bar; while Miss
 Skiffins brewed such a jorum of tea, that the pig in the back premises
-became strongly excited, and repeatedly expressed his desire to
+became strongly excited, and repeatedly expressed his [[Desire|desire]] to
 participate in the entertainment.
 
-The flag had been struck, and the gun had been fired, at the right
-moment of time, and I felt as snugly cut off from the rest of Walworth
+The [[Flag|flag]] had been struck, and the gun had been fired, at the right
+moment of [[Time|time]], and I felt as snugly cut off from the rest of Walworth
 as if the moat were thirty feet wide by as many deep. Nothing disturbed
-the tranquillity of the Castle, but the occasional tumbling open of
+the tranquillity of the [[Castle]], but the occasional tumbling open of
 John and Miss Skiffins: which little doors were a prey to some
 spasmodic infirmity that made me sympathetically uncomfortable until I
-got used to it. I inferred from the methodical nature of Miss
-Skiffins’s arrangements that she made tea there every Sunday night; and
+got used to it. I inferred from the methodical [[Nature|nature]] of Miss
+Skiffins’s arrangements that she made tea there every [[Sunday]] [[Night|night]]; and
 I rather suspected that a classic brooch she wore, representing the
 profile of an undesirable female with a very straight nose and a very
-new moon, was a piece of portable property that had been given her by
+new [[Moon|moon]], was a piece of portable property that had been given her by
 Wemmick.
 
 We ate the whole of the toast, and drank tea in proportion, and it was
@@ -193,9 +193,9 @@ delightful to see how warm and greasy we all got after it. The Aged
 especially, might have passed for some clean old chief of a savage
 tribe, just oiled. After a short pause of repose, Miss Skiffins—in the
 absence of the little servant who, it seemed, retired to the bosom of
-her family on Sunday afternoons—washed up the tea-things, in a trifling
+her family on [[Sunday]] afternoons—washed up the tea-things, in a trifling
 lady-like amateur manner that compromised none of us. Then, she put on
-her gloves again, and we drew round the fire, and Wemmick said, “Now,
+her gloves again, and we drew round the [[Fire|fire]], and Wemmick said, “Now,
 Aged Parent, tip us the paper.”
 
 Wemmick explained to me while the Aged got his spectacles out, that
@@ -208,7 +208,7 @@ you, Aged P.?”
 spoken to.
 
 “Only tip him a nod every now and then when he looks off his paper,”
-said Wemmick, “and he’ll be as happy as a king. We are all attention,
+said Wemmick, “and he’ll be as happy as a [[King|king]]. We are all attention,
 Aged One.”
 
 “All right, John, all right!” returned the cheerful old man, so busy
@@ -227,7 +227,7 @@ resumed again.
 As Wemmick and Miss Skiffins sat side by side, and as I sat in a
 shadowy corner, I observed a slow and gradual elongation of Mr.
 Wemmick’s mouth, powerfully suggestive of his slowly and gradually
-stealing his arm round Miss Skiffins’s waist. In course of time I saw
+stealing his arm round Miss Skiffins’s waist. In course of [[Time|time]] I saw
 his hand appear on the other side of Miss Skiffins; but at that moment
 Miss Skiffins neatly stopped him with the green glove, unwound his arm
 again as if it were an article of dress, and with the greatest
@@ -244,18 +244,18 @@ enthralling and almost painful, I saw his hand appear on the other side
 of Miss Skiffins. Instantly, Miss Skiffins stopped it with the neatness
 of a placid boxer, took off that girdle or cestus as before, and laid
 it on the table. Taking the table to represent the path of virtue, I am
-justified in stating that during the whole time of the Aged’s reading,
+justified in stating that during the whole [[Time|time]] of the Aged’s reading,
 Wemmick’s arm was straying from the path of virtue and being recalled
 to it by Miss Skiffins.
 
-At last, the Aged read himself into a light slumber. This was the time
+At last, the Aged read himself into a light slumber. This was the [[Time|time]]
 for Wemmick to produce a little kettle, a tray of glasses, and a black
 bottle with a porcelain-topped cork, representing some clerical
 dignitary of a rubicund and social aspect. With the aid of these
 appliances we all had something warm to drink, including the Aged, who
 was soon awake again. Miss Skiffins mixed, and I observed that she and
 Wemmick drank out of one glass. Of course I knew better than to offer
-to see Miss Skiffins home, and under the circumstances I thought I had
+to see Miss Skiffins [[Home|home]], and under the circumstances I thought I had
 best go first; which I did, taking a cordial leave of the Aged, and
 having passed a pleasant evening.
 
@@ -264,11 +264,11 @@ stating that he hoped he had made some advance in that matter
 appertaining to our private and personal capacities, and that he would
 be glad if I could come and see him again upon it. So, I went out to
 Walworth again, and yet again, and yet again, and I saw him by
-appointment in the City several times, but never held any communication
+appointment in the [[City]] several times, but never held any communication
 with him on the subject in or near Little Britain. The upshot was, that
 we found a worthy young merchant or shipping-broker, not long
 established in business, who wanted intelligent help, and who wanted
-capital, and who in due course of time and receipt would want a
+capital, and who in due course of [[Time|time]] and receipt would want a
 partner. Between him and me, secret articles were signed of which
 Herbert was the subject, and I paid him half of my five hundred pounds
 down, and engaged for sundry other payments: some, to fall due at
@@ -278,20 +278,20 @@ pervaded it throughout, but never appeared in it.
 
 The whole business was so cleverly managed, that Herbert had not the
 least suspicion of my hand being in it. I never shall forget the
-radiant face with which he came home one afternoon, and told me, as a
+radiant face with which he came [[Home|home]] one afternoon, and told me, as a
 mighty piece of news, of his having fallen in with one Clarriker (the
 young merchant’s name), and of Clarriker’s having shown an
 extraordinary inclination towards him, and of his belief that the
 opening had come at last. Day by day as his hopes grew stronger and his
 face brighter, he must have thought me a more and more affectionate
-friend, for I had the greatest difficulty in restraining my tears of
+friend, for I had the greatest difficulty in restraining my [[Tears|tears]] of
 triumph when I saw him so happy. At length, the thing being done, and
-he having that day entered Clarriker’s House, and he having talked to
-me for a whole evening in a flush of pleasure and success, I did really
+he having that day entered Clarriker’s [[house|House]], and he having talked to
+me for a whole evening in a flush of pleasure and [[success]], I did really
 cry in good earnest when I went to bed, to think that my expectations
 had done some good to somebody.
 
 A great event in my life, the turning point of my life, now opens on my
 view. But, before I proceed to narrate it, and before I pass on to all
-the changes it involved, I must give one chapter to Estella. It is not
+the changes it involved, I must give one chapter to [[Estella]]. It is not
 much to give to the theme that so long filled my heart.

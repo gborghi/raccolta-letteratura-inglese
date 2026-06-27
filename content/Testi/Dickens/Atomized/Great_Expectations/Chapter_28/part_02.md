@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 28 (part 2)"
+title: "[[Great Expectations]] — Chapter 28 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -23,7 +23,7 @@ despised.
 At length, it was voted that there was no help for the angry gentleman,
 and that he must either go in his chance company or remain behind. So
 he got into his place, still making complaints, and the keeper got into
-the place next him, and the convicts hauled themselves up as well as
+the place next him, and the convicts hauled themselves up as [[Well|well]] as
 they could, and the convict I had recognised sat behind me with his
 breath on the hair of my head.
 
@@ -40,7 +40,7 @@ in my shrinking endeavours to fend him off.
 
 The weather was miserably raw, and the two cursed the cold. It made us
 all lethargic before we had gone far, and when we had left the Half-way
-House behind, we habitually dozed and shivered and were silent. I dozed
+[[house|House]] behind, we habitually dozed and shivered and were silent. I dozed
 off, myself, in considering the question whether I ought to restore a
 couple of pounds sterling to this creature before losing sight of him,
 and how it could best be done. In the act of dipping forward as if I
@@ -49,9 +49,9 @@ question up again.
 
 But I must have lost it longer than I had thought, since, although I
 could recognise nothing in the darkness and the fitful lights and
-shadows of our lamps, I traced marsh country in the cold damp wind that
+shadows of our lamps, I traced marsh country in the cold damp [[Wind|wind]] that
 blew at us. Cowering forward for warmth and to make me a screen against
-the wind, the convicts were closer to me than before. The very first
+the [[Wind|wind]], the convicts were closer to me than before. The very first
 words I heard them interchange as I became conscious, were the words of
 my own thought, “Two One Pound notes.”
 
@@ -66,7 +66,7 @@ had ’em here.”
 “Two one pound notes, or friends?”
 
 “Two one pound notes. I’d sell all the friends I ever had for one, and
-think it a blessed good bargain. Well? So he says—?”
+think it a blessed good bargain. [[Well]]? So he says—?”
 
 “So he says,” resumed the convict I had recognised,—“it was all said
 and done in half a minute, behind a pile of timber in the
@@ -74,17 +74,17 @@ Dock-yard,—‘You’re a-going to be discharged?’ Yes, I was. Would I find
 out that boy that had fed him and kep his secret, and give him them two
 one pound notes? Yes, I would. And I did.”
 
-“More fool you,” growled the other. “I’d have spent ’em on a Man, in
+“More [[Fool|fool]] you,” growled the other. “I’d have spent ’em on a Man, in
 wittles and drink. He must have been a green one. Mean to say he knowed
 nothing of you?”
 
 “Not a ha’porth. Different gangs and different ships. He was tried
-again for prison breaking, and got made a Lifer.”
+again for [[Prison|prison]] breaking, and got made a Lifer.”
 
-“And was that—Honour!—the only time you worked out, in this part of the
+“And was that—[[Honour]]!—the only [[Time|time]] you worked out, in this part of the
 country?”
 
-“The only time.”
+“The only [[Time|time]].”
 
 “What might have been your opinion of the place?”
 
@@ -95,9 +95,9 @@ They both execrated the place in very strong language, and gradually
 growled themselves out, and had nothing left to say.
 
 After overhearing this dialogue, I should assuredly have got down and
-been left in the solitude and darkness of the highway, but for feeling
-certain that the man had no suspicion of my identity. Indeed, I was not
-only so changed in the course of nature, but so differently dressed and
+been left in the [[Solitude|solitude]] and darkness of the highway, but for feeling
+certain that the man had no suspicion of my [[Identity|identity]]. Indeed, I was not
+only so changed in the course of [[Nature|nature]], but so differently dressed and
 so differently circumstanced, that it was not at all likely he could
 have known me without accidental help. Still, the coincidence of our
 being together on the coach, was sufficiently strange to fill me with a
@@ -109,21 +109,21 @@ under my feet; I had but to turn a hinge to get it out; I threw it down
 before me, got down after it, and was left at the first lamp on the
 first stones of the town pavement. As to the convicts, they went their
 way with the coach, and I knew at what point they would be spirited off
-to the river. In my fancy, I saw the boat with its convict crew waiting
+to the [[River|river]]. In my fancy, I saw the boat with its convict crew waiting
 for them at the slime-washed stairs,—again heard the gruff “Give way,
-you!” like an order to dogs,—again saw the wicked Noah’s Ark lying out
-on the black water.
+you!” like an order to [[dogs]],—again saw the wicked Noah’s Ark lying out
+on the black [[Water|water]].
 
-I could not have said what I was afraid of, for my fear was altogether
-undefined and vague, but there was great fear upon me. As I walked on
+I could not have said what I was afraid of, for my [[Fear|fear]] was altogether
+undefined and vague, but there was great [[Fear|fear]] upon me. As I walked on
 to the hotel, I felt that a dread, much exceeding the mere apprehension
 of a painful or disagreeable recognition, made me tremble. I am
 confident that it took no distinctness of shape, and that it was the
-revival for a few minutes of the terror of childhood.
+revival for a few minutes of the terror of [[Childhood|childhood]].
 
 The coffee-room at the Blue Boar was empty, and I had not only ordered
 my dinner there, but had sat down to it, before the waiter knew me. As
-soon as he had apologised for the remissness of his memory, he asked me
+soon as he had apologised for the remissness of his [[Memory|memory]], he asked me
 if he should send Boots for Mr. Pumblechook?
 
 “No,” said I, “certainly not.”
@@ -136,17 +136,17 @@ paragraph:—
 
 Our readers will learn, not altogether without interest, in reference
 to the recent romantic rise in fortune of a young artificer in iron of
-this neighbourhood (what a theme, by the way, for the magic pen of our
+this neighbourhood (what a theme, by the way, for the [[Magic|magic]] pen of our
 as yet not universally acknowledged townsman TOOBY, the poet of our
 columns!) that the youth’s earliest patron, companion, and friend, was
 a highly respected individual not entirely unconnected with the corn
 and seed trade, and whose eminently convenient and commodious business
 premises are situate within a hundred miles of the High Street. It is
 not wholly irrespective of our personal feelings that we record HIM as
-the Mentor of our young Telemachus, for it is good to know that our
+the [[Mentor]] of our young Telemachus, for it is good to know that our
 town produced the founder of the latter’s fortunes. Does the
 thought-contracted brow of the local Sage or the lustrous eye of local
-Beauty inquire whose fortunes? We believe that Quintin Matsys was the
+[[Beauty]] inquire whose fortunes? We believe that Quintin Matsys was the
 BLACKSMITH of Antwerp. VERB. SAP.
 
 I entertain a conviction, based upon large experience, that if in the

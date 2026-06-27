@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Death Of An Artist"
+title: "Man Orthodox — [[Death]] Of An [[artist|Artist]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-DEATH OF AN ARTIST
+[[Death|DEATH]] OF AN [[artist|ARTIST]]

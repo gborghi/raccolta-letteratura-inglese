@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 2 (part 1)"
+title: "[[Great Expectations]] — Chapter 2 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,16 +17,16 @@ tags:
 Chapter II.
 
 
-My sister, Mrs. Joe Gargery, was more than twenty years older than I,
+My sister, Mrs. [[Joe Gargery]], was more than twenty years older than I,
 and had established a great reputation with herself and the neighbours
-because she had brought me up “by hand.” Having at that time to find
+because she had brought me up “by hand.” Having at that [[Time|time]] to find
 out for myself what the expression meant, and knowing her to have a
 hard and heavy hand, and to be much in the habit of laying it upon her
-husband as well as upon me, I supposed that Joe Gargery and I were both
+husband as [[Well|well]] as upon me, I supposed that [[Joe Gargery]] and I were both
 brought up by hand.
 
 She was not a good-looking woman, my sister; and I had a general
-impression that she must have made Joe Gargery marry her by hand. Joe
+impression that she must have made [[Joe Gargery]] marry her by hand. Joe
 was a fair man, with curls of flaxen hair on each side of his smooth
 face, and with eyes of such a very undecided blue that they seemed to
 have somehow got mixed with their own whites. He was a mild,
@@ -34,7 +34,7 @@ good-natured, sweet-tempered, easy-going, foolish, dear fellow,—a sort
 of Hercules in strength, and also in weakness.
 
 My sister, Mrs. Joe, with black hair and eyes, had such a prevailing
-redness of skin that I sometimes used to wonder whether it was possible
+redness of skin that I sometimes used to [[Wonder|wonder]] whether it was possible
 she washed herself with a nutmeg-grater instead of soap. She was tall
 and bony, and almost always wore a coarse apron, fastened over her
 figure behind with two loops, and having a square impregnable bib in
@@ -44,10 +44,10 @@ apron so much. Though I really see no reason why she should have worn
 it at all; or why, if she did wear it at all, she should not have taken
 it off, every day of her life.
 
-Joe’s forge adjoined our house, which was a wooden house, as many of
-the dwellings in our country were,—most of them, at that time. When I
-ran home from the churchyard, the forge was shut up, and Joe was
-sitting alone in the kitchen. Joe and I being fellow-sufferers, and
+Joe’s forge adjoined our [[house]], which was a wooden [[house]], as many of
+the dwellings in our country were,—most of them, at that [[Time|time]]. When I
+ran [[Home|home]] from the churchyard, the forge was shut up, and Joe was
+sitting [[Alone|alone]] in the kitchen. Joe and I being fellow-sufferers, and
 having confidences as such, Joe imparted a confidence to me, the moment
 I raised the latch of the door and peeped in at him opposite to it,
 sitting in the chimney corner.
@@ -60,19 +60,19 @@ out now, making it a baker’s dozen.”
 “Yes, Pip,” said Joe; “and what’s worse, she’s got Tickler with her.”
 
 At this dismal intelligence, I twisted the only button on my waistcoat
-round and round, and looked in great depression at the fire. Tickler
+round and round, and looked in great depression at the [[Fire|fire]]. Tickler
 was a wax-ended piece of cane, worn smooth by collision with my tickled
 frame.
 
 “She sot down,” said Joe, “and she got up, and she made a grab at
 Tickler, and she Ram-paged out. That’s what she did,” said Joe, slowly
-clearing the fire between the lower bars with the poker, and looking at
+clearing the [[Fire|fire]] between the lower bars with the poker, and looking at
 it; “she Ram-paged out, Pip.”
 
 “Has she been gone long, Joe?” I always treated him as a larger species
-of child, and as no more than my equal.
+of [[Child|child]], and as no more than my equal.
 
-“Well,” said Joe, glancing up at the Dutch clock, “she’s been on the
+“[[Well]],” said Joe, glancing up at the Dutch [[Clock|clock]], “she’s been on the
 Ram-page, this last spell, about five minutes, Pip. She’s a-coming! Get
 behind the door, old chap, and have the jack-towel betwixt you.”
 
@@ -107,13 +107,13 @@ It’s bad enough to be a blacksmith’s wife (and him a Gargery) without
 being your mother.”
 
 My thoughts strayed from that question as I looked disconsolately at
-the fire. For the fugitive out on the marshes with the ironed leg, the
+the [[Fire|fire]]. For the fugitive out on the marshes with the ironed leg, the
 mysterious young man, the file, the food, and the dreadful pledge I was
-under to commit a larceny on those sheltering premises, rose before me
+under to commit a larceny on those sheltering premises, [[Rose|rose]] before me
 in the avenging coals.
 
 “Hah!” said Mrs. Joe, restoring Tickler to his station. “Churchyard,
-indeed! You may well say churchyard, you two.” One of us, by the by,
+indeed! You may [[Well|well]] say churchyard, you two.” One of us, by the by,
 had not said it at all. “You’ll drive _me_ to the churchyard betwixt
 you, one of these days, and O, a pr-r-recious pair you’d be without
 me!”

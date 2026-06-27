@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 3 (part 4)"
+title: "[[thursday]] — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-The roar rose like the sea, the hands rose like a forest, and three minutes
-afterwards Mr. Gabriel Syme, of the Secret Police Service, was elected
-to the post of Thursday on the General Council of the Anarchists of Europe.
+The roar [[Rose|rose]] like the sea, the hands [[Rose|rose]] like a forest, and three minutes
+afterwards Mr. [[Gabriel Syme]], of the Secret Police Service, was elected
+to the post of [[thursday|Thursday]] on the General Council of the Anarchists of Europe.
 
-Everyone in the room seemed to feel the tug waiting on the river,
-the sword-stick and the revolver, waiting on the table.
+Everyone in the room seemed to feel the tug waiting on the [[River|river]],
+the [[Sword|sword]]-stick and the revolver, waiting on the table.
 The instant the election was ended and irrevocable, and Syme
 had received the paper proving his election, they all sprang
 to their feet, and the fiery groups moved and mixed in the room.
@@ -39,7 +39,7 @@ parliament have you entrapped me, if it comes to that?
 You made me swear before I made you.  Perhaps we are both doing
 what we think right.  But what we think right is so damned different
 that there can be nothing between us in the way of concession.
-There is nothing possible between us but honour and death,"
+There is nothing possible between us but [[Honour|honour]] and [[Death|death]],"
 and he pulled the great cloak about his shoulders and picked
 up the flask from the table.
 
@@ -50,15 +50,15 @@ With a gesture that revealed the shop-walker, he led Syme down
 a short, iron-bound passage, the still agonised Gregory following
 feverishly at their heels.  At the end of the passage was a door,
 which Buttons opened sharply, showing a sudden blue and silver
-picture of the moonlit river, that looked like a scene in a theatre.
+picture of the moonlit [[River|river]], that looked like a scene in a theatre.
 Close to the opening lay a dark, dwarfish steam-launch, like a baby
 dragon with one red eye.
 
-Almost in the act of stepping on board, Gabriel Syme turned
+Almost in the act of stepping on board, [[Gabriel Syme]] turned
 to the gaping Gregory.
 
-"You have kept your word," he said gently, with his face in shadow.
-"You are a man of honour, and I thank you.  You have kept it even down
+"You have kept your word," he said gently, with his face in [[Shadow|shadow]].
+"You are a man of [[Honour|honour]], and I thank you.  You have kept it even down
 to a small particular.  There was one special thing you promised me
 at the beginning of the affair, and which you have certainly given me
 by the end of it."
@@ -66,4 +66,4 @@ by the end of it."
 "What do you mean?" cried the chaotic Gregory.  "What did I promise you?"
 
 "A very entertaining evening," said Syme, and he made a military salute
-with the sword-stick as the steamboat slid away.
+with the [[Sword|sword]]-stick as the steamboat slid away.

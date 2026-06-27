@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 24"
+title: "[[Agnes Grey]] — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -20,7 +20,7 @@ THE SANDS
 
 Our school was not situated in the heart of the town: on entering A——
 from the north-west there is a row of respectable-looking houses, on
-each side of the broad, white road, with narrow slips of garden-ground
+each side of the broad, white [[Road|road]], with narrow slips of [[Garden|garden]]-ground
 before them, Venetian blinds to the windows, and a flight of steps
 leading to each trim, brass-handled door. In one of the largest of
 these habitations dwelt my mother and I, with such young ladies as our
@@ -28,10 +28,10 @@ friends and the public chose to commit to our charge. Consequently, we
 were a considerable distance from the sea, and divided from it by a
 labyrinth of streets and houses. But the sea was my delight; and I
 would often gladly pierce the town to obtain the pleasure of a walk
-beside it, whether with the pupils, or alone with my mother during the
-vacations. It was delightful to me at all times and seasons, but
+beside it, whether with the pupils, or [[Alone|alone]] with my mother during the
+vacations. It was delightful to me at all times and [[Seasons|seasons]], but
 especially in the wild commotion of a rough sea-breeze, and in the
-brilliant freshness of a summer morning.
+brilliant freshness of a [[Summer|summer]] morning.
 
 I awoke early on the third morning after my return from Ashby Park—the
 sun was shining through the blind, and I thought how pleasant it would
@@ -39,7 +39,7 @@ be to pass through the quiet town and take a solitary ramble on the
 sands while half the world was in bed. I was not long in forming the
 resolution, nor slow to act upon it. Of course I would not disturb my
 mother, so I stole noiselessly downstairs, and quietly unfastened the
-door. I was dressed and out, when the church clock struck a quarter to
+door. I was dressed and out, when the church [[Clock|clock]] struck a quarter to
 six. There was a feeling of freshness and vigour in the very streets;
 and when I got free of the town, when my foot was on the sands and my
 face towards the broad, bright bay, no language can describe the effect
@@ -50,13 +50,13 @@ out at sea—looking, with their clothing of weeds and moss, like little
 grass-grown islands—and above all, on the brilliant, sparkling waves.
 And then, the unspeakable purity—and freshness of the air! There was
 just enough heat to enhance the value of the breeze, and just enough
-wind to keep the whole sea in motion, to make the waves come bounding
+[[Wind|wind]] to keep the whole sea in motion, to make the waves come bounding
 to the shore, foaming and sparkling, as if wild with glee. Nothing else
 was stirring—no living creature was visible besides myself. My
 footsteps were the first to press the firm, unbroken sands;—nothing
-before had trampled them since last night’s flowing tide had
+before had trampled them since last [[Night|night]]’s flowing tide had
 obliterated the deepest marks of yesterday, and left them fair and
-even, except where the subsiding water had left behind it the traces of
+even, except where the subsiding [[Water|water]] had left behind it the traces of
 dimpled pools and little running streams.
 
 Refreshed, delighted, invigorated, I walked along, forgetting all my
@@ -69,12 +69,12 @@ dozen horses and five or six riders: but that need not trouble me, for
 they would not come as far as the low rocks which I was now
 approaching. When I had reached these, and walked over the moist,
 slippery sea-weed (at the risk of floundering into one of the numerous
-pools of clear, salt water that lay between them), to a little mossy
+pools of clear, salt [[Water|water]] that lay between them), to a little mossy
 promontory with the sea splashing round it, I looked back again to see
 who next was stirring. Still, there were only the early grooms with
 their horses, and one gentleman with a little dark speck of a dog
-running before him, and one water-cart coming out of the town to get
-water for the baths. In another minute or two, the distant bathing
+running before him, and one [[Water|water]]-cart coming out of the town to get
+[[Water|water]] for the baths. In another minute or two, the distant bathing
 machines would begin to move, and then the elderly gentlemen of regular
 habits and sober quaker ladies would be coming to take their salutary
 morning walks. But however interesting such a scene might be, I could
@@ -84,8 +84,8 @@ again to delight myself with the sight and the sound of the sea,
 dashing against my promontory—with no prodigious force, for the swell
 was broken by the tangled sea-weed and the unseen rocks beneath;
 otherwise I should soon have been deluged with spray. But the tide was
-coming in; the water was rising; the gulfs and lakes were filling; the
-straits were widening: it was time to seek some safer footing; so I
+coming in; the [[Water|water]] was rising; the gulfs and lakes were filling; the
+straits were widening: it was [[Time|time]] to seek some safer footing; so I
 walked, skipped, and stumbled back to the smooth, wide sands, and
 resolved to proceed to a certain bold projection in the cliffs, and
 then return.
@@ -96,12 +96,12 @@ wire-haired terrier! When I spoke his name, he leapt up in my face and
 yelled for joy. Almost as much delighted as himself, I caught the
 little creature in my arms, and kissed him repeatedly. But how came he
 to be there? He could not have dropped from the sky, or come all that
-way alone: it must be either his master, the rat-catcher, or somebody
+way [[Alone|alone]]: it must be either his master, the rat-catcher, or somebody
 else that had brought him; so, repressing my extravagant caresses, and
 endeavouring to repress his likewise, I looked round, and beheld—Mr.
 Weston!
 
-“Your dog remembers you well, Miss Grey,” said he, warmly grasping the
+“Your dog remembers you [[Well|well]], Miss Grey,” said he, warmly grasping the
 hand I offered him without clearly knowing what I was about. “You rise
 early.”
 
@@ -110,7 +110,7 @@ considering all the circumstances of the case.
 
 “How far do you purpose to extend your walk?”
 
-“I was thinking of returning—it must be almost time, I think.”
+“I was thinking of returning—it must be almost [[Time|time]], I think.”
 
 He consulted his watch—a gold one now—and told me it was only five
 minutes past seven.
@@ -124,17 +124,17 @@ discover.”
 
 Never could discover? Had he endeavoured to do so then? I told him the
 place of our abode. He asked how we prospered in our affairs. I told
-him we were doing very well—that we had had a considerable addition to
+him we were doing very [[Well|well]]—that we had had a considerable addition to
 our pupils after the Christmas vacation, and expected a still further
 increase at the close of this.
 
 “You must be an accomplished instructor,” he observed.
 
-“No, it is my mother,” I replied; “she manages things so well, and is
+“No, it is my mother,” I replied; “she manages things so [[Well|well]], and is
 so active, and clever, and kind.”
 
 “I should like to know your mother. Will you introduce me to her some
-time, if I call?”
+[[Time|time]], if I call?”
 
 “Yes, willingly.”
 
@@ -143,15 +143,15 @@ upon you now and then?”
 
 “Yes, if—I suppose so.”
 
-This was a very foolish answer, but the truth was, I considered that I
-had no right to invite anyone to my mother’s house without her
+This was a very foolish answer, but the [[Truth|truth]] was, I considered that I
+had no right to invite anyone to my mother’s [[house]] without her
 knowledge; and if I had said, “Yes, if my mother does not object,” it
 would appear as if by his question I understood more than was expected;
 so, _supposing_ she would not, I added, “I suppose so:” but of course I
 should have said something more sensible and more polite, if I had had
-my wits about me. We continued our walk for a minute in silence; which,
+my wits about me. We continued our walk for a minute in [[Silence|silence]]; which,
 however, was shortly relieved (no small relief to me) by Mr. Weston
-commenting upon the brightness of the morning and the beauty of the
+commenting upon the brightness of the morning and the [[Beauty|beauty]] of the
 bay, and then upon the advantages A—— possessed over many other
 fashionable places of resort.
 
@@ -166,7 +166,7 @@ F—— was a village about two miles distant from A——.
 
 “No,” said I; “we live so completely out of the world, even here, that
 news seldom reaches me through any quarter; except through the medium
-of the —— _Gazette_. But I hope you like your new parish; and that I
+of the —— _Gazette_. But I [[Hope|hope]] you like your new parish; and that I
 may congratulate you on the acquisition?”
 
 “I expect to like my parish better a year or two hence, when I have
@@ -174,17 +174,17 @@ worked certain reforms I have set my heart upon—or, at least,
 progressed some steps towards such an achievement. But you may
 congratulate me now; for I find it very agreeable to _have_ a parish
 all to myself, with nobody to interfere with me—to thwart my plans or
-cripple my exertions: and besides, I have a respectable house in a
+cripple my exertions: and besides, I have a respectable [[house]] in a
 rather pleasant neighbourhood, and three hundred pounds a year; and, in
-fact, I have nothing but solitude to complain of, and nothing but a
+fact, I have nothing but [[Solitude|solitude]] to complain of, and nothing but a
 companion to wish for.”
 
 He looked at me as he concluded: and the flash of his dark eyes seemed
-to set my face on fire; greatly to my own discomfiture, for to evince
+to set my face on [[Fire|fire]]; greatly to my own discomfiture, for to evince
 confusion at such a juncture was intolerable. I made an effort,
 therefore, to remedy the evil, and disclaim all personal application of
 the remark by a hasty, ill-expressed reply, to the effect that, if he
-waited till he was well known in the neighbourhood, he might have
+waited till he was [[Well|well]] known in the neighbourhood, he might have
 numerous opportunities for supplying his want among the residents of
 F—— and its vicinity, or the visitors of A——, if he required so ample a
 choice: not considering the compliment implied by such an assertion,
@@ -200,11 +200,11 @@ the ladies you mention.”
 “I do not—I have no right to require it, as being so far from perfect
 myself.”
 
-Here the conversation was interrupted by a water-cart lumbering past
+Here the conversation was interrupted by a [[Water|water]]-cart lumbering past
 us, for we were now come to the busy part of the sands; and, for the
 next eight or ten minutes, between carts and horses, and asses, and
 men, there was little room for social intercourse, till we had turned
-our backs upon the sea, and begun to ascend the precipitous road
+our backs upon the sea, and begun to ascend the precipitous [[Road|road]]
 leading into the town. Here my companion offered me his arm, which I
 accepted, though not with the intention of using it as a support.
 
@@ -212,7 +212,7 @@ accepted, though not with the intention of using it as a support.
 walked there many times, both morning and evening, since I came, and
 never seen you till now; and several times, in passing through the
 town, too, I have looked about for your school—but I did not think of
-the —— Road; and once or twice I made inquiries, but without obtaining
+the —— [[Road]]; and once or twice I made inquiries, but without obtaining
 the requisite information.”
 
 When we had surmounted the acclivity, I was about to withdraw my arm
@@ -222,8 +222,8 @@ different subjects, we entered the town, and passed through several
 streets. I saw that he was going out of his way to accompany me,
 notwithstanding the long walk that was yet before him; and, fearing
 that he might be inconveniencing himself from motives of politeness, I
-observed—“I fear I am taking you out of your way, Mr. Weston—I believe
-the road to F—— lies quite in another direction.”
+observed—“I [[Fear|fear]] I am taking you out of your way, Mr. Weston—I believe
+the [[Road|road]] to F—— lies quite in another direction.”
 
 “I’ll leave you at the end of the next street,” said he.
 
@@ -231,7 +231,7 @@ the road to F—— lies quite in another direction.”
 
 “To-morrow—God willing.”
 
-The end of the next street was nearly the conclusion of my journey. He
+The end of the next street was nearly the conclusion of my [[Journey|journey]]. He
 stopped there, however, bid me good-morning, and called Snap, who
 seemed a little doubtful whether to follow his old mistress or his new
 master, but trotted away upon being summoned by the latter.
@@ -244,6 +244,6 @@ quite satisfied.”
 
 “You take it for granted that I am a good one, then?”
 
-The man and the dog departed, and I returned home, full of gratitude to
+The man and the dog departed, and I returned [[Home|home]], full of gratitude to
 heaven for so much bliss, and praying that my hopes might not again be
 crushed.

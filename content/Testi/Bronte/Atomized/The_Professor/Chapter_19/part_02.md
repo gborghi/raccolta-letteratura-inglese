@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 18 (part 2)"
+title: "[[The Professor]] — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,11 +22,11 @@ The public reading of one of her devoirs achieved the revelation of her
 
 talents to all and sundry; I remember the subject--it was an emigrant’s
 
-letter to his friends at home. It opened with simplicity; some natural
+letter to his friends at [[Home|home]]. It opened with simplicity; some natural
 
 and graphic touches disclosed to the reader the scene of virgin forest
 
-and great, New-World river--barren of sail and flag--amidst which the
+and great, New-World [[River|river]]--barren of sail and [[Flag|flag]]--amidst which the
 
 epistle was supposed to be indited. The difficulties and dangers that
 
@@ -36,17 +36,17 @@ that subject, Mdlle. Henri failed not to render audible the voice of
 
 resolve, patience, endeavour. The disasters which had driven him
 
-from his native country were alluded to; stainless honour, inflexible
+from his native country were alluded to; stainless [[Honour|honour]], inflexible
 
-independence, indestructible self-respect there took the word. Past
+independence, indestructible [[Self|self]]-respect there took the word. Past
 
 days were spoken of; the grief of parting, the regrets of absence, were
 
 touched upon; feeling, forcible and fine, breathed eloquent in every
 
-period. At the close, consolation was suggested; religious faith became
+period. At the close, consolation was suggested; religious [[Faith|faith]] became
 
-there the speaker, and she spoke well.
+there the speaker, and she spoke [[Well|well]].
 
 
 
@@ -84,7 +84,7 @@ opinion.”
 
 
 
-As soon as I had done, a hum rose; several of the pupils, pressing round
+As soon as I had done, a hum [[Rose|rose]]; several of the pupils, pressing round
 
 Mdlle. Henri, began to beset her with compliments; the composed voice of
 
@@ -94,11 +94,11 @@ the directress was now heard:--
 
 “Young ladies, such of you as have cloaks and umbrellas will hasten
 
-to return home before the shower becomes heavier” (it was raining a
+to return [[Home|home]] before the shower becomes heavier” (it was raining a
 
 little), “the remainder will wait till their respective servants arrive
 
-to fetch them.” And the school dispersed, for it was four o’clock.
+to fetch them.” And the school dispersed, for it was four o’[[Clock|clock]].
 
 
 
@@ -124,7 +124,7 @@ Mdlle. Henri can hardly be considered as a concurrent with the other
 
 pupils? She is older than most of them, and has had advantages of an
 
-exclusive nature for acquiring a knowledge of English; on the other
+exclusive [[Nature|nature]] for acquiring a knowledge of English; on the other
 
 hand, her sphere of life is somewhat beneath theirs; under these
 
@@ -146,7 +146,7 @@ foster this sentiment, and in her it should be rather repressed--she
 
 rather needs keeping down than bringing forward; and then I think,
 
-monsieur--it appears to me that ambition, LITERARY ambition especially,
+monsieur--it appears to me that [[Ambition|ambition]], LITERARY [[Ambition|ambition]] especially,
 
 is not a feeling to be cherished in the mind of a woman: would not
 
@@ -172,7 +172,7 @@ habits of a respectable decorous female.”
 
 “Indisputably, mademoiselle,” was my answer. “Your opinion admits of no
 
-doubt;” and, fearful of the harangue being renewed, I retreated under
+[[Doubt|doubt]];” and, fearful of the harangue being renewed, I retreated under
 
 cover of that cordial sentence of assent.
 
@@ -196,7 +196,7 @@ the seat at the desk near the door still remained vacant, and when
 
 no allusion was made to the circumstance by any individual of the
 
-class--when, on the contrary, I found that all observed a marked silence
+class--when, on the contrary, I found that all observed a marked [[Silence|silence]]
 
 on the point--I determined, COUTE QUI COUTE, to break the ice of this
 

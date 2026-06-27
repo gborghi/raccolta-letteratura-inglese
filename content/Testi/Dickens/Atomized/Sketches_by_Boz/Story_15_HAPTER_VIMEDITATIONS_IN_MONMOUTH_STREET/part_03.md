@@ -15,7 +15,7 @@ tags:
 
 
 We had been looking on at this little pantomime with great satisfaction
-for some time, when, to our unspeakable astonishment, we perceived that
+for some [[Time|time]], when, to our unspeakable astonishment, we perceived that
 the whole of the characters, including a numerous _corps de ballet_ of
 boots and shoes in the background, into which we had been hastily
 thrusting as many feet as we could press into the service, were
@@ -23,26 +23,26 @@ arranging themselves in order for dancing; and some music striking up
 at the moment, to it they went without delay. It was perfectly
 delightful to witness the agility of the market-gardener. Out went the
 boots, first on one side, then on the other, then cutting, then
-shuffling, then setting to the Denmark satins, then advancing, then
+shuffling, then setting to the [[Denmark]] satins, then advancing, then
 retreating, then going round, and then repeating the whole of the
 evolutions again, without appearing to suffer in the least from the
 violence of the exercise.
 
-Nor were the Denmark satins a bit behindhand, for they jumped and
+Nor were the [[Denmark]] satins a bit behindhand, for they jumped and
 bounded about, in all directions; and though they were neither so
-regular, nor so true to the time as the cloth boots, still, as they
+regular, nor so true to the [[Time|time]] as the cloth boots, still, as they
 seemed to do it from the heart, and to enjoy it more, we candidly
 confess that we preferred their style of dancing to the other. But the
 old gentleman in the list shoes was the most amusing object in the
-whole party; for, besides his grotesque attempts to appear youthful,
+whole party; for, besides his [[Grotesque|grotesque]] attempts to appear youthful,
 and amorous, which were sufficiently entertaining in themselves, the
-young fellow in the pumps managed so artfully that every time the old
+young fellow in the pumps managed so artfully that every [[Time|time]] the old
 gentleman advanced to salute the lady in the cloth boots, he trod with
 his whole weight on the old fellow’s toes, which made him roar with
 anguish, and rendered all the others like to die of laughing.
 
 We were in the full enjoyment of these festivities when we heard a
-shrill, and by no means musical voice, exclaim, ‘Hope you’ll know me
+shrill, and by no means musical voice, exclaim, ‘[[Hope]] you’ll know me
 agin, imperence!’ and on looking intently forward to see from whence
 the sound came, we found that it proceeded, not from the young lady in
 the cloth boots, as we had at first been inclined to suppose, but from

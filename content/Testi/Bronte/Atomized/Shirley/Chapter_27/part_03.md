@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 27 (part 3)"
+title: "[[Shirley]] — Chapter 27 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,9 +32,9 @@ could not affirm of him, what she had so bitterly affirmed of Sam Wynne,
 
 that his feelings were blunt, his tastes coarse, and his manners vulgar.
 
-There was sensibility in his nature; there was a very real, if not a
+There was sensibility in his [[Nature|nature]]; there was a very real, if not a
 
-very discriminating, love of the arts; there was the English gentleman
+very discriminating, [[Love|love]] of the arts; there was the English gentleman
 
 in all his deportment. As to his lineage and wealth, both were, of
 
@@ -44,11 +44,11 @@ course, far beyond her claims.
 
 His appearance had at first elicited some laughing though not
 
-ill-natured remarks from the merry Shirley. It was boyish. His features
+ill-natured remarks from the merry [[Shirley]]. It was boyish. His features
 
 were plain and slight, his hair sandy, his stature insignificant. But
 
-she soon checked her sarcasm on this point; she would even fire up if
+she soon checked her sarcasm on this point; she would even [[Fire|fire]] up if
 
 any one else made uncomplimentary allusion thereto. He had "a pleasing
 
@@ -66,17 +66,17 @@ save her own.
 
 In short, matters had reached a point which seemed fully to warrant an
 
-observation made about this time by Mr. Yorke to the tutor, Louis.
+observation made about this [[Time|time]] by Mr. Yorke to the tutor, Louis.
 
 
 
-"Yond' brother Robert of yours seems to me to be either a fool or a
+"Yond' brother Robert of yours seems to me to be either a [[Fool|fool]] or a
 
 madman. Two months ago I could have sworn he had the game all in his own
 
-hands; and there he runs the country, and quarters himself up in London
+hands; and there he runs the country, and quarters himself up in [[London]]
 
-for weeks together, and by the time he comes back he'll find himself
+for weeks together, and by the [[Time|time]] he comes back he'll find himself
 
 checkmated. Louis, 'there is a tide in the affairs of men, which, taken
 
@@ -106,7 +106,7 @@ she liked him."
 
 mere mention of his name. Write to the lad, I say, and tell him to come
 
-home. He is a finer gentleman than this bit of a baronet, after all."
+[[Home|home]]. He is a finer gentleman than this bit of a baronet, after all."
 
 
 
@@ -116,7 +116,7 @@ to aspire to a rich woman's hand is presumptuous--contemptible?"
 
 
 
-"Oh, if you are for high notions and double-refined sentiment, I've
+"Oh, if you are for high notions and [[Double|double]]-refined sentiment, I've
 
 naught to say. I'm a plain, practical man myself, and if Robert is
 
@@ -138,17 +138,17 @@ speaking to a parson to consult with you."
 
 
 
-Flattered and fawned upon as Shirley was just now, it appeared she was
+Flattered and fawned upon as [[Shirley]] was just now, it appeared she was
 
-not absolutely spoiled--that her better nature did not quite leave her.
+not absolutely spoiled--that her better [[Nature|nature]] did not quite leave her.
 
 Universal report had indeed ceased to couple her name with that of
 
-Moore, and this silence seemed sanctioned by her own apparent oblivion
+Moore, and this [[Silence|silence]] seemed sanctioned by her own apparent oblivion
 
 of the absentee; but that she had not _quite_ forgotten him--that she
 
-still regarded him, if not with love, yet with interest--seemed proved
+still regarded him, if not with [[Love|love]], yet with interest--seemed proved
 
 by the increased attention which at this juncture of affairs a sudden
 
@@ -164,7 +164,7 @@ as abashed school-girls are wont to accost their stern professors;
 
 bridling her neck of ivory and curling her lip of carmine, if he
 
-encountered her glance, one minute, and the next submitting to the grave
+encountered her glance, one minute, and the next submitting to the [[Grave|grave]]
 
 rebuke of his eye with as much contrition as if he had the power to
 
@@ -172,7 +172,7 @@ inflict penalties in case of contumacy.
 
 
 
-Louis Moore had perhaps caught the fever, which for a few days laid him
+[[Louis Moore]] had perhaps caught the fever, which for a few days laid him
 
 low, in one of the poor cottages of the district, which he, his lame
 
@@ -192,7 +192,7 @@ Mrs. Gill or the housemaid--summoned young Sympson to the door.
 
 
 
-"How is Mr. Moore to-night?" asked a low voice from the dark gallery.
+"How is Mr. Moore to-[[Night|night]]?" asked a low voice from the dark gallery.
 
 
 
@@ -204,7 +204,7 @@ Mrs. Gill or the housemaid--summoned young Sympson to the door.
 
 
 
-"I wish he could sleep. Come and speak to him, Shirley."
+"I wish he could [[Sleep|sleep]]. Come and speak to him, [[Shirley]]."
 
 
 
@@ -236,7 +236,7 @@ She spoke gently.
 
 
 
-"Mr. Moore, how are you to-night?"
+"Mr. Moore, how are you to-[[Night|night]]?"
 
 
 

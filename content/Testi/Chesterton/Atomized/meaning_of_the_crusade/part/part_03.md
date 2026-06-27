@@ -15,12 +15,12 @@ tags:
 
 
 In plain words, this sort of theory is a blasphemy against
-the intellectual dignity of man.  It is a blunder as well as
+the intellectual dignity of man.  It is a blunder as [[Well|well]] as
 a blasphemy; for it goes miles out of its way to find a bestial
 explanation when there is obviously a human explanation.
-It is as if a man told me that a dim survival of the instincts of a
+It is as if a man told me that a dim [[Survival|survival]] of the instincts of a
 quadruped was the reason of my sitting on a chair with four legs.
-I answer that I do it because I foresee that there may be grave
+I answer that I do it because I foresee that there may be [[Grave|grave]]
 disadvantages in sitting on a chair with one leg.  Or it is as if I
 were told that I liked to swim in the sea, solely because some early
 forms of amphibian life came out of the sea on to the shore.
@@ -30,7 +30,7 @@ to swim on the land.  In short this sort of vague evolutionary
 theorising simply amounts to finding an unconvincing explanation
 of something that needs no explanation.  And the case is really quite
 as simple with great political and religious movements by which man
-has from time to time changed the world in this or that respect
+has from [[Time|time]] to [[Time|time]] changed the world in this or that respect
 in which he happened to think it would be the better for a change.
 The Crusade was a religious movement, but it was also a perfectly
 rational movement; one might almost say a rationalist movement.
@@ -45,12 +45,12 @@ I for one have often defended and even encouraged patriotic war,
 and should always be ready to defend and encourage patriotic passion.
 But it cannot be denied that there is more of mere passion,
 of mere preference and prejudice, in short of mere personal accident,
-in fighting another nation than in fighting another faith.
+in fighting another nation than in fighting another [[Faith|faith]].
 The Crusader is in every sense more rational than the modern
 conscript or professional soldier.  He is more rational in
 his object, which is the intelligent and intelligible object
-of conversion; where the modern militarist has an object much
-more confused by momentary vanity and one-sided satisfaction.
+of [[conversion]]; where the modern militarist has an object much
+more confused by momentary [[Vanity|vanity]] and one-sided satisfaction.
 The Crusader wished to make Jerusalem a Christian town;
 but the Englishman does not wish to make Berlin an English town.
 He has only a healthy hatred of it as a Prussian town.
@@ -60,16 +60,16 @@ He only wished to make the Frenchman admire a Prussian;
 and not only were the means he adopted somewhat ill-considered for
 this purpose, but the purpose itself is looser and more irrational.
 The object of all war is peace; but the object of religious
-war is mental as well as material peace; it is agreement.
+war is mental as [[Well|well]] as material peace; it is agreement.
 In short religious war aims ultimately at equality, where national
-war aims relatively at superiority.  Conversion is the one sort
+war aims relatively at superiority.  [[conversion|Conversion]] is the one sort
 of conquest in which the conquered must rejoice.
 
-In that sense alone it is foolish for us in the West to sneer
+In that sense [[Alone|alone]] it is foolish for us in the West to sneer
 at those who kill men when a foot is set in a holy place,
 when we ourselves kill hundreds of thousands when a foot is put
 across a frontier.  It is absurd for us to despise those who shed
-blood for a relic when we have shed rivers of blood for a rag.
+[[Blood|blood]] for a relic when we have shed rivers of [[Blood|blood]] for a rag.
 But above all the Crusade, or, for that matter, the Jehad,
 is by far the most philosophical sort of fighting, not only
 in its conception of ending the difference, but in its mere act
@@ -79,10 +79,10 @@ and his religion does not matter.  It is to say he is affected
 by the town he lives in, but not by the world he lives in.
 It is to say that he is altered when he is a fellow-citizen walking
 under new lamp-posts, but not altered when he is another creature walking
-under strange stars.  It is exactly as if we were to say that two people
-ought to live in the same house, but it need not be in the same town.
+under strange [[Stars|stars]].  It is exactly as if we were to say that two people
+ought to live in the same [[house]], but it need not be in the same town.
 It is exactly as if we said that so long as the address included
-York it did not matter whether it was New York; or that so long
+York it did not matter whether it was [[New York]]; or that so long
 as a man is in Essex we do not care whether he is in England.
 
 Christendom would have been entirely justified in the abstract
@@ -96,18 +96,18 @@ but about our much more doubtful possession of enjoyment;
 not about the fiscal divisions between us and foreigners
 but about the spiritual divisions even between us and friends.
 These are the things that differ profoundly with differing views
-of the ultimate nature of the universe.  For the things of our country
+of the ultimate [[Nature|nature]] of the universe.  For the things of our country
 are often distant; but the things of our cosmos are always near;
 we can shut our doors upon the wheeled traffic of our native town;
 but in our own inmost chamber we hear the sound that never ceases;
-that wheel which Dante and a popular proverb have dared
-to christen as the love that makes the world go round.
-For this is the great paradox of life; that there are not only
+that [[Wheel|wheel]] which [[Dante]] and a popular proverb have dared
+to christen as the [[Love|love]] that makes the world go round.
+For this is the great [[Paradox|paradox]] of life; that there are not only
 wheels within wheels, but the larger wheels within the smaller.
-When a whole community rests on one conception of life and death
+When a whole community rests on one conception of life and [[Death|death]]
 and the origin of things, it is quite entitled to watch the rise
 of another community founded on another conception as the rise
 of something certain to be different and likely to be hostile.
 Indeed, as I have pointed out touching certain political theories,
-we already admit this truth in its small and questionable examples.
+we already admit this [[Truth|truth]] in its small and questionable examples.
 We only deny the large and obvious examples.

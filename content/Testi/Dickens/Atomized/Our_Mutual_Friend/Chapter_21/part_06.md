@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘I hope not, I am sure,’ said Miss Bella, haughtily. ‘But you ought to
+‘I [[Hope|hope]] not, I am sure,’ said Miss Bella, haughtily. ‘But you ought to
 know best how you speculated upon it.’
 
 Mr Rokesmith inclined his head in a deprecatory manner, and went on.
@@ -35,16 +35,16 @@ triumph in her face which no assumed coldness could conceal.
 ‘As we have been brought under one roof by an accidental combination of
 circumstances, which oddly extends itself to the new relations before
 us, I have taken the liberty of saying these few words. You don’t
-consider them intrusive I hope?’ said the Secretary with deference.
+consider them intrusive I [[Hope|hope]]?’ said the Secretary with deference.
 
 ‘Really, Mr Rokesmith, I can’t say what I consider them,’ returned the
 young lady. ‘They are perfectly new to me, and may be founded altogether
-on your own imagination.’
+on your own [[Imagination|imagination]].’
 
 ‘You will see.’
 
 These same fields were opposite the Wilfer premises. The discreet
-Mrs Wilfer now looking out of window and beholding her daughter in
+Mrs Wilfer now looking out of [[Window|window]] and beholding her daughter in
 conference with her lodger, instantly tied up her head and came out for
 a casual walk.
 
@@ -53,7 +53,7 @@ lady came stalking up, ‘that I have become, by a curious chance, Mr
 Boffin’s Secretary or man of business.’
 
 ‘I have not,’ returned Mrs Wilfer, waving her gloves in her chronic
-state of dignity, and vague ill-usage, ‘the honour of any intimate
+state of dignity, and vague ill-usage, ‘the [[Honour|honour]] of any intimate
 acquaintance with Mr Boffin, and it is not for me to congratulate that
 gentleman on the acquisition he has made.’
 
@@ -61,14 +61,14 @@ gentleman on the acquisition he has made.’
 
 ‘Pardon me,’ returned Mrs Wilfer, ‘the merits of Mr Boffin may be highly
 distinguished—may be more distinguished than the countenance of Mrs
-Boffin would imply—but it were the insanity of humility to deem him
+Boffin would imply—but it were the insanity of [[Humility|humility]] to deem him
 worthy of a better assistant.’
 
 ‘You are very good. I have also been telling Miss Wilfer that she is
 expected very shortly at the new residence in town.’
 
 ‘Having tacitly consented,’ said Mrs Wilfer, with a grand shrug of her
-shoulders, and another wave of her gloves, ‘to my child’s acceptance of
+shoulders, and another wave of her gloves, ‘to my [[Child|child]]’s acceptance of
 the proffered attentions of Mrs Boffin, I interpose no objection.’
 
 Here Miss Bella offered the remonstrance: ‘Don’t talk nonsense, ma,
@@ -82,8 +82,8 @@ please.’
 NOT going to interpose objections. If Mrs Boffin (to whose countenance
 no disciple of Lavater could possibly for a single moment subscribe),’
 with a shiver, ‘seeks to illuminate her new residence in town with the
-attractions of a child of mine, I am content that she should be favoured
-by the company of a child of mine.’
+attractions of a [[Child|child]] of mine, I am content that she should be favoured
+by the company of a [[Child|child]] of mine.’
 
 ‘You use the word, ma’am, I have myself used,’ said Rokesmith, with a
 glance at Bella, ‘when you speak of Miss Wilfer’s attractions there.’
@@ -103,22 +103,22 @@ with an air of greatly obliging her hearers, and greatly distinguishing
 herself. Whereat Miss Bella laughed a scornful little laugh and said:
 
 ‘Quite enough about this, I am sure, on all sides. Have the goodness, Mr
-Rokesmith, to give my love to Mrs Boffin—’
+Rokesmith, to give my [[Love|love]] to Mrs Boffin—’
 
 ‘Pardon me!’ cried Mrs Wilfer. ‘Compliments.’
 
-‘Love!’ repeated Bella, with a little stamp of her foot.
+‘[[Love]]!’ repeated Bella, with a little stamp of her foot.
 
 ‘No!’ said Mrs Wilfer, monotonously. ‘Compliments.’
 
-(‘Say Miss Wilfer’s love, and Mrs Wilfer’s compliments,’ the Secretary
+(‘Say Miss Wilfer’s [[Love|love]], and Mrs Wilfer’s compliments,’ the Secretary
 proposed, as a compromise.)
 
 ‘And I shall be very glad to come when she is ready for me. The sooner,
 the better.’
 
 ‘One last word, Bella,’ said Mrs Wilfer, ‘before descending to the
-family apartment. I trust that as a child of mine you will ever be
+family apartment. I trust that as a [[Child|child]] of mine you will ever be
 sensible that it will be graceful in you, when associating with Mr
 and Mrs Boffin upon equal terms, to remember that the Secretary, Mr
 Rokesmith, as your father’s lodger, has a claim on your good word.’
@@ -136,7 +136,7 @@ And added as he went upstairs. ‘And yet so pretty, so pretty!’
 And added presently, as he walked to and fro in his room. ‘And if she
 knew!’
 
-She knew that he was shaking the house by his walking to and fro; and
+She knew that he was shaking the [[house]] by his walking to and fro; and
 she declared it another of the miseries of being poor, that you couldn’t
 get rid of a haunting Secretary, stump—stump—stumping overhead in the
-dark, like a Ghost.
+dark, like a [[Ghost]].

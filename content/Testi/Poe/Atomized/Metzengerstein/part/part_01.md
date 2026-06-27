@@ -1,5 +1,5 @@
 ---
-title: "Metzengerstein (part 1)"
+title: "[[Metzengerstein]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Metzengerstein-(Poe)"
@@ -32,7 +32,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       is, of their falsity, or of their probability—I say nothing. I
 
-      assert, however, that much of our incredulity—as La Bruyère says
+      assert, however, that much of our [[Incredulity|incredulity]]—as La Bruyère says
 
       of all our unhappiness—“_vient de ne pouvoir être seuls_.” {*1}
 
@@ -54,7 +54,7 @@ Pestis eram vivus—moriens tua mors ero.
 
 
 
-      The families of Berlifitzing and Metzengerstein had been at
+      The families of Berlifitzing and [[Metzengerstein]] had been at
 
       variance for centuries. Never before were two houses so
 
@@ -64,9 +64,9 @@ Pestis eram vivus—moriens tua mors ero.
 
       ancient prophecy—“A lofty name shall have a fearful fall when, as
 
-      the rider over his horse, the mortality of Metzengerstein shall
+      the rider over his [[Horse|horse]], the [[Mortality|mortality]] of [[Metzengerstein]] shall
 
-      triumph over the immortality of Berlifitzing.”
+      triumph over the [[Immortality|immortality]] of Berlifitzing.”
 
 
 
@@ -78,29 +78,29 @@ Pestis eram vivus—moriens tua mors ero.
 
       contiguous, had long exercised a rival influence in the affairs
 
-      of a busy government. Moreover, near neighbors are seldom
+      of a busy [[government]]. Moreover, near neighbors are seldom
 
-      friends; and the inhabitants of the Castle Berlifitzing might
+      friends; and the inhabitants of the [[Castle]] Berlifitzing might
 
       look, from their lofty buttresses, into the very windows of the
 
-      palace Metzengerstein. Least of all had the more than feudal
+      palace [[Metzengerstein]]. Least of all had the more than feudal
 
       magnificence, thus discovered, a tendency to allay the irritable
 
       feelings of the less ancient and less wealthy Berlifitzings. What
 
-      wonder then, that the words, however silly, of that prediction,
+      [[Wonder|wonder]] then, that the words, however silly, of that prediction,
 
       should have succeeded in setting and keeping at variance two
 
       families already predisposed to quarrel by every instigation of
 
-      hereditary jealousy? The prophecy seemed to imply—if it implied
+      hereditary [[Jealousy|jealousy]]? The prophecy seemed to imply—if it implied
 
       anything—a final triumph on the part of the already more powerful
 
-      house; and was of course remembered with the more bitter
+      [[house]]; and was of course remembered with the more bitter
 
       animosity by the weaker and less influential.
 
@@ -112,7 +112,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       remarkable for nothing but an inordinate and inveterate personal
 
-      antipathy to the family of his rival, and so passionate a love of
+      antipathy to the family of his rival, and so passionate a [[Love|love]] of
 
       horses, and of hunting, that neither bodily infirmity, great age,
 
@@ -122,15 +122,15 @@ Pestis eram vivus—moriens tua mors ero.
 
 
 
-      Frederick, Baron Metzengerstein, was, on the other hand, not yet
+      Frederick, Baron [[Metzengerstein]], was, on the other hand, not yet
 
       of age. His father, the Minister G—, died young. His mother, the
 
       Lady Mary, followed him quickly after. Frederick was, at that
 
-      time, in his fifteenth year. In a city, fifteen years are no long
+      [[Time|time]], in his fifteenth year. In a [[City|city]], fifteen years are no long
 
-      period—a child may be still a child in his third lustrum: but in
+      period—a [[Child|child]] may be still a [[Child|child]] in his third lustrum: but in
 
       a wilderness—in so magnificent a wilderness as that old
 
@@ -148,7 +148,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       without number. The chief in point of splendor and extent was the
 
-      “Château Metzengerstein.” The boundary line of his dominions was
+      “Château [[Metzengerstein]].” The boundary line of his dominions was
 
       never clearly defined; but his principal park embraced a circuit
 
@@ -158,7 +158,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       Upon the succession of a proprietor so young, with a character so
 
-      well known, to a fortune so unparalleled, little speculation was
+      [[Well|well]] known, to a fortune so unparalleled, little speculation was
 
       afloat in regard to his probable course of conduct. And, indeed,
 
@@ -172,13 +172,13 @@ Pestis eram vivus—moriens tua mors ero.
 
       quickly to understand that no servile submission on their part—no
 
-      punctilios of conscience on his own—were thenceforward to prove
+      punctilios of [[Conscience|conscience]] on his own—were thenceforward to prove
 
       any security against the remorseless fangs of a petty Caligula.
 
-      On the night of the fourth day, the stables of the castle
+      On the [[Night|night]] of the fourth day, the stables of the [[Castle|castle]]
 
-      Berlifitzing were discovered to be on fire; and the unanimous
+      Berlifitzing were discovered to be on [[Fire|fire]]; and the unanimous
 
       opinion of the neighborhood added the crime of the incendiary to
 
@@ -194,7 +194,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       and desolate upper apartment of the family palace of
 
-      Metzengerstein. The rich although faded tapestry hangings which
+      [[Metzengerstein]]. The rich although faded tapestry hangings which
 
       swung gloomily upon the walls, represented the shadowy and
 
@@ -204,10 +204,10 @@ Pestis eram vivus—moriens tua mors ero.
 
       seated with the autocrat and the sovereign, put a veto on the
 
-      wishes of a temporal king, or restrained with the fiat of papal
+      wishes of a temporal [[King|king]], or restrained with the fiat of papal
 
       supremacy the rebellious sceptre of the Arch-enemy. _There_, the
 
-      dark, tall statures of the Princes Metzengerstein—their muscular
+      dark, tall statures of the Princes [[Metzengerstein]]—their muscular
 
       war-coursers plunging over the carcasses of fallen foes—startled

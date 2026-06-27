@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 24 (part 1)"
+title: "[[Shirley]] — Chapter 24 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XXIV.
 
 
 
-THE VALLEY OF THE SHADOW OF DEATH.
+THE VALLEY OF THE [[Shadow|SHADOW]] OF [[Death|DEATH]].
 
 
 
@@ -26,9 +26,9 @@ THE VALLEY OF THE SHADOW OF DEATH.
 
 The future sometimes seems to sob a low warning of the events it is
 
-bringing us, like some gathering though yet remote storm, which, in
+bringing us, like some gathering though yet remote [[Storm|storm]], which, in
 
-tones of the wind, in flushings of the firmament, in clouds strangely
+tones of the [[Wind|wind]], in flushings of the firmament, in clouds strangely
 
 torn, announces a blast strong to strew the sea with wrecks; or
 
@@ -40,7 +40,7 @@ the lattices of English homes with the breath of Indian plague. At other
 
 times this future bursts suddenly, as if a rock had rent, and in it a
 
-grave had opened, whence issues the body of one that slept. Ere you are
+[[Grave|grave]] had opened, whence issues the [[Body|body]] of one that slept. Ere you are
 
 aware you stand face to face with a shrouded and unthought-of
 
@@ -48,7 +48,7 @@ calamity--a new Lazarus.
 
 
 
-Caroline Helstone went home from Hollow's Cottage in good health, as she
+[[Caroline Helstone]] went [[Home|home]] from Hollow's Cottage in good health, as she
 
 imagined. On waking the next morning she felt oppressed with unwonted
 
@@ -62,7 +62,7 @@ sense of appetite. Palatable food was as ashes and sawdust to her.
 
 bright, their pupils dilated, her cheeks seemed rosier, and fuller than
 
-usual. "I look well; why can I not eat?"
+usual. "I look [[Well|well]]; why can I not eat?"
 
 
 
@@ -76,7 +76,7 @@ tinged her complexion.
 
 
 
-Now followed a hot, parched, thirsty, restless night. Towards morning
+Now followed a hot, parched, thirsty, restless [[Night|night]]. Towards morning
 
 one terrible dream seized her like a tiger; when she woke, she felt and
 
@@ -86,7 +86,7 @@ knew she was ill.
 
 How she had caught the fever (fever it was) she could not tell. Probably
 
-in her late walk home, some sweet, poisoned breeze, redolent of
+in her late walk [[Home|home]], some sweet, poisoned breeze, redolent of
 
 honey-dew and miasma, had passed into her lungs and veins, and finding
 
@@ -94,17 +94,17 @@ there already a fever of mental excitement, and a languor of long
 
 conflict and habitual sadness, had fanned the spark to flame, and left a
 
-well-lit fire behind it.
+[[Well|well]]-lit [[Fire|fire]] behind it.
 
 
 
-It seemed, however, but a gentle fire. After two hot days and worried
+It seemed, however, but a gentle [[Fire|fire]]. After two hot days and worried
 
 nights, there was no violence in the symptoms, and neither her uncle,
 
 nor Fanny, nor the doctor, nor Miss Keeldar, when she called, had any
 
-fear for her. A few days would restore her, every one believed.
+[[Fear|fear]] for her. A few days would restore her, every one believed.
 
 
 
@@ -120,7 +120,7 @@ and placed her finger on her wrist; then, quietly leaving the chamber,
 
 she went to Mr. Helstone's study. With him she remained closeted a long
 
-time--half the morning. On returning to her sick young friend, she laid
+[[Time|time]]--half the morning. On returning to her sick young friend, she laid
 
 aside shawl and bonnet. She stood awhile at the bedside, one hand placed
 
@@ -142,9 +142,9 @@ acceptable, Caroline?"
 
 ill, but I cannot refuse resolutely. It will be such comfort to know you
 
-are in the house, to see you sometimes in the room; but don't confine
+are in the [[house]], to see you sometimes in the room; but don't confine
 
-yourself on my account, dear Mrs. Pryor. Fanny nurses me very well."
+yourself on my account, dear Mrs. Pryor. Fanny nurses me very [[Well|well]]."
 
 
 
@@ -156,9 +156,9 @@ these offices, Caroline, smiling, lifted her face to kiss her.
 
 
 
-"Are you free from pain? Are you tolerably at ease?" was inquired in a
+"Are you free from [[Pain|pain]]? Are you tolerably at ease?" was inquired in a
 
-low, earnest voice, as the self-elected nurse yielded to the caress.
+low, earnest voice, as the [[Self|self]]-elected [[Nurse|nurse]] yielded to the caress.
 
 
 
@@ -196,7 +196,7 @@ her to her heart, and held her close gathered an instant.
 
 
 
-"I shall hardly wish to get well, that I may keep you always," said
+"I shall hardly wish to get [[Well|well]], that I may keep you always," said
 
 Caroline.
 
@@ -232,13 +232,13 @@ Negligent, indeed, she was not. From that hour Fanny and Eliza became
 
 ciphers in the sick-room. Mrs. Pryor made it her domain; she performed
 
-all its duties; she lived in it day and night. The patient
+all its duties; she lived in it day and [[Night|night]]. The patient
 
 remonstrated--faintly, however, from the first, and not at all ere long.
 
-Loneliness and gloom were now banished from her bedside; protection and
+[[Loneliness]] and gloom were now banished from her bedside; protection and
 
-solace sat there instead. She and her nurse coalesced in wondrous union.
+solace sat there instead. She and her [[Nurse|nurse]] coalesced in wondrous [[Union|union]].
 
 Caroline was usually pained to require or receive much attendance. Mrs.
 
@@ -248,7 +248,7 @@ of performing little offices of service; but all now passed with such
 
 ease, so naturally, that the patient was as willing to be cherished as
 
-the nurse was bent on cherishing; no sign of weariness in the latter
+the [[Nurse|nurse]] was bent on cherishing; no sign of weariness in the latter
 
 ever reminded the former that she ought to be anxious. There was, in
 
@@ -258,4 +258,4 @@ hard.
 
 
 
-With all this care it seemed strange the sick girl did not get well; yet
+With all this care it seemed strange the sick girl did not get [[Well|well]]; yet

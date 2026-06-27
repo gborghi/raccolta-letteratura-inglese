@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -18,14 +18,14 @@ When Elijah Pogram (to whom this was an every-day incident) saw that
 Martin put the plate away, and took no butter, he was quite delighted,
 and said,
 
-‘Well! The morbid hatred of you British to the Institutions of our
+‘[[Well]]! The morbid hatred of you British to the Institutions of our
 country is as-TONishing!’
 
 ‘Upon my life!’ cried Martin, in his turn. ‘This is the most wonderful
 community that ever existed. A man deliberately makes a hog of himself,
 and THAT’S an Institution!’
 
-‘We have no time to ac-quire forms, sir,’ said Elijah Pogram.
+‘We have no [[Time|time]] to ac-quire forms, sir,’ said Elijah Pogram.
 
 ‘Acquire!’ cried Martin. ‘But it’s not a question of acquiring anything.
 It’s a question of losing the natural politeness of a savage, and that
@@ -40,7 +40,7 @@ course,’ said Mr Pogram.
 ‘Now, observe what this comes to, Mr Pogram,’ pursued Martin. ‘The
 mass of your countrymen begin by stubbornly neglecting little social
 observances, which have nothing to do with gentility, custom, usage,
-government, or country, but are acts of common, decent, natural, human
+[[government]], or country, but are acts of common, decent, natural, human
 politeness. You abet them in this, by resenting all attacks upon their
 social offences as if they were a beautiful national feature. From
 disregarding small obligations they come in regular course to disregard
@@ -54,14 +54,14 @@ deck again, where, resuming his former post, he chewed until he was in a
 lethargic state, amounting to insensibility.
 
 After a weary voyage of several days, they came again to that same wharf
-where Mark had been so nearly left behind, on the night of starting for
+where Mark had been so nearly left behind, on the [[Night|night]] of starting for
 Eden. Captain Kedgick, the landlord, was standing there, and was greatly
 surprised to see them coming from the boat.
 
-‘Why, what the ‘tarnal!’ cried the Captain. ‘Well! I do admire at this,
+‘Why, what the ‘tarnal!’ cried the Captain. ‘[[Well]]! I do admire at this,
 I do!’
 
-‘We can stay at your house until to-morrow, Captain, I suppose?’ said
+‘We can stay at your [[house]] until to-morrow, Captain, I suppose?’ said
 Martin.
 
 ‘I reckon you can stay there for a twelvemonth if you like,’ retorted
@@ -98,14 +98,14 @@ it.’
 Nothing mollified the Captain, who persisted in taking it very ill
 that they had not both died in Eden. The boarders at the National felt
 strongly on the subject too; but it happened by good fortune that they
-had not much time to think about this grievance, for it was suddenly
+had not much [[Time|time]] to think about this grievance, for it was suddenly
 determined to pounce upon the Honourable Elijah Pogram, and give HIM a
 le-vee forthwith.
 
-As the general evening meal of the house was over before the arrival of
+As the general evening meal of the [[house]] was over before the arrival of
 the boat, Martin, Mark, and Pogram were taking tea and fixings at the
 public table by themselves, when the deputation entered to announce this
-honour; consisting of six gentlemen boarders and a very shrill boy.
+[[Honour|honour]]; consisting of six gentlemen boarders and a very shrill boy.
 
 ‘Sir!’ said the spokesman.
 
@@ -153,8 +153,8 @@ moments which--’
 ‘Hear!’ cried Colonel Grouper, in a loud voice. ‘Good! Hear him! Good!’
 
 ‘And therefore, sir,’ pursued the Doctor, ‘they request; as A mark Of
-their respect; the honour of your company at a little le-Vee, sir, in
-the ladies’ ordinary, at eight o’clock.’
+their respect; the [[Honour|honour]] of your company at a little le-Vee, sir, in
+the ladies’ ordinary, at eight o’[[Clock|clock]].’
 
 Mr Pogram bowed, and said:
 

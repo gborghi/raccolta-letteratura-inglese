@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 12"
+title: "Bleak [[house|House]] — Chapter 12"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,7 +21,7 @@ On the Watch
 
 It has left off raining down in Lincolnshire at last, and Chesney
 Wold has taken heart. Mrs. Rouncewell is full of hospitable cares,
-for Sir Leicester and my Lady are coming home from Paris. The
+for Sir Leicester and my Lady are coming [[Home|home]] from [[Paris]]. The
 fashionable intelligence has found it out and communicates the glad
 tidings to benighted England. It has also found out that they will
 entertain a brilliant and distinguished circle of the ELITE of the
@@ -29,12 +29,12 @@ BEAU MONDE (the fashionable intelligence is weak in English, but a
 giant refreshed in French) at the ancient and hospitable family seat
 in Lincolnshire.
 
-For the greater honour of the brilliant and distinguished circle, and
+For the greater [[Honour|honour]] of the brilliant and distinguished circle, and
 of Chesney Wold into the bargain, the broken arch of the bridge in
-the park is mended; and the water, now retired within its proper
+the park is mended; and the [[Water|water]], now retired within its proper
 limits and again spanned gracefully, makes a figure in the prospect
-from the house. The clear, cold sunshine glances into the brittle
-woods and approvingly beholds the sharp wind scattering the leaves
+from the [[house]]. The clear, cold sunshine glances into the brittle
+woods and approvingly beholds the sharp [[Wind|wind]] scattering the [[Leaves|leaves]]
 and drying the moss. It glides over the park after the moving shadows
 of the clouds, and chases them, and never catches them, all day. It
 looks in at the windows and touches the ancestral portraits with bars
@@ -43,54 +43,54 @@ the picture of my Lady, over the great chimney-piece, it throws a
 broad bend-sinister of light that strikes down crookedly into the
 hearth and seems to rend it.
 
-Through the same cold sunshine and the same sharp wind, my Lady and
+Through the same cold sunshine and the same sharp [[Wind|wind]], my Lady and
 Sir Leicester, in their travelling chariot (my Lady’s woman and Sir
-Leicester’s man affectionate in the rumble), start for home. With a
+Leicester’s man affectionate in the rumble), start for [[Home|home]]. With a
 considerable amount of jingling and whip-cracking, and many plunging
 demonstrations on the part of two bare-backed horses and two centaurs
 with glazed hats, jack-boots, and flowing manes and tails, they
 rattle out of the yard of the Hôtel Bristol in the Place Vendôme and
-canter between the sun-and-shadow-chequered colonnade of the Rue de
-Rivoli and the garden of the ill-fated palace of a headless king and
-queen, off by the Place of Concord, and the Elysian Fields, and the
-Gate of the Star, out of Paris.
+canter between the sun-and-[[Shadow|shadow]]-chequered colonnade of the Rue de
+Rivoli and the [[Garden|garden]] of the ill-fated palace of a headless [[King|king]] and
+[[Queen|queen]], off by the Place of Concord, and the Elysian Fields, and the
+Gate of the Star, out of [[Paris]].
 
 Sooth to say, they cannot go away too fast, for even here my Lady
-Dedlock has been bored to death. Concert, assembly, opera, theatre,
+Dedlock has been bored to [[Death|death]]. Concert, assembly, opera, theatre,
 drive, nothing is new to my Lady under the worn-out heavens. Only
-last Sunday, when poor wretches were gay—within the walls playing
+last [[Sunday]], when poor wretches were gay—within the walls playing
 with children among the clipped trees and the statues in the Palace
-Garden; walking, a score abreast, in the Elysian Fields, made more
-Elysian by performing dogs and wooden horses; between whiles
-filtering (a few) through the gloomy Cathedral of Our Lady to say a
+[[Garden]]; walking, a score abreast, in the Elysian Fields, made more
+Elysian by performing [[dogs]] and wooden horses; between whiles
+filtering (a few) through the gloomy [[Cathedral]] of Our Lady to say a
 word or two at the base of a pillar within flare of a rusty little
 gridiron-full of gusty little tapers; without the walls encompassing
-Paris with dancing, love-making, wine-drinking, tobacco-smoking,
+[[Paris]] with dancing, [[Love|love]]-making, wine-drinking, tobacco-smoking,
 tomb-visiting, billiard card and domino playing, quack-doctoring, and
-much murderous refuse, animate and inanimate—only last Sunday, my
-Lady, in the desolation of Boredom and the clutch of Giant Despair,
+much murderous refuse, animate and inanimate—only last [[Sunday]], my
+Lady, in the desolation of Boredom and the clutch of Giant [[Despair]],
 almost hated her own maid for being in spirits.
 
-She cannot, therefore, go too fast from Paris. Weariness of soul lies
-before her, as it lies behind—her Ariel has put a girdle of it round
+She cannot, therefore, go too fast from [[Paris]]. Weariness of [[Soul|soul]] lies
+before her, as it lies behind—her [[Ariel]] has put a girdle of it round
 the whole earth, and it cannot be unclasped—but the imperfect remedy
 is always to fly from the last place where it has been experienced.
-Fling Paris back into the distance, then, exchanging it for endless
-avenues and cross-avenues of wintry trees! And, when next beheld, let
+Fling [[Paris]] back into the distance, then, exchanging it for endless
+avenues and [[Cross|cross]]-avenues of wintry trees! And, when next beheld, let
 it be some leagues away, with the Gate of the Star a white speck
-glittering in the sun, and the city a mere mound in a plain—two dark
-square towers rising out of it, and light and shadow descending on it
+glittering in the sun, and the [[City|city]] a mere mound in a plain—two dark
+square towers rising out of it, and light and [[Shadow|shadow]] descending on it
 aslant, like the angels in Jacob’s dream!
 
 Sir Leicester is generally in a complacent state, and rarely bored.
 When he has nothing else to do, he can always contemplate his own
-greatness. It is a considerable advantage to a man to have so
+[[Greatness|greatness]]. It is a considerable advantage to a man to have so
 inexhaustible a subject. After reading his letters, he leans back in
 his corner of the carriage and generally reviews his importance to
 society.
 
 “You have an unusual amount of correspondence this morning?” says my
-Lady after a long time. She is fatigued with reading. Has almost read
+Lady after a long [[Time|time]]. She is fatigued with reading. Has almost read
 a page in twenty miles.
 
 “Nothing in it, though. Nothing whatever.”
@@ -104,23 +104,23 @@ a page in twenty miles.
 “He sends—I really beg your pardon—he sends,” says Sir Leicester,
 selecting the letter and unfolding it, “a message to you. Our
 stopping to change horses as I came to his postscript drove it out of
-my memory. I beg you’ll excuse me. He says—” Sir Leicester is so
+my [[Memory|memory]]. I beg you’ll excuse me. He says—” Sir Leicester is so
 long in taking out his eye-glass and adjusting it that my Lady looks
 a little irritated. “He says ‘In the matter of the right of way—’ I
 beg your pardon, that’s not the place. He says—yes! Here I have it!
-He says, ‘I beg my respectful compliments to my Lady, who, I hope,
+He says, ‘I beg my respectful compliments to my Lady, who, I [[Hope|hope]],
 has benefited by the change. Will you do me the favour to mention (as
 it may interest her) that I have something to tell her on her return
 in reference to the person who copied the affidavit in the Chancery
 suit, which so powerfully stimulated her curiosity. I have seen
 him.’”
 
-My Lady, leaning forward, looks out of her window.
+My Lady, leaning forward, looks out of her [[Window|window]].
 
 “That’s the message,” observes Sir Leicester.
 
 “I should like to walk a little,” says my Lady, still looking out of
-her window.
+her [[Window|window]].
 
 “Walk?” repeats Sir Leicester in a tone of surprise.
 
@@ -142,7 +142,7 @@ or less plunging of centaurs and bare-backed horses. Their courtly
 politeness to each other at the hotels where they tarry is the theme
 of general admiration. Though my Lord IS a little aged for my Lady,
 says Madame, the hostess of the Golden Ape, and though he might be
-her amiable father, one can see at a glance that they love each
+her amiable father, one can see at a glance that they [[Love|love]] each
 other. One observes my Lord with his white hair, standing, hat in
 hand, to help my Lady to and from the carriage. One observes my Lady,
 how recognisant of my Lord’s politeness, with an inclination of her
@@ -151,25 +151,25 @@ ravishing!
 
 The sea has no appreciation of great men, but knocks them about like
 the small fry. It is habitually hard upon Sir Leicester, whose
-countenance it greenly mottles in the manner of sage-cheese and in
+countenance it greenly mottles in the manner of sage-[[cheese]] and in
 whose aristocratic system it effects a dismal revolution. It is the
-Radical of Nature to him. Nevertheless, his dignity gets over it
+Radical of [[Nature]] to him. Nevertheless, his dignity gets over it
 after stopping to refit, and he goes on with my Lady for Chesney
-Wold, lying only one night in London on the way to Lincolnshire.
+Wold, lying only one [[Night|night]] in [[London]] on the way to Lincolnshire.
 
 Through the same cold sunlight, colder as the day declines, and
-through the same sharp wind, sharper as the separate shadows of bare
-trees gloom together in the woods, and as the Ghost’s Walk, touched
-at the western corner by a pile of fire in the sky, resigns itself to
-coming night, they drive into the park. The rooks, swinging in their
+through the same sharp [[Wind|wind]], sharper as the separate shadows of bare
+trees gloom together in the woods, and as the [[Ghost]]’s Walk, touched
+at the western corner by a pile of [[Fire|fire]] in the sky, resigns itself to
+coming [[Night|night]], they drive into the park. The rooks, swinging in their
 lofty houses in the elm-tree avenue, seem to discuss the question of
 the occupancy of the carriage as it passes underneath, some agreeing
 that Sir Leicester and my Lady are come down, some arguing with
 malcontents who won’t admit it, now all consenting to consider the
-question disposed of, now all breaking out again in violent debate,
+question disposed of, now all breaking out again in violent [[debate]],
 incited by one obstinate and drowsy bird who will persist in putting
 in a last contradictory croak. Leaving them to swing and caw, the
-travelling chariot rolls on to the house, where fires gleam warmly
+travelling chariot rolls on to the [[house]], where fires gleam warmly
 through some of the windows, though not through so many as to give an
 inhabited expression to the darkening mass of front. But the
 brilliant and distinguished circle will soon do that.
@@ -179,16 +179,16 @@ customary shake of the hand with a profound curtsy.
 
 “How do you do, Mrs. Rouncewell? I am glad to see you.”
 
-“I hope I have the honour of welcoming you in good health, Sir
+“I [[Hope|hope]] I have the [[Honour|honour]] of welcoming you in good health, Sir
 Leicester?”
 
 “In excellent health, Mrs. Rouncewell.”
 
-“My Lady is looking charmingly well,” says Mrs. Rouncewell with
+“My Lady is looking charmingly [[Well|well]],” says Mrs. Rouncewell with
 another curtsy.
 
 My Lady signifies, without profuse expenditure of words, that she is
-as wearily well as she can hope to be.
+as wearily [[Well|well]] as she can [[Hope|hope]] to be.
 
 But Rosa is in the distance, behind the housekeeper; and my Lady, who
 has not subdued the quickness of her observation, whatever else she
@@ -196,8 +196,8 @@ may have conquered, asks, “Who is that girl?”
 
 “A young scholar of mine, my Lady. Rosa.”
 
-“Come here, Rosa!” Lady Dedlock beckons her, with even an appearance
-of interest. “Why, do you know how pretty you are, child?” she says,
+“Come here, Rosa!” [[Lady Dedlock]] beckons her, with even an appearance
+of interest. “Why, do you know how pretty you are, [[Child|child]]?” she says,
 touching her shoulder with her two forefingers.
 
 Rosa, very much abashed, says, “No, if you please, my Lady!” and
@@ -218,13 +218,13 @@ and goes on to the foot of the oak staircase, where Sir Leicester
 pauses for her as her knightly escort. A staring old Dedlock in a
 panel, as large as life and as dull, looks as if he didn’t know what
 to make of it, which was probably his general state of mind in the
-days of Queen Elizabeth.
+days of [[Queen Elizabeth]].
 
 That evening, in the housekeeper’s room, Rosa can do nothing but
-murmur Lady Dedlock’s praises. She is so affable, so graceful, so
+murmur [[Lady Dedlock]]’s praises. She is so affable, so graceful, so
 beautiful, so elegant; has such a sweet voice and such a thrilling
 touch that Rosa can feel it yet! Mrs. Rouncewell confirms all this,
-not without personal pride, reserving only the one point of
+not without personal [[Pride|pride]], reserving only the one point of
 affability. Mrs. Rouncewell is not quite sure as to that. Heaven
 forbid that she should say a syllable in dispraise of any member of
 that excellent family, above all, of my Lady, whom the whole world
@@ -240,7 +240,7 @@ lady, to interest her, I think she would have had the only kind of
 excellence she wants.”
 
 “Might not that have made her still more proud, grandmother?” says
-Watt, who has been home and come back again, he is such a good
+Watt, who has been [[Home|home]] and come back again, he is such a good
 grandson.
 
 “More and most, my dear,” returns the housekeeper with dignity, “are
@@ -252,11 +252,11 @@ any drawback on my Lady.”
 “If she is, she has reason to be. The Dedlock family have always
 reason to be.”
 
-“Well,” says Watt, “it’s to be hoped they line out of their
-prayer-books a certain passage for the common people about pride and
+“[[Well]],” says Watt, “it’s to be hoped they line out of their
+[[prayer]]-books a certain passage for the common people about [[Pride|pride]] and
 vainglory. Forgive me, grandmother! Only a joke!”
 
-“Sir Leicester and Lady Dedlock, my dear, are not fit subjects for
+“Sir Leicester and [[Lady Dedlock]], my dear, are not fit subjects for
 joking.”
 
 “Sir Leicester is no joke by any means,” says Watt, “and I humbly ask
@@ -265,10 +265,10 @@ their guests down here, there is no objection to my prolonging my
 stay at the Dedlock Arms for a day or two, as any other traveller
 might?”
 
-“Surely, none in the world, child.”
+“Surely, none in the world, [[Child|child]].”
 
 “I am glad of that,” says Watt, “because I have an inexpressible
-desire to extend my knowledge of this beautiful neighbourhood.”
+[[Desire|desire]] to extend my knowledge of this beautiful neighbourhood.”
 
 He happens to glance at Rosa, who looks down and is very shy indeed.
 But according to the old superstition, it should be Rosa’s ears that
@@ -282,7 +282,7 @@ mouth and general uncomfortable tightness of face, rendering the jaws
 too eager and the skull too prominent. There is something indefinably
 keen and wan about her anatomy, and she has a watchful way of looking
 out of the corners of her eyes without turning her head which could
-be pleasantly dispensed with, especially when she is in an ill humour
+be pleasantly dispensed with, especially when she is in an ill [[Humour|humour]]
 and near knives. Through all the good taste of her dress and little
 adornments, these objections so express themselves that she seems to
 go about like a very neat she-wolf imperfectly tamed. Besides being
@@ -297,9 +297,9 @@ stage of that performance.
 Ha, ha, ha! She, Hortense, been in my Lady’s service since five years
 and always kept at the distance, and this doll, this puppet,
 caressed—absolutely caressed—by my Lady on the moment of her
-arriving at the house! Ha, ha, ha! “And do you know how pretty you
-are, child?” “No, my Lady.” You are right there! “And how old are
-you, child! And take care they do not spoil you by flattery, child!”
+arriving at the [[house]]! Ha, ha, ha! “And do you know how pretty you
+are, [[Child|child]]?” “No, my Lady.” You are right there! “And how old are
+you, [[Child|child]]! And take care they do not spoil you by flattery, [[Child|child]]!”
 Oh, how droll! It is the BEST thing altogether.
 
 In short, it is such an admirable thing that Mademoiselle Hortense
@@ -308,32 +308,32 @@ countrywomen and others attached in like capacity to the troop of
 visitors, relapses into silent enjoyment of the joke—an enjoyment
 expressed, in her own convivial manner, by an additional tightness of
 face, thin elongation of compressed lips, and sidewise look, which
-intense appreciation of humour is frequently reflected in my Lady’s
+intense appreciation of [[Humour|humour]] is frequently reflected in my Lady’s
 mirrors when my Lady is not among them.
 
-All the mirrors in the house are brought into action now, many of
+All the mirrors in the [[house]] are brought into action now, many of
 them after a long blank. They reflect handsome faces, simpering
 faces, youthful faces, faces of threescore and ten that will not
 submit to be old; the entire collection of faces that have come to
 pass a January week or two at Chesney Wold, and which the fashionable
 intelligence, a mighty hunter before the Lord, hunts with a keen
-scent, from their breaking cover at the Court of St. James’s to their
-being run down to death. The place in Lincolnshire is all alive. By
+scent, from their breaking cover at the [[Court]] of St. James’s to their
+being run down to [[Death|death]]. The place in Lincolnshire is all alive. By
 day guns and voices are heard ringing in the woods, horsemen and
 carriages enliven the park roads, servants and hangers-on pervade the
-village and the Dedlock Arms. Seen by night from distant openings in
+village and the Dedlock Arms. Seen by [[Night|night]] from distant openings in
 the trees, the row of windows in the long drawing-room, where my
 Lady’s picture hangs over the great chimney-piece, is like a row of
-jewels set in a black frame. On Sunday the chill little church is
+jewels set in a black frame. On [[Sunday]] the chill little church is
 almost warmed by so much gallant company, and the general flavour of
-the Dedlock dust is quenched in delicate perfumes.
+the Dedlock [[Dust|dust]] is quenched in delicate perfumes.
 
 The brilliant and distinguished circle comprehends within it no
-contracted amount of education, sense, courage, honour, beauty, and
+contracted amount of [[Education|education]], sense, [[Courage|courage]], [[Honour|honour]], [[Beauty|beauty]], and
 virtue. Yet there is something a little wrong about it in despite of
 its immense advantages. What can it be?
 
-Dandyism? There is no King George the Fourth now (more the pity) to
+Dandyism? There is no [[King]] George the Fourth now (more the pity) to
 set the dandy fashion; there are no clear-starched jack-towel
 neckcloths, no short-waisted coats, no false calves, no stays. There
 are no caricatures, now, of effeminate exquisites so arrayed,
@@ -341,7 +341,7 @@ swooning in opera boxes with excess of delight and being revived by
 other dainty creatures poking long-necked scent-bottles at their
 noses. There is no beau whom it takes four men at once to shake into
 his buckskins, or who goes to see all the executions, or who is
-troubled with the self-reproach of having once consumed a pea. But is
+troubled with the [[Self|self]]-reproach of having once consumed a pea. But is
 there dandyism in the brilliant and distinguished circle
 notwithstanding, dandyism of a more mischievous sort, that has got
 below the surface and is doing less harmless things than
@@ -352,12 +352,12 @@ Why, yes. It cannot be disguised. There ARE at Chesney Wold this
 January week some ladies and gentlemen of the newest fashion, who
 have set up a dandyism—in religion, for instance. Who in mere
 lackadaisical want of an emotion have agreed upon a little dandy talk
-about the vulgar wanting faith in things in general, meaning in the
+about the vulgar wanting [[Faith|faith]] in things in general, meaning in the
 things that have been tried and found wanting, as though a low fellow
-should unaccountably lose faith in a bad shilling after finding it
+should unaccountably lose [[Faith|faith]] in a bad shilling after finding it
 out! Who would make the vulgar very picturesque and faithful by
-putting back the hands upon the clock of time and cancelling a few
-hundred years of history.
+putting back the hands upon the [[Clock|clock]] of [[Time|time]] and cancelling a few
+hundred years of [[history]].
 
 There are also ladies and gentlemen of another fashion, not so new,
 but very elegant, who have agreed to put a smooth glaze on the world
@@ -373,27 +373,27 @@ from the moving age.
 Then there is my Lord Boodle, of considerable reputation with his
 party, who has known what office is and who tells Sir Leicester
 Dedlock with much gravity, after dinner, that he really does not see
-to what the present age is tending. A debate is not what a debate
-used to be; the House is not what the House used to be; even a
+to what the present age is tending. A [[debate]] is not what a [[debate]]
+used to be; the [[house|House]] is not what the [[house|House]] used to be; even a
 Cabinet is not what it formerly was. He perceives with astonishment
-that supposing the present government to be overthrown, the limited
-choice of the Crown, in the formation of a new ministry, would lie
+that supposing the present [[government]] to be overthrown, the limited
+choice of the [[Crown]], in the formation of a new ministry, would lie
 between Lord Coodle and Sir Thomas Doodle—supposing it to be
 impossible for the Duke of Foodle to act with Goodle, which may be
 assumed to be the case in consequence of the breach arising out of
-that affair with Hoodle. Then, giving the Home Department and the
-leadership of the House of Commons to Joodle, the Exchequer to
+that affair with Hoodle. Then, giving the [[Home]] Department and the
+leadership of the [[house|House]] of Commons to Joodle, the Exchequer to
 Koodle, the Colonies to Loodle, and the Foreign Office to Moodle,
 what are you to do with Noodle? You can’t offer him the Presidency of
 the Council; that is reserved for Poodle. You can’t put him in the
-Woods and Forests; that is hardly good enough for Quoodle. What
+Woods and Forests; that is hardly good enough for [[quoodle|Quoodle]]. What
 follows? That the country is shipwrecked, lost, and gone to pieces
-(as is made manifest to the patriotism of Sir Leicester Dedlock)
+(as is made manifest to the patriotism of [[Sir Leicester Dedlock]])
 because you can’t provide for Noodle!
 
 On the other hand, the Right Honourable William Buffy, M.P., contends
 across the table with some one else that the shipwreck of the
-country—about which there is no doubt; it is only the manner of it
+country—about which there is no [[Doubt|doubt]]; it is only the manner of it
 that is in question—is attributable to Cuffy. If you had done with
 Cuffy what you ought to have done when he first came into Parliament,
 and had prevented him from going over to Duffy, you would have got
@@ -410,7 +410,7 @@ of opinion; but it is perfectly clear to the brilliant and
 distinguished circle, all round, that nobody is in question but
 Boodle and his retinue, and Buffy and HIS retinue. These are the
 great actors for whom the stage is reserved. A People there are, no
-doubt—a certain large number of supernumeraries, who are to be
+[[Doubt|doubt]]—a certain large number of supernumeraries, who are to be
 occasionally addressed, and relied upon for shouts and choruses, as
 on the theatrical stage; but Boodle and Buffy, their followers and
 families, their heirs, executors, administrators, and assigns, are
@@ -430,61 +430,61 @@ injury arises in the breasts of ill-lodged ladies’-maids, and is not
 to be extinguished. Only one room is empty. It is a turret chamber of
 the third order of merit, plainly but comfortably furnished and
 having an old-fashioned business air. It is Mr. Tulkinghorn’s room,
-and is never bestowed on anybody else, for he may come at any time.
+and is never bestowed on anybody else, for he may come at any [[Time|time]].
 He is not come yet. It is his quiet habit to walk across the park
 from the village in fine weather, to drop into this room as if he had
 never been out of it since he was last seen there, to request a
 servant to inform Sir Leicester that he is arrived in case he should
-be wanted, and to appear ten minutes before dinner in the shadow of
+be wanted, and to appear ten minutes before dinner in the [[Shadow|shadow]] of
 the library-door. He sleeps in his turret with a complaining
-flag-staff over his head, and has some leads outside on which, any
+[[Flag|flag]]-staff over his head, and has some leads outside on which, any
 fine morning when he is down here, his black figure may be seen
 walking before breakfast like a larger species of rook.
 
 Every day before dinner, my Lady looks for him in the dusk of the
 library, but he is not there. Every day at dinner, my Lady glances
 down the table for the vacant place that would be waiting to receive
-him if he had just arrived, but there is no vacant place. Every night
+him if he had just arrived, but there is no vacant place. Every [[Night|night]]
 my Lady casually asks her maid, “Is Mr. Tulkinghorn come?”
 
-Every night the answer is, “No, my Lady, not yet.”
+Every [[Night|night]] the answer is, “No, my Lady, not yet.”
 
-One night, while having her hair undressed, my Lady loses herself in
+One [[Night|night]], while having her hair undressed, my Lady loses herself in
 deep thought after this reply until she sees her own brooding face in
 the opposite glass, and a pair of black eyes curiously observing her.
 
 “Be so good as to attend,” says my Lady then, addressing the
 reflection of Hortense, “to your business. You can contemplate your
-beauty at another time.”
+[[Beauty|beauty]] at another [[Time|time]].”
 
-“Pardon! It was your Ladyship’s beauty.”
+“Pardon! It was your Ladyship’s [[Beauty|beauty]].”
 
 “That,” says my Lady, “you needn’t contemplate at all.”
 
 At length, one afternoon a little before sunset, when the bright
 groups of figures which have for the last hour or two enlivened the
-Ghost’s Walk are all dispersed and only Sir Leicester and my Lady
+[[Ghost]]’s Walk are all dispersed and only Sir Leicester and my Lady
 remain upon the terrace, Mr. Tulkinghorn appears. He comes towards
 them at his usual methodical pace, which is never quickened, never
 slackened. He wears his usual expressionless mask—if it be a
-mask—and carries family secrets in every limb of his body and every
-crease of his dress. Whether his whole soul is devoted to the great
+mask—and carries family [[Secrets|secrets]] in every limb of his [[Body|body]] and every
+crease of his dress. Whether his whole [[Soul|soul]] is devoted to the great
 or whether he yields them nothing beyond the services he sells is his
-personal secret. He keeps it, as he keeps the secrets of his clients;
+personal secret. He keeps it, as he keeps the [[Secrets|secrets]] of his clients;
 he is his own client in that matter, and will never betray himself.
 
 “How do you do, Mr. Tulkinghorn?” says Sir Leicester, giving him his
 hand.
 
-Mr. Tulkinghorn is quite well. Sir Leicester is quite well. My Lady
-is quite well. All highly satisfactory. The lawyer, with his hands
+Mr. Tulkinghorn is quite [[Well|well]]. Sir Leicester is quite [[Well|well]]. My Lady
+is quite [[Well|well]]. All highly satisfactory. The lawyer, with his hands
 behind him, walks at Sir Leicester’s side along the terrace. My Lady
 walks upon the other side.
 
 “We expected you before,” says Sir Leicester. A gracious observation.
 As much as to say, “Mr. Tulkinghorn, we remember your existence when
 you are not here to remind us of it by your presence. We bestow a
-fragment of our minds upon you, sir, you see!”
+[[Fragment|fragment]] of our minds upon you, sir, you see!”
 
 Mr. Tulkinghorn, comprehending it, inclines his head and says he is
 much obliged.
@@ -532,11 +532,11 @@ Sir Leicester appears to discharge his stately breast of a burden in
 passing this capital sentence, as if it were the next satisfactory
 thing to having the sentence executed.
 
-“But night is coming on,” says he, “and my Lady will take cold. My
+“But [[Night|night]] is coming on,” says he, “and my Lady will take cold. My
 dear, let us go in.”
 
-As they turn towards the hall-door, Lady Dedlock addresses Mr.
-Tulkinghorn for the first time.
+As they turn towards the hall-door, [[Lady Dedlock]] addresses Mr.
+Tulkinghorn for the first [[Time|time]].
 
 “You sent me a message respecting the person whose writing I happened
 to inquire about. It was like you to remember the circumstance; I had
@@ -555,21 +555,21 @@ actual thing—what is it!—affidavit?”
 “How very odd!”
 
 They pass into a sombre breakfast-room on the ground floor, lighted
-in the day by two deep windows. It is now twilight. The fire glows
-brightly on the panelled wall and palely on the window-glass, where,
+in the day by two deep windows. It is now twilight. The [[Fire|fire]] glows
+brightly on the panelled wall and palely on the [[Window|window]]-glass, where,
 through the cold reflection of the blaze, the colder landscape
-shudders in the wind and a grey mist creeps along, the only traveller
+shudders in the [[Wind|wind]] and a grey mist creeps along, the only traveller
 besides the waste of clouds.
 
 My Lady lounges in a great chair in the chimney-corner, and Sir
 Leicester takes another great chair opposite. The lawyer stands
-before the fire with his hand out at arm’s length, shading his face.
+before the [[Fire|fire]] with his hand out at arm’s length, shading his face.
 He looks across his arm at my Lady.
 
 “Yes,” he says, “I inquired about the man, and found him. And, what
 is very strange, I found him—”
 
-“Not to be any out-of-the-way person, I am afraid!” Lady Dedlock
+“Not to be any out-of-the-way person, I am afraid!” [[Lady Dedlock]]
 languidly anticipates.
 
 “I found him dead.”
@@ -577,7 +577,7 @@ languidly anticipates.
 “Oh, dear me!” remonstrated Sir Leicester. Not so much shocked by the
 fact as by the fact of the fact being mentioned.
 
-“I was directed to his lodging—a miserable, poverty-stricken
+“I was directed to his lodging—a miserable, [[Poverty|poverty]]-stricken
 place—and I found him dead.”
 
 “You will excuse me, Mr. Tulkinghorn,” observes Sir Leicester. “I
@@ -590,11 +590,11 @@ Dead?”
 Mr. Tulkinghorn re-asserts it by another inclination of his head.
 “Whether by his own hand—”
 
-“Upon my honour!” cries Sir Leicester. “Really!”
+“Upon my [[Honour|honour]]!” cries Sir Leicester. “Really!”
 
 “Do let me hear the story!” says my Lady.
 
-“Whatever you desire, my dear. But, I must say—”
+“Whatever you [[Desire|desire]], my dear. But, I must say—”
 
 “No, you mustn’t say! Go on, Mr. Tulkinghorn.”
 
@@ -607,7 +607,7 @@ really—really—
 power to tell you. I should amend that phrase, however, by saying
 that he had unquestionably died of his own act, though whether by his
 own deliberate intention or by mischance can never certainly be
-known. The coroner’s jury found that he took the poison
+known. The coroner’s jury found that he took the [[Poison|poison]]
 accidentally.”
 
 “And what kind of man,” my Lady asks, “was this deplorable creature?”
@@ -637,7 +637,7 @@ During the utterance of every word of this short dialogue, Lady
 Dedlock and Mr. Tulkinghorn, without any other alteration in their
 customary deportment, have looked very steadily at one another—as
 was natural, perhaps, in the discussion of so unusual a subject. Sir
-Leicester has looked at the fire, with the general expression of the
+Leicester has looked at the [[Fire|fire]], with the general expression of the
 Dedlock on the staircase. The story being told, he renews his stately
 protest, saying that as it is quite clear that no association in my
 Lady’s mind can possibly be traceable to this poor wretch (unless he
@@ -651,15 +651,15 @@ kindness, Mr. Tulkinghorn, to open the door for me.”
 Mr. Tulkinghorn does so with deference and holds it open while she
 passes out. She passes close to him, with her usual fatigued manner
 and insolent grace. They meet again at dinner—again, next
-day—again, for many days in succession. Lady Dedlock is always the
+day—again, for many days in succession. [[Lady Dedlock]] is always the
 same exhausted deity, surrounded by worshippers, and terribly liable
-to be bored to death, even while presiding at her own shrine. Mr.
+to be bored to [[Death|death]], even while presiding at her own shrine. Mr.
 Tulkinghorn is always the same speechless repository of noble
-confidences, so oddly out of place and yet so perfectly at home. They
+confidences, so oddly out of place and yet so perfectly at [[Home|home]]. They
 appear to take as little note of one another as any two people
 enclosed within the same walls could. But whether each evermore
 watches and suspects the other, evermore mistrustful of some great
 reservation; whether each is evermore prepared at all points for the
 other, and never to be taken unawares; what each would give to know
-how much the other knows—all this is hidden, for the time, in their
+how much the other knows—all this is hidden, for the [[Time|time]], in their
 own hearts.

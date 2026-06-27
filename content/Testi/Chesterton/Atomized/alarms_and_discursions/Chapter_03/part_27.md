@@ -15,20 +15,20 @@ tags:
 
 
 But the real answer to this aristocratic argument which seeks to
-identify democracy with a drab utilitarianism may be found in action
+identify [[democracy]] with a drab utilitarianism may be found in action
 such as that of the Hungarian Commune--whose name I decline to repeat.
 This Commune did just one of those acts that prove that a separate
 people has a separate personality; it threw something away.
-A man can throw a bank note into the fire.  A man can fling a sack
-of corn into the river.  The bank-note may be burnt as a satisfaction
+A man can throw a bank note into the [[Fire|fire]].  A man can fling a sack
+of corn into the [[River|river]].  The bank-note may be burnt as a satisfaction
 of some scruple; the corn may be destroyed as a sacrifice to some god.
 But whenever there is sacrifice we know there is a single will.
 Men may be disputatious and doubtful, may divide by very narrow
-majorities in their debate about how to gain wealth.  But men have
+majorities in their [[debate]] about how to gain wealth.  But men have
 to be uncommonly unanimous in order to refuse wealth.  It wants
 a very complete committee to burn a bank note in the office grate.
-It needs a highly religious tribe really to throw corn into the river.
-This self-denial is the test and definition of self-government.
+It needs a highly religious tribe really to throw corn into the [[River|river]].
+This [[Self|self]]-denial is the test and definition of [[Self|self]]-[[government]].
 
 I wish I could feel certain that any English County Council
 or Parish Council would be single enough to make that strong
@@ -69,7 +69,7 @@ of its needs and cannot get to the end of its novelties.
 Take, for the sake of argument, the case of the motor.
 Doubtless the duke now feels it as necessary to have a motor as to have
 a roof, and in a little while he may feel it equally necessary to have
-a flying ship.  But this does not prove (as the reactionary sceptics
+a flying [[Ship|ship]].  But this does not prove (as the reactionary sceptics
 always argue) that a motor really is just as necessary as a roof.
 It only proves that a man can get used to an artificial life:
 it does not prove that there is no natural life for him to get used to.
@@ -78,7 +78,7 @@ a huge disproportion between the need for a roof and the need
 for an aeroplane; and no rush of inventions can ever alter it.
 The only difference is that things are now judged by the abnormal
 needs, when they might be judged merely by the normal needs.
-The best aristocrat sees the situation from an aeroplane.
+The best [[aristocrat]] sees the situation from an aeroplane.
 The good citizen, in his loftiest moments, goes no further than
 seeing it from the roof.
 
@@ -87,12 +87,12 @@ that it is only an expensive novelty which we may afterwards come
 to think a necessity.  Luxury has a firm philosophical meaning;
 and where there is a real public spirit luxury is generally
 allowed for, sometimes rebuked, but always recognised instantly.
-To the healthy soul there is something in the very nature of certain
+To the healthy [[Soul|soul]] there is something in the very [[Nature|nature]] of certain
 pleasures which warns us that they are exceptions, and that if they
 become rules they will become very tyrannical rules.
 
-Take a harassed seamstress out of the Harrow Road and give her one
-lightning hour in a motor-car, and she will probably feel it as splendid,
+Take a harassed seamstress out of the Harrow [[Road]] and give her one
+[[Lightning|lightning]] hour in a motor-car, and she will probably feel it as splendid,
 but strange, rare, and even terrible.  But this is not (as the
 relativists say) merely because she has never been in a car before.
 She has never been in the middle of a Somerset cowslip meadow before;
@@ -107,17 +107,17 @@ field was a part of it; travelling as quick as a cannon ball was not.
 And we should not look down on the seamstress because she mechanically
 emits a short sharp scream whenever the motor begins to move.
 On the contrary, we ought to look up to the seamstress, and regard her
-cry as a kind of mystic omen or revelation of nature, as the old Goths
+cry as a kind of mystic omen or revelation of [[Nature|nature]], as the old Goths
 used to consider the howls emitted by chance females when annoyed.
 For that ritual yell is really a mark of moral health--of swift
 response to the stimulations and changes of life.  The seamstress
 is wiser than all the learned ladies, precisely because she can
 still feel that a motor is a different sort of thing from a meadow.
-By the accident of her economic imprisonment it is even possible
+By the accident of her economic [[Imprisonment|imprisonment]] it is even possible
 that she may have seen more of the former than the latter.
 But this has not shaken her cyclopean sagacity as to which is
 the natural thing and which the artificial.  If not for her,
-at least for humanity as a whole, there is little doubt about
+at least for humanity as a whole, there is little [[Doubt|doubt]] about
 which is the more normally attainable.  It is considerably cheaper
 to sit in a meadow and see motors go by than to sit in a motor
 and see meadows go by.

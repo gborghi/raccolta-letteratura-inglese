@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 21"
+title: "The Mystery of [[Edwin Drood]] — Chapter 21"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -18,15 +18,15 @@ CHAPTER XXI.
 A RECOGNITION
 
 
-Nothing occurred in the night to flutter the tired dove; and the dove
-arose refreshed. With Mr. Grewgious, when the clock struck ten in the
+Nothing occurred in the [[Night|night]] to flutter the tired dove; and the dove
+arose refreshed. With Mr. Grewgious, when the [[Clock|clock]] struck ten in the
 morning, came Mr. Crisparkle, who had come at one plunge out of the
-river at Cloisterham.
+[[River|river]] at Cloisterham.
 
 “Miss Twinkleton was so uneasy, Miss Rosa,” he explained to her, “and
-came round to Ma and me with your note, in such a state of wonder,
+came round to Ma and me with your note, in such a state of [[Wonder|wonder]],
 that, to quiet her, I volunteered on this service by the very first
-train to be caught in the morning. I wished at the time that you had
+train to be caught in the morning. I wished at the [[Time|time]] that you had
 come to me; but now I think it best that you did _as_ you did, and came
 to your guardian.”
 
@@ -36,16 +36,16 @@ near him—”
 “I understand. It was quite natural.”
 
 “I have told Mr. Crisparkle,” said Mr. Grewgious, “all that you told me
-last night, my dear. Of course I should have written it to him
+last [[Night|night]], my dear. Of course I should have written it to him
 immediately; but his coming was most opportune. And it was particularly
 kind of him to come, for he had but just gone.”
 
 “Have you settled,” asked Rosa, appealing to them both, “what is to be
-done for Helena and her brother?”
+done for [[Helena]] and her brother?”
 
 “Why really,” said Mr. Crisparkle, “I am in great perplexity. If even
 Mr. Grewgious, whose head is much longer than mine, and who is a whole
-night’s cogitation in advance of me, is undecided, what must I be!”
+[[Night|night]]’s cogitation in advance of me, is undecided, what must I be!”
 
 The Unlimited here put her head in at the door—after having rapped, and
 been authorised to present herself—announcing that a gentleman wished
@@ -60,12 +60,12 @@ now.”
 
 “No, Miss, more of a brown gentleman.”
 
-“You are sure not with black hair?” asked Rosa, taking courage.
+“You are sure not with black hair?” asked Rosa, taking [[Courage|courage]].
 
 “Quite sure of that, Miss. Brown hair and blue eyes.”
 
 “Perhaps,” hinted Mr. Grewgious, with habitual caution, “it might be
-well to see him, reverend sir, if you don’t object. When one is in a
+[[Well|well]] to see him, reverend sir, if you don’t object. When one is in a
 difficulty or at a loss, one never knows in what direction a way out
 may chance to open. It is a business principle of mine, in such a case,
 not to close up any direction, but to keep an eye on every direction
@@ -76,7 +76,7 @@ it would be premature.”
 Crisparkle.
 
 The gentleman came in; apologised, with a frank but modest grace, for
-not finding Mr. Crisparkle alone; turned to Mr. Crisparkle, and
+not finding Mr. Crisparkle [[Alone|alone]]; turned to Mr. Crisparkle, and
 smilingly asked the unexpected question: “Who am I?”
 
 “You are the gentleman I saw smoking under the trees in Staple Inn, a
@@ -85,7 +85,7 @@ few minutes ago.”
 “True. There I saw you. Who else am I?”
 
 Mr. Crisparkle concentrated his attention on a handsome face, much
-sunburnt; and the ghost of some departed boy seemed to rise, gradually
+sunburnt; and the [[Ghost|ghost]] of some departed boy seemed to rise, gradually
 and dimly, in the room.
 
 The gentleman saw a struggling recollection lighten up the Minor
@@ -107,7 +107,7 @@ other’s shoulders, and looking joyfully each into the other’s face.
 
 “After which you took to swimming, you know!” said Mr. Tartar.
 
-“God bless my soul!” said Mr. Crisparkle.
+“God bless my [[Soul|soul]]!” said Mr. Crisparkle.
 
 “Amen!” said Mr. Tartar.
 
@@ -116,24 +116,24 @@ And then they fell to shaking hands most heartily again.
 “Imagine,” exclaimed Mr. Crisparkle, with glistening eyes: “Miss Rosa
 Bud and Mr. Grewgious, imagine Mr. Tartar, when he was the smallest of
 juniors, diving for me, catching me, a big heavy senior, by the hair of
-the head, and striking out for the shore with me like a water-giant!”
+the head, and striking out for the shore with me like a [[Water|water]]-giant!”
 
 “Imagine my not letting him sink, as I was his fag!” said Mr. Tartar.
-“But the truth being that he was my best protector and friend, and did
+“But the [[Truth|truth]] being that he was my best protector and friend, and did
 me more good than all the masters put together, an irrational impulse
 seized me to pick him up, or go down with him.”
 
-“Hem! Permit me, sir, to have the honour,” said Mr. Grewgious,
-advancing with extended hand, “for an honour I truly esteem it. I am
-proud to make your acquaintance. I hope you didn’t take cold. I hope
-you were not inconvenienced by swallowing too much water. How have you
+“Hem! Permit me, sir, to have the [[Honour|honour]],” said Mr. Grewgious,
+advancing with extended hand, “for an [[Honour|honour]] I truly esteem it. I am
+proud to make your acquaintance. I [[Hope|hope]] you didn’t take cold. I [[Hope|hope]]
+you were not inconvenienced by swallowing too much [[Water|water]]. How have you
 been since?”
 
 It was by no means apparent that Mr. Grewgious knew what he said,
 though it was very apparent that he meant to say something highly
 friendly and appreciative.
 
-If Heaven, Rosa thought, had but sent such courage and skill to her
+If Heaven, Rosa thought, had but sent such [[Courage|courage]] and skill to her
 poor mother’s aid! And he to have been so slight and young then!
 
 “I don’t wish to be complimented upon it, I thank you; but I think I
@@ -141,7 +141,7 @@ have an idea,” Mr. Grewgious announced, after taking a jog-trot or two
 across the room, so unexpected and unaccountable that they all stared
 at him, doubtful whether he was choking or had the cramp—“I _think_ I
 have an idea. I believe I have had the pleasure of seeing Mr. Tartar’s
-name as tenant of the top set in the house next the top set in the
+name as tenant of the top set in the [[house]] next the top set in the
 corner?”
 
 “Yes, sir,” returned Mr. Tartar. “You are right so far.”
@@ -160,11 +160,11 @@ coming back. “No personal knowledge, I suppose, sir?”
 “Slight, but some.”
 
 “Tick that off,” said Mr. Grewgious, taking another trot, and again
-coming back. “Nature of knowledge, Mr. Tartar?”
+coming back. “[[Nature]] of knowledge, Mr. Tartar?”
 
 “I thought he seemed to be a young fellow in a poor way, and I asked
-his leave—only within a day or so—to share my flowers up there with
-him; that is to say, to extend my flower-garden to his windows.”
+his leave—only within a day or so—to share my [[Flowers|flowers]] up there with
+him; that is to say, to extend my flower-[[Garden|garden]] to his windows.”
 
 “Would you have the kindness to take seats?” said Mr. Grewgious. “I
 _have_ an idea!”
@@ -176,14 +176,14 @@ by heart.
 
 “I cannot as yet make up my mind whether it is prudent to hold open
 communication under present circumstances, and on the part of the fair
-member of the present company, with Mr. Neville or Miss Helena. I have
+member of the present company, with Mr. Neville or Miss [[Helena]]. I have
 reason to know that a local friend of ours (on whom I beg to bestow a
 passing but a hearty malediction, with the kind permission of my
 reverend friend) sneaks to and fro, and dodges up and down. When not
 doing so himself, he may have some informant skulking about, in the
 person of a watchman, porter, or such-like hanger-on of Staple. On the
 other hand, Miss Rosa very naturally wishes to see her friend Miss
-Helena, and it would seem important that at least Miss Helena (if not
+[[Helena]], and it would seem important that at least Miss [[Helena]] (if not
 her brother too, through her) should privately know from Miss Rosa’s
 lips what has occurred, and what has been threatened. Am I agreed with
 generally in the views I take?”
@@ -191,7 +191,7 @@ generally in the views I take?”
 “I entirely coincide with them,” said Mr. Crisparkle, who had been very
 attentive.
 
-“As I have no doubt I should,” added Mr. Tartar, smiling, “if I
+“As I have no [[Doubt|doubt]] I should,” added Mr. Tartar, smiling, “if I
 understood them.”
 
 “Fair and softly, sir,” said Mr. Grewgious; “we shall fully confide in
@@ -200,7 +200,7 @@ local friend should have any informant on the spot, it is tolerably
 clear that such informant can only be set to watch the chambers in the
 occupation of Mr. Neville. He reporting, to our local friend, who comes
 and goes there, our local friend would supply for himself, from his own
-previous knowledge, the identity of the parties. Nobody can be set to
+previous knowledge, the [[Identity|identity]] of the parties. Nobody can be set to
 watch all Staple, or to concern himself with comers and goers to other
 sets of chambers: unless, indeed, mine.”
 
@@ -218,10 +218,10 @@ have all got the idea. You have it, my dear?”
 quickly towards her.
 
 “You see, you go over to Staple with Mr. Crisparkle and Mr. Tartar,”
-said Mr. Grewgious; “I going in and out, and out and in alone, in my
+said Mr. Grewgious; “I going in and out, and out and in [[Alone|alone]], in my
 usual way; you go up with those gentlemen to Mr. Tartar’s rooms; you
-look into Mr. Tartar’s flower-garden; you wait for Miss Helena’s
-appearance there, or you signify to Miss Helena that you are close by;
+look into Mr. Tartar’s flower-[[Garden|garden]]; you wait for Miss [[Helena]]’s
+appearance there, or you signify to Miss [[Helena]] that you are close by;
 and you communicate with her freely, and no spy can be the wiser.”
 
 “I am very much afraid I shall be—”
@@ -274,7 +274,7 @@ flinching, drawing nearer and nearer: when, happening to raise her own
 eyes, she found that he seemed to be thinking something about _them_.
 
 This a little confused Rosebud, and may account for her never
-afterwards quite knowing how she ascended (with his help) to his garden
+afterwards quite knowing how she ascended (with his help) to his [[Garden|garden]]
 in the air, and seemed to get into a marvellous country that came into
-sudden bloom like the country on the summit of the magic bean-stalk.
+sudden bloom like the country on the summit of the [[Magic|magic]] bean-stalk.
 May it flourish for ever!

@@ -1,5 +1,5 @@
 ---
-title: "Julius Caesar — Act V, Scene 1 — exchange (BRUTUS) [3]"
+title: "[[Julius Caesar]] — Act V, Scene 1 — exchange ([[Brutus|BRUTUS]]) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/JULIUS-CAESAR-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| BRUTUS | Why then, lead on. O that a man might know The end of this day’s business ere it come! But it sufliceth that the day will end, And then the end is known.—Come, ho, away! Exeunt |
+| [[Brutus|BRUTUS]] | Why then, lead on. O that a man might know The end of this day’s business ere it come! But it sufliceth that the day will end, And then the end is known.—Come, ho, away! Exeunt |

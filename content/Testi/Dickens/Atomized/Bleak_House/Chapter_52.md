@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 52"
+title: "Bleak [[house|House]] — Chapter 52"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,7 +23,7 @@ But one other day had intervened when, early in the morning as we
 were going to breakfast, Mr. Woodcourt came in haste with the
 astounding news that a terrible murder had been committed for which
 Mr. George had been apprehended and was in custody. When he told us
-that a large reward was offered by Sir Leicester Dedlock for the
+that a large reward was offered by [[Sir Leicester Dedlock]] for the
 murderer’s apprehension, I did not in my first consternation
 understand why; but a few more words explained to me that the
 murdered person was Sir Leicester’s lawyer, and immediately my
@@ -33,15 +33,15 @@ This unforeseen and violent removal of one whom she had long watched
 and distrusted and who had long watched and distrusted her, one for
 whom she could have had few intervals of kindness, always dreading in
 him a dangerous and secret enemy, appeared so awful that my first
-thoughts were of her. How appalling to hear of such a death and be
+thoughts were of her. How appalling to hear of such a [[Death|death]] and be
 able to feel no pity! How dreadful to remember, perhaps, that she had
 sometimes even wished the old man away who was so swiftly hurried out
 of life!
 
-Such crowding reflections, increasing the distress and fear I always
+Such crowding reflections, increasing the distress and [[Fear|fear]] I always
 felt when the name was mentioned, made me so agitated that I could
 scarcely hold my place at the table. I was quite unable to follow the
-conversation until I had had a little time to recover. But when I
+conversation until I had had a little [[Time|time]] to recover. But when I
 came to myself and saw how shocked my guardian was and found that
 they were earnestly speaking of the suspected man and recalling every
 favourable impression we had formed of him out of the good we had
@@ -52,7 +52,7 @@ his behalf that I was quite set up again.
 
 “My dear, I CAN’T think so. This man whom we have seen so
 open-hearted and compassionate, who with the might of a giant has the
-gentleness of a child, who looks as brave a fellow as ever lived and
+gentleness of a [[Child|child]], who looks as brave a fellow as ever lived and
 is so simple and quiet with it, this man justly accused of such a
 crime? I can’t believe it. It’s not that I don’t or I won’t. I
 can’t!”
@@ -62,31 +62,31 @@ know of him, we had better not forget that some appearances are
 against him. He bore an animosity towards the deceased gentleman. He
 has openly mentioned it in many places. He is said to have expressed
 himself violently towards him, and he certainly did about him, to my
-knowledge. He admits that he was alone on the scene of the murder
+knowledge. He admits that he was [[Alone|alone]] on the scene of the murder
 within a few minutes of its commission. I sincerely believe him to be
-as innocent of any participation in it as I am, but these are all
+as [[Innocent|innocent]] of any participation in it as I am, but these are all
 reasons for suspicion falling upon him.”
 
 “True,” said my guardian. And he added, turning to me, “It would be
-doing him a very bad service, my dear, to shut our eyes to the truth
+doing him a very bad service, my dear, to shut our eyes to the [[Truth|truth]]
 in any of these respects.”
 
 I felt, of course, that we must admit, not only to ourselves but to
 others, the full force of the circumstances against him. Yet I knew
 withal (I could not help saying) that their weight would not induce
-us to desert him in his need.
+us to [[Desert|desert]] him in his need.
 
 “Heaven forbid!” returned my guardian. “We will stand by him, as he
 himself stood by the two poor creatures who are gone.” He meant Mr.
 Gridley and the boy, to both of whom Mr. George had given shelter.
 
 Mr. Woodcourt then told us that the trooper’s man had been with him
-before day, after wandering about the streets all night like a
+before day, after wandering about the streets all [[Night|night]] like a
 distracted creature. That one of the trooper’s first anxieties was
 that we should not suppose him guilty. That he had charged his
-messenger to represent his perfect innocence with every solemn
+messenger to represent his perfect [[innocence]] with every solemn
 assurance he could send us. That Mr. Woodcourt had only quieted the
-man by undertaking to come to our house very early in the morning
+man by undertaking to come to our [[house]] very early in the morning
 with these representations. He added that he was now upon his way to
 see the prisoner himself.
 
@@ -94,20 +94,20 @@ My guardian said directly he would go too. Now, besides that I liked
 the retired soldier very much and that he liked me, I had that secret
 interest in what had happened which was only known to my guardian. I
 felt as if it came close and near to me. It seemed to become
-personally important to myself that the truth should be discovered
-and that no innocent people should be suspected, for suspicion, once
+personally important to myself that the [[Truth|truth]] should be discovered
+and that no [[Innocent|innocent]] people should be suspected, for suspicion, once
 run wild, might run wilder.
 
 In a word, I felt as if it were my duty and obligation to go with
 them. My guardian did not seek to dissuade me, and I went.
 
-It was a large prison with many courts and passages so like one
+It was a large [[Prison|prison]] with many courts and passages so like one
 another and so uniformly paved that I seemed to gain a new
 comprehension, as I passed along, of the fondness that solitary
 prisoners, shut up among the same staring walls from year to year,
 have had—as I have read—for a weed or a stray blade of grass. In an
 arched room by himself, like a cellar upstairs, with walls so
-glaringly white that they made the massive iron window-bars and
+glaringly white that they made the massive iron [[Window|window]]-bars and
 iron-bound door even more profoundly black than they were, we found
 the trooper standing in a corner. He had been sitting on a bench
 there and had risen when he heard the locks and bolts turn.
@@ -121,7 +121,7 @@ said he, saluting us with great heartiness and drawing a long breath.
 “And now I don’t so much care how it ends.”
 
 He scarcely seemed to be the prisoner. What with his coolness and his
-soldierly bearing, he looked far more like the prison guard.
+soldierly bearing, he looked far more like the [[Prison|prison]] guard.
 
 “This is even a rougher place than my gallery to receive a lady in,”
 said Mr. George, “but I know Miss Summerson will make the best of
@@ -134,7 +134,7 @@ down, which seemed to give him great satisfaction.
 on your part, so I believe we need give you none on ours.”
 
 “Not at all, sir. I thank you with all my heart. If I was not
-innocent of this crime, I couldn’t look at you and keep my secret to
+[[Innocent|innocent]] of this crime, I couldn’t look at you and keep my secret to
 myself under the condescension of the present visit. I feel the
 present visit very much. I am not one of the eloquent sort, but I
 feel it, Miss Summerson and gentlemen, deeply.”
@@ -151,7 +151,7 @@ comfort, George?”
 “For your personal comfort. Is there anything you want that would
 lessen the hardship of this confinement?”
 
-“Well, sir,” replied George, after a little cogitation, “I am equally
+“[[Well]], sir,” replied George, after a little cogitation, “I am equally
 obliged to you, but tobacco being against the rules, I can’t say that
 there is.”
 
@@ -160,19 +160,19 @@ you do, George, let us know.”
 
 “Thank you, sir. Howsoever,” observed Mr. George with one of his
 sunburnt smiles, “a man who has been knocking about the world in a
-vagabond kind of a way as long as I have gets on well enough in a
+vagabond kind of a way as long as I have gets on [[Well|well]] enough in a
 place like the present, so far as that goes.”
 
 “Next, as to your case,” observed my guardian.
 
 “Exactly so, sir,” returned Mr. George, folding his arms upon his
-breast with perfect self-possession and a little curiosity.
+breast with perfect [[Self|self]]-possession and a little curiosity.
 
 “How does it stand now?”
 
 “Why, sir, it is under remand at present. Bucket gives me to
 understand that he will probably apply for a series of remands from
-time to time until the case is more complete. How it is to be made
+[[Time|time]] to [[Time|time]] until the case is more complete. How it is to be made
 more complete I don’t myself see, but I dare say Bucket will manage
 it somehow.”
 
@@ -181,21 +181,21 @@ old oddity and vehemence, “you talk of yourself as if you were
 somebody else!”
 
 “No offence, sir,” said Mr. George. “I am very sensible of your
-kindness. But I don’t see how an innocent man is to make up his mind
+kindness. But I don’t see how an [[Innocent|innocent]] man is to make up his mind
 to this kind of thing without knocking his head against the walls
 unless he takes it in that point of view.”
 
 “That is true enough to a certain extent,” returned my guardian,
-softened. “But my good fellow, even an innocent man must take
+softened. “But my good fellow, even an [[Innocent|innocent]] man must take
 ordinary precautions to defend himself.”
 
 “Certainly, sir. And I have done so. I have stated to the
-magistrates, ‘Gentlemen, I am as innocent of this charge as
+magistrates, ‘Gentlemen, I am as [[Innocent|innocent]] of this charge as
 yourselves; what has been stated against me in the way of facts is
 perfectly true; I know no more about it.’ I intend to continue
-stating that, sir. What more can I do? It’s the truth.”
+stating that, sir. What more can I do? It’s the [[Truth|truth]].”
 
-“But the mere truth won’t do,” rejoined my guardian.
+“But the mere [[Truth|truth]] won’t do,” rejoined my guardian.
 
 “Won’t it indeed, sir? Rather a bad look-out for me!” Mr. George
 good-humouredly observed.
@@ -229,7 +229,7 @@ Unfolding his arms and changing his position, he stood with one
 massive hand upon the table and the other on his hip, as complete a
 picture of a man who was not to be moved from a fixed purpose as ever
 I saw. It was in vain that we all three talked to him and endeavoured
-to persuade him; he listened with that gentleness which went so well
+to persuade him; he listened with that gentleness which went so [[Well|well]]
 with his bluff bearing, but was evidently no more shaken by our
 representations that his place of confinement was.
 
@@ -237,7 +237,7 @@ representations that his place of confinement was.
 reference to your case?”
 
 “I certainly could wish it to be tried, miss,” he returned, “by
-court-martial; but that is out of the question, as I am well aware.
+[[Court|court]]-martial; but that is out of the question, as I am [[Well|well]] aware.
 If you will be so good as to favour me with your attention for a
 couple of minutes, miss, not more, I’ll endeavour to explain myself
 as clearly as I can.”
@@ -252,7 +252,7 @@ shooting gallery is rummaged, high and low, by Bucket; such property
 as I have—’tis small—is turned this way and that till it don’t know
 itself; and (as aforesaid) here I am! I don’t particular complain of
 that. Though I am in these present quarters through no immediately
-preceding fault of mine, I can very well understand that if I hadn’t
+preceding fault of mine, I can very [[Well|well]] understand that if I hadn’t
 gone into the vagabond way in my youth, this wouldn’t have happened.
 It HAS happened. Then comes the question how to meet it.”
 
@@ -266,7 +266,7 @@ but he had, what I should call if he was living, a devil of a tight
 hold of me. I don’t like his trade the better for that. If I had kept
 clear of his trade, I should have kept outside this place. But that’s
 not what I mean. Now, suppose I had killed him. Suppose I really had
-discharged into his body any one of those pistols recently fired off
+discharged into his [[Body|body]] any one of those pistols recently fired off
 that Bucket has found at my place, and dear me, might have found
 there any day since it has been my place. What should I have done as
 soon as I was hard and fast here? Got a lawyer.”
@@ -277,9 +277,9 @@ purpose opened, I will mention presently.
 
 “I should have got a lawyer, and he would have said (as I have often
 read in the newspapers), ‘My client says nothing, my client reserves
-his defence’: my client this, that, and t’other. Well, ’tis not the
+his defence’: my client this, that, and t’other. [[Well]], ’tis not the
 custom of that breed to go straight, according to my opinion, or to
-think that other men do. Say I am innocent and I get a lawyer. He
+think that other men do. Say I am [[Innocent|innocent]] and I get a lawyer. He
 would be as likely to believe me guilty as not; perhaps more. What
 would he do, whether or not? Act as if I was—shut my mouth up, tell
 me not to commit myself, keep circumstances back, chop the evidence
@@ -298,7 +298,7 @@ than another man. What I say is, I must come off clear and full or
 not at all. Therefore, when I hear stated against me what is true, I
 say it’s true; and when they tell me, ‘whatever you say will be
 used,’ I tell them I don’t mind that; I mean it to be used. If they
-can’t make me innocent out of the whole truth, they are not likely to
+can’t make me [[Innocent|innocent]] out of the whole [[Truth|truth]], they are not likely to
 do it out of anything less, or anything else. And if they are, it’s
 worth nothing to me.”
 
@@ -308,7 +308,7 @@ and finished what he had to say.
 “I thank you, miss and gentlemen both, many times for your attention,
 and many times more for your interest. That’s the plain state of the
 matter as it points itself out to a mere trooper with a blunt
-broadsword kind of a mind. I have never done well in life beyond my
+broadsword kind of a mind. I have never done [[Well|well]] in life beyond my
 duty as a soldier, and if the worst comes after all, I shall reap
 pretty much as I have sown. When I got over the first crash of being
 seized as a murderer—it don’t take a rover who has knocked about so
@@ -331,13 +331,13 @@ Mr. Bagnet made us a stiff military bow, and Mrs. Bagnet dropped us a
 curtsy.
 
 “Real good friends of mine, they are,” said Mr. George. “It was at
-their house I was taken.”
+their [[house]] I was taken.”
 
 “With a second-hand wiolinceller,” Mr. Bagnet put in, twitching his
 head angrily. “Of a good tone. For a friend. That money was no object
 to.”
 
-“Mat,” said Mr. George, “you have heard pretty well all I have been
+“Mat,” said Mr. George, “you have heard pretty [[Well|well]] all I have been
 saying to this lady and these two gentlemen. I know it meets your
 approval?”
 
@@ -361,19 +361,19 @@ day to the present company. Lawyers? Why, what but too many cooks
 should hinder you from having a dozen lawyers if the gentleman
 recommended them to you.”
 
-“This is a very sensible woman,” said my guardian. “I hope you will
+“This is a very sensible woman,” said my guardian. “I [[Hope|hope]] you will
 persuade him, Mrs. Bagnet.”
 
 “Persuade him, sir?” she returned. “Lord bless you, no. You don’t
 know George. Now, there!” Mrs. Bagnet left her basket to point him
-out with both her bare brown hands. “There he stands! As self-willed
+out with both her bare brown hands. “There he stands! As [[Self|self]]-willed
 and as determined a man, in the wrong way, as ever put a human
 creature under heaven out of patience! You could as soon take up and
 shoulder an eight and forty pounder by your own strength as turn that
 man when he has got a thing into his head and fixed it there. Why,
 don’t I know him!” cried Mrs. Bagnet. “Don’t I know you, George! You
 don’t mean to set up for a new character with ME after all these
-years, I hope?”
+years, I [[Hope|hope]]?”
 
 Her friendly indignation had an exemplary effect upon her husband,
 who shook his head at the trooper several times as a silent
@@ -382,28 +382,28 @@ me; and I understood from the play of her eyes that she wished me to
 do something, though I did not comprehend what.
 
 “But I have given up talking to you, old fellow, years and years,”
-said Mrs. Bagnet as she blew a little dust off the pickled pork,
-looking at me again; “and when ladies and gentlemen know you as well
+said Mrs. Bagnet as she blew a little [[Dust|dust]] off the pickled pork,
+looking at me again; “and when ladies and gentlemen know you as [[Well|well]]
 as I do, they’ll give up talking to you too. If you are not too
 headstrong to accept of a bit of dinner, here it is.”
 
 “I accept it with many thanks,” returned the trooper.
 
 “Do you though, indeed?” said Mrs. Bagnet, continuing to grumble on
-good-humouredly. “I’m sure I’m surprised at that. I wonder you don’t
+good-humouredly. “I’m sure I’m surprised at that. I [[Wonder|wonder]] you don’t
 starve in your own way also. It would only be like you. Perhaps
 you’ll set your mind upon THAT next.” Here she again looked at me,
 and I now perceived from her glances at the door and at me, by turns,
 that she wished us to retire and to await her following us outside
-the prison. Communicating this by similar means to my guardian and
-Mr. Woodcourt, I rose.
+the [[Prison|prison]]. Communicating this by similar means to my guardian and
+Mr. Woodcourt, I [[Rose|rose]].
 
-“We hope you will think better of it, Mr. George,” said I, “and we
+“We [[Hope|hope]] you will think better of it, Mr. George,” said I, “and we
 shall come to see you again, trusting to find you more reasonable.”
 
 “More grateful, Miss Summerson, you can’t find me,” he returned.
 
-“But more persuadable we can, I hope,” said I. “And let me entreat
+“But more persuadable we can, I [[Hope|hope]],” said I. “And let me entreat
 you to consider that the clearing up of this mystery and the
 discovery of the real perpetrator of this deed may be of the last
 importance to others besides yourself.”
@@ -413,20 +413,20 @@ I spoke a little turned from him, already on my way to the door; he
 was observing (this they afterwards told me) my height and figure,
 which seemed to catch his attention all at once.
 
-“’Tis curious,” said he. “And yet I thought so at the time!”
+“’Tis curious,” said he. “And yet I thought so at the [[Time|time]]!”
 
 My guardian asked him what he meant.
 
 “Why, sir,” he answered, “when my ill fortune took me to the dead
-man’s staircase on the night of his murder, I saw a shape so like
+man’s staircase on the [[Night|night]] of his murder, I saw a shape so like
 Miss Summerson’s go by me in the dark that I had half a mind to speak
 to it.”
 
 For an instant I felt such a shudder as I never felt before or since
-and hope I shall never feel again.
+and [[Hope|hope]] I shall never feel again.
 
 “It came downstairs as I went up,” said the trooper, “and crossed the
-moonlighted window with a loose black mantle on; I noticed a deep
+moonlighted [[Window|window]] with a loose black mantle on; I noticed a deep
 fringe to it. However, it has nothing to do with the present subject,
 excepting that Miss Summerson looked so like it at the moment that it
 came into my head.”
@@ -438,7 +438,7 @@ distinctly daring to ask myself any question, increased, and that I
 was indignantly sure of there being no possibility of a reason for my
 being afraid.
 
-We three went out of the prison and walked up and down at some short
+We three went out of the [[Prison|prison]] and walked up and down at some short
 distance from the gate, which was in a retired place. We had not
 waited long when Mr. and Mrs. Bagnet came out too and quickly joined
 us.
@@ -469,11 +469,11 @@ too breathless to proceed, occasioning Mr. Bagnet to say, “Old girl!
 Tell ’em!”
 
 “Why, then, miss,” the old girl proceeded, untying the strings of her
-bonnet for more air, “you could as soon move Dover Castle as move
+bonnet for more air, “you could as soon move Dover [[Castle]] as move
 George on this point unless you had got a new power to move him with.
 And I have got it!”
 
-“You are a jewel of a woman,” said my guardian. “Go on!”
+“You are a [[Jewel|jewel]] of a woman,” said my guardian. “Go on!”
 
 “Now, I tell you, miss,” she proceeded, clapping her hands in her
 hurry and agitation a dozen times in every sentence, “that what he
@@ -511,7 +511,7 @@ sturdy pace, and turned the corner, and was gone.
 “Mr. Bagnet,” said my guardian. “Do you mean to let her go in that
 way?”
 
-“Can’t help it,” he returned. “Made her way home once from another
+“Can’t help it,” he returned. “Made her way [[Home|home]] once from another
 quarter of the world. With the same grey cloak. And same umbrella.
 Whatever the old girl says, do. Do it! Whenever the old girl says,
 I’LL do it. She does it.”

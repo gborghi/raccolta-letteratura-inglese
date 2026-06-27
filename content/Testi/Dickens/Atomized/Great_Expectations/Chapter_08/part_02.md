@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 8 (part 2)"
+title: "[[Great Expectations]] — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 [Illustration]
 
-“Is that the name of this house, miss?”
+“Is that the name of this [[house]], miss?”
 
 “One of its names, boy.”
 
@@ -25,21 +25,21 @@ tags:
 “One more. Its other name was Satis; which is Greek, or Latin, or
 Hebrew, or all three—or all one to me—for enough.”
 
-“Enough House,” said I; “that’s a curious name, miss.”
+“Enough [[house|House]],” said I; “that’s a curious name, miss.”
 
 “Yes,” she replied; “but it meant more than it said. It meant, when it
-was given, that whoever had this house could want nothing else. They
+was given, that whoever had this [[house]] could want nothing else. They
 must have been easily satisfied in those days, I should think. But
 don’t loiter, boy.”
 
 Though she called me “boy” so often, and with a carelessness that was
 far from complimentary, she was of about my own age. She seemed much
 older than I, of course, being a girl, and beautiful and
-self-possessed; and she was as scornful of me as if she had been
-one-and-twenty, and a queen.
+[[Self|self]]-possessed; and she was as scornful of me as if she had been
+one-and-twenty, and a [[Queen|queen]].
 
-We went into the house by a side door, the great front entrance had two
-chains across it outside,—and the first thing I noticed was, that the
+We went into the [[house]] by a side door, the great front entrance had two
+[[Chains|chains]] across it outside,—and the first thing I noticed was, that the
 passages were all dark, and that she had left a candle burning there.
 She took it up, and we went through more passages and up a staircase,
 and still it was all dark, and only the candle lighted us.
@@ -55,7 +55,7 @@ her.
 This was very uncomfortable, and I was half afraid. However, the only
 thing to be done being to knock at the door, I knocked, and was told
 from within to enter. I entered, therefore, and found myself in a
-pretty large room, well lighted with wax candles. No glimpse of
+pretty large room, [[Well|well]] lighted with wax candles. No glimpse of
 daylight was to be seen in it. It was a dressing-room, as I supposed
 from the furniture, though much of it was of forms and uses then quite
 unknown to me. But prominent in it was a draped table with a gilded
@@ -69,7 +69,7 @@ strangest lady I have ever seen, or shall ever see.
 
 She was dressed in rich materials,—satins, and lace, and silks,—all of
 white. Her shoes were white. And she had a long white veil dependent
-from her hair, and she had bridal flowers in her hair, but her hair was
+from her hair, and she had bridal [[Flowers|flowers]] in her hair, but her hair was
 white. Some bright jewels sparkled on her neck and on her hands, and
 some other jewels lay sparkling on the table. Dresses, less splendid
 than the dress she wore, and half-packed trunks, were scattered about.
@@ -77,7 +77,7 @@ She had not quite finished dressing, for she had but one shoe on,—the
 other was on the table near her hand,—her veil was but half arranged,
 her watch and chain were not put on, and some lace for her bosom lay
 with those trinkets, and with her handkerchief, and gloves, and some
-flowers, and a Prayer-Book all confusedly heaped about the
+[[Flowers|flowers]], and a [[Prayer]]-Book all confusedly heaped about the
 looking-glass.
 
 It was not in the first few moments that I saw all these things, though
@@ -85,14 +85,14 @@ I saw more of them in the first moments than might be supposed. But I
 saw that everything within my view which ought to be white, had been
 white long ago, and had lost its lustre and was faded and yellow. I saw
 that the bride within the bridal dress had withered like the dress, and
-like the flowers, and had no brightness left but the brightness of her
+like the [[Flowers|flowers]], and had no brightness left but the brightness of her
 sunken eyes. I saw that the dress had been put upon the rounded figure
 of a young woman, and that the figure upon which it now hung loose had
 shrunk to skin and bone. Once, I had been taken to see some ghastly
 waxwork at the Fair, representing I know not what impossible personage
 lying in state. Once, I had been taken to one of our old marsh churches
-to see a skeleton in the ashes of a rich dress that had been dug out of
-a vault under the church pavement. Now, waxwork and skeleton seemed to
+to see a [[skeleton]] in the ashes of a rich dress that had been dug out of
+a vault under the church pavement. Now, waxwork and [[skeleton]] seemed to
 have dark eyes that moved and looked at me. I should have cried out, if
 I could.
 
@@ -108,10 +108,10 @@ I could.
 
 It was when I stood before her, avoiding her eyes, that I took note of
 the surrounding objects in detail, and saw that her watch had stopped
-at twenty minutes to nine, and that a clock in the room had stopped at
+at twenty minutes to nine, and that a [[Clock|clock]] in the room had stopped at
 twenty minutes to nine.
 
-“Look at me,” said Miss Havisham. “You are not afraid of a woman who
+“Look at me,” said [[Miss Havisham]]. “You are not afraid of a woman who
 has never seen the sun since you were born?”
 
 I regret to state that I was not afraid of telling the enormous lie
@@ -133,7 +133,7 @@ with a weird smile that had a kind of boast in it. Afterwards she kept
 her hands there for a little while, and slowly took them away as if
 they were heavy.
 
-“I am tired,” said Miss Havisham. “I want diversion, and I have done
+“I am tired,” said [[Miss Havisham]]. “I want diversion, and I have done
 with men and women. Play.”
 
 I think it will be conceded by my most disputatious reader, that she
@@ -144,7 +144,7 @@ wide world more difficult to be done under the circumstances.
 that I want to see some play. There, there!” with an impatient movement
 of the fingers of her right hand; “play, play, play!”
 
-For a moment, with the fear of my sister’s working me before my eyes, I
+For a moment, with the [[Fear|fear]] of my sister’s working me before my eyes, I
 had a desperate idea of starting round the room in the assumed
 character of Mr. Pumblechook’s chaise-cart. But I felt myself so
 unequal to the performance that I gave it up, and stood looking at Miss
@@ -156,5 +156,5 @@ she said, when we had taken a good look at each other,—
 “No, ma’am, I am very sorry for you, and very sorry I can’t play just
 now. If you complain of me I shall get into trouble with my sister, so
 I would do it if I could; but it’s so new here, and so strange, and so
-fine,—and melancholy—.” I stopped, fearing I might say too much, or had
+fine,—and [[Melancholy|melancholy]]—.” I stopped, fearing I might say too much, or had
 already said it, and we took another look at each other.

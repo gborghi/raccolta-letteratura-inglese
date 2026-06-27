@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 28 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 28 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,8 +16,8 @@ tags:
 
 If the mistress put such a construction upon the behaviour of her new
 friends, what could the companion urge against them? If they accustomed
-themselves to very little restraint before the lady of the house, with
-how much more freedom could they address her paid dependent! Nor was
+themselves to very little restraint before the lady of the [[house]], with
+how much more [[Freedom|freedom]] could they address her paid dependent! Nor was
 even this the worst. As the odious Sir Mulberry Hawk attached himself
 to Kate with less and less of disguise, Mrs. Wititterly began to grow
 jealous of the superior attractions of Miss Nickleby. If this feeling
@@ -27,8 +27,8 @@ have existed, but unfortunately for her she possessed that native
 grace and true gentility of manner, and those thousand nameless
 accomplishments which give to female society its greatest charm; if
 these be valuable anywhere, they were especially so where the lady of
-the house was a mere animated doll. The consequence was, that Kate had
-the double mortification of being an indispensable part of the circle
+the [[house]] was a mere animated doll. The consequence was, that Kate had
+the [[Double|double]] mortification of being an indispensable part of the circle
 when Sir Mulberry and his friends were there, and of being exposed, on
 that very account, to all Mrs. Wititterly’s ill-humours and caprices when
 they were gone. She became utterly and completely miserable.
@@ -45,7 +45,7 @@ moral member of society, to mention the circumstance to ‘the young
 person’ without delay.
 
 Accordingly Mrs. Wititterly broke ground next morning, during a pause in
-the novel-reading.
+the [[Novel|novel]]-reading.
 
 ‘Miss Nickleby,’ said Mrs. Wititterly, ‘I wish to speak to you very
 gravely. I am sorry to have to do it, upon my word I am very sorry, but
@@ -55,7 +55,7 @@ appearance of excitement, that she feared that palpitation of the heart
 was coming on again.
 
 ‘Your behaviour, Miss Nickleby,’ resumed the lady, ‘is very far from
-pleasing me--very far. I am very anxious indeed that you should do well,
+pleasing me--very far. I am very anxious indeed that you should do [[Well|well]],
 but you may depend upon it, Miss Nickleby, you will not, if you go on as
 you do.’
 
@@ -78,7 +78,7 @@ Kate looked at her again, but less steadily than before; and resting her
 elbow on the table, covered her eyes with her hand.
 
 ‘If such things had been done when I was a young girl,’ said Mrs
-Wititterly (this, by the way, must have been some little time before),
+Wititterly (this, by the way, must have been some little [[Time|time]] before),
 ‘I don’t suppose anybody would have believed it.’
 
 ‘I don’t think they would,’ murmured Kate. ‘I do not think anybody would
@@ -94,20 +94,20 @@ answer.
 ‘I do hear you, ma’am,’ replied Kate, ‘with surprise--with greater
 surprise than I can express.’
 
-‘I have always considered you a particularly well-behaved young person
+‘I have always considered you a particularly [[Well|well]]-behaved young person
 for your station in life,’ said Mrs. Wititterly; ‘and as you are a person
 of healthy appearance, and neat in your dress and so forth, I have taken
 an interest in you, as I do still, considering that I owe a sort of duty
 to that respectable old female, your mother. For these reasons, Miss
 Nickleby, I must tell you once for all, and begging you to mind what I
 say, that I must insist upon your immediately altering your very forward
-behaviour to the gentlemen who visit at this house. It really is not
+behaviour to the gentlemen who visit at this [[house]]. It really is not
 becoming,’ said Mrs. Wititterly, closing her chaste eyes as she spoke;
 ‘it is improper--quite improper.’
 
 ‘Oh!’ cried Kate, looking upwards and clasping her hands; ‘is not this,
 is not this, too cruel, too hard to bear! Is it not enough that I should
-have suffered as I have, night and day; that I should almost have sunk
+have suffered as I have, [[Night|night]] and day; that I should almost have sunk
 in my own estimation from very shame of having been brought into contact
 with such people; but must I also be exposed to this unjust and most
 unfounded charge!’
@@ -121,7 +121,7 @@ accusation of yourself, or at the prompting of others, is alike to me. I
 say it IS vilely, grossly, wilfully untrue. Is it possible!’ cried Kate,
 ‘that anyone of my own sex can have sat by, and not have seen the misery
 these men have caused me? Is it possible that you, ma’am, can have been
-present, and failed to mark the insulting freedom that their every look
+present, and failed to mark the insulting [[Freedom|freedom]] that their every look
 bespoke? Is it possible that you can have avoided seeing, that these
 libertines, in their utter disrespect for you, and utter disregard
 of all gentlemanly behaviour, and almost of decency, have had but one

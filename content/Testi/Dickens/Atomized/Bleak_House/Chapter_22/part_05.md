@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 22 (part 5)"
+title: "Bleak [[house|House]] — Chapter 22 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-“Well!” says Mr. Bucket slightly, “we haven’t got much good out of
+“[[Well]]!” says Mr. Bucket slightly, “we haven’t got much good out of
 YOU. But, however, here’s five shillings for you. Take care how you
 spend it, and don’t get yourself into trouble.” Bucket stealthily
 tells the coins from one hand into the other like counters—which is
 a way he has, his principal use of them being in these games of
 skill—and then puts them, in a little pile, into the boy’s hand and
 takes him out to the door, leaving Mr. Snagsby, not by any means
-comfortable under these mysterious circumstances, alone with the
+comfortable under these mysterious circumstances, [[Alone|alone]] with the
 veiled figure. But on Mr. Tulkinghorn’s coming into the room, the
 veil is raised and a sufficiently good-looking Frenchwoman is
 revealed, though her expression is something of the intensest.
@@ -46,17 +46,17 @@ recommendation?”
 
 “Receive the assurance of my devoted gratitude, dear sir.”
 
-“Good night.”
+“Good [[Night|night]].”
 
 Mademoiselle goes out with an air of native gentility; and Mr.
 Bucket, to whom it is, on an emergency, as natural to be groom of the
 ceremonies as it is to be anything else, shows her downstairs, not
 without gallantry.
 
-“Well, Bucket?” quoth Mr. Tulkinghorn on his return.
+“[[Well]], Bucket?” quoth Mr. Tulkinghorn on his return.
 
 “It’s all squared, you see, as I squared it myself, sir. There an’t a
-doubt that it was the other one with this one’s dress on. The boy was
+[[Doubt|doubt]] that it was the other one with this one’s dress on. The boy was
 exact respecting colours and everything. Mr. Snagsby, I promised you
 as a man that he should be sent away all right. Don’t say it wasn’t
 done!”
@@ -68,7 +68,7 @@ will be getting anxious—”
 “Thank you, Snagsby, no further use,” says Mr. Tulkinghorn. “I am
 quite indebted to you for the trouble you have taken already.”
 
-“Not at all, sir. I wish you good night.”
+“Not at all, sir. I wish you good [[Night|night]].”
 
 “You see, Mr. Snagsby,” says Mr. Bucket, accompanying him to the door
 and shaking hands with him over and over again, “what I like in you
@@ -86,10 +86,10 @@ in your way of business.”
 Mr. Snagsby makes a suitable response and goes homeward so confused
 by the events of the evening that he is doubtful of his being awake
 and out—doubtful of the reality of the streets through which he
-goes—doubtful of the reality of the moon that shines above him. He
+goes—doubtful of the reality of the [[Moon|moon]] that shines above him. He
 is presently reassured on these subjects by the unchallengeable
 reality of Mrs. Snagsby, sitting up with her head in a perfect
-beehive of curl-papers and night-cap, who has dispatched Guster to
+beehive of curl-papers and [[Night|night]]-cap, who has dispatched Guster to
 the police-station with official intelligence of her husband’s being
 made away with, and who within the last two hours has passed through
 every stage of swooning with the greatest decorum. But as the little

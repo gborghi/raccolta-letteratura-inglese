@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 40 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 40 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 ‘You will be caught up much shorter, my good friend--infinitely
 shorter--one of these days, depend upon it,’ replied his patron calmly.
-‘By-the-bye, instead of wondering why you have been so long, my wonder
+‘By-the-bye, instead of wondering why you have been so long, my [[Wonder|wonder]]
 should be why you came at all. Why did you?’
 
 ‘You know, master,’ said Hugh, ‘that I couldn’t read the bill I found,
@@ -25,21 +25,21 @@ wrapped up, I brought it here.’
 
 ‘And could you ask no one else to read it, Bruin?’ said Sir John.
 
-‘No one that I could trust with secrets, master. Since Barnaby Rudge
+‘No one that I could trust with [[Secrets|secrets]], master. Since [[Barnaby Rudge]]
 was lost sight of for good and all--and that’s five years ago--I haven’t
 talked with any one but you.’
 
-‘You have done me honour, I am sure.’
+‘You have done me [[Honour|honour]], I am sure.’
 
-‘I have come to and fro, master, all through that time, when there was
+‘I have come to and fro, master, all through that [[Time|time]], when there was
 anything to tell, because I knew that you’d be angry with me if I stayed
-away,’ said Hugh, blurting the words out, after an embarrassed silence;
+away,’ said Hugh, blurting the words out, after an embarrassed [[Silence|silence]];
 ‘and because I wished to please you if I could, and not to have you go
-against me. There. That’s the true reason why I came to-night. You know
+against me. There. That’s the true reason why I came to-[[Night|night]]. You know
 that, master, I am sure.’
 
 ‘You are a specious fellow,’ returned Sir John, fixing his eyes upon
-him, ‘and carry two faces under your hood, as well as the best. Didn’t
+him, ‘and carry two faces under your hood, as [[Well|well]] as the best. Didn’t
 you give me in this room, this evening, any other reason; no dislike
 of anybody who has slighted you lately, on all occasions, abused you,
 treated you with rudeness; acted towards you, more as if you were a
@@ -47,15 +47,15 @@ mongrel dog than a man like himself?’
 
 ‘To be sure I did!’ cried Hugh, his passion rising, as the other meant
 it should; ‘and I say it all over now, again. I’d do anything to have
-some revenge on him--anything. And when you told me that he and all
+some [[Revenge|revenge]] on him--anything. And when you told me that he and all
 the Catholics would suffer from those who joined together under that
 handbill, I said I’d make one of ‘em, if their master was the devil
 himself. I AM one of ‘em. See whether I am as good as my word and turn
 out to be among the foremost, or no. I mayn’t have much head, master,
 but I’ve head enough to remember those that use me ill. You shall see,
 and so shall he, and so shall hundreds more, how my spirit backs me
-when the time comes. My bark is nothing to my bite. Some that I know had
-better have a wild lion among ‘em than me, when I am fairly loose--they
+when the [[Time|time]] comes. My bark is nothing to my bite. Some that I know had
+better have a wild [[Lion|lion]] among ‘em than me, when I am fairly loose--they
 had!’
 
 The knight looked at him with a smile of far deeper meaning than
@@ -73,7 +73,7 @@ the doers.’
 ‘Oh! you have joined those fellows then?’ said Sir John, with an air of
 most profound indifference.
 
-‘Yes. I went up to the house you told me of; and got put down upon the
+‘Yes. I went up to the [[house]] you told me of; and got put down upon the
 muster. There was another man there, named Dennis--’
 
 ‘Dennis, eh!’ cried Sir John, laughing. ‘Ay, ay! a pleasant fellow, I
@@ -115,7 +115,7 @@ anything, I suppose?’
 
 ‘I would,’ retorted Hugh, stopping in his passage out and looking
 back; ‘but what do I risk! What do I stand a chance of losing, master?
-Friends, home? A fig for ‘em all; I have none; they are nothing to me.
+Friends, [[Home|home]]? A fig for ‘em all; I have none; they are nothing to me.
 Give me a good scuffle; let me pay off old scores in a bold riot where
 there are men to stand by me; and then use me as you like--it don’t
 matter much to me what the end is!’
@@ -124,18 +124,18 @@ matter much to me what the end is!’
 
 ‘I have it here, master.’
 
-‘Drop it again as you go along; it’s as well not to keep such things
+‘Drop it again as you go along; it’s as [[Well|well]] not to keep such things
 about you.’
 
 Hugh nodded, and touching his cap with an air of as much respect as he
 could summon up, departed.
 
 Sir John, fastening the doors behind him, went back to his
-dressing-room, and sat down once again before the fire, at which he
-gazed for a long time, in earnest meditation.
+dressing-room, and sat down once again before the [[Fire|fire]], at which he
+gazed for a long [[Time|time]], in earnest meditation.
 
 ‘This happens fortunately,’ he said, breaking into a smile, ‘and
-promises well. Let me see. My relative and I, who are the most
+promises [[Well|well]]. Let me see. My relative and I, who are the most
 Protestant fellows in the world, give our worst wishes to the Roman
 Catholic cause; and to Saville, who introduces their bill, I have a
 personal objection besides; but as each of us has himself for the first
@@ -143,7 +143,7 @@ article in his creed, we cannot commit ourselves by joining with a very
 extravagant madman, such as this Gordon most undoubtedly is. Now really,
 to foment his disturbances in secret, through the medium of such a very
 apt instrument as my savage friend here, may further our real ends;
-and to express at all becoming seasons, in moderate and polite terms,
+and to express at all becoming [[Seasons|seasons]], in moderate and polite terms,
 a disapprobation of his proceedings, though we agree with him in
 principle, will certainly be to gain a character for honesty and
 uprightness of purpose, which cannot fail to do us infinite service, and
@@ -157,9 +157,9 @@ amuse me beyond measure. Good again! Perhaps better!’
 When he came to this point, he took a pinch of snuff; then beginning
 slowly to undress, he resumed his meditations, by saying with a smile:
 
-‘I fear, I DO fear exceedingly, that my friend is following fast in the
+‘I [[Fear|fear]], I DO [[Fear|fear]] exceedingly, that my friend is following fast in the
 footsteps of his mother. His intimacy with Mr Dennis is very ominous.
-But I have no doubt he must have come to that end any way. If I lend
+But I have no [[Doubt|doubt]] he must have come to that end any way. If I lend
 him a helping hand, the only difference is, that he may, upon the whole,
 possibly drink a few gallons, or puncheons, or hogsheads, less in this
 life than he otherwise would. It’s no business of mine. It’s a matter of

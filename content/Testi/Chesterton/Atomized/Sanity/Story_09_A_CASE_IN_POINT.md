@@ -1,5 +1,5 @@
 ---
-title: "Sanity — A CASE IN POINT"
+title: "[[Sanity]] — A CASE IN POINT"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"

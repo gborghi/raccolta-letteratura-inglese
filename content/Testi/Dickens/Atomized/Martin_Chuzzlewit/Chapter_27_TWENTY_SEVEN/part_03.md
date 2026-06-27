@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -20,7 +20,7 @@ misrepresented, he had altered it to Crimple.
 
 Lest with all these proofs and confirmations, any man should be
 suspicious of the Anglo-Bengalee Disinterested Loan and Life Assurance
-company; should doubt in tiger, cab, or person, Tigg Montague, Esquire,
+company; should [[Doubt|doubt]] in tiger, cab, or person, Tigg Montague, Esquire,
 (of Pall Mall and Bengal), or any other name in the imaginative List of
 Directors; there was a porter on the premises--a wonderful creature,
 in a vast red waistcoat and a short-tailed pepper-and-salt coat--who
@@ -34,9 +34,9 @@ terms. They were high; but he knew, doubtless, that no man could carry
 such an extent of waistcoat as himself, and felt the full value of his
 capacity to such an institution. When he sat upon a seat erected for him
 in a corner of the office, with his glazed hat hanging on a peg over his
-head, it was impossible to doubt the respectability of the concern.
+head, it was impossible to [[Doubt|doubt]] the respectability of the concern.
 It went on doubling itself with every square inch of his red waistcoat
-until, like the problem of the nails in the horse’s shoes, the total
+until, like the problem of the nails in the [[Horse|horse]]’s shoes, the total
 became enormous. People had been known to apply to effect an insurance
 on their lives for a thousand pounds, and looking at him, to beg, before
 the form of proposal was filled up, that it might be made two. And yet
@@ -49,7 +49,7 @@ Rival offices had endeavoured to lure him away; Lombard Street itself
 had beckoned to him; rich companies had whispered ‘Be a Beadle!’ but he
 still continued faithful to the Anglo-Bengalee. Whether he was a deep
 rogue, or a stately simpleton, it was impossible to make out, but he
-appeared to believe in the Anglo-Bengalee. He was grave with imaginary
+appeared to believe in the Anglo-Bengalee. He was [[Grave|grave]] with imaginary
 cares of office; and having nothing whatever to do, and something less
 to take care of, would look as if the pressure of his numerous duties,
 and a sense of the treasure in the company’s strong-room, made him a
@@ -60,7 +60,7 @@ on the pavement, crying aloud ‘Room for the chairman, room for the
 chairman, if you please!’ much to the admiration of the bystanders,
 who, it is needless to say, had their attention directed to the
 Anglo-Bengalee Company thenceforth, by that means. Mr Tigg leaped
-gracefully out, followed by the Managing Director (who was by this time
+gracefully out, followed by the Managing Director (who was by this [[Time|time]]
 very distant and respectful), and ascended the stairs, still preceded by
 the porter, who cried as he went, ‘By your leave there! by your leave!
 The Chairman of the Board, Gentle--MEN! In like manner, but in a still
@@ -102,16 +102,16 @@ see you.’
 himself luxuriously into an easy-chair (they were all easy-chairs in the
 board-room), and taking a handsome gold snuff-box from the pocket of his
 black satin waistcoat. ‘How are you? A little worn with business, eh? If
-so, rest. A little feverish from wine, humph? If so, water. Nothing
+so, rest. A little feverish from wine, humph? If so, [[Water|water]]. Nothing
 at all the matter, and quite comfortable? Then take some lunch. A very
-wholesome thing at this time of day to strengthen the gastric juices
+wholesome thing at this [[Time|time]] of day to strengthen the gastric juices
 with lunch, Mr Montague.’
 
 The Medical Officer (he was the same medical officer who had followed
-poor old Anthony Chuzzlewit to the grave, and who had attended Mrs
+poor old Anthony Chuzzlewit to the [[Grave|grave]], and who had attended Mrs
 Gamp’s patient at the Bull) smiled in saying these words; and casually
 added, as he brushed some grains of snuff from his shirt-frill, ‘I
-always take it myself about this time of day, do you know!’
+always take it myself about this [[Time|time]] of day, do you know!’
 
 ‘Bullamy!’ said the Chairman, ringing the little bell.
 
@@ -119,7 +119,7 @@ always take it myself about this time of day, do you know!’
 
 ‘Lunch.’
 
-‘Not on my account, I hope?’ said the doctor. ‘You are very good. Thank
+‘Not on my account, I [[Hope|hope]]?’ said the doctor. ‘You are very good. Thank
 you. I’m quite ashamed. Ha, ha! if I had been a sharp practitioner,
 Mr Montague, I shouldn’t have mentioned it without a fee; for you may
 depend upon it, my dear sir, that if you don’t make a point of taking

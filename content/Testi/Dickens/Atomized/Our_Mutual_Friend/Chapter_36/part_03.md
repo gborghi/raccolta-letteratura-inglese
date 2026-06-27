@@ -19,7 +19,7 @@ tags:
 ‘I was muddled, but not with fair drinking. I had not been drinking, you
 understand. A mouthful did it.’
 
-Pleasant with a grave look shook her head; importing that she understood
+Pleasant with a [[Grave|grave]] look shook her head; importing that she understood
 the process, but decidedly disapproved.
 
 ‘Fair trade is one thing,’ said she, ‘but that’s another. No one has a
@@ -27,7 +27,7 @@ right to carry on with Jack in THAT way.’
 
 ‘The sentiment does you credit,’ returned the man, with a grim smile;
 and added, in a mutter, ‘the more so, as I believe it’s not your
-father’s.—Yes, I had a bad time of it, that time. I lost everything,
+father’s.—Yes, I had a bad [[Time|time]] of it, that [[Time|time]]. I lost everything,
 and had a sharp struggle for my life, weak as I was.’
 
 ‘Did you get the parties punished?’ asked Pleasant.
@@ -38,12 +38,12 @@ it was not of my bringing about.’
 ‘Of whose, then?’ asked Pleasant.
 
 The man pointed upward with his forefinger, and, slowly recovering that
-hand, settled his chin in it again as he looked at the fire. Bringing
+hand, settled his chin in it again as he looked at the [[Fire|fire]]. Bringing
 her inherited eye to bear upon him, Pleasant Riderhood felt more
 and more uncomfortable, his manner was so mysterious, so stern, so
-self-possessed.
+[[Self|self]]-possessed.
 
-‘Anyways,’ said the damsel, ‘I am glad punishment followed, and I say
+‘Anyways,’ said the [[Damsel|damsel]], ‘I am glad punishment followed, and I say
 so. Fair trade with seafaring men gets a bad name through deeds of
 violence. I am as much against deeds of violence being done to seafaring
 men, as seafaring men can be themselves. I am of the same opinion as my
@@ -52,7 +52,7 @@ no robbery and no blows.’ In the way of trade Miss Pleasant would have
 taken—and indeed did take when she could—as much as thirty shillings
 a week for board that would be dear at five, and likewise conducted the
 Leaving business upon correspondingly equitable principles; yet she had
-that tenderness of conscience and those feelings of humanity, that the
+that tenderness of [[Conscience|conscience]] and those feelings of humanity, that the
 moment her ideas of trade were overstepped, she became the seaman’s
 champion, even against her father whom she seldom otherwise resisted.
 
@@ -68,12 +68,12 @@ heated by verbal or fistic altercation.
 speak!’ growled Mr Riderhood, stooping to pick up his hat, and making
 a feint at her with his head and right elbow; for he took the delicate
 subject of robbing seamen in extraordinary dudgeon, and was out of
-humour too. ‘What are you Poll Parroting at now? Ain’t you got nothing
-to do but fold your arms and stand a Poll Parroting all night?’
+[[Humour|humour]] too. ‘What are you Poll Parroting at now? Ain’t you got nothing
+to do but fold your arms and stand a Poll Parroting all [[Night|night]]?’
 
-‘Let her alone,’ urged the man. ‘She was only speaking to me.’
+‘Let her [[Alone|alone]],’ urged the man. ‘She was only speaking to me.’
 
-‘Let her alone too!’ retorted Mr Riderhood, eyeing him all over. ‘Do you
+‘Let her [[Alone|alone]] too!’ retorted Mr Riderhood, eyeing him all over. ‘Do you
 know she’s my daughter?’
 
 ‘Yes.’
@@ -84,7 +84,7 @@ man? And who may YOU be, and what may YOU want?’
 
 ‘How can I tell you until you are silent?’ returned the other fiercely.
 
-‘Well,’ said Mr Riderhood, quailing a little, ‘I am willing to be silent
+‘[[Well]],’ said Mr Riderhood, quailing a little, ‘I am willing to be silent
 for the purpose of hearing. But don’t Poll Parrot me.’
 
 ‘Are you thirsty, you?’ the man asked, in the same fierce short way,
@@ -111,14 +111,14 @@ one another surlily enough, until Pleasant came back.
 
 ‘There’s small glasses on the shelf,’ said Riderhood to his daughter.
 ‘Give me the one without a foot. I gets my living by the sweat of my
-brow, and it’s good enough for ME.’ This had a modest self-denying
+brow, and it’s good enough for ME.’ This had a modest [[Self|self]]-denying
 appearance; but it soon turned out that as, by reason of the
 impossibility of standing the glass upright while there was anything in
 it, it required to be emptied as soon as filled, Mr Riderhood managed to
 drink in the proportion of three to one.
 
 With his Fortunatus’s goblet ready in his hand, Mr Riderhood sat down on
-one side of the table before the fire, and the strange man on the other:
+one side of the table before the [[Fire|fire]], and the strange man on the other:
 Pleasant occupying a stool between the latter and the fireside. The
 background, composed of handkerchiefs, coats, shirts, hats, and other
 old articles ‘On Leaving,’ had a general dim resemblance to human
@@ -139,7 +139,7 @@ great deliberation.
 
 At first Riderhood had sat with his footless glass extended at arm’s
 length for filling, while the very deliberate stranger seemed absorbed
-in his preparations. But, gradually his arm reverted home to him, and
+in his preparations. But, gradually his arm reverted [[Home|home]] to him, and
 his glass was lowered and lowered until he rested it upside down upon
 the table. By the same degrees his attention became concentrated on
 the knife. And now, as the man held out the bottle to fill all round,

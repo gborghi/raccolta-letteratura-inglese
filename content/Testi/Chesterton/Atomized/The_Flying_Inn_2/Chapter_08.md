@@ -20,10 +20,10 @@ THE SOCIETY OF SIMPLE SOULS
 
 UNDER sunset, at once softer and more sombre, under
 which the leaden sea took on a Lenten purple, a tint
-appropriate to tragedy, Lady Joan Brett was once
+appropriate to [[Tragedy|tragedy]], Lady Joan Brett was once
 more drifting moodily along the sea-front.  The evening
 had been rainy and lowering; the watering-place
-season was nearly over; and she was almost alone
+season was nearly over; and she was almost [[Alone|alone]]
 on the shore; but she had fallen into the habit of
 restlessly pacing the place, and it seemed to satisfy some
 subconscious hunger in her rather mixed psychology.
@@ -31,7 +31,7 @@ Through all her brooding her animal senses always
 remained abnormally active: she could _smell_ the sea
 when it had ebbed almost to the horizon, and in the
 same way she heard, through every whisper of waves
-or wind, the swish or flutter of another woman's
+or [[Wind|wind]], the swish or flutter of another woman's
 skirt behind her.  There is, she felt, something
 unmistakable about the movements of a lady who is
 generally very dignified and rather slow, and who happens
@@ -54,7 +54,7 @@ eyes of ladies who ask questions at public meetings.
 Joan Brett was herself, as she had said, a connection
 of the Ivywood family; but Lady Enid was Ivywood's
 first cousin, and for all practical purposes his sister.
-For she kept house for him and his mother, who was
+For she kept [[house]] for him and his mother, who was
 now so incredibly old that she only survived to satisfy
 conventional opinion in the character of a speechless
 and useless _chaperon_.  And Ivywood was not the sort
@@ -67,7 +67,7 @@ sense that shone on her cousin's.
 "Oh, I'm so glad I've caught you up," she said to
 Joan.  "Lady Ivywood wants you _so_ much to come to
 us for the week-end or so, while Philip is still there.
-He always admired your sonnet on Cyprus so much,
+He always admired your [[Sonnet|sonnet]] on Cyprus so much,
 and he wants to talk to you about this policy of his in
 Turkey.  Of course he's awfully busy, but I shall be
 seeing him tonight after the meeting."
@@ -75,29 +75,29 @@ seeing him tonight after the meeting."
 "No living creature," said Lady Joan, with a smile,
 "ever saw him except before or after a meeting."
 
-"Are you a Simple Soul?" asked Lady Enid, carelessly.
+"Are you a Simple [[Soul]]?" asked Lady Enid, carelessly.
 
-"Am I a simple soul?" asked Joan, drawing her
+"Am I a simple [[Soul|soul]]?" asked Joan, drawing her
 black brows together.  "Merciful Heavens, no!  What
 can you mean?"
 
 "Their meeting's on tonight at the small Universal
 Hall, and Philip's taking the chair," explained the
 other lady.  "He's very annoyed that he has to leave
-early to get up to the House, but Mr. Leveson can
+early to get up to the [[house|House]], but Mr. Leveson can
 take the chair for the last bit.  They've got Misysra
 Ammon."
 
-"Got Mrs. Who?" asked Joan, in honest doubt.
+"Got Mrs. Who?" asked Joan, in honest [[Doubt|doubt]].
 
 "You make game of everything," said Lady Enid,
 in cheerless amiability.  "It's the man everyone's talking
-about--_you_ know as well as I do.  It's really his
+about--_you_ know as [[Well|well]] as I do.  It's really his
 influence that has _made_ the Simple Souls."
 
 "Oh!" said Lady Joan Brett.
 
-Then after a long silence, she added: "Who are the
+Then after a long [[Silence|silence]], she added: "Who are the
 Simple Souls?  I should be interested in them, if I
 could meet any."  And she turned her dark, brooding
 face on the darkening purple sea.
@@ -106,7 +106,7 @@ face on the darkening purple sea.
 Wimpole, "that you haven't met any of them yet?"
 
 "No," said Joan, looking at the last dark line of sea.
-"I never met but one simple soul in my life."
+"I never met but one simple [[Soul|soul]] in my life."
 
 "But you must come to the meeting!" cried Lady
 Enid, with frosty and sparkling gaiety.  "You must
@@ -145,7 +145,7 @@ longer impossible.  The East and the West are one.
 The East is no longer East nor the West West; for
 a small isthmus has been broken, and the Atlantic and
 Pacific are a single sea.  No man assuredly has done
-more of this mighty work of unity than the brilliant
+more of this mighty work of [[unity]] than the brilliant
 and distinguished philosopher to whom you will have
 the pleasure of listening tonight; and I profoundly
 wish that affairs more practical, for I will not call
@@ -158,16 +158,16 @@ developed before you tonight.  I have long been
 increasingly convinced that underneath a certain mask
 of stiffness which the Mahommedan religion has worn
 through certain centuries, as a somewhat similar mask
-has been worn by the religion of the Jews, Islam has
+has been worn by the religion of the Jews, [[Islam]] has
 in it the potentialities of being the most progressive of
 all religions; so that a century or two to come we may
-see the cause of peace, of science and of reform
-everywhere supported by Islam as it is everywhere
+see the cause of peace, of science and of [[Reform|reform]]
+everywhere supported by [[Islam]] as it is everywhere
 supported by Israel.  Not in vain, I think, is the symbol
-of that faith the Crescent, the growing thing.  While
+of that [[Faith|faith]] the Crescent, the growing thing.  While
 other creeds carry emblems implying more or less of
-finality, for this great creed of hope its very imperfection
-is its pride, and men shall walk fearlessly in new
+finality, for this great creed of [[Hope|hope]] its very imperfection
+is its [[Pride|pride]], and men shall walk fearlessly in new
 and wonderful paths, following the increasing curve
 which contains and holds up before them the eternal
 promises of the orb."
@@ -181,13 +181,13 @@ clap or stamp had subsided, he sprang up alertly, his
 light great-coat over his arm, shook hands with the
 lecturer, bowed to the audience and slid quickly out of
 the hall.  Mr. Leveson, the swarthy young man with
-the drooping double-eyeglass rather bashfully to the
+the drooping [[Double|double]]-eyeglass rather bashfully to the
 front, took the empty seat on the platform, and in a
 few words presented the eminent Turkish mystic
-Misysra Ammon, sometimes called the Prophet of the
-Moon.
+Misysra Ammon, sometimes called the [[Prophet]] of the
+[[Moon]].
 
-Lady Joan found the Prophet's English accent somewhat
+Lady Joan found the [[Prophet]]'s English accent somewhat
 improved by good society, but he still elongated
 the letter "u" in the same bleating manner, and his
 remarks had exactly the same rabidly wrong-headed
@@ -201,10 +201,10 @@ sterility and worldly ineffectiveness.
 the practical tings, if you could come to consider them in a manner
 quite equal, that our methods are better than your methods.  My
 ancestors invented the curved swords, because one cuts better with a
-curved sword.  Your ancestors possessed the straight swords out of
+curved [[Sword|sword]].  Your ancestors possessed the straight swords out of
 some romantic fancy of being what you call straight; or, I will take a
 more plain example, of which I have myself experience.  When I first
-had the honour of meeting Lord Ivywood, I was unused to your various
+had the [[Honour|honour]] of meeting Lord Ivywood, I was unused to your various
 ceremonies and had a little difficulty, joost a little difficulty, in
 entering Mr.  Claridge's hotel, where his lordship had invited me.  A
 servant of the hotel was standing joost beside me on the doorstep.  I
@@ -231,8 +231,8 @@ helpless looking people with limp hair and gowns like
 green curtains, and their dry faces were as dry as
 ever.
 
-"But I explained to him.  I explained to him for a long time, for a
-carefully occupied time, that it was more practical, more
+"But I explained to him.  I explained to him for a long [[Time|time]], for a
+carefully occupied [[Time|time]], that it was more practical, more
 business-like, more altogether for utility, to take off the boo-oots
 than to remove the hat.  'Let us,' I said to him, 'consider what many
 complaints are made against the footwear, what few complaints against
@@ -245,13 +245,13 @@ occasion butt you with the hat?'"
 He looked round with a radiant seriousness, which
 made Lady Joan almost as speechless for sympathy
 as she was for amusement.  With all that was most
-sound in his too complicated soul she realised the
+sound in his too complicated [[Soul|soul]] she realised the
 presence of a man really convinced.
 
 "The man on the doorstep, he would not listen to
 me," went on Misysra Ammon, pathetically.  "He said
 there would be a crowd if I stood on the doorstep,
-holding in my hand my boo-oots.  Well, I do not know
+holding in my hand my boo-oots.  [[Well]], I do not know
 why, in your country you always send the young
 males to be the first of your crowds.  They certainly
 were making a number of noises, the young males."
@@ -262,7 +262,7 @@ back parts of the hall.  She felt that if she looked for
 one moment more at the serious face with the Jewish
 nose and the Persian beard, she would publicly
 disgrace herself; or, what was quite as bad (for she was
-the generous sort of aristocrat) publicly insult the
+the generous sort of [[aristocrat]]) publicly insult the
 lecturer.  She had a feeling that the sight of all the
 Simple Souls in bulk might have a soothing effect.  It
 had.  It had what might have been mistaken for a
@@ -270,7 +270,7 @@ depressing effect.  Lady Joan resumed her seat with a
 controlled countenance.
 
 "Now, why," asked the Eastern philosopher, "do I
-tell so simple a little story of your London streets--a
+tell so simple a little story of your [[London]] streets--a
 thing happening any day?  The little mistake had no
 preju-udicial effect.  Lord Ivywood came out, at the
 end.  He made no attempt to explain the true view of
@@ -279,8 +279,8 @@ Mr. Claridge's servant remained on the doorstep.
 But he commanded Mr. Claridge's servant to
 restore to me one of my boo-oots, which had fallen
 down the front steps, while I was explaining this
-harmlessness of the hat in the home.  So all was, for me,
-very well.  But why do I tell such little tales?"
+harmlessness of the hat in the [[Home|home]].  So all was, for me,
+very [[Well|well]].  But why do I tell such little tales?"
 
 He spread out his hands again, in his fanlike
 eastern style.  Then he clapped them together, so suddenly
@@ -294,10 +294,10 @@ could give of the wrong and slanderous character of
 the charge that we fail in our domesticities.  That we
 fail especially in our treatment of the womankind.  I
 appeal to any lady, to any Christian lady.  Is not the
-boo-oot more devastating, more dreaded in the home
+boo-oot more devastating, more dreaded in the [[Home|home]]
 than the hat?  The boot jumps, he bound, he run about,
 he break things, he leave on the carpet the earths of
-the garden.  The hat, he remain quiet on his hat-peg.
+the [[Garden|garden]].  The hat, he remain quiet on his hat-peg.
 Look at him on his hat-peg; how quiet and good he
 remain!  Why not let him remain quiet also on his
 head?"
@@ -312,7 +312,7 @@ the common objection our worthy enemies make
 against our polygamy?  That it is disdainful of the
 womanhood.  But how can this be so, my friends,
 when it allows the womanhood to be present in so
-large numbers?  When in your House of Commons
+large numbers?  When in your [[house|House]] of Commons
 you put a hundred English members and joost one little
 Welsh member, you do not say 'The Welshman is on
 top; he is our Sultan; may he live for ever!'  If your
@@ -332,23 +332,23 @@ The door of the hall stood open, and occasional
 sounds came even from that deserted end of the town.
 Two men seemed to be passing along the distant
 parade; one of them was singing.  It was common enough
-for workmen to sing going home at night, and the
+for workmen to sing going [[Home|home]] at [[Night|night]], and the
 voice, though a loud one, would have been too far off
 for Joan to hear the words.  Only Joan happened to
 know the words.  She could almost see them before
 her, written in a round swaggering hand on the pink
-page of an old school-girl album at home.  She knew
+page of an old school-girl album at [[Home|home]].  She knew
 the words and the voice.
 
 "I come from Castlepatrick and my heart is on my sleeve,
- And any sword or pistol boy can hit ut with me leave,
+ And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit ut with me leave,
  It shines there for an epaulette, as golden as a flame,
  As naked as me ancestors, as noble as me name.
  For I come from Castlepatrick and my heart is on my
     sleeve,
  But a lady stole it from me on St. Gallowglass's Eve."
 
-Startlingly and with strong pain there sprang up
+Startlingly and with strong [[Pain|pain]] there sprang up
 before Joan's eyes a patch of broken heath with a very
 deep hollow of white sand, blinding in the sun.  No
 words, no name, only the place.
@@ -356,7 +356,7 @@ words, no name, only the place.
 "The folks that live in Liverpool, their heart is in their boots;
  They go to Hell like lambs, they do, because the hooter hoots.
  Where men may not be dancin', though the wheels may
-    dance all day;
+    [[Dance|dance]] all day;
  And men may not be smokin', but only chimneys may.
  But I come from Castlepatrick and my heart is on my
     sleeve,
@@ -387,7 +387,7 @@ will not refu-use either this great social experiment,
 this great polygamical method which also arose out
 of the East, and always returns.  For this is that
 Higher Polygamy which always comes, like the sun
-itself, out of the orient, but is only at its noontide
+itself, out of the [[Orient|orient]], but is only at its noontide
 splendour when the sun is high in heaven."
 
 She was but vaguely conscious of Mr. Leveson, the
@@ -396,9 +396,9 @@ the entrancing lecture in suitable terms, and
 calling on any of the Simple Souls who might have
 questions to ask, to ask them.  It was only when the
 Simple Souls had displayed their simplicity with the
-usual parade of well-bred reluctance and fussy self-effacement, that anyone addressed the chair.  And it
+usual parade of [[Well|well]]-bred reluctance and fussy [[Self|self]]-effacement, that anyone addressed the chair.  And it
 was only after somebody had been addressing the
-chair for some time that Joan gradually awoke to the
+chair for some [[Time|time]] that Joan gradually awoke to the
 fact that the address was somewhat unusual.
 
 * * *

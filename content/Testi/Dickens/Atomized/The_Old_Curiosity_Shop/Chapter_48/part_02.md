@@ -34,7 +34,7 @@ do on such occasions, indeed.’
 That Quilp lied most heartily in this speech, it needed no very great
 penetration to discover, although for anything that he suffered to
 appear in his face, voice, or manner, he might have been clinging to
-the truth with the quiet constancy of a martyr.
+the [[Truth|truth]] with the quiet constancy of a martyr.
 
 ‘In the name of all that’s calculated to drive one crazy, man,’ said
 the unfortunate single gentleman, ‘have you not, for some reason of
@@ -49,11 +49,11 @@ shoulders.  ‘If I was, I should tell my own fortune--and make it.’
 himself impatiently upon a sofa.  ‘Pray leave us, if you please.’
 
 ‘Willingly,’ returned Quilp.  ‘Most willingly.  Christopher’s mother,
-my good soul, farewell.  A pleasant journey--back, sir.  Ahem!’
+my good [[Soul|soul]], farewell.  A pleasant [[Journey|journey]]--back, sir.  Ahem!’
 
 With these parting words, and with a grin upon his features altogether
 indescribable, but which seemed to be compounded of every monstrous
-grimace of which men or monkeys are capable, the dwarf slowly retreated
+grimace of which men or monkeys are capable, the [[Dwarf|dwarf]] slowly retreated
 and closed the door behind him.
 
 ‘Oho!’ he said when he had regained his own room, and sat himself down
@@ -63,15 +63,15 @@ In-deed!’
 Chuckling as though in very great glee, and recompensing himself for
 the restraint he had lately put upon his countenance by twisting it
 into all imaginable varieties of ugliness, Mr Quilp, rocking himself to
-and fro in his chair and nursing his left leg at the same time, fell
+and fro in his chair and nursing his left leg at the same [[Time|time]], fell
 into certain meditations, of which it may be necessary to relate the
 substance.
 
 First, he reviewed the circumstances which had led to his repairing to
-that spot, which were briefly these.  Dropping in at Mr Sampson Brass’s
+that spot, which were briefly these.  Dropping in at Mr [[Sampson Brass]]’s
 office on the previous evening, in the absence of that gentleman and
 his learned sister, he had lighted upon Mr Swiveller, who chanced at
-the moment to be sprinkling a glass of warm gin and water on the dust
+the moment to be sprinkling a glass of warm gin and [[Water|water]] on the [[Dust|dust]]
 of the law, and to be moistening his clay, as the phrase goes, rather
 copiously.  But as clay in the abstract, when too much moistened,
 becomes of a weak and uncertain consistency, breaking down in
@@ -97,12 +97,12 @@ the single gentleman above stairs must be the same individual who had
 waited on him, and having assured himself by further inquiries that
 this surmise was correct, had no difficulty in arriving at the
 conclusion that the intent and object of his correspondence with Kit
-was the recovery of his old client and the child.  Burning with
+was the recovery of his old client and the [[Child|child]].  Burning with
 curiosity to know what proceedings were afoot, he resolved to pounce
 upon Kit’s mother as the person least able to resist his arts, and
 consequently the most likely to be entrapped into such revelations as
 he sought; so taking an abrupt leave of Mr Swiveller, he hurried to her
-house.  The good woman being from home, he made inquiries of a
+[[house]].  The good woman being from [[Home|home]], he made inquiries of a
 neighbour, as Kit himself did soon afterwards, and being directed to
 the chapel be took himself there, in order to waylay her, at the
 conclusion of the service.
@@ -110,17 +110,17 @@ conclusion of the service.
 He had not sat in the chapel more than a quarter of an hour, and with
 his eyes piously fixed upon the ceiling was chuckling inwardly over the
 joke of his being there at all, when Kit himself appeared.  Watchful as
-a lynx, one glance showed the dwarf that he had come on business.
+a lynx, one glance showed the [[Dwarf|dwarf]] that he had come on business.
 Absorbed in appearance, as we have seen, and feigning a profound
 abstraction, he noted every circumstance of his behaviour, and when he
 withdrew with his family, shot out after him.  In fine, he traced them
-to the notary’s house; learnt the destination of the carriage from one
-of the postilions; and knowing that a fast night-coach started for the
+to the notary’s [[house]]; learnt the destination of the carriage from one
+of the postilions; and knowing that a fast [[Night|night]]-coach started for the
 same place, at the very hour which was on the point of striking, from a
 street hard by, darted round to the coach-office without more ado, and
 took his seat upon the roof.  After passing and repassing the carriage
-on the road, and being passed and repassed by it sundry times in the
-course of the night, according as their stoppages were longer or
+on the [[Road|road]], and being passed and repassed by it sundry times in the
+course of the [[Night|night]], according as their stoppages were longer or
 shorter; or their rate of travelling varied, they reached the town
 almost together.  Quilp kept the chaise in sight, mingled with the
 crowd, learnt the single gentleman’s errand, and its failure, and

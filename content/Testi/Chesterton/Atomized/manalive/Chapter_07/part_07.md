@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 1 (part 7)"
+title: "[[manalive]] — Chapter 1 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -25,12 +25,12 @@ the upper part of Eames's bald head.
 of ghastly lucidity, `I shall go mad.'
 
 "`And so look at things from the right angle,' observed Smith,
-sighing gently.  `Ah, but madness is only a palliative at best,
+sighing gently.  `Ah, but [[Madness|madness]] is only a palliative at best,
 a drug.  The only cure is an operation--an operation that is
-always successful:  death.'
+always successful:  [[Death|death]].'
 
-"As he spoke the sun rose.  It seemed to put colour into everything,
-with the rapidity of a lightning artist.  A fleet of little
+"As he spoke the sun [[Rose|rose]].  It seemed to put colour into everything,
+with the rapidity of a [[Lightning|lightning]] [[Artist|artist]].  A fleet of little
 clouds sailing across the sky changed from pigeon-gray to pink.
 All over the little academic town the tops of different buildings
 took on different tints:  here the sun would pick out the green
@@ -39,23 +39,23 @@ here the copper ornament on some artistic shop, and there
 the sea-blue slates of some old and steep church roof.
 All these coloured crests seemed to have something oddly
 individual and significant about them, like crests of famous
-knights pointed out in a pageant or a battlefield:  they each
-arrested the eye, especially the rolling eye of Emerson Eames
+knights pointed out in a pageant or a [[Battlefield|battlefield]]:  they each
+arrested the eye, especially the [[rolling]] eye of Emerson Eames
 as he looked round on the morning and accepted it as his last.
 Through a narrow chink between a black timber tavern and a big
-gray college he could see a clock with gilt hands which the
-sunshine set on fire.  He stared at it as though hypnotized;
-and suddenly the clock began to strike, as if in personal reply.
-As if at a signal, clock after clock took up the cry:
+gray college he could see a [[Clock|clock]] with gilt hands which the
+sunshine set on [[Fire|fire]].  He stared at it as though hypnotized;
+and suddenly the [[Clock|clock]] began to strike, as if in personal reply.
+As if at a signal, [[Clock|clock]] after [[Clock|clock]] took up the cry:
 all the churches awoke like chickens at cockcrow.
-The birds were already noisy in the trees behind the college.
-The sun rose, gathering glory that seemed too full for the deep
+The [[Birds|birds]] were already noisy in the trees behind the college.
+The sun [[Rose|rose]], gathering glory that seemed too full for the deep
 skies to hold, and the shallow waters beneath them seemed golden
 and brimming and deep enough for the thirst of the gods.
 Just round the corner of the College, and visible from his crazy perch,
 were the brightest specks on that bright landscape, the villa
-with the spotted blinds which he had made his text that night.
-He wondered for the first time what people lived in them.
+with the spotted blinds which he had made his text that [[Night|night]].
+He wondered for the first [[Time|time]] what people lived in them.
 
 "Suddenly he called out with mere querulous authority,
 as he might have called to a student to shut a door.
@@ -70,18 +70,18 @@ Do I understand that you want to get back to life?'
 
 "`I'd give anything to get back,' replied the unhappy professor.
 
-"`Give anything!' cried Smith; `then, blast your impudence,
+"`Give anything!' cried [[smith|Smith]]; `then, blast your impudence,
 give us a song!'
 
-"`What song do you mean?' demanded the exasperated Eames; `what song?'
+"`What [[Song|song]] do you mean?' demanded the exasperated Eames; `what song?'
 
-"`A hymn, I think, would be most appropriate,' answered the other gravely.
+"`A [[Hymn|hymn]], I think, would be most appropriate,' answered the other gravely.
 `I'll let you off if you'll repeat after me the words--
 
 	"`I thank the goodness and the grace
 	    That on my birth have smiled.
 	  And perched me on this curious place,
-	    A happy English child.'
+	    A happy English [[Child|child]].'
 
 
 "Dr. Emerson Eames having briefly complied, his persecutor abruptly
@@ -114,17 +114,17 @@ like a long metallic finger.
 "`Spotted blinds,' said Emerson Eames faintly.
 
 "`You can't say fairer than that,' admitted the younger man,
-`and now I'll just tell you this to wind up with.
+`and now I'll just tell you this to [[Wind|wind]] up with.
 If you really were what you profess to be, I don't see that it
 would matter to snail or seraph if you broke your impious stiff
 neck and dashed out all your drivelling devil-worshipping brains.
 But in strict biographical fact you are a very nice fellow,
-addicted to talking putrid nonsense, and I love you like a brother.
-I shall therefore fire off all my cartridges round your head
+addicted to talking putrid nonsense, and I [[Love|love]] you like a brother.
+I shall therefore [[Fire|fire]] off all my cartridges round your head
 so as not to hit you (I am a good shot, you may be glad to hear),
 and then we will go in and have some breakfast.'
 
-"He then let off two barrels in the air, which the Professor
+"He then let off two barrels in the air, which [[The Professor|the Professor]]
 endured with singular firmness, and then said, `But don't fire
 them all off.'
 
@@ -133,17 +133,17 @@ them all off.'
 "`Keep them,' asked his companion, `for the next man you meet
 who talks as we were talking.'
 
-"It was at this moment that Smith, looking down, perceived apoplectic
+"It was at this moment that [[smith|Smith]], looking down, perceived apoplectic
 terror upon the face of the Sub-Warden, and heard the refined shriek
 with which he summoned the porter and the ladder.
 
-"It took Dr. Eames some little time to disentangle himself from
-the ladder, and some little time longer to disentangle himself
+"It took Dr. Eames some little [[Time|time]] to disentangle himself from
+the ladder, and some little [[Time|time]] longer to disentangle himself
 from the Sub-Warden. But as soon as he could do so unobtrusively,
 he rejoined his companion in the late extraordinary scene.
-He was astonished to find the gigantic Smith heavily shaken,
+He was astonished to find the gigantic [[smith|Smith]] heavily shaken,
 and sitting with his shaggy head on his hands.  When addressed,
 he lifted a very pale face.
 
 "`Why, what is the matter?' asked Eames, whose own nerves had by this
-time twittered themselves quiet, like the morning birds.
+[[Time|time]] twittered themselves quiet, like the morning [[Birds|birds]].

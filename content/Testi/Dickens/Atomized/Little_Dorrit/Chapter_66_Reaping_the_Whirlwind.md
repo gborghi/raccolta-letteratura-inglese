@@ -17,29 +17,29 @@ tags:
 CHAPTER 26. Reaping the Whirlwind
 
 
-With a precursory sound of hurried breath and hurried feet, Mr Pancks
-rushed into Arthur Clennam’s Counting-house. The Inquest was over, the
+With a precursory sound of hurried breath and hurried feet, [[Mr Pancks]]
+rushed into [[Arthur Clennam]]’s Counting-[[house]]. The Inquest was over, the
 letter was public, the Bank was broken, the other model structures of
-straw had taken fire and were turned to smoke. The admired piratical
-ship had blown up, in the midst of a vast fleet of ships of all rates,
+straw had taken [[Fire|fire]] and were turned to smoke. The admired piratical
+[[Ship|ship]] had blown up, in the midst of a vast fleet of ships of all rates,
 and boats of all sizes; and on the deep was nothing but ruin; nothing
-but burning hulls, bursting magazines, great guns self-exploded tearing
+but burning hulls, bursting magazines, great guns [[Self|self]]-exploded tearing
 friends and neighbours to pieces, drowning men clinging to unseaworthy
 spars and going down every minute, spent swimmers, floating dead, and
 sharks.
 
-The usual diligence and order of the Counting-house at the Works were
+The usual diligence and order of the Counting-[[house]] at the Works were
 overthrown. Unopened letters and unsorted papers lay strewn about the
 desk. In the midst of these tokens of prostrated energy and dismissed
-hope, the master of the Counting-house stood idle in his usual place,
+[[Hope|hope]], the master of the Counting-[[house]] stood idle in his usual place,
 with his arms crossed on the desk, and his head bowed down upon them.
 
-Mr Pancks rushed in and saw him, and stood still. In another minute, Mr
-Pancks’s arms were on the desk, and Mr Pancks’s head was bowed down
-upon them; and for some time they remained in these attitudes, idle and
+[[Mr Pancks]] rushed in and saw him, and stood still. In another minute, Mr
+Pancks’s arms were on the desk, and [[Mr Pancks]]’s head was bowed down
+upon them; and for some [[Time|time]] they remained in these attitudes, idle and
 silent, with the width of the little room between them.
 
-Mr Pancks was the first to lift up his head and speak.
+[[Mr Pancks]] was the first to lift up his head and speak.
 
 ‘I persuaded you to it, Mr Clennam. I know it. Say what you will. You
 can’t say more to me than I say to myself. You can’t say more than I
@@ -51,21 +51,21 @@ do I myself deserve!’
 ‘Better luck,’ said Pancks.
 
 ‘I,’ pursued Clennam, without attending to him, ‘who have ruined my
-partner! Pancks, Pancks, I have ruined Doyce! The honest, self-helpful,
+partner! Pancks, Pancks, I have ruined Doyce! The honest, [[Self|self]]-helpful,
 indefatigable old man who has worked his way all through his life;
 the man who has contended against so much disappointment, and who has
-brought out of it such a good and hopeful nature; the man I have felt
+brought out of it such a good and hopeful [[Nature|nature]]; the man I have felt
 so much for, and meant to be so true and useful to; I have ruined
 him--brought him to shame and disgrace--ruined him, ruined him!’
 
 The agony into which the reflection wrought his mind was so distressing
-to see, that Mr Pancks took hold of himself by the hair of his head, and
+to see, that [[Mr Pancks]] took hold of himself by the hair of his head, and
 tore it in desperation at the spectacle.
 
 ‘Reproach me!’ cried Pancks. ‘Reproach me, sir, or I’ll do myself an
-injury. Say,--You fool, you villain. Say,--Ass, how could you do it;
+injury. Say,--You [[Fool|fool]], you [[Villain|villain]]. Say,--Ass, how could you do it;
 Beast, what did you mean by it! Catch hold of me somewhere. Say
-something abusive to me!’ All the time, Mr Pancks was tearing at his
+something abusive to me!’ All the [[Time|time]], [[Mr Pancks]] was tearing at his
 tough hair in a most pitiless and cruel manner.
 
 ‘If you had never yielded to this fatal mania, Pancks,’ said Clennam,
@@ -88,19 +88,19 @@ leaders of the blind, Pancks! Blind leaders of the blind! But Doyce,
 Doyce, Doyce; my injured partner!’ That brought his head down on the
 desk once more.
 
-Their former attitudes and their former silence were once more first
+Their former attitudes and their former [[Silence|silence]] were once more first
 encroached upon by Pancks.
 
 ‘Not been to bed, sir, since it began to get about. Been high and low,
-on the chance of finding some hope of saving any cinders from the fire.
+on the chance of finding some [[Hope|hope]] of saving any cinders from the [[Fire|fire]].
 All in vain. All gone. All vanished.’
 
-‘I know it,’ returned Clennam, ‘too well.’
+‘I know it,’ returned Clennam, ‘too [[Well|well]].’
 
-Mr Pancks filled up a pause with a groan that came out of the very
-depths of his soul.
+[[Mr Pancks]] filled up a pause with a groan that came out of the very
+depths of his [[Soul|soul]].
 
-‘Only yesterday, Pancks,’ said Arthur; ‘only yesterday, Monday, I had
+‘Only yesterday, Pancks,’ said [[Arthur]]; ‘only yesterday, Monday, I had
 the fixed intention of selling, realising, and making an end of it.’
 
 ‘I can’t say as much for myself, sir,’ returned Pancks. ‘Though it’s
@@ -120,11 +120,11 @@ difficulty.
 
 ‘Everything.’
 
-Mr Pancks took hold of his tough hair again, and gave it such a wrench
+[[Mr Pancks]] took hold of his tough hair again, and gave it such a wrench
 that he pulled out several prongs of it. After looking at these with an
 eye of wild hatred, he put them in his pocket.
 
-‘My course,’ said Clennam, brushing away some tears that had been
+‘My course,’ said Clennam, brushing away some [[Tears|tears]] that had been
 silently dropping down his face, ‘must be taken at once. What wretched
 amends I can make must be made. I must clear my unfortunate partner’s
 reputation. I must retain nothing for myself. I must resign to our
@@ -138,32 +138,32 @@ in the rest of my days.’
 the business can pass out of my hands, the better for it. There are
 engagements to be met, this week, which would bring the catastrophe
 before many days were over, even if I would postpone it for a single day
-by going on for that space, secretly knowing what I know. All last night
+by going on for that space, secretly knowing what I know. All last [[Night|night]]
 I thought of what I would do; what remains is to do it.’
 
 ‘Not entirely of yourself?’ said Pancks, whose face was as damp as if
-his steam were turning into water as fast as he dismally blew it off.
+his steam were turning into [[Water|water]] as fast as he dismally blew it off.
 ‘Have some legal help.’
 
 ‘Perhaps I had better.’
 
 ‘Have Rugg.’
 
-‘There is not much to do. He will do it as well as another.’
+‘There is not much to do. He will do it as [[Well|well]] as another.’
 
 ‘Shall I fetch Rugg, Mr Clennam?’
 
-‘If you could spare the time, I should be much obliged to you.’
+‘If you could spare the [[Time|time]], I should be much obliged to you.’
 
-Mr Pancks put on his hat that moment, and steamed away to Pentonville.
-While he was gone Arthur never raised his head from the desk, but
+[[Mr Pancks]] put on his hat that moment, and steamed away to Pentonville.
+While he was gone [[Arthur]] never raised his head from the desk, but
 remained in that one position.
 
-Mr Pancks brought his friend and professional adviser, Mr Rugg, back
-with him. Mr Rugg had had such ample experience, on the road, of Mr
+[[Mr Pancks]] brought his friend and professional adviser, Mr Rugg, back
+with him. Mr Rugg had had such ample experience, on the [[Road|road]], of Mr
 Pancks’s being at that present in an irrational state of mind, that he
 opened his professional mediation by requesting that gentleman to take
-himself out of the way. Mr Pancks, crushed and submissive, obeyed.
+himself out of the way. [[Mr Pancks]], crushed and submissive, obeyed.
 
 ‘He is not unlike what my daughter was, sir, when we began the Breach of
 Promise action of Rugg and Bawkins, in which she was Plaintiff,’ said
@@ -186,7 +186,7 @@ Clennam, ‘I should have cared far less.’
 ‘You surprise me. That’s singular, sir. I have generally found, in my
 experience, that it’s their own money people are most particular about.
 I have seen people get rid of a good deal of other people’s money, and
-bear it very well: very well indeed.’
+bear it very [[Well|well]]: very [[Well|well]] indeed.’
 
 With these comforting remarks, Mr Rugg seated himself on an office-stool
 at the desk and proceeded to business.
@@ -196,7 +196,7 @@ the state of the case. The question is simple. The question is the
 usual plain, straightforward, common-sense question. What can we do for
 ourself? What can we do for ourself?’
 
-‘This is not the question with me, Mr Rugg,’ said Arthur. ‘You mistake
+‘This is not the question with me, Mr Rugg,’ said [[Arthur]]. ‘You mistake
 it in the beginning. It is, what can I do for my partner, how can I best
 make reparation to him?’
 
@@ -229,24 +229,24 @@ importance, and that it particularly behoved himself publicly to accept
 the blame of what he had rashly done, and publicly to exonerate his
 partner from all participation in the responsibility of it, lest the
 successful conduct of that enterprise should be endangered by the
-slightest suspicion wrongly attaching to his partner’s honour and credit
+slightest suspicion wrongly attaching to his partner’s [[Honour|honour]] and credit
 in another country. He told Mr Rugg that to clear his partner morally,
 to the fullest extent, and publicly and unreservedly to declare that he,
-Arthur Clennam, of that Firm, had of his own sole act, and even
+[[Arthur Clennam]], of that Firm, had of his own sole act, and even
 expressly against his partner’s caution, embarked its resources in the
 swindles that had lately perished, was the only real atonement within
 his power; was a better atonement to the particular man than it would be
 to many men; and was therefore the atonement he had first to make. With
 this view, his intention was to print a declaration to the foregoing
 effect, which he had already drawn up; and, besides circulating it among
-all who had dealings with the House, to advertise it in the public
+all who had dealings with the [[house|House]], to advertise it in the public
 papers. Concurrently with this measure (the description of which cost Mr
 Rugg innumerable wry faces and great uneasiness in his limbs), he would
 address a letter to all the creditors, exonerating his partner in a
-solemn manner, informing them of the stoppage of the House until their
+solemn manner, informing them of the stoppage of the [[house|House]] until their
 pleasure could be known and his partner communicated with, and humbly
 submitting himself to their direction. If, through their consideration
-for his partner’s innocence, the affairs could ever be got into such
+for his partner’s [[innocence]], the affairs could ever be got into such
 train as that the business could be profitably resumed, and its present
 downfall overcome, then his own share in it should revert to his
 partner, as the only reparation he could make to him in money value for
@@ -260,7 +260,7 @@ required the propitiation of a Protest, that he made one. ‘I offer no
 objection, sir,’ said he, ‘I argue no point with you. I will carry out
 your views, sir; but, under protest.’ Mr Rugg then stated, not without
 prolixity, the heads of his protest. These were, in effect, because the
-whole town, or he might say the whole country, was in the first madness
+whole town, or he might say the whole country, was in the first [[Madness|madness]]
 of the late discovery, and the resentment against the victims would be
 very strong: those who had not been deluded being certain to wax
 exceedingly wroth with them for not having been as wise as they were:
@@ -269,23 +269,23 @@ for themselves, of which they were equally certain to see that other
 sufferers were wholly devoid: not to mention the great probability of
 every individual sufferer persuading himself, to his violent
 indignation, that but for the example of all the other sufferers he
-never would have put himself in the way of suffering. Because such a
-declaration as Clennam’s, made at such a time, would certainly draw down
-upon him a storm of animosity, rendering it impossible to calculate on
+never would have put himself in the way of [[Suffering|suffering]]. Because such a
+declaration as Clennam’s, made at such a [[Time|time]], would certainly draw down
+upon him a [[Storm|storm]] of animosity, rendering it impossible to calculate on
 forbearance in the creditors, or on unanimity among them; and exposing
-him a solitary target to a straggling cross-fire, which might bring him
+him a solitary target to a straggling [[Cross|cross]]-[[Fire|fire]], which might bring him
 down from half-a-dozen quarters at once.
 
 To all this Clennam merely replied that, granting the whole protest,
 nothing in it lessened the force, or could lessen the force, of the
 voluntary and public exoneration of his partner. He therefore, once
 and for all, requested Mr Rugg’s immediate aid in getting the business
-despatched. Upon that, Mr Rugg fell to work; and Arthur, retaining no
+despatched. Upon that, Mr Rugg fell to work; and [[Arthur]], retaining no
 property to himself but his clothes and books, and a little loose
 money, placed his small private banker’s-account with the papers of the
 business.
 
-The disclosure was made, and the storm raged fearfully. Thousands of
+The disclosure was made, and the [[Storm|storm]] raged fearfully. Thousands of
 people were wildly staring about for somebody alive to heap reproaches
 on; and this notable case, courting publicity, set the living somebody
 so much wanted, on a scaffold. When people who had nothing to do with
@@ -303,7 +303,7 @@ Mrs Plornish’s corner, Mrs Plornish stood at the door waiting for him,
 and mysteriously besought him to step into Happy Cottage. There he found
 Mr Rugg.
 
-‘I thought I’d wait for you here. I wouldn’t go on to the Counting-house
+‘I thought I’d wait for you here. I wouldn’t go on to the Counting-[[house]]
 this morning if I was you, sir.’
 
 ‘Why not, Mr Rugg?’
@@ -314,46 +314,46 @@ this morning if I was you, sir.’
 
 ‘Yes, but,’ said Mr Rugg, getting between him and the door, ‘hear
 reason, hear reason. They’ll take you soon enough, Mr Clennam, I don’t
-doubt; but, hear reason. It almost always happens, in these cases,
+[[Doubt|doubt]]; but, hear reason. It almost always happens, in these cases,
 that some insignificant matter pushes itself in front and makes much
-of itself. Now, I find there’s a little one out--a mere Palace Court
+of itself. Now, I find there’s a little one out--a mere Palace [[Court]]
 jurisdiction--and I have reason to believe that a caption may be made
 upon that. I wouldn’t be taken upon that.’
 
 ‘Why not?’ asked Clennam.
 
-‘I’d be taken on a full-grown one, sir,’ said Mr Rugg. ‘It’s as well to
+‘I’d be taken on a full-grown one, sir,’ said Mr Rugg. ‘It’s as [[Well|well]] to
 keep up appearances. As your professional adviser, I should prefer your
 being taken on a writ from one of the Superior Courts, if you have no
 objection to do me that favour. It looks better.’
 
-‘Mr Rugg,’ said Arthur, in his dejection, ‘my only wish is, that it
+‘Mr Rugg,’ said [[Arthur]], in his dejection, ‘my only wish is, that it
 should be over. I will go on, and take my chance.’
 
 ‘Another word of reason, sir!’ cried Mr Rugg. ‘Now, this _is_ reason.
 The other may be taste; but this is reason. If you should be taken on a
 little one, sir, you would go to the Marshalsea. Now, you know what the
-Marshalsea is. Very close. Excessively confined. Whereas in the King’s
+Marshalsea is. Very close. Excessively confined. Whereas in the [[King]]’s
 Bench--’ Mr Rugg waved his right hand freely, as expressing abundance of
 space.
 
 ‘I would rather,’ said Clennam, ‘be taken to the Marshalsea than to any
-other prison.’
+other [[Prison|prison]].’
 
 ‘Do you say so indeed, sir?’ returned Mr Rugg. ‘Then this is taste, too,
 and we may be walking.’
 
 He was a little offended at first, but he soon overlooked it. They
 walked through the Yard to the other end. The Bleeding Hearts were more
-interested in Arthur since his reverses than formerly; now regarding him
-as one who was true to the place and had taken up his freedom. Many of
+interested in [[Arthur]] since his reverses than formerly; now regarding him
+as one who was true to the place and had taken up his [[Freedom|freedom]]. Many of
 them came out to look after him, and to observe to one another, with
 great unctuousness, that he was ‘pulled down by it.’ Mrs Plornish
 and her father stood at the top of the steps at their own end, much
 depressed and shaking their heads.
 
-There was nobody visibly in waiting when Arthur and Mr Rugg arrived
-at the Counting-house. But an elderly member of the Jewish persuasion,
+There was nobody visibly in waiting when [[Arthur]] and Mr Rugg arrived
+at the Counting-[[house]]. But an elderly member of the Jewish [[Persuasion|persuasion]],
 preserved in rum, followed them close, and looked in at the glass before
 Mr Rugg had opened one of the day’s letters. ‘Oh!’ said Mr Rugg,
 looking up. ‘How do you do? Step in--Mr Clennam, I think this is the
@@ -365,7 +365,7 @@ ob bithznithz,’ and executed his legal function.
 ‘Shall I accompany you, Mr Clennam?’ asked Mr Rugg politely, rubbing his
 hands.
 
-‘I would rather go alone, thank you. Be so good as send me my clothes.’
+‘I would rather go [[Alone|alone]], thank you. Be so good as send me my clothes.’
 Mr Rugg in a light airy way replied in the affirmative, and shook hands
 with him. He and his attendant then went down-stairs, got into the first
 conveyance they found, and drove to the old gates.
@@ -385,7 +385,7 @@ observation of Clennam with his heavy eyes and heavy heart. Presently
 afterwards, Young John disappeared into the jail.
 
 As Clennam knew enough of the place to know that he was required to
-remain in the Lodge a certain time, he took a seat in a corner, and
+remain in the Lodge a certain [[Time|time]], he took a seat in a corner, and
 feigned to be occupied with the perusal of letters from his pocket.
 They did not so engross his attention, but that he saw, with gratitude,
 how the elder Mr Chivery kept the Lodge clear of prisoners; how he
@@ -393,7 +393,7 @@ signed to some, with his keys, not to come in, how he nudged others with
 his elbows to go out, and how he made his misery as easy to him as he
 could.
 
-Arthur was sitting with his eyes fixed on the floor, recalling the past,
+[[Arthur]] was sitting with his eyes fixed on the floor, recalling the past,
 brooding over the present, and not attending to either, when he felt
 himself touched upon the shoulder. It was by Young John; and he said,
 ‘You can come now.’
@@ -406,7 +406,7 @@ within the inner iron-gate, Young John turned and said to him:
 ‘I thank you heartily.’
 
 Young John turned again, and took him in at the old doorway, up the old
-staircase, into the old room. Arthur stretched out his hand. Young John
+staircase, into the old room. [[Arthur]] stretched out his hand. Young John
 looked at it, looked at him--sternly--swelled, choked, and said:
 
 ‘I don’t know as I can. No, I find I can’t. But I thought you’d like the
@@ -417,6 +417,6 @@ went away directly) to the feelings which the empty room awakened in
 Clennam’s wounded breast, and to the crowding associations with the
 one good and gentle creature who had sanctified it. Her absence in his
 altered fortunes made it, and him in it, so very desolate and so much in
-need of such a face of love and truth, that he turned against the
+need of such a face of [[Love|love]] and [[Truth|truth]], that he turned against the
 wall to weep, sobbing out, as his heart relieved itself, ‘O my Little
 Dorrit!’

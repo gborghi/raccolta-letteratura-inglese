@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 9 (part 1)"
+title: "[[Great Expectations]] — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Chapter IX.
 
 
-When I reached home, my sister was very curious to know all about Miss
+When I reached [[Home|home]], my sister was very curious to know all about Miss
 Havisham’s, and asked a number of questions. And I soon found myself
 getting heavily bumped from behind in the nape of the neck and the
 small of the back, and having my face ignominiously shoved against the
@@ -28,37 +28,37 @@ If a dread of not being understood be hidden in the breasts of other
 young people to anything like the extent to which it used to be hidden
 in mine,—which I consider probable, as I have no particular reason to
 suspect myself of having been a monstrosity,—it is the key to many
-reservations. I felt convinced that if I described Miss Havisham’s as
+reservations. I felt convinced that if I described [[Miss Havisham]]’s as
 my eyes had seen it, I should not be understood. Not only that, but I
-felt convinced that Miss Havisham too would not be understood; and
+felt convinced that [[Miss Havisham]] too would not be understood; and
 although she was perfectly incomprehensible to me, I entertained an
 impression that there would be something coarse and treacherous in my
-dragging her as she really was (to say nothing of Miss Estella) before
+dragging her as she really was (to say nothing of Miss [[Estella]]) before
 the contemplation of Mrs. Joe. Consequently, I said as little as I
 could, and had my face shoved against the kitchen wall.
 
 The worst of it was that that bullying old Pumblechook, preyed upon by
 a devouring curiosity to be informed of all I had seen and heard, came
-gaping over in his chaise-cart at tea-time, to have the details
+gaping over in his chaise-cart at tea-[[Time|time]], to have the details
 divulged to him. And the mere sight of the torment, with his fishy eyes
 and mouth open, his sandy hair inquisitively on end, and his waistcoat
 heaving with windy arithmetic, made me vicious in my reticence.
 
-“Well, boy,” Uncle Pumblechook began, as soon as he was seated in the
-chair of honour by the fire. “How did you get on up town?”
+“[[Well]], boy,” Uncle Pumblechook began, as soon as he was seated in the
+chair of [[Honour|honour]] by the [[Fire|fire]]. “How did you get on up town?”
 
-I answered, “Pretty well, sir,” and my sister shook her fist at me.
+I answered, “Pretty [[Well|well]], sir,” and my sister shook her fist at me.
 
-“Pretty well?” Mr. Pumblechook repeated. “Pretty well is no answer.
-Tell us what you mean by pretty well, boy?”
+“Pretty [[Well|well]]?” Mr. Pumblechook repeated. “Pretty [[Well|well]] is no answer.
+Tell us what you mean by pretty [[Well|well]], boy?”
 
 Whitewash on the forehead hardens the brain into a state of obstinacy
 perhaps. Anyhow, with whitewash from the wall on my forehead, my
-obstinacy was adamantine. I reflected for some time, and then answered
-as if I had discovered a new idea, “I mean pretty well.”
+obstinacy was adamantine. I reflected for some [[Time|time]], and then answered
+as if I had discovered a new idea, “I mean pretty [[Well|well]].”
 
 My sister with an exclamation of impatience was going to fly at me,—I
-had no shadow of defence, for Joe was busy in the forge,—when Mr.
+had no [[Shadow|shadow]] of defence, for Joe was busy in the forge,—when Mr.
 Pumblechook interposed with “No! Don’t lose your temper. Leave this lad
 to me, ma’am; leave this lad to me.” Mr. Pumblechook then turned me
 towards him, as if he were going to cut my hair, and said,—
@@ -72,7 +72,7 @@ pence-table from “twelve pence make one shilling,” up to “forty pence
 make three and fourpence,” and then triumphantly demanded, as if he had
 done for me, “_Now!_ How much is forty-three pence?” To which I
 replied, after a long interval of reflection, “I don’t know.” And I was
-so aggravated that I almost doubt if I did know.
+so aggravated that I almost [[Doubt|doubt]] if I did know.
 
 Mr. Pumblechook worked his head like a screw to screw it out of me, and
 said, “Is forty-three pence seven and sixpence three fardens, for
@@ -82,7 +82,7 @@ instance?”
 highly gratifying to me to see that the answer spoilt his joke, and
 brought him to a dead stop.
 
-“Boy! What like is Miss Havisham?” Mr. Pumblechook began again when he
+“Boy! What like is [[Miss Havisham]]?” Mr. Pumblechook began again when he
 had recovered; folding his arms tight on his chest and applying the
 screw.
 
@@ -91,30 +91,30 @@ screw.
 “Is she, uncle?” asked my sister.
 
 Mr. Pumblechook winked assent; from which I at once inferred that he
-had never seen Miss Havisham, for she was nothing of the kind.
+had never seen [[Miss Havisham]], for she was nothing of the kind.
 
 “Good!” said Mr. Pumblechook conceitedly. (“This is the way to have
 him! We are beginning to hold our own, I think, Mum?”)
 
 “I am sure, uncle,” returned Mrs. Joe, “I wish you had him always; you
-know so well how to deal with him.”
+know so [[Well|well]] how to deal with him.”
 
 “Now, boy! What was she a-doing of, when you went in today?” asked Mr.
 Pumblechook.
 
 “She was sitting,” I answered, “in a black velvet coach.”
 
-Mr. Pumblechook and Mrs. Joe stared at one another—as they well
+Mr. Pumblechook and Mrs. Joe stared at one another—as they [[Well|well]]
 might—and both repeated, “In a black velvet coach?”
 
-“Yes,” said I. “And Miss Estella—that’s her niece, I think—handed her
-in cake and wine at the coach-window, on a gold plate. And we all had
+“Yes,” said I. “And Miss [[Estella]]—that’s her niece, I think—handed her
+in cake and wine at the coach-[[Window|window]], on a gold plate. And we all had
 cake and wine on gold plates. And I got up behind the coach to eat
 mine, because she told me to.”
 
 “Was anybody else there?” asked Mr. Pumblechook.
 
-“Four dogs,” said I.
+“Four [[dogs]],” said I.
 
 “Large or small?”
 
@@ -127,7 +127,7 @@ torture,—and would have told them anything.
 
 “Where _was_ this coach, in the name of gracious?” asked my sister.
 
-“In Miss Havisham’s room.” They stared again. “But there weren’t any
+“In [[Miss Havisham]]’s room.” They stared again. “But there weren’t any
 horses to it.” I added this saving clause, in the moment of rejecting
 four richly caparisoned coursers which I had had wild thoughts of
 harnessing.

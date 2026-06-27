@@ -25,7 +25,7 @@ then imitating the motion.
 ‘The next step was to procure a set of metal types, with the different
 letters of the alphabet cast upon their ends; also a board, in which were
 square holes, into which holes she could set the types; so that the
-letters on their ends could alone be felt above the surface.
+letters on their ends could [[Alone|alone]] be felt above the surface.
 
 ‘Then, on any article being handed to her, for instance, a pencil, or a
 watch, she would select the component letters, and arrange them on her
@@ -41,11 +41,11 @@ work in aid of her teacher, and her progress was rapid.
 ‘This was the period, about three months after she had commenced, that
 the first report of her case was made, in which it was stated that “she
 has just learned the manual alphabet, as used by the deaf mutes, and it
-is a subject of delight and wonder to see how rapidly, correctly, and
+is a subject of delight and [[Wonder|wonder]] to see how rapidly, correctly, and
 eagerly, she goes on with her labours.  Her teacher gives her a new
 object, for instance, a pencil, first lets her examine it, and get an
 idea of its use, then teaches her how to spell it by making the signs for
-the letters with her own fingers: the child grasps her hand, and feels
+the letters with her own fingers: the [[Child|child]] grasps her hand, and feels
 her fingers, as the different letters are formed; she turns her head a
 little on one side like a person listening closely; her lips are apart;
 she seems scarcely to breathe; and her countenance, at first anxious,
@@ -65,25 +65,25 @@ in proper care of her health.
 ‘At the end of the year a report of her case was made, from which the
 following is an extract.
 
-‘“It has been ascertained beyond the possibility of doubt, that she
+‘“It has been ascertained beyond the possibility of [[Doubt|doubt]], that she
 cannot see a ray of light, cannot hear the least sound, and never
 exercises her sense of smell, if she have any.  Thus her mind dwells in
 darkness and stillness, as profound as that of a closed tomb at midnight.
 Of beautiful sights, and sweet sounds, and pleasant odours, she has no
 conception; nevertheless, she seems as happy and playful as a bird or a
-lamb; and the employment of her intellectual faculties, or the
+[[Lamb|lamb]]; and the employment of her intellectual faculties, or the
 acquirement of a new idea, gives her a vivid pleasure, which is plainly
 marked in her expressive features.  She never seems to repine, but has
-all the buoyancy and gaiety of childhood.  She is fond of fun and frolic,
+all the buoyancy and gaiety of [[Childhood|childhood]].  She is fond of fun and frolic,
 and when playing with the rest of the children, her shrill laugh sounds
 loudest of the group.
 
-‘“When left alone, she seems very happy if she have her knitting or
+‘“When left [[Alone|alone]], she seems very happy if she have her knitting or
 sewing, and will busy herself for hours; if she have no occupation, she
 evidently amuses herself by imaginary dialogues, or by recalling past
 impressions; she counts with her fingers, or spells out names of things
 which she has recently learned, in the manual alphabet of the deaf mutes.
-In this lonely self-communion she seems to reason, reflect, and argue; if
+In this lonely [[Self|self]]-communion she seems to reason, reflect, and argue; if
 she spell a word wrong with the fingers of her right hand, she instantly
 strikes it with her left, as her teacher does, in sign of disapprobation;
 if right, then she pats herself upon the head, and looks pleased.  She
@@ -105,7 +105,7 @@ their meaning to her mind.  It is in this way that she converses with her
 blind playmates, and nothing can more forcibly show the power of mind in
 forcing matter to its purpose than a meeting between them.  For if great
 talent and skill are necessary for two pantomimes to paint their thoughts
-and feelings by the movements of the body, and the expression of the
+and feelings by the movements of the [[Body|body]], and the expression of the
 countenance, how much greater the difficulty when darkness shrouds them
 both, and the one can hear no sound.
 

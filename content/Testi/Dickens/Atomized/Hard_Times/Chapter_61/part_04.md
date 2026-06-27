@@ -27,7 +27,7 @@ fur no good.’
 ‘’Tis not for that, Stephen, that I mind.  But thou know’st our old
 agreement.  ’Tis for that.’
 
-‘Well, well,’ said he.  ‘’Tis better, onnyways.’
+‘[[Well]], [[Well|well]],’ said he.  ‘’Tis better, onnyways.’
 
 ‘Thou’lt write to me, and tell me all that happens, Stephen?’
 
@@ -37,18 +37,18 @@ Heaven thank thee and reward thee!’
 ‘May it bless thee, Stephen, too, in all thy wanderings, and send thee
 peace and rest at last!’
 
-‘I towd thee, my dear,’ said Stephen Blackpool—‘that night—that I would
+‘I towd thee, my dear,’ said [[Stephen Blackpool]]—‘that [[Night|night]]—that I would
 never see or think o’ onnything that angered me, but thou, so much better
 than me, should’st be beside it.  Thou’rt beside it now.  Thou mak’st me
-see it wi’ a better eye.  Bless thee.  Good night.  Good-bye!’
+see it wi’ a better eye.  Bless thee.  Good [[Night|night]].  Good-bye!’
 
 It was but a hurried parting in a common street, yet it was a sacred
 remembrance to these two common people.  Utilitarian economists,
 skeletons of schoolmasters, Commissioners of Fact, genteel and used-up
 infidels, gabblers of many little dog’s-eared creeds, the poor you will
-have always with you.  Cultivate in them, while there is yet time, the
+have always with you.  Cultivate in them, while there is yet [[Time|time]], the
 utmost graces of the fancies and affections, to adorn their lives so much
-in need of ornament; or, in the day of your triumph, when romance is
+in need of ornament; or, in the day of your triumph, when [[Romance|romance]] is
 utterly driven out of their souls, and they and a bare existence stand
 face to face, Reality will take a wolfish turn, and make an end of you.
 
@@ -60,10 +60,10 @@ empty.
 He had overstayed his hour in the street outside the Bank, on each of the
 two first evenings; and nothing had happened there, good or bad.  That he
 might not be remiss in his part of the engagement, he resolved to wait
-full two hours, on this third and last night.
+full two hours, on this third and last [[Night|night]].
 
-There was the lady who had once kept Mr. Bounderby’s house, sitting at
-the first-floor window as he had seen her before; and there was the light
+There was the lady who had once kept Mr. Bounderby’s [[house]], sitting at
+the first-floor [[Window|window]] as he had seen her before; and there was the light
 porter, sometimes talking with her there, and sometimes looking over the
 blind below which had BANK upon it, and sometimes coming to the door and
 standing on the steps for a breath of air.  When he first came out,
@@ -73,16 +73,16 @@ nothing.
 
 Two hours were a long stretch of lounging about, after a long day’s
 labour.  Stephen sat upon the step of a door, leaned against a wall under
-an archway, strolled up and down, listened for the church clock, stopped
+an archway, strolled up and down, listened for the church [[Clock|clock]], stopped
 and watched children playing in the street.  Some purpose or other is so
 natural to every one, that a mere loiterer always looks and feels
 remarkable.  When the first hour was out, Stephen even began to have an
-uncomfortable sensation upon him of being for the time a disreputable
+uncomfortable sensation upon him of being for the [[Time|time]] a disreputable
 character.
 
 Then came the lamplighter, and two lengthening lines of light all down
 the long perspective of the street, until they were blended and lost in
-the distance.  Mrs. Sparsit closed the first-floor window, drew down the
+the distance.  Mrs. Sparsit closed the first-floor [[Window|window]], drew down the
 blind, and went up-stairs.  Presently, a light went up-stairs after her,
 passing first the fanlight of the door, and afterwards the two staircase
 windows, on its way up.  By and by, one corner of the second-floor blind
@@ -110,19 +110,19 @@ the railway, where the danger-lights were waning in the strengthening
 day; by the railway’s crazy neighbourhood, half pulled down and half
 built up; by scattered red brick villas, where the besmoked evergreens
 were sprinkled with a dirty powder, like untidy snuff-takers; by
-coal-dust paths and many varieties of ugliness; Stephen got to the top of
-the hill, and looked back.
+coal-[[Dust|dust]] paths and many varieties of ugliness; Stephen got to the top of
+the [[Hill|hill]], and looked back.
 
-Day was shining radiantly upon the town then, and the bells were going
+Day was shining radiantly upon the town then, and [[The Bells|the bells]] were going
 for the morning work.  Domestic fires were not yet lighted, and the high
 chimneys had the sky to themselves.  Puffing out their poisonous volumes,
 they would not be long in hiding it; but, for half an hour, some of the
 many windows were golden, which showed the Coketown people a sun
 eternally in eclipse, through a medium of smoked glass.
 
-So strange to turn from the chimneys to the birds.  So strange, to have
-the road-dust on his feet instead of the coal-grit.  So strange to have
-lived to his time of life, and yet to be beginning like a boy this summer
+So strange to turn from the chimneys to the [[Birds|birds]].  So strange, to have
+the [[Road|road]]-[[Dust|dust]] on his feet instead of the coal-grit.  So strange to have
+lived to his [[Time|time]] of life, and yet to be beginning like a boy this [[Summer|summer]]
 morning!  With these musings in his mind, and his bundle under his arm,
-Stephen took his attentive face along the high road.  And the trees
+Stephen took his attentive face along the high [[Road|road]].  And the trees
 arched over him, whispering that he left a true and loving heart behind.

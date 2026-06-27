@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 4)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -17,13 +17,13 @@ tags:
 “—Had no more idea than the baby,” said Mrs. Tetterby.—“Johnny, don’t
 look at me, but look at her, or she’ll fall out of your lap and be
 killed, and then you’ll die in agonies of a broken heart, and serve you
-right.—No more idea I hadn’t than that darling, of being cross when I
-came home; but somehow, ’Dolphus—” Mrs. Tetterby paused, and again
+right.—No more idea I hadn’t than that darling, of being [[Cross|cross]] when I
+came [[Home|home]]; but somehow, ’Dolphus—” Mrs. Tetterby paused, and again
 turned her wedding-ring round and round upon her finger.
 
 “I see!” said Mr. Tetterby. “I understand! My little woman was put out.
 Hard times, and hard weather, and hard work, make it trying now and then.
-I see, bless your soul! No wonder! Dolf, my man,” continued Mr.
+I see, bless your [[Soul|soul]]! No [[Wonder|wonder]]! Dolf, my man,” continued Mr.
 Tetterby, exploring the basin with a fork, “here’s your mother been and
 bought, at the cook’s shop, besides pease pudding, a whole knuckle of a
 lovely roast leg of pork, with lots of crackling left upon it, and with
@@ -42,9 +42,9 @@ carver at the cook’s shop had assuredly not forgotten in carving for
 previous customers—but there was no stint of seasoning, and that is an
 accessory dreamily suggesting pork, and pleasantly cheating the sense of
 taste. The pease pudding, too, the gravy and mustard, like the Eastern
-rose in respect of the nightingale, if they were not absolutely pork, had
+[[Rose|rose]] in respect of the [[Nightingale|nightingale]], if they were not absolutely pork, had
 lived near it; so, upon the whole, there was the flavour of a
-middle-sized pig. It was irresistible to the Tetterbys in bed, who,
+middle-sized pig. It was irresistible to the [[Tetterbys]] in bed, who,
 though professing to slumber peacefully, crawled out when unseen by their
 parents, and silently appealed to their brothers for any gastronomic
 token of fraternal affection. They, not hard of heart, presenting scraps
@@ -55,26 +55,26 @@ a charge, before which these guerilla troops retired in all directions
 and in great confusion.
 
 Mrs. Tetterby did not enjoy her supper. There seemed to be something on
-Mrs. Tetterby’s mind. At one time she laughed without reason, and at
-another time she cried without reason, and at last she laughed and cried
+Mrs. Tetterby’s mind. At one [[Time|time]] she laughed without reason, and at
+another [[Time|time]] she cried without reason, and at last she laughed and cried
 together in a manner so very unreasonable that her husband was
 confounded.
 
 “My little woman,” said Mr. Tetterby, “if the world goes that way, it
 appears to go the wrong way, and to choke you.”
 
-“Give me a drop of water,” said Mrs. Tetterby, struggling with herself,
+“Give me a drop of [[Water|water]],” said Mrs. Tetterby, struggling with herself,
 “and don’t speak to me for the present, or take any notice of me. Don’t
 do it!”
 
-Mr. Tetterby having administered the water, turned suddenly on the
+Mr. Tetterby having administered the [[Water|water]], turned suddenly on the
 unlucky Johnny (who was full of sympathy), and demanded why he was
 wallowing there, in gluttony and idleness, instead of coming forward with
 the baby, that the sight of her might revive his mother. Johnny
 immediately approached, borne down by its weight; but Mrs. Tetterby
 holding out her hand to signify that she was not in a condition to bear
 that trying appeal to her feelings, he was interdicted from advancing
-another inch, on pain of perpetual hatred from all his dearest
+another inch, on [[Pain|pain]] of perpetual hatred from all his dearest
 connections; and accordingly retired to his stool again, and crushed
 himself as before.
 
@@ -88,7 +88,7 @@ direction?”
 settling her hair, and pressing the palms of her hands upon her eyes, she
 laughed again.
 
-“What a wicked fool I was, to think so for a moment!” said Mrs. Tetterby.
+“What a wicked [[Fool|fool]] I was, to think so for a moment!” said Mrs. Tetterby.
 “Come nearer, ’Dolphus, and let me ease my mind, and tell you what I
 mean. Let me tell you all about it.”
 
@@ -97,7 +97,7 @@ him a hug, and wiped her eyes.
 
 “You know, Dolphus, my dear,” said Mrs. Tetterby, “that when I was
 single, I might have given myself away in several directions. At one
-time, four after me at once; two of them were sons of Mars.”
+[[Time|time]], four after me at once; two of them were sons of Mars.”
 
 “We’re all sons of Ma’s, my dear,” said Mr. Tetterby, “jointly with
 Pa’s.”
@@ -106,7 +106,7 @@ Pa’s.”
 
 “Oh!” said Mr. Tetterby.
 
-“Well, ’Dolphus, I’m sure I never think of such things now, to regret
+“[[Well]], ’Dolphus, I’m sure I never think of such things now, to regret
 them; and I’m sure I’ve got as good a husband, and would do as much to
 prove that I was fond of him, as—”
 
@@ -118,7 +118,7 @@ gentler consideration for Mrs. Tetterby’s fairy-like stature; and if Mrs.
 Tetterby had been two feet high, she could not have felt it more
 appropriately her due.
 
-“But you see, ’Dolphus,” said Mrs. Tetterby, “this being Christmas-time,
+“But you see, ’Dolphus,” said Mrs. Tetterby, “this being Christmas-[[Time|time]],
 when all people who can, make holiday, and when all people who have got
 money, like to spend some, I did, somehow, get a little out of sorts when
 I was in the streets just now. There were so many things to be sold—such
@@ -131,7 +131,7 @@ was so small, and would go such a little way;—you hate me, don’t you,
 
 “Not quite,” said Mr. Tetterby, “as yet.”
 
-“Well! I’ll tell you the whole truth,” pursued his wife, penitently,
+“[[Well]]! I’ll tell you the whole [[Truth|truth]],” pursued his wife, penitently,
 “and then perhaps you will. I felt all this, so much, when I was
 trudging about in the cold, and when I saw a lot of other calculating
 faces and large baskets trudging about, too, that I began to think

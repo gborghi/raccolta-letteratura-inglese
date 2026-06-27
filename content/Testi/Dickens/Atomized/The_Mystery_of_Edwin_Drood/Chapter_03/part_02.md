@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 3 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The pet pupil of the Nuns’ House is Miss Rosa Bud, of course called
+The pet pupil of the Nuns’ [[house|House]] is Miss [[Rosa Bud]], of course called
 Rosebud; wonderfully pretty, wonderfully childish, wonderfully
 whimsical. An awkward interest (awkward because romantic) attaches to
 Miss Bud in the minds of the young ladies, on account of its being
@@ -29,28 +29,28 @@ Mr. Porters has undermined the endeavour—than to evoke from the young
 ladies an unanimous bedchamber cry of “O, what a pretending old thing
 Miss Twinkleton is, my dear!”
 
-The Nuns’ House is never in such a state of flutter as when this
+The Nuns’ [[house|House]] is never in such a state of flutter as when this
 allotted husband calls to see little Rosebud. (It is unanimously
 understood by the young ladies that he is lawfully entitled to this
 privilege, and that if Miss Twinkleton disputed it, she would be
 instantly taken up and transported.) When his ring at the gate-bell is
 expected, or takes place, every young lady who can, under any pretence,
-look out of window, looks out of window; while every young lady who is
-“practising,” practises out of time; and the French class becomes so
+look out of [[Window|window]], looks out of [[Window|window]]; while every young lady who is
+“practising,” practises out of [[Time|time]]; and the French class becomes so
 demoralised that the mark goes round as briskly as the bottle at a
 convivial party in the last century.
 
 On the afternoon of the day next after the dinner of two at the
 gatehouse, the bell is rung with the usual fluttering results.
 
-“Mr. Edwin Drood to see Miss Rosa.”
+“Mr. [[Edwin Drood]] to see Miss Rosa.”
 
 This is the announcement of the parlour-maid in chief. Miss Twinkleton,
-with an exemplary air of melancholy on her, turns to the sacrifice, and
+with an exemplary air of [[Melancholy|melancholy]] on her, turns to the sacrifice, and
 says, “You may go down, my dear.” Miss Bud goes down, followed by all
 eyes.
 
-Mr. Edwin Drood is waiting in Miss Twinkleton’s own parlour: a dainty
+Mr. [[Edwin Drood]] is waiting in Miss Twinkleton’s own parlour: a dainty
 room, with nothing more directly scholastic in it than a terrestrial
 and a celestial globe. These expressive machines imply (to parents and
 guardians) that even when Miss Twinkleton retires into the bosom of
@@ -74,7 +74,7 @@ shrinking. “Don’t, Eddy!”
 
 “What is absurd, Rosa?”
 
-“The whole thing is. It _is_ so absurd to be an engaged orphan and it
+“The whole thing is. It _is_ so absurd to be an engaged [[Orphan|orphan]] and it
 _is_ so absurd to have the girls and the servants scuttling about after
 one, like mice in the wainscot; and it _is_ so absurd to be called
 upon!”
@@ -84,7 +84,7 @@ making this complaint.
 
 “You give me an affectionate reception, Pussy, I must say.”
 
-“Well, I will in a minute, Eddy, but I can’t just yet. How are you?”
+“[[Well]], I will in a minute, Eddy, but I can’t just yet. How are you?”
 (very shortly.)
 
 “I am unable to reply that I am much the better for seeing you, Pussy,
@@ -124,14 +124,14 @@ Tweezers. Thank you!”
 “I got the gloves last evening, Eddy, and I like them very much. They
 are beauties.”
 
-“Well, that’s something,” the affianced replies, half grumbling. “The
+“[[Well]], that’s something,” the affianced replies, half grumbling. “The
 smallest encouragement thankfully received. And how did you pass your
 birthday, Pussy?”
 
 “Delightfully! Everybody gave me a present. And we had a feast. And we
-had a ball at night.”
+had a ball at [[Night|night]].”
 
-“A feast and a ball, eh? These occasions seem to go off tolerably well
+“A feast and a ball, eh? These occasions seem to go off tolerably [[Well|well]]
 without me, Pussy.”
 
 “De-lightfully!” cries Rosa, in a quite spontaneous manner, and without
@@ -151,9 +151,9 @@ game to be their brothers. It _was_ so droll!”
 “To be you? O dear yes!” cries Rosa, laughing with great enjoyment.
 “That was the first thing done.”
 
-“I hope she did it pretty well,” says Edwin rather doubtfully.
+“I [[Hope|hope]] she did it pretty [[Well|well]],” says Edwin rather doubtfully.
 
-“O, it was excellent!—I wouldn’t dance with you, you know.”
+“O, it was excellent!—I wouldn’t [[Dance|dance]] with you, you know.”
 
 Edwin scarcely seems to see the force of this; begs to know if he may
 take the liberty to ask why?

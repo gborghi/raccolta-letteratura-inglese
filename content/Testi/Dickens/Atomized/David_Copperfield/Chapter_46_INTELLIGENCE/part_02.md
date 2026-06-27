@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 46: INTELLIGENCE (part 2)"
+title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -25,14 +25,14 @@ agreeable to him; and began again.
 ‘Mr. James and myself have been abroad with the young woman, ever
 since she left Yarmouth under Mr. James’s protection. We have been in a
 variety of places, and seen a deal of foreign country. We have been in
-France, Switzerland, Italy, in fact, almost all parts.’
+France, Switzerland, [[Italy]], in fact, almost all parts.’
 
 He looked at the back of the seat, as if he were addressing himself to
 that; and softly played upon it with his hands, as if he were striking
 chords upon a dumb piano.
 
 ‘Mr. James took quite uncommonly to the young woman; and was more
-settled, for a length of time, than I have known him to be since I have
+settled, for a length of [[Time|time]], than I have known him to be since I have
 been in his service. The young woman was very improvable, and spoke the
 languages; and wouldn’t have been known for the same country-person. I
 noticed that she was much admired wherever we went.’
@@ -52,14 +52,14 @@ other, as he settled himself on one leg, Mr. Littimer proceeded, with
 his eyes cast down, and his respectable head a little advanced, and a
 little on one side:
 
-‘The young woman went on in this manner for some time, being
+‘The young woman went on in this manner for some [[Time|time]], being
 occasionally low in her spirits, until I think she began to weary Mr.
 James by giving way to her low spirits and tempers of that kind; and
 things were not so comfortable. Mr. James he began to be restless again.
 The more restless he got, the worse she got; and I must say, for myself,
-that I had a very difficult time of it indeed between the two. Still
+that I had a very difficult [[Time|time]] of it indeed between the two. Still
 matters were patched up here, and made good there, over and over again;
-and altogether lasted, I am sure, for a longer time than anybody could
+and altogether lasted, I am sure, for a longer [[Time|time]] than anybody could
 have expected.’
 
 Recalling her eyes from the distance, she looked at me again now, with
@@ -101,22 +101,22 @@ intention, then the young woman came out in her true colours. A more
 outrageous person I never did see. Her conduct was surprisingly bad. She
 had no more gratitude, no more feeling, no more patience, no more reason
 in her, than a stock or a stone. If I hadn’t been upon my guard, I am
-convinced she would have had my blood.’
+convinced she would have had my [[Blood|blood]].’
 
 ‘I think the better of her for it,’ said I, indignantly.
 
 Mr. Littimer bent his head, as much as to say, ‘Indeed, sir? But you’re
 young!’ and resumed his narrative.
 
-‘It was necessary, in short, for a time, to take away everything nigh
+‘It was necessary, in short, for a [[Time|time]], to take away everything nigh
 her, that she could do herself, or anybody else, an injury with, and
-to shut her up close. Notwithstanding which, she got out in the night;
-forced the lattice of a window, that I had nailed up myself; dropped on
+to shut her up close. Notwithstanding which, she got out in the [[Night|night]];
+forced the lattice of a [[Window|window]], that I had nailed up myself; dropped on
 a vine that was trailed below; and never has been seen or heard of, to
 my knowledge, since.’
 
 ‘She is dead, perhaps,’ said Miss Dartle, with a smile, as if she could
-have spurned the body of the ruined girl.
+have spurned the [[Body|body]] of the ruined girl.
 
 ‘She may have drowned herself, miss,’ returned Mr. Littimer, catching at
 an excuse for addressing himself to somebody. ‘It’s very possible. Or,
@@ -128,8 +128,8 @@ Mr. James was far from pleased to find out, once, that she had told the
 children she was a boatman’s daughter, and that in her own country, long
 ago, she had roamed about the beach, like them.’
 
-Oh, Emily! Unhappy beauty! What a picture rose before me of her sitting
+Oh, Emily! Unhappy [[Beauty|beauty]]! What a picture [[Rose|rose]] before me of her sitting
 on the far-off shore, among the children like herself when she was
-innocent, listening to little voices such as might have called her
+[[Innocent|innocent]], listening to little voices such as might have called her
 Mother had she been a poor man’s wife; and to the great voice of the
 sea, with its eternal ‘Never more!’

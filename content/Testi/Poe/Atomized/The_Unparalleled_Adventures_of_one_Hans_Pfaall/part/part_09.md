@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 9)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -24,7 +24,7 @@ tags:
 
       of the earth’s attraction would be superseded by that of the
 
-      moon. In accordance with these ideas, I did not think it worth
+      [[Moon|moon]]. In accordance with these ideas, I did not think it worth
 
       while to encumber myself with more provisions than would be
 
@@ -36,33 +36,33 @@ tags:
 
       me some little disquietude. It has been observed, that, in
 
-      balloon ascensions to any considerable height, besides the pain
+      balloon ascensions to any considerable height, besides the [[Pain|pain]]
 
       attending respiration, great uneasiness is experienced about the
 
-      head and body, often accompanied with bleeding at the nose, and
+      head and [[Body|body]], often accompanied with bleeding at the nose, and
 
       other symptoms of an alarming kind, and growing more and more
 
       inconvenient in proportion to the altitude attained.(*3) This was
 
-      a reflection of a nature somewhat startling. Was it not probable
+      a reflection of a [[Nature|nature]] somewhat startling. Was it not probable
 
       that these symptoms would increase indefinitely, or at least
 
-      until terminated by death itself? I finally thought not. Their
+      until terminated by [[Death|death]] itself? I finally thought not. Their
 
       origin was to be looked for in the progressive removal of the
 
-      customary atmospheric pressure upon the surface of the body, and
+      customary atmospheric pressure upon the surface of the [[Body|body]], and
 
-      consequent distention of the superficial blood-vessels—not in any
+      consequent distention of the superficial [[Blood|blood]]-vessels—not in any
 
       positive disorganization of the animal system, as in the case of
 
       difficulty in breathing, where the atmospheric density is
 
-      chemically insufficient for the due renovation of blood in a
+      chemically insufficient for the due renovation of [[Blood|blood]] in a
 
       ventricle of the heart. Unless for default of this renovation, I
 
@@ -74,9 +74,9 @@ tags:
 
       cause, not the effect, of respiration. In a word, I conceived
 
-      that, as the body should become habituated to the want of
+      that, as the [[Body|body]] should become habituated to the want of
 
-      atmospheric pressure, the sensations of pain would gradually
+      atmospheric pressure, the sensations of [[Pain|pain]] would gradually
 
       diminish—and to endure them while they continued, I relied with
 
@@ -112,7 +112,7 @@ tags:
 
       will be explained in the sequel. I as yet suffered no bodily
 
-      inconvenience, breathing with great freedom, and feeling no pain
+      inconvenience, breathing with great [[Freedom|freedom]], and feeling no [[Pain|pain]]
 
       whatever in the head. The cat was lying very demurely upon my
 
@@ -122,11 +122,11 @@ tags:
 
       their escape, were busily employed in picking up some grains of
 
-      rice scattered for them in the bottom of the car.
+      rice scattered for them in the [[Bottom|bottom]] of the car.
 
 
 
-      “At twenty minutes past six o’clock, the barometer showed an
+      “At twenty minutes past six o’[[Clock|clock]], the barometer showed an
 
       elevation of 26,400 feet, or five miles to a fraction. The
 
@@ -152,17 +152,17 @@ tags:
 
       a sixteen-hundredth part of the whole surface of the globe. The
 
-      sea appeared unruffled as a mirror, although, by means of the
+      sea appeared unruffled as a [[Mirror|mirror]], although, by means of the
 
       spy-glass, I could perceive it to be in a state of violent
 
-      agitation. The ship was no longer visible, having drifted away,
+      agitation. The [[Ship|ship]] was no longer visible, having drifted away,
 
       apparently to the eastward. I now began to experience, at
 
-      intervals, severe pain in the head, especially about the
+      intervals, severe [[Pain|pain]] in the head, especially about the
 
-      ears—still, however, breathing with tolerable freedom. The cat
+      ears—still, however, breathing with tolerable [[Freedom|freedom]]. The cat
 
       and pigeons seemed to suffer no inconvenience whatsoever.
 
@@ -176,19 +176,19 @@ tags:
 
       be sure, a singular recontre, for I had not believed it possible
 
-      that a cloud of this nature could be sustained at so great an
+      that a cloud of this [[Nature|nature]] could be sustained at so great an
 
       elevation. I thought it best, however, to throw out two
 
       five-pound pieces of ballast, reserving still a weight of one
 
-      hundred and sixty-five pounds. Upon so doing, I soon rose above
+      hundred and sixty-five pounds. Upon so doing, I soon [[Rose|rose]] above
 
       the difficulty, and perceived immediately, that I had obtained a
 
       great increase in my rate of ascent. In a few seconds after my
 
-      leaving the cloud, a flash of vivid lightning shot from one end
+      leaving the cloud, a flash of vivid [[Lightning|lightning]] shot from one end
 
       of it to the other, and caused it to kindle up, throughout its
 
@@ -198,4 +198,4 @@ tags:
 
       may picture the sublimity which might have been exhibited by a
 
-      similar phenomenon taking place amid the darkness of the night.
+      similar phenomenon taking place amid the darkness of the [[Night|night]].

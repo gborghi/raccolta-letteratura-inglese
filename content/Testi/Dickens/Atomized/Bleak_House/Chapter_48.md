@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 48"
+title: "Bleak [[house|House]] — Chapter 48"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,13 +19,13 @@ CHAPTER XLVIII
 Closing In
 
 
-The place in Lincolnshire has shut its many eyes again, and the house
+The place in Lincolnshire has shut its many eyes again, and the [[house]]
 in town is awake. In Lincolnshire the Dedlocks of the past doze in
-their picture-frames, and the low wind murmurs through the long
+their picture-frames, and the low [[Wind|wind]] murmurs through the long
 drawing-room as if they were breathing pretty regularly. In town the
-Dedlocks of the present rattle in their fire-eyed carriages through
-the darkness of the night, and the Dedlock Mercuries, with ashes (or
-hair-powder) on their heads, symptomatic of their great humility,
+Dedlocks of the present rattle in their [[Fire|fire]]-eyed carriages through
+the darkness of the [[Night|night]], and the Dedlock Mercuries, with ashes (or
+hair-powder) on their heads, symptomatic of their great [[Humility|humility]],
 loll away the drowsy mornings in the little windows of the hall. The
 fashionable world—tremendous orb, nearly five miles round—is in
 full swing, and the solar system works respectfully at its appointed
@@ -33,15 +33,15 @@ distances.
 
 Where the throng is thickest, where the lights are brightest, where
 all the senses are ministered to with the greatest delicacy and
-refinement, Lady Dedlock is. From the shining heights she has scaled
+refinement, [[Lady Dedlock]] is. From the shining heights she has scaled
 and taken, she is never absent. Though the belief she of old reposed
 in herself as one able to reserve whatsoever she would under
-her mantle of pride is beaten down, though she has no assurance
+her mantle of [[Pride|pride]] is beaten down, though she has no assurance
 that what she is to those around her she will remain another day,
-it is not in her nature when envious eyes are looking on to
+it is not in her [[Nature|nature]] when envious eyes are looking on to
 yield or to droop. They say of her that she has lately grown
 more handsome and more haughty. The debilitated cousin says of
-her that she’s beauty nough—tsetup shopofwomen—but rather
+her that she’s [[Beauty|beauty]] nough—tsetup shopofwomen—but rather
 larming kind—remindingmanfact—inconvenient woman—who WILL
 getoutofbedandbawthstahlishment—Shakespeare.
 
@@ -57,7 +57,7 @@ turret-room at Chesney Wold. She is now decided, and prepared to
 throw it off.
 
 It is morning in the great world, afternoon according to the little
-sun. The Mercuries, exhausted by looking out of window, are reposing
+sun. The Mercuries, exhausted by looking out of [[Window|window]], are reposing
 in the hall and hang their heavy heads, the gorgeous creatures, like
 overblown sunflowers. Like them, too, they seem to run to a deal of
 seed in their tags and trimmings. Sir Leicester, in the library, has
@@ -66,7 +66,7 @@ Parliamentary committee. My Lady sits in the room in which she gave
 audience to the young man of the name of Guppy. Rosa is with her and
 has been writing for her and reading to her. Rosa is now at work upon
 embroidery or some such pretty thing, and as she bends her head over
-it, my Lady watches her in silence. Not for the first time to-day.
+it, my Lady watches her in [[Silence|silence]]. Not for the first [[Time|time]] to-day.
 
 “Rosa.”
 
@@ -77,22 +77,22 @@ my Lady is, looks puzzled and surprised.
 
 Yes. She goes to it and returns, and looks yet more surprised.
 
-“I am about to place confidence in you, child, for I know I may trust
+“I am about to place confidence in you, [[Child|child]], for I know I may trust
 your attachment, if not your judgment. In what I am going to do, I
 will not disguise myself to you at least. But I confide in you. Say
 nothing to any one of what passes between us.”
 
-The timid little beauty promises in all earnestness to be
+The timid little [[Beauty|beauty]] promises in all earnestness to be
 trustworthy.
 
-“Do you know,” Lady Dedlock asks her, signing to her to bring her
+“Do you know,” [[Lady Dedlock]] asks her, signing to her to bring her
 chair nearer, “do you know, Rosa, that I am different to you from
 what I am to any one?”
 
 “Yes, my Lady. Much kinder. But then I often think I know you as you
 really are.”
 
-“You often think you know me as I really am? Poor child, poor child!”
+“You often think you know me as I really am? Poor [[Child|child]], poor [[Child|child]]!”
 
 She says it with a kind of scorn—though not of Rosa—and sits
 brooding, looking dreamily at her.
@@ -101,7 +101,7 @@ brooding, looking dreamily at her.
 suppose your being young and natural, and fond of me and grateful to
 me, makes it any pleasure to me to have you near me?”
 
-“I don’t know, my Lady; I can scarcely hope so. But with all my
+“I don’t know, my Lady; I can scarcely [[Hope|hope]] so. But with all my
 heart, I wish it was so.”
 
 “It is so, little one.”
@@ -111,7 +111,7 @@ expression on the handsome face before it. It looks timidly for an
 explanation.
 
 “And if I were to say to-day, ‘Go! Leave me!’ I should say what would
-give me great pain and disquiet, child, and what would leave me very
+give me great [[Pain|pain]] and disquiet, [[Child|child]], and what would leave me very
 solitary.”
 
 “My Lady! Have I offended you?”
@@ -119,7 +119,7 @@ solitary.”
 “In nothing. Come here.”
 
 Rosa bends down on the footstool at my Lady’s feet. My Lady, with
-that motherly touch of the famous ironmaster night, lays her hand
+that motherly touch of the famous ironmaster [[Night|night]], lays her hand
 upon her dark hair and gently keeps it there.
 
 “I told you, Rosa, that I wished you to be happy and that I would
@@ -127,14 +127,14 @@ make you so if I could make anybody happy on this earth. I cannot.
 There are reasons now known to me, reasons in which you have no part,
 rendering it far better for you that you should not remain here. You
 must not remain here. I have determined that you shall not. I have
-written to the father of your lover, and he will be here to-day. All
+written to the father of your [[Lover|lover]], and he will be here to-day. All
 this I have done for your sake.”
 
 The weeping girl covers her hand with kisses and says what shall she
 do, what shall she do, when they are separated! Her mistress kisses
 her on the cheek and makes no other answer.
 
-“Now, be happy, child, under better circumstances. Be beloved and
+“Now, be happy, [[Child|child]], under better circumstances. Be beloved and
 happy!”
 
 “Ah, my Lady, I have sometimes thought—forgive my being so
@@ -145,16 +145,16 @@ free—that YOU are not happy.”
 “Will you be more so when you have sent me away? Pray, pray, think
 again. Let me stay a little while!”
 
-“I have said, my child, that what I do, I do for your sake, not my
+“I have said, my [[Child|child]], that what I do, I do for your sake, not my
 own. It is done. What I am towards you, Rosa, is what I am now—not
 what I shall be a little while hence. Remember this, and keep my
 confidence. Do so much for my sake, and thus all ends between us!”
 
-She detaches herself from her simple-hearted companion and leaves the
+She detaches herself from her simple-hearted companion and [[Leaves|leaves]] the
 room. Late in the afternoon, when she next appears upon the
 staircase, she is in her haughtiest and coldest state. As indifferent
 as if all passion, feeling, and interest had been worn out in the
-earlier ages of the world and had perished from its surface with its
+earlier [[Ages of the World|ages of the world]] and had perished from its surface with its
 other departed monsters.
 
 Mercury has announced Mr. Rouncewell, which is the cause of her
@@ -169,13 +169,13 @@ Oh, dear no! Not at all. Only Mr. Tulkinghorn.
 Always at hand. Haunting every place. No relief or security from him
 for a moment.
 
-“I beg your pardon, Lady Dedlock. Will you allow me to retire?”
+“I beg your pardon, [[Lady Dedlock]]. Will you allow me to retire?”
 
 With a look that plainly says, “You know you have the power to remain
 if you will,” she tells him it is not necessary and moves towards a
 chair. Mr. Tulkinghorn brings it a little forward for her with his
-clumsy bow and retires into a window opposite. Interposed between her
-and the fading light of day in the now quiet street, his shadow falls
+clumsy bow and retires into a [[Window|window]] opposite. Interposed between her
+and the fading light of day in the now quiet street, his [[Shadow|shadow]] falls
 upon her, and he darkens all before her. Even so does he darken her
 life.
 
@@ -185,32 +185,32 @@ half-a-dozen of its greatest mansions seem to have been slowly stared
 into stone rather than originally built in that material. It is a
 street of such dismal grandeur, so determined not to condescend to
 liveliness, that the doors and windows hold a gloomy state of their
-own in black paint and dust, and the echoing mews behind have a dry
+own in black paint and [[Dust|dust]], and the echoing mews behind have a dry
 and massive appearance, as if they were reserved to stable the stone
 chargers of noble statues. Complicated garnish of iron-work entwines
 itself over the flights of steps in this awful street, and from these
 petrified bowers, extinguishers for obsolete flambeaux gasp at the
 upstart gas. Here and there a weak little iron hoop, through which
 bold boys aspire to throw their friends’ caps (its only present use),
-retains its place among the rusty foliage, sacred to the memory of
+retains its place among the rusty foliage, sacred to the [[Memory|memory]] of
 departed oil. Nay, even oil itself, yet lingering at long intervals
-in a little absurd glass pot, with a knob in the bottom like an
-oyster, blinks and sulks at newer lights every night, like its high
-and dry master in the House of Lords.
+in a little absurd glass pot, with a knob in the [[Bottom|bottom]] like an
+oyster, blinks and sulks at newer lights every [[Night|night]], like its high
+and dry master in the [[house|House]] of Lords.
 
-Therefore there is not much that Lady Dedlock, seated in her chair,
-could wish to see through the window in which Mr. Tulkinghorn stands.
+Therefore there is not much that [[Lady Dedlock]], seated in her chair,
+could wish to see through the [[Window|window]] in which Mr. Tulkinghorn stands.
 And yet—and yet—she sends a look in that direction as if it were
-her heart’s desire to have that figure moved out of the way.
+her heart’s [[Desire|desire]] to have that figure moved out of the way.
 
 Sir Leicester begs his Lady’s pardon. She was about to say?
 
 “Only that Mr. Rouncewell is here (he has called by my appointment)
 and that we had better make an end of the question of that girl. I am
-tired to death of the matter.”
+tired to [[Death|death]] of the matter.”
 
 “What can I do—to—assist?” demands Sir Leicester in some
-considerable doubt.
+considerable [[Doubt|doubt]].
 
 “Let us see him here and have done with it. Will you tell them to
 send him up?”
@@ -222,27 +222,27 @@ term, “request the iron gentleman to walk this way.”
 Mercury departs in search of the iron gentleman, finds, and produces
 him. Sir Leicester receives that ferruginous person graciously.
 
-“I hope you are well, Mr. Rouncewell. Be seated. (My solicitor, Mr.
+“I [[Hope|hope]] you are [[Well|well]], Mr. Rouncewell. Be seated. (My solicitor, Mr.
 Tulkinghorn.) My Lady was desirous, Mr. Rouncewell,” Sir Leicester
 skilfully transfers him with a solemn wave of his hand, “was desirous
 to speak with you. Hem!”
 
 “I shall be very happy,” returns the iron gentleman, “to give my best
-attention to anything Lady Dedlock does me the honour to say.”
+attention to anything [[Lady Dedlock]] does me the [[Honour|honour]] to say.”
 
 As he turns towards her, he finds that the impression she makes upon
 him is less agreeable than on the former occasion. A distant
 supercilious air makes a cold atmosphere about her, and there is
 nothing in her bearing, as there was before, to encourage openness.
 
-“Pray, sir,” says Lady Dedlock listlessly, “may I be allowed to
+“Pray, sir,” says [[Lady Dedlock]] listlessly, “may I be allowed to
 inquire whether anything has passed between you and your son
 respecting your son’s fancy?”
 
 It is almost too troublesome to her languid eyes to bestow a look
 upon him as she asks this question.
 
-“If my memory serves me, Lady Dedlock, I said, when I had the
+“If my [[Memory|memory]] serves me, [[Lady Dedlock]], I said, when I had the
 pleasure of seeing you before, that I should seriously advise my son
 to conquer that—fancy.” The ironmaster repeats her expression with a
 little emphasis.
@@ -258,7 +258,7 @@ precious. Highly proper.
 
 “And pray has he done so?”
 
-“Really, Lady Dedlock, I cannot make you a definite reply. I fear
+“Really, [[Lady Dedlock]], I cannot make you a definite reply. I [[Fear|fear]]
 not. Probably not yet. In our condition of life, we sometimes couple
 an intention with our—our fancies which renders them not altogether
 easy to throw off. I think it is rather our way to be in earnest.”
@@ -278,7 +278,7 @@ concur”—Sir Leicester flattered—“and if you cannot give us the
 assurance that this fancy is at an end, I have come to the conclusion
 that the girl had better leave me.”
 
-“I can give no such assurance, Lady Dedlock. Nothing of the kind.”
+“I can give no such assurance, [[Lady Dedlock]]. Nothing of the kind.”
 
 “Then she had better go.”
 
@@ -315,8 +315,8 @@ report of the iron gentleman’s observations.
 he can do anything but breathe amazedly, “to enter into these matters
 on either side. The girl is a very good girl; I have nothing whatever
 to say against her, but she is so far insensible to her many
-advantages and her good fortune that she is in love—or supposes she
-is, poor little fool—and unable to appreciate them.”
+advantages and her good fortune that she is in [[Love|love]]—or supposes she
+is, poor little [[Fool|fool]]—and unable to appreciate them.”
 
 Sir Leicester begs to observe that wholly alters the case. He might
 have been sure that my Lady had the best grounds and reasons in
@@ -324,14 +324,14 @@ support of her view. He entirely agrees with my Lady. The young woman
 had better go.
 
 “As Sir Leicester observed, Mr. Rouncewell, on the last occasion when
-we were fatigued by this business,” Lady Dedlock languidly proceeds,
+we were fatigued by this business,” [[Lady Dedlock]] languidly proceeds,
 “we cannot make conditions with you. Without conditions, and under
 present circumstances, the girl is quite misplaced here and had
 better go. I have told her so. Would you wish to have her sent back
 to the village, or would you like to take her with you, or what would
 you prefer?”
 
-“Lady Dedlock, if I may speak plainly—”
+“[[Lady Dedlock]], if I may speak plainly—”
 
 “By all means.”
 
@@ -345,65 +345,65 @@ with you?”
 The iron gentleman makes an iron bow.
 
 “Sir Leicester, will you ring?” Mr. Tulkinghorn steps forward from
-his window and pulls the bell. “I had forgotten you. Thank you.” He
+his [[Window|window]] and pulls the bell. “I had forgotten you. Thank you.” He
 makes his usual bow and goes quietly back again. Mercury,
 swift-responsive, appears, receives instructions whom to produce,
 skims away, produces the aforesaid, and departs.
 
 Rosa has been crying and is yet in distress. On her coming in, the
-ironmaster leaves his chair, takes her arm in his, and remains with
+ironmaster [[Leaves|leaves]] his chair, takes her arm in his, and remains with
 her near the door ready to depart.
 
 “You are taken charge of, you see,” says my Lady in her weary manner,
-“and are going away well protected. I have mentioned that you are a
+“and are going away [[Well|well]] protected. I have mentioned that you are a
 very good girl, and you have nothing to cry for.”
 
 “She seems after all,” observes Mr. Tulkinghorn, loitering a little
 forward with his hands behind him, “as if she were crying at going
 away.”
 
-“Why, she is not well-bred, you see,” returns Mr. Rouncewell with
+“Why, she is not [[Well|well]]-bred, you see,” returns Mr. Rouncewell with
 some quickness in his manner, as if he were glad to have the lawyer
 to retort upon, “and she is an inexperienced little thing and knows
 no better. If she had remained here, sir, she would have improved, no
-doubt.”
+[[Doubt|doubt]].”
 
-“No doubt,” is Mr. Tulkinghorn’s composed reply.
+“No [[Doubt|doubt]],” is Mr. Tulkinghorn’s composed reply.
 
 Rosa sobs out that she is very sorry to leave my Lady, and that she
 was happy at Chesney Wold, and has been happy with my Lady, and that
 she thanks my Lady over and over again. “Out, you silly little puss!”
 says the ironmaster, checking her in a low voice, though not angrily.
 “Have a spirit, if you’re fond of Watt!” My Lady merely waves her off
-with indifference, saying, “There, there, child! You are a good girl.
+with indifference, saying, “There, there, [[Child|child]]! You are a good girl.
 Go away!” Sir Leicester has magnificently disengaged himself from the
 subject and retired into the sanctuary of his blue coat. Mr.
 Tulkinghorn, an indistinct form against the dark street now dotted
 with lamps, looms in my Lady’s view, bigger and blacker than before.
 
-“Sir Leicester and Lady Dedlock,” says Mr. Rouncewell after a pause
+“Sir Leicester and [[Lady Dedlock]],” says Mr. Rouncewell after a pause
 of a few moments, “I beg to take my leave, with an apology for having
 again troubled you, though not of my own act, on this tiresome
-subject. I can very well understand, I assure you, how tiresome so
-small a matter must have become to Lady Dedlock. If I am doubtful of
+subject. I can very [[Well|well]] understand, I assure you, how tiresome so
+small a matter must have become to [[Lady Dedlock]]. If I am doubtful of
 my dealing with it, it is only because I did not at first quietly
 exert my influence to take my young friend here away without
 troubling you at all. But it appeared to me—I dare say magnifying
 the importance of the thing—that it was respectful to explain to you
 how the matter stood and candid to consult your wishes and
-convenience. I hope you will excuse my want of acquaintance with the
+convenience. I [[Hope|hope]] you will excuse my want of acquaintance with the
 polite world.”
 
 Sir Leicester considers himself evoked out of the sanctuary by these
 remarks. “Mr. Rouncewell,” he returns, “do not mention it.
-Justifications are unnecessary, I hope, on either side.”
+Justifications are unnecessary, I [[Hope|hope]], on either side.”
 
 “I am glad to hear it, Sir Leicester; and if I may, by way of a last
 word, revert to what I said before of my mother’s long connexion with
 the family and the worth it bespeaks on both sides, I would point out
 this little instance here on my arm who shows herself so affectionate
 and faithful in parting and in whom my mother, I dare say, has done
-something to awaken such feelings—though of course Lady Dedlock, by
+something to awaken such feelings—though of course [[Lady Dedlock]], by
 her heartfelt interest and her genial condescension, has done much
 more.”
 
@@ -412,22 +412,22 @@ it, however, by no deviation from his straightforward manner of
 speech, though in saying it he turns towards that part of the dim
 room where my Lady sits. Sir Leicester stands to return his parting
 salutation, Mr. Tulkinghorn again rings, Mercury takes another
-flight, and Mr. Rouncewell and Rosa leave the house.
+flight, and Mr. Rouncewell and Rosa leave the [[house]].
 
 Then lights are brought in, discovering Mr. Tulkinghorn still
-standing in his window with his hands behind him and my Lady still
-sitting with his figure before her, closing up her view of the night
-as well as of the day. She is very pale. Mr. Tulkinghorn, observing
-it as she rises to retire, thinks, “Well she may be! The power of
+standing in his [[Window|window]] with his hands behind him and my Lady still
+sitting with his figure before her, closing up her view of the [[Night|night]]
+as [[Well|well]] as of the day. She is very pale. Mr. Tulkinghorn, observing
+it as she rises to retire, thinks, “[[Well]] she may be! The power of
 this woman is astonishing. She has been acting a part the whole
-time.” But he can act a part too—his one unchanging character—and
+[[Time|time]].” But he can act a part too—his one unchanging character—and
 as he holds the door open for this woman, fifty pairs of eyes, each
 fifty times sharper than Sir Leicester’s pair, should find no flaw in
 him.
 
-Lady Dedlock dines alone in her own room to-day. Sir Leicester is
+[[Lady Dedlock]] dines [[Alone|alone]] in her own room to-day. Sir Leicester is
 whipped in to the rescue of the Doodle Party and the discomfiture of
-the Coodle Faction. Lady Dedlock asks on sitting down to dinner,
+the Coodle Faction. [[Lady Dedlock]] asks on sitting down to dinner,
 still deadly pale (and quite an illustration of the debilitated
 cousin’s text), whether he is gone out? Yes. Whether Mr. Tulkinghorn
 is gone yet? No. Presently she asks again, is he gone YET? No. What
@@ -438,12 +438,12 @@ But he wishes to see my Lady. Within a few more minutes he is
 reported as sending his respects, and could my Lady please to receive
 him for a word or two after her dinner? My Lady will receive him now.
 He comes now, apologizing for intruding, even by her permission,
-while she is at table. When they are alone, my Lady waves her hand to
+while she is at table. When they are [[Alone|alone]], my Lady waves her hand to
 dispense with such mockeries.
 
 “What do you want, sir?”
 
-“Why, Lady Dedlock,” says the lawyer, taking a chair at a little
+“Why, [[Lady Dedlock]],” says the lawyer, taking a chair at a little
 distance from her and slowly rubbing his rusty legs up and down, up
 and down, up and down, “I am rather surprised by the course you have
 taken.”
@@ -452,48 +452,48 @@ taken.”
 
 “Yes, decidedly. I was not prepared for it. I consider it a departure
 from our agreement and your promise. It puts us in a new position,
-Lady Dedlock. I feel myself under the necessity of saying that I
+[[Lady Dedlock]]. I feel myself under the necessity of saying that I
 don’t approve of it.”
 
 He stops in his rubbing and looks at her, with his hands on his
 knees. Imperturbable and unchangeable as he is, there is still an
-indefinable freedom in his manner which is new and which does not
+indefinable [[Freedom|freedom]] in his manner which is new and which does not
 escape this woman’s observation.
 
 “I do not quite understand you.”
 
-“Oh, yes you do, I think. I think you do. Come, come, Lady Dedlock,
+“Oh, yes you do, I think. I think you do. Come, come, [[Lady Dedlock]],
 we must not fence and parry now. You know you like this girl.”
 
-“Well, sir?”
+“[[Well]], sir?”
 
 “And you know—and I know—that you have not sent her away for the
 reasons you have assigned, but for the purpose of separating her as
 much as possible from—excuse my mentioning it as a matter of
 business—any reproach and exposure that impend over yourself.”
 
-“Well, sir?”
+“[[Well]], sir?”
 
-“Well, Lady Dedlock,” returns the lawyer, crossing his legs and
+“[[Well]], [[Lady Dedlock]],” returns the lawyer, crossing his legs and
 nursing the uppermost knee. “I object to that. I consider that a
 dangerous proceeding. I know it to be unnecessary and calculated to
-awaken speculation, doubt, rumour, I don’t know what, in the house.
+awaken speculation, [[Doubt|doubt]], rumour, I don’t know what, in the [[house]].
 Besides, it is a violation of our agreement. You were to be exactly
 what you were before. Whereas, it must be evident to yourself, as it
 is to me, that you have been this evening very different from what
-you were before. Why, bless my soul, Lady Dedlock, transparently so!”
+you were before. Why, bless my [[Soul|soul]], [[Lady Dedlock]], transparently so!”
 
 “If, sir,” she begins, “in my knowledge of my secret—” But he
 interrupts her.
 
-“Now, Lady Dedlock, this is a matter of business, and in a matter of
+“Now, [[Lady Dedlock]], this is a matter of business, and in a matter of
 business the ground cannot be kept too clear. It is no longer your
 secret. Excuse me. That is just the mistake. It is my secret, in
 trust for Sir Leicester and the family. If it were your secret, Lady
 Dedlock, we should not be here holding this conversation.”
 
 “That is very true. If in my knowledge of THE secret I do what I can
-to spare an innocent girl (especially, remembering your own reference
+to spare an [[Innocent|innocent]] girl (especially, remembering your own reference
 to her when you told my story to the assembled guests at Chesney
 Wold) from the taint of my impending shame, I act upon a resolution I
 have taken. Nothing in the world, and no one in the world, could
@@ -502,21 +502,21 @@ distinctness and with no more outward passion than himself. As for
 him, he methodically discusses his matter of business as if she were
 any insensible instrument used in business.
 
-“Really? Then you see, Lady Dedlock,” he returns, “you are not to be
+“Really? Then you see, [[Lady Dedlock]],” he returns, “you are not to be
 trusted. You have put the case in a perfectly plain way, and
 according to the literal fact; and that being the case, you are not
 to be trusted.”
 
 “Perhaps you may remember that I expressed some anxiety on this same
-point when we spoke at night at Chesney Wold?”
+point when we spoke at [[Night|night]] at Chesney Wold?”
 
 “Yes,” says Mr. Tulkinghorn, coolly getting up and standing on the
-hearth. “Yes. I recollect, Lady Dedlock, that you certainly referred
+hearth. “Yes. I recollect, [[Lady Dedlock]], that you certainly referred
 to the girl, but that was before we came to our arrangement, and both
 the letter and the spirit of our arrangement altogether precluded any
-action on your part founded upon my discovery. There can be no doubt
+action on your part founded upon my discovery. There can be no [[Doubt|doubt]]
 about that. As to sparing the girl, of what importance or value is
-she? Spare! Lady Dedlock, here is a family name compromised. One
+she? Spare! [[Lady Dedlock]], here is a family name compromised. One
 might have supposed that the course was straight on—over everything,
 neither to the right nor to the left, regardless of all
 considerations in the way, sparing nothing, treading everything under
@@ -528,20 +528,20 @@ lip is compressed under her teeth. “This woman understands me,” Mr.
 Tulkinghorn thinks as she lets her glance fall again. “SHE cannot be
 spared. Why should she spare others?”
 
-For a little while they are silent. Lady Dedlock has eaten no dinner,
-but has twice or thrice poured out water with a steady hand and drunk
+For a little while they are silent. [[Lady Dedlock]] has eaten no dinner,
+but has twice or thrice poured out [[Water|water]] with a steady hand and drunk
 it. She rises from table, takes a lounging-chair, and reclines in it,
 shading her face. There is nothing in her manner to express weakness
 or excite compassion. It is thoughtful, gloomy, concentrated. “This
 woman,” thinks Mr. Tulkinghorn, standing on the hearth, again a dark
 object closing up her view, “is a study.”
 
-He studies her at his leisure, not speaking for a time. She too
+He studies her at his leisure, not speaking for a [[Time|time]]. She too
 studies something at her leisure. She is not the first to speak,
 appearing indeed so unlikely to be so, though he stood there until
-midnight, that even he is driven upon breaking silence.
+midnight, that even he is driven upon breaking [[Silence|silence]].
 
-“Lady Dedlock, the most disagreeable part of this business interview
+“[[Lady Dedlock]], the most disagreeable part of this business interview
 remains, but it is business. Our agreement is broken. A lady of your
 sense and strength of character will be prepared for my now declaring
 it void and taking my own course.”
@@ -549,12 +549,12 @@ it void and taking my own course.”
 “I am quite prepared.”
 
 Mr. Tulkinghorn inclines his head. “That is all I have to trouble you
-with, Lady Dedlock.”
+with, [[Lady Dedlock]].”
 
 She stops him as he is moving out of the room by asking, “This is the
 notice I was to receive? I wish not to misapprehend you.”
 
-“Not exactly the notice you were to receive, Lady Dedlock, because
+“Not exactly the notice you were to receive, [[Lady Dedlock]], because
 the contemplated notice supposed the agreement to have been observed.
 But virtually the same, virtually the same. The difference is merely
 in a lawyer’s mind.”
@@ -563,15 +563,15 @@ in a lawyer’s mind.”
 
 “You are right. No.”
 
-“Do you contemplate undeceiving Sir Leicester to-night?”
+“Do you contemplate undeceiving Sir Leicester to-[[Night|night]]?”
 
-“A home question!” says Mr. Tulkinghorn with a slight smile and
-cautiously shaking his head at the shaded face. “No, not to-night.”
+“A [[Home|home]] question!” says Mr. Tulkinghorn with a slight smile and
+cautiously shaking his head at the shaded face. “No, not to-[[Night|night]].”
 
 “To-morrow?”
 
 “All things considered, I had better decline answering that question,
-Lady Dedlock. If I were to say I don’t know when, exactly, you would
+[[Lady Dedlock]]. If I were to say I don’t know when, exactly, you would
 not believe me, and it would answer no purpose. It may be to-morrow.
 I would rather say no more. You are prepared, and I hold out no
 expectations which circumstances might fail to justify. I wish you
@@ -581,111 +581,111 @@ She removes her hand, turns her pale face towards him as he walks
 silently to the door, and stops him once again as he is about to open
 it.
 
-“Do you intend to remain in the house any time? I heard you were
+“Do you intend to remain in the [[house]] any [[Time|time]]? I heard you were
 writing in the library. Are you going to return there?”
 
-“Only for my hat. I am going home.”
+“Only for my hat. I am going [[Home|home]].”
 
 She bows her eyes rather than her head, the movement is so slight and
 curious, and he withdraws. Clear of the room he looks at his watch
-but is inclined to doubt it by a minute or thereabouts. There is a
-splendid clock upon the staircase, famous, as splendid clocks not
+but is inclined to [[Doubt|doubt]] it by a minute or thereabouts. There is a
+splendid [[Clock|clock]] upon the staircase, famous, as splendid clocks not
 often are, for its accuracy. “And what do YOU say,” Mr. Tulkinghorn
 inquires, referring to it. “What do you say?”
 
-If it said now, “Don’t go home!” What a famous clock, hereafter, if
-it said to-night of all the nights that it has counted off, to this
+If it said now, “Don’t go [[Home|home]]!” What a famous [[Clock|clock]], hereafter, if
+it said to-[[Night|night]] of all the nights that it has counted off, to this
 old man of all the young and old men who have ever stood before it,
-“Don’t go home!” With its sharp clear bell it strikes three quarters
+“Don’t go [[Home|home]]!” With its sharp clear bell it strikes three quarters
 after seven and ticks on again. “Why, you are worse than I thought
 you,” says Mr. Tulkinghorn, muttering reproof to his watch. “Two
-minutes wrong? At this rate you won’t last my time.” What a watch to
-return good for evil if it ticked in answer, “Don’t go home!”
+minutes wrong? At this rate you won’t last my [[Time|time]].” What a watch to
+return good for evil if it ticked in answer, “Don’t go [[Home|home]]!”
 
 He passes out into the streets and walks on, with his hands behind
-him, under the shadow of the lofty houses, many of whose mysteries,
+him, under the [[Shadow|shadow]] of the lofty houses, many of whose mysteries,
 difficulties, mortgages, delicate affairs of all kinds, are treasured
 up within his old black satin waistcoat. He is in the confidence of
 the very bricks and mortar. The high chimney-stacks telegraph family
-secrets to him. Yet there is not a voice in a mile of them to
-whisper, “Don’t go home!”
+[[Secrets|secrets]] to him. Yet there is not a voice in a mile of them to
+whisper, “Don’t go [[Home|home]]!”
 
 Through the stir and motion of the commoner streets; through the roar
 and jar of many vehicles, many feet, many voices; with the blazing
-shop-lights lighting him on, the west wind blowing him on, and the
+shop-lights lighting him on, the west [[Wind|wind]] blowing him on, and the
 crowd pressing him on, he is pitilessly urged upon his way, and
-nothing meets him murmuring, “Don’t go home!” Arrived at last in his
+nothing meets him murmuring, “Don’t go [[Home|home]]!” Arrived at last in his
 dull room to light his candles, and look round and up, and see the
 Roman pointing from the ceiling, there is no new significance in the
-Roman’s hand to-night or in the flutter of the attendant groups to
+Roman’s hand to-[[Night|night]] or in the flutter of the attendant groups to
 give him the late warning, “Don’t come here!”
 
-It is a moonlight night, but the moon, being past the full, is only
-now rising over the great wilderness of London. The stars are shining
+It is a moonlight [[Night|night]], but the [[Moon|moon]], being past the full, is only
+now rising over the great wilderness of [[London]]. The [[Stars|stars]] are shining
 as they shone above the turret-leads at Chesney Wold. This woman, as
 he has of late been so accustomed to call her, looks out upon them.
-Her soul is turbulent within her; she is sick at heart and restless.
+Her [[Soul|soul]] is turbulent within her; she is sick at heart and restless.
 The large rooms are too cramped and close. She cannot endure their
-restraint and will walk alone in a neighbouring garden.
+restraint and will walk [[Alone|alone]] in a neighbouring [[Garden|garden]].
 
 Too capricious and imperious in all she does to be the cause of much
 surprise in those about her as to anything she does, this woman,
 loosely muffled, goes out into the moonlight. Mercury attends with
-the key. Having opened the garden-gate, he delivers the key into his
+the key. Having opened the [[Garden|garden]]-gate, he delivers the key into his
 Lady’s hands at her request and is bidden to go back. She will walk
-there some time to ease her aching head. She may be an hour, she may
-be more. She needs no further escort. The gate shuts upon its spring
-with a clash, and he leaves her passing on into the dark shade of
+there some [[Time|time]] to ease her aching head. She may be an hour, she may
+be more. She needs no further escort. The gate shuts upon its [[spring]]
+with a clash, and he [[Leaves|leaves]] her passing on into the dark shade of
 some trees.
 
-A fine night, and a bright large moon, and multitudes of stars. Mr.
+A fine [[Night|night]], and a bright large [[Moon|moon]], and multitudes of [[Stars|stars]]. Mr.
 Tulkinghorn, in repairing to his cellar and in opening and shutting
-those resounding doors, has to cross a little prison-like yard. He
-looks up casually, thinking what a fine night, what a bright large
-moon, what multitudes of stars! A quiet night, too.
+those resounding doors, has to [[Cross|cross]] a little [[Prison|prison]]-like yard. He
+looks up casually, thinking what a fine [[Night|night]], what a bright large
+[[Moon|moon]], what multitudes of [[Stars|stars]]! A quiet [[Night|night]], too.
 
-A very quiet night. When the moon shines very brilliantly, a solitude
+A very quiet [[Night|night]]. When the [[Moon|moon]] shines very brilliantly, a [[Solitude|solitude]]
 and stillness seem to proceed from her that influence even crowded
-places full of life. Not only is it a still night on dusty high roads
-and on hill-summits, whence a wide expanse of country may be seen in
+places full of life. Not only is it a still [[Night|night]] on dusty high roads
+and on [[Hill|hill]]-summits, whence a wide expanse of country may be seen in
 repose, quieter and quieter as it spreads away into a fringe of trees
-against the sky with the grey ghost of a bloom upon them; not only is
-it a still night in gardens and in woods, and on the river where the
-water-meadows are fresh and green, and the stream sparkles on among
+against the sky with the grey [[Ghost|ghost]] of a bloom upon them; not only is
+it a still [[Night|night]] in gardens and in woods, and on the [[River|river]] where the
+[[Water|water]]-meadows are fresh and green, and the stream sparkles on among
 pleasant islands, murmuring weirs, and whispering rushes; not only
 does the stillness attend it as it flows where houses cluster thick,
 where many bridges are reflected in it, where wharves and shipping
 make it black and awful, where it winds from these disfigurements
 through marshes whose grim beacons stand like skeletons washed
 ashore, where it expands through the bolder region of rising grounds,
-rich in cornfield wind-mill and steeple, and where it mingles with
-the ever-heaving sea; not only is it a still night on the deep, and
-on the shore where the watcher stands to see the ship with her spread
-wings cross the path of light that appears to be presented to only
-him; but even on this stranger’s wilderness of London there is some
+rich in cornfield [[Wind|wind]]-mill and steeple, and where it mingles with
+the ever-heaving sea; not only is it a still [[Night|night]] on the deep, and
+on the shore where the watcher stands to see the [[Ship|ship]] with her spread
+wings [[Cross|cross]] the path of light that appears to be presented to only
+him; but even on this stranger’s wilderness of [[London]] there is some
 rest. Its steeples and towers and its one great dome grow more
-ethereal; its smoky house-tops lose their grossness in the pale
+ethereal; its smoky [[house]]-tops lose their grossness in the pale
 effulgence; the noises that arise from the streets are fewer and are
 softened, and the footsteps on the pavements pass more tranquilly
 away. In these fields of Mr. Tulkinghorn’s inhabiting, where the
 shepherds play on Chancery pipes that have no stop, and keep their
 sheep in the fold by hook and by crook until they have shorn them
-exceeding close, every noise is merged, this moonlight night, into a
-distant ringing hum, as if the city were a vast glass, vibrating.
+exceeding close, every noise is merged, this moonlight [[Night|night]], into a
+distant ringing hum, as if the [[City|city]] were a vast glass, vibrating.
 
-What’s that? Who fired a gun or pistol? Where was it?
+What’s that? Who fired a gun or [[Pistol|pistol]]? Where was it?
 
 The few foot-passengers start, stop, and stare about them. Some
 windows and doors are opened, and people come out to look. It was a
-loud report and echoed and rattled heavily. It shook one house, or so
-a man says who was passing. It has aroused all the dogs in the
+loud report and echoed and rattled heavily. It shook one [[house]], or so
+a man says who was passing. It has aroused all the [[dogs]] in the
 neighbourhood, who bark vehemently. Terrified cats scamper across the
-road. While the dogs are yet barking and howling—there is one dog
+[[Road|road]]. While the [[dogs]] are yet barking and howling—there is one dog
 howling like a demon—the church-clocks, as if they were startled
 too, begin to strike. The hum from the streets, likewise, seems to
-swell into a shout. But it is soon over. Before the last clock begins
-to strike ten, there is a lull. When it has ceased, the fine night,
-the bright large moon, and multitudes of stars, are left at peace
+swell into a shout. But it is soon over. Before the last [[Clock|clock]] begins
+to strike ten, there is a lull. When it has ceased, the fine [[Night|night]],
+the bright large [[Moon|moon]], and multitudes of [[Stars|stars]], are left at peace
 again.
 
 Has Mr. Tulkinghorn been disturbed? His windows are dark and quiet,
@@ -696,10 +696,10 @@ out of his immovable composure?
 
 For many years the persistent Roman has been pointing, with no
 particular meaning, from that ceiling. It is not likely that he has
-any new meaning in him to-night. Once pointing, always pointing—like
-any Roman, or even Briton, with a single idea. There he is, no doubt,
-in his impossible attitude, pointing, unavailingly, all night long.
-Moonlight, darkness, dawn, sunrise, day. There he is still, eagerly
+any new meaning in him to-[[Night|night]]. Once pointing, always pointing—like
+any Roman, or even Briton, with a single idea. There he is, no [[Doubt|doubt]],
+in his impossible attitude, pointing, unavailingly, all [[Night|night]] long.
+Moonlight, darkness, [[Dawn|dawn]], sunrise, day. There he is still, eagerly
 pointing, and no one minds him.
 
 But a little after the coming of the day come people to clean the
@@ -721,11 +721,11 @@ He is pointing at a table with a bottle (nearly full of wine) and a
 glass upon it and two candles that were blown out suddenly soon after
 being lighted. He is pointing at an empty chair and at a stain upon
 the ground before it that might be almost covered with a hand. These
-objects lie directly within his range. An excited imagination might
+objects lie directly within his range. An excited [[Imagination|imagination]] might
 suppose that there was something in them so terrific as to drive the
 rest of the composition, not only the attendant big-legged boys, but
-the clouds and flowers and pillars too—in short, the very body and
-soul of Allegory, and all the brains it has—stark mad. It happens
+the clouds and [[Flowers|flowers]] and pillars too—in short, the very [[Body|body]] and
+[[Soul|soul]] of [[Allegory]], and all the brains it has—stark mad. It happens
 surely that every one who comes into the darkened room and looks at
 these things looks up at the Roman and that he is invested in all
 eyes with mystery and awe, as if he were a paralysed dumb witness.
@@ -733,9 +733,9 @@ eyes with mystery and awe, as if he were a paralysed dumb witness.
 So it shall happen surely, through many years to come, that ghostly
 stories shall be told of the stain upon the floor, so easy to be
 covered, so hard to be got out, and that the Roman, pointing from the
-ceiling shall point, so long as dust and damp and spiders spare him,
+ceiling shall point, so long as [[Dust|dust]] and damp and spiders spare him,
 with far greater significance than he ever had in Mr. Tulkinghorn’s
-time, and with a deadly meaning. For Mr. Tulkinghorn’s time is over
+[[Time|time]], and with a deadly meaning. For Mr. Tulkinghorn’s [[Time|time]] is over
 for evermore, and the Roman pointed at the murderous hand uplifted
-against his life, and pointed helplessly at him, from night to
+against his life, and pointed helplessly at him, from [[Night|night]] to
 morning, lying face downward on the floor, shot through the heart.

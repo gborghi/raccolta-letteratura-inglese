@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 3)"
+title: "[[David Copperfield]] — Chapter 34: MY AUNT ASTONISHES ME (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,10 +18,10 @@ I said beforehand, certainly not.
 
 ‘Then if you WOULD be good enough,’ said Traddles to Peggotty, ‘to
 get the flower-pot now, I think I should like (it being Sophy’s,
-Copperfield) to carry it home myself!’
+Copperfield) to carry it [[Home|home]] myself!’
 
 Peggotty was glad to get it for him, and he overwhelmed her with thanks,
-and went his way up Tottenham Court Road, carrying the flower-pot
+and went his way up Tottenham [[Court]] [[Road]], carrying the flower-pot
 affectionately in his arms, with one of the most delighted expressions
 of countenance I ever saw.
 
@@ -39,7 +39,7 @@ standing open (which I had shut) and to hear voices inside.
 We looked at one another, without knowing what to make of this, and went
 into the sitting-room. What was my amazement to find, of all people upon
 earth, my aunt there, and Mr. Dick! My aunt sitting on a quantity of
-luggage, with her two birds before her, and her cat on her knee, like a
+luggage, with her two [[Birds|birds]] before her, and her cat on her knee, like a
 female Robinson Crusoe, drinking tea. Mr. Dick leaning thoughtfully on
 a great kite, such as we had often been out together to fly, with more
 luggage piled about him!
@@ -48,7 +48,7 @@ luggage piled about him!
 
 We cordially embraced; and Mr. Dick and I cordially shook hands; and
 Mrs. Crupp, who was busy making tea, and could not be too attentive,
-cordially said she had knowed well as Mr. Copperfull would have his
+cordially said she had knowed [[Well|well]] as Mr. Copperfull would have his
 heart in his mouth, when he see his dear relations.
 
 ‘Holloa!’ said my aunt to Peggotty, who quailed before her awful
@@ -56,7 +56,7 @@ presence. ‘How are YOU?’
 
 ‘You remember my aunt, Peggotty?’ said I.
 
-‘For the love of goodness, child,’ exclaimed my aunt, ‘don’t call the
+‘For the [[Love|love]] of goodness, [[Child|child]],’ exclaimed my aunt, ‘don’t call the
 woman by that South Sea Island name! If she married and got rid of
 it, which was the best thing she could do, why don’t you give her the
 benefit of the change? What’s your name now,--P?’ said my aunt, as a
@@ -64,8 +64,8 @@ compromise for the obnoxious appellation.
 
 ‘Barkis, ma’am,’ said Peggotty, with a curtsey.
 
-‘Well! That’s human,’ said my aunt. ‘It sounds less as if you wanted a
-missionary. How d’ye do, Barkis? I hope you’re well?’
+‘[[Well]]! That’s human,’ said my aunt. ‘It sounds less as if you wanted a
+missionary. How d’ye do, Barkis? I [[Hope|hope]] you’re [[Well|well]]?’
 
 Encouraged by these gracious words, and by my aunt’s extending her
 hand, Barkis came forward, and took the hand, and curtseyed her
@@ -96,14 +96,14 @@ Crupp.
 a rasher? Ain’t there nothing I could do for your dear aunt, Mr.
 Copperfull?’
 
-‘Nothing, ma’am,’ returned my aunt. ‘I shall do very well, I thank you.’
+‘Nothing, ma’am,’ returned my aunt. ‘I shall do very [[Well|well]], I thank you.’
 
 Mrs. Crupp, who had been incessantly smiling to express sweet temper,
 and incessantly holding her head on one side, to express a general
 feebleness of constitution, and incessantly rubbing her hands, to
-express a desire to be of service to all deserving objects, gradually
+express a [[Desire|desire]] to be of service to all deserving objects, gradually
 smiled herself, one-sided herself, and rubbed herself, out of the room.
-‘Dick!’ said my aunt. ‘You know what I told you about time-servers and
+‘Dick!’ said my aunt. ‘You know what I told you about [[Time|time]]-servers and
 wealth-worshippers?’
 
 Mr. Dick--with rather a scared look, as if he had forgotten it--returned
@@ -113,18 +113,18 @@ a hasty answer in the affirmative.
 look after the tea, and let me have another cup, for I don’t fancy that
 woman’s pouring-out!’
 
-I knew my aunt sufficiently well to know that she had something of
+I knew my aunt sufficiently [[Well|well]] to know that she had something of
 importance on her mind, and that there was far more matter in this
 arrival than a stranger might have supposed. I noticed how her eye
 lighted on me, when she thought my attention otherwise occupied; and
 what a curious process of hesitation appeared to be going on within
 her, while she preserved her outward stiffness and composure. I began
-to reflect whether I had done anything to offend her; and my conscience
+to reflect whether I had done anything to offend her; and my [[Conscience|conscience]]
 whispered me that I had not yet told her about Dora. Could it by any
 means be that, I wondered!
 
-As I knew she would only speak in her own good time, I sat down near
-her, and spoke to the birds, and played with the cat, and was as easy
+As I knew she would only speak in her own good [[Time|time]], I sat down near
+her, and spoke to the [[Birds|birds]], and played with the cat, and was as easy
 as I could be. But I was very far from being really easy; and I should
 still have been so, even if Mr. Dick, leaning over the great kite behind
 my aunt, had not taken every secret opportunity of shaking his head
@@ -132,22 +132,22 @@ darkly at me, and pointing at her.
 
 ‘Trot,’ said my aunt at last, when she had finished her tea, and
 carefully smoothed down her dress, and wiped her lips--‘you needn’t go,
-Barkis!--Trot, have you got to be firm and self-reliant?’
+Barkis!--Trot, have you got to be firm and [[Self|self]]-reliant?’
 
-‘I hope so, aunt.’
+‘I [[Hope|hope]] so, aunt.’
 
 ‘What do you think?’ inquired Miss Betsey.
 
 ‘I think so, aunt.’
 
-‘Then why, my love,’ said my aunt, looking earnestly at me, ‘why do you
+‘Then why, my [[Love|love]],’ said my aunt, looking earnestly at me, ‘why do you
 think I prefer to sit upon this property of mine tonight?’
 
 I shook my head, unable to guess.
 
 ‘Because,’ said my aunt, ‘it’s all I have. Because I’m ruined, my dear!’
 
-If the house, and every one of us, had tumbled out into the river
+If the [[house]], and every one of us, had tumbled out into the [[River|river]]
 together, I could hardly have received a greater shock.
 
 ‘Dick knows it,’ said my aunt, laying her hand calmly on my shoulder. ‘I

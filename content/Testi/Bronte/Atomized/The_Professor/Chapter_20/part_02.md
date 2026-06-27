@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 19 (part 2)"
+title: "[[The Professor]] — Chapter 19 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ you were already gone; it had not yet struck four, so I thought she must
 
 be mistaken, but concluded it would be vain to call another day on the
 
-same errand. In one sense a note will do as well--it will wrap up the
+same errand. In one sense a note will do as [[Well|well]]--it will wrap up the
 
 20 francs, the price of the lessons I have received from you; and if it
 
@@ -34,7 +34,7 @@ I seen you, I should probably have stammered out something feeble and
 
 unsatisfactory--something belying my feelings rather than explaining
 
-them; so it is perhaps as well that I was denied admission to your
+them; so it is perhaps as [[Well|well]] that I was denied admission to your
 
 presence. You often remarked, monsieur, that my devoirs dwelt a great
 
@@ -70,19 +70,19 @@ into my purse--then I took a turn through my narrow chamber.
 
 
 
-“Mdlle. Reuter talked about her poverty,” said I, “and she is poor;
+“Mdlle. Reuter talked about her [[Poverty|poverty]],” said I, “and she is poor;
 
 yet she pays her debts and more. I have not yet given her a quarter’s
 
-lessons, and she has sent me a quarter’s due. I wonder of what she
+lessons, and she has sent me a quarter’s due. I [[Wonder|wonder]] of what she
 
-deprived herself to scrape together the twenty francs--I wonder what
+deprived herself to scrape together the twenty francs--I [[Wonder|wonder]] what
 
 sort of a place she has to live in, and what sort of a woman her aunt
 
 is, and whether she is likely to get employment to supply the place she
 
-has lost. No doubt she will have to trudge about long enough from school
+has lost. No [[Doubt|doubt]] she will have to trudge about long enough from school
 
 to school, to inquire here, and apply there--be rejected in this place,
 
@@ -92,7 +92,7 @@ and unsuccessful. And the directress would not let her in to bid me
 
 good-bye? I might not have the chance of standing with her for a few
 
-minutes at a window in the schoolroom and exchanging some half-dozen of
+minutes at a [[Window|window]] in the schoolroom and exchanging some half-dozen of
 
 sentences--getting to know where she lived--putting matters in train
 
@@ -100,7 +100,7 @@ for having all things arranged to my mind? No address on the note”--I
 
 continued, drawing it again from the pocket-book and examining it on
 
-each side of the two leaves: “women are women, that is certain, and
+each side of the two [[Leaves|leaves]]: “women are women, that is certain, and
 
 always do business like women; men mechanically put a date and address
 
@@ -114,7 +114,7 @@ packet, I could have thrust them back into her little hand, and shut
 
 up the small, taper fingers over them--so--and compelled her shame, her
 
-pride, her shyness, all to yield to a little bit of determined Will--now
+[[Pride|pride]], her shyness, all to yield to a little bit of determined Will--now
 
 where is she? How can I get at her?”
 
@@ -198,7 +198,7 @@ of eyebrow traced above.
 
 said she would,” muttered I inwardly, as on the afternoon of the fourth
 
-Sunday, I turned from the door of the chapel-royal which the door-keeper
+[[Sunday]], I turned from the door of the chapel-royal which the door-keeper
 
 had just closed and locked, and followed in the wake of the last of the
 
@@ -212,7 +212,7 @@ of the high-flounced, slovenly, and tumbled dresses in costly silk and
 
 satin, of the large unbecoming collars in expensive lace; of the ill-cut
 
-coats and strangely fashioned pantaloons which every Sunday, at the
+coats and strangely fashioned pantaloons which every [[Sunday]], at the
 
 English service, filled the choirs of the chapel-royal, and after it,
 

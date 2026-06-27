@@ -23,14 +23,14 @@ before; and with no Lilian by her side.
 
 The frame at which she had worked, was put away upon a shelf and covered
 up.  The chair in which she had sat, was turned against the wall.  A
-history was written in these little things, and in Meg’s grief-worn face.
+[[history]] was written in these little things, and in Meg’s grief-worn face.
 Oh! who could fail to read it!
 
 Meg strained her eyes upon her work until it was too dark to see the
-threads; and when the night closed in, she lighted her feeble candle and
+threads; and when the [[Night|night]] closed in, she lighted her feeble candle and
 worked on.  Still her old father was invisible about her; looking down
 upon her; loving her—how dearly loving her!—and talking to her in a
-tender voice about the old times, and the Bells.  Though he knew, poor
+tender voice about the old times, and [[The Bells|the Bells]].  Though he knew, poor
 Trotty, though he knew she could not hear him.
 
 A great part of the evening had worn away, when a knock came at her door.
@@ -41,15 +41,15 @@ having been a man of good proportion and good features in his youth.
 
 He stopped until he had her leave to enter; and she, retiring a pace or
 two from the open door, silently and sorrowfully looked upon him.  Trotty
-had his wish.  He saw Richard.
+had his wish.  He saw [[Richard]].
 
 ‘May I come in, Margaret?’
 
 ‘Yes!  Come in.  Come in!’
 
-It was well that Trotty knew him before he spoke; for with any doubt
+It was [[Well|well]] that Trotty knew him before he spoke; for with any [[Doubt|doubt]]
 remaining on his mind, the harsh discordant voice would have persuaded
-him that it was not Richard but some other man.
+him that it was not [[Richard]] but some other man.
 
 There were but two chairs in the room.  She gave him hers, and stood at
 some short distance from him, waiting to hear what he had to say.
@@ -72,15 +72,15 @@ he entered.
 ‘And early.’
 
 ‘So she said.  She said you never tired; or never owned that you tired.
-Not all the time you lived together.  Not even when you fainted, between
-work and fasting.  But I told you that, the last time I came.’
+Not all the [[Time|time]] you lived together.  Not even when you fainted, between
+work and fasting.  But I told you that, the last [[Time|time]] I came.’
 
 ‘You did,’ she answered.  ‘And I implored you to tell me nothing more;
-and you made me a solemn promise, Richard, that you never would.’
+and you made me a solemn promise, [[Richard]], that you never would.’
 
 ‘A solemn promise,’ he repeated, with a drivelling laugh and vacant
 stare.  ‘A solemn promise.  To be sure.  A solemn promise!’  Awakening,
-as it were, after a time; in the same manner as before; he said with
+as it were, after a [[Time|time]]; in the same manner as before; he said with
 sudden animation:
 
 ‘How can I help it, Margaret?  What am I to do?  She has been to me
@@ -89,21 +89,21 @@ again!’
 ‘Again!’ cried Meg, clasping her hands.  ‘O, does she think of me so
 often!  Has she been again!’
 
-‘Twenty times again,’ said Richard.  ‘Margaret, she haunts me.  She comes
+‘Twenty times again,’ said [[Richard]].  ‘Margaret, she haunts me.  She comes
 behind me in the street, and thrusts it in my hand.  I hear her foot upon
 the ashes when I’m at my work (ha, ha! that an’t often), and before I can
-turn my head, her voice is in my ear, saying, “Richard, don’t look round.
-For Heaven’s love, give her this!”  She brings it where I live: she sends
-it in letters; she taps at the window and lays it on the sill.  What
+turn my head, her voice is in my ear, saying, “[[Richard]], don’t look round.
+For Heaven’s [[Love|love]], give her this!”  She brings it where I live: she sends
+it in letters; she taps at the [[Window|window]] and lays it on the sill.  What
 _can_ I do?  Look at it!’
 
 He held out in his hand a little purse, and chinked the money it
 enclosed.
 
-‘Hide it,’ said Meg.  ‘Hide it!  When she comes again, tell her, Richard,
-that I love her in my soul.  That I never lie down to sleep, but I bless
+‘Hide it,’ said Meg.  ‘Hide it!  When she comes again, tell her, [[Richard]],
+that I [[Love|love]] her in my [[Soul|soul]].  That I never lie down to [[Sleep|sleep]], but I bless
 her, and pray for her.  That, in my solitary work, I never cease to have
-her in my thoughts.  That she is with me, night and day.  That if I died
+her in my thoughts.  That she is with me, [[Night|night]] and day.  That if I died
 to-morrow, I would remember her with my last breath.  But, that I cannot
 look upon it!’
 
@@ -120,12 +120,12 @@ O, Lilian, Lilian!’
 
 ‘I saw her,’ he went on to say, not answering, but engaged in the same
 slow pursuit of his own thoughts.  ‘There she stood: trembling!  “How
-does she look, Richard?  Does she ever speak of me?  Is she thinner?  My
+does she look, [[Richard]]?  Does she ever speak of me?  Is she thinner?  My
 old place at the table: what’s in my old place?  And the frame she taught
-me our old work on—has she burnt it, Richard!”  There she was.  I heard
+me our old work on—has she burnt it, [[Richard]]!”  There she was.  I heard
 her say it.’
 
-Meg checked her sobs, and with the tears streaming from her eyes, bent
+Meg checked her sobs, and with the [[Tears|tears]] streaming from her eyes, bent
 over him to listen.  Not to lose a breath.
 
 With his arms resting on his knees; and stooping forward in his chair, as
@@ -133,17 +133,17 @@ if what he said were written on the ground in some half legible
 character, which it was his occupation to decipher and connect; he went
 on.
 
-‘“Richard, I have fallen very low; and you may guess how much I have
+‘“[[Richard]], I have fallen very low; and you may guess how much I have
 suffered in having this sent back, when I can bear to bring it in my hand
-to you.  But you loved her once, even in my memory, dearly.  Others
+to you.  But you loved her once, even in my [[Memory|memory]], dearly.  Others
 stepped in between you; fears, and jealousies, and doubts, and vanities,
-estranged you from her; but you did love her, even in my memory!”  I
+estranged you from her; but you did [[Love|love]] her, even in my [[Memory|memory]]!”  I
 suppose I did,’ he said, interrupting himself for a moment.  ‘I did!
-That’s neither here nor there—“O Richard, if you ever did; if you have
-any memory for what is gone and lost, take it to her once more.  Once
+That’s neither here nor there—“O [[Richard]], if you ever did; if you have
+any [[Memory|memory]] for what is gone and lost, take it to her once more.  Once
 more!  Tell her how I laid my head upon your shoulder, where her own head
-might have lain, and was so humble to you, Richard.  Tell her that you
-looked into my face, and saw the beauty which she used to praise, all
+might have lain, and was so humble to you, [[Richard]].  Tell her that you
+looked into my face, and saw the [[Beauty|beauty]] which she used to praise, all
 gone: all gone: and in its place, a poor, wan, hollow cheek, that she
 would weep to see.  Tell her everything, and take it back, and she will
 not refuse again.  She will not have the heart!”’

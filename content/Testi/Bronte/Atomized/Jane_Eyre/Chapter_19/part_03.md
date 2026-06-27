@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 19 (part 3)"
+title: "[[Jane Eyre]] — Chapter 19 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,24 +14,24 @@ tags:
 </nav>
 
 
-“Well said, forehead; your declaration shall be respected. I have
+“[[Well]] said, forehead; your declaration shall be respected. I have
 formed my plans—right plans I deem them—and in them I have attended to
-the claims of conscience, the counsels of reason. I know how soon youth
+the claims of [[Conscience|conscience]], the counsels of reason. I know how soon youth
 would fade and bloom perish, if, in the cup of bliss offered, but one
 dreg of shame, or one flavour of remorse were detected; and I do not
 want sacrifice, sorrow, dissolution—such is not my taste. I wish to
-foster, not to blight—to earn gratitude, not to wring tears of
-blood—no, nor of brine: my harvest must be in smiles, in endearments,
+foster, not to blight—to earn gratitude, not to wring [[Tears|tears]] of
+[[Blood|blood]]—no, nor of brine: my harvest must be in smiles, in endearments,
 in sweet—That will do. I think I rave in a kind of exquisite delirium.
 I should wish now to protract this moment _ad infinitum_; but I dare
 not. So far I have governed myself thoroughly. I have acted as I
 inwardly swore I would act; but further might try me beyond my
 strength. Rise, Miss Eyre: leave me; ‘the play is played out.’”
 
-Where was I? Did I wake or sleep? Had I been dreaming? Did I dream
+Where was I? Did I wake or [[Sleep|sleep]]? Had I been dreaming? Did I dream
 still? The old woman’s voice had changed: her accent, her gesture, and
 all were familiar to me as my own face in a glass—as the speech of my
-own tongue. I got up, but did not go. I looked; I stirred the fire, and
+own tongue. I got up, but did not go. I looked; I stirred the [[Fire|fire]], and
 I looked again: but she drew her bonnet and her bandage closer about
 her face, and again beckoned me to depart. The flame illuminated her
 hand stretched out: roused now, and on the alert for discoveries, I at
@@ -43,7 +43,7 @@ before. Again I looked at the face; which was no longer turned from
 me—on the contrary, the bonnet was doffed, the bandage displaced, the
 head advanced.
 
-“Well, Jane, do you know me?” asked the familiar voice.
+“[[Well]], Jane, do you know me?” asked the familiar voice.
 
 “Only take off the red cloak, sir, and then—”
 
@@ -56,9 +56,9 @@ disguise.
 
 “Now, sir, what a strange idea!”
 
-“But well carried out, eh? Don’t you think so?”
+“But [[Well|well]] carried out, eh? Don’t you think so?”
 
-“With the ladies you must have managed well.”
+“With the ladies you must have managed [[Well|well]].”
 
 “But not with you?”
 
@@ -87,10 +87,10 @@ anxiety to conceal her features. But my mind had been running on Grace
 Poole—that living enigma, that mystery of mysteries, as I considered
 her. I had never thought of Mr. Rochester.
 
-“Well,” said he, “what are you musing about? What does that grave smile
+“[[Well]],” said he, “what are you musing about? What does that [[Grave|grave]] smile
 signify?”
 
-“Wonder and self-congratulation, sir. I have your permission to retire
+“[[Wonder]] and [[Self|self]]-congratulation, sir. I have your permission to retire
 now, I suppose?”
 
 “No; stay a moment; and tell me what the people in the drawing-room
@@ -100,7 +100,7 @@ yonder are doing.”
 
 “Sit down!—Let me hear what they said about me.”
 
-“I had better not stay long, sir; it must be near eleven o’clock. Oh,
+“I had better not stay long, sir; it must be near eleven o’[[Clock|clock]]. Oh,
 are you aware, Mr. Rochester, that a stranger has arrived here since
 you left this morning?”
 
@@ -135,7 +135,7 @@ seemed to know what he was doing.
 “Yes, sir, yes; and my arm.”
 
 He sat down, and made me sit beside him. Holding my hand in both his
-own, he chafed it; gazing on me, at the same time, with the most
+own, he chafed it; gazing on me, at the same [[Time|time]], with the most
 troubled and dreary look.
 
 “My little friend!” said he, “I wish I were in a quiet island with only
@@ -158,7 +158,7 @@ Rochester had said; they were not seated at table,—the supper was
 arranged on the sideboard; each had taken what he chose, and they stood
 about here and there in groups, their plates and glasses in their
 hands. Every one seemed in high glee; laughter and conversation were
-general and animated. Mr. Mason stood near the fire, talking to Colonel
+general and animated. Mr. Mason stood near the [[Fire|fire]], talking to Colonel
 and Mrs. Dent, and appeared as merry as any of them. I filled a
 wine-glass (I saw Miss Ingram watch me frowningly as I did so: she
 thought I was taking a liberty, I daresay), and I returned to the
@@ -172,7 +172,7 @@ contents and returned it to me. “What are they doing, Jane?”
 
 “Laughing and talking, sir.”
 
-“They don’t look grave and mysterious, as if they had heard something
+“They don’t look [[Grave|grave]] and mysterious, as if they had heard something
 strange?”
 
 “Not at all: they are full of jests and gaiety.”
@@ -181,7 +181,7 @@ strange?”
 
 “He was laughing too.”
 
-“If all these people came in a body and spat at me, what would you do,
+“If all these people came in a [[Body|body]] and spat at me, what would you do,
 Jane?”
 
 “Turn them out of the room, sir, if I could.”
@@ -195,7 +195,7 @@ you.”
 
 “To comfort me?”
 
-“Yes, sir, to comfort you, as well as I could.”
+“Yes, sir, to comfort you, as [[Well|well]] as I could.”
 
 “And if they laid you under a ban for adhering to me?”
 
@@ -218,7 +218,7 @@ among them. I sought Mr. Mason, delivered the message, and preceded him
 from the room: I ushered him into the library, and then I went
 upstairs.
 
-At a late hour, after I had been in bed some time, I heard the visitors
+At a late hour, after I had been in bed some [[Time|time]], I heard the visitors
 repair to their chambers: I distinguished Mr. Rochester’s voice, and
 heard him say, “This way, Mason; this is your room.”
 

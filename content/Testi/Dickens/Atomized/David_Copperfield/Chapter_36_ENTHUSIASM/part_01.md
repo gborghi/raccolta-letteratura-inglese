@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 36: ENTHUSIASM (part 1)"
+title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -28,7 +28,7 @@ axe in my hand, and clear my own way through the forest of difficulty,
 by cutting down the trees until I came to Dora. And I went on at a
 mighty rate, as if it could be done by walking.
 
-When I found myself on the familiar Highgate road, pursuing such a
+When I found myself on the familiar Highgate [[Road|road]], pursuing such a
 different errand from that old one of pleasure, with which it was
 associated, it seemed as if a complete change had come on my whole life.
 But that did not discourage me. With the new life, came new purpose,
@@ -39,14 +39,14 @@ I got into such a transport, that I felt quite sorry my coat was not
 a little shabby already. I wanted to be cutting at those trees in the
 forest of difficulty, under circumstances that should prove my strength.
 I had a good mind to ask an old man, in wire spectacles, who was
-breaking stones upon the road, to lend me his hammer for a little while,
+breaking stones upon the [[Road|road]], to lend me his hammer for a little while,
 and let me begin to beat a path to Dora out of granite. I stimulated
 myself into such a heat, and got so out of breath, that I felt as if I
 had been earning I don’t know how much.
 
 In this state, I went into a cottage that I saw was to let, and examined
 it narrowly,--for I felt it necessary to be practical. It would do for
-me and Dora admirably: with a little front garden for Jip to run about
+me and Dora admirably: with a little front [[Garden|garden]] for Jip to run about
 in, and bark at the tradespeople through the railings, and a capital
 room upstairs for my aunt. I came out again, hotter and faster than
 ever, and dashed up to Highgate, at such a rate that I was there an
@@ -54,11 +54,11 @@ hour too early; and, though I had not been, should have been obliged to
 stroll about to cool myself, before I was at all presentable.
 
 My first care, after putting myself under this necessary course of
-preparation, was to find the Doctor’s house. It was not in that part of
+preparation, was to find the Doctor’s [[house]]. It was not in that part of
 Highgate where Mrs. Steerforth lived, but quite on the opposite side
 of the little town. When I had made this discovery, I went back, in
 an attraction I could not resist, to a lane by Mrs. Steerforth’s, and
-looked over the corner of the garden wall. His room was shut up close.
+looked over the corner of the [[Garden|garden]] wall. His room was shut up close.
 The conservatory doors were standing open, and Rosa Dartle was walking,
 bareheaded, with a quick, impetuous step, up and down a gravel walk on
 one side of the lawn. She gave me the idea of some fierce thing, that
@@ -67,15 +67,15 @@ wearing its heart out.
 
 I came softly away from my place of observation, and avoiding that part
 of the neighbourhood, and wishing I had not gone near it, strolled about
-until it was ten o’clock. The church with the slender spire, that stands
-on the top of the hill now, was not there then to tell me the time. An
+until it was ten o’[[Clock|clock]]. The church with the slender spire, that stands
+on the top of the [[Hill|hill]] now, was not there then to tell me the [[Time|time]]. An
 old red-brick mansion, used as a school, was in its place; and a fine
-old house it must have been to go to school at, as I recollect it.
+old [[house]] it must have been to go to school at, as I recollect it.
 
 When I approached the Doctor’s cottage--a pretty old place, on which
 he seemed to have expended some money, if I might judge from the
 embellishments and repairs that had the look of being just completed--I
-saw him walking in the garden at the side, gaiters and all, as if he
+saw him walking in the [[Garden|garden]] at the side, gaiters and all, as if he
 had never left off walking since the days of my pupilage. He had his old
 companions about him, too; for there were plenty of high trees in the
 neighbourhood, and two or three rooks were on the grass, looking after
@@ -93,30 +93,30 @@ pleasure, and he took me by both hands.
 do? I am delighted to see you. My dear Copperfield, how very much you
 have improved! You are quite--yes--dear me!’
 
-I hoped he was well, and Mrs. Strong too.
+I hoped he was [[Well|well]], and Mrs. Strong too.
 
-‘Oh dear, yes!’ said the Doctor; ‘Annie’s quite well, and she’ll be
+‘Oh dear, yes!’ said the Doctor; ‘Annie’s quite [[Well|well]], and she’ll be
 delighted to see you. You were always her favourite. She said so,
-last night, when I showed her your letter. And--yes, to be sure--you
+last [[Night|night]], when I showed her your letter. And--yes, to be sure--you
 recollect Mr. Jack Maldon, Copperfield?’
 
 ‘Perfectly, sir.’
 
-‘Of course,’ said the Doctor. ‘To be sure. He’s pretty well, too.’
+‘Of course,’ said the Doctor. ‘To be sure. He’s pretty [[Well|well]], too.’
 
-‘Has he come home, sir?’ I inquired.
+‘Has he come [[Home|home]], sir?’ I inquired.
 
 ‘From India?’ said the Doctor. ‘Yes. Mr. Jack Maldon couldn’t bear
 the climate, my dear. Mrs. Markleham--you have not forgotten Mrs.
 Markleham?’
 
-Forgotten the Old Soldier! And in that short time!
+Forgotten the Old Soldier! And in that short [[Time|time]]!
 
 ‘Mrs. Markleham,’ said the Doctor, ‘was quite vexed about him, poor
-thing; so we have got him at home again; and we have bought him a little
+thing; so we have got him at [[Home|home]] again; and we have bought him a little
 Patent place, which agrees with him much better.’ I knew enough of Mr.
 Jack Maldon to suspect from this account that it was a place where there
-was not much to do, and which was pretty well paid. The Doctor, walking
+was not much to do, and which was pretty [[Well|well]] paid. The Doctor, walking
 up and down with his hand on my shoulder, and his kind face turned
 encouragingly to mine, went on:
 
@@ -125,5 +125,5 @@ very gratifying and agreeable to me, I am sure; but don’t you think you
 could do better? You achieved distinction, you know, when you were with
 us. You are qualified for many good things. You have laid a foundation
 that any edifice may be raised upon; and is it not a pity that you
-should devote the spring-time of your life to such a poor pursuit as I
+should devote the [[spring]]-[[Time|time]] of your life to such a poor pursuit as I
 can offer?’

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 2)"
+title: "[[David Copperfield]] — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,13 +21,13 @@ as great an access of sourness as if her black eyes had absorbed its
 contents. However, the permission was given, and was never retracted;
 for when the month was out, Peggotty and I were ready to depart.
 
-Mr. Barkis came into the house for Peggotty’s boxes. I had never known
-him to pass the garden-gate before, but on this occasion he came into
-the house. And he gave me a look as he shouldered the largest box and
+Mr. Barkis came into the [[house]] for Peggotty’s boxes. I had never known
+him to pass the [[Garden|garden]]-gate before, but on this occasion he came into
+the [[house]]. And he gave me a look as he shouldered the largest box and
 went out, which I thought had meaning in it, if meaning could ever be
 said to find its way into Mr. Barkis’s visage.
 
-Peggotty was naturally in low spirits at leaving what had been her home
+Peggotty was naturally in low spirits at leaving what had been her [[Home|home]]
 so many years, and where the two strong attachments of her life--for
 my mother and myself--had been formed. She had been walking in the
 churchyard, too, very early; and she got into the cart, and sat in it
@@ -70,18 +70,18 @@ little more room at once, and got away by degrees. But I could not help
 observing that he seemed to think he had hit upon a wonderful expedient
 for expressing himself in a neat, agreeable, and pointed manner, without
 the inconvenience of inventing conversation. He manifestly chuckled over
-it for some time. By and by he turned to Peggotty again, and repeating,
+it for some [[Time|time]]. By and by he turned to Peggotty again, and repeating,
 ‘Are you pretty comfortable though?’ bore down upon us as before, until
-the breath was nearly edged out of my body. By and by he made another
+the breath was nearly edged out of my [[Body|body]]. By and by he made another
 descent upon us with the same inquiry, and the same result. At length,
 I got up whenever I saw him coming, and standing on the foot-board,
-pretended to look at the prospect; after which I did very well.
+pretended to look at the prospect; after which I did very [[Well|well]].
 
-He was so polite as to stop at a public-house, expressly on our account,
+He was so polite as to stop at a public-[[house]], expressly on our account,
 and entertain us with broiled mutton and beer. Even when Peggotty was
 in the act of drinking, he was seized with one of those approaches, and
-almost choked her. But as we drew nearer to the end of our journey, he
-had more to do and less time for gallantry; and when we got on Yarmouth
+almost choked her. But as we drew nearer to the end of our [[Journey|journey]], he
+had more to do and less [[Time|time]] for gallantry; and when we got on Yarmouth
 pavement, we were all too much shaken and jolted, I apprehend, to have
 any leisure for anything else.
 
@@ -114,7 +114,7 @@ your’n. You made it all right, first. It’s all right.’
 In his attempts to be particularly lucid, Mr. Barkis was so extremely
 mysterious, that I might have stood looking in his face for an hour, and
 most assuredly should have got as much information out of it as out
-of the face of a clock that had stopped, but for Peggotty’s calling me
+of the face of a [[Clock|clock]] that had stopped, but for Peggotty’s calling me
 away. As we were going along, she asked me what he had said; and I told
 her he had said it was all right.
 
@@ -124,9 +124,9 @@ what should you think if I was to think of being married?’
 ‘Why--I suppose you would like me as much then, Peggotty, as you do
 now?’ I returned, after a little consideration.
 
-Greatly to the astonishment of the passengers in the street, as well as
-of her relations going on before, the good soul was obliged to stop and
-embrace me on the spot, with many protestations of her unalterable love.
+Greatly to the astonishment of the passengers in the street, as [[Well|well]] as
+of her relations going on before, the good [[Soul|soul]] was obliged to stop and
+embrace me on the spot, with many protestations of her unalterable [[Love|love]].
 
 ‘Tell me what should you say, darling?’ she asked again, when this was
 over, and we were walking on.
@@ -136,13 +136,13 @@ over, and we were walking on.
 ‘Yes,’ said Peggotty.
 
 ‘I should think it would be a very good thing. For then you know,
-Peggotty, you would always have the horse and cart to bring you over to
+Peggotty, you would always have the [[Horse|horse]] and cart to bring you over to
 see me, and could come for nothing, and be sure of coming.’
 
 ‘The sense of the dear!’ cried Peggotty. ‘What I have been thinking
 of, this month back! Yes, my precious; and I think I should be more
-independent altogether, you see; let alone my working with a better
-heart in my own house, than I could in anybody else’s now. I don’t know
+independent altogether, you see; let [[Alone|alone]] my working with a better
+heart in my own [[house]], than I could in anybody else’s now. I don’t know
 what I might be fit for, now, as a servant to a stranger. And I shall be
 always near my pretty’s resting-place,’ said Peggotty, musing, ‘and be
 able to see it when I like; and when I lie down to rest, I may be laid

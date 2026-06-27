@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 5 (part 6)"
+title: "[[Shirley]] — Chapter 5 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ them."
 
 
 
-"You don't expect them to love you, of course?"
+"You don't expect them to [[Love|love]] you, of course?"
 
 
 
@@ -64,7 +64,7 @@ points."
 
 
 
-"If I were of Louis's calling I might stay at home and dedicate this
+"If I were of Louis's calling I might stay at [[Home|home]] and dedicate this
 
 morning to you and your studies, whereas I must spend it in Skyes's
 
@@ -80,21 +80,21 @@ wool-warehouse."
 
 
 
-As he finished mending the pens, a horse, saddled and bridled, was
+As he finished [[mending]] the pens, a [[Horse|horse]], saddled and bridled, was
 
-brought up to the garden-gate.
-
-
-
-"There, Fred is ready for me; I must go. I'll take one look to see what
-
-the spring has done in the south border, too, first."
+brought up to the [[Garden|garden]]-gate.
 
 
 
-He quitted the room, and went out into the garden ground behind the
+"There, [[Fred]] is ready for me; I must go. I'll take one look to see what
 
-mill. A sweet fringe of young verdure and opening flowers--snowdrop,
+the [[Spring|spring]] has done in the south border, too, first."
+
+
+
+He quitted the room, and went out into the [[Garden|garden]] ground behind the
+
+mill. A sweet fringe of young verdure and opening [[Flowers|flowers]]--snowdrop,
 
 crocus, even primrose--bloomed in the sunshine under the hot wall of the
 
@@ -102,7 +102,7 @@ factory. Moore plucked here and there a blossom and leaf, till he had
 
 collected a little bouquet. He returned to the parlour, pilfered a
 
-thread of silk from his sister's work-basket, tied the flowers, and laid
+thread of silk from his sister's work-basket, tied the [[Flowers|flowers]], and laid
 
 them on Caroline's desk.
 
@@ -122,7 +122,7 @@ He went to the door, stopped, opened his lips as if to speak, said
 
 nothing, and moved on. He passed through the wicket, and mounted his
 
-horse. In a second he had flung himself from his saddle again,
+[[Horse|horse]]. In a second he had flung himself from his saddle again,
 
 transferred the reins to Murgatroyd, and re-entered the cottage.
 
@@ -132,7 +132,7 @@ transferred the reins to Murgatroyd, and re-entered the cottage.
 
 side-table; then, as an impromptu thought, he remarked, "You have no
 
-binding engagement at home perhaps, Caroline?"
+binding engagement at [[Home|home]] perhaps, Caroline?"
 
 
 
@@ -148,7 +148,7 @@ Jewish than it--its contents and their prices--cannot be conceived. But
 
 I see something, a very tiny curl, at the corners of your lip, which
 
-tells me that you know its merits as well as I do. Forget the Jew's
+tells me that you know its merits as [[Well|well]] as I do. Forget the Jew's
 
 basket, then, and spend the day here as a change. Your uncle won't break
 
@@ -166,9 +166,9 @@ She smiled. "No."
 
 "Then stay and dine with Hortense; she will be glad of your company. I
 
-shall return in good time. We will have a little reading in the evening.
+shall return in good [[Time|time]]. We will have a little reading in the evening.
 
-The moon rises at half-past eight, and I will walk up to the rectory
+The [[Moon|moon]] rises at half-past eight, and I will walk up to the rectory
 
 with you at nine. Do you agree?"
 
@@ -182,7 +182,7 @@ Moore lingered yet two minutes. He bent over Caroline's desk and glanced
 
 at her grammar, he fingered her pen, he lifted her bouquet and played
 
-with it; his horse stamped impatient; Fred Murgatroyd hemmed and coughed
+with it; his [[Horse|horse]] stamped impatient; [[Fred]] Murgatroyd hemmed and coughed
 
 at the gate, as if he wondered what in the world his master was doing.
 

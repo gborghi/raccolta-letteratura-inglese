@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 3 (part 4)"
+title: "[[manalive]] — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-"`Yes,' he said with a huge sigh, `I am free in Russia.  You are right.
-I could really walk into that town over there and have love all over again,
+"`Yes,' he said with a huge sigh, `I am free in [[Russia]].  You are right.
+I could really walk into that town over there and have [[Love|love]] all over again,
 and perhaps marry some beautiful woman and begin again, and nobody could
 ever find me.  Yes, you have certainly convinced me of something.'
 
@@ -40,7 +40,7 @@ to the future.'
 "He rose to his whole height somewhat sleepily, and looked round on
 what was, I confess, a somewhat desolate scene--the dark purple plains,
 the neglected railroad, the few ragged knots of malcontents.
-`I shall not find the house here,' he said.  `It is still eastward--
+`I shall not find the [[house]] here,' he said.  `It is still eastward--
 further and further eastward.'
 
 "Then he turned upon me with something like fury, and struck the foot
@@ -79,7 +79,7 @@ like to find out if he has produced any literary works.--Yours, etc.,
 There was something in this odd set of glimpses into foreign lives which kept
 the absurd tribunal quieter than it had hitherto been, and it was again
 without interruption that Inglewood opened another paper upon his pile.
-"The Court will be indulgent," he said, "if the next note lacks the special
+"The [[Court]] will be indulgent," he said, "if the next note lacks the special
 ceremonies of our letter-writing. It is ceremonious enough in its own way:--
 
 
@@ -93,7 +93,7 @@ But if a man remain in one place he shall see that the place changes.
 The pagoda of my temple stands up silently out of all the trees,
 like a yellow pagoda above many green pagodas.  But the skies
 are sometimes blue like porcelain, and sometimes green like jade,
-and sometimes red like garnet.  But the night is always ebony
+and sometimes red like garnet.  But the [[Night|night]] is always ebony
 and always returns, said the Emperor Ho.
 
 "The sky-breaker came at evening very suddenly, for I had hardly
@@ -114,11 +114,11 @@ our speech brokenly.
 And then he told me with indelicate haste that the lamp outside his house
 was green, and that there was a red post at the corner of it.
 
-"`I have not seen your house nor any houses,' I answered.
+"`I have not seen your [[house]] nor any houses,' I answered.
 `I dwell in this temple and serve the gods.'
 
 "`Do you believe in the gods?' he asked with hunger in his eyes,
-like the hunger of dogs.  And this seemed to me a strange question
+like the hunger of [[dogs]].  And this seemed to me a strange question
 to ask, for what should a man do except what men have done?
 
 "`My Lord,' I said, `it must be good for men to hold up their hands even
@@ -127,8 +127,8 @@ and if there are none, then there are none to be displeased.
 Sometimes the skies are gold and sometimes porphyry and sometimes
 ebony, but the trees and the temple stand still under it all.
 So the great Confucius taught us that if we do always the same things
-with our hands and our feet as do the wise beasts and birds, with our
-heads we may think many things:  yes, my Lord, and doubt many things.
+with our hands and our feet as do the wise beasts and [[Birds|birds]], with our
+heads we may think many things:  yes, my Lord, and [[Doubt|doubt]] many things.
 So long as men offer rice at the right season, and kindle lanterns
 at the right hour, it matters little whether there be gods or no.
 For these things are not to appease gods, but to appease men.'

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 3)"
+title: "[[David Copperfield]] — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -26,15 +26,15 @@ I shall be extremely happy if it should be in my power to improve your
 prospects.’
 
 I think, as Mrs. Micawber sat at the back of the coach, with the
-children, and I stood in the road looking wistfully at them, a mist
+children, and I stood in the [[Road|road]] looking wistfully at them, a mist
 cleared from her eyes, and she saw what a little creature I really was.
 I think so, because she beckoned to me to climb up, with quite a new and
 motherly expression in her face, and put her arm round my neck, and gave
 me just such a kiss as she might have given to her own boy. I had barely
-time to get down again before the coach started, and I could hardly see
+[[Time|time]] to get down again before the coach started, and I could hardly see
 the family for the handkerchiefs they waved. It was gone in a minute.
 The Orfling and I stood looking vacantly at each other in the middle
-of the road, and then shook hands and said good-bye; she going back,
+of the [[Road|road]], and then shook hands and said good-bye; she going back,
 I suppose, to St. Luke’s workhouse, as I went to begin my weary day at
 Murdstone and Grinby’s.
 
@@ -48,20 +48,20 @@ determined purpose in my life. I am far from sure that I believed there
 was anything hopeful in it, but my mind was thoroughly made up that it
 must be carried into execution.
 
-Again, and again, and a hundred times again, since the night when the
-thought had first occurred to me and banished sleep, I had gone over
+Again, and again, and a hundred times again, since the [[Night|night]] when the
+thought had first occurred to me and banished [[Sleep|sleep]], I had gone over
 that old story of my poor mother’s about my birth, which it had been one
-of my great delights in the old time to hear her tell, and which I knew
+of my great delights in the old [[Time|time]] to hear her tell, and which I knew
 by heart. My aunt walked into that story, and walked out of it, a dread
 and awful personage; but there was one little trait in her behaviour
-which I liked to dwell on, and which gave me some faint shadow of
+which I liked to dwell on, and which gave me some faint [[Shadow|shadow]] of
 encouragement. I could not forget how my mother had thought that she
 felt her touch her pretty hair with no ungentle hand; and though it
 might have been altogether my mother’s fancy, and might have had no
 foundation whatever in fact, I made a little picture, out of it, of my
-terrible aunt relenting towards the girlish beauty that I recollected so
-well and loved so much, which softened the whole narrative. It is very
-possible that it had been in my mind a long time, and had gradually
+terrible aunt relenting towards the girlish [[Beauty|beauty]] that I recollected so
+[[Well|well]] and loved so much, which softened the whole narrative. It is very
+possible that it had been in my mind a long [[Time|time]], and had gradually
 engendered my determination.
 
 As I did not even know where Miss Betsey lived, I wrote a long letter
@@ -83,32 +83,32 @@ close together, I deemed this enough for my object, and resolved to set
 out at the end of that week.
 
 Being a very honest little creature, and unwilling to disgrace the
-memory I was going to leave behind me at Murdstone and Grinby’s, I
-considered myself bound to remain until Saturday night; and, as I had
+[[Memory|memory]] I was going to leave behind me at Murdstone and Grinby’s, I
+considered myself bound to remain until Saturday [[Night|night]]; and, as I had
 been paid a week’s wages in advance when I first came there, not to
-present myself in the counting-house at the usual hour, to receive my
+present myself in the counting-[[house]] at the usual hour, to receive my
 stipend. For this express reason, I had borrowed the half-guinea, that
 I might not be without a fund for my travelling-expenses. Accordingly,
-when the Saturday night came, and we were all waiting in the warehouse
+when the Saturday [[Night|night]] came, and we were all waiting in the warehouse
 to be paid, and Tipp the carman, who always took precedence, went in
 first to draw his money, I shook Mick Walker by the hand; asked him,
 when it came to his turn to be paid, to say to Mr. Quinion that I had
-gone to move my box to Tipp’s; and, bidding a last good night to Mealy
+gone to move my box to Tipp’s; and, bidding a last good [[Night|night]] to Mealy
 Potatoes, ran away.
 
-My box was at my old lodging, over the water, and I had written a
+My box was at my old lodging, over the [[Water|water]], and I had written a
 direction for it on the back of one of our address cards that we nailed
 on the casks: ‘Master David, to be left till called for, at the Coach
 Office, Dover.’ This I had in my pocket ready to put on the box, after I
-should have got it out of the house; and as I went towards my lodging,
+should have got it out of the [[house]]; and as I went towards my lodging,
 I looked about me for someone who would help me to carry it to the
 booking-office.
 
-There was a long-legged young man with a very little empty donkey-cart,
-standing near the Obelisk, in the Blackfriars Road, whose eye I caught
+There was a long-legged young man with a very little empty [[donkey]]-cart,
+standing near the Obelisk, in the Blackfriars [[Road]], whose eye I caught
 as I was going by, and who, addressing me as ‘Sixpenn’orth of bad
 ha’pence,’ hoped ‘I should know him agin to swear to’--in allusion, I
-have no doubt, to my staring at him. I stopped to assure him that I had
+have no [[Doubt|doubt]], to my staring at him. I stopped to assure him that I had
 not done so in bad manners, but uncertain whether he might or might not
 like a job.
 
@@ -124,4 +124,4 @@ him to take to the Dover coach office for sixpence.
 ‘Done with you for a tanner!’ said the long-legged young man, and
 directly got upon his cart, which was nothing but a large wooden tray on
 wheels, and rattled away at such a rate, that it was as much as I could
-do to keep pace with the donkey.
+do to keep pace with the [[donkey]].

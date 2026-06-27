@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 54 (part 5)"
+title: "Bleak [[house|House]] — Chapter 54 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,30 +14,30 @@ tags:
 </nav>
 
 
-While this exordium is in hand—and it takes some time—Mr. Bucket,
+While this exordium is in hand—and it takes some [[Time|time]]—Mr. Bucket,
 who has seen through the transparency of Mrs. Snagsby’s vinegar at a
 glance, confers with his familiar demon and bestows his shrewd
-attention on the Chadbands and Mr. Smallweed. Sir Leicester Dedlock
+attention on the Chadbands and Mr. Smallweed. [[Sir Leicester Dedlock]]
 remains immovable, with the same icy surface upon him, except that he
 once or twice looks towards Mr. Bucket, as relying on that officer
-alone of all mankind.
+[[Alone|alone]] of all mankind.
 
 “Very good,” says Mr. Bucket. “Now I understand you, you know, and
-being deputed by Sir Leicester Dedlock, Baronet, to look into this
+being deputed by [[Sir Leicester Dedlock]], Baronet, to look into this
 little matter,” again Sir Leicester mechanically bows in confirmation
 of the statement, “can give it my fair and full attention. Now I
 won’t allude to conspiring to extort money or anything of that sort,
 because we are men and women of the world here, and our object is to
-make things pleasant. But I tell you what I DO wonder at; I am
+make things pleasant. But I tell you what I DO [[Wonder|wonder]] at; I am
 surprised that you should think of making a noise below in the hall.
 It was so opposed to your interests. That’s what I look at.”
 
 “We wanted to get in,” pleads Mr. Smallweed.
 
 “Why, of course you wanted to get in,” Mr. Bucket asserts with
-cheerfulness; “but for a old gentleman at your time of life—what I
+cheerfulness; “but for a old gentleman at your [[Time|time]] of life—what I
 call truly venerable, mind you!—with his wits sharpened, as I have
-no doubt they are, by the loss of the use of his limbs, which
+no [[Doubt|doubt]] they are, by the loss of the use of his limbs, which
 occasions all his animation to mount up into his head, not to
 consider that if he don’t keep such a business as the present as
 close as possible it can’t be worth a mag to him, is so curious! You
@@ -48,7 +48,7 @@ says Mr. Bucket in an argumentative and friendly way.
 Leicester Dedlock,” returns Mr. Smallweed.
 
 “That’s it! That’s where your temper got the better of you. Now, you
-keep it under another time and you’ll make money by it. Shall I ring
+keep it under another [[Time|time]] and you’ll make money by it. Shall I ring
 for them to carry you down?”
 
 “When are we to hear more of this?” Mrs. Chadband sternly demands.
@@ -62,7 +62,7 @@ Mr. Smallweed and his proposal of two fifty.”
 
 “All right! Nominally five hundred.” Mr. Bucket has his hand on the
 bell-rope. “SHALL I wish you good day for the present on the part of
-myself and the gentleman of the house?” he asks in an insinuating
+myself and the gentleman of the [[house]]?” he asks in an insinuating
 tone.
 
 Nobody having the hardihood to object to his doing so, he does it,
@@ -75,23 +75,23 @@ little pickled cowcumber of a Mrs. Snagsby has been used by all sides
 of the speculation and has done a deal more harm in bringing odds and
 ends together than if she had meant it. Mr. Tulkinghorn, deceased, he
 held all these horses in his hand and could have drove ’em his own
-way, I haven’t a doubt; but he was fetched off the box head-foremost,
+way, I haven’t a [[Doubt|doubt]]; but he was fetched off the box head-foremost,
 and now they have got their legs over the traces, and are all
 dragging and pulling their own ways. So it is, and such is life. The
-cat’s away, and the mice they play; the frost breaks up, and the
-water runs. Now, with regard to the party to be apprehended.”
+cat’s away, and the mice they play; the [[Frost|frost]] breaks up, and the
+[[Water|water]] runs. Now, with regard to the party to be apprehended.”
 
 Sir Leicester seems to wake, though his eyes have been wide open, and
 he looks intently at Mr. Bucket as Mr. Bucket refers to his watch.
 
-“The party to be apprehended is now in this house,” proceeds Mr.
+“The party to be apprehended is now in this [[house]],” proceeds Mr.
 Bucket, putting up his watch with a steady hand and with rising
 spirits, “and I’m about to take her into custody in your presence.
-Sir Leicester Dedlock, Baronet, don’t you say a word nor yet stir.
+[[Sir Leicester Dedlock]], Baronet, don’t you say a word nor yet stir.
 There’ll be no noise and no disturbance at all. I’ll come back in the
 course of the evening, if agreeable to you, and endeavour to meet
 your wishes respecting this unfortunate family matter and the
-nobbiest way of keeping it quiet. Now, Sir Leicester Dedlock,
+nobbiest way of keeping it quiet. Now, [[Sir Leicester Dedlock]],
 Baronet, don’t you be nervous on account of the apprehension at
 present coming off. You shall see the whole case clear, from first to
 last.”
@@ -103,7 +103,7 @@ Mademoiselle Hortense.
 
 The moment she is in the room Mr. Bucket claps the door to and puts
 his back against it. The suddenness of the noise occasions her to
-turn, and then for the first time she sees Sir Leicester Dedlock in
+turn, and then for the first [[Time|time]] she sees [[Sir Leicester Dedlock]] in
 his chair.
 
 “I ask you pardon,” she mutters hurriedly. “They tell me there was no
@@ -112,7 +112,7 @@ one here.”
 Her step towards the door brings her front to front with Mr. Bucket.
 Suddenly a spasm shoots across her face and she turns deadly pale.
 
-“This is my lodger, Sir Leicester Dedlock,” says Mr. Bucket, nodding
+“This is my lodger, [[Sir Leicester Dedlock]],” says Mr. Bucket, nodding
 at her. “This foreign young woman has been my lodger for some weeks
 back.”
 
@@ -127,12 +127,12 @@ mysterieuse. Are you drunk?”
 
 “Tolerable sober, my angel,” returns Mr. Bucket.
 
-“I come from arriving at this so detestable house with your wife.
+“I come from arriving at this so detestable [[house]] with your wife.
 Your wife have left me since some minutes. They tell me downstairs
 that your wife is here. I come here, and your wife is not here. What
-is the intention of this fool’s play, say then?” mademoiselle
+is the intention of this [[Fool|fool]]’s play, say then?” mademoiselle
 demands, with her arms composedly crossed, but with something in her
-dark cheek beating like a clock.
+dark cheek beating like a [[Clock|clock]].
 
 Mr. Bucket merely shakes the finger at her.
 

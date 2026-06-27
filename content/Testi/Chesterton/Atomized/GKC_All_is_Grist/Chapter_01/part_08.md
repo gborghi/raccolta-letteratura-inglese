@@ -31,9 +31,9 @@ sitting on a pile of gorgeous fruits and varied products of the sun,
 and entitled the picture, `Our Lady of the Snows'.  I am no Imperialist
 in particular, but the days of my skirmishes with Mr. Kipling
 about Imperialism are long past, and I am affected by the thought
-of leaving Mr. Kipling and Canada in an embrace of reconciliation.
+of leaving Mr. Kipling and Canada in an embrace of [[Reconciliation|reconciliation]].
 I would therefore suggest that the impression of Arctic magnificence
-may be partly due to the fact that, though Canada is not made of snow,
+may be partly due to the fact that, though Canada is not made of [[Snow|snow]],
 in a sense her gates are of ice.  And though her woods are really
 as beautiful as any Canadian painter or poet can depict them,
 the true traveller really does have an impression of having travelled
@@ -44,7 +44,7 @@ VII.  On Flocking
 THE elusive, enormous, and nameless thing, with which I have so
 long wrestled, as with a slippery leviathan, in such places as this,
 suddenly heaved in sight the other day and took on a sort of
-formless form.  I am always getting these brief glimpses of the monster,
+formless form.  I am always getting these brief glimpses of the [[Monster|monster]],
 though they seldom last long enough for me to make head or tail of it.
 In this ease it appeared in a short letter to the Daily Express,
 which ran, word for word, as follows:
@@ -122,8 +122,8 @@ But this type of thinker does not begin with the cause; he begins with
 the result, and then turns on the cause and rends it, as if the cause
 were a disfigurement that had been added afterwards to the result,
 He suggests that the result must destroy its cause, and go off looking
-for another cause, in the hope of becoming the result of something else.
-It is as if the Union Jack were wandering about the world trying
+for another cause, in the [[Hope|hope]] of becoming the result of something else.
+It is as if the [[Union]] Jack were wandering about the world trying
 to mean the dragon standard of the Sacred Emperor of China,
-or the Blue Peter were bending all its efforts to become a flag
-of truce with the significance of the White Flag.
+or the Blue Peter were bending all its efforts to become a [[Flag|flag]]
+of truce with the significance of the White [[Flag]].

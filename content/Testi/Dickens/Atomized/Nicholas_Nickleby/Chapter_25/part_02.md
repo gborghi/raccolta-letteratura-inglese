@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 25 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 25 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-Nicholas had the honour of playing in a slight piece with Miss Petowker
-that night, and could not but observe that the warmth of her reception
+Nicholas had the [[Honour|honour]] of playing in a slight piece with Miss Petowker
+that [[Night|night]], and could not but observe that the warmth of her reception
 was mainly attributable to a most persevering umbrella in the upper
 boxes; he saw, too, that the enchanting actress cast many sweet looks
-towards the quarter whence these sounds proceeded; and that every time
+towards the quarter whence these sounds proceeded; and that every [[Time|time]]
 she did so, the umbrella broke out afresh. Once, he thought that a
 peculiarly shaped hat in the same corner was not wholly unknown to him;
 but, being occupied with his share of the stage business, he bestowed no
 great attention upon this circumstance, and it had quite vanished from
-his memory by the time he reached home.
+his [[Memory|memory]] by the [[Time|time]] he reached [[Home|home]].
 
-He had just sat down to supper with Smike, when one of the people of the
-house came outside the door, and announced that a gentleman below stairs
+He had just sat down to supper with [[Smike]], when one of the people of the
+[[house]] came outside the door, and announced that a gentleman below stairs
 wished to speak to Mr. Johnson.
 
-‘Well, if he does, you must tell him to come up; that’s all I know,’
-replied Nicholas. ‘One of our hungry brethren, I suppose, Smike.’
+‘[[Well]], if he does, you must tell him to come up; that’s all I know,’
+replied Nicholas. ‘One of our hungry brethren, I suppose, [[Smike]].’
 
 His fellow-lodger looked at the cold meat in silent calculation of the
 quantity that would be left for dinner next day, and put back a slice he
@@ -38,10 +38,10 @@ had cut for himself, in order that the visitor’s encroachments might be
 less formidable in their effects.
 
 ‘It is not anybody who has been here before,’ said Nicholas, ‘for he
-is tumbling up every stair. Come in, come in. In the name of wonder! Mr
+is tumbling up every stair. Come in, come in. In the name of [[Wonder|wonder]]! Mr
 Lillyvick?’
 
-It was, indeed, the collector of water-rates who, regarding Nicholas
+It was, indeed, the collector of [[Water|water]]-rates who, regarding Nicholas
 with a fixed look and immovable countenance, shook hands with
 most portentous solemnity, and sat himself down in a seat by the
 chimney-corner.
@@ -72,10 +72,10 @@ frowned and nodded.
 ‘Ah!’ said Nicholas, a little surprised at these symptoms of ecstatic
 approbation. ‘Yes--she is a clever girl.’
 
-‘She is a divinity,’ returned Mr. Lillyvick, giving a collector’s double
+‘She is a divinity,’ returned Mr. Lillyvick, giving a collector’s [[Double|double]]
 knock on the ground with the umbrella before-mentioned. ‘I have known
 divine actresses before now, sir, I used to collect--at least I used
-to CALL for--and very often call for--the water-rate at the house of
+to CALL for--and very often call for--the [[Water|water]]-rate at the [[house]] of
 a divine actress, who lived in my beat for upwards of four year
 but never--no, never, sir of all divine creatures, actresses or no
 actresses, did I see a diviner one than is Henrietta Petowker.’
@@ -86,7 +86,7 @@ nods, and remained silent.
 
 ‘Let me speak a word with you in private,’ said Mr. Lillyvick.
 
-Nicholas looked good-humouredly at Smike, who, taking the hint,
+Nicholas looked good-humouredly at [[Smike]], who, taking the hint,
 disappeared.
 
 ‘A bachelor is a miserable wretch, sir,’ said Mr. Lillyvick.
@@ -104,11 +104,11 @@ Lillyvick, ‘his sisters and brothers, and nephews and nieces, look TO
 that money, and not to him; even if, by being a public character, he is
 the head of the family, or, as it may be, the main from which all the
 other little branches are turned on, they still wish him dead all the
-while, and get low-spirited every time they see him looking in good
+while, and get low-spirited every [[Time|time]] they see him looking in good
 health, because they want to come into his little property. You see
 that?’
 
-‘Oh yes,’ replied Nicholas: ‘it’s very true, no doubt.’
+‘Oh yes,’ replied Nicholas: ‘it’s very true, no [[Doubt|doubt]].’
 
 ‘The great reason for not being married,’ resumed Mr. Lillyvick, ‘is the
 expense; that’s what’s kept me off, or else--Lord!’ said Mr. Lillyvick,
@@ -137,7 +137,7 @@ thing--but I’m going to marry her; and the day after tomorrow, too.’
 ‘I congratulate you, sir,’ said Nicholas.
 
 ‘Thank you, sir,’ replied the collector, buttoning his waistcoat. ‘I
-shall draw her salary, of course, and I hope after all that it’s nearly
+shall draw her salary, of course, and I [[Hope|hope]] after all that it’s nearly
 as cheap to keep two as it is to keep one; that’s a consolation.’
 
 ‘Surely you don’t want any consolation at such a moment?’ observed
@@ -150,7 +150,7 @@ not.’
 Lillyvick?’ asked Nicholas.
 
 ‘Why, that’s what I came to explain to you,’ replied the collector of
-water-rate. ‘The fact is, we have thought it best to keep it secret from
+[[Water|water]]-rate. ‘The fact is, we have thought it best to keep it secret from
 the family.’
 
 ‘Family!’ said Nicholas. ‘What family?’

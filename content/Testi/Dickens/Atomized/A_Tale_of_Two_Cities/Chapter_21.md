@@ -35,12 +35,12 @@ since a small part of his income was derived from the pilotage of timid
 women (mostly of a full habit and past the middle term of life) from
 Tellson’s side of the tides to the opposite shore. Brief as such
 companionship was in every separate instance, Mr. Cruncher never failed
-to become so interested in the lady as to express a strong desire to
-have the honour of drinking her very good health. And it was from
+to become so interested in the lady as to express a strong [[Desire|desire]] to
+have the [[Honour|honour]] of drinking her very good health. And it was from
 the gifts bestowed upon him towards the execution of this benevolent
 purpose, that he recruited his finances, as just now observed.
 
-Time was, when a poet sat upon a stool in a public place, and mused in
+[[Time]] was, when a poet sat upon a stool in a public place, and mused in
 the sight of men. Mr. Cruncher, sitting on a stool in a public place,
 but not being a poet, mused as little as possible, and looked about him.
 
@@ -117,14 +117,14 @@ that the crowd caught it up with eagerness, and loudly repeating the
 suggestion to have ’em out, and to pull ’em out, mobbed the two vehicles
 so closely that they came to a stop. On the crowd’s opening the coach
 doors, the one mourner scuffled out by himself and was in their hands
-for a moment; but he was so alert, and made such good use of his time,
+for a moment; but he was so alert, and made such good use of his [[Time|time]],
 that in another moment he was scouring away up a bye-street, after
 shedding his cloak, hat, long hatband, white pocket-handkerchief, and
-other symbolical tears.
+other symbolical [[Tears|tears]].
 
 These, the people tore to pieces and scattered far and wide with great
 enjoyment, while the tradesmen hurriedly shut up their shops; for a
-crowd in those times stopped at nothing, and was a monster much dreaded.
+crowd in those times stopped at nothing, and was a [[Monster|monster]] much dreaded.
 They had already got the length of opening the hearse to take the coffin
 out, when some brighter genius proposed instead, its being escorted to
 its destination amidst general rejoicing. Practical suggestions being
@@ -132,40 +132,40 @@ much needed, this suggestion, too, was received with acclamation, and
 the coach was immediately filled with eight inside and a dozen out,
 while as many people got on the roof of the hearse as could by any
 exercise of ingenuity stick upon it. Among the first of these volunteers
-was Jerry Cruncher himself, who modestly concealed his spiky head from
+was [[Jerry Cruncher]] himself, who modestly concealed his spiky head from
 the observation of Tellson’s, in the further corner of the mourning
 coach.
 
 The officiating undertakers made some protest against these changes in
-the ceremonies; but, the river being alarmingly near, and several voices
+the ceremonies; but, the [[River|river]] being alarmingly near, and several voices
 remarking on the efficacy of cold immersion in bringing refractory
 members of the profession to reason, the protest was faint and brief.
 The remodelled procession started, with a chimney-sweep driving the
 hearse--advised by the regular driver, who was perched beside him, under
 close inspection, for the purpose--and with a pieman, also attended
 by his cabinet minister, driving the mourning coach. A bear-leader, a
-popular street character of the time, was impressed as an additional
+popular street character of the [[Time|time]], was impressed as an additional
 ornament, before the cavalcade had gone far down the Strand; and his
 bear, who was black and very mangy, gave quite an Undertaking air to
 that part of the procession in which he walked.
 
-Thus, with beer-drinking, pipe-smoking, song-roaring, and infinite
+Thus, with beer-drinking, pipe-smoking, [[Song|song]]-roaring, and infinite
 caricaturing of woe, the disorderly procession went its way, recruiting
 at every step, and all the shops shutting up before it. Its destination
 was the old church of Saint Pancras, far off in the fields. It got there
-in course of time; insisted on pouring into the burial-ground; finally,
+in course of [[Time|time]]; insisted on pouring into the burial-ground; finally,
 accomplished the interment of the deceased Roger Cly in its own way, and
 highly to its own satisfaction.
 
 The dead man disposed of, and the crowd being under the necessity of
 providing some other entertainment for itself, another brighter
-genius (or perhaps the same) conceived the humour of impeaching casual
+genius (or perhaps the same) conceived the [[Humour|humour]] of impeaching casual
 passers-by, as Old Bailey spies, and wreaking vengeance on them. Chase
 was given to some scores of inoffensive persons who had never been near
 the Old Bailey in their lives, in the realisation of this fancy, and
 they were roughly hustled and maltreated. The transition to the sport of
-window-breaking, and thence to the plundering of public-houses, was easy
-and natural. At last, after several hours, when sundry summer-houses had
+[[Window|window]]-breaking, and thence to the plundering of public-houses, was easy
+and natural. At last, after several hours, when sundry [[Summer|summer]]-houses had
 been pulled down, and some area-railings had been torn up, to arm
 the more belligerent spirits, a rumour got about that the Guards were
 coming. Before this rumour, the crowd gradually melted away, and perhaps
@@ -175,7 +175,7 @@ progress of a mob.
 Mr. Cruncher did not assist at the closing sports, but had remained
 behind in the churchyard, to confer and condole with the undertakers.
 The place had a soothing influence on him. He procured a pipe from a
-neighbouring public-house, and smoked it, looking in at the railings and
+neighbouring public-[[house]], and smoked it, looking in at the railings and
 maturely considering the spot.
 
 “Jerry,” said Mr. Cruncher, apostrophising himself in his usual way,
@@ -184,7 +184,7 @@ was a young ’un and a straight made ’un.”
 
 Having smoked his pipe out, and ruminated a little longer, he turned
 himself about, that he might appear, before the hour of closing, on his
-station at Tellson’s. Whether his meditations on mortality had touched
+station at Tellson’s. Whether his meditations on [[Mortality|mortality]] had touched
 his liver, or whether his general health had been previously at all
 amiss, or whether he desired to show a little attention to an eminent
 man, is not so much to the purpose, as that he made a short call upon
@@ -192,10 +192,10 @@ his medical adviser--a distinguished surgeon--on his way back.
 
 Young Jerry relieved his father with dutiful interest, and reported No
 job in his absence. The bank closed, the ancient clerks came out, the
-usual watch was set, and Mr. Cruncher and his son went home to tea.
+usual watch was set, and Mr. Cruncher and his son went [[Home|home]] to tea.
 
 “Now, I tell you where it is!” said Mr. Cruncher to his wife, on
-entering. “If, as a honest tradesman, my wenturs goes wrong to-night, I
+entering. “If, as a honest tradesman, my wenturs goes wrong to-[[Night|night]], I
 shall make sure that you’ve been praying again me, and I shall work you
 for it just the same as if I seen you do it.”
 
@@ -206,8 +206,8 @@ angry apprehension.
 
 “I am saying nothing.”
 
-“Well, then; don’t meditate nothing. You might as well flop as meditate.
-You may as well go again me one way as another. Drop it altogether.”
+“[[Well]], then; don’t meditate nothing. You might as [[Well|well]] flop as meditate.
+You may as [[Well|well]] go again me one way as another. Drop it altogether.”
 
 “Yes, Jerry.”
 
@@ -222,7 +222,7 @@ ironical dissatisfaction.
 bread-and-butter, and seeming to help it down with a large invisible
 oyster out of his saucer. “Ah! I think so. I believe you.”
 
-“You are going out to-night?” asked his decent wife, when he took
+“You are going out to-[[Night|night]]?” asked his decent wife, when he took
 another bite.
 
 “Yes, I am.”
@@ -236,7 +236,7 @@ where I’m going to. Going a fishing.”
 
 “Never you mind.”
 
-“Shall you bring any fish home, father?”
+“Shall you bring any fish [[Home|home]], father?”
 
 “If I don’t, you’ll have short commons, to-morrow,” returned that
 gentleman, shaking his head; “that’s questions enough for you; I ain’t a
@@ -250,14 +250,14 @@ conversation also, and led the unfortunate woman a hard life by dwelling
 on any causes of complaint he could bring against her, rather than
 he would leave her for a moment to her own reflections. The devoutest
 person could have rendered no greater homage to the efficacy of an
-honest prayer than he did in this distrust of his wife. It was as if a
-professed unbeliever in ghosts should be frightened by a ghost story.
+honest [[prayer]] than he did in this distrust of his wife. It was as if a
+professed unbeliever in [[Ghosts|ghosts]] should be frightened by a [[Ghost|ghost]] story.
 
 “And mind you!” said Mr. Cruncher. “No games to-morrow! If I, as a
 honest tradesman, succeed in providing a jinte of meat or two, none
 of your not touching of it, and sticking to bread. If I, as a honest
 tradesman, am able to provide a little beer, none of your declaring
-on water. When you go to Rome, do as Rome does. Rome will be a ugly
+on [[Water|water]]. When you go to Rome, do as Rome does. Rome will be a ugly
 customer to you, if you don’t. _I_’m your Rome, you know.”
 
 Then he began grumbling again:
@@ -275,24 +275,24 @@ function so affectingly and delicately indicated by his other parent.
 
 Thus the evening wore away with the Cruncher family, until Young Jerry
 was ordered to bed, and his mother, laid under similar injunctions,
-obeyed them. Mr. Cruncher beguiled the earlier watches of the night with
+obeyed them. Mr. Cruncher beguiled the earlier watches of the [[Night|night]] with
 solitary pipes, and did not start upon his excursion until nearly one
-o’clock. Towards that small and ghostly hour, he rose up from his chair,
+o’[[Clock|clock]]. Towards that small and ghostly hour, he [[Rose|rose]] up from his chair,
 took a key out of his pocket, opened a locked cupboard, and brought
 forth a sack, a crowbar of convenient size, a rope and chain, and other
-fishing tackle of that nature. Disposing these articles about him
+fishing tackle of that [[Nature|nature]]. Disposing these articles about him
 in skilful manner, he bestowed a parting defiance on Mrs. Cruncher,
 extinguished the light, and went out.
 
 Young Jerry, who had only made a feint of undressing when he went to
 bed, was not long after his father. Under cover of the darkness he
 followed out of the room, followed down the stairs, followed down the
-court, followed out into the streets. He was in no uneasiness concerning
-his getting into the house again, for it was full of lodgers, and the
-door stood ajar all night.
+[[Court|court]], followed out into the streets. He was in no uneasiness concerning
+his getting into the [[house]] again, for it was full of lodgers, and the
+door stood ajar all [[Night|night]].
 
-Impelled by a laudable ambition to study the art and mystery of his
-father’s honest calling, Young Jerry, keeping as close to house fronts,
+Impelled by a laudable [[Ambition|ambition]] to study the art and mystery of his
+father’s honest calling, Young Jerry, keeping as close to [[house]] fronts,
 walls, and doorways, as his eyes were close to one another, held his
 honoured parent in view. The honoured parent steering Northward, had not
 gone far, when he was joined by another disciple of Izaak Walton, and
@@ -300,19 +300,19 @@ the two trudged on together.
 
 Within half an hour from the first starting, they were beyond the
 winking lamps, and the more than winking watchmen, and were out upon a
-lonely road. Another fisherman was picked up here--and that so silently,
+lonely [[Road|road]]. Another fisherman was picked up here--and that so silently,
 that if Young Jerry had been superstitious, he might have supposed the
 second follower of the gentle craft to have, all of a sudden, split
 himself into two.
 
 The three went on, and Young Jerry went on, until the three stopped
-under a bank overhanging the road. Upon the top of the bank was a low
-brick wall, surmounted by an iron railing. In the shadow of bank and
-wall the three turned out of the road, and up a blind lane, of which
+under a bank overhanging the [[Road|road]]. Upon the top of the bank was a low
+brick wall, surmounted by an iron railing. In the [[Shadow|shadow]] of bank and
+wall the three turned out of the [[Road|road]], and up a blind lane, of which
 the wall--there, risen to some eight or ten feet high--formed one side.
 Crouching down in a corner, peeping up the lane, the next object that
-Young Jerry saw, was the form of his honoured parent, pretty well
-defined against a watery and clouded moon, nimbly scaling an iron gate.
+Young Jerry saw, was the form of his honoured parent, pretty [[Well|well]]
+defined against a watery and clouded [[Moon|moon]], nimbly scaling an iron gate.
 He was soon over, and then the second fisherman got over, and then the
 third. They all dropped softly on the ground within the gate, and lay
 there a little--listening perhaps. Then, they moved away on their hands
@@ -322,24 +322,24 @@ It was now Young Jerry’s turn to approach the gate: which he did,
 holding his breath. Crouching down again in a corner there, and looking
 in, he made out the three fishermen creeping through some rank grass!
 and all the gravestones in the churchyard--it was a large churchyard
-that they were in--looking on like ghosts in white, while the church
-tower itself looked on like the ghost of a monstrous giant. They did not
+that they were in--looking on like [[Ghosts|ghosts]] in white, while the church
+tower itself looked on like the [[Ghost|ghost]] of a monstrous giant. They did not
 creep far, before they stopped and stood upright. And then they began to
 fish.
 
 They fished with a spade, at first. Presently the honoured parent
 appeared to be adjusting some instrument like a great corkscrew.
 Whatever tools they worked with, they worked hard, until the awful
-striking of the church clock so terrified Young Jerry, that he made off,
+striking of the church [[Clock|clock]] so terrified Young Jerry, that he made off,
 with his hair as stiff as his father’s.
 
-But, his long-cherished desire to know more about these matters, not
+But, his long-cherished [[Desire|desire]] to know more about these matters, not
 only stopped him in his running away, but lured him back again. They
 were still fishing perseveringly, when he peeped in at the gate for
-the second time; but, now they seemed to have got a bite. There was a
+the second [[Time|time]]; but, now they seemed to have got a bite. There was a
 screwing and complaining sound down below, and their bent figures were
 strained, as if by a weight. By slow degrees the weight broke away the
-earth upon it, and came to the surface. Young Jerry very well knew what
+earth upon it, and came to the surface. Young Jerry very [[Well|well]] knew what
 it would be; but, when he saw it, and saw his honoured parent about to
 wrench it open, he was so frightened, being new to the sight, that he
 made off again, and never stopped until he had run a mile or more.
@@ -351,12 +351,12 @@ was running after him; and, pictured as hopping on behind him, bolt
 upright, upon its narrow end, always on the point of overtaking him
 and hopping on at his side--perhaps taking his arm--it was a pursuer to
 shun. It was an inconsistent and ubiquitous fiend too, for, while it
-was making the whole night behind him dreadful, he darted out into the
+was making the whole [[Night|night]] behind him dreadful, he darted out into the
 roadway to avoid dark alleys, fearful of its coming hopping out of them
 like a dropsical boy’s kite without tail and wings. It hid in doorways
 too, rubbing its horrible shoulders against doors, and drawing them up
-to its ears, as if it were laughing. It got into shadows on the road,
-and lay cunningly on its back to trip him up. All this time it was
+to its ears, as if it were laughing. It got into shadows on the [[Road|road]],
+and lay cunningly on its back to trip him up. All this [[Time|time]] it was
 incessantly hopping on behind and gaining on him, so that when the boy
 got to his own door he had reason for being half dead. And even then
 it would not leave him, but followed him upstairs with a bump on every
@@ -375,10 +375,10 @@ bed.
 “Jerry, Jerry, Jerry!” his wife implored.
 
 “You oppose yourself to the profit of the business,” said Jerry, “and me
-and my partners suffer. You was to honour and obey; why the devil don’t
+and my partners suffer. You was to [[Honour|honour]] and obey; why the devil don’t
 you?”
 
-“I try to be a good wife, Jerry,” the poor woman protested, with tears.
+“I try to be a good wife, Jerry,” the poor woman protested, with [[Tears|tears]].
 
 “Is it being a good wife to oppose your husband’s business? Is it
 honouring your husband to dishonour his business? Is it obeying your
@@ -389,9 +389,9 @@ husband to disobey him on the wital subject of his business?”
 “It’s enough for you,” retorted Mr. Cruncher, “to be the wife of a
 honest tradesman, and not to occupy your female mind with calculations
 when he took to his trade or when he didn’t. A honouring and obeying
-wife would let his trade alone altogether. Call yourself a religious
+wife would let his trade [[Alone|alone]] altogether. Call yourself a religious
 woman? If you’re a religious woman, give me a irreligious one! You have
-no more nat’ral sense of duty than the bed of this here Thames river has
+no more nat’ral sense of duty than the bed of this here Thames [[River|river]] has
 of a pile, and similarly it must be knocked into you.”
 
 The altercation was conducted in a low tone of voice, and terminated in
@@ -409,22 +409,22 @@ ostensible calling.
 
 Young Jerry, walking with the stool under his arm at his father’s side
 along sunny and crowded Fleet-street, was a very different Young Jerry
-from him of the previous night, running home through darkness and
-solitude from his grim pursuer. His cunning was fresh with the day,
-and his qualms were gone with the night--in which particulars it is not
-improbable that he had compeers in Fleet-street and the City of London,
+from him of the previous [[Night|night]], running [[Home|home]] through darkness and
+[[Solitude|solitude]] from his grim pursuer. His cunning was fresh with the day,
+and his qualms were gone with the [[Night|night]]--in which particulars it is not
+improbable that he had compeers in Fleet-street and the [[City]] of [[London]],
 that fine morning.
 
 “Father,” said Young Jerry, as they walked along: taking care to keep
-at arm’s length and to have the stool well between them: “what’s a
-Resurrection-Man?”
+at arm’s length and to have the stool [[Well|well]] between them: “what’s a
+[[Resurrection]]-Man?”
 
 Mr. Cruncher came to a stop on the pavement before he answered, “How
 should I know?”
 
 “I thought you knowed everything, father,” said the artless boy.
 
-“Hem! Well,” returned Mr. Cruncher, going on again, and lifting off his
+“Hem! [[Well]],” returned Mr. Cruncher, going on again, and lifting off his
 hat to give his spikes free play, “he’s a tradesman.”
 
 “What’s his goods, father?” asked the brisk Young Jerry.
@@ -436,14 +436,14 @@ branch of Scientific goods.”
 
 “I believe it is something of that sort,” said Mr. Cruncher.
 
-“Oh, father, I should so like to be a Resurrection-Man when I’m quite
+“Oh, father, I should so like to be a [[Resurrection]]-Man when I’m quite
 growed up!”
 
 Mr. Cruncher was soothed, but shook his head in a dubious and moral way.
 “It depends upon how you dewelop your talents. Be careful to dewelop
 your talents, and never to say no more than you can help to nobody, and
-there’s no telling at the present time what you may not come to be fit
+there’s no telling at the present [[Time|time]] what you may not come to be fit
 for.” As Young Jerry, thus encouraged, went on a few yards in advance,
-to plant the stool in the shadow of the Bar, Mr. Cruncher added to
+to plant the stool in the [[Shadow|shadow]] of the Bar, Mr. Cruncher added to
 himself: “Jerry, you honest tradesman, there’s hopes wot that boy will
 yet be a blessing to you, and a recompense to you for his mother!”

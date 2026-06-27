@@ -17,7 +17,7 @@ tags:
 One explanation is that such people, who commonly call
 themselves progressive, are in the most stodgy sense conservative.
 They cannot bear to alter any concrete fact, but only the idea behind it.
-They cannot actually abolish the Union Jack or the White Flag,
+They cannot actually abolish the [[Union]] Jack or the White [[Flag]],
 but only all that they stand for.  So they see in front of them
 a solid block of brick called a church.  They accept that;
 they cannot conceive a real revolt against that; they are even ready
@@ -48,7 +48,7 @@ But he cannot be fanciful about a fact like a brick building;
 that is a solid object, and must be made a solid success.
 People must be induced to `flock' to it, even if it has to be turned
 into an aquarium or an aerodrome.  In one sense, to do him justice,
-this melancholy materialist is the most disinterested of men.
+this [[Melancholy|melancholy]] materialist is the most disinterested of men.
 The mystic is one who will serve something invisible for his own reasons.
 The materialist is one who will serve anything visible for no reason.
 But there are a good many of him, and, even if he has not begun
@@ -59,11 +59,11 @@ of the newspapers.
 VIII.  On the Behaviourist
 
 EVERYBODY knows that a new school of sceptics has recently appeared,
-especially in America; they call themselves the Behaviourists,
+especially in [[America]]; they call themselves the Behaviourists,
 and the late Mr. Harvey Wickham called them the Misbehaviourists.
-So far as I can understand, their philosophy is rooted in a theory
+So far as I can understand, their [[philosophy]] is rooted in a theory
 of physiology:  the theory that thought is originally a sort of movement
-of the body rather than the brain.  `There is nothing in the brain,'
+of the [[Body|body]] rather than the brain.  `There is nothing in the brain,'
 I think one of them has written, `except a lot of neurons.
 We do not think with our minds.  We think with our muscles.'
 Those of us, that is, who are so old-fashioned as to think at all.
@@ -71,7 +71,7 @@ For we have all seen vigorous representatives of the rising
 generation who suppose that everything can be done with the muscles,
 and whom nobody, not even a psychologist of the far-off
 nineteenth century, would accuse of merely using their minds.
-I am not especially concerned with the truth or falsehood of this fancy.
+I am not especially concerned with the [[Truth|truth]] or falsehood of this fancy.
 While it is flourished, like the majority of such fancies, with a vague
 defiance directed towards orthodoxy or tradition, it really has no
 sort of importance for them.  It is an excellent example of the rule
@@ -92,11 +92,11 @@ He was as devoted as M. Hercule Poirot to The Little Grey Cells;
 but, alas! with far less brilliant and entertaining results.
 All that the Behaviourist does is, in every sense, to dash
 out the brains of the old Materialist.  There is no question
-of his touching the soul, even the soul of an old Materialist,
+of his touching the [[Soul|soul]], even the [[Soul|soul]] of an old Materialist,
 for that escapes him as completely as it does every other kind
 of material analysis, including that of the old Materialist himself.
-What he abolishes is not the soul, but the cells on which his
-predecessor depended for the denial of the soul.  If ever we do really
+What he abolishes is not the [[Soul|soul]], but the cells on which his
+predecessor depended for the denial of the [[Soul|soul]].  If ever we do really
 come to talk about a brilliant idea flashing through our biceps,
 or a curious and original theory creeping up the calf of our leg,
 it may sound to some a little funny, or even fantastic.
@@ -104,16 +104,16 @@ It will not make the slightest difference to those who believe
 that God made an invisible spirit as part of an invisible order.
 But it will make nonsense of pages and pages of recent
 realistic literature, in which the crumbling grey matter proved
-that nothing but death awaited even the primary form of mind,
-or in which the soul was supposed to have been tracked to its
+that nothing but [[Death|death]] awaited even the primary form of mind,
+or in which the [[Soul|soul]] was supposed to have been tracked to its
 lair and killed in a cell under the cavern of the skull.
 Libraries of nineteenth-century scepticism would become
 so much lumber; but the mystical passage in St. Paul about
-the glorified body would not be in the least affected either way.
+the glorified [[Body|body]] would not be in the least affected either way.
 It would be amusing to irreverent persons if men ever began
 to look for the Differential Calculus in their deltoid muscles
 or to conceal a joke somewhere near the joint of the elbow.
 But it would only contradict the man who said that all truths
-were in the human skull or all jokes a decay of brain-stuff;
+were in the human skull or all jokes a [[Decay|decay]] of brain-stuff;
 not the man who says that jokes come from man, or that man and
 mathematical truths come from God.

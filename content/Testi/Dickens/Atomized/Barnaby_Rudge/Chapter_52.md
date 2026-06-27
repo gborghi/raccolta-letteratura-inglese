@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 52"
+title: "[[Barnaby Rudge]] — Chapter 52"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,7 +18,7 @@ Chapter 52
 
 
 A mob is usually a creature of very mysterious existence, particularly
-in a large city. Where it comes from or whither it goes, few men
+in a large [[City|city]]. Where it comes from or whither it goes, few men
 can tell. Assembling and dispersing with equal suddenness, it is as
 difficult to follow to its various sources as the sea itself; nor does
 the parallel stop here, for the ocean is not more fickle and uncertain,
@@ -26,17 +26,17 @@ more terrible when roused, more unreasonable, or more cruel.
 
 The people who were boisterous at Westminster upon the Friday morning,
 and were eagerly bent upon the work of devastation in Duke Street and
-Warwick Street at night, were, in the mass, the same. Allowing for the
+Warwick Street at [[Night|night]], were, in the mass, the same. Allowing for the
 chance accessions of which any crowd is morally sure in a town where
 there must always be a large number of idle and profligate persons,
 one and the same mob was at both places. Yet they spread themselves
 in various directions when they dispersed in the afternoon, made no
 appointment for reassembling, had no definite purpose or design, and
-indeed, for anything they knew, were scattered beyond the hope of future
-union.
+indeed, for anything they knew, were scattered beyond the [[Hope|hope]] of future
+[[Union|union]].
 
 At The Boot, which, as has been shown, was in a manner the head-quarters
-of the rioters, there were not, upon this Friday night, a dozen people.
+of the rioters, there were not, upon this Friday [[Night|night]], a dozen people.
 Some slept in the stable and outhouses, some in the common room, some
 two or three in beds. The rest were in their usual homes or haunts.
 Perhaps not a score in all lay in the adjacent fields and lanes, and
@@ -53,18 +53,18 @@ trouble. Once possessed of this secret, they were as confident as if
 twenty thousand men, devoted to their will, had been encamped about
 them, and assumed a confidence which could not have been surpassed,
 though that had really been the case. All day, Saturday, they remained
-quiet. On Sunday, they rather studied how to keep their men within call,
-and in full hope, than to follow out, by any fierce measure, their first
+quiet. On [[Sunday]], they rather studied how to keep their men within call,
+and in full [[Hope|hope]], than to follow out, by any fierce measure, their first
 day’s proceedings.
 
-‘I hope,’ said Dennis, as, with a loud yawn, he raised his body from
+‘I [[Hope|hope]],’ said Dennis, as, with a loud yawn, he raised his [[Body|body]] from
 a heap of straw on which he had been sleeping, and supporting his head
-upon his hand, appealed to Hugh on Sunday morning, ‘that Muster Gashford
+upon his hand, appealed to Hugh on [[Sunday]] morning, ‘that Muster Gashford
 allows some rest? Perhaps he’d have us at work again already, eh?’
 
 ‘It’s not his way to let matters drop, you may be sure of that,’ growled
-Hugh in answer. ‘I’m in no humour to stir yet, though. I’m as stiff as
-a dead body, and as full of ugly scratches as if I had been fighting all
+Hugh in answer. ‘I’m in no [[Humour|humour]] to stir yet, though. I’m as stiff as
+a dead [[Body|body]], and as full of ugly scratches as if I had been fighting all
 day yesterday with wild cats.’
 
 ‘You’ve so much enthusiasm, that’s it,’ said Dennis, looking with great
@@ -79,7 +79,7 @@ one yonder as good as me. What did I tell you about him? Did I say he
 was worth a dozen, when you doubted him?’
 
 Mr Dennis rolled lazily over upon his breast, and resting his chin upon
-his hand in imitation of the attitude in which Hugh lay, said, as he too
+his hand in [[Imitation|imitation]] of the attitude in which Hugh lay, said, as he too
 looked towards the door:
 
 ‘Ay, ay, you knew him, brother, you knew him. But who’d suppose to look
@@ -89,10 +89,10 @@ qualifying himself for further exertions in this here honourable cause,
 he should be playing at soldiers like a boy? And his cleanliness too!’
 said Mr Dennis, who certainly had no reason to entertain a fellow
 feeling with anybody who was particular on that score; ‘what weaknesses
-he’s guilty of; with respect to his cleanliness! At five o’clock this
+he’s guilty of; with respect to his cleanliness! At five o’[[Clock|clock]] this
 morning, there he was at the pump, though any one would think he had
 gone through enough, the day before yesterday, to be pretty fast asleep
-at that time. But no--when I woke for a minute or two, there he was at
+at that [[Time|time]]. But no--when I woke for a minute or two, there he was at
 the pump, and if you’d seen him sticking them peacock’s feathers into
 his hat when he’d done washing--ah! I’m sorry he’s such a imperfect
 character, but the best on us is incomplete in some pint of view or
@@ -100,10 +100,10 @@ another.’
 
 The subject of this dialogue and of these concluding remarks, which were
 uttered in a tone of philosophical meditation, was, as the reader will
-have divined, no other than Barnaby, who, with his flag in hand, stood
+have divined, no other than Barnaby, who, with his [[Flag|flag]] in hand, stood
 sentry in the little patch of sunlight at the distant door, or walked
-to and fro outside, singing softly to himself; and keeping time to the
-music of some clear church bells. Whether he stood still, leaning with
+to and fro outside, singing softly to himself; and keeping [[Time|time]] to the
+music of some clear church [[Bells|bells]]. Whether he stood still, leaning with
 both hands on the flagstaff, or, bearing it upon his shoulder, paced
 slowly up and down, the careful arrangement of his poor dress, and his
 erect and lofty bearing, showed how high a sense he had of the great
@@ -112,7 +112,7 @@ Hugh and his companion, who lay in a dark corner of the gloomy shed,
 he, and the sunlight, and the peaceful Sabbath sound to which he made
 response, seemed like a bright picture framed by the door, and set
 off by the stable’s blackness. The whole formed such a contrast to
-themselves, as they lay wallowing, like some obscene animals, in their
+themselves, as they lay wallowing, like some obscene [[Animals|animals]], in their
 squalor and wickedness on the two heaps of straw, that for a few moments
 they looked on without speaking, and felt almost ashamed.
 
@@ -126,9 +126,9 @@ quality. ‘What was it, brother?’
 
 ‘Why, you see,’ said Hugh, crawling a little nearer to him, ‘that our
 noble captain yonder, came in yesterday morning rather the worse for
-liquor, and was--like you and me--ditto last night.’
+liquor, and was--like you and me--ditto last [[Night|night]].’
 
-Dennis looked to where Simon Tappertit lay coiled upon a truss of hay,
+Dennis looked to where [[Simon Tappertit]] lay coiled upon a truss of hay,
 snoring profoundly, and nodded.
 
 ‘And our noble captain,’ continued Hugh with another laugh, ‘our noble
@@ -140,7 +140,7 @@ good profit in it.’
 ‘Ay, against the Papists--against one of ‘em at least, that some of us,
 and I for one, owe a good heavy grudge to.’
 
-‘Not Muster Gashford’s friend that he spoke to us about in my house,
+‘Not Muster Gashford’s friend that he spoke to us about in my [[house]],
 eh?’ said Dennis, brimfull of pleasant expectation.
 
 ‘The same man,’ said Hugh.
@@ -163,13 +163,13 @@ the stable-door as sentry; to which Hugh cautiously replied in these
 words:
 
 ‘Why, the people we mean to visit, were friends of his, once upon a
-time, and I know that much of him to feel pretty sure that if he thought
+[[Time|time]], and I know that much of him to feel pretty sure that if he thought
 we were going to do them any harm, he’d be no friend to our side, but
 would lend a ready hand to the other. So I’ve persuaded him (for I know
 him of old) that Lord George has picked him out to guard this place
-to-morrow while we’re away, and that it’s a great honour--and so he’s on
+to-morrow while we’re away, and that it’s a great [[Honour|honour]]--and so he’s on
 duty now, and as proud of it as if he was a general. Ha ha! What do you
-say to me for a careful man as well as a devil of a one?’
+say to me for a careful man as [[Well|well]] as a devil of a one?’
 
 Mr Dennis exhausted himself in compliments, and then added,
 
@@ -177,35 +177,35 @@ Mr Dennis exhausted himself in compliments, and then added,
 
 ‘About that,’ said Hugh, ‘you shall hear all particulars from me and
 the great captain conjointly and both together--for see, he’s waking up.
-Rouse yourself, lion-heart. Ha ha! Put a good face upon it, and drink
+Rouse yourself, [[Lion|lion]]-heart. Ha ha! Put a good face upon it, and drink
 again. Another hair of the dog that bit you, captain! Call for
 drink! There’s enough of gold and silver cups and candlesticks buried
-underneath my bed,’ he added, rolling back the straw, and pointing to
+underneath my bed,’ he added, [[rolling]] back the straw, and pointing to
 where the ground was newly turned, ‘to pay for it, if it was a score of
 casks full. Drink, captain!’
 
 Mr Tappertit received these jovial promptings with a very bad grace,
-being much the worse, both in mind and body, for his two nights of
+being much the worse, both in mind and [[Body|body]], for his two nights of
 debauch, and but indifferently able to stand upon his legs. With Hugh’s
 assistance, however, he contrived to stagger to the pump; and having
-refreshed himself with an abundant draught of cold water, and a copious
+refreshed himself with an abundant draught of cold [[Water|water]], and a copious
 shower of the same refreshing liquid on his head and face, he ordered
-some rum and milk to be served; and upon that innocent beverage and some
-biscuits and cheese made a pretty hearty meal. That done, he disposed
+some rum and milk to be served; and upon that [[Innocent|innocent]] beverage and some
+biscuits and [[cheese]] made a pretty hearty meal. That done, he disposed
 himself in an easy attitude on the ground beside his two companions (who
 were carousing after their own tastes), and proceeded to enlighten Mr
 Dennis in reference to to-morrow’s project.
 
 That their conversation was an interesting one, was rendered manifest by
 its length, and by the close attention of all three. That it was not
-of an oppressively grave character, but was enlivened by various
+of an oppressively [[Grave|grave]] character, but was enlivened by various
 pleasantries arising out of the subject, was clear from their loud and
 frequent roars of laughter, which startled Barnaby on his post, and made
-him wonder at their levity. But he was not summoned to join them, until
+him [[Wonder|wonder]] at their levity. But he was not summoned to join them, until
 they had eaten, and drunk, and slept, and talked together for some
 hours; not, indeed, until the twilight; when they informed him that they
 were about to make a slight demonstration in the streets--just to keep
-the people’s hands in, as it was Sunday night, and the public might
+the people’s hands in, as it was [[Sunday]] [[Night|night]], and the public might
 otherwise be disappointed--and that he was free to accompany them if he
 would.
 
@@ -215,7 +215,7 @@ more settled design than that of doing as much mischief as they could,
 paraded them at random. Their numbers rapidly increasing, they soon
 divided into parties; and agreeing to meet by-and-by, in the fields
 near Welbeck Street, scoured the town in various directions. The largest
-body, and that which augmented with the greatest rapidity, was the
+[[Body|body]], and that which augmented with the greatest rapidity, was the
 one to which Hugh and Barnaby belonged. This took its way towards
 Moorfields, where there was a rich chapel, and in which neighbourhood
 several Catholic families were known to reside.
@@ -227,13 +227,13 @@ such as hammers, pokers, axes, saws, and such like instruments. Many of
 the rioters made belts of cord, of handkerchiefs, or any material they
 found at hand, and wore these weapons as openly as pioneers upon a
 field-day. There was not the least disguise or concealment--indeed, on
-this night, very little excitement or hurry. From the chapels, they
+this [[Night|night]], very little excitement or hurry. From the chapels, they
 tore down and took away the very altars, benches, pulpits, pews, and
 flooring; from the dwelling-houses, the very wainscoting and stairs.
-This Sunday evening’s recreation they pursued like mere workmen who had
+This [[Sunday]] evening’s recreation they pursued like mere workmen who had
 a certain task to do, and did it. Fifty resolute men might have turned
 them at any moment; a single company of soldiers could have scattered
-them like dust; but no man interposed, no authority restrained them,
+them like [[Dust|dust]]; but no man interposed, no authority restrained them,
 and, except by the terrified persons who fled from their approach, they
 were as little heeded as if they were pursuing their lawful occupations
 with the utmost sobriety and good conduct.
@@ -246,7 +246,7 @@ flames, and shed a glare on the whole country round; but they danced
 and howled, and roared about these fires till they were tired, and were
 never for an instant checked.
 
-As the main body filed off from this scene of action, and passed down
+As the main [[Body|body]] filed off from this scene of action, and passed down
 Welbeck Street, they came upon Gashford, who had been a witness of their
 proceedings, and was walking stealthily along the pavement. Keeping up
 with him, and yet not seeming to speak, Hugh muttered in his ear:
@@ -264,7 +264,7 @@ put some meaning into your work. Fools! Can you make no better bonfires
 than of rags and scraps? Can you burn nothing whole?’
 
 ‘A little patience, master,’ said Hugh. ‘Wait but a few hours, and you
-shall see. Look for a redness in the sky, to-morrow night.’
+shall see. Look for a redness in the sky, to-morrow [[Night|night]].’
 
 With that, he fell back into his place beside Barnaby; and when the
 secretary looked after him, both were lost in the crowd.

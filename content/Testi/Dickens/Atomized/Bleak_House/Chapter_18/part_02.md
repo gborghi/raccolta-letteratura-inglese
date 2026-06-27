@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 18 (part 2)"
+title: "Bleak [[house|House]] — Chapter 18 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -18,57 +18,57 @@ tags:
 
 “Refused all proposals,” returned Mr. Skimpole. “I made him business
 proposals. I had him into my room. I said, ‘You are a man of
-business, I believe?’ He replied, ‘I am.’ ‘Very well,’ said I, ‘now
+business, I believe?’ He replied, ‘I am.’ ‘Very [[Well|well]],’ said I, ‘now
 let us be business-like. Here is an inkstand, here are pens and
-paper, here are wafers. What do you want? I have occupied your house
+paper, here are wafers. What do you want? I have occupied your [[house]]
 for a considerable period, I believe to our mutual satisfaction until
 this unpleasant misunderstanding arose; let us be at once friendly
 and business-like. What do you want?’ In reply to this, he made use
 of the figurative expression—which has something Eastern about
 it—that he had never seen the colour of my money. ‘My amiable
 friend,’ said I, ‘I never have any money. I never know anything about
-money.’ ‘Well, sir,’ said he, ‘what do you offer if I give you time?’
-‘My good fellow,’ said I, ‘I have no idea of time; but you say you
+money.’ ‘[[Well]], sir,’ said he, ‘what do you offer if I give you [[Time|time]]?’
+‘My good fellow,’ said I, ‘I have no idea of [[Time|time]]; but you say you
 are a man of business, and whatever you can suggest to be done in a
 business-like way with pen, and ink, and paper—and wafers—I am
 ready to do. Don’t pay yourself at another man’s expense (which is
 foolish), but be business-like!’ However, he wouldn’t be, and there
 was an end of it.”
 
-If these were some of the inconveniences of Mr. Skimpole’s childhood,
-it assuredly possessed its advantages too. On the journey he had a
+If these were some of the inconveniences of Mr. Skimpole’s [[Childhood|childhood]],
+it assuredly possessed its advantages too. On the [[Journey|journey]] he had a
 very good appetite for such refreshment as came in our way (including
 a basket of choice hothouse peaches), but never thought of paying for
 anything. So when the coachman came round for his fee, he pleasantly
 asked him what he considered a very good fee indeed, now—a liberal
-one—and on his replying half a crown for a single passenger, said it
+one—and on his replying half a [[Crown|crown]] for a single passenger, said it
 was little enough too, all things considered, and left Mr. Jarndyce
 to give it him.
 
 It was delightful weather. The green corn waved so beautifully, the
-larks sang so joyfully, the hedges were so full of wild flowers, the
-trees were so thickly out in leaf, the bean-fields, with a light wind
+larks sang so joyfully, the hedges were so full of wild [[Flowers|flowers]], the
+trees were so thickly out in leaf, the bean-fields, with a light [[Wind|wind]]
 blowing over them, filled the air with such a delicious fragrance!
 Late in the afternoon we came to the market-town where we were to
 alight from the coach—a dull little town with a church-spire, and a
-marketplace, and a market-cross, and one intensely sunny street, and
-a pond with an old horse cooling his legs in it, and a very few men
+marketplace, and a market-[[Cross|cross]], and one intensely sunny street, and
+a pond with an old [[Horse|horse]] cooling his legs in it, and a very few men
 sleepily lying and standing about in narrow little bits of shade.
-After the rustling of the leaves and the waving of the corn all along
-the road, it looked as still, as hot, as motionless a little town as
+After the rustling of the [[Leaves|leaves]] and the waving of the corn all along
+the [[Road|road]], it looked as still, as hot, as motionless a little town as
 England could produce.
 
 At the inn we found Mr. Boythorn on horseback, waiting with an open
-carriage to take us to his house, which was a few miles off. He was
+carriage to take us to his [[house]], which was a few miles off. He was
 overjoyed to see us and dismounted with great alacrity.
 
 “By heaven!” said he after giving us a courteous greeting. “This a
 most infamous coach. It is the most flagrant example of an abominable
 public vehicle that ever encumbered the face of the earth. It is
-twenty-five minutes after its time this afternoon. The coachman ought
-to be put to death!”
+twenty-five minutes after its [[Time|time]] this afternoon. The coachman ought
+to be put to [[Death|death]]!”
 
-“IS he after his time?” said Mr. Skimpole, to whom he happened to
+“IS he after his [[Time|time]]?” said Mr. Skimpole, to whom he happened to
 address himself. “You know my infirmity.”
 
 “Twenty-five minutes! Twenty-six minutes!” replied Mr. Boythorn,
@@ -84,9 +84,9 @@ and pleasure.
 
 “I am sorry, ladies,” he said, standing bare-headed at the
 carriage-door when all was ready, “that I am obliged to conduct you
-nearly two miles out of the way. But our direct road lies through Sir
+nearly two miles out of the way. But our direct [[Road|road]] lies through Sir
 Leicester Dedlock’s park, and in that fellow’s property I have sworn
-never to set foot of mine, or horse’s foot of mine, pending the
+never to set foot of mine, or [[Horse|horse]]’s foot of mine, pending the
 present relations between us, while I breathe the breath of life!”
 And here, catching my guardian’s eye, he broke into one of his
 tremendous laughs, which seemed to shake even the motionless little
@@ -112,16 +112,16 @@ while we are here? The prohibition does not extend to us, does it?”
 Ada and me with the smiling politeness which sat so gracefully upon
 him, “except in the matter of their departure. I am only sorry that I
 cannot have the happiness of being their escort about Chesney Wold,
-which is a very fine place! But by the light of this summer day,
+which is a very fine place! But by the light of this [[Summer|summer]] day,
 Jarndyce, if you call upon the owner while you stay with me, you are
 likely to have but a cool reception. He carries himself like an
-eight-day clock at all times, like one of a race of eight-day clocks
+eight-day [[Clock|clock]] at all times, like one of a race of eight-day clocks
 in gorgeous cases that never go and never went—Ha ha ha!—but he
 will have some extra stiffness, I can promise you, for the friends of
 his friend and neighbour Boythorn!”
 
 “I shall not put him to the proof,” said my guardian. “He is as
-indifferent to the honour of knowing me, I dare say, as I am to the
-honour of knowing him. The air of the grounds and perhaps such a view
-of the house as any other sightseer might get are quite enough for
+indifferent to the [[Honour|honour]] of knowing me, I dare say, as I am to the
+[[Honour|honour]] of knowing him. The air of the grounds and perhaps such a view
+of the [[house]] as any other sightseer might get are quite enough for
 me.”

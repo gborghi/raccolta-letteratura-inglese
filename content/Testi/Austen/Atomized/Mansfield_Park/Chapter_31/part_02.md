@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 31 (part 2)"
+title: "[[Mansfield Park]] — Chapter 31 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -22,8 +22,8 @@ you are _not_ thinking of me. I know it is all nothing.”
 
 She had burst away from him, and at that moment Sir Thomas was heard
 speaking to a servant in his way towards the room they were in. It was
-no time for farther assurances or entreaty, though to part with her at
-a moment when her modesty alone seemed, to his sanguine and preassured
+no [[Time|time]] for farther assurances or entreaty, though to part with her at
+a moment when her modesty [[Alone|alone]] seemed, to his sanguine and preassured
 mind, to stand in the way of the happiness he sought, was a cruel
 necessity. She rushed out at an opposite door from the one her uncle
 was approaching, and was walking up and down the East room in the
@@ -40,19 +40,19 @@ not what to say, how to class, or how to regard it. She would not have
 him be serious, and yet what could excuse the use of such words and
 offers, if they meant but to trifle?
 
-But William was a lieutenant. _That_ was a fact beyond a doubt, and
+But William was a lieutenant. _That_ was a fact beyond a [[Doubt|doubt]], and
 without an alloy. She would think of it for ever and forget all the
 rest. Mr. Crawford would certainly never address her so again: he must
 have seen how unwelcome it was to her; and in that case, how gratefully
-she could esteem him for his friendship to William!
+she could esteem him for his [[Friendship|friendship]] to William!
 
 She would not stir farther from the East room than the head of the
 great staircase, till she had satisfied herself of Mr. Crawford’s
-having left the house; but when convinced of his being gone, she was
+having left the [[house]]; but when convinced of his being gone, she was
 eager to go down and be with her uncle, and have all the happiness of
-his joy as well as her own, and all the benefit of his information or
+his joy as [[Well|well]] as her own, and all the benefit of his information or
 his conjectures as to what would now be William’s destination. Sir
-Thomas was as joyful as she could desire, and very kind and
+Thomas was as joyful as she could [[Desire|desire]], and very kind and
 communicative; and she had so comfortable a talk with him about William
 as to make her feel as if nothing had occurred to vex her, till she
 found, towards the close, that Mr. Crawford was engaged to return and
@@ -78,7 +78,7 @@ dine there, screened her a little from view.
 relief of a tongue that has been stumbling at _Miss_ _Price_ for at
 least the last six weeks—I cannot let my brother go without sending you
 a few lines of general congratulation, and giving my most joyful
-consent and approval. Go on, my dear Fanny, and without fear; there can
+consent and approval. Go on, my dear Fanny, and without [[Fear|fear]]; there can
 be no difficulties worth naming. I chuse to suppose that the assurance
 of my consent will be something; so you may smile upon him with your
 sweetest smiles this afternoon, and send him back to me even happier
@@ -108,10 +108,10 @@ immediately directed towards her.
 
 She was more silent than ever. She would hardly join even when William
 was the subject, for his commission came all from the right hand too,
-and there was pain in the connexion.
+and there was [[Pain|pain]] in the connexion.
 
-She thought Lady Bertram sat longer than ever, and began to be in
-despair of ever getting away; but at last they were in the
+She thought Lady [[Bertram]] sat longer than ever, and began to be in
+[[Despair|despair]] of ever getting away; but at last they were in the
 drawing-room, and she was able to think as she would, while her aunts
 finished the subject of William’s appointment in their own style.
 
@@ -121,7 +121,7 @@ himself, which would make a vast difference to his uncle, for it was
 unknown how much he had cost his uncle; and, indeed, it would make some
 difference in _her_ presents too. She was very glad that she had given
 William what she did at parting, very glad, indeed, that it had been in
-her power, without material inconvenience, just at that time to give
+her power, without material inconvenience, just at that [[Time|time]] to give
 him something rather considerable; that is, for _her_, with _her_
 limited means, for now it would all be useful in helping to fit up his
 cabin. She knew he must be at some expense, that he would have many

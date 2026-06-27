@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 16 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 16 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-you need not fear me, for I not only should think it _wrong_ to marry a
+you need not [[Fear|fear]] me, for I not only should think it _wrong_ to marry a
 
 man that was deficient in sense or in principle, but I should never be
 
@@ -22,19 +22,19 @@ _tempted_ to do it; for I could not like him, if he were ever so
 
 handsome, and ever so charming, in other respects; I should hate
 
-him—despise him—pity him—anything but love him. My affections not only
+him—despise him—pity him—anything but [[Love|love]] him. My affections not only
 
 _ought_ to be founded on approbation, but they will and must be so:
 
-for, without approving, I cannot love. It is needless to say, I ought
+for, without approving, I cannot [[Love|love]]. It is needless to say, I ought
 
-to be able to respect and honour the man I marry, as _well_ as love
+to be able to respect and [[Honour|honour]] the man I marry, as _well_ as [[Love|love]]
 
-him, for I cannot love him without. So set your mind at rest.”
+him, for I cannot [[Love|love]] him without. So set your mind at rest.”
 
 
 
-“I hope it may be so,” answered she.
+“I [[Hope|hope]] it may be so,” answered she.
 
 
 
@@ -42,15 +42,15 @@ him, for I cannot love him without. So set your mind at rest.”
 
 
 
-“You have not been tried yet, Helen—we can but hope,” said she in her
+“You have not been tried yet, [[Helen]]—we can but [[Hope|hope]],” said she in her
 
 cold, cautious way.
 
 
 
-“I was vexed at her incredulity; but I am not sure her doubts were
+“I was vexed at her [[Incredulity|incredulity]]; but I am not sure her doubts were
 
-entirely without sagacity; I fear I have found it much easier to
+entirely without sagacity; I [[Fear|fear]] I have found it much easier to
 
 remember her advice than to profit by it;—indeed, I have sometimes been
 
@@ -60,7 +60,7 @@ counsels may be good, as far as they go—in the main points at
 
 least;—but there are some things she has overlooked in her
 
-calculations. I wonder if _she_ was ever in love.
+calculations. I [[Wonder|wonder]] if _she_ was ever in [[Love|love]].
 
 
 
@@ -70,11 +70,11 @@ it—kindling with bright hopes and fancies—chiefly raised by this
 
 conversation—and full of confidence in my own discretion. At first, I
 
-was delighted with the novelty and excitement of our London life; but
+was delighted with the novelty and excitement of our [[London]] life; but
 
 soon I began to weary of its mingled turbulence and constraint, and
 
-sigh for the freshness and freedom of home. My new acquaintances, both
+sigh for the freshness and [[Freedom|freedom]] of [[Home|home]]. My new acquaintances, both
 
 male and female, disappointed my expectations, and vexed and depressed
 
@@ -90,11 +90,11 @@ artificial. The gentlemen seemed better, but, perhaps, it was because I
 
 knew them less—perhaps, because they flattered me; but I did not fall
 
-in love with any of them; and, if their attentions pleased me one
+in [[Love|love]] with any of them; and, if their attentions pleased me one
 
-moment, they provoked me the next, because they put me out of humour
+moment, they provoked me the next, because they put me out of [[Humour|humour]]
 
-with myself, by revealing my vanity and making me fear I was becoming
+with myself, by revealing my [[Vanity|vanity]] and making me [[Fear|fear]] I was becoming
 
 like some of the ladies I so heartily despised.
 
@@ -140,27 +140,27 @@ agreeable society.
 
 
 
-One night, however, at a ball, he had been more than usually
+One [[Night|night]], however, at a ball, he had been more than usually
 
 tormenting, and my patience was quite exhausted. It appeared as if the
 
-whole evening was fated to be insupportable: I had just had one dance
+whole evening was fated to be insupportable: I had just had one [[Dance|dance]]
 
 with an empty-headed coxcomb, and then Mr. Boarham had come upon me and
 
-seemed determined to cling to me for the rest of the night. He never
+seemed determined to cling to me for the rest of the [[Night|night]]. He never
 
 danced himself, and there he sat, poking his head in my face, and
 
 impressing all beholders with the idea that he was a confirmed,
 
-acknowledged lover; my aunt looking complacently on all the time, and
+acknowledged [[Lover|lover]]; my aunt looking complacently on all the [[Time|time]], and
 
-wishing him God-speed. In vain I attempted to drive him away by giving
+wishing him God-[[Speed|speed]]. In vain I attempted to drive him away by giving
 
 a loose to my exasperated feelings, even to positive rudeness: nothing
 
-could convince him that his presence was disagreeable. Sullen silence
+could convince him that his presence was disagreeable. Sullen [[Silence|silence]]
 
 was taken for rapt attention, and gave him greater room to talk; sharp
 
@@ -180,13 +180,13 @@ But there was one present who seemed to have a better appreciation of
 
 my frame of mind. A gentleman stood by, who had been watching our
 
-conference for some time, evidently much amused at my companion’s
+conference for some [[Time|time]], evidently much amused at my companion’s
 
 remorseless pertinacity and my manifest annoyance, and laughing to
 
 himself at the asperity and uncompromising spirit of my replies. At
 
-length, however, he withdrew, and went to the lady of the house,
+length, however, he withdrew, and went to the lady of the [[house]],
 
 apparently for the purpose of asking an introduction to me, for,
 
@@ -194,7 +194,7 @@ shortly after, they both came up, and she introduced him as Mr.
 
 Huntingdon, the son of a late friend of my uncle’s. He asked me to
 
-dance. I gladly consented, of course; and he was my companion during
+[[Dance|dance]]. I gladly consented, of course; and he was my companion during
 
 the remainder of my stay, which was not long, for my aunt, as usual,
 
@@ -206,7 +206,7 @@ I was sorry to go, for I had found my new acquaintance a very lively
 
 and entertaining companion. There was a certain graceful ease and
 
-freedom about all he said and did, that gave a sense of repose and
+[[Freedom|freedom]] about all he said and did, that gave a sense of repose and
 
 expansion to the mind, after so much constraint and formality as I had
 

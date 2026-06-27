@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 19 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 19 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 but you have made it so charming! Only look, sister, how delightful
 
-every thing is! How I should like such a house for myself! Should not
+every thing is! How I should like such a [[house]] for myself! Should not
 
 you, Mr. Palmer?”
 
@@ -50,7 +50,7 @@ their friends, without ceasing till every thing was told. Mrs. Palmer
 
 laughed heartily at the recollection of their astonishment, and every
 
-body agreed, two or three times over, that it had been quite an
+[[Body|body]] agreed, two or three times over, that it had been quite an
 
 agreeable surprise.
 
@@ -64,13 +64,13 @@ as if she meant to be heard by no one else, though they were seated on
 
 different sides of the room; “but, however, I can’t help wishing they
 
-had not travelled quite so fast, nor made such a long journey of it,
+had not travelled quite so fast, nor made such a long [[Journey|journey]] of it,
 
-for they came all round by London upon account of some business, for
+for they came all round by [[London]] upon account of some business, for
 
 you know (nodding significantly and pointing to her daughter) it was
 
-wrong in her situation. I wanted her to stay at home and rest this
+wrong in her situation. I wanted her to stay at [[Home|home]] and rest this
 
 morning, but she would come with us; she longed so much to see you
 
@@ -120,7 +120,7 @@ drawings which hung round the room. She got up to examine them.
 
 
 
-“Oh! dear, how beautiful these are! Well! how delightful! Do but look,
+“Oh! dear, how beautiful these are! [[Well]]! how delightful! Do but look,
 
 mama, how sweet! I declare they are quite charming; I could look at
 
@@ -130,13 +130,13 @@ there were any such things in the room.
 
 
 
-When Lady Middleton rose to go away, Mr. Palmer rose also, laid down
+When Lady Middleton [[Rose|rose]] to go away, Mr. Palmer [[Rose|rose]] also, laid down
 
 the newspaper, stretched himself and looked at them all around.
 
 
 
-“My love, have you been asleep?” said his wife, laughing.
+“My [[Love|love]], have you been asleep?” said his wife, laughing.
 
 
 

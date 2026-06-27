@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Sins of Prince Saradine (part 7)"
+title: "[[innocence]] — The Sins of Prince Saradine (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -66,27 +66,27 @@ in the faint glow of his cigar; it was scrawled with green ink.
 
 "Don't you remember his original invitation to you?"
 he asked, "and the compliment to your criminal exploit?
-`That trick of yours,' he says, `of getting one detective
+`That trick of yours,' he says, `of getting one [[Detective|detective]]
 to arrest the other'? He has just copied your trick.
 With an enemy on each side of him, he slipped swiftly out
 of the way and let them collide and kill each other."
 
-Flambeau tore Prince Saradine's card from the priest's hands and rent
+[[Flambeau]] tore Prince Saradine's card from the priest's hands and rent
 it savagely in small pieces.
 
 "There's the last of that old skull and crossbones," he said as he
 scattered the pieces upon the dark and disappearing waves of the stream;
-"but I should think it would poison the fishes."
+"but I should think it would [[Poison|poison]] the fishes."
 
 The last gleam of white card and green ink was drowned and darkened;
-a faint and vibrant colour as of morning changed the sky, and the moon
-behind the grasses grew paler.  They drifted in silence.
+a faint and vibrant colour as of morning changed the sky, and the [[Moon|moon]]
+behind the grasses grew paler.  They drifted in [[Silence|silence]].
 
-"Father," said Flambeau suddenly, "do you think it was all a dream?"
+"Father," said [[Flambeau]] suddenly, "do you think it was all [[A Dream|a dream]]?"
 
 The priest shook his head, whether in dissent or agnosticism,
 but remained mute.  A smell of hawthorn and of orchards came
-to them through the darkness, telling them that a wind was awake;
+to them through the darkness, telling them that a [[Wind|wind]] was awake;
 the next moment it swayed their little boat and swelled their sail,
-and carried them onward down the winding river to happier places
+and carried them onward down the winding [[River|river]] to happier places
 and the homes of harmless men.

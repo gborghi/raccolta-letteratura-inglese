@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Terrible Troubadour (part 6)"
+title: "[[MrPond]] — The Terrible Troubadour (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -20,7 +20,7 @@ about mandrakes and mermaids; but, in many cases, it has been found
 
 since that their tall tales were true.  Anyhow, this chap said
 
-there were men walking about with the heads of dogs.  Now, if
+there were men walking about with the heads of [[dogs]].  Now, if
 
 you'll look at one of the larger apes, like the baboon, you'll see
 
@@ -88,11 +88,11 @@ and began to climb the creeper.'"
 
 "I was quite pedantically correct," said Gahagan, waving his hand,
 
-condescendingly.  "I was careful to state that some BODY ran and
+condescendingly.  "I was careful to state that some [[Body|BODY]] ran and
 
 climbed.  I attempted no theological or metaphysical speculations
 
-about the soul of an ape."
+about the [[Soul|soul]] of an ape."
 
 
 
@@ -104,15 +104,15 @@ deeply shaken.  "Are you sure the thing I saw was an ape?"
 
 "I was quite close," said the Captain.  "I saw the shape and you
 
-only saw the shadow."
+only saw the [[Shadow|shadow]]."
 
 
 
 "No," said Pond softly, "he saw the shape and could not believe it
 
-because it was the shadow.  That is what I meant by saying a shadow
+because it was the [[Shadow|shadow]].  That is what I meant by saying a [[Shadow|shadow]]
 
-can deceive by accuracy.  Nine times out of ten, a shadow is out of
+can deceive by accuracy.  Nine times out of ten, a [[Shadow|shadow]] is out of
 
 drawing.  But it can happen, in special circumstances, that it is
 
@@ -122,7 +122,7 @@ so we are deceived by its not being distorted.  The vicar was not
 
 surprised that the hairy, high-shouldered Mr. Ayres should throw a
 
-shadow looking like a shambling hunchback or a bristly, humped
+[[Shadow|shadow]] looking like a shambling hunchback or a bristly, humped
 
 figure.  But in reality it WAS a bristly, humped figure.  I guessed
 
@@ -138,15 +138,15 @@ other was a mistake?"
 
 knew it was an ape, and I guessed it was from the cages or kennels
 
-of the eminent biologist next door.  I had a wild hope it might
+of the eminent biologist next door.  I had a wild [[Hope|hope]] it might
 
 have been meant as some ghastly joke; but I wasn't taking any
 
 risks; I happen to know that sort of anthropoid is no joke.  At the
 
-best, he might easily bite and then--well, there were all sorts of
+best, he might easily bite and then--[[Well|well]], there were all sorts of
 
-nightmare notions half-formed in one's mind.
+[[nightmare]] notions half-formed in one's mind.
 
 
 
@@ -156,9 +156,9 @@ pets; vivisection, inoculation, intoxication, drugs--Lord knows
 
 what might be mixed up in it.  So I shot the brute dead, and I'm
 
-afraid I can't apologize.  I threw the body into the river; as you
+afraid I can't apologize.  I threw the [[Body|body]] into the [[River|river]]; as you
 
-know, it's a very rapid and rushing river, and, so far as I know,
+know, it's a very rapid and rushing [[River|river]], and, so far as I know,
 
 nothing more was ever heard of it.  Certainly, Dr. Paul Green did
 
@@ -178,7 +178,7 @@ an awful business.
 
 to hear an old acquaintance accused of a horrible action.  It was,
 
-also, what I meant by saying that the key to all this riddle is the
+also, what I meant by saying that the key to all this [[Riddle|riddle]] is the
 
 fact that Dr. Green is lame."
 
@@ -196,7 +196,7 @@ say that the doctor is, in a rather literal sense, a mad doctor.
 
 The point is that I think I know what finally drove him mad.  He
 
-had a remarkable personality; he was in love with the lady at the
+had a remarkable personality; he was in [[Love|love]] with the lady at the
 
 Vicarage and had got a good deal of influence there; as Gahagan
 
@@ -208,11 +208,11 @@ he was lame.
 
 
 
-"What put the finishing touch to his madness, on that terrible
+"What put the finishing touch to his [[Madness|madness]], on that terrible
 
-summer night under the moon, was something that I think one can
+[[Summer|summer]] [[Night|night]] under the [[Moon|moon]], was something that I think one can
 
-partly understand, with a little imagination; something not
+partly understand, with a little [[Imagination|imagination]]; something not
 
 altogether unnatural, if anything ending in such insanity can be
 
@@ -240,11 +240,11 @@ climb better than a man.  'You have to go very low to find things
 
 that go so high.'  Considered as a logical repartee, it was quite a
 
-good one.  But his mind was not running merely on logic and
+good one.  But his mind was not running merely on [[logic]] and
 
-repartee; he was blind and boiling with jealousy and passion, and
+repartee; he was blind and boiling with [[Jealousy|jealousy]] and passion, and
 
-he was a little cracked.  Let's hope he only meant to make a sort
+he was a little cracked.  Let's [[Hope|hope]] he only meant to make a sort
 
 of demonstration; but, anyhow, that was what he was trying to
 

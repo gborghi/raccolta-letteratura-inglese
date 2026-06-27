@@ -18,20 +18,20 @@ PART TWO:  PARTICULAR BOOKS AND WRITERS
 
 THE MACBETHS
 
-IN STUDYING any eternal tragedy the first question necessarily is
-what part of tragedy is eternal.  If there be any element in man's
+IN STUDYING any eternal [[Tragedy|tragedy]] the first question necessarily is
+what part of [[Tragedy|tragedy]] is eternal.  If there be any element in man's
 work which is in any sense permanent it must have this characteristic,
 that it rebukes first one generation and then another, but rebukes
 them always in opposite directions and for opposite faults.
 The ideal world is always sane.  The real world is always mad.
-But it is mad about a different thing every time;
+But it is mad about a different thing every [[Time|time]];
 all the things that have been are changing and inconstant.
 The only thing that is really reliable is the thing that has
 never been.  All very great classics of art are a rebuke
 to extravagance not in one direction but in all directions.
-The figure of a Greek Venus is a rebuke to the fat women of Rubens
+The figure of a Greek [[Venus]] is a rebuke to the fat women of Rubens
 and also a rebuke to the thin women of Aubrey Beardsley.
-In the same way, Christianity, which in its early years fought
+In the same way, [[Christianity]], which in its early years fought
 the Manicheans because they did not believe in anything but spirit,
 has now to fight the Manicheans because they do not believe in
 anything but matter.  This is perhaps the test of a very great work
@@ -43,40 +43,40 @@ too bad in one way and too bad also in the opposite way, then you
 may be sure that it is very good.
 
 This preface is essential if we are to profit by the main meaning
-of Macbeth.  For the play is so very great that it covers much more
+of [[Macbeth]].  For the play is so very great that it covers much more
 than it appears to cover; it will certainly survive our age as it has
 survived its own; it will certainly leave the twentieth century behind
 as calmly and completely as it has left the seventeenth century behind.
 Hence if we ask for the meaning of this classic we must necessarily
-ask the meaning for our own time.  It might have another shade
-of meaning for another period of time.  If, as is possible,
-there should be a barbaric return and if history is any kind of guide,
+ask the meaning for our own [[Time|time]].  It might have another shade
+of meaning for another period of [[Time|time]].  If, as is possible,
+there should be a barbaric return and if [[history]] is any kind of guide,
 it will destroy everything else before it destroys great literature.
 The high and civilized sadness of Virgil was enjoyed literally
 through the darkest instant of the Dark Ages.  Long after a wealthier
 generation has destroyed Parliament they will retain Shakespeare.
-Men will enjoy the greatest tragedy of Shakespeare even in the thick
-of the greatest tragedy of Europe.
+Men will enjoy the greatest [[Tragedy|tragedy]] of Shakespeare even in the thick
+of the greatest [[Tragedy|tragedy]] of Europe.
 
 It is quite possible that Shakespeare may come to be
 enjoyed by men far simpler than the men for whom he wrote.
-Voltaire called him a great savage; we may come to the time far
+Voltaire called him a great savage; we may come to the [[Time|time]] far
 darker than the Dark Ages when he will really be enjoyed by savages.
-Then the story of Macbeth will be read by a man in the actual position
-of Macbeth.  Then the Thane of Glamis may profit by the disastrous
+Then the story of [[Macbeth]] will be read by a man in the actual position
+of [[Macbeth]].  Then the Thane of Glamis may profit by the disastrous
 superstitions of the Thane of Cawdor.  Then the Thane of Cawdor
-may really resist the impulse to be King of Scotland.  There would
-be a very simple but a real moral if Macbeth could read Macbeth.
-"Do not listen to evil spirits; do not let your ambition run away
+may really resist the impulse to be [[King]] of Scotland.  There would
+be a very simple but a real moral if [[Macbeth]] could read [[Macbeth]].
+"Do not listen to evil spirits; do not let your [[Ambition|ambition]] run away
 with you; do not murder old gentlemen in bed; do not kill other
 people's wives and children as a part of diplomacy; for if you do
-these things it is highly probable that you will have a bad time."
-That is the lesson that Macbeth would have learnt from Macbeth;
+these things it is highly probable that you will have a bad [[Time|time]]."
+That is the lesson that [[Macbeth]] would have learnt from [[Macbeth]];
 that is the lesson that some barbarians of the future may
-possibly learn from Macbeth.  And it is a true lesson.
+possibly learn from [[Macbeth]].  And it is a true lesson.
 Great work has something to say quite simply to the simple.
-The barbarians would understand Macbeth as a solid warning against
-vague and violent ambition; and it is such a warning, and they
+The barbarians would understand [[Macbeth]] as a solid warning against
+vague and violent [[Ambition|ambition]]; and it is such a warning, and they
 would take along with it this lesson also, which is none the worse
 because perhaps only the barbarians could adequately understand it.
 "Distrust those malevolent spirits who speak flatteringly to you.
@@ -89,28 +89,28 @@ because it is itself eternal.  And let us realize that such
 a lesson will be in our own day not absolute but suited to
 the particular vices or particular misfortunes of that day.
 We are not in any danger at the moment of the positive
-and con crete actions which correspond to those of Macbeth.
+and con crete actions which correspond to those of [[Macbeth]].
 The good old habit of murdering kings (which was the salvation
 of so many commonwealths in the past) has fallen into desuetude.
 The idea of such a play must be for us (and for our sins) more subtle.
 The idea is more subtle but it is almost inexpressibly great.
 Let us before reading the play consider if only for a moment what is
-the main idea of Macbeth for modern men.
+the main idea of [[Macbeth]] for modern men.
 
-One great idea on which all tragedy builds is the idea of the
+One great idea on which all [[Tragedy|tragedy]] builds is the idea of the
 continuity of human life.  The one thing a man cannot do is exactly
-what all modern artists and free lovers are always trying to do.
+what all modern artists and free [[lovers]] are always trying to do.
 He cannot cut his life up into separate sections.  The case of the modern
-claim for freedom in love is the first and most obvious that occurs
+claim for [[Freedom|freedom]] in [[Love|love]] is the first and most obvious that occurs
 to the mind; therefore I use it for this purpose of illustration.
-You cannot have an idyll with Maria and an episode with Jane; there is
+You cannot have an idyll with [[Maria]] and an episode with Jane; there is
 no such thing as an episode.  There is no such thing as an idyll.
-It is idle to talk about abolishing the tragedy of marriage when you
-cannot abolish the tragedy of sex.  Every flirtation is a marriage;
-it is a marriage in this frightful sense; that it is irrevocable.
+It is idle to talk about abolishing the [[Tragedy|tragedy]] of [[Marriage|marriage]] when you
+cannot abolish the [[Tragedy|tragedy]] of sex.  Every flirtation is a [[Marriage|marriage]];
+it is a [[Marriage|marriage]] in this frightful sense; that it is irrevocable.
 I have taken this case of sexual relations as one out of a hundred;
 but of any case in human life the thing is true.  The basis
-of all tragedy is that man lives a coherent and continuous life.
+of all [[Tragedy|tragedy]] is that man lives a coherent and continuous life.
 It is only a worm that you can cut in two and leave the severed
 parts still alive.  You can cut a worm up into episodes and they
 are still living episodes.  You can cut a worm up into idylls
@@ -118,34 +118,34 @@ and they are quite brisk and lively idylls.  You can do all this
 to him precisely because he is a worm.  You cannot cut a man
 up and leave him kicking, precisely because he is a man.
 We know this because man even in his lowest and darkest manifestation
-has always this characteristic of physical and psychological unity.
-His identity continues long enough to see the end of many of his
+has always this characteristic of physical and psychological [[unity]].
+His [[Identity|identity]] continues long enough to see the end of many of his
 own acts; he cannot be cut off from his past with a hatchet;
 as he sows so shall he reap.
 
-This then is the basis of all tragedy, this living and perilous
+This then is the basis of all [[Tragedy|tragedy]], this living and perilous
 continuity which does not exist in the lower creatures.
-This is the basis of all tragedy, and this is certainly the basis
-of Macbeth.  The great ideas of Macbeth, uttered in the first few
+This is the basis of all [[Tragedy|tragedy]], and this is certainly the basis
+of [[Macbeth]].  The great ideas of [[Macbeth]], uttered in the first few
 scenes with a tragic energy which has never been equalled perhaps
 in Shakespeare or out of him, is the idea of the enormous mistake
 a man makes if he supposes that one decisive act will clear his way.
-Macbeth's ambition, though selfish and someway sullen, is not in itself
+[[Macbeth]]'s [[Ambition|ambition]], though selfish and someway sullen, is not in itself
 criminal or morbid.  He wins the title of Glamis in honourable war;
 he deserves and gets the title of Cawdor; he is rising in the world
-and has a not ignoble exhilaration in doing so.  Suddenly a new ambition
+and has a not ignoble exhilaration in doing so.  Suddenly a new [[Ambition|ambition]]
 is presented to him (of the agency and atmosphere which presents it
 I shall speak in a moment) and he realizes that nothing lies across
-his path to the Crown of Scotland except the sleeping body of Duncan.
+his path to the [[Crown]] of Scotland except the sleeping [[Body|body]] of [[Duncan]].
 If he does that one cruel thing, he can be infinitely kind and happy.
 
 Here, I say, is the first and most formidable of the great actualities
-of Macbeth.  You cannot do a mad thing in order to reach sanity.
-Macbeth's mad resolve is not a cure even for his own irresolution.
+of [[Macbeth]].  You cannot do a mad thing in order to reach [[Sanity|sanity]].
+[[Macbeth]]'s mad resolve is not a cure even for his own irresolution.
 He was indecisive before his decision.  He is, if possible,
 more indecisive after he has decided.  The crime does not get
 rid of the problem.  Its effect is so bewildering that one
-may say that the crime does not get rid of the temptation.
+may say that the crime does not get rid of the [[Temptation|temptation]].
 Make a morbid decision and you will only become more morbid;
 do a lawlesss thing and you will only get into an atmosphere much
 more suffocating than that of law.  Indeed, it is a mistake to speak
@@ -339,8 +339,8 @@ until it was comparatively easy, at the end of the Victorian era,
 for somebody like Bernard Shaw to propose an Edwardian massacre
 of Bards and almost to insinuate that the swan was a goose.
 Most of the trouble came from what are called `Familiar Quotations',
-which were hardly even representative or self-explanatory quotations.
-In almost all the well-known passages from Shakespeare,
+which were hardly even representative or [[Self|self]]-explanatory quotations.
+In almost all the [[Well|well]]-known passages from Shakespeare,
 to quote the passage is to miss the point.  It is almost needless
 to note what may be called the vulgar examples; as in the case
 of those who say that Shakespeare asks, "What is in a name?";
@@ -355,30 +355,30 @@ in which it has poignancy, in the mouth of a girl commanded to hate
 a man she loves, because of a name that seems to her to have nothing
 to do with him.  The play now under consideration is no exception
 to this disastrous rule.  The old woman who complained that
-the tragedy of Hamlet was so full of quotations would have found
-almost as many in the tragedy of King Lear.  And they would have
-had the same character as those from Hamlet or Romeo and Juliet:
+the [[Tragedy|tragedy]] of [[Hamlet]] was so full of quotations would have found
+almost as many in the [[Tragedy|tragedy]] of [[King Lear]].  And they would have
+had the same character as those from [[Hamlet]] or [[Romeo]] and [[Juliet]]:
 that those who leave out the context really leave out the conception.
 They have a mysterious power of making the world weary of a few
 fixed and disconnected words, and yet leaving the world entirely
 ignorant of the real meaning of those words.
 
-Thus, in the play of King Lear, there are certain words which everybody
+Thus, in the play of [[King Lear]], there are certain words which everybody
 has heard hundreds of times, in connections either intentionally or
 unintentionally absurd.  We have all read or heard of somebody saying,
-"How sharper than a serpent's tooth it is to have a thankless child."
+"How sharper than a serpent's tooth it is to have a thankless [[Child|child]]."
 Somehow the very words sound as if they were mouthed by some
-tipsy actor or silly and senile person in a comic novel.
+tipsy actor or silly and senile person in a comic [[Novel|novel]].
 I do not know why these particular words, as words, should be
 selected for citation.  Shakespeare was a casual writer;
 he was often especially careless about metaphors, careless about
 making them and careless about mixing them.  There is nothing
 particularly notable about this particular metaphor of the tooth;
-it might just as well have been a wolf's tooth or a tiger's tooth.
+it might just as [[Well|well]] have been a wolf's tooth or a tiger's tooth.
 The lines quoted only become remarkable when we read them with
 the rest of the scene, and with a very much more remarkable passage,
 which is never quoted at all.  The whole point of Lear's remark
-is that, when buffeted by the first insult of Goneril, he breaks
+is that, when buffeted by the first insult of [[Goneril]], he breaks
 forth into a blasting bodily curse upon the woman, praying first
 that she may have no children, then that she may have horrible
 and unnatural children, that she may give birth to a monstrosity,
@@ -388,21 +388,21 @@ I cannot imagine why only the weakest lines in the speech are
 everlastingly repeated, and the strongest lines in it are never
 mentioned at all.
 
-A man might well harden into the horrid suspicion that most people have
+A man might [[Well|well]] harden into the horrid suspicion that most people have
 hardly read the play at all, when he remembers how many things there
 are in it that are not repeated, and yet would certainly be remembered.
 There are things in it that no man who has read them can ever forget.
-Amid all the thunders of the storm, it comes like a new clap of thunder,
-when the thought first crosses the mad king's mind that he must
-not complain of wind and storm and lightning, because they are not
+Amid all the thunders of the [[Storm|storm]], it comes like a new clap of thunder,
+when the thought first crosses the mad [[King|king]]'s mind that he must
+not complain of [[Wind|wind]] and [[Storm|storm]] and [[Lightning|lightning]], because they are not
 his daughters.  "I never gave you kingdoms, called you children."
 And I imagine that the great imaginative invention of the English,
-the thing called Nonsense, never rose to such a height and sublimity
-of unreason and horror, as when the Fool juggles with time and space
+the thing called Nonsense, never [[Rose|rose]] to such a height and sublimity
+of unreason and horror, as when the [[Fool]] juggles with [[Time|time]] and space
 and tomorrow and yesterday, as he says soberly at the end of his rant:
-"This prophecy Merlin shall make; for I live before his time."  This is
+"This prophecy Merlin shall make; for I live before his [[Time|time]]."  This is
 one of the Shakespearian shocks or blows that take the breath away.
-But in the same scene of the storm and the desolate wandering,
+But in the same scene of the [[Storm|storm]] and the desolate wandering,
 there is another example of the sort of thing I mean in the matter
 of quotation.  It is not so strong an example, because the words
 are very beautiful in themselves; and have often been applied
@@ -414,15 +414,15 @@ or more or less pardonable profligate, was "more sinned against
 than sinning".  But the words thus used have not a hundredth
 part of the point and power of the words as used by Lear.
 The point of the passage is that he himself challenges the cosmic
-powers to a complete examination; that he finds in his despair
+powers to a complete examination; that he finds in his [[Despair|despair]]
 a sort of dizzy detachment of the intellect, and strikes
 the balance to his own case with a kind of insane impartiality.
-Regarding the storm that rages round him as a universal rending
+Regarding the [[Storm|storm]] that rages round him as a universal rending
 and uprooting of everything, something that will pluck out the roots
 of all things, even the darkest and foulest roots of the heart
 of man deceitful above all things and desperately wicked,
-he affirms in the face of the most appalling self-knowledge,
-clear and blasting as the lightning, that his sufferings must still
+he affirms in the face of the most appalling [[Self-Knowledge|self-knowledge]],
+clear and blasting as the [[Lightning|lightning]], that his sufferings must still
 be greater than his sins.  It is possibly the most tremendous thing
 a man ever said; whether or no any man had the right to say it.
 It would be hard to beat it even in the Book of Job.  And it does
@@ -434,9 +434,9 @@ There are certain abstractions very strong in Shakespeare's mind,
 without which his plays are much misunderstood by modern people,
 who look to them for nothing whatever except realistic details
 about individuals.  For instance, there runs through the whole
-play of King Lear, as there runs through the whole play of Richard
+play of [[King Lear]], as there runs through the whole play of [[Richard]]
 the Second, an abstraction which was an actuality of awful
-vividness to the man of Shakespeare's time; the idea of the King.
+vividness to the man of Shakespeare's [[Time|time]]; the idea of the [[King]].
 Under the name of Divine Right, a very unlucky name, it was mixed up
 with Parliamentary and sectarian quarrels which afterwards altogether
 dwarfed and diminished its dignity.  But Divine Right was originally
@@ -444,14 +444,14 @@ much more human than that.  It resolved itself roughly into this;
 that there are three forms in which men can accept the idea
 of justice or the authority of the commonwealth; in the form of
 an assembly, in the form of a document, or in the form of a man.
-King Lear is a man; but he is or has been a sacramental or sacred man;
+[[King Lear]] is a man; but he is or has been a sacramental or sacred man;
 and that is why he can be a desecrated man.  Even those who prefer
 to be governed by the scroll of the law, or by the assembly of
 the tribe, must understand that men have wished, and may again wish,
 to be governed by a man; and that where this wish has existed
 the man does become, not indeed divine, but certainly different.
-It is not an accident that Lear is a king as well as a father,
-and that Goneril and Regan are not only daughters but traitors.
+It is not an accident that Lear is a [[King|king]] as [[Well|well]] as a father,
+and that [[Goneril]] and [[Regan]] are not only daughters but traitors.
 Treason, or what is felt as treason, does break the heart of the world;
 and it has seldom been so nearly broken as here.
 
@@ -461,12 +461,12 @@ THE EVERLASTING NIGHTS
 No one has any business with the Arabian Nights who objects
 to bulk in literature.  It is a curious thing which may be noticed
 by all literary critics, that literature is the only thing
-in which bulk is considered a defect.  The truth is, of course,
+in which bulk is considered a defect.  The [[Truth|truth]] is, of course,
 that size is an element of value in literature.  If the quality
 be really ascertained, the amount, even if indefinitely increased,
 becomes a merit.  A man would as soon think of saying that the field
-was over-crowded with flowers, that the sky had a surplus population
-of stars, as of saying that there were too many good stories.
+was over-crowded with [[Flowers|flowers]], that the sky had a surplus population
+of [[Stars|stars]], as of saying that there were too many good stories.
 The Arabian Nights is a collection of extraordinarily good stories,
 and while the modern aesthetic critic will probably find the book
 too long, the person with a taste for literature will find it too short.
@@ -477,35 +477,35 @@ all possible perfections.
 Now length in the case of the Arabian Nights is not a mere
 material accident; it is one of the essential qualities,
 one of the essential virtues of the book.  A short Arabian Nights
-is as unthinkable as a neat wilderness or a snug cathedral.
+is as unthinkable as a neat wilderness or a snug [[Cathedral|cathedral]].
 The whole plan of the book is one vast conspiracy to entrap the reader
 into a condition of everlasting attention.  By a supreme stroke of genius
 the compiler expressed this in the primary framework and outline.
 He made the teller of the stories a person inspired to prolong
-the stories infinitely by the devouring desire of life.
+the stories infinitely by the devouring [[Desire|desire]] of life.
 It made the wish for an everlasting story one with the wish for an
 everlasting earthly existence.  He made Scheherezade suddenly paralyze
-the tyrant when the sword was uplifted by a vision of all the stories
+the [[Tyrant|tyrant]] when the [[Sword|sword]] was uplifted by a vision of all the stories
 that remained to be told in the world.  She lured him into the golden
 and enchanted chamber of the first story and then the work was done.
 He could not get away from the puzzling and alluring sequence
 of that chain of tales, that endless series of delightful mantraps.
 Rooms within rooms opened their tempting and tantalizing doors, stories
 within stories promised a complicated and even confusing pleasure.
-The tyrant can sway kingdoms, and command multitudes,
+The [[Tyrant|tyrant]] can sway kingdoms, and command multitudes,
 but he cannot discover exactly what happened to a fabulous
 prince or princess unless he asks for it.  He has to wait,
 almost to fawn upon a wretched slave for the fag-end of an old tale.
 Never in any other book, perhaps, has such a splendid tribute been
-offered to the pride and omnipotence of art.
+offered to the [[Pride|pride]] and omnipotence of art.
 
 This is the real idea behind the Arabian Nights.  The richness
-which first strikes the imagination in reading it is a mere symbol.
+which first strikes the [[Imagination|imagination]] in reading it is a mere symbol.
 The richness of gold, silver and jewels is a mere figure and
 representation of that which is the essential idea, the deep
 and enduring richness of life.  The preciousness of emerald
-and amethyst and sandalwood is only the parable and expression of
-the preciousness of stones, dust, and dogs running in the streets.
+and amethyst and sandalwood is only the [[Parable|parable]] and expression of
+the preciousness of stones, [[Dust|dust]], and [[dogs]] running in the streets.
 In the Arabian Nights everything has a story to tell.  Three men
 come together; one is leading a gazelle, another a dog, another a mule.
 But the gazelle is an enchanted human being, the dog is a transformed
@@ -522,10 +522,10 @@ sat down to teach.  There are not, perhaps, many points of resemblance
 between two such products of Oriental literature as The Book of Job
 and the Arabian Nights.  But there is this in common between them,
 that we feel that both must have been narrated by somebody who was
-sitting down, while Ulysses the typical Greek, was toiling with oar
+sitting down, while [[Ulysses]] the typical Greek, was toiling with oar
 and rudder to discover new isles and peninsulas, Job, the typical Jew,
 was reviewing the whole of heaven and earth while sitting on
-a dust-heap. Similarly, the Sultan of the Indies heard the tales
+a [[Dust|dust]]-heap. Similarly, the Sultan of the Indies heard the tales
 of the four quarters of the earth while sitting on a cushion.
 The essential point, the essential lesson of these Oriental
 literatures is the clear and most moral lesson of idleness.
@@ -571,7 +571,7 @@ really connected with the most fighting Christianity of falling Rome
 or with the most heathen traditions hidden in the hills of Wales.
 But the word `Mappe' or `Malory' will always mean King Arthur;
 even though we find older and better origins than the Mabinogian;
-or write later and worse versions than the `Idylls of the King.'
+or write later and worse versions than the `Idylls of the [[King]].'
 The nursery fairy-tales may have come out of Asia with the
 Indo-European race, now fortunately extinct; they may have been
 invented by some fine French lady or gentlemen like Perrault:
@@ -726,12 +726,12 @@ and try to compare them or say what they were like, it will quite
 certainly sound as though I were praising one and blaming the other.
 This is simply because we cannot vary praise as we vary blame.
 One of these men was Charles Dodgson, commonly known as Lewis Carroll,
-a don at Oxford and a very Victorian English clergyman, the other was
+a don at [[Oxford]] and a very Victorian English clergyman, the other was
 Hans Christian Andersen, a queer, cranky and visionary Danish peasant,
 and the author of immortal tales.
 
 When I say that Lewis Carroll was very Victorian, that will sound
-like a reproach, though it ought to be a compliment as well
+like a reproach, though it ought to be a compliment as [[Well|well]]
 as a reproach--only it is so much more difficult to find words
 to fit what was good in Victorian England than what was bad in it.
 If I say that Dodgson the don was conventional or comfortable
@@ -742,7 +742,7 @@ do go along with conventions and comforts.
 
 It is abominably stupid to call the Victorian Age merely conventional
 and comfortable, and to forget the fact that it produced a new
-kind of poetry which was supremely wild and supremely innocent.
+kind of poetry which was supremely wild and supremely [[Innocent|innocent]].
 It was the poetry of pure nonsense, which has never been
 known in the world before and may never be known again.
 Lewis Carroll was not the only example:  Edward Lear, I think,
@@ -978,7 +978,7 @@ He is praised for being `true to life', while his true merit is not
 that he is true to life, but alive.  It is common to hear a man
 say when Dickens is accused of exaggeration, "I have met a man
 exactly like Pecksniff."  Of course, to begin with, he has not met
-a person like Pecksniff any more than he has met one like Caliban.
+a person like Pecksniff any more than he has met one like [[Caliban]].
 And further, if he had met a man exactly like Pecksniff,
 it would go far to show that Dickens was not a great novelist.
 Since no two men in real life are exactly like each other, so no
@@ -1113,11 +1113,11 @@ For it is only the things which are deliberately built to last
 for ever which cannot do so.
 
 The real reason of the temporary eclipse of the fame of Dickens
-is not that he was a faulty artist but that he expressed almost
+is not that he was a faulty [[Artist|artist]] but that he expressed almost
 faultlessly a certain class of thoughts and emotions which happen
 at this moment to be almost absent from the cultivated class.
 It was not that he expressed badly but that we know nothing at all
-about the kind of thought and sentiment that he expressed well.
+about the kind of thought and sentiment that he expressed [[Well|well]].
 It was not that he had a deficiency in his art, it is we that have
 a deficiency in our experience.  The work of Dickens appears to us
 rambling and shapeless for precisely the same reason that the work
@@ -1126,9 +1126,9 @@ There is a mood at the back of the whole work of Dickens as much
 as there is a mood at the back of the whole work of Maeterlinck;
 and it must be confessed with shame, as far as I am concerned,
 that our mood is the mood of Maeterlinck and not the mood of Dickens.
-To `E.A.B.' and his school, `Pickwick' is not exactly either good or bad;
-it is simply not a novel at all.  To the very best critics of Dickens'
-time, `Pelleas and Melisande' would have been something not exactly
+To `E.A.B.' and his school, `[[Pickwick]]' is not exactly either good or bad;
+it is simply not a [[Novel|novel]] at all.  To the very best critics of Dickens'
+[[Time|time]], `Pelleas and Melisande' would have been something not exactly
 good or bad but simply not a drama at all.  If they had seen it
 acted they would not have thought that the drama was deteriorating.
 They would only have thought that they themselves were going mad.
@@ -1152,11 +1152,11 @@ Not the most secret volume of eighteenth-century atheism had conceived
 in its wrath and satire such a celestial parody as these painters
 had conceived in their humility and faith.  Such was the impression
 which Christian art produced on the whole of the `age des philosophes':
-that it was an example of an almost shocking innocence like a baby's
+that it was an example of an almost shocking [[innocence]] like a baby's
 picture of God.
 
 Then came the nineteenth century when man felt again
-the same emotions which had been felt in the time of Giotto.
+the same emotions which had been felt in the [[Time|time]] of Giotto.
 Men of the boldest and most liberal intellects began to dream
 the great medieval dream of a united and devout Christendom.
 Men of the ripest taste and opinion began to join celibate
@@ -1173,7 +1173,7 @@ a quaint and delicate severity.  The landscapes that looked absurd
 now looked enchanted; they were lit with the morning of the world.
 The faces that had been hideous had grown beautiful like the face
 of a good man when we have come to know him and cannot imagine
-any other features being the perfect picture of his soul.
+any other features being the perfect picture of his [[Soul|soul]].
 This is what has happened again and again in the world and will
 continue to happen until the end.  When a set of emotions are
 unfamiliar to a people, the art which expresses them will appear
@@ -1199,16 +1199,16 @@ that what he calls formlessness was in fact a well-known and
 celebrated artistic form among the elder and more convivial writers.
 The sprawling and seemingly disconnected novel of comic adventure
 was a recognized and excellent form of art.  Recent criticism I
-believe is accustomed to describe it as the `picaresque' novel.
+believe is accustomed to describe it as the `picaresque' [[Novel|novel]].
 For when we come to think of it, the whole point is very simple.
 The new impressionist method of brevity, restraint, and an adhesion
 to one central image or incident is the right and proper literary
 form to express the kind of things which the new Impressionist
-novel wishes to express; the little ironies, the sad small stories
-that end without an ending; the faces that are too bitter for tears.
+[[Novel|novel]] wishes to express; the little ironies, the sad small stories
+that end without an ending; the faces that are too bitter for [[Tears|tears]].
 About these sort of things it may be said, not as a commonplace phrase,
 but as a sound and telling rule of art, that the less said about
-them the better.  One flash of literary lightning revealing a woman
+them the better.  One flash of literary [[Lightning|lightning]] revealing a woman
 dead in a garret with a victorious army marching by is enough
 if the sentiment concerned is the sentiment of a pitiful irony.
 But it is not enough if the sentiment is that of the ancient
@@ -1223,27 +1223,27 @@ misfortune we all desire to say little and that the words in a French
 short story should be few, like the words in a house of mourning.
 But the moment we come into the atmosphere of positive delight
 and exultation a new element enters in, the desire to linger.
-Books like `Pickwick' are the most lingering.  Men linger over
+Books like `[[Pickwick]]' are the most lingering.  Men linger over
 their walks, over their talks, over their stories, over their dinners.
 All the characters seem friends who are talking together far into
-an immortal night to which no grey morning ever comes.
+an immortal [[Night|night]] to which no grey morning ever comes.
 
-The formlessness of `Pickwick' is therefore its form.
-This mood of exuberance has two natural expressions, the desire
-to linger and the desire to ramble.  If Pickwick and his friends
+The formlessness of `[[Pickwick]]' is therefore its form.
+This mood of exuberance has two natural expressions, the [[Desire|desire]]
+to linger and the [[Desire|desire]] to ramble.  If [[Pickwick]] and his friends
 were not continually crossing a crowded stage which was for ever
 changing like a transformation scene and of which they only were
 the constant factors, it would not be a better book but a worse.
 If the whole story revolved round one incident like a story by Guy
 de Maupassant, if everything turned on the Fancy Dress Ball at Eatonswill
 or the Cricket Match at Dingley Dell, if the central symbol of the whole
-story were Mr. Sawyer's red handkerchief or Mr. Winkle's horse;
-if the Pickwick Papers in short were only a brilliant fragment
+story were Mr. Sawyer's red handkerchief or Mr. Winkle's [[Horse|horse]];
+if the [[Pickwick]] Papers in short were only a brilliant [[Fragment|fragment]]
 of psychology about the fat boy, or a sad sea-green little idyll
 about Mr. Stiggins, it would not be a better book but a worse,
 for it would have lost its supreme meaning even as we have lost its
-sense of a world almost choked with adventure and a hero constant
-only in the mutability of a comic Ulysses, faithful only to his
+sense of a world almost choked with adventure and a [[Hero|hero]] constant
+only in the [[Mutability|mutability]] of a comic [[Ulysses]], faithful only to his
 own omnivorous fickleness.
 
 
@@ -1252,24 +1252,24 @@ CHARLOTTE BRONTE AS A ROMANTIC
 THE GENIUS OF Charlotte Bronte is unique in the only valuable sense in
 which the word can be applied; the only sense which separates the rarity
 of some gift in a poet from the rarity of some delusion in an asylum.
-However complex or even grotesque an artistic power may be, it must
+However complex or even [[Grotesque|grotesque]] an artistic power may be, it must
 be as these qualities exist in a key, which is one of the most
-complex and grotesque of human objects, but which has for its
+complex and [[Grotesque|grotesque]] of human objects, but which has for its
 object the opening of doors and the entrance into wider things.
 Charlotte Bronte's art was something more or less than complex;
-and it was not to be described as grotesque; except rarely--
+and it was not to be described as [[Grotesque|grotesque]]; except rarely--
 and unintentionally, But it was temperamental and, like all
 things depending on temperament, unequal; and it was so personal
 as to be perverse.  It is in connection with power of this kind,
 however creative, that we have to discover and define what
 distinguished it from the uncreative intensity of the insane.
 I cannot understand what it was that made the Philistines of a
-former generation regard Jane Eyre as morally unsound; probably it
-was its almost exaggerated morality.  But if they had regarded
+former generation regard [[Jane Eyre]] as morally unsound; probably it
+was its almost exaggerated [[morality]].  But if they had regarded
 it as mentally unsound, I could have understood their prejudice,
-while perceiving the nature of their error.
+while perceiving the [[Nature|nature]] of their error.
 
-Jane Eyre is, among other things, one of the finest detective stories
+[[Jane Eyre]] is, among other things, one of the finest [[Detective|detective]] stories
 in the world; and for any one artistically attuned to that rather
 electric atmosphere, the discovery of the mad wife of Rochester is,
 as that type of sensation should always be, at once startling
@@ -1280,27 +1280,27 @@ and that even the governess herself was a little queer.
 Such a critic, however, would be ill-taught, as people often are in
 tame schools; for the mildest school is anything but the most moral.
 The distinction between the liberating violence that belongs
-to virtue, as distinct from the merely burrowing and self-burying
+to virtue, as distinct from the merely burrowing and [[Self|self]]-burying
 violence that belongs to vice, is something that can only be
 conveyed by metaphors; such as that I have used about the key.
 Some may feel disposed to say that the Bronte spirit was not
 so much a key as a battering ram.  She had indeed some command
 of both instruments, and could use the more domestic one quietly
 enough at times; but the vital point is that they opened the doors.
-Or it might be said that Jane Eyre and the mad woman lived in the same
-dark and rambling house of mystery, but for the maniac all doors
+Or it might be said that [[Jane Eyre]] and the mad woman lived in the same
+dark and rambling [[house]] of mystery, but for the maniac all doors
 opened continually inwards, while for the heroine all doors,
 one after the other, opened outwards towards the sun.
 
 One of these universal values in the case of Charlotte Bronte
 is the light she throws on a very fashionable aesthetic fallacy:
-the over-iterated contrast between realism and romance.
+the over-iterated contrast between realism and [[Romance|romance]].
 They are spoken of as if they were two alternative types of art,
 and sometimes even as if they were two antagonistic directions
-of spiritual obligation.  But in truth they are things
+of spiritual obligation.  But in [[Truth|truth]] they are things
 in two different categories; and, like all such things,
 can exist together, or apart, or in any degree of combination.
-Romance is a spirit; and as for realism, it is a convention.
+[[Romance]] is a spirit; and as for realism, it is a convention.
 To say that some literary work is realistic, not romantic,
 is to be as inconsequent as the man who said to me once, "The Irish
 are warm-hearted, not logical."  He, at any rate, was not logical,
@@ -1310,18 +1310,18 @@ was red-haired rather than athletic.
 There is no reason why a man with strong reasoning power
 should not have strong affections; and it is my experience,
 if anything, that the man who can argue clearly in the abstract
-generally does have a generosity of blood and instincts.
+generally does have a generosity of [[Blood|blood]] and instincts.
 But he may not have it, for the things are in different categories.
 This case of an error about the Irish has some application to
-the individual case of Charlotte Bronte, who was Irish by blood,
+the individual case of Charlotte Bronte, who was Irish by [[Blood|blood]],
 and in a sense, all the more Irish for being brought up in Yorkshire.
-An Irish friend of mine, who suffers the same exile in the
+An Irish friend of mine, who suffers the same [[Exile|exile]] in the
 same environment, once made to me the suggestive remark that the
 towering and over-masculine barbarians and lunatics who dominate
 the Bronte novels, simply represent the impression produced
 by the rather boastful Yorkshire manners upon the more civilized
 and sensitive Irish temperament.  But the wider application is
-that romance is an atmosphere, as distinct as a separate dimension,
+that [[Romance|romance]] is an atmosphere, as distinct as a separate dimension,
 which co-exists with and penetrates the whole work of Charlotte Bronte;
 and is equally present in all her considerable triumphs of realism,
 and in her even greater triumphs of unreality.
@@ -1330,16 +1330,16 @@ Realism is a convention, as I have said; it is generally a matter
 of external artistic form, when it is not a matter of mere fashion
 or convenience, how far the details of life are given, or how far
 they are the details of the life we know best.  It may be rather
-more difficult to describe a winged horse than a war horse;
+more difficult to describe a winged [[Horse|horse]] than a war [[Horse|horse]];
 but after all it is as easy to count feathers as to count hairs;
-it is as easy and as dull.  The story about a hero in which the hairs
-of his horse were all numbered would not be a story at all;
+it is as easy and as dull.  The story about a [[Hero|hero]] in which the hairs
+of his [[Horse|horse]] were all numbered would not be a story at all;
 the line must be drawn a long while before we come to anything
 like literal reality; and the question of whether we give
-the horse his wings, or even trouble to mention his colour,
+the [[Horse|horse]] his wings, or even trouble to mention his colour,
 is merely a question of the artistic form we have chosen.
-It is the question between casting a horse in bronze or carving
-him in marble; not the question of describing a horse for
+It is the question between casting a [[Horse|horse]] in bronze or carving
+him in marble; not the question of describing a [[Horse|horse]] for
 the purposes of a zoologist or for the purposes of a bookie.
 But the spirit of the work is quite another thing.  Works of the wildest
 fantasticality in form can be filled with a rationalistic and even
@@ -1351,30 +1351,30 @@ but of the spirit of adventure.
 
 Few will be impelled to call the household of Mr. Rochester a
 humdrum environment, but it is none the less true that Charlotte Bronte
-can fill the quietest rooms and corners with a psychological romance
-which is rather a matter of temperature than of time or place.
-After all, the sympathetic treatment of Mr. Rochester in Jane Eyre
+can fill the quietest rooms and corners with a psychological [[Romance|romance]]
+which is rather a matter of temperature than of [[Time|time]] or place.
+After all, the sympathetic treatment of Mr. Rochester in [[Jane Eyre]]
 is not more intrinsically romantic and even exaggerative than
-the sympathetic treatment of Mr. Paul Emanuel in Villette;
+the sympathetic treatment of Mr. [[Paul Emanuel]] in [[Villette]];
 though the first may be superficially a sort of demon and the second
-more in the nature of an imp.  To present Mr. Emanuel sympathetically
+more in the [[Nature|nature]] of an imp.  To present Mr. Emanuel sympathetically
 at all was something of an arduous and chivalric adventure.
 And Charlotte Bronte was chivalric in this perfectly serious sense;
 perhaps in too serious a sense, for she paid for the red-hot
-reality of her romance in a certain insufficiency of humour.
+reality of her [[Romance|romance]] in a certain insufficiency of [[Humour|humour]].
 She was adventurous, but in an intensely individualistic and therefore
 an intensely womanly way.
 
 It is the most feminine thing about her that we can think of her
 as a knight-errant, but hardly as one of an order or round table of
 knights-errant. Thackeray said that she reminded him of Joan of Arc.
-But it is one of the fascinating elements in the long romance of
+But it is one of the fascinating elements in the long [[Romance|romance]] of
 Christendom that figures like Joan of Arc have an existence in reality.
 This vision of the solitary virgin, adventurous and in arms,
 is very old in European literature and mythology; and the spirit
 of it went with the little governess along the roads to the dark
-mansion of madness as if to the castle of an ogre.  The same rule
+mansion of [[Madness|madness]] as if to the [[Castle|castle]] of an ogre.  The same rule
 had run like a silver thread through the purple tapestries of Ariosto;
 and we may willingly salute in our great country-woman, especially amid
-the greatest epic of our country, something of that nobility
+the greatest [[Epic|epic]] of our country, something of that nobility
 which is in the very name of Britomart.

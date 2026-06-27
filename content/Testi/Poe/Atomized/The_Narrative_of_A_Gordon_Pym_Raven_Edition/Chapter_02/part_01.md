@@ -30,13 +30,13 @@ CHAPTER 2
 
       the sea. On the contrary, I never experienced a more ardent
 
-      longing for the wild adventures incident to the life of a
+      [[Longing|longing]] for the wild adventures incident to the life of a
 
       navigator than within a week after our miraculous deliverance.
 
       This short period proved amply long enough to erase from my
 
-      memory the shadows, and bring out in vivid light all the
+      [[Memory|memory]] the shadows, and bring out in vivid light all the
 
       pleasurably exciting points of color, all the picturesqueness, of
 
@@ -46,31 +46,31 @@ CHAPTER 2
 
       manner of relating his stories of the ocean (more than one half
 
-      of which I now suspect to have been sheer fabrications) well
+      of which I now suspect to have been sheer fabrications) [[Well|well]]
 
       adapted to have weight with one of my enthusiastic temperament
 
-      and somewhat gloomy although glowing imagination. It is strange,
+      and somewhat gloomy although glowing [[Imagination|imagination]]. It is strange,
 
       too, that he most strongly enlisted my feelings in behalf of the
 
       life of a seaman, when he depicted his more terrible moments of
 
-      suffering and despair. For the bright side of the painting I had
+      [[Suffering|suffering]] and [[Despair|despair]]. For the bright side of the painting I had
 
       a limited sympathy. My visions were of shipwreck and famine; of
 
-      death or captivity among barbarian hordes; of a lifetime dragged
+      [[Death|death]] or captivity among barbarian hordes; of a lifetime dragged
 
-      out in sorrow and tears, upon some gray and desolate rock, in an
+      out in sorrow and [[Tears|tears]], upon some gray and desolate rock, in an
 
       ocean unapproachable and unknown. Such visions or desires—for
 
       they amounted to desires—are common, I have since been assured,
 
-      to the whole numerous race of the melancholy among men—at the
+      to the whole numerous race of the [[Melancholy|melancholy]] among men—at the
 
-      time of which I speak I regarded them only as prophetic glimpses
+      [[Time|time]] of which I speak I regarded them only as prophetic glimpses
 
       of a destiny which I felt myself in a measure bound to fulfil.
 
@@ -82,9 +82,9 @@ CHAPTER 2
 
 
 
-      About eighteen months after the period of the Ariel’s disaster,
+      About eighteen months after the period of the [[Ariel]]’s disaster,
 
-      the firm of Lloyd and Vredenburgh (a house connected in some
+      the firm of Lloyd and Vredenburgh (a [[house]] connected in some
 
       manner with the Messieurs Enderby, I believe, of Liverpool) were
 
@@ -102,7 +102,7 @@ CHAPTER 2
 
       ready, he frequently urged upon me the excellency of the
 
-      opportunity now offered for indulging my desire of travel. He
+      opportunity now offered for indulging my [[Desire|desire]] of travel. He
 
       found me by no means an unwilling listener—yet the matter could
 
@@ -116,7 +116,7 @@ CHAPTER 2
 
       the subject to him again. These difficulties, however, so far
 
-      from abating my desire, only added fuel to the flame. I
+      from abating my [[Desire|desire]], only added fuel to the flame. I
 
       determined to go at all hazards; and, having made known my
 
@@ -130,13 +130,13 @@ CHAPTER 2
 
       abandoned the design. I have since frequently examined my conduct
 
-      on this occasion with sentiments of displeasure as well as of
+      on this occasion with sentiments of displeasure as [[Well|well]] as of
 
       surprise. The intense hypocrisy I made use of for the furtherance
 
       of my project—an hypocrisy pervading every word and action of my
 
-      life for so long a period of time—could only have been rendered
+      life for so long a period of [[Time|time]]—could only have been rendered
 
       tolerable to myself by the wild and burning expectation with
 
@@ -146,7 +146,7 @@ CHAPTER 2
 
 
 
-      In pursuance of my scheme of deception, I was necessarily obliged
+      In pursuance of my scheme of [[Deception|deception]], I was necessarily obliged
 
       to leave much to the management of Augustus, who was employed for
 
@@ -154,7 +154,7 @@ CHAPTER 2
 
       some arrangements for his father in the cabin and cabin hold. At
 
-      night, however, we were sure to have a conference and talk over
+      [[Night|night]], however, we were sure to have a conference and talk over
 
       our hopes. After nearly a month passed in this manner, without
 
@@ -162,11 +162,11 @@ CHAPTER 2
 
       me at last that he had determined upon everything necessary. I
 
-      had a relation living in New Bedford, a Mr. Ross, at whose house
+      had a relation living in New Bedford, a Mr. Ross, at whose [[house]]
 
       I was in the habit of spending occasionally two or three weeks at
 
-      a time. The brig was to sail about the middle of June (June,
+      a [[Time|time]]. The brig was to sail about the middle of June (June,
 
       1827), and it was agreed that, a day or two before her putting to
 
@@ -196,4 +196,4 @@ CHAPTER 2
 
       at the joke. Vessels enough would be met with by which a letter
 
-      might be sent home explaining the adventure to my parents.
+      might be sent [[Home|home]] explaining the adventure to my parents.

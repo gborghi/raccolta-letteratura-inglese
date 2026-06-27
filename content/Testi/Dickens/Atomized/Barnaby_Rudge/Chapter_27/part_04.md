@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 27 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 27 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -26,18 +26,18 @@ dare to think of such a thing!’
 
 ‘My dear madam, that’s the whole case. I know it would be like his
 impudence. It is like Ned’s impudence to do as he has done; but you
-would not on that account, or because of a few tears from your beautiful
+would not on that account, or because of a few [[Tears|tears]] from your beautiful
 daughter, refrain from checking their inclinations in their birth. I
 meant to have reasoned thus with your husband when I saw him at Mrs
 Rudge’s this evening--’
 
 ‘My husband,’ said Mrs Varden, interposing with emotion, ‘would be a
-great deal better at home than going to Mrs Rudge’s so often. I don’t
+great deal better at [[Home|home]] than going to Mrs Rudge’s so often. I don’t
 know what he does there. I don’t see what occasion he has to busy
 himself in her affairs at all, sir.’
 
 ‘If I don’t appear to express my concurrence in those last sentiments of
-yours,’ returned Mr Chester, ‘quite so strongly as you might desire,
+yours,’ returned Mr Chester, ‘quite so strongly as you might [[Desire|desire]],
 it is because his being there, my dear madam, and not proving
 conversational, led me hither, and procured me the happiness of
 this interview with one, in whom the whole management, conduct, and
@@ -50,14 +50,14 @@ eyes--proceeded in the same strain of mingled sophistry, cajolery,
 and flattery, to entreat that her utmost influence might be exerted to
 restrain her husband and daughter from any further promotion of Edward’s
 suit to Miss Haredale, and from aiding or abetting either party in any
-way. Mrs Varden was but a woman, and had her share of vanity, obstinacy,
-and love of power. She entered into a secret treaty of alliance,
+way. Mrs Varden was but a woman, and had her share of [[Vanity|vanity]], obstinacy,
+and [[Love|love]] of power. She entered into a secret treaty of alliance,
 offensive and defensive, with her insinuating visitor; and really did
 believe, as many others would have done who saw and heard him, that in
-so doing she furthered the ends of truth, justice, and morality, in a
+so doing she furthered the ends of [[Truth|truth]], justice, and [[morality]], in a
 very uncommon degree.
 
-Overjoyed by the success of his negotiation, and mightily amused within
+Overjoyed by the [[success]] of his negotiation, and mightily amused within
 himself, Mr Chester conducted her downstairs in the same state as
 before; and having repeated the previous ceremony of salutation, which
 also as before comprehended Dolly, took his leave; first completing the
@@ -87,7 +87,7 @@ behind their backs in my presence, miss,’ said Mrs Varden, ‘I shall
 insist upon your taking a candle and going to bed directly. How dare
 you, Dolly? I’m astonished at you. The rudeness of your whole behaviour
 this evening has been disgraceful. Did anybody ever hear,’ cried the
-enraged matron, bursting into tears, ‘of a daughter telling her own
+enraged matron, bursting into [[Tears|tears]], ‘of a daughter telling her own
 mother she has been made game of!’
 
 What a very uncertain temper Mrs Varden’s was!

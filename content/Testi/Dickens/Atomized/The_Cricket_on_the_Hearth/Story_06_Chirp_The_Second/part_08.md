@@ -22,7 +22,7 @@ which she was used to fill it; but her hand shook so, that she entangled
 it (and yet her hand was small enough to have come out easily, I am
 sure), and bungled terribly. The filling of the pipe and lighting it,
 those little offices in which I have commended her discretion, were
-vilely done from first to last. During the whole process, Tackleton
+vilely done from first to last. During the whole process, [[Tackleton]]
 stood looking on maliciously with the half-closed eye; which, whenever
 it met hers--or caught it, for it can hardly be said to have ever met
 another eye: rather being a kind of trap to snatch it up--augmented her
@@ -32,15 +32,15 @@ confusion in a most remarkable degree.
 have done it better myself, I verily believe!"
 
 With these good-natured words, he strode away, and presently was heard,
-in company with Boxer, and the old horse, and the cart, making lively
-music down the road. What time the dreamy Caleb still stood, watching
+in company with Boxer, and the old [[Horse|horse]], and the cart, making lively
+music down the [[Road|road]]. What [[Time|time]] the dreamy Caleb still stood, watching
 his blind daughter, with the same expression on his face.
 
 "Bertha!" said Caleb, softly. "What has happened? How changed you are,
 my darling, in a few hours--since this morning! _You_ silent and dull
 all day! What is it? Tell me!"
 
-"Oh, father, father!" cried the Blind Girl, bursting into tears. "Oh, my
+"Oh, father, father!" cried the Blind Girl, bursting into [[Tears|tears]]. "Oh, my
 hard, hard fate!"
 
 Caleb drew his hand across his eyes before he answered her.
@@ -61,7 +61,7 @@ its fulness. Never! I have sometimes wished that I could see you, or
 could see him--only once, dear father, only for one little minute--that
 I might know what it is I treasure up," she laid her hands upon her
 breast, "and hold here! That I might be sure I have it right! And
-sometimes (but then I was a child) I have wept in my prayers at night,
+sometimes (but then I was a [[Child|child]]) I have wept in my prayers at [[Night|night]],
 to think that, when your images ascended from my heart to Heaven, they
 might not be the true resemblance of yourselves. But I have never had
 these feelings long. They have passed away, and left me tranquil and
@@ -85,19 +85,19 @@ touched her on the arm. The Blind Girl turned immediately, and held her
 by both hands.
 
 "Look into my face, Dear heart, Sweet heart!" said Bertha. "Read it
-with your beautiful eyes, and tell me if the truth is written on it."
+with your beautiful eyes, and tell me if the [[Truth|truth]] is written on it."
 
 "Dear Bertha, yes!"
 
 The Blind Girl, still upturning the blank sightless face, down which the
-tears were coursing fast, addressed her in these words:
+[[Tears|tears]] were coursing fast, addressed her in these words:
 
-"There is not, in my soul, a wish or thought that is not for your good,
-bright May! There is not, in my soul, a grateful recollection stronger
+"There is not, in my [[Soul|soul]], a wish or thought that is not for your good,
+bright May! There is not, in my [[Soul|soul]], a grateful recollection stronger
 than the deep remembrance which is stored there of the many many times
-when, in the full pride of sight and beauty, you have had consideration
+when, in the full [[Pride|pride]] of sight and [[Beauty|beauty]], you have had consideration
 for Blind Bertha, even when we two were children, or when Bertha was as
-much a child as ever blindness can be! Every blessing on your head!
+much a [[Child|child]] as ever blindness can be! Every blessing on your head!
 Light upon your happy course! Not the less, my dear May,"--and she drew
 towards her in a closer grasp,--"not the less, my bird, because, to-day,
 the knowledge that you are to be His wife has wrung my heart almost to
@@ -106,20 +106,20 @@ of all he has done to relieve the weariness of my dark life: and for the
 sake of the belief you have in me, when I call Heaven to witness that I
 could not wish him married to a wife more worthy of his goodness!"
 
-While speaking, she had released May Fielding's hands, and clasped her
-garments in an attitude of mingled supplication and love. Sinking lower
+While speaking, she had released [[May Fielding]]'s hands, and clasped her
+garments in an attitude of mingled supplication and [[Love|love]]. Sinking lower
 and lower down, as she proceeded in her strange confession, she dropped
 at last at the feet of her friend, and hid her blind face in the folds
 of her dress.
 
-"Great Power!" exclaimed her father, smitten at one blow with the truth,
+"Great Power!" exclaimed her father, smitten at one blow with the [[Truth|truth]],
 "have I deceived her from her cradle, but to break her heart at last?"
 
-It was well for all of them that Dot, that beaming, useful, busy little
+It was [[Well|well]] for all of them that Dot, that beaming, useful, busy little
 Dot--for such she was, whatever faults she had, and however you may
-learn to hate her, in good time--it was well for all of them, I say,
+learn to hate her, in good [[Time|time]]--it was [[Well|well]] for all of them, I say,
 that she was there, or where this would have ended, it were hard to
-tell. But Dot, recovering her self-possession, interposed, before May
+tell. But Dot, recovering her [[Self|self]]-possession, interposed, before May
 could reply, or Caleb say another word.
 
 "Come, come, dear Bertha! come away with me! Give her your arm, May! So.
@@ -128,8 +128,8 @@ us," said the cheery little woman, kissing her upon the forehead. "Come
 away, dear Bertha! Come! and here's her good father will come with her,
 won't you, Caleb? To--be--sure!"
 
-Well, well! she was a noble little Dot in such things, and it must have
-been an obdurate nature that could have withstood her influence. When
+[[Well]], [[Well|well]]! she was a noble little Dot in such things, and it must have
+been an obdurate [[Nature|nature]] that could have withstood her influence. When
 she had got poor Caleb and his Bertha away, that they might comfort and
 console each other, as she knew they only could, she presently came
 bouncing back,--the saying is, as fresh as any daisy; _I_ say
@@ -138,6 +138,6 @@ in the cap and gloves, and prevent the dear old creature from making
 discoveries.
 
 "So bring me the precious Baby, Tilly," said she, drawing a chair to the
-fire; "and while I have it in my lap, here's Mrs. Fielding, Tilly, will
+[[Fire|fire]]; "and while I have it in my lap, here's Mrs. Fielding, Tilly, will
 tell me all about the management of Babies, and put me right in twenty
 points where I'm as wrong as can be. Won't you, Mrs. Fielding?"

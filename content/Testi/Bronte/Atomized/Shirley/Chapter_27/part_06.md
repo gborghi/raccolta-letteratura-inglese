@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 27 (part 6)"
+title: "[[Shirley]] — Chapter 27 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,7 +22,7 @@ The gentle charm vouchsafed to flower and tree, bestowed on deer and
 
 dove, has not been denied to the human nursling. All solitary, she has
 
-sprung up straight and graceful. Nature cast her features in a fine
+sprung up straight and graceful. [[Nature]] cast her features in a fine
 
 mould; they have matured in their pure, accurate first lines, unaltered
 
@@ -48,13 +48,13 @@ of what one so untaught can think it is not easy to divine.
 
 
 
-On the evening of one summer day, before the Flood, being utterly
+On the evening of one [[Summer|summer]] day, before the Flood, being utterly
 
-alone--for she had lost all trace of her tribe, who had wandered leagues
+[[Alone|alone]]--for she had lost all trace of her tribe, who had wandered leagues
 
 away, she knew not where--she went up from the vale, to watch Day take
 
-leave and Night arrive. A crag overspread by a tree was her station. The
+leave and [[Night]] arrive. A crag overspread by a tree was her station. The
 
 oak roots, turfed and mossed, gave a seat; the oak boughs, thick-leaved,
 
@@ -62,11 +62,11 @@ wove a canopy.
 
 
 
-Slow and grand the Day withdrew, passing in purple fire, and parting to
+Slow and grand the Day withdrew, passing in purple [[Fire|fire]], and parting to
 
-the farewell of a wild, low chorus from the woodlands. Then Night
+the farewell of a wild, low [[Chorus|chorus]] from the woodlands. Then [[Night]]
 
-entered, quiet as death. The wind fell, the birds ceased singing. Now
+entered, quiet as [[Death|death]]. The [[Wind|wind]] fell, the [[Birds|birds]] ceased singing. Now
 
 every nest held happy mates, and hart and hind slumbered blissfully safe
 
@@ -74,15 +74,15 @@ in their lair.
 
 
 
-The girl sat, her body still, her soul astir; occupied, however, rather
+The girl sat, her [[Body|body]] still, her [[Soul|soul]] astir; occupied, however, rather
 
 in feeling than in thinking, in wishing than hoping, in imagining than
 
-projecting. She felt the world, the sky, the night, boundlessly mighty.
+projecting. She felt the world, the sky, the [[Night|night]], boundlessly mighty.
 
 Of all things herself seemed to herself the centre--a small, forgotten
 
-atom of life, a spark of soul, emitted inadvertent from the great
+atom of life, a spark of [[Soul|soul]], emitted inadvertent from the great
 
 creative source, and now burning unmarked to waste in the heart of a
 
@@ -106,7 +106,7 @@ which it insisted she should find exercise?
 
 She gazed abroad on Heaven and Evening. Heaven and Evening gazed back on
 
-her. She bent down, searching bank, hill, river, spread dim below. All
+her. She bent down, searching bank, [[Hill|hill]], [[River|river]], spread dim below. All
 
 she questioned responded by oracles. She heard--she was impressed; but
 
@@ -126,7 +126,7 @@ There was no voice, nor any that answered.
 
 She waited, kneeling, steadfastly looking up. Yonder sky was sealed; the
 
-solemn stars shone alien and remote.
+solemn [[Stars|stars]] shone alien and remote.
 
 
 
@@ -134,13 +134,13 @@ At last one overstretched chord of her agony slacked; she thought
 
 Something above relented; she felt as if Something far round drew
 
-nigher; she heard as if Silence spoke. There was no language, no word,
+nigher; she heard as if [[Silence]] spoke. There was no language, no word,
 
 only a tone.
 
 
 
-Again--a fine, full, lofty tone, a deep, soft sound, like a storm
+Again--a fine, full, lofty tone, a deep, soft sound, like a [[Storm|storm]]
 
 whispering, made twilight undulate.
 
@@ -158,7 +158,7 @@ Yet again--a distinct voice passed between Heaven and Earth.
 
 
 
-If Eva were not this woman's name, she had none. She rose. "Here am I."
+If Eva were not this woman's name, she had none. She [[Rose|rose]]. "Here am I."
 
 
 
@@ -166,7 +166,7 @@ If Eva were not this woman's name, she had none. She rose. "Here am I."
 
 
 
-"O Night (it can be but Night that speaks), I am here!"
+"O [[Night]] (it can be but [[Night]] that speaks), I am here!"
 
 
 
@@ -194,7 +194,7 @@ She had her religion--all tribes held some creed.
 
 
 
-The Evening flushed full of hope; the Air panted; the Moon--rising
+The Evening flushed full of [[Hope|hope]]; the Air panted; the [[Moon]]--rising
 
 before--ascended large, but her light showed no shape.
 
@@ -218,7 +218,7 @@ drink of my cup!"
 
 arid heart revives; my affliction is lightened; my strait and struggle
 
-are gone. And the night changes! the wood, the hill, the moon, the wide
+are gone. And the [[Night|night]] changes! the wood, the [[Hill|hill]], the [[Moon|moon]], the wide
 
 sky--all change!"
 
@@ -230,7 +230,7 @@ from thy faculties fetters! I level in thy path obstacles; I with my
 
 presence fill vacancy. I claim as mine the lost atom of life. I take to
 
-myself the spark of soul--burning heretofore forgotten!"
+myself the spark of [[Soul|soul]]--burning heretofore forgotten!"
 
 
 
@@ -262,7 +262,7 @@ mine own. Acknowledge in me that Seraph on earth named Genius."
 
 at last I possess. I receive a revelation. The dark hint, the obscure
 
-whisper, which have haunted me from childhood, are interpreted. Thou art
+whisper, which have haunted me from [[Childhood|childhood]], are interpreted. Thou art
 
 He I sought. Godborn, take me, thy bride!"
 
@@ -276,7 +276,7 @@ wert sent."
 
 
 
-That Presence, invisible but mighty, gathered her in like a lamb to the
+That Presence, invisible but mighty, gathered her in like a [[Lamb|lamb]] to the
 
 fold; that voice, soft but all-pervading, vibrated through her heart
 

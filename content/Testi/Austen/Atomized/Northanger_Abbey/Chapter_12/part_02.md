@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 11 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 11 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -34,7 +34,7 @@ I saw them—does he not drive a phaeton with bright chestnuts?”
 
 “Yes, I know he does; I saw him. You are talking of the man you danced
 
-with last night, are not you?”
+with last [[Night|night]], are not you?”
 
 
 
@@ -42,7 +42,7 @@ with last night, are not you?”
 
 
 
-“Well, I saw him at that moment turn up the Lansdown Road, driving a
+“[[Well]], I saw him at that moment turn up the Lansdown [[Road]], driving a
 
 smart-looking girl.”
 
@@ -52,7 +52,7 @@ smart-looking girl.”
 
 
 
-“Did upon my soul; knew him again directly, and he seemed to have got
+“Did upon my [[Soul|soul]]; knew him again directly, and he seemed to have got
 
 some very pretty cattle too.”
 
@@ -64,21 +64,21 @@ walk.”
 
 
 
-“And well they might, for I never saw so much dirt in my life. Walk!
+“And [[Well|well]] they might, for I never saw so much dirt in my life. Walk!
 
 You could no more walk than you could fly! it has not been so dirty the
 
-whole winter; it is ankle-deep everywhere.”
+whole [[Winter|winter]]; it is ankle-deep everywhere.”
 
 
 
-Isabella corroborated it: “My dearest Catherine, you cannot form an
+[[Isabella]] corroborated it: “My dearest Catherine, you cannot form an
 
 idea of the dirt; come, you must go; you cannot refuse going now.”
 
 
 
-“I should like to see the castle; but may we go all over it? May we go
+“I should like to see the [[Castle|castle]]; but may we go all over it? May we go
 
 up every staircase, and into every suite of rooms?”
 
@@ -112,7 +112,7 @@ going as far as Wick Rocks.”
 
 “Mrs. Allen, you must persuade her to go,” was the general cry. Mrs.
 
-Allen was not inattentive to it: “Well, my dear,” said she, “suppose
+Allen was not inattentive to it: “[[Well]], my dear,” said she, “suppose
 
 you go.” And in two minutes they were off.
 
@@ -122,15 +122,15 @@ Catherine’s feelings, as she got into the carriage, were in a very
 
 unsettled state; divided between regret for the loss of one great
 
-pleasure, and the hope of soon enjoying another, almost its equal in
+pleasure, and the [[Hope|hope]] of soon enjoying another, almost its equal in
 
 degree, however unlike in kind. She could not think the Tilneys had
 
-acted quite well by her, in so readily giving up their engagement,
+acted quite [[Well|well]] by her, in so readily giving up their engagement,
 
 without sending her any message of excuse. It was now but an hour later
 
-than the time fixed on for the beginning of their walk; and, in spite
+than the [[Time|time]] fixed on for the beginning of their walk; and, in spite
 
 of what she had heard of the prodigious accumulation of dirt in the
 
@@ -142,7 +142,7 @@ feel herself slighted by them was very painful. On the other hand, the
 
 delight of exploring an edifice like Udolpho, as her fancy represented
 
-Blaize Castle to be, was such a counterpoise of good as might console
+Blaize [[Castle]] to be, was such a counterpoise of good as might console
 
 her for almost anything.
 
@@ -150,7 +150,7 @@ her for almost anything.
 
 They passed briskly down Pulteney Street, and through Laura Place,
 
-without the exchange of many words. Thorpe talked to his horse, and she
+without the exchange of many words. Thorpe talked to his [[Horse|horse]], and she
 
 meditated, by turns, on broken promises and broken arches, phaetons and
 
@@ -178,7 +178,7 @@ Tilney; it is indeed. How could you tell me they were gone? Stop, stop,
 
 I will get out this moment and go to them.” But to what purpose did she
 
-speak? Thorpe only lashed his horse into a brisker trot; the Tilneys,
+speak? Thorpe only lashed his [[Horse|horse]] into a brisker trot; the Tilneys,
 
 who had soon ceased to look after her, were in a moment out of sight
 
@@ -192,7 +192,7 @@ Thorpe. I cannot go on. I will not go on. I must go back to Miss
 
 Tilney.” But Mr. Thorpe only laughed, smacked his whip, encouraged his
 
-horse, made odd noises, and drove on; and Catherine, angry and vexed as
+[[Horse|horse]], made odd noises, and drove on; and Catherine, angry and vexed as
 
 she was, having no power of getting away, was obliged to give up the
 
@@ -200,7 +200,7 @@ point and submit. Her reproaches, however, were not spared. “How could
 
 you deceive me so, Mr. Thorpe? How could you say that you saw them
 
-driving up the Lansdown Road? I would not have had it happen so for the
+driving up the Lansdown [[Road]]? I would not have had it happen so for the
 
 world. They must think it so strange, so rude of me! to go by them,
 
@@ -226,7 +226,7 @@ agreeable. Catherine’s complaisance was no longer what it had been in
 
 their former airing. She listened reluctantly, and her replies were
 
-short. Blaize Castle remained her only comfort; towards _that_, she
+short. Blaize [[Castle]] remained her only comfort; towards _that_, she
 
 still looked at intervals with pleasure; though rather than be
 
@@ -244,9 +244,9 @@ of being stopped in their way along narrow, winding vaults, by a low,
 
 grated door; or even of having their lamp, their only lamp,
 
-extinguished by a sudden gust of wind, and of being left in total
+extinguished by a sudden gust of [[Wind|wind]], and of being left in total
 
-darkness. In the meanwhile, they proceeded on their journey without any
+darkness. In the meanwhile, they proceeded on their [[Journey|journey]] without any
 
 mischance, and were within view of the town of Keynsham, when a halloo
 

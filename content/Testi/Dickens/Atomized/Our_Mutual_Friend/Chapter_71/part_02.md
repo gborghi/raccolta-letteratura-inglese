@@ -18,7 +18,7 @@ tags:
 
 ‘My professional duty,’ said Lightwood hesitating, with another glance
 towards Bella, ‘is greatly at variance with my personal inclination; but
-I doubt, Mr Handford, or Mr Rokesmith, whether I am justified in taking
+I [[Doubt|doubt]], Mr Handford, or Mr Rokesmith, whether I am justified in taking
 leave of you here, with your whole course unexplained.’
 
 Bella caught her husband by the hand.
@@ -28,26 +28,26 @@ justified in taking leave of me here. At all events,’ added Rokesmith,
 ‘he will find that I mean to take leave of him here.’
 
 ‘I think, sir,’ said Lightwood, ‘you can scarcely deny that when I came
-to your house on the occasion to which you have referred, you avoided me
+to your [[house]] on the occasion to which you have referred, you avoided me
 of a set purpose.’
 
 ‘Mr Lightwood, I assure you I have no disposition to deny it, or
 intention to deny it. I should have continued to avoid you, in pursuance
-of the same set purpose, for a short time longer, if we had not met now.
-I am going straight home, and shall remain at home to-morrow until noon.
-Hereafter, I hope we may be better acquainted. Good-day.’
+of the same set purpose, for a short [[Time|time]] longer, if we had not met now.
+I am going straight [[Home|home]], and shall remain at [[Home|home]] to-morrow until [[Noon|noon]].
+Hereafter, I [[Hope|hope]] we may be better acquainted. Good-day.’
 
 Lightwood stood irresolute, but Bella’s husband passed him in the
-steadiest manner, with Bella on his arm; and they went home without
+steadiest manner, with Bella on his arm; and they went [[Home|home]] without
 encountering any further remonstrance or molestation from any one.
 
-When they had dined and were alone, John Rokesmith said to his wife, who
+When they had dined and were [[Alone|alone]], John Rokesmith said to his wife, who
 had preserved her cheerfulness: ‘And you don’t ask me, my dear, why I
 bore that name?’
 
-‘No, John love. I should dearly like to know, of course;’ (which her
+‘No, John [[Love|love]]. I should dearly like to know, of course;’ (which her
 anxious face confirmed;) ‘but I wait until you can tell me of your own
-free will. You asked me if I could have perfect faith in you, and I said
+free will. You asked me if I could have perfect [[Faith|faith]] in you, and I said
 yes, and I meant it.’
 
 It did not escape Bella’s notice that he began to look triumphant. She
@@ -61,7 +61,7 @@ this mysterious Mr Handford was identical with your husband?’
 and I prepared myself.’
 
 He drew her to nestle closer to him, and told her it would soon be over,
-and the truth would soon appear. ‘And now,’ he went on, ‘lay stress,
+and the [[Truth|truth]] would soon appear. ‘And now,’ he went on, ‘lay stress,
 my dear, on these words that I am going to add. I stand in no kind of
 peril, and I can by possibility be hurt at no one’s hand.’
 
@@ -83,14 +83,14 @@ known. You heard Mr Lightwood speak of a dark transaction?’
 
 ‘Yes, John.’
 
-‘My life, he meant the murder of John Harmon, your allotted husband.’
+‘My life, he meant the murder of [[John Harmon]], your allotted husband.’
 
 With a fast palpitating heart, Bella grasped him by the arm. ‘You cannot
 be suspected, John?’
 
-‘Dear love, I can be—for I am!’
+‘Dear [[Love|love]], I can be—for I am!’
 
-There was silence between them, as she sat looking in his face, with the
+There was [[Silence|silence]] between them, as she sat looking in his face, with the
 colour quite gone from her own face and lips. ‘How dare they!’ she cried
 at length, in a burst of generous indignation. ‘My beloved husband, how
 dare they!’
@@ -98,7 +98,7 @@ dare they!’
 He caught her in his arms as she opened hers, and held her to his heart.
 ‘Even knowing this, you can trust me, Bella?’
 
-‘I can trust you, John dear, with all my soul. If I could not trust you,
+‘I can trust you, John dear, with all my [[Soul|soul]]. If I could not trust you,
 I should fall dead at your feet.’
 
 The kindling triumph in his face was bright indeed, as he looked up and
@@ -109,11 +109,11 @@ way, that if all the world were against him, she would be for him; that
 if all the world repudiated him, she would believe him; that if he were
 infamous in other eyes, he would be honoured in hers; and that, under
 the worst unmerited suspicion, she could devote her life to consoling
-him, and imparting her own faith in him to their little child.
+him, and imparting her own [[Faith|faith]] in him to their little [[Child|child]].
 
-A twilight calm of happiness then succeeding to their radiant noon, they
+A twilight calm of happiness then succeeding to their radiant [[Noon|noon]], they
 remained at peace, until a strange voice in the room startled them both.
-The room being by that time dark, the voice said, ‘Don’t let the lady
+The room being by that [[Time|time]] dark, the voice said, ‘Don’t let the lady
 be alarmed by my striking a light,’ and immediately a match rattled, and
 glimmered in a hand. The hand and the match and the voice were then seen
 by John Rokesmith to belong to Mr Inspector, once meditatively active in
@@ -121,7 +121,7 @@ this chronicle.
 
 ‘I take the liberty,’ said Mr Inspector, in a business-like manner, ‘to
 bring myself to the recollection of Mr Julius Handford, who gave me his
-name and address down at our place a considerable time ago. Would the
+name and address down at our place a considerable [[Time|time]] ago. Would the
 lady object to my lighting the pair of candles on the chimneypiece, to
 throw a further light upon the subject? No? Thank you, ma’am. Now, we
 look cheerful.’

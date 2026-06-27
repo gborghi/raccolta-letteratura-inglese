@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 14 (part 4)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 14 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -17,29 +17,29 @@ tags:
 She has leaned forward to say it in his ear, with her forefinger
 shaking before his eyes, and now huddles herself together, and with
 another “Bless ye, and thank’ee!” goes away in the direction of the
-Travellers’ Lodging House.
+Travellers’ Lodging [[house|House]].
 
-This is not an inspiriting close to a dull day. Alone, in a sequestered
-place, surrounded by vestiges of old time and decay, it rather has a
+This is not an inspiriting close to a dull day. [[Alone]], in a sequestered
+place, surrounded by vestiges of old [[Time|time]] and [[Decay|decay]], it rather has a
 tendency to call a shudder into being. He makes for the better-lighted
-streets, and resolves as he walks on to say nothing of this to-night,
-but to mention it to Jack (who alone calls him Ned), as an odd
+streets, and resolves as he walks on to say nothing of this to-[[Night|night]],
+but to mention it to Jack (who [[Alone|alone]] calls him Ned), as an odd
 coincidence, to-morrow; of course only as a coincidence, and not as
 anything better worth remembering.
 
 Still, it holds to him, as many things much better worth remembering
 never did. He has another mile or so, to linger out before the
-dinner-hour; and, when he walks over the bridge and by the river, the
-woman’s words are in the rising wind, in the angry sky, in the troubled
-water, in the flickering lights. There is some solemn echo of them even
-in the Cathedral chime, which strikes a sudden surprise to his heart as
+dinner-hour; and, when he walks over the bridge and by the [[River|river]], the
+woman’s words are in the rising [[Wind|wind]], in the angry sky, in the troubled
+[[Water|water]], in the flickering lights. There is some solemn echo of them even
+in the [[Cathedral]] chime, which strikes a sudden surprise to his heart as
 he turns in under the archway of the gatehouse.
 
 And so _he_ goes up the postern stair.
 
-John Jasper passes a more agreeable and cheerful day than either of his
-guests. Having no music-lessons to give in the holiday season, his time
-is his own, but for the Cathedral services. He is early among the
+[[John Jasper]] passes a more agreeable and cheerful day than either of his
+guests. Having no music-lessons to give in the holiday season, his [[Time|time]]
+is his own, but for the [[Cathedral]] services. He is early among the
 shopkeepers, ordering little table luxuries that his nephew likes. His
 nephew will not be with him long, he tells his provision-dealers, and
 so must be petted and made much of. While out on his hospitable
@@ -51,8 +51,8 @@ complexion is “Un-English.” And when Mr. Sapsea has once declared
 anything to be Un-English, he considers that thing everlastingly sunk
 in the bottomless pit.
 
-John Jasper is truly sorry to hear Mr. Sapsea speak thus, for he knows
-right well that Mr. Sapsea never speaks without a meaning, and that he
+[[John Jasper]] is truly sorry to hear Mr. Sapsea speak thus, for he knows
+right [[Well|well]] that Mr. Sapsea never speaks without a meaning, and that he
 has a subtle trick of being right. Mr. Sapsea (by a very remarkable
 coincidence) is of exactly that opinion.
 
@@ -61,7 +61,7 @@ to have his heart inclined to keep this law, he quite astonishes his
 fellows by his melodious power. He has never sung difficult music with
 such skill and harmony, as in this day’s Anthem. His nervous
 temperament is occasionally prone to take difficult music a little too
-quickly; to-day, his time is perfect.
+quickly; to-day, his [[Time|time]] is perfect.
 
 These results are probably attained through a grand composure of the
 spirits. The mere mechanism of his throat is a little tender, for he
@@ -72,20 +72,20 @@ they come out from Vespers.
 
 “I must thank you, Jasper, for the pleasure with which I have heard you
 to-day. Beautiful! Delightful! You could not have so outdone yourself,
-I hope, without being wonderfully well.”
+I [[Hope|hope]], without being wonderfully [[Well|well]].”
 
-“I _am_ wonderfully well.”
+“I _am_ wonderfully [[Well|well]].”
 
 “Nothing unequal,” says the Minor Canon, with a smooth motion of his
 hand: “nothing unsteady, nothing forced, nothing avoided; all
-thoroughly done in a masterly manner, with perfect self-command.”
+thoroughly done in a masterly manner, with perfect [[Self|self]]-command.”
 
-“Thank you. I hope so, if it is not too much to say.”
+“Thank you. I [[Hope|hope]] so, if it is not too much to say.”
 
 “One would think, Jasper, you had been trying a new medicine for that
 occasional indisposition of yours.”
 
-“No, really? That’s well observed; for I have.”
+“No, really? That’s [[Well|well]] observed; for I have.”
 
 “Then stick to it, my good fellow,” says Mr. Crisparkle, clapping him
 on the shoulder with friendly encouragement, “stick to it.”
@@ -93,23 +93,23 @@ on the shoulder with friendly encouragement, “stick to it.”
 “I will.”
 
 “I congratulate you,” Mr. Crisparkle pursues, as they come out of the
-Cathedral, “on all accounts.”
+[[Cathedral]], “on all accounts.”
 
 “Thank you again. I will walk round to the Corner with you, if you
-don’t object; I have plenty of time before my company come; and I want
+don’t object; I have plenty of [[Time|time]] before my company come; and I want
 to say a word to you, which I think you will not be displeased to
 hear.”
 
 “What is it?”
 
-“Well. We were speaking, the other evening, of my black humours.”
+“[[Well]]. We were speaking, the other evening, of my black humours.”
 
 Mr. Crisparkle’s face falls, and he shakes his head deploringly.
 
 “I said, you know, that I should make you an antidote to those black
 humours; and you said you hoped I would consign them to the flames.”
 
-“And I still hope so, Jasper.”
+“And I still [[Hope|hope]] so, Jasper.”
 
 “With the best reason in the world! I mean to burn this year’s Diary at
 the year’s end.”
@@ -137,13 +137,13 @@ the next volume with a clearer vision.”
 “This is better,” says Mr. Crisparkle, stopping at the steps of his own
 door to shake hands, “than I could have hoped.”
 
-“Why, naturally,” returns Jasper. “You had but little reason to hope
+“Why, naturally,” returns Jasper. “You had but little reason to [[Hope|hope]]
 that I should become more like yourself. You are always training
-yourself to be, mind and body, as clear as crystal, and you always are,
+yourself to be, mind and [[Body|body]], as clear as crystal, and you always are,
 and never change; whereas I am a muddy, solitary, moping weed. However,
 I have got over that mope. Shall I wait, while you ask if Mr. Neville
 has left for my place? If not, he and I may walk round together.”
 
 “I think,” says Mr. Crisparkle, opening the entrance-door with his key,
-“that he left some time ago; at least I know he left, and I think he
+“that he left some [[Time|time]] ago; at least I know he left, and I think he
 has not come back. But I’ll inquire. You won’t come in?”

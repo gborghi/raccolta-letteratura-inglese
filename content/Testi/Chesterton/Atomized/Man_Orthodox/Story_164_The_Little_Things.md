@@ -34,11 +34,11 @@ Little things please great minds.
 `MERE PARADOX'
 
 The simplest and commonest of all the causes which lead to the charge of
-`mere paradox' being slung about as it is, is one fundamental assumption.
+`mere [[Paradox|paradox]]' being slung about as it is, is one fundamental assumption.
 Everybody takes it for granted that universal and ordinary arrangements,
 historic institutions, daily habits are reasonable.  They are good,
 they are sensible, they are holy and splendid often enough, but they
-are not reasonable.  They are themselves paradoxes; paradox is built
+are not reasonable.  They are themselves paradoxes; [[Paradox|paradox]] is built
 into the very foundations of human affairs.
 
                                       Black and White, February 14th, 1903

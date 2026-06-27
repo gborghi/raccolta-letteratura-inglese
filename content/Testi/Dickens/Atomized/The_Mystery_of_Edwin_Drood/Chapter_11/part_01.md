@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 10 (part 1)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 10 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -26,7 +26,7 @@ itself, and that it pronounces in the most confident manner even
 against accumulated observation on the part of the other sex. But it
 has not been quite so often remarked that this power (fallible, like
 every other human attribute) is for the most part absolutely incapable
-of self-revision; and that when it has delivered an adverse opinion
+of [[Self|self]]-revision; and that when it has delivered an adverse opinion
 which by all human lights is subsequently proved to have failed, it is
 undistinguishable from prejudice, in respect of its determination not
 to be corrected. Nay, the very possibility of contradiction or
@@ -51,9 +51,9 @@ that would change _my_ mind!”
 “Very good, Ma,” said her conciliatory son. “There is nothing like
 being open to discussion.”
 
-“I hope not, my dear,” returned the old lady, evidently shut to it.
+“I [[Hope|hope]] not, my dear,” returned the old lady, evidently shut to it.
 
-“Well! Mr. Neville, on that unfortunate occasion, commits himself under
+“[[Well]]! Mr. Neville, on that unfortunate occasion, commits himself under
 provocation.”
 
 “And under mulled wine,” added the old lady.
@@ -77,15 +77,15 @@ stately severity.
 “My dear Ma! why Mr. Neville?”
 
 “Because,” said Mrs. Crisparkle, retiring on first principles, “he came
-home intoxicated, and did great discredit to this house, and showed
+[[Home|home]] intoxicated, and did great discredit to this [[house]], and showed
 great disrespect to this family.”
 
 “That is not to be denied, Ma. He was then, and he is now, very sorry
 for it.”
 
-“But for Mr. Jasper’s well-bred consideration in coming up to me, next
+“But for Mr. Jasper’s [[Well|well]]-bred consideration in coming up to me, next
 day, after service, in the Nave itself, with his gown still on, and
-expressing his hope that I had not been greatly alarmed or had my rest
+expressing his [[Hope|hope]] that I had not been greatly alarmed or had my rest
 violently broken, I believe I might never have heard of that
 disgraceful transaction,” said the old lady.
 
@@ -111,7 +111,7 @@ of my power.”
 
 “And I said then, Sept,” returned the old lady, “that I thought ill of
 Mr. Neville. And I say now, that I think ill of Mr. Neville. And I said
-then, and I say now, that I hope Mr. Neville may come to good, but I
+then, and I say now, that I [[Hope|hope]] Mr. Neville may come to good, but I
 don’t believe he will.” Here the cap vibrated again considerably.
 
 “I am sorry to hear you say so, Ma—”
@@ -121,7 +121,7 @@ firmly, “but I can’t help it.”
 
 “—For,” pursued the Minor Canon, “it is undeniable that Mr. Neville is
 exceedingly industrious and attentive, and that he improves apace, and
-that he has—I hope I may say—an attachment to me.”
+that he has—I [[Hope|hope]] I may say—an attachment to me.”
 
 “There is no merit in the last article, my dear,” said the old lady,
 quickly; “and if he says there is, I think the worse of him for the
@@ -147,15 +147,15 @@ thought of several things. He thought of the times he had seen the
 brother and sister together in deep converse over one of his own old
 college books; now, in the rimy mornings, when he made those sharpening
 pilgrimages to Cloisterham Weir; now, in the sombre evenings, when he
-faced the wind at sunset, having climbed his favourite outlook, a
-beetling fragment of monastery ruin; and the two studious figures
-passed below him along the margin of the river, in which the town fires
+faced the [[Wind|wind]] at sunset, having climbed his favourite outlook, a
+beetling [[Fragment|fragment]] of monastery ruin; and the two studious figures
+passed below him along the margin of the [[River|river]], in which the town fires
 and lights already shone, making the landscape bleaker. He thought how
 the consciousness had stolen upon him that in teaching one, he was
 teaching two; and how he had almost insensibly adapted his explanations
 to both minds—that with which his own was daily in contact, and that
 which he only approached through it. He thought of the gossip that had
-reached him from the Nuns’ House, to the effect that Helena, whom he
+reached him from the Nuns’ [[house|House]], to the effect that [[Helena]], whom he
 had mistrusted as so proud and fierce, submitted herself to the
 fairy-bride (as he called her), and learnt from her what she knew. He
 thought of the picturesque alliance between those two, externally so

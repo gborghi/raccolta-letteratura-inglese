@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Religion of the Stipendiary Magistrate"
+title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -17,28 +17,28 @@ tags:
 II.  THE RELIGION OF THE STIPENDIARY MAGISTRATE
 
 The editorial office of _The Atheist_ had for some years past become
-less and less prominently interesting as a feature of Ludgate Hill.
+less and less prominently interesting as a feature of Ludgate [[Hill]].
 The paper was unsuited to the atmosphere.  It showed an interest
-in the Bible unknown in the district, and a knowledge of that volume
-to which nobody else on Ludgate Hill could make any conspicuous claim.
+in the [[Bible]] unknown in the district, and a knowledge of that volume
+to which nobody else on Ludgate [[Hill]] could make any conspicuous claim.
 It was in vain that the editor of _The Atheist_ filled his front
-window with fierce and final demands as to what Noah in the Ark did
+[[Window|window]] with fierce and final demands as to what Noah in the Ark did
 with the neck of the giraffe.  It was in vain that he asked violently,
-as for the last time, how the statement "God is Spirit" could be
+as for the last [[Time|time]], how the statement "God is Spirit" could be
 reconciled with the statement "The earth is His footstool."
 It was in vain that he cried with an accusing energy that the Bishop
-of London was paid £12,000 a year for pretending to believe that
+of [[London]] was paid £12,000 a year for pretending to believe that
 the whale swallowed Jonah.  It was in vain that he hung in conspicuous
 places the most thrilling scientific calculations about the width of
 the throat of a whale.  Was it nothing to them all they that passed by?
 Did his sudden and splendid and truly sincere indignation never stir
-any of the people pouring down Ludgate Hill?  Never.  The little
+any of the people pouring down Ludgate [[Hill]]?  Never.  The little
 man who edited _The Atheist_ would rush from his shop on starlit
 evenings and shake his fist at St. Paul's in the passion of his
 holy war upon the holy place.  He might have spared his emotion.
-The cross at the top of St. Paul's and _The Atheist_ shop at the foot
-of it were alike remote from the world.  The shop and the Cross
-were equally uplifted and alone in the empty heavens.
+The [[Cross|cross]] at the top of St. Paul's and _The Atheist_ shop at the foot
+of it were alike remote from the world.  The shop and the [[Cross]]
+were equally uplifted and [[Alone|alone]] in the empty heavens.
 
 To the little man who edited _The Atheist_, a fiery little Scotchman,
 with fiery, red hair and beard, going by the name of Turnbull,
@@ -46,19 +46,19 @@ all this decline in public importance seemed not so much
 sad or even mad, but merely bewildering and unaccountable.
 He had said the worst thing that could be said; and it seemed accepted
 and ignored like the ordinary second best of the politicians.
-Every day his blasphemies looked more glaring, and every day the dust
+Every day his blasphemies looked more glaring, and every day the [[Dust|dust]]
 lay thicker upon them.  It made him feel as if he were moving in a
 world of idiots.  He seemed among a race of men who smiled when told
-of their own death, or looked vacantly at the Day of Judgement.
-Year after year went by, and year after year the death of God
+of their own [[Death|death]], or looked vacantly at the Day of Judgement.
+Year after year went by, and year after year the [[Death|death]] of God
 in a shop in Ludgate became a less and less important occurrence.
 All the forward men of his age discouraged Turnbull.
 The socialists said he was cursing priests when he should be
-cursing capitalists.  The artists said that the soul was most spiritual,
-not when freed from religion, but when freed from morality.
+cursing capitalists.  The artists said that the [[Soul|soul]] was most spiritual,
+not when freed from religion, but when freed from [[morality]].
 Year after year went by, and at least a man came by who treated
 Mr. Turnbull's secularist shop with a real respect and seriousness.
-He was a young man in a grey plaid, and he smashed the window.
+He was a young man in a grey plaid, and he smashed the [[Window|window]].
 
 He was a young man, born in the Bay of Arisaig, opposite Rum and the Isle
 of Skye.  His high, hawklike features and snaky black hair bore
@@ -67,21 +67,21 @@ but which is probably far older than the Celts, whoever they were.
 He was in name and stock a Highlander of the Macdonalds;
 but his family took, as was common in such cases, the name
 of a subordinate sept as a surname, and for all the purposes
-which could be answered in London, he called himself Evan MacIan.
-He had been brought up in some loneliness and seclusion
+which could be answered in [[London]], he called himself [[Evan MacIan]].
+He had been brought up in some [[Loneliness|loneliness]] and seclusion
 as a strict Roman Catholic, in the midst of that little wedge
 of Roman Catholics which is driven into the Western Highlands.
 And he had found his way as far as Fleet Street, seeking some
 half-promised employment, without having properly realized that
 there were in the world any people who were not Roman Catholics.
 He had uncovered himself for a few moments before the statue
-of Queen Anne, in front of St. Paul's Cathedral, under the firm
-impression that it was a figure of the Virgin Mary.  He was somewhat
+of [[Queen]] Anne, in front of St. Paul's [[Cathedral]], under the firm
+impression that it was a figure of the [[Virgin Mary]].  He was somewhat
 surprised at the lack of deference shown to the figure by the people
 bustling by.  He did not understand that their one essential
 historical principle, the one law truly graven on their hearts,
-was the great and comforting statement that Queen Anne is dead.
-This faith was as fundamental as his faith, that Our Lady was alive.
+was the great and comforting statement that [[Queen]] Anne is dead.
+This [[Faith|faith]] was as fundamental as his [[Faith|faith]], that Our Lady was alive.
 Any persons he had talked to since he had touched the fringe of our
 fashion or civilization had been by a coincidence, sympathetic
 or hypocritical.  Or if they had spoken some established blasphemies,
@@ -97,39 +97,39 @@ to fall down towards the hills; the hills took hold upon the sky.
 In the sumptuous sunset of gold and purple and peacock green
 cloudlets and islets were the same.  Evan lived like a man walking
 on a borderland, the borderland between this world and another.
-Like so many men and nations who grow up with nature and the common
-things, he understood the supernatural before he understood the natural.
+Like so many men and nations who grow up with [[Nature|nature]] and the common
+things, he understood the [[Supernatural|supernatural]] before he understood the natural.
 He had looked at dim angels standing knee-deep in the grass
 before he had looked at the grass.  He knew that Our Lady's robes
 were blue before he knew the wild roses round her feet were red.
-The deeper his memory plunged into the dark house of childhood
+The deeper his [[Memory|memory]] plunged into the dark [[house]] of [[Childhood|childhood]]
 the nearer and nearer he came to the things that cannot be named.
 All through his life he thought of the daylight world as a sort
 of divine debris, the broken remainder of his first vision.
-The skies and mountains were the splendid off-scourings of another place.
-The stars were lost jewels of the Queen.  Our Lady had gone and left
-the stars by accident.
+The skies and [[Mountains|mountains]] were the splendid off-scourings of another place.
+The [[Stars|stars]] were lost jewels of the [[Queen]].  Our Lady had gone and left
+the [[Stars|stars]] by accident.
 
 His private tradition was equally wild and unworldly.
 His great-grandfather had been cut down at Culloden,
-certain in his last instant that God would restore the King.
+certain in his last instant that God would restore the [[King]].
 His grandfather, then a boy of ten, had taken the terrible
-claymore from the hand of the dead and hung it up in his house,
+claymore from the hand of the dead and hung it up in his [[house]],
 burnishing it and sharpening it for sixty years, to be ready
 for the next rebellion.  His father, the youngest son and the last
-left alive, had refused to attend on Queen Victoria in Scotland.
+left alive, had refused to attend on [[Queen]] Victoria in Scotland.
 And Evan himself had been of one piece with his progenitors;
 and was not dead with them, but alive in the twentieth century.
 He was not in the least the pathetic Jacobite of whom we read,
 left behind by a final advance of all things.  He was, in his own fancy,
 a conspirator, fierce and up to date.  In the long, dark afternoons
-of the Highland winter, he plotted and fumed in the dark.
-He drew plans of the capture of London on the desolate sand of Arisaig.
+of the Highland [[Winter|winter]], he plotted and fumed in the dark.
+He drew plans of the capture of [[London]] on the desolate sand of Arisaig.
 
-When he came up to capture London, it was not with an army of white
-cockades, but with a stick and a satchel.  London overawed him a little,
+When he came up to capture [[London]], it was not with an army of white
+cockades, but with a stick and a satchel.  [[London]] overawed him a little,
 not because he thought it grand or even terrible, but because it
-bewildered him; it was not the Golden City or even hell; it was Limbo.
+bewildered him; it was not the Golden [[City]] or even hell; it was Limbo.
 He had one shock of sentiment, when he turned that wonderful corner
 of Fleet Street and saw St. Paul's sitting in the sky.
 
@@ -144,26 +144,26 @@ that he happened to come to a standstill opposite the office
 of _The Atheist_.  He did not see the word "atheist", or if he did,
 it is quite possible that he did not know the meaning of the word.
 Even as it was, the document would not have shocked even the
-innocent Highlander, but for the troublesome and quite unforeseen
-fact that the innocent Highlander read it stolidly to the end;
+[[Innocent|innocent]] Highlander, but for the troublesome and quite unforeseen
+fact that the [[Innocent|innocent]] Highlander read it stolidly to the end;
 a thing unknown among the most enthusiastic subscribers to the paper,
 and calculated in any case to create a new situation.
 
 With a smart journalistic instinct characteristic of all his school,
 the editor of _The Atheist_ had put first in his paper and most
-prominently in his window an article called "The Mesopotamian Mythology
-and its Effects on Syriac Folk Lore."  Mr. Evan MacIan began to read
+prominently in his [[Window|window]] an article called "The Mesopotamian Mythology
+and its Effects on Syriac Folk Lore."  Mr. [[Evan MacIan]] began to read
 this quite idly, as he would have read a public statement beginning
 with a young girl dying in Brighton and ending with Bile Beans.
 He received the very considerable amount of information accumulated
 by the author with that tired clearness of the mind which
-children have on heavy summer afternoons--that tired clearness
+children have on heavy [[Summer|summer]] afternoons--that tired clearness
 which leads them to go on asking questions long after they have
-lost interest in the subject and are as bored as their nurse.
+lost interest in the subject and are as bored as their [[Nurse|nurse]].
 The streets were full of people and empty of adventures.
-He might as well know about the gods of Mesopotamia as not;
+He might as [[Well|well]] know about the gods of Mesopotamia as not;
 so he flattened his long, lean face against the dim bleak pane of the
-window and read all there was to read about Mesopotamian gods.  He read
+[[Window|window]] and read all there was to read about Mesopotamian gods.  He read
 how the Mesopotamians had a god named Sho (sometimes pronounced Ji),
 and that he was described as being very powerful, a striking similarity
 to some expressions about Jahveh, who is also described as having power.
@@ -171,9 +171,9 @@ Evan had never heard of Jahveh in his life, and imagining him
 to be some other Mesopotamian idol, read on with a dull curiosity.
 He learnt that the name Sho, under its third form of Psa, occurs in
 an early legend which describes how the deity, after the manner
-of Jupiter on so many occasions, seduced a Virgin and begat a hero.
-This hero, whose name is not essential to our existence, was, it was said,
-the chief hero and Saviour of the Mesopotamian ethical scheme.
+of Jupiter on so many occasions, seduced a Virgin and begat a [[Hero|hero]].
+This [[Hero|hero]], whose name is not essential to our existence, was, it was said,
+the chief [[Hero|hero]] and Saviour of the Mesopotamian ethical scheme.
 Then followed a paragraph giving other examples of such heroes
 and Saviours being born of some profligate intercourse between God
 and mortal.  Then followed a paragraph--but Evan did not understand it.
@@ -182,7 +182,7 @@ The glass fell in ringing fragments on to the pavement, and Evan
 sprang over the barrier into the shop, brandishing his stick.
 
 "What is this?" cried little Mr. Turnbull, starting up with hair aflame.
-"How dare you break my window?"
+"How dare you break my [[Window|window]]?"
 
 "Because it was the quickest cut to you," cried Evan, stamping.
 "Stand up and fight, you crapulous coward.  You dirty lunatic,
@@ -191,9 +191,9 @@ stand up, will you?  Have you any weapons here?"
 "Are you mad?" asked Turnbull, glaring.
 
 "Are you?" cried Evan.  "Can you be anything else when you plaster your
-own house with that God-defying filth?  Stand up and fight, I say."
+own [[house]] with that God-defying filth?  Stand up and fight, I say."
 
-A great light like dawn came into Mr. Turnbull's face.
+A great light like [[Dawn|dawn]] came into Mr. Turnbull's face.
 Behind his red hair and beard he turned deadly pale with pleasure.
 Here, after twenty lone years of useless toil, he had his reward.
 Someone was angry with the paper.  He bounded to his feet like a boy;
@@ -203,9 +203,9 @@ before them, he found himself in the presence of the police.
 
 The policemen, after some ponderous questionings, collared both
 the two enthusiasts.  They were more respectful, however, to the young
-man who had smashed the window, than to the miscreant who had had
-his window smashed.  There was an air of refined mystery about
-Evan MacIan, which did not exist in the irate little shopkeeper,
+man who had smashed the [[Window|window]], than to the miscreant who had had
+his [[Window|window]] smashed.  There was an air of refined mystery about
+[[Evan MacIan]], which did not exist in the irate little shopkeeper,
 an air of refined mystery which appealed to the policemen, for policemen,
 like most other English types, are at once snobs and poets.
 MacIan might possibly be a gentleman, they felt; the editor manifestly
@@ -229,13 +229,13 @@ He looked like a gentleman, and yet, somehow, like a stage gentleman.
 
 He had often treated serious crimes against mere order or property
 with a humane flippancy.  Hence, about the mere breaking of an
-editor's window, he was almost uproarious.
+editor's [[Window|window]], he was almost uproarious.
 
 "Come, Mr. MacIan, come," he said, leaning back in his chair,
 "do you generally enter you friends' houses by walking through
 the glass?"  (Laughter.)
 
-"He is not my friend," said Evan, with the stolidity of a dull child.
+"He is not my friend," said Evan, with the stolidity of a dull [[Child|child]].
 
 "Not your friend, eh?" said the magistrate, sparkling.
 "Is he your brother-in-law?"  (Loud and prolonged laughter.)
@@ -252,7 +252,7 @@ Evan opened his great, blue eyes; "God," he began.
 
 "Be quiet," said the magistrate, angrily, "it is most undesirable
 that things of that sort should be spoken about--a-- in public,
-and in an ordinary Court of Justice.  Religion is--a-- too personal
+and in an ordinary [[Court]] of Justice.  Religion is--a-- too personal
 a matter to be mentioned in such a place."
 
 "Is it?" answered the Highlander, "then what did those policemen
@@ -261,7 +261,7 @@ swear by just now?"
 "That is no parallel," answered Vane, rather irritably; "of course
 there is a form of oath--to be taken reverently--reverently, and
 there's an end of it.  But to talk in a public place about one's
-most sacred and private sentiments--well, I call it bad taste.
+most sacred and private sentiments--[[Well|well]], I call it bad taste.
 (Slight applause.)  I call it irreverent.  I call it irreverent,
 and I'm not specially orthodox either."
 
@@ -270,9 +270,9 @@ and I'm not specially orthodox either."
 "We are wondering from the point," said the police magistrate,
 pulling himself together.
 
-"May I ask why you smashed this worthy citizen's window?"
+"May I ask why you smashed this worthy citizen's [[Window|window]]?"
 
-Evan turned a little pale at the mere memory, but he answered
+Evan turned a little pale at the mere [[Memory|memory]], but he answered
 with the same cold and deadly literalism that he showed throughout.
 
 "Because he blasphemed Our Lady."
@@ -288,7 +288,7 @@ and do nothing else."
 
 "Eh," cried Vane, glaring through his eye-glass.
 
-"You asked me why I broke his window," said MacIan, with a face of wood.
+"You asked me why I broke his [[Window|window]]," said MacIan, with a face of wood.
 "I answered, 'Because he blasphemed Our Lady.'  I had no other reason.
 So I have no other answer."  Vane continued to gaze at him with a
 sternness not habitual to him.
@@ -311,26 +311,26 @@ This man only gave expression to his sincere belief."
 "So did I," said the Highlander.
 
 "And who are you?" exploded Vane.  "Are your views necessarily
-the right ones?  Are you necessarily in possession of the truth?"
+the right ones?  Are you necessarily in possession of the [[Truth|truth]]?"
 
 "Yes," said MacIan.
 
 The magistrate broke into a contemptuous laugh.
 
-"Oh, you want a nurse to look after you," he said.
+"Oh, you want a [[Nurse|nurse]] to look after you," he said.
 "You must pay L10."
 
-Evan MacIan plunged his hands into his loose grey garment and
+[[Evan MacIan]] plunged his hands into his loose grey garment and
 drew out a queer looking leather purse.  It contained exactly
-twelve sovereigns.  He paid down the ten, coin by coin, in silence,
+twelve sovereigns.  He paid down the ten, coin by coin, in [[Silence|silence]],
 and equally silently returned the remaining two to the receptacle.
 Then he said, "May I say a word, your worship?"
 
-Cumberland Vane seemed half hypnotized with the silence and automatic
+Cumberland Vane seemed half hypnotized with the [[Silence|silence]] and automatic
 movements of the stranger; he made a movement with his head which might
 have been either "yes" or "no". "I only wished to say, your worship,"
 said MacIan, putting back the purse in his trouser pocket,
-"that smashing that shop window was, I confess, a useless and rather
+"that smashing that shop [[Window|window]] was, I confess, a useless and rather
 irregular business.  It may be excused, however, as a mere preliminary
 to further proceedings, a sort of preface.  Wherever and whenever
 I meet that man," and he pointed to the editor of _The Atheist_,
@@ -339,7 +339,7 @@ years hence in some distant country, wherever and whenever I meet
 that man, I will fight him.  Do not be afraid.  I will not rush
 at him like a bully, or bear him down with any brute superiority.
 I will fight him like a gentleman; I will fight him as our
-fathers fought.  He shall choose how, sword or pistol, horse or foot.
+fathers fought.  He shall choose how, [[Sword|sword]] or [[Pistol|pistol]], [[Horse|horse]] or foot.
 But if he refuses, I will write his cowardice on every wall in the world.
 If he had said of my mother what he said of the Mother of God,
 there is not a club of clean men in Europe that would deny my
@@ -349,12 +349,12 @@ the market place.  Your worship, I have no mother; I have no wife.
 I have only that which the poor have equally with the rich;
 which the lonely have equally with the man of many friends.
 To me this whole strange world is homely, because in the heart of it
-there is a home; to me this cruel world is kindly, because higher
+there is a [[Home|home]]; to me this cruel world is kindly, because higher
 than the heavens there is something more human than humanity.
 If a man must not fight for this, may he fight for anything?
 I would fight for my friend, but if I lost my friend, I should still
 be there.  I would fight for my country, but if I lost my country,
-I should still exist.  But if what that devil dreams were true,
+I should still exist.  But if what that devil [[Dreams|dreams]] were true,
 I should not be--I should burst like a bubble and be gone.
 I could not live in that imbecile universe.  Shall I not fight
 for my own existence?"
@@ -380,7 +380,7 @@ In case of accidents, however, I must bind you over to keep the peace."
 "Certainly not," answered MacIan.  "What has he to do with peace?"
 
 "Do you mean to say," began the magistrate, "that you refuse to..."
-The voice of Turnbull himself clove in for the first time.
+The voice of Turnbull himself clove in for the first [[Time|time]].
 
 "Might I suggest," he said, "That I, your worship, can settle to
 some extent this absurd matter myself.  This rather wild gentleman
@@ -392,7 +392,7 @@ to say that I think that it is highly probable that he will.
 (Laughter.) But it takes two to make a duel, your worship
 (renewed laughter).  I do not in the least mind being described
 on every wall in the world as the coward who would not fight
-a man in Fleet Street, about whether the Virgin Mary had
+a man in Fleet Street, about whether the [[Virgin Mary]] had
 a parallel in Mesopotamian mythology.  No, your worship.
 You need not trouble to bind him over to keep the peace.
 I bind myself over to keep the peace, and you may rest quite
@@ -402,10 +402,10 @@ Mr. Cumberland Vane rolled about, laughing in a sort of relief.
 
 "You're like a breath of April, sir," he cried.  "You're ozone
 after that fellow.  You're perfectly right.  Perhaps I have taken
-the thing too seriously.  I should love to see him sending you
-challenges and to see you smiling.  Well, well."
+the thing too seriously.  I should [[Love|love]] to see him sending you
+challenges and to see you smiling.  [[Well]], [[Well|well]]."
 
-Evan went out of the Court of Justice free, but strangely shaken,
+Evan went out of the [[Court]] of Justice free, but strangely shaken,
 like a sick man.  Any punishment of suppression he would have
 felt as natural; but the sudden juncture between the laughter
 of his judge and the laughter of the man he had wronged, made him
@@ -413,10 +413,10 @@ feel suddenly small, or at least, defeated.  It was really true
 that the whole modern world regarded his world as a bubble.
 No cruelty could have shown it, but their kindness showed it
 with a ghastly clearness.  As he was brooding, he suddenly became
-conscious of a small, stern figure, fronting him in silence.
+conscious of a small, stern figure, fronting him in [[Silence|silence]].
 Its eyes were grey and awful, and its beard red.  It was Turnbull.
 
-"Well, sir," said the editor of _The Atheist_, "where is the fight to be?
+"[[Well]], sir," said the editor of _The Atheist_, "where is the fight to be?
 Name the field, sir."
 
 Evan stood thunderstruck.  He stammered out something, he knew not what;
@@ -426,15 +426,15 @@ he only guessed it by the answer of the other.
 Free-thinker. "Why, you moonstruck scarecrow of superstition,
 do you think your dirty saints are the only people who can die?
 Haven't you hung atheists, and burned them, and boiled them, and did
-they ever deny their faith?  Do you think we don't want to fight?
-Night and day I have prayed--I have longed--for an atheist revolution--
-I have longed to see your blood and ours on the streets.
+they ever deny their [[Faith|faith]]?  Do you think we don't want to fight?
+[[Night]] and day I have prayed--I have longed--for an atheist revolution--
+I have longed to see your [[Blood|blood]] and ours on the streets.
 Let it be yours or mine?"
 
 "But you said..." began MacIan.
 
 "I know," said Turnbull scornfully.  "And what did you say?
-You damned fool, you said things that might have got us locked
+You damned [[Fool|fool]], you said things that might have got us locked
 up for a year, and shadowed by the coppers for half a decade.
 If you wanted to fight, why did you tell that ass you wanted to?
 I got you out, to fight if you want to.  Now, fight if you dare."
@@ -444,8 +444,8 @@ that nothing shall come between us.  I swear to you that nothing
 shall be in my heart or in my head till our swords clash together.
 I swear it by the God you have denied, by the Blessed Lady you
 have blasphemed; I swear it by the seven swords in her heart.
-I swear it by the Holy Island where my fathers are, by the honour
+I swear it by the Holy Island where my fathers are, by the [[Honour|honour]]
 of my mother, by the secret of my people, and by the chalice
-of the Blood of God."
+of the [[Blood]] of God."
 
 The atheist drew up his head.  "And I," he said, "give my word."

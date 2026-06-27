@@ -18,7 +18,7 @@ CHAPTER LIV.
 The Fugitives
 
 
-Tea-time, an hour short of midnight; the place, a French apartment,
+Tea-[[Time|time]], an hour short of midnight; the place, a French apartment,
 comprising some half-dozen rooms;—a dull cold hall or corridor, a
 dining-room, a drawing-room, a bed-room, and an inner drawingroom, or
 boudoir, smaller and more retired than the rest. All these shut in by
@@ -28,32 +28,32 @@ of communication with the remaining portion of the apartment, or with
 certain small passages within the wall, leading, as is not unusual in
 such houses, to some back stairs with an obscure outlet below. The
 whole situated on the first floor of so large an Hotel, that it did not
-absorb one entire row of windows upon one side of the square court-yard
+absorb one entire row of windows upon one side of the square [[Court|court]]-yard
 in the centre, upon which the whole four sides of the mansion looked.
 
-An air of splendour, sufficiently faded to be melancholy, and
+An air of splendour, sufficiently faded to be [[Melancholy|melancholy]], and
 sufficiently dazzling to clog and embarrass the details of life with a
 show of state, reigned in these rooms. The walls and ceilings were
 gilded and painted; the floors were waxed and polished; crimson drapery
-hung in festoons from window, door, and mirror; and candelabra, gnarled
-and intertwisted like the branches of trees, or horns of animals, stuck
-out from the panels of the wall. But in the day-time, when the
+hung in festoons from [[Window|window]], door, and [[Mirror|mirror]]; and candelabra, gnarled
+and intertwisted like the branches of trees, or horns of [[Animals|animals]], stuck
+out from the panels of the wall. But in the day-[[Time|time]], when the
 lattice-blinds (now closely shut) were opened, and the light let in,
-traces were discernible among this finery, of wear and tear and dust,
+traces were discernible among this finery, of wear and tear and [[Dust|dust]],
 of sun and damp and smoke, and lengthened intervals of want of use and
 habitation, when such shows and toys of life seem sensitive like life,
-and waste as men shut up in prison do. Even night, and clusters of
+and waste as men shut up in [[Prison|prison]] do. Even [[Night|night]], and clusters of
 burning candles, could not wholly efface them, though the general
 glitter threw them in the shade.
 
 The glitter of bright tapers, and their reflection in looking-glasses,
-scraps of gilding and gay colours, were confined, on this night, to one
+scraps of gilding and gay colours, were confined, on this [[Night|night]], to one
 room—that smaller room within the rest, just now enumerated. Seen from
 the hall, where a lamp was feebly burning, through the dark perspective
 of open doors, it looked as shining and precious as a gem. In the heart
 of its radiance sat a beautiful woman—Edith.
 
-She was alone. The same defiant, scornful woman still. The cheek a
+She was [[Alone|alone]]. The same defiant, scornful woman still. The cheek a
 little worn, the eye a little larger in appearance, and more lustrous,
 but the haughty bearing just the same. No shame upon her brow; no late
 repentance bending her disdainful neck. Imperious and stately yet, and
@@ -61,7 +61,7 @@ yet regardless of herself and of all else, she sat with her dark eyes
 cast down, waiting for someone.
 
 No book, no work, no occupation of any kind but her own thought,
-beguiled the tardy time. Some purpose, strong enough to fill up any
+beguiled the tardy [[Time|time]]. Some purpose, strong enough to fill up any
 pause, possessed her. With her lips pressed together, and quivering if
 for a moment she released them from her control; with her nostril
 inflated; her hands clasped in one another; and her purpose swelling in
@@ -81,10 +81,10 @@ route, and left the letter for Madame—Madame had received it surely?”
 
 “A thousand pardons! The sudden apprehension that it might have been
 forgotten had struck him;” a bald man, with a large beard from a
-neighbouring restaurant; “with despair! Monsieur had said that supper
+neighbouring restaurant; “with [[Despair|despair]]! Monsieur had said that supper
 was to be ready at that hour: also that he had forewarned Madame of the
 commands he had given, in his letter. Monsieur had done the Golden Head
-the honour to request that the supper should be choice and delicate.
+the [[Honour|honour]] to request that the supper should be choice and delicate.
 Monsieur would find that his confidence in the Golden Head was not
 misplaced.”
 
@@ -130,14 +130,14 @@ supper came.
 
 The hot dishes were on a chafing-dish; the cold already set forth, with
 the change of service on a sideboard. Monsieur was satisfied with this
-arrangement. The supper table being small, it pleased him very well.
+arrangement. The supper table being small, it pleased him very [[Well|well]].
 Let them set the chafing-dish upon the floor, and go. He would remove
 the dishes with his own hands.
 
 “Pardon!” said the bald man, politely. “It was impossible!”
 
 Monsieur was of another opinion. He required no further attendance that
-night.
+[[Night|night]].
 
 “But Madame—” the bald man hinted.
 
@@ -145,27 +145,27 @@ night.
 
 “A million pardons! No! Madame had no maid!”
 
-“I came here alone,” said Edith “It was my choice to do so. I am well
+“I came here [[Alone|alone]],” said Edith “It was my choice to do so. I am [[Well|well]]
 used to travelling; I want no attendance. They need send nobody to me.
 
 Monsieur accordingly, persevering in his first proposed impossibility,
 proceeded to follow the two attendants to the outer door, and secure it
-after them for the night. The bald man turning round to bow, as he went
+after them for the [[Night|night]]. The bald man turning round to bow, as he went
 out, observed that Madame still stood with her hand upon the velvet
 back of the great chair, and that her face was quite regardless of him,
 though she was looking straight before her.
 
 As the sound of Carker’s fastening the door resounded through the
 intermediate rooms, and seemed to come hushed and stilled into that
-last distant one, the sound of the Cathedral clock striking twelve
+last distant one, the sound of the [[Cathedral]] [[Clock|clock]] striking twelve
 mingled with it, in Edith’s ears. She heard him pause, as if he heard
 it too and listened; and then came back towards her, laying a long
-train of footsteps through the silence, and shutting all the doors
+train of footsteps through the [[Silence|silence]], and shutting all the doors
 behind him as he came along. Her hand, for a moment, left the velvet
 chair to bring a knife within her reach upon the table; then she stood
 as she had stood before.
 
-“How strange to come here by yourself, my love!” he said as he entered.
+“How strange to come here by yourself, my [[Love|love]]!” he said as he entered.
 
 “What?” she returned.
 
@@ -174,11 +174,11 @@ attitude so repellent; and her frown so black; that he stood, with the
 lamp in his hand, looking at her, as if she had struck him motionless.
 
 “I say,” he at length repeated, putting down the lamp, and smiling his
-most courtly smile, “how strange to come here alone! It was unnecessary
+most courtly smile, “how strange to come here [[Alone|alone]]! It was unnecessary
 caution surely, and might have defeated itself. You were to have
-engaged an attendant at Havre or Rouen, and have had abundance of time
+engaged an attendant at Havre or Rouen, and have had abundance of [[Time|time]]
 for the purpose, though you had been the most capricious and difficult
-(as you are the most beautiful, my love) of women.”
+(as you are the most beautiful, my [[Love|love]]) of women.”
 
 Her eyes gleamed strangely on him, but she stood with her hand resting
 on the chair, and said not a word.
@@ -187,7 +187,7 @@ on the chair, and said not a word.
 
 “I have never,” resumed Carker, “seen you look so handsome, as you do
 tonight. Even the picture I have carried in my mind during this cruel
-probation, and which I have contemplated night and day, is exceeded by
+probation, and which I have contemplated [[Night|night]] and day, is exceeded by
 the reality.”
 
 Not a word. Not a look Her eyes completely hidden by their drooping
@@ -196,8 +196,8 @@ lashes, but her head held up.
 “Hard, unrelenting terms they were!” said Carker, with a smile, “but
 they are all fulfilled and passed, and make the present more delicious
 and more safe. Sicily shall be the place of our retreat. In the idlest
-and easiest part of the world, my soul, we’ll both seek compensation
-for old slavery.”
+and easiest part of the world, my [[Soul|soul]], we’ll both seek compensation
+for old [[Slavery|slavery]].”
 
 He was coming gaily towards her, when, in an instant, she caught the
 knife up from the table, and started one pace back.
@@ -206,25 +206,25 @@ knife up from the table, and started one pace back.
 
 The sudden change in her, the towering fury and intense abhorrence
 sparkling in her eyes and lighting up her brow, made him stop as if a
-fire had stopped him.
+[[Fire|fire]] had stopped him.
 
 “Stand still!” she said, “come no nearer me, upon your life!”
 
 They both stood looking at each other. Rage and astonishment were in
 his face, but he controlled them, and said lightly,
 
-“Come, come! Tush, we are alone, and out of everybody’s sight and
+“Come, come! Tush, we are [[Alone|alone]], and out of everybody’s sight and
 hearing. Do you think to frighten me with these tricks of virtue?”
 
 “Do you think to frighten me,” she answered fiercely, “from any purpose
 that I have, and any course I am resolved upon, by reminding me of the
-solitude of this place, and there being no help near? Me, who am here
-alone, designedly? If I feared you, should I not have avoided you? If I
-feared you, should I be here, in the dead of night, telling you to your
+[[Solitude|solitude]] of this place, and there being no help near? Me, who am here
+[[Alone|alone]], designedly? If I feared you, should I not have avoided you? If I
+feared you, should I be here, in the dead of [[Night|night]], telling you to your
 face what I am going to tell?”
 
 “And what is that,” he said, “you handsome shrew? Handsomer so, than
-any other woman in her best humour?”
+any other woman in her best [[Humour|humour]]?”
 
 “I tell you nothing,” she returned, until you go back to that
 chair—except this, once again—Don’t come near me! Not a step nearer. I
@@ -241,7 +241,7 @@ even while he feigned to be amused by her caprice.
 She put the knife down upon the table, and touching her bosom with her
 hand, said:
 
-“I have something lying here that is no love trinket, and sooner than
+“I have something lying here that is no [[Love|love]] trinket, and sooner than
 endure your touch once more, I would use it on you—and you know it,
 while I speak—with less reluctance than I would on any other creeping
 thing that lives.”
@@ -254,14 +254,14 @@ foot once upon the floor with a muttered oath.
 “How many times,” said Edith, bending her darkest glance upon him, “has
 your bold knavery assailed me with outrage and insult? How many times
 in your smooth manner, and mocking words and looks, have I been twitted
-with my courtship and my marriage? How many times have you laid bare my
-wound of love for that sweet, injured girl and lacerated it? How often
-have you fanned the fire on which, for two years, I have writhed; and
-tempted me to take a desperate revenge, when it has most tortured me?”
+with my courtship and my [[Marriage|marriage]]? How many times have you laid bare my
+wound of [[Love|love]] for that sweet, injured girl and lacerated it? How often
+have you fanned the [[Fire|fire]] on which, for two years, I have writhed; and
+tempted me to take a desperate [[Revenge|revenge]], when it has most tortured me?”
 
-“I have no doubt, Ma’am,” he replied, “that you have kept a good
+“I have no [[Doubt|doubt]], Ma’am,” he replied, “that you have kept a good
 account, and that it’s pretty accurate. Come, Edith. To your husband,
-poor wretch, this was well enough—”
+poor wretch, this was [[Well|well]] enough—”
 
 “Why, if,” she said, surveying him with a haughty contempt and disgust,
 that he shrunk under, let him brave it as he would, “if all my other
@@ -272,22 +272,22 @@ enough to hold their place.”
 “Is that a reason why you have run away with me?” he asked her,
 tauntingly.
 
-“Yes, and why we are face to face for the last time. Wretch! We meet
+“Yes, and why we are face to face for the last [[Time|time]]. Wretch! We meet
 tonight, and part tonight. For not one moment after I have ceased to
 speak, will I stay here!”
 
 He turned upon her with his ugliest look, and gripped the table with
-his hand; but neither rose, nor otherwise answered or threatened her.
+his hand; but neither [[Rose|rose]], nor otherwise answered or threatened her.
 
 “I am a woman,” she said, confronting him steadfastly, “who from her
-childhood has been shamed and steeled. I have been offered and
-rejected, put up and appraised, until my very soul has sickened. I have
+[[Childhood|childhood]] has been shamed and steeled. I have been offered and
+rejected, put up and appraised, until my very [[Soul|soul]] has sickened. I have
 not had an accomplishment or grace that might have been a resource to
 me, but it has been paraded and vended to enhance my value, as if the
 common crier had called it through the streets. My poor, proud friends,
 have looked on and approved; and every tie between us has been deadened
 in my breast. There is not one of them for whom I care, as I could care
-for a pet dog. I stand alone in the world, remembering well what a
+for a pet dog. I stand [[Alone|alone]] in the world, remembering [[Well|well]] what a
 hollow world it has been to me, and what a hollow part of it I have
 been myself. You know this, and you know that my fame with it is
 worthless to me.”
@@ -296,7 +296,7 @@ worthless to me.”
 
 “And calculated on it,” she rejoined, “and so pursued me. Grown too
 indifferent for any opposition but indifference, to the daily working
-of the hands that had moulded me to this; and knowing that my marriage
+of the hands that had moulded me to this; and knowing that my [[Marriage|marriage]]
 would at least prevent their hawking of me up and down; I suffered
 myself to be sold, as infamously as any woman with a halter round her
 neck is sold in any market-place. You know that.”
@@ -304,60 +304,60 @@ neck is sold in any market-place. You know that.”
 “Yes,” he said, showing all his teeth “I know that.”
 
 “And calculated on it,” she rejoined once more, “and so pursued me.
-From my marriage day, I found myself exposed to such new shame—to such
+From my [[Marriage|marriage]] day, I found myself exposed to such new shame—to such
 solicitation and pursuit (expressed as clearly as if it had been
 written in the coarsest words, and thrust into my hand at every turn)
-from one mean villain, that I felt as if I had never known humiliation
-till that time. This shame my husband fixed upon me; hemmed me round
+from one mean [[Villain|villain]], that I felt as if I had never known humiliation
+till that [[Time|time]]. This shame my husband fixed upon me; hemmed me round
 with, himself; steeped me in, with his own hands, and of his own act,
 repeated hundreds of times. And thus—forced by the two from every point
-of rest I had—forced by the two to yield up the last retreat of love
-and gentleness within me, or to be a new misfortune on its innocent
+of rest I had—forced by the two to yield up the last retreat of [[Love|love]]
+and gentleness within me, or to be a new misfortune on its [[Innocent|innocent]]
 object—driven from each to each, and beset by one when I escaped the
-other—my anger rose almost to distraction against both. I do not know
-against which it rose higher—the master or the man!”
+other—my anger [[Rose|rose]] almost to distraction against both. I do not know
+against which it [[Rose|rose]] higher—the master or the man!”
 
 He watched her closely, as she stood before him in the very triumph of
-her indignant beauty. She was resolute, he saw; undauntable; with no
-more fear of him than of a worm.
+her indignant [[Beauty|beauty]]. She was resolute, he saw; undauntable; with no
+more [[Fear|fear]] of him than of a worm.
 
-“What should I say of honour or of chastity to you!” she went on. “What
+“What should I say of [[Honour|honour]] or of chastity to you!” she went on. “What
 meaning would it have to you; what meaning would it have from me! But
-if I tell you that the lightest touch of your hand makes my blood cold
+if I tell you that the lightest touch of your hand makes my [[Blood|blood]] cold
 with antipathy; that from the hour when I first saw and hated you, to
 now, when my instinctive repugnance is enhanced by every minute’s
 knowledge of you I have since had, you have been a loathsome creature
 to me which has not its like on earth; how then?”
 
-He answered with a faint laugh, “Ay! How then, my queen?”
+He answered with a faint laugh, “Ay! How then, my [[Queen|queen]]?”
 
-“On that night, when, emboldened by the scene you had assisted at, you
+“On that [[Night|night]], when, emboldened by the scene you had assisted at, you
 dared come to my room and speak to me,” she said, “what passed?”
 
 He shrugged his shoulders, and laughed
 
 “What passed?” she said.
 
-“Your memory is so distinct,” he said, “that I have no doubt you can
+“Your [[Memory|memory]] is so distinct,” he said, “that I have no [[Doubt|doubt]] you can
 recall it.”
 
 “I can,” she said. “Hear it! Proposing then, this flight—not this
 flight, but the flight you thought it—you told me that in the having
 given you that meeting, and leaving you to be discovered there, if you
-so thought fit; and in the having suffered you to be alone with me many
+so thought fit; and in the having suffered you to be [[Alone|alone]] with me many
 times before,—and having made the opportunities, you said,—and in the
 having openly avowed to you that I had no feeling for my husband but
 aversion, and no care for myself—I was lost; I had given you the power
 to traduce my name; and I lived, in virtuous reputation, at the
 pleasure of your breath.”
 
-“All stratagems in love—-” he interrupted, smiling. “The old adage—”
+“All stratagems in [[Love|love]]—-” he interrupted, smiling. “The old adage—”
 
-“On that night,” said Edith, “and then, the struggle that I long had
+“On that [[Night|night]],” said Edith, “and then, the struggle that I long had
 had with something that was not respect for my good fame—that was I
 know not what—perhaps the clinging to that last retreat—was ended. On
-that night, and then, I turned from everything but passion and
-resentment. I struck a blow that laid your lofty master in the dust,
+that [[Night|night]], and then, I turned from everything but passion and
+resentment. I struck a blow that laid your lofty master in the [[Dust|dust]],
 and set you there, before me, looking at me now, and knowing what I
 mean.”
 
@@ -365,14 +365,14 @@ He sprung up from his chair with a great oath. She put her hand into
 her bosom, and not a finger trembled, not a hair upon her head was
 stirred. He stood still: she too: the table and chair between them.
 
-“When I forget that this man put his lips to mine that night, and held
+“When I forget that this man put his lips to mine that [[Night|night]], and held
 me in his arms as he has done again tonight,” said Edith, pointing at
 him; “when I forget the taint of his kiss upon my cheek—the cheek that
 Florence would have laid her guiltless face against—when I forget my
 meeting with her, while that taint was hot upon me, and in what a flood
 the knowledge rushed upon me when I saw her, that in releasing her from
-the persecution I had caused by my love, I brought a shame and
-degradation on her name through mine, and in all time to come should be
+the persecution I had caused by my [[Love|love]], I brought a shame and
+degradation on her name through mine, and in all [[Time|time]] to come should be
 the solitary figure representing in her mind her first avoidance of a
 guilty creature—then, Husband, from whom I stand divorced henceforth, I
 will forget these last two years, and undo what I have done, and
@@ -382,7 +382,7 @@ Her flashing eyes, uplifted for a moment, lighted again on Carker, and
 she held some letters out in her left hand.
 
 “See these!” she said, contemptuously. “You have addressed these to me
-in the false name you go by; one here, some elsewhere on my road. The
+in the false name you go by; one here, some elsewhere on my [[Road|road]]. The
 seals are unbroken. Take them back!”
 
 She crunched them in her hand, and tossed them to his feet. And as she
@@ -398,8 +398,8 @@ with this! What devil possesses you?”
 
 “Their name is Legion,” she replied, uprearing her proud form as if she
 would have crushed him; “you and your master have raised them in a
-fruitful house, and they shall tear you both. False to him, false to
-his innocent child, false every way and everywhere, go forth and boast
+fruitful [[house]], and they shall tear you both. False to him, false to
+his [[Innocent|innocent]] [[Child|child]], false every way and everywhere, go forth and boast
 of me, and gnash your teeth, for once, to know that you are lying!”
 
 He stood before her, muttering and menacing, and scowling round as if
@@ -408,11 +408,11 @@ indomitable spirit she opposed him, without faltering.
 
 “In every vaunt you make,” she said, “I have my triumph. I single out
 in you the meanest man I know, the parasite and tool of the proud
-tyrant, that his wound may go the deeper, and may rankle more. Boast,
-and revenge me on him! You know how you came here tonight; you know
+[[Tyrant|tyrant]], that his wound may go the deeper, and may rankle more. Boast,
+and [[Revenge|revenge]] me on him! You know how you came here tonight; you know
 how you stand cowering there; you see yourself in colours quite as
 despicable, if not as odious, as those in which I see you. Boast then,
-and revenge me on yourself.”
+and [[Revenge|revenge]] me on yourself.”
 
 The foam was on his lips; the wet stood on his forehead. If she would
 have faltered once for only one half-moment, he would have pinioned
@@ -426,24 +426,24 @@ go in your mad temper?”
 
 “I’ll try, my dear,” he said with a ferocious gesture of his head.
 
-“God’s mercy on you, if you try by coming near me!” she replied.
+“God’s [[Mercy|mercy]] on you, if you try by coming near me!” she replied.
 
 “And what,” he said, “if there are none of these same boasts and vaunts
 on my part? What if I were to turn too? Come!” and his teeth fairly
 shone again. “We must make a treaty of this, or I may take some
 unexpected course. Sit down, sit down!”
 
-“Too late!” she cried, with eyes that seemed to sparkle fire. “I have
+“Too late!” she cried, with eyes that seemed to sparkle [[Fire|fire]]. “I have
 thrown my fame and good name to the winds! I have resolved to bear the
 shame that will attach to me—resolved to know that it attaches
 falsely—that you know it too—and that he does not, never can, and never
-shall. I’ll die, and make no sign. For this, I am here alone with you,
-at the dead of night. For this, I have met you here, in a false name,
+shall. I’ll die, and make no sign. For this, I am here [[Alone|alone]] with you,
+at the dead of [[Night|night]]. For this, I have met you here, in a false name,
 as your wife. For this, I have been seen here by those men, and left
 here. Nothing can save you now.”
 
-He would have sold his soul to root her, in her beauty, to the floor,
-and make her arms drop at her sides, and have her at his mercy. But he
+He would have sold his [[Soul|soul]] to root her, in her [[Beauty|beauty]], to the floor,
+and make her arms drop at her sides, and have her at his [[Mercy|mercy]]. But he
 could not look at her, and not be afraid of her. He saw a strength
 within her that was resistless. He saw that she was desperate, and that
 her unquenchable hatred of him would stop at nothing. His eyes followed
@@ -474,7 +474,7 @@ shut upon her.
 
 Once turned, once changed in her inflexible unyielding look, he felt
 that he could cope with her. He thought a sudden terror, occasioned by
-this night-alarm, had subdued her; not the less readily, for her
+this [[Night|night]]-alarm, had subdued her; not the less readily, for her
 overwrought condition. Throwing open the doors, he followed, almost
 instantly.
 
@@ -487,12 +487,12 @@ looking fearfully about, and prying behind screens and couches; but she
 was not there. No, nor in the hall, which was so bare that he could see
 that, at a glance.
 
-All this time, the ringing at the bell was constantly renewed, and
+All this [[Time|time]], the ringing at the bell was constantly renewed, and
 those without were beating at the door. He put his lamp down at a
 distance, and going near it, listened. There were several voices
 talking together: at least two of them in English; and though the door
-was thick, and there was great confusion, he knew one of these too well
-to doubt whose voice it was.
+was thick, and there was great confusion, he knew one of these too [[Well|well]]
+to [[Doubt|doubt]] whose voice it was.
 
 He took up his lamp again, and came back quickly through all the rooms,
 stopping as he quitted each, and looking round for her, with the light
@@ -501,27 +501,27 @@ the door, leading to the little passage in the wall, caught his eye. He
 went to it, and found it fastened on the other side; but she had
 dropped a veil in going through, and shut it in the door.
 
-All this time the people on the stairs were ringing at the bell, and
+All this [[Time|time]] the people on the stairs were ringing at the bell, and
 knocking with their hands and feet.
 
 He was not a coward: but these sounds; what had gone before; the
 strangeness of the place, which had confused him, even in his return
 from the hall; the frustration of his schemes (for, strange to say, he
 would have been much bolder, if they had succeeded); the unseasonable
-time; the recollection of having no one near to whom he could appeal
+[[Time|time]]; the recollection of having no one near to whom he could appeal
 for any friendly office; above all, the sudden sense, which made even
 his heart beat like lead, that the man whose confidence he had
 outraged, and whom he had so treacherously deceived, was there to
 recognise and challenge him with his mask plucked off his face; struck
 a panic through him. He tried the door in which the veil was shut, but
 couldn’t force it. He opened one of the windows, and looked down
-through the lattice of the blind, into the court-yard; but it was a
+through the lattice of the blind, into the [[Court|court]]-yard; but it was a
 high leap, and the stones were pitiless.
 
 The ringing and knocking still continuing—his panic too—he went back to
 the door in the bed-chamber, and with some new efforts, each more
 stubborn than the last, wrenched it open. Seeing the little staircase
-not far off, and feeling the night-air coming up, he stole back for his
+not far off, and feeling the [[Night|night]]-air coming up, he stole back for his
 hat and coat, made the door as secure after him as he could, crept down
 lamp in hand, extinguished it on seeing the street, and having put it
-in a corner, went out where the stars were shining.
+in a corner, went out where the [[Stars|stars]] were shining.

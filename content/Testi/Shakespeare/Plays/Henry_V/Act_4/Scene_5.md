@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act IV, Scene 5"
+title: "[[Henry V]] — Act IV, Scene 5"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -23,6 +23,6 @@ tags:
 | CONSTABLE | Mort de ma vie! All is confounded, all.<br>Reproach and everlasting shame<br>Sits mocking in our plumes.<br>A short alarum<br>O mechante fortune!– (To Rambures) Do not run away. |
 | *(didascalia)* | ORLÉANS |
 | CONSTABLE | We are enough yet living in the field<br>To smother up the English in our throngs,<br>If any order might be thought upon. |
-| BOURBON | The devil take order. Once more back again!<br>And he that will not follow Bourbon now,<br>Let him go home, and with his cap in hand<br>Like a base leno hold the chamber door<br>Whilst by a slave no gentler than my dog<br>His fairest daughter is contaminated. |
+| BOURBON | The devil take order. Once more back again!<br>And he that will not follow Bourbon now,<br>Let him go [[Home|home]], and with his cap in hand<br>Like a base leno hold the chamber door<br>Whilst by a slave no gentler than my dog<br>His fairest daughter is contaminated. |
 | CONSTABLE | Disorder that hath spoiled us friend us now.<br>Let us on heaps go offer up our lives. |
 | BOURBON | I’ll to the throng.<br>Let life be short, else shame will be too long. Exeunt |

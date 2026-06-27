@@ -23,12 +23,12 @@ enabled to devote our attention to those parishioners who take little
 share in our party contests or in the turmoil and bustle of public
 life. And we feel sincere pleasure in acknowledging here, that in
 collecting materials for this task we have been greatly assisted by Mr.
-Bung himself, who has imposed on us a debt of obligation which we fear
+Bung himself, who has imposed on us a debt of obligation which we [[Fear|fear]]
 we can never repay. The life of this gentleman has been one of a very
-chequered description: he has undergone transitions—not from grave to
-gay, for he never was grave—not from lively to severe, for severity
+chequered description: he has undergone transitions—not from [[Grave|grave]] to
+gay, for he never was [[Grave|grave]]—not from lively to severe, for severity
 forms no part of his disposition; his fluctuations have been between
-poverty in the extreme, and poverty modified, or, to use his own
+[[Poverty|poverty]] in the extreme, and [[Poverty|poverty]] modified, or, to use his own
 emphatic language, ‘between nothing to eat and just half enough.’ He is
 not, as he forcibly remarks, ‘one of those fortunate men who, if they
 were to dive under one side of a barge stark-naked, would come up on
@@ -38,14 +38,14 @@ broken beyond redemption by misfortune and want. He is just one of the
 careless, good-for-nothing, happy fellows, who float, cork-like, on the
 surface, for the world to play at hockey with: knocked here, and there,
 and everywhere: now to the right, then to the left, again up in the
-air, and anon to the bottom, but always reappearing and bounding with
+air, and anon to the [[Bottom|bottom]], but always reappearing and bounding with
 the stream buoyantly and merrily along. Some few months before he was
 prevailed upon to stand a contested election for the office of beadle,
 necessity attached him to the service of a broker; and on the
 opportunities he here acquired of ascertaining the condition of most of
 the poorer inhabitants of the parish, his patron, the captain, first
 grounded his claims to public support. Chance threw the man in our way
-a short time since. We were, in the first instance, attracted by his
+a short [[Time|time]] since. We were, in the first instance, attracted by his
 prepossessing impudence at the election; we were not surprised, on
 further acquaintance, to find him a shrewd, knowing fellow, with no
 inconsiderable power of observation; and, after conversing with him a

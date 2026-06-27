@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 7 (part 2)"
+title: "[[Persuasion]] — Chapter 7 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -22,7 +22,7 @@ there was only Anne to hear—
 
 “So you and I are to be left to shift by ourselves, with this poor sick
 
-child; and not a creature coming near us all the evening! I knew how it
+[[Child|child]]; and not a creature coming near us all the evening! I knew how it
 
 would be. This is always my luck. If there is anything disagreeable
 
@@ -32,7 +32,7 @@ any of them. Very unfeeling! I must say it is very unfeeling of him to
 
 be running away from his poor little boy. Talks of his being going on
 
-so well! How does he know that he is going on well, or that there may
+so [[Well|well]]! How does he know that he is going on [[Well|well]], or that there may
 
 not be a sudden change half an hour hence? I did not think Charles
 
@@ -42,7 +42,7 @@ himself, and because I am the poor mother, I am not to be allowed to
 
 stir; and yet, I am sure, I am more unfit than anybody else to be about
 
-the child. My being the mother is the very reason why my feelings
+the [[Child|child]]. My being the mother is the very reason why my feelings
 
 should not be tried. I am not at all equal to it. You saw how
 
@@ -56,21 +56,21 @@ shock. You will not be hysterical again. I dare say we shall have
 
 nothing to distress us. I perfectly understand Mr Robinson’s
 
-directions, and have no fears; and indeed, Mary, I cannot wonder at
+directions, and have no fears; and indeed, Mary, I cannot [[Wonder|wonder]] at
 
 your husband. Nursing does not belong to a man; it is not his province.
 
-A sick child is always the mother’s property: her own feelings
+A sick [[Child|child]] is always the mother’s property: her own feelings
 
 generally make it so.”
 
 
 
-“I hope I am as fond of my child as any mother, but I do not know that
+“I [[Hope|hope]] I am as fond of my [[Child|child]] as any mother, but I do not know that
 
 I am of any more use in the sick-room than Charles, for I cannot be
 
-always scolding and teazing the poor child when it is ill; and you saw,
+always scolding and teazing the poor [[Child|child]] when it is ill; and you saw,
 
 this morning, that if I told him to keep quiet, he was sure to begin
 
@@ -88,7 +88,7 @@ evening away from the poor boy?”
 
 and she could send us word every hour how he was. I really think
 
-Charles might as well have told his father we would all come. I am not
+Charles might as [[Well|well]] have told his father we would all come. I am not
 
 more alarmed about little Charles now than he is. I was dreadfully
 
@@ -96,9 +96,9 @@ alarmed yesterday, but the case is very different to-day.”
 
 
 
-“Well, if you do not think it too late to give notice for yourself,
+“[[Well]], if you do not think it too late to give notice for yourself,
 
-suppose you were to go, as well as your husband. Leave little Charles
+suppose you were to go, as [[Well|well]] as your husband. Leave little Charles
 
 to my care. Mr and Mrs Musgrove cannot think it wrong while I remain
 
@@ -108,9 +108,9 @@ with him.”
 
 “Are you serious?” cried Mary, her eyes brightening. “Dear me! that’s a
 
-very good thought, very good, indeed. To be sure, I may just as well go
+very good thought, very good, indeed. To be sure, I may just as [[Well|well]] go
 
-as not, for I am of no use at home—am I? and it only harasses me. You,
+as not, for I am of no use at [[Home|home]]—am I? and it only harasses me. You,
 
 who have not a mother’s feelings, are a great deal the properest
 
@@ -122,7 +122,7 @@ Jemima. Oh! I shall certainly go; I am sure I ought if I can, quite as
 
 much as Charles, for they want me excessively to be acquainted with
 
-Captain Wentworth, and I know you do not mind being left alone. An
+[[Captain Wentworth]], and I know you do not mind being left [[Alone|alone]]. An
 
 excellent thought of yours, indeed, Anne. I will go and tell Charles,
 
@@ -132,13 +132,13 @@ notice, if anything is the matter; but I dare say there will be nothing
 
 to alarm you. I should not go, you may be sure, if I did not feel quite
 
-at ease about my dear child.”
+at ease about my dear [[Child|child]].”
 
 
 
 The next moment she was tapping at her husband’s dressing-room door,
 
-and as Anne followed her up stairs, she was in time for the whole
+and as Anne followed her up stairs, she was in [[Time|time]] for the whole
 
 conversation, which began with Mary’s saying, in a tone of great
 
@@ -146,17 +146,17 @@ exultation—
 
 
 
-“I mean to go with you, Charles, for I am of no more use at home than
+“I mean to go with you, Charles, for I am of no more use at [[Home|home]] than
 
-you are. If I were to shut myself up for ever with the child, I should
+you are. If I were to shut myself up for ever with the [[Child|child]], I should
 
 not be able to persuade him to do anything he did not like. Anne will
 
-stay; Anne undertakes to stay at home and take care of him. It is
+stay; Anne undertakes to stay at [[Home|home]] and take care of him. It is
 
 Anne’s own proposal, and so I shall go with you, which will be a great
 
-deal better, for I have not dined at the other house since Tuesday.”
+deal better, for I have not dined at the other [[house]] since Tuesday.”
 
 
 
@@ -164,7 +164,7 @@ deal better, for I have not dined at the other house since Tuesday.”
 
 very glad to have you go; but it seems rather hard that she should be
 
-left at home by herself, to nurse our sick child.”
+left at [[Home|home]] by herself, to [[Nurse|nurse]] our sick [[Child|child]].”
 
 
 
@@ -174,9 +174,9 @@ manner being soon sufficient to convince him, where conviction was at
 
 least very agreeable, he had no farther scruples as to her being left
 
-to dine alone, though he still wanted her to join them in the evening,
+to dine [[Alone|alone]], though he still wanted her to join them in the evening,
 
-when the child might be at rest for the night, and kindly urged her to
+when the [[Child|child]] might be at rest for the [[Night|night]], and kindly urged her to
 
 let him come and fetch her, but she was quite unpersuadable; and this
 
@@ -190,7 +190,7 @@ she was left with as many sensations of comfort, as were, perhaps, ever
 
 likely to be hers. She knew herself to be of the first utility to the
 
-child; and what was it to her if Frederick Wentworth were only half a
+[[Child|child]]; and what was it to her if Frederick Wentworth were only half a
 
 mile distant, making himself agreeable to others?
 
@@ -202,11 +202,11 @@ indifferent, if indifference could exist under such circumstances. He
 
 must be either indifferent or unwilling. Had he wished ever to see her
 
-again, he need not have waited till this time; he would have done what
+again, he need not have waited till this [[Time|time]]; he would have done what
 
 she could not but believe that in his place she should have done long
 
-ago, when events had been early giving him the independence which alone
+ago, when events had been early giving him the independence which [[Alone|alone]]
 
 had been wanting.
 

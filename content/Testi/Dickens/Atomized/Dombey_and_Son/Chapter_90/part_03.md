@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Her mother, after watching her for some time without speaking, ventured
+Her mother, after watching her for some [[Time|time]] without speaking, ventured
 to steal her withered hand a little nearer to her across the table; and
 finding that she permitted this, to touch her face, and smooth her
 hair. With the feeling, as it seemed, that the old woman was at least
@@ -25,16 +25,16 @@ her shoulders, and hovered humbly about her, muttering to herself, as
 she recognised her old features and expression more and more.
 
 “You are very poor, mother, I see,” said Alice, looking round, when she
-had sat thus for some time.
+had sat thus for some [[Time|time]].
 
 “Bitter poor, my deary,” replied the old woman.
 
 She admired her daughter, and was afraid of her. Perhaps her
 admiration, such as it was, had originated long ago, when she first
 found anything that was beautiful appearing in the midst of the squalid
-fight of her existence. Perhaps her fear was referable, in some sort,
+fight of her existence. Perhaps her [[Fear|fear]] was referable, in some sort,
 to the retrospect she had so lately heard. Be this as it might, she
-stood, submissively and deferentially, before her child, and inclined
+stood, submissively and deferentially, before her [[Child|child]], and inclined
 her head, as if in a pitiful entreaty to be spared any further
 reproach.
 
@@ -56,15 +56,15 @@ humbly and submissively than before.
 
 “What family?”
 
-“Hush, darling. Don’t be angry with me. I did it for the love of you.
-In memory of my poor gal beyond seas.” She put out her hand
+“Hush, darling. Don’t be angry with me. I did it for the [[Love|love]] of you.
+In [[Memory|memory]] of my poor gal beyond seas.” She put out her hand
 deprecatingly, and drawing it back again, laid it on her lips.
 
 “Years ago, my deary,” she pursued, glancing timidly at the attentive
-and stern face opposed to her, “I came across his little child, by
+and stern face opposed to her, “I came across his little [[Child|child]], by
 chance.”
 
-“Whose child?”
+“Whose [[Child|child]]?”
 
 “Not his, Alice deary; don’t look at me like that; not his. How could
 it be his? You know he has none.”
@@ -75,7 +75,7 @@ it be his? You know he has none.”
 Since then, darling, I have seen them often. I have seen _him_.”
 
 In uttering this last word, the old woman shrunk and recoiled, as if
-with sudden fear that her daughter would strike her. But though the
+with sudden [[Fear|fear]] that her daughter would strike her. But though the
 daughter’s face was fixed upon her, and expressed the most vehement
 passion, she remained still: except that she clenched her arms tighter
 and tighter within each other, on her bosom, as if to restrain them by
@@ -89,7 +89,7 @@ hand.
 
 “But there we were, said the old woman, “face to face. I spoke to him,
 and he spoke to me. I sat and watched him as he went away down a long
-grove of trees: and at every step he took, I cursed him soul and body.”
+grove of trees: and at every step he took, I cursed him [[Soul|soul]] and [[Body|body]].”
 
 “He will thrive in spite of that,” returned the daughter disdainfully.
 
@@ -100,7 +100,7 @@ rage. It seemed as if the bosom would burst with the emotions that
 strove within it. The effort that constrained and held it pent up, was
 no less formidable than the rage itself: no less bespeaking the violent
 and dangerous character of the woman who made it. But it succeeded, and
-she asked, after a silence:
+she asked, after a [[Silence|silence]]:
 
 “Is he married?”
 
@@ -111,7 +111,7 @@ she asked, after a silence:
 “Not that I know of, deary. But his master and friend is married. Oh,
 we may give him joy! We may give ’em all joy!” cried the old woman,
 hugging herself with her lean arms in her exultation. “Nothing but joy
-to us will come of that marriage. Mind me!”
+to us will come of that [[Marriage|marriage]]. Mind me!”
 
 The daughter looked at her for an explanation.
 
@@ -122,14 +122,14 @@ table—“little here. Have you any money, Alice, deary?”
 
 The covetous, sharp, eager face, with which she asked the question and
 looked on, as her daughter took out of her bosom the little gift she
-had so lately received, told almost as much of the history of this
-parent and child as the child herself had told in words.
+had so lately received, told almost as much of the [[history]] of this
+parent and [[Child|child]] as the [[Child|child]] herself had told in words.
 
 “Is that all?” said the mother.
 
-“I have no more. I should not have this, but for charity.”
+“I have no more. I should not have this, but for [[Charity|charity]].”
 
-“But for charity, eh, deary?” said the old woman, bending greedily over
+“But for [[Charity|charity]], eh, deary?” said the old woman, bending greedily over
 the table to look at the money, which she appeared distrustful of her
 daughter’s still retaining in her hand, and gazing on. “Humph! six and
 six is twelve, and six eighteen—so—we must make the most of it. I’ll go
@@ -139,13 +139,13 @@ With greater alacrity than might have been expected in one of her
 appearance—for age and misery seemed to have made her as decrepit as
 ugly—she began to occupy her trembling hands in tying an old bonnet on
 her head, and folding a torn shawl about herself: still eyeing the
-money in her daughter’s hand, with the same sharp desire.
+money in her daughter’s hand, with the same sharp [[Desire|desire]].
 
-“What joy is to come to us of this marriage, mother?” asked the
+“What joy is to come to us of this [[Marriage|marriage]], mother?” asked the
 daughter. “You have not told me that.”
 
 “The joy,” she replied, attiring herself, with fumbling fingers, “of no
-love at all, and much pride and hate, my deary. The joy of confusion
+[[Love|love]] at all, and much [[Pride|pride]] and hate, my deary. The joy of confusion
 and strife among ’em, proud as they are, and of danger—danger, Alice!”
 
 “What danger?”
@@ -156,5 +156,5 @@ keep good company yet!”
 
 Then, seeing that in the wondering earnestness with which her daughter
 regarded her, her hand involuntarily closed upon the money, the old
-woman made more speed to secure it, and hurriedly added, “but I’ll go
+woman made more [[Speed|speed]] to secure it, and hurriedly added, “but I’ll go
 buy something; I’ll go buy something.”

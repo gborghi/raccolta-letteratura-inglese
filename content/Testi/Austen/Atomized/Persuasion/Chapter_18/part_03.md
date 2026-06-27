@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 18 (part 3)"
+title: "[[Persuasion]] — Chapter 18 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -24,7 +24,7 @@ ordered to walk to keep off the gout, and Mrs Croft seemed to go shares
 
 with him in everything, and to walk for her life to do him good. Anne
 
-saw them wherever she went. Lady Russell took her out in her carriage
+saw them wherever she went. [[Lady Russell]] took her out in her carriage
 
 almost every morning, and she never failed to think of them, and never
 
@@ -46,27 +46,27 @@ looking as intelligent and keen as any of the officers around her.
 
 
 
-Anne was too much engaged with Lady Russell to be often walking
+Anne was too much engaged with [[Lady Russell]] to be often walking
 
 herself; but it so happened that one morning, about a week or ten days
 
 after the Croft’s arrival, it suited her best to leave her friend, or
 
-her friend’s carriage, in the lower part of the town, and return alone
+her friend’s carriage, in the lower part of the town, and return [[Alone|alone]]
 
 to Camden Place, and in walking up Milsom Street she had the good
 
 fortune to meet with the Admiral. He was standing by himself at a
 
-printshop window, with his hands behind him, in earnest contemplation
+printshop [[Window|window]], with his hands behind him, in earnest contemplation
 
 of some print, and she not only might have passed him unseen, but was
 
-obliged to touch as well as address him before she could catch his
+obliged to touch as [[Well|well]] as address him before she could catch his
 
 notice. When he did perceive and acknowledge her, however, it was done
 
-with all his usual frankness and good humour. “Ha! is it you? Thank
+with all his usual frankness and good [[Humour|humour]]. “Ha! is it you? Thank
 
 you, thank you. This is treating me like a friend. Here I am, you see,
 
@@ -82,11 +82,11 @@ cockleshell as that? And yet here are two gentlemen stuck up in it
 
 mightily at their ease, and looking about them at the rocks and
 
-mountains, as if they were not to be upset the next moment, which they
+[[Mountains|mountains]], as if they were not to be upset the next moment, which they
 
-certainly must be. I wonder where that boat was built!” (laughing
+certainly must be. I [[Wonder|wonder]] where that boat was built!” (laughing
 
-heartily); “I would not venture over a horsepond in it. Well,” (turning
+heartily); “I would not venture over a horsepond in it. [[Well]],” (turning
 
 away), “now, where are you bound? Can I go anywhere for you, or with
 
@@ -96,7 +96,7 @@ you? Can I be of any use?”
 
 “None, I thank you, unless you will give me the pleasure of your
 
-company the little way our road lies together. I am going home.”
+company the little way our [[Road|road]] lies together. I am going [[Home|home]].”
 
 
 
@@ -122,7 +122,7 @@ shall only say, ‘How d’ye do?’ as we pass, however. I shall not stop.
 
 ‘How d’ye do?’ Brigden stares to see anybody with me but my wife. She,
 
-poor soul, is tied by the leg. She has a blister on one of her heels,
+poor [[Soul|soul]], is tied by the leg. She has a blister on one of her heels,
 
 as large as a three-shilling piece. If you look across the street, you
 
@@ -132,7 +132,7 @@ both of them! I am glad they are not on this side of the way. Sophy
 
 cannot bear them. They played me a pitiful trick once: got away with
 
-some of my best men. I will tell you the whole story another time.
+some of my best men. I will tell you the whole story another [[Time|time]].
 
 There comes old Sir Archibald Drew and his grandson. Look, he sees us;
 
@@ -140,7 +140,7 @@ he kisses his hand to you; he takes you for my wife. Ah! the peace has
 
 come too soon for that younker. Poor old Sir Archibald! How do you like
 
-Bath, Miss Elliot? It suits us very well. We are always meeting with
+Bath, Miss Elliot? It suits us very [[Well|well]]. We are always meeting with
 
 some old friend or other; the streets full of them every morning; sure
 
@@ -154,7 +154,7 @@ and Deal. We do not like our lodgings here the worse, I can tell you,
 
 for putting us in mind of those we first had at North Yarmouth. The
 
-wind blows through one of the cupboards just in the same way.”
+[[Wind|wind]] blows through one of the cupboards just in the same way.”
 
 
 
@@ -174,7 +174,7 @@ ascending Belmont, he began—
 
 
 
-“Well, now you shall hear something that will surprise you. But first
+“[[Well]], now you shall hear something that will surprise you. But first
 
 of all, you must tell me the name of the young lady I am going to talk
 
@@ -196,11 +196,11 @@ did; but now she could safely suggest the name of “Louisa.”
 
 had not such a number of fine Christian names. I should never be out if
 
-they were all Sophys, or something of that sort. Well, this Miss
+they were all Sophys, or something of that sort. [[Well]], this Miss
 
 Louisa, we all thought, you know, was to marry Frederick. He was
 
-courting her week after week. The only wonder was, what they could be
+courting her week after week. The only [[Wonder|wonder]] was, what they could be
 
 waiting for, till the business at Lyme came; then, indeed, it was clear
 

@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 18)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -32,7 +32,7 @@ OLD CURIOSITY SHOP
 
 
 
-Nothing is important except the fate of the soul; and literature is only
+Nothing is important except the fate of the [[Soul|soul]]; and literature is only
 
 redeemed from an utter triviality, surpassing that of naughts and
 
@@ -62,13 +62,13 @@ Dickens expresses an eager anticipation of everything that will happen
 
 in the motley affairs of men; he looks at the quiet crowd waiting for it
 
-to be picturesque and to play the fool; he expects everything; he is
+to be picturesque and to play the [[Fool|fool]]; he expects everything; he is
 
 torn with a happy hunger. Thackeray is always looking back to yesterday;
 
 Dickens is always looking forward to to-morrow. Both are profoundly
 
-humorous, for there is a humour of the morning and a humour of the
+humorous, for there is a [[Humour|humour]] of the morning and a [[Humour|humour]] of the
 
 evening; but the first guesses at what it will get, at all the
 
@@ -84,11 +84,11 @@ back. It is an idle but obvious thing, which many must have noticed,
 
 that we often find in the title of one of an author's books what might
 
-very well stand for a general description of all of them. Thus all
+very [[Well|well]] stand for a general description of all of them. Thus all
 
-Spenser's works might be called _A Hymn to Heavenly Beauty_; or all Mr.
+Spenser's works might be called _A [[Hymn]] to Heavenly Beauty_; or all Mr.
 
-Bernard Shaw's bound books might be called _You Never Can Tell_. In the
+Bernard [[Shaw]]'s bound books might be called _You Never Can Tell_. In the
 
 same way the whole substance and spirit of Thackeray might be gathered
 
@@ -106,7 +106,7 @@ is reading into Dickens something that he did not mean; and I have been
 
 told that it would have greatly surprised Dickens to be informed that he
 
-"went down the broad road of the Revolution." Of course it would.
+"went down the broad [[Road|road]] of the Revolution." Of course it would.
 
 Criticism does not exist to say about authors the things that they knew
 
@@ -156,9 +156,9 @@ opening and original framework express the idea of a random experience,
 
 a thing come across in the street; a single face in the crowd, followed
 
-until it tells its story. Though the thing ends in a novel it begins in
+until it tells its story. Though the thing ends in a [[Novel|novel]] it begins in
 
-a sketch; it begins as one of the _Sketches by Boz_. There is something
+a [[Sketch|sketch]]; it begins as one of the _Sketches by Boz_. There is something
 
 unconsciously artistic in the very clumsiness of this opening. Master
 
@@ -170,11 +170,11 @@ of one adventure; he goes out to notice everybody and he finds himself
 
 busily and variedly occupied only in watching somebody. In this there is
 
-a very profound truth about the true excitement and inexhaustible poetry
+a very profound [[Truth|truth]] about the true excitement and inexhaustible poetry
 
-of life. The truth is not so much that eternity is full of souls as that
+of life. The [[Truth|truth]] is not so much that [[Eternity|eternity]] is full of souls as that
 
-one soul can fill eternity. In strict art there is something quite lame
+one [[Soul|soul]] can fill [[Eternity|eternity]]. In strict art there is something quite lame
 
 and lumbering about the way in which the benevolent old story-teller
 
@@ -182,7 +182,7 @@ starts to tell many stories and then drops away altogether, while one of
 
 his stories takes his place. But in a larger art, his collision with
 
-Little Nell and his complete eclipse by her personality and narrative
+[[Little Nell]] and his complete eclipse by her personality and narrative
 
 have a real significance. They suggest the random richness of such
 
@@ -196,14 +196,14 @@ It is not true, as is commonly said, that the Dickens pathos as pathos
 
 is bad. It is not true, as is still more commonly said, that the whole
 
-business about Little Nell is bad. The case is more complex than that.
+business about [[Little Nell]] is bad. The case is more complex than that.
 
 Yet complex as it is it admits of one sufficiently clear distinction.
 
-Those who have written about the death of Little Nell, have generally
+Those who have written about the [[Death|death]] of [[Little Nell]], have generally
 
 noticed the crudities of the character itself; the little girl's
 
-unnatural and staring innocence, her constrained and awkward piety. But
+unnatural and staring [[innocence]], her constrained and awkward piety. But
 
 they have nearly all of them entirely failed to notice that there is in

@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE FREE MAN AND THE FORD CAR (part 7)"
+title: "[[Sanity]] — THE FREE MAN AND THE FORD CAR (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -16,10 +16,10 @@ tags:
 
 Now it may be that some of the supporters of the Leisure State
 have in mind some system of distributed machinery, which shall
-really make each man the master of his machine; and in that case
+really make each man the master of his [[Machine|machine]]; and in that case
 I agree that the problem becomes different and that a great part
 of the problem is resolved.  There would still remain the question
-of whether a man with a free soul would want to use a machine upon
+of whether a man with a free [[Soul|soul]] would want to use a [[Machine|machine]] upon
 about three-quarters of the things for which machines are now used.
 In other words, there would remain the whole problem of the craftsman
 in the sense of the creator.  But I should agree that if the small
@@ -28,8 +28,8 @@ of his small property, its claim would be very considerable.
 But it is necessary to make it clear, that if the holidays provided
 for the mechanic are provided as mechanically as at present,
 and with the merely mechanical alternative offered at present,
-I think that even the slavery of his labour would be light compared
-to the grinding slavery of his leisure.
+I think that even the [[Slavery|slavery]] of his labour would be light compared
+to the grinding [[Slavery|slavery]] of his leisure.
 
 = = = = = = = = = = = = = = = =
 
@@ -38,14 +38,14 @@ IV THE FREE MAN AND THE FORD CAR
 I am not a fanatic; and I think that machines may be of considerable
 use in destroying machinery.  I should generously accord them a
 considerable value in the work of exterminating all that they represent.
-But to put the truth in those terms is to talk in terms of
+But to put the [[Truth|truth]] in those terms is to talk in terms of
 the remote conclusion of our slow and reasonable revolution.
-In the immediate situation the same truth may be stated in a more
-moderate way.  Towards all typical things of our time we should have
-a rational charity.  Machinery is not wrong; it is only absurd.
+In the immediate situation the same [[Truth|truth]] may be stated in a more
+moderate way.  Towards all typical things of our [[Time|time]] we should have
+a rational [[Charity|charity]].  Machinery is not wrong; it is only absurd.
 Perhaps we should say it is merely childish, and can even be taken
-in the right spirit by a child.  If, therefore, we find that
-some machine enables us to escape from an inferno of machinery,
+in the right spirit by a [[Child|child]].  If, therefore, we find that
+some [[Machine|machine]] enables us to escape from an inferno of machinery,
 we cannot be committing a sin though we may be cutting a silly figure,
 like a dragoon rejoining his regiment on an old bicycle.
 What is essential is to realize that there is something ridiculous
@@ -53,13 +53,13 @@ about the present position, something wilder than any Utopia.
 For instance, I shall have occasion here to note the proposal
 of centralized electricity, and we could justify the use of it
 so long as we see the joke of it.  But, in fact, we do not
-even see the joke of the waterworks and the water company.
+even see the joke of the waterworks and the [[Water|water]] company.
 It is almost too broadly comic that an essential of life
-like water should be pumped to us from nobody knows where,
+like [[Water|water]] should be pumped to us from nobody knows where,
 by nobody knows whom, sometimes nearly a hundred miles away.
 It is every bit as funny as if air were pumped to us from miles away,
-and we all walked about like divers at the bottom of the sea.
-The only reasonable person is the peasant who owns his own well.
+and we all walked about like divers at the [[Bottom|bottom]] of the sea.
+The only reasonable person is the peasant who owns his own [[Well|well]].
 But we have a long way to go before we begin to think
 about being reasonable.
 
@@ -68,20 +68,20 @@ may work for decentralization.  An obvious case is that recently
 discussed in connection with a common plant of electricity.
 I think it is broadly true that if electricity could be cheapened,
 the chances of a very large number of small independent shops,
-especially workshops, would be greatly improved.  At the same time,
-there is no doubt at all that such dependence for essential power
+especially workshops, would be greatly improved.  At the same [[Time|time]],
+there is no [[Doubt|doubt]] at all that such dependence for essential power
 on a central plant is a real dependence, and is therefore a defect
 in any complete scheme of independence.  On this point I imagine that
 many Distributists might differ considerably; but, speaking for myself,
 I am inclined to follow the more moderate and provisional
 policy that I have suggested more than once in this place.
 I think the first necessity is to make sure of any small properties
-obtaining any success in any decisive or determining degree.
+obtaining any [[success]] in any decisive or determining degree.
 Above all, I think it is vital to create the experience of
 small property, the psychology of small property, the sort of man
 who is a small proprietor.  When once men of that sort exist,
 they will decide, in a manner very different from any modern mob,
-how far the central power-house is to dominate their own private house,
+how far the central power-[[house]] is to dominate their own private [[house]],
 or whether it need dominate at all.  They will perhaps discover
 the way of breaking up and individualizing that power.
 They will sacrifice, if there is any need to sacrifice,
@@ -91,7 +91,7 @@ and machinery can give in creating small property, without in the least
 bowing down to such superstitions where they only destroy it.
 But we must keep in mind the peasant ideal as the motive and the goal;
 and most of those who offer us mechanical help seem to be blankly
-ignorant of what we regard it as helping.  A well-known name will
+ignorant of what we regard it as helping.  A [[Well|well]]-known name will
 illustrate both the thing being done and the man being ignorant
 of what he is doing.
 
@@ -109,13 +109,13 @@ about a man catching a Ford like a fly or possibly a flea.
 But nobody seems to notice how this popularization of motoring
 (however wrong in motive or in method) really is a complete contradiction
 to the fatalistic talk about inevitable combination and concentration.
-The railway is fading before our eyes--birds nesting, as it were,
+The railway is fading before our eyes--[[Birds|birds]] nesting, as it were,
 in the railway signals, and wolves howling, so to speak,
 in the waiting-room. And the railway really was a communal and
 concentrated mode of travel like that in a Utopia of the Socialists.
 The free and solitary traveller is returning before our very eyes;
 not always (it is true) equipped with scrip or scallop, but having
-recovered to some extent the freedom of the King's highway
+recovered to some extent the [[Freedom|freedom]] of the [[King]]'s highway
 in the manner of Merry England.  Nor is this the only ancient
 thing such travel has revived.  While Mugby Junction neglected
 its refreshment-rooms, Hugby-in-the-Hole has revived its inns.

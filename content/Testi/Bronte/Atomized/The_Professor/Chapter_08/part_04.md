@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 7 (part 4)"
+title: "[[The Professor]] — Chapter 7 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,7 +24,7 @@ position, and I proceeded to employ means accordingly.
 
 “Commencez!” cried I, when they had all produced their books. The
 
-moon-faced youth (by name Jules Vanderkelkov, as I afterwards learnt)
+[[Moon|moon]]-faced youth (by name Jules Vanderkelkov, as I afterwards learnt)
 
 took the first sentence. The “livre de lecture” was the “Vicar of
 
@@ -42,11 +42,11 @@ said in his throat and nose, for it is thus the Flamands speak, but
 
 I heard him to the end of his paragraph without proffering a word of
 
-correction, whereat he looked vastly self-complacent, convinced,
+correction, whereat he looked vastly [[Self|self]]-complacent, convinced,
 
-no doubt, that he had acquitted himself like a real born and bred
+no [[Doubt|doubt]], that he had acquitted himself like a real born and bred
 
-“Anglais.” In the same unmoved silence I listened to a dozen in
+“Anglais.” In the same unmoved [[Silence|silence]] I listened to a dozen in
 
 rotation, and when the twelfth had concluded with splutter, hiss, and
 
@@ -78,9 +78,9 @@ were not pleased, I saw, but they were impressed, and in the way
 
 I wished them to be. Having thus taken them down a peg in their
 
-self-conceit, the next step was to raise myself in their estimation; not
+[[Self|self]]-conceit, the next step was to raise myself in their estimation; not
 
-a very easy thing, considering that I hardly dared to speak for fear of
+a very easy thing, considering that I hardly dared to speak for [[Fear|fear]] of
 
 betraying my own deficiencies.
 
@@ -98,9 +98,9 @@ the “Vicar of Wakefield,” and read, in a slow, distinct voice, some
 
 twenty pages, they all the while sitting mute and listening with fixed
 
-attention; by the time I had done nearly an hour had elapsed. I then
+attention; by the [[Time|time]] I had done nearly an hour had elapsed. I then
 
-rose and said:--
+[[Rose|rose]] and said:--
 
 
 
@@ -130,7 +130,7 @@ From the parlour M. Pelet conducted me to my apartment, my “chambre,”
 
 room, with an excessively small bed, but M. Pelet gave me to understand
 
-that I was to occupy it quite alone, which was of course a great
+that I was to occupy it quite [[Alone|alone]], which was of course a great
 
 comfort. Yet, though so limited in dimensions, it had two windows. Light
 
@@ -164,13 +164,13 @@ I did was to scrutinize closely the nailed boards, hoping to find
 
 some chink or crevice which I might enlarge, and so get a peep at the
 
-consecrated ground. My researches were vain, for the boards were well
+consecrated ground. My researches were vain, for the boards were [[Well|well]]
 
 joined and strongly nailed. It is astonishing how disappointed I felt. I
 
 thought it would have been so pleasant to have looked out upon a
 
-garden planted with flowers and trees, so amusing to have watched the
+[[Garden|garden]] planted with [[Flowers|flowers]] and trees, so amusing to have watched the
 
 demoiselles at their play; to have studied female character in a variety
 
@@ -180,33 +180,33 @@ curtain, whereas, owing doubtless to the absurd scruples of some old
 
 duenna of a directress, I had now only the option of looking at a bare
 
-gravelled court, with an enormous “pas de geant” in the middle, and the
+gravelled [[Court|court]], with an enormous “pas de geant” in the middle, and the
 
-monotonous walls and windows of a boys’ school-house round. Not only
+monotonous walls and windows of a boys’ school-[[house]] round. Not only
 
-then, but many a time after, especially in moments of weariness and
+then, but many a [[Time|time]] after, especially in moments of weariness and
 
 low spirits, did I look with dissatisfied eyes on that most tantalizing
 
-board, longing to tear it away and get a glimpse of the green region
+board, [[Longing|longing]] to tear it away and get a glimpse of the green region
 
 which I imagined to lie beyond. I knew a tree grew close up to the
 
-window, for though there were as yet no leaves to rustle, I often heard
+[[Window|window]], for though there were as yet no [[Leaves|leaves]] to rustle, I often heard
 
-at night the tapping of branches against the panes. In the daytime,
+at [[Night|night]] the tapping of branches against the panes. In the daytime,
 
 when I listened attentively, I could hear, even through the boards, the
 
 voices of the demoiselles in their hours of recreation, and, to speak
 
-the honest truth, my sentimental reflections were occasionally a trifle
+the honest [[Truth|truth]], my sentimental reflections were occasionally a trifle
 
 disarranged by the not quite silvery, in fact the too often brazen
 
 sounds, which, rising from the unseen paradise below, penetrated
 
-clamorously into my solitude. Not to mince matters, it really seemed to
+clamorously into my [[Solitude|solitude]]. Not to mince matters, it really seemed to
 
 me a doubtful case whether the lungs of Mdlle. Reuter’s girls or those
 
@@ -214,4 +214,4 @@ of M. Pelet’s boys were the strongest, and when it came to shrieking
 
 the girls indisputably beat the boys hollow. I forgot to say, by-the-by,
 
-that Reuter was the name of the old lady who had had my window bearded
+that Reuter was the name of the old lady who had had my [[Window|window]] bearded

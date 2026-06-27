@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 19)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 19)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -26,14 +26,14 @@ coach in which were one old lady, four young ladies, and the renowned
 Mr. Balim the young ladies’ young gentleman.
 
 We were no sooner fairly off, than the young ladies’ young gentleman
-hummed a fragment of an air, which induced a young lady to inquire
-whether he had danced to that the night before. ‘By Heaven, then, I
+hummed a [[Fragment|fragment]] of an air, which induced a young lady to inquire
+whether he had danced to that the [[Night|night]] before. ‘By Heaven, then, I
 did,’ replied the young gentleman, ‘and with a lovely heiress; a superb
 creature, with twenty thousand pounds.’ ‘You seem rather struck,’
 observed another young lady. ‘’Gad she was a sweet creature,’ returned
 the young gentleman, arranging his hair. ‘Of course _she_ was struck
-too?’ inquired the first young lady. ‘How can you ask, love?’
-interposed the second; ‘could she fail to be?’ ‘Well, honestly I think
+too?’ inquired the first young lady. ‘How can you ask, [[Love|love]]?’
+interposed the second; ‘could she fail to be?’ ‘[[Well]], honestly I think
 she was,’ observed the young gentleman. At this point of the dialogue,
 the young lady who had spoken first, and who sat on the young
 gentleman’s right, struck him a severe blow on the arm with a rosebud,
@@ -46,10 +46,10 @@ smiled sweetly upon the young gentleman, and accused him of being a
 flirt; the young gentleman pleading not guilty, a most interesting
 discussion took place upon the important point whether the young
 gentleman was a flirt or not, which being an agreeable conversation of
-a light kind, lasted a considerable time. At length, a short silence
+a light kind, lasted a considerable [[Time|time]]. At length, a short [[Silence|silence]]
 occurring, the young ladies on either side of the young gentleman fell
 suddenly fast asleep; and the young gentleman, winking upon us to
-preserve silence, won a pair of gloves from each, thereby causing them
+preserve [[Silence|silence]], won a pair of gloves from each, thereby causing them
 to wake with equal suddenness and to scream very loud. The lively
 conversation to which this pleasantry gave rise, lasted for the
 remainder of the ride, and would have eked out a much longer one.
@@ -59,10 +59,10 @@ circumstances, nothing having been left behind but the cork-screw and
 the bread. The married gentlemen were unusually thirsty, which they
 attributed to the heat of the weather; the little boys ate to
 inconvenience; mammas were very jovial, and their daughters very
-fascinating; and the attendants being well-behaved men, got exceedingly
+fascinating; and the attendants being [[Well|well]]-behaved men, got exceedingly
 drunk at a respectful distance.
 
-We had our eye on Mr. Balim at dinner-time, and perceived that he
+We had our eye on Mr. Balim at dinner-[[Time|time]], and perceived that he
 flourished wonderfully, being still surrounded by a little group of
 young ladies, who listened to him as an oracle, while he ate from their
 plates and drank from their glasses in a manner truly captivating from
@@ -72,18 +72,18 @@ a little lively _badinage_ on the subject of ladies’ dresses, he had
 evinced as much knowledge as if he had been born and bred a milliner.
 
 As such of the fat people who did not happen to fall asleep after
-dinner entered upon a most vigorous game at ball, we slipped away alone
+dinner entered upon a most vigorous game at ball, we slipped away [[Alone|alone]]
 into a thicker part of the wood, hoping to fall in with Mr. Balim, the
 greater part of the young people having dropped off in twos and threes
 and the young ladies’ young gentleman among them. Nor were we
 disappointed, for we had not walked far, when, peeping through the
 trees, we discovered him before us, and truly it was a pleasant thing
-to contemplate his greatness.
+to contemplate his [[Greatness|greatness]].
 
 The young ladies’ young gentleman was seated upon the ground, at the
 feet of a few young ladies who were reclining on a bank; he was so
-profusely decked with scarfs, ribands, flowers, and other pretty
-spoils, that he looked like a lamb—or perhaps a calf would be a better
+profusely decked with scarfs, ribands, [[Flowers|flowers]], and other pretty
+spoils, that he looked like a [[Lamb|lamb]]—or perhaps a calf would be a better
 simile—adorned for the sacrifice. One young lady supported a parasol
 over his interesting head, another held his hat, and a third his
 neck-cloth, which in romantic fashion he had thrown off; the young

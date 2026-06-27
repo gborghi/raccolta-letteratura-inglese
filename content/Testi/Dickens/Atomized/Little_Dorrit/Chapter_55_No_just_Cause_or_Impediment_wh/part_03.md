@@ -47,7 +47,7 @@ upright again.
 ‘--That my daughter Fanny is--ha--contracted to be married to Mr
 Sparkler, with whom you are acquainted. Hence, madam, you will be
 relieved of half your difficult charge--ha--difficult charge.’ Mr
-Dorrit repeated it with his angry eye on Fanny. ‘But not, I hope, to
+Dorrit repeated it with his angry eye on Fanny. ‘But not, I [[Hope|hope]], to
 the--hum--diminution of any other portion, direct or indirect, of the
 footing you have at present the kindness to occupy in my family.’
 
@@ -57,7 +57,7 @@ appreciative of my friendly services.’
 
 (Miss Fanny coughed, as much as to say, ‘You are right.’)
 
-‘Miss Dorrit has no doubt exercised the soundest discretion of which
+‘Miss Dorrit has no [[Doubt|doubt]] exercised the soundest discretion of which
 the circumstances admitted, and I trust will allow me to offer her my
 sincere congratulations. When free from the trammels of passion,’ Mrs
 General closed her eyes at the word, as if she could not utter it, and
@@ -71,7 +71,7 @@ face, ‘Papa, potatoes, poultry, Prunes, and prism.’
 
 ‘Mr Dorrit,’ she superadded aloud, ‘is ever most obliging; and for
 the attention, and I will add distinction, of having this confidence
-imparted to me by himself and Miss Dorrit at this early time, I beg to
+imparted to me by himself and Miss Dorrit at this early [[Time|time]], I beg to
 offer the tribute of my thanks. My thanks, and my congratulations, are
 equally the meed of Mr Dorrit and of Miss Dorrit.’
 
@@ -88,11 +88,11 @@ and the left undermost, with a Prunes and Prism smile.
 smile with one in which there was no trace of those ingredients, ‘will
 of course be the highest object of my married life; to lose it, would of
 course be perfect wretchedness. I am sure your great kindness will
-not object, and I hope papa will not object, to my correcting a
+not object, and I [[Hope|hope]] papa will not object, to my correcting a
 small mistake you have made, however. The best of us are so liable to
 mistakes, that even you, Mrs General, have fallen into a little error.
 The attention and distinction you have so impressively mentioned, Mrs
-General, as attaching to this confidence, are, I have no doubt, of the
+General, as attaching to this confidence, are, I have no [[Doubt|doubt]], of the
 most complimentary and gratifying description; but they don’t at all
 proceed from me. The merit of having consulted you on the subject would
 have been so great in me, that I feel I must not lay claim to it when it
@@ -100,8 +100,8 @@ really is not mine. It is wholly papa’s. I am deeply obliged to you for
 your encouragement and patronage, but it was papa who asked for it.
 I have to thank you, Mrs General, for relieving my breast of a great
 weight by so handsomely giving your consent to my engagement, but you
-have really nothing to thank me for. I hope you will always approve of
-my proceedings after I have left home and that my sister also may long
+have really nothing to thank me for. I [[Hope|hope]] you will always approve of
+my proceedings after I have left [[Home|home]] and that my sister also may long
 remain the favoured object of your condescension, Mrs General.’
 
 With this address, which was delivered in her politest manner, Fanny
@@ -112,10 +112,10 @@ her eyes, tell her what had passed below, and ask her what she thought
 of Pa now?
 
 Towards Mrs Merdle, the young lady comported herself with great
-independence and self-possession; but not as yet with any more decided
+independence and [[Self|self]]-possession; but not as yet with any more decided
 opening of hostilities. Occasionally they had a slight skirmish, as when
 Fanny considered herself patted on the back by that lady, or as when Mrs
-Merdle looked particularly young and well; but Mrs Merdle always soon
+Merdle looked particularly young and [[Well|well]]; but Mrs Merdle always soon
 terminated those passages of arms by sinking among her cushions with the
 gracefullest indifference, and finding her attention otherwise engaged.
 Society (for that mysterious creature sat upon the Seven Hills too)

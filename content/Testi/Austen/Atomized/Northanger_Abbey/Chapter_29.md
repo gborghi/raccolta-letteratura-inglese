@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 28"
+title: "[[Northanger Abbey]] — Chapter 28"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER 28
 
 
 
-Soon after this, the General found himself obliged to go to London for
+Soon after this, the General found himself obliged to go to [[London]] for
 
 a week; and he left Northanger earnestly regretting that any necessity
 
@@ -32,11 +32,11 @@ children as their chief object in his absence. His departure gave
 
 Catherine the first experimental conviction that a loss may be
 
-sometimes a gain. The happiness with which their time now passed, every
+sometimes a gain. The happiness with which their [[Time|time]] now passed, every
 
 employment voluntary, every laugh indulged, every meal a scene of ease
 
-and good humour, walking where they liked and when they liked, their
+and good [[Humour|humour]], walking where they liked and when they liked, their
 
 hours, pleasures, and fatigues at their own command, made her
 
@@ -44,7 +44,7 @@ thoroughly sensible of the restraint which the General’s presence had
 
 imposed, and most thankfully feel their present release from it. Such
 
-ease and such delights made her love the place and the people more and
+ease and such delights made her [[Love|love]] the place and the people more and
 
 more every day; and had it not been for a dread of its soon becoming
 
@@ -54,13 +54,13 @@ beloved by the other, she would at each moment of each day have been
 
 perfectly happy; but she was now in the fourth week of her visit;
 
-before the General came home, the fourth week would be turned, and
+before the General came [[Home|home]], the fourth week would be turned, and
 
 perhaps it might seem an intrusion if she stayed much longer. This was
 
 a painful consideration whenever it occurred; and eager to get rid of
 
-such a weight on her mind, she very soon resolved to speak to Eleanor
+such a weight on her mind, she very soon resolved to speak to [[Eleanor]]
 
 about it at once, propose going away, and be guided in her conduct by
 
@@ -68,19 +68,19 @@ the manner in which her proposal might be taken.
 
 
 
-Aware that if she gave herself much time, she might feel it difficult
+Aware that if she gave herself much [[Time|time]], she might feel it difficult
 
 to bring forward so unpleasant a subject, she took the first
 
-opportunity of being suddenly alone with Eleanor, and of Eleanor’s
+opportunity of being suddenly [[Alone|alone]] with [[Eleanor]], and of [[Eleanor]]’s
 
 being in the middle of a speech about something very different, to
 
-start forth her obligation of going away very soon. Eleanor looked and
+start forth her obligation of going away very soon. [[Eleanor]] looked and
 
 declared herself much concerned. She had “hoped for the pleasure of her
 
-company for a much longer time—had been misled (perhaps by her wishes)
+company for a much longer [[Time|time]]—had been misled (perhaps by her wishes)
 
 to suppose that a much longer visit had been promised—and could not but
 
@@ -118,7 +118,7 @@ leaving them was not even to be thought of. In having this cause of
 
 uneasiness so pleasantly removed, the force of the other was likewise
 
-weakened. The kindness, the earnestness of Eleanor’s manner in pressing
+weakened. The kindness, the earnestness of [[Eleanor]]’s manner in pressing
 
 her to stay, and Henry’s gratified look on being told that her stay was
 
@@ -140,17 +140,17 @@ Henry was not able to obey his father’s injunction of remaining wholly
 
 at Northanger in attendance on the ladies, during his absence in
 
-London, the engagements of his curate at Woodston obliging him to leave
+[[London]], the engagements of his curate at Woodston obliging him to leave
 
 them on Saturday for a couple of nights. His loss was not now what it
 
-had been while the General was at home; it lessened their gaiety, but
+had been while the General was at [[Home|home]]; it lessened their gaiety, but
 
 did not ruin their comfort; and the two girls agreeing in occupation,
 
-and improving in intimacy, found themselves so well sufficient for the
+and improving in intimacy, found themselves so [[Well|well]] sufficient for the
 
-time to themselves, that it was eleven o’clock, rather a late hour at
+[[Time|time]] to themselves, that it was eleven o’[[Clock|clock]], rather a late hour at
 
 the abbey, before they quitted the supper-room on the day of Henry’s
 
@@ -160,11 +160,11 @@ as far as the thickness of the walls would allow them to judge, that a
 
 carriage was driving up to the door, and the next moment confirmed the
 
-idea by the loud noise of the house-bell. After the first perturbation
+idea by the loud noise of the [[house]]-bell. After the first perturbation
 
 of surprise had passed away, in a “Good heaven! what can be the
 
-matter?” it was quickly decided by Eleanor to be her eldest brother,
+matter?” it was quickly decided by [[Eleanor]] to be her eldest brother,
 
 whose arrival was often as sudden, if not quite so unseasonable, and
 
@@ -172,31 +172,31 @@ accordingly she hurried down to welcome him.
 
 
 
-Catherine walked on to her chamber, making up her mind as well as she
+Catherine walked on to her chamber, making up her mind as [[Well|well]] as she
 
 could, to a further acquaintance with Captain Tilney, and comforting
 
 herself under the unpleasant impression his conduct had given her, and
 
-the persuasion of his being by far too fine a gentleman to approve of
+the [[Persuasion|persuasion]] of his being by far too fine a gentleman to approve of
 
 her, that at least they should not meet under such circumstances as
 
 would make their meeting materially painful. She trusted he would never
 
-speak of Miss Thorpe; and indeed, as he must by this time be ashamed of
+speak of Miss Thorpe; and indeed, as he must by this [[Time|time]] be ashamed of
 
 the part he had acted, there could be no danger of it; and as long as
 
 all mention of Bath scenes were avoided, she thought she could behave
 
-to him very civilly. In such considerations time passed away, and it
+to him very civilly. In such considerations [[Time|time]] passed away, and it
 
-was certainly in his favour that Eleanor should be so glad to see him,
+was certainly in his favour that [[Eleanor]] should be so glad to see him,
 
 and have so much to say, for half an hour was almost gone since his
 
-arrival, and Eleanor did not come up.
+arrival, and [[Eleanor]] did not come up.
 
 
 
@@ -216,11 +216,11 @@ idea of anyone’s approaching so cautiously; but resolving not to be
 
 again overcome by trivial appearances of alarm, or misled by a raised
 
-imagination, she stepped quietly forward, and opened the door. Eleanor,
+[[Imagination|imagination]], she stepped quietly forward, and opened the door. [[Eleanor]],
 
-and only Eleanor, stood there. Catherine’s spirits, however, were
+and only [[Eleanor]], stood there. Catherine’s spirits, however, were
 
-tranquillized but for an instant, for Eleanor’s cheeks were pale, and
+tranquillized but for an instant, for [[Eleanor]]’s cheeks were pale, and
 
 her manner greatly agitated. Though evidently intending to come in, it
 
@@ -230,13 +230,13 @@ there. Catherine, supposing some uneasiness on Captain Tilney’s
 
 account, could only express her concern by silent attention, obliged
 
-her to be seated, rubbed her temples with lavender water, and hung over
+her to be seated, rubbed her temples with lavender [[Water|water]], and hung over
 
 her with affectionate solicitude. “My dear Catherine, you must not—you
 
-must not indeed—” were Eleanor’s first connected words. “I am quite
+must not indeed—” were [[Eleanor]]’s first connected words. “I am quite
 
-well. This kindness distracts me—I cannot bear it—I come to you on such
+[[Well|well]]. This kindness distracts me—I cannot bear it—I come to you on such
 
 an errand!”
 
@@ -256,7 +256,7 @@ friend, she exclaimed, “’Tis a messenger from Woodston!”
 
 
 
-“You are mistaken, indeed,” returned Eleanor, looking at her most
+“You are mistaken, indeed,” returned [[Eleanor]], looking at her most
 
 compassionately; “it is no one from Woodston. It is my father himself.”
 
@@ -266,7 +266,7 @@ mentioned his name. His unlooked-for return was enough in itself to
 
 make Catherine’s heart sink, and for a few moments she hardly supposed
 
-there were anything worse to be told. She said nothing; and Eleanor,
+there were anything worse to be told. She said nothing; and [[Eleanor]],
 
 endeavouring to collect herself and speak with firmness, but with eyes
 
@@ -296,7 +296,7 @@ attempt either.”
 
 
 
-“My dear Eleanor,” cried Catherine, suppressing her feelings as well as
+“My dear [[Eleanor]],” cried Catherine, suppressing her feelings as [[Well|well]] as
 
 she could, “do not be so distressed. A second engagement must give way
 
@@ -304,7 +304,7 @@ to a first. I am very, very sorry we are to part—so soon, and so
 
 suddenly too; but I am not offended, indeed I am not. I can finish my
 
-visit here, you know, at any time; or I hope you will come to me. Can
+visit here, you know, at any [[Time|time]]; or I [[Hope|hope]] you will come to me. Can
 
 you, when you return from this lord’s, come to Fullerton?”
 
@@ -318,21 +318,21 @@ you, when you return from this lord’s, come to Fullerton?”
 
 
 
-Eleanor made no answer; and Catherine’s thoughts recurring to something
+[[Eleanor]] made no answer; and Catherine’s thoughts recurring to something
 
 more directly interesting, she added, thinking aloud, “Monday—so soon
 
-as Monday; and you _all_ go. Well, I am certain of—I shall be able to
+as Monday; and you _all_ go. [[Well]], I am certain of—I shall be able to
 
 take leave, however. I need not go till just before you do, you know.
 
-Do not be distressed, Eleanor, I can go on Monday very well. My father
+Do not be distressed, [[Eleanor]], I can go on Monday very [[Well|well]]. My father
 
 and mother’s having no notice of it is of very little consequence. The
 
 General will send a servant with me, I dare say, half the way—and then
 
-I shall soon be at Salisbury, and then I am only nine miles from home.”
+I shall soon be at Salisbury, and then I am only nine miles from [[Home|home]].”
 
 
 
@@ -346,7 +346,7 @@ fixed for your leaving us, and not even the hour is left to your
 
 choice; the very carriage is ordered, and will be here at seven
 
-o’clock, and no servant will be offered you.”
+o’[[Clock|clock]], and no servant will be offered you.”
 
 
 
@@ -362,15 +362,15 @@ anything in extenuation! good God! what will your father and mother
 
 say! after courting you from the protection of real friends to
 
-this—almost double distance from your home, to have you driven out of
+this—almost [[Double|double]] distance from your [[Home|home]], to have you driven out of
 
-the house, without the considerations even of decent civility! dear,
+the [[house]], without the considerations even of decent civility! dear,
 
 dear Catherine, in being the bearer of such a message, I seem guilty
 
 myself of all its insult; yet, I trust you will acquit me, for you must
 
-have been long enough in this house to see that I am but a nominal
+have been long enough in this [[house]] to see that I am but a nominal
 
 mistress of it, that my real power is nothing.”
 
@@ -396,21 +396,21 @@ suppose you to have any concern in, for how is it possible?”
 
 
 
-It was with pain that Catherine could speak at all; and it was only for
+It was with [[Pain|pain]] that Catherine could speak at all; and it was only for
 
-Eleanor’s sake that she attempted it. “I am sure,” said she, “I am very
+[[Eleanor]]’s sake that she attempted it. “I am sure,” said she, “I am very
 
 sorry if I have offended him. It was the last thing I would willingly
 
-have done. But do not be unhappy, Eleanor. An engagement, you know,
+have done. But do not be unhappy, [[Eleanor]]. An engagement, you know,
 
 must be kept. I am only sorry it was not recollected sooner, that I
 
-might have written home. But it is of very little consequence.”
+might have written [[Home|home]]. But it is of very little consequence.”
 
 
 
-“I hope, I earnestly hope, that to your real safety it will be of none;
+“I [[Hope|hope]], I earnestly [[Hope|hope]], that to your real safety it will be of none;
 
 but to everything else it is of the greatest consequence: to comfort,
 
@@ -418,19 +418,19 @@ appearance, propriety, to your family, to the world. Were your friends,
 
 the Allens, still in Bath, you might go to them with comparative ease;
 
-a few hours would take you there; but a journey of seventy miles, to be
+a few hours would take you there; but a [[Journey|journey]] of seventy miles, to be
 
-taken post by you, at your age, alone, unattended!”
+taken post by you, at your age, [[Alone|alone]], unattended!”
 
 
 
-“Oh, the journey is nothing. Do not think about that. And if we are to
+“Oh, the [[Journey|journey]] is nothing. Do not think about that. And if we are to
 
 part, a few hours sooner or later, you know, makes no difference. I can
 
-be ready by seven. Let me be called in time.” Eleanor saw that she
+be ready by seven. Let me be called in [[Time|time]].” [[Eleanor]] saw that she
 
-wished to be alone; and believing it better for each that they should
+wished to be [[Alone|alone]]; and believing it better for each that they should
 
 avoid any further conversation, now left her with, “I shall see you in
 
@@ -438,11 +438,11 @@ the morning.”
 
 
 
-Catherine’s swelling heart needed relief. In Eleanor’s presence
+Catherine’s swelling heart needed relief. In [[Eleanor]]’s presence
 
-friendship and pride had equally restrained her tears, but no sooner
+[[Friendship|friendship]] and [[Pride|pride]] had equally restrained her [[Tears|tears]], but no sooner
 
-was she gone than they burst forth in torrents. Turned from the house,
+was she gone than they burst forth in torrents. Turned from the [[house]],
 
 and in such a way! without any reason that could justify, any apology
 
@@ -450,11 +450,11 @@ that could atone for the abruptness, the rudeness, nay, the insolence
 
 of it. Henry at a distance—not able even to bid him farewell. Every
 
-hope, every expectation from him suspended, at least, and who could say
+[[Hope|hope]], every expectation from him suspended, at least, and who could say
 
 how long? Who could say when they might meet again? And all this by
 
-such a man as General Tilney, so polite, so well bred, and heretofore
+such a man as [[General Tilney]], so polite, so [[Well|well]] bred, and heretofore
 
 so particularly fond of her! it was as incomprehensible as it was
 
@@ -466,7 +466,7 @@ which it was done so grossly uncivil, hurrying her away without any
 
 reference to her own convenience, or allowing her even the appearance
 
-of choice as to the time or mode of her travelling; of two days, the
+of choice as to the [[Time|time]] or mode of her travelling; of two days, the
 
 earliest fixed on, and of that almost the earliest hour, as if resolved
 
@@ -476,7 +476,7 @@ not be obliged even to see her. What could all this mean but an
 
 intentional affront? By some means or other she must have had the
 
-misfortune to offend him. Eleanor had wished to spare her from so
+misfortune to offend him. [[Eleanor]] had wished to spare her from so
 
 painful a notion, but Catherine could not believe it possible that any
 
@@ -486,11 +486,11 @@ not connected, or, at least, not supposed to be connected with it.
 
 
 
-Heavily passed the night. Sleep, or repose that deserved the name of
+Heavily passed the [[Night|night]]. [[Sleep]], or repose that deserved the name of
 
-sleep, was out of the question. That room, in which her disturbed
+[[Sleep|sleep]], was out of the question. That room, in which her disturbed
 
-imagination had tormented her on her first arrival, was again the scene
+[[Imagination|imagination]] had tormented her on her first arrival, was again the scene
 
 of agitated spirits and unquiet slumbers. Yet how different now the
 
@@ -500,21 +500,21 @@ superior in reality and substance! her anxiety had foundation in fact,
 
 her fears in probability; and with a mind so occupied in the
 
-contemplation of actual and natural evil, the solitude of her
+contemplation of actual and natural evil, the [[Solitude|solitude]] of her
 
 situation, the darkness of her chamber, the antiquity of the building,
 
 were felt and considered without the smallest emotion; and though the
 
-wind was high, and often produced strange and sudden noises throughout
+[[Wind|wind]] was high, and often produced strange and sudden noises throughout
 
-the house, she heard it all as she lay awake, hour after hour, without
+the [[house]], she heard it all as she lay awake, hour after hour, without
 
 curiosity or terror.
 
 
 
-Soon after six Eleanor entered her room, eager to show attention or
+Soon after six [[Eleanor]] entered her room, eager to show attention or
 
 give assistance where it was possible; but very little remained to be
 
@@ -532,27 +532,27 @@ might properly be received by her. But the knowledge would have been
 
 useless here; it was not called for; neither clemency nor dignity was
 
-put to the trial—Eleanor brought no message. Very little passed between
+put to the trial—[[Eleanor]] brought no message. Very little passed between
 
-them on meeting; each found her greatest safety in silence, and few and
+them on meeting; each found her greatest safety in [[Silence|silence]], and few and
 
 trivial were the sentences exchanged while they remained upstairs,
 
-Catherine in busy agitation completing her dress, and Eleanor with more
+Catherine in busy agitation completing her dress, and [[Eleanor]] with more
 
 goodwill than experience intent upon filling the trunk. When everything
 
 was done they left the room, Catherine lingering only half a minute
 
-behind her friend to throw a parting glance on every well-known,
+behind her friend to throw a parting glance on every [[Well|well]]-known,
 
 cherished object, and went down to the breakfast-parlour, where
 
-breakfast was prepared. She tried to eat, as well to save herself from
+breakfast was prepared. She tried to eat, as [[Well|well]] to save herself from
 
-the pain of being urged as to make her friend comfortable; but she had
+the [[Pain|pain]] of being urged as to make her friend comfortable; but she had
 
-no appetite, and could not swallow many mouthfuls. The contrast between
+no appetite, and could not [[Swallow|swallow]] many mouthfuls. The contrast between
 
 this and her last breakfast in that room gave her fresh misery, and
 
@@ -576,11 +576,11 @@ in thought as herself; and the appearance of the carriage was the first
 
 thing to startle and recall them to the present moment. Catherine’s
 
-colour rose at the sight of it; and the indignity with which she was
+colour [[Rose|rose]] at the sight of it; and the indignity with which she was
 
 treated, striking at that instant on her mind with peculiar force, made
 
-her for a short time sensible only of resentment. Eleanor seemed now
+her for a short [[Time|time]] sensible only of resentment. [[Eleanor]] seemed now
 
 impelled into resolution and speech.
 
@@ -588,13 +588,13 @@ impelled into resolution and speech.
 
 “You _must_ write to me, Catherine,” she cried; “you _must_ let me hear
 
-from you as soon as possible. Till I know you to be safe at home, I
+from you as soon as possible. Till I know you to be safe at [[Home|home]], I
 
 shall not have an hour’s comfort. For _one_ letter, at all risks, all
 
 hazards, I must entreat. Let me have the satisfaction of knowing that
 
-you are safe at Fullerton, and have found your family well, and then,
+you are safe at Fullerton, and have found your family [[Well|well]], and then,
 
 till I can ask for your correspondence as I ought to do, I will not
 
@@ -604,23 +604,23 @@ cover to Alice.”
 
 
 
-“No, Eleanor, if you are not allowed to receive a letter from me, I am
+“No, [[Eleanor]], if you are not allowed to receive a letter from me, I am
 
-sure I had better not write. There can be no doubt of my getting home
+sure I had better not write. There can be no [[Doubt|doubt]] of my getting [[Home|home]]
 
 safe.”
 
 
 
-Eleanor only replied, “I cannot wonder at your feelings. I will not
+[[Eleanor]] only replied, “I cannot [[Wonder|wonder]] at your feelings. I will not
 
 importune you. I will trust to your own kindness of heart when I am at
 
 a distance from you.” But this, with the look of sorrow accompanying
 
-it, was enough to melt Catherine’s pride in a moment, and she instantly
+it, was enough to melt Catherine’s [[Pride|pride]] in a moment, and she instantly
 
-said, “Oh, Eleanor, I _will_ write to you indeed.”
+said, “Oh, [[Eleanor]], I _will_ write to you indeed.”
 
 
 
@@ -628,9 +628,9 @@ There was yet another point which Miss Tilney was anxious to settle,
 
 though somewhat embarrassed in speaking of. It had occurred to her that
 
-after so long an absence from home, Catherine might not be provided
+after so long an absence from [[Home|home]], Catherine might not be provided
 
-with money enough for the expenses of her journey, and, upon suggesting
+with money enough for the expenses of her [[Journey|journey]], and, upon suggesting
 
 it to her with most affectionate offers of accommodation, it proved to
 
@@ -638,21 +638,21 @@ be exactly the case. Catherine had never thought on the subject till
 
 that moment, but, upon examining her purse, was convinced that but for
 
-this kindness of her friend, she might have been turned from the house
+this kindness of her friend, she might have been turned from the [[house]]
 
-without even the means of getting home; and the distress in which she
+without even the means of getting [[Home|home]]; and the distress in which she
 
 must have been thereby involved filling the minds of both, scarcely
 
-another word was said by either during the time of their remaining
+another word was said by either during the [[Time|time]] of their remaining
 
-together. Short, however, was that time. The carriage was soon
+together. Short, however, was that [[Time|time]]. The carriage was soon
 
 announced to be ready; and Catherine, instantly rising, a long and
 
 affectionate embrace supplied the place of language in bidding each
 
-other adieu; and, as they entered the hall, unable to leave the house
+other adieu; and, as they entered the hall, unable to leave the [[house]]
 
 without some mention of one whose name had not yet been spoken by
 
@@ -662,7 +662,7 @@ intelligible that she left “her kind remembrance for her absent
 
 friend.” But with this approach to his name ended all possibility of
 
-restraining her feelings; and, hiding her face as well as she could
+restraining her feelings; and, hiding her face as [[Well|well]] as she could
 
 with her handkerchief, she darted across the hall, jumped into the
 

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 46 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 46 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -36,20 +36,20 @@ but the latter half, which was dated a day later, and written in evident
 agitation, gave more important intelligence. It was to this effect:--
 
 “Since writing the above, dearest Lizzy, something has occurred of a
-most unexpected and serious nature; but I am afraid of alarming you--be
-assured that we are all well. What I have to say relates to poor Lydia.
-An express came at twelve last night, just as we were all gone to bed,
+most unexpected and serious [[Nature|nature]]; but I am afraid of alarming you--be
+assured that we are all [[Well|well]]. What I have to say relates to poor Lydia.
+An express came at twelve last [[Night|night]], just as we were all gone to bed,
 from Colonel Forster, to inform us that she was gone off to Scotland
-with one of his officers; to own the truth, with Wickham! Imagine our
+with one of his officers; to own the [[Truth|truth]], with Wickham! Imagine our
 surprise. To Kitty, however, it does not seem so wholly unexpected. I am
 very, very sorry. So imprudent a match on both sides! But I am willing
-to hope the best, and that his character has been misunderstood.
+to [[Hope|hope]] the best, and that his character has been misunderstood.
 Thoughtless and indiscreet I can easily believe him, but this step (and
 let us rejoice over it) marks nothing bad at heart. His choice is
 disinterested at least, for he must know my father can give her nothing.
 Our poor mother is sadly grieved. My father bears it better. How
 thankful am I, that we never let them know what has been said against
-him; we must forget it ourselves. They were off Saturday night about
+him; we must forget it ourselves. They were off Saturday [[Night|night]] about
 twelve, as is conjectured, but were not missed till yesterday morning at
 eight. The express was sent off directly. My dear Lizzy, they must have
 passed within ten miles of us. Colonel Forster gives us reason to expect
@@ -58,18 +58,18 @@ their intention. I must conclude, for I cannot be long from my poor
 mother. I am afraid you will not be able to make it out, but I hardly
 know what I have written.”
 
-Without allowing herself time for consideration, and scarcely knowing
+Without allowing herself [[Time|time]] for consideration, and scarcely knowing
 what she felt, Elizabeth, on finishing this letter, instantly seized the
 other, and opening it with the utmost impatience, read as follows: it
 had been written a day later than the conclusion of the first.
 
-“By this time, my dearest sister, you have received my hurried letter; I
-wish this may be more intelligible, but though not confined for time, my
+“By this [[Time|time]], my dearest sister, you have received my hurried letter; I
+wish this may be more intelligible, but though not confined for [[Time|time]], my
 head is so bewildered that I cannot answer for being coherent. Dearest
 Lizzy, I hardly know what I would write, but I have bad news for you,
-and it cannot be delayed. Imprudent as a marriage between Mr. Wickham
+and it cannot be delayed. Imprudent as a [[Marriage|marriage]] between Mr. Wickham
 and our poor Lydia would be, we are now anxious to be assured it has
-taken place, for there is but too much reason to fear they are not gone
+taken place, for there is but too much reason to [[Fear|fear]] they are not gone
 to Scotland. Colonel Forster came yesterday, having left Brighton the
 day before, not many hours after the express. Though Lydia’s short
 letter to Mrs. F. gave them to understand that they were going to Gretna
@@ -80,10 +80,10 @@ intending to trace their route. He did trace them easily to Clapham, but
 no farther; for on entering that place, they removed into a
 hackney-coach, and dismissed the chaise that brought them from Epsom.
 All that is known after this is, that they were seen to continue the
-London road. I know not what to think. After making every possible
-inquiry on that side of London, Colonel F. came on into Hertfordshire,
-anxiously renewing them at all the turnpikes, and at the inns in Barnet
-and Hatfield, but without any success,--no such people had been seen to
+[[London]] [[Road|road]]. I know not what to think. After making every possible
+inquiry on that side of [[London]], Colonel F. came on into Hertfordshire,
+anxiously renewing them at all the [[turnpikes]], and at the inns in Barnet
+and Hatfield, but without any [[success]],--no such people had been seen to
 pass through. With the kindest concern he came on to Longbourn, and
 broke his apprehensions to us in a manner most creditable to his heart.
 I am sincerely grieved for him and Mrs. F.; but no one can throw any
@@ -94,21 +94,21 @@ privately in town than to pursue their first plan; and even if _he_
 could form such a design against a young woman of Lydia’s connections,
 which is not likely, can I suppose her so lost to everything?
 Impossible! I grieve to find, however, that Colonel F. is not disposed
-to depend upon their marriage: he shook his head when I expressed my
+to depend upon their [[Marriage|marriage]]: he shook his head when I expressed my
 hopes, and said he feared W. was not a man to be trusted. My poor mother
 is really ill, and keeps her room. Could she exert herself, it would be
 better, but this is not to be expected; and as to my father, I never in
 my life saw him so affected. Poor Kitty has anger for having concealed
 their attachment; but as it was a matter of confidence, one cannot
-wonder. I am truly glad, dearest Lizzy, that you have been spared
+[[Wonder|wonder]]. I am truly glad, dearest Lizzy, that you have been spared
 something of these distressing scenes; but now, as the first shock is
 over, shall I own that I long for your return? I am not so selfish,
 however, as to press for it, if inconvenient. Adieu! I take up my pen
 again to do, what I have just told you I would not; but circumstances
 are such, that I cannot help earnestly begging you all to come here as
-soon as possible. I know my dear uncle and aunt so well, that I am not
+soon as possible. I know my dear uncle and aunt so [[Well|well]], that I am not
 afraid of requesting it, though I have still something more to ask of
-the former. My father is going to London with Colonel Forster instantly,
+the former. My father is going to [[London]] with Colonel Forster instantly,
 to try to discover her. What he means to do, I am sure I know not; but
 his excessive distress will not allow him to pursue any measure in the
 best and safest way, and Colonel Forster is obliged to be at Brighton

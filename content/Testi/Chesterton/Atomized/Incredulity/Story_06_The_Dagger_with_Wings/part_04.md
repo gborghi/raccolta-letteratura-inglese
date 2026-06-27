@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Dagger with Wings (part 4)"
+title: "[[Incredulity]] — The Dagger with Wings (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-Father Brown tossed the paper on the floor and sat bolt upright
+[[Father Brown]] tossed the paper on the floor and sat bolt upright
 in his chair.
 
 `You mustn't let that sort of stuff stupefy you,' he said sharply.
 `These devils always try to make us helpless by making us hopeless.'
 
 Rather to his surprise, an awakening wave went over the prostrate figure,
-which sprang from its chair as if startled out of a dream.
+which sprang from its chair as if startled out of [[A Dream|a dream]].
 
 `You're right, you're right!' cried Aylmer with a rather
 uncanny animation; `and the devils shall find that I'm
 not so hopeless after all, nor so helpless either.
-Perhaps I have more hope and better help than you fancy.'
+Perhaps I have more [[Hope|hope]] and better help than you fancy.'
 
 He stood with his hands in his pockets, frowning down at the priest,
-who had a momentary doubt, during that strained silence,
+who had a momentary [[Doubt|doubt]], during that strained [[Silence|silence]],
 about whether the man's long peril had not touched his brain.
 But when he spoke it was quite soberly.
 
@@ -48,10 +48,10 @@ But my brothers were wrong about the antidote.  The antidote
 to black magic is not brute materialism or worldly wisdom.
 The antidote to black magic is white magic.'
 
-`It rather depends,' said Father Brown, `what you mean by white magic.'
+`It rather depends,' said [[Father Brown]], `what you mean by white magic.'
 
-`I mean silver magic,' said the other, in a low voice, like one
-speaking of a secret revelation.  Then after a silence he said:
+`I mean silver [[Magic|magic]],' said the other, in a low voice, like one
+speaking of a secret revelation.  Then after a [[Silence|silence]] he said:
 `Do you know what I mean by silver magic?  Excuse me a moment.'
 
 He turned and opened the central door with the red glass and went
@@ -82,7 +82,7 @@ negative whiteness of daylight but the positive whiteness of snow.
 All round, the sweeping fall of the country was covered with
 that shining pallor that seems at once hoary and innocent.
 
-`Here is white magic anyhow,' said Father Brown in his cheerful voice.
+`Here is white [[Magic|magic]] anyhow,' said [[Father Brown]] in his cheerful voice.
 Then, as he turned back into the hall, he murmured, `And silver magic too,
 I suppose,' for the white lustre touched the silver with splendour
 and lit up the old steel here and there in the darkling armoury.
@@ -101,14 +101,14 @@ and by sheer violence broke off the small figure at the top.
 when they had reseated themselves.  He had recovered from
 his momentary annoyance at the priest's restlessness.
 `Graham of Claverhouse, you know, who persecuted the Covenanters
-and had a black horse that could ride straight up a precipice.
+and had a black [[Horse|horse]] that could ride straight up a precipice.
 Don't you know he could only be shot with a silver bullet,
 because he had sold himself to the Devil?  That's one comfort
 about you; at least you know enough to believe in the Devil.'
 
 `Oh, yes,' replied Father Brown, `I believe in the Devil.
 What I don't believe in is the Dundee.  I mean the Dundee
-of Covenanting legends, with his nightmare of a horse.
+of Covenanting legends, with his [[nightmare]] of a [[Horse|horse]].
 John Graham was simply a seventeenth--century professional soldier,
 rather better than most.  If he dragooned them it was because he was
 a dragoon, but not a dragon.  Now my experience is that it's not
@@ -120,7 +120,7 @@ of Dalrymple of Stair?'
 
 `No,' replied the other gruffly.
 
-`You've heard of what he did,' said Father Brown, `and it was worse
+`You've heard of what he did,' said [[Father Brown]], `and it was worse
 than anything Dundee ever did; yet he escapes the infamy by oblivion.
 He was the man who made the Massacre of Glencoe.  He was a very learned
 man and lucid lawyer, a statesman with very serious and enlarged ideas

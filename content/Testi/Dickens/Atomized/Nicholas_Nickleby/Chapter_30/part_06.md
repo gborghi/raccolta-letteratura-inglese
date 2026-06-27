@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 30 (part 6)"
+title: "[[Nicholas Nickleby]] — Chapter 30 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -24,7 +24,7 @@ this week against them, or if that will not repay you, say at once what
 will. Quick, quick.’
 
 ‘We’ll cry quits about that,’ returned Crummles. ‘But can’t we have one
-last night more?’
+last [[Night|night]] more?’
 
 ‘Not an hour--not a minute,’ replied Nicholas, impatiently.
 
@@ -54,14 +54,14 @@ leading him to a contemplation of the extreme scantiness of his
 attire, he shut the door abruptly, and retired upstairs with great
 precipitation.
 
-Smike had made good speed while Nicholas was absent, and with his help
+[[Smike]] had made good [[Speed|speed]] while Nicholas was absent, and with his help
 everything was soon ready for their departure. They scarcely stopped to
 take a morsel of breakfast, and in less than half an hour arrived at the
 coach-office: quite out of breath with the haste they had made to reach
-it in time. There were yet a few minutes to spare, so, having secured
+it in [[Time|time]]. There were yet a few minutes to spare, so, having secured
 the places, Nicholas hurried into a slopseller’s hard by, and bought
-Smike a great-coat. It would have been rather large for a substantial
-yeoman, but the shopman averring (and with considerable truth) that
+[[Smike]] a great-coat. It would have been rather large for a substantial
+yeoman, but the shopman averring (and with considerable [[Truth|truth]]) that
 it was a most uncommon fit, Nicholas would have purchased it in his
 impatience if it had been twice the size.
 
@@ -75,7 +75,7 @@ the voice of Mr. Crummles exclaim, ‘It is he--my friend, my friend!’
 ‘what are you about?’
 
 The manager made no reply, but strained him to his breast again,
-exclaiming as he did so, ‘Farewell, my noble, my lion-hearted boy!’
+exclaiming as he did so, ‘Farewell, my noble, my [[Lion|lion]]-hearted boy!’
 
 In fact, Mr. Crummles, who could never lose any opportunity for
 professional display, had turned out for the express purpose of taking a
@@ -84,16 +84,16 @@ now, to that young gentleman’s most profound annoyance, inflicting upon
 him a rapid succession of stage embraces, which, as everybody knows, are
 performed by the embracer’s laying his or her chin on the shoulder of
 the object of affection, and looking over it. This Mr. Crummles did in
-the highest style of melodrama, pouring forth at the same time all
+the highest style of [[Melodrama|melodrama]], pouring forth at the same [[Time|time]] all
 the most dismal forms of farewell he could think of, out of the stock
 pieces. Nor was this all, for the elder Master Crummles was going
-through a similar ceremony with Smike; while Master Percy Crummles, with
+through a similar ceremony with [[Smike]]; while Master Percy Crummles, with
 a very little second-hand camlet cloak, worn theatrically over his left
 shoulder, stood by, in the attitude of an attendant officer, waiting to
 convey the two victims to the scaffold.
 
-The lookers-on laughed very heartily, and as it was as well to put a
+The lookers-on laughed very heartily, and as it was as [[Well|well]] to put a
 good face upon the matter, Nicholas laughed too when he had succeeded
-in disengaging himself; and rescuing the astonished Smike, climbed up
-to the coach roof after him, and kissed his hand in honour of the absent
+in disengaging himself; and rescuing the astonished [[Smike]], climbed up
+to the coach roof after him, and kissed his hand in [[Honour|honour]] of the absent
 Mrs. Crummles as they rolled away.

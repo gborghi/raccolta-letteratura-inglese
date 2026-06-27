@@ -26,7 +26,7 @@ impeach,’ Eugene struck in with great deliberation, ‘it would be, that
 to tip a whistle is to advertise mystery and invite speculation.
 My honourable and gallant friend will, I trust, excuse me, as an
 independent member, for throwing out a remark which I feel to be due to
-this house and the country.’
+this [[house]] and the country.’
 
 ‘Was that the T’other Governor, or Lawyer Lightwood?’ asked Riderhood.
 For, they spoke as they crouched or lay, without seeing one another’s
@@ -52,26 +52,26 @@ Understood all.
 
 ‘Off she goes then!’
 
-In a moment, with the wind cutting keenly at him sideways, he was
+In a moment, with the [[Wind|wind]] cutting keenly at him sideways, he was
 staggering down to his boat; in a few moments he was clear, and creeping
-up the river under their own shore.
+up the [[River|river]] under their own shore.
 
 Eugene had raised himself on his elbow to look into the darkness after
 him. ‘I wish the boat of my honourable and gallant friend,’ he murmured,
 lying down again and speaking into his hat, ‘may be endowed
-with philanthropy enough to turn bottom-upward and extinguish
+with philanthropy enough to turn [[Bottom|bottom]]-upward and extinguish
 him!—Mortimer.’
 
 ‘My honourable friend.’
 
 ‘Three burglaries, two forgeries, and a midnight assassination.’ Yet
-in spite of having those weights on his conscience, Eugene was somewhat
+in spite of having those weights on his [[Conscience|conscience]], Eugene was somewhat
 enlivened by the late slight change in the circumstances of affairs. So
 were his two companions. Its being a change was everything. The suspense
 seemed to have taken a new lease, and to have begun afresh from a recent
 date. There was something additional to look for. They were all three
 more sharply on the alert, and less deadened by the miserable influences
-of the place and time.
+of the place and [[Time|time]].
 
 More than an hour had passed, and they were even dozing, when one of the
 three—each said it was he, and he had NOT dozed—made out Riderhood

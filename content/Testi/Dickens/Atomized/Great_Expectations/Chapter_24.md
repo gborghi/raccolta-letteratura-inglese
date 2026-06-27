@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 24"
+title: "[[Great Expectations]] — Chapter 24"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,16 +18,16 @@ Chapter XXIV.
 
 
 After two or three days, when I had established myself in my room and
-had gone backwards and forwards to London several times, and had
+had gone backwards and forwards to [[London]] several times, and had
 ordered all I wanted of my tradesmen, Mr. Pocket and I had a long talk
 together. He knew more of my intended career than I knew myself, for he
 referred to his having been told by Mr. Jaggers that I was not designed
-for any profession, and that I should be well enough educated for my
+for any profession, and that I should be [[Well|well]] enough educated for my
 destiny if I could “hold my own” with the average of young men in
 prosperous circumstances. I acquiesced, of course, knowing nothing to
 the contrary.
 
-He advised my attending certain places in London, for the acquisition
+He advised my attending certain places in [[London]], for the acquisition
 of such mere rudiments as I wanted, and my investing him with the
 functions of explainer and director of all my studies. He hoped that
 with intelligent assistance I should meet with little to discourage me,
@@ -37,7 +37,7 @@ on confidential terms with me in an admirable manner; and I may state
 at once that he was always so zealous and honourable in fulfilling his
 compact with me, that he made me zealous and honourable in fulfilling
 mine with him. If he had shown indifference as a master, I have no
-doubt I should have returned the compliment as a pupil; he gave me no
+[[Doubt|doubt]] I should have returned the compliment as a pupil; he gave me no
 such excuse, and each of us did the other justice. Nor did I ever
 regard him as having anything ludicrous about him—or anything but what
 was serious, honest, and good—in his tutor communication with me.
@@ -53,10 +53,10 @@ save Herbert some expense, so I went off to Little Britain and imparted
 my wish to Mr. Jaggers.
 
 “If I could buy the furniture now hired for me,” said I, “and one or
-two other little things, I should be quite at home there.”
+two other little things, I should be quite at [[Home|home]] there.”
 
 “Go it!” said Mr. Jaggers, with a short laugh. “I told you you’d get
-on. Well! How much do you want?”
+on. [[Well]]! How much do you want?”
 
 I said I didn’t know how much.
 
@@ -113,7 +113,7 @@ looked surprised, “it’s not personal; it’s professional: only
 professional.”
 
 Wemmick was at his desk, lunching—and crunching—on a dry hard biscuit;
-pieces of which he threw from time to time into his slit of a mouth, as
+pieces of which he threw from [[Time|time]] to [[Time|time]] into his slit of a mouth, as
 if he were posting them.
 
 “Always seems to me,” said Wemmick, “as if he had set a man-trap and
@@ -139,7 +139,7 @@ you like to see ’em? You are one of us, as I may say.”
 I accepted the offer. When Mr. Wemmick had put all the biscuit into the
 post, and had paid me my money from a cash-box in a safe, the key of
 which safe he kept somewhere down his back and produced from his
-coat-collar like an iron-pigtail, we went upstairs. The house was dark
+coat-collar like an iron-pigtail, we went upstairs. The [[house]] was dark
 and shabby, and the greasy shoulders that had left their mark in Mr.
 Jaggers’s room seemed to have been shuffling up and down the staircase
 for years. In the front first floor, a clerk who looked something
@@ -165,10 +165,10 @@ led me into my guardian’s room, and said, “This you’ve seen already.”
 “Pray,” said I, as the two odious casts with the twitchy leer upon them
 caught my sight again, “whose likenesses are those?”
 
-“These?” said Wemmick, getting upon a chair, and blowing the dust off
+“These?” said Wemmick, getting upon a chair, and blowing the [[Dust|dust]] off
 the horrible heads before bringing them down. “These are two celebrated
 ones. Famous clients of ours that got us a world of credit. This chap
-(why you must have come down in the night and been peeping into the
+(why you must have come down in the [[Night|night]] and been peeping into the
 inkstand, to get this blot upon your eyebrow, you old rascal!) murdered
 his master, and, considering that he wasn’t brought up to evidence,
 didn’t plan it badly.”
@@ -197,10 +197,10 @@ pocket-handkerchief.
 same look.”
 
 “You’re right,” said Wemmick; “it’s the genuine look. Much as if one
-nostril was caught up with a horse-hair and a little fish-hook. Yes, he
+nostril was caught up with a [[Horse|horse]]-hair and a little fish-hook. Yes, he
 came to the same end; quite the natural end here, I assure you. He
 forged wills, this blade did, if he didn’t also put the supposed
-testators to sleep too. You were a gentlemanly Cove, though” (Mr.
+testators to [[Sleep|sleep]] too. You were a gentlemanly Cove, though” (Mr.
 Wemmick was again apostrophising), “and you said you could write Greek.
 Yah, Bounceable! What a liar you were! I never met such a liar as you!”
 Before putting his late friend on his shelf again, Wemmick touched the
@@ -223,11 +223,11 @@ your brilliant lookout, but as to myself, my guiding-star always is,
 When I had rendered homage to this light, he went on to say, in a
 friendly manner:—
 
-“If at any odd time when you have nothing better to do, you wouldn’t
+“If at any odd [[Time|time]] when you have nothing better to do, you wouldn’t
 mind coming over to see me at Walworth, I could offer you a bed, and I
-should consider it an honour. I have not much to show you; but such two
+should consider it an [[Honour|honour]]. I have not much to show you; but such two
 or three curiosities as I have got you might like to look over; and I
-am fond of a bit of garden and a summer-house.”
+am fond of a bit of [[Garden|garden]] and a [[Summer|summer]]-[[house]].”
 
 I said I should be delighted to accept his hospitality.
 
@@ -236,13 +236,13 @@ convenient to you. Have you dined with Mr. Jaggers yet?”
 
 “Not yet.”
 
-“Well,” said Wemmick, “he’ll give you wine, and good wine. I’ll give
+“[[Well]],” said Wemmick, “he’ll give you wine, and good wine. I’ll give
 you punch, and not bad punch. And now I’ll tell you something. When you
 go to dine with Mr. Jaggers, look at his housekeeper.”
 
 “Shall I see something very uncommon?”
 
-“Well,” said Wemmick, “you’ll see a wild beast tamed. Not so very
+“[[Well]],” said Wemmick, “you’ll see a wild beast tamed. Not so very
 uncommon, you’ll tell me. I reply, that depends on the original
 wildness of the beast, and the amount of taming. It won’t lower your
 opinion of Mr. Jaggers’s powers. Keep your eye on it.”
@@ -253,11 +253,11 @@ would like to devote five minutes to seeing Mr. Jaggers “at it?”
 
 For several reasons, and not least because I didn’t clearly know what
 Mr. Jaggers would be found to be “at,” I replied in the affirmative. We
-dived into the City, and came up in a crowded police-court, where a
-blood-relation (in the murderous sense) of the deceased, with the
+dived into the [[City]], and came up in a crowded police-[[Court|court]], where a
+[[Blood|blood]]-relation (in the murderous sense) of the deceased, with the
 fanciful taste in brooches, was standing at the bar, uncomfortably
 chewing something; while my guardian had a woman under examination or
-cross-examination,—I don’t know which,—and was striking her, and the
+[[Cross|cross]]-examination,—I don’t know which,—and was striking her, and the
 bench, and everybody present, with awe. If anybody, of whatsoever
 degree, said a word that he didn’t approve of, he instantly required to
 have it “taken down.” If anybody wouldn’t make an admission, he said,

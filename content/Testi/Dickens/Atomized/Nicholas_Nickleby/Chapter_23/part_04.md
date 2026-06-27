@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 23 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 23 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -23,7 +23,7 @@ tags:
 ‘only for a few moments, for I was leaving the company as he joined it,
 so like you that I felt almost certain it was the same.’
 
-‘I see you now for the first time,’ rejoined Nicholas with all due
+‘I see you now for the first [[Time|time]],’ rejoined Nicholas with all due
 gallantry. ‘I am sure I never saw you before; I couldn’t have forgotten
 it.’
 
@@ -42,7 +42,7 @@ called to Miss Ledrook--
 
 ‘Led, my dear,’ said Miss Snevellicci.
 
-‘Well, what is the matter?’ said Miss Ledrook.
+‘[[Well]], what is the matter?’ said Miss Ledrook.
 
 ‘It’s not the same.’
 
@@ -57,7 +57,7 @@ Snevellicci about being struck with Nicholas; for, after some playful
 whispering, Miss Snevellicci hit Miss Ledrook very hard on the backs of
 her hands, and retired up, in a state of pleasing confusion.
 
-‘Ladies and gentlemen,’ said Mr. Vincent Crummles, who had been writing
+‘Ladies and gentlemen,’ said Mr. [[Vincent Crummles]], who had been writing
 on a piece of paper, ‘we’ll call the Mortal Struggle tomorrow at ten;
 everybody for the procession. Intrigue, and Ways and Means, you’re all
 up in, so we shall only want one rehearsal. Everybody at ten, if you
@@ -77,7 +77,7 @@ gentlemen.’
 
 The ladies and gentlemen required no second notice to quit; and, in
 a few minutes, the theatre was deserted, save by the Crummles family,
-Nicholas, and Smike.
+Nicholas, and [[Smike]].
 
 ‘Upon my word,’ said Nicholas, taking the manager aside, ‘I don’t think
 I can be ready by Monday.’
@@ -95,7 +95,7 @@ hastily.
 ‘Nothing, my dear sir,’ retorted the manager, with evident impatience.
 ‘Do you understand French?’
 
-‘Perfectly well.’
+‘Perfectly [[Well|well]].’
 
 ‘Very good,’ said the manager, opening the table drawer, and giving a
 roll of paper from it to Nicholas. ‘There! Just turn that into English,
@@ -113,26 +113,26 @@ Nicholas could not help thinking that, for the first week, it would be
 an uncommon convenience to have a turn-up bedstead in the pit, but he
 merely remarked that he had not turned his thoughts that way.
 
-‘Come home with me then,’ said Mr. Crummles, ‘and my boys shall go with
+‘Come [[Home|home]] with me then,’ said Mr. Crummles, ‘and my boys shall go with
 you after dinner, and show you the most likely place.’
 
 The offer was not to be refused; Nicholas and Mr. Crummles gave Mrs
-Crummles an arm each, and walked up the street in stately array. Smike,
-the boys, and the phenomenon, went home by a shorter cut, and Mrs
+Crummles an arm each, and walked up the street in stately array. [[Smike]],
+the boys, and the phenomenon, went [[Home|home]] by a shorter cut, and Mrs
 Grudden remained behind to take some cold Irish stew and a pint of
 porter in the box-office.
 
 Mrs. Crummles trod the pavement as if she were going to immediate
-execution with an animating consciousness of innocence, and that heroic
-fortitude which virtue alone inspires. Mr. Crummles, on the other hand,
+execution with an animating consciousness of [[innocence]], and that heroic
+fortitude which virtue [[Alone|alone]] inspires. Mr. Crummles, on the other hand,
 assumed the look and gait of a hardened despot; but they both attracted
 some notice from many of the passers-by, and when they heard a whisper
 of ‘Mr. and Mrs. Crummles!’ or saw a little boy run back to stare them in
 the face, the severe expression of their countenances relaxed, for they
 felt it was popularity.
 
-Mr. Crummles lived in St Thomas’s Street, at the house of one Bulph, a
-pilot, who sported a boat-green door, with window-frames of the same
+Mr. Crummles lived in St Thomas’s Street, at the [[house]] of one Bulph, a
+pilot, who sported a boat-green door, with [[Window|window]]-frames of the same
 colour, and had the little finger of a drowned man on his parlour
 mantelshelf, with other maritime and natural curiosities. He displayed
 also a brass knocker, a brass plate, and a brass bell-handle, all very
@@ -146,18 +146,18 @@ Nicholas bowed his acknowledgments, and was unfeignedly glad to see the
 cloth laid.
 
 ‘We have but a shoulder of mutton with onion sauce,’ said Mrs. Crummles,
-in the same charnel-house voice; ‘but such as our dinner is, we beg you
+in the same charnel-[[house]] voice; ‘but such as our dinner is, we beg you
 to partake of it.’
 
 ‘You are very good,’ replied Nicholas, ‘I shall do it ample justice.’
 
 ‘Vincent,’ said Mrs. Crummles, ‘what is the hour?’
 
-‘Five minutes past dinner-time,’ said Mr. Crummles.
+‘Five minutes past dinner-[[Time|time]],’ said Mr. Crummles.
 
 Mrs. Crummles rang the bell. ‘Let the mutton and onion sauce appear.’
 
 The slave who attended upon Mr. Bulph’s lodgers, disappeared, and after
 a short interval reappeared with the festive banquet. Nicholas and the
-infant phenomenon opposed each other at the pembroke-table, and Smike
+infant phenomenon opposed each other at the pembroke-table, and [[Smike]]
 and the master Crummleses dined on the sofa bedstead.

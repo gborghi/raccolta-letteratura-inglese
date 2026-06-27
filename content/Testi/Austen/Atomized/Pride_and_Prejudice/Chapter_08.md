@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 8"
+title: "[[Pride and Prejudice]] — Chapter 8"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -19,7 +19,7 @@ CHAPTER VIII.
 
 [Illustration]
 
-At five o’clock the two ladies retired to dress, and at half-past six
+At five o’[[Clock|clock]] the two ladies retired to dress, and at half-past six
 Elizabeth was summoned to dinner. To the civil inquiries which then
 poured in, and amongst which she had the pleasure of distinguishing the
 much superior solicitude of Mr. Bingley, she could not make a very
@@ -42,8 +42,8 @@ dish to a ragout, had nothing to say to her.
 
 When dinner was over, she returned directly to Jane, and Miss Bingley
 began abusing her as soon as she was out of the room. Her manners were
-pronounced to be very bad indeed,--a mixture of pride and impertinence:
-she had no conversation, no style, no taste, no beauty. Mrs. Hurst
+pronounced to be very bad indeed,--a mixture of [[Pride|pride]] and impertinence:
+she had no conversation, no style, no taste, no [[Beauty|beauty]]. Mrs. Hurst
 thought the same, and added,--
 
 “She has nothing, in short, to recommend her, but being an excellent
@@ -54,12 +54,12 @@ looked almost wild.”
 nonsensical to come at all! Why must _she_ be scampering about the
 country, because her sister had a cold? Her hair so untidy, so blowzy!”
 
-“Yes, and her petticoat; I hope you saw her petticoat, six inches deep
+“Yes, and her petticoat; I [[Hope|hope]] you saw her petticoat, six inches deep
 in mud, I am absolutely certain, and the gown which had been let down to
 hide it not doing its office.”
 
 “Your picture may be very exact, Louisa,” said Bingley; “but this was
-all lost upon me. I thought Miss Elizabeth Bennet looked remarkably well
+all lost upon me. I thought Miss [[Elizabeth Bennet]] looked remarkably [[Well|well]]
 when she came into the room this morning. Her dirty petticoat quite
 escaped my notice.”
 
@@ -70,7 +70,7 @@ an exhibition.”
 “Certainly not.”
 
 “To walk three miles, or four miles, or five miles, or whatever it is,
-above her ancles in dirt, and alone, quite alone! what could she mean by
+above her ancles in dirt, and [[Alone|alone]], quite [[Alone|alone]]! what could she mean by
 it? It seems to me to show an abominable sort of conceited independence,
 a most country-town indifference to decorum.”
 
@@ -84,8 +84,8 @@ eyes.”
 “Not at all,” he replied: “they were brightened by the exercise.” A
 short pause followed this speech, and Mrs. Hurst began again,--
 
-“I have an excessive regard for Jane Bennet,--she is really a very sweet
-girl,--and I wish with all my heart she were well settled. But with such
+“I have an excessive regard for [[Jane Bennet]],--she is really a very sweet
+girl,--and I wish with all my heart she were [[Well|well]] settled. But with such
 a father and mother, and such low connections, I am afraid there is no
 chance of it.”
 
@@ -103,7 +103,7 @@ would not make them one jot less agreeable.”
 consideration in the world,” replied Darcy.
 
 To this speech Bingley made no answer; but his sisters gave it their
-hearty assent, and indulged their mirth for some time at the expense of
+hearty assent, and indulged their mirth for some [[Time|time]] at the expense of
 their dear friend’s vulgar relations.
 
 With a renewal of tenderness, however, they repaired to her room on
@@ -114,7 +114,7 @@ when it appeared to her rather right than pleasant that she should go
 down stairs herself. On entering the drawing-room, she found the whole
 party at loo, and was immediately invited to join them; but suspecting
 them to be playing high, she declined it, and making her sister the
-excuse, said she would amuse herself, for the short time she could stay
+excuse, said she would amuse herself, for the short [[Time|time]] she could stay
 below, with a book. Mr. Hurst looked at her with astonishment.
 
 “Do you prefer reading to cards?” said he; “that is rather singular.”
@@ -126,7 +126,7 @@ reader, and has no pleasure in anything else.”
 am _not_ a great reader, and I have pleasure in many things.”
 
 “In nursing your sister I am sure you have pleasure,” said Bingley; “and
-I hope it will soon be increased by seeing her quite well.”
+I [[Hope|hope]] it will soon be increased by seeing her quite [[Well|well]].”
 
 Elizabeth thanked him from her heart, and then walked towards a table
 where a few books were lying. He immediately offered to fetch her
@@ -153,7 +153,7 @@ books.”
 these.”
 
 “Neglect! I am sure you neglect nothing that can add to the beauties of
-that noble place. Charles, when you build _your_ house, I wish it may be
+that noble place. Charles, when you build _your_ [[house]], I wish it may be
 half as delightful as Pemberley.”
 
 “I wish it may.”
@@ -167,17 +167,17 @@ finer county in England than Derbyshire.”
 “I am talking of possibilities, Charles.”
 
 “Upon my word, Caroline, I should think it more possible to get
-Pemberley by purchase than by imitation.”
+Pemberley by purchase than by [[Imitation|imitation]].”
 
 Elizabeth was so much caught by what passed, as to leave her very little
 attention for her book; and, soon laying it wholly aside, she drew near
 the card-table, and stationed herself between Mr. Bingley and his eldest
 sister, to observe the game.
 
-“Is Miss Darcy much grown since the spring?” said Miss Bingley: “will
+“Is Miss Darcy much grown since the [[spring]]?” said Miss Bingley: “will
 she be as tall as I am?”
 
-“I think she will. She is now about Miss Elizabeth Bennet’s height, or
+“I think she will. She is now about Miss [[Elizabeth Bennet]]’s height, or
 rather taller.”
 
 “How I long to see her again! I never met with anybody who delighted me
@@ -191,11 +191,11 @@ to be so very accomplished as they all are.”
 
 “Yes, all of them, I think. They all paint tables, cover screens, and
 net purses. I scarcely know any one who cannot do all this; and I am
-sure I never heard a young lady spoken of for the first time, without
+sure I never heard a young lady spoken of for the first [[Time|time]], without
 being informed that she was very accomplished.”
 
 “Your list of the common extent of accomplishments,” said Darcy, “has
-too much truth. The word is applied to many a woman who deserves it no
+too much [[Truth|truth]]. The word is applied to many a woman who deserves it no
 otherwise than by netting a purse or covering a screen; but I am very
 far from agreeing with you in your estimation of ladies in general. I
 cannot boast of knowing more than half-a-dozen in the whole range of my
@@ -221,16 +221,16 @@ something more substantial in the improvement of her mind by extensive
 reading.”
 
 “I am no longer surprised at your knowing _only_ six accomplished women.
-I rather wonder now at your knowing _any_.”
+I rather [[Wonder|wonder]] now at your knowing _any_.”
 
-“Are you so severe upon your own sex as to doubt the possibility of all
+“Are you so severe upon your own sex as to [[Doubt|doubt]] the possibility of all
 this?”
 
 “_I_ never saw such a woman. _I_ never saw such capacity, and taste, and
 application, and elegance, as you describe, united.”
 
 Mrs. Hurst and Miss Bingley both cried out against the injustice of her
-implied doubt, and were both protesting that they knew many women who
+implied [[Doubt|doubt]], and were both protesting that they knew many women who
 answered this description, when Mr. Hurst called them to order, with
 bitter complaints of their inattention to what was going forward. As all
 conversation was thereby at an end, Elizabeth soon afterwards left the
@@ -250,12 +250,12 @@ Miss Bingley was not so entirely satisfied with this reply as to
 continue the subject.
 
 Elizabeth joined them again only to say that her sister was worse, and
-that she could not leave her. Bingley urged Mr. Jones’s being sent for
+that she could not leave her. Bingley urged Mr. [[Jones]]’s being sent for
 immediately; while his sisters, convinced that no country advice could
 be of any service, recommended an express to town for one of the most
 eminent physicians. This she would not hear of; but she was not so
 unwilling to comply with their brother’s proposal; and it was settled
-that Mr. Jones should be sent for early in the morning, if Miss Bennet
+that Mr. [[Jones]] should be sent for early in the morning, if Miss Bennet
 were not decidedly better. Bingley was quite uncomfortable; his sisters
 declared that they were miserable. They solaced their wretchedness,
 however, by duets after supper; while he could find no better relief to

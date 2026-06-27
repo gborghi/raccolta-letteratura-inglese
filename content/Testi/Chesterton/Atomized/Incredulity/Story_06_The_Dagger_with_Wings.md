@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Dagger with Wings"
+title: "[[Incredulity]] — The Dagger with Wings"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 SIX:  The Dagger with Wings
 
-FATHER BROWN, at one period of his life, found it difficult to hang
+[[Father Brown|FATHER BROWN]], at one period of his life, found it difficult to hang
 his hat on a hat--peg without repressing a slight shudder.
 The origin of this idiosyncrasy was indeed a mere detail in much more
 complicated events; but it was perhaps the only detail that remained
@@ -33,7 +33,7 @@ to anything except the traditional religion of their native land.
 It would be hard to say whether their creed is a very superficial
 varnish or a very fundamental substratum; but most probably it is both,
 with a mass of materialism in between.  Anyhow, when he thought that
-matters of that sort might be involved, he asked Father Brown to call,
+matters of that sort might be involved, he asked [[Father Brown]] to call,
 though he made no pretence of preference for that aspect of them.
 
 `I'm not sure I want you, you know,' was his greeting.
@@ -46,10 +46,10 @@ a policeman and a doctor, I seem to be rather in a minority.'
 
 `I admit you're what politicians call an instructed minority,'
 replied the doctor.  `I mean, I know you've had to do a little
-in our line as well as your own.  But it's precious hard to say
+in our line as [[Well|well]] as your own.  But it's precious hard to say
 whether this business is in your line or ours, or merely in
 the line of the Commissioners in Lunacy.  We've just had a message
-from a man living near here, in that white house on the hill,
+from a man living near here, in that white [[house]] on the [[Hill|hill]],
 asking for protection against a murderous persecution.
 We've gone into the facts as far as we could, and perhaps I'd
 better tell you the story as it is supposed to have happened,
@@ -91,7 +91,7 @@ who is asking for police protection.'
 
 `Third and last,' said the priest, looking at him gravely.
 
-`Yes,' said Boyne.  `The other two are dead.'  There was a silence
+`Yes,' said Boyne.  `The other two are dead.'  There was a [[Silence|silence]]
 before he continued.  `That is where the doubt comes in.
 There is no proof they were murdered, but they might possibly
 have been.  The eldest, who took up his position as squire,
@@ -109,7 +109,7 @@ You know what a man with a delusion is like, and how a man looks
 when he is telling the truth.  I want you to be the advance guard,
 before we take the matter up.'
 
-`It seems rather odd,' said Father Brown, `that you haven't had
+`It seems rather odd,' said [[Father Brown]], `that you haven't had
 to take it up before.  If there is anything in this business,
 it seems to have been going on for a good time.  Is there
 any particular reason why he should send for you just now,
@@ -140,7 +140,7 @@ act as a policeman.'
 the responsibility of a flat refusal till I've tried a compromise.
 You are the compromise.'
 
-`Very well,' said Father Brown simply.  `I'll go and call on him
+`Very [[Well|well]],' said [[Father Brown]] simply.  `I'll go and call on him
 now if you like.'
 
 The rolling country round the little town was sealed and bound with frost,
@@ -155,52 +155,52 @@ and colder, as if he were approaching an ice--house or the North Pole.
 But he was a highly practical person, never entertaining such fancies
 except as fancies.  And he merely cocked his eye at the great
 livid cloud crawling up over the house, and remarked cheerfully:
-`It's going to snow.'
+`It's going to [[Snow|snow]].'
 
 Through a low ornamental iron gateway of the Italianate pattern
-he entered a garden having something of that desolation which only
+he entered a [[Garden|garden]] having something of that desolation which only
 belongs to the disorder of orderly things.  Deep--green growths were grey
-with the faint powder of the frost, large weeds--had fringed the fading
-pattern of the flower--beds as if in a ragged frame; and the house
+with the faint powder of the [[Frost|frost]], large weeds--had fringed the fading
+pattern of the flower--beds as if in a ragged frame; and the [[house]]
 stood as if waist--high in a stunted forest of shrubs and bushes.
 The vegetation consisted largely of evergreens or very hardy plants;
 and though it was thus thick and heavy, it was too northern to be
 called luxuriant.  It might be described as an Arctic jungle.
-So it was in some sense with the house itself, which had a row of columns
+So it was in some sense with the [[house]] itself, which had a row of columns
 and a classical facade, which might have looked out on the Mediterranean;
-but which seemed now to be withering in the wind of the North Sea.
+but which seemed now to be withering in the [[Wind|wind]] of the North Sea.
 Classical ornament here and there accentuated the contrast;
-caryatides and carved masks of comedy or tragedy looked down from
-corners of the building upon the grey confusion of the garden paths;
-but the faces seemed to be frost--bitten.  The very volutes of
+caryatides and carved masks of [[Comedy|comedy]] or [[Tragedy|tragedy]] looked down from
+corners of the building upon the grey confusion of the [[Garden|garden]] paths;
+but the faces seemed to be [[Frost|frost]]--bitten.  The very volutes of
 the capitals might have curled up with the cold.
 
-Father Brown went up the grassy steps to a square
+[[Father Brown]] went up the grassy steps to a square
 porch flanked by big pillars and knocked at the door.
 About four minutes afterwards he knocked again.
 Then he stood still patiently waiting with his back to
 the door and looked out on the slowly darkening landscape.
-It was darkening under the shadow of that one great
+It was darkening under the [[Shadow|shadow]] of that one great
 continent of cloud that had come flying out of the north;
 and even as he looked out beyond the pillars of the porch,
 which seemed huge and black above him in the twilight,
 he saw the opalescent crawling rim of the great cloud as it
 sailed over the roof and bowed over the porch like a canopy.
 The great canopy with its faintly coloured fringes seemed
-to sink lower and lower upon the garden beyond, until what
-had recently been a clear and pale--hued winter sky was left
+to sink lower and lower upon the [[Garden|garden]] beyond, until what
+had recently been a clear and pale--hued [[Winter|winter]] sky was left
 in a few silver ribbons and rags like a sickly sunset.
-Father Brown waited, and there was no sound within.
+[[Father Brown]] waited, and there was no sound within.
 
-Then he betook himself briskly down the steps and round the house
+Then he betook himself briskly down the steps and round the [[house]]
 to look for another entrance.  He eventually found one,
 a side door in the flat wall, and on this also he hammered
 and outside this also he waited.  Then he tried the handle
 and found the door apparently bolted or fastened in some fashion;
-and then he moved along that side of the house, musing on
+and then he moved along that side of the [[house]], musing on
 the possibilities of the position, and wondering whether
 the eccentric Mr Aylmer had barricaded himself too deep
-in the house to hear any kind of summons; or whether perhaps
+in the [[house]] to hear any kind of summons; or whether perhaps
 he would barricade himself all the more, on the assumption
 that any summons must be the challenge of the avenging Strake.
 It might be that the decamping servants had only unlocked
@@ -211,7 +211,7 @@ to the defences.  He continued his prowl round the place:
 it was not really a large place, though perhaps a little pretentious;
 and in a few moments he found he had made the complete circuit.
 A moment after he found what he suspected and sought.
-The french window of one room, curtained and shadowed with creeper,
+The french [[Window|window]] of one room, curtained and shadowed with creeper,
 stood open by a crack, doubtless accidentally left ajar,
 and he found himself in a central room, comfortably upholstered
 in a rather old--fashioned way, with a staircase leading up
@@ -220,9 +220,9 @@ Immediately opposite him was another door with red glass let
 into it, a little gaudily for later tastes; something that
 looked like a red--robed figure in cheap stained glass.
 On a round table to the right stood a sort of aquarium--
-a great bowl full of greenish water, in which fishes and
+a great bowl full of greenish [[Water|water]], in which fishes and
 similar things moved about as in a tank; and just opposite it
-a plant of the palm variety with very large green leaves.
+a plant of the palm variety with very large green [[Leaves|leaves]].
 All this looked so very dusty and Early Victorian that the telephone,
 visible in the curtained alcove, was almost a surprise.
 
@@ -235,8 +235,8 @@ The door opened and a gentleman in a peacock--green dressing--gown came
 out with an inquiring look.  His hair was rather rough and untidy,
 as if he had been in bed or lived in a state of slowly getting up, but his
 eyes were not only awake but alert, and some would have said alarmed.
-Father Brown knew that the contradiction was likely enough in a man who
-had rather run to seed under the shadow either of a delusion or a danger.
+[[Father Brown]] knew that the contradiction was likely enough in a man who
+had rather run to seed under the [[Shadow|shadow]] either of a delusion or a danger.
 He had a fine aquiline face when seen in profile, but when seen full face
 the first impression was that of the untidiness and even the wilderness
 of his loose brown beard.
@@ -260,7 +260,7 @@ to infer that I do not look very like him.'
 Mr Aylmer shook himself with a sort of savage laugh.
 `You certainly do not,' he said.
 
-`Mr Aylmer,' said Father Brown frankly, `I apologize for the liberty,
+`Mr Aylmer,' said [[Father Brown]] frankly, `I apologize for the liberty,
 but some friends of mine have told me about your trouble,
 and asked me to see if I could do anything for you.  The truth is,
 I have some little experience in affairs like this.'
@@ -271,7 +271,7 @@ I have some little experience in affairs like this.'
 unfortunate family were not normal deaths?'
 
 `I mean they were not even normal murders,' answered the other.
-`The man who is hounding us all to death is a hell--hound, and his
+`The man who is hounding us all to [[Death|death]] is a hell--hound, and his
 power is from hell.'
 
 `All evil has one origin,' said the priest gravely.
@@ -291,7 +291,7 @@ obscure matters, and I have since inherited his library.
 But what I tell you does not rest on what I have read but on
 what I have seen.'
 
-Father Brown nodded, and the other proceeded, as if picking his words:
+[[Father Brown]] nodded, and the other proceeded, as if picking his words:
 `In my elder brother's case I was not certain at first.
 There were no marks or footprints where he was found shot, and the
 pistol was left beside him.  But he had just received a threatening
@@ -307,7 +307,7 @@ I scaled the platform a moment after he had fallen under the iron
 hammer that struck him; I did not see anything else strike him,
 but I saw what I saw.
 
-`A great drift of factory smoke was rolling between me and the
+`A great drift of factory smoke was [[rolling]] between me and the
 factory tower; but through a rift of it I saw on the top of it
 a dark human figure wrapped in what looked like a black cloak.
 Then the sulphurous smoke drove between us again; and when it
@@ -316,7 +316,7 @@ I am a rational man, and I will ask all rational men how he had
 reached that dizzy unapproachable turret, and how he left it.'
 
 He stared across at the priest with a sphinx--like challenge;
-then after a silence he said abruptly:  `My brother's brains
+then after a [[Silence|silence]] he said abruptly:  `My brother's brains
 were knocked out, but his body was not much damaged.
 And in his pocket we found one of those warning messages dated
 the day before and stamped with the flying dagger.
@@ -341,7 +341,7 @@ Is there no connexion between the plumed poignard flying
 like a feathered arrow and that figure which hung on the far
 top of the toppling chimney, clad in a cloak for pinions?'
 
-`You mean,' said Father Brown thoughtfully, `that he is in a perpetual
+`You mean,' said [[Father Brown]] thoughtfully, `that he is in a perpetual
 state of levitation.'
 
 `Simon Magus did it,' replied Aylmer, `and it was one of the commonest
@@ -349,10 +349,10 @@ predictions of the Dark Ages that Antichrist would be able to fly.
 Anyhow, there was the flying dagger on the document; and whether
 or no it could fly, it could certainly strike.'
 
-`Did you notice what sort of paper it was on?' asked Father Brown.
+`Did you notice what sort of paper it was on?' asked [[Father Brown]].
 'Common paper?'
 
-The sphinx--like face broke abruptly into a harsh laugh.
+[[The Sphinx|The sphinx]]--like face broke abruptly into a harsh laugh.
 
 `You can see what they're like,' said Aylmer grimly, `for I got
 one myself this morning.'
@@ -367,9 +367,9 @@ of a sort of paralysis, that was both rigidity and collapse.
 But the next remark of the priest had a curious effect
 of rousing him.
 
-Father Brown was blinking in his short--sighted way at the paper
+[[Father Brown]] was blinking in his short--sighted way at the paper
 presented to him.  It was a singular sort of paper, rough without
-being common, as from an artist's sketch--book; and on it was drawn
+being common, as from an [[artist]]'s [[Sketch|sketch]]--book; and on it was drawn
 boldly in red ink a dagger decorated with wings like the rod of Hermes,
 with the written words, `Death comes the day after this, as it came
 to your brothers.'
@@ -384,7 +384,7 @@ Rather to his surprise, an awakening wave went over the prostrate figure,
 which sprang from its chair as if startled out of a dream.
 
 `You're right, you're right!' cried Aylmer with a rather
-uncanny animation; `and the devils shall find that I'm
+[[Uncanny|uncanny]] animation; `and the devils shall find that I'm
 not so hopeless after all, nor so helpless either.
 Perhaps I have more hope and better help than you fancy.'
 
@@ -395,29 +395,29 @@ But when he spoke it was quite soberly.
 
 `I believe my unfortunate brothers failed because they
 used the wrong weapons.  Philip carried a revolver,
-and that was how his death came to be called suicide.
+and that was how his [[Death|death]] came to be called [[suicide]].
 Stephen had police protection, but he also had a sense of what made
 him ridiculous; and he could not allow a policeman to climb up
 a ladder after him to a scaffolding where he stood only a moment.
 They were both scoffers, reacting into scepticism from
 the strange mysticism of my father's last days.  But I always
 knew there was more in my father than they understood.
-It is true that by studying magic he fell at last under the blight
-of black magic; the black magic of this scoundrel Strake.
+It is true that by studying [[Magic|magic]] he fell at last under the blight
+of black [[Magic|magic]]; the black [[Magic|magic]] of this scoundrel Strake.
 But my brothers were wrong about the antidote.  The antidote
-to black magic is not brute materialism or worldly wisdom.
-The antidote to black magic is white magic.'
+to black [[Magic|magic]] is not brute materialism or worldly wisdom.
+The antidote to black [[Magic|magic]] is white [[Magic|magic]].'
 
-`It rather depends,' said Father Brown, `what you mean by white magic.'
+`It rather depends,' said Father Brown, `what you mean by white [[Magic|magic]].'
 
 `I mean silver magic,' said the other, in a low voice, like one
 speaking of a secret revelation.  Then after a silence he said:
-`Do you know what I mean by silver magic?  Excuse me a moment.'
+`Do you know what I mean by silver [[Magic|magic]]?  Excuse me a moment.'
 
 He turned and opened the central door with the red glass and went
-into a passage beyond it.  The house had less depth than Brown
+into a passage beyond it.  The [[house]] had less depth than Brown
 had supposed; instead of the door opening into interior rooms,
-the corridor it revealed ended in another door on the garden.
+the corridor it revealed ended in another door on the [[Garden|garden]].
 The door of one room was on one side of the passage;
 doubtless, the priest told himself, the proprietor's
 bedroom whence he had rushed out in his dressing--gown.
@@ -427,28 +427,28 @@ but on the other side was something more interesting:
 a very dark old oak sideboard laid out with some old silver,
 and overhung by a trophy or ornament of old weapons.
 It was by that that Arnold Aylmer halted, looking up at a long
-antiquated pistol with a bell--shaped mouth.
+antiquated [[Pistol|pistol]] with a bell--shaped mouth.
 
 The door at the end of the passage was barely open,
 and through the crack came a streak of white daylight.
 The priest had very quick instincts about natural things,
 and something in the unusual brilliancy of that white
 line told him what had happened outside.  It was indeed
-what he had prophesied when he was approaching the house.
+what he had prophesied when he was approaching the [[house]].
 He ran past his rather startled host and opened the door,
 to face something that was at once a blank and a blaze.
 What he had seen shining through the crack was not only the most
-negative whiteness of daylight but the positive whiteness of snow.
+negative whiteness of daylight but the positive whiteness of [[Snow|snow]].
 All round, the sweeping fall of the country was covered with
-that shining pallor that seems at once hoary and innocent.
+that shining pallor that seems at once hoary and [[Innocent|innocent]].
 
 `Here is white magic anyhow,' said Father Brown in his cheerful voice.
-Then, as he turned back into the hall, he murmured, `And silver magic too,
+Then, as he turned back into the hall, he murmured, `And silver [[Magic|magic]] too,
 I suppose,' for the white lustre touched the silver with splendour
 and lit up the old steel here and there in the darkling armoury.
 The shaggy head of the brooding Aylmer seemed to have a halo of
-silver fire, as he turned with his face in shadow and the outlandish
-pistol in his hand.
+silver [[Fire|fire]], as he turned with his face in [[Shadow|shadow]] and the outlandish
+[[Pistol|pistol]] in his hand.
 
 `Do you know why I chose this sort of old blunderbuss?' he asked.
 `Because I can load it with this sort of bullet.'
@@ -457,7 +457,7 @@ He had picked up a small apostle spoon from the sideboard
 and by sheer violence broke off the small figure at the top.
 `Let us go back into the other room,' he added.
 
-`Did you ever read about the death of Dundee?' he asked
+`Did you ever read about the [[Death|death]] of Dundee?' he asked
 when they had reseated themselves.  He had recovered from
 his momentary annoyance at the priest's restlessness.
 `Graham of Claverhouse, you know, who persecuted the Covenanters
@@ -466,7 +466,7 @@ Don't you know he could only be shot with a silver bullet,
 because he had sold himself to the Devil?  That's one comfort
 about you; at least you know enough to believe in the Devil.'
 
-`Oh, yes,' replied Father Brown, `I believe in the Devil.
+`Oh, yes,' replied [[Father Brown]], `I believe in the Devil.
 What I don't believe in is the Dundee.  I mean the Dundee
 of Covenanting legends, with his nightmare of a horse.
 John Graham was simply a seventeenth--century professional soldier,
@@ -498,12 +498,12 @@ he said, `I will show you something.'
 
 He went back through the central door, closing it after him; going,
 the priest presumed, to the old sideboard or possibly to his bedroom.
-Father Brown remained seated, gazing abstractedly at the carpet,
+[[Father Brown]] remained seated, gazing abstractedly at the carpet,
 where a faint red glimmer shone from the glass in the doorway.
 Once it seemed to brighten like a ruby and then darkened again,
 as if the sun of that stormy day had passed from cloud to cloud.
 Nothing moved except the aquatic creatures which floated to and fro
-in the dim green bowl.  Father Brown was thinking hard.
+in the dim green bowl.  [[Father Brown]] was thinking hard.
 
 A minute or two afterwards he got up and slipped quietly
 to the alcove of the telephone, where he rang up his friend
@@ -511,12 +511,12 @@ Dr Boyne, at the official headquarters.  `I wanted to tell
 you about Aylmer and his affairs,' he said quietly.
 `It's a queer story, but I rather think there's something in it.
 If I were you I'd send some men up here straight away;
-four or five men, I think, and surround the house.
+four or five men, I think, and surround the [[house]].
 If anything does happen there'll probably be something startling
 in the way of an escape.'
 
 Then he went back and sat down again, staring at the dark carpet,
-which again glowed blood--red with the light from the glass door.
+which again glowed [[Blood|blood]]--red with the light from the glass door.
 Something in the filtered light set his mind drifting on certain
 borderlands of thought, with the first white daybreak before
 the coming of colour, and all that mystery which is alternately
@@ -526,7 +526,7 @@ An inhuman howl in a human voice came from beyond the closed doors,
 almost simultaneously with the noise of firing.  Before the echoes
 of the shot had died away the door was violently flung open
 and his host staggered into the room, the dressing--gown half
-torn from his shoulder and the long pistol smoking in his hand.
+torn from his shoulder and the long [[Pistol|pistol]] smoking in his hand.
 He seemed to be shaking in every limb, yet he was shaken in part
 with an unnatural laughter.
 
@@ -534,15 +534,15 @@ with an unnatural laughter.
 The hell--hound had hunted once too often, and my brothers are
 avenged at last.'
 
-He sank into a chair and the pistol slid from his hand
-and fell on the floor.  Father Brown darted past him,
+He sank into a chair and the [[Pistol|pistol]] slid from his hand
+and fell on the floor.  [[Father Brown]] darted past him,
 slipped through the glass door and went down the passage.
 As he did so he put his hand on the handle of the bedroom door,
 as if half intending to enter; then he stooped a moment,
 as if examining something--and then he ran to the outer door
 and opened it.
 
-On the field of snow, which had been so blank a little while before,
+On the field of [[Snow|snow]], which had been so blank a little while before,
 lay one black object.  At the first glance it looked a little like
 an enormous bat.  A second glance showed that it was, after all,
 a human figure; fallen on its face, the whole head covered
@@ -550,7 +550,7 @@ by a broad black hat having something of a Latin--American look;
 while the appearance of black--wings came from the two flaps
 or loose sleeves of a very vast black cloak spread out,
 perhaps by accident, to their utmost length on either side.
-Both the hands were hidden, though Father Brown thought he could
+Both the hands were hidden, though [[Father Brown]] thought he could
 detect the position of one of them, and saw close to it,
 under the edge of the cloak, the glimmer of some metallic weapon.
 The main effect, however, was curiously like that of the simple
@@ -566,17 +566,17 @@ like some vast vampire that has swooped down like a bird.'
 `How else could he have come?' came a voice from the doorway,
 and Father Brown looked up to see Aylmer once more standing there.
 
-`Couldn't he have walked?' replied Father Brown evasively.
+`Couldn't he have walked?' replied [[Father Brown]] evasively.
 
 Aylmer stretched out his arm and swept the white landscape
 with a gesture.
 
 `Look at the snow,' he said in a deep voice that had a sort
-of roll and thrill in it.  `Is not the snow unspotted--pure as
-the white magic you yourself called it?  Is there a speck on it
+of roll and thrill in it.  `Is not the [[Snow|snow]] unspotted--pure as
+the white [[Magic|magic]] you yourself called it?  Is there a speck on it
 for miles, save that one foul black blot that has fallen there?
 There are no footprints, but a few of yours and mine;
-there are none approaching the house from anywhere.'
+there are none approaching the [[house]] from anywhere.'
 
 Then he looked at the little priest for a moment with a concentrated
 and curious expression, and said:  `I will tell you something else.
@@ -584,18 +584,18 @@ That cloak he flies with is too long to walk with.  He was not
 a very tall man, and it would trail behind him like a royal train.
 Stretch it out over his body, if you like, and see.'
 
-`What happened to you both?' asked Father Brown abruptly.
+`What happened to you both?' asked [[Father Brown]] abruptly.
 
 `It was too swift to describe,' answered Aylmer.  `I had looked out
 of the door and was turning back when there came a kind of rushing
-of wind all around me, as if I were being buffeted by a wheel
+of [[Wind|wind]] all around me, as if I were being buffeted by a [[Wheel|wheel]]
 revolving in mid--air.  I spun round somehow and fired blindly;
 and then I saw nothing but what you see now.  But I am morally certain
 that you wouldn't see it if I had not had a silver shot in my gun.
-It would have been a different body lying there in the snow.'
+It would have been a different [[Body|body]] lying there in the [[Snow|snow]].'
 
 `By the way,' remarked Father Brown, `shall we leave it lying
-there in the snow?  Or would you like it taken into your room--
+there in the [[Snow|snow]]?  Or would you like it taken into your room--
 I suppose that's your bedroom in the passage?'
 
 `No, no,' replied Aylmer hastily, `we must leave it here till the police
@@ -608,14 +608,14 @@ and the bowl of fishes, Aylmer tumbled into a chair.
 He had nearly knocked the bowl over as he lurched into the room,
 but he had managed to find the decanter of brandy after plunging
 his hand rather blindly into several cupboards and corners.
-He did not at any time look like a methodical person,
+He did not at any [[Time|time]] look like a methodical person,
 but at this moment his distraction must have been extreme.
 He drank with a long gulp and began to talk rather feverishly,
-as if to fill up a silence.
+as if to fill up a [[Silence|silence]].
 
 `I see you are still doubtful,' he said, `though you have seen the thing
 with your own eyes.  Believe me, there was something more behind
-the quarrel between the spirit of Strake and the spirit of the house
+the quarrel between the spirit of Strake and the spirit of the [[house]]
 of Aylmer.  Besides, you have no business to be an unbeliever.  You ought
 to stand for all the things these stupid people call superstitions.
 Come now, don't you think there's a lot in those old wives'
@@ -627,7 +627,7 @@ What do you say about them as a Catholic?'
 `Nonsense,' said Aylmer impatiently.  `It's your business
 to believe things.'
 
-`Well, I do believe some things, of course,' conceded Father Brown;
+`[[Well]], I do believe some things, of course,' conceded [[Father Brown]];
 `and therefore, of course, I don't believe other things.'
 
 Aylmer was leaning forward, and looking at him with a strange
@@ -648,12 +648,12 @@ all your beliefs, that there is but one reality and we are
 its shadows; and that all things are but aspects of one thing:
 a centre where men melt into Man and Man into God?'
 
-`No,' said Father Brown.
+`No,' said [[Father Brown]].
 
-Outside, twilight had begun to fall, in that phase of such a snow--
+Outside, twilight had begun to fall, in that phase of such a [[Snow|snow]]--
 laden evening when the land looks brighter than the sky.
 In the porch of the main entrance, visible through a half--
-curtained window.  Father Brown could dimly see a bulky
+curtained [[Window|window]].  [[Father Brown]] could dimly see a bulky
 figure standing.  He glanced casually at the french
 windows through which he had originally entered, and saw
 they were darkened with two equally motionless figures.
@@ -662,13 +662,13 @@ and he could see in the short corridor beyond, the ends of two
 long shadows, exaggerated and distorted by the level light
 of evening, but still like grey caricatures of the figures of men.
 Dr Boyne had already obeyed the telephone message.
-The house was surrounded.
+The [[house]] was surrounded.
 
 `What is the good of saying no?' insisted his host,
 still with the same hypnotic stare.  `You have seen part
 of that eternal drama with your own eyes.  You have seen
-the threat of John Strake to slay Arnold Aylmer by black magic.
-You have seen Arnold Aylmer slay John Strake by white magic.
+the threat of John Strake to slay Arnold Aylmer by black [[Magic|magic]].
+You have seen Arnold Aylmer slay John Strake by white [[Magic|magic]].
 You see Arnold Aylmer alive and talking to you now.
 And yet you don't believe it.'
 
@@ -680,21 +680,21 @@ like one terminating a visit.
 The priest only lifted his voice a little, but it sounded in every corner
 of the room like a bell.  `Because you are not Arnold Aylmer,' he said.
 `I know who you are.  Your name is John Strake; and you have murdered
-the last of the brothers, who is lying outside in the snow.'
+the last of the brothers, who is lying outside in the [[Snow|snow]].'
 
 A ring of white showed round the iris of the other man's eyes;
 he seemed to be making, with bursting eyeballs, a last effort
 to mesmerize and master his companion.  Then he made a sudden
 movement sideways; and even as he did so the door behind him
-opened and a big detective in plain clothes put one hand quietly
+opened and a big [[Detective|detective]] in plain clothes put one hand quietly
 on his shoulder.  The other hand hung down, but it held a revolver.
 The man looked wildly round, and saw plain--clothes men in all
 corners of the quiet room.
 
-That evening Father Brown had another and longer conversation
-with Dr Boyne about the tragedy of the Aylmer family.  By that time
-there was no longer any doubt of the central fact of the case,
-for John Strake had confessed his identity and even confessed his crimes;
+That evening [[Father Brown]] had another and longer conversation
+with Dr Boyne about the [[Tragedy|tragedy]] of the Aylmer family.  By that [[Time|time]]
+there was no longer any [[Doubt|doubt]] of the central fact of the case,
+for John Strake had confessed his [[Identity|identity]] and even confessed his crimes;
 only it would be truer to say that he boasted of his victories.
 Compared to the fact that he had rounded off his life's work with
 the last Aylmer lying dead, everything else, including existence itself,
@@ -705,8 +705,8 @@ interested in any other matter; not even in any other murder.
 I owe him something for that; for I had to comfort myself with
 the reflection a good many times this afternoon.  As has doubtless
 occurred to you, instead of weaving all that wild but ingenious
-romance about winged vampires and silver bullets, he might have put
-an ordinary leaden bullet into me, and walked out of the house.
+[[Romance|romance]] about winged vampires and silver bullets, he might have put
+an ordinary leaden bullet into me, and walked out of the [[house]].
 I assure you it occurred quite frequently to me.'
 
 `I wonder why he didn't,' observed Boyne.  `I don't understand it;
@@ -718,7 +718,7 @@ replied Father Brown modestly, `especially the one piece
 of information that really counted.  I mean the statement
 that Strake was a very inventive and imaginative liar,
 with great presence of mind in producing his lies.
-This afternoon he needed it; but he rose to the occasion.
+This afternoon he needed it; but he [[Rose|rose]] to the occasion.
 Perhaps his only mistake was in choosing a preternatural story;
 he had the notion that because I am a clergyman I should
 believe anything.  Many people have little notions of that kind.'
@@ -728,10 +728,10 @@ believe anything.  Many people have little notions of that kind.'
 
 `The beginning of it was a dressing--gown,' said Father Brown simply.
 `It was the one really good disguise I've ever known.
-When you meet a man in a house with a dressing--gown on,
-you assume quite automatically that he's in his own house.
+When you meet a man in a [[house]] with a dressing--gown on,
+you assume quite automatically that he's in his own [[house]].
 I assumed it myself; but afterwards queer little things began to happen.
-When he took the pistol down he clicked it at arm's length,
+When he took the [[Pistol|pistol]] down he clicked it at arm's length,
 as a man does to make sure a strange weapon isn't loaded;
 of course he would know whether the pistols in his own hall were
 loaded or not.  I didn't like the way he looked for the brandy,
@@ -745,7 +745,7 @@ so I assumed it was the bedroom he had just come from.
 I tried the handle; but it was locked.  I thought this odd;
 and looked through the keyhole.  It was an utterly bare room,
 obviously deserted; no bed, no anything.  Therefore he had
-not come from inside any room, but from outside the house.
+not come from inside any room, but from outside the [[house]].
 And when I saw that, I think I saw the whole picture.
 
 `Poor Arnold Aylmer doubtless slept and perhaps lived upstairs, and came
@@ -762,12 +762,12 @@ He heard footsteps in the parlour beyond.  It was myself entering
 by the french windows.
 
 `His masquerade was a miracle of promptitude.  It involved
-not only a disguise but a romance--an impromptu romance.
+not only a disguise but a [[Romance|romance]]--an impromptu [[Romance|romance]].
 He took off his big black hat and cloak and put on the dead
 man's dressing--gown.  Then he did a rather grisly thing;
 at least a thing that affects my fancy as more grisly than the rest.
 He hung the corpse like a coat on one of the hat pegs.
-He draped it in his own long cloak, and found it hung well below
+He draped it in his own long cloak, and found it hung [[Well|well]] below
 the heels; he covered the head entirely with his own wide hat.
 It was the only possible way of hiding it in that little passage
 with the locked door; but it was really a very clever one.
@@ -788,11 +788,11 @@ enemy assume the part of John Strake?  There must have been something
 in that topsy--turyydom to take the fancy of that darkly fanciful man.
 It was like some frightful fancy--dress ball to which the two mortal
 enemies were to go dressed up as each other.  Only, the fancy--dress ball
-was to be a dance of death:  and one of the dancers would be dead.
+was to be a [[Dance of Death|dance of death]]:  and one of the dancers would be dead.
 That is why I can imagine that man putting it in his own mind, and I
 can imagine him smiling.'
 
-Father Brown was gazing into vacancy with his large grey eyes, which,
+[[Father Brown]] was gazing into vacancy with his large grey eyes, which,
 when not blurred by his trick of blinking, were the one notable
 thing in his face.  He went on speaking simply and seriously:
 `All things are from God; and above all, reason and imagination
@@ -817,26 +817,26 @@ and with the false yet unfathomable courage of a great liar.  He could
 always produce more Arabian Nights if ever his neck was in danger.
 And today his neck was in danger.
 
-`But I am sure, as I say, that he enjoyed it as a fantasy as well
+`But I am sure, as I say, that he enjoyed it as a fantasy as [[Well|well]]
 as a conspiracy.  He set about the task of telling the true story
 the wrong way round:  of treating the dead man as living and the live
 man as dead.  He had already got into Aylmer's dressing--gown;
-he proceeded to get into Aylmer's body and soul.  He looked at
-the corpse as if it were his own corpse lying cold in the snow.
+he proceeded to get into Aylmer's [[Body|body]] and [[Soul|soul]].  He looked at
+the corpse as if it were his own corpse lying cold in the [[Snow|snow]].
 Then he spread--eagled it in that strange fashion to suggest
 the sweeping descent of a bird of prey, and decked it out not only
 in his own dark and flying garments but in a whole dark fairy--
 tale about the black bird that could only fall by the silver bullet.
 I do not know whether it was the silver glittering on the sideboard
-or the snow shining beyond the door that suggested to his intensely
-artistic temperament the theme of white magic and the white metal
+or the [[Snow|snow]] shining beyond the door that suggested to his intensely
+artistic temperament the theme of white [[Magic|magic]] and the white metal
 used against magicians.  But whatever its origin, he made it his
 own like a poet; and did it very promptly, like a practical man.
 He completed the exchange and reversal of parts by flinging
-the corpse out on to the snow as the corpse of Strake.
+the corpse out on to the [[Snow|snow]] as the corpse of Strake.
 He did his best to work up a creepy conception of Strake as something
-hovering in the air everywhere, a harpy with wings of speed and claws
-of death; to explain the absence of footprints and other things.
+hovering in the air everywhere, a harpy with wings of [[Speed|speed]] and claws
+of [[Death|death]]; to explain the absence of footprints and other things.
 For one piece of artistic impudence I hugely admire him.
 He actually turned one of the contradictions in his case into an
 argument for it; and said that the man's cloak being too long for him
@@ -846,33 +846,33 @@ told me that he was at that moment trying a very big bluff.'
 
 Dr Boyne looked thoughtful.  `Had you discovered the truth by then?'
 he asked.  `There is something very queer and close to the nerves,
-I think, about notions affecting identity.  I don't know whether it
+I think, about notions affecting [[Identity|identity]].  I don't know whether it
 would be more weird to get a guess like that swiftly or slowly.
-I wonder when you suspected and when you were sure.'
+I [[Wonder|wonder]] when you suspected and when you were sure.'
 
 `I think I really suspected when I telephoned to you,'
 replied his friend.  `And it was nothing more than the red light
 from the closed door brightening and darkening on the carpet.
-It looked like a splash of blood that grew vivid as it
+It looked like a splash of [[Blood|blood]] that grew vivid as it
 cried for vengeance.  Why should it change like that?
 I knew the sun had not come out; it could only be because the
-second door behind it had been opened and shut on the garden.
+second door behind it had been opened and shut on the [[Garden|garden]].
 But if he had gone out and seen his enemy then, he would
-have raised the alarm then; and it was some time afterwards
+have raised the alarm then; and it was some [[Time|time]] afterwards
 that the fracas occurred.  I began to feel he had gone out
 to do something ... to prepare something ... but as to when I
 was certain, that is a different matter.  I knew that right at
 the end he was trying to hypnotize me, to master me by the black
 art of eyes like talismans and a voice like an incantation.
-That's what he used to do with old Aylmer, no doubt.
+That's what he used to do with old Aylmer, no [[Doubt|doubt]].
 But it wasn't only the way he said it, it was what he said.
-It was the religion and philosophy of it.'
+It was the religion and [[philosophy]] of it.'
 
 `I'm afraid I'm a practical man,' said the doctor with gruff humour,
-`and I don't bother much about religion and philosophy.'
+`and I don't bother much about religion and [[philosophy]].'
 
 `You'll never be a practical man till you do,' said Father Brown.
-`Look here, doctor; you know me pretty well; I think you
+`Look here, doctor; you know me pretty [[Well|well]]; I think you
 know I'm not a bigot.  You know I know there are all sorts
 in all religions; good men in bad ones and bad men in good ones.
 But there's just one little fact I've learned simply as a
@@ -881,30 +881,30 @@ up by experience, like the tricks of an animal or the trade--
 mark of a good wine.  I've scarcely ever met a criminal
 who philosophized at all, who didn't philosophize along
 those lines of orientalism and recurrence and reincarnation,
-and the wheel of destiny and the serpent biting its own tail.
+and the [[Wheel|wheel]] of destiny and the serpent biting its own tail.
 I have found merely in practice that there is a curse on
 the servants of that serpent; on their belly shall they go
-and the dust shall they eat; and there was never a blackguard
+and the [[Dust|dust]] shall they eat; and there was never a blackguard
 or a profligate born who could not talk that sort of spirituality.
 It may not be like that in its real religious origins;
 but here in our working world it is the religion of rascals;
 and I knew it was a rascal who was speaking.'
 
 `Why,' said Boyne, `I should have thought that a rascal could
-pretty well profess any religion he chose.'
+pretty [[Well|well]] profess any religion he chose.'
 
 `Yes,' assented the other; `he could profess any religion;
 that is he could pretend to any religion, if it was all a pretence.
 If it was mere mechanical hypocrisy and nothing else,
-no doubt it could be done by a mere mechanical hypocrite.
+no [[Doubt|doubt]] it could be done by a mere mechanical hypocrite.
 Any sort of mask can be put on any sort of face.  Anybody can learn
 certain phrases or state verbally that he holds certain views.
 I can go out into the street and state that I am a Wesleyan Methodist
-or a Sandemanian, though I fear in no very convincing accent.
-But we are talking about an artist; and for the enjoyment of
-the artist the mask must be to some extent moulded on the face.
+or a Sandemanian, though I [[Fear|fear]] in no very convincing accent.
+But we are talking about an [[artist]]; and for the enjoyment of
+the [[artist]] the mask must be to some extent moulded on the face.
 What he makes outside him must correspond to something inside him;
-he can only make his effects out of some of the materials of his soul.
+he can only make his effects out of some of the materials of his [[Soul|soul]].
 I suppose he could have said he was a Wesleyan Methodist;
 but he could never be an eloquent Methodist as he can be an
 eloquent mystic and fatalist.  I am talking of the sort of ideal
@@ -913,27 +913,27 @@ It was his whole game with me to be as idealistic as possible;
 and whenever that is attempted by that sort of man, you will generally
 find it is that sort of ideal.  That sort of man may be dripping
 with gore; but he will always be able to tell you quite sincerely
-that Buddhism is better than Christianity.  Nay, he will tell you
-quite sincerely that Buddhism is more Christian than Christianity.
-That alone is enough to throw a hideous and ghastly ray of light
-on his notion of Christianity.'
+that Buddhism is better than [[Christianity]].  Nay, he will tell you
+quite sincerely that Buddhism is more Christian than [[Christianity]].
+That [[Alone|alone]] is enough to throw a hideous and ghastly ray of light
+on his notion of [[Christianity]].'
 
 `Upon my soul,' said the doctor, laughing, `I can't make out whether
 you're denouncing or defending him.'
 
 `It isn't defending a man to say he is a genius,' said Father Brown.
 `Far from it.  And it is simply a psychological fact that
-an artist will betray himself by some sort of sincerity.
+an [[artist]] will betray himself by some sort of sincerity.
 Leonardo da Vinci cannot draw as if he couldn't draw.
-Even if he tried, it will always be a strong parody of a weak thing.
+Even if he tried, it will always be a strong [[Parody|parody]] of a weak thing.
 This man would have made something much too fearful and wonderful
 out of the Wesleyan Methodist.'
 
 When the priest went forth again and set his face homeward,
 the cold had grown more intense and yet was somehow intoxicating.
 The trees stood up like silver candelabra of some incredible cold
-candlemas of purification.  It was a piercing cold, like that silver
-sword of pure pain that once pierced the very he of purity.
+candlemas of [[Purification|purification]].  It was a piercing cold, like that silver
+[[Sword|sword]] of pure [[Pain|pain]] that once pierced the very he of purity.
 But it was not a killing cold, save in the sense of seeming to kill
 all the mortal obstructions to our immortal and immeasurable vitality.
 The pale green sky of twilight, with one star like the star of Bethlehem,
@@ -942,14 +942,14 @@ It was as if there could be a green furnace of cold which wakened
 all things to life like warmth, and that the deeper they
 went into those cold crystalline colours the more were they
 light like winged creatures and clear like coloured glass!
-It tingled with truth and it divided truth from error with a blade
+It tingled with [[Truth|truth]] and it divided [[Truth|truth]] from error with a blade
 like ice; but all that was left had never felt so much alive.
-It was as if all joy were a jewel in the heart of an iceberg.
+It was as if all joy were a [[Jewel|jewel]] in the heart of an iceberg.
 The priest hardly understood his own mood as he advanced
 deeper and, deeper into the green gloaming, drinking deeper
 and deeper draughts of that virginal vivacity of the air.
 Some forgotten muddle and morbidity seemed to be left behind, or wiped
-out as the snow had painted out the footprints of the man of blood.
-As he shuffled homewards through the snow, he muttered to himself:
-`And yet he is right enough about there being a white magic,
+out as the [[Snow|snow]] had painted out the footprints of the man of [[Blood|blood]].
+As he shuffled homewards through the [[Snow|snow]], he muttered to himself:
+`And yet he is right enough about there being a white [[Magic|magic]],
 if he only knows where to look for it.'

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 4)"
+title: "[[The Mystery of Marie Roget]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -26,7 +26,7 @@ tags:
 
       to the mother and friends of the deceased, and fully identified
 
-      as those worn by the girl upon leaving home.
+      as those worn by the girl upon leaving [[Home|home]].
 
 
 
@@ -36,13 +36,13 @@ tags:
 
       suspicion; and he failed, at first, to give an intelligible
 
-      account of his whereabouts during the Sunday on which Marie left
+      account of his whereabouts during the [[Sunday]] on which Marie left
 
-      home. Subsequently, however, he submitted to Monsieur G——,
+      [[Home|home]]. Subsequently, however, he submitted to Monsieur G——,
 
       affidavits, accounting satisfactorily for every hour of the day
 
-      in question. As time passed and no discovery ensued, a thousand
+      in question. As [[Time|time]] passed and no discovery ensued, a thousand
 
       contradictory rumors were circulated, and journalists busied
 
@@ -62,7 +62,7 @@ tags:
 
 
 
-      “Mademoiselle Rogêt left her mother’s house on Sunday morning,
+      “Mademoiselle Rogêt left her mother’s [[house]] on [[Sunday]] morning,
 
       June the twenty-second, 18—, with the ostensible purpose of going
 
@@ -76,53 +76,53 @@ tags:
 
       left her mother’s door.... Now, though we have no evidence that
 
-      Marie Rogêt was in the land of the living after nine o’clock on
+      Marie Rogêt was in the land of the living after nine o’[[Clock|clock]] on
 
-      Sunday, June the twenty-second, we have proof that, up to that
+      [[Sunday]], June the twenty-second, we have proof that, up to that
 
-      hour, she was alive. On Wednesday noon, at twelve, a female body
+      hour, she was alive. On Wednesday [[Noon|noon]], at twelve, a female [[Body|body]]
 
       was discovered afloat on the shore of the Barrière de Roule. This
 
       was, even if we presume that Marie Rogêt was thrown into the
 
-      river within three hours after she left her mother’s house, only
+      [[River|river]] within three hours after she left her mother’s [[house]], only
 
-      three days from the time she left her home—three days to an hour.
+      three days from the [[Time|time]] she left her [[Home|home]]—three days to an hour.
 
       But it is folly to suppose that the murder, if murder was
 
-      committed on her body, could have been consummated soon enough to
+      committed on her [[Body|body]], could have been consummated soon enough to
 
-      have enabled her murderers to throw the body into the river
+      have enabled her murderers to throw the [[Body|body]] into the [[River|river]]
 
       before midnight. Those who are guilty of such horrid crimes
 
-      choose darkness rather the light.... Thus we see that if the body
+      choose darkness rather the light.... Thus we see that if the [[Body|body]]
 
-      found in the river was that of Marie Rogêt, it could only have
+      found in the [[River|river]] was that of Marie Rogêt, it could only have
 
-      been in the water two and a half days, or three at the outside.
+      been in the [[Water|water]] two and a half days, or three at the outside.
 
       All experience has shown that drowned bodies, or bodies thrown
 
-      into the water immediately after death by violence, require from
+      into the [[Water|water]] immediately after [[Death|death]] by violence, require from
 
       six to ten days for decomposition to take place to bring them to
 
-      the top of the water. Even where a cannon is fired over a corpse,
+      the top of the [[Water|water]]. Even where a cannon is fired over a corpse,
 
       and it rises before at least five or six days’ immersion, it
 
-      sinks again, if let alone. Now, we ask, what was there in this
+      sinks again, if let [[Alone|alone]]. Now, we ask, what was there in this
 
-      case to cause a departure from the ordinary course of nature?...
+      case to cause a departure from the ordinary course of [[Nature|nature]]?...
 
-      If the body had been kept in its mangled state on shore until
+      If the [[Body|body]] had been kept in its mangled state on shore until
 
-      Tuesday night, some trace would be found on shore of the
+      Tuesday [[Night|night]], some trace would be found on shore of the
 
-      murderers. It is a doubtful point, also, whether the body would
+      murderers. It is a doubtful point, also, whether the [[Body|body]] would
 
       be so soon afloat, even were it thrown in after having been dead
 
@@ -130,31 +130,31 @@ tags:
 
       villains who had committed such a murder as is here supposed,
 
-      would have thrown the body in without weight to sink it, when
+      would have thrown the [[Body|body]] in without weight to sink it, when
 
       such a precaution could have so easily been taken.”
 
 
 
-      The editor here proceeds to argue that the body must have been in
+      The editor here proceeds to argue that the [[Body|body]] must have been in
 
-      the water “not three days merely, but, at least, five times three
+      the [[Water|water]] “not three days merely, but, at least, five times three
 
       days,” because it was so far decomposed that Beauvais had great
 
       difficulty in recognizing it. This latter point, however, was
 
-      fully disproved. I continue the translation:
+      fully disproved. I continue the [[Translation|translation]]:
 
 
 
       “What, then, are the facts on which M. Beauvais says that he has
 
-      no doubt the body was that of Marie Rogêt? He ripped up the gown
+      no [[Doubt|doubt]] the [[Body|body]] was that of Marie Rogêt? He ripped up the gown
 
       sleeve, and says he found marks which satisfied him of the
 
-      identity. The public generally supposed those marks to have
+      [[Identity|identity]]. The public generally supposed those marks to have
 
       consisted of some description of scars. He rubbed the arm and
 
@@ -162,9 +162,9 @@ tags:
 
       readily be imagined—as little conclusive as finding an arm in the
 
-      sleeve. M. Beauvais did not return that night, but sent word to
+      sleeve. M. Beauvais did not return that [[Night|night]], but sent word to
 
-      Madame Rogêt, at seven o’clock, on Wednesday evening, that an
+      Madame Rogêt, at seven o’[[Clock|clock]], on Wednesday evening, that an
 
       investigation was still in progress respecting her daughter. If
 
@@ -174,17 +174,17 @@ tags:
 
       been some one who would have thought it worth while to go over
 
-      and attend the investigation, if they thought the body was that
+      and attend the investigation, if they thought the [[Body|body]] was that
 
       of Marie. Nobody went over. There was nothing said or heard about
 
       the matter in the Rue Pavée St. Andrée, that reached even the
 
-      occupants of the same building. M. St. Eustache, the lover and
+      occupants of the same building. M. St. Eustache, the [[Lover|lover]] and
 
-      intended husband of Marie, who boarded in her mother’s house,
+      intended husband of Marie, who boarded in her mother’s [[house]],
 
-      deposes that he did not hear of the discovery of the body of his
+      deposes that he did not hear of the discovery of the [[Body|body]] of his
 
       intended until the next morning, when M. Beauvais came into his
 

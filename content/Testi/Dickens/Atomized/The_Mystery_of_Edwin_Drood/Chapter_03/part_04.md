@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 3 (part 4)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 3 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -27,15 +27,15 @@ Pyramids, Rosa?”
 enjoying the Lumps, “bore about them, and then you wouldn’t ask.
 Tiresome old burying-grounds! Isises, and Ibises, and Cheopses, and
 Pharaohses; who cares about them? And then there was Belzoni, or
-somebody, dragged out by the legs, half-choked with bats and dust. All
-the girls say: Serve him right, and hope it hurt him, and wish he had
+somebody, dragged out by the legs, half-choked with bats and [[Dust|dust]]. All
+the girls say: Serve him right, and [[Hope|hope]] it hurt him, and wish he had
 been quite choked.”
 
 The two youthful figures, side by side, but not now arm-in-arm, wander
 discontentedly about the old Close; and each sometimes stops and slowly
-imprints a deeper footstep in the fallen leaves.
+imprints a deeper footstep in the fallen [[Leaves|leaves]].
 
-“Well!” says Edwin, after a lengthy silence. “According to custom. We
+“[[Well]]!” says Edwin, after a lengthy [[Silence|silence]]. “According to custom. We
 can’t get on, Rosa.”
 
 Rosa tosses her head, and says she don’t want to get on.
@@ -55,14 +55,14 @@ Rosa tosses her head, and says she don’t want to get on.
 “Now, Rosa, I put it to you. Who disparaged my profession, my
 destination—”
 
-“You are not going to be buried in the Pyramids, I hope?” she
+“You are not going to be buried in the Pyramids, I [[Hope|hope]]?” she
 interrupts, arching her delicate eyebrows. “You never said you were. If
 you are, why haven’t you mentioned it to me? I can’t find out your
 plans by instinct.”
 
-“Now, Rosa, you know very well what I mean, my dear.”
+“Now, Rosa, you know very [[Well|well]] what I mean, my dear.”
 
-“Well then, why did you begin with your detestable red-nosed
+“[[Well]] then, why did you begin with your detestable red-nosed
 giantesses? And she would, she would, she would, she would, she WOULD
 powder it!” cries Rosa, in a little burst of comical contradictory
 spleen.
@@ -71,10 +71,10 @@ spleen.
 Edwin, sighing and becoming resigned.
 
 “How is it possible, sir, that you ever can come right when you’re
-always wrong? And as to Belzoni, I suppose he’s dead;—I’m sure I hope
+always wrong? And as to Belzoni, I suppose he’s dead;—I’m sure I [[Hope|hope]]
 he is—and how can his legs or his chokes concern you?”
 
-“It is nearly time for your return, Rosa. We have not had a very happy
+“It is nearly [[Time|time]] for your return, Rosa. We have not had a very happy
 walk, have we?”
 
 “A happy walk? A detestably unhappy walk, sir. If I go up-stairs the
@@ -83,18 +83,18 @@ responsible, mind!”
 
 “Let us be friends, Rosa.”
 
-“Ah!” cries Rosa, shaking her head and bursting into real tears, “I
+“Ah!” cries Rosa, shaking her head and bursting into real [[Tears|tears]], “I
 wish we _could_ be friends! It’s because we can’t be friends, that we
 try one another so. I am a young little thing, Eddy, to have an old
 heartache; but I really, really have, sometimes. Don’t be angry. I know
 you have one yourself too often. We should both of us have done better,
 if What is to be had been left What might have been. I am quite a
 little serious thing now, and not teasing you. Let each of us forbear,
-this one time, on our own account, and on the other’s!”
+this one [[Time|time]], on our own account, and on the other’s!”
 
-Disarmed by this glimpse of a woman’s nature in the spoilt child,
+Disarmed by this glimpse of a woman’s [[Nature|nature]] in the spoilt [[Child|child]],
 though for an instant disposed to resent it as seeming to involve the
-enforced infliction of himself upon her, Edwin Drood stands watching
+enforced infliction of himself upon her, [[Edwin Drood]] stands watching
 her as she childishly cries and sobs, with both hands to the
 handkerchief at her eyes, and then—she becoming more composed, and
 indeed beginning in her young inconstancy to laugh at herself for

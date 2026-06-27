@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 8 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -22,8 +22,8 @@ tone, approach, and hold his peace.
 ‘I obey you, captain,’ cried Stagg, drawing close to him and filling
 out a bumper without spilling a drop, by reason that he held his little
 finger at the brim of the glass, and stopped at the instant the liquor
-touched it, ‘drink, noble governor. Death to all masters, life to all
-‘prentices, and love to all fair damsels. Drink, brave general, and warm
+touched it, ‘drink, noble governor. [[Death]] to all masters, life to all
+‘prentices, and [[Love|love]] to all fair damsels. Drink, brave general, and warm
 your gallant heart!’
 
 Mr Tappertit condescended to take the glass from his outstretched hand.
@@ -54,7 +54,7 @@ The vault they entered, strewn with sawdust and dimly lighted, was
 between the outer one from which they had just come, and that in which
 the skittle-players were diverting themselves; as was manifested by
 the increased noise and clamour of tongues, which was suddenly stopped,
-however, and replaced by a dead silence, at a signal from the long
+however, and replaced by a dead [[Silence|silence]], at a signal from the long
 comrade. Then, this young gentleman, going to a little cupboard,
 returned with a thigh-bone, which in former times must have been part
 and parcel of some individual at least as long as himself, and placed
@@ -92,7 +92,7 @@ the ‘prentice bowed once more, and so withdrew as he had come.
 There soon appeared at the same door, two other ‘prentices, having
 between them a third, whose eyes were bandaged, and who was attired in a
 bag-wig, and a broad-skirted coat, trimmed with tarnished lace; and who
-was girded with a sword, in compliance with the laws of the Institution
+was girded with a [[Sword|sword]], in compliance with the laws of the Institution
 regulating the introduction of candidates, which required them to
 assume this courtly dress, and kept it constantly in lavender, for
 their convenience. One of the conductors of this novice held a rusty
@@ -117,12 +117,12 @@ probable. Curzon pulled his ears last Tuesday week.’
 
 ‘For looking at his daughter, please you,’ said the novice.
 
-‘Write Curzon down, Denounced,’ said the captain. ‘Put a black cross
+‘Write Curzon down, Denounced,’ said the captain. ‘Put a black [[Cross|cross]]
 against the name of Curzon.’
 
 ‘So please you,’ said the novice, ‘that’s not the worst--he calls his
 ‘prentice idle dog, and stops his beer unless he works to his liking. He
-gives Dutch cheese, too, eating Cheshire, sir, himself; and Sundays out,
+gives Dutch [[cheese]], too, eating Cheshire, sir, himself; and Sundays out,
 are only once a month.’
 
 ‘This,’ said Mr Tappert gravely, ‘is a flagrant case. Put two black
@@ -130,6 +130,6 @@ crosses to the name of Curzon.’
 
 ‘If the society,’ said the novice, who was an ill-looking, one-sided,
 shambling lad, with sunken eyes set close together in his head--‘if the
-society would burn his house down--for he’s not insured--or beat him
-as he comes home from his club at night, or help me to carry off his
+society would burn his [[house]] down--for he’s not insured--or beat him
+as he comes [[Home|home]] from his club at [[Night|night]], or help me to carry off his
 daughter, and marry her at the Fleet, whether she gave consent or no--’

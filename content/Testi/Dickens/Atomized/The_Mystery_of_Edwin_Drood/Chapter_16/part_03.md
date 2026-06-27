@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 15 (part 3)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 15 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -17,12 +17,12 @@ tags:
 All that day, again, the search went on. Now, in barge and boat; and
 now ashore among the osiers, or tramping amidst mud and stakes and
 jagged stones in low-lying places, where solitary watermarks and
-signals of strange shapes showed like spectres, John Jasper worked and
-toiled. But to no purpose; for still no trace of Edwin Drood revisited
+signals of strange shapes showed like spectres, [[John Jasper]] worked and
+toiled. But to no purpose; for still no trace of [[Edwin Drood]] revisited
 the light of the sun.
 
-Setting his watches for that night again, so that vigilant eyes should
-be kept on every change of tide, he went home exhausted. Unkempt and
+Setting his watches for that [[Night|night]] again, so that vigilant eyes should
+be kept on every change of tide, he went [[Home|home]] exhausted. Unkempt and
 disordered, bedaubed with mud that had dried upon him, and with much of
 his clothing torn to rags, he had but just dropped into his easy-chair,
 when Mr. Grewgious stood before him.
@@ -35,9 +35,9 @@ Jasper had merely lifted up his heavy eyes to say it, and now dropped
 them again as he drooped, worn out, over one side of his easy-chair.
 
 Mr. Grewgious smoothed his head and face, and stood looking at the
-fire.
+[[Fire|fire]].
 
-“How is your ward?” asked Jasper, after a time, in a faint, fatigued
+“How is your ward?” asked Jasper, after a [[Time|time]], in a faint, fatigued
 voice.
 
 “Poor little thing! You may imagine her condition.”
@@ -47,8 +47,8 @@ voice.
 “Whose?”
 
 The curtness of the counter-question, and the cool, slow manner in
-which, as he put it, Mr. Grewgious moved his eyes from the fire to his
-companion’s face, might at any other time have been exasperating. In
+which, as he put it, Mr. Grewgious moved his eyes from the [[Fire|fire]] to his
+companion’s face, might at any other [[Time|time]] have been exasperating. In
 his depression and exhaustion, Jasper merely opened his eyes to say:
 “The suspected young man’s.”
 
@@ -65,7 +65,7 @@ Landless.”
 
 “What is her state?”
 
-“Defiance of all suspicion, and unbounded faith in her brother.”
+“Defiance of all suspicion, and unbounded [[Faith|faith]] in her brother.”
 
 “Poor thing!”
 
@@ -78,21 +78,21 @@ Jasper, with a groaning sigh, turned wearily in his chair.
 “Shall I put it off till to-morrow?” said Mr. Grewgious. “Mind, I warn
 you, that I think it will surprise you!”
 
-More attention and concentration came into John Jasper’s eyes as they
+More attention and concentration came into [[John Jasper]]’s eyes as they
 caught sight of Mr. Grewgious smoothing his head again, and again
-looking at the fire; but now, with a compressed and determined mouth.
+looking at the [[Fire|fire]]; but now, with a compressed and determined mouth.
 
 “What is it?” demanded Jasper, becoming upright in his chair.
 
 “To be sure,” said Mr. Grewgious, provokingly slowly and internally, as
-he kept his eyes on the fire: “I might have known it sooner; she gave
+he kept his eyes on the [[Fire|fire]]: “I might have known it sooner; she gave
 me the opening; but I am such an exceedingly Angular man, that it never
 occurred to me; I took all for granted.”
 
 “What is it?” demanded Jasper once more.
 
 Mr. Grewgious, alternately opening and shutting the palms of his hands
-as he warmed them at the fire, and looking fixedly at him sideways, and
+as he warmed them at the [[Fire|fire]], and looking fixedly at him sideways, and
 never changing either his action or his look in all that followed, went
 on to reply.
 
@@ -114,7 +114,7 @@ surface dreadful starting drops or bubbles, as if of steel.
 
 “This young couple formed at length the healthy resolution of
 interchanging their discoveries, openly, sensibly, and tenderly. They
-met for that purpose. After some innocent and generous talk, they
+met for that purpose. After some [[Innocent|innocent]] and generous talk, they
 agreed to dissolve their existing, and their intended, relations, for
 ever and ever.”
 
@@ -132,7 +132,7 @@ Mr. Grewgious saw the ghastly figure throw back its head, clutch its
 hair with its hands, and turn with a writhing action from him.
 
 “I have now said all I have to say: except that this young couple
-parted, firmly, though not without tears and sorrow, on the evening
+parted, firmly, though not without [[Tears|tears]] and sorrow, on the evening
 when you last saw them together.”
 
 Mr. Grewgious heard a terrible shriek, and saw no ghastly figure,

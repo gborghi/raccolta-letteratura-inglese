@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 14 (part 2)"
+title: "[[The Professor]] — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -34,13 +34,13 @@ the second place had fallen to the lot of a certain Leonie Ledru, a
 
 diminutive, sharp-featured, and parchment-skinned creature of quick
 
-wits, frail conscience, and indurated feelings; a lawyer-like thing, of
+wits, frail [[Conscience|conscience]], and indurated feelings; a lawyer-like thing, of
 
 whom I used to say that, had she been a boy, she would have made a
 
 model of an unprincipled, clever attorney. Then came Eulalie, the proud
 
-beauty, the Juno of the school, whom six long years of drilling in the
+[[Beauty|beauty]], the Juno of the school, whom six long years of drilling in the
 
 simple grammar of the English language had compelled, despite the stiff
 
@@ -74,7 +74,7 @@ hand on her head, in token of approbation; I thought Sylvie was going to
 
 smile, her dim eye almost kindled; but, presently, she shrank from me;
 
-I was a man and a heretic; she, poor child! a destined nun and devoted
+I was a man and a heretic; she, poor [[Child|child]]! a destined nun and devoted
 
 Catholic: thus a four-fold wall of separation divided her mind from
 
@@ -84,7 +84,7 @@ testifying her gratification; Eulalie looked sullen and envious--she had
 
 hoped to be first. Hortense and Caroline exchanged a reckless grimace on
 
-hearing their names read out somewhere near the bottom of the list; the
+hearing their names read out somewhere near the [[Bottom|bottom]] of the list; the
 
 brand of mental inferiority was considered by them as no disgrace, their
 
@@ -96,7 +96,7 @@ This affair arranged, the regular lesson followed. During a brief
 
 interval, employed by the pupils in ruling their books, my eye, ranging
 
-carelessly over the benches, observed, for the first time, that the
+carelessly over the benches, observed, for the first [[Time|time]], that the
 
 farthest seat in the farthest row--a seat usually vacant--was
 
@@ -128,7 +128,7 @@ countenance, her lineaments, her figure, were all distinct from theirs,
 
 and, evidently, the type of another race--of a race less gifted with
 
-fullness of flesh and plenitude of blood; less jocund, material,
+fullness of flesh and plenitude of [[Blood|blood]]; less jocund, material,
 
 unthinking. When I first cast my eyes on her, she sat looking fixedly
 
@@ -138,11 +138,11 @@ till I commenced the lesson. None of the Belgian girls would have
 
 retained one position, and that a reflective one, for the same length of
 
-time. Yet, having intimated that her appearance was peculiar, as
+[[Time|time]]. Yet, having intimated that her appearance was peculiar, as
 
 being unlike that of her Flemish companions, I have little more to say
 
-respecting it; I can pronounce no encomiums on her beauty, for she was
+respecting it; I can pronounce no encomiums on her [[Beauty|beauty]], for she was
 
 not beautiful; nor offer condolence on her plainness, for neither
 
@@ -158,7 +158,7 @@ crotchety observer.
 
 Now, reader, though I have spent more than a page in describing Mdlle.
 
-Henri, I know well enough that I have left on your mind’s eye no
+Henri, I know [[Well|well]] enough that I have left on your mind’s eye no
 
 distinct picture of her; I have not painted her complexion, nor her
 
@@ -188,9 +188,9 @@ would not help her, I went on relentless. She looked at me; her eye
 
 said most plainly, “I cannot follow you.” I disregarded the appeal, and,
 
-carelessly leaning back in my chair, glancing from time to time with a
+carelessly leaning back in my chair, glancing from [[Time|time]] to [[Time|time]] with a
 
-NONCHALANT air out of the window, I dictated a little faster. On looking
+NONCHALANT air out of the [[Window|window]], I dictated a little faster. On looking
 
 towards her again, I perceived her face clouded with embarrassment, but
 
@@ -216,7 +216,7 @@ stupid. Glancing over her exercise, I found that several lines had been
 
 omitted, but what was written contained very few faults; I instantly
 
-inscribed “Bon” at the bottom of the page, and returned it to her; she
+inscribed “Bon” at the [[Bottom|bottom]] of the page, and returned it to her; she
 
 smiled, at first incredulously, then as if reassured, but did not
 

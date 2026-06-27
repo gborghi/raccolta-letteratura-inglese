@@ -23,8 +23,8 @@ the case into his own hands.
 
 ‘My friends,’ said he, ‘by virtue o’ my office as your president, I askes
 o’ our friend Slackbridge, who may be a little over hetter in this
-business, to take his seat, whiles this man Stephen Blackpool is heern.
-You all know this man Stephen Blackpool.  You know him awlung o’ his
+business, to take his seat, whiles this man [[Stephen Blackpool]] is heern.
+You all know this man [[Stephen Blackpool]].  You know him awlung o’ his
 misfort’ns, and his good name.’
 
 With that, the chairman shook him frankly by the hand, and sat down
@@ -33,7 +33,7 @@ from left to right, and never the reverse way.
 
 ‘My friends,’ Stephen began, in the midst of a dead calm; ‘I ha’ hed
 what’s been spok’n o’ me, and ’tis lickly that I shan’t mend it.  But I’d
-liefer you’d hearn the truth concernin myseln, fro my lips than fro onny
+liefer you’d hearn the [[Truth|truth]] concernin myseln, fro my lips than fro onny
 other man’s, though I never cud’n speak afore so monny, wi’out bein
 moydert and muddled.’
 
@@ -42,7 +42,7 @@ bitterness.
 
 ‘I’m th’ one single Hand in Bounderby’s mill, o’ a’ the men theer, as
 don’t coom in wi’ th’ proposed reg’lations.  I canna coom in wi’ ’em.  My
-friends, I doubt their doin’ yo onny good.  Licker they’ll do yo hurt.’
+friends, I [[Doubt|doubt]] their doin’ yo onny good.  Licker they’ll do yo hurt.’
 
 Slackbridge laughed, folded his arms, and frowned sarcastically.
 
@@ -61,7 +61,7 @@ to your children’s and your children’s children’s?’
 There was some applause, and some crying of Shame upon the man; but the
 greater part of the audience were quiet.  They looked at Stephen’s worn
 face, rendered more pathetic by the homely emotions it evinced; and, in
-the kindness of their nature, they were more sorry than indignant.
+the kindness of their [[Nature|nature]], they were more sorry than indignant.
 
 ‘’Tis this Delegate’s trade for t’ speak,’ said Stephen, ‘an’ he’s paid
 for ’t, an’ he knows his work.  Let him keep to ’t.  Let him give no heed
@@ -79,10 +79,10 @@ this delegate here—I ha but a word to sen, and I could sen nommore if I
 was to speak till Strike o’ day.  I know weel, aw what’s afore me.  I
 know weel that yo aw resolve to ha nommore ado wi’ a man who is not wi’
 yo in this matther.  I know weel that if I was a lyin parisht i’ th’
-road, yo’d feel it right to pass me by, as a forrenner and stranger.
+[[Road|road]], yo’d feel it right to pass me by, as a forrenner and stranger.
 What I ha getn, I mun mak th’ best on.’
 
-‘Stephen Blackpool,’ said the chairman, rising, ‘think on ’t agen.  Think
+‘[[Stephen Blackpool]],’ said the chairman, rising, ‘think on ’t agen.  Think
 on ’t once agen, lad, afore thou’rt shunned by aw owd friends.’
 
 There was an universal murmur to the same effect, though no man
@@ -112,13 +112,13 @@ remembered something he had not said, and returned again.
 ‘Haply,’ he said, turning his furrowed face slowly about, that he might
 as it were individually address the whole audience, those both near and
 distant; ‘haply, when this question has been tak’n up and discoosed,
-there’ll be a threat to turn out if I’m let to work among yo.  I hope I
-shall die ere ever such a time cooms, and I shall work solitary among yo
+there’ll be a threat to turn out if I’m let to work among yo.  I [[Hope|hope]] I
+shall die ere ever such a [[Time|time]] cooms, and I shall work solitary among yo
 unless it cooms—truly, I mun do ’t, my friends; not to brave yo, but to
 live.  I ha nobbut work to live by; and wheerever can I go, I who ha
 worked sin I were no heighth at aw, in Coketown heer?  I mak’ no
 complaints o’ bein turned to the wa’, o’ bein outcasten and overlooken
-fro this time forrard, but hope I shall be let to work.  If there is any
+fro this [[Time|time]] forrard, but [[Hope|hope]] I shall be let to work.  If there is any
 right for me at aw, my friends, I think ’tis that.’
 
 Not a word was spoken.  Not a sound was audible in the building, but the

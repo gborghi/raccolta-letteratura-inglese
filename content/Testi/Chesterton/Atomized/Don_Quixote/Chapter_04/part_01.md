@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 3 (part 1)"
+title: "[[Don Quixote]] — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -42,15 +42,15 @@ or alphabet of Hittite hieroglyphics, which were different
 from all other hieroglyphics, which, indeed, to the careless
 eye of the cold world, did not appear to be hieroglyphics
 at all, but irregular surfaces of partially decayed stone.
-But as the Bible said somewhere that somebody drove away
+But as the [[Bible]] said somewhere that somebody drove away
 forty-seven camels, Professor Elk was able to spread the great
 and glad news that in the Hittite account of what was evidently
 the same incident, the researches of the learned Herne had
 already deciphered a distinct allusion to only forty camels;
 a discovery which gravely affected the foundations of Christian
 cosmology and seemed to many to open alarming and promising
-vistas in the matter of the institution of marriage.
-The librarian's name became quite current in journalism for a time,
+vistas in the matter of the institution of [[Marriage|marriage]].
+The librarian's name became quite current in journalism for a [[Time|time]],
 and insistence on the persecution or neglect suffered at the hands
 of the orthodox by Galileo, Bruno, and Herne, became an agreeable
 variation on the recognised triad of Galileo, Bruno, and Darwin.
@@ -74,12 +74,12 @@ not in the mere sense of looking elsewhere, but almost as if it
 were in some other head than his own.  And indeed, in a manner,
 it was; it was in the head of a Hittite ten thousand years ago.
 
-For there was something in Michael Herne which is perhaps
-in every specialist, buried under his mountains of material
-and alone enabling him to support them; something of what,
+For there was something in [[Michael]] Herne which is perhaps
+in every specialist, buried under his [[Mountains|mountains]] of material
+and [[Alone|alone]] enabling him to support them; something of what,
 when it gains vent in an upper air, is called poetry.
 He instinctively made pictures of the things he studied.
-Even discerning men, appreciative of many corners of history,
+Even discerning men, appreciative of many corners of [[history]],
 would have seen in him only a dusty antiquarian, fumbling with
 pre-historic pots and pans or the everlasting stone hatchet;
 a hatchet that most of us are very willing to bury.
@@ -91,15 +91,15 @@ see it boiling, to cook something killed with the hatchet.
 He would not have called it "something," of course; but given
 the name of some sufficiently edible bird or beast; he was quite
 capable of making out a Hittite _menu._ From such faint fragments
-he had indeed erected a visionary and archaic city and state,
+he had indeed erected a visionary and archaic [[City|city]] and state,
 eclipsing Assyria in its elephantine and unshapely enormity.
-His soul was afar off, walking under strange skies of turquoise
+His [[Soul|soul]] was afar off, walking under strange skies of turquoise
 and gold; amid head-dresses like high sepulchres and sepulchres higher
 than citadels; and beards braided as if into figured tapestries.
-When he looked out of the open library window at the gardener
-sweeping the trim garden walks of Seawood, it was not these things
-that he saw.  He saw those huge enthroned brutes and birds
-that seemed to be hewn out of mountains.  He saw those vast,
+When he looked out of the open library [[Window|window]] at the gardener
+sweeping the trim [[Garden|garden]] walks of Seawood, it was not these things
+that he saw.  He saw those huge enthroned brutes and [[Birds|birds]]
+that seemed to be hewn out of [[Mountains|mountains]].  He saw those vast,
 overpowering faces, that seemed to have been planned like cities.
 There were even hints that he had allowed the Hittites to prey
 upon his mind to its slight unsettlement.  A story was current
@@ -110,22 +110,22 @@ the books and driven to take refuge on the top of the library steps.
 But opinion was divided as to whether this story was founded
 on fact or on Mr. Douglas Murrel.
 
-Anyhow, the anecdote was at least an allegory.  Few realise how much
+Anyhow, the anecdote was at least an [[Allegory|allegory]].  Few realise how much
 of controversial war and tumult can be covered by an obscure hobby.
 The fighting spirit has almost taken refuge in hobbies as in
 holes and corners of the earth; and left the larger public
-fields singularly dull and flat and free from real debate.
+fields singularly dull and flat and free from real [[debate]].
 It might be imagined that the _Daily Wire_ was a slashing paper
 and the _Review of Assyrian Excavation_ was a mild and peaceful one.
-But in truth it is the other way.  It is the popular paper that has
+But in [[Truth|truth]] it is the other way.  It is the popular paper that has
 become cold and conventional, and full of clichés used without
-any conviction.  It is the scholarly paper that is full of fire
-and fanaticism and rivalry.  Mr. Herne could not contain himself
+any conviction.  It is the scholarly paper that is full of [[Fire|fire]]
+and [[Fanaticism|fanaticism]] and rivalry.  Mr. Herne could not contain himself
 when he thought of Professor Poole and his preposterous and monstrous
-suggestion about the Pre-Hittite sandal.  He pursued the Professor,
+suggestion about the Pre-Hittite sandal.  He pursued [[The Professor|the Professor]],
 if not with a broom at least with a pen brandished like a weapon;
 and expended on these unheard-of questions energies of real eloquence,
-logic and living enthusiasm which the world will never hear of either.
+[[logic]] and living enthusiasm which the world will never hear of either.
 And when he discovered fresh facts, exposed accepted fallacies or
 concentrated on contradictions which he exposed with glaring lucidity,
 he was not an inch nearer to any public recognition but he was

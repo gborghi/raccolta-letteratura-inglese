@@ -1,5 +1,5 @@
 ---
-title: "The Colloquy of Monos and Una (part 1)"
+title: "[[The Colloquy of Monos and Una]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Colloquy-of-Monos-and-Una-(Poe)"
@@ -30,11 +30,11 @@ tags:
 
       pondered, rejecting the explanations of the priesthood, until
 
-      Death himself resolved for me the secret.
+      [[Death]] himself resolved for me the secret.
 
 
 
-      _Una._ Death!
+      _Una._ [[Death]]!
 
 
 
@@ -44,7 +44,7 @@ tags:
 
       You are confused and oppressed by the majestic novelty of the
 
-      Life Eternal. Yes, it was of Death I spoke. And here how
+      Life Eternal. Yes, it was of [[Death]] I spoke. And here how
 
       singularly sounds that word which of old was wont to bring terror
 
@@ -52,15 +52,15 @@ tags:
 
 
 
-      _Una._ Ah, Death, the spectre which sate at all feasts! How
+      _Una._ Ah, [[Death]], the spectre which sate at all feasts! How
 
       often, Monos, did we lose ourselves in speculations upon its
 
-      nature! How mysteriously did it act as a check to human
+      [[Nature|nature]]! How mysteriously did it act as a check to human
 
       bliss—saying unto it “thus far, and no farther!” That earnest
 
-      mutual love, my own Monos, which burned within our bosoms—how
+      mutual [[Love|love]], my own Monos, which burned within our bosoms—how
 
       vainly did we flatter ourselves, feeling happy in its first
 
@@ -70,7 +70,7 @@ tags:
 
       that evil hour which was hurrying to separate us forever! Thus,
 
-      in time, it became painful to love. Hate would have been mercy
+      in [[Time|time]], it became painful to [[Love|love]]. Hate would have been [[Mercy|mercy]]
 
       then.
 
@@ -82,13 +82,13 @@ tags:
 
 
 
-      _ Una._ But the memory of past sorrow—is it not present joy? I
+      _ Una._ But the [[Memory|memory]] of past sorrow—is it not present joy? I
 
       have much to say yet of the things which have been. Above all, I
 
       burn to know the incidents of your own passage through the dark
 
-      Valley and Shadow.
+      Valley and [[Shadow]].
 
 
 
@@ -108,7 +108,7 @@ tags:
 
 
 
-      _Una._ Monos, I comprehend you. In Death we have both learned the
+      _Una._ Monos, I comprehend you. In [[Death]] we have both learned the
 
       propensity of man to define the indefinable. I will not say,
 
@@ -118,7 +118,7 @@ tags:
 
       you sank into a breathless and motionless torpor, and I pressed
 
-      down your pallid eyelids with the passionate fingers of love.
+      down your pallid eyelids with the passionate fingers of [[Love|love]].
 
 
 
@@ -128,7 +128,7 @@ tags:
 
       wise among our forefathers—wise in fact, although not in the
 
-      world’s esteem—had ventured to doubt the propriety of the term
+      world’s esteem—had ventured to [[Doubt|doubt]] the propriety of the term
 
       “improvement,” as applied to the progress of our civilization.
 
@@ -136,7 +136,7 @@ tags:
 
       immediately preceding our dissolution, when arose some vigorous
 
-      intellect, boldly contending for those principles whose truth
+      intellect, boldly contending for those principles whose [[Truth|truth]]
 
       appears now, to our disenfranchised reason, so utterly
 
@@ -156,19 +156,19 @@ tags:
 
       importance could only be reached by that analogy which speaks in
 
-      proof tones to the imagination alone and to the unaided reason
+      proof tones to the [[Imagination|imagination]] [[Alone|alone]] and to the unaided reason
 
       bears no weight—occasionally did this poetic intellect proceed a
 
       step farther in the evolving of the vague idea of the
 
-      philosophic, and find in the mystic parable that tells of the
+      philosophic, and find in the mystic [[Parable|parable]] that tells of the
 
-      tree of knowledge, and of its forbidden fruit, death-producing, a
+      tree of knowledge, and of its forbidden fruit, [[Death|death]]-producing, a
 
       distinct intimation that knowledge was not meet for man in the
 
-      infant condition of his soul. And these men—the poets—living and
+      infant condition of his [[Soul|soul]]. And these men—the poets—living and
 
       perishing amid the scorn of the “utilitarians”—of rough pedants,
 
@@ -198,11 +198,11 @@ tags:
 
       term—went on: a diseased commotion, moral and physical. Art—the
 
-      Arts—arose supreme, and, once enthroned, cast chains upon the
+      Arts—arose supreme, and, once enthroned, cast [[Chains|chains]] upon the
 
       intellect which had elevated them to power. Man, because he could
 
-      not but acknowledge the majesty of Nature, fell into childish
+      not but acknowledge the majesty of [[Nature]], fell into childish
 
       exultation at his acquired and still-increasing dominion over her
 
@@ -220,7 +220,7 @@ tags:
 
       of the laws of _gradation_ so visibly pervading all things in
 
-      Earth and Heaven—wild attempts at an omni-prevalent Democracy
+      Earth and Heaven—wild attempts at an omni-prevalent [[democracy|Democracy]]
 
       were made. Yet this evil sprang necessarily from the leading
 

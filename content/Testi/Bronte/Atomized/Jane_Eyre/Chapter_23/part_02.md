@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 23 (part 2)"
+title: "[[Jane Eyre]] — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -26,9 +26,9 @@ must.”
 
 This was a blow: but I did not let it prostrate me.
 
-“Well, sir, I shall be ready when the order to march comes.”
+“[[Well]], sir, I shall be ready when the order to march comes.”
 
-“It is come now—I must give it to-night.”
+“It is come now—I must give it to-[[Night|night]].”
 
 “Then you _are_ going to be married, sir?”
 
@@ -38,16 +38,16 @@ nail straight on the head.”
 “Soon, sir?”
 
 “Very soon, my—that is, Miss Eyre: and you’ll remember, Jane, the first
-time I, or Rumour, plainly intimated to you that it was my intention to
+[[Time|time]] I, or Rumour, plainly intimated to you that it was my intention to
 put my old bachelor’s neck into the sacred noose, to enter into the
 holy estate of matrimony—to take Miss Ingram to my bosom, in short
 (she’s an extensive armful: but that’s not to the point—one can’t have
-too much of such a very excellent thing as my beautiful Blanche): well,
+too much of such a very excellent thing as my beautiful Blanche): [[Well|well]],
 as I was saying—listen to me, Jane! You’re not turning your head to
-look after more moths, are you? That was only a lady-clock, child,
-‘flying away home.’ I wish to remind you that it was you who first said
+look after more moths, are you? That was only a lady-[[Clock|clock]], [[Child|child]],
+‘flying away [[Home|home]].’ I wish to remind you that it was you who first said
 to me, with that discretion I respect in you—with that foresight,
-prudence, and humility which befit your responsible and dependent
+prudence, and [[Humility|humility]] which befit your responsible and dependent
 position—that in case I married Miss Ingram, both you and little Adèle
 had better trot forthwith. I pass over the sort of slur conveyed in
 this suggestion on the character of my beloved; indeed, when you are
@@ -60,17 +60,17 @@ was going to say, “I suppose I may stay here, till I find another
 shelter to betake myself to:” but I stopped, feeling it would not do to
 risk a long sentence, for my voice was not quite under command.
 
-“In about a month I hope to be a bridegroom,” continued Mr. Rochester;
+“In about a month I [[Hope|hope]] to be a bridegroom,” continued Mr. Rochester;
 “and in the interim, I shall myself look out for employment and an
 asylum for you.”
 
 “Thank you, sir; I am sorry to give—”
 
 “Oh, no need to apologise! I consider that when a dependent does her
-duty as well as you have done yours, she has a sort of claim upon her
+duty as [[Well|well]] as you have done yours, she has a sort of claim upon her
 employer for any little assistance he can conveniently render her;
 indeed I have already, through my future mother-in-law, heard of a
-place that I think will suit: it is to undertake the education of the
+place that I think will suit: it is to undertake the [[Education|education]] of the
 five daughters of Mrs. Dionysius O’Gall of Bitternutt Lodge, Connaught,
 Ireland. You’ll like Ireland, I think: they’re such warm-hearted people
 there, they say.”
@@ -86,12 +86,12 @@ distance.”
 
 “From England and from Thornfield: and—”
 
-“Well?”
+“[[Well]]?”
 
 “From _you_, sir.”
 
 I said this almost involuntarily, and, with as little sanction of free
-will, my tears gushed out. I did not cry so as to be heard, however; I
+will, my [[Tears|tears]] gushed out. I did not cry so as to be heard, however; I
 avoided sobbing. The thought of Mrs. O’Gall and Bitternutt Lodge struck
 cold to my heart; and colder the thought of all the brine and foam,
 destined, as it seemed, to rush between me and the master at whose side
@@ -109,18 +109,18 @@ country. We have been good friends, Jane; have we not?”
 “Yes, sir.”
 
 “And when friends are on the eve of separation, they like to spend the
-little time that remains to them close to each other. Come! we’ll talk
+little [[Time|time]] that remains to them close to each other. Come! we’ll talk
 over the voyage and the parting quietly half-an-hour or so, while the
-stars enter into their shining life up in heaven yonder: here is the
+[[Stars|stars]] enter into their shining life up in heaven yonder: here is the
 chestnut tree: here is the bench at its old roots. Come, we will sit
-there in peace to-night, though we should never more be destined to sit
+there in peace to-[[Night|night]], though we should never more be destined to sit
 there together.” He seated me and himself.
 
 “It is a long way to Ireland, Janet, and I am sorry to send my little
 friend on such weary travels: but if I can’t do better, how is it to be
 helped? Are you anything akin to me, do you think, Jane?”
 
-I could risk no sort of answer by this time: my heart was still.
+I could risk no sort of answer by this [[Time|time]]: my heart was still.
 
 “Because,” he said, “I sometimes have a queer feeling with regard to
 you—especially when you are near me, as now: it is as if I had a string
@@ -133,7 +133,7 @@ inwardly. As for you,—you’d forget me.”
 
 “That I _never_ should, sir: you know—” Impossible to proceed.
 
-“Jane, do you hear that nightingale singing in the wood? Listen!”
+“Jane, do you hear that [[Nightingale|nightingale]] singing in the wood? Listen!”
 
 In listening, I sobbed convulsively; for I could repress what I endured
 no longer; I was obliged to yield, and I was shaken from head to foot
@@ -142,12 +142,12 @@ impetuous wish that I had never been born, or never come to Thornfield.
 
 “Because you are sorry to leave it?”
 
-The vehemence of emotion, stirred by grief and love within me, was
+The vehemence of emotion, stirred by grief and [[Love|love]] within me, was
 claiming mastery, and struggling for full sway, and asserting a right
 to predominate, to overcome, to live, rise, and reign at last: yes,—and
 to speak.
 
-“I grieve to leave Thornfield: I love Thornfield:—I love it, because I
+“I grieve to leave Thornfield: I [[Love|love]] Thornfield:—I [[Love|love]] it, because I
 have lived in it a full and delightful life,—momentarily at least. I
 have not been trampled on. I have not been petrified. I have not been
 buried with inferior minds, and excluded from every glimpse of
@@ -156,4 +156,4 @@ face to face, with what I reverence, with what I delight in,—with an
 original, a vigorous, an expanded mind. I have known you, Mr.
 Rochester; and it strikes me with terror and anguish to feel I
 absolutely must be torn from you for ever. I see the necessity of
-departure; and it is like looking on the necessity of death.”
+departure; and it is like looking on the necessity of [[Death|death]].”

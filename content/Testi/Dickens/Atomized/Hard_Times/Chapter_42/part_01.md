@@ -32,9 +32,9 @@ man with a great puffed head and forehead, swelled veins in his temples,
 and such a strained skin to his face that it seemed to hold his eyes
 open, and lift his eyebrows up.  A man with a pervading appearance on him
 of being inflated like a balloon, and ready to start.  A man who could
-never sufficiently vaunt himself a self-made man.  A man who was always
+never sufficiently vaunt himself a [[Self-Made Man|self-made man]].  A man who was always
 proclaiming, through that brassy speaking-trumpet of a voice of his, his
-old ignorance and his old poverty.  A man who was the Bully of humility.
+old ignorance and his old [[Poverty|poverty]].  A man who was the Bully of [[Humility|humility]].
 
 A year or two younger than his eminently practical friend, Mr. Bounderby
 looked older; his seven or eight and forty might have had the seven or
@@ -44,15 +44,15 @@ left, all standing up in disorder, was in that condition from being
 constantly blown about by his windy boastfulness.
 
 In the formal drawing-room of Stone Lodge, standing on the hearthrug,
-warming himself before the fire, Mr. Bounderby delivered some
+warming himself before the [[Fire|fire]], Mr. Bounderby delivered some
 observations to Mrs. Gradgrind on the circumstance of its being his
-birthday.  He stood before the fire, partly because it was a cool spring
+birthday.  He stood before the [[Fire|fire]], partly because it was a cool [[spring]]
 afternoon, though the sun shone; partly because the shade of Stone Lodge
-was always haunted by the ghost of damp mortar; partly because he thus
+was always haunted by the [[Ghost|ghost]] of damp mortar; partly because he thus
 took up a commanding position, from which to subdue Mrs. Gradgrind.
 
 ‘I hadn’t a shoe to my foot.  As to a stocking, I didn’t know such a
-thing by name.  I passed the day in a ditch, and the night in a pigsty.
+thing by name.  I passed the day in a ditch, and the [[Night|night]] in a pigsty.
 That’s the way I spent my tenth birthday.  Not that a ditch was new to
 me, for I was born in a ditch.’
 
@@ -62,7 +62,7 @@ without any effect, and who, whenever she showed a symptom of coming to
 life, was invariably stunned by some weighty piece of fact tumbling on
 her; Mrs. Gradgrind hoped it was a dry ditch?
 
-‘No!  As wet as a sop.  A foot of water in it,’ said Mr. Bounderby.
+‘No!  As wet as a sop.  A foot of [[Water|water]] in it,’ said Mr. Bounderby.
 
 ‘Enough to give a baby cold,’ Mrs. Gradgrind considered.
 
@@ -104,26 +104,26 @@ was big enough to run away, of course I ran away.  Then I became a young
 vagabond; and instead of one old woman knocking me about and starving me,
 everybody of all ages knocked me about and starved me.  They were right;
 they had no business to do anything else.  I was a nuisance, an
-incumbrance, and a pest.  I know that very well.’
+incumbrance, and a pest.  I know that very [[Well|well]].’
 
-His pride in having at any time of his life achieved such a great social
+His [[Pride|pride]] in having at any [[Time|time]] of his life achieved such a great social
 distinction as to be a nuisance, an incumbrance, and a pest, was only to
 be satisfied by three sonorous repetitions of the boast.
 
 ‘I was to pull through it, I suppose, Mrs. Gradgrind.  Whether I was to
 do it or not, ma’am, I did it.  I pulled through it, though nobody threw
 me out a rope.  Vagabond, errand-boy, vagabond, labourer, porter, clerk,
-chief manager, small partner, Josiah Bounderby of Coketown.  Those are
-the antecedents, and the culmination.  Josiah Bounderby of Coketown
+chief manager, small partner, [[Josiah Bounderby]] of Coketown.  Those are
+the antecedents, and the culmination.  [[Josiah Bounderby]] of Coketown
 learnt his letters from the outsides of the shops, Mrs. Gradgrind, and
-was first able to tell the time upon a dial-plate, from studying the
-steeple clock of St. Giles’s Church, London, under the direction of a
+was first able to tell the [[Time|time]] upon a dial-plate, from studying the
+steeple [[Clock|clock]] of St. Giles’s Church, [[London]], under the direction of a
 drunken cripple, who was a convicted thief, and an incorrigible vagrant.
-Tell Josiah Bounderby of Coketown, of your district schools and your
+Tell [[Josiah Bounderby]] of Coketown, of your district schools and your
 model schools, and your training schools, and your whole kettle-of-fish
-of schools; and Josiah Bounderby of Coketown, tells you plainly, all
+of schools; and [[Josiah Bounderby]] of Coketown, tells you plainly, all
 right, all correct—he hadn’t such advantages—but let us have hard-headed,
-solid-fisted people—the education that made him won’t do for everybody,
-he knows well—such and such his education was, however, and you may force
-him to swallow boiling fat, but you shall never force him to suppress the
+solid-fisted people—the [[Education|education]] that made him won’t do for everybody,
+he knows [[Well|well]]—such and such his [[Education|education]] was, however, and you may force
+him to [[Swallow|swallow]] boiling fat, but you shall never force him to suppress the
 facts of his life.’

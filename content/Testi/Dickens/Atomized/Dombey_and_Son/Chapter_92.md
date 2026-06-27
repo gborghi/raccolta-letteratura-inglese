@@ -20,55 +20,55 @@ Housewarming
 
 Many succeeding days passed in like manner; except that there were
 numerous visits received and paid, and that Mrs Skewton held little
-levees in her own apartments, at which Major Bagstock was a frequent
+levees in her own apartments, at which [[Major Bagstock]] was a frequent
 attendant, and that Florence encountered no second look from her
 father, although she saw him every day. Nor had she much communication
 in words with her new Mama, who was imperious and proud to all the
-house but her—Florence could not but observe that—and who, although she
-always sent for her or went to her when she came home from visiting,
-and would always go into her room at night, before retiring to rest,
+[[house]] but her—Florence could not but observe that—and who, although she
+always sent for her or went to her when she came [[Home|home]] from visiting,
+and would always go into her room at [[Night|night]], before retiring to rest,
 however late the hour, and never lost an opportunity of being with her,
-was often her silent and thoughtful companion for a long time together.
+was often her silent and thoughtful companion for a long [[Time|time]] together.
 
-Florence, who had hoped for so much from this marriage, could not help
-sometimes comparing the bright house with the faded dreary place out of
+Florence, who had hoped for so much from this [[Marriage|marriage]], could not help
+sometimes comparing the bright [[house]] with the faded dreary place out of
 which it had arisen, and wondering when, in any shape, it would begin
-to be a home; for that it was no home then, for anyone, though
+to be a [[Home|home]]; for that it was no [[Home|home]] then, for anyone, though
 everything went on luxuriously and regularly, she had always a secret
-misgiving. Many an hour of sorrowful reflection by day and night, and
-many a tear of blighted hope, Florence bestowed upon the assurance her
+misgiving. Many an hour of sorrowful reflection by day and [[Night|night]], and
+many a tear of blighted [[Hope|hope]], Florence bestowed upon the assurance her
 new Mama had given her so strongly, that there was no one on the earth
 more powerless than herself to teach her how to win her father’s heart.
 And soon Florence began to think—resolved to think would be the truer
-phrase—that as no one knew so well, how hopeless of being subdued or
+phrase—that as no one knew so [[Well|well]], how hopeless of being subdued or
 changed her father’s coldness to her was, so she had given her this
 warning, and forbidden the subject in very compassion. Unselfish here,
-as in her every act and fancy, Florence preferred to bear the pain of
+as in her every act and fancy, Florence preferred to bear the [[Pain|pain]] of
 this new wound, rather than encourage any faint foreshadowings of the
-truth as it concerned her father; tender of him, even in her wandering
-thoughts. As for his home, she hoped it would become a better one, when
+[[Truth|truth]] as it concerned her father; tender of him, even in her wandering
+thoughts. As for his [[Home|home]], she hoped it would become a better one, when
 its state of novelty and transition should be over; and for herself,
 thought little and lamented less.
 
-If none of the new family were particularly at home in private, it was
-resolved that Mrs Dombey at least should be at home in public, without
+If none of the new family were particularly at [[Home|home]] in private, it was
+resolved that Mrs Dombey at least should be at [[Home|home]] in public, without
 delay. A series of entertainments in celebration of the late nuptials,
 and in cultivation of society, were arranged, chiefly by Mr Dombey and
 Mrs Skewton; and it was settled that the festive proceedings should
-commence by Mrs Dombey’s being at home upon a certain evening, and by
-Mr and Mrs Dombey’s requesting the honour of the company of a great
+commence by Mrs Dombey’s being at [[Home|home]] upon a certain evening, and by
+Mr and Mrs Dombey’s requesting the [[Honour|honour]] of the company of a great
 many incongruous people to dinner on the same day.
 
 Accordingly, Mr Dombey produced a list of sundry eastern magnates who
 were to be bidden to this feast on his behalf; to which Mrs Skewton,
-acting for her dearest child, who was haughtily careless on the
+acting for her dearest [[Child|child]], who was haughtily careless on the
 subject, subjoined a western list, comprising Cousin Feenix, not yet
 returned to Baden-Baden, greatly to the detriment of his personal
 estate; and a variety of moths of various degrees and ages, who had, at
 various times, fluttered round the light of her fair daughter, or
 herself, without any lasting injury to their wings. Florence was
 enrolled as a member of the dinner-party, by Edith’s command—elicited
-by a moment’s doubt and hesitation on the part of Mrs Skewton; and
+by a moment’s [[Doubt|doubt]] and hesitation on the part of Mrs Skewton; and
 Florence, with a wondering heart, and with a quick instinctive sense of
 everything that grated on her father in the least, took her silent
 share in the proceedings of the day.
@@ -79,17 +79,17 @@ the hour appointed for dinner; punctual to which, an East India
 Director, of immense wealth, in a waistcoat apparently constructed in
 serviceable deal by some plain carpenter, but really engendered in the
 tailor’s art, and composed of the material called nankeen, arrived and
-was received by Mr Dombey alone. The next stage of the proceedings was
+was received by Mr Dombey [[Alone|alone]]. The next stage of the proceedings was
 Mr Dombey’s sending his compliments to Mrs Dombey, with a correct
-statement of the time; and the next, the East India Director’s falling
+statement of the [[Time|time]]; and the next, the East India Director’s falling
 prostrate, in a conversational point of view, and as Mr Dombey was not
-the man to pick him up, staring at the fire until rescue appeared in
+the man to pick him up, staring at the [[Fire|fire]] until rescue appeared in
 the shape of Mrs Skewton; whom the director, as a pleasant start in
 life for the evening, mistook for Mrs Dombey, and greeted with
 enthusiasm.
 
 The next arrival was a Bank Director, reputed to be able to buy up
-anything—human Nature generally, if he should take it in his head to
+anything—human [[Nature]] generally, if he should take it in his head to
 influence the money market in that direction—but who was a wonderfully
 modest-spoken man, almost boastfully so, and mentioned his “little
 place” at Kingston-upon-Thames, and its just being barely equal to
@@ -97,7 +97,7 @@ giving Dombey a bed and a chop, if he would come and visit it. Ladies,
 he said, it was not for a man who lived in his quiet way to take upon
 himself to invite—but if Mrs Skewton and her daughter, Mrs Dombey,
 should ever find themselves in that direction, and would do him the
-honour to look at a little bit of a shrubbery they would find there,
+[[Honour|honour]] to look at a little bit of a shrubbery they would find there,
 and a poor little flower-bed or so, and a humble apology for a pinery,
 and two or three little attempts of that sort without any pretension,
 they would distinguish him very much. Carrying out his character, this
@@ -113,24 +113,24 @@ Now Mrs Dombey appeared, beautiful and proud, and as disdainful and
 defiant of them all as if the bridal wreath upon her head had been a
 garland of steel spikes put on to force concession from her which she
 would die sooner than yield. With her was Florence. When they entered
-together, the shadow of the night of the return again darkened Mr
+together, the [[Shadow|shadow]] of the [[Night|night]] of the return again darkened Mr
 Dombey’s face. But unobserved; for Florence did not venture to raise
 her eyes to his, and Edith’s indifference was too supreme to take the
 least heed of him.
 
 The arrivals quickly became numerous. More directors, chairmen of
 public companies, elderly ladies carrying burdens on their heads for
-full dress, Cousin Feenix, Major Bagstock, friends of Mrs Skewton, with
+full dress, Cousin Feenix, [[Major Bagstock]], friends of Mrs Skewton, with
 the same bright bloom on their complexion, and very precious necklaces
 on very withered necks. Among these, a young lady of sixty-five,
 remarkably coolly dressed as to her back and shoulders, who spoke with
-an engaging lisp, and whose eyelids wouldn’t keep up well, without a
+an engaging lisp, and whose eyelids wouldn’t keep up [[Well|well]], without a
 great deal of trouble on her part, and whose manners had that
 indefinable charm which so frequently attaches to the giddiness of
 youth. As the greater part of Mr Dombey’s list were disposed to be
 taciturn, and the greater part of Mrs Dombey’s list were disposed to be
 talkative, and there was no sympathy between them, Mrs Dombey’s list,
-by magnetic agreement, entered into a bond of union against Mr Dombey’s
+by magnetic agreement, entered into a bond of [[Union|union]] against Mr Dombey’s
 list, who, wandering about the rooms in a desolate manner, or seeking
 refuge in corners, entangled themselves with company coming in, and
 became barricaded behind sofas, and had doors opened smartly from
@@ -143,7 +143,7 @@ looked so unaccommodating; Cousin Feenix took down Mrs Dombey; Major
 Bagstock took down Mrs Skewton; the young thing with the shoulders was
 bestowed, as an extinguisher, upon the East India Director; and the
 remaining ladies were left on view in the drawing-room by the remaining
-gentlemen, until a forlorn hope volunteered to conduct them downstairs,
+gentlemen, until a forlorn [[Hope|hope]] volunteered to conduct them downstairs,
 and those brave spirits with their captives blocked up the dining-room
 door, shutting out seven mild men in the stony-hearted hall. When all
 the rest were got in and were seated, one of these mild men still
@@ -159,11 +159,11 @@ forks, and plates, might have been taken for a grown-up exposition of
 Tom Tiddler’s ground, where children pick up gold and silver. Mr
 Dombey, as Tiddler, looked his character to admiration; and the long
 plateau of precious metal frosted, separating him from Mrs Dombey,
-whereon frosted Cupids offered scentless flowers to each of them, was
+whereon frosted Cupids offered scentless [[Flowers|flowers]] to each of them, was
 allegorical to see.
 
 Cousin Feenix was in great force, and looked astonishingly young. But
-he was sometimes thoughtless in his good humour—his memory occasionally
+he was sometimes thoughtless in his good [[Humour|humour]]—his [[Memory|memory]] occasionally
 wandering like his legs—and on this occasion caused the company to
 shudder. It happened thus. The young lady with the back, who regarded
 Cousin Feenix with sentiments of tenderness, had entrapped the East
@@ -173,7 +173,7 @@ shaded on the other side by a gloomy black velvet hat surmounting a
 bony and speechless female with a fan, yielded to a depression of
 spirits and withdrew into himself. Cousin Feenix and the young lady
 were very lively and humorous, and the young lady laughed so much at
-something Cousin Feenix related to her, that Major Bagstock begged
+something Cousin Feenix related to her, that [[Major Bagstock]] begged
 leave to inquire on behalf of Mrs Skewton (they were sitting opposite,
 a little lower down), whether that might not be considered public
 property.
@@ -184,7 +184,7 @@ anecdote of Jack Adams. I dare say my friend Dombey;” for the general
 attention was concentrated on Cousin Feenix; “may remember Jack Adams,
 Jack Adams, not Joe; that was his brother. Jack—little Jack—man with a
 cast in his eye, and slight impediment in his speech—man who sat for
-somebody’s borough. We used to call him in my parliamentary time W. P.
+somebody’s borough. We used to call him in my parliamentary [[Time|time]] W. P.
 Adams, in consequence of his being Warming Pan for a young fellow who
 was in his minority. Perhaps my friend Dombey may have known the man?”
 
@@ -206,10 +206,10 @@ took wine.
 “Devilish good fellow, Jack!” said Cousin Feenix, again bending
 forward, and smiling.
 
-“Excellent,” returned the mild man, becoming bold on his success. “One
+“Excellent,” returned the mild man, becoming bold on his [[success]]. “One
 of the best fellows I ever knew.”
 
-“No doubt you have heard the story?” said Cousin Feenix.
+“No [[Doubt|doubt]] you have heard the story?” said Cousin Feenix.
 
 “I shall know,” replied the bold mild man, “when I have heard your
 Ludship tell it.” With that, he leaned back in his chair and smiled at
@@ -218,23 +218,23 @@ the ceiling, as knowing it by heart, and being already tickled.
 “In point of fact, it’s nothing of a story in itself,” said Cousin
 Feenix, addressing the table with a smile, and a gay shake of his head,
 “and not worth a word of preface. But it’s illustrative of the neatness
-of Jack’s humour. The fact is, that Jack was invited down to a
-marriage—which I think took place in Berkshire?”
+of Jack’s [[Humour|humour]]. The fact is, that Jack was invited down to a
+[[Marriage|marriage]]—which I think took place in Berkshire?”
 
 “Shropshire,” said the bold mild man, finding himself appealed to.
 
-“Was it? Well! In point of fact it might have been in any shire,” said
-Cousin Feenix. “So my friend being invited down to this marriage in
+“Was it? [[Well]]! In point of fact it might have been in any shire,” said
+Cousin Feenix. “So my friend being invited down to this [[Marriage|marriage]] in
 Anyshire,” with a pleasant sense of the readiness of this joke, “goes.
-Just as some of us, having had the honour of being invited to the
-marriage of my lovely and accomplished relative with my friend Dombey,
+Just as some of us, having had the [[Honour|honour]] of being invited to the
+[[Marriage|marriage]] of my lovely and accomplished relative with my friend Dombey,
 didn’t require to be asked twice, and were devilish glad to be present
-on so interesting an occasion.—Goes—Jack goes. Now, this marriage was,
-in point of fact, the marriage of an uncommonly fine girl with a man
+on so interesting an occasion.—Goes—Jack goes. Now, this [[Marriage|marriage]] was,
+in point of fact, the [[Marriage|marriage]] of an uncommonly fine girl with a man
 for whom she didn’t care a button, but whom she accepted on account of
 his property, which was immense. When Jack returned to town, after the
-nuptials, a man he knew, meeting him in the lobby of the House of
-Commons, says, ‘Well, Jack, how are the ill-matched couple?’
+nuptials, a man he knew, meeting him in the lobby of the [[house|House]] of
+Commons, says, ‘[[Well]], Jack, how are the ill-matched couple?’
 ‘Ill-matched,’ says Jack ‘Not at all. It’s a perfectly and equal
 transaction. She is regularly bought, and you may take your oath he is
 as regularly sold!’”
@@ -243,32 +243,32 @@ In his full enjoyment of this culminating point of his story, the
 shudder, which had gone all round the table like an electric spark,
 struck Cousin Feenix, and he stopped. Not a smile occasioned by the
 only general topic of conversation broached that day, appeared on any
-face. A profound silence ensued; and the wretched mild man, who had
-been as innocent of any real foreknowledge of the story as the child
-unborn, had the exquisite misery of reading in every eye that he was
+face. A profound [[Silence|silence]] ensued; and the wretched mild man, who had
+been as [[Innocent|innocent]] of any real foreknowledge of the story as the [[Child|child]]
+[[unborn]], had the exquisite misery of reading in every eye that he was
 regarded as the prime mover of the mischief.
 
 Mr Dombey’s face was not a changeful one, and being cast in its mould
 of state that day, showed little other apprehension of the story, if
 any, than that which he expressed when he said solemnly, amidst the
-silence, that it was “Very good.” There was a rapid glance from Edith
+[[Silence|silence]], that it was “Very good.” There was a rapid glance from Edith
 towards Florence, but otherwise she remained, externally, impassive and
 unconscious.
 
 Through the various stages of rich meats and wines, continual gold and
-silver, dainties of earth, air, fire, and water, heaped-up fruits, and
+silver, dainties of earth, air, [[Fire|fire]], and [[Water|water]], heaped-up fruits, and
 that unnecessary article in Mr Dombey’s banquets—ice—the dinner slowly
 made its way: the later stages being achieved to the sonorous music of
-incessant double knocks, announcing the arrival of visitors, whose
+incessant [[Double|double]] knocks, announcing the arrival of visitors, whose
 portion of the feast was limited to the smell thereof. When Mrs Dombey
-rose, it was a sight to see her lord, with stiff throat and erect head,
+[[Rose|rose]], it was a sight to see her lord, with stiff throat and erect head,
 hold the door open for the withdrawal of the ladies; and to see how she
 swept past him with his daughter on her arm.
 
-Mr Dombey was a grave sight, behind the decanters, in a state of
+Mr Dombey was a [[Grave|grave]] sight, behind the decanters, in a state of
 dignity; and the East India Director was a forlorn sight near the
-unoccupied end of the table, in a state of solitude; and the Major was
-a military sight, relating stories of the Duke of York to six of the
+unoccupied end of the table, in a state of [[Solitude|solitude]]; and the Major was
+a military sight, relating stories of the [[Duke of York]] to six of the
 seven mild men (the ambitious one was utterly quenched); and the Bank
 Director was a lowly sight, making a plan of his little attempt at a
 pinery, with dessert-knives, for a group of admirers; and Cousin Feenix
@@ -285,17 +285,17 @@ native impossibility of amalgamation with Mrs Dombey’s list, and no one
 could have doubted which was which. The single exception to this rule
 perhaps was Mr Carker, who now smiled among the company, and who, as he
 stood in the circle that was gathered about Mrs Dombey—watchful of her,
-of them, his chief, Cleopatra and the Major, Florence, and everything
+of them, his chief, [[Cleopatra]] and the Major, Florence, and everything
 around—appeared at ease with both divisions of guests, and not marked
 as exclusively belonging to either.
 
 Florence had a dread of him, which made his presence in the room a
-nightmare to her. She could not avoid the recollection of it, for her
+[[nightmare]] to her. She could not avoid the recollection of it, for her
 eyes were drawn towards him every now and then, by an attraction of
 dislike and distrust that she could not resist. Yet her thoughts were
 busy with other things; for as she sat apart—not unadmired or unsought,
 but in the gentleness of her quiet spirit—she felt how little part her
-father had in what was going on, and saw, with pain, how ill at ease he
+father had in what was going on, and saw, with [[Pain|pain]], how ill at ease he
 seemed to be, and how little regarded he was as he lingered about near
 the door, for those visitors whom he wished to distinguish with
 particular attention, and took them up to introduce them to his wife,
@@ -316,16 +316,16 @@ him, and her grateful affection for Edith; she scarcely dared to raise
 her eyes towards either. Anxious and unhappy for them both, the thought
 stole on her through the crowd, that it might have been better for them
 if this noise of tongues and tread of feet had never come there,—if the
-old dulness and decay had never been replaced by novelty and
-splendour,—if the neglected child had found no friend in Edith, but had
+old dulness and [[Decay|decay]] had never been replaced by novelty and
+splendour,—if the neglected [[Child|child]] had found no friend in Edith, but had
 lived her solitary life, unpitied and forgotten.
 
 Mrs Chick had some such thoughts too, but they were not so quietly
 developed in her mind. This good matron had been outraged in the first
 instance by not receiving an invitation to dinner. That blow partially
 recovered, she had gone to a vast expense to make such a figure before
-Mrs Dombey at home, as should dazzle the senses of that lady, and heap
-mortification, mountains high, on the head of Mrs Skewton.
+Mrs Dombey at [[Home|home]], as should dazzle the senses of that lady, and heap
+mortification, [[Mountains|mountains]] high, on the head of Mrs Skewton.
 
 “But I am made,” said Mrs Chick to Mr Chick, “of no more account than
 Florence! Who takes the smallest notice of me? No one!”
@@ -343,10 +343,10 @@ with flashing eyes.
 
 Mr Chick whistled.
 
-“Unless you are a monster, which I sometimes think you are,” said Mrs
+“Unless you are a [[Monster|monster]], which I sometimes think you are,” said Mrs
 Chick with candour, “don’t sit there humming tunes. How anyone with the
 most distant feelings of a man, can see that mother-in-law of Paul’s,
-dressed as she is, going on like that, with Major Bagstock, for whom,
+dressed as she is, going on like that, with [[Major Bagstock]], for whom,
 among other precious things, we are indebted to your Lucretia Tox.”
 
 “_My_ Lucretia Tox, my dear!” said Mr Chick, astounded.
@@ -354,14 +354,14 @@ among other precious things, we are indebted to your Lucretia Tox.”
 “Yes,” retorted Mrs Chick, with great severity, “your Lucretia Tox—I
 say how anybody can see that mother-in-law of Paul’s, and that haughty
 wife of Paul’s, and these indecent old frights with their backs and
-shoulders, and in short this at home generally, and hum—” on which word
+shoulders, and in short this at [[Home|home]] generally, and hum—” on which word
 Mrs Chick laid a scornful emphasis that made Mr Chick start, “is, I
 thank Heaven, a mystery to me!”
 
 Mr Chick screwed his mouth into a form irreconcilable with humming or
 whistling, and looked very contemplative.
 
-“But I hope I know what is due to myself,” said Mrs Chick, swelling
+“But I [[Hope|hope]] I know what is due to myself,” said Mrs Chick, swelling
 with indignation, “though Paul has forgotten what is due to me. I am
 not going to sit here, a member of this family, to be taken no notice
 of. I am not the dirt under Mrs Dombey’s feet, yet—not quite yet,” said
@@ -370,19 +370,19 @@ to-morrow. “And I shall go. I will not say (whatever I may think) that
 this affair has been got up solely to degrade and insult me. I shall
 merely go. I shall not be missed!”
 
-Mrs Chick rose erect with these words, and took the arm of Mr Chick,
+Mrs Chick [[Rose|rose]] erect with these words, and took the arm of Mr Chick,
 who escorted her from the room, after half an hour’s shady sojourn
 there. And it is due to her penetration to observe that she certainly
 was not missed at all.
 
 But she was not the only indignant guest; for Mr Dombey’s list (still
-constantly in difficulties) were, as a body, indignant with Mrs
+constantly in difficulties) were, as a [[Body|body]], indignant with Mrs
 Dombey’s list, for looking at them through eyeglasses, and audibly
 wondering who all those people were; while Mrs Dombey’s list complained
 of weariness, and the young thing with the shoulders, deprived of the
 attentions of that gay youth Cousin Feenix (who went away from the
 dinner-table), confidentially alleged to thirty or forty friends that
-she was bored to death. All the old ladies with the burdens on their
+she was bored to [[Death|death]]. All the old ladies with the burdens on their
 heads, had greater or less cause of complaint against Mr Dombey; and
 the Directors and Chairmen coincided in thinking that if Dombey must
 marry, he had better have married somebody nearer his own age, not
@@ -392,12 +392,12 @@ he’d live to repent it. Hardly anybody there, except the mild men,
 stayed, or went away, without considering himself or herself neglected
 and aggrieved by Mr Dombey or Mrs Dombey; and the speechless female in
 the black velvet hat was found to have been stricken mute, because the
-lady in the crimson velvet had been handed down before her. The nature
+lady in the crimson velvet had been handed down before her. The [[Nature|nature]]
 even of the mild men got corrupted, either from their curdling it with
 too much lemonade, or from the general inoculation that prevailed; and
 they made sarcastic jokes to one another, and whispered disparagement
 on stairs and in bye-places. The general dissatisfaction and discomfort
-so diffused itself, that the assembled footmen in the hall were as well
+so diffused itself, that the assembled footmen in the hall were as [[Well|well]]
 acquainted with it as the company above. Nay, the very linkmen outside
 got hold of it, and compared the party to a funeral out of mourning,
 with none of the company remembered in the will.
@@ -406,7 +406,7 @@ At last, the guests were all gone, and the linkmen too; and the street,
 crowded so long with carriages, was clear; and the dying lights showed
 no one in the rooms, but Mr Dombey and Mr Carker, who were talking
 together apart, and Mrs Dombey and her mother: the former seated on an
-ottoman; the latter reclining in the Cleopatra attitude, awaiting the
+ottoman; the latter reclining in the [[Cleopatra]] attitude, awaiting the
 arrival of her maid. Mr Dombey having finished his communication to
 Carker, the latter advanced obsequiously to take leave.
 
@@ -436,7 +436,7 @@ him steadily.
 
 “No! Carker! I beg that you do not. I insist that you do not,” cried Mr
 Dombey, stopping that noiseless gentleman in his withdrawal. “Mr
-Carker, Madam, as you know, possesses my confidence. He is as well
+Carker, Madam, as you know, possesses my confidence. He is as [[Well|well]]
 acquainted as myself with the subject on which I speak. I beg to tell
 you, for your information, Mrs Dombey, that I consider these wealthy
 and important persons confer a distinction upon me:” and Mr Dombey drew
@@ -455,14 +455,14 @@ here.
 “My sweetest Edith,” she said, “and my dearest Dombey; our excellent
 friend Mr Carker, for so I am sure I ought to mention him—”
 
-Mr Carker murmured, “Too much honour.”
+Mr Carker murmured, “Too much [[Honour|honour]].”
 
 “—has used the very words that were in my mind, and that I have been
 dying, these ages, for an opportunity of introducing. Slight and
 unimportant! My sweetest Edith, and my dearest Dombey, do we not know
-that any difference between you two—No, Flowers; not now.”
+that any difference between you two—No, [[Flowers]]; not now.”
 
-Flowers was the maid, who, finding gentlemen present, retreated with
+[[Flowers]] was the maid, who, finding gentlemen present, retreated with
 precipitation.
 
 “That any difference between you two,” resumed Mrs Skewton, “with the
@@ -470,37 +470,37 @@ Heart you possess in common, and the excessively charming bond of
 feeling that there is between you, must be slight and unimportant? What
 words could better define the fact? None. Therefore I am glad to take
 this slight occasion—this trifling occasion, that is so replete with
-Nature, and your individual characters, and all that—so truly
-calculated to bring the tears into a parent’s eyes—to say that I attach
+[[Nature]], and your individual characters, and all that—so truly
+calculated to bring the [[Tears|tears]] into a parent’s eyes—to say that I attach
 no importance to them in the least, except as developing these minor
-elements of Soul; and that, unlike most Mamas-in-law (that odious
+elements of [[Soul]]; and that, unlike most Mamas-in-law (that odious
 phrase, dear Dombey!) as they have been represented to me to exist in
-this I fear too artificial world, I never shall attempt to interpose
-between you, at such a time, and never can much regret, after all, such
+this I [[Fear|fear]] too artificial world, I never shall attempt to interpose
+between you, at such a [[Time|time]], and never can much regret, after all, such
 little flashes of the torch of What’s-his-name—not Cupid, but the other
 delightful creature.”
 
 There was a sharpness in the good mother’s glance at both her children
 as she spoke, that may have been expressive of a direct and
-well-considered purpose hidden between these rambling words. That
+[[Well|well]]-considered purpose hidden between these rambling words. That
 purpose, providently to detach herself in the beginning from all the
 clankings of their chain that were to come, and to shelter herself with
-the fiction of her innocent belief in their mutual affection, and their
+the fiction of her [[Innocent|innocent]] belief in their mutual affection, and their
 adaptation to each other.
 
 “I have pointed out to Mrs Dombey,” said Mr Dombey, in his most stately
 manner, “that in her conduct thus early in our married life, to which I
 object, and which, I request, may be corrected. Carker,” with a nod of
-dismissal, “good-night to you!”
+dismissal, “good-[[Night|night]] to you!”
 
 Mr Carker bowed to the imperious form of the Bride, whose sparkling eye
-was fixed upon her husband; and stopping at Cleopatra’s couch on his
+was fixed upon her husband; and stopping at [[Cleopatra]]’s couch on his
 way out, raised to his lips the hand she graciously extended to him, in
 lowly and admiring homage.
 
 If his handsome wife had reproached him, or even changed countenance,
-or broken the silence in which she remained, by one word, now that they
-were alone (for Cleopatra made off with all speed), Mr Dombey would
+or broken the [[Silence|silence]] in which she remained, by one word, now that they
+were [[Alone|alone]] (for [[Cleopatra]] made off with all [[Speed|speed]]), Mr Dombey would
 have been equal to some assertion of his case against her. But the
 intense, unutterable, withering scorn, with which, after looking upon
 him, she dropped her eyes, as if he were too worthless and indifferent
@@ -508,15 +508,15 @@ to her to be challenged with a syllable—the ineffable disdain and
 haughtiness in which she sat before him—the cold inflexible resolve
 with which her every feature seemed to bear him down, and put him
 by—these, he had no resource against; and he left her, with her whole
-overbearing beauty concentrated on despising him.
+overbearing [[Beauty|beauty]] concentrated on despising him.
 
-Was he coward enough to watch her, an hour afterwards, on the old well
+Was he coward enough to watch her, an hour afterwards, on the old [[Well|well]]
 staircase, where he had once seen Florence in the moonlight, toiling up
 with Paul? Or was he in the dark by accident, when, looking up, he saw
 her coming, with a light, from the room where Florence lay, and marked
 again the face so changed, which he could not subdue?
 
 But it could never alter as his own did. It never, in its uttermost
-pride and passion, knew the shadow that had fallen on his, in the dark
-corner, on the night of the return; and often since; and which deepened
+[[Pride|pride]] and passion, knew the [[Shadow|shadow]] that had fallen on his, in the dark
+corner, on the [[Night|night]] of the return; and often since; and which deepened
 on it now, as he looked up.

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 44"
+title: "[[Nicholas Nickleby]] — Chapter 44"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER 44
 
-Mr. Ralph Nickleby cuts an old Acquaintance. It would also appear from
+Mr. [[Ralph Nickleby]] cuts an old Acquaintance. It would also appear from
 the Contents hereof, that a Joke, even between Husband and Wife, may be
 sometimes carried too far
 
@@ -33,32 +33,32 @@ dirtiest and narrowest ways, will gravely jot down in diaries the
 events of every day, and keep a regular debtor and creditor account with
 Heaven, which shall always show a floating balance in their own favour.
 Whether this is a gratuitous (the only gratuitous) part of the falsehood
-and trickery of such men’s lives, or whether they really hope to cheat
+and trickery of such men’s lives, or whether they really [[Hope|hope]] to cheat
 Heaven itself, and lay up treasure in the next world by the same process
 which has enabled them to lay up treasure in this--not to question
 how it is, so it is. And, doubtless, such book-keeping (like certain
 autobiographies which have enlightened the world) cannot fail to prove
-serviceable, in the one respect of sparing the recording Angel some time
+serviceable, in the one respect of sparing the recording Angel some [[Time|time]]
 and labour.
 
-Ralph Nickleby was not a man of this stamp. Stern, unyielding, dogged,
+[[Ralph Nickleby]] was not a man of this stamp. Stern, unyielding, dogged,
 and impenetrable, Ralph cared for nothing in life, or beyond it, save
 the gratification of two passions, avarice, the first and predominant
-appetite of his nature, and hatred, the second. Affecting to consider
+appetite of his [[Nature|nature]], and hatred, the second. Affecting to consider
 himself but a type of all humanity, he was at little pains to conceal
 his true character from the world in general, and in his own heart he
 exulted over and cherished every bad design as it had birth. The only
-scriptural admonition that Ralph Nickleby heeded, in the letter, was
-‘know thyself.’ He knew himself well, and choosing to imagine that all
+scriptural admonition that [[Ralph Nickleby]] heeded, in the letter, was
+‘know thyself.’ He knew himself [[Well|well]], and choosing to imagine that all
 mankind were cast in the same mould, hated them; for, though no man
-hates himself, the coldest among us having too much self-love for that,
+hates himself, the coldest among us having too much [[Self|self]]-[[Love|love]] for that,
 yet most men unconsciously judge the world from themselves, and it will
 be very generally found that those who sneer habitually at human
-nature, and affect to despise it, are among its worst and least pleasant
+[[Nature|nature]], and affect to despise it, are among its worst and least pleasant
 samples.
 
 But the present business of these adventures is with Ralph himself, who
-stood regarding Newman Noggs with a heavy frown, while that worthy took
+stood regarding [[Newman Noggs]] with a heavy frown, while that worthy took
 off his fingerless gloves, and spreading them carefully on the palm of
 his left hand, and flattening them with his right to take the creases
 out, proceeded to roll them up with an absent air as if he were utterly
@@ -73,8 +73,8 @@ again.’
 
 ‘I don’t know,’ said Newman, ‘but he’s gone.’
 
-The repetition of the word ‘gone’ seemed to afford Newman Noggs
-inexpressible delight, in proportion as it annoyed Ralph Nickleby. He
+The repetition of the word ‘gone’ seemed to afford [[Newman Noggs]]
+inexpressible delight, in proportion as it annoyed [[Ralph Nickleby]]. He
 uttered the word with a full round emphasis, dwelling upon it as long
 as he decently could, and when he could hold out no longer without
 attracting observation, stood gasping it to himself as if even that were
@@ -115,7 +115,7 @@ relaxed a little; and although there was still a deep frown upon the
 contracted brow, it was one of calculation, and not of disappointment.
 
 ‘This Hawk will come back, however,’ muttered Ralph; ‘and if I know the
-man (and I should by this time) his wrath will have lost nothing of its
+man (and I should by this [[Time|time]]) his wrath will have lost nothing of its
 violence in the meanwhile. Obliged to live in retirement--the
 monotony of a sick-room to a man of his habits--no life--no drink--no
 play--nothing that he likes and lives by. He is not likely to forget
@@ -123,14 +123,14 @@ his obligations to the cause of all this. Few men would; but he of all
 others? No, no!’
 
 He smiled and shook his head, and resting his chin upon his hand, fell a
-musing, and smiled again. After a time he rose and rang the bell.
+musing, and smiled again. After a [[Time|time]] he [[Rose|rose]] and rang the bell.
 
 ‘That Mr. Squeers; has he been here?’ said Ralph.
 
-‘He was here last night. I left him here when I went home,’ returned
+‘He was here last [[Night|night]]. I left him here when I went [[Home|home]],’ returned
 Newman.
 
-‘I know that, fool, do I not?’ said Ralph, irascibly. ‘Has he been here
+‘I know that, [[Fool|fool]], do I not?’ said Ralph, irascibly. ‘Has he been here
 since? Was he here this morning?’
 
 ‘No,’ bawled Newman, in a very loud key.
@@ -178,7 +178,7 @@ humorous upon the topics of the day, and especially pleasant upon
 bankruptcies and pecuniary difficulties that made good for trade. In
 short, it would have been difficult to have recognised the same man
 under these various aspects, but for the bulky leather case full of
-bills and notes which he drew from his pocket at every house, and the
+bills and notes which he drew from his pocket at every [[house]], and the
 constant repetition of the same complaint, (varied only in tone and
 style of delivery,) that the world thought him rich, and that perhaps
 he might be if he had his own; but there was no getting money in when it
@@ -186,15 +186,15 @@ was once out, either principal or interest, and it was a hard matter to
 live; even to live from day to day.
 
 It was evening before a long round of such visits (interrupted only by
-a scanty dinner at an eating-house) terminated at Pimlico, and Ralph
-walked along St James’s Park, on his way home.
+a scanty dinner at an eating-[[house]]) terminated at Pimlico, and Ralph
+walked along St James’s Park, on his way [[Home|home]].
 
 There were some deep schemes in his head, as the puckered brow and
 firmly-set mouth would have abundantly testified, even if they had been
 unaccompanied by a complete indifference to, or unconsciousness of, the
 objects about him. So complete was his abstraction, however, that
 Ralph, usually as quick-sighted as any man, did not observe that he was
-followed by a shambling figure, which at one time stole behind him with
+followed by a shambling figure, which at one [[Time|time]] stole behind him with
 noiseless footsteps, at another crept a few paces before him, and at
 another glided along by his side; at all times regarding him with an eye
 so keen, and a look so eager and attentive, that it was more like the
@@ -202,18 +202,18 @@ expression of an intrusive face in some powerful picture or strongly
 marked dream, than the scrutiny even of a most interested and anxious
 observer.
 
-The sky had been lowering and dark for some time, and the commencement
-of a violent storm of rain drove Ralph for shelter to a tree. He was
+The sky had been lowering and dark for some [[Time|time]], and the commencement
+of a violent [[Storm|storm]] of rain drove Ralph for shelter to a tree. He was
 leaning against it with folded arms, still buried in thought, when,
 happening to raise his eyes, he suddenly met those of a man who,
 creeping round the trunk, peered into his face with a searching look.
 There was something in the usurer’s expression at the moment, which the
-man appeared to remember well, for it decided him; and stepping close up
+man appeared to remember [[Well|well]], for it decided him; and stepping close up
 to Ralph, he pronounced his name.
 
 Astonished for the moment, Ralph fell back a couple of paces and
 surveyed him from head to foot. A spare, dark, withered man, of about
-his own age, with a stooping body, and a very sinister face rendered
+his own age, with a stooping [[Body|body]], and a very sinister face rendered
 more ill-favoured by hollow and hungry cheeks, deeply sunburnt, and
 thick black eyebrows, blacker in contrast with the perfect whiteness of
 his hair; roughly clothed in shabby garments, of a strange and uncouth
@@ -242,7 +242,7 @@ eight years ago, I dare say?’ observed the other.
 ‘Quite enough,’ said Ralph, carelessly, and averting his face. ‘More
 than enough.’
 
-‘If I had remained in doubt about YOU, Mr. Nickleby,’ said the other,
+‘If I had remained in [[Doubt|doubt]] about YOU, Mr. Nickleby,’ said the other,
 ‘this reception, and YOUR manner, would have decided me very soon.’
 
 ‘Did you expect any other?’ asked Ralph, sharply.
@@ -263,7 +263,7 @@ ears, though your talking may have as much effect as if I did.’
 ‘I was once in your confidence--’ thus his companion began. Ralph looked
 round, and smiled involuntarily.
 
-‘Well,’ said the other, ‘as much in your confidence as you ever chose to
+‘[[Well]],’ said the other, ‘as much in your confidence as you ever chose to
 let anybody be.’
 
 ‘Ah!’ rejoined Ralph, folding his arms; ‘that’s another thing, quite
@@ -276,8 +276,8 @@ another thing.’
 ‘Of humanity,’ replied the other, sternly. ‘I am hungry and in want. If
 the change that you must see in me after so long an absence--must see,
 for I, upon whom it has come by slow and hard degrees, see it and know
-it well--will not move you to pity, let the knowledge that bread; not
-the daily bread of the Lord’s Prayer, which, as it is offered up in
+it [[Well|well]]--will not move you to pity, let the knowledge that bread; not
+the daily bread of the Lord’s [[Prayer]], which, as it is offered up in
 cities like this, is understood to include half the luxuries of the
 world for the rich, and just as much coarse food as will support life
 for the poor--not that, but bread, a crust of dry hard bread, is beyond
@@ -285,7 +285,7 @@ my reach today--let that have some weight with you, if nothing else
 has.’
 
 ‘If this is the usual form in which you beg, sir,’ said Ralph, ‘you have
-studied your part well; but if you will take advice from one who knows
+studied your part [[Well|well]]; but if you will take advice from one who knows
 something of the world and its ways, I should recommend a lower tone; a
 little lower tone, or you stand a fair chance of being starved in good
 earnest.’
@@ -295,7 +295,7 @@ hand, and inclining his head a little on one side and dropping his chin
 upon his breast, looked at him whom he addressed with a frowning, sullen
 face. The very picture of a man whom nothing could move or soften.
 
-‘Yesterday was my first day in London,’ said the old man, glancing at
+‘Yesterday was my first day in [[London]],’ said the old man, glancing at
 his travel-stained dress and worn shoes.
 
 ‘It would have been better for you, I think, if it had been your last
@@ -303,14 +303,14 @@ also,’ replied Ralph.
 
 ‘I have been seeking you these two days, where I thought you were most
 likely to be found,’ resumed the other more humbly, ‘and I met you here
-at last, when I had almost given up the hope of encountering you, Mr
+at last, when I had almost given up the [[Hope|hope]] of encountering you, Mr
 Nickleby.’
 
 He seemed to wait for some reply, but Ralph giving him none, he
 continued:
 
 ‘I am a most miserable and wretched outcast, nearly sixty years old, and
-as destitute and helpless as a child of six.’
+as destitute and helpless as a [[Child|child]] of six.’
 
 ‘I am sixty years old, too,’ replied Ralph, ‘and am neither destitute
 nor helpless. Work. Don’t make fine play-acting speeches about bread,
@@ -342,7 +342,7 @@ delicate, not too nice of hand or heart; but useful.’
 
 ‘Useful, indeed!’ said the man. ‘Come. You had pinched and ground me
 down for some years before that, but I had served you faithfully up to
-that time, in spite of all your dog’s usage. Had I?’
+that [[Time|time]], in spite of all your dog’s usage. Had I?’
 
 Ralph made no reply.
 
@@ -358,14 +358,14 @@ you owed me money, and do still,’ replied Ralph.
 
 ‘That’s not all,’ said the man, eagerly. ‘That’s not all. Mark that. I
 didn’t forget that old sore, trust me. Partly in remembrance of that,
-and partly in the hope of making money someday by the scheme, I took
+and partly in the [[Hope|hope]] of making money someday by the scheme, I took
 advantage of my position about you, and possessed myself of a hold upon
 you, which you would give half of all you have to know, and never can
-know but through me. I left you--long after that time, remember--and,
+know but through me. I left you--long after that [[Time|time]], remember--and,
 for some poor trickery that came within the law, but was nothing to what
 you money-makers daily practise just outside its bounds, was sent away
 a convict for seven years. I have returned what you see me. Now, Mr
-Nickleby,’ said the man, with a strange mixture of humility and sense of
+Nickleby,’ said the man, with a strange mixture of [[Humility|humility]] and sense of
 power, ‘what help and assistance will you give me; what bribe, to speak
 out plainly? My expectations are not monstrous, but I must live, and to
 live I must eat and drink. Money is on your side, and hunger and thirst
@@ -385,7 +385,7 @@ said Ralph.
 ‘Why then, harkye, Mr. Brooker,’ said Ralph, in his harshest accents,
 ‘and don’t expect to draw another speech from me. Harkye, sir. I know
 you of old for a ready scoundrel, but you never had a stout heart; and
-hard work, with (maybe) chains upon those legs of yours, and shorter
+hard work, with (maybe) [[Chains|chains]] upon those legs of yours, and shorter
 food than when I “pinched” and “ground” you, has blunted your wits, or
 you would not come with such a tale as this to me. You a hold upon me!
 Keep it, or publish it to the world, if you like.’
@@ -397,7 +397,7 @@ me, I promise you. To be plain with you, I am a careful man, and know my
 affairs thoroughly. I know the world, and the world knows me. Whatever
 you gleaned, or heard, or saw, when you served me, the world knows and
 magnifies already. You could tell it nothing that would surprise it,
-unless, indeed, it redounded to my credit or honour, and then it would
+unless, indeed, it redounded to my credit or [[Honour|honour]], and then it would
 scout you for a liar. And yet I don’t find business slack, or clients
 scrupulous. Quite the contrary. I am reviled or threatened every day by
 one man or another,’ said Ralph; ‘but things roll on just the same, and
@@ -444,18 +444,18 @@ particular one in which stood the residence of Madame Mantalini. The
 name of that lady no longer appeared on the flaming door-plate, that of
 Miss Knag being substituted in its stead; but the bonnets and dresses
 were still dimly visible in the first-floor windows by the decaying
-light of a summer’s evening, and excepting this ostensible alteration in
+light of a [[Summer|summer]]’s evening, and excepting this ostensible alteration in
 the proprietorship, the establishment wore its old appearance.
 
 ‘Humph!’ muttered Ralph, drawing his hand across his mouth with a
-connoisseur-like air, and surveying the house from top to bottom; ‘these
-people look pretty well. They can’t last long; but if I know of their
-going in good time, I am safe, and a fair profit too. I must keep them
+connoisseur-like air, and surveying the [[house]] from top to [[Bottom|bottom]]; ‘these
+people look pretty [[Well|well]]. They can’t last long; but if I know of their
+going in good [[Time|time]], I am safe, and a fair profit too. I must keep them
 closely in view; that’s all.’
 
 So, nodding his head very complacently, Ralph was leaving the spot, when
 his quick ear caught the sound of a confused noise and hubbub of voices,
-mingled with a great running up and down stairs, in the very house
+mingled with a great running up and down stairs, in the very [[house]]
 which had been the subject of his scrutiny; and while he was hesitating
 whether to knock at the door or listen at the keyhole a little longer, a
 female servant of Madame Mantalini’s (whom he had often seen) opened
@@ -465,7 +465,7 @@ air.
 ‘Hallo here. Stop!’ cried Ralph. ‘What’s the matter? Here am I. Didn’t
 you hear me knock?’
 
-‘Oh! Mr. Nickleby, sir,’ said the girl. ‘Go up, for the love of Gracious.
+‘Oh! Mr. Nickleby, sir,’ said the girl. ‘Go up, for the [[Love|love]] of Gracious.
 Master’s been and done it again.’
 
 ‘Done what?’ said Ralph, tartly; ‘what d’ye mean?’
@@ -478,7 +478,7 @@ along.’
 of the establishment. Come here; do you hear me, girl?’
 
 Without any further expostulation, he led or rather pulled the
-frightened handmaid into the house, and shut the door; then bidding her
+frightened handmaid into the [[house]], and shut the door; then bidding her
 walk upstairs before him, followed without more ceremony.
 
 Guided by the noise of a great many voices all talking together, and
@@ -489,8 +489,8 @@ himself.
 
 There were all the young-lady workers, some with bonnets and some
 without, in various attitudes expressive of alarm and consternation;
-some gathered round Madame Mantalini, who was in tears upon one chair;
-and others round Miss Knag, who was in opposition tears upon another;
+some gathered round Madame Mantalini, who was in [[Tears|tears]] upon one chair;
+and others round Miss Knag, who was in opposition [[Tears|tears]] upon another;
 and others round Mr. Mantalini, who was perhaps the most striking figure
 in the whole group, for Mr. Mantalini’s legs were extended at full length
 upon the floor, and his head and shoulders were supported by a very
@@ -500,7 +500,7 @@ comparatively straight, and his whiskers and moustache were limp, and
 his teeth were clenched, and he had a little bottle in his right hand,
 and a little tea-spoon in his left; and his hands, arms, legs, and
 shoulders, were all stiff and powerless. And yet Madame Mantalini was
-not weeping upon the body, but was scolding violently upon her chair;
+not weeping upon the [[Body|body]], but was scolding violently upon her chair;
 and all this amidst a clamour of tongues perfectly deafening, and which
 really appeared to have driven the unfortunate footman to the utmost
 verge of distraction.
@@ -513,7 +513,7 @@ himself’--‘He hasn’t’--‘Send for a doctor’--‘Don’t’--‘He’s
 isn’t, he’s only pretending’--with various other cries, poured forth
 with bewildering volubility, until Madame Mantalini was seen to address
 herself to Ralph, when female curiosity to know what she would say,
-prevailed, and, as if by general consent, a dead silence, unbroken by a
+prevailed, and, as if by general consent, a dead [[Silence|silence]], unbroken by a
 single whisper, instantaneously succeeded.
 
 ‘Mr. Nickleby,’ said Madame Mantalini; ‘by what chance you came here, I
@@ -529,9 +529,9 @@ something rather clever than otherwise.
 
 ‘I will, however,’ continued Madame Mantalini, drying her eyes, and
 speaking with great indignation, ‘say before you, and before everybody
-here, for the first time, and once for all, that I never will supply
+here, for the first [[Time|time]], and once for all, that I never will supply
 that man’s extravagances and viciousness again. I have been a dupe and a
-fool to him long enough. In future, he shall support himself if he
+[[Fool|fool]] to him long enough. In future, he shall support himself if he
 can, and then he may spend what money he pleases, upon whom and how he
 pleases; but it shall not be mine, and therefore you had better pause
 before you trust him further.’
@@ -550,7 +550,7 @@ once interfered by word or deed to save his life.
 
 ‘And I insist on being separated and left to myself,’ said Madame
 Mantalini, sobbing. ‘If he dares to refuse me a separation, I’ll have
-one in law--I can--and I hope this will be a warning to all girls who
+one in law--I can--and I [[Hope|hope]] this will be a warning to all girls who
 have seen this disgraceful exhibition.’
 
 Miss Knag, who was unquestionably the oldest girl in company, said with
@@ -564,14 +564,14 @@ voice. ‘You know you are not in earnest.’
 ‘I AM in earnest,’ replied Madame Mantalini, aloud, and retreating
 towards Miss Knag.
 
-‘Well, but consider,’ reasoned Ralph, who had a great interest in the
-matter. ‘It would be well to reflect. A married woman has no property.’
+‘[[Well]], but consider,’ reasoned Ralph, who had a great interest in the
+matter. ‘It would be [[Well|well]] to reflect. A married woman has no property.’
 
-‘Not a solitary single individual dem, my soul,’ and Mr. Mantalini,
+‘Not a solitary single individual dem, my [[Soul|soul]],’ and Mr. Mantalini,
 raising himself upon his elbow.
 
 ‘I am quite aware of that,’ retorted Madame Mantalini, tossing her head;
-‘and I have none. The business, the stock, this house, and everything in
+‘and I have none. The business, the stock, this [[house]], and everything in
 it, all belong to Miss Knag.’
 
 ‘That’s quite true, Madame Mantalini,’ said Miss Knag, with whom her
@@ -595,9 +595,9 @@ To do the excellent Miss Knag justice, she had been mainly instrumental
 in bringing about this altered state of things, for, finding by daily
 experience, that there was no chance of the business thriving, or even
 continuing to exist, while Mr. Mantalini had any hand in the expenditure,
-and having now a considerable interest in its well-doing, she had
+and having now a considerable interest in its [[Well|well]]-doing, she had
 sedulously applied herself to the investigation of some little matters
-connected with that gentleman’s private character, which she had so well
+connected with that gentleman’s private character, which she had so [[Well|well]]
 elucidated, and artfully imparted to Madame Mantalini, as to open her
 eyes more effectually than the closest and most philosophical reasoning
 could have done in a series of years. To which end, the accidental
@@ -610,7 +610,7 @@ piteously; and as she leant upon Miss Knag, and signed towards the door,
 that young lady and all the other young ladies with sympathising faces,
 proceeded to bear her out.
 
-‘Nickleby,’ said Mr. Mantalini in tears, ‘you have been made a witness
+‘Nickleby,’ said Mr. Mantalini in [[Tears|tears]], ‘you have been made a witness
 to this demnition cruelty, on the part of the demdest enslaver and
 captivator that never was, oh dem! I forgive that woman.’
 
@@ -621,7 +621,7 @@ world will blame me, the women will blame me; everybody will laugh,
 and scoff, and smile, and grin most demnebly. They will say, “She had a
 blessing. She did not know it. He was too weak; he was too good; he was
 a dem’d fine fellow, but he loved too strong; he could not bear her to
-be cross, and call him wicked names. It was a dem’d case, there never
+be [[Cross|cross]], and call him wicked names. It was a dem’d case, there never
 was a demder.” But I forgive her.’
 
 With this affecting speech Mr. Mantalini fell down again very flat, and
@@ -635,23 +635,23 @@ said Ralph, coolly putting on his hat.
 
 ‘Demmit, Nickleby, you’re not serious?’
 
-‘I seldom joke,’ said Ralph. ‘Good-night.’
+‘I seldom joke,’ said Ralph. ‘Good-[[Night|night]].’
 
 ‘No, but Nickleby--’ said Mantalini.
 
-‘I am wrong, perhaps,’ rejoined Ralph. ‘I hope so. You should know best.
-Good-night.’
+‘I am wrong, perhaps,’ rejoined Ralph. ‘I [[Hope|hope]] so. You should know best.
+Good-[[Night|night]].’
 
 Affecting not to hear his entreaties that he would stay and advise with
 him, Ralph left the crest-fallen Mr. Mantalini to his meditations, and
-left the house quietly.
+left the [[house]] quietly.
 
-‘Oho!’ he said, ‘sets the wind that way so soon? Half knave and half
-fool, and detected in both characters? I think your day is over, sir.’
+‘Oho!’ he said, ‘sets the [[Wind|wind]] that way so soon? Half knave and half
+[[Fool|fool]], and detected in both characters? I think your day is over, sir.’
 
 As he said this, he made some memorandum in his pocket-book in which Mr
 Mantalini’s name figured conspicuously, and finding by his watch that it
-was between nine and ten o’clock, made all speed home.
+was between nine and ten o’[[Clock|clock]], made all [[Speed|speed]] [[Home|home]].
 
 ‘Are they here?’ was the first question he asked of Newman.
 
@@ -665,18 +665,18 @@ Newman nodded. ‘Been here half an hour.’
 
 ‘A coach! What, you--going to--eh?’ stammered Newman.
 
-Ralph angrily repeated his orders, and Noggs, who might well have been
+Ralph angrily repeated his orders, and Noggs, who might [[Well|well]] have been
 excused for wondering at such an unusual and extraordinary circumstance
 (for he had never seen Ralph in a coach in his life) departed on his
 errand, and presently returned with the conveyance.
 
-Into it went Mr. Squeers, and Ralph, and the third man, whom Newman Noggs
+Into it went Mr. Squeers, and Ralph, and the third man, whom [[Newman Noggs]]
 had never seen. Newman stood upon the door-step to see them off, not
-troubling himself to wonder where or upon what business they were going,
+troubling himself to [[Wonder|wonder]] where or upon what business they were going,
 until he chanced by mere accident to hear Ralph name the address whither
 the coachman was to drive.
 
-Quick as lightning and in a state of the most extreme wonder, Newman
+Quick as [[Lightning|lightning]] and in a state of the most extreme [[Wonder|wonder]], Newman
 darted into his little office for his hat, and limped after the coach
 as if with the intention of getting up behind; but in this design he
 was balked, for it had too much the start of him and was soon hopelessly

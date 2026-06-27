@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Queer Feet"
+title: "[[innocence]] — The Queer Feet"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/innocence-(Chesterton)"
@@ -26,17 +26,17 @@ behind you a mystery as yet unsolved and a tale worth telling.
 
 If (to pursue the same vein of improbable conjecture)
 you were to meet a mild, hard-working little priest,
-named Father Brown, and were to ask him what he thought was
+named [[Father Brown]], and were to ask him what he thought was
 the most singular luck of his life, he would probably reply
 that upon the whole his best stroke was at the Vernon Hotel,
-where he had averted a crime and, perhaps, saved a soul,
+where he had averted a crime and, perhaps, saved a [[Soul|soul]],
 merely by listening to a few footsteps in a passage.
 He is perhaps a little proud of this wild and wonderful
 guess of his, and it is possible that he might refer to it.
 But since it is immeasurably unlikely that you will ever rise high
 enough in the social world to find "The Twelve True Fishermen,"
 or that you will ever sink low enough among slums and criminals
-to find Father Brown, I fear you will never hear the story
+to find [[Father Brown]], I [[Fear|fear]] you will never hear the story
 at all unless you hear it from me.
 
 The Vernon Hotel at which The Twelve True Fishermen held their
@@ -48,11 +48,11 @@ by turning people away.  In the heart of a plutocracy tradesmen
 become cunning enough to be more fastidious than their customers.
 They positively create difficulties so that their wealthy and
 weary clients may spend money and diplomacy in overcoming them.
-If there were a fashionable hotel in London which no man could
+If there were a fashionable hotel in [[London]] which no man could
 enter who was under six foot, society would meekly make up parties
 of six-foot men to dine in it.  If there were an expensive
 restaurant which by a mere caprice of its proprietor was only open
-on Thursday afternoon, it would be crowded on Thursday afternoon.
+on [[thursday|Thursday]] afternoon, it would be crowded on [[thursday|Thursday]] afternoon.
 The Vernon Hotel stood, as if by accident, in the corner of a square
 in Belgravia.  It was a small hotel; and a very inconvenient one.
 But its very inconveniences were considered as walls protecting
@@ -61,7 +61,7 @@ to be of vital importance:  the fact that practically only twenty-four
 people could dine in the place at once.  The only big dinner table
 was the celebrated terrace table, which stood open to the air
 on a sort of veranda overlooking one of the most exquisite old
-gardens in London.  Thus it happened that even the twenty-four
+gardens in [[London]].  Thus it happened that even the twenty-four
 seats at this table could only be enjoyed in warm weather; and this
 making the enjoyment yet more difficult made it yet more desired.
 The existing owner of the hotel was a Jew named Lever; and he made
@@ -73,7 +73,7 @@ exactly mirrored the fixed mood of the English upper class.
 The proprietor knew all his waiters like the fingers on his hand;
 there were only fifteen of them all told.  It was much easier to become
 a Member of Parliament than to become a waiter in that hotel.
-Each waiter was trained in terrible silence and smoothness,
+Each waiter was trained in terrible [[Silence|silence]] and smoothness,
 as if he were a gentleman's servant.  And, indeed, there was generally
 at least one waiter to every gentleman who dined.
 
@@ -82,46 +82,46 @@ anywhere but in such a place, for it insisted on a luxurious privacy;
 and would have been quite upset by the mere thought that any other club
 was even dining in the same building.  On the occasion of their annual
 dinner the Fishermen were in the habit of exposing all their treasures,
-as if they were in a private house, especially the celebrated set
+as if they were in a private [[house]], especially the celebrated set
 of fish knives and forks which were, as it were, the insignia
 of the society, each being exquisitely wrought in silver in the form
 of a fish, and each loaded at the hilt with one large pearl.
 These were always laid out for the fish course, and the fish course
 was always the most magnificent in that magnificent repast.
 The society had a vast number of ceremonies and observances, but it had
-no history and no object; that was where it was so very aristocratic.
+no [[history]] and no object; that was where it was so very aristocratic.
 You did not have to be anything in order to be one of the Twelve Fishers;
 unless you were already a certain sort of person, you never even heard
 of them.  It had been in existence twelve years.  Its president was
 Mr. Audley.  Its vice-president was the Duke of Chester.
 
 If I have in any degree conveyed the atmosphere of this appalling hotel,
-the reader may feel a natural wonder as to how I came to know anything
+the reader may feel a natural [[Wonder|wonder]] as to how I came to know anything
 about it, and may even speculate as to how so ordinary a person
-as my friend Father Brown came to find himself in that golden galley.
+as my friend [[Father Brown]] came to find himself in that golden galley.
 As far as that is concerned, my story is simple, or even vulgar.
 There is in the world a very aged rioter and demagogue who breaks
 into the most refined retreats with the dreadful information that
 all men are brothers, and wherever this leveller went on his pale
-horse it was Father Brown's trade to follow.  One of the waiters,
+[[Horse|horse]] it was [[Father Brown]]'s trade to follow.  One of the waiters,
 an Italian, had been struck down with a paralytic stroke that afternoon;
 and his Jewish employer, marvelling mildly at such superstitions,
 had consented to send for the nearest Popish priest.
-With what the waiter confessed to Father Brown we are not concerned,
+With what the waiter confessed to [[Father Brown]] we are not concerned,
 for the excellent reason that that cleric kept it to himself;
 but apparently it involved him in writing out a note or statement
 for the conveying of some message or the righting of some wrong.
-Father Brown, therefore, with a meek impudence which he would
-have shown equally in Buckingham Palace, asked to be provided
+[[Father Brown]], therefore, with a meek impudence which he would
+have shown equally in [[Buckingham]] Palace, asked to be provided
 with a room and writing materials.  Mr. Lever was torn in two.
-He was a kind man, and had also that bad imitation of kindness,
-the dislike of any difficulty or scene.  At the same time the presence
+He was a kind man, and had also that bad [[Imitation|imitation]] of kindness,
+the dislike of any difficulty or scene.  At the same [[Time|time]] the presence
 of one unusual stranger in his hotel that evening was like a speck
 of dirt on something just cleaned.  There was never any borderland
 or anteroom in the Vernon Hotel, no people waiting in the hall,
 no customers coming in on chance.  There were fifteen waiters.
 There were twelve guests.  It would be as startling to find a new guest
-in the hotel that night as to find a new brother taking breakfast
+in the hotel that [[Night|night]] as to find a new brother taking breakfast
 or tea in one's own family.  Moreover, the priest's appearance
 was second-rate and his clothes muddy; a mere glimpse of him afar
 off might precipitate a crisis in the club.  Mr. Lever at last hit
@@ -132,7 +132,7 @@ and come to the main vestibule and lounge which opens on your right
 into passages leading to the public rooms, and on your left to a
 similar passage pointing to the kitchens and offices of the hotel.
 Immediately on your left hand is the corner of a glass office,
-which abuts upon the lounge--a house within a house, so to speak,
+which abuts upon the lounge--a [[house]] within a [[house]], so to speak,
 like the old hotel bar which probably once occupied its place.
 
 In this office sat the representative of the proprietor (nobody in this place
@@ -144,19 +144,19 @@ sometimes used by the proprietor for delicate and important matters,
 such as lending a duke a thousand pounds or declining to lend him sixpence.
 It is a mark of the magnificent tolerance of Mr. Lever that he permitted
 this holy place to be for about half an hour profaned by a mere priest,
-scribbling away on a piece of paper.  The story which Father Brown
+scribbling away on a piece of paper.  The story which [[Father Brown]]
 was writing down was very likely a much better story than this one,
 only it will never be known.  I can merely state that it was very nearly
 as long, and that the last two or three paragraphs of it were the least
 exciting and absorbing.
 
-For it was by the time that he had reached these that
+For it was by the [[Time|time]] that he had reached these that
 the priest began a little to allow his thoughts to wander
 and his animal senses, which were commonly keen, to awaken.
-The time of darkness and dinner was drawing on; his own forgotten
+The [[Time|time]] of darkness and dinner was drawing on; his own forgotten
 little room was without a light, and perhaps the gathering gloom,
 as occasionally happens, sharpened the sense of sound.
-As Father Brown wrote the last and least essential part of his document,
+As [[Father Brown]] wrote the last and least essential part of his document,
 he caught himself writing to the rhythm of a recurrent noise outside,
 just as one sometimes thinks to the tune of a railway train.
 When he became conscious of the thing he found what it was:
@@ -171,26 +171,26 @@ now not merely listening, but listening and thinking also.
 The footsteps outside at any given moment were such as one might
 hear in any hotel; and yet, taken as a whole, there was something
 very strange about them.  There were no other footsteps.
-It was always a very silent house, for the few familiar guests
-went at once to their own apartments, and the well-trained
+It was always a very silent [[house]], for the few familiar guests
+went at once to their own apartments, and the [[Well|well]]-trained
 waiters were told to be almost invisible until they were wanted.
 One could not conceive any place where there was less reason
 to apprehend anything irregular.  But these footsteps were so odd
 that one could not decide to call them regular or irregular.
-Father Brown followed them with his finger on the edge of the table,
+[[Father Brown]] followed them with his finger on the edge of the table,
 like a man trying to learn a tune on the piano.
 
 First, there came a long rush of rapid little steps,
 such as a light man might make in winning a walking race.
 At a certain point they stopped and changed to a sort of slow,
 swinging stamp, numbering not a quarter of the steps,
-but occupying about the same time.  The moment the last echoing
+but occupying about the same [[Time|time]].  The moment the last echoing
 stamp had died away would come again the run or ripple of light,
 hurrying feet, and then again the thud of the heavier walking.
 It was certainly the same pair of boots, partly because
 (as has been said) there were no other boots about, and partly
 because they had a small but unmistakable creak in them.
-Father Brown had the kind of head that cannot help asking questions;
+[[Father Brown]] had the kind of head that cannot help asking questions;
 and on this apparently trivial question his head almost split.
 He had seen men run in order to jump.  He had seen men run
 in order to slide.  But why on earth should a man run in order
@@ -206,8 +206,8 @@ Yet, as he began to think steadily, the very blackness
 of his cell seemed to make his thoughts more vivid;
 he began to see as in a kind of vision the fantastic feet
 capering along the corridor in unnatural or symbolic attitudes.
-Was it a heathen religious dance?  Or some entirely new kind
-of scientific exercise?  Father Brown began to ask himself
+Was it a heathen religious [[Dance|dance]]?  Or some entirely new kind
+of scientific exercise?  [[Father Brown]] began to ask himself
 with more exactness what the steps suggested.  Taking the slow
 step first:  it certainly was not the step of the proprietor.
 Men of his type walk with a rapid waddle, or they sit still.
@@ -218,7 +218,7 @@ and especially in such gorgeous scenes, they stand or sit
 in constrained attitudes.  No; that heavy yet springy step,
 with a kind of careless emphasis, not specially noisy,
 yet not caring what noise it made, belonged to only one of
-the animals of this earth.  It was a gentleman of western Europe,
+the [[Animals|animals]] of this earth.  It was a gentleman of western Europe,
 and probably one who had never worked for his living.
 
 Just as he came to this solid certainty, the step changed to
@@ -234,7 +234,7 @@ with a new idea in his head, and walked to the door.
 His room had no direct outlet on the passage, but let on one side
 into the glass office, and on the other into the cloak room beyond.
 He tried the door into the office, and found it locked.
-Then he looked at the window, now a square pane full of purple
+Then he looked at the [[Window|window]], now a square pane full of purple
 cloud cleft by livid sunset, and for an instant he smelt evil
 as a dog smells rats.
 
@@ -243,22 +243,22 @@ He remembered that the proprietor had told him that he should lock the door,
 and would come later to release him.  He told himself that twenty things
 he had not thought of might explain the eccentric sounds outside; he reminded
 himself that there was just enough light left to finish his own proper work.
-Bringing his paper to the window so as to catch the last stormy evening light,
+Bringing his paper to the [[Window|window]] so as to catch the last stormy evening light,
 he resolutely plunged once more into the almost completed record.
 He had written for about twenty minutes, bending closer and closer
 to his paper in the lessening light; then suddenly he sat upright.
 He had heard the strange feet once more.
 
-This time they had a third oddity.  Previously the unknown man had walked,
-with levity indeed and lightning quickness, but he had walked.
-This time he ran.  One could hear the swift, soft, bounding steps coming
+This [[Time|time]] they had a third oddity.  Previously the unknown man had walked,
+with levity indeed and [[Lightning|lightning]] quickness, but he had walked.
+This [[Time|time]] he ran.  One could hear the swift, soft, bounding steps coming
 along the corridor, like the pads of a fleeing and leaping panther.
 Whoever was coming was a very strong, active man, in still yet
 tearing excitement.  Yet, when the sound had swept up to the office
 like a sort of whispering whirlwind, it suddenly changed again
 to the old slow, swaggering stamp.
 
-Father Brown flung down his paper, and, knowing the office door
+[[Father Brown]] flung down his paper, and, knowing the office door
 to be locked, went at once into the cloak room on the other side.
 The attendant of this place was temporarily absent, probably because
 the only guests were at dinner and his office was a sinecure.
@@ -267,14 +267,14 @@ the dim cloak room opened on the lighted corridor in the form
 of a sort of counter or half-door, like most of the counters
 across which we have all handed umbrellas and received tickets.
 There was a light immediately above the semicircular arch of this opening.
-It threw little illumination on Father Brown himself, who seemed
-a mere dark outline against the dim sunset window behind him.
+It threw little illumination on [[Father Brown]] himself, who seemed
+a mere dark outline against the dim sunset [[Window|window]] behind him.
 But it threw an almost theatrical light on the man who stood outside
 the cloak room in the corridor.
 
 He was an elegant man in very plain evening dress; tall, but with an air
 of not taking up much room; one felt that he could have slid along like a
-shadow where many smaller men would have been obvious and obstructive.
+[[Shadow|shadow]] where many smaller men would have been obvious and obstructive.
 His face, now flung back in the lamplight, was swarthy and vivacious,
 the face of a foreigner.  His figure was good, his manners good humoured
 and confident; a critic could only say that his black coat was a shade
@@ -284,17 +284,17 @@ he tossed down a scrap of paper with a number and called out with
 amiable authority:  "I want my hat and coat, please; I find I have to go
 away at once."
 
-Father Brown took the paper without a word, and obediently went to look
+[[Father Brown]] took the paper without a word, and obediently went to look
 for the coat; it was not the first menial work he had done in his life.
 He brought it and laid it on the counter; meanwhile, the strange
 gentleman who had been feeling in his waistcoat pocket, said laughing:
 "I haven't got any silver; you can keep this."  And he threw down half
 a sovereign, and caught up his coat.
 
-Father Brown's figure remained quite dark and still; but in that instant
+[[Father Brown]]'s figure remained quite dark and still; but in that instant
 he had lost his head.  His head was always most valuable when he had lost it.
 In such moments he put two and two together and made four million.
-Often the Catholic Church (which is wedded to common sense)
+Often the [[Catholic Church]] (which is wedded to common sense)
 did not approve of it.  Often he did not approve of it himself.
 But it was real inspiration--important at rare crises--when whosoever
 shall lose his head the same shall save it.
@@ -310,8 +310,8 @@ to give you gold, why should you complain?"
 
 The stranger looked at him curiously.  Then he looked still more
 curiously up the passage towards the main entrance.  Then he looked
-back at Brown again, and then he looked very carefully at the window
-beyond Brown's head, still coloured with the after-glow of the storm.
+back at Brown again, and then he looked very carefully at the [[Window|window]]
+beyond Brown's head, still coloured with the after-glow of the [[Storm|storm]].
 Then he seemed to make up his mind.  He put one hand on the counter,
 vaulted over as easily as an acrobat and towered above the priest,
 putting one tremendous hand upon his collar.
@@ -319,24 +319,24 @@ putting one tremendous hand upon his collar.
 "Stand still," he said, in a hacking whisper.  "I don't want
 to threaten you, but--"
 
-"I do want to threaten you," said Father Brown, in a voice like a
-rolling drum, "I want to threaten you with the worm that dieth not,
-and the fire that is not quenched."
+"I do want to threaten you," said [[Father Brown]], in a voice like a
+[[rolling]] drum, "I want to threaten you with the worm that dieth not,
+and the [[Fire|fire]] that is not quenched."
 
 "You're a rum sort of cloak-room clerk," said the other.
 
-"I am a priest, Monsieur Flambeau," said Brown, "and I am ready
+"I am a priest, Monsieur [[Flambeau]]," said Brown, "and I am ready
 to hear your confession."
 
 The other stood gasping for a few moments, and then staggered
 back into a chair.
 
 The first two courses of the dinner of The Twelve True Fishermen had
-proceeded with placid success.  I do not possess a copy of the menu;
+proceeded with placid [[success]].  I do not possess a copy of the menu;
 and if I did it would not convey anything to anybody.  It was written
 in a sort of super-French employed by cooks, but quite unintelligible
 to Frenchmen.  There was a tradition in the club that the hors
-d'oeuvres should be various and manifold to the point of madness.
+d'oeuvres should be various and manifold to the point of [[Madness|madness]].
 They were taken seriously because they were avowedly useless extras,
 like the whole dinner and the whole club.  There was also a tradition
 that the soup course should be light and unpretending--a sort
@@ -348,7 +348,7 @@ on both sides were alluded to by their Christian names with a sort
 of bored benignity.  The Radical Chancellor of the Exchequer,
 whom the whole Tory party was supposed to be cursing for his extortions,
 was praised for his minor poetry, or his saddle in the hunting field.
-The Tory leader, whom all Liberals were supposed to hate as a tyrant,
+The Tory leader, whom all Liberals were supposed to hate as a [[Tyrant|tyrant]],
 was discussed and, on the whole, praised--as a Liberal.  It seemed
 somehow that politicians were very important.  And yet, anything seemed
 important about them except their politics.  Mr. Audley, the chairman,
@@ -363,7 +363,7 @@ That is to say, he was a pleasant youth, with flat, fair hair and a
 freckled face, with moderate intelligence and enormous estates.  In public
 his appearances were always successful and his principle was simple enough.
 When he thought of a joke he made it, and was called brilliant.
-When he could not think of a joke he said that this was no time for trifling,
+When he could not think of a joke he said that this was no [[Time|time]] for trifling,
 and was called able.  In private, in a club of his own class, he was
 simply quite pleasantly frank and silly, like a schoolboy.  Mr. Audley,
 never having been in politics, treated them a little more seriously.
@@ -372,30 +372,30 @@ was some difference between a Liberal and a Conservative.  He himself
 was a Conservative, even in private life.  He had a roll of grey hair
 over the back of his collar, like certain old-fashioned statesmen,
 and seen from behind he looked like the man the empire wants.
-Seen from the front he looked like a mild, self-indulgent bachelor,
+Seen from the front he looked like a mild, [[Self|self]]-indulgent bachelor,
 with rooms in the Albany--which he was.
 
 As has been remarked, there were twenty-four seats at
 the terrace table, and only twelve members of the club.
 Thus they could occupy the terrace in the most luxurious style of all,
 being ranged along the inner side of the table, with no one opposite,
-commanding an uninterrupted view of the garden, the colours
+commanding an uninterrupted view of the [[Garden|garden]], the colours
 of which were still vivid, though evening was closing in somewhat
-luridly for the time of year.  The chairman sat in the centre
+luridly for the [[Time|time]] of year.  The chairman sat in the centre
 of the line, and the vice-president at the right-hand end of it.
 When the twelve guests first trooped into their seats it was
 the custom (for some unknown reason) for all the fifteen waiters
-to stand lining the wall like troops presenting arms to the king,
+to stand lining the wall like troops presenting arms to the [[King|king]],
 while the fat proprietor stood and bowed to the club with
 radiant surprise, as if he had never heard of them before.
 But before the first chink of knife and fork this army of
 retainers had vanished, only the one or two required to collect
-and distribute the plates darting about in deathly silence.
+and distribute the plates darting about in deathly [[Silence|silence]].
 Mr. Lever, the proprietor, of course had disappeared in
 convulsions of courtesy long before.  It would be exaggerative,
 indeed irreverent, to say that he ever positively appeared again.
 But when the important course, the fish course, was being brought on,
-there was--how shall I put it?--a vivid shadow, a projection
+there was--how shall I put it?--a vivid [[Shadow|shadow]], a projection
 of his personality, which told that he was hovering near.
 The sacred fish course consisted (to the eyes of the vulgar)
 in a sort of monstrous pudding, about the size and shape of a
@@ -405,7 +405,7 @@ The Twelve True Fishermen took up their celebrated fish knives
 and fish forks, and approached it as gravely as if every inch
 of the pudding cost as much as the silver fork it was eaten with.
 So it did, for all I know.  This course was dealt with in
-eager and devouring silence; and it was only when his plate
+eager and devouring [[Silence|silence]]; and it was only when his plate
 was nearly empty that the young duke made the ritual remark:
 "They can't do this anywhere but here."
 
@@ -422,7 +422,7 @@ he said, shaking his head ruthlessly, like a hanging judge.
 "Nothing like it."
 
 "Overrated place," said a certain Colonel Pound, speaking (by the look of him)
-for the first time for some months.
+for the first [[Time|time]] for some months.
 
 "Oh, I don't know," said the Duke of Chester, who was an optimist,
 "it's jolly good for some things.  You can't beat it at--"
@@ -436,9 +436,9 @@ They felt as you and I would feel if the inanimate world disobeyed--
 if a chair ran away from us.
 
 The waiter stood staring a few seconds, while there deepened on every
-face at table a strange shame which is wholly the product of our time.
-It is the combination of modern humanitarianism with the horrible modern
-abyss between the souls of the rich and poor.  A genuine historic aristocrat
+face at table a strange shame which is wholly the product of our [[Time|time]].
+It is the combination of modern [[Humanitarianism|humanitarianism]] with the horrible modern
+abyss between the souls of the rich and poor.  A genuine historic [[aristocrat]]
 would have thrown things at the waiter, beginning with empty bottles,
 and very probably ending with money.  A genuine democrat would have asked him,
 with comrade-like clearness of speech, what the devil he was doing.
@@ -454,8 +454,8 @@ When he reappeared in the room, or rather in the doorway, it was in
 company with another waiter, with whom he whispered and gesticulated
 with southern fierceness.  Then the first waiter went away,
 leaving the second waiter, and reappeared with a third waiter.
-By the time a fourth waiter had joined this hurried synod, Mr. Audley
-felt it necessary to break the silence in the interests of Tact.  He used
+By the [[Time|time]] a fourth waiter had joined this hurried synod, Mr. Audley
+felt it necessary to break the [[Silence|silence]] in the interests of Tact.  He used
 a very loud cough, instead of a presidential hammer, and said:
 "Splendid work young Moocher's doing in Burmah.  Now, no other nation
 in the world could have--"
@@ -473,7 +473,7 @@ now it was a sickly yellow.
 "I have great apprehensions.  Your fish-plates, they are cleared away
 with the knife and fork on them!"
 
-"Well, I hope so," said the chairman, with some warmth.
+"[[Well]], I [[Hope|hope]] so," said the chairman, with some warmth.
 
 "You see him?" panted the excited hotel keeper; "you see the waiter
 who took them away?  You know him?"
@@ -488,7 +488,7 @@ them already away."
 Mr. Audley still looked rather too bewildered to be really the man
 the empire wants; none of the company could say anything except the man
 of wood--Colonel Pound--who seemed galvanised into an unnatural life.
-He rose rigidly from his chair, leaving all the rest sitting,
+He [[Rose|rose]] rigidly from his chair, leaving all the rest sitting,
 screwed his eyeglass into his eye, and spoke in a raucous undertone
 as if he had half-forgotten how to speak.  "Do you mean," he said,
 "that somebody has stolen our silver fish service?"
@@ -519,8 +519,8 @@ The proprietor turned upon him, quaking in a kind of palsy of surprise.
 For one of zem is dead upstairs."
 
 There was a shocking stillness for an instant in that room.  It may be
-(so supernatural is the word death) that each of those idle men looked
-for a second at his soul, and saw it as a small dried pea.  One of them--
+(so [[Supernatural|supernatural]] is the word [[Death|death]]) that each of those idle men looked
+for a second at his [[Soul|soul]], and saw it as a small dried pea.  One of them--
 the duke, I think--even said with the idiotic kindness of wealth:
 "Is there anything we can do?"
 
@@ -528,8 +528,8 @@ the duke, I think--even said with the idiotic kindness of wealth:
 
 Then, as to the clang of doom, they awoke to their own position.
 For a few weird seconds they had really felt as if the fifteenth
-waiter might be the ghost of the dead man upstairs.  They had been
-dumb under that oppression, for ghosts were to them an embarrassment,
+waiter might be the [[Ghost|ghost]] of the dead man upstairs.  They had been
+dumb under that oppression, for [[Ghosts|ghosts]] were to them an embarrassment,
 like beggars.  But the remembrance of the silver broke the spell
 of the miraculous; broke it abruptly and with a brutal reaction.
 The colonel flung over his chair and strode to the door.
@@ -554,7 +554,7 @@ and one or two others darted down the corridor leading to
 the servants' quarters, as the more likely line of escape.
 As they did so they passed the dim alcove or cavern of the cloak room,
 and saw a short, black-coated figure, presumably an attendant,
-standing a little way back in the shadow of it.
+standing a little way back in the [[Shadow|shadow]] of it.
 
 "Hallo, there!" called out the duke.  "Have you seen anyone pass?"
 
@@ -569,7 +569,7 @@ It took the form of a dozen quaintly shaped forks and knives.
 "You--you--" began the colonel, quite thrown off his balance at last.
 Then he peered into the dim little room and saw two things:
 first, that the short, black-clad man was dressed like
-a clergyman; and, second, that the window of the room behind
+a clergyman; and, second, that the [[Window|window]] of the room behind
 him was burst, as if someone had passed violently through.
 "Valuable things to deposit in a cloak room, aren't they?"
 remarked the clergyman, with cheerful composure.
@@ -580,9 +580,9 @@ with staring eyes.
 "If I did," said the cleric pleasantly, "at least I am bringing
 them back again."
 
-"But you didn't," said Colonel Pound, still staring at the broken window.
+"But you didn't," said Colonel Pound, still staring at the broken [[Window|window]].
 
-"To make a clean breast of it, I didn't," said the other, with some humour.
+"To make a clean breast of it, I didn't," said the other, with some [[Humour|humour]].
 And he seated himself quite gravely on a stool.  "But you know who did,"
 said the, colonel.
 
@@ -593,23 +593,23 @@ and the moral estimate when he repented."
 
 "Oh, I say--repented!" cried young Chester, with a sort of crow of laughter.
 
-Father Brown got to his feet, putting his hands behind him.
+[[Father Brown]] got to his feet, putting his hands behind him.
 "Odd, isn't it," he said, "that a thief and a vagabond should repent,
 when so many who are rich and secure remain hard and frivolous,
 and without fruit for God or man?  But there, if you will excuse me,
-you trespass a little upon my province.  If you doubt the penitence
+you trespass a little upon my province.  If you [[Doubt|doubt]] the penitence
 as a practical fact, there are your knives and forks.
 You are The Twelve True Fishers, and there are all your silver fish.
 But He has made me a fisher of men."
 
 "Did you catch this man?" asked the colonel, frowning.
 
-Father Brown looked him full in his frowning face.  "Yes," he said,
+[[Father Brown]] looked him full in his frowning face.  "Yes," he said,
 "I caught him, with an unseen hook and an invisible line which is long
 enough to let him wander to the ends of the world, and still to bring
 him back with a twitch upon the thread."
 
-There was a long silence.  All the other men present drifted
+There was a long [[Silence|silence]].  All the other men present drifted
 away to carry the recovered silver to their comrades, or to
 consult the proprietor about the queer condition of affairs.
 But the grim-faced colonel still sat sideways on the counter,
@@ -627,32 +627,32 @@ But I'd give a good many silver forks to know exactly how you
 fell into this affair, and how you got the stuff out of him.
 I reckon you're the most up-to-date devil of the present company."
 
-Father Brown seemed rather to like the saturnine candour of the soldier.
-"Well," he said, smiling, "I mustn't tell you anything of the man's identity,
+[[Father Brown]] seemed rather to like the saturnine candour of the soldier.
+"[[Well]]," he said, smiling, "I mustn't tell you anything of the man's [[Identity|identity]],
 or his own story, of course; but there's no particular reason why I shouldn't
 tell you of the mere outside facts which I found out for myself."
 
 He hopped over the barrier with unexpected activity, and sat beside
 Colonel Pound, kicking his short legs like a little boy on a gate.
 He began to tell the story as easily as if he were telling it to an old
-friend by a Christmas fire.
+friend by a Christmas [[Fire|fire]].
 
 "You see, colonel," he said, "I was shut up in that small room there
 doing some writing, when I heard a pair of feet in this passage doing
-a dance that was as queer as the dance of death.  First came quick,
+a [[Dance|dance]] that was as queer as the [[Dance of Death|dance of death]].  First came quick,
 funny little steps, like a man walking on tiptoe for a wager; then came slow,
 careless, creaking steps, as of a big man walking about with a cigar.
 But they were both made by the same feet, I swear, and they came in rotation;
 first the run and then the walk, and then the run again.  I wondered at
 first idly and then wildly why a man should act these two parts at once.
 One walk I knew; it was just like yours, colonel.  It was the walk
-of a well-fed gentleman waiting for something, who strolls about rather
+of a [[Well|well]]-fed gentleman waiting for something, who strolls about rather
 because he is physically alert than because he is mentally impatient.
 I knew that I knew the other walk, too, but I could not remember what it was.
 What wild creature had I met on my travels that tore along on tiptoe
 in that extraordinary style?  Then I heard a clink of plates somewhere;
 and the answer stood up as plain as St. Peter's. It was the walk of a waiter--
-that walk with the body slanted forward, the eyes looking down, the ball
+that walk with the [[Body|body]] slanted forward, the eyes looking down, the ball
 of the toe spurning away the ground, the coat tails and napkin flying.
 Then I thought for a minute and a half more.  And I believe I saw the manner
 of the crime, as clearly as if I were going to commit it."
@@ -665,20 +665,20 @@ Don't look surprised; crimes are by no means the only works of art
 that come from an infernal workshop.  But every work of art,
 divine or diabolic, has one indispensable mark--I mean, that the centre
 of it is simple, however much the fulfilment may be complicated.
-Thus, in Hamlet, let us say, the grotesqueness of the grave-digger,
-the flowers of the mad girl, the fantastic finery of Osric, the pallor
-of the ghost and the grin of the skull are all oddities in a sort
+Thus, in [[Hamlet]], let us say, the grotesqueness of the [[Grave|grave]]-digger,
+the [[Flowers|flowers]] of the mad girl, the fantastic finery of Osric, the pallor
+of the [[Ghost|ghost]] and the grin of the skull are all oddities in a sort
 of tangled wreath round one plain tragic figure of a man in black.
-Well, this also," he said, getting slowly down from his seat
-with a smile, "this also is the plain tragedy of a man in black.
-Yes," he went on, seeing the colonel look up in some wonder,
-"the whole of this tale turns on a black coat.  In this, as in Hamlet,
+[[Well]], this also," he said, getting slowly down from his seat
+with a smile, "this also is the plain [[Tragedy|tragedy]] of a man in black.
+Yes," he went on, seeing the colonel look up in some [[Wonder|wonder]],
+"the whole of this tale turns on a black coat.  In this, as in [[Hamlet]],
 there are the rococo excrescences--yourselves, let us say.
 There is the dead waiter, who was there when he could not be there.
 There is the invisible hand that swept your table clear of silver
 and melted into air.  But every clever crime is founded ultimately on
 some one quite simple fact--some fact that is not itself mysterious.
-The mystification comes in covering it up, in leading men's thoughts
+The [[Mystification|mystification]] comes in covering it up, in leading men's thoughts
 away from it.  This large and subtle and (in the ordinary course)
 most profitable crime, was built on the plain fact that a gentleman's
 evening dress is the same as a waiter's. All the rest was acting,
@@ -687,7 +687,7 @@ and thundering good acting, too."
 "Still," said the colonel, getting up and frowning at his boots,
 "I am not sure that I understand."
 
-"Colonel," said Father Brown, "I tell you that this archangel of
+"Colonel," said [[Father Brown]], "I tell you that this archangel of
 impudence who stole your forks walked up and down this passage twenty
 times in the blaze of all the lamps, in the glare of all the eyes.
 He did not go and hide in dim corners where suspicion might have searched
@@ -696,25 +696,25 @@ and everywhere that he went he seemed to be there by right.  Don't ask me
 what he was like; you have seen him yourself six or seven times tonight.
 You were waiting with all the other grand people in the reception
 room at the end of the passage there, with the terrace just beyond.
-Whenever he came among you gentlemen, he came in the lightning style
+Whenever he came among you gentlemen, he came in the [[Lightning|lightning]] style
 of a waiter, with bent head, flapping napkin and flying feet.
 He shot out on to the terrace, did something to the table cloth,
 and shot back again towards the office and the waiters' quarters.
-By the time he had come under the eye of the office clerk and
-the waiters he had become another man in every inch of his body,
+By the [[Time|time]] he had come under the eye of the office clerk and
+the waiters he had become another man in every inch of his [[Body|body]],
 in every instinctive gesture.  He strolled among the servants with
 the absent-minded insolence which they have all seen in their patrons.
 It was no new thing to them that a swell from the dinner party should pace
-all parts of the house like an animal at the Zoo; they know that nothing
+all parts of the [[house]] like an animal at the Zoo; they know that nothing
 marks the Smart Set more than a habit of walking where one chooses.
 When he was magnificently weary of walking down that particular
-passage he would wheel round and pace back past the office;
-in the shadow of the arch just beyond he was altered as by a blast
-of magic, and went hurrying forward again among the Twelve Fishermen,
+passage he would [[Wheel|wheel]] round and pace back past the office;
+in the [[Shadow|shadow]] of the arch just beyond he was altered as by a blast
+of [[Magic|magic]], and went hurrying forward again among the Twelve Fishermen,
 an obsequious attendant.  Why should the gentlemen look at a chance waiter?
 Why should the waiters suspect a first-rate walking gentleman?
 Once or twice he played the coolest tricks.  In the proprietor's
-private quarters he called out breezily for a syphon of soda water,
+private quarters he called out breezily for a syphon of soda [[Water|water]],
 saying he was thirsty.  He said genially that he would carry it himself,
 and he did; he carried it quickly and correctly through the thick
 of you, a waiter with an obvious errand.  Of course, it could not
@@ -726,8 +726,8 @@ then he contrived to lean against the wall just round the corner
 in such a way that for that important instant the waiters thought
 him a gentleman, while the gentlemen thought him a waiter.
 The rest went like winking.  If any waiter caught him away
-from the table, that waiter caught a languid aristocrat.
-He had only to time himself two minutes before the fish was cleared,
+from the table, that waiter caught a languid [[aristocrat]].
+He had only to [[Time|time]] himself two minutes before the fish was cleared,
 become a swift servant, and clear it himself.  He put the plates
 down on a sideboard, stuffed the silver in his breast pocket,
 giving it a bulgy look, and ran like a hare (I heard him coming)
@@ -747,7 +747,7 @@ the story ends."
 understand his professional trick.  But I don't seem to have got
 hold of yours."
 
-"I must be going," said Father Brown.
+"I must be going," said [[Father Brown]].
 
 They walked together along the passage to the entrance hall,
 where they saw the fresh, freckled face of the Duke of Chester,
@@ -755,7 +755,7 @@ who was bounding buoyantly along towards them.
 
 "Come along, Pound," he cried breathlessly.  "I've been looking
 for you everywhere.  The dinner's going again in spanking style,
-and old Audley has got to make a speech in honour of the forks
+and old Audley has got to make a speech in [[Honour|honour]] of the forks
 being saved.  We want to start some new ceremony, don't you know,
 to commemorate the occasion.  I say, you really got the goods back,
 what do you suggest?"
@@ -771,8 +771,8 @@ like a waiter."
 with the same lowering laughter on his face.  "Reverend sir,
 your friend must have been very smart to act the gentleman."
 
-Father Brown buttoned up his commonplace overcoat to the neck,
-for the night was stormy, and took his commonplace umbrella
+[[Father Brown]] buttoned up his commonplace overcoat to the neck,
+for the [[Night|night]] was stormy, and took his commonplace umbrella
 from the stand.
 
 "Yes," he said; "it must be very hard work to be a gentleman;

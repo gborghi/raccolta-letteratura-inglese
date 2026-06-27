@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 59: RETURN (part 3)"
+title: "[[David Copperfield]] — Chapter 59: RETURN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 ‘Are many of the young ladies with you?’ I inquired.
 
-‘The eldest, the Beauty is here,’ said Traddles, in a low confidential
+‘The eldest, the [[Beauty]] is here,’ said Traddles, in a low confidential
 voice, ‘Caroline. And Sarah’s here--the one I mentioned to you as having
 something the matter with her spine, you know. Immensely better! And the
 two youngest that Sophy educated are with us. And Louisa’s here.’
@@ -25,13 +25,13 @@ two youngest that Sophy educated are with us. And Louisa’s here.’
 
 ‘Yes,’ said Traddles. ‘Now the whole set--I mean the chambers--is only
 three rooms; but Sophy arranges for the girls in the most wonderful way,
-and they sleep as comfortably as possible. Three in that room,’ said
+and they [[Sleep|sleep]] as comfortably as possible. Three in that room,’ said
 Traddles, pointing. ‘Two in that.’
 
 I could not help glancing round, in search of the accommodation
 remaining for Mr. and Mrs. Traddles. Traddles understood me.
 
-‘Well!’ said Traddles, ‘we are prepared to rough it, as I said just now,
+‘[[Well]]!’ said Traddles, ‘we are prepared to rough it, as I said just now,
 and we did improvise a bed last week, upon the floor here. But there’s
 a little room in the roof--a very nice room, when you’re up there--which
 Sophy papered herself, to surprise me; and that’s our room at present.
@@ -73,7 +73,7 @@ from the subject. Did I mention the Reverend Horace?’
 ‘True! Upon the fact that Sophy and I had been engaged for a long
 period, and that Sophy, with the permission of her parents, was more
 than content to take me--in short,’ said Traddles, with his old frank
-smile, ‘on our present Britannia-metal footing. Very well. I then
+smile, ‘on our present Britannia-metal footing. Very [[Well|well]]. I then
 proposed to the Reverend Horace--who is a most excellent clergyman,
 Copperfield, and ought to be a Bishop; or at least ought to have enough
 to live upon, without pinching himself--that if I could turn the corner,
@@ -82,7 +82,7 @@ way pretty clearly to that, or something better, next year; and could
 plainly furnish a little place like this, besides; then, and in that
 case, Sophy and I should be united. I took the liberty of representing
 that we had been patient for a good many years; and that the
-circumstance of Sophy’s being extraordinarily useful at home, ought not
+circumstance of Sophy’s being extraordinarily useful at [[Home|home]], ought not
 to operate with her affectionate parents, against her establishment in
 life--don’t you see?’
 
@@ -91,7 +91,7 @@ life--don’t you see?’
 ‘I am glad you think so, Copperfield,’ rejoined Traddles, ‘because,
 without any imputation on the Reverend Horace, I do think parents, and
 brothers, and so forth, are sometimes rather selfish in such cases.
-Well! I also pointed out, that my most earnest desire was, to be useful
+[[Well]]! I also pointed out, that my most earnest [[Desire|desire]] was, to be useful
 to the family; and that if I got on in the world, and anything should
 happen to him--I refer to the Reverend Horace--’
 
@@ -101,7 +101,7 @@ happen to him--I refer to the Reverend Horace--’
 wishes, to be a parent to the girls. He replied in a most admirable
 manner, exceedingly flattering to my feelings, and undertook to obtain
 the consent of Mrs. Crewler to this arrangement. They had a dreadful
-time of it with her. It mounted from her legs into her chest, and then
+[[Time|time]] of it with her. It mounted from her legs into her chest, and then
 into her head--’
 
 ‘What mounted?’ I asked.
@@ -113,10 +113,10 @@ her, usually settles in her legs; but on this occasion it mounted to the
 chest, and then to the head, and, in short, pervaded the whole system
 in a most alarming manner. However, they brought her through it by
 unremitting and affectionate attention; and we were married yesterday
-six weeks. You have no idea what a Monster I felt, Copperfield, when I
+six weeks. You have no idea what a [[Monster]] I felt, Copperfield, when I
 saw the whole family crying and fainting away in every direction! Mrs.
 Crewler couldn’t see me before we left--couldn’t forgive me, then, for
-depriving her of her child--but she is a good creature, and has done so
+depriving her of her [[Child|child]]--but she is a good creature, and has done so
 since. I had a delightful letter from her, only this morning.’
 
 ‘And in short, my dear friend,’ said I, ‘you feel as blest as you
@@ -126,7 +126,7 @@ deserve to feel!’
 most enviable state. I work hard, and read Law insatiably. I get up at
 five every morning, and don’t mind it at all. I hide the girls in the
 daytime, and make merry with them in the evening. And I assure you I am
-quite sorry that they are going home on Tuesday, which is the day before
+quite sorry that they are going [[Home|home]] on Tuesday, which is the day before
 the first day of Michaelmas Term. But here,’ said Traddles, breaking off
 in his confidence, and speaking aloud, ‘ARE the girls! Mr. Copperfield,
 Miss Crewler--Miss Sarah--Miss Louisa--Margaret and Lucy!’
@@ -134,10 +134,10 @@ Miss Crewler--Miss Sarah--Miss Louisa--Margaret and Lucy!’
 They were a perfect nest of roses; they looked so wholesome and fresh.
 They were all pretty, and Miss Caroline was very handsome; but there was
 a loving, cheerful, fireside quality in Sophy’s bright looks, which was
-better than that, and which assured me that my friend had chosen well.
-We all sat round the fire; while the sharp boy, who I now divined had
+better than that, and which assured me that my friend had chosen [[Well|well]].
+We all sat round the [[Fire|fire]]; while the sharp boy, who I now divined had
 lost his breath in putting the papers out, cleared them away again, and
-produced the tea-things. After that, he retired for the night, shutting
+produced the tea-things. After that, he retired for the [[Night|night]], shutting
 the outer door upon us with a bang. Mrs. Traddles, with perfect pleasure
 and composure beaming from her household eyes, having made the tea, then
-quietly made the toast as she sat in a corner by the fire.
+quietly made the toast as she sat in a corner by the [[Fire|fire]].

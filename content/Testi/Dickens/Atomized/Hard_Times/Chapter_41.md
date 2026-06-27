@@ -20,25 +20,25 @@ A LOOPHOLE
 
 MR. GRADGRIND walked homeward from the school, in a state of considerable
 satisfaction.  It was his school, and he intended it to be a model.  He
-intended every child in it to be a model—just as the young Gradgrinds
+intended every [[Child|child]] in it to be a model—just as the young Gradgrinds
 were all models.
 
 There were five young Gradgrinds, and they were models every one.  They
 had been lectured at, from their tenderest years; coursed, like little
-hares.  Almost as soon as they could run alone, they had been made to run
+hares.  Almost as soon as they could run [[Alone|alone]], they had been made to run
 to the lecture-room.  The first object with which they had an
 association, or of which they had a remembrance, was a large black board
 with a dry Ogre chalking ghastly white figures on it.
 
-Not that they knew, by name or nature, anything about an Ogre Fact
-forbid!  I only use the word to express a monster in a lecturing castle,
-with Heaven knows how many heads manipulated into one, taking childhood
+Not that they knew, by name or [[Nature|nature]], anything about an Ogre Fact
+forbid!  I only use the word to express a [[Monster|monster]] in a lecturing [[Castle|castle]],
+with Heaven knows how many heads manipulated into one, taking [[Childhood|childhood]]
 captive, and dragging it into gloomy statistical dens by the hair.
 
-No little Gradgrind had ever seen a face in the moon; it was up in the
-moon before it could speak distinctly.  No little Gradgrind had ever
-learnt the silly jingle, Twinkle, twinkle, little star; how I wonder what
-you are!  No little Gradgrind had ever known wonder on the subject, each
+No little Gradgrind had ever seen a face in the [[Moon|moon]]; it was up in the
+[[Moon|moon]] before it could speak distinctly.  No little Gradgrind had ever
+learnt the silly jingle, Twinkle, twinkle, little star; how I [[Wonder|wonder]] what
+you are!  No little Gradgrind had ever known [[Wonder|wonder]] on the subject, each
 little Gradgrind having at five years old dissected the Great Bear like a
 Professor Owen, and driven Charles’s Wain like a locomotive
 engine-driver.  No little Gradgrind had ever associated a cow in a field
@@ -48,7 +48,7 @@ more famous cow who swallowed Tom Thumb: it had never heard of those
 celebrities, and had only been introduced to a cow as a graminivorous
 ruminating quadruped with several stomachs.
 
-To his matter-of-fact home, which was called Stone Lodge, Mr. Gradgrind
+To his matter-of-fact [[Home|home]], which was called Stone Lodge, Mr. Gradgrind
 directed his steps.  He had virtually retired from the wholesale hardware
 trade before he built Stone Lodge, and was now looking about for a
 suitable opportunity of making an arithmetical figure in Parliament.
@@ -57,18 +57,18 @@ town—called Coketown in the present faithful guide-book.
 
 A very regular feature on the face of the country, Stone Lodge was.  Not
 the least disguise toned down or shaded off that uncompromising fact in
-the landscape.  A great square house, with a heavy portico darkening the
+the landscape.  A great square [[house]], with a heavy portico darkening the
 principal windows, as its master’s heavy brows overshadowed his eyes.  A
-calculated, cast up, balanced, and proved house.  Six windows on this
+calculated, cast up, balanced, and proved [[house]].  Six windows on this
 side of the door, six on that side; a total of twelve in this wing, a
 total of twelve in the other wing; four-and-twenty carried over to the
-back wings.  A lawn and garden and an infant avenue, all ruled straight
+back wings.  A lawn and [[Garden|garden]] and an infant avenue, all ruled straight
 like a botanical account-book.  Gas and ventilation, drainage and
-water-service, all of the primest quality.  Iron clamps and girders,
-fire-proof from top to bottom; mechanical lifts for the housemaids, with
-all their brushes and brooms; everything that heart could desire.
+[[Water|water]]-service, all of the primest quality.  Iron clamps and girders,
+[[Fire|fire]]-proof from top to [[Bottom|bottom]]; mechanical lifts for the housemaids, with
+all their brushes and brooms; everything that heart could [[Desire|desire]].
 
-Everything?  Well, I suppose so.  The little Gradgrinds had cabinets in
+Everything?  [[Well]], I suppose so.  The little Gradgrinds had cabinets in
 various departments of science too.  They had a little conchological
 cabinet, and a little metallurgical cabinet, and a little mineralogical
 cabinet; and the specimens were all arranged and labelled, and the bits
@@ -81,9 +81,9 @@ greedy little Gradgrinds grasped it!
 
 Their father walked on in a hopeful and satisfied frame of mind.  He was
 an affectionate father, after his manner; but he would probably have
-described himself (if he had been put, like Sissy Jupe, upon a
+described himself (if he had been put, like [[Sissy Jupe]], upon a
 definition) as ‘an eminently practical’ father.  He had a particular
-pride in the phrase eminently practical, which was considered to have a
+[[Pride|pride]] in the phrase eminently practical, which was considered to have a
 special application to him.  Whatsoever the public meeting held in
 Coketown, and whatsoever the subject of such meeting, some Coketowner was
 sure to seize the occasion of alluding to his eminently practical friend
@@ -93,10 +93,10 @@ it to be his due, but his due was acceptable.
 He had reached the neutral ground upon the outskirts of the town, which
 was neither town nor country, and yet was either spoiled, when his ears
 were invaded by the sound of music.  The clashing and banging band
-attached to the horse-riding establishment, which had there set up its
-rest in a wooden pavilion, was in full bray.  A flag, floating from the
+attached to the [[Horse|horse]]-riding establishment, which had there set up its
+rest in a wooden pavilion, was in full bray.  A [[Flag|flag]], floating from the
 summit of the temple, proclaimed to mankind that it was ‘Sleary’s
-Horse-riding’ which claimed their suffrages.  Sleary himself, a stout
+[[Horse]]-riding’ which claimed their suffrages.  Sleary himself, a stout
 modern statue with a money-box at its elbow, in an ecclesiastical niche
 of early Gothic architecture, took the money.  Miss Josephine Sleary, as
 some very long and very narrow strips of printed bill announced, was then
@@ -111,14 +111,14 @@ attempted in this or any other country, and which having elicited such
 rapturous plaudits from enthusiastic throngs it cannot be withdrawn.’
 The same Signor Jupe was to ‘enliven the varied performances at frequent
 intervals with his chaste Shaksperean quips and retorts.’  Lastly, he was
-to wind them up by appearing in his favourite character of Mr. William
-Button, of Tooley Street, in ‘the highly novel and laughable
-hippo-comedietta of The Tailor’s Journey to Brentford.’
+to [[Wind|wind]] them up by appearing in his favourite character of Mr. William
+Button, of Tooley Street, in ‘the highly [[Novel|novel]] and laughable
+hippo-comedietta of The Tailor’s [[Journey]] to Brentford.’
 
-Thomas Gradgrind took no heed of these trivialities of course, but passed
-on as a practical man ought to pass on, either brushing the noisy insects
-from his thoughts, or consigning them to the House of Correction.  But,
-the turning of the road took him by the back of the booth, and at the
+[[Thomas Gradgrind]] took no heed of these trivialities of course, but passed
+on as a practical man ought to pass on, either brushing the noisy [[Insects|insects]]
+from his thoughts, or consigning them to the [[house|House]] of Correction.  But,
+the turning of the [[Road|road]] took him by the back of the booth, and at the
 back of the booth a number of children were congregated in a number of
 stealthy attitudes, striving to peep in at the hidden glories of the
 place.
@@ -127,7 +127,7 @@ This brought him to a stop.  ‘Now, to think of these vagabonds,’ said he,
 ‘attracting the young rabble from a model school.’
 
 A space of stunted grass and dry rubbish being between him and the young
-rabble, he took his eyeglass out of his waistcoat to look for any child
+rabble, he took his eyeglass out of his waistcoat to look for any [[Child|child]]
 he knew by name, and might order off.  Phenomenon almost incredible
 though distinctly seen, what did he then behold but his own metallurgical
 Louisa, peeping with all her might through a hole in a deal board, and
@@ -135,15 +135,15 @@ his own mathematical Thomas abasing himself on the ground to catch but a
 hoof of the graceful equestrian Tyrolean flower-act!
 
 Dumb with amazement, Mr. Gradgrind crossed to the spot where his family
-was thus disgraced, laid his hand upon each erring child, and said:
+was thus disgraced, laid his hand upon each erring [[Child|child]], and said:
 
 ‘Louisa!!  Thomas!!’
 
-Both rose, red and disconcerted.  But, Louisa looked at her father with
+Both [[Rose|rose]], red and disconcerted.  But, Louisa looked at her father with
 more boldness than Thomas did.  Indeed, Thomas did not look at him, but
-gave himself up to be taken home like a machine.
+gave himself up to be taken [[Home|home]] like a [[Machine|machine]].
 
-‘In the name of wonder, idleness, and folly!’ said Mr. Gradgrind, leading
+‘In the name of [[Wonder|wonder]], idleness, and folly!’ said Mr. Gradgrind, leading
 each away by a hand; ‘what do you do here?’
 
 ‘Wanted to see what it was like,’ returned Louisa, shortly.
@@ -154,19 +154,19 @@ each away by a hand; ‘what do you do here?’
 
 There was an air of jaded sullenness in them both, and particularly in
 the girl: yet, struggling through the dissatisfaction of her face, there
-was a light with nothing to rest upon, a fire with nothing to burn, a
-starved imagination keeping life in itself somehow, which brightened its
+was a light with nothing to rest upon, a [[Fire|fire]] with nothing to burn, a
+starved [[Imagination|imagination]] keeping life in itself somehow, which brightened its
 expression.  Not with the brightness natural to cheerful youth, but with
 uncertain, eager, doubtful flashes, which had something painful in them,
 analogous to the changes on a blind face groping its way.
 
-She was a child now, of fifteen or sixteen; but at no distant day would
+She was a [[Child|child]] now, of fifteen or sixteen; but at no distant day would
 seem to become a woman all at once.  Her father thought so as he looked
-at her.  She was pretty.  Would have been self-willed (he thought in his
+at her.  She was pretty.  Would have been [[Self|self]]-willed (he thought in his
 eminently practical way) but for her bringing-up.
 
 ‘Thomas, though I have the fact before me, I find it difficult to believe
-that you, with your education and resources, should have brought your
+that you, with your [[Education|education]] and resources, should have brought your
 sister to a scene like this.’
 
 ‘I brought _him_, father,’ said Louisa, quickly.  ‘I asked him to come.’
@@ -181,7 +181,7 @@ and you, who may be said to be replete with facts; Thomas and you, who
 have been trained to mathematical exactness; Thomas and you, here!’ cried
 Mr. Gradgrind.  ‘In this degraded position!  I am amazed.’
 
-‘I was tired, father.  I have been tired a long time,’ said Louisa.
+‘I was tired, father.  I have been tired a long [[Time|time]],’ said Louisa.
 
 ‘Tired?  Of what?’ asked the astonished father.
 
@@ -189,7 +189,7 @@ Mr. Gradgrind.  ‘In this degraded position!  I am amazed.’
 
 ‘Say not another word,’ returned Mr. Gradgrind.  ‘You are childish.  I
 will hear no more.’  He did not speak again until they had walked some
-half-a-mile in silence, when he gravely broke out with: ‘What would your
+half-a-mile in [[Silence|silence]], when he gravely broke out with: ‘What would your
 best friends say, Louisa?  Do you attach no value to their good opinion?
 What would Mr. Bounderby say?’  At the mention of this name, his daughter
 stole a look at him, remarkable for its intense and searching character.
@@ -197,6 +197,6 @@ He saw nothing of it, for before he looked at her, she had again cast
 down her eyes!
 
 ‘What,’ he repeated presently, ‘would Mr. Bounderby say?’  All the way to
-Stone Lodge, as with grave indignation he led the two delinquents home,
+Stone Lodge, as with [[Grave|grave]] indignation he led the two delinquents [[Home|home]],
 he repeated at intervals ‘What would Mr. Bounderby say?’—as if Mr.
 Bounderby had been Mrs. Grundy.

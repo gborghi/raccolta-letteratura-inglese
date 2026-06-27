@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 3)"
+title: "[[Shirley]] — Chapter 13 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,7 +22,7 @@ but clouded, and very windy. We had a talk."
 
 
 
-"And religion. I think the moon was at the full, and Michael was as near
+"And religion. I think the [[Moon|moon]] was at the full, and [[Michael]] was as near
 
 crazed as possible. He uttered strange blasphemy in his Antinomian
 
@@ -38,7 +38,7 @@ listening to him."
 
 "There is a wild interest in his ravings. The man would be half a poet,
 
-if he were not wholly a maniac; and perhaps a prophet, if he were not a
+if he were not wholly a maniac; and perhaps a [[Prophet|prophet]], if he were not a
 
 profligate. He solemnly informed me that hell was foreordained my
 
@@ -46,7 +46,7 @@ inevitable portion; that he read the mark of the beast on my brow; that
 
 I had been an outcast from the beginning. God's vengeance, he said, was
 
-preparing for me, and affirmed that in a vision of the night he had
+preparing for me, and affirmed that in a vision of the [[Night|night]] he had
 
 beheld the manner and the instrument of my doom. I wanted to know
 
@@ -62,19 +62,19 @@ further, but he left me with these words, 'The end is not yet.'"
 
 and Moses Barraclough, both in an advanced stage of inebriation. They
 
-were praying in frantic sort at the roadside. They accosted me as Satan,
+were praying in frantic sort at the roadside. They accosted me as [[Satan]],
 
-bid me avaunt, and clamoured to be delivered from temptation. Again, but
+bid me avaunt, and clamoured to be delivered from [[Temptation|temptation]]. Again, but
 
-a few days ago, Michael took the trouble of appearing at the
+a few days ago, [[Michael]] took the trouble of appearing at the
 
-counting-house door, hatless, in his shirt-sleeves--his coat and castor
+counting-[[house]] door, hatless, in his shirt-sleeves--his coat and castor
 
-having been detained at the public-house in pledge. He delivered himself
+having been detained at the public-[[house]] in pledge. He delivered himself
 
-of the comfortable message that he could wish Mr. Moore to set his house
+of the comfortable message that he could wish Mr. Moore to set his [[house]]
 
-in order, as his soul was likely shortly to be required of him."
+in order, as his [[Soul|soul]] was likely shortly to be required of him."
 
 
 
@@ -100,7 +100,7 @@ nerves."
 
 
 
-"Mr. Moore, go home!"
+"Mr. Moore, go [[Home|home]]!"
 
 
 
@@ -118,7 +118,7 @@ nerves."
 
 "It is late. For my part, I am going in. Will you promise me not to
 
-wander in the Hollow to-night?"
+wander in the Hollow to-[[Night|night]]?"
 
 
 
@@ -154,13 +154,13 @@ ruin."
 
 
 
-"For the time. Your assistance has given me another chance."
+"For the [[Time|time]]. Your assistance has given me another chance."
 
 
 
 "Live to make the best of it. Don't offer yourself as a target to
 
-Michael Hartley; and good-night!"
+[[Michael]] Hartley; and good-[[Night|night]]!"
 
 
 
@@ -172,7 +172,7 @@ Miss Helstone was under a promise to spend the evening of the next day
 
 at Fieldhead. She kept her promise. Some gloomy hours had she spent in
 
-the interval. Most of the time had been passed shut up in her own
+the interval. Most of the [[Time|time]] had been passed shut up in her own
 
 apartment, only issuing from it, indeed, to join her uncle at meals, and
 
@@ -192,7 +192,7 @@ irksome. Her uncle must be once more entreated, but first she would
 
 consult Mrs. Pryor. Her head laboured to frame projects as diligently as
 
-her hands to plait and stitch the thin texture of the muslin summer
+her hands to plait and stitch the thin texture of the muslin [[Summer|summer]]
 
 dress spread on the little white couch at the foot of which she sat. Now
 
@@ -208,7 +208,7 @@ would re-thread her needle, rearrange tuck and trimming, and work on.
 
 Late in the afternoon she dressed herself. She reached Fieldhead, and
 
-appeared in the oak parlour just as tea was brought in. Shirley asked
+appeared in the oak parlour just as tea was brought in. [[Shirley]] asked
 
 her why she came so late.
 
@@ -216,13 +216,13 @@ her why she came so late.
 
 "Because I have been making my dress," said she. "These fine sunny days
 
-began to make me ashamed of my winter merino, so I have furbished up a
+began to make me ashamed of my [[Winter|winter]] merino, so I have furbished up a
 
 lighter garment."
 
 
 
-"In which you look as I like to see you," said Shirley. "You are a
+"In which you look as I like to see you," said [[Shirley]]. "You are a
 
 lady-like little person, Caroline.--Is she not, Mrs. Pryor?"
 
@@ -236,19 +236,19 @@ she only swept Caroline's curls from her cheek as she took a seat near
 
 her, caressed the oval outline, and observed, "You get somewhat thin, my
 
-love, and somewhat pale. Do you sleep well? your eyes have a languid
+[[Love|love]], and somewhat pale. Do you [[Sleep|sleep]] [[Well|well]]? your eyes have a languid
 
 look." And she gazed at her anxiously.
 
 
 
-"I sometimes dream melancholy dreams," answered Caroline; "and if I lie
+"I sometimes dream [[Melancholy|melancholy]] [[Dreams|dreams]]," answered Caroline; "and if I lie
 
-awake for an hour or two in the night, I am continually thinking of the
+awake for an hour or two in the [[Night|night]], I am continually thinking of the
 
 rectory as a dreary old place. You know it is very near the churchyard.
 
-The back part of the house is extremely ancient, and it is said that the
+The back part of the [[house]] is extremely ancient, and it is said that the
 
 out-kitchens there were once enclosed in the churchyard, and that there
 
@@ -264,7 +264,7 @@ are graves under them. I rather long to leave the rectory."
 
 under a darker aspect than I used to do. I have fears I never used to
 
-have--not of ghosts, but of omens and disastrous events; and I have an
+have--not of [[Ghosts|ghosts]], but of omens and disastrous events; and I have an
 
 inexpressible weight on my mind which I would give the world to shake
 
@@ -272,7 +272,7 @@ off, and I cannot do it."
 
 
 
-"Strange!" cried Shirley. "I never feel so." Mrs. Pryor said nothing.
+"Strange!" cried [[Shirley]]. "I never feel so." Mrs. Pryor said nothing.
 
 
 

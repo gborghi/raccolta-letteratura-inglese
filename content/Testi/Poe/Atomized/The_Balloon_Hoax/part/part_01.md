@@ -1,5 +1,5 @@
 ---
-title: "The Balloon-Hoax (part 1)"
+title: "[[The Balloon-Hoax]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Balloon-Hoax-(Poe)"
@@ -18,7 +18,7 @@ tags:
 
 Three Days!  Signal Triumph of Mr. Monck Mason’s Flying
 
-Machine!—Arrival at Sullivan’s Island, near Charlestown, S.C., of Mr.
+[[Machine]]!—Arrival at Sullivan’s Island, near Charlestown, S.C., of Mr.
 
 Mason, Mr. Robert Holland, Mr. Henson, Mr. Harrison Ainsworth, and four
 
@@ -28,9 +28,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
     The subjoined _jeu d’esprit_ with the preceding heading in
 
-    magnificent capitals, well interspersed with notes of admiration,
+    magnificent capitals, [[Well|well]] interspersed with notes of admiration,
 
-    was originally published, as matter of fact, in the “New York Sun,”
+    was originally published, as matter of fact, in the “[[New York]] Sun,”
 
     a daily newspaper, and therein fully subserved the purpose of
 
@@ -50,7 +50,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
 
 
-      The great problem is at length solved! The air, as well as the
+      The great problem is at length solved! The air, as [[Well|well]] as the
 
       earth and the ocean, has been subdued by science, and will become
 
@@ -60,7 +60,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       difficulty—without any great apparent danger—with thorough
 
-      control of the machine—and in the inconceivably brief period of
+      control of the [[Machine|machine]]—and in the inconceivably brief period of
 
       seventy-five hours from shore to shore! By the energy of an agent
 
@@ -74,13 +74,13 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       Everard Bringhurst; Mr. Osborne, a nephew of Lord Bentinck’s; Mr.
 
-      Monck Mason and Mr. Robert Holland, the well-known æronauts; Mr.
+      Monck Mason and Mr. Robert Holland, the [[Well|well]]-known æronauts; Mr.
 
       Harrison Ainsworth, author of “Jack Sheppard,” &c.; and Mr.
 
       Henson, the projector of the late unsuccessful flying
 
-      machine—with two seamen from Woolwich—in all, eight persons. The
+      [[Machine|machine]]—with two seamen from Woolwich—in all, eight persons. The
 
       particulars furnished below may be relied on as authentic and
 
@@ -124,13 +124,13 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       Adelaide Gallery, it was found that the operation of these fans
 
-      not only did not propel the machine, but actually impeded its
+      not only did not propel the [[Machine|machine]], but actually impeded its
 
       flight. The only propelling force it ever exhibited, was the mere
 
       _impetus_ acquired from the descent of the inclined plane; and
 
-      this _impetus_ carried the machine farther when the vanes were at
+      this _impetus_ carried the [[Machine|machine]] farther when the vanes were at
 
       rest, than when they were in motion—a fact which sufficiently
 
@@ -142,9 +142,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       George Cayley to think only of adapting a propeller to some
 
-      machine having of itself an independent power of support—in a
+      [[Machine|machine]] having of itself an independent power of support—in a
 
-      word, to a balloon; the idea, however, being novel, or original,
+      word, to a balloon; the idea, however, being [[Novel|novel]], or original,
 
       with Sir George, only so far as regards the mode of its
 
@@ -190,9 +190,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       gas, which, if pure hydrogen, would support twenty-one pounds
 
-      upon its first inflation, before the gas has time to deteriorate
+      upon its first inflation, before the gas has [[Time|time]] to deteriorate
 
-      or escape. The weight of the whole machine and apparatus was
+      or escape. The weight of the whole [[Machine|machine]] and apparatus was
 
       seventeen pounds—leaving about four pounds to spare. Beneath the
 

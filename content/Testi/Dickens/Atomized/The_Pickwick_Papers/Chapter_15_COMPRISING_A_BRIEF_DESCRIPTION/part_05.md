@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -23,13 +23,13 @@ you to marry the widow.”
 
 ‘“You,” said the old gentleman.
 
-‘“Bless your reverend locks,” said Tom (he had a few scattered horse-
+‘“Bless your reverend locks,” said Tom (he had a few scattered [[Horse|horse]]-
 hairs left)--“bless your reverend locks, she wouldn’t have me.” And Tom
 sighed involuntarily, as he thought of the bar.
 
 ‘“Wouldn’t she?” said the old gentleman firmly.
 
-‘“No, no,” said Tom; “there’s somebody else in the wind. A tall man--a
+‘“No, no,” said Tom; “there’s somebody else in the [[Wind|wind]]. A tall man--a
 confoundedly tall man--with black whiskers.”
 
 ‘“Tom,” said the old gentleman; “she will never have him.”
@@ -48,7 +48,7 @@ fellow, who ought to know better, talking about these things, is very
 unpleasant--nothing more so.
 
 ‘“I know all about that, Tom,” said the old gentleman. “I have seen it
-done very often in my time, Tom, between more people than I should like
+done very often in my [[Time|time]], Tom, between more people than I should like
 to mention to you; but it never came to anything after all.”
 
 ‘“You must have seen some queer things,” said Tom, with an inquisitive
@@ -56,7 +56,7 @@ look.
 
 ‘“You may say that, Tom,” replied the old fellow, with a very
 complicated wink. “I am the last of my family, Tom,” said the old
-gentleman, with a melancholy sigh.
+gentleman, with a [[Melancholy|melancholy]] sigh.
 
 ‘“Was it a large one?” inquired Tom Smart.
 
@@ -83,14 +83,14 @@ feelings of emotion, and then said--
 ‘“However, Tom, I am wandering from the point. This tall man, Tom, is a
 rascally adventurer. The moment he married the widow, he would sell off
 all the furniture, and run away. What would be the consequence? She
-would be deserted and reduced to ruin, and I should catch my death of
+would be deserted and reduced to ruin, and I should catch my [[Death|death]] of
 cold in some broker’s shop.”
 
 ‘“Yes, but--”
 
 ‘“Don’t interrupt me,” said the old gentleman. “Of you, Tom, I entertain
-a very different opinion; for I well know that if you once settled
-yourself in a public-house, you would never leave it, as long as there
+a very different opinion; for I [[Well|well]] know that if you once settled
+yourself in a public-[[house]], you would never leave it, as long as there
 was anything to drink within its walls.”
 
 ‘“I am very much obliged to you for your good opinion, Sir,” said Tom
@@ -123,9 +123,9 @@ Smart fell back on his pillow, and dropped asleep.
 ‘Morning aroused Tom from the lethargic slumber, into which he had
 fallen on the disappearance of the old man. He sat up in bed, and for
 some minutes vainly endeavoured to recall the events of the preceding
-night. Suddenly they rushed upon him. He looked at the chair; it was a
+[[Night|night]]. Suddenly they rushed upon him. He looked at the chair; it was a
 fantastic and grim-looking piece of furniture, certainly, but it must
-have been a remarkably ingenious and lively imagination, that could have
+have been a remarkably ingenious and lively [[Imagination|imagination]], that could have
 discovered any resemblance between it and an old man.
 
 ‘“How are you, old boy?” said Tom. He was bolder in the daylight--most
@@ -148,7 +148,7 @@ identical letter the old gentleman had described!
 ‘“Queer sort of thing, this,” said Tom Smart, looking first at the chair
 and then at the press, and then at the letter, and then at the chair
 again. “Very queer,” said Tom. But, as there was nothing in either, to
-lessen the queerness, he thought he might as well dress himself, and
+lessen the queerness, he thought he might as [[Well|well]] dress himself, and
 settle the tall man’s business at once--just to put him out of his
 misery.
 
@@ -156,7 +156,7 @@ misery.
 the scrutinising eye of a landlord; thinking it not impossible, that
 before long, they and their contents would be his property. The tall man
 was standing in the snug little bar, with his hands behind him, quite at
-home. He grinned vacantly at Tom. A casual observer might have supposed
+[[Home|home]]. He grinned vacantly at Tom. A casual observer might have supposed
 he did it, only to show his white teeth; but Tom Smart thought that a
 consciousness of triumph was passing through the place where the tall
 man’s mind would have been, if he had had any. Tom laughed in his face;

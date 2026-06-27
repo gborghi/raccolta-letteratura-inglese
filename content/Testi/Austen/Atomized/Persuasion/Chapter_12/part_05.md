@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 12 (part 5)"
+title: "[[Persuasion]] — Chapter 12 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -22,9 +22,9 @@ was open.
 
 
 
-“Then it is settled, Musgrove,” cried Captain Wentworth, “that you
+“Then it is settled, Musgrove,” cried [[Captain Wentworth]], “that you
 
-stay, and that I take care of your sister home. But as to the rest, as
+stay, and that I take care of your sister [[Home|home]]. But as to the rest, as
 
 to the others, if one stays to assist Mrs Harville, I think it need be
 
@@ -42,7 +42,7 @@ appeared.
 
 
 
-“You will stay, I am sure; you will stay and nurse her;” cried he,
+“You will stay, I am sure; you will stay and [[Nurse|nurse]] her;” cried he,
 
 turning to her and speaking with a glow, and yet a gentleness, which
 
@@ -62,21 +62,21 @@ One thing more, and all seemed arranged. Though it was rather desirable
 
 that Mr and Mrs Musgrove should be previously alarmed by some share of
 
-delay; yet the time required by the Uppercross horses to take them
+delay; yet the [[Time|time]] required by the Uppercross horses to take them
 
-back, would be a dreadful extension of suspense; and Captain Wentworth
+back, would be a dreadful extension of suspense; and [[Captain Wentworth]]
 
 proposed, and Charles Musgrove agreed, that it would be much better for
 
 him to take a chaise from the inn, and leave Mr Musgrove’s carriage and
 
-horses to be sent home the next morning early, when there would be the
+horses to be sent [[Home|home]] the next morning early, when there would be the
 
-farther advantage of sending an account of Louisa’s night.
+farther advantage of sending an account of Louisa’s [[Night|night]].
 
 
 
-Captain Wentworth now hurried off to get everything ready on his part,
+[[Captain Wentworth]] now hurried off to get everything ready on his part,
 
 and to be soon followed by the two ladies. When the plan was made known
 
@@ -88,7 +88,7 @@ expected to go away instead of Anne; Anne, who was nothing to Louisa,
 
 while she was her sister, and had the best right to stay in Henrietta’s
 
-stead! Why was not she to be as useful as Anne? And to go home without
+stead! Why was not she to be as useful as Anne? And to go [[Home|home]] without
 
 Charles, too, without her husband! No, it was too unkind. And in short,
 
@@ -104,13 +104,13 @@ Anne had never submitted more reluctantly to the jealous and
 
 ill-judging claims of Mary; but so it must be, and they set off for the
 
-town, Charles taking care of his sister, and Captain Benwick attending
+town, Charles taking care of his sister, and [[Captain Benwick]] attending
 
 to her. She gave a moment’s recollection, as they hurried along, to the
 
 little circumstances which the same spots had witnessed earlier in the
 
-morning. There she had listened to Henrietta’s schemes for Dr Shirley’s
+morning. There she had listened to Henrietta’s schemes for Dr [[Shirley]]’s
 
 leaving Uppercross; farther on, she had first seen Mr Elliot; a moment
 
@@ -120,7 +120,7 @@ were wrapped up in her welfare.
 
 
 
-Captain Benwick was most considerately attentive to her; and, united as
+[[Captain Benwick]] was most considerately attentive to her; and, united as
 
 they all seemed by the distress of the day, she felt an increasing
 
@@ -130,7 +130,7 @@ it might, perhaps, be the occasion of continuing their acquaintance.
 
 
 
-Captain Wentworth was on the watch for them, and a chaise and four in
+[[Captain Wentworth]] was on the watch for them, and a chaise and four in
 
 waiting, stationed for their convenience in the lowest part of the
 
@@ -150,7 +150,7 @@ Louisa.
 
 She endeavoured to be composed, and to be just. Without emulating the
 
-feelings of an Emma towards her Henry, she would have attended on
+feelings of an [[Emma]] towards her Henry, she would have attended on
 
 Louisa with a zeal above the common claims of regard, for his sake; and
 
@@ -214,21 +214,21 @@ happiness as a very resolute character.
 
 They got on fast. Anne was astonished to recognise the same hills and
 
-the same objects so soon. Their actual speed, heightened by some dread
+the same objects so soon. Their actual [[Speed|speed]], heightened by some dread
 
-of the conclusion, made the road appear but half as long as on the day
+of the conclusion, made the [[Road|road]] appear but half as long as on the day
 
 before. It was growing quite dusk, however, before they were in the
 
-neighbourhood of Uppercross, and there had been total silence among
+neighbourhood of Uppercross, and there had been total [[Silence|silence]] among
 
-them for some time, Henrietta leaning back in the corner, with a shawl
+them for some [[Time|time]], Henrietta leaning back in the corner, with a shawl
 
-over her face, giving the hope of her having cried herself to sleep;
+over her face, giving the [[Hope|hope]] of her having cried herself to [[Sleep|sleep]];
 
-when, as they were going up their last hill, Anne found herself all at
+when, as they were going up their last [[Hill|hill]], Anne found herself all at
 
-once addressed by Captain Wentworth. In a low, cautious voice, he
+once addressed by [[Captain Wentworth]]. In a low, cautious voice, he
 
 said:—
 
@@ -246,7 +246,7 @@ Mr and Mrs Musgrove. Do you think this is a good plan?”
 
 She did: he was satisfied, and said no more. But the remembrance of the
 
-appeal remained a pleasure to her, as a proof of friendship, and of
+appeal remained a pleasure to her, as a proof of [[Friendship|friendship]], and of
 
 deference for her judgement, a great pleasure; and when it became a
 

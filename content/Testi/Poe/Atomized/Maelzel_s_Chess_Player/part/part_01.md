@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 1)"
+title: "[[Maelzel's Chess-Player]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -44,25 +44,25 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       been many and wonderful automata. In Brewster’s Letters on
 
-      Natural Magic, we have an account of the most remarkable. Among
+      Natural [[Magic]], we have an account of the most remarkable. Among
 
-      these may be mentioned, as having beyond doubt existed, firstly,
+      these may be mentioned, as having beyond [[Doubt|doubt]] existed, firstly,
 
       the coach invented by M. Camus for the amusement of Louis XIV
 
-      when a child. A table, about four feet square, was introduced,
+      when a [[Child|child]]. A table, about four feet square, was introduced,
 
       into the room appropriated for the exhibition. Upon this table
 
       was placed a carriage, six inches in length, made of wood, and
 
-      drawn by two horses of the same material. One window being down,
+      drawn by two horses of the same material. One [[Window|window]] being down,
 
       a lady was seen on the back seat. A coachman held the reins on
 
       the box, and a footman and page were in their places behind. M.
 
-      Camus now touched a spring; whereupon the coachman smacked his
+      Camus now touched a [[spring]]; whereupon the coachman smacked his
 
       whip, and the horses proceeded in a natural manner, along the
 
@@ -106,7 +106,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       answering certain given questions. A figure, dressed like a
 
-      magician, appears seated at the bottom of a wall, holding a wand
+      magician, appears seated at the [[Bottom|bottom]] of a wall, holding a wand
 
       in one hand, and a book in the other A number of questions, ready
 
@@ -116,7 +116,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       and having placed it in a drawer ready to receive it, the drawer
 
-      shuts with a spring till the answer is returned. The magician
+      shuts with a [[spring]] till the answer is returned. The magician
 
       then arises from his seat, bows his head, describes circles with
 
@@ -156,7 +156,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       machinery is wound up, the movements continue about an hour,
 
-      during which time about fifty questions may be answered. The
+      during which [[Time|time]] about fifty questions may be answered. The
 
       inventor stated that the means by which the different medallions
 
@@ -168,7 +168,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       The duck of Vaucanson was still more remarkable. It was _of _the
 
-      size of life, and so perfect an imitation of the living animal
+      size of life, and so perfect an [[Imitation|imitation]] of the living animal
 
       that all the spectators were deceived. It executed, says
 
@@ -178,11 +178,11 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       and throat which are peculiar to the duck, and like it muddled
 
-      the water which it drank with its bill. It produced also the
+      the [[Water|water]] which it drank with its bill. It produced also the
 
       sound of quacking in the most natural manner. In the anatomical
 
-      structure the artist exhibited the highest skill. Every bone in
+      structure the [[Artist|artist]] exhibited the highest skill. Every bone in
 
       the real duck had its representative In the automaton, and its
 

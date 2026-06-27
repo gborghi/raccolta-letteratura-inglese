@@ -19,21 +19,21 @@ consciousness of them that was exhibited by the Captain, rendered Miss
 Nipper’s position so responsible a one, that she was mightily relieved
 by the conclusion of the service; and was hardly so affable to Mr Toots
 as usual, when he informed her and the Captain, on the way back, that
-now he was sure he had no hope, you know, he felt more comfortable—at
+now he was sure he had no [[Hope|hope]], you know, he felt more comfortable—at
 least not exactly more comfortable, but more comfortably and completely
 miserable.
 
-Swiftly now, indeed, the time flew by until it was the evening before
-the day appointed for the marriage. They were all assembled in the
-upper room at the Midshipman’s, and had no fear of interruption; for
-there were no lodgers in the house now, and the Midshipman had it all
-to himself. They were grave and quiet in the prospect of to-morrow, but
+Swiftly now, indeed, the [[Time|time]] flew by until it was the evening before
+the day appointed for the [[Marriage|marriage]]. They were all assembled in the
+upper room at the Midshipman’s, and had no [[Fear|fear]] of interruption; for
+there were no lodgers in the [[house]] now, and the Midshipman had it all
+to himself. They were [[Grave|grave]] and quiet in the prospect of to-morrow, but
 moderately cheerful too. Florence, with Walter close beside her, was
 finishing a little piece of work intended as a parting gift to the
 Captain. The Captain was playing cribbage with Mr Toots. Mr Toots was
-taking counsel as to his hand, of Susan Nipper. Miss Nipper was giving
+taking counsel as to his hand, of [[Susan Nipper]]. Miss Nipper was giving
 it, with all due secrecy and circumspection. Diogenes was listening,
-and occasionally breaking out into a gruff half-smothered fragment of a
+and occasionally breaking out into a gruff half-smothered [[Fragment|fragment]] of a
 bark, of which he afterwards seemed half-ashamed, as if he doubted
 having any reason for it.
 
@@ -41,7 +41,7 @@ having any reason for it.
 You don’t seem easy in your mind tonight, my boy!”
 
 Diogenes wagged his tail, but pricked up his ears immediately
-afterwards, and gave utterance to another fragment of a bark; for which
+afterwards, and gave utterance to another [[Fragment|fragment]] of a bark; for which
 he apologised to the Captain, by again wagging his tail.
 
 “It’s my opinion, Di,” said the Captain, looking thoughtfully at his
@@ -64,7 +64,7 @@ that had come with Polly into the room.
 
 In another moment, Walter was in the arms of the weather-beaten
 pea-coat. In another moment, Florence was in the arms of the
-weather-beaten pea-coat. In another moment, Captain Cuttle had embraced
+weather-beaten pea-coat. In another moment, [[Captain Cuttle]] had embraced
 Mrs Richards and Miss Nipper, and was violently shaking hands with Mr
 Toots, exclaiming, as he waved his hook above his head, “Hooroar, my
 lad, hooroar!” To which Mr Toots, wholly at a loss to account for these
@@ -76,7 +76,7 @@ comforter belonging to it, turned from the Captain and from Florence
 back to Walter, and sounds came from the weather-beaten pea-coat, cap,
 and comforter, as of an old man sobbing underneath them; while the
 shaggy sleeves clasped Walter tight. During this pause, there was an
-universal silence, and the Captain polished his nose with great
+universal [[Silence|silence]], and the Captain polished his nose with great
 diligence. But when the pea-coat, cap, and comforter lifted themselves
 up again, Florence gently moved towards them; and she and Walter taking
 them off, disclosed the old Instrument-maker, a little thinner and more
@@ -102,20 +102,20 @@ have woke me too soon, I must slumber again. Scatter his ene-mies, and
 make ’em fall!”
 
 The Captain sat down with the air of a man who had happily expressed
-the feeling of everybody present, and immediately rose again to present
+the feeling of everybody present, and immediately [[Rose|rose]] again to present
 Mr Toots, who was much disconcerted by the arrival of anybody,
 appearing to prefer a claim to the name of Gills.
 
 “Although,” stammered Mr Toots, “I had not the pleasure of your
 acquaintance, Sir, before you were—you were—”
 
-“Lost to sight, to memory dear,” suggested the Captain, in a low voice.
+“Lost to sight, to [[Memory|memory]] dear,” suggested the Captain, in a low voice.
 
 “Exactly so, Captain Gills!” assented Mr Toots. “Although I had not the
 pleasure of your acquaintance, Mr—Mr Sols,” said Toots, hitting on that
 name in the inspiration of a bright idea, “before that happened, I have
 the greatest pleasure, I assure you, in—you know, in knowing you. I
-hope,” said Mr Toots, “that you’re as well as can be expected.”
+[[Hope|hope]],” said Mr Toots, “that you’re as [[Well|well]] as can be expected.”
 
 With these courteous words, Mr Toots sat down blushing and chuckling.
 
@@ -125,5 +125,5 @@ delight, answered the Captain thus:
 
 “Ned Cuttle, my dear boy, although I have heard something of the
 changes of events here, from my pleasant friend there—what a pleasant
-face she has to be sure, to welcome a wanderer home!” said the old man,
+face she has to be sure, to welcome a wanderer [[Home|home]]!” said the old man,
 breaking off, and rubbing his hands in his old dreamy way.

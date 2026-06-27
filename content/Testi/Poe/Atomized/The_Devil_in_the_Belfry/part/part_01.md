@@ -1,5 +1,5 @@
 ---
-title: "The Devil in the Belfry (part 1)"
+title: "[[The Devil in the Belfry]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Devil-in-the-Belfry-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-What o’clock is it?—_Old Saying_.
+What o’[[Clock|clock]] is it?—_Old Saying_.
 
 
 
@@ -32,15 +32,15 @@ What o’clock is it?—_Old Saying_.
 
       proper that I should enter into some account of it. And this is
 
-      indeed the more necessary, as with the hope of enlisting public
+      indeed the more necessary, as with the [[Hope|hope]] of enlisting public
 
       sympathy in behalf of the inhabitants, I design here to give a
 
-      history of the calamitous events which have so lately occurred
+      [[history]] of the calamitous events which have so lately occurred
 
-      within its limits. No one who knows me will doubt that the duty
+      within its limits. No one who knows me will [[Doubt|doubt]] that the duty
 
-      thus self-imposed will be executed to the best of my ability,
+      thus [[Self|self]]-imposed will be executed to the best of my ability,
 
       with all that rigid impartiality, all that cautious examination
 
@@ -88,11 +88,11 @@ What o’clock is it?—_Old Saying_.
 
       Donder—Votteimittis, quasi und Bleitziz—Bleitziz obsol:—pro
 
-      Blitzen.” This derivative, to say the truth, is still
+      Blitzen.” This derivative, to say the [[Truth|truth]], is still
 
       countenanced by some traces of the electric fluid evident on the
 
-      summit of the steeple of the House of the Town-Council. I do not
+      summit of the steeple of the [[house|House]] of the Town-Council. I do not
 
       choose, however, to commit myself on a theme of such importance,
 
@@ -114,7 +114,7 @@ What o’clock is it?—_Old Saying_.
 
       foundation of Vondervotteimittis, and the derivation of its name,
 
-      there can be no doubt, as I said before, that it has always
+      there can be no [[Doubt|doubt]], as I said before, that it has always
 
       existed as we find it at this epoch. The oldest man in the
 
@@ -144,9 +144,9 @@ What o’clock is it?—_Old Saying_.
 
       of course, to the centre of the plain, which is just sixty yards
 
-      from the front door of each dwelling. Every house has a small
+      from the front door of each dwelling. Every [[house]] has a small
 
-      garden before it, with a circular path, a sun-dial, and
+      [[Garden|garden]] before it, with a circular path, a sun-dial, and
 
       twenty-four cabbages. The buildings themselves are so precisely
 
@@ -162,7 +162,7 @@ What o’clock is it?—_Old Saying_.
 
       upon a great scale. The gables are turned to the front, and there
 
-      are cornices, as big as all the rest of the house, over the eaves
+      are cornices, as big as all the rest of the [[house]], over the eaves
 
       and over the main doors. The windows are narrow and deep, with
 
@@ -172,13 +172,13 @@ What o’clock is it?—_Old Saying_.
 
       is of a dark hue and there is much carving about it, with but a
 
-      trifling variety of pattern for, time out of mind, the carvers of
+      trifling variety of pattern for, [[Time|time]] out of mind, the carvers of
 
       Vondervotteimittiss have never been able to carve more than two
 
-      objects—a time-piece and a cabbage. But these they do exceedingly
+      objects—a [[Time|time]]-piece and a cabbage. But these they do exceedingly
 
-      well, and intersperse them, with singular ingenuity, wherever
+      [[Well|well]], and intersperse them, with singular ingenuity, wherever
 
       they find room for the chisel.
 
@@ -192,12 +192,12 @@ What o’clock is it?—_Old Saying_.
 
       feet. The mantelpieces are wide and high, and have not only
 
-      time-pieces and cabbages sculptured over the front, but a real
+      [[Time|time]]-pieces and cabbages sculptured over the front, but a real
 
-      time-piece, which makes a prodigious ticking, on the top in the
+      [[Time|time]]-piece, which makes a prodigious ticking, on the top in the
 
       middle, with a flower-pot containing a cabbage standing on each
 
       extremity by way of outrider. Between each cabbage and the
 
-      time-piece, again, is a little China man having a large stomach
+      [[Time|time]]-piece, again, is a little China man having a large stomach

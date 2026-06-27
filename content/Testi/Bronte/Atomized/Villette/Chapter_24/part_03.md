@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 24 (part 3)"
+title: "[[Villette]] — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,17 +15,17 @@ tags:
 
 
 Drawing near, bending and looking on the letter, in trembling but
-almost certain hope of seeing a known hand, it was my lot to find, on
+almost certain [[Hope|hope]] of seeing a known hand, it was my lot to find, on
 the contrary, an autograph for the moment deemed unknown—a pale female
 scrawl, instead of a firm, masculine character. I then thought fate was
 _too_ hard for me, and I said, audibly, “This is cruel.”
 
-But I got over that pain also. Life is still life, whatever its pangs:
+But I got over that [[Pain|pain]] also. Life is still life, whatever its pangs:
 our eyes and ears and their use remain with us, though the prospect of
 what pleases be wholly withdrawn, and the sound of what consoles be
 quite silenced.
 
-I opened the billet: by this time I had recognised its handwriting as
+I opened the billet: by this [[Time|time]] I had recognised its handwriting as
 perfectly familiar. It was dated “La Terrasse,” and it ran thus:—
 
 “DEAR LUCY,—It occurs to me to inquire what you have been doing with
@@ -40,10 +40,10 @@ Lucy, he is a fine fellow: his mother’s heart dances at the sight of
 him. After being hurried here and there the whole day, and passing the
 ordeal of fifty sorts of tempers, and combating a hundred caprices, and
 sometimes witnessing cruel sufferings—perhaps, occasionally, as I tell
-him, inflicting them—at night he still comes home to me in such kindly,
+him, inflicting them—at [[Night|night]] he still comes [[Home|home]] to me in such kindly,
 pleasant mood, that really, I seem to live in a sort of moral
 antipodes, and on these January evenings my day rises when other
-people’s night sets in.
+people’s [[Night|night]] sets in.
     “Still he needs keeping in order, and correcting, and repressing,
     and I do him that good service; but the boy is so elastic there is
     no such thing as vexing him thoroughly. When I think I have at last
@@ -56,18 +56,18 @@ people’s night sets in.
     left him. He laughs to scorn my anxiety on this point, bidding me
     look and see how he can provide for himself and me too, and asking
     what the old lady can possibly want that she has not; hinting about
-    sky-blue turbans; accusing me of an ambition to wear diamonds, keep
+    sky-blue turbans; accusing me of an [[Ambition|ambition]] to wear diamonds, keep
     livery servants, have an hotel, and lead the fashion amongst the
-    English clan in Villette.
+    English clan in [[Villette]].
     “Talking of sky-blue turbans, I wish you had been with us the other
     evening. He had come in really tired, and after I had given him his
     tea, he threw himself into my chair with his customary presumption.
     To my great delight, he dropped asleep. (You know how he teases me
     about being drowsy; I, who never, by any chance, close an eye by
     daylight.) While he slept, I thought he looked very bonny, Lucy:
-    fool as I am to be so proud of him; but who can help it? Show me
-    his peer. Look where I will, I see nothing like him in Villette.
-    Well, I took it into my head to play him a trick: so I brought out
+    [[Fool|fool]] as I am to be so proud of him; but who can help it? Show me
+    his peer. Look where I will, I see nothing like him in [[Villette]].
+    [[Well]], I took it into my head to play him a trick: so I brought out
     the sky-blue turban, and handling it with gingerly precaution, I
     managed to invest his brows with this grand adornment. I assure you
     it did not at all misbecome him; he looked quite Eastern, except
@@ -76,15 +76,15 @@ people’s night sets in.
     I put my large cashmere about him, there was as fine a young bey,
     dey, or pacha improvised as you would wish to see.
     “It was good entertainment; but only half-enjoyed, since I was
-    alone: you should have been there.
-    “In due time my lord awoke: the looking-glass above the fireplace
+    [[Alone|alone]]: you should have been there.
+    “In due [[Time|time]] my lord awoke: the looking-glass above the fireplace
     soon intimated to him his plight: as you may imagine, I now live
     under threat and dread of vengeance.
-    “But to come to the gist of my letter. I know Thursday is a
+    “But to come to the gist of my letter. I know [[thursday|Thursday]] is a
     half-holiday in the Rue Fossette: be ready, then, by five in the
     afternoon, at which hour I will send the carriage to take you out
     to La Terrasse. Be sure to come: you may meet some old
-    acquaintance. Good-by, my wise, dear, grave little
+    acquaintance. Good-by, my wise, dear, [[Grave|grave]] little
     god-daughter.—Very truly yours,
 
 
@@ -93,26 +93,26 @@ people’s night sets in.
 
 Now, a letter like that sets one to rights! I might still be sad after
 reading that letter, but I was more composed; not exactly cheered,
-perhaps, but relieved. My friends, at least, were well and happy: no
+perhaps, but relieved. My friends, at least, were [[Well|well]] and happy: no
 accident had occurred to Graham; no illness had seized his
 mother—calamities that had so long been my dream and thought. Their
 feelings for me too were—as they had been. Yet, how strange it was to
 look on Mrs. Bretton’s seven weeks and contrast them with my seven
 weeks! Also, how very wise it is in people placed in an exceptional
 position to hold their tongues and not rashly declare how such position
-galls them! The world can understand well enough the process of
+galls them! The world can understand [[Well|well]] enough the process of
 perishing for want of food: perhaps few persons can enter into or
 follow out that of going mad from solitary confinement. They see the
 long-buried prisoner disinterred, a maniac or an idiot!—how his senses
 left him—how his nerves, first inflamed, underwent nameless agony, and
 then sunk to palsy—is a subject too intricate for examination, too
 abstract for popular comprehension. Speak of it! you might almost as
-well stand up in an European market-place, and propound dark sayings in
+[[Well|well]] stand up in an European market-place, and propound dark sayings in
 that language and mood wherein Nebuchadnezzar, the imperial
 hypochondriac, communed with his baffled Chaldeans. And long, long may
 the minds to whom such themes are no mystery—by whom their bearings are
 sympathetically seized—be few in number, and rare of rencounter. Long
-may it be generally thought that physical privations alone merit
+may it be generally thought that physical privations [[Alone|alone]] merit
 compassion, and that the rest is a figment. When the world was younger
 and haler than now, moral trials were a deeper mystery still: perhaps
 in all the land of Israel there was but one Saul—certainly but one

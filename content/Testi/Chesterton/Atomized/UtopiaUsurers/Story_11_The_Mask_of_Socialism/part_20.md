@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 20)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 20)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -40,7 +40,7 @@ THE TYRANNY OF BAD JOURNALISM
 
 
 
-The amazing decision of the Government to employ methods quite alien to
+The amazing decision of the [[government|Government]] to employ methods quite alien to
 
 England, and rather belonging to the police of the Continent, probably
 
@@ -64,7 +64,7 @@ considered as journalism.
 
 
 
-It always takes a considerable time to see the simple and central fact
+It always takes a considerable [[Time|time]] to see the simple and central fact
 
 about anything. All sorts of things have been said about the modern
 
@@ -94,7 +94,7 @@ the ordinary purchaser of news the practical effects of a corner and
 
 a monopoly. He receives all his political information and all
 
-his political marching orders from what is by this time a sort of
+his political marching orders from what is by this [[Time|time]] a sort of
 
 half-conscious secret society, with very few members, but a great deal
 
@@ -108,11 +108,11 @@ legends that have passed into common speech. There is the notion that
 
 the Press is flashy or trivial _because_ it is popular. In other words,
 
-an attempt is made to discredit democracy by representing journalism
+an attempt is made to discredit [[Democracy|democracy]] by representing journalism
 
-as the natural literature of democracy. All this is cold rubbish.
+as the natural literature of [[Democracy|democracy]]. All this is cold rubbish.
 
-The democracy has no more to do with the papers than it has with the
+The [[Democracy|democracy]] has no more to do with the papers than it has with the
 
 peerages. The millionaire newspapers are vulgar and silly because the
 
@@ -120,11 +120,11 @@ millionaires are vulgar and silly. It is the proprietor, not the editor,
 
 not the sub-editor, least of all the reader, who is pleased with this
 
-monotonous prairie of printed words. The same slander on democracy can
+monotonous prairie of printed words. The same slander on [[Democracy|democracy]] can
 
 be noticed in the case of advertisements. There is many a tender old
 
-Tory imagination that vaguely feels that our streets would be hung with
+Tory [[Imagination|imagination]] that vaguely feels that our streets would be hung with
 
 escutcheons and tapestries, if only the profane vulgar had not hung them
 
@@ -138,7 +138,7 @@ proclamations in favour of Sapolio? Did you ever see a poor, ragged
 
 man laboriously drawing and painting a picture on the wall in favour
 
-of Sunlight Soap--simply as a labour of love? It is nonsense; those who
+of Sunlight Soap--simply as a labour of [[Love|love]]? It is nonsense; those who
 
 hang our public walls with ugly pictures are the same select few who
 
@@ -166,7 +166,7 @@ chooses. In the old days, when Parliaments were free in England, it
 
 was discovered that one courtier was allowed to sell all the silk, and
 
-another to sell all the sweet wine. A member of the House of Commons
+another to sell all the sweet wine. A member of the [[house|House]] of Commons
 
 humorously asked who was allowed to sell all the bread. I really tremble
 
@@ -174,15 +174,15 @@ to think what that sarcastic legislator would have said if he had been
 
 put off with the modern nonsense about "gauging the public taste."
 
-Suppose the first courtier had said that, by his shrewd, self-made
+Suppose the first courtier had said that, by his shrewd, [[Self|self]]-made
 
-sense, he had detected that people had a vague desire for silk; and
+sense, he had detected that people had a vague [[Desire|desire]] for silk; and
 
-even a deep, dim human desire to pay so much a yard for it! Suppose
+even a deep, dim human [[Desire|desire]] to pay so much a yard for it! Suppose
 
 the second courtier said that he had, by his own rugged intellect,
 
-discovered a general desire for wine: and that people bought his wine
+discovered a general [[Desire|desire]] for wine: and that people bought his wine
 
 at his price--when they could buy no other! Suppose a third courtier had
 
@@ -192,19 +192,19 @@ get none anywhere else.
 
 
 
-Well, that is a perfect parallel. "After bread, the need of the people
+[[Well]], that is a perfect parallel. "After bread, the need of the people
 
 is knowledge," said Danton. Knowledge is now a monopoly, and comes
 
 through to the citizens in thin and selected streams, exactly as bread
 
-might come through to a besieged city. Men must wish to know what is
+might come through to a besieged [[City|city]]. Men must wish to know what is
 
 happening, whoever has the privilege of telling them. They must listen
 
 to the messenger, even if he is a liar. They must listen to the liar,
 
-even if he is a bore. The official journalist for some time past has
+even if he is a bore. The official journalist for some [[Time|time]] past has
 
 been both a bore and a liar; but it was impossible until lately to
 

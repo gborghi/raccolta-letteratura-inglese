@@ -16,7 +16,7 @@ tags:
 
 ‘Go down-stairs, and leave me a moment, Hexam,’ he returned. The boy
 complying with an indignant look and as much noise as he could make,
-swung out of the room; and Lightwood went to the window, and leaned
+swung out of the room; and Lightwood went to the [[Window|window]], and leaned
 there, looking out.
 
 ‘You think me of no more value than the dirt under your feet,’ said
@@ -29,11 +29,11 @@ he could not have spoken at all.
 
 ‘That’s coarse,’ Eugene retorted; ‘but you DON’T know better.’
 
-‘Mr Wrayburn, at least I know very well that it would be idle to set
+‘Mr Wrayburn, at least I know very [[Well|well]] that it would be idle to set
 myself against you in insolent words or overbearing manners. That lad
 who has just gone out could put you to shame in half-a-dozen branches of
 knowledge in half an hour, but you can throw him aside like an inferior.
-You can do as much by me, I have no doubt, beforehand.’
+You can do as much by me, I have no [[Doubt|doubt]], beforehand.’
 
 ‘Possibly,’ remarked Eugene.
 
@@ -45,8 +45,8 @@ ought to content you.’
 
 ‘But it does not content me,’ replied the other, white with passion. ‘Do
 you suppose that a man, in forming himself for the duties I discharge,
-and in watching and repressing himself daily to discharge them well,
-dismisses a man’s nature?’
+and in watching and repressing himself daily to discharge them [[Well|well]],
+dismisses a man’s [[Nature|nature]]?’
 
 ‘I suppose you,’ said Eugene, ‘judging from what I see as I look at you,
 to be rather too passionate for a good schoolmaster.’ As he spoke, he
@@ -61,7 +61,7 @@ respect myself for being. But I have not Devils for my pupils.’
 
 ‘Schoolmaster.’
 
-‘Sir, my name is Bradley Headstone.’
+‘Sir, my name is [[Bradley Headstone]].’
 
 ‘As you justly said, my good sir, your name cannot concern me. Now, what
 more?’
@@ -74,10 +74,10 @@ in a day can so command himself!’ He said it in a very agony, and even
 followed it with an errant motion of his hands as if he could have torn
 himself.
 
-Eugene Wrayburn looked on at him, as if he found him beginning to be
+[[Eugene Wrayburn]] looked on at him, as if he found him beginning to be
 rather an entertaining study.
 
-‘Mr Wrayburn, I desire to say something to you on my own part.’
+‘Mr Wrayburn, I [[Desire|desire]] to say something to you on my own part.’
 
 ‘Come, come, Schoolmaster,’ returned Eugene, with a languid approach to
 impatience as the other again struggled with himself; ‘say what you have
@@ -87,7 +87,7 @@ young friend waiting for you on the stairs.’
 ‘When I accompanied that youth here, sir, I did so with the purpose of
 adding, as a man whom you should not be permitted to put aside, in case
 you put him aside as a boy, that his instinct is correct and right.’
-Thus Bradley Headstone, with great effort and difficulty.
+Thus [[Bradley Headstone]], with great effort and difficulty.
 
 ‘Is that all?’ asked Eugene.
 
@@ -101,25 +101,25 @@ do for her.’
 ‘No, sir. I determined to tell you that you are not justified in these
 proceedings, and that they are injurious to his sister.’
 
-‘Are you her schoolmaster as well as her brother’s?—Or perhaps you
+‘Are you her schoolmaster as [[Well|well]] as her brother’s?—Or perhaps you
 would like to be?’ said Eugene.
 
-It was a stab that the blood followed, in its rush to Bradley
+It was a stab that the [[Blood|blood]] followed, in its rush to Bradley
 Headstone’s face, as swiftly as if it had been dealt with a dagger.
 ‘What do you mean by that?’ was as much as he could utter.
 
-‘A natural ambition enough,’ said Eugene, coolly. ‘Far be it from me
+‘A natural [[Ambition|ambition]] enough,’ said Eugene, coolly. ‘Far be it from me
 to say otherwise. The sister who is something too much upon your lips,
 perhaps—is so very different from all the associations to which she had
 been used, and from all the low obscure people about her, that it is a
-very natural ambition.’
+very natural [[Ambition|ambition]].’
 
 ‘Do you throw my obscurity in my teeth, Mr Wrayburn?’
 
 ‘That can hardly be, for I know nothing concerning it, Schoolmaster, and
 seek to know nothing.’
 
-‘You reproach me with my origin,’ said Bradley Headstone; ‘you cast
+‘You reproach me with my origin,’ said [[Bradley Headstone]]; ‘you cast
 insinuations at my bringing-up. But I tell you, sir, I have worked my
 way onward, out of both and in spite of both, and have a right to be
 considered a better man than you, with better reasons for being proud.’
@@ -147,7 +147,7 @@ him. My hand and heart are in this cause, and are open to him.’
 ‘And—quite a coincidence—the door is open,’ remarked Eugene.
 
 ‘I scorn your shifty evasions, and I scorn you,’ said the schoolmaster.
-‘In the meanness of your nature you revile me with the meanness of my
+‘In the meanness of your [[Nature|nature]] you revile me with the meanness of my
 birth. I hold you in contempt for it. But if you don’t profit by this
 visit, and act accordingly, you will find me as bitterly in earnest
 against you as I could be if I deemed you worth a second thought on my

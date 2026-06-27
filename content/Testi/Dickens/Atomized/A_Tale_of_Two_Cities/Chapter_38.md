@@ -39,7 +39,7 @@ list, making a similar short pause at each name. There were twenty-three
 names, but only twenty were responded to; for one of the prisoners so
 summoned had died in gaol and been forgotten, and two had already been
 guillotined and forgotten. The list was read, in the vaulted chamber
-where Darnay had seen the associated prisoners on the night of his
+where Darnay had seen the associated prisoners on the [[Night|night]] of his
 arrival. Every one of those had perished in the massacre; every human
 creature he had since cared for and parted with, had died on the
 scaffold.
@@ -47,24 +47,24 @@ scaffold.
 There were hurried words of farewell and kindness, but the parting was
 soon over. It was the incident of every day, and the society of La Force
 were engaged in the preparation of some games of forfeits and a little
-concert, for that evening. They crowded to the grates and shed tears
+concert, for that evening. They crowded to the grates and shed [[Tears|tears]]
 there; but, twenty places in the projected entertainments had to be
-refilled, and the time was, at best, short to the lock-up hour, when the
-common rooms and corridors would be delivered over to the great dogs
-who kept watch there through the night. The prisoners were far from
+refilled, and the [[Time|time]] was, at best, short to the lock-up hour, when the
+common rooms and corridors would be delivered over to the great [[dogs]]
+who kept watch there through the [[Night|night]]. The prisoners were far from
 insensible or unfeeling; their ways arose out of the condition of the
-time. Similarly, though with a subtle difference, a species of fervour
-or intoxication, known, without doubt, to have led some persons to
+[[Time|time]]. Similarly, though with a subtle difference, a species of fervour
+or intoxication, known, without [[Doubt|doubt]], to have led some persons to
 brave the guillotine unnecessarily, and to die by it, was not mere
 boastfulness, but a wild infection of the wildly shaken public mind. In
-seasons of pestilence, some of us will have a secret attraction to the
+[[Seasons|seasons]] of pestilence, some of us will have a secret attraction to the
 disease--a terrible passing inclination to die of it. And all of us have
 like wonders hidden in our breasts, only needing circumstances to evoke
 them.
 
-The passage to the Conciergerie was short and dark; the night in its
+The passage to the Conciergerie was short and dark; the [[Night|night]] in its
 vermin-haunted cells was long and cold. Next day, fifteen prisoners were
-put to the bar before Charles Darnay’s name was called. All the fifteen
+put to the bar before [[Charles Darnay]]’s name was called. All the fifteen
 were condemned, and the trials of the whole occupied an hour and a half.
 
 “Charles Evrémonde, called Darnay,” was at length arraigned.
@@ -73,7 +73,7 @@ His judges sat upon the Bench in feathered hats; but the rough red cap
 and tricoloured cockade was the head-dress otherwise prevailing. Looking
 at the Jury and the turbulent audience, he might have thought that the
 usual order of things was reversed, and that the felons were trying the
-honest men. The lowest, cruelest, and worst populace of a city, never
+honest men. The lowest, cruelest, and worst populace of a [[City|city]], never
 without its quantity of low, cruel, and bad, were the directing
 spirits of the scene: noisily commenting, applauding, disapproving,
 anticipating, and precipitating the result, without a check. Of the men,
@@ -87,21 +87,21 @@ his ear, and that she seemed to be his wife; but, what he most noticed
 in the two figures was, that although they were posted as close to
 himself as they could be, they never looked towards him. They seemed to
 be waiting for something with a dogged determination, and they looked at
-the Jury, but at nothing else. Under the President sat Doctor Manette,
-in his usual quiet dress. As well as the prisoner could see, he and Mr.
+the Jury, but at nothing else. Under the President sat [[Doctor Manette]],
+in his usual quiet dress. As [[Well|well]] as the prisoner could see, he and Mr.
 Lorry were the only men there, unconnected with the Tribunal, who
 wore their usual clothes, and had not assumed the coarse garb of the
 Carmagnole.
 
 Charles Evrémonde, called Darnay, was accused by the public prosecutor
 as an emigrant, whose life was forfeit to the Republic, under the decree
-which banished all emigrants on pain of Death. It was nothing that the
+which banished all emigrants on [[Pain|pain]] of [[Death]]. It was nothing that the
 decree bore date since his return to France. There he was, and there was
 the decree; he had been taken in France, and his head was demanded.
 
 “Take off his head!” cried the audience. “An enemy to the Republic!”
 
-The President rang his bell to silence those cries, and asked the
+The President rang his bell to [[Silence|silence]] those cries, and asked the
 prisoner whether it was not true that he had lived many years in
 England?
 
@@ -134,19 +134,19 @@ Yes. By birth.
 
 Her name and family?
 
-“Lucie Manette, only daughter of Doctor Manette, the good physician who
+“[[Lucie Manette]], only daughter of [[Doctor Manette]], the good physician who
 sits there.”
 
 This answer had a happy effect upon the audience. Cries in exaltation
-of the well-known good physician rent the hall. So capriciously were
-the people moved, that tears immediately rolled down several ferocious
+of the [[Well|well]]-known good physician rent the hall. So capriciously were
+the people moved, that [[Tears|tears]] immediately rolled down several ferocious
 countenances which had been glaring at the prisoner a moment before, as
 if with impatience to pluck him out into the streets and kill him.
 
-On these few steps of his dangerous way, Charles Darnay had set his foot
-according to Doctor Manette’s reiterated instructions. The same cautious
+On these few steps of his dangerous way, [[Charles Darnay]] had set his foot
+according to [[Doctor Manette]]’s reiterated instructions. The same cautious
 counsel directed every step that lay before him, and had prepared every
-inch of his road.
+inch of his [[Road|road]].
 
 The President asked, why had he returned to France when he did, and not
 sooner?
@@ -157,7 +157,7 @@ he lived by giving instruction in the French language and literature.
 He had returned when he did, on the pressing and written entreaty of
 a French citizen, who represented that his life was endangered by his
 absence. He had come back, to save a citizen’s life, and to bear his
-testimony, at whatever personal hazard, to the truth. Was that criminal
+testimony, at whatever personal hazard, to the [[Truth|truth]]. Was that criminal
 in the eyes of the Republic?
 
 The populace cried enthusiastically, “No!” and the President rang his
@@ -167,7 +167,7 @@ bell to quiet them. Which it did not, for they continued to cry “No!”
 The President required the name of that citizen. The accused explained
 that the citizen was his first witness. He also referred with confidence
 to the citizen’s letter, which had been taken from him at the Barrier,
-but which he did not doubt would be found among the papers then before
+but which he did not [[Doubt|doubt]] would be found among the papers then before
 the President.
 
 The Doctor had taken care that it should be there--had assured him that
@@ -176,23 +176,23 @@ and read. Citizen Gabelle was called to confirm it, and did so. Citizen
 Gabelle hinted, with infinite delicacy and politeness, that in the
 pressure of business imposed on the Tribunal by the multitude of
 enemies of the Republic with which it had to deal, he had been slightly
-overlooked in his prison of the Abbaye--in fact, had rather passed out
+overlooked in his [[Prison|prison]] of the Abbaye--in fact, had rather passed out
 of the Tribunal’s patriotic remembrance--until three days ago; when he
 had been summoned before it, and had been set at liberty on the Jury’s
 declaring themselves satisfied that the accusation against him was
 answered, as to himself, by the surrender of the citizen Evrémonde,
 called Darnay.
 
-Doctor Manette was next questioned. His high personal popularity,
+[[Doctor Manette]] was next questioned. His high personal popularity,
 and the clearness of his answers, made a great impression; but, as he
 proceeded, as he showed that the Accused was his first friend on his
-release from his long imprisonment; that, the accused had remained in
+release from his long [[Imprisonment|imprisonment]]; that, the accused had remained in
 England, always faithful and devoted to his daughter and himself in
-their exile; that, so far from being in favour with the Aristocrat
-government there, he had actually been tried for his life by it, as
+their [[Exile|exile]]; that, so far from being in favour with the [[aristocrat|Aristocrat]]
+[[government]] there, he had actually been tried for his life by it, as
 the foe of England and friend of the United States--as he brought these
 circumstances into view, with the greatest discretion and with the
-straightforward force of truth and earnestness, the Jury and the
+straightforward force of [[Truth|truth]] and earnestness, the Jury and the
 populace became one. At last, when he appealed by name to Monsieur
 Lorry, an English gentleman then and there present, who, like himself,
 had been a witness on that English trial and could corroborate his
@@ -206,15 +206,15 @@ favour, and the President declared him free.
 
 Then, began one of those extraordinary scenes with which the populace
 sometimes gratified their fickleness, or their better impulses towards
-generosity and mercy, or which they regarded as some set-off against
+generosity and [[Mercy|mercy]], or which they regarded as some set-off against
 their swollen account of cruel rage. No man can decide now to which of
 these motives such extraordinary scenes were referable; it is probable,
 to a blending of all the three, with the second predominating. No sooner
-was the acquittal pronounced, than tears were shed as freely as blood
-at another time, and such fraternal embraces were bestowed upon the
+was the acquittal pronounced, than [[Tears|tears]] were shed as freely as [[Blood|blood]]
+at another [[Time|time]], and such fraternal embraces were bestowed upon the
 prisoner by as many of both sexes as could rush at him, that after
 his long and unwholesome confinement he was in danger of fainting from
-exhaustion; none the less because he knew very well, that the very same
+exhaustion; none the less because he knew very [[Well|well]], that the very same
 people, carried by another current, would have rushed at him with
 the very same intensity, to rend him to pieces and strew him over the
 streets.
@@ -225,24 +225,24 @@ together, next, as enemies of the Republic, forasmuch as they had not
 assisted it by word or deed. So quick was the Tribunal to compensate
 itself and the nation for a chance lost, that these five came down to
 him before he left the place, condemned to die within twenty-four
-hours. The first of them told him so, with the customary prison sign
-of Death--a raised finger--and they all added in words, “Long live the
+hours. The first of them told him so, with the customary [[Prison|prison]] sign
+of [[Death]]--a raised finger--and they all added in words, “Long live the
 Republic!”
 
 The five had had, it is true, no audience to lengthen their proceedings,
-for when he and Doctor Manette emerged from the gate, there was a great
+for when he and [[Doctor Manette]] emerged from the gate, there was a great
 crowd about it, in which there seemed to be every face he had seen in
-Court--except two, for which he looked in vain. On his coming out, the
+[[Court]]--except two, for which he looked in vain. On his coming out, the
 concourse made at him anew, weeping, embracing, and shouting, all by
-turns and all together, until the very tide of the river on the bank of
+turns and all together, until the very tide of the [[River|river]] on the bank of
 which the mad scene was acted, seemed to run mad, like the people on the
 shore.
 
 They put him into a great chair they had among them, and which they had
-taken either out of the Court itself, or one of its rooms or passages.
-Over the chair they had thrown a red flag, and to the back of it they
+taken either out of the [[Court]] itself, or one of its rooms or passages.
+Over the chair they had thrown a red [[Flag|flag]], and to the back of it they
 had bound a pike with a red cap on its top. In this car of triumph, not
-even the Doctor’s entreaties could prevent his being carried to his home
+even the Doctor’s entreaties could prevent his being carried to his [[Home|home]]
 on men’s shoulders, with a confused sea of red caps heaving about him,
 and casting up to sight from the stormy deep such wrecks of faces, that
 he more than once misdoubted his mind being in confusion, and that he
@@ -251,18 +251,18 @@ was in the tumbril on his way to the Guillotine.
 In wild dreamlike procession, embracing whom they met and pointing
 him out, they carried him on. Reddening the snowy streets with the
 prevailing Republican colour, in winding and tramping through them, as
-they had reddened them below the snow with a deeper dye, they carried
+they had reddened them below the [[Snow|snow]] with a deeper dye, they carried
 him thus into the courtyard of the building where he lived. Her father
 had gone on before, to prepare her, and when her husband stood upon his
 feet, she dropped insensible in his arms.
 
 As he held her to his heart and turned her beautiful head between his
-face and the brawling crowd, so that his tears and her lips might come
+face and the brawling crowd, so that his [[Tears|tears]] and her lips might come
 together unseen, a few of the people fell to dancing. Instantly, all the
 rest fell to dancing, and the courtyard overflowed with the Carmagnole.
 Then, they elevated into the vacant chair a young woman from the
 crowd to be carried as the Goddess of Liberty, and then swelling and
-overflowing out into the adjacent streets, and along the river’s bank,
+overflowing out into the adjacent streets, and along the [[River|river]]’s bank,
 and over the bridge, the Carmagnole absorbed them every one and whirled
 them away.
 
@@ -287,6 +287,6 @@ could have done what he has done for me.”
 
 She laid her head upon her father’s breast, as she had laid his poor
 head on her own breast, long, long ago. He was happy in the return he
-had made her, he was recompensed for his suffering, he was proud of his
+had made her, he was recompensed for his [[Suffering|suffering]], he was proud of his
 strength. “You must not be weak, my darling,” he remonstrated; “don’t
 tremble so. I have saved him.”

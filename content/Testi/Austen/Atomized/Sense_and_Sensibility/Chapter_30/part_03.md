@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 30 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 30 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -18,7 +18,7 @@ tags:
 
 complaints for which it was recommended, “how good you are! But I have
 
-just left Marianne in bed, and, I hope, almost asleep; and as I think
+just left Marianne in bed, and, I [[Hope|hope]], almost asleep; and as I think
 
 nothing will be of so much service to her as rest, if you will give me
 
@@ -40,7 +40,7 @@ as on her sister.
 
 
 
-Colonel Brandon came in while the party were at tea, and by his manner
+[[Colonel Brandon]] came in while the party were at tea, and by his manner
 
 of looking round the room for Marianne, Elinor immediately fancied that
 
@@ -52,7 +52,7 @@ struck by the same thought; for soon after his entrance, she walked
 
 across the room to the tea-table where Elinor presided, and whispered,
 
-“The Colonel looks as grave as ever you see. He knows nothing of it; do
+“The Colonel looks as [[Grave|grave]] as ever you see. He knows nothing of it; do
 
 tell him, my dear.”
 
@@ -66,7 +66,7 @@ sister.
 
 
 
-“Marianne is not well,” said she. “She has been indisposed all day, and
+“Marianne is not [[Well|well]],” said she. “She has been indisposed all day, and
 
 we have persuaded her to go to bed.”
 
@@ -74,7 +74,7 @@ we have persuaded her to go to bed.”
 
 “Perhaps, then,” he hesitatingly replied, “what I heard this morning
 
-may be—there may be more truth in it than I could believe possible at
+may be—there may be more [[Truth|truth]] in it than I could believe possible at
 
 first.”
 
@@ -94,7 +94,7 @@ already, as surely you must, I may be spared.”
 
 “You mean,” answered Elinor, with forced calmness, “Mr. Willoughby’s
 
-marriage with Miss Grey. Yes, we _do_ know it all. This seems to have
+[[Marriage|marriage]] with Miss Grey. Yes, we _do_ know it all. This seems to have
 
 been a day of general elucidation, for this very morning first unfolded
 
@@ -110,11 +110,11 @@ an account of the intended match, in a voice so little attempting
 
 concealment, that it was impossible for me not to hear all. The name of
 
-Willoughby, John Willoughby, frequently repeated, first caught my
+Willoughby, [[John Willoughby]], frequently repeated, first caught my
 
 attention; and what followed was a positive assertion that every thing
 
-was now finally settled respecting his marriage with Miss Grey—it was
+was now finally settled respecting his [[Marriage|marriage]] with Miss Grey—it was
 
 no longer to be a secret—it would take place even within a few weeks,
 
@@ -150,7 +150,7 @@ your sister—how did she—”
 
 
 
-“Her sufferings have been very severe. I have only to hope that they
+“Her sufferings have been very severe. I have only to [[Hope|hope]] that they
 
 may be proportionately short. It has been, it is a most cruel
 
@@ -164,7 +164,7 @@ points, there seems a hardness of heart about him.”
 
 
 
-“Ah!” said Colonel Brandon, “there is, indeed! But your sister does
+“Ah!” said [[Colonel Brandon]], “there is, indeed! But your sister does
 
 not—I think you said so—she does not consider quite as you do?”
 
@@ -188,6 +188,6 @@ Dashwood’s communication, in such an instantaneous gaiety on Colonel
 
 Brandon’s side, as might have become a man in the bloom of youth, of
 
-hope and happiness, saw him, with amazement, remain the whole evening
+[[Hope|hope]] and happiness, saw him, with amazement, remain the whole evening
 
 more serious and thoughtful than usual.

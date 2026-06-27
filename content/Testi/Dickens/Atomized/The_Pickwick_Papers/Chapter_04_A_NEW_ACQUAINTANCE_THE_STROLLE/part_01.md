@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,10 +17,10 @@ tags:
 CHAPTER III. A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE
 INTERRUPTION, AND AN UNPLEASANT ENCOUNTER
 
-Mr. Pickwick had felt some apprehensions in consequence of the unusual
+Mr. [[Pickwick]] had felt some apprehensions in consequence of the unusual
 absence of his two friends, which their mysterious behaviour during the
 whole morning had by no means tended to diminish. It was, therefore,
-with more than ordinary pleasure that he rose to greet them when they
+with more than ordinary pleasure that he [[Rose|rose]] to greet them when they
 again entered; and with more than ordinary interest that he inquired
 what had occurred to detain them from his society. In reply to his
 questions on this point, Mr. Snodgrass was about to offer an historical
@@ -29,7 +29,7 @@ checked by observing that there were present, not only Mr. Tupman and
 their stage-coach companion of the preceding day, but another stranger
 of equally singular appearance. It was a careworn-looking man, whose
 sallow face, and deeply-sunken eyes, were rendered still more striking
-than Nature had made them, by the straight black hair which hung in
+than [[Nature]] had made them, by the straight black hair which hung in
 matted disorder half-way down his face. His eyes were almost unnaturally
 bright and piercing; his cheek-bones were high and prominent; and his
 jaws were so long and lank, that an observer would have supposed that he
@@ -42,7 +42,7 @@ his old waistcoat. His upper garment was a long black surtout; and below
 it he wore wide drab trousers, and large boots, running rapidly to seed.
 
 It was on this uncouth-looking person that Mr. Winkle’s eye rested, and
-it was towards him that Mr. Pickwick extended his hand when he said, ‘A
+it was towards him that Mr. [[Pickwick]] extended his hand when he said, ‘A
 friend of our friend’s here. We discovered this morning that our friend
 was connected with the theatre in this place, though he is not desirous
 to have it generally known, and this gentleman is a member of the same
@@ -54,10 +54,10 @@ advancing to Mr. Winkle and speaking in a low and confidential tone.
 ‘Rum fellow--does the heavy business--no actor--strange man--all sorts
 of miseries--Dismal Jemmy, we call him on the circuit.’ Mr. Winkle and
 Mr. Snodgrass politely welcomed the gentleman, elegantly designated as
-‘Dismal Jemmy’; and calling for brandy-and-water, in imitation of the
+‘Dismal Jemmy’; and calling for brandy-and-[[Water|water]], in [[Imitation|imitation]] of the
 remainder of the company, seated themselves at the table.
 
-‘Now sir,’ said Mr. Pickwick, ‘will you oblige us by proceeding with
+‘Now sir,’ said Mr. [[Pickwick]], ‘will you oblige us by proceeding with
 what you were going to relate?’
 
 The dismal individual took a dirty roll of paper from his pocket, and
@@ -75,7 +75,7 @@ there real in either to live or care for?’
 ‘Very true, Sir,’ replied Mr. Snodgrass.
 
 ‘To be before the footlights,’ continued the dismal man, ‘is like
-sitting at a grand court show, and admiring the silken dresses of the
+sitting at a grand [[Court|court]] show, and admiring the silken dresses of the
 gaudy throng; to be behind them is to be the people who make that
 finery, uncared for and unknown, and left to sink or swim, to starve or
 live, as fortune wills it.’
@@ -86,10 +86,10 @@ rested on him, and he felt it necessary to say something.
 ‘Go on, Jemmy,’ said the Spanish traveller, ‘like black-eyed Susan--all
 in the Downs--no croaking--speak out--look lively.’
 
-‘Will you make another glass before you begin, Sir?’ said Mr. Pickwick.
+‘Will you make another glass before you begin, Sir?’ said Mr. [[Pickwick]].
 
 The dismal man took the hint, and having mixed a glass of brandy-and-
-water, and slowly swallowed half of it, opened the roll of paper and
+[[Water|water]], and slowly swallowed half of it, opened the roll of paper and
 proceeded, partly to read, and partly to relate, the following incident,
 which we find recorded on the Transactions of the Club as ‘The
 Stroller’s Tale.’
@@ -100,11 +100,11 @@ THE STROLLER’S TALE
 ‘There is nothing of the marvellous in what I am going to relate,’ said
 the dismal man; ‘there is nothing even uncommon in it. Want and sickness
 are too common in many stations of life to deserve more notice than is
-usually bestowed on the most ordinary vicissitudes of human nature. I
+usually bestowed on the most ordinary vicissitudes of human [[Nature|nature]]. I
 have thrown these few notes together, because the subject of them was
-well known to me for many years. I traced his progress downwards, step
+[[Well|well]] known to me for many years. I traced his progress downwards, step
 by step, until at last he reached that excess of destitution from which
-he never rose again.
+he never [[Rose|rose]] again.
 
 ‘The man of whom I speak was a low pantomime actor; and, like many
 people of his class, an habitual drunkard. In his better days, before he
@@ -112,24 +112,24 @@ had become enfeebled by dissipation and emaciated by disease, he had
 been in the receipt of a good salary, which, if he had been careful and
 prudent, he might have continued to receive for some years--not many;
 because these men either die early, or by unnaturally taxing their
-bodily energies, lose, prematurely, those physical powers on which alone
+bodily energies, lose, prematurely, those physical powers on which [[Alone|alone]]
 they can depend for subsistence. His besetting sin gained so fast upon
 him, however, that it was found impossible to employ him in the
 situations in which he really was useful to the theatre. The public-
-house had a fascination for him which he could not resist. Neglected
-disease and hopeless poverty were as certain to be his portion as death
+[[house]] had a fascination for him which he could not resist. Neglected
+disease and hopeless [[Poverty|poverty]] were as certain to be his portion as [[Death|death]]
 itself, if he persevered in the same course; yet he did persevere, and
 the result may be guessed. He could obtain no engagement, and he wanted
 bread.
 
 ‘Everybody who is at all acquainted with theatrical matters knows what a
-host of shabby, poverty-stricken men hang about the stage of a large
+host of shabby, [[Poverty|poverty]]-stricken men hang about the stage of a large
 establishment--not regularly engaged actors, but ballet people,
 procession men, tumblers, and so forth, who are taken on during the run
 of a pantomime, or an Easter piece, and are then discharged, until the
 production of some heavy spectacle occasions a new demand for their
 services. To this mode of life the man was compelled to resort; and
-taking the chair every night, at some low theatrical house, at once put
+taking the chair every [[Night|night]], at some low theatrical [[house]], at once put
 him in possession of a few more shillings weekly, and enabled him to
 gratify his old propensity. Even this resource shortly failed him; his
 irregularities were too great to admit of his earning the wretched

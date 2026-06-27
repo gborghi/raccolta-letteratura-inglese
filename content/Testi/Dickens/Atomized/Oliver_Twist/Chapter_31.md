@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 31"
+title: "[[Oliver Twist]] — Chapter 31"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -34,9 +34,9 @@ the officer; “he’s in the gig, a-minding the prad. Have you got a coach
 ’us here, that you could put it up in, for five or ten minutes?”
 
 Brittles replying in the affirmative, and pointing out the building,
-the portly man stepped back to the garden-gate, and helped his
+the portly man stepped back to the [[Garden|garden]]-gate, and helped his
 companion to put up the gig: while Brittles lighted them, in a state of
-great admiration. This done, they returned to the house, and, being
+great admiration. This done, they returned to the [[house]], and, being
 shown into a parlour, took off their great-coats and hats, and showed
 like what they were.
 
@@ -55,7 +55,7 @@ This was addressed to Mr. Losberne, who now made his appearance; that
 gentleman, motioning Brittles to retire, brought in the two ladies, and
 shut the door.
 
-“This is the lady of the house,” said Mr. Losberne, motioning towards
+“This is the lady of the [[house]],” said Mr. Losberne, motioning towards
 Mrs. Maylie.
 
 Mr. Blathers made a bow. Being desired to sit down, he put his hat on
@@ -68,7 +68,7 @@ the head of his stick into his mouth, with some embarrassment.
 “Now, with regard to this here robbery, master,” said Blathers. “What
 are the circumstances?”
 
-Mr. Losberne, who appeared desirous of gaining time, recounted them at
+Mr. Losberne, who appeared desirous of gaining [[Time|time]], recounted them at
 great length, and with much circumlocution. Messrs. Blathers and Duff
 looked very knowing meanwhile, and occasionally exchanged a nod.
 
@@ -92,7 +92,7 @@ on?” said Blathers.
 
 “Nothing at all,” replied the doctor. “One of the frightened servants
 chose to take it into his head, that he had something to do with this
-attempt to break into the house; but it’s nonsense: sheer absurdity.”
+attempt to break into the [[house]]; but it’s nonsense: sheer absurdity.”
 
 “Wery easy disposed of, if it is,” remarked Duff.
 
@@ -103,7 +103,7 @@ give of himself? Where did he come from? He didn’t drop out of the
 clouds, did he, master?”
 
 “Of course not,” replied the doctor, with a nervous glance at the two
-ladies. “I know his whole history: but we can talk about that
+ladies. “I know his whole [[history]]: but we can talk about that
 presently. You would like, first, to see the place where the thieves
 made their attempt, I suppose?”
 
@@ -114,63 +114,63 @@ doing business.”
 Lights were then procured; and Messrs. Blathers and Duff, attended by
 the native constable, Brittles, Giles, and everybody else in short,
 went into the little room at the end of the passage and looked out at
-the window; and afterwards went round by way of the lawn, and looked in
-at the window; and after that, had a candle handed out to inspect the
+the [[Window|window]]; and afterwards went round by way of the lawn, and looked in
+at the [[Window|window]]; and after that, had a candle handed out to inspect the
 shutter with; and after that, a lantern to trace the footsteps with;
 and after that, a pitchfork to poke the bushes with. This done, amidst
 the breathless interest of all beholders, they came in again; and Mr.
 Giles and Brittles were put through a melodramatic representation of
-their share in the previous night’s adventures: which they performed
+their share in the previous [[Night|night]]’s adventures: which they performed
 some six times over: contradicting each other, in not more than one
-important respect, the first time, and in not more than a dozen the
+important respect, the first [[Time|time]], and in not more than a dozen the
 last. This consummation being arrived at, Blathers and Duff cleared the
 room, and held a long council together, compared with which, for
 secrecy and solemnity, a consultation of great doctors on the knottiest
-point in medicine, would be mere child’s play.
+point in medicine, would be mere [[Child|child]]’s play.
 
 Meanwhile, the doctor walked up and down the next room in a very uneasy
-state; and Mrs. Maylie and Rose looked on, with anxious faces.
+state; and Mrs. Maylie and [[Rose]] looked on, with anxious faces.
 
 “Upon my word,” he said, making a halt, after a great number of very
 rapid turns, “I hardly know what to do.”
 
-“Surely,” said Rose, “the poor child’s story, faithfully repeated to
+“Surely,” said [[Rose]], “the poor [[Child|child]]’s story, faithfully repeated to
 these men, will be sufficient to exonerate him.”
 
-“I doubt it, my dear young lady,” said the doctor, shaking his head. “I
+“I [[Doubt|doubt]] it, my dear young lady,” said the doctor, shaking his head. “I
 don’t think it would exonerate him, either with them, or with legal
 functionaries of a higher grade. What is he, after all, they would say?
 A runaway. Judged by mere worldly considerations and probabilities, his
 story is a very doubtful one.”
 
-“You believe it, surely?” interrupted Rose.
+“You believe it, surely?” interrupted [[Rose]].
 
-“_I_ believe it, strange as it is; and perhaps I may be an old fool for
+“_I_ believe it, strange as it is; and perhaps I may be an old [[Fool|fool]] for
 doing so,” rejoined the doctor; “but I don’t think it is exactly the
 tale for a practical police-officer, nevertheless.”
 
-“Why not?” demanded Rose.
+“Why not?” demanded [[Rose]].
 
-“Because, my pretty cross-examiner,” replied the doctor: “because,
+“Because, my pretty [[Cross|cross]]-examiner,” replied the doctor: “because,
 viewed with their eyes, there are many ugly points about it; he can
-only prove the parts that look ill, and none of those that look well.
+only prove the parts that look ill, and none of those that look [[Well|well]].
 Confound the fellows, they _will_ have the why and the wherefore, and
 will take nothing for granted. On his own showing, you see, he has been
-the companion of thieves for some time past; he has been carried to a
+the companion of thieves for some [[Time|time]] past; he has been carried to a
 police-officer, on a charge of picking a gentleman’s pocket; he has
-been taken away, forcibly, from that gentleman’s house, to a place
+been taken away, forcibly, from that gentleman’s [[house]], to a place
 which he cannot describe or point out, and of the situation of which he
 has not the remotest idea. He is brought down to Chertsey, by men who
 seem to have taken a violent fancy to him, whether he will or no; and
-is put through a window to rob a house; and then, just at the very
+is put through a [[Window|window]] to rob a [[house]]; and then, just at the very
 moment when he is going to alarm the inmates, and so do the very thing
 that would set him all to rights, there rushes into the way, a
 blundering dog of a half-bred butler, and shoots him! As if on purpose
 to prevent his doing any good for himself! Don’t you see all this?”
 
-“I see it, of course,” replied Rose, smiling at the doctor’s
+“I see it, of course,” replied [[Rose]], smiling at the doctor’s
 impetuosity; “but still I do not see anything in it, to criminate the
-poor child.”
+poor [[Child|child]].”
 
 “No,” replied the doctor; “of course not! Bless the bright eyes of your
 sex! They never see, whether for good or bad, more than one side of any
@@ -189,7 +189,7 @@ dragging it forward, and giving publicity to all the doubts that will
 be cast upon it, must interfere, materially, with your benevolent plan
 of rescuing him from misery.”
 
-“Oh! what is to be done?” cried Rose. “Dear, dear! why did they send
+“Oh! what is to be done?” cried [[Rose]]. “Dear, dear! why did they send
 for these people?”
 
 “Why, indeed!” exclaimed Mrs. Maylie. “I would not have had them here,
@@ -202,7 +202,7 @@ has strong symptoms of fever upon him, and is in no condition to be
 talked to any more; that’s one comfort. We must make the best of it;
 and if bad be the best, it is no fault of ours. Come in!”
 
-“Well, master,” said Blathers, entering the room followed by his
+“[[Well]], master,” said Blathers, entering the room followed by his
 colleague, and making the door fast, before he said any more. “This
 warn’t a put-up thing.”
 
@@ -226,7 +226,7 @@ in it, for all that.”
 “Wery pretty indeed it is,” remarked Duff, in an undertone.
 
 “There was two of ’em in it,” continued Blathers; “and they had a boy
-with ’em; that’s plain from the size of the window. That’s all to be
+with ’em; that’s plain from the size of the [[Window|window]]. That’s all to be
 said at present. We’ll see this lad that you’ve got upstairs at once,
 if you please.”
 
@@ -234,7 +234,7 @@ if you please.”
 the doctor: his face brightening, as if some new thought had occurred
 to him.
 
-“Oh! to be sure!” exclaimed Rose, eagerly. “You shall have it
+“Oh! to be sure!” exclaimed [[Rose]], eagerly. “You shall have it
 immediately, if you will.”
 
 “Why, thank you, miss!” said Blathers, drawing his coat-sleeve across
@@ -245,20 +245,20 @@ miss; don’t put yourself out of the way, on our accounts.”
 sideboard.
 
 “A little drop of spirits, master, if it’s all the same,” replied
-Blathers. “It’s a cold ride from London, ma’am; and I always find that
-spirits comes home warmer to the feelings.”
+Blathers. “It’s a cold ride from [[London]], ma’am; and I always find that
+spirits comes [[Home|home]] warmer to the feelings.”
 
 This interesting communication was addressed to Mrs. Maylie, who
 received it very graciously. While it was being conveyed to her, the
 doctor slipped out of the room.
 
 “Ah!” said Mr. Blathers: not holding his wine-glass by the stem, but
-grasping the bottom between the thumb and forefinger of his left hand:
+grasping the [[Bottom|bottom]] between the thumb and forefinger of his left hand:
 and placing it in front of his chest; “I have seen a good many pieces
-of business like this, in my time, ladies.”
+of business like this, in my [[Time|time]], ladies.”
 
 “That crack down in the back lane at Edmonton, Blathers,” said Mr.
-Duff, assisting his colleague’s memory.
+Duff, assisting his colleague’s [[Memory|memory]].
 
 “That was something in this way, warn’t it?” rejoined Mr. Blathers;
 “that was done by Conkey Chickweed, that was.”
@@ -266,12 +266,12 @@ Duff, assisting his colleague’s memory.
 “You always gave that to him” replied Duff. “It was the Family Pet, I
 tell you. Conkey hadn’t any more to do with it than I had.”
 
-“Get out!” retorted Mr. Blathers; “I know better. Do you mind that time
+“Get out!” retorted Mr. Blathers; “I know better. Do you mind that [[Time|time]]
 when Conkey was robbed of his money, though? What a start that was!
-Better than any novel-book _I_ ever see!”
+Better than any [[Novel|novel]]-book _I_ ever see!”
 
-“What was that?” inquired Rose: anxious to encourage any symptoms of
-good-humour in the unwelcome visitors.
+“What was that?” inquired [[Rose]]: anxious to encourage any symptoms of
+good-[[Humour|humour]] in the unwelcome visitors.
 
 “It was a robbery, miss, that hardly anybody would have been down
 upon,” said Blathers. “This here Conkey Chickweed—”
@@ -280,19 +280,19 @@ upon,” said Blathers. “This here Conkey Chickweed—”
 
 “Of course the lady knows that, don’t she?” demanded Mr. Blathers.
 “Always interrupting, you are, partner! This here Conkey Chickweed,
-miss, kept a public-house over Battlebridge way, and he had a cellar,
+miss, kept a public-[[house]] over Battlebridge way, and he had a cellar,
 where a good many young lords went to see cock-fighting, and
 badger-drawing, and that; and a wery intellectual manner the sports was
 conducted in, for I’ve seen ’em off’en. He warn’t one of the family, at
-that time; and one night he was robbed of three hundred and
+that [[Time|time]]; and one [[Night|night]] he was robbed of three hundred and
 twenty-seven guineas in a canvas bag, that was stole out of his bedroom
-in the dead of night, by a tall man with a black patch over his eye,
+in the dead of [[Night|night]], by a tall man with a black patch over his eye,
 who had concealed himself under the bed, and after committing the
-robbery, jumped slap out of window: which was only a story high. He was
+robbery, jumped slap out of [[Window|window]]: which was only a story high. He was
 wery quick about it. But Conkey was quick, too; for he fired a
 blunderbuss arter him, and roused the neighbourhood. They set up a
 hue-and-cry, directly, and when they came to look about ’em, found that
-Conkey had hit the robber; for there was traces of blood, all the way
+Conkey had hit the robber; for there was traces of [[Blood|blood]], all the way
 to some palings a good distance off; and there they lost ’em. However,
 he had made off with the blunt; and, consequently, the name of Mr.
 Chickweed, licensed witler, appeared in the Gazette among the other
@@ -304,25 +304,25 @@ people was afraid he might be going to make away with himself. One day
 he came up to the office, all in a hurry, and had a private interview
 with the magistrate, who, after a deal of talk, rings the bell, and
 orders Jem Spyers in (Jem was a active officer), and tells him to go
-and assist Mr. Chickweed in apprehending the man as robbed his house.
-‘I see him, Spyers,’ said Chickweed, ‘pass my house yesterday morning,’
+and assist Mr. Chickweed in apprehending the man as robbed his [[house]].
+‘I see him, Spyers,’ said Chickweed, ‘pass my [[house]] yesterday morning,’
 ‘Why didn’t you up, and collar him!’ says Spyers. ‘I was so struck all
 of a heap, that you might have fractured my skull with a toothpick,’
 says the poor man; ‘but we’re sure to have him; for between ten and
-eleven o’clock at night he passed again.’ Spyers no sooner heard this,
+eleven o’[[Clock|clock]] at [[Night|night]] he passed again.’ Spyers no sooner heard this,
 than he put some clean linen and a comb, in his pocket, in case he
 should have to stop a day or two; and away he goes, and sets himself
-down at one of the public-house windows behind the little red curtain,
+down at one of the public-[[house]] windows behind the little red curtain,
 with his hat on, all ready to bolt out, at a moment’s notice. He was
-smoking his pipe here, late at night, when all of a sudden Chickweed
+smoking his pipe here, late at [[Night|night]], when all of a sudden Chickweed
 roars out, ‘Here he is! Stop thief! Murder!’ Jem Spyers dashes out; and
 there he sees Chickweed, a-tearing down the street full cry. Away goes
 Spyers; on goes Chickweed; round turns the people; everybody roars out,
-‘Thieves!’ and Chickweed himself keeps on shouting, all the time, like
+‘Thieves!’ and Chickweed himself keeps on shouting, all the [[Time|time]], like
 mad. Spyers loses sight of him a minute as he turns a corner; shoots
 round; sees a little crowd; dives in; ‘Which is the man?’ ‘D—me!’ says
 Chickweed, ‘I’ve lost him again!’ It was a remarkable occurrence, but
-he warn’t to be seen nowhere, so they went back to the public-house.
+he warn’t to be seen nowhere, so they went back to the public-[[house]].
 Next morning, Spyers took his old place, and looked out, from behind
 the curtain, for a tall man with a black patch over his eye, till his
 own two eyes ached again. At last, he couldn’t help shutting ’em, to
@@ -337,13 +337,13 @@ the other half, that poor Mr. Chickweed had gone mad with grief.”
 “What did Jem Spyers say?” inquired the doctor; who had returned to the
 room shortly after the commencement of the story.
 
-“Jem Spyers,” resumed the officer, “for a long time said nothing at
+“Jem Spyers,” resumed the officer, “for a long [[Time|time]] said nothing at
 all, and listened to everything without seeming to, which showed he
 understood his business. But, one morning, he walked into the bar, and
 taking out his snuffbox, says ‘Chickweed, I’ve found out who done this
 here robbery.’ ‘Have you?’ said Chickweed. ‘Oh, my dear Spyers, only
 let me have wengeance, and I shall die contented! Oh, my dear Spyers,
-where is the villain!’ ‘Come!’ said Spyers, offering him a pinch of
+where is the [[Villain|villain]]!’ ‘Come!’ said Spyers, offering him a pinch of
 snuff, ‘none of that gammon! You did it yourself.’ So he had; and a
 good bit of money he had made by it, too; and nobody would never have
 found it out, if he hadn’t been so precious anxious to keep up
@@ -354,10 +354,10 @@ clinking the handcuffs together.
 can walk upstairs.”
 
 “If _you_ please, sir,” returned Mr. Blathers. Closely following Mr.
-Losberne, the two officers ascended to Oliver’s bedroom; Mr. Giles
+Losberne, the two officers ascended to [[Oliver]]’s bedroom; Mr. Giles
 preceding the party, with a lighted candle.
 
-Oliver had been dozing; but looked worse, and was more feverish than he
+[[Oliver]] had been dozing; but looked worse, and was more feverish than he
 had appeared yet. Being assisted by the doctor, he managed to sit up in
 bed for a minute or so; and looked at the strangers without at all
 understanding what was going forward—in fact, without seeming to
@@ -365,19 +365,19 @@ recollect where he was, or what had been passing.
 
 “This,” said Mr. Losberne, speaking softly, but with great vehemence
 notwithstanding, “this is the lad, who, being accidently wounded by a
-spring-gun in some boyish trespass on Mr. What-d’ ye-call-him’s
-grounds, at the back here, comes to the house for assistance this
+[[spring]]-gun in some boyish trespass on Mr. What-d’ ye-call-him’s
+grounds, at the back here, comes to the [[house]] for assistance this
 morning, and is immediately laid hold of and maltreated, by that
 ingenious gentleman with the candle in his hand: who has placed his
 life in considerable danger, as I can professionally certify.”
 
 Messrs. Blathers and Duff looked at Mr. Giles, as he was thus
 recommended to their notice. The bewildered butler gazed from them
-towards Oliver, and from Oliver towards Mr. Losberne, with a most
-ludicrous mixture of fear and perplexity.
+towards [[Oliver]], and from [[Oliver]] towards Mr. Losberne, with a most
+ludicrous mixture of [[Fear|fear]] and perplexity.
 
 “You don’t mean to deny that, I suppose?” said the doctor, laying
-Oliver gently down again.
+[[Oliver]] gently down again.
 
 “It was all done for the—for the best, sir,” answered Giles. “I am sure
 I thought it was the boy, or I wouldn’t have meddled with him. I am not
@@ -388,7 +388,7 @@ of an inhuman disposition, sir.”
 “The housebreaker’s boy, sir!” replied Giles. “They—they certainly had
 a boy.”
 
-“Well? Do you think so now?” inquired Blathers.
+“[[Well]]? Do you think so now?” inquired Blathers.
 
 “Think what, now?” replied Giles, looking vacantly at his questioner.
 
@@ -410,7 +410,7 @@ doctor.
 Giles, with supreme contempt.
 
 Mr. Losberne had been feeling the patient’s pulse during this short
-dialogue; but he now rose from the chair by the bedside, and remarked,
+dialogue; but he now [[Rose|rose]] from the chair by the bedside, and remarked,
 that if the officers had any doubts upon the subject, they would
 perhaps like to step into the next room, and have Brittles before them.
 
@@ -418,44 +418,44 @@ Acting upon this suggestion, they adjourned to a neighbouring
 apartment, where Mr. Brittles, being called in, involved himself and
 his respected superior in such a wonderful maze of fresh contradictions
 and impossibilities, as tended to throw no particular light on
-anything, but the fact of his own strong mystification; except, indeed,
+anything, but the fact of his own strong [[Mystification|mystification]]; except, indeed,
 his declarations that he shouldn’t know the real boy, if he were put
-before him that instant; that he had only taken Oliver to be he,
+before him that instant; that he had only taken [[Oliver]] to be he,
 because Mr. Giles had said he was; and that Mr. Giles had, five minutes
 previously, admitted in the kitchen, that he began to be very much
 afraid he had been a little too hasty.
 
 Among other ingenious surmises, the question was then raised, whether
 Mr. Giles had really hit anybody; and upon examination of the fellow
-pistol to that which he had fired, it turned out to have no more
+[[Pistol|pistol]] to that which he had fired, it turned out to have no more
 destructive loading than gunpowder and brown paper: a discovery which
 made a considerable impression on everybody but the doctor, who had
 drawn the ball about ten minutes before. Upon no one, however, did it
 make a greater impression than on Mr. Giles himself; who, after
-labouring, for some hours, under the fear of having mortally wounded a
+labouring, for some hours, under the [[Fear|fear]] of having mortally wounded a
 fellow-creature, eagerly caught at this new idea, and favoured it to
 the utmost. Finally, the officers, without troubling themselves very
-much about Oliver, left the Chertsey constable in the house, and took
-up their rest for that night in the town; promising to return the next
+much about [[Oliver]], left the Chertsey constable in the [[house]], and took
+up their rest for that [[Night|night]] in the town; promising to return the next
 morning.
 
 With the next morning, there came a rumour, that two men and a boy were
-in the cage at Kingston, who had been apprehended over night under
+in the cage at Kingston, who had been apprehended over [[Night|night]] under
 suspicious circumstances; and to Kingston Messrs. Blathers and Duff
 journeyed accordingly. The suspicious circumstances, however, resolving
 themselves, on investigation, into the one fact, that they had been
 discovered sleeping under a haystack; which, although a great crime, is
-only punishable by imprisonment, and is, in the merciful eye of the
-English law, and its comprehensive love of all the King’s subjects,
+only punishable by [[Imprisonment|imprisonment]], and is, in the merciful eye of the
+English law, and its comprehensive [[Love|love]] of all the [[King]]’s subjects,
 held to be no satisfactory proof, in the absence of all other evidence,
-that the sleeper, or sleepers, have committed burglary accompanied with
+that [[The Sleeper|the sleeper]], or sleepers, have committed burglary accompanied with
 violence, and have therefore rendered themselves liable to the
-punishment of death; Messrs. Blathers and Duff came back again, as wise
+punishment of [[Death|death]]; Messrs. Blathers and Duff came back again, as wise
 as they went.
 
 In short, after some more examination, and a great deal more
 conversation, a neighbouring magistrate was readily induced to take the
-joint bail of Mrs. Maylie and Mr. Losberne for Oliver’s appearance if
+joint bail of Mrs. Maylie and Mr. Losberne for [[Oliver]]’s appearance if
 he should ever be called upon; and Blathers and Duff, being rewarded
 with a couple of guineas, returned to town with divided opinions on the
 subject of their expedition: the latter gentleman on a mature
@@ -464,9 +464,9 @@ the burglarious attempt had originated with the Family Pet; and the
 former being equally disposed to concede the full merit of it to the
 great Mr. Conkey Chickweed.
 
-Meanwhile, Oliver gradually throve and prospered under the united care
-of Mrs. Maylie, Rose, and the kind-hearted Mr. Losberne. If fervent
+Meanwhile, [[Oliver]] gradually throve and prospered under the united care
+of Mrs. Maylie, [[Rose]], and the kind-hearted Mr. Losberne. If fervent
 prayers, gushing from hearts overcharged with gratitude, be heard in
 heaven—and if they be not, what prayers are!—the blessings which the
-orphan child called down upon them, sunk into their souls, diffusing
+[[Orphan|orphan]] [[Child|child]] called down upon them, sunk into their souls, diffusing
 peace and happiness.

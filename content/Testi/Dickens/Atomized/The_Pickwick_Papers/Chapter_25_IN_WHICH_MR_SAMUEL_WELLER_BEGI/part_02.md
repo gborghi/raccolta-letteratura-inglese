@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,10 +15,10 @@ tags:
 
 
 In the contemplative mood which these words had awakened, Mr. Samuel
-Weller walked forth from the Great White Horse when his father had left
+Weller walked forth from the Great White [[Horse]] when his father had left
 him; and bending his steps towards St. Clement’s Church, endeavoured to
-dissipate his melancholy, by strolling among its ancient precincts. He
-had loitered about, for some time, when he found himself in a retired
+dissipate his [[Melancholy|melancholy]], by strolling among its ancient precincts. He
+had loitered about, for some [[Time|time]], when he found himself in a retired
 spot--a kind of courtyard of venerable appearance--which he discovered
 had no other outlet than the turning by which he had entered. He was
 about retracing his steps, when he was suddenly transfixed to the spot
@@ -28,7 +28,7 @@ now proceed to relate.
 Mr. Samuel Weller had been staring up at the old brick houses now and
 then, in his deep abstraction, bestowing a wink upon some healthy-
 looking servant girl as she drew up a blind, or threw open a bedroom
-window, when the green gate of a garden at the bottom of the yard
+[[Window|window]], when the green gate of a [[Garden|garden]] at the [[Bottom|bottom]] of the yard
 opened, and a man having emerged therefrom, closed the green gate very
 carefully after him, and walked briskly towards the very spot where Mr.
 Weller was standing.
@@ -52,11 +52,11 @@ however, he was not long in perceiving that he must pass Mr. Samuel
 Weller to get away. He therefore resumed his brisk pace, and advanced,
 staring straight before him. The most extraordinary thing about the man
 was, that he was contorting his face into the most fearful and
-astonishing grimaces that ever were beheld. Nature’s handiwork never was
+astonishing grimaces that ever were beheld. [[Nature]]’s handiwork never was
 disguised with such extraordinary artificial carving, as the man had
 overlaid his countenance with in one moment.
 
-‘Well!’ said Mr. Weller to himself, as the man approached. ‘This is wery
+‘[[Well]]!’ said Mr. Weller to himself, as the man approached. ‘This is wery
 odd. I could ha’ swore it was him.’
 
 Up came the man, and his face became more frightfully distorted than
@@ -78,14 +78,14 @@ The stranger stopped.
 ‘Hollo!’ repeated Sam, still more gruffly.
 
 The man with the horrible face looked, with the greatest surprise, up
-the court, and down the court, and in at the windows of the houses--
-everywhere but at Sam Weller--and took another step forward, when he was
+the [[Court|court]], and down the [[Court|court]], and in at the windows of the houses--
+everywhere but at [[Sam Weller]]--and took another step forward, when he was
 brought to again by another shout.
 
-‘Hollo, you sir!’ said Sam, for the third time.
+‘Hollo, you sir!’ said Sam, for the third [[Time|time]].
 
 There was no pretending to mistake where the voice came from now, so the
-stranger, having no other resource, at last looked Sam Weller full in
+stranger, having no other resource, at last looked [[Sam Weller]] full in
 the face.
 
 ‘It won’t do, Job Trotter,’ said Sam. ‘Come! None o’ that ‘ere nonsense.
@@ -103,7 +103,7 @@ Mr. Walker!’
 ‘Glad!’ exclaimed Job Trotter; ‘Oh, Mr. Walker, if you had but known how
 I have looked forward to this meeting! It is too much, Mr. Walker; I
 cannot bear it, indeed I cannot.’ And with these words, Mr. Trotter
-burst into a regular inundation of tears, and, flinging his arms around
+burst into a regular inundation of [[Tears|tears]], and, flinging his arms around
 those of Mr. Weller, embraced him closely, in an ecstasy of joy.
 
 ‘Get off!’ cried Sam, indignant at this process, and vainly endeavouring
@@ -146,5 +146,5 @@ Sam eyed his companion for a few seconds, and then, as if actuated by a
 sudden impulse, complied with his request.
 
 ‘How,’ said Job Trotter, as they walked away, ‘how is your dear, good
-master? Oh, he is a worthy gentleman, Mr. Weller! I hope he didn’t catch
-cold, that dreadful night, Sir.’
+master? Oh, he is a worthy gentleman, Mr. Weller! I [[Hope|hope]] he didn’t catch
+cold, that dreadful [[Night|night]], Sir.’

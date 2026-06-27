@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 5"
+title: "[[Great Expectations]] — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -31,26 +31,26 @@ right hand, and his left on my shoulder.
 
 “Excuse me, ladies and gentleman,” said the sergeant, “but as I have
 mentioned at the door to this smart young shaver,” (which he hadn’t),
-“I am on a chase in the name of the king, and I want the blacksmith.”
+“I am on a chase in the name of the [[King|king]], and I want the blacksmith.”
 
 “And pray what might you want with _him_?” retorted my sister, quick to
 resent his being wanted at all.
 
 “Missis,” returned the gallant sergeant, “speaking for myself, I should
-reply, the honour and pleasure of his fine wife’s acquaintance;
-speaking for the king, I answer, a little job done.”
+reply, the [[Honour|honour]] and pleasure of his fine wife’s acquaintance;
+speaking for the [[King|king]], I answer, a little job done.”
 
 This was received as rather neat in the sergeant; insomuch that Mr.
 Pumblechook cried audibly, “Good again!”
 
-“You see, blacksmith,” said the sergeant, who had by this time picked
+“You see, blacksmith,” said the sergeant, who had by this [[Time|time]] picked
 out Joe with his eye, “we have had an accident with these, and I find
 the lock of one of ’em goes wrong, and the coupling don’t act pretty.
 As they are wanted for immediate service, will you throw your eye over
 them?”
 
 Joe threw his eye over them, and pronounced that the job would
-necessitate the lighting of his forge fire, and would take nearer two
+necessitate the lighting of his forge [[Fire|fire]], and would take nearer two
 hours than one. “Will it? Then will you set about it at once,
 blacksmith?” said the off-hand sergeant, “as it’s on his Majesty’s
 service. And if my men can bear a hand anywhere, they’ll make
@@ -67,9 +67,9 @@ handcuffs were not for me, and that the military had so far got the
 better of the pie as to put it in the background, I collected a little
 more of my scattered wits.
 
-“Would you give me the time?” said the sergeant, addressing himself to
+“Would you give me the [[Time|time]]?” said the sergeant, addressing himself to
 Mr. Pumblechook, as to a man whose appreciative powers justified the
-inference that he was equal to the time.
+inference that he was equal to the [[Time|time]].
 
 “It’s just gone half past two.”
 
@@ -84,20 +84,20 @@ dusk, my orders are. That’ll do.”
 
 “Convicts, sergeant?” asked Mr. Wopsle, in a matter-of-course way.
 
-“Ay!” returned the sergeant, “two. They’re pretty well known to be out
+“Ay!” returned the sergeant, “two. They’re pretty [[Well|well]] known to be out
 on the marshes still, and they won’t try to get clear of ’em before
 dusk. Anybody here seen anything of any such game?”
 
 Everybody, myself excepted, said no, with confidence. Nobody thought of
 me.
 
-“Well!” said the sergeant, “they’ll find themselves trapped in a
+“[[Well]]!” said the sergeant, “they’ll find themselves trapped in a
 circle, I expect, sooner than they count on. Now, blacksmith! If you’re
-ready, his Majesty the King is.”
+ready, his Majesty the [[King]] is.”
 
 Joe had got his coat and waistcoat and cravat off, and his leather
 apron on, and passed into the forge. One of the soldiers opened its
-wooden windows, another lighted the fire, another turned to at the
+wooden windows, another lighted the [[Fire|fire]], another turned to at the
 bellows, the rest stood round the blaze, which was soon roaring. Then
 Joe began to hammer and clink, hammer and clink, and we all looked on.
 
@@ -144,15 +144,15 @@ dinner my fugitive friend on the marshes was. They had not enjoyed
 themselves a quarter so much, before the entertainment was brightened
 with the excitement he furnished. And now, when they were all in lively
 anticipation of “the two villains” being taken, and when the bellows
-seemed to roar for the fugitives, the fire to flare for them, the smoke
+seemed to roar for the fugitives, the [[Fire|fire]] to flare for them, the smoke
 to hurry away in pursuit of them, Joe to hammer and clink for them, and
 all the murky shadows on the wall to shake at them in menace as the
-blaze rose and sank, and the red-hot sparks dropped and died, the pale
+blaze [[Rose|rose]] and sank, and the red-hot sparks dropped and died, the pale
 afternoon outside almost seemed in my pitying young fancy to have
 turned pale on their account, poor wretches.
 
 At last, Joe’s job was done, and the ringing and roaring stopped. As
-Joe got on his coat, he mustered courage to propose that some of us
+Joe got on his coat, he mustered [[Courage|courage]] to propose that some of us
 should go down with the soldiers and see what came of the hunt. Mr.
 Pumblechook and Mr. Hubble declined, on the plea of a pipe and ladies’
 society; but Mr. Wopsle said he would go, if Joe would. Joe said he was
@@ -163,13 +163,13 @@ you bring the boy back with his head blown to bits by a musket, don’t
 look to me to put it together again.”
 
 The sergeant took a polite leave of the ladies, and parted from Mr.
-Pumblechook as from a comrade; though I doubt if he were quite as fully
+Pumblechook as from a comrade; though I [[Doubt|doubt]] if he were quite as fully
 sensible of that gentleman’s merits under arid conditions, as when
 something moist was going. His men resumed their muskets and fell in.
 Mr. Wopsle, Joe, and I, received strict charge to keep in the rear, and
 to speak no word after we reached the marshes. When we were all out in
 the raw air and were steadily moving towards our business, I
-treasonably whispered to Joe, “I hope, Joe, we shan’t find them.” and
+treasonably whispered to Joe, “I [[Hope|hope]], Joe, we shan’t find them.” and
 Joe whispered to me, “I’d give a shilling if they had cut and run,
 Pip.”
 
@@ -183,11 +183,11 @@ hand, while two or three of his men dispersed themselves among the
 graves, and also examined the porch. They came in again without finding
 anything, and then we struck out on the open marshes, through the gate
 at the side of the churchyard. A bitter sleet came rattling against us
-here on the east wind, and Joe took me on his back.
+here on the east [[Wind|wind]], and Joe took me on his back.
 
 Now that we were out upon the dismal wilderness where they little
 thought I had been within eight or nine hours and had seen both men
-hiding, I considered for the first time, with great dread, if we should
+hiding, I considered for the first [[Time|time]], with great dread, if we should
 come upon them, would my particular convict suppose that it was I who
 had brought the soldiers there? He had asked me if I was a deceiving
 imp, and he had said I should be a fierce young hound if I joined the
@@ -200,26 +200,26 @@ hunter, and stimulating Mr. Wopsle not to tumble on his Roman nose, and
 to keep up with us. The soldiers were in front of us, extending into a
 pretty wide line with an interval between man and man. We were taking
 the course I had begun with, and from which I had diverged in the mist.
-Either the mist was not out again yet, or the wind had dispelled it.
+Either the mist was not out again yet, or the [[Wind|wind]] had dispelled it.
 Under the low red glare of sunset, the beacon, and the gibbet, and the
-mound of the Battery, and the opposite shore of the river, were plain,
+mound of the Battery, and the opposite shore of the [[River|river]], were plain,
 though all of a watery lead colour.
 
 With my heart thumping like a blacksmith at Joe’s broad shoulder, I
 looked all about for any sign of the convicts. I could see none, I
 could hear none. Mr. Wopsle had greatly alarmed me more than once, by
-his blowing and hard breathing; but I knew the sounds by this time, and
+his blowing and hard breathing; but I knew the sounds by this [[Time|time]], and
 could dissociate them from the object of pursuit. I got a dreadful
 start, when I thought I heard the file still going; but it was only a
 sheep-bell. The sheep stopped in their eating and looked timidly at us;
-and the cattle, their heads turned from the wind and sleet, stared
+and the cattle, their heads turned from the [[Wind|wind]] and sleet, stared
 angrily as if they held us responsible for both annoyances; but, except
 these things, and the shudder of the dying day in every blade of grass,
 there was no break in the bleak stillness of the marshes.
 
 The soldiers were moving on in the direction of the old Battery, and we
 were moving on a little way behind them, when, all of a sudden, we all
-stopped. For there had reached us on the wings of the wind and rain, a
+stopped. For there had reached us on the wings of the [[Wind|wind]] and rain, a
 long shout. It was repeated. It was at a distance towards the east, but
 it was long and loud. Nay, there seemed to be two or more shouts raised
 together,—if one might judge from a confusion in the sound.
@@ -229,12 +229,12 @@ their breath, when Joe and I came up. After another moment’s listening,
 Joe (who was a good judge) agreed, and Mr. Wopsle (who was a bad judge)
 agreed. The sergeant, a decisive man, ordered that the sound should not
 be answered, but that the course should be changed, and that his men
-should make towards it “at the double.” So we slanted to the right
+should make towards it “at the [[Double|double]].” So we slanted to the right
 (where the East was), and Joe pounded away so wonderfully, that I had
 to hold on tight to keep my seat.
 
 It was a run indeed now, and what Joe called, in the only two words he
-spoke all the time, “a Winder.” Down banks and up banks, and over
+spoke all the [[Time|time]], “a Winder.” Down banks and up banks, and over
 gates, and splashing into dikes, and breaking among coarse rushes: no
 man cared where he went. As we came nearer to the shouting, it became
 more and more apparent that it was made by more than one voice.
@@ -251,17 +251,17 @@ The sergeant ran in first, when we had run the noise quite down, and
 two of his men ran in close upon him. Their pieces were cocked and
 levelled when we all ran in.
 
-“Here are both men!” panted the sergeant, struggling at the bottom of a
+“Here are both men!” panted the sergeant, struggling at the [[Bottom|bottom]] of a
 ditch. “Surrender, you two! and confound you for two wild beasts! Come
 asunder!”
 
-Water was splashing, and mud was flying, and oaths were being sworn,
+[[Water]] was splashing, and mud was flying, and oaths were being sworn,
 and blows were being struck, when some more men went down into the
 ditch to help the sergeant, and dragged out, separately, my convict and
 the other one. Both were bleeding and panting and execrating and
 struggling; but of course I knew them both directly.
 
-“Mind!” said my convict, wiping blood from his face with his ragged
+“Mind!” said my convict, wiping [[Blood|blood]] from his face with his ragged
 sleeves, and shaking torn hair from his fingers: “_I_ took him! _I_
 give him up to you! Mind that!”
 
@@ -285,7 +285,7 @@ falling.
 it? I took him, and giv’ him up; that’s what I done. I not only
 prevented him getting off the marshes, but I dragged him here,—dragged
 him this far on his way back. He’s a gentleman, if you please, this
-villain. Now, the Hulks has got its gentleman again, through me. Murder
+[[Villain|villain]]. Now, the Hulks has got its gentleman again, through me. Murder
 him? Worth my while, too, to murder him, when I could do worse and drag
 him back!”
 
@@ -293,12 +293,12 @@ The other one still gasped, “He tried—he tried-to—murder me. Bear—bear
 witness.”
 
 “Lookee here!” said my convict to the sergeant. “Single-handed I got
-clear of the prison-ship; I made a dash and I done it. I could ha’ got
-clear of these death-cold flats likewise—look at my leg: you won’t find
+clear of the [[Prison|prison]]-[[Ship|ship]]; I made a dash and I done it. I could ha’ got
+clear of these [[Death|death]]-cold flats likewise—look at my leg: you won’t find
 much iron on it—if I hadn’t made the discovery that _he_ was here. Let
 _him_ go free? Let _him_ profit by the means as I found out? Let _him_
 make a tool of me afresh and again? Once more? No, no, no. If I had
-died at the bottom there,” and he made an emphatic swing at the ditch
+died at the [[Bottom|bottom]] there,” and he made an emphatic swing at the ditch
 with his manacled hands, “I’d have held to him with that grip, that you
 should have been safe to find him in my hold.”
 
@@ -315,7 +315,7 @@ however, collect the nervous working of his mouth into any set
 expression, looked at the soldiers, and looked about at the marshes and
 at the sky, but certainly did not look at the speaker.
 
-“Do you see him?” pursued my convict. “Do you see what a villain he is?
+“Do you see him?” pursued my convict. “Do you see what a [[Villain|villain]] he is?
 Do you see those grovelling and wandering eyes? That’s how he looked
 when we were tried together. He never looked at me.”
 
@@ -326,18 +326,18 @@ a half-taunting glance at the bound hands. At that point, my convict
 became so frantically exasperated, that he would have rushed upon him
 but for the interposition of the soldiers. “Didn’t I tell you,” said
 the other convict then, “that he would murder me, if he could?” And any
-one could see that he shook with fear, and that there broke out upon
-his lips curious white flakes, like thin snow.
+one could see that he shook with [[Fear|fear]], and that there broke out upon
+his lips curious white flakes, like thin [[Snow|snow]].
 
 “Enough of this parley,” said the sergeant. “Light those torches.”
 
 As one of the soldiers, who carried a basket in lieu of a gun, went
 down on his knee to open it, my convict looked round him for the first
-time, and saw me. I had alighted from Joe’s back on the brink of the
+[[Time|time]], and saw me. I had alighted from Joe’s back on the brink of the
 ditch when we came up, and had not moved since. I looked at him eagerly
 when he looked at me, and slightly moved my hands and shook my head. I
 had been waiting for him to see me that I might try to assure him of my
-innocence. It was not at all expressed to me that he even comprehended
+[[innocence]]. It was not at all expressed to me that he even comprehended
 my intention, for he gave me a look that I did not understand, and it
 all passed in a moment. But if he had looked at me for an hour or for a
 day, I could not have remembered his face ever afterwards, as having
@@ -349,7 +349,7 @@ almost dark before, but now it seemed quite dark, and soon afterwards
 very dark. Before we departed from that spot, four soldiers standing in
 a ring, fired twice into the air. Presently we saw other torches
 kindled at some distance behind us, and others on the marshes on the
-opposite bank of the river. “All right,” said the sergeant. “March.”
+opposite bank of the [[River|river]]. “All right,” said the sergeant. “March.”
 
 We had not gone far when three cannon were fired ahead of us with a
 sound that seemed to burst something inside my ear. “You are expected
@@ -360,10 +360,10 @@ The two were kept apart, and each walked surrounded by a separate
 guard. I had hold of Joe’s hand now, and Joe carried one of the
 torches. Mr. Wopsle had been for going back, but Joe was resolved to
 see it out, so we went on with the party. There was a reasonably good
-path now, mostly on the edge of the river, with a divergence here and
+path now, mostly on the edge of the [[River|river]], with a divergence here and
 there where a dike came, with a miniature windmill on it and a muddy
 sluice-gate. When I looked round, I could see the other lights coming
-in after us. The torches we carried dropped great blotches of fire upon
+in after us. The torches we carried dropped great blotches of [[Fire|fire]] upon
 the track, and I could see those, too, lying smoking and flaring. I
 could see nothing else but black darkness. Our lights warmed the air
 about us with their pitchy blaze, and the two prisoners seemed rather
@@ -374,7 +374,7 @@ that two or three times we had to halt while they rested.
 After an hour or so of this travelling, we came to a rough wooden hut
 and a landing-place. There was a guard in the hut, and they challenged,
 and the sergeant answered. Then, we went into the hut, where there was
-a smell of tobacco and whitewash, and a bright fire, and a lamp, and a
+a smell of tobacco and whitewash, and a bright [[Fire|fire]], and a lamp, and a
 stand of muskets, and a drum, and a low wooden bedstead, like an
 overgrown mangle without the machinery, capable of holding about a
 dozen soldiers all at once. Three or four soldiers who lay upon it in
@@ -385,7 +385,7 @@ convict whom I call the other convict was drafted off with his guard,
 to go on board first.
 
 My convict never looked at me, except that once. While we stood in the
-hut, he stood before the fire looking thoughtfully at it, or putting up
+hut, he stood before the [[Fire|fire]] looking thoughtfully at it, or putting up
 his feet by turns upon the hob, and looking thoughtfully at them as if
 he pitied them for their recent adventures. Suddenly, he turned to the
 sergeant, and remarked,—
@@ -425,7 +425,7 @@ Than I’m sorry to say, I’ve eat your pie.”
 
 “God knows you’re welcome to it,—so far as it was ever mine,” returned
 Joe, with a saving remembrance of Mrs. Joe. “We don’t know what you
-have done, but we wouldn’t have you starved to death for it, poor
+have done, but we wouldn’t have you starved to [[Death|death]] for it, poor
 miserable fellow-creatur.—Would us, Pip?”
 
 The something that I had noticed before, clicked in the man’s throat
@@ -434,12 +434,12 @@ were ready, so we followed him to the landing-place made of rough
 stakes and stones, and saw him put into the boat, which was rowed by a
 crew of convicts like himself. No one seemed surprised to see him, or
 interested in seeing him, or glad to see him, or sorry to see him, or
-spoke a word, except that somebody in the boat growled as if to dogs,
+spoke a word, except that somebody in the boat growled as if to [[dogs]],
 “Give way, you!” which was the signal for the dip of the oars. By the
 light of the torches, we saw the black Hulk lying out a little way from
 the mud of the shore, like a wicked Noah’s ark. Cribbed and barred and
-moored by massive rusty chains, the prison-ship seemed in my young eyes
+moored by massive rusty [[Chains|chains]], the [[Prison|prison]]-[[Ship|ship]] seemed in my young eyes
 to be ironed like the prisoners. We saw the boat go alongside, and we
 saw him taken up the side and disappear. Then, the ends of the torches
-were flung hissing into the water, and went out, as if it were all over
+were flung hissing into the [[Water|water]], and went out, as if it were all over
 with him.

@@ -24,7 +24,7 @@ highest ideal of a combination of ceremony with sincerity.
 
 ‘John Edward Nandy,’ said Mr Plornish, addressing the old gentleman.
 ‘Sir. It’s not too often that you see unpretending actions without a
-spark of pride, and therefore when you see them give grateful honour
+spark of [[Pride|pride]], and therefore when you see them give grateful [[Honour|honour]]
 unto the same, being that if you don’t, and live to want ‘em, it follows
 serve you right.’
 
@@ -37,38 +37,38 @@ opinion in which yourself and me must ever be unanimously jined by all,
 and where there is not difference of opinion there can be none but one
 opinion, which fully no, Thomas, Thomas, no!’
 
-Arthur, with less formality, expressed himself gratified by their high
+[[arthur|Arthur]], with less formality, expressed himself gratified by their high
 appreciation of so very slight an attention on his part; and explained
-as to the tea that he had not yet dined, and was going straight home to
+as to the tea that he had not yet dined, and was going straight [[Home|home]] to
 refresh after a long day’s labour, or he would have readily accepted the
-hospitable offer. As Mr Pancks was somewhat noisily getting his steam
+hospitable offer. As [[Mr Pancks]] was somewhat noisily getting his steam
 up for departure, he concluded by asking that gentleman if he would walk
-with him? Mr Pancks said he desired no better engagement, and the two
+with him? [[Mr Pancks]] said he desired no better engagement, and the two
 took leave of Happy Cottage.
 
-‘If you will come home with me, Pancks,’ said Arthur, when they got into
+‘If you will come [[Home|home]] with me, Pancks,’ said [[arthur|Arthur]], when they got into
 the street, ‘and will share what dinner or supper there is, it will
-be next door to an act of charity; for I am weary and out of sorts
-to-night.’
+be next door to an act of [[Charity|charity]]; for I am weary and out of sorts
+to-[[Night|night]].’
 
 ‘Ask me to do a greater thing than that,’ said Pancks, ‘when you want it
 done, and I’ll do it.’
 
 Between this eccentric personage and Clennam, a tacit understanding and
-accord had been always improving since Mr Pancks flew over Mr Rugg’s
+accord had been always improving since [[Mr Pancks]] flew over Mr Rugg’s
 back in the Marshalsea Yard. When the carriage drove away on the
 memorable day of the family’s departure, these two had looked after it
 together, and had walked slowly away together. When the first letter
 came from little Dorrit, nobody was more interested in hearing of
-her than Mr Pancks. The second letter, at that moment in Clennam’s
+her than [[Mr Pancks]]. The second letter, at that moment in Clennam’s
 breast-pocket, particularly remembered him by name. Though he had never
 before made any profession or protestation to Clennam, and though what
 he had just said was little enough as to the words in which it was
-expressed, Clennam had long had a growing belief that Mr Pancks, in
+expressed, Clennam had long had a growing belief that [[Mr Pancks]], in
 his own odd way, was becoming attached to him. All these strings
-intertwining made Pancks a very cable of anchorage that night.
+intertwining made Pancks a very cable of anchorage that [[Night|night]].
 
-‘I am quite alone,’ Arthur explained as they walked on. ‘My partner is
+‘I am quite [[Alone|alone]],’ [[arthur|Arthur]] explained as they walked on. ‘My partner is
 away, busily engaged at a distance on his branch of our business, and
 you shall do just as you like.’
 
@@ -83,7 +83,7 @@ overset him?’
 
 ‘You surprise me! None whatever.’
 
-Mr Pancks gave his reasons for the inquiry. Arthur was quite unprepared
+[[Mr Pancks]] gave his reasons for the inquiry. [[arthur|Arthur]] was quite unprepared
 for them, and quite unable to suggest an explanation of them.
 
 ‘Perhaps you’ll ask him,’ said Pancks, ‘as he’s a stranger?’
@@ -102,7 +102,7 @@ proprietor, Mr Clennam. You’re much too delicate.’
 
 ‘For the matter of that,’ returned Clennam laughing, ‘I have not a large
 proprietary share in Cavalletto. His carving is his livelihood. He keeps
-the keys of the Factory, watches it every alternate night, and acts as a
+the keys of the Factory, watches it every alternate [[Night|night]], and acts as a
 sort of housekeeper to it generally; but we have little work in the way
 of his ingenuity, though we give him what we have. No! I am rather his
 adviser than his proprietor. To call me his standing counsel and his
@@ -117,20 +117,20 @@ people’s heads, should run even in little Cavalletto’s?’
 ‘Oh! Investments,’ said Pancks. ‘Ay, ay! I didn’t know you were speaking
 of investments.’
 
-His quick way of replying caused Clennam to look at him, with a doubt
+His quick way of replying caused Clennam to look at him, with a [[Doubt|doubt]]
 whether he meant more than he said. As it was accompanied, however, with
 a quickening of his pace and a corresponding increase in the labouring
-of his machinery, Arthur did not pursue the matter, and they soon
-arrived at his house.
+of his machinery, [[arthur|Arthur]] did not pursue the matter, and they soon
+arrived at his [[house]].
 
 A dinner of soup and a pigeon-pie, served on a little round table before
-the fire, and flavoured with a bottle of good wine, oiled Mr Pancks’s
+the [[Fire|fire]], and flavoured with a bottle of good wine, oiled [[Mr Pancks]]’s
 works in a highly effective manner; so that when Clennam produced his
-Eastern pipe, and handed Mr Pancks another Eastern pipe, the latter
+Eastern pipe, and handed [[Mr Pancks]] another Eastern pipe, the latter
 gentleman was perfectly comfortable.
 
-They puffed for a while in silence, Mr Pancks like a steam-vessel
-with wind, tide, calm water, and all other sea-going conditions in her
+They puffed for a while in [[Silence|silence]], [[Mr Pancks]] like a steam-vessel
+with [[Wind|wind]], tide, calm [[Water|water]], and all other sea-going conditions in her
 favour. He was the first to speak, and he spoke thus:
 
 ‘Yes. Investments is the word.’

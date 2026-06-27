@@ -31,7 +31,7 @@ The wretched object being much embarrassed by holding what remained
 of his hat, Eugene airily tossed it to the door, and put him down in a
 chair.
 
-‘It will be necessary, I think,’ he observed, ‘to wind up Mr Dolls,
+‘It will be necessary, I think,’ he observed, ‘to [[Wind|wind]] up Mr Dolls,
 before anything to any mortal purpose can be got out of him. Brandy, Mr
 Dolls, or—?’
 
@@ -39,7 +39,7 @@ Dolls, or—?’
 
 A judiciously small quantity of the spirit was given him in a
 wine-glass, and he began to convey it to his mouth, with all kinds of
-falterings and gyrations on the road.
+falterings and gyrations on the [[Road|road]].
 
 ‘The nerves of Mr Dolls,’ remarked Eugene to Lightwood, ‘are
 considerably unstrung. And I deem it on the whole expedient to fumigate
@@ -50,7 +50,7 @@ from a box on the chimney-piece took a few pastiles, which he set upon
 them; then, with great composure began placidly waving the shovel in
 front of Mr Dolls, to cut him off from his company.
 
-‘Lord bless my soul, Eugene!’ cried Lightwood, laughing again, ‘what a
+‘Lord bless my [[Soul|soul]], Eugene!’ cried Lightwood, laughing again, ‘what a
 mad fellow you are! Why does this creature come to see you?’
 
 ‘We shall hear,’ said Wrayburn, very observant of his face withal. ‘Now
@@ -63,12 +63,12 @@ Wrayburn, ain’t?’ With a stupid stare.
 
 Mr Dolls collapsed in his chair, and faintly said ‘Threepenn’orth Rum.’
 
-‘Will you do me the favour, my dear Mortimer, to wind up Mr Dolls
+‘Will you do me the favour, my dear Mortimer, to [[Wind|wind]] up Mr Dolls
 again?’ said Eugene. ‘I am occupied with the fumigation.’
 
 A similar quantity was poured into his glass, and he got it to his lips
 by similar circuitous ways. Having drunk it, Mr Dolls, with an evident
-fear of running down again unless he made haste, proceeded to business.
+[[Fear|fear]] of running down again unless he made haste, proceeded to business.
 
 ‘Mist Wrayburn. Tried to nudge you, but you wouldn’t. You want that
 drection. You want t’know where she lives. _Do_ you Mist Wrayburn?’
@@ -86,8 +86,8 @@ er man er do it.’
 
 ‘Have you got it?’
 
-With a most laborious attempt at pride and dignity, Mr Dolls rolled
-his head for some time, awakening the highest expectations, and then
+With a most laborious attempt at [[Pride|pride]] and dignity, Mr Dolls rolled
+his head for some [[Time|time]], awakening the highest expectations, and then
 answered, as if it were the happiest point that could possibly be
 expected of him: ‘No.’
 
@@ -96,7 +96,7 @@ expected of him: ‘No.’
 Mr Dolls, collapsing in the drowsiest manner after his late intellectual
 triumph, replied: ‘Threepenn’orth Rum.’
 
-‘Wind him up again, my dear Mortimer,’ said Wrayburn; ‘wind him up
+‘[[Wind]] him up again, my dear Mortimer,’ said Wrayburn; ‘[[Wind|wind]] him up
 again.’
 
 ‘Eugene, Eugene,’ urged Lightwood in a low voice, as he complied, ‘can
@@ -122,11 +122,11 @@ talk of?’
 
 ‘How will you get it, I ask you?’
 
-‘I am ill-used vidual,’ said Mr Dolls. ‘Blown up morning t’night. Called
+‘I am ill-used vidual,’ said Mr Dolls. ‘Blown up morning t’[[Night|night]]. Called
 names. She makes Mint money, sir, and never stands Threepenn’orth Rum.’
 
 ‘Get on,’ rejoined Eugene, tapping his palsied head with the
-fire-shovel, as it sank on his breast. ‘What comes next?’
+[[Fire|fire]]-shovel, as it sank on his breast. ‘What comes next?’
 
 Making a dignified attempt to gather himself together, but, as it were,
 dropping half a dozen pieces of himself while he tried in vain to pick
@@ -134,7 +134,7 @@ up one, Mr Dolls, swaying his head from side to side, regarded his
 questioner with what he supposed to be a haughty smile and a scornful
 glance.
 
-‘She looks upon me as mere child, sir. I am NOT mere child, sir. Man.
+‘She looks upon me as mere [[Child|child]], sir. I am NOT mere [[Child|child]], sir. Man.
 Man talent. Lerrers pass betwixt ’em. Postman lerrers. Easy for man
 talent er get drection, as get his own drection.’
 
@@ -142,11 +142,11 @@ talent er get drection, as get his own drection.’
 ‘—You Brute! Get it, and bring it here to me, and earn the money for
 sixty threepenn’orths of rum, and drink them all, one a top of another,
 and drink yourself dead with all possible expedition.’ The latter
-clauses of these special instructions he addressed to the fire, as he
+clauses of these special instructions he addressed to the [[Fire|fire]], as he
 gave it back the ashes he had taken from it, and replaced the shovel.
 
 Mr Dolls now struck out the highly unexpected discovery that he had been
-insulted by Lightwood, and stated his desire to ‘have it out with him’
+insulted by Lightwood, and stated his [[Desire|desire]] to ‘have it out with him’
 on the spot, and defied him to come on, upon the liberal terms of
 a sovereign to a halfpenny. Mr Dolls then fell a crying, and then
 exhibited a tendency to fall asleep. This last manifestation as by far

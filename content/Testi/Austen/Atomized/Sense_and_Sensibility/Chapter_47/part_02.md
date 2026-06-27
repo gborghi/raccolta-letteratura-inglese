@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 47 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 47 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -42,9 +42,9 @@ discontents.”
 
 Marianne assented most feelingly to the remark; and her mother was led
 
-by it to an enumeration of Colonel Brandon’s injuries and merits, warm
+by it to an enumeration of [[Colonel Brandon]]’s injuries and merits, warm
 
-as friendship and design could unitedly dictate. Her daughter did not
+as [[Friendship|friendship]] and design could unitedly dictate. Her daughter did not
 
 look, however, as if much of it were heard by her.
 
@@ -56,7 +56,7 @@ days, that Marianne did not continue to gain strength as she had done;
 
 but while her resolution was unsubdued, and she still tried to appear
 
-cheerful and easy, her sister could safely trust to the effect of time
+cheerful and easy, her sister could safely trust to the effect of [[Time|time]]
 
 upon her health.
 
@@ -74,7 +74,7 @@ Barton, at least planning a vigorous prosecution of them in future.
 
 Elinor grew impatient for some tidings of Edward. She had heard nothing
 
-of him since her leaving London, nothing new of his plans, nothing
+of him since her leaving [[London]], nothing new of his plans, nothing
 
 certain even of his present abode. Some letters had passed between her
 
@@ -84,7 +84,7 @@ of John’s, there had been this sentence:—“We know nothing of our
 
 unfortunate Edward, and can make no enquiries on so prohibited a
 
-subject, but conclude him to be still at Oxford;” which was all the
+subject, but conclude him to be still at [[Oxford]];” which was all the
 
 intelligence of Edward afforded her by the correspondence, for his name
 
@@ -118,7 +118,7 @@ taken the same direction, was shocked to perceive by Elinor’s
 
 countenance how much she really suffered, and a moment afterwards,
 
-alike distressed by Marianne’s situation, knew not on which child to
+alike distressed by Marianne’s situation, knew not on which [[Child|child]] to
 
 bestow her principal attention.
 
@@ -128,7 +128,7 @@ The servant, who saw only that Miss Marianne was taken ill, had sense
 
 enough to call one of the maids, who, with Mrs. Dashwood’s assistance,
 
-supported her into the other room. By that time, Marianne was rather
+supported her into the other room. By that [[Time|time]], Marianne was rather
 
 better, and her mother leaving her to the care of Margaret and the
 
@@ -152,7 +152,7 @@ benefit of the information without the exertion of seeking it.
 
 too, Miss Steele as was. They was stopping in a chaise at the door of
 
-the New London Inn, as I went there with a message from Sally at the
+the New [[London]] Inn, as I went there with a message from Sally at the
 
 Park to her brother, who is one of the post-boys. I happened to look up
 
@@ -166,7 +166,7 @@ Marianne, and bid me I should give her compliments and Mr. Ferrars’s,
 
 their best compliments and service, and how sorry they was they had not
 
-time to come on and see you, but they was in a great hurry to go
+[[Time|time]] to come on and see you, but they was in a great hurry to go
 
 forwards, for they was going further down for a little while, but
 
@@ -256,11 +256,11 @@ longer; I was afraid of being late.”
 
 
 
-“Did Mrs. Ferrars look well?”
+“Did Mrs. Ferrars look [[Well|well]]?”
 
 
 
-“Yes, ma’am, she said how she was very well; and to my mind she was
+“Yes, ma’am, she said how she was very [[Well|well]]; and to my mind she was
 
 always a very handsome young lady—and she seemed vastly contented.”
 
@@ -274,7 +274,7 @@ Marianne had already sent to say, that she should eat nothing more.
 
 Mrs. Dashwood’s and Elinor’s appetites were equally lost, and Margaret
 
-might think herself very well off, that with so much uneasiness as both
+might think herself very [[Well|well]] off, that with so much uneasiness as both
 
 her sisters had lately experienced, so much reason as they had often
 
@@ -288,7 +288,7 @@ When the dessert and the wine were arranged, and Mrs. Dashwood and
 
 Elinor were left by themselves, they remained long together in a
 
-similarity of thoughtfulness and silence. Mrs. Dashwood feared to
+similarity of thoughtfulness and [[Silence|silence]]. Mrs. Dashwood feared to
 
 hazard any remark, and ventured not to offer consolation. She now found
 
@@ -296,17 +296,17 @@ that she had erred in relying on Elinor’s representation of herself;
 
 and justly concluded that every thing had been expressly softened at
 
-the time, to spare her from an increase of unhappiness, suffering as
+the [[Time|time]], to spare her from an increase of unhappiness, [[Suffering|suffering]] as
 
 she then had suffered for Marianne. She found that she had been misled
 
 by the careful, the considerate attention of her daughter, to think the
 
-attachment, which once she had so well understood, much slighter in
+attachment, which once she had so [[Well|well]] understood, much slighter in
 
 reality, than she had been wont to believe, or than it was now proved
 
-to be. She feared that under this persuasion she had been unjust,
+to be. She feared that under this [[Persuasion|persuasion]] she had been unjust,
 
 inattentive, nay, almost unkind, to her Elinor;—that Marianne’s
 
@@ -314,6 +314,6 @@ affliction, because more acknowledged, more immediately before her, had
 
 too much engrossed her tenderness, and led her away to forget that in
 
-Elinor she might have a daughter suffering almost as much, certainly
+Elinor she might have a daughter [[Suffering|suffering]] almost as much, certainly
 
-with less self-provocation, and greater fortitude.
+with less [[Self|self]]-provocation, and greater fortitude.

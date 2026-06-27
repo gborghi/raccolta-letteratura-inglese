@@ -1,5 +1,5 @@
 ---
-title: "2 Henry IV — Act V, Scene 2 — exchange (PISTOL) [7]"
+title: "2 [[Henry IV]] — Act V, Scene 2 — exchange ([[Pistol|PISTOL]]) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/2-HENRY-IV-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| PISTOL | Let vultures vile seize on his lungs also! ‘Where is the life that late I led?’ say they. Why, here it is. Welcome these pleasant days. Exeunt |
+| [[Pistol|PISTOL]] | Let vultures vile seize on his lungs also! ‘Where is the life that late I led?’ say they. Why, here it is. Welcome these pleasant days. Exeunt |

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 41 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 41 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,9 +20,9 @@ CHAPTER XLI.
 
 
 
-Edward, having carried his thanks to Colonel Brandon, proceeded with
+Edward, having carried his thanks to [[Colonel Brandon]], proceeded with
 
-his happiness to Lucy; and such was the excess of it by the time he
+his happiness to Lucy; and such was the excess of it by the [[Time|time]] he
 
 reached Bartlett’s Buildings, that she was able to assure Mrs.
 
@@ -40,11 +40,11 @@ she joined Mrs. Jennings most heartily in her expectation of their
 
 being all comfortably together in Delaford Parsonage before Michaelmas.
 
-So far was she, at the same time, from any backwardness to give Elinor
+So far was she, at the same [[Time|time]], from any backwardness to give Elinor
 
 that credit which Edward _would_ give her, that she spoke of her
 
-friendship for them both with the most grateful warmth, was ready to
+[[Friendship|friendship]] for them both with the most grateful warmth, was ready to
 
 own all their obligation to her, and openly declared that no exertion
 
@@ -52,7 +52,7 @@ for their good on Miss Dashwood’s part, either present or future, would
 
 ever surprise her, for she believed her capable of doing any thing in
 
-the world for those she really valued. As for Colonel Brandon, she was
+the world for those she really valued. As for [[Colonel Brandon]], she was
 
 not only ready to worship him as a saint, but was moreover truly
 
@@ -68,7 +68,7 @@ of his servants, his carriage, his cows, and his poultry.
 
 It was now above a week since John Dashwood had called in Berkeley
 
-Street, and as since that time no notice had been taken by them of his
+Street, and as since that [[Time|time]] no notice had been taken by them of his
 
 wife’s indisposition, beyond one verbal enquiry, Elinor began to feel
 
@@ -86,7 +86,7 @@ always at Elinor’s service, so very much disliked Mrs. John Dashwood,
 
 that not even her curiosity to see how she looked after the late
 
-discovery, nor her strong desire to affront her by taking Edward’s
+discovery, nor her strong [[Desire|desire]] to affront her by taking Edward’s
 
 part, could overcome her unwillingness to be in her company again. The
 
@@ -102,7 +102,7 @@ reason to dislike.
 
 Mrs. Dashwood was denied; but before the carriage could turn from the
 
-house, her husband accidentally came out. He expressed great pleasure
+[[house]], her husband accidentally came out. He expressed great pleasure
 
 in meeting Elinor, told her that he had been just going to call in
 
@@ -132,9 +132,9 @@ Elinor made what excuse she could for her.
 
 
 
-“I am not sorry to see you alone,” he replied, “for I have a good deal
+“I am not sorry to see you [[Alone|alone]],” he replied, “for I have a good deal
 
-to say to you. This living of Colonel Brandon’s—can it be true?—has he
+to say to you. This living of [[Colonel Brandon]]’s—can it be true?—has he
 
 really given it to Edward?—I heard it yesterday by chance, and was
 
@@ -142,13 +142,13 @@ coming to you on purpose to enquire farther about it.”
 
 
 
-“It is perfectly true.—Colonel Brandon has given the living of Delaford
+“It is perfectly true.—[[Colonel Brandon]] has given the living of Delaford
 
 to Edward.”
 
 
 
-“Really!—Well, this is very astonishing!—no relationship!—no connection
+“Really!—[[Well]], this is very astonishing!—no relationship!—no connection
 
 between them!—and now that livings fetch such a price!—what was the
 
@@ -160,7 +160,7 @@ value of this?”
 
 
 
-“Very well—and for the next presentation to a living of that
+“Very [[Well|well]]—and for the next presentation to a living of that
 
 value—supposing the late incumbent to have been old and sickly, and
 
@@ -168,11 +168,11 @@ likely to vacate it soon—he might have got I dare say—fourteen hundred
 
 pounds. And how came he not to have settled that matter before this
 
-person’s death? _Now_, indeed it would be too late to sell it, but a
+person’s [[Death|death]]? _Now_, indeed it would be too late to sell it, but a
 
-man of Colonel Brandon’s sense! I wonder he should be so improvident in
+man of [[Colonel Brandon]]’s sense! I [[Wonder|wonder]] he should be so improvident in
 
-a point of such common, such natural, concern! Well, I am convinced
+a point of such common, such natural, concern! [[Well]], I am convinced
 
 that there is a vast deal of inconsistency in almost every human
 
@@ -206,11 +206,11 @@ could be the Colonel’s motive?”
 
 
 
-“Well, well; whatever Colonel Brandon may be, Edward is a very lucky
+“[[Well]], [[Well|well]]; whatever [[Colonel Brandon]] may be, Edward is a very lucky
 
 man.—You will not mention the matter to Fanny, however, for though I
 
-have broke it to her, and she bears it vastly well,—she will not like
+have broke it to her, and she bears it vastly [[Well|well]],—she will not like
 
 to hear it much talked of.”
 
@@ -220,7 +220,7 @@ Elinor had some difficulty here to refrain from observing, that she
 
 thought Fanny might have borne with composure, an acquisition of wealth
 
-to her brother, by which neither she nor her child could be possibly
+to her brother, by which neither she nor her [[Child|child]] could be possibly
 
 impoverished.
 
@@ -232,7 +232,7 @@ important a subject, “knows nothing about it at present, and I believe
 
 it will be best to keep it entirely concealed from her as long as may
 
-be. When the marriage takes place, I fear she must hear of it all.”
+be. When the [[Marriage|marriage]] takes place, I [[Fear|fear]] she must hear of it all.”
 
 
 

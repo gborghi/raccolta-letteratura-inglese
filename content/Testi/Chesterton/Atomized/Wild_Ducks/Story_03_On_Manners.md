@@ -33,7 +33,7 @@ If, when we were about to breakfast with a friend, a common
 acquaintance were to approach us and whisper impressively,
 'You will eat no eggs,' the expression would amount to little
 more than an interesting detail; if he were to whisper, 'You will
-eat bad eggs,' an element of tragedy would at once appear.
+eat bad eggs,' an element of [[Tragedy|tragedy]] would at once appear.
 But the difference between no manners and bad manners is quite
 as definite and important as the difference between no eggs
 and bad eggs.
@@ -42,14 +42,14 @@ The absence of manners is an unconscious and chaotic thing,
 the product of vagueness, of monomania, of absence of mind,
 of ignorance of the world.  But the presence of bad manners
 is a perfectly solemn, deliberate, and artificial thing,
-the result of pride and vainglory, hypocrisy and blindness
+the result of [[Pride|pride]] and vainglory, hypocrisy and blindness
 and hardness of heart.  A great mass of human society may thus
 be simply and satisfactorily divided into two definite sections.
-But the actual nature of the bad manners which constitute
+But the actual [[Nature|nature]] of the bad manners which constitute
 the chief characteristic of good society is worthy, it may be,
 of somewhat more profound examination and definition.
 For the manners which we see in the centres of social life
-such as the House of Commons are really bad, not in the sense
+such as the [[house|House]] of Commons are really bad, not in the sense
 that they are insufficient or ignorant, but in the sense that
 they violate what is the whole object and meaning of manners.
 
@@ -63,7 +63,7 @@ of the world.  Since no man can express how surprising and terrifying
 and beautiful is every object upon which we gaze, on the day when we
 all become truly primitive we shall all become extravagantly polite;
 we shall take off our hats to the sparrows, and apologise for treading
-on the daisies.  Politeness of this kind is simply imagination.
+on the daisies.  Politeness of this kind is simply [[Imagination|imagination]].
 That is the inevitable result of realising that things are there.
 Here, as in so many other cases, we see the singular dullness of all those
 sections of society who call themselves unconventional.  They imagine
@@ -76,8 +76,8 @@ competition and free fights.  If a man is ceremonious he is conventional,
 and if he is poetical he is ceremonious.
 
 In so far, therefore, as the artistic classes believe in a lounging
-and Bohemian existence, they are fighting against the very nature of art,
-and also against the very nature of a vivid realisation of things.
+and Bohemian existence, they are fighting against the very [[Nature|nature]] of art,
+and also against the very [[Nature|nature]] of a vivid realisation of things.
 If once we realised things vividly, and saw how valuable they are, we
 should become more elaborately urbane than any dandy of the old school.
 What was wrong with the dandies of the old school was not the fact
@@ -98,9 +98,9 @@ In many Oriental countries it is expressed by taking off one's boots,
 and in some of the great Republics of the Antipodes it may, for all
 I know, be expressed by taking off your collar or your waistcoat.
 Certain savages rub each other's noses when they meet,
-and I have no doubt that they rub them reverentially.
+and I have no [[Doubt|doubt]] that they rub them reverentially.
 The form matters nothing, so long as the spirit which it is meant
-to convey is a spirit of chivalry and of a poetic humility.
+to convey is a spirit of chivalry and of a poetic [[Humility|humility]].
 But the great central and remarkable thing about society
 manners in this decade is that they are not intended to express
 the idea of courtesy, the idea, that is to say, that we
@@ -111,7 +111,7 @@ The old-fashioned bowing and scraping may have been ludicrous
 and hypocritical, when taken in conjunction with the materialistic
 or immoral practices which went along with it, but at least
 the form itself, the actual bow and scrape, did express deference
-and self-subordination. But the modern manners of the richer
+and [[Self|self]]-subordination. But the modern manners of the richer
 class are actually framed, like a careful artistic work,
 to express indifference to everything and everybody.
 
@@ -129,7 +129,7 @@ attempt to indicate that we care for nothing in earth or Heaven.
 Uneducated people, that is to say, have no manners, educated people
 have bad manners.
 
-Nobody can visit the House of Commons without coming away
+Nobody can visit the [[house|House]] of Commons without coming away
 with the general impression that the art cultivated by the young
 country gentleman is the art of doing his worst elegantly;
 and to do one's worst, however elegantly, remains what it is,
@@ -137,11 +137,11 @@ the one and solitary supreme insult.  If a man throws his worst or his
 tenth best to anything, it matters nothing if the thing he throws
 be the Iliad or a casket of sapphires, it still remains an insult.
 And this insult to the ancient English Parliament is expressed in
-every line of the figures of the well-dressed Members of the House.
+every line of the figures of the [[Well|well]]-dressed Members of the [[house|House]].
 A man with a million genuine and intellectual charms, is supposed
 to be a man with good manners.  This simply means that he exhibits
 an unusual degree of physical grace in the act of putting his
-boots within a foot or two of the Mace of the King of England.
+boots within a foot or two of the Mace of the [[King]] of England.
 It is a terrible thing that while true courtesy is a transcendental
 virtue and involves admiration, the most courteous man in modern
 politics is also the incarnation of indifference.

@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Flourish. Enter Lucentio and his man, Tranio |
+| *(didascalia)* | Flourish. Enter [[Lucentio]] and his man, [[Tranio]] |

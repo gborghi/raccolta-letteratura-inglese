@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 22: Who passes by this Road so late? (part 1)"
+title: "Little Dorrit — Chapter 22: Who passes by this [[Road]] so late? (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-CHAPTER 22. Who passes by this Road so late?
+CHAPTER 22. Who passes by this [[Road]] so late?
 
 
-Arthur Clennam had made his unavailing expedition to Calais in the midst
+[[Arthur Clennam]] had made his unavailing expedition to Calais in the midst
 of a great pressure of business. A certain barbaric Power with valuable
 possessions on the map of the world, had occasion for the services of
 one or two engineers, quick in invention and determined in execution:
@@ -27,9 +27,9 @@ at hand; and who were as bold and fertile in the adaptation of such
 materials to their purpose, as in the conception of their purpose
 itself. This Power, being a barbaric one, had no idea of stowing away
 a great national object in a Circumlocution Office, as strong wine is
-hidden from the light in a cellar until its fire and youth are gone,
+hidden from the light in a cellar until its [[Fire|fire]] and youth are gone,
 and the labourers who worked in the vineyard and pressed the grapes are
-dust. With characteristic ignorance, it acted on the most decided and
+[[Dust|dust]]. With characteristic ignorance, it acted on the most decided and
 energetic notions of How to do it; and never showed the least respect
 for, or gave any quarter to, the great political science, How not to do
 it. Indeed it had a barbarous way of striking the latter art and mystery
@@ -37,20 +37,20 @@ dead, in the person of any enlightened subject who practised it.
 
 Accordingly, the men who were wanted were sought out and found; which
 was in itself a most uncivilised and irregular way of proceeding. Being
-found, they were treated with great confidence and honour (which again
+found, they were treated with great confidence and [[Honour|honour]] (which again
 showed dense political ignorance), and were invited to come at once and
 do what they had to do. In short, they were regarded as men who meant to
 do it, engaging with other men who meant it to be done.
 
-Daniel Doyce was one of the chosen. There was no foreseeing at that time
+[[Daniel Doyce]] was one of the chosen. There was no foreseeing at that [[Time|time]]
 whether he would be absent months or years. The preparations for his
 departure, and the conscientious arrangement for him of all the details
 and results of their joint business, had necessitated labour within a
-short compass of time, which had occupied Clennam day and night. He
-had slipped across the water in his first leisure, and had slipped as
+short compass of [[Time|time]], which had occupied Clennam day and [[Night|night]]. He
+had slipped across the [[Water|water]] in his first leisure, and had slipped as
 quickly back again for his farewell interview with Doyce.
 
-Him Arthur now showed, with pains and care, the state of their gains and
+Him [[arthur|Arthur]] now showed, with pains and care, the state of their gains and
 losses, responsibilities and prospects. Daniel went through it all
 in his patient manner, and admired it all exceedingly. He audited the
 accounts, as if they were a far more ingenious piece of mechanism than
@@ -62,8 +62,8 @@ contemplation of some wonderful engine.
 be plainer. Nothing can be better.’
 
 ‘I am glad you approve, Doyce. Now, as to the management of your capital
-while you are away, and as to the conversion of so much of it as the
-business may need from time to time--’ His partner stopped him.
+while you are away, and as to the [[conversion]] of so much of it as the
+business may need from [[Time|time]] to [[Time|time]]--’ His partner stopped him.
 
 ‘As to that, and as to everything else of that kind, all rests with you.
 You will continue in all such matters to act for both of us, as you
@@ -97,14 +97,14 @@ which often deserve the name of vices.’
 ‘Pancks?’ said Doyce, tilting up his hat at the back, and nodding with
 an air of confidence. ‘Aye, aye, aye! That’s a cautious fellow.’
 
-‘He is a very cautious fellow indeed,’ returned Arthur. ‘Quite a
+‘He is a very cautious fellow indeed,’ returned [[arthur|Arthur]]. ‘Quite a
 specimen of caution.’
 
 They both appeared to derive a larger amount of satisfaction from the
-cautious character of Mr Pancks, than was quite intelligible, judged by
+cautious character of [[Mr Pancks]], than was quite intelligible, judged by
 the surface of their conversation.
 
-‘And now,’ said Daniel, looking at his watch, ‘as time and tide wait
+‘And now,’ said Daniel, looking at his watch, ‘as [[Time|time]] and tide wait
 for no man, my trusty partner, and as I am ready for starting, bag and
 baggage, at the gate below, let me say a last word. I want you to grant
 a request of mine.’
@@ -117,7 +117,7 @@ that I will abandon your invention.’
 
 ‘I say, No, then. I say positively, No. Now that I have begun, I will
 have some definite reason, some responsible statement, something in the
-nature of a real answer, from those people.’
+[[Nature|nature]] of a real answer, from those people.’
 
 ‘You will not,’ returned Doyce, shaking his head. ‘Take my word for it,
 you never will.’

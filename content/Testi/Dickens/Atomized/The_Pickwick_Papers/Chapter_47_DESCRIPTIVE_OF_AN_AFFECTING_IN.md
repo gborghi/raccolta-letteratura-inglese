@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL"
+title: "The [[Pickwick]] Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 CHAPTER XLV. DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL
-WELLER AND A FAMILY PARTY. MR. PICKWICK MAKES A TOUR OF THE DIMINUTIVE
+WELLER AND A FAMILY PARTY. MR. [[Pickwick|PICKWICK]] MAKES A TOUR OF THE DIMINUTIVE
 WORLD HE INHABITS, AND RESOLVES TO MIX WITH IT, IN FUTURE, AS LITTLE AS
 POSSIBLE
 
@@ -24,7 +24,7 @@ arranged his master’s room with all possible care, and seen him
 comfortably seated over his books and papers, withdrew to employ himself
 for an hour or two to come, as he best could. It was a fine morning, and
 it occurred to Sam that a pint of porter in the open air would lighten
-his next quarter of an hour or so, as well as any little amusement in
+his next quarter of an hour or so, as [[Well|well]] as any little amusement in
 which he could indulge.
 
 Having arrived at this conclusion, he betook himself to the tap. Having
@@ -34,10 +34,10 @@ himself on a bench, proceeded to enjoy himself in a very sedate and
 methodical manner.
 
 First of all, he took a refreshing draught of the beer, and then he
-looked up at a window, and bestowed a platonic wink on a young lady who
+looked up at a [[Window|window]], and bestowed a platonic wink on a young lady who
 was peeling potatoes thereat. Then he opened the paper, and folded it so
 as to get the police reports outwards; and this being a vexatious and
-difficult thing to do, when there is any wind stirring, he took another
+difficult thing to do, when there is any [[Wind|wind]] stirring, he took another
 draught of the beer when he had accomplished it. Then, he read two lines
 of the paper, and stopped short to look at a couple of men who were
 finishing a game at rackets, which, being concluded, he cried out ‘wery
@@ -57,7 +57,7 @@ passage. Nor was he mistaken, for it quickly passed from mouth to mouth,
 and in a few seconds the air teemed with shouts of ‘Weller!’
 
 Here!’ roared Sam, in a stentorian voice. ‘Wot’s the matter? Who wants
-him? Has an express come to say that his country house is afire?’
+him? Has an express come to say that his country [[house]] is afire?’
 
 ‘Somebody wants you in the hall,’ said a man who was standing by.
 
@@ -70,7 +70,7 @@ gentleman before noticed, who, unconscious of his close vicinity to the
 person in request, was screaming ‘Weller!’ with all his might, Sam
 hastened across the ground, and ran up the steps into the hall. Here,
 the first object that met his eyes was his beloved father sitting on a
-bottom stair, with his hat in his hand, shouting out ‘Weller!’ in his
+[[Bottom|bottom]] stair, with his hat in his hand, shouting out ‘Weller!’ in his
 very loudest tone, at half-minute intervals.
 
 ‘Wot are you a-roarin’ at?’ said Sam impetuously, when the old gentleman
@@ -143,13 +143,13 @@ creditor, Sammy.’
 
 ‘In the snuggery,’ rejoined Mr. Weller. ‘Catch the red-nosed man a-goin’
 anyvere but vere the liquors is; not he, Samivel, not he. Ve’d a wery
-pleasant ride along the road from the Markis this mornin’, Sammy,’ said
+pleasant ride along the [[Road|road]] from the Markis this mornin’, Sammy,’ said
 Mr. Weller, when he felt himself equal to the task of speaking in an
 articulate manner. ‘I drove the old piebald in that ‘ere little chay-
 cart as belonged to your mother-in-law’s first wenter, into vich a harm-
 cheer wos lifted for the shepherd; and I’m blessed,’ said Mr. Weller,
 with a look of deep scorn--‘I’m blessed if they didn’t bring a portable
-flight o’ steps out into the road a-front o’ our door for him, to get up
+flight o’ steps out into the [[Road|road]] a-front o’ our door for him, to get up
 by.’
 
 ‘You don’t mean that?’ said Sam.
@@ -158,7 +158,7 @@ by.’
 seen how tight he held on by the sides wen he did get up, as if he wos
 afeerd o’ being precipitayted down full six foot, and dashed into a
 million hatoms. He tumbled in at last, however, and avay ve vent; and I
-rayther think--I say I rayther think, Samivel--that he found his-self a
+rayther think--I say I rayther think, Samivel--that he found his-[[Self|self]] a
 little jolted ven ve turned the corners.’
 
 ‘Wot, I s’pose you happened to drive up agin a post or two?’ said Sam.
@@ -177,14 +177,14 @@ gentleman, when by dint of much struggling, and various convulsive
 stamps upon the ground, he had recovered his voice. ‘It’s only a kind o’
 quiet laugh as I’m a-tryin’ to come, Sammy.’
 
-‘Well, if that’s wot it is,’ said Sam, ‘you’d better not try to come it
+‘[[Well]], if that’s wot it is,’ said Sam, ‘you’d better not try to come it
 agin. You’ll find it rayther a dangerous inwention.’
 
 ‘Don’t you like it, Sammy?’ inquired the old gentleman.
 
 ‘Not at all,’ replied Sam.
 
-‘Well,’ said Mr. Weller, with the tears still running down his cheeks,
+‘[[Well]],’ said Mr. Weller, with the [[Tears|tears]] still running down his cheeks,
 ‘it ‘ud ha’ been a wery great accommodation to me if I could ha’ done
 it, and ‘ud ha’ saved a good many vords atween your mother-in-law and
 me, sometimes; but I’m afeerd you’re right, Sammy, it’s too much in the
@@ -203,7 +203,7 @@ obliged to you for this here wisit.--Shepherd, how air you?’
 ‘Not a bit on it, mum,’ replied Sam.--‘Is it, shepherd?’
 
 Mr. Stiggins raised his hands, and turned up his eyes, until the whites-
--or rather the yellows--were alone visible; but made no reply in words.
+-or rather the yellows--were [[Alone|alone]] visible; but made no reply in words.
 
 ‘Is this here gen’l’m’n troubled with any painful complaint?’ said Sam,
 looking to his mother-in-law for explanation.
@@ -213,18 +213,18 @@ looking to his mother-in-law for explanation.
 ‘Oh, that’s it, is it?’ said Sam. ‘I was afeerd, from his manner, that
 he might ha’ forgotten to take pepper vith that ‘ere last cowcumber he
 eat. Set down, Sir, ve make no extra charge for settin’ down, as the
-king remarked wen he blowed up his ministers.’
+[[King|king]] remarked wen he blowed up his ministers.’
 
-‘Young man,’ said Mr. Stiggins ostentatiously, ‘I fear you are not
-softened by imprisonment.’
+‘Young man,’ said Mr. Stiggins ostentatiously, ‘I [[Fear|fear]] you are not
+softened by [[Imprisonment|imprisonment]].’
 
 ‘Beg your pardon, Sir,’ replied Sam; ‘wot wos you graciously pleased to
 hobserve?’
 
-‘I apprehend, young man, that your nature is no softer for this
+‘I apprehend, young man, that your [[Nature|nature]] is no softer for this
 chastening,’ said Mr. Stiggins, in a loud voice.
 
-‘Sir,’ replied Sam, ‘you’re wery kind to say so. I hope my natur is _NOT
+‘Sir,’ replied Sam, ‘you’re wery kind to say so. I [[Hope|hope]] my natur is _NOT
 _ a soft vun, Sir. Wery much obliged to you for your good opinion, Sir.’
 
 At this point of the conversation, a sound, indecorously approaching to
@@ -239,7 +239,7 @@ become gradually hysterical.
 ‘Wery much obleeged to you, my dear,’ replied Mr. Weller; ‘but I’m quite
 comfortable vere I am.’
 
-Upon this, Mrs. Weller burst into tears.
+Upon this, Mrs. Weller burst into [[Tears|tears]].
 
 ‘Wot’s gone wrong, mum?’ said Sam.
 
@@ -253,7 +253,7 @@ nothing do him good?’
 replied the old gentleman. ‘I think a pipe vould benefit me a good deal.
 Could I be accommodated, Sammy?’
 
-Here Mrs. Weller let fall some more tears, and Mr. Stiggins groaned.
+Here Mrs. Weller let fall some more [[Tears|tears]], and Mr. Stiggins groaned.
 
 ‘Hollo! Here’s this unfortunate gen’l’m’n took ill agin,’ said Sam,
 looking round. ‘Vere do you feel it now, sir?’
@@ -273,7 +273,7 @@ an undertone, that he must be the representative of the united parishes
 of St. Simon Without and St. Walker Within.
 
 ‘I’m afeered, mum,’ said Sam, ‘that this here gen’l’m’n, with the twist
-in his countenance, feels rather thirsty, with the melancholy spectacle
+in his countenance, feels rather thirsty, with the [[Melancholy|melancholy]] spectacle
 afore him. Is it the case, mum?’
 
 The worthy lady looked at Mr. Stiggins for a reply; that gentleman, with
@@ -291,7 +291,7 @@ vanities!’
 ‘Too true, too true, indeed,’ said Mrs. Weller, murmuring a groan, and
 shaking her head assentingly.
 
-‘Well,’ said Sam, ‘I des-say they may be, sir; but wich is your
+‘[[Well]],’ said Sam, ‘I des-say they may be, sir; but wich is your
 partickler wanity? Wich wanity do you like the flavour on best, sir?’
 
 ‘Oh, my dear young friend,’ replied Mr. Stiggins, ‘I despise them all.
@@ -313,17 +313,17 @@ indeed.
 After Mrs. Weller and the red-nosed gentleman had commented on this
 inhuman usage in a very forcible manner, and had vented a variety of
 pious and holy execrations against its authors, the latter recommended a
-bottle of port wine, warmed with a little water, spice, and sugar, as
-being grateful to the stomach, and savouring less of vanity than many
+bottle of port wine, warmed with a little [[Water|water]], spice, and sugar, as
+being grateful to the stomach, and savouring less of [[Vanity|vanity]] than many
 other compounds. It was accordingly ordered to be prepared, and pending
 its preparation the red-nosed man and Mrs. Weller looked at the elder W.
 and groaned.
 
-‘Well, Sammy,’ said the gentleman, ‘I hope you’ll find your spirits rose
+‘[[Well]], Sammy,’ said the gentleman, ‘I [[Hope|hope]] you’ll find your spirits [[Rose|rose]]
 by this here lively wisit. Wery cheerful and improvin’ conwersation,
 ain’t it, Sammy?’
 
-‘You’re a reprobate,’ replied Sam; ‘and I desire you won’t address no
+‘You’re a reprobate,’ replied Sam; ‘and I [[Desire|desire]] you won’t address no
 more o’ them ungraceful remarks to me.’
 
 So far from being edified by this very proper reply, the elder Mr.
@@ -331,7 +331,7 @@ Weller at once relapsed into a broad grin; and this inexorable conduct
 causing the lady and Mr. Stiggins to close their eyes, and rock
 themselves to and fro on their chairs, in a troubled manner, he
 furthermore indulged in several acts of pantomime, indicative of a
-desire to pummel and wring the nose of the aforesaid Stiggins, the
+[[Desire|desire]] to pummel and wring the nose of the aforesaid Stiggins, the
 performance of which, appeared to afford him great mental relief. The
 old gentleman very narrowly escaped detection in one instance; for Mr.
 Stiggins happening to give a start on the arrival of the negus, brought
@@ -359,7 +359,7 @@ a breath, and smacking his lips, held out the tumbler for more.
 Nor was Mrs. Weller behind-hand in doing justice to the composition. The
 good lady began by protesting that she couldn’t touch a drop--then took
 a small drop--then a large drop--then a great many drops; and her
-feelings being of the nature of those substances which are powerfully
+feelings being of the [[Nature|nature]] of those substances which are powerfully
 affected by the application of strong waters, she dropped a tear with
 every drop of negus, and so got on, melting the feelings down, until at
 length she had arrived at a very pathetic and decent pitch of misery.
@@ -369,7 +369,7 @@ manifestations of disgust, and when, after a second jug of the same, Mr.
 Stiggins began to sigh in a dismal manner, he plainly evinced his
 disapprobation of the whole proceedings, by sundry incoherent ramblings
 of speech, among which frequent angry repetitions of the word ‘gammon’
-were alone distinguishable to the ear.
+were [[Alone|alone]] distinguishable to the ear.
 
 ‘I’ll tell you wot it is, Samivel, my boy,’ whispered the old gentleman
 into his son’s ear, after a long and steadfast contemplation of his lady
@@ -379,7 +379,7 @@ in-law’s inside, as vell as in that o’ the red-nosed man.’
 ‘Wot do you mean?’ said Sam.
 
 ‘I mean this here, Sammy,’ replied the old gentleman, ‘that wot they
-drink, don’t seem no nourishment to ‘em; it all turns to warm water, and
+drink, don’t seem no nourishment to ‘em; it all turns to warm [[Water|water]], and
 comes a-pourin’ out o’ their eyes. ‘Pend upon it, Sammy, it’s a
 constitootional infirmity.’
 
@@ -388,11 +388,11 @@ Mr. Weller delivered this scientific opinion with many confirmatory
 frowns and nods; which, Mrs. Weller remarking, and concluding that they
 bore some disparaging reference either to herself or to Mr. Stiggins, or
 to both, was on the point of becoming infinitely worse, when Mr.
-Stiggins, getting on his legs as well as he could, proceeded to deliver
+Stiggins, getting on his legs as [[Well|well]] as he could, proceeded to deliver
 an edifying discourse for the benefit of the company, but more
 especially of Mr. Samuel, whom he adjured in moving terms to be upon his
 guard in that sink of iniquity into which he was cast; to abstain from
-all hypocrisy and pride of heart; and to take in all things exact
+all hypocrisy and [[Pride|pride]] of heart; and to take in all things exact
 pattern and copy by him (Stiggins), in which case he might calculate on
 arriving, sooner or later at the comfortable conclusion, that, like him,
 he was a most estimable and blameless character, and that all his
@@ -403,43 +403,43 @@ liveliest satisfaction.
 He furthermore conjured him to avoid, above all things, the vice of
 intoxication, which he likened unto the filthy habits of swine, and to
 those poisonous and baleful drugs which being chewed in the mouth, are
-said to filch away the memory. At this point of his discourse, the
+said to filch away the [[Memory|memory]]. At this point of his discourse, the
 reverend and red-nosed gentleman became singularly incoherent, and
 staggering to and fro in the excitement of his eloquence, was fain to
 catch at the back of a chair to preserve his perpendicular.
 
-Mr. Stiggins did not desire his hearers to be upon their guard against
+Mr. Stiggins did not [[Desire|desire]] his hearers to be upon their guard against
 those false prophets and wretched mockers of religion, who, without
 sense to expound its first doctrines, or hearts to feel its first
 principles, are more dangerous members of society than the common
 criminal; imposing, as they necessarily do, upon the weakest and worst
 informed, casting scorn and contempt on what should be held most sacred,
-and bringing into partial disrepute large bodies of virtuous and well-
+and bringing into partial disrepute large bodies of virtuous and [[Well|well]]-
 conducted persons of many excellent sects and persuasions. But as he
-leaned over the back of the chair for a considerable time, and closing
+leaned over the back of the chair for a considerable [[Time|time]], and closing
 one eye, winked a good deal with the other, it is presumed that he
 thought all this, but kept it to himself.
 
 During the delivery of the oration, Mrs. Weller sobbed and wept at the
-end of the paragraphs; while Sam, sitting cross-legged on a chair and
+end of the paragraphs; while Sam, sitting [[Cross|cross]]-legged on a chair and
 resting his arms on the top rail, regarded the speaker with great
 suavity and blandness of demeanour; occasionally bestowing a look of
 recognition on the old gentleman, who was delighted at the beginning,
-and went to sleep about half-way.
+and went to [[Sleep|sleep]] about half-way.
 
 ‘Brayvo; wery pretty!’ said Sam, when the red-nosed man having finished,
 pulled his worn gloves on, thereby thrusting his fingers through the
 broken tops till the knuckles were disclosed to view. ‘Wery pretty.’
 
-‘I hope it may do you good, Samuel,’ said Mrs. Weller solemnly.
+‘I [[Hope|hope]] it may do you good, Samuel,’ said Mrs. Weller solemnly.
 
 ‘I think it vill, mum,’ replied Sam.
 
-‘I wish I could hope that it would do your father good,’ said Mrs.
+‘I wish I could [[Hope|hope]] that it would do your father good,’ said Mrs.
 Weller.
 
 ‘Thank’ee, my dear,’ said Mr. Weller, senior. ‘How do you find yourself
-arter it, my love?’
+arter it, my [[Love|love]]?’
 
 ‘Scoffer!’ exclaimed Mrs. Weller.
 
@@ -447,7 +447,7 @@ arter it, my love?’
 
 ‘If I don’t get no better light than that ‘ere moonshine o’ yourn, my
 worthy creetur,’ said the elder Mr. Weller, ‘it’s wery likely as I shall
-continey to be a night coach till I’m took off the road altogether. Now,
+continey to be a [[Night|night]] coach till I’m took off the [[Road|road]] altogether. Now,
 Mrs. We, if the piebald stands at livery much longer, he’ll stand at
 nothin’ as we go back, and p’raps that ‘ere harm-cheer ‘ull be tipped
 over into some hedge or another, with the shepherd in it.’
@@ -461,7 +461,7 @@ to the lodge gate, and took a dutiful leave.
 
 ‘Wot’s a-do?’ inquired Sammy.
 
-‘Well, good-bye, then,’ said the old gentleman.
+‘[[Well]], good-bye, then,’ said the old gentleman.
 
 ‘Oh, that’s wot you’re aimin’ at, is it?’ said Sam. ‘Good-bye!’
 
@@ -501,77 +501,77 @@ coachman’s salute, and vanished.
 
 Sam had scarcely recovered his usual composure of countenance, which had
 been greatly disturbed by the secret communication of his respected
-relative, when Mr. Pickwick accosted him.
+relative, when Mr. [[Pickwick]] accosted him.
 
 ‘Sam,’ said that gentleman.
 
 ‘Sir,’ replied Mr. Weller.
 
-‘I am going for a walk round the prison, and I wish you to attend me. I
-see a prisoner we know coming this way, Sam,’ said Mr. Pickwick,
+‘I am going for a walk round the [[Prison|prison]], and I wish you to attend me. I
+see a prisoner we know coming this way, Sam,’ said Mr. [[Pickwick]],
 smiling.
 
 ‘Wich, Sir?’ inquired Mr. Weller; ‘the gen’l’m’n vith the head o’ hair,
 or the interestin’ captive in the stockin’s?’
 
-‘Neither,’ rejoined Mr. Pickwick. ‘He is an older friend of yours, Sam.’
+‘Neither,’ rejoined Mr. [[Pickwick]]. ‘He is an older friend of yours, Sam.’
 
 ‘O’ mine, Sir?’ exclaimed Mr. Weller.
 
-‘You recollect the gentleman very well, I dare say, Sam,’ replied Mr.
-Pickwick, ‘or else you are more unmindful of your old acquaintances than
+‘You recollect the gentleman very [[Well|well]], I dare say, Sam,’ replied Mr.
+[[Pickwick]], ‘or else you are more unmindful of your old acquaintances than
 I think you are. Hush! not a word, Sam; not a syllable. Here he is.’
 
-As Mr. Pickwick spoke, Jingle walked up. He looked less miserable than
+As Mr. [[Pickwick]] spoke, Jingle walked up. He looked less miserable than
 before, being clad in a half-worn suit of clothes, which, with Mr.
-Pickwick’s assistance, had been released from the pawnbroker’s. He wore
+[[Pickwick]]’s assistance, had been released from the pawnbroker’s. He wore
 clean linen too, and had had his hair cut. He was very pale and thin,
 however; and as he crept slowly up, leaning on a stick, it was easy to
 see that he had suffered severely from illness and want, and was still
-very weak. He took off his hat as Mr. Pickwick saluted him, and seemed
-much humbled and abashed at the sight of Sam Weller.
+very weak. He took off his hat as Mr. [[Pickwick]] saluted him, and seemed
+much humbled and abashed at the sight of [[Sam Weller]].
 
 Following close at his heels, came Mr. Job Trotter, in the catalogue of
-whose vices, want of faith and attachment to his companion could at all
+whose vices, want of [[Faith|faith]] and attachment to his companion could at all
 events find no place. He was still ragged and squalid, but his face was
-not quite so hollow as on his first meeting with Mr. Pickwick, a few
+not quite so hollow as on his first meeting with Mr. [[Pickwick]], a few
 days before. As he took off his hat to our benevolent old friend, he
 murmured some broken expressions of gratitude, and muttered something
 about having been saved from starving.
 
-‘Well, well,’ said Mr. Pickwick, impatiently interrupting him, ‘you can
+‘[[Well]], [[Well|well]],’ said Mr. [[Pickwick]], impatiently interrupting him, ‘you can
 follow with Sam. I want to speak to you, Mr. Jingle. Can you walk
 without his arm?’
 
 ‘Certainly, sir--all ready--not too fast--legs shaky--head queer--round
 and round--earthquaky sort of feeling--very.’
 
-‘Here, give me your arm,’ said Mr. Pickwick.
+‘Here, give me your arm,’ said Mr. [[Pickwick]].
 
 ‘No, no,’ replied Jingle; ‘won’t indeed--rather not.’
 
-‘Nonsense,’ said Mr. Pickwick; ‘lean upon me, I desire, Sir.’
+‘Nonsense,’ said Mr. [[Pickwick]]; ‘lean upon me, I [[Desire|desire]], Sir.’
 
 Seeing that he was confused and agitated, and uncertain what to do, Mr.
-Pickwick cut the matter short by drawing the invalided stroller’s arm
+[[Pickwick]] cut the matter short by drawing the invalided stroller’s arm
 through his, and leading him away, without saying another word about it.
 
-During the whole of this time the countenance of Mr. Samuel Weller had
+During the whole of this [[Time|time]] the countenance of Mr. Samuel Weller had
 exhibited an expression of the most overwhelming and absorbing
-astonishment that the imagination can portray. After looking from Job to
-Jingle, and from Jingle to Job in profound silence, he softly ejaculated
-the words, ‘Well, I _am_ damn’d!’ which he repeated at least a score of
+astonishment that the [[Imagination|imagination]] can portray. After looking from Job to
+Jingle, and from Jingle to Job in profound [[Silence|silence]], he softly ejaculated
+the words, ‘[[Well]], I _am_ damn’d!’ which he repeated at least a score of
 times; after which exertion, he appeared wholly bereft of speech, and
 again cast his eyes, first upon the one and then upon the other, in mute
 perplexity and bewilderment.
 
-‘Now, Sam!’ said Mr. Pickwick, looking back.
+‘Now, Sam!’ said Mr. [[Pickwick]], looking back.
 
 ‘I’m a-comin’, sir,’ replied Mr. Weller, mechanically following his
 master; and still he lifted not his eyes from Mr. Job Trotter, who
-walked at his side in silence.
+walked at his side in [[Silence|silence]].
 
-Job kept his eyes fixed on the ground for some time. Sam, with his glued
+Job kept his eyes fixed on the ground for some [[Time|time]]. Sam, with his glued
 to Job’s countenance, ran up against the people who were walking about,
 and fell over little children, and stumbled against steps and railings,
 without appearing at all sensible of it, until Job, looking stealthily
@@ -579,20 +579,20 @@ up, said--
 
 ‘How do you do, Mr. Weller?’
 
-‘It _is_ him!’ exclaimed Sam; and having established Job’s identity
-beyond all doubt, he smote his leg, and vented his feelings in a long,
+‘It _is_ him!’ exclaimed Sam; and having established Job’s [[Identity|identity]]
+beyond all [[Doubt|doubt]], he smote his leg, and vented his feelings in a long,
 shrill whistle.
 
 ‘Things has altered with me, sir,’ said Job.
 
 ‘I should think they had,’ exclaimed Mr. Weller, surveying his
-companion’s rags with undisguised wonder. ‘This is rayther a change for
+companion’s rags with undisguised [[Wonder|wonder]]. ‘This is rayther a change for
 the worse, Mr. Trotter, as the gen’l’m’n said, wen he got two doubtful
-shillin’s and sixpenn’orth o’ pocket-pieces for a good half-crown.’
+shillin’s and sixpenn’orth o’ pocket-pieces for a good half-[[Crown|crown]].’
 
-‘It is indeed,’ replied Job, shaking his head. ‘There is no deception
-now, Mr. Weller. Tears,’ said Job, with a look of momentary slyness--
-‘tears are not the only proofs of distress, nor the best ones.’
+‘It is indeed,’ replied Job, shaking his head. ‘There is no [[Deception|deception]]
+now, Mr. Weller. [[Tears]],’ said Job, with a look of momentary slyness--
+‘[[Tears|tears]] are not the only proofs of distress, nor the best ones.’
 
 ‘No, they ain’t,’ replied Sam expressively.
 
@@ -639,11 +639,11 @@ Thus admonished, Mr. Trotter raised the pot to his lips, and, by gentle
 and almost imperceptible degrees, tilted it into the air. He paused
 once, and only once, to draw a long breath, but without raising his face
 from the vessel, which, in a few moments thereafter, he held out at
-arm’s length, bottom upward. Nothing fell upon the ground but a few
+arm’s length, [[Bottom|bottom]] upward. Nothing fell upon the ground but a few
 particles of froth, which slowly detached themselves from the rim, and
 trickled lazily down.
 
-‘Well done!’ said Sam. ‘How do you find yourself arter it?’
+‘[[Well]] done!’ said Sam. ‘How do you find yourself arter it?’
 
 ‘Better, Sir. I think I am better,’ responded Job.
 
@@ -664,8 +664,8 @@ it to save boiling.’
 
 ‘He has, Sir,’ replied Job. ‘More than that, Mr. Weller; my master being
 very ill, he got us a room--we were in a kennel before--and paid for it,
-Sir; and come to look at us, at night, when nobody should know. Mr.
-Weller,’ said Job, with real tears in his eyes, for once, ‘I could serve
+Sir; and come to look at us, at [[Night|night]], when nobody should know. Mr.
+Weller,’ said Job, with real [[Tears|tears]] in his eyes, for once, ‘I could serve
 that gentleman till I fell down dead at his feet.’
 
 ‘I say!’ said Sam, ‘I’ll trouble you, my friend! None o’ that!’
@@ -684,37 +684,37 @@ defiance, Mr. Weller buttoned up his change in a side pocket, and, with
 many confirmatory nods and gestures by the way, proceeded in search of
 the subject of discourse.
 
-They found Mr. Pickwick, in company with Jingle, talking very earnestly,
+They found Mr. [[Pickwick]], in company with Jingle, talking very earnestly,
 and not bestowing a look on the groups who were congregated on the
 racket-ground; they were very motley groups too, and worth the looking
 at, if it were only in idle curiosity.
 
-‘Well,’ said Mr. Pickwick, as Sam and his companion drew nigh, ‘you will
+‘[[Well]],’ said Mr. [[Pickwick]], as Sam and his companion drew nigh, ‘you will
 see how your health becomes, and think about it meanwhile. Make the
 statement out for me when you feel yourself equal to the task, and I
 will discuss the subject with you when I have considered it. Now, go to
 your room. You are tired, and not strong enough to be out long.’
 
-Mr. Alfred Jingle, without one spark of his old animation--with nothing
-even of the dismal gaiety which he had assumed when Mr. Pickwick first
+Mr. [[Alfred Jingle]], without one spark of his old animation--with nothing
+even of the dismal gaiety which he had assumed when Mr. [[Pickwick]] first
 stumbled on him in his misery--bowed low without speaking, and,
 motioning to Job not to follow him just yet, crept slowly away.
 
-‘Curious scene this, is it not, Sam?’ said Mr. Pickwick, looking good-
+‘Curious scene this, is it not, Sam?’ said Mr. [[Pickwick]], looking good-
 humouredly round.
 
 ‘Wery much so, Sir,’ replied Sam. ‘Wonders ‘ull never cease,’ added Sam,
 speaking to himself. ‘I’m wery much mistaken if that ‘ere Jingle worn’t
-a-doin somethin’ in the water-cart way!’
+a-doin somethin’ in the [[Water|water]]-cart way!’
 
 The area formed by the wall in that part of the Fleet in which Mr.
-Pickwick stood was just wide enough to make a good racket-court; one
+[[Pickwick]] stood was just wide enough to make a good racket-[[Court|court]]; one
 side being formed, of course, by the wall itself, and the other by that
-portion of the prison which looked (or rather would have looked, but for
-the wall) towards St. Paul’s Cathedral. Sauntering or sitting about, in
+portion of the [[Prison|prison]] which looked (or rather would have looked, but for
+the wall) towards St. Paul’s [[Cathedral]]. Sauntering or sitting about, in
 every possible attitude of listless idleness, were a great number of
-debtors, the major part of whom were waiting in prison until their day
-of ‘going up’ before the Insolvent Court should arrive; while others had
+debtors, the major part of whom were waiting in [[Prison|prison]] until their day
+of ‘going up’ before the Insolvent [[Court]] should arrive; while others had
 been remanded for various terms, which they were idling away as they
 best could. Some were shabby, some were smart, many dirty, a few clean;
 but there they all lounged, and loitered, and slunk about with as little
@@ -725,24 +725,24 @@ number of persons, some in noisy conversation with their acquaintance
 below, others playing at ball with some adventurous throwers outside,
 others looking on at the racket-players, or watching the boys as they
 cried the game. Dirty, slipshod women passed and repassed, on their way
-to the cooking-house in one corner of the yard; children screamed, and
+to the cooking-[[house]] in one corner of the yard; children screamed, and
 fought, and played together, in another; the tumbling of the skittles,
 and the shouts of the players, mingled perpetually with these and a
 hundred other sounds; and all was noise and tumult--save in a little
 miserable shed a few yards off, where lay, all quiet and ghastly, the
-body of the Chancery prisoner who had died the night before, awaiting
-the mockery of an inquest. The body! It is the lawyer’s term for the
+[[Body|body]] of the Chancery prisoner who had died the [[Night|night]] before, awaiting
+the mockery of an inquest. The [[Body|body]]! It is the lawyer’s term for the
 restless, whirling mass of cares and anxieties, affections, hopes, and
-griefs, that make up the living man. The law had his body; and there it
-lay, clothed in grave-clothes, an awful witness to its tender mercy.
+griefs, that make up the living man. The law had his [[Body|body]]; and there it
+lay, clothed in [[Grave|grave]]-clothes, an awful witness to its tender [[Mercy|mercy]].
 
 ‘Would you like to see a whistling-shop, Sir?’ inquired Job Trotter.
 
-‘What do you mean?’ was Mr. Pickwick’s counter inquiry.
+‘What do you mean?’ was Mr. [[Pickwick]]’s counter inquiry.
 
 ‘A vistlin’ shop, Sir,’ interposed Mr. Weller.
 
-‘What is that, Sam?--A bird-fancier’s?’ inquired Mr. Pickwick.
+‘What is that, Sam?--A bird-fancier’s?’ inquired Mr. [[Pickwick]].
 
 ‘Bless your heart, no, Sir,’ replied Job; ‘a whistling-shop, Sir, is
 where they sell spirits.’ Mr. Job Trotter briefly explained here, that
@@ -764,17 +764,17 @@ people from the trade, and elewates their own characters.’
 
 ‘Exactly so, Mr. Weller,’ observed Job.
 
-‘Well, but are these rooms never searched to ascertain whether any
-spirits are concealed in them?’ said Mr. Pickwick.
+‘[[Well]], but are these rooms never searched to ascertain whether any
+spirits are concealed in them?’ said Mr. [[Pickwick]].
 
 ‘Cert’nly they are, Sir,’ replied Sam; ‘but the turnkeys knows
 beforehand, and gives the word to the wistlers, and you may wistle for
 it wen you go to look.’
 
-By this time, Job had tapped at a door, which was opened by a gentleman
+By this [[Time|time]], Job had tapped at a door, which was opened by a gentleman
 with an uncombed head, who bolted it after them when they had walked in,
 and grinned; upon which Job grinned, and Sam also; whereupon Mr.
-Pickwick, thinking it might be expected of him, kept on smiling to the
+[[Pickwick]], thinking it might be expected of him, kept on smiling to the
 end of the interview.
 
 The gentleman with the uncombed head appeared quite satisfied with this
@@ -787,13 +787,13 @@ in a most workmanlike manner.
 
 ‘No more,’ replied Job Trotter.
 
-Mr. Pickwick paid, the door was unbolted, and out they came; the
+Mr. [[Pickwick]] paid, the door was unbolted, and out they came; the
 uncombed gentleman bestowing a friendly nod upon Mr. Roker, who happened
 to be passing at the moment.
 
-From this spot, Mr. Pickwick wandered along all the galleries, up and
+From this spot, Mr. [[Pickwick]] wandered along all the galleries, up and
 down all the staircases, and once again round the whole area of the
-yard. The great body of the prison population appeared to be Mivins, and
+yard. The great [[Body|body]] of the [[Prison|prison]] population appeared to be Mivins, and
 Smangle, and the parson, and the butcher, and the leg, over and over,
 and over again. There were the same squalor, the same turmoil and noise,
 the same general characteristics, in every corner; in the best and the
@@ -801,12 +801,12 @@ worst alike. The whole place seemed restless and troubled; and the
 people were crowding and flitting to and fro, like the shadows in an
 uneasy dream.
 
-‘I have seen enough,’ said Mr. Pickwick, as he threw himself into a
+‘I have seen enough,’ said Mr. [[Pickwick]], as he threw himself into a
 chair in his little apartment. ‘My head aches with these scenes, and my
 heart too. Henceforth I will be a prisoner in my own room.’
 
-And Mr. Pickwick steadfastly adhered to this determination. For three
-long months he remained shut up, all day; only stealing out at night to
+And Mr. [[Pickwick]] steadfastly adhered to this determination. For three
+long months he remained shut up, all day; only stealing out at [[Night|night]] to
 breathe the air, when the greater part of his fellow-prisoners were in
 bed or carousing in their rooms. His health was beginning to suffer from
 the closeness of the confinement, but neither the often-repeated

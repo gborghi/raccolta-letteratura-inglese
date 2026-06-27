@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 50"
+title: "[[Nicholas Nickleby]] — Chapter 50"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,8 +25,8 @@ cloudless sky, and shining in its fullest splendour. Every gaudy colour
 that fluttered in the air from carriage seat and garish tent top, shone
 out in its gaudiest hues. Old dingy flags grew new again, faded gilding
 was re-burnished, stained rotten canvas looked a snowy white, the very
-beggars’ rags were freshened up, and sentiment quite forgot its charity
-in its fervent admiration of poverty so picturesque.
+beggars’ rags were freshened up, and sentiment quite forgot its [[Charity|charity]]
+in its fervent admiration of [[Poverty|poverty]] so picturesque.
 
 It was one of those scenes of life and animation, caught in its very
 brightest and freshest moments, which can scarcely fail to please;
@@ -39,11 +39,11 @@ though they be, suggest a drop of comfort. It is a pleasant thing to see
 that the sun has been there; to know that the air and light are on them
 every day; to feel that they ARE children, and lead children’s lives;
 that if their pillows be damp, it is with the dews of Heaven, and not
-with tears; that the limbs of their girls are free, and that they are
+with [[Tears|tears]]; that the limbs of their girls are free, and that they are
 not crippled by distortions, imposing an unnatural and horrible penance
 upon their sex; that their lives are spent, from day to day, at least
 among the waving trees, and not in the midst of dreadful engines which
-make young children old before they know what childhood is, and give
+make young children old before they know what [[Childhood|childhood]] is, and give
 them the exhaustion and infirmity of age, without, like age, the
 privilege to die. God send that old nursery tales were true, and that
 gypsies stole such children by the score!
@@ -52,14 +52,14 @@ The great race of the day had just been run; and the close lines of
 people, on either side of the course, suddenly breaking up and pouring
 into it, imparted a new liveliness to the scene, which was again all
 busy movement. Some hurried eagerly to catch a glimpse of the winning
-horse; others darted to and fro, searching, no less eagerly, for the
-carriages they had left in quest of better stations. Here, a little knot
+[[Horse|horse]]; others darted to and fro, searching, no less eagerly, for the
+carriages they had left in [[Quest|quest]] of better stations. Here, a little knot
 gathered round a pea and thimble table to watch the plucking of some
 unhappy greenhorn; and there, another proprietor with his confederates
 in various disguises--one man in spectacles; another, with an eyeglass
-and a stylish hat; a third, dressed as a farmer well to do in the world,
+and a stylish hat; a third, dressed as a farmer [[Well|well]] to do in the world,
 with his top-coat over his arm and his flash notes in a large leathern
-pocket-book; and all with heavy-handled whips to represent most innocent
+pocket-book; and all with heavy-handled whips to represent most [[Innocent|innocent]]
 country fellows who had trotted there on horseback--sought, by loud and
 noisy talk and pretended play, to entrap some unwary customer, while the
 gentlemen confederates (of more villainous aspect still, in clean linen
@@ -82,8 +82,8 @@ gambling, and mummery.
 Of the gambling-booths there was a plentiful show, flourishing in all
 the splendour of carpeted ground, striped hangings, crimson cloth,
 pinnacled roofs, geranium pots, and livery servants. There were the
-Stranger’s club-house, the Athenaeum club-house, the Hampton club-house,
-the St James’s club-house, and half a mile of club-houses to play IN;
+Stranger’s club-[[house]], the Athenaeum club-[[house]], the Hampton club-[[house]],
+the St James’s club-[[house]], and half a mile of club-houses to play IN;
 and there were ROUGE-ET-NOIR, French hazard, and other games to play AT.
 It is into one of these booths that our story takes its way.
 
@@ -106,7 +106,7 @@ Of these, one was a man of six or eight and fifty, who sat on a chair
 near one of the entrances of the booth, with his hands folded on the
 top of his stick, and his chin appearing above them. He was a tall, fat,
 long-bodied man, buttoned up to the throat in a light green coat, which
-made his body look still longer than it was. He wore, besides, drab
+made his [[Body|body]] look still longer than it was. He wore, besides, drab
 breeches and gaiters, a white neckerchief, and a broad-brimmed white
 hat. Amid all the buzzing noise of the games, and the perpetual passing
 in and out of the people, he seemed perfectly calm and abstracted,
@@ -122,7 +122,7 @@ fixed in a trance, or under the influence of opium. People turned round
 and looked at him; he made no gesture, caught nobody’s eye, let them
 pass away, and others come on and be succeeded by others, and took no
 notice. When he did move, it seemed wonderful how he could have seen
-anything to occasion it. And so, in truth, it was. But there was not a
+anything to occasion it. And so, in [[Truth|truth]], it was. But there was not a
 face that passed in or out, which this man failed to see; not a gesture
 at any one of the three tables that was lost upon him; not a word,
 spoken by the bankers, but reached his ear; not a winner or loser he
@@ -136,7 +136,7 @@ was rather an honest and jolly one than otherwise. He wore no coat,
 the weather being hot, and stood behind the table with a huge mound of
 crowns and half-crowns before him, and a cash-box for notes. This game
 was constantly playing. Perhaps twenty people would be staking at the
-same time. This man had to roll the ball, to watch the stakes as they
+same [[Time|time]]. This man had to roll the ball, to watch the stakes as they
 were laid down, to gather them off the colour which lost, to pay those
 who won, to do it all with the utmost dispatch, to roll the ball again,
 and to keep this game perpetually alive. He did it all with a rapidity
@@ -146,14 +146,14 @@ the following, which, partly from habit, and partly to have something
 appropriate and business-like to say, he constantly poured out with the
 same monotonous emphasis, and in nearly the same order, all day long:
 
-‘Rooge-a-nore from Paris! Gentlemen, make your game and back your
-own opinions--any time while the ball rolls--rooge-a-nore from Paris,
+‘Rooge-a-nore from [[Paris]]! Gentlemen, make your game and back your
+own opinions--any [[Time|time]] while the ball rolls--rooge-a-nore from [[Paris]],
 gentlemen, it’s a French game, gentlemen, I brought it over myself, I
-did indeed!--Rooge-a-nore from Paris--black wins--black--stop a minute,
+did indeed!--Rooge-a-nore from [[Paris]]--black wins--black--stop a minute,
 sir, and I’ll pay you, directly--two there, half a pound there, three
-there--and one there--gentlemen, the ball’s a rolling--any time, sir,
-while the ball rolls!--The beauty of this game is, that you can double
-your stakes or put down your money, gentlemen, any time while the ball
+there--and one there--gentlemen, the ball’s a [[rolling]]--any [[Time|time]], sir,
+while the ball rolls!--The [[Beauty|beauty]] of this game is, that you can [[Double|double]]
+your stakes or put down your money, gentlemen, any [[Time|time]] while the ball
 rolls--black again--black wins--I never saw such a thing--I never did,
 in all my life, upon my word I never did; if any gentleman had
 been backing the black in the last five minutes he must have won
@@ -161,21 +161,21 @@ five-and-forty pound in four rolls of the ball, he must indeed.
 Gentlemen, we’ve port, sherry, cigars, and most excellent champagne.
 Here, wai-ter, bring a bottle of champagne, and let’s have a dozen or
 fifteen cigars here--and let’s be comfortable, gentlemen--and bring some
-clean glasses--any time while the ball rolls!--I lost one hundred and
+clean glasses--any [[Time|time]] while the ball rolls!--I lost one hundred and
 thirty-seven pound yesterday, gentlemen, at one roll of the ball, I
 did indeed!--how do you do, sir?’ (recognising some knowing gentleman
 without any halt or change of voice, and giving a wink so slight that
 it seems an accident), ‘will you take a glass of sherry, sir?--here,
 wai-ter! bring a clean glass, and hand the sherry to this gentleman--and
-hand it round, will you, waiter?--this is the rooge-a-nore from Paris,
-gentlemen--any time while the ball rolls!--gentlemen, make your game,
-and back your own opinions--it’s the rooge-a-nore from Paris--quite a
+hand it round, will you, waiter?--this is the rooge-a-nore from [[Paris]],
+gentlemen--any [[Time|time]] while the ball rolls!--gentlemen, make your game,
+and back your own opinions--it’s the rooge-a-nore from [[Paris]]--quite a
 new game, I brought it over myself, I did indeed--gentlemen, the ball’s
-a-rolling!’
+a-[[rolling]]!’
 
 This officer was busily plying his vocation when half-a-dozen persons
 sauntered through the booth, to whom, but without stopping either in his
-speech or work, he bowed respectfully; at the same time directing, by
+speech or work, he bowed respectfully; at the same [[Time|time]] directing, by
 a look, the attention of a man beside him to the tallest figure in the
 group, in recognition of whom the proprietor pulled off his hat. This
 was Sir Mulberry Hawk, with whom were his friend and pupil, and a small
@@ -189,7 +189,7 @@ turned to speak with his friends.
 There was evidently an irritable consciousness about him that he was an
 object of curiosity, on this first occasion of showing himself in public
 after the accident that had befallen him; and it was easy to perceive
-that he appeared on the race-course, that day, more in the hope of
+that he appeared on the race-course, that day, more in the [[Hope|hope]] of
 meeting with a great many people who knew him, and so getting over as
 much as possible of the annoyance at once, than with any purpose of
 enjoying the sport. There yet remained a slight scar upon his face,
@@ -207,7 +207,7 @@ shook hands with excessive cordiality.
 
 ‘And how are you now, old fellow, hey?’
 
-‘Quite well, quite well,’ said Sir Mulberry.
+‘Quite [[Well|well]], quite [[Well|well]],’ said Sir Mulberry.
 
 ‘That’s right,’ said the other. ‘How d’ye do, Verisopht? He’s a little
 pulled down, our friend here. Rather out of condition still, hey?’
@@ -219,16 +219,16 @@ same monosyllable, which he uttered so as to display them.
 ‘He’s in very good condition; there’s nothing the matter with him,’ said
 the young man carelessly.
 
-‘Upon my soul I’m glad to hear it,’ rejoined the other. ‘Have you just
+‘Upon my [[Soul|soul]] I’m glad to hear it,’ rejoined the other. ‘Have you just
 returned from Brussels?’
 
-‘We only reached town late last night,’ said Lord Frederick. Sir
+‘We only reached town late last [[Night|night]],’ said Lord Frederick. Sir
 Mulberry turned away to speak to one of his own party, and feigned not
 to hear.
 
 ‘Now, upon my life,’ said the friend, affecting to speak in a whisper,
 ‘it’s an uncommonly bold and game thing in Hawk to show himself so soon.
-I say it advisedly; there’s a vast deal of courage in it. You see he has
+I say it advisedly; there’s a vast deal of [[Courage|courage]] in it. You see he has
 just rusticated long enough to excite curiosity, and not long enough for
 men to have forgotten that deuced unpleasant--by-the-bye--you know the
 rights of the affair, of course? Why did you never give those confounded
@@ -254,10 +254,10 @@ His companion said nothing, but there was something in his manner which
 galled Sir Mulberry to add, with nearly as much ferocity as if his
 friend had been Nicholas himself:
 
-‘I sent Jenkins to old Nickleby before eight o’clock this morning. He’s
+‘I sent Jenkins to old Nickleby before eight o’[[Clock|clock]] this morning. He’s
 a staunch one; he was back with me before the messenger. I had it all
 from him in the first five minutes. I know where this hound is to be met
-with; time and place both. But there’s no need to talk; tomorrow will
+with; [[Time|time]] and place both. But there’s no need to talk; tomorrow will
 soon be here.’
 
 ‘And wha-at’s to be done tomorrow?’ inquired Lord Frederick.
@@ -265,14 +265,14 @@ soon be here.’
 Sir Mulberry Hawk honoured him with an angry glance, but condescended
 to return no verbal answer to this inquiry. Both walked sullenly on, as
 though their thoughts were busily occupied, until they were quite clear
-of the crowd, and almost alone, when Sir Mulberry wheeled round to
+of the crowd, and almost [[Alone|alone]], when Sir Mulberry wheeled round to
 return.
 
 ‘Stop,’ said his companion, ‘I want to speak to you in earnest. Don’t
 turn back. Let us walk here, a few minutes.’
 
-‘What have you to say to me, that you could not say yonder as well as
-here?’ returned his Mentor, disengaging his arm.
+‘What have you to say to me, that you could not say yonder as [[Well|well]] as
+here?’ returned his [[Mentor]], disengaging his arm.
 
 ‘Hawk,’ rejoined the other, ‘tell me; I must know.’
 
@@ -281,14 +281,14 @@ must know, of course there’s no escape for me. Must know!’
 
 ‘Must ask then,’ returned Lord Frederick, ‘and must press you for a
 plain and straightforward answer. Is what you have just said only a
-mere whim of the moment, occasioned by your being out of humour and
+mere whim of the moment, occasioned by your being out of [[Humour|humour]] and
 irritated, or is it your serious intention, and one that you have
 actually contemplated?’
 
-‘Why, don’t you remember what passed on the subject one night, when I
+‘Why, don’t you remember what passed on the subject one [[Night|night]], when I
 was laid up with a broken limb?’ said Sir Mulberry, with a sneer.
 
-‘Perfectly well.’
+‘Perfectly [[Well|well]].’
 
 ‘Then take that for an answer, in the devil’s name,’ replied Sir
 Mulberry, ‘and ask me for no other.’
@@ -298,7 +298,7 @@ latter’s general habit of submission, that, for the moment, the young
 man seemed half afraid to pursue the subject. He soon overcame this
 feeling, however, if it had restrained him at all, and retorted angrily:
 
-‘If I remember what passed at the time you speak of, I expressed a
+‘If I remember what passed at the [[Time|time]] you speak of, I expressed a
 strong opinion on this subject, and said that, with my knowledge or
 consent, you never should do what you threaten now.’
 
@@ -315,11 +315,11 @@ mine. It’s mine already. I am more compromised than I should be, as it
 is.’
 
 ‘Do as you please, and what you please, for yourself,’ said Sir
-Mulberry, affecting an easy good-humour. ‘Surely that must content
+Mulberry, affecting an easy good-[[Humour|humour]]. ‘Surely that must content
 you! Do nothing for me; that’s all. I advise no man to interfere in
 proceedings that I choose to take. I am sure you know me better than
-to do so. The fact is, I see, you mean to offer me advice. It is well
-meant, I have no doubt, but I reject it. Now, if you please, we will
+to do so. The fact is, I see, you mean to offer me advice. It is [[Well|well]]
+meant, I have no [[Doubt|doubt]], but I reject it. Now, if you please, we will
 return to the carriage. I find no entertainment here, but quite the
 reverse. If we prolong this conversation, we might quarrel, which would
 be no proof of wisdom in either you or me.’
@@ -333,8 +333,8 @@ if his dominion were to last, it must be established now. He knew that
 the moment he became violent, the young man would become violent too.
 He had, many times, been enabled to strengthen his influence, when
 any circumstance had occurred to weaken it, by adopting this cool and
-laconic style; and he trusted to it now, with very little doubt of its
-entire success.
+laconic style; and he trusted to it now, with very little [[Doubt|doubt]] of its
+entire [[success]].
 
 But while he did this, and wore the most careless and indifferent
 deportment that his practised arts enabled him to assume, he inwardly
@@ -360,11 +360,11 @@ and the circumstances which led to it, had arrived at a manly and
 honest conclusion. Sir Mulberry’s coarse and insulting behaviour on
 the occasion in question had produced a deep impression on his mind; a
 strong suspicion of his having led him on to pursue Miss Nickleby for
-purposes of his own, had been lurking there for some time; he was really
+purposes of his own, had been lurking there for some [[Time|time]]; he was really
 ashamed of his share in the transaction, and deeply mortified by the
 misgiving that he had been gulled. He had had sufficient leisure to
 reflect upon these things, during their late retirement; and, at times,
-when his careless and indolent nature would permit, had availed himself
+when his careless and indolent [[Nature|nature]] would permit, had availed himself
 of the opportunity. Slight circumstances, too, had occurred to increase
 his suspicion. It wanted but a very slight circumstance to kindle his
 wrath against Sir Mulberry. This his disdainful and insolent tone in
@@ -396,16 +396,16 @@ it had done all day. Sir Mulberry drank to recompense himself for his
 recent abstinence; the young lord, to drown his indignation; and the
 remainder of the party, because the wine was of the best and they had
 nothing to pay. It was nearly midnight when they rushed out, wild,
-burning with wine, their blood boiling, and their brains on fire, to the
+burning with wine, their [[Blood|blood]] boiling, and their brains on [[Fire|fire]], to the
 gaming-table.
 
 Here, they encountered another party, mad like themselves. The
 excitement of play, hot rooms, and glaring lights was not calculated to
-allay the fever of the time. In that giddy whirl of noise and confusion,
+allay the fever of the [[Time|time]]. In that giddy whirl of noise and confusion,
 the men were delirious. Who thought of money, ruin, or the morrow, in
 the savage intoxication of the moment? More wine was called for, glass
 after glass was drained, their parched and scalding mouths were cracked
-with thirst. Down poured the wine like oil on blazing fire. And still
+with thirst. Down poured the wine like oil on blazing [[Fire|fire]]. And still
 the riot went on. The debauchery gained its height; glasses were dashed
 upon the floor by hands that could not carry them to lips; oaths were
 shouted out by lips which could scarcely form the words to vent them
@@ -429,9 +429,9 @@ tonight!’
 
 ‘I will not, by G--,’ he replied. ‘A dozen men about us saw the blow.’
 
-‘Tomorrow will be ample time,’ said the friend.
+‘Tomorrow will be ample [[Time|time]],’ said the friend.
 
-‘It will not be ample time!’ cried Sir Mulberry. ‘Tonight, at once,
+‘It will not be ample [[Time|time]]!’ cried Sir Mulberry. ‘Tonight, at once,
 here!’ His passion was so great, that he could not articulate, but stood
 clenching his fist, tearing his hair, and stamping upon the ground.
 
@@ -451,11 +451,11 @@ his friend.
 It was a profligate haunt of the worst repute, and not a place in which
 such an affair was likely to awaken any sympathy for either party, or
 to call forth any further remonstrance or interposition. Elsewhere, its
-further progress would have been instantly prevented, and time allowed
+further progress would have been instantly prevented, and [[Time|time]] allowed
 for sober and cool reflection; but not there. Disturbed in their orgies,
 the party broke up; some reeled away with looks of tipsy gravity; others
 withdrew noisily discussing what had just occurred; the gentlemen of
-honour who lived upon their winnings remarked to each other, as they
+[[Honour|honour]] who lived upon their winnings remarked to each other, as they
 went out, that Hawk was a good shot; and those who had been most noisy,
 fell fast asleep upon the sofas, and thought no more about it.
 
@@ -465,8 +465,8 @@ utterly heartless, both men upon town, both thoroughly initiated in its
 worst vices, both deeply in debt, both fallen from some higher estate,
 both addicted to every depravity for which society can find some genteel
 name and plead its most depraving conventionalities as an excuse, they
-were naturally gentlemen of most unblemished honour themselves, and of
-great nicety concerning the honour of other people.
+were naturally gentlemen of most unblemished [[Honour|honour]] themselves, and of
+great nicety concerning the [[Honour|honour]] of other people.
 
 These two gentlemen were unusually cheerful just now; for the affair was
 pretty certain to make some noise, and could scarcely fail to enhance
@@ -495,25 +495,25 @@ hour and the place of meeting. It’s a responsibility; but there is a
 strong feeling to have it over. Do you object to say at sunrise?’
 
 ‘Sharp work,’ replied the captain, referring to his watch; ‘however, as
-this seems to have been a long time breeding, and negotiation is only a
+this seems to have been a long [[Time|time]] breeding, and negotiation is only a
 waste of words, no.’
 
 ‘Something may possibly be said, out of doors, after what passed in the
 other room, which renders it desirable that we should be off without
 delay, and quite clear of town,’ said Mr. Westwood. ‘What do you say to
-one of the meadows opposite Twickenham, by the river-side?’
+one of the meadows opposite Twickenham, by the [[River|river]]-side?’
 
 The captain saw no objection.
 
 ‘Shall we join company in the avenue of trees which leads from Petersham
-to Ham House, and settle the exact spot when we arrive there?’ said Mr
+to Ham [[house|House]], and settle the exact spot when we arrive there?’ said Mr
 Westwood.
 
 To this the captain also assented. After a few other preliminaries,
-equally brief, and having settled the road each party should take to
+equally brief, and having settled the [[Road|road]] each party should take to
 avoid suspicion, they separated.
 
-‘We shall just have comfortable time, my lord,’ said the captain, when
+‘We shall just have comfortable [[Time|time]], my lord,’ said the captain, when
 he had communicated the arrangements, ‘to call at my rooms for a case of
 pistols, and then jog coolly down. If you will allow me to dismiss your
 servant, we’ll take my cab; for yours, perhaps, might be recognised.’
@@ -524,7 +524,7 @@ was substituted the clear, bright, glorious morning; for a hot, close
 atmosphere, tainted with the smell of expiring lamps, and reeking with
 the steams of riot and dissipation, the free, fresh, wholesome air. But
 to the fevered head on which that cool air blew, it seemed to come laden
-with remorse for time misspent and countless opportunities neglected.
+with remorse for [[Time|time]] misspent and countless opportunities neglected.
 With throbbing veins and burning skin, eyes wild and heavy, thoughts
 hurried and disordered, he felt as though the light were a reproach, and
 shrunk involuntarily from the day as if he were some foul and hideous
@@ -538,7 +538,7 @@ thing.
 about you. So, so; now we’re off.’
 
 They rattled through the quiet streets, made their call at the captain’s
-lodgings, cleared the town, and emerged upon the open road, without
+lodgings, cleared the town, and emerged upon the open [[Road|road]], without
 hindrance or molestation.
 
 Fields, trees, gardens, hedges, everything looked very beautiful; the
@@ -546,37 +546,37 @@ young man scarcely seemed to have noticed them before, though he had
 passed the same objects a thousand times. There was a peace and serenity
 upon them all, strangely at variance with the bewilderment and confusion
 of his own half-sobered thoughts, and yet impressive and welcome. He had
-no fear upon his mind; but, as he looked about him, he had less anger;
+no [[Fear|fear]] upon his mind; but, as he looked about him, he had less anger;
 and though all old delusions, relative to his worthless late companion,
 were now cleared away, he rather wished he had never known him than
 thought of its having come to this.
 
-The past night, the day before, and many other days and nights beside,
+The past [[Night|night]], the day before, and many other days and nights beside,
 all mingled themselves up in one unintelligible and senseless whirl; he
-could not separate the transactions of one time from those of another.
+could not separate the transactions of one [[Time|time]] from those of another.
 Now, the noise of the wheels resolved itself into some wild tune in
 which he could recognise scraps of airs he knew; now, there was nothing
-in his ears but a stunning and bewildering sound, like rushing water.
+in his ears but a stunning and bewildering sound, like rushing [[Water|water]].
 But his companion rallied him on being so silent, and they talked and
 laughed boisterously. When they stopped, he was a little surprised to
 find himself in the act of smoking; but, on reflection, he remembered
 when and where he had taken the cigar.
 
 They stopped at the avenue gate and alighted, leaving the carriage to
-the care of the servant, who was a smart fellow, and nearly as well
+the care of the servant, who was a smart fellow, and nearly as [[Well|well]]
 accustomed to such proceedings as his master. Sir Mulberry and his
-friend were already there. All four walked in profound silence up the
+friend were already there. All four walked in profound [[Silence|silence]] up the
 aisle of stately elm trees, which, meeting far above their heads, formed
 a long green perspective of Gothic arches, terminating, like some old
 ruin, in the open sky.
 
 After a pause, and a brief conference between the seconds, they, at
 length, turned to the right, and taking a track across a little meadow,
-passed Ham House and came into some fields beyond. In one of these, they
+passed Ham [[house|House]] and came into some fields beyond. In one of these, they
 stopped. The ground was measured, some usual forms gone through, the two
 principals were placed front to front at the distance agreed upon, and
 Sir Mulberry turned his face towards his young adversary for the first
-time. He was very pale, his eyes were bloodshot, his dress disordered,
+[[Time|time]]. He was very pale, his eyes were bloodshot, his dress disordered,
 and his hair dishevelled. For the face, it expressed nothing but violent
 and evil passions. He shaded his eyes with his hand; grazed at his
 opponent, steadfastly, for a few moments; and, then taking the weapon
@@ -589,22 +589,22 @@ his adversary a ghastly stare, and without a groan or stagger, fell down
 dead.
 
 ‘He’s gone!’ cried Westwood, who, with the other second, had run up to
-the body, and fallen on one knee beside it.
+the [[Body|body]], and fallen on one knee beside it.
 
-‘His blood on his own head,’ said Sir Mulberry. ‘He brought this upon
+‘His [[Blood|blood]] on his own head,’ said Sir Mulberry. ‘He brought this upon
 himself, and forced it upon me.’
 
 ‘Captain Adams,’ cried Westwood, hastily, ‘I call you to witness that
 this was fairly done. Hawk, we have not a moment to lose. We must leave
-this place immediately, push for Brighton, and cross to France with all
-speed. This has been a bad business, and may be worse, if we delay
+this place immediately, push for Brighton, and [[Cross|cross]] to France with all
+[[Speed|speed]]. This has been a bad business, and may be worse, if we delay
 a moment. Adams, consult your own safety, and don’t remain here; the
 living before the dead; goodbye!’
 
 With these words, he seized Sir Mulberry by the arm, and hurried him
 away. Captain Adams--only pausing to convince himself, beyond all
 question, of the fatal result--sped off in the same direction, to
-concert measures with his servant for removing the body, and securing
+concert measures with his servant for removing the [[Body|body]], and securing
 his own safety likewise.
 
 So died Lord Frederick Verisopht, by the hand which he had loaded with
@@ -612,9 +612,9 @@ gifts, and clasped a thousand times; by the act of him, but for whom,
 and others like him, he might have lived a happy man, and died with
 children’s faces round his bed.
 
-The sun came proudly up in all his majesty, the noble river ran its
-winding course, the leaves quivered and rustled in the air, the birds
-poured their cheerful songs from every tree, the short-lived butterfly
+The sun came proudly up in all his majesty, the noble [[River|river]] ran its
+winding course, the [[Leaves|leaves]] quivered and rustled in the air, the [[Birds|birds]]
+poured their cheerful [[songs]] from every tree, the short-lived butterfly
 fluttered its little wings; all the light and life of day came on; and,
 amidst it all, and pressing down the grass whose every blade bore twenty
 tiny lives, lay the dead man, with his stark and rigid face turned

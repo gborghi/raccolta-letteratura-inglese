@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 13 (part 3)"
+title: "[[Jane Eyre]] — Chapter 13 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -48,7 +48,7 @@ I departed, obeying his directions.
 
 “Enough!” he called out in a few minutes. “You play _a little_, I see;
 like any other English school-girl; perhaps rather better than some,
-but not well.”
+but not [[Well|well]].”
 
 I closed the piano and returned. Mr. Rochester continued—
 
@@ -58,7 +58,7 @@ master aided you?”
 
 “No, indeed!” I interjected.
 
-“Ah! that pricks pride. Well, fetch me your portfolio, if you can vouch
+“Ah! that pricks [[Pride|pride]]. [[Well]], fetch me your portfolio, if you can vouch
 for its contents being original; but don’t pass your word unless you
 are certain: I can recognise patchwork.”
 
@@ -72,7 +72,7 @@ Mrs. Fairfax drew near to see the pictures.
 “No crowding,” said Mr. Rochester: “take the drawings from my hand as I
 finish with them; but don’t push your faces up to mine.”
 
-He deliberately scrutinised each sketch and painting. Three he laid
+He deliberately scrutinised each [[Sketch|sketch]] and painting. Three he laid
 aside; the others, when he had examined them, he swept from him.
 
 “Take them off to the other table, Mrs. Fairfax,” said he, “and look at
@@ -82,7 +82,7 @@ hand yours?”
 
 “Yes.”
 
-“And when did you find time to do them? They have taken much time, and
+“And when did you find [[Time|time]] to do them? They have taken much [[Time|time]], and
 some thought.”
 
 “I did them in the last two vacations I spent at Lowood, when I had no
@@ -98,7 +98,7 @@ other occupation.”
 
 “Has it other furniture of the same kind within?”
 
-“I should think it may have: I should hope—better.”
+“I should think it may have: I should [[Hope|hope]]—better.”
 
 He spread the pictures before him, and again surveyed them alternately.
 
@@ -109,41 +109,41 @@ eye, before I attempted to embody them, they were striking; but my hand
 would not second my fancy, and in each case it had wrought out but a
 pale portrait of the thing I had conceived.
 
-These pictures were in water-colours. The first represented clouds low
-and livid, rolling over a swollen sea: all the distance was in eclipse;
+These pictures were in [[Water|water]]-colours. The first represented clouds low
+and livid, [[rolling]] over a swollen sea: all the distance was in eclipse;
 so, too, was the foreground; or rather, the nearest billows, for there
 was no land. One gleam of light lifted into relief a half-submerged
 mast, on which sat a cormorant, dark and large, with wings flecked with
 foam; its beak held a gold bracelet set with gems, that I had touched
 with as brilliant tints as my palette could yield, and as glittering
 distinctness as my pencil could impart. Sinking below the bird and
-mast, a drowned corpse glanced through the green water; a fair arm was
+mast, a drowned corpse glanced through the green [[Water|water]]; a fair arm was
 the only limb clearly visible, whence the bracelet had been washed or
 torn.
 
 The second picture contained for foreground only the dim peak of a
-hill, with grass and some leaves slanting as if by a breeze. Beyond and
+[[Hill|hill]], with grass and some [[Leaves|leaves]] slanting as if by a breeze. Beyond and
 above spread an expanse of sky, dark blue as at twilight: rising into
 the sky was a woman’s shape to the bust, portrayed in tints as dusk and
 soft as I could combine. The dim forehead was crowned with a star; the
 lineaments below were seen as through the suffusion of vapour; the eyes
 shone dark and wild; the hair streamed shadowy, like a beamless cloud
-torn by storm or by electric travail. On the neck lay a pale reflection
+torn by [[Storm|storm]] or by electric travail. On the neck lay a pale reflection
 like moonlight; the same faint lustre touched the train of thin clouds
-from which rose and bowed this vision of the Evening Star.
+from which [[Rose|rose]] and bowed this vision of the [[Evening Star]].
 
-The third showed the pinnacle of an iceberg piercing a polar winter
+The third showed the pinnacle of an iceberg piercing a polar [[Winter|winter]]
 sky: a muster of northern lights reared their dim lances, close
-serried, along the horizon. Throwing these into distance, rose, in the
+serried, along the horizon. Throwing these into distance, [[Rose|rose]], in the
 foreground, a head,—a colossal head, inclined towards the iceberg, and
 resting against it. Two thin hands, joined under the forehead, and
 supporting it, drew up before the lower features a sable veil; a brow
 quite bloodless, white as bone, and an eye hollow and fixed, blank of
-meaning but for the glassiness of despair, alone were visible. Above
+meaning but for the glassiness of [[Despair|despair]], [[Alone|alone]] were visible. Above
 the temples, amidst wreathed turban folds of black drapery, vague in
 its character and consistency as cloud, gleamed a ring of white flame,
 gemmed with sparkles of a more lurid tinge. This pale crescent was “the
-likeness of a kingly crown;” what it diademed was “the shape which
+likeness of a kingly [[Crown|crown]];” what it diademed was “the shape which
 shape had none.”
 
 “Were you happy when you painted these pictures?” asked Mr. Rochester
@@ -153,6 +153,6 @@ presently.
 was to enjoy one of the keenest pleasures I have ever known.”
 
 “That is not saying much. Your pleasures, by your own account, have
-been few; but I daresay you did exist in a kind of artist’s dreamland
+been few; but I daresay you did exist in a kind of [[artist]]’s dreamland
 while you blent and arranged these strange tints. Did you sit at them
 long each day?”

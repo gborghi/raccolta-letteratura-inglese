@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 14)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 14)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -90,11 +90,11 @@ that the Teutonic mercenaries did not confine themselves solely to
 
 torturing Irishmen. They were equally ready to torture Englishmen: for
 
-mercenaries are mostly unprejudiced. To Cobbett's eye we were suffering
+mercenaries are mostly unprejudiced. To Cobbett's eye we were [[Suffering|suffering]]
 
 from allies exactly as we should suffer from invaders. Boney was a
 
-bogey; but the German was a nightmare, a thing actually sitting on top
+bogey; but the German was a [[nightmare]], a thing actually sitting on top
 
 of us. In Ireland the Alliance meant the ruin of anything and
 
@@ -110,7 +110,7 @@ After this affair of the scourging, he wielded his pen like a scourge
 
 until he died. This terrible pamphleteer was one of those men who exist
 
-to prove the distinction between a biography and a life. From his
+to prove the distinction between a [[Biography|biography]] and a life. From his
 
 biographies you will learn that he was a Radical who had once been a
 
@@ -128,7 +128,7 @@ because he cared for their past, and liberal because he cared for their
 
 future. But he was much more than this. He had two forms of moral
 
-manhood very rare in our time: he was ready to uproot ancient successes,
+manhood very rare in our [[Time|time]]: he was ready to uproot ancient successes,
 
 and he was ready to defy oncoming doom. Burke said that few are the
 
@@ -138,7 +138,7 @@ still are the critics of a tyranny that has remained. Burke certainly
 
 was not one of them. While lashing himself into a lunacy against the
 
-French Revolution, which only very incidentally destroyed the property
+[[French Revolution]], which only very incidentally destroyed the property
 
 of the rich, he never criticised (to do him justice, perhaps never saw)
 
@@ -148,17 +148,17 @@ with the fencing in of enclosures; a revolution which sweepingly and
 
 systematically destroyed the property of the poor. While rhetorically
 
-putting the Englishman in a castle, politically he would not allow him
+putting the Englishman in a [[Castle|castle]], politically he would not allow him
 
 on a common. Cobbett, a much more historical thinker, saw the beginning
 
 of Capitalism in the Tudor pillage and deplored it; he saw the triumph
 
-of Capitalism in the industrial cities and defied it. The paradox he was
+of Capitalism in the industrial cities and defied it. The [[Paradox|paradox]] he was
 
 maintaining really amounted to the assertion that Westminster Abbey is
 
-rather more national than Welbeck Abbey. The same paradox would have led
+rather more national than Welbeck Abbey. The same [[Paradox|paradox]] would have led
 
 him to maintain that a Warwickshire man had more reason to be proud of
 
@@ -188,6 +188,6 @@ consonants are full of Cobbett. Dr. Johnson was our great man of letters
 
 when he said "stinks," not when he said "putrefaction." Take some common
 
-phrase like "raining cats and dogs," and note not only the extravagance
+phrase like "raining cats and [[dogs]]," and note not only the extravagance
 
 of imagery (though that is very Shakespearean), but a jagged energy in

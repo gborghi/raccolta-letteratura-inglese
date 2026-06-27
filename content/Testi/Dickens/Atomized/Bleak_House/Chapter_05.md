@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 5"
+title: "Bleak [[house|House]] — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,13 +23,13 @@ Although the morning was raw, and although the fog still seemed
 heavy—I say seemed, for the windows were so encrusted with dirt that
 they would have made midsummer sunshine dim—I was sufficiently
 forewarned of the discomfort within doors at that early hour and
-sufficiently curious about London to think it a good idea on the part
+sufficiently curious about [[London]] to think it a good idea on the part
 of Miss Jellyby when she proposed that we should go out for a walk.
 
 “Ma won’t be down for ever so long,” she said, “and then it’s a
 chance if breakfast’s ready for an hour afterwards, they dawdle so.
 As to Pa, he gets what he can and goes to the office. He never has
-what you would call a regular breakfast. Priscilla leaves him out the
+what you would call a regular breakfast. Priscilla [[Leaves|leaves]] him out the
 loaf and some milk, when there is any, overnight. Sometimes there
 isn’t any milk, and sometimes the cat drinks it. But I’m afraid you
 must be tired, Miss Summerson, and perhaps you would rather go to
@@ -47,25 +47,25 @@ he should let me wash him and afterwards lay him down on my bed
 again. To this he submitted with the best grace possible, staring at
 me during the whole operation as if he never had been, and never
 could again be, so astonished in his life—looking very miserable
-also, certainly, but making no complaint, and going snugly to sleep
+also, certainly, but making no complaint, and going snugly to [[Sleep|sleep]]
 as soon as it was over. At first I was in two minds about taking such
-a liberty, but I soon reflected that nobody in the house was likely
+a liberty, but I soon reflected that nobody in the [[house]] was likely
 to notice it.
 
 What with the bustle of dispatching Peepy and the bustle of getting
 myself ready and helping Ada, I was soon quite in a glow. We found
-Miss Jellyby trying to warm herself at the fire in the writing-room,
+Miss Jellyby trying to warm herself at the [[Fire|fire]] in the writing-room,
 which Priscilla was then lighting with a smutty parlour candlestick,
 throwing the candle in to make it burn better. Everything was just as
-we had left it last night and was evidently intended to remain so.
+we had left it last [[Night|night]] and was evidently intended to remain so.
 Below-stairs the dinner-cloth had not been taken away, but had been
-left ready for breakfast. Crumbs, dust, and waste-paper were all over
-the house. Some pewter pots and a milk-can hung on the area railings;
+left ready for breakfast. Crumbs, [[Dust|dust]], and waste-paper were all over
+the [[house]]. Some pewter pots and a milk-can hung on the area railings;
 the door stood open; and we met the cook round the corner coming out
-of a public-house, wiping her mouth. She mentioned, as she passed us,
-that she had been to see what o’clock it was.
+of a public-[[house]], wiping her mouth. She mentioned, as she passed us,
+that she had been to see what o’[[Clock|clock]] it was.
 
-But before we met the cook, we met Richard, who was dancing up and
+But before we met the cook, we met [[Richard]], who was dancing up and
 down Thavies Inn to warm his feet. He was agreeably surprised to see
 us stirring so soon and said he would gladly share our walk. So he
 took care of Ada, and Miss Jellyby and I went first. I may mention
@@ -84,18 +84,18 @@ me so.
 She then walked me on very fast.
 
 “I don’t care!” she said. “Now, you are my witness, Miss Summerson, I
-say I don’t care—but if he was to come to our house with his great,
-shining, lumpy forehead night after night till he was as old as
+say I don’t care—but if he was to come to our [[house]] with his great,
+shining, lumpy forehead [[Night|night]] after [[Night|night]] till he was as old as
 Methuselah, I wouldn’t have anything to say to him. Such ASSES as he
 and Ma make of themselves!”
 
 “My dear!” I remonstrated, in allusion to the epithet and the
-vigorous emphasis Miss Jellyby set upon it. “Your duty as a child—”
+vigorous emphasis Miss Jellyby set upon it. “Your duty as a [[Child|child]]—”
 
-“Oh! Don’t talk of duty as a child, Miss Summerson; where’s Ma’s duty
+“Oh! Don’t talk of duty as a [[Child|child]], Miss Summerson; where’s Ma’s duty
 as a parent? All made over to the public and Africa, I suppose! Then
-let the public and Africa show duty as a child; it’s much more their
-affair than mine. You are shocked, I dare say! Very well, so am I
+let the public and Africa show duty as a [[Child|child]]; it’s much more their
+affair than mine. You are shocked, I dare say! Very [[Well|well]], so am I
 shocked too; so we are both shocked, and there’s an end of it!”
 
 She walked me on faster yet.
@@ -103,13 +103,13 @@ She walked me on faster yet.
 “But for all that, I say again, he may come, and come, and come, and
 I won’t have anything to say to him. I can’t bear him. If there’s any
 stuff in the world that I hate and detest, it’s the stuff he and Ma
-talk. I wonder the very paving-stones opposite our house can have the
+talk. I [[Wonder|wonder]] the very paving-stones opposite our [[house]] can have the
 patience to stay there and be a witness of such inconsistencies and
 contradictions as all that sounding nonsense, and Ma’s management!”
 
 I could not but understand her to refer to Mr. Quale, the young
 gentleman who had appeared after dinner yesterday. I was saved the
-disagreeable necessity of pursuing the subject by Richard and Ada
+disagreeable necessity of pursuing the subject by [[Richard]] and Ada
 coming up at a round pace, laughing and asking us if we meant to run
 a race. Thus interrupted, Miss Jellyby became silent and walked
 moodily on at my side while I admired the long successions and
@@ -119,7 +119,7 @@ preparations in the setting forth of shop windows and the sweeping
 out of shops, and the extraordinary creatures in rags secretly
 groping among the swept-out rubbish for pins and other refuse.
 
-“So, cousin,” said the cheerful voice of Richard to Ada behind me.
+“So, cousin,” said the cheerful voice of [[Richard]] to Ada behind me.
 “We are never to get out of Chancery! We have come by another way to
 our place of meeting yesterday, and—by the Great Seal, here’s the
 old lady again!”
@@ -130,7 +130,7 @@ in Jarndyce! Ve-ry happy, I am sure!”
 
 “You are out early, ma’am,” said I as she curtsied to me.
 
-“Ye-es! I usually walk here early. Before the court sits. It’s
+“Ye-es! I usually walk here early. Before the [[Court|court]] sits. It’s
 retired. I collect my thoughts here for the business of the day,”
 said the old lady mincingly. “The business of the day requires a
 great deal of thought. Chancery justice is so ve-ry difficult to
@@ -142,58 +142,58 @@ tighter through her own.
 The little old lady’s hearing was remarkably quick. She answered for
 herself directly.
 
-“A suitor, my child. At your service. I have the honour to attend
-court regularly. With my documents. Have I the pleasure of addressing
+“A suitor, my [[Child|child]]. At your service. I have the [[Honour|honour]] to attend
+[[Court|court]] regularly. With my documents. Have I the pleasure of addressing
 another of the youthful parties in Jarndyce?” said the old lady,
 recovering herself, with her head on one side, from a very low
 curtsy.
 
-Richard, anxious to atone for his thoughtlessness of yesterday,
+[[Richard]], anxious to atone for his thoughtlessness of yesterday,
 good-naturedly explained that Miss Jellyby was not connected with the
 suit.
 
 “Ha!” said the old lady. “She does not expect a judgment? She will
-still grow old. But not so old. Oh, dear, no! This is the garden of
-Lincoln’s Inn. I call it my garden. It is quite a bower in the
-summer-time. Where the birds sing melodiously. I pass the greater
+still grow old. But not so old. Oh, dear, no! This is the [[Garden|garden]] of
+[[Lincoln]]’s Inn. I call it my [[Garden|garden]]. It is quite a bower in the
+[[Summer|summer]]-[[Time|time]]. Where the [[Birds|birds]] sing melodiously. I pass the greater
 part of the long vacation here. In contemplation. You find the long
 vacation exceedingly long, don’t you?”
 
 We said yes, as she seemed to expect us to say so.
 
-“When the leaves are falling from the trees and there are no more
-flowers in bloom to make up into nosegays for the Lord Chancellor’s
-court,” said the old lady, “the vacation is fulfilled and the sixth
+“When the [[Leaves|leaves]] are falling from the trees and there are no more
+[[Flowers|flowers]] in bloom to make up into nosegays for the Lord Chancellor’s
+[[Court|court]],” said the old lady, “the vacation is fulfilled and the sixth
 seal, mentioned in the Revelations, again prevails. Pray come and see
-my lodging. It will be a good omen for me. Youth, and hope, and
-beauty are very seldom there. It is a long, long time since I had a
+my lodging. It will be a good omen for me. Youth, and [[Hope|hope]], and
+[[Beauty|beauty]] are very seldom there. It is a long, long [[Time|time]] since I had a
 visit from either.”
 
 She had taken my hand, and leading me and Miss Jellyby away, beckoned
-Richard and Ada to come too. I did not know how to excuse myself and
-looked to Richard for aid. As he was half amused and half curious and
-all in doubt how to get rid of the old lady without offence, she
+[[Richard]] and Ada to come too. I did not know how to excuse myself and
+looked to [[Richard]] for aid. As he was half amused and half curious and
+all in [[Doubt|doubt]] how to get rid of the old lady without offence, she
 continued to lead us away, and he and Ada continued to follow, our
-strange conductress informing us all the time, with much smiling
+strange conductress informing us all the [[Time|time]], with much smiling
 condescension, that she lived close by.
 
 It was quite true, as it soon appeared. She lived so close by that we
-had not time to have done humouring her for a few moments before she
-was at home. Slipping us out at a little side gate, the old lady
+had not [[Time|time]] to have done humouring her for a few moments before she
+was at [[Home|home]]. Slipping us out at a little side gate, the old lady
 stopped most unexpectedly in a narrow back street, part of some
 courts and lanes immediately outside the wall of the inn, and said,
 “This is my lodging. Pray walk up!”
 
 She had stopped at a shop over which was written KROOK, RAG AND
 BOTTLE WAREHOUSE. Also, in long thin letters, KROOK, DEALER IN MARINE
-STORES. In one part of the window was a picture of a red paper mill
+STORES. In one part of the [[Window|window]] was a picture of a red paper mill
 at which a cart was unloading a quantity of sacks of old rags. In
-another was the inscription BONES BOUGHT. In another, KITCHEN-STUFF
+another was the [[Inscription|inscription]] BONES BOUGHT. In another, KITCHEN-STUFF
 BOUGHT. In another, OLD IRON BOUGHT. In another, WASTE-PAPER BOUGHT.
 In another, LADIES’ AND GENTLEMEN’S WARDROBES BOUGHT. Everything
 seemed to be bought and nothing to be sold there. In all parts of the
-window were quantities of dirty bottles—blacking bottles, medicine
-bottles, ginger-beer and soda-water bottles, pickle bottles, wine
+[[Window|window]] were quantities of dirty bottles—blacking bottles, medicine
+bottles, ginger-beer and soda-[[Water|water]] bottles, pickle bottles, wine
 bottles, ink bottles; I am reminded by mentioning the latter that the
 shop had in several little particulars the air of being in a legal
 neighbourhood and of being, as it were, a dirty hanger-on and
@@ -215,30 +215,30 @@ belonged to doors of rooms or strong chests in lawyers’ offices. The
 litter of rags tumbled partly into and partly out of a one-legged
 wooden scale, hanging without any counterpoise from a beam, might
 have been counsellors’ bands and gowns torn up. One had only to
-fancy, as Richard whispered to Ada and me while we all stood looking
+fancy, as [[Richard]] whispered to Ada and me while we all stood looking
 in, that yonder bones in a corner, piled together and picked very
 clean, were the bones of clients, to make the picture complete.
 
 As it was still foggy and dark, and as the shop was blinded besides
-by the wall of Lincoln’s Inn, intercepting the light within a couple
+by the wall of [[Lincoln]]’s Inn, intercepting the light within a couple
 of yards, we should not have seen so much but for a lighted lantern
 that an old man in spectacles and a hairy cap was carrying about in
 the shop. Turning towards the door, he now caught sight of us. He was
 short, cadaverous, and withered, with his head sunk sideways between
 his shoulders and the breath issuing in visible smoke from his mouth
-as if he were on fire within. His throat, chin, and eyebrows were so
+as if he were on [[Fire|fire]] within. His throat, chin, and eyebrows were so
 frosted with white hairs and so gnarled with veins and puckered skin
 that he looked from his breast upward like some old root in a fall of
-snow.
+[[Snow|snow]].
 
 “Hi, hi!” said the old man, coming to the door. “Have you anything to
 sell?”
 
 We naturally drew back and glanced at our conductress, who had been
-trying to open the house-door with a key she had taken from her
-pocket, and to whom Richard now said that as we had had the pleasure
+trying to open the [[house]]-door with a key she had taken from her
+pocket, and to whom [[Richard]] now said that as we had had the pleasure
 of seeing where she lived, we would leave her, being pressed for
-time. But she was not to be so easily left. She became so
+[[Time|time]]. But she was not to be so easily left. She became so
 fantastically and pressingly earnest in her entreaties that we would
 walk up and see her apartment for an instant, and was so bent, in her
 harmless way, on leading me in, as part of the good omen she desired,
@@ -247,12 +247,12 @@ comply. I suppose we were all more or less curious; at any rate, when
 the old man added his persuasions to hers and said, “Aye, aye! Please
 her! It won’t take a minute! Come in, come in! Come in through the
 shop if t’other door’s out of order!” we all went in, stimulated by
-Richard’s laughing encouragement and relying on his protection.
+[[Richard]]’s laughing encouragement and relying on his protection.
 
 “My landlord, Krook,” said the little old lady, condescending to him
 from her lofty station as she presented him to us. “He is called
 among the neighbours the Lord Chancellor. His shop is called the
-Court of Chancery. He is a very eccentric person. He is very odd. Oh,
+[[Court]] of Chancery. He is a very eccentric person. He is very odd. Oh,
 I assure you he is very odd!”
 
 She shook her head a great many times and tapped her forehead with
@@ -264,13 +264,13 @@ stateliness. The old man overheard, and laughed.
 they call me the Lord Chancellor and call my shop Chancery. And why
 do you think they call me the Lord Chancellor and my shop Chancery?”
 
-“I don’t know, I am sure!” said Richard rather carelessly.
+“I don’t know, I am sure!” said [[Richard]] rather carelessly.
 
 “You see,” said the old man, stopping and turning round, “they—Hi!
 Here’s lovely hair! I have got three sacks of ladies’ hair below, but
 none so beautiful and fine as this. What colour, and what texture!”
 
-“That’ll do, my good friend!” said Richard, strongly disapproving of
+“That’ll do, my good friend!” said [[Richard]], strongly disapproving of
 his having drawn one of Ada’s tresses through his yellow hand. “You
 can admire as the rest of us do without taking that liberty.”
 
@@ -279,7 +279,7 @@ attention from Ada, who, startled and blushing, was so remarkably
 beautiful that she seemed to fix the wandering attention of the
 little old lady herself. But as Ada interposed and laughingly said
 she could only feel proud of such genuine admiration, Mr. Krook
-shrunk into his former self as suddenly as he had leaped out of it.
+shrunk into his former [[Self|self]] as suddenly as he had leaped out of it.
 
 “You see, I have so many things here,” he resumed, holding up the
 lantern, “of so many kinds, and all as the neighbours think (but THEY
@@ -291,7 +291,7 @@ can’t abear to part with anything I once lay hold of (or so my
 neighbours think, but what do THEY know?) or to alter anything, or to
 have any sweeping, nor scouring, nor cleaning, nor repairing going on
 about me. That’s the way I’ve got the ill name of Chancery. I don’t
-mind. I go to see my noble and learned brother pretty well every day,
+mind. I go to see my noble and learned brother pretty [[Well|well]] every day,
 when he sits in the Inn. He don’t notice me, but I notice him.
 There’s no great odds betwixt us. We both grub on in a muddle. Hi,
 Lady Jane!”
@@ -310,12 +310,12 @@ offered to me. It’s a very fine skin, as you may see, but I didn’t
 have it stripped off! THAT warn’t like Chancery practice though, says
 you!”
 
-He had by this time led us across the shop, and now opened a door in
-the back part of it, leading to the house-entry. As he stood with his
+He had by this [[Time|time]] led us across the shop, and now opened a door in
+the back part of it, leading to the [[house]]-entry. As he stood with his
 hand upon the lock, the little old lady graciously observed to him
-before passing out, “That will do, Krook. You mean well, but are
-tiresome. My young friends are pressed for time. I have none to spare
-myself, having to attend court very soon. My young friends are the
+before passing out, “That will do, Krook. You mean [[Well|well]], but are
+tiresome. My young friends are pressed for [[Time|time]]. I have none to spare
+myself, having to attend [[Court|court]] very soon. My young friends are the
 wards in Jarndyce.”
 
 “Jarndyce!” said the old man with a start.
@@ -326,13 +326,13 @@ wards in Jarndyce.”
 with a wider stare than before. “Think of it!”
 
 He seemed so rapt all in a moment and looked so curiously at us that
-Richard said, “Why, you appear to trouble yourself a good deal about
+[[Richard]] said, “Why, you appear to trouble yourself a good deal about
 the causes before your noble and learned brother, the other
 Chancellor!”
 
 “Yes,” said the old man abstractedly. “Sure! YOUR name now will be—”
 
-“Richard Carstone.”
+“[[Richard Carstone]].”
 
 “Carstone,” he repeated, slowly checking off that name upon his
 forefinger; and each of the others he went on to mention upon a
@@ -340,17 +340,17 @@ separate finger. “Yes. There was the name of Barbary, and the name of
 Clare, and the name of Dedlock, too, I think.”
 
 “He knows as much of the cause as the real salaried Chancellor!” said
-Richard, quite astonished, to Ada and me.
+[[Richard]], quite astonished, to Ada and me.
 
 “Aye!” said the old man, coming slowly out of his abstraction. “Yes!
 Tom Jarndyce—you’ll excuse me, being related; but he was never known
-about court by any other name, and was as well known there as—she is
+about [[Court|court]] by any other name, and was as [[Well|well]] known there as—she is
 now,” nodding slightly at his lodger. “Tom Jarndyce was often in
 here. He got into a restless habit of strolling about when the cause
 was on, or expected, talking to the little shopkeepers and telling
 ’em to keep out of Chancery, whatever they did. ‘For,’ says he, ‘it’s
 being ground to bits in a slow mill; it’s being roasted at a slow
-fire; it’s being stung to death by single bees; it’s being drowned by
+[[Fire|fire]]; it’s being stung to [[Death|death]] by single [[Bees|bees]]; it’s being drowned by
 drops; it’s going mad by grains.’ He was as near making away with
 himself, just where the young lady stands, as near could be.”
 
@@ -364,10 +364,10 @@ walked along there, and sat himself on a bench that stood there, and
 asked me (you’ll judge I was a mortal sight younger then) to fetch
 him a pint of wine. ‘For,’ says he, ‘Krook, I am much depressed; my
 cause is on again, and I think I’m nearer judgment than I ever was.’
-I hadn’t a mind to leave him alone; and I persuaded him to go to the
+I hadn’t a mind to leave him [[Alone|alone]]; and I persuaded him to go to the
 tavern over the way there, t’other side my lane (I mean Chancery
-Lane); and I followed and looked in at the window, and saw him,
-comfortable as I thought, in the arm-chair by the fire, and company
+Lane); and I followed and looked in at the [[Window|window]], and saw him,
+comfortable as I thought, in the arm-chair by the [[Fire|fire]], and company
 with him. I hadn’t hardly got back here when I heard a shot go
 echoing and rattling right away into the inn. I ran out—neighbours
 ran out—twenty of us cried at once, ‘Tom Jarndyce!’”
@@ -376,15 +376,15 @@ The old man stopped, looked hard at us, looked down into the lantern,
 blew the light out, and shut the lantern up.
 
 “We were right, I needn’t tell the present hearers. Hi! To be sure,
-how the neighbourhood poured into court that afternoon while the
+how the neighbourhood poured into [[Court|court]] that afternoon while the
 cause was on! How my noble and learned brother, and all the rest of
 ’em, grubbed and muddled away as usual and tried to look as if they
 hadn’t heard a word of the last fact in the case or as if they
 had—Oh, dear me!—nothing at all to do with it if they had heard of
 it by any chance!”
 
-Ada’s colour had entirely left her, and Richard was scarcely less
-pale. Nor could I wonder, judging even from my emotions, and I was no
+Ada’s colour had entirely left her, and [[Richard]] was scarcely less
+pale. Nor could I [[Wonder|wonder]], judging even from my emotions, and I was no
 party in the suit, that to hearts so untried and fresh it was a shock
 to come into the inheritance of a protracted misery, attended in the
 minds of many people with such dreadful recollections. I had another
@@ -395,10 +395,10 @@ upstairs again, informing us with the toleration of a superior
 creature for the infirmities of a common mortal that her landlord was
 “a little—M—, you know!”
 
-She lived at the top of the house, in a pretty large room, from which
-she had a glimpse of Lincoln’s Inn Hall. This seemed to have been her
+She lived at the top of the [[house]], in a pretty large room, from which
+she had a glimpse of [[Lincoln]]’s Inn Hall. This seemed to have been her
 principal inducement, originally, for taking up her residence there.
-She could look at it, she said, in the night, especially in the
+She could look at it, she said, in the [[Night|night]], especially in the
 moonshine. Her room was clean, but very, very bare. I noticed the
 scantiest necessaries in the way of furniture; a few old prints from
 books, of Chancellors and barristers, wafered against the wall; and
@@ -415,8 +415,8 @@ greatest suavity, “by this visit from the wards in Jarndyce. And very
 much indebted for the omen. It is a retired situation. Considering. I
 am limited as to situation. In consequence of the necessity of
 attending on the Chancellor. I have lived here many years. I pass my
-days in court, my evenings and my nights here. I find the nights
-long, for I sleep but little and think much. That is, of course,
+days in [[Court|court]], my evenings and my nights here. I find the nights
+long, for I [[Sleep|sleep]] but little and think much. That is, of course,
 unavoidable, being in Chancery. I am sorry I cannot offer chocolate.
 I expect a judgment shortly and shall then place my establishment on
 a superior footing. At present, I don’t mind confessing to the wards
@@ -425,17 +425,17 @@ to keep up a genteel appearance. I have felt the cold here. I have
 felt something sharper than cold. It matters very little. Pray excuse
 the introduction of such mean topics.”
 
-She partly drew aside the curtain of the long, low garret window and
+She partly drew aside the curtain of the long, low garret [[Window|window]] and
 called our attention to a number of bird-cages hanging there, some
-containing several birds. There were larks, linnets, and
+containing several [[Birds|birds]]. There were larks, linnets, and
 goldfinches—I should think at least twenty.
 
 “I began to keep the little creatures,” she said, “with an object
 that the wards will readily comprehend. With the intention of
 restoring them to liberty. When my judgment should be given. Ye-es!
-They die in prison, though. Their lives, poor silly things, are so
+They die in [[Prison|prison]], though. Their lives, poor silly things, are so
 short in comparison with Chancery proceedings that, one by one, the
-whole collection has died over and over again. I doubt, do you know,
+whole collection has died over and over again. I [[Doubt|doubt]], do you know,
 whether one of these, though they are all young, will live to be
 free! Ve-ry mortifying, is it not?”
 
@@ -443,43 +443,43 @@ Although she sometimes asked a question, she never seemed to expect a
 reply, but rambled on as if she were in the habit of doing so when no
 one but herself was present.
 
-“Indeed,” she pursued, “I positively doubt sometimes, I do assure
+“Indeed,” she pursued, “I positively [[Doubt|doubt]] sometimes, I do assure
 you, whether while matters are still unsettled, and the sixth or
 Great Seal still prevails, I may not one day be found lying stark and
-senseless here, as I have found so many birds!”
+senseless here, as I have found so many [[Birds|birds]]!”
 
-Richard, answering what he saw in Ada’s compassionate eyes, took the
+[[Richard]], answering what he saw in Ada’s compassionate eyes, took the
 opportunity of laying some money, softly and unobserved, on the
 chimney-piece. We all drew nearer to the cages, feigning to examine
-the birds.
+the [[Birds|birds]].
 
 “I can’t allow them to sing much,” said the little old lady, “for
 (you’ll think this curious) I find my mind confused by the idea that
-they are singing while I am following the arguments in court. And my
-mind requires to be so very clear, you know! Another time, I’ll tell
+they are singing while I am following the arguments in [[Court|court]]. And my
+mind requires to be so very clear, you know! Another [[Time|time]], I’ll tell
 you their names. Not at present. On a day of such good omen, they
-shall sing as much as they like. In honour of youth,” a smile and
-curtsy, “hope,” a smile and curtsy, “and beauty,” a smile and curtsy.
+shall sing as much as they like. In [[Honour|honour]] of youth,” a smile and
+curtsy, “[[Hope|hope]],” a smile and curtsy, “and [[Beauty|beauty]],” a smile and curtsy.
 “There! We’ll let in the full light.”
 
-The birds began to stir and chirp.
+The [[Birds|birds]] began to stir and chirp.
 
 “I cannot admit the air freely,” said the little old lady—the room
 was close, and would have been the better for it—“because the cat
 you saw downstairs, called Lady Jane, is greedy for their lives. She
 crouches on the parapet outside for hours and hours. I have
 discovered,” whispering mysteriously, “that her natural cruelty is
-sharpened by a jealous fear of their regaining their liberty. In
+sharpened by a jealous [[Fear|fear]] of their regaining their liberty. In
 consequence of the judgment I expect being shortly given. She is sly
 and full of malice. I half believe, sometimes, that she is no cat,
 but the wolf of the old saying. It is so very difficult to keep her
 from the door.”
 
-Some neighbouring bells, reminding the poor soul that it was
+Some neighbouring [[Bells|bells]], reminding the poor [[Soul|soul]] that it was
 half-past nine, did more for us in the way of bringing our visit to
 an end than we could easily have done for ourselves. She hurriedly
 took up her little bag of documents, which she had laid upon the
-table on coming in, and asked if we were also going into court. On
+table on coming in, and asked if we were also going into [[Court|court]]. On
 our answering no, and that we would on no account detain her, she
 opened the door to attend us downstairs.
 
@@ -489,7 +489,7 @@ might mention my case the first thing. I have a presentiment that he
 WILL mention it the first thing this morning.”
 
 She stopped to tell us in a whisper as we were going down that the
-whole house was filled with strange lumber which her landlord had
+whole [[house]] was filled with strange lumber which her landlord had
 bought piecemeal and had no wish to sell, in consequence of being a
 little M. This was on the first floor. But she had made a previous
 stoppage on the second floor and had silently pointed at a dark door
@@ -505,12 +505,12 @@ sound of her footsteps might reveal to him what she had said.
 
 Passing through the shop on our way out, as we had passed through it
 on our way in, we found the old man storing a quantity of packets of
-waste-paper in a kind of well in the floor. He seemed to be working
+waste-paper in a kind of [[Well|well]] in the floor. He seemed to be working
 hard, with the perspiration standing on his forehead, and had a piece
-of chalk by him, with which, as he put each separate package or
+of [[chalk]] by him, with which, as he put each separate package or
 bundle down, he made a crooked mark on the panelling of the wall.
 
-Richard and Ada, and Miss Jellyby, and the little old lady had gone
+[[Richard]] and Ada, and Miss Jellyby, and the little old lady had gone
 by him, and I was going when he touched me on the arm to stay me, and
 chalked the letter J upon the wall—in a very curious manner,
 beginning with the end of the letter and shaping it backward. It was
@@ -526,7 +526,7 @@ clerk in Messrs. Kenge and Carboy’s office would have made.
 “J.”
 
 With another glance at me, and a glance at the door, he rubbed it out
-and turned an “a” in its place (not a capital letter this time), and
+and turned an “a” in its place (not a capital letter this [[Time|time]]), and
 said, “What’s that?”
 
 I told him. He then rubbed that out and turned the letter “r,” and
@@ -539,20 +539,20 @@ wall together.
 
 When I told him, he laughed. In the same odd way, yet with the same
 rapidity, he then produced singly, and rubbed out singly, the letters
-forming the words Bleak House. These, in some astonishment, I also
+forming the words Bleak [[house|House]]. These, in some astonishment, I also
 read; and he laughed again.
 
-“Hi!” said the old man, laying aside the chalk. “I have a turn for
-copying from memory, you see, miss, though I can neither read nor
+“Hi!” said the old man, laying aside the [[chalk]]. “I have a turn for
+copying from [[Memory|memory]], you see, miss, though I can neither read nor
 write.”
 
 He looked so disagreeable and his cat looked so wickedly at me, as if
-I were a blood-relation of the birds upstairs, that I was quite
-relieved by Richard’s appearing at the door and saying, “Miss
-Summerson, I hope you are not bargaining for the sale of your hair.
+I were a [[Blood|blood]]-relation of the [[Birds|birds]] upstairs, that I was quite
+relieved by [[Richard]]’s appearing at the door and saying, “Miss
+Summerson, I [[Hope|hope]] you are not bargaining for the sale of your hair.
 Don’t be tempted. Three sacks below are quite enough for Mr. Krook!”
 
-I lost no time in wishing Mr. Krook good morning and joining my
+I lost no [[Time|time]] in wishing Mr. Krook good morning and joining my
 friends outside, where we parted with the little old lady, who gave
 us her blessing with great ceremony and renewed her assurance of
 yesterday in reference to her intention of settling estates on Ada
@@ -561,33 +561,33 @@ and saw Mr. Krook standing at his shop-door, in his spectacles,
 looking after us, with his cat upon his shoulder, and her tail
 sticking up on one side of his hairy cap like a tall feather.
 
-“Quite an adventure for a morning in London!” said Richard with a
+“Quite an adventure for a morning in [[London]]!” said [[Richard]] with a
 sigh. “Ah, cousin, cousin, it’s a weary word this Chancery!”
 
 “It is to me, and has been ever since I can remember,” returned Ada.
 “I am grieved that I should be the enemy—as I suppose I am—of a
 great number of relations and others, and that they should be my
 enemies—as I suppose they are—and that we should all be ruining one
-another without knowing how or why and be in constant doubt and
+another without knowing how or why and be in constant [[Doubt|doubt]] and
 discord all our lives. It seems very strange, as there must be right
 somewhere, that an honest judge in real earnest has not been able to
 find out through all these years where it is.”
 
-“Ah, cousin!” said Richard. “Strange, indeed! All this wasteful,
-wanton chess-playing IS very strange. To see that composed court
+“Ah, cousin!” said [[Richard]]. “Strange, indeed! All this wasteful,
+wanton chess-playing IS very strange. To see that composed [[Court|court]]
 yesterday jogging on so serenely and to think of the wretchedness of
 the pieces on the board gave me the headache and the heartache both
 together. My head ached with wondering how it happened, if men were
 neither fools nor rascals; and my heart ached to think they could
 possibly be either. But at all events, Ada—I may call you Ada?”
 
-“Of course you may, cousin Richard.”
+“Of course you may, cousin [[Richard]].”
 
 “At all events, Chancery will work none of its bad influences on US.
 We have happily been brought together, thanks to our good kinsman,
 and it can’t divide us now!”
 
-“Never, I hope, cousin Richard!” said Ada gently.
+“Never, I [[Hope|hope]], cousin [[Richard]]!” said Ada gently.
 
 Miss Jellyby gave my arm a squeeze and me a very significant look. I
 smiled in return, and we made the rest of the way back very
@@ -595,7 +595,7 @@ pleasantly.
 
 In half an hour after our arrival, Mrs. Jellyby appeared; and in the
 course of an hour the various things necessary for breakfast
-straggled one by one into the dining-room. I do not doubt that Mrs.
+straggled one by one into the dining-room. I do not [[Doubt|doubt]] that Mrs.
 Jellyby had gone to bed and got up in the usual manner, but she
 presented no appearance of having changed her dress. She was greatly
 occupied during breakfast, for the morning’s post brought a heavy
@@ -603,17 +603,17 @@ correspondence relative to Borrioboola-Gha, which would occasion her
 (she said) to pass a busy day. The children tumbled about, and
 notched memoranda of their accidents in their legs, which were
 perfect little calendars of distress; and Peepy was lost for an hour
-and a half, and brought home from Newgate market by a policeman. The
+and a half, and brought [[Home|home]] from Newgate market by a policeman. The
 equable manner in which Mrs. Jellyby sustained both his absence and
 his restoration to the family circle surprised us all.
 
-She was by that time perseveringly dictating to Caddy, and Caddy was
+She was by that [[Time|time]] perseveringly dictating to Caddy, and Caddy was
 fast relapsing into the inky condition in which we had found her. At
-one o’clock an open carriage arrived for us, and a cart for our
+one o’[[Clock|clock]] an open carriage arrived for us, and a cart for our
 luggage. Mrs. Jellyby charged us with many remembrances to her good
 friend Mr. Jarndyce; Caddy left her desk to see us depart, kissed me
 in the passage, and stood biting her pen and sobbing on the steps;
-Peepy, I am happy to say, was asleep and spared the pain of
+Peepy, I am happy to say, was asleep and spared the [[Pain|pain]] of
 separation (I was not without misgivings that he had gone to Newgate
 market in search of me); and all the other children got up behind the
 barouche and fell off, and we saw them, with great concern, scattered

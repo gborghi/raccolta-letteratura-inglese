@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 47 (part 3)"
+title: "Bleak [[house|House]] — Chapter 47 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 “Look here, Jo!” says Allan. “This is Mr. George.”
 
-Jo searches the floor for some time longer, then looks up for a
+Jo searches the floor for some [[Time|time]] longer, then looks up for a
 moment, and then down again.
 
 “He is a kind friend to you, for he is going to give you lodging room
@@ -27,7 +27,7 @@ a little more consideration and some backing and changing of the foot
 on which he rests, he mutters that he is “wery thankful.”
 
 “You are quite safe here. All you have to do at present is to be
-obedient and to get strong. And mind you tell us the truth here,
+obedient and to get strong. And mind you tell us the [[Truth|truth]] here,
 whatever you do, Jo.”
 
 “Wishermaydie if I don’t, sir,” says Jo, reverting to his favourite
@@ -40,7 +40,7 @@ to you.”
 
 “My intention merely was, sir,” observes Mr. George, amazingly broad
 and upright, “to point out to him where he can lie down and get a
-thorough good dose of sleep. Now, look here.” As the trooper speaks,
+thorough good dose of [[Sleep|sleep]]. Now, look here.” As the trooper speaks,
 he conducts them to the other end of the gallery and opens one of the
 little cabins. “There you are, you see! Here is a mattress, and here
 you may rest, on good behaviour, as long as Mr., I ask your pardon,
@@ -66,8 +66,8 @@ out a few shillings in getting him one or two coarse articles—”
 purse, “it is the very favour I would have asked.”
 
 Phil Squod and Jo are sent out immediately on this work of
-improvement. Miss Flite, quite enraptured by her success, makes the
-best of her way to court, having great fears that otherwise her
+improvement. Miss Flite, quite enraptured by her [[success]], makes the
+best of her way to [[Court|court]], having great fears that otherwise her
 friend the Chancellor may be uneasy about her or may give the
 judgment she has so long expected in her absence, and observing
 “which you know, my dear physician, and general, after so many years,
@@ -77,7 +77,7 @@ near at hand, soon returns to find the trooper walking up and down
 the gallery, and to fall into step and walk with him.
 
 “I take it, sir,” says Mr. George, “that you know Miss Summerson
-pretty well?”
+pretty [[Well|well]]?”
 
 Yes, it appears.
 
@@ -97,7 +97,7 @@ eye, rapidly measures his height and build, and seems to approve of
 him.
 
 “Since you have been out, sir, I have been thinking that I
-unquestionably know the rooms in Lincoln’s Inn Fields, where Bucket
+unquestionably know the rooms in [[Lincoln]]’s Inn Fields, where Bucket
 took the lad, according to his account. Though he is not acquainted
 with the name, I can help you to it. It’s Tulkinghorn. That’s what it
 is.”
@@ -118,7 +118,7 @@ what kind of man?”
 “Why, then I’ll tell you, sir,” returns the trooper, stopping short
 and folding his arms on his square chest so angrily that his face
 fires and flushes all over; “he is a confoundedly bad kind of man. He
-is a slow-torturing kind of man. He is no more like flesh and blood
+is a slow-torturing kind of man. He is no more like flesh and [[Blood|blood]]
 than a rusty old carbine is. He is a kind of man—by George!—that
 has caused me more restlessness, and more uneasiness, and more
 dissatisfaction with myself than all other men put together. That’s
@@ -132,17 +132,17 @@ fault of yours, sir; but you shall judge. He has got a power over me.
 He is the man I spoke of just now as being able to tumble me out of
 this place neck and crop. He keeps me on a constant see-saw. He won’t
 hold off, and he won’t come on. If I have a payment to make him, or
-time to ask him for, or anything to go to him about, he don’t see me,
-don’t hear me—passes me on to Melchisedech’s in Clifford’s Inn,
-Melchisedech’s in Clifford’s Inn passes me back again to him—he
+[[Time|time]] to ask him for, or anything to go to him about, he don’t see me,
+don’t hear me—passes me on to Melchisedech’s in [[Clifford]]’s Inn,
+Melchisedech’s in [[Clifford]]’s Inn passes me back again to him—he
 keeps me prowling and dangling about him as if I was made of the same
-stone as himself. Why, I spend half my life now, pretty well,
+stone as himself. Why, I spend half my life now, pretty [[Well|well]],
 loitering and dodging about his door. What does he care? Nothing.
 Just as much as the rusty old carbine I have compared him to. He
 chafes and goads me till—Bah! Nonsense! I am forgetting myself. Mr.
 Woodcourt,” the trooper resumes his march, “all I say is, he is an
 old man; but I am glad I shall never have the chance of setting spurs
-to my horse and riding at him in a fair field. For if I had that
+to my [[Horse|horse]] and riding at him in a fair field. For if I had that
 chance, in one of the humours he drives me into—he’d go down, sir!”
 
 Mr. George has been so excited that he finds it necessary to wipe his
@@ -151,5 +151,5 @@ away with the national anthem, some involuntary shakings of his head
 and heavings of his chest still linger behind, not to mention an
 occasional hasty adjustment with both hands of his open shirt-collar,
 as if it were scarcely open enough to prevent his being troubled by a
-choking sensation. In short, Allan Woodcourt has not much doubt about
+choking sensation. In short, Allan Woodcourt has not much [[Doubt|doubt]] about
 the going down of Mr. Tulkinghorn on the field referred to.

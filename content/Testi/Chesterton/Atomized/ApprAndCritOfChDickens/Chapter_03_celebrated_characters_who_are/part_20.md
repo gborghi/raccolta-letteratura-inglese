@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 20)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 20)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -52,9 +52,9 @@ sense of Danton and the mere ecstasy of Herbert Spencer marks the
 
 English way of colouring and altering the revolutionary idea. The
 
-English people as a body went blind, as the saying is, for interpreting
+English people as a [[Body|body]] went blind, as the saying is, for interpreting
 
-democracy entirely in terms of liberty. They said in substance that if
+[[democracy]] entirely in terms of liberty. They said in substance that if
 
 they had more and more liberty it did not matter whether they had any
 
@@ -80,9 +80,9 @@ great political economists like Mill. The man who kept his head kept a
 
 head full of fantastic nonsense; he was a writer of rowdy farces, a
 
-demagogue of fiction, a man without education in any serious sense
+demagogue of fiction, a man without [[Education|education]] in any serious sense
 
-whatever, a man whose whole business was to turn ordinary cockneys into
+whatever, a man whose whole business was to turn ordinary [[cockneys]] into
 
 extraordinary caricatures. Yet when all these other children of the
 
@@ -126,7 +126,7 @@ stand as a very good example of the spirit of England in those years of
 
 eager emancipation and expanding wealth--the years in which Liberalism
 
-was turned from an omnipotent truth to a weak scientific system.
+was turned from an omnipotent [[Truth|truth]] to a weak scientific system.
 
 Macaulay's private comment on _Hard Times_ runs, "One or two passages of
 
@@ -138,21 +138,21 @@ how the book struck those people who were mad on political liberty and
 
 dead about everything else. Macaulay mistook for a new formula called
 
-Socialism what was, in truth, only the old formula called political
+Socialism what was, in [[Truth|truth]], only the old formula called political
 
-democracy. He and his Whigs had so thoroughly mauled and modified the
+[[democracy]]. He and his Whigs had so thoroughly mauled and modified the
 
 original idea of Rousseau or Jefferson that when they saw it again they
 
 positively thought that it was something quite new and eccentric. But
 
-the truth was that Dickens was not a Socialist, but an unspoilt Liberal;
+the [[Truth|truth]] was that Dickens was not a Socialist, but an unspoilt Liberal;
 
 he was not sullen; nay, rather, he had remained strangely hopeful. They
 
 called him a sullen Socialist only to disguise their astonishment at
 
-finding still loose about the London streets a happy republican.
+finding still loose about the [[London]] streets a happy republican.
 
 
 
@@ -160,7 +160,7 @@ Dickens is the one living link between the old kindness and the new,
 
 between the good will of the past and the good works of the future. He
 
-links May Day with Bank Holiday, and he does it almost alone. All the
+links May Day with Bank Holiday, and he does it almost [[Alone|alone]]. All the
 
 men around him, great and good as they were, were in comparison
 
@@ -168,7 +168,7 @@ puritanical, and never so puritanical as when they were also atheistic.
 
 He is a sort of solitary pipe down which pours to the twentieth century
 
-the original river of Merry England. And although this _Hard Times_ is,
+the original [[River|river]] of Merry England. And although this _Hard Times_ is,
 
 as its name implies, the hardest of his works, although there is less in
 
@@ -176,7 +176,7 @@ it perhaps than in any of the others of the _abandon_ and the buffoonery
 
 of Dickens, this only emphasises the more clearly the fact that he stood
 
-almost alone for a more humane and hilarious view of democracy. None of
+almost [[Alone|alone]] for a more humane and hilarious view of [[democracy]]. None of
 
 his great and much more highly-educated contemporaries could help him in
 
@@ -192,6 +192,6 @@ bitter, but it was a protest against bitterness. It may be dark, but it
 
 is the darkness of the subject and not of the author. He is by his own
 
-account dealing with hard times, but not with a hard eternity, not with
+account dealing with hard times, but not with a hard [[Eternity|eternity]], not with
 
-a hard philosophy of the universe. Nevertheless, this is the one place
+a hard [[philosophy]] of the universe. Nevertheless, this is the one place

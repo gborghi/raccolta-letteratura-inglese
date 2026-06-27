@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"Surely," said Patrick, with an innocent air, "the
+"Surely," said Patrick, with an [[Innocent|innocent]] air, "the
 best remedy would be to wait till it _has been three days_
 on the premises.  We might all get to know each other
 better."  And he looked round at the ever-increasing
@@ -23,9 +23,9 @@ multitude with hazy benevolence.
 "You shall do nothing of the kind," said his lordship,
 with sudden fierceness.
 
-"Well," answered Patrick, wearily, "now I come
+"[[Well]]," answered Patrick, wearily, "now I come
 to think of it, perhaps I won't.  I'll have one drink
-here and go home to bed like a good little boy."
+here and go [[Home|home]] to bed like a good little boy."
 
 "And the constables shall arrest you," thundered
 Ivywood.
@@ -57,7 +57,7 @@ on the counter by Hibbs and Leveson.
 "What is that man drinking?" he demanded.
 
 Hibbs put out his hand hastily for his glass, but
-the indignant clock-mender had snatched it first and
+the indignant [[Clock|clock]]-mender had snatched it first and
 drained it at a gulp.
 
 "Scortch," he said, and dashed the glass to atoms
@@ -70,7 +70,7 @@ port.  Fetch it down, Bill."
 Ivywood turned to Crooke and said, scarcely moving
 his lips of marble, "This is a lie."
 
-"It is the truth," answered Crooke, looking back at
+"It is the [[Truth|truth]]," answered Crooke, looking back at
 him with equal steadiness.  "Do you think you made
 the world, that you should make it over again so
 easily?"
@@ -92,16 +92,16 @@ glass was crashing amid the cries of a crowd.  Rivers
 of gold and purple wines sprawled about the pavement.
 
 "Out in the open!" shouted Dalroy, rushing out of
-the shop, sign-board in hand, the dog Quoodle barking
-furiously at his heels, while Dorian with the cheese
+the shop, sign-board in hand, the dog [[quoodle|Quoodle]] barking
+furiously at his heels, while Dorian with the [[cheese]]
 and Humphrey with the keg followed as rapidly as
 they could.  "Goodnight, my lord.
 
     "Perhaps our meeting next may fall,
-     At Tomworth in your castle hall.
+     At Tomworth in your [[Castle|castle]] hall.
 
 "Come along, friends, and form up.  Don't waste
-time destroying property.  We're all to start now."
+[[Time|time]] destroying property.  We're all to start now."
 
 "Where are we all going to?" asked the plasterer.
 
@@ -114,14 +114,14 @@ Wimpole, who was toward the tail of the procession, saw
 again the grey Cyclops tower of St. Stephens, with
 its one great golden eye, as he had seen it against that
 pale green sunset that was at once quiet and volcanic
-on the night he was betrayed by sleep and by a friend.
+on the [[Night|night]] he was betrayed by [[Sleep|sleep]] and by a friend.
 Almost as far off, at the head of the procession, he
-could see the sign with the ship and the cross going
+could see the sign with the [[Ship|ship]] and the [[Cross|cross]] going
 before them like an ensign, and hear a great voice
 singing--
-    "Men that are men again, Who goes home?
-     Tocsin and trumpeter!  Who goes home?
+    "Men that are men again, Who goes [[Home|home]]?
+     Tocsin and trumpeter!  Who goes [[Home|home]]?
      The voice valedictory--who is for Victory?
-     Who is for Liberty?  Who goes home?"
+     Who is for Liberty?  Who goes [[Home|home]]?"
 
 * * *

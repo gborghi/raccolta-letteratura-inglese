@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Resurrection of Father Brown (part 1)"
+title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -14,24 +14,24 @@ tags:
 </nav>
 
 
-ONE:  The Resurrection of Father Brown
+ONE:  The [[Resurrection]] of [[Father Brown]]
 
-THERE was a brief period during which Father Brown enjoyed,
+THERE was a brief period during which [[Father Brown]] enjoyed,
 or rather did not enjoy, something like fame.  He was a nine days'
-wonder in the newspapers; he was even a common topic of controversy
+[[Wonder|wonder]] in the newspapers; he was even a common topic of controversy
 in the weekly reviews; his exploits were narrated eagerly and inaccurately
-in any number of clubs and drawing--rooms, especially in America.
+in any number of clubs and drawing--rooms, especially in [[america|America]].
 Incongruous and indeed incredible as it may seem to any one who knew him,
-his adventures as a detective were even made the subject of short
+his adventures as a [[Detective|detective]] were even made the subject of short
 stories appearing in magazines.
 
 Strangely enough, this wandering limelight struck him in the most obscure,
 or at least the most remote, of his many places of residence.
 He had been sent out to officiate, as something between a missionary
 and a parish priest, in one of those sections of the northern coast
-of South America, where strips of country still cling insecurely
+of South [[america|America]], where strips of country still cling insecurely
 to European powers, or are continually threatening to become
-independent republics, under the gigantic shadow of President Monroe.
+independent republics, under the gigantic [[Shadow|shadow]] of President Monroe.
 The population was red and brown with pink spots; that is,
 it was Spanish--American, and largely Spanish--American--Indian,
 but there was a considerable and increasing infiltration of
@@ -39,9 +39,9 @@ Americans of the northern sort--Englishmen, Germans, and the rest.
 And the trouble seems to have begun when one of these visitors,
 very recently landed and very much annoyed at having lost one of his bags,
 approached the first building of which he came in sight--which happened
-to be the mission--house and chapel attached to it, in front of which
+to be the mission--[[house]] and chapel attached to it, in front of which
 ran a long veranda and a long row of stakes, up which were trained
-the black twisted vines, their square leaves red with autumn.
+the black twisted vines, their square [[Leaves|leaves]] red with [[Autumn|autumn]].
 Behind them, also in a row, a number of human beings sat almost
 as rigid as the stakes, and coloured in some fashion like the vines.
 For while their broad--brimmed hats were as black as their
@@ -50,12 +50,12 @@ made out of the dark red timber of those transatlantic forests.
 Many of them were smoking very long, thin black cigars;
 and in all that group the smoke was almost the only moving thing.
 The visitor would probably have described them as natives,
-though some of them were very proud of Spanish blood.
+though some of them were very proud of Spanish [[Blood|blood]].
 But he was not one to draw any fine distinction between Spaniards
 and Red Indians, being rather disposed to dismiss people from
 the scene when once he had convicted them of being native to it.
 
-He was a newspaper man from Kansas City, a lean, light--
+He was a newspaper man from Kansas [[City]], a lean, light--
 haired man with what Meredith called an adventurous nose;
 one could almost fancy it found its way by feeling its way
 and moved like the proboscis of an ant--eater.  His name
@@ -77,7 +77,7 @@ first questions, he began to do all the talking himself.
 
 Standing out there in the strong sunshine, a spick--and--span figure
 in his Panama hat and neat clothes, his grip--sack held m
-a steely grip, he began to shout at the people in the shadow.
+a steely grip, he began to shout at the people in the [[Shadow|shadow]].
 He began to explain to them very loudly why they were lazy and filthy,
 and bestially ignorant and lower than the beasts that perish,
 in case this problem should have previously exercised their minds.

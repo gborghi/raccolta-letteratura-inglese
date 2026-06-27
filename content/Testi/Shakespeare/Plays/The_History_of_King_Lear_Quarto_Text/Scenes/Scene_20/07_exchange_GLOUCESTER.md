@@ -1,5 +1,5 @@
 ---
-title: "The History of King Lear (Quarto Text) — Scene 20 — exchange (GLOUCESTER) [7]"
+title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 20 — exchange ([[Gloucester|GLOUCESTER]]) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| GLOUCESTER | The King is mad. How stiff is my vile sense, That I stand up and have ingenious feeling Of my huge sorrows! Better I were distraught; So should my thoughts be fenced from my griefs, And woes by wrong imaginations lose The knowledge of themselves. A drum afar off. [Enter Edgar] |
-| EDGAR | Give me your hand. Far off methinks I hear the beaten drum. Come, father, I’ll bestow you with a friend. Exit Edgar guiding Gloucester |
+| [[Gloucester|GLOUCESTER]] | The [[King]] is mad. How stiff is my vile sense, That I stand up and have ingenious feeling Of my huge sorrows! Better I were distraught; So should my thoughts be fenced from my griefs, And woes by wrong imaginations lose The knowledge of themselves. A drum afar off. [Enter [[Edgar]]] |
+| [[Edgar|EDGAR]] | Give me your hand. Far off methinks I hear the beaten drum. Come, father, I’ll bestow you with a friend. Exit [[Edgar]] guiding [[Gloucester]] |

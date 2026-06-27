@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T was not until the following evening, as already noted, that the news (part 1)"
+title: "[[FourFaultlessFelons]] — T was not until the following evening, as already noted, that the news (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -30,9 +30,9 @@ would be true to say that she went away to unpack upon a large scale. She
 
 went to unfold a sort of invisible impedimenta which had accumulated in
 
-her memories, especially her memories of the night before. This sort of
+her memories, especially her memories of the [[Night|night]] before. This sort of
 
-impetuous solitude was characteristic of her, but it had an immediate
+impetuous [[Solitude|solitude]] was characteristic of her, but it had an immediate
 
 effect which was rather fortunate in her case. For the first news was the
 
@@ -50,7 +50,7 @@ and pursuit of the criminal were already far advanced. The inquiry was in
 
 the hands of a hard headed, hatchet-faced officer named Hayter, the chief
 
-of the detective force; who was being actively seconded by young Meade,
+of the [[Detective|detective]] force; who was being actively seconded by young Meade,
 
 the secretary of the Governor. But she was rather more surprised to find
 
@@ -74,13 +74,13 @@ beard. The tutor was being examined about his own last glimpse of that
 
 questionable public character, and Barbara felt a secret fury at finding
 
-the affair of the night before turned into a public problem of police.
+the affair of the [[Night|night]] before turned into a public problem of police.
 
 She felt as if she had come down in the morning to find the whole
 
 breakfast-table talking about some very intimate dream she had had in the
 
-middle of the night. For though she had carried that picture with her as
+middle of the [[Night|night]]. For though she had carried that picture with her as
 
 she wandered among the tombs and the green thickets, she had felt it as
 
@@ -90,7 +90,7 @@ wilderness. The bland, black-haired Mr. Meade was especially insinuating
 
 in his curiosity. She told herself, in a highly unreasonable fashion,
 
-that she had always hated Arthur Meade.
+that she had always hated [[arthur|Arthur]] Meade.
 
 
 
@@ -104,7 +104,7 @@ your own for regarding this man as a dangerous character."
 
 sulky and reluctant manner. "I did have a bit of a kick up with him last
 
-night, but it didn't make any difference to my views, nor to his either,
+[[Night|night]], but it didn't make any difference to my views, nor to his either,
 
 I should think."
 
@@ -114,9 +114,9 @@ I should think."
 
 Meade. "Isn't it true that he went away cursing not only you but
 
-especially the Governor? And he went away down the hill towards the place
+especially the Governor? And he went away down the [[Hill|hill]] towards the place
 
-where the Governor was shot. It's true he wasn't shot till a good time
+where the Governor was shot. It's true he wasn't shot till a good [[Time|time]]
 
 after, and nobody seems to have seen his assailant; but he might have
 
@@ -128,7 +128,7 @@ hung about in the woods and then crept out along the wall at dusk."
 
 these woods, I suppose," said the tutor sardonically. "I swear he had no
 
-gun or pistol on him when I threw him into the prickly pear."
+gun or [[Pistol|pistol]] on him when I threw him into the prickly pear."
 
 
 
@@ -142,7 +142,7 @@ character."
 
 "I don't think he is in the least a doubtful character," replied the
 
-tutor in his stolid way. "I haven't the least doubt about him myself. I
+tutor in his stolid way. "I haven't the least [[Doubt|doubt]] about him myself. I
 
 think he is a loose, lying, vicious braggart and humbug; a selfish,
 
@@ -154,7 +154,7 @@ whoever else did."
 
 Colonel Hayter cocked a shrewd eye at the speaker and spoke himself for
 
-the first time.
+the first [[Time|time]].
 
 
 
@@ -172,7 +172,7 @@ meetings and send round the hat and then vanish, to do the same thing
 
 somewhere else. It's a jolly different sort of person that's left to take
 
-the risks of playing Brutus or Charlotte Corday. But I confess there are
+the risks of playing [[Brutus]] or Charlotte Corday. But I confess there are
 
 two other little bits of evidence, which I think clear the fellow
 
@@ -204,7 +204,7 @@ the shot must have been fired from."
 
 had another glass, of course. You said you had a second reason for
 
-thinking him innocent."
+thinking him [[Innocent|innocent]]."
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "secret Fr Brown — Vii The Red Moon Of Meru (part 1)"
+title: "secret Fr Brown — Vii The Red [[Moon]] Of Meru (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/secret-Fr-Brown-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-VII THE RED MOON OF MERU
+VII THE RED [[Moon|MOON]] OF MERU
 
 EVERYONE agreed that the bazaar at Mallowood Abbey (by kind permission
-of Lady Mounteagle) was a great success; there were roundabouts and
+of Lady Mounteagle) was a great [[success]]; there were roundabouts and
 swings and side-shows, which the people greatly enjoyed; I would also
-mention the Charity, which was the excellent object of the proceedings,
+mention the [[Charity]], which was the excellent object of the proceedings,
 if any of them could tell me what it was. However, it is only with a few
 of them that we are here concerned; and especially with three of them, a
 lady and two gentlemen, who passed between two of the principal tents or
@@ -73,54 +73,54 @@ in.
 
 "For my part," he said, screwing in the monocle that was the only gleam
 in his hard, legal face, "I think we must exhaust the possibilities of
-mesmerism before we talk about magic. Remarkable psychological powers
+[[Mesmerism|mesmerism]] before we talk about [[Magic|magic]]. Remarkable psychological powers
 undoubtedly exist, even in apparently backward peoples. Marvellous
 things have been done by fakirs."
 
 "Did you say done by fakers?" asked the other young man, with doubtful
-innocence.
+[[innocence]].
 
 "Tommy, you are simply silly," said the lady. "Why will you keep barging
 in on things you don't understand? You're like a schoolboy screaming out
 that he knows how a conjuring trick is done. It's all so Early
-Victorian--that schoolboy scepticism. As for mesmerism, I doubt whether
+Victorian--that schoolboy scepticism. As for [[Mesmerism|mesmerism]], I [[Doubt|doubt]] whether
 you can stretch it to----"
 
 At this point Lady Mounteagle seemed to catch sight of somebody she
 wanted; a black stumpy figure standing at a booth where children were
 throwing hoops at hideous table ornaments. She darted across and cried:
 
-"Father Brown, I've been looking for you. I want to ask you something,
+"[[Father Brown]], I've been looking for you. I want to ask you something,
 Do you believe in fortune-telling?"
 
 The person addressed looked rather helplessly at the little hoop in his
 hand and said at last:
 
-"I wonder in which sense you're using the word 'believe.' Of course, if
+"I [[Wonder|wonder]] in which sense you're using the word 'believe.' Of course, if
 it's all a fraud----"
 
 "Oh, but the Master of the Mountain isn't a bit of a fraud," she cried.
 "He isn't a common conjurer or a fortune-teller at all. It's really a
-great honour for him to condescend to tell fortunes at my parties; he's
-a great religious leader in his own country; a Prophet and a Seer. And
+great [[Honour|honour]] for him to condescend to tell fortunes at my parties; he's
+a great religious leader in his own country; a [[Prophet]] and a Seer. And
 even his fortune-telling isn't vulgar stuff about coming into a
 fortune. He tells you great spiritual truths about yourself, about your
 ideals."
 
-"Quite so," said Father Brown. "That's what I object to. I was just
+"Quite so," said [[Father Brown]]. "That's what I object to. I was just
 going to say that if it's all a fraud, I don't mind it so much. It can't
 be much more of a fraud than most things at fancy bazaars; and there, in
 a way, it's a sort of practical joke. But if it's a religion and reveals
 spiritual truths--then it's all as false as hell and I wouldn't touch it
 with a bargepole."
 
-"That is something of a paradox," said Hardcastle, with a smile.
+"That is something of a [[Paradox|paradox]]," said Hardcastle, with a smile.
 
-"I wonder what a paradox is," remarked the priest in a ruminant manner.
+"I [[Wonder|wonder]] what a [[Paradox|paradox]] is," remarked the priest in a ruminant manner.
 "It seems to me obvious enough. I suppose it wouldn't do very much harm
 if somebody dressed up as a German spy and pretended to have told all
-sorts of lies to the Germans. But if a man is trading in the truth with
-the Germans--well! So I think if a fortune-teller is trading in truth
+sorts of lies to the Germans. But if a man is trading in the [[Truth|truth]] with
+the Germans--[[Well|well]]! So I think if a fortune-teller is trading in [[Truth|truth]]
 like that----"
 
 "You really think," began Hardcastle grimly.

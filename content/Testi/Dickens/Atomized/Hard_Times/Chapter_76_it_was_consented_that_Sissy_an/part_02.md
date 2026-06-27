@@ -15,14 +15,14 @@ tags:
 
 
 These various changes, Mr. Sleary, very short of breath now, related with
-great heartiness, and with a wonderful kind of innocence, considering
+great heartiness, and with a wonderful kind of [[innocence]], considering
 what a bleary and brandy-and-watery old veteran he was.  Afterwards he
 brought in Josephine, and E. W. B. Childers (rather deeply lined in the
-jaws by daylight), and the Little Wonder of Scholastic Equitation, and in
+jaws by daylight), and the Little [[Wonder]] of Scholastic Equitation, and in
 a word, all the company.  Amazing creatures they were in Louisa’s eyes,
 so white and pink of complexion, so scant of dress, and so demonstrative
 of leg; but it was very agreeable to see them crowding about Sissy, and
-very natural in Sissy to be unable to refrain from tears.
+very natural in Sissy to be unable to refrain from [[Tears|tears]].
 
 ‘There!  Now Thethilia hath kithd all the children, and hugged all the
 women, and thaken handth all round with all the men, clear, every one of
@@ -34,8 +34,8 @@ to be Mith Thquire.’
 
 ‘This is his sister.  Yes.’
 
-‘And t’other on’th daughter.  That’h what I mean.  Hope I thee you well,
-mith.  And I hope the Thquire’th well?’
+‘And t’other on’th daughter.  That’h what I mean.  [[Hope]] I thee you [[Well|well]],
+mith.  And I [[Hope|hope]] the Thquire’th [[Well|well]]?’
 
 ‘My father will be here soon,’ said Louisa, anxious to bring him to the
 point.  ‘Is my brother safe?’
@@ -56,7 +56,7 @@ ecthpenthive bathket one), he an’t on yet.  Now, do you thee ’em all?’
 
 ‘Yes,’ they both said.
 
-‘Look at ’em again,’ said Sleary, ‘look at ’em well.  You thee em all?
+‘Look at ’em again,’ said Sleary, ‘look at ’em [[Well|well]].  You thee em all?
 Very good.  Now, mith;’ he put a form for them to sit on; ‘I have my
 opinionth, and the Thquire your father hath hith.  I don’t want to know
 what your brother’th been up to; ith better for me not to know.  All I
@@ -72,24 +72,24 @@ after the performanth.  I thant undreth him, nor yet wath hith paint off.
 Let the Thquire come here after the performanth, or come here yourthelf
 after the performanth, and you thall find your brother, and have the
 whole plathe to talk to him in.  Never mind the lookth of him, ath long
-ath he’th well hid.’
+ath he’th [[Well|well]] hid.’
 
 Louisa, with many thanks and with a lightened load, detained Mr. Sleary
-no longer then.  She left her love for her brother, with her eyes full of
-tears; and she and Sissy went away until later in the afternoon.
+no longer then.  She left her [[Love|love]] for her brother, with her eyes full of
+[[Tears|tears]]; and she and Sissy went away until later in the afternoon.
 
 Mr. Gradgrind arrived within an hour afterwards.  He too had encountered
 no one whom he knew; and was now sanguine with Sleary’s assistance, of
-getting his disgraced son to Liverpool in the night.  As neither of the
+getting his disgraced son to Liverpool in the [[Night|night]].  As neither of the
 three could be his companion without almost identifying him under any
 disguise, he prepared a letter to a correspondent whom he could trust,
-beseeching him to ship the bearer off at any cost, to North or South
-America, or any distant part of the world to which he could be the most
+beseeching him to [[Ship|ship]] the bearer off at any cost, to North or South
+[[America]], or any distant part of the world to which he could be the most
 speedily and privately dispatched.
 
 This done, they walked about, waiting for the Circus to be quite vacated;
 not only by the audience, but by the company and by the horses.  After
-watching it a long time, they saw Mr. Sleary bring out a chair and sit
+watching it a long [[Time|time]], they saw Mr. Sleary bring out a chair and sit
 down by the side-door, smoking; as if that were his signal that they
 might approach.
 
@@ -107,7 +107,7 @@ In a preposterous coat, like a beadle’s, with cuffs and flaps exaggerated
 to an unspeakable extent; in an immense waistcoat, knee-breeches, buckled
 shoes, and a mad cocked hat; with nothing fitting him, and everything of
 coarse material, moth-eaten and full of holes; with seams in his black
-face, where fear and heat had started through the greasy composition
+face, where [[Fear|fear]] and heat had started through the greasy composition
 daubed all over it; anything so grimly, detestably, ridiculously shameful
 as the whelp in his comic livery, Mr. Gradgrind never could by any other
 means have believed in, weighable and measurable fact though it was.  And
@@ -126,10 +126,10 @@ limits from where his father sat.
 
 ‘This robbery,’ said the father, raising his voice upon the word.
 
-‘I forced the safe myself over night, and shut it up ajar before I went
+‘I forced the safe myself over [[Night|night]], and shut it up ajar before I went
 away.  I had had the key that was found, made long before.  I dropped it
 that morning, that it might be supposed to have been used.  I didn’t take
-the money all at once.  I pretended to put my balance away every night,
+the money all at once.  I pretended to put my balance away every [[Night|night]],
 but I didn’t.  Now you know all about it.’
 
 ‘If a thunderbolt had fallen on me,’ said the father, ‘it would have

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 49 (part 1)"
+title: "Bleak [[house|House]] — Chapter 49 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER XLIX
 
-Dutiful Friendship
+Dutiful [[Friendship]]
 
 
 A great annual occasion has come round in the establishment of Mr.
@@ -41,10 +41,10 @@ are kept with some marks of distinction, but they rarely overleap the
 bounds of happy returns and a pudding. On young Woolwich’s last
 birthday, Mr. Bagnet certainly did, after observing on his growth and
 general advancement, proceed, in a moment of profound reflection on
-the changes wrought by time, to examine him in the catechism,
+the changes wrought by [[Time|time]], to examine him in the catechism,
 accomplishing with extreme accuracy the questions number one and two,
 “What is your name?” and “Who gave you that name?” but there failing
-in the exact precision of his memory and substituting for number
+in the exact precision of his [[Memory|memory]] and substituting for number
 three the question “And how do you like that name?” which he
 propounded with a sense of its importance, in itself so edifying and
 improving as to give it quite an orthodox air. This, however, was a
@@ -73,7 +73,7 @@ state with all imaginable cheerfulness.
 
 On this present birthday, Mr. Bagnet has accomplished the usual
 preliminaries. He has bought two specimens of poultry, which, if
-there be any truth in adages, were certainly not caught with chaff,
+there be any [[Truth|truth]] in adages, were certainly not caught with chaff,
 to be prepared for the spit; he has amazed and rejoiced the family by
 their unlooked-for production; he is himself directing the roasting
 of the poultry; and Mrs. Bagnet, with her wholesome brown fingers
@@ -89,16 +89,16 @@ of the head, or a crooked face, as they made mistakes.
 done.”
 
 Mrs. Bagnet, with anguish, beholds one of them at a standstill before
-the fire and beginning to burn.
+the [[Fire|fire]] and beginning to burn.
 
 “You shall have a dinner, old girl,” says Mr. Bagnet. “Fit for a
-queen.”
+[[Queen|queen]].”
 
 Mrs. Bagnet shows her white teeth cheerfully, but to the perception
 of her son, betrays so much uneasiness of spirit that he is impelled
 by the dictates of affection to ask her, with his eyes, what is the
 matter, thus standing, with his eyes wide open, more oblivious of the
-fowls than before, and not affording the least hope of a return to
+fowls than before, and not affording the least [[Hope|hope]] of a return to
 consciousness. Fortunately his elder sister perceives the cause of
 the agitation in Mrs. Bagnet’s breast and with an admonitory poke
 recalls him. The stopped fowls going round again, Mrs. Bagnet closes
@@ -124,7 +124,7 @@ table-cloth, and winking “salt!” at Malta with her right eye, and
 shaking the pepper away from Quebec with her head, “I begin to think
 George is in the roving way again.”
 
-“George,” returns Mr. Bagnet, “will never desert. And leave his old
+“George,” returns Mr. Bagnet, “will never [[Desert|desert]]. And leave his old
 comrade. In the lurch. Don’t be afraid of it.”
 
 “No, Lignum. No. I don’t say he will. I don’t think he will. But if
@@ -133,7 +133,7 @@ off.”
 
 Mr. Bagnet asks why.
 
-“Well,” returns his wife, considering, “George seems to me to be
+“[[Well]],” returns his wife, considering, “George seems to me to be
 getting not a little impatient and restless. I don’t say but what
 he’s as free as ever. Of course he must be free or he wouldn’t be
 George, but he smarts and seems put out.”

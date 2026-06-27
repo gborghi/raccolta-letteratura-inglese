@@ -17,20 +17,20 @@ tags:
 I am not writing controversially or trying to pin anybody with this
 as an individual necessity.  I am writing educationally and considering
 the probable psychological impression of certain atmospheres
-and fine shades.  I say that a great deal of evolution in education
-would not make that education very insistent on the ideas of free
-will and fighting morality; of dramatic choice and challenge.
+and fine shades.  I say that a great deal of evolution in [[Education|education]]
+would not make that [[Education|education]] very insistent on the ideas of free
+will and fighting [[morality]]; of dramatic choice and challenge.
 Why should one fruit challenge another fruit on the same tree; or how can
 there be a black and white choice between its slow gradations of green?
 So that even if we ignore the primary question of religion in the sense
 of the purpose of creation, there is the same sort of problem about
 religion even if we use it in the sense of the purpose of doing good.
 If a man believes that there is between vice and virtue a chasm
-like that of life and death, he will want to say so.  And if other
+like that of life and [[Death|death]], he will want to say so.  And if other
 people only say that everything is a growth of evolution, he will not
 admit that they have said what he wishes to say.  It is not merely
-a question of secular education that seems indifferent to religion,
-but of scientific education that seems rather indifferent to ethics.
+a question of secular [[Education|education]] that seems indifferent to religion,
+but of scientific [[Education|education]] that seems rather indifferent to ethics.
 I am talking about educational effects, as educationists do;
 and decline any sort of sentimental recrimination about the pure
 and noble aims of men of science.  Many who would despise anything
@@ -38,7 +38,7 @@ so classical as the teaching of rhetoric, are always ready with
 any amount of rhetoric in praise of the teaching of science.
 I am not attacking the teaching of science, still less the teachers
 of science; I am saying the teaching of evolution, if it becomes
-an atmosphere, cannot be an atmosphere favourable to moral fire
+an atmosphere, cannot be an atmosphere favourable to moral [[Fire|fire]]
 or a fighting spirit.  To put it shortly, the teaching of evolution
 is hardly the training for revolution.
 
@@ -48,21 +48,21 @@ When a reformer can only say to a slave-driver, "You are evolving
 too slow; you ought to have emerged from the slave-state,"
 the slave-driver has only to answer, "You are evolving too fast;
 you ought to wait for the twenty-first century."  Such an argument
-will hardly set in a flame the fanaticism of Harper's Ferry.
+will hardly set in a flame the [[Fanaticism|fanaticism]] of Harper's Ferry.
 It seems to me, therefore, that the poor Puritans of Tennessee
 are not altogether wrong, as a matter of educational psychology,
-if they say that evolutionary education, even if it is not an attack
+if they say that evolutionary [[Education|education]], even if it is not an attack
 on Christian doctrine, may become an atmosphere very alien to
 Christian morals; or indeed any manly and combative sort of morals.
 After the doctrine that existence is a thing of design, the next most
 interesting doctrine is that life is a thing of choice; and even if men
-were all taught to be atheists, I doubt whether mere evolutionism
+were all taught to be atheists, I [[Doubt|doubt]] whether mere evolutionism
 would have taught them to be really spirited and warlike atheists.
 And to see atheists lose their one great virtue of ferocity would
 indeed be a serious loss to religion.
 
 
-THE PHILOSOPHY OF ISLANDS
+THE [[philosophy|PHILOSOPHY]] OF ISLANDS
 
 From The Venture Annual, 1903
 
@@ -73,21 +73,21 @@ that we could not tell which was creature and which was clothes.
 We could see that it had, say, six red tufts on its head,
 but we should not know whether they were a highly respectable
 head-covering or simply a head.  We should see that the tail
-ended in three yellow stars, but it would be difficult for us
+ended in three yellow [[Stars|stars]], but it would be difficult for us
 to know whether this was part of a ritual or simply a tail.
-Well, man has been from the beginning of time this unknown monster.
+[[Well]], man has been from the beginning of [[Time|time]] this unknown [[Monster|monster]].
 People have always differed about what part of him belonged to himself,
 and what part was merely an accident.  People have said successively
 that it was natural to him to do everything and anything that was diverse
 and mutually contradictory; that it was natural to him to worship God,
-and natural to him to be an atheist; natural to him to drink water,
+and natural to him to be an atheist; natural to him to drink [[Water|water]],
 and natural to him to drink wine; natural to him to be equal,
 natural to be unequal; natural to obey kings, natural to kill them.
 The divergence is quite sufficient to justify us in asking if there
 are not many things that are really natural, which really appear
 early and strong in every normal human being, which are not embodied
 in any of his after affairs.  Whether there are not morbidities
-which are as fresh and recurrent as the flowers of spring.
+which are as fresh and recurrent as the [[Flowers|flowers]] of [[spring]].
 Whether there are not superstitions whose darkness is as wholesome
 as the darkness that falls nightly on all living things.
 Whether we have not treated things essential as portents;
@@ -115,10 +115,10 @@ when, as a matter of fact, if there is any eccentricity involved,
 we are too eccentric to understand them.  A poor man, as it is
 weirdly ordained, is definable as a man who has not got much money;
 to hear philanthropists talk about him one would think he was a kangaroo.
-A child is a human being who has not grown up; to hear educationists
+A [[Child|child]] is a human being who has not grown up; to hear educationists
 talk one would think he was some variety of a deep-sea fish.
 The case of the sexes is at once more obvious and more difficult.
-The stoic philosophy and the early church discussed woman as if she
+The stoic [[philosophy]] and the early church discussed woman as if she
 were an institution, and in many cases decided to abolish her.
 The modern feminine output of literature discusses man as if
 he were an institution, and decides to abolish him.  It can only

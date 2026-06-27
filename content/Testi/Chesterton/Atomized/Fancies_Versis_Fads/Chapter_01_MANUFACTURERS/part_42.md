@@ -16,21 +16,21 @@ tags:
 
 Now at the back of all this, of course, the real difference is religious.
 I only take this one case of what is called temperance for the sake
-of the wider philosophy that underlies it.  When my young American
-friend talked of the next generation growing up without the desire
+of the wider [[philosophy]] that underlies it.  When my young American
+friend talked of the next generation growing up without the [[Desire|desire]]
 for "alcohol," he had at the back of his mind a certain idea.
 It is the idea which I have just seen expressed by another American
 in a high-brow article, in the words:  "Evolution does not stand still.
 We are not finished.  The world is not finished."  What it means
-is that the nature of man can be modified to suit the convenience
+is that the [[Nature|nature]] of man can be modified to suit the convenience
 of particular men; and this would certainly be very convenient.
 If the rich man wants the miners to live underground, he may really
 breed for it a new race as blind as bats and owls.  If he finds it
 cheaper to run the school and school inspections on Adamite principles,
-he can hope to produce Adamites not merely as a sect but as a species.
-And the same will be true of teetotalism or vegetarianism; nature,
+he can [[Hope|hope]] to produce Adamites not merely as a sect but as a species.
+And the same will be true of teetotalism or vegetarianism; [[Nature|nature]],
 having evolved man, who is an ale-drinking animal, may now evolve
-a super-man, or a sub-man, who shall be a water-drinking animal.
+a super-man, or a sub-man, who shall be a [[Water|water]]-drinking animal.
 Having risen from a monkey who eats nuts to a man who eats mutton,
 he may rise yet higher by eating nuts again.
 
@@ -38,22 +38,22 @@ Thinking people, of course, know that all that is nonsense.
 They know there is no such constant flux of adaption.
 So far from saying that the evolution of man has not finished,
 they will point out that (as far as we know) it has not begun.
-In all the five thousand years of recorded history, and in all
-the prehistoric indications before it, there is not a shadow
+In all the five thousand years of recorded [[history]], and in all
+the prehistoric indications before it, there is not a [[Shadow|shadow]]
 or suspicion of movement or change in the human biological type.
-Even evolution, let alone natural selection, is only a conjecture
+Even evolution, let [[Alone|alone]] natural selection, is only a conjecture
 about things unknown, compared with the broad daylight of things
 known in all those thousands of years.  The only difference is
 that evolution seems a probable conjecture, and natural selection
 is on the face of it an extravagantly improbable one.  All this,
 which is obvious to thinking people, has at last become obvious even to
 the most unthinking; and _that_ is the meaning of the attack on Darwinism
-in America and the battle of Mr. Bryan against the Missing Link.
+in [[america|America]] and the battle of Mr. Bryan against the Missing Link.
 The secret is out.  The obscurantism of the professors is over.
-Those of us who have humbly hammered on this point from time
-to time suddenly find ourselves hammering on an open door.
-For these changes almost always come suddenly; which is alone enough
-to show that human history at least has never been merely an evolution.
+Those of us who have humbly hammered on this point from [[Time|time]]
+to [[Time|time]] suddenly find ourselves hammering on an open door.
+For these changes almost always come suddenly; which is [[Alone|alone]] enough
+to show that human [[history]] at least has never been merely an evolution.
 As Darwinism came with a rush, so anti-Darwinism has come with a rush;
 and just as people who accepted evolution could not be held back
 from embracing natural selection, so it is likely enough that many,
@@ -83,10 +83,10 @@ if he does think so, I cannot quite understand.  I, for one,
 am fully conscious of my inferiority to him and others through
 this deficiency; nor is it, alas, the only deficiency.
 I have sometimes thought it would be wholesome for anybody who has
-succeeded pretty well by some trick of some trade, to have a huge
+succeeded pretty [[Well|well]] by some trick of some trade, to have a huge
 notice board or diagram hung in front of him all day; showing exactly
 where he stood in all the other crafts and competitions of mankind.
-Thus the poet's eye in a fine frenzy rolling, as it rose from the paper
+Thus the poet's eye in a fine frenzy [[rolling]], as it [[Rose|rose]] from the paper
 on which an entirely new type of villanelle had just sprung into being,
 would encounter the disconcerting facts and figures about his suitability
 to be a professional acrobat or a pearl-diver. On the other hand,
@@ -99,24 +99,24 @@ practically hidden from whole generations and classes of mankind.
 There is something very defective and disproportionate about even
 the ideal culture of a modern man.  It may be that Mr. Newman is deeply
 read in that mediaeval theology which is still the sub-conscious
-basis of most morality; but it is also possible that he is not.
+basis of most [[morality]]; but it is also possible that he is not.
 He may have at his fingers' ends that military art which has
-often turned the fortunes of history; but he may not.  He would
+often turned the fortunes of [[history]]; but he may not.  He would
 be none the less a highly cultivated gentleman, if he did not.
 Yet the mystical and the military mind have been at least as pivotal
-and practical in history as the musical mind.  I can admire them all,
+and practical in [[history]] as the musical mind.  I can admire them all,
 but I have no claim to possess any of them.
 
 But my ignorance of music happens to assist me with a convenient
 metaphor in the more controversial matter of my ignorance of science.
 I once made some remarks about the decline of Darwinism,
-in a review of the Wells "Outline of History."  This aroused rather
+in a review of the Wells "Outline of [[history|History]]."  This aroused rather
 excited criticism; but one comparatively calm critic challenged
 what really interests me in the matter:  he said that my conundrums
 about the wing of the bat and similar things "could easily be solved
 on purely Darwinian lines by any competent zoologist, or even by one
 so incompetent as myself."  The conundrum in question, of course,
-concerns the survival value of features in their unfinished state.
+concerns the [[Survival|survival]] value of features in their unfinished state.
 If a thing can fly it may survive, and if it has a wing it may fly;
 but if it cannot fly with half a wing, why should it survive
 with half a wing?  Yet Darwinism pre-supposes that numberless
@@ -128,7 +128,7 @@ to my opinion, and do so for a reason that seems to me worthy
 of some little consideration.  I do it because this does happen
 to be exactly one of those questions on which, as it seems to me,
 the independent critic has really a right to check the specialist.
-For it is a larger question of logic, and not a smaller
+For it is a larger question of [[logic]], and not a smaller
 question of fact.  It is like the difficulty of believing
 that a halfpenny can fall head or tail a hundred times running;
 which has nothing to do with the numismatic value of the coin.
@@ -137,5 +137,5 @@ a loaf cheaper, which has nothing to do with the agrarian craft
 of growing corn.  There is a general tide of reason flowing against
 such improbabilities, even if they are possibilities; they would
 still be exceptions, and reason would be on the side of the rule.
-And whatever the details of natural history, this thing is against
-the very nature of things.
+And whatever the details of natural [[history]], this thing is against
+the very [[Nature|nature]] of things.

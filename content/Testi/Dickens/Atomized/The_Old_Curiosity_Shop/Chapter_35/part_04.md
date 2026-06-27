@@ -16,7 +16,7 @@ tags:
 
 Dick nodded assent, and drained his glass.
 
-‘Let them know my humour,’ said the single gentleman, rising.  ‘If they
+‘Let them know my [[Humour|humour]],’ said the single gentleman, rising.  ‘If they
 disturb me, they lose a good tenant.  If they know me to be that, they
 know enough.  If they try to know more, it’s a notice to quit.  It’s
 better to understand these things at once.  Good day.’
@@ -48,30 +48,30 @@ routed from the keyhole by Mr Swiveller’s abrupt exit.  As their utmost
 exertions had not enabled them to overhear a word of the interview,
 however, in consequence of a quarrel for precedence, which, though
 limited of necessity to pushes and pinches and such quiet pantomime,
-had lasted the whole time, they hurried him down to the office to hear
+had lasted the whole [[Time|time]], they hurried him down to the office to hear
 his account of the conversation.
 
 This Mr Swiveller gave them--faithfully as regarded the wishes and
 character of the single gentleman, and poetically as concerned the
 great trunk, of which he gave a description more remarkable for
-brilliancy of imagination than a strict adherence to truth; declaring,
+brilliancy of [[Imagination|imagination]] than a strict adherence to [[Truth|truth]]; declaring,
 with many strong asseverations, that it contained a specimen of every
 kind of rich food and wine, known in these times, and in particular
-that it was of a self-acting kind and served up whatever was required,
-as he supposed by clock-work. He also gave them to understand that the
+that it was of a [[Self|self]]-acting kind and served up whatever was required,
+as he supposed by [[Clock|clock]]-work. He also gave them to understand that the
 cooking apparatus roasted a fine piece of sirloin of beef, weighing
 about six pounds avoir-dupoise, in two minutes and a quarter, as he had
 himself witnessed, and proved by his sense of taste; and further, that,
-however the effect was produced, he had distinctly seen water boil and
+however the effect was produced, he had distinctly seen [[Water|water]] boil and
 bubble up when the single gentleman winked; from which facts he (Mr
 Swiveller) was led to infer that the lodger was some great conjuror or
 chemist, or both, whose residence under that roof could not fail at
 some future days to shed a great credit and distinction on the name of
-Brass, and add a new interest to the history of Bevis Marks.
+Brass, and add a new interest to the [[history]] of Bevis Marks.
 
 There was one point which Mr Swiveller deemed it unnecessary to enlarge
 upon, and that was the fact of the modest quencher, which, by reason of
 its intrinsic strength and its coming close upon the heels of the
 temperate beverage he had discussed at dinner, awakened a slight degree
 of fever, and rendered necessary two or three other modest quenchers at
-the public-house in the course of the evening.
+the public-[[house]] in the course of the evening.

@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 23 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 23 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -26,13 +26,13 @@ his young guest, in no very favourable consideration of his character.
 
 “This lengthened absence, these solitary rambles, did not speak a mind
 
-at ease, or a conscience void of reproach.” At length he appeared; and,
+at ease, or a [[Conscience|conscience]] void of reproach.” At length he appeared; and,
 
 whatever might have been the gloom of his meditations, he could still
 
 smile with _them_. Miss Tilney, understanding in part her friend’s
 
-curiosity to see the house, soon revived the subject; and her father
+curiosity to see the [[house]], soon revived the subject; and her father
 
 being, contrary to Catherine’s expectations, unprovided with any
 
@@ -46,7 +46,7 @@ to escort them.
 
 They set forward; and, with a grandeur of air, a dignified step, which
 
-caught the eye, but could not shake the doubts of the well-read
+caught the eye, but could not shake the doubts of the [[Well|well]]-read
 
 Catherine, he led the way across the hall, through the common
 
@@ -68,11 +68,11 @@ for no furniture of a more modern date than the fifteenth century. When
 
 the General had satisfied his own curiosity, in a close examination of
 
-every well-known ornament, they proceeded into the library, an
+every [[Well|well]]-known ornament, they proceeded into the library, an
 
 apartment, in its way, of equal magnificence, exhibiting a collection
 
-of books, on which an humble man might have looked with pride.
+of books, on which an humble man might have looked with [[Pride|pride]].
 
 Catherine heard, admired, and wondered with more genuine feeling than
 
@@ -80,13 +80,13 @@ before—gathered all that she could from this storehouse of knowledge,
 
 by running over the titles of half a shelf, and was ready to proceed.
 
-But suites of apartments did not spring up with her wishes. Large as
+But suites of apartments did not [[spring]] up with her wishes. Large as
 
 was the building, she had already visited the greatest part; though, on
 
 being told that, with the addition of the kitchen, the six or seven
 
-rooms she had now seen surrounded three sides of the court, she could
+rooms she had now seen surrounded three sides of the [[Court|court]], she could
 
 scarcely believe it, or overcome the suspicion of there being many
 
@@ -94,7 +94,7 @@ chambers secreted. It was some relief, however, that they were to
 
 return to the rooms in common use, by passing through a few of less
 
-importance, looking into the court, which, with occasional passages,
+importance, looking into the [[Court|court]], which, with occasional passages,
 
 not wholly unintricate, connected the different sides; and she was
 
@@ -118,7 +118,7 @@ his litter of books, guns, and greatcoats.
 
 From the dining-room, of which, though already seen, and always to be
 
-seen at five o’clock, the General could not forgo the pleasure of
+seen at five o’[[Clock|clock]], the General could not forgo the pleasure of
 
 pacing out the length, for the more certain information of Miss
 
@@ -136,7 +136,7 @@ the cooks had been adopted within this, their spacious theatre; and,
 
 when the genius of others had failed, his own had often produced the
 
-perfection wanted. His endowments of this spot alone might at any time
+perfection wanted. His endowments of this spot [[Alone|alone]] might at any [[Time|time]]
 
 have placed him high among the benefactors of the convent.
 
@@ -162,7 +162,7 @@ the purposes of mere domestic economy; and would willingly have been
 
 spared the mortification of a walk through scenes so fallen, had the
 
-General allowed it; but if he had a vanity, it was in the arrangement
+General allowed it; but if he had a [[Vanity|vanity]], it was in the arrangement
 
 of his offices; and as he was convinced that, to a mind like Miss
 
@@ -192,7 +192,7 @@ domestic arrangements from such as she had read about—from abbeys and
 
 castles, in which, though certainly larger than Northanger, all the
 
-dirty work of the house was to be done by two pair of female hands at
+dirty work of the [[house]] was to be done by two pair of female hands at
 
 the utmost. How they could get through it all had often amazed Mrs.
 

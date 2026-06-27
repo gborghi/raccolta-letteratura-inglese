@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 9 (part 8)"
+title: "[[Martin Chuzzlewit]] — Chapter 9 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -20,14 +20,14 @@ encouragement in his power; favouring them, when the general attention
 was diverted from his proceedings, with many nods and winks and other
 tokens of recognition, and occasionally touching his nose with a
 corkscrew, as if to express the Bacchanalian character of the meeting.
-In truth, perhaps even the spirits of the two Miss Pecksniffs, and the
+In [[Truth|truth]], perhaps even the spirits of the two Miss Pecksniffs, and the
 hungry watchfulness of Mrs Todgers, were less worthy of note than the
 proceedings of this remarkable boy, whom nothing disconcerted or put out
 of his way. If any piece of crockery, a dish or otherwise, chanced to
 slip through his hands (which happened once or twice), he let it go with
 perfect good breeding, and never added to the painful emotions of the
 company by exhibiting the least regret. Nor did he, by hurrying to and
-fro, disturb the repose of the assembly, as many well-trained servants
+fro, disturb the repose of the assembly, as many [[Well|well]]-trained servants
 do; on the contrary, feeling the hopelessness of waiting upon so large a
 party, he left the gentlemen to help themselves to what they wanted, and
 seldom stirred from behind Mr Jinkins’s chair, where, with his hands
@@ -35,36 +35,36 @@ in his pockets, and his legs planted pretty wide apart, he led the
 laughter, and enjoyed the conversation.
 
 The dessert was splendid. No waiting either. The pudding-plates had been
-washed in a little tub outside the door while cheese was on, and though
+washed in a little tub outside the door while [[cheese]] was on, and though
 they were moist and warm with friction, still there they were again,
-up to the mark, and true to time. Quarts of almonds; dozens of oranges;
+up to the mark, and true to [[Time|time]]. Quarts of almonds; dozens of oranges;
 pounds of raisins; stacks of biffins; soup-plates full of nuts.--Oh,
 Todgers’s could do it when it chose! mind that.
 
 Then more wine came on; red wines and white wines; and a large china
 bowl of punch, brewed by the gentleman of a convivial turn, who adjured
 the Miss Pecksniffs not to be despondent on account of its dimensions,
-as there were materials in the house for the decoction of half a dozen
+as there were materials in the [[house]] for the decoction of half a dozen
 more of the same size. Good gracious, how they laughed! How they coughed
 when they sipped it, because it was so strong; and how they laughed
 again when somebody vowed that but for its colour it might have been
 mistaken, in regard of its innocuous qualities, for new milk! What a
 shout of ‘No!’ burst from the gentlemen when they pathetically implored
-Mr Jinkins to suffer them to qualify it with hot water; and how
+Mr Jinkins to suffer them to qualify it with hot [[Water|water]]; and how
 blushingly, by little and little, did each of them drink her whole
 glassful, down to its very dregs!
 
-Now comes the trying time. The sun, as Mr Jinkins says (gentlemanly
+Now comes the trying [[Time|time]]. The sun, as Mr Jinkins says (gentlemanly
 creature, Jinkins--never at a loss!), is about to leave the firmament.
 ‘Miss Pecksniff!’ says Mrs Todgers, softly, ‘will you--?’ ‘Oh dear, no
 more, Mrs Todgers.’ Mrs Todgers rises; the two Miss Pecksniffs rise; all
-rise. Miss Mercy Pecksniff looks downward for her scarf. Where is it?
+rise. Miss [[Mercy]] Pecksniff looks downward for her scarf. Where is it?
 Dear me, where CAN it be? Sweet girl, she has it on; not on her fair
 neck, but loose upon her flowing figure. A dozen hands assist her. She
 is all confusion. The youngest gentleman in company thirsts to murder
 Jinkins. She skips and joins her sister at the door. Her sister has her
 arm about the waist of Mrs Todgers. She winds her arm around her sister.
-Diana, what a picture! The last things visible are a shape and a skip.
+[[Diana]], what a picture! The last things visible are a shape and a skip.
 ‘Gentlemen, let us drink the ladies!’
 
 The enthusiasm is tremendous. The gentleman of a debating turn rises in
@@ -84,10 +84,10 @@ feels that a mysterious influence pervades the man who claims that being
 in the pink scarf for his daughter.
 
 What saith Mr Pecksniff in reply? Or rather let the question be, What
-leaves he unsaid? Nothing. More punch is called for, and produced, and
+[[Leaves|leaves]] he unsaid? Nothing. More punch is called for, and produced, and
 drunk. Enthusiasm mounts still higher. Every man comes out freely in
 his own character. The gentleman of a theatrical turn recites. The vocal
-gentleman regales them with a song. Gander leaves the Gander of all
+gentleman regales them with a [[Song|song]]. Gander [[Leaves|leaves]] the Gander of all
 former feasts whole leagues behind. HE rises to propose a toast. It is,
 The Father of Todgers’s. It is their common friend Jink--it is old
 Jink, if he may call him by that familiar and endearing appellation. The
@@ -106,7 +106,7 @@ reminds them, amidst thunders of encouragement, that they have heard of
 a somewhat similar establishment in Cannon Street; and that they have
 heard it praised. He wishes to draw no invidious comparisons; he would
 be the last man to do it; but when that Cannon Street establishment
-shall be able to produce such a combination of wit and beauty as has
+shall be able to produce such a combination of wit and [[Beauty|beauty]] as has
 graced that board that day, and shall be able to serve up (all things
 considered) such a dinner as that of which they have just partaken, he
 will be happy to talk to it. Until then, gentlemen, he will stick to

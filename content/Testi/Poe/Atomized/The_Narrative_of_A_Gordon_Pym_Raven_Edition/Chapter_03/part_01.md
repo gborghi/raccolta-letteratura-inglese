@@ -34,7 +34,7 @@ CHAPTER 3
 
       recollection of having put them carefully away just before
 
-      falling asleep; and, indeed, previously to my last journey to the
+      falling asleep; and, indeed, previously to my last [[Journey|journey]] to the
 
       trap, I had been able to remember the exact spot where I had
 
@@ -92,7 +92,7 @@ CHAPTER 3
 
       they were. The phosphorus, of which there was only a speck or
 
-      two, I gathered up as well as I could, and returned with it,
+      two, I gathered up as [[Well|well]] as I could, and returned with it,
 
       after much difficulty, to my box, where Tiger had all the while
 
@@ -112,7 +112,7 @@ CHAPTER 3
 
       slightly askance, I found that it became in some measure
 
-      perceptible. Thus the gloom of my prison may be imagined, and the
+      perceptible. Thus the gloom of my [[Prison|prison]] may be imagined, and the
 
       note of my friend, if indeed it were a note from him, seemed only
 
@@ -124,7 +124,7 @@ CHAPTER 3
 
       procuring light—such expedients precisely as a man in the
 
-      perturbed sleep occasioned by opium would be apt to fall upon for
+      perturbed [[Sleep|sleep]] occasioned by opium would be apt to fall upon for
 
       a similar purpose—each and all of which appear by turns to the
 
@@ -136,7 +136,7 @@ CHAPTER 3
 
       occurred to me which seemed rational, and which gave me cause to
 
-      wonder, very justly, that I had not entertained it before. I
+      [[Wonder|wonder]], very justly, that I had not entertained it before. I
 
       placed the slip of paper on the back of a book, and, collecting
 
@@ -166,17 +166,17 @@ CHAPTER 3
 
       idiocy. There were, to be sure, momentary intervals of perfect
 
-      sanity, and, now and then, even of energy; but these were few. It
+      [[Sanity|sanity]], and, now and then, even of energy; but these were few. It
 
       must be remembered that I had been, for many days certainly,
 
       inhaling the almost pestilential atmosphere of a close hold in a
 
-      whaling vessel, and for a long portion of that time but scantily
+      whaling vessel, and for a long portion of that [[Time|time]] but scantily
 
-      supplied with water. For the last fourteen or fifteen hours I had
+      supplied with [[Water|water]]. For the last fourteen or fifteen hours I had
 
-      none—nor had I slept during that time. Salt provisions of the
+      none—nor had I slept during that [[Time|time]]. Salt provisions of the
 
       most exciting kind had been my chief, and, indeed, since the loss
 

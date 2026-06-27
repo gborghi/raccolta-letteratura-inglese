@@ -20,16 +20,16 @@ Secret Intelligence
 
 Good Mrs Brown and her daughter Alice kept silent company together, in
 their own dwelling. It was early in the evening, and late in the
-spring. But a few days had elapsed since Mr Dombey had told Major
+[[Spring|spring]]. But a few days had elapsed since Mr Dombey had told Major
 Bagstock of his singular intelligence, singularly obtained, which might
 turn out to be valueless, and might turn out to be true; and the world
 was not satisfied yet.
 
-The mother and daughter sat for a long time without interchanging a
+The mother and daughter sat for a long [[Time|time]] without interchanging a
 word: almost without motion. The old woman’s face was shrewdly anxious
 and expectant; that of her daughter was expectant too, but in a less
 sharp degree, and sometimes it darkened, as if with gathering
-disappointment and incredulity. The old woman, without heeding these
+disappointment and [[Incredulity|incredulity]]. The old woman, without heeding these
 changes in its expression, though her eyes were often turned towards
 it, sat mumbling and munching, and listening confidently.
 
@@ -38,14 +38,14 @@ in the days when only Good Mrs Brown inhabited it. Some few attempts at
 cleanliness and order were manifest, though made in a reckless, gipsy
 way, that might have connected them, at a glance, with the younger
 woman. The shades of evening thickened and deepened as the two kept
-silence, until the blackened walls were nearly lost in the prevailing
+[[Silence|silence]], until the blackened walls were nearly lost in the prevailing
 gloom.
 
-Then Alice broke the silence which had lasted so long, and said:
+Then Alice broke the [[Silence|silence]] which had lasted so long, and said:
 
 “You may give him up, mother. He’ll not come here.”
 
-“Death give him up!” returned the old woman, impatiently. “He will come
+“[[Death]] give him up!” returned the old woman, impatiently. “He will come
 here.”
 
 “We shall see,” said Alice.
@@ -54,7 +54,7 @@ here.”
 
 “And doomsday,” said the daughter.
 
-“You think I’m in my second childhood, I know!” croaked the old woman.
+“You think I’m in my second [[Childhood|childhood]], I know!” croaked the old woman.
 “That’s the respect and duty that I get from my own gal, but I’m wiser
 than you take me for. He’ll come. T’other day when I touched his coat
 in the street, he looked round as if I was a toad. But Lord, to see him
@@ -66,7 +66,7 @@ they was!”
 “Angry? ask if it was bloody. That’s more like the word. Angry? Ha, ha!
 To call that only angry!” said the old woman, hobbling to the cupboard,
 and lighting a candle, which displayed the workings of her mouth to
-ugly advantage, as she brought it to the table. “I might as well call
+ugly advantage, as she brought it to the table. “I might as [[Well|well]] call
 your face only angry, when you think or talk about ’em.”
 
 It was something different from that, truly, as she sat as still as a
@@ -94,14 +94,14 @@ harm in it.”
 “That’s my handsome daughter,” said the old woman. “Your worship won’t
 mind her. She knows all about it.”
 
-A shadow fell upon his face not less expressive than if he had groaned
+A [[Shadow|shadow]] fell upon his face not less expressive than if he had groaned
 aloud, “Who does not know all about it!” but he looked at her steadily,
 and she, without any acknowledgment of his presence, looked at him. The
-shadow on his face was darker when he turned his glance away from her;
+[[Shadow|shadow]] on his face was darker when he turned his glance away from her;
 and even then it wandered back again, furtively, as if he were haunted
 by her bold eyes, and some remembrance they inspired.
 
-“Woman,” said Mr Dombey to the old witch who was chuckling and leering
+“Woman,” said Mr Dombey to the old [[Witch|witch]] who was chuckling and leering
 close at his elbow, and who, when he turned to address her, pointed
 stealthily at her daughter, and rubbed her hands, and pointed again,
 “Woman! I believe that I am weak and forgetful of my station in coming
@@ -113,7 +113,7 @@ about him, “when I have exerted my power and means to obtain it in
 vain? I do not think,” he said, after a moment’s pause, during which he
 had observed her, sternly, “that you are so audacious as to mean to
 trifle with me, or endeavour to impose upon me. But if you have that
-purpose, you had better stop on the threshold of your scheme. My humour
+purpose, you had better stop on the threshold of your scheme. My [[Humour|humour]]
 is not a trifling one, and my acknowledgment will be severe.”
 
 “Oh a proud, hard gentleman!” chuckled the old woman, shaking her head,
@@ -140,6 +140,6 @@ judge,” she returned. “Do you know nothing of a woman’s anger?”
 
 “Not usually,” she answered, without any show of emotion: “I speak to
 you now, that you may understand us better, and rely more on us. A
-woman’s anger is pretty much the same here, as in your fine house. I am
+woman’s anger is pretty much the same here, as in your fine [[house]]. I am
 angry. I have been so, many years. I have as good cause for my anger as
 you have for yours, and its object is the same man.”

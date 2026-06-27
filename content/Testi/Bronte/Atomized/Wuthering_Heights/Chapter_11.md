@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 11"
+title: "[[Wuthering Heights]] — Chapter 11"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,37 +17,37 @@ tags:
 CHAPTER XI
 
 
-Sometimes, while meditating on these things in solitude, I’ve got up in
+Sometimes, while meditating on these things in [[Solitude|solitude]], I’ve got up in
 a sudden terror, and put on my bonnet to go see how all was at the
-farm. I’ve persuaded my conscience that it was a duty to warn him how
+farm. I’ve persuaded my [[Conscience|conscience]] that it was a duty to warn him how
 people talked regarding his ways; and then I’ve recollected his
 confirmed bad habits, and, hopeless of benefiting him, have flinched
-from re-entering the dismal house, doubting if I could bear to be taken
+from re-entering the dismal [[house]], doubting if I could bear to be taken
 at my word.
 
-One time I passed the old gate, going out of my way, on a journey to
+One [[Time|time]] I passed the old gate, going out of my way, on a [[Journey|journey]] to
 Gimmerton. It was about the period that my narrative has reached: a
-bright frosty afternoon; the ground bare, and the road hard and dry. I
+bright frosty afternoon; the ground bare, and the [[Road|road]] hard and dry. I
 came to a stone where the highway branches off on to the moor at your
 left hand; a rough sand-pillar, with the letters W. H. cut on its north
 side, on the east, G., and on the south-west, T. G. It serves as a
 guide-post to the Grange, the Heights, and village. The sun shone
-yellow on its grey head, reminding me of summer; and I cannot say why,
-but all at once a gush of child’s sensations flowed into my heart.
+yellow on its grey head, reminding me of [[Summer|summer]]; and I cannot say why,
+but all at once a gush of [[Child|child]]’s sensations flowed into my heart.
 Hindley and I held it a favourite spot twenty years before. I gazed
 long at the weather-worn block; and, stooping down, perceived a hole
-near the bottom still full of snail-shells and pebbles, which we were
+near the [[Bottom|bottom]] still full of snail-shells and pebbles, which we were
 fond of storing there with more perishable things; and, as fresh as
 reality, it appeared that I beheld my early playmate seated on the
 withered turf: his dark, square head bent forward, and his little hand
 scooping out the earth with a piece of slate. “Poor Hindley!” I
 exclaimed, involuntarily. I started: my bodily eye was cheated into a
-momentary belief that the child lifted its face and stared straight
+momentary belief that the [[Child|child]] lifted its face and stared straight
 into mine! It vanished in a twinkling; but immediately I felt an
 irresistible yearning to be at the Heights. Superstition urged me to
 comply with this impulse: supposing he should be dead! I thought—or
-should die soon!—supposing it were a sign of death! The nearer I got to
-the house the more agitated I grew; and on catching sight of it I
+should die soon!—supposing it were a sign of [[Death|death]]! The nearer I got to
+the [[house]] the more agitated I grew; and on catching sight of it I
 trembled in every limb. The apparition had outstripped me: it stood
 looking through the gate. That was my first idea on observing an
 elf-locked, brown-eyed boy setting his ruddy countenance against the
@@ -55,12 +55,12 @@ bars. Further reflection suggested this must be Hareton, _my_ Hareton,
 not altered greatly since I left him, ten months since.
 
 “God bless thee, darling!” I cried, forgetting instantaneously my
-foolish fears. “Hareton, it’s Nelly! Nelly, thy nurse.”
+foolish fears. “Hareton, it’s Nelly! Nelly, thy [[Nurse|nurse]].”
 
 He retreated out of arm’s length, and picked up a large flint.
 
 “I am come to see thy father, Hareton,” I added, guessing from the
-action that Nelly, if she lived in his memory at all, was not
+action that Nelly, if she lived in his [[Memory|memory]] at all, was not
 recognised as one with me.
 
 He raised his missile to hurl it; I commenced a soothing speech, but
@@ -98,9 +98,9 @@ because I swear at him.”
 
 “Who, then?”
 
-“Heathcliff.”
+“[[Heathcliff]].”
 
-I asked if he liked Mr. Heathcliff.
+I asked if he liked Mr. [[Heathcliff]].
 
 “Ay!” he answered again.
 
@@ -111,32 +111,32 @@ daddy for cursing me. He says I mun do as I will.”
 “And the curate does not teach you to read and write, then?” I pursued.
 
 “No, I was told the curate should have his —— teeth dashed down his ——
-throat, if he stepped over the threshold—Heathcliff had promised that!”
+throat, if he stepped over the threshold—[[Heathcliff]] had promised that!”
 
 I put the orange in his hand, and bade him tell his father that a woman
-called Nelly Dean was waiting to speak with him, by the garden gate. He
-went up the walk, and entered the house; but, instead of Hindley,
-Heathcliff appeared on the door-stones; and I turned directly and ran
-down the road as hard as ever I could race, making no halt till I
+called [[Nelly Dean]] was waiting to speak with him, by the [[Garden|garden]] gate. He
+went up the walk, and entered the [[house]]; but, instead of Hindley,
+[[Heathcliff]] appeared on the door-stones; and I turned directly and ran
+down the [[Road|road]] as hard as ever I could race, making no halt till I
 gained the guide-post, and feeling as scared as if I had raised a
-goblin. This is not much connected with Miss Isabella’s affair: except
+goblin. This is not much connected with Miss [[Isabella]]’s affair: except
 that it urged me to resolve further on mounting vigilant guard, and
 doing my utmost to check the spread of such bad influence at the
-Grange: even though I should wake a domestic storm, by thwarting Mrs.
+Grange: even though I should wake a domestic [[Storm|storm]], by thwarting Mrs.
 Linton’s pleasure.
 
-The next time Heathcliff came my young lady chanced to be feeding some
-pigeons in the court. She had never spoken a word to her sister-in-law
+The next [[Time|time]] [[Heathcliff]] came my young lady chanced to be feeding some
+pigeons in the [[Court|court]]. She had never spoken a word to her sister-in-law
 for three days; but she had likewise dropped her fretful complaining,
-and we found it a great comfort. Heathcliff had not the habit of
+and we found it a great comfort. [[Heathcliff]] had not the habit of
 bestowing a single unnecessary civility on Miss Linton, I knew. Now, as
 soon as he beheld her, his first precaution was to take a sweeping
-survey of the house-front. I was standing by the kitchen-window, but I
+survey of the [[house]]-front. I was standing by the kitchen-[[Window|window]], but I
 drew out of sight. He then stepped across the pavement to her, and said
 something: she seemed embarrassed, and desirous of getting away; to
 prevent it, he laid his hand on her arm. She averted her face: he
 apparently put some question which she had no mind to answer. There was
-another rapid glance at the house, and supposing himself unseen, the
+another rapid glance at the [[house]], and supposing himself unseen, the
 scoundrel had the impudence to embrace her.
 
 “Judas! Traitor!” I ejaculated. “You are a hypocrite, too, are you? A
@@ -146,23 +146,23 @@ deliberate deceiver.”
 over-intent on watching the pair outside to mark her entrance.
 
 “Your worthless friend!” I answered, warmly: “the sneaking rascal
-yonder. Ah, he has caught a glimpse of us—he is coming in! I wonder
-will he have the heart to find a plausible excuse for making love to
+yonder. Ah, he has caught a glimpse of us—he is coming in! I [[Wonder|wonder]]
+will he have the heart to find a plausible excuse for making [[Love|love]] to
 Miss, when he told you he hated her?”
 
-Mrs. Linton saw Isabella tear herself free, and run into the garden;
-and a minute after, Heathcliff opened the door. I couldn’t withhold
+Mrs. Linton saw [[Isabella]] tear herself free, and run into the [[Garden|garden]];
+and a minute after, [[Heathcliff]] opened the door. I couldn’t withhold
 giving some loose to my indignation; but Catherine angrily insisted on
-silence, and threatened to order me out of the kitchen, if I dared to
+[[Silence|silence]], and threatened to order me out of the kitchen, if I dared to
 be so presumptuous as to put in my insolent tongue.
 
 “To hear you, people might think you were the mistress!” she cried.
-“You want setting down in your right place! Heathcliff, what are you
-about, raising this stir? I said you must let Isabella alone!—I beg you
+“You want setting down in your right place! [[Heathcliff]], what are you
+about, raising this stir? I said you must let [[Isabella]] [[Alone|alone]]!—I beg you
 will, unless you are tired of being received here, and wish Linton to
 draw the bolts against you!”
 
-“God forbid that he should try!” answered the black villain. I detested
+“God forbid that he should try!” answered the black [[Villain|villain]]. I detested
 him just then. “God keep him meek and patient! Every day I grow madder
 after sending him to heaven!”
 
@@ -174,8 +174,8 @@ chooses; and you have no right to object. I am not _your_ husband:
 _you_ needn’t be jealous of me!”
 
 “I’m not jealous of you,” replied the mistress; “I’m jealous for you.
-Clear your face: you sha’n’t scowl at me! If you like Isabella, you
-shall marry her. But do you like her? Tell the truth, Heathcliff!
+Clear your face: you sha’n’t scowl at me! If you like [[Isabella]], you
+shall marry her. But do you like her? Tell the [[Truth|truth]], [[Heathcliff]]!
 There, you won’t answer. I’m certain you don’t.”
 
 “And would Mr. Linton approve of his sister marrying that man?” I
@@ -183,11 +183,11 @@ inquired.
 
 “Mr. Linton should approve,” returned my lady, decisively.
 
-“He might spare himself the trouble,” said Heathcliff: “I could do as
-well without his approbation. And as to you, Catherine, I have a mind
+“He might spare himself the trouble,” said [[Heathcliff]]: “I could do as
+[[Well|well]] without his approbation. And as to you, Catherine, I have a mind
 to speak a few words now, while we are at it. I want you to be aware
 that I _know_ you have treated me infernally—infernally! Do you hear?
-And if you flatter yourself that I don’t perceive it, you are a fool;
+And if you flatter yourself that I don’t perceive it, you are a [[Fool|fool]];
 and if you think I can be consoled by sweet words, you are an idiot:
 and if you fancy I’ll suffer unrevenged, I’ll convince you of the
 contrary, in a very little while! Meantime, thank you for telling me
@@ -195,29 +195,29 @@ your sister-in-law’s secret: I swear I’ll make the most of it. And
 stand you aside!”
 
 “What new phase of his character is this?” exclaimed Mrs. Linton, in
-amazement. “I’ve treated you infernally—and you’ll take your revenge!
+amazement. “I’ve treated you infernally—and you’ll take your [[Revenge|revenge]]!
 How will you take it, ungrateful brute? How have I treated you
 infernally?”
 
-“I seek no revenge on you,” replied Heathcliff, less vehemently.
-“That’s not the plan. The tyrant grinds down his slaves and they don’t
+“I seek no [[Revenge|revenge]] on you,” replied [[Heathcliff]], less vehemently.
+“That’s not the plan. The [[Tyrant|tyrant]] grinds down his slaves and they don’t
 turn against him; they crush those beneath them. You are welcome to
-torture me to death for your amusement, only allow me to amuse myself a
+torture me to [[Death|death]] for your amusement, only allow me to amuse myself a
 little in the same style, and refrain from insult as much as you are
 able. Having levelled my palace, don’t erect a hovel and complacently
-admire your own charity in giving me that for a home. If I imagined you
+admire your own [[Charity|charity]] in giving me that for a [[Home|home]]. If I imagined you
 really wished me to marry Isabel, I’d cut my throat!”
 
 “Oh, the evil is that I am _not_ jealous, is it?” cried Catherine.
-“Well, I won’t repeat my offer of a wife: it is as bad as offering
-Satan a lost soul. Your bliss lies, like his, in inflicting misery. You
-prove it. Edgar is restored from the ill-temper he gave way to at your
+“[[Well]], I won’t repeat my offer of a wife: it is as bad as offering
+[[Satan]] a lost [[Soul|soul]]. Your bliss lies, like his, in inflicting misery. You
+prove it. [[Edgar]] is restored from the ill-temper he gave way to at your
 coming; I begin to be secure and tranquil; and you, restless to know us
-at peace, appear resolved on exciting a quarrel. Quarrel with Edgar, if
-you please, Heathcliff, and deceive his sister: you’ll hit on exactly
+at peace, appear resolved on exciting a quarrel. Quarrel with [[Edgar]], if
+you please, [[Heathcliff]], and deceive his sister: you’ll hit on exactly
 the most efficient method of revenging yourself on me.”
 
-The conversation ceased. Mrs. Linton sat down by the fire, flushed and
+The conversation ceased. Mrs. Linton sat down by the [[Fire|fire]], flushed and
 gloomy. The spirit which served her was growing intractable: she could
 neither lay nor control it. He stood on the hearth with folded arms,
 brooding on his evil thoughts; and in this position I left them to seek
@@ -226,12 +226,12 @@ the master, who was wondering what kept Catherine below so long.
 “Ellen,” said he, when I entered, “have you seen your mistress?”
 
 “Yes; she’s in the kitchen, sir,” I answered. “She’s sadly put out by
-Mr. Heathcliff’s behaviour: and, indeed, I do think it’s time to
+Mr. [[Heathcliff]]’s behaviour: and, indeed, I do think it’s [[Time|time]] to
 arrange his visits on another footing. There’s harm in being too soft,
-and now it’s come to this—.” And I related the scene in the court, and,
+and now it’s come to this—.” And I related the scene in the [[Court|court]], and,
 as near as I dared, the whole subsequent dispute. I fancied it could
 not be very prejudicial to Mrs. Linton; unless she made it so
-afterwards, by assuming the defensive for her guest. Edgar Linton had
+afterwards, by assuming the defensive for her guest. [[Edgar Linton]] had
 difficulty in hearing me to the close. His first words revealed that he
 did not clear his wife of blame.
 
@@ -243,7 +243,7 @@ with the low ruffian—I have humoured her enough.”
 He descended, and bidding the servants wait in the passage, went,
 followed by me, to the kitchen. Its occupants had recommenced their
 angry discussion: Mrs. Linton, at least, was scolding with renewed
-vigour; Heathcliff had moved to the window, and hung his head, somewhat
+vigour; [[Heathcliff]] had moved to the [[Window|window]], and hung his head, somewhat
 cowed by her violent rating apparently. He saw the master first, and
 made a hasty motion that she should be silent; which she obeyed,
 abruptly, on discovering the reason of his intimation.
@@ -254,27 +254,27 @@ you by that blackguard? I suppose, because it is his ordinary talk you
 think nothing of it: you are habituated to his baseness, and, perhaps,
 imagine I can get used to it too!”
 
-“Have you been listening at the door, Edgar?” asked the mistress, in a
+“Have you been listening at the door, [[Edgar]]?” asked the mistress, in a
 tone particularly calculated to provoke her husband, implying both
-carelessness and contempt of his irritation. Heathcliff, who had raised
+carelessness and contempt of his irritation. [[Heathcliff]], who had raised
 his eyes at the former speech, gave a sneering laugh at the latter; on
 purpose, it seemed, to draw Mr. Linton’s attention to him. He
-succeeded; but Edgar did not mean to entertain him with any high
+succeeded; but [[Edgar]] did not mean to entertain him with any high
 flights of passion.
 
 “I’ve been so far forbearing with you, sir,” he said quietly; “not that
 I was ignorant of your miserable, degraded character, but I felt you
 were only partly responsible for that; and Catherine wishing to keep up
 your acquaintance, I acquiesced—foolishly. Your presence is a moral
-poison that would contaminate the most virtuous: for that cause, and to
+[[Poison|poison]] that would contaminate the most virtuous: for that cause, and to
 prevent worse consequences, I shall deny you hereafter admission into
-this house, and give notice now that I require your instant departure.
+this [[house]], and give notice now that I require your instant departure.
 Three minutes’ delay will render it involuntary and ignominious.”
 
-Heathcliff measured the height and breadth of the speaker with an eye
+[[Heathcliff]] measured the height and breadth of the speaker with an eye
 full of derision.
 
-“Cathy, this lamb of yours threatens like a bull!” he said. “It is in
+“Cathy, this [[Lamb|lamb]] of yours threatens like a bull!” he said. “It is in
 danger of splitting its skull against my knuckles. By God! Mr. Linton,
 I’m mortally sorry that you are not worth knocking down!”
 
@@ -285,34 +285,34 @@ attempted to call them, she pulled me back, slammed the door to, and
 locked it.
 
 “Fair means!” she said, in answer to her husband’s look of angry
-surprise. “If you have not courage to attack him, make an apology, or
+surprise. “If you have not [[Courage|courage]] to attack him, make an apology, or
 allow yourself to be beaten. It will correct you of feigning more
-valour than you possess. No, I’ll swallow the key before you shall get
+valour than you possess. No, I’ll [[Swallow|swallow]] the key before you shall get
 it! I’m delightfully rewarded for my kindness to each! After constant
-indulgence of one’s weak nature, and the other’s bad one, I earn for
-thanks two samples of blind ingratitude, stupid to absurdity! Edgar, I
-was defending you and yours; and I wish Heathcliff may flog you sick,
+indulgence of one’s weak [[Nature|nature]], and the other’s bad one, I earn for
+thanks two samples of blind ingratitude, stupid to absurdity! [[Edgar]], I
+was defending you and yours; and I wish [[Heathcliff]] may flog you sick,
 for daring to think an evil thought of me!”
 
 It did not need the medium of a flogging to produce that effect on the
 master. He tried to wrest the key from Catherine’s grasp, and for
-safety she flung it into the hottest part of the fire; whereupon Mr.
-Edgar was taken with a nervous trembling, and his countenance grew
+safety she flung it into the hottest part of the [[Fire|fire]]; whereupon Mr.
+[[Edgar]] was taken with a nervous trembling, and his countenance grew
 deadly pale. For his life he could not avert that excess of emotion:
 mingled anguish and humiliation overcame him completely. He leant on
 the back of a chair, and covered his face.
 
 “Oh, heavens! In old days this would win you knighthood!” exclaimed
-Mrs. Linton. “We are vanquished! we are vanquished! Heathcliff would as
-soon lift a finger at you as the king would march his army against a
-colony of mice. Cheer up! you sha’n’t be hurt! Your type is not a lamb,
+Mrs. Linton. “We are vanquished! we are vanquished! [[Heathcliff]] would as
+soon lift a finger at you as the [[King|king]] would march his army against a
+colony of mice. Cheer up! you sha’n’t be hurt! Your type is not a [[Lamb|lamb]],
 it’s a sucking leveret.”
 
 “I wish you joy of the milk-blooded coward, Cathy!” said her friend. “I
 compliment you on your taste. And that is the slavering, shivering
 thing you preferred to me! I would not strike him with my fist, but I’d
 kick him with my foot, and experience considerable satisfaction. Is he
-weeping, or is he going to faint for fear?”
+weeping, or is he going to faint for [[Fear|fear]]?”
 
 The fellow approached and gave the chair on which Linton rested a push.
 He’d better have kept his distance: my master quickly sprang erect, and
@@ -324,22 +324,22 @@ the front entrance.
 “There! you’ve done with coming here,” cried Catherine. “Get away, now;
 he’ll return with a brace of pistols and half-a-dozen assistants. If he
 did overhear us, of course he’d never forgive you. You’ve played me an
-ill turn, Heathcliff! But go—make haste! I’d rather see Edgar at bay
+ill turn, [[Heathcliff]]! But go—make haste! I’d rather see [[Edgar]] at bay
 than you.”
 
 “Do you suppose I’m going with that blow burning in my gullet?” he
 thundered. “By hell, no! I’ll crush his ribs in like a rotten hazel-nut
-before I cross the threshold! If I don’t floor him now, I shall murder
-him some time; so, as you value his existence, let me get at him!”
+before I [[Cross|cross]] the threshold! If I don’t floor him now, I shall murder
+him some [[Time|time]]; so, as you value his existence, let me get at him!”
 
 “He is not coming,” I interposed, framing a bit of a lie. “There’s the
 coachman and the two gardeners; you’ll surely not wait to be thrust
-into the road by them! Each has a bludgeon; and master will, very
+into the [[Road|road]] by them! Each has a bludgeon; and master will, very
 likely, be watching from the parlour-windows to see that they fulfil
 his orders.”
 
 The gardeners and coachman _were_ there: but Linton was with them. They
-had already entered the court. Heathcliff, on the second thoughts,
+had already entered the [[Court|court]]. [[Heathcliff]], on the second thoughts,
 resolved to avoid a struggle against three underlings: he seized the
 poker, smashed the lock from the inner door, and made his escape as
 they tramped in.
@@ -349,35 +349,35 @@ She did not know my share in contributing to the disturbance, and I was
 anxious to keep her in ignorance.
 
 “I’m nearly distracted, Nelly!” she exclaimed, throwing herself on the
-sofa. “A thousand smiths’ hammers are beating in my head! Tell Isabella
+sofa. “A thousand smiths’ hammers are beating in my head! Tell [[Isabella]]
 to shun me; this uproar is owing to her; and should she or any one else
 aggravate my anger at present, I shall get wild. And, Nelly, say to
-Edgar, if you see him again to-night, that I’m in danger of being
+[[Edgar]], if you see him again to-[[Night|night]], that I’m in danger of being
 seriously ill. I wish it may prove true. He has startled and distressed
 me shockingly! I want to frighten him. Besides, he might come and begin
 a string of abuse or complainings; I’m certain I should recriminate,
 and God knows where we should end! Will you do so, my good Nelly? You
 are aware that I am no way blamable in this matter. What possessed him
-to turn listener? Heathcliff’s talk was outrageous, after you left us;
-but I could soon have diverted him from Isabella, and the rest meant
-nothing. Now all is dashed wrong; by the fool’s craving to hear evil of
-self, that haunts some people like a demon! Had Edgar never gathered
+to turn listener? [[Heathcliff]]’s talk was outrageous, after you left us;
+but I could soon have diverted him from [[Isabella]], and the rest meant
+nothing. Now all is dashed wrong; by the [[Fool|fool]]’s craving to hear evil of
+[[Self|self]], that haunts some people like a demon! Had [[Edgar]] never gathered
 our conversation, he would never have been the worse for it. Really,
 when he opened on me in that unreasonable tone of displeasure after I
-had scolded Heathcliff till I was hoarse for _him;_ I did not care
+had scolded [[Heathcliff]] till I was hoarse for _him;_ I did not care
 hardly what they did to each other; especially as I felt that, however
 the scene closed, we should all be driven asunder for nobody knows how
-long! Well, if I cannot keep Heathcliff for my friend—if Edgar will be
+long! [[Well]], if I cannot keep [[Heathcliff]] for my friend—if [[Edgar]] will be
 mean and jealous, I’ll try to break their hearts by breaking my own.
 That will be a prompt way of finishing all, when I am pushed to
-extremity! But it’s a deed to be reserved for a forlorn hope; I’d not
+extremity! But it’s a deed to be reserved for a forlorn [[Hope|hope]]; I’d not
 take Linton by surprise with it. To this point he has been discreet in
 dreading to provoke me; you must represent the peril of quitting that
 policy, and remind him of my passionate temper, verging, when kindled,
 on frenzy. I wish you could dismiss that apathy out of that
 countenance, and look rather more anxious about me.”
 
-The stolidity with which I received these instructions was, no doubt,
+The stolidity with which I received these instructions was, no [[Doubt|doubt]],
 rather exasperating: for they were delivered in perfect sincerity; but
 I believed a person who could plan the turning of her fits of passion
 to account, beforehand, might, by exerting her will, manage to control
@@ -394,36 +394,36 @@ neither come to wrangle nor be reconciled; but I wish just to learn
 whether, after this evening’s events, you intend to continue your
 intimacy with—”
 
-“Oh, for mercy’s sake,” interrupted the mistress, stamping her foot,
-“for mercy’s sake, let us hear no more of it now! Your cold blood
-cannot be worked into a fever: your veins are full of ice-water; but
-mine are boiling, and the sight of such chillness makes them dance.”
+“Oh, for [[Mercy|mercy]]’s sake,” interrupted the mistress, stamping her foot,
+“for [[Mercy|mercy]]’s sake, let us hear no more of it now! Your cold [[Blood|blood]]
+cannot be worked into a fever: your veins are full of ice-[[Water|water]]; but
+mine are boiling, and the sight of such chillness makes them [[Dance|dance]].”
 
 “To get rid of me, answer my question,” persevered Mr. Linton. “You
 _must_ answer it; and that violence does not alarm me. I have found
 that you can be as stoical as anyone, when you please. Will you give up
-Heathcliff hereafter, or will you give up me? It is impossible for you
-to be _my_ friend and _his_ at the same time; and I absolutely
+[[Heathcliff]] hereafter, or will you give up me? It is impossible for you
+to be _my_ friend and _his_ at the same [[Time|time]]; and I absolutely
 _require_ to know which you choose.”
 
-“I require to be let alone!” exclaimed Catherine, furiously. “I demand
-it! Don’t you see I can scarcely stand? Edgar, you—you leave me!”
+“I require to be let [[Alone|alone]]!” exclaimed Catherine, furiously. “I demand
+it! Don’t you see I can scarcely stand? [[Edgar]], you—you leave me!”
 
 She rang the bell till it broke with a twang; I entered leisurely. It
 was enough to try the temper of a saint, such senseless, wicked rages!
 There she lay dashing her head against the arm of the sofa, and
 grinding her teeth, so that you might fancy she would crash them to
 splinters! Mr. Linton stood looking at her in sudden compunction and
-fear. He told me to fetch some water. She had no breath for speaking. I
+[[Fear|fear]]. He told me to fetch some [[Water|water]]. She had no breath for speaking. I
 brought a glass full; and as she would not drink, I sprinkled it on her
 face. In a few seconds she stretched herself out stiff, and turned up
 her eyes, while her cheeks, at once blanched and livid, assumed the
-aspect of death. Linton looked terrified.
+aspect of [[Death|death]]. Linton looked terrified.
 
 “There is nothing in the world the matter,” I whispered. I did not want
 him to yield, though I could not help being afraid in my heart.
 
-“She has blood on her lips!” he said, shuddering.
+“She has [[Blood|blood]] on her lips!” he said, shuddering.
 
 “Never mind!” I answered, tartly. And I told him how she had resolved,
 previous to his coming, on exhibiting a fit of frenzy. I incautiously
@@ -439,10 +439,10 @@ As she never offered to descend to breakfast next morning, I went to
 ask whether she would have some carried up. “No!” she replied,
 peremptorily. The same question was repeated at dinner and tea; and
 again on the morrow after, and received the same answer. Mr. Linton, on
-his part, spent his time in the library, and did not inquire concerning
-his wife’s occupations. Isabella and he had had an hour’s interview,
+his part, spent his [[Time|time]] in the library, and did not inquire concerning
+his wife’s occupations. [[Isabella]] and he had had an hour’s interview,
 during which he tried to elicit from her some sentiment of proper
-horror for Heathcliff’s advances: but he could make nothing of her
+horror for [[Heathcliff]]’s advances: but he could make nothing of her
 evasive replies, and was obliged to close the examination
 unsatisfactorily; adding, however, a solemn warning, that if she were
 so insane as to encourage that worthless suitor, it would dissolve all

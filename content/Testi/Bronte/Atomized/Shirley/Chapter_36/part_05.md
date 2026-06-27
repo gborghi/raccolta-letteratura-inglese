@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 36 (part 5)"
+title: "[[Shirley]] — Chapter 36 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ them, and impetuously turned away.
 
 
 
-"Another movement, all haughtiness and fire and impulse.
+"Another movement, all haughtiness and [[Fire|fire]] and impulse.
 
 
 
@@ -40,9 +40,9 @@ them, and impetuously turned away.
 
 parted from me? No. I had gone too far not to finish; I had come too
 
-near the end not to drive home to it. All the encumbrance of doubt, all
+near the end not to drive [[Home|home]] to it. All the encumbrance of [[Doubt|doubt]], all
 
-the rubbish of indecision, must be removed at once, and the plain truth
+the rubbish of indecision, must be removed at once, and the plain [[Truth|truth]]
 
 must be ascertained. She must take her part, and tell me what it was; I
 
@@ -82,13 +82,13 @@ what you dare not now suppress.'
 
 
 
-"I suppose I hardly was like my usual self, for I scared her--that I
+"I suppose I hardly was like my usual [[Self|self]], for I scared her--that I
 
 could see. It was right: she must be scared to be won.
 
 
 
-"'You _do_ know what I mean, and for the first time I stand before you
+"'You _do_ know what I mean, and for the first [[Time|time]] I stand before you
 
 _myself_. I have flung off the tutor, and beg to introduce you to the
 
@@ -98,7 +98,7 @@ man. And remember, he is a gentleman.'
 
 "She trembled. She put her hand to mine as if to remove it from the
 
-lock. She might as well have tried to loosen, by her soft touch, metal
+lock. She might as [[Well|well]] have tried to loosen, by her soft touch, metal
 
 welded to metal. She felt she was powerless, and receded; and again she
 
@@ -144,7 +144,7 @@ difference of station and estate. You have so looked, and spoken, and
 
 moved; so shown me your faults and your virtues--beauties rather, they
 
-are hardly so stern as virtues--that I love you--love you with my life
+are hardly so stern as virtues--that I [[Love|love]] you--[[Love|love]] you with my life
 
 and strength. It is out now.'
 
@@ -156,13 +156,13 @@ but vainly. I passionately repeated that I loved her.
 
 
 
-"'Well, Mr. Moore, what then?' was the answer I got, uttered in a tone
+"'[[Well]], Mr. Moore, what then?' was the answer I got, uttered in a tone
 
 that would have been petulant if it had not faltered.
 
 
 
-"'Have you nothing to say to me? Have you no love for me?'
+"'Have you nothing to say to me? Have you no [[Love|love]] for me?'
 
 
 
@@ -178,7 +178,7 @@ that would have been petulant if it had not faltered.
 
 
 
-"'I wonder you dare speak of going at this moment. _You_ go! What! with
+"'I [[Wonder|wonder]] you dare speak of going at this moment. _You_ go! What! with
 
 my heart in your hand, to lay it on your toilet and pierce it with your
 
@@ -190,7 +190,7 @@ mine.'
 
 
 
-"'The thing you want is mislaid--lost some time since. Let me go and
+"'The thing you want is mislaid--lost some [[Time|time]] since. Let me go and
 
 seek it.'
 
@@ -210,7 +210,7 @@ except this sixpence.'
 
 "She took the coin out of her apron pocket, and showed it in her palm. I
 
-could have trifled with her, but it would not do; life and death were at
+could have trifled with her, but it would not do; life and [[Death|death]] were at
 
 stake. Mastering at once the sixpence and the hand that held it, I
 
@@ -222,9 +222,9 @@ demanded, 'Am I to die without you, or am I to live for you?'
 
 
 
-"'You shall tell me with your own lips whether you doom me to exile or
+"'You shall tell me with your own lips whether you doom me to [[Exile|exile]] or
 
-call me to hope.'
+call me to [[Hope|hope]].'
 
 
 
@@ -232,7 +232,7 @@ call me to hope.'
 
 
 
-"'Perhaps I too _can_ bear to leave you. But reply, Shirley, my pupil,
+"'Perhaps I too _can_ bear to leave you. But reply, [[Shirley]], my pupil,
 
 my sovereign--reply.'
 
@@ -244,13 +244,13 @@ my sovereign--reply.'
 
 "'I am not afraid of you, my leopardess. I _dare_ live for and with you,
 
-from this hour till my death. Now, then, I have you. You are mine. I
+from this hour till my [[Death|death]]. Now, then, I have you. You are mine. I
 
-will never let you go. Wherever my home be, I have chosen my wife. If I
+will never let you go. Wherever my [[Home|home]] be, I have chosen my wife. If I
 
-stay in England, in England you will stay; if I cross the Atlantic, you
+stay in England, in England you will stay; if I [[Cross|cross]] the Atlantic, you
 
-will cross it also. Our lives are riveted, our lots intertwined.'
+will [[Cross|cross]] it also. Our lives are riveted, our lots intertwined.'
 
 
 
@@ -308,7 +308,7 @@ her speak again. I could never have enough of her voice and her words.
 
 
 
-"'How much do you love me?' I asked.
+"'How much do you [[Love|love]] me?' I asked.
 
 
 

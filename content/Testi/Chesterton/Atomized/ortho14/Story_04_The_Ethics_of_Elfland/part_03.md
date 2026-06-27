@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — The Ethics of Elfland (part 3)"
+title: "[[ortho14]] — The Ethics of Elfland (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ortho14-(Chesterton)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-     Here is the peculiar perfection of tone and truth in the
+     Here is the peculiar perfection of tone and [[Truth|truth]] in the
 nursery tales.  The man of science says, "Cut the stalk, and
 the apple will fall"; but he says it calmly, as if the one idea
-really led up to the other.  The witch in the fairy tale says,
-"Blow the horn, and the ogre's castle will fall"; but she does
+really led up to the other.  The [[Witch|witch]] in the fairy tale says,
+"Blow the horn, and the ogre's [[Castle|castle]] will fall"; but she does
 not say it as if it were something in which the effect
 obviously arose out of the cause.  Doubtless she has given the
 advice to many champions, and has seen many castles fall,
-but she does not lose either her wonder or her reason. 
+but she does not lose either her [[Wonder|wonder]] or her reason. 
 She does not muddle her head until it imagines a necessary
 mental connection between a horn and a falling tower.  But the
 scientific men do muddle their heads, until they imagine a
 necessary mental connection between an apple leaving the tree
 and an apple reaching the ground.  They do really talk as if
-they had found not only a set of marvellous facts, but a truth
+they had found not only a set of marvellous facts, but a [[Truth|truth]]
 connecting those facts.  They do talk as if the connection of
 two strange things physically connected them philosophically.
 They feel that because one incomprehensible thing constantly
@@ -41,10 +41,10 @@ some interesting conjecture about how forgotten folks pronounced
 the alphabet, Grimm's Law.  But Grimm's Law is far less intellectual
 than Grimm's Fairy Tales.  The tales are, at any rate, certainly tales;
 while the law is not a law.  A law implies that we know the
-nature of the generalisation and enactment; not merely that we
+[[Nature|nature]] of the generalisation and enactment; not merely that we
 have noticed some of the effects.  If there is a law that pick-pockets
-shall go to prison, it implies that there is an imaginable
-mental connection between the idea of prison and the idea of
+shall go to [[Prison|prison]], it implies that there is an imaginable
+mental connection between the idea of [[Prison|prison]] and the idea of
 picking pockets.  And we know what the idea is.  We can say why
 we take liberty from a man who takes liberties.  But we cannot
 say why an egg can turn into a chicken any more than we can say
@@ -54,11 +54,11 @@ and the prince; for no egg in itself suggests a chicken,
 whereas some princes do suggest bears.  Granted, then,
 that certain transformations do happen, it is essential that we
 should regard them in the philosophic manner of fairy tales,
-not in the unphilosophic manner of science and the "Laws of Nature."
-When we are asked why eggs turn to birds or fruits fall in autumn,
+not in the unphilosophic manner of science and the "Laws of [[Nature]]."
+When we are asked why eggs turn to [[Birds|birds]] or fruits fall in [[Autumn|autumn]],
 we must answer exactly as the fairy godmother would answer if
 Cinderella asked her why mice turned to horses or her clothes
-fell from her at twelve o'clock.  We must answer that it is MAGIC. 
+fell from her at twelve o'[[Clock|clock]].  We must answer that it is [[Magic|MAGIC]]. 
 It is not a "law," for we do not understand its general formula. 
 It is not a necessity, for though we can count on it happening practically,
 we have no right to say that it must always happen.  It is no
@@ -71,10 +71,10 @@ and therefore an impossibility, but because it is a miracle,
 and therefore an exception.  All the terms used in the science books,
 "law," "necessity," "order," "tendency," and so on, are really unintellectual,
 because they assume an inner synthesis, which we do not possess. 
-The only words that ever satisfied me as describing Nature are
+The only words that ever satisfied me as describing [[Nature]] are
 the terms used in the fairy books, "charm," "spell," "enchantment."
 They express the arbitrariness of the fact and its mystery. 
-A tree grows fruit because it is a MAGIC tree.  Water runs downhill
+A tree grows fruit because it is a [[Magic|MAGIC]] tree.  [[Water]] runs downhill
 because it is bewitched. The sun shines because it is bewitched.
 
      I deny altogether that this is fantastic or even mystical. 
@@ -87,49 +87,49 @@ It is the man who talks about "a law" that he has never seen who
 is the mystic.  Nay, the ordinary scientific man is strictly
 a sentimentalist.  He is a sentimentalist in this essential sense,
 that he is soaked and swept away by mere associations.  He has
-so often seen birds fly and lay eggs that he feels as if there
+so often seen [[Birds|birds]] fly and lay eggs that he feels as if there
 must be some dreamy, tender connection between the two ideas,
-whereas there is none.  A forlorn lover might be unable to
-dissociate the moon from lost love; so the materialist is unable
-to dissociate the moon from the tide.  In both cases there is
+whereas there is none.  A forlorn [[Lover|lover]] might be unable to
+dissociate the [[Moon|moon]] from lost [[Love|love]]; so the materialist is unable
+to dissociate the [[Moon|moon]] from the tide.  In both cases there is
 no connection, except that one has seen them together. 
-A sentimentalist might shed tears at the smell of apple-blossom,
+A sentimentalist might shed [[Tears|tears]] at the smell of apple-blossom,
 because, by a dark association of his own, it reminded him of
 his boyhood.  So the materialist professor (though he conceals
-his tears) is yet a sentimentalist, because, by a dark
+his [[Tears|tears]]) is yet a sentimentalist, because, by a dark
 association of his own, apple-blossoms remind him of apples. 
 But the cool rationalist from fairyland does not see why,
 in the abstract, the apple tree should not grow crimson tulips;
 it sometimes does in his country.
 
-     This elementary wonder, however, is not a mere fancy
-derived from the fairy tales; on the contrary, all the fire of
-the fairy tales is derived from this.  Just as we all like love
+     This elementary [[Wonder|wonder]], however, is not a mere fancy
+derived from the fairy tales; on the contrary, all the [[Fire|fire]] of
+the fairy tales is derived from this.  Just as we all like [[Love|love]]
 tales because there is an instinct of sex, we all like
 astonishing tales because they touch the nerve of the ancient
 instinct of astonishment.  This is proved by the fact that when
 we are very young children we do not need fairy tales:  we only
-need tales.  Mere life is interesting enough.  A child of seven
+need tales.  Mere life is interesting enough.  A [[Child|child]] of seven
 is excited by being told that Tommy opened a door and saw a dragon. 
-But a child of three is excited by being told that Tommy opened
+But a [[Child|child]] of three is excited by being told that Tommy opened
 a door.  Boys like romantic tales; but babies like realistic tales
 --because they find them romantic.  In fact, a baby is about
-the only person, I should think, to whom a modern realistic novel
+the only person, I should think, to whom a modern realistic [[Novel|novel]]
 could be read without boring him.  This proves that even
 nursery tales only echo an almost pre-natal leap of interest
 and amazement.  These tales say that apples were golden only to
 refresh the forgotten moment when we found that they were green. 
 They make rivers run with wine only to make us remember, for one
-wild moment, that they run with water.  I have said that this
+wild moment, that they run with [[Water|water]].  I have said that this
 is wholly reasonable and even agnostic. And, indeed, on this
 point I am all for the higher agnosticism; its better name is Ignorance. 
 We have all read in scientific books, and, indeed, in all romances,
 the story of the man who has forgotten his name.  This man
 walks about the streets and can see and appreciate everything;
-only he cannot remember who he is.  Well, every man is that man
+only he cannot remember who he is.  [[Well]], every man is that man
 in the story.  Every man has forgotten who he is.  One may
-understand the cosmos, but never the ego; the self is more distant
-than any star.  Thou shalt love the Lord thy God; but thou
+understand the cosmos, but never the ego; the [[Self|self]] is more distant
+than any star.  Thou shalt [[Love|love]] the Lord thy God; but thou
 shalt not know thyself.  We are all under the same mental calamity;
 we have all forgotten our names.  We have all forgotten what we
 really are.  All that we call common sense and rationality and

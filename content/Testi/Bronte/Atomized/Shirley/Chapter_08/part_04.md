@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 8 (part 4)"
+title: "[[Shirley]] — Chapter 8 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,11 +26,11 @@ evincing in the gesture a mere burlesque of hypocrisy.
 
 "You seem a fine fellow," said Moore, quite coolly and dryly; "you don't
 
-care for showing me that you are a double-dyed hypocrite, that your
+care for showing me that you are a [[Double|double]]-dyed hypocrite, that your
 
 trade is fraud. You expect indeed to make me laugh at the cleverness
 
-with which you play your coarsely farcical part, while at the same time
+with which you play your coarsely farcical part, while at the same [[Time|time]]
 
 you think you are deceiving the men behind you."
 
@@ -42,7 +42,7 @@ answer, when the second leader, impatient of being hitherto kept in the
 
 background, stepped forward. This man did not look like a traitor,
 
-though he had an exceedingly self-confident and conceited air.
+though he had an exceedingly [[Self|self]]-confident and conceited air.
 
 
 
@@ -50,7 +50,7 @@ though he had an exceedingly self-confident and conceited air.
 
 enunciating each word very slowly, as if with a view to giving his
 
-audience time to appreciate fully the uncommon elegance of the
+audience [[Time|time]] to appreciate fully the uncommon elegance of the
 
 phraseology, "it might, perhaps, justly be said that reason rather than
 
@@ -78,9 +78,9 @@ conduce to the benefit of the working-classes. If, to come at once to
 
 partic'lars, you'd consider to give up this here miln, and go without
 
-further protractions straight home to where you belong, it 'ud happen be
+further protractions straight [[Home|home]] to where you belong, it 'ud happen be
 
-as well. I can see naught ageean such a plan.--What hev ye to say
+as [[Well|well]]. I can see naught ageean such a plan.--What hev ye to say
 
 tull't, lads?" turning round to the other members of the deputation,
 
@@ -118,7 +118,7 @@ mischief-maker had ventured to introduce these here machines which is so
 
 pernicious. Now, I'm not a cloth-dresser myself, but by trade a tailor.
 
-Howsiver, my heart is of a softish nature. I'm a very feeling man, and
+Howsiver, my heart is of a softish [[Nature|nature]]. I'm a very feeling man, and
 
 when I see my brethren oppressed, like my great namesake of old, I stand
 
@@ -144,9 +144,9 @@ advises you to part wi' your infernal machinery, and tak on more hands."
 
 
 
-"Which in no respect prevents you from being at the same time a drunkard
+"Which in no respect prevents you from being at the same [[Time|time]] a drunkard
 
-and a swindler. I saw you one night a week ago laid dead-drunk by the
+and a swindler. I saw you one [[Night|night]] a week ago laid dead-drunk by the
 
 roadside, as I returned from Stilbro' market; and while you preach
 
@@ -160,7 +160,7 @@ does the individual called Noah of Tim's. You two are restless,
 
 meddling, impudent scoundrels, whose chief motive-principle is a selfish
 
-ambition, as dangerous as it is puerile. The persons behind you are some
+[[Ambition|ambition]], as dangerous as it is puerile. The persons behind you are some
 
 of them honest though misguided men; but you two I count altogether
 
@@ -172,11 +172,11 @@ Barraclough was going to speak.
 
 
 
-"Silence! You have had your say, and now I will have mine. As to being
+"[[Silence]]! You have had your say, and now I will have mine. As to being
 
 dictated to by you, or any Jack, Jem, or Jonathan on earth, I shall not
 
-suffer it for a moment. You desire me to quit the country; you request
+suffer it for a moment. You [[Desire|desire]] me to quit the country; you request
 
 me to part with my machinery. In case I refuse, you threaten me. I _do_
 
@@ -192,7 +192,7 @@ Suppose that building was a ruin and I was a corpse--what then, you lads
 
 behind these two scamps? Would that stop invention or exhaust science?
 
-Not for the fraction of a second of time! Another and better gig-mill
+Not for the fraction of a second of [[Time|time]]! Another and better gig-mill
 
 would rise on the ruins of this, and perhaps a more enterprising owner
 

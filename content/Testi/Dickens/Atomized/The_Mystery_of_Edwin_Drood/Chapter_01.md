@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 1"
+title: "The Mystery of [[Edwin Drood]] — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,20 +15,20 @@ tags:
 
 
 CHAPTER I.
-THE DAWN
+THE [[Dawn|DAWN]]
 
 
-An ancient English Cathedral Tower? How can the ancient English
-Cathedral tower be here! The well-known massive gray square tower of
-its old Cathedral? How can that be here! There is no spike of rusty
+An ancient English [[Cathedral]] Tower? How can the ancient English
+[[Cathedral]] tower be here! The [[Well|well]]-known massive gray square tower of
+its old [[Cathedral]]? How can that be here! There is no spike of rusty
 iron in the air, between the eye and it, from any point of the real
 prospect. What is the spike that intervenes, and who has set it up?
 Maybe it is set up by the Sultan’s orders for the impaling of a horde
 of Turkish robbers, one by one. It is so, for cymbals clash, and the
 Sultan goes by to his palace in long procession. Ten thousand scimitars
 flash in the sunlight, and thrice ten thousand dancing-girls strew
-flowers. Then, follow white elephants caparisoned in countless gorgeous
-colours, and infinite in number and attendants. Still the Cathedral
+[[Flowers|flowers]]. Then, follow white elephants caparisoned in countless gorgeous
+colours, and infinite in number and attendants. Still the [[Cathedral]]
 Tower rises in the background, where it cannot be, and still no
 writhing figure is on the grim spike. Stay! Is the spike so low a thing
 as the rusty spike on the top of a post of an old bedstead that has
@@ -38,12 +38,12 @@ to the consideration of this possibility.
 Shaking from head to foot, the man whose scattered consciousness has
 thus fantastically pieced itself together, at length rises, supports
 his trembling frame upon his arms, and looks around. He is in the
-meanest and closest of small rooms. Through the ragged window-curtain,
-the light of early day steals in from a miserable court. He lies,
+meanest and closest of small rooms. Through the ragged [[Window|window]]-curtain,
+the light of early day steals in from a miserable [[Court|court]]. He lies,
 dressed, across a large unseemly bed, upon a bedstead that has indeed
 given way under the weight upon it. Lying, also dressed and also across
 the bed, not longwise, are a Chinaman, a Lascar, and a haggard woman.
-The two first are in a sleep or stupor; the last is blowing at a kind
+The two first are in a [[Sleep|sleep]] or stupor; the last is blowing at a kind
 of pipe, to kindle it. And as she blows, and shading it with her lean
 hand, concentrates its red spark of light, it serves in the dim morning
 as a lamp to show him what he sees of her.
@@ -58,10 +58,10 @@ goes on, as she chronically complains. “Poor me, poor me, my head is so
 bad. Them two come in after ye. Ah, poor me, the business is slack, is
 slack! Few Chinamen about the Docks, and fewer Lascars, and no ships
 coming in, these say! Here’s another ready for ye, deary. Ye’ll
-remember like a good soul, won’t ye, that the market price is dreffle
+remember like a good [[Soul|soul]], won’t ye, that the market price is dreffle
 high just now? More nor three shillings and sixpence for a thimbleful!
 And ye’ll remember that nobody but me (and Jack Chinaman t’other side
-the court; but he can’t do it as well as me) has the true secret of
+the [[Court|court]]; but he can’t do it as [[Well|well]] as me) has the true secret of
 mixing it? Ye’ll pay up accordingly, deary, won’t ye?”
 
 She blows at the pipe as she speaks, and, occasionally bubbling at it,
@@ -69,14 +69,14 @@ inhales much of its contents.
 
 “O me, O me, my lungs is weak, my lungs is bad! It’s nearly ready for
 ye, deary. Ah, poor me, poor me, my poor hand shakes like to drop off!
-I see ye coming-to, and I ses to my poor self, ‘I’ll have another ready
+I see ye coming-to, and I ses to my poor [[Self|self]], ‘I’ll have another ready
 for him, and he’ll bear in mind the market price of opium, and pay
 according.’ O my poor head! I makes my pipes of old penny ink-bottles,
 ye see, deary—this is one—and I fits-in a mouthpiece, this way, and I
 takes my mixter out of this thimble with this little horn spoon; and so
 I fills, deary. Ah, my poor nerves! I got Heavens-hard drunk for
 sixteen year afore I took to this; but this don’t hurt me, not to speak
-of. And it takes away the hunger as well as wittles, deary.”
+of. And it takes away the hunger as [[Well|well]] as wittles, deary.”
 
 She hands him the nearly-emptied pipe, and sinks back, turning over on
 her face.
@@ -90,14 +90,14 @@ wrestles with one of his many Gods or Devils, perhaps, and snarls
 horribly. The Lascar laughs and dribbles at the mouth. The hostess is
 still.
 
-[Illustration: In the Court]
+[Illustration: In the [[Court]]]
 
 
 “What visions can _she_ have?” the waking man muses, as he turns her
 face towards him, and stands looking down at it. “Visions of many
 butchers’ shops, and public-houses, and much credit? Of an increase of
 hideous customers, and this horrible bedstead set upright again, and
-this horrible court swept clean? What can she rise to, under any
+this horrible [[Court|court]] swept clean? What can she rise to, under any
 quantity of opium, higher than that!—Eh?”
 
 He bends down his ear, to listen to her mutterings.
@@ -105,11 +105,11 @@ He bends down his ear, to listen to her mutterings.
 “Unintelligible!”
 
 As he watches the spasmodic shoots and darts that break out of her face
-and limbs, like fitful lightning out of a dark sky, some contagion in
+and limbs, like fitful [[Lightning|lightning]] out of a dark sky, some contagion in
 them seizes upon him: insomuch that he has to withdraw himself to a
 lean arm-chair by the hearth—placed there, perhaps, for such
 emergencies—and to sit in it, holding tight, until he has got the
-better of this unclean spirit of imitation.
+better of this unclean spirit of [[Imitation|imitation]].
 
 Then he comes back, pounces on the Chinaman, and seizing him with both
 hands by the throat, turns him violently on the bed. The Chinaman
@@ -125,7 +125,7 @@ Slowly loosening his grasp as he listens to the incoherent jargon with
 an attentive frown, he turns to the Lascar and fairly drags him forth
 upon the floor. As he falls, the Lascar starts into a half-risen
 attitude, glares with his eyes, lashes about him fiercely with his
-arms, and draws a phantom knife. It then becomes apparent that the
+arms, and draws a [[Phantom|phantom]] knife. It then becomes apparent that the
 woman has taken possession of this knife, for safety’s sake; for, she
 too starting up, and restraining and expostulating with him, the knife
 is visible in her dress, not in his, when they drowsily drop back, side
@@ -140,10 +140,10 @@ hat, gropes his way down the broken stairs, gives a good morning to
 some rat-ridden doorkeeper, in bed in a black hutch beneath the stairs,
 and passes out.
 
-That same afternoon, the massive gray square tower of an old Cathedral
-rises before the sight of a jaded traveller. The bells are going for
+That same afternoon, the massive gray square tower of an old [[Cathedral]]
+rises before the sight of a jaded traveller. [[The Bells|The bells]] are going for
 daily vesper service, and he must needs attend it, one would say, from
-his haste to reach the open Cathedral door. The choir are getting on
+his haste to reach the open [[Cathedral]] door. The choir are getting on
 their sullied white robes, in a hurry, when he arrives among them, gets
 on his own robe, and falls into the procession filing in to service.
 Then, the Sacristan locks the iron-barred gates that divide the

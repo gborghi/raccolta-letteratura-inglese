@@ -31,10 +31,10 @@ me better already, he says, as he gets more used to my voice. He told me
 a great deal about himself, and I told him a good deal about myself, and
 a rare lot of questions he asked me. I gave him information about my
 having two beats, you know, in my business; one day to the right from
-our house and back again; another day to the left from our house and
+our [[house]] and back again; another day to the left from our [[house]] and
 back again (for he's a stranger, and don't know the names of places
 about here); and he seemed quite pleased. 'Why, then I shall be
-returning home to-night your way,' he says, 'when I thought you'd be
+returning [[Home|home]] to-[[Night|night]] your way,' he says, 'when I thought you'd be
 coming in an exactly opposite direction. That's capital! I may trouble
 you for another lift, perhaps, but I'll engage not to fall so sound
 asleep again.' He _was_ sound asleep, sure-ly!--Dot! what are you
@@ -46,9 +46,9 @@ thinking of?"
 look of your face, that I had gone rambling on so long as to set you
 thinking about something else. I was very near it, I'll be bound."
 
-Dot making no reply, they jogged on, for some little time, in silence.
-But, it was not easy to remain silent very long in John Peerybingle's
-cart, for everybody on the road had something to say. Though it might
+Dot making no reply, they jogged on, for some little [[Time|time]], in [[Silence|silence]].
+But, it was not easy to remain silent very long in [[John Peerybingle]]'s
+cart, for everybody on the [[Road|road]] had something to say. Though it might
 only be "How are you?" and, indeed, it was very often nothing else,
 still, to give that back again in the right spirit of cordiality,
 required, not merely a nod and a smile, but as wholesome an action of
@@ -59,11 +59,11 @@ great deal to be said on both sides.
 
 Then, Boxer gave occasion to more good-natured recognitions of, and by,
 the Carrier, than half-a-dozen Christians could have done! Everybody
-knew him all along the road--especially the fowls and pigs, who, when
-they saw him approaching, with his body all on one side, and his ears
+knew him all along the [[Road|road]]--especially the fowls and pigs, who, when
+they saw him approaching, with his [[Body|body]] all on one side, and his ears
 pricked up inquisitively, and that knob of a tail making the most of
 itself in the air, immediately withdrew into remote back-settlements,
-without waiting for the honour of a nearer acquaintance. He had business
+without waiting for the [[Honour|honour]] of a nearer acquaintance. He had business
 elsewhere; going down all the turnings, looking into all the wells,
 bolting in and out of all the cottages, dashing into the midst of all
 the Dame Schools, fluttering all the pigeons, magnifying the tails of
@@ -75,8 +75,8 @@ Peerybingle and his pretty wife Good day.
 
 The packages and parcels for the errand cart were numerous; and there
 were many stoppages to take them in and give them out, which were not by
-any means the worst parts of the journey. Some people were so full of
-expectation about their parcels, and other people were so full of wonder
+any means the worst parts of the [[Journey|journey]]. Some people were so full of
+expectation about their parcels, and other people were so full of [[Wonder|wonder]]
 about their parcels, and other people were so full of inexhaustible
 directions about their parcels, and John had such a lively interest in
 all the parcels, that it was as good as a play. Likewise, there were
@@ -95,9 +95,9 @@ anything, she rather liked it perhaps.
 
 The trip was a little foggy, to be sure, in the January weather; and was
 raw and cold. But who cared for such trifles? Not Dot, decidedly. Not
-Tilly Slowboy, for she deemed sitting in a cart, on any terms, to be the
-highest point of human joys; the crowning circumstance of earthly hope.
-Not the Baby, I'll be sworn; for it's not in Baby nature to be warmer or
+[[Tilly Slowboy]], for she deemed sitting in a cart, on any terms, to be the
+highest point of human joys; the crowning circumstance of earthly [[Hope|hope]].
+Not the Baby, I'll be sworn; for it's not in Baby [[Nature|nature]] to be warmer or
 more sound asleep, though its capacity is great in both respects, than
 that blessed young Peerybingle was, all the way.
 
@@ -105,16 +105,16 @@ You couldn't see very far in the fog, of course; but you could see a
 great deal! It's astonishing how much you may see in a thicker fog than
 that, if you will only take the trouble to look for it. Why, even to sit
 watching for the Fairyrings in the fields, and for the patches of hoar
-frost still lingering in the shade, near hedges and by trees, was a
+[[Frost|frost]] still lingering in the shade, near hedges and by trees, was a
 pleasant occupation, to make no mention of the unexpected shapes in
 which the trees themselves came starting out of the mist, and glided
 into it again. The hedges were tangled and bare, and waved a multitude
-of blighted garlands in the wind; but there was no discouragement in
+of blighted garlands in the [[Wind|wind]]; but there was no discouragement in
 this. It was agreeable to contemplate; for it made the fireside warmer
-in possession, and the summer greener in expectancy. The river looked
+in possession, and the [[Summer|summer]] greener in expectancy. The [[River|river]] looked
 chilly; but it was in motion, and moving at a good pace--which was a
 great point. The canal was rather slow and torpid; that must be
-admitted. Never mind. It would freeze the sooner when the frost set
+admitted. Never mind. It would freeze the sooner when the [[Frost|frost]] set
 fairly in, and then there would be skating and sliding; and the heavy
 old barges, frozen up somewhere near a wharf, would smoke their rusty
-iron chimney-pipes all day, and have a lazy time of it.
+iron chimney-pipes all day, and have a lazy [[Time|time]] of it.

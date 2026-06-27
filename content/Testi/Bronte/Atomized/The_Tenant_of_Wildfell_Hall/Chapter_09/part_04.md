@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 9 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 9 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-“Well,” said I, “if ever I trouble you with my loquacity, tell me so at
+“[[Well]],” said I, “if ever I trouble you with my loquacity, tell me so at
 
 once, and I promise not to be offended; for I possess the faculty of
 
-enjoying the company of those I—of my friends as well in silence as in
+enjoying the company of those I—of my friends as [[Well|well]] in [[Silence|silence]] as in
 
 conversation.”
 
@@ -48,7 +48,7 @@ sun penetrating the thickness of trees and shrubs on the opposite side
 
 of the path before us, relieved their dusky verdure by displaying
 
-patches of semi-transparent leaves of resplendent golden green.
+patches of semi-transparent [[Leaves|leaves]] of resplendent golden green.
 
 
 
@@ -56,11 +56,11 @@ patches of semi-transparent leaves of resplendent golden green.
 
 
 
-“Why so? one would think at such a time you would most exult in your
+“Why so? one would think at such a [[Time|time]] you would most exult in your
 
 privilege of being able to imitate the various brilliant and delightful
 
-touches of nature.”
+touches of [[Nature|nature]].”
 
 
 
@@ -70,7 +70,7 @@ as others do, I am always troubling my head about how I could produce
 
 the same effect upon canvas; and as that can never be done, it is mere
 
-vanity and vexation of spirit.”
+[[Vanity|vanity]] and vexation of spirit.”
 
 
 
@@ -80,7 +80,7 @@ succeed in delighting others with the result of your endeavours.”
 
 
 
-“Well, after all, I should not complain: perhaps few people gain their
+“[[Well]], after all, I should not complain: perhaps few people gain their
 
 livelihood with so much pleasure in their toil as I do. Here is some
 
@@ -100,7 +100,7 @@ quiet stroll. They will not disturb us.”
 
 I could not quite decipher the expression of her face; but I was
 
-satisfied there was no jealousy therein. What business had I to look
+satisfied there was no [[Jealousy|jealousy]] therein. What business had I to look
 
 for it?
 
@@ -134,7 +134,7 @@ annoyed.
 
 
 
-“Well, I know nothing about it,” returned I, rather doggedly; for I
+“[[Well]], I know nothing about it,” returned I, rather doggedly; for I
 
 thought her annoyance was chiefly against myself.
 
@@ -144,21 +144,21 @@ The pair had now approached within a few paces of us. Our arbour was
 
 set snugly back in a corner, before which the avenue at its termination
 
-turned off into the more airy walk along the bottom of the garden. As
+turned off into the more airy walk along the [[Bottom|bottom]] of the [[Garden|garden]]. As
 
 they approached this, I saw, by the aspect of Jane Wilson, that she was
 
-directing her companion’s attention to us; and, as well by her cold,
+directing her companion’s attention to us; and, as [[Well|well]] by her cold,
 
 sarcastic smile as by the few isolated words of her discourse that
 
-reached me, I knew full well that she was impressing him with the idea,
+reached me, I knew full [[Well|well]] that she was impressing him with the idea,
 
 that we were strongly attached to each other. I noticed that he
 
 coloured up to the temples, gave us one furtive glance in passing, and
 
-walked on, looking grave, but seemingly offering no reply to her
+walked on, looking [[Grave|grave]], but seemingly offering no reply to her
 
 remarks.
 
@@ -174,7 +174,7 @@ was blameless, of course, but he was detestable beyond all count.
 
 While these thoughts flashed through my mind, my companion abruptly
 
-rose, and calling her son, said they would now go in quest of the
+[[Rose|rose]], and calling her son, said they would now go in [[Quest|quest]] of the
 
 company, and departed up the avenue. Doubtless she had heard or guessed
 
@@ -196,9 +196,9 @@ It was late in the evening before I joined the company. I found Mrs.
 
 Graham already equipped for departure, and taking leave of the rest,
 
-who were now returned to the house. I offered, nay, begged to accompany
+who were now returned to the [[house]]. I offered, nay, begged to accompany
 
-her home. Mr. Lawrence was standing by at the time conversing with some
+her [[Home|home]]. Mr. Lawrence was standing by at the [[Time|time]] conversing with some
 
 one else. He did not look at us, but, on hearing my earnest request, he
 
@@ -212,13 +212,13 @@ a denial.
 
 A denial it was, decided, though not unkind. She could not be persuaded
 
-to think there was danger for herself or her child in traversing those
+to think there was danger for herself or her [[Child|child]] in traversing those
 
 lonely lanes and fields without attendance. It was daylight still, and
 
 she should meet no one; or if she did, the people were quiet and
 
-harmless she was well assured. In fact, she would not hear of any one’s
+harmless she was [[Well|well]] assured. In fact, she would not hear of any one’s
 
 putting himself out of the way to accompany her, though Fergus
 
@@ -238,7 +238,7 @@ part of the room. Shortly after the party broke up and he himself took
 
 leave. When he came to me I was blind to his extended hand, and deaf to
 
-his good-night till he repeated it a second time; and then, to get rid
+his good-[[Night|night]] till he repeated it a second [[Time|time]]; and then, to get rid
 
 of him, I muttered an inarticulate reply, accompanied by a sulky nod.
 
@@ -252,7 +252,7 @@ I replied by a wrathful and contemptuous stare.
 
 
 
-“Are you angry because Mrs. Graham would not let you go home with her?”
+“Are you angry because Mrs. Graham would not let you go [[Home|home]] with her?”
 
 he asked, with a faint smile that nearly exasperated me beyond control.
 

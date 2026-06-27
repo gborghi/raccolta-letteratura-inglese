@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 9 (part 2)"
+title: "[[Shirley]] — Chapter 9 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -38,13 +38,13 @@ tags:
 
 
 
-    "Oh, the fathomless love
+    "Oh, the fathomless [[Love|love]]
 
       That has deigned to approve
 
     And prosper the work of my hands.
 
-      With my pastoral crook
+      With my [[Pastoral|pastoral]] crook
 
       I went over the brook,
 
@@ -62,7 +62,7 @@ tags:
 
       They are born from the skies,
 
-    And gives glory to God and the Lamb!"
+    And gives glory to God and the [[Lamb]]!"
 
 
 
@@ -78,13 +78,13 @@ cap the climax of noise and zeal.
 
      Tophet gaped to take us in;
 
-     Mercy to our rescue flew,
+     [[Mercy]] to our rescue flew,
 
      Broke the snare, and brought us through.
 
 
 
-    "Here, as in a lion's den,
+    "Here, as in a [[Lion|lion]]'s den,
 
      Undevoured we still remain,
 
@@ -106,7 +106,7 @@ the last stanza was given.)
 
     "Here we raise our voices higher,
 
-     Shout in the refiner's fire,
+     Shout in the refiner's [[Fire|fire]],
 
      Clap our hands amidst the flame,
 
@@ -152,11 +152,11 @@ the predominant hues, glittering round a gravely-tinted medallion in the
 
 centre of each, representing the suave head of William Shakespeare, and
 
-the serene one of John Milton. Some Canadian views hung on the
+the serene one of John [[Milton]]. Some Canadian views hung on the
 
-walls--green forest and blue water scenery--and in the midst of them
+walls--green forest and blue [[Water|water]] scenery--and in the midst of them
 
-blazes a night-eruption of Vesuvius; very ardently it glows, contrasted
+blazes a [[Night|night]]-eruption of Vesuvius; very ardently it glows, contrasted
 
 with the cool foam and azure of cataracts, and the dusky depths of
 
@@ -164,13 +164,13 @@ woods.
 
 
 
-The fire illuminating this room, reader, is such as, if you be a
+The [[Fire|fire]] illuminating this room, reader, is such as, if you be a
 
 southern, you do not often see burning on the hearth of a private
 
-apartment. It is a clear, hot coal fire, heaped high in the ample
+apartment. It is a clear, hot coal [[Fire|fire]], heaped high in the ample
 
-chimney. Mr. Yorke _will_ have such fires even in warm summer weather.
+chimney. Mr. Yorke _will_ have such fires even in warm [[Summer|summer]] weather.
 
 He sits beside it with a book in his hand, a little round stand at his
 
@@ -186,11 +186,11 @@ care on her front and on her shoulders, but not overwhelming, inevitable
 
 care, rather the sort of voluntary, exemplary cloud and burden people
 
-ever carry who deem it their duty to be gloomy. Ah, well-a-day! Mrs.
+ever carry who deem it their duty to be gloomy. Ah, [[Well|well]]-a-day! Mrs.
 
-Yorke had that notion, and grave as Saturn she was, morning, noon, and,
+Yorke had that notion, and [[Grave|grave]] as [[Saturn]] she was, morning, [[Noon|noon]], and,
 
-night; and hard things she thought if any unhappy wight--especially of
+[[Night|night]]; and hard things she thought if any unhappy wight--especially of
 
 the female sex--who dared in her presence to show the light of a gay
 
@@ -212,27 +212,27 @@ at arm's length.
 
 
 
-Mr. Yorke and she agreed perfectly well, yet he was naturally a social,
+Mr. Yorke and she agreed perfectly [[Well|well]], yet he was naturally a social,
 
-hospitable man, an advocate for family unity; and in his youth, as has
+hospitable man, an advocate for family [[unity]]; and in his youth, as has
 
 been said, he liked none but lively, cheerful women. Why he chose her,
 
 how they contrived to suit each other, is a problem puzzling enough, but
 
-which might soon be solved if one had time to go into the analysis of
+which might soon be solved if one had [[Time|time]] to go into the analysis of
 
-the case. Suffice it here to say that Yorke had a shadowy side as well
+the case. Suffice it here to say that Yorke had a shadowy side as [[Well|well]]
 
 as a sunny side to his character, and that his shadowy side found
 
 sympathy and affinity in the whole of his wife's uniformly overcast
 
-nature. For the rest, she was a strong-minded woman; never said a weak
+[[Nature|nature]]. For the rest, she was a strong-minded woman; never said a weak
 
 or a trite thing; took stern, democratic views of society, and rather
 
-cynical ones of human nature; considered herself perfect and safe, and
+cynical ones of human [[Nature|nature]]; considered herself perfect and safe, and
 
 the rest of the world all wrong. Her main fault was a brooding, eternal,
 
@@ -250,7 +250,7 @@ turn out quite ordinary, commonplace beings; and they were not. You see
 
 six of them, reader. The youngest is a baby on the mother's knee. It is
 
-all her own yet, and that one she has not yet begun to doubt, suspect,
+all her own yet, and that one she has not yet begun to [[Doubt|doubt]], suspect,
 
 condemn; it derives its sustenance from her, it hangs on her, it clings
 
@@ -262,4 +262,4 @@ loves it.
 
 
 
-The two next are girls, Rose and Jessy; they are both now at their
+The two next are girls, [[Rose]] and Jessy; they are both now at their

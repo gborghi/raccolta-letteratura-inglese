@@ -16,7 +16,7 @@ tags:
 
 ‘Do you believe him?’
 
-‘I believe him to be a thorough rascal. But he may tell the truth, for
+‘I believe him to be a thorough rascal. But he may tell the [[Truth|truth]], for
 his own purpose, and for this occasion only.’
 
 ‘It doesn’t look like it.’
@@ -46,11 +46,11 @@ to me was, “I done it.” Those was his words.’
 ‘I must see this out, Mortimer,’ whispered Eugene, rising. ‘How shall we
 go?’
 
-‘Let us walk,’ whispered Lightwood, ‘and give this fellow time to think
+‘Let us walk,’ whispered Lightwood, ‘and give this fellow [[Time|time]] to think
 of it.’
 
 Having exchanged the question and answer, they prepared themselves
-for going out, and Mr Riderhood rose. While extinguishing the candles,
+for going out, and Mr Riderhood [[Rose|rose]]. While extinguishing the candles,
 Lightwood, quite as a matter of course took up the glass from which that
 honest gentleman had drunk, and coolly tossed it under the grate, where
 it fell shivering into fragments.
@@ -63,7 +63,7 @@ will follow. You know where to go, I suppose?’
 ‘Take the lead, then.’
 
 The waterside character pulled his drowned cap over his ears with both
-hands, and making himself more round-shouldered than nature had made
+hands, and making himself more round-shouldered than [[Nature|nature]] had made
 him, by the sullen and persistent slouch with which he went, went
 down the stairs, round by the Temple Church, across the Temple into
 Whitefriars, and so on by the waterside streets.
@@ -77,9 +77,9 @@ They said little else as they followed. He went on before them as an
 ugly Fate might have done, and they kept him in view, and would have
 been glad enough to lose sight of him. But on he went before them,
 always at the same distance, and the same rate. Aslant against the hard
-implacable weather and the rough wind, he was no more to be driven back
+implacable weather and the rough [[Wind|wind]], he was no more to be driven back
 than hurried forward, but held on like an advancing Destiny. There came,
-when they were about midway on their journey, a heavy rush of hail,
+when they were about midway on their [[Journey|journey]], a heavy rush of hail,
 which in a few minutes pelted the streets clear, and whitened them. It
 made no difference to him. A man’s life being to be taken and the price
 of it got, the hailstones to arrest the purpose must lie larger and
@@ -88,23 +88,23 @@ fast-melting slush that were mere shapeless holes; one might have
 fancied, following, that the very fashion of humanity had departed from
 his feet.
 
-The blast went by, and the moon contended with the fast-flying clouds,
+The blast went by, and the [[Moon|moon]] contended with the fast-flying clouds,
 and the wild disorder reigning up there made the pitiful little tumults
-in the streets of no account. It was not that the wind swept all
+in the streets of no account. It was not that the [[Wind|wind]] swept all
 the brawlers into places of shelter, as it had swept the hail still
 lingering in heaps wherever there was refuge for it; but that it seemed
-as if the streets were absorbed by the sky, and the night were all in
+as if the streets were absorbed by the sky, and the [[Night|night]] were all in
 the air.
 
-‘If he has had time to think of it,’ said Eugene, ‘he has not had time to
+‘If he has had [[Time|time]] to think of it,’ said Eugene, ‘he has not had [[Time|time]] to
 think better of it—or differently of it, if that’s better. There is no
 sign of drawing back in him; and as I recollect this place, we must be
-close upon the corner where we alighted that night.’
+close upon the corner where we alighted that [[Night|night]].’
 
-In fact, a few abrupt turns brought them to the river side, where they
+In fact, a few abrupt turns brought them to the [[River|river]] side, where they
 had slipped about among the stones, and where they now slipped more; the
-wind coming against them in slants and flaws, across the tide and the
-windings of the river, in a furious way. With that habit of getting
+[[Wind|wind]] coming against them in slants and flaws, across the tide and the
+windings of the [[River|river]], in a furious way. With that habit of getting
 under the lee of any shelter which waterside characters acquire, the
 waterside character at present in question led the way to the leeside of
 the Six Jolly Fellowship Porters before he spoke.
@@ -119,7 +119,7 @@ there?
 
 ‘I wished you to see the Fellowships for yourself, Lawyer Lightwood,
 that you might judge whether I’m a liar; and now I’ll see Gaffer’s
-window for myself, that we may know whether he’s at home.’
+[[Window|window]] for myself, that we may know whether he’s at [[Home|home]].’
 
 With that, he crept away.
 
@@ -129,15 +129,15 @@ With that, he crept away.
 
 He came back after a very short interval indeed.
 
-‘Gaffer’s out, and his boat’s out. His daughter’s at home, sitting
-a-looking at the fire. But there’s some supper getting ready, so
+‘Gaffer’s out, and his boat’s out. His daughter’s at [[Home|home]], sitting
+a-looking at the [[Fire|fire]]. But there’s some supper getting ready, so
 Gaffer’s expected. I can find what move he’s upon, easy enough,
 presently.’
 
 Then he beckoned and led the way again, and they came to the
 police-station, still as clean and cool and steady as before, saving
 that the flame of its lamp—being but a lamp-flame, and only attached to
-the Force as an outsider—flickered in the wind.
+the Force as an [[Outsider|outsider]]—flickered in the [[Wind|wind]].
 
 Also, within doors, Mr Inspector was at his studies as of yore.
 He recognized the friends the instant they reappeared, but their
@@ -153,4 +153,4 @@ notes? Handing him Eugene’s.
 Having read the first few lines, Mr Inspector mounted to that (for him)
 extraordinary pitch of emotion that he said, ‘Does either of you two
 gentlemen happen to have a pinch of snuff about him?’ Finding that
-neither had, he did quite as well without it, and read on.
+neither had, he did quite as [[Well|well]] without it, and read on.

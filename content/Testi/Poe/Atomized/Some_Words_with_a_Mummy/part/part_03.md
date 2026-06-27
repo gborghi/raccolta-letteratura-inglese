@@ -1,5 +1,5 @@
 ---
-title: "Some Words with a Mummy (part 3)"
+title: "[[Some Words with a Mummy]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Some-Words-with-a-Mummy-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      It will be taken for granted, no doubt, that upon hearing this speech
+      It will be taken for granted, no [[Doubt|doubt]], that upon hearing this speech
       under the circumstances, we all either made for the door, or fell into
       violent hysterics, or went off in a general swoon. One of these three
       things was, I say, to be expected. Indeed each and all of these lines of
@@ -22,7 +22,7 @@ tags:
       a loss to know how or why it was that we pursued neither the one nor the
       other. But, perhaps, the true reason is to be sought in the spirit of the
       age, which proceeds by the rule of contraries altogether, and is now
-      usually admitted as the solution of every thing in the way of paradox and
+      usually admitted as the solution of every thing in the way of [[Paradox|paradox]] and
       impossibility. Or, perhaps, after all, it was only the Mummy’s exceedingly
       natural and matter-of-course air that divested his words of the terrible.
       However this may be, the facts are clear, and no member of our party
@@ -33,17 +33,17 @@ tags:
       out of the range of the Egyptian’s fist. Doctor Ponnonner thrust his hands
       into his breeches’ pockets, looked hard at the Mummy, and grew excessively
       red in the face. Mr. Glidden stroked his whiskers and drew up the collar
-      of his shirt. Mr. Buckingham hung down his head, and put his right thumb
+      of his shirt. Mr. [[Buckingham]] hung down his head, and put his right thumb
       into the left corner of his mouth.
 
       The Egyptian regarded him with a severe countenance for some minutes and
       at length, with a sneer, said:
 
-      “Why don’t you speak, Mr. Buckingham? Did you hear what I asked you, or
+      “Why don’t you speak, Mr. [[Buckingham]]? Did you hear what I asked you, or
       not? Do take your thumb out of your mouth!”
 
 
-      Mr. Buckingham, hereupon, gave a slight start, took his right thumb out of
+      Mr. [[Buckingham]], hereupon, gave a slight start, took his right thumb out of
       the left corner of his mouth, and, by way of indemnification inserted his
       left thumb in the right corner of the aperture above-mentioned.
 
@@ -56,14 +56,14 @@ tags:
       afford me much pleasure to record here, in the original, the whole of his
       very excellent speech.
 
-      I may as well take this occasion to remark, that all the subsequent
+      I may as [[Well|well]] take this occasion to remark, that all the subsequent
       conversation in which the Mummy took a part, was carried on in primitive
       Egyptian, through the medium (so far as concerned myself and other
       untravelled members of the company)—through the medium, I say, of
-      Messieurs Gliddon and Buckingham, as interpreters. These gentlemen spoke
+      Messieurs Gliddon and [[Buckingham]], as interpreters. These gentlemen spoke
       the mother tongue of the Mummy with inimitable fluency and grace; but I
-      could not help observing that (owing, no doubt, to the introduction of
-      images entirely modern, and, of course, entirely novel to the stranger)
+      could not help observing that (owing, no [[Doubt|doubt]], to the introduction of
+      images entirely modern, and, of course, entirely [[Novel|novel]] to the stranger)
       the two travellers were reduced, occasionally, to the employment of
       sensible forms for the purpose of conveying a particular meaning. Mr.
       Gliddon, at one period, for example, could not make the Egyptian
@@ -72,7 +72,7 @@ tags:
       standing upon a stump, with his left leg drawn back, right arm thrown
       forward, with his fist shut, the eyes rolled up toward Heaven, and the
       mouth open at an angle of ninety degrees. Just in the same way Mr.
-      Buckingham failed to convey the absolutely modern idea “wig,” until (at
+      [[Buckingham]] failed to convey the absolutely modern idea “wig,” until (at
       Doctor Ponnonner’s suggestion) he grew very pale in the face, and
       consented to take off his own.
 
@@ -82,11 +82,11 @@ tags:
       disturbance that might have been occasioned him, in particular, the
       individual Mummy called Allamistakeo; and concluding with a mere hint (for
       it could scarcely be considered more) that, as these little matters were
-      now explained, it might be as well to proceed with the investigation
+      now explained, it might be as [[Well|well]] to proceed with the investigation
       intended. Here Doctor Ponnonner made ready his instruments.
 
       In regard to the latter suggestions of the orator, it appears that
-      Allamistakeo had certain scruples of conscience, the nature of which I did
+      Allamistakeo had certain scruples of [[Conscience|conscience]], the [[Nature|nature]] of which I did
       not distinctly learn; but he expressed himself satisfied with the
       apologies tendered, and, getting down from the table, shook hands with the
       company all round.
@@ -97,7 +97,7 @@ tags:
       inch of black plaster to the tip of his nose.
 
       It was now observed that the Count (this was the title, it seems, of
-      Allamistakeo) had a slight fit of shivering—no doubt from the cold.
+      Allamistakeo) had a slight fit of shivering—no [[Doubt|doubt]] from the cold.
       The Doctor immediately repaired to his wardrobe, and soon returned with a
       black dress coat, made in Jennings’ best manner, a pair of sky-blue plaid
       pantaloons with straps, a pink gingham chemise, a flapped vest of brocade,
@@ -108,5 +108,5 @@ tags:
       some little difficulty in adjusting these habiliments upon the person of
       the Egyptian; but when all was arranged, he might have been said to be
       dressed. Mr. Gliddon, therefore, gave him his arm, and led him to a
-      comfortable chair by the fire, while the Doctor rang the bell upon the
+      comfortable chair by the [[Fire|fire]], while the Doctor rang the bell upon the
       spot and ordered a supply of cigars and wine.

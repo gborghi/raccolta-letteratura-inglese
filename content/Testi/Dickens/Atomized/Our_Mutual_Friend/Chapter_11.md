@@ -23,24 +23,24 @@ The Six Jolly Fellowship Porters, already mentioned as a tavern of
 a dropsical appearance, had long settled down into a state of hale
 infirmity. In its whole constitution it had not a straight floor, and
 hardly a straight line; but it had outlasted, and clearly would yet
-outlast, many a better-trimmed building, many a sprucer public-house.
+outlast, many a better-trimmed building, many a sprucer public-[[house]].
 Externally, it was a narrow lopsided wooden jumble of corpulent windows
 heaped one upon another as you might heap as many toppling oranges,
-with a crazy wooden verandah impending over the water; indeed the whole
-house, inclusive of the complaining flag-staff on the roof, impended
-over the water, but seemed to have got into the condition of a
+with a crazy wooden verandah impending over the [[Water|water]]; indeed the whole
+[[house]], inclusive of the complaining [[Flag|flag]]-staff on the roof, impended
+over the [[Water|water]], but seemed to have got into the condition of a
 faint-hearted diver who has paused so long on the brink that he will
 never go in at all.
 
-This description applies to the river-frontage of the Six Jolly
+This description applies to the [[River|river]]-frontage of the Six Jolly
 Fellowship Porters. The back of the establishment, though the chief
 entrance was there, so contracted that it merely represented in its
 connexion with the front, the handle of a flat iron set upright on its
-broadest end. This handle stood at the bottom of a wilderness of court
+broadest end. This handle stood at the [[Bottom|bottom]] of a wilderness of [[Court|court]]
 and alley: which wilderness pressed so hard and close upon the Six Jolly
 Fellowship Porters as to leave the hostelry not an inch of ground beyond
-its door. For this reason, in combination with the fact that the house
-was all but afloat at high water, when the Porters had a family wash the
+its door. For this reason, in combination with the fact that the [[house]]
+was all but afloat at high [[Water|water]], when the Porters had a family wash the
 linen subjected to that operation might usually be seen drying on lines
 stretched across the reception-rooms and bed-chambers.
 
@@ -49,7 +49,7 @@ doors, of the Six Jolly Fellowship Porters, seemed in its old age
 fraught with confused memories of its youth. In many places it had
 become gnarled and riven, according to the manner of old trees; knots
 started out of it; and here and there it seemed to twist itself into
-some likeness of boughs. In this state of second childhood, it had an
+some likeness of boughs. In this state of second [[Childhood|childhood]], it had an
 air of being in its own way garrulous about its early life. Not without
 reason was it often asserted by the regular frequenters of the Porters,
 that when the light shone full upon the grain of certain panels, and
@@ -63,9 +63,9 @@ hackney-coach; but no one could have wished the bar bigger, that space
 was so girt in by corpulent little casks, and by cordial-bottles
 radiant with fictitious grapes in bunches, and by lemons in nets, and
 by biscuits in baskets, and by the polite beer-pulls that made low
-bows when customers were served with beer, and by the cheese in a snug
+bows when customers were served with beer, and by the [[cheese]] in a snug
 corner, and by the landlady’s own small table in a snugger corner near
-the fire, with the cloth everlastingly laid. This haven was divided from
+the [[Fire|fire]], with the cloth everlastingly laid. This haven was divided from
 the rough world by a glass partition and a half-door, with a leaden
 sill upon it for the convenience of resting your liquor; but, over this
 half-door the bar’s snugness so gushed forth that, albeit customers
@@ -74,20 +74,20 @@ shouldered by other customers passing in and out, they always appeared
 to drink under an enchanting delusion that they were in the bar itself.
 
 For the rest, both the tap and parlour of the Six Jolly Fellowship
-Porters gave upon the river, and had red curtains matching the noses of
+Porters gave upon the [[River|river]], and had red curtains matching the noses of
 the regular customers, and were provided with comfortable fireside tin
 utensils, like models of sugar-loaf hats, made in that shape that they
 might, with their pointed ends, seek out for themselves glowing nooks
 in the depths of the red coals, when they mulled your ale, or heated for
 you those delectable drinks, Purl, Flip, and Dog’s Nose. The first of
 these humming compounds was a speciality of the Porters, which, through
-an inscription on its door-posts, gently appealed to your feelings as,
-‘The Early Purl House’. For, it would seem that Purl must always be
+an [[Inscription|inscription]] on its door-posts, gently appealed to your feelings as,
+‘The Early Purl [[house|House]]’. For, it would seem that Purl must always be
 taken early; though whether for any more distinctly stomachic reason
 than that, as the early bird catches the worm, so the early purl catches
 the customer, cannot here be resolved. It only remains to add that in
 the handle of the flat iron, and opposite the bar, was a very little
-room like a three-cornered hat, into which no direct ray of sun, moon,
+room like a three-cornered hat, into which no direct ray of sun, [[Moon|moon]],
 or star, ever penetrated, but which was superstitiously regarded as a
 sanctuary replete with comfort and retirement by gaslight, and on the
 door of which was therefore painted its alluring name: Cosy.
@@ -96,7 +96,7 @@ Miss Potterson, sole proprietor and manager of the Fellowship Porters,
 reigned supreme on her throne, the Bar, and a man must have drunk
 himself mad drunk indeed if he thought he could contest a point with
 her. Being known on her own authority as Miss Abbey Potterson, some
-water-side heads, which (like the water) were none of the clearest,
+[[Water|water]]-side heads, which (like the [[Water|water]]) were none of the clearest,
 harboured muddled notions that, because of her dignity and firmness, she
 was named after, or in some sort related to, the Abbey at Westminster.
 But, Abbey was only short for Abigail, by which name Miss Potterson had
@@ -106,7 +106,7 @@ been christened at Limehouse Church, some sixty and odd years before.
 forefinger over the half-door, ‘the Fellowship don’t want you at all,
 and would rather by far have your room than your company; but if you
 were as welcome here as you are not, you shouldn’t even then have
-another drop of drink here this night, after this present pint of beer.
+another drop of drink here this [[Night|night]], after this present pint of beer.
 So make the most of it.’
 
 ‘But you know, Miss Potterson,’ this was suggested very meekly though,
@@ -117,15 +117,15 @@ So make the most of it.’
 ‘No, Miss Potterson; because, you see, the law—’
 
 ‘I am the law here, my man,’ returned Miss Abbey, ‘and I’ll soon
-convince you of that, if you doubt it at all.’
+convince you of that, if you [[Doubt|doubt]] it at all.’
 
-‘I never said I did doubt it at all, Miss Abbey.’
+‘I never said I did [[Doubt|doubt]] it at all, Miss Abbey.’
 
 ‘So much the better for you.’
 
 Abbey the supreme threw the customer’s halfpence into the till, and,
 seating herself in her fireside-chair, resumed the newspaper she had
-been reading. She was a tall, upright, well-favoured woman, though
+been reading. She was a tall, upright, [[Well|well]]-favoured woman, though
 severe of countenance, and had more of the air of a schoolmistress than
 mistress of the Six Jolly Fellowship Porters. The man on the other side
 of the half-door, was a waterside-man with a squinting leer, and he eyed
@@ -143,7 +143,7 @@ Potterson beheld him knuckling his low forehead, and ducking at her with
 his head, as if he were asking leave to fling himself head foremost over
 the half-door and alight on his feet in the bar.
 
-‘Well?’ said Miss Potterson, with a manner as short as she herself was
+‘[[Well]]?’ said Miss Potterson, with a manner as short as she herself was
 long, ‘say your half word. Bring it out.’
 
 ‘Miss Potterson! Ma’am! Would you ’sxcuse me taking the liberty of
@@ -162,16 +162,16 @@ asking, is it my character that you take objections to?’
 ‘You really are so cruel hard upon me! What I was going to make
 inquiries was no more than, might you have any apprehensions—leastways
 beliefs or suppositions—that the company’s property mightn’t be
-altogether to be considered safe, if I used the house too regular?’
+altogether to be considered safe, if I used the [[house]] too regular?’
 
 ‘What do you want to know for?’
 
-‘Well, Miss Abbey, respectfully meaning no offence to you, it would
+‘[[Well]], Miss Abbey, respectfully meaning no offence to you, it would
 be some satisfaction to a man’s mind, to understand why the Fellowship
 Porters is not to be free to such as me, and is to be free to such as
 Gaffer.’
 
-The face of the hostess darkened with some shadow of perplexity, as she
+The face of the hostess darkened with some [[Shadow|shadow]] of perplexity, as she
 replied: ‘Gaffer has never been where you have been.’
 
 ‘Signifying in Quod, Miss? Perhaps not. But he may have merited it. He
@@ -207,8 +207,8 @@ asked Miss Abbey.
 his evil head.
 
 Miss Abbey knitted her brow at him, as he darkly leered at her. ‘If
-you’re out upon the river pretty nigh every tide, and if you want to
-find a man or woman in the river, you’ll greatly help your luck, Miss
+you’re out upon the [[River|river]] pretty nigh every tide, and if you want to
+find a man or woman in the [[River|river]], you’ll greatly help your luck, Miss
 Abbey, by knocking a man or woman on the head aforehand and pitching ’em
 in.’
 
@@ -227,30 +227,30 @@ his pint pot and swaggered off to the taproom.
 
 Gaffer was not there, but a pretty strong muster of Miss Abbey’s pupils
 were, who exhibited, when occasion required, the greatest docility. On
-the clock’s striking ten, and Miss Abbey’s appearing at the door, and
+the [[Clock|clock]]’s striking ten, and Miss Abbey’s appearing at the door, and
 addressing a certain person in a faded scarlet jacket, with ‘George
-Jones, your time’s up! I told your wife you should be punctual,’
-Jones submissively rose, gave the company good-night, and retired. At
+[[Jones]], your [[Time|time]]’s up! I told your wife you should be punctual,’
+[[Jones]] submissively [[Rose|rose]], gave the company good-[[Night|night]], and retired. At
 half-past ten, on Miss Abbey’s looking in again, and saying, ‘William
 Williams, Bob Glamour, and Jonathan, you are all due,’ Williams, Bob,
 and Jonathan with similar meekness took their leave and evaporated.
-Greater wonder than these, when a bottle-nosed person in a glazed hat
+Greater [[Wonder|wonder]] than these, when a bottle-nosed person in a glazed hat
 had after some considerable hesitation ordered another glass of gin and
-water of the attendant potboy, and when Miss Abbey, instead of sending
+[[Water|water]] of the attendant potboy, and when Miss Abbey, instead of sending
 it, appeared in person, saying, ‘Captain Joey, you have had as much as
 will do you good,’ not only did the captain feebly rub his knees and
-contemplate the fire without offering a word of protest, but the rest
+contemplate the [[Fire|fire]] without offering a word of protest, but the rest
 of the company murmured, ‘Ay, ay, Captain! Miss Abbey’s right; you
 be guided by Miss Abbey, Captain.’ Nor, was Miss Abbey’s vigilance in
 anywise abated by this submission, but rather sharpened; for, looking
 round on the deferential faces of her school, and descrying two other
 young persons in need of admonition, she thus bestowed it: ‘Tom Tootle,
-it’s time for a young fellow who’s going to be married next month, to
-be at home and asleep. And you needn’t nudge him, Mr Jack Mullins, for
+it’s [[Time|time]] for a young fellow who’s going to be married next month, to
+be at [[Home|home]] and asleep. And you needn’t nudge him, Mr Jack Mullins, for
 I know your work begins early tomorrow, and I say the same to you.
-So come! Good-night, like good lads!’ Upon which, the blushing Tootle
+So come! Good-[[Night|night]], like good lads!’ Upon which, the blushing Tootle
 looked to Mullins, and the blushing Mullins looked to Tootle, on the
-question who should rise first, and finally both rose together and went
+question who should rise first, and finally both [[Rose|rose]] together and went
 out on the broad grin, followed by Miss Abbey; in whose presence the
 company did not take the liberty of grinning likewise.
 
@@ -260,9 +260,9 @@ hint of the possibility of physical force, thrown out as a matter of
 state and form. Exactly at the closing hour, all the guests who were
 left, filed out in the best order: Miss Abbey standing at the half door
 of the bar, to hold a ceremony of review and dismissal. All wished
-Miss Abbey good-night and Miss Abbey wished good-night to all, except
+Miss Abbey good-[[Night|night]] and Miss Abbey wished good-[[Night|night]] to all, except
 Riderhood. The sapient pot-boy, looking on officially, then had the
-conviction borne in upon his soul, that the man was evermore outcast and
+conviction borne in upon his [[Soul|soul]], that the man was evermore outcast and
 excommunicate from the Six Jolly Fellowship Porters.
 
 ‘You Bob Gliddery,’ said Miss Abbey to this pot-boy, ‘run round to
@@ -270,7 +270,7 @@ Hexam’s and tell his daughter Lizzie that I want to speak to her.’
 
 With exemplary swiftness Bob Gliddery departed, and returned. Lizzie,
 following him, arrived as one of the two female domestics of the
-Fellowship Porters arranged on the snug little table by the bar fire,
+Fellowship Porters arranged on the snug little table by the bar [[Fire|fire]],
 Miss Potterson’s supper of hot sausages and mashed potatoes.
 
 ‘Come in and sit ye down, girl,’ said Miss Abbey. ‘Can you eat a bit?’
@@ -294,15 +294,15 @@ get ye down to your supper.’
 
 With an alacrity that seemed no less referable to the pepperer fact
 than to the supper fact, Bob obeyed, and his boots were heard descending
-towards the bed of the river.
+towards the bed of the [[River|river]].
 
-‘Lizzie Hexam, Lizzie Hexam,’ then began Miss Potterson, ‘how often have
+‘[[Lizzie Hexam]], [[Lizzie Hexam]],’ then began Miss Potterson, ‘how often have
 I held out to you the opportunity of getting clear of your father, and
-doing well?’
+doing [[Well|well]]?’
 
 ‘Very often, Miss.’
 
-‘Very often? Yes! And I might as well have spoken to the iron funnel of
+‘Very often? Yes! And I might as [[Well|well]] have spoken to the iron funnel of
 the strongest sea-going steamer that passes the Fellowship Porters.’
 
 ‘No, Miss,’ Lizzie pleaded; ‘because that would not be thankful, and I
@@ -319,7 +319,7 @@ glance.
 that. I must take you as I find you. Which indeed is what I’ve done. And
 you mean to say you are still obstinate?’
 
-‘Not obstinate, Miss, I hope.’
+‘Not obstinate, Miss, I [[Hope|hope]].’
 
 ‘Firm (I suppose you call it) then?’
 
@@ -327,7 +327,7 @@ you mean to say you are still obstinate?’
 
 ‘Never was an obstinate person yet, who would own to the word!’ remarked
 Miss Potterson, rubbing her vexed nose; ‘I’m sure I would, if I was
-obstinate; but I am a pepperer, which is different. Lizzie Hexam, Lizzie
+obstinate; but I am a pepperer, which is different. [[Lizzie Hexam]], Lizzie
 Hexam, think again. Do you know the worst of your father?’
 
 ‘Do I know the worst of father!’ she repeated, opening her eyes.
@@ -341,10 +341,10 @@ and she slowly cast down her eyes.
 ‘Say, Lizzie. Do you know?’ urged Miss Abbey.
 
 ‘Please to tell me what the suspicions are, Miss,’ she asked after a
-silence, with her eyes upon the ground.
+[[Silence|silence]], with her eyes upon the ground.
 
 ‘It’s not an easy thing to tell a daughter, but it must be told. It is
-thought by some, then, that your father helps to their death a few of
+thought by some, then, that your father helps to their [[Death|death]] a few of
 those that he finds dead.’
 
 The relief of hearing what she felt sure was a false suspicion, in place
@@ -361,7 +361,7 @@ extraordinary quietness!’)
 some one who has a grudge against father; some one who has threatened
 father! Is it Riderhood, Miss?’
 
-‘Well; yes it is.’
+‘[[Well]]; yes it is.’
 
 ‘Yes! He was father’s partner, and father broke with him, and now he
 revenges himself. Father broke with him when I was by, and he was very
@@ -372,18 +372,18 @@ She bent forward to say it in a whisper.
 
 ‘I promise,’ said Miss Abbey.
 
-‘It was on the night when the Harmon murder was found out, through
+‘It was on the [[Night|night]] when the Harmon murder was found out, through
 father, just above bridge. And just below bridge, as we were sculling
-home, Riderhood crept out of the dark in his boat. And many and many
-times afterwards, when such great pains were taken to come to the bottom
+[[Home|home]], Riderhood crept out of the dark in his boat. And many and many
+times afterwards, when such great pains were taken to come to the [[Bottom|bottom]]
 of the crime, and it never could be come near, I thought in my own
 thoughts, could Riderhood himself have done the murder, and did he
-purposely let father find the body? It seemed a’most wicked and cruel
+purposely let father find the [[Body|body]]? It seemed a’most wicked and cruel
 to so much as think such a thing; but now that he tries to throw it upon
-father, I go back to it as if it was a truth. Can it be a truth? That
+father, I go back to it as if it was a [[Truth|truth]]. Can it be a [[Truth|truth]]? That
 was put into my mind by the dead?’
 
-She asked this question, rather of the fire than of the hostess of the
+She asked this question, rather of the [[Fire|fire]] than of the hostess of the
 Fellowship Porters, and looked round the little bar with troubled eyes.
 
 But, Miss Potterson, as a ready schoolmistress accustomed to bring her
@@ -393,7 +393,7 @@ world.
 ‘You poor deluded girl,’ she said, ‘don’t you see that you can’t open
 your mind to particular suspicions of one of the two, without opening
 your mind to general suspicions of the other? They had worked together.
-Their goings-on had been going on for some time. Even granting that it
+Their goings-on had been going on for some [[Time|time]]. Even granting that it
 was as you have had in your thoughts, what the two had done together
 would come familiar to the mind of one.’
 
@@ -401,9 +401,9 @@ would come familiar to the mind of one.’
 you don’t know father.’
 
 ‘Lizzie, Lizzie,’ said Miss Potterson. ‘Leave him. You needn’t break
-with him altogether, but leave him. Do well away from him; not because
-of what I have told you to-night—we’ll pass no judgment upon that,
-and we’ll hope it may not be—but because of what I have urged on you
+with him altogether, but leave him. Do [[Well|well]] away from him; not because
+of what I have told you to-[[Night|night]]—we’ll pass no judgment upon that,
+and we’ll [[Hope|hope]] it may not be—but because of what I have urged on you
 before. No matter whether it’s owing to your good looks or not, I like
 you and I want to serve you. Lizzie, come under my direction. Don’t
 fling yourself away, my girl, but be persuaded into being respectable
@@ -423,29 +423,29 @@ reaction and became frigid.
 your bed, and you must lie on it. But tell your father one thing: he
 must not come here any more.’
 
-‘Oh, Miss, will you forbid him the house where I know he’s safe?’
+‘Oh, Miss, will you forbid him the [[house]] where I know he’s safe?’
 
-‘The Fellowships,’ returned Miss Abbey, ‘has itself to look to, as well
+‘The Fellowships,’ returned Miss Abbey, ‘has itself to look to, as [[Well|well]]
 as others. It has been hard work to establish order here, and make the
 Fellowships what it is, and it is daily and nightly hard work to keep it
 so. The Fellowships must not have a taint upon it that may give it a bad
-name. I forbid the house to Riderhood, and I forbid the house to Gaffer.
+name. I forbid the [[house]] to Riderhood, and I forbid the [[house]] to Gaffer.
 I forbid both, equally. I find from Riderhood and you together, that
 there are suspicions against both men, and I’m not going to take upon
 myself to decide betwixt them. They are both tarred with a dirty brush,
 and I can’t have the Fellowships tarred with the same brush. That’s all
 I know.’
 
-‘Good-night, Miss!’ said Lizzie Hexam, sorrowfully.
+‘Good-[[Night|night]], Miss!’ said [[Lizzie Hexam]], sorrowfully.
 
-‘Hah!—Good-night!’ returned Miss Abbey with a shake of her head.
+‘Hah!—Good-[[Night|night]]!’ returned Miss Abbey with a shake of her head.
 
 ‘Believe me, Miss Abbey, I am truly grateful all the same.’
 
 ‘I can believe a good deal,’ returned the stately Abbey, ‘so I’ll try to
 believe that too, Lizzie.’
 
-No supper did Miss Potterson take that night, and only half her usual
+No supper did Miss Potterson take that [[Night|night]], and only half her usual
 tumbler of hot Port Negus. And the female domestics—two robust sisters,
 with staring black eyes, shining flat red faces, blunt noses, and strong
 black curls, like dolls—interchanged the sentiment that Missis had had
@@ -454,12 +454,12 @@ remarked, that he hadn’t been ‘so rattled to bed’, since his late mother
 had systematically accelerated his retirement to rest with a poker.
 
 The chaining of the door behind her, as she went forth, disenchanted
-Lizzie Hexam of that first relief she had felt. The night was black and
-shrill, the river-side wilderness was melancholy, and there was a sound
+[[Lizzie Hexam]] of that first relief she had felt. The [[Night|night]] was black and
+shrill, the [[River|river]]-side wilderness was [[Melancholy|melancholy]], and there was a sound
 of casting-out, in the rattling of the iron-links, and the grating of
 the bolts and staples under Miss Abbey’s hand. As she came beneath
 the lowering sky, a sense of being involved in a murky shade of Murder
-dropped upon her; and, as the tidal swell of the river broke at her feet
+dropped upon her; and, as the tidal swell of the [[River|river]] broke at her feet
 without her seeing how it gathered, so, her thoughts startled her by
 rushing out of an unseen void and striking at her heart.
 
@@ -470,43 +470,43 @@ Riderhood had done the deed, and entrapped her father. Riderhood had
 not done the deed, but had resolved in his malice to turn against her
 father, the appearances that were ready to his hand to distort. Equally
 and swiftly upon either putting of the case, followed the frightful
-possibility that her father, being innocent, yet might come to be
-believed guilty. She had heard of people suffering Death for bloodshed
+possibility that her father, being [[Innocent|innocent]], yet might come to be
+believed guilty. She had heard of people [[Suffering|suffering]] [[Death]] for bloodshed
 of which they were afterwards proved pure, and those ill-fated persons
 were not, first, in that dangerous wrong in which her father stood. Then
 at the best, the beginning of his being set apart, whispered against,
-and avoided, was a certain fact. It dated from that very night. And as
-the great black river with its dreary shores was soon lost to her view
-in the gloom, so, she stood on the river’s brink unable to see into the
+and avoided, was a certain fact. It dated from that very [[Night|night]]. And as
+the great black [[River|river]] with its dreary shores was soon lost to her view
+in the gloom, so, she stood on the [[River|river]]’s brink unable to see into the
 vast blank misery of a life suspected, and fallen away from by good and
 bad, but knowing that it lay there dim before her, stretching away to
-the great ocean, Death.
+the great ocean, [[Death]].
 
 One thing only, was clear to the girl’s mind. Accustomed from her very
 babyhood promptly to do the thing that could be done—whether to keep
 out weather, to ward off cold, to postpone hunger, or what not—she
-started out of her meditation, and ran home.
+started out of her meditation, and ran [[Home|home]].
 
 The room was quiet, and the lamp burnt on the table. In the bunk in the
 corner, her brother lay asleep. She bent over him softly, kissed him,
 and came to the table.
 
-‘By the time of Miss Abbey’s closing, and by the run of the tide, it
+‘By the [[Time|time]] of Miss Abbey’s closing, and by the run of the tide, it
 must be one. Tide’s running up. Father at Chiswick, wouldn’t think of
 coming down, till after the turn, and that’s at half after four. I’ll
 call Charley at six. I shall hear the church-clocks strike, as I sit
 here.’
 
-Very quietly, she placed a chair before the scanty fire, and sat down in
+Very quietly, she placed a chair before the scanty [[Fire|fire]], and sat down in
 it, drawing her shawl about her.
 
 ‘Charley’s hollow down by the flare is not there now. Poor Charley!’
 
-The clock struck two, and the clock struck three, and the clock struck
+The [[Clock|clock]] struck two, and the [[Clock|clock]] struck three, and the [[Clock|clock]] struck
 four, and she remained there, with a woman’s patience and her own
-purpose. When the morning was well on between four and five, she slipped
+purpose. When the morning was [[Well|well]] on between four and five, she slipped
 off her shoes (that her going about might not wake Charley), trimmed
-the fire sparingly, put water on to boil, and set the table for
+the [[Fire|fire]] sparingly, put [[Water|water]] on to boil, and set the table for
 breakfast. Then she went up the ladder, lamp in hand, and came down
 again, and glided about and about, making a little bundle. Lastly, from
 her pocket, and from the chimney-piece, and from an inverted basin
@@ -520,10 +520,10 @@ startled by:
 ‘You made me jump, Charley.’
 
 ‘Jump! Didn’t you make ME jump, when I opened my eyes a moment ago, and
-saw you sitting there, like the ghost of a girl miser, in the dead of
-the night.’
+saw you sitting there, like the [[Ghost|ghost]] of a girl miser, in the dead of
+the [[Night|night]].’
 
-‘It’s not the dead of the night, Charley. It’s nigh six in the morning.’
+‘It’s not the dead of the [[Night|night]], Charley. It’s nigh six in the morning.’
 
 ‘Is it though? But what are you up to, Liz?’
 
@@ -540,8 +540,8 @@ are you putting that little pile of money by itself for?’
 you.’
 
 Her composed manner, and her low distinct voice, always had an influence
-over him. His head was soon in a basin of water, and out of it again,
-and staring at her through a storm of towelling.
+over him. His head was soon in a basin of [[Water|water]], and out of it again,
+and staring at her through a [[Storm|storm]] of towelling.
 
 ‘I never,’ towelling at himself as if he were his bitterest enemy, ‘saw
 such a girl as you are. What IS the move, Liz?’
@@ -561,7 +561,7 @@ boy completed his dressing, and came and sat down at the little
 breakfast-table, with his eyes amazedly directed to her face.
 
 ‘You see, Charley dear, I have made up my mind that this is the right
-time for your going away from us. Over and above all the blessed change
+[[Time|time]] for your going away from us. Over and above all the blessed change
 of by-and-bye, you’ll be much happier, and do much better, even so soon
 as next month. Even so soon as next week.’
 
@@ -575,7 +575,7 @@ and other such little preparations. ‘You must leave father to me,
 Charley—I will do what I can with him—but you must go.’
 
 ‘You don’t stand upon ceremony, I think,’ grumbled the boy, throwing his
-bread and butter about, in an ill-humour.
+bread and butter about, in an ill-[[Humour|humour]].
 
 She made him no answer.
 
@@ -588,7 +588,7 @@ selfish jade, and that I think there’s not enough for three of us, and
 that I want to get rid of you.’
 
 It was only when the boy rushed at her, and threw his arms round her
-neck, that she lost her self-restraint. But she lost it then, and wept
+neck, that she lost her [[Self|self]]-restraint. But she lost it then, and wept
 over him.
 
 ‘Don’t cry, don’t cry! I am satisfied to go, Liz; I am satisfied to go.
@@ -598,10 +598,10 @@ I know you send me away for my good.’
 
 ‘Yes yes. Don’t mind what I said. Don’t remember it. Kiss me.’
 
-After a silence, she loosed him, to dry her eyes and regain her strong
+After a [[Silence|silence]], she loosed him, to dry her eyes and regain her strong
 quiet influence.
 
-‘Now listen, Charley dear. We both know it must be done, and I alone
+‘Now listen, Charley dear. We both know it must be done, and I [[Alone|alone]]
 know there is good reason for its being done at once. Go straight to the
 school, and say that you and I agreed upon it—that we can’t overcome
 father’s opposition—that father will never trouble them, but will never
@@ -609,7 +609,7 @@ take you back. You are a credit to the school, and you will be a greater
 credit to it yet, and they will help you to get a living. Show what
 clothes you have brought, and what money, and say that I will send some
 more money. If I can get some in no other way, I will ask a little help
-of those two gentlemen who came here that night.’
+of those two gentlemen who came here that [[Night|night]].’
 
 ‘I say!’ cried her brother, quickly. ‘Don’t you have it of that chap
 that took hold of me by the chin! Don’t you have it of that Wrayburn
@@ -619,7 +619,7 @@ Perhaps a slight additional tinge of red flushed up into her face and
 brow, as with a nod she laid a hand upon his lips to keep him silently
 attentive.
 
-‘And above all things mind this, Charley! Be sure you always speak well
+‘And above all things mind this, Charley! Be sure you always speak [[Well|well]]
 of father. Be sure you always give father his full due. You can’t deny
 that because father has no learning himself he is set against it in
 you; but favour nothing else against him, and be sure you say—as you
@@ -627,30 +627,30 @@ know—that your sister is devoted to him. And if you should ever happen
 to hear anything said against father that is new to you, it will not be
 true. Remember, Charley! It will not be true.’
 
-The boy looked at her with some doubt and surprise, but she went on
+The boy looked at her with some [[Doubt|doubt]] and surprise, but she went on
 again without heeding it.
 
 ‘Above all things remember! It will not be true. I have nothing more to
 say, Charley dear, except, be good, and get learning, and only think of
-some things in the old life here, as if you had dreamed them in a dream
-last night. Good-bye, my Darling!’
+some things in the old life here, as if you had dreamed them in [[A Dream|a dream]]
+last [[Night|night]]. Good-bye, my Darling!’
 
-Though so young, she infused in these parting words a love that was far
+Though so young, she infused in these parting words a [[Love|love]] that was far
 more like a mother’s than a sister’s, and before which the boy was quite
 bowed down. After holding her to his breast with a passionate cry, he
 took up his bundle and darted out at the door, with an arm across his
 eyes.
 
-The white face of the winter day came sluggishly on, veiled in a
-frosty mist; and the shadowy ships in the river slowly changed to black
-substances; and the sun, blood-red on the eastern marshes behind dark
+The white face of the [[Winter|winter]] day came sluggishly on, veiled in a
+frosty mist; and the shadowy ships in the [[River|river]] slowly changed to black
+substances; and the sun, [[Blood|blood]]-red on the eastern marshes behind dark
 masts and yards, seemed filled with the ruins of a forest it had set on
-fire. Lizzie, looking for her father, saw him coming, and stood upon the
+[[Fire|fire]]. Lizzie, looking for her father, saw him coming, and stood upon the
 causeway that he might see her.
 
 He had nothing with him but his boat, and came on apace. A knot of those
 amphibious human-creatures who appear to have some mysterious power
-of extracting a subsistence out of tidal water by looking at it, were
+of extracting a subsistence out of tidal [[Water|water]] by looking at it, were
 gathered together about the causeway. As her father’s boat grounded,
 they became contemplative of the mud, and dispersed themselves. She saw
 that the mute avoidance had begun.
@@ -660,22 +660,22 @@ shore, to stare around him. But, he promptly set to work to haul up his
 boat, and make her fast, and take the sculls and rudder and rope out of
 her. Carrying these with Lizzie’s aid, he passed up to his dwelling.
 
-‘Sit close to the fire, father, dear, while I cook your breakfast.
+‘Sit close to the [[Fire|fire]], father, dear, while I cook your breakfast.
 It’s all ready for cooking, and only been waiting for you. You must be
 frozen.’
 
-‘Well, Lizzie, I ain’t of a glow; that’s certain. And my hands seem
+‘[[Well]], Lizzie, I ain’t of a glow; that’s certain. And my hands seem
 nailed through to the sculls. See how dead they are!’ Something
 suggestive in their colour, and perhaps in her face, struck him as he
-held them up; he turned his shoulder and held them down to the fire.
+held them up; he turned his shoulder and held them down to the [[Fire|fire]].
 
-‘You were not out in the perishing night, I hope, father?’
+‘You were not out in the perishing [[Night|night]], I [[Hope|hope]], father?’
 
-‘No, my dear. Lay aboard a barge, by a blazing coal-fire.—Where’s that
+‘No, my dear. Lay aboard a barge, by a blazing coal-[[Fire|fire]].—Where’s that
 boy?’
 
 ‘There’s a drop of brandy for your tea, father, if you’ll put it in
-while I turn this bit of meat. If the river was to get frozen, there
+while I turn this bit of meat. If the [[River|river]] was to get frozen, there
 would be a deal of distress; wouldn’t there, father?’
 
 ‘Ah! there’s always enough of that,’ said Gaffer, dropping the liquor
@@ -684,7 +684,7 @@ might seem more; ‘distress is for ever a going about, like sut in the
 air—Ain’t that boy up yet?’
 
 ‘The meat’s ready now, father. Eat it while it’s hot and comfortable.
-After you have finished, we’ll turn round to the fire and talk.’
+After you have finished, we’ll turn round to the [[Fire|fire]] and talk.’
 
 But, he perceived that he was evaded, and, having thrown a hasty angry
 glance towards the bunk, plucked at a corner of her apron and asked:
@@ -712,7 +712,7 @@ to be a burden on you, he gradually made up his mind to go seek his
 fortune out of learning. He went away this morning, father, and he cried
 very much at going, and he hoped you would forgive him.’
 
-‘Let him never come a nigh me to ask me my forgiveness,’ said the
+‘Let him never come a nigh me to ask me my [[Forgiveness|forgiveness]],’ said the
 father, again emphasizing his words with the knife. ‘Let him never come
 within sight of my eyes, nor yet within reach of my arm. His own father
 ain’t good enough for him. He’s disowned his own father. His own father
@@ -752,14 +752,14 @@ knife?’
 
 ‘What should I hurt?’
 
-‘Nothing, dear father. On my knees, I am certain, in my heart and soul
+‘Nothing, dear father. On my knees, I am certain, in my heart and [[Soul|soul]]
 I am certain, nothing! But it was too dreadful to bear; for it looked—’
 her hands covering her face again, ‘O it looked—’
 
 ‘What did it look like?’
 
 The recollection of his murderous figure, combining with her trial of
-last night, and her trial of the morning, caused her to drop at his
+last [[Night|night]], and her trial of the morning, caused her to drop at his
 feet, without having answered.
 
 He had never seen her so before. He raised her with the utmost
@@ -772,8 +772,8 @@ out at the door.
 
 He returned as hurriedly as he had gone, with the bottle still empty.
 He kneeled down by her, took her head on his arm, and moistened her lips
-with a little water into which he dipped his fingers: saying, fiercely,
+with a little [[Water|water]] into which he dipped his fingers: saying, fiercely,
 as he looked around, now over this shoulder, now over that:
 
-‘Have we got a pest in the house? Is there summ’at deadly sticking to my
+‘Have we got a pest in the [[house]]? Is there summ’at deadly sticking to my
 clothes? What’s let loose upon us? Who loosed it?’

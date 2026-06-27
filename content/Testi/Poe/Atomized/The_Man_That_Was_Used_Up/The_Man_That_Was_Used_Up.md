@@ -1,5 +1,5 @@
 ---
-title: "The Man That Was Used Up"
+title: "[[The Man That Was Used Up]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Man-That-Was-Used-Up-(Poe)"
@@ -31,19 +31,19 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       acquaintance of that truly fine-looking fellow, Brevet Brigadier
 
-      General John A. B. C. Smith. Some one _did_ introduce me to the
+      General John A. B. C. [[smith|Smith]]. Some one _did_ introduce me to the
 
       gentleman, I am sure—at some public meeting, I know very
 
-      well—held about something of great importance, no doubt—at some
+      [[Well|well]]—held about something of great importance, no [[Doubt|doubt]]—at some
 
       place or other, I feel convinced,—whose name I have unaccountably
 
-      forgotten. The truth is—that the introduction was attended, upon
+      forgotten. The [[Truth|truth]] is—that the introduction was attended, upon
 
       my part, with a degree of anxious embarrassment which operated to
 
-      prevent any definite impressions of either time or place. I am
+      prevent any definite impressions of either [[Time|time]] or place. I am
 
       constitutionally nervous—this, with me, is a family failing, and
 
@@ -67,11 +67,11 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       whole man, which spoke of high breeding, and hinted at high
 
-      birth. Upon this topic—the topic of Smith’s personal appearance—I
+      birth. Upon this topic—the topic of [[smith|Smith]]’s personal appearance—I
 
-      have a kind of melancholy satisfaction in being minute. His head
+      have a kind of [[Melancholy|melancholy]] satisfaction in being minute. His head
 
-      of hair would have done honor to a Brutus; nothing could be more
+      of hair would have done honor to a [[Brutus]]; nothing could be more
 
       richly flowing, or possess a brighter gloss. It was of a jetty
 
@@ -115,7 +115,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       of conscious inferiority into the countenance of the marble
 
-      Apollo. I have a passion for fine shoulders, and may say that I
+      [[Apollo]]. I have a passion for fine shoulders, and may say that I
 
       never beheld them in perfection before. The arms altogether were
 
@@ -137,7 +137,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       Chiponchipino, the sculptor, had but seen the legs of Brevet
 
-      Brigadier General John A. B. C. Smith.
+      Brigadier General John A. B. C. [[smith|Smith]].
 
 
 
@@ -175,7 +175,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      The kind friend who presented me to General Smith whispered in my
+      The kind friend who presented me to General [[smith|Smith]] whispered in my
 
       ear some few words of comment upon the man. He was a _remarkable_
 
@@ -183,13 +183,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       men of the age. He was an especial favorite, too, with the
 
-      ladies—chiefly on account of his high reputation for courage.
+      ladies—chiefly on account of his high reputation for [[Courage|courage]].
 
 
 
       “In _that_ point he is unrivalled—indeed he is a perfect
 
-      desperado—a down-right fire-eater, and no mistake,” said my
+      desperado—a down-right [[Fire|fire]]-eater, and no mistake,” said my
 
       friend, here dropping his voice excessively low, and thrilling me
 
@@ -197,13 +197,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “A downright fire-eater, and _no_ mistake. Showed _that_, I
+      “A downright [[Fire|fire]]-eater, and _no_ mistake. Showed _that_, I
 
       should say, to some purpose, in the late tremendous swamp-fight
 
       away down South, with the Bugaboo and Kickapoo Indians.” [Here my
 
-      friend opened his eyes to some extent.] “Bless my soul!—blood and
+      friend opened his eyes to some extent.] “Bless my [[Soul|soul]]!—[[Blood|blood]] and
 
       thunder, and all that!—_prodigies_ of valor!—heard of him of
 
@@ -227,13 +227,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       whispers and insinuations aforesaid, my interest had been greatly
 
-      excited in the hero of the Bugaboo and Kickapoo campaign.
+      excited in the [[Hero|hero]] of the Bugaboo and Kickapoo campaign.
 
 
 
       However, the delightfully luminous conversation of Brevet
 
-      Brigadier General John A. B. C. Smith soon completely dissipated
+      Brigadier General John A. B. C. [[smith|Smith]] soon completely dissipated
 
       this chagrin. My friend leaving us immediately, we had quite a
 
@@ -251,7 +251,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       sense of delicacy forbade me to broach the subject; although, in
 
-      truth, I was exceedingly tempted to do so. I perceived, too, that
+      [[Truth|truth]], I was exceedingly tempted to do so. I perceived, too, that
 
       the gallant soldier preferred topics of philosophical interest,
 
@@ -267,13 +267,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       wonderful people, and live in a wonderful age. Parachutes and
 
-      rail-roads—man-traps and spring-guns! Our steam-boats are upon
+      rail-roads—man-traps and [[Spring|spring]]-guns! Our steam-boats are upon
 
       every sea, and the Nassau balloon packet is about to run regular
 
       trips (fare either way only twenty pounds sterling) between
 
-      London and Timbuctoo. And who shall calculate the immense
+      [[London]] and Timbuctoo. And who shall calculate the immense
 
       influence upon social life—upon arts—upon commerce—upon
 
@@ -299,7 +299,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       Thompson, to be sure, is not my name; but it is needless to say
 
-      that I left General Smith with a heightened interest in the man,
+      that I left General [[smith|Smith]] with a heightened interest in the man,
 
       with an exalted opinion of his conversational powers, and a deep
 
@@ -325,7 +325,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       occurred at the Church of the Reverend Doctor Drummummupp, where
 
-      I found myself established, one Sunday, just at sermon time, not
+      I found myself established, one [[Sunday]], just at sermon [[Time|time]], not
 
       only in the pew, but by the side, of that worthy and
 
@@ -335,7 +335,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       flattering state of affairs. If any person knew anything about
 
-      Brevet Brigadier General John A. B. C. Smith, that person, it was
+      Brevet Brigadier General John A. B. C. [[smith|Smith]], that person, it was
 
       clear to me, was Miss Tabitha T. We telegraphed a few signals,
 
@@ -343,17 +343,17 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Smith!” said she, in reply to my very earnest inquiry;
+      “[[smith|Smith]]!” said she, in reply to my very earnest inquiry;
 
-      “Smith!—why, not General John A. B. C.? Bless me, I thought you
+      “[[smith|Smith]]!—why, not General John A. B. C.? Bless me, I thought you
 
       _knew_ all about _him!_ This is a wonderfully inventive age!
 
       Horrid affair that!—a bloody set of wretches, those
 
-      Kickapoos!—fought like a hero—prodigies of valor—immortal renown.
+      Kickapoos!—fought like a [[Hero|hero]]—prodigies of valor—immortal renown.
 
-      Smith!—Brevet Brigadier General John A. B. C.! why, you know he’s
+      [[smith|Smith]]!—Brevet Brigadier General John A. B. C.! why, you know he’s
 
       the man—”
 
@@ -363,7 +363,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       and with a thump that came near knocking the pulpit about our
 
-      ears—“man that is born of a woman hath but a short time to live;
+      ears—“man that is born of a woman hath but a short [[Time|time]] to live;
 
       he cometh up and is cut down like a flower!” I started to the
 
@@ -375,7 +375,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       There was no help for it; so I submitted with a good grace, and
 
-      listened, in all the martyrdom of dignified silence, to the
+      listened, in all the [[Martyrdom|martyrdom]] of dignified [[Silence|silence]], to the
 
       balance of that very capital discourse.
 
@@ -387,11 +387,11 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       merely stepping into the box of those exquisite specimens of
 
-      affability and omniscience, the Misses Arabella and Miranda
+      affability and omniscience, the Misses Arabella and [[Miranda]]
 
-      Cognoscenti. That fine tragedian, Climax, was doing Iago to a
+      Cognoscenti. That fine tragedian, Climax, was doing [[Iago]] to a
 
-      very crowded house, and I experienced some little difficulty in
+      very crowded [[house]], and I experienced some little difficulty in
 
       making my wishes understood; especially, as our box was next the
 
@@ -399,13 +399,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Smith!” said Miss Arabella, as she at length comprehended the
+      “[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
 
-      purport of my query; “Smith!—why, not General John A. B. C.?”
+      purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
 
 
 
-      “Smith!” inquired Miranda, musingly. “God bless me, did you ever
+      “[[smith|Smith]]!” inquired [[Miranda]], musingly. “God bless me, did you ever
 
       behold a finer figure?”
 
@@ -441,17 +441,17 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Smith!” said she, “why, not General John A. B. C.? Horrid affair
+      “[[smith|Smith]]!” said she, “why, not General John A. B. C.? Horrid affair
 
       that, wasn’t it?—great wretches, those Bugaboos—savage and so
 
-      on—but we live in a wonderfully inventive age!—Smith!—O yes!
+      on—but we live in a wonderfully inventive age!—[[smith|Smith]]!—O yes!
 
       great man!—perfect desperado!—immortal renown!—prodigies of
 
       valor! _Never heard!_” [This was given in a scream.] “Bless my
 
-      soul! why, he’s the man—”
+      [[Soul|soul]]! why, he’s the man—”
 
 
 
@@ -459,7 +459,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
      Nor all the drowsy syrups of the world
 
-     Shall ever medicine thee to that sweet sleep
+     Shall ever medicine thee to that sweet [[Sleep|sleep]]
 
      Which thou owd’st yesterday!”
 
@@ -467,13 +467,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       here roared our Climax just in my ear, and shaking his fist in my
 
-      face all the time, in a way that I _couldn’t_ stand, and I
+      face all the [[Time|time]], in a way that I _couldn’t_ stand, and I
 
       _wouldn’t_. I left the Misses Cognoscenti immediately, went
 
       behind the scenes forthwith, and gave the beggarly scoundrel such
 
-      a thrashing as I trust he will remember to the day of his death.
+      a thrashing as I trust he will remember to the day of his [[Death|death]].
 
 
 
@@ -491,7 +491,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Smith!” said my partner, “why, not General John A. B. C.? Horrid
+      “[[smith|Smith]]!” said my partner, “why, not General John A. B. C.? Horrid
 
       affair that, wasn’t it?—diamonds, did you say?—terrible wretches
 
@@ -501,7 +501,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       _the_ age, one may say—_the_ age _par excellence_—speak
 
-      French?—oh, quite a hero—perfect desperado!—_no hearts_, Mr.
+      French?—oh, quite a [[Hero|hero]]—perfect desperado!—_no hearts_, Mr.
 
       Tattle? I don’t believe it.—immortal renown and all
 
@@ -527,7 +527,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       that evening in regard to Brevet Brigadier General John A. B. C.
 
-      Smith.
+      [[smith|Smith]].
 
 
 
@@ -541,21 +541,21 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Smith!” said Mrs. P., as we twirled about together in a _pas de
+      “[[smith|Smith]]!” said Mrs. P., as we twirled about together in a _pas de
 
-      zephyr_, “Smith!—why, not General John A. B. C.? Dreadful
+      zephyr_, “[[smith|Smith]]!—why, not General John A. B. C.? Dreadful
 
       business that of the Bugaboos, wasn’t it?—dreadful creatures,
 
       those Indians!—_do_ turn out your toes! I really am ashamed of
 
-      you—man of great courage, poor fellow!—but this is a wonderful
+      you—man of great [[Courage|courage]], poor fellow!—but this is a wonderful
 
       age for invention—O dear me, I’m out of breath—quite a
 
       desperado—prodigies of valor—_never heard!_—can’t believe it—I
 
-      shall have to sit down and enlighten you—Smith! why, he’s the
+      shall have to sit down and enlighten you—[[smith|Smith]]! why, he’s the
 
       man—”
 
@@ -579,7 +579,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       means Man-_Fred_, yet when I returned to seek Mrs. Pirouette she
 
-      was not to be discovered, and I made my retreat from the house in
+      was not to be discovered, and I made my retreat from the [[house]] in
 
       a very bitter spirit of animosity against the whole race of the
 
@@ -597,9 +597,9 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Smith!” said he, in his well-known peculiar way of drawling out
+      “[[smith|Smith]]!” said he, in his [[Well|well]]-known peculiar way of drawling out
 
-      his syllables; “Smith!—why, not General John A. B. C.? Savage
+      his syllables; “[[smith|Smith]]!—why, not General John A. B. C.? Savage
 
       affair that with the Kickapo-o-o-os, wasn’t it? Say! don’t you
 
@@ -615,9 +615,9 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Hem!—oh well!—quite _la même cho-o-ose_, as we say in France.
+      “Hem!—oh [[Well|well]]!—quite _la même cho-o-ose_, as we say in France.
 
-      Smith, eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
+      [[smith|Smith]], eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
 
       thought proper to put his finger to the side of his nose]—“I say,
 
@@ -625,7 +625,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       conscientiously, that you don’t know all about that affair of
 
-      Smith’s, as well as I do, eh? Smith? John A—B—C.? Why, bless me,
+      [[smith|Smith]]’s, as [[Well|well]] as I do, eh? [[smith|Smith]]? John A—B—C.? Why, bless me,
 
       he’s the ma-a-an—”
 
@@ -643,7 +643,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       This reply I considered a pointed and positive insult, and so
 
-      left the house at once in high dudgeon, with a firm resolve to
+      left the [[house]] at once in high dudgeon, with a firm resolve to
 
       call my friend, Mr. Sinivate, to a speedy account for his
 
@@ -719,7 +719,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       an arm-chair, and, with staring eyes and open mouth, awaited the
 
-      solution of the wonder.
+      solution of the [[Wonder|wonder]].
 
 
 
@@ -735,9 +735,9 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Strange you shouldn’t know me, though, isn’t it? Pompey, bring
+      “Strange you shouldn’t know me, though, isn’t it? [[Pompey]], bring
 
-      me that leg!” Here Pompey handed the bundle, a very capital cork
+      me that leg!” Here [[Pompey]] handed the bundle, a very capital cork
 
       leg, already dressed, which it screwed on in a trice; and then it
 
@@ -749,7 +749,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       soliloquy; “but then one mustn’t fight with the Bugaboos and
 
-      Kickapoos, and think of coming off with a mere scratch. Pompey,
+      Kickapoos, and think of coming off with a mere scratch. [[Pompey]],
 
       I’ll thank you now for that arm. Thomas” [turning to me] “is
 
@@ -757,7 +757,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       want an arm, my dear fellow, you must really let me recommend you
 
-      to Bishop.” Here Pompey screwed on an arm.
+      to Bishop.” Here [[Pompey]] screwed on an arm.
 
 
 
@@ -773,7 +773,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Pompey, will you _never_ be ready with that wig? Scalping is a
+      “[[Pompey]], will you _never_ be ready with that wig? Scalping is a
 
       rough process after all; but then you can procure such a capital
 
@@ -799,13 +799,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “O yes, by-the-by, my eye—here, Pompey, you scamp, screw it in !
+      “O yes, by-the-by, my eye—here, [[Pompey]], you scamp, screw it in !
 
       Those Kickapoos are not so very slow at a gouge; but he’s a
 
       belied man, that Dr. Williams, after all; you can’t imagine how
 
-      well I see with the eyes of his make.”
+      [[Well|well]] I see with the eyes of his make.”
 
 
 
@@ -813,9 +813,9 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       was nothing more nor less than my new acquaintance, Brevet
 
-      Brigadier General John A. B. C. Smith. The manipulations of
+      Brigadier General John A. B. C. [[smith|Smith]]. The manipulations of
 
-      Pompey had made, I must confess, a very striking difference in
+      [[Pompey]] had made, I must confess, a very striking difference in
 
       the appearance of the personal man. The voice, however, still
 
@@ -825,7 +825,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “Pompey, you black rascal,” squeaked the General, “I really do
+      “[[Pompey]], you black rascal,” squeaked the General, “I really do
 
       believe you would let me go out without my palate.”
 
@@ -833,9 +833,9 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       Hereupon, the negro, grumbling out an apology, went up to his
 
-      master, opened his mouth with the knowing air of a horse-jockey,
+      master, opened his mouth with the knowing air of a [[Horse|horse]]-jockey,
 
-      and adjusted therein a somewhat singular-looking machine, in a
+      and adjusted therein a somewhat singular-looking [[Machine|machine]], in a
 
       very dexterous manner, that I could not altogether comprehend.
 
@@ -857,7 +857,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       off at least seven-eighths of my tongue. There isn’t Bonfanti’s
 
-      equal, however, in America, for really good articles of this
+      equal, however, in [[America]], for really good articles of this
 
       description. I can recommend you to him with confidence,” [here
 
@@ -875,6 +875,6 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       troubled me so long. It was evident. It was a clear case. Brevet
 
-      Brigadier General John A. B. C. Smith was the man—was _the man
+      Brigadier General John A. B. C. [[smith|Smith]] was the man—was _the man
 
       that was used up_.

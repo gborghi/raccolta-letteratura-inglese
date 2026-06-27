@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 21 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 21 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -70,7 +70,7 @@ up with one another. As it was impossible, however, now to prevent
 
 their coming, Lady Middleton resigned herself to the idea of it, with
 
-all the philosophy of a well-bred woman, contenting herself with merely
+all the [[philosophy]] of a [[Well|well]]-bred woman, contenting herself with merely
 
 giving her husband a gentle reprimand on the subject five or six times
 
@@ -82,7 +82,7 @@ The young ladies arrived: their appearance was by no means ungenteel or
 
 unfashionable. Their dress was very smart, their manners very civil,
 
-they were delighted with the house, and in raptures with the furniture,
+they were delighted with the [[house]], and in raptures with the furniture,
 
 and they happened to be so doatingly fond of children that Lady
 
@@ -92,7 +92,7 @@ been an hour at the Park. She declared them to be very agreeable girls
 
 indeed, which for her ladyship was enthusiastic admiration. Sir John’s
 
-confidence in his own judgment rose with this animated praise, and he
+confidence in his own judgment [[Rose|rose]] with this animated praise, and he
 
 set off directly for the cottage to tell the Miss Dashwoods of the Miss
 
@@ -100,7 +100,7 @@ Steeles’ arrival, and to assure them of their being the sweetest girls
 
 in the world. From such commendation as this, however, there was not
 
-much to be learned; Elinor well knew that the sweetest girls in the
+much to be learned; Elinor [[Well|well]] knew that the sweetest girls in the
 
 world were to be met with in every part of England, under every
 
@@ -130,7 +130,7 @@ very true, and a great deal more. You will be delighted with them I am
 
 sure. They have brought the whole coach full of playthings for the
 
-children. How can you be so cross as not to come? Why they are your
+children. How can you be so [[Cross|cross]] as not to come? Why they are your
 
 cousins, you know, after a fashion. _You_ are my cousins, and they are
 
@@ -142,7 +142,7 @@ But Sir John could not prevail. He could only obtain a promise of their
 
 calling at the Park within a day or two, and then left them in
 
-amazement at their indifference, to walk home and boast anew of their
+amazement at their indifference, to walk [[Home|home]] and boast anew of their
 
 attractions to the Miss Steeles, as he had been already boasting of the
 
@@ -158,7 +158,7 @@ eldest, who was nearly thirty, with a very plain and not a sensible
 
 face, nothing to admire; but in the other, who was not more than two or
 
-three and twenty, they acknowledged considerable beauty; her features
+three and twenty, they acknowledged considerable [[Beauty|beauty]]; her features
 
 were pretty, and she had a sharp quick eye, and a smartness of air,
 
@@ -172,9 +172,9 @@ constant and judicious attention they were making themselves agreeable
 
 to Lady Middleton. With her children they were in continual raptures,
 
-extolling their beauty, courting their notice, and humouring their
+extolling their [[Beauty|beauty]], courting their notice, and humouring their
 
-whims; and such of their time as could be spared from the importunate
+whims; and such of their [[Time|time]] as could be spared from the importunate
 
 demands which this politeness made on it, was spent in admiration of
 
@@ -184,15 +184,15 @@ or in taking patterns of some elegant new dress, in which her
 
 appearance the day before had thrown them into unceasing delight.
 
-Fortunately for those who pay their court through such foibles, a fond
+Fortunately for those who pay their [[Court|court]] through such foibles, a fond
 
 mother, though, in pursuit of praise for her children, the most
 
 rapacious of human beings, is likewise the most credulous; her demands
 
-are exorbitant; but she will swallow any thing; and the excessive
+are exorbitant; but she will [[Swallow|swallow]] any thing; and the excessive
 
-affection and endurance of the Miss Steeles towards her offspring were
+affection and [[Endurance|endurance]] of the Miss Steeles towards her offspring were
 
 viewed therefore by Lady Middleton without the smallest surprise or
 
@@ -204,4 +204,4 @@ She saw their sashes untied, their hair pulled about their ears, their
 
 work-bags searched, and their knives and scissors stolen away, and felt
 
-no doubt of its being a reciprocal enjoyment. It suggested no other
+no [[Doubt|doubt]] of its being a reciprocal enjoyment. It suggested no other

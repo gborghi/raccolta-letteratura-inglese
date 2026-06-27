@@ -18,7 +18,7 @@ WHAT WAS RATIONALISM?
 
 What Rationalism really was and (in some corners) still is,
 is substantially this:  It was a premature synthesis.
-It was not the opening of the house of reason, but the
+It was not the opening of the [[house]] of reason, but the
 impatient closing of it.  It did not open the human head
 like a new hotel.  It shut the human head like a packed bag.
 I call it the Victorian Compromise because it put in the bag
@@ -31,10 +31,10 @@ And the result on which I want specially to insist was this;
 that this false finality of the reason has left behind
 it a prolonged and increasing torture to the instincts.
 That is what I mean when I say that Dickens rebelled against it
-ignorantly and by the light of nature.  That is why the war against it
+ignorantly and by the light of [[Nature|nature]].  That is why the war against it
 was a war of poets, sometimes as irrational as a war of criminals.
 Ever since Rationalism became the rule, the mysterious thing
-called human nature has scratched like a cat in a cupboard.
+called human [[Nature|nature]] has scratched like a cat in a cupboard.
 ... The Rationalist was pursued by enemies, blind but strong;
 the most terrible enemies a man has--the things he has forgotten.
 

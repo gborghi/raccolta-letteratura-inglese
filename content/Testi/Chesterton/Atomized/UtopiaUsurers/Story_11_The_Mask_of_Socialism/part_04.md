@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 4)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -16,17 +16,17 @@ tags:
 
 thing, I think, I can venture to promise; the banker would not march up
 
-and down the office exclaiming in rapture, "I'm a rebel! That's what I
+and down the office exclaiming in rapture, "I'm a [[Rebel|rebel]]! That's what I
 
-am, a rebel!" And if he said to the first indignant depositor "You are
+am, a [[Rebel|rebel]]!" And if he said to the first indignant depositor "You are
 
-a rebel," I fear the depositor might answer, "You are a robber." We have
+a [[Rebel|rebel]]," I [[Fear|fear]] the depositor might answer, "You are a robber." We have
 
 no need to elaborate arguments for breaking the law. The capitalists
 
 have broken the law. We have no need of further moralities. They have
 
-broken their own morality. It is as if you were to run down the street
+broken their own [[morality]]. It is as if you were to run down the street
 
 shouting, "Communism! Communism! Share! Share!" after a man who had run
 
@@ -88,15 +88,15 @@ a Socialist; therefore there was some use in the word. But the
 
 capitalists, in that aggressive march which is the main fact of our
 
-time, have captured our standards, both in the military and philosophic
+[[Time|time]], have captured our standards, both in the military and philosophic
 
 sense of the word. And it is useless for us to march under colours which
 
-they can carry as well as we.
+they can carry as [[Well|well]] as we.
 
 
 
-Do you believe in Democracy? The devils also believe and tremble. Do you
+Do you believe in [[Democracy]]? The devils also believe and tremble. Do you
 
 believe in Trades Unionism? The Labour Members also believe; and tremble
 
@@ -108,7 +108,7 @@ did Beit. Do you believe in the decentralisation of Empire? So does
 
 Albu. Do you believe in the brotherhood of men: and do you, dear
 
-brethren, believe that Brother Arthur Henderson does not? Do you cry,
+brethren, believe that Brother [[arthur|Arthur]] Henderson does not? Do you cry,
 
 "The world for the workers!" and do you imagine Philip Snowden would
 
@@ -134,15 +134,15 @@ godmothers.
 
 
 
-A WORKMAN'S HISTORY OF ENGLAND
+A WORKMAN'S [[history|HISTORY]] OF ENGLAND
 
 
 
 A thing which does not exist and which is very much wanted is "A
 
-Working-Man's History of England." I do not mean a history written
+Working-Man's [[history|History]] of England." I do not mean a [[history]] written
 
-for working men (there are whole dustbins of them), I mean a history,
+for working men (there are whole dustbins of them), I mean a [[history]],
 
 written by working men or from the working men's standpoint. I wish five
 
@@ -154,9 +154,9 @@ in one man and tell the story.
 
 It is impossible to ignore altogether any comment coming from so eminent
 
-a literary artist as Mr. Laurence Housman, but I do not deal here so
+a literary [[Artist|artist]] as Mr. Laurence Housman, but I do not deal here so
 
-specially with his well known conviction about Votes for Women, as with
+specially with his [[Well|well]] known conviction about Votes for Women, as with
 
 another idea which is, I think, rather at the back of it, if not with
 
@@ -164,7 +164,7 @@ him at least with others; and which concerns this matter of the true
 
 story of England. For the true story is so entirely different from the
 
-false official story that the official classes tell that by this time
+false official story that the official classes tell that by this [[Time|time]]
 
 the working class itself has largely forgotten its own experience.
 
@@ -180,15 +180,15 @@ with Female Suffrage or not.
 
 
 
-Now the ordinary version of recent English history that most moderately
+Now the ordinary version of recent English [[history]] that most moderately
 
-educated people have absorbed from childhood is something like this.
+educated people have absorbed from [[Childhood|childhood]] is something like this.
 
 That we emerged slowly from a semi-barbarism in which all the power
 
-and wealth were in the hands of Kings and a few nobles; that the King's
+and wealth were in the hands of Kings and a few nobles; that the [[King]]'s
 
-power was broken first and then in due time that of the nobles, that
+power was broken first and then in due [[Time|time]] that of the nobles, that
 
 this piece-meal improvement was brought about by one class after
 
@@ -200,7 +200,7 @@ consequence of such menacing popular action, the franchise was granted
 
 to one class after another and used more and more to improve the social
 
-conditions of those classes, until we practically became a democracy,
+conditions of those classes, until we practically became a [[Democracy|democracy]],
 
 save for such exceptions as that of the women. I do not think anyone
 
@@ -210,15 +210,15 @@ man who reads a newspaper and of the newspaper that he reads. That
 
 is the view current at public schools and colleges; it is part of the
 
-culture of all the classes that count for much in government; and there
+culture of all the classes that count for much in [[government]]; and there
 
-is not one word of truth in it from beginning to end.
-
-
+is not one word of [[Truth|truth]] in it from beginning to end.
 
 
 
-That Great Reform Bill
+
+
+That Great [[Reform]] Bill
 
 
 

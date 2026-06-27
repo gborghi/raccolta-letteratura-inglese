@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 5 (part 3)"
+title: "[[Emma]] — Chapter 5 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-“Pray, Emma,” said he, “may I ask in what lay the great amusement, the
+“Pray, [[Emma]],” said he, “may I ask in what lay the great amusement, the
 poignant sting of the last word given to you and Miss Fairfax? I saw
 the word, and am curious to know how it could be so very entertaining
 to the one, and so very distressing to the other.”
 
-Emma was extremely confused. She could not endure to give him the true
+[[Emma]] was extremely confused. She could not endure to give him the true
 explanation; for though her suspicions were by no means removed, she
 was really ashamed of having ever imparted them.
 
@@ -31,21 +31,21 @@ Churchill.”
 
 He had hoped she would speak again, but she did not. She would rather
 busy herself about any thing than speak. He sat a little while in
-doubt. A variety of evils crossed his mind. Interference—fruitless
-interference. Emma’s confusion, and the acknowledged intimacy, seemed
+[[Doubt|doubt]]. A variety of evils crossed his mind. Interference—fruitless
+interference. [[Emma]]’s confusion, and the acknowledged intimacy, seemed
 to declare her affection engaged. Yet he would speak. He owed it to
 her, to risk any thing that might be involved in an unwelcome
 interference, rather than her welfare; to encounter any thing, rather
 than the remembrance of neglect in such a cause.
 
-“My dear Emma,” said he at last, with earnest kindness, “do you think
+“My dear [[Emma]],” said he at last, with earnest kindness, “do you think
 you perfectly understand the degree of acquaintance between the
 gentleman and lady we have been speaking of?”
 
-“Between Mr. Frank Churchill and Miss Fairfax? Oh! yes, perfectly.—Why
-do you make a doubt of it?”
+“Between Mr. [[Frank Churchill]] and Miss Fairfax? Oh! yes, perfectly.—Why
+do you make a [[Doubt|doubt]] of it?”
 
-“Have you never at any time had reason to think that he admired her, or
+“Have you never at any [[Time|time]] had reason to think that he admired her, or
 that she admired him?”
 
 “Never, never!” she cried with a most open eagerness—“Never, for the
@@ -57,11 +57,11 @@ them—certain expressive looks, which I did not believe meant to be
 public.”
 
 “Oh! you amuse me excessively. I am delighted to find that you can
-vouchsafe to let your imagination wander—but it will not do—very sorry
-to check you in your first essay—but indeed it will not do. There is no
+vouchsafe to let your [[Imagination|imagination]] wander—but it will not do—very sorry
+to check you in your first [[Essay|essay]]—but indeed it will not do. There is no
 admiration between them, I do assure you; and the appearances which
 have caught you, have arisen from some peculiar circumstances—feelings
-rather of a totally different nature—it is impossible exactly to
+rather of a totally different [[Nature|nature]]—it is impossible exactly to
 explain:—there is a good deal of nonsense in it—but the part which is
 capable of being communicated, which is sense, is, that they are as far
 from any attachment or admiration for one another, as any two beings in
@@ -76,6 +76,6 @@ suspicions, every look described, and all the wheres and hows of a
 circumstance which highly entertained her: but his gaiety did not meet
 hers. He found he could not be useful, and his feelings were too much
 irritated for talking. That he might not be irritated into an absolute
-fever, by the fire which Mr. Woodhouse’s tender habits required almost
+fever, by the [[Fire|fire]] which Mr. Woodhouse’s tender habits required almost
 every evening throughout the year, he soon afterwards took a hasty
-leave, and walked home to the coolness and solitude of Donwell Abbey.
+leave, and walked [[Home|home]] to the coolness and [[Solitude|solitude]] of Donwell Abbey.

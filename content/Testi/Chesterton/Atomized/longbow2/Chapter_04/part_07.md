@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 4 (part 7)"
+title: "[[longbow2]] — Chapter 4 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -23,9 +23,9 @@ and a monkey, and a baby, and a good many other things that Snowdrop
 might possibly be.  But we never thought of the interpretation
 which was the first to occur to the lady."
 
-There was silence, and then Crane laughed in an internal fashion.
+There was [[Silence|silence]], and then Crane laughed in an internal fashion.
 
-"Well, I don't blame her," he said.  "One could hardly expect
+"[[Well]], I don't blame her," he said.  "One could hardly expect
 a lady of any delicacy to deduce an elephant."
 
 "It's an extraordinary business, when you come to think of it,"
@@ -60,8 +60,8 @@ without knowing it?"
 
 "Yes," replied Hood.  "You remember when you were smuggling pigs
 in defiance of the regulations, you indulged (I regret to say)
-in a deception of putting them in cages and pretending you were
-travelling with a menagerie of dangerous animals.  The consequence was,
+in a [[Deception|deception]] of putting them in cages and pretending you were
+travelling with a menagerie of dangerous [[Animals|animals]].  The consequence was,
 you remember, that the authorities forbade menageries altogether. 
 Our friend White took up the case of a travelling circus being
 stopped in his town as a case of gross oppression; and when they
@@ -73,7 +73,7 @@ had to break it up, he took over the elephant."
 "He might not have done it if he'd known what it involved," said Hood. 
 "As I say, he was a quarrelsome fellow, with all his good points."
 
-There was a silence, and then Pierce said in a musing manner: 
+There was a [[Silence|silence]], and then Pierce said in a musing manner: 
 "It's odd it should be the sequel of my little pig adventure. 
 A sort of reversal of the ~parturiunt montes~; I put in a little pig
 and it brought forth an elephant."

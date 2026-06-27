@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 11 (part 1)"
+title: "Bleak [[house|House]] — Chapter 11 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,7 +22,7 @@ Our Dear Brother
 A touch on the lawyer’s wrinkled hand as he stands in the dark room,
 irresolute, makes him start and say, “What’s that?”
 
-“It’s me,” returns the old man of the house, whose breath is in his
+“It’s me,” returns the old man of the [[house]], whose breath is in his
 ear. “Can’t you wake him?”
 
 “No.”
@@ -31,7 +31,7 @@ ear. “Can’t you wake him?”
 
 “It’s gone out. Here it is.”
 
-Krook takes it, goes to the fire, stoops over the red embers, and
+Krook takes it, goes to the [[Fire|fire]], stoops over the red embers, and
 tries to get a light. The dying ashes have no light to spare, and his
 endeavours are vain. Muttering, after an ineffectual call to his
 lodger, that he will go downstairs and bring a lighted candle from
@@ -41,7 +41,7 @@ outside.
 
 The welcome light soon shines upon the wall, as Krook comes slowly up
 with his green-eyed cat following at his heels. “Does the man
-generally sleep like this?” inquired the lawyer in a low voice. “Hi!
+generally [[Sleep|sleep]] like this?” inquired the lawyer in a low voice. “Hi!
 I don’t know,” says Krook, shaking his head and lifting his eyebrows.
 “I know next to nothing of his habits except that he keeps himself
 very close.”
@@ -57,8 +57,8 @@ the bedside.
 They look at one another for a moment.
 
 “Send for some doctor! Call for Miss Flite up the stairs, sir. Here’s
-poison by the bed! Call out for Flite, will you?” says Krook, with
-his lean hands spread out above the body like a vampire’s wings.
+[[Poison|poison]] by the bed! Call out for Flite, will you?” says Krook, with
+his lean hands spread out above the [[Body|body]] like a vampire’s wings.
 
 Mr. Tulkinghorn hurries to the landing and calls, “Miss Flite! Flite!
 Make haste, here, whoever you are! Flite!” Krook follows him with his
@@ -75,12 +75,12 @@ Scotch tongue.
 them after a moment’s examination. “He’s just as dead as Phairy!”
 
 Mr. Tulkinghorn (standing by the old portmanteau) inquires if he has
-been dead any time.
+been dead any [[Time|time]].
 
-“Any time, sir?” says the medical gentleman. “It’s probable he wull
+“Any [[Time|time]], sir?” says the medical gentleman. “It’s probable he wull
 have been dead aboot three hours.”
 
-“About that time, I should say,” observes a dark young man on the
+“About that [[Time|time]], I should say,” observes a dark young man on the
 other side of the bed.
 
 “Air you in the maydickle prayfession yourself, sir?” inquires the
@@ -96,7 +96,7 @@ The dark young surgeon passes the candle across and across the face
 and carefully examines the law-writer, who has established his
 pretensions to his name by becoming indeed No one.
 
-“I knew this person by sight very well,” says he. “He has purchased
+“I knew this person by sight very [[Well|well]],” says he. “He has purchased
 opium of me for the last year and a half. Was anybody present related
 to him?” glancing round upon the three bystanders.
 
@@ -105,7 +105,7 @@ the surgeon’s outstretched hand. “He told me once I was the nearest
 relation he had.”
 
 “He has died,” says the surgeon, “of an over-dose of opium, there is
-no doubt. The room is strongly flavoured with it. There is enough
+no [[Doubt|doubt]]. The room is strongly flavoured with it. There is enough
 here now,” taking an old tea-pot from Mr. Krook, “to kill a dozen
 people.”
 
@@ -129,7 +129,7 @@ name his circumstances to me.”
 “Six weeks.”
 
 “He will never pay it!” says the young man, resuming his examination.
-“It is beyond a doubt that he is indeed as dead as Pharaoh; and to
+“It is beyond a [[Doubt|doubt]] that he is indeed as dead as Pharaoh; and to
 judge from his appearance and condition, I should think it a happy
 release. Yet he must have been a good figure when a youth, and I dare
 say, good-looking.” He says this, not unfeelingly, while sitting on
@@ -138,7 +138,7 @@ hand upon the region of the heart. “I recollect once thinking there
 was something in his manner, uncouth as it was, that denoted a fall
 in life. Was that so?” he continues, looking round.
 
-Krook replies, “You might as well ask me to describe the ladies whose
+Krook replies, “You might as [[Well|well]] ask me to describe the ladies whose
 heads of hair I have got in sacks downstairs. Than that he was my
 lodger for a year and a half and lived—or didn’t live—by
 law-writing, I know no more of him.”
@@ -146,7 +146,7 @@ law-writing, I know no more of him.”
 During this dialogue Mr. Tulkinghorn has stood aloof by the old
 portmanteau, with his hands behind him, equally removed, to all
 appearance, from all three kinds of interest exhibited near the
-bed—from the young surgeon’s professional interest in death,
+bed—from the young surgeon’s professional interest in [[Death|death]],
 noticeable as being quite apart from his remarks on the deceased as
 an individual; from the old man’s unction; and the little crazy
 woman’s awe. His imperturbable face has been as inexpressive as his
@@ -162,8 +162,8 @@ professional way.
 “I looked in here,” he observes, “just before you, with the
 intention of giving this deceased man, whom I never saw alive, some
 employment at his trade of copying. I had heard of him from my
-stationer—Snagsby of Cook’s Court. Since no one here knows anything
-about him, it might be as well to send for Snagsby. Ah!” to the
-little crazy woman, who has often seen him in court, and whom he has
+stationer—Snagsby of Cook’s [[Court]]. Since no one here knows anything
+about him, it might be as [[Well|well]] to send for Snagsby. Ah!” to the
+little crazy woman, who has often seen him in [[Court|court]], and whom he has
 often seen, and who proposes, in frightened dumb-show, to go for the
 law-stationer. “Suppose you do!”

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 47 (part 1)"
+title: "Bleak [[house|House]] — Chapter 47 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,7 +21,7 @@ Jo’s Will
 
 As Allan Woodcourt and Jo proceed along the streets where the high
 church spires and the distances are so near and clear in the morning
-light that the city itself seems renewed by rest, Allan revolves in
+light that the [[City|city]] itself seems renewed by rest, Allan revolves in
 his mind how and where he shall bestow his companion. “It surely is a
 strange fact,” he considers, “that in the heart of a civilized world
 this creature in human form should be more difficult to dispose of
@@ -56,7 +56,7 @@ breath, Jo!” “It draws,” says Jo, “as heavy as a cart.” He might add,
 “And rattles like it,” but he only mutters, “I’m a-moving on, sir.”
 
 Allan looks about for an apothecary’s shop. There is none at hand,
-but a tavern does as well or better. He obtains a little measure of
+but a tavern does as [[Well|well]] or better. He obtains a little measure of
 wine and gives the lad a portion of it very carefully. He begins to
 revive almost as soon as it passes his lips. “We may repeat that
 dose, Jo,” observes Allan after watching him with his attentive face.
@@ -70,27 +70,27 @@ he is warmed and refreshed. If a face so shaded can brighten, his
 face brightens somewhat; and by little and little he eats the slice
 of bread he had so hopelessly laid down. Observant of these signs of
 improvement, Allan engages him in conversation and elicits to his no
-small wonder the adventure of the lady in the veil, with all its
+small [[Wonder|wonder]] the adventure of the lady in the veil, with all its
 consequences. Jo slowly munches as he slowly tells it. When he has
 finished his story and his bread, they go on again.
 
 Intending to refer his difficulty in finding a temporary place of
 refuge for the boy to his old patient, zealous little Miss Flite,
-Allan leads the way to the court where he and Jo first foregathered.
+Allan leads the way to the [[Court|court]] where he and Jo first foregathered.
 But all is changed at the rag and bottle shop; Miss Flite no longer
 lodges there; it is shut up; and a hard-featured female, much
-obscured by dust, whose age is a problem, but who is indeed no other
+obscured by [[Dust|dust]], whose age is a problem, but who is indeed no other
 than the interesting Judy, is tart and spare in her replies. These
 sufficing, however, to inform the visitor that Miss Flite and her
-birds are domiciled with a Mrs. Blinder, in Bell Yard, he repairs to
+[[Birds|birds]] are domiciled with a Mrs. Blinder, in Bell Yard, he repairs to
 that neighbouring place, where Miss Flite (who rises early that she
 may be punctual at the divan of justice held by her excellent friend
-the Chancellor) comes running downstairs with tears of welcome and
+the Chancellor) comes running downstairs with [[Tears|tears]] of welcome and
 with open arms.
 
 “My dear physician!” cries Miss Flite. “My meritorious,
 distinguished, honourable officer!” She uses some odd expressions,
-but is as cordial and full of heart as sanity itself can be—more so
+but is as cordial and full of heart as [[Sanity|sanity]] itself can be—more so
 than it often is. Allan, very patient with her, waits until she has
 no more raptures to express, then points out Jo, trembling in a
 doorway, and tells her how he comes there.
@@ -117,7 +117,7 @@ encouragement, that this walking about will soon be over now; and
 they repair to the general’s. Fortunately it is not far.
 
 From the exterior of George’s Shooting Gallery, and the long entry,
-and the bare perspective beyond it, Allan Woodcourt augurs well. He
+and the bare perspective beyond it, Allan Woodcourt augurs [[Well|well]]. He
 also descries promise in the figure of Mr. George himself, striding
 towards them in his morning exercise with his pipe in his mouth, no
 stock on, and his muscular arms, developed by broadsword and

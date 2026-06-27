@@ -1,5 +1,5 @@
 ---
-title: "Wild Ducks — The Great Translation"
+title: "Wild Ducks — The Great [[Translation]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Wild-Ducks-(Chesterton)"
@@ -14,29 +14,29 @@ tags:
 </nav>
 
 
-The Great Translation
+The Great [[Translation]]
 
 
-The Jacobean translation of the Bible has one real claim to
+The Jacobean [[Translation|translation]] of the [[Bible]] has one real claim to
 be English.  Many of the eulogies about its Protestant purity
 and its Anglo-Saxon empire building are partisan and fantastic.
 But it is in this immense sense national, that it is anonymous.
-The translation, as a translation, is as English as the ballads
-about Robin Hood, which were written by everybody and nobody.
+The [[Translation|translation]], as a [[Translation|translation]], is as English as the ballads
+about [[Robin Hood]], which were written by everybody and nobody.
 It is true that the learned bishops and dons who translated
 it were far from regarding themselves as nobodies.
-But in the history of English literature they are nobodies;
+But in the [[history]] of English literature they are nobodies;
 only they are immortal nobodies.  It is impossible to point to a single
 great man who is responsible for this masterpiece of verbal music.
-At the very time when the translation was being made there were in
+At the very [[Time|time]] when the [[Translation|translation]] was being made there were in
 England greater literary men than she is ever likely to see again.
 But by no conceivable trick or turn of circumstance can
 Bacon or Burton, Jonson or Shakespeare, have had anything
-to do with the translation of the Bible.  It was done by a mob
-of bishops; that is, a mob of simple and well-meaning men.
-The enemies of the Bible have been heard to describe it
+to do with the [[Translation|translation]] of the [[Bible]].  It was done by a mob
+of bishops; that is, a mob of simple and [[Well|well]]-meaning men.
+The enemies of the [[Bible]] have been heard to describe it
 as Jewish folklore; of course, in a bad sense.  In any case,
-our translation is English folklore--and that in the best sense.
+our [[Translation|translation]] is English folklore--and that in the best sense.
 England wrote it; no mere Englishman could have done so.
 
 `How beautiful upon the mountains are the feet of him that bringeth
@@ -101,7 +101,7 @@ it is poetry inside prose.
 
 Any magazine article might contain the paragraph:  `The enthusiast must
 always be discouraged by certain perishability in all popular things.
-The mass of mankind seems so plainly a mere part of nature, that it
+The mass of mankind seems so plainly a mere part of [[Nature|nature]], that it
 is hard to believe that all their ideas are not at once as monotonous
 and as fickle as the physical universe; nevertheless, the best philosopher
 will always return to the idea of an order and a reason in things.'
@@ -122,20 +122,20 @@ better use of the modern one.
 
 In one of those tremendous passages that pierce through
 all languages and belong to the sacred Scripture itself,
-one of the prophets speaks of the perfect time as a time when
+one of the prophets speaks of the perfect [[Time|time]] as a [[Time|time]] when
 all the vessels shall be as vessels before the altar, and on
 every pot in Jerusalem shall be written `Holy unto the Lord'.
 That is what the English translation, by a literary accident,
 really managed to achieve.  The phrase `verbal inspiration'
-may be orthodox or unorthodox about the Bible in its
-supernatural sense.  But it is very nearly true about the
-English translation in a secondary and merely human sense.
+may be orthodox or unorthodox about the [[Bible]] in its
+[[Supernatural|supernatural]] sense.  But it is very nearly true about the
+English [[Translation|translation]] in a secondary and merely human sense.
 The dull parts of the narrative are not dull; the trivial
 details are not trivial, because they are all lifted up
 on this last great wave of the poetical English language.
-Everyone, revolutionist and reactionary, is in our time
+Everyone, revolutionist and reactionary, is in our [[Time|time]]
 saying that domestic things must be dull, that common things
 must be commonplace.  Everyone is saying, though with much
 less literary brevity, `Surely the people is grass'.
-But in our sterile time we have never guessed how tall
+But in our sterile [[Time|time]] we have never guessed how tall
 the grass can grow.

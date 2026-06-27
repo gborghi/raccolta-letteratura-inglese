@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 43"
+title: "[[Great Expectations]] — Chapter 43"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,42 +18,42 @@ Chapter XLIII.
 
 
 Why should I pause to ask how much of my shrinking from Provis might be
-traced to Estella? Why should I loiter on my road, to compare the state
-of mind in which I had tried to rid myself of the stain of the prison
+traced to [[Estella]]? Why should I loiter on my [[Road|road]], to compare the state
+of mind in which I had tried to rid myself of the stain of the [[Prison|prison]]
 before meeting her at the coach-office, with the state of mind in which
-I now reflected on the abyss between Estella in her pride and beauty,
-and the returned transport whom I harboured? The road would be none the
+I now reflected on the abyss between [[Estella]] in her [[Pride|pride]] and [[Beauty|beauty]],
+and the returned transport whom I harboured? The [[Road|road]] would be none the
 smoother for it, the end would be none the better for it, he would not
 be helped, nor I extenuated.
 
-A new fear had been engendered in my mind by his narrative; or rather,
-his narrative had given form and purpose to the fear that was already
+A new [[Fear|fear]] had been engendered in my mind by his narrative; or rather,
+his narrative had given form and purpose to the [[Fear|fear]] that was already
 there. If Compeyson were alive and should discover his return, I could
-hardly doubt the consequence. That Compeyson stood in mortal fear of
+hardly [[Doubt|doubt]] the consequence. That Compeyson stood in mortal [[Fear|fear]] of
 him, neither of the two could know much better than I; and that any
 such man as that man had been described to be would hesitate to release
 himself for good from a dreaded enemy by the safe means of becoming an
 informer was scarcely to be imagined.
 
 Never had I breathed, and never would I breathe—or so I resolved—a word
-of Estella to Provis. But, I said to Herbert that, before I could go
-abroad, I must see both Estella and Miss Havisham. This was when we
-were left alone on the night of the day when Provis told us his story.
+of [[Estella]] to Provis. But, I said to Herbert that, before I could go
+abroad, I must see both [[Estella]] and [[Miss Havisham]]. This was when we
+were left [[Alone|alone]] on the [[Night|night]] of the day when Provis told us his story.
 I resolved to go out to Richmond next day, and I went.
 
-On my presenting myself at Mrs. Brandley’s, Estella’s maid was called
-to tell that Estella had gone into the country. Where? To Satis House,
+On my presenting myself at Mrs. Brandley’s, [[Estella]]’s maid was called
+to tell that [[Estella]] had gone into the country. Where? To Satis [[house|House]],
 as usual. Not as usual, I said, for she had never yet gone there
 without me; when was she coming back? There was an air of reservation
 in the answer which increased my perplexity, and the answer was, that
 her maid believed she was only coming back at all for a little while. I
 could make nothing of this, except that it was meant that I should make
-nothing of it, and I went home again in complete discomfiture.
+nothing of it, and I went [[Home|home]] again in complete discomfiture.
 
-Another night consultation with Herbert after Provis was gone home (I
-always took him home, and always looked well about me), led us to the
+Another [[Night|night]] consultation with Herbert after Provis was gone [[Home|home]] (I
+always took him [[Home|home]], and always looked [[Well|well]] about me), led us to the
 conclusion that nothing should be said about going abroad until I came
-back from Miss Havisham’s. In the mean time, Herbert and I were to
+back from [[Miss Havisham]]’s. In the mean [[Time|time]], Herbert and I were to
 consider separately what it would be best to say; whether we should
 devise any pretence of being afraid that he was under suspicious
 observation; or whether I, who had never yet been abroad, should
@@ -65,15 +65,15 @@ Next day I had the meanness to feign that I was under a binding promise
 to go down to Joe; but I was capable of almost any meanness towards Joe
 or his name. Provis was to be strictly careful while I was gone, and
 Herbert was to take the charge of him that I had taken. I was to be
-absent only one night, and, on my return, the gratification of his
+absent only one [[Night|night]], and, on my return, the gratification of his
 impatience for my starting as a gentleman on a greater scale was to be
 begun. It occurred to me then, and as I afterwards found to Herbert
-also, that he might be best got away across the water, on that
+also, that he might be best got away across the [[Water|water]], on that
 pretence,—as, to make purchases, or the like.
 
-Having thus cleared the way for my expedition to Miss Havisham’s, I set
+Having thus cleared the way for my expedition to [[Miss Havisham]]’s, I set
 off by the early morning coach before it was yet light, and was out on
-the open country road when the day came creeping on, halting and
+the open country [[Road|road]] when the day came creeping on, halting and
 whimpering and shivering, and wrapped in patches of cloud and rags of
 mist, like a beggar. When we drove up to the Blue Boar after a drizzly
 ride, whom should I see come out under the gateway, toothpick in hand,
@@ -83,26 +83,26 @@ As he pretended not to see me, I pretended not to see him. It was a
 very lame pretence on both sides; the lamer, because we both went into
 the coffee-room, where he had just finished his breakfast, and where I
 ordered mine. It was poisonous to me to see him in the town, for I very
-well knew why he had come there.
+[[Well|well]] knew why he had come there.
 
 Pretending to read a smeary newspaper long out of date, which had
 nothing half so legible in its local news, as the foreign matter of
 coffee, pickles, fish sauces, gravy, melted butter, and wine with which
 it was sprinkled all over, as if it had taken the measles in a highly
-irregular form, I sat at my table while he stood before the fire. By
+irregular form, I sat at my table while he stood before the [[Fire|fire]]. By
 degrees it became an enormous injury to me that he stood before the
-fire. And I got up, determined to have my share of it. I had to put my
+[[Fire|fire]]. And I got up, determined to have my share of it. I had to put my
 hand behind his legs for the poker when I went up to the fireplace to
-stir the fire, but still pretended not to know him.
+stir the [[Fire|fire]], but still pretended not to know him.
 
 “Is this a cut?” said Mr. Drummle.
 
 “Oh!” said I, poker in hand; “it’s you, is it? How do you do? I was
-wondering who it was, who kept the fire off.”
+wondering who it was, who kept the [[Fire|fire]] off.”
 
 With that, I poked tremendously, and having done so, planted myself
 side by side with Mr. Drummle, my shoulders squared and my back to the
-fire.
+[[Fire|fire]].
 
 “You have just come down?” said Mr. Drummle, edging me a little away
 with his shoulder.
@@ -119,7 +119,7 @@ Here Mr. Drummle looked at his boots and I looked at mine, and then Mr.
 Drummle looked at my boots, and I looked at his.
 
 “Have you been here long?” I asked, determined not to yield an inch of
-the fire.
+the [[Fire|fire]].
 
 “Long enough to be tired of it,” returned Drummle, pretending to yawn,
 but equally determined.
@@ -130,9 +130,9 @@ but equally determined.
 
 “Can’t say,” said I.
 
-I felt here, through a tingling in my blood, that if Mr. Drummle’s
+I felt here, through a tingling in my [[Blood|blood]], that if Mr. Drummle’s
 shoulder had claimed another hair’s breadth of room, I should have
-jerked him into the window; equally, that if my own shoulder had urged
+jerked him into the [[Window|window]]; equally, that if my own shoulder had urged
 a similar claim, Mr. Drummle would have jerked me into the nearest box.
 He whistled a little. So did I.
 
@@ -152,7 +152,7 @@ smithies—and that. Waiter!”
 
 “Yes, sir.”
 
-“Is that horse of mine ready?”
+“Is that [[Horse|horse]] of mine ready?”
 
 “Brought round to the door, sir.”
 
@@ -169,19 +169,19 @@ Then, Drummle glanced at me, with an insolent triumph on his
 great-jowled face that cut me to the heart, dull as he was, and so
 exasperated me, that I felt inclined to take him in my arms (as the
 robber in the story-book is said to have taken the old lady) and seat
-him on the fire.
+him on the [[Fire|fire]].
 
 One thing was manifest to both of us, and that was, that until relief
-came, neither of us could relinquish the fire. There we stood, well
+came, neither of us could relinquish the [[Fire|fire]]. There we stood, [[Well|well]]
 squared up before it, shoulder to shoulder and foot to foot, with our
-hands behind us, not budging an inch. The horse was visible outside in
+hands behind us, not budging an inch. The [[Horse|horse]] was visible outside in
 the drizzle at the door, my breakfast was put on the table, Drummle’s
 was cleared away, the waiter invited me to begin, I nodded, we both
 stood our ground.
 
 “Have you been to the Grove since?” said Drummle.
 
-“No,” said I, “I had quite enough of the Finches the last time I was
+“No,” said I, “I had quite enough of the Finches the last [[Time|time]] I was
 there.”
 
 “Was that when we had a difference of opinion?”
@@ -229,19 +229,19 @@ hand, and had looked imploringly at me, and had gone out, Drummle,
 careful not to move the shoulder next me, took a cigar from his pocket
 and bit the end off, but showed no sign of stirring. Choking and
 boiling as I was, I felt that we could not go a word further, without
-introducing Estella’s name, which I could not endure to hear him utter;
+introducing [[Estella]]’s name, which I could not endure to hear him utter;
 and therefore I looked stonily at the opposite wall, as if there were
-no one present, and forced myself to silence. How long we might have
+no one present, and forced myself to [[Silence|silence]]. How long we might have
 remained in this ridiculous position it is impossible to say, but for
 the incursion of three thriving farmers—laid on by the waiter, I
 think—who came into the coffee-room unbuttoning their great-coats and
-rubbing their hands, and before whom, as they charged at the fire, we
+rubbing their hands, and before whom, as they charged at the [[Fire|fire]], we
 were obliged to give way.
 
-I saw him through the window, seizing his horse’s mane, and mounting in
+I saw him through the [[Window|window]], seizing his [[Horse|horse]]’s mane, and mounting in
 his blundering brutal manner, and sidling and backing away. I thought
 he was gone, when he came back, calling for a light for the cigar in
-his mouth, which he had forgotten. A man in a dust-coloured dress
+his mouth, which he had forgotten. A man in a [[Dust|dust]]-coloured dress
 appeared with what was wanted,—I could not have said from where:
 whether from the inn yard, or the street, or where not,—and as Drummle
 leaned down from the saddle and lighted his cigar and laughed, with a
@@ -249,8 +249,8 @@ jerk of his head towards the coffee-room windows, the slouching
 shoulders and ragged hair of this man whose back was towards me
 reminded me of Orlick.
 
-Too heavily out of sorts to care much at the time whether it were he or
+Too heavily out of sorts to care much at the [[Time|time]] whether it were he or
 no, or after all to touch the breakfast, I washed the weather and the
-journey from my face and hands, and went out to the memorable old house
+[[Journey|journey]] from my face and hands, and went out to the memorable old [[house]]
 that it would have been so much the better for me never to have
 entered, never to have seen.

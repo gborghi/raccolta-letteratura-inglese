@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 31 (part 3)"
+title: "[[Shirley]] — Chapter 31 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -164,7 +164,7 @@ I have no taste whatever for the office."
 
 
 
-"There _is_ a slight difference--that is certain. And I know full well
+"There _is_ a slight difference--that is certain. And I know full [[Well|well]]
 
 any man who wishes to live in decent comfort with me as a husband must
 
@@ -172,19 +172,19 @@ be able to control me."
 
 
 
-"I wish you had a real tyrant."
+"I wish you had a real [[Tyrant|tyrant]]."
 
 
 
-"A tyrant would not hold me for a day, not for an hour. I would
+"A [[Tyrant|tyrant]] would not hold me for a day, not for an hour. I would
 
-rebel--break from him--defy him."
+[[Rebel|rebel]]--break from him--defy him."
 
 
 
 "Are you not enough to bewilder one's brain with your
 
-self-contradiction?"
+[[Self|self]]-contradiction?"
 
 
 
@@ -210,7 +210,7 @@ swain."
 
 
 
-"You could lead some doting fool; you might pin him to your apron."
+"You could lead some doting [[Fool|fool]]; you might pin him to your apron."
 
 
 
@@ -222,9 +222,9 @@ disposed to be good; one whose control my impatient temper must
 
 acknowledge; a man whose approbation can reward, whose displeasure
 
-punish me; a man I shall feel it impossible not to love, and very
+punish me; a man I shall feel it impossible not to [[Love|love]], and very
 
-possible to fear?"
+possible to [[Fear|fear]]?"
 
 
 
@@ -248,7 +248,7 @@ better stead with me."
 
 
 
-"You and Henry rave about poetry! You used to catch fire like tinder on
+"You and Henry rave about poetry! You used to catch [[Fire|fire]] like tinder on
 
 the subject when you were a girl."
 
@@ -322,7 +322,7 @@ Job."
 
 resolved to probe thoroughly, convinced that there is mischief at the
 
-bottom. You described just now, with far too much freedom for your years
+[[Bottom|bottom]]. You described just now, with far too much [[Freedom|freedom]] for your years
 
 and sex, the sort of individual you would prefer as a husband. Pray, did
 
@@ -330,15 +330,15 @@ you paint from the life?"
 
 
 
-Shirley opened her lips, but instead of speaking she only glowed
+[[Shirley]] opened her lips, but instead of speaking she only glowed
 
-rose-red.
+[[Rose|rose]]-red.
 
 
 
 "I shall have an answer to that question," affirmed Mr. Sympson,
 
-assuming vast courage and consequence on the strength of this symptom of
+assuming vast [[Courage|courage]] and consequence on the strength of this symptom of
 
 confusion.
 
@@ -352,7 +352,7 @@ confusion.
 
 
 
-"I have been in love several times."
+"I have been in [[Love|love]] several times."
 
 
 

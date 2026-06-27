@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 2)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-     The water's waiting in the trough,
+     The [[Water|water]]'s waiting in the trough,
 
      The tame oats sown are portioned free,
 
@@ -74,7 +74,7 @@ tags:
 
      The knowledge of that naked whole
 
-     That hath delivered our flesh and soul
+     That hath delivered our flesh and [[Soul|soul]]
 
      Out of your Paradise.
 
@@ -110,9 +110,9 @@ tags:
 
      Make the wet ditch, or winds that sting,
 
-     Lost pride, or the pawned wedding rings,
+     Lost [[Pride|pride]], or the pawned wedding rings,
 
-     Or drink or Death a blacker thing
+     Or drink or [[Death]] a blacker thing
 
      Than a smile upon your face.
 
@@ -130,7 +130,7 @@ THE NEW RAID
 
 
 
-The two kinds of social reform, one of which might conceivably free
+The two kinds of social [[Reform|reform]], one of which might conceivably free
 
 us at last while the other would certainly enslave us forever, are
 
@@ -160,9 +160,9 @@ difficulty in thriving upon her. There are only two things that he can
 
 do, and the distinction between them cuts the whole social and political
 
-world in two. It is a touchstone by which we can--not sometimes, but
+world in two. It is a [[Touchstone|touchstone]] by which we can--not sometimes, but
 
-always--distinguish economic equality from servile social reform. He can
+always--distinguish economic equality from servile social [[Reform|reform]]. He can
 
 give the girl some magnificent sum, such as sixpence a day, to do as she
 
@@ -194,9 +194,9 @@ This Capitalist is an ingenious person, and has many polished
 
 characteristics; but I think the most singular thing about him is his
 
-staggering lack of shame. Neither the hour of death nor the day of
+staggering lack of shame. Neither the hour of [[Death|death]] nor the day of
 
-reckoning, neither the tent of exile nor the house of mourning, neither
+reckoning, neither the tent of [[Exile|exile]] nor the [[house]] of mourning, neither
 
 chivalry nor patriotism, neither womanhood nor widowhood, is safe at
 
@@ -212,9 +212,9 @@ heart. To a man of any manhood nothing can be conceived more loathsome
 
 and sacrilegious than even so much as asking whether a woman who has
 
-given up all she loved to death and the fatherland has or has not shown
+given up all she loved to [[Death|death]] and the fatherland has or has not shown
 
-some weakness in her seeking for self-comfort. I know not in which of
+some weakness in her seeking for [[Self|self]]-comfort. I know not in which of
 
 the two cases I should count myself the baser for inquiring--a case
 
@@ -228,7 +228,7 @@ of the fact when he calls his workers "men" as distinct from masters. He
 
 cannot comprehend the gallantry of costermongers or the delicacy that is
 
-quite common among cabmen. He finds this social reform by half-rations
+quite common among cabmen. He finds this social [[Reform|reform]] by half-rations
 
 on the whole to his mercantile profit, and it will be hard to get him to
 
@@ -246,7 +246,7 @@ the facts they do not know. The Duchess of Marlborough is, I believe,
 
 an American, and this separates her from the problem in a special way,
 
-because the drink question in America is entirely different from the
+because the drink question in [[america|America]] is entirely different from the
 
 drink question in England. But I wish the Duchess of Marlborough would
 

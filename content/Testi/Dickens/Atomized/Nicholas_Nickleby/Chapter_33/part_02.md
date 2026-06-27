@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 33 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 33 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-‘Why should I tell you what we know so well?’ returned Kate soothingly.
+‘Why should I tell you what we know so [[Well|well]]?’ returned Kate soothingly.
 ‘Nicholas--dear Nicholas--how can you give way thus?’
 
 ‘It is such bitter reproach to me to know what you have undergone,’
 returned her brother; ‘to see you so much altered, and yet so kind and
 patient--God!’ cried Nicholas, clenching his fist and suddenly changing
-his tone and manner, ‘it sets my whole blood on fire again. You must
-leave here with me directly; you should not have slept here last night,
+his tone and manner, ‘it sets my whole [[Blood|blood]] on [[Fire|fire]] again. You must
+leave here with me directly; you should not have slept here last [[Night|night]],
 but that I knew all this too late. To whom can I speak, before we drive
 away?’
 
@@ -34,7 +34,7 @@ the right side, ‘is not yet half expired. Therefore--’
 
 ‘Therefore,’ interposed Nicholas, ‘the quarter’s salary must be lost,
 sir. You will excuse this extreme haste, but circumstances require that
-I should immediately remove my sister, and I have not a moment’s time to
+I should immediately remove my sister, and I have not a moment’s [[Time|time]] to
 lose. Whatever she brought here I will send for, if you will allow me,
 in the course of the day.’
 
@@ -53,12 +53,12 @@ of their own; and this was Mr. Wititterly’s.
 
 ‘If you please,’ said Nicholas. And once more offering a hurried apology
 for so sudden a departure, he hurried Kate into the vehicle, and bade
-the man drive with all speed into the city.
+the man drive with all [[Speed|speed]] into the [[City|city]].
 
-To the city they went accordingly, with all the speed the hackney coach
+To the [[City|city]] they went accordingly, with all the [[Speed|speed]] the hackney coach
 could make; and as the horses happened to live at Whitechapel and to be
 in the habit of taking their breakfast there, when they breakfasted
-at all, they performed the journey with greater expedition than could
+at all, they performed the [[Journey|journey]] with greater expedition than could
 reasonably have been expected.
 
 Nicholas sent Kate upstairs a few minutes before him, that his
@@ -78,14 +78,14 @@ means be made to comprehend the necessity of such hurried proceedings.
 ‘Why don’t you ask your uncle, my dear Nicholas, what he can possibly
 mean by it?’ said Mrs. Nickleby.
 
-‘My dear mother,’ returned Nicholas, ‘the time for talking has gone
+‘My dear mother,’ returned Nicholas, ‘the [[Time|time]] for talking has gone
 by. There is but one step to take, and that is to cast him off with the
-scorn and indignation he deserves. Your own honour and good name demand
+scorn and indignation he deserves. Your own [[Honour|honour]] and good name demand
 that, after the discovery of his vile proceedings, you should not be
 beholden to him one hour, even for the shelter of these bare walls.’
 
 ‘To be sure,’ said Mrs. Nickleby, crying bitterly, ‘he is a brute, a
-monster; and the walls are very bare, and want painting too, and I have
+[[Monster|monster]]; and the walls are very bare, and want painting too, and I have
 had this ceiling whitewashed at the expense of eighteen-pence, which is
 a very distressing thing, considering that it is so much gone into your
 uncle’s pocket. I never could have believed it--never.’
@@ -97,8 +97,8 @@ Mulberry Hawk should be such an abandoned wretch as Miss La Creevy says
 he is, Nicholas, my dear; when I was congratulating myself every day on
 his being an admirer of our dear Kate’s, and thinking what a thing it
 would be for the family if he was to become connected with us, and use
-his interest to get you some profitable government place. There are
-very good places to be got about the court, I know; for a friend of ours
+his interest to get you some profitable [[government]] place. There are
+very good places to be got about the [[Court|court]], I know; for a friend of ours
 (Miss Cropley, at Exeter, my dear Kate, you recollect), he had one, and
 I know that it was the chief part of his duty to wear silk stockings,
 and a bag wig like a black watch-pocket; and to think that it should
@@ -106,7 +106,7 @@ come to this after all--oh, dear, dear, it’s enough to kill one, that it
 is!’ With which expressions of sorrow, Mrs. Nickleby gave fresh vent to
 her grief, and wept piteously.
 
-As Nicholas and his sister were by this time compelled to superintend
+As Nicholas and his sister were by this [[Time|time]] compelled to superintend
 the removal of the few articles of furniture, Miss La Creevy devoted
 herself to the consolation of the matron, and observed with great
 kindness of manner that she must really make an effort, and cheer up.
@@ -132,7 +132,7 @@ downstairs to see that everything had been taken away; and when she was
 getting into the coach she had a vision of a forgotten coffee-pot on the
 back-kitchen hob, and after she was shut in, a dismal recollection of
 a green umbrella behind some unknown door. At last Nicholas, in a
-condition of absolute despair, ordered the coachman to drive away,
+condition of absolute [[Despair|despair]], ordered the coachman to drive away,
 and in the unexpected jerk of a sudden starting, Mrs. Nickleby lost a
 shilling among the straw, which fortunately confined her attention to
 the coach until it was too late to remember anything else.

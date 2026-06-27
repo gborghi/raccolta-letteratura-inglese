@@ -16,19 +16,19 @@ tags:
 
 Upon these facts a long argument was entered into, on both sides, to
 the great edification of a number of persons interested in the
-parochial squabbles, who crowded the court; and when some very long and
-grave speeches had been made _pro_ and _con_, the red-faced gentleman
+parochial squabbles, who crowded the [[Court|court]]; and when some very long and
+[[Grave|grave]] speeches had been made _pro_ and _con_, the red-faced gentleman
 in the tortoise-shell spectacles took a review of the case, which
 occupied half an hour more, and then pronounced upon Sludberry the
 awful sentence of excommunication for a fortnight, and payment of the
 costs of the suit. Upon this, Sludberry, who was a little, red-faced,
-sly-looking, ginger-beer seller, addressed the court, and said, if
+sly-looking, ginger-beer seller, addressed the [[Court|court]], and said, if
 they’d be good enough to take off the costs, and excommunicate him for
 the term of his natural life instead, it would be much more convenient
 to him, for he never went to church at all. To this appeal the
 gentleman in the spectacles made no other reply than a look of virtuous
 indignation; and Sludberry and his friends retired. As the man with the
-silver staff informed us that the court was on the point of rising, we
+silver staff informed us that the [[Court|court]] was on the point of rising, we
 retired too—pondering, as we walked away, upon the beautiful spirit of
 these ancient ecclesiastical laws, the kind and neighbourly feelings
 they are calculated to awaken, and the strong attachment to religious
@@ -36,9 +36,9 @@ institutions which they cannot fail to engender.
 
 We were so lost in these meditations, that we had turned into the
 street, and run up against a door-post, before we recollected where we
-were walking. On looking upwards to see what house we had stumbled
+were walking. On looking upwards to see what [[house]] we had stumbled
 upon, the words ‘Prerogative-Office,’ written in large characters, met
-our eye; and as we were in a sight-seeing humour and the place was a
+our eye; and as we were in a sight-seeing [[Humour|humour]] and the place was a
 public one, we walked in.
 
 The room into which we walked, was a long, busy-looking place,
@@ -65,7 +65,7 @@ reading to him in a low hurried voice from a thick vellum book with
 large clasps. It was perfectly evident that the more the clerk read,
 the less the man with the blue apron understood about the matter. When
 the volume was first brought down, he took off his hat, smoothed down
-his hair, smiled with great self-satisfaction, and looked up in the
+his hair, smiled with great [[Self|self]]-satisfaction, and looked up in the
 reader’s face with the air of a man who had made up his mind to
 recollect every word he heard. The first two or three lines were
 intelligible enough; but then the technicalities began, and the little
@@ -89,7 +89,7 @@ avarice.
 
 As he leisurely closed the register, put up his spectacles, and folded
 his scraps of paper in a large leathern pocket-book, we thought what a
-nice hard bargain he was driving with some poverty-stricken legatee,
+nice hard bargain he was driving with some [[Poverty|poverty]]-stricken legatee,
 who, tired of waiting year after year, until some life-interest should
 fall in, was selling his chance, just as it began to grow most
 valuable, for a twelfth part of its worth. It was a good speculation—a
@@ -99,17 +99,17 @@ will had made him ten years younger at the lowest computation.
 
 Having commenced our observations, we should certainly have extended
 them to another dozen of people at least, had not a sudden shutting up
-and putting away of the worm-eaten old books, warned us that the time
+and putting away of the worm-eaten old books, warned us that the [[Time|time]]
 for closing the office had arrived; and thus deprived us of a pleasure,
 and spared our readers an infliction.
 
 We naturally fell into a train of reflection as we walked homewards,
 upon the curious old records of likings and dislikings; of jealousies
-and revenges; of affection defying the power of death, and hatred
-pursued beyond the grave, which these depositories contain; silent but
+and revenges; of affection defying the power of [[Death|death]], and hatred
+pursued beyond the [[Grave|grave]], which these depositories contain; silent but
 striking tokens, some of them, of excellence of heart, and nobleness of
-soul; melancholy examples, others, of the worst passions of human
-nature. How many men as they lay speechless and helpless on the bed of
-death, would have given worlds but for the strength and power to blot
+[[Soul|soul]]; [[Melancholy|melancholy]] examples, others, of the worst passions of human
+[[Nature|nature]]. How many men as they lay speechless and helpless on the bed of
+[[Death|death]], would have given worlds but for the strength and power to blot
 out the silent evidence of animosity and bitterness, which now stands
 registered against them in Doctors’ Commons!

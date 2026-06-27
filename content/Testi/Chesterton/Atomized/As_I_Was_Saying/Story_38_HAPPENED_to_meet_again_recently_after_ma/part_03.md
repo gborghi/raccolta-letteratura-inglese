@@ -25,16 +25,16 @@ in the manner of people blazoning or brandishing flags; and not
 aesthetically, in the manner of people choosing or matching neckties.
 Yet it would seem an excellent opportunity for a thoughtful citizen
 to suggest the idea that he is Rather Nazi or Not Quite Communist.
-A wise and well-balanced Hitlerite, if such a monster is allowed
+A wise and [[Well|well]]-balanced Hitlerite, if such a [[Monster|monster]] is allowed
 to survive, might express his doubts by having his new brown shirt
 fade faintly into the old field-grey, or having it shot with
 the richer colour of the Red International.  An Irishman disposed
-towards compromise (if such a creature be among the varieties of nature)
-might very well gratify General O'Duffy by wearing a blue shirt,
+towards compromise (if such a creature be among the varieties of [[Nature|nature]])
+might very [[Well|well]] gratify General O'Duffy by wearing a blue shirt,
 but introduce into it a tint of peacock-blue, verging upon,
 peacock-green, to indicate his essentially unbroken loyalty to
 the more normal national badge and to the Wearing of the Green.
-I fear it is only too true that a great many people now calling
+I [[Fear|fear]] it is only too true that a great many people now calling
 themselves Socialists ought to be dressed not in red, but in pink.
 And though I am no admirer of Bolshevism, I am still less of an admirer
 of pink.  Pink seems to me the essentially false and negative colour;
@@ -42,24 +42,24 @@ because it is the dilution of something that is rich and glowing
 or nothing.  I do not object to pale blue, because it is sky-blue,
 and I graciously grant permission to the University of Cambridge
 to continue to employ the emblem of its traditional tint.
-But the sky is in its nature pale and translucent; it is the vehicle
+But the sky is in its [[Nature|nature]] pale and translucent; it is the vehicle
 of light; it is sometimes actually white and blank; and the infusion
 of a faint and rather cold colour like blue is appropriate to it.
 But pink suggests nothing but the horrible and blasphemous idea
-of wine with too much water in it.  Pink is the withering of the rose
-and the fading of the fire; pink is mere anaemia in the blood
-of the universe.  And there is a merely pink humanitarianism
+of wine with too much [[Water|water]] in it.  Pink is the withering of the [[Rose|rose]]
+and the fading of the [[Fire|fire]]; pink is mere anaemia in the [[Blood|blood]]
+of the universe.  And there is a merely pink [[Humanitarianism|humanitarianism]]
 which I dislike even more than the real Red Communism.
 It is not so honest; it is not so genuinely angry or so justly angry;
 and it is ultimately every bit as negative and destructive of the strong
 colours and definite shapes of any great historical culture.
 It will not weaken civilization the less because it is too watery
-to burn it in a night; for you cannot set fire to a town with pink
+to burn it in a [[Night|night]]; for you cannot set [[Fire|fire]] to a town with pink
 torches or pink artillery.  This cold and colourless sentimentalism
-none the less threatens the world like a slow and crawling Deluge.
+none the less threatens the world like a slow and crawling [[deluge|Deluge]].
 It especially threatens the colours of the world.  It is a wash-out.
 
-With this melancholy exception of the pink social reformers,
+With this [[Melancholy|melancholy]] exception of the pink social reformers,
 however, it is curious to notice that the difference of shirts,
 with its opportunity for the difference of shades, has appeared
 at the very moment when such fine shades are most furiously
@@ -78,11 +78,11 @@ an Anarchist.  Our rigid party system did not need to stretch;
 because the two parties were already stationed in close proximity.
 An older analogy than the comparison of flags and shirts,
 of uniforms and underclothing, can be found in the more or less
-unique architectural structure of the English House of Commons.
+unique architectural structure of the English [[house|House]] of Commons.
 I do not refer to what is, perhaps, the most English thing about it;
 that it is actually built on the assumption that a large number
 of its members will never turn up.  I mean that we have again
-the paradox that there is most apparent division of parties
+the [[Paradox|paradox]] that there is most apparent division of parties
 exactly where there is least real division of principles.
 The Continental Parliaments are nearly all of them arranged on
 the principle of a Curve of Relativity; almost like that of Einstein.
@@ -109,11 +109,11 @@ It was in the Continental council chambers, curved to follow
 every gradation of thought and allowing for all compromises
 between all extremes, that desks have been most frequently broken,
 ink-bottles most vigorously hurled, riots most frequently prolonged
-into the night, and duels most eagerly appointed for the morning.
+into the [[Night|night]], and duels most eagerly appointed for the morning.
 
 I think this worth noting just now, because it confirms something
 I said recently about a real fallacy in the particular fashion
-now seeking to improve upon Parliament.  I hope nobody will
+now seeking to improve upon Parliament.  I [[Hope|hope]] nobody will
 accuse me of the fatuous official optimism which still talks
 as if Parliament could not be improved.  Whatever else we may
 think of the practical architecture of St. Stephen's chamber,

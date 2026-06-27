@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY"
+title: "[[David Copperfield]] — Chapter 49: I AM INVOLVED IN MYSTERY"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -25,17 +25,17 @@ some surprise:
 ‘MY DEAR SIR,
 
 ‘Circumstances beyond my individual control have, for a considerable
-lapse of time, effected a severance of that intimacy which, in the
+lapse of [[Time|time]], effected a severance of that intimacy which, in the
 limited opportunities conceded to me in the midst of my professional
 duties, of contemplating the scenes and events of the past, tinged by
-the prismatic hues of memory, has ever afforded me, as it ever must
+the prismatic hues of [[Memory|memory]], has ever afforded me, as it ever must
 continue to afford, gratifying emotions of no common description. This
 fact, my dear sir, combined with the distinguished elevation to which
 your talents have raised you, deters me from presuming to aspire to
 the liberty of addressing the companion of my youth, by the familiar
 appellation of Copperfield! It is sufficient to know that the name to
-which I do myself the honour to refer, will ever be treasured among
-the muniments of our house (I allude to the archives connected with our
+which I do myself the [[Honour|honour]] to refer, will ever be treasured among
+the muniments of our [[house]] (I allude to the archives connected with our
 former lodgers, preserved by Mrs. Micawber), with sentiments of personal
 esteem amounting to affection.
 
@@ -44,14 +44,14 @@ fortuitous combination of unpropitious events, as is the foundered Bark
 (if he may be allowed to assume so maritime a denomination), who
 now takes up the pen to address you--it is not, I repeat, for one
 so circumstanced, to adopt the language of compliment, or of
-congratulation. That he leaves to abler and to purer hands.
+congratulation. That he [[Leaves|leaves]] to abler and to purer hands.
 
 ‘If your more important avocations should admit of your ever tracing
 these imperfect characters thus far--which may be, or may not be, as
 circumstances arise--you will naturally inquire by what object am I
 influenced, then, in inditing the present missive? Allow me to say that
 I fully defer to the reasonable character of that inquiry, and proceed
-to develop it; premising that it is not an object of a pecuniary nature.
+to develop it; premising that it is not an object of a pecuniary [[Nature|nature]].
 
 ‘Without more directly referring to any latent ability that may
 possibly exist on my part, of wielding the thunderbolt, or directing
@@ -68,7 +68,7 @@ the tripartite character of woman, wife, and mother, it is my intention
 to fly from myself for a short period, and devote a respite of
 eight-and-forty hours to revisiting some metropolitan scenes of past
 enjoyment. Among other havens of domestic tranquillity and peace of
-mind, my feet will naturally tend towards the King’s Bench Prison. In
+mind, my feet will naturally tend towards the [[King]]’s Bench [[Prison]]. In
 stating that I shall be (D. V.) on the outside of the south wall of
 that place of incarceration on civil process, the day after tomorrow,
 at seven in the evening, precisely, my object in this epistolary
@@ -77,7 +77,7 @@ communication is accomplished.
 ‘I do not feel warranted in soliciting my former friend Mr. Copperfield,
 or my former friend Mr. Thomas Traddles of the Inner Temple, if that
 gentleman is still existent and forthcoming, to condescend to meet me,
-and renew (so far as may be) our past relations of the olden time. I
+and renew (so far as may be) our past relations of the olden [[Time|time]]. I
 confine myself to throwing out the observation, that, at the hour and
 place I have indicated, may be found such ruined vestiges as yet
 
@@ -85,7 +85,7 @@ place I have indicated, may be found such ruined vestiges as yet
                     ‘Of
                          ‘A
                               ‘Fallen Tower,
-                                   ‘WILKINS MICAWBER.
+                                   ‘[[Wilkins Micawber|WILKINS MICAWBER]].
 
 ‘P.S. It may be advisable to superadd to the above, the statement that
 Mrs. Micawber is not in confidential possession of my intentions.’
@@ -95,14 +95,14 @@ I read the letter over several times. Making due allowance for Mr.
 Micawber’s lofty style of composition, and for the extraordinary relish
 with which he sat down and wrote long letters on all possible and
 impossible occasions, I still believed that something important lay
-hidden at the bottom of this roundabout communication. I put it down,
+hidden at the [[Bottom|bottom]] of this roundabout communication. I put it down,
 to think about it; and took it up again, to read it once more; and
 was still pursuing it, when Traddles found me in the height of my
 perplexity.
 
 ‘My dear fellow,’ said I, ‘I never was better pleased to see you. You
 come to give me the benefit of your sober judgement at a most opportune
-time. I have received a very singular letter, Traddles, from Mr.
+[[Time|time]]. I have received a very singular letter, Traddles, from Mr.
 Micawber.’
 
 ‘No?’ cried Traddles. ‘You don’t say so? And I have received one from
@@ -110,7 +110,7 @@ Mrs. Micawber!’
 
 With that, Traddles, who was flushed with walking, and whose hair, under
 the combined effects of exercise and excitement, stood on end as if he
-saw a cheerful ghost, produced his letter and made an exchange with me.
+saw a cheerful [[Ghost|ghost]], produced his letter and made an exchange with me.
 I watched him into the heart of Mr. Micawber’s letter, and returned the
 elevation of eyebrows with which he said “‘Wielding the thunderbolt,
 or directing the devouring and avenging flame!” Bless me,
@@ -121,12 +121,12 @@ It ran thus:
 
 
 ‘My best regards to Mr. Thomas Traddles, and if he should still remember
-one who formerly had the happiness of being well acquainted with him,
-may I beg a few moments of his leisure time? I assure Mr. T. T. that I
+one who formerly had the happiness of being [[Well|well]] acquainted with him,
+may I beg a few moments of his leisure [[Time|time]]? I assure Mr. T. T. that I
 would not intrude upon his kindness, were I in any other position than
 on the confines of distraction.
 
-‘Though harrowing to myself to mention, the alienation of Mr. Micawber
+‘Though harrowing to myself to mention, the [[Alienation|alienation]] of Mr. Micawber
 (formerly so domesticated) from his wife and family, is the cause of my
 addressing my unhappy appeal to Mr. Traddles, and soliciting his best
 indulgence. Mr. T. can form no adequate idea of the change in Mr.
@@ -139,7 +139,7 @@ assert that he has sold himself to the D. Mystery and secrecy have
 long been his principal characteristic, have long replaced unlimited
 confidence. The slightest provocation, even being asked if there is
 anything he would prefer for dinner, causes him to express a wish for a
-separation. Last night, on being childishly solicited for twopence, to
+separation. Last [[Night|night]], on being childishly solicited for twopence, to
 buy ‘lemon-stunners’--a local sweetmeat--he presented an oyster-knife at
 the twins!
 
@@ -152,11 +152,11 @@ he now allow me to throw myself on his friendly consideration? Oh yes,
 for I know his heart!
 
 ‘The quick eye of affection is not easily blinded, when of the female
-sex. Mr. Micawber is going to London. Though he studiously concealed his
+sex. Mr. Micawber is going to [[London]]. Though he studiously concealed his
 hand, this morning before breakfast, in writing the direction-card which
 he attached to the little brown valise of happier days, the eagle-glance
 of matrimonial anxiety detected, d, o, n, distinctly traced. The
-West-End destination of the coach, is the Golden Cross. Dare I fervently
+West-End destination of the coach, is the Golden [[Cross]]. Dare I fervently
 implore Mr. T. to see my misguided husband, and to reason with him?
 Dare I ask Mr. T. to endeavour to step in between Mr. Micawber and his
 agonized family? Oh no, for that would be too much!
@@ -173,7 +173,7 @@ subscribes herself, in extreme distress,
 
 ‘Mr. Thomas Traddles’s respectful friend and suppliant,
 
-                                   ‘EMMA MICAWBER.’
+                                   ‘[[Emma|EMMA]] MICAWBER.’
 
 
 ‘What do you think of that letter?’ said Traddles, casting his eyes upon
@@ -185,17 +185,17 @@ with knitted brows.
 ‘I think that the two together, Copperfield,’ replied Traddles,
 ‘mean more than Mr. and Mrs. Micawber usually mean in their
 correspondence--but I don’t know what. They are both written in good
-faith, I have no doubt, and without any collusion. Poor thing!’ he was
+[[Faith|faith]], I have no [[Doubt|doubt]], and without any collusion. Poor thing!’ he was
 now alluding to Mrs. Micawber’s letter, and we were standing side by
-side comparing the two; ‘it will be a charity to write to her, at all
+side comparing the two; ‘it will be a [[Charity|charity]] to write to her, at all
 events, and tell her that we will not fail to see Mr. Micawber.’
 
 I acceded to this the more readily, because I now reproached myself with
 having treated her former letter rather lightly. It had set me thinking
-a good deal at the time, as I have mentioned in its place; but my
+a good deal at the [[Time|time]], as I have mentioned in its place; but my
 absorption in my own affairs, my experience of the family, and my
 hearing nothing more, had gradually ended in my dismissing the subject.
-I had often thought of the Micawbers, but chiefly to wonder what
+I had often thought of the Micawbers, but chiefly to [[Wonder|wonder]] what
 ‘pecuniary liabilities’ they were establishing in Canterbury, and to
 recall how shy Mr. Micawber was of me when he became clerk to Uriah
 Heep.
@@ -208,7 +208,7 @@ in the afternoon; but our only decided conclusion was, that we would be
 very punctual in keeping Mr. Micawber’s appointment.
 
 Although we appeared at the stipulated place a quarter of an hour before
-the time, we found Mr. Micawber already there. He was standing with his
+the [[Time|time]], we found Mr. Micawber already there. He was standing with his
 arms folded, over against the wall, looking at the spikes on the top,
 with a sentimental expression, as if they were the interlacing boughs of
 trees that had shaded him in his youth.
@@ -234,23 +234,23 @@ gentlemen,’ when I ventured to object to that ceremonious form of
 address, and to beg that he would speak to us in the old way.
 
 ‘My dear Copperfield,’ he returned, pressing my hand, ‘your cordiality
-overpowers me. This reception of a shattered fragment of the Temple once
+overpowers me. This reception of a shattered [[Fragment|fragment]] of the Temple once
 called Man--if I may be permitted so to express myself--bespeaks a heart
-that is an honour to our common nature. I was about to observe that
+that is an [[Honour|honour]] to our common [[Nature|nature]]. I was about to observe that
 I again behold the serene spot where some of the happiest hours of my
 existence fleeted by.’
 
-‘Made so, I am sure, by Mrs. Micawber,’ said I. ‘I hope she is well?’
+‘Made so, I am sure, by Mrs. Micawber,’ said I. ‘I [[Hope|hope]] she is [[Well|well]]?’
 
 ‘Thank you,’ returned Mr. Micawber, whose face clouded at this
 reference, ‘she is but so-so. And this,’ said Mr. Micawber, nodding
-his head sorrowfully, ‘is the Bench! Where, for the first time in many
+his head sorrowfully, ‘is the Bench! Where, for the first [[Time|time]] in many
 revolving years, the overwhelming pressure of pecuniary liabilities was
 not proclaimed, from day to day, by importune voices declining to vacate
 the passage; where there was no knocker on the door for any creditor
 to appeal to; where personal service of process was not required, and
 detainees were merely lodged at the gate! Gentlemen,’ said Mr. Micawber,
-‘when the shadow of that iron-work on the summit of the brick structure
+‘when the [[Shadow|shadow]] of that iron-work on the summit of the brick structure
 has been reflected on the gravel of the Parade, I have seen my children
 thread the mazes of the intricate pattern, avoiding the dark marks. I
 have been familiar with every stone in the place. If I betray weakness,
@@ -268,20 +268,20 @@ my proffered arm on one side, and the proffered arm of Traddles on the
 other, and walked away between us.
 
 ‘There are some landmarks,’ observed Mr. Micawber, looking fondly back
-over his shoulder, ‘on the road to the tomb, which, but for the impiety
-of the aspiration, a man would wish never to have passed. Such is the
+over his shoulder, ‘on the [[Road|road]] to the tomb, which, but for the impiety
+of the [[Aspiration|aspiration]], a man would wish never to have passed. Such is the
 Bench in my chequered career.’
 
 ‘Oh, you are in low spirits, Mr. Micawber,’ said Traddles.
 
 ‘I am, sir,’ interposed Mr. Micawber.
 
-‘I hope,’ said Traddles, ‘it is not because you have conceived a dislike
+‘I [[Hope|hope]],’ said Traddles, ‘it is not because you have conceived a dislike
 to the law--for I am a lawyer myself, you know.’
 
 Mr. Micawber answered not a word.
 
-‘How is our friend Heep, Mr. Micawber?’ said I, after a silence.
+‘How is our friend Heep, Mr. Micawber?’ said I, after a [[Silence|silence]].
 
 ‘My dear Copperfield,’ returned Mr. Micawber, bursting into a state of
 much excitement, and turning pale, ‘if you ask after my employer as
@@ -300,9 +300,9 @@ repeating the mistake, how my old friends Mr. and Miss Wickfield are?’
 ‘Miss Wickfield,’ said Mr. Micawber, now turning red, ‘is, as she always
 is, a pattern, and a bright example. My dear Copperfield, she is the
 only starry spot in a miserable existence. My respect for that young
-lady, my admiration of her character, my devotion to her for her love
-and truth, and goodness!--Take me,’ said Mr. Micawber, ‘down a turning,
-for, upon my soul, in my present state of mind I am not equal to this!’
+lady, my admiration of her character, my devotion to her for her [[Love|love]]
+and [[Truth|truth]], and goodness!--Take me,’ said Mr. Micawber, ‘down a turning,
+for, upon my [[Soul|soul]], in my present state of mind I am not equal to this!’
 
 We wheeled him off into a narrow street, where he took out his
 pocket-handkerchief, and stood with his back to a wall. If I looked as
@@ -310,12 +310,12 @@ gravely at him as Traddles did, he must have found our company by no
 means inspiriting.
 
 ‘It is my fate,’ said Mr. Micawber, unfeignedly sobbing, but doing even
-that, with a shadow of the old expression of doing something genteel;
-‘it is my fate, gentlemen, that the finer feelings of our nature have
+that, with a [[Shadow|shadow]] of the old expression of doing something genteel;
+‘it is my fate, gentlemen, that the finer feelings of our [[Nature|nature]] have
 become reproaches to me. My homage to Miss Wickfield, is a flight of
 arrows in my bosom. You had better leave me, if you please, to walk the
-earth as a vagabond. The worm will settle my business in double-quick
-time.’
+earth as a vagabond. The worm will settle my business in [[Double|double]]-quick
+[[Time|time]].’
 
 Without attending to this invocation, we stood by, until he put up his
 pocket-handkerchief, pulled up his shirt-collar, and, to delude any
@@ -342,16 +342,16 @@ way. I was very uneasy and very uncertain in my mind what to say or do
 for the best--so was Traddles, evidently. Mr. Micawber was for the most
 part plunged into deep gloom. He occasionally made an attempt to smarten
 himself, and hum the fag-end of a tune; but his relapses into profound
-melancholy were only made the more impressive by the mockery of a hat
+[[Melancholy|melancholy]] were only made the more impressive by the mockery of a hat
 exceedingly on one side, and a shirt-collar pulled up to his eyes.
 
-We went to my aunt’s house rather than to mine, because of Dora’s not
-being well. My aunt presented herself on being sent for, and welcomed
+We went to my aunt’s [[house]] rather than to mine, because of Dora’s not
+being [[Well|well]]. My aunt presented herself on being sent for, and welcomed
 Mr. Micawber with gracious cordiality. Mr. Micawber kissed her hand,
-retired to the window, and pulling out his pocket-handkerchief, had a
+retired to the [[Window|window]], and pulling out his pocket-handkerchief, had a
 mental wrestle with himself.
 
-Mr. Dick was at home. He was by nature so exceedingly compassionate of
+Mr. Dick was at [[Home|home]]. He was by [[Nature|nature]] so exceedingly compassionate of
 anyone who seemed to be ill at ease, and was so quick to find any such
 person out, that he shook hands with Mr. Micawber, at least half-a-dozen
 times in five minutes. To Mr. Micawber, in his trouble, this warmth, on
@@ -366,7 +366,7 @@ of our coarser national sports--floors me. To a man who is struggling
 with a complicated burden of perplexity and disquiet, such a reception
 is trying, I assure you.’
 
-‘My friend Mr. Dick,’ replied my aunt proudly, ‘is not a common man.’
+‘My friend Mr. Dick,’ replied my aunt proudly, ‘is not a [[Common Man|common man]].’
 
 ‘That I am convinced of,’ said Mr. Micawber. ‘My dear sir!’ for Mr.
 Dick was shaking hands with him again; ‘I am deeply sensible of your
@@ -385,7 +385,7 @@ Mr. Dick’s hand again within his own. ‘It has been my lot,’ he observed,
 occasional oasis, but never with one so green, so gushing, as the
 present!’
 
-At another time I should have been amused by this; but I felt that
+At another [[Time|time]] I should have been amused by this; but I felt that
 we were all constrained and uneasy, and I watched Mr. Micawber so
 anxiously, in his vacillations between an evident disposition to reveal
 something, and a counter-disposition to reveal nothing, that I was in a
@@ -400,15 +400,15 @@ necessary for him to talk, whether he liked it or not.
 ‘You are a very old friend of my nephew’s, Mr. Micawber,’ said my aunt.
 ‘I wish I had had the pleasure of seeing you before.’
 
-‘Madam,’ returned Mr. Micawber, ‘I wish I had had the honour of knowing
+‘Madam,’ returned Mr. Micawber, ‘I wish I had had the [[Honour|honour]] of knowing
 you at an earlier period. I was not always the wreck you at present
 behold.’
 
-‘I hope Mrs. Micawber and your family are well, sir,’ said my aunt.
+‘I [[Hope|hope]] Mrs. Micawber and your family are [[Well|well]], sir,’ said my aunt.
 
-Mr. Micawber inclined his head. ‘They are as well, ma’am,’ he
+Mr. Micawber inclined his head. ‘They are as [[Well|well]], ma’am,’ he
 desperately observed after a pause, ‘as Aliens and Outcasts can ever
-hope to be.’
+[[Hope|hope]] to be.’
 
 ‘Lord bless you, sir!’ exclaimed my aunt, in her abrupt way. ‘What are
 you talking about?’
@@ -427,7 +427,7 @@ reminder.
 you.’ They shook hands again. ‘My employer, ma’am--Mr. Heep--once did
 me the favour to observe to me, that if I were not in the receipt of the
 stipendiary emoluments appertaining to my engagement with him, I should
-probably be a mountebank about the country, swallowing a sword-blade,
+probably be a mountebank about the country, swallowing a [[Sword|sword]]-blade,
 and eating the devouring element. For anything that I can perceive to
 the contrary, it is still probable that my children may be reduced to
 seek a livelihood by personal contortion, while Mrs. Micawber abets
@@ -444,14 +444,14 @@ not prepared to make voluntarily, I should have taken him up at this
 point, but for the strange proceedings in which I saw him engaged;
 whereof his putting the lemon-peel into the kettle, the sugar into the
 snuffer-tray, the spirit into the empty jug, and confidently attempting
-to pour boiling water out of a candlestick, were among the most
+to pour boiling [[Water|water]] out of a candlestick, were among the most
 remarkable. I saw that a crisis was at hand, and it came. He clattered
-all his means and implements together, rose from his chair, pulled out
-his pocket-handkerchief, and burst into tears.
+all his means and implements together, [[Rose|rose]] from his chair, pulled out
+his pocket-handkerchief, and burst into [[Tears|tears]].
 
 ‘My dear Copperfield,’ said Mr. Micawber, behind his handkerchief,
 ‘this is an occupation, of all others, requiring an untroubled mind, and
-self-respect. I cannot perform it. It is out of the question.’
+[[Self|self]]-respect. I cannot perform it. It is out of the question.’
 
 ‘Mr. Micawber,’ said I, ‘what is the matter? Pray speak out. You are
 among friends.’
@@ -460,20 +460,20 @@ among friends.’
 came breaking out of him. ‘Good heavens, it is principally because I AM
 among friends that my state of mind is what it is. What is the matter,
 gentlemen? What is NOT the matter? Villainy is the matter; baseness is
-the matter; deception, fraud, conspiracy, are the matter; and the name
+the matter; [[Deception|deception]], fraud, conspiracy, are the matter; and the name
 of the whole atrocious mass is--HEEP!’
 
 My aunt clapped her hands, and we all started up as if we were
 possessed.
 
 ‘The struggle is over!’ said Mr. Micawber violently gesticulating with
-his pocket-handkerchief, and fairly striking out from time to time with
+his pocket-handkerchief, and fairly striking out from [[Time|time]] to [[Time|time]] with
 both arms, as if he were swimming under superhuman difficulties. ‘I will
 lead this life no longer. I am a wretched being, cut off from everything
 that makes life tolerable. I have been under a Taboo in that infernal
 scoundrel’s service. Give me back my wife, give me back my family,
 substitute Micawber for the petty wretch who walks about in the boots
-at present on my feet, and call upon me to swallow a sword tomorrow, and
+at present on my feet, and call upon me to [[Swallow|swallow]] a [[Sword|sword]] tomorrow, and
 I’ll do it. With an appetite!’
 
 I never saw a man so hot in my life. I tried to calm him, that we might
@@ -482,7 +482,7 @@ hear a word.
 
 ‘I’ll put my hand in no man’s hand,’ said Mr. Micawber, gasping,
 puffing, and sobbing, to that degree that he was like a man
-fighting with cold water, ‘until I have--blown to
+fighting with cold [[Water|water]], ‘until I have--blown to
 fragments--the--a--detestable--serpent--HEEP! I’ll partake of no
 one’s hospitality, until I have--a--moved Mount Vesuvius--to
 eruption--on--a--the abandoned rascal--HEEP! Refreshment--a--underneath
@@ -493,7 +493,7 @@ nothing--and--a--live nowhere--until I have
 crushed--to--a--undiscoverable atoms--the--transcendent and immortal
 hypocrite and perjurer--HEEP!’
 
-I really had some fear of Mr. Micawber’s dying on the spot. The manner
+I really had some [[Fear|fear]] of Mr. Micawber’s dying on the spot. The manner
 in which he struggled through these inarticulate sentences, and,
 whenever he found himself getting near the name of Heep, fought his way
 on to it, dashed at it in a fainting state, and brought it out with a
@@ -510,20 +510,20 @@ Wickfield--a--redress from wrongs inflicted by consummate
 scoundrel--HEEP!’ (I am quite convinced he could not have uttered three
 words, but for the amazing energy with which this word inspired him when
 he felt it coming.) ‘Inviolable secret--a--from the whole world--a--no
-exceptions--this day week--a--at breakfast-time--a--everybody
+exceptions--this day week--a--at breakfast-[[Time|time]]--a--everybody
 present--including aunt--a--and extremely friendly gentleman--to be at
 the hotel at Canterbury--a--where--Mrs. Micawber and myself--Auld Lang
-Syne in chorus--and--a--will expose intolerable ruffian--HEEP! No more
-to say--a--or listen to persuasion--go immediately--not capable--a--bear
+Syne in [[Chorus|chorus]]--and--a--will expose intolerable ruffian--HEEP! No more
+to say--a--or listen to [[Persuasion|persuasion]]--go immediately--not capable--a--bear
 society--upon the track of devoted and doomed traitor--HEEP!’
 
-With this last repetition of the magic word that had kept him going at
+With this last repetition of the [[Magic|magic]] word that had kept him going at
 all, and in which he surpassed all his previous efforts, Mr. Micawber
-rushed out of the house; leaving us in a state of excitement, hope, and
-wonder, that reduced us to a condition little better than his own. But
+rushed out of the [[house]]; leaving us in a state of excitement, [[Hope|hope]], and
+[[Wonder|wonder]], that reduced us to a condition little better than his own. But
 even then his passion for writing letters was too strong to be resisted;
-for while we were yet in the height of our excitement, hope, and wonder,
-the following pastoral note was brought to me from a neighbouring
+for while we were yet in the height of our excitement, [[Hope|hope]], and [[Wonder|wonder]],
+the following [[Pastoral|pastoral]] note was brought to me from a neighbouring
 tavern, at which he had called to write it:--
 
 
@@ -536,18 +536,18 @@ volcano long suppressed, was the result of an internal contest more
 easily conceived than described.
 
 ‘I trust I rendered tolerably intelligible my appointment for the
-morning of this day week, at the house of public entertainment at
-Canterbury, where Mrs. Micawber and myself had once the honour of
-uniting our voices to yours, in the well-known strain of the Immortal
+morning of this day week, at the [[house]] of public entertainment at
+Canterbury, where Mrs. Micawber and myself had once the [[Honour|honour]] of
+uniting our voices to yours, in the [[Well|well]]-known strain of the Immortal
 exciseman nurtured beyond the Tweed.
 
-‘The duty done, and act of reparation performed, which can alone enable
+‘The duty done, and act of reparation performed, which can [[Alone|alone]] enable
 me to contemplate my fellow mortal, I shall be known no more. I shall
 simply require to be deposited in that place of universal resort, where
 
      Each in his narrow cell for ever laid,
-     The rude forefathers of the hamlet sleep,
+     The rude forefathers of the [[Hamlet|hamlet]] [[Sleep|sleep]],
 
-                    ‘--With the plain Inscription,
+                    ‘--With the plain [[Inscription]],
 
-                         ‘WILKINS MICAWBER.’
+                         ‘[[Wilkins Micawber|WILKINS MICAWBER]].’

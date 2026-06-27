@@ -28,27 +28,27 @@ awful manner, over our Sister and our Brother too.
 
 And Sloppy—on whom the brave deceased had never turned her back until
 she ran away from him, knowing that otherwise he would not be separated
-from her—Sloppy could not in his conscience as yet find the hearty
+from her—Sloppy could not in his [[Conscience|conscience]] as yet find the hearty
 thanks required of it. Selfish in Sloppy, and yet excusable, it may be
 humbly hoped, because our sister had been more than his mother.
 
 The words were read above the ashes of Betty Higden, in a corner of a
-churchyard near the river; in a churchyard so obscure that there was
+churchyard near the [[River|river]]; in a churchyard so obscure that there was
 nothing in it but grass-mounds, not so much as one single tombstone.
 It might not be to do an unreasonably great deal for the diggers and
 hewers, in a registering age, if we ticketed their graves at the common
 charge; so that a new generation might know which was which: so that the
-soldier, sailor, emigrant, coming home, should be able to identify the
+soldier, sailor, emigrant, coming [[Home|home]], should be able to identify the
 resting-place of father, mother, playmate, or betrothed. For, we turn up
-our eyes and say that we are all alike in death, and we might turn
+our eyes and say that we are all alike in [[Death|death]], and we might turn
 them down and work the saying out in this world, so far. It would
 be sentimental, perhaps? But how say ye, my lords and gentleman and
 honourable boards, shall we not find good standing-room left for a
 little sentiment, if we look into our crowds?
 
 Near unto the Reverend Frank Milvey as he read, stood his little wife,
-John Rokesmith the Secretary, and Bella Wilfer. These, over and above
-Sloppy, were the mourners at the lowly grave. Not a penny had been
+John Rokesmith the Secretary, and [[Bella Wilfer]]. These, over and above
+Sloppy, were the mourners at the lowly [[Grave|grave]]. Not a penny had been
 added to the money sewn in her dress: what her honest spirit had so long
 projected, was fulfilled.
 
@@ -70,16 +70,16 @@ she went through with everythink. O Mrs Higden, Mrs Higden, you was a
 woman and a mother and a mangler in a million million!’
 
 With those heartfelt words, Sloppy removed his dejected head from the
-church door, and took it back to the grave in the corner, and laid it
-down there, and wept alone. ‘Not a very poor grave,’ said the Reverend
+church door, and took it back to the [[Grave|grave]] in the corner, and laid it
+down there, and wept [[Alone|alone]]. ‘Not a very poor [[Grave|grave]],’ said the Reverend
 Frank Milvey, brushing his hand across his eyes, ‘when it has that
 homely figure on it. Richer, I think, than it could be made by most of
 the sculpture in Westminster Abbey!’
 
 They left him undisturbed, and passed out at the wicket-gate. The
-water-wheel of the paper-mill was audible there, and seemed to have a
+[[Water|water]]-[[Wheel|wheel]] of the paper-mill was audible there, and seemed to have a
 softening influence on the bright wintry scene. They had arrived but a
-little while before, and Lizzie Hexam now told them the little she could
+little while before, and [[Lizzie Hexam]] now told them the little she could
 add to the letter in which she had enclosed Mr Rokesmith’s letter and
 had asked for their instructions. This was merely how she had heard the
 groan, and what had afterwards passed, and how she had obtained leave
@@ -99,7 +99,7 @@ without our managing partner.’
 wife, is a Jewess, and I was first brought to their notice by a Jew. But
 I think there cannot be kinder people in the world.’
 
-‘But suppose they try to convert you!’ suggested Mrs Milvey, bristling
+‘But suppose they try to [[convert]] you!’ suggested Mrs Milvey, bristling
 in her good little way, as a clergyman’s wife.
 
 ‘To do what, ma’am?’ asked Lizzie, with a modest smile.
@@ -129,30 +129,30 @@ would talk to her.’
 
 ‘My dear,’ said the Reverend Frank aside to his good little wife, ‘I
 think I will leave it to somebody else. The circumstances are hardly
-favourable. There are plenty of talkers going about, my love, and she
+favourable. There are plenty of talkers going about, my [[Love|love]], and she
 will soon find one.’
 
 While this discourse was interchanging, both Bella and the Secretary
-observed Lizzie Hexam with great attention. Brought face to face for the
-first time with the daughter of his supposed murderer, it was natural
-that John Harmon should have his own secret reasons for a careful
+observed [[Lizzie Hexam]] with great attention. Brought face to face for the
+first [[Time|time]] with the daughter of his supposed murderer, it was natural
+that [[John Harmon]] should have his own secret reasons for a careful
 scrutiny of her countenance and manner. Bella knew that Lizzie’s
 father had been falsely accused of the crime which had had so great an
 influence on her own life and fortunes; and her interest, though it had
 no secret springs, like that of the Secretary, was equally natural. Both
-had expected to see something very different from the real Lizzie Hexam,
+had expected to see something very different from the real [[Lizzie Hexam]],
 and thus it fell out that she became the unconscious means of bringing
 them together.
 
-For, when they had walked on with her to the little house in the clean
+For, when they had walked on with her to the little [[house]] in the clean
 village by the paper-mill, where Lizzie had a lodging with an elderly
 couple employed in the establishment, and when Mrs Milvey and Bella
 had been up to see her room and had come down, the mill bell rang.
-This called Lizzie away for the time, and left the Secretary and Bella
+This called Lizzie away for the [[Time|time]], and left the Secretary and Bella
 standing rather awkwardly in the small street; Mrs Milvey being engaged
 in pursuing the village children, and her investigations whether they
 were in danger of becoming children of Israel; and the Reverend Frank
-being engaged—to say the truth—in evading that branch of his spiritual
+being engaged—to say the [[Truth|truth]]—in evading that branch of his spiritual
 functions, and getting out of sight surreptitiously.
 
 Bella at length said:
@@ -171,20 +171,20 @@ shouldn’t both be here?’
 Boffin urged me to do so, in order that I might give her my small
 report—it’s not worth anything, Mr Rokesmith, except for it’s being
 a woman’s—which indeed with you may be a fresh reason for it’s being
-worth nothing—of Lizzie Hexam.’
+worth nothing—of [[Lizzie Hexam]].’
 
 ‘Mr Boffin,’ said the Secretary, ‘directed me to come for the same
 purpose.’
 
 As they spoke they were leaving the little street and emerging on the
-wooded landscape by the river.
+wooded landscape by the [[River|river]].
 
-‘You think well of her, Mr Rokesmith?’ pursued Bella, conscious of
+‘You think [[Well|well]] of her, Mr Rokesmith?’ pursued Bella, conscious of
 making all the advances.
 
 ‘I think highly of her.’
 
-‘I am so glad of that! Something quite refined in her beauty, is there
+‘I am so glad of that! Something quite refined in her [[Beauty|beauty]], is there
 not?’
 
 ‘Her appearance is very striking.’
@@ -194,7 +194,7 @@ I—I am not setting up my own poor opinion, you know, Mr Rokesmith,’
 said Bella, excusing and explaining herself in a pretty shy way; ‘I am
 consulting you.’
 
-‘I noticed that sadness. I hope it may not,’ said the Secretary in
+‘I noticed that sadness. I [[Hope|hope]] it may not,’ said the Secretary in
 a lower voice, ‘be the result of the false accusation which has been
 retracted.’
 
@@ -204,21 +204,21 @@ stealing a glance or two at the Secretary, suddenly said:
 ‘Oh, Mr Rokesmith, don’t be hard with me, don’t be stern with me; be
 magnanimous! I want to talk with you on equal terms.’
 
-The Secretary as suddenly brightened, and returned: ‘Upon my honour I
+The Secretary as suddenly brightened, and returned: ‘Upon my [[Honour|honour]] I
 had no thought but for you. I forced myself to be constrained, lest you
 might misinterpret my being more natural. There. It’s gone.’
 
 ‘Thank you,’ said Bella, holding out her little hand. ‘Forgive me.’
 
-‘No!’ cried the Secretary, eagerly. ‘Forgive ME!’ For there were tears
+‘No!’ cried the Secretary, eagerly. ‘Forgive ME!’ For there were [[Tears|tears]]
 in her eyes, and they were prettier in his sight (though they smote him
 on the heart rather reproachfully too) than any other glitter in the
 world.
 
 When they had walked a little further:
 
-‘You were going to speak to me,’ said the Secretary, with the shadow so
-long on him quite thrown off and cast away, ‘about Lizzie Hexam. So was
+‘You were going to speak to me,’ said the Secretary, with the [[Shadow|shadow]] so
+long on him quite thrown off and cast away, ‘about [[Lizzie Hexam]]. So was
 I going to speak to you, if I could have begun.’
 
 ‘Now that you CAN begin, sir,’ returned Bella, with a look as if she
@@ -234,7 +234,7 @@ Bella nodded Yes.
 
 ‘It is my duty to find out why she made that stipulation. I have it in
 charge from Mr Boffin to discover, and I am very desirous for myself to
-discover, whether that retracted accusation still leaves any stain upon
+discover, whether that retracted accusation still [[Leaves|leaves]] any stain upon
 her. I mean whether it places her at any disadvantage towards any one,
 even towards herself.’
 
@@ -252,7 +252,7 @@ The Secretary with a smile held up his hand, so plainly interposing ‘not
 for better taste’, that Bella’s colour deepened over the little piece of
 coquetry she was checked in.
 
-‘And so,’ resumed the Secretary, ‘if you would speak with her alone
+‘And so,’ resumed the Secretary, ‘if you would speak with her [[Alone|alone]]
 before we go away from here, I feel quite sure that a natural and easy
 confidence would arise between you. Of course you would not be asked to
 betray it; and of course you would not, if you were. But if you do not
@@ -276,13 +276,13 @@ the burden of it for any one else.’
 
 ‘Not for your father?’
 
-‘Dear, loving, self-forgetting, easily-satisfied Pa! Oh, yes! He thinks
+‘Dear, loving, [[Self|self]]-forgetting, easily-satisfied Pa! Oh, yes! He thinks
 so.’
 
 ‘It is enough if he only thinks so,’ said the Secretary. ‘Excuse the
 interruption: I don’t like to hear you depreciate yourself.’
 
-‘But YOU once depreciated ME, sir,’ thought Bella, pouting, ‘and I hope
+‘But YOU once depreciated ME, sir,’ thought Bella, pouting, ‘and I [[Hope|hope]]
 you may be satisfied with the consequences you brought upon your head!’
 However, she said nothing to that purpose; she even said something to a
 different purpose.
@@ -296,17 +296,17 @@ don’t you?’
 ‘Unquestionably. And also that you are his favourite companion.’
 
 ‘That makes it,’ said Bella, ‘so very difficult to speak of him. But—.
-Does he treat you well?’
+Does he treat you [[Well|well]]?’
 
 ‘You see how he treats me,’ the Secretary answered, with a patient and
 yet proud air.
 
-‘Yes, and I see it with pain,’ said Bella, very energetically.
+‘Yes, and I see it with [[Pain|pain]],’ said Bella, very energetically.
 
 The Secretary gave her such a radiant look, that if he had thanked her a
 hundred times, he could not have said as much as the look said.
 
-‘I see it with pain,’ repeated Bella, ‘and it often makes me miserable.
+‘I see it with [[Pain|pain]],’ repeated Bella, ‘and it often makes me miserable.
 Miserable, because I cannot bear to be supposed to approve of it, or
 have any indirect share in it. Miserable, because I cannot bear to be
 forced to admit to myself that Fortune is spoiling Mr Boffin.’
@@ -317,7 +317,7 @@ YOU, you would know that it more than compensates me for any slight at
 any other hands.’
 
 ‘Oh, don’t speak of ME,’ said Bella, giving herself an impatient little
-slap with her glove. ‘You don’t know me as well as—’
+slap with her glove. ‘You don’t know me as [[Well|well]] as—’
 
 ‘As you know yourself?’ suggested the Secretary, finding that she
 stopped. ‘DO you know yourself?’
@@ -331,7 +331,7 @@ used to be,’ observed the Secretary, ‘must be admitted. It is too plain
 to be denied.’
 
 ‘Are you disposed to deny it, Mr Rokesmith?’ asked Bella, with a look of
-wonder.
+[[Wonder|wonder]].
 
 ‘Ought I not to be glad to do so, if I could: though it were only for my
 own sake?’
@@ -349,11 +349,11 @@ Assenting with a movement of his head, though not at all looking as if
 it did, the Secretary replied:
 
 ‘I have very strong reasons, Miss Wilfer, for bearing with the drawbacks
-of my position in the house we both inhabit. Believe that they are not
+of my position in the [[house]] we both inhabit. Believe that they are not
 all mercenary, although I have, through a series of strange fatalities,
 faded out of my place in life. If what you see with such a gracious
-and good sympathy is calculated to rouse my pride, there are other
-considerations (and those you do not see) urging me to quiet endurance.
+and good sympathy is calculated to rouse my [[Pride|pride]], there are other
+considerations (and those you do not see) urging me to quiet [[Endurance|endurance]].
 The latter are by far the stronger.’
 
 ‘I think I have noticed, Mr Rokesmith,’ said Bella, looking at him with
@@ -363,9 +363,9 @@ force yourself, to act a passive part.’
 ‘You are right. I repress myself and force myself to act a part. It is
 not in tameness of spirit that I submit. I have a settled purpose.’
 
-‘And a good one, I hope,’ said Bella.
+‘And a good one, I [[Hope|hope]],’ said Bella.
 
-‘And a good one, I hope,’ he answered, looking steadily at her.
+‘And a good one, I [[Hope|hope]],’ he answered, looking steadily at her.
 
 ‘Sometimes I have fancied, sir,’ said Bella, turning away her eyes,
 ‘that your great regard for Mrs Boffin is a very powerful motive with
@@ -382,9 +382,9 @@ woman.’
 ‘Of course you see that she really suffers, when Mr Boffin shows how he
 is changing?’
 
-‘I see it, every day, as you see it, and am grieved to give her pain.’
+‘I see it, every day, as you see it, and am grieved to give her [[Pain|pain]].’
 
-‘To give her pain?’ said Bella, repeating the phrase quickly, with her
+‘To give her [[Pain|pain]]?’ said Bella, repeating the phrase quickly, with her
 eyebrows raised.
 
 ‘I am generally the unfortunate cause of it.’
@@ -403,38 +403,38 @@ Life, heaved a little sigh, and gave up things in general for a bad job,
 as she had previously been inclined to give up herself.
 
 But, for all that, they had a very pleasant walk. The trees were bare of
-leaves, and the river was bare of water-lilies; but the sky was not bare
-of its beautiful blue, and the water reflected it, and a delicious
-wind ran with the stream, touching the surface crisply. Perhaps the old
-mirror was never yet made by human hands, which, if all the images it
-has in its time reflected could pass across its surface again, would
+[[Leaves|leaves]], and the [[River|river]] was bare of [[Water|water]]-lilies; but the sky was not bare
+of its beautiful blue, and the [[Water|water]] reflected it, and a delicious
+[[Wind|wind]] ran with the stream, touching the surface crisply. Perhaps the old
+[[Mirror|mirror]] was never yet made by human hands, which, if all the images it
+has in its [[Time|time]] reflected could pass across its surface again, would
 fail to reveal some scene of horror or distress. But the great serene
-mirror of the river seemed as if it might have reproduced all it had
+[[Mirror|mirror]] of the [[River|river]] seemed as if it might have reproduced all it had
 ever reflected between those placid banks, and brought nothing to the
-light save what was peaceful, pastoral, and blooming.
+light save what was peaceful, [[Pastoral|pastoral]], and blooming.
 
-So, they walked, speaking of the newly filled-up grave, and of Johnny,
+So, they walked, speaking of the newly filled-up [[Grave|grave]], and of Johnny,
 and of many things. So, on their return, they met brisk Mrs Milvey
 coming to seek them, with the agreeable intelligence that there was no
-fear for the village children, there being a Christian school in the
+[[Fear|fear]] for the village children, there being a Christian school in the
 village, and no worse Judaical interference with it than to plant its
-garden. So, they got back to the village as Lizzie Hexam was coming from
+[[Garden|garden]]. So, they got back to the village as [[Lizzie Hexam]] was coming from
 the paper-mill, and Bella detached herself to speak with her in her own
-home.
+[[Home|home]].
 
 ‘I am afraid it is a poor room for you,’ said Lizzie, with a smile of
-welcome, as she offered the post of honour by the fireside.
+welcome, as she offered the post of [[Honour|honour]] by the fireside.
 
 ‘Not so poor as you think, my dear,’ returned Bella, ‘if you knew all.’
 Indeed, though attained by some wonderful winding narrow stairs, which
 seemed to have been erected in a pure white chimney, and though very low
 in the ceiling, and very rugged in the floor, and rather blinking as
-to the proportions of its lattice window, it was a pleasanter room than
-that despised chamber once at home, in which Bella had first bemoaned
+to the proportions of its lattice [[Window|window]], it was a pleasanter room than
+that despised chamber once at [[Home|home]], in which Bella had first bemoaned
 the miseries of taking lodgers.
 
 The day was closing as the two girls looked at one another by the
-fireside. The dusky room was lighted by the fire. The grate might have
+fireside. The dusky room was lighted by the [[Fire|fire]]. The grate might have
 been the old brazier, and the glow might have been the old hollow down
 by the flare.
 
@@ -468,7 +468,7 @@ I was dragged into the subject without my consent, and you were dragged
 into it without your consent, and there is very little to choose between
 us.’
 
-‘I had no doubt,’ said Lizzie, ‘that you were the Miss Wilfer I have
+‘I had no [[Doubt|doubt]],’ said Lizzie, ‘that you were the Miss Wilfer I have
 often heard named. Can you tell me who my unknown friend is?’
 
 ‘Unknown friend, my dear?’ said Bella.
@@ -479,7 +479,7 @@ me the written paper.’
 Bella had never heard of him. Had no notion who he was.
 
 ‘I should have been glad to thank him,’ returned Lizzie. ‘He has done a
-great deal for me. I must hope that he will let me thank him some day.
+great deal for me. I must [[Hope|hope]] that he will let me thank him some day.
 You asked me has it anything to do—’
 
 ‘It or the accusation itself,’ Bella put in.
@@ -487,14 +487,14 @@ You asked me has it anything to do—’
 ‘Yes. Has either anything to do with my wishing to live quite secret and
 retired here? No.’
 
-As Lizzie Hexam shook her head in giving this reply and as her glance
-sought the fire, there was a quiet resolution in her folded hands, not
+As [[Lizzie Hexam]] shook her head in giving this reply and as her glance
+sought the [[Fire|fire]], there was a quiet resolution in her folded hands, not
 lost on Bella’s bright eyes.
 
-‘Have you lived much alone?’ asked Bella.
+‘Have you lived much [[Alone|alone]]?’ asked Bella.
 
-‘Yes. It’s nothing new to me. I used to be always alone many hours
-together, in the day and in the night, when poor father was alive.’
+‘Yes. It’s nothing new to me. I used to be always [[Alone|alone]] many hours
+together, in the day and in the [[Night|night]], when poor father was alive.’
 
 ‘You have a brother, I have been told?’
 
@@ -502,7 +502,7 @@ together, in the day and in the night, when poor father was alive.’
 boy though, and has raised himself by his industry. I don’t complain of
 him.’
 
-As she said it, with her eyes upon the fire-glow, there was an
+As she said it, with her eyes upon the [[Fire|fire]]-glow, there was an
 instantaneous escape of distress into her face. Bella seized the moment
 to touch her hand.
 
@@ -520,34 +520,34 @@ you could make a friend of me, Lizzie. Do you think you could? I have
 no more of what they call character, my dear, than a canary-bird, but I
 know I am trustworthy.’
 
-The wayward, playful, affectionate nature, giddy for want of the
+The wayward, playful, affectionate [[Nature|nature]], giddy for want of the
 weight of some sustaining purpose, and capricious because it was always
 fluttering among little things, was yet a captivating one. To Lizzie it
 was so new, so pretty, at once so womanly and so childish, that it won
 her completely. And when Bella said again, ‘Do you think you could,
 Lizzie?’ with her eyebrows raised, her head inquiringly on one side,
-and an odd doubt about it in her own bosom, Lizzie showed beyond all
+and an odd [[Doubt|doubt]] about it in her own bosom, Lizzie showed beyond all
 question that she thought she could.
 
 ‘Tell me, my dear,’ said Bella, ‘what is the matter, and why you live
 like this.’
 
-Lizzie presently began, by way of prelude, ‘You must have many lovers—’
+Lizzie presently began, by way of prelude, ‘You must have many [[lovers]]—’
 when Bella checked her with a little scream of astonishment.
 
 ‘My dear, I haven’t one!’
 
 ‘Not one?’
 
-‘Well! Perhaps one,’ said Bella. ‘I am sure I don’t know. I HAD one, but
-what he may think about it at the present time I can’t say. Perhaps I
+‘[[Well]]! Perhaps one,’ said Bella. ‘I am sure I don’t know. I HAD one, but
+what he may think about it at the present [[Time|time]] I can’t say. Perhaps I
 have half a one (of course I don’t count that Idiot, George Sampson).
 However, never mind me. I want to hear about you.’
 
 ‘There is a certain man,’ said Lizzie, ‘a passionate and angry man, who
-says he loves me, and who I must believe does love me. He is the friend
+says he loves me, and who I must believe does [[Love|love]] me. He is the friend
 of my brother. I shrank from him within myself when my brother first
-brought him to me; but the last time I saw him he terrified me more than
+brought him to me; but the last [[Time|time]] I saw him he terrified me more than
 I can say.’ There she stopped.
 
 ‘Did you come here to escape from him, Lizzie?’
@@ -557,16 +557,16 @@ I can say.’ There she stopped.
 ‘Are you afraid of him here?’
 
 ‘I am not timid generally, but I am always afraid of him. I am afraid
-to see a newspaper, or to hear a word spoken of what is done in London,
+to see a newspaper, or to hear a word spoken of what is done in [[London]],
 lest he should have done some violence.’
 
 ‘Then you are not afraid of him for yourself, dear?’ said Bella, after
 pondering on the words.
 
 ‘I should be even that, if I met him about here. I look round for him
-always, as I pass to and fro at night.’
+always, as I pass to and fro at [[Night|night]].’
 
-‘Are you afraid of anything he may do to himself in London, my dear?’
+‘Are you afraid of anything he may do to himself in [[London]], my dear?’
 
 ‘No. He might be fierce enough even to do some violence to himself, but
 I don’t think of that.’
@@ -578,20 +578,20 @@ Lizzie put her hands before her face for a moment before replying: ‘The
 words are always in my ears, and the blow he struck upon a stone wall as
 he said them is always before my eyes. I have tried hard to think it
 not worth remembering, but I cannot make so little of it. His hand was
-trickling down with blood as he said to me, “Then I hope that I may
+trickling down with [[Blood|blood]] as he said to me, “Then I [[Hope|hope]] that I may
 never kill him!’
 
 Rather startled, Bella made and clasped a girdle of her arms round
 Lizzie’s waist, and then asked quietly, in a soft voice, as they both
-looked at the fire:
+looked at the [[Fire|fire]]:
 
 ‘Kill him! Is this man so jealous, then?’
 
 ‘Of a gentleman,’ said Lizzie. ‘—I hardly know how to tell you—of a
-gentleman far above me and my way of life, who broke father’s death to
+gentleman far above me and my way of life, who broke father’s [[Death|death]] to
 me, and has shown an interest in me since.’
 
-‘Does he love you?’
+‘Does he [[Love|love]] you?’
 
 Lizzie shook her head.
 
@@ -609,18 +609,18 @@ get the least clue where to find me.’
 quickly added, reading Lizzie’s face: ‘No. Don’t say why. That was a
 foolish question of mine. I see, I see.’
 
-There was silence between them. Lizzie, with a drooping head, glanced
-down at the glow in the fire where her first fancies had been nursed,
+There was [[Silence|silence]] between them. Lizzie, with a drooping head, glanced
+down at the glow in the [[Fire|fire]] where her first fancies had been nursed,
 and her first escape made from the grim life out of which she had
 plucked her brother, foreseeing her reward.
 
 ‘You know all now,’ she said, raising her eyes to Bella’s. ‘There is
 nothing left out. This is my reason for living secret here, with the aid
 of a good old man who is my true friend. For a short part of my life
-at home with father, I knew of things—don’t ask me what—that I set my
+at [[Home|home]] with father, I knew of things—don’t ask me what—that I set my
 face against, and tried to better. I don’t think I could have done more,
 then, without letting my hold on father go; but they sometimes lie heavy
-on my mind. By doing all for the best, I hope I may wear them out.’
+on my mind. By doing all for the best, I [[Hope|hope]] I may wear them out.’
 
 ‘And wear out too,’ said Bella soothingly, ‘this weakness, Lizzie, in
 favour of one who is not worthy of it.’
@@ -629,11 +629,11 @@ favour of one who is not worthy of it.’
 want to believe, nor do I believe, that he is not worthy of it. What
 should I gain by that, and how much should I lose!’
 
-Bella’s expressive little eyebrows remonstrated with the fire for some
-short time before she rejoined:
+Bella’s expressive little eyebrows remonstrated with the [[Fire|fire]] for some
+short [[Time|time]] before she rejoined:
 
 ‘Don’t think that I press you, Lizzie; but wouldn’t you gain in peace,
-and hope, and even in freedom? Wouldn’t it be better not to live a
+and [[Hope|hope]], and even in [[Freedom|freedom]]? Wouldn’t it be better not to live a
 secret life in hiding, and not to be shut out from your natural and
 wholesome prospects? Forgive my asking you, would that be no gain?’
 
@@ -642,7 +642,7 @@ spoken of,’ returned Lizzie, ‘seek to gain anything?’
 
 The question was so directly at variance with Bella’s views in life, as
 set forth to her father, that she said internally, ‘There, you little
-mercenary wretch! Do you hear that? Ain’t you ashamed of your self?’
+mercenary wretch! Do you hear that? Ain’t you ashamed of your [[Self|self]]?’
 and unclasped the girdle of her arms, expressly to give herself a
 penitential poke in the side.
 
@@ -663,7 +663,7 @@ which I somehow feel that I could not do a mean or a wrong thing before.
 I should leave off prizing the remembrance that he has done me nothing
 but good since I have known him, and that he has made a change within
 me, like—like the change in the grain of these hands, which were
-coarse, and cracked, and hard, and brown when I rowed on the river with
+coarse, and cracked, and hard, and brown when I rowed on the [[River|river]] with
 father, and are softened and made supple by this new work as you see
 them now.’
 
@@ -674,7 +674,7 @@ the possibility of his being anything to me on this earth but the
 kind picture that I know I could not make you understand, if the
 understanding was not in your own breast already. I have no more dreamed
 of the possibility of MY being his wife, than he ever has—and words
-could not be stronger than that. And yet I love him. I love him so much,
+could not be stronger than that. And yet I [[Love|love]] him. I [[Love|love]] him so much,
 and so dearly, that when I sometimes think my life may be but a weary
 one, I am proud of it and glad of it. I am proud and glad to suffer
 something for him, even though it is of no service to him, and he will
@@ -682,13 +682,13 @@ never know of it or care for it.’
 
 Bella sat enchained by the deep, unselfish passion of this girl or woman
 of her own age, courageously revealing itself in the confidence of her
-sympathetic perception of its truth. And yet she had never experienced
+sympathetic perception of its [[Truth|truth]]. And yet she had never experienced
 anything like it, or thought of the existence of anything like it.
 
-‘It was late upon a wretched night,’ said Lizzie, ‘when his eyes first
-looked at me in my old river-side home, very different from this. His
+‘It was late upon a wretched [[Night|night]],’ said Lizzie, ‘when his eyes first
+looked at me in my old [[River|river]]-side [[Home|home]], very different from this. His
 eyes may never look at me again. I would rather that they never did; I
-hope that they never may. But I would not have the light of them taken
+[[Hope|hope]] that they never may. But I would not have the light of them taken
 out of my life, for anything my life can give me. I have told you
 everything now, my dear. If it comes a little strange to me to have
 parted with it, I am not sorry. I had no thought of ever parting with a
@@ -710,7 +710,7 @@ Lizzie put up the pretty brown hair that came tumbling down, owing to
 the energy with which Bella shook her head; and she remonstrated while
 thus engaged, ‘My dear!’
 
-‘Oh, it’s all very well to call me your dear,’ said Bella, with a
+‘Oh, it’s all very [[Well|well]] to call me your dear,’ said Bella, with a
 pettish whimper, ‘and I am glad to be called so, though I have slight
 enough claim to be. But I AM such a nasty little thing!’
 
@@ -737,22 +737,22 @@ chatter like a Magpie.’
 wrong—what I thought I should never say to any one. Does that look
 ill?’
 
-‘No, I hope it doesn’t,’ pouted Bella, stopping herself in something
+‘No, I [[Hope|hope]] it doesn’t,’ pouted Bella, stopping herself in something
 between a humoured laugh and a humoured sob.
 
-‘I used once to see pictures in the fire,’ said Lizzie playfully, ‘to
-please my brother. Shall I tell you what I see down there where the fire
+‘I used once to see pictures in the [[Fire|fire]],’ said Lizzie playfully, ‘to
+please my brother. Shall I tell you what I see down there where the [[Fire|fire]]
 is glowing?’
 
-They had risen, and were standing on the hearth, the time being come for
+They had risen, and were standing on the hearth, the [[Time|time]] being come for
 separating; each had drawn an arm around the other to take leave.
 
 ‘Shall I tell you,’ asked Lizzie, ‘what I see down there?’
 
 ‘Limited little b?’ suggested Bella with her eyebrows raised.
 
-‘A heart well worth winning, and well won. A heart that, once won, goes
-through fire and water for the winner, and never changes, and is never
+‘A heart [[Well|well]] worth winning, and [[Well|well]] won. A heart that, once won, goes
+through [[Fire|fire]] and [[Water|water]] for the winner, and never changes, and is never
 daunted.’
 
 ‘Girl’s heart?’ asked Bella, with accompanying eyebrows.
@@ -774,9 +774,9 @@ remark.
 
 ‘I feel rather serious,’ returned Miss Wilfer.
 
-She had nothing else to tell him but that Lizzie Hexam’s secret had
+She had nothing else to tell him but that [[Lizzie Hexam]]’s secret had
 no reference whatever to the cruel charge, or its withdrawal. Oh yes
-though! said Bella; she might as well mention one other thing; Lizzie
+though! said Bella; she might as [[Well|well]] mention one other thing; Lizzie
 was very desirous to thank her unknown friend who had sent her the
 written retractation. Was she, indeed? observed the Secretary. Ah! Bella
 asked him, had he any notion who that unknown friend might be? He had no
@@ -789,18 +789,18 @@ and Bella and the Secretary, set out to walk to it. Few rustic paths are
 wide enough for five, and Bella and the Secretary dropped behind.
 
 ‘Can you believe, Mr Rokesmith,’ said Bella, ‘that I feel as if whole
-years had passed since I went into Lizzie Hexam’s cottage?’
+years had passed since I went into [[Lizzie Hexam]]’s cottage?’
 
 ‘We have crowded a good deal into the day,’ he returned, ‘and you were
 much affected in the churchyard. You are over-tired.’
 
 ‘No, I am not at all tired. I have not quite expressed what I mean. I
-don’t mean that I feel as if a great space of time had gone by, but that
+don’t mean that I feel as if a great space of [[Time|time]] had gone by, but that
 I feel as if much had happened—to myself, you know.’
 
-‘For good, I hope?’
+‘For good, I [[Hope|hope]]?’
 
-‘I hope so,’ said Bella.
+‘I [[Hope|hope]] so,’ said Bella.
 
 ‘You are cold; I felt you tremble. Pray let me put this wrapper of mine
 about you. May I fold it over this shoulder without injuring your dress?
@@ -816,7 +816,7 @@ she gave me her full confidence.’
 
 ‘She could not withhold it,’ said the Secretary.
 
-‘I wonder how you come,’ said Bella, stopping short as she glanced at
+‘I [[Wonder|wonder]] how you come,’ said Bella, stopping short as she glanced at
 him, ‘to say to me just what she said about it!’
 
 ‘I infer that it must be because I feel just as she felt about it.’
@@ -830,10 +830,10 @@ The railway, at this point, knowingly shutting a green eye and opening
 a red one, they had to run for it. As Bella could not run easily so
 wrapped up, the Secretary had to help her. When she took her opposite
 place in the carriage corner, the brightness in her face was so charming
-to behold, that on her exclaiming, ‘What beautiful stars and what a
-glorious night!’ the Secretary said ‘Yes,’ but seemed to prefer to see
-the night and the stars in the light of her lovely little countenance,
-to looking out of window.
+to behold, that on her exclaiming, ‘What beautiful [[Stars|stars]] and what a
+glorious [[Night|night]]!’ the Secretary said ‘Yes,’ but seemed to prefer to see
+the [[Night|night]] and the [[Stars|stars]] in the light of her lovely little countenance,
+to looking out of [[Window|window]].
 
 O boofer lady, fascinating boofer lady! If I were but legally executor
 of Johnny’s will! If I had but the right to pay your legacy and to take

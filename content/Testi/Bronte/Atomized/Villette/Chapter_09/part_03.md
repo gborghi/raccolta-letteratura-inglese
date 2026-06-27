@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 9 (part 3)"
+title: "[[Villette]] — Chapter 9 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -18,17 +18,17 @@ Miss Ginevra’s school-studies were little better than nominal; there
 were but three things she practised in earnest, viz. music, singing,
 and dancing; also embroidering the fine cambric handkerchiefs which she
 could not afford to buy ready worked: such mere trifles as lessons in
-history, geography, grammar, and arithmetic, she left undone, or got
-others to do for her. Very much of her time was spent in visiting.
+[[history]], geography, grammar, and arithmetic, she left undone, or got
+others to do for her. Very much of her [[Time|time]] was spent in visiting.
 Madame, aware that her stay at school was now limited to a certain
 period, which would not be extended whether she made progress or not,
 allowed her great licence in this particular. Mrs. Cholmondeley—her
 _chaperon_—a gay, fashionable lady, invited her whenever she had
-company at her own house, and sometimes took her to evening-parties at
+company at her own [[house]], and sometimes took her to evening-parties at
 the houses of her acquaintance. Ginevra perfectly approved this mode of
-procedure: it had but one inconvenience; she was obliged to be well
+procedure: it had but one inconvenience; she was obliged to be [[Well|well]]
 dressed, and she had not money to buy variety of dresses. All her
-thoughts turned on this difficulty; her whole soul was occupied with
+thoughts turned on this difficulty; her whole [[Soul|soul]] was occupied with
 expedients for effecting its solution. It was wonderful to witness the
 activity of her otherwise indolent mind on this point, and to see the
 much-daring intrepidity to which she was spurred by a sense of
@@ -47,8 +47,8 @@ Miss Fanshawe’s friends, to oppose resistance to encroachment. After a
 while I heard no more of Mrs. Cholmondeley’s presents; but still,
 visiting went on, and the absolutely necessary dresses continued to be
 supplied: also many little expensive _etcetera_—gloves, bouquets, even
-trinkets. These things, contrary to her custom, and even nature—for she
-was not secretive—were most sedulously kept out of sight for a time;
+trinkets. These things, contrary to her custom, and even [[Nature|nature]]—for she
+was not secretive—were most sedulously kept out of sight for a [[Time|time]];
 but one evening, when she was going to a large party for which
 particular care and elegance of costume were demanded, she could not
 resist coming to my chamber to show herself in all her splendour.
@@ -62,7 +62,7 @@ completeness.
 
 I viewed her from top to toe. She turned airily round that I might
 survey her on all sides. Conscious of her charms, she was in her best
-humour: her rather small blue eyes sparkled gleefully. She was going to
+[[Humour|humour]]: her rather small blue eyes sparkled gleefully. She was going to
 bestow on me a kiss, in her school-girl fashion of showing her delights
 but I said, “Steady! Let us be Steady, and know what we are about, and
 find out the meaning of our magnificence”—and so put her off at arm’s
@@ -75,7 +75,7 @@ don’t understand yours.”
 
 “But how do I look?”
 
-“You look well dressed.”
+“You look [[Well|well]] dressed.”
 
 She thought the praise not warm enough, and proceeded to direct
 attention to the various decorative points of her attire. “Look at this
@@ -122,7 +122,7 @@ come flourishing and fluttering into my chamber—a mere jay in borrowed
 plumes. I have not the least respect for your feathers, Miss Fanshawe;
 and especially the peacock’s eyes you call a _parure_: very pretty
 things, if you had bought them with money which was your own, and which
-you could well spare, but not at all pretty under present
+you could [[Well|well]] spare, but not at all pretty under present
 circumstances.”
 
 “On est là pour Mademoiselle Fanshawe!” was announced by the portress,
@@ -150,15 +150,15 @@ I _must_ go out. Papa himself said that he wished me to see something
 of the world; he particularly remarked to Mrs. Cholmondeley, that,
 though I was a sweet creature enough, I had rather a
 bread-and-butter-eating, school-girl air; of which it was his special
-desire that I should get rid, by an introduction to society here,
-before I make my regular début in England. Well, then, if I go out, I
+[[Desire|desire]] that I should get rid, by an introduction to society here,
+before I make my regular début in England. [[Well]], then, if I go out, I
 _must_ dress. Mrs. Cholmondeley is turned shabby, and will give nothing
 more; it would be too hard upon uncle to make him pay for _all_ the
 things I need: _that_ you can’t deny—_that_ agrees with your own
-preachments. Well, but SOMEBODY who heard me (quite by chance, I assure
+preachments. [[Well]], but SOMEBODY who heard me (quite by chance, I assure
 you) complaining to Mrs. Cholmondeley of my distressed circumstances,
 and what straits I was put to for an ornament or two—_somebody_, far
 from grudging one a present, was quite delighted at the idea of being
 permitted to offer some trifle. You should have seen what a _blanc-bec_
 he looked when he first spoke of it: how he hesitated and blushed, and
-positively trembled from fear of a repulse.”
+positively trembled from [[Fear|fear]] of a repulse.”

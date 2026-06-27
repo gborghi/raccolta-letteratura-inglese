@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 38: THIRTY EIGHT (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -23,11 +23,11 @@ whom we should be delighted to receive.’
 ‘How kind of you! You’d be delighted to receive ‘em, would you?’ said
 Jonas, bantering.
 
-‘I give you my sacred honour, quite transported. As your friends,
+‘I give you my sacred [[Honour|honour]], quite transported. As your friends,
 observe!’
 
 ‘Exactly,’ said Jonas; ‘as my friends, of course. You’ll be very much
-delighted when you get ‘em, I have no doubt. And it’ll be all to my
+delighted when you get ‘em, I have no [[Doubt|doubt]]. And it’ll be all to my
 advantage, won’t it?’
 
 ‘It will be very much to your advantage,’ answered Montague poising a
@@ -55,10 +55,10 @@ ear.
 
 From red to white; from white to red again; from red to yellow; then to
 a cold, dull, awful, sweat-bedabbled blue. In that short whisper, all
-these changes fell upon the face of Jonas Chuzzlewit; and when at last
+these changes fell upon the face of [[Jonas Chuzzlewit]]; and when at last
 he laid his hand upon the whisperer’s mouth, appalled, lest any syllable
 of what he said should reach the ears of the third person present, it
-was as bloodless and as heavy as the hand of Death.
+was as bloodless and as heavy as the hand of [[Death]].
 
 He drew his chair away, and sat a spectacle of terror, misery, and
 rage. He was afraid to speak, or look, or move, or sit still. Abject,
@@ -74,10 +74,10 @@ further with us, Chuzzlewit, my friend?’
 
 His pale lips faintly stammered out a ‘No.’
 
-‘Well said! That’s like yourself. Do you know I was thinking yesterday
+‘[[Well]] said! That’s like yourself. Do you know I was thinking yesterday
 that your father-in-law, relying on your advice as a man of great
-sagacity in money matters, as no doubt you are, would join us, if the
-thing were well presented to him. He has money?’
+sagacity in money matters, as no [[Doubt|doubt]] you are, would join us, if the
+thing were [[Well|well]] presented to him. He has money?’
 
 ‘Yes, he has money.’
 
@@ -92,7 +92,7 @@ Pecksniff.’
 They went down in that order. Whatever Jonas felt in reference to
 Montague; whatever sense he had of being caged, and barred, and trapped,
 and having fallen down into a pit of deepest ruin; whatever thoughts
-came crowding on his mind even at that early time, of one terrible
+came crowding on his mind even at that early [[Time|time]], of one terrible
 chance of escape, of one red glimmer in a sky of blackness; he no more
 thought that the slinking figure half-a-dozen stairs behind him was
 his pursuing Fate, than that the other figure at his side was his Good

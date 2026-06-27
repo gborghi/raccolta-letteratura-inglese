@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 18 (part 3)"
+title: "[[The Professor]] — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,7 +24,7 @@ il y a deux ou trois jours.”
 
 
 
-And I could pursue my inquiries no further; time, place, and
+And I could pursue my inquiries no further; [[Time|time]], place, and
 
 circumstances forbade my adding another word. I could neither comment on
 
@@ -98,9 +98,9 @@ numerous and flowing ringlets. Then she went on with vivacity:
 
 “Rosalie, I was coming to tell you to go instantly and close the windows
 
-of the salon; the wind is rising, and the muslin curtains will be
+of the salon; the [[Wind|wind]] is rising, and the muslin curtains will be
 
-covered with dust.”
+covered with [[Dust|dust]].”
 
 
 
@@ -114,7 +114,7 @@ transparent than this same pretext.” An impulse came over me to thrust
 
 the flimsy screen aside, and confront her craft boldly with a word or
 
-two of plain truth. “The rough-shod foot treads most firmly on slippery
+two of plain [[Truth|truth]]. “The rough-shod foot treads most firmly on slippery
 
 ground,” thought I; so I began:
 
@@ -130,7 +130,7 @@ presume?”
 
 the directress with the most natural and affable air in the world;
 
-“but we cannot talk quietly here; will Monsieur step into the garden a
+“but we cannot talk quietly here; will Monsieur step into the [[Garden|garden]] a
 
 minute?” And she preceded me, stepping out through the glass-door I have
 
@@ -140,9 +140,9 @@ before mentioned.
 
 “There,” said she, when we had reached the centre of the middle alley,
 
-and when the foliage of shrubs and trees, now in their summer pride,
+and when the foliage of shrubs and trees, now in their [[Summer|summer]] [[Pride|pride]],
 
-closing behind and around us, shut out the view of the house, and thus
+closing behind and around us, shut out the view of the [[house]], and thus
 
 imparted a sense of seclusion even to this little plot of ground in the
 
@@ -152,7 +152,7 @@ very core of a capital.
 
 “There, one feels quiet and free when there are only pear-trees and
 
-rose-bushes about one; I dare say you, like me, monsieur, are sometimes
+[[Rose|rose]]-bushes about one; I dare say you, like me, monsieur, are sometimes
 
 tired of being eternally in the midst of life; of having human faces
 
@@ -160,7 +160,7 @@ always round you, human eyes always upon you, human voices always in
 
 your ear. I am sure I often wish intensely for liberty to spend a whole
 
-month in the country at some little farm-house, bien gentille, bien
+month in the country at some little farm-[[house]], bien gentille, bien
 
 propre, tout entouree de champs et de bois; quelle vie charmante que la
 
@@ -174,7 +174,7 @@ vie champetre! N’est-ce pas, monsieur?”
 
 “Que le vent est bon et frais!” continued the directress; and she was
 
-right there, for it was a south wind, soft and sweet. I carried my hat
+right there, for it was a south [[Wind|wind]], soft and sweet. I carried my hat
 
 in my hand, and this gentle breeze, passing through my hair, soothed my
 
@@ -184,7 +184,7 @@ than the mere surface of the frame; for as I walked by the side of
 
 Mdlle. Reuter, my heart was still hot within me, and while I was musing
 
-the fire burned; then spake I with my tongue:--
+the [[Fire|fire]] burned; then spake I with my tongue:--
 
 
 
@@ -194,7 +194,7 @@ the fire burned; then spake I with my tongue:--
 
 “Ah, true! I meant to have named the subject to you some days ago, but
 
-my time is so completely taken up, I cannot do half the things I wish:
+my [[Time|time]] is so completely taken up, I cannot do half the things I wish:
 
 have you never experienced what it is, monsieur, to find the day too
 
@@ -226,7 +226,7 @@ event?”
 
 
 
-“Dismission? Ah! she was not dismissed; I can say with truth, monsieur,
+“Dismission? Ah! she was not dismissed; I can say with [[Truth|truth]], monsieur,
 
 that since I became the head of this establishment no master or teacher
 

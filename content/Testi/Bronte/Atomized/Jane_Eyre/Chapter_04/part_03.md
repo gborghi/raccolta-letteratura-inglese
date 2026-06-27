@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 4 (part 3)"
+title: "[[Jane Eyre]] — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-“Jane Eyre, sir.”
+“[[Jane Eyre]], sir.”
 
 In uttering these words I looked up: he seemed to me a tall gentleman;
 but then I was very little; his features were large, and they and all
 the lines of his frame were equally harsh and prim.
 
-“Well, Jane Eyre, and are you a good child?”
+“[[Well]], [[Jane Eyre]], and are you a good [[Child|child]]?”
 
 Impossible to reply to this in the affirmative: my little world held a
 contrary opinion: I was silent. Mrs. Reed answered for me by an
@@ -35,14 +35,14 @@ I stepped across the rug; he placed me square and straight before him.
 What a face he had, now that it was almost on a level with mine! what a
 great nose! and what a mouth! and what large prominent teeth!
 
-“No sight so sad as that of a naughty child,” he began, “especially a
-naughty little girl. Do you know where the wicked go after death?”
+“No sight so sad as that of a naughty [[Child|child]],” he began, “especially a
+naughty little girl. Do you know where the wicked go after [[Death|death]]?”
 
 “They go to hell,” was my ready and orthodox answer.
 
 “And what is hell? Can you tell me that?”
 
-“A pit full of fire.”
+“A pit full of [[Fire|fire]].”
 
 “And should you like to fall into that pit, and to be burning there for
 ever?”
@@ -55,25 +55,25 @@ I deliberated a moment; my answer, when it did come, was objectionable:
 “I must keep in good health, and not die.”
 
 “How can you keep in good health? Children younger than you die daily.
-I buried a little child of five years old only a day or two since,—a
-good little child, whose soul is now in heaven. It is to be feared the
+I buried a little [[Child|child]] of five years old only a day or two since,—a
+good little [[Child|child]], whose [[Soul|soul]] is now in heaven. It is to be feared the
 same could not be said of you were you to be called hence.”
 
-Not being in a condition to remove his doubt, I only cast my eyes down
+Not being in a condition to remove his [[Doubt|doubt]], I only cast my eyes down
 on the two large feet planted on the rug, and sighed, wishing myself
 far enough away.
 
-“I hope that sigh is from the heart, and that you repent of ever having
+“I [[Hope|hope]] that sigh is from the heart, and that you repent of ever having
 been the occasion of discomfort to your excellent benefactress.”
 
 “Benefactress! benefactress!” said I inwardly: “they all call Mrs. Reed
 my benefactress; if so, a benefactress is a disagreeable thing.”
 
-“Do you say your prayers night and morning?” continued my interrogator.
+“Do you say your prayers [[Night|night]] and morning?” continued my interrogator.
 
 “Yes, sir.”
 
-“Do you read your Bible?”
+“Do you read your [[Bible]]?”
 
 “Sometimes.”
 
@@ -83,7 +83,7 @@ my benefactress; if so, a benefactress is a disagreeable thing.”
 and a little bit of Exodus, and some parts of Kings and Chronicles, and
 Job and Jonah.”
 
-“And the Psalms? I hope you like them?”
+“And the Psalms? I [[Hope|hope]] you like them?”
 
 “No, sir.”
 
@@ -113,24 +113,24 @@ keep a strict eye on her, and, above all, to guard against her worst
 fault, a tendency to deceit. I mention this in your hearing, Jane, that
 you may not attempt to impose on Mr. Brocklehurst.”
 
-Well might I dread, well might I dislike Mrs. Reed; for it was her
-nature to wound me cruelly; never was I happy in her presence; however
+[[Well]] might I dread, [[Well|well]] might I dislike Mrs. Reed; for it was her
+[[Nature|nature]] to wound me cruelly; never was I happy in her presence; however
 carefully I obeyed, however strenuously I strove to please her, my
 efforts were still repulsed and repaid by such sentences as the above.
 Now, uttered before a stranger, the accusation cut me to the heart; I
-dimly perceived that she was already obliterating hope from the new
+dimly perceived that she was already obliterating [[Hope|hope]] from the new
 phase of existence which she destined me to enter; I felt, though I
 could not have expressed the feeling, that she was sowing aversion and
 unkindness along my future path; I saw myself transformed under Mr.
-Brocklehurst’s eye into an artful, noxious child, and what could I do
+Brocklehurst’s eye into an artful, noxious [[Child|child]], and what could I do
 to remedy the injury?
 
 “Nothing, indeed,” thought I, as I struggled to repress a sob, and
-hastily wiped away some tears, the impotent evidences of my anguish.
+hastily wiped away some [[Tears|tears]], the impotent evidences of my anguish.
 
-“Deceit is, indeed, a sad fault in a child,” said Mr. Brocklehurst; “it
+“Deceit is, indeed, a sad fault in a [[Child|child]],” said Mr. Brocklehurst; “it
 is akin to falsehood, and all liars will have their portion in the lake
-burning with fire and brimstone; she shall, however, be watched, Mrs.
+burning with [[Fire|fire]] and brimstone; she shall, however, be watched, Mrs.
 Reed. I will speak to Miss Temple and the teachers.”
 
 “I should wish her to be brought up in a manner suiting her prospects,”
@@ -139,11 +139,11 @@ for the vacations, she will, with your permission, spend them always at
 Lowood.”
 
 “Your decisions are perfectly judicious, madam,” returned Mr.
-Brocklehurst. “Humility is a Christian grace, and one peculiarly
+Brocklehurst. “[[Humility]] is a Christian grace, and one peculiarly
 appropriate to the pupils of Lowood; I, therefore, direct that especial
 care shall be bestowed on its cultivation amongst them. I have studied
-how best to mortify in them the worldly sentiment of pride; and, only
-the other day, I had a pleasing proof of my success. My second
+how best to mortify in them the worldly sentiment of [[Pride|pride]]; and, only
+the other day, I had a pleasing proof of my [[success]]. My second
 daughter, Augusta, went with her mama to visit the school, and on her
 return she exclaimed: ‘Oh, dear papa, how quiet and plain all the girls
 at Lowood look, with their hair combed behind their ears, and their
@@ -154,5 +154,5 @@ gown before.’”
 
 “This is the state of things I quite approve,” returned Mrs. Reed; “had
 I sought all England over, I could scarcely have found a system more
-exactly fitting a child like Jane Eyre. Consistency, my dear Mr.
+exactly fitting a [[Child|child]] like [[Jane Eyre]]. Consistency, my dear Mr.
 Brocklehurst; I advocate consistency in all things.”

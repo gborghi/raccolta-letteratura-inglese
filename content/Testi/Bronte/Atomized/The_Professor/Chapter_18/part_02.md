@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 17 (part 2)"
+title: "[[The Professor]] — Chapter 17 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ drudgery, and risen in the world.”
 
 
 
-“How? By a knowledge of English alone? That will not suffice; no
+“How? By a knowledge of English [[Alone|alone]]? That will not suffice; no
 
 respectable family will receive a governess whose whole stock of
 
@@ -56,7 +56,7 @@ at your tongue’s end.”
 
 
 
-“Monsieur, I have had many lessons both in grammar, history, geography,
+“Monsieur, I have had many lessons both in grammar, [[history]], geography,
 
 and arithmetic. I have gone through a course of each study.”
 
@@ -68,7 +68,7 @@ send you to school?”
 
 
 
-“By lace-mending; by the thing monsieur despises so much.”
+“By lace-[[mending]]; by the thing monsieur despises so much.”
 
 
 
@@ -78,7 +78,7 @@ explain to me in English how such a result was produced by such means.”
 
 
 
-“Monsieur, I begged my aunt to have me taught lace-mending soon after
+“Monsieur, I begged my aunt to have me taught lace-[[mending]] soon after
 
 we came to Brussels, because I knew it was a METIER, a trade which was
 
@@ -94,7 +94,7 @@ in the studies I have mentioned; some of it I spent in buying books,
 
 English books especially; soon I shall try to find a place of governess,
 
-or school-teacher, when I can write and speak English well; but it will
+or school-teacher, when I can write and speak English [[Well|well]]; but it will
 
 be difficult, because those who know I have been a lace-mender will
 
@@ -136,7 +136,7 @@ bonne amie, de retourner chez vous tout de suite.”
 
 
 
-In silence, without a word of thanks for this officious warning, Mdlle.
+In [[Silence|silence]], without a word of thanks for this officious warning, Mdlle.
 
 Henri collected her books; she moved to me respectfully, endeavoured to
 
@@ -150,7 +150,7 @@ Where there is one grain of perseverance or wilfulness in the
 
 composition, trifling obstacles are ever known rather to stimulate than
 
-discourage. Mdlle. Reuter might as well have spared herself the trouble
+discourage. Mdlle. Reuter might as [[Well|well]] have spared herself the trouble
 
 of giving that intimation about the weather (by-the-by her prediction
 
@@ -168,13 +168,13 @@ there?”
 
 
 
-Accustomed by this time to the calculated abruptness of my manner, it no
+Accustomed by this [[Time|time]] to the calculated abruptness of my manner, it no
 
 longer discomposed or surprised her, and she answered with only so
 
 much of hesitation as was rendered inevitable by the difficulty she
 
-experienced in improvising the translation of her thoughts from French
+experienced in improvising the [[Translation|translation]] of her thoughts from French
 
 to English.
 
@@ -228,7 +228,7 @@ little animal subterranean--une taupe--comment dit-on?”
 
 
 
-“Well, mademoiselle--what then? Proceed.”
+“[[Well]], mademoiselle--what then? Proceed.”
 
 
 
@@ -246,7 +246,7 @@ learnt but little, and seen but little; my life there was in a circle;
 
 I walked the same round every day; I could not get out of it; had I
 
-rested--remained there even till my death, I should never have enlarged
+rested--remained there even till my [[Death|death]], I should never have enlarged
 
 it, because I am poor and not skilful, I have not great acquirements;
 
@@ -260,7 +260,7 @@ change again if I went to England. I knew something of the bourgeois of
 
 Geneva, now I know something of the bourgeois of Brussels; if I went to
 
-London, I would know something of the bourgeois of London. Can you make
+[[London]], I would know something of the bourgeois of [[London]]. Can you make
 
 any sense out of what I say, monsieur, or is it all obscure?”
 
@@ -286,7 +286,7 @@ improves; besides, I work under difficulties; here I only teach sewing,
 
 I can show no power in sewing, no superiority--it is a subordinate
 
-art; then I have no associates in this house, I am isolated; I am too a
+art; then I have no associates in this [[house]], I am isolated; I am too a
 
 heretic, which deprives me of influence.”
 
@@ -306,7 +306,7 @@ have here.”
 
 difficulties for such as I everywhere, and if I must contend, and
 
-perhaps be conquered, I would rather submit to English pride than to
+perhaps be conquered, I would rather submit to English [[Pride|pride]] than to
 
 Flemish coarseness; besides, monsieur--”
 
@@ -328,13 +328,13 @@ enough.”
 
 more honest than Catholics; a Romish school is a building with porous
 
-walls, a hollow floor, a false ceiling; every room in this house,
+walls, a hollow floor, a false ceiling; every room in this [[house]],
 
-monsieur, has eyeholes and ear-holes, and what the house is, the
+monsieur, has eyeholes and ear-holes, and what the [[house]] is, the
 
 inhabitants are, very treacherous; they all think it lawful to tell
 
-lies; they all call it politeness to profess friendship where they feel
+lies; they all call it politeness to profess [[Friendship|friendship]] where they feel
 
 hatred.”
 
@@ -350,7 +350,7 @@ right and wrong?”
 
 “On the contrary, monsieur--the children are the most sincere; they have
 
-not yet had time to become accomplished in duplicity; they will tell
+not yet had [[Time|time]] to become accomplished in duplicity; they will tell
 
 lies, but they do it inartificially, and you know they are lying; but
 
@@ -378,4 +378,4 @@ chercher--voyez-vous.”
 
 smiling, with that same bitter, derisive smile I had seen on her lips
 
-once before, she hastily rose and made her exit.
+once before, she hastily [[Rose|rose]] and made her exit.

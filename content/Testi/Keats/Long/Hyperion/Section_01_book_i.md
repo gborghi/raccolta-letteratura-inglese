@@ -1,5 +1,5 @@
 ---
-title: "Hyperion — Book I"
+title: "[[Hyperion]] — Book I"
 author: "Keats"
 unitType: section
 parentWork: "Works/Hyperion-(Keats)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-## HYPERION BOOK I
+## [[Hyperion|HYPERION]] BOOK I
 
 Deep in the shady sadness of a vale  
 Far sunken from the healthy breath of morn,  
-Far from the fiery noon, and eve’s one star,  
-Sat gray-hair’d Saturn, quiet as a stone,  
-Still as the silence round about his lair;  
+Far from the fiery [[Noon|noon]], and eve’s one star,  
+Sat gray-hair’d [[Saturn]], quiet as a stone,  
+Still as the [[Silence|silence]] round about his lair;  
 Forest on forest hung about his head  
 Like cloud on cloud. No stir of air was there,  
-Not so much life as on a summer’s day  
+Not so much life as on a [[Summer|summer]]’s day  
 Robs not one light seed from the feather’d grass,  
 But where the dead leaf fell, there did it rest.  10  
 A stream went voiceless by, still deadened more  
@@ -46,30 +46,30 @@ With reverence, though to one who knew it not.
 She was a Goddess of the infant world;  
 By her in stature the tall Amazon  
 Had stood a pigmy’s height: she would have ta’en  
-Achilles by the hair and bent his neck;  
-Or with a finger stay’d Ixion’s wheel.  30  
+[[Achilles]] by the hair and bent his neck;  
+Or with a finger stay’d Ixion’s [[Wheel|wheel]].  30  
 Her face was large as that of Memphian sphinx,  
-Pedestal’d haply in a palace court,  
-When sages look’d to Egypt for their lore.  
+Pedestal’d haply in a palace [[Court|court]],  
+When sages look’d to [[Egypt]] for their lore.  
 But oh! how unlike marble was that face:  
 How beautiful, if sorrow had not made  
-Sorrow more beautiful than Beauty’s self.  
-There was a listening fear in her regard,  
+Sorrow more beautiful than [[Beauty]]’s [[Self|self]].  
+There was a listening [[Fear|fear]] in her regard,  
 As if calamity had but begun;  
 As if the vanward clouds of evil days  
 Had spent their malice, and the sullen rear  40  
 Was with its stored thunder labouring up.  
 One hand she press’d upon that aching spot  
 Where beats the human heart, as if just there,  
-Though an immortal, she felt cruel pain:  
-The other upon Saturn’s bended neck  
+Though an immortal, she felt cruel [[Pain|pain]]:  
+The other upon [[Saturn]]’s bended neck  
 She laid, and to the level of his ear  
 Leaning with parted lips, some words she spake  
 In solemn tenour and deep organ tone:  
 Some mourning words, which in our feeble tongue  
 Would come in these like accents; O how frail  50  
 To that large utterance of the early Gods!  
-“Saturn, look up!--though wherefore, poor old King?  
+“[[Saturn]], look up!--though wherefore, poor old [[King]]?  
 I have no comfort for thee, no not one:  
 I cannot say, ‘O wherefore sleepest thou?’  
 For heaven is parted from thee, and the earth  
@@ -78,49 +78,49 @@ And ocean too, with all its solemn noise,
 Has from thy sceptre pass’d; and all the air  
 Is emptied of thine hoary majesty.  
 Thy thunder, conscious of the new command,  60  
-Rumbles reluctant o’er our fallen house;  
-And thy sharp lightning in unpractised hands  
+Rumbles reluctant o’er our fallen [[house]];  
+And thy sharp [[Lightning|lightning]] in unpractised hands  
 Scorches and burns our once serene domain.  
-O aching time! O moments big as years!  
-All as ye pass swell out the monstrous truth,  
+O aching [[Time|time]]! O moments big as years!  
+All as ye pass swell out the monstrous [[Truth|truth]],  
 And press it so upon our weary griefs  
 That unbelief has not a space to breathe.  
-Saturn, sleep on:--O thoughtless, why did I  
-Thus violate thy slumbrous solitude?  
-Why should I ope thy melancholy eyes?  70  
-Saturn, sleep on! while at thy feet I weep.”  
+[[Saturn]], [[Sleep|sleep]] on:--O thoughtless, why did I  
+Thus violate thy slumbrous [[Solitude|solitude]]?  
+Why should I ope thy [[Melancholy|melancholy]] eyes?  70  
+[[Saturn]], [[Sleep|sleep]] on! while at thy feet I weep.”  
 
-As when, upon a tranced summer-night,  
+As when, upon a tranced [[Summer|summer]]-[[Night|night]],  
 Those green-rob’d senators of mighty woods,  
-Tall oaks, branch-charmed by the earnest stars,  
-Dream, and so dream all night without a stir,  
+Tall oaks, branch-charmed by the earnest [[Stars|stars]],  
+Dream, and so dream all [[Night|night]] without a stir,  
 Save from one gradual solitary gust  
-Which comes upon the silence, and dies off,  
+Which comes upon the [[Silence|silence]], and dies off,  
 As if the ebbing air had but one wave;  
-So came these words and went; the while in tears  
+So came these words and went; the while in [[Tears|tears]]  
 She touch’d her fair large forehead to the ground,  80  
 Just where her falling hair might be outspread  
-A soft and silken mat for Saturn’s feet.  
-One moon, with alteration slow, had shed  
-Her silver seasons four upon the night,  
+A soft and silken mat for [[Saturn]]’s feet.  
+One [[Moon|moon]], with alteration slow, had shed  
+Her silver [[Seasons|seasons]] four upon the [[Night|night]],  
 And still these two were postured motionless,  
-Like natural sculpture in cathedral cavern;  
+Like natural sculpture in [[Cathedral|cathedral]] cavern;  
 The frozen God still couchant on the earth,  
 And the sad Goddess weeping at his feet:  
-Until at length old Saturn lifted up  
+Until at length old [[Saturn]] lifted up  
 His faded eyes, and saw his kingdom gone,  90  
 And all the gloom and sorrow of the place,  
 And that fair kneeling Goddess; and then spake,  
 As with a palsied tongue, and while his beard  
 Shook horrid with such aspen-malady:  
-“O tender spouse of gold Hyperion,  
+“O tender spouse of gold [[Hyperion]],  
 Thea, I feel thee ere I see thy face;  
 Look up, and let me see our doom in it;  
 Look up, and tell me if this feeble shape  
-Is Saturn’s; tell me, if thou hear’st the voice  
-Of Saturn; tell me, if this wrinkling brow,  100  
+Is [[Saturn]]’s; tell me, if thou hear’st the voice  
+Of [[Saturn]]; tell me, if this wrinkling brow,  100  
 Naked and bare of its great diadem,  
-Peers like the front of Saturn. Who had power  
+Peers like the front of [[Saturn]]. Who had power  
 To make me desolate? whence came the strength?  
 How was it nurtur’d to such bursting forth,  
 While Fate seem’d strangled in my nervous grasp?  
@@ -130,20 +130,20 @@ Of influence benign on planets pale,
 Of admonitions to the winds and seas,  
 Of peaceful sway above man’s harvesting,  110  
 And all those acts which Deity supreme  
-Doth ease its heart of love in.--I am gone  
+Doth ease its heart of [[Love|love]] in.--I am gone  
 Away from my own bosom: I have left  
-My strong identity, my real self,  
+My strong [[Identity|identity]], my real [[Self|self]],  
 Somewhere between the throne, and where I sit  
 Here on this spot of earth. Search, Thea, search!  
 Open thine eyes eterne, and sphere them round  
 Upon all space: space starr’d, and lorn of light;  
 Space region’d with life-air; and barren void;  
-Spaces of fire, and all the yawn of hell.--  120  
+Spaces of [[Fire|fire]], and all the yawn of hell.--  120  
 Search, Thea, search! and tell me, if thou seest  
-A certain shape or shadow, making way  
+A certain shape or [[Shadow|shadow]], making way  
 With wings or chariot fierce to repossess  
 A heaven he lost erewhile: it must--it must  
-Be of ripe progress--Saturn must be King.  
+Be of ripe progress--[[Saturn]] must be [[King]].  
 Yes, there must be a golden victory;  
 There must be Gods thrown down, and trumpets blown  
 Of triumph calm, and hymns of festival  
@@ -152,26 +152,26 @@ Voices of soft proclaim, and silver stir  130
 Of strings in hollow shells; and there shall be  
 Beautiful things made new, for the surprise  
 Of the sky-children; I will give command:  
-Thea! Thea! Thea! where is Saturn?”  
+Thea! Thea! Thea! where is [[Saturn]]?”  
 
 This passion lifted him upon his feet,  
 And made his hands to struggle in the air,  
 His Druid locks to shake and ooze with sweat,  
 His eyes to fever out, his voice to cease.  
 He stood, and heard not Thea’s sobbing deep;  
-A little time, and then again he snatch’d  140  
+A little [[Time|time]], and then again he snatch’d  140  
 Utterance thus.--”But cannot I create?  
 Cannot I form? Cannot I fashion forth  
 Another world, another universe,  
 To overbear and crumble this to nought?  
 Where is another chaos? Where?”--That word  
 Found way unto Olympus, and made quake  
-The rebel three.--Thea was startled up,  
-And in her bearing was a sort of hope,  
+The [[Rebel|rebel]] three.--Thea was startled up,  
+And in her bearing was a sort of [[Hope|hope]],  
 As thus she quick-voic’d spake, yet full of awe.  
 
-“This cheers our fallen house: come to our friends, 150  
-O Saturn! come away, and give them heart;  
+“This cheers our fallen [[house]]: come to our friends, 150  
+O [[Saturn]]! come away, and give them heart;  
 I know the covert, for thence came I hither.”  
 Thus brief; then with beseeching eyes she went  
 With backward footing through the shade a space:  
@@ -179,15 +179,15 @@ He follow’d, and she turn’d to lead the way
 Through aged boughs, that yielded like the mist  
 Which eagles cleave upmounting from their nest.  
 
-Meanwhile in other realms big tears were shed,  
+Meanwhile in other realms big [[Tears|tears]] were shed,  
 More sorrow like to this, and such like woe,  
 Too huge for mortal tongue or pen of scribe:  160  
-The Titans fierce, self-hid, or prison-bound,  
+The Titans fierce, [[Self|self]]-hid, or [[Prison|prison]]-bound,  
 Groan’d for the old allegiance once more,  
-And listen’d in sharp pain for Saturn’s voice.  
+And listen’d in sharp [[Pain|pain]] for [[Saturn]]’s voice.  
 But one of the whole mammoth-brood still kept  
 His sov’reignty, and rule, and majesty;--  
-Blazing Hyperion on his orbed fire  
+Blazing [[Hyperion]] on his orbed [[Fire|fire]]  
 Still sat, still snuff’d the incense, teeming up  
 From man to the sun’s God; yet unsecure:  
 For as among us mortals omens drear  
@@ -197,10 +197,10 @@ Or the familiar visiting of one
 Upon the first toll of his passing-bell,  
 Or prophesyings of the midnight lamp;  
 But horrors, portion’d to a giant nerve,  
-Oft made Hyperion ache. His palace bright  
+Oft made [[Hyperion]] ache. His palace bright  
 Bastion’d with pyramids of glowing gold,  
 And touch’d with shade of bronzed obelisks,  
-Glar’d a blood-red through all its thousand courts,  
+Glar’d a [[Blood|blood]]-red through all its thousand courts,  
 Arches, and domes, and fiery galleries; 180  
 And all its curtains of Aurorian clouds  
 Flush’d angerly: while sometimes eagle’s wings,  
@@ -219,25 +219,25 @@ He pac’d away the pleasant hours of ease
 With stride colossal, on from hall to hall;  
 While far within each aisle and deep recess,  
 His winged minions in close clusters stood,  
-Amaz’d and full of fear; like anxious men  
+Amaz’d and full of [[Fear|fear]]; like anxious men  
 Who on wide plains gather in panting troops,  
 When earthquakes jar their battlements and towers.  200  
-Even now, while Saturn, rous’d from icy trance,  
+Even now, while [[Saturn]], rous’d from icy trance,  
 Went step for step with Thea through the woods,  
-Hyperion, leaving twilight in the rear,  
+[[Hyperion]], leaving twilight in the rear,  
 Came slope upon the threshold of the west;  
 Then, as was wont, his palace-door flew ope  
-In smoothest silence, save what solemn tubes,  
+In smoothest [[Silence|silence]], save what solemn tubes,  
 Blown by the serious Zephyrs, gave of sweet  
 And wandering sounds, slow-breathed melodies;  
-And like a rose in vermeil tint and shape,  
+And like a [[Rose|rose]] in vermeil tint and shape,  
 In fragrance soft, and coolness to the eye,  210  
 That inlet to severe magnificence  
 Stood full blown, for the God to enter in.  
 
 He enter’d, but he enter’d full of wrath;  
 His flaming robes stream’d out beyond his heels,  
-And gave a roar, as if of earthly fire,  
+And gave a roar, as if of earthly [[Fire|fire]],  
 That scar’d away the meek ethereal Hours  
 And made their dove-wings tremble. On he flared,  
 From stately nave to nave, from vault to vault,  
@@ -249,14 +249,14 @@ And from the basements deep to the high towers
 Jarr’d his own golden region; and before  
 The quavering thunder thereupon had ceas’d,  
 His voice leapt out, despite of godlike curb,  
-To this result: “O dreams of day and night!  
-O monstrous forms! O effigies of pain!  
+To this result: “O [[Dreams|dreams]] of day and [[Night|night]]!  
+O monstrous forms! O effigies of [[Pain|pain]]!  
 O spectres busy in a cold, cold gloom!  
 O lank-eared Phantoms of black-weeded pools!  230  
 Why do I know ye? why have I seen ye? why  
 Is my eternal essence thus distraught  
 To see and to behold these horrors new?  
-Saturn is fallen, am I too to fall?  
+[[Saturn]] is fallen, am I too to fall?  
 Am I to leave this haven of my rest,  
 This cradle of my glory, this soft clime,  
 This calm luxuriance of blissful light,  
@@ -264,34 +264,34 @@ These crystalline pavilions, and pure fanes,
 Of all my lucent empire? It is left  
 Deserted, void, nor any haunt of mine.  240  
 The blaze, the splendor, and the symmetry,  
-I cannot see--but darkness, death and darkness.  
+I cannot see--but darkness, [[Death|death]] and darkness.  
 Even here, into my centre of repose,  
 The shady visions come to domineer,  
 Insult, and blind, and stifle up my pomp.--  
 Fall!--No, by Tellus and her briny robes!  
 Over the fiery frontier of my realms  
 I will advance a terrible right arm  
-Shall scare that infant thunderer, rebel Jove,  
-And bid old Saturn take his throne again.”--  250  
+Shall scare that infant thunderer, [[Rebel|rebel]] Jove,  
+And bid old [[Saturn]] take his throne again.”--  250  
 He spake, and ceas’d, the while a heavier threat  
 Held struggle with his throat but came not forth;  
 For as in theatres of crowded men  
 Hubbub increases more they call out “Hush!”  
-So at Hyperion’s words the Phantoms pale  
+So at [[Hyperion]]’s words the Phantoms pale  
 Bestirr’d themselves, thrice horrible and cold;  
-And from the mirror’d level where he stood  
+And from the [[Mirror|mirror]]’d level where he stood  
 A mist arose, as from a scummy marsh.  
 At this, through all his bulk an agony  
-Crept gradual, from the feet unto the crown,  260  
+Crept gradual, from the feet unto the [[Crown|crown]],  260  
 Like a lithe serpent vast and muscular  
 Making slow way, with head and neck convuls’d  
 From over-strained might. Releas’d, he fled  
 To the eastern gates, and full six dewy hours  
-Before the dawn in season due should blush,  
+Before the [[Dawn|dawn]] in season due should blush,  
 He breath’d fierce breath against the sleepy portals,  
 Clear’d them of heavy vapours, burst them wide  
 Suddenly on the ocean’s chilly streams.  
-The planet orb of fire, whereon he rode  
+The planet orb of [[Fire|fire]], whereon he rode  
 Each day from east to west the heavens through,  270  
 Spun round in sable curtaining of clouds;  
 Not therefore veiled quite, blindfold, and hid,  
@@ -309,25 +309,25 @@ Their wisdom long since fled.--Two wings this orb
 Possess’d for glory, two fair argent wings,  
 Ever exalted at the God’s approach:  
 And now, from forth the gloom their plumes immense  
-Rose, one by one, till all outspreaded were;  
+[[Rose]], one by one, till all outspreaded were;  
 While still the dazzling globe maintain’d eclipse,  
-Awaiting for Hyperion’s command.  
+Awaiting for [[Hyperion]]’s command.  
 Fain would he have commanded, fain took throne 290  
 And bid the day begin, if but for change.  
 He might not:--No, though a primeval God:  
-The sacred seasons might not be disturb’d.  
-Therefore the operations of the dawn  
+The sacred [[Seasons|seasons]] might not be disturb’d.  
+Therefore the operations of the [[Dawn|dawn]]  
 Stay’d in their birth, even as here ’tis told.  
 Those silver wings expanded sisterly,  
 Eager to sail their orb; the porches wide  
-Open’d upon the dusk demesnes of night  
+Open’d upon the dusk demesnes of [[Night|night]]  
 And the bright Titan, phrenzied with new woes,  
 Unus’d to bend, by hard compulsion bent 300  
-His spirit to the sorrow of the time;  
+His spirit to the sorrow of the [[Time|time]];  
 And all along a dismal rack of clouds,  
-Upon the boundaries of day and night,  
+Upon the boundaries of day and [[Night|night]],  
 He stretch’d himself in grief and radiance faint.  
-There as he lay, the Heaven with its stars  
+There as he lay, the Heaven with its [[Stars|stars]]  
 Look’d down on him with pity, and the voice  
 Of Coelus, from the universal space,  
 Thus whisper’d low and solemn in his ear.  
@@ -336,12 +336,12 @@ And sky-engendered, Son of Mysteries  310
 All unrevealed even to the powers  
 Which met at thy creating; at whose joys  
 And palpitations sweet, and pleasures soft,  
-I, Coelus, wonder, how they came and whence;  
+I, Coelus, [[Wonder|wonder]], how they came and whence;  
 And at the fruits thereof what shapes they be,  
 Distinct, and visible; symbols divine,  
 Manifestations of that beauteous life  
 Diffus’d unseen throughout eternal space:  
-Of these new-form’d art thou, oh brightest child!  
+Of these new-form’d art thou, oh brightest [[Child|child]]!  
 Of these, thy brethren and the Goddesses!  320  
 There is sad feud among ye, and rebellion  
 Of son against his sire. I saw him fall,  
@@ -349,12 +349,12 @@ I saw my first-born tumbled from his throne!
 To me his arms were spread, to me his voice  
 Found way from forth the thunders round his head!  
 Pale wox I, and in vapours hid my face.  
-Art thou, too, near such doom? vague fear there is:  
+Art thou, too, near such doom? vague [[Fear|fear]] there is:  
 For I have seen my sons most unlike Gods.  
 Divine ye were created, and divine  
 In sad demeanour, solemn, undisturb’d,  330  
 Unruffled, like high Gods, ye liv’d and ruled:  
-Now I behold in you fear, hope, and wrath;  
+Now I behold in you [[Fear|fear]], [[Hope|hope]], and wrath;  
 Actions of rage and passion; even as  
 I see them, on the mortal world beneath,  
 In men who die.--This is the grief, O Son!  
@@ -368,15 +368,15 @@ No more than winds and tides can I avail:--
 But thou canst.--Be thou therefore in the van  
 Of circumstance; yea, seize the arrow’s barb  
 Before the tense string murmur.--To the earth!  
-For there thou wilt find Saturn, and his woes.  
+For there thou wilt find [[Saturn]], and his woes.  
 Meantime I will keep watch on thy bright sun,  
-And of thy seasons be a careful nurse.”--  
+And of thy [[Seasons|seasons]] be a careful [[Nurse|nurse]].”--  
 Ere half this region-whisper had come down,  
-Hyperion arose, and on the stars 350  
+[[Hyperion]] arose, and on the [[Stars|stars]] 350  
 Lifted his curved lids, and kept them wide  
 Until it ceas’d; and still he kept them wide:  
-And still they were the same bright, patient stars.  
+And still they were the same bright, patient [[Stars|stars]].  
 Then with a slow incline of his broad breast,  
 Like to a diver in the pearly seas,  
 Forward he stoop’d over the airy shore,  
-And plung’d all noiseless into the deep night.  
+And plung’d all noiseless into the deep [[Night|night]].  

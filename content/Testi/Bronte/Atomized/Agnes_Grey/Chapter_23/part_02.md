@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 22 (part 2)"
+title: "[[Agnes Grey]] — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -15,9 +15,9 @@ tags:
 
 
 Then, stretching herself upon a couch, she motioned me to a capacious
-easy-chair that stood opposite—not before the fire, but before a wide
-open window; for it was summer, be it remembered; a sweet, warm evening
-in the latter half of June. I sat for a moment in silence, enjoying the
+easy-chair that stood opposite—not before the [[Fire|fire]], but before a wide
+open [[Window|window]]; for it was [[Summer|summer]], be it remembered; a sweet, warm evening
+in the latter half of June. I sat for a moment in [[Silence|silence]], enjoying the
 still, pure air, and the delightful prospect of the park that lay
 before me, rich in verdure and foliage, and basking in yellow sunshine,
 relieved by the long shadows of declining day. But I must take
@@ -30,10 +30,10 @@ I was told that papa had the gout, which made him very ferocious; and
 that he would not give up his choice wines, and his substantial dinners
 and suppers, and had quarrelled with his physician, because the latter
 had dared to say that no medicine could cure him while he lived so
-freely; that mamma and the rest were well. Matilda was still wild and
+freely; that mamma and the rest were [[Well|well]]. Matilda was still wild and
 reckless, but she had got a fashionable governess, and was considerably
 improved in her manners, and soon to be introduced to the world; and
-John and Charles (now at home for the holidays) were, by all accounts,
+John and Charles (now at [[Home|home]] for the holidays) were, by all accounts,
 “fine, bold, unruly, mischievous boys.”
 
 “And how are the other people getting on?” said I—“the Greens, for
@@ -48,9 +48,9 @@ their best to get married.”
 
 “Oh, they’re jogging on as usual, I suppose: but I know very little
 about any of them—except Harry,” said she, blushing slightly, and
-smiling again. “I saw a great deal of him while we were in London; for,
+smiling again. “I saw a great deal of him while we were in [[London]]; for,
 as soon as he heard we were there, he came up under pretence of
-visiting his brother, and either followed me, like a shadow, wherever I
+visiting his brother, and either followed me, like a [[Shadow|shadow]], wherever I
 went, or met me, like a reflection, at every turn. You needn’t look so
 shocked, Miss Grey; I was very discreet, I assure you, but, you know,
 one can’t help being admired. Poor fellow! He was not my only
@@ -69,9 +69,9 @@ had once so coveted to call her own.
 Again she brightened up, and answered gaily—“Oh! he made up to an
 elderly spinster, and married her, not long since; weighing her heavy
 purse against her faded charms, and expecting to find that solace in
-gold which was denied him in love—ha, ha!”
+gold which was denied him in [[Love|love]]—ha, ha!”
 
-“Well, and I think that’s all—except Mr. Weston: what is he doing?”
+“[[Well]], and I think that’s all—except Mr. Weston: what is he doing?”
 
 “I don’t know, I’m sure. He’s gone from Horton.”
 
@@ -87,22 +87,22 @@ he was not sufficiently tractable and submissive to him—and for some
 other unpardonable sins, I don’t know what. But now I positively must
 go and dress: the second bell will ring directly, and if I come to
 dinner in this guise, I shall never hear the end of it from Lady Ashby.
-It’s a strange thing one can’t be mistress in one’s own house! Just
+It’s a strange thing one can’t be mistress in one’s own [[house]]! Just
 ring the bell, and I’ll send for my maid, and tell them to get you some
 tea. Only think of that intolerable woman—”
 
 “Who—your maid?”
 
 “No;—my mother-in-law—and my unfortunate mistake! Instead of letting
-her take herself off to some other house, as she offered to do when I
-married, I was fool enough to ask her to live here still, and direct
-the affairs of the house for me; because, in the first place, I hoped
+her take herself off to some other [[house]], as she offered to do when I
+married, I was [[Fool|fool]] enough to ask her to live here still, and direct
+the affairs of the [[house]] for me; because, in the first place, I hoped
 we should spend the greater part of the year, in town, and in the
 second place, being so young and inexperienced, I was frightened at the
 idea of having a houseful of servants to manage, and dinners to order,
 and parties to entertain, and all the rest of it, and I thought she
 might assist me with her experience; never dreaming she would prove a
-usurper, a tyrant, an incubus, a spy, and everything else that’s
+[[Usurper|usurper]], a [[Tyrant|tyrant]], an incubus, a spy, and everything else that’s
 detestable. I wish she was dead!”
 
 She then turned to give her orders to the footman, who had been
@@ -118,7 +118,7 @@ course, nobody cares for that. It would be a pretty thing indeed, it we
 were to be tongue-tied by our servants!”
 
 So saying, she ran off to make her hasty toilet, leaving me to pilot my
-way back to my sitting-room, where, in due time, I was served with a
+way back to my sitting-room, where, in due [[Time|time]], I was served with a
 cup of tea. After that, I sat musing on Lady Ashby’s past and present
 condition; and on what little information I had obtained respecting Mr.
 Weston, and the small chance there was of ever seeing or hearing
@@ -126,5 +126,5 @@ anything more of him throughout my quiet, drab-colour life: which,
 henceforth, seemed to offer no alternative between positive rainy days,
 and days of dull grey clouds without downfall. At length, however, I
 began to weary of my thoughts, and to wish I knew where to find the
-library my hostess had spoken of; and to wonder whether I was to remain
-there doing nothing till bed-time.
+library my hostess had spoken of; and to [[Wonder|wonder]] whether I was to remain
+there doing nothing till bed-[[Time|time]].

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 1: INTRODUCTORY"
+title: "[[The Professor]] — Chapter 1: INTRODUCTORY"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -52,15 +52,15 @@ theme of conversation was our companions or our masters we understood
 
 each other, and when I recurred to some sentiment of affection, some
 
-vague love of an excellent or beautiful object, whether in animate or
+vague [[Love|love]] of an excellent or beautiful object, whether in animate or
 
-inanimate nature, your sardonic coldness did not move me. I felt myself
+inanimate [[Nature|nature]], your sardonic coldness did not move me. I felt myself
 
 superior to that check THEN as I do NOW.
 
 
 
-“It is a long time since I wrote to you, and a still longer time since
+“It is a long [[Time|time]] since I wrote to you, and a still longer [[Time|time]] since
 
 I saw you. Chancing to take up a newspaper of your county the other day,
 
@@ -84,7 +84,7 @@ which is in his gift, if I would; then my other uncle, Mr. Seacombe,
 
 hinted that when I became rector of Seacombe-cum-Scaife, I might perhaps
 
-be allowed to take, as mistress of my house and head of my parish, one
+be allowed to take, as mistress of my [[house]] and head of my parish, one
 
 of my six cousins, his daughters, all of whom I greatly dislike.
 
@@ -94,19 +94,19 @@ of my six cousins, his daughters, all of whom I greatly dislike.
 
 thing, but I should have made a very bad one. As to the wife--oh how
 
-like a night-mare is the thought of being bound for life to one of
+like a [[Night|night]]-mare is the thought of being bound for life to one of
 
-my cousins! No doubt they are accomplished and pretty; but not an
+my cousins! No [[Doubt|doubt]] they are accomplished and pretty; but not an
 
 accomplishment, not a charm of theirs, touches a chord in my bosom.
 
-To think of passing the winter evenings by the parlour fire-side of
+To think of passing the [[Winter|winter]] evenings by the parlour [[Fire|fire]]-side of
 
-Seacombe Rectory alone with one of them--for instance, the large and
+Seacombe Rectory [[Alone|alone]] with one of them--for instance, the large and
 
-well-modelled statue, Sarah--no; I should be a bad husband, under such
+[[Well|well]]-modelled statue, Sarah--no; I should be a bad husband, under such
 
-circumstances, as well as a bad clergyman.
+circumstances, as [[Well|well]] as a bad clergyman.
 
 
 
@@ -122,7 +122,7 @@ father’s steps and engaging in trade?’ Now, I had had no thoughts of the
 
 sort. I do not think that my turn of mind qualifies me to make a good
 
-tradesman; my taste, my ambition does not lie in that way; but such was
+tradesman; my taste, my [[Ambition|ambition]] does not lie in that way; but such was
 
 the scorn expressed in Lord Tynedale’s countenance as he pronounced
 
@@ -140,7 +140,7 @@ remonstrate; they and I parted with mutual disgust. In reviewing this
 
 transaction, I find that I was quite right to shake off the burden of
 
-Tynedale’s patronage, but a fool to offer my shoulders instantly for the
+Tynedale’s patronage, but a [[Fool|fool]] to offer my shoulders instantly for the
 
 reception of another burden--one which might be more intolerable, and
 
@@ -156,17 +156,17 @@ possessor of the mill and business which was my father’s before he
 
 failed. You are aware that my father--once reckoned a Croesus of
 
-wealth--became bankrupt a short time previous to his death, and that my
+wealth--became bankrupt a short [[Time|time]] previous to his [[Death|death]], and that my
 
 mother lived in destitution for some six months after him, unhelped by
 
-her aristocratical brothers, whom she had mortally offended by her union
+her aristocratical brothers, whom she had mortally offended by her [[Union|union]]
 
 with Crimsworth, the----shire manufacturer. At the end of the six months
 
 she brought me into the world, and then herself left it without, I
 
-should think, much regret, as it contained little hope or comfort for
+should think, much regret, as it contained little [[Hope|hope]] or comfort for
 
 her.
 
@@ -184,11 +184,11 @@ of writing a fierce letter to the candidate, stating that if he and Lord
 
 Tynedale did not consent to do something towards the support of their
 
-sister’s orphan children, he would expose their relentless and malignant
+sister’s [[Orphan|orphan]] children, he would expose their relentless and malignant
 
 conduct towards that sister, and do his best to turn the circumstances
 
-against Mr. Seacombe’s election. That gentleman and Lord T. knew well
+against Mr. Seacombe’s election. That gentleman and Lord T. knew [[Well|well]]
 
 enough that the Crimsworths were an unscrupulous and determined race;
 
@@ -196,33 +196,33 @@ they knew also that they had influence in the borough of X----; and,
 
 making a virtue of necessity, they consented to defray the expenses of
 
-my education. I was sent to Eton, where I remained ten years, during
+my [[Education|education]]. I was sent to Eton, where I remained ten years, during
 
-which space of time Edward and I never met. He, when he grew up, entered
+which space of [[Time|time]] Edward and I never met. He, when he grew up, entered
 
 into trade, and pursued his calling with such diligence, ability, and
 
-success, that now, in his thirtieth year, he was fast making a fortune.
+[[success]], that now, in his thirtieth year, he was fast making a fortune.
 
 Of this I was apprised by the occasional short letters I received from
 
 him, some three or four times a year; which said letters never concluded
 
-without some expression of determined enmity against the house of
+without some expression of determined enmity against the [[house]] of
 
 Seacombe, and some reproach to me for living, as he said, on the bounty
 
-of that house. At first, while still in boyhood, I could not understand
+of that [[house]]. At first, while still in boyhood, I could not understand
 
 why, as I had no parents, I should not be indebted to my uncles Tynedale
 
-and Seacombe for my education; but as I grew up, and heard by degrees of
+and Seacombe for my [[Education|education]]; but as I grew up, and heard by degrees of
 
-the persevering hostility, the hatred till death evinced by them against
+the persevering hostility, the hatred till [[Death|death]] evinced by them against
 
 my father--of the sufferings of my mother--of all the wrongs, in short,
 
-of our house--then did I conceive shame of the dependence in which I
+of our [[house]]--then did I conceive shame of the dependence in which I
 
 lived, and form a resolution no more to take bread from hands which had
 
@@ -230,7 +230,7 @@ refused to minister to the necessities of my dying mother. It was by
 
 these feelings I was influenced when I refused the Rectory of Seacombe,
 
-and the union with one of my patrician cousins.
+and the [[Union|union]] with one of my patrician cousins.
 
 
 
@@ -272,11 +272,11 @@ habitation designated to me as my brother’s. As I advanced up the
 
 avenue, I could see through the shades of twilight, and the dark gloomy
 
-mists which deepened those shades, that the house was large, and the
+mists which deepened those shades, that the [[house]] was large, and the
 
 grounds surrounding it sufficiently spacious. I paused a moment on the
 
-lawn in front, and leaning my back against a tall tree which rose in the
+lawn in front, and leaning my back against a tall tree which [[Rose|rose]] in the
 
 centre, I gazed with interest on the exterior of Crimsworth Hall.
 
@@ -284,7 +284,7 @@ centre, I gazed with interest on the exterior of Crimsworth Hall.
 
 “Edward is rich,” thought I to myself. ‘I believed him to be doing
 
-well--but I did not know he was master of a mansion like this.’ Cutting
+[[Well|well]]--but I did not know he was master of a mansion like this.’ Cutting
 
 short all marvelling; speculation, conjecture, &c., I advanced to the
 
@@ -292,11 +292,11 @@ front door and rang. A man-servant opened it--I announced myself--he
 
 relieved me of my wet cloak and carpet-bag, and ushered me into a
 
-room furnished as a library, where there was a bright fire and candles
+room furnished as a library, where there was a bright [[Fire|fire]] and candles
 
 burning on the table; he informed me that his master was not yet
 
-returned from X----market, but that he would certainly be at home in the
+returned from X----market, but that he would certainly be at [[Home|home]] in the
 
 course of half an hour.
 
@@ -338,27 +338,27 @@ Edward’s indifference would equal the cold disdain I had always
 
 experienced from them, I heard the avenue gates open: wheels approached
 
-the house; Mr. Crimsworth was arrived; and after the lapse of some
+the [[house]]; Mr. Crimsworth was arrived; and after the lapse of some
 
 minutes, and a brief dialogue between himself and his servant in the
 
-hall, his tread drew near the library door--that tread alone announced
+hall, his tread drew near the library door--that tread [[Alone|alone]] announced
 
-the master of the house.
+the master of the [[house]].
 
 
 
 “I still retained some confused recollection of Edward as he was ten
 
-years ago--a tall, wiry, raw youth; NOW, as I rose from my seat and
+years ago--a tall, wiry, raw youth; NOW, as I [[Rose|rose]] from my seat and
 
 turned towards the library door, I saw a fine-looking and powerful man,
 
-light-complexioned, well-made, and of athletic proportions; the first
+light-complexioned, [[Well|well]]-made, and of athletic proportions; the first
 
 glance made me aware of an air of promptitude and sharpness, shown
 
-as well in his movements as in his port, his eye, and the general
+as [[Well|well]] in his movements as in his port, his eye, and the general
 
 expression of his face. He greeted me with brevity, and, in the moment
 
@@ -368,7 +368,7 @@ morocco covered arm-chair, and motioned me to another seat.
 
 
 
-“‘I expected you would have called at the counting-house in the Close,’
+“‘I expected you would have called at the counting-[[house]] in the Close,’
 
 said he; and his voice, I noticed, had an abrupt accent, probably
 
@@ -390,15 +390,15 @@ aware that you had such a residence as this.’
 
 “‘Oh, it is all right!’ he replied, ‘only I was kept half an hour behind
 
-time, waiting for you--that is all. I thought you must be coming by the
+[[Time|time]], waiting for you--that is all. I thought you must be coming by the
 
-eight o’clock coach.’
+eight o’[[Clock|clock]] coach.’
 
 
 
 “I expressed regret that he had had to wait; he made no answer, but
 
-stirred the fire, as if to cover a movement of impatience; then he
+stirred the [[Fire|fire]], as if to cover a movement of impatience; then he
 
 scanned me again.
 
@@ -424,7 +424,7 @@ all future intercourse.’
 
 
 
-“‘Why,’ said he, ‘I may as well remind you at the very outset of our
+“‘Why,’ said he, ‘I may as [[Well|well]] remind you at the very outset of our
 
 connection, that “no man can serve two masters.” Acquaintance with Lord
 
@@ -442,17 +442,17 @@ inward speculation on the differences which exist in the constitution
 
 of men’s minds. I do not know what inference Mr. Crimsworth drew from
 
-my silence--whether he considered it a symptom of contumacity or an
+my [[Silence|silence]]--whether he considered it a symptom of contumacity or an
 
 evidence of my being cowed by his peremptory manner. After a long and
 
-hard stare at me, he rose sharply from his seat.
+hard stare at me, he [[Rose|rose]] sharply from his seat.
 
 
 
 “‘To-morrow,’ said he, ‘I shall call your attention to some other
 
-points; but now it is supper time, and Mrs. Crimsworth is probably
+points; but now it is supper [[Time|time]], and Mrs. Crimsworth is probably
 
 waiting; will you come?’
 
@@ -468,7 +468,7 @@ affectionate relative now striding before me? or is she better than
 
 these? Shall I, in conversing with her, feel free to show something of
 
-my real nature; or--’ Further conjectures were arrested by my entrance
+my real [[Nature|nature]]; or--’ Further conjectures were arrested by my entrance
 
 into the dining-room.
 
@@ -478,9 +478,9 @@ into the dining-room.
 
 apartment, wainscoted with oak; supper was laid on the table; by the
 
-fire-place, standing as if waiting our entrance, appeared a lady;
+[[Fire|fire]]-place, standing as if waiting our entrance, appeared a lady;
 
-she was young, tall, and well shaped; her dress was handsome and
+she was young, tall, and [[Well|well]] shaped; her dress was handsome and
 
 fashionable: so much my first glance sufficed to ascertain. A gay
 
@@ -500,7 +500,7 @@ at the supper-table in first-rate spirits. Perceiving me, she begged
 
 my pardon for not noticing me before, and then shook hands with me, as
 
-ladies do when a flow of good-humour disposes them to be cheerful to
+ladies do when a flow of good-[[Humour|humour]] disposes them to be cheerful to
 
 all, even the most indifferent of their acquaintance. It was now further
 
@@ -510,7 +510,7 @@ marked but agreeable; her hair was red--quite red. She and Edward
 
 talked much, always in a vein of playful contention; she was vexed, or
 
-pretended to be vexed, that he had that day driven a vicious horse in
+pretended to be vexed, that he had that day driven a vicious [[Horse|horse]] in
 
 the gig, and he made light of her fears. Sometimes she appealed to me.
 
@@ -518,7 +518,7 @@ the gig, and he made light of her fears. Sometimes she appealed to me.
 
 “‘Now, Mr. William, isn’t it absurd in Edward to talk so? He says he
 
-will drive Jack, and no other horse, and the brute has thrown him twice
+will drive Jack, and no other [[Horse|horse]], and the brute has thrown him twice
 
 already.
 
@@ -530,7 +530,7 @@ soon saw also that there was more than girlish--a somewhat infantine
 
 expression in her by no means small features; this lisp and expression
 
-were, I have no doubt, a charm in Edward’s eyes, and would be so to
+were, I have no [[Doubt|doubt]], a charm in Edward’s eyes, and would be so to
 
 those of most men, but they were not to mine. I sought her eye, desirous
 
@@ -538,19 +538,19 @@ to read there the intelligence which I could not discern in her face
 
 or hear in her conversation; it was merry, rather small; by turns I saw
 
-vivacity, vanity, coquetry, look out through its irid, but I watched in
+vivacity, [[Vanity|vanity]], coquetry, look out through its irid, but I watched in
 
-vain for a glimpse of soul. I am no Oriental; white necks, carmine lips
+vain for a glimpse of [[Soul|soul]]. I am no Oriental; white necks, carmine lips
 
 and cheeks, clusters of bright curls, do not suffice for me without that
 
 Promethean spark which will live after the roses and lilies are faded,
 
-the burnished hair grown grey. In sunshine, in prosperity, the flowers
+the burnished hair grown grey. In sunshine, in prosperity, the [[Flowers|flowers]]
 
-are very well; but how many wet days are there in life--November seasons
+are very [[Well|well]]; but how many wet days are there in life--November [[Seasons|seasons]]
 
-of disaster, when a man’s hearth and home would be cold indeed, without
+of disaster, when a man’s hearth and [[Home|home]] would be cold indeed, without
 
 the clear, cheering gleam of intellect.
 
@@ -560,7 +560,7 @@ the clear, cheering gleam of intellect.
 
 involuntary sigh announced my disappointment; she took it as a homage to
 
-her beauty, and Edward, who was evidently proud of his rich and handsome
+her [[Beauty|beauty]], and Edward, who was evidently proud of his rich and handsome
 
 young wife, threw on me a glance--half ridicule, half ire.
 
@@ -578,11 +578,11 @@ of these pictures. They were portraits--a lady and a gentleman, both
 
 costumed in the fashion of twenty years ago. The gentleman was in the
 
-shade. I could not see him well. The lady had the benefit of a full beam
+shade. I could not see him [[Well|well]]. The lady had the benefit of a full beam
 
 from the softly shaded lamp. I presently recognised her; I had seen this
 
-picture before in childhood; it was my mother; that and the companion
+picture before in [[Childhood|childhood]]; it was my mother; that and the companion
 
 picture being the only heir-looms saved out of the sale of my father’s
 
@@ -608,7 +608,7 @@ it was only a picture.
 
 conducted me to my bed-room; in closing my chamber-door, I shut out all
 
-intruders--you, Charles, as well as the rest.
+intruders--you, Charles, as [[Well|well]] as the rest.
 
 
 
@@ -616,13 +616,13 @@ intruders--you, Charles, as well as the rest.
 
 
 
-“WILLIAM CRIMSWORTH.”
+“[[William Crimsworth|WILLIAM CRIMSWORTH]].”
 
 
 
 To this letter I never got an answer; before my old friend received it,
 
-he had accepted a Government appointment in one of the colonies, and was
+he had accepted a [[government|Government]] appointment in one of the colonies, and was
 
 already on his way to the scene of his official labours. What has become
 
@@ -630,7 +630,7 @@ of him since, I know not.
 
 
 
-The leisure time I have at command, and which I intended to employ
+The leisure [[Time|time]] I have at command, and which I intended to employ
 
 for his private benefit, I shall now dedicate to that of the public at
 

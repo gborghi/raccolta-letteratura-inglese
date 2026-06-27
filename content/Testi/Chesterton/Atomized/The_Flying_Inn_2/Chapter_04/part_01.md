@@ -16,13 +16,13 @@ tags:
 
 CHAPTER III
 
-THE SIGN OF "THE OLD SHIP"
+THE SIGN OF "THE OLD [[Ship|SHIP]]"
 
 UPON few of the children of men has the surname of
 Pump fallen, and of these few have been maddened
-into naming a child Humphrey in addition to it.  To
+into naming a [[Child|child]] Humphrey in addition to it.  To
 such extremity, however, had the parents of the
-innkeeper at "The Old Ship" proceeded, that their son
+innkeeper at "The Old [[Ship]]" proceeded, that their son
 might come at last to be called "Hump" by his dearest
 friends, and "Pumph" by an aged Turk with a
 green umbrella.  All this, or all he knew of it, he
@@ -33,20 +33,20 @@ stood almost on the seashore, screened only by one
 line of apple trees, dwarfed, twisted and salted by the
 sea air; but in front of it was a highly banked bowling
 green, and behind it the land sank abruptly; so that
-one very steep sweeping road vanished into the depth
+one very steep sweeping [[Road|road]] vanished into the depth
 and mystery of taller trees.  Mr. Pump was standing
 immediately under his trim sign, which stood erect in
 the turf; a wooden pole painted white and suspending
 a square white board, also painted white but further
-decorated with a highly grotesque blue ship, such as
-a child might draw, but into which Mr. Pump's patriotism
+decorated with a highly [[Grotesque|grotesque]] blue [[Ship|ship]], such as
+a [[Child|child]] might draw, but into which Mr. Pump's patriotism
 had insinuated a disproportionately large red St.
-George's cross.
+George's [[Cross|cross]].
 
 Mr. Humphrey Pump was a man of middle size,
 with very broad shoulders, wearing a sort of shooting
 suit with gaiters.  Indeed, he was engaged at the
-moment in cleaning and reloading a double-barrelled
+moment in cleaning and reloading a [[Double|double]]-barrelled
 gun, a short but powerful weapon which he had
 invented, or at least improved, himself; and which,
 though eccentric enough as compared with latest scientific
@@ -54,8 +54,8 @@ arms, was neither clumsy nor necessarily out of
 date.  For Pump was one of those handy men who
 seem to have a hundred hands like Briareus; he made
 nearly everything for himself and everything in his
-house was slightly different from the same thing in
-anyone else's house.  He was also as cunning as Pan
+[[house]] was slightly different from the same thing in
+anyone else's [[house]].  He was also as cunning as Pan
 or a poacher in everything affecting every bird or
 dish, every leaf or berry in the woods.  His mind was
 a rich soil of subconscious memories and traditions;
@@ -79,7 +79,7 @@ animation and even defiance.  Beyond the goblin
 green apple trees and against the sea had appeared the
 tall, slight figure of a girl, in a dress about the colour
 of copper and a large shady hat.  Under the hat her
-face was grave and beautiful though rather swarthy.
+face was [[Grave|grave]] and beautiful though rather swarthy.
 She shook hands with Mr. Pump; then he very
 ceremoniously put a chair for her and called her "Lady
 Joan."
@@ -118,8 +118,8 @@ went on Mr. Pump.
 "Painted Captain Dawson green," continued Mr.
 Pump in colourless tones.  "Captain Dawson said
 green was the colour of Irish traitors, so Dalroy painted
-him green.  It was a great temptation, no doubt,
-with this fence being painted at the time and the pail
+him green.  It was a great [[Temptation|temptation]], no [[Doubt|doubt]],
+with this fence being painted at the [[Time|time]] and the pail
 of stuff there; but, of course, it had a very prejudicial
 effect on his professional career."
 
@@ -133,7 +133,7 @@ of the 'Green Man' over there by the town."
 since before Waterloo times.  Poor old Noyle had it
 until they put him away.  You remember old Noyle,
 Lady Joan.  Still alive, I hear, and still writing
-love-letters to Queen Victoria.  Only of course they aren't
+[[Love|love]]-letters to [[Queen]] Victoria.  Only of course they aren't
 posted now."
 
 "Have you heard from your Irish friend lately?"

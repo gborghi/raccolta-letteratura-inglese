@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 61 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 61 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,11 +16,11 @@ tags:
 
 ‘Before you say another word, dear Nicholas,’ said Kate, turning pale,
 ‘you must hear what I have to tell you. I came on purpose, but I had not
-the courage. What you say now, gives me new heart.’ She faltered, and
-burst into tears.
+the [[Courage|courage]]. What you say now, gives me new heart.’ She faltered, and
+burst into [[Tears|tears]].
 
 There was that in her manner which prepared Nicholas for what was
-coming. Kate tried to speak, but her tears prevented her.
+coming. Kate tried to speak, but her [[Tears|tears]] prevented her.
 
 ‘Come, you foolish girl,’ said Nicholas; ‘why, Kate, Kate, be a woman! I
 think I know what you would tell me. It concerns Mr. Frank, does it not?’
@@ -28,7 +28,7 @@ think I know what you would tell me. It concerns Mr. Frank, does it not?’
 Kate sunk her head upon his shoulder, and sobbed out ‘Yes.’
 
 ‘And he has offered you his hand, perhaps, since I have been away,’ said
-Nicholas; ‘is that it? Yes. Well, well; it is not so difficult, you see,
+Nicholas; ‘is that it? Yes. [[Well]], [[Well|well]]; it is not so difficult, you see,
 to tell me, after all. He offered you his hand?’
 
 ‘Which I refused,’ said Kate.
@@ -48,7 +48,7 @@ decision what it might, he would not only inform his uncles of the
 step he had taken, but would communicate it to you also, directly you
 returned. I am afraid,’ she added, her momentary composure forsaking
 her, ‘I am afraid I may not have said, strongly enough, how deeply I
-felt such disinterested love, and how earnestly I prayed for his future
+felt such disinterested [[Love|love]], and how earnestly I prayed for his future
 happiness. If you do talk together, I should--I should like him to know
 that.’
 
@@ -58,23 +58,23 @@ Nicholas tenderly.
 
 ‘Oh no! not if your position had been the same, but--’
 
-‘But it is the same,’ interrupted Nicholas. ‘Madeline is not the near
+‘But it is the same,’ interrupted Nicholas. ‘[[Madeline]] is not the near
 relation of our benefactors, but she is closely bound to them by ties as
-dear; and I was first intrusted with her history, specially because they
+dear; and I was first intrusted with her [[history]], specially because they
 reposed unbounded confidence in me, and believed that I was as true as
 steel. How base would it be of me to take advantage of the circumstances
 which placed her here, or of the slight service I was happily able to
 render her, and to seek to engage her affections when the result must
 be, if I succeeded, that the brothers would be disappointed in their
-darling wish of establishing her as their own child, and that I must
-seem to hope to build my fortunes on their compassion for the young
+darling wish of establishing her as their own [[Child|child]], and that I must
+seem to [[Hope|hope]] to build my fortunes on their compassion for the young
 creature whom I had so meanly and unworthily entrapped: turning her very
 gratitude and warmth of heart to my own purpose and account, and trading
-in her misfortunes! I, too, whose duty, and pride, and pleasure, Kate,
+in her misfortunes! I, too, whose duty, and [[Pride|pride]], and pleasure, Kate,
 it is to have other claims upon me which I will never forget; and who
 have the means of a comfortable and happy life already, and have no
 right to look beyond it! I have determined to remove this weight from my
-mind. I doubt whether I have not done wrong, even now; and today I
+mind. I [[Doubt|doubt]] whether I have not done wrong, even now; and today I
 will, without reserve or equivocation, disclose my real reasons to Mr
 Cherryble, and implore him to take immediate measures for removing this
 young lady to the shelter of some other roof.’
@@ -92,28 +92,28 @@ now would you?’
 ‘I may grow rich!’ repeated Nicholas, with a mournful smile, ‘ay, and
 I may grow old! But rich or poor, or old or young, we shall ever be the
 same to each other, and in that our comfort lies. What if we have but
-one home? It can never be a solitary one to you and me. What if we were
+one [[Home|home]]? It can never be a solitary one to you and me. What if we were
 to remain so true to these first impressions as to form no others? It is
 but one more link to the strong chain that binds us together. It seems
 but yesterday that we were playfellows, Kate, and it will seem but
 tomorrow when we are staid old people, looking back to these cares as we
 look back, now, to those of our childish days: and recollecting with a
-melancholy pleasure that the time was, when they could move us. Perhaps
+[[Melancholy|melancholy]] pleasure that the [[Time|time]] was, when they could move us. Perhaps
 then, when we are quaint old folks and talk of the times when our step
 was lighter and our hair not grey, we may be even thankful for the
 trials that so endeared us to each other, and turned our lives into that
 current, down which we shall have glided so peacefully and calmly. And
 having caught some inkling of our story, the young people about us--as
 young as you and I are now, Kate--may come to us for sympathy, and pour
-distresses which hope and inexperience could scarcely feel enough for,
+distresses which [[Hope|hope]] and inexperience could scarcely feel enough for,
 into the compassionate ears of the old bachelor brother and his maiden
 sister.’
 
-Kate smiled through her tears as Nicholas drew this picture; but they
-were not tears of sorrow, although they continued to fall when he had
+Kate smiled through her [[Tears|tears]] as Nicholas drew this picture; but they
+were not [[Tears|tears]] of sorrow, although they continued to fall when he had
 ceased to speak.
 
-‘Am I not right, Kate?’ he said, after a short silence.
+‘Am I not right, Kate?’ he said, after a short [[Silence|silence]].
 
 ‘Quite, quite, dear brother; and I cannot tell you how happy I am that I
 have acted as you would have had me.’
@@ -132,5 +132,5 @@ at the minute, he would, in his generous affection for the owner of the
 blushing cheek and downcast eye, have bestowed its utmost farthing, in
 perfect forgetfulness of himself, to secure her happiness. But all he
 could do was to comfort and console her by kind words; and words they
-were of such love and kindness, and cheerful encouragement, that poor
+were of such [[Love|love]] and kindness, and cheerful encouragement, that poor
 Kate threw her arms about his neck, and declared she would weep no more.

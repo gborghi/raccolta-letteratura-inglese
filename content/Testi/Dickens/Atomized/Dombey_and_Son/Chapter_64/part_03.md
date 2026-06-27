@@ -16,17 +16,17 @@ tags:
 
 “I want Florence to come for me,” said Paul.
 
-“Won’t you come with your poor Nurse Wickam, Master Paul?” inquired
+“Won’t you come with your poor [[Nurse]] Wickam, Master Paul?” inquired
 that attendant, with great pathos.
 
 “No, I won’t,” replied Paul, composing himself in his arm-chair again,
-like the master of the house.
+like the master of the [[house]].
 
-Invoking a blessing upon his innocence, Mrs Wickam withdrew, and
-presently Florence appeared in her stead. The child immediately started
+Invoking a blessing upon his [[innocence]], Mrs Wickam withdrew, and
+presently Florence appeared in her stead. The [[Child|child]] immediately started
 up with sudden readiness and animation, and raised towards his father
-in bidding him good-night, a countenance so much brighter, so much
-younger, and so much more child-like altogether, that Mr Dombey, while
+in bidding him good-[[Night|night]], a countenance so much brighter, so much
+younger, and so much more [[Child|child]]-like altogether, that Mr Dombey, while
 he felt greatly reassured by the change, was quite amazed at it.
 
 After they had left the room together, he thought he heard a soft voice
@@ -38,8 +38,8 @@ round her neck. So they went, toiling up; she singing all the way, and
 Paul sometimes crooning out a feeble accompaniment. Mr Dombey looked
 after them until they reached the top of the staircase—not without
 halting to rest by the way—and passed out of his sight; and then he
-still stood gazing upwards, until the dull rays of the moon, glimmering
-in a melancholy manner through the dim skylight, sent him back to his
+still stood gazing upwards, until the dull rays of the [[Moon|moon]], glimmering
+in a [[Melancholy|melancholy]] manner through the dim skylight, sent him back to his
 room.
 
 Mrs Chick and Miss Tox were convoked in council at dinner next day; and
@@ -48,49 +48,49 @@ requiring to be informed, without any gloss or reservation, whether
 there was anything the matter with Paul, and what Mr Pilkins said about
 him.
 
-“For the child is hardly,” said Mr Dombey, “as stout as I could wish.”
+“For the [[Child|child]] is hardly,” said Mr Dombey, “as stout as I could wish.”
 
 “My dear Paul,” returned Mrs Chick, “with your usual happy
-discrimination, which I am weak enough to envy you, every time I am in
+discrimination, which I am weak enough to envy you, every [[Time|time]] I am in
 your company; and so I think is Miss Tox.”
 
 “Oh my dear!” said Miss Tox, softly, “how could it be otherwise?
 Presumptuous as it is to aspire to such a level; still, if the bird of
-night may—but I’ll not trouble Mr Dombey with the sentiment. It merely
+[[Night|night]] may—but I’ll not trouble Mr Dombey with the sentiment. It merely
 relates to the Bulbul.”
 
 Mr Dombey bent his head in stately recognition of the Bulbuls as an
-old-established body.
+old-established [[Body|body]].
 
 “With your usual happy discrimination, my dear Paul,” resumed Mrs
 Chick, “you have hit the point at once. Our darling is altogether as
 stout as we could wish. The fact is, that his mind is too much for him.
-His soul is a great deal too large for his frame. I am sure the way in
-which that dear child talks!” said Mrs Chick, shaking her head; “no one
+His [[Soul|soul]] is a great deal too large for his frame. I am sure the way in
+which that dear [[Child|child]] talks!” said Mrs Chick, shaking her head; “no one
 would believe. His expressions, Lucretia, only yesterday upon the
 subject of Funerals!”
 
 “I am afraid,” said Mr Dombey, interrupting her testily, “that some of
-those persons upstairs suggest improper subjects to the child. He was
-speaking to me last night about his—about his Bones,” said Mr Dombey,
+those persons upstairs suggest improper subjects to the [[Child|child]]. He was
+speaking to me last [[Night|night]] about his—about his Bones,” said Mr Dombey,
 laying an irritated stress upon the word. “What on earth has anybody to
-do with the—with the—Bones of my son? He is not a living skeleton, I
+do with the—with the—Bones of my son? He is not a living [[skeleton]], I
 suppose.”
 
 “Very far from it,” said Mrs Chick, with unspeakable expression.
 
-“I hope so,” returned her brother. “Funerals again! who talks to the
-child of funerals? We are not undertakers, or mutes, or grave-diggers,
+“I [[Hope|hope]] so,” returned her brother. “Funerals again! who talks to the
+[[Child|child]] of funerals? We are not undertakers, or mutes, or [[Grave|grave]]-diggers,
 I believe.”
 
 “Very far from it,” interposed Mrs Chick, with the same profound
 expression as before.
 
 “Then who puts such things into his head?” said Mr Dombey. “Really I
-was quite dismayed and shocked last night. Who puts such things into
+was quite dismayed and shocked last [[Night|night]]. Who puts such things into
 his head, Louisa?”
 
-“My dear Paul,” said Mrs Chick, after a moment’s silence, “it is of no
+“My dear Paul,” said Mrs Chick, after a moment’s [[Silence|silence]], “it is of no
 use inquiring. I do not think, I will tell you candidly that Wickam is
 a person of very cheerful spirit, or what one would call a—”
 
@@ -99,23 +99,23 @@ a person of very cheerful spirit, or what one would call a—”
 “Exactly so,” said Mrs Chick; “but she is exceedingly attentive and
 useful, and not at all presumptuous; indeed I never saw a more biddable
 woman. I would say that for her, if I was put upon my trial before a
-Court of Justice.”
+[[Court]] of Justice.”
 
-“Well! you are not put upon your trial before a Court of Justice, at
+“[[Well]]! you are not put upon your trial before a [[Court]] of Justice, at
 present, Louisa,” returned Mr Dombey, chafing, “and therefore it don’t
 matter.”
 
 “My dear Paul,” said Mrs Chick, in a warning voice, “I must be spoken
-to kindly, or there is an end of me,” at the same time a premonitory
+to kindly, or there is an end of me,” at the same [[Time|time]] a premonitory
 redness developed itself in Mrs Chick’s eyelids which was an invariable
 sign of rain, unless the weather changed directly.
 
 “I was inquiring, Louisa,” observed Mr Dombey, in an altered voice, and
 after a decent interval, “about Paul’s health and actual state.”
 
-“If the dear child,” said Mrs Chick, in the tone of one who was summing
+“If the dear [[Child|child]],” said Mrs Chick, in the tone of one who was summing
 up what had been previously quite agreed upon, instead of saying it all
-for the first time, “is a little weakened by that last attack, and is
+for the first [[Time|time]], “is a little weakened by that last attack, and is
 not in quite such vigorous health as we could wish; and if he has some
 temporary weakness in his system, and does occasionally seem about to
 lose, for the moment, the use of his—”
@@ -129,15 +129,15 @@ true to her office, hazarded “members.”
 “I think the medical gentleman mentioned legs this morning, my dear
 Louisa, did he not?” said Miss Tox.
 
-“Why, of course he did, my love,” retorted Mrs Chick, mildly
+“Why, of course he did, my [[Love|love]],” retorted Mrs Chick, mildly
 reproachful. “How can you ask me? You heard him. I say, if our dear
 Paul should lose, for the moment, the use of his legs, these are
-casualties common to many children at his time of life, and not to be
+casualties common to many children at his [[Time|time]] of life, and not to be
 prevented by any care or caution. The sooner you understand that, Paul,
-and admit that, the better. If you have any doubt as to the amount of
-care, and caution, and affection, and self-sacrifice, that has been
+and admit that, the better. If you have any [[Doubt|doubt]] as to the amount of
+care, and caution, and affection, and [[Self-Sacrifice|self-sacrifice]], that has been
 bestowed upon little Paul, I should wish to refer the question to your
-medical attendant, or to any of your dependants in this house. Call
+medical attendant, or to any of your dependants in this [[house]]. Call
 Towlinson,” said Mrs Chick, “I believe he has no prejudice in our
 favour; quite the contrary. I should wish to hear what accusation
 Towlinson can make!”

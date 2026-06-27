@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 21"
+title: "[[Persuasion]] — Chapter 21"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER XXI.
 
 Anne recollected with pleasure the next morning her promise of going to
 
-Mrs Smith, meaning that it should engage her from home at the time when
+Mrs [[smith|Smith]], meaning that it should engage her from [[Home|home]] at the [[Time|time]] when
 
 Mr Elliot would be most likely to call; for to avoid Mr Elliot was
 
@@ -44,25 +44,25 @@ sentiments, by his early prepossession. It was altogether very
 
 extraordinary; flattering, but painful. There was much to regret. How
 
-she might have felt had there been no Captain Wentworth in the case,
+she might have felt had there been no [[Captain Wentworth]] in the case,
 
-was not worth enquiry; for there was a Captain Wentworth; and be the
+was not worth enquiry; for there was a [[Captain Wentworth]]; and be the
 
 conclusion of the present suspense good or bad, her affection would be
 
-his for ever. Their union, she believed, could not divide her more from
+his for ever. Their [[Union|union]], she believed, could not divide her more from
 
 other men, than their final separation.
 
 
 
-Prettier musings of high-wrought love and eternal constancy, could
+Prettier musings of high-wrought [[Love|love]] and eternal constancy, could
 
 never have passed along the streets of Bath, than Anne was sporting
 
 with from Camden Place to Westgate Buildings. It was almost enough to
 
-spread purification and perfume all the way.
+spread [[Purification|purification]] and perfume all the way.
 
 
 
@@ -82,17 +82,17 @@ features and make her rejoice to talk of it. All that she could tell
 
 she told most gladly, but the all was little for one who had been
 
-there, and unsatisfactory for such an enquirer as Mrs Smith, who had
+there, and unsatisfactory for such an enquirer as Mrs [[smith|Smith]], who had
 
 already heard, through the short cut of a laundress and a waiter,
 
-rather more of the general success and produce of the evening than Anne
+rather more of the general [[success]] and produce of the evening than Anne
 
 could relate, and who now asked in vain for several particulars of the
 
-company. Everybody of any consequence or notoriety in Bath was well
+company. Everybody of any consequence or notoriety in Bath was [[Well|well]]
 
-know by name to Mrs Smith.
+know by name to Mrs [[smith|Smith]].
 
 
 
@@ -134,7 +134,7 @@ grandeur, round the orchestra, of course.”
 
 in every respect. But happily Lady Dalrymple always chooses to be
 
-farther off; and we were exceedingly well placed, that is, for hearing;
+farther off; and we were exceedingly [[Well|well]] placed, that is, for hearing;
 
 I must not say for seeing, because I appear to have seen very little.”
 
@@ -174,9 +174,9 @@ Anne half smiled and said, “Do you see that in my eye?”
 
 “Yes, I do. Your countenance perfectly informs me that you were in
 
-company last night with the person whom you think the most agreeable in
+company last [[Night|night]] with the person whom you think the most agreeable in
 
-the world, the person who interests you at this present time more than
+the world, the person who interests you at this present [[Time|time]] more than
 
 all the rest of the world put together.”
 
@@ -186,13 +186,13 @@ A blush overspread Anne’s cheeks. She could say nothing.
 
 
 
-“And such being the case,” continued Mrs Smith, after a short pause, “I
+“And such being the case,” continued Mrs [[smith|Smith]], after a short pause, “I
 
-hope you believe that I do know how to value your kindness in coming to
+[[Hope|hope]] you believe that I do know how to value your kindness in coming to
 
 me this morning. It is really very good of you to come and sit with me,
 
-when you must have so many pleasanter demands upon your time.”
+when you must have so many pleasanter demands upon your [[Time|time]].”
 
 
 
@@ -200,13 +200,13 @@ Anne heard nothing of this. She was still in the astonishment and
 
 confusion excited by her friend’s penetration, unable to imagine how
 
-any report of Captain Wentworth could have reached her. After another
+any report of [[Captain Wentworth]] could have reached her. After another
 
-short silence—
+short [[Silence|silence]]—
 
 
 
-“Pray,” said Mrs Smith, “is Mr Elliot aware of your acquaintance with
+“Pray,” said Mrs [[smith|Smith]], “is Mr Elliot aware of your acquaintance with
 
 me? Does he know that I am in Bath?”
 
@@ -216,13 +216,13 @@ me? Does he know that I am in Bath?”
 
 shewed her the mistake she had been under. She caught it
 
-instantaneously; and recovering her courage with the feeling of safety,
+instantaneously; and recovering her [[Courage|courage]] with the feeling of safety,
 
 soon added, more composedly, “Are you acquainted with Mr Elliot?”
 
 
 
-“I have been a good deal acquainted with him,” replied Mrs Smith,
+“I have been a good deal acquainted with him,” replied Mrs [[smith|Smith]],
 
 gravely, “but it seems worn out now. It is a great while since we met.”
 
@@ -234,7 +234,7 @@ known it, I would have had the pleasure of talking to him about you.”
 
 
 
-“To confess the truth,” said Mrs Smith, assuming her usual air of
+“To confess the [[Truth|truth]],” said Mrs [[smith|Smith]], assuming her usual air of
 
 cheerfulness, “that is exactly the pleasure I want you to have. I want
 
@@ -248,7 +248,7 @@ done.”
 
 
 
-“I should be extremely happy; I hope you cannot doubt my willingness to
+“I should be extremely happy; I [[Hope|hope]] you cannot [[Doubt|doubt]] my willingness to
 
 be of even the slightest use to you,” replied Anne; “but I suspect that
 
@@ -266,7 +266,7 @@ hesitate to employ me.”
 
 
 
-Mrs Smith gave her a penetrating glance, and then, smiling, said—
+Mrs [[smith|Smith]] gave her a penetrating glance, and then, smiling, said—
 
 
 
@@ -292,7 +292,7 @@ imagine I am?”
 
 
 
-Mrs Smith looked at her again, looked earnestly, smiled, shook her
+Mrs [[smith|Smith]] looked at her again, looked earnestly, smiled, shook her
 
 head, and exclaimed—
 
@@ -320,7 +320,7 @@ know him better than Colonel Wallis?”
 
 
 
-“My dear Mrs Smith, Mr Elliot’s wife has not been dead much above half
+“My dear Mrs [[smith|Smith]], Mr Elliot’s wife has not been dead much above half
 
 a year. He ought not to be supposed to be paying his addresses to any
 
@@ -328,7 +328,7 @@ one.”
 
 
 
-“Oh! if these are your only objections,” cried Mrs Smith, archly, “Mr
+“Oh! if these are your only objections,” cried Mrs [[smith|Smith]], archly, “Mr
 
 Elliot is safe, and I shall give myself no more trouble about him. Do
 
@@ -342,9 +342,9 @@ engagements of his own, to avoid and get rid of as he can; very
 
 natural, perhaps. Ninety-nine out of a hundred would do the same. Of
 
-course, he cannot be aware of the importance to me. Well, my dear Miss
+course, he cannot be aware of the importance to me. [[Well]], my dear Miss
 
-Elliot, I hope and trust you will be very happy. Mr Elliot has sense to
+Elliot, I [[Hope|hope]] and trust you will be very happy. Mr Elliot has sense to
 
 understand the value of such a woman. Your peace will not be
 
@@ -366,7 +366,7 @@ any thing that has fallen within my observation, to do otherwise. But I
 
 have not known him long; and he is not a man, I think, to be known
 
-intimately soon. Will not this manner of speaking of him, Mrs Smith,
+intimately soon. Will not this manner of speaking of him, Mrs [[smith|Smith]],
 
 convince you that he is nothing to me? Surely this must be calm enough.
 
@@ -378,7 +378,7 @@ doing), I shall not accept him. I assure you I shall not. I assure you,
 
 Mr Elliot had not the share which you have been supposing, in whatever
 
-pleasure the concert of last night might afford: not Mr Elliot; it is
+pleasure the concert of last [[Night|night]] might afford: not Mr Elliot; it is
 
 not Mr Elliot that—”
 
@@ -386,7 +386,7 @@ not Mr Elliot that—”
 
 She stopped, regretting with a deep blush that she had implied so much;
 
-but less would hardly have been sufficient. Mrs Smith would hardly have
+but less would hardly have been sufficient. Mrs [[smith|Smith]] would hardly have
 
 believed so soon in Mr Elliot’s failure, but from the perception of
 
@@ -394,7 +394,7 @@ there being a somebody else. As it was, she instantly submitted, and
 
 with all the semblance of seeing nothing beyond; and Anne, eager to
 
-escape farther notice, was impatient to know why Mrs Smith should have
+escape farther notice, was impatient to know why Mrs [[smith|Smith]] should have
 
 fancied she was to marry Mr Elliot; where she could have received the
 
@@ -406,7 +406,7 @@ idea, or from whom she could have heard it.
 
 
 
-“It first came into my head,” replied Mrs Smith, “upon finding how much
+“It first came into my head,” replied Mrs [[smith|Smith]], “upon finding how much
 
 you were together, and feeling it to be the most probable thing in the
 
@@ -428,35 +428,35 @@ yesterday?”
 
 
 
-“No. Was not it Mrs Speed, as usual, or the maid? I observed no one in
+“No. Was not it Mrs [[Speed]], as usual, or the maid? I observed no one in
 
 particular.”
 
 
 
-“It was my friend Mrs Rooke; Nurse Rooke; who, by-the-bye, had a great
+“It was my friend Mrs Rooke; [[Nurse]] Rooke; who, by-the-bye, had a great
 
 curiosity to see you, and was delighted to be in the way to let you in.
 
-She came away from Marlborough Buildings only on Sunday; and she it was
+She came away from Marlborough Buildings only on [[Sunday]]; and she it was
 
 who told me you were to marry Mr Elliot. She had had it from Mrs Wallis
 
 herself, which did not seem bad authority. She sat an hour with me on
 
-Monday evening, and gave me the whole history.” “The whole history,”
+Monday evening, and gave me the whole [[history]].” “The whole [[history]],”
 
-repeated Anne, laughing. “She could not make a very long history, I
+repeated Anne, laughing. “She could not make a very long [[history]], I
 
 think, of one such little article of unfounded news.”
 
 
 
-Mrs Smith said nothing.
+Mrs [[smith|Smith]] said nothing.
 
 
 
-“But,” continued Anne, presently, “though there is no truth in my
+“But,” continued Anne, presently, “though there is no [[Truth|truth]] in my
 
 having this claim on Mr Elliot, I should be extremely happy to be of
 
@@ -500,7 +500,7 @@ have nothing to trouble you with.”
 
 
 
-“Indeed! Then do tell me what he was at that time of life. I have a
+“Indeed! Then do tell me what he was at that [[Time|time]] of life. I have a
 
 great curiosity to know what Mr Elliot was as a very young man. Was he
 
@@ -508,13 +508,13 @@ at all such as he appears now?”
 
 
 
-“I have not seen Mr Elliot these three years,” was Mrs Smith’s answer,
+“I have not seen Mr Elliot these three years,” was Mrs [[smith|Smith]]’s answer,
 
 given so gravely that it was impossible to pursue the subject farther;
 
 and Anne felt that she had gained nothing but an increase of curiosity.
 
-They were both silent: Mrs Smith very thoughtful. At last—
+They were both silent: Mrs [[smith|Smith]] very thoughtful. At last—
 
 
 
@@ -530,7 +530,7 @@ were many things to be taken into the account. One hates to be
 
 officious, to be giving bad impressions, making mischief. Even the
 
-smooth surface of family-union seems worth preserving, though there may
+smooth surface of family-[[Union|union]] seems worth preserving, though there may
 
 be nothing durable beneath. However, I have determined; I think I am
 
@@ -540,11 +540,11 @@ character. Though I fully believe that, at present, you have not the
 
 smallest intention of accepting him, there is no saying what may
 
-happen. You might, some time or other, be differently affected towards
+happen. You might, some [[Time|time]] or other, be differently affected towards
 
-him. Hear the truth, therefore, now, while you are unprejudiced. Mr
+him. Hear the [[Truth|truth]], therefore, now, while you are unprejudiced. Mr
 
-Elliot is a man without heart or conscience; a designing, wary,
+Elliot is a man without heart or [[Conscience|conscience]]; a designing, wary,
 
 cold-blooded being, who thinks only of himself; whom for his own
 
@@ -554,7 +554,7 @@ that could be perpetrated without risk of his general character. He has
 
 no feeling for others. Those whom he has been the chief cause of
 
-leading into ruin, he can neglect and desert without the smallest
+leading into ruin, he can neglect and [[Desert|desert]] without the smallest
 
 compunction. He is totally beyond the reach of any sentiment of justice
 
@@ -562,7 +562,7 @@ or compassion. Oh! he is black at heart, hollow and black!”
 
 
 
-Anne’s astonished air, and exclamation of wonder, made her pause, and
+Anne’s astonished air, and exclamation of [[Wonder|wonder]], made her pause, and
 
 in a calmer manner, she added,
 
@@ -578,7 +578,7 @@ intimate friend of my dear husband, who trusted and loved him, and
 
 thought him as good as himself. The intimacy had been formed before our
 
-marriage. I found them most intimate friends; and I, too, became
+[[Marriage|marriage]]. I found them most intimate friends; and I, too, became
 
 excessively pleased with Mr Elliot, and entertained the highest opinion
 
@@ -594,7 +594,7 @@ inferior in circumstances; he was then the poor one; he had chambers in
 
 the Temple, and it was as much as he could do to support the appearance
 
-of a gentleman. He had always a home with us whenever he chose it; he
+of a gentleman. He had always a [[Home|home]] with us whenever he chose it; he
 
 was always welcome; he was like a brother. My poor Charles, who had the
 
@@ -610,13 +610,13 @@ that he often assisted him.”
 
 Anne, “which has always excited my particular curiosity. It must have
 
-been about the same time that he became known to my father and sister.
+been about the same [[Time|time]] that he became known to my father and sister.
 
 I never knew him myself; I only heard of him; but there was a something
 
 in his conduct then, with regard to my father and sister, and
 
-afterwards in the circumstances of his marriage, which I never could
+afterwards in the circumstances of his [[Marriage|marriage]], which I never could
 
 quite reconcile with present times. It seemed to announce a different
 
@@ -624,7 +624,7 @@ sort of man.”
 
 
 
-“I know it all, I know it all,” cried Mrs Smith. “He had been
+“I know it all, I know it all,” cried Mrs [[smith|Smith]]. “He had been
 
 introduced to Sir Walter and your sister before I was acquainted with
 
@@ -634,7 +634,7 @@ encouraged, and I know he did not choose to go. I can satisfy you,
 
 perhaps, on points which you would little expect; and as to his
 
-marriage, I knew all about it at the time. I was privy to all the fors
+[[Marriage|marriage]], I knew all about it at the [[Time|time]]. I was privy to all the fors
 
 and againsts; I was the friend to whom he confided his hopes and plans;
 
@@ -652,7 +652,7 @@ life, and can answer any question you may wish to put.”
 
 have always understood they were not a happy couple. But I should like
 
-to know why, at that time of his life, he should slight my father’s
+to know why, at that [[Time|time]] of his life, he should slight my father’s
 
 acquaintance as he did. My father was certainly disposed to take very
 
@@ -660,13 +660,13 @@ kind and proper notice of him. Why did Mr Elliot draw back?”
 
 
 
-“Mr Elliot,” replied Mrs Smith, “at that period of his life, had one
+“Mr Elliot,” replied Mrs [[smith|Smith]], “at that period of his life, had one
 
 object in view: to make his fortune, and by a rather quicker process
 
-than the law. He was determined to make it by marriage. He was
+than the law. He was determined to make it by [[Marriage|marriage]]. He was
 
-determined, at least, not to mar it by an imprudent marriage; and I
+determined, at least, not to mar it by an imprudent [[Marriage|marriage]]; and I
 
 know it was his belief (whether justly or not, of course I cannot
 
@@ -698,23 +698,23 @@ me to Mr Elliot?”
 
 
 
-“To be sure I did; very often. I used to boast of my own Anne Elliot,
+“To be sure I did; very often. I used to boast of my own [[Anne Elliot]],
 
 and vouch for your being a very different creature from—”
 
 
 
-She checked herself just in time.
+She checked herself just in [[Time|time]].
 
 
 
-“This accounts for something which Mr Elliot said last night,” cried
+“This accounts for something which Mr Elliot said last [[Night|night]],” cried
 
 Anne. “This explains it. I found he had been used to hear of me. I
 
 could not comprehend how. What wild imaginations one forms where dear
 
-self is concerned! How sure to be mistaken! But I beg your pardon; I
+[[Self|self]] is concerned! How sure to be mistaken! But I beg your pardon; I
 
 have interrupted you. Mr Elliot married then completely for money? The
 
@@ -724,7 +724,7 @@ character.”
 
 
 
-Mrs Smith hesitated a little here. “Oh! those things are too common.
+Mrs [[smith|Smith]] hesitated a little here. “Oh! those things are too common.
 
 When one lives in the world, a man or woman’s marrying for money is too
 
@@ -732,7 +732,7 @@ common to strike one as it ought. I was very young, and associated only
 
 with the young, and we were a thoughtless, gay set, without any strict
 
-rules of conduct. We lived for enjoyment. I think differently now; time
+rules of conduct. We lived for enjoyment. I think differently now; [[Time|time]]
 
 and sickness and sorrow have given me other notions; but at that period
 
@@ -752,9 +752,9 @@ all that he wanted. Her father was a grazier, her grandfather had been
 
 a butcher, but that was all nothing. She was a fine woman, had had a
 
-decent education, was brought forward by some cousins, thrown by chance
+decent [[Education|education]], was brought forward by some cousins, thrown by chance
 
-into Mr Elliot’s company, and fell in love with him; and not a
+into Mr Elliot’s company, and fell in [[Love|love]] with him; and not a
 
 difficulty or a scruple was there on his side, with respect to her
 
@@ -766,7 +766,7 @@ esteem Mr Elliot may have for his own situation in life now, as a young
 
 man he had not the smallest value for it. His chance for the Kellynch
 
-estate was something, but all the honour of the family he held as cheap
+estate was something, but all the [[Honour|honour]] of the family he held as cheap
 
 as dirt. I have often heard him declare, that if baronetcies were
 
@@ -782,7 +782,7 @@ have proof.”
 
 
 
-“Indeed, my dear Mrs Smith, I want none,” cried Anne. “You have
+“Indeed, my dear Mrs [[smith|Smith]], I want none,” cried Anne. “You have
 
 asserted nothing contradictory to what Mr Elliot appeared to be some
 
@@ -806,7 +806,7 @@ you will find on the upper shelf of the closet.”
 
 Anne, seeing her friend to be earnestly bent on it, did as she was
 
-desired. The box was brought and placed before her, and Mrs Smith,
+desired. The box was brought and placed before her, and Mrs [[smith|Smith]],
 
 sighing over it as she unlocked it, said—
 
@@ -816,7 +816,7 @@ sighing over it as she unlocked it, said—
 
 portion only of what I had to look over when I lost him. The letter I
 
-am looking for was one written by Mr Elliot to him before our marriage,
+am looking for was one written by Mr Elliot to him before our [[Marriage|marriage]],
 
 and happened to be saved; why, one can hardly imagine. But he was
 
@@ -838,21 +838,21 @@ it.”
 
 
 
-This was the letter, directed to “Charles Smith, Esq. Tunbridge Wells,”
+This was the letter, directed to “Charles [[smith|Smith]], Esq. Tunbridge Wells,”
 
-and dated from London, as far back as July, 1803:—
-
-
+and dated from [[London]], as far back as July, 1803:—
 
 
 
-“Dear Smith,
+
+
+“Dear [[smith|Smith]],
 
 
 
 “I have received yours. Your kindness almost overpowers me. I wish
 
-nature had made such hearts as yours more common, but I have lived
+[[Nature|nature]] had made such hearts as yours more common, but I have lived
 
 three-and-twenty years in the world, and have seen none like it. At
 
@@ -862,11 +862,11 @@ again. Give me joy: I have got rid of Sir Walter and Miss. They are
 
 gone back to Kellynch, and almost made me swear to visit them this
 
-summer; but my first visit to Kellynch will be with a surveyor, to tell
+[[Summer|summer]]; but my first visit to Kellynch will be with a surveyor, to tell
 
 me how to bring it with best advantage to the hammer. The baronet,
 
-nevertheless, is not unlikely to marry again; he is quite fool enough.
+nevertheless, is not unlikely to marry again; he is quite [[Fool|fool]] enough.
 
 If he does, however, they will leave me in peace, which may be a decent
 
@@ -876,7 +876,7 @@ equivalent for the reversion. He is worse than last year.
 
 “I wish I had any name but Elliot. I am sick of it. The name of Walter
 
-I can drop, thank God! and I desire you will never insult me with my
+I can drop, thank God! and I [[Desire|desire]] you will never insult me with my
 
 second W. again, meaning, for the rest of my life, to be only yours
 
@@ -892,7 +892,7 @@ truly,
 
 Such a letter could not be read without putting Anne in a glow; and Mrs
 
-Smith, observing the high colour in her face, said—
+[[smith|Smith]], observing the high colour in her face, said—
 
 
 
@@ -910,7 +910,7 @@ Anne could not immediately get over the shock and mortification of
 
 finding such words applied to her father. She was obliged to recollect
 
-that her seeing the letter was a violation of the laws of honour, that
+that her seeing the letter was a violation of the laws of [[Honour|honour]], that
 
 no one ought to be judged or to be known by such testimonies, that no
 
@@ -928,7 +928,7 @@ were saying. But why be acquainted with us now?”
 
 
 
-“I can explain this too,” cried Mrs Smith, smiling.
+“I can explain this too,” cried Mrs [[smith|Smith]], smiling.
 
 
 
@@ -940,7 +940,7 @@ were saying. But why be acquainted with us now?”
 
 will shew him as he is now. I cannot produce written proof again, but I
 
-can give as authentic oral testimony as you can desire, of what he is
+can give as authentic oral testimony as you can [[Desire|desire]], of what he is
 
 now wanting, and what he is now doing. He is no hypocrite now. He truly
 
@@ -972,23 +972,23 @@ a very pretty silly wife, to whom he tells things which he had better
 
 not, and he repeats it all to her. She in the overflowing spirits of
 
-her recovery, repeats it all to her nurse; and the nurse knowing my
+her recovery, repeats it all to her [[Nurse|nurse]]; and the [[Nurse|nurse]] knowing my
 
 acquaintance with you, very naturally brings it all to me. On Monday
 
-evening, my good friend Mrs Rooke let me thus much into the secrets of
+evening, my good friend Mrs Rooke let me thus much into the [[Secrets|secrets]] of
 
-Marlborough Buildings. When I talked of a whole history, therefore, you
+Marlborough Buildings. When I talked of a whole [[history]], therefore, you
 
 see I was not romancing so much as you supposed.”
 
 
 
-“My dear Mrs Smith, your authority is deficient. This will not do. Mr
+“My dear Mrs [[smith|Smith]], your authority is deficient. This will not do. Mr
 
 Elliot’s having any views on me will not in the least account for the
 
-efforts he made towards a reconciliation with my father. That was all
+efforts he made towards a [[Reconciliation|reconciliation]] with my father. That was all
 
 prior to my coming to Bath. I found them on the most friendly terms
 
@@ -1000,13 +1000,13 @@ when I arrived.”
 
 
 
-“Indeed, Mrs Smith, we must not expect to get real information in such
+“Indeed, Mrs [[smith|Smith]], we must not expect to get real information in such
 
 a line. Facts or opinions which are to pass through the hands of so
 
 many, to be misconceived by folly in one, and ignorance in another, can
 
-hardly have much truth left.”
+hardly have much [[Truth|truth]] left.”
 
 
 
@@ -1020,7 +1020,7 @@ first inducement. He had seen you indeed, before he came to Bath, and
 
 admired you, but without knowing it to be you. So says my historian, at
 
-least. Is this true? Did he see you last summer or autumn, ‘somewhere
+least. Is this true? Did he see you last [[Summer|summer]] or [[Autumn|autumn]], ‘somewhere
 
 down in the west,’ to use her own words, without knowing it to be you?”
 
@@ -1032,15 +1032,15 @@ Lyme.”
 
 
 
-“Well,” continued Mrs Smith, triumphantly, “grant my friend the credit
+“[[Well]],” continued Mrs [[smith|Smith]], triumphantly, “grant my friend the credit
 
 due to the establishment of the first point asserted. He saw you then
 
-at Lyme, and liked you so well as to be exceedingly pleased to meet
+at Lyme, and liked you so [[Well|well]] as to be exceedingly pleased to meet
 
-with you again in Camden Place, as Miss Anne Elliot, and from that
+with you again in Camden Place, as Miss [[Anne Elliot]], and from that
 
-moment, I have no doubt, had a double motive in his visits there. But
+moment, I have no [[Doubt|doubt]], had a [[Double|double]] motive in his visits there. But
 
 there was another, and an earlier, which I will now explain. If there
 
@@ -1066,7 +1066,7 @@ the danger.”
 
 
 
-Here Mrs Smith paused a moment; but Anne had not a word to say, and she
+Here Mrs [[smith|Smith]] paused a moment; but Anne had not a word to say, and she
 
 continued—
 
@@ -1086,11 +1086,11 @@ for a day or two, as he happened to do a little before Christmas,
 
 Colonel Wallis made him acquainted with the appearance of things, and
 
-the reports beginning to prevail. Now you are to understand, that time
+the reports beginning to prevail. Now you are to understand, that [[Time|time]]
 
 had worked a very material change in Mr Elliot’s opinions as to the
 
-value of a baronetcy. Upon all points of blood and connexion he is a
+value of a baronetcy. Upon all points of [[Blood|blood]] and connexion he is a
 
 completely altered man. Having long had as much money as he could
 
@@ -1108,7 +1108,7 @@ friend could not be very agreeable, and you may guess what it produced;
 
 the resolution of coming back to Bath as soon as possible, and of
 
-fixing himself here for a time, with the view of renewing his former
+fixing himself here for a [[Time|time]], with the view of renewing his former
 
 acquaintance, and recovering such a footing in the family as might give
 
@@ -1162,31 +1162,31 @@ the danger to be lessening or not.”
 
 
 
-“Lessening, I understand,” replied Mrs Smith. “He thinks Mrs Clay
+“Lessening, I understand,” replied Mrs [[smith|Smith]]. “He thinks Mrs Clay
 
 afraid of him, aware that he sees through her, and not daring to
 
 proceed as she might do in his absence. But since he must be absent
 
-some time or other, I do not perceive how he can ever be secure while
+some [[Time|time]] or other, I do not perceive how he can ever be secure while
 
 she holds her present influence. Mrs Wallis has an amusing idea, as
 
-nurse tells me, that it is to be put into the marriage articles when
+[[Nurse|nurse]] tells me, that it is to be put into the [[Marriage|marriage]] articles when
 
 you and Mr Elliot marry, that your father is not to marry Mrs Clay. A
 
 scheme, worthy of Mrs Wallis’s understanding, by all accounts; but my
 
-sensible nurse Rooke sees the absurdity of it. ‘Why, to be sure,
+sensible [[Nurse|nurse]] Rooke sees the absurdity of it. ‘Why, to be sure,
 
 ma’am,’ said she, ‘it would not prevent his marrying anybody else.’
 
-And, indeed, to own the truth, I do not think nurse, in her heart, is a
+And, indeed, to own the [[Truth|truth]], I do not think [[Nurse|nurse]], in her heart, is a
 
 very strenuous opposer of Sir Walter’s making a second match. She must
 
-be allowed to be a favourer of matrimony, you know; and (since self
+be allowed to be a favourer of matrimony, you know; and (since [[Self|self]]
 
 will intrude) who can say that she may not have some flying visions of
 
@@ -1208,7 +1208,7 @@ guide him than selfishness.”
 
 
 
-But Mr Elliot was not done with. Mrs Smith had been carried away from
+But Mr Elliot was not done with. Mrs [[smith|Smith]] had been carried away from
 
 her first direction, and Anne had forgotten, in the interest of her own
 
@@ -1218,7 +1218,7 @@ her attention was now called to the explanation of those first hints,
 
 and she listened to a recital which, if it did not perfectly justify
 
-the unqualified bitterness of Mrs Smith, proved him to have been very
+the unqualified bitterness of Mrs [[smith|Smith]], proved him to have been very
 
 unfeeling in his conduct towards her; very deficient both in justice
 
@@ -1228,11 +1228,11 @@ and compassion.
 
 She learned that (the intimacy between them continuing unimpaired by Mr
 
-Elliot’s marriage) they had been as before always together, and Mr
+Elliot’s [[Marriage|marriage]]) they had been as before always together, and Mr
 
 Elliot had led his friend into expenses much beyond his fortune. Mrs
 
-Smith did not want to take blame to herself, and was most tender of
+[[smith|Smith]] did not want to take blame to herself, and was most tender of
 
 throwing any on her husband; but Anne could collect that their income
 
@@ -1240,7 +1240,7 @@ had never been equal to their style of living, and that from the first
 
 there had been a great deal of general and joint extravagance. From his
 
-wife’s account of him she could discern Mr Smith to have been a man of
+wife’s account of him she could discern Mr [[smith|Smith]] to have been a man of
 
 warm feelings, easy temper, careless habits, and not strong
 
@@ -1248,11 +1248,11 @@ understanding, much more amiable than his friend, and very unlike him,
 
 led by him, and probably despised by him. Mr Elliot, raised by his
 
-marriage to great affluence, and disposed to every gratification of
+[[Marriage|marriage]] to great affluence, and disposed to every gratification of
 
-pleasure and vanity which could be commanded without involving himself,
+pleasure and [[Vanity|vanity]] which could be commanded without involving himself,
 
-(for with all his self-indulgence he had become a prudent man), and
+(for with all his [[Self|self]]-indulgence he had become a prudent man), and
 
 beginning to be rich, just as his friend ought to have found himself to
 
@@ -1266,17 +1266,17 @@ accordingly had been ruined.
 
 
 
-The husband had died just in time to be spared the full knowledge of
+The husband had died just in [[Time|time]] to be spared the full knowledge of
 
 it. They had previously known embarrassments enough to try the
 
-friendship of their friends, and to prove that Mr Elliot’s had better
+[[Friendship|friendship]] of their friends, and to prove that Mr Elliot’s had better
 
-not be tried; but it was not till his death that the wretched state of
+not be tried; but it was not till his [[Death|death]] that the wretched state of
 
 his affairs was fully known. With a confidence in Mr Elliot’s regard,
 
-more creditable to his feelings than his judgement, Mr Smith had
+more creditable to his feelings than his judgement, Mr [[smith|Smith]] had
 
 appointed him the executor of his will; but Mr Elliot would not act,
 
@@ -1292,7 +1292,7 @@ without corresponding indignation.
 
 Anne was shewn some letters of his on the occasion, answers to urgent
 
-applications from Mrs Smith, which all breathed the same stern
+applications from Mrs [[smith|Smith]], which all breathed the same stern
 
 resolution of not engaging in a fruitless trouble, and, under a cold
 
@@ -1310,13 +1310,13 @@ distress, which in former conversations had been merely hinted at, were
 
 dwelt on now with a natural indulgence. Anne could perfectly comprehend
 
-the exquisite relief, and was only the more inclined to wonder at the
+the exquisite relief, and was only the more inclined to [[Wonder|wonder]] at the
 
 composure of her friend’s usual state of mind.
 
 
 
-There was one circumstance in the history of her grievances of
+There was one circumstance in the [[history]] of her grievances of
 
 particular irritation. She had good reason to believe that some
 
@@ -1342,7 +1342,7 @@ of the law. This was a cruel aggravation of actually straitened means.
 
 To feel that she ought to be in better circumstances, that a little
 
-trouble in the right place might do it, and to fear that delay might be
+trouble in the right place might do it, and to [[Fear|fear]] that delay might be
 
 even weakening her claims, was hard to bear.
 
@@ -1352,9 +1352,9 @@ It was on this point that she had hoped to engage Anne’s good offices
 
 with Mr Elliot. She had previously, in the anticipation of their
 
-marriage, been very apprehensive of losing her friend by it; but on
+[[Marriage|marriage]], been very apprehensive of losing her friend by it; but on
 
-being assured that he could have made no attempt of that nature, since
+being assured that he could have made no attempt of that [[Nature|nature]], since
 
 he did not even know her to be in Bath, it immediately occurred, that
 
@@ -1366,7 +1366,7 @@ as far as the observances due to Mr Elliot’s character would allow,
 
 when Anne’s refutation of the supposed engagement changed the face of
 
-everything; and while it took from her the new-formed hope of
+everything; and while it took from her the new-formed [[Hope|hope]] of
 
 succeeding in the object of her first anxiety, left her at least the
 
@@ -1376,7 +1376,7 @@ comfort of telling the whole story her own way.
 
 After listening to this full description of Mr Elliot, Anne could not
 
-but express some surprise at Mrs Smith’s having spoken of him so
+but express some surprise at Mrs [[smith|Smith]]’s having spoken of him so
 
 favourably in the beginning of their conversation. “She had seemed to
 
@@ -1384,11 +1384,11 @@ recommend and praise him!”
 
 
 
-“My dear,” was Mrs Smith’s reply, “there was nothing else to be done. I
+“My dear,” was Mrs [[smith|Smith]]’s reply, “there was nothing else to be done. I
 
 considered your marrying him as certain, though he might not yet have
 
-made the offer, and I could no more speak the truth of him, than if he
+made the offer, and I could no more speak the [[Truth|truth]] of him, than if he
 
 had been your husband. My heart bled for you, as I talked of happiness;
 
@@ -1398,7 +1398,7 @@ it was not absolutely hopeless. He was very unkind to his first wife.
 
 They were wretched together. But she was too ignorant and giddy for
 
-respect, and he had never loved her. I was willing to hope that you
+respect, and he had never loved her. I was willing to [[Hope|hope]] that you
 
 must fare better.”
 
@@ -1410,15 +1410,15 @@ been induced to marry him, as made her shudder at the idea of the
 
 misery which must have followed. It was just possible that she might
 
-have been persuaded by Lady Russell! And under such a supposition,
+have been persuaded by [[Lady Russell]]! And under such a supposition,
 
-which would have been most miserable, when time had disclosed all, too
+which would have been most miserable, when [[Time|time]] had disclosed all, too
 
 late?
 
 
 
-It was very desirable that Lady Russell should be no longer deceived;
+It was very desirable that [[Lady Russell]] should be no longer deceived;
 
 and one of the concluding arrangements of this important conference,
 
@@ -1426,4 +1426,4 @@ which carried them through the greater part of the morning, was, that
 
 Anne had full liberty to communicate to her friend everything relative
 
-to Mrs Smith, in which his conduct was involved.
+to Mrs [[smith|Smith]], in which his conduct was involved.

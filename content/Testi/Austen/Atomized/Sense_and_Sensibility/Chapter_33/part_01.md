@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 33 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 33 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -56,7 +56,7 @@ was, to sit down at that end of the counter which seemed to promise the
 
 quickest succession; one gentleman only was standing there, and it is
 
-probable that Elinor was not without hope of exciting his politeness to
+probable that Elinor was not without [[Hope|hope]] of exciting his politeness to
 
 a quicker despatch. But the correctness of his eye, and the delicacy of
 
@@ -88,7 +88,7 @@ the puppyism of his manner in deciding on all the different horrors of
 
 the different toothpick-cases presented to his inspection, by remaining
 
-unconscious of it all; for she was as well able to collect her thoughts
+unconscious of it all; for she was as [[Well|well]] able to collect her thoughts
 
 within herself, and be as ignorant of what was passing around her, in
 
@@ -112,7 +112,7 @@ happy air of real conceit and affected indifference.
 
 
 
-Elinor lost no time in bringing her business forward, was on the point
+Elinor lost no [[Time|time]] in bringing her business forward, was on the point
 
 of concluding it, when another gentleman presented himself at her side.
 
@@ -202,7 +202,7 @@ them at the door.
 
 Mr. Dashwood attended them down stairs, was introduced to Mrs. Jennings
 
-at the door of her carriage, and repeating his hope of being able to
+at the door of her carriage, and repeating his [[Hope|hope]] of being able to
 
 call on them the next day, took leave.
 

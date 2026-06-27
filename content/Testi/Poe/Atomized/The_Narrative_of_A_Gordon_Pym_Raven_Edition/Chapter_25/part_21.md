@@ -24,9 +24,9 @@ tags:
 
       appointment with myself—had forgotten it as soon as it was made.
 
-      At no time was he a very scrupulous man of his word. There was no
+      At no [[Time|time]] was he a very scrupulous man of his word. There was no
 
-      help for it; so smothering my vexation as well as I could, I
+      help for it; so smothering my vexation as [[Well|well]] as I could, I
 
       strolled moodily up the street, propounding futile inquiries
 
@@ -42,7 +42,7 @@ tags:
 
       liberty of introducing me through the formality of a morning
 
-      call. While I stood thus in despair, conversing with a trio of
+      call. While I stood thus in [[Despair|despair]], conversing with a trio of
 
       friends upon the all-absorbing subject of my heart, it so
 
@@ -72,7 +72,7 @@ tags:
 
 
 
-      “Her companion also wears remarkably well,” said the one of my
+      “Her companion also wears remarkably [[Well|well]],” said the one of my
 
       trio who had spoken first.
 
@@ -82,7 +82,7 @@ tags:
 
       but art will do wonders. Upon my word, she looks better than she
 
-      did at Paris five years ago. A beautiful woman still;—don’t you
+      did at [[Paris]] five years ago. A beautiful woman still;—don’t you
 
       think so, Froissart?—Simpson, I mean.”
 
@@ -90,7 +90,7 @@ tags:
 
       “_Still!_” said I, “and why shouldn’t she be? But compared with
 
-      her friend she is as a rush-light to the evening star—a glow-worm
+      her friend she is as a rush-light to the [[Evening Star|evening star]]—a glow-worm
 
       to Antares.”
 
@@ -126,9 +126,9 @@ tags:
 
 
 
-      As for an introduction, I was obliged to abandon all hope of it
+      As for an introduction, I was obliged to abandon all [[Hope|hope]] of it
 
-      until such time as Talbot should think proper to return from the
+      until such [[Time|time]] as Talbot should think proper to return from the
 
       country. In the meantime I perseveringly frequented every
 
@@ -144,15 +144,15 @@ tags:
 
       every day had been thrown into a spasm of wrath by the
 
-      everlasting “Not come home yet” of his footman.
+      everlasting “Not come [[Home|home]] yet” of his footman.
 
 
 
       Upon the evening in question, therefore, I was in a condition
 
-      little short of madness. Madame Lalande, I had been told, was a
+      little short of [[Madness|madness]]. Madame Lalande, I had been told, was a
 
-      Parisian—had lately arrived from Paris—might she not suddenly
+      Parisian—had lately arrived from [[Paris]]—might she not suddenly
 
       return?—return before Talbot came back—and might she not be thus
 
@@ -178,13 +178,13 @@ tags:
 
       which had passed between us. I went so far as to say that I felt
 
-      assured of her love; while I offered this assurance, and my own
+      assured of her [[Love|love]]; while I offered this assurance, and my own
 
       intensity of devotion, as two excuses for my otherwise
 
-      unpardonable conduct. As a third, I spoke of my fear that she
+      unpardonable conduct. As a third, I spoke of my [[Fear|fear]] that she
 
-      might quit the city before I could have the opportunity of a
+      might quit the [[City|city]] before I could have the opportunity of a
 
       formal introduction. I concluded the most wildly enthusiastic
 
@@ -212,11 +212,11 @@ tags:
 
       she had obeyed the frank dictates of her reason—the generous
 
-      impulses of her nature—despising the conventional pruderies of
+      impulses of her [[Nature|nature]]—despising the conventional pruderies of
 
       the world. She had not scorned my proposals. She had not
 
-      sheltered herself in silence. She had not returned my letter
+      sheltered herself in [[Silence|silence]]. She had not returned my letter
 
       unopened. She had even sent me, in reply, one penned by her own
 

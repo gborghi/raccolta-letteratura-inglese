@@ -41,15 +41,15 @@ pressing the subject. I admit that I do press it, and I must beg you to
 forgive me if I do so, very earnestly. The reason is all mine, I do not
 insinuate that it is in any way yours.’
 
-‘Well, sir,’ she returned, repeating a little less haughtily than before
+‘[[Well]], sir,’ she returned, repeating a little less haughtily than before
 her former invitation to him to be seated: to which he now deferred, as
 she seated herself. ‘I am at least glad to know that this is not another
 bondswoman of some friend of yours, who is bereft of free choice, and
 whom I have spirited away. I will hear your reason, if you please.’
 
 ‘First, to identify the person of whom we speak,’ said Clennam, ‘let me
-observe that it is the person you met in London some time back. You will
-remember meeting him near the river--in the Adelphi!’
+observe that it is the person you met in [[London]] some [[Time|time]] back. You will
+remember meeting him near the [[River|river]]--in the Adelphi!’
 
 ‘You mix yourself most unaccountably with my business,’ she replied,
 looking full at him with stern displeasure. ‘How do you know that?’
@@ -86,16 +86,16 @@ heart. When she had uttered this denial, which he believed to be true,
 she asked him what he meant by disappearance? That led to his narrating
 the circumstances in detail, and expressing something of his anxiety
 to discover what had really become of the man, and to repel the dark
-suspicions that clouded about his mother’s house. She heard him with
+suspicions that clouded about his mother’s [[house]]. She heard him with
 evident surprise, and with more marks of suppressed interest than he
 had seen in her; still they did not overcome her distant, proud, and
-self-secluded manner. When he had finished, she said nothing but these
+[[Self|self]]-secluded manner. When he had finished, she said nothing but these
 words:
 
 ‘You have not yet told me, sir, what I have to do with it, or what the
 favour is? Will you be so good as come to that?’
 
-‘I assume,’ said Arthur, persevering, in his endeavour to soften
+‘I assume,’ said [[arthur|Arthur]], persevering, in his endeavour to soften
 her scornful demeanour, ‘that being in communication--may I say,
 confidential communication?--with this person--’
 
@@ -103,12 +103,12 @@ confidential communication?--with this person--’
 subscribe to your assumptions, Mr Clennam, or to any one’s.’
 
 ‘--that being, at least in personal communication with him,’ said
-Clennam, changing the form of his position in the hope of making
+Clennam, changing the form of his position in the [[Hope|hope]] of making
 it unobjectionable, ‘you can tell me something of his antecedents,
 pursuits, habits, usual place of residence. Can give me some little clue
 by which to seek him out in the likeliest manner, and either produce
 him, or establish what has become of him. This is the favour I ask,
-and I ask it in a distress of mind for which I hope you will feel some
+and I ask it in a distress of mind for which I [[Hope|hope]] you will feel some
 consideration. If you should have any reason for imposing conditions
 upon me, I will respect it without asking what it is.’
 
@@ -118,7 +118,7 @@ reflections on the matter than with his appeal. ‘Then you knew the man
 before?’
 
 ‘Not before; afterwards. I never saw him before, but I saw him again on
-this very night of his disappearance. In my mother’s room, in fact. I
+this very [[Night|night]] of his disappearance. In my mother’s room, in fact. I
 left him there. You will read in this paper all that is known of him.’
 
 He handed her one of the printed bills, which she read with a steady and
@@ -126,17 +126,17 @@ attentive face.
 
 ‘This is more than _I_ knew of him,’ she said, giving it back.
 Clennam’s looks expressed his heavy disappointment, perhaps his
-incredulity; for she added in the same unsympathetic tone: ‘You don’t
+[[Incredulity|incredulity]]; for she added in the same unsympathetic tone: ‘You don’t
 believe it. Still, it is so. As to personal communication: it seems that
 there was personal communication between him and your mother. And yet
 you say you believe _her_ declaration that she knows no more of him!’
 
 A sufficiently expressive hint of suspicion was conveyed in these words,
-and in the smile by which they were accompanied, to bring the blood into
+and in the smile by which they were accompanied, to bring the [[Blood|blood]] into
 Clennam’s cheeks.
 
 ‘Come, sir,’ she said, with a cruel pleasure in repeating the stab, ‘I
-will be as open with you as you can desire. I will confess that if I
+will be as open with you as you can [[Desire|desire]]. I will confess that if I
 cared for my credit (which I do not), or had a good name to preserve
 (which I have not, for I am utterly indifferent to its being considered
 good or bad), I should regard myself as heavily compromised by having

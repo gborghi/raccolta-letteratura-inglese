@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 46 (part 1)"
+title: "Bleak [[house|House]] — Chapter 46 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,37 +19,37 @@ CHAPTER XLVI
 Stop Him!
 
 
-Darkness rests upon Tom-All-Alone’s. Dilating and dilating since the
-sun went down last night, it has gradually swelled until it fills
-every void in the place. For a time there were some dungeon lights
-burning, as the lamp of life hums in Tom-all-Alone’s, heavily,
+Darkness rests upon Tom-All-[[Alone]]’s. Dilating and dilating since the
+sun went down last [[Night|night]], it has gradually swelled until it fills
+every void in the place. For a [[Time|time]] there were some dungeon lights
+burning, as the lamp of life hums in Tom-all-[[Alone]]’s, heavily,
 heavily, in the nauseous air, and winking—as that lamp, too, winks
-in Tom-all-Alone’s—at many horrible things. But they are blotted
-out. The moon has eyed Tom with a dull cold stare, as admitting some
-puny emulation of herself in his desert region unfit for life and
+in Tom-all-[[Alone]]’s—at many horrible things. But they are blotted
+out. The [[Moon|moon]] has eyed Tom with a dull cold stare, as admitting some
+puny emulation of herself in his [[Desert|desert]] region unfit for life and
 blasted by volcanic fires; but she has passed on and is gone. The
-blackest nightmare in the infernal stables grazes on Tom-all-Alone’s,
+blackest [[nightmare]] in the infernal stables grazes on Tom-all-[[Alone]]’s,
 and Tom is fast asleep.
 
 Much mighty speech-making there has been, both in and out of
 Parliament, concerning Tom, and much wrathful disputation how Tom
-shall be got right. Whether he shall be put into the main road by
+shall be got right. Whether he shall be put into the main [[Road|road]] by
 constables, or by beadles, or by bell-ringing, or by force of
 figures, or by correct principles of taste, or by high church, or by
 low church, or by no church; whether he shall be set to splitting
 trusses of polemical straws with the crooked knife of his mind or
 whether he shall be put to stone-breaking instead. In the midst of
-which dust and noise there is but one thing perfectly clear, to wit,
+which [[Dust|dust]] and noise there is but one thing perfectly clear, to wit,
 that Tom only may and can, or shall and will, be reclaimed according
 to somebody’s theory but nobody’s practice. And in the hopeful
 meantime, Tom goes to perdition head foremost in his old determined
 spirit.
 
-But he has his revenge. Even the winds are his messengers, and they
+But he has his [[Revenge|revenge]]. Even the winds are his messengers, and they
 serve him in these hours of darkness. There is not a drop of Tom’s
-corrupted blood but propagates infection and contagion somewhere. It
-shall pollute, this very night, the choice stream (in which chemists
-on analysis would find the genuine nobility) of a Norman house, and
+corrupted [[Blood|blood]] but propagates infection and contagion somewhere. It
+shall pollute, this very [[Night|night]], the choice stream (in which chemists
+on analysis would find the genuine nobility) of a Norman [[house]], and
 his Grace shall not be able to say nay to the infamous alliance.
 There is not an atom of Tom’s slime, not a cubic inch of any
 pestilential gas in which he lives, not one obscenity or degradation
@@ -57,20 +57,20 @@ about him, not an ignorance, not a wickedness, not a brutality of his
 committing, but shall work its retribution through every order of
 society up to the proudest of the proud and to the highest of the
 high. Verily, what with tainting, plundering, and spoiling, Tom has
-his revenge.
+his [[Revenge|revenge]].
 
-It is a moot point whether Tom-all-Alone’s be uglier by day or by
-night, but on the argument that the more that is seen of it the more
-shocking it must be, and that no part of it left to the imagination
+It is a moot point whether Tom-all-[[Alone]]’s be uglier by day or by
+[[Night|night]], but on the argument that the more that is seen of it the more
+shocking it must be, and that no part of it left to the [[Imagination|imagination]]
 is at all likely to be made so bad as the reality, day carries it.
-The day begins to break now; and in truth it might be better for the
+The day begins to break now; and in [[Truth|truth]] it might be better for the
 national glory even that the sun should sometimes set upon the
-British dominions than that it should ever rise upon so vile a wonder
+British dominions than that it should ever rise upon so vile a [[Wonder|wonder]]
 as Tom.
 
-A brown sunburnt gentleman, who appears in some inaptitude for sleep
+A brown sunburnt gentleman, who appears in some inaptitude for [[Sleep|sleep]]
 to be wandering abroad rather than counting the hours on a restless
-pillow, strolls hitherward at this quiet time. Attracted by
+pillow, strolls hitherward at this quiet [[Time|time]]. Attracted by
 curiosity, he often pauses and looks about him, up and down the
 miserable by-ways. Nor is he merely curious, for in his bright dark
 eye there is compassionate interest; and as he looks here and there,
@@ -78,7 +78,7 @@ he seems to understand such wretchedness and to have studied it
 before.
 
 On the banks of the stagnant channel of mud which is the main street
-of Tom-all-Alone’s, nothing is to be seen but the crazy houses, shut
+of Tom-all-[[Alone]]’s, nothing is to be seen but the crazy houses, shut
 up and silent. No waking creature save himself appears except in one
 direction, where he sees the solitary figure of a woman sitting on a
 door-step. He walks that way. Approaching, he observes that she has
@@ -89,7 +89,7 @@ bag, or bundle, she has carried. She is dozing probably, for she
 gives no heed to his steps as he comes toward her.
 
 The broken footway is so narrow that when Allan Woodcourt comes to
-where the woman sits, he has to turn into the road to pass her.
+where the woman sits, he has to turn into the [[Road|road]] to pass her.
 Looking down at her face, his eye meets hers, and he stops.
 
 “What is the matter?”
@@ -98,7 +98,7 @@ Looking down at her face, his eye meets hers, and he stops.
 
 “Can’t you make them hear? Do you want to be let in?”
 
-“I’m waiting till they get up at another house—a lodging-house—not
+“I’m waiting till they get up at another [[house]]—a lodging-[[house]]—not
 here,” the woman patiently returns. “I’m waiting here because there
 will be sun here presently to warm me.”
 

@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 7 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -22,7 +22,7 @@ CHAPTER VII.
 
 _July 10._ Spoke a brig from Rio, bound to Norfolk. Weather hazy, with
 
-a light baffling wind from the eastward. To-day Hartman Rogers died,
+a light baffling [[Wind|wind]] from the eastward. To-day Hartman Rogers died,
 
 having been attacked on the eighth with spasms after drinking a glass
 
@@ -34,23 +34,23 @@ had poisoned him, and that he expected, if he did not be on the
 
 look-out, his own turn would come shortly. There were now only himself,
 
-Jones, and the cook belonging to his own gang--on the other side there
+[[Jones]], and the cook belonging to his own gang--on the other side there
 
-were five. He had spoken to Jones about taking the command from the
+were five. He had spoken to [[Jones]] about taking the command from the
 
 mate; but the project having been coolly received, he had been deterred
 
 from pressing the matter any further, or from saying anything to the
 
-cook. It was well, as it happened, that he was so prudent, for in the
+cook. It was [[Well|well]], as it happened, that he was so prudent, for in the
 
 afternoon the cook expressed his determination of siding with the mate,
 
-and went over formally to that party; while Jones took an opportunity
+and went over formally to that party; while [[Jones]] took an opportunity
 
 of quarrelling with Peters, and hinted that he would let the mate know
 
-of the plan in agitation. There was now, evidently, no time to be lost,
+of the plan in agitation. There was now, evidently, no [[Time|time]] to be lost,
 
 and Peters expressed his determination of attempting to take the vessel
 
@@ -62,7 +62,7 @@ purpose, and, thinking the opportunity a favourable one, made known the
 
 fact of my being on board. At this the hybrid was not more astonished
 
-than delighted, as he had no reliance whatever upon Jones, whom he
+than delighted, as he had no reliance whatever upon [[Jones]], whom he
 
 already considered as belonging to the party of the mate. They went
 
@@ -70,9 +70,9 @@ below immediately, when Augustus called to me by name, and Peters and
 
 myself were soon made acquainted. It was agreed that we should attempt
 
-to retake the vessel upon the first good opportunity, leaving Jones
+to retake the vessel upon the first good opportunity, leaving [[Jones]]
 
-altogether out of our councils. In the event of success we were to run
+altogether out of our councils. In the event of [[success]] we were to run
 
 the brig into the first port that offered, and deliver her up. The
 
@@ -100,17 +100,17 @@ properly taken in, a violent squall laid the brig on her beam-ends. By
 
 keeping her away, however, she righted, having shipped a good deal of
 
-water. Scarcely was everything secure, when another squall took the
+[[Water|water]]. Scarcely was everything secure, when another squall took the
 
 vessel, and immediately afterward another--no damage being done. There
 
-was every appearance of a gale of wind, which, indeed, shortly came on,
+was every appearance of a gale of [[Wind|wind]], which, indeed, shortly came on,
 
 with great fury, from the northward and westward. All was made as snug
 
 as possible, and we laid to, as usual, under a close-reefed foresail.
 
-As night drew on, the wind increased in violence, with a remarkably
+As [[Night|night]] drew on, the [[Wind|wind]] increased in violence, with a remarkably
 
 heavy sea. Peters now came into the forecastle with Augustus, and we
 
@@ -142,7 +142,7 @@ always wore in the waistband of his pantaloons. From certain
 
 indications, too, such, for example, as there being no such thing as an
 
-axe or a handspike lying in their customary places, we began to fear
+axe or a handspike lying in their customary places, we began to [[Fear|fear]]
 
 that the mate had his suspicions, at least in regard to Peters, and
 
@@ -182,11 +182,11 @@ was upon the alert--it not being usual, except in vessels where
 
 discipline is most rigidly enforced, to station a watch on deck when a
 
-vessel is lying to in a gale of wind. As I address myself principally,
+vessel is lying to in a gale of [[Wind|wind]]. As I address myself principally,
 
 if not altogether, to persons who have never been to sea, it may be as
 
-well to state the exact condition of a vessel under such circumstances.
+[[Well|well]] to state the exact condition of a vessel under such circumstances.
 
 Lying to, or, in sea-parlance "laying to," is a measure resorted to for
 

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 50 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 50 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,13 +20,13 @@ tags:
 
 
 
-On reading this I had no reason to disguise my joy and hope from
+On reading this I had no reason to disguise my joy and [[Hope|hope]] from
 
 Frederick Lawrence, for I had none to be ashamed of. I felt no joy but
 
 that his sister was at length released from her afflictive,
 
-overwhelming toil—no hope but that she would in time recover from the
+overwhelming toil—no [[Hope|hope]] but that she would in [[Time|time]] recover from the
 
 effects of it, and be suffered to rest in peace and quietness, at
 
@@ -34,7 +34,7 @@ least, for the remainder of her life. I experienced a painful
 
 commiseration for her unhappy husband (though fully aware that he had
 
-brought every particle of his sufferings upon himself, and but too well
+brought every particle of his sufferings upon himself, and but too [[Well|well]]
 
 deserved them all), and a profound sympathy for her own afflictions,
 
@@ -82,15 +82,15 @@ his mind.
 
 
 
-Had I forgotten my own prospects, my ardent love, my pertinacious
+Had I forgotten my own prospects, my ardent [[Love|love]], my pertinacious
 
 hopes? It seemed like sacrilege to revert to them now, but I had not
 
 forgotten them. It was, however, with a gloomy sense of the darkness of
 
-those prospects, the fallacy of those hopes, and the vanity of that
+those prospects, the fallacy of those hopes, and the [[Vanity|vanity]] of that
 
-affection, that I reflected on those things as I remounted my horse and
+affection, that I reflected on those things as I remounted my [[Horse|horse]] and
 
 slowly journeyed homewards. Mrs. Huntingdon was free now; it was no
 
@@ -102,7 +102,7 @@ was over? In all the course of her correspondence with her brother (our
 
 mutual friend, as she herself had called him) she had never mentioned
 
-me but once—and that was from necessity. This alone afforded strong
+me but once—and that was from necessity. This [[Alone|alone]] afforded strong
 
 presumption that I was already forgotten; yet this was not the worst:
 
@@ -112,11 +112,11 @@ might be only _trying_ to forget; but in addition to this, I had a
 
 gloomy conviction that the awful realities she had seen and felt, her
 
-reconciliation with the man she had once loved, his dreadful sufferings
+[[Reconciliation|reconciliation]] with the man she had once loved, his dreadful sufferings
 
-and death, must eventually efface from her mind all traces of her
+and [[Death|death]], must eventually efface from her mind all traces of her
 
-passing love for me. She might recover from these horrors so far as to
+passing [[Love|love]] for me. She might recover from these horrors so far as to
 
 be restored to her former health, her tranquillity, her cheerfulness
 
@@ -142,7 +142,7 @@ there was a wide distinction between the rank and circumstances of Mrs.
 
 Huntingdon, the lady of Grassdale Manor, and those of Mrs. Graham, the
 
-artist, the tenant of Wildfell Hall. And it might be deemed presumption
+[[artist]], [[The Tenant of Wildfell Hall|the tenant of Wildfell Hall]]. And it might be deemed presumption
 
 in me to offer my hand to the former, by the world, by her friends, if
 
@@ -154,7 +154,7 @@ with his usual selfishness, might have so constructed his will as to
 
 place restrictions upon her marrying again. So that you see I had
 
-reasons enough for despair if I chose to indulge it.
+reasons enough for [[Despair|despair]] if I chose to indulge it.
 
 
 
@@ -170,7 +170,7 @@ comfort and help his sister, but he might have written to tell me how
 
 she was, or at least to tell me when to expect his return; for he might
 
-have known I was suffering tortures of anxiety for her, and uncertainty
+have known I was [[Suffering|suffering]] tortures of anxiety for her, and uncertainty
 
 for my own future prospects. And when he did return, all he told me
 
@@ -180,7 +180,7 @@ unremitting exertions in behalf of that man who had been the scourge of
 
 her life, and had dragged her with him nearly to the portals of the
 
-grave, and was still much shaken and depressed by his melancholy end
+[[Grave|grave]], and was still much shaken and depressed by his [[Melancholy|melancholy]] end
 
 and the circumstances attendant upon it; but no word in reference to
 
@@ -190,25 +190,25 @@ spoken in her presence. To be sure, I asked no questions on the
 
 subject; I could not bring my mind to do so, believing, as I did, that
 
-Lawrence was indeed averse to the idea of my union with his sister.
+Lawrence was indeed averse to the idea of my [[Union|union]] with his sister.
 
 
 
 I saw that he expected to be further questioned concerning his visit,
 
-and I saw too, with the keen perception of awakened jealousy, or
+and I saw too, with the keen perception of awakened [[Jealousy|jealousy]], or
 
-alarmed self-esteem, or by whatever name I ought to call it, that he
+alarmed [[Self|self]]-esteem, or by whatever name I ought to call it, that he
 
 rather shrank from that impending scrutiny, and was no less pleased
 
 than surprised to find it did not come. Of course, I was burning with
 
-anger, but pride obliged me to suppress my feelings, and preserve a
+anger, but [[Pride|pride]] obliged me to suppress my feelings, and preserve a
 
 smooth face, or at least a stoic calmness, throughout the interview. It
 
-was well it did, for, reviewing the matter in my sober judgment, I must
+was [[Well|well]] it did, for, reviewing the matter in my sober judgment, I must
 
 say it would have been highly absurd and improper to have quarrelled
 

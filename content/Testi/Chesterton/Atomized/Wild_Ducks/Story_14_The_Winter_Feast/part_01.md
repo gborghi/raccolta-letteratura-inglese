@@ -1,5 +1,5 @@
 ---
-title: "Wild Ducks — The Winter Feast (part 1)"
+title: "Wild Ducks — The [[Winter]] Feast (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Wild-Ducks-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The Winter Feast
+The [[Winter]] Feast
 
 
 These modern men, who are less anxious to be men than to be moderns,
@@ -30,30 +30,30 @@ At the beginning, such alteration must be accepted as an improvement.
 By the end, each improvement is used to show that the thing should
 be not so much altered as abolished.
 
-Thus the seed of Democracy, the assembly of the village or the tribe,
+Thus the seed of [[democracy|Democracy]], the assembly of the village or the tribe,
 is as old as the world, and may perhaps go back to the similar assemblies
 of rooks or wolves.  It still exists in many peasant communities,
-especially in the mountains, and when it is reasonably civilised,
+especially in the [[Mountains|mountains]], and when it is reasonably civilised,
 that is humanised, and above all when it is Christian, it is still
-about as just and decent and dignified a government as any,
+about as just and decent and dignified a [[government]] as any,
 in a world whose governments are hardly its happiest products.
 Now we men of the modern and Western world took this ancient thing,
-and proceeded to improve it.  We improved democracy by demagogy, that is
+and proceeded to improve it.  We improved [[democracy]] by demagogy, that is
 by professional politicians; we improved election by electioneering,
 that is by organised lying; we improved announcement by advertisement;
 that is, we substituted for the horn blown to assemble men round
 the village tree the megaphone through which a statesman could speak
 like a salesman; facilitating every exchange in which the voters
-could sell their votes or the statesmen could sell his soul.
+could sell their votes or the statesmen could sell his [[Soul|soul]].
 We have been positively proud of it as a technical dexterity; that we
 could turn an act of representation into an art of misrepresentation.
 And then, when the whole idea has been improved out of recognition
 in this cynical fashion, we generally find that the cynics have
 become sceptics; and sceptics about the democratic idea itself.
 These men, with their wonderful progressive improvements,
-have themselves turned popular government into unpopular government.
+have themselves turned popular [[government]] into unpopular [[government]].
 But since they also have probably become rather unpopular, they will
-now often turn round with a fine fastidious aristocratic pride,
+now often turn round with a fine fastidious aristocratic [[Pride|pride]],
 and express their contempt for popular opinion.
 
 The same sort of ironic injustice is applied to any old popular
@@ -68,7 +68,7 @@ is when it is defined, or what it was before it was spoiled.
 And it is not surprising that the same modern gentlemen,
 who have performed this peculiar feat of first pelting a thing
 with mud and then complaining that it is muddy, have also made
-a similar muddle about the actual history of the thing which they
+a similar muddle about the actual [[history]] of the thing which they
 bury with insults, because they have killed it with improvements.
 
 Thus, the first thing that such people will probably tell
@@ -78,12 +78,12 @@ What they do not seem to see is that, in so far as this
 is in any sense true, it only proves that the ancient
 Pagans were much more sensible than the modern Pagans.
 There are many psychological truths about such a human habit,
-which are hidden from those who talk day and night
+which are hidden from those who talk day and [[Night|night]]
 about psychology; but who do not really care about any psychology
 except what they call the psychology of salesmanship.
 The old Pagans knew that such a ritual must be old, that it
 must be religious, that it must be concerned fundamentally
-with simple elements like wood or water or fire, but that it
+with simple elements like wood or [[Water|water]] or [[Fire|fire]], but that it
 must also be, in a queer way of its own, revolutionary:
 exalting the humble or putting down the mighty from their seat.
 That was expressed in a hundred ways, both among heathens
@@ -91,16 +91,16 @@ and Christians.  The Saturnalia was made for a society
 of slaves; but it gave one wild holiday to those slaves.
 The medieval Christmas had to exist in a feudal society;
 but all its carols and legends told again and again a story
-in which angels spoke to shepherds and a devil inspired a king.
+in which angels spoke to shepherds and a devil inspired a [[King|king]].
 An ancient revolt is enshrined in an ancient ritual.
-Now the reason why Christianity found it quite easy to absorb these
+Now the reason why [[Christianity]] found it quite easy to absorb these
 Pagan customs is that they were in this way almost Christian customs.
 The man who does not see that the Saturnalia was almost
 Christian is a man who has never read the Magnificat.
 
-It is thoroughly bad history to suppose that it was the Paganism
-that absorbed the Christianity; when there are a thousand things
-to show that it was the Christianity that absorbed the Paganism.
+It is thoroughly bad [[history]] to suppose that it was the Paganism
+that absorbed the [[Christianity]]; when there are a thousand things
+to show that it was the [[Christianity]] that absorbed the Paganism.
 For instance, anything that the Early Church really regarded
 as horrible among the heathens did completely disappear.
 The butchery of human beings in amphitheatres, which had been
@@ -108,13 +108,13 @@ the huge uproarious popular sport of all the vast populace
 of antiquity, completely disappeared.  Doubtless, it disappeared
 partly because Christian martyrs had suffered there;
 partly because St Telemachus, the heroic hermit, had hurled himself
-into the arena to cry aloud to God and the human conscience,
-against human blood being poured out in festivity like wine.
+into the arena to cry aloud to God and the human [[Conscience|conscience]],
+against human [[Blood|blood]] being poured out in festivity like wine.
 But anyhow, and for whatever reason, it did disappear.
-If various old Pagan popular customs, like the Winter Feast,
+If various old Pagan popular customs, like the [[Winter]] Feast,
 did not disappear, it was quite certainly because they did
-not so insult the innocence and indignation of Christianity
-in its youth.  When Constantine had made Christianity
+not so insult the [[innocence]] and indignation of [[Christianity]]
+in its youth.  When Constantine had made [[Christianity]]
 the religion of the Roman Empire, that religion could have
 suppressed any heathen thing it really wanted to suppress.
 The interesting point to note is how very few heathen things
@@ -129,17 +129,17 @@ generations of the saints might surely be excused for drawing
 the line at Sappho if she did really preach Sapphism.
 But in fact, there is hardly a rag of historical evidence
 either that she did preach it or that they did suppress her.
-To anybody with a general view of history, the really remarkable
+To anybody with a general view of [[history]], the really remarkable
 and interesting thing is the toleration of the last Pagans by
 the first Christians.  The Church certainly never swept away all
 record of the ancient gods as Mahomet swept away the ancient idols.
 It never merely burned books as the Iconoclasts destroyed statues.
-The attitude of Augustine towards Plato, as of Aquinas
+The attitude of Augustine towards Plato, as of [[aquinas|Aquinas]]
 towards Aristotle, is really much more respectful and understanding
-than the attitude of Hobbes or Hume towards Aquinas.
+than the attitude of Hobbes or Hume towards [[aquinas|Aquinas]].
 In short, Christians have always committed countless crimes;
 but these Christians did not commit this one crime.
-They were not unhistorical.  Christianity failed in practice
+They were not unhistorical.  [[Christianity]] failed in practice
 in many ways; but this was one thing it did not fail to do;
 to preserve continuity.  The Christians were often criminals;
 but they were not Vandals.  Platonists like St Augustine,

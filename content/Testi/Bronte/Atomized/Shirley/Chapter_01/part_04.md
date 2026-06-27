@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 1 (part 4)"
+title: "[[Shirley]] — Chapter 1 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ features, and sagacity had carved her own lines about them.
 
 "I met Supplehough," he continued, "plodding through the mud this wet
 
-night, going to preach at Milldean opposition shop. As I told you, I
+[[Night|night]], going to preach at Milldean opposition shop. As I told you, I
 
 heard Barraclough bellowing in the midst of a conventicle like a
 
@@ -32,15 +32,15 @@ possessed bull; and I find _you_, gentlemen, tarrying over your
 
 half-pint of muddy port wine, and scolding like angry old women. No
 
-wonder Supplehough should have dipped sixteen adult converts in a
+[[Wonder|wonder]] Supplehough should have dipped sixteen adult converts in a
 
-day--which he did a fortnight since; no wonder Barraclough, scamp and
+day--which he did a fortnight since; no [[Wonder|wonder]] Barraclough, scamp and
 
-hypocrite as he is, should attract all the weaver-girls in their flowers
+hypocrite as he is, should attract all the weaver-girls in their [[Flowers|flowers]]
 
 and ribbons, to witness how much harder are his knuckles than the wooden
 
-brim of his tub; as little wonder that _you_, when you are left to
+brim of his tub; as little [[Wonder|wonder]] that _you_, when you are left to
 
 yourselves, without your rectors--myself, and Hall, and Boultby--to back
 
@@ -56,7 +56,7 @@ Malone.--I have an errand unto thee, O captain!"
 
 "What is it?" inquired Malone discontentedly. "There can be no funeral
 
-to take at this time of day."
+to take at this [[Time|time]] of day."
 
 
 
@@ -74,7 +74,7 @@ to take at this time of day."
 
 "I have the pistols you gave me yourself. I never part with them. I lay
 
-them ready cocked on a chair by my bedside at night. I have my
+them ready cocked on a chair by my bedside at [[Night|night]]. I have my
 
 blackthorn."
 
@@ -88,19 +88,19 @@ blackthorn."
 
 
 
-"Nothing as yet, nor perhaps will be; but Moore is alone there. He has
+"Nothing as yet, nor perhaps will be; but Moore is [[Alone|alone]] there. He has
 
 sent all the workmen he can trust to Stilbro'; there are only two women
 
 left about the place. It would be a nice opportunity for any of his
 
-well-wishers to pay him a visit, if they knew how straight the path was
+[[Well|well]]-wishers to pay him a visit, if they knew how straight the path was
 
 made before them."
 
 
 
-"I am none of his well-wishers, sir. I don't care for him."
+"I am none of his [[Well|well]]-wishers, sir. I don't care for him."
 
 
 
@@ -120,7 +120,7 @@ would not stir a step."
 
 "But there _is_ a chance of a row; if a positive riot does not take
 
-place--of which, indeed, I see no signs--yet it is unlikely this night
+place--of which, indeed, I see no signs--yet it is unlikely this [[Night|night]]
 
 will pass quite tranquilly. You know Moore has resolved to have new
 
@@ -140,7 +140,7 @@ gone to fetch them."
 
 have, if it were only to bear evidence in case anything should happen. I
 
-call him very careless. He sits in the counting-house with the shutters
+call him very careless. He sits in the counting-[[house]] with the shutters
 
 unclosed; he goes out here and there after dark, wanders right up the
 
@@ -152,7 +152,7 @@ detestation--bore a 'charmed life,' as they say in tale-books. He takes
 
 no warning from the fate of Pearson, nor from that of Armitage--shot,
 
-one in his own house and the other on the moor."
+one in his own [[house]] and the other on the moor."
 
 
 
@@ -188,7 +188,7 @@ in outer darkness."
 
 
 
-"Well, that has nothing to do with Moore."
+"[[Well]], that has nothing to do with Moore."
 
 
 
@@ -200,9 +200,9 @@ sir."
 
 "I know. When he is very drunk, his mind is always running on regicide.
 
-Mike is not unacquainted with history, and it is rich to hear him going
+Mike is not unacquainted with [[history]], and it is rich to hear him going
 
-over the list of tyrants of whom, as he says, 'the revenger of blood has
+over the list of tyrants of whom, as he says, 'the revenger of [[Blood|blood]] has
 
 obtained satisfaction.' The fellow exults strangely in murder done on
 
@@ -242,7 +242,7 @@ perhaps a little of both."
 
 "Ay! He is a very Ezekiel or Daniel for visions. He came just when I was
 
-going to bed last Friday night to describe one that had been revealed to
+going to bed last Friday [[Night|night]] to describe one that had been revealed to
 
 him in Nunnely Park that very afternoon."
 
@@ -252,7 +252,7 @@ him in Nunnely Park that very afternoon."
 
 
 
-"Davy, thou hast an enormous organ of wonder in thy cranium. Malone, you
+"Davy, thou hast an enormous organ of [[Wonder|wonder]] in thy cranium. Malone, you
 
 see, has none. Neither murders nor visions interest him. See what a big
 

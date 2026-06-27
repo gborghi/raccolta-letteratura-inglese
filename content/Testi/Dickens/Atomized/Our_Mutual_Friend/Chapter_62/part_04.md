@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mr Venus, reminded of the duties of hospitality, produced some rum.
+[[Mr Venus]], reminded of the duties of hospitality, produced some rum.
 In answer to the inquiry, ‘Will you mix it, Mr Wegg?’ that gentleman
 pleasantly rejoined, ‘I think not, sir. On so auspicious an occasion, I
 prefer to take it in the form of a Gum-Tickler.’
@@ -37,7 +37,7 @@ inspection.’
 
 ‘Don’t you?’ sneered Wegg. ‘Where’s your wits, Boffin? Till the Mounds
 is down and this business completed, you’re accountable for all the
-property, recollect. Consider yourself accountable to me. Mr Venus here
+property, recollect. Consider yourself accountable to me. [[Mr Venus]] here
 being too milk and watery with you, I am the boy for you.’
 
 ‘I’ve been a-thinking,’ said Mr Boffin, in a tone of despondency, ‘that
@@ -72,7 +72,7 @@ Mr Boffin seemed a little less patient at this point than at any other
 of the negotiations. But he commanded himself, and said tamely enough:
 ‘I think it must be kept from my old lady, Wegg.’
 
-‘Well,’ said Wegg, contemptuously, though, perhaps, perceiving some hint
+‘[[Well]],’ said Wegg, contemptuously, though, perhaps, perceiving some hint
 of danger otherwise, ‘keep it from your old lady. I ain’t going to tell
 her. I can have you under close inspection without that. I’m as good a
 man as you, and better. Ask me to dinner. Give me the run of your ’ouse.
@@ -80,9 +80,9 @@ I was good enough for you and your old lady once, when I helped you out
 with your weal and hammers. Was there no Miss Elizabeth, Master George,
 Aunt Jane, and Uncle Parker, before YOU two?’
 
-‘Gently, Mr Wegg, gently,’ Venus urged.
+‘Gently, Mr Wegg, gently,’ [[Venus]] urged.
 
-‘Milk and water-erily you mean, sir,’ he returned, with some little
+‘Milk and [[Water|water]]-erily you mean, sir,’ he returned, with some little
 thickness of speech, in consequence of the Gum-Ticklers having tickled
 it. ‘I’ve got him under inspection, and I’ll inspect him.
 
@@ -90,14 +90,14 @@ it. ‘I’ve got him under inspection, and I’ll inspect him.
      England expects as this present man
      Will keep Boffin to his duty.”
 
-—Boffin, I’ll see you home.’
+—Boffin, I’ll see you [[Home|home]].’
 
-Mr Boffin descended with an air of resignation, and gave himself up,
-after taking friendly leave of Mr Venus. Once more, Inspector and
+Mr Boffin descended with an air of [[Resignation|resignation]], and gave himself up,
+after taking friendly leave of [[Mr Venus]]. Once more, Inspector and
 Inspected went through the streets together, and so arrived at Mr
 Boffin’s door.
 
-But even there, when Mr Boffin had given his keeper good-night, and had
+But even there, when Mr Boffin had given his keeper good-[[Night|night]], and had
 let himself in with his key, and had softly closed the door, even there
 and then, the all-powerful Silas must needs claim another assertion of
 his newly-asserted power.
@@ -117,6 +117,6 @@ The door was hardly closed, when he again called through the keyhole:
 
 ‘Yes, Wegg.’
 
-This time Silas made no reply, but laboured with a will at turning an
+This [[Time|time]] Silas made no reply, but laboured with a will at turning an
 imaginary grindstone outside the keyhole, while Mr Boffin stooped at it
-within; he then laughed silently, and stumped home.
+within; he then laughed silently, and stumped [[Home|home]].

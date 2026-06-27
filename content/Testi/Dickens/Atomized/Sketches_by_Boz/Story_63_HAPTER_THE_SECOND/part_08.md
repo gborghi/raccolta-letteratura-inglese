@@ -22,11 +22,11 @@ Mr. Watkins Tottle could not help thinking that this last remark was
 anything but complimentary. He therefore inquired, rather hastily,
 ‘When is it to be?’
 
-‘On Thursday,’ replied Timson,—‘on Thursday morning at half-past
+‘On [[thursday|Thursday]],’ replied Timson,—‘on [[thursday|Thursday]] morning at half-past
 eight.’
 
 ‘Uncommonly early,’ observed Watkins Tottle, with an air of triumphant
-self-denial. ‘I shall hardly be able to get down here by that hour.’
+[[Self|self]]-denial. ‘I shall hardly be able to get down here by that hour.’
 (This was intended for a joke.)
 
 ‘Never mind, my dear fellow,’ replied Timson, all suavity, shaking
@@ -59,7 +59,7 @@ goodness to tell me in three words the contents of that note?’
 ‘This note,’ replied Timson, ‘is from Miss Lillerton, to whom I have
 been for the last five weeks regularly engaged. Her singular scruples
 and strange feeling on some points have hitherto prevented my bringing
-the engagement to that termination which I so anxiously desire. She
+the engagement to that termination which I so anxiously [[Desire|desire]]. She
 informs me here, that she sounded Mrs. Parsons with the view of making
 her her confidante and go-between, that Mrs. Parsons informed this
 elderly gentleman, Mr. Tottle, of the circumstance, and that he, in the
@@ -68,7 +68,7 @@ undertook to convey this note, which contains the promise I have long
 sought in vain—an act of kindness for which I can never be sufficiently
 grateful.’
 
-‘Good night, Timson,’ said Parsons, hurrying off, and carrying the
+‘Good [[Night|night]], Timson,’ said Parsons, hurrying off, and carrying the
 bewildered Tottle with him.
 
 ‘Won’t you stay—and have something?’ said Timson.
@@ -88,9 +88,9 @@ Gabriel.
 
 ‘I don’t know anything about it,’ replied the bewildered Tottle.
 
-‘Well,’ said Parsons, turning on his heel to go home, ‘the next time
+‘[[Well]],’ said Parsons, turning on his heel to go [[Home|home]], ‘the next [[Time|time]]
 you make an offer, you had better speak plainly, and don’t throw a
-chance away. And the next time you’re locked up in a spunging-house,
+chance away. And the next [[Time|time]] you’re locked up in a spunging-[[house]],
 just wait there till I come and take you out, there’s a good fellow.’
 
 How, or at what hour, Mr. Watkins Tottle returned to Cecil-street is
@@ -100,19 +100,19 @@ emerged therefrom nor accepted sustenance for four-and-twenty hours. At
 the expiration of that period, and when a council of war was being held
 in the kitchen on the propriety of summoning the parochial beadle to
 break his door open, he rang his bell, and demanded a cup of
-milk-and-water. The next morning he went through the formalities of
+milk-and-[[Water|water]]. The next morning he went through the formalities of
 eating and drinking as usual, but a week afterwards he was seized with
 a relapse, while perusing the list of marriages in a morning paper,
 from which he never perfectly recovered.
 
-A few weeks after the last-named occurrence, the body of a gentleman
+A few weeks after the last-named occurrence, the [[Body|body]] of a gentleman
 unknown, was found in the Regent’s canal. In the trousers-pockets were
 four shillings and threepence halfpenny; a matrimonial advertisement
-from a lady, which appeared to have been cut out of a Sunday paper: a
+from a lady, which appeared to have been cut out of a [[Sunday]] paper: a
 tooth-pick, and a card-case, which it is confidently believed would
 have led to the identification of the unfortunate gentleman, but for
 the circumstance of there being none but blank cards in it. Mr. Watkins
 Tottle absented himself from his lodgings shortly before. A bill, which
 has not been taken up, was presented next morning; and a bill, which
 has not been taken down, was soon afterwards affixed in his
-parlour-window.
+parlour-[[Window|window]].

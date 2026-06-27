@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 21)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 21)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -22,7 +22,7 @@ treaty with the Red Indians, his creed of humanity did have a triumph
 
 and a triumph that has not turned back. The praise given to him is not a
 
-priggish fiction of our conventional history, though such fictions have
+priggish fiction of our conventional [[history]], though such fictions have
 
 illogically curtailed it. The Nonconformists have been rather unfair to
 
@@ -34,11 +34,11 @@ Those who deify him for consenting to bargain with the savages cannot
 
 forgive him for consenting to bargain with the Stuarts. And the same is
 
-true of the other city, yet more closely connected with the tolerant
+true of the other [[City|city]], yet more closely connected with the tolerant
 
 experiment of the Stuarts. The state of Maryland was the first
 
-experiment in religious freedom in human history. Lord Baltimore and his
+experiment in religious [[Freedom|freedom]] in human [[history]]. Lord Baltimore and his
 
 Catholics were a long march ahead of William Penn and his Quakers on
 
@@ -58,15 +58,15 @@ accidental; it will always remain with me with a mixture of gratitude
 
 and grief, for they brought a message of welcome from a great American
 
-whose name I had known from childhood and whose career was drawing to
+whose name I had known from [[Childhood|childhood]] and whose career was drawing to
 
-its close; for it was but a few days after I left the city that I
+its close; for it was but a few days after I left the [[City|city]] that I
 
 learned that Cardinal Gibbons was dead.
 
 
 
-On the top of a hill on one side of the town stood the first monument
+On the top of a [[Hill|hill]] on one side of the town stood the first monument
 
 raised after the Revolution to Washington. Beyond it was a new monument
 
@@ -100,7 +100,7 @@ never finish--
 
      If I ever go back to Baltimore
 
-     The city of Maryland.
+     The [[City|city]] of Maryland.
 
 
 
@@ -128,11 +128,11 @@ already a Prince of the Church was dying. Only on a later page can I
 
 even attempt to comb out such a tangle of contrasts, which is indeed the
 
-tangle of America and this mortal life; but sitting there on that stone
+tangle of [[America]] and this mortal life; but sitting there on that stone
 
 seat under that quiet sky, I had some experience of the thronging
 
-thousands of living thoughts and things, noisy and numberless as birds,
+thousands of living thoughts and things, noisy and numberless as [[Birds|birds]],
 
 that give its everlasting vivacity and vitality to a dead town.
 
@@ -160,11 +160,11 @@ side the places are more prosaic than the names and on the other the
 
 names are more prosaic than the places. St. Louis is a fine town, and we
 
-recognise a fine instinct of the imagination that set on the hill
+recognise a fine instinct of the [[Imagination|imagination]] that set on the [[Hill|hill]]
 
-overlooking the river the statue of that holy horseman who has
+overlooking the [[River|river]] the statue of that holy horseman who has
 
-christened the city. But the city is not as beautiful as its name; it
+christened the [[City|city]]. But the [[City|city]] is not as beautiful as its name; it
 
 could not be. Indeed these titles set up a standard to which the most
 
@@ -174,7 +174,7 @@ commercial chimneys and sky-signs conspicuously sink. We should think it
 
 odd if Belfast had borne the name of Joan of Arc. We should be slightly
 
-shocked if the town of Johannesburg happened to be called Jesus Christ.
+shocked if the town of Johannesburg happened to be called Jesus [[Christ]].
 
 But few have noted a blasphemy, or even a somewhat challenging
 
@@ -186,9 +186,9 @@ But on the other hand a place like Boston is much more beautiful than
 
 its name. And, as I have suggested, an Englishman's general information,
 
-or lack of information, leaves him in some ignorance of the type of
+or lack of information, [[Leaves|leaves]] him in some ignorance of the type of
 
-beauty that turns up in that type of place. He has heard so much about
+[[Beauty|beauty]] that turns up in that type of place. He has heard so much about
 
 the purely commercial North as against the agricultural and
 

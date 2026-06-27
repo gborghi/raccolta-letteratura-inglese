@@ -18,28 +18,28 @@ I CONFESS that to me the celebration of the Centenary of William Morris
 seems to have been both inadequate and inappropriate.  The world
 seems to be divided in this respect into two very unequal sections.
 The first are those who owe everything to Morris and have forgotten him.
-The second are those who owe nothing to Morris but still desire to
+The second are those who owe nothing to Morris but still [[Desire|desire]] to
 claim him.  They claim him mostly on the excuse of the word "Socialist";
 a word which was not really very applicable to him, and is now pretty
-well applicable or inapplicable to anybody.  Morris certainly
+[[Well|well]] applicable or inapplicable to anybody.  Morris certainly
 called himself a Socialist; but that hardly seems sufficient reason
 for people of a totally opposite type calling him a Communist;
 in the face of the quite different and quite definite modern meaning
 of Communism.  Mr. Middleton Murry makes what I cannot but think
-a delicate insinuation that the conversion of a literary man like
-himself to Communism is more or less comparable to the conversion
+a delicate insinuation that the [[Conversion|conversion]] of a literary man like
+himself to Communism is more or less comparable to the [[Conversion|conversion]]
 of the older literary man to Socialism.  But it is precisely
-by the test of literature, that is the test of imagination, that it
+by the test of literature, that is the test of [[Imagination|imagination]], that it
 is quite impossible to get the two things into the same picture.
-It would be difficult to maintain that Milton was a belated
+It would be difficult to maintain that [[Milton]] was a belated
 mediaeval ballad-monger, caring only for the rude old rhymed ballads
 and loathing the influence of classical dignity and a stately style.
 It would be difficult to maintain that Coleridge was a cold and mechanical
 imitator of Pope, concentrated on wit and reason and utterly hostile
-to vision and imagination.  It would be hard to represent Walt Whitman
+to vision and [[Imagination|imagination]].  It would be hard to represent Walt Whitman
 as caring for nothing except the classical cameos of Landor.
 But it would be much harder than any of these, as an effort
-of imagination, to imagine William Morris worshipping modern machinery
+of [[Imagination|imagination]], to imagine William Morris worshipping modern machinery
 as the highest form of "rhythm," in accordance with the ugly Proletarian
 art of the modern Bolshevists.  Of course, when once a man is dead,
 you can say anything you choose about what he would have done
@@ -48,7 +48,7 @@ and there is nothing to prevent the tale-bearers from writing
 a post-mortem sequel full of amazing conversions and contradictions.
 But a man has just as much right to say that Shelley would have
 become a True Blue Tory and High Churchman, or that Hurrell Froude,
-of the Oxford Movement, would soon have turned into a Radical
+of the [[Oxford]] Movement, would soon have turned into a Radical
 secularist of the Manchester School, as to say that the human,
 historical William Morris, as he really was, would have tolerated
 for ten seconds the vast industrial materialism of the Five-Year Plan.
@@ -58,7 +58,7 @@ convinced a whole generation that the nineteenth century was not normal.
 In this he was years and years ahead of the Communists of the
 twentieth century, who still really believe that the nineteenth
 century was normal.  Otherwise, they would not believe that all
-this nightmare of machinery is normal; still less that it is new.
+this [[nightmare]] of machinery is normal; still less that it is new.
 When the Bolshevist of to-day tells us that through the impersonal
 power and massed material force of machinery we shall reach
 a more rational civilization, he is talking exactly as
@@ -66,11 +66,11 @@ Mr. Gradgrind, Mr. Bounderby, Mr. Podsnap, and Mr. Bottles talked
 in fiction; and exactly as Sir Robert Peel, Mr. Roebuck, Mr. Bright,
 and Mr. Brown, of Victoria Villas, West Brixton, talked in real life.
 Both existed under the superstition or delusion that machines and
-machine-made goods are a part of the necessities of a humane culture
+[[Machine|machine]]-made goods are a part of the necessities of a humane culture
 or a common comfortable life.  The Marxians, of course, have got
 all these notions, partly from Marx, who was a nineteenth-century
 man if ever there was one, and partly from the accident by which
-Russia was necessarily nearly a century behind the other nations,
+[[Russia]] was necessarily nearly a century behind the other nations,
 and was still looking for a panacea in what the rest of us have already
 found to be a quack medicine.  But Morris was far ahead of Marx.
 Morris was not a nineteenth-century man; or he was the one
@@ -101,32 +101,32 @@ curtains and red plush sofas and bad pictures in heavy gilded frames.
 It would have been all right if he had said, "This is my taste";
 but what he did say was, "This is everybody's common sense."
 Now, to upset a public prejudice like that is much more difficult than
-to murder an emperor or seize the government offices of a republic.
+to murder an emperor or seize the [[government]] offices of a republic.
 
 Morris is still occasionally reproached with the fact that he
 largely selected, as his counter-example of a more common and human
 background, the stretch of centuries that we call the Middle Ages.
-But in truth, one does not need even to be a mediaevalist in order
+But in [[Truth|truth]], one does not need even to be a mediaevalist in order
 to see that he was right to choose the mediaeval.  If, for instance,
-he had tried to make his revolution a return to the classic freedom
+he had tried to make his revolution a return to the classic [[Freedom|freedom]]
 of Greek and Pagan antiquity, his revolution would have been no
 revolution at all.  It was precisely from the too-crushing convention
-derived from classic antiquity that art in his time had suffered most.
+derived from classic antiquity that art in his [[Time|time]] had suffered most.
 For him it was not only the antique, but the antiquated;
 even in the ordinary recent sense of the old-fashioned. It was already
 the mere conventionalism of the Academy and the Academy School.
-It could not be really the Renaissance of the Hellenic at the very
-moment when it was the death and dregs of the Renaissance.
+It could not be really the [[Renaissance]] of the Hellenic at the very
+moment when it was the [[Death|death]] and dregs of the [[Renaissance]].
 But there is a further subtlety not sufficiently noticed.
-Few have really looked quite straight at the Greek beauty
+Few have really looked quite straight at the Greek [[Beauty|beauty]]
 of the Gorgon; and most of them have been turned to stone.
-The Renaissance of the sixteenth century saw it, quite as much
+The [[Renaissance]] of the sixteenth century saw it, quite as much
 as did the Pre-Raphaelitism of the nineteenth century,
-in the mirror of its own mood.  Morris did deal with Jason as
-well as John Ball; but he saw Jason through a mediaeval medium.
+in the [[Mirror|mirror]] of its own mood.  Morris did deal with Jason as
+[[Well|well]] as John Ball; but he saw Jason through a mediaeval medium.
 So did the Victorian classicists see Jason through a modern medium.
-A Renaissance style, filtered through Rubens and Reynolds, was no more
-Greek than a classical theme rendered by Botticelli or Burne-Jones. Both
+A [[Renaissance]] style, filtered through Rubens and Reynolds, was no more
+Greek than a classical theme rendered by Botticelli or Burne-[[Jones]]. Both
 were modern versions; but the mediaeval version had this advantage:
 that mediaevalism marked a period really noted for forms of craftsmanship
 needed to correct the mechanism of the nineteenth century.
@@ -141,25 +141,25 @@ that it should be mass possession.
 _XXII About Widows_
 
 WIDOWS have always been regarded as an alarming and avenging tribe.
-In the background of history, back to the time of barbarism,
+In the background of [[history]], back to the [[Time|time]] of barbarism,
 they stand like rigid statues with uplifted arms, calling down
 the vengeance of heaven upon slayers and spoilers; it was especially
 their wrongs that the knight was pledged to vindicate when he received
 the accolade; it is still to the righting of their grievances
-that the King is bound by the Coronation Oath.  They have been
-nobly treated in ancient tragedy and even in more recent romance;
+that the [[King]] is bound by the Coronation Oath.  They have been
+nobly treated in ancient [[Tragedy|tragedy]] and even in more recent [[Romance|romance]];
 as in that story of the Highland Widow, which is always classed
 with Scott's worst works, apparently because it is one of his best.
-The atmosphere changed from tragedy to comedy, with the coming
+The atmosphere changed from [[Tragedy|tragedy]] to [[Comedy|comedy]], with the coming
 of the more comfortable sentimentality of the nineteenth century.
 The conception of the comic widow, as distinct from the tragic widow,
 a conception started long before by the arresting originality
 of Chaucer, touching that recurrent widow, the Wife of Bath,
 underwent another broadening and flattening in passing from
-the comedy of Chaucer to the comedy of Dickens.  Tony Weller
-became the voice of mankind, uttering its ancient fear of widows.
+the [[Comedy|comedy]] of Chaucer to the [[Comedy|comedy]] of Dickens.  [[Tony Weller]]
+became the voice of mankind, uttering its ancient [[Fear|fear]] of widows.
 And now the widow has entered on a third phase in relation to literature:
-after the tragedy of Sophocles and Scott, the comedy of Chaucer
+after the [[Tragedy|tragedy]] of Sophocles and Scott, the [[Comedy|comedy]] of Chaucer
 and Dickens.  The widow has become literary herself; and reminded us
 that we might have had the memoirs of Mrs. Chaucer or the autobiography
 of Mrs. Dickens.  Hitherto, the method has been simple enough.
@@ -175,7 +175,7 @@ of her life, a modern critic has been so obliging as to write it
 for her, entirely out of his own head.
 
 But the third and most formidable phase of the widow in
-literature requires special and rather grave consideration.
+literature requires special and rather [[Grave|grave]] consideration.
 At least two, if not three or four, of the wives of distinguished
 men of letters recently dead have almost simultaneously published
 their impressions of their own and their husbands' private lives.
@@ -185,31 +185,31 @@ ever induce me personally to have anything to do with it.
 But the deeper causes of this difference of opinion are here rather
 more interesting than the difference itself.  For the causes seem
 to me to go rather deep into a new and even unnatural view of life
-and art.  The question might be put for debate in many forms;
+and art.  The question might be put for [[debate]] in many forms;
 but perhaps the simplest form of all, to which it ultimately
 works back, can be found in the old debating-club query of
 Is Life Worth Living?  For there seem to be more and more people
 who put it to themselves, consciously or unconsciously, in the form
 of Is Life Worth Writing About?
 
-In other words, it is supposed that all this publicity of self-revelation
+In other words, it is supposed that all this publicity of [[Self|self]]-revelation
 represents an interest in private life.  Sometimes, it may
 be admitted perhaps, an excessive interest in private life.
 But it seems to me to indicate a lack of interest in private life.
 That is, it is a lack of intensity of interest in life as a thing
-to be lived, and a limitation of the interest to a biography as a
+to be lived, and a limitation of the interest to a [[Biography|biography]] as a
 thing to be written.  If we happen to object to "the sale of Keats's
-love-letters by auction," as did Oscar Wilde; or to the clown and knave
+[[Love|love]]-letters by auction," as did Oscar Wilde; or to the clown and knave
 who would not let the bones of Shakespeare rest, as did Alfred Tennyson;
-or to those who would cut a man's house in two to watch him in his
+or to those who would cut a man's [[house]] in two to watch him in his
 parlour or bedroom, as did Robert Browning . . . if you happen
 to express some of the regrets felt by these eminent Victorians,
 you will now always find yourself confronted with one general idea.
-It is the idea that the love-letters were _wasted_ if they
+It is the idea that the [[Love|love]]-letters were _wasted_ if they
 were not sold to an illiterate millionaire from Nebraska;
 or that the poet's private emotions and meditations are _wasted_
-if somebody does not spy upon him walking in his garden;
-or that life inside the house is _wasted_ if people outside the house
+if somebody does not spy upon him walking in his [[Garden|garden]];
+or that life inside the [[house]] is _wasted_ if people outside the [[house]]
 know nothing about it.  And this seems to me to mean a lack
 of appreciation, not only of private life, but of life itself.
 Literary expression is a very valuable part of human experience;
@@ -217,25 +217,25 @@ but this is making human experience merely a part of literary expression.
 And though it is done by the most refined persons, and often
 from really fine motives, it seems to me to drift unconsciously
 with the whole of that modern tide of mere sale and exchange that has
-been the curse of all our recent history.  I do not mean, of course,
+been the curse of all our recent [[history]].  I do not mean, of course,
 that there is any need to denounce every woman who happens to be
 a widow who may happen to write something about some man who happens
-to be an artist, even if he also happens to be her husband.
+to be an [[artist]], even if he also happens to be her husband.
 It is a question of the way in which the thing is done;
 and above all of the way in which the thing is defended.
 And where it is defended on the ground that anything left private
 is merely buried and lost, that defence is utterly indefensible.
-It does really imply that nobody has any inner life; that human
+It does really imply that nobody has any [[Inner Life|inner life]]; that human
 happiness is not the need of human beings; that man is not an end
 in himself, subject only to the glory of God; or, in short,
-that biography was not made for man but man for biography.
+that [[Biography|biography]] was not made for man but man for [[Biography|biography]].
 
 What amuses me about this fallacy of the intellectual and the superior
 persons is how very near it is to the fallacy of the hucksters and
 the go-getters and the most vulgar sort of capitalist exploiters.
 For they hold as their chief heresy, in a coarser form, the fundamental
 falsehood that things are not made to be used but made to be sold.
-All the collapse of their commercial system in our own time has been due
+All the collapse of their commercial system in our own [[Time|time]] has been due
 to that fallacy of forcing things on a market where there was no market;
 of continually increasing the power of supply without increasing
 the power of demand; or briefly, of always considering the man
@@ -254,11 +254,11 @@ incessant distractions either of publicity or dissipation.
 It cannot be conducted without reasonable holidays and changes of scene
 or occupation; nor can anything else.  But it can certainly be conducted;
 and it can certainly be interesting and even exciting.  Now, to suggest
-that a love-letter or a family joke or a secret language among
+that a [[Love|love]]-letter or a family joke or a secret language among
 children is never really important until it is edited and published,
 is to imply only too much of the suggestion of so many memoirs:
 that a man is only interesting when he is dead.  For the whole
-world of mere stunts and scoops and trading and self-advertisement
+world of mere stunts and scoops and trading and [[Self|self]]-advertisement
 is spiritually a world utterly dead; although it is very noisy.
 It is, in the precise and literal meaning of the phrase,
 a howling wilderness.
@@ -282,24 +282,24 @@ even the common meaning of the word that has become so common.
 They do not realize even what they themselves mean, or have always meant,
 by the word considered as a part of the English language.
 It is as if there were suddenly a universal mania for talking about hats,
-without the faintest memory that they had ever had anything to do
+without the faintest [[Memory|memory]] that they had ever had anything to do
 with heads; or as if everybody were extravagantly excited about cats,
 while nobody knew whether they were the same as crocodiles.
 
 In the English language, as in any national language capable of
-normal logic, anything relative is relative to something positive.
+normal [[logic]], anything relative is relative to something positive.
 We describe it by saying it stands in a certain relation to something
 already known.  This is so in the practical popular use of "relative"
 or "relation." You may say with gloom, "I'm going to stay with relations";
 or you may say with complacency, "Admiral Sir Caradoc Valencourt Vere de
 Vere is a relative of mine"; or you may say in a Parliamentary manner
-(if you are in the House of Lords, as I assume that you are), "My noble
+(if you are in the [[house|House]] of Lords, as I assume that you are), "My noble
 relative will find it difficult to reconcile the baseness and trickery
 of his treatment of the pickled-onion problem with his professions
 as an Englishman and a Christian"; or you may say sardonically,
 "I suppose Mrs. Boulger-Buckett regards us as her poor relations."
 But in all these cases, however different the emotion, there is no
-difference in the reason, as it defines the nature of a relation.
+difference in the reason, as it defines the [[Nature|nature]] of a relation.
 In all cases the other objects are regarded as being in various
 relations to a fixed object; and in this case the object is what is
 called the subject.  In other words, for a large proportion of fallen
@@ -308,23 +308,23 @@ in so far as there is a fixed certainty of the reality of oneself.
 You do really know that you really exist; even in some wild mood
 in which Admiral Sir Caradoc Vere de Vere might seem to be only
 a beautiful dream; or Mrs. Boulger-Buckett one of those dark fancies
-that flit across the brain upon the borderland of nightmare.
+that flit across the brain upon the borderland of [[nightmare]].
 You therefore speak of them as relative to yourself; if only
 because you know more about yourself than you know about them.
 But when people begin to talk about universal relativity, as if
 everything were as relative as everything else, so that presumably
 the very notion of relativity is itself relative, only relative
-to nobody knows what, they are simply knocking the bottom out of
+to nobody knows what, they are simply knocking the [[Bottom|bottom]] out of
 the world and the human brain, and leaving a bottomless abyss of bosh.
 You say, with airy grace, that Sir Caradoc Vere de Vere is a relation
 of yours.  You do not say he is a relation, as if it were a profession
 or a post or a position in itself.  There is no such thing as a
 relation wandering about the world with nobody to be related to.
-And if your philosophy talks of relations in that sense, the philosopher
+And if your [[philosophy]] talks of relations in that sense, the philosopher
 will decide that they are very poor relations indeed.
 
 A somewhat similar use has been made lately of the word "hypothesis."
-There has been a correspondence in _The Times_ about the nature
+There has been a correspondence in _The Times_ about the [[Nature|nature]]
 of belief, or unbelief, or incidentally of make-believe. This was
 enriched by a somewhat pompous letter from a very superior person,
 who said he was entirely Modern; and proceeded to set forth as much
@@ -358,7 +358,7 @@ by anybody who believes in it, if he can support it with other things
 in which he believes; or preferably things in which everybody believes.
 He is quite entitled to say, "We suggest that a monkey,
 probably living in a tree, became the ancestor of a man,
-apparently living in a cave, by a process of adaptations beginning
+apparently living in a [[Cave|cave]], by a process of adaptations beginning
 with slight varieties of feature in his family, by which it survived
 only in those cases where the features favoured the finding of food.
 It may not yet be finally confirmed by the fossils found in the rocks
@@ -369,12 +369,12 @@ his suggestion in some such form as this:  "We suggest that a monkey
 (if there are any monkeys) living in a tree (if there are any trees)
 became the ancestor of a man (if we may risk the speculative
 supposition that there is such a thing as a man) through certain
-variations enabling certain types to find food (granted the truth
+variations enabling certain types to find food (granted the [[Truth|truth]]
 of the traditional dogma that food is favourable to life), and we
 look to the hypothetical fossils which may or may not be found
 in the hypothetical rocks which may or may not be found in the world;
 or to the behaviour of monkeys we cannot actually believe in, in trees
-we cannot actually believe in, and faintly trust to a larger hope
+we cannot actually believe in, and faintly trust to a larger [[Hope|hope]]
 that something may somehow make some sense out of the whole caboodle.
 But even if something does happen, by which this hypothesis seems
 to fit in better with all the other hypotheses, we can never believe
@@ -389,9 +389,9 @@ that I even refer to the unthinkable effects which such thought would
 have upon action.  One thing is at least certain whatever our national
 or international views:  that, in practice, over large parts of Europe
 that sort of scepticism has already perished under terrible tests.
-The world resounds with iron convictions, some sinister, some sublime,
-but all only too ready to bring forth the fruits of martyrdom or
-of murder.  We also may yet suffer or defy; and I fear _The Times_
+The world resounds with iron convictions, some sinister, some [[Sublime|sublime]],
+but all only too ready to bring forth the fruits of [[Martyrdom|martyrdom]] or
+of murder.  We also may yet suffer or defy; and I [[Fear|fear]] _The Times_
 sceptic will discover that he is not so very Modern.
 
 ~||~

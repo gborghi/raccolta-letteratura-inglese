@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 42 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 42 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,12 +17,12 @@ tags:
 Nicholas laughed very heartily at this story, both on account of its
 telling against himself, and his being desirous to spare the blushes of
 Mrs. Browdie, whose protestations were drowned in peals of laughter from
-her husband. His good-nature soon put her at her ease; and although she
+her husband. His good-[[Nature|nature]] soon put her at her ease; and although she
 still denied the charge, she laughed so heartily at it, that Nicholas
 had the satisfaction of feeling assured that in all essential respects
 it was strictly true.
 
-‘This is the second time,’ said Nicholas, ‘that we have ever taken a
+‘This is the second [[Time|time]],’ said Nicholas, ‘that we have ever taken a
 meal together, and only third I have ever seen you; and yet it really
 seems to me as if I were among old friends.’
 
@@ -34,11 +34,11 @@ seems to me as if I were among old friends.’
 Nicholas; ‘for if it had not been for your kindness of heart, my good
 friend, when I had no right or reason to expect it, I know not what
 might have become of me or what plight I should have been in by this
-time.’
+[[Time|time]].’
 
 ‘Talk aboot soom’at else,’ replied John, gruffly, ‘and dinnot bother.’
 
-‘It must be a new song to the same tune then,’ said Nicholas, smiling.
+‘It must be a new [[Song|song]] to the same tune then,’ said Nicholas, smiling.
 ‘I told you in my letter that I deeply felt and admired your sympathy
 with that poor lad, whom you released at the risk of involving yourself
 in trouble and difficulty; but I can never tell you how grateful he and
@@ -48,7 +48,7 @@ I, and others whom you don’t know, are to you for taking pity on him.’
 tell YOU hoo gratful soom folks that we do know would be loikewise, if
 THEY know’d I had takken pity on him.’
 
-‘Ah!’ exclaimed Mrs. Browdie, ‘what a state I was in that night!’
+‘Ah!’ exclaimed Mrs. Browdie, ‘what a state I was in that [[Night|night]]!’
 
 ‘Were they at all disposed to give you credit for assisting in the
 escape?’ inquired Nicholas of John Browdie.
@@ -64,16 +64,16 @@ know, schoolmeasther might coom.’
 
 ‘Presently,’ resumed John, ‘he DID coom. I heerd door shut doonstairs,
 and him a warking, oop in the daark. “Slow and steddy,” I says to
-myself, “tak’ your time, sir--no hurry.” He cooms to the door, turns the
+myself, “tak’ your [[Time|time]], sir--no hurry.” He cooms to the door, turns the
 key--turns the key when there warn’t nothing to hoold the lock--and ca’s
 oot “Hallo, there!”--“Yes,” thinks I, “you may do thot agean, and
 not wakken anybody, sir.” “Hallo, there,” he says, and then he stops.
 “Thou’d betther not aggravate me,” says schoolmeasther, efther a little
-time. “I’ll brak’ every boan in your boddy, Smike,” he says, efther
-another little time. Then all of a soodden, he sings oot for a loight,
+[[Time|time]]. “I’ll brak’ every boan in your boddy, [[Smike]],” he says, efther
+another little [[Time|time]]. Then all of a soodden, he sings oot for a loight,
 and when it cooms--ecod, such a hoorly-boorly! “Wa’at’s the matter?”
  says I. “He’s gane,” says he,--stark mad wi’ vengeance. “Have you heerd
-nought?” “Ees,” says I, “I heerd street-door shut, no time at a’ ago.
+nought?” “Ees,” says I, “I heerd street-door shut, no [[Time|time]] at a’ ago.
 I heerd a person run doon there” (pointing t’other wa’--eh?) “Help!” he
 cries. “I’ll help you,” says I; and off we set--the wrong wa’! Ho! ho!
 ho!’
@@ -110,13 +110,13 @@ neighbourly, and keep up old acquaintance loike; and what I say is,
 dean’t quarrel if ‘ee can help it. Dinnot think so, Mr. Nickleby?’
 
 ‘Certainly,’ returned Nicholas; ‘and you acted upon that principle when
-I meet you on horseback on the road, after our memorable evening.’
+I meet you on horseback on the [[Road|road]], after our memorable evening.’
 
 ‘Sure-ly,’ said John. ‘Wa’at I say, I stick by.’
 
 ‘And that’s a fine thing to do, and manly too,’ said Nicholas, ‘though
 it’s not exactly what we understand by “coming Yorkshire over us” in
-London. Miss Squeers is stopping with you, you said in your note.’
+[[London]]. Miss Squeers is stopping with you, you said in your note.’
 
 ‘Yes,’ replied John, ‘Tilly’s bridesmaid; and a queer bridesmaid she be,
 too. She wean’t be a bride in a hurry, I reckon.’
@@ -136,7 +136,7 @@ passed.’
 interrupting.
 
 ‘Especially,’ observed Mrs. Browdie, looking very sly, ‘after what we
-know about past and gone love matters.’
+know about past and gone [[Love|love]] matters.’
 
 ‘We know, indeed!’ said Nicholas, shaking his head. ‘You behaved rather
 wickedly there, I suspect.’
@@ -145,4 +145,4 @@ wickedly there, I suspect.’
 through one of his wife’s pretty ringlets, and looking very proud of
 her. ‘She wur always as skittish and full o’ tricks as a--’
 
-‘Well, as a what?’ said his wife.
+‘[[Well]], as a what?’ said his wife.

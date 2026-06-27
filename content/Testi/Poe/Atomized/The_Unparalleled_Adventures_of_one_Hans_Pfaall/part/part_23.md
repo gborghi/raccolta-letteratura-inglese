@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 23)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 23)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
 those of the Zodiac, a question of which I propose to speak more at
 
-length here-after, when I shall have leisure to refresh my memory in
+length here-after, when I shall have leisure to refresh my [[Memory|memory]] in
 
 regard to the astrology which I learned at Salamanca when young, and
 
@@ -28,7 +28,7 @@ have since forgotten.”
 
       some claim to attention, as affording a naive specimen of the
 
-      current astronomical notions of the time. One of these assumed,
+      current astronomical notions of the [[Time|time]]. One of these assumed,
 
       that the “gravitating power” extended but a short distance from
 
@@ -38,7 +38,7 @@ have since forgotten.”
 
 
 
-      There have been other “voyages to the moon,” but none of higher
+      There have been other “voyages to the [[Moon|moon]],” but none of higher
 
       merit than the one just mentioned. That of Bergerac is utterly
 
@@ -46,7 +46,7 @@ have since forgotten.”
 
       Review” will be found quite an elaborate criticism upon a certain
 
-      “journey” of the kind in question—a criticism in which it is
+      “[[Journey|journey]]” of the kind in question—a criticism in which it is
 
       difficult to say whether the critic most exposes the stupidity of
 
@@ -58,7 +58,7 @@ have since forgotten.”
 
       the Signor Gonzales. The adventurer, in digging the earth,
 
-      happens to discover a peculiar metal for which the moon has a
+      happens to discover a peculiar metal for which the [[Moon|moon]] has a
 
       strong attraction, and straightway constructs of it a box, which,
 
@@ -68,13 +68,13 @@ have since forgotten.”
 
       a _jeu d’ esprit_ not altogether contemptible, and has been
 
-      translated into German. Thomas, the hero, was, in fact, the
+      translated into German. Thomas, the [[Hero|hero]], was, in fact, the
 
       gamekeeper of an Irish peer, whose eccentricities gave rise to
 
       the tale. The “flight” is made on an eagle’s back, from Hungry
 
-      Hill, a lofty mountain at the end of Bantry Bay.
+      [[Hill]], a lofty mountain at the end of Bantry Bay.
 
 
 
@@ -92,9 +92,9 @@ have since forgotten.”
 
       _verisimilitude,_ in the application of scientific principles (so
 
-      far as the whimsical nature of the subject would permit), to the
+      far as the whimsical [[Nature|nature]] of the subject would permit), to the
 
-      actual passage between the earth and the moon.
+      actual passage between the earth and the [[Moon|moon]].
 
 
 
@@ -118,29 +118,29 @@ have since forgotten.”
 
       (*4) Hevelius writes that he has several times found, in skies
 
-      perfectly clear, when even stars of the sixth and seventh
+      perfectly clear, when even [[Stars|stars]] of the sixth and seventh
 
       magnitude were conspicuous, that, at the same altitude of the
 
-      moon, at the same elongation from the earth, and with one and the
+      [[Moon|moon]], at the same elongation from the earth, and with one and the
 
-      same excellent telescope, the moon and its maculae did not appear
+      same excellent telescope, the [[Moon|moon]] and its maculae did not appear
 
       equally lucid at all times. From the circumstances of the
 
       observation, it is evident that the cause of this phenomenon is
 
-      not either in our air, in the tube, in the moon, or in the eye of
+      not either in our air, in the tube, in the [[Moon|moon]], or in the eye of
 
       the spectator, but must be looked for in something (an
 
-      atmosphere?) existing about the moon.
+      atmosphere?) existing about the [[Moon|moon]].
 
 
 
-      Cassini frequently observed Saturn, Jupiter, and the fixed stars,
+      Cassini frequently observed [[Saturn]], Jupiter, and the fixed [[Stars|stars]],
 
-      when approaching the moon to occultation, to have their circular
+      when approaching the [[Moon|moon]] to occultation, to have their circular
 
       figure changed into an oval one; and, in other occultations, he
 
@@ -148,6 +148,6 @@ have since forgotten.”
 
       that at some times and not at others, there is a dense matter
 
-      encompassing the moon wherein the rays of the stars are
+      encompassing the [[Moon|moon]] wherein the rays of the [[Stars|stars]] are
 
       refracted.

@@ -1,5 +1,5 @@
 ---
-title: "The Man That Was Used Up (part 2)"
+title: "[[The Man That Was Used Up]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Man-That-Was-Used-Up-(Poe)"
@@ -30,13 +30,13 @@ tags:
 
       whispers and insinuations aforesaid, my interest had been greatly
 
-      excited in the hero of the Bugaboo and Kickapoo campaign.
+      excited in the [[Hero|hero]] of the Bugaboo and Kickapoo campaign.
 
 
 
       However, the delightfully luminous conversation of Brevet
 
-      Brigadier General John A. B. C. Smith soon completely dissipated
+      Brigadier General John A. B. C. [[smith|Smith]] soon completely dissipated
 
       this chagrin. My friend leaving us immediately, we had quite a
 
@@ -54,7 +54,7 @@ tags:
 
       sense of delicacy forbade me to broach the subject; although, in
 
-      truth, I was exceedingly tempted to do so. I perceived, too, that
+      [[Truth|truth]], I was exceedingly tempted to do so. I perceived, too, that
 
       the gallant soldier preferred topics of philosophical interest,
 
@@ -70,13 +70,13 @@ tags:
 
       wonderful people, and live in a wonderful age. Parachutes and
 
-      rail-roads—man-traps and spring-guns! Our steam-boats are upon
+      rail-roads—man-traps and [[Spring|spring]]-guns! Our steam-boats are upon
 
       every sea, and the Nassau balloon packet is about to run regular
 
       trips (fare either way only twenty pounds sterling) between
 
-      London and Timbuctoo. And who shall calculate the immense
+      [[London]] and Timbuctoo. And who shall calculate the immense
 
       influence upon social life—upon arts—upon commerce—upon
 
@@ -102,7 +102,7 @@ tags:
 
       Thompson, to be sure, is not my name; but it is needless to say
 
-      that I left General Smith with a heightened interest in the man,
+      that I left General [[smith|Smith]] with a heightened interest in the man,
 
       with an exalted opinion of his conversational powers, and a deep
 
@@ -128,7 +128,7 @@ tags:
 
       occurred at the Church of the Reverend Doctor Drummummupp, where
 
-      I found myself established, one Sunday, just at sermon time, not
+      I found myself established, one [[Sunday]], just at sermon [[Time|time]], not
 
       only in the pew, but by the side, of that worthy and
 
@@ -138,7 +138,7 @@ tags:
 
       flattering state of affairs. If any person knew anything about
 
-      Brevet Brigadier General John A. B. C. Smith, that person, it was
+      Brevet Brigadier General John A. B. C. [[smith|Smith]], that person, it was
 
       clear to me, was Miss Tabitha T. We telegraphed a few signals,
 
@@ -146,17 +146,17 @@ tags:
 
 
 
-      “Smith!” said she, in reply to my very earnest inquiry;
+      “[[smith|Smith]]!” said she, in reply to my very earnest inquiry;
 
-      “Smith!—why, not General John A. B. C.? Bless me, I thought you
+      “[[smith|Smith]]!—why, not General John A. B. C.? Bless me, I thought you
 
       _knew_ all about _him!_ This is a wonderfully inventive age!
 
       Horrid affair that!—a bloody set of wretches, those
 
-      Kickapoos!—fought like a hero—prodigies of valor—immortal renown.
+      Kickapoos!—fought like a [[Hero|hero]]—prodigies of valor—immortal renown.
 
-      Smith!—Brevet Brigadier General John A. B. C.! why, you know he’s
+      [[smith|Smith]]!—Brevet Brigadier General John A. B. C.! why, you know he’s
 
       the man—”
 
@@ -166,7 +166,7 @@ tags:
 
       and with a thump that came near knocking the pulpit about our
 
-      ears—“man that is born of a woman hath but a short time to live;
+      ears—“man that is born of a woman hath but a short [[Time|time]] to live;
 
       he cometh up and is cut down like a flower!” I started to the
 
@@ -178,7 +178,7 @@ tags:
 
       There was no help for it; so I submitted with a good grace, and
 
-      listened, in all the martyrdom of dignified silence, to the
+      listened, in all the [[Martyrdom|martyrdom]] of dignified [[Silence|silence]], to the
 
       balance of that very capital discourse.
 
@@ -190,11 +190,11 @@ tags:
 
       merely stepping into the box of those exquisite specimens of
 
-      affability and omniscience, the Misses Arabella and Miranda
+      affability and omniscience, the Misses Arabella and [[Miranda]]
 
-      Cognoscenti. That fine tragedian, Climax, was doing Iago to a
+      Cognoscenti. That fine tragedian, Climax, was doing [[Iago]] to a
 
-      very crowded house, and I experienced some little difficulty in
+      very crowded [[house]], and I experienced some little difficulty in
 
       making my wishes understood; especially, as our box was next the
 
@@ -202,10 +202,10 @@ tags:
 
 
 
-      “Smith!” said Miss Arabella, as she at length comprehended the
+      “[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
 
-      purport of my query; “Smith!—why, not General John A. B. C.?”
+      purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
 
 
 
-      “Smith!” inquired Miranda, musingly. “God bless me, did you ever
+      “[[smith|Smith]]!” inquired [[Miranda]], musingly. “God bless me, did you ever

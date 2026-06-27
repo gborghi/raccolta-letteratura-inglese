@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 57: THE EMIGRANTS (part 2)"
+title: "[[David Copperfield]] — Chapter 57: THE EMIGRANTS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -29,34 +29,34 @@ warmth on that subject, ‘as the member of your family--whoever he, she,
 or it, may be--has kept us waiting for a considerable period, perhaps
 the Member may now wait MY convenience.’
 
-‘Micawber,’ said his wife, in a low tone, ‘at such a time as this--’
+‘Micawber,’ said his wife, in a low tone, ‘at such a [[Time|time]] as this--’
 
 ‘“It is not meet,”’ said Mr. Micawber, rising, ‘“that every nice offence
-should bear its comment!” Emma, I stand reproved.’
+should bear its comment!” [[Emma]], I stand reproved.’
 
 ‘The loss, Micawber,’ observed his wife, ‘has been my family’s, not
 yours. If my family are at length sensible of the deprivation to which
-their own conduct has, in the past, exposed them, and now desire to
+their own conduct has, in the past, exposed them, and now [[Desire|desire]] to
 extend the hand of fellowship, let it not be repulsed.’
 
 ‘My dear,’ he returned, ‘so be it!’
 
 ‘If not for their sakes; for mine, Micawber,’ said his wife.
 
-‘Emma,’ he returned, ‘that view of the question is, at such a moment,
+‘[[Emma]],’ he returned, ‘that view of the question is, at such a moment,
 irresistible. I cannot, even now, distinctly pledge myself to fall
 upon your family’s neck; but the member of your family, who is now in
 attendance, shall have no genial warmth frozen by me.’
 
-Mr. Micawber withdrew, and was absent some little time; in the course of
+Mr. Micawber withdrew, and was absent some little [[Time|time]]; in the course of
 which Mrs. Micawber was not wholly free from an apprehension that words
 might have arisen between him and the Member. At length the same boy
 reappeared, and presented me with a note written in pencil, and headed,
 in a legal manner, ‘Heep v. Micawber’. From this document, I learned
 that Mr. Micawber being again arrested, ‘Was in a final paroxysm of
-despair; and that he begged me to send him his knife and pint pot, by
+[[Despair|despair]]; and that he begged me to send him his knife and pint pot, by
 bearer, as they might prove serviceable during the brief remainder of
-his existence, in jail. He also requested, as a last act of friendship,
+his existence, in jail. He also requested, as a last act of [[Friendship|friendship]],
 that I would see his family to the Parish Workhouse, and forget that
 such a Being ever lived.
 
@@ -91,7 +91,7 @@ head, ‘that my family will appear on board, before we finally depart.’
 Mr. Micawber evidently had his presentiment on the subject too, but he
 put it in his tin pot and swallowed it.
 
-‘If you have any opportunity of sending letters home, on your passage,
+‘If you have any opportunity of sending letters [[Home|home]], on your passage,
 Mrs. Micawber,’ said my aunt, ‘you must let us hear from you, you know.’
 
 ‘My dear Miss Trotwood,’ she replied, ‘I shall only be too happy
@@ -100,7 +100,7 @@ correspond. Mr. Copperfield, I trust, as an old and familiar friend,
 will not object to receive occasional intelligence, himself, from one
 who knew him when the twins were yet unconscious?’
 
-I said that I should hope to hear, whenever she had an opportunity of
+I said that I should [[Hope|hope]] to hear, whenever she had an opportunity of
 writing.
 
 ‘Please Heaven, there will be many such opportunities,’ said Mr.
@@ -110,15 +110,15 @@ crossing,’ said Mr. Micawber, trifling with his eye-glass, ‘merely
 crossing. The distance is quite imaginary.’
 
 I think, now, how odd it was, but how wonderfully like Mr. Micawber,
-that, when he went from London to Canterbury, he should have talked as
+that, when he went from [[London]] to Canterbury, he should have talked as
 if he were going to the farthest limits of the earth; and, when he went
 from England to Australia, as if he were going for a little trip across
 the channel.
 
 ‘On the voyage, I shall endeavour,’ said Mr. Micawber, ‘occasionally
 to spin them a yarn; and the melody of my son Wilkins will, I trust,
-be acceptable at the galley-fire. When Mrs. Micawber has her
-sea-legs on--an expression in which I hope there is no conventional
+be acceptable at the galley-[[Fire|fire]]. When Mrs. Micawber has her
+sea-legs on--an expression in which I [[Hope|hope]] there is no conventional
 impropriety--she will give them, I dare say, “Little Tafflin”. Porpoises
 and dolphins, I believe, will be frequently observed athwart our
 Bows; and, either on the starboard or the larboard quarter, objects of

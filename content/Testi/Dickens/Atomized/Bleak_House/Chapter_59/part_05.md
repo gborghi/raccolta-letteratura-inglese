@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 59 (part 5)"
+title: "Bleak [[house|House]] — Chapter 59 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -17,16 +17,16 @@ tags:
 At last we stood under a dark and miserable covered way, where one
 lamp was burning over an iron gate and where the morning faintly
 struggled in. The gate was closed. Beyond it was a burial ground—a
-dreadful spot in which the night was very slowly stirring, but where
+dreadful spot in which the [[Night|night]] was very slowly stirring, but where
 I could dimly see heaps of dishonoured graves and stones, hemmed in
 by filthy houses with a few dull lights in their windows and on whose
 walls a thick humidity broke out like a disease. On the step at the
 gate, drenched in the fearful wet of such a place, which oozed and
 splashed down everywhere, I saw, with a cry of pity and horror, a
-woman lying—Jenny, the mother of the dead child.
+woman lying—Jenny, the mother of the dead [[Child|child]].
 
 I ran forward, but they stopped me, and Mr. Woodcourt entreated me
-with the greatest earnestness, even with tears, before I went up to
+with the greatest earnestness, even with [[Tears|tears]], before I went up to
 the figure to listen for an instant to what Mr. Bucket said. I did
 so, as I thought. I did so, as I am sure.
 
@@ -39,11 +39,11 @@ meaning to them in any other connexion.
 
 “And one returned,” said Mr. Bucket, “and one went on. And the one
 that went on only went on a certain way agreed upon to deceive and
-then turned across country and went home. Think a moment!”
+then turned across country and went [[Home|home]]. Think a moment!”
 
 I could repeat this in my mind too, but I had not the least idea what
 it meant. I saw before me, lying on the step, the mother of the dead
-child. She lay there with one arm creeping round a bar of the iron
+[[Child|child]]. She lay there with one arm creeping round a bar of the iron
 gate and seeming to embrace it. She lay there, who had so lately
 spoken to my mother. She lay there, a distressed, unsheltered,
 senseless creature. She who had brought my mother’s letter, who could

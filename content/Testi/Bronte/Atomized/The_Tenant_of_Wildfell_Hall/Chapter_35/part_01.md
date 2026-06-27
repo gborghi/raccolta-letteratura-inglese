@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 35 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 35 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 Nineteenth.—In proportion as Lady Lowborough finds she has nothing to
 
-fear from me, and as the time of departure draws nigh, the more
+[[Fear|fear]] from me, and as the [[Time|time]] of departure draws nigh, the more
 
 audacious and insolent she becomes. She does not scruple to speak to my
 
@@ -38,7 +38,7 @@ And he rewards her by such smiles and glances, such whispered words, or
 
 boldly-spoken insinuations, indicative of his sense of her goodness and
 
-my neglect, as make the blood rush into my face, in spite of myself—for
+my neglect, as make the [[Blood|blood]] rush into my face, in spite of myself—for
 
 I would be utterly regardless of it all—deaf and blind to everything
 
@@ -46,7 +46,7 @@ that passes between them, since the more I show myself sensible of
 
 their wickedness the more she triumphs in her victory, and the more he
 
-flatters himself that I love him devotedly still, in spite of my
+flatters himself that I [[Love|love]] him devotedly still, in spite of my
 
 pretended indifference. On such occasions I have sometimes been
 
@@ -54,13 +54,13 @@ startled by a subtle, fiendish suggestion inciting me to show him the
 
 contrary by a seeming encouragement of Hargrave’s advances; but such
 
-ideas are banished in a moment with horror and self-abasement; and then
+ideas are banished in a moment with horror and [[Self|self]]-abasement; and then
 
 I hate him tenfold more than ever for having brought me to this!—God
 
 pardon me for it and all my sinful thoughts! Instead of being humbled
 
-and purified by my afflictions, I feel that they are turning my nature
+and purified by my afflictions, I feel that they are turning my [[Nature|nature]]
 
 into gall. This must be my fault as much as theirs that wrong me. No
 
@@ -76,15 +76,15 @@ urges strongly; and I must pray and struggle long ere I subdue it.
 
 
 
-It is well that she is leaving to-morrow, for I could not well endure
+It is [[Well|well]] that she is leaving to-morrow, for I could not [[Well|well]] endure
 
-her presence for another day. This morning she rose earlier than usual.
+her presence for another day. This morning she [[Rose|rose]] earlier than usual.
 
-I found her in the room alone, when I went down to breakfast.
+I found her in the room [[Alone|alone]], when I went down to breakfast.
 
 
 
-“Oh, Helen! is it you?” said she, turning as I entered.
+“Oh, [[Helen]]! is it you?” said she, turning as I entered.
 
 
 
@@ -102,7 +102,7 @@ I came forward and busied myself with the breakfast things.
 
 she seated herself at the table. “Ah, here comes one that will not
 
-rejoice at it!” she murmured, half to herself, as Arthur entered the
+rejoice at it!” she murmured, half to herself, as [[arthur|Arthur]] entered the
 
 room.
 
@@ -116,23 +116,23 @@ pathetically, “The last—last day!”
 
 
 
-“Yes,” said she with some asperity; “and I rose early to make the best
+“Yes,” said she with some asperity; “and I [[Rose|rose]] early to make the best
 
-of it—I have been here alone this half-hour, and _you_—you lazy
+of it—I have been here [[Alone|alone]] this half-hour, and _you_—you lazy
 
 creature—”
 
 
 
-“Well, I thought I was early too,” said he; “but,” dropping his voice
+“[[Well]], I thought I was early too,” said he; “but,” dropping his voice
 
-almost to a whisper, “you see we are not alone.”
+almost to a whisper, “you see we are not [[Alone|alone]].”
 
 
 
-“We never are,” returned she. But they were almost as good as alone,
+“We never are,” returned she. But they were almost as good as [[Alone|alone]],
 
-for I was now standing at the window, watching the clouds, and
+for I was now standing at the [[Window|window]], watching the clouds, and
 
 struggling to suppress my wrath.
 
@@ -144,7 +144,7 @@ overhear; but Annabella had the audacity to come and place herself
 
 beside me, and even to put her hand upon my shoulder and say softly,
 
-“You need not grudge him to me, Helen, for I love him more than ever
+“You need not grudge him to me, [[Helen]], for I [[Love|love]] him more than ever
 
 you could do.”
 
@@ -156,9 +156,9 @@ me, with an expression of abhorrence and indignation that could not be
 
 suppressed. Startled, almost appalled, by this sudden outbreak, she
 
-recoiled in silence. I would have given way to my fury and said more,
+recoiled in [[Silence|silence]]. I would have given way to my fury and said more,
 
-but Arthur’s low laugh recalled me to myself. I checked the
+but [[arthur|Arthur]]’s low laugh recalled me to myself. I checked the
 
 half-uttered invective, and scornfully turned away, regretting that I
 
@@ -176,7 +176,7 @@ the deepest sympathy mingled with high admiration and esteem.
 
 “How much allegiance do you owe to that man?” he asked below his
 
-breath, as he stood beside me at the window, affecting to be making
+breath, as he stood beside me at the [[Window|window]], affecting to be making
 
 observations on the weather.
 
@@ -212,7 +212,7 @@ chair, and said softly, “And so you consider yourself free at last?”
 
 “Yes,” said I, without moving, or raising my eyes from my book, “free
 
-to do anything but offend God and my conscience.”
+to do anything but offend God and my [[Conscience|conscience]].”
 
 
 
@@ -220,7 +220,7 @@ There was a momentary pause.
 
 
 
-“Very right,” said he, “provided your conscience be not too morbidly
+“Very right,” said he, “provided your [[Conscience|conscience]] be not too morbidly
 
 tender, and your ideas of God not too erroneously severe; but can you
 

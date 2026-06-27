@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE UNREASONABLENESS OF WOMAN (part 3)"
+title: "[[FourFaultlessFelons]] — THE UNREASONABLENESS OF WOMAN (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -26,7 +26,7 @@ capacity for surprise at the mystery of feminine psychology may be
 
 surprised to learn that, at her next interview with the prisoner, in the
 
-prison, she was very harsh and scornful towards him for having decided
+[[Prison|prison]], she was very harsh and scornful towards him for having decided
 
 upon betraying all that she had told him to betray.
 
@@ -48,7 +48,7 @@ them of vertigo and the empty air, making the spectator dizzy.
 
 
 
-"Well," he said, "I certainly didn't suppose you regarded them with so
+"[[Well]]," he said, "I certainly didn't suppose you regarded them with so
 
 much sympathy."
 
@@ -90,13 +90,13 @@ had never heard before from him or from any man.
 
 "Do you suppose I don't know that it's all utterly unfair? Why should you
 
-have that power, as well as all the other kinds? Why should you have the
+have that power, as [[Well|well]] as all the other kinds? Why should you have the
 
 only unanswerable thing, the face that is unanswerable like God on the
 
 Judgement Day? We can call up ignorance against science and impotence
 
-against power, but who is going to raise up ugliness against beauty?
+against power, but who is going to raise up ugliness against [[Beauty|beauty]]?
 
 Who--?"
 
@@ -106,7 +106,7 @@ He had taken a stride forward, but, what was much stranger, she had
 
 herself started and moved forward in response. She was staring into his
 
-face as if it had been blasted by a lightning-flash.
+face as if it had been blasted by a [[Lightning|lightning]]-flash.
 
 
 

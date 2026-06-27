@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 30 (part 3)"
+title: "[[Villette]] — Chapter 30 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-In M. Emanuel’s soul rankled a chronic suspicion that I knew both Greek
+In M. Emanuel’s [[Soul|soul]] rankled a chronic suspicion that I knew both Greek
 and Latin. As monkeys are said to have the power of speech if they
-would but use it, and are reported to conceal this faculty in fear of
+would but use it, and are reported to conceal this faculty in [[Fear|fear]] of
 its being turned to their detriment, so to me was ascribed a fund of
 knowledge which I was supposed criminally and craftily to conceal. The
-privileges of a “classical education,” it was insinuated, had been
-mine; on flowers of Hymettus I had revelled; a golden store, hived in
-memory, now silently sustained my efforts, and privily nurtured my
+privileges of a “classical [[Education|education]],” it was insinuated, had been
+mine; on [[Flowers|flowers]] of Hymettus I had revelled; a golden store, hived in
+[[Memory|memory]], now silently sustained my efforts, and privily nurtured my
 wits.
 
 A hundred expedients did M. Paul employ to surprise my secret—to
@@ -29,7 +29,7 @@ wheedle, to threaten, to startle it out of me. Sometimes he placed
 Greek and Latin books in my way, and then watched me, as Joan of Arc’s
 jailors tempted her with the warrior’s accoutrements, and lay in wait
 for the issue. Again he quoted I know not what authors and passages,
-and while rolling out their sweet and sounding lines (the classic tones
+and while [[rolling]] out their sweet and sounding lines (the classic tones
 fell musically from his lips—for he had a good voice—remarkable for
 compass, modulation, and matchless expression), he would fix on me a
 vigilant, piercing, and often malicious eye. It was evident he
@@ -38,14 +38,14 @@ not comprehending, of course I could neither be charmed nor annoyed.
 
 Baffled—almost angry—he still clung to his fixed idea; my
 susceptibilities were pronounced marble—my face a mask. It appeared as
-if he could not be brought to accept the homely truth, and take me for
+if he could not be brought to accept the homely [[Truth|truth]], and take me for
 what I was: men, and women too, must have delusion of some sort; if not
 made ready to their hand, they will invent exaggeration for themselves.
 
 At moments I _did_ wish that his suspicions had been better founded.
 There were times when I would have given my right hand to possess the
 treasures he ascribed to me. He deserved condign punishment for his
-testy crotchets. I could have gloried in bringing home to him his worst
+testy crotchets. I could have gloried in bringing [[Home|home]] to him his worst
 apprehensions astoundingly realized. I could have exulted to burst on
 his vision, confront and confound his “lunettes,” one blaze of
 acquirements. Oh! why did nobody undertake to make me clever while I
@@ -56,14 +56,14 @@ the mocking spirit out of Paul Carl David Emanuel!
 Alas! no such feat was in my power. To-day, as usual, his quotations
 fell ineffectual: he soon shifted his ground.
 
-“Women of intellect” was his next theme: here he was at home. A “woman
+“Women of intellect” was his next theme: here he was at [[Home|home]]. A “woman
 of intellect,” it appeared, was a sort of “lusus naturae,” a luckless
 accident, a thing for which there was neither place nor use in
-creation, wanted neither as wife nor worker. Beauty anticipated her in
-the first office. He believed in his soul that lovely, placid, and
+creation, wanted neither as wife nor worker. [[Beauty]] anticipated her in
+the first office. He believed in his [[Soul|soul]] that lovely, placid, and
 passive feminine mediocrity was the only pillow on which manly thought
 and sense could find rest for its aching temples; and as to work, male
-mind alone could work to any good practical result—hein?
+mind [[Alone|alone]] could work to any good practical result—hein?
 
 This “hein?” was a note of interrogation intended to draw from me
 contradiction or objection. However, I only said—“Cela ne me regarde
@@ -75,7 +75,7 @@ They have rung the bell for the second déjeuner” (_i.e._ luncheon).
 “Indeed I was,” I said; “I had had nothing since breakfast, at seven,
 and should have nothing till dinner, at five, if I missed this bell.”
 
-“Well, he was in the same plight, but I might share with him.”
+“[[Well]], he was in the same plight, but I might share with him.”
 
 And he broke in two the “brioche” intended for his own refreshment, and
 gave me half. Truly his bark was worse than his bite; but the really
@@ -97,23 +97,23 @@ me, but I _sometimes_, not _always_, feel a knowledge of my own.”
 
 Unable to answer this question in a breath, I evaded it by change of
 subject. He had now finished his half of the brioche: feeling sure that
-on so trifling a fragment he could not have satisfied his appetite, as
+on so trifling a [[Fragment|fragment]] he could not have satisfied his appetite, as
 indeed I had not appeased mine, and inhaling the fragrance of baked
 apples afar from the refectory, I ventured to inquire whether he did
 not also perceive that agreeable odour. He confessed that he did. I
-said if he would let me out by the garden-door, and permit me just to
-run across the court, I would fetch him a plateful; and added that I
+said if he would let me out by the [[Garden|garden]]-door, and permit me just to
+run across the [[Court|court]], I would fetch him a plateful; and added that I
 believed they were excellent, as Goton had a very good method of
 baking, or rather stewing fruit, putting in a little spice, sugar, and
 a glass or two of vin blanc—might I go?
 
 “Petite gourmande!” said he, smiling, “I have not forgotten how pleased
 you were with the pâté â la crême I once gave you, and you know very
-well, at this moment, that to fetch the apples for me will be the same
+[[Well|well]], at this moment, that to fetch the apples for me will be the same
 as getting them for yourself. Go, then, but come back quickly.”
 
 And at last he liberated me on parole. My own plan was to go and return
-with speed and good faith, to put the plate in at the door, and then to
+with [[Speed|speed]] and good [[Faith|faith]], to put the plate in at the door, and then to
 vanish incontinent, leaving all consequences for future settlement.
 
 That intolerably keen instinct of his seemed to have anticipated my

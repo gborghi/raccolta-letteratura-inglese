@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 63: A VISITOR (part 3)"
+title: "[[David Copperfield]] — Chapter 63: A VISITOR (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,7 +21,7 @@ to another part of the paper, my eyes rested on my own name, and I read
 thus:
 
 
-‘TO DAVID COPPERFIELD, ESQUIRE,
+‘TO [[David Copperfield|DAVID COPPERFIELD]], ESQUIRE,
 
 ‘THE EMINENT AUTHOR.
 
@@ -49,7 +49,7 @@ Middlebay, for the gratification of which you are the ministering agent.
 
 ‘Go on, my dear Sir! You are not unknown here, you are not
 unappreciated. Though “remote”, we are neither “unfriended”,
-“melancholy”, nor (I may add) “slow”. Go on, my dear Sir, in your Eagle
+“[[Melancholy|melancholy]]”, nor (I may add) “slow”. Go on, my dear Sir, in your Eagle
 course! The inhabitants of Port Middlebay may at least aspire to watch
 it, with delight, with entertainment, with instruction!
 
@@ -60,7 +60,7 @@ will ever be found, while it has light and life,
                     ‘Eye
                          ‘Appertaining to
 
-                              ‘WILKINS MICAWBER,
+                              ‘[[Wilkins Micawber|WILKINS MICAWBER]],
                                    ‘Magistrate.’
 
 
@@ -74,14 +74,14 @@ and, unless I am very much mistaken, the Leading Article was his also.
 We talked much of Mr. Micawber, on many other evenings while Mr.
 Peggotty remained with us. He lived with us during the whole term of his
 stay,--which, I think, was something less than a month,--and his sister
-and my aunt came to London to see him. Agnes and I parted from him
-aboard-ship, when he sailed; and we shall never part from him more, on
+and my aunt came to [[London]] to see him. Agnes and I parted from him
+aboard-[[Ship|ship]], when he sailed; and we shall never part from him more, on
 earth.
 
 But before he left, he went with me to Yarmouth, to see a little tablet
-I had put up in the churchyard to the memory of Ham. While I was copying
-the plain inscription for him at his request, I saw him stoop, and
-gather a tuft of grass from the grave and a little earth.
+I had put up in the churchyard to the [[Memory|memory]] of Ham. While I was copying
+the plain [[Inscription|inscription]] for him at his request, I saw him stoop, and
+gather a tuft of grass from the [[Grave|grave]] and a little earth.
 
 ‘For Em’ly,’ he said, as he put it in his breast. ‘I promised, Mas’r
 Davy.’

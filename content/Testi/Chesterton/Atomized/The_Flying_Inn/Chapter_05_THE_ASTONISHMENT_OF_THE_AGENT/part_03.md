@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mr. Bullrose was a short, square man with a broad, square head with ridges of close, black curls on it, with a heavy, froglike face and starting, suspicious eyes; a man with a good silk hat but a square business jacket. Mr. Bullrose was not a nice man. The agent on that sort of estate hardly ever is a nice man. The landlord often is; and even Lord Ivywood had an arctic magnanimity of his own, which made most people want, if possible, to see him personally. But Mr. Bullrose was petty. Every really practical tyrant must be petty.
+Mr. Bullrose was a short, square man with a broad, square head with ridges of close, black curls on it, with a heavy, froglike face and starting, suspicious eyes; a man with a good silk hat but a square business jacket. Mr. Bullrose was not a nice man. The agent on that sort of estate hardly ever is a nice man. The landlord often is; and even Lord Ivywood had an arctic magnanimity of his own, which made most people want, if possible, to see him personally. But Mr. Bullrose was petty. Every really practical [[Tyrant|tyrant]] must be petty.
 
 
 
@@ -24,7 +24,7 @@ He evidently failed to understand the commotion in front of Mr. Marne’s partly
 
 
 
-“Good-bye, my friends,” the enormous man in the fantastic uniform was saying, “all roads lead to rum, as Lord Ivywood said in one of his gayer moments, and we hope to be back soon, establishing a first class hotel here, of which prospectuses will soon be sent out.”
+“Good-bye, my friends,” the enormous man in the fantastic uniform was saying, “all roads lead to rum, as Lord Ivywood said in one of his gayer moments, and we [[Hope|hope]] to be back soon, establishing a first class hotel here, of which prospectuses will soon be sent out.”
 
 
 
@@ -34,12 +34,12 @@ The heavy froglike face of Mr. Bullrose, the agent, grew uglier with astonishmen
 
 
 
-“I’ve got him now,” muttered Mr. Bullrose. “He can’t possibly pay; and out he shall go.” And he walked swiftly towards the door of the cottage, almost at the same moment that Dalroy went to the donkey’s head, as if to lead it off along the road.
+“I’ve got him now,” muttered Mr. Bullrose. “He can’t possibly pay; and out he shall go.” And he walked swiftly towards the door of the cottage, almost at the same moment that Dalroy went to the [[donkey]]’s head, as if to lead it off along the [[Road|road]].
 
 
 
 
-“Look here, my man,” burst out Bullrose, the instant he was inside the cottage. “You’ve cooked yourself this time. His lordship has been a great deal too indulgent with you; but this is going to be the end of it. The insolence of what you’ve done outside, especially when you know his lordship’s wishes in such things, has just put the lid on.” He stopped a moment and sneered. “So unless you happen to have the exact rent down to a farthing or two about you, out you go. We’re sick of your sort.”
+“Look here, my man,” burst out Bullrose, the instant he was inside the cottage. “You’ve cooked yourself this [[Time|time]]. His lordship has been a great deal too indulgent with you; but this is going to be the end of it. The insolence of what you’ve done outside, especially when you know his lordship’s wishes in such things, has just put the lid on.” He stopped a moment and sneered. “So unless you happen to have the exact rent down to a farthing or two about you, out you go. We’re sick of your sort.”
 
 
 
@@ -54,7 +54,7 @@ In a very awkward and fumbling manner, the old man pushed a heap of coins across
 
 
 
-“I ain’t very spry for stealin’,” said the old man in quavering comedy.
+“I ain’t very spry for stealin’,” said the old man in quavering [[Comedy|comedy]].
 
 
 
@@ -64,7 +64,7 @@ Bullrose looked at him and then at the money; and remembered with fury that Ivyw
 
 
 
-“Well, anyhow,” he cried, in a hot, heady way, “we’ve got enough against you to turn you out of this. Haven’t you broken the law, my man, to say nothing of the regulations for tenants, in sticking up that fancy sign of yours outside the cottage? Eh?”
+“[[Well]], anyhow,” he cried, in a hot, heady way, “we’ve got enough against you to turn you out of this. Haven’t you broken the law, my man, to say nothing of the regulations for tenants, in sticking up that fancy sign of yours outside the cottage? Eh?”
 
 
 
@@ -84,17 +84,17 @@ The tenant was silent.
 
 
 
-“Have you or have you not a sign-board outside this house?” shouted Bullrose, hammering the table.
+“Have you or have you not a sign-board outside this [[house]]?” shouted Bullrose, hammering the table.
 
 
 
 
-The tenant looked at him for a long time with a patient and venerable face, and then said: “Mubbe, yes. Mubbe, no.”
+The tenant looked at him for a long [[Time|time]] with a patient and venerable face, and then said: “Mubbe, yes. Mubbe, no.”
 
 
 
 
-“I’ll mubbe you,” cried Mr. Bullrose, springing up and sticking his silk hat on the back of his head. “I don’t know whether you people are too drunk to see anything, but I saw the thing with my own eyes out in the road. Come out, and deny it if you dare!”
+“I’ll mubbe you,” cried Mr. Bullrose, springing up and sticking his silk hat on the back of his head. “I don’t know whether you people are too drunk to see anything, but I saw the thing with my own eyes out in the [[Road|road]]. Come out, and deny it if you dare!”
 
 
 
@@ -104,7 +104,7 @@ The tenant looked at him for a long time with a patient and venerable face, and 
 
 
 
-He tottered after the agent, who flung open the door with a businesslike fury and stood outside on the threshold. He stood there quite a long time, and he did not speak. Deep in the hardened mud of his materialistic mind there had stirred two things that were its ancient enemies; the old fairy tale in which every thing can be believed; the new scepticism in which nothing can be believed–not even one’s own eyes. There was no sign, nor sign of a sign, in the landscape.
+He tottered after the agent, who flung open the door with a businesslike fury and stood outside on the threshold. He stood there quite a long [[Time|time]], and he did not speak. Deep in the hardened mud of his materialistic mind there had stirred two things that were its ancient enemies; the old fairy tale in which every thing can be believed; the new scepticism in which nothing can be believed–not even one’s own eyes. There was no sign, nor sign of a sign, in the landscape.
 
 
 

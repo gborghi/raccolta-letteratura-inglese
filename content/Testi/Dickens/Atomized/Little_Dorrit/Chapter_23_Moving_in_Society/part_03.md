@@ -17,13 +17,13 @@ tags:
 Little Dorrit mildly looked at the speaker, but did not interrupt her.
 Fanny took out her handkerchief, and rather angrily wiped her eyes. ‘I
 was not born where you were, you know, Amy, and perhaps that makes a
-difference. My dear child, when we get rid of Uncle, you shall know all
+difference. My dear [[Child|child]], when we get rid of Uncle, you shall know all
 about it. We’ll drop him at the cook’s shop where he is going to dine.’
 
-They walked on with him until they came to a dirty shop window in a
+They walked on with him until they came to a dirty shop [[Window|window]] in a
 dirty street, which was made almost opaque by the steam of hot meats,
 vegetables, and puddings. But glimpses were to be caught of a roast leg
-of pork bursting into tears of sage and onion in a metal reservoir full
+of pork bursting into [[Tears|tears]] of sage and onion in a metal reservoir full
 of gravy, of an unctuous piece of roast beef and blisterous Yorkshire
 pudding, bubbling hot in a similar receptacle, of a stuffed fillet of
 veal in rapid cut, of a ham in a perspiration with the pace it was going
@@ -31,7 +31,7 @@ at, of a shallow tank of baked potatoes glued together by their own
 richness, of a truss or two of boiled greens, and other substantial
 delicacies. Within, were a few wooden partitions, behind which such
 customers as found it more convenient to take away their dinners in
-stomachs than in their hands, Packed their purchases in solitude. Fanny
+stomachs than in their hands, Packed their purchases in [[Solitude|solitude]]. Fanny
 opening her reticule, as they surveyed these things, produced from that
 repository a shilling and handed it to Uncle. Uncle, after not looking
 at it a little while, divined its object, and muttering ‘Dinner? Ha!
@@ -42,19 +42,19 @@ walk to Harley Street, Cavendish Square.’
 
 The air with which she threw off this distinguished address and the toss
 she gave to her new bonnet (which was more gauzy than serviceable), made
-her sister wonder; however, she expressed her readiness to go to Harley
+her sister [[Wonder|wonder]]; however, she expressed her readiness to go to Harley
 Street, and thither they directed their steps. Arrived at that grand
-destination, Fanny singled out the handsomest house, and knocking at the
+destination, Fanny singled out the handsomest [[house]], and knocking at the
 door, inquired for Mrs Merdle. The footman who opened the door, although
 he had powder on his head and was backed up by two other footmen
-likewise powdered, not only admitted Mrs Merdle to be at home, but asked
+likewise powdered, not only admitted Mrs Merdle to be at [[Home|home]], but asked
 Fanny to walk in. Fanny walked in, taking her sister with her; and they
 went up-stairs with powder going before and powder stopping behind,
 and were left in a spacious semicircular drawing-room, one of several
 drawing-rooms, where there was a parrot on the outside of a golden cage
 holding on by its beak, with its scaly legs in the air, and putting
 itself into many strange upside-down postures. This peculiarity has been
-observed in birds of quite another feather, climbing upon golden wires.
+observed in [[Birds|birds]] of quite another feather, climbing upon golden wires.
 
 The room was far more splendid than anything Little Dorrit had ever
 imagined, and would have been splendid and costly in any eyes. She
@@ -64,7 +64,7 @@ communication with another room. The curtain shook next moment, and a
 lady, raising it with a heavily ringed hand, dropped it behind her again
 as she entered.
 
-The lady was not young and fresh from the hand of Nature, but was young
+The lady was not young and fresh from the hand of [[Nature]], but was young
 and fresh from the hand of her maid. She had large unfeeling handsome
 eyes, and dark unfeeling handsome hair, and a broad unfeeling handsome
 bosom, and was made the most of in every particular. Either because she
@@ -96,7 +96,7 @@ professional air. Very pleasant; but not professional.’
 
 ‘My sister, ma’am,’ said Fanny, in whom there was a singular mixture
 of deference and hardihood, ‘has been asking me to tell her, as between
-sisters, how I came to have the honour of knowing you. And as I had
+sisters, how I came to have the [[Honour|honour]] of knowing you. And as I had
 engaged to call upon you once more, I thought I might take the liberty
 of bringing her with me, when perhaps you would tell her. I wish her to
 know, and perhaps you will tell her?’
@@ -117,7 +117,7 @@ and it asserted its right to its exactions.
 hollow and conventional and worldly and very shocking, but unless we
 are Savages in the Tropical seas (I should have been charmed to be one
 myself--most delightful life and perfect climate, I am told), we
-must consult it. It is the common lot. Mr Merdle is a most extensive
+must consult it. It is the common lot. [[Mr Merdle]] is a most extensive
 merchant, his transactions are on the vastest scale, his wealth and
 influence are very great, but even he--Bird, be quiet!’
 

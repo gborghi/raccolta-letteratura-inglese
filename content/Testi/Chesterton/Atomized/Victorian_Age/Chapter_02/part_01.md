@@ -24,17 +24,17 @@ THE GREAT VICTORIAN NOVELISTS
 
 
 
-The Victorian novel was a thing entirely Victorian; quite unique and
+The Victorian [[Novel|novel]] was a thing entirely Victorian; quite unique and
 
-suited to a sort of cosiness in that country and that age. But the novel
+suited to a sort of cosiness in that country and that age. But the [[Novel|novel]]
 
 itself, though not merely Victorian, is mainly modern. No clear-headed
 
-person wastes his time over definitions, except where he thinks his own
+person wastes his [[Time|time]] over definitions, except where he thinks his own
 
 definition would probably be in dispute. I merely say, therefore, that
 
-when I say "novel," I mean a fictitious narrative (almost invariably,
+when I say "[[Novel|novel]]," I mean a fictitious narrative (almost invariably,
 
 but not necessarily, in prose) of which the essential is that the story
 
@@ -50,11 +50,11 @@ of the most conspicuous is that it is the art in which the conquests of
 
 woman are quite beyond controversy. The proposition that Victorian women
 
-have done well in politics and philosophy is not necessarily an untrue
+have done [[Well|well]] in politics and [[philosophy]] is not necessarily an untrue
 
 proposition; but it is a partisan proposition. I never heard that many
 
-women, let alone men, shared the views of Mary Wollstonecraft; I never
+women, let [[Alone|alone]] men, shared the views of Mary Wollstonecraft; I never
 
 heard that millions of believers flocked to the religion tentatively
 
@@ -90,11 +90,11 @@ dedicated _Jane Eyre_ to the author of _Vanity Fair_. I should hesitate
 
 to say that Charlotte Brontë's is a better book than Thackeray's, but I
 
-think it might well be maintained that it is a better story. All sorts
+think it might [[Well|well]] be maintained that it is a better story. All sorts
 
-of inquiring asses (equally ignorant of the old nature of woman and the
+of inquiring asses (equally ignorant of the old [[Nature|nature]] of woman and the
 
-new nature of the novel) whispered wisely that George Eliot's novels
+new [[Nature|nature]] of the [[Novel|novel]]) whispered wisely that George Eliot's novels
 
 were really written by George Lewes. I will cheerfully answer for the
 
@@ -102,23 +102,23 @@ fact that, if they had been written by George Lewes, no one would ever
 
 have read them. Those who have read his book on Robespierre will have
 
-no doubt about my meaning. I am no idolater of George Eliot; but a man
+no [[Doubt|doubt]] about my meaning. I am no idolater of George Eliot; but a man
 
 who could concoct such a crushing opiate about the most exciting
 
-occasion in history certainly did not write _The Mill on the Floss_.
+occasion in [[history]] certainly did not write _The Mill on the Floss_.
 
-This is the first fact about the novel, that it is the introduction of a
+This is the first fact about the [[Novel|novel]], that it is the introduction of a
 
 new and rather curious kind of art; and it has been found to be
 
-peculiarly feminine, from the first good novel by Fanny Burney to the
+peculiarly feminine, from the first good [[Novel|novel]] by Fanny Burney to the
 
-last good novel by Miss May Sinclair. The truth is, I think, that the
+last good [[Novel|novel]] by Miss May Sinclair. The [[Truth|truth]] is, I think, that the
 
-modern novel is a new thing; not new in its essence (for that is a
+modern [[Novel|novel]] is a new thing; not new in its essence (for that is a
 
-philosophy for fools), but new in the sense that it lets loose many of
+[[philosophy]] for fools), but new in the sense that it lets loose many of
 
 the things that are old. It is a hearty and exhaustive overhauling of
 
@@ -132,23 +132,23 @@ specialise in individuals, and be praised for doing so; just as in the
 
 Middle Ages she specialised in dignity and was praised for doing so.
 
-People put the matter wrong when they say that the novel is a study of
+People put the matter wrong when they say that the [[Novel|novel]] is a study of
 
-human nature. Human nature is a thing that even men can understand.
+human [[Nature|nature]]. Human [[Nature|nature]] is a thing that even men can understand.
 
-Human nature is born of the pain of a woman; human nature plays at
+Human [[Nature|nature]] is born of the [[Pain|pain]] of a woman; human [[Nature|nature]] plays at
 
-peep-bo when it is two and at cricket when it is twelve; human nature
+peep-bo when it is two and at cricket when it is twelve; human [[Nature|nature]]
 
-earns its living and desires the other sex and dies. What the novel
+earns its living and desires the other sex and dies. What the [[Novel|novel]]
 
 deals with is what women have to deal with; the differentiations, the
 
-twists and turns of this eternal river. The key of this new form of art,
+twists and turns of this eternal [[River|river]]. The key of this new form of art,
 
 which we call fiction, is sympathy. And sympathy does not mean so much
 
-feeling with all who feel, but rather suffering with all who suffer. And
+feeling with all who feel, but rather [[Suffering|suffering]] with all who suffer. And
 
 it was inevitable, under such an inspiration, that more attention should
 
@@ -158,7 +158,7 @@ promising domestic channel dug by the Victorian women, in books like
 
 _Cranford_, by Mrs. Gaskell, would have got to the sea, if they had been
 
-left alone to dig it. They might have made domesticity a fairyland.
+left [[Alone|alone]] to dig it. They might have made domesticity a fairyland.
 
 Unfortunately another idea, the idea of imitating men's cuffs and
 
@@ -168,7 +168,7 @@ destroyed it.
 
 
 
-It may seem mere praise of the novel to say it is the art of sympathy
+It may seem mere praise of the [[Novel|novel]] to say it is the art of sympathy
 
 and the study of human variations. But indeed, though this is a good
 
@@ -180,7 +180,7 @@ exonerations. Two peasants in the Middle Ages quarrelled about their two
 
 fields. But they went to the same church, served in the same semi-feudal
 
-militia, and had the same morality, which ever might happen to be
+militia, and had the same [[morality]], which ever might happen to be
 
 breaking it at the moment. The very cause of their quarrel was the cause
 
@@ -188,7 +188,7 @@ of their fraternity; they both liked land. But suppose one of them a
 
 teetotaler who desired the abolition of hops on both farms; suppose the
 
-other a vegetarian who desired the abolition of chickens on both farms:
+other a [[vegetarian]] who desired the abolition of chickens on both farms:
 
 and it is at once apparent that a quarrel of quite a different kind
 

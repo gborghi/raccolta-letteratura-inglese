@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 69 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 69 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -36,40 +36,40 @@ sulkily.
 
 ‘Why I’ll tell you what, brother,’ said Dennis, with a friendly smile,
 ‘when you don’t want me to know which way you’re riding, you must wear
-another sort of bells on your horse. Ah! I know the sound of them you
-wore last night, and have got quick ears for ‘em; that’s the truth.
-Well, but how are you, brother?’
+another sort of [[Bells|bells]] on your [[Horse|horse]]. Ah! I know the sound of them you
+wore last [[Night|night]], and have got quick ears for ‘em; that’s the [[Truth|truth]].
+[[Well]], but how are you, brother?’
 
-He had by this time approached, and now ventured to sit down by him.
+He had by this [[Time|time]] approached, and now ventured to sit down by him.
 
 ‘How am I?’ answered Hugh. ‘Where were you yesterday? Where did you go
 when you left me in the jail? Why did you leave me? And what did you
-mean by rolling your eyes and shaking your fist at me, eh?’
+mean by [[rolling]] your eyes and shaking your fist at me, eh?’
 
 ‘I shake my fist!--at you, brother!’ said Dennis, gently checking Hugh’s
 uplifted hand, which looked threatening.
 
 ‘Your stick, then; it’s all one.’
 
-‘Lord love you, brother, I meant nothing. You don’t understand me by
-half. I shouldn’t wonder now,’ he added, in the tone of a desponding and
+‘Lord [[Love|love]] you, brother, I meant nothing. You don’t understand me by
+half. I shouldn’t [[Wonder|wonder]] now,’ he added, in the tone of a desponding and
 an injured man, ‘but you thought, because I wanted them chaps left in
-the prison, that I was a going to desert the banners?’
+the [[Prison|prison]], that I was a going to [[Desert|desert]] the banners?’
 
 Hugh told him, with an oath, that he had thought so.
 
-‘Well!’ said Mr Dennis, mournfully, ‘if you an’t enough to make a man
-mistrust his feller-creeturs, I don’t know what is. Desert the banners!
+‘[[Well]]!’ said Mr Dennis, mournfully, ‘if you an’t enough to make a man
+mistrust his feller-creeturs, I don’t know what is. [[Desert]] the banners!
 Me! Ned Dennis, as was so christened by his own father!--Is this axe
 your’n, brother?’
 
 ‘Yes, it’s mine,’ said Hugh, in the same sullen manner as before; ‘it
 might have hurt you, if you had come in its way once or twice last
-night. Put it down.’
+[[Night|night]]. Put it down.’
 
 ‘Might have hurt me!’ said Mr Dennis, still keeping it in his hand, and
 feeling the edge with an air of abstraction. ‘Might have hurt me! and me
-exerting myself all the time to the wery best advantage. Here’s a world!
+exerting myself all the [[Time|time]] to the wery best advantage. Here’s a world!
 And you’re not a-going to ask me to take a sup out of that ‘ere bottle,
 eh?’
 
@@ -84,17 +84,17 @@ the flask, but still holding the axe in his hand.
 ‘What!’ cried the hangman, raising his voice to its highest pitch, and
 laying hold of him and Hugh. ‘Not SOLDIERS, surely!’
 
-That moment, the shed was filled with armed men; and a body of horse,
+That moment, the shed was filled with armed men; and a [[Body|body]] of [[Horse|horse]],
 galloping into the field, drew up before it.
 
 ‘There!’ said Dennis, who remained untouched among them when they had
 seized their prisoners; ‘it’s them two young ones, gentlemen, that the
 proclamation puts a price on. This other’s an escaped felon.--I’m sorry
-for it, brother,’ he added, in a tone of resignation, addressing himself
+for it, brother,’ he added, in a tone of [[Resignation|resignation]], addressing himself
 to Hugh; ‘but you’ve brought it on yourself; you forced me to do it; you
 wouldn’t respect the soundest constitootional principles, you know; you
 went and wiolated the wery framework of society. I had sooner have
-given away a trifle in charity than done this, I would upon my soul.--If
+given away a trifle in [[Charity|charity]] than done this, I would upon my [[Soul|soul]].--If
 you’ll keep fast hold on ‘em, gentlemen, I think I can make a shift to
 tie ‘em better than you can.’
 
@@ -106,12 +106,12 @@ somewhere for a minute--and probably in his confusion mistaking the
 point at which he had emerged, was now seen running across the open
 meadow.
 
-An officer cried directly that he had helped to plunder a house last
-night. He was loudly called on, to surrender. He ran the harder, and in
+An officer cried directly that he had helped to plunder a [[house]] last
+[[Night|night]]. He was loudly called on, to surrender. He ran the harder, and in
 a few seconds would have been out of gunshot. The word was given, and
 the men fired.
 
-There was a breathless pause and a profound silence, during which all
+There was a breathless pause and a profound [[Silence|silence]], during which all
 eyes were fixed upon him. He had been seen to start at the discharge, as
 if the report had frightened him. But he neither stopped nor slackened
 his pace in the least, and ran on full forty yards further. Then,
@@ -121,11 +121,11 @@ limb, he dropped.
 Some of them hurried up to where he lay;--the hangman with them.
 Everything had passed so quickly, that the smoke had not yet scattered,
 but curled slowly off in a little cloud, which seemed like the dead
-man’s spirit moving solemnly away. There were a few drops of blood upon
+man’s spirit moving solemnly away. There were a few drops of [[Blood|blood]] upon
 the grass--more, when they turned him over--that was all.
 
 ‘Look here! Look here!’ said the hangman, stooping one knee beside the
-body, and gazing up with a disconsolate face at the officer and men.
+[[Body|body]], and gazing up with a disconsolate face at the officer and men.
 ‘Here’s a pretty sight!’
 
 ‘Stand out of the way,’ replied the officer. ‘Serjeant! see what he had
@@ -133,9 +133,9 @@ about him.’
 
 The man turned his pockets out upon the grass, and counted, besides some
 foreign coins and two rings, five-and-forty guineas in gold. These were
-bundled up in a handkerchief and carried away; the body remained there
+bundled up in a handkerchief and carried away; the [[Body|body]] remained there
 for the present, but six men and the serjeant were left to take it to
-the nearest public-house.
+the nearest public-[[house]].
 
 ‘Now then, if you’re going,’ said the serjeant, clapping Dennis on the
 back, and pointing after the officer who was walking towards the shed.
@@ -159,26 +159,26 @@ country if the military power’s to go a superseding the ciwilians in
 this way? Where’s this poor feller-creetur’s rights as a citizen, that
 he didn’t have ME in his last moments! I was here. I was willing. I
 was ready. These are nice times, brother, to have the dead crying out
-against us in this way, and sleep comfortably in our beds arterwards;
+against us in this way, and [[Sleep|sleep]] comfortably in our beds arterwards;
 wery nice!’
 
 Whether he derived any material consolation from binding the prisoners,
 is uncertain; most probably he did. At all events his being summoned to
-that work, diverted him, for the time, from these painful reflections,
+that work, diverted him, for the [[Time|time]], from these painful reflections,
 and gave his thoughts a more congenial occupation.
 
 They were not all three carried off together, but in two parties;
-Barnaby and his father, going by one road in the centre of a body of
-foot; and Hugh, fast bound upon a horse, and strongly guarded by a troop
+Barnaby and his father, going by one [[Road|road]] in the centre of a [[Body|body]] of
+foot; and Hugh, fast bound upon a [[Horse|horse]], and strongly guarded by a troop
 of cavalry, being taken by another.
 
 They had no opportunity for the least communication, in the short
 interval which preceded their departure; being kept strictly apart. Hugh
 only observed that Barnaby walked with a drooping head among his guard,
 and, without raising his eyes, that he tried to wave his fettered hand
-when he passed. For himself, he buoyed up his courage as he rode along,
+when he passed. For himself, he buoyed up his [[Courage|courage]] as he rode along,
 with the assurance that the mob would force his jail wherever it might
-be, and set him at liberty. But when they got into London, and more
+be, and set him at liberty. But when they got into [[London]], and more
 especially into Fleet Market, lately the stronghold of the rioters,
 where the military were rooting out the last remnant of the crowd, he
-saw that this hope was gone, and felt that he was riding to his death.
+saw that this [[Hope|hope]] was gone, and felt that he was riding to his [[Death|death]].

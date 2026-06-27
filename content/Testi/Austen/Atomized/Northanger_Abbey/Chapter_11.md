@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 10"
+title: "[[Northanger Abbey]] — Chapter 10"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,13 +22,13 @@ CHAPTER 10
 
 The Allens, Thorpes, and Morlands all met in the evening at the
 
-theatre; and, as Catherine and Isabella sat together, there was then an
+theatre; and, as Catherine and [[Isabella]] sat together, there was then an
 
 opportunity for the latter to utter some few of the many thousand
 
 things which had been collecting within her for communication in the
 
-immeasurable length of time which had divided them. “Oh, heavens! my
+immeasurable length of [[Time|time]] which had divided them. “Oh, heavens! my
 
 beloved Catherine, have I got you at last?” was her address on
 
@@ -44,11 +44,11 @@ not ask you, for you look delightfully. You really have done your hair
 
 in a more heavenly style than ever; you mischievous creature, do you
 
-want to attract everybody? I assure you, my brother is quite in love
+want to attract everybody? I assure you, my brother is quite in [[Love|love]]
 
 with you already; and as for Mr. Tilney—but _that_ is a settled
 
-thing—even _your_ modesty cannot doubt his attachment now; his coming
+thing—even _your_ modesty cannot [[Doubt|doubt]] his attachment now; his coming
 
 back to Bath makes it too plain. Oh! what would not I give to see him!
 
@@ -56,7 +56,7 @@ I really am quite wild with impatience. My mother says he is the most
 
 delightful young man in the world; she saw him this morning, you know;
 
-you must introduce him to me. Is he in the house now? Look about, for
+you must introduce him to me. Is he in the [[house]] now? Look about, for
 
 heaven’s sake! i assure you, I can hardly exist till I see him.”
 
@@ -72,7 +72,7 @@ gown? I think it does not look amiss; the sleeves were entirely my own
 
 thought. Do you know, I get so immoderately sick of Bath; your brother
 
-and I were agreeing this morning that, though it is vastly well to be
+and I were agreeing this morning that, though it is vastly [[Well|well]] to be
 
 here for a few weeks, we would not live here for millions. We soon
 
@@ -114,7 +114,7 @@ head.”
 
 
 
-Isabella smiled incredulously and talked the rest of the evening to
+[[Isabella]] smiled incredulously and talked the rest of the evening to
 
 James.
 
@@ -128,11 +128,11 @@ going to the pump-room, she felt some alarm from the dread of a second
 
 prevention. But nothing of that kind occurred, no visitors appeared to
 
-delay them, and they all three set off in good time for the pump-room,
+delay them, and they all three set off in good [[Time|time]] for the pump-room,
 
 where the ordinary course of events and conversation took place; Mr.
 
-Allen, after drinking his glass of water, joined some gentlemen to talk
+Allen, after drinking his glass of [[Water|water]], joined some gentlemen to talk
 
 over the politics of the day and compare the accounts of their
 
@@ -148,9 +148,9 @@ usual place by the side of her friend. James, who was now in constant
 
 attendance, maintained a similar position, and separating themselves
 
-from the rest of their party, they walked in that manner for some time,
+from the rest of their party, they walked in that manner for some [[Time|time]],
 
-till Catherine began to doubt the happiness of a situation which,
+till Catherine began to [[Doubt|doubt]] the happiness of a situation which,
 
 confining her entirely to her friend and brother, gave her very little
 
@@ -174,7 +174,7 @@ entering the room with Mrs. Hughes, and whom she instantly joined, with
 
 a firmer determination to be acquainted, than she might have had
 
-courage to command, had she not been urged by the disappointment of the
+[[Courage|courage]] to command, had she not been urged by the disappointment of the
 
 day before. Miss Tilney met her with great civility, returned her
 
@@ -188,13 +188,13 @@ either which had not been made and used some thousands of times before,
 
 under that roof, in every Bath season, yet the merit of their being
 
-spoken with simplicity and truth, and without personal conceit, might
+spoken with simplicity and [[Truth|truth]], and without personal conceit, might
 
 be something uncommon.
 
 
 
-“How well your brother dances!” was an artless exclamation of
+“How [[Well|well]] your brother dances!” was an artless exclamation of
 
 Catherine’s towards the close of their conversation, which at once
 
@@ -202,7 +202,7 @@ surprised and amused her companion.
 
 
 
-“Henry!” she replied with a smile. “Yes, he does dance very well.”
+“Henry!” she replied with a smile. “Yes, he does [[Dance|dance]] very [[Well|well]].”
 
 
 
@@ -212,7 +212,7 @@ other evening, when he saw me sitting down. But I really had been
 
 engaged the whole day to Mr. Thorpe.” Miss Tilney could only bow. “You
 
-cannot think,” added Catherine after a moment’s silence, “how surprised
+cannot think,” added Catherine after a moment’s [[Silence|silence]], “how surprised
 
 I was to see him again. I felt so sure of his being quite gone away.”
 
@@ -228,7 +228,7 @@ for a couple of days. He came only to engage lodgings for us.”
 
 thought he must be gone. Was not the young lady he danced with on
 
-Monday a Miss Smith?”
+Monday a Miss [[smith|Smith]]?”
 
 
 
@@ -236,7 +236,7 @@ Monday a Miss Smith?”
 
 
 
-“I dare say she was very glad to dance. Do you think her pretty?”
+“I dare say she was very glad to [[Dance|dance]]. Do you think her pretty?”
 
 
 
@@ -254,7 +254,7 @@ Monday a Miss Smith?”
 
 Mrs. Hughes now joined them, and asked Miss Tilney if she was ready to
 
-go. “I hope I shall have the pleasure of seeing you again soon,” said
+go. “I [[Hope|hope]] I shall have the pleasure of seeing you again soon,” said
 
 Catherine. “Shall you be at the cotillion ball to-morrow?”
 
@@ -274,7 +274,7 @@ smallest consciousness of having explained them.
 
 
 
-She went home very happy. The morning had answered all her hopes, and
+She went [[Home|home]] very happy. The morning had answered all her hopes, and
 
 the evening of the following day was now the object of expectation, the
 
@@ -284,15 +284,15 @@ occasion became her chief concern. She cannot be justified in it. Dress
 
 is at all times a frivolous distinction, and excessive solicitude about
 
-it often destroys its own aim. Catherine knew all this very well; her
+it often destroys its own aim. Catherine knew all this very [[Well|well]]; her
 
 great aunt had read her a lecture on the subject only the Christmas
 
-before; and yet she lay awake ten minutes on Wednesday night debating
+before; and yet she lay awake ten minutes on Wednesday [[Night|night]] debating
 
 between her spotted and her tamboured muslin, and nothing but the
 
-shortness of the time prevented her buying a new one for the evening.
+shortness of the [[Time|time]] prevented her buying a new one for the evening.
 
 This would have been an error in judgment, great though not uncommon,
 
@@ -312,19 +312,19 @@ unsusceptible of peculiar tenderness towards the spotted, the sprigged,
 
 the mull, or the jackonet. Woman is fine for her own satisfaction
 
-alone. No man will admire her the more, no woman will like her the
+[[Alone|alone]]. No man will admire her the more, no woman will like her the
 
 better for it. Neatness and fashion are enough for the former, and a
 
 something of shabbiness or impropriety will be most endearing to the
 
-latter. But not one of these grave reflections troubled the
+latter. But not one of these [[Grave|grave]] reflections troubled the
 
 tranquillity of Catherine.
 
 
 
-She entered the rooms on Thursday evening with feelings very different
+She entered the rooms on [[thursday|Thursday]] evening with feelings very different
 
 from what had attended her thither the Monday before. She had then been
 
@@ -332,13 +332,13 @@ exulting in her engagement to Thorpe, and was now chiefly anxious to
 
 avoid his sight, lest he should engage her again; for though she could
 
-not, dared not expect that Mr. Tilney should ask her a third time to
+not, dared not expect that Mr. Tilney should ask her a third [[Time|time]] to
 
-dance, her wishes, hopes, and plans all centred in nothing less. Every
+[[Dance|dance]], her wishes, hopes, and plans all centred in nothing less. Every
 
 young lady may feel for my heroine in this critical moment, for every
 
-young lady has at some time or other known the same agitation. All have
+young lady has at some [[Time|time]] or other known the same agitation. All have
 
 been, or at least all have believed themselves to be, in danger from
 
@@ -348,7 +348,7 @@ anxious for the attentions of someone whom they wished to please. As
 
 soon as they were joined by the Thorpes, Catherine’s agony began; she
 
-fidgeted about if John Thorpe came towards her, hid herself as much as
+fidgeted about if [[John Thorpe]] came towards her, hid herself as much as
 
 possible from his view, and when he spoke to her pretended not to hear
 
@@ -358,9 +358,9 @@ saw nothing of the Tilneys.
 
 
 
-“Do not be frightened, my dear Catherine,” whispered Isabella, “but I
+“Do not be frightened, my dear Catherine,” whispered [[Isabella]], “but I
 
-am really going to dance with your brother again. I declare positively
+am really going to [[Dance|dance]] with your brother again. I declare positively
 
 it is quite shocking. I tell him he ought to be ashamed of himself, but
 
@@ -372,19 +372,19 @@ moment.”
 
 
 
-Catherine had neither time nor inclination to answer. The others walked
+Catherine had neither [[Time|time]] nor inclination to answer. The others walked
 
-away, John Thorpe was still in view, and she gave herself up for lost.
+away, [[John Thorpe]] was still in view, and she gave herself up for lost.
 
 That she might not appear, however, to observe or expect him, she kept
 
-her eyes intently fixed on her fan; and a self-condemnation for her
+her eyes intently fixed on her fan; and a [[Self|self]]-condemnation for her
 
 folly, in supposing that among such a crowd they should even meet with
 
-the Tilneys in any reasonable time, had just passed through her mind,
+the Tilneys in any reasonable [[Time|time]], had just passed through her mind,
 
-when she suddenly found herself addressed and again solicited to dance,
+when she suddenly found herself addressed and again solicited to [[Dance|dance]],
 
 by Mr. Tilney himself. With what sparkling eyes and ready motion she
 
@@ -392,7 +392,7 @@ granted his request, and with how pleasing a flutter of heart she went
 
 with him to the set, may be easily imagined. To escape, and, as she
 
-believed, so narrowly escape John Thorpe, and to be asked, so
+believed, so narrowly escape [[John Thorpe]], and to be asked, so
 
 immediately on his joining her, asked by Mr. Tilney, as if he had
 
@@ -404,15 +404,15 @@ any greater felicity.
 
 Scarcely had they worked themselves into the quiet possession of a
 
-place, however, when her attention was claimed by John Thorpe, who
+place, however, when her attention was claimed by [[John Thorpe]], who
 
 stood behind her. “Heyday, Miss Morland!” said he. “What is the meaning
 
-of this? I thought you and I were to dance together.”
+of this? I thought you and I were to [[Dance|dance]] together.”
 
 
 
-“I wonder you should think so, for you never asked me.”
+“I [[Wonder|wonder]] you should think so, for you never asked me.”
 
 
 
@@ -428,7 +428,7 @@ since Monday. Yes; I remember, I asked you while you were waiting in
 
 the lobby for your cloak. And here have I been telling all my
 
-acquaintance that I was going to dance with the prettiest girl in the
+acquaintance that I was going to [[Dance|dance]] with the prettiest girl in the
 
 room; and when they see you standing up with somebody else, they will
 
@@ -448,13 +448,13 @@ blockheads. What chap have you there?” Catherine satisfied his
 
 curiosity. “Tilney,” he repeated. “Hum—I do not know him. A good figure
 
-of a man; well put together. Does he want a horse? Here is a friend of
+of a man; [[Well|well]] put together. Does he want a [[Horse|horse]]? Here is a friend of
 
 mine, Sam Fletcher, has got one to sell that would suit anybody. A
 
-famous clever animal for the road—only forty guineas. I had fifty minds
+famous clever animal for the [[Road|road]]—only forty guineas. I had fifty minds
 
-to buy it myself, for it is one of my maxims always to buy a good horse
+to buy it myself, for it is one of my maxims always to buy a good [[Horse|horse]]
 
 when I meet with one; but it would not answer my purpose, it would not
 
@@ -462,7 +462,7 @@ do for the field. I would give any money for a real good hunter. I have
 
 three now, the best that ever were backed. I would not take eight
 
-hundred guineas for them. Fletcher and I mean to get a house in
+hundred guineas for them. Fletcher and I mean to get a [[house]] in
 
 Leicestershire, against the next season. It is so d—— uncomfortable,
 
@@ -484,15 +484,15 @@ of my partner from me. We have entered into a contract of mutual
 
 agreeableness for the space of an evening, and all our agreeableness
 
-belongs solely to each other for that time. Nobody can fasten
+belongs solely to each other for that [[Time|time]]. Nobody can fasten
 
 themselves on the notice of one, without injuring the rights of the
 
-other. I consider a country-dance as an emblem of marriage. Fidelity
+other. I consider a country-[[Dance|dance]] as an emblem of [[Marriage|marriage]]. Fidelity
 
 and complaisance are the principal duties of both; and those men who do
 
-not choose to dance or marry themselves, have no business with the
+not choose to [[Dance|dance]] or marry themselves, have no business with the
 
 partners or wives of their neighbours.”
 
@@ -508,7 +508,7 @@ partners or wives of their neighbours.”
 
 “To be sure not. People that marry can never part, but must go and keep
 
-house together. People that dance only stand opposite each other in a
+[[house]] together. People that [[Dance|dance]] only stand opposite each other in a
 
 long room for half an hour.”
 
@@ -540,7 +540,7 @@ anyone else. You will allow all this?”
 
 
 
-“Yes, to be sure, as you state it, all this sounds very well; but still
+“Yes, to be sure, as you state it, all this sounds very [[Well|well]]; but still
 
 they are so very different. I cannot look upon them at all in the same
 
@@ -548,17 +548,17 @@ light, nor think the same duties belong to them.”
 
 
 
-“In one respect, there certainly is a difference. In marriage, the man
+“In one respect, there certainly is a difference. In [[Marriage|marriage]], the man
 
 is supposed to provide for the support of the woman, the woman to make
 
-the home agreeable to the man; he is to purvey, and she is to smile.
+the [[Home|home]] agreeable to the man; he is to purvey, and she is to smile.
 
 But in dancing, their duties are exactly changed; the agreeableness,
 
 the compliance are expected from him, while she furnishes the fan and
 
-the lavender water. _That_, I suppose, was the difference of duties
+the lavender [[Water|water]]. _That_, I suppose, was the difference of duties
 
 which struck you, as rendering the conditions incapable of comparison.”
 
@@ -576,7 +576,7 @@ similarity in the obligations; and may I not thence infer that your
 
 notions of the duties of the dancing state are not so strict as your
 
-partner might wish? Have I not reason to fear that if the gentleman who
+partner might wish? Have I not reason to [[Fear|fear]] that if the gentleman who
 
 spoke to you just now were to return, or if any other gentleman were to
 
@@ -608,7 +608,7 @@ to talk to anybody.”
 
 “Now you have given me a security worth having; and I shall proceed
 
-with courage. Do you find Bath as agreeable as when I had the honour of
+with [[Courage|courage]]. Do you find Bath as agreeable as when I had the [[Honour|honour]] of
 
 making the inquiry before?”
 
@@ -620,7 +620,7 @@ making the inquiry before?”
 
 “More so! take care, or you will forget to be tired of it at the proper
 
-time. You ought to be tired at the end of six weeks.”
+[[Time|time]]. You ought to be tired at the end of six weeks.”
 
 
 
@@ -628,7 +628,7 @@ time. You ought to be tired at the end of six weeks.”
 
 
 
-“Bath, compared with London, has little variety, and so everybody finds
+“Bath, compared with [[London]], has little variety, and so everybody finds
 
 out every year. ‘For six weeks, I allow Bath is pleasant enough; but
 
@@ -636,19 +636,19 @@ beyond _that_, it is the most tiresome place in the world.’ You would
 
 be told so by people of all descriptions, who come regularly every
 
-winter, lengthen their six weeks into ten or twelve, and go away at
+[[Winter|winter]], lengthen their six weeks into ten or twelve, and go away at
 
 last because they can afford to stay no longer.”
 
 
 
-“Well, other people must judge for themselves, and those who go to
+“[[Well]], other people must judge for themselves, and those who go to
 
-London may think nothing of Bath. But I, who live in a small retired
+[[London]] may think nothing of Bath. But I, who live in a small retired
 
 village in the country, can never find greater sameness in such a place
 
-as this than in my own home; for here are a variety of amusements, a
+as this than in my own [[Home|home]]; for here are a variety of amusements, a
 
 variety of things to be seen and done all day long, which I can know
 
@@ -668,7 +668,7 @@ life. One day in the country is exactly like another.”
 
 
 
-“But then you spend your time so much more rationally in the country.”
+“But then you spend your [[Time|time]] so much more rationally in the country.”
 
 
 
@@ -688,7 +688,7 @@ life. One day in the country is exactly like another.”
 
 
 
-“And so I am at home—only I do not find so much of it. I walk about
+“And so I am at [[Home|home]]—only I do not find so much of it. I walk about
 
 here, and so I do there; but here I see a variety of people in every
 
@@ -702,7 +702,7 @@ Mr. Tilney was very much amused.
 
 “Only go and call on Mrs. Allen!” he repeated. “What a picture of
 
-intellectual poverty! however, when you sink into this abyss again, you
+intellectual [[Poverty|poverty]]! however, when you sink into this abyss again, you
 
 will have more to say. You will be able to talk of Bath, and of all
 
@@ -714,7 +714,7 @@ that you did here.”
 
 Mrs. Allen, or anybody else. I really believe I shall always be talking
 
-of Bath, when I am at home again—I _do_ like it so very much. If I
+of Bath, when I am at [[Home|home]] again—I _do_ like it so very much. If I
 
 could but have Papa and Mamma, and the rest of them here, I suppose I
 
@@ -738,13 +738,13 @@ of balls and plays, and everyday sights, is past with them.”
 
 
 
-Here their conversation closed, the demands of the dance becoming now
+Here their conversation closed, the demands of the [[Dance|dance]] becoming now
 
 too importunate for a divided attention.
 
 
 
-Soon after their reaching the bottom of the set, Catherine perceived
+Soon after their reaching the [[Bottom|bottom]] of the set, Catherine perceived
 
 herself to be earnestly regarded by a gentleman who stood among the
 
@@ -756,7 +756,7 @@ life; and with his eye still directed towards her, she saw him
 
 presently address Mr. Tilney in a familiar whisper. Confused by his
 
-notice, and blushing from the fear of its being excited by something
+notice, and blushing from the [[Fear|fear]] of its being excited by something
 
 wrong in her appearance, she turned away her head. But while she did
 
@@ -764,7 +764,7 @@ so, the gentleman retreated, and her partner, coming nearer, said, “I
 
 see that you guess what I have just been asked. That gentleman knows
 
-your name, and you have a right to know his. It is General Tilney, my
+your name, and you have a right to know his. It is [[General Tilney]], my
 
 father.”
 
@@ -774,7 +774,7 @@ Catherine’s answer was only “Oh!”—but it was an “Oh!” expressing
 
 everything needful: attention to his words, and perfect reliance on
 
-their truth. With real interest and strong admiration did her eye now
+their [[Truth|truth]]. With real interest and strong admiration did her eye now
 
 follow the General, as he moved through the crowd, and “How handsome a
 
@@ -802,20 +802,20 @@ off—let us go to-morrow.” This was readily agreed to, with only a
 
 proviso of Miss Tilney’s, that it did not rain, which Catherine was
 
-sure it would not. At twelve o’clock, they were to call for her in
+sure it would not. At twelve o’[[Clock|clock]], they were to call for her in
 
-Pulteney Street; and “Remember—twelve o’clock,” was her parting speech
+Pulteney Street; and “Remember—twelve o’[[Clock|clock]],” was her parting speech
 
 to her new friend. Of her other, her older, her more established
 
-friend, Isabella, of whose fidelity and worth she had enjoyed a
+friend, [[Isabella]], of whose fidelity and worth she had enjoyed a
 
 fortnight’s experience, she scarcely saw anything during the evening.
 
-Yet, though longing to make her acquainted with her happiness, she
+Yet, though [[Longing|longing]] to make her acquainted with her happiness, she
 
 cheerfully submitted to the wish of Mr. Allen, which took them rather
 
 early away, and her spirits danced within her, as she danced in her
 
-chair all the way home.
+chair all the way [[Home|home]].

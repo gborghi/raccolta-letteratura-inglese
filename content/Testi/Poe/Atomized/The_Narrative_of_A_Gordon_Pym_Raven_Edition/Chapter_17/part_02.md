@@ -20,7 +20,7 @@ tags:
 
       January 17.—This day was full of incident. Innumerable flights of
 
-      birds flew over us from the southward, and several were shot from
+      [[Birds|birds]] flew over us from the southward, and several were shot from
 
       the deck, one of them, a species of pelican, proved to be
 
@@ -38,15 +38,15 @@ tags:
 
       possession of a gigantic creature of the race of the Arctic bear,
 
-      but far exceeding in size the largest of these animals. Being
+      but far exceeding in size the largest of these [[Animals|animals]]. Being
 
-      well armed, we made no scruple of attacking it at once. Several
+      [[Well|well]] armed, we made no scruple of attacking it at once. Several
 
       shots were fired in quick succession, the most of which took
 
-      effect, apparently, in the head and body. Nothing discouraged,
+      effect, apparently, in the head and [[Body|body]]. Nothing discouraged,
 
-      however, the monster threw himself from the ice, and swam with
+      however, the [[Monster|monster]] threw himself from the ice, and swam with
 
       open jaws, to the boat in which were Peters and myself. Owing to
 
@@ -68,7 +68,7 @@ tags:
 
       reaching the spinal marrow at a blow. The brute tumbled into the
 
-      sea lifeless, and without a struggle, rolling over Peters as he
+      sea lifeless, and without a struggle, [[rolling]] over Peters as he
 
       fell. The latter soon recovered himself, and a rope being thrown
 
@@ -80,7 +80,7 @@ tags:
 
       his greatest length. His wool was perfectly white, and very
 
-      coarse, curling tightly. The eyes were of a blood red, and larger
+      coarse, curling tightly. The eyes were of a [[Blood|blood]] red, and larger
 
       than those of the Arctic bear, the snout also more rounded,
 
@@ -112,7 +112,7 @@ tags:
 
       corded bales of cotton. Around this ledge to the westward is a
 
-      small bay, at the bottom of which our boats effected a convenient
+      small bay, at the [[Bottom|bottom]] of which our boats effected a convenient
 
       landing.
 
@@ -142,7 +142,7 @@ tags:
 
       situation of the islet (to which Captain Guy gave the name of
 
-      Bennet’s Islet, in honour of his partner in the ownership of the
+      Bennet’s Islet, in [[Honour|honour]] of his partner in the ownership of the
 
       schooner) is 82 degrees 50’ S. latitude, 42 degrees 20’ W.
 
@@ -160,7 +160,7 @@ tags:
 
       surprising, that the temperature of the air, and latterly of the
 
-      water, became milder. The weather might even be called pleasant,
+      [[Water|water]], became milder. The weather might even be called pleasant,
 
       and we had a steady but very gentle breeze always from some
 
@@ -170,7 +170,7 @@ tags:
 
       horizon—this, however, was invariably of brief duration. Two
 
-      difficulties alone presented themselves to our view; we were
+      difficulties [[Alone|alone]] presented themselves to our view; we were
 
       getting short of fuel, and symptoms of scurvy had occurred among
 
@@ -210,6 +210,6 @@ tags:
 
       been instrumental, however remotely, in opening to the eye of
 
-      science one of the most intensely exciting secrets which has ever
+      science one of the most intensely exciting [[Secrets|secrets]] which has ever
 
       engrossed its attention.

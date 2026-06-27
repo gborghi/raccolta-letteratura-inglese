@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 66 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 66 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,71 +17,71 @@ tags:
 Sensible, from a strange lightness in his head, and a difficulty in
 fixing his thoughts on anything, even to the extent of bearing his
 companions in his mind for a minute together without looking at them,
-that his brain was affected by the agitation and suffering through which
+that his brain was affected by the agitation and [[Suffering|suffering]] through which
 he had passed, and to which he was still a prey, Mr Haredale let them
 lead him where they would. As they went along, he was conscious of
-having no command over what he said or thought, and that he had a fear
+having no command over what he said or thought, and that he had a [[Fear|fear]]
 of going mad.
 
 The distiller lived, as he had told him when they first met, on Holborn
-Hill, where he had great storehouses and drove a large trade. They
-approached his house by a back entrance, lest they should attract the
+[[Hill]], where he had great storehouses and drove a large trade. They
+approached his [[house]] by a back entrance, lest they should attract the
 notice of the crowd, and went into an upper room which faced towards the
 street; the windows, however, in common with those of every other room
-in the house, were boarded up inside, in order that, out of doors, all
+in the [[house]], were boarded up inside, in order that, out of doors, all
 might appear quite dark.
 
 They laid him on a sofa in this chamber, perfectly insensible; but John
 immediately fetching a surgeon, who took from him a large quantity of
-blood, he gradually came to himself. As he was, for the time, too weak
+[[Blood|blood]], he gradually came to himself. As he was, for the [[Time|time]], too weak
 to walk, they had no difficulty in persuading him to remain there all
-night, and got him to bed without loss of a minute. That done, they
+[[Night|night]], and got him to bed without loss of a minute. That done, they
 gave him cordial and some toast, and presently a pretty strong
 composing-draught, under the influence of which he soon fell into a
-lethargy, and, for a time, forgot his troubles.
+lethargy, and, for a [[Time|time]], forgot his troubles.
 
 The vintner, who was a very hearty old fellow and a worthy man, had
 no thoughts of going to bed himself, for he had received several
 threatening warnings from the rioters, and had indeed gone out that
 evening to try and gather from the conversation of the mob whether his
-house was to be the next attacked. He sat all night in an easy-chair in
-the same room--dozing a little now and then--and received from time
-to time the reports of John Grueby and two or three other trustworthy
+[[house]] was to be the next attacked. He sat all [[Night|night]] in an easy-chair in
+the same room--dozing a little now and then--and received from [[Time|time]]
+to [[Time|time]] the reports of John Grueby and two or three other trustworthy
 persons in his employ, who went out into the streets as scouts; and
 for whose entertainment an ample allowance of good cheer (which the old
 vintner, despite his anxiety, now and then attacked himself) was set
 forth in an adjoining chamber.
 
-These accounts were of a sufficiently alarming nature from the first;
-but as the night wore on, they grew so much worse, and involved such a
+These accounts were of a sufficiently alarming [[Nature|nature]] from the first;
+but as the [[Night|night]] wore on, they grew so much worse, and involved such a
 fearful amount of riot and destruction, that in comparison with these
 new tidings all the previous disturbances sunk to nothing.
 
 The first intelligence that came, was of the taking of Newgate, and the
 escape of all the prisoners, whose track, as they made up Holborn and
 into the adjacent streets, was proclaimed to those citizens who were
-shut up in their houses, by the rattling of their chains, which formed
+shut up in their houses, by the rattling of their [[Chains|chains]], which formed
 a dismal concert, and was heard in every direction, as though so many
 forges were at work. The flames too, shone so brightly through the
 vintner’s skylights, that the rooms and staircases below were nearly as
 light as in broad day; while the distant shouting of the mob seemed to
 shake the very walls and ceilings.
 
-At length they were heard approaching the house, and some minutes of
+At length they were heard approaching the [[house]], and some minutes of
 terrible anxiety ensued. They came close up, and stopped before it;
 but after giving three loud yells, went on. And although they returned
-several times that night, creating new alarms each time, they did
+several times that [[Night|night]], creating new alarms each [[Time|time]], they did
 nothing there; having their hands full. Shortly after they had gone away
-for the first time, one of the scouts came running in with the news that
-they had stopped before Lord Mansfield’s house in Bloomsbury Square.
+for the first [[Time|time]], one of the scouts came running in with the news that
+they had stopped before Lord Mansfield’s [[house]] in Bloomsbury Square.
 
 Soon afterwards there came another, and another, and then the first
 returned again, and so, by little and little, their tale was this:--That
-the mob gathering round Lord Mansfield’s house, had called on those
+the mob gathering round Lord Mansfield’s [[house]], had called on those
 within to open the door, and receiving no reply (for Lord and Lady
 Mansfield were at that moment escaping by the backway), forced an
 entrance according to their usual custom. That they then began to
-demolish the house with great fury, and setting fire to it in several
+demolish the [[house]] with great fury, and setting [[Fire|fire]] to it in several
 parts, involved in a common ruin the whole of the costly furniture, the
 plate and jewels, a beautiful gallery of pictures, the rarest collection
 of manuscripts ever possessed by any one private person in the world,
@@ -89,10 +89,10 @@ and worse than all, because nothing could replace this loss, the great
 Law Library, on almost every page of which were notes in the Judge’s
 own hand, of inestimable value,--being the results of the study and
 experience of his whole life. That while they were howling and exulting
-round the fire, a troop of soldiers, with a magistrate among them, came
-up, and being too late (for the mischief was by that time done), began
+round the [[Fire|fire]], a troop of soldiers, with a magistrate among them, came
+up, and being too late (for the mischief was by that [[Time|time]] done), began
 to disperse the crowd. That the Riot Act being read, and the crowd still
-resisting, the soldiers received orders to fire, and levelling their
+resisting, the soldiers received orders to [[Fire|fire]], and levelling their
 muskets shot dead at the first discharge six men and a woman, and
 wounded many persons; and loading again directly, fired another volley,
 but over the people’s heads it was supposed, as none were seen to fall.
@@ -109,41 +109,41 @@ The scouts reported further, that this party meeting with some others
 who had been at similar work elsewhere, they all united into one, and
 drafting off a few men with the killed and wounded, marched away to Lord
 Mansfield’s country seat at Caen Wood, between Hampstead and Highgate;
-bent upon destroying that house likewise, and lighting up a great fire
-there, which from that height should be seen all over London. But in
-this, they were disappointed, for a party of horse having arrived before
+bent upon destroying that [[house]] likewise, and lighting up a great [[Fire|fire]]
+there, which from that height should be seen all over [[London]]. But in
+this, they were disappointed, for a party of [[Horse|horse]] having arrived before
 them, they retreated faster than they went, and came straight back to
 town.
 
 There being now a great many parties in the streets, each went to
-work according to its humour, and a dozen houses were quickly blazing,
+work according to its [[Humour|humour]], and a dozen houses were quickly blazing,
 including those of Sir John Fielding and two other justices, and four
-in Holborn--one of the greatest thoroughfares in London--which were all
-burning at the same time, and burned until they went out of themselves,
+in Holborn--one of the greatest thoroughfares in [[London]]--which were all
+burning at the same [[Time|time]], and burned until they went out of themselves,
 for the people cut the engine hose, and would not suffer the firemen to
-play upon the flames. At one house near Moorfields, they found in one of
-the rooms some canary birds in cages, and these they cast into the fire
+play upon the flames. At one [[house]] near Moorfields, they found in one of
+the rooms some canary [[Birds|birds]] in cages, and these they cast into the [[Fire|fire]]
 alive. The poor little creatures screamed, it was said, like infants,
 when they were flung upon the blaze; and one man was so touched that he
 tried in vain to save them, which roused the indignation of the crowd,
 and nearly cost him his life.
 
-At this same house, one of the fellows who went through the rooms,
+At this same [[house]], one of the fellows who went through the rooms,
 breaking the furniture and helping to destroy the building, found a
-child’s doll--a poor toy--which he exhibited at the window to the mob
+[[Child|child]]’s doll--a poor toy--which he exhibited at the [[Window|window]] to the mob
 below, as the image of some unholy saint which the late occupants had
 worshipped. While he was doing this, another man with an equally tender
-conscience (they had both been foremost in throwing down the canary
-birds for roasting alive), took his seat on the parapet of the house,
+[[Conscience|conscience]] (they had both been foremost in throwing down the canary
+[[Birds|birds]] for roasting alive), took his seat on the parapet of the [[house]],
 and harangued the crowd from a pamphlet circulated by the Association,
-relative to the true principles of Christianity! Meanwhile the Lord
+relative to the true principles of [[Christianity]]! Meanwhile the Lord
 Mayor, with his hands in his pockets, looked on as an idle man might
 look at any other show, and seemed mightily satisfied to have got a good
 place.
 
 Such were the accounts brought to the old vintner by his servants as he
 sat at the side of Mr Haredale’s bed, having been unable even to doze,
-after the first part of the night; too much disturbed by his own fears;
+after the first part of the [[Night|night]]; too much disturbed by his own fears;
 by the cries of the mob, the light of the fires, and the firing of the
 soldiers. Such, with the addition of the release of all the prisoners in
 the New Jail at Clerkenwell, and as many robberies of passengers in

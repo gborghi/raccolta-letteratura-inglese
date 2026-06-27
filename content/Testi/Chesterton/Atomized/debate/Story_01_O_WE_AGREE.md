@@ -1,5 +1,5 @@
 ---
-title: "debate — O WE AGREE?"
+title: "[[debate]] — O WE AGREE?"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/debate-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 DO WE AGREE?
 
-A DEBATE BETWEEN G. K. CHESTERTON and BERNARD SHAW
+A [[debate|DEBATE]] BETWEEN G. K. CHESTERTON and BERNARD [[Shaw|SHAW]]
 
 with
 
@@ -29,6 +29,6 @@ A PREFATORY NOTE
 
 In justice to all concerned I feel it to be my duty to state frankly
 that this account of a public discussion between Mr. Chesterton
-and Mr. Shaw is something less than a verbatim report.
+and Mr. [[Shaw]] is something less than a verbatim report.
 But with some assistance from the debaters it has been possible
 to save enough from oblivion to justify publication.

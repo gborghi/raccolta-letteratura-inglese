@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 5)"
+title: "[[Shirley]] — Chapter 7 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,7 +28,7 @@ liked to treat them to a glass of his best), and through the closed
 
 doors Caroline heard their boyish laughter, and the vacant cackle of
 
-their voices. Her fear was lest they should stay to tea, for she had no
+their voices. Her [[Fear|fear]] was lest they should stay to tea, for she had no
 
 pleasure in making tea for that particular trio. What distinctions
 
@@ -44,13 +44,13 @@ Not only was she destined to be favoured with their clerical company,
 
 but Fortune was at this moment bringing her four other guests--lady
 
-guests, all packed in a pony-phaeton now rolling somewhat heavily along
+guests, all packed in a pony-phaeton now [[rolling]] somewhat heavily along
 
-the road from Whinbury: an elderly lady and three of her buxom daughters
+the [[Road|road]] from Whinbury: an elderly lady and three of her buxom daughters
 
 were coming to see her "in a friendly way," as the custom of that
 
-neighbourhood was. Yes, a fourth time the bell clanged. Fanny brought
+neighbourhood was. Yes, a fourth [[Time|time]] the bell clanged. Fanny brought
 
 the present announcement to the drawing-room,--
 
@@ -82,7 +82,7 @@ not altogether insincere profession of piety, and was greatly given to
 
 hospitality towards the clergy. In sailed her three daughters, a showy
 
-trio, being all three well-grown, and more or less handsome.
+trio, being all three [[Well|well]]-grown, and more or less handsome.
 
 
 
@@ -106,13 +106,13 @@ are wrong."
 
 Mrs. and Misses Sykes, far from being exceptions to this observation,
 
-were pointed illustrations of its truth. Miss Mary--a well-looked,
+were pointed illustrations of its [[Truth|truth]]. Miss Mary--a [[Well|well]]-looked,
 
-well-meant, and, on the whole, well-dispositioned girl--wore her
+[[Well|well]]-meant, and, on the whole, [[Well|well]]-dispositioned girl--wore her
 
 complacency with some state, though without harshness. Miss Harriet--a
 
-beauty--carried it more overbearingly; she looked high and cold. Miss
+[[Beauty|beauty]]--carried it more overbearingly; she looked high and cold. Miss
 
 Hannah, who was conceited, dashing, pushing, flourished hers consciously
 
@@ -124,11 +124,11 @@ religious fame.
 
 The reception was got through somehow. Caroline "was glad to see them"
 
-(an unmitigated fib), hoped they were well, hoped Mrs. Sykes's cough was
+(an unmitigated fib), hoped they were [[Well|well]], hoped Mrs. Sykes's cough was
 
 better (Mrs. Sykes had had a cough for the last twenty years), hoped the
 
-Misses Sykes had left their sisters at home well; to which inquiry the
+Misses Sykes had left their sisters at [[Home|home]] [[Well|well]]; to which inquiry the
 
 Misses Sykes, sitting on three chairs opposite the music-stool, whereon
 
@@ -142,17 +142,17 @@ her the trouble by depositing herself therein--the Misses Sykes replied
 
 to Caroline by one simultaneous bow, very majestic and mighty awful. A
 
-pause followed. This bow was of a character to ensure silence for the
+pause followed. This bow was of a character to ensure [[Silence|silence]] for the
 
 next five minutes, and it did. Mrs. Sykes then inquired after Mr.
 
 Helstone, and whether he had had any return of rheumatism, and whether
 
-preaching twice on a Sunday fatigued him, and if he was capable of
+preaching twice on a [[Sunday]] fatigued him, and if he was capable of
 
 taking a full service now; and on being assured he was, she and all her
 
-daughters, combining in chorus, expressed their opinion that he was "a
+daughters, combining in [[Chorus|chorus]], expressed their opinion that he was "a
 
 wonderful man of his years."
 
@@ -164,13 +164,13 @@ Pause second.
 
 Miss Mary, getting up the steam in her turn, asked whether Caroline had
 
-attended the Bible Society meeting which had been held at Nunnely last
+attended the [[Bible]] Society meeting which had been held at Nunnely last
 
-Thursday night. The negative answer which truth compelled Caroline to
+[[thursday|Thursday]] [[Night|night]]. The negative answer which [[Truth|truth]] compelled Caroline to
 
-utter--for last Thursday evening she had been sitting at home, reading a
+utter--for last [[thursday|Thursday]] evening she had been sitting at [[Home|home]], reading a
 
-novel which Robert had lent her--elicited a simultaneous expression of
+[[Novel|novel]] which Robert had lent her--elicited a simultaneous expression of
 
 surprise from the lips of the four ladies.
 
@@ -212,7 +212,7 @@ Broadbent, she could not give her opinion. Pause third came on. During
 
 its continuance, Caroline was feeling at her heart's core what a
 
-dreaming fool she was, what an unpractical life she led, how little
+dreaming [[Fool|fool]] she was, what an unpractical life she led, how little
 
 fitness there was in her for ordinary intercourse with the ordinary
 

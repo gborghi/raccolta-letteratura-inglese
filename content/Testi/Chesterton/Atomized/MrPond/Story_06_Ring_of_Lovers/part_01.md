@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Ring of Lovers (part 1)"
+title: "[[MrPond]] — Ring of [[lovers|Lovers]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-RING OF LOVERS
+RING OF [[lovers|LOVERS]]
 
 
 
@@ -34,7 +34,7 @@ Captain Gahagan waved a gloved hand as in courteous acknowledgement
 
 of anything anybody liked to say; he had an especially flamboyant
 
-flower in his coat and looked unusually gay.  But Sir Hubert
+flower in his coat and looked unusually gay.  But Sir [[Hubert]]
 
 Wotton, the third party at the little conference, sat up.  For he
 
@@ -42,7 +42,7 @@ followed the flow of words with tireless, intelligent attention,
 
 while Gahagan, though radiant, seemed rather abstracted; and these
 
-abrupt absurdities always brought Sir Hubert up standing.
+abrupt absurdities always brought Sir [[Hubert]] up standing.
 
 
 
@@ -62,13 +62,13 @@ larger than the last; still less to inform us that each reptile in
 
 turn swallowed the last one whole; and that the last of all was
 
-opening its mouth to swallow the ship, when he saw it was only a
+opening its mouth to [[Swallow|swallow]] the [[Ship|ship]], when he saw it was only a
 
-yawn after too heavy a meal, and the monster suddenly went to
+yawn after too heavy a meal, and the [[Monster|monster]] suddenly went to
 
-sleep.  I will not dwell on the mathematical symmetry with which
+[[Sleep|sleep]].  I will not dwell on the mathematical symmetry with which
 
-snake within snake yawned, and snake within snake went to sleep,
+snake within snake yawned, and snake within snake went to [[Sleep|sleep]],
 
 all except the smallest, which had had no dinner and walked out to
 
@@ -108,7 +108,7 @@ latitudinarian clergyman is but little likely to advance him in his
 
 present profession, or to fit him for his present pursuits.  I
 
-suspect the story was partially a parable or allegory.  But anyhow,
+suspect the story was partially a [[Parable|parable]] or [[Allegory|allegory]].  But anyhow,
 
 it was quite unnecessary and it was obviously untrue.  And when a
 
@@ -130,13 +130,13 @@ story that really is true?"
 
 
 
-"Because it would be so very like a romance," retorted Wotton.
+"Because it would be so very like a [[Romance|romance]]," retorted Wotton.
 
 
 
 "But don't you think," asked the Captain thoughtfully, "that real
 
-life sometimes is like a romance?"
+life sometimes is like a [[Romance|romance]]?"
 
 
 
@@ -154,7 +154,7 @@ this.  Life is artistic in parts, but not as a whole; it's like
 
 broken bits of different works of art.  When everything hangs
 
-together, and it all fits in, we doubt.  I might even believe that
+together, and it all fits in, we [[Doubt|doubt]].  I might even believe that
 
 Gahagan saw six sea-serpents; but not that each was larger than the
 
@@ -162,9 +162,9 @@ last.  If he'd said there was first a large one and then a little
 
 one and then a larger one, he might have taken us in.  We often say
 
-that one social situation is like being in a novel; but it doesn't
+that one social situation is like being in a [[Novel|novel]]; but it doesn't
 
-finish like the novel--at least, not the same novel."
+finish like the [[Novel|novel]]--at least, not the same [[Novel|novel]]."
 
 
 
@@ -174,15 +174,15 @@ possessed of a devil in a quiet way.  It's queer you should say
 
 that; because my experience was just like that.  With this
 
-difference; each familiar melodrama broke off; but only turned to
+difference; each familiar [[Melodrama|melodrama]] broke off; but only turned to
 
-blacker melodrama--or tragedy.  Again and again, in this affair, I
+blacker [[Melodrama|melodrama]]--or [[Tragedy|tragedy]].  Again and again, in this affair, I
 
 thought I was in a magazine story; and then it turned to quite
 
-another story.  Sort of dissolving view, or a nightmare.
+another story.  Sort of dissolving view, or a [[nightmare]].
 
-Especially a nightmare."
+Especially a [[nightmare]]."
 
 
 
@@ -216,13 +216,13 @@ morning."
 
 face.  "Congratulations, of course, and all that.  But what has it
 
-to do with the nightmare?"
+to do with the [[nightmare]]?"
 
 
 
 "There is a connexion," said Gahagan dreamily.  "But you want the
 
-horrible story and not the happy one.  Well, it was a bit of a
+horrible story and not the happy one.  [[Well]], it was a bit of a
 
 mystery, at least to me; but I understood it at last."
 
@@ -260,7 +260,7 @@ way, physical and mental, a 'long-headed' person.  You've heard of
 
 a hatchet-face; his was a hatchet that cut off his own head--or
 
-rather his own body, abolishing the slighter and more insignificant
+rather his own [[Body|body]], abolishing the slighter and more insignificant
 
 figure.  He is an economist and he gave one the impression of being
 

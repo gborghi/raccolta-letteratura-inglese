@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 7)"
+title: "[[Martin Chuzzlewit]] — Chapter 39: THIRTY NINE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -15,12 +15,12 @@ tags:
 
 
 They made a pretty wide circuit in going back to Islington, as they had
-time to spare, and Tom was never tired of looking about him. It was well
+[[Time|time]] to spare, and Tom was never tired of looking about him. It was [[Well|well]]
 he had John Westlock for his companion, for most people would have
 been weary of his perpetual stoppages at shop-windows, and his frequent
 dashes into the crowded carriage-way at the peril of his life, to get
 the better view of church steeples, and other public buildings. But John
-was charmed to see him so much interested, and every time Tom came back
+was charmed to see him so much interested, and every [[Time|time]] Tom came back
 with a beaming face from among the wheels of carts and hackney-coaches,
 wholly unconscious of the personal congratulations addressed to him by
 the drivers, John seemed to like him better than before.
@@ -42,20 +42,20 @@ The table was already spread for dinner; and though it was spread with
 nothing very choice in the way of glass or linen, and with green-handled
 knives, and very mountebanks of two-pronged forks, which seemed to be
 trying how far asunder they could possibly stretch their legs without
-converting themselves into double the number of iron toothpicks, it
+converting themselves into [[Double|double]] the number of iron toothpicks, it
 wanted neither damask, silver, gold, nor china; no, nor any other
 garniture at all. There it was; and, being there, nothing else would
-have done as well.
+have done as [[Well|well]].
 
-The success of that initiative dish; that first experiment of hers in
+The [[success]] of that initiative dish; that first experiment of hers in
 cookery; was so entire, so unalloyed and perfect, that John Westlock and
-Tom agreed she must have been studying the art in secret for a long time
+Tom agreed she must have been studying the art in secret for a long [[Time|time]]
 past; and urged her to make a full confession of the fact. They were
 exceedingly merry over this jest, and many smart things were said
 concerning it; but John was not as fair in his behaviour as might
-have been expected, for, after luring Tom Pinch on for a long time,
+have been expected, for, after luring [[Tom Pinch]] on for a long [[Time|time]],
 he suddenly went over to the enemy, and swore to everything his sister
-said. However, as Tom observed the same night before going to bed, it
+said. However, as Tom observed the same [[Night|night]] before going to bed, it
 was only in joke, and John had always been famous for being polite
 to ladies, even when he was quite a boy. Ruth said, ‘Oh! indeed!’ She
 didn’t say anything else.
@@ -67,16 +67,16 @@ daughters, and what a change had fallen on the younger, they were very
 serious.
 
 John Westlock became quite absorbed in her fortunes; asking many
-questions of Tom Pinch about her marriage, inquiring whether her husband
+questions of [[Tom Pinch]] about her [[Marriage|marriage]], inquiring whether her husband
 was the gentleman whom Tom had brought to dine with him at Salisbury;
 in what degree of relationship they stood towards each other, being
 different persons; and taking, in short, the greatest interest in the
 subject. Tom then went into it, at full length; he told how Martin had
-gone abroad, and had not been heard of for a long time; how Dragon Mark
+gone abroad, and had not been heard of for a long [[Time|time]]; how Dragon Mark
 had borne him company; how Mr Pecksniff had got the poor old doting
 grandfather into his power; and how he basely sought the hand of Mary
 Graham. But not a word said Tom of what lay hidden in his heart; his
-heart, so deep, and true, and full of honour, and yet with so much room
+heart, so deep, and true, and full of [[Honour|honour]], and yet with so much room
 for every gentle and unselfish thought; not a word.
 
 Tom, Tom! The man in all this world most confident in his sagacity and
@@ -85,19 +85,19 @@ other men, and having most to show in gold and silver as the gains
 belonging to his creed; the meekest favourer of that wise doctrine,
 Every man for himself, and God for us all (there being high wisdom in
 the thought that the Eternal Majesty of Heaven ever was, or can be, on
-the side of selfish lust and love!); shall never find, oh, never find,
-be sure of that, the time come home to him, when all his wisdom is an
+the side of selfish lust and [[Love|love]]!); shall never find, oh, never find,
+be sure of that, the [[Time|time]] come [[Home|home]] to him, when all his wisdom is an
 idiot’s folly, weighed against a simple heart!
 
-Well, well, Tom, it was simple too, though simple in a different way, to
+[[Well]], [[Well|well]], Tom, it was simple too, though simple in a different way, to
 be so eager touching that same theatre, of which John said, when tea was
 done, he had the absolute command, so far as taking parties in without
 the payment of a sixpence was concerned; and simpler yet, perhaps, never
-to suspect that when he went in first, alone, he paid the money! Simple
+to suspect that when he went in first, [[Alone|alone]], he paid the money! Simple
 in thee, dear Tom, to laugh and cry so heartily at such a sorry show,
-so poorly shown; simple to be so happy and loquacious trudging home
+so poorly shown; simple to be so happy and loquacious trudging [[Home|home]]
 with Ruth; simple to be so surprised to find that merry present of
 a cookery-book awaiting her in the parlour next morning, with the
 beef-steak-pudding-leaf turned down and blotted out. There! Let
-the record stand! Thy quality of soul was simple, simple, quite
-contemptible, Tom Pinch!
+the record stand! Thy quality of [[Soul|soul]] was simple, simple, quite
+contemptible, [[Tom Pinch]]!

@@ -17,10 +17,10 @@ tags:
 ‘What do you want here, you scoundrel?’ exclaimed Mr. Alexander Trott,
 with a proper appearance of indignation at his detention.
 
-The boots beat time with his head, as he looked gently round at Mr.
+The boots beat [[Time|time]] with his head, as he looked gently round at Mr.
 Trott with a smile of pity, and whistled an _adagio_ movement.
 
-‘Do you attend in this room by Mr. Overton’s desire?’ inquired Trott,
+‘Do you attend in this room by Mr. Overton’s [[Desire|desire]]?’ inquired Trott,
 rather astonished at the man’s demeanour.
 
 ‘Keep yourself to yourself, young feller,’ calmly responded the boots,
@@ -56,10 +56,10 @@ tell them to send somebody else.’
 ‘Leave the room!’ shouted Trott, ringing the bell violently: for he
 began to be alarmed on a new score.
 
-‘Leave that ’ere bell alone, you wretched loo-nattic!’ said the boots,
+‘Leave that ’ere bell [[Alone|alone]], you wretched loo-nattic!’ said the boots,
 suddenly forcing the unfortunate Trott back into his chair, and
 brandishing the stick aloft. ‘Be quiet, you miserable object, and don’t
-let everybody know there’s a madman in the house.’
+let everybody know there’s a madman in the [[house]].’
 
 ‘He _is_ a madman! He _is_ a madman!’ exclaimed the terrified Mr.
 Trott, gazing on the one eye of the red-headed boots with a look of
@@ -73,17 +73,17 @@ towards the bell-handle] ‘I caught you there! did I?’
 ‘Spare my life!’ exclaimed Trott, raising his hands imploringly.
 
 ‘I don’t want your life,’ replied the boots, disdainfully, ‘though I
-think it ’ud be a charity if somebody took it.’
+think it ’ud be a [[Charity|charity]] if somebody took it.’
 
 ‘No, no, it wouldn’t,’ interrupted poor Mr. Trott, hurriedly, ‘no, no,
 it wouldn’t! I—I-’d rather keep it!’
 
-‘O werry well,’ said the boots: ‘that’s a mere matter of taste—ev’ry
+‘O werry [[Well|well]],’ said the boots: ‘that’s a mere matter of taste—ev’ry
 one to his liking. Hows’ever, all I’ve got to say is this here: You sit
 quietly down in that chair, and I’ll sit hoppersite you here, and if
 you keep quiet and don’t stir, I won’t damage you; but, if you move
-hand or foot till half-past twelve o’clock, I shall alter the
-expression of your countenance so completely, that the next time you
+hand or foot till half-past twelve o’[[Clock|clock]], I shall alter the
+expression of your countenance so completely, that the next [[Time|time]] you
 look in the glass you’ll ask vether you’re gone out of town, and ven
 you’re likely to come back again. So sit down.’
 
@@ -109,7 +109,7 @@ unfailing effect in controlling mad people, he kept his solitary organ
 of vision constantly fixed on Mr. Alexander Trott. That unfortunate
 individual stared at his companion in his turn, until his features grew
 more and more indistinct—his hair gradually less red—and the room more
-misty and obscure. Mr. Alexander Trott fell into a sound sleep, from
+misty and obscure. Mr. Alexander Trott fell into a sound [[Sleep|sleep]], from
 which he was awakened by a rumbling in the street, and a cry of
 ‘Chaise-and-four for number twenty-five!’ A bustle on the stairs
 succeeded; the room door was hastily thrown open; and Mr. Joseph
@@ -127,16 +127,16 @@ madman—a madman—a raging, ravaging, furious madman.’
 thinks other people’s mad.’
 
 ‘Poor dear!’ ejaculated Mr. Alexander Trott. ‘What the devil do you
-mean by poor dear! Are you the landlady of this house?’
+mean by poor dear! Are you the landlady of this [[house]]?’
 
 ‘Yes, yes,’ replied the stout old lady, ‘don’t exert yourself, there’s
 a dear! Consider your health, now; do.’
 
-‘Exert myself!’ shouted Mr. Alexander Trott; ‘it’s a mercy, ma’am, that
+‘Exert myself!’ shouted Mr. Alexander Trott; ‘it’s a [[Mercy|mercy]], ma’am, that
 I have any breath to exert myself with! I might have been assassinated
-three hours ago by that one-eyed monster with the oakum head. How dare
+three hours ago by that one-eyed [[Monster|monster]] with the oakum head. How dare
 you have a madman, ma’am—how dare you have a madman, to assault and
-terrify the visitors to your house?’
+terrify the visitors to your [[house]]?’
 
 ‘I’ll never have another,’ said Mrs. Williamson, casting a look of
 reproach at the mayor.
@@ -146,5 +146,5 @@ Alexander Trott in a thick travelling-cloak.
 
 ‘Capital, sir!’ exclaimed Trott, aloud; ‘it’s horrible. The very
 recollection makes me shudder. I’d rather fight four duels in three
-hours, if I survived the first three, than I’d sit for that time face
+hours, if I survived the first three, than I’d sit for that [[Time|time]] face
 to face with a madman.’

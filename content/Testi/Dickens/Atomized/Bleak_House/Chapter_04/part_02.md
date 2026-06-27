@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 4 (part 2)"
+title: "Bleak [[house|House]] — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,12 +15,12 @@ tags:
 
 
 Mrs. Jellyby, whose face reflected none of the uneasiness which we
-could not help showing in our own faces as the dear child’s head
-recorded its passage with a bump on every stair—Richard afterwards
+could not help showing in our own faces as the dear [[Child|child]]’s head
+recorded its passage with a bump on every stair—[[Richard]] afterwards
 said he counted seven, besides one for the landing—received us with
 perfect equanimity. She was a pretty, very diminutive, plump woman of
 from forty to fifty, with handsome eyes, though they had a curious
-habit of seeming to look a long way off. As if—I am quoting Richard
+habit of seeming to look a long way off. As if—I am quoting [[Richard]]
 again—they could see nothing nearer than Africa!
 
 “I am very glad indeed,” said Mrs. Jellyby in an agreeable voice, “to
@@ -35,13 +35,13 @@ shawl in which she had been loosely muffled dropped onto her chair
 when she advanced to us; and as she turned to resume her seat, we
 could not help noticing that her dress didn’t nearly meet up the back
 and that the open space was railed across with a lattice-work of
-stay-lace—like a summer-house.
+stay-lace—like a [[Summer|summer]]-[[house]].
 
 The room, which was strewn with papers and nearly filled by a great
 writing-table covered with similar litter, was, I must say, not only
 very untidy but very dirty. We were obliged to take notice of that
 with our sense of sight, even while, with our sense of hearing, we
-followed the poor child who had tumbled downstairs: I think into the
+followed the poor [[Child|child]] who had tumbled downstairs: I think into the
 back kitchen, where somebody seemed to stifle him.
 
 But what principally struck us was a jaded and unhealthy-looking
@@ -55,13 +55,13 @@ place.
 
 “You find me, my dears,” said Mrs. Jellyby, snuffing the two great
 office candles in tin candlesticks, which made the room taste
-strongly of hot tallow (the fire had gone out, and there was nothing
+strongly of hot tallow (the [[Fire|fire]] had gone out, and there was nothing
 in the grate but ashes, a bundle of wood, and a poker), “you find me,
 my dears, as usual, very busy; but that you will excuse. The African
-project at present employs my whole time. It involves me in
+project at present employs my whole [[Time|time]]. It involves me in
 correspondence with public bodies and with private individuals
 anxious for the welfare of their species all over the country. I am
-happy to say it is advancing. We hope by this time next year to have
+happy to say it is advancing. We [[Hope|hope]] by this [[Time|time]] next year to have
 from a hundred and fifty to two hundred healthy families cultivating
 coffee and educating the natives of Borrioboola-Gha, on the left bank
 of the Niger.”
@@ -71,8 +71,8 @@ gratifying.
 
 “It IS gratifying,” said Mrs. Jellyby. “It involves the devotion of
 all my energies, such as they are; but that is nothing, so that it
-succeeds; and I am more confident of success every day. Do you know,
-Miss Summerson, I almost wonder that YOU never turned your thoughts
+succeeds; and I am more confident of [[success]] every day. Do you know,
+Miss Summerson, I almost [[Wonder|wonder]] that YOU never turned your thoughts
 to Africa.”
 
 This application of the subject was really so unexpected to me that I
@@ -87,7 +87,7 @@ Holborn, without precaution, and be run over. You may go into
 Holborn, with precaution, and never be run over. Just so with
 Africa.”
 
-I said, “No doubt.” I meant as to Holborn.
+I said, “No [[Doubt|doubt]].” I meant as to Holborn.
 
 “If you would like,” said Mrs. Jellyby, putting a number of papers
 towards us, “to look over some remarks on that head, and on the
@@ -102,13 +102,13 @@ our recognition, which was half bashful and half sulky.
 Jellyby with a sweet smile, “though my work is never done. Where are
 you, Caddy?”
 
-“‘Presents her compliments to Mr. Swallow, and begs—’” said Caddy.
+“‘Presents her compliments to Mr. [[Swallow]], and begs—’” said Caddy.
 
 “‘And begs,’” said Mrs. Jellyby, dictating, “‘to inform him, in
 reference to his letter of inquiry on the African project—’ No,
 Peepy! Not on my account!”
 
-Peepy (so self-named) was the unfortunate child who had fallen
+Peepy (so [[Self|self]]-named) was the unfortunate [[Child|child]] who had fallen
 downstairs, who now interrupted the correspondence by presenting
 himself, with a strip of plaster on his forehead, to exhibit his
 wounded knees, in which Ada and I did not know which to pity
@@ -118,7 +118,7 @@ naughty Peepy!” and fixed her fine eyes on Africa again.
 
 However, as she at once proceeded with her dictation, and as I
 interrupted nothing by doing it, I ventured quietly to stop poor
-Peepy as he was going out and to take him up to nurse. He looked very
+Peepy as he was going out and to take him up to [[Nurse|nurse]]. He looked very
 much astonished at it and at Ada’s kissing him, but soon fell fast
 asleep in my arms, sobbing at longer and longer intervals, until he
 was quiet. I was so occupied with Peepy that I lost the letter in
@@ -127,14 +127,14 @@ momentous importance of Africa, and the utter insignificance of all
 other places and things, that I felt quite ashamed to have thought so
 little about it.
 
-“Six o’clock!” said Mrs. Jellyby. “And our dinner hour is nominally
+“Six o’[[Clock|clock]]!” said Mrs. Jellyby. “And our dinner hour is nominally
 (for we dine at all hours) five! Caddy, show Miss Clare and Miss
 Summerson their rooms. You will like to make some change, perhaps?
 You will excuse me, I know, being so much occupied. Oh, that very bad
-child! Pray put him down, Miss Summerson!”
+[[Child|child]]! Pray put him down, Miss Summerson!”
 
 I begged permission to retain him, truly saying that he was not at
 all troublesome, and carried him upstairs and laid him on my bed. Ada
 and I had two upper rooms with a door of communication between. They
-were excessively bare and disorderly, and the curtain to my window
+were excessively bare and disorderly, and the curtain to my [[Window|window]]
 was fastened up with a fork.

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 22 (part 1)"
+title: "[[Persuasion]] — Chapter 22 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,15 +20,15 @@ CHAPTER XXII.
 
 
 
-Anne went home to think over all that she had heard. In one point, her
+Anne went [[Home|home]] to think over all that she had heard. In one point, her
 
 feelings were relieved by this knowledge of Mr Elliot. There was no
 
 longer anything of tenderness due to him. He stood as opposed to
 
-Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil
+[[Captain Wentworth]], in all his own unwelcome obtrusiveness; and the evil
 
-of his attentions last night, the irremediable mischief he might have
+of his attentions last [[Night|night]], the irremediable mischief he might have
 
 done, was considered with sensations unqualified, unperplexed. Pity for
 
@@ -38,7 +38,7 @@ respect, in looking around her, or penetrating forward, she saw more to
 
 distrust and to apprehend. She was concerned for the disappointment and
 
-pain Lady Russell would be feeling; for the mortifications which must
+[[Pain|pain]] [[Lady Russell]] would be feeling; for the mortifications which must
 
 be hanging over her father and sister, and had all the distress of
 
@@ -48,25 +48,25 @@ She was most thankful for her own knowledge of him. She had never
 
 considered herself as entitled to reward for not slighting an old
 
-friend like Mrs Smith, but here was a reward indeed springing from it!
+friend like Mrs [[smith|Smith]], but here was a reward indeed springing from it!
 
-Mrs Smith had been able to tell her what no one else could have done.
+Mrs [[smith|Smith]] had been able to tell her what no one else could have done.
 
 Could the knowledge have been extended through her family? But this was
 
-a vain idea. She must talk to Lady Russell, tell her, consult with her,
+a vain idea. She must talk to [[Lady Russell]], tell her, consult with her,
 
 and having done her best, wait the event with as much composure as
 
 possible; and after all, her greatest want of composure would be in
 
-that quarter of the mind which could not be opened to Lady Russell; in
+that quarter of the mind which could not be opened to [[Lady Russell]]; in
 
 that flow of anxieties and fears which must be all to herself.
 
 
 
-She found, on reaching home, that she had, as she intended, escaped
+She found, on reaching [[Home|home]], that she had, as she intended, escaped
 
 seeing Mr Elliot; that he had called and paid them a long morning
 
@@ -86,7 +86,7 @@ least.”
 
 “Indeed, I do say it. I never saw anybody in my life spell harder for
 
-an invitation. Poor man! I was really in pain for him; for your
+an invitation. Poor man! I was really in [[Pain|pain]] for him; for your
 
 hard-hearted sister, Miss Anne, seems bent on cruelty.”
 
@@ -116,7 +116,7 @@ I not say father and son?”
 
 
 
-“Oh! I lay no embargo on any body’s words. If you will have such ideas!
+“Oh! I lay no embargo on any [[Body|body]]’s words. If you will have such ideas!
 
 But, upon my word, I am scarcely sensible of his attentions being
 
@@ -126,11 +126,11 @@ beyond those of other men.”
 
 “My dear Miss Elliot!” exclaimed Mrs Clay, lifting her hands and eyes,
 
-and sinking all the rest of her astonishment in a convenient silence.
+and sinking all the rest of her astonishment in a convenient [[Silence|silence]].
 
 
 
-“Well, my dear Penelope, you need not be so alarmed about him. I did
+“[[Well]], my dear Penelope, you need not be so alarmed about him. I did
 
 invite him, you know. I sent him away with smiles. When I found he was
 
@@ -168,7 +168,7 @@ now she saw insincerity in everything. His attentive deference to her
 
 father, contrasted with his former language, was odious; and when she
 
-thought of his cruel conduct towards Mrs Smith, she could hardly bear
+thought of his cruel conduct towards Mrs [[smith|Smith]], she could hardly bear
 
 the sight of his present smiles and mildness, or the sound of his
 
@@ -188,7 +188,7 @@ quietly as she could, the few steps of unnecessary intimacy she had
 
 been gradually led along. She was accordingly more guarded, and more
 
-cool, than she had been the night before.
+cool, than she had been the [[Night|night]] before.
 
 
 
@@ -200,7 +200,7 @@ more solicitation; but the charm was broken: he found that the heat and
 
 animation of a public room was necessary to kindle his modest cousin’s
 
-vanity; he found, at least, that it was not to be done now, by any of
+[[Vanity|vanity]]; he found, at least, that it was not to be done now, by any of
 
 those attempts which he could hazard among the too-commanding claims of
 
@@ -218,7 +218,7 @@ Bath the next morning, going early, and that he would be gone the
 
 greater part of two days. He was invited again to Camden Place the very
 
-evening of his return; but from Thursday to Saturday evening his
+evening of his return; but from [[thursday|Thursday]] to Saturday evening his
 
 absence was certain. It was bad enough that a Mrs Clay should be always
 
@@ -226,4 +226,4 @@ before her; but that a deeper hypocrite should be added to their party,
 
 seemed the destruction of everything like peace and comfort. It was so
 
-humiliating to reflect on the constant deception practised on her
+humiliating to reflect on the constant [[Deception|deception]] practised on her

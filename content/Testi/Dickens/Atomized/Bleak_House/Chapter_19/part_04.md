@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 19 (part 4)"
+title: "Bleak [[house|House]] — Chapter 19 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,15 +16,15 @@ tags:
 
 “It was very good-natured of you, sir,” says Mr. Snagsby, “and I am
 obliged to you.” And Mr. Snagsby again relates his experience, again
-suppressing the half-crown fact.
+suppressing the half-[[Crown|crown]] fact.
 
 “Now, I know where you live,” says the constable, then, to Jo. “You
-live down in Tom-all-Alone’s. That’s a nice innocent place to live
+live down in Tom-all-[[Alone]]’s. That’s a nice [[Innocent|innocent]] place to live
 in, ain’t it?”
 
 “I can’t go and live in no nicer place, sir,” replies Jo. “They
-wouldn’t have nothink to say to me if I wos to go to a nice innocent
-place fur to live. Who ud go and let a nice innocent lodging to such
+wouldn’t have nothink to say to me if I wos to go to a nice [[Innocent|innocent]]
+place fur to live. Who ud go and let a nice [[Innocent|innocent]] lodging to such
 a reg’lar one as me!”
 
 “You are very poor, ain’t you?” says the constable.
@@ -36,14 +36,14 @@ upon him!”
 
 “They’re wot’s left, Mr. Snagsby,” says Jo, “out of a sov-ring as wos
 give me by a lady in a wale as sed she wos a servant and as come to
-my crossin one night and asked to be showd this ’ere ouse and the
+my crossin one [[Night|night]] and asked to be showd this ’ere ouse and the
 ouse wot him as you giv the writin to died at, and the berrin-ground
 wot he’s berrid in. She ses to me she ses ‘are you the boy at the
 inkwhich?’ she ses. I ses ‘yes’ I ses. She ses to me she ses ‘can you
 show me all them places?’ I ses ‘yes I can’ I ses. And she ses to me
 ‘do it’ and I dun it and she giv me a sov’ring and hooked it. And I
-an’t had much of the sov’ring neither,” says Jo, with dirty tears,
-“fur I had to pay five bob, down in Tom-all-Alone’s, afore they’d
+an’t had much of the sov’ring neither,” says Jo, with dirty [[Tears|tears]],
+“fur I had to pay five bob, down in Tom-all-[[Alone]]’s, afore they’d
 square it fur to give me change, and then a young man he thieved
 another five while I was asleep and another boy he thieved ninepence
 and the landlord he stood drains round with a lot more on it.”
@@ -55,34 +55,34 @@ ineffable disdain.
 “I don’t know as I do, sir,” replies Jo. “I don’t expect nothink at
 all, sir, much, but that’s the true hist’ry on it.”
 
-“You see what he is!” the constable observes to the audience. “Well,
-Mr. Snagsby, if I don’t lock him up this time, will you engage for
+“You see what he is!” the constable observes to the audience. “[[Well]],
+Mr. Snagsby, if I don’t lock him up this [[Time|time]], will you engage for
 his moving on?”
 
 “No!” cries Mrs. Snagsby from the stairs.
 
-“My little woman!” pleads her husband. “Constable, I have no doubt
+“My little woman!” pleads her husband. “Constable, I have no [[Doubt|doubt]]
 he’ll move on. You know you really must do it,” says Mr. Snagsby.
 
 “I’m everyways agreeable, sir,” says the hapless Jo.
 
 “Do it, then,” observes the constable. “You know what you have got to
-do. Do it! And recollect you won’t get off so easy next time. Catch
+do. Do it! And recollect you won’t get off so easy next [[Time|time]]. Catch
 hold of your money. Now, the sooner you’re five mile off, the better
 for all parties.”
 
 With this farewell hint and pointing generally to the setting sun as
 a likely place to move on to, the constable bids his auditors good
-afternoon and makes the echoes of Cook’s Court perform slow music for
+afternoon and makes the echoes of Cook’s [[Court]] perform slow music for
 him as he walks away on the shady side, carrying his iron-bound hat
 in his hand for a little ventilation.
 
 Now, Jo’s improbable story concerning the lady and the sovereign has
 awakened more or less the curiosity of all the company. Mr. Guppy,
 who has an inquiring mind in matters of evidence and who has
-been suffering severely from the lassitude of the long vacation,
+been [[Suffering|suffering]] severely from the lassitude of the long vacation,
 takes that interest in the case that he enters on a regular
-cross-examination of the witness, which is found so interesting by
+[[Cross|cross]]-examination of the witness, which is found so interesting by
 the ladies that Mrs. Snagsby politely invites him to step upstairs
 and drink a cup of tea, if he will excuse the disarranged state of
 the tea-table, consequent on their previous exertions. Mr. Guppy
@@ -99,7 +99,7 @@ During the progress of this keen encounter, the vessel Chadband,
 being merely engaged in the oil trade, gets aground and waits to be
 floated off.
 
-“Well!” says Mr. Guppy. “Either this boy sticks to it like
+“[[Well]]!” says Mr. Guppy. “Either this boy sticks to it like
 cobbler’s-wax or there is something out of the common here that beats
 anything that ever came into my way at Kenge and Carboy’s.”
 
@@ -117,7 +117,7 @@ wife—Reverend Mr. Chadband.”
 “Before I married my present husband,” says Mrs. Chadband.
 
 “Was you a party in anything, ma’am?” says Mr. Guppy, transferring
-his cross-examination.
+his [[Cross|cross]]-examination.
 
 “No.”
 
@@ -136,17 +136,17 @@ with a hard-favoured smile.
 ma’am, was it a lady of your acquaintance who had some transactions
 (we will not at present say what transactions) with Kenge and
 Carboy’s office, or was it a gentleman of your acquaintance? Take
-time, ma’am. We shall come to it presently. Man or woman, ma’am?”
+[[Time|time]], ma’am. We shall come to it presently. Man or woman, ma’am?”
 
 “Neither,” says Mrs. Chadband as before.
 
-“Oh! A child!” says Mr. Guppy, throwing on the admiring Mrs. Snagsby
+“Oh! A [[Child|child]]!” says Mr. Guppy, throwing on the admiring Mrs. Snagsby
 the regular acute professional eye which is thrown on British
 jurymen. “Now, ma’am, perhaps you’ll have the kindness to tell us
-WHAT child.”
+WHAT [[Child|child]].”
 
 “You have got it at last, sir,” says Mrs. Chadband with another
-hard-favoured smile. “Well, sir, it was before your time, most
-likely, judging from your appearance. I was left in charge of a child
-named Esther Summerson, who was put out in life by Messrs. Kenge and
+hard-favoured smile. “[[Well]], sir, it was before your [[Time|time]], most
+likely, judging from your appearance. I was left in charge of a [[Child|child]]
+named [[Esther Summerson]], who was put out in life by Messrs. Kenge and
 Carboy.”

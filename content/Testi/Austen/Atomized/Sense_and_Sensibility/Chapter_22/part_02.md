@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 22 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 22 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -72,9 +72,9 @@ was almost always with us afterwards. I was very unwilling to enter
 
 into it, as you may imagine, without the knowledge and approbation of
 
-his mother; but I was too young, and loved him too well, to be so
+his mother; but I was too young, and loved him too [[Well|well]], to be so
 
-prudent as I ought to have been. Though you do not know him so well as
+prudent as I ought to have been. Though you do not know him so [[Well|well]] as
 
 me, Miss Dashwood, you must have seen enough of him to be sensible he
 
@@ -86,7 +86,7 @@ is very capable of making a woman sincerely attached to him.”
 
 a moment’s reflection, she added, with revived security of Edward’s
 
-honour and love, and her companion’s falsehood—“Engaged to Mr. Edward
+[[Honour|honour]] and [[Love|love]], and her companion’s falsehood—“Engaged to Mr. Edward
 
 Ferrars!—I confess myself so totally surprised at what you tell me,
 
@@ -96,7 +96,7 @@ person or name. We cannot mean the same Mr. Ferrars.”
 
 
 
-“We can mean no other,” cried Lucy, smiling. “Mr. Edward Ferrars, the
+“We can mean no other,” cried Lucy, smiling. “Mr. [[Edward Ferrars]], the
 
 eldest son of Mrs. Ferrars, of Park Street, and brother of your
 
@@ -128,7 +128,7 @@ it.”
 
 
 
-She was silent.—Elinor’s security sunk; but her self-command did not
+She was silent.—Elinor’s security sunk; but her [[Self|self]]-command did not
 
 sink with it.
 
@@ -154,7 +154,7 @@ drew for.—I have had it above these three years.”
 
 She put it into her hands as she spoke; and when Elinor saw the
 
-painting, whatever other doubts her fear of a too hasty decision, or
+painting, whatever other doubts her [[Fear|fear]] of a too hasty decision, or
 
 her wish of detecting falsehood might suffer to linger in her mind, she
 
@@ -176,11 +176,11 @@ opportunity.”
 
 “You are quite in the right,” replied Elinor calmly. They then
 
-proceeded a few paces in silence. Lucy spoke first.
+proceeded a few paces in [[Silence|silence]]. Lucy spoke first.
 
 
 
-“I am sure,” said she, “I have no doubt in the world of your faithfully
+“I am sure,” said she, “I have no [[Doubt|doubt]] in the world of your faithfully
 
 keeping this secret, because you must know of what importance it is to
 
@@ -232,7 +232,7 @@ not a creature whose advice I can ask. Anne is the only person that
 
 knows of it, and she has no judgment at all; indeed, she does me a
 
-great deal more harm than good, for I am in constant fear of her
+great deal more harm than good, for I am in constant [[Fear|fear]] of her
 
 betraying me. She does not know how to hold her tongue, as you must
 
@@ -242,13 +242,13 @@ t’other day, when Edward’s name was mentioned by Sir John, lest she
 
 should out with it all. You can’t think how much I go through in my
 
-mind from it altogether. I only wonder that I am alive after what I
+mind from it altogether. I only [[Wonder|wonder]] that I am alive after what I
 
 have suffered for Edward’s sake these last four years. Every thing in
 
 such suspense and uncertainty; and seeing him so seldom—we can hardly
 
-meet above twice a-year. I am sure I wonder my heart is not quite
+meet above twice a-year. I am sure I [[Wonder|wonder]] my heart is not quite
 
 broke.”
 

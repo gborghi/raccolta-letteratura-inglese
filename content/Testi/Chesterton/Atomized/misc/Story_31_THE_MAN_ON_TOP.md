@@ -1,5 +1,5 @@
 ---
-title: "misc — THE MAN ON TOP"
+title: "[[misc]] — THE MAN ON TOP"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -57,36 +57,36 @@ But direct responsibility like that of a soldier he has none.
 He need not aim solely and directly at the good of the shop;
 for the simple reason that the shop is not aiming solely and directly
 at the good of the nation.  The shopman is, under decent restraints,
-let us hope, trying to get what he can out of the nation; the shop
+let us [[Hope|hope]], trying to get what he can out of the nation; the shop
 assistant may, under the same decent restraints, get what he can
 out of the shopkeeper.  All this distinction is very obvious.
 At least I should have thought so.
 
 But the primary point which I mean is this.  That even if we do
 take the military view of mercantile service, even if we do call
-the rebellious shop assistant "disloyal"--that leaves exactly
+the rebellious shop assistant "disloyal"--that [[Leaves|leaves]] exactly
 where it was the question of whether he is, in point of fact,
 in a good or bad shop.  Granted that all Mr. Poole's employees are bound
 to follow for ever the cloven pennon of the Perfect Pair of Trousers,
 it is all the more true that the pennon may, in point of fact,
 become imperfect.  Granted that all Barney Barnato's workers ought
-to have followed him to death or glory, it is still a Perfectly
+to have followed him to [[Death|death]] or glory, it is still a Perfectly
 legitimate question to ask which he was likely to lead them to.
 Granted that Dr. Sawyer's boy ought to die for his master's medicines,
 we may still hold an inquest to find out if he died of them.
 While we forbid the soldier to shoot the general, we may still wish
 the general were shot.
 
-The fundamental fact of our time is the failure of the successful man.
+The fundamental fact of our [[Time|time]] is the failure of the successful man.
 Somehow we have so arranged the rules of the game that the winners
 are worthless for other purposes; they can secure nothing except
-the prize.  The very rich are neither aristocrats nor self-made men;
+the prize.  The very rich are neither aristocrats nor [[Self|self]]-made men;
 they are accidents--or rather calamities.  All revolutionary language
 is a generation behind the times in talking of their futility.
-A revolutionist would say (with perfect truth) that coal-owners know
+A revolutionist would say (with perfect [[Truth|truth]]) that coal-owners know
 next to nothing about coal-mining. But we are past that point.
 Coal-owners know next to nothing about coal-owning. They do not
-develop and defend the nature of their own monopoly with any
+develop and defend the [[Nature|nature]] of their own monopoly with any
 consistent and courageous policy, however wicked, as did the old
 aristocrats with the monopoly of land.  They have not the virtues
 nor even the vices of tyrants; they have only their powers.
@@ -94,16 +94,16 @@ It is the same with all the powerful of to-day; it is the same,
 for instance, with the high-placed and high-paid official.  Not only
 is the judge not judicial, but the arbiter is not even arbitrary.
 The arbiter decides, not by some gust of justice or injustice
-in his soul like the old despot dooming men under a tree, but by
+in his [[Soul|soul]] like the old despot dooming men under a tree, but by
 the permanent climate of the class to which he happens to belong.
 The ancient wig of the judge is often indistinguishable from the old
 wig of the flunkey.
 
-To judge about success or failure one must see things
-very simply; one must see them in masses, as the artist,
+To judge about [[success]] or failure one must see things
+very simply; one must see them in masses, as the [[artist]],
 half closing his eyes against details, sees light and shade.
 That is the only way in which a just judgment can be formed
-as to whether any departure or development, such as Islam
+as to whether any departure or development, such as [[Islam]]
 or the American Republic, has been a benefit upon the whole.
 Seen close, such great erections always abound in ingenious
 detail and impressive solidity; it is only by seeing them afar
@@ -121,7 +121,7 @@ said of all.
 
 But if we shade our eyes from all this dazzle of detail;
 if we simply ask what has been the main feature, the upshot,
-the final fruit of the capitalist system, there is no doubt
+the final fruit of the capitalist system, there is no [[Doubt|doubt]]
 about the answer.  The special and solid result of the reign
 of the employers has been--unemployment.  Unemployment not
 only increasing, but becoming at last the very pivot upon
@@ -129,7 +129,7 @@ which the whole process turns.
 
 Or, again, if you visit the villages that depend on one
 of the great squires, you will hear praises, often just,
-of the landlord's good sense or good nature; you will hear of whole
+of the landlord's good sense or good [[Nature|nature]]; you will hear of whole
 systems of pensions or of care for the sick, like those of a small
 and separate nation; you will see much cleanliness, order,
 and business habits in the offices and accounts of the estate.
@@ -141,4 +141,4 @@ The practical effect of having employers is that men are not employed.
 The unrest of the populace is therefore more than a murmur
 against tyranny; it is against a sort of treason.  It is the suspicion
 that even at the top of the tree, even in the seats of the mighty,
-our very success is unsuccessful.
+our very [[success]] is unsuccessful.

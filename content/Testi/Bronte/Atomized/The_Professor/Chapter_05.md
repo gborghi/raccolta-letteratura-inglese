@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 4"
+title: "[[The Professor]] — Chapter 4"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ No man likes to acknowledge that he has made a mistake in the choice of
 
 his profession, and every man, worthy of the name, will row long against
 
-wind and tide before he allows himself to cry out, “I am baffled!” and
+[[Wind|wind]] and tide before he allows himself to cry out, “I am baffled!” and
 
 submits to be floated passively back to land. From the first week of my
 
@@ -32,13 +32,13 @@ work of copying and translating business-letters--was a dry and tedious
 
 task enough, but had that been all, I should long have borne with the
 
-nuisance; I am not of an impatient nature, and influenced by the double
+nuisance; I am not of an impatient [[Nature|nature]], and influenced by the [[Double|double]]
 
-desire of getting my living and justifying to myself and others the
+[[Desire|desire]] of getting my living and justifying to myself and others the
 
 resolution I had taken to become a tradesman, I should have endured
 
-in silence the rust and cramp of my best faculties; I should not have
+in [[Silence|silence]] the rust and cramp of my best faculties; I should not have
 
 whispered, even inwardly, that I longed for liberty; I should have pent
 
@@ -46,15 +46,15 @@ in every sigh by which my heart might have ventured to intimate its
 
 distress under the closeness, smoke, monotony and joyless tumult of
 
-Bigben Close, and its panting desire for freer and fresher scenes; I
+Bigben Close, and its panting [[Desire|desire]] for freer and fresher scenes; I
 
 should have set up the image of Duty, the fetish of Perseverance, in my
 
-small bedroom at Mrs. King’s lodgings, and they two should have been
+small bedroom at Mrs. [[King]]’s lodgings, and they two should have been
 
 my household gods, from which my darling, my cherished-in-secret,
 
-Imagination, the tender and the mighty, should never, either by softness
+[[Imagination]], the tender and the mighty, should never, either by softness
 
 or strength, have severed me. But this was not all; the antipathy which
 
@@ -64,7 +64,7 @@ spreading denser shade daily, excluded me from every glimpse of the
 
 sunshine of life; and I began to feel like a plant growing in humid
 
-darkness out of the slimy walls of a well.
+darkness out of the slimy walls of a [[Well|well]].
 
 
 
@@ -76,7 +76,7 @@ which was liable to be excited by every, the most trifling movement,
 
 look, or word of mine. My southern accent annoyed him; the degree
 
-of education evinced in my language irritated him; my punctuality,
+of [[Education|education]] evinced in my language irritated him; my punctuality,
 
 industry, and accuracy, fixed his dislike, and gave it the high flavour
 
@@ -86,7 +86,7 @@ successful tradesman. Had I been in anything inferior to him, he would
 
 not have hated me so thoroughly, but I knew all that he knew, and, what
 
-was worse, he suspected that I kept the padlock of silence on mental
+was worse, he suspected that I kept the padlock of [[Silence|silence]] on mental
 
 wealth in which he was no sharer. If he could have once placed me in a
 
@@ -98,7 +98,7 @@ prowling and prying as was Edward’s malignity, it could never baffle
 
 the lynx-eyes of these, my natural sentinels. Day by day did his malice
 
-watch my tact, hoping it would sleep, and prepared to steal snake-like
+watch my tact, hoping it would [[Sleep|sleep]], and prepared to steal snake-like
 
 on its slumber; but tact, if it be genuine, never sleeps.
 
@@ -106,13 +106,13 @@ on its slumber; but tact, if it be genuine, never sleeps.
 
 I had received my first quarter’s wages, and was returning to my
 
-lodgings, possessed heart and soul with the pleasant feeling that
+lodgings, possessed heart and [[Soul|soul]] with the pleasant feeling that
 
 the master who had paid me grudged every penny of that hard-earned
 
 pittance--(I had long ceased to regard Mr. Crimsworth as my brother--he
 
-was a hard, grinding master; he wished to be an inexorable tyrant: that
+was a hard, grinding master; he wished to be an inexorable [[Tyrant|tyrant]]: that
 
 was all). Thoughts, not varied but strong, occupied my mind; two voices
 
@@ -120,13 +120,13 @@ spoke within me; again and again they uttered the same monotonous
 
 phrases. One said: “William, your life is intolerable.” The other: “What
 
-can you do to alter it?” I walked fast, for it was a cold, frosty night
+can you do to alter it?” I walked fast, for it was a cold, frosty [[Night|night]]
 
 in January; as I approached my lodgings, I turned from a general view of
 
-my affairs to the particular speculation as to whether my fire would be
+my affairs to the particular speculation as to whether my [[Fire|fire]] would be
 
-out; looking towards the window of my sitting-room, I saw no cheering
+out; looking towards the [[Window|window]] of my sitting-room, I saw no cheering
 
 red gleam.
 
@@ -134,17 +134,17 @@ red gleam.
 
 “That slut of a servant has neglected it as usual,” said I, “and I shall
 
-see nothing but pale ashes if I go in; it is a fine starlight night--I
+see nothing but pale ashes if I go in; it is a fine starlight [[Night|night]]--I
 
 will walk a little farther.”
 
 
 
-It WAS a fine night, and the streets were dry and even clean for X----;
+It WAS a fine [[Night|night]], and the streets were dry and even clean for X----;
 
 there was a crescent curve of moonlight to be seen by the parish church
 
-tower, and hundreds of stars shone keenly bright in all quarters of the
+tower, and hundreds of [[Stars|stars]] shone keenly bright in all quarters of the
 
 sky.
 
@@ -154,7 +154,7 @@ Unconsciously I steered my course towards the country; I had got into
 
 Grove-street, and began to feel the pleasure of seeing dim trees at the
 
-extremity, round a suburban house, when a person leaning over the iron
+extremity, round a suburban [[house]], when a person leaning over the iron
 
 gate of one of the small gardens which front the neat dwelling-houses in
 
@@ -164,7 +164,7 @@ this street, addressed me as I was hurrying with quick stride past.
 
 “What the deuce is the hurry? Just so must Lot have left Sodom, when he
 
-expected fire to pour down upon it, out of burning brass clouds.”
+expected [[Fire|fire]] to pour down upon it, out of burning brass clouds.”
 
 
 
@@ -182,11 +182,11 @@ shade. “God knows it’s cool work! especially as instead of Rebecca on
 
 a camel’s hump, with bracelets on her arms and a ring in her nose, Fate
 
-sends me only a counting-house clerk, in a grey tweed wrapper.” The
+sends me only a counting-[[house]] clerk, in a grey tweed wrapper.” The
 
 voice was familiar to me--its second utterance enabled me to seize the
 
-speaker’s identity.
+speaker’s [[Identity|identity]].
 
 
 
@@ -216,7 +216,7 @@ attract them.”
 
 
 
-“Alas, poor shepherd! Alack and well-a-day! What a theme for regret, and
+“Alas, poor shepherd! Alack and [[Well|well]]-a-day! What a theme for regret, and
 
 how down in the mouth you must be, judging from the sound of your voice!
 
@@ -230,17 +230,17 @@ the devil?”
 
 
 
-“That is well--you’re just in luck: this is Tuesday evening; there are
+“That is [[Well|well]]--you’re just in luck: this is Tuesday evening; there are
 
-scores of market gigs and carts returning to Dinneford to-night; and he,
+scores of market gigs and carts returning to Dinneford to-[[Night|night]]; and he,
 
 or some of his, have a seat in all regularly; so, if you’ll step in
 
 and sit half-an-hour in my bachelor’s parlour, you may catch him as he
 
-passes without much trouble. I think though you’d better let him alone
+passes without much trouble. I think though you’d better let him [[Alone|alone]]
 
-to-night, he’ll have so many customers to serve; Tuesday is his busy day
+to-[[Night|night]], he’ll have so many customers to serve; Tuesday is his busy day
 
 in X---- and Dinneford; come in at all events.”
 
@@ -254,7 +254,7 @@ He swung the wicket open as he spoke.
 
 
 
-“As you please--I’m alone; your company for an hour or two would be
+“As you please--I’m [[Alone|alone]]; your company for an hour or two would be
 
 agreeable to me; but, if you don’t choose to favour me so far, I’ll not
 
@@ -276,7 +276,7 @@ glanced round me.
 
 It was a comfortable room, at once snug and handsome; the bright grate
 
-was filled with a genuine ----shire fire, red, clear, and generous, no
+was filled with a genuine ----shire [[Fire|fire]], red, clear, and generous, no
 
 penurious South-of-England embers heaped in the corner of a grate. On
 
@@ -286,7 +286,7 @@ light; the furniture was almost luxurious for a young bachelor,
 
 comprising a couch and two very easy chairs; bookshelves filled the
 
-recesses on each side of the mantelpiece; they were well-furnished, and
+recesses on each side of the mantelpiece; they were [[Well|well]]-furnished, and
 
 arranged with perfect order. The neatness of the room suited my taste;
 
@@ -312,11 +312,11 @@ himself recalled my attention.
 
 “You shall have something,” said he, “for you ought to feel disposed for
 
-refreshment after walking nobody knows how far on such a Canadian night
+refreshment after walking nobody knows how far on such a Canadian [[Night|night]]
 
-as this; but it shall not be brandy-and-water, and it shall not be
+as this; but it shall not be brandy-and-[[Water|water]], and it shall not be
 
-a bottle of port, nor ditto of sherry. I keep no such poison. I have
+a bottle of port, nor ditto of sherry. I keep no such [[Poison|poison]]. I have
 
 Rhein-wein for my own drinking, and you may choose between that and
 
@@ -366,7 +366,7 @@ extinguishing his smile, and replacing, by an abstracted and alienated
 
 look, the customarily shrewd, bantering glance of his eye. I employed
 
-the interval of silence in a rapid scrutiny of his physiognomy. I had
+the interval of [[Silence|silence]] in a rapid scrutiny of his physiognomy. I had
 
 never observed him closely before; and, as my sight is very short, I had
 
@@ -382,9 +382,9 @@ massive; not at all:--my own features were cast in a harsher and squarer
 
 mould than his. I discerned that there would be contrasts between his
 
-inward and outward man; contentions, too; for I suspected his soul
+inward and outward man; contentions, too; for I suspected his [[Soul|soul]]
 
-had more of will and ambition than his body had of fibre and muscle.
+had more of will and [[Ambition|ambition]] than his [[Body|body]] had of fibre and muscle.
 
 Perhaps, in these incompatibilities of the “physique” with the “morale,”
 
@@ -402,7 +402,7 @@ female face would on a man. I have mentioned his dark locks--they were
 
 brushed sideways above a white and sufficiently expansive forehead; his
 
-cheek had a rather hectic freshness; his features might have done well
+cheek had a rather hectic freshness; his features might have done [[Well|well]]
 
 on canvas, but indifferently in marble: they were plastic; character
 
@@ -422,11 +422,11 @@ Starting from his silent fit, he began:--
 
 
 
-“William! what a fool you are to live in those dismal lodgings of Mrs.
+“William! what a [[Fool|fool]] you are to live in those dismal lodgings of Mrs.
 
-King’s, when you might take rooms here in Grove Street, and have a
+[[King]]’s, when you might take rooms here in Grove Street, and have a
 
-garden like me!”
+[[Garden|garden]] like me!”
 
 
 
@@ -446,7 +446,7 @@ flower or a green leaf?”
 
 
 
-“What are you then? You sit at that desk in Crimsworth’s counting-house
+“What are you then? You sit at that desk in Crimsworth’s counting-[[house]]
 
 day by day and week by week, scraping with a pen on paper, just like an
 
@@ -478,13 +478,13 @@ unendurable, he is a fossil.”
 
 
 
-“Why, man, do you suppose you are a mystery? The other night you seemed
+“Why, man, do you suppose you are a mystery? The other [[Night|night]] you seemed
 
 surprised at my knowing to what family you belonged; now you find
 
 subject for wonderment in my calling you patient. What do you think I do
 
-with my eyes and ears? I’ve been in your counting-house more than once
+with my eyes and ears? I’ve been in your counting-[[house]] more than once
 
 when Crimsworth has treated you like a dog; called for a book, for
 
@@ -502,13 +502,13 @@ how patient you were under each and all of these circumstances!”
 
 
 
-“Well, Mr. Hunsden, what then?”
+“[[Well]], Mr. Hunsden, what then?”
 
 
 
 “I can hardly tell you what then; the conclusion to be drawn as to
 
-your character depends upon the nature of the motives which guide
+your character depends upon the [[Nature|nature]] of the motives which guide
 
 your conduct; if you are patient because you expect to make something
 
@@ -520,13 +520,13 @@ but may be a very wise fellow; if you are patient because you think it a
 
 duty to meet insult with submission, you are an essential sap, and in
 
-no shape the man for my money; if you are patient because your nature is
+no shape the man for my money; if you are patient because your [[Nature|nature]] is
 
 phlegmatic, flat, inexcitable, and that you cannot get up to the pitch
 
 of resistance, why, God made you to be crushed; and lie down by all
 
-means, and lie flat, and let Juggernaut ride well over you.”
+means, and lie flat, and let Juggernaut ride [[Well|well]] over you.”
 
 
 
@@ -548,7 +548,7 @@ oppressed into rebellion against the oppressor. Looking at him still
 
 more fixedly than I had yet done, I saw written in his eye and mien a
 
-resolution to arrogate to himself a freedom so unlimited that it might
+resolution to arrogate to himself a [[Freedom|freedom]] so unlimited that it might
 
 often trench on the just liberty of his neighbours. I rapidly ran over
 
@@ -568,15 +568,15 @@ His brow darkened, his thin nostril dilated a little.
 
 
 
-“Yes,” he began, “I told you that you were an aristocrat, and who but
+“Yes,” he began, “I told you that you were an [[aristocrat]], and who but
 
-an aristocrat would laugh such a laugh as that, and look such a look?
+an [[aristocrat]] would laugh such a laugh as that, and look such a look?
 
 A laugh frigidly jeering; a look lazily mutinous; gentlemanlike irony,
 
 patrician resentment. What a nobleman you would have made, William
 
-Crimsworth! You are cut out for one; pity Fortune has baulked Nature!
+Crimsworth! You are cut out for one; pity Fortune has baulked [[Nature]]!
 
 Look at the features, figure, even to the hands--distinction all
 
@@ -590,7 +590,7 @@ peerage, oppose at every step the advancing power of the people, support
 
 your rotten order, and be ready for its sake to wade knee-deep in
 
-churls’ blood; as it is, you’ve no power; you can do nothing; you’re
+churls’ [[Blood|blood]]; as it is, you’ve no power; you can do nothing; you’re
 
 wrecked and stranded on the shores of commerce; forced into collision
 
@@ -602,11 +602,11 @@ TRADESMAN.”
 
 The first part of Hunsden’s speech moved me not at all, or, if it did,
 
-it was only to wonder at the perversion into which prejudice had twisted
+it was only to [[Wonder|wonder]] at the perversion into which prejudice had twisted
 
 his judgment of my character; the concluding sentence, however, not only
 
-moved, but shook me; the blow it gave was a severe one, because Truth
+moved, but shook me; the blow it gave was a severe one, because [[Truth]]
 
 wielded the weapon. If I smiled now, it, was only in disdain of myself.
 
@@ -618,7 +618,7 @@ Hunsden saw his advantage; he followed it up.
 
 “You’ll make nothing by trade,” continued he; “nothing more than the
 
-crust of dry bread and the draught of fair water on which you now live;
+crust of dry bread and the draught of fair [[Water|water]] on which you now live;
 
 your only chance of getting a competency lies in marrying a rich widow,
 
@@ -646,19 +646,19 @@ for them.”
 
 
 
-Mr. Hunsden had taken his tone for the night; the string he struck was
+Mr. Hunsden had taken his tone for the [[Night|night]]; the string he struck was
 
 out of tune, he would finger no other. Averse to discord, of which I had
 
-enough every day and all day long, I concluded, at last, that silence
+enough every day and all day long, I concluded, at last, that [[Silence|silence]]
 
-and solitude were preferable to jarring converse; I bade him good-night.
+and [[Solitude|solitude]] were preferable to jarring converse; I bade him good-[[Night|night]].
 
 
 
-“What! Are you going, lad? Well, good-night: you’ll find the door.” And
+“What! Are you going, lad? [[Well]], good-[[Night|night]]: you’ll find the door.” And
 
-he sat still in front of the fire, while I left the room and the house.
+he sat still in front of the [[Fire|fire]], while I left the room and the [[house]].
 
 I had got a good way on my return to my lodgings before I found out that
 
@@ -672,12 +672,12 @@ jaws, but I could not so soon cause the regrets rushing rapidly through
 
 my mind to slacken their tide. Why did I make myself a tradesman? Why
 
-did I enter Hunsden’s house this evening? Why, at dawn to-morrow, must
+did I enter Hunsden’s [[house]] this evening? Why, at [[Dawn|dawn]] to-morrow, must
 
-I repair to Crimsworth’s mill? All that night did I ask myself these
+I repair to Crimsworth’s mill? All that [[Night|night]] did I ask myself these
 
-questions, and all that night fiercely demanded of my soul an answer. I
+questions, and all that [[Night|night]] fiercely demanded of my [[Soul|soul]] an answer. I
 
-got no sleep; my head burned, my feet froze; at last the factory bells
+got no [[Sleep|sleep]]; my head burned, my feet froze; at last the factory [[Bells|bells]]
 
 rang, and I sprang from my bed with other slaves.

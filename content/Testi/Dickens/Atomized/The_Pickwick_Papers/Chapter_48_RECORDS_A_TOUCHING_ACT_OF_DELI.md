@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED"
+title: "The [[Pickwick]] Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -31,33 +31,33 @@ tending to the one point, that he should stop at Mrs. Bardell’s door;
 which the heavy gentleman, in direct opposition to, and defiance of, the
 vixenish ladies, contended was a green door and not a yellow one.
 
-‘Stop at the house with a green door, driver,’ said the heavy gentleman.
+‘Stop at the [[house]] with a green door, driver,’ said the heavy gentleman.
 
 ‘Oh! You perwerse creetur!’ exclaimed one of the vixenish ladies. ‘Drive
 to the ‘ouse with the yellow door, cabmin.’
 
-Upon this the cabman, who in a sudden effort to pull up at the house
-with the green door, had pulled the horse up so high that he nearly
+Upon this the [[cabman]], who in a sudden effort to pull up at the [[house]]
+with the green door, had pulled the [[Horse|horse]] up so high that he nearly
 pulled him backward into the cabriolet, let the animal’s fore-legs down
 to the ground again, and paused.
 
 ‘Now vere am I to pull up?’ inquired the driver. ‘Settle it among
 yourselves. All I ask is, vere?’
 
-Here the contest was renewed with increased violence; and the horse
-being troubled with a fly on his nose, the cabman humanely employed his
+Here the contest was renewed with increased violence; and the [[Horse|horse]]
+being troubled with a fly on his nose, the [[cabman]] humanely employed his
 leisure in lashing him about on the head, on the counter-irritation
 principle.
 
 ‘Most wotes carries the day!’ said one of the vixenish ladies at length.
-‘The ‘ouse with the yellow door, cabman.’
+‘The ‘ouse with the yellow door, [[cabman]].’
 
-But after the cabriolet had dashed up, in splendid style, to the house
+But after the cabriolet had dashed up, in splendid style, to the [[house]]
 with the yellow door, ‘making,’ as one of the vixenish ladies
 triumphantly said, ‘acterrally more noise than if one had come in one’s
 own carriage,’ and after the driver had dismounted to assist the ladies
 in getting out, the small round head of Master Thomas Bardell was thrust
-out of the one-pair window of a house with a red door, a few numbers
+out of the one-pair [[Window|window]] of a [[house]] with a red door, a few numbers
 off.
 
 ‘Aggrawatin’ thing!’ said the vixenish lady last-mentioned, darting a
@@ -65,9 +65,9 @@ withering glance at the heavy gentleman.
 
 ‘My dear, it’s not my fault,’ said the gentleman.
 
-‘Don’t talk to me, you creetur, don’t,’ retorted the lady. ‘The house
+‘Don’t talk to me, you creetur, don’t,’ retorted the lady. ‘The [[house]]
 with the red door, cabmin. Oh! If ever a woman was troubled with a
-ruffinly creetur, that takes a pride and a pleasure in disgracing his
+ruffinly creetur, that takes a [[Pride|pride]] and a pleasure in disgracing his
 wife on every possible occasion afore strangers, I am that woman!’
 
 ‘You ought to be ashamed of yourself, Raddle,’ said the other little
@@ -75,24 +75,24 @@ woman, who was no other than Mrs. Cluppins.
 
 ‘What have I been a-doing of?’ asked Mr. Raddle.
 
-‘Don’t talk to me, don’t, you brute, for fear I should be perwoked to
+‘Don’t talk to me, don’t, you brute, for [[Fear|fear]] I should be perwoked to
 forgit my sect and strike you!’ said Mrs. Raddle.
 
 While this dialogue was going on, the driver was most ignominiously
-leading the horse, by the bridle, up to the house with the red door,
+leading the [[Horse|horse]], by the bridle, up to the [[house]] with the red door,
 which Master Bardell had already opened. Here was a mean and low way of
-arriving at a friend’s house! No dashing up, with all the fire and fury
+arriving at a friend’s [[house]]! No dashing up, with all the [[Fire|fire]] and fury
 of the animal; no jumping down of the driver; no loud knocking at the
 door; no opening of the apron with a crash at the very last moment, for
-fear of the ladies sitting in a draught; and then the man handing the
+[[Fear|fear]] of the ladies sitting in a draught; and then the man handing the
 shawls out, afterwards, as if he were a private coachman! The whole edge
 of the thing had been taken off--it was flatter than walking.
 
-‘Well, Tommy,’ said Mrs. Cluppins, ‘how’s your poor dear mother?’
+‘[[Well]], Tommy,’ said Mrs. Cluppins, ‘how’s your poor dear mother?’
 
-‘Oh, she’s very well,’ replied Master Bardell. ‘She’s in the front
+‘Oh, she’s very [[Well|well]],’ replied Master Bardell. ‘She’s in the front
 parlour, all ready. I’m ready too, I am.’ Here Master Bardell put his
-hands in his pockets, and jumped off and on the bottom step of the door.
+hands in his pockets, and jumped off and on the [[Bottom|bottom]] step of the door.
 
 ‘Is anybody else a-goin’, Tommy?’ said Mrs. Cluppins, arranging her
 pelerine.
@@ -102,7 +102,7 @@ pelerine.
 ‘Drat the boy,’ said little Mrs. Cluppins. ‘He thinks of nobody but
 himself. Here, Tommy, dear.’
 
-‘Well,’ said Master Bardell.
+‘[[Well]],’ said Master Bardell.
 
 ‘Who else is a-goin’, lovey?’ said Mrs. Cluppins, in an insinuating
 manner.
@@ -125,34 +125,34 @@ Bardell.
 Tommy, I know.’
 
 No, I won’t,’ replied Master Bardell, shaking his head, and applying
-himself to the bottom step again.
+himself to the [[Bottom|bottom]] step again.
 
-‘Drat the child!’ muttered Mrs. Cluppins. ‘What a prowokin’ little
+‘Drat the [[Child|child]]!’ muttered Mrs. Cluppins. ‘What a prowokin’ little
 wretch it is! Come, Tommy, tell your dear Cluppy.’
 
 ‘Mother said I wasn’t to,’ rejoined Master Bardell, ‘I’m a-goin’ to have
 some, I am.’ Cheered by this prospect, the precocious boy applied
 himself to his infantile treadmill, with increased vigour.
 
-The above examination of a child of tender years took place while Mr.
+The above examination of a [[Child|child]] of tender years took place while Mr.
 and Mrs. Raddle and the cab-driver were having an altercation concerning
-the fare, which, terminating at this point in favour of the cabman, Mrs.
+the fare, which, terminating at this point in favour of the [[cabman]], Mrs.
 Raddle came up tottering.
 
 ‘Lauk, Mary Ann! what’s the matter?’ said Mrs. Cluppins.
 
 ‘It’s put me all over in such a tremble, Betsy,’ replied Mrs. Raddle.
-‘Raddle ain’t like a man; he leaves everythink to me.’
+‘Raddle ain’t like a man; he [[Leaves|leaves]] everythink to me.’
 
 This was scarcely fair upon the unfortunate Mr. Raddle, who had been
 thrust aside by his good lady in the commencement of the dispute, and
 peremptorily commanded to hold his tongue. He had no opportunity of
 defending himself, however, for Mrs. Raddle gave unequivocal signs of
-fainting; which, being perceived from the parlour window, Mrs. Bardell,
+fainting; which, being perceived from the parlour [[Window|window]], Mrs. Bardell,
 Mrs. Sanders, the lodger, and the lodger’s servant, darted precipitately
-out, and conveyed her into the house, all talking at the same time, and
+out, and conveyed her into the [[house]], all talking at the same [[Time|time]], and
 giving utterance to various expressions of pity and condolence, as if
-she were one of the most suffering mortals on earth. Being conveyed into
+she were one of the most [[Suffering|suffering]] mortals on earth. Being conveyed into
 the front parlour, she was there deposited on a sofa; and the lady from
 the first floor running up to the first floor, returned with a bottle of
 sal-volatile, which, holding Mrs. Raddle tight round the neck, she
@@ -161,7 +161,7 @@ with many plunges and struggles was fain to declare herself decidedly
 better.
 
 ‘Ah, poor thing!’ said Mrs. Rogers, ‘I know what her feelin’s is, too
-well.’
+[[Well|well]].’
 
 Ah, poor thing! so do I,’ said Mrs. Sanders; and then all the ladies
 moaned in unison, and said they knew what it was, and they pitied her
@@ -193,7 +193,7 @@ be unkind; but Mary Ann was very far from strong, and, if he didn’t take
 care, he might lose her when he least expected it, which would be a very
 dreadful reflection for him afterwards; and so on. All this, Mr. Raddle
 heard with great submission, and presently returned to the parlour in a
-most lamb-like manner.
+most [[Lamb|lamb]]-like manner.
 
 ‘Why, Mrs. Rogers, ma’am,’ said Mrs. Bardell, ‘you’ve never been
 introduced, I declare! Mr. Raddle, ma’am; Mrs. Cluppins, ma’am; Mrs.
@@ -211,7 +211,7 @@ to a lady which she had heerd so much in favour of, as Mrs. Rogers.’ A
 compliment which the last-named lady acknowledged with graceful
 condescension.
 
-‘Well, Mr. Raddle,’ said Mrs. Bardell; ‘I’m sure you ought to feel very
+‘[[Well]], Mr. Raddle,’ said Mrs. Bardell; ‘I’m sure you ought to feel very
 much honoured at you and Tommy being the only gentlemen to escort so
 many ladies all the way to the Spaniards, at Hampstead. Don’t you think
 he ought, Mrs. Rogers, ma’am?’
@@ -221,7 +221,7 @@ ladies responded, ‘Oh, certainly.’
 
 ‘Of course I feel it, ma’am,’ said Mr. Raddle, rubbing his hands, and
 evincing a slight tendency to brighten up a little. ‘Indeed, to tell you
-the truth, I said, as we was a-coming along in the cabrioily--’
+the [[Truth|truth]], I said, as we was a-coming along in the cabrioily--’
 
 At the recapitulation of the word which awakened so many painful
 recollections, Mrs. Raddle applied her handkerchief to her eyes again,
@@ -232,14 +232,14 @@ desired Mrs. Rogers’s servant, with an air, to ‘put the wine on.’
 This was the signal for displaying the hidden treasures of the closet,
 which comprised sundry plates of oranges and biscuits, and a bottle of
 old crusted port--that at one-and-nine--with another of the celebrated
-East India sherry at fourteen-pence, which were all produced in honour
+East India sherry at fourteen-pence, which were all produced in [[Honour|honour]]
 of the lodger, and afforded unlimited satisfaction to everybody. After
 great consternation had been excited in the mind of Mrs. Cluppins, by an
-attempt on the part of Tommy to recount how he had been cross-examined
+attempt on the part of Tommy to recount how he had been [[Cross|cross]]-examined
 regarding the cupboard then in action (which was fortunately nipped in
 the bud by his imbibing half a glass of the old crusted ‘the wrong way,’
 and thereby endangering his life for some seconds), the party walked
-forth in quest of a Hampstead stage. This was soon found, and in a
+forth in [[Quest|quest]] of a Hampstead stage. This was soon found, and in a
 couple of hours they all arrived safely in the Spaniards Tea-gardens,
 where the luckless Mr. Raddle’s very first act nearly occasioned his
 good lady a relapse; it being neither more nor less than to order tea
@@ -252,7 +252,7 @@ However, there was no help for it, and the tea-tray came, with seven
 cups and saucers, and bread-and-butter on the same scale. Mrs. Bardell
 was unanimously voted into the chair, and Mrs. Rogers being stationed on
 her right hand, and Mrs. Raddle on her left, the meal proceeded with
-great merriment and success.
+great merriment and [[success]].
 
 ‘How sweet the country is, to be sure!’ sighed Mrs. Rogers; ‘I almost
 wish I lived in it always.’
@@ -269,13 +269,13 @@ content with the country, ma’am,’ said little Mrs. Cluppins.
 ‘For lone people as have got nobody to care for them, or take care of
 them, or as have been hurt in their mind, or that kind of thing,’
 observed Mr. Raddle, plucking up a little cheerfulness, and looking
-round, ‘the country is all very well. The country for a wounded spirit,
+round, ‘the country is all very [[Well|well]]. The country for a wounded spirit,
 they say.’
 
 Now, of all things in the world that the unfortunate man could have
 said, any would have been preferable to this. Of course Mrs. Bardell
-burst into tears, and requested to be led from the table instantly; upon
-which the affectionate child began to cry too, most dismally.
+burst into [[Tears|tears]], and requested to be led from the table instantly; upon
+which the affectionate [[Child|child]] began to cry too, most dismally.
 
 ‘Would anybody believe, ma’am,’ exclaimed Mrs. Raddle, turning fiercely
 to the first-floor lodger, ‘that a woman could be married to such a
@@ -289,7 +289,7 @@ every hour in the day, ma’am?’
 
 ‘You must not flurry yourself, Mary Ann,’ interposed Mrs. Cluppins. ‘You
 really must consider yourself, my dear, which you never do. Now go away,
-Raddle, there’s a good soul, or you’ll only aggravate her.’
+Raddle, there’s a good [[Soul|soul]], or you’ll only aggravate her.’
 
 ‘You had better take your tea by yourself, Sir, indeed,’ said Mrs.
 Rogers, again applying the smelling-bottle.
@@ -302,23 +302,23 @@ rather a large size for hugging, into his mother’s arms, in which
 operation he got his boots in the tea-board, and occasioned some
 confusion among the cups and saucers. But that description of fainting
 fits, which is contagious among ladies, seldom lasts long; so when he
-had been well kissed, and a little cried over, Mrs. Bardell recovered,
+had been [[Well|well]] kissed, and a little cried over, Mrs. Bardell recovered,
 set him down again, wondering how she could have been so foolish, and
 poured out some more tea.
 
 It was at this moment, that the sound of approaching wheels was heard,
-and that the ladies, looking up, saw a hackney-coach stop at the garden
+and that the ladies, looking up, saw a hackney-coach stop at the [[Garden|garden]]
 gate.
 
 ‘More company!’ said Mrs. Sanders.
 
 ‘It’s a gentleman,’ said Mrs. Raddle.
 
-‘Well, if it ain’t Mr. Jackson, the young man from Dodson and Fogg’s!’
-cried Mrs. Bardell. ‘Why, gracious! Surely Mr. Pickwick can’t have paid
+‘[[Well]], if it ain’t Mr. Jackson, the young man from Dodson and Fogg’s!’
+cried Mrs. Bardell. ‘Why, gracious! Surely Mr. [[Pickwick]] can’t have paid
 the damages.’
 
-‘Or hoffered marriage!’ said Mrs. Cluppins.
+‘Or hoffered [[Marriage|marriage]]!’ said Mrs. Cluppins.
 
 ‘Dear me, how slow the gentleman is,’ exclaimed Mrs. Rogers. ‘Why
 doesn’t he make haste!’
@@ -335,14 +335,14 @@ Mrs. Bardell eagerly.
 ‘Nothing whatever, ma’am,’ replied Mr. Jackson. ‘How de do, ladies? I
 have to ask pardon, ladies, for intruding--but the law, ladies--the
 law.’ With this apology Mr. Jackson smiled, made a comprehensive bow,
-and gave his hair another wind. Mrs. Rogers whispered Mrs. Raddle that
+and gave his hair another [[Wind|wind]]. Mrs. Rogers whispered Mrs. Raddle that
 he was really an elegant young man.
 
 ‘I called in Goswell Street,’ resumed Mr. Jackson, ‘and hearing that you
 were here, from the slavey, took a coach and came on. Our people want
-you down in the city directly, Mrs. Bardell.’
+you down in the [[City|city]] directly, Mrs. Bardell.’
 
-‘Lor!’ ejaculated that lady, starting at the sudden nature of the
+‘Lor!’ ejaculated that lady, starting at the sudden [[Nature|nature]] of the
 communication.
 
 ‘Yes,’ said Mr. Jackson, biting his lip. ‘It’s very important and
@@ -357,7 +357,7 @@ opinion that it must be very important, or Dodson & Fogg would never
 have sent; and further, that the business being urgent, she ought to
 repair to Dodson & Fogg’s without any delay.
 
-There was a certain degree of pride and importance about being wanted by
+There was a certain degree of [[Pride|pride]] and importance about being wanted by
 one’s lawyers in such a monstrous hurry, that was by no means
 displeasing to Mrs. Bardell, especially as it might be reasonably
 supposed to enhance her consequence in the eyes of the first-floor
@@ -367,7 +367,7 @@ and at last arrived at the conclusion that she supposed she must go.
 ‘But won’t you refresh yourself after your walk, Mr. Jackson?’ said Mrs.
 Bardell persuasively.
 
-‘Why, really there ain’t much time to lose,’ replied Jackson; ‘and I’ve
+‘Why, really there ain’t much [[Time|time]] to lose,’ replied Jackson; ‘and I’ve
 got a friend here,’ he continued, looking towards the man with the ash
 stick.
 
@@ -384,14 +384,14 @@ his discourse, to warn his hearers that he was speaking ironically.
 The waiter was at once despatched to the bashful gentleman, and the
 bashful gentleman took something; Mr. Jackson also took something, and
 the ladies took something, for hospitality’s sake. Mr. Jackson then said
-he was afraid it was time to go; upon which, Mrs. Sanders, Mrs.
+he was afraid it was [[Time|time]] to go; upon which, Mrs. Sanders, Mrs.
 Cluppins, and Tommy (who it was arranged should accompany Mrs. Bardell,
 leaving the others to Mr. Raddle’s protection), got into the coach.
 
 ‘Isaac,’ said Jackson, as Mrs. Bardell prepared to get in, looking up at
 the man with the ash stick, who was seated on the box, smoking a cigar.
 
-‘Well?’
+‘[[Well]]?’
 
 ‘This is Mrs. Bardell.’
 
@@ -418,9 +418,9 @@ trial, I’m told!’ said Jackson.
 ‘Certainly,’ replied Jackson drily. ‘Quite a matter of form. Quite.’
 
 On they drove, and Mrs. Bardell fell asleep. She was awakened, after
-some time, by the stopping of the coach.
+some [[Time|time]], by the stopping of the coach.
 
-‘Bless us!’ said the lady. ‘Are we at Freeman’s Court?’
+‘Bless us!’ said the lady. ‘Are we at Freeman’s [[Court]]?’
 
 ‘We’re not going quite so far,’ replied Jackson. ‘Have the goodness to
 step out.’
@@ -458,14 +458,14 @@ Dodson, ma’am, or a more humane man than Fogg. It was their duty in the
 way of business, to take you in execution for them costs; but they were
 anxious to spare your feelings as much as they could. What a comfort it
 must be, to you, to think how it’s been done! This is the Fleet, ma’am.
-Wish you good-night, Mrs. Bardell. Good-night, Tommy!’
+Wish you good-[[Night|night]], Mrs. Bardell. Good-[[Night|night]], Tommy!’
 
 As Jackson hurried away in company with the man with the ash stick
 another man, with a key in his hand, who had been looking on, led the
 bewildered female to a second short flight of steps leading to a
 doorway. Mrs. Bardell screamed violently; Tommy roared; Mrs. Cluppins
 shrunk within herself; and Mrs. Sanders made off, without more ado. For
-there stood the injured Mr. Pickwick, taking his nightly allowance of
+there stood the injured Mr. [[Pickwick]], taking his nightly allowance of
 air; and beside him leant Samuel Weller, who, seeing Mrs. Bardell, took
 his hat off with mock reverence, while his master turned indignantly on
 his heel.

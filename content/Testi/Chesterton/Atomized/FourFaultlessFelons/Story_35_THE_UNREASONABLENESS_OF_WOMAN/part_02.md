@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE UNREASONABLENESS OF WOMAN (part 2)"
+title: "[[FourFaultlessFelons]] — THE UNREASONABLENESS OF WOMAN (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -26,7 +26,7 @@ rather indescribable turn or change.
 
 "But I did get food at Peacock Crescent. Those horrible revolutionists,
 
-who you say are destroying the whole city, at least prevented me from
+who you say are destroying the whole [[City|city]], at least prevented me from
 
 being destroyed. Suppose, if you like that they treated me like a dog;
 
@@ -66,7 +66,7 @@ She spoke in a lowered voice. "If you are really an educated man and a
 
 gentleman, you ought to be all the more ashamed to work with this gang of
 
-wreckers. It's all very well to talk about a dog, but it's not fair. A
+wreckers. It's all very [[Well|well]] to talk about a dog, but it's not fair. A
 
 dog has only got a master, and naturally he sticks to the only duty
 
@@ -76,7 +76,7 @@ any general sense of right. But can you, as an educated man, reconcile it
 
 with any general sense of right to say you are a dog, and on that excuse
 
-fill the whole town with mad dogs?"
+fill the whole town with mad [[dogs]]?"
 
 
 
@@ -88,7 +88,7 @@ on the heat of intellectual incompatibility, just as she had tried to
 
 wave it away with a gesture when she first made her amazing entry to the
 
-prison. As he looked at her a slow and singular change seemed to pass
+[[Prison|prison]]. As he looked at her a slow and singular change seemed to pass
 
 over his face and he seemed to realize some meaning to the situation he
 
@@ -128,13 +128,13 @@ it for pleasure."
 
 "Oh, I hate that obstinate expression you've got!" she cried with a
 
-curious uncontrollable petulance. "I don't mind dogs, but I hate
+curious uncontrollable petulance. "I don't mind [[dogs]], but I hate
 
 bulldogs. They're always so ugly." Then, suddenly altering her tone, the
 
 Princess added: "I don't see why you should be kept kicking your heels in
 
-this prison, all for your silly prejudices. They're bound to give you a
+this [[Prison|prison]], all for your silly prejudices. They're bound to give you a
 
 long sentence for treason, if they do nothing else, if you will protect
 
@@ -142,21 +142,21 @@ these devils who want to blow us all up tomorrow."
 
 
 
-"Very well," he said in a hard voice. "Then I must make up my mind to be
+"Very [[Well|well]]," he said in a hard voice. "Then I must make up my mind to be
 
 punished for treason because I will not be a traitor."
 
 
 
-Something compact in his curt epigram seemed to savour almost of
+Something compact in his curt [[Epigram|epigram]] seemed to savour almost of
 
-contempt, and her self-control suddenly gave way before a blaze of really
+contempt, and her [[Self|self]]-control suddenly gave way before a blaze of really
 
 royal anger.
 
 
 
-"Very well, then," she cried, turning furiously towards the door, "you
+"Very [[Well|well]], then," she cried, turning furiously towards the door, "you
 
 can lie and rot there for treason, because you won't listen to reason;
 
@@ -168,7 +168,7 @@ suppose you know, what these blasphemous brutes are going to do to us
 
 all. And perhaps God cares, but you don't. You don't care for anything or
 
-anybody but your own chin and your own brutal pride. I've done with you."
+anybody but your own chin and your own brutal [[Pride|pride]]. I've done with you."
 
 
 
@@ -176,13 +176,13 @@ And she flung open the door, incongruously giving another glimpse of the
 
 pudding-faced policeman outside; then she vanished through the opening
 
-and the door clanged again and the prisoner was left alone in his cell.
+and the door clanged again and the prisoner was left [[Alone|alone]] in his cell.
 
 
 
 He sat down on the plank-bed and put his head in his hands, remaining in
 
-this rigid ruminating posture for a long time. Then he rose with a sigh
+this rigid ruminating posture for a long [[Time|time]]. Then he [[Rose|rose]] with a sigh
 
 and approached the door once more, for he heard outside it the heavy
 
@@ -198,7 +198,7 @@ character.
 
 
 
-A few hours afterwards, when the Princess was declining, and the King
+A few hours afterwards, when the Princess was declining, and the [[King]]
 
 accepting, a glass of Italian vermouth from a tray handed by a footman of
 

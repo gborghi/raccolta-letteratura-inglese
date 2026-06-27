@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Scandal in the Village"
+title: "ball and [[Cross|cross]] — A Scandal in the Village"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -16,8 +16,8 @@ tags:
 
 XI.  A SCANDAL IN THE VILLAGE
 
-In the little hamlet of Haroc, in the Isle of St. Loup, there lived
-a man who--though living under the English flag--was absolutely
+In the little [[Hamlet|hamlet]] of Haroc, in the Isle of St. Loup, there lived
+a man who--though living under the English [[Flag|flag]]--was absolutely
 untypical of the French tradition.  He was quite unnoticeable,
 but that was exactly where he was quite himself.  He was not even
 extraordinarily French; but then it is against the French tradition
@@ -40,44 +40,44 @@ you had told him so he would have taken it as an ordinary compliment.
 If you had asked him about women, he would have said that one must
 preserve their domesticity and decorum; he would have used the
 stalest words, but he would have in reserve the strongest arguments.
-If you had asked him about government, he would have said that all
+If you had asked him about [[government]], he would have said that all
 citizens were free and equal, but he would have meant what he said.
-If you had asked him about education, he would have said that the
+If you had asked him about [[Education|education]], he would have said that the
 young must be trained up in habits of industry and of respect for
 their parents.  Still he would have set them the example of industry,
 and he would have been one of the parents whom they could respect.
 A state of mind so hopelessly central is depressing to the
 English instinct.  But then in England a man announcing these
-platitudes is generally a fool and a frightened fool, announcing them
-out of mere social servility.  But Durand was anything but a fool;
+platitudes is generally a [[Fool|fool]] and a frightened [[Fool|fool]], announcing them
+out of mere social servility.  But Durand was anything but a [[Fool|fool]];
 he had read all the eighteenth century, and could have defended
 his platitudes round every angle of eighteenth-century argument.
 And certainly he was anything but a coward:  swollen and sedentary
 as he was, he could have hit any man back who touched him with the
-instant violence of an automatic machine; and dying in a uniform would
+instant violence of an automatic [[Machine|machine]]; and dying in a uniform would
 have seemed to him only the sort of thing that sometimes happens.
-I am afraid it is impossible to explain this monster amid
+I am afraid it is impossible to explain this [[Monster|monster]] amid
 the exaggerative sects and the eccentric clubs of my country.
 He was merely a man.
 
-He lived in a little villa which was furnished well with comfortable
+He lived in a little villa which was furnished [[Well|well]] with comfortable
 chairs and tables and highly uncomfortable classical pictures
-and medallions.  The art in his home contained nothing between the two
+and medallions.  The art in his [[Home|home]] contained nothing between the two
 extremes of hard, meagre designs of Greek heads and Roman togas, and on
 the other side a few very vulgar Catholic images in the crudest colours;
 these were mostly in his daughter's room.  He had recently lost his wife,
-whom he had loved heartily and rather heavily in complete silence,
-and upon whose grave he was constantly in the habit of placing
+whom he had loved heartily and rather heavily in complete [[Silence|silence]],
+and upon whose [[Grave|grave]] he was constantly in the habit of placing
 hideous little wreaths, made out of a sort of black-and-white beads.
 To his only daughter he was equally devoted, though he restricted
-her a good deal under a sort of theoretic alarm about her innocence;
+her a good deal under a sort of theoretic alarm about her [[innocence]];
 an alarm which was peculiarly unnecessary, first, because she
 was an exceptionally reticent and religious girl, and secondly,
 because there was hardly anybody else in the place.
 
 Madeleine Durand was physically a sleepy young woman,
 and might easily have been supposed to be morally a lazy one.
-It is, however, certain that the work of her house was done somehow,
+It is, however, certain that the work of her [[house]] was done somehow,
 and it is even more rapidly ascertainable that nobody else did it.
 The logician is, therefore, driven back upon the assumption that she
 did it; and that lends a sort of mysterious interest to her personality
@@ -90,7 +90,7 @@ as if it had been lifted into the air by two big blue butterflies.
 The rest of her was less than middle-sized, and was of a casual
 and comfortable sort; and she had this difference from such girls
 as the girl in the motor-car, that one did not incline to take in her
-figure at all, but only her broad and leonine and innocent head.
+figure at all, but only her broad and leonine and [[Innocent|innocent]] head.
 
 Both the father and the daughter were of the sort that would
 normally have avoided all observation; that is, all observation
@@ -101,26 +101,26 @@ The father with his square face and grey side whiskers,
 the daughter with her square face and golden fringe of hair,
 were both stronger than they know; stronger than anyone knew.
 The father believed in civilization, in the storied tower we have
-erected to affront nature; that is, the father believed in Man.
+erected to affront [[Nature|nature]]; that is, the father believed in Man.
 The daughter believed in God; and was even stronger.  They neither
 of them believed in themselves; for that is a decadent weakness.
 
 The daughter was called a devotee.  She left upon ordinary
 people the impression--the somewhat irritating impression--
 produced by such a person; it can only be described as the sense
-of strong water being perpetually poured into some abyss.
+of strong [[Water|water]] being perpetually poured into some abyss.
 She did her housework easily; she achieved her social relations sweetly;
 she was never neglectful and never unkind.  This accounted for all
 that was soft in her, but not for all that was hard.  She trod firmly
 as if going somewhere; she flung her face back as if defying something;
-she hardly spoke a cross word, yet there was often battle in her eyes.
+she hardly spoke a [[Cross|cross]] word, yet there was often battle in her eyes.
 The modern man asked doubtfully where all this silent energy went to.
 He would have stared still more doubtfully if he had been told
 that it all went into her prayers.
 
 The conventions of the Isle of St. Loup were necessarily a compromise
 or confusion between those of France and England; and it was vaguely
-possible for a respectable young lady to have half-attached lovers,
+possible for a respectable young lady to have half-attached [[lovers]],
 in a way that would be impossible to the _bourgeoisie_ of France.
 One man in particular had made himself an unmistakable figure
 in the track of this girl as she went to church.  He was a short,
@@ -135,8 +135,8 @@ of Madeleine Durand.  Since everyone knows everyone in so small a place,
 Madeleine certainly knew him to speak to; but it is not very evident
 that she ever spoke.  He haunted her, however; especially at church,
 which was, indeed, one of the few certain places for finding her.
-In her home she had a habit of being invisible, sometimes through
-insatiable domesticity, sometimes through an equally insatiable solitude.
+In her [[Home|home]] she had a habit of being invisible, sometimes through
+insatiable domesticity, sometimes through an equally insatiable [[Solitude|solitude]].
 M. Bert did not give the impression of a pious man, though he did give,
 especially with his eyes, the impression of an honest one.
 But he went to Mass with a simple exactitude that could not
@@ -144,17 +144,17 @@ be mistaken for a pose, or even for a vulgar fascination.
 It was perhaps this religious regularity which eventually drew Madeleine
 into recognition of him.  At least it is certain that she twice spoke
 to him with her square and open smile in the porch of the church;
-and there was human nature enough in the hamlet to turn even
+and there was human [[Nature|nature]] enough in the [[Hamlet|hamlet]] to turn even
 that into gossip.
 
 But the real interest arose suddenly as a squall arises with
 the extraordinary affair that occurred about five days after.
 There was about a third of a mile beyond the village of Haroc a large
-but lonely hotel upon the London or Paris model, but commonly almost
+but lonely hotel upon the [[London]] or [[Paris]] model, but commonly almost
 entirely empty.  Among the accidental group of guests who had come
 to it at this season was a man whose nationality no one could fix
 and who bore the non-committal name of Count Gregory.  He treated
-everybody with complete civility and almost in complete silence.
+everybody with complete civility and almost in complete [[Silence|silence]].
 On the few occasions when he spoke, he spoke either French, English,
 or once (to the priest) Latin; and the general opinion was that
 he spoke them all wrong.  He was a large, lean man, with the stoop
@@ -167,21 +167,21 @@ too old even to know that he was old.  Ye he was decidedly a handsome
 figure with his curled yellow hair and lean fastidious face;
 and he wore a peculiar frock-coat of bright turquoise blue, with an
 unknown order pinned to it, and he carried a huge and heavy cane.
-Despite his silence and his dandified dress and whiskers, the island
+Despite his [[Silence|silence]] and his dandified dress and whiskers, the island
 might never have heard of him but for the extraordinary event
 of which I have spoken, which fell about in the following way:
 
 In such casual atmospheres only the enthusiastic go to Benediction;
 and as the warm blue twilight closed over the little candle-lit church
-and village, the line of worshippers who went home from the former
+and village, the line of worshippers who went [[Home|home]] from the former
 to the latter thinned out until it broke.  On one such evening at
 least no one was in church except the quiet, unconquerable Madeleine,
 four old women, one fisherman, and, of course, the irrepressible
 M. Camille Bert.  The others seemed to melt away afterwards into
 the peacock colours of the dim green grass and the dark blue sky.
 Even Durand was invisible instead of being merely reverentially remote;
-and Madeleine set forth through the patch of black forest alone.
-She was not in the least afraid of loneliness, because she was not
+and Madeleine set forth through the patch of black forest [[Alone|alone]].
+She was not in the least afraid of [[Loneliness|loneliness]], because she was not
 afraid of devils.  I think they were afraid of her.
 
 In a clearing of the wood, however, which was lit up with a last
@@ -191,23 +191,23 @@ Count Gregory, with his yellow hair like flame and his face like
 the white ashes of the flame, was advancing bareheaded towards her,
 flinging out his arms and his long fingers with a frantic gesture.
 
-"We are alone here," he cried, "and you would be at my mercy,
+"We are [[Alone|alone]] here," he cried, "and you would be at my [[Mercy|mercy]],
 only that I am at yours."
 
 Then his frantic hands fell by his sides and he looked up under his
-brows with an expression that went well with his hard breathing.
-Madeleine Durand had come to a halt at first in childish wonder,
-and now, with more than masculine self-control, "I fancy I know
-your face, sir," she said, as if to gain time.
+brows with an expression that went [[Well|well]] with his hard breathing.
+Madeleine Durand had come to a halt at first in childish [[Wonder|wonder]],
+and now, with more than masculine [[Self|self]]-control, "I fancy I know
+your face, sir," she said, as if to gain [[Time|time]].
 
 "I know I shall not forget yours," said the other, and extended once
 more his ungainly arms in an unnatural gesture.  Then of a sudden
 there came out of him a spout of wild and yet pompous phrases.
-"It is as well that you should know the worst and the best.
+"It is as [[Well|well]] that you should know the worst and the best.
 I am a man who knows no limit; I am the most callous of criminals,
 the most unrepentant of sinners.  There is no man in my dominions
-so vile as I. But my dominions stretch from the olives of Italy
-to the fir-woods of Denmark, and there is no nook of all of them
+so vile as I. But my dominions stretch from the olives of [[Italy]]
+to the fir-woods of [[Denmark]], and there is no nook of all of them
 in which I have not done a sin.  But when I bear you away I shall
 be doing my first sacrilege, and also my first act of virtue."
 He seized her suddenly by the elbow; and she did not scream
@@ -219,8 +219,8 @@ own could be recognized.  When it was recognized it was that of Camille,
 with the black elderly beard and the young ardent eyes.
 
 Up to the moment when Camille had hit the Count, Madeleine had
-entertained no doubt that the Count was merely a madman.
-Now she was startled with a new sanity; for the tall man in the yellow
+entertained no [[Doubt|doubt]] that the Count was merely a madman.
+Now she was startled with a new [[Sanity|sanity]]; for the tall man in the yellow
 whiskers and yellow moustache first returned the blow of Bert,
 as if it were a sort of duty, and then stepped back with a slight
 bow and an easy smile.
@@ -235,19 +235,19 @@ gentleman to fight."
 "We are detaining the lady," said Count Gregory, with politeness;
 and, making a gesture suggesting that he would have taken off
 his hat if he had had one, he strode away up the avenue of trees
-and eventually disappeared.  He was so complete an aristocrat
+and eventually disappeared.  He was so complete an [[aristocrat]]
 that he could offer his back to them all the way up that avenue;
 and his back never once looked uncomfortable.
 
-"You must allow me to see you home," said Bert to the girl,
+"You must allow me to see you [[Home|home]]," said Bert to the girl,
 in a gruff and almost stifled voice; "I think we have only a little
 way to go."
 
-"Only a little way," she said, and smiled once more that night,
-in spite of fatigue and fear and the world and the flesh and the devil.
+"Only a little way," she said, and smiled once more that [[Night|night]],
+in spite of fatigue and [[Fear|fear]] and the world and the flesh and the devil.
 The glowing and transparent blue of twilight had long been covered
-by the opaque and slatelike blue of night, when he handed her
-into the lamp-lit interior of her home.  He went out himself into
+by the opaque and slatelike blue of [[Night|night]], when he handed her
+into the lamp-lit interior of her [[Home|home]].  He went out himself into
 the darkness, walking sturdily, but tearing at his black beard.
 
 All the French or semi-French gentry of the district considered this
@@ -264,15 +264,15 @@ And when this was settled the whole community, as it were,
 turned over again in bed and thought no more about the matter.
 At least there was only one member of it who seemed to
 be restless, and that was she who was commonly most restful.
-On the next night Madeleine Durand went to church as usual;
+On the next [[Night|night]] Madeleine Durand went to church as usual;
 and as usual the stricken Camille was there also.  What was not
 so usual was that when they were a bow-shot from the church
 Madeleine turned round and walked back to him.  "Sir," she began,
 "it is not wrong of me to speak to you," and the very words gave
-him a jar of unexpected truth; for in all the novels he had ever
+him a jar of unexpected [[Truth|truth]]; for in all the novels he had ever
 read she would have begun:  "It is wrong of me to speak to you."
 She went on with wide and serious eyes like an animal's: "It is not
-wrong of me to speak to you, because your soul, or anybody's soul,
+wrong of me to speak to you, because your [[Soul|soul]], or anybody's [[Soul|soul]],
 matters so much more than what the world says about anybody.
 I want to talk to you about what you are going to do."
 
@@ -303,13 +303,13 @@ I thought that as you always go to church--I thought you would
 communicate this morning."
 
 Bert stepped backward with a sort of action she had never seen
-in him before.  It seemed to alter his whole body.
+in him before.  It seemed to alter his whole [[Body|body]].
 
 "You may be right or wrong to risk dying," said the girl, simply;
 "the poor women in our village risk it whenever they have a baby.
 You men are the other half of the world.  I know nothing about when
 you ought to die.  But surely if you are daring to try and find God
-beyond the grave and appeal to Him--you ought to let Him find you
+beyond the [[Grave|grave]] and appeal to Him--you ought to let Him find you
 when He comes and stands there every morning in our little church."
 
 And placid as she was, she made a little gesture of argument,
@@ -320,7 +320,7 @@ and frankly pleading face he retreated as if from the jaws of a dragon.
 His dark black hair and beard looked utterly unnatural against the
 startling pallor of his face.  When at last he said something it was:
 "O God!  I can't stand this!"  He did not say it in French.
-Nor did he, strictly speaking, say it in English.  The truth
+Nor did he, strictly speaking, say it in English.  The [[Truth|truth]]
 (interesting only to anthropologists) is that he said it in Scotch.
 
 "There will be another mass in a matter of eight hours,"
@@ -338,7 +338,7 @@ do as you say--I mean not to do it at all?"
 Then it was that Bert exploded with a brutality which might have come
 from Count Gregory, his criminal opponent.  He advanced upon Madeleine
 with flaming eyes, and almost took her by the two shoulders.  "I do not
-love God," he cried, speaking French with the broadest Scotch accent;
+[[Love|love]] God," he cried, speaking French with the broadest Scotch accent;
 "I do not want to find Him; I do not think He is there to be found.
 I must burst up the show; I must and will say everything.  You are
 the happiest and honestest thing I ever saw in this godless universe.
@@ -351,35 +351,35 @@ You have only to go and tell the priest so and he will give you
 God out of his own hands."
 
 "I hate your priest and I deny your God!" cried the man, "and I tell
-you God is a lie and a fable and a mask.  And for the first time
+you God is a lie and a [[Fable|fable]] and a mask.  And for the first [[Time|time]]
 in my life I do not feel superior to God."
 
-"What can it all mean?" said Madeleine, in massive wonder.
+"What can it all mean?" said Madeleine, in massive [[Wonder|wonder]].
 
-"Because I am a fable also and a mask," said the man.
-He had been plucking fiercely at his black beard and hair all the time;
+"Because I am a [[Fable|fable]] also and a mask," said the man.
+He had been plucking fiercely at his black beard and hair all the [[Time|time]];
 now he suddenly plucked them off and flung them like moulted feathers
 in the mire.  This extraordinary spoliation left in the sunlight
 the same face, but a much younger head--a head with close chestnut
 curls and a short chestnut beard.
 
-"Now you know the truth," he answered, with hard eyes.
+"Now you know the [[Truth|truth]]," he answered, with hard eyes.
 "I am a cad who has played a crooked trick on a quiet village
 and a decent woman for a private reason of his own.  I might have
 played it successfully on any other woman; I have hit the one woman
 on whom it cannot be played.  It's just like my damned luck.
-The plain truth is," and here when he came to the plain truth
+The plain [[Truth|truth]] is," and here when he came to the plain [[Truth|truth]]
 he boggled and blundered as Evan had done in telling it to the girl
 in the motor-car.
 
-"The plain truth is," he said at last, "that I am James Turnbull
+"The plain [[Truth|truth]] is," he said at last, "that I am [[James Turnbull]]
 the atheist.  The police are after me; not for atheism but for being
 ready to fight for it."
 
 "I saw something about you in a newspaper," said the girl, with a
 simplicity which even surprise could never throw off its balance.
 
-"Evan MacIan said there was a God," went on the other, stubbornly,
+"[[Evan MacIan]] said there was a God," went on the other, stubbornly,
 "and I say there isn't. And I have come to fight for the fact
 that there is no God; it is for that that I have seen this cursed
 island and your blessed face."
@@ -392,7 +392,7 @@ to be sick when you think of my name.  I am sure there is no God."
 
 "But there is," said Madeleine, quite quietly, and rather with the air
 of one telling children about an elephant.  "Why, I touched His
-body only this morning."
+[[Body|body]] only this morning."
 
 "You touched a bit of bread," said Turnbull, biting his knuckles.
 "Oh, I will say anything that can madden you!"
@@ -405,7 +405,7 @@ tightened ever so little.
 She flung back her open face and smiled.  "Then why did you refuse
 to eat it?" she said.
 
-James Turnbull made a little step backward, and for the first time
+[[James Turnbull]] made a little step backward, and for the first [[Time|time]]
 in his life there seemed to break out and blaze in his head thoughts
 that were not his own.
 
@@ -415,8 +415,8 @@ Why, you have wrecked your whole business because you would
 not commit blasphemy."
 
 The man stood, a somewhat comic figure in his tragic bewilderment,
-with the honest red head of James Turnbull sticking out of the rich
-and fictitious garments of Camille Bert.  But the startled pain
+with the honest red head of [[James Turnbull]] sticking out of the rich
+and fictitious garments of Camille Bert.  But the startled [[Pain|pain]]
 of his face was strong enough to obliterate the oddity.
 
 "You come down here," continued the lady, with that female
@@ -436,14 +436,14 @@ on the very altar you run away from.  You know----"
 
 "I only know," said Turnbull, "that I must run away from you.
 This has got beyond any talking."  And he plunged along into the village,
-leaving his black wig and beard lying behind him on the road.
+leaving his black wig and beard lying behind him on the [[Road|road]].
 
 As the market-place opened before him he saw Count Gregory,
 that distinguished foreigner, standing and smoking in elegant
 meditation at the corner of the local café. He immediately made his
 way rapidly towards him, considering that a consultation was urgent.
 But he had hardly crossed half of that stony quadrangle when a
-window burst open above him and a head was thrust out, shouting.
+[[Window|window]] burst open above him and a head was thrust out, shouting.
 The man was in his woollen undershirt, but Turnbull knew
 the energetic, apologetic head of the sergeant of police.
 He pointed furiously at Turnbull and shouted his name.
@@ -459,13 +459,13 @@ of considerable relief.  Then he joined the flight of Turnbull,
 and even as he did so, with one wrench of his powerful hands
 rent and split the strange, thick stick that he carried.
 Inside it was a naked old-fashioned rapier.  The two got a good
-start up the road before the whole town was awakened behind them;
+start up the [[Road|road]] before the whole town was awakened behind them;
 and half-way up it a similar transformation was seen to take place
 in Mr. Turnbull's singular umbrella.
 
 The two had a long race for the harbour; but the English police
 were heavy and the French inhabitants were indifferent.
-In any case, they got used to the notion of the road being clear;
+In any case, they got used to the notion of the [[Road|road]] being clear;
 and just as they had come to the cliffs MacIan banged into another
 gentleman with unmistakable surprise.  How he knew he was another
 gentleman merely by banging into him, must remain a mystery.
@@ -498,8 +498,8 @@ and he seemed to steady his voice into a sort of solemnity--"if
 you are in a hurry, there's nothing like a good yacht for a man
 in a hurry."
 
-"No doubt you're right," said MacIan, and dashed past him in despair.
-The head of the pursuing host was just showing over the top of the hill
+"No [[Doubt|doubt]] you're right," said MacIan, and dashed past him in [[Despair|despair]].
+The head of the pursuing host was just showing over the top of the [[Hill|hill]]
 behind him.  Turnbull had already ducked under the intoxicated
 gentleman's elbow and fled far in front.
 
@@ -507,22 +507,22 @@ gentleman's elbow and fled far in front.
 after MacIan and catching him by the sleeve of his coat.
 "If you want to hurry you should take a yacht, and if"--he said,
 with a burst of rationality, like one leaping to a further point
-in logic--"if you want a yacht--you can have mine."
+in [[logic]]--"if you want a yacht--you can have mine."
 
 Evan pulled up abruptly and looked back at him.  "We are really
 in the devil of a hurry," he said, "and if you really have a yacht,
-the truth is that we would give our ears for it."
+the [[Truth|truth]] is that we would give our ears for it."
 
 "You'll find it in harbour," said Wilkinson, struggling with his speech.
 "Left side of harbour--called _Gibson Girl_--can't think why,
 old fellow, I never lent it you before."
 
 With these words the benevolent Mr. Wilkinson fell flat on his face
-in the road, but continued to laugh softly, and turned towards
+in the [[Road|road]], but continued to laugh softly, and turned towards
 his flying companion a face of peculiar peace and benignity.
 Evan's mind went through a crisis of instantaneous casuistry,
 in which it may be that he decided wrongly; but about how he decided
-his biographer can profess no doubt.  Two minutes afterwards he had
+his biographer can profess no [[Doubt|doubt]].  Two minutes afterwards he had
 overtaken Turnbull and told the tale; ten minutes afterwards he and
 Turnbull had somehow tumbled into the yacht called the _Gibson Girl_
 and had somehow pushed off from the Isle of St. Loup.

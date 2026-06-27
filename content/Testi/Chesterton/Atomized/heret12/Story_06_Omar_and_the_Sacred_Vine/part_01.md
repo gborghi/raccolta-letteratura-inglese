@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Omar and the Sacred Vine (part 1)"
+title: "[[heret12]] — Omar and the Sacred Vine (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/heret12-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 VII.  Omar and the Sacred Vine
 
 
-A new morality has burst upon us with some violence in connection
+A new [[morality]] has burst upon us with some violence in connection
 with the problem of strong drink; and enthusiasts in the matter
 range from the man who is violently thrown out at 12.30, to the lady
 who smashes American bars with an axe.  In these discussions it
@@ -35,15 +35,15 @@ something, that is, that he ought not to be without; something that
 he may find it difficult to reconcile himself to being without.
 The man may not be seduced who has seen the ecstasy of being ecstatic;
 it is more dazzling to catch a glimpse of the ecstasy of being ordinary.
-If there were a magic ointment, and we took it to a strong man,
+If there were a [[Magic|magic]] ointment, and we took it to a strong man,
 and said, "This will enable you to jump off the Monument,"
 doubtless he would jump off the Monument, but he would not jump off
-the Monument all day long to the delight of the City.  But if we
+the Monument all day long to the delight of the [[City]].  But if we
 took it to a blind man, saying, "This will enable you to see,"
-he would be under a heavier temptation.  It would be hard for him
+he would be under a heavier [[Temptation|temptation]].  It would be hard for him
 not to rub it on his eyes whenever he heard the hoof of a noble
-horse or the birds singing at daybreak.  It is easy to deny one's
-self festivity; it is difficult to deny one's self normality.
+[[Horse|horse]] or the [[Birds|birds]] singing at daybreak.  It is easy to deny one's
+[[Self|self]] festivity; it is difficult to deny one's [[Self|self]] normality.
 Hence comes the fact which every doctor knows, that it is often
 perilous to give alcohol to the sick even when they need it.
 I need hardly say that I do not mean that I think the giving
@@ -52,22 +52,22 @@ But I do mean that giving it to the healthy for fun is the proper
 use of it, and a great deal more consistent with health.
 
 The sound rule in the matter would appear to be like many other
-sound rules--a paradox.  Drink because you are happy, but never because
+sound rules--a [[Paradox|paradox]].  Drink because you are happy, but never because
 you are miserable.  Never drink when you are wretched without it,
 or you will be like the grey-faced gin-drinker in the slum;
 but drink when you would be happy without it, and you will be like
-the laughing peasant of Italy.  Never drink because you need it,
-for this is rational drinking, and the way to death and hell.
+the laughing peasant of [[Italy]].  Never drink because you need it,
+for this is rational drinking, and the way to [[Death|death]] and hell.
 But drink because you do not need it, for this is irrational drinking,
 and the ancient health of the world.
 
-For more than thirty years the shadow and glory of a great
+For more than thirty years the [[Shadow|shadow]] and glory of a great
 Eastern figure has lain upon our English literature.
-Fitzgerald's translation of Omar Khayyam concentrated into an
-immortal poignancy all the dark and drifting hedonism of our time.
+Fitzgerald's [[Translation|translation]] of Omar Khayyam concentrated into an
+immortal poignancy all the dark and drifting hedonism of our [[Time|time]].
 Of the literary splendour of that work it would be merely banal to speak;
 in few other of the books of men has there been anything so combining
-the gay pugnacity of an epigram with the vague sadness of a song.
+the gay pugnacity of an [[Epigram|epigram]] with the vague sadness of a [[Song|song]].
 But of its philosophical, ethical, and religious influence which has
 been almost as great as its brilliancy, I should like to say a word,
 and that word, I confess, one of uncompromising hostility.
@@ -81,13 +81,13 @@ glad old Persian."  Sad he is; glad he is not, in any sense
 of the word whatever.  He has been a worse foe to gladness
 than the Puritans.
 
-A pensive and graceful Oriental lies under the rose-tree
-with his wine-pot and his scroll of poems.  It may seem strange
+A pensive and graceful Oriental lies under the [[Rose|rose]]-tree
+with his wine-pot and his scroll of [[Poems|poems]].  It may seem strange
 that any one's thoughts should, at the moment of regarding him,
 fly back to the dark bedside where the doctor doles out brandy.
 It may seem stranger still that they should go back to the grey
 wastrel shaking with gin in Houndsditch.  But a great philosophical
-unity links the three in an evil bond.  Omar Khayyam's wine-bibbing
+[[unity]] links the three in an evil bond.  Omar Khayyam's wine-bibbing
 is bad, not because it is wine-bibbing. It is bad, and very bad,
 because it is medical wine-bibbing. It is the drinking
 of a man who drinks because he is not happy.  His is the wine
@@ -96,20 +96,20 @@ It is not poetical drinking, which is joyous and instinctive;
 it is rational drinking, which is as prosaic as an investment,
 as unsavoury as a dose of camomile.  Whole heavens above it,
 from the point of view of sentiment, though not of style,
-rises the splendour of some old English drinking-song--
+rises the splendour of some old English drinking-[[Song|song]]--
 
   "Then pass the bowl, my comrades all,
    And let the zider vlow."
 
-For this song was caught up by happy men to express the worth
+For this [[Song|song]] was caught up by happy men to express the worth
 of truly worthy things, of brotherhood and garrulity, and the brief
 and kindly leisure of the poor.  Of course, the great part
 of the more stolid reproaches directed against the Omarite
-morality are as false and babyish as such reproaches usually are.
+[[morality]] are as false and babyish as such reproaches usually are.
 One critic, whose work I have read, had the incredible
 foolishness to call Omar an atheist and a materialist.
 It is almost impossible for an Oriental to be either;
-the East understands metaphysics too well for that.
+the East understands metaphysics too [[Well|well]] for that.
 Of course, the real objection which a philosophical Christian
 would bring against the religion of Omar, is not that he gives
 no place to God, it is that he gives too much place to God.  His is

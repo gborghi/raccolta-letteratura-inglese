@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE BOTTOMLESS WELL (part 2)"
+title: "[[manwho]] — THE BOTTOMLESS [[Well|WELL]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -16,13 +16,13 @@ tags:
 
 perhaps the very greatest thing he really is. If his reputation went
 
-it would weaken us all over Asia and Africa. Well, the story about
+it would weaken us all over Asia and Africa. [[Well]], the story about
 
 that hole in the ground, that goes down nobody knows where, has
 
 always fascinated me, rather. It's Mohammedan in form now, but I
 
-shouldn't wonder if the tale is a long way older than Mohammed. It's
+shouldn't [[Wonder|wonder]] if the tale is a long way older than Mohammed. It's
 
 all about somebody they call the Sultan Aladdin, not our friend of
 
@@ -32,7 +32,7 @@ or giants or something of that sort. They say he commanded the
 
 giants to build him a sort of pagoda, rising higher and higher above
 
-all the stars. The Utmost for the Highest, as the people said when
+all the [[Stars|stars]]. The Utmost for the Highest, as the people said when
 
 they built the Tower of Babel. But the builders of the Tower of
 
@@ -46,11 +46,11 @@ above it, and go on rising for ever and ever. And Allah cast him
 
 down to earth with a thunderbolt, which sank into the earth, boring
 
-a hole deeper and deeper, till it made a well that was without a
+a hole deeper and deeper, till it made a [[Well|well]] that was without a
 
-bottom as the tower was to have been without a top. And down that
+[[Bottom|bottom]] as the tower was to have been without a top. And down that
 
-inverted tower of darkness the soul of the proud Sultan is falling
+inverted tower of darkness the [[Soul|soul]] of the proud Sultan is falling
 
 forever and ever."
 
@@ -62,9 +62,9 @@ could believe those fables."
 
 
 
-"Perhaps I believe the moral and not the fable," answered Fisher.
+"Perhaps I believe the moral and not the [[Fable|fable]]," answered Fisher.
 
-"But here comes Lady Hastings. You know her, I think."
+"But here comes Lady [[Hastings]]. You know her, I think."
 
 
 
@@ -84,7 +84,7 @@ silver and face of bronze, like that of a brazen eagle, were often
 
 to be found bent over the charts and folios of the library. The
 
-great Lord Hastings believed in science and study, as in other
+great Lord [[Hastings]] believed in science and study, as in other
 
 severe ideals of life, and had given much paternal advice on the
 
@@ -98,7 +98,7 @@ of the library on to the golf links. But, above all, the club was so
 
 appointed as to serve the social conveniences of ladies at least as
 
-much as gentlemen, and Lady Hastings was able to play the queen in
+much as gentlemen, and Lady [[Hastings]] was able to play the [[Queen|queen]] in
 
 such a society almost as much as in her own ballroom. She was
 
@@ -112,7 +112,7 @@ looked after her a little sardonically as she swept away with the
 
 young soldier. Then his rather dreary eye strayed to the green and
 
-prickly growths round the well, growths of that curious cactus
+prickly growths round the [[Well|well]], growths of that curious cactus
 
 formation in which one thick leaf grows directly out of the other
 
@@ -120,13 +120,13 @@ without stalk or twig. It gave his fanciful mind a sinister feeling
 
 of a blind growth without shape or purpose. A flower or shrub in the
 
-West grows to the blossom which is its crown, and is content. But
+West grows to the blossom which is its [[Crown|crown]], and is content. But
 
 this was as if hands could grow out of hands or legs grow out of
 
-legs in a nightmare. "Always adding a province to the Empire," he
+legs in a [[nightmare]]. "Always adding a province to the Empire," he
 
-said, with a smile, and then added, more sadly, "but I doubt if I
+said, with a smile, and then added, more sadly, "but I [[Doubt|doubt]] if I
 
 was right, after all!"
 
@@ -196,7 +196,7 @@ the little boys in the street."
 
 "I'm ashamed of myself," replied Fisher.  "I've just been throwing
 
-cold water on the enthusiasms of a boy."
+cold [[Water|water]] on the enthusiasms of a boy."
 
 
 
@@ -226,7 +226,7 @@ of the rut of the most rotten ideal."
 
 direction," answered Fisher; "a pretty endless sort of direction, a
 
-bottomless pit as deep as the bottomless well."
+bottomless pit as deep as the bottomless [[Well|well]]."
 
 
 

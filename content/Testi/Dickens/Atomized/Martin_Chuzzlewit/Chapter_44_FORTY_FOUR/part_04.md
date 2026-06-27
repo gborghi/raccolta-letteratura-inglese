@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 44: FORTY FOUR (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -34,19 +34,19 @@ spirits; Jonas gloomy and lowering.
 ‘You don’t want me, I suppose?’ said Jonas.
 
 ‘I want you to put your name here,’ he returned, glancing at him with a
-smile, ‘as soon as I have filled up the stamp. I may as well have your
+smile, ‘as soon as I have filled up the stamp. I may as [[Well|well]] have your
 note of hand for that extra capital. That’s all I want. If you wish
-to go home, I can manage Mr Pecksniff now, alone. There is a perfect
+to go [[Home|home]], I can manage Mr Pecksniff now, [[Alone|alone]]. There is a perfect
 understanding between us.’
 
-Jonas sat scowling at him as he wrote, in silence. When he had
+Jonas sat scowling at him as he wrote, in [[Silence|silence]]. When he had
 finished his writing, and had dried it on the blotting paper in his
 travelling-desk; he looked up, and tossed the pen towards him.
 
 ‘What, not a day’s grace, not a day’s trust, eh?’ said Jonas bitterly.
-‘Not after the pains I have taken with to-night’s work?’
+‘Not after the pains I have taken with to-[[Night|night]]’s work?’
 
-‘To night’s work was a part of our bargain,’ replied Montague; ‘and so
+‘To [[Night|night]]’s work was a part of our bargain,’ replied Montague; ‘and so
 was this.’
 
 ‘You drive a hard bargain,’ said Jonas, advancing to the table. ‘You
@@ -67,12 +67,12 @@ Even when he used a different pen, and the right ink, he made some
 scratches on another paper first, as half believing they would turn red
 also.
 
-‘Black enough, this time,’ he said, handing the note to Montague.
+‘Black enough, this [[Time|time]],’ he said, handing the note to Montague.
 ‘Good-bye.’
 
 ‘Going now! how do you mean to get away from here?’
 
-‘I shall cross early in the morning to the high road, before you are out
+‘I shall [[Cross|cross]] early in the morning to the high [[Road|road]], before you are out
 of bed; and catch the day-coach, going up. Good-bye!’
 
 ‘You are in a hurry!’
@@ -83,4 +83,4 @@ His friend looked after him as he went out, in surprise, which gradually
 gave place to an air of satisfaction and relief.
 
 ‘It happens all the better. It brings about what I wanted, without any
-difficulty. I shall travel home alone.’
+difficulty. I shall travel [[Home|home]] [[Alone|alone]].’

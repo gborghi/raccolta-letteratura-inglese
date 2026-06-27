@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 6 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 6 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -32,7 +32,7 @@ in all probability, from the influence of their brother’s admiration. It
 was generally evident, whenever they met, that he _did_ admire her; and
 to _her_ it was equally evident that Jane was yielding to the preference
 which she had begun to entertain for him from the first, and was in a
-way to be very much in love; but she considered with pleasure that it
+way to be very much in [[Love|love]]; but she considered with pleasure that it
 was not likely to be discovered by the world in general, since Jane
 united with great strength of feeling, a composure of temper and an
 uniform cheerfulness of manner, which would guard her from the
@@ -44,15 +44,15 @@ on the public in such a case; but it is sometimes a disadvantage to be
 so very guarded. If a woman conceals her affection with the same skill
 from the object of it, she may lose the opportunity of fixing him; and
 it will then be but poor consolation to believe the world equally in the
-dark. There is so much of gratitude or vanity in almost every
+dark. There is so much of gratitude or [[Vanity|vanity]] in almost every
 attachment, that it is not safe to leave any to itself. We can all
 _begin_ freely--a slight preference is natural enough; but there are
-very few of us who have heart enough to be really in love without
+very few of us who have heart enough to be really in [[Love|love]] without
 encouragement. In nine cases out of ten, a woman had better show _more_
 affection than she feels. Bingley likes your sister undoubtedly; but he
 may never do more than like her, if she does not help him on.”
 
-“But she does help him on, as much as her nature will allow. If _I_ can
+“But she does help him on, as much as her [[Nature|nature]] will allow. If _I_ can
 perceive her regard for him, he must be a simpleton indeed not to
 discover it too.”
 
@@ -67,15 +67,15 @@ always see each other in large mixed parties, it is impossible that
 every moment should be employed in conversing together. Jane should
 therefore make the most of every half hour in which she can command his
 attention. When she is secure of him, there will be leisure for falling
-in love as much as she chooses.”
+in [[Love|love]] as much as she chooses.”
 
 “Your plan is a good one,” replied Elizabeth, “where nothing is in
-question but the desire of being well married; and if I were determined
+question but the [[Desire|desire]] of being [[Well|well]] married; and if I were determined
 to get a rich husband, or any husband, I dare say I should adopt it. But
 these are not Jane’s feelings; she is not acting by design. As yet she
 cannot even be certain of the degree of her own regard, nor of its
 reasonableness. She has known him only a fortnight. She danced four
-dances with him at Meryton; she saw him one morning at his own house,
+dances with him at Meryton; she saw him one morning at his own [[house]],
 and has since dined in company with him four times. This is not quite
 enough to make her understand his character.”
 
@@ -88,11 +88,11 @@ evenings may do a great deal.”
 like Vingt-un better than Commerce, but with respect to any other
 leading characteristic, I do not imagine that much has been unfolded.”
 
-“Well,” said Charlotte, “I wish Jane success with all my heart; and if
+“[[Well]],” said Charlotte, “I wish Jane [[success]] with all my heart; and if
 she were married to him to-morrow, I should think she had as good a
 chance of happiness as if she were to be studying his character for a
-twelvemonth. Happiness in marriage is entirely a matter of chance. If
-the dispositions of the parties are ever so well known to each other, or
+twelvemonth. Happiness in [[Marriage|marriage]] is entirely a matter of chance. If
+the dispositions of the parties are ever so [[Well|well]] known to each other, or
 ever so similar beforehand, it does not advance their felicity in the
 least. They always continue to grow sufficiently unlike afterwards to
 have their share of vexation; and it is better to know as little as
@@ -117,7 +117,7 @@ pleasing; and in spite of his asserting that her manners were not those
 of the fashionable world, he was caught by their easy playfulness. Of
 this she was perfectly unaware: to her he was only the man who made
 himself agreeable nowhere, and who had not thought her handsome enough
-to dance with.
+to [[Dance|dance]] with.
 
 He began to wish to know more of her; and, as a step towards conversing
 with her himself, attended to her conversation with others. His doing so

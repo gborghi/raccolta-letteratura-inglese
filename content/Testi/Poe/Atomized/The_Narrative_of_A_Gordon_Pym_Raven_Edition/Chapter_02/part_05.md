@@ -20,19 +20,19 @@ tags:
 
       amazement—but I could not forget the peculiar whine of my
 
-      Newfoundland dog Tiger, and the odd manner of his caresses I well
+      Newfoundland dog Tiger, and the odd manner of his caresses I [[Well|well]]
 
-      knew. It was he. I experienced a sudden rush of blood to my
+      knew. It was he. I experienced a sudden rush of [[Blood|blood]] to my
 
       temples—a giddy and overpowering sense of deliverance and
 
-      reanimation. I rose hurriedly from the mattress upon which I had
+      reanimation. I [[Rose|rose]] hurriedly from the mattress upon which I had
 
       been lying, and, throwing myself upon the neck of my faithful
 
       follower and friend, relieved the long oppression of my bosom in
 
-      a flood of the most passionate tears.
+      a flood of the most passionate [[Tears|tears]].
 
 
 
@@ -40,11 +40,11 @@ tags:
 
       greatest indistinctness and confusion after leaving the mattress.
 
-      For a long time I found it nearly impossible to connect any
+      For a long [[Time|time]] I found it nearly impossible to connect any
 
       ideas; but, by very slow degrees, my thinking faculties returned,
 
-      and I again called to memory the several incidents of my
+      and I again called to [[Memory|memory]] the several incidents of my
 
       condition. For the presence of Tiger I tried in vain to account;
 
@@ -52,9 +52,9 @@ tags:
 
       respecting him, was forced to content myself with rejoicing that
 
-      he was with me to share my dreary solitude, and render me comfort
+      he was with me to share my dreary [[Solitude|solitude]], and render me comfort
 
-      by his caresses. Most people love their dogs—but for Tiger I had
+      by his caresses. Most people [[Love|love]] their [[dogs]]—but for Tiger I had
 
       an affection far more ardent than common; and never, certainly,
 
@@ -66,9 +66,9 @@ tags:
 
       the animal. I had rescued him, when a puppy, from the clutches of
 
-      a malignant little villain in Nantucket who was leading him, with
+      a malignant little [[Villain|villain]] in Nantucket who was leading him, with
 
-      a rope around his neck, to the water; and the grown dog repaid
+      a rope around his neck, to the [[Water|water]]; and the grown dog repaid
 
       the obligation, about three years afterward, by saving me from
 
@@ -84,31 +84,31 @@ tags:
 
       feelings, that I had slept, as before, for a very long period of
 
-      time, how long, it was of course impossible to say. I was burning
+      [[Time|time]], how long, it was of course impossible to say. I was burning
 
       up with fever, and my thirst was almost intolerable. I felt about
 
-      the box for my little remaining supply of water, for I had no
+      the box for my little remaining supply of [[Water|water]], for I had no
 
       light, the taper having burnt to the socket of the lantern, and
 
       the phosphorus-box not coming readily to hand. Upon finding the
 
-      jug, however, I discovered it to be empty—Tiger, no doubt, having
+      jug, however, I discovered it to be empty—Tiger, no [[Doubt|doubt]], having
 
-      been tempted to drink it, as well as to devour the remnant of
+      been tempted to drink it, as [[Well|well]] as to devour the remnant of
 
-      mutton, the bone of which lay, well picked, by the opening of the
+      mutton, the bone of which lay, [[Well|well]] picked, by the opening of the
 
-      box. The spoiled meat I could well spare, but my heart sank as I
+      box. The spoiled meat I could [[Well|well]] spare, but my heart sank as I
 
-      thought of the water. I was feeble in the extreme—so much so that
+      thought of the [[Water|water]]. I was feeble in the extreme—so much so that
 
       I shook all over, as with an ague, at the slightest movement or
 
       exertion. To add to my troubles, the brig was pitching and
 
-      rolling with great violence, and the oil-casks which lay upon my
+      [[rolling]] with great violence, and the oil-casks which lay upon my
 
       box were in momentary danger of falling down, so as to block up
 
@@ -130,7 +130,7 @@ tags:
 
       placed them), I gave up the search for the present, and bidding
 
-      Tiger lie quiet, began at once my journey toward the trap.
+      Tiger lie quiet, began at once my [[Journey|journey]] toward the trap.
 
 
 
@@ -148,7 +148,7 @@ tags:
 
       swoon amid the narrow and intricate windings of the lumber, in
 
-      which event I had nothing but death to expect as the result. At
+      which event I had nothing but [[Death|death]] to expect as the result. At
 
       length, upon making a push forward with all the energy I could
 
@@ -166,7 +166,7 @@ tags:
 
       position, it being closely wedged in among the surrounding boxes
 
-      and ship-furniture. It became necessary, therefore, enfeebled as
+      and [[Ship|ship]]-furniture. It became necessary, therefore, enfeebled as
 
       I was, either to leave the guidance of the whipcord and seek out
 
@@ -176,7 +176,7 @@ tags:
 
       difficulties and dangers to be thought of without a shudder. In
 
-      my present weak state of both mind and body, I should infallibly
+      my present weak state of both mind and [[Body|body]], I should infallibly
 
       lose my way if I attempted it, and perish miserably amid the
 

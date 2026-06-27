@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE HOLE IN THE WALL (part 5)"
+title: "[[manwho]] — THE HOLE IN THE WALL (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -28,7 +28,7 @@ that his bed had been slept in and his skates and his fancy costume
 
 were gone, as if he had risen early for the purpose he had himself
 
-avowed. But from the top of the house to the bottom, from the walls
+avowed. But from the top of the [[house]] to the [[Bottom|bottom]], from the walls
 
 round the park to the pond in the center, there was no trace of Lord
 
@@ -58,11 +58,11 @@ keeper had seen no one pass. Fisher was fairly sure that he had
 
 before him a mathematical problem in an inclosed space. His instinct
 
-had been from the first so attuned to the tragedy that it would have
+had been from the first so attuned to the [[Tragedy|tragedy]] that it would have
 
 been almost a relief to him to find the corpse. He would have been
 
-grieved, but not horrified, to come on the nobleman's body dangling
+grieved, but not horrified, to come on the nobleman's [[Body|body]] dangling
 
 from one of his own trees as from a gibbet, or floating in his own
 
@@ -70,11 +70,11 @@ pool like a pallid weed. What horrified him was to find nothing.
 
 
 
-He soon become conscious that he was not alone even in his most
+He soon become conscious that he was not [[Alone|alone]] even in his most
 
 individual and isolated experiments. He often found a figure
 
-following him like his shadow, in silent and almost secret clearings
+following him like his [[Shadow|shadow]], in silent and almost secret clearings
 
 in the plantation or outlying nooks and corners of the old wall. The
 
@@ -92,13 +92,13 @@ with him.
 
 
 
-"This silence is rather a social strain," he said.  "May I break the
+"This [[Silence|silence]] is rather a social strain," he said.  "May I break the
 
 ice by talking about the weather?--which, by the way, has already
 
 broken the ice. I know that breaking the ice might be a rather
 
-melancholy metaphor in this case."
+[[Melancholy|melancholy]] metaphor in this case."
 
 
 
@@ -112,11 +112,11 @@ had much to do with it. I don't see how it could."
 
 
 
-"Well, we've sent for the authorities, of course, but I hope to find
+"[[Well]], we've sent for the authorities, of course, but I [[Hope|hope]] to find
 
 something out before they come," replied the Anglo-Indian. "I can't
 
-say I have much hope from police methods in this country. Too much
+say I have much [[Hope|hope]] from police methods in this country. Too much
 
 red tape, habeas corpus and that sort of thing. What we want is to
 
@@ -128,7 +128,7 @@ lately, except that lawyer who was poking about for antiquities."
 
 
 
-"Oh, he's out of it; he left last night," answered the other. "Eight
+"Oh, he's out of it; he left last [[Night|night]]," answered the other. "Eight
 
 hours after Bulmer's chauffeur saw his lawyer off by the train I
 
@@ -160,11 +160,11 @@ and a psychological development of an entirely unexpected kind.
 
 
 
-Juliet Bray had confronted the catastrophe of her brother's
+[[Juliet]] Bray had confronted the catastrophe of her brother's
 
 disappearance with a somber stoicism in which there was, perhaps,
 
-more paralysis than pain; but when the other question came to the
+more paralysis than [[Pain|pain]]; but when the other question came to the
 
 surface she was both agitated and angry.
 
@@ -192,11 +192,11 @@ sleuthhounds."
 
 
 
-"And I think you're a pack of snobs," said Juliet.  "Because Mr.
+"And I think you're a pack of snobs," said [[Juliet]].  "Because Mr.
 
 Crane is a genius who's made his own way, you try to suggest he's a
 
-murderer without daring to say so. Because he wore a toy sword and
+murderer without daring to say so. Because he wore a toy [[Sword|sword]] and
 
 happened to know how to use it, you want us to believe he used it
 
@@ -212,7 +212,7 @@ comes."
 
 
 
-And, indeed, the green figure of the fictitious Robin Hood slowly
+And, indeed, the green figure of the fictitious [[Robin Hood]] slowly
 
 detached itself from the gray background of the trees, and came
 
@@ -226,7 +226,7 @@ decidedly pale, and the eyes of Brain and Fisher had already taken
 
 in one detail of the green-clad figure more clearly than all the
 
-rest. The horn still swung from his baldrick, but the sword was
+rest. The horn still swung from his baldrick, but the [[Sword|sword]] was
 
 gone.
 

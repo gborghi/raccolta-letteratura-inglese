@@ -17,14 +17,14 @@ tags:
 PASSING THROUGH THE CUSTOMS
 
 THE more a man thinks and travels, the more plainly it will appear
-that nearly every Christian nation, like nearly every Christian marriage,
+that nearly every Christian nation, like nearly every Christian [[Marriage|marriage]],
 is a kind of passionate compromise that no one else can understand.
 Just as in one family the man may collect snakes because he may not
-smoke cigars, or in another house the woman may be a shrew because
+smoke cigars, or in another [[house]] the woman may be a shrew because
 she is not a Suffragette, so every great European people achieves
 a practical equilibrium in some particular and almost secret manner.
 It is a mistake to suppose that this equilibrium is peculiar
-to certain people--to talk about Germany as `efficient',
+to certain people--to talk about [[Germany]] as `efficient',
 or England as `businesslike'. In a superficial sense, all the great
 white nations are efficient; in a deeper and grander sense,
 the whole human race is as inefficient as an idiot school.
@@ -32,14 +32,14 @@ But the peoples of Europe are not so much seeking different things
 as seeking the same things in different ways.
 
 I passed lately through the Custom Houses of three countries--
-England, France, and Germany.  They were as different as a lecture,
+England, France, and [[Germany]].  They were as different as a lecture,
 a massacre, and a morning call; they might have been done in
-three different planets or by three different races of animals.
+three different planets or by three different races of [[Animals|animals]].
 But they were all equally efficient, they were all a nuisance and they
-all took almost exactly the same time to a tick of the clock.
+all took almost exactly the same [[Time|time]] to a tick of the [[Clock|clock]].
 The French douane impressed an English lady who was unfamiliar
 with travel with the idea that she had got into some particularly
-squalid and sanguinary corner of the French Revolution.
+squalid and sanguinary corner of the [[French Revolution]].
 Bullet-headed men barging and hanging into everybody, bawling at the top
 of their voices and throwing luggage about like lumber--this vision
 struck her simple mind as having in it some element of confusion.
@@ -52,9 +52,9 @@ nor because they are inefficient, nor yet because they are efficient.
 They bang and bawl because they are French; they like it;
 it seems to soothe them.'
 
-The French Custom House had been a small, dusty, wooden room
-like a shed The German Custom House was a vast twilight temple,
-inlaid with gold and mosaic, like the roof of St Paul's Cathedral.
+The French Custom [[house|House]] had been a small, dusty, wooden room
+like a shed The German Custom [[house|House]] was a vast twilight temple,
+inlaid with gold and mosaic, like the roof of St Paul's [[Cathedral]].
 Vast spaces of its echoing floors were not used or even inhabited.
 Numbers of its officials, standing about in uniforms of an
 aesthetic peacock green, seemed to have nothing to do at all.

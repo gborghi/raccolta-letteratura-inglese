@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 6)"
+title: "[[The Murders in the Rue Morgue]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -20,13 +20,13 @@ tags:
 
       other. He then bowed and departed. Did not see any person in the
 
-      street at the time. It is a by-street—very lonely.
+      street at the [[Time|time]]. It is a by-street—very lonely.
 
 
 
       “_William Bird_, tailor deposes that he was one of the party who
 
-      entered the house. Is an Englishman. Has lived in Paris two
+      entered the [[house]]. Is an Englishman. Has lived in [[Paris]] two
 
       years. Was one of the first to ascend the stairs. Heard the
 
@@ -50,7 +50,7 @@ tags:
 
       “Four of the above-named witnesses, being recalled, deposed that
 
-      the door of the chamber in which was found the body of
+      the door of the chamber in which was found the [[Body|body]] of
 
       Mademoiselle L. was locked on the inside when the party reached
 
@@ -66,21 +66,21 @@ tags:
 
       with the key on the inside. A small room in the front of the
 
-      house, on the fourth story, at the head of the passage was open,
+      [[house]], on the fourth story, at the head of the passage was open,
 
       the door being ajar. This room was crowded with old beds, boxes,
 
       and so forth. These were carefully removed and searched. There
 
-      was not an inch of any portion of the house which was not
+      was not an inch of any portion of the [[house]] which was not
 
       carefully searched. Sweeps were sent up and down the chimneys.
 
-      The house was a four story one, with garrets (_mansardes._) A
+      The [[house]] was a four story one, with garrets (_mansardes._) A
 
       trap-door on the roof was nailed down very securely—did not
 
-      appear to have been opened for years. The time elapsing between
+      appear to have been opened for years. The [[Time|time]] elapsing between
 
       the hearing of the voices in contention and the breaking open of
 
@@ -96,7 +96,7 @@ tags:
 
       Morgue. Is a native of Spain. Was one of the party who entered
 
-      the house. Did not proceed up stairs. Is nervous, and was
+      the [[house]]. Did not proceed up stairs. Is nervous, and was
 
       apprehensive of the consequences of agitation. Heard the voices
 
@@ -122,7 +122,7 @@ tags:
 
       the voice of a Russian. Corroborates the general testimony. Is an
 
-      Italian. Never conversed with a native of Russia.
+      Italian. Never conversed with a native of [[Russia]].
 
 
 
@@ -136,9 +136,9 @@ tags:
 
       chimneys. These brushes were passed up and down every flue in the
 
-      house. There is no back passage by which any one could have
+      [[house]]. There is no back passage by which any one could have
 
-      descended while the party proceeded up stairs. The body of
+      descended while the party proceeded up stairs. The [[Body|body]] of
 
       Mademoiselle L’Espanaye was so firmly wedged in the chimney that
 
@@ -172,15 +172,15 @@ tags:
 
       apparently, by the pressure of a knee. In the opinion of M.
 
-      Dumas, Mademoiselle L’Espanaye had been throttled to death by
+      Dumas, Mademoiselle L’Espanaye had been throttled to [[Death|death]] by
 
       some person or persons unknown. The corpse of the mother was
 
       horribly mutilated. All the bones of the right leg and arm were
 
-      more or less shattered. The left _tibia_ much splintered, as well
+      more or less shattered. The left _tibia_ much splintered, as [[Well|well]]
 
-      as all the ribs of the left side. Whole body dreadfully bruised
+      as all the ribs of the left side. Whole [[Body|body]] dreadfully bruised
 
       and discolored. It was not possible to say how the injuries had
 
@@ -194,7 +194,7 @@ tags:
 
       the deceased, when seen by witness, was entirely separated from
 
-      the body, and was also greatly shattered. The throat had
+      the [[Body|body]], and was also greatly shattered. The throat had
 
       evidently been cut with some very sharp instrument—probably with
 

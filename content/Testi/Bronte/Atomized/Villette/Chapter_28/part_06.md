@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 27 (part 6)"
+title: "[[Villette]] — Chapter 27 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -48,12 +48,12 @@ he called a smile, but any illuminated sign of milder or warmer
 feelings struck me as wholly new in his visage. It changed it as from a
 mask to a face: the deep lines left his features; the very complexion
 seemed clearer and fresher; that swart, sallow, southern darkness which
-spoke his Spanish blood, became displaced by a lighter hue. I know not
+spoke his Spanish [[Blood|blood]], became displaced by a lighter hue. I know not
 that I have ever seen in any other human face an equal metamorphosis
 from a similar cause. He now took me to the carriage: at the same
 moment M. de Bassompierre came out with his niece.
 
-In a pretty humour was Mistress Fanshawe; she had found the evening a
+In a pretty [[Humour|humour]] was Mistress Fanshawe; she had found the evening a
 grand failure: completely upset as to temper, she gave way to the most
 uncontrolled moroseness as soon as we were seated, and the
 carriage-door closed. Her invectives against Dr. Bretton had something
@@ -61,18 +61,18 @@ venomous in them. Having found herself impotent either to charm or
 sting him, hatred was her only resource; and this hatred she expressed
 in terms so unmeasured and proportion so monstrous, that, after
 listening for a while with assumed stoicism, my outraged sense of
-justice at last and suddenly caught fire. An explosion ensued: for I
+justice at last and suddenly caught [[Fire|fire]]. An explosion ensued: for I
 could be passionate, too; especially with my present fair but faulty
-associate, who never failed to stir the worst dregs of me. It was well
+associate, who never failed to stir the worst dregs of me. It was [[Well|well]]
 that the carriage-wheels made a tremendous rattle over the flinty
 Choseville pavement, for I can assure the reader there was neither dead
-silence nor calm discussion within the vehicle. Half in earnest, half
-in seeming, I made it my business to storm down Ginevra. She had set
+[[Silence|silence]] nor calm discussion within the vehicle. Half in earnest, half
+in seeming, I made it my business to [[Storm|storm]] down Ginevra. She had set
 out rampant from the Rue Crécy; it was necessary to tame her before we
 reached the Rue Fossette: to this end it was indispensable to show up
 her sterling value and high deserts; and this must be done in language
 of which the fidelity and homeliness might challenge comparison with
 the compliments of a John Knox to a Mary Stuart. This was the right
 discipline for Ginevra; it suited her. I am quite sure she went to bed
-that night all the better and more settled in mind and mood, and slept
+that [[Night|night]] all the better and more settled in mind and mood, and slept
 all the more sweetly for having undergone a sound moral drubbing.

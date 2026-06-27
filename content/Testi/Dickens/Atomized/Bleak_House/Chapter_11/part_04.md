@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 11 (part 4)"
+title: "Bleak [[house|House]] — Chapter 11 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,20 +20,20 @@ large shirt-collar, with a moist eye and an inflamed nose, who
 modestly takes a position near the door as one of the general public,
 but seems familiar with the room too. A whisper circulates that this
 is Little Swills. It is considered not unlikely that he will get up
-an imitation of the coroner and make it the principal feature of the
+an [[Imitation|imitation]] of the coroner and make it the principal feature of the
 Harmonic Meeting in the evening.
 
-“Well, gentlemen—” the coroner begins.
+“[[Well]], gentlemen—” the coroner begins.
 
-“Silence there, will you!” says the beadle. Not to the coroner,
+“[[Silence]] there, will you!” says the beadle. Not to the coroner,
 though it might appear so.
 
-“Well, gentlemen,” resumes the coroner. “You are impanelled here to
-inquire into the death of a certain man. Evidence will be given
-before you as to the circumstances attending that death, and you will
+“[[Well]], gentlemen,” resumes the coroner. “You are impanelled here to
+inquire into the [[Death|death]] of a certain man. Evidence will be given
+before you as to the circumstances attending that [[Death|death]], and you will
 give your verdict according to the—skittles; they must be stopped,
 you know, beadle!—evidence, and not according to anything else. The
-first thing to be done is to view the body.”
+first thing to be done is to view the [[Body|body]].”
 
 “Make way there!” cries the beadle.
 
@@ -58,7 +58,7 @@ bagatelle-board, and the coal-box. The inquiry proceeds. The jury
 learn how the subject of their inquiry died, and learn no more about
 him. “A very eminent solicitor is in attendance, gentlemen,” says the
 coroner, “who, I am informed, was accidentally present when discovery
-of the death was made, but he could only repeat the evidence you have
+of the [[Death|death]] was made, but he could only repeat the evidence you have
 already heard from the surgeon, the landlord, the lodger, and the
 law-stationer, and it is not necessary to trouble him. Is anybody in
 attendance who knows anything more?”
@@ -70,11 +70,11 @@ you got to say about this?
 
 Why, Mrs. Piper has a good deal to say, chiefly in parentheses and
 without punctuation, but not much to tell. Mrs. Piper lives in the
-court (which her husband is a cabinet-maker), and it has long been
-well beknown among the neighbours (counting from the day next but one
+[[Court|court]] (which her husband is a cabinet-maker), and it has long been
+[[Well|well]] beknown among the neighbours (counting from the day next but one
 before the half-baptizing of Alexander James Piper aged eighteen
 months and four days old on accounts of not being expected to live
-such was the sufferings gentlemen of that child in his gums) as the
+such was the sufferings gentlemen of that [[Child|child]] in his gums) as the
 plaintive—so Mrs. Piper insists on calling the deceased—was
 reported to have sold himself. Thinks it was the plaintive’s air in
 which that report originatinin. See the plaintive often and
@@ -86,12 +86,12 @@ worrited by the children (for children they will ever be and you
 cannot expect them specially if of playful dispositions to be
 Methoozellers which you was not yourself). On accounts of this and
 his dark looks has often dreamed as she see him take a pick-axe from
-his pocket and split Johnny’s head (which the child knows not fear
+his pocket and split Johnny’s head (which the [[Child|child]] knows not [[Fear|fear]]
 and has repeatually called after him close at his eels). Never
 however see the plaintive take a pick-axe or any other wepping far
 from it. Has seen him hurry away when run and called after as if not
-partial to children and never see him speak to neither child nor
-grown person at any time (excepting the boy that sweeps the crossing
+partial to children and never see him speak to neither [[Child|child]] nor
+grown person at any [[Time|time]] (excepting the boy that sweeps the crossing
 down the lane over the way round the corner which if he was here
 would tell you that he has been seen a-speaking to him frequent).
 
@@ -110,21 +110,21 @@ Name, Jo. Nothing else that he knows on. Don’t know that everybody
 has two names. Never heerd of sich a think. Don’t know that Jo is
 short for a longer name. Thinks it long enough for HIM. HE don’t find
 no fault with it. Spell it? No. HE can’t spell it. No father, no
-mother, no friends. Never been to school. What’s home? Knows a
+mother, no friends. Never been to school. What’s [[Home|home]]? Knows a
 broom’s a broom, and knows it’s wicked to tell a lie. Don’t recollect
 who told him about the broom or about the lie, but knows both. Can’t
 exactly say what’ll be done to him arter he’s dead if he tells a lie
 to the gentlemen here, but believes it’ll be something wery bad to
-punish him, and serve him right—and so he’ll tell the truth.
+punish him, and serve him right—and so he’ll tell the [[Truth|truth]].
 
-“This won’t do, gentlemen!” says the coroner with a melancholy shake
+“This won’t do, gentlemen!” says the coroner with a [[Melancholy|melancholy]] shake
 of the head.
 
 “Don’t you think you can receive his evidence, sir?” asks an
 attentive juryman.
 
 “Out of the question,” says the coroner. “You have heard the boy.
-‘Can’t exactly say’ won’t do, you know. We can’t take THAT in a court
+‘Can’t exactly say’ won’t do, you know. We can’t take THAT in a [[Court|court]]
 of justice, gentlemen. It’s terrible depravity. Put the boy aside.”
 
 Boy put aside, to the great edification of the audience, especially

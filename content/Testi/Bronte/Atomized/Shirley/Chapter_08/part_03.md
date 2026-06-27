@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 8 (part 3)"
+title: "[[Shirley]] — Chapter 8 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-that makes my heart pant. When Mrs. Sykes is afraid of the house being
+that makes my heart pant. When Mrs. Sykes is afraid of the [[house]] being
 
-attacked and broke open--as she is every night--I get quite excited. I
+attacked and broke open--as she is every [[Night|night]]--I get quite excited. I
 
 couldn't describe to you, sir, my feelings. Really, if anybody was to
 
@@ -42,19 +42,19 @@ decorum, checked him.
 
 Sykes assented, and then sat and watched Joe Scott remove the bottle at
 
-a sign from Helstone, with a self-satisfied simper on his lips and a
+a sign from Helstone, with a [[Self|self]]-satisfied simper on his lips and a
 
 regretful glisten in his eye. Moore looked as if he should have liked to
 
-fool him to the top of his bent. What would a certain young kinswoman of
+[[Fool|fool]] him to the top of his bent. What would a certain young kinswoman of
 
 his have said could she have seen her dear, good, great Robert--her
 
-Coriolanus--just now? Would she have acknowledged in that mischievous,
+[[Coriolanus]]--just now? Would she have acknowledged in that mischievous,
 
-sardonic visage the same face to which she had looked up with such love,
+sardonic visage the same face to which she had looked up with such [[Love|love]],
 
-which had bent over her with such gentleness last night? Was that the
+which had bent over her with such gentleness last [[Night|night]]? Was that the
 
 man who had spent so quiet an evening with his sister and his cousin--so
 
@@ -68,17 +68,17 @@ Yes, it was the same man, only seen on a different side--a side Caroline
 
 had not yet fairly beheld, though perhaps she had enough sagacity
 
-faintly to suspect its existence. Well, Caroline had, doubtless, her
+faintly to suspect its existence. [[Well]], Caroline had, doubtless, her
 
 defective side too. She was human. She must, then, have been very
 
 imperfect; and had she seen Moore on his very worst side, she would
 
-probably have said this to herself and excused him. Love can excuse
+probably have said this to herself and excused him. [[Love]] can excuse
 
-anything except meanness; but meanness kills love, cripples even natural
+anything except meanness; but meanness kills [[Love|love]], cripples even natural
 
-affection; without esteem true love cannot exist. Moore, with all his
+affection; without esteem true [[Love|love]] cannot exist. Moore, with all his
 
 faults, might be esteemed; for he had no moral scrofula in his mind, no
 
@@ -106,7 +106,7 @@ looked and were superior beings to poor Sykes.
 
 A sort of gathering and trampling sound was heard in the yard, and then
 
-a pause. Moore walked to the window; Helstone followed. Both stood on
+a pause. Moore walked to the [[Window|window]]; Helstone followed. Both stood on
 
 one side, the tall junior behind the under-sized senior, looking forth
 
@@ -130,7 +130,7 @@ more freely.
 
 "Joseph Scott," began a snuffling voice--Scott was standing sentinel at
 
-the counting-house door--"might we inquire if your master be within, and
+the counting-[[house]] door--"might we inquire if your master be within, and
 
 is to be spoken to?"
 
@@ -148,7 +148,7 @@ goodness to tell _him_ that twelve gentlemen wants to see him."
 
 "He'd happen ax what for," suggested Joe. "I mught as weel tell him that
 
-at t' same time."
+at t' same [[Time|time]]."
 
 
 
@@ -234,7 +234,7 @@ to do with it."
 
 
 
-"I hadn't that duty on my mind, sir; but as Providence has led ye to
+"I hadn't that duty on my mind, sir; but as [[Providence]] has led ye to
 
 mention the subject, I'll make it i' my way to tak ony trifle ye may
 
@@ -244,4 +244,4 @@ have to spare; the smallest contribution will be acceptable."
 
 With that he doffed his hat, and held it out as a begging-box, a brazen
 
-grin at the same time crossing his countenance.
+grin at the same [[Time|time]] crossing his countenance.

@@ -19,10 +19,10 @@ Chapter 16
 PERSONS AND THINGS IN GENERAL
 
 
-Mr and Mrs John Harmon’s first delightful occupation was, to set all
+Mr and Mrs [[John Harmon]]’s first delightful occupation was, to set all
 matters right that had strayed in any way wrong, or that might, could,
 would, or should, have strayed in any way wrong, while their name was in
-abeyance. In tracing out affairs for which John’s fictitious death was
+abeyance. In tracing out affairs for which John’s fictitious [[Death|death]] was
 to be considered in any way responsible, they used a very broad and free
 construction; regarding, for instance, the dolls’ dressmaker as having
 a claim on their protection, because of her association with Mrs Eugene
@@ -35,16 +35,16 @@ that a rumour shortly afterwards pervaded the Force, to the effect that
 he had confided to Miss Abbey Potterson, over a jug of mellow flip in
 the bar of the Six Jolly Fellowship Porters, that he ‘didn’t stand to
 lose a farthing’ through Mr Harmon’s coming to life, but was quite as
-well satisfied as if that gentleman had been barbarously murdered, and
-he (Mr Inspector) had pocketed the government reward.
+[[Well|well]] satisfied as if that gentleman had been barbarously murdered, and
+he (Mr Inspector) had pocketed the [[government]] reward.
 
-In all their arrangements of such nature, Mr and Mrs John Harmon derived
+In all their arrangements of such [[Nature|nature]], Mr and Mrs [[John Harmon]] derived
 much assistance from their eminent solicitor, Mr Mortimer Lightwood; who
 laid about him professionally with such unwonted despatch and intention,
 that a piece of work was vigorously pursued as soon as cut out; whereby
 Young Blight was acted on as by that transatlantic dram which is
 poetically named An Eye-Opener, and found himself staring at real
-clients instead of out of window. The accessibility of Riah proving
+clients instead of out of [[Window|window]]. The accessibility of Riah proving
 very useful as to a few hints towards the disentanglement of Eugene’s
 affairs, Lightwood applied himself with infinite zest to attacking and
 harassing Mr Fledgeby: who, discovering himself in danger of being blown
@@ -56,27 +56,27 @@ unaccountably melted; waited in person on him over the stable yard in
 Duke Street, St James’s, no longer ravening but mild, to inform him
 that payment of interest as heretofore, but henceforth at Mr Lightwood’s
 offices, would appease his Jewish rancour; and departed with the secret
-that Mr John Harmon had advanced the money and become the creditor.
-Thus, was the sublime Snigsworth’s wrath averted, and thus did he snort
+that Mr [[John Harmon]] had advanced the money and become the creditor.
+Thus, was the [[Sublime|sublime]] Snigsworth’s wrath averted, and thus did he snort
 no larger amount of moral grandeur at the Corinthian column in the
 print over the fireplace, than was normally in his (and the British)
 constitution.
 
 
 Mrs Wilfer’s first visit to the Mendicant’s bride at the new abode of
-Mendicancy, was a grand event. Pa had been sent for into the City,
+Mendicancy, was a grand event. Pa had been sent for into the [[City]],
 on the very day of taking possession, and had been stunned with
-astonishment, and brought-to, and led about the house by one ear, to
+astonishment, and brought-to, and led about the [[house]] by one ear, to
 behold its various treasures, and had been enraptured and enchanted. Pa
 had also been appointed Secretary, and had been enjoined to give instant
-notice of resignation to Chicksey, Veneering, and Stobbles, for ever and
+notice of [[Resignation|resignation]] to Chicksey, Veneering, and Stobbles, for ever and
 ever. But Ma came later, and came, as was her due, in state.
 
 The carriage was sent for Ma, who entered it with a bearing worthy of
-the occasion, accompanied, rather than supported, by Miss Lavinia, who
+the occasion, accompanied, rather than supported, by Miss [[Lavinia]], who
 altogether declined to recognize the maternal majesty. Mr George Sampson
 meekly followed. He was received in the vehicle, by Mrs Wilfer, as if
-admitted to the honour of assisting at a funeral in the family, and she
+admitted to the [[Honour|honour]] of assisting at a funeral in the family, and she
 then issued the order, ‘Onward!’ to the Mendicant’s menial.
 
 ‘I wish to goodness, Ma,’ said Lavvy, throwing herself back among the
@@ -86,7 +86,7 @@ cushions, with her arms crossed, ‘that you’d loll a little.’
 
 ‘Yes, Ma.’
 
-‘I hope,’ said the impressive lady, ‘I am incapable of it.’
+‘I [[Hope|hope]],’ said the impressive lady, ‘I am incapable of it.’
 
 ‘I am sure you look so, Ma. But why one should go out to dine with one’s
 own daughter or sister, as if one’s under-petticoat was a backboard, I
@@ -106,18 +106,18 @@ felt that he had committed himself.
 
 ‘We know it’s there!’ said Mrs Wilfer, glaring.
 
-‘Really, George,’ remonstrated Miss Lavinia, ‘I must say that I don’t
+‘Really, George,’ remonstrated Miss [[Lavinia]], ‘I must say that I don’t
 understand your allusions, and that I think you might be more delicate
 and less personal.’
 
 ‘Go it!’ cried Mr Sampson, becoming, on the shortest notice, a prey to
-despair. ‘Oh yes! Go it, Miss Lavinia Wilfer!’
+[[Despair|despair]]. ‘Oh yes! Go it, Miss [[Lavinia]] Wilfer!’
 
 ‘What you may mean, George Sampson, by your omnibus-driving expressions,
-I cannot pretend to imagine. Neither,’ said Miss Lavinia, ‘Mr George
+I cannot pretend to imagine. Neither,’ said Miss [[Lavinia]], ‘Mr George
 Sampson, do I wish to imagine. It is enough for me to know in my own
 heart that I am not going to—’ having imprudently got into a sentence
-without providing a way out of it, Miss Lavinia was constrained to
+without providing a way out of it, Miss [[Lavinia]] was constrained to
 close with ‘going to it’. A weak conclusion which, however, derived some
 appearance of strength from disdain.
 
@@ -127,9 +127,9 @@ never—’
 ‘If you mean to say,’ Miss Lavvy cut him short, that you never brought
 up a young gazelle, you may save yourself the trouble, because nobody
 in this carriage supposes that you ever did. We know you better.’ (As if
-this were a home-thrust.)
+this were a [[Home|home]]-thrust.)
 
-‘Lavinia,’ returned Mr Sampson, in a dismal vein, ‘I did not mean to
+‘[[Lavinia]],’ returned Mr Sampson, in a dismal vein, ‘I did not mean to
 say so. What I did mean to say, was, that I never expected to retain my
 favoured place in this family, after Fortune shed her beams upon it. Why
 do you take me,’ said Mr Sampson, ‘to the glittering halls with which
@@ -140,12 +140,12 @@ The stately lady, Mrs Wilfer, perceiving her opportunity of delivering a
 few remarks from the throne, here took up the altercation.
 
 ‘Mr Sampson,’ she began, ‘I cannot permit you to misrepresent the
-intentions of a child of mine.’
+intentions of a [[Child|child]] of mine.’
 
-‘Let him alone, Ma,’ Miss Lavvy interposed with haughtiness. ‘It is
+‘Let him [[Alone|alone]], Ma,’ Miss Lavvy interposed with haughtiness. ‘It is
 indifferent to me what he says or does.’
 
-‘Nay, Lavinia,’ quoth Mrs Wilfer, ‘this touches the blood of the family.
+‘Nay, [[Lavinia]],’ quoth Mrs Wilfer, ‘this touches the [[Blood|blood]] of the family.
 If Mr George Sampson attributes, even to my youngest daughter—’
 
 (‘I don’t see why you should use the word “even”, Ma,’ Miss Lavvy
@@ -154,7 +154,7 @@ interposed, ‘because I am quite as important as any of the others.’)
 ‘Peace!’ said Mrs Wilfer, solemnly. ‘I repeat, if Mr George Sampson
 attributes, to my youngest daughter, grovelling motives, he attributes
 them equally to the mother of my youngest daughter. That mother
-repudiates them, and demands of Mr George Sampson, as a youth of honour,
+repudiates them, and demands of Mr George Sampson, as a youth of [[Honour|honour]],
 what he WOULD have? I may be mistaken—nothing is more likely—but Mr
 George Sampson,’ proceeded Mrs Wilfer, majestically waving her gloves,
 ‘appears to me to be seated in a first-class equipage. Mr George Sampson
@@ -166,45 +166,45 @@ Mingle? Whence, then, this tone on Mr Sampson’s part?’
 
 ‘It is only, ma’am,’ Mr Sampson explained, in exceedingly low spirits,
 ‘because, in a pecuniary sense, I am painfully conscious of my
-unworthiness. Lavinia is now highly connected. Can I hope that she will
-still remain the same Lavinia as of old? And is it not pardonable if
+unworthiness. [[Lavinia]] is now highly connected. Can I [[Hope|hope]] that she will
+still remain the same [[Lavinia]] as of old? And is it not pardonable if
 I feel sensitive, when I see a disposition on her part to take me up
 short?’
 
 ‘If you are not satisfied with your position, sir,’ observed Miss
-Lavinia, with much politeness, ‘we can set you down at any turning you
+[[Lavinia]], with much politeness, ‘we can set you down at any turning you
 may please to indicate to my sister’s coachman.’
 
-‘Dearest Lavinia,’ urged Mr Sampson, pathetically, ‘I adore you.’
+‘Dearest [[Lavinia]],’ urged Mr Sampson, pathetically, ‘I adore you.’
 
 ‘Then if you can’t do it in a more agreeable manner,’ returned the young
 lady, ‘I wish you wouldn’t.’
 
 ‘I also,’ pursued Mr Sampson, ‘respect you, ma’am, to an extent which
-must ever be below your merits, I am well aware, but still up to an
-uncommon mark. Bear with a wretch, Lavinia, bear with a wretch, ma’am,
+must ever be below your merits, I am [[Well|well]] aware, but still up to an
+uncommon mark. Bear with a wretch, [[Lavinia]], bear with a wretch, ma’am,
 who feels the noble sacrifices you make for him, but is goaded almost to
-madness,’ Mr Sampson slapped his forehead, ‘when he thinks of competing
+[[Madness|madness]],’ Mr Sampson slapped his forehead, ‘when he thinks of competing
 with the rich and influential.’
 
 ‘When you have to compete with the rich and influential, it will
-probably be mentioned to you,’ said Miss Lavvy, ‘in good time. At least,
+probably be mentioned to you,’ said Miss Lavvy, ‘in good [[Time|time]]. At least,
 it will if the case is MY case.’
 
 Mr Sampson immediately expressed his fervent Opinion that this was ‘more
-than human’, and was brought upon his knees at Miss Lavinia’s feet.
+than human’, and was brought upon his knees at Miss [[Lavinia]]’s feet.
 
 It was the crowning addition indispensable to the full enjoyment of both
 mother and daughter, to bear Mr Sampson, a grateful captive, into the
 glittering halls he had mentioned, and to parade him through the same,
 at once a living witness of their glory, and a bright instance of their
-condescension. Ascending the staircase, Miss Lavinia permitted him to
+condescension. Ascending the staircase, Miss [[Lavinia]] permitted him to
 walk at her side, with the air of saying: ‘Notwithstanding all these
 surroundings, I am yours as yet, George. How long it may last is another
 question, but I am yours as yet.’ She also benignantly intimated to him,
-aloud, the nature of the objects upon which he looked, and to which he
+aloud, the [[Nature|nature]] of the objects upon which he looked, and to which he
 was unaccustomed: as, ‘Exotics, George,’ ‘An aviary, George,’ ‘An
-ormolu clock, George,’ and the like. While, through the whole of the
+ormolu [[Clock|clock]], George,’ and the like. While, through the whole of the
 decorations, Mrs Wilfer led the way with the bearing of a Savage Chief,
 who would feel himself compromised by manifesting the slightest token of
 surprise or admiration.
@@ -212,12 +212,12 @@ surprise or admiration.
 Indeed, the bearing of this impressive woman, throughout the day, was a
 pattern to all impressive women under similar circumstances. She renewed
 the acquaintance of Mr and Mrs Boffin, as if Mr and Mrs Boffin had said
-of her what she had said of them, and as if Time alone could quite wear
+of her what she had said of them, and as if [[Time]] [[Alone|alone]] could quite wear
 her injury out. She regarded every servant who approached her, as her
 sworn enemy, expressly intending to offer her affronts with the dishes,
 and to pour forth outrages on her moral feelings from the decanters.
 She sat erect at table, on the right hand of her son-in-law, as half
-suspecting poison in the viands, and as bearing up with native force of
+suspecting [[Poison|poison]] in the viands, and as bearing up with native force of
 character against other deadly ambushes. Her carriage towards Bella was
 as a carriage towards a young lady of good position, whom she had met in
 society a few years ago. Even when, slightly thawing under the influence
@@ -231,16 +231,16 @@ staring, and evidently intending a weak and washy smile shortly, no
 sooner beheld her, than it was stricken spasmodic and inconsolable. When
 she took her leave at last, it would have been hard to say whether it
 was with the air of going to the scaffold herself, or of leaving the
-inmates of the house for immediate execution. Yet, John Harmon enjoyed
-it all merrily, and told his wife, when he and she were alone, that her
+inmates of the [[house]] for immediate execution. Yet, [[John Harmon]] enjoyed
+it all merrily, and told his wife, when he and she were [[Alone|alone]], that her
 natural ways had never seemed so dearly natural as beside this foil,
 and that although he did not dispute her being her father’s daughter,
-he should ever remain stedfast in the faith that she could not be her
+he should ever remain stedfast in the [[Faith|faith]] that she could not be her
 mother’s.
 
 
 This visit was, as has been said, a grand event. Another event, not
-grand but deemed in the house a special one, occurred at about the same
+grand but deemed in the [[house]] a special one, occurred at about the same
 period; and this was, the first interview between Mr Sloppy and Miss
 Wren.
 
@@ -271,7 +271,7 @@ day.’
 Mr Sloppy opened it, if possible, wider, and kept it open until his
 laugh was out.
 
-‘Why, you’re like the giant,’ said Miss Wren, ‘when he came home in the
+‘Why, you’re like the giant,’ said Miss Wren, ‘when he came [[Home|home]] in the
 land of Beanstalk, and wanted Jack for supper.’
 
 ‘Was he good-looking, Miss?’ asked Sloppy.
@@ -298,19 +298,19 @@ colour!’
 Miss Wren, with her usual expressive hitch, went on with her work. But,
 left her hair as it was; not displeased by the effect it had made.
 
-‘You don’t live here alone; do you, Miss?’ asked Sloppy.
+‘You don’t live here [[Alone|alone]]; do you, Miss?’ asked Sloppy.
 
 ‘No,’ said Miss Wren, with a chop. ‘Live here with my fairy godmother.’
 
 ‘With;’ Mr Sloppy couldn’t make it out; ‘with who did you say, Miss?’
 
-‘Well!’ replied Miss Wren, more seriously. ‘With my second father. Or
+‘[[Well]]!’ replied Miss Wren, more seriously. ‘With my second father. Or
 with my first, for that matter.’ And she shook her head, and drew a
-sigh. ‘If you had known a poor child I used to have here,’ she added,
+sigh. ‘If you had known a poor [[Child|child]] I used to have here,’ she added,
 ‘you’d have understood me. But you didn’t, and you can’t. All the
 better!’
 
-‘You must have been taught a long time,’ said Sloppy, glancing at the
+‘You must have been taught a long [[Time|time]],’ said Sloppy, glancing at the
 array of dolls in hand, ‘before you came to work so neatly, Miss, and
 with such a pretty taste.’
 
@@ -318,7 +318,7 @@ with such a pretty taste.’
 tossing her head. ‘Just gobbled and gobbled, till I found out how to do
 it. Badly enough at first, but better now.’
 
-‘And here have I,’ said Sloppy, in something of a self-reproachful tone,
+‘And here have I,’ said Sloppy, in something of a [[Self|self]]-reproachful tone,
 ‘been a learning and a learning, and here has Mr Boffin been a paying
 and a paying, ever so long!’
 
@@ -358,8 +358,8 @@ with that better look upon her, and with a smile: ‘Thank you!’
 measuring the handle on his sleeve, and softly standing the stick aside
 against the wall, ‘why, it would be a real pleasure to me. I’ve heerd
 tell that you can sing most beautiful; and I should be better paid with
-a song than with any money, for I always loved the likes of that, and
-often giv’ Mrs Higden and Johnny a comic song myself, with “Spoken” in
+a [[Song|song]] than with any money, for I always loved the likes of that, and
+often giv’ Mrs Higden and Johnny a comic [[Song|song]] myself, with “Spoken” in
 it. Though that’s not your sort, I’ll wager.’
 
 ‘You are a very kind young man,’ returned the dressmaker; ‘a really kind
@@ -372,7 +372,7 @@ an afterthought, shrugging her shoulders; ‘and if he does, he may!’
 
 ‘Him, him, him?’ repeated Sloppy; staring about, as if for Him.
 
-‘Him who is coming to court and marry me,’ returned Miss Wren. ‘Dear me,
+‘Him who is coming to [[Court|court]] and marry me,’ returned Miss Wren. ‘Dear me,
 how slow you are!’
 
 ‘Oh! HIM!’ said Sloppy. And seemed to turn thoughtful and a little
@@ -407,25 +407,25 @@ care of her, and there’s my hand, and thank you again.’
 
 
 But, the greatest event of all, in the new life of Mr and Mrs John
-Harmon, was a visit from Mr and Mrs Eugene Wrayburn. Sadly wan and worn
+Harmon, was a visit from Mr and Mrs [[Eugene Wrayburn]]. Sadly wan and worn
 was the once gallant Eugene, and walked resting on his wife’s arm, and
 leaning heavily upon a stick. But, he was daily growing stronger and
 better, and it was declared by the medical attendants that he might not
 be much disfigured by-and-by. It was a grand event, indeed, when Mr
-and Mrs Eugene Wrayburn came to stay at Mr and Mrs John Harmon’s house:
+and Mrs [[Eugene Wrayburn]] came to stay at Mr and Mrs [[John Harmon]]’s [[house]]:
 where, by the way, Mr and Mrs Boffin (exquisitely happy, and daily
 cruising about, to look at shops,) were likewise staying indefinitely.
 
-To Mr Eugene Wrayburn, in confidence, did Mrs John Harmon impart what
+To Mr [[Eugene Wrayburn]], in confidence, did Mrs [[John Harmon]] impart what
 she had known of the state of his wife’s affections, in his reckless
-time. And to Mrs John Harmon, in confidence, did Mr Eugene Wrayburn
+[[Time|time]]. And to Mrs [[John Harmon]], in confidence, did Mr [[Eugene Wrayburn]]
 impart that, please God, she should see how his wife had changed him!
 
 ‘I make no protestations,’ said Eugene; ‘—who does, who means them!—I
 have made a resolution.’
 
 ‘But would you believe, Bella,’ interposed his wife, coming to resume
-her nurse’s place at his side, for he never got on well without her:
+her [[Nurse|nurse]]’s place at his side, for he never got on [[Well|well]] without her:
 ‘that on our wedding day he told me he almost thought the best thing he
 could do, was to die?’
 
@@ -438,29 +438,29 @@ ride. ‘Nothing short of force will make her go,’ Eugene had said; so,
 Bella had playfully forced her.
 
 ‘Dear old fellow,’ Eugene began with Lightwood, reaching up his hand,
-‘you couldn’t have come at a better time, for my mind is full, and I
+‘you couldn’t have come at a better [[Time|time]], for my mind is full, and I
 want to empty it. First, of my present, before I touch upon my future.
 M. R. F., who is a much younger cavalier than I, and a professed admirer
-of beauty, was so affable as to remark the other day (he paid us a visit
-of two days up the river there, and much objected to the accommodation
+of [[Beauty|beauty]], was so affable as to remark the other day (he paid us a visit
+of two days up the [[River|river]] there, and much objected to the accommodation
 of the hotel), that Lizzie ought to have her portrait painted. Which,
 coming from M. R. F., may be considered equivalent to a melodramatic
 blessing.’
 
-‘You are getting well,’ said Mortimer, with a smile.
+‘You are getting [[Well|well]],’ said Mortimer, with a smile.
 
 ‘Really,’ said Eugene, ‘I mean it. When M. R. F. said that, and followed
-it up by rolling the claret (for which he called, and I paid), in his
+it up by [[rolling]] the claret (for which he called, and I paid), in his
 mouth, and saying, “My dear son, why do you drink this trash?” it was
-tantamount in him—to a paternal benediction on our union, accompanied
-with a gush of tears. The coolness of M. R. F. is not to be measured by
+tantamount in him—to a paternal benediction on our [[Union|union]], accompanied
+with a gush of [[Tears|tears]]. The coolness of M. R. F. is not to be measured by
 ordinary standards.’
 
 ‘True enough,’ said Lightwood.
 
 ‘That’s all,’ pursued Eugene, ‘that I shall ever hear from M. R. F. on
 the subject, and he will continue to saunter through the world with
-his hat on one side. My marriage being thus solemnly recognized at the
+his hat on one side. My [[Marriage|marriage]] being thus solemnly recognized at the
 family altar, I have no further trouble on that score. Next, you really
 have done wonders for me, Mortimer, in easing my money-perplexities, and
 with such a guardian and steward beside me, as the preserver of my life
@@ -490,7 +490,7 @@ himself greatly surprised.
 
 ‘You think this thumped head of mine is excited?’ Eugene went on, with a
 high look; ‘not so, believe me. I can say to you of the healthful music
-of my pulse what Hamlet said of his. My blood is up, but wholesomely up,
+of my pulse what [[Hamlet]] said of his. My [[Blood|blood]] is up, but wholesomely up,
 when I think of it. Tell me! Shall I turn coward to Lizzie, and sneak
 away with her, as if I were ashamed of her! Where would your friend’s
 part in this world be, Mortimer, if she had turned coward to him, and on
@@ -503,24 +503,24 @@ immeasurably better occasion?’
 ‘And yet, are you sure that you might not feel (for her sake, I say for
 her sake) any slight coldness towards her on the part of—Society?’
 
-‘O! You and I may well stumble at the word,’ returned Eugene, laughing.
+‘O! You and I may [[Well|well]] stumble at the word,’ returned Eugene, laughing.
 ‘Do we mean our Tippins?’
 
 ‘Perhaps we do,’ said Mortimer, laughing also.
 
-‘Faith, we DO!’ returned Eugene, with great animation. ‘We may hide
+‘[[Faith]], we DO!’ returned Eugene, with great animation. ‘We may hide
 behind the bush and beat about it, but we DO! Now, my wife is something
 nearer to my heart, Mortimer, than Tippins is, and I owe her a little
 more than I owe to Tippins, and I am rather prouder of her than I ever
 was of Tippins. Therefore, I will fight it out to the last gasp, with
 her and for her, here, in the open field. When I hide her, or strike
-for her, faint-heartedly, in a hole or a corner, do you whom I love next
+for her, faint-heartedly, in a hole or a corner, do you whom I [[Love|love]] next
 best upon earth, tell me what I shall most righteously deserve to be
-told:—that she would have done well to turn me over with her foot that
-night when I lay bleeding to death, and spat in my dastard face.’
+told:—that she would have done [[Well|well]] to turn me over with her foot that
+[[Night|night]] when I lay bleeding to [[Death|death]], and spat in my dastard face.’
 
 The glow that shone upon him as he spoke the words, so irradiated his
-features that he looked, for the time, as though he had never been
+features that he looked, for the [[Time|time]], as though he had never been
 mutilated. His friend responded as Eugene would have had him respond,
 and they discoursed of the future until Lizzie came back. After resuming
 her place at his side, and tenderly touching his hands and his head, she
@@ -535,9 +535,9 @@ been doing?’
 ‘And talking to Mr Lightwood,’ said Lizzie, turning to him with a smile.
 ‘But it cannot have been Society that disturbed you.’
 
-‘Faith, my dear love!’ retorted Eugene, in his old airy manner, as he
+‘[[Faith]], my dear [[Love|love]]!’ retorted Eugene, in his old airy manner, as he
 laughed and kissed her, ‘I rather think it WAS Society though!’
 
-The word ran so much in Mortimer Lightwood’s thoughts as he went home to
-the Temple that night, that he resolved to take a look at Society, which
+The word ran so much in Mortimer Lightwood’s thoughts as he went [[Home|home]] to
+the Temple that [[Night|night]], that he resolved to take a look at Society, which
 he had not seen for a considerable period.

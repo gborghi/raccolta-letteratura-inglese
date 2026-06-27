@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ORD KITCHENER (part 7)"
+title: "[[LordKitchener]] — ORD KITCHENER (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-therefore at his own time, which was not always the time at which
+therefore at his own [[Time|time]], which was not always the [[Time|time]] at which
 
 people thought they had a right to question him. In this way it is
 
@@ -28,11 +28,11 @@ to suppose that he took the Prussian pose of disdaining and
 
 disregarding everybody; that he settled everything in solitary egoism;
 
-that he was a Superman too self-sufficing to listen to friends and too
+that he was a Superman too [[Self|self]]-sufficing to listen to friends and too
 
 philosophical to listen to reason. It will be noted that every crisis
 
-of his life that is lit up by history contradicts the colours of this
+of his life that is lit up by [[history]] contradicts the colours of this
 
 picture. He could not only take counsel with his friends, but he was
 
@@ -60,7 +60,7 @@ of those who met him in such hours are quite sufficient to prove that
 
 he did not leave the impression of a Prussian arrogance. If he was
 
-silent, his silence must have been more friendly, I had almost said
+silent, his [[Silence|silence]] must have been more friendly, I had almost said
 
 more convivial, than many men's conversation. But on the larger
 
@@ -68,13 +68,13 @@ platform of the European War, this quiet but unique gift of
 
 open-mindedness and intellectual hospitality was destined to do two
 
-very decisive things, which may profoundly affect history. In the
+very decisive things, which may profoundly affect [[history]]. In the
 
 first he dealt with the more democratic and even revolutionary
 
 elements in England; and in the second he represents a very real
 
-change that has passed over the English traditions about Russia.
+change that has passed over the English traditions about [[Russia]].
 
 
 
@@ -82,7 +82,7 @@ Personally, as has already been noted, Lord Kitchener never was and
 
 never pretended to be anything more or less than the good military
 
-man, and by the time of the Great War he was already an elderly
+man, and by the [[Time|time]] of the Great War he was already an elderly
 
 military man. The type has much the same standards and traditions in
 
@@ -154,7 +154,7 @@ must be added the fact that the Unions, already national institutions,
 
 had just lately been in a ferment with new and violent doctrines:
 
-Syndicalists had invoked them as the future seats of government;
+Syndicalists had invoked them as the future seats of [[government]];
 
 historical speculators had seen in them the return to the great
 
@@ -178,13 +178,13 @@ rightly or wrongly, with implacable suspicion. The elderly and
 
 old-fashioned Anglo-Egyptian militarist, with his doctrine and
 
-discipline of the barrack-room and the drumhead court-martial, was
+discipline of the barrack-room and the drumhead [[Court|court]]-martial, was
 
 never regarded by the workers with a shade of suspicion. They simply
 
 took him at his word, and the leader of the most turbulent Trades
 
-Union element paid to him after his death the simplest tribute in the
+[[Union]] element paid to him after his [[Death|death]] the simplest tribute in the
 
 plainest and most popular language--"He was a straight man." I am so
 

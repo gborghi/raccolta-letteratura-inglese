@@ -26,12 +26,12 @@ but for future historians it will be at least equally true to say
 that Sir Henry Wilson was a friend of Foch.  It is doubtless
 impressive to be told by a professional politician that Foch could
 not have done more for us if he had been an English general;
-but perhaps it is as well to remember that he was not an
+but perhaps it is as [[Well|well]] to remember that he was not an
 English general, and that he will not be judged in future centuries
 entirely and exclusively by how he got on with the English.
-The truth is that there never was a man whose importance in history
+The [[Truth|truth]] is that there never was a man whose importance in [[history]]
 depended so much on a full understanding of the whole Continental
-problem as Ferdinand Foch.  He was a good French man, and therefore
+problem as [[Ferdinand]] Foch.  He was a good French man, and therefore
 respected those of the English who were good Englishmen.
 But a man can hardly measure the meaning of the story without being
 a good European.
@@ -41,7 +41,7 @@ European unless he is a good Englishman or a good Frenchman,
 or in each several case full of his own national culture.  There was
 a great deal about Foch that was intensely and peculiarly French.
 Nobody but a Frenchman would have launched that direct and yet dazzling
-epigram in the midst of the Battle of the Marne:  `My right gives way;
+[[Epigram|epigram]] in the midst of the Battle of the Marne:  `My right gives way;
 my left retreats; situation excellent; I attack.'  Where that phrase
 was so typically French is that it has three separate meanings,
 and they are all true.  A superficial person will take it as a fine
@@ -93,19 +93,19 @@ for doing anything, of what we are all ultimately trying to do,
 he was as simple as a saint--and as sane.  He might have said,
 like that other great Frenchman, also so daring and successful in
 modern applications of a science, `My scientific studies have left me
-with the faith of a Breton peasant; and I do not doubt that further
-studies would give me the faith of a Breton peasant's wife.'
+with the [[Faith|faith]] of a Breton peasant; and I do not [[Doubt|doubt]] that further
+studies would give me the [[Faith|faith]] of a Breton peasant's wife.'
 
 Something in our age prevents direct and simple genius of this
 sort appearing on its real scale.  For about fifty or sixty years
 the names counted famous have been largely of those who argued about
 what should be done and why.  The men called great--sometimes really
 great and sometimes only great as charlatans--were Carlyle
-and Nietzsche and Ibsen and Tolstoy and Hardy and Bernard Shaw.
-But in history as a whole the scale of greatness was some what different.
+and Nietzsche and Ibsen and [[tolstoy|Tolstoy]] and Hardy and Bernard [[Shaw]].
+But in [[history]] as a whole the scale of [[Greatness|greatness]] was some what different.
 Men who did great things, granted the obvious motives of piety and
 patriotism and glory and the service of the gods, filled the large
 spaces of the story:  Alexander and Caesar and Godfrey and Napoleon.
 Both cults are open to corruption; but when the older cult returns,
-as it will, it will be known that a man died quietly some time ago
+as it will, it will be known that a man died quietly some [[Time|time]] ago
 who delivered Europe with a single blow.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 14 (part 8)"
+title: "Bleak [[house|House]] — Chapter 14 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-At last, having been (always attended by the cat) all over the house
+At last, having been (always attended by the cat) all over the [[house]]
 and having seen the whole stock of miscellaneous lumber, which was
 certainly curious, we came into the back part of the shop. Here on
 the head of an empty barrel stood on end were an ink-bottle, some old
@@ -27,7 +27,7 @@ pasted several large printed alphabets in several plain hands.
 
 “And how do you get on?”
 
-“Slow. Bad,” returned the old man impatiently. “It’s hard at my time
+“Slow. Bad,” returned the old man impatiently. “It’s hard at my [[Time|time]]
 of life.”
 
 “It would be easier to be taught by some one,” said my guardian.
@@ -40,13 +40,13 @@ anything by being learned wrong now.”
 “Wrong?” said my guardian with his good-humoured smile. “Who do you
 suppose would teach you wrong?”
 
-“I don’t know, Mr. Jarndyce of Bleak House!” replied the old man,
+“I don’t know, Mr. Jarndyce of Bleak [[house|House]]!” replied the old man,
 turning up his spectacles on his forehead and rubbing his hands. “I
-don’t suppose as anybody would, but I’d rather trust my own self than
+don’t suppose as anybody would, but I’d rather trust my own [[Self|self]] than
 another!”
 
 These answers and his manner were strange enough to cause my guardian
-to inquire of Mr. Woodcourt, as we all walked across Lincoln’s Inn
+to inquire of Mr. Woodcourt, as we all walked across [[Lincoln]]’s Inn
 together, whether Mr. Krook were really, as his lodger represented
 him, deranged. The young surgeon replied, no, he had seen no reason
 to think so. He was exceedingly distrustful, as ignorance usually
@@ -55,21 +55,21 @@ of which he drank great quantities and of which he and his back-shop,
 as we might have observed, smelt strongly; but he did not think him
 mad as yet.
 
-On our way home, I so conciliated Peepy’s affections by buying him a
+On our way [[Home|home]], I so conciliated Peepy’s affections by buying him a
 windmill and two flour-sacks that he would suffer nobody else to take
 off his hat and gloves and would sit nowhere at dinner but at my
 side. Caddy sat upon the other side of me, next to Ada, to whom we
-imparted the whole history of the engagement as soon as we got back.
+imparted the whole [[history]] of the engagement as soon as we got back.
 We made much of Caddy, and Peepy too; and Caddy brightened
 exceedingly; and my guardian was as merry as we were; and we were all
-very happy indeed until Caddy went home at night in a hackney-coach,
+very happy indeed until Caddy went [[Home|home]] at [[Night|night]] in a hackney-coach,
 with Peepy fast asleep, but holding tight to the windmill.
 
 I have forgotten to mention—at least I have not mentioned—that Mr.
 Woodcourt was the same dark young surgeon whom we had met at Mr.
 Badger’s. Or that Mr. Jarndyce invited him to dinner that day. Or
 that he came. Or that when they were all gone and I said to Ada,
-“Now, my darling, let us have a little talk about Richard!” Ada
+“Now, my darling, let us have a little talk about [[Richard]]!” Ada
 laughed and said—
 
 But I don’t think it matters what my darling said. She was always

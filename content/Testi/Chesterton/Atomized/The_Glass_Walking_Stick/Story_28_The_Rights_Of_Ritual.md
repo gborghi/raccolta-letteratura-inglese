@@ -30,7 +30,7 @@ never been quite satisfactorily answered by any of the moderns:
 you to kill or burn something on this particular stone?
 Does she really require this above all other things?'
 But the Athenian, if he were as intelligent as most Athenians,
-might very well answer you by saying:  `Whether or no Athene
+might very [[Well|well]] answer you by saying:  `Whether or no Athene
 requires it, I am sure that I require it.'  If you went
 into the household temple of a Chinaman and found him burning
 pieces of paper to appease his great-grandfather, you might
@@ -44,16 +44,16 @@ To find expression in emblem and established ritual for feelings
 that are most difficult to express in words is not merely a salute
 to the departed; it is also a liberating gesture for the living.
 It is even especially an expression of the life of the living.
-The practical alternative to it is not speech but silence;
+The practical alternative to it is not speech but [[Silence|silence]];
 not simplicity, but merely embarrassment.  Not one man
 in a thousand ever says any thing worthy of the dead,
 or even at all adequate to his own emotions about the dead.
 It is a far fuller release for his feelings to do something;
 and especially something that is not too unusual or unnatural to do.
 The motions that men have always made, uncovering, bowing the head,
-scattering flowers on the grave, are in the real sense
+scattering [[Flowers|flowers]] on the [[Grave|grave]], are in the real sense
 individual actions.  They are not only more dignified,
-but more direct than official speech or extempore prayer.
+but more direct than official speech or extempore [[prayer]].
 They are not only more serious, but more spontaneous than
 the ghastly mummery of `saying a few appropriate words'.
 A man would be more likely to do such things than to say such things
@@ -73,7 +73,7 @@ of the present which has always been the practice of the past.
 And indeed there is more connexion between the two ideas than
 many suppose, especially of those who are largely out of touch
 with the present, through being entirely out of touch with the past.
-For a man without history is almost in the literal sense
+For a man without [[history]] is almost in the literal sense
 half-witted. He is only in command of a part even of his own mind.
 He does not know what half his own words mean, or what half his own
 actions signify.  And in the great human past there was a profoundly
@@ -82,17 +82,17 @@ The same words were used about both--or, what will seem to some still
 more strange, the words were interchanged and the phrase that seems
 to us appropriate to one was specially applied to the other.
 In ancient times a funeral had many of the elements of a feast.
-In ancient times a dance could have much of the gravity of a
+In ancient times a [[Dance|dance]] could have much of the gravity of a
 divine service.  They used the word `banquet' about the tragic occasion.
 They used the word `solemnity' about the frivolous occasion.
-Achilles, mourning over Patroclus, summons the heroes to take part
-in games, as on a school holiday devoted to sports.  Theseus in
+[[Achilles]], mourning over Patroclus, summons the heroes to take part
+in games, as on a school holiday devoted to sports.  [[Theseus]] in
 `A Midsummer Night's Dream', cracking jokes and watching burlesques,
 at his wedding feast, says; `A fortnight keep we this solemnity.'
 And though our civilization has grown in some ways more complex
 and cannot express these truths with quite the same unconscious
-sincerity and natural tact, it is well not to forget altogether
-that our fathers felt this comradeship in their grief and this
+sincerity and natural tact, it is [[Well|well]] not to forget altogether
+that our fathers felt this [[Comradeship|comradeship]] in their grief and this
 religion in their merriment.
 
 The ancient world conceived that pagan gods presided over
@@ -102,19 +102,19 @@ gods was afterwards very wisely given to patron saints.
 But there has arisen in modern times a mood that is not so much
 influenced by pagan gods as by godless paganism.  Its funerals are
 not feasts; and, in a very different sense, its feasts are funerals.
-The old Christian saint bade men be sorry, not as men without hope.
-The new pagan sage rather bids them to be merry as men without hope.
+The old Christian saint bade men be sorry, not as men without [[Hope|hope]].
+The new pagan sage rather bids them to be merry as men without [[Hope|hope]].
 The frivolity of the pessimists, of the sceptics, and the decadents
 has been something that connects gaiety with piety by getting rid
 of both of them.  It cannot create any of those symbolic forms
-of beauty that remain permanent as ritual or even as revelry.
+of [[Beauty|beauty]] that remain permanent as ritual or even as revelry.
 Funeral ceremonies are a tribute not to the dead but to the living.
 But these men are not living; they are of the sort that would
 scorn equally the little pieties of the poor about mourning,
 even public mourning, and the traditional games and jokes
 of a festival like Christmas.  Just as they do not understand
 how much life there is in the cult of the dead, so they do not
-understand how much truth there is in the repetition of the joke.
+understand how much [[Truth|truth]] there is in the repetition of the joke.
 They are not subtle enough to understand what is simple,
 nor have they the insight or intelligence to understand the plain
 and popular things.
@@ -123,7 +123,7 @@ The tamest person following tradition is a little more in the main
 stream of life than that.  He may not be an exceptional person,
 but at least he understands what is meant by an exceptional occasion.
 He may be a little like a vegetable or a plant that only
-flowers or comes to life at certain regular seasons.
+[[Flowers|flowers]] or comes to life at certain regular [[Seasons|seasons]].
 But at least he is not like a stone that never comes to life at all.
 And the cheap stoic or superior person is none the less
 as lifeless as a stone, because he generally regards himself

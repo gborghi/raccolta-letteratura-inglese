@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 9)"
+title: "[[The Murders in the Rue Morgue]] (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       voice of a Russian, but ‘_has never conversed with a native of
 
-      Russia._’ A second Frenchman differs, moreover, with the first,
+      [[Russia]]._’ A second Frenchman differs, moreover, with the first,
 
       and is positive that the voice was that of an Italian; but, _not
 
@@ -40,7 +40,7 @@ tags:
 
       Asiatic—of an African. Neither Asiatics nor Africans abound in
 
-      Paris; but, without denying the inference, I will now merely call
+      [[Paris]]; but, without denying the inference, I will now merely call
 
       your attention to three points. The voice is termed by one
 
@@ -120,7 +120,7 @@ tags:
 
       although of ordinary width for some eight or ten feet above the
 
-      hearths, will not admit, throughout their extent, the body of a
+      hearths, will not admit, throughout their extent, the [[Body|body]] of a
 
       large cat. The impossibility of egress, by means already stated,
 
@@ -158,7 +158,7 @@ tags:
 
       was found fitted therein, nearly to the head. Upon examining the
 
-      other window, a similar nail was seen similarly fitted in it; and
+      other [[Window|window]], a similar nail was seen similarly fitted in it; and
 
       a vigorous attempt to raise this sash, failed also. The police
 
@@ -198,4 +198,4 @@ tags:
 
       difficulty and attempted to raise the sash. It resisted all my
 
-      efforts, as I had anticipated. A concealed spring must, I now
+      efforts, as I had anticipated. A concealed [[Spring|spring]] must, I now

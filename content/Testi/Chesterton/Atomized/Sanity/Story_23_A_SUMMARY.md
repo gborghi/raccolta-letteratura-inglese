@@ -1,5 +1,5 @@
 ---
-title: "Sanity — A SUMMARY"
+title: "[[Sanity]] — A SUMMARY"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"
@@ -31,7 +31,7 @@ might need a thousand words to reply to ten words.  Suppose I
 began the philosophic dialogue by saying, "You strangle babies."
 He would naturally reply, "Nonsense--I never strangled any babies."
 And even in that obvious ejaculation he has already used twice
-as many words as I have.  It is impossible to have real debate
+as many words as I have.  It is impossible to have real [[debate]]
 without digression.  Every definition will look like a digression.
 Suppose somebody puts to me some journalistic statement, say,
 "Spanish Jesuits denounced in Parliament."  I cannot deal with it
@@ -41,11 +41,11 @@ I cannot answer quickly if I am just discovering slowly that the man
 suffers from a series of extraordinary delusions:  as (1) that Parliament
 is a popular representative assembly; (2) that Spain is an effete
 and decadent country; or (3) that a Spanish Jesuit is a sort
-of soft-footed court chaplain; whereas it was a Spanish Jesuit
+of soft-footed [[Court|court]] chaplain; whereas it was a Spanish Jesuit
 who anticipated the whole democratic theory of our day, and actually
 hurled it as a defiance against the divine right of kings.
 Each of these explanations would have to be a digression, and each
-would be necessary.  Now in this book I am well aware that there are
+would be necessary.  Now in this book I am [[Well|well]] aware that there are
 many digressions that may not at first sight seem to be necessary.
 For I have had to construct it out of what was originally a sort
 of controversial causerie; and it has proved impossible to cut
@@ -53,18 +53,18 @@ down the causerie and only leave the controversy.  Moreover, no man
 can controvert with many foes without going into many subjects,
 as every one knows who has been heckled.  And on this occasion I was,
 I am happy to say, being heckled by many foes who were also friends.
-I was discharging the double function of writing essays and of
+I was discharging the [[Double|double]] function of writing essays and of
 talking over the tea-table, or preferably over the tavern table.
 To turn this sort of mixture of a gossip and a gospel into anything
-like a grammar of Distributism has been quite impossible.
+like a grammar of [[Distributism]] has been quite impossible.
 But I fancy that, even considered as a string of essays, it appears
 more inconsequent than it really is; and many may read the essays
 without quite seeing the string.  I have decided, therefore, to add
-this last essay merely in order to sum up the intention of the whole;
+this last [[Essay|essay]] merely in order to sum up the intention of the whole;
 even if the summary be only a recapitulation.  I have had a reason
 for many of my digressions, which may not appear until the whole
 is seen in some sort of perspective; and where the digression has
-no such justification, but was due to a desire to answer a friend or
+no such justification, but was due to a [[Desire|desire]] to answer a friend or
 (what is even worse) a disposition towards idle and unseemly mirth,
 I can only apologize sincerely to the scientific reader and promise
 to do my best to make this final summary as dull as possible.
@@ -75,33 +75,33 @@ that will destroy it.  It is rather the desperate and reckless
 habit of not having a revolution.  The world will be occupied,
 or rather is already occupied, by two powers which are now one power.
 I speak, of course, of that part of the world that is covered
-by our system, and that part of the history of the world which will
-last very much longer than our time.  Sooner or later, no doubt,
+by our system, and that part of the [[history]] of the world which will
+last very much longer than our [[Time|time]].  Sooner or later, no [[Doubt|doubt]],
 men would rediscover so natural a pleasure as property.  But it might
-be discovered after ages, like those ages filled with pagan slavery.
+be discovered after ages, like those ages filled with pagan [[Slavery|slavery]].
 It might be discovered after a long decline of our whole civilization.
 Barbarians might rediscover it and imagine it was a new thing.
 
 Anyhow, the prospect is a progress towards the complete combination of
 two combinations.  They are both powers that believe only in combination;
 and have never understood or even heard that there is any dignity
-in division.  They have never had the imagination to understand the idea
+in division.  They have never had the [[Imagination|imagination]] to understand the idea
 of Genesis and the great myths:  that Creation itself was division.
 The beginning of the world was the division of heaven and earth;
 the beginning of humanity was the division of man and woman.
 But these flat and platitudinous minds can never see the difference
 between the creative cleavage of Adam and Eve and the destructive
-cleavage of Cain and Abel.  Anyhow, these powers or minds are now both in
+cleavage of [[Cain]] and Abel.  Anyhow, these powers or minds are now both in
 the same mood; and it is a mood of disliking all division, and therefore
-all distribution.  They believe in unity, in unanimity, in harmony.
+all distribution.  They believe in [[unity]], in unanimity, in harmony.
 One of these powers is State Socialism and the other is Big Business.
-They are already one spirit; they will soon be one body.
+They are already one spirit; they will soon be one [[Body|body]].
 For, disbelieving in division, they cannot remain divided;
 believing only in combination, they will themselves combine.  At present
 one of them calls it Solidarity and the other calls it Consolidation.
 It would seem that we have only to wait while both monsters are taught
 to say Consolidarity.  But, whatever it is called, there will be no
-doubt about the character of the world which they will have made
+[[Doubt|doubt]] about the character of the world which they will have made
 between them.  It is becoming more and more fixed and familiar.
 It will be a world of organization, or syndication, of standardization.
 People will be able to get hats, houses, holidays, and patent
@@ -116,10 +116,10 @@ Many believe that humanity will be happy in this new peace;
 that classes can be reconciled and souls set at rest.
 I do not think things will be quite so bad as that.  But I admit
 that there are many things which may make possible such a catastrophe
-of contentment.  Men in large numbers have submitted to slavery;
-men submit naturally to government, and perhaps even especially
-to despotic government.  But I take it as obvious to any intelligent
-person that this government will be something more than despotic.
+of contentment.  Men in large numbers have submitted to [[Slavery|slavery]];
+men submit naturally to [[government]], and perhaps even especially
+to despotic [[government]].  But I take it as obvious to any intelligent
+person that this [[government]] will be something more than despotic.
 It is the very essence of the Trust that it has the power,
 not only to extinguish military rivalry or mob rebellion as has
 the State, but also the power to crush any new custom or costume
@@ -127,7 +127,7 @@ or craft or private enterprise that it does not choose to like.
 Militarism can only prevent people from fighting; but monopoly can
 prevent them from buying or selling anything except the article
 (generally the inferior article) having the trade mark of the monopoly.
-If anything can be inferred from history and human nature,
+If anything can be inferred from [[history]] and human [[Nature|nature]],
 it is absolutely certain that the despotism will grow more and
 more despotic, and that the article will grow more and more inferior.
 There is no conceivable argument from psychology, by which it can
@@ -149,13 +149,13 @@ rapid collapse.  But taking monopolist capitalism in a country where it
 is still in the vulgar sense successful, as in the United States,
 we only see more clearly, and on a more colossal scale, the long
 and descending perspectives that point down to Byzantium or Pekin.
-It is perfectly obvious that the whole business is a machine
+It is perfectly obvious that the whole business is a [[Machine|machine]]
 for manufacturing tenth-rate things, and keeping people ignorant
 of first-rate things.  Most civilized systems have declined from
 a height; but this starts on a low level and in a flat place;
 and what it would be like when it had really crushed all its critics
 and rivals and made its monopoly watertight for two hundred years,
-the most morbid imagination will find it hard to imagine.
+the most morbid [[Imagination|imagination]] will find it hard to imagine.
 But whatever the last stage of the story, no sane man any longer
 doubts that we are seeing the first stages of it.  There is no longer
 any difference in tone and type between collectivist and ordinary
@@ -164,11 +164,11 @@ its organization.  Private things are already public in the worst
 sense of the word; that is, they are impersonal and dehumanized.
 Public things are already private in the worst sense of the word;
 that is, they are mysterious and secretive and largely corrupt.
-The new sort of Business Government will combine everything
+The new sort of Business [[government|Government]] will combine everything
 that is bad in all the plans for a better world.  There will
-be no eccentricity; no humour; no noble disdain of the world.
+be no eccentricity; no [[Humour|humour]]; no noble disdain of the world.
 There will be nothing but a loathsome thing called Social Service;
-which means slavery without loyalty.  This Service will be one
+which means [[Slavery|slavery]] without loyalty.  This Service will be one
 of the ideals.  I forgot to mention that there will be ideals.
 All the wealthiest men in the movement have made it quite clear
 that they are in possession of a number of these little comforts.
@@ -178,7 +178,7 @@ The philanthropists in question will probably be surprised
 to learn that some of us regard this prospect very much as we
 should regard the theory that we are to be evolved back into apes.
 We therefore consider whether it is even yet conceivable to restore
-that long-forgotten thing called Self-Government: that is,
+that long-forgotten thing called [[Self]]-[[government|Government]]: that is,
 the power of the citizen in some degree to direct his own life
 and construct his own environment; to eat what he likes, to wear what
 he chooses, and to have (what the Trust must of necessity deny him)
@@ -197,16 +197,16 @@ prospect with hatred and contempt, can save them from it.
 I say that they can save me from it, and themselves from it,
 if they also regard it with hatred and contempt.  But it must be
 done in the spirit of a religion, of a revolution, and (I will add)
-of a renunciation.  They must want to do it as they want to drive
+of a [[Renunciation|renunciation]].  They must want to do it as they want to drive
 invaders out of a country or to stop the spread of a plague.
 And in this respect our critics have a curious way of arguing in
 a circle.  They ask why we trouble to denounce what we cannot destroy;
 and offer an ideal we cannot attain.  They say we are merely
-throwing away dirty water before we can get clean; or rather
-that we are merely analysing the animalculae in the dirty water,
+throwing away dirty [[Water|water]] before we can get clean; or rather
+that we are merely analysing the animalculae in the dirty [[Water|water]],
 while we do not even venture to throw it away.  Why do we make men
 discontented with conditions with which they must be content?
-Why revile an intolerable slavery that must be tolerated?
+Why revile an intolerable [[Slavery|slavery]] that must be tolerated?
 But when we in turn ask why our ideal is impossible or why
 the evil is indestructible, they answer in effect, "Because you
 cannot persuade people to want it destroyed."  Possibly; but,
@@ -233,16 +233,16 @@ or religious protest--when they really wanted to protest.
 Under the same general rule, I have remarked that a real life
 on the land, men not only dwelling on the land but living off it,
 would be an adventure involving both stubbornness and abnegation.
-But it would not be half so ascetic as the sort of adventure which it
+But it would not be half so [[ascetic]] as the sort of adventure which it
 is a commonplace to attribute to colonists and empire-builders;
 it is nothing to what has been normally shown by millions
-of soldiers and monks.  Only it is true that monks have a faith,
-that soldiers have a flag, and that even empire-builders were
+of soldiers and [[Monks|monks]].  Only it is true that [[Monks|monks]] have a [[Faith|faith]],
+that soldiers have a [[Flag|flag]], and that even empire-builders were
 presumably under the impression that they could assist the Empire.
 But it does not seem to me quite inconceivable, in the varieties
 of religious experience, that men might take as much notice
-of earth as monks do of heaven; that people might really believe
-in the spades that create as well as in the swords that destroy;
+of earth as [[Monks|monks]] do of heaven; that people might really believe
+in the spades that create as [[Well|well]] as in the swords that destroy;
 and that the English who have colonized everywhere else might begin
 to colonize England.
 
@@ -258,7 +258,7 @@ puffs and praises are connected, like any other conspiracy.
 When the millionaire owning the stores is criticized, it is by
 his customers.  When he is handsomely complimented, it is by himself.
 But when he is cursed, it is in the inner chamber; when he is praised
-(by himself) it is proclaimed from the house-tops. That is what is
+(by himself) it is proclaimed from the [[house]]-tops. That is what is
 meant by publicity--a voice loud enough to drown any remarks made
 by the public.
 
@@ -266,15 +266,15 @@ In the case of the land, as in the case of the shops,
 I went on to point out that there is, if not a moral agitation,
 at least the materials of a moral agitation.  Just as a discontent
 with the shops lingers even among those who are shopping,
-so a desire for the land lingers even in those who are hardly
+so a [[Desire|desire]] for the land lingers even in those who are hardly
 allowed to walk on the ground.  I gave the instance of the slum
 population of Limehouse, who were forcibly lifted into high flats,
 bitterly lamenting the loss of the funny little farmyards they
 had constructed for themselves in the corners of their slum.
 It seems absurd to say of a country that none of its people could
-be countrymen, when even its cockneys try to be countrymen.
+be countrymen, when even its [[cockneys]] try to be countrymen.
 I also noted that, in the case of the country, there is now
-a general discontent, in landlords as well as tenants.
+a general discontent, in landlords as [[Well|well]] as tenants.
 Everything seems to point to a simpler life of one man one field,
 free as far as possible of the complications of rent and labour,
 especially when the rent is so often unpaid or unprofitable,
@@ -291,7 +291,7 @@ that when once the Crusade is preached, there are no Crusaders.
 And my second general principle, which may seem contradictory but
 is confirmatory, is this.  I think the thing would have to be done
 step by step and with patience and partial concessions.  I think this,
-not because I have any faith whatever in the silly cult of slowness
+not because I have any [[Faith|faith]] whatever in the silly cult of slowness
 that is sometimes called evolution, but because of the peculiar
 circumstances of the case.  First, mobs may loot and burn and rob
 the rich man, very much to his spiritual edification and benefit.
@@ -307,12 +307,12 @@ thump an Iconoclast and teach him not to touch the holy images.
 Where the old-fashioned feeling of property is still honest, I think
 it should be dealt with by degrees and with some consideration.
 Where the sense of property does not exist at all, as in millionaires,
-it might well be regarded rather differently; there it would become a
+it might [[Well|well]] be regarded rather differently; there it would become a
 question of whether property procured in certain ways is property at all.
 As for the case of cornering and making monopolies in restraint
 of trade, that falls under the first of my two principles.
-It is simply a question of whether we have the moral courage
-to punish what is certainly immoral.  There is no more doubt
+It is simply a question of whether we have the moral [[Courage|courage]]
+to punish what is certainly immoral.  There is no more [[Doubt|doubt]]
 about these operations of high finance than there is about piracy
 on the high seas.  It is merely a case of a country being so
 disorderly and ill-governed that it becomes infested with pirates.
@@ -326,13 +326,13 @@ be called a Crusade.
 Recurring to the second principle, however, there is another and less
 abstract reason for recognizing that the goal must be reached by stages.
 I have here had to consider several things that may bring us
-a stage nearer to Distributism, even if they are in themselves
+a stage nearer to [[Distributism]], even if they are in themselves
 not very satisfactory to ardent or austere Distributists.
 I took the examples of a Ford car, which may be made by mass
 production but is used for individual adventure; for, after all,
 a private car is more private than a train or a tram.  I also took
 the example of a general supply of electricity, which might lead
-to many little workshops having a chance for the first time.  I do not
+to many little workshops having a chance for the first [[Time|time]].  I do not
 claim that all Distributists would agree with me in my decision here;
 but on the whole I am inclined to decide that we should use these things
 to break up the hopeless block of concentrated capital and management,
@@ -347,14 +347,14 @@ to represent.  But everywhere I recognize a difference between
 the methods we may use to produce a saner society and the things
 which that saner society might itself be sane enough to do.
 For instance, a people who had really found out what fun it is to
-make things would never want to make most of them with a machine.
+make things would never want to make most of them with a [[Machine|machine]].
 Sculptors do not want to turn a statue out with a lathe or
 painters to print off a picture as a pattern, and a craftsman
 who was really capable of making pots or pans would be no readier
 to condescend to what is called manufacturing them.  It is odd,
 by the way, that the very word "manufacture" means the opposite
 of what it is supposed to mean.  It is itself a testimony to a
-better time when it did not mean the work of a modern factory.
+better [[Time|time]] when it did not mean the work of a modern factory.
 In the strict meaning of words, a sculptor does manufacture a statue,
 and a factory worker does not manufacture a screw.
 
@@ -363,18 +363,18 @@ probably be a world in which there were more individual craftsmen.
 When we have created anything like such a world, we may trust it
 to feel more than the modern world does the danger of machinery
 deadening creation, and the value of what it deadens.  And I suggested
-that such a world might very well make special provision about machines,
+that such a world might very [[Well|well]] make special provision about machines,
 as we all do about weapons; admitting them for particular purposes,
 but keeping watch on them in particular ways.
 
 But all that belongs to the later stage of improvement,
 when the commonwealth of free men already exists; I do not think
-it inconsistent with using any instruments that are innocent
+it inconsistent with using any instruments that are [[Innocent|innocent]]
 in themselves in order to help such citizens to find a footing.
 I have also noted that just as I do not think machinery an immoral
 instrument in itself, so I do not think State action an immoral
 instrument in itself.  The State might do a great deal in the
-first stages, especially by education in the new and necessary
+first stages, especially by [[Education|education]] in the new and necessary
 crafts and labours, by subsidy or tariff to protect distributive
 experiments and by special laws, such as the taxation of contracts.
 All these are covered by what I call the second principle,
@@ -386,10 +386,10 @@ Lastly, there are the ordinary and obvious problems like that
 of population, and in that connection I fully concede that the
 process may sooner or later involve an element of emigration.
 But I think the emigration must be undertaken by those who
-understand the new England, and not by those who want to escape
+understand the [[New England|new England]], and not by those who want to escape
 from it or from the necessity of it.  Men must realize the new
 meaning of the old phrase, "the sacredness of private property."
-There must be a spirit that will make the colonist feel at home
+There must be a spirit that will make the colonist feel at [[Home|home]]
 and not abroad.  And there, I admit, there is a difficulty;
 for I confess I know only one thing that will thus give to a new soil
 the sanctity of something already old and full of mystical affections.
@@ -403,7 +403,7 @@ behind the whole of our political position.  It is not necessarily
 the doctrine of the religious authority which I myself receive;
 but it cannot be denied that it must in a sense be religious.
 That is to say, it must at least have some reference to an ultimate
-view of the universe and especially of the nature of man.
+view of the universe and especially of the [[Nature|nature]] of man.
 Those who are thus ready to see property atrophied would ultimately
 be ready to see arms and legs amputated.  They really believe
 that these could become extinct organs like the appendix.
@@ -419,42 +419,42 @@ the number of boots need be supplied to the working classes.
 It will mean that all wages will be of a one-legged sort.
 But I would testify at the end, as at the beginning, that I believe
 in Man standing on two legs and requiring two boots, and that I
-desire them to be his own boots.  You may call it conservative
+[[Desire|desire]] them to be his own boots.  You may call it conservative
 to want this.  You may call it revolutionary to attempt to get it.
 But if that is conservative, I am conservative; if that is revolutionary,
 I am revolutionary--but too democratic to be evolutionary, anyhow.
 
-The thing behind Bolshevism and many other modern things is a new doubt.
-It is not merely a doubt about God; it is rather specially a doubt
-about Man.  The old morality, the Christian religion, the Catholic Church,
+The thing behind Bolshevism and many other modern things is a new [[Doubt|doubt]].
+It is not merely a [[Doubt|doubt]] about God; it is rather specially a [[Doubt|doubt]]
+about Man.  The old [[morality]], the Christian religion, the [[Catholic Church]],
 differed from all this new mentality because it really believed
 in the rights of men.  That is, it believed that ordinary men
 were clothed with powers and privileges and a kind of authority.
 Thus the ordinary man had a right to deal with dead matter,
 up to a given point; that is the right of property.  Thus the
-ordinary man had a right to rule the other animals within reason;
+ordinary man had a right to rule the other [[Animals|animals]] within reason;
 that is the objection to vegetarianism and many other things.
 The ordinary man had a right to judge about his own health, and what
 risks he would take with the ordinary things of his environment;
 that is the objection to Prohibition and many other things.
 The ordinary man had a right to judge of his children's health,
 and generally to bring up children to the best of his ability;
-that is the objection to many interpretations of modern State education.
+that is the objection to many interpretations of modern State [[Education|education]].
 Now in these primary things in which the old religion trusted a man,
-the new philosophy utterly distrusts a man.  It insists that he must be a
+the new [[philosophy]] utterly distrusts a man.  It insists that he must be a
 very rare sort of man to have any rights in these matters; and when he is
 the rare sort, he has the right to rule others even more than himself.
-It is this profound scepticism about the common man that is the common
+It is this profound scepticism about the [[Common Man|common man]] that is the common
 point in the most contradictory elements of modern thought.
-That is why Mr. Bernard Shaw wants to evolve a new animal that shall
+That is why Mr. Bernard [[Shaw]] wants to evolve a new animal that shall
 live longer and grow wiser than man.  That is why Mr. Sidney Webb
-wants to herd the men that exist like sheep, or animals much more
+wants to herd the men that exist like sheep, or [[Animals|animals]] much more
 foolish than man.  They are not rebelling against an abnormal tyranny;
 they are rebelling against what they think is a normal tyranny--
-the tyranny of the normal.  They are not in revolt against the King.
+the tyranny of the normal.  They are not in revolt against the [[King]].
 They are in revolt against the Citizen.  The old revolutionist,
 when he stood on the roof (like the revolutionist in The Dynamiter)
-and looked over the city, used to say to himself, "Think how the
+and looked over the [[City|city]], used to say to himself, "Think how the
 princes and nobles revel in their palaces; think how the captains
 and cohorts ride the streets and trample on the people."
 But the new revolutionist is not brooding on that.  He is saying,
@@ -462,44 +462,44 @@ But the new revolutionist is not brooding on that.  He is saying,
 Think how badly they teach their children; think how they do the wrong
 thing to the dog and offend the feelings of the parrot."  In short,
 these sages, rightly or wrongly, cannot trust the normal man to rule
-in the home, and most certainly do not want him to rule in the State.
+in the [[Home|home]], and most certainly do not want him to rule in the State.
 They do not really want to give him any political power.
 They are willing to give him a vote, because they have long
 discovered that it need not give him any power.  They are not willing
-to give him a house, or a wife, or a child, or a dog, or a cow,
+to give him a [[house]], or a wife, or a [[Child|child]], or a dog, or a cow,
 or a piece of land, because these things really do give him power.
 
 Now we wish it to be understood that our policy is to give him
 power by giving him these things.  We wish to insist that this
 is the real moral division underlying all our disputes, and perhaps
 the only one really worth disputing.  We are far from denying,
-especially at this time, that there is much to be said on the other side.
-We alone, perhaps, are likely to insist in the full sense that
+especially at this [[Time|time]], that there is much to be said on the other side.
+We [[Alone|alone]], perhaps, are likely to insist in the full sense that
 the average respectable citizen ought to have something to rule.
-We alone, to the same extent and for the same reason, have the right
+We [[Alone|alone]], to the same extent and for the same reason, have the right
 to call ourselves democratic.  A republic used to be called a nation
 of kings, and in our republic the kings really have kingdoms.
 All modern governments, Prussian or Russian, all modern movements,
-Capitalist or Socialist, are taking away that kingdom from the king.
+Capitalist or Socialist, are taking away that kingdom from the [[King|king]].
 Because they dislike the independence of that kingdom, they are
 against property.  Because they dislike the loyalty of that kingdom,
-they are against marriage.
+they are against [[Marriage|marriage]].
 
 It is therefore with a somewhat sad amusement that I note
 the soaring visions that accompany the sinking wages.
 I observe that the social prophets are still offering the homeless
-something much higher and purer than a home, and promising a
+something much higher and purer than a [[Home|home]], and promising a
 supernormal superiority to people who are not allowed to be normal.
-I am quite content to dream of the old drudgery of democracy, by which as
+I am quite content to dream of the old drudgery of [[Democracy|democracy]], by which as
 much as possible of a human life should be given to every human being;
-while the brilliant author of The First Men in the Moon will doubtless
-be soon deriding us in a romance called The Last Men on the Earth.
-And indeed I do believe that when they lose the pride of personal
+while the brilliant author of The First Men in the [[Moon]] will doubtless
+be soon deriding us in a [[Romance|romance]] called The Last Men on the Earth.
+And indeed I do believe that when they lose the [[Pride|pride]] of personal
 ownership they will lose something that belongs to their erect
 posture and to their footing and poise upon the planet.
 Meanwhile I sit amid droves of overdriven clerks and underpaid workmen
 in a tube or a tram; I read of the great conception of Men Like Gods
-and I wonder when men will be like men.
+and I [[Wonder|wonder]] when men will be like men.
 
 = = = = = = = = = = = = = = = =
 

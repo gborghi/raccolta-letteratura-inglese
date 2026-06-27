@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 29 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 29 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -18,13 +18,13 @@ advanced towards the parsonage, and whatever the humiliation of her
 
 biographer in relating it, she was preparing enjoyment of no everyday
 
-nature for those to whom she went; first, in the appearance of her
+[[Nature|nature]] for those to whom she went; first, in the appearance of her
 
 carriage—and secondly, in herself. The chaise of a traveller being a
 
 rare sight in Fullerton, the whole family were immediately at the
 
-window; and to have it stop at the sweep-gate was a pleasure to
+[[Window|window]]; and to have it stop at the sweep-gate was a pleasure to
 
 brighten every eye and occupy every fancy—a pleasure quite unlooked for
 
@@ -50,9 +50,9 @@ she stepped from the carriage, she found herself soothed beyond
 
 anything that she had believed possible. So surrounded, so caressed,
 
-she was even happy! in the joyfulness of family love everything for a
+she was even happy! in the joyfulness of family [[Love|love]] everything for a
 
-short time was subdued, and the pleasure of seeing her, leaving them at
+short [[Time|time]] was subdued, and the pleasure of seeing her, leaving them at
 
 first little leisure for calm curiosity, they were all seated round the
 
@@ -70,7 +70,7 @@ Reluctantly, and with much hesitation, did she then begin what might
 
 perhaps, at the end of half an hour, be termed, by the courtesy of her
 
-hearers, an explanation; but scarcely, within that time, could they at
+hearers, an explanation; but scarcely, within that [[Time|time]], could they at
 
 all discover the cause, or collect the particulars, of her sudden
 
@@ -80,17 +80,17 @@ quickness in catching, or bitterness in resenting, affronts: but here,
 
 when the whole was unfolded, was an insult not to be overlooked, nor,
 
-for the first half hour, to be easily pardoned. Without suffering any
+for the first half hour, to be easily pardoned. Without [[Suffering|suffering]] any
 
 romantic alarm, in the consideration of their daughter’s long and
 
-lonely journey, Mr. and Mrs. Morland could not but feel that it might
+lonely [[Journey|journey]], Mr. and Mrs. Morland could not but feel that it might
 
 have been productive of much unpleasantness to her; that it was what
 
 they could never have voluntarily suffered; and that, in forcing her on
 
-such a measure, General Tilney had acted neither honourably nor
+such a measure, [[General Tilney]] had acted neither honourably nor
 
 feelingly—neither as a gentleman nor as a parent. Why he had done it,
 
@@ -106,7 +106,7 @@ and, after a due course of useless conjecture, that “it was a strange
 
 business, and that he must be a very strange man,” grew enough for all
 
-their indignation and wonder; though Sarah indeed still indulged in the
+their indignation and [[Wonder|wonder]]; though Sarah indeed still indulged in the
 
 sweets of incomprehensibility, exclaiming and conjecturing with
 
@@ -126,13 +126,13 @@ engagement,” said Sarah, “but why not do it civilly?”
 
 “I am sorry for the young people,” returned Mrs. Morland; “they must
 
-have a sad time of it; but as for anything else, it is no matter now;
+have a sad [[Time|time]] of it; but as for anything else, it is no matter now;
 
-Catherine is safe at home, and our comfort does not depend upon General
+Catherine is safe at [[Home|home]], and our comfort does not depend upon General
 
-Tilney.” Catherine sighed. “Well,” continued her philosophic mother, “I
+Tilney.” Catherine sighed. “[[Well]],” continued her philosophic mother, “I
 
-am glad I did not know of your journey at the time; but now it is all
+am glad I did not know of your [[Journey|journey]] at the [[Time|time]]; but now it is all
 
 over, perhaps there is no great harm done. It is always good for young
 
@@ -142,7 +142,7 @@ Catherine, you always were a sad little scatter-brained creature; but
 
 now you must have been forced to have your wits about you, with so much
 
-changing of chaises and so forth; and I hope it will appear that you
+changing of chaises and so forth; and I [[Hope|hope]] it will appear that you
 
 have not left anything behind you in any of the pockets.”
 
@@ -152,15 +152,15 @@ Catherine hoped so too, and tried to feel an interest in her own
 
 amendment, but her spirits were quite worn down; and, to be silent and
 
-alone becoming soon her only wish, she readily agreed to her mother’s
+[[Alone|alone]] becoming soon her only wish, she readily agreed to her mother’s
 
 next counsel of going early to bed. Her parents, seeing nothing in her
 
 ill looks and agitation but the natural consequence of mortified
 
-feelings, and of the unusual exertion and fatigue of such a journey,
+feelings, and of the unusual exertion and fatigue of such a [[Journey|journey]],
 
-parted from her without any doubt of their being soon slept away; and
+parted from her without any [[Doubt|doubt]] of their being soon slept away; and
 
 though, when they all met the next morning, her recovery was not equal
 
@@ -170,17 +170,17 @@ any deeper evil. They never once thought of her heart, which, for the
 
 parents of a young lady of seventeen, just returned from her first
 
-excursion from home, was odd enough!
+excursion from [[Home|home]], was odd enough!
 
 
 
 As soon as breakfast was over, she sat down to fulfil her promise to
 
-Miss Tilney, whose trust in the effect of time and distance on her
+Miss Tilney, whose trust in the effect of [[Time|time]] and distance on her
 
 friend’s disposition was already justified, for already did Catherine
 
-reproach herself with having parted from Eleanor coldly, with having
+reproach herself with having parted from [[Eleanor]] coldly, with having
 
 never enough valued her merits or kindness, and never enough
 
@@ -190,13 +190,13 @@ strength of these feelings, however, was far from assisting her pen;
 
 and never had it been harder for her to write than in addressing
 
-Eleanor Tilney. To compose a letter which might at once do justice to
+[[Eleanor Tilney]]. To compose a letter which might at once do justice to
 
 her sentiments and her situation, convey gratitude without servile
 
 regret, be guarded without coldness, and honest without resentment—a
 
-letter which Eleanor might not be pained by the perusal of—and, above
+letter which [[Eleanor]] might not be pained by the perusal of—and, above
 
 all, which she might not blush herself, if Henry should chance to see,
 

@@ -1,5 +1,5 @@
 ---
-title: "Edward III — Scene 14"
+title: "[[Edward III]] — Scene 14"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/EDWARD-III-(Shakespeare)"
@@ -18,7 +18,7 @@ tags:
 |---|---|
 | *(didascalia)* | Alarum. Enter Edward Prince of Wales and the Comte d’Artois |
 | COMTE D’ARTOIS | How fares your grace? Are you not shot, my lord? |
-| PRINCE OF WALES | No, dear Artois, but choked with dust and smoke,<br>And stepped aside for breath and fresher air. |
+| PRINCE OF WALES | No, dear Artois, but choked with [[Dust|dust]] and smoke,<br>And stepped aside for breath and fresher air. |
 | COMTE D’ARTOIS | Breathe then, and to it again!The amazed French Are quite distract with gazing on the crows, And, were our quivers full of shafts again, Your grace should see a glorious day of this. O, for more arrows, Lord—that’s our one want! |
-| PRINCE OF WALES | Courage, Artois! A fig for feathered shafts<br>When feathered fowls do bandy on our side!<br>What need we fight and sweat and keep a coil<br>When railing crows outscold our adversaries?<br>Up, up, Artois! The ground itself is armed<br>With fire-containing flint. Command our bows<br>To hurl away their parti-coloured yew,<br>And to it with stones! Away, Artois, away!<br>My soul doth prophesy we win the day. |
+| PRINCE OF WALES | [[Courage]], Artois! A fig for feathered shafts<br>When feathered fowls do bandy on our side!<br>What need we fight and sweat and keep a coil<br>When railing crows outscold our adversaries?<br>Up, up, Artois! The ground itself is armed<br>With [[Fire|fire]]-containing flint. Command our bows<br>To hurl away their parti-coloured yew,<br>And to it with stones! Away, Artois, away!<br>My [[Soul|soul]] doth prophesy we win the day. |
 | *(didascalia)* | Exeunt |

@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 4 (part 3)"
+title: "[[longbow2]] — Chapter 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 One long legal conversation with Owen Hood did indeed put him in
 possession of the legal outline of certain matters, which might be
 said to throw a light on some parts of the strange letter, and which
-might in time even be made to throw a light on the rest.  White was
+might in [[Time|time]] even be made to throw a light on the rest.  White was
 the vicar of a parish lying deep in the western parts of Somersetshire,
 where the principal landowner was a certain Lord Arlington.  And in
 this case there had been a quarrel between the squire and the parson,
@@ -26,11 +26,11 @@ The clergyman intensely resented that irony or anomaly which has
 caused so much discontent among tenants in Ireland and throughout
 the world; the fact that improvements or constructive work actually
 done by the tenant only pass into the possession of the landlord. 
-He had considerably improved a house that he himself had rented from
-the squire, but in some kind of crisis of defiance or renunciation,
+He had considerably improved a [[house]] that he himself had rented from
+the squire, but in some kind of crisis of defiance or [[Renunciation|renunciation]],
 he had quitted this more official residence bag and baggage, and built
-himself a sort of wooden lodge or bungalow on a small hill or mound
-that rose amid woods on the extreme edge of the same grounds. 
+himself a sort of wooden lodge or bungalow on a small [[Hill|hill]] or mound
+that [[Rose|rose]] amid woods on the extreme edge of the same grounds. 
 This quarrel about the claim of the tenant to his own work was evidently
 the meaning of certain phrases in the letter--such as the timber
 coming from the other end of the county, the sort of work being
@@ -53,7 +53,7 @@ words he had used; but all could state in general terms that it
 referred to some sort of negative nuisance or barren responsibility. 
 This could hardly refer to Snowdrop, of whom he always wrote in
 terms of tenderness as if she were a baby or a kitten.  It seemed
-hard to believe it could refer to the house he had built entirely
+hard to believe it could refer to the [[house]] he had built entirely
 to suit himself.  It seemed as if there must be some third thing
 in his muddled existence, which loomed vaguely in the background
 through the vapour of his confused correspondence.
@@ -69,11 +69,11 @@ And he handed the letter to Hood, who read it out slowly:
 
 "`I never knew the old British populace, here in Avalon itself,
 could be so broken down by squires and sneaking lawyers. 
-Nobody dared help me move my house again; said it was illegal
+Nobody dared help me move my [[house]] again; said it was illegal
 and they were afraid of the police.  But Snowdrop helped, and we
 carted it all away in two or three journeys; took it right clean
-off the old fool's land altogether this time.  I fancy the old
-fool will have to admit there are things in this world he wasn't
+off the old [[Fool|fool]]'s land altogether this [[Time|time]].  I fancy the old
+[[Fool|fool]] will have to admit there are things in this world he wasn't
 prepared to believe in.'"
 
 
@@ -90,30 +90,30 @@ I mean he's the sort of man who might break all the squire's windows,
 but he wouldn't say he'd broken six when he'd broken five. 
 I've always found when I'd got to the meaning of those mad
 letters that it was quite true.  But how can this be true? 
-How could Snowdrop, whatever she is, have moved a whole house, or old
+How could Snowdrop, whatever she is, have moved a whole [[house]], or old
 White either?"
 
 "I suppose you know what I think," said Pierce.  "I told you
 that Snowdrop, whatever else she is, is invisible.  I'm certain your
 friend has gone Spiritualist, and Snowdrop is the name of a spirit,
 or a control, or whatever they call it.  The spirit would say,
-of course, that it was mere child's play to throw the house from one
+of course, that it was mere [[Child|child]]'s play to throw the [[house]] from one
 end of the county to the other.  But if this unfortunate gentleman
-believes himself to have been thrown, house and all, in that fashion,
+believes himself to have been thrown, [[house]] and all, in that fashion,
 I'm very much afraid he's begun really to suffer from delusions."
 
 The faces of the two older men looked suddenly much older,
-perhaps for the first time they looked old.  The young man seeing
+perhaps for the first [[Time|time]] they looked old.  The young man seeing
 their dolorous expression was warmed and fired to speak quickly.
 
 "Look here," he said hastily, "I'll go down there myself and find
 out what I can for you.  I'll go this afternoon."
 
-"Train journey takes ages," said the Colonel, shaking his head. 
+"Train [[Journey|journey]] takes ages," said the Colonel, shaking his head. 
 "Other end of nowhere.  Told me yourself you had an appointment at
 the Air Ministry to-morrow."
 
-"Be there in no time," replied Pierce cheerfully.  "I'll fly down."
+"Be there in no [[Time|time]]," replied Pierce cheerfully.  "I'll fly down."
 
 And there was something in the lightness and youth of his vanishing
 gesture that seemed really like Icarus spurning the earth,

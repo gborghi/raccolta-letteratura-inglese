@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 4"
+title: "[[thursday]] — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/thursday-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
                          CHAPTER IV
 
-                   THE TALE OF A DETECTIVE
+                   THE TALE OF A [[Detective|DETECTIVE]]
 
 
-GABRIEL SYME was not merely a detective who pretended to be
-a poet; he was really a poet who had become a detective.
+[[Gabriel Syme|GABRIEL SYME]] was not merely a [[Detective|detective]] who pretended to be
+a poet; he was really a poet who had become a [[Detective|detective]].
 Nor was his hatred of anarchy hypocritical.  He was one
 of those who are driven early in life into too conservative
 an attitude by the bewildering folly of most revolutionists.
@@ -30,18 +30,18 @@ He came of a family of cranks, in which all the oldest people
 had all the newest notions.  One of his uncles always walked
 about without a hat, and another had made an unsuccessful attempt
 to walk about with a hat and nothing else.  His father cultivated
-art and self-realisation; his mother went in for simplicity
-and hygiene.  Hence the child, during his tenderer years,
+art and [[Self|self]]-realisation; his mother went in for simplicity
+and hygiene.  Hence the [[Child|child]], during his tenderer years,
 was wholly unacquainted with any drink between the extremes
 of absinth and cocoa, of both of which he had a healthy dislike.
 The more his mother preached a more than Puritan abstinence
 the more did his father expand into a more than pagan latitude;
-and by the time the former had come to enforcing vegetarianism,
-the latter had pretty well reached the point of defending cannibalism.
+and by the [[Time|time]] the former had come to enforcing vegetarianism,
+the latter had pretty [[Well|well]] reached the point of defending cannibalism.
 
 Being surrounded with every conceivable kind of revolt from infancy,
 Gabriel had to revolt into something, so he revolted into the only
-thing left--sanity.  But there was just enough in him of the blood
+thing left--[[Sanity|sanity]].  But there was just enough in him of the [[Blood|blood]]
 of these fanatics to make even his protest for common sense a little
 too fierce to be sensible.  His hatred of modern lawlessness
 had been crowned also by an accident.  It happened that he was
@@ -56,21 +56,21 @@ He regarded them as a huge and pitiless peril, like a Chinese invasion.
 
 He poured perpetually into newspapers and their waste-paper baskets
 a torrent of tales, verses and violent articles, warning men
-of this deluge of barbaric denial.  But he seemed to be getting
+of this [[deluge]] of barbaric denial.  But he seemed to be getting
 no nearer his enemy, and, what was worse, no nearer a living.
 As he paced the Thames embankment, bitterly biting a cheap cigar
 and brooding on the advance of Anarchy, there was no anarchist
 with a bomb in his pocket so savage or so solitary as he.
-Indeed, he always felt that Government stood alone and desperate,
+Indeed, he always felt that [[government|Government]] stood [[Alone|alone]] and desperate,
 with its back to the wall.  He was too quixotic to have cared
 for it otherwise.
 
 He walked on the Embankment once under a dark red sunset.
-The red river reflected the red sky, and they both reflected
+The red [[River|river]] reflected the red sky, and they both reflected
 his anger.  The sky, indeed, was so swarthy, and the light
-on the river relatively so lurid, that the water almost
+on the [[River|river]] relatively so lurid, that the [[Water|water]] almost
 seemed of fiercer flame than the sunset it mirrored.
-It looked like a stream of literal fire winding under the vast
+It looked like a stream of literal [[Fire|fire]] winding under the vast
 caverns of a subterranean country.
 
 Syme was shabby in those days.  He wore an old-fashioned black
@@ -89,8 +89,8 @@ Syme, at a crisis of his morbid fears for humanity, seemed stung by the mere
 stolidity of the automatic official, a mere bulk of blue in the twilight.
 
 "A good evening is it?" he said sharply.  "You fellows would call the end of
-the world a good evening.  Look at that bloody red sun and that bloody river!
-I tell you that if that were literally human blood, spilt and shining,
+the world a good evening.  Look at that bloody red sun and that bloody [[River|river]]!
+I tell you that if that were literally human [[Blood|blood]], spilt and shining,
 you would still be standing here as solid as ever, looking out for some poor
 harmless tramp whom you could move on.  You policemen are cruel to the poor,
 but I could forgive you even your cruelty if it were not for your calm."
@@ -104,10 +104,10 @@ of organised resistance."
 "The composure of an army is the anger of a nation."
 
 "Good God, the Board Schools!" said Syme.  "Is this
-undenominational education?"
+undenominational [[Education|education]]?"
 
 "No," said the policeman sadly, "I never had any of those advantages.
-The Board Schools came after my time.  What education I had was very rough
+The Board Schools came after my [[Time|time]].  What [[Education|education]] I had was very rough
 and old-fashioned, I am afraid."
 
 "Where did you have it?" asked Syme, wondering.
@@ -133,7 +133,7 @@ outbreaks of the human will.  I trust I make myself clear."
 
 "If you mean that you make your opinion clear," said Syme, "I suppose you do.
 But as for making yourself clear, it is the last thing you do.
-How comes a man like you to be talking philosophy in a blue helmet
+How comes a man like you to be talking [[philosophy]] in a blue helmet
 on the Thames embankment?"
 
 "You have evidently not heard of the latest development in our
@@ -165,14 +165,14 @@ Syme's eyes were bright with a sympathetic curiosity.
 "What do you do, then?" he said.
 
 "The work of the philosophical policeman," replied the man in blue,
-"is at once bolder and more subtle than that of the ordinary detective.
-The ordinary detective goes to pot-houses to arrest thieves; we go
-to artistic tea-parties to detect pessimists.  The ordinary detective
+"is at once bolder and more subtle than that of the ordinary [[Detective|detective]].
+The ordinary [[Detective|detective]] goes to pot-houses to arrest thieves; we go
+to artistic tea-parties to detect pessimists.  The ordinary [[Detective|detective]]
 discovers from a ledger or a diary that a crime has been committed.
 We discover from a book of sonnets that a crime will be committed.
 We have to trace the origin of those dreadful thoughts that drive
-men on at last to intellectual fanaticism and intellectual crime.
-We were only just in time to prevent the assassination at Hartle pool,
+men on at last to intellectual [[Fanaticism|fanaticism]] and intellectual crime.
+We were only just in [[Time|time]] to prevent the assassination at Hartle pool,
 and that was entirely due to the fact that our Mr. Wilks (a smart
 young fellow) thoroughly understood a triolet."
 
@@ -187,7 +187,7 @@ it means merely a war upon the ignorant and the desperate.
 But this new movement of ours is a very different affair.
 We deny the snobbish English assumption that the uneducated are
 the dangerous criminals.  We remember the Roman Emperors.  We remember
-the great poisoning princes of the Renaissance.  We say
+the great poisoning princes of the [[Renaissance]].  We say
 that the dangerous criminal is the educated criminal.
 We say that the most dangerous criminal now is the entirely
 lawless modern philosopher.  Compared to him, burglars and
@@ -197,9 +197,9 @@ Thieves respect property.  They merely wish the property
 to become their property that they may more perfectly
 respect it.  But philosophers dislike property as property;
 they wish to destroy the very idea of personal possession.
-Bigamists respect marriage, or they would not go through
+Bigamists respect [[Marriage|marriage]], or they would not go through
 the highly ceremonial and even ritualistic formality of bigamy.
-But philosophers despise marriage as marriage.  Murderers respect
+But philosophers despise [[Marriage|marriage]] as [[Marriage|marriage]].  Murderers respect
 human life; they merely wish to attain a greater fulness
 of human life in themselves by the sacrifice of what seems
 to them to be lesser lives.  But philosophers hate life itself,
@@ -220,7 +220,7 @@ parts of police work which are really oppressive and ignominious,
 the harrying of the poor, the spying upon the unfortunate.
 It has given up its more dignified work, the punishment of powerful
 traitors in the State and powerful heresiarchs in the Church.
-The moderns say we must not punish heretics.  My only doubt is
+The moderns say we must not punish heretics.  My only [[Doubt|doubt]] is
 whether we have a right to punish anybody else."
 
 "But this is absurd!" cried the policeman, clasping his hands with
@@ -232,7 +232,7 @@ A moment more, and you may lose the glory of working with us,
 perhaps the glory of dying with the last heroes of the world."
 
 "It is a chance not to be missed, certainly," assented Syme,
-"but still I do not quite understand.  I know as well
+"but still I do not quite understand.  I know as [[Well|well]]
 as anybody that the modern world is full of lawless little
 men and mad little movements.  But, beastly as they are,
 they generally have the one merit of disagreeing with each other.
@@ -240,11 +240,11 @@ How can you talk of their leading one army or hurling one bolt.
 What is this anarchy?"
 
 "Do not confuse it," replied the constable, "with those chance
-dynamite outbreaks from Russia or from Ireland, which are really
+dynamite outbreaks from [[Russia]] or from Ireland, which are really
 the outbreaks of oppressed, if mistaken, men.  This is a vast
 philosophic movement, consisting of an outer and an inner ring.
 You might even call the outer ring the laity and the inner ring
-the priesthood.  I prefer to call the outer ring the innocent section,
+the priesthood.  I prefer to call the outer ring the [[Innocent|innocent]] section,
 the inner ring the supremely guilty section.  The outer ring--
 the main mass of their supporters--are merely anarchists;
 that is, men who believe that rules and formulas have destroyed
@@ -253,14 +253,14 @@ crime are the results of the system that has called it crime.
 They do not believe that the crime creates the punishment.
 They believe that the punishment has created the crime.
 They believe that if a man seduced seven women he would
-naturally walk away as blameless as the flowers of spring.
+naturally walk away as blameless as the [[Flowers|flowers]] of [[spring]].
 They believe that if a man picked a pocket he would naturally
-feel exquisitely good.  These I call the innocent section."
+feel exquisitely good.  These I call the [[Innocent|innocent]] section."
 
 "Oh!" said Syme.
 
 "Naturally, therefore, these people talk about 'a happy
-time coming'; 'the paradise of the future'; 'mankind freed
+[[Time|time]] coming'; 'the paradise of the future'; 'mankind freed
 from the bondage of vice and the bondage of virtue,' and so on.
 And so also the men of the inner circle speak--the sacred priesthood.
 They also speak to applauding crowds of the happiness of
@@ -268,21 +268,21 @@ the future, and of mankind freed at last.  But in their mouths"--
 and the policeman lowered his voice--"in their mouths these happy
 phrases have a horrible meaning.  They are under no illusions;
 they are too intellectual to think that man upon this earth
-can ever be quite free of original sin and the struggle.
-And they mean death.  When they say that mankind shall be
-free at last, they mean that mankind shall commit suicide.
+can ever be quite free of [[Original Sin|original sin]] and the struggle.
+And they mean [[Death|death]].  When they say that mankind shall be
+free at last, they mean that mankind shall commit [[suicide]].
 When they talk of a paradise without right or wrong,
-they mean the grave.
+they mean the [[Grave|grave]].
 
 "They have but two objects, to destroy first humanity and then themselves.
-That is why they throw bombs instead of firing pistols.  The innocent
-rank and file are disappointed because the bomb has not killed the king;
+That is why they throw bombs instead of firing pistols.  The [[Innocent|innocent]]
+rank and file are disappointed because the bomb has not killed the [[King|king]];
 but the high-priesthood are happy because it has killed somebody."
 
 "How can I join you?" asked Syme, with a sort of passion.
 
 "I know for a fact that there is a vacancy at the moment,"
-said the policeman, "as I have the honour to be somewhat
+said the policeman, "as I have the [[Honour|honour]] to be somewhat
 in the confidence of the chief of whom I have spoken.
 You should really come and see him.  Or rather, I should not
 say see him, nobody ever sees him; but you can talk to him
@@ -304,7 +304,7 @@ it was like going suddenly stone-blind.
 
 "Are you the new recruit?" asked a heavy voice.
 
-And in some strange way, though there was not the shadow of a shape
+And in some strange way, though there was not the [[Shadow|shadow]] of a shape
 in the gloom, Syme knew two things:  first, that it came from a man
 of massive stature; and second, that the man had his back to him.
 
@@ -323,30 +323,30 @@ this irrevocable phrase.
 
 "You are willing, that is enough," said the unknown.
 
-"Well, really," said Syme, "I don't know any profession of which mere
+"[[Well]], really," said Syme, "I don't know any profession of which mere
 willingness is the final test."
 
-"I do," said the other--"martyrs. I am condemning you to death.
+"I do," said the other--"martyrs. I am condemning you to [[Death|death]].
 Good day."
 
-Thus it was that when Gabriel Syme came out again into the crimson
+Thus it was that when [[Gabriel Syme]] came out again into the crimson
 light of evening, in his shabby black hat and shabby, lawless cloak,
-he came out a member of the New Detective Corps for the frustration
+he came out a member of the New [[Detective]] Corps for the frustration
 of the great conspiracy.  Acting under the advice of his friend
 the policeman (who was professionally inclined to neatness),
 he trimmed his hair and beard, bought a good hat, clad himself in an
-exquisite summer suit of light blue-grey, with a pale yellow flower
+exquisite [[Summer|summer]] suit of light blue-grey, with a pale yellow flower
 in the button-hole, and, in short, became that elegant and rather
 insupportable person whom Gregory had first encountered in the little
-garden of Saffron Park.  Before he finally left the police premises
+[[Garden|garden]] of Saffron Park.  Before he finally left the police premises
 his friend provided him with a small blue card, on which was written,
 "The Last Crusade," and a number, the sign of his official authority.
 He put this carefully in his upper waistcoat pocket, lit a cigarette,
 and went forth to track and fight the enemy in all the drawing-rooms
-of London.  Where his adventure ultimately led him we have already seen.
-At about half-past one on a February night he found himself steaming
+of [[London]].  Where his adventure ultimately led him we have already seen.
+At about half-past one on a February [[Night|night]] he found himself steaming
 in a small tug up the silent Thames, armed with swordstick and revolver,
-the duly elected Thursday of the Central Council of Anarchists.
+the duly elected [[thursday|Thursday]] of the Central Council of Anarchists.
 
 When Syme stepped out on to the steam-tug he had a singular sensation
 of stepping out into something entirely new; not merely into the
@@ -355,41 +355,41 @@ This was mainly due to the insane yet solid decision of that evening,
 though partly also to an entire change in the weather and the sky
 since he entered the little tavern some two hours before.
 Every trace of the passionate plumage of the cloudy sunset
-had been swept away, and a naked moon stood in a naked sky.
-The moon was so strong and full that (by a paradox often to be noticed)
+had been swept away, and a naked [[Moon|moon]] stood in a naked sky.
+The [[Moon|moon]] was so strong and full that (by a [[Paradox|paradox]] often to be noticed)
 it seemed like a weaker sun.  It gave, not the sense of bright moonshine,
 but rather of a dead daylight.
 
 Over the whole landscape lay a luminous and unnatural discoloration, as of
-that disastrous twilight which Milton spoke of as shed by the sun in eclipse;
+that disastrous twilight which [[Milton]] spoke of as shed by the sun in eclipse;
 so that Syme fell easily into his first thought, that he was actually
 on some other and emptier planet, which circled round some sadder star.
 But the more he felt this glittering desolation in the moonlit land,
-the more his own chivalric folly glowed in the night like a great fire.
+the more his own chivalric folly glowed in the [[Night|night]] like a great [[Fire|fire]].
 Even the common things he carried with him--the food and the brandy and
-the loaded pistol--took on exactly that concrete and material poetry which
-a child feels when he takes a gun upon a journey or a bun with him to bed.
-The sword-stick and the brandy-flask, though in themselves only the tools of
-morbid conspirators, became the expressions of his own more healthy romance.
-The sword-stick became almost the sword of chivalry, and the brandy the wine
+the loaded [[Pistol|pistol]]--took on exactly that concrete and material poetry which
+a [[Child|child]] feels when he takes a gun upon a [[Journey|journey]] or a bun with him to bed.
+The [[Sword|sword]]-stick and the brandy-flask, though in themselves only the tools of
+morbid conspirators, became the expressions of his own more healthy [[Romance|romance]].
+The [[Sword|sword]]-stick became almost the [[Sword|sword]] of chivalry, and the brandy the wine
 of the stirrup-cup. For even the most dehumanised modern fantasies depend on
 some older and simpler figure; the adventures may be mad, but the adventurer
-must be sane.  The dragon without St. George would not even be grotesque.
+must be sane.  The dragon without St. George would not even be [[Grotesque|grotesque]].
 So this inhuman landscape was only imaginative by the presence of a man
 really human.  To Syme's exaggerative mind the bright, bleak houses
-and terraces by the Thames looked as empty as the mountains of the moon.
-But even the moon is only poetical because there is a man in the moon.
+and terraces by the Thames looked as empty as the [[Mountains|mountains]] of the [[Moon|moon]].
+But even the [[Moon|moon]] is only poetical because there is a man in the [[Moon|moon]].
 
 The tug was worked by two men, and with much toil went comparatively slowly.
-The clear moon that had lit up Chiswick had gone down by the time that they
+The clear [[Moon|moon]] that had lit up Chiswick had gone down by the [[Time|time]] that they
 passed Battersea, and when they came under the enormous bulk of Westminster
 day had already begun to break.  It broke like the splitting of great bars
-of lead, showing bars of silver; and these had brightened like white fire
+of lead, showing bars of silver; and these had brightened like white [[Fire|fire]]
 when the tug, changing its onward course, turned inward to a large landing
-stage rather beyond Charing Cross.
+stage rather beyond Charing [[Cross]].
 
 The great stones of the Embankment seemed equally dark and gigantic as Syme
-looked up at them.  They were big and black against the huge white dawn.
+looked up at them.  They were big and black against the huge white [[Dawn|dawn]].
 They made him feel that he was landing on the colossal steps of some
 Egyptian palace; and, indeed, the thing suited his mood, for he was,
 in his own mind, mounting to attack the solid thrones of horrible

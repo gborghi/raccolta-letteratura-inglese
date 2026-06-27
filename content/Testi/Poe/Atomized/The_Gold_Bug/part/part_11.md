@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 11)"
+title: "[[The Gold-Bug]] (part 11)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -18,7 +18,7 @@ tags:
 
       the action of the caloric had been imperfect or unequal. I
 
-      immediately kindled a fire, and subjected every portion of the
+      immediately kindled a [[Fire|fire]], and subjected every portion of the
 
       parchment to a glowing heat. At first, the only effect was the
 
@@ -28,7 +28,7 @@ tags:
 
       corner of the slip, diagonally opposite to the spot in which the
 
-      death’s-head was delineated, the figure of what I at first
+      [[Death|death]]’s-head was delineated, the figure of what I at first
 
       supposed to be a goat. A closer scrutiny, however, satisfied me
 
@@ -54,7 +54,7 @@ tags:
 
 
 
-      “Well, a kid then—pretty much the same thing.”
+      “[[Well]], a kid then—pretty much the same thing.”
 
 
 
@@ -66,11 +66,11 @@ tags:
 
       say signature; because its position upon the vellum suggested
 
-      this idea. The death’s-head at the corner diagonally opposite,
+      this idea. The [[Death|death]]’s-head at the corner diagonally opposite,
 
       had, in the same manner, the air of a stamp, or seal. But I was
 
-      sorely put out by the absence of all else—of the body to my
+      sorely put out by the absence of all else—of the [[Body|body]] to my
 
       imagined instrument—of the text for my context.”
 
@@ -88,7 +88,7 @@ tags:
 
       impending. I can scarcely say why. Perhaps, after all, it was
 
-      rather a desire than an actual belief;—but do you know that
+      rather a [[Desire|desire]] than an actual belief;—but do you know that
 
       Jupiter’s silly words, about the bug being of solid gold, had a
 
@@ -100,13 +100,13 @@ tags:
 
       occurred upon the sole day of all the year in which it has been,
 
-      or may be, sufficiently cool for fire, and that without the fire,
+      or may be, sufficiently cool for [[Fire|fire]], and that without the [[Fire|fire]],
 
       or without the intervention of the dog at the precise moment in
 
       which he appeared, I should never have become aware of the
 
-      death’s-head, and so never the possessor of the treasure?”
+      [[Death|death]]’s-head, and so never the possessor of the treasure?”
 
 
 
@@ -114,7 +114,7 @@ tags:
 
 
 
-      “Well; you have heard, of course, the many stories current—the
+      “[[Well]]; you have heard, of course, the many stories current—the
 
       thousand vague rumors afloat about money buried, somewhere upon
 
@@ -128,7 +128,7 @@ tags:
 
       still remaining entombed. Had Kidd concealed his plunder for a
 
-      time, and afterwards reclaimed it, the rumors would scarcely have
+      [[Time|time]], and afterwards reclaimed it, the rumors would scarcely have
 
       reached us in their present unvarying form. You will observe that
 
@@ -160,13 +160,13 @@ tags:
 
 
 
-      “But that Kidd’s accumulations were immense, is well known. I
+      “But that Kidd’s accumulations were immense, is [[Well|well]] known. I
 
       took it for granted, therefore, that the earth still held them;
 
       and you will scarcely be surprised when I tell you that I felt a
 
-      hope, nearly amounting to certainty, that the parchment so
+      [[Hope|hope]], nearly amounting to certainty, that the parchment so
 
       strangely found, involved a lost record of the place of deposit.”
 
@@ -176,13 +176,13 @@ tags:
 
 
 
-      “I held the vellum again to the fire, after increasing the heat;
+      “I held the vellum again to the [[Fire|fire]], after increasing the heat;
 
       but nothing appeared. I now thought it possible that the coating
 
       of dirt might have something to do with the failure; so I
 
-      carefully rinsed the parchment by pouring warm water over it,
+      carefully rinsed the parchment by pouring warm [[Water|water]] over it,
 
       and, having done this, I placed it in a tin pan, with the skull
 
@@ -206,7 +206,7 @@ tags:
 
       inspection. The following characters were rudely traced, in a red
 
-      tint, between the death’s-head and the goat:
+      tint, between the [[Death|death]]’s-head and the goat:
 
 
 

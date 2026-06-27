@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 41 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 41 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -32,7 +32,7 @@ Poor Edward! he has done for himself completely,—shut himself out for
 
 ever from all decent society! But, as I directly said to my mother, I
 
-am not in the least surprised at it; from his style of education, it
+am not in the least surprised at it; from his style of [[Education|education]], it
 
 was always to be expected. My poor mother was half frantic.”
 
@@ -42,11 +42,11 @@ was always to be expected. My poor mother was half frantic.”
 
 
 
-“Yes; once, while she was staying in this house, I happened to drop in
+“Yes; once, while she was staying in this [[house]], I happened to drop in
 
 for ten minutes; and I saw quite enough of her. The merest awkward
 
-country girl, without style, or elegance, and almost without beauty. I
+country girl, without style, or elegance, and almost without [[Beauty|beauty]]. I
 
 remember her perfectly. Just the kind of girl I should suppose likely
 

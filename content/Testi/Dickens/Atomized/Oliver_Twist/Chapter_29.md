@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 29"
+title: "[[Oliver Twist]] — Chapter 29"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,22 +15,22 @@ tags:
 
 
  CHAPTER XXIX.
-HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE HOUSE, TO WHICH
-OLIVER RESORTED
+HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE [[house|HOUSE]], TO WHICH
+[[Oliver|OLIVER]] RESORTED
 
 
 In a handsome room: though its furniture had rather the air of
 old-fashioned comfort, than of modern elegance: there sat two ladies at
-a well-spread breakfast-table. Mr. Giles, dressed with scrupulous care
+a [[Well|well]]-spread breakfast-table. Mr. Giles, dressed with scrupulous care
 in a full suit of black, was in attendance upon them. He had taken his
 station some half-way between the side-board and the breakfast-table;
-and, with his body drawn up to its full height, his head thrown back,
+and, with his [[Body|body]] drawn up to its full height, his head thrown back,
 and inclined the merest trifle on one side, his left leg advanced, and
 his right hand thrust into his waist-coat, while his left hung down by
 his side, grasping a waiter, looked like one who laboured under a very
 agreeable sense of his own merits and importance.
 
-Of the two ladies, one was well advanced in years; but the high-backed
+Of the two ladies, one was [[Well|well]] advanced in years; but the high-backed
 oaken chair in which she sat, was not more upright than she. Dressed
 with the utmost nicety and precision, in a quaint mixture of by-gone
 costume, with some slight concessions to the prevailing taste, which
@@ -39,7 +39,7 @@ effect, she sat, in a stately manner, with her hands folded on the
 table before her. Her eyes (and age had dimmed but little of their
 brightness) were attentively upon her young companion.
 
-The younger lady was in the lovely bloom and spring-time of womanhood;
+The younger lady was in the lovely bloom and [[spring]]-[[Time|time]] of womanhood;
 at that age, when, if ever angels be for God’s good purposes enthroned
 in mortal forms, they may be, without impiety, supposed to abide in
 such as hers.
@@ -49,9 +49,9 @@ mild and gentle; so pure and beautiful; that earth seemed not her
 element, nor its rough creatures her fit companions. The very
 intelligence that shone in her deep blue eye, and was stamped upon her
 noble head, seemed scarcely of her age, or of the world; and yet the
-changing expression of sweetness and good humour, the thousand lights
-that played about the face, and left no shadow there; above all, the
-smile, the cheerful, happy smile, were made for Home, and fireside
+changing expression of sweetness and good [[Humour|humour]], the thousand lights
+that played about the face, and left no [[Shadow|shadow]] there; above all, the
+smile, the cheerful, happy smile, were made for [[Home]], and fireside
 peace and happiness.
 
 She was busily engaged in the little offices of the table. Chancing to
@@ -79,14 +79,14 @@ fast one.
 boys,” said the young lady, smiling.
 
 Mr. Giles was apparently considering the propriety of indulging in a
-respectful smile himself, when a gig drove up to the garden-gate: out
+respectful smile himself, when a gig drove up to the [[Garden|garden]]-gate: out
 of which there jumped a fat gentleman, who ran straight up to the door:
-and who, getting quickly into the house by some mysterious process,
+and who, getting quickly into the [[house]] by some mysterious process,
 burst into the room, and nearly overturned Mr. Giles and the
 breakfast-table together.
 
 “I never heard of such a thing!” exclaimed the fat gentleman. “My dear
-Mrs. Maylie—bless my soul—in the silence of the night, too—I _never_
+Mrs. Maylie—bless my [[Soul|soul]]—in the [[Silence|silence]] of the [[Night|night]], too—I _never_
 heard of such a thing!”
 
 With these expressions of condolence, the fat gentleman shook hands
@@ -97,26 +97,26 @@ themselves.
 gentleman. “Why didn’t you send? Bless me, my man should have come in a
 minute; and so would I; and my assistant would have been delighted; or
 anybody, I’m sure, under such circumstances. Dear, dear! So unexpected!
-In the silence of the night, too!”
+In the [[Silence|silence]] of the [[Night|night]], too!”
 
 The doctor seemed especially troubled by the fact of the robbery having
-been unexpected, and attempted in the night-time; as if it were the
+been unexpected, and attempted in the [[Night|night]]-[[Time|time]]; as if it were the
 established custom of gentlemen in the housebreaking way to transact
-business at noon, and to make an appointment, by post, a day or two
+business at [[Noon|noon]], and to make an appointment, by post, a day or two
 previous.
 
-“And you, Miss Rose,” said the doctor, turning to the young lady, “I—”
+“And you, Miss [[Rose]],” said the doctor, turning to the young lady, “I—”
 
-“Oh! very much so, indeed,” said Rose, interrupting him; “but there is
+“Oh! very much so, indeed,” said [[Rose]], interrupting him; “but there is
 a poor creature upstairs, whom aunt wishes you to see.”
 
 “Ah! to be sure,” replied the doctor, “so there is. That was your
 handiwork, Giles, I understand.”
 
 Mr. Giles, who had been feverishly putting the tea-cups to rights,
-blushed very red, and said that he had had that honour.
+blushed very red, and said that he had had that [[Honour|honour]].
 
-“Honour, eh?” said the doctor; “well, I don’t know; perhaps it’s as
+“[[Honour]], eh?” said the doctor; “[[Well|well]], I don’t know; perhaps it’s as
 honourable to hit a thief in a back kitchen, as to hit your man at
 twelve paces. Fancy that he fired in the air, and you’ve fought a duel,
 Giles.”
@@ -128,12 +128,12 @@ was no joke to the opposite party.
 
 “Gad, that’s true!” said the doctor. “Where is he? Show me the way.
 I’ll look in again, as I come down, Mrs. Maylie. That’s the little
-window that he got in at, eh? Well, I couldn’t have believed it!”
+[[Window|window]] that he got in at, eh? [[Well]], I couldn’t have believed it!”
 
 Talking all the way, he followed Mr. Giles upstairs; and while he is
 going upstairs, the reader may be informed, that Mr. Losberne, a
 surgeon in the neighbourhood, known through a circuit of ten miles
-round as “the doctor,” had grown fat, more from good-humour than from
+round as “the doctor,” had grown fat, more from good-[[Humour|humour]] than from
 good living: and was as kind and hearty, and withal as eccentric an old
 bachelor, as will be found in five times that space, by any explorer
 alive.
@@ -149,7 +149,7 @@ the door, carefully.
 “This is a very extraordinary thing, Mrs. Maylie,” said the doctor,
 standing with his back to the door, as if to keep it shut.
 
-“He is not in danger, I hope?” said the old lady.
+“He is not in danger, I [[Hope|hope]]?” said the old lady.
 
 “Why, that would _not_ be an extraordinary thing, under the
 circumstances,” replied the doctor; “though I don’t think he is. Have
@@ -169,9 +169,9 @@ mind to the avowal, that he had only shot a boy. Such commendations had
 been bestowed upon his bravery, that he could not, for the life of him,
 help postponing the explanation for a few delicious minutes; during
 which he had flourished, in the very zenith of a brief reputation for
-undaunted courage.
+undaunted [[Courage|courage]].
 
-“Rose wished to see the man,” said Mrs. Maylie, “but I wouldn’t hear of
+“[[Rose]] wished to see the man,” said Mrs. Maylie, “but I wouldn’t hear of
 it.”
 
 “Humph!” rejoined the doctor. “There is nothing very alarming in his
@@ -182,5 +182,5 @@ appearance. Have you any objection to see him in my presence?”
 “Then I think it is necessary,” said the doctor; “at all events, I am
 quite sure that you would deeply regret not having done so, if you
 postponed it. He is perfectly quiet and comfortable now. Allow me—Miss
-Rose, will you permit me? Not the slightest fear, I pledge you my
-honour!”
+[[Rose]], will you permit me? Not the slightest [[Fear|fear]], I pledge you my
+[[Honour|honour]]!”

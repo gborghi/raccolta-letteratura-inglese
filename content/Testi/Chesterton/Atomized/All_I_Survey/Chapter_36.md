@@ -19,10 +19,10 @@ XXXVI
 _On Fictional Conventions_
 
 IT is now much discussed among the learned whether art should abolish
-morality by calling it convention.  It might well be discussed
+[[morality]] by calling it convention.  It might [[Well|well]] be discussed
 among the wise whether art should even abolish convention.
 But what seems very queer to me is this:  that modern art has
-so often abolished morality without abolishing convention.
+so often abolished [[morality]] without abolishing convention.
 I mean that very tame and timid conventions, the remains
 of rather fragile and artificial styles of writing, do still
 manage to run side by side with complete licence or laxity
@@ -47,7 +47,7 @@ about to dive."  There are a hundred other examples;
 but all habitually assume that the first thing that
 anybody notices about a woman is the colour of her eyes.
 Now, it is perfectly possible to be on tolerably intimate
-terms with a person for a long time and yet to be quite
+terms with a person for a long [[Time|time]] and yet to be quite
 unable to recall suddenly the colour of his or her eyes.
 And certainly nobody ever saw the colour of a stranger's eyes all
 the way across a ball-room in Mayfair, a big studio in Chelsea,
@@ -61,13 +61,13 @@ barbarism and baseness cannot wholly make up the loss.
 
 What a man sees first about a woman, or anybody else, is the type;
 whether it is, for instance, the type that flows in long lines,
-with long features, the type that an artist would draw in profile;
+with long features, the type that an [[artist]] would draw in profile;
 or whether it has the face that is most itself when seen fully in front,
 flat against a background; especially the sort of square and open face,
 the face that is generally that of a fighter, and, however beautiful it
 may be, has always a touch of the monkey.  A man can distinguish those
 two types from each other across the largest hall or the widest sands,
-almost as easily as he could distinguish a horse from a cow or a stag.
+almost as easily as he could distinguish a [[Horse|horse]] from a cow or a stag.
 He might distinguish a hundred things about the rank or the culture or
 even the character; he could make inferences from the poise and the walk
 and the gesture.  He could do it all at a distance, at which it would
@@ -82,12 +82,12 @@ underneath much modern writing that considers itself most unconventional.
 In more showy things the realists remember to be shameless;
 but in these little things they do not remember to be realistic.
 
-I knew a lady, with a very hearty sense of humour, whose business
+I knew a lady, with a very hearty sense of [[Humour|humour]], whose business
 it happened to be to write frankly conventional romances
 for the old frankly conventional Press, the Press that provided
 healthy but somewhat sentimental serials and novelettes.
 She got great fun out of her functions; and she told me once
-that she had written a long serial romance, with a stately and
+that she had written a long serial [[Romance|romance]], with a stately and
 tragic heroine, only to be told at the end that the public, or at
 least the publishers, insisted on a _petite_ and sparkling heroine.
 With a noble calm, disdaining to alter a single incident
@@ -106,7 +106,7 @@ Novelists still sometimes trip over that antiquated booby trap.
 I never saw anybody trip, except somebody who tripped over
 a hassock and fell on his nose, to the satiric enlivenment
 of the human race.  Anyhow, Amanda's large and shady hat
-grew less large and shady, and was turned up with a rose
+grew less large and shady, and was turned up with a [[Rose|rose]]
 or something; her raiment grew less sweeping and severe;
 but nothing else needed any alteration.  And it sometimes seems
 to me that many who write in the most revolutionary fashion
@@ -115,7 +115,7 @@ They merely go through their own story and put in the terms
 which are supposed to make the heroine chic or distinguished,
 according to the momentary modern conventions of unconventionality.
 The heroine has no more real individuality, amid all the fuss
-of individualism, than the adaptable Amanda whose eyes turned
+of [[Individualism|individualism]], than the adaptable Amanda whose eyes turned
 so easily from black to blue.
 
 Perhaps what we call realistic descriptions are bound to be
@@ -123,27 +123,27 @@ conventional because they are bound to be fashionable.
 They are bound to emphasize exactly the points which one
 particular period thinks important; which will be exactly
 the points which the next period will think unimportant.
-Hence we have the paradox that the noblest compliments to women
+Hence we have the [[Paradox|paradox]] that the noblest compliments to women
 have not been direct descriptions, but indirect descriptions.
 The direct compliment would deal with all the details that pass;
 the indirect compliment with the impression which does not pass.
 Archæologists have worked out a complete theory of the costume
-of Helen of Troy, which seems to have consisted of a
+of [[Helen]] of Troy, which seems to have consisted of a
 straw sun-bonnet, a Zouave jacket, and high-heeled shoes.
 If Homer had written a realistic description, it would have
 seemed to us a rather vulgar description.  The dress of the
 fourteenth century was more dignified, but not more natural;
-and if Dante had described Beatrice in the exact garb she wore
+and if [[Dante]] had described [[Beatrice]] in the exact garb she wore
 it might have seemed to us at once extravagant and stiff.
-But ages shall pass and civilizations shall perish, and time
+But ages shall pass and civilizations shall perish, and [[Time|time]]
 shall never turn the keen edge of that great indirect compliment,
 that older and wiser fashion of describing the effect
-and not the external instruments.  As when Dante, seeing his
-lady upon the height, felt only like the legendary monster
+and not the external instruments.  As when [[Dante]], seeing his
+lady upon the height, felt only like the legendary [[Monster|monster]]
 whom the taste of a strange food had turned into a god.
 Or Homer was content to let us listen to the grumbling
 of the Trojans against the cause of the Trojan War, and then
-to that great sudden silence that fell upon them, full of light
-and understanding, when Helen came forth upon the wall.
+to that great sudden [[Silence|silence]] that fell upon them, full of light
+and understanding, when [[Helen]] came forth upon the wall.
 
 -*-

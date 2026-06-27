@@ -1,5 +1,5 @@
 ---
-title: "Sanity — SOME ASPECTS OF MACHINERY--"
+title: "[[Sanity]] — SOME ASPECTS OF MACHINERY--"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 15"
+title: "[[Persuasion]] — Chapter 15"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XV.
 
 
 
-Sir Walter had taken a very good house in Camden Place, a lofty
+Sir Walter had taken a very good [[house]] in Camden Place, a lofty
 
 dignified situation, such as becomes a man of consequence; and both he
 
@@ -28,7 +28,7 @@ and Elizabeth were settled there, much to their satisfaction.
 
 
 
-Anne entered it with a sinking heart, anticipating an imprisonment of
+Anne entered it with a sinking heart, anticipating an [[Imprisonment|imprisonment]] of
 
 many months, and anxiously saying to herself, “Oh! when shall I leave
 
@@ -36,7 +36,7 @@ you again?” A degree of unexpected cordiality, however, in the welcome
 
 she received, did her good. Her father and sister were glad to see her,
 
-for the sake of shewing her the house and furniture, and met her with
+for the sake of shewing her the [[house]] and furniture, and met her with
 
 kindness. Her making a fourth, when they sat down to dinner, was
 
@@ -68,7 +68,7 @@ all Bath.
 
 They had the pleasure of assuring her that Bath more than answered
 
-their expectations in every respect. Their house was undoubtedly the
+their expectations in every respect. Their [[house]] was undoubtedly the
 
 best in Camden Place; their drawing-rooms had many decided advantages
 
@@ -86,9 +86,9 @@ of whom they knew nothing.
 
 
 
-Here were funds of enjoyment. Could Anne wonder that her father and
+Here were funds of enjoyment. Could Anne [[Wonder|wonder]] that her father and
 
-sister were happy? She might not wonder, but she must sigh that her
+sister were happy? She might not [[Wonder|wonder]], but she must sigh that her
 
 father should feel no degradation in his change, should see nothing to
 
@@ -96,7 +96,7 @@ regret in the duties and dignity of the resident landholder, should
 
 find so much to be vain of in the littlenesses of a town; and she must
 
-sigh, and smile, and wonder too, as Elizabeth threw open the
+sigh, and smile, and [[Wonder|wonder]] too, as Elizabeth threw open the
 
 folding-doors and walked with exultation from one drawing-room to the
 
@@ -116,7 +116,7 @@ pardoned, they were delighted with him. He had been in Bath about a
 
 fortnight; (he had passed through Bath in November, in his way to
 
-London, when the intelligence of Sir Walter’s being settled there had
+[[London]], when the intelligence of Sir Walter’s being settled there had
 
 of course reached him, though only twenty-four hours in the place, but
 
@@ -158,7 +158,7 @@ character and general conduct must refute it. He could refer Sir Walter
 
 to all who knew him; and certainly, the pains he had been taking on
 
-this, the first opportunity of reconciliation, to be restored to the
+this, the first opportunity of [[Reconciliation|reconciliation]], to be restored to the
 
 footing of a relation and heir-presumptive, was a strong proof of his
 
@@ -166,7 +166,7 @@ opinions on the subject.
 
 
 
-The circumstances of his marriage, too, were found to admit of much
+The circumstances of his [[Marriage|marriage]], too, were found to admit of much
 
 extenuation. This was an article not to be entered on by himself; but a
 
@@ -180,17 +180,17 @@ had, at his own particular request, been admitted to their acquaintance
 
 through Mr Elliot, had mentioned one or two things relative to the
 
-marriage, which made a material difference in the discredit of it.
+[[Marriage|marriage]], which made a material difference in the discredit of it.
 
 
 
-Colonel Wallis had known Mr Elliot long, had been well acquainted also
+Colonel Wallis had known Mr Elliot long, had been [[Well|well]] acquainted also
 
 with his wife, had perfectly understood the whole story. She was
 
-certainly not a woman of family, but well educated, accomplished, rich,
+certainly not a woman of family, but [[Well|well]] educated, accomplished, rich,
 
-and excessively in love with his friend. There had been the charm. She
+and excessively in [[Love|love]] with his friend. There had been the charm. She
 
 had sought him. Without that attraction, not all her money would have
 
@@ -198,7 +198,7 @@ tempted Elliot, and Sir Walter was, moreover, assured of her having
 
 been a very fine woman. Here was a great deal to soften the business. A
 
-very fine woman with a large fortune, in love with him! Sir Walter
+very fine woman with a large fortune, in [[Love|love]] with him! Sir Walter
 
 seemed to admit it as complete apology; and though Elizabeth could not
 
@@ -224,13 +224,13 @@ allowances, she knew, must be made for the ideas of those who spoke.
 
 She heard it all under embellishment. All that sounded extravagant or
 
-irrational in the progress of the reconciliation might have no origin
+irrational in the progress of the [[Reconciliation|reconciliation]] might have no origin
 
 but in the language of the relators. Still, however, she had the
 
 sensation of there being something more than immediately appeared, in
 
-Mr Elliot’s wishing, after an interval of so many years, to be well
+Mr Elliot’s wishing, after an interval of so many years, to be [[Well|well]]
 
 received by them. In a worldly view, he had nothing to gain by being on
 
@@ -252,13 +252,13 @@ that he could afford to please himself, he might mean to pay his
 
 addresses to her. Elizabeth was certainly very handsome, with
 
-well-bred, elegant manners, and her character might never have been
+[[Well|well]]-bred, elegant manners, and her character might never have been
 
 penetrated by Mr Elliot, knowing her but in public, and when very young
 
 himself. How her temper and understanding might bear the investigation
 
-of his present keener time of life was another concern and rather a
+of his present keener [[Time|time]] of life was another concern and rather a
 
 fearful one. Most earnestly did she wish that he might not be too nice,
 
@@ -284,9 +284,9 @@ especially. He did justice to his very gentlemanlike appearance, his
 
 air of elegance and fashion, his good shaped face, his sensible eye;
 
-but, at the same time, “must lament his being very much under-hung, a
+but, at the same [[Time|time]], “must lament his being very much under-hung, a
 
-defect which time seemed to have increased; nor could he pretend to say
+defect which [[Time|time]] seemed to have increased; nor could he pretend to say
 
 that ten years had not altered almost every feature for the worse. Mr
 
@@ -336,7 +336,7 @@ Street, he had counted eighty-seven women go by, one after another,
 
 without there being a tolerable face among them. It had been a frosty
 
-morning, to be sure, a sharp frost, which hardly one woman in a
+morning, to be sure, a sharp [[Frost|frost]], which hardly one woman in a
 
 thousand could stand the test of. But still, there certainly were a
 
@@ -366,7 +366,7 @@ sandy-haired.
 
 “How is Mary looking?” said Sir Walter, in the height of his good
 
-humour. “The last time I saw her she had a red nose, but I hope that
+[[Humour|humour]]. “The last [[Time|time]] I saw her she had a red nose, but I [[Hope|hope]] that
 
 may not happen every day.”
 
@@ -390,9 +390,9 @@ or a cap, would not be liable to any such misuse, when a knock at the
 
 door suspended everything. “A knock at the door! and so late! It was
 
-ten o’clock. Could it be Mr Elliot? They knew he was to dine in
+ten o’[[Clock|clock]]. Could it be Mr Elliot? They knew he was to dine in
 
-Lansdown Crescent. It was possible that he might stop in his way home
+Lansdown Crescent. It was possible that he might stop in his way [[Home|home]]
 
 to ask them how they did. They could think of no one else. Mrs Clay
 
@@ -450,7 +450,7 @@ equally good.
 
 He sat down with them, and improved their conversation very much. There
 
-could be no doubt of his being a sensible man. Ten minutes were enough
+could be no [[Doubt|doubt]] of his being a sensible man. Ten minutes were enough
 
 to certify that. His tone, his expressions, his choice of subject, his
 
@@ -462,7 +462,7 @@ wanting to compare opinions respecting the place, but especially
 
 wanting to speak of the circumstance of their happening to be guests in
 
-the same inn at the same time; to give his own route, understand
+the same inn at the same [[Time|time]]; to give his own route, understand
 
 something of hers, and regret that he should have lost such an
 
@@ -476,11 +476,11 @@ had heard voices, mirth continually; thought they must be a most
 
 delightful set of people, longed to be with them, but certainly without
 
-the smallest suspicion of his possessing the shadow of a right to
+the smallest suspicion of his possessing the [[Shadow|shadow]] of a right to
 
 introduce himself. If he had but asked who the party were! The name of
 
-Musgrove would have told him enough. “Well, it would serve to cure him
+Musgrove would have told him enough. “[[Well]], it would serve to cure him
 
 of an absurd practice of never asking a question at an inn, which he
 
@@ -502,7 +502,7 @@ folly of what they have in view.”
 
 
 
-But he must not be addressing his reflections to Anne alone: he knew
+But he must not be addressing his reflections to Anne [[Alone|alone]]: he knew
 
 it; he was soon diffused again among the others, and it was only at
 
@@ -520,7 +520,7 @@ Sir Walter and Elizabeth began to question also, but the difference in
 
 their manner of doing it could not be unfelt. She could only compare Mr
 
-Elliot to Lady Russell, in the wish of really comprehending what had
+Elliot to [[Lady Russell]], in the wish of really comprehending what had
 
 passed, and in the degree of concern for what she must have suffered in
 
@@ -528,7 +528,7 @@ witnessing it.
 
 
 
-He staid an hour with them. The elegant little clock on the
+He staid an hour with them. The elegant little [[Clock|clock]] on the
 
 mantel-piece had struck “eleven with its silver sounds,” and the
 
@@ -542,4 +542,4 @@ long.
 
 Anne could not have supposed it possible that her first evening in
 
-Camden Place could have passed so well!
+Camden Place could have passed so [[Well|well]]!

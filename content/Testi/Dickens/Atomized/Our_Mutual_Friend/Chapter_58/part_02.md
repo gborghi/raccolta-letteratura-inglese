@@ -35,7 +35,7 @@ Twemlow going on to reply, she rests her eyes again, knowing her ears to
 be quite enough for the contents of so weak a vessel.
 
 ‘I can, I suppose,’ says Twemlow, nervously, ‘offer no reasonable
-objection to hearing anything that you do me the honour to wish to say
+objection to hearing anything that you do me the [[Honour|honour]] to wish to say
 to me under those heads. But if I may, with all possible delicacy and
 politeness, entreat you not to range beyond them, I—I beg to do so.’
 
@@ -48,7 +48,7 @@ certain person.’
 
 ‘And for doing which, I thank you; though, indeed, I scarcely know why
 I turned traitress to my husband in the matter, for the girl is a poor
-little fool. I was a poor little fool once myself; I can find no better
+little [[Fool|fool]]. I was a poor little [[Fool|fool]] once myself; I can find no better
 reason.’ Seeing the effect she produces on him by her indifferent laugh
 and cold look, she keeps her eyes upon him as she proceeds. ‘Mr Twemlow,
 if you should chance to see my husband, or to see me, or to see both of
@@ -61,7 +61,7 @@ stipulation; to a gentleman it is simply a reminder.’
 Twemlow sits murmuring to himself with his hand to his forehead.
 
 ‘It is so plain a case,’ Mrs Lammle goes on, ‘as between me (from the
-first relying on your honour) and you, that I will not waste another
+first relying on your [[Honour|honour]]) and you, that I will not waste another
 word upon it.’ She looks steadily at Mr Twemlow, until, with a shrug,
 he makes her a little one-sided bow, as though saying ‘Yes, I think you
 have a right to rely upon me,’ and then she moistens her lips, and shows
@@ -85,12 +85,12 @@ while listening, and uses them with strong effect while speaking.
 
 ‘Yes.’
 
-‘It is strange that he should have told you the truth,’ says Mrs
+‘It is strange that he should have told you the [[Truth|truth]],’ says Mrs
 Lammle, seriously pondering. ‘Pray where did a circumstance so very
 extraordinary happen?’
 
-Twemlow hesitates. He is shorter than the lady as well as weaker, and,
-as she stands above him with her hardened manner and her well-used eyes,
+Twemlow hesitates. He is shorter than the lady as [[Well|well]] as weaker, and,
+as she stands above him with her hardened manner and her [[Well|well]]-used eyes,
 he finds himself at such a disadvantage that he would like to be of the
 opposite sex.
 
@@ -103,7 +103,7 @@ More particularly, as Mr Fledgeby did, with great civility, which I
 could not feel that I deserved from him, render me the same service that
 you had entreated him to render you.’
 
-It is a part of the true nobility of the poor gentleman’s soul to say
+It is a part of the true nobility of the poor gentleman’s [[Soul|soul]] to say
 this last sentence. ‘Otherwise,’ he has reflected, ‘I shall assume the
 superior position of having no difficulties of my own, while I know of
 hers. Which would be mean, very mean.’
@@ -137,7 +137,7 @@ man’s truthfulness by your own, from being imposed upon.’
 ‘Impossible!’ cries Twemlow, standing aghast. ‘How do you know it?’
 
 ‘I scarcely know how I know it. The whole train of circumstances seemed
-to take fire at once, and show it to me.’
+to take [[Fire|fire]] at once, and show it to me.’
 
 ‘Oh! Then you have no proof.’
 

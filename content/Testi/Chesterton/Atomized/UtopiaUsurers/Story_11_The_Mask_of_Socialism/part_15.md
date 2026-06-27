@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 15)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 15)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-Against this bitter shrewdness and bleak realism in the suffering
+Against this bitter shrewdness and bleak realism in the [[Suffering|suffering]]
 
 classes it is commonly supposed that the more leisured classes stand for
 
 certain legitimate ideas which also have their place in life; such as
 
-history, reverence, the love of the land. Well, it might be no bad thing
+[[history]], reverence, the [[Love|love]] of the land. [[Well]], it might be no bad thing
 
 to have something, even if it were something narrow, that testified to
 
 the truths of religion or patriotism. But such narrow things in the
 
-past have always at least known their own history; the bigot knew his
+past have always at least known their own [[history]]; the bigot knew his
 
-catechism; the patriot knew his way home. The astonishing thing about
+catechism; the patriot knew his way [[Home|home]]. The astonishing thing about
 
 the modern rich is their real and sincere ignorance--especially of the
 
@@ -44,19 +44,19 @@ No!
 
 Take the most topical case you can find in any drawing-room: Belfast.
 
-Ulster is most assuredly a matter of history; and there is a sense in
+Ulster is most assuredly a matter of [[history]]; and there is a sense in
 
 which Orange resistance is a matter of religion. But go and ask any of
 
-the five hundred fluttering ladies at a garden party (who find Carson so
+the five hundred fluttering ladies at a [[Garden|garden]] party (who find Carson so
 
 splendid and Belfast so thrilling) what it is all about, when it began,
 
-where it came from, what it really maintains? What was the history
+where it came from, what it really maintains? What was the [[history]]
 
 of Ulster? What is the religion of Belfast? Do any of them know where
 
-Ulstermen were in Grattan's time; do any of them know what was the
+Ulstermen were in Grattan's [[Time|time]]; do any of them know what was the
 
 "Protestantism" that came from Scotland to that isle; could any of them
 
@@ -66,17 +66,17 @@ tell what part of the old Catholic system it really denied?
 
 It was generally something that the fluttering ladies find in their own
 
-Anglican churches every Sunday. It were vain to ask them to state the
+Anglican churches every [[Sunday]]. It were vain to ask them to state the
 
 doctrines of the Calvinist creed; they could not state the doctrines
 
-of their own creed. It were vain to tell them to read the history of
+of their own creed. It were vain to tell them to read the [[history]] of
 
-Ireland; they have never read the history of England. It would matter as
+Ireland; they have never read the [[history]] of England. It would matter as
 
 little that they do not know these things, as that I do not know German;
 
-but then German is not the only thing I am supposed to know. History and
+but then German is not the only thing I am supposed to know. [[history|History]] and
 
 ritual are the only things aristocrats are supposed to know; and they
 
@@ -154,7 +154,7 @@ there would still be such a thing as personal dignity, and different
 
 modes of robbery would diminish it in very different ways. Similarly,
 
-there is a truth, but only a half-truth, in the saying that all modern
+there is a [[Truth|truth]], but only a half-[[Truth|truth]], in the saying that all modern
 
 Powers alike rely on the Capitalist and make war on the lines of
 
@@ -172,7 +172,7 @@ every peasant from one of the old Russian communes is the immediate
 
 servant of a rich man, as is every employee of Mr. Rockefeller. It is as
 
-false as the statement that no poor people in America can read or write.
+false as the statement that no poor people in [[america|America]] can read or write.
 
 There is an element of Capitalism in all modern countries, as there is
 
@@ -196,7 +196,7 @@ the war, on the whole, rather suffers by the contractor. We regard this
 
 unsoldierly middleman with disgust, or great anger, or contemptuous
 
-acquiescence, or commercial dread and silence, according to our personal
+acquiescence, or commercial dread and [[Silence|silence]], according to our personal
 
 position and character. But we nowhere think of him as having anything
 
@@ -214,7 +214,7 @@ tolerate the contractor, or we do not tolerate him; but no one admires
 
 him especially, and certainly no one gives him any credit for any
 
-success in the war. Confessedly or unconfessedly we knock his profits,
+[[success]] in the war. Confessedly or unconfessedly we knock his profits,
 
 not only off what goes to the taxpayer, but what goes to the soldier. We
 

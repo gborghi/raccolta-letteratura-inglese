@@ -50,21 +50,21 @@ tags:
 
       Mr. Ross. This had been the original draught; but the handwriting
 
-      not being sufficiently well imitated, Augustus had written
+      not being sufficiently [[Well|well]] imitated, Augustus had written
 
       another, thrusting the first, by good fortune, into his
 
       coat-pocket, where it was now most opportunely discovered. Ink
 
-      alone was thus wanting, and a substitute was immediately found
+      [[Alone|alone]] was thus wanting, and a substitute was immediately found
 
       for this by means of a slight incision with the pen-knife on the
 
-      back of a finger just above the nail—a copious flow of blood
+      back of a finger just above the nail—a copious flow of [[Blood|blood]]
 
       ensuing, as usual, from wounds in that vicinity. The note was now
 
-      written, as well as it could be in the dark and under the
+      written, as [[Well|well]] as it could be in the dark and under the
 
       circumstances. It briefly explained that a mutiny had taken
 
@@ -74,7 +74,7 @@ tags:
 
       must not venture upon making any disturbance. It concluded with
 
-      these words: “_I have scrawled this with blood—your life depends
+      these words: “_I have scrawled this with [[Blood|blood]]—your life depends
 
       upon lying close._”
 
@@ -98,19 +98,19 @@ tags:
 
       These arrangements were scarcely completed when Dirk Peters came
 
-      below, very drunk, but in excellent humour, and bringing with him
+      below, very drunk, but in excellent [[Humour|humour]], and bringing with him
 
       my friend’s allowance of provision for the day. This consisted of
 
-      a dozen large Irish potatoes roasted, and a pitcher of water. He
+      a dozen large Irish potatoes roasted, and a pitcher of [[Water|water]]. He
 
-      sat for some time on a chest by the berth, and talked freely
+      sat for some [[Time|time]] on a chest by the berth, and talked freely
 
       about the mate and the general concerns of the brig. His
 
-      demeanour was exceedingly capricious, and even grotesque. At one
+      demeanour was exceedingly capricious, and even [[Grotesque|grotesque]]. At one
 
-      time Augustus was much alarmed by odd conduct. At last, however,
+      [[Time|time]] Augustus was much alarmed by odd conduct. At last, however,
 
       he went on deck, muttering a promise to bring his prisoner a good
 
@@ -124,7 +124,7 @@ tags:
 
       were much divided among themselves as to their ultimate course,
 
-      agreeing in no point, except the attack on the ship from the Cape
+      agreeing in no point, except the attack on the [[Ship|ship]] from the Cape
 
       Verd Islands, with which they were in hourly expectation of
 
@@ -162,11 +162,11 @@ tags:
 
       be found among the innumerable islands of the Pacific, on the
 
-      perfect security and freedom from all restraint to be enjoyed,
+      perfect security and [[Freedom|freedom]] from all restraint to be enjoyed,
 
       but, more particularly, on the deliciousness of the climate, on
 
-      the abundant means of good living, and on the voluptuous beauty
+      the abundant means of good living, and on the voluptuous [[Beauty|beauty]]
 
       of the women. As yet, nothing had been absolutely determined
 
@@ -182,15 +182,15 @@ tags:
 
       The three men went away in about an hour, and no one else entered
 
-      the forecastle all day. Augustus lay quiet until nearly night. He
+      the forecastle all day. Augustus lay quiet until nearly [[Night|night]]. He
 
       then freed himself from the rope and irons, and prepared for his
 
       attempt. A bottle was found in one of the berths, and this he
 
-      filled with water from the pitcher left by Peters, storing his
+      filled with [[Water|water]] from the pitcher left by Peters, storing his
 
-      pockets at the same time with cold potatoes. To his great joy he
+      pockets at the same [[Time|time]] with cold potatoes. To his great joy he
 
       also came across a lantern, with a small piece of tallow candle
 

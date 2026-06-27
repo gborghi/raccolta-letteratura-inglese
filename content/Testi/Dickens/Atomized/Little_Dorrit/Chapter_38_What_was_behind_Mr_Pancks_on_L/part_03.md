@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 3)"
+title: "Little Dorrit — Chapter 35: What was behind [[Mr Pancks]] on Little Dorrit’s Hand (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -20,7 +20,7 @@ Her lips shaped ‘Yes.’
 nothing. Shall I tell you more? Remember! He knows nothing of it; we
 must go to him, from here, to tell him of it!’
 
-She seemed to entreat him for a little time. He held her in his arm,
+She seemed to entreat him for a little [[Time|time]]. He held her in his arm,
 and, after a pause, bent down his ear to listen.
 
 ‘Did you ask me to go on?’
@@ -68,53 +68,53 @@ pouring out her thankfulness with uplifted hands, her thanks were for
 her father.
 
 Flora’s tenderness was quite overcome by this, and she launched out
-among the cups and saucers into a wonderful flow of tears and speech.
+among the cups and saucers into a wonderful flow of [[Tears|tears]] and speech.
 
 ‘I declare,’ she sobbed, ‘I never was so cut up since your mama and my
 papa not Doyce and Clennam for this once but give the precious little
-thing a cup of tea and make her put it to her lips at least pray Arthur
+thing a cup of tea and make her put it to her lips at least pray [[arthur|Arthur]]
 do, not even Mr F.’s last illness for that was of another kind and gout
-is not a child’s affection though very painful for all parties and Mr
+is not a [[Child|child]]’s affection though very painful for all parties and Mr
 F. a martyr with his leg upon a rest and the wine trade in itself
 inflammatory for they will do it more or less among themselves and who
-can wonder, it seems like a dream I am sure to think of nothing at all
+can [[Wonder|wonder]], it seems like [[A Dream|a dream]] I am sure to think of nothing at all
 this morning and now Mines of money is it really, but you must know my
-darling love because you never will be strong enough to tell him all
+darling [[Love|love]] because you never will be strong enough to tell him all
 about it upon teaspoons, mightn’t it be even best to try the directions
 of my own medical man for though the flavour is anything but agreeable
 still I force myself to do it as a prescription and find the benefit,
 you’d rather not why no my dear I’d rather not but still I do it as a
 duty, everybody will congratulate you some in earnest and some not and
 many will congratulate you with all their hearts but none more so I
-do assure you from the bottom of my own I do myself though sensible of
-blundering and being stupid, and will be judged by Arthur not Doyce and
+do assure you from the [[Bottom|bottom]] of my own I do myself though sensible of
+blundering and being stupid, and will be judged by [[arthur|Arthur]] not Doyce and
 Clennam for this once so good-bye darling and God bless you and may you
 be very happy and excuse the liberty, vowing that the dress shall never
 be finished by anybody else but shall be laid by for a keepsake just
 as it is and called Little Dorrit though why that strangest of
-denominations at any time I never did myself and now I never shall!’
+denominations at any [[Time|time]] I never did myself and now I never shall!’
 
 
 Thus Flora, in taking leave of her favourite. Little Dorrit thanked her,
-and embraced her, over and over again; and finally came out of the house
+and embraced her, over and over again; and finally came out of the [[house]]
 with Clennam, and took coach for the Marshalsea.
 
 It was a strangely unreal ride through the old squalid streets, with a
 sensation of being raised out of them into an airy world of wealth
-and grandeur. When Arthur told her that she would soon ride in her
+and grandeur. When [[arthur|Arthur]] told her that she would soon ride in her
 own carriage through very different scenes, when all the familiar
 experiences would have vanished away, she looked frightened. But when
 he substituted her father for herself, and told her how he would ride in
-his carriage, and how great and grand he would be, her tears of joy
-and innocent pride fell fast. Seeing that the happiness her mind could
-realise was all shining upon him, Arthur kept that single figure before
-her; and so they rode brightly through the poor streets in the prison
+his carriage, and how great and grand he would be, her [[Tears|tears]] of joy
+and [[Innocent|innocent]] [[Pride|pride]] fell fast. Seeing that the happiness her mind could
+realise was all shining upon him, [[arthur|Arthur]] kept that single figure before
+her; and so they rode brightly through the poor streets in the [[Prison|prison]]
 neighbourhood to carry him the great news.
 
 When Mr Chivery, who was on duty, admitted them into the Lodge, he saw
 something in their faces which filled him with astonishment. He stood
-looking after them, when they hurried into the prison, as though he
-perceived that they had come back accompanied by a ghost a-piece. Two or
+looking after them, when they hurried into the [[Prison|prison]], as though he
+perceived that they had come back accompanied by a [[Ghost|ghost]] a-piece. Two or
 three Collegians whom they passed, looked after them too, and presently
 joining Mr Chivery, formed a little group on the Lodge steps, in the
 midst of which there spontaneously originated a whisper that the Father
@@ -123,14 +123,14 @@ the remotest room in the College.
 
 Little Dorrit opened the door from without, and they both entered. He
 was sitting in his old grey gown and his old black cap, in the sunlight
-by the window, reading his newspaper. His glasses were in his hand, and
-he had just looked round; surprised at first, no doubt, by her step upon
-the stairs, not expecting her until night; surprised again, by seeing
-Arthur Clennam in her company. As they came in, the same unwonted look
+by the [[Window|window]], reading his newspaper. His glasses were in his hand, and
+he had just looked round; surprised at first, no [[Doubt|doubt]], by her step upon
+the stairs, not expecting her until [[Night|night]]; surprised again, by seeing
+[[Arthur Clennam]] in her company. As they came in, the same unwonted look
 in both of them which had already caught attention in the yard below,
 struck him. He did not rise or speak, but laid down his glasses and his
 newspaper on the table beside him, and looked at them with his mouth
-a little open and his lips trembling. When Arthur put out his hand,
+a little open and his lips trembling. When [[arthur|Arthur]] put out his hand,
 he touched it, but not with his usual state; and then he turned to his
 daughter, who had sat down close beside him with her hands upon his
 shoulder, and looked attentively in her face.

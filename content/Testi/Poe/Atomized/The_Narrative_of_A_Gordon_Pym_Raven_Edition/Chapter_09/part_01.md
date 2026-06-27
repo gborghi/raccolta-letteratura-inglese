@@ -20,27 +20,27 @@ CHAPTER 9
 
 
 
-      Luckily, just before night, all four of us had lashed ourselves
+      Luckily, just before [[Night|night]], all four of us had lashed ourselves
 
       firmly to the fragments of the windlass, lying in this manner as
 
-      flat upon the deck as possible. This precaution alone saved us
+      flat upon the deck as possible. This precaution [[Alone|alone]] saved us
 
       from destruction. As it was, we were all more or less stunned by
 
-      the immense weight of water which tumbled upon us, and which did
+      the immense weight of [[Water|water]] which tumbled upon us, and which did
 
       not roll from above us until we were nearly exhausted. As soon as
 
       I could recover breath, I called aloud to my companions. Augustus
 
-      alone replied, saying: “It is all over with us, and may God have
+      [[Alone|alone]] replied, saying: “It is all over with us, and may God have
 
-      mercy upon our souls!” By-and-by both the others were enabled to
+      [[Mercy|mercy]] upon our souls!” By-and-by both the others were enabled to
 
-      speak, when they exhorted us to take courage, as there was still
+      speak, when they exhorted us to take [[Courage|courage]], as there was still
 
-      hope; it being impossible, from the nature of the cargo, that the
+      [[Hope|hope]]; it being impossible, from the [[Nature|nature]] of the cargo, that the
 
       brig could go down, and there being every chance that the gale
 
@@ -54,15 +54,15 @@ CHAPTER 9
 
       consideration altogether; and the danger which I had for some
 
-      time regarded as the most imminent was that of foundering. As
+      [[Time|time]] regarded as the most imminent was that of foundering. As
 
-      hope revived within me, I made use of every opportunity to
+      [[Hope|hope]] revived within me, I made use of every opportunity to
 
       strengthen the lashings which held me to the remains of the
 
       windlass, and in this occupation I soon discovered that my
 
-      companions were also busy. The night was as dark as it could
+      companions were also busy. The [[Night|night]] was as dark as it could
 
       possibly be, and the horrible shrieking din and confusion which
 
@@ -74,7 +74,7 @@ CHAPTER 9
 
       is not too much to say that our heads were not fairly out of the
 
-      water more than one second in three. Although we lay close
+      [[Water|water]] more than one second in three. Although we lay close
 
       together, no one of us could see the other, or, indeed, any
 
@@ -82,7 +82,7 @@ CHAPTER 9
 
       hurled about. At intervals we called one to the other, thus
 
-      endeavouring to keep alive hope, and render consolation and
+      endeavouring to keep alive [[Hope|hope]], and render consolation and
 
       encouragement to such of us as stood most in need of it. The
 
@@ -100,7 +100,7 @@ CHAPTER 9
 
       was more secure than that of any of the rest of us; for the upper
 
-      part of his body lying just beneath a portion of the shattered
+      part of his [[Body|body]] lying just beneath a portion of the shattered
 
       windlass, the seas, as they tumbled in upon him, were greatly
 
@@ -116,7 +116,7 @@ CHAPTER 9
 
       case. The heel, as I have before stated, was to larboard, about
 
-      one half of the deck being constantly under water. The seas,
+      one half of the deck being constantly under [[Water|water]]. The seas,
 
       therefore, which struck us to starboard were much broken, by the
 
@@ -124,7 +124,7 @@ CHAPTER 9
 
       our faces; while those which came from larboard being what are
 
-      called back-water seas, and obtaining little hold upon us on
+      called back-[[Water|water]] seas, and obtaining little hold upon us on
 
       account of our posture, had not sufficient force to drag us from
 
@@ -136,13 +136,13 @@ CHAPTER 9
 
       show us more fully the horrors which surrounded us. The brig was
 
-      a mere log, rolling about at the mercy of every wave; the gale
+      a mere log, [[rolling]] about at the [[Mercy|mercy]] of every wave; the gale
 
       was upon the increase, if any thing, blowing indeed a complete
 
       hurricane, and there appeared to us no earthly prospect of
 
-      deliverance. For several hours we held on in silence, expecting
+      deliverance. For several hours we held on in [[Silence|silence]], expecting
 
       every moment that our lashings would either give way, that the
 
@@ -150,17 +150,17 @@ CHAPTER 9
 
       the huge seas, which roared in every direction around us and
 
-      above us, would drive the hulk so far beneath the water that we
+      above us, would drive the hulk so far beneath the [[Water|water]] that we
 
       should be drowned before it could regain the surface. By the
 
-      mercy of God, however, we were preserved from these imminent
+      [[Mercy|mercy]] of God, however, we were preserved from these imminent
 
       dangers, and about midday were cheered by the light of the
 
       blessed sun. Shortly afterward we could perceive a sensible
 
-      diminution in the force of the wind, when, now for the first time
+      diminution in the force of the [[Wind|wind]], when, now for the first [[Time|time]]
 
       since the latter part of the evening before, Augustus spoke,
 
@@ -172,7 +172,7 @@ CHAPTER 9
 
       drowned where he lay; but presently, to our great joy, he spoke,
 
-      although very feebly, saying that he was in great pain, being so
+      although very feebly, saying that he was in great [[Pain|pain]], being so
 
       cut by the tightness of his lashings across the stomach, that he
 

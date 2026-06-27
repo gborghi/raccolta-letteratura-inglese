@@ -35,10 +35,10 @@ those dark and aimless days of transition which followed the
 tragical collapse of all his military ambitions, probably made
 bitter by some loss of social prestige terrible to his sensitive
 spirit. As he did so he heard a voice saying to him, "Francis,
-seest thou not that my house is in ruins? Go and restore it for
+seest thou not that my [[house]] is in ruins? Go and restore it for
 me."
 Francis sprang up and went. To go and do something was one of
-the driving demands of his nature; probably he had gone and done it
+the driving demands of his [[Nature|nature]]; probably he had gone and done it
 before he had at all thoroughly thought out what he had done. In
 any case what he had done was something very decisive and
 immediately very disastrous for his singular social career. In the
@@ -47,13 +47,13 @@ stole. From his own enthusiastic point of view, he extended to his
 venerable father Peter Bernadone the exquisite excitement and
 inestimable privilege of assisting, more or less unconsciously, in
 the rebuilding of St. Damiens Church. In point of fact what he did
-first was to sell his own horse and then go off and sell several
-bales of his father's cloth, making the sign of the cross over them
+first was to sell his own [[Horse|horse]] and then go off and sell several
+bales of his father's cloth, making the sign of the [[Cross|cross]] over them
 to indicate their pious and charitable destination. Peter Bernadone
 did not see things in this light. Peter Bernadone indeed had not
 very much light to see by, so far as understanding the genius and
 temperament of his extraordinary son was concerned. Instead of
-understanding in what sort of a wind and flame of abstract
+understanding in what sort of a [[Wind|wind]] and flame of abstract
 appetites the lad was living, instead of simply telling him (as the
 priest practically did later) that he done an indefensible thing
 with the best intentions, old Bernadone took up the matter in the
@@ -61,17 +61,17 @@ hardest style; in a legal and literal fashion. He used absolute
 political powers like a heathen father, and himself put his son
 under lock and key as a vulgar thief. It would appear that the cry
 was caught up among many with whom the unlucky Francis had once
-been popular; and altogether, in his efforts to build up the house
-of God he had only succeeded in bringing his own house about his
+been popular; and altogether, in his efforts to build up the [[house]]
+of God he had only succeeded in bringing his own [[house]] about his
 ears and lying buried under the ruins. The quarrel dragged drearily
-through several stages; at one time the wretched young man seems to
+through several stages; at one [[Time|time]] the wretched young man seems to
 have disappeared underground, so to speak, into some cavern or
 cellar where he remained huddled hopelessly in the darkness.
 Anyhow, it was his blackest moment; the whole world had turned
 over; the whole world was on top of him.
 When he came out, it was only perhaps gradually that anybody
 grasped that something had happened. He and his father were
-summoned in the court of the bishop; for Francis had refused the
+summoned in the [[Court|court]] of the bishop; for Francis had refused the
 authority of all legal tribunals. The bishop addressed some remarks
 to him, full of that excellent common sense which the Catholic
 Church keeps permanently as the background for all the fiery
@@ -79,14 +79,14 @@ attitudes of her saints. He told Francis that he must
 unquestionably restore the money to his father; that no blessing
 could follow a work done by unjust methods; and in short (to put it
 crudely) if the young fanatic would give back his money to the old
-fool, the incident would then terminate. There was a new air about
+[[Fool|fool]], the incident would then terminate. There was a new air about
 Francis. He was no longer crushed, still less crawling, so far as
 his father was concerned; yet his words do not, I think, indicate
-either just indignation or wanton insult or anything in the nature
+either just indignation or wanton insult or anything in the [[Nature|nature]]
 of a mere continuation of the quarrel. They are rather remotely
 akin to the mysterious utterances of his great model, "What have I
 to do with thee?" or even the terrible "Touch me not."
-He stood up before them all and said, "Up to this time I have
+He stood up before them all and said, "Up to this [[Time|time]] I have
 called Pietro Bernadone father, but now I am the servant of God.
 Not only the money but everything that can be called his I will
 restore to my father, even the very clothes he has given me." And
@@ -96,14 +96,14 @@ He piled the garments in a heap on the floor and threw the money
 on top of them. Then he turned to the bishop, and received his
 blessing, like one who turns his back on society; and, according to
 the account, went out as he was into the cold world. Apparently it
-was literally a cold world at the moment, and snow was on the
+was literally a cold world at the moment, and [[Snow|snow]] was on the
 ground. A curious detail, very deep in its significance, I fancy,
 is given in the same account of this great crisis in his life. He
-went out half-naked in his hair shirt into the winter woods,
+went out half-naked in his hair shirt into the [[Winter|winter]] woods,
 walking the frozen ground between the frosty trees: a man without a
 father. He was penniless, he was parentless, he was to all
-appearances without a trade or a plan or a hope in the world; and
-as he went under the frosty trees, he burst suddenly into song.
+appearances without a trade or a plan or a [[Hope|hope]] in the world; and
+as he went under the frosty trees, he burst suddenly into [[Song|song]].
 It was apparently noted as remarkable that the language in which
 he sang was French, or that Provencal which was called for
 convenience French. It was not his native language; and it was in
@@ -111,21 +111,21 @@ his native language that he ultimately won fame as a poet; indeed
 St. Francis is one of the very first of the national poets in the
 purely national dialects of Europe. But it was the language with
 which all his most boyish ardours and ambitions had been
-identified; it was for him pre-eminently the language of romance.
+identified; it was for him pre-eminently the language of [[Romance|romance]].
 That it broke from him in this extraordinary extremity seems to me
 something at first sight very strange and in the last analysis very
-significant. What that significance was, or may well have been, I
+significant. What that significance was, or may [[Well|well]] have been, I
 will try to suggest in the subsequent chapter; it is enough to
-indicate here that the whole philosophy of St. Francis revolved
-around the idea of a new supernatural light on natural things,
+indicate here that the whole [[philosophy]] of St. Francis revolved
+around the idea of a new [[Supernatural|supernatural]] light on natural things,
 which meant the ultimate recovery not the ultimate refusal of
 natural things. And for the purpose of this purely narrative part
 of the business, it is enough to record that while he wandered in
-the winter forest in his hair-shirt, like the very wildest of the
+the [[Winter|winter]] forest in his hair-shirt, like the very wildest of the
 hermits, he sang in the tongue of the Troubadours.
 Meanwhile the narrative naturally reverts to the problem of the
 ruined or at least neglected church, which had been the starting
-point of the saint's innocent crime and beatific punishment. That
+point of the saint's [[Innocent|innocent]] crime and beatific punishment. That
 problem still predominated in his mind and was soon engaging his
 insatiable activities; but they were activities of a new sort; and
 he made no more attempts to interfere with commercial ethics of the
@@ -138,7 +138,7 @@ money. The way to build a church is not to pay for it even with
 your own money. The way to build a church is to build it.
 He went about by himself collecting stones. He begged all the
 people he met to give him stones. In fact he became a new sort of
-beggar, reversing the parable; a beggar who asks not for bread but
+beggar, reversing the [[Parable|parable]]; a beggar who asks not for bread but
 stone. Probably, as happened to him again and again throughout his
 extraordinary existence, the very queerness of the request gave it
 a sort of popularity; and all sorts of idle and luxurious people
@@ -150,13 +150,13 @@ about Francis at this as at every other period of his life; but for
 the purpose here, which is one of simplification, it is best to
 dwell on this definite re-entrance of the saint into the world by
 the low gate of physical labour. There does indeed run through the
-whole of his life a sort of double meaning, like his shadow thrown
+whole of his life a sort of [[Double|double]] meaning, like his [[Shadow|shadow]] thrown
 upon the wall. All his actions had something of the character of an
-allegory; and it is likely enough that some leaden-witted
+[[Allegory|allegory]]; and it is likely enough that some leaden-witted
 scientific historian may some day try to prove that he himself was
-never anything but an allegory. It is true enough in this sense
-that he was labouring at a double task, and rebuilding something
-else as well as the church of St. Damien. He was not only
+never anything but an [[Allegory|allegory]]. It is true enough in this sense
+that he was labouring at a [[Double|double]] task, and rebuilding something
+else as [[Well|well]] as the church of St. Damien. He was not only
 discovering the general lesson that his glory was not to be in
 overthrowing men in battle but in building up the positive and
 creative monuments of peace. He was truly building up something
@@ -175,11 +175,11 @@ biographers to note the numerical symbolism of the three churches.
 There was at any rate a more historical and practical symbolism
 about two of them. For the original church of St. Damian afterwards
 became the seat of his striking experiment of a female order, and
-of the pure and spiritual romance of St. Clare. And the church of
+of the pure and spiritual [[Romance|romance]] of St. Clare. And the church of
 the Portiuncula will remain forever as one of the great historic
 buildings of the world; for it was here that he gathered the little
-knot of friends and enthusiasts; it was the home of many homeless
-men. At this time, however, it is not clear that he had the
+knot of friends and enthusiasts; it was the [[Home|home]] of many homeless
+men. At this [[Time|time]], however, it is not clear that he had the
 definite idea of any such monastic developments. How early the plan
 appeared in his own mind it is of course impossible to say; but on
 the face of events it first takes the form of a few friends who
@@ -187,18 +187,18 @@ attached themselves to him one by one because they shared his own
 passion for simplicity. The account given of the form of their
 dedication is, however, significant; for it was that of an
 invocation of the simplification of life as suggested in the New
-Testament. The adoration of Christ had been a part of the man's
-passionate nature for a long time past. But the imitation of
-Christ, as a sort of plan or ordered scheme of life, may in that
+Testament. The adoration of [[Christ]] had been a part of the man's
+passionate [[Nature|nature]] for a long [[Time|time]] past. But the [[Imitation|imitation]] of
+[[Christ]], as a sort of plan or ordered scheme of life, may in that
 sense may be said to begin here.
 The two men who have the credit, apparently, of having first
-perceived something of what was happening in the world of the soul
+perceived something of what was happening in the world of the [[Soul|soul]]
 were a solid and wealthy citizen named Bernard of Quintaville and a
 canon from a neighbouring church named Peter. It is the more to
 their credit because Francis, if one may put it so, was by this
-time wallowing in poverty and association with lepers and ragged
+[[Time|time]] wallowing in [[Poverty|poverty]] and association with lepers and ragged
 mendicants; and the two were men with much to give up; the one of
-comforts in the world and the other of ambition in the church.
+comforts in the world and the other of [[Ambition|ambition]] in the church.
 Bernard the rich burgher did quite literally and finally sell all
 he had and give it to the poor. Peter did even more; for he
 descended from a chair of spiritual authority, probably when he was
@@ -216,18 +216,18 @@ rich man who went away joyful, for he had no possessions.
 These three strange figures are said to have built themselves a
 sort of hut or den adjoining the leper hospital. There they talked
 to each other, in the intervals of drudgery and danger (for it
-needed ten times more courage to look after a leper than to fight
-for the crown of Sicily), in the terms of their new life, almost
+needed ten times more [[Courage|courage]] to look after a leper than to fight
+for the [[Crown|crown]] of Sicily), in the terms of their new life, almost
 like children talking a secret language. Of these individual
-elements on their first friendship we can say little with
+elements on their first [[Friendship|friendship]] we can say little with
 certainty; but it is certain that they remained friends to the end.
 Bernard of Quintaville occupies in the story something of the
-position of Sir Bedivere, "first made and latest left of Arthur's
+position of Sir Bedivere, "first made and latest left of [[arthur|Arthur]]'s
 knights," for he reappears at the right hand side of the saint on
 his deathbed and receives some sort of special blessing. But all
 these things belong to another historical world and were quite
 remote from the ragged and fantastic trio in their tumble-down hut.
-They were not monks except perhaps in the most literal and archaic
+They were not [[Monks|monks]] except perhaps in the most literal and archaic
 sense which was identical with hermits. They were, so to speak,
 three solitaries living together socially, but not as a society.
 The whole thing seems to have been intensely individual, as seen
@@ -235,20 +235,20 @@ from the outside doubtless individual to the point of insanity. The
 stir of something that had in it the promise of a movement or a
 mission can first be felt as I have said in the affair of the
 appeal to the New Testament.
-It was a sort of sors vigiliana applied to the Bible; a practice
+It was a sort of sors vigiliana applied to the [[Bible]]; a practice
 not unknown among Protestants though open to their criticism, one
 would think, as being rather a superstition of pagans. Anyhow it
 seems almost the opposite of searching the Scriptures to open them
 at random; but St. Francis certainly opened them at random.
-According to one story, he merely made the sign of the cross over
+According to one story, he merely made the sign of the [[Cross|cross]] over
 the volume of the Gospel and opened it at three places reading
 three texts. The first was the tale of the rich young man whose
-refusal to sell all his goods was the occasion of the great paradox
+refusal to sell all his goods was the occasion of the great [[Paradox|paradox]]
 about the camel and the needle. The second was the commandment to
-the disciples to take nothing with them on their journey, neither
+the disciples to take nothing with them on their [[Journey|journey]], neither
 scrip nor staff nor any money. The third was that saying, literally
-to be called crucial, that the follower of Christ must also carry
-his cross. There is a somewhat similar story of St. Francis finding
+to be called crucial, that the follower of [[Christ]] must also carry
+his [[Cross|cross]]. There is a somewhat similar story of St. Francis finding
 one of these texts, almost as accidentally, merely in listening to
 what happened to be the Gospel of the day. But from the former
 version at least it would seem that the incident occurred very
@@ -275,13 +275,13 @@ Middle Ages, I think, than in our own rather jumpy journalistic
 age; but men like Francis are not common in any age, nor are they
 to be fully understood merely by the exercise of common sense. The
 thirteenth century was certainly a progressive period; perhaps the
-only really progressive period in human history. But it can truly
+only really progressive period in human [[history]]. But it can truly
 be called progressive precisely because its progress was very
 orderly. It is really and truly an example of an epoch of reforms
 without revolutions. But the reforms were not only progressive but
 very practical; and they were very much to the advantage of highly
 practical institutions; the towns and the trading guilds and the
-manual crafts. Now the solid men of town and guild in the time of
+manual crafts. Now the solid men of town and guild in the [[Time|time]] of
 Francis of Assisi were probably very solid indeed. They were much
 more economically equal, they were much more justly governed in
 their own economic environment, than the moderns who struggle madly
@@ -290,9 +290,9 @@ likely enough that the majority of citizens were as hard-headed as
 peasants. Certainly the behaviour of the venerable Pietro Bernadone
 does not indicate a delicate sympathy with the fine and almost
 fanciful subtleties of the Franciscan spirit. And we cannot measure
-the beauty and originality of this strange spiritual adventure,
-unless we have the humour and human sympathy to put into plain
+the [[Beauty|beauty]] and originality of this strange spiritual adventure,
+unless we have the [[Humour|humour]] and human sympathy to put into plain
 words how it would have looked to such an unsympathetic person at
-the time when it happened. In the next chapter I shall make an
+the [[Time|time]] when it happened. In the next chapter I shall make an
 attempt, inevitably inadequate, to indicate the inside of the story
 of the building of the three churches and the little hut. In this

@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-Victor Hugo makes a donkey meditate and apostrophize thus:
+Victor Hugo makes a [[donkey]] meditate and apostrophize thus:
 
-    My brother, man, if you would know the truth,
+    My brother, man, if you would know the [[Truth|truth]],
     We both are by the same dull walls shut in;
     The gate is massive and the dungeon strong.
     But you look through the key-hole out beyond,
@@ -24,8 +24,8 @@ Victor Hugo makes a donkey meditate and apostrophize thus:
     The key wherein to turn the fatal lock.
 
 "William Cullen Bryant surprised me once," relates a writer in a
-New York paper, "by saying that prose was the natural language of
-composition, and he wonder'd how anybody came to write poetry."
+[[New York]] paper, "by saying that prose was the natural language of
+composition, and he [[Wonder|wonder]]'d how anybody came to write poetry."
 
     Farewell! I did not know thy worth;
         But thou art gone, and now 'tis prized:
@@ -34,14 +34,14 @@ composition, and he wonder'd how anybody came to write poetry."
 
 John Burroughs, writing of Thoreau, says: "He improves with age--in fact
 requires age to take off a little of his asperity, and fully ripen him.
-The world likes a good hater and refuser almost as well as it likes a
-good lover and accepter--only it likes him farther off."
+The world likes a good hater and refuser almost as [[Well|well]] as it likes a
+good [[Lover|lover]] and accepter--only it likes him farther off."
 
 _Louise Michel at the burial of Blanqui, (1881.)_
 
-Blanqui drill'd his body to subjection to his grand conscience and his
+Blanqui drill'd his [[Body|body]] to subjection to his grand [[Conscience|conscience]] and his
 noble passions, and commencing as a young man, broke with all that is
-sybaritish in modern civilization. Without the power to sacrifice self,
+sybaritish in modern civilization. Without the power to sacrifice [[Self|self]],
 great ideas will never bear fruit.
 
     Out of the leaping furnace flame
@@ -51,25 +51,25 @@ great ideas will never bear fruit.
     The first a crucifix was made,
     Within a soldier's knapsack laid;
     The second was a locket fair,
-    Where a mother kept her dead child's hair;
+    Where a mother kept her dead [[Child|child]]'s hair;
     The third--a bangle, bright and warm,
     Around a faithless woman's arm.
 
-    A mighty pain to love it is,
-    And'tis a pain that pain to miss;
-    But of all pain the greatest pain,
-    It is to love, but love in vain.
+    A mighty [[Pain|pain]] to [[Love|love]] it is,
+    And'tis a [[Pain|pain]] that [[Pain|pain]] to miss;
+    But of all [[Pain|pain]] the greatest [[Pain|pain]],
+    It is to [[Love|love]], but [[Love|love]] in vain.
 
 _Maurice F. Egan on De Guerin._
 
-    A pagan heart, a Christian soul had he,
-      He followed Christ, yet for dead Pan he sigh'd,
+    A pagan heart, a Christian [[Soul|soul]] had he,
+      He followed [[Christ]], yet for dead Pan he sigh'd,
       Till earth and heaven met within his breast:
     As if Theocritus in Sicily
       Had come upon the Figure crucified,
-      And lost his gods in deep, Christ-given rest.
+      And lost his gods in deep, [[Christ]]-given rest.
 
-    And if I pray, the only prayer
+    And if I pray, the only [[prayer]]
       That moves my lips for me,
     Is, leave the mind that now I bear,
       And give me Liberty.--_Emily Bronte._
@@ -77,8 +77,8 @@ _Maurice F. Egan on De Guerin._
     I travel on not knowing,
       I would not if I might;
     I would rather walk with God in the dark,
-      Than go alone in the light;
-    I would rather walk with Him by faith
+      Than go [[Alone|alone]] in the light;
+    I would rather walk with Him by [[Faith|faith]]
       Than pick my way by sight
 
 
@@ -89,12 +89,12 @@ amid the sand and salt, a steady breeze setting in from the sea, the sun
 shining, the sedge-odor, the noise of the surf, a mixture of hissing and
 booming, the milk-white crest curling. I had a leisurely bath and naked
 ramble as of old, on the warm-gray shore-sands, my companions off in a
-oat in deeper water--(I shouting to them Jupiter's menaces against the
+oat in deeper [[Water|water]]--(I shouting to them Jupiter's menaces against the
 gods, from Pope's Homer) _July 28--to Long Branch_--8-1/2 A.M., on the
-steamer "Plymouth Rock," foot of 23d street, New York, for Long
+steamer "Plymouth Rock," foot of 23d street, [[New York]], for Long
 Branch. Another fine day, fine sights, the shores, the shipping and
-bay--everything comforting to the body and spirit of me. (I find the
-human and objective atmosphere of New York city and Brooklyn more
+bay--everything comforting to the [[Body|body]] and spirit of me. (I find the
+human and objective atmosphere of [[New York]] [[City|city]] and Brooklyn more
 affiliative to me than any other.) _An hour later_--Still on the
 steamer, now sniffing the salt very plainly--the long pulsating _swash_
 as our boat steams seaward--the hills of Navesink and many passing
@@ -108,47 +108,47 @@ Childs, whose personal integrity, generosity, unaffected simplicity, go
 beyond all worldly wealth.)
 
 
-HOT WEATHER NEW YORK
+HOT WEATHER [[New York|NEW YORK]]
 
-_August_.--In the big city awhile. Even the height of the dog-days,
-there is a good deal of fun about New York, if you only avoid fluster,
+_August_.--In the big [[City|city]] awhile. Even the height of the dog-days,
+there is a good deal of fun about [[New York]], if you only avoid fluster,
 and take all the buoyant wholesomeness that offers. More comfort, too,
 than most folks think. A middle-aged man, with plenty of money in his
 pocket, tells me that he has been off for a month to all the swell
 places, has disburs'd a small fortune, has been hot and out of kilter
-everywhere, and has return' d home and lived in New York city the last
+everywhere, and has return' d [[Home|home]] and lived in [[New York]] [[City|city]] the last
 two weeks quite contented and happy. People forget when it is hot here,
 it is generally hotter still in other places.
 
-New York is so situated, with the great ozonic brine on both sides, it
+[[New York]] is so situated, with the great ozonic brine on both sides, it
 comprises the most favorable health-chances in the world. (If only the
 suffocating crowding of some of its tenement houses could be broken
 up.) I find I never sufficiently realized how beautiful are the upper
-two-thirds of Manhattan island. I am stopping at Mott Haven, and have
+two-thirds of [[Manhattan]] island. I am stopping at Mott Haven, and have
 been familiar now for ten days with the region above One-hundredth
-street, and along the Harlem river and Washington heights. Am dwelling a
+street, and along the Harlem [[River|river]] and Washington heights. Am dwelling a
 few days with my friends Mr. and Mrs. J. H. J., and a merry houseful of
 young ladies. Am putting the last touches on the printer's copy of my
-new volume of "Leaves of Grass"--the completed book at last. Work at it
-two or three hours, and then go down and loaf along the Harlem river;
+new volume of "[[Leaves]] of Grass"--the completed book at last. Work at it
+two or three hours, and then go down and loaf along the Harlem [[River|river]];
 have just had a good spell of this recreation. The sun sufficiently
-veil'd, a soft south breeze, the river full of small or large shells
+veil'd, a soft south breeze, the [[River|river]] full of small or large shells
 (light taper boats) darting up and down, some singly, now and then
 long ones with six or eight young fellows practicing--very inspiriting
 sights. Two fine yachts lie anchor'd off the shore. I linger long,
 enjoying the sundown, the glow, the streak'd sky, the heights,
 distances, shadows. _Aug. 10._--As I haltingly ramble an hour or two
 this forenoon by the more secluded parts of the shore, or sit under
-an old cedar half way up the hill, the city near in view, many young
+an old cedar half way up the [[Hill|hill]], the [[City|city]] near in view, many young
 parties gather to bathe or swim, squads of boys, generally twos or
-threes, some larger ones, along the sand-bottom, or off an old pier
+threes, some larger ones, along the sand-[[Bottom|bottom]], or off an old pier
 close by. A peculiar and pretty carnival--at its height a hundred lads
 or young men, very democratic, but all decent behaving. The laughter,
 voices, calls, re-responses--the springing and diving of the bathers
-from the great string-piece of the decay'd pier, where climb or stand
-long ranks of them, naked, rose-color'd, with movements, postures ahead
-of any sculpture. To all this, the sun, so bright, the dark-green shadow
-of the hills the other side, the amber-rolling waves, changing as the
+from the great string-piece of the [[Decay|decay]]'d pier, where climb or stand
+long ranks of them, naked, [[Rose|rose]]-color'd, with movements, postures ahead
+of any sculpture. To all this, the sun, so bright, the dark-green [[Shadow|shadow]]
+of the hills the other side, the amber-[[rolling]] waves, changing as the
 tide comes in to a trans-parent tea-color--the frequent splash of the
 playful boys, sousing--the glittering drops sparkling, and the good
 western breeze blowing.

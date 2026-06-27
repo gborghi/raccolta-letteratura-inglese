@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Book 2: BIRDS OF A FEATHER"
+title: "Our Mutual Friend — Book 2: [[Birds|BIRDS]] OF A FEATHER"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Our-Mutual-Friend-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-BOOK THE SECOND — BIRDS OF A FEATHER
+BOOK THE SECOND — [[Birds|BIRDS]] OF A FEATHER

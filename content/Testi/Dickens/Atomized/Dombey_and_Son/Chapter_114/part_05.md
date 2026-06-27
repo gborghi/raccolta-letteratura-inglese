@@ -35,23 +35,23 @@ position.
 worse today, is but a day’s difference—perhaps not so much.”
 
 Mrs Wickam, as a serious character, expressed her approval with a
-groan; and having made some cold dabs at the bottom of the bedclothes,
+groan; and having made some cold dabs at the [[Bottom|bottom]] of the bedclothes,
 as feeling for the patient’s feet and expecting to find them stony;
 went clinking among the medicine bottles on the table, as who should
 say, “while we are here, let us repeat the mixture as before.”
 
 “No,” said Alice, whispering to her visitor, “evil courses, and
-remorse, travel, want, and weather, storm within, and storm without,
+remorse, travel, want, and weather, [[Storm|storm]] within, and [[Storm|storm]] without,
 have worn my life away. It will not last much longer.
 
 She drew the hand up as she spoke, and laid her face against it.
 
 “I lie here, sometimes, thinking I should like to live until I had had
-a little time to show you how grateful I could be! It is a weakness,
+a little [[Time|time]] to show you how grateful I could be! It is a weakness,
 and soon passes. Better for you as it is. Better for me!”
 
 How different her hold upon the hand, from what it had been when she
-took it by the fireside on the bleak winter evening! Scorn, rage,
+took it by the fireside on the bleak [[Winter|winter]] evening! Scorn, rage,
 defiance, recklessness, look here! This is the end.
 
 Mrs Wickam having clinked sufficiently among the bottles, now produced
@@ -59,8 +59,8 @@ the mixture. Mrs Wickam looked hard at her patient in the act of
 drinking, screwed her mouth up tight, her eyebrows also, and shook her
 head, expressing that tortures shouldn’t make her say it was a hopeless
 case. Mrs Wickam then sprinkled a little cooling-stuff about the room,
-with the air of a female grave-digger, who was strewing ashes on ashes,
-dust on dust—for she was a serious character—and withdrew to partake of
+with the air of a female [[Grave|grave]]-digger, who was strewing ashes on ashes,
+[[Dust|dust]] on [[Dust|dust]]—for she was a serious character—and withdrew to partake of
 certain funeral baked meats downstairs.
 
 “How long is it,” asked Alice, “since I went to you and told you what I
@@ -83,8 +83,8 @@ lying as before, with the hand against her face, asked to have her
 mother called.
 
 Harriet called to her more than once, but the old woman was so absorbed
-looking out at the open window on the darkness, that she did not hear.
-It was not until Harriet went to her and touched her, that she rose up,
+looking out at the open [[Window|window]] on the darkness, that she did not hear.
+It was not until Harriet went to her and touched her, that she [[Rose|rose]] up,
 and came.
 
 “Mother,” said Alice, taking the hand again, and fixing her lustrous
@@ -123,25 +123,25 @@ contradicted her—“my daughter has been turned away from, and cast out,
 but she could boast relationship to proud folks too, if she chose. Ah!
 To proud folks! There’s relationship without your clergy and your
 wedding rings—they may make it, but they can’t break it—and my
-daughter’s well related. Show me Mrs Dombey, and I’ll show you my
+daughter’s [[Well|well]] related. Show me Mrs Dombey, and I’ll show you my
 Alice’s first cousin.”
 
 Harriet glanced from the old woman to the lustrous eyes intent upon her
 face, and derived corroboration from them.
 
 “What!” cried the old woman, her nodding head bridling with a ghastly
-vanity. “Though I am old and ugly now,—much older by life and habit
+[[Vanity|vanity]]. “Though I am old and ugly now,—much older by life and habit
 than years though,—I was once as young as any. Ah! as pretty too, as
-many! I was a fresh country wench in my time, darling,” stretching out
+many! I was a fresh country wench in my [[Time|time]], darling,” stretching out
 her arm to Harriet, across the bed, “and looked it, too. Down in my
 country, Mrs Dombey’s father and his brother were the gayest gentlemen
-and the best-liked that came a visiting from London—they have long been
+and the best-liked that came a visiting from [[London]]—they have long been
 dead, though! Lord, Lord, this long while! The brother, who was my
 Ally’s father, longest of the two.”
 
 She raised her head a little, and peered at her daughter’s face; as if
 from the remembrance of her own youth, she had flown to the remembrance
-of her child’s. Then, suddenly, she laid her face down on the bed, and
+of her [[Child|child]]’s. Then, suddenly, she laid her face down on the bed, and
 shut her head up in her hands and arms.
 
 “They were as like,” said the old woman, without looking up, as you

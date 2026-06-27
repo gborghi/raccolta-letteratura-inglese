@@ -1,5 +1,5 @@
 ---
-title: "Cymbeline — Act I, Scene 6 — exchange (INNOGEN) [4]"
+title: "[[Cymbeline]] — Act I, Scene 6 — exchange ([[Innogen|INNOGEN]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CYMBELINE-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| INNOGEN | I thank you for your pains; But not away tomorrow! |
-| GIACOMO | O, I must, madam. Therefore I shall beseech you, if you please To greet your lord with writing, do’t tonight. I have outstood my time, which is material To th’ tender of our present. |
-| INNOGEN | I will write. Send your trunk to me, it shall safe be kept, And truly yielded you. You’re very welcome. Exeunt severally |
+| [[Innogen|INNOGEN]] | I thank you for your pains; But not away tomorrow! |
+| GIACOMO | O, I must, madam. Therefore I shall beseech you, if you please To greet your lord with writing, do’t tonight. I have outstood my [[Time|time]], which is material To th’ tender of our present. |
+| [[Innogen|INNOGEN]] | I will write. Send your trunk to me, it shall safe be kept, And truly yielded you. You’re very welcome. Exeunt severally |

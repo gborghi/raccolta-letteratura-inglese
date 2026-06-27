@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue"
+title: "[[The Murders in the Rue Morgue]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-What song the Syrens sang, or what name Achilles assumed when he hid
+What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hid
 
   himself among women, although puzzling questions, are not beyond
 
@@ -49,9 +49,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       appears to the ordinary apprehension præternatural. His results,
 
-      brought about by the very soul and essence of method, have, in
+      brought about by the very [[Soul|soul]] and essence of method, have, in
 
-      truth, the whole air of intuition.
+      [[Truth|truth]], the whole air of intuition.
 
 
 
@@ -87,7 +87,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       mistaken (a not unusual error) for what is profound. The
 
-      _attention_ is here called powerfully into play. If it flag for
+      _attention_ is here called powerfully into play. If it [[Flag|flag]] for
 
       an instant, an oversight is committed resulting in injury or
 
@@ -135,15 +135,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       have been known to take an apparently unaccountable delight in
 
-      it, while eschewing chess as frivolous. Beyond doubt there is
+      it, while eschewing chess as frivolous. Beyond [[Doubt|doubt]] there is
 
-      nothing of a similar nature so greatly tasking the faculty of
+      nothing of a similar [[Nature|nature]] so greatly tasking the faculty of
 
       analysis. The best chess-player in Christendom _may_ be little
 
       more than the best player of chess; but proficiency in whist
 
-      implies capacity for success in all those more important
+      implies capacity for [[success]] in all those more important
 
       undertakings where mind struggles with mind. When I say
 
@@ -159,11 +159,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       remember distinctly; and, so far, the concentrative chess-player
 
-      will do very well at whist; while the rules of Hoyle (themselves
+      will do very [[Well|well]] at whist; while the rules of Hoyle (themselves
 
       based upon the mere mechanism of the game) are sufficiently and
 
-      generally comprehensible. Thus to have a retentive memory, and to
+      generally comprehensible. Thus to have a retentive [[Memory|memory]], and to
 
       proceed by “the book,” are points commonly regarded as the sum
 
@@ -171,7 +171,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       mere rule that the skill of the analyst is evinced. He makes, in
 
-      silence, a host of observations and inferences. So, perhaps, do
+      [[Silence|silence]], a host of observations and inferences. So, perhaps, do
 
       his companions; and the difference in the extent of the
 
@@ -249,7 +249,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       and the analytic ability there exists a difference far greater,
 
-      indeed, than that between the fancy and the imagination, but of a
+      indeed, than that between the fancy and the [[Imagination|imagination]], but of a
 
       character very strictly analogous. It will be found, in fact,
 
@@ -265,15 +265,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      Residing in Paris during the spring and part of the summer of
+      Residing in [[Paris]] during the [[Spring|spring]] and part of the [[Summer|summer]] of
 
-      18—, I there became acquainted with a Monsieur C. Auguste Dupin.
+      18—, I there became acquainted with a Monsieur [[C. Auguste Dupin]].
 
       This young gentleman was of an excellent, indeed of an
 
       illustrious family, but, by a variety of untoward events, had
 
-      been reduced to such poverty that the energy of his character
+      been reduced to such [[Poverty|poverty]] that the energy of his character
 
       succumbed beneath it, and he ceased to bestir himself in the
 
@@ -289,7 +289,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       superfluities. Books, indeed, were his sole luxuries, and in
 
-      Paris these are easily obtained.
+      [[Paris]] these are easily obtained.
 
 
 
@@ -301,23 +301,23 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       communion. We saw each other again and again. I was deeply
 
-      interested in the little family history which he detailed to me
+      interested in the little family [[history]] which he detailed to me
 
       with all that candor which a Frenchman indulges whenever mere
 
-      self is his theme. I was astonished, too, at the vast extent of
+      [[Self|self]] is his theme. I was astonished, too, at the vast extent of
 
-      his reading; and, above all, I felt my soul enkindled within me
+      his reading; and, above all, I felt my [[Soul|soul]] enkindled within me
 
-      by the wild fervor, and the vivid freshness of his imagination.
+      by the wild fervor, and the vivid freshness of his [[Imagination|imagination]].
 
-      Seeking in Paris the objects I then sought, I felt that the
+      Seeking in [[Paris]] the objects I then sought, I felt that the
 
       society of such a man would be to me a treasure beyond price; and
 
       this feeling I frankly confided to him. It was at length arranged
 
-      that we should live together during my stay in the city; and as
+      that we should live together during my stay in the [[City|city]]; and as
 
       my worldly circumstances were somewhat less embarrassed than his
 
@@ -325,7 +325,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       furnishing in a style which suited the rather fantastic gloom of
 
-      our common temper, a time-eaten and grotesque mansion, long
+      our common temper, a [[Time|time]]-eaten and [[Grotesque|grotesque]] mansion, long
 
       deserted through superstitions into which we did not inquire, and
 
@@ -339,7 +339,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       world, we should have been regarded as madmen—although, perhaps,
 
-      as madmen of a harmless nature. Our seclusion was perfect. We
+      as madmen of a harmless [[Nature|nature]]. Our seclusion was perfect. We
 
       admitted no visitors. Indeed the locality of our retirement had
 
@@ -347,13 +347,13 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       it had been many years since Dupin had ceased to know or be known
 
-      in Paris. We existed within ourselves alone.
+      in [[Paris]]. We existed within ourselves [[Alone|alone]].
 
 
 
       It was a freak of fancy in my friend (for what else shall I call
 
-      it?) to be enamored of the night for her own sake; and into this
+      it?) to be enamored of the [[Night|night]] for her own sake; and into this
 
       _bizarrerie_, as into all his others, I quietly fell; giving
 
@@ -361,7 +361,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       divinity would not herself dwell with us always; but we could
 
-      counterfeit her presence. At the first dawn of the morning we
+      counterfeit her presence. At the first [[Dawn|dawn]] of the morning we
 
       closed all the messy shutters of our old building; lighting a
 
@@ -369,15 +369,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       ghastliest and feeblest of rays. By the aid of these we then
 
-      busied our souls in dreams—reading, writing, or conversing, until
+      busied our souls in [[Dreams|dreams]]—reading, writing, or conversing, until
 
-      warned by the clock of the advent of the true Darkness. Then we
+      warned by the [[Clock|clock]] of the advent of the true Darkness. Then we
 
       sallied forth into the streets arm in arm, continuing the topics
 
       of the day, or roaming far and wide until a late hour, seeking,
 
-      amid the wild lights and shadows of the populous city, that
+      amid the wild lights and shadows of the populous [[City|city]], that
 
       infinity of mental excitement which quiet observation can afford.
 
@@ -403,15 +403,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       frigid and abstract; his eyes were vacant in expression; while
 
-      his voice, usually a rich tenor, rose into a treble which would
+      his voice, usually a rich tenor, [[Rose|rose]] into a treble which would
 
       have sounded petulantly but for the deliberateness and entire
 
       distinctness of the enunciation. Observing him in these moods, I
 
-      often dwelt meditatively upon the old philosophy of the Bi-Part
+      often dwelt meditatively upon the old [[philosophy]] of the Bi-Part
 
-      Soul, and amused myself with the fancy of a double Dupin—the
+      [[Soul]], and amused myself with the fancy of a [[Double|double]] Dupin—the
 
       creative and the resolvent.
 
@@ -419,7 +419,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Let it not be supposed, from what I have just said, that I am
 
-      detailing any mystery, or penning any romance. What I have
+      detailing any mystery, or penning any [[Romance|romance]]. What I have
 
       described in the Frenchman, was merely the result of an excited,
 
@@ -431,7 +431,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      We were strolling one night down a long dirty street in the
+      We were strolling one [[Night|night]] down a long dirty street in the
 
       vicinity of the Palais Royal. Being both, apparently, occupied
 
@@ -447,7 +447,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      “There can be no doubt of that,” I replied unwittingly, and not
+      “There can be no [[Doubt|doubt]] of that,” I replied unwittingly, and not
 
       at first observing (so much had I been absorbed in reflection)
 
@@ -465,7 +465,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       senses. How was it possible you should know I was thinking of
 
-      ——?” Here I paused, to ascertain beyond a doubt whether he really
+      ——?” Here I paused, to ascertain beyond a [[Doubt|doubt]] whether he really
 
       knew of whom I thought.
 
@@ -473,7 +473,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “—— of Chantilly,” said he, “why do you pause? You were remarking
 
-      to yourself that his diminutive figure unfitted him for tragedy.”
+      to yourself that his diminutive figure unfitted him for [[Tragedy|tragedy]].”
 
 
 
@@ -483,7 +483,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       becoming stage-mad, had attempted the _rôle_ of Xerxes, in
 
-      Crébillon’s tragedy so called, and been notoriously Pasquinaded
+      Crébillon’s [[Tragedy|tragedy]] so called, and been notoriously Pasquinaded
 
       for his pains.
 
@@ -491,7 +491,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “Tell me, for Heaven’s sake,” I exclaimed, “the method—if method
 
-      there is—by which you have been enabled to fathom my soul in this
+      there is—by which you have been enabled to fathom my [[Soul|soul]] in this
 
       matter.” In fact I was even more startled than I would have been
 
@@ -553,7 +553,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       occupation is often full of interest; and he who attempts it for
 
-      the first time is astonished by the apparently illimitable
+      the first [[Time|time]] is astonished by the apparently illimitable
 
       distance and incoherence between the starting-point and the goal.
 
@@ -561,7 +561,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Frenchman speak what he had just spoken, and when I could not
 
-      help acknowledging that he had spoken the truth. He continued:
+      help acknowledging that he had spoken the [[Truth|truth]]. He continued:
 
 
 
@@ -581,7 +581,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       muttered a few words, turned to look at the pile, and then
 
-      proceeded in silence. I was not particularly attentive to what
+      proceeded in [[Silence|silence]]. I was not particularly attentive to what
 
       you did; but observation has become with me, of late, a species
 
@@ -601,7 +601,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       countenance brightened up, and, perceiving your lips move, I
 
-      could not doubt that you murmured the word ‘stereotomy,’ a term
+      could not [[Doubt|doubt]] that you murmured the word ‘stereotomy,’ a term
 
       very affectedly applied to this species of pavement. I knew that
 
@@ -675,13 +675,13 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      “_Extraordinary Murders_.—This morning, about three o’clock, the
+      “_Extraordinary Murders_.—This morning, about three o’[[Clock|clock]], the
 
-      inhabitants of the Quartier St. Roch were aroused from sleep by a
+      inhabitants of the Quartier St. Roch were aroused from [[Sleep|sleep]] by a
 
       succession of terrific shrieks, issuing, apparently, from the
 
-      fourth story of a house in the Rue Morgue, known to be in the
+      fourth story of a [[house]] in the Rue Morgue, known to be in the
 
       sole occupancy of one Madame L’Espanaye, and her daughter,
 
@@ -691,7 +691,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       gateway was broken in with a crowbar, and eight or ten of the
 
-      neighbors entered accompanied by two _gendarmes_. By this time
+      neighbors entered accompanied by two _gendarmes_. By this [[Time|time]]
 
       the cries had ceased; but, as the party rushed up the first
 
@@ -699,7 +699,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       were distinguished and seemed to proceed from the upper part of
 
-      the house. As the second landing was reached, these sounds, also,
+      the [[house]]. As the second landing was reached, these sounds, also,
 
       had ceased and everything remained perfectly quiet. The party
 
@@ -723,9 +723,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       middle of the floor. On a chair lay a razor, besmeared with
 
-      blood. On the hearth were two or three long and thick tresses of
+      [[Blood|blood]]. On the hearth were two or three long and thick tresses of
 
-      grey human hair, also dabbled in blood, and seeming to have been
+      grey human hair, also dabbled in [[Blood|blood]], and seeming to have been
 
       pulled out by the roots. Upon the floor were found four
 
@@ -749,7 +749,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “Of Madame L’Espanaye no traces were here seen; but an unusual
 
-      quantity of soot being observed in the fire-place, a search was
+      quantity of soot being observed in the [[Fire|fire]]-place, a search was
 
       made in the chimney, and (horrible to relate!) the corpse of the
 
@@ -757,9 +757,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       thus forced up the narrow aperture for a considerable distance.
 
-      The body was quite warm. Upon examining it, many excoriations
+      The [[Body|body]] was quite warm. Upon examining it, many excoriations
 
-      were perceived, no doubt occasioned by the violence with which it
+      were perceived, no [[Doubt|doubt]] occasioned by the violence with which it
 
       had been thrust up and disengaged. Upon the face were many severe
 
@@ -767,11 +767,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       indentations of finger nails, as if the deceased had been
 
-      throttled to death.
+      throttled to [[Death|death]].
 
 
 
-      “After a thorough investigation of every portion of the house,
+      “After a thorough investigation of every portion of the [[house]],
 
       without farther discovery, the party made its way into a small
 
@@ -779,7 +779,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       the old lady, with her throat so entirely cut that, upon an
 
-      attempt to raise her, the head fell off. The body, as well as the
+      attempt to raise her, the head fell off. The [[Body|body]], as [[Well|well]] as the
 
       head, was fearfully mutilated—the former so much so as scarcely
 
@@ -797,7 +797,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      “_The Tragedy in the Rue Morgue._—Many individuals have been
+      “_The [[Tragedy]] in the Rue Morgue._—Many individuals have been
 
       examined in relation to this most extraordinary and frightful
 
@@ -823,9 +823,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       that Madame L. told fortunes for a living. Was reputed to have
 
-      money put by. Never met any persons in the house when she called
+      money put by. Never met any persons in the [[house]] when she called
 
-      for the clothes or took them home. Was sure that they had no
+      for the clothes or took them [[Home|home]]. Was sure that they had no
 
       servant in employ. There appeared to be no furniture in any part
 
@@ -841,11 +841,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       and has always resided there. The deceased and her daughter had
 
-      occupied the house in which the corpses were found, for more than
+      occupied the [[house]] in which the corpses were found, for more than
 
       six years. It was formerly occupied by a jeweller, who under-let
 
-      the upper rooms to various persons. The house was the property of
+      the upper rooms to various persons. The [[house]] was the property of
 
       Madame L. She became dissatisfied with the abuse of the premises
 
@@ -869,7 +869,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “Many other persons, neighbors, gave evidence to the same effect.
 
-      No one was spoken of as frequenting the house. It was not known
+      No one was spoken of as frequenting the [[house]]. It was not known
 
       whether there were any living connexions of Madame L. and her
 
@@ -877,7 +877,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Those in the rear were always closed, with the exception of the
 
-      large back room, fourth story. The house was a good house—not
+      large back room, fourth story. The [[house]] was a good [[house]]—not
 
       very old.
 
@@ -885,7 +885,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “_Isidore Musèt_, _gendarme_, deposes that he was called to the
 
-      house about three o’clock in the morning, and found some twenty
+      [[house]] about three o’[[Clock|clock]] in the morning, and found some twenty
 
       or thirty persons at the gateway, endeavoring to gain admittance.
 
@@ -893,7 +893,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       but little difficulty in getting it open, on account of its being
 
-      a double or folding gate, and bolted neither at bottom not top.
+      a [[Double|double]] or folding gate, and bolted neither at [[Bottom|bottom]] not top.
 
       The shrieks were continued until the gate was forced—and then
 
@@ -925,9 +925,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      “_Henri Duval_, a neighbor, and by trade a silver-smith, deposes
+      “_Henri Duval_, a neighbor, and by trade a silver-[[smith]], deposes
 
-      that he was one of the party who first entered the house.
+      that he was one of the party who first entered the [[house]].
 
       Corroborates the testimony of Musèt in general. As soon as they
 
@@ -957,9 +957,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       testimony. Not speaking French, was examined through an
 
-      interpreter. Is a native of Amsterdam. Was passing the house at
+      interpreter. Is a native of Amsterdam. Was passing the [[house]] at
 
-      the time of the shrieks. They lasted for several minutes—probably
+      the [[Time|time]] of the shrieks. They lasted for several minutes—probably
 
       ten. They were long and loud—very awful and distressing. Was one
 
@@ -971,7 +971,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       uttered. They were loud and quick—unequal—spoken apparently in
 
-      fear as well as in anger. The voice was harsh—not so much shrill
+      [[Fear|fear]] as [[Well|well]] as in anger. The voice was harsh—not so much shrill
 
       as harsh. Could not call it a shrill voice. The gruff voice said
 
@@ -983,15 +983,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Deloraine. Is the elder Mignaud. Madame L’Espanaye had some
 
-      property. Had opened an account with his banking house in the
+      property. Had opened an account with his banking [[house]] in the
 
-      spring of the year—(eight years previously). Made frequent
+      [[Spring|spring]] of the year—(eight years previously). Made frequent
 
       deposits in small sums. Had checked for nothing until the third
 
-      day before her death, when she took out in person the sum of 4000
+      day before her [[Death|death]], when she took out in person the sum of 4000
 
-      francs. This sum was paid in gold, and a clerk went home with the
+      francs. This sum was paid in gold, and a clerk went [[Home|home]] with the
 
       money.
 
@@ -999,7 +999,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “_Adolphe Le Bon_, clerk to Mignaud et Fils, deposes that on the
 
-      day in question, about noon, he accompanied Madame L’Espanaye to
+      day in question, about [[Noon|noon]], he accompanied Madame L’Espanaye to
 
       her residence with the 4000 francs, put up in two bags. Upon the
 
@@ -1009,13 +1009,13 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       other. He then bowed and departed. Did not see any person in the
 
-      street at the time. It is a by-street—very lonely.
+      street at the [[Time|time]]. It is a by-street—very lonely.
 
 
 
       “_William Bird_, tailor deposes that he was one of the party who
 
-      entered the house. Is an Englishman. Has lived in Paris two
+      entered the [[house]]. Is an Englishman. Has lived in [[Paris]] two
 
       years. Was one of the first to ascend the stairs. Heard the
 
@@ -1039,7 +1039,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “Four of the above-named witnesses, being recalled, deposed that
 
-      the door of the chamber in which was found the body of
+      the door of the chamber in which was found the [[Body|body]] of
 
       Mademoiselle L. was locked on the inside when the party reached
 
@@ -1055,21 +1055,21 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       with the key on the inside. A small room in the front of the
 
-      house, on the fourth story, at the head of the passage was open,
+      [[house]], on the fourth story, at the head of the passage was open,
 
       the door being ajar. This room was crowded with old beds, boxes,
 
       and so forth. These were carefully removed and searched. There
 
-      was not an inch of any portion of the house which was not
+      was not an inch of any portion of the [[house]] which was not
 
       carefully searched. Sweeps were sent up and down the chimneys.
 
-      The house was a four story one, with garrets (_mansardes._) A
+      The [[house]] was a four story one, with garrets (_mansardes._) A
 
       trap-door on the roof was nailed down very securely—did not
 
-      appear to have been opened for years. The time elapsing between
+      appear to have been opened for years. The [[Time|time]] elapsing between
 
       the hearing of the voices in contention and the breaking open of
 
@@ -1085,7 +1085,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Morgue. Is a native of Spain. Was one of the party who entered
 
-      the house. Did not proceed up stairs. Is nervous, and was
+      the [[house]]. Did not proceed up stairs. Is nervous, and was
 
       apprehensive of the consequences of agitation. Heard the voices
 
@@ -1111,7 +1111,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       the voice of a Russian. Corroborates the general testimony. Is an
 
-      Italian. Never conversed with a native of Russia.
+      Italian. Never conversed with a native of [[Russia]].
 
 
 
@@ -1125,9 +1125,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       chimneys. These brushes were passed up and down every flue in the
 
-      house. There is no back passage by which any one could have
+      [[house]]. There is no back passage by which any one could have
 
-      descended while the party proceeded up stairs. The body of
+      descended while the party proceeded up stairs. The [[Body|body]] of
 
       Mademoiselle L’Espanaye was so firmly wedged in the chimney that
 
@@ -1161,15 +1161,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       apparently, by the pressure of a knee. In the opinion of M.
 
-      Dumas, Mademoiselle L’Espanaye had been throttled to death by
+      Dumas, Mademoiselle L’Espanaye had been throttled to [[Death|death]] by
 
       some person or persons unknown. The corpse of the mother was
 
       horribly mutilated. All the bones of the right leg and arm were
 
-      more or less shattered. The left _tibia_ much splintered, as well
+      more or less shattered. The left _tibia_ much splintered, as [[Well|well]]
 
-      as all the ribs of the left side. Whole body dreadfully bruised
+      as all the ribs of the left side. Whole [[Body|body]] dreadfully bruised
 
       and discolored. It was not possible to say how the injuries had
 
@@ -1183,7 +1183,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       the deceased, when seen by witness, was entirely separated from
 
-      the body, and was also greatly shattered. The throat had
+      the [[Body|body]], and was also greatly shattered. The throat had
 
       evidently been cut with some very sharp instrument—probably with
 
@@ -1205,11 +1205,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       perplexing in all its particulars, was never before committed in
 
-      Paris—if indeed a murder has been committed at all. The police
+      [[Paris]]—if indeed a murder has been committed at all. The police
 
       are entirely at fault—an unusual occurrence in affairs of this
 
-      nature. There is not, however, the shadow of a clew apparent.”
+      [[Nature|nature]]. There is not, however, the [[Shadow|shadow]] of a clew apparent.”
 
 
 
@@ -1239,7 +1239,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      I could merely agree with all Paris in considering them an
+      I could merely agree with all [[Paris]] in considering them an
 
       insoluble mystery. I saw no means by which it would be possible
 
@@ -1279,9 +1279,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       doing he, necessarily, lost sight of the matter as a whole. Thus
 
-      there is such a thing as being too profound. Truth is not always
+      there is such a thing as being too profound. [[Truth]] is not always
 
-      in a well. In fact, as regards the more important knowledge, I do
+      in a [[Well|well]]. In fact, as regards the more important knowledge, I do
 
       believe that she is invariably superficial. The depth lies in the
 
@@ -1289,7 +1289,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       she is found. The modes and sources of this kind of error are
 
-      well typified in the contemplation of the heavenly bodies. To
+      [[Well|well]] typified in the contemplation of the heavenly bodies. To
 
       look at a star by glances—to view it in a side-long way, by
 
@@ -1309,7 +1309,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       profundity we perplex and enfeeble thought; and it is possible to
 
-      make even Venus herself vanish from the firmament by a scrutiny
+      make even [[Venus]] herself vanish from the firmament by a scrutiny
 
       too sustained, too concentrated, or too direct.
 
@@ -1341,17 +1341,17 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       late in the afternoon when we reached it, as this quarter is at a
 
-      great distance from that in which we resided. The house was
+      great distance from that in which we resided. The [[house]] was
 
       readily found; for there were still many persons gazing up at the
 
       closed shutters, with an objectless curiosity, from the opposite
 
-      side of the way. It was an ordinary Parisian house, with a
+      side of the way. It was an ordinary Parisian [[house]], with a
 
       gateway, on one side of which was a glazed watch-box, with a
 
-      sliding panel in the window, indicating a _loge de concierge._
+      sliding panel in the [[Window|window]], indicating a _loge de concierge._
 
       Before going in we walked up the street, turned down an alley,
 
@@ -1359,7 +1359,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       building—Dupin, meanwhile examining the whole neighborhood, as
 
-      well as the house, with a minuteness of attention for which I
+      [[Well|well]] as the [[house]], with a minuteness of attention for which I
 
       could see no possible object.
 
@@ -1371,7 +1371,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       agents in charge. We went up stairs—into the chamber where the
 
-      body of Mademoiselle L’Espanaye had been found, and where both
+      [[Body|body]] of Mademoiselle L’Espanaye had been found, and where both
 
       the deceased still lay. The disorders of the room had, as usual,
 
@@ -1385,7 +1385,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       throughout. The examination occupied us until dark, when we took
 
-      our departure. On our way home my companion stepped in for a
+      our departure. On our way [[Home|home]] my companion stepped in for a
 
       moment at the office of one of the daily papers.
 
@@ -1397,7 +1397,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       equivalent. It was his humor, now, to decline all conversation on
 
-      the subject of the murder, until about noon the next day. He then
+      the subject of the murder, until about [[Noon|noon]] the next day. He then
 
       asked me, suddenly, if I had observed any thing _peculiar_ at the
 
@@ -1417,7 +1417,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      “The ‘Gazette,’” he replied, “has not entered, I fear, into the
+      “The ‘Gazette,’” he replied, “has not entered, I [[Fear|fear]], into the
 
       unusual horror of the thing. But dismiss the idle opinions of
 
@@ -1443,7 +1443,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       corpse thrust, with the head downward, up the chimney; the
 
-      frightful mutilation of the body of the old lady; these
+      frightful mutilation of the [[Body|body]] of the old lady; these
 
       considerations, with those just mentioned, and others which I
 
@@ -1451,7 +1451,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       putting completely at fault the boasted _acumen_, of the
 
-      government agents. They have fallen into the gross but common
+      [[government]] agents. They have fallen into the gross but common
 
       error of confounding the unusual with the abstruse. But it is by
 
@@ -1485,11 +1485,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       measure implicated in their perpetration. Of the worst portion of
 
-      the crimes committed, it is probable that he is innocent. I hope
+      the crimes committed, it is probable that he is [[Innocent|innocent]]. I [[Hope|hope]]
 
       that I am right in this supposition; for upon it I build my
 
-      expectation of reading the entire riddle. I look for the man
+      expectation of reading the entire [[Riddle|riddle]]. I look for the man
 
       here—in this room—every moment. It is true that he may not
 
@@ -1521,11 +1521,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       upon the stairs, were not the voices of the women themselves, was
 
-      fully proved by the evidence. This relieves us of all doubt upon
+      fully proved by the evidence. This relieves us of all [[Doubt|doubt]] upon
 
       the question whether the old lady could have first destroyed the
 
-      daughter and afterward have committed suicide. I speak of this
+      daughter and afterward have committed [[suicide]]. I speak of this
 
       point chiefly for the sake of method; for the strength of Madame
 
@@ -1533,9 +1533,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       thrusting her daughter’s corpse up the chimney as it was found;
 
-      and the nature of the wounds upon her own person entirely
+      and the [[Nature|nature]] of the wounds upon her own person entirely
 
-      preclude the idea of self-destruction. Murder, then, has been
+      preclude the idea of [[Self|self]]-destruction. Murder, then, has been
 
       committed by some third party; and the voices of this third party
 
@@ -1601,7 +1601,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       voice of a Russian, but ‘_has never conversed with a native of
 
-      Russia._’ A second Frenchman differs, moreover, with the first,
+      [[Russia]]._’ A second Frenchman differs, moreover, with the first,
 
       and is positive that the voice was that of an Italian; but, _not
 
@@ -1619,7 +1619,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Asiatic—of an African. Neither Asiatics nor Africans abound in
 
-      Paris; but, without denying the inference, I will now merely call
+      [[Paris]]; but, without denying the inference, I will now merely call
 
       your attention to three points. The voice is termed by one
 
@@ -1699,7 +1699,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       although of ordinary width for some eight or ten feet above the
 
-      hearths, will not admit, throughout their extent, the body of a
+      hearths, will not admit, throughout their extent, the [[Body|body]] of a
 
       large cat. The impossibility of egress, by means already stated,
 
@@ -1737,7 +1737,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       was found fitted therein, nearly to the head. Upon examining the
 
-      other window, a similar nail was seen similarly fitted in it; and
+      other [[Window|window]], a similar nail was seen similarly fitted in it; and
 
       a vigorous attempt to raise this sash, failed also. The police
 
@@ -1777,7 +1777,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       difficulty and attempted to raise the sash. It resisted all my
 
-      efforts, as I had anticipated. A concealed spring must, I now
+      efforts, as I had anticipated. A concealed [[Spring|spring]] must, I now
 
       know, exist; and this corroboration of my idea convinced me that
 
@@ -1785,7 +1785,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       appeared the circumstances attending the nails. A careful search
 
-      soon brought to light the hidden spring. I pressed it, and,
+      soon brought to light the hidden [[Spring|spring]]. I pressed it, and,
 
       satisfied with the discovery, forbore to upraise the sash.
 
@@ -1793,15 +1793,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “I now replaced the nail and regarded it attentively. A person
 
-      passing out through this window might have reclosed it, and the
+      passing out through this [[Window|window]] might have reclosed it, and the
 
-      spring would have caught—but the nail could not have been
+      [[Spring|spring]] would have caught—but the nail could not have been
 
       replaced. The conclusion was plain, and again narrowed in the
 
       field of my investigations. The assassins _must_ have escaped
 
-      through the other window. Supposing, then, the springs upon each
+      through the other [[Window|window]]. Supposing, then, the springs upon each
 
       sash to be the same, as was probable, there _must_ be found a
 
@@ -1813,7 +1813,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       hand down behind the board, I readily discovered and pressed the
 
-      spring, which was, as I had supposed, identical in character with
+      [[Spring|spring]], which was, as I had supposed, identical in character with
 
       its neighbor. I now looked at the nail. It was as stout as the
 
@@ -1825,7 +1825,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “You will say that I was puzzled; but, if you think so, you must
 
-      have misunderstood the nature of the inductions. To use a
+      have misunderstood the [[Nature|nature]] of the inductions. To use a
 
       sporting phrase, I had not been once ‘at fault.’ The scent had
 
@@ -1835,7 +1835,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       that result was _the nail._ It had, I say, in every respect, the
 
-      appearance of its fellow in the other window; but this fact was
+      appearance of its fellow in the other [[Window|window]]; but this fact was
 
       an absolute nullity (conclusive as it might seem to be) when
 
@@ -1853,7 +1853,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       rust), and had apparently been accomplished by the blow of a
 
-      hammer, which had partially imbedded, in the top of the bottom
+      hammer, which had partially imbedded, in the top of the [[Bottom|bottom]]
 
       sash, the head portion of the nail. I now carefully replaced this
 
@@ -1861,23 +1861,23 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       resemblance to a perfect nail was complete—the fissure was
 
-      invisible. Pressing the spring, I gently raised the sash for a
+      invisible. Pressing the [[Spring|spring]], I gently raised the sash for a
 
       few inches; the head went up with it, remaining firm in its bed.
 
-      I closed the window, and the semblance of the whole nail was
+      I closed the [[Window|window]], and the semblance of the whole nail was
 
       again perfect.
 
 
 
-      “The riddle, so far, was now unriddled. The assassin had escaped
+      “The [[Riddle|riddle]], so far, was now unriddled. The assassin had escaped
 
-      through the window which looked upon the bed. Dropping of its own
+      through the [[Window|window]] which looked upon the bed. Dropping of its own
 
       accord upon his exit (or perhaps purposely closed), it had become
 
-      fastened by the spring; and it was the retention of this spring
+      fastened by the [[Spring|spring]]; and it was the retention of this [[Spring|spring]]
 
       which had been mistaken by the police for that of the
 
@@ -1891,9 +1891,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       building. About five feet and a half from the casement in
 
-      question there runs a lightning-rod. From this rod it would have
+      question there runs a [[Lightning|lightning]]-rod. From this rod it would have
 
-      been impossible for any one to reach the window itself, to say
+      been impossible for any one to reach the [[Window|window]] itself, to say
 
       nothing of entering it. I observed, however, that the shutters of
 
@@ -1911,11 +1911,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       present instance these shutters are fully three feet and a half
 
-      broad. When we saw them from the rear of the house, they were
+      broad. When we saw them from the rear of the [[house]], they were
 
       both about half open—that is to say, they stood off at right
 
-      angles from the wall. It is probable that the police, as well as
+      angles from the wall. It is probable that the police, as [[Well|well]] as
 
       myself, examined the back of the tenement; but, if so, in looking
 
@@ -1931,15 +1931,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       cursory examination. It was clear to me, however, that the
 
-      shutter belonging to the window at the head of the bed, would, if
+      shutter belonging to the [[Window|window]] at the head of the bed, would, if
 
       swung fully back to the wall, reach to within two feet of the
 
-      lightning-rod. It was also evident that, by exertion of a very
+      [[Lightning|lightning]]-rod. It was also evident that, by exertion of a very
 
-      unusual degree of activity and courage, an entrance into the
+      unusual degree of activity and [[Courage|courage]], an entrance into the
 
-      window, from the rod, might have been thus effected. By reaching
+      [[Window|window]], from the rod, might have been thus effected. By reaching
 
       to the distance of two feet and a half (we now suppose the
 
@@ -1951,7 +1951,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       springing boldly from it, he might have swung the shutter so as
 
-      to close it, and, if we imagine the window open at the time,
+      to close it, and, if we imagine the [[Window|window]] open at the [[Time|time]],
 
       might even have swung himself into the room.
 
@@ -1959,7 +1959,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “I wish you to bear especially in mind that I have spoken of a
 
-      _very_ unusual degree of activity as requisite to success in so
+      _very_ unusual degree of activity as requisite to [[success]] in so
 
       hazardous and so difficult a feat. It is my design to show you,
 
@@ -1973,7 +1973,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      “You will say, no doubt, using the language of the law, that ‘to
+      “You will say, no [[Doubt|doubt]], using the language of the law, that ‘to
 
       make out my case,’ I should rather undervalue, than insist upon a
 
@@ -1981,7 +1981,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       be the practice in law, but it is not the usage of reason. My
 
-      ultimate object is only the truth. My immediate purpose is to
+      ultimate object is only the [[Truth|truth]]. My immediate purpose is to
 
       lead you to place in juxtaposition, that _very unusual_ activity
 
@@ -2049,7 +2049,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       police by that portion of the evidence which speaks of money
 
-      delivered at the door of the house. Coincidences ten times as
+      delivered at the door of the [[house]]. Coincidences ten times as
 
       remarkable as this (the delivery of the money, and murder
 
@@ -2091,7 +2091,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       atrocious as this—let us glance at the butchery itself. Here is a
 
-      woman strangled to death by manual strength, and thrust up a
+      woman strangled to [[Death|death]] by manual strength, and thrust up a
 
       chimney, head downward. Ordinary assassins employ no such modes
 
@@ -2107,7 +2107,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       depraved of men. Think, too, how great must have been that
 
-      strength which could have thrust the body _up_ such an aperture
+      strength which could have thrust the [[Body|body]] _up_ such an aperture
 
       so forcibly that the united vigor of several persons was found
 
@@ -2125,21 +2125,21 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       the head even twenty or thirty hairs together. You saw the locks
 
-      in question as well as myself. Their roots (a hideous sight!)
+      in question as [[Well|well]] as myself. Their roots (a hideous sight!)
 
       were clotted with fragments of the flesh of the scalp—sure token
 
       of the prodigious power which had been exerted in uprooting
 
-      perhaps half a million of hairs at a time. The throat of the old
+      perhaps half a million of hairs at a [[Time|time]]. The throat of the old
 
       lady was not merely cut, but the head absolutely severed from the
 
-      body: the instrument was a mere razor. I wish you also to look at
+      [[Body|body]]: the instrument was a mere razor. I wish you also to look at
 
       the _brutal_ ferocity of these deeds. Of the bruises upon the
 
-      body of Madame L’Espanaye I do not speak. Monsieur Dumas, and his
+      [[Body|body]] of Madame L’Espanaye I do not speak. Monsieur Dumas, and his
 
       worthy coadjutor Monsieur Etienne, have pronounced that they were
 
@@ -2149,7 +2149,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       pavement in the yard, upon which the victim had fallen from the
 
-      window which looked in upon the bed. This idea, however simple it
+      [[Window|window]] which looked in upon the bed. This idea, however simple it
 
       may now seem, escaped the police for the same reason that the
 
@@ -2215,7 +2215,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “I have not asserted that it is,” said he; “but, before we decide
 
-      this point, I wish you to glance at the little sketch I have here
+      this point, I wish you to glance at the little [[Sketch|sketch]] I have here
 
       traced upon this paper. It is a _fac-simile_ drawing of what has
 
@@ -2237,11 +2237,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       firm and fixed hold. There is no _slipping_ apparent. Each finger
 
-      has retained—possibly until the death of the victim—the fearful
+      has retained—possibly until the [[Death|death]] of the victim—the fearful
 
       grasp by which it originally imbedded itself. Attempt, now, to
 
-      place all your fingers, at the same time, in the respective
+      place all your fingers, at the same [[Time|time]], in the respective
 
       impressions as you see them.”
 
@@ -2281,7 +2281,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       ferocity, and the imitative propensities of these mammalia are
 
-      sufficiently well known to all. I understood the full horrors of
+      sufficiently [[Well|well]] known to all. I understood the full horrors of
 
       the murder at once.
 
@@ -2319,11 +2319,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Upon these two words, therefore, I have mainly built my hopes of
 
-      a full solution of the riddle. A Frenchman was cognizant of the
+      a full solution of the [[Riddle|riddle]]. A Frenchman was cognizant of the
 
       murder. It is possible—indeed it is far more than probable—that
 
-      he was innocent of all participation in the bloody transactions
+      he was [[Innocent|innocent]] of all participation in the bloody transactions
 
       which took place. The Ourang-Outang may have escaped from him. He
 
@@ -2343,11 +2343,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       call them guesses then, and speak of them as such. If the
 
-      Frenchman in question is indeed, as I suppose, innocent of this
+      Frenchman in question is indeed, as I suppose, [[Innocent|innocent]] of this
 
-      atrocity, this advertisement which I left last night, upon our
+      atrocity, this advertisement which I left last [[Night|night]], upon our
 
-      return home, at the office of ‘Le Monde’ (a paper devoted to the
+      return [[Home|home]], at the office of ‘Le Monde’ (a paper devoted to the
 
       shipping interest, and much sought by sailors), will bring him to
 
@@ -2393,7 +2393,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       is peculiar to the Maltese. I picked the ribbon up at the foot of
 
-      the lightning-rod. It could not have belonged to either of the
+      the [[Lightning|lightning]]-rod. It could not have belonged to either of the
 
       deceased. Now if, after all, I am wrong in my induction from this
 
@@ -2407,11 +2407,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       the trouble to inquire. But if I am right, a great point is
 
-      gained. Cognizant although innocent of the murder, the Frenchman
+      gained. Cognizant although [[Innocent|innocent]] of the murder, the Frenchman
 
       will naturally hesitate about replying to the advertisement—about
 
-      demanding the Ourang-Outang. He will reason thus:—‘I am innocent;
+      demanding the Ourang-Outang. He will reason thus:—‘I am [[Innocent|innocent]];
 
       I am poor; my Ourang-Outang is of great value—to one in my
 
@@ -2429,7 +2429,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       animal, it would be impossible to prove me cognizant of the
 
-      murder, or to implicate me in guilt on account of that
+      murder, or to implicate me in [[Guilt|guilt]] on account of that
 
       cognizance. Above all, _I am known._ The advertiser designates me
 
@@ -2459,7 +2459,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      The front door of the house had been left open, and the visitor
+      The front door of the [[house]] had been left open, and the visitor
 
       had entered, without ringing, and advanced several steps upon the
 
@@ -2467,7 +2467,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       heard him descending. Dupin was moving quickly to the door, when
 
-      we again heard him coming up. He did not turn back a second time,
+      we again heard him coming up. He did not turn back a second [[Time|time]],
 
       but stepped up with decision, and rapped at the door of our
 
@@ -2501,7 +2501,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       about the Ourang-Outang. Upon my word, I almost envy you the
 
-      possession of him; a remarkably fine, and no doubt a very
+      possession of him; a remarkably fine, and no [[Doubt|doubt]] a very
 
       valuable animal. How old do you suppose him to be?”
 
@@ -2545,7 +2545,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
 
 
-      “Well,” replied my friend, “that is all very fair, to be sure.
+      “[[Well]],” replied my friend, “that is all very fair, to be sure.
 
       Let me think!—what should I have? Oh! I will tell you. My reward
 
@@ -2559,7 +2559,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Just as quietly, too, he walked toward the door, locked it and
 
-      put the key in his pocket. He then drew a pistol from his bosom
+      put the key in his pocket. He then drew a [[Pistol|pistol]] from his bosom
 
       and placed it, without the least flurry, upon the table.
 
@@ -2571,9 +2571,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       the next moment he fell back into his seat, trembling violently,
 
-      and with the countenance of death itself. He spoke not a word. I
+      and with the countenance of [[Death|death]] itself. He spoke not a word. I
 
-      pitied him from the bottom of my heart.
+      pitied him from the [[Bottom|bottom]] of my heart.
 
 
 
@@ -2583,9 +2583,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       whatever. I pledge you the honor of a gentleman, and of a
 
-      Frenchman, that we intend you no injury. I perfectly well know
+      Frenchman, that we intend you no injury. I perfectly [[Well|well]] know
 
-      that you are innocent of the atrocities in the Rue Morgue. It
+      that you are [[Innocent|innocent]] of the atrocities in the Rue Morgue. It
 
       will not do, however, to deny that you are in some measure
 
@@ -2605,7 +2605,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       other hand, you are bound by every principle of honor to confess
 
-      all you know. An innocent man is now imprisoned, charged with
+      all you know. An [[Innocent|innocent]] man is now imprisoned, charged with
 
       that crime of which you can point out the perpetrator.”
 
@@ -2623,9 +2623,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       you all I know about this affair;—but I do not expect you to
 
-      believe one half I say—I would be a fool indeed if I did. Still,
+      believe one half I say—I would be a [[Fool|fool]] indeed if I did. Still,
 
-      I _am_ innocent, and I will make a clean breast if I die for it.”
+      I _am_ [[Innocent|innocent]], and I will make a clean breast if I die for it.”
 
 
 
@@ -2641,23 +2641,23 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       exclusive possession. After great trouble, occasioned by the
 
-      intractable ferocity of his captive during the home voyage, he at
+      intractable ferocity of his captive during the [[Home|home]] voyage, he at
 
       length succeeded in lodging it safely at his own residence in
 
-      Paris, where, not to attract toward himself the unpleasant
+      [[Paris]], where, not to attract toward himself the unpleasant
 
       curiosity of his neighbors, he kept it carefully secluded, until
 
-      such time as it should recover from a wound in the foot, received
+      such [[Time|time]] as it should recover from a wound in the foot, received
 
-      from a splinter on board ship. His ultimate design was to sell
+      from a splinter on board [[Ship|ship]]. His ultimate design was to sell
 
       it.
 
 
 
-      Returning home from some sailors’ frolic the night, or rather in
+      Returning [[Home|home]] from some sailors’ frolic the [[Night|night]], or rather in
 
       the morning of the murder, he found the beast occupying his own
 
@@ -2667,13 +2667,13 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       and fully lathered, it was sitting before a looking-glass,
 
-      attempting the operation of shaving, in which it had no doubt
+      attempting the operation of shaving, in which it had no [[Doubt|doubt]]
 
       previously watched its master through the key-hole of the closet.
 
       Terrified at the sight of so dangerous a weapon in the possession
 
-      of an animal so ferocious, and so well able to use it, the man,
+      of an animal so ferocious, and so [[Well|well]] able to use it, the man,
 
       for some moments, was at a loss what to do. He had been
 
@@ -2683,13 +2683,13 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       sight of it, the Ourang-Outang sprang at once through the door of
 
-      the chamber, down the stairs, and thence, through a window,
+      the chamber, down the stairs, and thence, through a [[Window|window]],
 
       unfortunately open, into the street.
 
 
 
-      The Frenchman followed in despair; the ape, razor still in hand,
+      The Frenchman followed in [[Despair|despair]]; the ape, razor still in hand,
 
       occasionally stopping to look back and gesticulate at its
 
@@ -2697,17 +2697,17 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       again made off. In this manner the chase continued for a long
 
-      time. The streets were profoundly quiet, as it was nearly three
+      [[Time|time]]. The streets were profoundly quiet, as it was nearly three
 
-      o’clock in the morning. In passing down an alley in the rear of
+      o’[[Clock|clock]] in the morning. In passing down an alley in the rear of
 
       the Rue Morgue, the fugitive’s attention was arrested by a light
 
-      gleaming from the open window of Madame L’Espanaye’s chamber, in
+      gleaming from the open [[Window|window]] of Madame L’Espanaye’s chamber, in
 
-      the fourth story of her house. Rushing to the building, it
+      the fourth story of her [[house]]. Rushing to the building, it
 
-      perceived the lightning rod, clambered up with inconceivable
+      perceived the [[Lightning|lightning]] rod, clambered up with inconceivable
 
       agility, grasped the shutter, which was thrown fully back against
 
@@ -2731,13 +2731,13 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       other hand, there was much cause for anxiety as to what it might
 
-      do in the house. This latter reflection urged the man still to
+      do in the [[house]]. This latter reflection urged the man still to
 
-      follow the fugitive. A lightning rod is ascended without
+      follow the fugitive. A [[Lightning|lightning]] rod is ascended without
 
       difficulty, especially by a sailor; but, when he had arrived as
 
-      high as the window, which lay far to his left, his career was
+      high as the [[Window|window]], which lay far to his left, his career was
 
       stopped; the most that he could accomplish was to reach over so
 
@@ -2745,11 +2745,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       glimpse he nearly fell from his hold through excess of horror.
 
-      Now it was that those hideous shrieks arose upon the night, which
+      Now it was that those hideous shrieks arose upon the [[Night|night]], which
 
       had startled from slumber the inmates of the Rue Morgue. Madame
 
-      L’Espanaye and her daughter, habited in their night clothes, had
+      L’Espanaye and her daughter, habited in their [[Night|night]] clothes, had
 
       apparently been occupied in arranging some papers in the iron
 
@@ -2759,13 +2759,13 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       floor. The victims must have been sitting with their backs toward
 
-      the window; and, from the time elapsing between the ingress of
+      the [[Window|window]]; and, from the [[Time|time]] elapsing between the ingress of
 
       the beast and the screams, it seems probable that it was not
 
       immediately perceived. The flapping-to of the shutter would
 
-      naturally have been attributed to the wind.
+      naturally have been attributed to the [[Wind|wind]].
 
 
 
@@ -2773,7 +2773,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       L’Espanaye by the hair, (which was loose, as she had been combing
 
-      it,) and was flourishing the razor about her face, in imitation
+      it,) and was flourishing the razor about her face, in [[Imitation|imitation]]
 
       of the motions of a barber. The daughter lay prostrate and
 
@@ -2785,11 +2785,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       Ourang-Outang into those of wrath. With one determined sweep of
 
-      its muscular arm it nearly severed her head from her body. The
+      its muscular arm it nearly severed her head from her [[Body|body]]. The
 
-      sight of blood inflamed its anger into phrenzy. Gnashing its
+      sight of [[Blood|blood]] inflamed its anger into phrenzy. Gnashing its
 
-      teeth, and flashing fire from its eyes, it flew upon the body of
+      teeth, and flashing [[Fire|fire]] from its eyes, it flew upon the [[Body|body]] of
 
       the girl, and imbedded its fearful talons in her throat,
 
@@ -2799,9 +2799,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       the face of its master, rigid with horror, was just discernible.
 
-      The fury of the beast, who no doubt bore still in mind the
+      The fury of the beast, who no [[Doubt|doubt]] bore still in mind the
 
-      dreaded whip, was instantly converted into fear. Conscious of
+      dreaded whip, was instantly converted into [[Fear|fear]]. Conscious of
 
       having deserved punishment, it seemed desirous of concealing its
 
@@ -2815,7 +2815,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       chimney, as it was found; then that of the old lady, which it
 
-      immediately hurled through the window headlong.
+      immediately hurled through the [[Window|window]] headlong.
 
 
 
@@ -2823,7 +2823,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       sailor shrank aghast to the rod, and, rather gliding than
 
-      clambering down it, hurried at once home—dreading the
+      clambering down it, hurried at once [[Home|home]]—dreading the
 
       consequences of the butchery, and gladly abandoning, in his
 
@@ -2841,7 +2841,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       escaped from the chamber, by the rod, just before the breaking of
 
-      the door. It must have closed the window as it passed through it.
+      the door. It must have closed the [[Window|window]] as it passed through it.
 
       It was subsequently caught by the owner himself, who obtained for
 
@@ -2851,7 +2851,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       some comments from Dupin) at the bureau of the Prefect of Police.
 
-      This functionary, however well disposed to my friend, could not
+      This functionary, however [[Well|well]] disposed to my friend, could not
 
       altogether conceal his chagrin at the turn which affairs had
 
@@ -2863,19 +2863,19 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       “Let him talk,” said Dupin, who had not thought it necessary to
 
-      reply. “Let him discourse; it will ease his conscience, I am
+      reply. “Let him discourse; it will ease his [[Conscience|conscience]], I am
 
-      satisfied with having defeated him in his own castle.
+      satisfied with having defeated him in his own [[Castle|castle]].
 
       Nevertheless, that he failed in the solution of this mystery, is
 
-      by no means that matter for wonder which he supposes it; for, in
+      by no means that matter for [[Wonder|wonder]] which he supposes it; for, in
 
-      truth, our friend the Prefect is somewhat too cunning to be
+      [[Truth|truth]], our friend the Prefect is somewhat too cunning to be
 
       profound. In his wisdom is no _stamen._ It is all head and no
 
-      body, like the pictures of the Goddess Laverna,—or, at best, all
+      [[Body|body]], like the pictures of the Goddess Laverna,—or, at best, all
 
       head and shoulders, like a codfish. But he is a good creature
 

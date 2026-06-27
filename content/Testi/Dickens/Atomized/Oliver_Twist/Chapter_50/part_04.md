@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 50 (part 4)"
+title: "[[Oliver Twist]] — Chapter 50 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -19,23 +19,23 @@ so firmly against the door that it must be matter of great difficulty
 to open it from the inside; and creeping over the tiles, looked over
 the low parapet.
 
-The water was out, and the ditch a bed of mud.
+The [[Water|water]] was out, and the ditch a bed of mud.
 
 The crowd had been hushed during these few moments, watching his
 motions and doubtful of his purpose, but the instant they perceived it
 and knew it was defeated, they raised a cry of triumphant execration to
 which all their previous shouting had been whispers. Again and again it
-rose. Those who were at too great a distance to know its meaning, took
+[[Rose|rose]]. Those who were at too great a distance to know its meaning, took
 up the sound; it echoed and re-echoed; it seemed as though the whole
-city had poured its population out to curse him.
+[[City|city]] had poured its population out to curse him.
 
 On pressed the people from the front—on, on, on, in a strong struggling
 current of angry faces, with here and there a glaring torch to lighten
 them up, and show them out in all their wrath and passion. The houses
 on the opposite side of the ditch had been entered by the mob; sashes
 were thrown up, or torn bodily out; there were tiers and tiers of faces
-in every window; cluster upon cluster of people clinging to every
-house-top. Each little bridge (and there were three in sight) bent
+in every [[Window|window]]; cluster upon cluster of people clinging to every
+[[house]]-top. Each little bridge (and there were three in sight) bent
 beneath the weight of the crowd upon it. Still the current poured on to
 find some nook or hole from which to vent their shouts, and only for an
 instant see the wretch.
@@ -59,8 +59,8 @@ striving with his neighbor, and all panting with impatience to get near
 the door, and look upon the criminal as the officers brought him out.
 The cries and shrieks of those who were pressed almost to suffocation,
 or trampled down and trodden under foot in the confusion, were
-dreadful; the narrow ways were completely blocked up; and at this time,
-between the rush of some to regain the space in front of the house, and
+dreadful; the narrow ways were completely blocked up; and at this [[Time|time]],
+between the rush of some to regain the space in front of the [[house]], and
 the unavailing struggles of others to extricate themselves from the
 mass, the immediate attention was distracted from the murderer,
 although the universal eagerness for his capture was, if possible,
@@ -74,7 +74,7 @@ ditch, and, at the risk of being stifled, endeavouring to creep away in
 the darkness and confusion.
 
 Roused into new strength and energy, and stimulated by the noise within
-the house which announced that an entrance had really been effected, he
+the [[house]] which announced that an entrance had really been effected, he
 set his foot against the stack of chimneys, fastened one end of the
 rope tightly and firmly round it, and with the other made a strong
 running noose by the aid of his hands and teeth almost in a second. He
@@ -92,7 +92,7 @@ his arms above his head, and uttered a yell of terror.
 
 “The eyes again!” he cried in an unearthly screech.
 
-Staggering as if struck by lightning, he lost his balance and tumbled
+Staggering as if struck by [[Lightning|lightning]], he lost his balance and tumbled
 over the parapet. The noose was on his neck. It ran up with his weight,
 tight as a bow-string, and swift as the arrow it speeds. He fell for
 five-and-thirty feet. There was a sudden jerk, a terrific convulsion of
@@ -101,11 +101,11 @@ stiffening hand.
 
 The old chimney quivered with the shock, but stood it bravely. The
 murderer swung lifeless against the wall; and the boy, thrusting aside
-the dangling body which obscured his view, called to the people to come
+the dangling [[Body|body]] which obscured his view, called to the people to come
 and take him out, for God’s sake.
 
 A dog, which had lain concealed till now, ran backwards and forwards on
-the parapet with a dismal howl, and collecting himself for a spring,
+the parapet with a dismal howl, and collecting himself for a [[Spring|spring]],
 jumped for the dead man’s shoulders. Missing his aim, he fell into the
 ditch, turning completely over as he went; and striking his head
 against a stone, dashed out his brains.

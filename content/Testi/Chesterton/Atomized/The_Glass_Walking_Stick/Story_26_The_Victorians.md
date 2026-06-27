@@ -26,12 +26,12 @@ themselves would be the first to understand, that anything
 coming to such a wanderer, however indirectly, from his own
 country has an instant and imperious challenge to the emotions,
 which mere internationalism can never destroy or even define.
-And I found in a remote hotel, with a reaction amounting to tears,
-an ancient copy of a very modern London weekly paper, largely devoted
+And I found in a remote hotel, with a reaction amounting to [[Tears|tears]],
+an ancient copy of a very modern [[London]] weekly paper, largely devoted
 to literary reviews; and raising a question for which I am always
 seeking the answer.  I have no idea how old the issue was;
-but it was certainly subsequent to Queen Victoria's Coronation,
-and even to her death; because a prominent feature was a review
+but it was certainly subsequent to [[Queen]] Victoria's Coronation,
+and even to her [[Death|death]]; because a prominent feature was a review
 on a book about `The Victorians'.  And naturally we never
 called ourselves Victorians while we really were Victorians.
 On the other hand, since I neglected to note the date,
@@ -118,7 +118,7 @@ And she recognized right and wrong, not only because she
 had been a Puritan; but also because she was a Romantic.
 That was the point about romanticism, as compared with much
 modern realism.  A fine French critic, M. Mauriac, has said,
-`The Romantics were the corrupt children of Christianity.'
+`The Romantics were the corrupt children of [[Christianity]].'
 I should not put it so harshly; but it is very much more true
 than talking of the Victorians as smug contented Christians.
 The Victorian Age was really a violent collision and struggle;

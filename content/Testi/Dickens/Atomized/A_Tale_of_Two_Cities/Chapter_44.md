@@ -18,9 +18,9 @@ CHAPTER XII.
 Darkness
 
 
-Sydney Carton paused in the street, not quite decided where to go. “At
-Tellson’s banking-house at nine,” he said, with a musing face. “Shall I
-do well, in the mean time, to show myself? I think so. It is best that
+[[Sydney Carton]] paused in the street, not quite decided where to go. “At
+Tellson’s banking-[[house]] at nine,” he said, with a musing face. “Shall I
+do [[Well|well]], in the mean [[Time|time]], to show myself? I think so. It is best that
 these people should know there is such a man as I here; it is a sound
 precaution, and may be a necessary preparation. But care, care, care!
 Let me think it out!”
@@ -33,18 +33,18 @@ should know there is such a man as I here.” And he turned his face
 towards Saint Antoine.
 
 Defarge had described himself, that day, as the keeper of a wine-shop in
-the Saint Antoine suburb. It was not difficult for one who knew the city
-well, to find his house without asking any question. Having ascertained
+the Saint Antoine suburb. It was not difficult for one who knew the [[City|city]]
+[[Well|well]], to find his [[house]] without asking any question. Having ascertained
 its situation, Carton came out of those closer streets again, and dined
 at a place of refreshment and fell sound asleep after dinner. For the
-first time in many years, he had no strong drink. Since last night he
-had taken nothing but a little light thin wine, and last night he had
+first [[Time|time]] in many years, he had no strong drink. Since last [[Night|night]] he
+had taken nothing but a little light thin wine, and last [[Night|night]] he had
 dropped the brandy slowly down on Mr. Lorry’s hearth like a man who had
 done with it.
 
-It was as late as seven o’clock when he awoke refreshed, and went out
+It was as late as seven o’[[Clock|clock]] when he awoke refreshed, and went out
 into the streets again. As he passed along towards Saint Antoine, he
-stopped at a shop-window where there was a mirror, and slightly altered
+stopped at a shop-[[Window|window]] where there was a [[Mirror|mirror]], and slightly altered
 the disordered arrangement of his loose cravat, and his coat-collar, and
 his wild hair. This done, he went on direct to Defarge’s, and went in.
 
@@ -55,20 +55,20 @@ Defarges, man and wife. The Vengeance assisted in the conversation, like
 a regular member of the establishment.
 
 As Carton walked in, took his seat and asked (in very indifferent
-French) for a small measure of wine, Madame Defarge cast a careless
+French) for a small measure of wine, [[Madame Defarge]] cast a careless
 glance at him, and then a keener, and then a keener, and then advanced
 to him herself, and asked him what it was he had ordered.
 
 He repeated what he had already said.
 
-“English?” asked Madame Defarge, inquisitively raising her dark
+“English?” asked [[Madame Defarge]], inquisitively raising her dark
 eyebrows.
 
 After looking at her, as if the sound of even a single French word were
 slow to express itself to him, he answered, in his former strong foreign
 accent. “Yes, madame, yes. I am English!”
 
-Madame Defarge returned to her counter to get the wine, and, as he
+[[Madame Defarge]] returned to her counter to get the wine, and, as he
 took up a Jacobin journal and feigned to pore over it puzzling out its
 meaning, he heard her say, “I swear to you, like Evrémonde!”
 
@@ -84,13 +84,13 @@ drink to the Republic.”
 Defarge went back to the counter, and said, “Certainly, a little like.”
  Madame sternly retorted, “I tell you a good deal like.” Jacques Three
 pacifically remarked, “He is so much in your mind, see you, madame.”
- The amiable Vengeance added, with a laugh, “Yes, my faith! And you
+ The amiable Vengeance added, with a laugh, “Yes, my [[Faith|faith]]! And you
 are looking forward with so much pleasure to seeing him once more
 to-morrow!”
 
 Carton followed the lines and words of his paper, with a slow
 forefinger, and with a studious and absorbed face. They were all leaning
-their arms on the counter close together, speaking low. After a silence
+their arms on the counter close together, speaking low. After a [[Silence|silence]]
 of a few moments, during which they all looked towards him without
 disturbing his outward attention from the Jacobin editor, they resumed
 their conversation.
@@ -98,7 +98,7 @@ their conversation.
 “It is true what madame says,” observed Jacques Three. “Why stop? There
 is great force in that. Why stop?”
 
-“Well, well,” reasoned Defarge, “but one must stop somewhere. After all,
+“[[Well]], [[Well|well]],” reasoned Defarge, “but one must stop somewhere. After all,
 the question is still where?”
 
 “At extermination,” said madame.
@@ -120,8 +120,8 @@ face of a true friend of the Republic. Let him take care of his face!”
 
 “I have observed his daughter,” repeated madame; “yes, I have observed
 his daughter, more times than one. I have observed her to-day, and I
-have observed her other days. I have observed her in the court, and
-I have observed her in the street by the prison. Let me but lift my
+have observed her other days. I have observed her in the [[Court|court]], and
+I have observed her in the street by the [[Prison|prison]]. Let me but lift my
 finger--!” She seemed to raise it (the listener’s eyes were always on
 his paper), and to let it fall with a rattle on the ledge before her, as
 if the axe had dropped.
@@ -137,21 +137,21 @@ man even now.”
 “No!” protested Defarge. “Not if to lift this glass would do it! But I
 would leave the matter there. I say, stop there.”
 
-“See you then, Jacques,” said Madame Defarge, wrathfully; “and see you,
+“See you then, Jacques,” said [[Madame Defarge]], wrathfully; “and see you,
 too, my little Vengeance; see you both! Listen! For other crimes as
-tyrants and oppressors, I have this race a long time on my register,
+tyrants and oppressors, I have this race a long [[Time|time]] on my register,
 doomed to destruction and extermination. Ask my husband, is that so.”
 
 “It is so,” assented Defarge, without being asked.
 
 “In the beginning of the great days, when the Bastille falls, he finds
-this paper of to-day, and he brings it home, and in the middle of the
-night when this place is clear and shut, we read it, here on this spot,
+this paper of to-day, and he brings it [[Home|home]], and in the middle of the
+[[Night|night]] when this place is clear and shut, we read it, here on this spot,
 by the light of this lamp. Ask him, is that so.”
 
 “It is so,” assented Defarge.
 
-“That night, I tell him, when the paper is read through, and the lamp is
+“That [[Night|night]], I tell him, when the paper is read through, and the lamp is
 burnt out, and the day is gleaming in above those shutters and between
 those iron bars, that I have now a secret to communicate. Ask him, is
 that so.”
@@ -163,57 +163,57 @@ hands as I smite it now, and I tell him, ‘Defarge, I was brought up
 among the fishermen of the sea-shore, and that peasant family so injured
 by the two Evrémonde brothers, as that Bastille paper describes, is my
 family. Defarge, that sister of the mortally wounded boy upon the ground
-was my sister, that husband was my sister’s husband, that unborn child
-was their child, that brother was my brother, that father was my father,
+was my sister, that husband was my sister’s husband, that [[unborn]] [[Child|child]]
+was their [[Child|child]], that brother was my brother, that father was my father,
 those dead are my dead, and that summons to answer for those things
 descends to me!’ Ask him, is that so.”
 
 “It is so,” assented Defarge once more.
 
-“Then tell Wind and Fire where to stop,” returned madame; “but don’t
+“Then tell [[Wind]] and [[Fire]] where to stop,” returned madame; “but don’t
 tell me.”
 
-Both her hearers derived a horrible enjoyment from the deadly nature
+Both her hearers derived a horrible enjoyment from the deadly [[Nature|nature]]
 of her wrath--the listener could feel how white she was, without seeing
 her--and both highly commended it. Defarge, a weak minority, interposed
-a few words for the memory of the compassionate wife of the Marquis; but
+a few words for the [[Memory|memory]] of the compassionate wife of the Marquis; but
 only elicited from his own wife a repetition of her last reply. “Tell
-the Wind and the Fire where to stop; not me!”
+the [[Wind]] and the [[Fire]] where to stop; not me!”
 
 Customers entered, and the group was broken up. The English customer
 paid for what he had had, perplexedly counted his change, and asked, as
-a stranger, to be directed towards the National Palace. Madame Defarge
-took him to the door, and put her arm on his, in pointing out the road.
+a stranger, to be directed towards the National Palace. [[Madame Defarge]]
+took him to the door, and put her arm on his, in pointing out the [[Road|road]].
 The English customer was not without his reflections then, that it might
 be a good deed to seize that arm, lift it, and strike under it sharp and
 deep.
 
-But, he went his way, and was soon swallowed up in the shadow of the
-prison wall. At the appointed hour, he emerged from it to present
+But, he went his way, and was soon swallowed up in the [[Shadow|shadow]] of the
+[[Prison|prison]] wall. At the appointed hour, he emerged from it to present
 himself in Mr. Lorry’s room again, where he found the old gentleman
 walking to and fro in restless anxiety. He said he had been with Lucie
 until just now, and had only left her for a few minutes, to come and
 keep his appointment. Her father had not been seen, since he quitted the
-banking-house towards four o’clock. She had some faint hopes that his
+banking-[[house]] towards four o’[[Clock|clock]]. She had some faint hopes that his
 mediation might save Charles, but they were very slight. He had been
 more than five hours gone: where could he be?
 
-Mr. Lorry waited until ten; but, Doctor Manette not returning, and
+Mr. Lorry waited until ten; but, [[Doctor Manette]] not returning, and
 he being unwilling to leave Lucie any longer, it was arranged that he
-should go back to her, and come to the banking-house again at midnight.
-In the meanwhile, Carton would wait alone by the fire for the Doctor.
+should go back to her, and come to the banking-[[house]] again at midnight.
+In the meanwhile, Carton would wait [[Alone|alone]] by the [[Fire|fire]] for the Doctor.
 
-He waited and waited, and the clock struck twelve; but Doctor Manette
+He waited and waited, and the [[Clock|clock]] struck twelve; but [[Doctor Manette]]
 did not come back. Mr. Lorry returned, and found no tidings of him, and
 brought none. Where could he be?
 
 They were discussing this question, and were almost building up some
-weak structure of hope on his prolonged absence, when they heard him on
+weak structure of [[Hope|hope]] on his prolonged absence, when they heard him on
 the stairs. The instant he entered the room, it was plain that all was
 lost.
 
 Whether he had really been to any one, or whether he had been all that
-time traversing the streets, was never known. As he stood staring at
+[[Time|time]] traversing the streets, was never known. As he stood staring at
 them, they asked him no question, for his face told them everything.
 
 “I cannot find it,” said he, “and I must have it. Where is it?”
@@ -222,7 +222,7 @@ His head and throat were bare, and, as he spoke with a helpless look
 straying all around, he took his coat off, and let it drop on the floor.
 
 “Where is my bench? I have been looking everywhere for my bench, and I
-can’t find it. What have they done with my work? Time presses: I must
+can’t find it. What have they done with my work? [[Time]] presses: I must
 finish those shoes.”
 
 They looked at one another, and their hearts died within them.
@@ -231,25 +231,25 @@ They looked at one another, and their hearts died within them.
 work. Give me my work.”
 
 Receiving no answer, he tore his hair, and beat his feet upon the
-ground, like a distracted child.
+ground, like a distracted [[Child|child]].
 
 “Don’t torture a poor forlorn wretch,” he implored them, with a dreadful
 cry; “but give me my work! What is to become of us, if those shoes are
-not done to-night?”
+not done to-[[Night|night]]?”
 
 Lost, utterly lost!
 
-It was so clearly beyond hope to reason with him, or try to restore him,
+It was so clearly beyond [[Hope|hope]] to reason with him, or try to restore him,
 that--as if by agreement--they each put a hand upon his shoulder, and
-soothed him to sit down before the fire, with a promise that he should
+soothed him to sit down before the [[Fire|fire]], with a promise that he should
 have his work presently. He sank into the chair, and brooded over the
-embers, and shed tears. As if all that had happened since the garret
-time were a momentary fancy, or a dream, Mr. Lorry saw him shrink into
+embers, and shed [[Tears|tears]]. As if all that had happened since the garret
+[[Time|time]] were a momentary fancy, or [[A Dream|a dream]], Mr. Lorry saw him shrink into
 the exact figure that Defarge had had in keeping.
 
 Affected, and impressed with terror as they both were, by this spectacle
-of ruin, it was not a time to yield to such emotions. His lonely
-daughter, bereft of her final hope and reliance, appealed to them both
+of ruin, it was not a [[Time|time]] to yield to such emotions. His lonely
+daughter, bereft of her final [[Hope|hope]] and reliance, appealed to them both
 too strongly. Again, as if by agreement, they looked at one another with
 one meaning in their faces. Carton was the first to speak:
 
@@ -258,12 +258,12 @@ to her. But, before you go, will you, for a moment, steadily attend to
 me? Don’t ask me why I make the stipulations I am going to make, and
 exact the promise I am going to exact; I have a reason--a good one.”
 
-“I do not doubt it,” answered Mr. Lorry. “Say on.”
+“I do not [[Doubt|doubt]] it,” answered Mr. Lorry. “Say on.”
 
-The figure in the chair between them, was all the time monotonously
+The figure in the chair between them, was all the [[Time|time]] monotonously
 rocking itself to and fro, and moaning. They spoke in such a tone as
 they would have used if they had been watching by a sick-bed in the
-night.
+[[Night|night]].
 
 Carton stooped to pick up the coat, which lay almost entangling his
 feet. As he did so, a small case in which the Doctor was accustomed to
@@ -276,19 +276,19 @@ exclaimed, “Thank _God!_”
 
 “A moment! Let me speak of it in its place. First,” he put his hand in
 his coat, and took another paper from it, “that is the certificate which
-enables me to pass out of this city. Look at it. You see--Sydney Carton,
+enables me to pass out of this [[City|city]]. Look at it. You see--[[Sydney Carton]],
 an Englishman?”
 
 Mr. Lorry held it open in his hand, gazing in his earnest face.
 
 “Keep it for me until to-morrow. I shall see him to-morrow, you
-remember, and I had better not take it into the prison.”
+remember, and I had better not take it into the [[Prison|prison]].”
 
 “Why not?”
 
 “I don’t know; I prefer not to do so. Now, take this paper that Doctor
 Manette has carried about him. It is a similar certificate, enabling him
-and his daughter and her child, at any time, to pass the barrier and the
+and his daughter and her [[Child|child]], at any [[Time|time]], to pass the barrier and the
 frontier! You see?”
 
 “Yes!”
@@ -304,14 +304,14 @@ think, will be.”
 
 “They are in great danger. They are in danger of denunciation by Madame
 Defarge. I know it from her own lips. I have overheard words of that
-woman’s, to-night, which have presented their danger to me in strong
-colours. I have lost no time, and since then, I have seen the spy. He
-confirms me. He knows that a wood-sawyer, living by the prison wall,
+woman’s, to-[[Night|night]], which have presented their danger to me in strong
+colours. I have lost no [[Time|time]], and since then, I have seen the spy. He
+confirms me. He knows that a wood-sawyer, living by the [[Prison|prison]] wall,
 is under the control of the Defarges, and has been rehearsed by
-Madame Defarge as to his having seen Her”--he never mentioned Lucie’s
+[[Madame Defarge]] as to his having seen Her”--he never mentioned Lucie’s
 name--“making signs and signals to prisoners. It is easy to foresee that
-the pretence will be the common one, a prison plot, and that it will
-involve her life--and perhaps her child’s--and perhaps her father’s--for
+the pretence will be the common one, a [[Prison|prison]] plot, and that it will
+involve her life--and perhaps her [[Child|child]]’s--and perhaps her father’s--for
 both have been seen with her at that place. Don’t look so horrified. You
 will save them all.”
 
@@ -331,9 +331,9 @@ the moment I lose sight,” touching the back of the Doctor’s chair, “even
 of this distress.”
 
 “You have money, and can buy the means of travelling to the seacoast
-as quickly as the journey can be made. Your preparations have been
+as quickly as the [[Journey|journey]] can be made. Your preparations have been
 completed for some days, to return to England. Early to-morrow have your
-horses ready, so that they may be in starting trim at two o’clock in the
+horses ready, so that they may be in starting trim at two o’[[Clock|clock]] in the
 afternoon.”
 
 “It shall be done!”
@@ -342,13 +342,13 @@ His manner was so fervent and inspiring, that Mr. Lorry caught the
 flame, and was as quick as youth.
 
 “You are a noble heart. Did I say we could depend upon no better man?
-Tell her, to-night, what you know of her danger as involving her child
+Tell her, to-[[Night|night]], what you know of her danger as involving her [[Child|child]]
 and her father. Dwell upon that, for she would lay her own fair head
 beside her husband’s cheerfully.” He faltered for an instant; then went
-on as before. “For the sake of her child and her father, press upon her
-the necessity of leaving Paris, with them and you, at that hour. Tell
+on as before. “For the sake of her [[Child|child]] and her father, press upon her
+the necessity of leaving [[Paris]], with them and you, at that hour. Tell
 her that it was her husband’s last arrangement. Tell her that more
-depends upon it than she dare believe, or hope. You think that her
+depends upon it than she dare believe, or [[Hope|hope]]. You think that her
 father, even in this sad state, will submit himself to her; do you not?”
 
 “I am sure of it.”
@@ -377,19 +377,19 @@ another.”
 any reason--and no life can possibly be saved, and many lives must
 inevitably be sacrificed.”
 
-“I will remember them. I hope to do my part faithfully.”
+“I will remember them. I [[Hope|hope]] to do my part faithfully.”
 
-“And I hope to do mine. Now, good bye!”
+“And I [[Hope|hope]] to do mine. Now, good bye!”
 
-Though he said it with a grave smile of earnestness, and though he even
+Though he said it with a [[Grave|grave]] smile of earnestness, and though he even
 put the old man’s hand to his lips, he did not part from him then. He
 helped him so far to arouse the rocking figure before the dying embers,
 as to get a cloak and hat put upon it, and to tempt it forth to find
 where the bench and work were hidden that it still moaningly besought
 to have. He walked on the other side of it and protected it to the
-courtyard of the house where the afflicted heart--so happy in
-the memorable time when he had revealed his own desolate heart to
-it--outwatched the awful night. He entered the courtyard and remained
-there for a few moments alone, looking up at the light in the window of
+courtyard of the [[house]] where the afflicted heart--so happy in
+the memorable [[Time|time]] when he had revealed his own desolate heart to
+it--outwatched the awful [[Night|night]]. He entered the courtyard and remained
+there for a few moments [[Alone|alone]], looking up at the light in the [[Window|window]] of
 her room. Before he went away, he breathed a blessing towards it, and a
 Farewell.

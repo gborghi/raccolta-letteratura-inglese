@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 3)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 The thing is a vigil and a vigil with a definite limit. People sit up at
 
-night until they hear the bells ring. Or they try to sleep at night in
+[[Night|night]] until they hear [[The Bells|the bells]] ring. Or they try to [[Sleep|sleep]] at [[Night|night]] in
 
 order to see their presents the next morning. Everywhere there is a
 
@@ -32,7 +32,7 @@ instinct and the mother wit of the world has wisely put into the popular
 
 celebrations of Christmas, is also a quality which is essential in such
 
-romantic literature as Dickens wrote. In romantic literature the hero
+romantic literature as Dickens wrote. In romantic literature the [[Hero|hero]]
 
 and heroine must indeed be happy, but they must also be unexpectedly
 
@@ -46,9 +46,9 @@ Christmas.
 
 The second element to be found in all such festivity and all such
 
-romance is the element which is represented as well as it could be
+[[Romance|romance]] is the element which is represented as [[Well|well]] as it could be
 
-represented by the mere fact that Christmas occurs in the winter. It is
+represented by the mere fact that Christmas occurs in the [[Winter|winter]]. It is
 
 the element not merely of contrast, but actually of antagonism. It
 
@@ -58,7 +58,7 @@ of such ceremonies or such banquets. If we are carousing, at least we
 
 are warriors carousing. We hang above us, as it were, the shields and
 
-battle-axes with which we must do battle with the giants of the snow and
+battle-axes with which we must do battle with the giants of the [[Snow|snow]] and
 
 hail. All comfort must be based on discomfort. Man chooses when he
 
@@ -66,7 +66,7 @@ wishes to be most joyful the very moment when the whole material
 
 universe is most sad. It is this contradiction and mystical defiance
 
-which gives a quality of manliness and reality to the old winter feasts
+which gives a quality of manliness and reality to the old [[Winter|winter]] feasts
 
 which is not characteristic of the sunny felicities of the Earthly
 
@@ -80,7 +80,7 @@ artificially easy: on the contrary, it was rather to make everything
 
 artificially difficult. Idealism is not only expressed by shooting an
 
-arrow at the stars; the fundamental principle of idealism is also
+arrow at the [[Stars|stars]]; the fundamental principle of idealism is also
 
 expressed by putting a leg of mutton at the top of a greasy pole. There
 
@@ -100,19 +100,19 @@ the connection of this kind of historic instinct with a romantic writer
 
 like Dickens. The healthy novelist must always play snapdragon with his
 
-principal characters; he must always be snatching the hero and heroine
+principal characters; he must always be snatching the [[Hero|hero]] and heroine
 
-like raisins out of the fire.
+like raisins out of the [[Fire|fire]].
 
 
 
-The third great Christmas element is the element of the grotesque. The
+The third great Christmas element is the element of the [[Grotesque|grotesque]]. The
 
-grotesque is the natural expression of joy; and all the Utopias and new
+[[Grotesque|grotesque]] is the natural expression of joy; and all the Utopias and new
 
 Edens of the poets fail to give a real impression of enjoyment, very
 
-largely because they leave out the grotesque. A man in most modern
+largely because they leave out the [[Grotesque|grotesque]]. A man in most modern
 
 Utopias cannot really be happy; he is too dignified. A man in Morris's
 
@@ -122,13 +122,13 @@ decorative. When real human beings have real delights they tend to
 
 express them entirely in grotesques--I might almost say entirely in
 
-goblins. On Christmas Eve one may talk about ghosts so long as they are
+goblins. On Christmas Eve one may talk about [[Ghosts|ghosts]] so long as they are
 
-turnip ghosts. But one would not be allowed (I hope, in any decent
+turnip [[Ghosts|ghosts]]. But one would not be allowed (I [[Hope|hope]], in any decent
 
 family) to talk on Christmas Eve about astral bodies. The boar's head of
 
-old Yule-time was as grotesque as the donkey's head of Bottom the
+old Yule-[[Time|time]] was as [[Grotesque|grotesque]] as the [[donkey]]'s head of [[Bottom]] the
 
 Weaver. But there is only one set of goblins quite wild enough to
 
@@ -142,17 +142,17 @@ Arcadian poets and Arcadian painters have striven to express happiness
 
 by means of beautiful figures. Dickens understood that happiness is best
 
-expressed by ugly figures. In beauty, perhaps, there is something allied
+expressed by ugly figures. In [[Beauty|beauty]], perhaps, there is something allied
 
-to sadness; certainly there is something akin to joy in the grotesque,
+to sadness; certainly there is something akin to joy in the [[Grotesque|grotesque]],
 
 nay, in the uncouth. There is something mysteriously associated with
 
-happiness not only in the corpulence of Falstaff and the corpulence of
+happiness not only in the corpulence of [[Falstaff]] and the corpulence of
 
-Tony Weller, but even in the red nose of Bardolph or the red nose of Mr.
+[[Tony Weller]], but even in the red nose of Bardolph or the red nose of Mr.
 
-Stiggins. A thing of beauty is an inspiration for ever--a matter of
+Stiggins. A thing of [[Beauty|beauty]] is an inspiration for ever--a matter of
 
 meditation for ever. It is rather a thing of ugliness that is strictly a
 
@@ -166,7 +166,7 @@ two or three famous Yuletide tales--The _Christmas Carol_ and _The
 
 Chimes_ and _The Cricket on the Hearth_. Of these _The Christmas Carol_
 
-is beyond comparison the best as well as the most popular. Indeed,
+is beyond comparison the best as [[Well|well]] as the most popular. Indeed,
 
 Dickens is in so profound and spiritual a sense a popular author that in
 
@@ -174,13 +174,13 @@ his case, unlike most others, it can generally be said that the best
 
 work is the most popular. It is for _Pickwick_ that he is best known;
 
-and upon the whole it is for Pickwick that he is best worth knowing. In
+and upon the whole it is for [[Pickwick]] that he is best worth knowing. In
 
 any case this superiority of _The Christmas Carol_ makes it convenient
 
 for us to take it as an example of the generalisations already made. If
 
-we study the very real atmosphere of rejoicing and of riotous charity in
+we study the very real atmosphere of rejoicing and of riotous [[Charity|charity]] in
 
 _The Christmas Carol_ we shall find that all the three marks I have
 
@@ -188,9 +188,9 @@ mentioned are unmistakably visible. _The Christmas Carol_ is a happy
 
 story first, because it describes an abrupt and dramatic change. It is
 
-not only the story of a conversion, but of a sudden conversion; as
+not only the story of a [[conversion]], but of a sudden [[conversion]]; as
 
-sudden as the conversion of a man at a Salvation Army meeting. Popular
+sudden as the [[conversion]] of a man at a Salvation Army meeting. Popular
 
 religion is quite right in insisting on the fact of a crisis in most
 

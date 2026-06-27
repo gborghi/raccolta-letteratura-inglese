@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 7)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 A vacant and contemptuous laugh, was all his answer.
 
 “But, Mr. Redlaw,” said the student, “as a just man, and a good man,
-think how innocent I am, except in name and descent, of participation in
+think how [[Innocent|innocent]] I am, except in name and descent, of participation in
 any wrong inflicted on you or in any sorrow you have borne.”
 
 “Sorrow!” said Redlaw, laughing. “Wrong! What are those to me?”
@@ -36,11 +36,11 @@ from it, like the sun-beam of an instant, and it clouded as before.
 
 “The name my mother bears, sir,” faltered the young man, “the name she
 took, when she might, perhaps, have taken one more honoured. Mr.
-Redlaw,” hesitating, “I believe I know that history. Where my
+Redlaw,” hesitating, “I believe I know that [[history]]. Where my
 information halts, my guesses at what is wanting may supply something not
-remote from the truth. I am the child of a marriage that has not proved
-itself a well-assorted or a happy one. From infancy, I have heard you
-spoken of with honour and respect—with something that was almost
+remote from the [[Truth|truth]]. I am the [[Child|child]] of a [[Marriage|marriage]] that has not proved
+itself a [[Well|well]]-assorted or a happy one. From infancy, I have heard you
+spoken of with [[Honour|honour]] and respect—with something that was almost
 reverence. I have heard of such devotion, of such fortitude and
 tenderness, of such rising up against the obstacles which press men down,
 that my fancy, since I learnt my little lesson from my mother, has shed a
@@ -55,11 +55,11 @@ it has impressed me, and affected me, to find the gracious traces of the
 past, in that certain power of winning gratitude and confidence which is
 associated among us students (among the humblest of us, most) with Mr.
 Redlaw’s generous name. Our ages and positions are so different, sir,
-and I am so accustomed to regard you from a distance, that I wonder at my
+and I am so accustomed to regard you from a distance, that I [[Wonder|wonder]] at my
 own presumption when I touch, however lightly, on that theme. But to one
 who—I may say, who felt no common interest in my mother once—it may be
 something to hear, now that all is past, with what indescribable feelings
-of affection I have, in my obscurity, regarded him; with what pain and
+of affection I have, in my obscurity, regarded him; with what [[Pain|pain]] and
 reluctance I have kept aloof from his encouragement, when a word of it
 would have made me rich; yet how I have felt it fit that I should hold my
 course, content to know him, and to be unknown. Mr. Redlaw,” said the
@@ -79,7 +79,7 @@ his forehead.
 
 “The past is past,” said the Chemist. “It dies like the brutes. Who
 talks to me of its traces in my life? He raves or lies! What have I to
-do with your distempered dreams? If you want money, here it is. I came
+do with your distempered [[Dreams|dreams]]? If you want money, here it is. I came
 to offer it; and that is all I came for. There can be nothing else that
 brings me here,” he muttered, holding his head again, with both his
 hands. “There _can_ be nothing else, and yet—”
@@ -94,7 +94,7 @@ could take from me, with it, the remembrance of your words and offer.”
 
 “I do!”
 
-The Chemist went close to him, for the first time, and took the purse,
+The Chemist went close to him, for the first [[Time|time]], and took the purse,
 and turned him by the arm, and looked him in the face.
 
 “There is sorrow and trouble in sickness, is there not?” he demanded,
@@ -110,8 +110,8 @@ The student did not answer, but again passed his hand, confusedly, across
 his forehead. Redlaw still held him by the sleeve, when Milly’s voice
 was heard outside.
 
-“I can see very well now,” she said, “thank you, Dolf. Don’t cry, dear.
-Father and mother will be comfortable again, to-morrow, and home will be
+“I can see very [[Well|well]] now,” she said, “thank you, Dolf. Don’t cry, dear.
+Father and mother will be comfortable again, to-morrow, and [[Home|home]] will be
 comfortable too. A gentleman with him, is there!”
 
 Redlaw released his hold, as he listened.
@@ -129,7 +129,7 @@ muttered, looking uneasily around.
 She was knocking at the door again.
 
 “Of all the visitors who could come here,” he said, in a hoarse alarmed
-voice, turning to his companion, “this is the one I should desire most to
+voice, turning to his companion, “this is the one I should [[Desire|desire]] most to
 avoid. Hide me!”
 
 The student opened a frail door in the wall, communicating where the
@@ -139,7 +139,7 @@ Redlaw passed in hastily, and shut it after him.
 The student then resumed his place upon the couch, and called to her to
 enter.
 
-“Dear Mr. Edmund,” said Milly, looking round, “they told me there was a
+“Dear Mr. [[Edmund]],” said Milly, looking round, “they told me there was a
 gentleman here.”
 
 “There is no one here but I.”

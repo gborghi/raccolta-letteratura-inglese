@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 38: THIRTY EIGHT (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,12 +21,12 @@ that they were, secretly, essential parts of some great scheme which Mr
 Nadgett had on foot.
 
 It was on the morning of this very day on which so much had happened to
-Tom Pinch, that Nadgett suddenly appeared before Mr Montague’s house in
+[[Tom Pinch]], that Nadgett suddenly appeared before Mr Montague’s [[house]] in
 Pall Mall--he always made his appearance as if he had that moment come
 up a trap--when the clocks were striking nine. He rang the bell in a
 covert under-handed way, as though it were a treasonable act; and passed
 in at the door, the moment it was opened wide enough to receive his
-body. That done, he shut it immediately with his own hands.
+[[Body|body]]. That done, he shut it immediately with his own hands.
 
 Mr Bailey, taking up his name without delay, returned with a request
 that he would follow him into his master’s chamber. The chairman of the
@@ -34,7 +34,7 @@ Anglo-Bengalee Disinterested Loan and Life Assurance Board was dressing,
 and received him as a business person who was often backwards and
 forwards, and was received at all times for his business’ sake.
 
-‘Well, Mr Nadgett?’
+‘[[Well]], Mr Nadgett?’
 
 Mr Nadgett put his hat upon the ground and coughed. The boy having
 withdrawn and shut the door, he went to it softly, examined the handle,
@@ -45,13 +45,13 @@ sat.
 
 ‘I think we have some news at last, sir.’
 
-‘I am happy to hear it. I began to fear you were off the scent, Mr
+‘I am happy to hear it. I began to [[Fear|fear]] you were off the scent, Mr
 Nadgett.’
 
 ‘No, sir. It grows cold occasionally. It will sometimes. We can’t help
 that.’
 
-‘You are truth itself, Mr Nadgett. Do you report a great success?’
+‘You are [[Truth|truth]] itself, Mr Nadgett. Do you report a great [[success]]?’
 
 ‘That depends upon your judgment and construction of it,’ was his
 answer, as he put on his spectacles.
@@ -91,21 +91,21 @@ The chairman cast his eyes upon it, coldly, and with a smile which did
 not render any great homage to the slow and methodical habits of his
 spy. But he had not read half-a-dozen lines when the expression of his
 face began to change, and before he had finished the perusal of the
-paper, it was full of grave and serious attention.
+paper, it was full of [[Grave|grave]] and serious attention.
 
 ‘Number Two,’ said Mr Nadgett, handing him another, and receiving back
 the first. ‘Read Number Two, sir, if you please. There is more interest
 as you go on.’
 
 Tigg Montague leaned backward in his chair, and cast upon his emissary
-such a look of vacant wonder (not unmingled with alarm), that Mr Nadgett
+such a look of vacant [[Wonder|wonder]] (not unmingled with alarm), that Mr Nadgett
 considered it necessary to repeat the request he had already twice
 preferred; with the view to recalling his attention to the point in
 hand. Profiting by the hint, Mr Montague went on with Number Two, and
 afterwards with Numbers Three, and Four, and Five, and so on.
 
 These documents were all in Mr Nadgett’s writing, and were apparently a
-series of memoranda, jotted down from time to time upon the backs of old
+series of memoranda, jotted down from [[Time|time]] to [[Time|time]] upon the backs of old
 letters, or any scrap of paper that came first to hand. Loose straggling
 scrawls they were, and of very uninviting exterior; but they had weighty
 purpose in them, if the chairman’s face were any index to the character
@@ -118,8 +118,8 @@ them at his employer, and nervously rubbing his hands. After a little
 while, he changed his posture in his chair for one of greater ease, and
 leisurely perused the next document he held ready as if an occasional
 glance at his employer’s face were now enough and all occasion for
-anxiety or doubt were gone. And finally he rose and looked out of the
-window, where he stood with a triumphant air until Tigg Montague had
+anxiety or [[Doubt|doubt]] were gone. And finally he [[Rose|rose]] and looked out of the
+[[Window|window]], where he stood with a triumphant air until Tigg Montague had
 finished.
 
 ‘And this is the last, Mr Nadgett!’ said that gentleman, drawing a long
@@ -132,7 +132,7 @@ breath.
 ‘I think it is a pretty good case,’ he returned as he gathered up his
 papers. ‘It cost some trouble, sir.’
 
-‘The trouble shall be well rewarded, Mr Nadgett.’ Nadgett bowed. ‘There
+‘The trouble shall be [[Well|well]] rewarded, Mr Nadgett.’ Nadgett bowed. ‘There
 is a deeper impression of Somebody’s Hoof here, than I had expected, Mr
 Nadgett. I may congratulate myself upon your being such a good hand at a
 secret.’
@@ -145,5 +145,5 @@ make it known to you.’
 ‘A most invaluable constitution,’ Tigg retorted. ‘A great gift for a
 gentleman employed as you are, Mr Nadgett. Much better than discretion;
 though you possess that quality also in an eminent degree. I think I
-heard a double knock. Will you put your head out of window, and tell me
+heard a [[Double|double]] knock. Will you put your head out of [[Window|window]], and tell me
 whether there is anybody at the door?’

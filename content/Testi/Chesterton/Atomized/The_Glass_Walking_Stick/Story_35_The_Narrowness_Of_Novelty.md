@@ -30,16 +30,16 @@ not only by forgetting the past, but also by forgetting the future.
 There is a certain natural relief and refreshment in altering things,
 but a wise man will remember that the things that can be altered
 will be altered again.  There is a certain type of Modernist
-who manages to accept a thing at the same time as fashionable
+who manages to accept a thing at the same [[Time|time]] as fashionable
 and as final.  Indeed, there is a fine shade of difference between
 something new and something fresh.  The former word may be used
 of something like the New Testament, which is new for ever.
 But the idea of Something Fresh belongs rather to the exhilarating
 but less stable world of Mr P. G. Wodehouse.
 
-We pick up a novelty as we pick up a novel; because we think we
-shall enjoy it, especially if it is a novel by Mr P. G. Wodehouse.
-But these things are fresh as the flowers of spring are fresh;
+We pick up a novelty as we pick up a [[Novel|novel]]; because we think we
+shall enjoy it, especially if it is a [[Novel|novel]] by Mr P. G. Wodehouse.
+But these things are fresh as the [[Flowers|flowers]] of [[Spring|spring]] are fresh;
 that is, they are delightful when they come; but we do not
 disguise from ourselves that they will eventually go.
 Now it seems to me that much of the modern mind is narrowed
@@ -52,7 +52,7 @@ who does happen to answer at the moment to their mood,
 and perhaps to the mood of the world.  Thus a younger generation,
 which is now rapidly becoming an older generation,
 revolted against the Victorian poets, with a sort of illogical
-logic in their minds; to the effect that they could not
+[[logic]] in their minds; to the effect that they could not
 really have been poets because they were Victorians.
 They were not content to say, what is perfectly reasonable,
 that they were tired of Tennyson.  They tried to imply, what is
@@ -70,12 +70,12 @@ and new generations shall rise up and call him tiresome.
 But surely we cannot admit for a moment that the brilliant--
 nay, blazing--qualities of Mr Binks, his stabbing actuality,
 his subversive subconscious attack, his instant vortical violence,
-his cold incandescence of intellectuality, his death-ray
+his cold incandescence of intellectuality, his [[Death|death]]-ray
 of blank hiatus, his dynamite explosion of dots . . . surely we
 cannot admit for a moment that our own Mr Binks is worthless,
 or ever will be worthless, merely because the world will probably
 pass into some other emotional atmosphere, to which his terrific
-talents will be less suited; in which his unique type of truth
+talents will be less suited; in which his unique type of [[Truth|truth]]
 will be less seen; or in which his dazzling but concentrated
 spotlight will be less on the spot.  Yet these tides and times
 of mood and fashion are moving even as we talk about them.
@@ -96,15 +96,15 @@ will be tired of them.
 
 I do not call any man imaginative unless he can imagine
 something different from his own favourite sort of imagery.
-I do not call any man free unless he can walk backwards as well
+I do not call any man free unless he can walk backwards as [[Well|well]]
 as forwards.  I do not call any man broadminded unless he can
 include minds that are different from his own normal mind,
-let alone moods that are different from his own momentary mood.
+let [[Alone|alone]] moods that are different from his own momentary mood.
 And I do not call any man bold or strong or possessed
 of stabbing realism or startling actuality unless he is
 strong enough to resist the merely neurotic effects of his
 own fatigue, and still see things more or less as they are;
-big mountains as big, and great poets as great, and remarkable
+big [[Mountains|mountains]] as big, and great poets as great, and remarkable
 acts and achievements as remarkable, even if other people are
 bored with them, or even if he is bored with them himself.
 The preservation of proportion in the mind is the only thing
@@ -117,15 +117,15 @@ I object to this sort of concentration on the immortal instant,
 be cause it narrows the mind, just as gazing at a minute object,
 coming nearer and nearer, narrows the vision.
 
-What is wanted is the truly godlike imagination which
+What is wanted is the truly godlike [[Imagination|imagination]] which
 makes all things new, because all things have been new.
 That would really be something like a new power of the mind.
 But the modern version of broadening the mind has very little to do
 with broadening the powers of the mind.  It would be a great gift
-of historical imagination to be able to see everything that has
+of historical [[Imagination|imagination]] to be able to see everything that has
 happened as if it were just happening, or just about to happen.
-This is quite as true of literary as of political history.
-For literary history is full of revolutions, and we do not
+This is quite as true of literary as of political [[history]].
+For literary [[history]] is full of revolutions, and we do not
 realize them unless we realize them as revolutionary.
 To admire Wordsworth merely as an antiquity is stupid,
 and to despise Wordsworth as an antiquity is worse than stupid;
@@ -133,11 +133,11 @@ it is silly.  But to admire Wordsworth as a novelty--
 that would be a real vision and re-creation of the past.
 For it is solid fact, if any fact be solid, that nearly all
 the young who were most alert and alive, and eager for a sort of
-revolutionary refreshment, men like Lamb and Hazlitt and the rest,
+revolutionary refreshment, men like [[Lamb]] and Hazlitt and the rest,
 did feel something in the first fresh gust of the new naturalism;
 something even in the very baldness and crudity of Wordsworth's
 rural poetry, which made them feel that he had flung open
-the gates of freedom more widely than the French Revolution.
+the gates of [[Freedom|freedom]] more widely than the [[French Revolution]].
 I do not think it will be any injustice to Mr Binks
 (always supposing we give him also his proper welcome when
 he arrives) if we try to understand some of those feelings

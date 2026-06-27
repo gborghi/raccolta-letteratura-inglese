@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 17 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 17 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -44,7 +44,7 @@ have mentioned the party: it was for the sake of another of Mr.
 
 Wilmot’s guests, to wit Mr. Huntingdon. I have good reason to remember
 
-his presence there, for this was the last time I saw him.
+his presence there, for this was the last [[Time|time]] I saw him.
 
 
 
@@ -98,11 +98,11 @@ sat with Milicent Hargrave at the opposite end of the room, looking
 
 over the latter’s drawings, and aiding her with my critical
 
-observations and advice, at her particular desire. But in spite of my
+observations and advice, at her particular [[Desire|desire]]. But in spite of my
 
 efforts to remain composed, my attention wandered from the drawings to
 
-the merry group, and against my better judgment my wrath rose, and
+the merry group, and against my better judgment my wrath [[Rose|rose]], and
 
 doubtless my countenance lowered; for Milicent, observing that I must
 
@@ -126,7 +126,7 @@ which we sat.
 
 
 
-“Oh! well, let’s have a look at them.”
+“Oh! [[Well|well]], let’s have a look at them.”
 
 
 
@@ -138,7 +138,7 @@ drawings, one by one from my hand, successively scanned them over, and
 
 threw them on the table, but said not a word about them, though he was
 
-talking all the time. I don’t know what Milicent Hargrave thought of
+talking all the [[Time|time]]. I don’t know what Milicent Hargrave thought of
 
 such conduct, but _I_ found his conversation extremely interesting;
 
@@ -186,7 +186,7 @@ private thoughts.
 
 
 
-But I was not left long alone, for Mr. Wilmot, of all men the least
+But I was not left long [[Alone|alone]], for Mr. Wilmot, of all men the least
 
 welcome, took advantage of my isolated position to come and plant
 

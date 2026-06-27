@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Death Of An Artist"
+title: "Man Orthodox — [[Death]] Of An [[artist|Artist]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-DEATH OF AN ARTIST
+[[Death|DEATH]] OF AN [[artist|ARTIST]]
 
 The first impulse of any serious person on hearing that
 G. F. Watts is dead must of necessity be an impulse to say,
@@ -93,9 +93,9 @@ there is apparent this sudden and sacred impatience.
 Under the picture of `Mammon', under the picture of `The Minotaur',
 under the picture of anything evil in his gallery, seems printed
 in letters of fire `Shall this be endured for another moment?'
-And it was this innocent and startled wrath which was the note
-of the whole of Watts' age, the age of the Reform Bill.
-It was because the old political idealists had something of the child's
+And it was this [[Innocent|innocent]] and startled wrath which was the note
+of the whole of Watts' age, the age of the [[Reform]] Bill.
+It was because the old political idealists had something of the [[Child|child]]'s
 ignorance and horror of evil that they swept away so many abuses.
 Compare with some picture by Watts, which is full of a young
 and wide-eyed anger, some ultra-modern picture of an evil thing,
@@ -116,10 +116,10 @@ and painted `Absinthe', there would have been something fierce
 and insistent about the picture.  Something fiendish and strained
 in the faces would have declared that the situation was unnatural.
 Something bitter and burning in the green colour of that shameful
-wine would have shown like the green eyes of a witch's cat.
+wine would have shown like the green eyes of a [[Witch|witch]]'s cat.
 However dark and repulsive and merciless the picture might be,
 there would be something in it that suggested that it was dark
 against some white and blazing background, a background of
-the astonishment of the angels and the dreadful wonder of God.
+the astonishment of the angels and the dreadful [[Wonder|wonder]] of God.
 
                                                The Speaker, July 9th, 1904

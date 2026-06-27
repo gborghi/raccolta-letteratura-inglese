@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — UDFOG is a pleasant town—a remarkably pleasant town—situated in a (part 3)"
+title: "A [[Child]]'s [[history|History]] of England — UDFOG is a pleasant town—a remarkably pleasant town—situated in a (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -31,17 +31,17 @@ and a ready head, and could turn his hand to anything when he chose to do
 it.  He was by no means opposed to hard labour on principle, for he would
 work away at a cricket-match by the day together,—running, and catching,
 and batting, and bowling, and revelling in toil which would exhaust a
-galley-slave.  He would have been invaluable to a fire-office; never was
+galley-slave.  He would have been invaluable to a [[Fire|fire]]-office; never was
 a man with such a natural taste for pumping engines, running up ladders,
 and throwing furniture out of two-pair-of-stairs’ windows: nor was this
-the only element in which he was at home; he was a humane society in
+the only element in which he was at [[Home|home]]; he was a humane society in
 himself, a portable drag, an animated life-preserver, and had saved more
-people, in his time, from drowning, than the Plymouth life-boat, or
+people, in his [[Time|time]], from drowning, than the Plymouth life-boat, or
 Captain Manby’s apparatus.  With all these qualifications,
 notwithstanding his dissipation, Bottle-nosed Ned was a general
 favourite; and the authorities of Mudfog, remembering his numerous
 services to the population, allowed him in return to get drunk in his own
-way, without the fear of stocks, fine, or imprisonment.  He had a general
+way, without the [[Fear|fear]] of stocks, fine, or [[Imprisonment|imprisonment]].  He had a general
 licence, and he showed his sense of the compliment by making the most of
 it.
 
@@ -50,14 +50,14 @@ of Bottle-nosed Ned, because it enables us to introduce a fact politely,
 without hauling it into the reader’s presence with indecent haste by the
 head and shoulders, and brings us very naturally to relate, that on the
 very same evening on which Mr. Nicholas Tulrumble and family returned to
-Mudfog, Mr. Tulrumble’s new secretary, just imported from London, with a
-pale face and light whiskers, thrust his head down to the very bottom of
+Mudfog, Mr. Tulrumble’s new secretary, just imported from [[London]], with a
+pale face and light whiskers, thrust his head down to the very [[Bottom|bottom]] of
 his neckcloth-tie, in at the tap-room door of the Lighterman’s Arms, and
 inquiring whether one Ned Twigger was luxuriating within, announced
 himself as the bearer of a message from Nicholas Tulrumble, Esquire,
 requiring Mr. Twigger’s immediate attendance at the hall, on private and
 particular business.  It being by no means Mr. Twigger’s interest to
-affront the Mayor, he rose from the fireplace with a slight sigh, and
+affront the Mayor, he [[Rose|rose]] from the fireplace with a slight sigh, and
 followed the light-whiskered secretary through the dirt and wet of Mudfog
 streets, up to Mudfog Hall, without further ado.
 
@@ -66,10 +66,10 @@ which he called his library, sketching out a plan of the procession on a
 large sheet of paper; and into the cavern the secretary ushered Ned
 Twigger.
 
-‘Well, Twigger!’ said Nicholas Tulrumble, condescendingly.
+‘[[Well]], Twigger!’ said Nicholas Tulrumble, condescendingly.
 
-There was a time when Twigger would have replied, ‘Well, Nick!’ but that
-was in the days of the truck, and a couple of years before the donkey;
+There was a [[Time|time]] when Twigger would have replied, ‘[[Well]], Nick!’ but that
+was in the days of the truck, and a couple of years before the [[donkey]];
 so, he only bowed.
 
 ‘I want you to go into training, Twigger,’ said Mr. Tulrumble.
@@ -84,7 +84,7 @@ complete suit of brass armour, of gigantic dimensions.
 
 ‘I want you to wear this next Monday, Twigger,’ said the Mayor.
 
-‘Bless your heart and soul, sir!’ replied Ned, ‘you might as well ask me
+‘Bless your heart and [[Soul|soul]], sir!’ replied Ned, ‘you might as [[Well|well]] ask me
 to wear a seventy-four pounder, or a cast-iron boiler.’
 
 ‘Nonsense, Twigger, nonsense!’ said the Mayor.
@@ -93,11 +93,11 @@ to wear a seventy-four pounder, or a cast-iron boiler.’
 potatoes of me, if I attempted it.’
 
 ‘Pooh, pooh, Twigger!’ returned the Mayor.  ‘I tell you I have seen it
-done with my own eyes, in London, and the man wasn’t half such a man as
+done with my own eyes, in [[London]], and the man wasn’t half such a man as
 you are, either.’
 
 ‘I should as soon have thought of a man’s wearing the case of an
-eight-day clock to save his linen,’ said Twigger, casting a look of
+eight-day [[Clock|clock]] to save his linen,’ said Twigger, casting a look of
 apprehension at the brass suit.
 
 ‘It’s the easiest thing in the world,’ rejoined the Mayor.
@@ -133,7 +133,7 @@ not having a counteracting weight of brass on his legs.
 ‘And you must be sober,’ said Tulrumble; ‘perfectly sober.’  Mr. Twigger
 at once solemnly pledged himself to be as sober as a judge, and Nicholas
 Tulrumble was satisfied, although, had we been Nicholas, we should
-certainly have exacted some promise of a more specific nature; inasmuch
+certainly have exacted some promise of a more specific [[Nature|nature]]; inasmuch
 as, having attended the Mudfog assizes in the evening more than once, we
 can solemnly testify to having seen judges with very strong symptoms of
 dinner under their wigs.  However, that’s neither here nor there.

@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 4)"
+title: "Little Dorrit — Chapter 19: The Storming of the [[Castle]] in the Air (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -26,9 +26,9 @@ After which Mr Dorrit was seized with a doze for about a minute, out of
 which he sprang with spasmodic nimbleness.
 
 ‘I refer, Mrs General, to that--ha--strong spirit of opposition,
-or--hum--I might say--ha--jealousy in Fanny, which has occasionally
+or--hum--I might say--ha--[[Jealousy|jealousy]] in Fanny, which has occasionally
 risen against the--ha--sense I entertain of--hum--the claims of--ha--the
-lady with whom I have now the honour of communing.’
+lady with whom I have now the [[Honour|honour]] of communing.’
 
 ‘Mr Dorrit,’ returned Mrs General, ‘is ever but too obliging, ever but
 too appreciative. If there have been moments when I have imagined that
@@ -41,17 +41,17 @@ consolation and recompense.’
 ‘Of,’ Mrs General repeated, in an elegantly impressive manner, ‘my
 services.’
 
-‘Of your services alone, dear madam?’ said Mr Dorrit.
+‘Of your services [[Alone|alone]], dear madam?’ said Mr Dorrit.
 
 ‘I presume,’ retorted Mrs General, in her former impressive manner, ‘of
-my services alone. For, to what else,’ said Mrs General, with a slightly
+my services [[Alone|alone]]. For, to what else,’ said Mrs General, with a slightly
 interrogative action of her gloves, ‘could I impute--’
 
 ‘To--ha--yourself, Mrs General. Ha, hum. To yourself and your merits,’
 was Mr Dorrit’s rejoinder.
 
 ‘Mr Dorrit will pardon me,’ said Mrs General, ‘if I remark that this
-is not a time or place for the pursuit of the present conversation.
+is not a [[Time|time]] or place for the pursuit of the present conversation.
 Mr Dorrit will excuse me if I remind him that Miss Dorrit is in the
 adjoining room, and is visible to myself while I utter her name. Mr
 Dorrit will forgive me if I observe that I am agitated, and that I find
@@ -59,10 +59,10 @@ there are moments when weaknesses I supposed myself to have subdued,
 return with redoubled power. Mr Dorrit will allow me to withdraw.’
 
 ‘Hum. Perhaps we may resume this--ha--interesting conversation,’ said
-Mr Dorrit, ‘at another time; unless it should be, what I hope it is
+Mr Dorrit, ‘at another [[Time|time]]; unless it should be, what I [[Hope|hope]] it is
 not--hum--in any way disagreeable to--ah--Mrs General.’
 
-‘Mr Dorrit,’ said Mrs General, casting down her eyes as she rose with a
+‘Mr Dorrit,’ said Mrs General, casting down her eyes as she [[Rose|rose]] with a
 bend, ‘must ever claim my homage and obedience.’
 
 Mrs General then took herself off in a stately way, and not with that
@@ -70,19 +70,19 @@ amount of trepidation upon her which might have been expected in a less
 remarkable woman. Mr Dorrit, who had conducted his part of the dialogue
 with a certain majestic and admiring condescension--much as some people
 may be seen to conduct themselves in Church, and to perform their part
-in the service--appeared, on the whole, very well satisfied with himself
+in the service--appeared, on the whole, very [[Well|well]] satisfied with himself
 and with Mrs General too. On the return of that lady to tea, she had
 touched herself up with a little powder and pomatum, and was not without
 moral enchantment likewise: the latter showing itself in much sweet
 patronage of manner towards Miss Dorrit, and in an air of as tender
 interest in Mr Dorrit as was consistent with rigid propriety. At the
-close of the evening, when she rose to retire, Mr Dorrit took her by the
+close of the evening, when she [[Rose|rose]] to retire, Mr Dorrit took her by the
 hand as if he were going to lead her out into the Piazza of the people
 to walk a minuet by moonlight, and with great solemnity conducted her to
 the room door, where he raised her knuckles to his lips. Having parted
 from her with what may be conjectured to have been a rather bony kiss of
 a cosmetic flavour, he gave his daughter his blessing, graciously. And
-having thus hinted that there was something remarkable in the wind, he
+having thus hinted that there was something remarkable in the [[Wind|wind]], he
 again went to bed.
 
 He remained in the seclusion of his own chamber next morning; but, early
@@ -109,17 +109,17 @@ Dorrit, overshadowed by a large pair of black whiskers and a large white
 cravat, lost sight of her father altogether, until a servant put a scrap
 of paper in her hand, with a whispered request from Mrs Merdle that she
 would read it directly. Mrs Merdle had written on it in pencil, ‘Pray
-come and speak to Mr Dorrit, I doubt if he is well.’
+come and speak to Mr Dorrit, I [[Doubt|doubt]] if he is [[Well|well]].’
 
 She was hurrying to him, unobserved, when he got up out of his chair,
 and leaning over the table called to her, supposing her to be still in
 her place:
 
-‘Amy, Amy, my child!’
+‘Amy, Amy, my [[Child|child]]!’
 
 The action was so unusual, to say nothing of his strange eager
 appearance and strange eager voice, that it instantaneously caused a
-profound silence.
+profound [[Silence|silence]].
 
 ‘Amy, my dear,’ he repeated. ‘Will you go and see if Bob is on the
 lock?’
@@ -131,7 +131,7 @@ with me. I particularly wish to see Bob. Ha. Of all the turnkeys, he’s
 as much my friend as yours. See if Bob is in the lodge, and beg him to
 come to me.’
 
-All the guests were now in consternation, and everybody rose.
+All the guests were now in consternation, and everybody [[Rose|rose]].
 
 ‘Dear father, I am not there; I am here, by you.’
 

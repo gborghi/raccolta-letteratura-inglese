@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 51 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 51 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-‘Simon,’ said the locksmith gravely, ‘how comes it that you return home
-at this time of night, and in this condition? Give me an assurance that
+‘Simon,’ said the locksmith gravely, ‘how comes it that you return [[Home|home]]
+at this [[Time|time]] of [[Night|night]], and in this condition? Give me an assurance that
 you have not been among the rioters, and I am satisfied.’
 
-‘Sir,’ replied Mr Tappertit, with a contemptuous look, ‘I wonder at YOUR
+‘Sir,’ replied Mr Tappertit, with a contemptuous look, ‘I [[Wonder|wonder]] at YOUR
 assurance in making such demands.’
 
 ‘You have been drinking,’ said the locksmith.
 
 ‘As a general principle, and in the most offensive sense of the words,
-sir,’ returned his journeyman with great self-possession,
+sir,’ returned his journeyman with great [[Self|self]]-possession,
 ‘I consider you a liar. In that last observation you have
-unintentionally--unintentionally, sir,--struck upon the truth.’
+unintentionally--unintentionally, sir,--struck upon the [[Truth|truth]].’
 
 ‘Martha,’ said the locksmith, turning to his wife, and shaking his head
 sorrowfully, while a smile at the absurd figure beside him still played
 upon his open face, ‘I trust it may turn out that this poor lad is not
 the victim of the knaves and fools we have so often had words about, and
 who have done so much harm to-day. If he has been at Warwick Street or
-Duke Street to-night--’
+Duke Street to-[[Night|night]]--’
 
 ‘He has been at neither, sir,’ cried Mr Tappertit in a loud voice, which
 he suddenly dropped into a whisper as he repeated, with eyes fixed upon
@@ -42,18 +42,18 @@ the locksmith, ‘he has been at neither.’
 ‘I am glad of it, with all my heart,’ said the locksmith in a serious
 tone; ‘for if he had been, and it could be proved against him, Martha,
 your Great Association would have been to him the cart that draws men
-to the gallows and leaves them hanging in the air. It would, as sure as
+to the gallows and [[Leaves|leaves]] them hanging in the air. It would, as sure as
 we’re alive!’
 
 Mrs Varden was too much scared by Simon’s altered manner and appearance,
 and by the accounts of the rioters which had reached her ears that
-night, to offer any retort, or to have recourse to her usual matrimonial
+[[Night|night]], to offer any retort, or to have recourse to her usual matrimonial
 policy. Miss Miggs wrung her hands, and wept.
 
 ‘He was not at Duke Street, or at Warwick Street, G. Varden,’ said
 Simon, sternly; ‘but he WAS at Westminster. Perhaps, sir, he kicked a
 county member, perhaps, sir, he tapped a lord--you may stare, sir, I
-repeat it--blood flowed from noses, and perhaps he tapped a lord. Who
+repeat it--[[Blood|blood]] flowed from noses, and perhaps he tapped a lord. Who
 knows? This,’ he added, putting his hand into his waistcoat-pocket,
 and taking out a large tooth, at the sight of which both Miggs and Mrs
 Varden screamed, ‘this was a bishop’s. Beware, G. Varden!’
@@ -67,19 +67,19 @@ there, everybody saw me there. I was conspicuous, and prominent. I will
 abide the consequences.’
 
 The locksmith, really disturbed and agitated, paced to and fro in
-silence--glancing at his former ‘prentice every now and then--and at
+[[Silence|silence]]--glancing at his former ‘prentice every now and then--and at
 length stopping before him, said:
 
-‘Get to bed, and sleep for a couple of hours that you may wake penitent,
+‘Get to bed, and [[Sleep|sleep]] for a couple of hours that you may wake penitent,
 and with some of your senses about you. Be sorry for what you have
-done, and we will try to save you. If I call him by five o’clock,’ said
+done, and we will try to save you. If I call him by five o’[[Clock|clock]],’ said
 Varden, turning hurriedly to his wife, and he washes himself clean
 and changes his dress, he may get to the Tower Stairs, and away by the
 Gravesend tide-boat, before any search is made for him. From there he
 can easily get on to Canterbury, where your cousin will give him
-work till this storm has blown over. I am not sure that I do right in
+work till this [[Storm|storm]] has blown over. I am not sure that I do right in
 screening him from the punishment he deserves, but he has lived in this
-house, man and boy, for a dozen years, and I should be sorry if for this
+[[house]], man and boy, for a dozen years, and I should be sorry if for this
 one day’s work he made a miserable end. Lock the front-door, Miggs, and
 show no light towards the street when you go upstairs. Quick, Simon! Get
 to bed!’
@@ -96,7 +96,7 @@ consequence. The light here, Miggs!’
 
 Mr Tappertit stood upon his feet, and pushing his chair away to show
 that he needed no assistance, answered, swaying himself to and fro, and
-managing his head as if it had no connection whatever with his body:
+managing his head as if it had no connection whatever with his [[Body|body]]:
 
 ‘You spoke of Miggs, sir--Miggs may be smothered!’
 
@@ -105,16 +105,16 @@ sir! Oh goodness gracious, what a turn he has give me!’
 
 ‘This family may ALL be smothered, sir,’ returned Mr Tappertit, after
 glancing at her with a smile of ineffable disdain, ‘excepting Mrs V.
-I have come here, sir, for her sake, this night. Mrs Varden, take this
+I have come here, sir, for her sake, this [[Night|night]]. Mrs Varden, take this
 piece of paper. It’s a protection, ma’am. You may need it.’
 
 With these words he held out at arm’s length, a dirty, crumpled scrap of
 writing. The locksmith took it from him, opened it, and read as follows:
 
 
-‘All good friends to our cause, I hope will be particular, and do no
-injury to the property of any true Protestant. I am well assured that
-the proprietor of this house is a staunch and worthy friend to the
+‘All good friends to our cause, I [[Hope|hope]] will be particular, and do no
+injury to the property of any true Protestant. I am [[Well|well]] assured that
+the proprietor of this [[house]] is a staunch and worthy friend to the
 cause.
 
 GEORGE GORDON.’
@@ -124,14 +124,14 @@ GEORGE GORDON.’
 
 ‘Something that’ll do you good service, young feller,’ replied his
 journeyman, ‘as you’ll find. Keep that safe, and where you can lay your
-hand upon it in an instant. And chalk “No Popery” on your door to-morrow
-night, and for a week to come--that’s all.’
+hand upon it in an instant. And [[chalk]] “No Popery” on your door to-morrow
+[[Night|night]], and for a week to come--that’s all.’
 
 ‘This is a genuine document,’ said the locksmith, ‘I know, for I have
 seen the hand before. What threat does it imply? What devil is abroad?’
 
 ‘A fiery devil,’ retorted Sim; ‘a flaming, furious devil. Don’t you put
-yourself in its way, or you’re done for, my buck. Be warned in time, G.
+yourself in its way, or you’re done for, my buck. Be warned in [[Time|time]], G.
 Varden. Farewell!’
 
 But here the two women threw themselves in his way--especially Miss

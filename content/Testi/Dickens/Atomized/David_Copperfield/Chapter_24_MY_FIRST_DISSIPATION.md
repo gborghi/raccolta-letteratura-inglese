@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 24: MY FIRST DISSIPATION"
+title: "[[David Copperfield]] — Chapter 24: MY FIRST DISSIPATION"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,11 +17,11 @@ tags:
 CHAPTER 24. MY FIRST DISSIPATION
 
 
-It was a wonderfully fine thing to have that lofty castle to myself, and
+It was a wonderfully fine thing to have that lofty [[Castle|castle]] to myself, and
 to feel, when I shut my outer door, like Robinson Crusoe, when he had
 got into his fortification, and pulled his ladder up after him. It was a
-wonderfully fine thing to walk about town with the key of my house in my
-pocket, and to know that I could ask any fellow to come home, and make
+wonderfully fine thing to walk about town with the key of my [[house]] in my
+pocket, and to know that I could ask any fellow to come [[Home|home]], and make
 quite sure of its being inconvenient to nobody, if it were not so to me.
 It was a wonderfully fine thing to let myself in and out, and to come
 and go without a word to anyone, and to ring Mrs. Crupp up, gasping,
@@ -32,7 +32,7 @@ too, that there were times when it was very dreary.
 It was fine in the morning, particularly in the fine mornings. It looked
 a very fresh, free life, by daylight: still fresher, and more free, by
 sunlight. But as the day declined, the life seemed to go down too. I
-don’t know how it was; it seldom looked well by candle-light. I wanted
+don’t know how it was; it seldom looked [[Well|well]] by candle-light. I wanted
 somebody to talk to, then. I missed Agnes. I found a tremendous blank,
 in the place of that smiling repository of my confidence. Mrs. Crupp
 appeared to be a long way off. I thought about my predecessor, who had
@@ -46,9 +46,9 @@ own youthfulness as ever.
 Steerforth not yet appearing, which induced me to apprehend that he must
 be ill, I left the Commons early on the third day, and walked out to
 Highgate. Mrs. Steerforth was very glad to see me, and said that he had
-gone away with one of his Oxford friends to see another who lived near
+gone away with one of his [[Oxford]] friends to see another who lived near
 St. Albans, but that she expected him to return tomorrow. I was so fond
-of him, that I felt quite jealous of his Oxford friends.
+of him, that I felt quite jealous of his [[Oxford]] friends.
 
 As she pressed me to stay to dinner, I remained, and I believe we talked
 about nothing but him all day. I told her how much the people liked him
@@ -58,10 +58,10 @@ in all our proceedings there, and said, ‘Was it really though?’ and so
 forth, so often, that she got everything out of me she wanted to know.
 Her appearance was exactly what I have described it, when I first saw
 her; but the society of the two ladies was so agreeable, and came so
-natural to me, that I felt myself falling a little in love with her. I
+natural to me, that I felt myself falling a little in [[Love|love]] with her. I
 could not help thinking, several times in the course of the evening, and
-particularly when I walked home at night, what delightful company she
-would be in Buckingham Street.
+particularly when I walked [[Home|home]] at [[Night|night]], what delightful company she
+would be in [[Buckingham]] Street.
 
 I was taking my coffee and roll in the morning, before going to the
 Commons--and I may observe in this place that it is surprising how
@@ -72,12 +72,12 @@ Steerforth himself walked in, to my unbounded joy.
 again!’
 
 ‘I was carried off, by force of arms,’ said Steerforth, ‘the very next
-morning after I got home. Why, Daisy, what a rare old bachelor you are
+morning after I got [[Home|home]]. Why, Daisy, what a rare old bachelor you are
 here!’
 
 I showed him over the establishment, not omitting the pantry, with no
-little pride, and he commended it highly. ‘I tell you what, old boy,’ he
-added, ‘I shall make quite a town-house of this place, unless you give
+little [[Pride|pride]], and he commended it highly. ‘I tell you what, old boy,’ he
+added, ‘I shall make quite a town-[[house]] of this place, unless you give
 me notice to quit.’
 
 This was a delightful hearing. I told him if he waited for that, he
@@ -88,7 +88,7 @@ bell-rope, ‘and Mrs. Crupp shall make you some fresh coffee, and I’ll
 toast you some bacon in a bachelor’s Dutch-oven, that I have got here.’
 
 ‘No, no!’ said Steerforth. ‘Don’t ring! I can’t! I am going to breakfast
-with one of these fellows who is at the Piazza Hotel, in Covent Garden.’
+with one of these fellows who is at the Piazza Hotel, in Covent [[Garden]].’
 
 ‘But you’ll come back to dinner?’ said I.
 
@@ -103,15 +103,15 @@ come?’
 inconvenience you. You had better come and dine with us somewhere.’
 
 I would not by any means consent to this, for it occurred to me that I
-really ought to have a little house-warming, and that there never
-could be a better opportunity. I had a new pride in my rooms after
-his approval of them, and burned with a desire to develop their utmost
+really ought to have a little [[house]]-warming, and that there never
+could be a better opportunity. I had a new [[Pride|pride]] in my rooms after
+his approval of them, and burned with a [[Desire|desire]] to develop their utmost
 resources. I therefore made him promise positively in the names of his
-two friends, and we appointed six o’clock as the dinner-hour.
+two friends, and we appointed six o’[[Clock|clock]] as the dinner-hour.
 
 When he was gone, I rang for Mrs. Crupp, and acquainted her with my
 desperate design. Mrs. Crupp said, in the first place, of course it was
-well known she couldn’t be expected to wait, but she knew a handy young
+[[Well|well]] known she couldn’t be expected to wait, but she knew a handy young
 man, who she thought could be prevailed upon to do it, and whose terms
 would be five shillings, and what I pleased. I said, certainly we would
 have him. Next Mrs. Crupp said it was clear she couldn’t be in two
@@ -125,7 +125,7 @@ and THAT was settled. Then Mrs. Crupp said, Now about the dinner.
 It was a remarkable instance of want of forethought on the part of the
 ironmonger who had made Mrs. Crupp’s kitchen fireplace, that it was
 capable of cooking nothing but chops and mashed potatoes. As to a
-fish-kittle, Mrs. Crupp said, well! would I only come and look at the
+fish-kittle, Mrs. Crupp said, [[Well|well]]! would I only come and look at the
 range? She couldn’t say fairer than that. Would I come and look at
 it? As I should not have been much the wiser if I HAD looked at it, I
 declined, and said, ‘Never mind fish.’ But Mrs. Crupp said, Don’t say
@@ -136,11 +136,11 @@ vegetables--from the pastry-cook’s; two little corner things, as a
 raised pie and a dish of kidneys--from the pastrycook’s; a tart, and (if
 I liked) a shape of jelly--from the pastrycook’s. This, Mrs. Crupp said,
 would leave her at full liberty to concentrate her mind on the potatoes,
-and to serve up the cheese and celery as she could wish to see it done.
+and to serve up the [[cheese]] and celery as she could wish to see it done.
 
 I acted on Mrs. Crupp’s opinion, and gave the order at the pastry-cook’s
 myself. Walking along the Strand, afterwards, and observing a hard
-mottled substance in the window of a ham and beef shop, which resembled
+mottled substance in the [[Window|window]] of a ham and beef shop, which resembled
 marble, but was labelled ‘Mock Turtle’, I went in and bought a slab of
 it, which I have since seen reason to believe would have sufficed for
 fifteen people. This preparation, Mrs. Crupp, after some difficulty,
@@ -148,8 +148,8 @@ consented to warm up; and it shrunk so much in a liquid state, that we
 found it what Steerforth called ‘rather a tight fit’ for four.
 
 These preparations happily completed, I bought a little dessert in
-Covent Garden Market, and gave a rather extensive order at a retail
-wine-merchant’s in that vicinity. When I came home in the afternoon, and
+Covent [[Garden]] Market, and gave a rather extensive order at a retail
+wine-merchant’s in that vicinity. When I came [[Home|home]] in the afternoon, and
 saw the bottles drawn up in a square on the pantry floor, they looked
 so numerous (though there were two missing, which made Mrs. Crupp very
 uncomfortable), that I was absolutely frightened at them.
@@ -161,26 +161,26 @@ more than twenty. I observed that the latter always spoke of himself
 indefinitely, as ‘a man’, and seldom or never in the first person
 singular.
 
-‘A man might get on very well here, Mr. Copperfield,’ said
+‘A man might get on very [[Well|well]] here, Mr. Copperfield,’ said
 Markham--meaning himself.
 
 ‘It’s not a bad situation,’ said I, ‘and the rooms are really
 commodious.’
 
-‘I hope you have both brought appetites with you?’ said Steerforth.
+‘I [[Hope|hope]] you have both brought appetites with you?’ said Steerforth.
 
-‘Upon my honour,’ returned Markham, ‘town seems to sharpen a man’s
+‘Upon my [[Honour|honour]],’ returned Markham, ‘town seems to sharpen a man’s
 appetite. A man is hungry all day long. A man is perpetually eating.’
 
 Being a little embarrassed at first, and feeling much too young to
 preside, I made Steerforth take the head of the table when dinner was
 announced, and seated myself opposite to him. Everything was very good;
 we did not spare the wine; and he exerted himself so brilliantly to make
-the thing pass off well, that there was no pause in our festivity. I was
+the thing pass off [[Well|well]], that there was no pause in our festivity. I was
 not quite such good company during dinner as I could have wished to be,
 for my chair was opposite the door, and my attention was distracted by
 observing that the handy young man went out of the room very often, and
-that his shadow always presented itself, immediately afterwards, on the
+that his [[Shadow|shadow]] always presented itself, immediately afterwards, on the
 wall of the entry, with a bottle at its mouth. The ‘young gal’ likewise
 occasioned me some uneasiness: not so much by neglecting to wash the
 plates, as by breaking them. For being of an inquisitive disposition,
@@ -201,7 +201,7 @@ I began, by being singularly cheerful and light-hearted; all sorts of
 half-forgotten things to talk about, came rushing into my mind, and made
 me hold forth in a most unwonted manner. I laughed heartily at my own
 jokes, and everybody else’s; called Steerforth to order for not passing
-the wine; made several engagements to go to Oxford; announced that
+the wine; made several engagements to go to [[Oxford]]; announced that
 I meant to have a dinner-party exactly like that, once a week, until
 further notice; and madly took so much snuff out of Grainger’s box, that
 I was obliged to go into the pantry, and have a private fit of sneezing
@@ -221,11 +221,11 @@ hands with him, and I said (in two words)
 ‘Steerforth--you’retheguidingstarofmyexistence.’
 
 I went on, by finding suddenly that somebody was in the middle of a
-song. Markham was the singer, and he sang ‘When the heart of a man is
+[[Song|song]]. Markham was the singer, and he sang ‘When the heart of a man is
 depressed with care’. He said, when he had sung it, he would give us
 ‘Woman!’ I took objection to that, and I couldn’t allow it. I said
 it was not a respectful way of proposing the toast, and I would never
-permit that toast to be drunk in my house otherwise than as ‘The
+permit that toast to be drunk in my [[house]] otherwise than as ‘The
 Ladies!’ I was very high with him, mainly I think because I saw
 Steerforth and Grainger laughing at me--or at him--or at both of us. He
 said a man was not to be dictated to. I said a man was. He said a man
@@ -236,14 +236,14 @@ that I was a devilish good fellow. I instantly proposed his health.
 
 Somebody was smoking. We were all smoking. I was smoking, and trying
 to suppress a rising tendency to shudder. Steerforth had made a speech
-about me, in the course of which I had been affected almost to tears.
+about me, in the course of which I had been affected almost to [[Tears|tears]].
 I returned thanks, and hoped the present company would dine with me
-tomorrow, and the day after--each day at five o’clock, that we might
+tomorrow, and the day after--each day at five o’[[Clock|clock]], that we might
 enjoy the pleasures of conversation and society through a long evening.
 I felt called upon to propose an individual. I would give them my aunt.
-Miss Betsey Trotwood, the best of her sex!
+Miss [[Betsey Trotwood]], the best of her sex!
 
-Somebody was leaning out of my bedroom window, refreshing his forehead
+Somebody was leaning out of my bedroom [[Window|window]], refreshing his forehead
 against the cool stone of the parapet, and feeling the air upon his
 face. It was myself. I was addressing myself as ‘Copperfield’, and
 saying, ‘Why did you try to smoke? You might have known you couldn’t
@@ -257,17 +257,17 @@ no bedroom before me, but again the jingling table covered with glasses;
 the lamp; Grainger on my right hand, Markham on my left, and Steerforth
 opposite--all sitting in a mist, and a long way off. The theatre? To
 be sure. The very thing. Come along! But they must excuse me if I saw
-everybody out first, and turned the lamp off--in case of fire.
+everybody out first, and turned the lamp off--in case of [[Fire|fire]].
 
 Owing to some confusion in the dark, the door was gone. I was feeling
-for it in the window-curtains, when Steerforth, laughing, took me by
+for it in the [[Window|window]]-curtains, when Steerforth, laughing, took me by
 the arm and led me out. We went downstairs, one behind another. Near
-the bottom, somebody fell, and rolled down. Somebody else said it was
+the [[Bottom|bottom]], somebody fell, and rolled down. Somebody else said it was
 Copperfield. I was angry at that false report, until, finding myself on
 my back in the passage, I began to think there might be some foundation
 for it.
 
-A very foggy night, with great rings round the lamps in the streets!
+A very foggy [[Night|night]], with great rings round the lamps in the streets!
 There was an indistinct talk of its being wet. I considered it frosty.
 Steerforth dusted me under a lamp-post, and put my hat into shape, which
 somebody produced from somewhere in a most extraordinary manner, for
@@ -293,11 +293,11 @@ where the ladies were. A gentleman lounging, full dressed, on a sofa,
 with an opera-glass in his hand, passed before my view, and also my own
 figure at full length in a glass. Then I was being ushered into one of
 these boxes, and found myself saying something as I sat down, and people
-about me crying ‘Silence!’ to somebody, and ladies casting indignant
+about me crying ‘[[Silence]]!’ to somebody, and ladies casting indignant
 glances at me, and--what! yes!--Agnes, sitting on the seat before me, in
 the same box, with a lady and gentleman beside her, whom I didn’t
 know. I see her face now, better than I did then, I dare say, with its
-indelible look of regret and wonder turned upon me.
+indelible look of regret and [[Wonder|wonder]] turned upon me.
 
 ‘Agnes!’ I said, thickly, ‘Lorblessmer! Agnes!’
 
@@ -324,22 +324,22 @@ and replied in a low tone:
 
 ‘I know you will do as I ask you, if I tell you I am very earnest in
 it. Go away now, Trotwood, for my sake, and ask your friends to take you
-home.’
+[[Home|home]].’
 
-She had so far improved me, for the time, that though I was angry with
+She had so far improved me, for the [[Time|time]], that though I was angry with
 her, I felt ashamed, and with a short ‘Goori!’ (which I intended for
-‘Good night!’) got up and went away. They followed, and I stepped at
+‘Good [[Night|night]]!’) got up and went away. They followed, and I stepped at
 once out of the box-door into my bedroom, where only Steerforth was with
 me, helping me to undress, and where I was by turns telling him that
 Agnes was my sister, and adjuring him to bring the corkscrew, that I
 might open another bottle of wine.
 
 How somebody, lying in my bed, lay saying and doing all this over again,
-at cross purposes, in a feverish dream all night--the bed a rocking sea
+at [[Cross|cross]] purposes, in a feverish dream all [[Night|night]]--the bed a rocking sea
 that was never still! How, as that somebody slowly settled down into
 myself, did I begin to parch, and feel as if my outer covering of skin
-were a hard board; my tongue the bottom of an empty kettle, furred with
-long service, and burning up over a slow fire; the palms of my hands,
+were a hard board; my tongue the [[Bottom|bottom]] of an empty kettle, furred with
+long service, and burning up over a slow [[Fire|fire]]; the palms of my hands,
 hot plates of metal which no ice could cool!
 
 But the agony of mind, the remorse, and shame I felt when I became
@@ -347,17 +347,17 @@ conscious next day! My horror of having committed a thousand offences I
 had forgotten, and which nothing could ever expiate--my recollection
 of that indelible look which Agnes had given me--the torturing
 impossibility of communicating with her, not knowing, Beast that I was,
-how she came to be in London, or where she stayed--my disgust of
+how she came to be in [[London]], or where she stayed--my disgust of
 the very sight of the room where the revel had been held--my racking
 head--the smell of smoke, the sight of glasses, the impossibility of
 going out, or even getting up! Oh, what a day it was!
 
-Oh, what an evening, when I sat down by my fire to a basin of mutton
+Oh, what an evening, when I sat down by my [[Fire|fire]] to a basin of mutton
 broth, dimpled all over with fat, and thought I was going the way of my
-predecessor, and should succeed to his dismal story as well as to his
+predecessor, and should succeed to his dismal story as [[Well|well]] as to his
 chambers, and had half a mind to rush express to Dover and reveal
 all! What an evening, when Mrs. Crupp, coming in to take away the
-broth-basin, produced one kidney on a cheese-plate as the entire remains
+broth-basin, produced one kidney on a [[cheese]]-plate as the entire remains
 of yesterday’s feast, and I was really inclined to fall upon her nankeen
 breast and say, in heartfelt penitence, ‘Oh, Mrs. Crupp, Mrs. Crupp,
 never mind the broken meats! I am very miserable!’--only that I doubted,

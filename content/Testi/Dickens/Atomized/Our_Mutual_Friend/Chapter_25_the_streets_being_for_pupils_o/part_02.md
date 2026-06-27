@@ -15,7 +15,7 @@ tags:
 
 
 ‘I do not say so, because I do not know. I put it to you. I ask you to
-think of it. I want you to consider. You know how well you are doing
+think of it. I want you to consider. You know how [[Well|well]] you are doing
 here.’
 
 ‘After all, she got me here,’ said the boy, with a struggle.
@@ -24,7 +24,7 @@ here.’
 making up her mind fully to the separation. Yes.’
 
 The boy, with a return of that former reluctance or struggle or whatever
-it was, seemed to debate with himself. At length he said, raising his
+it was, seemed to [[debate]] with himself. At length he said, raising his
 eyes to the master’s face:
 
 ‘I wish you’d come with me and see her, Mr Headstone, though she is not
@@ -39,16 +39,16 @@ Headstone. What she is, she is, and shows herself to be. There’s no
 pretending about my sister.’
 
 His confidence in her, sat more easily upon him than the indecision with
-which he had twice contended. It was his better nature to be true to
-her, if it were his worse nature to be wholly selfish. And as yet the
-better nature had the stronger hold.
+which he had twice contended. It was his better [[Nature|nature]] to be true to
+her, if it were his worse [[Nature|nature]] to be wholly selfish. And as yet the
+better [[Nature|nature]] had the stronger hold.
 
-‘Well, I can spare the evening,’ said the schoolmaster. ‘I am ready to
+‘[[Well]], I can spare the evening,’ said the schoolmaster. ‘I am ready to
 walk with you.’
 
 ‘Thank you, Mr Headstone. And I am ready to go.’
 
-Bradley Headstone, in his decent black coat and waistcoat, and decent
+[[Bradley Headstone]], in his decent black coat and waistcoat, and decent
 white shirt, and decent formal black tie, and decent pantaloons of
 pepper and salt, with his decent silver watch in his pocket and its
 decent hair-guard round his neck, looked a thoroughly decent young man
@@ -57,12 +57,12 @@ was a certain stiffness in his manner of wearing this, as if there were
 a want of adaptation between him and it, recalling some mechanics in
 their holiday clothes. He had acquired mechanically a great store of
 teacher’s knowledge. He could do mental arithmetic mechanically, sing
-at sight mechanically, blow various wind instruments mechanically, even
-play the great church organ mechanically. From his early childhood up,
+at sight mechanically, blow various [[Wind|wind]] instruments mechanically, even
+play the great church organ mechanically. From his early [[Childhood|childhood]] up,
 his mind had been a place of mechanical stowage. The arrangement of
 his wholesale warehouse, so that it might be always ready to meet the
-demands of retail dealers—history here, geography there, astronomy to
-the right, political economy to the left—natural history, the physical
+demands of retail dealers—[[history]] here, geography there, astronomy to
+the right, political economy to the left—natural [[history]], the physical
 sciences, figures, music, the lower mathematics, and what not, all in
 their several places—this care had imparted to his countenance a look
 of care; while the habit of questioning and being questioned had given
@@ -77,9 +77,9 @@ himself.
 Suppression of so much to make room for so much, had given him a
 constrained manner, over and above. Yet there was enough of what was
 animal, and of what was fiery (though smouldering), still visible in
-him, to suggest that if young Bradley Headstone, when a pauper lad, had
+him, to suggest that if young [[Bradley Headstone]], when a pauper lad, had
 chanced to be told off for the sea, he would not have been the last man
-in a ship’s crew. Regarding that origin of his, he was proud, moody, and
+in a [[Ship|ship]]’s crew. Regarding that origin of his, he was proud, moody, and
 sullen, desiring it to be forgotten. And few people knew of it.
 
 In some visits to the Jumble his attention had been attracted to this
@@ -89,34 +89,34 @@ consideration, there may have been some thought of the pauper lad now
 never to be mentioned. Be that how it might, he had with pains gradually
 worked the boy into his own school, and procured him some offices to
 discharge there, which were repaid with food and lodging. Such were the
-circumstances that had brought together, Bradley Headstone and young
-Charley Hexam that autumn evening. Autumn, because full half a year had
-come and gone since the bird of prey lay dead upon the river-shore.
+circumstances that had brought together, [[Bradley Headstone]] and young
+Charley Hexam that [[Autumn|autumn]] evening. [[Autumn]], because full half a year had
+come and gone since the bird of prey lay dead upon the [[River|river]]-shore.
 
 The schools—for they were twofold, as the sexes—were down in that
-district of the flat country tending to the Thames, where Kent and
+district of the flat country tending to the Thames, where [[Kent]] and
 Surrey meet, and where the railways still bestride the market-gardens
 that will soon die under them. The schools were newly built, and there
 were so many like them all over the country, that one might have thought
 the whole were but one restless edifice with the locomotive gift of
 Aladdin’s palace. They were in a neighbourhood which looked like a toy
-neighbourhood taken in blocks out of a box by a child of particularly
+neighbourhood taken in blocks out of a box by a [[Child|child]] of particularly
 incoherent mind, and set up anyhow; here, one side of a new street;
-there, a large solitary public-house facing nowhere; here, another
+there, a large solitary public-[[house]] facing nowhere; here, another
 unfinished street already in ruins; there, a church; here, an immense
 new warehouse; there, a dilapidated old country villa; then, a medley
 of black ditch, sparkling cucumber-frame, rank field, richly cultivated
-kitchen-garden, brick viaduct, arch-spanned canal, and disorder of
-frowziness and fog. As if the child had given the table a kick, and gone
-to sleep.
+kitchen-[[Garden|garden]], brick viaduct, arch-spanned canal, and disorder of
+frowziness and fog. As if the [[Child|child]] had given the table a kick, and gone
+to [[Sleep|sleep]].
 
 But, even among school-buildings, school-teachers, and school-pupils,
 all according to pattern and all engendered in the light of the latest
 Gospel according to Monotony, the older pattern into which so many
 fortunes have been shaped for good and evil, comes out. It came out in
-Miss Peecher the schoolmistress, watering her flowers, as Mr Bradley
+Miss Peecher the schoolmistress, watering her [[Flowers|flowers]], as Mr Bradley
 Headstone walked forth. It came out in Miss Peecher the schoolmistress,
-watering the flowers in the little dusty bit of garden attached to her
+watering the [[Flowers|flowers]] in the little dusty bit of [[Garden|garden]] attached to her
 small official residence, with little windows like the eyes in needles,
 and little doors like the covers of school-books.
 
@@ -124,13 +124,13 @@ Small, shining, neat, methodical, and buxom was Miss Peecher;
 cherry-cheeked and tuneful of voice. A little pincushion, a little
 housewife, a little book, a little workbox, a little set of tables and
 weights and measures, and a little woman, all in one. She could write
-a little essay on any subject, exactly a slate long, beginning at the
-left-hand top of one side and ending at the right-hand bottom of the
-other, and the essay should be strictly according to rule. If Mr Bradley
-Headstone had addressed a written proposal of marriage to her, she would
-probably have replied in a complete little essay on the theme exactly a
+a little [[Essay|essay]] on any subject, exactly a slate long, beginning at the
+left-hand top of one side and ending at the right-hand [[Bottom|bottom]] of the
+other, and the [[Essay|essay]] should be strictly according to rule. If Mr Bradley
+Headstone had addressed a written proposal of [[Marriage|marriage]] to her, she would
+probably have replied in a complete little [[Essay|essay]] on the theme exactly a
 slate long, but would certainly have replied Yes. For she loved him. The
 decent hair-guard that went round his neck and took care of his decent
 silver watch was an object of envy to her. So would Miss Peecher have
 gone round his neck and taken care of him. Of him, insensible. Because
-he did not love Miss Peecher.
+he did not [[Love|love]] Miss Peecher.

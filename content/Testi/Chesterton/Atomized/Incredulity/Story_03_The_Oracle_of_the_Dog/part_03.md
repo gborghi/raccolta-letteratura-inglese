@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Oracle of the Dog (part 3)"
+title: "[[Incredulity]] — The Oracle of the Dog (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -15,27 +15,27 @@ tags:
 
 
 `I'll tell you what happened then,' said Fiennes with a grim emphasis.
-`When we got back into that garden the first thing we saw
+`When we got back into that [[Garden|garden]] the first thing we saw
 was Traill, the lawyer; I can see him now with his black hat
 and black whiskers relieved against the perspective of the blue
-flowers stretching down to the summer--house, with the sunset
+[[Flowers|flowers]] stretching down to the [[Summer|summer]]--[[house]], with the sunset
 and the strange outline of the Rock of Fortune in the distance.
-His face and figure were in shadow against the sunset; but I swear
+His face and figure were in [[Shadow|shadow]] against the sunset; but I swear
 the white teeth were showing in his head and he was smiling.
 The moment Nox saw that man the dog dashed forward and stood in the middle
 of the path barking at him madly, murderously, volleying out curses
 that were almost verbal in their dreadful distinctness of hatred.
-And the man doubled up and fled, along the path between the flowers.'
+And the man doubled up and fled, along the path between the [[Flowers|flowers]].'
 
-Father Brown sprang to his feet with a startling impatience.
+[[Father Brown]] sprang to his feet with a startling impatience.
 `So the dog denounced him, did he?' he cried.  `The oracle
-of the dog condemned him.  Did you see what birds were flying,
+of the dog condemned him.  Did you see what [[Birds|birds]] were flying,
 and are you sure whether they were on the right hand or the left?
 Did you consult the augurs about the sacrifices?  Surely you
 didn't omit to cut open the dog and examine his entrails.
 That is the sort of scientific test you heathen humanitarians
 seem to trust when you are thinking of taking away the life
-and honour of a man.'
+and [[Honour|honour]] of a man.'
 
 Fiennes sat gaping for an instant before he found breath to say:
 `Why, what's the matter with you?  What have I done now?'
@@ -67,7 +67,7 @@ The whole house, garden, and shore were combed for a weapon.
 The disappearance of the dagger is almost as crazy as the
 disappearance of the man.'
 
-`The disappearance of the dagger,' said Father Brown, nodding.
+`The disappearance of the dagger,' said [[Father Brown]], nodding.
 He seemed to have become suddenly attentive.
 
 `Well,' continued Fiennes, `I told you that man Traill had a trick
@@ -75,12 +75,12 @@ of fidgeting with his tie and tie--pin--especially his tie--pin.
 His pin, like himself, was at once showy and old--fashioned.
 It had one of those stones with concentric coloured rings that look
 like an eye; and his own concentration on it got on my nerves,
-as if he had been a Cyclops with one eye in the middle of his body.
+as if he had been a Cyclops with one eye in the middle of his [[Body|body]].
 But the pin was not only large but long; and it occurred to me
 that his anxiety about its adjustment was because it was even longer
 than it looked; as long as a stiletto in fact.'
 
-Father Brown nodded thoughtfully.  `Was any other instrument
+[[Father Brown]] nodded thoughtfully.  `Was any other instrument
 ever suggested?' he asked.
 
 `There was another suggestion,' answered Fiennes,
@@ -128,5 +128,5 @@ There was a short silence, and then Father Brown said suddenly;
 `He fold us the Colonel sent for him to alter his will,'
 answered Fiennes.  `And, by the way, there was another thing
 about the business of the will that I ought to mention.
-You see, the will wasn't actually signed in the summer--
-house that afternoon.'
+You see, the will wasn't actually signed in the [[Summer|summer]]--
+[[house]] that afternoon.'

@@ -24,7 +24,7 @@ horizon of which was fringed with the far-off woods of the famous
 
 estate of Torwood Park. He was a good-looking young man in tweeds,
 
-with very pale curly hair and pale clear eyes. Walking in wind and
+with very pale curly hair and pale clear eyes. Walking in [[Wind|wind]] and
 
 sun in the very landscape of liberty, he was still young enough to
 
@@ -42,7 +42,7 @@ promising a penman. Harold March was the sort of man who knows
 
 everything about politics, and nothing about politicians. He also
 
-knew a great deal about art, letters, philosophy, and general
+knew a great deal about art, letters, [[philosophy]], and general
 
 culture; about almost everything, indeed, except the world he was
 
@@ -51,7 +51,7 @@ Abruptly, in the middle of those sunny and windy flats, he came upon
 
 a sort of cleft almost narrow enough to be called a crack in the
 
-land. It was just large enough to be the water-course for a small
+land. It was just large enough to be the [[Water|water]]-course for a small
 
 stream which vanished at intervals under green tunnels of
 
@@ -67,7 +67,7 @@ cottage, hung over and had the profile of a precipice. As he began
 
 to wander down the course of the stream, in idle but romantic
 
-curiosity, and saw the water shining in short strips between the
+curiosity, and saw the [[Water|water]] shining in short strips between the
 
 great gray boulders and bushes as soft as great green mosses, he
 
@@ -75,13 +75,13 @@ fell into quite an opposite vein of fantasy. It was rather as if the
 
 earth had opened and swallowed him into a sort of underworld of
 
-dreams. And when he became conscious of a human figure dark against
+[[Dreams|dreams]]. And when he became conscious of a human figure dark against
 
 the silver stream, sitting on a large boulder and looking rather
 
 like a large bird, it was perhaps with some of the premonitions
 
-proper to a man who meets the strangest friendship of his life.
+proper to a man who meets the strangest [[Friendship|friendship]] of his life.
 The man was apparently fishing; or at least was fixed in a
 
 fisherman's attitude with more than a fisherman's immobility. March
@@ -115,7 +115,7 @@ the ordinary toy net which children carry, and which they generally
 
 use indifferently for shrimps or butterflies. He was dipping this
 
-into the water at intervals, gravely regarding its harvest of weed
+into the [[Water|water]] at intervals, gravely regarding its harvest of weed
 
 or mud, and emptying it out again.
 "No, I haven't caught anything," he remarked, calmly, as if
@@ -126,7 +126,7 @@ again; especially the big fish. But some of the little beasts
 
 interest me when I get 'em."
 "A scientific interest, I suppose?" observed March.
-"Of a rather amateurish sort, I fear," answered the strange
+"Of a rather amateurish sort, I [[Fear|fear]]," answered the strange
 
 fisherman. "I have a sort of hobby about what they call 'phenomena
 
@@ -144,7 +144,7 @@ for candles. Some of the seabeasts would really be very pretty like
 
 lampshades; the blue sea-snail that glitters all over like
 
-starlight; and some of the red starfish really shine like red stars.
+starlight; and some of the red starfish really shine like red [[Stars|stars]].
 
 But, naturally, I'm not looking for them here."
 March thought of asking him what he was looking for; but, feeling
@@ -154,7 +154,7 @@ unequal to a technical discussion at least as deep as the deep-sea
 fishes, he returned to more ordinary topics.
 "Delightful sort of hole this is," he said. "This little dell and
 
-river here. It's like those places Stevenson talks about, where
+[[River|river]] here. It's like those places Stevenson talks about, where
 
 something ought to happen."
 "I know," answered the other. "I think it's because the place
@@ -185,7 +185,7 @@ mathematical they make them thin. Take the living lines out of that
 
 landscape, simplify it to a right angle, and you flatten it out to a
 
-mere diagram on paper. Diagrams have their own beauty; but it is of
+mere diagram on paper. Diagrams have their own [[Beauty|beauty]]; but it is of
 
 just the other sort. They stand for the unalterable things; the
 
@@ -202,14 +202,14 @@ and a great motor car appeared. It topped the crest of cliff, black
 
 against the sun, like a battle-chariot rushing to destruction in
 
-some wild epic. March automatically put out his hand in one futile
+some wild [[Epic|epic]]. March automatically put out his hand in one futile
 
 gesture, as if to catch a falling tea-cup in a drawing-room.
 For the fraction of a flash it seemed to leave the ledge of rock
 
-like a flying ship; then the very sky seemed to turn over like a
+like a flying [[Ship|ship]]; then the very sky seemed to turn over like a
 
-wheel, and it lay a ruin amid the tall grasses below, a line of gray
+[[Wheel|wheel]], and it lay a ruin amid the tall grasses below, a line of gray
 
 smoke going up slowly from it into the silent air. A little lower
 
@@ -222,10 +222,10 @@ the spot, his new acquaintance following him. As they drew near
 
 there seemed a sort of monstrous irony in the fact that the dead
 
-machine was still throbbing and thundering as busily as a factory,
+[[Machine|machine]] was still throbbing and thundering as busily as a factory,
 
 while the man lay so still.
-He was unquestionably dead. The blood flowed in the grass from a
+He was unquestionably dead. The [[Blood|blood]] flowed in the grass from a
 
 hopelessly fatal fracture at the back of the skull; but the face,
 
@@ -264,11 +264,11 @@ moment, as if ruminating, then he merely said, "The poor fellow is
 quite gone," and added some scientific terms in which his auditor
 
 once more found himself out of his depth.
-"As things are," continued the same curiously well-informed person,
+"As things are," continued the same curiously [[Well|well]]-informed person,
 
-"it will be more legal for us to leave the body as it is until the
+"it will be more legal for us to leave the [[Body|body]] as it is until the
 
-police are informed. In fact, I think it will be well if nobody
+police are informed. In fact, I think it will be [[Well|well]] if nobody
 
 except the police is informed. Don't be surprised if I seem to be
 
@@ -285,9 +285,9 @@ Torwood Park to see him myself; only about his public work, of
 
 course, and the wonderful stand he is making for his principles. I
 
-think this Budget is the greatest thing in English history. If it
+think this Budget is the greatest thing in English [[history]]. If it
 
-fails, it will be the most heroic failure in English history. Are
+fails, it will be the most heroic failure in English [[history]]. Are
 
 you an admirer of your great kinsman, Mr. Fisher?"
 "Rather," said Mr. Fisher. "He's the best shot I know."
@@ -316,17 +316,17 @@ broken as with rocky teeth; broken boulders of all shapes and sizes
 
 lay near the edge; it was almost incredible that any one could have
 
-deliberately driven into such a death trap, especially in broad
+deliberately driven into such a [[Death|death]] trap, especially in broad
 
 daylight.
 "I can't make head or tail of it," said March. "Was he blind? Or
 
 blind drunk?"
 "Neither, by the look of him," replied the other.
-"Then it was suicide."
+"Then it was [[suicide]]."
 "It doesn't seem a cozy way of doing it," remarked the man called
 
-Fisher. "Besides, I don't fancy poor old Puggy would commit suicide,
+Fisher. "Besides, I don't fancy poor old Puggy would commit [[suicide]],
 
 somehow."
 "Poor old who?" inquired the wondering journalist. "Did you know
@@ -334,7 +334,7 @@ somehow."
 this unfortunate man?"
 "Nobody knew him exactly," replied Fisher, with some vagueness. "But
 
-one knew him, of course. He'd been a terror in his time, in
+one knew him, of course. He'd been a terror in his [[Time|time]], in
 
 Parliament and the courts, and so on; especially in that row about
 
@@ -386,19 +386,19 @@ They had started walking in the tracks of the car, leaving it behind
 
 them in the hollow, still humming horribly like a huge insect that
 
-had killed a man. The tracks took them to the corner of the road,
+had killed a man. The tracks took them to the corner of the [[Road|road]],
 
 one arm of which went on in the same line toward the distant gates
 
 of the park. It was clear that the car had been driven down the long
 
-straight road, and then, instead of turning with the road to the
+straight [[Road|road]], and then, instead of turning with the [[Road|road]] to the
 
 left, had gone straight on over the turf to its doom. But it was not
 
 this discovery that had riveted Fisher's eye, but something even
 
-more solid. At the angle of the white road a dark and solitary
+more solid. At the angle of the white [[Road|road]] a dark and solitary
 
 figure was standing almost as still as a finger post. It was that of
 
@@ -418,7 +418,7 @@ something deep and even cavernous about the setting of the eyes
 
 redeemed his animal good looks from the commonplace. But March had
 
-no time to study the man more closely, for, much to his
+no [[Time|time]] to study the man more closely, for, much to his
 
 astonishment, his guide merely observed, "Hullo, Jack!" and walked
 
@@ -433,7 +433,7 @@ The man they had passed looked after them in rather a suspicious
 
 fashion, but Fisher continued serenely on his way along the straight
 
-road that ran past the gates of the great estate.
+[[Road|road]] that ran past the gates of the great estate.
 "That's John Burke, the traveler," he condescended to explain. "I
 
 expect you've heard of him; shoots big game and all that. Sorry I
@@ -447,14 +447,14 @@ on."
 
 only conscious of the closeness of the elephant when the colossal
 
-head blocked out the moon."
-"Yes, young Halkett writes jolly well, I think. What? Didn't you
+head blocked out the [[Moon|moon]]."
+"Yes, young Halkett writes jolly [[Well|well]], I think. What? Didn't you
 
 know Halkett wrote Burke's book for him? Burke can't use anything
 
 except a gun; and you can't write with that. Oh, he's genuine enough
 
-in his way, you know, as brave as a lion, or a good deal braver by
+in his way, you know, as brave as a [[Lion|lion]], or a good deal braver by
 
 all accounts."
 "You seem to know all about him," observed March, with a rather
@@ -474,7 +474,7 @@ That's why I'm really interested, just now, about one thing that I
 don't know."
 "And that is?" inquired the other.
 "Why that poor fellow is dead."
-They had walked along the straight road for nearly a mile,
+They had walked along the straight [[Road|road]] for nearly a mile,
 
 conversing at intervals in this fashion; and March had a singular
 
@@ -497,29 +497,29 @@ They reached the great lodge gates of the park, and, to March's
 
 surprise, passed them and continued along the interminable white,
 
-straight road. But he was himself too early for his appointment with
+straight [[Road|road]]. But he was himself too early for his appointment with
 
 Sir Howard, and was not disinclined to see the end of his new
 
 friend's experiment, whatever it might be. They had long left the
 
-moorland behind them, and half the white road was gray in the great
+moorland behind them, and half the white [[Road|road]] was gray in the great
 
-shadow of the Torwood pine forests, themselves like gray bars
+[[Shadow|shadow]] of the Torwood pine forests, themselves like gray bars
 
-shuttered against the sunshine and within, amid that clear noon,
+shuttered against the sunshine and within, amid that clear [[Noon|noon]],
 
 manufacturing their own midnight. Soon, however, rifts began to
 
 appear in them like gleams of colored windows; the trees thinned and
 
-fell away as the road went forward, showing the wild, irregular
+fell away as the [[Road|road]] went forward, showing the wild, irregular
 
-copses in which, as Fisher said, the house-party had been blazing
+copses in which, as Fisher said, the [[house]]-party had been blazing
 
 away all day. And about two hundred yards farther on they came to
 
-the first turn of the road.
+the first turn of the [[Road|road]].
 At the corner stood a sort of decayed inn with the dingy sign of The
 
 Grapes. The signboard was dark and indecipherable by now, and hung
@@ -534,13 +534,13 @@ for vinegar instead of wine.
 enough to drink wine in it. But the beer is very good, and so is the
 
 brandy."
-March followed him to the bar parlor with some wonder, and his dim
+March followed him to the bar parlor with some [[Wonder|wonder]], and his dim
 
 sense of repugnance was not dismissed by the first sight of the
 
 innkeeper, who was widely different from the genial innkeepers of
 
-romance, a bony man, very silent behind a black mustache, but with
+[[Romance|romance]], a bony man, very silent behind a black mustache, but with
 
 black, restless eyes. Taciturn as he was, the investigator succeeded
 
@@ -552,11 +552,11 @@ subject of motor cars. He evidently regarded the innkeeper as in
 
 some singular way an authority on motor cars; as being deep in the
 
-secrets of the mechanism, management, and mismanagement of motor
+[[Secrets|secrets]] of the mechanism, management, and mismanagement of motor
 
-cars; holding the man all the time with a glittering eye like the
+cars; holding the man all the [[Time|time]] with a glittering eye like the
 
-Ancient Mariner. Out of all this rather mysterious conversation
+[[Ancient Mariner]]. Out of all this rather mysterious conversation
 
 there did emerge at last a sort of admission that one particular
 
@@ -582,12 +582,12 @@ a gun hung on hooks above it, which seemed to be its only ornament.
 
 grim style. But it seems rather too grim a joke for a man to buy a
 
-packet of sandwiches when he is just going to commit suicide."
+packet of sandwiches when he is just going to commit [[suicide]]."
 "If you come to that," answered March, "it isn't very usual for a
 
 man to buy a packet of sandwiches when he's just outside the door of
 
-a grand house he's going to stop at."
+a grand [[house]] he's going to stop at."
 "No . . . no," repeated Fisher, almost mechanically; and then
 
 suddenly cocked his eye at his interlocutor with a much livelier
@@ -596,7 +596,7 @@ expression.
 "By Jove! that's an idea. You're perfectly right. And that suggests
 
 a very queer idea, doesn't it?"
-There was a silence, and then March started with irrational
+There was a [[Silence|silence]], and then March started with irrational
 
 nervousness as the door of the inn was flung open and another man
 
@@ -604,7 +604,7 @@ walked rapidly to the counter. He had struck it with a coin and
 
 called out for brandy before he saw the other two guests, who were
 
-sitting at a bare wooden table under the window. When he turned
+sitting at a bare wooden table under the [[Window|window]]. When he turned
 
 about with a rather wild stare, March had yet another unexpected
 
@@ -627,7 +627,7 @@ things about his meeting with the great political reformer, but he
 
 had never pictured him with a gun under his arm, drinking brandy in
 
-a public house.
+a public [[house]].
 "So you're stopping at Jink's, too," said Fisher. "Everybody seems
 
 to be at Jink's."
@@ -662,7 +662,7 @@ satisfactory state, if the talk had not been quite what his literary
 
 visitor had expected. Fisher, a few minutes afterward, slowly led
 
-the way out of the tavern and stood in the middle of the road,
+the way out of the tavern and stood in the middle of the [[Road|road]],
 
 looking down in the direction from which they had traveled. Then he
 
@@ -684,11 +684,11 @@ Then after a pause he added:
 
 rocks. So he was shot as he drove his car down this strip of
 
-straight road, and I should think somewhere about here. After that,
+straight [[Road|road]], and I should think somewhere about here. After that,
 
 of course, the car went straight on with nobody to stop or turn it.
 
-It's really a very cunning dodge in its way; for the body would be
+It's really a very cunning dodge in its way; for the [[Body|body]] would be
 
 found far away, and most people would say, as you do, that it was an
 
@@ -704,7 +704,7 @@ on all over the place all day; very likely he timed his shot so as
 
 to drown it in a number of others. Certainly he was a first-class
 
-criminal. And he was something else as well."
+criminal. And he was something else as [[Well|well]]."
 "What do you mean?" asked his companion, with a creepy premonition
 
 of something coming, he knew not why.
@@ -720,15 +720,15 @@ after him with the same idle perseverance, and found him staring
 
 through a gap in giant weeds and thorns at the flat face of a
 
-painted paling. From behind the paling rose the great gray columns
+painted paling. From behind the paling [[Rose|rose]] the great gray columns
 
 of a row of poplars, which filled the heavens above them with
 
-dark-green shadow and shook faintly in a wind which had sunk slowly
+dark-green [[Shadow|shadow]] and shook faintly in a [[Wind|wind]] which had sunk slowly
 
 into a breeze. The afternoon was already deepening into evening, and
 
-the titanic shadows of the poplars lengthened over a third of the
+the [[titanic]] shadows of the poplars lengthened over a third of the
 
 landscape.
 "Are you a first-class criminal?" asked Fisher, in a friendly tone.
@@ -750,9 +750,9 @@ laurel, green and lustrous in the level sun. Something in this
 
 limitation by a series of living walls made him feel as if he were
 
-really entering a shattered house instead of an open field. It was
+really entering a shattered [[house]] instead of an open field. It was
 
-as if he came in by a disused door or window and found the way
+as if he came in by a disused door or [[Window|window]] and found the way
 
 blocked by furniture. When they had circumvented the laurel hedge,
 
@@ -766,7 +766,7 @@ from anywhere, like a glass cottage standing in its own fields in
 
 fairyland. Fisher knew that lonely look of the outlying parts of a
 
-great house well enough. He realized that it is more of a satire on
+[[Great House|great house]] [[Well|well]] enough. He realized that it is more of a [[Satire|satire]] on
 
 aristocracy than if it were choked with weeds and littered with
 
@@ -793,7 +793,7 @@ of archery. March had one of his vague visions of ladies in cloudy
 
 crinolines and gentlemen in outlandish hats and whiskers revisiting
 
-that lost garden like ghosts.
+that lost [[Garden|garden]] like [[Ghosts|ghosts]].
 Fisher, who was peering more closely at the target, startled him by
 
 an exclamation.
@@ -816,7 +816,7 @@ shining under its sleepy lid and that he straightened his stooping
 figure with a strange effort.
 "Excuse me a moment," he said, feeling in his pockets. "I think I've
 
-got some of my chemicals; and after that we'll go up to the house."
+got some of my chemicals; and after that we'll go up to the [[house]]."
 
 And he stooped again over the target, putting something with his
 
@@ -824,16 +824,16 @@ finger over each of the shot-holes, so far as March could see merely
 
 a dull-gray smear. Then they went through the gathering twilight up
 
-the long green avenues to the great house.
+the long green avenues to the [[Great House|great house]].
 Here again, however, the eccentric investigator did not enter by the
 
-front door. He walked round the house until he found a window open,
+front door. He walked round the [[house]] until he found a [[Window|window]] open,
 
 and, leaping into it, introduced his friend to what appeared to be
 
 the gun-room. Rows of the regular instruments for bringing down
 
-birds stood against the walls; but across a table in the window lay
+[[Birds|birds]] stood against the walls; but across a table in the [[Window|window]] lay
 
 one or two weapons of a heavier and more formidable pattern.
 "Hullo! these are Burke's big-game rifles," said Fisher. "I never
@@ -849,14 +849,14 @@ sturdy, with a bumpy forehead and a bulldog jaw, and he spoke with a
 curt apology.
 "I left Major Burke's guns here," he said, "and he wants them packed
 
-up. He's going away to-night."
+up. He's going away to-[[Night|night]]."
 And he carried off the two rifles without casting a glance at the
 
-stranger; through the open window they could see his short, dark
+stranger; through the open [[Window|window]] they could see his short, dark
 
-figure walking away across the glimmering garden. Fisher got out of
+figure walking away across the glimmering [[Garden|garden]]. Fisher got out of
 
-the window again and stood looking after him.
+the [[Window|window]] again and stood looking after him.
 "That's Halkett, whom I told you about," he said. "I knew he was a
 
 sort of secretary and had to do with Burke's papers; but I never
@@ -870,16 +870,16 @@ the sort of man you know for years before you find he's a chess
 champion."
 He had begun to walk in the direction of the disappearing secretary,
 
-and they soon came within sight of the rest of the house-party
+and they soon came within sight of the rest of the [[house]]-party
 
 talking and laughing on the lawn. They could see the tall figure and
 
-loose mane of the lion-hunter dominating the little group.
+loose mane of the [[Lion|lion]]-hunter dominating the little group.
 "By the way," observed Fisher, "when we were talking about Burke and
 
-Halkett, I said that a man couldn't very well write with a gun.
+Halkett, I said that a man couldn't very [[Well|well]] write with a gun.
 
-Well, I'm not so sure now. Did you ever hear of an artist so clever
+[[Well]], I'm not so sure now. Did you ever hear of an [[artist]] so clever
 
 that he could draw with a gun? There's a wonderful chap loose about
 
@@ -895,9 +895,9 @@ Jenkins, a commonplace little man in loud tweeds, whom everybody
 else seemed to treat with a sort of affection, as if he were a baby.
 The irrepressible Chancellor of the Exchequer was still talking
 
-about the birds he had brought down, the birds that Burke and
+about the [[Birds|birds]] he had brought down, the [[Birds|birds]] that Burke and
 
-Halkett had brought down, and the birds that Jenkins, their host,
+Halkett had brought down, and the [[Birds|birds]] that Jenkins, their host,
 
 had failed to bring down. It seemed to be a sort of sociable
 
@@ -938,7 +938,7 @@ only pausing, in a sort of ecstasy, to point out the celebrated gilt
 
 summerhouse on which the gilt weathercock still stood crooked. It
 
-was dusk turning to dark by the time they reached the remote green
+was dusk turning to dark by the [[Time|time]] they reached the remote green
 
 by the poplars and accepted the new and aimless game of shooting at
 
@@ -980,7 +980,7 @@ them. The target stood up in the dim grass like a dark goblin
 
 grinning at them, and it was literally grinning. It had two eyes
 
-like stars, and in similar livid points of light were picked out the
+like [[Stars|stars]], and in similar livid points of light were picked out the
 
 two upturned and open nostrils and the two ends of the wide and
 
@@ -990,9 +990,9 @@ eyebrows; and one of them ran upward almost erect. It was a
 
 brilliant caricature done in bright dotted lines and March knew of
 
-whom. It shone in the shadowy grass, smeared with sea fire as if one
+whom. It shone in the shadowy grass, smeared with sea [[Fire|fire]] as if one
 
-of the submarine monsters had crawled into the twilight garden; but
+of the submarine monsters had crawled into the twilight [[Garden|garden]]; but
 
 it had the head of a dead man.
 "It's only luminous paint," said Burke. "Old Fisher's been having a
@@ -1000,7 +1000,7 @@ it had the head of a dead man.
 joke with that phosphorescent stuff of his."
 "Seems to be meant for old Puggy"' observed Sir Howard. "Hits him
 
-off very well."
+off very [[Well|well]]."
 With that they all laughed, except Jenkins. When they had all done,
 
 he made a noise like the first effort of an animal to laugh, and
@@ -1011,9 +1011,9 @@ It was by the little watercourse in the moors, on the slope under
 
 the hanging rock, that March met his new friend Fisher, by
 
-appointment, shortly after the ugly and almost grotesque scene that
+appointment, shortly after the ugly and almost [[Grotesque|grotesque]] scene that
 
-had broken up the group in the garden.
+had broken up the group in the [[Garden|garden]].
 "It was a monkey-trick of mine," observed Fisher, gloomily, "putting
 
 phosphorus on the target; but the only chance to make him jump was
@@ -1034,7 +1034,7 @@ you gave me the first suggestion yourself. Oh yes, you did; and it
 
 was a very shrewd one. You said a man wouldn't take sandwiches with
 
-him to dine at a great house. It was quite true; and the inference
+him to dine at a [[Great House|great house]]. It was quite true; and the inference
 
 was that, though he was going there, he didn't mean to dine there.
 
@@ -1070,7 +1070,7 @@ cousin's account of his bad shooting. He'd shot a cockade off a hat
 
 and a weathercock off a building. Now, in fact, a man must shoot
 
-very well indeed to shoot so badly as that. He must shoot very
+very [[Well|well]] indeed to shoot so badly as that. He must shoot very
 
 neatly to hit the cockade and not the head, or even the hat. If the
 
@@ -1097,19 +1097,19 @@ supposed to stamp him as an upstart. Now, as a matter of fact,
 
 upstarts generally don't do this. God knows there's enough of 'em in
 
-society; and one knows 'em well enough. And this is the very last
+society; and one knows 'em [[Well|well]] enough. And this is the very last
 
 thing they do. They're generally only too keen to know the right
 
-thing and do it; and they instantly put themselves body and soul
+thing and do it; and they instantly put themselves [[Body|body]] and [[Soul|soul]]
 
 into the hands of art decorators and art experts, who do the whole
 
 thing for them. There's hardly another millionaire alive who has the
 
-moral courage to have a gilt monogram on a chair like that one in
+moral [[Courage|courage]] to have a gilt monogram on a chair like that one in
 
-the gun-room. For that matter, there's the name as well as the
+the gun-room. For that matter, there's the name as [[Well|well]] as the
 
 monogram. Names like Tompkins and Jenkins and Jinks are funny
 
@@ -1140,7 +1140,7 @@ be a new kind of hypocrite hiding a talent in a new kind of napkin.
 
 This man has chosen his hypocrisy very ingeniously; it was really a
 
-new one. A subtle villain has dressed up as a dashing gentleman and
+new one. A subtle [[Villain|villain]] has dressed up as a dashing gentleman and
 
 a worthy business man and a philanthropist and a saint; but the loud
 
@@ -1180,7 +1180,7 @@ dabbled a little in drawing myself, and I assure you that to put one
 
 dot where you want it is a marvel with a pen close to a piece of
 
-paper. It was a miracle to do it across a garden with a gun. But a
+paper. It was a miracle to do it across a [[Garden|garden]] with a gun. But a
 
 man who can work those miracles will always itch to work them, if
 
@@ -1197,14 +1197,14 @@ sound of it. That's why he rushed out without a hat, looking so
 wild. He saw nothing but a car passing quickly, which he followed
 
 for a little way, and then concluded he'd made a mistake."
-There was another silence, during which Fisher sat on a great stone
+There was another [[Silence|silence]], during which Fisher sat on a great stone
 
 as motionless as on their first meeting, and watched the gray and
 
-silver river eddying past under the bushes. Then March said,
+silver [[River|river]] eddying past under the bushes. Then March said,
 
-abruptly, "Of course he knows the truth now."
-"Nobody knows the truth but you and I," answered Fisher, with a
+abruptly, "Of course he knows the [[Truth|truth]] now."
+"Nobody knows the [[Truth|truth]] but you and I," answered Fisher, with a
 
 certain softening in his voice. "And I don't think you and I will
 
@@ -1218,7 +1218,7 @@ last he said, "The police have proved it was a motor accident."
 "But you know it was not."
 "I told you that I know too much," replied Fisher, with his eye on
 
-the river. "I know that, and I know a great many other things. I
+the [[River|river]]. "I know that, and I know a great many other things. I
 
 know the atmosphere and the way the whole thing works. I know this
 
@@ -1230,11 +1230,11 @@ Toole or Little Tich. If I were to tell Hoggs or Halkett that old
 
 Jink was an assassin, they would almost die of laughter before my
 
-eyes. Oh, I don't say their laughter's quite innocent, though it's
+eyes. Oh, I don't say their laughter's quite [[Innocent|innocent]], though it's
 
 genuine in its way. They want old Jink, and they couldn't do without
 
-him. I don't say I'm quite innocent. I like Hoggs; I don't want him
+him. I don't say I'm quite [[Innocent|innocent]]. I like Hoggs; I don't want him
 
 to be down and out; and he'd be done for if Jink can't pay for his
 
@@ -1254,7 +1254,7 @@ dynamite, I don't know that the human race will be much the worse.
 
 But don't be too hard on me merely because I know what society is.
 
-That's why I moon away my time over things like stinking fish."
+That's why I [[Moon|moon]] away my [[Time|time]] over things like stinking fish."
 There was a pause as he settled himself down again by the stream;
 
 and then he added:

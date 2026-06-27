@@ -17,7 +17,7 @@ tags:
 A Theory of Tyrants
 
 
-I have come to be convinced of late of a certain theory of the nature
+I have come to be convinced of late of a certain theory of the [[Nature|nature]]
 of tyranny.  It may be right or wrong, but I think it is at least
 worthy of thought in connection with a highly interesting matter.
 Broadly speaking, the common theory of tyranny has been this:
@@ -31,27 +31,27 @@ permitted to state it in a more explanatory manner.
 Let us take, for the sake of argument, the two risings against
 tyranny most commonly considered in current literature--
 the English rebellion of the early seventeenth century and
-the French Revolution.  According to the common theory, Charles I
+the [[French Revolution]].  According to the common theory, Charles I
 should have been the heir of at least twenty intolerable despots.
-The truth is that he was the heir of one tolerable despot
+The [[Truth|truth]] is that he was the heir of one tolerable despot
 (who had not quite effected despotism), and beyond that everything
-was different.  Queen Elizabeth was not tolerable, and she was
+was different.  [[Queen Elizabeth]] was not tolerable, and she was
 not tolerated.  In so far as she was endured she was adored.
 Cavaliers and Puritans alike looked back to her reign
 (most mistakenly, doubtless, but most certainly) as a midsummer
 of popular monarchy.
 
-In short the English Puritans did not rebel against
+In short the English Puritans did not [[Rebel|rebel]] against
 an old system; whatever else it was it was not old.
-Even if Charles I had been a much worse king than he was there
-would not have been enough time for him to have created a complete
+Even if Charles I had been a much worse [[King|king]] than he was there
+would not have been enough [[Time|time]] for him to have created a complete
 and cruel tradition against the tradition of Elizabeth.
 A few years before Charles' head was cut off, most Englishmen
 would have died to keep Elizabeth's on.  If you turn to the case
-of the French Monarchy before the French Revolution you will find
-exactly the same thing.  A very short time before the Revolution
+of the French Monarchy before the [[French Revolution]] you will find
+exactly the same thing.  A very short [[Time|time]] before the Revolution
 the French Monarchy was the generally accepted French symbol.
-The King before Louis the Guillotined was Louis the Well Beloved.
+The [[King]] before Louis the Guillotined was Louis the [[Well]] Beloved.
 The Monarchy (in France as in England) became the most unpopular
 thing very soon after it had been the most popular thing.
 There was no weakness, there was no long decline:
@@ -61,16 +61,16 @@ He was one of the first of the English despots--
 only there happened to have been no more of them.
 Encouraged by the arrogance and popularity of Elizabeth,
 who had stood for patriotism and Protestantism and the defiance
-of Spain, Charles tried to work with Elizabethan England
-and found that Elizabethan England was not there.
+of Spain, Charles tried to work with [[Elizabethan England]]
+and found that [[Elizabethan England]] was not there.
 It was not too old to last, it was too new to last.
 Louis XVI was not the last of a line of unpopular kings.
 On the contrary, he was the first of a line of popular kings
 to be unpopular.
 
 I can only explain all this by my private theory of tyrants;
-which is this.  Men do not rebel against the old;
-rather they rebel against the new.  They turn upon something
+which is this.  Men do not [[Rebel|rebel]] against the old;
+rather they [[Rebel|rebel]] against the new.  They turn upon something
 when they find that it has them in a trap.  They do not revolt
 against something that has been unpopular.  They revolt
 (and very rightly) against something that has been popular.
@@ -88,28 +88,28 @@ the snare of Philip; we walked into the snare of Elizabeth;
 we broke out of the snare of Charles I.
 
 This is the essential mark of tyranny:  that it is always new.
-Tyranny always enters by the unguarded gate.  The tyrant is
-always shy and unobtrusive.  The tyrant is always a traitor.
+Tyranny always enters by the unguarded gate.  The [[Tyrant|tyrant]] is
+always shy and unobtrusive.  The [[Tyrant|tyrant]] is always a traitor.
 He has always come there on the pretence that he was protecting
 something which people really wanted protected--religion, or
 public justice, or patriotic glory.  Men staring at the Armada;
-did not watch the King; so they strengthened the King.
-Later when they watched the King they unconsciously strengthened
+did not watch the [[King]]; so they strengthened the [[King]].
+Later when they watched the [[King]] they unconsciously strengthened
 the aristocracy.  Again, when they attacked the aristocracy,
 they did not watch the big merchants who were attacking it--
 and who wanted watching.  All tyrannies are new tyrannies.
 There are no such things really as old tyrannies; there are
 hardly any such things as old superstitions.
 
-There is one moral to these evident facts of history.  When you look
+There is one moral to these evident facts of [[history]].  When you look
 for tyrants, do not look for them among the obvious types that have
-oppressed men in the past--the king, the priest, or the soldier.
+oppressed men in the past--the [[King|king]], the priest, or the soldier.
 If you do, you are merely looking at the Spanish Armada while
 England is being turned into a despotism behind your back.
 Monarchy was once a popular organ; yet it was turned against the people.
 Remember that newspapers are popular organs that may be turned
-against the people.  Whatever the new tyrant is, he will not wear
-the exact uniform of the old tyrant.
+against the people.  Whatever the new [[Tyrant|tyrant]] is, he will not wear
+the exact uniform of the old [[Tyrant|tyrant]].
 
 
 An Anecdote of Persecution
@@ -126,7 +126,7 @@ and everyday style how it is in practice that persecution arises.
 It is common talk in these days that we ought to be imaginative,
 if only in order to be charitable.  If a man commits forgery we
 must try to understand his temptations and his original trend.
-But no such mercy is generally shown to the enthusiast for ideas.
+But no such [[Mercy|mercy]] is generally shown to the enthusiast for ideas.
 The sins of the intolerant are seldom considered with any
 intellectual tolerance.  It seems that we are to find excuses
 for the crimes of good men.

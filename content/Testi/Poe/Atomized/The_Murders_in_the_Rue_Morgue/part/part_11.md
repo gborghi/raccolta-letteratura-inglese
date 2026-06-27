@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 11)"
+title: "[[The Murders in the Rue Morgue]] (part 11)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
 
 
-      “You will say, no doubt, using the language of the law, that ‘to
+      “You will say, no [[Doubt|doubt]], using the language of the law, that ‘to
 
       make out my case,’ I should rather undervalue, than insist upon a
 
@@ -30,7 +30,7 @@ tags:
 
       be the practice in law, but it is not the usage of reason. My
 
-      ultimate object is only the truth. My immediate purpose is to
+      ultimate object is only the [[Truth|truth]]. My immediate purpose is to
 
       lead you to place in juxtaposition, that _very unusual_ activity
 
@@ -98,7 +98,7 @@ tags:
 
       police by that portion of the evidence which speaks of money
 
-      delivered at the door of the house. Coincidences ten times as
+      delivered at the door of the [[house]]. Coincidences ten times as
 
       remarkable as this (the delivery of the money, and murder
 
@@ -140,7 +140,7 @@ tags:
 
       atrocious as this—let us glance at the butchery itself. Here is a
 
-      woman strangled to death by manual strength, and thrust up a
+      woman strangled to [[Death|death]] by manual strength, and thrust up a
 
       chimney, head downward. Ordinary assassins employ no such modes
 
@@ -156,7 +156,7 @@ tags:
 
       depraved of men. Think, too, how great must have been that
 
-      strength which could have thrust the body _up_ such an aperture
+      strength which could have thrust the [[Body|body]] _up_ such an aperture
 
       so forcibly that the united vigor of several persons was found
 
@@ -174,21 +174,21 @@ tags:
 
       the head even twenty or thirty hairs together. You saw the locks
 
-      in question as well as myself. Their roots (a hideous sight!)
+      in question as [[Well|well]] as myself. Their roots (a hideous sight!)
 
       were clotted with fragments of the flesh of the scalp—sure token
 
       of the prodigious power which had been exerted in uprooting
 
-      perhaps half a million of hairs at a time. The throat of the old
+      perhaps half a million of hairs at a [[Time|time]]. The throat of the old
 
       lady was not merely cut, but the head absolutely severed from the
 
-      body: the instrument was a mere razor. I wish you also to look at
+      [[Body|body]]: the instrument was a mere razor. I wish you also to look at
 
       the _brutal_ ferocity of these deeds. Of the bruises upon the
 
-      body of Madame L’Espanaye I do not speak. Monsieur Dumas, and his
+      [[Body|body]] of Madame L’Espanaye I do not speak. Monsieur Dumas, and his
 
       worthy coadjutor Monsieur Etienne, have pronounced that they were
 
@@ -198,4 +198,4 @@ tags:
 
       pavement in the yard, upon which the victim had fallen from the
 
-      window which looked in upon the bed. This idea, however simple it
+      [[Window|window]] which looked in upon the bed. This idea, however simple it

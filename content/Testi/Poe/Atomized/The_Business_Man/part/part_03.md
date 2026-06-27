@@ -1,5 +1,5 @@
 ---
-title: "The Business Man (part 3)"
+title: "[[The Business Man]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Business-Man-(Poe)"
@@ -66,7 +66,7 @@ tags:
 
       into the pit. Neck dislocated, and right leg capitally
 
-      splintered. Went home in high glee, drank a bottle of champagne,
+      splintered. Went [[Home|home]] in high glee, drank a bottle of champagne,
 
       and booked the young man for five thousand. Bag says it’ll do.
 
@@ -100,11 +100,11 @@ tags:
 
       nothing in comparison with health. I found the exactions of the
 
-      profession somewhat too much for my delicate state of body; and,
+      profession somewhat too much for my delicate state of [[Body|body]]; and,
 
       discovering, at last, that I was knocked all out of shape, so
 
-      that I didn’t know very well what to make of the matter, and so
+      that I didn’t know very [[Well|well]] what to make of the matter, and so
 
       that my friends, when they met me in the street, couldn’t tell
 
@@ -128,7 +128,7 @@ tags:
 
       an eye-sore prig, or a salt-and-batter man, thinks, of course,
 
-      that he’ll answer very well as a dabbler of mud. But there never
+      that he’ll answer very [[Well|well]] as a dabbler of mud. But there never
 
       was entertained a more erroneous idea than that it requires no
 
@@ -144,7 +144,7 @@ tags:
 
       took care, too, to have a nice little puddle at hand, which I
 
-      could get at in a minute. By these means I got to be well known
+      could get at in a minute. By these means I got to be [[Well|well]] known
 
       as a man to be trusted; and this is one-half the battle, let me
 
@@ -164,7 +164,7 @@ tags:
 
       inconvenience. These, however, are not individuals, but
 
-      corporations; and corporations, it is very well known, have
+      corporations; and corporations, it is very [[Well|well]] known, have
 
       neither bodies to be kicked nor souls to be damned.
 
@@ -182,9 +182,9 @@ tags:
 
       fat and up to all varieties of snuff. He had been in the trade a
 
-      long time, and, I may say, understood it. Our general routine was
+      long [[Time|time]], and, I may say, understood it. Our general routine was
 
-      this:—Pompey, having rolled himself well in the mud, sat upon end
+      this:—[[Pompey]], having rolled himself [[Well|well]] in the mud, sat upon end
 
       at the shop door, until he observed a dandy approaching in bright
 
@@ -196,7 +196,7 @@ tags:
 
       with blacking and brushes. It was only a minute’s work, and then
 
-      came a sixpence. This did moderately well for a time;—in fact, I
+      came a sixpence. This did moderately [[Well|well]] for a [[Time|time]];—in fact, I
 
       was not avaricious, but my dog was. I allowed him a third of the
 
@@ -208,6 +208,6 @@ tags:
 
       I next tried my hand at the Organ-Grinding for a while, and may
 
-      say that I made out pretty well. It is a plain, straightforward
+      say that I made out pretty [[Well|well]]. It is a plain, straightforward
 
       business, and requires no particular abilities. You can get a

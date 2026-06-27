@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 13 (part 4)"
+title: "[[Villette]] — Chapter 13 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -29,13 +29,13 @@ at me.
 “None.”
 
 “If I knew you better, I might be tempted to risk some confidence, and
-thus secure you as guardian over a most innocent and excellent, but
+thus secure you as guardian over a most [[Innocent|innocent]] and excellent, but
 somewhat inexperienced being.”
 
 “As a duenna?” I asked.
 
 “Yes,” said he abstractedly. “What snares are round her!” he added,
-musingly: and now, certainly for the first time, he examined my face,
+musingly: and now, certainly for the first [[Time|time]], he examined my face,
 anxious, doubtless, to see if any kindly expression there, would
 warrant him in recommending to my care and indulgence some ethereal
 creature, against whom powers of darkness were plotting. I felt no
@@ -49,15 +49,15 @@ any person in whom he might be interested.”.
 “I am no farther interested than as a spectator,” said he, with a
 modesty, admirable, as I thought, to witness. “I happen to be
 acquainted with the rather worthless character of the person, who, from
-the house opposite, has now twice invaded the sanctity of this place; I
+the [[house]] opposite, has now twice invaded the sanctity of this place; I
 have also met in society the object at whom these vulgar attempts are
 aimed. Her exquisite superiority and innate refinement ought, one would
 think, to scare impertinence from her very idea. It is not so, however;
-and innocent, unsuspicious as she is, I would guard her from evil if I
+and [[Innocent|innocent]], unsuspicious as she is, I would guard her from evil if I
 could. In person, however, I can do nothing, I cannot come near her”—he
 paused.
 
-“Well, I am willing to help you,” said I, “only tell me how.” And
+“[[Well]], I am willing to help you,” said I, “only tell me how.” And
 busily, in my own mind, I ran over the list of our inmates, seeking
 this paragon, this pearl of great price, this gem without flaw. “It
 must be Madame,” I concluded. “_She_ only, amongst us all, has the art
@@ -68,10 +68,10 @@ angel shall be an angel.”
 
 “Just notify the quarter to which my care is to be directed,” I
 continued gravely: chuckling, however, to myself over the thought of
-being set to chaperon Madame Beck or any of her pupils. Now Dr. John
+being set to chaperon [[Madame Beck]] or any of her pupils. Now Dr. John
 had a fine set of nerves, and he at once felt by instinct, what no more
 coarsely constituted mind would have detected; namely, that I was a
-little amused at him. The colour rose to his cheek; with half a smile
+little amused at him. The colour [[Rose|rose]] to his cheek; with half a smile
 he turned and took his hat—he was going. My heart smote me.
 
 “I will—I will help you,” said I eagerly. “I will do what you wish. I
@@ -80,13 +80,13 @@ she is.”
 
 “But you _must_ know,” said he then with earnestness, yet speaking very
 low. “So spotless, so good, so unspeakably beautiful! impossible that
-one house should contain two like her. I allude, of course—”
+one [[house]] should contain two like her. I allude, of course—”
 
-Here the latch of Madame Beck’s chamber-door (opening into the nursery)
+Here the latch of [[Madame Beck]]’s chamber-door (opening into the nursery)
 gave a sudden click, as if the hand holding it had been slightly
 convulsed; there was the suppressed explosion of an irrepressible
 sneeze. These little accidents will happen to the best of us.
-Madame—excellent woman! was then on duty. She had come home quietly,
+Madame—excellent woman! was then on duty. She had come [[Home|home]] quietly,
 stolen up-stairs on tip-toe; she was in her chamber. If she had not
 sneezed, she would have heard all, and so should I; but that unlucky
 sternutation routed Dr. John. While he stood aghast, she came forward
@@ -95,4 +95,4 @@ her habits but would have thought she had just come in, and scouted the
 idea of her ear having been glued to the key-hole for at least ten
 minutes. She affected to sneeze again, declared she was “enrhumée,” and
 then proceeded volubly to recount her “courses en fiacre.” The
-prayer-bell rang, and I left her with the doctor.
+[[prayer]]-bell rang, and I left her with the doctor.

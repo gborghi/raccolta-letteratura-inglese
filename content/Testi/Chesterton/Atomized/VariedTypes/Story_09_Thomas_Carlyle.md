@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Thomas Carlyle"
+title: "[[VariedTypes]] — Thomas Carlyle"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -22,11 +22,11 @@ THOMAS CARLYLE
 
 There are two main moral necessities for the work of a great man: the
 
-first is that he should believe in the truth of his message; the second
+first is that he should believe in the [[Truth|truth]] of his message; the second
 
 is that he should believe in the acceptability of his message. It was
 
-the whole tragedy of Carlyle that he had the first and not the second.
+the whole [[Tragedy|tragedy]] of Carlyle that he had the first and not the second.
 
 
 
@@ -40,7 +40,7 @@ as a writer, but the attempt to explain his gospel in terms of his
 
 "Sartor Resartus," it would be a vastly more tolerable thing than it is.
 
-Diseases do not turn into poems; even the decadent really writes with
+Diseases do not turn into [[Poems|poems]]; even the decadent really writes with
 
 the healthy part of his organism. If Carlyle's private faults and
 
@@ -70,15 +70,15 @@ themselves were permanent witnesses to God. Where they both failed was
 
 not in belief in God or in belief in themselves; they failed in belief
 
-in other people. It is not enough for a prophet to believe in his
+in other people. It is not enough for a [[Prophet|prophet]] to believe in his
 
-message; he must believe in its acceptability. Christ, St. Francis,
+message; he must believe in its acceptability. [[Christ]], St. Francis,
 
 Bunyan, Wesley, Mr. Gladstone, Walt Whitman, men of indescribable
 
 variety, were all alike in a certain faculty of treating the average man
 
-as their equal, of trusting to his reason and good feeling without fear
+as their equal, of trusting to his reason and good feeling without [[Fear|fear]]
 
 and without condescension. It was this simplicity of confidence, not
 
@@ -90,11 +90,11 @@ But the attempts to discredit Carlyle's religious sentiment must
 
 absolutely fall to the ground. The profound security of Carlyle's sense
 
-of the unity of the Cosmos is like that of a Hebrew prophet; and it has
+of the [[unity]] of the Cosmos is like that of a Hebrew [[Prophet|prophet]]; and it has
 
-the same expression that it had in the Hebrew prophets--humour. A man
+the same expression that it had in the Hebrew prophets--[[Humour|humour]]. A man
 
-must be very full of faith to jest about his divinity. No Neo-Pagan
+must be very full of [[Faith|faith]] to jest about his divinity. No Neo-Pagan
 
 delicately suggesting a revival of Dionysus, no vague, half-converted
 
@@ -106,25 +106,25 @@ was so solid a thing, like a mountain or a mammoth, that the irony of
 
 its contact with trivial and fleeting matters struck them like a blow.
 
-So it was with Carlyle. His supreme contribution, both to philosophy and
+So it was with Carlyle. His supreme contribution, both to [[philosophy]] and
 
-literature, was his sense of the sarcasm of eternity. Other writers had
+literature, was his sense of the sarcasm of [[Eternity|eternity]]. Other writers had
 
-seen the hope or the terror of the heavens, he alone saw the humour of
+seen the [[Hope|hope]] or the terror of the heavens, he [[Alone|alone]] saw the [[Humour|humour]] of
 
 them. Other writers had seen that there could be something elemental and
 
-eternal in a song or statute, he alone saw that there could be something
+eternal in a [[Song|song]] or statute, he [[Alone|alone]] saw that there could be something
 
 elemental and eternal in a joke. No one who ever read it will forget the
 
 passage, full of dark and agnostic gratification, in which he narrates
 
-that some Court chronicler described Louis XV. as "falling asleep in the
+that some [[Court]] chronicler described Louis XV. as "falling asleep in the
 
 Lord." "Enough for us that he did fall asleep; that, curtained in thick
 
-night, under what keeping we ask not, he at least will never, through
+[[Night|night]], under what keeping we ask not, he at least will never, through
 
 unending ages, insult the face of the sun any more ... and we go on, if
 
@@ -138,17 +138,17 @@ founder of modern irrationalism; a movement fully as important as modern
 
 rationalism. A great deal is said in these days about the value or
 
-valuelessness of logic. In the main, indeed, logic is not a productive
+valuelessness of [[logic]]. In the main, indeed, [[logic]] is not a productive
 
 tool so much as a weapon of defence. A man building up an intellectual
 
-system has to build like Nehemiah, with the sword in one hand and the
+system has to build like Nehemiah, with the [[Sword|sword]] in one hand and the
 
-trowel in the other. The imagination, the constructive quality, is the
+trowel in the other. The [[Imagination|imagination]], the constructive quality, is the
 
-trowel, and argument is the sword. A wide experience of actual
+trowel, and argument is the [[Sword|sword]]. A wide experience of actual
 
-intellectual affairs will lead most people to the conclusion that logic
+intellectual affairs will lead most people to the conclusion that [[logic]]
 
 is mainly valuable as a weapon wherewith to exterminate logicians.
 
@@ -156,35 +156,35 @@ is mainly valuable as a weapon wherewith to exterminate logicians.
 
 But though this may be true enough in practice, it scarcely clears up
 
-the position of logic in human affairs. Logic is a machine of the mind,
+the position of [[logic]] in human affairs. [[logic|Logic]] is a [[Machine|machine]] of the mind,
 
 and if it is used honestly it ought to bring out an honest conclusion.
 
-When people say that you can prove anything by logic, they are not using
+When people say that you can prove anything by [[logic]], they are not using
 
 words in a fair sense. What they mean is that you can prove anything by
 
-bad logic. Deep in the mystic ingratitude of the soul of man there is an
+bad [[logic]]. Deep in the mystic ingratitude of the [[Soul|soul]] of man there is an
 
 extraordinary tendency to use the name for an organ, when what is meant
 
-is the abuse or decay of that organ. Thus we speak of a man suffering
+is the abuse or [[Decay|decay]] of that organ. Thus we speak of a man [[Suffering|suffering]]
 
 from "nerves," which is about as sensible as talking about a man
 
-suffering from ten fingers. We speak of "liver" and "digestion" when we
+[[Suffering|suffering]] from ten fingers. We speak of "liver" and "digestion" when we
 
 mean the failure of liver and the absence of digestion. And in the same
 
-manner we speak of the dangers of logic, when what we really mean is the
+manner we speak of the dangers of [[logic]], when what we really mean is the
 
 danger of fallacy.
 
 
 
-But the real point about the limitation of logic and the partial
+But the real point about the limitation of [[logic]] and the partial
 
-overthrow of logic by writers like Carlyle is deeper and somewhat
+overthrow of [[logic]] by writers like Carlyle is deeper and somewhat
 
 different. The fault of the great mass of logicians is not that they
 
@@ -244,11 +244,11 @@ of the nineteenth century held to be incontrovertible, and appealed
 
 directly to the very different class of matters which they knew to be
 
-true. He induced men to study less the truth of their reasoning, and
+true. He induced men to study less the [[Truth|truth]] of their reasoning, and
 
-more the truth of the assumptions upon which they reasoned. Even where
+more the [[Truth|truth]] of the assumptions upon which they reasoned. Even where
 
-his view was not the highest truth, it was always a refreshing and
+his view was not the highest [[Truth|truth]], it was always a refreshing and
 
 beneficent heresy. He denied every one of the postulates upon which the
 
@@ -268,13 +268,13 @@ He denied every type and species of prop or association or support which
 
 threw the responsibility upon civilisation or society, or anything but
 
-the individual conscience. He has often been called a prophet. The real
+the individual [[Conscience|conscience]]. He has often been called a [[Prophet|prophet]]. The real
 
-ground of the truth of this phrase is often neglected. Since the last
+ground of the [[Truth|truth]] of this phrase is often neglected. Since the last
 
-era of purely religious literature, the era of English Puritanism, there
+era of purely religious literature, the era of English [[Puritanism]], there
 
-has been no writer in whose eyes the soul stood so much alone.
+has been no writer in whose eyes the [[Soul|soul]] stood so much [[Alone|alone]].
 
 
 
@@ -298,13 +298,13 @@ ironical sanities. Philosophers might abolish kings a hundred times
 
 over, he maintained, they could not alter the fact that every man and
 
-woman does choose a king and repudiate all the pride of citizenship for
+woman does choose a [[King|king]] and repudiate all the [[Pride|pride]] of citizenship for
 
-the exultation of humility. If inequality of this kind was a weakness,
+the exultation of [[Humility|humility]]. If inequality of this kind was a weakness,
 
 it was a weakness bound up with the very strength of the universe. About
 
-hero worship, indeed, few critics have done the smallest justice to
+[[Hero|hero]] worship, indeed, few critics have done the smallest justice to
 
 Carlyle. Misled by those hasty and choleric passages in which he
 
@@ -312,29 +312,29 @@ sometimes expressed a preference for mere violence, passages which were
 
 a great deal more connected with his temperament than with his
 
-philosophy, they have finally imbibed the notion that Carlyle's theory
+[[philosophy]], they have finally imbibed the notion that Carlyle's theory
 
-of hero worship was a theory of terrified submission to stern and
+of [[Hero|hero]] worship was a theory of terrified submission to stern and
 
 arrogant men. As a matter of fact, Carlyle is really inhumane about some
 
-questions, but he is never inhumane about hero worship. His view is not
+questions, but he is never inhumane about [[Hero|hero]] worship. His view is not
 
-that human nature is so vulgar and silly a thing that it must be guided
+that human [[Nature|nature]] is so vulgar and silly a thing that it must be guided
 
-and driven; it is, on the contrary, that human nature is so chivalrous
+and driven; it is, on the contrary, that human [[Nature|nature]] is so chivalrous
 
 and fundamentally magnanimous a thing that even the meanest have it in
 
-them to love a leader more than themselves, and to prefer loyalty to
+them to [[Love|love]] a leader more than themselves, and to prefer loyalty to
 
-rebellion. When he speaks of this trait in human nature Carlyle's tone
+rebellion. When he speaks of this trait in human [[Nature|nature]] Carlyle's tone
 
 invariably softens. We feel that for the moment he is kindled with
 
-admiration of mankind, and almost reaches the verge of Christianity.
+admiration of mankind, and almost reaches the verge of [[Christianity]].
 
-Whatever else was acid and captious about Carlyle's utterances, his hero
+Whatever else was acid and captious about Carlyle's utterances, his [[Hero|hero]]
 
 worship was not only humane, it was almost optimistic. He admired great
 
@@ -342,9 +342,9 @@ men primarily, and perhaps correctly, because he thought that they were
 
 more human than other men. The evil side of the influence of Carlyle and
 
-his religion of hero worship did not consist in the emotional worship
+his religion of [[Hero|hero]] worship did not consist in the emotional worship
 
-of valour and success; that was a part of him, as, indeed, it is a part
+of valour and [[success]]; that was a part of him, as, indeed, it is a part
 
 of all healthy children. Where Carlyle really did harm was in the fact
 
@@ -354,7 +354,7 @@ that modern habit of what is vulgarly called "Going the whole hog."
 
 Often in matters of passion and conquest it is a singularly hoggish hog.
 
-This remarkable modern craze for making one's philosophy, religion,
+This remarkable modern craze for making one's [[philosophy]], religion,
 
 politics, and temper all of a piece, of seeking in all incidents for
 
@@ -364,11 +364,11 @@ a thing which existed comparatively little in other centuries. Solomon
 
 and Horace, Petrarch and Shakespeare were pessimists when they were
 
-melancholy, and optimists when they were happy. But the optimist of
+[[Melancholy|melancholy]], and optimists when they were happy. But the optimist of
 
-to-day seems obliged to prove that gout and unrequited love make him
+to-day seems obliged to prove that gout and unrequited [[Love|love]] make him
 
-dance with joy, and the pessimist of to-day to prove that sunshine and a
+[[Dance|dance]] with joy, and the pessimist of to-day to prove that sunshine and a
 
 good supper convulse him with inconsolable anguish. Carlyle was strongly
 
@@ -376,19 +376,19 @@ possessed with this mania for spiritual consistency. He wished to take
 
 the same view of the wars of the angels and of the paltriest riot at
 
-Donnybrook Fair. It was this species of insane logic which led him into
+Donnybrook Fair. It was this species of insane [[logic]] which led him into
 
 his chief errors, never his natural enthusiasms. Let us take an example.
 
-Carlyle's defence of slavery is a thoroughly ridiculous thing, weak
+Carlyle's defence of [[Slavery|slavery]] is a thoroughly ridiculous thing, weak
 
-alike in argument and in moral instinct. The truth is, that he only took
+alike in argument and in moral instinct. The [[Truth|truth]] is, that he only took
 
 it up from the passion for applying everywhere his paradoxical defence
 
 of aristocracy. He blundered, of course, because he did not see that
 
-slavery has nothing in the world to do with aristocracy, that it is,
+[[Slavery|slavery]] has nothing in the world to do with aristocracy, that it is,
 
 indeed, almost its opposite. The defence which Carlyle and all its
 
@@ -396,19 +396,19 @@ thoughtful defenders have made for aristocracy was that a few persons
 
 could more rapidly and firmly decide public affairs in the interests of
 
-the people. But slavery is not even supposed to be a government for the
+the people. But [[Slavery|slavery]] is not even supposed to be a [[government]] for the
 
 good of the governed. It is a possession of the governed avowedly for
 
 the good of the governors. Aristocracy uses the strong for the service
 
-of the weak; slavery uses the weak for the service of the strong. It is
+of the weak; [[Slavery|slavery]] uses the weak for the service of the strong. It is
 
 no derogation to man as a spiritual being, as Carlyle firmly believed
 
 he was, that he should be ruled and guided for his own good like a
 
-child--for a child who is always ruled and guided we regard as the very
+[[Child|child]]--for a [[Child|child]] who is always ruled and guided we regard as the very
 
 type of spiritual existence. But it is a derogation and an absolute
 
@@ -436,13 +436,13 @@ once and all, that being strong consists chiefly in being deliberately
 
 deaf and blind, owes a great deal of its complete sway to his example.
 
-Out of him flows most of the philosophy of Nietzsche, who is in modern
+Out of him flows most of the [[philosophy]] of Nietzsche, who is in modern
 
 times the supreme maniac of this moonstruck consistency. Though
 
 Nietzsche and Carlyle were in reality profoundly different, Carlyle
 
-being a stiff-necked peasant and Nietzsche a very fragile aristocrat,
+being a stiff-necked peasant and Nietzsche a very fragile [[aristocrat]],
 
 they were alike in this one quality of which we speak, the strange and
 
@@ -450,7 +450,7 @@ pitiful audacity with which they applied their single ethical test to
 
 everything in heaven and earth. The disciple of Nietzsche, indeed,
 
-embraces immorality like an austere and difficult faith. He urges
+embraces immorality like an austere and difficult [[Faith|faith]]. He urges
 
 himself to lust and cruelty with the same tremulous enthusiasm with
 
@@ -458,8 +458,8 @@ which a Christian urges himself to purity and patience; he struggles as
 
 a monk struggles with bestial visions and temptations with the ancient
 
-necessities of honour and justice and compassion. To this madhouse, it
+necessities of [[Honour|honour]] and justice and compassion. To this madhouse, it
 
-can hardly be denied, has Carlyle's intellectual courage brought many at
+can hardly be denied, has Carlyle's intellectual [[Courage|courage]] brought many at
 
 last.

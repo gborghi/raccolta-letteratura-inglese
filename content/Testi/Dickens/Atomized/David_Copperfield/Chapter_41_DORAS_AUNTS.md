@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 41: DORA’S AUNTS"
+title: "[[David Copperfield]] — Chapter 41: DORA’S AUNTS"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -33,8 +33,8 @@ Mr. Copperfield would do them the favour to call, upon a certain day
 would be happy to hold some conversation on the subject.
 
 To this favour, Mr. Copperfield immediately replied, with his respectful
-compliments, that he would have the honour of waiting on the Misses
-Spenlow, at the time appointed; accompanied, in accordance with their
+compliments, that he would have the [[Honour|honour]] of waiting on the Misses
+Spenlow, at the [[Time|time]] appointed; accompanied, in accordance with their
 kind permission, by his friend Mr. Thomas Traddles of the Inner Temple.
 Having dispatched which missive, Mr. Copperfield fell into a condition
 of strong nervous agitation; and so remained until the day arrived.
@@ -47,19 +47,19 @@ climax, by taking it into his head that he would go to India. Why should
 he go to India, except to harass me? To be sure he had nothing to do
 with any other part of the world, and had a good deal to do with that
 part; being entirely in the India trade, whatever that was (I had
-floating dreams myself concerning golden shawls and elephants’ teeth);
+floating [[Dreams|dreams]] myself concerning golden shawls and elephants’ teeth);
 having been at Calcutta in his youth; and designing now to go out there
 again, in the capacity of resident partner. But this was nothing to me.
 However, it was so much to him that for India he was bound, and
-Julia with him; and Julia went into the country to take leave of
-her relations; and the house was put into a perfect suit of bills,
+[[Julia]] with him; and [[Julia]] went into the country to take leave of
+her relations; and the [[house]] was put into a perfect suit of bills,
 announcing that it was to be let or sold, and that the furniture (Mangle
 and all) was to be taken at a valuation. So, here was another earthquake
 of which I became the sport, before I had recovered from the shock of
 its predecessor!
 
 I was in several minds how to dress myself on the important day; being
-divided between my desire to appear to advantage, and my apprehensions
+divided between my [[Desire|desire]] to appear to advantage, and my apprehensions
 of putting on anything that might impair my severely practical character
 in the eyes of the Misses Spenlow. I endeavoured to hit a happy medium
 between these two extremes; my aunt approved the result; and Mr. Dick
@@ -87,24 +87,24 @@ the moment the weight was taken off. You have no idea what obstinate
 hair mine is, Copperfield. I am quite a fretful porcupine.’
 
 I was a little disappointed, I must confess, but thoroughly charmed by
-his good-nature too. I told him how I esteemed his good-nature; and said
+his good-[[Nature|nature]] too. I told him how I esteemed his good-[[Nature|nature]]; and said
 that his hair must have taken all the obstinacy out of his character,
 for he had none.
 
 ‘Oh!’ returned Traddles, laughing. ‘I assure you, it’s quite an old
 story, my unfortunate hair. My uncle’s wife couldn’t bear it. She said
 it exasperated her. It stood very much in my way, too, when I first fell
-in love with Sophy. Very much!’
+in [[Love|love]] with Sophy. Very much!’
 
 ‘Did she object to it?’
 
 ‘SHE didn’t,’ rejoined Traddles; ‘but her eldest sister--the one that’s
-the Beauty--quite made game of it, I understand. In fact, all the
+the [[Beauty]]--quite made game of it, I understand. In fact, all the
 sisters laugh at it.’
 
 ‘Agreeable!’ said I.
 
-‘Yes,’ returned Traddles with perfect innocence, ‘it’s a joke for us.
+‘Yes,’ returned Traddles with perfect [[innocence]], ‘it’s a joke for us.
 They pretend that Sophy has a lock of it in her desk, and is obliged to
 shut it in a clasped book, to keep it down. We laugh about it.’
 
@@ -131,14 +131,14 @@ the subject again, for months.’
 
 ‘You did at last?’ said I.
 
-‘Well, the Reverend Horace did,’ said Traddles. ‘He is an excellent man,
+‘[[Well]], the Reverend Horace did,’ said Traddles. ‘He is an excellent man,
 most exemplary in every way; and he pointed out to her that she ought,
 as a Christian, to reconcile herself to the sacrifice (especially as it
 was so uncertain), and to bear no uncharitable feeling towards me. As to
 myself, Copperfield, I give you my word, I felt a perfect bird of prey
 towards the family.’
 
-‘The sisters took your part, I hope, Traddles?’
+‘The sisters took your part, I [[Hope|hope]], Traddles?’
 
 ‘Why, I can’t say they did,’ he returned. ‘When we had comparatively
 reconciled Mrs. Crewler to it, we had to break it to Sarah. You
@@ -149,22 +149,22 @@ with her spine?’
 
 ‘She clenched both her hands,’ said Traddles, looking at me in dismay;
 ‘shut her eyes; turned lead-colour; became perfectly stiff; and
-took nothing for two days but toast-and-water, administered with a
+took nothing for two days but toast-and-[[Water|water]], administered with a
 tea-spoon.’
 
 ‘What a very unpleasant girl, Traddles!’ I remarked.
 
 ‘Oh, I beg your pardon, Copperfield!’ said Traddles. ‘She is a very
 charming girl, but she has a great deal of feeling. In fact, they all
-have. Sophy told me afterwards, that the self-reproach she underwent
+have. Sophy told me afterwards, that the [[Self|self]]-reproach she underwent
 while she was in attendance upon Sarah, no words could describe. I know
 it must have been severe, by my own feelings, Copperfield; which were
 like a criminal’s. After Sarah was restored, we still had to break it
 to the other eight; and it produced various effects upon them of a most
-pathetic nature. The two little ones, whom Sophy educates, have only
+pathetic [[Nature|nature]]. The two little ones, whom Sophy educates, have only
 just left off de-testing me.’
 
-‘At any rate, they are all reconciled to it now, I hope?’ said I.
+‘At any rate, they are all reconciled to it now, I [[Hope|hope]]?’ said I.
 
 ‘Ye-yes, I should say they were, on the whole, resigned to it,’ said
 Traddles, doubtfully. ‘The fact is, we avoid mentioning the subject;
@@ -175,22 +175,22 @@ they’ll all hate me for taking her away!’
 
 His honest face, as he looked at me with a serio-comic shake of his
 head, impresses me more in the remembrance than it did in the reality,
-for I was by this time in a state of such excessive trepidation
+for I was by this [[Time|time]] in a state of such excessive trepidation
 and wandering of mind, as to be quite unable to fix my attention on
-anything. On our approaching the house where the Misses Spenlow lived,
+anything. On our approaching the [[house]] where the Misses Spenlow lived,
 I was at such a discount in respect of my personal looks and presence of
 mind, that Traddles proposed a gentle stimulant in the form of a glass
-of ale. This having been administered at a neighbouring public-house, he
+of ale. This having been administered at a neighbouring public-[[house]], he
 conducted me, with tottering steps, to the Misses Spenlow’s door.
 
 I had a vague sensation of being, as it were, on view, when the maid
 opened it; and of wavering, somehow, across a hall with a weather-glass
 in it, into a quiet little drawing-room on the ground-floor, commanding
-a neat garden. Also of sitting down here, on a sofa, and seeing
+a neat [[Garden|garden]]. Also of sitting down here, on a sofa, and seeing
 Traddles’s hair start up, now his hat was removed, like one of those
 obtrusive little figures made of springs, that fly out of fictitious
 snuff-boxes when the lid is taken off. Also of hearing an old-fashioned
-clock ticking away on the chimney-piece, and trying to make it keep time
+[[Clock|clock]] ticking away on the chimney-piece, and trying to make it keep [[Time|time]]
 to the jerking of my heart,--which it wouldn’t. Also of looking round
 the room for any sign of Dora, and seeing none. Also of thinking that
 Jip once barked in the distance, and was instantly choked by somebody.
@@ -230,31 +230,31 @@ distinctly heard Jip give two short barks, and receive another choke.
 I did something--bowed, I suppose--and was all attention, when the other
 sister struck in.
 
-‘My sister Lavinia,’ said she ‘being conversant with matters of this
-nature, will state what we consider most calculated to promote the
+‘My sister [[Lavinia]],’ said she ‘being conversant with matters of this
+[[Nature|nature]], will state what we consider most calculated to promote the
 happiness of both parties.’
 
-I discovered afterwards that Miss Lavinia was an authority in affairs
+I discovered afterwards that Miss [[Lavinia]] was an authority in affairs
 of the heart, by reason of there having anciently existed a certain Mr.
 Pidger, who played short whist, and was supposed to have been enamoured
 of her. My private opinion is, that this was entirely a gratuitous
-assumption, and that Pidger was altogether innocent of any such
+assumption, and that Pidger was altogether [[Innocent|innocent]] of any such
 sentiments--to which he had never given any sort of expression that
-I could ever hear of. Both Miss Lavinia and Miss Clarissa had a
+I could ever hear of. Both Miss [[Lavinia]] and Miss Clarissa had a
 superstition, however, that he would have declared his passion, if he
 had not been cut short in his youth (at about sixty) by over-drinking
 his constitution, and over-doing an attempt to set it right again by
-swilling Bath water. They had a lurking suspicion even, that he died of
-secret love; though I must say there was a picture of him in the house
+swilling Bath [[Water|water]]. They had a lurking suspicion even, that he died of
+secret [[Love|love]]; though I must say there was a picture of him in the [[house]]
 with a damask nose, which concealment did not appear to have ever preyed
 upon.
 
-‘We will not,’ said Miss Lavinia, ‘enter on the past history of this
-matter. Our poor brother Francis’s death has cancelled that.’
+‘We will not,’ said Miss [[Lavinia]], ‘enter on the past [[history]] of this
+matter. Our poor brother Francis’s [[Death|death]] has cancelled that.’
 
 ‘We had not,’ said Miss Clarissa, ‘been in the habit of frequent
 association with our brother Francis; but there was no decided division
-or disunion between us. Francis took his road; we took ours. We
+or disunion between us. Francis took his [[Road|road]]; we took ours. We
 considered it conducive to the happiness of all parties that it should
 be so. And it was so.’
 
@@ -264,9 +264,9 @@ never moved her arms. She sometimes played tunes upon them with her
 fingers--minuets and marches I should think--but never moved them.
 
 ‘Our niece’s position, or supposed position, is much changed by our
-brother Francis’s death,’ said Miss Lavinia; ‘and therefore we consider
+brother Francis’s [[Death|death]],’ said Miss [[Lavinia]]; ‘and therefore we consider
 our brother’s opinions as regarded her position as being changed too. We
-have no reason to doubt, Mr. Copperfield, that you are a young gentleman
+have no reason to [[Doubt|doubt]], Mr. Copperfield, that you are a young gentleman
 possessed of good qualities and honourable character; or that you have
 an affection--or are fully persuaded that you have an affection--for our
 niece.’
@@ -275,35 +275,35 @@ I replied, as I usually did whenever I had a chance, that nobody had
 ever loved anybody else as I loved Dora. Traddles came to my assistance
 with a confirmatory murmur.
 
-Miss Lavinia was going on to make some rejoinder, when Miss Clarissa,
-who appeared to be incessantly beset by a desire to refer to her brother
+Miss [[Lavinia]] was going on to make some rejoinder, when Miss Clarissa,
+who appeared to be incessantly beset by a [[Desire|desire]] to refer to her brother
 Francis, struck in again:
 
 ‘If Dora’s mama,’ she said, ‘when she married our brother Francis, had
 at once said that there was not room for the family at the dinner-table,
 it would have been better for the happiness of all parties.’
 
-‘Sister Clarissa,’ said Miss Lavinia. ‘Perhaps we needn’t mind that
+‘Sister Clarissa,’ said Miss [[Lavinia]]. ‘Perhaps we needn’t mind that
 now.’
 
-‘Sister Lavinia,’ said Miss Clarissa, ‘it belongs to the subject. With
-your branch of the subject, on which alone you are competent to speak, I
+‘Sister [[Lavinia]],’ said Miss Clarissa, ‘it belongs to the subject. With
+your branch of the subject, on which [[Alone|alone]] you are competent to speak, I
 should not think of interfering. On this branch of the subject I have a
 voice and an opinion. It would have been better for the happiness of
 all parties, if Dora’s mama, when she married our brother Francis, had
 mentioned plainly what her intentions were. We should then have known
 what we had to expect. We should have said “Pray do not invite us,
-at any time”; and all possibility of misunderstanding would have been
+at any [[Time|time]]”; and all possibility of misunderstanding would have been
 avoided.’
 
-When Miss Clarissa had shaken her head, Miss Lavinia resumed: again
+When Miss Clarissa had shaken her head, Miss [[Lavinia]] resumed: again
 referring to my letter through her eye-glass. They both had little
-bright round twinkling eyes, by the way, which were like birds’ eyes.
-They were not unlike birds, altogether; having a sharp, brisk, sudden
+bright round twinkling eyes, by the way, which were like [[Birds|birds]]’ eyes.
+They were not unlike [[Birds|birds]], altogether; having a sharp, brisk, sudden
 manner, and a little short, spruce way of adjusting themselves, like
 canaries.
 
-Miss Lavinia, as I have said, resumed:
+Miss [[Lavinia]], as I have said, resumed:
 
 ‘You ask permission of my sister Clarissa and myself, Mr. Copperfield,
 to visit here, as the accepted suitor of our niece.’
@@ -311,33 +311,33 @@ to visit here, as the accepted suitor of our niece.’
 ‘If our brother Francis,’ said Miss Clarissa, breaking out again, if I
 may call anything so calm a breaking out, ‘wished to surround himself
 with an atmosphere of Doctors’ Commons, and of Doctors’ Commons only,
-what right or desire had we to object? None, I am sure. We have ever
+what right or [[Desire|desire]] had we to object? None, I am sure. We have ever
 been far from wishing to obtrude ourselves on anyone. But why not say
 so? Let our brother Francis and his wife have their society. Let
-my sister Lavinia and myself have our society. We can find it for
-ourselves, I hope.’
+my sister [[Lavinia]] and myself have our society. We can find it for
+ourselves, I [[Hope|hope]].’
 
 As this appeared to be addressed to Traddles and me, both Traddles and
 I made some sort of reply. Traddles was inaudible. I think I observed,
 myself, that it was highly creditable to all concerned. I don’t in the
 least know what I meant.
 
-‘Sister Lavinia,’ said Miss Clarissa, having now relieved her mind, ‘you
+‘Sister [[Lavinia]],’ said Miss Clarissa, having now relieved her mind, ‘you
 can go on, my dear.’
 
-Miss Lavinia proceeded:
+Miss [[Lavinia]] proceeded:
 
 ‘Mr. Copperfield, my sister Clarissa and I have been very careful
 indeed in considering this letter; and we have not considered it without
 finally showing it to our niece, and discussing it with our niece. We
-have no doubt that you think you like her very much.’
+have no [[Doubt|doubt]] that you think you like her very much.’
 
 ‘Think, ma’am,’ I rapturously began, ‘oh!--’
 
 But Miss Clarissa giving me a look (just like a sharp canary), as
 requesting that I would not interrupt the oracle, I begged pardon.
 
-‘Affection,’ said Miss Lavinia, glancing at her sister for
+‘Affection,’ said Miss [[Lavinia]], glancing at her sister for
 corroboration, which she gave in the form of a little nod to every
 clause, ‘mature affection, homage, devotion, does not easily express
 itself. Its voice is low. It is modest and retiring, it lies in ambush,
@@ -350,8 +350,8 @@ with which Miss Clarissa nodded her head, that great weight was attached
 to these words.
 
 ‘The light--for I call them, in comparison with such sentiments, the
-light--inclinations of very young people,’ pursued Miss Lavinia, ‘are
-dust, compared to rocks. It is owing to the difficulty of knowing
+light--inclinations of very young people,’ pursued Miss [[Lavinia]], ‘are
+[[Dust|dust]], compared to rocks. It is owing to the difficulty of knowing
 whether they are likely to endure or have any real foundation, that
 my sister Clarissa and myself have been very undecided how to act, Mr.
 Copperfield, and Mr.--’
@@ -365,20 +365,20 @@ Traddles said ‘Exactly so,’ and became pretty red in the face.
 
 Now, although I had not received any express encouragement as yet, I
 fancied that I saw in the two little sisters, and particularly in Miss
-Lavinia, an intensified enjoyment of this new and fruitful subject of
+[[Lavinia]], an intensified enjoyment of this new and fruitful subject of
 domestic interest, a settling down to make the most of it, a disposition
-to pet it, in which there was a good bright ray of hope. I thought
-I perceived that Miss Lavinia would have uncommon satisfaction in
-superintending two young lovers, like Dora and me; and that Miss
+to pet it, in which there was a good bright ray of [[Hope|hope]]. I thought
+I perceived that Miss [[Lavinia]] would have uncommon satisfaction in
+superintending two young [[lovers]], like Dora and me; and that Miss
 Clarissa would have hardly less satisfaction in seeing her superintend
 us, and in chiming in with her own particular department of the subject
-whenever that impulse was strong upon her. This gave me courage to
+whenever that impulse was strong upon her. This gave me [[Courage|courage]] to
 protest most vehemently that I loved Dora better than I could tell, or
 anyone believe; that all my friends knew how I loved her; that my aunt,
 Agnes, Traddles, everyone who knew me, knew how I loved her, and how
-earnest my love had made me. For the truth of this, I appealed to
+earnest my [[Love|love]] had made me. For the [[Truth|truth]] of this, I appealed to
 Traddles. And Traddles, firing up as if he were plunging into a
-Parliamentary Debate, really did come out nobly: confirming me in good
+Parliamentary [[debate|Debate]], really did come out nobly: confirming me in good
 round terms, and in a plain sensible practical manner, that evidently
 made a favourable impression.
 
@@ -388,31 +388,31 @@ young lady--one of ten, down in Devonshire--and seeing no probability,
 at present, of our engagement coming to a termination.’
 
 ‘You may be able to confirm what I have said, Mr. Traddles,’ observed
-Miss Lavinia, evidently taking a new interest in him, ‘of the affection
+Miss [[Lavinia]], evidently taking a new interest in him, ‘of the affection
 that is modest and retiring; that waits and waits?’
 
 ‘Entirely, ma’am,’ said Traddles.
 
-Miss Clarissa looked at Miss Lavinia, and shook her head gravely. Miss
-Lavinia looked consciously at Miss Clarissa, and heaved a little sigh.
-‘Sister Lavinia,’ said Miss Clarissa, ‘take my smelling-bottle.’
+Miss Clarissa looked at Miss [[Lavinia]], and shook her head gravely. Miss
+[[Lavinia]] looked consciously at Miss Clarissa, and heaved a little sigh.
+‘Sister [[Lavinia]],’ said Miss Clarissa, ‘take my smelling-bottle.’
 
-Miss Lavinia revived herself with a few whiffs of aromatic
+Miss [[Lavinia]] revived herself with a few whiffs of aromatic
 vinegar--Traddles and I looking on with great solicitude the while; and
 then went on to say, rather faintly:
 
-‘My sister and myself have been in great doubt, Mr. Traddles, what
+‘My sister and myself have been in great [[Doubt|doubt]], Mr. Traddles, what
 course we ought to take in reference to the likings, or imaginary
 likings, of such very young people as your friend Mr. Copperfield and
 our niece.’
 
-‘Our brother Francis’s child,’ remarked Miss Clarissa. ‘If our brother
+‘Our brother Francis’s [[Child|child]],’ remarked Miss Clarissa. ‘If our brother
 Francis’s wife had found it convenient in her lifetime (though she had
 an unquestionable right to act as she thought best) to invite the family
-to her dinner-table, we might have known our brother Francis’s child
-better at the present moment. Sister Lavinia, proceed.’
+to her dinner-table, we might have known our brother Francis’s [[Child|child]]
+better at the present moment. Sister [[Lavinia]], proceed.’
 
-Miss Lavinia turned my letter, so as to bring the superscription towards
+Miss [[Lavinia]] turned my letter, so as to bring the superscription towards
 herself, and referred through her eye-glass to some orderly-looking
 notes she had made on that part of it.
 
@@ -425,14 +425,14 @@ Copperfield’s proposal, as to admit his visits here.’
 ‘I shall never, dear ladies,’ I exclaimed, relieved of an immense load
 of apprehension, ‘forget your kindness!’
 
-‘But,’ pursued Miss Lavinia,--‘but, we would prefer to regard those
+‘But,’ pursued Miss [[Lavinia]],--‘but, we would prefer to regard those
 visits, Mr. Traddles, as made, at present, to us. We must guard
 ourselves from recognizing any positive engagement between Mr.
 Copperfield and our niece, until we have had an opportunity--’
 
-‘Until YOU have had an opportunity, sister Lavinia,’ said Miss Clarissa.
+‘Until YOU have had an opportunity, sister [[Lavinia]],’ said Miss Clarissa.
 
-‘Be it so,’ assented Miss Lavinia, with a sigh--‘until I have had an
+‘Be it so,’ assented Miss [[Lavinia]], with a sigh--‘until I have had an
 opportunity of observing them.’
 
 ‘Copperfield,’ said Traddles, turning to me, ‘you feel, I am sure, that
@@ -440,22 +440,22 @@ nothing could be more reasonable or considerate.’
 
 ‘Nothing!’ cried I. ‘I am deeply sensible of it.’
 
-‘In this position of affairs,’ said Miss Lavinia, again referring to
+‘In this position of affairs,’ said Miss [[Lavinia]], again referring to
 her notes, ‘and admitting his visits on this understanding only, we
 must require from Mr. Copperfield a distinct assurance, on his word of
-honour, that no communication of any kind shall take place between him
+[[Honour|honour]], that no communication of any kind shall take place between him
 and our niece without our knowledge. That no project whatever shall be
 entertained with regard to our niece, without being first submitted to
-us--’ ‘To you, sister Lavinia,’ Miss Clarissa interposed.
+us--’ ‘To you, sister [[Lavinia]],’ Miss Clarissa interposed.
 
-‘Be it so, Clarissa!’ assented Miss Lavinia resignedly--‘to me--and
+‘Be it so, Clarissa!’ assented Miss [[Lavinia]] resignedly--‘to me--and
 receiving our concurrence. We must make this a most express and serious
 stipulation, not to be broken on any account. We wished Mr. Copperfield
 to be accompanied by some confidential friend today,’ with an
 inclination of her head towards Traddles, who bowed, ‘in order that
-there might be no doubt or misconception on this subject. If Mr.
+there might be no [[Doubt|doubt]] or misconception on this subject. If Mr.
 Copperfield, or if you, Mr. Traddles, feel the least scruple, in giving
-this promise, I beg you to take time to consider it.’
+this promise, I beg you to take [[Time|time]] to consider it.’
 
 I exclaimed, in a state of high ecstatic fervour, that not a moment’s
 consideration could be necessary. I bound myself by the required
@@ -463,29 +463,29 @@ promise, in a most impassioned manner; called upon Traddles to witness
 it; and denounced myself as the most atrocious of characters if I ever
 swerved from it in the least degree.
 
-‘Stay!’ said Miss Lavinia, holding up her hand; ‘we resolved, before we
-had the pleasure of receiving you two gentlemen, to leave you alone
+‘Stay!’ said Miss [[Lavinia]], holding up her hand; ‘we resolved, before we
+had the pleasure of receiving you two gentlemen, to leave you [[Alone|alone]]
 for a quarter of an hour, to consider this point. You will allow us to
 retire.’
 
 It was in vain for me to say that no consideration was necessary. They
-persisted in withdrawing for the specified time. Accordingly, these
-little birds hopped out with great dignity; leaving me to receive the
+persisted in withdrawing for the specified [[Time|time]]. Accordingly, these
+little [[Birds|birds]] hopped out with great dignity; leaving me to receive the
 congratulations of Traddles, and to feel as if I were translated to
 regions of exquisite happiness. Exactly at the expiration of the
 quarter of an hour, they reappeared with no less dignity than they had
 disappeared. They had gone rustling away as if their little dresses were
-made of autumn-leaves: and they came rustling back, in like manner.
+made of [[Autumn|autumn]]-[[Leaves|leaves]]: and they came rustling back, in like manner.
 
 I then bound myself once more to the prescribed conditions.
 
-‘Sister Clarissa,’ said Miss Lavinia, ‘the rest is with you.’
+‘Sister Clarissa,’ said Miss [[Lavinia]], ‘the rest is with you.’
 
-Miss Clarissa, unfolding her arms for the first time, took the notes and
+Miss Clarissa, unfolding her arms for the first [[Time|time]], took the notes and
 glanced at them.
 
 ‘We shall be happy,’ said Miss Clarissa, ‘to see Mr. Copperfield to
-dinner, every Sunday, if it should suit his convenience. Our hour is
+dinner, every [[Sunday]], if it should suit his convenience. Our hour is
 three.’
 
 I bowed.
@@ -510,10 +510,10 @@ I intimated that my aunt would be proud and delighted to make their
 acquaintance; though I must say I was not quite sure of their getting
 on very satisfactorily together. The conditions being now closed, I
 expressed my acknowledgements in the warmest manner; and, taking the
-hand, first of Miss Clarissa, and then of Miss Lavinia, pressed it, in
+hand, first of Miss Clarissa, and then of Miss [[Lavinia]], pressed it, in
 each case, to my lips.
 
-Miss Lavinia then arose, and begging Mr. Traddles to excuse us for a
+Miss [[Lavinia]] then arose, and begging Mr. Traddles to excuse us for a
 minute, requested me to follow her. I obeyed, all in a tremble, and was
 conducted into another room. There I found my blessed darling stopping
 her ears behind the door, with her dear little face against the wall;
@@ -542,12 +542,12 @@ him to the light, sneezing very much, and were all three reunited!
 ‘Your friend,’ said Dora. ‘It isn’t any business of his. What a stupid
 he must be!’
 
-‘My love!’ (There never was anything so coaxing as her childish ways.)
+‘My [[Love|love]]!’ (There never was anything so coaxing as her childish ways.)
 ‘He is the best creature!’
 
 ‘Oh, but we don’t want any best creatures!’ pouted Dora.
 
-‘My dear,’ I argued, ‘you will soon know him well, and like him of all
+‘My dear,’ I argued, ‘you will soon know him [[Well|well]], and like him of all
 things. And here is my aunt coming soon; and you’ll like her of all
 things too, when you know her.’
 
@@ -557,11 +557,11 @@ mischief-making old thing! Don’t let her come here, Doady!’ which was a
 corruption of David.
 
 Remonstrance was of no use, then; so I laughed, and admired, and was
-very much in love and very happy; and she showed me Jip’s new trick of
+very much in [[Love|love]] and very happy; and she showed me Jip’s new trick of
 standing on his hind legs in a corner--which he did for about the space
-of a flash of lightning, and then fell down--and I don’t know how long I
-should have stayed there, oblivious of Traddles, if Miss Lavinia had not
-come in to take me away. Miss Lavinia was very fond of Dora (she told
+of a flash of [[Lightning|lightning]], and then fell down--and I don’t know how long I
+should have stayed there, oblivious of Traddles, if Miss [[Lavinia]] had not
+come in to take me away. Miss [[Lavinia]] was very fond of Dora (she told
 me Dora was exactly like what she had been herself at her age--she must
 have altered a good deal), and she treated Dora just as if she had been
 a toy. I wanted to persuade Dora to come and see Traddles, but on my
@@ -573,7 +573,7 @@ agreeable old ladies, I am sure. I shouldn’t be at all surprised if you
 were to be married years before me, Copperfield.’
 
 ‘Does your Sophy play on any instrument, Traddles?’ I inquired, in the
-pride of my heart.
+[[Pride|pride]] of my heart.
 
 ‘She knows enough of the piano to teach it to her little sisters,’ said
 Traddles.
@@ -592,8 +592,8 @@ when they’re out of spirits,’ said Traddles. ‘Nothing scientific.’
 ‘Not at all,’ said Traddles.
 
 I promised Traddles that he should hear Dora sing, and see some of her
-flower-painting. He said he should like it very much, and we went home
-arm in arm in great good humour and delight. I encouraged him to talk
+flower-painting. He said he should like it very much, and we went [[Home|home]]
+arm in arm in great good [[Humour|humour]] and delight. I encouraged him to talk
 about Sophy, on the way; which he did with a loving reliance on her
 that I very much admired. I compared her in my mind with Dora, with
 considerable inward satisfaction; but I candidly admitted to myself that
@@ -602,21 +602,21 @@ she seemed to be an excellent kind of girl for Traddles, too.
 Of course my aunt was immediately made acquainted with the successful
 issue of the conference, and with all that had been said and done in the
 course of it. She was happy to see me so happy, and promised to call on
-Dora’s aunts without loss of time. But she took such a long walk up and
-down our rooms that night, while I was writing to Agnes, that I began to
+Dora’s aunts without loss of [[Time|time]]. But she took such a long walk up and
+down our rooms that [[Night|night]], while I was writing to Agnes, that I began to
 think she meant to walk till morning.
 
 My letter to Agnes was a fervent and grateful one, narrating all the
 good effects that had resulted from my following her advice. She wrote,
 by return of post, to me. Her letter was hopeful, earnest, and cheerful.
-She was always cheerful from that time.
+She was always cheerful from that [[Time|time]].
 
 I had my hands more full than ever, now. My daily journeys to Highgate
 considered, Putney was a long way off; and I naturally wanted to go
 there as often as I could. The proposed tea-drinkings being quite
-impracticable, I compounded with Miss Lavinia for permission to visit
+impracticable, I compounded with Miss [[Lavinia]] for permission to visit
 every Saturday afternoon, without detriment to my privileged Sundays.
-So, the close of every week was a delicious time for me; and I got
+So, the close of every week was a delicious [[Time|time]] for me; and I got
 through the rest of the week by looking forward to it.
 
 I was wonderfully relieved to find that my aunt and Dora’s aunts
@@ -634,7 +634,7 @@ subject. But Dora’s aunts soon agreed to regard my aunt as an eccentric
 and somewhat masculine lady, with a strong understanding; and although
 my aunt occasionally ruffled the feathers of Dora’s aunts, by expressing
 heretical opinions on various points of ceremony, she loved me too
-well not to sacrifice some of her little peculiarities to the general
+[[Well|well]] not to sacrifice some of her little peculiarities to the general
 harmony.
 
 The only member of our small society who positively refused to adapt
@@ -642,7 +642,7 @@ himself to circumstances, was Jip. He never saw my aunt without
 immediately displaying every tooth in his head, retiring under a chair,
 and growling incessantly: with now and then a doleful howl, as if she
 really were too much for his feelings. All kinds of treatment were tried
-with him, coaxing, scolding, slapping, bringing him to Buckingham
+with him, coaxing, scolding, slapping, bringing him to [[Buckingham]]
 Street (where he instantly dashed at the two cats, to the terror of all
 beholders); but he never could prevail upon himself to bear my
 aunt’s society. He would sometimes think he had got the better of his
@@ -655,39 +655,39 @@ reported at the door.
 One thing troubled me much, after we had fallen into this quiet train.
 It was, that Dora seemed by one consent to be regarded like a pretty toy
 or plaything. My aunt, with whom she gradually became familiar, always
-called her Little Blossom; and the pleasure of Miss Lavinia’s life was
+called her Little Blossom; and the pleasure of Miss [[Lavinia]]’s life was
 to wait upon her, curl her hair, make ornaments for her, and treat her
-like a pet child. What Miss Lavinia did, her sister did as a matter of
+like a pet [[Child|child]]. What Miss [[Lavinia]] did, her sister did as a matter of
 course. It was very odd to me; but they all seemed to treat Dora, in her
 degree, much as Dora treated Jip in his.
 
 I made up my mind to speak to Dora about this; and one day when we were
-out walking (for we were licensed by Miss Lavinia, after a while, to
+out walking (for we were licensed by Miss [[Lavinia]], after a while, to
 go out walking by ourselves), I said to her that I wished she could get
 them to behave towards her differently.
 
-‘Because you know, my darling,’ I remonstrated, ‘you are not a child.’
+‘Because you know, my darling,’ I remonstrated, ‘you are not a [[Child|child]].’
 
-‘There!’ said Dora. ‘Now you’re going to be cross!’
+‘There!’ said Dora. ‘Now you’re going to be [[Cross|cross]]!’
 
-‘Cross, my love?’
+‘[[Cross]], my [[Love|love]]?’
 
 ‘I am sure they’re very kind to me,’ said Dora, ‘and I am very happy--’
 
-‘Well! But my dearest life!’ said I, ‘you might be very happy, and yet
+‘[[Well]]! But my dearest life!’ said I, ‘you might be very happy, and yet
 be treated rationally.’
 
 Dora gave me a reproachful look--the prettiest look!--and then began to
 sob, saying, if I didn’t like her, why had I ever wanted so much to be
 engaged to her? And why didn’t I go away, now, if I couldn’t bear her?
 
-What could I do, but kiss away her tears, and tell her how I doted on
+What could I do, but kiss away her [[Tears|tears]], and tell her how I doted on
 her, after that!
 
 ‘I am sure I am very affectionate,’ said Dora; ‘you oughtn’t to be cruel
 to me, Doady!’
 
-‘Cruel, my precious love! As if I would--or could--be cruel to you, for
+‘Cruel, my precious [[Love|love]]! As if I would--or could--be cruel to you, for
 the world!’
 
 ‘Then don’t find fault with me,’ said Dora, making a rosebud of her
@@ -734,13 +734,13 @@ such a charming manner that she was more delightful than ever.
 Consequently, the principal use to which the cookery-book was devoted,
 was being put down in the corner for Jip to stand upon. But Dora was so
 pleased, when she had trained him to stand upon it without offering to
-come off, and at the same time to hold the pencil-case in his mouth,
+come off, and at the same [[Time|time]] to hold the pencil-case in his mouth,
 that I was very glad I had bought it.
 
 And we fell back on the guitar-case, and the flower-painting, and the
-songs about never leaving off dancing, Ta ra la! and were as happy as
+[[songs]] about never leaving off dancing, Ta ra la! and were as happy as
 the week was long. I occasionally wished I could venture to hint to Miss
-Lavinia, that she treated the darling of my heart a little too much like
+[[Lavinia]], that she treated the darling of my heart a little too much like
 a plaything; and I sometimes awoke, as it were, wondering to find that
 I had fallen into the general fault, and treated her like a plaything
 too--but not often.

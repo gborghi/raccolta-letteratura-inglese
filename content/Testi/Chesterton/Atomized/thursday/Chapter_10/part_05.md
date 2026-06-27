@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 10 (part 5)"
+title: "[[thursday]] — Chapter 10 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -16,12 +16,12 @@ tags:
 
 "Gentlemen," he said, "we all owe you a serious apology; but I assure
 you that you have not been made the victims of such a low joke as
-you imagine, or indeed of anything undignified in a man of honour.
-You have not wasted your time; you have helped to save the world.
+you imagine, or indeed of anything undignified in a man of [[Honour|honour]].
+You have not wasted your [[Time|time]]; you have helped to save the world.
 We are not buffoons, but very desperate men at war with a vast conspiracy.
 A secret society of anarchists is hunting us like hares; not such
 unfortunate madmen as may here or there throw a bomb through starvation
-or German philosophy, but a rich and powerful and fanatical church, a church
+or German [[philosophy]], but a rich and powerful and fanatical church, a church
 of eastern pessimism, which holds it holy to destroy mankind like vermin.
 How hard they hunt us you can gather from the fact that we are driven
 to such disguises as those for which I apologise, and to such pranks
@@ -48,9 +48,9 @@ I have fought for France, and it is hard if I can't fight for civilization."
 
 Dr. Bull took off his hat and waved it, cheering as at a public meeting.
 
-"Don't make too much noise," said Inspector Ratcliffe, "Sunday may hear you."
+"Don't make too much noise," said Inspector Ratcliffe, "[[Sunday]] may hear you."
 
-"Sunday!" cried Bull, and dropped his hat.
+"[[Sunday]]!" cried Bull, and dropped his hat.
 
 "Yes," retorted Ratcliffe, "he may be with them."
 
@@ -62,13 +62,13 @@ Dr. Bull took off his hat and waved it, cheering as at a public meeting.
 of fact--But, my God," he cried out suddenly, like a man who sees
 an explosion a long way off, "by God! if this is true the whole bally
 lot of us on the Anarchist Council were against anarchy!  Every born
-man was a detective except the President and his personal secretary.
+man was a [[Detective|detective]] except the President and his personal secretary.
 What can it mean?"
 
 "Mean!" said the new policeman with incredible violence.
-"It means that we are struck dead!  Don't you know Sunday?  Don't you
+"It means that we are struck dead!  Don't you know [[Sunday]]?  Don't you
 know that his jokes are always so big and simple that one has
-never thought of them?  Can you think of anything more like Sunday
+never thought of them?  Can you think of anything more like [[Sunday]]
 than this, that he should put all his powerful enemies on
 the Supreme Council, and then take care that it was not supreme?
 I tell you he has bought every trust, he has captured every cable,
@@ -77,22 +77,22 @@ and he pointed a shaking finger towards the small wayside station.
 "The whole movement was controlled by him; half the world was
 ready to rise for him.  But there were just five people, perhaps,
 who would have resisted him... and the old devil put them on
-the Supreme Council, to waste their time in watching each other.
+the Supreme Council, to waste their [[Time|time]] in watching each other.
 Idiots that we are, he planned the whole of our idiocies!
-Sunday knew that the Professor would chase Syme through London,
+[[Sunday]] knew that [[The Professor|the Professor]] would chase Syme through [[London]],
 and that Syme would fight me in France.  And he was combining
 great masses of capital, and seizing great lines of telegraphy,
 while we five idiots were running after each other like a lot
 of confounded babies playing blind man's buff."
 
-"Well?" asked Syme with a sort of steadiness.
+"[[Well]]?" asked Syme with a sort of steadiness.
 
-"Well," replied the other with sudden serenity, "he has found us playing blind
-man's buff to-day in a field of great rustic beauty and extreme solitude.
+"[[Well]]," replied the other with sudden serenity, "he has found us playing blind
+man's buff to-day in a field of great rustic [[Beauty|beauty]] and extreme [[Solitude|solitude]].
 He has probably captured the world; it only remains to him to capture
 this field and all the fools in it.  And since you really want to know
 what was my objection to the arrival of that train, I will tell you.
-My objection was that Sunday or his Secretary has just this moment got
+My objection was that [[Sunday]] or his Secretary has just this moment got
 out of it."
 
 Syme uttered an involuntary cry, and they all turned their eyes
@@ -111,7 +111,7 @@ highly decorative spectacles."
 He handed the field-glasses to the Doctor, who immediately took
 off his spectacles and put the apparatus to his eyes.
 
-"It cannot be as bad as you say," said the Professor, somewhat shaken.
+"It cannot be as bad as you say," said [[The Professor|the Professor]], somewhat shaken.
 "There are a good number of them certainly, but they may easily
 be ordinary tourists."
 

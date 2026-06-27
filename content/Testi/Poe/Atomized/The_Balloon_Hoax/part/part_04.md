@@ -1,5 +1,5 @@
 ---
-title: "The Balloon-Hoax (part 4)"
+title: "[[The Balloon-Hoax]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Balloon-Hoax-(Poe)"
@@ -34,7 +34,7 @@ tags:
 
       romantic one when seen from any point,—was now especially
 
-      sublime. The numerous deep gorges presented the appearance of
+      [[Sublime|sublime]]. The numerous deep gorges presented the appearance of
 
       lakes, on account of the dense vapors with which they were
 
@@ -42,9 +42,9 @@ tags:
 
       inextricable confusion, resembling nothing so much as the giant
 
-      cities of eastern fable. We were rapidly approaching the
+      cities of eastern [[Fable|fable]]. We were rapidly approaching the
 
-      mountains in the South; but our elevation was more than
+      [[Mountains|mountains]] in the South; but our elevation was more than
 
       sufficient to enable us to pass them in safety. In a few minutes
 
@@ -66,7 +66,7 @@ tags:
 
       resolved to let off enough gas to bring our guide-rope, with the
 
-      buoys affixed, into the water. This was immediately done, and we
+      buoys affixed, into the [[Water|water]]. This was immediately done, and we
 
       commenced a gradual descent. In about twenty minutes our first
 
@@ -78,13 +78,13 @@ tags:
 
       into requisition forthwith, for the purpose of altering our
 
-      direction more to the eastward, and in a line for Paris. By means
+      direction more to the eastward, and in a line for [[Paris]]. By means
 
       of the rudder we instantly effected the necessary change of
 
       direction, and our course was brought nearly at right angles to
 
-      that of the wind; when we set in motion the spring of the screw,
+      that of the [[Wind|wind]]; when we set in motion the [[Spring|spring]] of the screw,
 
       and were rejoiced to find it propel us readily as desired. Upon
 
@@ -98,7 +98,7 @@ tags:
 
       discouraged us in no little degree. The steel rod connecting the
 
-      spring with the propeller was suddenly jerked out of place, at
+      [[Spring|spring]] with the propeller was suddenly jerked out of place, at
 
       the car end, (by a swaying of the car through some movement of
 
@@ -110,7 +110,7 @@ tags:
 
       completely absorbed, we became involved in a strong current of
 
-      wind from the East, which bore us, with rapidly increasing force,
+      [[Wind|wind]] from the East, which bore us, with rapidly increasing force,
 
       towards the Atlantic. We soon found ourselves driving out to sea
 
@@ -118,7 +118,7 @@ tags:
 
       hour, so that we came up with Cape Clear, at some forty miles to
 
-      our North, before we had secured the rod, and had time to think
+      our North, before we had secured the rod, and had [[Time|time]] to think
 
       what we were about. It was now that Mr. Ainsworth made an
 
@@ -128,9 +128,9 @@ tags:
 
       Holland—viz.: that we should take advantage of the strong gale
 
-      which bore us on, and in place of beating back to Paris, make an
+      which bore us on, and in place of beating back to [[Paris]], make an
 
-      attempt to reach the coast of North America. After slight
+      attempt to reach the coast of North [[America]]. After slight
 
       reflection I gave a willing assent to this bold proposition,
 
@@ -158,7 +158,7 @@ tags:
 
       streamer from a vessel. It is needless to say that a very short
 
-      time sufficed us to lose sight of the coast. We passed over
+      [[Time|time]] sufficed us to lose sight of the coast. We passed over
 
       innumerable vessels of all kinds, a few of which were endeavoring
 
@@ -170,7 +170,7 @@ tags:
 
       influence of a dram of Geneva, seemed resolved to give all
 
-      scruple, or fear, to the wind. Many of the vessels fired signal
+      scruple, or [[Fear|fear]], to the [[Wind|wind]]. Many of the vessels fired signal
 
       guns; and in all we were saluted with loud cheers (which we heard
 
@@ -178,7 +178,7 @@ tags:
 
       handkerchiefs. We kept on in this manner throughout the day, with
 
-      no material incident, and, as the shades of night closed around
+      no material incident, and, as the shades of [[Night|night]] closed around
 
       us, we made a rough estimate of the distance traversed. It could
 

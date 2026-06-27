@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 11"
+title: "[[Sense and Sensibility]] — Chapter 11"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,17 +24,17 @@ Little had Mrs. Dashwood or her daughters imagined when they first came
 
 into Devonshire, that so many engagements would arise to occupy their
 
-time as shortly presented themselves, or that they should have such
+[[Time|time]] as shortly presented themselves, or that they should have such
 
 frequent invitations and such constant visitors as to leave them little
 
 leisure for serious employment. Yet such was the case. When Marianne
 
-was recovered, the schemes of amusement at home and abroad, which Sir
+was recovered, the schemes of amusement at [[Home|home]] and abroad, which Sir
 
 John had been previously forming, were put into execution. The private
 
-balls at the park then began; and parties on the water were made and
+balls at the park then began; and parties on the [[Water|water]] were made and
 
 accomplished as often as a showery October would allow. In every
 
@@ -58,7 +58,7 @@ Elinor could not be surprised at their attachment. She only wished that
 
 it were less openly shown; and once or twice did venture to suggest the
 
-propriety of some self-command to Marianne. But Marianne abhorred all
+propriety of some [[Self|self]]-command to Marianne. But Marianne abhorred all
 
 concealment where no real disgrace could attend unreserve; and to aim
 
@@ -82,11 +82,11 @@ the park were concluded with cards, he cheated himself and all the rest
 
 of the party to get her a good hand. If dancing formed the amusement of
 
-the night, they were partners for half the time; and when obliged to
+the [[Night|night]], they were partners for half the [[Time|time]]; and when obliged to
 
 separate for a couple of dances, were careful to stand together and
 
-scarcely spoke a word to any body else. Such conduct made them of
+scarcely spoke a word to any [[Body|body]] else. Such conduct made them of
 
 course most exceedingly laughed at; but ridicule could not shame, and
 
@@ -112,7 +112,7 @@ her from Sussex, was more likely to be softened than she had thought it
 
 possible before, by the charms which his society bestowed on her
 
-present home.
+present [[Home|home]].
 
 
 
@@ -130,9 +130,9 @@ she missed; although the latter was an everlasting talker, and from the
 
 first had regarded her with a kindness which ensured her a large share
 
-of her discourse. She had already repeated her own history to Elinor
+of her discourse. She had already repeated her own [[history]] to Elinor
 
-three or four times; and had Elinor’s memory been equal to her means of
+three or four times; and had Elinor’s [[Memory|memory]] been equal to her means of
 
 improvement, she might have known very early in their acquaintance all
 
@@ -160,7 +160,7 @@ and her two eldest children attended her, she never appeared to receive
 
 more enjoyment from them than she might have experienced in sitting at
 
-home;—and so little did her presence add to the pleasure of the others,
+[[Home|home]];—and so little did her presence add to the pleasure of the others,
 
 by any share in their conversation, that they were sometimes only
 
@@ -170,19 +170,19 @@ troublesome boys.
 
 
 
-In Colonel Brandon alone, of all her new acquaintance, did Elinor find
+In [[Colonel Brandon]] [[Alone|alone]], of all her new acquaintance, did Elinor find
 
 a person who could in any degree claim the respect of abilities, excite
 
-the interest of friendship, or give pleasure as a companion. Willoughby
+the interest of [[Friendship|friendship]], or give pleasure as a companion. Willoughby
 
 was out of the question. Her admiration and regard, even her sisterly
 
-regard, was all his own; but he was a lover; his attentions were wholly
+regard, was all his own; but he was a [[Lover|lover]]; his attentions were wholly
 
 Marianne’s, and a far less agreeable man might have been more generally
 
-pleasing. Colonel Brandon, unfortunately for himself, had no such
+pleasing. [[Colonel Brandon]], unfortunately for himself, had no such
 
 encouragement to think only of Marianne, and in conversing with Elinor
 
@@ -192,7 +192,7 @@ he found the greatest consolation for the indifference of her sister.
 
 Elinor’s compassion for him increased, as she had reason to suspect
 
-that the misery of disappointed love had already been known to him.
+that the misery of disappointed [[Love|love]] had already been known to him.
 
 This suspicion was given by some words which accidentally dropped from
 
@@ -200,7 +200,7 @@ him one evening at the park, when they were sitting down together by
 
 mutual consent, while the others were dancing. His eyes were fixed on
 
-Marianne, and, after a silence of some minutes, he said, with a faint
+Marianne, and, after a [[Silence|silence]] of some minutes, he said, with a faint
 
 smile, “Your sister, I understand, does not approve of second
 
@@ -224,7 +224,7 @@ few years however will settle her opinions on the reasonable basis of
 
 common sense and observation; and then they may be more easy to define
 
-and to justify than they now are, by any body but herself.”
+and to justify than they now are, by any [[Body|body]] but herself.”
 
 
 
@@ -256,7 +256,7 @@ After a short pause he resumed the conversation by saying,—
 
 “Does your sister make no distinction in her objections against a
 
-second attachment? or is it equally criminal in every body? Are those
+second attachment? or is it equally criminal in every [[Body|body]]? Are those
 
 who have been disappointed in their first choice, whether from the
 
@@ -276,7 +276,7 @@ attachment’s being pardonable.”
 
 “This,” said he, “cannot hold; but a change, a total change of
 
-sentiments—No, no, do not desire it; for when the romantic refinements
+sentiments—No, no, do not [[Desire|desire]] it; for when the romantic refinements
 
 of a young mind are obliged to give way, how frequently are they
 
@@ -304,6 +304,6 @@ recollection of past regard. Elinor attempted no more. But Marianne, in
 
 her place, would not have done so little. The whole story would have
 
-been speedily formed under her active imagination; and every thing
+been speedily formed under her active [[Imagination|imagination]]; and every thing
 
-established in the most melancholy order of disastrous love.
+established in the most [[Melancholy|melancholy]] order of disastrous [[Love|love]].

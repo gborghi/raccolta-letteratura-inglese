@@ -23,7 +23,7 @@ always believes what’s good, Sir; at least, I know my mother does, God
 bless her!”
 
 Mr Carker’s mouth expanded, but he said no more until he was mounted on
-his horse, and had dismissed the man who held it, when, looking down
+his [[Horse|horse]], and had dismissed the man who held it, when, looking down
 from the saddle steadily into the attentive and watchful face of the
 boy, he said:
 
@@ -34,7 +34,7 @@ where you are going, as you heard me say.”
 “Yes, Sir,” returned Rob.
 
 “I have a great interest in that old gentleman, and in serving him, you
-serve me, boy, do you understand? Well,” he added, interrupting him,
+serve me, boy, do you understand? [[Well]],” he added, interrupting him,
 for he saw his round face brighten when he was told that: “I see you
 do. I want to know all about that old gentleman, and how he goes on
 from day to day—for I am anxious to be of service to him—and especially
@@ -43,7 +43,7 @@ who comes there to see him. Do you understand?”
 Rob nodded his steadfast face, and said “Yes, Sir,” again.
 
 “I should like to know that he has friends who are attentive to him,
-and that they don’t desert him—for he lives very much alone now, poor
+and that they don’t [[Desert|desert]] him—for he lives very much [[Alone|alone]] now, poor
 fellow; but that they are fond of him, and of his nephew who has gone
 abroad. There is a very young lady who may perhaps come to see him. I
 want particularly to know all about her.”
@@ -61,8 +61,8 @@ but me.”
 left, “nor anywhere else. I’ll try how true and grateful you can be.
 I’ll prove you!” Making this, by his display of teeth and by the action
 of his head, as much a threat as a promise, he turned from Rob’s eyes,
-which were nailed upon him as if he had won the boy by a charm, body
-and soul, and rode away. But again becoming conscious, after trotting a
+which were nailed upon him as if he had won the boy by a charm, [[Body|body]]
+and [[Soul|soul]], and rode away. But again becoming conscious, after trotting a
 short distance, that his devoted henchman, girt as before, was yielding
 him the same attendance, to the great amusement of sundry spectators,
 he reined up, and ordered him off. To ensure his obedience, he turned
@@ -80,24 +80,24 @@ could be, Mr Carker picked his way along the streets and hummed a soft
 tune as he went. He seemed to purr, he was so glad.
 
 And in some sort, Mr Carker, in his fancy, basked upon a hearth too.
-Coiled up snugly at certain feet, he was ready for a spring, Or for a
-tear, or for a scratch, or for a velvet touch, as the humour took him
+Coiled up snugly at certain feet, he was ready for a [[spring]], Or for a
+tear, or for a scratch, or for a velvet touch, as the [[Humour|humour]] took him
 and occasion served. Was there any bird in a cage, that came in for a
 share of his regards?
 
-“A very young lady!” thought Mr Carker the Manager, through his song.
-“Ay! when I saw her last, she was a little child. With dark eyes and
+“A very young lady!” thought Mr Carker the Manager, through his [[Song|song]].
+“Ay! when I saw her last, she was a little [[Child|child]]. With dark eyes and
 hair, I recollect, and a good face; a very good face! I daresay she’s
 pretty.”
 
-More affable and pleasant yet, and humming his song until his many
+More affable and pleasant yet, and humming his [[Song|song]] until his many
 teeth vibrated to it, Mr Carker picked his way along, and turned at
-last into the shady street where Mr Dombey’s house stood. He had been
+last into the shady street where Mr Dombey’s [[house]] stood. He had been
 so busy, winding webs round good faces, and obscuring them with meshes,
 that he hardly thought of being at this point of his ride, until,
 glancing down the cold perspective of tall houses, he reined in his
-horse quickly within a few yards of the door. But to explain why Mr
-Carker reined in his horse quickly, and what he looked at in no small
+[[Horse|horse]] quickly within a few yards of the door. But to explain why Mr
+Carker reined in his [[Horse|horse]] quickly, and what he looked at in no small
 surprise, a few digressive words are necessary.
 
 Mr Toots, emancipated from the Blimber thraldom and coming into the
@@ -117,7 +117,7 @@ heard of at the bar of the Black Badger, wore a shaggy white great-coat
 in the warmest weather, and knocked Mr Toots about the head three times
 a week, for the small consideration of ten and six per visit.
 
-The Game Chicken, who was quite the Apollo of Mr Toots’s Pantheon, had
+The Game Chicken, who was quite the [[Apollo]] of Mr Toots’s Pantheon, had
 introduced to him a marker who taught billiards, a Life Guard who
 taught fencing, a jobmaster who taught riding, a Cornish gentleman who
 was up to anything in the athletic line, and two or three other friends

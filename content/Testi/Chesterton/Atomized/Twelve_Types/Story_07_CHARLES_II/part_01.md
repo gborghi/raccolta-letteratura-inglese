@@ -28,7 +28,7 @@ Charles II. represented one thing which is very rare and very
 
 satisfying; he was a real and consistent sceptic. Scepticism both in its
 
-advantages and disadvantages is greatly misunderstood in our time. There
+advantages and disadvantages is greatly misunderstood in our [[Time|time]]. There
 
 is a curious idea abroad that scepticism has some connection with such
 
@@ -68,7 +68,7 @@ of judgment. For it is the assertion of a universal negative; for a man
 
 to say that there is no God in the universe is like saying that there
 
-are no insects in any of the stars.
+are no [[Insects|insects]] in any of the [[Stars|stars]].
 
 
 
@@ -82,15 +82,15 @@ not be God; similarly it might not be a wafer. To the genuine and
 
 poetical sceptic the whole world is incredible, with its bulbous
 
-mountains and its fantastic trees. The whole order of things is as
+[[Mountains|mountains]] and its fantastic trees. The whole order of things is as
 
 outrageous as any miracle which could presume to violate it.
 
-Transubstantiation might be a dream, but if it was, it was assuredly a
+Transubstantiation might be [[A Dream|a dream]], but if it was, it was assuredly a
 
-dream within a dream. Charles II. sought to guard himself against hell
+dream within [[A Dream|a dream]]. Charles II. sought to guard himself against hell
 
-fire because he could not think hell itself more fantastic than the
+[[Fire|fire]] because he could not think hell itself more fantastic than the
 
 world as it was revealed by science. The priest crept up the staircase,
 
@@ -98,7 +98,7 @@ the doors were closed, the few of the faithful who were present hushed
 
 themselves respectfully, and so, with every circumstance of secrecy and
 
-sanctity, with the cross uplifted and the prayers poured out, was
+sanctity, with the [[Cross|cross]] uplifted and the prayers poured out, was
 
 consummated the last great act of logical unbelief.
 
@@ -112,7 +112,7 @@ some of the virtues have been dropped out in the lists made by all the
 
 saints and sages, and that Charles II. was pre-eminently successful in
 
-these wild and unmentionable virtues. The real truth of this matter and
+these wild and unmentionable virtues. The real [[Truth|truth]] of this matter and
 
 the real relation of Charles II. to the moral ideal is worth somewhat
 
@@ -122,13 +122,13 @@ more exhaustive study.
 
 It is a commonplace that the Restoration movement can only be understood
 
-when considered as a reaction against Puritanism. But it is
+when considered as a reaction against [[Puritanism]]. But it is
 
 insufficiently realised that the tyranny which half frustrated all the
 
-good work of Puritanism was of a very peculiar kind. It was not the fire
+good work of [[Puritanism]] was of a very peculiar kind. It was not the [[Fire|fire]]
 
-of Puritanism, the exultation in sobriety, the frenzy of a restraint,
+of [[Puritanism]], the exultation in sobriety, the frenzy of a restraint,
 
 which passed away; that still burns in the heart of England, only to be
 
@@ -138,13 +138,13 @@ the Puritans were in their day emphatically intellectual bullies, that
 
 they relied swaggeringly on the logical necessity of Calvinism, that
 
-they bound omnipotence itself in the chains of syllogism. The Puritans
+they bound omnipotence itself in the [[Chains|chains]] of syllogism. The Puritans
 
 fell, through the damning fact that they had a complete theory of life,
 
-through the eternal paradox that a satisfactory explanation can never
+through the eternal [[Paradox|paradox]] that a satisfactory explanation can never
 
-satisfy. Like Brutus and the logical Romans, like the logical French
+satisfy. Like [[Brutus]] and the logical Romans, like the logical French
 
 Jacobins, like the logical English utilitarians, they taught the lesson
 
@@ -164,17 +164,17 @@ conflagrations are comparatively a trifle. Their real tyranny was the
 
 tyranny of aggressive reason over the cowed and demoralised human
 
-spirit. Their brooding and raving can be forgiven, can in truth be loved
+spirit. Their brooding and raving can be forgiven, can in [[Truth|truth]] be loved
 
-and reverenced, for it is humanity on fire; hatred can be genial,
+and reverenced, for it is humanity on [[Fire|fire]]; hatred can be genial,
 
-madness can be homely. The Puritans fell, not because they were
+[[Madness|madness]] can be homely. The Puritans fell, not because they were
 
 fanatics, but because they were rationalists.
 
 
 
-When we consider these things, when we remember that Puritanism, which
+When we consider these things, when we remember that [[Puritanism]], which
 
 means in our day a moral and almost temperamental attitude, meant in
 
@@ -186,7 +186,7 @@ of the Restoration. The Restoration, of which Charles II. was a
 
 pre-eminent type, was in part a revolt of all the chaotic and unclassed
 
-parts of human nature, the parts that are left over, and will always be
+parts of human [[Nature|nature]], the parts that are left over, and will always be
 
 left over, by every rationalistic system of life. This does not merely
 

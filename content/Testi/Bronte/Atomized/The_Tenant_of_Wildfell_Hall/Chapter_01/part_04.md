@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 1 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 1 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -18,7 +18,7 @@ and peccadilloes; and moreover, in those days, whenever he called upon
 
 our parents, we had to stand up before him, and say our catechism, or
 
-repeat, “How doth the little busy bee,” or some other hymn, or—worse
+repeat, “How doth the little busy bee,” or some other [[Hymn|hymn]], or—worse
 
 than all—be questioned about his last text, and the heads of the
 
@@ -56,7 +56,7 @@ of dietary peculiar to himself,—being a great despiser of tea and such
 
 slops, and a patron of malt liquors, bacon and eggs, ham, hung beef,
 
-and other strong meats, which agreed well enough with his digestive
+and other strong meats, which agreed [[Well|well]] enough with his digestive
 
 organs, and therefore were maintained by him to be good and wholesome
 
@@ -82,7 +82,7 @@ narrow-minded, tattling old gossip, whose character is not worth
 
 describing. She had two sons, Robert, a rough countrified farmer, and
 
-Richard, a retiring, studious young man, who was studying the classics
+[[Richard]], a retiring, studious young man, who was studying the classics
 
 with the vicar’s assistance, preparing for college, with a view to
 
@@ -90,17 +90,17 @@ enter the church.
 
 
 
-Their sister Jane was a young lady of some talents, and more ambition.
+Their sister Jane was a young lady of some talents, and more [[Ambition|ambition]].
 
-She had, at her own desire, received a regular boarding-school
+She had, at her own [[Desire|desire]], received a regular boarding-school
 
-education, superior to what any member of the family had obtained
+[[Education|education]], superior to what any member of the family had obtained
 
-before. She had taken the polish well, acquired considerable elegance
+before. She had taken the polish [[Well|well]], acquired considerable elegance
 
 of manners, quite lost her provincial accent, and could boast of more
 
-accomplishments than the vicar’s daughters. She was considered a beauty
+accomplishments than the vicar’s daughters. She was considered a [[Beauty|beauty]]
 
 besides; but never for a moment could she number me amongst her
 
@@ -110,7 +110,7 @@ her hair was neither chestnut nor auburn, but a most decided bright,
 
 light red; her complexion was remarkably fair and brilliant, her head
 
-small, neck long, chin well turned, but very short, lips thin and red,
+small, neck long, chin [[Well|well]] turned, but very short, lips thin and red,
 
 eyes clear hazel, quick, and penetrating, but entirely destitute of
 
@@ -120,7 +120,7 @@ rank of life, but scornfully repulsed or rejected them all; for none
 
 but a gentleman could please her refined taste, and none but a rich one
 
-could satisfy her soaring ambition. One gentleman there was, from whom
+could satisfy her soaring [[Ambition|ambition]]. One gentleman there was, from whom
 
 she had lately received some rather pointed attentions, and upon whose
 
@@ -148,4 +148,4 @@ I’ll pardon your bad taste, and willingly keep the treasure to myself.
 
 Yours immutably,
 
-GILBERT MARKHAM.
+[[Gilbert Markham|GILBERT MARKHAM]].

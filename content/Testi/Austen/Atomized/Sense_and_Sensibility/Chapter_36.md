@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 36"
+title: "[[Sense and Sensibility]] — Chapter 36"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -32,7 +32,7 @@ to all those intimate connections who knew it before.
 
 This event, highly important to Mrs. Jennings’s happiness, produced a
 
-temporary alteration in the disposal of her time, and influenced, in a
+temporary alteration in the disposal of her [[Time|time]], and influenced, in a
 
 like degree, the engagements of her young friends; for as she wished to
 
@@ -46,7 +46,7 @@ Middletons, spent the whole of every day in Conduit Street. For their
 
 own comfort they would much rather have remained, at least all the
 
-morning, in Mrs. Jennings’s house; but it was not a thing to be urged
+morning, in Mrs. Jennings’s [[house]]; but it was not a thing to be urged
 
 against the wishes of everybody. Their hours were therefore made over
 
@@ -96,7 +96,7 @@ account of the whole affair between Marianne and Mr. Willoughby, she
 
 would have thought herself amply rewarded for the sacrifice of the best
 
-place by the fire after dinner, which their arrival occasioned. But
+place by the [[Fire|fire]] after dinner, which their arrival occasioned. But
 
 this conciliation was not granted; for though she often threw out
 
@@ -112,7 +112,7 @@ friend. Would they only have laughed at her about the Doctor! But so
 
 little were they, any more than the others, inclined to oblige her,
 
-that if Sir John dined from home, she might spend a whole day without
+that if Sir John dined from [[Home|home]], she might spend a whole day without
 
 hearing any other raillery on the subject, than what she was kind
 
@@ -126,17 +126,17 @@ unsuspected by Mrs. Jennings, that she thought it a delightful thing
 
 for the girls to be together; and generally congratulated her young
 
-friends every night, on having escaped the company of a stupid old
+friends every [[Night|night]], on having escaped the company of a stupid old
 
 woman so long. She joined them sometimes at Sir John’s, sometimes at
 
-her own house; but wherever it was, she always came in excellent
+her own [[house]]; but wherever it was, she always came in excellent
 
-spirits, full of delight and importance, attributing Charlotte’s well
+spirits, full of delight and importance, attributing Charlotte’s [[Well|well]]
 
 doing to her own care, and ready to give so exact, so minute a detail
 
-of her situation, as only Miss Steele had curiosity enough to desire.
+of her situation, as only Miss Steele had curiosity enough to [[Desire|desire]].
 
 One thing _did_ disturb her; and of that she made her daily complaint.
 
@@ -152,13 +152,13 @@ father of it; no persuading him to believe that it was not exactly like
 
 every other baby of the same age; nor could he even be brought to
 
-acknowledge the simple proposition of its being the finest child in the
+acknowledge the simple proposition of its being the finest [[Child|child]] in the
 
 world.
 
 
 
-I come now to the relation of a misfortune, which about this time
+I come now to the relation of a misfortune, which about this [[Time|time]]
 
 befell Mrs. John Dashwood. It so happened that while her two sisters
 
@@ -172,11 +172,11 @@ other people will carry them away to form wrong judgments of our
 
 conduct, and to decide on it by slight appearances, one’s happiness
 
-must in some measure be always at the mercy of chance. In the present
+must in some measure be always at the [[Mercy|mercy]] of chance. In the present
 
 instance, this last-arrived lady allowed her fancy to so far outrun
 
-truth and probability, that on merely hearing the name of the Miss
+[[Truth|truth]] and probability, that on merely hearing the name of the Miss
 
 Dashwoods, and understanding them to be Mr. Dashwood’s sisters, she
 
@@ -184,9 +184,9 @@ immediately concluded them to be staying in Harley Street; and this
 
 misconstruction produced within a day or two afterwards, cards of
 
-invitation for them as well as for their brother and sister, to a small
+invitation for them as [[Well|well]] as for their brother and sister, to a small
 
-musical party at her house. The consequence of which was, that Mrs.
+musical party at her [[house]]. The consequence of which was, that Mrs.
 
 John Dashwood was obliged to submit not only to the exceedingly great
 
@@ -196,7 +196,7 @@ was still worse, must be subject to all the unpleasantness of appearing
 
 to treat them with attention: and who could tell that they might not
 
-expect to go out with her a second time? The power of disappointing
+expect to go out with her a second [[Time|time]]? The power of disappointing
 
 them, it was true, must always be hers. But that was not enough; for
 
@@ -264,7 +264,7 @@ occasion, to her brother’s carriage; which they were ready to enter
 
 five minutes after it stopped at the door, a punctuality not very
 
-agreeable to their sister-in-law, who had preceded them to the house of
+agreeable to their sister-in-law, who had preceded them to the [[house]] of
 
 her acquaintance, and was there hoping for some delay on their part
 
@@ -320,11 +320,11 @@ own merit, than on the merit of his nearest relations! For then his
 
 brother’s bow must have given the finishing stroke to what the
 
-ill-humour of his mother and sister would have begun. But while she
+ill-[[Humour|humour]] of his mother and sister would have begun. But while she
 
 wondered at the difference of the two young men, she did not find that
 
-the emptiness and conceit of the one, put her out of all charity with
+the emptiness and conceit of the one, put her out of all [[Charity|charity]] with
 
 the modesty and worth of the other. Why they _were_ different, Robert
 
@@ -336,17 +336,17 @@ _gaucherie_ which he really believed kept him from mixing in proper
 
 society, he candidly and generously attributed it much less to any
 
-natural deficiency, than to the misfortune of a private education;
+natural deficiency, than to the misfortune of a private [[Education|education]];
 
 while he himself, though probably without any particular, any material
 
-superiority by nature, merely from the advantage of a public school,
+superiority by [[Nature|nature]], merely from the advantage of a public school,
 
-was as well fitted to mix in the world as any other man.
+was as [[Well|well]] fitted to mix in the world as any other man.
 
 
 
-“Upon my soul,” he added, “I believe it is nothing more; and so I often
+“Upon my [[Soul|soul]],” he added, “I believe it is nothing more; and so I often
 
 tell my mother, when she is grieving about it. ‘My dear Madam,’ I
 
@@ -356,9 +356,9 @@ irremediable, and it has been entirely your own doing. Why would you be
 
 persuaded by my uncle, Sir Robert, against your own judgment, to place
 
-Edward under private tuition, at the most critical time of his life? If
+Edward under private tuition, at the most critical [[Time|time]] of his life? If
 
-you had only sent him to Westminster as well as myself, instead of
+you had only sent him to Westminster as [[Well|well]] as myself, instead of
 
 sending him to Mr. Pratt’s, all this would have been prevented.’ This
 
@@ -388,7 +388,7 @@ surprising to him that anybody could live in Devonshire, without living
 
 near Dawlish. He bestowed his hearty approbation however on their
 
-species of house.
+species of [[house]].
 
 
 
@@ -398,11 +398,11 @@ is always so much comfort, so much elegance about them. And I protest,
 
 if I had any money to spare, I should buy a little land and build one
 
-myself, within a short distance of London, where I might drive myself
+myself, within a short distance of [[London]], where I might drive myself
 
-down at any time, and collect a few friends about me, and be happy. I
+down at any [[Time|time]], and collect a few friends about me, and be happy. I
 
-advise every body who is going to build, to build a cottage. My friend
+advise every [[Body|body]] who is going to build, to build a cottage. My friend
 
 Lord Courtland came to me the other day on purpose to ask my advice,
 
@@ -410,7 +410,7 @@ and laid before me three different plans of Bonomi’s. I was to decide
 
 on the best of them. ‘My dear Courtland,’ said I, immediately throwing
 
-them all into the fire, ‘do not adopt either of them, but by all means
+them all into the [[Fire|fire]], ‘do not adopt either of them, but by all means
 
 build a cottage.’ And that I fancy, will be the end of it.
 
@@ -420,7 +420,7 @@ build a cottage.’ And that I fancy, will be the end of it.
 
 cottage; but this is all a mistake. I was last month at my friend
 
-Elliott’s, near Dartford. Lady Elliott wished to give a dance. ‘But how
+Elliott’s, near Dartford. Lady Elliott wished to give a [[Dance|dance]]. ‘But how
 
 can it be done?’ said she; ‘my dear Ferrars, do tell me how it is to be
 
@@ -442,7 +442,7 @@ dining-room, and found it would hold exactly eighteen couple, and the
 
 affair was arranged precisely after my plan. So that, in fact, you see,
 
-if people do but know how to set about it, every comfort may be as well
+if people do but know how to set about it, every comfort may be as [[Well|well]]
 
 enjoyed in a cottage as in the most spacious dwelling.”
 
@@ -460,17 +460,17 @@ his mind was equally at liberty to fix on any thing else; and a thought
 
 struck him during the evening, which he communicated to his wife, for
 
-her approbation, when they got home. The consideration of Mrs.
+her approbation, when they got [[Home|home]]. The consideration of Mrs.
 
 Dennison’s mistake, in supposing his sisters their guests, had
 
 suggested the propriety of their being really invited to become such,
 
-while Mrs. Jennings’s engagements kept her from home. The expense would
+while Mrs. Jennings’s engagements kept her from [[Home|home]]. The expense would
 
 be nothing, the inconvenience not more; and it was altogether an
 
-attention which the delicacy of his conscience pointed out to be
+attention which the delicacy of his [[Conscience|conscience]] pointed out to be
 
 requisite to its complete enfranchisement from his promise to his
 
@@ -490,7 +490,7 @@ they are Lady Middleton’s visitors. How can I ask them away from her?”
 
 
 
-Her husband, but with great humility, did not see the force of her
+Her husband, but with great [[Humility|humility]], did not see the force of her
 
 objection. “They had already spent a week in this manner in Conduit
 
@@ -504,13 +504,13 @@ Fanny paused a moment, and then, with fresh vigor, said,
 
 
 
-“My love, I would ask them with all my heart, if it was in my power.
+“My [[Love|love]], I would ask them with all my heart, if it was in my power.
 
 But I had just settled within myself to ask the Miss Steeles to spend a
 
-few days with us. They are very well behaved, good kind of girls; and I
+few days with us. They are very [[Well|well]] behaved, good kind of girls; and I
 
-think the attention is due to them, as their uncle did so very well by
+think the attention is due to them, as their uncle did so very [[Well|well]] by
 
 Edward. We can ask your sisters some other year, you know; but the Miss
 
@@ -524,13 +524,13 @@ mother; and they are such favourites with Harry!”
 
 Mr. Dashwood was convinced. He saw the necessity of inviting the Miss
 
-Steeles immediately, and his conscience was pacified by the resolution
+Steeles immediately, and his [[Conscience|conscience]] was pacified by the resolution
 
-of inviting his sisters another year; at the same time, however, slyly
+of inviting his sisters another year; at the same [[Time|time]], however, slyly
 
 suspecting that another year would make the invitation needless, by
 
-bringing Elinor to town as Colonel Brandon’s wife, and Marianne as
+bringing Elinor to town as [[Colonel Brandon]]’s wife, and Marianne as
 
 _their_ visitor.
 
@@ -560,13 +560,13 @@ Lady Middleton, which had not before had any precise limits, was
 
 instantly discovered to have been always meant to end in two days’
 
-time.
+[[Time|time]].
 
 
 
 When the note was shown to Elinor, as it was within ten minutes after
 
-its arrival, it gave her, for the first time, some share in the
+its arrival, it gave her, for the first [[Time|time]], some share in the
 
 expectations of Lucy; for such a mark of uncommon kindness, vouchsafed
 
@@ -574,9 +574,9 @@ on so short an acquaintance, seemed to declare that the good-will
 
 towards her arose from something more than merely malice against
 
-herself; and might be brought, by time and address, to do every thing
+herself; and might be brought, by [[Time|time]] and address, to do every thing
 
-that Lucy wished. Her flattery had already subdued the pride of Lady
+that Lucy wished. Her flattery had already subdued the [[Pride|pride]] of Lady
 
 Middleton, and made an entry into the close heart of Mrs. John
 
@@ -590,7 +590,7 @@ The Miss Steeles removed to Harley Street, and all that reached Elinor
 
 of their influence there, strengthened her expectation of the event.
 
-Sir John, who called on them more than once, brought home such accounts
+Sir John, who called on them more than once, brought [[Home|home]] such accounts
 
 of the favour they were in, as must be universally striking. Mrs.
 

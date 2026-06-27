@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE MAN WITH THE GREEN UMBRELLA"
+title: "[[FourFaultlessFelons]] — THE MAN WITH THE GREEN UMBRELLA"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,9 +20,9 @@ I THE MAN WITH THE GREEN UMBRELLA
 
 THE new Governor was Lord Tallboys, commonly called Top-hat Tallboys,
 
-because of his attachment to that uncanny erection, which he continued to
+because of his attachment to that [[Uncanny|uncanny]] erection, which he continued to
 
-carry balanced on his head as calmly among the palm-trees of Egypt as
+carry balanced on his head as calmly among the palm-trees of [[Egypt]] as
 
 among the lamp-posts of Westminster. Certainly he carried it calmly
 
@@ -30,11 +30,11 @@ enough in lands where few crowns were safe from toppling. The district he
 
 had come out to govern may here be described, with diplomatic vagueness,
 
-as a strip on the edge of Egypt and called for our convenience Polybia.
+as a strip on the edge of [[Egypt]] and called for our convenience Polybia.
 
 It is an old story now, but one which many people had reason to remember
 
-for many years, and at the time it was an imperial event. One Governor
+for many years, and at the [[Time|time]] it was an imperial event. One Governor
 
 was killed, another Governor was nearly killed, but in this story we are
 
@@ -52,9 +52,9 @@ Deputy Governor of Polybia, the man who had been called to rule during
 
 the interregnum after the murder of the previous ruler. The other niece
 
-was unmarried; her name was Barbara Traill, and she may well be the first
+was unmarried; her name was Barbara Traill, and she may [[Well|well]] be the first
 
-figure to cross the stage of this story.
+figure to [[Cross|cross]] the stage of this story.
 
 
 
@@ -64,9 +64,9 @@ rich in colouring with a very beautiful but rather sullen profile, as she
 
 crossed the sandy spaces and came under the cover of one long low wall
 
-which alone threw a strip of shadow from the sun, which was sloping
+which [[Alone|alone]] threw a strip of [[Shadow|shadow]] from the sun, which was sloping
 
-towards the desert horizon. The wall itself was a quaint example of the
+towards the [[Desert|desert]] horizon. The wall itself was a quaint example of the
 
 patchwork character of that borderland of East and West. It was actually
 
@@ -80,17 +80,17 @@ oddities are not unknown, when the oldest countries are turned into the
 
 newest colonies. But in this case the young woman, who was not without
 
-imagination, was conscious of a quite fantastic contrast. Each of these
+[[Imagination|imagination]], was conscious of a quite fantastic contrast. Each of these
 
 dolls' houses had its toy shrubs and plants and its narrow oblong of back
 
-garden running down to the common and continuous garden wall; and it was
+[[Garden|garden]] running down to the common and continuous [[Garden|garden]] wall; and it was
 
 just outside this wall that there ran the rough path, fringed with a few
 
 hoary and wrinkled olives. Outside the fringe there faded away into
 
-infinity the monstrous solitude of sand. Only there could still be
+infinity the monstrous [[Solitude|solitude]] of sand. Only there could still be
 
 detected on that last line of distance a faint triangular shape, a sort
 
@@ -98,7 +98,7 @@ of mathematical symbol whose unnatural simplicity has moved all poets and
 
 pilgrims for five thousand years. Anyone seeing it really for the first
 
-time, as the girl did, can hardly avoid uttering a cry: "The Pyramids!"
+[[Time|time]], as the girl did, can hardly avoid uttering a cry: "The Pyramids!"
 
 
 
@@ -106,19 +106,19 @@ Almost as she said it a voice said in her ear, not loud but with alarming
 
 clearness and very exact articulation: "The foundations were traced in
 
-blood and in blood shall they be traced anew. These things are written
+[[Blood|blood]] and in [[Blood|blood]] shall they be traced anew. These things are written
 
 for our instruction."
 
 
 
-It has been said that Barbara Traill was not without imagination; it
+It has been said that Barbara Traill was not without [[Imagination|imagination]]; it
 
 would be truer to say that she had rather too much. But she was quite
 
 certain she had not imagined the voice, though she certainly could not
 
-imagine where it came from. She appeared to be absolutely alone on the
+imagine where it came from. She appeared to be absolutely [[Alone|alone]] on the
 
 little path which ran along the wall and led to the gardens round the
 
@@ -126,7 +126,7 @@ Governorate. Then she remembered the wall itself, and looking sharply
 
 over her shoulder, she fancied she saw for one moment a head peering out
 
-of the shadow of a sycamore, which was the only tree of any size for some
+of the [[Shadow|shadow]] of a sycamore, which was the only tree of any size for some
 
 distance, since she had left the last of the low sprawling olives two
 
@@ -164,7 +164,7 @@ taller than the top-hat of Lord Tallboys. The combination of the red
 
 Eastern cap and the black Western clothes is common enough among the
 
-Effendi class in those countries. But somehow it seemed novel and
+Effendi class in those countries. But somehow it seemed [[Novel|novel]] and
 
 incongruous in this case, for the man was very fair and had a big blond
 
@@ -174,7 +174,7 @@ idiots who talk of the Nordic type of European, but somehow he did not
 
 look like an Englishman. He carried hooked on one finger a rather
 
-grotesque green umbrella or parasol, which he twirled idly like a
+[[Grotesque|grotesque]] green umbrella or parasol, which he twirled idly like a
 
 trinket. As he was walking slower and slower and Barbara was walking fast
 
@@ -210,15 +210,15 @@ remarkable man.
 
 
 
-We hear much in these days about the dangers of innocence, much that is
+We hear much in these days about the dangers of [[innocence]], much that is
 
 false and a little that is true. But the argument is almost exclusively
 
-applied to sexual innocence. There is a great deal that ought to be said
+applied to sexual [[innocence]]. There is a great deal that ought to be said
 
-about the dangers of political innocence. That most necessary and most
+about the dangers of political [[innocence]]. That most necessary and most
 
-noble virtue of patriotism is very often brought to despair and
+noble virtue of patriotism is very often brought to [[Despair|despair]] and
 
 destruction, quite needlessly and prematurely, by the folly of educating
 
@@ -264,19 +264,19 @@ Barbara had never heard of the Waba. The newspapers had seen to that.
 
 
 
-"The British Government," he was saying, "definitely pledged itself two
+"The British [[government|Government]]," he was saying, "definitely pledged itself two
 
 years ago to a complete scheme of local autonomy. If it is a complete
 
-scheme, all will be well. If Lord Tallboys has come out here with an
+scheme, all will be [[Well|well]]. If Lord Tallboys has come out here with an
 
-incomplete scheme, a compromise, it will be very far from well. I shall
+incomplete scheme, a compromise, it will be very far from [[Well|well]]. I shall
 
 be very sorry for everybody, but especially for my English friends."
 
 
 
-She answered with a young and innocent sneer, "Oh yes-I suppose you are a
+She answered with a young and [[Innocent|innocent]] sneer, "Oh yes-I suppose you are a
 
 great friend of the English."
 
@@ -298,9 +298,9 @@ He seemed stung for an instant and answered, "Your politicians have no
 
 need to learn treachery from the Egyptians." Then he added abruptly: "Do
 
-you know on Lord Jaffray's raid they shot a child? Do you know anything
+you know on Lord Jaffray's raid they shot a [[Child|child]]? Do you know anything
 
-at all? Do you even know how England tacked on Egypt to her Empire?"
+at all? Do you even know how England tacked on [[Egypt]] to her Empire?"
 
 
 
@@ -308,7 +308,7 @@ at all? Do you even know how England tacked on Egypt to her Empire?"
 
 
 
-"England had a glorious Empire," he said. "So had Egypt."
+"England had a glorious Empire," he said. "So had [[Egypt]]."
 
 
 
@@ -318,7 +318,7 @@ she turned away indignantly to the gate that led into the private gardens
 
 of the Governor. As she did so he lifted his green umbrella and pointed
 
-with a momentary gesture at the dark line of the desert and the distant
+with a momentary gesture at the dark line of the [[Desert|desert]] and the distant
 
 Pyramid. The afternoon had already reddened into evening, and the sunset
 
@@ -330,11 +330,11 @@ dry inland sea.
 
 "A glorious Empire," he said. "An Empire on which the sun never sets.
 
-Look . . the sun is setting in blood."
+Look . . the sun is setting in [[Blood|blood]]."
 
 
 
-She went through the iron gate like the wind and let it clang behind her.
+She went through the iron gate like the [[Wind|wind]] and let it clang behind her.
 
 As she went up the avenue towards the inner gardens, she lost a little of
 
@@ -344,11 +344,11 @@ manner which was more normal to her. The colours and shadows of that
 
 quieter scene seemed to close about her; this place was for the present
 
-her nearest approach to home, and at the end of the long perspective of
+her nearest approach to [[Home|home]], and at the end of the long perspective of
 
-gaily coloured garden walks, she could see her sister Olive picking
+gaily coloured [[Garden|garden]] walks, she could see her sister Olive picking
 
-flowers.
+[[Flowers|flowers]].
 
 
 
@@ -358,13 +358,13 @@ need any soothing. She had a deeply disquieting sense of having touched
 
 something alien and terrible, something fierce and utterly foreign, as if
 
-she had stroked some strange wild beast of the desert. But the gardens
+she had stroked some strange wild beast of the [[Desert|desert]]. But the gardens
 
-about her and the house beyond had already taken on a tone or tint
+about her and the [[house]] beyond had already taken on a tone or tint
 
 indescribably English, in spite of the recent settlement and the African
 
-sky. And Olive was so obviously choosing flowers to put into English
+sky. And Olive was so obviously choosing [[Flowers|flowers]] to put into English
 
 vases or to decorate English dinner-tables, with decanters and salted
 
@@ -382,10 +382,10 @@ when he is abstracted or angry. A few loose stalks lay littered on the
 
 path; it seemed as if the heads had been merely broken off as if by a
 
-child. Barbara did not know why she took in all these details with a slow
+[[Child|child]]. Barbara did not know why she took in all these details with a slow
 
 and dazed eye, before she looked at the central figure they surrounded.
 
 Then Olive looked up and her face was ghastly. It might have been the
 
-face of Medea in the garden, gathering the poisonous flowers.
+face of Medea in the [[Garden|garden]], gathering the poisonous [[Flowers|flowers]].

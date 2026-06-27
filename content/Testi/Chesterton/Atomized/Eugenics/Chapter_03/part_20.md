@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 20)"
+title: "[[Eugenics]] — Part 2 (part 20)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -20,12 +20,12 @@ IX
 
 A SHORT CHAPTER
 
-Round about the year 1913 Eugenics was turned from a fad to a fashion.
+Round about the year 1913 [[Eugenics]] was turned from a fad to a fashion.
 Then, if I may so summarize the situation, the joke began in earnest.
 The organizing mind which we have seen considering the problem
 of slum population, the popular material and the possibility
-of protests, felt that the time had come to open the campaign
-Eugenics began to appear in big headlines in the daily Press,
+of protests, felt that the [[Time|time]] had come to open the campaign
+[[Eugenics]] began to appear in big headlines in the daily Press,
 and big pictures in the illustrated papers.  A foreign gentleman
 named Bolce, living at Hampstead, was advertised on a huge scale
 as having every intention of being the father of the Superman.
@@ -38,7 +38,7 @@ on the subject I can find no detailed notes about how it is done.
 Communications were opened with Mr. H. G. Wells, with Dr. Saleeby,
 and apparently with Dr. Karl Pearson.  Every quality desired in
 the ideal baby was carefully cultivated in the parents.  The problem
-of a sense of humour was felt to be a matter of great gravity.
+of a sense of [[Humour|humour]] was felt to be a matter of great gravity.
 The Eugenist couple, naturally fearing they might be deficient on
 this side, were so truly scientific as to have resort to specialists.
 To cultivate a sense of fun, they visited Harry Lauder, and then
@@ -51,11 +51,11 @@ controversies at the Eugenic Congress, filled countless columns.
 The fact that Mr. Bolce, the creator of perfect prenatal conditions,
 was afterwards sued in a lawcourt for keeping his own flat in
 conditions of filth and neglect, cast but a slight and momentary
-shadow upon the splendid dawn of the science.  It would be vain
+[[Shadow|shadow]] upon the splendid [[Dawn|dawn]] of the science.  It would be vain
 to record any of the thousand testimonies to its triumph.
-In the nature of things, this should be the longest chapter in the book,
+In the [[Nature|nature]] of things, this should be the longest chapter in the book,
 or rather the beginning of another book.  It should record, in numberless
-examples, the triumphant popularization of Eugenics in England.
+examples, the triumphant popularization of [[Eugenics]] in England.
 But as a matter of fact this is not the first chapter but the last.
 And this must be a very short chapter, because the whole
 of this story was cut short.  A very curious thing happened.
@@ -63,24 +63,24 @@ England went to war.
 
 This would in itself have been a sufficiently irritating
 interruption in the early life of Eugenette, and in the early
-establishment of Eugenics.  But a far more dreadful and disconcerting
+establishment of [[Eugenics]].  But a far more dreadful and disconcerting
 fact must be noted.  With whom, alas, did England go to war?
-England went to war with the Superman in his native home.
+England went to war with the Superman in his native [[Home|home]].
 She went to war with that very land of scientific culture from
 which the very ideal of a Superman had come.  She went to war
 with the whole of Dr. Steinmetz, and presumably with at least half
 of Dr. Karl Pearson.  She gave battle to the birthplace of nine-tenths
-of the professors who were the prophets of the new hope of humanity.
+of the professors who were the prophets of the new [[Hope|hope]] of humanity.
 In a few weeks the very name of professor was a matter for hissing
 and low plebeian mirth.  The very name of Nietzsche, who had held
-up this hope of something superhuman to humanity, was laughed
+up this [[Hope|hope]] of something superhuman to humanity, was laughed
 at for all the world as if he had been touched with lunacy.
 A new mood came upon the whole people, a mood of marching,
 of spontaneous soldierly vigilance and democratic discipline,
 moving to the faint tune of bugles far away.  Men began to talk
 strangely of old and common things, of the counties of England,
 of its quiet landscapes, of motherhood and the half-buried religion
-of the race.  Death shone on the land like a new daylight,
+of the race.  [[Death]] shone on the land like a new daylight,
 making all things vivid and visibly dear.  And in the presence of this
 awful actuality it seemed, somehow or other, as if even Mr. Bolce
 and the Eugenic baby were things unaccountably far-away and almost,
@@ -91,8 +91,8 @@ There was a province of Europe which had carried nearer to perfection
 than any other the type of order and foresight that are the subject
 of this book.  It had long been the model State of all those more
 rational moralists who saw in science the ordered salvation of society.
-It was admittedly ahead of all other States in social reform.
-All the systematic social reform.  All the systematic social reforms
+It was admittedly ahead of all other States in social [[Reform|reform]].
+All the systematic social [[Reform|reform]].  All the systematic social reforms
 were professedly and proudly borrowed from it.  Therefore when this
 province of Prussia found it convenient to extend its imperial system
 to the neighbouring and neutral State of Belgium, all these scientific
@@ -100,7 +100,7 @@ enthusiasts had a privilege not always granted to mere theorists.
 They had the gratification of seeing their great Utopia at work,
 on a grand scale and very close at hand.  They had not to wait,
 like other evolutionary idealists, for the slow approach of something
-nearer to their dreams; or to leave it merely as a promise to posterity.
+nearer to their [[Dreams|dreams]]; or to leave it merely as a promise to posterity.
 They had not to wait for it as for a distant thing like the vision
 of a future state; but in the flesh they had seen their Paradise.
 And they were very silent for five years.
@@ -109,16 +109,16 @@ The thing died at last, and the stench of it stank to the sky.
 It might be thought that so terrible a savour would never altogether
 leave the memories of men; but men's memories are unstable things.
 It may be that gradually these dazed dupes will gather again together,
-and attempt again to believe their dreams and disbelieve their eyes.
-There may be some whose love of slavery is so ideal and disinterested
-that they are loyal to it even in its defeat.  Wherever a fragment
+and attempt again to believe their [[Dreams|dreams]] and disbelieve their eyes.
+There may be some whose [[Love|love]] of [[Slavery|slavery]] is so ideal and disinterested
+that they are loyal to it even in its defeat.  Wherever a [[Fragment|fragment]]
 of that broken chain is found, they will be found hugging it.
-But there are limits set in the everlasting mercy to him
-who has been once deceived and a second time deceives himself.
+But there are limits set in the everlasting [[Mercy|mercy]] to him
+who has been once deceived and a second [[Time|time]] deceives himself.
 They have seen their paragons of science and organization
-playing their part on land and sea; showing their love
-of learning at Louvain and their love of humanity at Lille.
-For a time at least they have believed the testimony of their senses.
+playing their part on land and sea; showing their [[Love|love]]
+of learning at Louvain and their [[Love|love]] of humanity at Lille.
+For a [[Time|time]] at least they have believed the testimony of their senses.
 And if they do not believe now, neither would they believe though
-one rose from the dead; though all the millions who died to destroy
+one [[Rose|rose]] from the dead; though all the millions who died to destroy
 Prussianism stood up and testified against it.

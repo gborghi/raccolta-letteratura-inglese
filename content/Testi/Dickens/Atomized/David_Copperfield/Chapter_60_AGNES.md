@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 60: AGNES"
+title: "[[David Copperfield]] — Chapter 60: AGNES"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,29 +17,29 @@ tags:
 CHAPTER 60. AGNES
 
 
-My aunt and I, when we were left alone, talked far into the night. How
-the emigrants never wrote home, otherwise than cheerfully and hopefully;
+My aunt and I, when we were left [[Alone|alone]], talked far into the [[Night|night]]. How
+the emigrants never wrote [[Home|home]], otherwise than cheerfully and hopefully;
 how Mr. Micawber had actually remitted divers small sums of money, on
 account of those ‘pecuniary liabilities’, in reference to which he had
 been so business-like as between man and man; how Janet, returning into
 my aunt’s service when she came back to Dover, had finally carried out
-her renunciation of mankind by entering into wedlock with a thriving
+her [[Renunciation|renunciation]] of mankind by entering into wedlock with a thriving
 tavern-keeper; and how my aunt had finally set her seal on the same
 great principle, by aiding and abetting the bride, and crowning the
-marriage-ceremony with her presence; were among our topics--already
+[[Marriage|marriage]]-ceremony with her presence; were among our topics--already
 more or less familiar to me through the letters I had had. Mr. Dick,
 as usual, was not forgotten. My aunt informed me how he incessantly
 occupied himself in copying everything he could lay his hands on, and
-kept King Charles the First at a respectful distance by that semblance
+kept [[King]] Charles the First at a respectful distance by that semblance
 of employment; how it was one of the main joys and rewards of her life
 that he was free and happy, instead of pining in monotonous restraint;
-and how (as a novel general conclusion) nobody but she could ever fully
+and how (as a [[Novel|novel]] general conclusion) nobody but she could ever fully
 know what he was.
 
 ‘And when, Trot,’ said my aunt, patting the back of my hand, as we sat
-in our old way before the fire, ‘when are you going over to Canterbury?’
+in our old way before the [[Fire|fire]], ‘when are you going over to Canterbury?’
 
-‘I shall get a horse, and ride over tomorrow morning, aunt, unless you
+‘I shall get a [[Horse|horse]], and ride over tomorrow morning, aunt, unless you
 will go with me?’
 
 ‘No!’ said my aunt, in her short abrupt way. ‘I mean to stay where I
@@ -50,7 +50,7 @@ today without stopping, if I had been coming to anyone but her.
 
 She was pleased, but answered, ‘Tut, Trot; MY old bones would have
 kept till tomorrow!’ and softly patted my hand again, as I sat looking
-thoughtfully at the fire.
+thoughtfully at the [[Fire|fire]].
 
 Thoughtfully, for I could not be here once more, and so near Agnes,
 without the revival of those regrets with which I had so long been
@@ -59,7 +59,7 @@ to learn when my younger life was all before me, but not the less
 regrets. ‘Oh, Trot,’ I seemed to hear my aunt say once more; and I
 understood her better now--‘Blind, blind, blind!’
 
-We both kept silence for some minutes. When I raised my eyes, I found
+We both kept [[Silence|silence]] for some minutes. When I raised my eyes, I found
 that she was steadily observant of me. Perhaps she had followed the
 current of my mind; for it seemed to me an easy one to track now, wilful
 as it had been once.
@@ -67,7 +67,7 @@ as it had been once.
 ‘You will find her father a white-haired old man,’ said my aunt, ‘though
 a better man in all other respects--a reclaimed man. Neither will you
 find him measuring all human interests, and joys, and sorrows, with his
-one poor little inch-rule now. Trust me, child, such things must shrink
+one poor little inch-rule now. Trust me, [[Child|child]], such things must shrink
 very much, before they can be measured off in that way.’
 
 ‘Indeed they must,’ said I.
@@ -81,19 +81,19 @@ had I strayed so far away!
 
 ‘If she trains the young girls whom she has about her, to be like
 herself,’ said my aunt, earnest even to the filling of her eyes with
-tears, ‘Heaven knows, her life will be well employed! Useful and happy,
+[[Tears|tears]], ‘Heaven knows, her life will be [[Well|well]] employed! Useful and happy,
 as she said that day! How could she be otherwise than useful and happy!’
 
 ‘Has Agnes any--’ I was thinking aloud, rather than speaking.
 
-‘Well? Hey? Any what?’ said my aunt, sharply.
+‘[[Well]]? Hey? Any what?’ said my aunt, sharply.
 
-‘Any lover,’ said I.
+‘Any [[Lover|lover]],’ said I.
 
-‘A score,’ cried my aunt, with a kind of indignant pride. ‘She might
+‘A score,’ cried my aunt, with a kind of indignant [[Pride|pride]]. ‘She might
 have married twenty times, my dear, since you have been gone!’
 
-‘No doubt,’ said I. ‘No doubt. But has she any lover who is worthy of
+‘No [[Doubt|doubt]],’ said I. ‘No [[Doubt|doubt]]. But has she any [[Lover|lover]] who is worthy of
 her? Agnes could care for no other.’
 
 My aunt sat musing for a little while, with her chin upon her hand.
@@ -111,55 +111,55 @@ that I felt now, more than ever, that she had followed my late thoughts.
 I summoned all the resolutions I had made, in all those many days and
 nights, and all those many conflicts of my heart.
 
-‘If it should be so,’ I began, ‘and I hope it is-’
+‘If it should be so,’ I began, ‘and I [[Hope|hope]] it is-’
 
 ‘I don’t know that it is,’ said my aunt curtly. ‘You must not be ruled
 by my suspicions. You must keep them secret. They are very slight,
 perhaps. I have no right to speak.’
 
 ‘If it should be so,’ I repeated, ‘Agnes will tell me at her own good
-time. A sister to whom I have confided so much, aunt, will not be
+[[Time|time]]. A sister to whom I have confided so much, aunt, will not be
 reluctant to confide in me.’
 
 My aunt withdrew her eyes from mine, as slowly as she had turned them
 upon me; and covered them thoughtfully with her hand. By and by she
 put her other hand on my shoulder; and so we both sat, looking into the
-past, without saying another word, until we parted for the night.
+past, without saying another word, until we parted for the [[Night|night]].
 
 I rode away, early in the morning, for the scene of my old school-days.
-I cannot say that I was yet quite happy, in the hope that I was gaining
+I cannot say that I was yet quite happy, in the [[Hope|hope]] that I was gaining
 a victory over myself; even in the prospect of so soon looking on her
 face again.
 
-The well-remembered ground was soon traversed, and I came into the quiet
+The [[Well|well]]-remembered ground was soon traversed, and I came into the quiet
 streets, where every stone was a boy’s book to me. I went on foot to the
-old house, and went away with a heart too full to enter. I returned; and
-looking, as I passed, through the low window of the turret-room where
-first Uriah Heep, and afterwards Mr. Micawber, had been wont to sit,
+old [[house]], and went away with a heart too full to enter. I returned; and
+looking, as I passed, through the low [[Window|window]] of the turret-room where
+first [[Uriah Heep]], and afterwards Mr. Micawber, had been wont to sit,
 saw that it was a little parlour now, and that there was no office.
-Otherwise the staid old house was, as to its cleanliness and order,
+Otherwise the staid old [[house]] was, as to its cleanliness and order,
 still just as it had been when I first saw it. I requested the new maid
 who admitted me, to tell Miss Wickfield that a gentleman who waited on
-her from a friend abroad, was there; and I was shown up the grave old
-staircase (cautioned of the steps I knew so well), into the unchanged
+her from a friend abroad, was there; and I was shown up the [[Grave|grave]] old
+staircase (cautioned of the steps I knew so [[Well|well]]), into the unchanged
 drawing-room. The books that Agnes and I had read together, were on
 their shelves; and the desk where I had laboured at my lessons, many
-a night, stood yet at the same old corner of the table. All the little
+a [[Night|night]], stood yet at the same old corner of the table. All the little
 changes that had crept in when the Heeps were there, were changed again.
-Everything was as it used to be, in the happy time.
+Everything was as it used to be, in the happy [[Time|time]].
 
-I stood in a window, and looked across the ancient street at the
+I stood in a [[Window|window]], and looked across the ancient street at the
 opposite houses, recalling how I had watched them on wet afternoons,
 when I first came there; and how I had used to speculate about the
 people who appeared at any of the windows, and had followed them with my
 eyes up and down stairs, while women went clicking along the pavement in
 pattens, and the dull rain fell in slanting lines, and poured out of the
-water-spout yonder, and flowed into the road. The feeling with which
+[[Water|water]]-spout yonder, and flowed into the [[Road|road]]. The feeling with which
 I used to watch the tramps, as they came into the town on those wet
 evenings, at dusk, and limped past, with their bundles drooping over
 their shoulders at the ends of sticks, came freshly back to me; fraught,
-as then, with the smell of damp earth, and wet leaves and briar, and the
-sensation of the very airs that blew upon me in my own toilsome journey.
+as then, with the smell of damp earth, and wet [[Leaves|leaves]] and briar, and the
+sensation of the very airs that blew upon me in my own toilsome [[Journey|journey]].
 
 The opening of the little door in the panelled wall made me start and
 turn. Her beautiful serene eyes met mine as she came towards me. She
@@ -180,27 +180,27 @@ She was so true, she was so beautiful, she was so good,--I owed her so
 much gratitude, she was so dear to me, that I could find no utterance
 for what I felt. I tried to bless her, tried to thank her, tried to tell
 her (as I had often done in letters) what an influence she had upon me;
-but all my efforts were in vain. My love and joy were dumb.
+but all my efforts were in vain. My [[Love|love]] and joy were dumb.
 
 With her own sweet tranquillity, she calmed my agitation; led me back to
-the time of our parting; spoke to me of Emily, whom she had visited,
-in secret, many times; spoke to me tenderly of Dora’s grave. With the
+the [[Time|time]] of our parting; spoke to me of Emily, whom she had visited,
+in secret, many times; spoke to me tenderly of Dora’s [[Grave|grave]]. With the
 unerring instinct of her noble heart, she touched the chords of my
-memory so softly and harmoniously, that not one jarred within me; I
-could listen to the sorrowful, distant music, and desire to shrink from
+[[Memory|memory]] so softly and harmoniously, that not one jarred within me; I
+could listen to the sorrowful, distant music, and [[Desire|desire]] to shrink from
 nothing it awoke. How could I, when, blended with it all, was her dear
-self, the better angel of my life?
+[[Self|self]], the better angel of my life?
 
 ‘And you, Agnes,’ I said, by and by. ‘Tell me of yourself. You have
-hardly ever told me of your own life, in all this lapse of time!’
+hardly ever told me of your own life, in all this lapse of [[Time|time]]!’
 
 ‘What should I tell?’ she answered, with her radiant smile. ‘Papa is
-well. You see us here, quiet in our own home; our anxieties set at rest,
-our home restored to us; and knowing that, dear Trotwood, you know all.’
+[[Well|well]]. You see us here, quiet in our own [[Home|home]]; our anxieties set at rest,
+our [[Home|home]] restored to us; and knowing that, dear Trotwood, you know all.’
 
 ‘All, Agnes?’ said I.
 
-She looked at me, with some fluttering wonder in her face.
+She looked at me, with some fluttering [[Wonder|wonder]] in her face.
 
 ‘Is there nothing else, Sister?’ I said.
 
@@ -228,16 +228,16 @@ Her colour came and went once more; and once more, as she bent her head,
 I saw the same sad smile.
 
 ‘You will wait and see papa,’ said Agnes, cheerfully, ‘and pass the
-day with us? Perhaps you will sleep in your own room? We always call it
+day with us? Perhaps you will [[Sleep|sleep]] in your own room? We always call it
 yours.’
 
-I could not do that, having promised to ride back to my aunt’s at night;
+I could not do that, having promised to ride back to my aunt’s at [[Night|night]];
 but I would pass the day there, joyfully.
 
 ‘I must be a prisoner for a little while,’ said Agnes, ‘but here are the
 old books, Trotwood, and the old music.’
 
-‘Even the old flowers are here,’ said I, looking round; ‘or the old
+‘Even the old [[Flowers|flowers]] are here,’ said I, looking round; ‘or the old
 kinds.’
 
 ‘I have found a pleasure,’ returned Agnes, smiling, ‘while you have been
@@ -264,30 +264,30 @@ I walked through the streets; and, once more seeing my old adversary the
 butcher--now a constable, with his staff hanging up in the shop--went
 down to look at the place where I had fought him; and there meditated
 on Miss Shepherd and the eldest Miss Larkins, and all the idle loves and
-likings, and dislikings, of that time. Nothing seemed to have survived
-that time but Agnes; and she, ever a star above me, was brighter and
+likings, and dislikings, of that [[Time|time]]. Nothing seemed to have survived
+that [[Time|time]] but Agnes; and she, ever a star above me, was brighter and
 higher.
 
-When I returned, Mr. Wickfield had come home, from a garden he had, a
+When I returned, Mr. Wickfield had come [[Home|home]], from a [[Garden|garden]] he had, a
 couple of miles or so out of town, where he now employed himself almost
 every day. I found him as my aunt had described him. We sat down to
-dinner, with some half-dozen little girls; and he seemed but the shadow
+dinner, with some half-dozen little girls; and he seemed but the [[Shadow|shadow]]
 of his handsome picture on the wall.
 
 The tranquillity and peace belonging, of old, to that quiet ground in my
-memory, pervaded it again. When dinner was done, Mr. Wickfield taking no
+[[Memory|memory]], pervaded it again. When dinner was done, Mr. Wickfield taking no
 wine, and I desiring none, we went up-stairs; where Agnes and her little
 charges sang and played, and worked. After tea the children left us; and
 we three sat together, talking of the bygone days.
 
 ‘My part in them,’ said Mr. Wickfield, shaking his white head, ‘has much
 matter for regret--for deep regret, and deep contrition, Trotwood, you
-well know. But I would not cancel it, if it were in my power.’
+[[Well|well]] know. But I would not cancel it, if it were in my power.’
 
 I could readily believe that, looking at the face beside him.
 
 ‘I should cancel with it,’ he pursued, ‘such patience and devotion, such
-fidelity, such a child’s love, as I must not forget, no! even to forget
+fidelity, such a [[Child|child]]’s [[Love|love]], as I must not forget, no! even to forget
 myself.’
 
 ‘I understand you, sir,’ I softly said. ‘I hold it--I have always held
@@ -299,9 +299,9 @@ how much she has undergone, how hard she has striven. Dear Agnes!’
 She had put her hand entreatingly on his arm, to stop him; and was very,
 very pale.
 
-‘Well, well!’ he said with a sigh, dismissing, as I then saw, some trial
+‘[[Well]], [[Well|well]]!’ he said with a sigh, dismissing, as I then saw, some trial
 she had borne, or was yet to bear, in connexion with what my aunt had
-told me. ‘Well! I have never told you, Trotwood, of her mother. Has
+told me. ‘[[Well]]! I have never told you, Trotwood, of her mother. Has
 anyone?’
 
 ‘Never, sir.’
@@ -315,14 +315,14 @@ heart.’
 Agnes leaned upon his shoulder, and stole her arm about his neck.
 
 ‘She had an affectionate and gentle heart,’ he said; ‘and it was broken.
-I knew its tender nature very well. No one could, if I did not. She
+I knew its tender [[Nature|nature]] very [[Well|well]]. No one could, if I did not. She
 loved me dearly, but was never happy. She was always labouring, in
-secret, under this distress; and being delicate and downcast at the time
+secret, under this distress; and being delicate and downcast at the [[Time|time]]
 of his last repulse--for it was not the first, by many--pined away
 and died. She left me Agnes, two weeks old; and the grey hair that you
 recollect me with, when you first came.’ He kissed Agnes on her cheek.
 
-‘My love for my dear child was a diseased love, but my mind was all
+‘My [[Love|love]] for my dear [[Child|child]] was a diseased [[Love|love]], but my mind was all
 unhealthy then. I say no more of that. I am not speaking of myself,
 Trotwood, but of her mother, and of her. If I give you any clue to what
 I am, or to what I have been, you will unravel it, I know. What Agnes
@@ -332,10 +332,10 @@ again together, after such great changes. I have told it all.’
 
 His bowed head, and her angel-face and filial duty, derived a more
 pathetic meaning from it than they had had before. If I had wanted
-anything by which to mark this night of our re-union, I should have
+anything by which to mark this [[Night|night]] of our re-[[Union|union]], I should have
 found it in this.
 
-Agnes rose up from her father’s side, before long; and going softly to
+Agnes [[Rose|rose]] up from her father’s side, before long; and going softly to
 her piano, played some of the old airs to which we had often listened in
 that place.
 
@@ -344,14 +344,14 @@ standing by.
 
 ‘What does my sister say to that?’
 
-‘I hope not.’
+‘I [[Hope|hope]] not.’
 
 ‘Then I have no such intention, Agnes.’
 
 ‘I think you ought not, Trotwood, since you ask me,’ she said, mildly.
-‘Your growing reputation and success enlarge your power of doing good;
+‘Your growing reputation and [[success]] enlarge your power of doing good;
 and if I could spare my brother,’ with her eyes upon me, ‘perhaps the
-time could not.’
+[[Time|time]] could not.’
 
 ‘What I am, you have made me, Agnes. You should know best.’
 
@@ -362,14 +362,14 @@ you, when we met today, something that has been in my thoughts since
 Dora died. You remember, when you came down to me in our little
 room--pointing upward, Agnes?’
 
-‘Oh, Trotwood!’ she returned, her eyes filled with tears. ‘So loving, so
+‘Oh, Trotwood!’ she returned, her eyes filled with [[Tears|tears]]. ‘So loving, so
 confiding, and so young! Can I ever forget?’
 
 ‘As you were then, my sister, I have often thought since, you have ever
 been to me. Ever pointing upward, Agnes; ever leading me to something
 better; ever directing me to higher things!’
 
-She only shook her head; through her tears I saw the same sad quiet
+She only shook her head; through her [[Tears|tears]] I saw the same sad quiet
 smile.
 
 ‘And I am so grateful to you for it, Agnes, so bound to you, that there
@@ -377,7 +377,7 @@ is no name for the affection of my heart. I want you to know, yet don’t
 know how to tell you, that all my life long I shall look up to you,
 and be guided by you, as I have been through the darkness that is past.
 Whatever betides, whatever new ties you may form, whatever changes may
-come between us, I shall always look to you, and love you, as I do now,
+come between us, I shall always look to you, and [[Love|love]] you, as I do now,
 and have always done. You will always be my solace and resource, as you
 have always been. Until I die, my dearest sister, I shall see you always
 before me, pointing upward!’
@@ -405,18 +405,18 @@ She softly played on, looking at me still.
 
 ‘Or at my saying that I really believe I felt, even then, that you could
 be faithfully affectionate against all discouragement, and never cease
-to be so, until you ceased to live?---Will you laugh at such a dream?’
+to be so, until you ceased to live?---Will you laugh at such [[A Dream|a dream]]?’
 
 ‘Oh, no! Oh, no!’
 
-For an instant, a distressful shadow crossed her face; but, even in the
+For an instant, a distressful [[Shadow|shadow]] crossed her face; but, even in the
 start it gave me, it was gone; and she was playing on, and looking at me
 with her own calm smile.
 
-As I rode back in the lonely night, the wind going by me like a restless
-memory, I thought of this, and feared she was not happy. I was not
+As I rode back in the lonely [[Night|night]], the [[Wind|wind]] going by me like a restless
+[[Memory|memory]], I thought of this, and feared she was not happy. I was not
 happy; but, thus far, I had faithfully set the seal upon the Past, and,
 thinking of her, pointing upward, thought of her as pointing to that
-sky above me, where, in the mystery to come, I might yet love her with
-a love unknown on earth, and tell her what the strife had been within me
+sky above me, where, in the mystery to come, I might yet [[Love|love]] her with
+a [[Love|love]] unknown on earth, and tell her what the strife had been within me
 when I loved her here.

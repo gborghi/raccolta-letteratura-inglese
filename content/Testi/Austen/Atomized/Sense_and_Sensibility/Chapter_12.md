@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 12"
+title: "[[Sense and Sensibility]] — Chapter 12"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -28,13 +28,13 @@ all that she knew before of Marianne’s imprudence and want of thought,
 
 surprised her by its extravagant testimony of both. Marianne told her,
 
-with the greatest delight, that Willoughby had given her a horse, one
+with the greatest delight, that Willoughby had given her a [[Horse|horse]], one
 
 that he had bred himself on his estate in Somersetshire, and which was
 
 exactly calculated to carry a woman. Without considering that it was
 
-not in her mother’s plan to keep any horse, that if she were to alter
+not in her mother’s plan to keep any [[Horse|horse]], that if she were to alter
 
 her resolution in favour of this gift, she must buy another for the
 
@@ -56,19 +56,19 @@ gallop on some of these downs.”
 
 
 
-Most unwilling was she to awaken from such a dream of felicity to
+Most unwilling was she to awaken from such [[A Dream|a dream]] of felicity to
 
 comprehend all the unhappy truths which attended the affair; and for
 
-some time she refused to submit to them. As to an additional servant,
+some [[Time|time]] she refused to submit to them. As to an additional servant,
 
 the expense would be a trifle; Mama she was sure would never object to
 
-it; and any horse would do for _him;_ he might always get one at the
+it; and any [[Horse|horse]] would do for _him;_ he might always get one at the
 
 park; as to a stable, the merest shed would be sufficient. Elinor then
 
-ventured to doubt the propriety of her receiving such a present from a
+ventured to [[Doubt|doubt]] the propriety of her receiving such a present from a
 
 man so little, or at least so lately known to her. This was too much.
 
@@ -80,15 +80,15 @@ little of Willoughby. I have not known him long indeed, but I am much
 
 better acquainted with him, than I am with any other creature in the
 
-world, except yourself and mama. It is not time or opportunity that is
+world, except yourself and mama. It is not [[Time|time]] or opportunity that is
 
-to determine intimacy;—it is disposition alone. Seven years would be
+to determine intimacy;—it is disposition [[Alone|alone]]. Seven years would be
 
 insufficient to make some people acquainted with each other, and seven
 
 days are more than enough for others. I should hold myself guilty of
 
-greater impropriety in accepting a horse from my brother, than from
+greater impropriety in accepting a [[Horse|horse]] from my brother, than from
 
 Willoughby. Of John I know very little, though we have lived together
 
@@ -122,19 +122,19 @@ cottage, the same day, Elinor heard her express her disappointment to
 
 him in a low voice, on being obliged to forego the acceptance of his
 
-present. The reasons for this alteration were at the same time related,
+present. The reasons for this alteration were at the same [[Time|time]] related,
 
 and they were such as to make further entreaty on his side impossible.
 
 His concern however was very apparent; and after expressing it with
 
-earnestness, he added, in the same low voice,—“But, Marianne, the horse
+earnestness, he added, in the same low voice,—“But, Marianne, the [[Horse|horse]]
 
 is still yours, though you cannot use it now. I shall keep it only till
 
 you can claim it. When you leave Barton to form your own establishment
 
-in a more lasting home, Queen Mab shall receive you.”
+in a more lasting [[Home|home]], [[Queen]] Mab shall receive you.”
 
 
 
@@ -142,7 +142,7 @@ This was all overheard by Miss Dashwood; and in the whole of the
 
 sentence, in his manner of pronouncing it, and in his addressing her
 
-sister by her Christian name alone, she instantly saw an intimacy so
+sister by her Christian name [[Alone|alone]], she instantly saw an intimacy so
 
 decided, a meaning so direct, as marked a perfect agreement between
 
@@ -160,7 +160,7 @@ Margaret related something to her the next day, which placed this
 
 matter in a still clearer light. Willoughby had spent the preceding
 
-evening with them, and Margaret, by being left some time in the parlour
+evening with them, and Margaret, by being left some [[Time|time]] in the parlour
 
 with only him and Marianne, had had opportunity for observations,
 
@@ -202,7 +202,7 @@ _his_.”
 
 “But, indeed, Elinor, it is Marianne’s. I am almost sure it is, for I
 
-saw him cut it off. Last night after tea, when you and mama went out of
+saw him cut it off. Last [[Night|night]] after tea, when you and mama went out of
 
 the room, they were whispering and talking together as fast as could
 
@@ -238,7 +238,7 @@ tell, may I, Elinor?”
 
 
 
-This of course made every body laugh; and Elinor tried to laugh too.
+This of course made every [[Body|body]] laugh; and Elinor tried to laugh too.
 
 But the effort was painful. She was convinced that Margaret had fixed
 
@@ -280,13 +280,13 @@ Jennings. “What is the gentleman’s name?”
 
 
 
-“I must not tell, ma’am. But I know very well what it is; and I know
+“I must not tell, ma’am. But I know very [[Well|well]] what it is; and I know
 
 where he is too.”
 
 
 
-“Yes, yes, we can guess where he is; at his own house at Norland to be
+“Yes, yes, we can guess where he is; at his own [[house]] at Norland to be
 
 sure. He is the curate of the parish I dare say.”
 
@@ -304,7 +304,7 @@ existence.”
 
 
 
-“Well, then, he is lately dead, Marianne, for I am sure there was such
+“[[Well]], then, he is lately dead, Marianne, for I am sure there was such
 
 a man once, and his name begins with an F.”
 
@@ -320,7 +320,7 @@ ladyship’s great dislike of all such inelegant subjects of raillery as
 
 delighted her husband and mother. The idea however started by her, was
 
-immediately pursued by Colonel Brandon, who was on every occasion
+immediately pursued by [[Colonel Brandon]], who was on every occasion
 
 mindful of the feelings of others; and much was said on the subject of
 
@@ -338,7 +338,7 @@ A party was formed this evening for going on the following day to see a
 
 very fine place about twelve miles from Barton, belonging to a
 
-brother-in-law of Colonel Brandon, without whose interest it could not
+brother-in-law of [[Colonel Brandon]], without whose interest it could not
 
 be seen, as the proprietor, who was then abroad, had left strict orders
 
@@ -348,9 +348,9 @@ John, who was particularly warm in their praise, might be allowed to be
 
 a tolerable judge, for he had formed parties to visit them, at least,
 
-twice every summer for the last ten years. They contained a noble piece
+twice every [[Summer|summer]] for the last ten years. They contained a noble piece
 
-of water; a sail on which was to form a great part of the morning’s
+of [[Water|water]]; a sail on which was to form a great part of the morning’s
 
 amusement; cold provisions were to be taken, open carriages only to be
 
@@ -362,8 +362,8 @@ party of pleasure.
 
 To some few of the company it appeared rather a bold undertaking,
 
-considering the time of year, and that it had rained every day for the
+considering the [[Time|time]] of year, and that it had rained every day for the
 
 last fortnight;—and Mrs. Dashwood, who had already a cold, was
 
-persuaded by Elinor to stay at home.
+persuaded by Elinor to stay at [[Home|home]].

@@ -16,13 +16,13 @@ tags:
 
 CHAPTER III
 
-THE SIGN OF "THE OLD SHIP"
+THE SIGN OF "THE OLD [[Ship|SHIP]]"
 
 UPON few of the children of men has the surname of
 Pump fallen, and of these few have been maddened
-into naming a child Humphrey in addition to it.  To
+into naming a [[Child|child]] Humphrey in addition to it.  To
 such extremity, however, had the parents of the
-innkeeper at "The Old Ship" proceeded, that their son
+innkeeper at "The Old [[Ship]]" proceeded, that their son
 might come at last to be called "Hump" by his dearest
 friends, and "Pumph" by an aged Turk with a
 green umbrella.  All this, or all he knew of it, he
@@ -33,20 +33,20 @@ stood almost on the seashore, screened only by one
 line of apple trees, dwarfed, twisted and salted by the
 sea air; but in front of it was a highly banked bowling
 green, and behind it the land sank abruptly; so that
-one very steep sweeping road vanished into the depth
+one very steep sweeping [[Road|road]] vanished into the depth
 and mystery of taller trees.  Mr. Pump was standing
 immediately under his trim sign, which stood erect in
 the turf; a wooden pole painted white and suspending
 a square white board, also painted white but further
-decorated with a highly grotesque blue ship, such as
-a child might draw, but into which Mr. Pump's patriotism
+decorated with a highly [[Grotesque|grotesque]] blue [[Ship|ship]], such as
+a [[Child|child]] might draw, but into which Mr. Pump's patriotism
 had insinuated a disproportionately large red St.
-George's cross.
+George's [[Cross|cross]].
 
 Mr. Humphrey Pump was a man of middle size,
 with very broad shoulders, wearing a sort of shooting
 suit with gaiters.  Indeed, he was engaged at the
-moment in cleaning and reloading a double-barrelled
+moment in cleaning and reloading a [[Double|double]]-barrelled
 gun, a short but powerful weapon which he had
 invented, or at least improved, himself; and which,
 though eccentric enough as compared with latest scientific
@@ -54,8 +54,8 @@ arms, was neither clumsy nor necessarily out of
 date.  For Pump was one of those handy men who
 seem to have a hundred hands like Briareus; he made
 nearly everything for himself and everything in his
-house was slightly different from the same thing in
-anyone else's house.  He was also as cunning as Pan
+[[house]] was slightly different from the same thing in
+anyone else's [[house]].  He was also as cunning as Pan
 or a poacher in everything affecting every bird or
 dish, every leaf or berry in the woods.  His mind was
 a rich soil of subconscious memories and traditions;
@@ -79,7 +79,7 @@ animation and even defiance.  Beyond the goblin
 green apple trees and against the sea had appeared the
 tall, slight figure of a girl, in a dress about the colour
 of copper and a large shady hat.  Under the hat her
-face was grave and beautiful though rather swarthy.
+face was [[Grave|grave]] and beautiful though rather swarthy.
 She shook hands with Mr. Pump; then he very
 ceremoniously put a chair for her and called her "Lady
 Joan."
@@ -118,8 +118,8 @@ went on Mr. Pump.
 "Painted Captain Dawson green," continued Mr.
 Pump in colourless tones.  "Captain Dawson said
 green was the colour of Irish traitors, so Dalroy painted
-him green.  It was a great temptation, no doubt,
-with this fence being painted at the time and the pail
+him green.  It was a great [[Temptation|temptation]], no [[Doubt|doubt]],
+with this fence being painted at the [[Time|time]] and the pail
 of stuff there; but, of course, it had a very prejudicial
 effect on his professional career."
 
@@ -133,7 +133,7 @@ of the 'Green Man' over there by the town."
 since before Waterloo times.  Poor old Noyle had it
 until they put him away.  You remember old Noyle,
 Lady Joan.  Still alive, I hear, and still writing
-love-letters to Queen Victoria.  Only of course they aren't
+[[Love|love]]-letters to [[Queen]] Victoria.  Only of course they aren't
 posted now."
 
 "Have you heard from your Irish friend lately?"
@@ -169,21 +169,21 @@ it.  It wasn't a free seat.  It was the family pew."
 
 Lady Joan broke out laughing again.  "What horrible
 things you do seem to have heard of," she said.
-"Well, I must be going, Mr. Hump--I mean Mr.
+"[[Well]], I must be going, Mr. Hump--I mean Mr.
 Pump--I used to call you Hump . . . oh, Hump, do
 you think any of us will ever be happy again?"
 
-"I suppose it rests with Providence," he said,
+"I suppose it rests with [[Providence]]," he said,
 looking at the sea.
 
-"Oh, do say Providence again!" cried the girl.
+"Oh, do say [[Providence]] again!" cried the girl.
 "It's as good as 'Masterman Ready.'"
 
 With which inconsequent words she betook herself
 again to the path by the apple trees and walked back
 by the sea front to Pebblewick.
 
-The inn of "The Old Ship" lay a little beyond the
+The inn of "The Old [[Ship]]" lay a little beyond the
 old fishing village of Pebblewick; and that again was
 separated by an empty half-mile or so from the new
 watering-place of Pebblewick-on-Sea.  But the
@@ -193,7 +193,7 @@ west in the insane optimism of watering-places, and,
 as she approached the more crowded part, looked more
 and more carefully at the groups on the beach.  Most of
 them were much the same as she had seen them more
-than a month before.  The seekers after truth (as
+than a month before.  The seekers after [[Truth|truth]] (as
 the man in the fez would say) who assembled daily to
 find out what the man was doing with the paper-boxes,
 had not found out yet; neither had they wearied
@@ -226,20 +226,20 @@ aristocratic training for the remembering of middle class
 people, she managed to remember that this was a Miss
 Browning who had done typewriting work for her a
 year or two before; and immediately went forward to
-greet her, partly out of genuine good nature and
+greet her, partly out of genuine good [[Nature|nature]] and
 partly as a relief from her own rather dreary thoughts.
 Her tone was so seriously frank and friendly that the
-lady in black summoned the social courage to say:
+lady in black summoned the social [[Courage|courage]] to say:
 
 "I've so often wanted to introduce you to my sister
 who's much cleverer than I am, though she does live
-at home; which I suppose is very old-fashioned.  She
+at [[Home|home]]; which I suppose is very old-fashioned.  She
 knows all sorts of intellectual people.  She is talking
-to one of them now; this Prophet of the Moon that
+to one of them now; this [[Prophet]] of the [[Moon]] that
 everyone's talking about.  Do let me introduce you."
 
 Lady Joan Brett had met many prophets of the
-moon and of other things.  But she had the spontaneous
+[[Moon|moon]] and of other things.  But she had the spontaneous
 courtesy which redeems the vices of her class, and
 she followed Miss Browning to a seat on the parade.
 She greeted Miss Browning's sister with glowing
@@ -262,11 +262,11 @@ comes from the East.  You really would be interested."
 "Poot it to yourselfs," the man in the fez was
 saying to Miss Browning's sister, "joost what sort of
 meaning the names of your ince can have if they do
-not commemorate the unlimitable influence of Islam.
-There is a vary populous Inn in London, one of the
+not commemorate the unlimitable influence of [[Islam]].
+There is a vary populous Inn in [[London]], one of the
 most distinguished, one of the most of the Centre, and
 it is called the Horseshoe?  Now, my friendss, why
-should anyone commemorate a horse-shoe?  It iss but
+should anyone commemorate a [[Horse|horse]]-shoe?  It iss but
 an appendage to a creature more interesting than itself.
 I have already demonstrated to you that the very fact
 that you have in your town a place of drink called the
@@ -280,46 +280,46 @@ that the Bool is a disturbing thought, while the Bul-Bul
 is a reassuring thought.  But even you my friends,
 would not name a place after a ring in a Bool's nose
 and not after the Bool?  Why then name an equivalent
-place after the shoo, the mere shoo, upon a horse's
-hoof, and not after the noble horse?  Surely it is clear,
-surely it is evident that the term 'horse-shoe' is a
+place after the shoo, the mere shoo, upon a [[Horse|horse]]'s
+hoof, and not after the noble [[Horse|horse]]?  Surely it is clear,
+surely it is evident that the term '[[Horse|horse]]-shoe' is a
 cryptic term, an esoteric term, a term made during the
-days when the ancient Moslem faith of this English
+days when the ancient Moslem [[Faith|faith]] of this English
 country was oppressed by the passing superstition of
 the Galileans.  That bent shape, that duplex curving
-shape, which you call horse-shoe, is it not clearly the
+shape, which you call [[Horse|horse]]-shoe, is it not clearly the
 Crescent?" and he cast his arms wide as he had done
-on the sands, "the Crescent of the Prophet of the only
+on the sands, "the Crescent of the [[Prophet]] of the only
 God?"
 
 "I should like to ask," began Lady Joan, again,
 "how you would explain the name of the inn called
 'The Green Man,' just behind that row of houses."
 
-"Exactly! exactly!" cried the Prophet of the Moon,
-in almost insane excitement.  "The seeker after truth
+"Exactly! exactly!" cried the [[Prophet]] of the [[Moon]],
+in almost insane excitement.  "The seeker after [[Truth|truth]]
 could not at all probably find a more perfect example
 of these principles.  My friendss, how could there be a
 green man?  You are acquainted with green grass,
-with green leaves, with green cheese, with green
+with green [[Leaves|leaves]], with green [[cheese]], with green
 chartreuse.  I ask if any one of you, however wide her
 social circle, has ever been acquainted with a green
 man.  Surely, surely, it is evident, my friendss, that this
 is an imperfect version, an abbreviated version, of the
 original words. What can be clearer than that the
 original expression, was 'the green-turban'd man,' in
-allusion to the well-known uniform of the descendants
-of the Prophet?  'Turban'd' surely is just the
+allusion to the [[Well|well]]-known uniform of the descendants
+of the [[Prophet]]?  'Turban'd' surely is just the
 sort of word, exactly the sort of foreign and
 unfamiliar word, that might easily be slurred over and
 ultimately suppressed."
 
 "There is a legend in these parts," said Lady Joan,
-steadily, "that a great hero, hearing the colour that
+steadily, "that a great [[Hero|hero]], hearing the colour that
 was sacred to his holy island insulted, really poured it
 over his enemy for a reply."
 
-"A legend! a fable!" cried the man in the fez, with
+"A legend! a [[Fable|fable]]!" cried the man in the fez, with
 another radiant and rational expansion of the hands.
 "Is it not evident that no such thing can have really
 happened?"

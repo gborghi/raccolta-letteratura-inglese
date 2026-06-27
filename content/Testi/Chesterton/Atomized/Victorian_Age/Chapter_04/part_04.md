@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-the cardboard king in a toy-theatre, which can only be looked at from
+the cardboard [[King|king]] in a toy-theatre, which can only be looked at from
 
 the front. In Wilde's own poetry we have particularly a perpetually
 
@@ -36,7 +36,7 @@ right with this excessive strain on the reader's sympathy (and gravity)
 
 which was the mark of all these men with a "point of view." There is a
 
-very sound sonnet of his in which he begins by lamenting mere anarchy,
+very sound [[Sonnet|sonnet]] of his in which he begins by lamenting mere anarchy,
 
 as hostile to the art and civilisation that were his only gods; but ends
 
@@ -56,9 +56,9 @@ Now that is really very true; that is the way a man of wide reading and
 
 worldly experience, but not ungenerous impulses, does feel about the
 
-mere fanatic, who is at once a nuisance to humanity and an honour to
+mere fanatic, who is at once a nuisance to humanity and an [[Honour|honour]] to
 
-human nature. Yet who can read that last line without feeling that Wilde
+human [[Nature|nature]]. Yet who can read that last line without feeling that Wilde
 
 is poised on the edge of a precipice of bathos; that the phrase comes
 
@@ -72,11 +72,11 @@ hostile, unconquerable mirth. Somehow the image of Wilde lolling like an
 
 elegant leviathan on a sofa, and saying between the whiffs of a scented
 
-cigarette that martyrdom is martyrdom in some respects, has seized on
+cigarette that [[Martyrdom|martyrdom]] is [[Martyrdom|martyrdom]] in some respects, has seized on
 
 and mastered all more delicate considerations in the mind. It is unwise
 
-in a poet to goad the sleeping lion of laughter.
+in a poet to goad the sleeping [[Lion|lion]] of laughter.
 
 
 
@@ -92,7 +92,7 @@ subtle and tactful; in the feeling for different art-forms, in the
 
 welding of subject and style, in the appropriateness of the epithet and
 
-the unity of the mood. Wilde himself wrote some things that were not
+the [[unity]] of the mood. Wilde himself wrote some things that were not
 
 immorality, but merely bad taste; not the bad taste of the conservative
 
@@ -100,7 +100,7 @@ suburbs, which merely means anything violent or shocking, but real bad
 
 taste; as in a stern subject treated in a florid style; an over-dressed
 
-woman at a supper of old friends; or a bad joke that nobody had time to
+woman at a supper of old friends; or a bad joke that nobody had [[Time|time]] to
 
 laugh at. This mixture of sensibility and coarseness in the man was very
 
@@ -108,7 +108,7 @@ curious; and I for one cannot endure (for example) his sensual way of
 
 speaking of dead substances, satin or marble or velvet, as if he were
 
-stroking a lot of dogs and cats. But there was a sort of power--or at
+stroking a lot of [[dogs]] and cats. But there was a sort of power--or at
 
 least weight--in his coarseness. His lapses were those proper to the one
 
@@ -116,7 +116,7 @@ good thing he really was, an Irish swashbuckler--a fighter. Some of the
 
 Roman Emperors might have had the same luxuriousness and yet the same
 
-courage. But the later decadents were far worse, especially the decadent
+[[Courage|courage]]. But the later decadents were far worse, especially the decadent
 
 critics, the decadent illustrators--there were even decadent publishers.
 
@@ -124,13 +124,13 @@ And they utterly lost the light and reason of their existence: they were
 
 masters of the clumsy and the incongruous. I will take only one example.
 
-Aubrey Beardsley may be admired as an artist or no; he does not enter
+Aubrey Beardsley may be admired as an [[artist]] or no; he does not enter
 
 into the scope of this book. But it is true that there is a certain
 
 brief mood, a certain narrow aspect of life, which he renders to the
 
-imagination rightly. It is mostly felt under white, deathly lights in
+[[Imagination|imagination]] rightly. It is mostly felt under white, deathly lights in
 
 Piccadilly, with the black hollow of heaven behind shiny hats or painted
 
@@ -140,11 +140,11 @@ thing Beardsley could express (and the only thing he could express), it
 
 is the solemn and awful fact that he was set down to illustrate Malory's
 
-_Morte d'Arthur_. There is no need to say more; taste, in the artist's
+_Morte d'Arthur_. There is no need to say more; taste, in the [[artist]]'s
 
-sense, must have been utterly dead. They might as well have employed
+sense, must have been utterly dead. They might as [[Well|well]] have employed
 
-Burne-Jones to illustrate _Martin Chuzzlewit_. It would not have been
+Burne-[[Jones]] to illustrate _Martin Chuzzlewit_. It would not have been
 
 more ludicrous than putting this portrayer of evil puppets, with their
 
@@ -160,7 +160,7 @@ To return to the chief of the decadents, I will not speak of the end of
 
 the individual story: there was horror and there was expiation. And, as
 
-my conscience goes at least, no man should say one word that could
+my [[Conscience|conscience]] goes at least, no man should say one word that could
 
 weaken the horror--or the pardon. But there is one literary consequence
 
@@ -180,13 +180,13 @@ very much deeper, more democratic and more true to the real trend of the
 
 populace to-day, than anything the Socialists ever uttered even in the
 
-boldest pages of Bernard Shaw.
+boldest pages of Bernard [[Shaw]].
 
 
 
 Before we pass on to the two expansive movements in which the Victorian
 
-Age really ended, the accident of a distinguished artist is available
+Age really ended, the accident of a distinguished [[artist]] is available
 
 for estimating this somewhat cool and sad afternoon of the epoch at its
 
@@ -204,4 +204,4 @@ both are delicate and indisputable; but we must all have had a feeling
 
 that the characters in Meredith are gods, but that the characters in
 
-Henry James are ghosts. I do not mean that they are unreal: I believe in
+Henry James are [[Ghosts|ghosts]]. I do not mean that they are unreal: I believe in

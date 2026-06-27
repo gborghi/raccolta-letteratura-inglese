@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 14)"
+title: "[[The Murders in the Rue Morgue]] (part 14)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -16,9 +16,9 @@ tags:
 
       whatever. I pledge you the honor of a gentleman, and of a
 
-      Frenchman, that we intend you no injury. I perfectly well know
+      Frenchman, that we intend you no injury. I perfectly [[Well|well]] know
 
-      that you are innocent of the atrocities in the Rue Morgue. It
+      that you are [[Innocent|innocent]] of the atrocities in the Rue Morgue. It
 
       will not do, however, to deny that you are in some measure
 
@@ -38,7 +38,7 @@ tags:
 
       other hand, you are bound by every principle of honor to confess
 
-      all you know. An innocent man is now imprisoned, charged with
+      all you know. An [[Innocent|innocent]] man is now imprisoned, charged with
 
       that crime of which you can point out the perpetrator.”
 
@@ -56,9 +56,9 @@ tags:
 
       you all I know about this affair;—but I do not expect you to
 
-      believe one half I say—I would be a fool indeed if I did. Still,
+      believe one half I say—I would be a [[Fool|fool]] indeed if I did. Still,
 
-      I _am_ innocent, and I will make a clean breast if I die for it.”
+      I _am_ [[Innocent|innocent]], and I will make a clean breast if I die for it.”
 
 
 
@@ -74,23 +74,23 @@ tags:
 
       exclusive possession. After great trouble, occasioned by the
 
-      intractable ferocity of his captive during the home voyage, he at
+      intractable ferocity of his captive during the [[Home|home]] voyage, he at
 
       length succeeded in lodging it safely at his own residence in
 
-      Paris, where, not to attract toward himself the unpleasant
+      [[Paris]], where, not to attract toward himself the unpleasant
 
       curiosity of his neighbors, he kept it carefully secluded, until
 
-      such time as it should recover from a wound in the foot, received
+      such [[Time|time]] as it should recover from a wound in the foot, received
 
-      from a splinter on board ship. His ultimate design was to sell
+      from a splinter on board [[Ship|ship]]. His ultimate design was to sell
 
       it.
 
 
 
-      Returning home from some sailors’ frolic the night, or rather in
+      Returning [[Home|home]] from some sailors’ frolic the [[Night|night]], or rather in
 
       the morning of the murder, he found the beast occupying his own
 
@@ -100,13 +100,13 @@ tags:
 
       and fully lathered, it was sitting before a looking-glass,
 
-      attempting the operation of shaving, in which it had no doubt
+      attempting the operation of shaving, in which it had no [[Doubt|doubt]]
 
       previously watched its master through the key-hole of the closet.
 
       Terrified at the sight of so dangerous a weapon in the possession
 
-      of an animal so ferocious, and so well able to use it, the man,
+      of an animal so ferocious, and so [[Well|well]] able to use it, the man,
 
       for some moments, was at a loss what to do. He had been
 
@@ -116,13 +116,13 @@ tags:
 
       sight of it, the Ourang-Outang sprang at once through the door of
 
-      the chamber, down the stairs, and thence, through a window,
+      the chamber, down the stairs, and thence, through a [[Window|window]],
 
       unfortunately open, into the street.
 
 
 
-      The Frenchman followed in despair; the ape, razor still in hand,
+      The Frenchman followed in [[Despair|despair]]; the ape, razor still in hand,
 
       occasionally stopping to look back and gesticulate at its
 
@@ -130,17 +130,17 @@ tags:
 
       again made off. In this manner the chase continued for a long
 
-      time. The streets were profoundly quiet, as it was nearly three
+      [[Time|time]]. The streets were profoundly quiet, as it was nearly three
 
-      o’clock in the morning. In passing down an alley in the rear of
+      o’[[Clock|clock]] in the morning. In passing down an alley in the rear of
 
       the Rue Morgue, the fugitive’s attention was arrested by a light
 
-      gleaming from the open window of Madame L’Espanaye’s chamber, in
+      gleaming from the open [[Window|window]] of Madame L’Espanaye’s chamber, in
 
-      the fourth story of her house. Rushing to the building, it
+      the fourth story of her [[house]]. Rushing to the building, it
 
-      perceived the lightning rod, clambered up with inconceivable
+      perceived the [[Lightning|lightning]] rod, clambered up with inconceivable
 
       agility, grasped the shutter, which was thrown fully back against
 
@@ -164,13 +164,13 @@ tags:
 
       other hand, there was much cause for anxiety as to what it might
 
-      do in the house. This latter reflection urged the man still to
+      do in the [[house]]. This latter reflection urged the man still to
 
-      follow the fugitive. A lightning rod is ascended without
+      follow the fugitive. A [[Lightning|lightning]] rod is ascended without
 
       difficulty, especially by a sailor; but, when he had arrived as
 
-      high as the window, which lay far to his left, his career was
+      high as the [[Window|window]], which lay far to his left, his career was
 
       stopped; the most that he could accomplish was to reach over so
 
@@ -178,11 +178,11 @@ tags:
 
       glimpse he nearly fell from his hold through excess of horror.
 
-      Now it was that those hideous shrieks arose upon the night, which
+      Now it was that those hideous shrieks arose upon the [[Night|night]], which
 
       had startled from slumber the inmates of the Rue Morgue. Madame
 
-      L’Espanaye and her daughter, habited in their night clothes, had
+      L’Espanaye and her daughter, habited in their [[Night|night]] clothes, had
 
       apparently been occupied in arranging some papers in the iron
 
@@ -192,13 +192,13 @@ tags:
 
       floor. The victims must have been sitting with their backs toward
 
-      the window; and, from the time elapsing between the ingress of
+      the [[Window|window]]; and, from the [[Time|time]] elapsing between the ingress of
 
       the beast and the screams, it seems probable that it was not
 
       immediately perceived. The flapping-to of the shutter would
 
-      naturally have been attributed to the wind.
+      naturally have been attributed to the [[Wind|wind]].
 
 
 

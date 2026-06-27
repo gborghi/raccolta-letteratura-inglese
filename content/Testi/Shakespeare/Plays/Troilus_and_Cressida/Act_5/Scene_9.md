@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act V, Scene 9"
+title: "[[Troilus]] and [[Cressida]] — Act V, Scene 9"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -16,17 +16,17 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Hector dragging the one in sumptuous armour |
-| *(didascalia)* | HECTOR taking off the helmet |
-| *(didascalia)* | Most putrefied core, so fair without,<br>Thy goodly armour thus hath cost thy life.<br>Now is my day’s work done. I’ll take good breath.<br>Rest, sword: thou hast thy fill of blood and death.<br>He disarms. |
-| *(didascalia)* | Enter Achilles and his Myrmidons, surrounding |
-| *(didascalia)* | Hector |
-| ACHILLES | Look, Hector, how the sun begins to set,<br>How ugly night comes breathing at his heels.<br>Even with the veil and dark’ning of the sun<br>To close the day up, Hector’s life is done. |
-| HECTOR | I am unarmed. Forgo this vantage, Greek. |
-| ACHILLES | Strike, fellows, strike! This is the man I seek. |
-| *(didascalia)* | The Myrmidons kill Hector |
-| ACHILLES | So, Ilium, fall thou. Now, Troy, sink down.<br>Here lies thy heart, thy sinews, and thy bone.—<br>On, Myrmidons, and cry you all amain,<br>‘Achilles hath the mighty Hector stain!’<br>A retreat is sounded<br>Hark, a retire upon our Grecian part. |
+| *(didascalia)* | Enter [[Hector]] dragging the one in sumptuous armour |
+| *(didascalia)* | [[Hector|HECTOR]] taking off the helmet |
+| *(didascalia)* | Most putrefied core, so fair without,<br>Thy goodly armour thus hath cost thy life.<br>Now is my day’s work done. I’ll take good breath.<br>Rest, [[Sword|sword]]: thou hast thy fill of [[Blood|blood]] and [[Death|death]].<br>He disarms. |
+| *(didascalia)* | Enter [[Achilles]] and his Myrmidons, surrounding |
+| *(didascalia)* | [[Hector]] |
+| [[Achilles|ACHILLES]] | Look, [[Hector]], how the sun begins to set,<br>How ugly [[Night|night]] comes breathing at his heels.<br>Even with the veil and dark’ning of the sun<br>To close the day up, [[Hector]]’s life is done. |
+| [[Hector|HECTOR]] | I am unarmed. Forgo this vantage, Greek. |
+| [[Achilles|ACHILLES]] | Strike, fellows, strike! This is the man I seek. |
+| *(didascalia)* | The Myrmidons kill [[Hector]] |
+| [[Achilles|ACHILLES]] | So, Ilium, fall thou. Now, Troy, sink down.<br>Here lies thy heart, thy sinews, and thy bone.—<br>On, Myrmidons, and cry you all amain,<br>‘[[Achilles]] hath the mighty [[Hector]] stain!’<br>A retreat is sounded<br>Hark, a retire upon our Grecian part. |
 | *(didascalia)* | Another retreat is sounded |
-| ACHILLES | A MYRMIDON<br>The Trojan trumpets sound the like, my lord. |
-| ACHILLES | The dragon wing of night o’erspreads the earth<br>And, stickler-like, the armies separates.<br>My half-supped sword, that frankly would have fed,<br>Pleased with this dainty bait, thus goes to bed.<br>He sheathes his sword<br>Come, tie his body to my horse’s tail.<br>Along the field I will the Trojan trail. |
+| [[Achilles|ACHILLES]] | A MYRMIDON<br>The Trojan trumpets sound the like, my lord. |
+| [[Achilles|ACHILLES]] | The dragon wing of [[Night|night]] o’erspreads the earth<br>And, stickler-like, the armies separates.<br>My half-supped [[Sword|sword]], that frankly would have fed,<br>Pleased with this dainty bait, thus goes to bed.<br>He sheathes his [[Sword|sword]]<br>Come, tie his [[Body|body]] to my [[Horse|horse]]’s tail.<br>Along the field I will the Trojan trail. |
 | *(didascalia)* | Exeunt, dragging the bodies |

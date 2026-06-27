@@ -18,7 +18,7 @@ XX.  On Encyclopaedias
 
 ON turning my attention to the subject of Encyclopaedias, and generally
 to projects for providing general information, I am struck by certain
-rather neglected problems in the nature of information itself.
+rather neglected problems in the [[Nature|nature]] of information itself.
 There is considerable activity at present in the scattering of a certain
 sort of information.  Any magazine or newspaper is likely to contain
 a sort of examination paper, trustingly accompanied by a crib.
@@ -29,7 +29,7 @@ hard headed, practical, successful men who have made-up the paper.
 Sometimes they seem to have made up the answers as well as the questions.
 But we all know the general character of the questions.
 On any such page of any such paper we may encounter the challenge:
-`At what date did a dentist suffer death for his theological opinions?'
+`At what date did a dentist suffer [[Death|death]] for his theological opinions?'
 or, `What deadly poison is a by-product of crushed strawberries?'
 or, `What is the income of Mr. Henry Ford reckoned in ancient
 Greek drachmae?'  But pressing and practical as these questions are,
@@ -47,14 +47,14 @@ information It is a commonplace that encyclopaedias tend too rapidly
 to get out of date It is said that a very valuable encyclopaedia
 was pressed upon the public some years ago, and it was only at
 the last moment that somebody mildly remonstrated against an article
-on French history, from which it would appear that Napoleon the Third
+on French [[history]], from which it would appear that Napoleon the Third
 is still on the throne of France.  But that was when the matter
 was in the hands of a really brisk and bustling business man.
 And things managed by hustlers are always behind the times.
 Things are better than that now, being largely in the hands of
-educated people who can afford the time for a proper comprehension
+educated people who can afford the [[Time|time]] for a proper comprehension
 of the times.  But even in the very latest and lightest forms
-of ephemeral journalism there is some tendency for this
+of [[ephemeral]] journalism there is some tendency for this
 fossilization to take place; and even to take place rather rapidly.
 I do not say that in all cases the delay can be avoided.
 I do not say that in all cases the hustlers can be blamed.
@@ -134,15 +134,15 @@ controversial or paradoxical, or can be regarded as a matter of opinion,
 to say nothing of whim.  But, at the best, it is very difficult
 to mention even common facts apart from controversial feelings.
 Many things which most of the readers, and even the writers,
-of such a book would honestly suppose to be self-evident,
+of such a book would honestly suppose to be [[Self|self]]-evident,
 are very disputable indeed to those who happen to be the disputants.
-The truth is that there did underlie the latter half of the
+The [[Truth|truth]] is that there did underlie the latter half of the
 nineteenth century, at least in this country, a vague common
-agreement in philosophy.  But it is by no means true to-day
+agreement in [[philosophy]].  But it is by no means true to-day
 that all philosophers agree with that agreement.  Nor was it true
 before the nineteenth century, any more than after the century.
-It may be well to remember the real history of the word Encyclopaedia;
-and in the dawn of what destructive revolution it appeared in the world.
+It may be [[Well|well]] to remember the real [[history]] of the word Encyclopaedia;
+and in the [[Dawn|dawn]] of what destructive revolution it appeared in the world.
 The Encyclopaedists were no more impartial than the Bolshevists.
 They were a band of fighters determined to uproot and renew.
 And though the making of a dictionary sounds to us a mild occupation,

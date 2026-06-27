@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 2)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 curiosity, had then written down, 'Are you a polygamist?' The answer to
 
-this is, 'No such luck' or 'Not such a fool,' according to our
+this is, 'No such luck' or 'Not such a [[Fool|fool]],' according to our
 
 experience of the other sex. But perhaps a better answer would be that
 
@@ -32,13 +32,13 @@ the thought of the ruthless outlaw who should feel compelled to treat it
 
 respectfully. I like to think of the foreign desperado, seeking to slip
 
-into America with official papers under official protection, and sitting
+into [[America]] with official papers under official protection, and sitting
 
 down to write with a beautiful gravity, 'I am an anarchist. I hate you
 
 all and wish to destroy you.' Or, 'I intend to subvert by force the
 
-government of the United States as soon as possible, sticking the long
+[[government]] of the United States as soon as possible, sticking the long
 
 sheath-knife in my left trouser-pocket into Mr. Harding at the earliest
 
@@ -78,15 +78,15 @@ that without merely assuming that they must be inferior to himself.
 
 Superficially this is rather a queer business. It would be easy enough
 
-to suggest that in this America has introduced a quite abnormal spirit
+to suggest that in this [[America]] has introduced a quite abnormal spirit
 
-of inquisition; an interference with liberty unknown among all the
+of [[Inquisition|inquisition]]; an interference with liberty unknown among all the
 
 ancient despotisms and aristocracies. About that there will be something
 
 to be said later; but superficially it is true that this degree of
 
-officialism is comparatively unique. In a journey which I took only the
+officialism is comparatively unique. In a [[Journey|journey]] which I took only the
 
 year before I had occasion to have my papers passed by governments which
 
@@ -116,13 +116,13 @@ into my thoughts. They held their power as limited to the limitation of
 
 practice; they did not forbid me to hold a theory. It would be easy to
 
-argue here that Western democracy persecutes where even Eastern
+argue here that Western [[democracy]] persecutes where even Eastern
 
 despotism tolerates or emancipates. It would be easy to develop the
 
-fancy that, as compared with the sultans of Turkey or Egypt, the
+fancy that, as compared with the sultans of Turkey or [[Egypt]], the
 
-American Constitution is a thing like the Spanish Inquisition.
+American Constitution is a thing like the [[Spanish Inquisition]].
 
 
 
@@ -136,7 +136,7 @@ remedy is not to unsay what he has said, not even, so to speak, to
 
 unlaugh what he has laughed, not to deny that there is something unique
 
-and curious about this American inquisition into our abstract opinions,
+and curious about this American [[Inquisition|inquisition]] into our abstract opinions,
 
 but rather to continue the train of thought, and follow the admirable
 
@@ -146,9 +146,9 @@ thing unless you think it out.' It is not to deny that American
 
 officialism is rather peculiar on this point, but to inquire what it
 
-really is which makes America peculiar, or which is peculiar to America.
+really is which makes [[America]] peculiar, or which is peculiar to [[America]].
 
-In short, it is to get some ultimate idea of what America _is_; and the
+In short, it is to get some ultimate idea of what [[America]] _is_; and the
 
 answer to that question will reveal something much deeper and grander
 
@@ -158,13 +158,13 @@ and more worthy of our intelligent interest.
 
 It may have seemed something less than a compliment to compare the
 
-American Constitution to the Spanish Inquisition. But oddly enough, it
+American Constitution to the [[Spanish Inquisition]]. But oddly enough, it
 
-does involve a truth; and still more oddly perhaps, it does involve a
+does involve a [[Truth|truth]]; and still more oddly perhaps, it does involve a
 
 compliment. The American Constitution does resemble the Spanish
 
-Inquisition in this: that it is founded on a creed. America is the only
+[[Inquisition]] in this: that it is founded on a creed. [[America]] is the only
 
 nation in the world that is founded on a creed. That creed is set forth
 
@@ -186,7 +186,7 @@ from whom these equal rights are derived. Nobody expects a modern
 
 political system to proceed logically in the application of such dogmas,
 
-and in the matter of God and Government it is naturally God whose claim
+and in the matter of God and [[government|Government]] it is naturally God whose claim
 
 is taken more lightly. The point is that there is a creed, if not about
 

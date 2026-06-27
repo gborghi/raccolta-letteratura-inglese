@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 35)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 35)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -32,19 +32,19 @@ right. The tale might have been, and yet it has not been.
 
 
 
-And I think there is no thought so much calculated to make one doubt
+And I think there is no thought so much calculated to make one [[Doubt|doubt]]
 
-death itself, to feel that sublime doubt which has created all
+[[Death|death]] itself, to feel that [[Sublime|sublime]] [[Doubt|doubt]] which has created all
 
-religion--the doubt that found death incredible. Edwin Drood may or may
+religion--the [[Doubt|doubt]] that found [[Death|death]] incredible. [[Edwin Drood]] may or may
 
 not have really died; but surely Dickens did not really die. Surely our
 
-real detective liveth and shall appear in the latter days of the earth.
+real [[Detective|detective]] liveth and shall appear in the latter days of the earth.
 
-For a finished tale may give a man immortality in the light and literary
+For a finished tale may give a man [[Immortality|immortality]] in the light and literary
 
-sense; but an unfinished tale suggests another immortality, more
+sense; but an unfinished tale suggests another [[Immortality|immortality]], more
 
 essential and more strange.
 
@@ -56,7 +56,7 @@ essential and more strange.
 
 
 
-MASTER HUMPHREY'S CLOCK
+MASTER HUMPHREY'S [[Clock|CLOCK]]
 
 
 
@@ -82,9 +82,9 @@ level and monotony those creations commonly stand out. This book is the
 
 background of his mind. It is the basis and minimum of him which was
 
-always there. Alone, of all written things, this shows how he felt when
+always there. [[Alone]], of all written things, this shows how he felt when
 
-he was not writing. Dickens might have written it in his sleep. That is
+he was not writing. Dickens might have written it in his [[Sleep|sleep]]. That is
 
 to say, it is written by a sluggish Dickens, a half automatic Dickens, a
 
@@ -92,13 +92,13 @@ dreaming and drifting Dickens; but still by the enduring Dickens.
 
 
 
-But this truth can only be made evident by beginning nearer to the root
+But this [[Truth|truth]] can only be made evident by beginning nearer to the root
 
 of the matter. _Nicholas Nickleby_ had just completed, or, to speak more
 
 strictly, confirmed, the popularity of the young author; wonderful as
 
-_Pickwick_ was it might have been a nine days' wonder; _Oliver Twist_
+_Pickwick_ was it might have been a nine days' [[Wonder|wonder]]; _Oliver Twist_
 
 had been powerful but painful; it was _Nicholas Nickleby_ that proved
 
@@ -118,7 +118,7 @@ And indeed it is literally as the editor of his own works that he next
 
 appears; for the next thing to which he proposes to put his name is not
 
-a novel, but for all practical purposes a magazine. Yet although it is a
+a [[Novel|novel]], but for all practical purposes a magazine. Yet although it is a
 
 magazine, it is a magazine entirely written by himself; the publishers,
 
@@ -146,17 +146,17 @@ best scrappily and by episodes. The omnipotence of the editor helped the
 
 eccentricities of the author. He could excuse himself for all his own
 
-shortcomings. He could begin a novel, get tired of it, and turn it into
+shortcomings. He could begin a [[Novel|novel]], get tired of it, and turn it into
 
-a short story. He could begin a short story, get fond of it, and turn
+a [[Short Story|short story]]. He could begin a [[Short Story|short story]], get fond of it, and turn
 
-it into a novel. Thus in the days of _Household Words_ he could begin a
+it into a [[Novel|novel]]. Thus in the days of _Household Words_ he could begin a
 
 big scheme of stories, such as _Somebody's Luggage_, or _Seven Poor
 
 Travellers_, and after writing a tale or two toss the rest to his
 
-colleagues. Thus, on the other hand, in the time of _Master Humphrey's
+colleagues. Thus, on the other hand, in the [[Time|time]] of _Master Humphrey's
 
 Clock_, he could begin one small adventure of Master Humphrey and find
 
@@ -166,15 +166,15 @@ moral evidence, which some call reading between the lines) that he
 
 originally meant to tell many separate tales of Master Humphrey's
 
-wanderings in London, only one of which, and that a short one, was to
+wanderings in [[London]], only one of which, and that a short one, was to
 
-have been concerned with a little girl going home. Fortunately for us
+have been concerned with a little girl going [[Home|home]]. Fortunately for us
 
 that little girl had a grandfather, and that grandfather had a curiosity
 
 shop and also a nephew, and that nephew had an entirely irrelevant
 
-friend whom men and angels called Richard Swiveller. Once having come
+friend whom men and angels called [[Richard]] Swiveller. Once having come
 
 into the society of Swiveller it is not unnatural that Dickens stayed
 
@@ -188,17 +188,17 @@ thing that had come of it. It died in childbirth.
 
 There is, however, another circumstance which, even in ordinary public
 
-opinion, makes this miscellany important, besides the great novel that
+opinion, makes this miscellany important, besides the great [[Novel|novel]] that
 
 came out of it. I mean that the ordinary reader can remember one great
 
 thing about _Master Humphrey's Clock_, besides the fact that it was the
 
-frame-work of _The Old Curiosity Shop_. He remembers that Mr. Pickwick
+frame-work of _The Old Curiosity Shop_. He remembers that Mr. [[Pickwick]]
 
-and the Wellers rise again from the dead. Dickens makes Samuel Pickwick
+and the Wellers rise again from the dead. Dickens makes [[Samuel Pickwick]]
 
-become a member of Master Humphrey's Clock Society; and he institutes a
+become a member of Master Humphrey's [[Clock]] Society; and he institutes a
 
 parallel society in the kitchen under the name of Mr. Weller's Watch.
 

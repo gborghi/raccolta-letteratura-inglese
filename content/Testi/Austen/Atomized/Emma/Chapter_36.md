@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 17"
+title: "[[Emma]] — Chapter 17"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -17,16 +17,16 @@ tags:
 CHAPTER XVII
 
 
-When the ladies returned to the drawing-room after dinner, Emma found
+When the ladies returned to the drawing-room after dinner, [[Emma]] found
 it hardly possible to prevent their making two distinct parties;—with
 so much perseverance in judging and behaving ill did Mrs. Elton engross
-Jane Fairfax and slight herself. She and Mrs. Weston were obliged to be
+[[Jane Fairfax]] and slight herself. She and Mrs. Weston were obliged to be
 almost always either talking together or silent together. Mrs. Elton
-left them no choice. If Jane repressed her for a little time, she soon
+left them no choice. If Jane repressed her for a little [[Time|time]], she soon
 began again; and though much that passed between them was in a
 half-whisper, especially on Mrs. Elton’s side, there was no avoiding a
 knowledge of their principal subjects: The post-office—catching
-cold—fetching letters—and friendship, were long under discussion; and
+cold—fetching letters—and [[Friendship|friendship]], were long under discussion; and
 to them succeeded one, which must be at least equally unpleasant to
 Jane—inquiries whether she had yet heard of any situation likely to
 suit her, and professions of Mrs. Elton’s meditated activity.
@@ -35,7 +35,7 @@ suit her, and professions of Mrs. Elton’s meditated activity.
 will soon be here.”
 
 “But I have never fixed on June or any other month—merely looked
-forward to the summer in general.”
+forward to the [[Summer|summer]] in general.”
 
 “But have you really heard of nothing?”
 
@@ -51,13 +51,13 @@ have thought of it as I have done?”
 how many candidates there always are for the _first_ situations. I saw
 a vast deal of that in the neighbourhood round Maple Grove. A cousin of
 Mr. Suckling, Mrs. Bragge, had such an infinity of applications; every
-body was anxious to be in her family, for she moves in the first
+[[Body|body]] was anxious to be in her family, for she moves in the first
 circle. Wax-candles in the schoolroom! You may imagine how desirable!
 Of all houses in the kingdom Mrs. Bragge’s is the one I would most wish
 to see you in.”
 
 “Colonel and Mrs. Campbell are to be in town again by midsummer,” said
-Jane. “I must spend some time with them; I am sure they will want
+Jane. “I must spend some [[Time|time]] with them; I am sure they will want
 it;—afterwards I may probably be glad to dispose of myself. But I would
 not wish you to take the trouble of making any inquiries at present.”
 
@@ -68,10 +68,10 @@ a day or two, and shall give her a strict charge to be on the look-out
 for any thing eligible.”
 
 “Thank you, but I would rather you did not mention the subject to her;
-till the time draws nearer, I do not wish to be giving any body
+till the [[Time|time]] draws nearer, I do not wish to be giving any [[Body|body]]
 trouble.”
 
-“But, my dear child, the time is drawing near; here is April, and June,
+“But, my dear [[Child|child]], the [[Time|time]] is drawing near; here is April, and June,
 or say even July, is very near, with such business to accomplish before
 us. Your inexperience really amuses me! A situation such as you
 deserve, and your friends would require for you, is no everyday
@@ -80,7 +80,7 @@ must begin inquiring directly.”
 
 “Excuse me, ma’am, but this is by no means my intention; I make no
 inquiry myself, and should be sorry to have any made by my friends.
-When I am quite determined as to the time, I am not at all afraid of
+When I am quite determined as to the [[Time|time]], I am not at all afraid of
 being long unemployed. There are places in town, offices, where inquiry
 would soon produce something—Offices for the sale—not quite of human
 flesh—but of human intellect.”
@@ -91,10 +91,10 @@ to the abolition.”
 
 “I did not mean, I was not thinking of the slave-trade,” replied Jane;
 “governess-trade, I assure you, was all that I had in view; widely
-different certainly as to the guilt of those who carry it on; but as to
+different certainly as to the [[Guilt|guilt]] of those who carry it on; but as to
 the greater misery of the victims, I do not know where it lies. But I
 only mean to say that there are advertising offices, and that by
-applying to them I should have no doubt of very soon meeting with
+applying to them I should have no [[Doubt|doubt]] of very soon meeting with
 something that would do.”
 
 “Something that would do!” repeated Mrs. Elton. “Aye, _that_ may suit
@@ -112,20 +112,20 @@ A gentleman’s family is all that I should condition for.”
 “I know you, I know you; you would take up with any thing; but I shall
 be a little more nice, and I am sure the good Campbells will be quite
 on my side; with your superior talents, you have a right to move in the
-first circle. Your musical knowledge alone would entitle you to name
+first circle. Your musical knowledge [[Alone|alone]] would entitle you to name
 your own terms, have as many rooms as you like, and mix in the family
 as much as you chose;—that is—I do not know—if you knew the harp, you
-might do all that, I am very sure; but you sing as well as play;—yes, I
+might do all that, I am very sure; but you sing as [[Well|well]] as play;—yes, I
 really believe you might, even without the harp, stipulate for what you
 chose;—and you must and shall be delightfully, honourably and
 comfortably settled before the Campbells or I have any rest.”
 
-“You may well class the delight, the honour, and the comfort of such a
+“You may [[Well|well]] class the delight, the [[Honour|honour]], and the comfort of such a
 situation together,” said Jane, “they are pretty sure to be equal;
 however, I am very serious in not wishing any thing to be attempted at
 present for me. I am exceedingly obliged to you, Mrs. Elton, I am
-obliged to any body who feels for me, but I am quite serious in wishing
-nothing to be done till the summer. For two or three months longer I
+obliged to any [[Body|body]] who feels for me, but I am quite serious in wishing
+nothing to be done till the [[Summer|summer]]. For two or three months longer I
 shall remain where I am, and as I am.”
 
 “And I am quite serious too, I assure you,” replied Mrs. Elton gaily,
@@ -133,8 +133,8 @@ shall remain where I am, and as I am.”
 watch also, that nothing really unexceptionable may pass us.”
 
 In this style she ran on; never thoroughly stopped by any thing till
-Mr. Woodhouse came into the room; her vanity had then a change of
-object, and Emma heard her saying in the same half-whisper to Jane,
+Mr. Woodhouse came into the room; her [[Vanity|vanity]] had then a change of
+object, and [[Emma]] heard her saying in the same half-whisper to Jane,
 
 “Here comes this dear old beau of mine, I protest!—Only think of his
 gallantry in coming away before the other men!—what a dear creature he
@@ -153,7 +153,7 @@ dress is so infinitely preferable to finery. But I am quite in the
 minority, I believe; few people seem to value simplicity of dress,—show
 and finery are every thing. I have some notion of putting such a
 trimming as this to my white and silver poplin. Do you think it will
-look well?”
+look [[Well|well]]?”
 
 The whole party were but just reassembled in the drawing-room when Mr.
 Weston made his appearance among them. He had returned to a late
@@ -162,14 +162,14 @@ much expected by the best judges, for surprize—but there was great joy.
 Mr. Woodhouse was almost as glad to see him now, as he would have been
 sorry to see him before. John Knightley only was in mute
 astonishment.—That a man who might have spent his evening quietly at
-home after a day of business in London, should set off again, and walk
-half a mile to another man’s house, for the sake of being in mixed
-company till bed-time, of finishing his day in the efforts of civility
+[[Home|home]] after a day of business in [[London]], should set off again, and walk
+half a mile to another man’s [[house]], for the sake of being in mixed
+company till bed-[[Time|time]], of finishing his day in the efforts of civility
 and the noise of numbers, was a circumstance to strike him deeply. A
-man who had been in motion since eight o’clock in the morning, and
+man who had been in motion since eight o’[[Clock|clock]] in the morning, and
 might now have been still, who had been long talking, and might have
 been silent, who had been in more than one crowd, and might have been
-alone!—Such a man, to quit the tranquillity and independence of his own
+[[Alone|alone]]!—Such a man, to quit the tranquillity and independence of his own
 fireside, and on the evening of a cold sleety April day rush out again
 into the world!—Could he by a touch of his finger have instantly taken
 back his wife, there would have been a motive; but his coming would
@@ -179,24 +179,24 @@ not have believed it even of _him_.”
 
 Mr. Weston meanwhile, perfectly unsuspicious of the indignation he was
 exciting, happy and cheerful as usual, and with all the right of being
-principal talker, which a day spent anywhere from home confers, was
+principal talker, which a day spent anywhere from [[Home|home]] confers, was
 making himself agreeable among the rest; and having satisfied the
 inquiries of his wife as to his dinner, convincing her that none of all
 her careful directions to the servants had been forgotten, and spread
 abroad what public news he had heard, was proceeding to a family
 communication, which, though principally addressed to Mrs. Weston, he
-had not the smallest doubt of being highly interesting to every body in
+had not the smallest [[Doubt|doubt]] of being highly interesting to every [[Body|body]] in
 the room. He gave her a letter, it was from Frank, and to herself; he
 had met with it in his way, and had taken the liberty of opening it.
 
 “Read it, read it,” said he, “it will give you pleasure; only a few
-lines—will not take you long; read it to Emma.”
+lines—will not take you long; read it to [[Emma]].”
 
 The two ladies looked over it together; and he sat smiling and talking
-to them the whole time, in a voice a little subdued, but very audible
-to every body.
+to them the whole [[Time|time]], in a voice a little subdued, but very audible
+to every [[Body|body]].
 
-“Well, he is coming, you see; good news, I think. Well, what do you say
+“[[Well]], he is coming, you see; good news, I think. [[Well]], what do you say
 to it?—I always told you he would be here again soon, did not I?—Anne,
 my dear, did not I always tell you so, and you would not believe me?—In
 town next week, you see—at the latest, I dare say; for _she_ is as
@@ -204,27 +204,27 @@ impatient as the black gentleman when any thing is to be done; most
 likely they will be there to-morrow or Saturday. As to her illness, all
 nothing of course. But it is an excellent thing to have Frank among us
 again, so near as town. They will stay a good while when they do come,
-and he will be half his time with us. This is precisely what I wanted.
-Well, pretty good news, is not it? Have you finished it? Has Emma read
+and he will be half his [[Time|time]] with us. This is precisely what I wanted.
+[[Well]], pretty good news, is not it? Have you finished it? Has [[Emma]] read
 it all? Put it up, put it up; we will have a good talk about it some
-other time, but it will not do now. I shall only just mention the
+other [[Time|time]], but it will not do now. I shall only just mention the
 circumstance to the others in a common way.”
 
 Mrs. Weston was most comfortably pleased on the occasion. Her looks and
 words had nothing to restrain them. She was happy, she knew she was
 happy, and knew she ought to be happy. Her congratulations were warm
-and open; but Emma could not speak so fluently. _She_ was a little
+and open; but [[Emma]] could not speak so fluently. _She_ was a little
 occupied in weighing her own feelings, and trying to understand the
 degree of her agitation, which she rather thought was considerable.
 
 Mr. Weston, however, too eager to be very observant, too communicative
-to want others to talk, was very well satisfied with what she did say,
+to want others to talk, was very [[Well|well]] satisfied with what she did say,
 and soon moved away to make the rest of his friends happy by a partial
 communication of what the whole room must have overheard already.
 
-It was well that he took every body’s joy for granted, or he might not
+It was [[Well|well]] that he took every [[Body|body]]’s joy for granted, or he might not
 have thought either Mr. Woodhouse or Mr. Knightley particularly
-delighted. They were the first entitled, after Mrs. Weston and Emma, to
+delighted. They were the first entitled, after Mrs. Weston and [[Emma]], to
 be made happy;—from them he would have proceeded to Miss Fairfax, but
 she was so deep in conversation with John Knightley, that it would have
 been too positive an interruption; and finding himself close to Mrs.

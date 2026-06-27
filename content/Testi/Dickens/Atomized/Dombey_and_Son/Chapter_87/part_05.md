@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-“Upon my honour,” says Cousin Feenix, “although it’s an unusual sort of
-thing in a private gentleman’s house, I must beg leave to call upon you
+“Upon my [[Honour|honour]],” says Cousin Feenix, “although it’s an unusual sort of
+thing in a private gentleman’s [[house]], I must beg leave to call upon you
 to drink what is usually called a—in fact a toast.”
 
 The Major very hoarsely indicates his approval. Mr Carker, bending his
@@ -34,18 +34,18 @@ personally to express his sense of the good it has done.
 
 “It is,” says Cousin Feenix, “an occasion in fact, when the general
 usages of life may be a little departed from, without impropriety; and
-although I never was an orator in my life, and when I was in the House
-of Commons, and had the honour of seconding the address, was—in fact,
+although I never was an orator in my life, and when I was in the [[house|House]]
+of Commons, and had the [[Honour|honour]] of seconding the address, was—in fact,
 was laid up for a fortnight with the consciousness of failure—”
 
-The Major and Mr Carker are so much delighted by this fragment of
-personal history, that Cousin Feenix laughs, and addressing them
+The Major and Mr Carker are so much delighted by this [[Fragment|fragment]] of
+personal [[history]], that Cousin Feenix laughs, and addressing them
 individually, goes on to say:
 
 “And in point of fact, when I was devilish ill—still, you know, I feel
 that a duty devolves upon me. And when a duty devolves upon an
 Englishman, he is bound to get out of it, in my opinion, in the best
-way he can. Well! our family has had the gratification, today, of
+way he can. [[Well]]! our family has had the gratification, today, of
 connecting itself, in the person of my lovely and accomplished
 relative, whom I now see—in point of fact, present—”
 
@@ -62,9 +62,9 @@ and perhaps unprecedented, appeal to the feelings.
 
 “I have not,” says Cousin Feenix, “enjoyed those opportunities which I
 could have desired, of cultivating the acquaintance of my friend
-Dombey, and studying those qualities which do equal honour to his head,
+Dombey, and studying those qualities which do equal [[Honour|honour]] to his head,
 and, in point of fact, to his heart; for it has been my misfortune to
-be, as we used to say in my time in the House of Commons, when it was
+be, as we used to say in my [[Time|time]] in the [[house|House]] of Commons, when it was
 not the custom to allude to the Lords, and when the order of
 parliamentary proceedings was perhaps better observed than it is now—to
 be in—in point of fact,” says Cousin Feenix, cherishing his joke, with
@@ -82,14 +82,14 @@ receive my friend Dombey, and everybody here, at Baden-Baden, and to
 have an opportunity of making ’em known to the Grand Duke), still I
 know enough, I flatter myself, of my lovely and accomplished relative,
 to know that she possesses every requisite to make a man happy, and
-that her marriage with my friend Dombey is one of inclination and
+that her [[Marriage|marriage]] with my friend Dombey is one of inclination and
 affection on both sides.”
 
 Many smiles and nods from Mr Carker.
 
 “Therefore,” says Cousin Feenix, “I congratulate the family of which I
 am a member, on the acquisition of my friend Dombey. I congratulate my
-friend Dombey on his union with my lovely and accomplished relative who
+friend Dombey on his [[Union|union]] with my lovely and accomplished relative who
 possesses every requisite to make a man happy; and I take the liberty
 of calling on you all, in point of fact, to congratulate both my friend
 Dombey and my lovely and accomplished relative, on the present
@@ -120,16 +120,16 @@ generally takes the lead in society, has said, it is impossible to
 settle down after this, and why not go, in a party, to the play?
 Everybody (Mrs Perch included) has agreed to this; even the Native, who
 is tigerish in his drink, and who alarms the ladies (Mrs Perch
-particularly) by the rolling of his eyes. One of the very tall young
+particularly) by the [[rolling]] of his eyes. One of the very tall young
 men has even proposed a ball after the play, and it presents itself to
 no one (Mrs Perch included) in the light of an impossibility. Words
 have arisen between the housemaid and Mr Towlinson; she, on the
 authority of an old saw, asserting marriages to be made in Heaven: he,
 affecting to trace the manufacture elsewhere; he, supposing that she
-says so, because she thinks of being married her own self: she, saying,
+says so, because she thinks of being married her own [[Self|self]]: she, saying,
 Lord forbid, at any rate, that she should ever marry him. To calm these
 flying taunts, the silver-headed butler rises to propose the health of
-Mr Towlinson, whom to know is to esteem, and to esteem is to wish well
+Mr Towlinson, whom to know is to esteem, and to esteem is to wish [[Well|well]]
 settled in life with the object of his choice, wherever (here the
 silver-headed butler eyes the housemaid) she may be. Mr Towlinson
 returns thanks in a speech replete with feeling, of which the

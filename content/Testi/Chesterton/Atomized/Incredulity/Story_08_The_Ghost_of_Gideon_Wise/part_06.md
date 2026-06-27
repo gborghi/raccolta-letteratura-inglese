@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Ghost of Gideon Wise (part 6)"
+title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -56,13 +56,13 @@ would probably be short, and his punishment, if any, trifling.
 It is not every murderer who can put the murdered man in the witness--
 box to give him a testimonial.
 
-`It's a strange case,' said Byrne, as the detective and the others
+`It's a strange case,' said Byrne, as the [[Detective|detective]] and the others
 hastened along the cliff path towards the town.
 
 `It is,' said Father Brown.  `It's no business of ours;
 but I wish you'd stop with me and talk it over.'
 
-There was a silence and then Byrne complied by saying suddenly:
+There was a [[Silence|silence]] and then Byrne complied by saying suddenly:
 `I suppose you were thinking of Home already, when you said somebody
 wasn't telling all he knew.'
 
@@ -70,12 +70,12 @@ wasn't telling all he knew.'
 silent Mr Potter, the secretary of the no longer late or (shall we say)
 lamented Mr Gideon Wise.'
 
-`Well, the only time Potter ever spoke to me I thought he was a lunatic,'
+`[[Well]], the only [[Time|time]] Potter ever spoke to me I thought he was a lunatic,'
 said Byrne, staring, `but I never thought of his being a criminal.
 He said something about it all having to do with an icebox.'
 
 `Yes, I thought he knew something about it,'
-said Father Brown reflectively.  `I never said he had anything
+said [[Father Brown]] reflectively.  `I never said he had anything
 to do with it ... I suppose old Wise really is strong enough
 to have climbed out of that chasm.'
 
@@ -83,7 +83,7 @@ to have climbed out of that chasm.'
 he got out of that chasm; for there he is.'
 
 The priest did not answer the question but asked abruptly:
-`What do you think of Home?'
+`What do you think of [[Home]]?'
 
 `Well, one can't call him a criminal exactly,' answered Byrne.
 `He never was at all like any criminal I ever knew, and I've
@@ -99,7 +99,7 @@ I've known quite a lot of them, and I know their little ways.'
 `Another class of people,' repeated Byrne, mystified.'  Why, what class
 do you know about?'
 
-`Penitents,' said Father Brown.
+`Penitents,' said [[Father Brown]].
 
 `I don't quite understand,' objected Byrne.  `Do you mean you
 don't believe in his crime?'
@@ -107,13 +107,13 @@ don't believe in his crime?'
 `I don't believe in his confession,' said Father Brown.
 `I've heard a good many confessions, and there was never a genuine
 one like that.  It was romantic; it was all out of books.
-Look how he talked about having the brand of Cain.  That's out of books.
+Look how he talked about having the brand of [[Cain]].  That's out of books.
 It's not what anyone would feel who had in his own person done a thing
 hitherto horrible to him.  Suppose you were an honest clerk or shop--
-boy shocked to feel that for the first time you'd stolen money.
+boy shocked to feel that for the first [[Time|time]] you'd stolen money.
 Would you immediately reflect that your action was the same as that
-of Barabbas?  Suppose you'd killed a child in some ghastly anger.
-Would you go back through history, till you could identify your
+of Barabbas?  Suppose you'd killed a [[Child|child]] in some ghastly anger.
+Would you go back through [[history]], till you could identify your
 action with that of an Idumean potentate named Herod?  Believe me,
 our own crimes are far too hideously private and prosaic to make
 our first thoughts turn towards historical parallels, however apt.
@@ -122,14 +122,14 @@ colleagues away?  Even in saying so, he was giving them away.
 Nobody had asked him so far to give away anything or anybody.
 No; I don't think he was genuine, and I wouldn't give him absolution.
 A nice state of things, if people started getting absolved for
-what they hadn't done.'  And Father Brown, his head turned away,
+what they hadn't done.'  And [[Father Brown]], his head turned away,
 looked steadily out to sea.
 
 `But I don't understand what you're driving at,' cried Byrne.
 `What's the good of buzzing round him with suspicions when he's pardoned?
 He's out of it anyhow.  He's quite safe.'
 
-Father Brown spun round like a teetotum and caught his friend
+[[Father Brown]] spun round like a teetotum and caught his friend
 by the coat with unexpected and inexplicable excitement.
 
 `That's it,' he cried emphatically.'  Freeze on to that!

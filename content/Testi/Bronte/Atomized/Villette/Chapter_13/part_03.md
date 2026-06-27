@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 13 (part 3)"
+title: "[[Villette]] — Chapter 13 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,30 +14,30 @@ tags:
 </nav>
 
 
-Madame had charged me not to let Georgette sleep till the doctor came;
+Madame had charged me not to let Georgette [[Sleep|sleep]] till the doctor came;
 I had therefore sufficient occupation in telling her nursery tales and
 palavering the little language for her benefit. I affected Georgette;
-she was a sensitive and a loving child: to hold her in my lap, or carry
-her in my arms, was to me a treat. To-night she would have me lay my
+she was a sensitive and a loving [[Child|child]]: to hold her in my lap, or carry
+her in my arms, was to me a treat. To-[[Night|night]] she would have me lay my
 head on the pillow of her crib; she even put her little arms round my
 neck. Her clasp, and the nestling action with which she pressed her
-cheek to mine, made me almost cry with a tender pain. Feeling of no
-kind abounded in that house; this pure little drop from a pure little
+cheek to mine, made me almost cry with a tender [[Pain|pain]]. Feeling of no
+kind abounded in that [[house]]; this pure little drop from a pure little
 source was too sweet: it penetrated deep, and subdued the heart, and
 sent a gush to the eyes. Half an hour or an hour passed; Georgette
 murmured in her soft lisp that she was growing sleepy. “And you _shall_
-sleep,” thought I, “malgré maman and médecin, if they are not here in
+[[Sleep|sleep]],” thought I, “malgré maman and médecin, if they are not here in
 ten minutes.”
 
 Hark! There was the ring, and there the tread, astonishing the
 staircase by the fleetness with which it left the steps behind. Rosine
-introduced Dr. John, and, with a freedom of manner not altogether
-peculiar to herself, but characteristic of the domestics of Villette
+introduced Dr. John, and, with a [[Freedom|freedom]] of manner not altogether
+peculiar to herself, but characteristic of the domestics of [[Villette]]
 generally, she stayed to hear what he had to say. Madame’s presence
 would have awed her back to her own realm of the vestibule and the
 cabinet—for mine, or that of any other teacher or pupil, she cared not
 a jot. Smart, trim and pert, she stood, a hand in each pocket of her
-gay grisette apron, eyeing Dr. John with no more fear or shyness than
+gay grisette apron, eyeing Dr. John with no more [[Fear|fear]] or shyness than
 if he had been a picture instead of a living gentleman.
 
 “Le marmot n’a rien n’est ce pas?” said she, indicating Georgette with
@@ -48,14 +48,14 @@ his pencil some harmless prescription.
 
 “Eh bien!” pursued Rosine, approaching him quite near, while he put up
 his pencil. “And the box—did you get it? Monsieur went off like a
-coup-de-vent the other night; I had not time to ask him.”
+coup-de-vent the other [[Night|night]]; I had not [[Time|time]] to ask him.”
 
 “I found it: yes.”
 
 “And who threw it, then?” continued Rosine, speaking quite freely the
 very words I should so much have wished to say, but had no address or
-courage to bring it out: how short some people make the road to a point
-which, for others, seems unattainable!
+[[Courage|courage]] to bring it out: how short some people make the [[Road|road]] to a point
+which, for others, seems [[Unattainable|unattainable]]!
 
 “That may be my secret,” rejoined Dr. John briefly, but with no sort of
 hauteur: he seemed quite to understand the Rosine or grisette
@@ -65,7 +65,7 @@ character.
 thrown, since he came to seek it—how did he know?”
 
 “I was attending a little patient in the college near,” said he, “and
-saw it dropped out of his chamber window, and so came to pick it up.”
+saw it dropped out of his chamber [[Window|window]], and so came to pick it up.”
 
 How simple the whole explanation! The note had alluded to a physician
 as then examining “Gustave.”
@@ -108,17 +108,17 @@ heart: these items of array were obviously guiltless as Georgette’s
 little blue tunic. So much the better. But who then was the culprit?
 What was the ground—what the origin—what the perfect explanation of the
 whole business? Some points had been cleared, but how many yet remained
-obscure as night!
+obscure as [[Night|night]]!
 
 “However,” I said to myself, “it is no affair of yours;” and turning
 from the face on which I had been unconsciously dwelling with a
-questioning gaze, I looked through the window which commanded the
-garden below. Dr. John, meantime, standing by the bed-side, was slowly
+questioning gaze, I looked through the [[Window|window]] which commanded the
+[[Garden|garden]] below. Dr. John, meantime, standing by the bed-side, was slowly
 drawing on his gloves and watching his little patient, as her eyes
-closed and her rosy lips parted in coming sleep. I waited till he
+closed and her rosy lips parted in coming [[Sleep|sleep]]. I waited till he
 should depart as usual, with a quick bow and scarce articulate
-“good-night.”. Just as he took his hat, my eyes, fixed on the tall
-houses bounding the garden, saw the one lattice, already commemorated,
+“good-[[Night|night]].”. Just as he took his hat, my eyes, fixed on the tall
+houses bounding the [[Garden|garden]], saw the one lattice, already commemorated,
 cautiously open; forth from the aperture projected a hand and a white
 handkerchief; both waved. I know not whether the signal was answered
 from some viewless quarter of our own dwelling; but immediately after
@@ -127,7 +127,7 @@ light—billet the second, of course.
 
 “There!” I ejaculated involuntarily.
 
-“Where?”, asked Dr. John with energy, making direct for the window.
+“Where?”, asked Dr. John with energy, making direct for the [[Window|window]].
 “What, is it?”
 
 “They have gone and done it again,” was my reply. “A handkerchief waved
@@ -139,4 +139,4 @@ adding, “Nobody will take notice of _you: I_ should be seen.”
 
 Straight I went. After some little search, I found a folded paper,
 lodged on the lower branch of a shrub; I seized and brought it direct
-to Dr. John. This time, I believe not even Rosine saw me.
+to Dr. John. This [[Time|time]], I believe not even Rosine saw me.

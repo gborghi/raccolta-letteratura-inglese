@@ -24,7 +24,7 @@ tags:
 
       partially toward me, so that I beheld the entire profile of the
 
-      face. Its beauty even exceeded my anticipations—and yet there was
+      face. Its [[Beauty|beauty]] even exceeded my anticipations—and yet there was
 
       something about it which disappointed me without my being able to
 
@@ -50,7 +50,7 @@ tags:
 
       susceptible man for any act of extravagance. Had the lady been
 
-      alone, I should undoubtedly have entered her box and accosted her
+      [[Alone|alone]], I should undoubtedly have entered her box and accosted her
 
       at all hazards; but, fortunately, she was attended by two
 
@@ -64,7 +64,7 @@ tags:
 
       hereafter, an introduction to the elder lady, or, for the
 
-      present, at all events, a more distinct view of her beauty. I
+      present, at all events, a more distinct view of her [[Beauty|beauty]]. I
 
       would have removed my position to one nearer her own, but the
 
@@ -76,7 +76,7 @@ tags:
 
       been so fortunate as to have one with me—but I had not—and was
 
-      thus in despair.
+      thus in [[Despair|despair]].
 
 
 
@@ -102,11 +102,11 @@ tags:
 
 
 
-      “She is very beautiful, no doubt,” he said.
+      “She is very beautiful, no [[Doubt|doubt]],” he said.
 
 
 
-      “I wonder who she can be?”
+      “I [[Wonder|wonder]] who she can be?”
 
 
 
@@ -114,11 +114,11 @@ tags:
 
       is? ‘Not to know her argues yourself unknown.’ She is the
 
-      celebrated Madame Lalande—the beauty of the day par excellence,
+      celebrated Madame Lalande—the [[Beauty|beauty]] of the day par excellence,
 
       and the talk of the whole town. Immensely wealthy too—a widow,
 
-      and a great match—has just arrived from Paris.”
+      and a great match—has just arrived from [[Paris]].”
 
 
 
@@ -202,9 +202,9 @@ tags:
 
       astonishment at perceiving that she not only did not a second
 
-      time avert her head, but that she actually took from her girdle a
+      [[Time|time]] avert her head, but that she actually took from her girdle a
 
-      double eyeglass—elevated it—adjusted it—and then regarded me
+      [[Double|double]] eyeglass—elevated it—adjusted it—and then regarded me
 
       through it, intently and deliberately, for the space of several
 

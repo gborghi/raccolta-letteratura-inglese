@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 13)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 13)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -22,7 +22,7 @@ pleasure, I should like to know?”
 William, sulkily.
 
 “Let me think,” said the old man. “For how many Christmas times running,
-have I sat in my warm place, and never had to come out in the cold night
+have I sat in my warm place, and never had to come out in the cold [[Night|night]]
 air; and have made good cheer, without being disturbed by any such
 uncomfortable, wretched sight as him there? Is it twenty, William?”
 
@@ -37,29 +37,29 @@ weakly, “and I don’t know as I ever was much put out by anything. I’m
 not going to begin now, because of what he calls my son. He’s not my
 son. I’ve had a power of pleasant times. I recollect once—no I
 don’t—no, it’s broken off. It was something about a game of cricket and
-a friend of mine, but it’s somehow broken off. I wonder who he was—I
-suppose I liked him? And I wonder what became of him—I suppose he died?
+a friend of mine, but it’s somehow broken off. I [[Wonder|wonder]] who he was—I
+suppose I liked him? And I [[Wonder|wonder]] what became of him—I suppose he died?
 But I don’t know. And I don’t care, neither; I don’t care a bit.”
 
 In his drowsy chuckling, and the shaking of his head, he put his hands
 into his waistcoat pockets. In one of them he found a bit of holly (left
-there, probably last night), which he now took out, and looked at.
+there, probably last [[Night|night]]), which he now took out, and looked at.
 
 “Berries, eh?” said the old man. “Ah! It’s a pity they’re not good to
 eat. I recollect, when I was a little chap about as high as that, and
 out a walking with—let me see—who was I out a walking with?—no, I don’t
 remember how that was. I don’t remember as I ever walked with any one
 particular, or cared for any one, or any one for me. Berries, eh?
-There’s good cheer when there’s berries. Well; I ought to have my share
+There’s good cheer when there’s berries. [[Well]]; I ought to have my share
 of it, and to be waited on, and kept warm and comfortable; for I’m
 eighty-seven, and a poor old man. I’m eigh-ty-seven. Eigh-ty-seven!”
 
 The drivelling, pitiable manner in which, as he repeated this, he nibbled
-at the leaves, and spat the morsels out; the cold, uninterested eye with
+at the [[Leaves|leaves]], and spat the morsels out; the cold, uninterested eye with
 which his youngest son (so changed) regarded him; the determined apathy
 with which his eldest son lay hardened in his sin; impressed themselves
 no more on Redlaw’s observation,—for he broke his way from the spot to
-which his feet seemed to have been fixed, and ran out of the house.
+which his feet seemed to have been fixed, and ran out of the [[house]].
 
 His guide came crawling forth from his place of refuge, and was ready for
 him before he reached the arches.
@@ -83,20 +83,20 @@ table, when he looked round.
 “Come!” he said. “Don’t you touch me! You’ve not brought me here to
 take my money away.”
 
-Redlaw threw some more upon the ground. He flung his body on it
+Redlaw threw some more upon the ground. He flung his [[Body|body]] on it
 immediately, as if to hide it from him, lest the sight of it should tempt
 him to reclaim it; and not until he saw him seated by his lamp, with his
 face hidden in his hands, began furtively to pick it up. When he had
-done so, he crept near the fire, and, sitting down in a great chair
+done so, he crept near the [[Fire|fire]], and, sitting down in a great chair
 before it, took from his breast some broken scraps of food, and fell to
 munching, and to staring at the blaze, and now and then to glancing at
 his shillings, which he kept clenched up in a bunch, in one hand.
 
 “And this,” said Redlaw, gazing on him with increased repugnance and
-fear, “is the only one companion I have left on earth!”
+[[Fear|fear]], “is the only one companion I have left on earth!”
 
 How long it was before he was aroused from his contemplation of this
-creature, whom he dreaded so—whether half-an-hour, or half the night—he
+creature, whom he dreaded so—whether half-an-hour, or half the [[Night|night]]—he
 knew not. But the stillness of the room was broken by the boy (whom he
 had seen listening) starting up, and running towards the door.
 
@@ -136,7 +136,7 @@ misgives me, of the young gentleman who has been ill. What is to be
 done? How is he to be followed? How is he to be saved? Mr. Redlaw,
 pray, oh, pray, advise me! Help me!”
 
-All this time he held the boy, who was half-mad to pass him, and let her
+All this [[Time|time]] he held the boy, who was half-mad to pass him, and let her
 in.
 
 “Phantoms! Punishers of impious thoughts!” cried Redlaw, gazing round in
@@ -151,8 +151,8 @@ me!”
 There was no response, but her “Help me, help me, let me in!” and the
 boy’s struggling to get to her.
 
-“Shadow of myself! Spirit of my darker hours!” cried Redlaw, in
-distraction, “come back, and haunt me day and night, but take this gift
+“[[Shadow]] of myself! Spirit of my darker hours!” cried Redlaw, in
+distraction, “come back, and haunt me day and [[Night|night]], but take this gift
 away! Or, if it must still rest with me, deprive me of the dreadful
 power of giving it to others. Undo what I have done. Leave me
 benighted, but restore the day to those whom I have cursed. As I have

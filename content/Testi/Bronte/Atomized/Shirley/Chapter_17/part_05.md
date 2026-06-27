@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 17 (part 5)"
+title: "[[Shirley]] — Chapter 17 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-model beauty like Harriet Sykes, for instance--beside her your person
+model [[Beauty|beauty]] like Harriet Sykes, for instance--beside her your person
 
 appears almost insignificant--but you look agreeable, you look
 
@@ -22,15 +22,15 @@ reflective, you look what I call interesting."
 
 
 
-"Hush, Shirley! you flatter me."
+"Hush, [[Shirley]]! you flatter me."
 
 
 
-"I don't wonder that your scholars like you."
+"I don't [[Wonder|wonder]] that your scholars like you."
 
 
 
-"Nonsense, Shirley! Talk of something else."
+"Nonsense, [[Shirley]]! Talk of something else."
 
 
 
@@ -42,7 +42,7 @@ now."
 
 "Where?" And as Caroline asked the question she looked not over the
 
-fields, but into Miss Keeldar's eyes, as was her wont whenever Shirley
+fields, but into Miss Keeldar's eyes, as was her wont whenever [[Shirley]]
 
 mentioned any object she descried afar. Her friend had quicker vision
 
@@ -56,7 +56,7 @@ brilliant spheres.
 
 
 
-"There is Moore," said Shirley, pointing right across the wide field
+"There is Moore," said [[Shirley]], pointing right across the wide field
 
 where a thousand children were playing, and now nearly a thousand adult
 
@@ -70,7 +70,7 @@ it is, if I am not mistaken."
 
 
 
-"Why so, Shirley?" asked Caroline, whose eye had at last caught the
+"Why so, [[Shirley]]?" asked Caroline, whose eye had at last caught the
 
 object it sought. "Robert is just now speaking to my uncle, and they are
 
@@ -90,7 +90,7 @@ be sure a strong arm is needed."
 
 
 
-Shirley, as she watched, grew restless; her eyes flashed.
+[[Shirley]], as she watched, grew restless; her eyes flashed.
 
 
 
@@ -112,7 +112,7 @@ Moore's manner this evening. He was excited, yet hard."
 
 
 
-"Hard to _you_, Shirley?"
+"Hard to _you_, [[Shirley]]?"
 
 
 
@@ -162,7 +162,7 @@ we are watching them."
 
 
 
-"If we keep on the alert, Shirley, we shall perhaps find the clue to
+"If we keep on the alert, [[Shirley]], we shall perhaps find the clue to
 
 their secret."
 
@@ -170,7 +170,7 @@ their secret."
 
 "There will be some unusual movements ere long--perhaps to-morrow,
 
-possibly to-night. But my eyes and ears are wide open. Mr. Moore, you
+possibly to-[[Night|night]]. But my eyes and ears are wide open. Mr. Moore, you
 
 shall be under surveillance. Be you vigilant also, Lina."
 
@@ -182,7 +182,7 @@ are shaking hands."
 
 
 
-"Shaking hands, with emphasis," added Shirley, "as if they were
+"Shaking hands, with emphasis," added [[Shirley]], "as if they were
 
 ratifying some solemn league and covenant."
 
@@ -204,7 +204,7 @@ suffusion for one moment both softened and brightened her eyes.
 
 
 
-"Oh, that is soon remedied!" exclaimed Shirley: "we'll _make_ him bid us
+"Oh, that is soon remedied!" exclaimed [[Shirley]]: "we'll _make_ him bid us
 
 good-bye."
 
@@ -226,13 +226,13 @@ good-bye."
 
 
 
-"But, Shirley, I would rather not go."
+"But, [[Shirley]], I would rather not go."
 
 
 
 Caroline said this as Miss Keeldar seized her arm and hurried her down
 
-the fields. It was vain to contend. Nothing was so wilful as Shirley
+the fields. It was vain to contend. Nothing was so wilful as [[Shirley]]
 
 when she took a whim into her head. Caroline found herself out of sight
 
@@ -254,11 +254,11 @@ glance Caroline perceived that his social hilarity was gone; he had left
 
 it behind him in the joy-echoing fields round the school. What remained
 
-now was his dark, quiet, business countenance. As Shirley had said, a
+now was his dark, quiet, business countenance. As [[Shirley]] had said, a
 
 certain hardness characterized his air, while his eye was excited, but
 
-austere. So much the worse timed was the present freak of Shirley's. If
+austere. So much the worse timed was the present freak of [[Shirley]]'s. If
 
 he had looked disposed for holiday mirth, it would not have mattered
 

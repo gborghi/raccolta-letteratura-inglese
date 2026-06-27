@@ -1,5 +1,5 @@
 ---
-title: "MrPond — When Doctors Agree (part 5)"
+title: "[[MrPond]] — When Doctors Agree (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -16,9 +16,9 @@ tags:
 
 "And for hours and weeks and months they never turned aside from
 
-the same interminable debate on the thesis first propounded by Dr.
+the same interminable [[debate]] on the thesis first propounded by Dr.
 
-Campbell: that when a good man is well and truly convinced that a
+Campbell: that when a good man is [[Well|well]] and truly convinced that a
 
 bad man is actively bad for the community, and is doing evil on a
 
@@ -54,7 +54,7 @@ great deal about the stages of that stubborn and forcible
 
 controversy, about which nobody else knew anything at all.  For
 
-Angus was a genuine truth-seeker who wished to satisfy his soul and
+Angus was a genuine [[Truth|truth]]-seeker who wished to satisfy his [[Soul|soul]] and
 
 not merely to make his name; and Campbell was enough of a great man
 
@@ -62,7 +62,7 @@ to be quite as anxious to convince a pupil as to convince a crowd
 
 in a lecture-room.  But I am not going to tell you about those
 
-stages of the controversy at any great length.  To tell the truth,
+stages of the controversy at any great length.  To tell the [[Truth|truth]],
 
 I am not what people call impartial on this controversy.  How any
 
@@ -70,7 +70,7 @@ man can form any conviction, and remain what they call impartial on
 
 any controversy, is more than I have ever understood.  But I
 
-suppose they would say I couldn't describe the debate fairly;
+suppose they would say I couldn't describe the [[debate]] fairly;
 
 because the side I sympathize with was not the side that won.
 
@@ -122,7 +122,7 @@ of Voltaire.
 
 Voltaire.  It is not always certain whether philanthropy means a
 
-love of men, or of man, or of mankind.  There is a difference.  I
+[[Love|love]] of men, or of man, or of mankind.  There is a difference.  I
 
 think he cared less about the individual than about the public or
 
@@ -140,7 +140,7 @@ already said, he was a devout worshipper in the same dingy kirk as
 
 the late James Haggis; that is, one of the extreme irreconcilable
 
-sectaries of the seventeenth-century Puritanism.  And so the
+sectaries of the seventeenth-century [[Puritanism]].  And so the
 
 Scottish atheist and the Scottish Calvinist argued and argued and
 
@@ -184,7 +184,7 @@ the twentieth century A.D.," replied the unruffled Pond.  "I made
 
 him up just now; but you know the sort of thing I mean--the
 
-mythical nature of Mount Sinai proved from the parallel myth that
+mythical [[Nature|nature]] of Mount Sinai proved from the parallel myth that
 
 the ark rested on Mount Ararat, and the mountain that would not
 
@@ -198,7 +198,7 @@ to kirk on the Sabbath."
 
 
 
-The end of the debate may best be described more directly; for,
+The end of the [[debate]] may best be described more directly; for,
 
 indeed, Mr. Pond described it himself with a strange sort of
 
@@ -210,7 +210,7 @@ of the medical schools was the scene of the final phase of
 
 disagreement and agreement.  They had gone back there very late at
 
-night, when the schools were closed and the theatre deserted,
+[[Night|night]], when the schools were closed and the theatre deserted,
 
 because Angus fancied he had left some of his instruments there,
 

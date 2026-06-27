@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 22"
+title: "[[Pride and Prejudice]] — Chapter 22"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -22,39 +22,39 @@ CHAPTER XXII.
 The Bennets were engaged to dine with the Lucases; and again, during the
 chief of the day, was Miss Lucas so kind as to listen to Mr. Collins.
 Elizabeth took an opportunity of thanking her. “It keeps him in good
-humour,” said she, “and I am more obliged to you than I can express.”
+[[Humour|humour]],” said she, “and I am more obliged to you than I can express.”
 
 Charlotte assured her friend of her satisfaction in being useful, and
-that it amply repaid her for the little sacrifice of her time. This was
+that it amply repaid her for the little sacrifice of her [[Time|time]]. This was
 very amiable; but Charlotte’s kindness extended farther than Elizabeth
 had any conception of:--its object was nothing less than to secure her
 from any return of Mr. Collins’s addresses, by engaging them towards
 herself. Such was Miss Lucas’s scheme; and appearances were so
-favourable, that when they parted at night, she would have felt almost
-sure of success if he had not been to leave Hertfordshire so very soon.
-But here she did injustice to the fire and independence of his
-character; for it led him to escape out of Longbourn House the next
+favourable, that when they parted at [[Night|night]], she would have felt almost
+sure of [[success]] if he had not been to leave Hertfordshire so very soon.
+But here she did injustice to the [[Fire|fire]] and independence of his
+character; for it led him to escape out of Longbourn [[house|House]] the next
 morning with admirable slyness, and hasten to Lucas Lodge to throw
 himself at her feet. He was anxious to avoid the notice of his cousins,
 from a conviction that, if they saw him depart, they could not fail to
 conjecture his design, and he was not willing to have the attempt known
-till its success could be known likewise; for, though feeling almost
+till its [[success]] could be known likewise; for, though feeling almost
 secure, and with reason, for Charlotte had been tolerably encouraging,
 he was comparatively diffident since the adventure of Wednesday. His
 reception, however, was of the most flattering kind. Miss Lucas
-perceived him from an upper window as he walked towards the house, and
+perceived him from an upper [[Window|window]] as he walked towards the [[house]], and
 instantly set out to meet him accidentally in the lane. But little had
-she dared to hope that so much love and eloquence awaited her there.
+she dared to [[Hope|hope]] that so much [[Love|love]] and eloquence awaited her there.
 
-In as short a time as Mr. Collins’s long speeches would allow,
+In as short a [[Time|time]] as Mr. Collins’s long speeches would allow,
 everything was settled between them to the satisfaction of both; and as
-they entered the house, he earnestly entreated her to name the day that
+they entered the [[house]], he earnestly entreated her to name the day that
 was to make him the happiest of men; and though such a solicitation must
 be waived for the present, the lady felt no inclination to trifle with
-his happiness. The stupidity with which he was favoured by nature must
+his happiness. The stupidity with which he was favoured by [[Nature|nature]] must
 guard his courtship from any charm that could make a woman wish for its
 continuance; and Miss Lucas, who accepted him solely from the pure and
-disinterested desire of an establishment, cared not how soon that
+disinterested [[Desire|desire]] of an establishment, cared not how soon that
 establishment were gained.
 
 Sir William and Lady Lucas were speedily applied to for their consent;
@@ -66,7 +66,7 @@ interest than the matter had ever
 
 [Illustration:
 
-     “So much love and eloquence”
+     “So much [[Love|love]] and eloquence”
 
 [_Copyright 1894 by George Allen._]]
 
@@ -78,19 +78,19 @@ James’s. The whole family in short were properly overjoyed on the
 occasion. The younger girls formed hopes of _coming out_ a year or two
 sooner than they might otherwise have done; and the boys were relieved
 from their apprehension of Charlotte’s dying an old maid. Charlotte
-herself was tolerably composed. She had gained her point, and had time
+herself was tolerably composed. She had gained her point, and had [[Time|time]]
 to consider of it. Her reflections were in general satisfactory. Mr.
 Collins, to be sure, was neither sensible nor agreeable: his society was
 irksome, and his attachment to her must be imaginary. But still he would
 be her husband. Without thinking highly either of men or of matrimony,
-marriage had always been her object: it was the only honourable
-provision for well-educated young women of small fortune, and, however
+[[Marriage|marriage]] had always been her object: it was the only honourable
+provision for [[Well|well]]-educated young women of small fortune, and, however
 uncertain of giving happiness, must be their pleasantest preservative
 from want. This preservative she had now obtained; and at the age of
 twenty-seven, without having ever been handsome, she felt all the good
 luck of it. The least agreeable circumstance in the business was the
-surprise it must occasion to Elizabeth Bennet, whose friendship she
-valued beyond that of any other person. Elizabeth would wonder, and
+surprise it must occasion to [[Elizabeth Bennet]], whose [[Friendship|friendship]] she
+valued beyond that of any other person. Elizabeth would [[Wonder|wonder]], and
 probably would blame her; and though her resolution was not to be
 shaken, her feelings must be hurt by such a disapprobation. She resolved
 to give her the information herself; and therefore charged Mr. Collins,
@@ -99,12 +99,12 @@ passed before any of the family. A promise of secrecy was of course very
 dutifully given, but it could not be kept without difficulty; for the
 curiosity excited by his long absence burst forth in such very direct
 questions on his return, as required some ingenuity to evade, and he was
-at the same time exercising great self-denial, for he was longing to
-publish his prosperous love.
+at the same [[Time|time]] exercising great [[Self|self]]-denial, for he was [[Longing|longing]] to
+publish his prosperous [[Love|love]].
 
-As he was to begin his journey too early on the morrow to see any of
+As he was to begin his [[Journey|journey]] too early on the morrow to see any of
 the family, the ceremony of leave-taking was performed when the ladies
-moved for the night; and Mrs. Bennet, with great politeness and
+moved for the [[Night|night]]; and Mrs. Bennet, with great politeness and
 cordiality, said how happy they should be to see him at Longbourn again,
 whenever his other engagements might allow him to visit them.
 
@@ -126,12 +126,12 @@ material a step without her Ladyship’s concurrence.”
 
 “You cannot be too much on your guard. Risk anything rather than her
 displeasure; and if you find it likely to be raised by your coming to us
-again, which I should think exceedingly probable, stay quietly at home,
+again, which I should think exceedingly probable, stay quietly at [[Home|home]],
 and be satisfied that _we_ shall take no offence.”
 
 “Believe me, my dear sir, my gratitude is warmly excited by such
 affectionate attention; and, depend upon it, you will speedily receive
-from me a letter of thanks for this as well as for every other mark of
+from me a letter of thanks for this as [[Well|well]] as for every other mark of
 your regard during my stay in Hertfordshire. As for my fair cousins,
 though my absence may not be long enough to render it necessary, I shall
 now take the liberty of wishing them health and happiness, not excepting
@@ -145,11 +145,11 @@ She rated his abilities much higher than any of the others: there was a
 solidity in his reflections which often struck her; and though by no
 means so clever as herself, she thought that, if encouraged to read and
 improve himself by such an example as hers, he might become a very
-agreeable companion. But on the following morning every hope of this
+agreeable companion. But on the following morning every [[Hope|hope]] of this
 kind was done away. Miss Lucas called soon after breakfast, and in a
 private conference with Elizabeth related the event of the day before.
 
-The possibility of Mr. Collins’s fancying himself in love with her
+The possibility of Mr. Collins’s fancying himself in [[Love|love]] with her
 friend had once occurred to Elizabeth within the last day or two: but
 that Charlotte could encourage him seemed almost as far from possibility
 as that she could encourage him herself; and her astonishment was
@@ -174,19 +174,19 @@ wished her all imaginable happiness.
 
 “I see what you are feeling,” replied Charlotte; “you must be surprised,
 very much surprised, so lately as Mr. Collins was wishing to marry you.
-But when you have had time to think it all over, I hope you will be
+But when you have had [[Time|time]] to think it all over, I [[Hope|hope]] you will be
 satisfied with what I have done. I am not romantic, you know. I never
-was. I ask only a comfortable home; and, considering Mr. Collins’s
+was. I ask only a comfortable [[Home|home]]; and, considering Mr. Collins’s
 character, connections, and situation in life, I am convinced that my
 chance of happiness with him is as fair as most people can boast on
-entering the marriage state.”
+entering the [[Marriage|marriage]] state.”
 
 Elizabeth quietly answered “undoubtedly;” and, after an awkward pause,
 they returned to the rest of the family. Charlotte did not stay much
 longer; and Elizabeth was then left to reflect on what she had heard. It
-was a long time before she became at all reconciled to the idea of so
+was a long [[Time|time]] before she became at all reconciled to the idea of so
 unsuitable a match. The strangeness of Mr. Collins’s making two offers
-of marriage within three days was nothing in comparison of his being now
+of [[Marriage|marriage]] within three days was nothing in comparison of his being now
 accepted. She had always felt that Charlotte’s opinion of matrimony was
 not exactly like her own; but she could not have supposed it possible
 that, when called into action, she would have sacrificed every better

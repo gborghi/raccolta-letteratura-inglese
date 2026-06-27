@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 53 (part 1)"
+title: "[[Great Expectations]] — Chapter 53 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,25 +17,25 @@ tags:
 Chapter LIII.
 
 
-It was a dark night, though the full moon rose as I left the enclosed
+It was a dark [[Night|night]], though the full [[Moon|moon]] [[Rose|rose]] as I left the enclosed
 lands, and passed out upon the marshes. Beyond their dark line there
 was a ribbon of clear sky, hardly broad enough to hold the red large
-moon. In a few minutes she had ascended out of that clear field, in
-among the piled mountains of cloud.
+[[Moon|moon]]. In a few minutes she had ascended out of that clear field, in
+among the piled [[Mountains|mountains]] of cloud.
 
-There was a melancholy wind, and the marshes were very dismal. A
+There was a [[Melancholy|melancholy]] [[Wind|wind]], and the marshes were very dismal. A
 stranger would have found them insupportable, and even to me they were
 so oppressive that I hesitated, half inclined to go back. But I knew
-them well, and could have found my way on a far darker night, and had
+them [[Well|well]], and could have found my way on a far darker [[Night|night]], and had
 no excuse for returning, being there. So, having come there against my
 inclination, I went on against it.
 
-The direction that I took was not that in which my old home lay, nor
+The direction that I took was not that in which my old [[Home|home]] lay, nor
 that in which we had pursued the convicts. My back was turned towards
 the distant Hulks as I walked on, and, though I could see the old
 lights away on the spits of sand, I saw them over my shoulder. I knew
-the limekiln as well as I knew the old Battery, but they were miles
-apart; so that, if a light had been burning at each point that night,
+the limekiln as [[Well|well]] as I knew the old Battery, but they were miles
+apart; so that, if a light had been burning at each point that [[Night|night]],
 there would have been a long strip of the blank horizon between the two
 bright specks.
 
@@ -51,16 +51,16 @@ lay directly in my way, and had been worked that day, as I saw by the
 tools and barrows that were lying about.
 
 Coming up again to the marsh level out of this excavation,—for the rude
-path lay through it,—I saw a light in the old sluice-house. I quickened
+path lay through it,—I saw a light in the old sluice-[[house]]. I quickened
 my pace, and knocked at the door with my hand. Waiting for some reply,
 I looked about me, noticing how the sluice was abandoned and broken,
-and how the house—of wood with a tiled roof—would not be proof against
+and how the [[house]]—of wood with a tiled roof—would not be proof against
 the weather much longer, if it were so even now, and how the mud and
 ooze were coated with lime, and how the choking vapour of the kiln
 crept in a ghostly way towards me. Still there was no answer, and I
 knocked again. No answer still, and I tried the latch.
 
-It rose under my hand, and the door yielded. Looking in, I saw a
+It [[Rose|rose]] under my hand, and the door yielded. Looking in, I saw a
 lighted candle on a table, a bench, and a mattress on a truckle
 bedstead. As there was a loft above, I called, “Is there any one here?”
 but no voice answered. Then I looked at my watch, and, finding that it
@@ -68,8 +68,8 @@ was past nine, called again, “Is there any one here?” There being still
 no answer, I went out at the door, irresolute what to do.
 
 It was beginning to rain fast. Seeing nothing save what I had seen
-already, I turned back into the house, and stood just within the
-shelter of the doorway, looking out into the night. While I was
+already, I turned back into the [[house]], and stood just within the
+shelter of the doorway, looking out into the [[Night|night]]. While I was
 considering that some one must have been there lately and must soon be
 coming back, or the candle would not be burning, it came into my head
 to look if the wick were long. I turned round to do so, and had taken
@@ -82,27 +82,27 @@ a strong running noose, thrown over my head from behind.
 “What is this?” I cried, struggling. “Who is it? Help, help, help!”
 
 Not only were my arms pulled close to my sides, but the pressure on my
-bad arm caused me exquisite pain. Sometimes, a strong man’s hand,
+bad arm caused me exquisite [[Pain|pain]]. Sometimes, a strong man’s hand,
 sometimes a strong man’s breast, was set against my mouth to deaden my
 cries, and with a hot breath always close to me, I struggled
 ineffectually in the dark, while I was fastened tight to the wall. “And
 now,” said the suppressed voice with another oath, “call out again, and
 I’ll make short work of you!”
 
-Faint and sick with the pain of my injured arm, bewildered by the
+Faint and sick with the [[Pain|pain]] of my injured arm, bewildered by the
 surprise, and yet conscious how easily this threat could be put in
 execution, I desisted, and tried to ease my arm were it ever so little.
 But, it was bound too tight for that. I felt as if, having been burnt
 before, it were now being boiled.
 
-The sudden exclusion of the night, and the substitution of black
+The sudden exclusion of the [[Night|night]], and the substitution of black
 darkness in its place, warned me that the man had closed a shutter.
 After groping about for a little, he found the flint and steel he
 wanted, and began to strike a light. I strained my sight upon the
 sparks that fell among the tinder, and upon which he breathed and
 breathed, match in hand, but I could only see his lips, and the blue
 point of the match; even those but fitfully. The tinder was damp,—no
-wonder there,—and one after another the sparks died out.
+[[Wonder|wonder]] there,—and one after another the sparks died out.
 
 The man was in no hurry, and struck again with the flint and steel. As
 the sparks fell thick and bright about him, I could see his hands, and
@@ -122,12 +122,12 @@ folded on the table and looked at me. I made out that I was fastened to
 a stout perpendicular ladder a few inches from the wall,—a fixture
 there,—the means of ascent to the loft above.
 
-“Now,” said he, when we had surveyed one another for some time, “I’ve
+“Now,” said he, when we had surveyed one another for some [[Time|time]], “I’ve
 got you.”
 
 “Unbind me. Let me go!”
 
-“Ah!” he returned, “_I_’ll let you go. I’ll let you go to the moon,
-I’ll let you go to the stars. All in good time.”
+“Ah!” he returned, “_I_’ll let you go. I’ll let you go to the [[Moon|moon]],
+I’ll let you go to the [[Stars|stars]]. All in good [[Time|time]].”
 
 “Why have you lured me here?”

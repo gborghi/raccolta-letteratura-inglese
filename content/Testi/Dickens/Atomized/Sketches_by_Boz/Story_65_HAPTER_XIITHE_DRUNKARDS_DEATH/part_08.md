@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 8)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -36,14 +36,14 @@ We encountered one day, by chance, an old friend of whom we had lost
 sight for some years, and who—expressing a strong anxiety to renew our
 former intimacy—urged us to dine with him on an early day, that we
 might talk over old times. We readily assented, adding, that we hoped
-we should be alone. ‘Oh, certainly, certainly,’ said our friend, ‘not a
-soul with us but Mincin.’ ‘And who is Mincin?’ was our natural inquiry.
+we should be [[Alone|alone]]. ‘Oh, certainly, certainly,’ said our friend, ‘not a
+[[Soul|soul]] with us but Mincin.’ ‘And who is Mincin?’ was our natural inquiry.
 ‘O don’t mind him,’ replied our friend, ‘he’s a most particular friend
 of mine, and a very friendly fellow you will find him;’ and so he left
 us.
 
 ‘We thought no more about Mincin until we duly presented ourselves at
-the house next day, when, after a hearty welcome, our friend motioned
+the [[house]] next day, when, after a hearty welcome, our friend motioned
 towards a gentleman who had been previously showing his teeth by the
 fireplace, and gave us to understand that it was Mr. Mincin, of whom he
 had spoken. It required no great penetration on our part to discover at
@@ -54,13 +54,13 @@ gentleman.
 warmly between both of his, ‘I am delighted, I am sure, to make your
 acquaintance—(here he smiled)—very much delighted indeed—(here he
 exhibited a little emotion)—I assure you that I have looked forward to
-it anxiously for a very long time:’ here he released our hands, and
+it anxiously for a very long [[Time|time]]:’ here he released our hands, and
 rubbing his own, observed, that the day was severe, but that he was
 delighted to perceive from our appearance that it agreed with us
 wonderfully; and then went on to observe, that, notwithstanding the
 coldness of the weather, he had that morning seen in the paper an
 exceedingly curious paragraph, to the effect, that there was now in the
-garden of Mr. Wilkins of Chichester, a pumpkin, measuring four feet in
+[[Garden|garden]] of Mr. Wilkins of Chichester, a pumpkin, measuring four feet in
 height, and eleven feet seven inches in circumference, which he looked
 upon as a very extraordinary piece of intelligence. We ventured to
 remark, that we had a dim recollection of having once or twice before
@@ -71,17 +71,17 @@ editors meant by putting in such things. Who the deuce, he should like
 to know, did they suppose cared about them? that struck him as being
 the best of it.
 
-The lady of the house appeared shortly afterwards, and Mr. Mincin’s
+The lady of the [[house]] appeared shortly afterwards, and Mr. Mincin’s
 friendliness, as will readily be supposed, suffered no diminution in
 consequence; he exerted much strength and skill in wheeling a large
-easy-chair up to the fire, and the lady being seated in it, carefully
-closed the door, stirred the fire, and looked to the windows to see
+easy-chair up to the [[Fire|fire]], and the lady being seated in it, carefully
+closed the door, stirred the [[Fire|fire]], and looked to the windows to see
 that they admitted no air; having satisfied himself upon all these
 points, he expressed himself quite easy in his mind, and begged to know
-how she found herself to-day. Upon the lady’s replying very well, Mr.
+how she found herself to-day. Upon the lady’s replying very [[Well|well]], Mr.
 Mincin (who it appeared was a medical gentleman) offered some general
-remarks upon the nature and treatment of colds in the head, which
-occupied us agreeably until dinner-time. During the meal, he devoted
+remarks upon the [[Nature|nature]] and treatment of colds in the head, which
+occupied us agreeably until dinner-[[Time|time]]. During the meal, he devoted
 himself to complimenting everybody, not forgetting himself, so that we
 were an uncommonly agreeable quartette.
 
@@ -111,8 +111,8 @@ nearly fourteen years before, when Mr. Mincin was all at once reminded
 of a joke which our friend had made on that day four years, which he
 positively must insist upon telling—and which he did tell accordingly,
 with many pleasant recollections of what he said, and what Mrs. Capper
-said, and how he well remembered that they had been to the play with
-orders on the very night previous, and had seen Romeo and Juliet, and
+said, and how he [[Well|well]] remembered that they had been to the play with
+orders on the very [[Night|night]] previous, and had seen [[Romeo]] and [[Juliet]], and
 the pantomime, and how Mrs. Capper being faint had been led into the
 lobby, where she smiled, said it was nothing after all, and went back
 again, with many other interesting and absorbing particulars: after

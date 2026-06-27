@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — A Century Of Emancipation"
+title: "[[Well]] And Shallows — A Century Of Emancipation"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -22,12 +22,12 @@ substituting the precise contrary, and see whether it makes more sense
 that way.  It generally does; such a mass of outworn conventions
 has our daily commentary become.  An excellent example occurred
 recently concerning the prospects of Protestantism and Catholicism.
-The editor of the Sunday Express, once better known as a sympathetic
+The editor of the [[Sunday]] Express, once better known as a sympathetic
 critic of letters, summed up the matter by saying that he had no
 prejudice against Catholicism or Anglo-Catholicism, that he had every
 respect for them, but that England (evidently including himself)
 was solidly Protestant.  This is a very neat and convenient statement
-of the exact opposite of the truth.  I have most friendly feelings
+of the exact opposite of the [[Truth|truth]].  I have most friendly feelings
 to the gentleman in question; and it is without the least animosity
 to him that I say that what is sincere and alive and active
 in him is Anti-Catholicism and nothing else.  What is really
@@ -41,16 +41,16 @@ There might perhaps be a case for calling it liquid Protestantism.
 Now this marks the chief change of the century since
 Catholic Emancipation.  The political circumstances of the final
 Tory surrender to Emancipation were, of course, complex.
-Emancipation seemed to some a sort of mongrel and monster;
-produced by two opposites; the survival of the Old Religion
-and the principles of the French Revolution.  But in such
-things there are complex harmonies as well as contradictions.
-In some ways the ultimate quarrel of Rome with the French Revolution
+Emancipation seemed to some a sort of mongrel and [[Monster|monster]];
+produced by two opposites; the [[Survival|survival]] of the Old Religion
+and the principles of the [[French Revolution]].  But in such
+things there are complex harmonies as [[Well|well]] as contradictions.
+In some ways the ultimate quarrel of Rome with the [[French Revolution]]
 was rather like the recent quarrel of Rome with the French Royalists.
 It was resistance to a pagan extreme; but there had been not a
 little Catholic sympathy before the thing reached that extreme.
 There had been countless liberal clerics in the first movements
-of the reform; Pius IX had begun by being the reverse of reactionary;
+of the [[Reform|reform]]; Pius IX had begun by being the reverse of reactionary;
 and the atmosphere was such that the gigantic protagonist
 of Catholic Emancipation himself, the great Daniel O'Connell,
 could combine passionate Ultramontanism with the largest
@@ -58,7 +58,7 @@ political Liberalism without any division in the simplicity
 of his mind or the general humanity of his ideals.
 Those who hated him both as a Radical and a Roman Catholic
 would have seen no inconsistency in those two hated things.
-The truth to seize about all that earlier situation is that
+The [[Truth|truth]] to seize about all that earlier situation is that
 the bigotry was on the other side; in one sense the theology was
 on the other side.  We cannot see it clearly in the statesmen;
 for they were either freethinkers or opportunists.
@@ -66,7 +66,7 @@ Wellington met his Waterloo; but he was a good soldier
 and therefore retreated when it was futile to stand.
 But if we look at the mass of the people, we find a real
 religious resistance--because there was a real religion.
-That resistance is now only found in America where just
+That resistance is now only found in [[America]] where just
 such a Democrat as Daniel O'Connell is still threatened
 with political exclusion solely for being a Catholic.
 In some points the Americans are a hundred years behind the times.
@@ -81,11 +81,11 @@ never lead, to the direct political disasters that some foretold.
 The Duke of Norfolk was never actually caught in the act of imitating
 Guy Fawkes; and Lord Russell of Killowen seldom if ever invited
 a Spanish Armada to these shores.  Outside certain local Puritan fevers,
-chiefly in America, there is no reason to suppose that the world
+chiefly in [[America]], there is no reason to suppose that the world
 will be so unreasonable as to repent having elected Catholic Mayors
 or sent out Catholic Ambassadors.  The cant about a foreign allegiance
 is still heard; but that is because a cant can long outlive a cause.
-Men who are wide awake are well aware that the Catholic internationalism,
+Men who are wide awake are [[Well|well]] aware that the Catholic internationalism,
 which bids men respect their national governments, is considerably
 less dangerous than the financial internationalism which may make
 a man betray his country, or the revolutionary internationalism
@@ -151,23 +151,23 @@ he would not have had the smallest difficulty in answering.
 Of course the first thing to be emphasised would have been
 what has since been the first thing to be doubted or denied.
 It was the literal inspiration and inerrancy of the Hebrew Scriptures,
-and sometimes even of the English translation of those Scriptures.
+and sometimes even of the English [[Translation|translation]] of those Scriptures.
 It was the view that still lingers in provincial corners
 and is called Fundamentalism.
 
 At the beginning of the nineteenth century, practically all
 Protestantism was Fundamentalism.  But it is a great mistake
-to suppose that the true Protestant of history had nothing
-better to do for men than to throw a Bible at their heads.
+to suppose that the true Protestant of [[history]] had nothing
+better to do for men than to throw a [[Bible]] at their heads.
 What he valued was the theological Scheme of Salvation supposed
-to be set forth in that work; as the Free Trader valued Adam Smith
+to be set forth in that work; as the Free Trader valued Adam [[smith|Smith]]
 as the instrument of a theory.  Of that theological theory there
 were two main versions; one, universal in Scotland and very prevalent
 in England, that God chose some to receive the benefits of redemption
 and rejected others even in the act of creating them; the other,
 that men could accept God but only by accepting this theological scheme
 of salvation, and that their good works had no effect on the result.
-This was the great doctrine of Faith independent of Works, which was so
+This was the great doctrine of [[Faith]] independent of Works, which was so
 universally recognised as the chief mark and test of Protestantism that we
 might almost say that it was the whole of Protestantism, except indeed
 where Protestantism took the very fiercest form of Calvinism.
@@ -175,34 +175,34 @@ It is not a question of making points against Protestantism;
 this was the chief point that could be made for Protestantism.
 It was especially the popular point; the most persuasive point,
 the most sympathetic point.  From this idea of instantaneous individualist
-acceptance of the Atonement, by a pure act of faith, came the whole
-system of appeals on which this form of Christianity relied.
+acceptance of the Atonement, by a pure act of [[Faith|faith]], came the whole
+system of appeals on which this form of [[Christianity]] relied.
 That was why it was so easy, so personal, so emotional; that was why
-the whole of Christian's burden fell off at the foot of the Cross.
+the whole of Christian's burden fell off at the foot of the [[Cross]].
 There were no degrees of sin or details of penance; because works
 were not in question at all.  That is why they needed no Confessor
 or Sacrament of Penance; because there was nothing they could do
 to diminish sins either hopeless or already abolished or ignored.
 That was why it was wicked to pray for the dead; for the dead could
-not be anything but instantly beatified by dogmatic faith alone,
+not be anything but instantly beatified by dogmatic [[Faith|faith]] [[Alone|alone]],
 or lost for lack of it.  That was why there could be no progress
 of further enlightenment in the life to come; or, in other words,
 no Purgatory.  And that was what was meant by being a Protestant;
 disapproving of prayers for the dead, disapproving of progress
-after death; disapproving of any religion that relied on good works.
+after [[Death|death]]; disapproving of any religion that relied on good works.
 That was the great Protestant religion of Western Europe, of which we
 would speak as respectfully as we would of the virility and equality
-of Islam; and a hundred years ago it was normal and national.
+of [[Islam]]; and a hundred years ago it was normal and national.
 It was, in the newspaper phrase, solid.
 
 To-day, as a national and normal thing, it has utterly vanished.  Not one
 man in ninety really disapproves of praying for the dead.  The War,
 in killing many million men, killed that pedantry and perversity.
-Not one man in ninety is either a Calvinist or an upholder of Faith
+Not one man in ninety is either a Calvinist or an upholder of [[Faith]]
 against Works.  Not one man in ninety thinks he will go to hell
 if he does not instantly accept the theological theory of redemption;
 perhaps it would be better if he did.  Not one man in ninety believes
-the Bible infallible, as real Protestants believed it infallible.
+the [[Bible]] infallible, as real Protestants believed it infallible.
 Of all that wonderful system of religious thought, thundered against
 Rome in so many sermons, argued against Rome in so many pamphlets,
 thrown out scornfully against Rome in so many Exeter Hall meetings
@@ -222,7 +222,7 @@ against Rome; but it can only be full of these things
 because it is now hollow; because it is itself empty.
 Every sort of negation, every sort of new religion, every sort
 of moral revolt or intellectual irritation, that can make a man
-resist the claim of the Catholic Faith, is here gathered into
+resist the claim of the Catholic [[Faith]], is here gathered into
 a heap and covered with a convenient but quite antiquated label.
 When the journalists sav that there is solid Protestantism,
 all they mean is that there is a pretty heavy reluctance or resistance
@@ -236,35 +236,35 @@ It is even more against Calvinism than against Catholicism;
 it is even more insistent on works than were the Catholics;
 it would make a future life far less final and more purely
 progressive than did the Catholic doctrine of Purgatory;
-it would make the Bible far less important than it is to a Catholic.
+it would make the [[Bible]] far less important than it is to a Catholic.
 On every single point on which the Protestant attacked
 the Pope, he would now say that the modern spirit was a mere
 exaggeration of the Popish errors.  In so far as there
 is such a vague modern spirit, common to all these things,
 a spirit that may be called either liberality or laxity,
-it never was at any time the spirit of Protestantism.
+it never was at any [[Time|time]] the spirit of Protestantism.
 It came from the Revolution and the Romantic Movement,
-indirectly perhaps from the Renaissance of men like
+indirectly perhaps from the [[Renaissance]] of men like
 Rabelais and Montaigne; and ultimately much more from men
 like More and Erasmus than from men like Calvin and Knox.
 When the Protestant orators in the present crisis repeat
-rather monotonously, "We will not lose the freedom we gained
+rather monotonously, "We will not lose the [[Freedom|freedom]] we gained
 four hundred years ago," they show how little they share
-the religion which they defend.  Men gained no freedom four
-hundred years ago; there was no particular freedom about creating
+the religion which they defend.  Men gained no [[Freedom|freedom]] four
+hundred years ago; there was no particular [[Freedom|freedom]] about creating
 the Scottish Sabbath or preaching nothing but Predestination
 or even yielding to the Tudor Terror or the Cromwellian Terror.
-But it is arguable that they gained freedom a hundred
+But it is arguable that they gained [[Freedom|freedom]] a hundred
 years ago, as Catholics gained it a hundred years ago.
-It is tenable that such freedom was the expanding effect
+It is tenable that such [[Freedom|freedom]] was the expanding effect
 of the American and French Revolutions and the democratic
 idealism which came with the nineteenth century and seems
 in some danger of declining with the twentieth.  Above all,
-it is arguable that they have a certain kind of freedom now,
+it is arguable that they have a certain kind of [[Freedom|freedom]] now,
 not because they are Protestants, for they are not; but because they
 are anything they like and nothing if they like that better;
 because they are theists, theosophists, materialists, monists or
-mystics on their own.  How much such freedom is worth,
+mystics on their own.  How much such [[Freedom|freedom]] is worth,
 or how much chance it has of bearing any fruit in anything
 positive or creative, is another matter; but in order to
 anticipate the next phase, it is necessary to realise that
@@ -272,15 +272,15 @@ this phase is one of negative liberty, not to say anarchy.
 Whatever it is, it is not Protestantism; and whatever it is,
 it is not solid.
 
-This is the truth symbolised in the remark on the Prayer-Book Debate;
+This is the [[Truth|truth]] symbolised in the remark on the [[Prayer]]-Book [[debate|Debate]];
 that a crowd of Free-Thinkers and Noncomformists and people
 of any opinions dictated the affairs of the Church of England.
 I am very proud of the fact that Catholics abstained from doing so and
 avoided a very obvious piece of bad taste.  But the fact itself contains
 fine shades that have hardly been noticed.  It is not sufficiently
-realised that even a congregation at the City Temple, or a crowd hearing
-a Dean or Canon in St. Paul's Cathedral, is often in fact almost as
-mixed and dubious in religion as the members of the House of Commons.
+realised that even a congregation at the [[City]] Temple, or a crowd hearing
+a Dean or Canon in St. Paul's [[Cathedral]], is often in fact almost as
+mixed and dubious in religion as the members of the [[house|House]] of Commons.
 Many Nonconformists are not conforming to Non-conformity;
 and a churchman often means only a man who never goes to chapel.
 Such differences exist in the same sect or even in the same man.
@@ -293,7 +293,7 @@ he has often wondered if there is anything in being a Theosophist; he has
 attended one or two seances and might be persuaded to be a Spiritualist.
 That is the man we have got to deal with; and not some rigid Protestant
 labelled Methodist or even some rigid Atheist labelled Materialist.
-It is that man whom we have to set out to convert, after a hundred years
+It is that man whom we have to set out to [[convert]], after a hundred years
 of relative political liberty have left the old Protestant England
 far behind us and the new Catholic England still far away.
 
@@ -308,7 +308,7 @@ new religions.  And a general estimate of the chances will see them
 chiefly affected, I think, by the presence of these new religions
 side by side with that very ancient thing called Agnosticism.
 The real interest of the speculation is in the question of which of
-the two will turn out to be the really formidable opponent of the Faith
+the two will turn out to be the really formidable opponent of the [[Faith]]
 in the future.
 
 We know what is really meant by saying that the Church is merely
@@ -335,11 +335,11 @@ horrified at incense, because he used it himself.  In the same way
 the new religions will not attack the old religion for the old reasons.
 A Christian Scientist will not assume that all stories of miraculous
 healing must have been frauds.  A Spiritualist will not assume that
-all supernatural messages received through men must be impossible.
+all [[Supernatural|supernatural]] messages received through men must be impossible.
 It will be an entirely new list of charges or challenges that will come
 from the new mystics, who have imitated so many of the old marvels.
 In so far as the new religions become the leaders of the opposition,
-a new class of controversies will arise; with the faith-healers,
+a new class of controversies will arise; with the [[Faith|faith]]-healers,
 for instance, upon the mystery of matter; with the psychic
 investigators upon the influences of evil.  All this will bring
 us further and further from the special Protestant problems;
@@ -361,7 +361,7 @@ to the natural forces of this world; but he does not insist
 so strictly upon dry negations about the other; he has commonly
 admitted a vague borderland of the unknown, providing him
 with possibilities of inspiration or of awe which are forbidden
-to the cheap modern atheist with his clock-work cosmos.
+to the cheap modern atheist with his [[Clock|clock]]-work cosmos.
 The worshippers of the Unknown God could at least build
 an altar, though they could not inscribe it with a name.
 But I fancy that men who have once been Christians, or whose
@@ -369,22 +369,22 @@ fathers have been Christians, will not be long in discovering,
 or rather rediscovering, the profound defect that destroyed
 Paganism and filled centuries with a horror of its final phase.
 The natural forces, when they are turned into gods, betray mankind
-by something that is in the very nature of nature-worship. We
+by something that is in the very [[Nature|nature]] of [[Nature|nature]]-worship. We
 can already see men becoming unhealthy by the worship of health;
-becoming hateful by the worship of love; becoming paradoxically
+becoming hateful by the worship of [[Love|love]]; becoming paradoxically
 solemn and overstrained even by the idolatry of sport;
 and in some cases strangely morbid and infected with horrors
-by the perversion of a just sympathy with animals.
+by the perversion of a just sympathy with [[Animals|animals]].
 Unless all these things are subject to a more centralised
-and well-balanced conception of the universe, the local god
+and [[Well|well]]-balanced conception of the universe, the local god
 becomes too vivid, we might say too visible, and strikes
-his worshippers with madness.  The pantheist is always too
+his worshippers with [[Madness|madness]].  The pantheist is always too
 near to the polytheist and the polytheist to the idolater;
 the idolater to the man offering human sacrifice.
 There is nothing in Paganism to check its own exaggerations;
 and for that reason the world will probably find again,
 as it found before, the necessity of a universal moral
-philosophy supported by an authority that can define.
+[[philosophy]] supported by an authority that can define.
 In any case, that quarrel between Paganism and Catholicism will
 again be one raising issues very unfamiliar to many even now;
 and issues that would have very much mystified the men who debated
@@ -415,7 +415,7 @@ that it really has a relation to almost any class of speculation
 that may arise.  Thus, in the matter of psycho-analysis
 and the study of the subconscious, the Church will probably
 be found sooner or later defending certain essentials about
-Will and Conscience against a welter of wild impersonality.
+Will and [[Conscience]] against a welter of wild impersonality.
 Catholics remembering Catholicism will have a right and reason
 to do this.  But Calvinists who have half forgotten Calvinism
 have no particular reason to do it.
@@ -423,18 +423,18 @@ have no particular reason to do it.
 There is, for instance, one influence that grows stronger
 every day, never mentioned in the news papers, not even
 intelligible to people in the newspaper frame of mind.
-It is the return of the Thomist Philosophy; which is
-the philosophy of commonsense, as compared with the paradoxes
+It is the return of the Thomist [[philosophy|Philosophy]]; which is
+the [[philosophy]] of commonsense, as compared with the paradoxes
 of Kant and Hegel and the Pragmatists.  The Roman religion
 will be, in the exact sense, the only Rationalistic religion.
 The other religions will not be Rationalist but Relativist;
 declaring that the reason is itself relative and unreliable;
-declaring that Being is only Becoming or that all time is
-only a time of transition; saying in mathematics that two
-and two make five in the fixed stars, saying in metaphysics
+declaring that Being is only Becoming or that all [[Time|time]] is
+only a [[Time|time]] of transition; saying in mathematics that two
+and two make five in the fixed [[Stars|stars]], saying in metaphysics
 and in morals that there is a good beyond good and evil.
-Instead of the materialist who said that the soul did not exist,
-we shall have the new mystic who says that the body does not exist.
+Instead of the materialist who said that the [[Soul|soul]] did not exist,
+we shall have the new mystic who says that the [[Body|body]] does not exist.
 Amid all these things the return of the Scholastic will simply
 be the return of the sane man.  There will perhaps be belated
 and benighted modernists, lingering from the nineteenth century,
@@ -446,7 +446,7 @@ deny that it hurts a man to stick the point of the needle
 in his leg.  If there are angels, they have presumably
 some intellectual relation to place and space; and if there
 are no angels, there are still men and presumably sane men.
-But to say that there is no pain, or no matter, or no evil,
+But to say that there is no [[Pain|pain]], or no matter, or no evil,
 or no difference between man and beast, or indeed between
 anything and anything else--this is a desperate effort to destroy
 all experience and sense of reality; and men will weary of it
@@ -454,7 +454,7 @@ more and more, when it has ceased to be the latest fashion;
 and will look once more for something that will give form
 to such a chaos and keep the proportions of the mind of man.
 Millions of men are already at least wondering whether this
-solution is not to be found in the Catholic order and philosophy.
+solution is not to be found in the Catholic order and [[philosophy]].
 Above all, the Church has regained that unique position in
 the world in a fair field and under the very reverse of favour;
 having had tor a hundred years no more than the common right

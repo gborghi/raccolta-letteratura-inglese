@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 23 (part 6)"
+title: "[[Persuasion]] — Chapter 23 (part 6)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 speak to him: the moment of Mr Elliot’s appearing and tearing her away,
 
-and one or two subsequent moments, marked by returning hope or
+and one or two subsequent moments, marked by returning [[Hope|hope]] or
 
 increasing despondency, were dwelt on with energy.
 
@@ -24,23 +24,23 @@ increasing despondency, were dwelt on with energy.
 
 “To see you,” cried he, “in the midst of those who could not be my
 
-well-wishers; to see your cousin close by you, conversing and smiling,
+[[Well|well]]-wishers; to see your cousin close by you, conversing and smiling,
 
 and feel all the horrible eligibilities and proprieties of the match!
 
-To consider it as the certain wish of every being who could hope to
+To consider it as the certain wish of every being who could [[Hope|hope]] to
 
 influence you! Even if your own feelings were reluctant or indifferent,
 
 to consider what powerful supports would be his! Was it not enough to
 
-make the fool of me which I appeared? How could I look on without
+make the [[Fool|fool]] of me which I appeared? How could I look on without
 
 agony? Was not the very sight of the friend who sat behind you, was not
 
 the recollection of what had been, the knowledge of her influence, the
 
-indelible, immoveable impression of what persuasion had once done—was
+indelible, immoveable impression of what [[Persuasion|persuasion]] had once done—was
 
 it not all against me?”
 
@@ -50,9 +50,9 @@ it not all against me?”
 
 suspected me now; the case is so different, and my age is so different.
 
-If I was wrong in yielding to persuasion once, remember that it was to
+If I was wrong in yielding to [[Persuasion|persuasion]] once, remember that it was to
 
-persuasion exerted on the side of safety, not of risk. When I yielded,
+[[Persuasion|persuasion]] exerted on the side of safety, not of risk. When I yielded,
 
 I thought it was to duty, but no duty could be called in aid here. In
 
@@ -98,13 +98,13 @@ felt that I had still a motive for remaining here.”
 
 
 
-At last Anne was at home again, and happier than any one in that house
+At last Anne was at [[Home|home]] again, and happier than any one in that [[house]]
 
 could have conceived. All the surprise and suspense, and every other
 
 painful part of the morning dissipated by this conversation, she
 
-re-entered the house so happy as to be obliged to find an alloy in some
+re-entered the [[house]] so happy as to be obliged to find an alloy in some
 
 momentary apprehensions of its being impossible to last. An interval of
 
@@ -142,7 +142,7 @@ manners of her father and sister. With the Musgroves, there was the
 
 happy chat of perfect ease; with Captain Harville, the kind-hearted
 
-intercourse of brother and sister; with Lady Russell, attempts at
+intercourse of brother and sister; with [[Lady Russell]], attempts at
 
 conversation, which a delicious consciousness cut short; with Admiral
 
@@ -152,7 +152,7 @@ which the same consciousness sought to conceal; and with Captain
 
 Wentworth, some moments of communications continually occurring, and
 
-always the hope of more, and always the knowledge of his being there.
+always the [[Hope|hope]] of more, and always the knowledge of his being there.
 
 
 
@@ -168,7 +168,7 @@ the right and wrong, I mean with regard to myself; and I must believe
 
 that I was right, much as I suffered from it, that I was perfectly
 
-right in being guided by the friend whom you will love better than you
+right in being guided by the friend whom you will [[Love|love]] better than you
 
 do now. To me, she was in the place of a parent. Do not mistake me,
 
@@ -186,27 +186,27 @@ otherwise, I should have suffered more in continuing the engagement
 
 than I did even in giving it up, because I should have suffered in my
 
-conscience. I have now, as far as such a sentiment is allowable in
+[[Conscience|conscience]]. I have now, as far as such a sentiment is allowable in
 
-human nature, nothing to reproach myself with; and if I mistake not, a
+human [[Nature|nature]], nothing to reproach myself with; and if I mistake not, a
 
 strong sense of duty is no bad part of a woman’s portion.”
 
 
 
-He looked at her, looked at Lady Russell, and looking again at her,
+He looked at her, looked at [[Lady Russell]], and looking again at her,
 
 replied, as if in cool deliberation—
 
 
 
-“Not yet. But there are hopes of her being forgiven in time. I trust to
+“Not yet. But there are hopes of her being forgiven in [[Time|time]]. I trust to
 
-being in charity with her soon. But I too have been thinking over the
+being in [[Charity|charity]] with her soon. But I too have been thinking over the
 
 past, and a question has suggested itself, whether there may not have
 
-been one person more my enemy even than that lady? My own self. Tell me
+been one person more my enemy even than that lady? My own [[Self|self]]. Tell me
 
 if, when I returned to England in the year eight, with a few thousand
 
@@ -224,7 +224,7 @@ the engagement then?”
 
 “Good God!” he cried, “you would! It is not that I did not think of it,
 
-or desire it, as what could alone crown all my other success; but I was
+or [[Desire|desire]] it, as what could [[Alone|alone]] [[Crown|crown]] all my other [[success]]; but I was
 
 proud, too proud to ask again. I did not understand you. I shut my
 
@@ -232,9 +232,9 @@ eyes, and would not understand you, or do you justice. This is a
 
 recollection which ought to make me forgive every one sooner than
 
-myself. Six years of separation and suffering might have been spared.
+myself. Six years of separation and [[Suffering|suffering]] might have been spared.
 
-It is a sort of pain, too, which is new to me. I have been used to the
+It is a sort of [[Pain|pain]], too, which is new to me. I have been used to the
 
 gratification of believing myself to earn every blessing that I
 

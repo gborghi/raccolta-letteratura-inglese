@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 36)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 36)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-and reality of his office. But King John was attacked because he was
+and reality of his office. But [[King John]] was attacked because he was
 
-strong, not because he was weak. Richard the Second lost the crown
+strong, not because he was weak. [[Richard]] the Second lost the [[Crown|crown]]
 
-because the crown was a trophy, not because it was a trifle. And
+because the [[Crown|crown]] was a trophy, not because it was a trifle. And
 
 President Wilson was deposed because he had used a power which is such,
 
-in its nature, that a man must use it at the risk of deposition. As a
+in its [[Nature|nature]], that a man must use it at the risk of deposition. As a
 
 matter of fact, of course, it is easy to exaggerate Mr. Wilson's real
 
 unpopularity, and still more easy to exaggerate Mr. Wilson's real
 
-failure. There are a great many people in America who justify and
+failure. There are a great many people in [[America]] who justify and
 
 applaud him; and what is yet more interesting, who justify him not on
 
@@ -38,23 +38,23 @@ is especially insisted by some that his demonstration, which seemed
 
 futile as a threat against Mexico, was a very far-sighted preparation
 
-for the threat against Prussia. But in so far as the democracy did
+for the threat against Prussia. But in so far as the [[democracy]] did
 
 disagree with him, it was but the occasional and inevitable result of
 
-the theory by which the despot has to anticipate the democracy.
+the theory by which the despot has to anticipate the [[democracy]].
 
 
 
-Thus the American King and the English President are the very opposite
+Thus the American [[King]] and the English President are the very opposite
 
 of each other; yet they are both the varied and very national
 
-indications of the same contemporary truth. It is the great weariness
+indications of the same contemporary [[Truth|truth]]. It is the great weariness
 
 and contempt that have fallen upon common politics in both countries. It
 
-may be answered, with some show of truth, that the new American
+may be answered, with some show of [[Truth|truth]], that the new American
 
 President represents a return to common politics; and that in that sense
 
@@ -86,9 +86,9 @@ equality in theory with extreme economic inequality in practice.
 
 Capitalism was not a normalcy but an abnormalcy. Property is normal, and
 
-is more normal in proportion as it is universal. Slavery may be normal
+is more normal in proportion as it is universal. [[Slavery]] may be normal
 
-and even natural, in the sense that a bad habit may be second nature.
+and even natural, in the sense that a bad habit may be second [[Nature|nature]].
 
 But Capitalism was never anything so human as a habit; we may say it was
 
@@ -108,7 +108,7 @@ things considered, I cannot say anything worse of them than that.
 
 The recent Presidential election preserved some trace of the old Party
 
-System of America; but its tradition has very nearly faded like that of
+System of [[America]]; but its tradition has very nearly faded like that of
 
 the Party System of England. It is easy for an Englishman to confess
 
@@ -132,9 +132,9 @@ Democrats are the party of the South and have some true tradition from
 
 the Southern aristocracy and the defence of Secession and State Rights.
 
-The Republicans rose in the North as the party of Lincoln, largely
+The Republicans [[Rose|rose]] in the North as the party of [[Lincoln]], largely
 
-condemning slavery. But the Republicans are also the party of Tariffs,
+condemning [[Slavery|slavery]]. But the Republicans are also the party of Tariffs,
 
 and are at least accused of being the party of Trusts. The Democrats are
 
@@ -150,15 +150,15 @@ bewildering; but I am inclined to think that they are as a whole more
 
 coherent and rational than our own old division of Liberals and
 
-Conservatives. There is even more doubt nowadays about what is the
+Conservatives. There is even more [[Doubt|doubt]] nowadays about what is the
 
 connecting link between the different items in the old British party
 
 programmes. I have never been able to understand why being in favour of
 
-Protection should have anything to do with being opposed to Home Rule;
+Protection should have anything to do with being opposed to [[Home]] Rule;
 
-especially as most of the people who were to receive Home Rule were
+especially as most of the people who were to receive [[Home]] Rule were
 
 themselves in favour of Protection. I could never see what giving people
 
@@ -182,7 +182,7 @@ all is said, I incline to think that there was more spiritual and
 
 atmospheric cohesion in the different parts of the American party than
 
-in those of the English party; and I think this unity was all the more
+in those of the English party; and I think this [[unity]] was all the more
 
 real because it was more difficult to define. The Republican party
 

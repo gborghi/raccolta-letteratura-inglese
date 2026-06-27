@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — OLONEL HAYTER, the Chief of the Police, was moving towards the inner"
+title: "[[FourFaultlessFelons]] — OLONEL HAYTER, the Chief of the Police, was moving towards the inner"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -24,7 +24,7 @@ social visit, and she now began to entertain dim and rather incredible
 
 possibilities. The clergyman had turned away to one of the bookstands and
 
-was turning over the leaves of a volume with feverish excitement; it
+was turning over the [[Leaves|leaves]] of a volume with feverish excitement; it
 
 seemed almost that he was muttering to himself. He was a little like a
 
@@ -32,17 +32,17 @@ man looking up a quotation on which he has been challenged.
 
 
 
-"I hear you have a very nice garden here, Mr. Snow," said Hayter. "I
+"I hear you have a very nice [[Garden|garden]] here, Mr. [[Snow]]," said Hayter. "I
 
-should rather like to look at your garden."
+should rather like to look at your [[Garden|garden]]."
 
 
 
-Snow turned a startled face over his shoulder; he seemed at first unable
+[[Snow]] turned a startled face over his shoulder; he seemed at first unable
 
 to detach his mind from his preoccupation; then he said sharply but a
 
-little shakily, "There's nothing to see in my garden; nothing at all. I
+little shakily, "There's nothing to see in my [[Garden|garden]]; nothing at all. I
 
 was just wondering--"
 
@@ -54,9 +54,9 @@ shouldered his way to the back door. There was something resolute about
 
 his action that made the others trail vaguely after him, hardly knowing
 
-what they did. Hume, who was just behind the detective, said to him in an
+what they did. Hume, who was just behind the [[Detective|detective]], said to him in an
 
-undertone: "What do you expect to find growing in the old man's garden?"
+undertone: "What do you expect to find growing in the old man's [[Garden|garden]]?"
 
 
 
@@ -68,9 +68,9 @@ Hayter looked over his shoulder with a grim geniality.
 
 
 
-But when they went out into the neat and narrow strip of back garden, the
+But when they went out into the neat and narrow strip of back [[Garden|garden]], the
 
-only tree in sight was the sycamore spreading over the desert path, and
+only tree in sight was the sycamore spreading over the [[Desert|desert]] path, and
 
 Barbara remembered with another subconscious thrill that this was the
 
@@ -88,23 +88,23 @@ again he was seen to be holding a long and heavy cylindrical object.
 
 "Here is something fallen from the gun-tree you said grew in these
 
-parts," he said grimly. "Funny that the gun should be found in Mr. Snow's
+parts," he said grimly. "Funny that the gun should be found in Mr. [[Snow]]'s
 
-back-garden, isn't it? Especially as it's a double-barrelled gun with one
+back-[[Garden|garden]], isn't it? Especially as it's a [[Double|double]]-barrelled gun with one
 
 barrel discharged."
 
 
 
-Hume was staring at the big gun in the detective's hand, and for the
+Hume was staring at the big gun in the [[Detective|detective]]'s hand, and for the
 
-first time his usually stolid face wore an expression of amazement and
+first [[Time|time]] his usually stolid face wore an expression of amazement and
 
 even consternation.
 
 
 
-"Damn it all!" he said softly, "I forgot about that. What a rotten fool I
+"Damn it all!" he said softly, "I forgot about that. What a rotten [[Fool|fool]] I
 
 am!"
 
@@ -120,7 +120,7 @@ aloud, almost as if they were a public meeting.
 
 "Look here," he said, "do you know what this means? This means that poor
 
-old Snow, who is probably still fussing over his hieroglyphics, is going
+old [[Snow]], who is probably still fussing over his hieroglyphics, is going
 
 to be charged with attempted murder."
 
@@ -148,13 +148,13 @@ puzzled.
 
 
 
-"Well, I have," said Hume, "and I jolly well don't want to give it." He
+"[[Well]], I have," said Hume, "and I jolly [[Well|well]] don't want to give it." He
 
 was silent for a moment and then broke out in a sort of fury: "Blast it
 
 all, can't you see how silly it is to drag in that silly old man? Don't
 
-you see he'd only fallen in love with his own prophecies of disaster, and
+you see he'd only fallen in [[Love|love]] with his own prophecies of disaster, and
 
 was a bit put off when they didn't come true after all?"
 
@@ -162,11 +162,11 @@ was a bit put off when they didn't come true after all?"
 
 "There are a good many more suspicious circumstances," cut in Smythe
 
-curtly. "There's the gun in the garden and the position of the sycamore."
+curtly. "There's the gun in the [[Garden|garden]] and the position of the sycamore."
 
 
 
-There was a long silence during which Hume stood with huge hunched
+There was a long [[Silence|silence]] during which Hume stood with huge hunched
 
 shoulders frowning resentfully at his boots. Then he suddenly threw up
 
@@ -174,7 +174,7 @@ his head and spoke with a sort of explosive lightness.
 
 
 
-"Oh, well then, I must give my evidence," he said, with a smile that was
+"Oh, [[Well|well]] then, I must give my evidence," he said, with a smile that was
 
 almost gay: "I shot the Governor myself."
 
@@ -184,7 +184,7 @@ There was a stillness as if the place had been full of statues, and for a
 
 few seconds nobody moved or spoke. Then Barbara heard her own voice in
 
-the silence, crying out: "Oh, you didn't!"
+the [[Silence|silence]], crying out: "Oh, you didn't!"
 
 
 
@@ -202,13 +202,13 @@ Hume held up one hand in an arresting gesture, almost like a public
 
 speaker. He was still smiling slightly, but his manner had grown more
 
-grave.
+[[Grave|grave]].
 
 
 
 "Pardon me," he said. "Pardon me. Let us distinguish. The distinction is
 
-of great value to my self-esteem. I did not try to murder the Governor. I
+of great value to my [[Self|self]]-esteem. I did not try to murder the Governor. I
 
 tried to shoot him in the leg and I did shoot him in the leg."
 
@@ -224,15 +224,15 @@ morals I must bear, like other members of the criminal class. But
 
 imputations on my marksmanship I cannot tolerate; it is the only sport in
 
-which I excel." He picked up the double-barrelled gun before they could
+which I excel." He picked up the [[Double|double]]-barrelled gun before they could
 
 stop him and went on rapidly: "And may I draw attention to one technical
 
 point? This gun has two barrels and one is still undischarged. If any
 
-fool had shot Tallboys at that distance and not killed him, don't you
+[[Fool|fool]] had shot Tallboys at that distance and not killed him, don't you
 
-think even a fool would have shot again, if that was what he wanted to
+think even a [[Fool|fool]] would have shot again, if that was what he wanted to
 
 do? Only, you see, it was not what I wanted to do."
 
@@ -244,7 +244,7 @@ Governor rudely.
 
 
 
-"Ah, you are sceptical," replied the tutor in the same airy tone. "Well,
+"Ah, you are sceptical," replied the tutor in the same airy tone. "[[Well]],
 
 Sir Harry, you have yourself provided the apparatus of demonstration, and
 
@@ -254,11 +254,11 @@ efficiency are already set up, I think, on the slope just beyond the end
 
 of the wall." Before anybody could move he had hopped up on to the low
 
-garden wall, just under the shadow of the sycamore. From that perch he
+[[Garden|garden]] wall, just under the [[Shadow|shadow]] of the sycamore. From that perch he
 
 could see the long line of the butts stretching along the border of the
 
-desert.
+[[Desert|desert]].
 
 
 
@@ -284,13 +284,13 @@ of it the tutor dropped serenely from the wall.
 
 "If anybody cares to go and look," he said, "I think he will find the
 
-demonstration of my innocence-not indeed of shooting the Governor, but of
+demonstration of my [[innocence]]-not indeed of shooting the Governor, but of
 
 wanting to shoot him anywhere else but where I did shoot him."
 
 
 
-There was another silence, and then this comedy of unexpected happenings
+There was another [[Silence|silence]], and then this [[Comedy|comedy]] of unexpected happenings
 
 was crowned with another that was still more unexpected; coming from the
 
@@ -302,11 +302,11 @@ Tom's high, crowing voice was suddenly heard above the crowd.
 
 
 
-"Who's going to look?" he cried. "Well, why don't you go and look?"
+"Who's going to look?" he cried. "[[Well]], why don't you go and look?"
 
 
 
-It was almost as if a tree in the garden had spoken. And indeed the
+It was almost as if a tree in the [[Garden|garden]] had spoken. And indeed the
 
 excitement of events had worked upon that vegetating brain till it
 
@@ -314,9 +314,9 @@ unfolded rapidly, as do some vegetables at the touch of chemistry. Nor
 
 was this all, for the next moment the vegetable had taken on a highly
 
-animal energy and hurled itself across the garden. They saw a whirl of
+animal energy and hurled itself across the [[Garden|garden]]. They saw a whirl of
 
-lanky limbs against the sky as Tom Traill cleared the garden wall and
+lanky limbs against the sky as Tom Traill cleared the [[Garden|garden]] wall and
 
 went plunging away through the sand towards the targets.
 
@@ -350,7 +350,7 @@ In fact, I am a Moderate Murderer."
 
 
 
-"The philosophy of moderation in murder," continued the tutor blandly,
+"The [[philosophy]] of moderation in murder," continued the tutor blandly,
 
 "is one to which I have given some little attention. I was saying only
 
@@ -360,7 +360,7 @@ especially persons in responsible political situations. As it is, the
 
 punishments on both sides are far too severe. The merest touch or soupcon
 
-of murder is all that is required for purposes of reform. The little more
+of murder is all that is required for purposes of [[Reform|reform]]. The little more
 
 and how much it is; the little less and the Governor of Polybia gets
 
@@ -390,7 +390,7 @@ little personal problem. Now if ever there was a man," he went on with
 
 delicate emphasis, as if it were a scientific demonstration, "if ever
 
-there was a man meant and marked out by nature to be rather murdered, it
+there was a man meant and marked out by [[Nature|nature]] to be rather murdered, it
 
 is Lord Tallboys. Other eminent men, very often, are just murdered, and
 
@@ -400,7 +400,7 @@ incident is terminated. One just murders them and thinks no more about
 
 it. But Tallboys is a remarkable case; he is my employer and I know him
 
-pretty well. He is a good fellow, really. He is a gentleman, he is a
+pretty [[Well|well]]. He is a good fellow, really. He is a gentleman, he is a
 
 patriot; what is more, he is really a liberal and reasonable man. But by
 
@@ -444,7 +444,7 @@ lot of dormant intellects this afternoon."
 
 At this moment there was another leap and scurry by the sycamore and the
 
-boy Tom hurled himself back into the garden, panting aloud: "It's quite
+boy Tom hurled himself back into the [[Garden|garden]], panting aloud: "It's quite
 
 right. It's just where he said."
 
@@ -470,7 +470,7 @@ had.
 
 
 
-"It's a riddle," repeated Tom with stubborn solemnity. "He's awfully fond
+"It's a [[Riddle|riddle]]," repeated Tom with stubborn solemnity. "He's awfully fond
 
 of riddles. He says silly things just to make you think. That's what
 
@@ -486,7 +486,7 @@ we've got to do. He doesn't like you to give it up."
 
 
 
-There was some truth perhaps in the suggestion that Mr. John Hume was
+There was some [[Truth|truth]] perhaps in the suggestion that Mr. John Hume was
 
 fond of riddles, for he fired off one more of them at the Chief of
 
@@ -494,7 +494,7 @@ Police, even as that official took him into custody.
 
 
 
-"Well," he said cheerfully, "you can only half hang me because I'm only
+"[[Well]]," he said cheerfully, "you can only half hang me because I'm only
 
 half a murderer. I suppose you have hanged people sometimes?"
 

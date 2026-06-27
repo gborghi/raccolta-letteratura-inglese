@@ -21,11 +21,11 @@ The most crushing ease against them is when they can be convicted
 of being musical.  Mr. Walter de la Mare is caught tripping on the light
 fantastic toe to a tune that was alleged to be brazenly melodious
 and pleasing; and Mr. Humbert Wolfe is arrested in the very act
-of uttering harmonies in the old, vulgar fashion of Milton and Keats.
+of uttering harmonies in the old, vulgar fashion of [[Milton]] and Keats.
 Crimes of this sort our critics seem more and more bent on bringing
 to light; but the code of law which they administer is still
 in the making and appears some times to be a little vague.
-It is not easy for the outsider to understand why words that
+It is not easy for the [[Outsider|outsider]] to understand why words that
 might be inspiring and imaginative if only they were cacophonous
 and clumsy can become less intelligent or suggestive merely
 by being sonorous or sweet.  But there seems really to be an idea,
@@ -33,10 +33,10 @@ in some of the critics, that the poet should avoid pleasing the ear,
 quite apart from his primary duty to please the mind.  It seems
 to be akin to the idea of the Imagists, those singular idolaters,
 and to suggest that the worshipper must have the image but not
-the hymn of praise--the sound of sackbut, dulcimer, and all
-kinds of music before the image that the King has set up.
+the [[Hymn|hymn]] of praise--the sound of sackbut, dulcimer, and all
+kinds of music before the image that the [[King]] has set up.
 In plain words, imaginative poetry must not appeal to the sense
-of sound.  The futurist poet is like the Early Victorian child.
+of sound.  The futurist poet is like the Early Victorian [[Child|child]].
 He must be seen and not heard.
 
 I have, indeed, heard of one modern critic who went even further.
@@ -129,14 +129,14 @@ as certain condiments are said to bring out certain flavours.
 And until that psychological fact is realized the separatist
 school will not have faced the real fact in the tradition.
 Milton's `Like Teneriffe or Atlas unremoved' actually would not sound
-so well if Teneriffe were only the name of a house in Golder's Green,
+so [[Well|well]] if Teneriffe were only the name of a [[house]] in Golder's Green,
 or Atlas were spelt with a small `a'. And it certainly would not
-mean so much if it did not sound so well.  In short, the union
-of sound and sense is a Marriage; and this is the age of Divorce.
-It cannot understand that divine paradox whereby two things become
+mean so much if it did not sound so [[Well|well]].  In short, the [[Union|union]]
+of sound and sense is a [[Marriage]]; and this is the age of [[divorce|Divorce]].
+It cannot understand that divine [[Paradox|paradox]] whereby two things become
 one and yet remain two; or the notion of their increasing each other's
 effect by something that is much more subtle than simple addition.
-The world has become a sort of wild divorce court, not only
+The world has become a sort of wild [[divorce]] [[Court|court]], not only
 for individuals, but also for ideas.  And even those whose beliefs
 or unbeliefs make them indifferent to the idea that those whom God
 hath joined become one flesh may be willing to consider the thesis

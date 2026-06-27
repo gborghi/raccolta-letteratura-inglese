@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — OLONEL GRIMM of the Pavonian Police was very exactly described as a (part 3)"
+title: "[[FourFaultlessFelons]] — OLONEL GRIMM of the Pavonian Police was very exactly described as a (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-of that sort nowadays, you have got everything. There never was a time in
+of that sort nowadays, you have got everything. There never was a [[Time|time]] in
 
-history when the few counted for so much, and the many for so little.
+[[history]] when the few counted for so much, and the many for so little.
 
 When the newspapers say 'The nation is behind Mr. Binks', it means that
 
@@ -24,7 +24,7 @@ about three newspaper proprietors are behind him. When the professors say
 
 'The opinion of Europe has now accepted the Gollywog theory', it means
 
-that about four professors in Germany have accepted it. The moment I'd
+that about four professors in [[Germany]] have accepted it. The moment I'd
 
 got my millionaire and my man of science, I knew I was pretty safe; but
 
@@ -52,7 +52,7 @@ betray me. I did not foresee that I might betray the others. But after
 
 all, this rebellion has also ended in betrayal. Colonel Grimm, I give up
 
-my confederates. The great poet Sebastian is captured and hanged; the
+my confederates. The great poet [[Sebastian]] is captured and hanged; the
 
 great soldier Case is captured and hanged; Phocus and Loeb are captured
 
@@ -60,15 +60,15 @@ and hanged. You can see them hanging-on hat-pegs."
 
 Then he added, with a bow of profound modesty: "But their humble tool,
 
-John Conrad, has the pardon of the King."
+John Conrad, has the pardon of the [[King]]."
 
 Grimm once more sprang erect with a ringing curse which cracked and
 
 turned to a laugh. Then he said: "John Conrad, you are a devil, but I
 
-shouldn't wonder if you brought it off after all. Clovis the Third may
+shouldn't [[Wonder|wonder]] if you brought it off after all. Clovis the Third may
 
-have forgotten that he is still a king, but somewhere in his stale
+have forgotten that he is still a [[King|king]], but somewhere in his stale
 
 memories he remembers that he is still a gentleman. Go on your way, Grand
 
@@ -84,7 +84,7 @@ calling The Word."
 
 It has been already explained that Pavonia possessed a modern and
 
-enlightened Government; and in the light of this fact it may seem a
+enlightened [[government|Government]]; and in the light of this fact it may seem a
 
 strain on the reader's credulity to say that it did actually keep its
 
@@ -92,11 +92,11 @@ word to the eccentric footman. The politicians and the financiers made
 
 some difficulties, feeling that the keeping of promises must not become a
 
-habit. But for once the King put his foot down, not without a faint and
+habit. But for once the [[King]] put his foot down, not without a faint and
 
-far-off jingle of the ancient spurs and sword. He said it was a point of
+far-off jingle of the ancient spurs and [[Sword|sword]]. He said it was a point of
 
-purely personal honour, but there was a rumour that his niece had a good
+purely personal [[Honour|honour]], but there was a rumour that his niece had a good
 
 deal to do with it.
 
@@ -108,19 +108,19 @@ confessions of crime to Mr. Pinion of the Comet somewhat more briefly and
 
 personally than the same tales have been recorded here. Nevertheless,
 
-they took a tolerably long time from start to finish, and throughout the
+they took a tolerably long [[Time|time]] from start to finish, and throughout the
 
-whole of that time Mr. Pinion had preserved an air of polite attention
+whole of that [[Time|time]] Mr. Pinion had preserved an air of polite attention
 
 and had not interrupted by so much as a word.
 
-When they were over, he coughed slightly and said: "Well, gentlemen, I'm
+When they were over, he coughed slightly and said: "[[Well]], gentlemen, I'm
 
 sure I've been very much interested in your remarkable narratives. But I
 
-suppose most of us get misrepresented a bit from time to time. I hope
+suppose most of us get misrepresented a bit from [[Time|time]] to [[Time|time]]. I [[Hope|hope]]
 
-you'll do me the honour, gentlemen, of allowing that I haven't pumped
+you'll do me the [[Honour|honour]], gentlemen, of allowing that I haven't pumped
 
 you, or prompted you, or stuck my oar in anyway, but have enjoyed your
 
@@ -134,13 +134,13 @@ more patient and considerate."
 
 newspaper world of my own country I am known as the Bloody Battering-Ram,
 
-also the Home-Wrecker, the Heart-Searcher and occasionally as Jack the
+also the [[Home]]-Wrecker, the Heart-Searcher and occasionally as Jack the
 
-Ripper, because of my unscrupulous ripping-up of the most sacred secrets
+Ripper, because of my unscrupulous ripping-up of the most sacred [[Secrets|secrets]]
 
 of private life. Headlines such as 'Bull-Dog Pinion Pins President', or
 
-'Home-Wrecker Has Scalp of Screaming Secretary', are common on the
+'[[Home]]-Wrecker Has Scalp of Screaming Secretary', are common on the
 
 brighter news-pages of my native state. The story is still told of how I
 
@@ -148,7 +148,7 @@ hung on to Judge Grogan by one leg, when he was climbing into the
 
 aeroplane."
 
-"Well," said the doctor, "I own I never should have guessed it of you.
+"[[Well]]," said the doctor, "I own I never should have guessed it of you.
 
 Nobody would think you'd ever done a thing like that."
 
@@ -164,7 +164,7 @@ reputation, whether it's as a Murderer, a Robber or a Reporter."
 
 batter or wreck or rip anything or anybody?"
 
-"Well, not quite so much as you murdered anybody," answered the American
+"[[Well]], not quite so much as you murdered anybody," answered the American
 
 in his guarded tone. "But I have to let on that I've been horribly rude
 
@@ -198,7 +198,7 @@ just off to his dying mother, when I boarded his car and got his views on
 
 Capital versus Labour. I'd be obliged to burgle the third gentleman's
 
-house or wreck the fourth gentleman's train, or do something to show my
+[[house]] or wreck the fourth gentleman's train, or do something to show my
 
 editor I'm a real live wire of a reporter. Of course you never need to do
 
@@ -220,15 +220,15 @@ impresses the editor, and that's what I've got to think about."
 
 "Don't you mind everybody from Maine to Mexico calling you a Bloody
 
-Battering-Ram when you're really a perfectly normal and well-educated
+Battering-Ram when you're really a perfectly normal and [[Well|well]]-educated
 
 gentleman?"
 
-"Well," said the journalist, "I suppose, as I say, that most of us are
+"[[Well]]," said the journalist, "I suppose, as I say, that most of us are
 
 misunderstood one way or another."
 
-There was a momentary silence at the table, and then Dr. Judson turned in
+There was a momentary [[Silence|silence]] at the table, and then Dr. Judson turned in
 
 his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
 

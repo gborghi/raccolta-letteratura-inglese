@@ -57,12 +57,12 @@ they are by far the most subtle and complex of all the great
 nations of Christendom.  Since the fall of the Stuarts,
 with the beginning of the eighteenth century, their system has
 worked with a quite abnormal sort of anonymity and evasiveness.
-At that date they set up a king who was not allowed to govern
+At that date they set up a [[King|king]] who was not allowed to govern
 anything and an aristocracy which in reality governed everything,
 but which went on saying louder and louder that it governed nothing
 and was not an aristocracy at all.  All our chief official figures
 are unofficial; they are in that sense outsiders.  The Prime Minister
-is an outsider, for he is unknown to the British Constitution.
+is an [[Outsider|outsider]], for he is unknown to the British Constitution.
 The Speaker is so called because he is the one Member who never speaks.
 The Cabinet carries with it the suggestion of a secret meeting;
 or men hiding in a corner, or even locked up in a box.  For the only
@@ -75,7 +75,7 @@ singular form of it is that to which I have already referred,
 the curious anonymity of aristocracy.  For two centuries, and at least up
 to very lately, England has been a State of a special historical type.
 It was a type very common in mercantile and seafaring States;
-as in the Republic of Venice and the Republic of Holland.
+as in the Republic of [[Venice]] and the Republic of Holland.
 One feature of these Republics was that they were not republican--
 in the modern sense of democratic.  But the feature of England
 was more odd and unique.  It was, in effect, that aristocrats
@@ -83,7 +83,7 @@ could do anything except call themselves aristocrats.
 They must be very careful only to call themselves gentlemen.
 It may seem a very vague and irrational understanding, but upon that
 understanding rested the safety of a vast and often victorious system;
-and, for some time at least, the greatness of England.
+and, for some [[Time|time]] at least, the [[Greatness|greatness]] of England.
 
 Now when the quarrel began about the Black-shirts and the Red Peril
 in England, Mr. Baldwin said one very profound and penetrating thing.
@@ -95,7 +95,7 @@ are poor men and Fascists generally are not.  He was right;
 and it is unfortunately the fact, in England, that a fight between
 them will seem to be simply a fight of rich men as such against poor
 men as such.  And _that_ is precisely the one thing that the policy
-of a popular gentry must avoid as a matter of life and death.
+of a popular gentry must avoid as a matter of life and [[Death|death]].
 Cynically speaking, it may have any amount of general injustice,
 in the impersonal pressure of one economic class upon another.
 But if you can actually take a snapshot of the squire kicking
@@ -107,24 +107,24 @@ and Mr. Baldwin does.
 
 It is not so with the same factions of Fascists and Communists
 on the Continent.  For on the Continent the traditions of a
-conflict of ideas have come down continuously from the Crusades
-and the religious wars and the wars of the French Revolution.
+conflict of ideas have come down continuously from the [[Crusades]]
+and the religious wars and the wars of the [[French Revolution]].
 And the intellectual vision, even the enemy's intellectual vision,
 is often vivid enough to make men forget the mere facts of wealth
-and poverty.  When a Crusader fought with a Saracen, it might
+and [[Poverty|poverty]].  When a Crusader fought with a Saracen, it might
 happen that the Crusader was a poor knight or squire driven to
-the wars by sheer poverty and the other a great Sheik with whole
+the wars by sheer [[Poverty|poverty]] and the other a great Sheik with whole
 processions of camels and concubines.  Or it might equally happen
 that the Crusader was a rich and powerful baron and the Moslem a poor
-and ragged Bedouin.  But it was in the whole temper of the time
-to think of it first as a fight between Christendom and Islam.
+and ragged Bedouin.  But it was in the whole temper of the [[Time|time]]
+to think of it first as a fight between Christendom and [[Islam]].
 So, even in England, as late as the genuine struggle of Roundheads
 and Cavaliers, the Cavalier might be a great noble like Newcastle,
 or he might be a nameless yeoman from loyal Hereford or Cornwall.
 The Roundhead might be a tinker like Bunyan, though he was quite
-as likely to be a Puritan aristocrat rich with the abbey lands,
-or a wealthy London merchant.  But there remained some true feeling
-that it was the anointed King against the Parliament--or the Saints.
+as likely to be a Puritan [[aristocrat]] rich with the abbey lands,
+or a wealthy [[London]] merchant.  But there remained some true feeling
+that it was the anointed [[King]] against the Parliament--or the Saints.
 So in Europe still, whatever be the facts, it is felt as a fight between
 a Fascist who does believe in the Corporative State and a Communist
 who does believe in the Communist State.  But, for good or evil,

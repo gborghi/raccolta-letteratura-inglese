@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 9 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,8 +17,8 @@ tags:
 This was wholly unintelligible to Nicholas, who had no other distinct
 impression on his mind at the moment, than that Miss Squeers was an
 ordinary-looking girl, and her friend Miss Price a pretty one; but he
-had not time to enlighten himself by reflection, for the hearth being
-by this time swept up, and the candle snuffed, they sat down to play
+had not [[Time|time]] to enlighten himself by reflection, for the hearth being
+by this [[Time|time]] swept up, and the candle snuffed, they sat down to play
 speculation.
 
 ‘There are only four of us, ‘Tilda,’ said Miss Squeers, looking slyly at
@@ -45,7 +45,7 @@ The deal fell to Nicholas, and the hand prospered.
 ‘’Tilda HAS won something she didn’t expect, I think, haven’t you,
 dear?’ said Miss Squeers, maliciously.
 
-‘Only a dozen and eight, love,’ replied Miss Price, affecting to take
+‘Only a dozen and eight, [[Love|love]],’ replied Miss Price, affecting to take
 the question in a literal sense.
 
 ‘How dull you are tonight!’ sneered Miss Squeers.
@@ -54,9 +54,9 @@ the question in a literal sense.
 thinking YOU seemed out of sorts.’
 
 ‘Me!’ cried Miss Squeers, biting her lips, and trembling with very
-jealousy. ‘Oh no!’
+[[Jealousy|jealousy]]. ‘Oh no!’
 
-‘That’s well,’ remarked Miss Price. ‘Your hair’s coming out of curl,
+‘That’s [[Well|well]],’ remarked Miss Price. ‘Your hair’s coming out of curl,
 dear.’
 
 ‘Never mind me,’ tittered Miss Squeers; ‘you had better attend to your
@@ -67,7 +67,7 @@ partner.’
 The Yorkshireman flattened his nose, once or twice, with his clenched
 fist, as if to keep his hand in, till he had an opportunity of
 exercising it upon the features of some other gentleman; and Miss
-Squeers tossed her head with such indignation, that the gust of wind
+Squeers tossed her head with such indignation, that the gust of [[Wind|wind]]
 raised by the multitudinous curls in motion, nearly blew the candle out.
 
 ‘I never had such luck, really,’ exclaimed coquettish Miss Price, after
@@ -84,15 +84,15 @@ have a good one in that case.’
 
 To see how Miss Squeers tossed her head, and the corn-factor flattened
 his nose, while this conversation was carrying on! It would have been
-worth a small annuity to have beheld that; let alone Miss Price’s
-evident joy at making them jealous, and Nicholas Nickleby’s happy
+worth a small annuity to have beheld that; let [[Alone|alone]] Miss Price’s
+evident joy at making them jealous, and [[Nicholas Nickleby]]’s happy
 unconsciousness of making anybody uncomfortable.
 
 ‘We have all the talking to ourselves, it seems,’ said Nicholas, looking
 good-humouredly round the table as he took up the cards for a fresh
 deal.
 
-‘You do it so well,’ tittered Miss Squeers, ‘that it would be a pity to
+‘You do it so [[Well|well]],’ tittered Miss Squeers, ‘that it would be a pity to
 interrupt, wouldn’t it, Mr. Browdie? He! he! he!’
 
 ‘Nay,’ said Nicholas, ‘we do it in default of having anybody else to
@@ -113,43 +113,43 @@ something?’
 ‘Weel, then!’ said the Yorkshireman, striking the table heavily with his
 fist, ‘what I say’s this--Dang my boans and boddy, if I stan’ this ony
 longer. Do ye gang whoam wi’ me, and do yon loight an’ toight young
-whipster look sharp out for a brokken head, next time he cums under my
+whipster look sharp out for a brokken head, next [[Time|time]] he cums under my
 hond.’
 
-‘Mercy on us, what’s all this?’ cried Miss Price, in affected
+‘[[Mercy]] on us, what’s all this?’ cried Miss Price, in affected
 astonishment.
 
 ‘Cum whoam, tell ‘e, cum whoam,’ replied the Yorkshireman, sternly. And
-as he delivered the reply, Miss Squeers burst into a shower of tears;
+as he delivered the reply, Miss Squeers burst into a shower of [[Tears|tears]];
 arising in part from desperate vexation, and in part from an impotent
-desire to lacerate somebody’s countenance with her fair finger-nails.
+[[Desire|desire]] to lacerate somebody’s countenance with her fair finger-nails.
 
 This state of things had been brought about by divers means and
 workings. Miss Squeers had brought it about, by aspiring to the high
 state and condition of being matrimonially engaged, without good grounds
 for so doing; Miss Price had brought it about, by indulging in three
-motives of action: first, a desire to punish her friend for laying
+motives of action: first, a [[Desire|desire]] to punish her friend for laying
 claim to a rivalship in dignity, having no good title: secondly, the
-gratification of her own vanity, in receiving the compliments of a smart
+gratification of her own [[Vanity|vanity]], in receiving the compliments of a smart
 young man: and thirdly, a wish to convince the corn-factor of the great
 danger he ran, in deferring the celebration of their expected nuptials;
 while Nicholas had brought it about, by half an hour’s gaiety and
-thoughtlessness, and a very sincere desire to avoid the imputation of
+thoughtlessness, and a very sincere [[Desire|desire]] to avoid the imputation of
 inclining at all to Miss Squeers. So the means employed, and the end
 produced, were alike the most natural in the world; for young ladies
 will look forward to being married, and will jostle each other in the
 race to the altar, and will avail themselves of all opportunities of
 displaying their own attractions to the best advantage, down to the very
-end of time, as they have done from its beginning.
+end of [[Time|time]], as they have done from its beginning.
 
-‘Why, and here’s Fanny in tears now!’ exclaimed Miss Price, as if in
+‘Why, and here’s Fanny in [[Tears|tears]] now!’ exclaimed Miss Price, as if in
 fresh amazement. ‘What can be the matter?’
 
 ‘Oh! you don’t know, miss, of course you don’t know. Pray don’t trouble
 yourself to inquire,’ said Miss Squeers, producing that change of
 countenance which children call making a face.
 
-‘Well, I’m sure!’ exclaimed Miss Price.
+‘[[Well]], I’m sure!’ exclaimed Miss Price.
 
 ‘And who cares whether you are sure or not, ma’am?’ retorted Miss
 Squeers, making another face.

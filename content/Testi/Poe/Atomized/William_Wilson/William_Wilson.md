@@ -1,5 +1,5 @@
 ---
-title: "William Wilson"
+title: "[[William Wilson]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/William-Wilson-(Poe)"
@@ -13,31 +13,31 @@ tags:
 </nav>
 
 
-What say of it? what say of CONSCIENCE grim,
+What say of it? what say of [[Conscience|CONSCIENCE]] grim,
     That spectre in my path?
                     —_Chamberlayne’s Pharronida._
 
-      Let me call myself, for the present, William Wilson. The fair
+      Let me call myself, for the present, [[William Wilson]]. The fair
       page now lying before me need not be sullied with my real
       appellation. This has been already too much an object for the
       scorn—for the horror—for the detestation of my race. To the
       uttermost regions of the globe have not the indignant winds
       bruited its unparalleled infamy? Oh, outcast of all outcasts most
       abandoned!—to the earth art thou not forever dead? to its honors,
-      to its flowers, to its golden aspirations?—and a cloud, dense,
+      to its [[Flowers|flowers]], to its golden aspirations?—and a cloud, dense,
       dismal, and limitless, does it not hang eternally between thy
       hopes and heaven?
 
       I would not, if I could, here or to-day, embody a record of my
       later years of unspeakable misery, and unpardonable crime. This
       epoch—these later years—took unto themselves a sudden elevation
-      in turpitude, whose origin alone it is my present purpose to
+      in turpitude, whose origin [[Alone|alone]] it is my present purpose to
       assign. Men usually grow base by degrees. From me, in an instant,
       all virtue dropped bodily as a mantle. From comparatively trivial
       wickedness I passed, with the stride of a giant, into more than
       the enormities of an Elah-Gabalus. What chance—what one event
       brought this evil thing to pass, bear with me while I relate.
-      Death approaches; and the shadow which foreruns him has thrown a
+      [[Death]] approaches; and the [[Shadow|shadow]] which foreruns him has thrown a
       softening influence over my spirit. I long, in passing through
       the dim valley, for the sympathy—I had nearly said for the
       pity—of my fellow men. I would fain have them believe that I have
@@ -45,10 +45,10 @@ What say of it? what say of CONSCIENCE grim,
       control. I would wish them to seek out for me, in the details I
       am about to give, some little oasis of fatality amid a wilderness
       of error. I would have them allow—what they cannot refrain from
-      allowing—that, although temptation may have erewhile existed as
+      allowing—that, although [[Temptation|temptation]] may have erewhile existed as
       great, man was never thus, at least, tempted before—certainly,
       never thus fell. And is it therefore that he has never thus
-      suffered? Have I not indeed been living in a dream? And am I not
+      suffered? Have I not indeed been living in [[A Dream|a dream]]? And am I not
       now dying a victim to the horror and the mystery of the wildest
       of all sublunary visions?
 
@@ -58,7 +58,7 @@ What say of it? what say of CONSCIENCE grim,
       inherited the family character. As I advanced in years it was
       more strongly developed; becoming, for many reasons, a cause of
       serious disquietude to my friends, and of positive injury to
-      myself. I grew self-willed, addicted to the wildest caprices, and
+      myself. I grew [[Self|self]]-willed, addicted to the wildest caprices, and
       a prey to the most ungovernable passions. Weak-minded, and beset
       with constitutional infirmities akin to my own, my parents could
       do but little to check the evil propensities which distinguished
@@ -70,10 +70,10 @@ What say of it? what say of CONSCIENCE grim,
       master of my own actions.
 
       My earliest recollections of a school-life, are connected with a
-      large, rambling, Elizabethan house, in a misty-looking village of
+      large, rambling, Elizabethan [[house]], in a misty-looking village of
       England, where were a vast number of gigantic and gnarled trees,
-      and where all the houses were excessively ancient. In truth, it
-      was a dream-like and spirit-soothing place, that venerable old
+      and where all the houses were excessively ancient. In [[Truth|truth]], it
+      was [[A Dream|a dream]]-like and spirit-soothing place, that venerable old
       town. At this moment, in fancy, I feel the refreshing chilliness
       of its deeply-shadowed avenues, inhale the fragrance of its
       thousand shrubberies, and thrill anew with undefinable delight,
@@ -93,24 +93,24 @@ What say of it? what say of CONSCIENCE grim,
       the first ambiguous monitions of the destiny which afterwards so
       fully overshadowed me. Let me then remember.
 
-      The house, I have said, was old and irregular. The grounds were
+      The [[house]], I have said, was old and irregular. The grounds were
       extensive, and a high and solid brick wall, topped with a bed of
-      mortar and broken glass, encompassed the whole. This prison-like
+      mortar and broken glass, encompassed the whole. This [[Prison|prison]]-like
       rampart formed the limit of our domain; beyond it we saw but
       thrice a week—once every Saturday afternoon, when, attended by
-      two ushers, we were permitted to take brief walks in a body
-      through some of the neighbouring fields—and twice during Sunday,
+      two ushers, we were permitted to take brief walks in a [[Body|body]]
+      through some of the neighbouring fields—and twice during [[Sunday]],
       when we were paraded in the same formal manner to the morning and
       evening service in the one church of the village. Of this church
       the principal of our school was pastor. With how deep a spirit of
-      wonder and perplexity was I wont to regard him from our remote
+      [[Wonder|wonder]] and perplexity was I wont to regard him from our remote
       pew in the gallery, as, with step solemn and slow, he ascended
       the pulpit! This reverend man, with countenance so demurely
       benign, with robes so glossy and so clerically flowing, with wig
       so minutely powdered, so rigid and so vast,—-could this be he
       who, of late, with sour visage, and in snuffy habiliments,
       administered, ferule in hand, the Draconian laws of the academy?
-      Oh, gigantic paradox, too utterly monstrous for solution!
+      Oh, gigantic [[Paradox|paradox]], too utterly monstrous for solution!
 
       At an angle of the ponderous wall frowned a more ponderous gate.
       It was riveted and studded with iron bolts, and surmounted with
@@ -123,19 +123,19 @@ What say of it? what say of CONSCIENCE grim,
       The extensive enclosure was irregular in form, having many
       capacious recesses. Of these, three or four of the largest
       constituted the play-ground. It was level, and covered with fine
-      hard gravel. I well remember it had no trees, nor benches, nor
+      hard gravel. I [[Well|well]] remember it had no trees, nor benches, nor
       anything similar within it. Of course it was in the rear of the
-      house. In front lay a small parterre, planted with box and other
+      [[house]]. In front lay a small parterre, planted with box and other
       shrubs, but through this sacred division we passed only upon rare
       occasions indeed—such as a first advent to school or final
       departure thence, or perhaps, when a parent or friend having
-      called for us, we joyfully took our way home for the Christmas or
+      called for us, we joyfully took our way [[Home|home]] for the Christmas or
       Midsummer holidays.
 
-      But the house!—how quaint an old building was this!—to me how
+      But the [[house]]!—how quaint an old building was this!—to me how
       veritably a palace of enchantment! There was really no end to its
       windings—to its incomprehensible subdivisions. It was difficult,
-      at any given time, to say with certainty upon which of its two
+      at any given [[Time|time]], to say with certainty upon which of its two
       stories one happened to be. From each room to every other there
       were sure to be found three or four steps either in ascent or
       descent. Then the lateral branches were
@@ -147,7 +147,7 @@ What say of it? what say of CONSCIENCE grim,
       little sleeping apartment assigned to myself and some eighteen or
       twenty other scholars.
 
-      The school-room was the largest in the house—I could not help
+      The school-room was the largest in the [[house]]—I could not help
       thinking, in the world. It was very long, narrow, and dismally
       low, with pointed Gothic windows and a ceiling of oak. In a
       remote and terror-inspiring angle was a square enclosure of eight
@@ -160,17 +160,17 @@ What say of it? what say of CONSCIENCE grim,
       these was the pulpit of the “classical” usher, one of the
       “English and mathematical.” Interspersed about the room, crossing
       and recrossing in endless irregularity, were innumerable benches
-      and desks, black, ancient, and time-worn, piled desperately with
+      and desks, black, ancient, and [[Time|time]]-worn, piled desperately with
       much-bethumbed books, and so beseamed with initial letters, names
-      at full length, grotesque figures, and other multiplied efforts
+      at full length, [[Grotesque|grotesque]] figures, and other multiplied efforts
       of the knife, as to have entirely lost what little of original
       form might have been their portion in days long departed. A huge
-      bucket with water stood at one extremity of the room, and a clock
+      bucket with [[Water|water]] stood at one extremity of the room, and a [[Clock|clock]]
       of stupendous dimensions at the other.
 
       Encompassed by the massy walls of this venerable academy, I
       passed, yet not in tedium or disgust, the years of the third
-      lustrum of my life. The teeming brain of childhood requires no
+      lustrum of my life. The teeming brain of [[Childhood|childhood]] requires no
       external world of incident to occupy or amuse it; and the
       apparently dismal monotony of a school was replete with more
       intense excitement than my riper youth has derived from luxury,
@@ -178,10 +178,10 @@ What say of it? what say of CONSCIENCE grim,
       mental development had in it much of the uncommon—even much of
       the _outré_. Upon mankind at large the events of very early
       existence rarely leave in mature age any definite impression. All
-      is gray shadow—a weak and irregular remembrance—an indistinct
+      is gray [[Shadow|shadow]]—a weak and irregular remembrance—an indistinct
       regathering of feeble pleasures and phantasmagoric pains. With me
-      this is not so. In childhood I must have felt with the energy of
-      a man what I now find stamped upon memory in lines as vivid, as
+      this is not so. In [[Childhood|childhood]] I must have felt with the energy of
+      a man what I now find stamped upon [[Memory|memory]] in lines as vivid, as
       deep, and as durable as the _exergues_ of the Carthaginian
       medals.
 
@@ -195,7 +195,7 @@ What say of it? what say of CONSCIENCE grim,
       passionate and spirit-stirring. “_Oh, le bon temps, que ce siècle
       de fer!_”
 
-      In truth, the ardor, the enthusiasm, and the imperiousness of my
+      In [[Truth|truth]], the ardor, the enthusiasm, and the imperiousness of my
       disposition, soon rendered me a marked character among my
       schoolmates, and by slow, but natural gradations, gave me an
       ascendancy over all not greatly older than myself;—over all with
@@ -204,10 +204,10 @@ What say of it? what say of CONSCIENCE grim,
       surname as myself;—a circumstance, in fact, little remarkable;
       for, notwithstanding a noble descent, mine was one of those
       everyday appellations which seem, by prescriptive right, to have
-      been, time out of mind, the common property of the mob. In this
-      narrative I have therefore designated myself as William Wilson,—a
+      been, [[Time|time]] out of mind, the common property of the mob. In this
+      narrative I have therefore designated myself as [[William Wilson]],—a
       fictitious title not very dissimilar to the real. My namesake
-      alone, of those who in school phraseology constituted “our set,”
+      [[Alone|alone]], of those who in school phraseology constituted “our set,”
       presumed to compete with me in the studies of the class—in the
       sports and broils of the play-ground—to refuse implicit belief in
       my assertions, and submission to my will—indeed, to interfere
@@ -223,25 +223,25 @@ What say of it? what say of CONSCIENCE grim,
       equality which he maintained so easily with myself, a proof of
       his true superiority; since not to be overcome cost me a
       perpetual struggle. Yet this superiority—even this equality—was
-      in truth acknowledged by no one but myself; our associates, by
+      in [[Truth|truth]] acknowledged by no one but myself; our associates, by
       some unaccountable blindness, seemed not even to suspect it.
       Indeed, his competition, his resistance, and especially his
       impertinent and dogged interference with my purposes, were not
       more pointed than private. He appeared to be destitute alike of
-      the ambition which urged, and of the passionate energy of mind
+      the [[Ambition|ambition]] which urged, and of the passionate energy of mind
       which enabled me to excel. In his rivalry he might have been
-      supposed actuated solely by a whimsical desire to thwart,
+      supposed actuated solely by a whimsical [[Desire|desire]] to thwart,
       astonish, or mortify myself; although there were times when I
-      could not help observing, with a feeling made up of wonder,
+      could not help observing, with a feeling made up of [[Wonder|wonder]],
       abasement, and pique, that he mingled with his injuries, his
       insults, or his contradictions, a certain most inappropriate, and
       assuredly most unwelcome affectionateness of manner. I could only
       conceive this singular behavior to arise from a consummate
-      self-conceit assuming the vulgar airs of patronage and
+      [[Self|self]]-conceit assuming the vulgar airs of patronage and
       protection.
 
       Perhaps it was this latter trait in Wilson’s conduct, conjoined
-      with our identity of name, and the mere accident of our having
+      with our [[Identity|identity]] of name, and the mere accident of our having
       entered the school upon the same day, which set afloat the notion
       that we were brothers, among the senior classes in the academy.
       These do not usually inquire with much strictness into the
@@ -259,35 +259,35 @@ What say of it? what say of CONSCIENCE grim,
       altogether. We had, to be sure, nearly every day a quarrel in
       which, yielding me publicly the palm of victory, he, in some
       manner, contrived to make me feel that it was he who had deserved
-      it; yet a sense of pride on my part, and a veritable dignity on
+      it; yet a sense of [[Pride|pride]] on my part, and a veritable dignity on
       his own, kept us always upon what are called “speaking terms,”
       while there were many points of strong congeniality in our
       tempers, operating to awake me in a sentiment which our position
-      alone, perhaps, prevented from ripening into friendship. It is
+      [[Alone|alone]], perhaps, prevented from ripening into [[Friendship|friendship]]. It is
       difficult, indeed, to define, or even to describe, my real
       feelings towards him. They formed a motley and heterogeneous
       admixture;—some petulant animosity, which was not yet hatred,
-      some esteem, more respect, much fear, with a world of uneasy
+      some esteem, more respect, much [[Fear|fear]], with a world of uneasy
       curiosity. To the moralist it will be unnecessary to say, in
       addition, that Wilson and myself were the most inseparable of
       companions.
 
-      It was no doubt the anomalous state of affairs existing between
+      It was no [[Doubt|doubt]] the anomalous state of affairs existing between
       us, which turned all my attacks upon him, (and they were many,
       either open or covert) into the channel of banter or practical
-      joke (giving pain while assuming the aspect of mere fun) rather
+      joke (giving [[Pain|pain]] while assuming the aspect of mere fun) rather
       than into a more serious and determined hostility. But my
       endeavours on this head were by no means uniformly successful,
       even when my plans were the most wittily concocted; for my
       namesake had much about him, in character, of that unassuming and
       quiet austerity which, while enjoying the poignancy of its own
-      jokes, has no heel of Achilles in itself, and absolutely refuses
+      jokes, has no heel of [[Achilles]] in itself, and absolutely refuses
       to be laughed at. I could find, indeed, but one vulnerable point,
       and that, lying in a personal peculiarity, arising, perhaps, from
       constitutional disease, would have been spared by any antagonist
       less at his wit’s end than myself;—my rival had a weakness in the
       faucal or guttural organs, which precluded him from raising his
-      voice at any time above a very low whisper. Of this defect I did
+      voice at any [[Time|time]] above a very low whisper. Of this defect I did
       not fail to take what poor advantage lay in my power.
 
       Wilson’s retaliations in kind were many; and there was one form
@@ -297,7 +297,7 @@ What say of it? what say of CONSCIENCE grim,
       habitually practised the annoyance. I had always felt aversion to
       my uncourtly patronymic, and its very common, if not plebeian
       praenomen. The words were venom in my ears; and when, upon the
-      day of my arrival, a second William Wilson came also to the
+      day of my arrival, a second [[William Wilson]] came also to the
       academy, I felt angry with him for bearing the name, and doubly
       disgusted with the name because a stranger bore it, who would be
       the cause of its twofold repetition, who would be constantly in
@@ -315,7 +315,7 @@ What say of it? what say of CONSCIENCE grim,
       which had grown current in the upper forms. In a word, nothing
       could more seriously disturb me, (although I scrupulously
       concealed such disturbance,) than any allusion to a similarity of
-      mind, person, or condition existing between us. But, in truth, I
+      mind, person, or condition existing between us. But, in [[Truth|truth]], I
       had no reason to believe that (with the exception of the matter
       of relationship, and in the case of Wilson himself,) this
       similarity had ever been made a subject of comment, or even
@@ -325,7 +325,7 @@ What say of it? what say of CONSCIENCE grim,
       annoyance, can only be attributed, as I said before, to his more
       than ordinary penetration.
 
-      His cue, which was to perfect an imitation of myself, lay both in
+      His cue, which was to perfect an [[Imitation|imitation]] of myself, lay both in
       words and in actions; and most admirably did he play his part. My
       dress it was an easy matter to copy; my gait and general manner
       were, without difficulty, appropriated; in spite of his
@@ -337,15 +337,15 @@ What say of it? what say of CONSCIENCE grim,
       How greatly this most exquisite portraiture harassed me, (for it
       could not justly be termed a caricature,) I will not now venture
       to describe. I had but one consolation—in the fact that the
-      imitation, apparently, was noticed by myself alone, and that I
+      [[Imitation|imitation]], apparently, was noticed by myself [[Alone|alone]], and that I
       had to endure only the knowing and strangely sarcastic smiles of
       my namesake himself. Satisfied with having produced in my bosom
       the intended effect, he seemed to chuckle in secret over the
       sting he had inflicted, and was characteristically disregardful
-      of the public applause which the success of his witty endeavours
+      of the public applause which the [[success]] of his witty endeavours
       might have so easily elicited. That the school, indeed, did not
       feel his design, perceive its accomplishment, and participate in
-      his sneer, was, for many anxious months, a riddle I could not
+      his sneer, was, for many anxious months, a [[Riddle|riddle]] I could not
       resolve. Perhaps the gradation of his copy rendered it not so
       readily perceptible; or, more possibly, I owed my security to the
       master air of the copyist, who, disdaining the letter, (which in
@@ -372,9 +372,9 @@ What say of it? what say of CONSCIENCE grim,
       distasteful supervision, and daily resented more and more openly
       what I considered his intolerable arrogance. I have said that, in
       the first years of our connexion as schoolmates, my feelings in
-      regard to him might have been easily ripened into friendship;
+      regard to him might have been easily ripened into [[Friendship|friendship]];
       but, in the latter months of my residence at the academy,
-      although the intrusion of his ordinary manner had, beyond doubt,
+      although the intrusion of his ordinary manner had, beyond [[Doubt|doubt]],
       in some measure, abated, my sentiments, in nearly similar
       proportion, partook very much of positive hatred. Upon one
       occasion he saw this, I think, and afterwards avoided, or made a
@@ -383,12 +383,12 @@ What say of it? what say of CONSCIENCE grim,
       It was about the same period, if I remember aright, that, in an
       altercation of violence with him, in which he was more than
       usually thrown off his guard, and spoke and acted with an
-      openness of demeanor rather foreign to his nature, I discovered,
+      openness of demeanor rather foreign to his [[Nature|nature]], I discovered,
       or fancied I discovered, in his accent, his air, and general
       appearance, a something which first startled, and then deeply
       interested me, by bringing to mind dim visions of my earliest
-      infancy—wild, confused and thronging memories of a time when
-      memory herself was yet unborn. I cannot better describe the
+      infancy—wild, confused and thronging memories of a [[Time|time]] when
+      [[Memory|memory]] herself was yet [[unborn]]. I cannot better describe the
       sensation which oppressed me than by saying that I could with
       difficulty shake off the belief of my having been acquainted with
       the being who stood before me, at some epoch very long ago—some
@@ -397,7 +397,7 @@ What say of it? what say of CONSCIENCE grim,
       the day of the last conversation I there held with my singular
       namesake.
 
-      The huge old house, with its countless subdivisions, had several
+      The huge old [[house]], with its countless subdivisions, had several
       large chambers communicating with each other, where slept the
       greater number of the students. There were, however, (as must
       necessarily happen in a building so awkwardly planned,) many
@@ -407,9 +407,9 @@ What say of it? what say of CONSCIENCE grim,
       capable of accommodating but a single individual. One of these
       small apartments was occupied by Wilson.
 
-      One night, about the close of my fifth year at the school, and
+      One [[Night|night]], about the close of my fifth year at the school, and
       immediately after the altercation just mentioned, finding every
-      one wrapped in sleep, I arose from bed, and, lamp in hand, stole
+      one wrapped in [[Sleep|sleep]], I arose from bed, and, lamp in hand, stole
       through a wilderness of narrow passages from my own bedroom to
       that of my rival. I had long been plotting one of those
       ill-natured pieces of practical wit at his expense in which I had
@@ -422,42 +422,42 @@ What say of it? what say of CONSCIENCE grim,
       his being asleep, I returned, took the light, and with it again
       approached the bed. Close curtains were around it, which, in the
       prosecution of my plan, I slowly and quietly withdrew, when the
-      bright rays fell vividly upon the sleeper, and my eyes, at the
+      bright rays fell vividly upon [[The Sleeper|the sleeper]], and my eyes, at the
       same moment, upon his countenance. I looked;—and a numbness, an
       iciness of feeling instantly pervaded my frame. My breast heaved,
       my knees tottered, my whole spirit became possessed with an
       objectless yet intolerable horror. Gasping for breath, I lowered
       the lamp in still nearer proximity to the face. Were these—these
-      the lineaments of William Wilson? I saw, indeed, that they were
+      the lineaments of [[William Wilson]]? I saw, indeed, that they were
       his, but I shook as if with a fit of the ague in fancying they
       were not. What was there about them to confound me in this
       manner? I gazed;—while my brain reeled with a multitude of
       incoherent thoughts. Not thus he appeared—assuredly not thus—in
       the vivacity of his waking hours. The same name! the same contour
       of person! the same day of arrival at the academy! And then his
-      dogged and meaningless imitation of my gait, my voice, my habits,
-      and my manner! Was it, in truth, within the bounds of human
+      dogged and meaningless [[Imitation|imitation]] of my gait, my voice, my habits,
+      and my manner! Was it, in [[Truth|truth]], within the bounds of human
       possibility, that what I now saw was the result, merely, of the
-      habitual practice of this sarcastic imitation? Awe-stricken, and
+      habitual practice of this sarcastic [[Imitation|imitation]]? Awe-stricken, and
       with a creeping shudder, I extinguished the lamp, passed silently
       from the chamber, and left, at once, the halls of that old
       academy, never to enter them again.
 
-      After a lapse of some months, spent at home in mere idleness, I
+      After a lapse of some months, spent at [[Home|home]] in mere idleness, I
       found myself a student at Eton. The brief interval had been
       sufficient to enfeeble my remembrance of the events at Dr.
-      Bransby’s, or at least to effect a material change in the nature
-      of the feelings with which I remembered them. The truth—the
-      tragedy—of the drama was no more. I could now find room to doubt
+      Bransby’s, or at least to effect a material change in the [[Nature|nature]]
+      of the feelings with which I remembered them. The [[Truth|truth]]—the
+      [[Tragedy|tragedy]]—of the drama was no more. I could now find room to [[Doubt|doubt]]
       the evidence of my senses; and seldom called up the subject at
-      all but with wonder at extent of human credulity, and a smile at
-      the vivid force of the imagination which I hereditarily
+      all but with [[Wonder|wonder]] at extent of human credulity, and a smile at
+      the vivid force of the [[Imagination|imagination]] which I hereditarily
       possessed. Neither was this species of scepticism likely to be
       diminished by the character of the life I led at Eton. The vortex
       of thoughtless folly into which I there so immediately and so
       recklessly plunged, washed away all but the froth of my past
       hours, engulfed at once every solid or serious impression, and
-      left to memory only the veriest levities of a former existence.
+      left to [[Memory|memory]] only the veriest levities of a former existence.
 
       I do not wish, however, to trace the course of my miserable
       profligacy here—a profligacy which set at defiance the laws,
@@ -466,10 +466,10 @@ What say of it? what say of CONSCIENCE grim,
       vice, and added, in a somewhat unusual degree, to my bodily
       stature, when, after a week of soulless dissipation, I invited a
       small party of the most dissolute students to a secret carousal
-      in my chambers. We met at a late hour of the night; for our
+      in my chambers. We met at a late hour of the [[Night|night]]; for our
       debaucheries were to be faithfully protracted until morning. The
       wine flowed freely, and there were not wanting other and perhaps
-      more dangerous seductions; so that the gray dawn had already
+      more dangerous seductions; so that the gray [[Dawn|dawn]] had already
       faintly appeared in the east, while our delirious extravagance
       was at its height. Madly flushed with cards and intoxication, I
       was in the act of insisting upon a toast of more than wonted
@@ -483,15 +483,15 @@ What say of it? what say of CONSCIENCE grim,
       delighted than surprised me. I staggered forward at once, and a
       few steps brought me to the vestibule of the building. In this
       low and small room there hung no lamp; and now no light at all
-      was admitted, save that of the exceedingly feeble dawn which made
-      its way through the semi-circular window. As I put my foot over
+      was admitted, save that of the exceedingly feeble [[Dawn|dawn]] which made
+      its way through the semi-circular [[Window|window]]. As I put my foot over
       the threshold, I became aware of the figure of a youth about my
       own height, and habited in a white kerseymere morning frock, cut
-      in the novel fashion of the one I myself wore at the moment. This
+      in the [[Novel|novel]] fashion of the one I myself wore at the moment. This
       the faint light enabled me to perceive; but the features of his
       face I could not distinguish. Upon my entering he strode
       hurriedly up to me, and, seizing me by the arm with a gesture of
-      petulant impatience, whispered the words “William Wilson!” in my
+      petulant impatience, whispered the words “[[William Wilson]]!” in my
       ear.
 
       I grew perfectly sober in an instant.
@@ -504,14 +504,14 @@ What say of it? what say of CONSCIENCE grim,
       utterance; and, above all, it was the character, the tone, the
       key, of those few, simple, and familiar, yet whispered syllables,
       which came with a thousand thronging memories of bygone days, and
-      struck upon my soul with the shock of a galvanic battery. Ere I
+      struck upon my [[Soul|soul]] with the shock of a galvanic battery. Ere I
       could recover the use of my senses he was gone.
 
       Although this event failed not of a vivid effect upon my
-      disordered imagination, yet was it evanescent as vivid. For some
+      disordered [[Imagination|imagination]], yet was it evanescent as vivid. For some
       weeks, indeed, I busied myself in earnest inquiry, or was wrapped
       in a cloud of morbid speculation. I did not pretend to disguise
-      from my perception the identity of the singular individual who
+      from my perception the [[Identity|identity]] of the singular individual who
       thus perseveringly interfered with my affairs, and harassed me
       with his insinuated counsel. But who and what was this
       Wilson?—and whence came he?—and what were his purposes? Upon
@@ -520,8 +520,8 @@ What say of it? what say of CONSCIENCE grim,
       family had caused his removal from Dr. Bransby’s academy on the
       afternoon of the day in which I myself had eloped. But in a brief
       period I ceased to think upon the subject; my attention being all
-      absorbed in a contemplated departure for Oxford. Thither I soon
-      went; the uncalculating vanity of my parents furnishing me with
+      absorbed in a contemplated departure for [[Oxford]]. Thither I soon
+      went; the uncalculating [[Vanity|vanity]] of my parents furnishing me with
       an outfit and annual establishment, which would enable me to
       indulge at will in the luxury already so dear to my heart,—to vie
       in profuseness of expenditure with the haughtiest heirs of the
@@ -532,7 +532,7 @@ What say of it? what say of CONSCIENCE grim,
       restraints of decency in the mad infatuation of my revels. But it
       were absurd to pause in the detail of my extravagance. Let it
       suffice, that among spendthrifts I out-Heroded Herod, and that,
-      giving name to a multitude of novel follies, I added no brief
+      giving name to a multitude of [[Novel|novel]] follies, I added no brief
       appendix to the long catalogue of vices then usual in the most
       dissolute university of Europe.
 
@@ -544,12 +544,12 @@ What say of it? what say of CONSCIENCE grim,
       enormous income at the expense of the weak-minded among my
       fellow-collegians. Such, nevertheless, was the fact. And the very
       enormity of this offence against all manly and honourable
-      sentiment proved, beyond doubt, the main if not the sole reason
+      sentiment proved, beyond [[Doubt|doubt]], the main if not the sole reason
       of the impunity with which it was committed. Who, indeed, among
       my most abandoned associates, would not rather have disputed the
       clearest evidence of his senses, than have suspected of such
-      courses, the gay, the frank, the generous William Wilson—the
-      noblest and most liberal commoner at Oxford—him whose follies
+      courses, the gay, the frank, the generous [[William Wilson]]—the
+      noblest and most liberal commoner at [[Oxford]]—him whose follies
       (said his parasites) were but the follies of youth and unbridled
       fancy—whose errors but inimitable whim—whose darkest vice but a
       careless and dashing extravagance?
@@ -571,10 +571,10 @@ What say of it? what say of CONSCIENCE grim,
       introduction of cards should appear accidental, and originate in
       the proposal of my contemplated dupe himself. To be brief upon a
       vile topic, none of the low finesse was omitted, so customary
-      upon similar occasions that it is a just matter for wonder how
+      upon similar occasions that it is a just matter for [[Wonder|wonder]] how
       any are still found so besotted as to fall its victim.
 
-      We had protracted our sitting far into the night, and I had at
+      We had protracted our sitting far into the [[Night|night]], and I had at
       length effected the manoeuvre of getting Glendinning as my sole
       antagonist. The game, too, was my favorite _écarté!_ The rest of
       the company, interested in the extent of our play, had abandoned
@@ -585,13 +585,13 @@ What say of it? what say of CONSCIENCE grim,
       thought, might partially, but could not altogether account. In a
       very short period he had become my debtor to a large amount,
       when, having taken a long draught of port, he did precisely what
-      I had been coolly anticipating—he proposed to double our already
-      extravagant stakes. With a well-feigned show of reluctance, and
+      I had been coolly anticipating—he proposed to [[Double|double]] our already
+      extravagant stakes. With a [[Well|well]]-feigned show of reluctance, and
       not until after my repeated refusal had seduced him into some
       angry words which gave a color of pique to my compliance, did I
       finally comply. The result, of course, did but prove how entirely
       the prey was in my toils: in less than an hour he had quadrupled
-      his debt. For some time his countenance had been losing the
+      his debt. For some [[Time|time]] his countenance had been losing the
       florid tinge lent it by the wine; but now, to my astonishment, I
       perceived that it had grown to a pallor truly fearful. I say to
       my astonishment. Glendinning had been represented to my eager
@@ -604,14 +604,14 @@ What say of it? what say of CONSCIENCE grim,
       than from any less interested motive, I was about to insist,
       peremptorily, upon a discontinuance of the play, when some
       expressions at my elbow from among the company, and an
-      ejaculation evincing utter despair on the part of Glendinning,
+      ejaculation evincing utter [[Despair|despair]] on the part of Glendinning,
       gave me to understand that I had effected his total ruin under
       circumstances which, rendering him an object for the pity of all,
       should have protected him from the ill offices even of a fiend.
 
       What now might have been my conduct it is difficult to say. The
       pitiable condition of my dupe had thrown an air of embarrassed
-      gloom over all; and, for some moments, a profound silence was
+      gloom over all; and, for some moments, a profound [[Silence|silence]] was
       maintained, during which I could not help feeling my cheeks
       tingle with the many burning glances of scorn or reproach cast
       upon me by the less abandoned of the party. I will even own that
@@ -619,7 +619,7 @@ What say of it? what say of CONSCIENCE grim,
       from my bosom by the sudden and extraordinary interruption which
       ensued. The wide, heavy folding doors of the apartment were all
       at once thrown open, to their full extent, with a vigorous and
-      rushing impetuosity that extinguished, as if by magic, every
+      rushing impetuosity that extinguished, as if by [[Magic|magic]], every
       candle in the room. Their light, in dying, enabled us just to
       perceive that a stranger had entered, about my own height, and
       closely muffled in a cloak. The darkness, however, was now total;
@@ -632,8 +632,8 @@ What say of it? what say of CONSCIENCE grim,
       never-to-be-forgotten whisper which thrilled to the very marrow
       of my bones, “Gentlemen, I make no apology for this behaviour,
       because in thus behaving, I am but fulfilling a duty. You are,
-      beyond doubt, uninformed of the true character of the person who
-      has to-night won at _écarté_ a large sum of money from Lord
+      beyond [[Doubt|doubt]], uninformed of the true character of the person who
+      has to-[[Night|night]] won at _écarté_ a large sum of money from Lord
       Glendinning. I will therefore put you upon an expeditious and
       decisive plan of obtaining this very necessary information.
       Please to examine, at your leisure, the inner linings of the cuff
@@ -645,10 +645,10 @@ What say of it? what say of CONSCIENCE grim,
       heard a pin drop upon the floor. In ceasing, he departed at once,
       and as abruptly as he had entered. Can I—shall I describe my
       sensations? Must I say that I felt all the horrors of the damned?
-      Most assuredly I had little time given for reflection. Many hands
+      Most assuredly I had little [[Time|time]] given for reflection. Many hands
       roughly seized me upon the spot, and lights were immediately
       reprocured. A search ensued. In the lining of my sleeve were
-      found all the court cards essential in _écarté_, and, in the
+      found all the [[Court|court]] cards essential in _écarté_, and, in the
       pockets of my wrapper, a number of packs, facsimiles of those
       used at our sittings, with the single exception that mine were of
       the species called, technically, arrondees; the honours being
@@ -670,11 +670,11 @@ What say of it? what say of CONSCIENCE grim,
       putting it off upon reaching the scene of play.) “I presume it is
       supererogatory to seek here (eyeing the folds of the garment with
       a bitter smile) for any farther evidence of your skill. Indeed,
-      we have had enough. You will see the necessity, I hope, of
-      quitting Oxford—at all events, of quitting instantly my
+      we have had enough. You will see the necessity, I [[Hope|hope]], of
+      quitting [[Oxford]]—at all events, of quitting instantly my
       chambers.”
 
-      Abased, humbled to the dust as I then was, it is probable that I
+      Abased, humbled to the [[Dust|dust]] as I then was, it is probable that I
       should have resented this galling language by immediate personal
       violence, had not my whole attention been at the moment arrested
       by a fact of the most startling character. The cloak which I had
@@ -682,11 +682,11 @@ What say of it? what say of CONSCIENCE grim,
       extravagantly costly, I shall not venture to say. Its fashion,
       too, was of my own fantastic invention; for I was fastidious to
       an absurd degree of coxcombry, in matters of this frivolous
-      nature. When, therefore, Mr. Preston reached me that which he had
+      [[Nature|nature]]. When, therefore, Mr. Preston reached me that which he had
       picked up upon the floor, and near the folding doors of the
       apartment, it was with an astonishment nearly bordering upon
       terror, that I perceived my own already hanging on my arm, (where
-      I had no doubt unwittingly placed it,) and that the one presented
+      I had no [[Doubt|doubt]] unwittingly placed it,) and that the one presented
       me was but its exact counterpart in every, in even the minutest
       possible particular. The singular being who had so disastrously
       exposed me, had been muffled, I remembered, in a cloak; and none
@@ -694,17 +694,17 @@ What say of it? what say of CONSCIENCE grim,
       exception of myself. Retaining some presence of mind, I took the
       one offered me by Preston; placed it, unnoticed, over my own;
       left the apartment with a resolute scowl of defiance; and, next
-      morning ere dawn of day, commenced a hurried journey from Oxford
+      morning ere [[Dawn|dawn]] of day, commenced a hurried [[Journey|journey]] from [[Oxford]]
       to the continent, in a perfect agony of horror and of shame.
 
       I fled in vain. My evil destiny pursued me as if in exultation,
       and proved, indeed, that the exercise of its mysterious dominion
-      had as yet only begun. Scarcely had I set foot in Paris ere I had
+      had as yet only begun. Scarcely had I set foot in [[Paris]] ere I had
       fresh evidence of the detestable interest taken by this Wilson in
       my concerns. Years flew, while I experienced no relief.
-      Villain!—at Rome, with how untimely, yet with how spectral an
-      officiousness, stepped he in between me and my ambition! At
-      Vienna, too—at Berlin—and at Moscow! Where, in truth, had I not
+      [[Villain]]!—at Rome, with how untimely, yet with how spectral an
+      officiousness, stepped he in between me and my [[Ambition|ambition]]! At
+      Vienna, too—at Berlin—and at Moscow! Where, in [[Truth|truth]], had I not
       bitter cause to curse him within my heart? From his inscrutable
       tyranny did I at length flee, panic-stricken, as from a
       pestilence; and to the very ends of the earth I fled in vain.
@@ -719,21 +719,21 @@ What say of it? what say of CONSCIENCE grim,
       instances in which he had of late crossed my path, had he so
       crossed it except to frustrate those schemes, or to disturb those
       actions, which, if fully carried out, might have resulted in
-      bitter mischief. Poor justification this, in truth, for an
+      bitter mischief. Poor justification this, in [[Truth|truth]], for an
       authority so imperiously assumed! Poor indemnity for natural
-      rights of self-agency so pertinaciously, so insultingly denied!
+      rights of [[Self|self]]-agency so pertinaciously, so insultingly denied!
 
       I had also been forced to notice that my tormentor, for a very
-      long period of time, (while scrupulously and with miraculous
-      dexterity maintaining his whim of an identity of apparel with
+      long period of [[Time|time]], (while scrupulously and with miraculous
+      dexterity maintaining his whim of an [[Identity|identity]] of apparel with
       myself,) had so contrived it, in the execution of his varied
       interference with my will, that I saw not, at any moment, the
       features of his face. Be Wilson what he might, this, at least,
       was but the veriest of affectation, or of folly. Could he, for an
       instant, have supposed that, in my admonisher at Eton—in the
-      destroyer of my honor at Oxford,—in him who thwarted my ambition
-      at Rome, my revenge at Paris, my passionate love at Naples, or
-      what he falsely termed my avarice in Egypt,—that in this, my
+      destroyer of my honor at [[Oxford]],—in him who thwarted my [[Ambition|ambition]]
+      at Rome, my [[Revenge|revenge]] at [[Paris]], my passionate [[Love|love]] at Naples, or
+      what he falsely termed my avarice in [[Egypt]],—that in this, my
       arch-enemy and evil genius, could fail to recognise the William
       Wilson of my school boy days,—the namesake, the companion, the
       rival,—the hated and dreaded rival at Dr. Bransby’s?
@@ -744,7 +744,7 @@ What say of it? what say of CONSCIENCE grim,
       The sentiment of deep awe with which I habitually regarded the
       elevated character, the majestic wisdom, the apparent
       omnipresence and omnipotence of Wilson, added to a feeling of
-      even terror, with which certain other traits in his nature and
+      even terror, with which certain other traits in his [[Nature|nature]] and
       assumptions inspired me, had operated, hitherto, to impress me
       with an idea of my own utter weakness and helplessness, and to
       suggest an implicit, although bitterly reluctant submission to
@@ -754,7 +754,7 @@ What say of it? what say of CONSCIENCE grim,
       murmur,—to hesitate,—to resist. And was it only fancy which
       induced me to believe that, with the increase of my own firmness,
       that of my tormentor underwent a proportional diminution? Be this
-      as it may, I now began to feel the inspiration of a burning hope,
+      as it may, I now began to feel the inspiration of a burning [[Hope|hope]],
       and at length nurtured in my secret thoughts a stern and
       desperate resolution that I would submit no longer to be
       enslaved.
@@ -763,7 +763,7 @@ What say of it? what say of CONSCIENCE grim,
       masquerade in the palazzo of the Neapolitan Duke Di Broglio. I
       had indulged more freely than usual in the excesses of the
       wine-table; and now the suffocating atmosphere of the crowded
-      rooms irritated me beyond endurance. The difficulty, too, of
+      rooms irritated me beyond [[Endurance|endurance]]. The difficulty, too, of
       forcing my way through the mazes of the company contributed not a
       little to the ruffling of my temper; for I was anxiously seeking,
       (let me not say with what unworthy motive) the young, the gay,
@@ -784,22 +784,22 @@ What say of it? what say of CONSCIENCE grim,
 
       “Scoundrel!” I said, in a voice husky with rage, while every
       syllable I uttered seemed as new fuel to my fury, “scoundrel!
-      impostor! accursed villain! you shall not—you shall not dog me
-      unto death! Follow me, or I stab you where you stand!”—and I
+      impostor! accursed [[Villain|villain]]! you shall not—you shall not dog me
+      unto [[Death|death]]! Follow me, or I stab you where you stand!”—and I
       broke my way from the ball-room into a small ante-chamber
       adjoining, dragging him unresistingly with me as I went.
 
       Upon entering, I thrust him furiously from me. He staggered
       against the wall, while I closed the door with an oath, and
       commanded him to draw. He hesitated but for an instant; then,
-      with a slight sigh, drew in silence, and put himself upon his
+      with a slight sigh, drew in [[Silence|silence]], and put himself upon his
       defence.
 
       The contest was brief indeed. I was frantic with every species of
       wild excitement, and felt within my single arm the energy and
       power of a multitude. In a few seconds I forced him by sheer
-      strength against the wainscoting, and thus, getting him at mercy,
-      plunged my sword, with brute ferocity, repeatedly through and
+      strength against the wainscoting, and thus, getting him at [[Mercy|mercy]],
+      plunged my [[Sword|sword]], with brute ferocity, repeatedly through and
       through his bosom.
 
       At that instant some person tried the latch of the door. I
@@ -809,10 +809,10 @@ What say of it? what say of CONSCIENCE grim,
       spectacle then presented to view? The brief moment in which I
       averted my eyes had been sufficient to produce, apparently, a
       material change in the arrangements at the upper or farther end
-      of the room. A large mirror,—so at first it seemed to me in my
+      of the room. A large [[Mirror|mirror]],—so at first it seemed to me in my
       confusion—now stood where none had been perceptible before; and,
       as I stepped up to it in extremity of terror, mine own image, but
-      with features all pale and dabbled in blood, advanced to meet me
+      with features all pale and dabbled in [[Blood|blood]], advanced to meet me
       with a feeble and tottering gait.
 
       Thus it appeared, I say, but was not. It was my antagonist—it was
@@ -820,12 +820,12 @@ What say of it? what say of CONSCIENCE grim,
       dissolution. His mask and cloak lay, where he had thrown them,
       upon the floor. Not a thread in all his raiment—not a line in all
       the marked and singular lineaments of his face which was not,
-      even in the most absolute identity, mine own!
+      even in the most absolute [[Identity|identity]], mine own!
 
       It was Wilson; but he spoke no longer in a whisper, and I could
       have fancied that I myself was speaking while he said:
 
       _“You have conquered, and I yield. Yet, henceforward art thou
-      also dead—dead to the World, to Heaven and to Hope! In me didst
-      thou exist—and, in my death, see by this image, which is thine
+      also dead—dead to the World, to Heaven and to [[Hope]]! In me didst
+      thou exist—and, in my [[Death|death]], see by this image, which is thine
       own, how utterly thou hast murdered thyself.”_

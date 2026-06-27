@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 10"
+title: "[[thursday]] — Chapter 10"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/thursday-(Chesterton)"
@@ -23,7 +23,7 @@ SYME sat down at a cafe table with his companions, his blue eyes
 sparkling like the bright sea below, and ordered a bottle of Saumur
 with a pleased impatience.  He was for some reason in a condition
 of curious hilarity.  His spirits were already unnaturally high;
-they rose as the Saumur sank, and in half an hour his talk was
+they [[Rose|rose]] as the Saumur sank, and in half an hour his talk was
 a torrent of nonsense.  He professed to be making out a plan
 of the conversation which was going to ensue between himself
 and the deadly Marquis.  He jotted it down wildly with a pencil.
@@ -49,7 +49,7 @@ I like to be just to my enemy."
 "It leads up to my challenge, don't you see," said Syme, beaming.
 "When the Marquis has given the thirty-ninth reply, which runs--"
 
-"Has it by any chance occurred to you," asked the Professor,
+"Has it by any chance occurred to you," asked [[The Professor|the Professor]],
 with a ponderous simplicity, "that the Marquis may not say
 all the forty-three things you have put down for him?
 In that case, I understand, your own epigrams may appear
@@ -66,7 +66,7 @@ You will make a name."
 "It only remains," continued Syme quite unperturbed, "to adopt
 some other method of breaking the ice (if I may so express it)
 between myself and the man I wish to kill.  And since the course
-of a dialogue cannot be predicted by one of its parties alone
+of a dialogue cannot be predicted by one of its parties [[Alone|alone]]
 (as you have pointed out with such recondite acumen),
 the only thing to be done, I suppose, is for the one party,
 as far as possible, to do all the dialogue by himself.
@@ -80,19 +80,19 @@ in Leicester Square, to the tune of which he had once stood up to die.
 He looked across to the little table where the Marquis sat.
 The man had two companions now, solemn Frenchmen in frock-coats
 and silk hats, one of them with the red rosette of the Legion
-of Honour, evidently people of a solid social position.
+of [[Honour]], evidently people of a solid social position.
 Besides these black, cylindrical costumes, the Marquis, in his loose
-straw hat and light spring clothes, looked Bohemian and even barbaric;
+straw hat and light [[spring]] clothes, looked Bohemian and even barbaric;
 but he looked the Marquis.  Indeed, one might say that he looked
-the king, with his animal elegance, his scornful eyes, and his proud
-head lifted against the purple sea.  But he was no Christian king,
+the [[King|king]], with his animal elegance, his scornful eyes, and his proud
+head lifted against the purple sea.  But he was no Christian [[King|king]],
 at any rate; he was, rather, some swarthy despot, half Greek,
-half Asiatic, who in the days when slavery seemed natural looked
+half Asiatic, who in the days when [[Slavery|slavery]] seemed natural looked
 down on the Mediterranean, on his galley and his groaning slaves.
-Just so, Syme thought, would the brown-gold face of such a tyrant
+Just so, Syme thought, would the brown-gold face of such a [[Tyrant|tyrant]]
 have shown against the dark green olives and the burning blue.
 
-"Are you going to address the meeting?" asked the Professor peevishly,
+"Are you going to address the meeting?" asked [[The Professor|the Professor]] peevishly,
 seeing that Syme still stood up without moving.
 
 Syme drained his last glass of sparkling wine.
@@ -124,16 +124,16 @@ by the shoulders.
 
 "Insulted your mother!" exclaimed the gentleman incredulously.
 
-"Well, anyhow," said Syme, conceding a point, "my aunt."
+"[[Well]], anyhow," said Syme, conceding a point, "my aunt."
 
 "But how can the Marquis have insulted your aunt just now?"
-said the second gentleman with some legitimate wonder.
-"He has been sitting here all the time."
+said the second gentleman with some legitimate [[Wonder|wonder]].
+"He has been sitting here all the [[Time|time]]."
 
 "Ah, it was what he said!" said Syme darkly.
 
 "I said nothing at all," said the Marquis, "except something about the band.
-I only said that I liked Wagner played well."
+I only said that I liked Wagner played [[Well|well]]."
 
 "It was an allusion to my family," said Syme firmly.
 "My aunt played Wagner badly.  It was a painful subject.
@@ -149,7 +149,7 @@ was simply packed with sinister allusions to my aunt's weaknesses."
 nothing for half an hour except that I liked the singing of that girl
 with black hair."
 
-"Well, there you are again!" said Syme indignantly.
+"[[Well]], there you are again!" said Syme indignantly.
 "My aunt's was red."
 
 "It seems to me," said the other, "that you are simply seeking
@@ -167,7 +167,7 @@ Let us fight this evening."
 
 Syme bowed with a quite beautiful graciousness.
 
-"Marquis," he said, "your action is worthy of your fame and blood.
+"Marquis," he said, "your action is worthy of your fame and [[Blood|blood]].
 Permit me to consult for a moment with the gentlemen in whose hands
 I shall place myself."
 
@@ -178,26 +178,26 @@ For now that he came back to them he was quite sober, a little pale,
 and he spoke in a low voice of passionate practicality.
 
 "I have done it," he said hoarsely.  "I have fixed a fight on the beast.
-But look here, and listen carefully.  There is no time for talk.
+But look here, and listen carefully.  There is no [[Time|time]] for talk.
 You are my seconds, and everything must come from you.
 Now you must insist, and insist absolutely, on the duel coming off
 after seven to-morrow, so as to give me the chance of preventing him
-from catching the 7.45 for Paris.  If he misses that he misses his crime.
-He can't refuse to meet you on such a small point of time and place.
+from catching the 7.45 for [[Paris]].  If he misses that he misses his crime.
+He can't refuse to meet you on such a small point of [[Time|time]] and place.
 But this is what he will do.  He will choose a field somewhere
 near a wayside station, where he can pick up the train.
 He is a very good swordsman, and he will trust to killing me
-in time to catch it.  But I can fence well too, and I think I
+in [[Time|time]] to catch it.  But I can fence [[Well|well]] too, and I think I
 can keep him in play, at any rate, until the train is lost.
 Then perhaps he may kill me to console his feelings.  You understand?
-Very well then, let me introduce you to some charming friends of mine,"
+Very [[Well|well]] then, let me introduce you to some charming friends of mine,"
 and leading them quickly across the parade, he presented them to
 the Marquis's seconds by two very aristocratic names of which they
 had not previously heard.
 
 Syme was subject to spasms of singular common sense, not otherwise a part
 of his character.  They were (as he said of his impulse about the spectacles)
-poetic intuitions, and they sometimes rose to the exaltation of prophecy.
+poetic intuitions, and they sometimes [[Rose|rose]] to the exaltation of prophecy.
 
 He had correctly calculated in this case the policy of his opponent.
 When the Marquis was informed by his seconds that Syme could only fight
@@ -208,16 +208,16 @@ the course which Syme had predicted.  He induced his seconds to settle
 on a small meadow not far from the railway, and he trusted to the fatality
 of the first engagement.
 
-When he came down very coolly to the field of honour, no one
-could have guessed that he had any anxiety about a journey;
+When he came down very coolly to the field of [[Honour|honour]], no one
+could have guessed that he had any anxiety about a [[Journey|journey]];
 his hands were in his pockets, his straw hat on the back
 of his head, his handsome face brazen in the sun.  But it might
 have struck a stranger as odd that there appeared in his train,
-not only his seconds carrying the sword-case, but two of his
+not only his seconds carrying the [[Sword|sword]]-case, but two of his
 servants carrying a portmanteau and a luncheon basket.
 
 Early as was the hour, the sun soaked everything in warmth,
-and Syme was vaguely surprised to see so many spring flowers
+and Syme was vaguely surprised to see so many [[spring]] [[Flowers|flowers]]
 burning gold and silver in the tall grass in which the whole
 company stood almost knee-deep.
 
@@ -227,7 +227,7 @@ the little Doctor especially, with the addition of his
 black spectacles, looked like an undertaker in a farce.
 Syme could not help feeling a comic contrast between this funereal
 church parade of apparel and the rich and glistening meadow,
-growing wild flowers everywhere.  But, indeed, this comic contrast
+growing wild [[Flowers|flowers]] everywhere.  But, indeed, this comic contrast
 between the yellow blossoms and the black hats was but a symbol of the
 tragic contrast between the yellow blossoms and the black business.
 On his right was a little wood; far away to his left lay
@@ -237,8 +237,8 @@ In front of him, behind the black group of his opponents,
 he could see, like a tinted cloud, a small almond bush in flower
 against the faint line of the sea.
 
-The member of the Legion of Honour, whose name it seemed was Colonel Ducroix,
-approached the Professor and Dr. Bull with great politeness, and suggested
+The member of the Legion of [[Honour]], whose name it seemed was Colonel Ducroix,
+approached [[The Professor|the Professor]] and Dr. Bull with great politeness, and suggested
 that the play should terminate with the first considerable hurt.
 
 Dr. Bull, however, having been carefully coached by Syme upon this
@@ -246,14 +246,14 @@ point of policy, insisted, with great dignity and in very bad French,
 that it should continue until one of the combatants was disabled.
 Syme had made up his mind that he could avoid disabling the Marquis
 and prevent the Marquis from disabling him for at least twenty minutes.
-In twenty minutes the Paris train would have gone by.
+In twenty minutes the [[Paris]] train would have gone by.
 
-"To a man of the well-known skill and valour of Monsieur de
-St. Eustache," said the Professor solemnly, "it must be a matter
+"To a man of the [[Well|well]]-known skill and valour of Monsieur de
+St. Eustache," said [[The Professor|the Professor]] solemnly, "it must be a matter
 of indifference which method is adopted, and our principal
 has strong reasons for demanding the longer encounter,
 reasons the delicacy of which prevent me from being explicit,
-but for the just and honourable nature of which I can--"
+but for the just and honourable [[Nature|nature]] of which I can--"
 
 "Peste!" broke from the Marquis behind, whose face had suddenly darkened,
 "let us stop talking and begin," and he slashed off the head of a tall
@@ -264,7 +264,7 @@ over his shoulder to see whether the train was coming in sight.
 But there was no smoke on the horizon.
 
 Colonel Ducroix knelt down and unlocked the case, taking out a pair of
-twin swords, which took the sunlight and turned to two streaks of white fire.
+twin swords, which took the sunlight and turned to two streaks of white [[Fire|fire]].
 He offered one to the Marquis, who snatched it without ceremony,
 and another to Syme, who took it, bent it, and poised it with as much
 delay as was consistent with dignity.
@@ -273,7 +273,7 @@ Then the Colonel took out another pair of blades, and taking one himself
 and giving another to Dr. Bull, proceeded to place the men.
 
 Both combatants had thrown off their coats and waistcoats,
-and stood sword in hand.  The seconds stood on each side
+and stood [[Sword|sword]] in hand.  The seconds stood on each side
 of the line of fight with drawn swords also, but still sombre
 in their dark frock-coats and hats.  The principals saluted.
 The Colonel said quietly, "Engage!" and the two blades
@@ -281,17 +281,17 @@ touched and tingled.
 
 When the jar of the joined iron ran up Syme's arm,
 all the fantastic fears that have been the subject of this
-story fell from him like dreams from a man waking up in bed.
+story fell from him like [[Dreams|dreams]] from a man waking up in bed.
 He remembered them clearly and in order as mere delusions
-of the nerves--how the fear of the Professor had been the fear
-of the tyrannic accidents of nightmare, and how the fear of
-the Doctor had been the fear of the airless vacuum of science.
-The first was the old fear that any miracle might happen, the second
-the more hopeless modern fear that no miracle can ever happen.
+of the nerves--how the [[Fear|fear]] of [[The Professor|the Professor]] had been the [[Fear|fear]]
+of the tyrannic accidents of [[nightmare]], and how the [[Fear|fear]] of
+the Doctor had been the [[Fear|fear]] of the airless vacuum of science.
+The first was the old [[Fear|fear]] that any miracle might happen, the second
+the more hopeless modern [[Fear|fear]] that no miracle can ever happen.
 But he saw that these fears were fancies, for he found himself
-in the presence of the great fact of the fear of death,
+in the presence of the great fact of the [[Fear|fear]] of [[Death|death]],
 with its coarse and pitiless common sense.  He felt like a
-man who had dreamed all night of falling over precipices,
+man who had dreamed all [[Night|night]] of falling over precipices,
 and had woke up on the morning when he was to be hanged.
 For as soon as he had seen the sunlight run down the channel
 of his foe's foreshortened blade, and as soon as he had felt
@@ -300,51 +300,51 @@ he knew that his enemy was a terrible fighter, and that probably
 his last hour had come.
 
 He felt a strange and vivid value in all the earth around him,
-in the grass under his feet; he felt the love of life in all living things.
+in the grass under his feet; he felt the [[Love|love]] of life in all living things.
 He could almost fancy that he heard the grass growing; he could
-almost fancy that even as he stood fresh flowers were springing
-up and breaking into blossom in the meadow--flowers blood red and
-burning gold and blue, fulfilling the whole pageant of the spring.
+almost fancy that even as he stood fresh [[Flowers|flowers]] were springing
+up and breaking into blossom in the meadow--[[Flowers|flowers]] [[Blood|blood]] red and
+burning gold and blue, fulfilling the whole pageant of the [[spring]].
 And whenever his eyes strayed for a flash from the calm, staring,
 hypnotic eyes of the Marquis, they saw the little tuft of almond tree
 against the sky-line. He had the feeling that if by some miracle
 he escaped he would be ready to sit for ever before that almond tree,
 desiring nothing else in the world.
 
-But while earth and sky and everything had the living beauty
+But while earth and sky and everything had the living [[Beauty|beauty]]
 of a thing lost, the other half of his head was as clear as glass,
 and he was parrying his enemy's point with a kind of clockwork
 skill of which he had hardly supposed himself capable.
 Once his enemy's point ran along his wrist, leaving a slight streak
-of blood, but it either was not noticed or was tacitly ignored.
+of [[Blood|blood]], but it either was not noticed or was tacitly ignored.
 Every now and then he riposted, and once or twice he could
-almost fancy that he felt his point go home, but as there
-was no blood on blade or shirt he supposed he was mistaken.
+almost fancy that he felt his point go [[Home|home]], but as there
+was no [[Blood|blood]] on blade or shirt he supposed he was mistaken.
 Then came an interruption and a change.
 
 At the risk of losing all, the Marquis, interrupting his quiet stare,
 flashed one glance over his shoulder at the line of railway on his right.
 Then he turned on Syme a face transfigured to that of a fiend, and began
 to fight as if with twenty weapons.  The attack came so fast and furious,
-that the one shining sword seemed a shower of shining arrows.
+that the one shining [[Sword|sword]] seemed a shower of shining arrows.
 Syme had no chance to look at the railway; but also he had no need.
-He could guess the reason of the Marquis's sudden madness of battle--
-the Paris train was in sight.
+He could guess the reason of the Marquis's sudden [[Madness|madness]] of battle--
+the [[Paris]] train was in sight.
 
 But the Marquis's morbid energy over-reached itself.
 Twice Syme, parrying, knocked his opponent's point far out
-of the fighting circle; and the third time his riposte was
-so rapid, that there was no doubt about the hit this time.
-Syme's sword actually bent under the weight of the Marquis's body,
+of the fighting circle; and the third [[Time|time]] his riposte was
+so rapid, that there was no [[Doubt|doubt]] about the hit this [[Time|time]].
+Syme's [[Sword|sword]] actually bent under the weight of the Marquis's [[Body|body]],
 which it had pierced.
 
 Syme was as certain that he had stuck his blade into his enemy
 as a gardener that he has stuck his spade into the ground.
 Yet the Marquis sprang back from the stroke without a stagger,
-and Syme stood staring at his own sword-point like an idiot.
-There was no blood on it at all.
+and Syme stood staring at his own [[Sword|sword]]-point like an idiot.
+There was no [[Blood|blood]] on it at all.
 
-There was an instant of rigid silence, and then Syme in his turn
+There was an instant of rigid [[Silence|silence]], and then Syme in his turn
 fell furiously on the other, filled with a flaming curiosity.
 The Marquis was probably, in a general sense, a better fencer
 than he, as he had surmised at the beginning, but at the moment
@@ -353,44 +353,44 @@ He fought wildly and even weakly, and he constantly looked
 away at the railway line, almost as if he feared the train
 more than the pointed steel.  Syme, on the other hand,
 fought fiercely but still carefully, in an intellectual fury,
-eager to solve the riddle of his own bloodless sword.
-For this purpose, he aimed less at the Marquis's body,
+eager to solve the [[Riddle|riddle]] of his own bloodless [[Sword|sword]].
+For this purpose, he aimed less at the Marquis's [[Body|body]],
 and more at his throat and head.  A minute and a half afterwards
 he felt his point enter the man's neck below the jaw.
 It came out clean.  Half mad, he thrust again, and made
 what should have been a bloody scar on the Marquis's cheek.
 But there was no scar.
 
-For one moment the heaven of Syme again grew black with supernatural terrors.
+For one moment the heaven of Syme again grew black with [[Supernatural|supernatural]] terrors.
 Surely the man had a charmed life.  But this new spiritual dread was a more
 awful thing than had been the mere spiritual topsy-turvydom symbolised
-by the paralytic who pursued him.  The Professor was only a goblin;
+by the paralytic who pursued him.  [[The Professor]] was only a goblin;
 this man was a devil--perhaps he was the Devil!  Anyhow, this was certain,
-that three times had a human sword been driven into him and made no mark.
+that three times had a human [[Sword|sword]] been driven into him and made no mark.
 When Syme had that thought he drew himself up, and all that was good
-in him sang high up in the air as a high wind sings in the trees.
+in him sang high up in the air as a high [[Wind|wind]] sings in the trees.
 He thought of all the human things in his story--of the Chinese lanterns
-in Saffron Park, of the girl's red hair in the garden, of the honest,
+in Saffron Park, of the girl's red hair in the [[Garden|garden]], of the honest,
 beer-swilling sailors down by the dock, of his loyal companions standing by.
 Perhaps he had been chosen as a champion of all these fresh
-and kindly things to cross swords with the enemy of all creation.
+and kindly things to [[Cross|cross]] swords with the enemy of all creation.
 "After all," he said to himself, "I am more than a devil; I am a man.
-I can do the one thing which Satan himself cannot do--I can die,"
+I can do the one thing which [[Satan]] himself cannot do--I can die,"
 and as the word went through his head, he heard a faint and far-off hoot,
-which would soon be the roar of the Paris train.
+which would soon be the roar of the [[Paris]] train.
 
-He fell to fighting again with a supernatural levity, like a Mohammedan
+He fell to fighting again with a [[Supernatural|supernatural]] levity, like a Mohammedan
 panting for Paradise.  As the train came nearer and nearer he fancied he could
-see people putting up the floral arches in Paris; he joined in the growing
+see people putting up the floral arches in [[Paris]]; he joined in the growing
 noise and the glory of the great Republic whose gate he was guarding
-against Hell.  His thoughts rose higher and higher with the rising roar
+against Hell.  His thoughts [[Rose|rose]] higher and higher with the rising roar
 of the train, which ended, as if proudly, in a long and piercing whistle.
 The train stopped.
 
 Suddenly, to the astonishment of everyone the Marquis sprang
-back quite out of sword reach and threw down his sword.
+back quite out of [[Sword|sword]] reach and threw down his [[Sword|sword]].
 The leap was wonderful, and not the less wonderful because Syme
-had plunged his sword a moment before into the man's thigh.
+had plunged his [[Sword|sword]] a moment before into the man's thigh.
 
 "Stop!" said the Marquis in a voice that compelled a momentary obedience.
 "I want to say something."
@@ -424,11 +424,11 @@ in exasperation.  "Come, come, Mr. Syme!  You wanted to do it, do it!
 You can have no conception of how important it is to me.
 Don't be so selfish!  Pull my nose at once, when I ask you!"
 and he bent slightly forward with a fascinating smile.
-The Paris train, panting and groaning, had grated into a little
-station behind the neighbouring hill.
+The [[Paris]] train, panting and groaning, had grated into a little
+station behind the neighbouring [[Hill|hill]].
 
 Syme had the feeling he had more than once had in these adventures--
-the sense that a horrible and sublime wave lifted to heaven was just
+the sense that a horrible and [[Sublime|sublime]] wave lifted to heaven was just
 toppling over.  Walking in a world he half understood, he took two
 paces forward and seized the Roman nose of this remarkable nobleman.
 He pulled it hard, and it came off in his hand.
@@ -438,7 +438,7 @@ pasteboard proboscis still between his fingers, looking at it,
 while the sun and the clouds and the wooded hills looked down
 upon this imbecile scene.
 
-The Marquis broke the silence in a loud and cheerful voice.
+The Marquis broke the [[Silence|silence]] in a loud and cheerful voice.
 
 "If anyone has any use for my left eyebrow," he said,
 "he can have it.  Colonel Ducroix, do accept my left eyebrow!
@@ -456,7 +456,7 @@ various parts of himself right and left about the field.
 I tell you the train has come into the station!"
 
 "Yes," said Dr. Bull fiercely, "and the train shall go out of the station.
-It shall go out without you.  We know well enough for what devil's work--"
+It shall go out without you.  We know [[Well|well]] enough for what devil's work--"
 
 The mysterious Marquis lifted his hands with a desperate gesture.
 He was a strange scarecrow standing there in the sun with half his old face
@@ -464,13 +464,13 @@ peeled off, and half another face glaring and grinning from underneath.
 
 "Will you drive me mad?" he cried.  "The train--"
 
-"You shall not go by the train," said Syme firmly, and grasped his sword.
+"You shall not go by the train," said Syme firmly, and grasped his [[Sword|sword]].
 
 The wild figure turned towards Syme, and seemed to be gathering
-itself for a sublime effort before speaking.
+itself for a [[Sublime|sublime]] effort before speaking.
 
 "You great fat, blasted, blear-eyed, blundering, thundering, brainless,
-Godforsaken, doddering, damned fool!" he said without taking breath.
+Godforsaken, doddering, damned [[Fool|fool]]!" he said without taking breath.
 "You great silly, pink-faced, towheaded turnip!  You--"
 
 "You shall not go by this train," repeated Syme.
@@ -478,7 +478,7 @@ Godforsaken, doddering, damned fool!" he said without taking breath.
 "And why the infernal blazes," roared the other, "should I want
 to go by the train?"
 
-"We know all," said the Professor sternly.  "You are going to Paris
+"We know all," said [[The Professor|the Professor]] sternly.  "You are going to [[Paris]]
 to throw a bomb!"
 
 "Going to Jericho to throw a Jabberwock!" cried the other, tearing his hair,
@@ -486,9 +486,9 @@ which came off easily.
 
 "Have you all got softening of the brain, that you don't realise
 what I am?  Did you really think I wanted to catch that train?
-Twenty Paris trains might go by for me.  Damn Paris trains!"
+Twenty [[Paris]] trains might go by for me.  Damn [[Paris]] trains!"
 
-"Then what did you care about?" began the Professor.
+"Then what did you care about?" began [[The Professor|the Professor]].
 
 "What did I care about?  I didn't care about catching the train;
 I cared about whether the train caught me, and now, by God! it
@@ -504,24 +504,24 @@ It may be my literary fancy, but somehow I feel that it ought
 to mean something."
 
 "It means everything," said the other, "and the end of everything.
-Sunday has us now in the hollow of his hand."
+[[Sunday]] has us now in the hollow of his hand."
 
-"Us!" repeated the Professor, as if stupefied.  "What do you mean by 'us'?"
+"Us!" repeated [[The Professor|the Professor]], as if stupefied.  "What do you mean by 'us'?"
 
 "The police, of course!" said the Marquis, and tore off his scalp
 and half his face.
 
-The head which emerged was the blonde, well brushed,
+The head which emerged was the blonde, [[Well|well]] brushed,
 smooth-haired head which is common in the English constabulary,
 but the face was terribly pale.
 
 "I am Inspector Ratcliffe," he said, with a sort of haste
-that verged on harshness.  "My name is pretty well known to
-the police, and I can see well enough that you belong to them.
-But if there is any doubt about my position, I have a card,"
+that verged on harshness.  "My name is pretty [[Well|well]] known to
+the police, and I can see [[Well|well]] enough that you belong to them.
+But if there is any [[Doubt|doubt]] about my position, I have a card,"
 and he began to pull a blue card from his pocket.
 
-The Professor gave a tired gesture.
+[[The Professor]] gave a tired gesture.
 
 "Oh, don't show it us," he said wearily; "we've got enough of them
 to equip a paper-chase."
@@ -535,12 +535,12 @@ the two seconds of the Marquis.
 
 "Gentlemen," he said, "we all owe you a serious apology; but I assure
 you that you have not been made the victims of such a low joke as
-you imagine, or indeed of anything undignified in a man of honour.
-You have not wasted your time; you have helped to save the world.
+you imagine, or indeed of anything undignified in a man of [[Honour|honour]].
+You have not wasted your [[Time|time]]; you have helped to save the world.
 We are not buffoons, but very desperate men at war with a vast conspiracy.
 A secret society of anarchists is hunting us like hares; not such
 unfortunate madmen as may here or there throw a bomb through starvation
-or German philosophy, but a rich and powerful and fanatical church, a church
+or German [[philosophy]], but a rich and powerful and fanatical church, a church
 of eastern pessimism, which holds it holy to destroy mankind like vermin.
 How hard they hunt us you can gather from the fact that we are driven
 to such disguises as those for which I apologise, and to such pranks
@@ -567,9 +567,9 @@ I have fought for France, and it is hard if I can't fight for civilization."
 
 Dr. Bull took off his hat and waved it, cheering as at a public meeting.
 
-"Don't make too much noise," said Inspector Ratcliffe, "Sunday may hear you."
+"Don't make too much noise," said Inspector Ratcliffe, "[[Sunday]] may hear you."
 
-"Sunday!" cried Bull, and dropped his hat.
+"[[Sunday]]!" cried Bull, and dropped his hat.
 
 "Yes," retorted Ratcliffe, "he may be with them."
 
@@ -581,13 +581,13 @@ Dr. Bull took off his hat and waved it, cheering as at a public meeting.
 of fact--But, my God," he cried out suddenly, like a man who sees
 an explosion a long way off, "by God! if this is true the whole bally
 lot of us on the Anarchist Council were against anarchy!  Every born
-man was a detective except the President and his personal secretary.
+man was a [[Detective|detective]] except the President and his personal secretary.
 What can it mean?"
 
 "Mean!" said the new policeman with incredible violence.
-"It means that we are struck dead!  Don't you know Sunday?  Don't you
+"It means that we are struck dead!  Don't you know [[Sunday]]?  Don't you
 know that his jokes are always so big and simple that one has
-never thought of them?  Can you think of anything more like Sunday
+never thought of them?  Can you think of anything more like [[Sunday]]
 than this, that he should put all his powerful enemies on
 the Supreme Council, and then take care that it was not supreme?
 I tell you he has bought every trust, he has captured every cable,
@@ -596,22 +596,22 @@ and he pointed a shaking finger towards the small wayside station.
 "The whole movement was controlled by him; half the world was
 ready to rise for him.  But there were just five people, perhaps,
 who would have resisted him... and the old devil put them on
-the Supreme Council, to waste their time in watching each other.
+the Supreme Council, to waste their [[Time|time]] in watching each other.
 Idiots that we are, he planned the whole of our idiocies!
-Sunday knew that the Professor would chase Syme through London,
+[[Sunday]] knew that [[The Professor|the Professor]] would chase Syme through [[London]],
 and that Syme would fight me in France.  And he was combining
 great masses of capital, and seizing great lines of telegraphy,
 while we five idiots were running after each other like a lot
 of confounded babies playing blind man's buff."
 
-"Well?" asked Syme with a sort of steadiness.
+"[[Well]]?" asked Syme with a sort of steadiness.
 
-"Well," replied the other with sudden serenity, "he has found us playing blind
-man's buff to-day in a field of great rustic beauty and extreme solitude.
+"[[Well]]," replied the other with sudden serenity, "he has found us playing blind
+man's buff to-day in a field of great rustic [[Beauty|beauty]] and extreme [[Solitude|solitude]].
 He has probably captured the world; it only remains to him to capture
 this field and all the fools in it.  And since you really want to know
 what was my objection to the arrival of that train, I will tell you.
-My objection was that Sunday or his Secretary has just this moment got
+My objection was that [[Sunday]] or his Secretary has just this moment got
 out of it."
 
 Syme uttered an involuntary cry, and they all turned their eyes
@@ -630,7 +630,7 @@ highly decorative spectacles."
 He handed the field-glasses to the Doctor, who immediately took
 off his spectacles and put the apparatus to his eyes.
 
-"It cannot be as bad as you say," said the Professor, somewhat shaken.
+"It cannot be as bad as you say," said [[The Professor|the Professor]], somewhat shaken.
 "There are a good number of them certainly, but they may easily
 be ordinary tourists."
 

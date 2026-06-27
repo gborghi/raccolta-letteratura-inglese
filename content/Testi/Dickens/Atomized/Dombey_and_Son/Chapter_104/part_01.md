@@ -20,15 +20,15 @@ The Flight of Florence
 
 In the wildness of her sorrow, shame, and terror, the forlorn girl
 hurried through the sunshine of a bright morning, as if it were the
-darkness of a winter night. Wringing her hands and weeping bitterly,
+darkness of a [[Winter|winter]] [[Night|night]]. Wringing her hands and weeping bitterly,
 insensible to everything but the deep wound in her breast, stunned by
 the loss of all she loved, left like the sole survivor on a lonely
 shore from the wreck of a great vessel, she fled without a thought,
-without a hope, without a purpose, but to fly somewhere anywhere.
+without a [[Hope|hope]], without a purpose, but to fly somewhere anywhere.
 
 The cheerful vista of the long street, burnished by the morning light,
 the sight of the blue sky and airy clouds, the vigorous freshness of
-the day, so flushed and rosy in its conquest of the night, awakened no
+the day, so flushed and rosy in its conquest of the [[Night|night]], awakened no
 responsive feelings in her so hurt bosom. Somewhere, anywhere, to hide
 her head! somewhere, anywhere, for refuge, never more to look upon the
 place from which she fled!
@@ -44,14 +44,14 @@ recalling her in some degree to herself, and reminding her of the
 necessity of greater composure.
 
 Where to go? Still somewhere, anywhere! still going on; but where! She
-thought of the only other time she had been lost in the wild wilderness
-of London—though not lost as now—and went that way. To the home of
+thought of the only other [[Time|time]] she had been lost in the wild wilderness
+of [[London]]—though not lost as now—and went that way. To the [[Home|home]] of
 Walter’s Uncle.
 
 Checking her sobs, and drying her swollen eyes, and endeavouring to
 calm the agitation of her manner, so as to avoid attracting notice,
 Florence, resolving to keep to the more quiet streets as long as she
-could, was going on more quietly herself, when a familiar little shadow
+could, was going on more quietly herself, when a familiar little [[Shadow|shadow]]
 darted past upon the sunny pavement, stopped short, wheeled about, came
 close to her, made off again, bounded round and round her, and
 Diogenes, panting for breath, and yet making the street ring with his
@@ -64,32 +64,32 @@ Florence bent down on the pavement, and laid his rough, old, loving,
 foolish head against her breast, and they got up together, and went on
 together; Di more off the ground than on it, endeavouring to kiss his
 mistress flying, tumbling over and getting up again without the least
-concern, dashing at big dogs in a jocose defiance of his species,
+concern, dashing at big [[dogs]] in a jocose defiance of his species,
 terrifying with touches of his nose young housemaids who were cleaning
 doorsteps, and continually stopping, in the midst of a thousand
-extravagances, to look back at Florence, and bark until all the dogs
-within hearing answered, and all the dogs who could come out, came out
+extravagances, to look back at Florence, and bark until all the [[dogs]]
+within hearing answered, and all the [[dogs]] who could come out, came out
 to stare at him.
 
 With this last adherent, Florence hurried away in the advancing
-morning, and the strengthening sunshine, to the City. The roar soon
+morning, and the strengthening sunshine, to the [[City]]. The roar soon
 grew more loud, the passengers more numerous, the shops more busy,
 until she was carried onward in a stream of life setting that way, and
 flowing, indifferently, past marts and mansions, prisons, churches,
-market-places, wealth, poverty, good, and evil, like the broad river
-side by side with it, awakened from its dreams of rushes, willows, and
-green moss, and rolling on, turbid and troubled, among the works and
+market-places, wealth, [[Poverty|poverty]], good, and evil, like the broad [[River|river]]
+side by side with it, awakened from its [[Dreams|dreams]] of rushes, willows, and
+green moss, and [[rolling]] on, turbid and troubled, among the works and
 cares of men, to the deep sea.
 
 At length the quarters of the little Midshipman arose in view. Nearer
 yet, and the little Midshipman himself was seen upon his post, intent
 as ever on his observations. Nearer yet, and the door stood open,
 inviting her to enter. Florence, who had again quickened her pace, as
-she approached the end of her journey, ran across the road (closely
+she approached the end of her [[Journey|journey]], ran across the [[Road|road]] (closely
 followed by Diogenes, whom the bustle had somewhat confused), ran in,
-and sank upon the threshold of the well-remembered little parlour.
+and sank upon the threshold of the [[Well|well]]-remembered little parlour.
 
-The Captain, in his glazed hat, was standing over the fire, making his
+The Captain, in his glazed hat, was standing over the [[Fire|fire]], making his
 morning’s cocoa, with that elegant trifle, his watch, upon the
 chimney-piece, for easy reference during the progress of the cookery.
 Hearing a footstep and the rustle of a dress, the Captain turned with a
@@ -104,7 +104,7 @@ she had slumbered long ago.
 “It’s Heart’s Delight!” said the Captain, looking intently in her face.
 “It’s the sweet creetur grow’d a woman!”
 
-Captain Cuttle was so respectful of her, and had such a reverence for
+[[Captain Cuttle]] was so respectful of her, and had such a reverence for
 her, in this new character, that he would not have held her in his
 arms, while she was unconscious, for a thousand pounds.
 
@@ -119,13 +119,13 @@ Wal”r drownded in the briny deep, turn to, and histe up something or
 another, if able!”
 
 Finding her insensible to this impressive adjuration also, Captain
-Cuttle snatched from his breakfast-table a basin of cold water, and
+Cuttle snatched from his breakfast-table a basin of cold [[Water|water]], and
 sprinkled some upon her face. Yielding to the urgency of the case, the
 Captain then, using his immense hand with extraordinary gentleness,
 relieved her of her bonnet, moistened her lips and forehead, put back
 her hair, covered her feet with his own coat which he pulled off for
 the purpose, patted her hand—so small in his, that he was struck with
-wonder when he touched it—and seeing that her eyelids quivered, and
+[[Wonder|wonder]] when he touched it—and seeing that her eyelids quivered, and
 that her lips began to move, continued these restorative applications
 with a better heart.
 

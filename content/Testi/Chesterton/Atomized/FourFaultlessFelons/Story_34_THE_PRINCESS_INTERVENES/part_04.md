@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE PRINCESS INTERVENES (part 4)"
+title: "[[FourFaultlessFelons]] — THE PRINCESS INTERVENES (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -32,7 +32,7 @@ and--"
 
 firmly. "I have every intention of sticking to the footman, too, and
 
-preventing any fool from letting him go. Don't you see he is just the
+preventing any [[Fool|fool]] from letting him go. Don't you see he is just the
 
 sort of thing I mean? All the nonsense they talk against patriotism and
 
@@ -42,7 +42,7 @@ servant of any rascally adventurer. He is put into a livery to be loyal
 
 to a conspirator, because we were afraid to put him into a uniform and
 
-ask him to be loyal to a king."
+ask him to be loyal to a [[King|king]]."
 
 
 
@@ -56,13 +56,13 @@ Royal Highness's view. But I'm afraid it's too late to do that now."
 
 the real point to a man like that? Have you ever asked him what he feels
 
-about his loyalties and his country and the king he heard about when he
+about his loyalties and his country and the [[King|king]] he heard about when he
 
-was a child? Not you; you've just badgered him like a barrister about
+was a [[Child|child]]? Not you; you've just badgered him like a barrister about
 
-details of time and place that no healthy human being ever remembers, and
+details of [[Time|time]] and place that no healthy human being ever remembers, and
 
-he's reduced to looking like the village idiot, and I don't wonder. I
+he's reduced to looking like the village idiot, and I don't [[Wonder|wonder]]. I
 
 should like to talk to him myself."
 
@@ -88,13 +88,13 @@ experiment in social science, it might be very interesting to try these
 
 theories upon him, but he is only a sample of the social material all
 
-round. Meanwhile, we should surely lose no time in concentrating on the
+round. Meanwhile, we should surely lose no [[Time|time]] in concentrating on the
 
 really great and dangerous public characters whom we are pursuing. The
 
 Professor is a man of world-wide reputation; the General is a military
 
-hero at the head of armies, and really to stand quarrelling over the
+[[Hero|hero]] at the head of armies, and really to stand quarrelling over the
 
 ignorance of a chance lackey--"
 
@@ -104,7 +104,7 @@ As he spoke he found himself wavering between the door and the advancing
 
 Princess, and in his throat also the words seemed to dry up. For both men
 
-had suddenly seen the face of something that is intolerant and innocent
+had suddenly seen the face of something that is intolerant and [[Innocent|innocent]]
 
 and not altogether of this world; the completeness of that conviction in
 
@@ -114,4 +114,4 @@ fell back before her as the great princess demanded audience with a
 
 flunkey, as if there were something in her of that great peasant girl
 
-from Domremy when she demanded audience of a King.
+from Domremy when she demanded audience of a [[King]].

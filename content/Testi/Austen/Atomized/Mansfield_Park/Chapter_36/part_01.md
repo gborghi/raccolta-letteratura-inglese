@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 36 (part 1)"
+title: "[[Mansfield Park]] — Chapter 36 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,12 +17,12 @@ tags:
 CHAPTER XXXVI
 
 
-Edmund now believed himself perfectly acquainted with all that Fanny
+[[Edmund]] now believed himself perfectly acquainted with all that Fanny
 could tell, or could leave to be conjectured of her sentiments, and he
 was satisfied. It had been, as he before presumed, too hasty a measure
-on Crawford’s side, and time must be given to make the idea first
+on Crawford’s side, and [[Time|time]] must be given to make the idea first
 familiar, and then agreeable to her. She must be used to the
-consideration of his being in love with her, and then a return of
+consideration of his being in [[Love|love]] with her, and then a return of
 affection might not be very distant.
 
 He gave this opinion as the result of the conversation to his father;
@@ -30,17 +30,17 @@ and recommended there being nothing more said to her: no farther
 attempts to influence or persuade; but that everything should be left
 to Crawford’s assiduities, and the natural workings of her own mind.
 
-Sir Thomas promised that it should be so. Edmund’s account of Fanny’s
+Sir Thomas promised that it should be so. [[Edmund]]’s account of Fanny’s
 disposition he could believe to be just; he supposed she had all those
 feelings, but he must consider it as very unfortunate that she _had_;
 for, less willing than his son to trust to the future, he could not
-help fearing that if such very long allowances of time and habit were
+help fearing that if such very long allowances of [[Time|time]] and habit were
 necessary for her, she might not have persuaded herself into receiving
 his addresses properly before the young man’s inclination for paying
 them were over. There was nothing to be done, however, but to submit
-quietly and hope the best.
+quietly and [[Hope|hope]] the best.
 
-The promised visit from “her friend,” as Edmund called Miss Crawford,
+The promised visit from “her friend,” as [[Edmund]] called Miss Crawford,
 was a formidable threat to Fanny, and she lived in continual terror of
 it. As a sister, so partial and so angry, and so little scrupulous of
 what she said, and in another light so triumphant and secure, she was
@@ -48,17 +48,17 @@ in every way an object of painful alarm. Her displeasure, her
 penetration, and her happiness were all fearful to encounter; and the
 dependence of having others present when they met was Fanny’s only
 support in looking forward to it. She absented herself as little as
-possible from Lady Bertram, kept away from the East room, and took no
+possible from Lady [[Bertram]], kept away from the East room, and took no
 solitary walk in the shrubbery, in her caution to avoid any sudden
 attack.
 
 She succeeded. She was safe in the breakfast-room, with her aunt, when
 Miss Crawford did come; and the first misery over, and Miss Crawford
 looking and speaking with much less particularity of expression than
-she had anticipated, Fanny began to hope there would be nothing worse
+she had anticipated, Fanny began to [[Hope|hope]] there would be nothing worse
 to be endured than a half-hour of moderate agitation. But here she
 hoped too much; Miss Crawford was not the slave of opportunity. She was
-determined to see Fanny alone, and therefore said to her tolerably
+determined to see Fanny [[Alone|alone]], and therefore said to her tolerably
 soon, in a low voice, “I must speak to you for a few minutes
 somewhere”; words that Fanny felt all over her, in all her pulses and
 all her nerves. Denial was impossible. Her habits of ready submission,
@@ -90,14 +90,14 @@ were, just in this part of the room: here was your cousin, here was I,
 here were the chairs. Oh! why will such things ever pass away?”
 
 Happily for her companion, she wanted no answer. Her mind was entirely
-self-engrossed. She was in a reverie of sweet remembrances.
+[[Self|self]]-engrossed. She was in a reverie of sweet remembrances.
 
 “The scene we were rehearsing was so very remarkable! The subject of it
 so very—very—what shall I say? He was to be describing and recommending
 matrimony to me. I think I see him now, trying to be as demure and
 composed as Anhalt ought, through the two long speeches. ‘When two
-sympathetic hearts meet in the marriage state, matrimony may be called
-a happy life.’ I suppose no time can ever wear out the impression I
+sympathetic hearts meet in the [[Marriage|marriage]] state, matrimony may be called
+a happy life.’ I suppose no [[Time|time]] can ever wear out the impression I
 have of his looks and voice as he said those words. It was curious,
 very curious, that we should have such a scene to play! If I had the
 power of recalling any one week of my existence, it should be that
@@ -109,7 +109,7 @@ unwelcome uncle. Poor Sir Thomas, who was glad to see you? Yet, Fanny,
 do not imagine I would now speak disrespectfully of Sir Thomas, though
 I certainly did hate him for many a week. No, I do him justice now. He
 is just what the head of such a family should be. Nay, in sober
-sadness, I believe I now love you all.” And having said so, with a
+sadness, I believe I now [[Love|love]] you all.” And having said so, with a
 degree of tenderness and consciousness which Fanny had never seen in
 her before, and now thought only too becoming, she turned away for a
 moment to recover herself. “I have had a little fit since I came into
@@ -118,5 +118,5 @@ smile, “but it is over now; so let us sit down and be comfortable; for
 as to scolding you, Fanny, which I came fully intending to do, I have
 not the heart for it when it comes to the point.” And embracing her
 very affectionately, “Good, gentle Fanny! when I think of this being
-the last time of seeing you for I do not know how long, I feel it quite
-impossible to do anything but love you.”
+the last [[Time|time]] of seeing you for I do not know how long, I feel it quite
+impossible to do anything but [[Love|love]] you.”

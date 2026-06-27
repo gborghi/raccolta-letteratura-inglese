@@ -42,8 +42,8 @@ as much claim as man to this or that legal or social privilege:
 which was very arguable, and about which, in any case, I am not now going
 to argue.  They did definitely declare that the wickedness and misery
 of the world were clearly due to the fact that it had been managed
-by males.  If the wasp came in at the window and stung somebody,
-this was due to the fact that it was a Man-Made window, if not
+by males.  If the wasp came in at the [[Window|window]] and stung somebody,
+this was due to the fact that it was a Man-Made [[Window|window]], if not
 actually a Man-Made wasp.  If Woman had been in control of the world,
 there would have been no wasps; or all the wasps would have been trained
 in such tact and social discipline that they never stung anybody.
@@ -51,7 +51,7 @@ If the poor were underpaid or overworked, it was solely because men
 and not women had the paying of them, though some of us had known women
 who were hard on their subordinates, almost in the manner of men.
 If nations went to war, it was because women had not votes to stop them,
-though some of us knew women who waved flags and shouted war-songs
+though some of us knew women who waved flags and shouted war-[[songs]]
 and were far more passionately patriotic than the males whom they sent
 to war.  Whatever evil there was on the earth, it was due to the fact
 that humanity, for reasons best known to itself, had given all power
@@ -70,34 +70,34 @@ rests on three assumptions which, as is usual in these cases,
 are not only accepted, but accepted unconsciously.
 The speakers not only assume them without proving them,
 but assume them without knowing they are assuming them.
-The first is this:  That terrible and desolating tragedy is
-so abnormal in human life, and so utterly out of the nature
+The first is this:  That terrible and desolating [[Tragedy|tragedy]] is
+so abnormal in human life, and so utterly out of the [[Nature|nature]]
 of things, that it can only be attributed to the staggering and
 scandalous stupidity of some special individual or individuals.
 Without going off into an argument about human life, we may
 note that there is at least an element which is here ignored
-for the first time in history; for that tragic character
+for the first [[Time|time]] in [[history]]; for that tragic character
 of living was a commonplace to all the sages and the poets.
 To put it shortly, if it is terrible that two million men
 should die together in a campaign, it is also terrible that
 all men without exception must die separately somewhere.
-It is not self-evident that the tragic phase of life only follows
-on exceptional folly, and the fallacy was noted some time ago
+It is not [[Self|self]]-evident that the tragic phase of life only follows
+on exceptional folly, and the fallacy was noted some [[Time|time]] ago
 by the Tower of Siloam and the Ash-heap of Job.
 
-The second assumption is this:  That a tragedy like the Great War
+The second assumption is this:  That a [[Tragedy|tragedy]] like the Great War
 must have been not only a blunder, but a blunder made by everybody
 at the same moment.  It must have been a blind collision in the dark,
 and therefore can only have been due to mere negligence in all
 those in control.  Now you may or may not agree that there was
 an aggressor in the quarrel, but it is nonsense to assume it as
-self-evident that there was not, or talk as if there could not be.
+[[Self|self]]-evident that there was not, or talk as if there could not be.
 If there was, the affair would not be a result of negligence,
 but emphatically a result of vigilance.  We may say it was a wicked
 vigilance on the part of the aggressor; but, by the same stroke,
 we are forced to admit that it was therefore a just and honourable
-vigilance on the part of the defenders.  Anyhow, the whole nightmare
-of mere negligence has disappeared as a necessity of logic; it has
+vigilance on the part of the defenders.  Anyhow, the whole [[nightmare]]
+of mere negligence has disappeared as a necessity of [[logic]]; it has
 disappeared because it was not a necessity but a mere assumption.
 
 Thirdly (though this point is less easy to limit and define properly):
@@ -107,19 +107,19 @@ for the sake of creating or preserving some cultural system associated
 with all that makes life worth living.  A man might admit that his efforts
 to avert catastrophe might fail, that the catastrophe might follow,
 and still maintain his course, being resolved at least to avoid
-the worst catastrophe of the loss of the main hope of humanity.
-Certainly every reform or reconstruction in human history has
+the worst catastrophe of the loss of the main [[Hope|hope]] of humanity.
+Certainly every [[Reform|reform]] or reconstruction in human [[history]] has
 been followed by calamities, if wars are the chief calamities.
 The democratic ideal of Athens involved it in a welter of wars;
 the universal civilization of Rome was spread by a long routine of wars;
 every national culture owes something to the national wars.
-If you accept the French Revolution, it covered Europe with
-the Napoleonic Wars.  If you accept the Protestant Reformation,
+If you accept the [[French Revolution]], it covered Europe with
+the Napoleonic Wars.  If you accept the Protestant [[Reformation]],
 it devastated the Germanies with the longest and weariest of all wars.
 If you accept the Russian Revolution, it has already produced
 endless internal wars, one external war, and the end is not yet.
 I am not expressing admiration for war, nor, for that matter,
-for the Russian Revolution or the Reformation.  I am only saying
+for the Russian Revolution or the [[Reformation]].  I am only saying
 that nobody has a right to assume at the start that no statesman
 has any right to risk war, for the sake of ideals that change
 or preserve civilization.  In short, there was nothing grotesquely
@@ -132,7 +132,7 @@ I think this worth mentioning now, for a simple reason.
 We are already drifting horribly near to a New War,
 which will probably start on the Polish Border.  The Young Men
 have had nineteen years in which to learn how to avoid it.
-I wonder whether they do know much more about how to avoid
+I [[Wonder|wonder]] whether they do know much more about how to avoid
 it than the despised and drivelling Old Men of 1914.
 How many of the Young Men, for instance, have made the smallest
 attempt to understand Poland?  How many would have anything

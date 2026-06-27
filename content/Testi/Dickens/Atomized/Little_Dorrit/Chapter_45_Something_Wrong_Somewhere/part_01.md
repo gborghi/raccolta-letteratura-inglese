@@ -17,19 +17,19 @@ tags:
 CHAPTER 5. Something Wrong Somewhere
 
 
-The family had been a month or two at Venice, when Mr Dorrit, who was
+The family had been a month or two at [[Venice]], when Mr Dorrit, who was
 much among Counts and Marquises, and had but scant leisure, set an hour
 of one day apart, beforehand, for the purpose of holding some conference
 with Mrs General.
 
-The time he had reserved in his mind arriving, he sent Mr Tinkler, his
+The [[Time|time]] he had reserved in his mind arriving, he sent Mr Tinkler, his
 valet, to Mrs General’s apartment (which would have absorbed about a
 third of the area of the Marshalsea), to present his compliments to that
 lady, and represent him as desiring the favour of an interview. It being
 that period of the forenoon when the various members of the family had
 coffee in their own chambers, some couple of hours before assembling at
 breakfast in a faded hall which had once been sumptuous, but was now
-the prey of watery vapours and a settled melancholy, Mrs General was
+the prey of watery vapours and a settled [[Melancholy|melancholy]], Mrs General was
 accessible to the valet. That envoy found her on a little square of
 carpet, so extremely diminutive in reference to the size of her stone
 and marble floor that she looked as if she might have had it spread for
@@ -48,16 +48,16 @@ staircases and corridors, from Mrs General’s apartment,--hoodwinked by
 a narrow side street with a low gloomy bridge in it, and dungeon-like
 opposite tenements, their walls besmeared with a thousand downward
 stains and streaks, as if every crazy aperture in them had been weeping
-tears of rust into the Adriatic for centuries--to Mr Dorrit’s apartment:
-with a whole English house-front of window, a prospect of beautiful
-church-domes rising into the blue sky sheer out of the water which
+[[Tears|tears]] of rust into the Adriatic for centuries--to Mr Dorrit’s apartment:
+with a whole English [[house]]-front of [[Window|window]], a prospect of beautiful
+church-domes rising into the blue sky sheer out of the [[Water|water]] which
 reflected them, and a hushed murmur of the Grand Canal laving the
 doorways below, where his gondolas and gondoliers attended his pleasure,
 drowsily swinging in a little forest of piles.
 
 Mr Dorrit, in a resplendent dressing-gown and cap--the dormant grub that
-had so long bided its time among the Collegians had burst into a rare
-butterfly--rose to receive Mrs General. A chair to Mrs General. An
+had so long bided its [[Time|time]] among the Collegians had burst into a rare
+butterfly--[[Rose|rose]] to receive Mrs General. A chair to Mrs General. An
 easier chair, sir; what are you doing, what are you about, what do you
 mean? Now, leave us!
 
@@ -80,13 +80,13 @@ great difference.’
 deference not incompatible with majestic serenity.
 
 ‘Fanny,’ returned Mrs General, ‘has force of character and
-self-reliance. Amy, none.’
+[[Self-Reliance|self-reliance]]. Amy, none.’
 
 None? O Mrs General, ask the Marshalsea stones and bars. O Mrs General,
 ask the milliner who taught her to work, and the dancing-master who
-taught her sister to dance. O Mrs General, Mrs General, ask me, her
+taught her sister to [[Dance|dance]]. O Mrs General, Mrs General, ask me, her
 father, what I owe her; and hear my testimony touching the life of this
-slighted little creature from her childhood up!
+slighted little creature from her [[Childhood|childhood]] up!
 
 No such adjuration entered Mr. Dorrit’s head. He looked at Mrs
 General, seated in her usual erect attitude on her coach-box behind the

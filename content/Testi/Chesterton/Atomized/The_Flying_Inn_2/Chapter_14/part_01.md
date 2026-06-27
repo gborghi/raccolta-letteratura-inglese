@@ -24,9 +24,9 @@ is doubtful if anyone will ever know.  But she was full
 of the pungent feminine instinct to "drive at practice,"
 and what she did clearly realise was the pencil writing
 Dalroy had left on the back of Lord Ivywood's _menu_.
-Heaven alone knew what it was, and (as it pleased
+Heaven [[Alone|alone]] knew what it was, and (as it pleased
 her profane temper to tell herself) she was not
-satisfied with Heaven alone knowing.  She went swiftly
+satisfied with Heaven [[Alone|alone]] knowing.  She went swiftly
 back, with swishing skirts, to the table where it had
 been left.  But her skirts fell more softly and her feet
 trailed slower and more in her usual manner as she
@@ -41,14 +41,14 @@ sympathetic way.
 it's really too hot for anything.  Dr. Gluck is making
 an uncommonly good speech, but I couldn't stop even
 for that.  Don't you think my eastern decorations are
-rather a success after all?  A sort of Vegetarianism
+rather a [[success]] after all?  A sort of Vegetarianism
 in design, isn't it?"
 
 He led her up and down the corridors, pointing out
 lemon-coloured crescents or crimson pomegranates in
 the scheme of ornament, with such utter detachment
 that they twice passed the open mouth of the hall of
-debate, and Joan could distinctly hear the voice of
+[[debate]], and Joan could distinctly hear the voice of
 the diplomatic Gluck saying:
 
 "Indeed, we owe our knowledge of the pollution of
@@ -62,9 +62,9 @@ jutht that touch of refinement, jutht that intellectual
 thuperiority which--."
 
 And then the voice would die away behind, as Lord
-Ivywood lectured luxuriantly, and very well, on the
+Ivywood lectured luxuriantly, and very [[Well|well]], on the
 peacock tail in decoration, or some more extravagant
-eastern version of the Greek Key.  But the third time
+eastern version of the Greek Key.  But the third [[Time|time]]
 they turned, they heard the noise of subdued applause
 and the breaking up the meeting; and people came
 pouring forth.
@@ -81,11 +81,11 @@ immediate matters.  And if there were anyone else--."
 
 If Philip, Lord Ivywood, had ever looked at a
 human being in his life, he would have seen that J.
-Leveson, Secretary, was suffering from a very ancient
+Leveson, Secretary, was [[Suffering|suffering]] from a very ancient
 human malady, excusable in all men and rather more
 excusable in one who has had his top-hat smashed over
 his eyes and has run for his life.  As it was, he saw
-nothing, but merely said, "Oh, well, get someone else.
+nothing, but merely said, "Oh, [[Well|well]], get someone else.
 What about your friend Hibbs?"
 
 Leveson ran across to Hibbs, who was drinking
@@ -105,7 +105,7 @@ Lord Ivywood doesn't want to alarm the ladies
 and perhaps turn the laugh against himself, by getting
 up a sort of police raid about nothing.  He wants some
 sensible, tactful friend of his to go down and look
-round the place--it's a sort of disused garden--and
+round the place--it's a sort of disused [[Garden|garden]]--and
 report if there's anyone about.  I'd go myself, but
 I'm wanted here."
 
@@ -116,10 +116,10 @@ Hibbs nodded, and filled another glass.
 dangerous man,' were his lordship's words; and it
 looks as if he'd spotted a very good hiding-place, a
 disused tunnel leading to the sands, just beyond the
-disused garden and chapel.  It's a smart choice, you
+disused [[Garden|garden]] and chapel.  It's a smart choice, you
 see, for he can bolt into the woods if anyone comes
 from the shore, or on to the shore if anyone comes
-from the woods.  But it would take a good time even
+from the woods.  But it would take a good [[Time|time]] even
 to get the police here, and it would take ten times
 longer to get 'em round to the sea end of the tunnel,
 especially as the sea comes up to the cliffs once or
@@ -139,10 +139,10 @@ Hibbs took a glass or two more of wine; feeling
 that he was going on a great diplomatic mission to
 please a lord.  Then he went through the opening,
 picked his way down the stair, and somehow found his
-way out into the neglected garden and shrubbery.
+way out into the neglected [[Garden|garden]] and shrubbery.
 
-It was already evening, and an early moon was
-brightening over the sunken chapel with its dragon-coloured scales of fungus.  The night breeze was very
+It was already evening, and an early [[Moon|moon]] was
+brightening over the sunken chapel with its dragon-coloured scales of fungus.  The [[Night|night]] breeze was very
 fresh and had a marked effect on Mr. Hibbs.  He
 found himself taking a meaningless pleasure in the
 scene; especially in one fungus that was white with

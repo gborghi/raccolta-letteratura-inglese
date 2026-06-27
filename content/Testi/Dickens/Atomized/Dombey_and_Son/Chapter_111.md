@@ -18,22 +18,22 @@ CHAPTER LV.
 Rob the Grinder loses his Place
 
 
-The Porter at the iron gate which shut the court-yard from the street,
-had left the little wicket of his house open, and was gone away; no
-doubt to mingle in the distant noise at the door of the great
+The Porter at the iron gate which shut the [[Court|court]]-yard from the street,
+had left the little wicket of his [[house]] open, and was gone away; no
+[[Doubt|doubt]] to mingle in the distant noise at the door of the great
 staircase. Lifting the latch softly, Carker crept out, and shutting the
 jangling gate after him with as little noise as possible, hurried off.
 
 In the fever of his mortification and unavailing rage, the panic that
-had seized upon him mastered him completely. It rose to such a height
+had seized upon him mastered him completely. It [[Rose|rose]] to such a height
 that he would have blindly encountered almost any risk, rather than
 meet the man of whom, two hours ago, he had been utterly regardless.
 His fierce arrival, which he had never expected; the sound of his
 voice; their having been so near a meeting, face to face; he would have
 braved out this, after the first momentary shock of alarm, and would
-have put as bold a front upon his guilt as any villain. But the
+have put as bold a front upon his [[Guilt|guilt]] as any [[Villain|villain]]. But the
 springing of his mine upon himself, seemed to have rent and shivered
-all his hardihood and self-reliance. Spurned like any reptile;
+all his hardihood and [[Self-Reliance|self-reliance]]. Spurned like any reptile;
 entrapped and mocked; turned upon, and trodden down by the proud woman
 whose mind he had slowly poisoned, as he thought, until she had sunk
 into the mere creature of his pleasure; undeceived in his deceit, and
@@ -44,57 +44,57 @@ Some other terror came upon him quite removed from this of being
 pursued, suddenly, like an electric shock, as he was creeping through
 the streets Some visionary terror, unintelligible and inexplicable,
 associated with a trembling of the ground,—a rush and sweep of
-something through the air, like Death upon the wing. He shrunk, as if
+something through the air, like [[Death]] upon the wing. He shrunk, as if
 to let the thing go by. It was not gone, it never had been there, yet
 what a startling horror it had left behind.
 
-He raised his wicked face so full of trouble, to the night sky, where
-the stars, so full of peace, were shining on him as they had been when
+He raised his wicked face so full of trouble, to the [[Night|night]] sky, where
+the [[Stars|stars]], so full of peace, were shining on him as they had been when
 he first stole out into the air; and stopped to think what he should
 do. The dread of being hunted in a strange remote place, where the laws
 might not protect him—the novelty of the feeling that it was strange
-and remote, originating in his being left alone so suddenly amid the
-ruins of his plans—his greater dread of seeking refuge now, in Italy or
+and remote, originating in his being left [[Alone|alone]] so suddenly amid the
+ruins of his plans—his greater dread of seeking refuge now, in [[Italy]] or
 in Sicily, where men might be hired to assassinate him, he thought, at
-any dark street corner—the waywardness of guilt and fear—perhaps some
+any dark street corner—the waywardness of [[Guilt|guilt]] and [[Fear|fear]]—perhaps some
 sympathy of action with the turning back of all his schemes—impelled
 him to turn back too, and go to England.
 
 “I am safer there, in any case. If I should not decide,” he thought,
-“to give this fool a meeting, I am less likely to be traced there, than
+“to give this [[Fool|fool]] a meeting, I am less likely to be traced there, than
 abroad here, now. And if I should (this cursed fit being over), at
-least I shall not be alone, without a soul to speak to, or advise with,
+least I shall not be [[Alone|alone]], without a [[Soul|soul]] to speak to, or advise with,
 or stand by me. I shall not be run in upon and worried like a rat.”
 
 He muttered Edith’s name, and clenched his hand. As he crept along, in
-the shadow of the massive buildings, he set his teeth, and muttered
+the [[Shadow|shadow]] of the massive buildings, he set his teeth, and muttered
 dreadful imprecations on her head, and looked from side to side, as if
 in search of her. Thus, he stole on to the gate of an inn-yard. The
 people were a-bed; but his ringing at the bell soon produced a man with
-a lantern, in company with whom he was presently in a dim coach-house,
-bargaining for the hire of an old phaeton, to Paris.
+a lantern, in company with whom he was presently in a dim coach-[[house]],
+bargaining for the hire of an old phaeton, to [[Paris]].
 
 The bargain was a short one; and the horses were soon sent for. Leaving
 word that the carriage was to follow him when they came, he stole away
-again, beyond the town, past the old ramparts, out on the open road,
+again, beyond the town, past the old ramparts, out on the open [[Road|road]],
 which seemed to glide away along the dark plain, like a stream.
 
 Whither did it flow? What was the end of it? As he paused, with some
 such suggestion within him, looking over the gloomy flat where the
-slender trees marked out the way, again that flight of Death came
+slender trees marked out the way, again that flight of [[Death]] came
 rushing up, again went on, impetuous and resistless, again was nothing
 but a horror in his mind, dark as the scene and undefined as its
 remotest verge.
 
-There was no wind; there was no passing shadow on the deep shade of the
-night; there was no noise. The city lay behind him, lighted here and
+There was no [[Wind|wind]]; there was no passing [[Shadow|shadow]] on the deep shade of the
+[[Night|night]]; there was no noise. The [[City|city]] lay behind him, lighted here and
 there, and starry worlds were hidden by the masonry of spire and roof
 that hardly made out any shapes against the sky. Dark and lonely
 distance lay around him everywhere, and the clocks were faintly
 striking two.
 
-He went forward for what appeared a long time, and a long way; often
-stopping to listen. At last the ringing of horses’ bells greeted his
+He went forward for what appeared a long [[Time|time]], and a long way; often
+stopping to listen. At last the ringing of horses’ [[Bells|bells]] greeted his
 anxious ears. Now softer, and now louder, now inaudible, now ringing
 very slowly over bad ground, now brisk and merry, it came on; until
 with a loud shouting and lashing, a shadowy postillion muffled to the
@@ -107,7 +107,7 @@ eyes, checked his four struggling horses at his side.
 “Monsieur has walked a long way in the dark midnight.”
 
 “No matter. Everyone to his task. Were there any other horses ordered
-at the Post-house?”
+at the Post-[[house]]?”
 
 “A thousand devils!—and pardons! other horses? at this hour? No.”
 
@@ -116,45 +116,45 @@ travel! The faster, the more money there will be to drink. Off we go
 then! Quick!”
 
 “Halloa! whoop! Halloa! Hi!” Away, at a gallop, over the black
-landscape, scattering the dust and dirt like spray!
+landscape, scattering the [[Dust|dust]] and dirt like spray!
 
 The clatter and commotion echoed to the hurry and discordance of the
 fugitive’s ideas. Nothing clear without, and nothing clear within.
 Objects flitting past, merging into one another, dimly descried,
 confusedly lost sight of, gone! Beyond the changing scraps of fence and
-cottage immediately upon the road, a lowering waste. Beyond the
-shifting images that rose up in his mind and vanished as they showed
+cottage immediately upon the [[Road|road]], a lowering waste. Beyond the
+shifting images that [[Rose|rose]] up in his mind and vanished as they showed
 themselves, a black expanse of dread and rage and baffled villainy.
 Occasionally, a sigh of mountain air came from the distant Jura, fading
 along the plain. Sometimes that rush which was so furious and horrible,
 again came sweeping through his fancy, passed away, and left a chill
-upon his blood.
+upon his [[Blood|blood]].
 
 The lamps, gleaming on the medley of horses’ heads, jumbled with the
 shadowy driver, and the fluttering of his cloak, made a thousand
 indistinct shapes, answering to his thoughts. Shadows of familiar
 people, stooping at their desks and books, in their remembered
 attitudes; strange apparitions of the man whom he was flying from, or
-of Edith; repetitions in the ringing bells and rolling wheels, of words
-that had been spoken; confusions of time and place, making last night a
-month ago, a month ago last night—home now distant beyond hope, now
+of Edith; repetitions in the ringing [[Bells|bells]] and [[rolling]] wheels, of words
+that had been spoken; confusions of [[Time|time]] and place, making last [[Night|night]] a
+month ago, a month ago last [[Night|night]]—[[Home|home]] now distant beyond [[Hope|hope]], now
 instantly accessible; commotion, discord, hurry, darkness, and
 confusion in his mind, and all around him.—Hallo! Hi! away at a gallop
-over the black landscape; dust and dirt flying like spray, the smoking
+over the black landscape; [[Dust|dust]] and dirt flying like spray, the smoking
 horses snorting and plunging as if each of them were ridden by a demon,
-away in a frantic triumph on the dark road—whither?
+away in a frantic triumph on the dark [[Road|road]]—whither?
 
 [Illustration]
 
-Again the nameless shock comes speeding up, and as it passes, the bells
+Again the nameless shock comes speeding up, and as it passes, [[The Bells|the bells]]
 ring in his ears “whither?” The wheels roar in his ears “whither?” All
 the noise and rattle shapes itself into that cry. The lights and
-shadows dance upon the horses’ heads like imps. No stopping now: no
-slackening! On, on! Away with him upon the dark road wildly!
+shadows [[Dance|dance]] upon the horses’ heads like imps. No stopping now: no
+slackening! On, on! Away with him upon the dark [[Road|road]] wildly!
 
 He could not think to any purpose. He could not separate one subject of
 reflection from another, sufficiently to dwell upon it, by itself, for
-a minute at a time. The crash of his project for the gaining of a
+a minute at a [[Time|time]]. The crash of his project for the gaining of a
 voluptuous compensation for past restraint; the overthrow of his
 treachery to one who had been true and generous to him, but whose least
 proud word and look he had treasured up, at interest, for years—for
@@ -167,17 +167,17 @@ schemes of retaliation upon her, floated in his brain; but nothing was
 distinct. A hurry and contradiction pervaded all his thoughts. Even
 while he was so busy with this fevered, ineffectual thinking, his one
 constant idea was, that he would postpone reflection until some
-indefinite time.
+indefinite [[Time|time]].
 
-Then, the old days before the second marriage rose up in his
+Then, the old days before the second [[Marriage|marriage]] [[Rose|rose]] up in his
 remembrance. He thought how jealous he had been of the boy, how jealous
 he had been of the girl, how artfully he had kept intruders at a
 distance, and drawn a circle round his dupe that none but himself
-should cross; and then he thought, had he done all this to be flying
+should [[Cross|cross]]; and then he thought, had he done all this to be flying
 now, like a scared thief, from only the poor dupe?
 
 He could have laid hands upon himself for his cowardice, but it was the
-very shadow of his defeat, and could not be separated from it. To have
+very [[Shadow|shadow]] of his defeat, and could not be separated from it. To have
 his confidence in his own knavery so shattered at a blow—to be within
 his own knowledge such a miserable tool—was like being paralysed. With
 an impotent ferocity he raged at Edith, and hated Mr Dombey and hated
@@ -189,7 +189,7 @@ so persuaded of this, that he cried out, “Stop” preferring even the
 loss of ground to such uncertainty.
 
 The word soon brought carriage, horses, driver, all in a heap together,
-across the road.
+across the [[Road|road]].
 
 “The devil!” cried the driver, looking over his shoulder, “what’s the
 matter?”
@@ -200,12 +200,12 @@ matter?”
 
 “That noise?”
 
-“Ah Heaven, be quiet, cursed brigand!” to a horse who shook his bells
+“Ah Heaven, be quiet, cursed brigand!” to a [[Horse|horse]] who shook his [[Bells|bells]]
 “What noise?”
 
 “Behind. Is it not another carriage at a gallop? There! what’s that?”
 
-“Miscreant with a Pig’s head, stand still!” to another horse, who bit
+“Miscreant with a Pig’s head, stand still!” to another [[Horse|horse]], who bit
 another, who frightened the other two, who plunged and backed. “There
 is nothing coming.”
 
@@ -220,12 +220,12 @@ horses, goes on slowly at first, for the driver, checked unnecessarily
 in his progress, sulkily takes out a pocket-knife, and puts a new lash
 to his whip. Then “Hallo, whoop! Hallo, hi!” Away once more, savagely.
 
-And now the stars faded, and the day glimmered, and standing in the
+And now the [[Stars|stars]] faded, and the day glimmered, and standing in the
 carriage, looking back, he could discern the track by which he had
 come, and see that there was no traveller within view, on all the heavy
 expanse. And soon it was broad day, and the sun began to shine on
 cornfields and vineyards; and solitary labourers, risen from little
-temporary huts by heaps of stones upon the road, were, here and there,
+temporary huts by heaps of stones upon the [[Road|road]], were, here and there,
 at work repairing the highway, or eating bread. By and by, there were
 peasants going to their daily labour, or to market, or lounging at the
 doors of poor cottages, gazing idly at him as he passed. And then there
@@ -245,15 +245,15 @@ Shame, disappointment, and discomfiture gnawed at his heart; a constant
 apprehension of being overtaken, or met—for he was groundlessly afraid
 even of travellers, who came towards him by the way he was
 going—oppressed him heavily. The same intolerable awe and dread that
-had come upon him in the night, returned unweakened in the day. The
-monotonous ringing of the bells and tramping of the horses; the
-monotony of his anxiety, and useless rage; the monotonous wheel of
-fear, regret, and passion, he kept turning round and round; made the
-journey like a vision, in which nothing was quite real but his own
+had come upon him in the [[Night|night]], returned unweakened in the day. The
+monotonous ringing of [[The Bells|the bells]] and tramping of the horses; the
+monotony of his anxiety, and useless rage; the monotonous [[Wheel|wheel]] of
+[[Fear|fear]], regret, and passion, he kept turning round and round; made the
+[[Journey|journey]] like a vision, in which nothing was quite real but his own
 torment.
 
 It was a vision of long roads, that stretched away to an horizon,
-always receding and never gained; of ill-paved towns, up hill and down,
+always receding and never gained; of ill-paved towns, up [[Hill|hill]] and down,
 where faces came to dark doors and ill-glazed windows, and where rows
 of mudbespattered cows and oxen were tied up for sale in the long
 narrow streets, butting and lowing, and receiving blows on their blunt
@@ -263,11 +263,11 @@ wills, and the horses of the last stage reeking, panting, and laying
 their drooping heads together dolefully at stable doors; of little
 cemeteries with black crosses settled sideways in the graves, and
 withered wreaths upon them dropping away; again of long, long roads,
-dragging themselves out, up hill and down, to the treacherous horizon.
+dragging themselves out, up [[Hill|hill]] and down, to the treacherous horizon.
 
-Of morning, noon, and sunset; night, and the rising of an early moon.
+Of morning, [[Noon|noon]], and sunset; [[Night|night]], and the rising of an early [[Moon|moon]].
 Of long roads temporarily left behind, and a rough pavement reached; of
-battering and clattering over it, and looking up, among house-roofs, at
+battering and clattering over it, and looking up, among [[house]]-roofs, at
 a great church-tower; of getting out and eating hastily, and drinking
 draughts of wine that had no cheering influence; of coming forth afoot,
 among a host of beggars—blind men with quivering eyelids, led by old
@@ -275,9 +275,9 @@ women holding candles to their faces; idiot girls; the lame, the
 epileptic, and the palsied—of passing through the clamour, and looking
 from his seat at the upturned countenances and outstretched hands, with
 a hurried dread of recognising some pursuer pressing forward—of
-galloping away again, upon the long, long road, gathered up, dull and
-stunned, in his corner, or rising to see where the moon shone faintly
-on a patch of the same endless road miles away, or looking back to see
+galloping away again, upon the long, long [[Road|road]], gathered up, dull and
+stunned, in his corner, or rising to see where the [[Moon|moon]] shone faintly
+on a patch of the same endless [[Road|road]] miles away, or looking back to see
 who followed.
 
 Of never sleeping, but sometimes dozing with unclosed eyes, and
@@ -288,7 +288,7 @@ quarrel with the whole world, but chiefly with himself. Of blighting
 everything with his black mood as he was carried on and away.
 
 It was a fevered vision of things past and present all confounded
-together; of his life and journey blended into one. Of being madly
+together; of his life and [[Journey|journey]] blended into one. Of being madly
 hurried somewhere, whither he must go. Of old scenes starting up among
 the novelties through which he travelled. Of musing and brooding over
 what was past and distant, and seeming to take no notice of the actual
@@ -296,53 +296,53 @@ objects he encountered, but with a wearisome exhausting consciousness
 of being bewildered by them, and having their images all crowded in his
 hot brain after they were gone.
 
-A vision of change upon change, and still the same monotony of bells
+A vision of change upon change, and still the same monotony of [[Bells|bells]]
 and wheels, and horses’ feet, and no rest. Of town and country,
-postyards, horses, drivers, hill and valley, light and darkness, road
+postyards, horses, drivers, [[Hill|hill]] and valley, light and darkness, [[Road|road]]
 and pavement, height and hollow, wet weather and dry, and still the
-same monotony of bells and wheels, and horses’ feet, and no rest. A
+same monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest. A
 vision of tending on at last, towards the distant capital, by busier
 roads, and sweeping round, by old cathedrals, and dashing through small
-towns and villages, less thinly scattered on the road than formerly,
+towns and villages, less thinly scattered on the [[Road|road]] than formerly,
 and sitting shrouded in his corner, with his cloak up to his face, as
 people passing by looked at him.
 
-Of rolling on and on, always postponing thought, and always racked with
+Of [[rolling]] on and on, always postponing thought, and always racked with
 thinking; of being unable to reckon up the hours he had been upon the
-road, or to comprehend the points of time and place in his journey. Of
+[[Road|road]], or to comprehend the points of [[Time|time]] and place in his [[Journey|journey]]. Of
 being parched and giddy, and half mad. Of pressing on, in spite of all,
-as if he could not stop, and coming into Paris, where the turbid river
+as if he could not stop, and coming into [[Paris]], where the turbid [[River|river]]
 held its swift course undisturbed, between two brawling streams of life
 and motion.
 
 A troubled vision, then, of bridges, quays, interminable streets; of
-wine-shops, water-carriers, great crowds of people, soldiers, coaches,
-military drums, arcades. Of the monotony of bells and wheels and
+wine-shops, [[Water|water]]-carriers, great crowds of people, soldiers, coaches,
+military drums, arcades. Of the monotony of [[Bells|bells]] and wheels and
 horses’ feet being at length lost in the universal din and uproar. Of
 the gradual subsidence of that noise as he passed out in another
 carriage by a different barrier from that by which he had entered. Of
 the restoration, as he travelled on towards the seacoast, of the
-monotony of bells and wheels, and horses’ feet, and no rest.
+monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest.
 
 Of sunset once again, and nightfall. Of long roads again, and dead of
-night, and feeble lights in windows by the roadside; and still the old
-monotony of bells and wheels, and horses’ feet, and no rest. Of dawn,
-and daybreak, and the rising of the sun. Of tolling slowly up a hill,
+[[Night|night]], and feeble lights in windows by the roadside; and still the old
+monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest. Of [[Dawn|dawn]],
+and daybreak, and the rising of the sun. Of tolling slowly up a [[Hill|hill]],
 and feeling on its top the fresh sea-breeze; and seeing the morning
 light upon the edges of the distant waves. Of coming down into a
 harbour when the tide was at its full, and seeing fishing-boats float
 on, and glad women and children waiting for them. Of nets and seamen’s
 clothes spread out to dry upon the shore; of busy sailors, and their
 voices high among ships’ masts and rigging; of the buoyancy and
-brightness of the water, and the universal sparkling.
+brightness of the [[Water|water]], and the universal sparkling.
 
 Of receding from the coast, and looking back upon it from the deck when
-it was a haze upon the water, with here and there a little opening of
+it was a haze upon the [[Water|water]], with here and there a little opening of
 bright land where the Sun struck. Of the swell, and flash, and murmur
 of the calm sea. Of another grey line on the ocean, on the vessel’s
 track, fast growing clearer and higher. Of cliffs and buildings, and a
 windmill, and a church, becoming more and more visible upon it. Of
-steaming on at last into smooth water, and mooring to a pier whence
+steaming on at last into smooth [[Water|water]], and mooring to a pier whence
 groups of people looked down, greeting friends on board. Of
 disembarking, passing among them quickly, shunning every one; and of
 being at last again in England.
@@ -359,8 +359,8 @@ could, and lying there wrapped in his cloak as if he were asleep, was
 soon borne far away from the sea, and deep into the inland green.
 Arrived at his destination he looked out, and surveyed it carefully. He
 was not mistaken in his impression of the place. It was a retired spot,
-on the borders of a little wood. Only one house, newly-built or altered
-for the purpose, stood there, surrounded by its neat garden; the small
+on the borders of a little wood. Only one [[house]], newly-built or altered
+for the purpose, stood there, surrounded by its neat [[Garden|garden]]; the small
 town that was nearest, was some miles away. Here he alighted then; and
 going straight into the tavern, unobserved by anyone, secured two rooms
 upstairs communicating with each other, and sufficiently retired.
@@ -370,18 +370,18 @@ balance of his mind. Imbecile discomfiture and rage—so that, as he
 walked about his room, he ground his teeth—had complete possession of
 him. His thoughts, not to be stopped or directed, still wandered where
 they would, and dragged him after them. He was stupefied, and he was
-wearied to death.
+wearied to [[Death|death]].
 
 But, as if there were a curse upon him that he should never rest again,
 his drowsy senses would not lose their consciousness. He had no more
 influence with them, in this regard, than if they had been another
 man’s. It was not that they forced him to take note of present sounds
 and objects, but that they would not be diverted from the whole hurried
-vision of his journey. It was constantly before him all at once. She
+vision of his [[Journey|journey]]. It was constantly before him all at once. She
 stood there, with her dark disdainful eyes again upon him; and he was
 riding on nevertheless, through town and country, light and darkness,
-wet weather and dry, over road and pavement, hill and valley, height
-and hollow, jaded and scared by the monotony of bells and wheels, and
+wet weather and dry, over [[Road|road]] and pavement, [[Hill|hill]] and valley, height
+and hollow, jaded and scared by the monotony of [[Bells|bells]] and wheels, and
 horses’ feet, and no rest.
 
 “What day is this?” he asked of the waiter, who was making preparations
@@ -391,11 +391,11 @@ for his dinner.
 
 “Is it Wednesday?”
 
-“Wednesday, Sir? No, Sir. Thursday, Sir.”
+“Wednesday, Sir? No, Sir. [[thursday|Thursday]], Sir.”
 
-“I forgot. How goes the time? My watch is unwound.”
+“I forgot. How goes the [[Time|time]]? My watch is unwound.”
 
-“Wants a few minutes of five o’clock, Sir. Been travelling a long time,
+“Wants a few minutes of five o’[[Clock|clock]], Sir. Been travelling a long [[Time|time]],
 Sir, perhaps?”
 
 “Yes”
@@ -409,59 +409,59 @@ myself, Sir, but gentlemen frequently say so.”
 
 “Do many gentlemen come here?
 
-“Pretty well, Sir, in general. Nobody here at present. Rather slack
+“Pretty [[Well|well]], Sir, in general. Nobody here at present. Rather slack
 just now, Sir. Everything is slack, Sir.”
 
 He made no answer; but had risen into a sitting posture on the sofa
 where he had been lying, and leaned forward with an arm on each knee,
 staring at the ground. He could not master his own attention for a
 minute together. It rushed away where it would, but it never, for an
-instant, lost itself in sleep.
+instant, lost itself in [[Sleep|sleep]].
 
 He drank a quantity of wine after dinner, in vain. No such artificial
-means would bring sleep to his eyes. His thoughts, more incoherent,
+means would bring [[Sleep|sleep]] to his eyes. His thoughts, more incoherent,
 dragged him more unmercifully after them—as if a wretch, condemned to
 such expiation, were drawn at the heels of wild horses. No oblivion,
 and no rest.
 
 How long he sat, drinking and brooding, and being dragged in
-imagination hither and thither, no one could have told less correctly
-than he. But he knew that he had been sitting a long time by
+[[Imagination|imagination]] hither and thither, no one could have told less correctly
+than he. But he knew that he had been sitting a long [[Time|time]] by
 candle-light, when he started up and listened, in a sudden terror.
 
-For now, indeed, it was no fancy. The ground shook, the house rattled,
+For now, indeed, it was no fancy. The ground shook, the [[house]] rattled,
 the fierce impetuous rush was in the air! He felt it come up, and go
-darting by; and even when he had hurried to the window, and saw what it
+darting by; and even when he had hurried to the [[Window|window]], and saw what it
 was, he stood, shrinking from it, as if it were not safe to look.
 
 A curse upon the fiery devil, thundering along so smoothly, tracked
 through the distant valley by a glare of light and lurid smoke, and
 gone! He felt as if he had been plucked out of its path, and saved from
 being torn asunder. It made him shrink and shudder even now, when its
-faintest hum was hushed, and when the lines of iron road he could trace
+faintest hum was hushed, and when the lines of iron [[Road|road]] he could trace
 in the moonlight, running to a point, were as empty and as silent as a
-desert.
+[[Desert|desert]].
 
 Unable to rest, and irresistibly attracted—or he thought so—to this
-road, he went out, and lounged on the brink of it, marking the way the
+[[Road|road]], he went out, and lounged on the brink of it, marking the way the
 train had gone, by the yet smoking cinders that were lying in its
 track. After a lounge of some half hour in the direction by which it
 had disappeared, he turned and walked the other way—still keeping to
-the brink of the road—past the inn garden, and a long way down; looking
+the brink of the [[Road|road]]—past the inn [[Garden|garden]], and a long way down; looking
 curiously at the bridges, signals, lamps, and wondering when another
 Devil would come by.
 
 A trembling of the ground, and quick vibration in his ears; a distant
 shriek; a dull light advancing, quickly changed to two red eyes, and a
-fierce fire, dropping glowing coals; an irresistible bearing on of a
-great roaring and dilating mass; a high wind, and a rattle—another come
+fierce [[Fire|fire]], dropping glowing coals; an irresistible bearing on of a
+great roaring and dilating mass; a high [[Wind|wind]], and a rattle—another come
 and gone, and he holding to a gate, as if to save himself!
 
 He waited for another, and for another. He walked back to his former
 point, and back again to that, and still, through the wearisome vision
-of his journey, looked for these approaching monsters. He loitered
+of his [[Journey|journey]], looked for these approaching monsters. He loitered
 about the station, waiting until one should stay to call there; and
-when one did, and was detached for water, he stood parallel with it,
+when one did, and was detached for [[Water|water]], he stood parallel with it,
 watching its heavy wheels and brazen front, and thinking what a cruel
 power and might it had. Ugh! To see the great wheels slowly turning,
 and to think of being run down and crushed!
@@ -472,24 +472,24 @@ diseased importance in his thoughts. When he went back to his room,
 which was not until near midnight, they still haunted him, and he sat
 listening for the coming of another.
 
-So in his bed, whither he repaired with no hope of sleep. He still lay
+So in his bed, whither he repaired with no [[Hope|hope]] of [[Sleep|sleep]]. He still lay
 listening; and when he felt the trembling and vibration, got up and
-went to the window, to watch (as he could from its position) the dull
-light changing to the two red eyes, and the fierce fire dropping
+went to the [[Window|window]], to watch (as he could from its position) the dull
+light changing to the two red eyes, and the fierce [[Fire|fire]] dropping
 glowing coals, and the rush of the giant as it fled past, and the track
 of glare and smoke along the valley. Then he would glance in the
 direction by which he intended to depart at sunrise, as there was no
 rest for him there; and would lie down again, to be troubled by the
-vision of his journey, and the old monotony of bells and wheels and
-horses’ feet, until another came. This lasted all night. So far from
+vision of his [[Journey|journey]], and the old monotony of [[Bells|bells]] and wheels and
+horses’ feet, until another came. This lasted all [[Night|night]]. So far from
 resuming the mastery of himself, he seemed, if possible, to lose it
-more and more, as the night crept on. When the dawn appeared, he was
+more and more, as the [[Night|night]] crept on. When the [[Dawn|dawn]] appeared, he was
 still tormented with thinking, still postponing thought until he should
 be in a better state; the past, present, and future all floated
 confusedly before him, and he had lost all power of looking steadily at
 any one of them.
 
-“At what time,” he asked the man who had waited on him over-night, now
+“At what [[Time|time]],” he asked the man who had waited on him over-[[Night|night]], now
 entering with a candle, “do I leave here, did you say?”
 
 “About a quarter after four, Sir. Express comes through at four,
@@ -499,43 +499,43 @@ He passed his hand across his throbbing head, and looked at his watch.
 Nearly half-past three.
 
 “Nobody going with you, Sir, probably,” observed the man. “Two
-gentlemen here, Sir, but they’re waiting for the train to London.”
+gentlemen here, Sir, but they’re waiting for the train to [[London]].”
 
 “I thought you said there was nobody here,” said Carker, turning upon
-him with the ghost of his old smile, when he was angry or suspicious.
+him with the [[Ghost|ghost]] of his old smile, when he was angry or suspicious.
 
-“Not then, sir. Two gentlemen came in the night by the short train that
-stops here, Sir. Warm water, Sir?”
+“Not then, sir. Two gentlemen came in the [[Night|night]] by the short train that
+stops here, Sir. Warm [[Water|water]], Sir?”
 
 “No; and take away the candle. There’s day enough for me.”
 
-Having thrown himself upon the bed, half-dressed he was at the window
+Having thrown himself upon the bed, half-dressed he was at the [[Window|window]]
 as the man left the room. The cold light of morning had succeeded to
-night and there was already, in the sky, the red suffusion of the
-coming sun. He bathed his head and face with water—there was no cooling
+[[Night|night]] and there was already, in the sky, the red suffusion of the
+coming sun. He bathed his head and face with [[Water|water]]—there was no cooling
 influence in it for him—hurriedly put on his clothes, paid what he
 owed, and went out.
 
 The air struck chill and comfortless as it breathed upon him. There was
 a heavy dew; and, hot as he was, it made him shiver. After a glance at
-the place where he had walked last night, and at the signal-lights
+the place where he had walked last [[Night|night]], and at the signal-lights
 burning in the morning, and bereft of their significance, he turned to
 where the sun was rising, and beheld it, in its glory, as it broke upon
 the scene.
 
-So awful, so transcendent in its beauty, so divinely solemn. As he cast
-his faded eyes upon it, where it rose, tranquil and serene, unmoved by
+So awful, so transcendent in its [[Beauty|beauty]], so divinely solemn. As he cast
+his faded eyes upon it, where it [[Rose|rose]], tranquil and serene, unmoved by
 all the wrong and wickedness on which its beams had shone since the
 beginning of the world, who shall say that some weak sense of virtue
 upon Earth, and its in Heaven, did not manifest itself, even to him? If
 ever he remembered sister or brother with a touch of tenderness and
 remorse, who shall say it was not then?
 
-He needed some such touch then. Death was on him. He was marked off—the
-living world, and going down into his grave.
+He needed some such touch then. [[Death]] was on him. He was marked off—the
+living world, and going down into his [[Grave|grave]].
 
-He paid the money for his journey to the country-place he had thought
-of; and was walking to and fro, alone, looking along the lines of iron,
+He paid the money for his [[Journey|journey]] to the country-place he had thought
+of; and was walking to and fro, [[Alone|alone]], looking along the lines of iron,
 across the valley in one direction, and towards a dark bridge near at
 hand in the other; when, turning in his walk, where it was bounded by
 one end of the wooden stage on which he paced up and down, he saw the
@@ -543,8 +543,8 @@ man from whom he had fled, emerging from the door by which he himself
 had entered. And their eyes met.
 
 In the quick unsteadiness of the surprise, he staggered, and slipped on
-to the road below him. But recovering his feet immediately, he stepped
-back a pace or two upon that road, to interpose some wider space
+to the [[Road|road]] below him. But recovering his feet immediately, he stepped
+back a pace or two upon that [[Road|road]], to interpose some wider space
 between them, and looked at his pursuer, breathing short and quick.
 
 He heard a shout—another—saw the face change from its vindictive
@@ -558,5 +558,5 @@ with its fiery heat, and cast his mutilated fragments in the air.
 When the traveller, who had been recognised, recovered from a swoon, he
 saw them bringing from a distance something covered, that lay heavy and
 still, upon a board, between four men, and saw that others drove some
-dogs away that sniffed upon the road, and soaked his blood up, with a
+[[dogs]] away that sniffed upon the [[Road|road]], and soaked his [[Blood|blood]] up, with a
 train of ashes.

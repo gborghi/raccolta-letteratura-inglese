@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — The Higher Nihilism"
+title: "[[Well]] And Shallows — The Higher Nihilism"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -25,11 +25,11 @@ of net of necessity; that his spirited and active mind
 is actually hampered by his queer religion of destiny.
 The reader trips over it, as if it were barbed wire,
 when striding through what is otherwise an open field of
-freedom and fair-mindedness. To take one example; no Catholic
+[[Freedom|freedom]] and fair-mindedness. To take one example; no Catholic
 could possibly ask for a more just or even generous judgment
-on the Middle Ages, and their relation to the Reformation,
+on the Middle Ages, and their relation to the [[Reformation]],
 than that given in Mr. Murry's chapter called "The Pattern
-of History"; and yet it ends with a twist of phrase so abrupt
+of [[history|History]]"; and yet it ends with a twist of phrase so abrupt
 and perverse that I almost cried out aloud at the inconsequence.
 "In England the Church was expropriated, by men who had
 not as individuals the faintest ethical superiority
@@ -56,13 +56,13 @@ and I can only say "By whom?"  It would be a mere wanton veto on
 all art and action to forbid us to take materials from the past.
 But as a fact it is impossible for anybody to avoid using the past.
 In reality, it is impossible to use anything except the past.
-And why is it any more forbidden to me to say that the Catholic Church
-is a thing of the future and the present, as well as the past,
+And why is it any more forbidden to me to say that the [[Catholic Church]]
+is a thing of the future and the present, as [[Well|well]] as the past,
 than it is to Mr. Murry to say that Karl Marx fulfilled
 the purpose of the Hebrew Prophets or that Jesus of Nazareth
-became the supreme type of disinterestedness?  But in logic there
+became the supreme type of disinterestedness?  But in [[logic]] there
 is no need even to go back to Jesus or the Jewish prophets.
-Karl Marx is as much a part of the past as King John Sobieski;
+Karl Marx is as much a part of the past as [[King John]] Sobieski;
 and the Russian Revolution is as past as the Roman Empire.
 The book is full of violent affirmations of this sort,
 entirely unsupported by arguments ot any sort.
@@ -73,27 +73,27 @@ The writer starts, as he starts with so many unexplained things,
 with the very dangerous word, "disinterested." It is dangerous
 because a mere touch will make it mean "uninterested"; in the sense
 of the Buddhist and the pessimist.  We all know it has a sane sense,
-as meaning sincerely unselfish, self-sacrificing for a faith, and so on.
+as meaning sincerely unselfish, [[Self|self]]-sacrificing for a [[Faith|faith]], and so on.
 But Mr. Murry does not mean merely giving up our pleasures for the sake
 of our ideals.  In some places, he really seems to mean giving up
 our ideals, or some of our ideals, for a sort of super-ideal which has
 sometimes precious little to say for itself, except that it is Destiny.
 There really is a wild cry from Asia in his classic speech;
-an altruism that is almost nihilism; a sacrifice that is nearly suicide.
+an altruism that is almost nihilism; a sacrifice that is nearly [[suicide]].
 We are to give up liberty; we are to give up everything.
-This passionate paradox is undoubtedly sincere; and yet it conceals
-another paradox which it will be well to watch and suspect.
+This passionate [[Paradox|paradox]] is undoubtedly sincere; and yet it conceals
+another [[Paradox|paradox]] which it will be [[Well|well]] to watch and suspect.
 Morally, it is all very heroic; but intellectually, it actually
 contains too much caution; it is more cautious than wise.
 It has behind its position two alternative lines of retreat.
 For the logical reader will at once perceive that, by thus rising
-into wild renunciation, the controversialist really has it both ways.
+into wild [[Renunciation|renunciation]], the controversialist really has it both ways.
 Wherever Communism can be made attractive, he will make it attractive.
 Wherever Communism is quite obviously repulsive, he will say it proves
 the selfless hardihood of Communists who embrace so repulsive a thing.
 When it is human, it is in sympathy with all humanity; when it is inhuman,
 it calls for a superhuman sympathy.  When it is good it is good;
-and when it is bad, they are very good to swallow it.  This form
+and when it is bad, they are very good to [[Swallow|swallow]] it.  This form
 of Necessity might be found in that proverb from the mouldering past:
 "Heads I win, tails you lose."
 
@@ -103,8 +103,8 @@ or almost going mad, under the limitations of his unreal religion.
 He has got authority in the wrong place and asceticism
 in the wrong place.  He is more limited by the idea
 of Destiny than we are by the idea of Deity.  And he wants
-man to sacrifice civilisation as monks sacrifice luxury.
-He seems almost satisfied with it as a giant gesture of renunciation;
+man to sacrifice civilisation as [[Monks|monks]] sacrifice luxury.
+He seems almost satisfied with it as a giant gesture of [[Renunciation|renunciation]];
 there is really uncommonly little in this book about what will
 be the practical advantages of Communism when established.
 Reading between the lines, we almost find the meaning to be
@@ -116,12 +116,12 @@ his Communism is that it consents to be the heir of Capitalism.
 His unfortunate necessitarianism narrows the possibilities
 of politics; and is content to say that industrialism has
 turned the world into One Man, who is aching in all his limbs.
-No doubt; and so would you and I, if we were all unnaturally tied
+No [[Doubt|doubt]]; and so would you and I, if we were all unnaturally tied
 to each other neck and heels, that we might make up together
 the monstrous and tottering figure of a pantomime ogre.
 But I do not want the ogre; I only want to cut him up.
 I am more revolutionary than Mr. Middleton Murry.
-I do not believe the unnatural monster will ache any the less,
+I do not believe the unnatural [[Monster|monster]] will ache any the less,
 because he calls himself a Communist.  I am more sceptical than
 Mr. Middleton Murry.  I deny the pantomime myth of the One Man;
 and I should like to break him up again into men.

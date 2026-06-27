@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE THIEF ON TRIAL"
+title: "[[FourFaultlessFelons]] — THE THIEF ON TRIAL"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -32,7 +32,7 @@ privileged interviews between the prisoner and members of his family. But
 
 it was not until his father, old Sir Jacob Nadoway, had sent his private
 
-secretary to the prison, apparently to conduct unprecedentedly long
+secretary to the [[Prison|prison]], apparently to conduct unprecedentedly long
 
 interviews with the prisoner, that the news went round that he was
 
@@ -46,7 +46,7 @@ he had insisted on conducting his own defence.
 
 He had been committed for trial after purely formal evidence, and in his
 
-earlier stages of silence and surrender. It was before a judge and jury
+earlier stages of [[Silence|silence]] and surrender. It was before a judge and jury
 
 that the case against him was fully opened, and the prosecuting counsel
 
@@ -54,7 +54,7 @@ opened it in tones of stern regret. The prisoner was unfortunately the
 
 son of a great and distinguished family, the blot on the escutcheon of a
 
-noble, a generous and a philanthropic house. All were acquainted with the
+noble, a generous and a philanthropic [[house]]. All were acquainted with the
 
 great reforms in the conditions of employment which would always be
 
@@ -66,13 +66,13 @@ to the ecclesiastical dogmas upheld by his other brother, the Rev. Norman
 
 Nadoway, had none the less respect for the solid social work and active
 
-charity of that clergyman among the poor. But, however it might be in
+[[Charity|charity]] of that clergyman among the poor. But, however it might be in
 
 other countries, the English law was no respecter of persons and was
 
 bound to follow crime even to its most respectable retreats. This
 
-unfortunate man, Alan Nadoway, had always been a ne'er-do-well and a
+unfortunate man, Alan Nadoway, had always been a ne'er-do-[[Well|well]] and a
 
 burden and disgrace to his family. He had been suspected, and indeed
 
@@ -96,7 +96,7 @@ continued to look at each other with lugubrious countenances, until the
 
 barrister apologized and resumed. In any case, he said, there could be
 
-little doubt upon the charge of petty larceny, in face of the witnesses
+little [[Doubt|doubt]] upon the charge of petty larceny, in face of the witnesses
 
 whom he intended to put in the box.
 
@@ -110,7 +110,7 @@ only all one sentence but all one word.
 
 
 
-"Acting on information received I followed the prisoner from the house of
+"Acting on information received I followed the prisoner from the [[house]] of
 
 the Rev. Norman Nadoway towards the Yperion Cinema Theatre at about a
 
@@ -136,13 +136,13 @@ his pockets and took the prisoner into custody."
 
 
 
-"Do you wish to cross-examine this witness?" asked the judge.
+"Do you wish to [[Cross|cross]]-examine this witness?" asked the judge.
 
 
 
 "I am sure your lordship will pardon me in the circumstances," said the
 
-prisoner, "If I am not well acquainted with the forms of this court. But
+prisoner, "If I am not [[Well|well]] acquainted with the forms of this [[Court|court]]. But
 
 may I at this stage ask whether the prosecution is going to call these
 
@@ -178,7 +178,7 @@ things came about?"
 
 
 
-"Well," said the constable, "the fact is that as soon as I'd turned my
+"[[Well]]," said the constable, "the fact is that as soon as I'd turned my
 
 back on him for a minute, he was gone."
 
@@ -192,7 +192,7 @@ without leaving his name, as if he were a thief himself?"
 
 
 
-"Well, I don't understand it, and that's flat," said the policeman.
+"[[Well]], I don't understand it, and that's flat," said the policeman.
 
 
 
@@ -212,7 +212,7 @@ was a human being and capable of being amused.
 
 
 
-"Well, I must say he was vague enough," he admitted with a faint grin.
+"[[Well]], I must say he was vague enough," he admitted with a faint grin.
 
 "He's one of these artistic musical chaps, and his notions of counting
 
@@ -292,7 +292,7 @@ pointing out that he exercised on a noble scale the ancient virtue of
 
 hospitality. If I say you give very good dinners, am I aspersing your
 
-character? If you ask six other barristers to lunch, and do them well, do
+character? If you ask six other barristers to lunch, and do them [[Well|well]], do
 
 you conceal it like a crime? Are you ashamed of your handsome
 
@@ -308,7 +308,7 @@ hospitality, Mr. Hamble? Are you a miser and a man-hater?"
 
 
 
-"Well, no, sir," said Mr. Hamble, almost modestly. "No, certainly not,
+"[[Well]], no, sir," said Mr. Hamble, almost modestly. "No, certainly not,
 
 sir," he added more firmly.
 
@@ -322,7 +322,7 @@ do them a good turn or stand them a drink, if you could."
 
 
 
-"I hope so, sir," said the virtuous bookmaker.
+"I [[Hope|hope]] so, sir," said the virtuous bookmaker.
 
 
 
@@ -334,7 +334,7 @@ occasion?"
 
 
 
-"Well," admitted Mr. Hamble, a little puzzled, "I suppose I must have
+"[[Well]]," admitted Mr. Hamble, a little puzzled, "I suppose I must have
 
 been rather flush that evening."
 
@@ -352,11 +352,11 @@ hair and a coat faded to bottle-green, was certainly as vague as the
 
 policeman had represented him. During the examination in chief, he got
 
-through well enough by saying that he certainly had a sort of feeling as
+through [[Well|well]] enough by saying that he certainly had a sort of feeling as
 
 if his pockets were being rifled; but even under Nadoway's comparatively
 
-gentle and sympathetic cross examination he became extraordinarily hazy.
+gentle and sympathetic [[Cross|cross]] examination he became extraordinarily hazy.
 
 It seemed that he had eventually, with the assistance of two or three
 
@@ -366,7 +366,7 @@ that he still possessed 4s. 7d. after he had been robbed. But the light
 
 thus thrown upon the robbery was a little dimmed by the fact that he had
 
-then realized, for the first time, that he had never had any notion of
+then realized, for the first [[Time|time]], that he had never had any notion of
 
 what he possessed before he was robbed.
 
@@ -420,7 +420,7 @@ mathematics. He and his friends finally added it up and brought it out as
 
 
 
-"Well, he's a genius," she said with some pride. "He could bring out
+"[[Well]], he's a genius," she said with some [[Pride|pride]]. "He could bring out
 
 anythink as anythink."
 
@@ -462,7 +462,7 @@ for nothink, I daresay. But 'e didn't pay for nobody else's."
 
 "'Cos he brought back his usual wages and a bit more," said Mrs. Hamble,
 
-as if this alone were a sufficient grievance.
+as if this [[Alone|alone]] were a sufficient grievance.
 
 
 
@@ -472,7 +472,7 @@ as if this alone were a sufficient grievance.
 
 "I think I can explain it," said Alan Nadoway, "if your lordship will
 
-allow me to go into the box for two minutes, before I wind up for the
+allow me to go into the box for two minutes, before I [[Wind|wind]] up for the
 
 defence."
 
@@ -516,9 +516,9 @@ were pleading Not Guilty."
 
 "My lord," said Alan Nadoway, "I can put it all straight in five words.
 
-Only in this court one can't put things straight; one has to do what you
+Only in this [[Court|court]] one can't put things straight; one has to do what you
 
-call prove them. Well, it's all simple enough. I did put my hands in
+call prove them. [[Well]], it's all simple enough. I did put my hands in
 
 their pockets. Only I put money in their pockets, instead of taking it
 
@@ -550,7 +550,7 @@ Green. One glance at his pockets had shown him that he had got somebody
 
 else's money in addition to his own. A dark familiarity with the police
 
-led him to doubt strongly whether he would ultimately be allowed to keep
+led him to [[Doubt|doubt]] strongly whether he would ultimately be allowed to keep
 
 it. He had therefore vanished with the presence of mind of a magician or
 
@@ -580,11 +580,11 @@ and not emptied them.
 
 
 
-Amid a dazed silence, the judge could only find it possible to charge the
+Amid a dazed [[Silence|silence]], the judge could only find it possible to charge the
 
 jury to acquit, and the jury acquitted. But Mr. Alan Nadoway made a very
 
-rapid dart out of court, eluding journalists and friends and especially
+rapid dart out of [[Court|court]], eluding journalists and friends and especially
 
 his family. For one thing, he had seen two pinch-faced men with
 

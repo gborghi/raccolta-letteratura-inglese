@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 26 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 26 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,13 +20,13 @@ Palmer, whose eye was caught by every thing pretty, expensive, or new;
 
 who was wild to buy all, could determine on none, and dawdled away her
 
-time in rapture and indecision.
+[[Time|time]] in rapture and indecision.
 
 
 
-It was late in the morning before they returned home; and no sooner had
+It was late in the morning before they returned [[Home|home]]; and no sooner had
 
-they entered the house than Marianne flew eagerly up stairs, and when
+they entered the [[house]] than Marianne flew eagerly up stairs, and when
 
 Elinor followed, she found her turning from the table with a sorrowful
 
@@ -50,7 +50,7 @@ The man replied that none had.
 
 “How very odd!” said she, in a low and disappointed voice, as she
 
-turned away to the window.
+turned away to the [[Window|window]].
 
 
 
@@ -92,18 +92,18 @@ engagements; and Elinor was obliged to assist in making a whist table
 
 for the others. Marianne was of no use on these occasions, as she would
 
-never learn the game; but though her time was therefore at her own
+never learn the game; but though her [[Time|time]] was therefore at her own
 
 disposal, the evening was by no means more productive of pleasure to
 
 her than to Elinor, for it was spent in all the anxiety of expectation
 
-and the pain of disappointment. She sometimes endeavoured for a few
+and the [[Pain|pain]] of disappointment. She sometimes endeavoured for a few
 
 minutes to read; but the book was soon thrown aside, and she returned
 
 to the more interesting employment of walking backwards and forwards
 
-across the room, pausing for a moment whenever she came to the window,
+across the room, pausing for a moment whenever she came to the [[Window|window]],
 
 in hopes of distinguishing the long-expected rap.

@@ -16,20 +16,20 @@ tags:
 
 VIII THE CHIEF MOURNER OF MARNE
 
-A BLAZE of lightning blanched the grey woods tracing all the wrinkled
+A BLAZE of [[Lightning|lightning]] blanched the grey woods tracing all the wrinkled
 foliage down to the last curled leaf, as if every detail were drawn in
-silverpoint or graven in silver. The same strange trick of lightning by
+silverpoint or graven in silver. The same strange trick of [[Lightning|lightning]] by
 which it seems to record millions of minute things in an instant of
-time, picked out everything, from the elegant litter of the picnic
-spread under the spreading tree to the pale lengths of winding road, at
-the end of which a white car was waiting. In the distance a melancholy
-mansion with four towers like a castle, which in the grey evening had
+[[Time|time]], picked out everything, from the elegant litter of the picnic
+spread under the spreading tree to the pale lengths of winding [[Road|road]], at
+the end of which a white car was waiting. In the distance a [[Melancholy|melancholy]]
+mansion with four towers like a [[Castle|castle]], which in the grey evening had
 been but a dim and distant huddle of walls like a crumbling cloud,
-seemed to spring into the foreground, and stood up with all its
+seemed to [[Spring|spring]] into the foreground, and stood up with all its
 embattled, roofs and blank and staring windows. And in this, at least,
 the light had something in it of revelation. For to some of those
-grouped under the tree that castle was, indeed, a thing faded and almost
-forgotten, which was to prove its power to spring up again in the
+grouped under the tree that [[Castle|castle]] was, indeed, a thing faded and almost
+forgotten, which was to prove its power to [[Spring|spring]] up again in the
 foreground of their lives.
 
 The light also clothed for an instant, in the same silver splendour, at
@@ -53,7 +53,7 @@ But there was something about its stillness, like that of a statue, that
 distinguished it from the group at his feet. All the other figures
 around him had made the ordinary involuntary movement at the unexpected
 shock of light; for though the skies were rainy it was the first flash
-of the storm. The only lady present, whose air of carrying grey hair
+of the [[Storm|storm]]. The only lady present, whose air of carrying grey hair
 gracefully, as if she were really proud of it, marked her a matron of
 the United States, unaffectedly shut her eyes and uttered a sharp cry.
 Her English husband, General Outram, a very stolid Anglo-Indian, with
@@ -74,18 +74,18 @@ statue seemed to come to life. He turned his head over his shoulder and
 said casually;
 
 "About a minute and half between the flash and the bang, but I think the
-storm's coming nearer. A tree is not supposed to be a good umbrella for
-the lightning, but we shall want it soon for the rain. I think it will
-be a deluge.'
+[[Storm|storm]]'s coming nearer. A tree is not supposed to be a good umbrella for
+the [[Lightning|lightning]], but we shall want it soon for the rain. I think it will
+be a [[deluge]].'
 
 The young man glanced at the lady a little anxiously and said: "Can't we
-get shelter anywhere? There seems to be a house over there."
+get shelter anywhere? There seems to be a [[house]] over there."
 
-"There is a house over there," remarked the general, rather grimly; "but
+"There is a [[house]] over there," remarked the general, rather grimly; "but
 not quite what you'd call a hospitable hotel."
 
 "It's curious," said his wife sadly, "that we should be caught in a
-storm with no house near but that one, of all others."
+[[Storm|storm]] with no [[house]] near but that one, of all others."
 
 Something in her tone seemed to check the younger man, who was both
 sensitive and comprehending; but nothing of that sort daunted the man
@@ -102,12 +102,12 @@ last year. 'The Nobleman Nobody Knows.'"
 "Yes, I've heard of him, too," said young Mallow in a low voice. "There
 seem to be all sorts of weird stories about why he hides himself like
 that. I've heard that he wears a mask because he's a leper. But somebody
-else told me quite seriously that there's a curse on the family; a child
+else told me quite seriously that there's a curse on the family; a [[Child|child]]
 born with some frightful deformity that's kept in a dark room."
 
 "The Marquis of Marne has three heads," remarked Romaine quite gravely.
 "Once in every three hundred years a three-headed nobleman adorns the
-family tree. No human being dares approach the accursed house except a
+family tree. No human being dares approach the accursed [[house]] except a
 silent procession of hatters, sent to provide an abnormal number of
 hats. But," --and his voice took one of those deep and terrible turns,
 that could cause such a thrill in the theatre--"my friends, those hats
@@ -123,7 +123,7 @@ joke about this, anyhow."
 forbidden even to reason why?"
 
 "The reason," she replied, "is that he isn't the Nobleman Nobody Knows.
-I know him myself, or, at least, I knew him very well when he was an
+I know him myself, or, at least, I knew him very [[Well|well]] when he was an
 attache at Washington thirty years ago, when we were all young. And he
 didn't wear a mask, at least, he didn't wear it with me. He wasn't a
 leper, though he may he almost as lonely. And he had only one head and

@@ -19,9 +19,9 @@ XXII
 The Orthodox Barber
 
 Those thinkers who cannot believe in any gods often assert
-that the love of humanity would be in itself sufficient for them;
+that the [[Love|love]] of humanity would be in itself sufficient for them;
 and so, perhaps, it would, if they had it.  There is a very real
-thing which may be called the love of humanity; in our time it
+thing which may be called the [[Love|love]] of humanity; in our [[Time|time]] it
 exists almost entirely among what are called uneducated people;
 and it does not exist at all among the people who talk about it.
 
@@ -34,13 +34,13 @@ I remember seeing a crowd of factory girls getting
 into an empty train at a wayside country station.
 There were about twenty of them; they all got into one carriage;
 and they left all the rest of the train entirely empty.
-That is the real love of humanity.  That is the definite
+That is the real [[Love|love]] of humanity.  That is the definite
 pleasure in the immediate proximity of one's own kind.
-Only this coarse, rank, real love of men seems to be entirely
-lacking in those who propose the love of humanity as a substitute
-for all other love; honourable, rationalistic idealists.
+Only this coarse, rank, real [[Love|love]] of men seems to be entirely
+lacking in those who propose the [[Love|love]] of humanity as a substitute
+for all other [[Love|love]]; honourable, rationalistic idealists.
 
-I can well remember the explosion of human joy which marked
+I can [[Well|well]] remember the explosion of human joy which marked
 the sudden starting of that train; all the factory girls
 who could not find seats (and they must have been the majority)
 relieving their feelings by jumping up and down.
@@ -50,9 +50,9 @@ third-class carriage for the mere pleasure of being together.
 I have never seen twenty Mr. McCabes all in one carriage
 and all jumping up and down.
 
-Some people express a fear that vulgar trippers will overrun
+Some people express a [[Fear|fear]] that vulgar trippers will overrun
 all beautiful places, such as Hampstead or Burnham Beeches.
-But their fear is unreasonable; because trippers always
+But their [[Fear|fear]] is unreasonable; because trippers always
 prefer to trip together; they pack as close as they can;
 they have a suffocating passion of philanthropy.
 
@@ -63,9 +63,9 @@ I have no hesitation in placing the problem of the colloquial barber.
 Before any modern man talks with authority about loving men, I insist
 (I insist with violence) that he shall always be very much pleased
 when his barber tries to talk to him.  His barber is humanity:
-let him love that.  If he is not pleased at this, I will not accept any
+let him [[Love|love]] that.  If he is not pleased at this, I will not accept any
 substitute in the way of interest in the Congo or the future of Japan.
-If a man cannot love his barber whom he has seen, how shall he love
+If a man cannot [[Love|love]] his barber whom he has seen, how shall he [[Love|love]]
 the Japanese whom he has not seen?
 
 It is urged against the barber that he begins by talking about
@@ -85,14 +85,14 @@ language employed, the following conversation between me and a human
 
 . . . . .
 
-I had been invited to some At Home to meet the Colonial Premiers,
+I had been invited to some At [[Home]] to meet the Colonial Premiers,
 and lest I should be mistaken for some partly reformed bush-ranger out of
 the interior of Australia I went into a shop in the Strand to get shaved.
 While I was undergoing the torture the man said to me:
 
 "There seems to be a lot in the papers about this new shaving, sir.
 It seems you can shave yourself with anything--with a stick or a stone
-or a pole or a poker" (here I began for the first time to detect
+or a pole or a poker" (here I began for the first [[Time|time]] to detect
 a sarcastic intonation) "or a shovel or a----"
 
 Here he hesitated for a word, and I, although I knew nothing about
@@ -105,7 +105,7 @@ He resumed, refreshed with this assistance, "Or a curtain rod
 or a candle-stick, or a----"
 
 "Cow-catcher," I suggested eagerly, and we continued in this ecstatic duet
-for some time.  Then I asked him what it was all about, and he told me.
+for some [[Time|time]].  Then I asked him what it was all about, and he told me.
 He explained the thing eloquently and at length.
 
 "The funny part of it is," he said, "that the thing isn't new at all.
@@ -133,12 +133,12 @@ It would be nicer still if we could go unshaved without annoying anybody--
        "'But, O wise friend, chief Barber of the Strand,
 	 Brother, nor you nor I have made the world.'
 
-Whoever made it, who is wiser, and we hope better than we, made it
+Whoever made it, who is wiser, and we [[Hope|hope]] better than we, made it
 under strange limitations, and with painful conditions of pleasure.
 
 "In the first and darkest of its books it is fiercely written
 that a man shall not eat his cake and have it; and though
-all men talked until the stars were old it would still be true
+all men talked until the [[Stars|stars]] were old it would still be true
 that a man who has lost his razor could not shave with it.
 But every now and then men jump up with the new something
 or other and say that everything can be had without sacrifice,
@@ -151,9 +151,9 @@ The superstitious people of the past (they say)
 believed that a lot of black bristles standing out at right
 angles to one's face was a positive affair.  But the higher
 criticism teaches us better.  Bristles are merely negative.
-They are a Shadow where Shaving should be.
+They are a [[Shadow]] where Shaving should be.
 
-"Well, it all goes on, and I suppose it all means something.
+"[[Well]], it all goes on, and I suppose it all means something.
 But a baby is the Kingdom of God, and if you try to kiss a baby
 he will know whether you are shaved or not.  Perhaps I am mixing
 up being shaved and being saved; my democratic sympathies have

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 22 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 22 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,19 +28,19 @@ try to persuade myself that the sweetness overpowers it; I may call it
 
 a pleasant aromatic flavour; but say what I will, it is still there,
 
-and I cannot but taste it. I cannot shut my eyes to Arthur’s faults;
+and I cannot but taste it. I cannot shut my eyes to [[arthur|Arthur]]’s faults;
 
-and the more I love him the more they trouble me. His very heart, that
+and the more I [[Love|love]] him the more they trouble me. His very heart, that
 
-I trusted so, is, I fear, less warm and generous than I thought it. At
+I trusted so, is, I [[Fear|fear]], less warm and generous than I thought it. At
 
 least, he gave me a specimen of his character to-day that seemed to
 
-merit a harder name than thoughtlessness. He and Lord Lowborough were
+merit a harder name than thoughtlessness. He and [[Lord Lowborough]] were
 
 accompanying Annabella and me in a long, delightful ride; he was riding
 
-by my side, as usual, and Annabella and Lord Lowborough were a little
+by my side, as usual, and Annabella and [[Lord Lowborough]] were a little
 
 before us, the latter bending towards his companion as if in tender and
 
@@ -48,13 +48,13 @@ confidential discourse.
 
 
 
-“Those two will get the start of us, Helen, if we don’t look sharp,”
+“Those two will get the start of us, [[Helen]], if we don’t look sharp,”
 
 observed Huntingdon. “They’ll make a match of it, as sure as can be.
 
 That Lowborough’s fairly besotted. But he’ll find himself in a fix when
 
-he’s got her, I doubt.”
+he’s got her, I [[Doubt|doubt]].”
 
 
 
@@ -64,19 +64,19 @@ what I’ve heard of him is true.”
 
 
 
-“Not a bit of it. She knows what she’s about; but he, poor fool,
+“Not a bit of it. She knows what she’s about; but he, poor [[Fool|fool]],
 
 deludes himself with the notion that she’ll make him a good wife, and
 
 because she has amused him with some rodomontade about despising rank
 
-and wealth in matters of love and marriage, he flatters himself that
+and wealth in matters of [[Love|love]] and [[Marriage|marriage]], he flatters himself that
 
 she’s devotedly attached to him; that she will not refuse him for his
 
-poverty, and does not court him for his rank, but loves him for himself
+[[Poverty|poverty]], and does not [[Court|court]] him for his rank, but loves him for himself
 
-alone.”
+[[Alone|alone]].”
 
 
 
@@ -90,25 +90,25 @@ quite lost sight of it: it never enters his calculations, except merely
 
 as an essential without which, for the lady’s own sake, he could not
 
-think of marrying her. No; he’s fairly in love. He thought he never
+think of marrying her. No; he’s fairly in [[Love|love]]. He thought he never
 
 could be again, but he’s in for it once more. He was to have been
 
 married before, some two or three years ago; but he lost his bride by
 
-losing his fortune. He got into a bad way among us in London: he had an
+losing his fortune. He got into a bad way among us in [[London]]: he had an
 
 unfortunate taste for gambling; and surely the fellow was born under an
 
 unlucky star, for he always lost thrice where he gained once. That’s a
 
-mode of self-torment I never was much addicted to. When I spend my
+mode of [[Self|self]]-torment I never was much addicted to. When I spend my
 
 money I like to enjoy the full value of it: I see no fun in wasting it
 
 on thieves and blacklegs; and as for _gaining_ money, hitherto I have
 
-always had sufficient; it’s time enough to be clutching for more, I
+always had sufficient; it’s [[Time|time]] enough to be clutching for more, I
 
 think, when you begin to see the end of what you have. But I have
 
@@ -116,7 +116,7 @@ sometimes frequented the gaming-houses just to watch the on-goings of
 
 those mad votaries of chance—a very interesting study, I assure you,
 
-Helen, and sometimes very diverting: I’ve had many a laugh at the
+[[Helen]], and sometimes very diverting: I’ve had many a laugh at the
 
 boobies and bedlamites. Lowborough was quite infatuated—not willingly,
 
@@ -124,13 +124,13 @@ but of necessity,—he was always resolving to give it up, and always
 
 breaking his resolutions. Every venture was the “just once more:” if he
 
-gained a little, he hoped to gain a little more next time, and if he
+gained a little, he hoped to gain a little more next [[Time|time]], and if he
 
 lost, it would not do to leave off at that juncture; he must go on till
 
 he had retrieved that last misfortune, at least: bad luck could not
 
-last for ever; and every lucky hit was looked upon as the dawn of
+last for ever; and every lucky hit was looked upon as the [[Dawn|dawn]] of
 
 better times, till experience proved the contrary. At length he grew
 
@@ -144,15 +144,15 @@ to a check. He made a large stake, which he determined should be the
 
 last, whether he lost or won. He had often so determined before, to be
 
-sure, and as often broken his determination; and so it was this time.
+sure, and as often broken his determination; and so it was this [[Time|time]].
 
 He lost; and while his antagonist smilingly swept away the stakes, he
 
-turned chalky white, drew back in silence, and wiped his forehead. I
+turned chalky white, drew back in [[Silence|silence]], and wiped his forehead. I
 
-was present at the time; and while he stood with folded arms and eyes
+was present at the [[Time|time]]; and while he stood with folded arms and eyes
 
-fixed on the ground, I knew well enough what was passing in his mind.
+fixed on the ground, I knew [[Well|well]] enough what was passing in his mind.
 
 
 
@@ -206,7 +206,7 @@ And then he winked at me.
 
 “‘No; you heard my oath,’ answered Lowborough, turning away in quiet
 
-despair. And I took him by the arm and led him out.
+[[Despair|despair]]. And I took him by the arm and led him out.
 
 
 
@@ -218,9 +218,9 @@ street.
 
 “‘The last,’ he answered, somewhat against my expectation. And I took
 
-him home—that is, to our club—for he was as submissive as a child—and
+him [[Home|home]]—that is, to our club—for he was as submissive as a [[Child|child]]—and
 
-plied him with brandy-and-water till he began to look rather
+plied him with brandy-and-[[Water|water]] till he began to look rather
 
 brighter—rather more alive, at least.
 
@@ -228,4 +228,4 @@ brighter—rather more alive, at least.
 
 “‘Huntingdon, I’m ruined!’ said he, taking the third glass from my
 
-hand—he had drunk the others in dead silence.
+hand—he had drunk the others in dead [[Silence|silence]].

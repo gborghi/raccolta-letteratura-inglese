@@ -40,11 +40,11 @@ idea.  ‘Yes,’ she assented, ‘I’m a likely subject for that; an’t I?’
 pipe.
 
 ‘Don’t you think I ever shall though?’ said Clemency, in perfect good
-faith.
+[[Faith|faith]].
 
 Mr. Britain shook his head.  ‘Not a chance of it!’
 
-‘Only think!’ said Clemency.  ‘Well!—I suppose you mean to, Britain, one
+‘Only think!’ said Clemency.  ‘[[Well]]!—I suppose you mean to, Britain, one
 of these days; don’t you?’
 
 A question so abrupt, upon a subject so momentous, required
@@ -65,7 +65,7 @@ retrospectively at the candle, ‘if it hadn’t been for—not that I went to
 do it, for it was accidental, I am sure—if it hadn’t been for me; now
 would she, Britain?’
 
-‘Certainly not,’ returned Mr. Britain, by this time in that high state of
+‘Certainly not,’ returned Mr. Britain, by this [[Time|time]] in that high state of
 appreciation of his pipe, when a man can open his mouth but a very little
 way for speaking purposes; and sitting luxuriously immovable in his
 chair, can afford to turn only his eyes towards a companion, and that
@@ -74,13 +74,13 @@ Clem.’
 
 ‘Lor, how nice that is to think of!’ said Clemency.
 
-At the same time, bringing her thoughts as well as her sight to bear upon
+At the same [[Time|time]], bringing her thoughts as [[Well|well]] as her sight to bear upon
 the candle-grease, and becoming abruptly reminiscent of its healing
 qualities as a balsam, she anointed her left elbow with a plentiful
 application of that remedy.
 
 ‘You see I’ve made a good many investigations of one sort and another in
-my time,’ pursued Mr. Britain, with the profundity of a sage, ‘having
+my [[Time|time]],’ pursued Mr. Britain, with the profundity of a sage, ‘having
 been always of an inquiring turn of mind; and I’ve read a good many books
 about the general Rights of things and Wrongs of things, for I went into
 the literary line myself, when I began life.’
@@ -92,7 +92,7 @@ a bookstall, ready to fly out if anybody pocketed a volume; and after
 that, I was light porter to a stay and mantua maker, in which capacity I
 was employed to carry about, in oilskin baskets, nothing but
 deceptions—which soured my spirits and disturbed my confidence in human
-nature; and after that, I heard a world of discussions in this house,
+[[Nature|nature]]; and after that, I heard a world of discussions in this [[house]],
 which soured my spirits fresh; and my opinion after all is, that, as a
 safe and comfortable sweetener of the same, and as a pleasant guide
 through life, there’s nothing like a nutmeg-grater.’
@@ -107,7 +107,7 @@ her arms comfortably in her delight at this avowal, and patting her
 elbows.  ‘Such a short cut, an’t it?’
 
 ‘I’m not sure,’ said Mr. Britain, ‘that it’s what would be considered
-good philosophy.  I’ve my doubts about that; but it wears well, and saves
+good [[philosophy]].  I’ve my doubts about that; but it wears [[Well|well]], and saves
 a quantity of snarling, which the genuine article don’t always.’
 
 ‘See how you used to go on once, yourself, you know!’ said Clemency.
@@ -125,7 +125,7 @@ hugged herself, and said, ‘No, she didn’t suppose she had.’
 ‘Oh!  I dare say you’re right,’ said Clemency.  ‘I don’t pretend to none.
 I don’t want any.’
 
-Benjamin took his pipe from his lips, and laughed till the tears ran down
+Benjamin took his pipe from his lips, and laughed till the [[Tears|tears]] ran down
 his face.  ‘What a natural you are, Clemmy!’ he said, shaking his head,
 with an infinite relish of the joke, and wiping his eyes.  Clemency,
 without the smallest inclination to dispute it, did the like, and laughed
@@ -135,7 +135,7 @@ as heartily as he.
 creature in your way, so shake hands, Clem.  Whatever happens, I’ll
 always take notice of you, and be a friend to you.’
 
-‘Will you?’ returned Clemency.  ‘Well! that’s very good of you.’
+‘Will you?’ returned Clemency.  ‘[[Well]]! that’s very good of you.’
 
 ‘Yes, yes,’ said Mr. Britain, giving her his pipe to knock the ashes out
 of it; ‘I’ll stand by you.  Hark!  That’s a curious noise!’
@@ -145,7 +145,7 @@ of it; ‘I’ll stand by you.  Hark!  That’s a curious noise!’
 ‘A footstep outside.  Somebody dropping from the wall, it sounded like,’
 said Britain.  ‘Are they all abed up-stairs?’
 
-‘Yes, all abed by this time,’ she replied.
+‘Yes, all abed by this [[Time|time]],’ she replied.
 
 ‘Didn’t you hear anything?’
 

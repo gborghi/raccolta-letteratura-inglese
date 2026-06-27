@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 20 (part 4)"
+title: "[[Shirley]] — Chapter 20 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,19 +22,19 @@ tags:
 
 
 
-"Not an hour! You might almost as well have said not a day. They will
+"Not an hour! You might almost as [[Well|well]] have said not a day. They will
 
-have applied elsewhere by this time. Send a man instantly down to tell
+have applied elsewhere by this [[Time|time]]. Send a man instantly down to tell
 
-them that everything this house contains is at Mr. Moore's, Mr.
+them that everything this [[house]] contains is at Mr. Moore's, Mr.
 
 Helstone's, and the soldiers' service. Do that first."
 
 
 
-While the order was being executed, Shirley moved away from her friends,
+While the order was being executed, [[Shirley]] moved away from her friends,
 
-and stood at the hall-window, silent, unapproachable. When Mrs. Gill
+and stood at the hall-[[Window|window]], silent, unapproachable. When Mrs. Gill
 
 came back, she turned. The purple flush which painful excitement kindles
 
@@ -48,9 +48,9 @@ dark eye fired her glance.
 
 into the hay-carts, and driven down to the Hollow. If there does not
 
-happen to be much bread or much meat in the house, go to the butcher and
+happen to be much bread or much meat in the [[house]], go to the butcher and
 
-baker, and desire them to send what they have. But I will see for
+baker, and [[Desire|desire]] them to send what they have. But I will see for
 
 myself."
 
@@ -64,9 +64,9 @@ She moved off.
 
 Caroline to Mrs. Pryor. "Go upstairs, dear madam," she added
 
-affectionately, "and try to be as calm and easy as you can. The truth
+affectionately, "and try to be as calm and easy as you can. The [[Truth|truth]]
 
-is, Shirley will blame herself more than you before the day is over."
+is, [[Shirley]] will blame herself more than you before the day is over."
 
 
 
@@ -84,7 +84,7 @@ servants at Fieldhead was by no means numerous, and just now their
 
 mistress found plenty of occupation for all the hands at her command,
 
-and for her own also. The delicate good-nature and dexterous activity
+and for her own also. The delicate good-[[Nature|nature]] and dexterous activity
 
 which Caroline brought to the aid of the housekeeper and maids--all
 
@@ -92,13 +92,13 @@ somewhat scared by their lady's unwonted mood--did a world of good at
 
 once; it helped the assistants and appeased the directress. A chance
 
-glance and smile from Caroline moved Shirley to an answering smile
+glance and smile from Caroline moved [[Shirley]] to an answering smile
 
 directly. The former was carrying a heavy basket up the cellar stairs.
 
 
 
-"This is a shame!" cried Shirley, running to her. "It will strain your
+"This is a shame!" cried [[Shirley]], running to her. "It will strain your
 
 arm."
 
@@ -124,7 +124,7 @@ entered the yard and approached her ere she was aware of his presence.
 
 
 
-"I hope I see Miss Keeldar well this morning?" he said, examining with
+"I [[Hope|hope]] I see Miss Keeldar [[Well|well]] this morning?" he said, examining with
 
 rather significant scrutiny her still flushed face.
 
@@ -140,13 +140,13 @@ with more facility.
 
 
 
-"Well enough, if she be good enough," was the answer; "and so is Mr.
+"[[Well]] enough, if she be good enough," was the answer; "and so is Mr.
 
-Moore too, I dare say. To speak truth, I am not anxious about him; some
+Moore too, I dare say. To speak [[Truth|truth]], I am not anxious about him; some
 
 slight mischance would be only his just due. His conduct has been--we
 
-will say _strange_ just now, till we have time to characterize it by a
+will say _strange_ just now, till we have [[Time|time]] to characterize it by a
 
 more exact epithet. Meantime, may I ask what brings him here?"
 
@@ -184,7 +184,7 @@ Again he laughed, adding, "It is precisely as I conjectured."
 
 
 
-"You ought to be thankful," said Shirley, "and not mock me. What could I
+"You ought to be thankful," said [[Shirley]], "and not mock me. What could I
 
 do? How could I gauge your appetites or number your band? For aught I
 
@@ -198,7 +198,7 @@ suggests large ideas."
 
 "It appears so," remarked Moore, levelling another of his keen, quiet
 
-glances at the discomfited Shirley.--"Now," he continued, addressing the
+glances at the discomfited [[Shirley]].--"Now," he continued, addressing the
 
 carter, "I think you may take what remains to the Hollow. Your load will
 
@@ -206,7 +206,7 @@ be somewhat lighter than the one Miss Keeldar destined you to carry."
 
 
 
-As the vehicle rumbled out of the yard, Shirley, rallying her spirits,
+As the vehicle rumbled out of the yard, [[Shirley]], rallying her spirits,
 
 demanded what had become of the wounded.
 
@@ -242,7 +242,7 @@ retreat.
 
 He took his hat off, and did as he was bid, disclosing only a narrow
 
-slip of court-plaster. Caroline indicated, by a slight movement of the
+slip of [[Court|court]]-plaster. Caroline indicated, by a slight movement of the
 
 head, that she was satisfied, and disappeared within the clear obscure
 
@@ -254,6 +254,6 @@ of the interior.
 
 
 
-"By rumour, no doubt. But it is too good in her to trouble herself about
+"By rumour, no [[Doubt|doubt]]. But it is too good in her to trouble herself about
 
 you. For my part, it was of your victims I was thinking when I inquired

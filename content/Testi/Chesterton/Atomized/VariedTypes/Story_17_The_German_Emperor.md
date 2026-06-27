@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — The German Emperor"
+title: "[[VariedTypes]] — The German Emperor"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -40,15 +40,15 @@ was poetical; people assumed in consequence that he was unpractical;
 
 that he would plunge Europe into war, that he would try to annex France,
 
-that he would say he was the Emperor of Russia, that he would stand on
+that he would say he was the Emperor of [[Russia]], that he would stand on
 
 his head in the Reichstag, that he would become a pirate on the Spanish
 
 Main. Years upon years have passed; he has gone on making speeches, he
 
-has gone on talking about God and his sword, he has poured out an ever
+has gone on talking about God and his [[Sword|sword]], he has poured out an ever
 
-increased rhetoric and æstheticism. And yet all the time people have
+increased rhetoric and æstheticism. And yet all the [[Time|time]] people have
 
 slowly and surely realised that he knows what he is about, that he is
 
@@ -84,7 +84,7 @@ who has never existed at all cannot make a guess at the conduct of man
 
 who lives next door. It is idle to say that a man who has himself felt
 
-the mad longing under the mad moon for a vagabond life cannot know why
+the mad [[Longing|longing]] under the mad [[Moon|moon]] for a vagabond life cannot know why
 
 his son runs away to sea. It is idle to say that a man who has himself
 
@@ -100,9 +100,9 @@ into the middle of eternal life by a face in a crowd does not know why
 
 the poor marry young; that a man who found his path to all things kindly
 
-and pleasant blackened and barred suddenly by the body of a man does not
+and pleasant blackened and barred suddenly by the [[Body|body]] of a man does not
 
-know what it is to desire murder. It is idle, in short, for a man who
+know what it is to [[Desire|desire]] murder. It is idle, in short, for a man who
 
 has created men to say that he does not understand them. A man who is a
 
@@ -120,7 +120,7 @@ things less of a practical man he is also less of a poet.
 
 If Shakespeare really married a bad wife when he had conceived the
 
-character of Beatrice he ought to have been ashamed of himself: he had
+character of [[Beatrice]] he ought to have been ashamed of himself: he had
 
 failed not only in his life, he had failed in his art. If Balzac got
 
@@ -172,7 +172,7 @@ types or capacities in which he can appear. Every one of us, or almost
 
 every one of us, does in reality fulfil almost as many offices as
 
-Pooh-Bah. Almost every one of us is a ratepayer, an immortal soul, an
+Pooh-Bah. Almost every one of us is a ratepayer, an immortal [[Soul|soul]], an
 
 Englishman, a baptised person, a mammal, a minor poet, a juryman, a
 
@@ -188,7 +188,7 @@ shape of coins, and a blue income-tax paper tastefully arranged as a
 
 favour; or, again, if we appeared dressed as immortal souls, in a blue
 
-uniform with stars. It would be very exciting to dress up as Englishmen,
+uniform with [[Stars|stars]]. It would be very exciting to dress up as Englishmen,
 
 or to go to a fancy dress ball as Christians.
 
@@ -248,7 +248,7 @@ children. It is not so splendid or delightful as the appearance of a
 
 young clerk in an insurance office decorated with those three long
 
-crimson plumes which are the well-known insignia of a gentleman who is
+crimson plumes which are the [[Well|well]]-known insignia of a gentleman who is
 
 just engaged to be married. Nor can it compare with the look of a man
 
@@ -272,15 +272,15 @@ uniforms.
 
 Only one obvious point occurs to me to add. If the Kaiser has more than
 
-any other man the sense of the poetry of the ancient things, the sword,
+any other man the sense of the poetry of the ancient things, the [[Sword|sword]],
 
-the crown, the ship, the nation, he has the sense of the poetry of
+the [[Crown|crown]], the [[Ship|ship]], the nation, he has the sense of the poetry of
 
 modern things also. He has one sense, and it is even a joke against
 
-him. He feels the poetry of one thing that is more poetic than sword or
+him. He feels the poetry of one thing that is more poetic than [[Sword|sword]] or
 
-crown or ship or nation, the poetry of the telegram. No one ever sent a
+[[Crown|crown]] or [[Ship|ship]] or nation, the poetry of the telegram. No one ever sent a
 
 telegram who did not feel like a god. He is a god, for he is a minor
 

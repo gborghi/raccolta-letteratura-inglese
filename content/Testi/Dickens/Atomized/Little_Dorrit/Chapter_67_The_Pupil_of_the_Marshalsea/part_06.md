@@ -15,7 +15,7 @@ tags:
 
 
 ‘Yes!’ said she. ‘And it shows what notice father takes, though at his
-time of life, that he says to me this afternoon, which Happy Cottage
+[[Time|time]] of life, that he says to me this afternoon, which Happy Cottage
 knows I neither make it up nor any ways enlarge, “Mary, it’s much to
 be rejoiced in that Miss Dorrit is not on the spot to behold it.” Those
 were father’s words. Father’s own words was, “Much to be rejoiced in,
@@ -37,28 +37,28 @@ Little Dorrit, Little Dorrit. Again, for hours. Always Little Dorrit!
 
 Happily, if it ever had been so, it was over, and better over. Granted
 that she had loved him, and he had known it and had suffered himself
-to love her, what a road to have led her away upon--the road that would
+to [[Love|love]] her, what a [[Road|road]] to have led her away upon--the [[Road|road]] that would
 have brought her back to this miserable place! He ought to be much
 comforted by the reflection that she was quit of it forever; that she
 was, or would soon be, married (vague rumours of her father’s projects
 in that direction had reached Bleeding Heart Yard, with the news of her
-sister’s marriage); and that the Marshalsea gate had shut for ever on
-all those perplexed possibilities of a time that was gone.
+sister’s [[Marriage|marriage]]); and that the Marshalsea gate had shut for ever on
+all those perplexed possibilities of a [[Time|time]] that was gone.
 
 Dear Little Dorrit.
 
 Looking back upon his own poor story, she was its vanishing-point. Every
-thing in its perspective led to her innocent figure. He had travelled
+thing in its perspective led to her [[Innocent|innocent]] figure. He had travelled
 thousands of miles towards it; previous unquiet hopes and doubts had
 worked themselves out before it; it was the centre of the interest
 of his life; it was the termination of everything that was good and
 pleasant in it; beyond, there was nothing but mere waste and darkened
 sky.
 
-As ill at ease as on the first night of his lying down to sleep within
-those dreary walls, he wore the night out with such thoughts. What time
+As ill at ease as on the first [[Night|night]] of his lying down to [[Sleep|sleep]] within
+those dreary walls, he wore the [[Night|night]] out with such thoughts. What [[Time|time]]
 Young John lay wrapt in peaceful slumber, after composing and arranging
-the following monumental inscription on his pillow--
+the following monumental [[Inscription|inscription]] on his pillow--
 
 
                          STRANGER!

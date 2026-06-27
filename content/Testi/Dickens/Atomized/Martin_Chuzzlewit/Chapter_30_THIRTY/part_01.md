@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 30: THIRTY (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 30: THIRTY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,16 +21,16 @@ MR PECKNIFF WAS A SPECIAL HAND AT A TRIPLE-BOB-MAJOR
 
 
 As the surgeon’s first care after amputating a limb, is to take up the
-arteries the cruel knife has severed, so it is the duty of this history,
+arteries the cruel knife has severed, so it is the duty of this [[history]],
 which in its remorseless course has cut from the Pecksniffian trunk its
-right arm, Mercy, to look to the parent stem, and see how in all its
+right arm, [[Mercy]], to look to the parent stem, and see how in all its
 various ramifications it got on without her.
 
 And first of Mr Pecksniff it may be observed, that having provided for
 his youngest daughter that choicest of blessings, a tender and indulgent
 husband; and having gratified the dearest wish of his parental heart by
 establishing her in life so happily; he renewed his youth, and spreading
-the plumage of his own bright conscience, felt himself equal to all
+the plumage of his own bright [[Conscience|conscience]], felt himself equal to all
 kinds of flights. It is customary with fathers in stage-plays, after
 giving their daughters to the men of their hearts, to congratulate
 themselves on having no other business on their hands but to die
@@ -40,22 +40,22 @@ appeared to think that his immediate business was to live; and having
 deprived himself of one comfort, to surround himself with others.
 
 But however much inclined the good man was to be jocose and playful, and
-in the garden of his fancy to disport himself (if one may say so) like
+in the [[Garden|garden]] of his fancy to disport himself (if one may say so) like
 an architectural kitten, he had one impediment constantly opposed to
 him. The gentle Cherry, stung by a sense of slight and injury, which
 far from softening down or wearing out, rankled and festered in her
 heart--the gentle Cherry was in flat rebellion. She waged fierce war
 against her dear papa, she led her parent what is usually called, for
 want of a better figure of speech, the life of a dog. But never did that
-dog live, in kennel, stable-yard, or house, whose life was half as hard
-as Mr Pecksniff’s with his gentle child.
+dog live, in kennel, stable-yard, or [[house]], whose life was half as hard
+as Mr Pecksniff’s with his gentle [[Child|child]].
 
 The father and daughter were sitting at their breakfast. Tom had
-retired, and they were alone. Mr Pecksniff frowned at first; but having
-cleared his brow, looked stealthily at his child. Her nose was very red
+retired, and they were [[Alone|alone]]. Mr Pecksniff frowned at first; but having
+cleared his brow, looked stealthily at his [[Child|child]]. Her nose was very red
 indeed, and screwed up tight, with hostile preparation.
 
-‘Cherry,’ cried Mr Pecksniff, ‘what is amiss between us? My child, why
+‘Cherry,’ cried Mr Pecksniff, ‘what is amiss between us? My [[Child|child]], why
 are we disunited?’
 
 Miss Pecksniff’s answer was scarcely a response to this gush of
@@ -67,15 +67,15 @@ affection, for it was simply, ‘Bother, Pa!’
 this. I know what it means, and what its value is.’
 
 ‘This is hard!’ cried Mr Pecksniff, addressing his breakfast-cup. ‘This
-is very hard! She is my child. I carried her in my arms when she wore
+is very hard! She is my [[Child|child]]. I carried her in my arms when she wore
 shapeless worsted shoes--I might say, mufflers--many years ago!’
 
 ‘You needn’t taunt me with that, Pa,’ retorted Cherry, with a spiteful
 look. ‘I am not so many years older than my sister, either, though she
 IS married to your friend!’
 
-‘Ah, human nature, human nature! Poor human nature!’ said Mr Pecksniff,
-shaking his head at human nature, as if he didn’t belong to it. ‘To
+‘Ah, human [[Nature|nature]], human [[Nature|nature]]! Poor human [[Nature|nature]]!’ said Mr Pecksniff,
+shaking his head at human [[Nature|nature]], as if he didn’t belong to it. ‘To
 think that this discord should arise from such a cause! oh dear, oh
 dear!’
 
@@ -97,11 +97,11 @@ that.’
 
 His daughter answered with a scornful laugh.
 
-‘And since we have come to an explanation, Charity,’ said Mr Pecksniff,
-rolling his head portentously, ‘let me tell you that I won’t allow it.
+‘And since we have come to an explanation, [[Charity]],’ said Mr Pecksniff,
+[[rolling]] his head portentously, ‘let me tell you that I won’t allow it.
 None of your nonsense, Miss! I won’t permit it to be done.’
 
-‘I shall do,’ said Charity, rocking her chair backwards and forwards,
+‘I shall do,’ said [[Charity]], rocking her chair backwards and forwards,
 and raising her voice to a high pitch, ‘I shall do, Pa, what I please
 and what I have done. I am not going to be crushed in everything, depend
 upon it. I’ve been more shamefully used than anybody ever was in
@@ -110,7 +110,7 @@ treatment from you, I know. But I don’t care for that. No, I don’t!’
 
 Mr Pecksniff was made so desperate by the loud tone in which she spoke,
 that, after looking about him in frantic uncertainty for some means of
-softening it, he rose and shook her until the ornamental bow of hair
+softening it, he [[Rose|rose]] and shook her until the ornamental bow of hair
 upon her head nodded like a plume. She was so very much astonished by
 this assault, that it really had the desired effect.
 
@@ -126,7 +126,7 @@ hands; ‘and oh, good gracious, that I should live to be shook!’
 
 ‘You’ll live to be shaken again,’ returned her parent, ‘if you drive
 me to that means of maintaining the decorum of this humble roof. You
-surprise me. I wonder you have not more spirit. If Mr Jonas didn’t care
+surprise me. I [[Wonder|wonder]] you have not more spirit. If Mr Jonas didn’t care
 for you, how could you wish to have him?’
 
 ‘I wish to have him!’ exclaimed Cherry. ‘I wish to have him, Pa!’

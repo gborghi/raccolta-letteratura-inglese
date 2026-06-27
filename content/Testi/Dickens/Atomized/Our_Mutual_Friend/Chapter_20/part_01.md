@@ -22,7 +22,7 @@ TWO NEW SERVANTS
 Mr and Mrs Boffin sat after breakfast, in the Bower, a prey to
 prosperity. Mr Boffin’s face denoted Care and Complication. Many
 disordered papers were before him, and he looked at them about as
-hopefully as an innocent civilian might look at a crowd of troops whom
+hopefully as an [[Innocent|innocent]] civilian might look at a crowd of troops whom
 he was required at five minutes’ notice to manoeuvre and review. He had
 been engaged in some attempts to make notes of these papers; but being
 troubled (as men of his stamp often are) with an exceedingly distrustful
@@ -41,7 +41,7 @@ prominent and fixed, and his breathing was stertorous, when, to the
 great relief of Mrs Boffin, who observed these symptoms with alarm, the
 yard bell rang.
 
-‘Who’s that, I wonder!’ said Mrs Boffin.
+‘Who’s that, I [[Wonder|wonder]]!’ said Mrs Boffin.
 
 Mr Boffin drew a long breath, laid down his pen, looked at his notes
 as doubting whether he had the pleasure of their acquaintance, and
@@ -57,11 +57,11 @@ dear. Yes. Ask him to come in.’
 Mr Rokesmith appeared.
 
 ‘Sit down, sir,’ said Mr Boffin, shaking hands with him. ‘Mrs Boffin
-you’re already acquainted with. Well, sir, I am rather unprepared to see
-you, for, to tell you the truth, I’ve been so busy with one thing and
-another, that I’ve not had time to turn your offer over.’
+you’re already acquainted with. [[Well]], sir, I am rather unprepared to see
+you, for, to tell you the [[Truth|truth]], I’ve been so busy with one thing and
+another, that I’ve not had [[Time|time]] to turn your offer over.’
 
-‘That’s apology for both of us: for Mr Boffin, and for me as well,’ said
+‘That’s apology for both of us: for Mr Boffin, and for me as [[Well|well]],’ said
 the smiling Mrs Boffin. ‘But Lor! we can talk it over now; can’t us?’
 
 Mr Rokesmith bowed, thanked her, and said he hoped so.
@@ -71,7 +71,7 @@ Secretary that you named; wasn’t it?’
 
 ‘I said Secretary,’ assented Mr Rokesmith.
 
-‘It rather puzzled me at the time,’ said Mr Boffin, ‘and it rather
+‘It rather puzzled me at the [[Time|time]],’ said Mr Boffin, ‘and it rather
 puzzled me and Mrs Boffin when we spoke of it afterwards, because (not
 to make a mystery of our belief) we have always believed a Secretary to
 be a piece of furniture, mostly of mahogany, lined with green baize or
@@ -83,7 +83,7 @@ of Steward.
 
 ‘Why, as to Steward, you see,’ returned Mr Boffin, with his hand still
 to his chin, ‘the odds are that Mrs Boffin and me may never go upon the
-water. Being both bad sailors, we should want a Steward if we did; but
+[[Water|water]]. Being both bad sailors, we should want a Steward if we did; but
 there’s generally one provided.’
 
 Mr Rokesmith again explained; defining the duties he sought to
@@ -119,17 +119,17 @@ a loop.
 about; will you be so good?’
 
 John Rokesmith read his abstracts aloud. They were all about the new
-house. Decorator’s estimate, so much. Furniture estimate, so much.
+[[house]]. Decorator’s estimate, so much. Furniture estimate, so much.
 Estimate for furniture of offices, so much. Coach-maker’s estimate, so
-much. Horse-dealer’s estimate, so much. Harness-maker’s estimate, so
+much. [[Horse]]-dealer’s estimate, so much. Harness-maker’s estimate, so
 much. Goldsmith’s estimate, so much. Total, so very much. Then came
 correspondence. Acceptance of Mr Boffin’s offer of such a date, and to
 such an effect. Rejection of Mr Boffin’s proposal of such a date and to
 such an effect. Concerning Mr Boffin’s scheme of such another date to
 such another effect. All compact and methodical.
 
-‘Apple-pie order!’ said Mr Boffin, after checking off each inscription
-with his hand, like a man beating time. ‘And whatever you do with your
+‘Apple-pie order!’ said Mr Boffin, after checking off each [[Inscription|inscription]]
+with his hand, like a man beating [[Time|time]]. ‘And whatever you do with your
 ink, I can’t think, for you’re as clean as a whistle after it. Now, as
 to a letter. Let’s,’ said Mr Boffin, rubbing his hands in his pleasantly
 childish admiration, ‘let’s try a letter next.’

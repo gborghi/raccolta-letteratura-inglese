@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 39 (part 1)"
+title: "[[Great Expectations]] — Chapter 39 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -20,55 +20,55 @@ Chapter XXXIX.
 I was three-and-twenty years of age. Not another word had I heard to
 enlighten me on the subject of my expectations, and my twenty-third
 birthday was a week gone. We had left Barnard’s Inn more than a year,
-and lived in the Temple. Our chambers were in Garden-court, down by the
-river.
+and lived in the Temple. Our chambers were in [[Garden]]-[[Court|court]], down by the
+[[River|river]].
 
-Mr. Pocket and I had for some time parted company as to our original
+Mr. Pocket and I had for some [[Time|time]] parted company as to our original
 relations, though we continued on the best terms. Notwithstanding my
-inability to settle to anything,—which I hope arose out of the restless
+inability to settle to anything,—which I [[Hope|hope]] arose out of the restless
 and incomplete tenure on which I held my means,—I had a taste for
 reading, and read regularly so many hours a day. That matter of
 Herbert’s was still progressing, and everything with me was as I have
 brought it down to the close of the last preceding chapter.
 
-Business had taken Herbert on a journey to Marseilles. I was alone, and
-had a dull sense of being alone. Dispirited and anxious, long hoping
+Business had taken Herbert on a [[Journey|journey]] to Marseilles. I was [[Alone|alone]], and
+had a dull sense of being [[Alone|alone]]. Dispirited and anxious, long hoping
 that to-morrow or next week would clear my way, and long disappointed,
 I sadly missed the cheerful face and ready response of my friend.
 
 It was wretched weather; stormy and wet, stormy and wet; and mud, mud,
 mud, deep in all the streets. Day after day, a vast heavy veil had been
-driving over London from the East, and it drove still, as if in the
-East there were an eternity of cloud and wind. So furious had been the
+driving over [[London]] from the East, and it drove still, as if in the
+East there were an [[Eternity|eternity]] of cloud and [[Wind|wind]]. So furious had been the
 gusts, that high buildings in town had had the lead stripped off their
 roofs; and in the country, trees had been torn up, and sails of
 windmills carried away; and gloomy accounts had come in from the coast,
-of shipwreck and death. Violent blasts of rain had accompanied these
-rages of wind, and the day just closed as I sat down to read had been
+of shipwreck and [[Death|death]]. Violent blasts of rain had accompanied these
+rages of [[Wind|wind]], and the day just closed as I sat down to read had been
 the worst of all.
 
-Alterations have been made in that part of the Temple since that time,
+Alterations have been made in that part of the Temple since that [[Time|time]],
 and it has not now so lonely a character as it had then, nor is it so
-exposed to the river. We lived at the top of the last house, and the
-wind rushing up the river shook the house that night, like discharges
+exposed to the [[River|river]]. We lived at the top of the last [[house]], and the
+[[Wind|wind]] rushing up the [[River|river]] shook the [[house]] that [[Night|night]], like discharges
 of cannon, or breakings of a sea. When the rain came with it and dashed
 against the windows, I thought, raising my eyes to them as they rocked,
-that I might have fancied myself in a storm-beaten lighthouse.
-Occasionally, the smoke came rolling down the chimney as though it
-could not bear to go out into such a night; and when I set the doors
+that I might have fancied myself in a [[Storm|storm]]-beaten lighthouse.
+Occasionally, the smoke came [[rolling]] down the chimney as though it
+could not bear to go out into such a [[Night|night]]; and when I set the doors
 open and looked down the staircase, the staircase lamps were blown out;
 and when I shaded my face with my hands and looked through the black
 windows (opening them ever so little was out of the question in the
-teeth of such wind and rain), I saw that the lamps in the court were
+teeth of such [[Wind|wind]] and rain), I saw that the lamps in the [[Court|court]] were
 blown out, and that the lamps on the bridges and the shore were
-shuddering, and that the coal-fires in barges on the river were being
-carried away before the wind like red-hot splashes in the rain.
+shuddering, and that the coal-fires in barges on the [[River|river]] were being
+carried away before the [[Wind|wind]] like red-hot splashes in the rain.
 
 I read with my watch upon the table, purposing to close my book at
-eleven o’clock. As I shut it, Saint Paul’s, and all the many
-church-clocks in the City—some leading, some accompanying, some
-following—struck that hour. The sound was curiously flawed by the wind;
-and I was listening, and thinking how the wind assailed and tore it,
+eleven o’[[Clock|clock]]. As I shut it, Saint Paul’s, and all the many
+church-clocks in the [[City]]—some leading, some accompanying, some
+following—struck that hour. The sound was curiously flawed by the [[Wind|wind]];
+and I was listening, and thinking how the [[Wind|wind]] assailed and tore it,
 when I heard a footstep on the stair.
 
 What nervous folly made me start, and awfully connect it with the

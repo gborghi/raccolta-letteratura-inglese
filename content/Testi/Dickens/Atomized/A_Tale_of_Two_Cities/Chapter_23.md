@@ -18,35 +18,35 @@ CHAPTER XVI.
 Still Knitting
 
 
-Madame Defarge and monsieur her husband returned amicably to the
+[[Madame Defarge]] and monsieur her husband returned amicably to the
 bosom of Saint Antoine, while a speck in a blue cap toiled through the
-darkness, and through the dust, and down the weary miles of avenue by
+darkness, and through the [[Dust|dust]], and down the weary miles of avenue by
 the wayside, slowly tending towards that point of the compass where
-the chateau of Monsieur the Marquis, now in his grave, listened to
+the chateau of Monsieur the Marquis, now in his [[Grave|grave]], listened to
 the whispering trees. Such ample leisure had the stone faces, now,
 for listening to the trees and to the fountain, that the few village
-scarecrows who, in their quest for herbs to eat and fragments of dead
+scarecrows who, in their [[Quest|quest]] for herbs to eat and fragments of dead
 stick to burn, strayed within sight of the great stone courtyard and
 terrace staircase, had it borne in upon their starved fancy that
 the expression of the faces was altered. A rumour just lived in the
 village--had a faint and bare existence there, as its people had--that
-when the knife struck home, the faces changed, from faces of pride to
-faces of anger and pain; also, that when that dangling figure was hauled
+when the knife struck [[Home|home]], the faces changed, from faces of [[Pride|pride]] to
+faces of anger and [[Pain|pain]]; also, that when that dangling figure was hauled
 up forty feet above the fountain, they changed again, and bore a cruel
 look of being avenged, which they would henceforth bear for ever. In the
-stone face over the great window of the bed-chamber where the murder
+stone face over the great [[Window|window]] of the bed-chamber where the murder
 was done, two fine dints were pointed out in the sculptured nose, which
 everybody recognised, and which nobody had seen of old; and on the
 scarce occasions when two or three ragged peasants emerged from the
 crowd to take a hurried peep at Monsieur the Marquis petrified, a
 skinny finger would not have pointed to it for a minute, before they all
-started away among the moss and leaves, like the more fortunate hares
+started away among the moss and [[Leaves|leaves]], like the more fortunate hares
 who could find a living there.
 
 Chateau and hut, stone face and dangling figure, the red stain on the
-stone floor, and the pure water in the village well--thousands of acres
+stone floor, and the pure [[Water|water]] in the village [[Well|well]]--thousands of acres
 of land--a whole province of France--all France itself--lay under the
-night sky, concentrated into a faint hair-breadth line. So does a whole
+[[Night|night]] sky, concentrated into a faint hair-breadth line. So does a whole
 world, with all its greatnesses and littlenesses, lie in a twinkling
 star. And as mere human knowledge can split a ray of light and analyse
 the manner of its composition, so, sublimer intelligences may read in
@@ -54,8 +54,8 @@ the feeble shining of this earth of ours, every thought and act, every
 vice and virtue, of every responsible creature on it.
 
 The Defarges, husband and wife, came lumbering under the starlight,
-in their public vehicle, to that gate of Paris whereunto their
-journey naturally tended. There was the usual stoppage at the barrier
+in their public vehicle, to that gate of [[Paris]] whereunto their
+[[Journey|journey]] naturally tended. There was the usual stoppage at the barrier
 guardhouse, and the usual lanterns came glancing forth for the usual
 examination and inquiry. Monsieur Defarge alighted; knowing one or two
 of the soldiery there, and one of the police. The latter he was intimate
@@ -64,15 +64,15 @@ with, and affectionately embraced.
 When Saint Antoine had again enfolded the Defarges in his dusky wings,
 and they, having finally alighted near the Saint’s boundaries, were
 picking their way on foot through the black mud and offal of his
-streets, Madame Defarge spoke to her husband:
+streets, [[Madame Defarge]] spoke to her husband:
 
 “Say then, my friend; what did Jacques of the police tell thee?”
 
-“Very little to-night, but all he knows. There is another spy
+“Very little to-[[Night|night]], but all he knows. There is another spy
 commissioned for our quarter. There may be many more, for all that he
 can say, but he knows of one.”
 
-“Eh well!” said Madame Defarge, raising her eyebrows with a cool
+“Eh [[Well|well]]!” said [[Madame Defarge]], raising her eyebrows with a cool
 business air. “It is necessary to register him. How do they call that
 man?”
 
@@ -97,23 +97,23 @@ thin, long, and sallow; nose aquiline, but not straight, having a
 peculiar inclination towards the left cheek; expression, therefore,
 sinister.”
 
-“Eh my faith. It is a portrait!” said madame, laughing. “He shall be
+“Eh my [[Faith|faith]]. It is a portrait!” said madame, laughing. “He shall be
 registered to-morrow.”
 
 They turned into the wine-shop, which was closed (for it was midnight),
-and where Madame Defarge immediately took her post at her desk, counted
+and where [[Madame Defarge]] immediately took her post at her desk, counted
 the small moneys that had been taken during her absence, examined the
 stock, went through the entries in the book, made other entries of
 her own, checked the serving man in every possible way, and finally
 dismissed him to bed. Then she turned out the contents of the bowl
-of money for the second time, and began knotting them up in her
+of money for the second [[Time|time]], and began knotting them up in her
 handkerchief, in a chain of separate knots, for safe keeping through the
-night. All this while, Defarge, with his pipe in his mouth, walked
+[[Night|night]]. All this while, Defarge, with his pipe in his mouth, walked
 up and down, complacently admiring, but never interfering; in which
 condition, indeed, as to the business and his domestic affairs, he
 walked up and down through life.
 
-The night was hot, and the shop, close shut and surrounded by so foul a
+The [[Night|night]] was hot, and the shop, close shut and surrounded by so foul a
 neighbourhood, was ill-smelling. Monsieur Defarge’s olfactory sense was
 by no means delicate, but the stock of wine smelt much stronger than
 it ever tasted, and so did the stock of rum and brandy and aniseed. He
@@ -131,28 +131,28 @@ him. “Oh, the men, the men!”
 “But my dear!” began Defarge.
 
 “But my dear!” repeated madame, nodding firmly; “but my dear! You are
-faint of heart to-night, my dear!”
+faint of heart to-[[Night|night]], my dear!”
 
-“Well, then,” said Defarge, as if a thought were wrung out of his
-breast, “it _is_ a long time.”
+“[[Well]], then,” said Defarge, as if a thought were wrung out of his
+breast, “it _is_ a long [[Time|time]].”
 
-“It is a long time,” repeated his wife; “and when is it not a long time?
-Vengeance and retribution require a long time; it is the rule.”
+“It is a long [[Time|time]],” repeated his wife; “and when is it not a long [[Time|time]]?
+Vengeance and retribution require a long [[Time|time]]; it is the rule.”
 
-“It does not take a long time to strike a man with Lightning,” said
+“It does not take a long [[Time|time]] to strike a man with [[Lightning]],” said
 Defarge.
 
 “How long,” demanded madame, composedly, “does it take to make and store
-the lightning? Tell me.”
+the [[Lightning|lightning]]? Tell me.”
 
 Defarge raised his head thoughtfully, as if there were something in that
 too.
 
-“It does not take a long time,” said madame, “for an earthquake to
-swallow a town. Eh well! Tell me how long it takes to prepare the
+“It does not take a long [[Time|time]],” said madame, “for an earthquake to
+[[Swallow|swallow]] a town. Eh [[Well|well]]! Tell me how long it takes to prepare the
 earthquake?”
 
-“A long time, I suppose,” said Defarge.
+“A long [[Time|time]], I suppose,” said Defarge.
 
 “But when it is ready, it takes place, and grinds to pieces everything
 before it. In the meantime, it is always preparing, though it is not
@@ -161,7 +161,7 @@ seen or heard. That is your consolation. Keep it.”
 She tied a knot with flashing eyes, as if it throttled a foe.
 
 “I tell thee,” said madame, extending her right hand, for emphasis,
-“that although it is a long time on the road, it is on the road and
+“that although it is a long [[Time|time]] on the [[Road|road]], it is on the [[Road|road]] and
 coming. I tell thee it never retreats, and never stops. I tell thee it
 is always advancing. Look around and consider the lives of all the world
 that we know, consider the faces of all the world that we know, consider
@@ -172,19 +172,19 @@ you.”
 “My brave wife,” returned Defarge, standing before her with his head
 a little bent, and his hands clasped at his back, like a docile and
 attentive pupil before his catechist, “I do not question all this. But
-it has lasted a long time, and it is possible--you know well, my wife,
+it has lasted a long [[Time|time]], and it is possible--you know [[Well|well]], my wife,
 it is possible--that it may not come, during our lives.”
 
-“Eh well! How then?” demanded madame, tying another knot, as if there
+“Eh [[Well|well]]! How then?” demanded madame, tying another knot, as if there
 were another enemy strangled.
 
-“Well!” said Defarge, with a half complaining and half apologetic shrug.
+“[[Well]]!” said Defarge, with a half complaining and half apologetic shrug.
 “We shall not see the triumph.”
 
 “We shall have helped it,” returned madame, with her extended hand in
 strong action. “Nothing that we do, is done in vain. I believe, with all
-my soul, that we shall see the triumph. But even if not, even if I knew
-certainly not, show me the neck of an aristocrat and tyrant, and still I
+my [[Soul|soul]], that we shall see the triumph. But even if not, even if I knew
+certainly not, show me the neck of an [[aristocrat]] and [[Tyrant|tyrant]], and still I
 would--”
 
 Then madame, with her teeth set, tied a very terrible knot indeed.
@@ -194,32 +194,32 @@ cowardice; “I too, my dear, will stop at nothing.”
 
 “Yes! But it is your weakness that you sometimes need to see your victim
 and your opportunity, to sustain you. Sustain yourself without that.
-When the time comes, let loose a tiger and a devil; but wait for the
-time with the tiger and the devil chained--not shown--yet always ready.”
+When the [[Time|time]] comes, let loose a tiger and a devil; but wait for the
+[[Time|time]] with the tiger and the devil chained--not shown--yet always ready.”
 
 Madame enforced the conclusion of this piece of advice by striking her
 little counter with her chain of money as if she knocked its brains
 out, and then gathering the heavy handkerchief under her arm in a serene
-manner, and observing that it was time to go to bed.
+manner, and observing that it was [[Time|time]] to go to bed.
 
 Next noontide saw the admirable woman in her usual place in the
-wine-shop, knitting away assiduously. A rose lay beside her, and if she
+wine-shop, knitting away assiduously. A [[Rose|rose]] lay beside her, and if she
 now and then glanced at the flower, it was with no infraction of her
 usual preoccupied air. There were a few customers, drinking or not
 drinking, standing or seated, sprinkled about. The day was very hot,
 and heaps of flies, who were extending their inquisitive and adventurous
 perquisitions into all the glutinous little glasses near madame, fell
-dead at the bottom. Their decease made no impression on the other flies
+dead at the [[Bottom|bottom]]. Their decease made no impression on the other flies
 out promenading, who looked at them in the coolest manner (as if they
 themselves were elephants, or something as far removed), until they met
 the same fate. Curious to consider how heedless flies are!--perhaps they
-thought as much at Court that sunny summer day.
+thought as much at [[Court]] that sunny [[Summer|summer]] day.
 
-A figure entering at the door threw a shadow on Madame Defarge which she
+A figure entering at the door threw a [[Shadow|shadow]] on [[Madame Defarge]] which she
 felt to be a new one. She laid down her knitting, and began to pin her
-rose in her head-dress, before she looked at the figure.
+[[Rose|rose]] in her head-dress, before she looked at the figure.
 
-It was curious. The moment Madame Defarge took up the rose, the
+It was curious. The moment [[Madame Defarge]] took up the [[Rose|rose]], the
 customers ceased talking, and began gradually to drop out of the
 wine-shop.
 
@@ -235,13 +235,13 @@ peculiar inclination towards the left cheek which imparts a sinister
 expression! Good day, one and all!”
 
 “Have the goodness to give me a little glass of old cognac, and a
-mouthful of cool fresh water, madame.”
+mouthful of cool fresh [[Water|water]], madame.”
 
 Madame complied with a polite air.
 
 “Marvellous cognac this, madame!”
 
-It was the first time it had ever been so complimented, and Madame
+It was the first [[Time|time]] it had ever been so complimented, and Madame
 Defarge knew enough of its antecedents to know better. She said,
 however, that the cognac was flattered, and took up her knitting. The
 visitor watched her fingers for a few moments, and took the opportunity
@@ -262,19 +262,19 @@ fingers moved nimbly.
 
 “Not for use?”
 
-“That depends. I may find a use for it one day. If I do--Well,” said
+“That depends. I may find a use for it one day. If I do--[[Well]],” said
 madame, drawing a breath and nodding her head with a stern kind of
 coquetry, “I’ll use it!”
 
 It was remarkable; but, the taste of Saint Antoine seemed to be
-decidedly opposed to a rose on the head-dress of Madame Defarge. Two
+decidedly opposed to a [[Rose|rose]] on the head-dress of [[Madame Defarge]]. Two
 men had entered separately, and had been about to order drink, when,
 catching sight of that novelty, they faltered, made a pretence of
 looking about as if for some friend who was not there, and went away.
 Nor, of those who had been there when this visitor entered, was there
 one left. They had all dropped off. The spy had kept his eyes open,
 but had been able to detect no sign. They had lounged away in a
-poverty-stricken, purposeless, accidental manner, quite natural and
+[[Poverty|poverty]]-stricken, purposeless, accidental manner, quite natural and
 unimpeachable.
 
 “_John_,” thought madame, checking off her work as her fingers knitted,
@@ -304,7 +304,7 @@ Of course.”
 “_I_ think?” returned madame, in a high voice. “I and my husband have
 enough to do to keep this wine-shop open, without thinking. All we
 think, here, is how to live. That is the subject _we_ think of, and
-it gives us, from morning to night, enough to think about, without
+it gives us, from morning to [[Night|night]], enough to think about, without
 embarrassing our heads concerning others. _I_ think for others? No, no.”
 
 The spy, who was there to pick up any crumbs he could find or make, did
@@ -315,7 +315,7 @@ Defarge’s little counter, and occasionally sipping his cognac.
 “A bad business this, madame, of Gaspard’s execution. Ah! the poor
 Gaspard!” With a sigh of great compassion.
 
-“My faith!” returned madame, coolly and lightly, “if people use knives
+“My [[Faith|faith]]!” returned madame, coolly and lightly, “if people use knives
 for such purposes, they have to pay for it. He knew beforehand what the
 price of his luxury was; he has paid the price.”
 
@@ -329,7 +329,7 @@ fellow? Between ourselves.”
 
 “Is there not?”
 
-“--Here is my husband!” said Madame Defarge.
+“--Here is my husband!” said [[Madame Defarge]].
 
 As the keeper of the wine-shop entered at the door, the spy saluted
 him by touching his hat, and saying, with an engaging smile, “Good day,
@@ -339,7 +339,7 @@ Jacques!” Defarge stopped short, and stared at him.
 confidence, or quite so easy a smile under the stare.
 
 “You deceive yourself, monsieur,” returned the keeper of the wine-shop.
-“You mistake me for another. That is not my name. I am Ernest Defarge.”
+“You mistake me for another. That is not my name. I am [[Ernest Defarge]].”
 
 “It is all the same,” said the spy, airily, but discomfited too: “good
 day!”
@@ -347,7 +347,7 @@ day!”
 “Good day!” answered Defarge, drily.
 
 “I was saying to madame, with whom I had the pleasure of chatting when
-you entered, that they tell me there is--and no wonder!--much sympathy
+you entered, that they tell me there is--and no [[Wonder|wonder]]!--much sympathy
 and anger in Saint Antoine, touching the unhappy fate of poor Gaspard.”
 
 “No one has told me so,” said Defarge, shaking his head. “I know nothing
@@ -358,27 +358,27 @@ hand on the back of his wife’s chair, looking over that barrier at the
 person to whom they were both opposed, and whom either of them would
 have shot with the greatest satisfaction.
 
-The spy, well used to his business, did not change his unconscious
+The spy, [[Well|well]] used to his business, did not change his unconscious
 attitude, but drained his little glass of cognac, took a sip of fresh
-water, and asked for another glass of cognac. Madame Defarge poured it
-out for him, took to her knitting again, and hummed a little song over
+[[Water|water]], and asked for another glass of cognac. [[Madame Defarge]] poured it
+out for him, took to her knitting again, and hummed a little [[Song|song]] over
 it.
 
-“You seem to know this quarter well; that is to say, better than I do?”
+“You seem to know this quarter [[Well|well]]; that is to say, better than I do?”
  observed Defarge.
 
-“Not at all, but I hope to know it better. I am so profoundly interested
+“Not at all, but I [[Hope|hope]] to know it better. I am so profoundly interested
 in its miserable inhabitants.”
 
 “Hah!” muttered Defarge.
 
 “The pleasure of conversing with you, Monsieur Defarge, recalls to me,”
- pursued the spy, “that I have the honour of cherishing some interesting
+ pursued the spy, “that I have the [[Honour|honour]] of cherishing some interesting
 associations with your name.”
 
 “Indeed!” said Defarge, with much indifference.
 
-“Yes, indeed. When Doctor Manette was released, you, his old domestic,
+“Yes, indeed. When [[Doctor Manette]] was released, you, his old domestic,
 had the charge of him, I know. He was delivered to you. You see I am
 informed of the circumstances?”
 
@@ -403,9 +403,9 @@ Manette and his daughter, in England.”
 “No,” said Defarge.
 
 “In effect,” madame struck in, looking up from her work and her little
-song, “we never hear about them. We received the news of their safe
+[[Song|song]], “we never hear about them. We received the news of their safe
 arrival, and perhaps another letter, or perhaps two; but, since then,
-they have gradually taken their road in life--we, ours--and we have held
+they have gradually taken their [[Road|road]] in life--we, ours--and we have held
 no correspondence.”
 
 “Perfectly so, madame,” replied the spy. “She is going to be married.”
@@ -428,9 +428,9 @@ poor Gaspard! It was cruel, cruel!), it is a curious thing that she is
 going to marry the nephew of Monsieur the Marquis, for whom Gaspard
 was exalted to that height of so many feet; in other words, the present
 Marquis. But he lives unknown in England, he is no Marquis there; he is
-Mr. Charles Darnay. D’Aulnais is the name of his mother’s family.”
+Mr. [[Charles Darnay]]. D’Aulnais is the name of his mother’s family.”
 
-Madame Defarge knitted steadily, but the intelligence had a palpable
+[[Madame Defarge]] knitted steadily, but the intelligence had a palpable
 effect upon her husband. Do what he would, behind the little counter,
 as to the striking of a light and the lighting of his pipe, he was
 troubled, and his hand was not trustworthy. The spy would have been no
@@ -440,7 +440,7 @@ Having made, at least, this one hit, whatever it might prove to be
 worth, and no customers coming in to help him to any other, Mr. Barsad
 paid for what he had drunk, and took his leave: taking occasion to say,
 in a genteel manner, before he departed, that he looked forward to the
-pleasure of seeing Monsieur and Madame Defarge again. For some minutes
+pleasure of seeing Monsieur and [[Madame Defarge]] again. For some minutes
 after he had emerged into the outer presence of Saint Antoine, the
 husband and wife remained exactly as he had left them, lest he should
 come back.
@@ -456,10 +456,10 @@ is probably false. But it may be true.”
 
 “If it is?” repeated his wife.
 
-“--And if it does come, while we live to see it triumph--I hope, for her
+“--And if it does come, while we live to see it triumph--I [[Hope|hope]], for her
 sake, Destiny will keep her husband out of France.”
 
-“Her husband’s destiny,” said Madame Defarge, with her usual composure,
+“Her husband’s destiny,” said [[Madame Defarge]], with her usual composure,
 “will take him where he is to go, and will lead him to the end that is
 to end him. That is all I know.”
 
@@ -474,18 +474,18 @@ madame. “I have them both here, of a certainty; and they are both here
 for their merits; that is enough.”
 
 She rolled up her knitting when she had said those words, and presently
-took the rose out of the handkerchief that was wound about her head.
+took the [[Rose|rose]] out of the handkerchief that was wound about her head.
 Either Saint Antoine had an instinctive sense that the objectionable
 decoration was gone, or Saint Antoine was on the watch for its
-disappearance; howbeit, the Saint took courage to lounge in, very
+disappearance; howbeit, the Saint took [[Courage|courage]] to lounge in, very
 shortly afterwards, and the wine-shop recovered its habitual aspect.
 
 In the evening, at which season of all others Saint Antoine turned
-himself inside out, and sat on door-steps and window-ledges, and came
+himself inside out, and sat on door-steps and [[Window|window]]-ledges, and came
 to the corners of vile streets and courts, for a breath of air, Madame
 Defarge with her work in her hand was accustomed to pass from place
 to place and from group to group: a Missionary--there were many like
-her--such as the world will do well never to breed again. All the women
+her--such as the world will do [[Well|well]] never to breed again. All the women
 knitted. They knitted worthless things; but, the mechanical work was a
 mechanical substitute for eating and drinking; the hands moved for the
 jaws and the digestive apparatus: if the bony fingers had been still,
@@ -500,14 +500,14 @@ Her husband smoked at his door, looking after her with admiration. “A
 great woman,” said he, “a strong woman, a grand woman, a frightfully
 grand woman!”
 
-Darkness closed around, and then came the ringing of church bells and
+Darkness closed around, and then came the ringing of church [[Bells|bells]] and
 the distant beating of the military drums in the Palace Courtyard, as
 the women sat knitting, knitting. Darkness encompassed them. Another
-darkness was closing in as surely, when the church bells, then ringing
+darkness was closing in as surely, when the church [[Bells|bells]], then ringing
 pleasantly in many an airy steeple over France, should be melted into
 thundering cannon; when the military drums should be beating to drown a
-wretched voice, that night all potent as the voice of Power and Plenty,
-Freedom and Life. So much was closing in about the women who sat
+wretched voice, that [[Night|night]] all potent as the voice of Power and Plenty,
+[[Freedom]] and Life. So much was closing in about the women who sat
 knitting, knitting, that they their very selves were closing in around
 a structure yet unbuilt, where they were to sit knitting, knitting,
 counting dropping heads.

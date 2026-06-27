@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE THIEF ON TRIAL (part 3)"
+title: "[[FourFaultlessFelons]] — THE THIEF ON TRIAL (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -44,9 +44,9 @@ were pleading Not Guilty."
 
 "My lord," said Alan Nadoway, "I can put it all straight in five words.
 
-Only in this court one can't put things straight; one has to do what you
+Only in this [[Court|court]] one can't put things straight; one has to do what you
 
-call prove them. Well, it's all simple enough. I did put my hands in
+call prove them. [[Well]], it's all simple enough. I did put my hands in
 
 their pockets. Only I put money in their pockets, instead of taking it
 
@@ -78,7 +78,7 @@ Green. One glance at his pockets had shown him that he had got somebody
 
 else's money in addition to his own. A dark familiarity with the police
 
-led him to doubt strongly whether he would ultimately be allowed to keep
+led him to [[Doubt|doubt]] strongly whether he would ultimately be allowed to keep
 
 it. He had therefore vanished with the presence of mind of a magician or
 
@@ -108,11 +108,11 @@ and not emptied them.
 
 
 
-Amid a dazed silence, the judge could only find it possible to charge the
+Amid a dazed [[Silence|silence]], the judge could only find it possible to charge the
 
 jury to acquit, and the jury acquitted. But Mr. Alan Nadoway made a very
 
-rapid dart out of court, eluding journalists and friends and especially
+rapid dart out of [[Court|court]], eluding journalists and friends and especially
 
 his family. For one thing, he had seen two pinch-faced men with
 

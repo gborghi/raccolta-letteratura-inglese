@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 8)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -20,7 +20,7 @@ wiser to discuss the details of the Greek and Roman past, which we can
 
 follow, rather than the details of their own future, about which we are
 
-naturally not so well informed. Well, every dome they build, every pillar
+naturally not so [[Well|well]] informed. [[Well]], every dome they build, every pillar
 
 they put upright, every pedestal for epitaph or panel for decoration, every
 
@@ -38,11 +38,11 @@ are perpetually rioting for one thing or another." I said I supposed he
 
 would have had no scruple in extinguishing Athens, Rome, Florence and
 
-Paris; for they were always rioting for one thing or another. His reply
+[[Paris]]; for they were always rioting for one thing or another. His reply
 
 indicated, I thought, that he felt about Cæsar or Rienzi very much as the
 
-Scotch Presbyterian Minister felt about Christ, when he was reminded of the
+Scotch Presbyterian Minister felt about [[Christ]], when he was reminded of the
 
 corn-plucking on the Sabbath, and said, "Weel, I dinna think the better of
 
@@ -50,11 +50,11 @@ him." In other words he was quite positive, like all his countrymen, that
 
 he could impose a sort of Pax Germanica, which would satisfy all the needs
 
-of order and of freedom forever; leaving no need for revolutions or
+of order and of [[Freedom|freedom]] forever; leaving no need for revolutions or
 
-reactions. I am myself of a different opinion. When I was a child, when the
+reactions. I am myself of a different opinion. When I was a [[Child|child]], when the
 
-toy-trade of Germany had begun to flood this country, there was a priggish
+toy-trade of [[Germany]] had begun to flood this country, there was a priggish
 
 British couplet, engraven on the minds of governesses, which ran--
 
@@ -74,7 +74,7 @@ they were caught in the infernal wheels of the modern civilisation of
 
 factories. But, for the present, I am only concerned to say that I do not
 
-accept this line of historical division. I do not think history supports
+accept this line of historical division. I do not think [[history]] supports
 
 the view that those who could break things could not make them.
 
@@ -82,11 +82,11 @@ the view that those who could break things could not make them.
 
 This is the least intrusive approach by which I can touch on a topic that
 
-must of necessity be a delicate one; yet which may well be a difficulty
+must of necessity be a delicate one; yet which may [[Well|well]] be a difficulty
 
 among Latins like yourself. Against this preposterous Prussian upstart we
 
-have not only to protect our unity; we have even to protect our quarrels.
+have not only to protect our [[unity]]; we have even to protect our quarrels.
 
 And the deepest of the reactions or revolts of which I have spoken is the
 
@@ -96,7 +96,7 @@ cloven the Christian from the Liberal ideal. It would ill become me, in
 
 whose country there is neither such clear doctrine nor such combative
 
-democracy, to suppose it can be easy for any of you to close up such sacred
+[[democracy]], to suppose it can be easy for any of you to close up such sacred
 
 wounds. There must still be Catholics who feel they can never forgive a
 
@@ -114,7 +114,7 @@ make them both like himself and yet remain superior to both.
 
 
 
-I implore you to keep out of the hands of this Fool the quarrel of the
+I implore you to keep out of the hands of this [[Fool]] the quarrel of the
 
 great saints and of the great blasphemers. He will do to religion what he
 
@@ -126,7 +126,7 @@ pure white. The other day the Director of Museums in Berlin was said to be
 
 setting about the creation of a new kind of Art: German Art. Philosophers
 
-and men of science were at the same time directed to meet round the table
+and men of science were at the same [[Time|time]] directed to meet round the table
 
 and found a new Religion: German Religion. How can such people appreciate
 
@@ -146,11 +146,11 @@ Germans do.
 
 
 
-By the fulness of your faith and even the fulness of your despair, you that
+By the fulness of your [[Faith|faith]] and even the fulness of your [[Despair|despair]], you that
 
 remember Rome, have earned a right to prevent all our quarrels being
 
-quenched in such cold water from the north. But it is not too much to say
+quenched in such cold [[Water|water]] from the north. But it is not too much to say
 
 that neither religion at its worst nor republicanism at its worst ever
 
@@ -166,11 +166,11 @@ called it being merely a citizen; or being merely a sinner. There has
 
 always been something which your ancestors called _Verecundia_; which is at
 
-once humility and dignity. Whatever our faults, we do not do exactly as
+once [[Humility|humility]] and dignity. Whatever our faults, we do not do exactly as
 
-the Prussians do. We do not bellow day and night to draw attention to our
+the Prussians do. We do not bellow day and [[Night|night]] to draw attention to our
 
-own stern silence. We do not praise ourselves solely because nobody else
+own stern [[Silence|silence]]. We do not praise ourselves solely because nobody else
 
 will praise us. I, for one, say at the end of these letters, as I said at
 

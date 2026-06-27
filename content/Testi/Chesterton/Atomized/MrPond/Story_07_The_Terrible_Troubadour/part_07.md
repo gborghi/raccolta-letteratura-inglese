@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Terrible Troubadour (part 7)"
+title: "[[MrPond]] — The Terrible Troubadour (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -34,7 +34,7 @@ He looked down at his papers, as if consulting them, and then
 
 looked up again, saying, still more sharply, in the style he had
 
-learnt from cross-examinations:  "Is it not true, Captain Gahagan,
+learnt from [[Cross|cross]]-examinations:  "Is it not true, Captain Gahagan,
 
 that you are rather famous for telling remarkable stories?  I have
 
@@ -44,9 +44,9 @@ had seen six great sea-serpents, each swallowing the last.  You
 
 reported a remarkable little incident of a giant who was buried up
 
-to the eyebrows in Muswell Hill; and you are supposed to have given
+to the eyebrows in Muswell [[Hill]]; and you are supposed to have given
 
-a very vivid description of a water-spout frozen all the way up to
+a very vivid description of a [[Water|water]]-spout frozen all the way up to
 
 the sky.  Your interesting account of the discovery of the ruins of
 
@@ -54,11 +54,11 @@ the Tower of Babel--"
 
 
 
-Sir Hubert Wotton, with all his apparent simplicity, had a quality
+Sir [[Hubert]] Wotton, with all his apparent simplicity, had a quality
 
 of sense that sometimes struck like a sledge-hammer.  He had
 
-preserved the silence of perfect impartiality throughout; but he
+preserved the [[Silence|silence]] of perfect impartiality throughout; but he
 
 suddenly stopped the last splutter of the solicitor's spitefulness,
 
@@ -80,7 +80,7 @@ I rule them out."
 
 
 
-"Very well," snapped Mr. Little, "my last question shall be a very
+"Very [[Well|well]]," snapped Mr. Little, "my last question shall be a very
 
 practical one.  If Captain Gahagan only did what he says he did,
 
@@ -106,7 +106,7 @@ give it to anybody except Mr. Whiteways."
 
 And, strangely enough perhaps, the moment Mr. Whiteways heard this
 
-refusal he rose also and held out his hand to Gahagan.
+refusal he [[Rose|rose]] also and held out his hand to Gahagan.
 
 
 
@@ -128,7 +128,7 @@ irregular conference broke up.
 
 
 
-Gahagan did tell the truth about the last question afterwards, to
+Gahagan did tell the [[Truth|truth]] about the last question afterwards, to
 
 the person to whom he told everything, to Joan Varney, to whom he
 
@@ -146,7 +146,7 @@ situation and among a lot of beastly alternatives.  I knew by next
 
 morning that the vicar was saying he had seen me commit murder.
 
-Suppose I contradicted it--well, to begin with, she would have to
+Suppose I contradicted it--[[Well|well]], to begin with, she would have to
 
 know that her old friend, the friend of her pets, was a horrible
 
@@ -182,11 +182,11 @@ run she would be--a little proud."
 
 "I think you're right about her," said Joan, in her straight way.
 
-"But, all the same, you ought to have told her the truth."
+"But, all the same, you ought to have told her the [[Truth|truth]]."
 
 
 
-"Joan," he said, "I simply hadn't the courage."
+"Joan," he said, "I simply hadn't the [[Courage|courage]]."
 
 
 
@@ -198,4 +198,4 @@ But that's what's the matter with all you fine, fighting
 
 gentlemen."  Her head lifted very slightly.  "You haven't the
 
-courage."
+[[Courage|courage]]."

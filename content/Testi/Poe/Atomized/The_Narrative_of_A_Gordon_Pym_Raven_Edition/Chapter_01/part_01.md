@@ -20,7 +20,7 @@ CHAPTER 1
 
 
 
-      My name is Arthur Gordon Pym. My father was a respectable trader
+      My name is [[arthur|Arthur]] Gordon Pym. My father was a respectable trader
 
       in sea-stores at Nantucket, where I was born. My maternal
 
@@ -36,21 +36,21 @@ CHAPTER 1
 
       in the world, and I expected to inherit the most of his property
 
-      at his death. He sent me, at six years of age, to the school of
+      at his [[Death|death]]. He sent me, at six years of age, to the school of
 
       old Mr. Ricketts, a gentleman with only one arm and of eccentric
 
-      manners—he is well known to almost every person who has visited
+      manners—he is [[Well|well]] known to almost every person who has visited
 
       New Bedford. I stayed at his school until I was sixteen, when I
 
-      left him for Mr. E. Ronald’s academy on the hill. Here I became
+      left him for Mr. E. Ronald’s academy on the [[Hill|hill]]. Here I became
 
       intimate with the son of Mr. Barnard, a sea-captain, who
 
       generally sailed in the employ of Lloyd and Vredenburgh—Mr.
 
-      Barnard is also very well known in New Bedford, and has many
+      Barnard is also very [[Well|well]] known in New Bedford, and has many
 
       relations, I am certain, in Edgarton. His son was named Augustus,
 
@@ -60,9 +60,9 @@ CHAPTER 1
 
       always talking to me of his adventures in the South Pacific
 
-      Ocean. I used frequently to go home with him, and remain all day,
+      Ocean. I used frequently to go [[Home|home]] with him, and remain all day,
 
-      and sometimes all night. We occupied the same bed, and he would
+      and sometimes all [[Night|night]]. We occupied the same bed, and he would
 
       be sure to keep me awake until almost light, telling me stories
 
@@ -70,9 +70,9 @@ CHAPTER 1
 
       visited in his travels. At last I could not help being interested
 
-      in what he said, and by degrees I felt the greatest desire to go
+      in what he said, and by degrees I felt the greatest [[Desire|desire]] to go
 
-      to sea. I owned a sailboat called the Ariel, and worth about
+      to sea. I owned a sailboat called the [[Ariel]], and worth about
 
       seventy-five dollars. She had a half-deck or cuddy, and was
 
@@ -90,25 +90,25 @@ CHAPTER 1
 
       I will relate one of these adventures by way of introduction to a
 
-      longer and more momentous narrative. One night there was a party
+      longer and more momentous narrative. One [[Night|night]] there was a party
 
       at Mr. Barnard’s, and both Augustus and myself were not a little
 
       intoxicated toward the close of it. As usual, in such cases, I
 
-      took part of his bed in preference to going home. He went to
+      took part of his bed in preference to going [[Home|home]]. He went to
 
-      sleep, as I thought, very quietly (it being near one when the
+      [[Sleep|sleep]], as I thought, very quietly (it being near one when the
 
       party broke up), and without saying a word on his favorite topic.
 
-      It might have been half an hour from the time of our getting in
+      It might have been half an hour from the [[Time|time]] of our getting in
 
       bed, and I was just about falling into a doze, when he suddenly
 
       started up, and swore with a terrible oath that he would not go
 
-      to sleep for any Arthur Pym in Christendom, when there was so
+      to [[Sleep|sleep]] for any [[arthur|Arthur]] Pym in Christendom, when there was so
 
       glorious a breeze from the southwest. I never was so astonished
 
@@ -122,7 +122,7 @@ CHAPTER 1
 
       sober in his life. He was only tired, he added, of lying in bed
 
-      on such a fine night like a dog, and was determined to get up and
+      on such a fine [[Night|night]] like a dog, and was determined to get up and
 
       dress, and go out on a frolic with the boat. I can hardly tell
 
@@ -146,7 +146,7 @@ CHAPTER 1
 
 
 
-      We lost no time in getting on our clothes and hurrying down to
+      We lost no [[Time|time]] in getting on our clothes and hurrying down to
 
       the boat. She was lying at the old decayed wharf by the
 
@@ -154,15 +154,15 @@ CHAPTER 1
 
       against the rough logs. Augustus got into her and bailed her, for
 
-      she was nearly half full of water. This being done, we hoisted
+      she was nearly half full of [[Water|water]]. This being done, we hoisted
 
       jib and mainsail, kept full, and started boldly out to sea.
 
 
 
-      The wind, as I before said, blew freshly from the southwest. The
+      The [[Wind|wind]], as I before said, blew freshly from the southwest. The
 
-      night was very clear and cold. Augustus had taken the helm, and I
+      [[Night|night]] was very clear and cold. Augustus had taken the helm, and I
 
       stationed myself by the mast, on the deck of the cuddy. We flew
 
@@ -170,17 +170,17 @@ CHAPTER 1
 
       casting loose from the wharf. I now asked my companion what
 
-      course he intended to steer, and what time he thought it probable
+      course he intended to steer, and what [[Time|time]] he thought it probable
 
       we should get back. He whistled for a few minutes, and then said
 
-      crustily: “_I_ am going to sea—_you_ may go home if you think
+      crustily: “_I_ am going to sea—_you_ may go [[Home|home]] if you think
 
       proper.” Turning my eyes upon him, I perceived at once that, in
 
       spite of his assumed _nonchalance_, he was greatly agitated. I
 
-      could see him distinctly by the light of the moon—his face was
+      could see him distinctly by the light of the [[Moon|moon]]—his face was
 
       paler than any marble, and his hand shook so excessively that he
 
@@ -190,10 +190,10 @@ CHAPTER 1
 
       knew little about the management of a boat, and was now depending
 
-      entirely upon the nautical skill of my friend. The wind, too, had
+      entirely upon the nautical skill of my friend. The [[Wind|wind]], too, had
 
       suddenly increased, as we were fast getting out of the lee of the
 
       land—still I was ashamed to betray any trepidation, and for
 
-      almost half an hour maintained a resolute silence. I could stand
+      almost half an hour maintained a resolute [[Silence|silence]]. I could stand

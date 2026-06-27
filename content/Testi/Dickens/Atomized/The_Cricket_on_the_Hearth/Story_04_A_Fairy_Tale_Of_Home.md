@@ -1,5 +1,5 @@
 ---
-title: "The Cricket on the Hearth — A Fairy Tale Of Home"
+title: "The Cricket on the Hearth — A Fairy Tale Of [[Home]]"
 author: "Dickens"
 unitType: story
 parentWork: "Works/The-Cricket-on-the-Hearth-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-A FAIRY TALE OF HOME
+A FAIRY TALE OF [[Home|HOME]]

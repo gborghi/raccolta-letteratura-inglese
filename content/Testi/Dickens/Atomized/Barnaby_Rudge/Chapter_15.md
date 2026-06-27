@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 15"
+title: "[[Barnaby Rudge]] — Chapter 15"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,22 +17,22 @@ tags:
 Chapter 15
 
 
-At noon next day, John Willet’s guest sat lingering over his breakfast
-in his own home, surrounded by a variety of comforts, which left the
+At [[Noon|noon]] next day, John Willet’s guest sat lingering over his breakfast
+in his own [[Home|home]], surrounded by a variety of comforts, which left the
 Maypole’s highest flight and utmost stretch of accommodation at an
 infinite distance behind, and suggested comparisons very much to the
 disadvantage and disfavour of that venerable tavern.
 
-In the broad old-fashioned window-seat--as capacious as many modern
+In the broad old-fashioned [[Window|window]]-seat--as capacious as many modern
 sofas, and cushioned to serve the purpose of a luxurious settee--in the
-broad old-fashioned window-seat of a roomy chamber, Mr Chester lounged,
-very much at his ease, over a well-furnished breakfast-table. He had
+broad old-fashioned [[Window|window]]-seat of a roomy chamber, Mr Chester lounged,
+very much at his ease, over a [[Well|well]]-furnished breakfast-table. He had
 exchanged his riding-coat for a handsome morning-gown, his boots for
 slippers; had been at great pains to atone for the having been obliged
-to make his toilet when he rose without the aid of dressing-case and
+to make his toilet when he [[Rose|rose]] without the aid of dressing-case and
 tiring equipage; and, having gradually forgotten through these means the
-discomforts of an indifferent night and an early ride, was in a state of
-perfect complacency, indolence, and satisfaction.
+discomforts of an indifferent [[Night|night]] and an early ride, was in a state of
+perfect complacency, [[Indolence|indolence]], and satisfaction.
 
 The situation in which he found himself, indeed, was particularly
 favourable to the growth of these feelings; for, not to mention the lazy
@@ -46,15 +46,15 @@ for basking in the sun, or resting idly in the shade. There is yet a
 drowsiness in its courts, and a dreamy dulness in its trees and gardens;
 those who pace its lanes and squares may yet hear the echoes of their
 footsteps on the sounding stones, and read upon its gates, in passing
-from the tumult of the Strand or Fleet Street, ‘Who enters here leaves
-noise behind.’ There is still the plash of falling water in fair
-Fountain Court, and there are yet nooks and corners where dun-haunted
+from the tumult of the Strand or Fleet Street, ‘Who enters here [[Leaves|leaves]]
+noise behind.’ There is still the plash of falling [[Water|water]] in fair
+Fountain [[Court]], and there are yet nooks and corners where dun-haunted
 students may look down from their dusty garrets, on a vagrant ray of
 sunlight patching the shade of the tall houses, and seldom troubled
 to reflect a passing stranger’s form. There is yet, in the Temple,
 something of a clerkly monkish atmosphere, which public offices of law
 have not disturbed, and even legal firms have failed to scare away. In
-summer time, its pumps suggest to thirsty idlers, springs cooler, and
+[[Summer|summer]] [[Time|time]], its pumps suggest to thirsty idlers, springs cooler, and
 more sparkling, and deeper than other wells; and as they trace the
 spillings of full pitchers on the heated ground, they snuff the
 freshness, and, sighing, cast sad looks towards the Thames, and think of
@@ -65,23 +65,23 @@ in front by ancient trees, and looking, at the back, upon the Temple
 Gardens--that this, our idler, lounged; now taking up again the paper
 he had laid down a hundred times; now trifling with the fragments of
 his meal; now pulling forth his golden toothpick, and glancing leisurely
-about the room, or out at window into the trim garden walks, where a few
-early loiterers were already pacing to and fro. Here a pair of lovers
+about the room, or out at [[Window|window]] into the trim [[Garden|garden]] walks, where a few
+early loiterers were already pacing to and fro. Here a pair of [[lovers]]
 met to quarrel and make up; there a dark-eyed nursery-maid had better
 eyes for Templars than her charge; on this hand an ancient spinster,
 with her lapdog in a string, regarded both enormities with scornful
 sidelong looks; on that a weazen old gentleman, ogling the nursery-maid,
 looked with like scorn upon the spinster, and wondered she didn’t know
-she was no longer young. Apart from all these, on the river’s margin two
+she was no longer young. Apart from all these, on the [[River|river]]’s margin two
 or three couple of business-talkers walked slowly up and down in earnest
-conversation; and one young man sat thoughtfully on a bench, alone.
+conversation; and one young man sat thoughtfully on a bench, [[Alone|alone]].
 
 ‘Ned is amazingly patient!’ said Mr Chester, glancing at this last-named
 person as he set down his teacup and plied the golden toothpick,
 ‘immensely patient! He was sitting yonder when I began to dress, and has
 scarcely changed his posture since. A most eccentric dog!’
 
-As he spoke, the figure rose, and came towards him with a rapid pace.
+As he spoke, the figure [[Rose|rose]], and came towards him with a rapid pace.
 
 ‘Really, as if he had heard me,’ said the father, resuming his newspaper
 with a yawn. ‘Dear Ned!’
@@ -99,8 +99,8 @@ you breakfasted?’
 ‘What a very early dog!’ cried his father, contemplating him from behind
 the toothpick, with a languid smile.
 
-‘The truth is,’ said Edward, bringing a chair forward, and seating
-himself near the table, ‘that I slept but ill last night, and was glad
+‘The [[Truth|truth]] is,’ said Edward, bringing a chair forward, and seating
+himself near the table, ‘that I slept but ill last [[Night|night]], and was glad
 to rise. The cause of my uneasiness cannot but be known to you, sir; and
 it is upon that I wish to speak.’
 
@@ -113,22 +113,22 @@ my constitution--don’t be prosy, Ned.’
 legs, ‘or you certainly will not. You are going to tell me’--
 
 ‘Plainly this, then,’ said the son, with an air of great concern, ‘that
-I know where you were last night--from being on the spot, indeed--and
+I know where you were last [[Night|night]]--from being on the spot, indeed--and
 whom you saw, and what your purpose was.’
 
 ‘You don’t say so!’ cried his father. ‘I am delighted to hear it. It
 saves us the worry, and terrible wear and tear of a long explanation,
-and is a great relief for both. At the very house! Why didn’t you come
+and is a great relief for both. At the very [[house]]! Why didn’t you come
 up? I should have been charmed to see you.’
 
-‘I knew that what I had to say would be better said after a night’s
+‘I knew that what I had to say would be better said after a [[Night|night]]’s
 reflection, when both of us were cool,’ returned the son.
 
-‘’Fore Gad, Ned,’ rejoined the father, ‘I was cool enough last night.
+‘’Fore Gad, Ned,’ rejoined the father, ‘I was cool enough last [[Night|night]].
 That detestable Maypole! By some infernal contrivance of the builder,
-it holds the wind, and keeps it fresh. You remember the sharp east wind
-that blew so hard five weeks ago? I give you my honour it was rampant
-in that old house last night, though out of doors there was a dead calm.
+it holds the [[Wind|wind]], and keeps it fresh. You remember the sharp east [[Wind|wind]]
+that blew so hard five weeks ago? I give you my [[Honour|honour]] it was rampant
+in that old [[house]] last [[Night|night]], though out of doors there was a dead calm.
 But you were saying’--
 
 ‘I was about to say, Heaven knows how seriously and earnestly, that you
@@ -137,18 +137,18 @@ have made me wretched, sir. Will you hear me gravely for a moment?’
 ‘My dear Ned,’ said his father, ‘I will hear you with the patience of an
 anchorite. Oblige me with the milk.’
 
-‘I saw Miss Haredale last night,’ Edward resumed, when he had complied
+‘I saw Miss Haredale last [[Night|night]],’ Edward resumed, when he had complied
 with this request; ‘her uncle, in her presence, immediately after your
 interview, and, as of course I know, in consequence of it, forbade
-me the house, and, with circumstances of indignity which are of your
+me the [[house]], and, with circumstances of indignity which are of your
 creation I am sure, commanded me to leave it on the instant.’
 
-‘For his manner of doing so, I give you my honour, Ned, I am not
+‘For his manner of doing so, I give you my [[Honour|honour]], Ned, I am not
 accountable,’ said his father. ‘That you must excuse. He is a mere boor,
 a log, a brute, with no address in life.--Positively a fly in the jug.
 The first I have seen this year.’
 
-Edward rose, and paced the room. His imperturbable parent sipped his
+Edward [[Rose|rose]], and paced the room. His imperturbable parent sipped his
 tea.
 
 ‘Father,’ said the young man, stopping at length before him, ‘we must
@@ -158,10 +158,10 @@ this unkind indifference.’
 
 ‘Whether I am indifferent or no,’ returned the other, ‘I leave you, my
 dear boy, to judge. A ride of twenty-five or thirty miles, through miry
-roads--a Maypole dinner--a tete-a-tete with Haredale, which, vanity
-apart, was quite a Valentine and Orson business--a Maypole bed--a
+roads--a Maypole dinner--a tete-a-tete with Haredale, which, [[Vanity|vanity]]
+apart, was quite [[A Valentine|a Valentine]] and Orson business--a Maypole bed--a
 Maypole landlord, and a Maypole retinue of idiots and centaurs;--whether
-the voluntary endurance of these things looks like indifference, dear
+the voluntary [[Endurance|endurance]] of these things looks like indifference, dear
 Ned, or like the excessive anxiety, and devotion, and all that sort of
 thing, of a parent, you shall determine for yourself.’
 
@@ -171,21 +171,21 @@ am placed. Loving Miss Haredale as I do’--
 ‘My dear fellow,’ interrupted his father with a compassionate smile,
 ‘you do nothing of the kind. You don’t know anything about it. There’s
 no such thing, I assure you. Now, do take my word for it. You have good
-sense, Ned,--great good sense. I wonder you should be guilty of such
+sense, Ned,--great good sense. I [[Wonder|wonder]] you should be guilty of such
 amazing absurdities. You really surprise me.’
 
-‘I repeat,’ said his son firmly, ‘that I love her. You have interposed
+‘I repeat,’ said his son firmly, ‘that I [[Love|love]] her. You have interposed
 to part us, and have, to the extent I have just now told you of,
-succeeded. May I induce you, sir, in time, to think more favourably of
+succeeded. May I induce you, sir, in [[Time|time]], to think more favourably of
 our attachment, or is it your intention and your fixed design to hold us
 asunder if you can?’
 
 ‘My dear Ned,’ returned his father, taking a pinch of snuff and pushing
 his box towards him, ‘that is my purpose most undoubtedly.’
 
-‘The time that has elapsed,’ rejoined his son, ‘since I began to know
-her worth, has flown in such a dream that until now I have hardly once
-paused to reflect upon my true position. What is it? From my childhood
+‘The [[Time|time]] that has elapsed,’ rejoined his son, ‘since I began to know
+her worth, has flown in such [[A Dream|a dream]] that until now I have hardly once
+paused to reflect upon my true position. What is it? From my [[Childhood|childhood]]
 I have been accustomed to luxury and idleness, and have been bred as
 though my fortune were large, and my expectations almost without a
 limit. The idea of wealth has been familiarised to me from my cradle. I
@@ -195,18 +195,18 @@ care. I have been, as the phrase is, liberally educated, and am fit
 for nothing. I find myself at last wholly dependent upon you, with no
 resource but in your favour. In this momentous question of my life we do
 not, and it would seem we never can, agree. I have shrunk instinctively
-alike from those to whom you have urged me to pay court, and from the
+alike from those to whom you have urged me to pay [[Court|court]], and from the
 motives of interest and gain which have rendered them in your eyes
 visible objects for my suit. If there never has been thus much
 plain-speaking between us before, sir, the fault has not been mine,
 indeed. If I seem to speak too plainly now, it is, believe me father, in
-the hope that there may be a franker spirit, a worthier reliance, and a
-kinder confidence between us in time to come.’
+the [[Hope|hope]] that there may be a franker spirit, a worthier reliance, and a
+kinder confidence between us in [[Time|time]] to come.’
 
 ‘My good fellow,’ said his smiling father, ‘you quite affect me. Go
 on, my dear Edward, I beg. But remember your promise. There is great
 earnestness, vast candour, a manifest sincerity in all you say, but I
-fear I observe the faintest indications of a tendency to prose.’
+[[Fear|fear]] I observe the faintest indications of a tendency to prose.’
 
 ‘I am very sorry, sir.’
 
@@ -216,7 +216,7 @@ I’ll imagine all that ought to go before, and conclude it said. Oblige
 me with the milk again. Listening, invariably makes me feverish.’
 
 ‘What I would say then, tends to this,’ said Edward. ‘I cannot bear
-this absolute dependence, sir, even upon you. Time has been lost and
+this absolute dependence, sir, even upon you. [[Time]] has been lost and
 opportunity thrown away, but I am yet a young man, and may retrieve it.
 Will you give me the means of devoting such abilities and energies as I
 possess, to some worthy pursuit? Will you let me try to make for myself
@@ -224,15 +224,15 @@ an honourable path in life? For any term you please to name--say for
 five years if you will--I will pledge myself to move no further in the
 matter of our difference without your full concurrence. During that
 period, I will endeavour earnestly and patiently, if ever man did, to
-open some prospect for myself, and free you from the burden you fear
-I should become if I married one whose worth and beauty are her chief
+open some prospect for myself, and free you from the burden you [[Fear|fear]]
+I should become if I married one whose worth and [[Beauty|beauty]] are her chief
 endowments. Will you do this, sir? At the expiration of the term we
 agree upon, let us discuss this subject again. Till then, unless it is
 revived by you, let it never be renewed between us.’
 
 ‘My dear Ned,’ returned his father, laying down the newspaper at which
 he had been glancing carelessly, and throwing himself back in the
-window-seat, ‘I believe you know how very much I dislike what are called
+[[Window|window]]-seat, ‘I believe you know how very much I dislike what are called
 family affairs, which are only fit for plebeian Christmas days, and
 have no manner of business with people of our condition. But as you
 are proceeding upon a mistake, Ned--altogether upon a mistake--I will
@@ -253,9 +253,9 @@ nothing to boast of in that respect.’
 ‘Quite right, Ned; perfectly so. He stood high at the bar, had a great
 name and great wealth, but having risen from nothing--I have
 always closed my eyes to the circumstance and steadily resisted its
-contemplation, but I fear his father dealt in pork, and that his
+contemplation, but I [[Fear|fear]] his father dealt in pork, and that his
 business did once involve cow-heel and sausages--he wished to marry his
-daughter into a good family. He had his heart’s desire, Ned. I was a
+daughter into a good family. He had his heart’s [[Desire|desire]], Ned. I was a
 younger son’s younger son, and I married her. We each had our object,
 and gained it. She stepped at once into the politest and best circles,
 and I stepped into a fortune which I assure you was very necessary to my
@@ -268,7 +268,7 @@ are you? I always forget.’
 ‘Are you indeed?’ cried his father, raising his eyelids in a languishing
 surprise. ‘So much! Then I should say, Ned, that as nearly as I
 remember, its skirts vanished from human knowledge, about eighteen or
-nineteen years ago. It was about that time when I came to live in these
+nineteen years ago. It was about that [[Time|time]] when I came to live in these
 chambers (once your grandfather’s, and bequeathed by that extremely
 respectable person to me), and commenced to live upon an inconsiderable
 annuity and my past reputation.’
@@ -279,20 +279,20 @@ annuity and my past reputation.’
 great composure. ‘These family topics are so extremely dry, that I am
 sorry to say they don’t admit of any such relief. It is for that reason,
 and because they have an appearance of business, that I dislike them so
-very much. Well! You know the rest. A son, Ned, unless he is old enough
+very much. [[Well]]! You know the rest. A son, Ned, unless he is old enough
 to be a companion--that is to say, unless he is some two or three and
 twenty--is not the kind of thing to have about one. He is a restraint
 upon his father, his father is a restraint upon him, and they make each
 other mutually uncomfortable. Therefore, until within the last four
-years or so--I have a poor memory for dates, and if I mistake, you will
+years or so--I have a poor [[Memory|memory]] for dates, and if I mistake, you will
 correct me in your own mind--you pursued your studies at a distance, and
 picked up a great variety of accomplishments. Occasionally we passed a
 week or two together here, and disconcerted each other as only such near
-relations can. At last you came home. I candidly tell you, my dear boy,
+relations can. At last you came [[Home|home]]. I candidly tell you, my dear boy,
 that if you had been awkward and overgrown, I should have exported you
 to some distant part of the world.’
 
-‘I wish with all my soul you had, sir,’ said Edward.
+‘I wish with all my [[Soul|soul]] you had, sir,’ said Edward.
 
 ‘No you don’t, Ned,’ said his father coolly; ‘you are mistaken, I assure
 you. I found you a handsome, prepossessing, elegant fellow, and I threw
@@ -306,15 +306,15 @@ your doing something to provide for me in return.’
 but have the goodness not to take it out as you did the first, for
 their walk when their legs are milky, is extremely ungraceful and
 disagreeable--my meaning is, that you must do as I did; that you must
-marry well and make the most of yourself.’
+marry [[Well|well]] and make the most of yourself.’
 
 ‘A mere fortune-hunter!’ cried the son, indignantly.
 
 ‘What in the devil’s name, Ned, would you be!’ returned the father. ‘All
-men are fortune-hunters, are they not? The law, the church, the court,
+men are fortune-hunters, are they not? The law, the church, the [[Court|court]],
 the camp--see how they are all crowded with fortune-hunters, jostling
 each other in the pursuit. The stock-exchange, the pulpit, the
-counting-house, the royal drawing-room, the senate,--what but
+counting-[[house]], the royal drawing-room, the senate,--what but
 fortune-hunters are they filled with? A fortune-hunter! Yes. You
 ARE one; and you would be nothing else, my dear Ned, if you were
 the greatest courtier, lawyer, legislator, prelate, or merchant, in
@@ -327,7 +327,7 @@ step? Or thousands?’
 The young man leant his head upon his hand, and made no answer.
 
 ‘I am quite charmed,’ said the father rising, and walking slowly to and
-fro--stopping now and then to glance at himself in the mirror, or survey
+fro--stopping now and then to glance at himself in the [[Mirror|mirror]], or survey
 a picture through his glass, with the air of a connoisseur, ‘that we
 have had this conversation, Ned, unpromising as it was. It establishes
 a confidence between us which is quite delightful, and was certainly
@@ -342,16 +342,16 @@ idea we were the beggared wretches you describe. How could I suppose it,
 bred as I have been; witnessing the life you have always led; and the
 appearance you have always made?’
 
-‘My dear child,’ said the father--‘for you really talk so like a child
+‘My dear [[Child|child]],’ said the father--‘for you really talk so like a [[Child|child]]
 that I must call you one--you were bred upon a careful principle;
-the very manner of your education, I assure you, maintained my credit
+the very manner of your [[Education|education]], I assure you, maintained my credit
 surprisingly. As to the life I lead, I must lead it, Ned. I must have
 these little refinements about me. I have always been used to them, and
 I cannot exist without them. They must surround me, you observe, and
 therefore they are here. With regard to our circumstances, Ned, you
 may set your mind at rest upon that score. They are desperate. Your own
-appearance is by no means despicable, and our joint pocket-money alone
-devours our income. That’s the truth.’
+appearance is by no means despicable, and our joint pocket-money [[Alone|alone]]
+devours our income. That’s the [[Truth|truth]].’
 
 ‘Why have I never known this before? Why have you encouraged me, sir, to
 an expenditure and mode of life to which we have no right or title?’
@@ -362,17 +362,17 @@ pursuit for which I destined you? As to our mode of life, every man
 has a right to live in the best way he can; and to make himself as
 comfortable as he can, or he is an unnatural scoundrel. Our debts, I
 grant, are very great, and therefore it the more behoves you, as a young
-man of principle and honour, to pay them off as speedily as possible.’
+man of principle and [[Honour|honour]], to pay them off as speedily as possible.’
 
-‘The villain’s part,’ muttered Edward, ‘that I have unconsciously
-played! I to win the heart of Emma Haredale! I would, for her sake, I
+‘The [[Villain|villain]]’s part,’ muttered Edward, ‘that I have unconsciously
+played! I to win the heart of [[Emma Haredale]]! I would, for her sake, I
 had died first!’
 
 ‘I am glad you see, Ned,’ returned his father, ‘how perfectly
-self-evident it is, that nothing can be done in that quarter. But apart
+[[Self|self]]-evident it is, that nothing can be done in that quarter. But apart
 from this, and the necessity of your speedily bestowing yourself on
 another (as you know you could to-morrow, if you chose), I wish you’d
-look upon it pleasantly. In a religious point of view alone, how
+look upon it pleasantly. In a religious point of view [[Alone|alone]], how
 could you ever think of uniting yourself to a Catholic, unless she was
 amazingly rich? You ought to be so very Protestant, coming of such a
 Protestant family as you do. Let us be moral, Ned, or we are nothing.
@@ -383,11 +383,11 @@ Consider the impossibility of having any respect for your father-in-law
 under such unpleasant circumstances--think of his having been “viewed”
  by jurors, and “sat upon” by coroners, and of his very doubtful position
 in the family ever afterwards. It seems to me such an indelicate sort
-of thing that I really think the girl ought to have been put to death by
+of thing that I really think the girl ought to have been put to [[Death|death]] by
 the state to prevent its happening. But I tease you perhaps. You would
-rather be alone? My dear Ned, most willingly. God bless you. I shall
-be going out presently, but we shall meet to-night, or if not to-night,
-certainly to-morrow. Take care of yourself in the mean time, for both
+rather be [[Alone|alone]]? My dear Ned, most willingly. God bless you. I shall
+be going out presently, but we shall meet to-[[Night|night]], or if not to-[[Night|night]],
+certainly to-morrow. Take care of yourself in the mean [[Time|time]], for both
 our sakes. You are a person of great consequence to me, Ned--of vast
 consequence indeed. God bless you!’
 

@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 10 (part 1)"
+title: "[[Don Quixote]] — Chapter 10 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -18,9 +18,9 @@ CHAPTER X
 
 WHEN DOCTORS DISAGREE
 
-The house with the pillared porch to which the crawling cab
+The [[house]] with the pillared porch to which the crawling cab
 eventually crawled, had little to distinguish it from a prosperous
-private house.  For the policy of all recent legislations and customs
+private [[house]].  For the policy of all recent legislations and customs
 had been in the direction of conducting public affairs in private.
 The official was all the more omnipotent because he was always
 in plain clothes.  It was possible to take people to and
@@ -39,7 +39,7 @@ to their neighbourhood.  And the magistrate who sat in an
 inner room, to consider the cases as they came, was the newest
 of all.  Unfortunately, while he was new he was also old.
 He had done the same work in many other places; and so formed into
-the habit of doing it smoothly and rapidly and dangerously well.
+the habit of doing it smoothly and rapidly and dangerously [[Well|well]].
 But he was beginning to be a little old to do anything.
 His sight was not what it was; his hearing was not what he thought
 it was.  He was a retired army surgeon of the name of Wotton.
@@ -59,7 +59,7 @@ of questioning his right to act as intermediary; the official attendants
 accepted him as being obviously a highly polished part of machinery,
 and even the official doctor permitted himself to be courteously
 waved into a side room to the left of the magistrate's sanctum.
-Perhaps if they had looked out of the window a moment before,
+Perhaps if they had looked out of the [[Window|window]] a moment before,
 and seen the gentlemanly person fall off the top of the cab,
 they might have been more disturbed.  As it was, the official doctor
 began to be very decidedly disturbed when the gentlemanly person
@@ -82,7 +82,7 @@ of conspiracy mania, I think."
 Dr. Hendry inclined his head in his most graceful manner.
 "Conspiracy is, of course, a symptom rather than a cause," he said.
 "The cause is purely physical . . . purely physical," he coughed
-in a refined manner.  "We don't need to be told at this time of day
+in a refined manner.  "We don't need to be told at this [[Time|time]] of day
 that the distortion of the sense reacts upon the brain, eh?
 In this case I have the strongest reason for supposing that the trouble
 arose originally from a very common malady of the optic nerve.
@@ -103,33 +103,33 @@ dangerous mania, I suppose it's all right."
 
 "In all my experience," said Dr. Hendry solemnly, and with a full
 sense of responsibility, "I have never known a clearer one.
-This optical question is becoming grave, sir.  It is becoming menacing.
+This optical question is becoming [[Grave|grave]], sir.  It is becoming menacing.
 Even at this moment, while I speak, persons unquestionably mad
 are wandering about the world, and even delivering authoritative
 opinions on scientific subjects.  Only the other day--."
 
 At this moment his melodious and persuasive voice was drowned
 for an instant in very remarkable sounds from the next room.
-The noise resembled that of some huge and heavy body being hurled
-against the door; and in the silence that followed something
+The noise resembled that of some huge and heavy [[Body|body]] being hurled
+against the door; and in the [[Silence|silence]] that followed something
 like guttural imprecations, as if hoarse and faint with fury,
 could be heard through the thick partition.
 
 "Good heavens!" cried Mr. Wotton, awakening with a start and looking
-up for the first time.  "What on earth was that?"
+up for the first [[Time|time]].  "What on earth was that?"
 
 Dr. Hendry wagged his head with a beautiful sadness,
 but he continued to smile.
 
-"Ours is a melancholy occupation," he said.  "Dealing with the weaker and
-the wilder aspects of our fallen nature . . . the body of our humiliation,
-I think it is in the Greek Testament . . . the body of our humiliation.
+"Ours is a [[Melancholy|melancholy]] occupation," he said.  "Dealing with the weaker and
+the wilder aspects of our fallen [[Nature|nature]] . . . the [[Body|body]] of our humiliation,
+I think it is in the Greek Testament . . . the [[Body|body]] of our humiliation.
 It sounds only too like the struggle of some unfortunate whom society
 finds it a sad necessity to restrain."
 
-At this moment the body of our humiliation was again
+At this moment the [[Body|body]] of our humiliation was again
 thrown crashing against the door; and it seemed to be
-a body of some weight and momentum and even nobility.
+a [[Body|body]] of some weight and momentum and even nobility.
 The magistrate was not altogether satisfied.  Patients or prisoners
 (or whatever the new social victims ought to be called) were indeed
 frequently taken into the adjoining room to await examination;

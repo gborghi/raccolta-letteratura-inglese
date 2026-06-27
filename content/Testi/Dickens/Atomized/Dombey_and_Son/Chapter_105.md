@@ -19,24 +19,24 @@ The Midshipman makes a Discovery
 
 
 It was long before Florence awoke. The day was in its prime, the day
-was in its wane, and still, uneasy in mind and body, she slept on;
+was in its wane, and still, uneasy in mind and [[Body|body]], she slept on;
 unconscious of her strange bed, of the noise and turmoil in the street,
-and of the light that shone outside the shaded window. Perfect
-unconsciousness of what had happened in the home that existed no more,
+and of the light that shone outside the shaded [[Window|window]]. Perfect
+unconsciousness of what had happened in the [[Home|home]] that existed no more,
 even the deep slumber of exhaustion could not produce. Some undefined
 and mournful recollection of it, dozing uneasily but never sleeping,
-pervaded all her rest. A dull sorrow, like a half-lulled sense of pain,
+pervaded all her rest. A dull sorrow, like a half-lulled sense of [[Pain|pain]],
 was always present to her; and her pale cheek was oftener wet with
-tears than the honest Captain, softly putting in his head from time to
-time at the half-closed door, could have desired to see it.
+[[Tears|tears]] than the honest Captain, softly putting in his head from [[Time|time]] to
+[[Time|time]] at the half-closed door, could have desired to see it.
 
 The sun was getting low in the west, and, glancing out of a red mist,
 pierced with its rays opposite loopholes and pieces of fretwork in the
-spires of city churches, as if with golden arrows that struck through
-and through them—and far away athwart the river and its flat banks, it
-was gleaming like a path of fire—and out at sea it was irradiating
+spires of [[City|city]] churches, as if with golden arrows that struck through
+and through them—and far away athwart the [[River|river]] and its flat banks, it
+was gleaming like a path of [[Fire|fire]]—and out at sea it was irradiating
 sails of ships—and, looked towards, from quiet churchyards, upon
-hill-tops in the country, it was steeping distant prospects in a flush
+[[Hill|hill]]-tops in the country, it was steeping distant prospects in a flush
 and glow that seemed to mingle earth and sky together in one glorious
 suffusion—when Florence, opening her heavy eyes, lay at first, looking
 without interest or recognition at the unfamiliar walls around her, and
@@ -48,7 +48,7 @@ surprised and vacant look, and recollected all.
 
 “Dear friend,” cried Florence, hurrying to him, “is it you?”
 
-The Captain felt so much pride in the name, and was so pleased by the
+The Captain felt so much [[Pride|pride]] in the name, and was so pleased by the
 gleam of pleasure in her face, when she saw him, that he kissed his
 hook, by way of reply, in speechless gratification.
 
@@ -59,10 +59,10 @@ here? Yesterday?”
 
 “This here blessed day, my lady lass,” replied the Captain.
 
-“Has there been no night? Is it still day?” asked Florence.
+“Has there been no [[Night|night]]? Is it still day?” asked Florence.
 
 “Getting on for evening now, my pretty,” said the Captain, drawing back
-the curtain of the window. “See!”
+the curtain of the [[Window|window]]. “See!”
 
 Florence, with her hand upon the Captain’s arm, so sorrowful and timid,
 and the Captain with his rough face and burly figure, so quietly
@@ -70,33 +70,33 @@ protective of her, stood in the rosy light of the bright evening sky,
 without saying a word. However strange the form of speech into which he
 might have fashioned the feeling, if he had had to give it utterance,
 the Captain felt, as sensibly as the most eloquent of men could have
-done, that there was something in the tranquil time and in its softened
-beauty that would make the wounded heart of Florence overflow; and that
-it was better that such tears should have their way. So not a word
-spake Captain Cuttle. But when he felt his arm clasped closer, and when
+done, that there was something in the tranquil [[Time|time]] and in its softened
+[[Beauty|beauty]] that would make the wounded heart of Florence overflow; and that
+it was better that such [[Tears|tears]] should have their way. So not a word
+spake [[Captain Cuttle]]. But when he felt his arm clasped closer, and when
 he felt the lonely head come nearer to it, and lay itself against his
 homely coarse blue sleeve, he pressed it gently with his rugged hand,
 and understood it, and was understood.
 
 “Better now, my pretty!” said the Captain. “Cheerily, cheerily, I’ll go
 down below, and get some dinner ready. Will you come down of your own
-self, arterwards, pretty, or shall Ed’ard Cuttle come and fetch you?”
+[[Self|self]], arterwards, pretty, or shall Ed’ard Cuttle come and fetch you?”
 
 As Florence assured him that she was quite able to walk downstairs, the
 Captain, though evidently doubtful of his own hospitality in permitting
 it, left her to do so, and immediately set about roasting a fowl at the
-fire in the little parlour. To achieve his cookery with the greater
+[[Fire|fire]] in the little parlour. To achieve his cookery with the greater
 skill, he pulled off his coat, tucked up his wristbands, and put on his
 glazed hat, without which assistant he never applied himself to any
 nice or difficult undertaking.
 
-After cooling her aching head and burning face in the fresh water which
+After cooling her aching head and burning face in the fresh [[Water|water]] which
 the Captain’s care had provided for her while she slept, Florence went
-to the little mirror to bind up her disordered hair. Then she knew—in a
+to the little [[Mirror|mirror]] to bind up her disordered hair. Then she knew—in a
 moment, for she shunned it instantly, that on her breast there was the
 darkening mark of an angry hand.
 
-Her tears burst forth afresh at the sight; she was ashamed and afraid
+Her [[Tears|tears]] burst forth afresh at the sight; she was ashamed and afraid
 of it; but it moved her to no anger against him. Homeless and
 fatherless, she forgave him everything; hardly thought that she had
 need to forgive him, or that she did; but she fled from the idea of him
@@ -104,14 +104,14 @@ as she had fled from the reality, and he was utterly gone and lost.
 There was no such Being in the world.
 
 What to do, or where to live, Florence—poor, inexperienced girl!—could
-not yet consider. She had indistinct dreams of finding, a long way off,
+not yet consider. She had indistinct [[Dreams|dreams]] of finding, a long way off,
 some little sisters to instruct, who would be gentle with her, and to
 whom, under some feigned name, she might attach herself, and who would
-grow up in their happy home, and marry, and be good to their old
-governess, and perhaps entrust her, in time, with the education of
+grow up in their happy [[Home|home]], and marry, and be good to their old
+governess, and perhaps entrust her, in [[Time|time]], with the [[Education|education]] of
 their own daughters. And she thought how strange and sorrowful it would
 be, thus to become a grey-haired woman, carrying her secret to the
-grave, when Florence Dombey was forgotten. But it was all dim and
+[[Grave|grave]], when [[Florence Dombey]] was forgotten. But it was all dim and
 clouded to her now. She only knew that she had no Father upon earth,
 and she said so, many times, with her suppliant head hidden from all,
 but her Father who was in Heaven.
@@ -119,17 +119,17 @@ but her Father who was in Heaven.
 Her little stock of money amounted to but a few guineas. With a part of
 this, it would be necessary to buy some clothes, for she had none but
 those she wore. She was too desolate to think how soon her money would
-be gone—too much a child in worldly matters to be greatly troubled on
+be gone—too much a [[Child|child]] in worldly matters to be greatly troubled on
 that score yet, even if her other trouble had been less. She tried to
-calm her thoughts and stay her tears; to quiet the hurry in her
+calm her thoughts and stay her [[Tears|tears]]; to quiet the hurry in her
 throbbing head, and bring herself to believe that what had happened
 were but the events of a few hours ago, instead of weeks or months, as
 they appeared; and went down to her kind protector.
 
 The Captain had spread the cloth with great care, and was making some
-egg-sauce in a little saucepan: basting the fowl from time to time
+egg-sauce in a little saucepan: basting the fowl from [[Time|time]] to [[Time|time]]
 during the process with a strong interest, as it turned and browned on
-a string before the fire. Having propped Florence up with cushions on
+a string before the [[Fire|fire]]. Having propped Florence up with cushions on
 the sofa, which was already wheeled into a warm corner for her greater
 comfort, the Captain pursued his cooking with extraordinary skill,
 making hot gravy in a second little saucepan, boiling a handful of
@@ -142,7 +142,7 @@ radiant cook as the Captain looked, in the height and heat of these
 functions: it being impossible to say whether his face or his glazed
 hat shone the brighter.
 
-The dinner being at length quite ready, Captain Cuttle dished and
+The dinner being at length quite ready, [[Captain Cuttle]] dished and
 served it up, with no less dexterity than he had cooked it. He then
 dressed for dinner, by taking off his glazed hat and putting on his
 coat. That done, he wheeled the table close against Florence on the
@@ -168,11 +168,11 @@ Florence had no words to answer with. She only said, “Oh, dear, dear
 Paul! oh, Walter!”
 
 “The wery planks she walked on,” murmured the Captain, looking at her
-drooping face, “was as high esteemed by Wal”r, as the water brooks is
+drooping face, “was as high esteemed by Wal”r, as the [[Water|water]] brooks is
 by the hart which never rejices! I see him now, the wery day as he was
 rated on them Dombey books, a speaking of her with his face a
 glistening with doo—leastways with his modest sentiments—like a new
-blowed rose, at dinner. Well, well! If our poor Wal”r was here, my lady
+blowed [[Rose|rose]], at dinner. [[Well]], [[Well|well]]! If our poor Wal”r was here, my lady
 lass—or if he could be—for he’s drownded, ain’t he?”
 
 Florence shook her head.
@@ -181,19 +181,19 @@ Florence shook her head.
 if he could be here he’d beg and pray of you, my precious, to pick a
 leetle bit, with a look-out for your own sweet health. Whereby, hold
 your own, my lady lass, as if it was for Wal”r’s sake, and lay your
-pretty head to the wind.”
+pretty head to the [[Wind|wind]].”
 
 Florence essayed to eat a morsel, for the Captain’s pleasure. The
 Captain, meanwhile, who seemed to have quite forgotten his own dinner,
 laid down his knife and fork, and drew his chair to the sofa.
 
 “Wal”r was a trim lad, warn’t he, precious?” said the Captain, after
-sitting for some time silently rubbing his chin, with his eyes fixed
+sitting for some [[Time|time]] silently rubbing his chin, with his eyes fixed
 upon her, “and a brave lad, and a good lad?”
 
 Florence tearfully assented.
 
-“And he’s drownded, Beauty, ain’t he?” said the Captain, in a soothing
+“And he’s drownded, [[Beauty]], ain’t he?” said the Captain, in a soothing
 voice.
 
 Florence could not but assent again.
@@ -206,7 +206,7 @@ Florence answered “Yes.”
 “And Wal”r’s drownded,” said the Captain. “Ain’t he?”
 
 The repetition of this inquiry was a curious source of consolation, but
-it seemed to be one to Captain Cuttle, for he came back to it again and
+it seemed to be one to [[Captain Cuttle]], for he came back to it again and
 again. Florence, fain to push from her her untasted dinner, and to lie
 back on her sofa, gave him her hand, feeling that she had disappointed
 him, though truly wishing to have pleased him after all his trouble,
@@ -220,7 +220,7 @@ consist.
 The fowl and sausages were cold, and the gravy and the egg-sauce
 stagnant, before the Captain remembered that they were on the board,
 and fell to with the assistance of Diogenes, whose united efforts
-quickly dispatched the banquet. The Captain’s delight and wonder at the
+quickly dispatched the banquet. The Captain’s delight and [[Wonder|wonder]] at the
 quiet housewifery of Florence in assisting to clear the table, arrange
 the parlour, and sweep up the hearth—only to be equalled by the
 fervency of his protest when she began to assist him—were gradually
@@ -242,7 +242,7 @@ place on the old sofa, looked at him with a smile so loving and so
 grateful, a smile that showed him so plainly how her forlorn heart
 turned to him, as her face did, through grief, that the smoke of the
 pipe got into the Captain’s throat and made him cough, and got into the
-Captain’s eyes, and made them blink and water.
+Captain’s eyes, and made them blink and [[Water|water]].
 
 The manner in which the Captain tried to make believe that the cause of
 these effects lay hidden in the pipe itself, and the way in which he
@@ -258,22 +258,22 @@ resume his smoking with infinite gentleness.
 
 Unlike as they were externally—and there could scarcely be a more
 decided contrast than between Florence in her delicate youth and
-beauty, and Captain Cuttle with his knobby face, his great broad
-weather-beaten person, and his gruff voice—in simple innocence of the
+[[Beauty|beauty]], and [[Captain Cuttle]] with his knobby face, his great broad
+weather-beaten person, and his gruff voice—in simple [[innocence]] of the
 world’s ways and the world’s perplexities and dangers, they were nearly
-on a level. No child could have surpassed Captain Cuttle in
-inexperience of everything but wind and weather; in simplicity,
-credulity, and generous trustfulness. Faith, hope, and charity, shared
-his whole nature among them. An odd sort of romance, perfectly
+on a level. No [[Child|child]] could have surpassed [[Captain Cuttle]] in
+inexperience of everything but [[Wind|wind]] and weather; in simplicity,
+credulity, and generous trustfulness. [[Faith]], [[Hope|hope]], and [[Charity|charity]], shared
+his whole [[Nature|nature]] among them. An odd sort of [[Romance|romance]], perfectly
 unimaginative, yet perfectly unreal, and subject to no considerations
 of worldly prudence or practicability, was the only partner they had in
 his character. As the Captain sat, and smoked, and looked at Florence,
 God knows what impossible pictures, in which she was the principal
 figure, presented themselves to his mind. Equally vague and uncertain,
 though not so sanguine, were her own thoughts of the life before her;
-and even as her tears made prismatic colours in the light she gazed at,
+and even as her [[Tears|tears]] made prismatic colours in the light she gazed at,
 so, through her new and heavy grief, she already saw a rainbow faintly
-shining in the far-off sky. A wandering princess and a good monster in
+shining in the far-off sky. A wandering princess and a good [[Monster|monster]] in
 a storybook might have sat by the fireside, and talked as Captain
 Cuttle and poor Florence talked—and not have looked very much unlike
 them.
@@ -282,7 +282,7 @@ The Captain was not troubled with the faintest idea of any difficulty
 in retaining Florence, or of any responsibility thereby incurred.
 Having put up the shutters and locked the door, he was quite satisfied
 on this head. If she had been a Ward in Chancery, it would have made no
-difference at all to Captain Cuttle. He was the last man in the world
+difference at all to [[Captain Cuttle]]. He was the last man in the world
 to be troubled by any such considerations.
 
 So the Captain smoked his pipe very comfortably, and Florence and he
@@ -290,13 +290,13 @@ meditated after their own manner. When the pipe was out, they had some
 tea; and then Florence entreated him to take her to some neighbouring
 shop, where she could buy the few necessaries she immediately wanted.
 It being quite dark, the Captain consented: peeping carefully out
-first, as he had been wont to do in his time of hiding from Mrs
+first, as he had been wont to do in his [[Time|time]] of hiding from Mrs
 MacStinger; and arming himself with his large stick, in case of an
 appeal to arms being rendered necessary by any unforeseen circumstance.
 
-The pride Captain Cuttle had, in giving his arm to Florence, and
+The [[Pride|pride]] [[Captain Cuttle]] had, in giving his arm to Florence, and
 escorting her some two or three hundred yards, keeping a bright
-look-out all the time, and attracting the attention of everyone who
+look-out all the [[Time|time]], and attracting the attention of everyone who
 passed them, by his great vigilance and numerous precautions, was
 extreme. Arrived at the shop, the Captain felt it a point of delicacy
 to retire during the making of the purchases, as they were to consist
@@ -310,26 +310,26 @@ mystery—to have the goodness to “sing out,” and he would make up the
 difference from his pocket. Casually consulting his big watch, as a
 deep means of dazzling the establishment, and impressing it with a
 sense of property, the Captain then kissed his hook to his niece, and
-retired outside the window, where it was a choice sight to see his
-great face looking in from time to time, among the silks and ribbons,
+retired outside the [[Window|window]], where it was a choice sight to see his
+great face looking in from [[Time|time]] to [[Time|time]], among the silks and ribbons,
 with an obvious misgiving that Florence had been spirited away by a
 back door.
 
-“Dear Captain Cuttle,” said Florence, when she came out with a parcel,
+“Dear [[Captain Cuttle]],” said Florence, when she came out with a parcel,
 the size of which greatly disappointed the Captain, who had expected to
 see a porter following with a bale of goods, “I don’t want this money,
 indeed. I have not spent any of it. I have money of my own.”
 
 “My lady lass,” returned the baffled Captain, looking straight down the
 street before them, “take care on it for me, will you be so good, till
-such time as I ask ye for it?”
+such [[Time|time]] as I ask ye for it?”
 
 “May I put it back in its usual place,” said Florence, “and keep it
 there?”
 
 The Captain was not at all gratified by this proposal, but he answered,
 “Ay, ay, put it anywheres, my lady lass, so long as you know where to
-find it again. It ain’t o’ no use to me,” said the Captain. “I wonder I
+find it again. It ain’t o’ no use to me,” said the Captain. “I [[Wonder|wonder]] I
 haven’t chucked it away afore now.
 
 The Captain was quite disheartened for the moment, but he revived at
@@ -340,23 +340,23 @@ great practice only could have taught him. During Florence’s slumber in
 the morning, he had engaged the daughter of an elderly lady who usually
 sat under a blue umbrella in Leadenhall Market, selling poultry, to
 come and put her room in order, and render her any little services she
-required; and this damsel now appearing, Florence found everything
+required; and this [[Damsel|damsel]] now appearing, Florence found everything
 about her as convenient and orderly, if not as handsome, as in the
-terrible dream she had once called Home.
+terrible dream she had once called [[Home]].
 
-When they were alone again, the Captain insisted on her eating a slice
+When they were [[Alone|alone]] again, the Captain insisted on her eating a slice
 of dry toast, and drinking a glass of spiced negus (which he made to
 perfection); and, encouraging her with every kind word and
 inconsequential quotation he could possibly think of, led her upstairs
 to her bedroom. But he too had something on his mind, and was not easy
 in his manner.
 
-“Good-night, dear heart,” said Captain Cuttle to her at her
+“Good-[[Night|night]], dear heart,” said [[Captain Cuttle]] to her at her
 chamber-door.
 
 Florence raised her lips to his face, and kissed him.
 
-At any other time the Captain would have been overbalanced by such a
+At any other [[Time|time]] the Captain would have been overbalanced by such a
 token of her affection and gratitude; but now, although he was very
 sensible of it, he looked in her face with even more uneasiness than he
 had testified before, and seemed unwilling to leave her.
@@ -369,13 +369,13 @@ had testified before, and seemed unwilling to leave her.
 
 Florence shook her head, and sighed.
 
-“Good-night, my lady lass!” said Captain Cuttle, putting out his hand.
+“Good-[[Night|night]], my lady lass!” said [[Captain Cuttle]], putting out his hand.
 
 “God bless you, dear, kind friend!”
 
 But the Captain lingered still.
 
-“Is anything the matter, dear Captain Cuttle?” said Florence, easily
+“Is anything the matter, dear [[Captain Cuttle]]?” said Florence, easily
 alarmed in her then state of mind. “Have you anything to tell me?”
 
 “To tell you, lady lass!” replied the Captain, meeting her eyes in
@@ -388,11 +388,11 @@ The Captain looked at her wistfully, and repeated “No,”— still
 lingering, and still showing embarrassment.
 
 “Poor Wal”r!” said the Captain. “My Wal”r, as I used to call you! Old
-Sol Gills’s nevy! Welcome to all as knowed you, as the flowers in May!
+Sol Gills’s nevy! Welcome to all as knowed you, as the [[Flowers|flowers]] in May!
 Where are you got to, brave boy? Drownded, ain’t he?”
 
 Concluding his apostrophe with this abrupt appeal to Florence, the
-Captain bade her good-night, and descended the stairs, while Florence
+Captain bade her good-[[Night|night]], and descended the stairs, while Florence
 remained at the top, holding the candle out to light him down. He was
 lost in the obscurity, and, judging from the sound of his receding
 footsteps, was in the act of turning into the little parlour, when his
@@ -404,11 +404,11 @@ disappeared.
 Florence was very sorry that she should unwittingly, though naturally,
 have awakened these associations in the mind of her protector, by
 taking refuge there; and sitting down before the little table where the
-Captain had arranged the telescope and song-book, and those other
+Captain had arranged the telescope and [[Song|song]]-book, and those other
 rarities, thought of Walter, and of all that was connected with him in
 the past, until she could have almost wished to lie down on her bed and
 fade away. But in her lonely yearning to the dead whom she had loved,
-no thought of home—no possibility of going back—no presentation of it
+no thought of [[Home|home]]—no possibility of going back—no presentation of it
 as yet existing, or as sheltering her father—once entered her thoughts.
 She had seen the murder done. In the last lingering natural aspect in
 which she had cherished him through so much, he had been torn out of
@@ -418,17 +418,17 @@ remembrance of the deed, or of the cruel hand that did it. If her fond
 heart could have held his image after that, it must have broken; but it
 could not; and the void was filled with a wild dread that fled from all
 confronting with its shattered fragments—with such a dread as could
-have risen out of nothing but the depths of such a love, so wronged.
+have risen out of nothing but the depths of such a [[Love|love]], so wronged.
 
 She dared not look into the glass; for the sight of the darkening mark
 upon her bosom made her afraid of herself, as if she bore about her
 something wicked. She covered it up, with a hasty, faltering hand, and
 in the dark; and laid her weary head down, weeping.
 
-The Captain did not go to bed for a long time. He walked to and fro in
+The Captain did not go to bed for a long [[Time|time]]. He walked to and fro in
 the shop and in the little parlour, for a full hour, and, appearing to
-have composed himself by that exercise, sat down with a grave and
-thoughtful face, and read out of a Prayer-book the forms of prayer
+have composed himself by that exercise, sat down with a [[Grave|grave]] and
+thoughtful face, and read out of a [[Prayer]]-book the forms of [[Prayer|prayer]]
 appointed to be used at sea. These were not easily disposed of; the
 good Captain being a mighty slow, gruff reader, and frequently stopping
 at a hard word to give himself such encouragement as “Now, my lad! With
@@ -441,7 +441,7 @@ very much when he had done, turned in, under the counter (but not
 before he had been upstairs, and listened at Florence’s door), with a
 serene breast, and a most benevolent visage.
 
-The Captain turned out several times in the course of the night, to
+The Captain turned out several times in the course of the [[Night|night]], to
 assure himself that his charge was resting quietly; and once, at
 daybreak, found that she was awake: for she called to know if it were
 he, on hearing footsteps near her door.
@@ -454,7 +454,7 @@ Florence thanked him, and said “Yes.”
 The Captain could not lose so favourable an opportunity of applying his
 mouth to the keyhole, and calling through it, like a hoarse breeze,
 “Poor Wal”r! Drownded, ain’t he?” after which he withdrew, and turning
-in again, slept till seven o’clock.
+in again, slept till seven o’[[Clock|clock]].
 
 Nor was he free from his uneasy and embarrassed manner all that day;
 though Florence, being busy with her needle in the little parlour, was
@@ -468,13 +468,13 @@ cruised completely round the parlour in that frail bark, and more than
 once went ashore against the wainscot or the closet door, in a very
 distressed condition.
 
-It was not until the twilight that Captain Cuttle, fairly dropping
+It was not until the twilight that [[Captain Cuttle]], fairly dropping
 anchor, at last, by the side of Florence, began to talk at all
-connectedly. But when the light of the fire was shining on the walls
+connectedly. But when the light of the [[Fire|fire]] was shining on the walls
 and ceiling of the little room, and on the tea-board and the cups and
 saucers that were ranged upon the table, and on her calm face turned
-towards the flame, and reflecting it in the tears that filled her eyes,
-the Captain broke a long silence thus:
+towards the flame, and reflecting it in the [[Tears|tears]] that filled her eyes,
+the Captain broke a long [[Silence|silence]] thus:
 
 “You never was at sea, my own?”
 
@@ -484,18 +484,18 @@ the Captain broke a long silence thus:
 There’s wonders in the deep, my pretty. Think on it when the winds is
 roaring and the waves is rowling. Think on it when the stormy nights is
 so pitch dark,” said the Captain, solemnly holding up his hook, “as you
-can’t see your hand afore you, excepting when the wiwid lightning
-reweals the same; and when you drive, drive, drive through the storm
+can’t see your hand afore you, excepting when the wiwid [[Lightning|lightning]]
+reweals the same; and when you drive, drive, drive through the [[Storm|storm]]
 and dark, as if you was a driving, head on, to the world without end,
 evermore, amen, and when found making a note of. Them’s the times, my
-beauty, when a man may say to his messmate (previously a overhauling of
+[[Beauty|beauty]], when a man may say to his messmate (previously a overhauling of
 the wollume), ‘A stiff nor’wester’s blowing, Bill; hark, don’t you hear
 it roar now! Lord help ’em, how I pitys all unhappy folks ashore now!’”
 Which quotation, as particularly applicable to the terrors of the
 ocean, the Captain delivered in a most impressive manner, concluding
 with a sonorous “Stand by!”
 
-“Were you ever in a dreadful storm?” asked Florence.
+“Were you ever in a dreadful [[Storm|storm]]?” asked Florence.
 
 “Why ay, my lady lass, I’ve seen my share of bad weather,” said the
 Captain, tremulously wiping his head, “and I’ve had my share of
@@ -508,24 +508,24 @@ with a face so pale and agitated, that she clung to his hand in
 affright.
 
 “Your face is changed,” cried Florence. “You are altered in a moment.
-What is it? Dear Captain Cuttle, it turns me cold to see you!”
+What is it? Dear [[Captain Cuttle]], it turns me cold to see you!”
 
 “What! Lady lass,” returned the Captain, supporting her with his hand,
-“don’t be took aback. No, no! All’s well, all’s well, my dear. As I was
+“don’t be took aback. No, no! All’s [[Well|well]], all’s [[Well|well]], my dear. As I was
 a saying—Wal”r—he’s—he’s drownded. Ain’t he?”
 
 Florence looked at him intently; her colour came and went; and she laid
 her hand upon her breast.
 
-“There’s perils and dangers on the deep, my beauty,” said the Captain;
-“and over many a brave ship, and many and many a bould heart, the
+“There’s perils and dangers on the deep, my [[Beauty|beauty]],” said the Captain;
+“and over many a brave [[Ship|ship]], and many and many a bould heart, the
 secret waters has closed up, and never told no tales. But there’s
 escapes upon the deep, too, and sometimes one man out of a score,—ah!
-maybe out of a hundred, pretty,—has been saved by the mercy of God, and
-come home after being given over for dead, and told of all hands lost.
+maybe out of a hundred, pretty,—has been saved by the [[Mercy|mercy]] of God, and
+come [[Home|home]] after being given over for dead, and told of all hands lost.
 I—I know a story, Heart’s Delight,” stammered the Captain, “o’ this
 natur, as was told to me once; and being on this here tack, and you and
-me sitting alone by the fire, maybe you’d like to hear me tell it.
+me sitting [[Alone|alone]] by the [[Fire|fire]], maybe you’d like to hear me tell it.
 Would you, deary?”
 
 Florence, trembling with an agitation which she could not control or
@@ -533,45 +533,45 @@ understand, involuntarily followed his glance, which went behind her
 into the shop, where a lamp was burning. The instant that she turned
 her head, the Captain sprung out of his chair, and interposed his hand.
 
-“There’s nothing there, my beauty,” said the Captain. “Don’t look
+“There’s nothing there, my [[Beauty|beauty]],” said the Captain. “Don’t look
 there.”
 
 “Why not?” asked Florence.
 
 The Captain murmured something about its being dull that way, and about
-the fire being cheerful. He drew the door ajar, which had been standing
+the [[Fire|fire]] being cheerful. He drew the door ajar, which had been standing
 open until now, and resumed his seat. Florence followed him with her
 eyes, and looked intently in his face.
 
-“The story was about a ship, my lady lass,” began the Captain, “as
-sailed out of the Port of London, with a fair wind and in fair weather,
+“The story was about a [[Ship|ship]], my lady lass,” began the Captain, “as
+sailed out of the Port of [[London]], with a fair [[Wind|wind]] and in fair weather,
 bound for—don’t be took aback, my lady lass, she was only out’ard
 bound, pretty, only out’ard bound!”
 
 The expression on Florence’s face alarmed the Captain, who was himself
 very hot and flurried, and showed scarcely less agitation than she did.
 
-“Shall I go on, Beauty?” said the Captain.
+“Shall I go on, [[Beauty]]?” said the Captain.
 
 “Yes, yes, pray!” cried Florence.
 
 The Captain made a gulp as if to get down something that was sticking
 in his throat, and nervously proceeded:
 
-“That there unfort’nate ship met with such foul weather, out at sea, as
+“That there unfort’nate [[Ship|ship]] met with such foul weather, out at sea, as
 don’t blow once in twenty year, my darling. There was hurricanes ashore
 as tore up forests and blowed down towns, and there was gales at sea in
 them latitudes, as not the stoutest wessel ever launched could live in.
-Day arter day that there unfort’nate ship behaved noble, I’m told, and
+Day arter day that there unfort’nate [[Ship|ship]] behaved noble, I’m told, and
 did her duty brave, my pretty, but at one blow a’most her bulwarks was
 stove in, her masts and rudder carved away, her best man swept
-overboard, and she left to the mercy of the storm as had no mercy but
+overboard, and she left to the [[Mercy|mercy]] of the [[Storm|storm]] as had no [[Mercy|mercy]] but
 blowed harder and harder yet, while the waves dashed over her, and beat
-her in, and every time they come a thundering at her, broke her like a
-shell. Every black spot in every mountain of water that rolled away was
-a bit o’ the ship’s life or a living man, and so she went to pieces,
-Beauty, and no grass will never grow upon the graves of them as manned
-that ship.”
+her in, and every [[Time|time]] they come a thundering at her, broke her like a
+shell. Every black spot in every mountain of [[Water|water]] that rolled away was
+a bit o’ the [[Ship|ship]]’s life or a living man, and so she went to pieces,
+[[Beauty]], and no grass will never grow upon the graves of them as manned
+that [[Ship|ship]].”
 
 “They were not all lost!” cried Florence. “Some were saved!—Was one?”
 
@@ -581,9 +581,9 @@ exultation, “was a lad, a gallant lad—as I’ve heerd tell—that had
 loved, when he was a boy, to read and talk about brave actions in
 shipwrecks—I’ve heerd him! I’ve heerd him!—and he remembered of ’em in
 his hour of need; for when the stoutest and oldest hands was hove down,
-he was firm and cheery. It warn’t the want of objects to like and love
-ashore that gave him courage, it was his nat’ral mind. I’ve seen it in
-his face, when he was no more than a child—ay, many a time!—and when I
+he was firm and cheery. It warn’t the want of objects to like and [[Love|love]]
+ashore that gave him [[Courage|courage]], it was his nat’ral mind. I’ve seen it in
+his face, when he was no more than a [[Child|child]]—ay, many a [[Time|time]]!—and when I
 thought it nothing but his good looks, bless him!”
 
 “And was he saved!” cried Florence. “Was he saved!”
@@ -597,17 +597,17 @@ Florence had hardly power to repeat, “Why not?”
 took aback, pretty creetur! Don’t, for the sake of Wal”r, as was dear
 to all on us! That there lad,” said the Captain, “arter working with
 the best, and standing by the faint-hearted, and never making no
-complaint nor sign of fear, and keeping up a spirit in all hands that
-made ’em honour him as if he’d been a admiral—that lad, along with the
+complaint nor sign of [[Fear|fear]], and keeping up a spirit in all hands that
+made ’em [[Honour|honour]] him as if he’d been a admiral—that lad, along with the
 second-mate and one seaman, was left, of all the beatin’ hearts that
-went aboard that ship, the only living creeturs—lashed to a fragment of
+went aboard that [[Ship|ship]], the only living creeturs—lashed to a [[Fragment|fragment]] of
 the wreck, and driftin’ on the stormy sea.”
 
 “Were they saved?” cried Florence.
 
 “Days and nights they drifted on them endless waters,” said the
 Captain, “until at last—No! Don’t look that way, pretty!—a sail bore
-down upon ’em, and they was, by the Lord’s mercy, took aboard: two
+down upon ’em, and they was, by the Lord’s [[Mercy|mercy]], took aboard: two
 living and one dead.”
 
 “Which of them was dead?” cried Florence.
@@ -617,20 +617,20 @@ living and one dead.”
 “Thank God! oh thank God!”
 
 “Amen!” returned the Captain hurriedly. “Don’t be took aback! A minute
-more, my lady lass! with a good heart!—aboard that ship, they went a
+more, my lady lass! with a good heart!—aboard that [[Ship|ship]], they went a
 long voyage, right away across the chart (for there warn’t no touching
 nowhere), and on that voyage the seaman as was picked up with him died.
 But he was spared, and—”
 
 The Captain, without knowing what he did, had cut a slice of bread from
 the loaf, and put it on his hook (which was his usual toasting-fork),
-on which he now held it to the fire; looking behind Florence with great
-emotion in his face, and suffering the bread to blaze and burn like
+on which he now held it to the [[Fire|fire]]; looking behind Florence with great
+emotion in his face, and [[Suffering|suffering]] the bread to blaze and burn like
 fuel.
 
 “Was spared,” repeated Florence, “and—?”
 
-“And come home in that ship,” said the Captain, still looking in the
+“And come [[Home|home]] in that [[Ship|ship]],” said the Captain, still looking in the
 same direction, “and—don’t be frightened, pretty—and landed; and one
 morning come cautiously to his own door to take a obserwation, knowing
 that his friends would think him drownded, when he sheered off at the
@@ -638,26 +638,26 @@ unexpected—”
 
 “At the unexpected barking of a dog?” cried Florence, quickly.
 
-“Yes,” roared the Captain. “Steady, darling! courage! Don’t look round
+“Yes,” roared the Captain. “Steady, darling! [[Courage|courage]]! Don’t look round
 yet. See there! upon the wall!”
 
-There was the shadow of a man upon the wall close to her. She started
-up, looked round, and with a piercing cry, saw Walter Gay behind her!
+There was the [[Shadow|shadow]] of a man upon the wall close to her. She started
+up, looked round, and with a piercing cry, saw [[Walter Gay]] behind her!
 
 [Illustration]
 
 She had no thought of him but as a brother, a brother rescued from the
-grave; a shipwrecked brother saved and at her side; and rushed into his
-arms. In all the world, he seemed to be her hope, her comfort, refuge,
+[[Grave|grave]]; a shipwrecked brother saved and at her side; and rushed into his
+arms. In all the world, he seemed to be her [[Hope|hope]], her comfort, refuge,
 natural protector. “Take care of Walter, I was fond of Walter!” The
 dear remembrance of the plaintive voice that said so, rushed upon her
-soul, like music in the night. “Oh welcome home, dear Walter! Welcome
+[[Soul|soul]], like music in the [[Night|night]]. “Oh welcome [[Home|home]], dear Walter! Welcome
 to this stricken breast!” She felt the words, although she could not
 utter them, and held him in her pure embrace.
 
-Captain Cuttle, in a fit of delirium, attempted to wipe his head with
+[[Captain Cuttle]], in a fit of delirium, attempted to wipe his head with
 the blackened toast upon his hook: and finding it an uncongenial
-substance for the purpose, put it into the crown of his glazed hat, put
+substance for the purpose, put it into the [[Crown|crown]] of his glazed hat, put
 the glazed hat on with some difficulty, essayed to sing a verse of
 Lovely Peg, broke down at the first word, and retired into the shop,
 whence he presently came back express, with a face all flushed and
@@ -672,13 +672,13 @@ sugar-tongs, and the canister, and laying them on the table, swept them
 with his great hand into Walter’s hat; but in handing that singular
 strong box to Walter, he was so overcome again, that he was fain to
 make another retreat into the shop, and absent himself for a longer
-space of time than on his first retirement.
+space of [[Time|time]] than on his first retirement.
 
 But Walter sought him out, and brought him back; and then the Captain’s
 great apprehension was, that Florence would suffer from this new shock.
 He felt it so earnestly, that he turned quite rational, and positively
 interdicted any further allusion to Walter’s adventures for some days
-to come. Captain Cuttle then became sufficiently composed to relieve
+to come. [[Captain Cuttle]] then became sufficiently composed to relieve
 himself of the toast in his hat, and to take his place at the
 tea-board; but finding Walter’s grasp upon his shoulder, on one side,
 and Florence whispering her tearful congratulations on the other, the
@@ -693,13 +693,13 @@ the last half-hour. It was solely the effect of his internal emotions.
 There was a glory and delight within the Captain that spread itself
 over his whole visage, and made a perfect illumination there.
 
-The pride with which the Captain looked upon the bronzed cheek and the
+The [[Pride|pride]] with which the Captain looked upon the bronzed cheek and the
 courageous eyes of his recovered boy; with which he saw the generous
 fervour of his youth, and all its frank and hopeful qualities, shining
 once more, in the fresh, wholesome manner, and the ardent face, would
 have kindled something of this light in his countenance. The admiration
-and sympathy with which he turned his eyes on Florence, whose beauty,
-grace, and innocence could have won no truer or more zealous champion
+and sympathy with which he turned his eyes on Florence, whose [[Beauty|beauty]],
+grace, and [[innocence]] could have won no truer or more zealous champion
 than himself, would have had an equal influence upon him. But the
 fulness of the glow he shed around him could only have been engendered
 in his contemplation of the two together, and in all the fancies
@@ -709,21 +709,21 @@ his head, and danced about it.
 How they talked of poor old Uncle Sol, and dwelt on every little
 circumstance relating to his disappearance; how their joy was moderated
 by the old man’s absence and by the misfortunes of Florence; how they
-released Diogenes, whom the Captain had decoyed upstairs some time
+released Diogenes, whom the Captain had decoyed upstairs some [[Time|time]]
 before, lest he should bark again; the Captain, though he was in one
 continual flutter, and made many more short plunges into the shop,
 fully comprehended. But he no more dreamed that Walter looked on
 Florence, as it were, from a new and far-off place; that while his eyes
 often sought the lovely face, they seldom met its open glance of
 sisterly affection, but withdrew themselves when hers were raised
-towards him; than he believed that it was Walter’s ghost who sat beside
-him. He saw them together in their youth and beauty, and he knew the
+towards him; than he believed that it was Walter’s [[Ghost|ghost]] who sat beside
+him. He saw them together in their youth and [[Beauty|beauty]], and he knew the
 story of their younger days, and he had no inch of room beneath his
 great blue waistcoat for anything save admiration of such a pair, and
 gratitude for their being reunited.
 
 They sat thus, until it grew late. The Captain would have been content
-to sit so for a week. But Walter rose, to take leave for the night.
+to sit so for a week. But Walter [[Rose|rose]], to take leave for the [[Night|night]].
 
 “Going, Walter!” said Florence. “Where?”
 
@@ -750,7 +750,7 @@ She smiled, and called him brother.
 “I changed!” she interrupted.
 
 “—To me,” said Walter, softly, as if he were thinking aloud, “changed
-to me. I left you such a child, and find you—oh! something so
+to me. I left you such a [[Child|child]], and find you—oh! something so
 different—”
 
 “But your sister, Walter. You have not forgotten what we promised to
@@ -758,16 +758,16 @@ each other, when we parted?”
 
 “Forgotten!” But he said no more.
 
-“And if you had—if suffering and danger had driven it from your
+“And if you had—if [[Suffering|suffering]] and danger had driven it from your
 thoughts—which it has not—you would remember it now, Walter, when you
-find me poor and abandoned, with no home but this, and no friends but
+find me poor and abandoned, with no [[Home|home]] but this, and no friends but
 the two who hear me speak!”
 
 “I would! Heaven knows I would!” said Walter.
 
-“Oh, Walter,” exclaimed Florence, through her sobs and tears. “Dear
+“Oh, Walter,” exclaimed Florence, through her sobs and [[Tears|tears]]. “Dear
 brother! Show me some way through the world—some humble path that I may
-take alone, and labour in, and sometimes think of you as one who will
+take [[Alone|alone]], and labour in, and sometimes think of you as one who will
 protect and care for me as for a sister! Oh, help me, Walter, for I
 need help so much!”
 
@@ -782,8 +782,8 @@ He never, from that hour, forgot the voice and look with which she
 stopped him at the name. He felt that if he were to live a hundred
 years, he never could forget it.
 
-Somewhere—anywhere—but never home! All past, all gone, all lost, and
-broken up! The whole history of her untold slight and suffering was in
+Somewhere—anywhere—but never [[Home|home]]! All past, all gone, all lost, and
+broken up! The whole [[history]] of her untold slight and [[Suffering|suffering]] was in
 the cry and look; and he felt he never could forget it, and he never
 did.
 
@@ -791,7 +791,7 @@ She laid her gentle face upon the Captain’s shoulder, and related how
 and why she had fled. If every sorrowing tear she shed in doing so, had
 been a curse upon the head of him she never named or blamed, it would
 have been better for him, Walter thought, with awe, than to be
-renounced out of such a strength and might of love.
+renounced out of such a strength and might of [[Love|love]].
 
 “There, precious!” said the Captain, when she ceased; and deep
 attention the Captain had paid to her while she spoke; listening, with
@@ -801,11 +801,11 @@ to me!”
 
 Walter took her hand in both of his, and put it to his lips, and kissed
 it. He knew now that she was, indeed, a homeless wandering fugitive;
-but, richer to him so, than in all the wealth and pride of her right
+but, richer to him so, than in all the wealth and [[Pride|pride]] of her right
 station, she seemed farther off than even on the height that had made
-him giddy in his boyish dreams.
+him giddy in his boyish [[Dreams|dreams]].
 
-Captain Cuttle, perplexed by no such meditations, guarded Florence to
+[[Captain Cuttle]], perplexed by no such meditations, guarded Florence to
 her room, and watched at intervals upon the charmed ground outside her
 door—for such it truly was to him—until he felt sufficiently easy in
 his mind about her, to turn in under the counter. On abandoning his

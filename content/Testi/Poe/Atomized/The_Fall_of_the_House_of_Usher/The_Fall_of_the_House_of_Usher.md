@@ -1,5 +1,5 @@
 ---
-title: "The Fall of the House of Usher"
+title: "[[The Fall of the House of Usher]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
@@ -18,39 +18,39 @@ Son cœur est un luth suspendu;
 
 —_De Béranger_.
 
-      During the whole of a dull, dark, and soundless day in the autumn
+      During the whole of a dull, dark, and soundless day in the [[Autumn|autumn]]
       of the year, when the clouds hung oppressively low in the
-      heavens, I had been passing alone, on horseback, through a
+      heavens, I had been passing [[Alone|alone]], on horseback, through a
       singularly dreary tract of country; and at length found myself,
       as the shades of the evening drew on, within view of the
-      melancholy House of Usher. I know not how it was—but, with the
+      [[Melancholy|melancholy]] [[house|House]] of Usher. I know not how it was—but, with the
       first glimpse of the building, a sense of insufferable gloom
       pervaded my spirit. I say insufferable; for the feeling was
       unrelieved by any of that half-pleasurable, because poetic,
       sentiment, with which the mind usually receives even the sternest
       natural images of the desolate or terrible. I looked upon the
-      scene before me—upon the mere house, and the simple landscape
+      scene before me—upon the mere [[house]], and the simple landscape
       features of the domain—upon the bleak walls—upon the vacant
       eye-like windows—upon a few rank sedges—and upon a few white
-      trunks of decayed trees—with an utter depression of soul which I
+      trunks of decayed trees—with an utter depression of [[Soul|soul]] which I
       can compare to no earthly sensation more properly than to the
       after-dream of the reveller upon opium—the bitter lapse into
       everyday life—the hideous dropping off of the veil. There was an
       iciness, a sinking, a sickening of the heart—an unredeemed
-      dreariness of thought which no goading of the imagination could
-      torture into aught of the sublime. What was it—I paused to
+      dreariness of thought which no goading of the [[Imagination|imagination]] could
+      torture into aught of the [[Sublime|sublime]]. What was it—I paused to
       think—what was it that so unnerved me in the contemplation of the
-      House of Usher? It was a mystery all insoluble; nor could I
+      [[house|House]] of Usher? It was a mystery all insoluble; nor could I
       grapple with the shadowy fancies that crowded upon me as I
       pondered. I was forced to fall back upon the unsatisfactory
-      conclusion, that while, beyond doubt, there _are_ combinations of
+      conclusion, that while, beyond [[Doubt|doubt]], there _are_ combinations of
       very simple natural objects which have the power of thus
       affecting us, still the analysis of this power lies among
       considerations beyond our depth. It was possible, I reflected,
       that a mere different arrangement of the particulars of the
       scene, of the details of the picture, would be sufficient to
       modify, or perhaps to annihilate its capacity for sorrowful
-      impression; and, acting upon this idea, I reined my horse to the
+      impression; and, acting upon this idea, I reined my [[Horse|horse]] to the
       precipitous brink of a black and lurid tarn that lay in unruffled
       lustre by the dwelling, and gazed down—but with a shudder even
       more thrilling than before—upon the remodelled and inverted
@@ -58,14 +58,14 @@ Son cœur est un luth suspendu;
       vacant and eye-like windows.
 
       Nevertheless, in this mansion of gloom I now proposed to myself a
-      sojourn of some weeks. Its proprietor, Roderick Usher, had been
+      sojourn of some weeks. Its proprietor, [[Roderick Usher]], had been
       one of my boon companions in boyhood; but many years had elapsed
       since our last meeting. A letter, however, had lately reached me
       in a distant part of the country—a letter from him—which, in its
-      wildly importunate nature, had admitted of no other than a
+      wildly importunate [[Nature|nature]], had admitted of no other than a
       personal reply. The MS. gave evidence of nervous agitation. The
       writer spoke of acute bodily illness—of a mental disorder which
-      oppressed him—and of an earnest desire to see me, as his best,
+      oppressed him—and of an earnest [[Desire|desire]] to see me, as his best,
       and indeed his only personal friend, with a view of attempting,
       by the cheerfulness of my society, some alleviation of his
       malady. It was the manner in which all this, and much more, was
@@ -76,14 +76,14 @@ Son cœur est un luth suspendu;
       Although, as boys, we had been even intimate associates, yet I
       really knew little of my friend. His reserve had been always
       excessive and habitual. I was aware, however, that his very
-      ancient family had been noted, time out of mind, for a peculiar
+      ancient family had been noted, [[Time|time]] out of mind, for a peculiar
       sensibility of temperament, displaying itself, through long ages,
       in many works of exalted art, and manifested, of late, in
-      repeated deeds of munificent yet unobtrusive charity, as well as
+      repeated deeds of munificent yet unobtrusive [[Charity|charity]], as [[Well|well]] as
       in a passionate devotion to the intricacies, perhaps even more
       than to the orthodox and easily recognisable beauties, of musical
       science. I had learned, too, the very remarkable fact, that the
-      stem of the Usher race, all time-honored as it was, had put
+      stem of the Usher race, all [[Time|time]]-honored as it was, had put
       forth, at no period, any enduring branch; in other words, that
       the entire family lay in the direct line of descent, and had
       always, with very trifling and very temporary variation, so lain.
@@ -96,22 +96,22 @@ Son cœur est un luth suspendu;
       undeviating transmission, from sire to son, of the patrimony with
       the name, which had, at length, so identified the two as to merge
       the original title of the estate in the quaint and equivocal
-      appellation of the “House of Usher”—an appellation which seemed
+      appellation of the “[[house|House]] of Usher”—an appellation which seemed
       to include, in the minds of the peasantry who used it, both the
       family and the family mansion.
 
       I have said that the sole effect of my somewhat childish
       experiment—that of looking down within the tarn—had been to
-      deepen the first singular impression. There can be no doubt that
+      deepen the first singular impression. There can be no [[Doubt|doubt]] that
       the consciousness of the rapid increase of my superstition—for
       why should I not so term it?—served mainly to accelerate the
       increase itself. Such, I have long known, is the paradoxical law
       of all sentiments having terror as a basis. And it might have
       been for this reason only, that, when I again uplifted my eyes to
-      the house itself, from its image in the pool, there grew in my
+      the [[house]] itself, from its image in the pool, there grew in my
       mind a strange fancy—a fancy so ridiculous, indeed, that I but
       mention it to show the vivid force of the sensations which
-      oppressed me. I had so worked upon my imagination as really to
+      oppressed me. I had so worked upon my [[Imagination|imagination]] as really to
       believe that about the whole mansion and domain there hung an
       atmosphere peculiar to themselves and their immediate vicinity—an
       atmosphere which had no affinity with the air of heaven, but
@@ -119,7 +119,7 @@ Son cœur est un luth suspendu;
       and the silent tarn—a pestilent and mystic vapor, dull, sluggish,
       faintly discernible, and leaden-hued.
 
-      Shaking off from my spirit what _must_ have been a dream, I
+      Shaking off from my spirit what _must_ have been [[A Dream|a dream]], I
       scanned more narrowly the real aspect of the building. Its
       principal feature seemed to be that of an excessive antiquity.
       The discoloration of ages had been great. Minute fungi overspread
@@ -132,16 +132,16 @@ Son cœur est un luth suspendu;
       specious totality of old wood-work which has rotted for long
       years in some neglected vault, with no disturbance from the
       breath of the external air. Beyond this indication of extensive
-      decay, however, the fabric gave little token of instability.
+      [[Decay|decay]], however, the fabric gave little token of instability.
       Perhaps the eye of a scrutinizing observer might have discovered
       a barely perceptible fissure, which, extending from the roof of
       the building in front, made its way down the wall in a zigzag
       direction, until it became lost in the sullen waters of the tarn.
 
-      Noticing these things, I rode over a short causeway to the house.
-      A servant in waiting took my horse, and I entered the Gothic
+      Noticing these things, I rode over a short causeway to the [[house]].
+      A servant in waiting took my [[Horse|horse]], and I entered the Gothic
       archway of the hall. A valet, of stealthy step, thence conducted
-      me, in silence, through many dark and intricate passages in my
+      me, in [[Silence|silence]], through many dark and intricate passages in my
       progress to the _studio_ of his master. Much that I encountered
       on the way contributed, I know not how, to heighten the vague
       sentiments of which I have already spoken. While the objects
@@ -180,8 +180,8 @@ Son cœur est un luth suspendu;
       perfect sincerity. We sat down; and for some moments, while he
       spoke not, I gazed upon him with a feeling half of pity, half of
       awe. Surely, man had never before so terribly altered, in so
-      brief a period, as had Roderick Usher! It was with difficulty
-      that I could bring myself to admit the identity of the wan being
+      brief a period, as had [[Roderick Usher]]! It was with difficulty
+      that I could bring myself to admit the [[Identity|identity]] of the wan being
       before me with the companion of my early boyhood. Yet the
       character of his face had been at all times remarkable. A
       cadaverousness of complexion; an eye large, liquid, and luminous
@@ -206,22 +206,22 @@ Son cœur est un luth suspendu;
       incoherence—an inconsistency; and I soon found this to arise from
       a series of feeble and futile struggles to overcome an habitual
       trepidancy—an excessive nervous agitation. For something of this
-      nature I had indeed been prepared, no less by his letter, than by
+      [[Nature|nature]] I had indeed been prepared, no less by his letter, than by
       reminiscences of certain boyish traits, and by conclusions
       deduced from his peculiar physical conformation and temperament.
       His action was alternately vivacious and sullen. His voice varied
       rapidly from a tremulous indecision (when the animal spirits
       seemed utterly in abeyance) to that species of energetic
       concision—that abrupt, weighty, unhurried, and hollow-sounding
-      enunciation—that leaden, self-balanced and perfectly modulated
+      enunciation—that leaden, [[Self|self]]-balanced and perfectly modulated
       guttural utterance, which may be observed in the lost drunkard,
       or the irreclaimable eater of opium, during the periods of his
       most intense excitement.
 
       It was thus that he spoke of the object of my visit, of his
-      earnest desire to see me, and of the solace he expected me to
+      earnest [[Desire|desire]] to see me, and of the solace he expected me to
       afford him. He entered, at some length, into what he conceived to
-      be the nature of his malady. It was, he said, a constitutional
+      be the [[Nature|nature]] of his malady. It was, he said, a constitutional
       and a family evil, and one for which he despaired to find a
       remedy—a mere nervous affection, he immediately added, which
       would undoubtedly soon pass off. It displayed itself in a host of
@@ -229,8 +229,8 @@ Son cœur est un luth suspendu;
       interested and bewildered me; although, perhaps, the terms, and
       the general manner of the narration had their weight. He suffered
       much from a morbid acuteness of the senses; the most insipid food
-      was alone endurable; he could wear only garments of certain
-      texture; the odors of all flowers were oppressive; his eyes were
+      was [[Alone|alone]] endurable; he could wear only garments of certain
+      texture; the odors of all [[Flowers|flowers]] were oppressive; his eyes were
       tortured by even a faint light; and there were but peculiar
       sounds, and these from stringed instruments, which did not
       inspire him with horror.
@@ -240,12 +240,12 @@ Son cœur est un luth suspendu;
       Thus, thus, and not otherwise, shall I be lost. I dread the
       events of the future, not in themselves, but in their results. I
       shudder at the thought of any, even the most trivial, incident,
-      which may operate upon this intolerable agitation of soul. I
+      which may operate upon this intolerable agitation of [[Soul|soul]]. I
       have, indeed, no abhorrence of danger, except in its absolute
       effect—in terror. In this unnerved—in this pitiable condition—I
       feel that the period will sooner or later arrive when I must
       abandon life and reason together, in some struggle with the grim
-      phantasm, FEAR.”
+      phantasm, [[Fear|FEAR]].”
 
       I learned, moreover, at intervals, and through broken and
       equivocal hints, another singular feature of his mental
@@ -268,7 +268,7 @@ Son cœur est un luth suspendu;
       long years—his last and only relative on earth. “Her decease,” he
       said, with a bitterness which I can never forget, “would leave
       him (him the hopeless and the frail) the last of the ancient race
-      of the Ushers.” While he spoke, the lady Madeline (for so was she
+      of the Ushers.” While he spoke, the lady [[Madeline]] (for so was she
       called) passed slowly through a remote portion of the apartment,
       and, without having noticed my presence, disappeared. I regarded
       her with an utter astonishment not unmingled with dread—and yet I
@@ -278,16 +278,16 @@ Son cœur est un luth suspendu;
       instinctively and eagerly the countenance of the brother—but he
       had buried his face in his hands, and I could only perceive that
       a far more than ordinary wanness had overspread the emaciated
-      fingers through which trickled many passionate tears.
+      fingers through which trickled many passionate [[Tears|tears]].
 
-      The disease of the lady Madeline had long baffled the skill of
+      The disease of the lady [[Madeline]] had long baffled the skill of
       her physicians. A settled apathy, a gradual wasting away of the
       person, and frequent although transient affections of a partially
       cataleptical character, were the unusual diagnosis. Hitherto she
       had steadily borne up against the pressure of her malady, and had
       not betaken herself finally to bed; but, on the closing in of the
-      evening of my arrival at the house, she succumbed (as her brother
-      told me at night with inexpressible agitation) to the prostrating
+      evening of my arrival at the [[house]], she succumbed (as her brother
+      told me at [[Night|night]] with inexpressible agitation) to the prostrating
       power of the destroyer; and I learned that the glimpse I had
       obtained of her person would thus probably be the last I should
       obtain—that the lady, at least while living, would be seen by me
@@ -295,8 +295,8 @@ Son cœur est un luth suspendu;
 
       For several days ensuing, her name was unmentioned by either
       Usher or myself; and during this period I was busied in earnest
-      endeavors to alleviate the melancholy of my friend. We painted
-      and read together; or I listened, as if in a dream, to the wild
+      endeavors to alleviate the [[Melancholy|melancholy]] of my friend. We painted
+      and read together; or I listened, as if in [[A Dream|a dream]], to the wild
       improvisations of his speaking guitar. And thus, as a closer and
       still closer intimacy admitted me more unreservedly into the
       recesses of his spirit, the more bitterly did I perceive the
@@ -305,8 +305,8 @@ Son cœur est un luth suspendu;
       of the moral and physical universe, in one unceasing radiation of
       gloom.
 
-      I shall ever bear about me a memory of the many solemn hours I
-      thus spent alone with the master of the House of Usher. Yet I
+      I shall ever bear about me a [[Memory|memory]] of the many solemn hours I
+      thus spent [[Alone|alone]] with the master of the [[house|House]] of Usher. Yet I
       should fail in any attempt to convey an idea of the exact
       character of the studies, or of the occupations, in which he
       involved me, or led me the way. An excited and highly distempered
@@ -320,12 +320,12 @@ Son cœur est un luth suspendu;
       paintings (vivid as their images now are before me) I would in
       vain endeavor to educe more than a small portion which should lie
       within the compass of merely written words. By the utter
-      simplicity, by the nakedness of his designs, he arrested and
+      simplicity, by the [[Nakedness|nakedness]] of his designs, he arrested and
       overawed attention. If ever mortal painted an idea, that mortal
-      was Roderick Usher. For me at least—in the circumstances then
+      was [[Roderick Usher]]. For me at least—in the circumstances then
       surrounding me—there arose out of the pure abstractions which the
       hypochondriac contrived to throw upon his canvass, an intensity
-      of intolerable awe, no shadow of which felt I ever yet in the
+      of intolerable awe, no [[Shadow|shadow]] of which felt I ever yet in the
       contemplation of the certainly glowing yet too concrete reveries
       of Fuseli.
 
@@ -334,7 +334,7 @@ Son cœur est un luth suspendu;
       although feebly, in words. A small picture presented the interior
       of an immensely long and rectangular vault or tunnel, with low
       walls, smooth, white, and without interruption or device. Certain
-      accessory points of the design served well to convey the idea
+      accessory points of the design served [[Well|well]] to convey the idea
       that this excavation lay at an exceeding depth below the surface
       of the earth. No outlet was observed in any portion of its vast
       extent, and no torch, or other artificial source of light was
@@ -348,7 +348,7 @@ Son cœur est un luth suspendu;
       the guitar, which gave birth, in great measure, to the fantastic
       character of his performances. But the fervid _facility_ of his
       _impromptus_ could not be so accounted for. They must have been,
-      and were, in the notes, as well as in the words of his wild
+      and were, in the notes, as [[Well|well]] as in the words of his wild
       fantasias (for he not unfrequently accompanied himself with
       rhymed verbal improvisations), the result of that intense mental
       collectedness and concentration to which I have previously
@@ -357,9 +357,9 @@ Son cœur est un luth suspendu;
       have easily remembered. I was, perhaps, the more forcibly
       impressed with it, as he gave it, because, in the under or mystic
       current of its meaning, I fancied that I perceived, and for the
-      first time, a full consciousness on the part of Usher of the
+      first [[Time|time]], a full consciousness on the part of Usher of the
       tottering of his lofty reason upon her throne. The verses, which
-      were entitled “The Haunted Palace,” ran very nearly, if not
+      were entitled “[[The Haunted Palace]],” ran very nearly, if not
       accurately, thus:
 
                         I.
@@ -376,7 +376,7 @@ Son cœur est un luth suspendu;
      Banners yellow, glorious, golden,
     On its roof did float and flow;
      (This—all this—was in the olden
-    Time long ago)
+    [[Time]] long ago)
      And every gentle air that dallied,
     In that sweet day,
      Along the ramparts plumed and pallid,
@@ -386,10 +386,10 @@ Son cœur est un luth suspendu;
      Wanderers in that happy valley
     Through two luminous windows saw
      Spirits moving musically
-    To a lute’s well-tunéd law,
+    To a lute’s [[Well|well]]-tunéd law,
      Round about a throne, where sitting
     (Porphyrogene!)
-     In state his glory well befitting,
+     In state his glory [[Well|well]] befitting,
     The ruler of the realm was seen.
 
                         IV.
@@ -399,30 +399,30 @@ Son cœur est un luth suspendu;
     And sparkling evermore,
      A troop of Echoes whose sweet duty
     Was but to sing,
-     In voices of surpassing beauty,
-    The wit and wisdom of their king.
+     In voices of surpassing [[Beauty|beauty]],
+    The wit and wisdom of their [[King|king]].
 
                         V.
      But evil things, in robes of sorrow,
     Assailed the monarch’s high estate;
      (Ah, let us mourn, for never morrow
-    Shall dawn upon him, desolate!)
-     And, round about his home, the glory
+    Shall [[Dawn|dawn]] upon him, desolate!)
+     And, round about his [[Home|home]], the glory
     That blushed and bloomed
      Is but a dim-remembered story
-    Of the old time entombed.
+    Of the old [[Time|time]] entombed.
 
                         VI.
      And travellers now within that valley,
     Through the red-litten windows, see
      Vast forms that move fantastically
     To a discordant melody;
-     While, like a rapid ghastly river,
+     While, like a rapid ghastly [[River|river]],
     Through the pale door,
      A hideous throng rush out forever,
     And laugh—but smile no more.
 
-      I well remember that suggestions arising from this ballad, led us
+      I [[Well|well]] remember that suggestions arising from this ballad, led us
       into a train of thought wherein there became manifest an opinion
       of Usher’s which I mention not so much on account of its novelty,
       (for other men * have thought thus,) as on account of the
@@ -431,14 +431,14 @@ Son cœur est un luth suspendu;
       But, in his disordered fancy, the idea had assumed a more daring
       character, and trespassed, under certain conditions, upon the
       kingdom of inorganization. I lack words to express the full
-      extent, or the earnest _abandon_ of his persuasion. The belief,
+      extent, or the earnest _abandon_ of his [[Persuasion|persuasion]]. The belief,
       however, was connected (as I have previously hinted) with the
-      gray stones of the home of his forefathers. The conditions of the
+      gray stones of the [[Home|home]] of his forefathers. The conditions of the
       sentience had been here, he imagined, fulfilled in the method of
       collocation of these stones—in the order of their arrangement, as
-      well as in that of the many _fungi_ which overspread them, and of
+      [[Well|well]] as in that of the many _fungi_ which overspread them, and of
       the decayed trees which stood around—above all, in the long
-      undisturbed endurance of this arrangement, and in its
+      undisturbed [[Endurance|endurance]] of this arrangement, and in its
       reduplication in the still waters of the tarn. Its evidence—the
       evidence of the sentience—was to be seen, he said, (and I here
       started as he spoke,) in the gradual yet certain condensation of
@@ -459,8 +459,8 @@ Son cœur est un luth suspendu;
       Gresset; the Belphegor of Machiavelli; the Heaven and Hell of
       Swedenborg; the Subterranean Voyage of Nicholas Klimm by Holberg;
       the Chiromancy of Robert Flud, of Jean D’Indaginé, and of De la
-      Chambre; the Journey into the Blue Distance of Tieck; and the
-      City of the Sun of Campanella. One favorite volume was a small
+      Chambre; the [[Journey]] into the Blue Distance of Tieck; and the
+      [[City]] of the Sun of Campanella. One favorite volume was a small
       octavo edition of the _Directorium Inquisitorium_, by the
       Dominican Eymeric de Gironne; and there were passages in
       Pomponius Mela, about the old African Satyrs and OEgipans, over
@@ -472,7 +472,7 @@ Son cœur est un luth suspendu;
 
       I could not help thinking of the wild ritual of this work, and of
       its probable influence upon the hypochondriac, when, one evening,
-      having informed me abruptly that the lady Madeline was no more,
+      having informed me abruptly that the lady [[Madeline]] was no more,
       he stated his intention of preserving her corpse for a fortnight,
       (previously to its final interment,) in one of the numerous
       vaults within the main walls of the building. The worldly reason,
@@ -484,13 +484,13 @@ Son cœur est un luth suspendu;
       and exposed situation of the burial-ground of the family. I will
       not deny that when I called to mind the sinister countenance of
       the person whom I met upon the staircase, on the day of my
-      arrival at the house, I had no desire to oppose what I regarded
+      arrival at the [[house]], I had no [[Desire|desire]] to oppose what I regarded
       as at best but a harmless, and by no means an unnatural,
       precaution.
 
       At the request of Usher, I personally aided him in the
-      arrangements for the temporary entombment. The body having been
-      encoffined, we two alone bore it to its rest. The vault in which
+      arrangements for the temporary entombment. The [[Body|body]] having been
+      encoffined, we two [[Alone|alone]] bore it to its rest. The vault in which
       we placed it (and which had been so long unopened that our
       torches, half smothered in its oppressive atmosphere, gave us
       little opportunity for investigation) was small, damp, and
@@ -513,16 +513,16 @@ Son cœur est un luth suspendu;
       attention; and Usher, divining, perhaps, my thoughts, murmured
       out some few words from which I learned that the deceased and
       himself had been twins, and that sympathies of a scarcely
-      intelligible nature had always existed between them. Our glances,
+      intelligible [[Nature|nature]] had always existed between them. Our glances,
       however, rested not long upon the dead—for we could not regard
       her unawed. The disease which had thus entombed the lady in the
       maturity of youth, had left, as usual in all maladies of a
       strictly cataleptical character, the mockery of a faint blush
       upon the bosom and the face, and that suspiciously lingering
-      smile upon the lip which is so terrible in death. We replaced and
+      smile upon the lip which is so terrible in [[Death|death]]. We replaced and
       screwed down the lid, and, having secured the door of iron, made
       our way, with toil, into the scarcely less gloomy apartments of
-      the upper portion of the house.
+      the upper portion of the [[house]].
 
       And now, some days of bitter grief having elapsed, an observable
       change came over the features of the mental disorder of my
@@ -536,19 +536,19 @@ Son cœur est un luth suspendu;
       characterized his utterance. There were times, indeed, when I
       thought his unceasingly agitated mind was laboring with some
       oppressive secret, to divulge which he struggled for the
-      necessary courage. At times, again, I was obliged to resolve all
-      into the mere inexplicable vagaries of madness, for I beheld him
+      necessary [[Courage|courage]]. At times, again, I was obliged to resolve all
+      into the mere inexplicable vagaries of [[Madness|madness]], for I beheld him
       gazing upon vacancy for long hours, in an attitude of the
       profoundest attention, as if listening to some imaginary sound.
-      It was no wonder that his condition terrified—that it infected
+      It was no [[Wonder|wonder]] that his condition terrified—that it infected
       me. I felt creeping upon me, by slow yet certain degrees, the
       wild influences of his own fantastic yet impressive
       superstitions.
 
-      It was, especially, upon retiring to bed late in the night of the
-      seventh or eighth day after the placing of the lady Madeline
+      It was, especially, upon retiring to bed late in the [[Night|night]] of the
+      seventh or eighth day after the placing of the lady [[Madeline]]
       within the donjon, that I experienced the full power of such
-      feelings. Sleep came not near my couch—while the hours waned and
+      feelings. [[Sleep]] came not near my couch—while the hours waned and
       waned away. I struggled to reason off the nervousness which had
       dominion over me. I endeavored to believe that much, if not all
       of what I felt, was due to the bewildering influence of the
@@ -562,11 +562,11 @@ Son cœur est un luth suspendu;
       uplifted myself upon the pillows, and, peering earnestly within
       the intense darkness of the chamber, harkened—I know not why,
       except that an instinctive spirit prompted me—to certain low and
-      indefinite sounds which came, through the pauses of the storm, at
+      indefinite sounds which came, through the pauses of the [[Storm|storm]], at
       long intervals, I knew not whence. Overpowered by an intense
       sentiment of horror, unaccountable yet unendurable, I threw on my
-      clothes with haste (for I felt that I should sleep no more during
-      the night), and endeavored to arouse myself from the pitiable
+      clothes with haste (for I felt that I should [[Sleep|sleep]] no more during
+      the [[Night|night]]), and endeavored to arouse myself from the pitiable
       condition into which I had fallen, by pacing rapidly to and fro
       through the apartment.
 
@@ -577,62 +577,62 @@ Son cœur est un luth suspendu;
       countenance was, as usual, cadaverously wan—but, moreover, there
       was a species of mad hilarity in his eyes—an evidently restrained
       _hysteria_ in his whole demeanor. His air appalled me—but
-      anything was preferable to the solitude which I had so long
+      anything was preferable to the [[Solitude|solitude]] which I had so long
       endured, and I even welcomed his presence as a relief.
 
       “And you have not seen it?” he said abruptly, after having stared
-      about him for some moments in silence—“you have not then seen
+      about him for some moments in [[Silence|silence]]—“you have not then seen
       it?—but, stay! you shall.” Thus speaking, and having carefully
       shaded his lamp, he hurried to one of the casements, and threw it
-      freely open to the storm.
+      freely open to the [[Storm|storm]].
 
       The impetuous fury of the entering gust nearly lifted us from our
-      feet. It was, indeed, a tempestuous yet sternly beautiful night,
-      and one wildly singular in its terror and its beauty. A whirlwind
+      feet. It was, indeed, a tempestuous yet sternly beautiful [[Night|night]],
+      and one wildly singular in its terror and its [[Beauty|beauty]]. A whirlwind
       had apparently collected its force in our vicinity; for there
       were frequent and violent alterations in the direction of the
-      wind; and the exceeding density of the clouds (which hung so low
-      as to press upon the turrets of the house) did not prevent our
+      [[Wind|wind]]; and the exceeding density of the clouds (which hung so low
+      as to press upon the turrets of the [[house]]) did not prevent our
       perceiving the life-like velocity with which they flew careering
       from all points against each other, without passing away into the
       distance. I say that even their exceeding density did not prevent
-      our perceiving this—yet we had no glimpse of the moon or
-      stars—nor was there any flashing forth of the lightning. But the
-      under surfaces of the huge masses of agitated vapor, as well as
+      our perceiving this—yet we had no glimpse of the [[Moon|moon]] or
+      [[Stars|stars]]—nor was there any flashing forth of the [[Lightning|lightning]]. But the
+      under surfaces of the huge masses of agitated vapor, as [[Well|well]] as
       all terrestrial objects immediately around us, were glowing in
       the unnatural light of a faintly luminous and distinctly visible
       gaseous exhalation which hung about and enshrouded the mansion.
 
       “You must not—you shall not behold this!” said I, shudderingly,
-      to Usher, as I led him, with a gentle violence, from the window
+      to Usher, as I led him, with a gentle violence, from the [[Window|window]]
       to a seat. “These appearances, which bewilder you, are merely
       electrical phenomena not uncommon—or it may be that they have
       their ghastly origin in the rank miasma of the tarn. Let us close
       this casement;—the air is chilling and dangerous to your frame.
       Here is one of your favorite romances. I will read, and you shall
-      listen;—and so we will pass away this terrible night together.”
+      listen;—and so we will pass away this terrible [[Night|night]] together.”
 
       The antique volume which I had taken up was the “Mad Trist” of
       Sir Launcelot Canning; but I had called it a favorite of Usher’s
-      more in sad jest than in earnest; for, in truth, there is little
+      more in sad jest than in earnest; for, in [[Truth|truth]], there is little
       in its uncouth and unimaginative prolixity which could have had
       interest for the lofty and spiritual ideality of my friend. It
       was, however, the only book immediately at hand; and I indulged a
-      vague hope that the excitement which now agitated the
-      hypochondriac, might find relief (for the history of mental
+      vague [[Hope|hope]] that the excitement which now agitated the
+      hypochondriac, might find relief (for the [[history]] of mental
       disorder is full of similar anomalies) even in the extremeness of
       the folly which I should read. Could I have judged, indeed, by
       the wild overstrained air of vivacity with which he harkened, or
-      apparently harkened, to the words of the tale, I might well have
-      congratulated myself upon the success of my design.
+      apparently harkened, to the words of the tale, I might [[Well|well]] have
+      congratulated myself upon the [[success]] of my design.
 
-      I had arrived at that well-known portion of the story where
-      Ethelred, the hero of the Trist, having sought in vain for
+      I had arrived at that [[Well|well]]-known portion of the story where
+      Ethelred, the [[Hero|hero]] of the Trist, having sought in vain for
       peaceable admission into the dwelling of the hermit, proceeds to
       make good an entrance by force. Here, it will be remembered, the
       words of the narrative run thus:
 
-      “And Ethelred, who was by nature of a doughty heart, and who was
+      “And Ethelred, who was by [[Nature|nature]] of a doughty heart, and who was
       now mighty withal, on account of the powerfulness of the wine
       which he had drunken, waited no longer to hold parley with the
       hermit, who, in sooth, was of an obstinate and maliceful turn,
@@ -651,10 +651,10 @@ Son cœur est un luth suspendu;
       indistinctly, to my ears, what might have been, in its exact
       similarity of character, the echo (but a stifled and dull one
       certainly) of the very cracking and ripping sound which Sir
-      Launcelot had so particularly described. It was, beyond doubt,
-      the coincidence alone which had arrested my attention; for, amid
+      Launcelot had so particularly described. It was, beyond [[Doubt|doubt]],
+      the coincidence [[Alone|alone]] which had arrested my attention; for, amid
       the rattling of the sashes of the casements, and the ordinary
-      commingled noises of the still increasing storm, the sound, in
+      commingled noises of the still increasing [[Storm|storm]], the sound, in
       itself, had nothing, surely, which should have interested or
       disturbed me. I continued the story:
 
@@ -676,7 +676,7 @@ Son cœur est un luth suspendu;
       dreadful noise of it, the like whereof was never before heard.”
 
       Here again I paused abruptly, and now with a feeling of wild
-      amazement—for there could be no doubt whatever that, in this
+      amazement—for there could be no [[Doubt|doubt]] whatever that, in this
       instance, I did actually hear (although from what direction it
       proceeded I found it impossible to say) a low and apparently
       distant, but harsh, protracted, and most unusual screaming or
@@ -686,7 +686,7 @@ Son cœur est un luth suspendu;
 
       Oppressed, as I certainly was, upon the occurrence of this second
       and most extraordinary coincidence, by a thousand conflicting
-      sensations, in which wonder and extreme terror were predominant,
+      sensations, in which [[Wonder|wonder]] and extreme terror were predominant,
       I still retained sufficient presence of mind to avoid exciting,
       by any observation, the sensitive nervousness of my companion. I
       was by no means certain that he had noticed the sounds in
@@ -698,7 +698,7 @@ Son cœur est un luth suspendu;
       that his lips trembled as if he were murmuring inaudibly. His
       head had dropped upon his breast—yet I knew that he was not
       asleep, from the wide and rigid opening of the eye as I caught a
-      glance of it in profile. The motion of his body, too, was at
+      glance of it in profile. The motion of his [[Body|body]], too, was at
       variance with this idea—for he rocked from side to side with a
       gentle yet constant and uniform sway. Having rapidly taken notice
       of all this, I resumed the narrative of Sir Launcelot, which thus
@@ -708,7 +708,7 @@ Son cœur est un luth suspendu;
       the dragon, bethinking himself of the brazen shield, and of the
       breaking up of the enchantment which was upon it, removed the
       carcass from out of the way before him, and approached valorously
-      over the silver pavement of the castle to where the shield was
+      over the silver pavement of the [[Castle|castle]] to where the shield was
       upon the wall; which in sooth tarried not for his full coming,
       but fell down at his feet upon the silver floor, with a mighty
       great and terrible ringing sound.”
@@ -734,39 +734,39 @@ Son cœur est un luth suspendu;
       tomb!_ Said I not that my senses were acute? I _now_ tell you
       that I heard her first feeble movements in the hollow coffin. I
       heard them—many, many days ago—yet I dared not—_I dared not
-      speak!_ And now—to-night—Ethelred—ha! ha!—the breaking of the
-      hermit’s door, and the death-cry of the dragon, and the clangor
+      speak!_ And now—to-[[Night|night]]—Ethelred—ha! ha!—the breaking of the
+      hermit’s door, and the [[Death|death]]-cry of the dragon, and the clangor
       of the shield!—say, rather, the rending of her coffin, and the
-      grating of the iron hinges of her prison, and her struggles
+      grating of the iron hinges of her [[Prison|prison]], and her struggles
       within the coppered archway of the vault! Oh whither shall I fly?
       Will she not be here anon? Is she not hurrying to upbraid me for
       my haste? Have I not heard her footstep on the stair? Do I not
       distinguish that heavy and horrible beating of her heart?
       Madman!”—here he sprang furiously to his feet, and shrieked out
       his syllables, as if in the effort he were giving up his
-      soul—“_Madman! I tell you that she now stands without the door!_”
+      [[Soul|soul]]—“_Madman! I tell you that she now stands without the door!_”
 
       As if in the superhuman energy of his utterance there had been
       found the potency of a spell—the huge antique pannels to which
       the speaker pointed, threw slowly back, upon the instant, their
       ponderous and ebony jaws. It was the work of the rushing gust—but
       then without those doors there _did_ stand the lofty and
-      enshrouded figure of the lady Madeline of Usher. There was blood
+      enshrouded figure of the lady [[Madeline]] of Usher. There was [[Blood|blood]]
       upon her white robes, and the evidence of some bitter struggle
       upon every portion of her emaciated frame. For a moment she
       remained trembling and reeling to and fro upon the
       threshold—then, with a low moaning cry, fell heavily inward upon
       the person of her brother, and in her violent and now final
-      death-agonies, bore him to the floor a corpse, and a victim to
+      [[Death|death]]-agonies, bore him to the floor a corpse, and a victim to
       the terrors he had anticipated.
 
       From that chamber, and from that mansion, I fled aghast. The
-      storm was still abroad in all its wrath as I found myself
+      [[Storm|storm]] was still abroad in all its wrath as I found myself
       crossing the old causeway. Suddenly there shot along the path a
       wild light, and I turned to see whence a gleam so unusual could
-      have issued; for the vast house and its shadows were alone behind
-      me. The radiance was that of the full, setting, and blood-red
-      moon, which now shone vividly through that once
+      have issued; for the vast [[house]] and its shadows were [[Alone|alone]] behind
+      me. The radiance was that of the full, setting, and [[Blood|blood]]-red
+      [[Moon|moon]], which now shone vividly through that once
       barely-discernible fissure, of which I have before spoken as
       extending from the roof of the building, in a zigzag direction,
       to the base. While I gazed, this fissure rapidly widened—there

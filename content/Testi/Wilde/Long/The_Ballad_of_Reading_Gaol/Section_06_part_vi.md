@@ -20,16 +20,16 @@ There is a pit of shame,
 And in it lies a wretched man  
 Eaten by teeth of flame,  
 In a burning winding-sheet he lies,  
-And his grave has got no name.  
-And there, till Christ call forth the dead,  
-In silence let him lie:  
+And his [[Grave|grave]] has got no name.  
+And there, till [[Christ]] call forth the dead,  
+In [[Silence|silence]] let him lie:  
 No need to waste the foolish tear,  
 Or heave the windy sigh:  
 The man had killed the thing he loved,  
 And so he had to die.  
-And all men kill the thing they love,  
+And all men kill the thing they [[Love|love]],  
 By all let this be heard,  
 Some do it with a bitter look,  
 Some with a flattering word,  
 The coward does it with a kiss,  
-The brave man with a sword!  
+The brave man with a [[Sword|sword]]!  

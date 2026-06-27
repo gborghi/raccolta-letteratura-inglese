@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 49 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 49 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-common between any two rational creatures, yet with lovers it is
+common between any two rational creatures, yet with [[lovers]] it is
 
 different. Between _them_ no subject is finished, no communication is
 
@@ -22,9 +22,9 @@ even made, till it has been made at least twenty times over.
 
 
 
-Lucy’s marriage, the unceasing and reasonable wonder among them all,
+Lucy’s [[Marriage|marriage]], the unceasing and reasonable [[Wonder|wonder]] among them all,
 
-formed of course one of the earliest discussions of the lovers;—and
+formed of course one of the earliest discussions of the [[lovers]];—and
 
 Elinor’s particular knowledge of each party made it appear to her in
 
@@ -34,7 +34,7 @@ circumstances she had ever heard. How they could be thrown together,
 
 and by what attraction Robert could be drawn on to marry a girl, of
 
-whose beauty she had herself heard him speak without any admiration,—a
+whose [[Beauty|beauty]] she had herself heard him speak without any admiration,—a
 
 girl too already engaged to his brother, and on whose account that
 
@@ -42,7 +42,7 @@ brother had been thrown off by his family—it was beyond her
 
 comprehension to make out. To her own heart it was a delightful affair,
 
-to her imagination it was even a ridiculous one, but to her reason, her
+to her [[Imagination|imagination]] it was even a ridiculous one, but to her reason, her
 
 judgment, it was completely a puzzle.
 
@@ -50,7 +50,7 @@ judgment, it was completely a puzzle.
 
 Edward could only attempt an explanation by supposing, that, perhaps,
 
-at first accidentally meeting, the vanity of the one had been so worked
+at first accidentally meeting, the [[Vanity|vanity]] of the one had been so worked
 
 on by the flattery of the other, as to lead by degrees to all the rest.
 
@@ -58,7 +58,7 @@ Elinor remembered what Robert had told her in Harley Street, of his
 
 opinion of what his own mediation in his brother’s affairs might have
 
-done, if applied to in time. She repeated it to Edward.
+done, if applied to in [[Time|time]]. She repeated it to Edward.
 
 
 
@@ -76,9 +76,9 @@ might afterward arise.”
 
 How long it had been carrying on between them, however, he was equally
 
-at a loss with herself to make out; for at Oxford, where he had
+at a loss with herself to make out; for at [[Oxford]], where he had
 
-remained for choice ever since his quitting London, he had had no means
+remained for choice ever since his quitting [[London]], he had had no means
 
 of hearing of her but from herself, and her letters to the very last
 
@@ -88,9 +88,9 @@ smallest suspicion, therefore, had ever occurred to prepare him for
 
 what followed;—and when at last it burst on him in a letter from Lucy
 
-herself, he had been for some time, he believed, half stupified between
+herself, he had been for some [[Time|time]], he believed, half stupified between
 
-the wonder, the horror, and the joy of such a deliverance. He put the
+the [[Wonder|wonder]], the horror, and the joy of such a deliverance. He put the
 
 letter into Elinor’s hands.
 
@@ -100,7 +100,7 @@ letter into Elinor’s hands.
 
     “Being very sure I have long lost your affections, I have thought
 
-    myself at liberty to bestow my own on another, and have no doubt of
+    myself at liberty to bestow my own on another, and have no [[Doubt|doubt]] of
 
     being as happy with him as I once used to think I might be with
 
@@ -128,7 +128,7 @@ letter into Elinor’s hands.
 
 
 
-“Your sincere well-wisher, friend, and sister,
+“Your sincere [[Well|well]]-wisher, friend, and sister,
 
 “LUCY FERRARS.
 
@@ -194,19 +194,19 @@ In what state the affair stood at present between them, Edward knew
 
 not, for no communication with any of his family had yet been attempted
 
-by him. He had quitted Oxford within four and twenty hours after Lucy’s
+by him. He had quitted [[Oxford]] within four and twenty hours after Lucy’s
 
-letter arrived, and with only one object before him, the nearest road
+letter arrived, and with only one object before him, the nearest [[Road|road]]
 
 to Barton, had had no leisure to form any scheme of conduct, with which
 
-that road did not hold the most intimate connection. He could do
+that [[Road|road]] did not hold the most intimate connection. He could do
 
 nothing till he were assured of his fate with Miss Dashwood; and by his
 
 rapidity in seeking _that_ fate, it is to be supposed, in spite of the
 
-jealousy with which he had once thought of Colonel Brandon, in spite of
+[[Jealousy|jealousy]] with which he had once thought of [[Colonel Brandon]], in spite of
 
 the modesty with which he rated his own deserts, and the politeness
 
@@ -216,7 +216,7 @@ a very cruel reception. It was his business, however, to say that he
 
 _did_, and he said it very prettily. What he might say on the subject a
 
-twelvemonth after, must be referred to the imagination of husbands and
+twelvemonth after, must be referred to the [[Imagination|imagination]] of husbands and
 
 wives.
 

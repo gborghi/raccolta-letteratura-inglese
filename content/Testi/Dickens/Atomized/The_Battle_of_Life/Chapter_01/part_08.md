@@ -15,7 +15,7 @@ tags:
 
 
 ‘Britain!’ said the Doctor.  ‘Run to the gate, and watch for the coach.
-Time flies, Alfred.’
+[[Time]] flies, Alfred.’
 
 ‘Yes, sir, yes,’ returned the young man, hurriedly.  ‘Dear Grace! a
 moment!  Marion—so young and beautiful, so winning and so much admired,
@@ -25,9 +25,9 @@ you!’
 ‘She has always been a sacred charge to me, Alfred.  She is doubly so,
 now.  I will be faithful to my trust, believe me.’
 
-‘I do believe it, Grace.  I know it well.  Who could look upon your face,
+‘I do believe it, Grace.  I know it [[Well|well]].  Who could look upon your face,
 and hear your voice, and not know it!  Ah, Grace!  If I had your
-well-governed heart, and tranquil mind, how bravely I would leave this
+[[Well|well]]-governed heart, and tranquil mind, how bravely I would leave this
 place to-day!’
 
 ‘Would you?’ she answered with a quiet smile.
@@ -41,12 +41,12 @@ else.’
 true and steadfast qualities serving us here, and making us both happier
 and better.  I wouldn’t carry them away, to sustain myself, if I could!’
 
-‘Coach upon the hill-top!’ exclaimed Britain.
+‘Coach upon the [[Hill|hill]]-top!’ exclaimed Britain.
 
-‘Time flies, Alfred,’ said the Doctor.
+‘[[Time]] flies, Alfred,’ said the Doctor.
 
 Marion had stood apart, with her eyes fixed upon the ground; but, this
-warning being given, her young lover brought her tenderly to where her
+warning being given, her young [[Lover|lover]] brought her tenderly to where her
 sister stood, and gave her into her embrace.
 
 ‘I have been telling Grace, dear Marion,’ he said, ‘that you are her
@@ -54,17 +54,17 @@ charge; my precious trust at parting.  And when I come back and reclaim
 you, dearest, and the bright prospect of our married life lies stretched
 before us, it shall be one of our chief pleasures to consult how we can
 make Grace happy; how we can anticipate her wishes; how we can show our
-gratitude and love to her; how we can return her something of the debt
+gratitude and [[Love|love]] to her; how we can return her something of the debt
 she will have heaped upon us.’
 
 The younger sister had one hand in his; the other rested on her sister’s
 neck.  She looked into that sister’s eyes, so calm, serene, and cheerful,
-with a gaze in which affection, admiration, sorrow, wonder, almost
+with a gaze in which affection, admiration, sorrow, [[Wonder|wonder]], almost
 veneration, were blended.  She looked into that sister’s face, as if it
 were the face of some bright angel.  Calm, serene, and cheerful, the face
-looked back on her and on her lover.
+looked back on her and on her [[Lover|lover]].
 
-‘And when the time comes, as it must one day,’ said Alfred,—‘I wonder it
+‘And when the [[Time|time]] comes, as it must one day,’ said Alfred,—‘I [[Wonder|wonder]] it
 has never come yet, but Grace knows best, for Grace is always right—when
 _she_ will want a friend to open her whole heart to, and to be to her
 something of what she has been to us—then, Marion, how faithful we will
@@ -73,7 +73,7 @@ loves and is loved again, as we would have her!’
 
 Still the younger sister looked into her eyes, and turned not—even
 towards him.  And still those honest eyes looked back, so calm, serene,
-and cheerful, on herself and on her lover.
+and cheerful, on herself and on her [[Lover|lover]].
 
 ‘And when all that is past, and we are old, and living (as we must!)
 together—close together—talking often of old times,’ said Alfred—‘these
@@ -88,7 +88,7 @@ make this day the happiest in all the year, and keep it as a treble
 birth-day.  Shall we, dear?’
 
 ‘Yes!’ interposed the elder sister, eagerly, and with a radiant smile.
-‘Yes!  Alfred, don’t linger.  There’s no time.  Say good bye to Marion.
+‘Yes!  Alfred, don’t linger.  There’s no [[Time|time]].  Say good bye to Marion.
 And Heaven be with you!’
 
 He pressed the younger sister to his heart.  Released from his embrace,
@@ -108,9 +108,9 @@ one of these days.’
 of me sometimes, my old friend and guardian, as seriously as you can!
 Adieu, Mr. Snitchey!  Farewell, Mr. Craggs!’
 
-‘Coming down the road!’ cried Britain.
+‘Coming down the [[Road|road]]!’ cried Britain.
 
-‘A kiss of Clemency Newcome for long acquaintance’ sake!  Shake hands,
+‘A kiss of [[Clemency Newcome]] for long acquaintance’ sake!  Shake hands,
 Britain!  Marion, dearest heart, good bye!  Sister Grace! remember!’
 
 The quiet household figure, and the face so beautiful in its serenity,
@@ -120,11 +120,11 @@ unchanged.
 The coach was at the gate.  There was a bustle with the luggage.  The
 coach drove away.  Marion never moved.
 
-‘He waves his hat to you, my love,’ said Grace.  ‘Your chosen husband,
+‘He waves his hat to you, my [[Love|love]],’ said Grace.  ‘Your chosen husband,
 darling.  Look!’
 
 The younger sister raised her head, and, for a moment, turned it.  Then,
-turning back again, and fully meeting, for the first time, those calm
+turning back again, and fully meeting, for the first [[Time|time]], those calm
 eyes, fell sobbing on her neck.
 
 ‘Oh, Grace.  God bless you!  But I cannot bear to see it, Grace!  It

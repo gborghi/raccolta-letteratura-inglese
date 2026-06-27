@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 67)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 67)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,15 +16,15 @@ tags:
 
 Boulogne that filled England with alarums of invasion. Are these the
 
-amiable and pacific relations which will unite England and America, when
+amiable and pacific relations which will unite England and [[america|America]], when
 
-Englishmen can get to America in a day? The shortening of the distance
+Englishmen can get to [[america|America]] in a day? The shortening of the distance
 
 seems quite as likely, so far as that argument goes, to facilitate that
 
 endless guerilla warfare which raged across the narrow seas in the
 
-Middle Ages; when French invaders carried away the bells of Rye, and the
+Middle Ages; when French invaders carried away [[The Bells|the bells]] of Rye, and the
 
 men of those flats of East Sussex gloriously pursued and recovered them.
 
@@ -34,9 +34,9 @@ carry away a few of the more elegant factory chimneys as a substitute
 
 for the superstitious symbols of the past. I know not if the English, on
 
-ripe reflection, would essay with any enthusiasm to get them back. But
+ripe reflection, would [[Essay|essay]] with any enthusiasm to get them back. But
 
-anyhow it is anything but self-evident that people cannot fight each
+anyhow it is anything but [[Self|self]]-evident that people cannot fight each
 
 other because they are near to each other; and if it were true, there
 
@@ -46,7 +46,7 @@ a fact, border warfare has often been the one sort of warfare which it
 
 was most difficult to bring under control. And our own traditional
 
-position in face of this new logic is somewhat disconcerting. We have
+position in face of this new [[logic]] is somewhat disconcerting. We have
 
 always supposed ourselves safer because we were insular and therefore
 
@@ -60,13 +60,13 @@ our neighbours. We have pitied the poor nations with frontiers, because
 
 a frontier only produces fighting; and now we are trusting to a frontier
 
-as the only thing that will produce friendship. But, as a matter of
+as the only thing that will produce [[Friendship|friendship]]. But, as a matter of
 
 fact, and for a far deeper and more spiritual reason, a frontier will
 
-not produce friendship. Only friendliness produces friendship. And we
+not produce [[Friendship|friendship]]. Only friendliness produces [[Friendship|friendship]]. And we
 
-must look far deeper into the soul of man for the thing that produces
+must look far deeper into the [[Soul|soul]] of man for the thing that produces
 
 friendliness.
 
@@ -80,9 +80,9 @@ it were true that men could be taught and tamed by machines, even if
 
 they were taught wisdom or tamed to amiability, I should think it the
 
-most tragic truth in the world. A man so improved would be, in an
+most tragic [[Truth|truth]] in the world. A man so improved would be, in an
 
-exceedingly ugly sense, losing his soul to save it. But in truth he
+exceedingly ugly sense, losing his [[Soul|soul]] to save it. But in [[Truth|truth]] he
 
 cannot be so completely coerced into good; and in so far as he is
 
@@ -96,7 +96,7 @@ light in their bodies is darkness, and the highest objects of such men
 
 are the lowest objects of ordinary men. Their peace is mere safety,
 
-their friendship is mere trade; their international friendship is mere
+their [[Friendship|friendship]] is mere trade; their international [[Friendship|friendship]] is mere
 
 international trade. The best we can say of that school of capitalism is
 
@@ -128,11 +128,11 @@ suggest that in his vision the Englishman and the American are to
 
 embrace only in the sense of clinging to each other in terror. He is a
 
-man who understands what friendship is, and who knows how to enjoy the
+man who understands what [[Friendship|friendship]] is, and who knows how to enjoy the
 
 motley humours of humanity. But the political reconstruction which he
 
-proposes is too much determined by this old nightmare of
+proposes is too much determined by this old [[nightmare]] of
 
 necessitarianism. He tells us that our national dignities and
 
@@ -152,11 +152,11 @@ nobody says that if Greek scholarship is carried past a certain point,
 
 everybody will be torn in pieces like Orpheus, or burned up like Semele,
 
-or poisoned like Socrates. Philosophy, theology and logic may or may not
+or poisoned like Socrates. [[philosophy|Philosophy]], theology and [[logic]] may or may not
 
 be idle academic studies; but nobody supposes that the study of
 
-philosophy, or even of theology, ultimately forces its students to
+[[philosophy]], or even of theology, ultimately forces its students to
 
 manufacture racks and thumb-screws against their will; or that even
 
@@ -170,9 +170,9 @@ scientific dangers which alarm Mr. Wells, but with the remedy he
 
 proposes for them; or rather with the relation of that remedy to the
 
-foundation and the future of America. Now it is not too much to say that
+foundation and the future of [[america|America]]. Now it is not too much to say that
 
-Mr. Wells finds his model in America. The World State is to be the
+Mr. Wells finds his model in [[america|America]]. The World State is to be the
 
 United States of the World. He answers almost all objections to the
 
@@ -180,7 +180,7 @@ practicability of such a peace among states, by pointing out that the
 
 American States have such a peace, and by adding, truly enough, that
 
-another turn of history might easily have seen them broken up by war.
+another turn of [[history]] might easily have seen them broken up by war.
 
 The pattern of the World State is to be found in the New World.
 

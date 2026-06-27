@@ -20,7 +20,7 @@ tags:
 
 “But—pardon me—” suggested the gentleman. “For your brother John?”
 
-“Proud of his love, I am,” said Harriet, looking full upon her visitor,
+“Proud of his [[Love|love]], I am,” said Harriet, looking full upon her visitor,
 and changing her manner on the instant—not that it was less composed
 and quiet, but that there was a deep impassioned earnestness in it that
 made the very tremble in her voice a part of her firmness, “and proud
@@ -37,10 +37,10 @@ good purpose. I am quite sure of it.”
 much obliged to you. You do me justice, I assure you. You were going to
 say, that I, who know the story of John Carker’s life—”
 
-“May think it pride in me,” she continued, “when I say that I am proud
-of him! I am. You know the time was, when I was not—when I could not
-be—but that is past. The humility of many years, the uncomplaining
-expiation, the true repentance, the terrible regret, the pain I know he
+“May think it [[Pride|pride]] in me,” she continued, “when I say that I am proud
+of him! I am. You know the [[Time|time]] was, when I was not—when I could not
+be—but that is past. The [[Humility|humility]] of many years, the uncomplaining
+expiation, the true repentance, the terrible regret, the [[Pain|pain]] I know he
 has even in my affection, which he thinks has cost me dear, though
 Heaven knows I am happy, but for his sorrow I—oh, Sir, after what I
 have seen, let me conjure you, if you are in any place of power, and
@@ -49,19 +49,19 @@ cannot be recalled; while there is a GOD above us to work changes in
 the hearts He made.”
 
 “Your brother is an altered man,” returned the gentleman,
-compassionately. “I assure you I don’t doubt it.”
+compassionately. “I assure you I don’t [[Doubt|doubt]] it.”
 
 “He was an altered man when he did wrong,” said Harriet. “He is an
-altered man again, and is his true self now, believe me, Sir.”
+altered man again, and is his true [[Self|self]] now, believe me, Sir.”
 
 “But we go on,” said her visitor, rubbing his forehead, in an absent
 manner, with his hand, and then drumming thoughtfully on the table, “we
 go on in our clockwork routine, from day to day, and can’t make out, or
 follow, these changes. They—they’re a metaphysical sort of thing. We—we
-haven’t leisure for it. We—we haven’t courage. They’re not taught at
+haven’t leisure for it. We—we haven’t [[Courage|courage]]. They’re not taught at
 schools or colleges, and we don’t know how to set about it. In short,
 we are so d——d business-like,” said the gentleman, walking to the
-window, and back, and sitting down again, in a state of extreme
+[[Window|window]], and back, and sitting down again, in a state of extreme
 dissatisfaction and vexation.
 
 “I am sure,” said the gentleman, rubbing his forehead again; and
@@ -71,12 +71,12 @@ anything. One don’t see anything, one don’t hear anything, one don’t
 know anything; that’s the fact. We go on taking everything for granted,
 and so we go on, until whatever we do, good, bad, or indifferent, we do
 from habit. Habit is all I shall have to report, when I am called upon
-to plead to my conscience, on my death-bed. ‘Habit,’ says I; ‘I was
+to plead to my [[Conscience|conscience]], on my [[Death|death]]-bed. ‘Habit,’ says I; ‘I was
 deaf, dumb, blind, and paralytic, to a million things, from habit.’
-‘Very business-like indeed, Mr What’s-your-name,’ says Conscience, ‘but
+‘Very business-like indeed, Mr What’s-your-name,’ says [[Conscience]], ‘but
 it won’t do here!’”
 
-The gentleman got up and walked to the window again and back: seriously
+The gentleman got up and walked to the [[Window|window]] again and back: seriously
 uneasy, though giving his uneasiness this peculiar expression.
 
 “Miss Harriet,” he said, resuming his chair, “I wish you would let me
@@ -86,11 +86,11 @@ present. Do I?”
 “Yes,” she answered with a smile.
 
 “I believe every word you have said,” he returned. “I am full of
-self-reproach that I might have known this and seen this, and known you
-and seen you, any time these dozen years, and that I never have. I
+[[Self|self]]-reproach that I might have known this and seen this, and known you
+and seen you, any [[Time|time]] these dozen years, and that I never have. I
 hardly know how I ever got here—creature that I am, not only of my own
 habit, but of other people’s! But having done so, let me do something.
-I ask it in all honour and respect. You inspire me with both, in the
+I ask it in all [[Honour|honour]] and respect. You inspire me with both, in the
 highest degree. Let me do something.”
 
 “We are contented, Sir.”
@@ -102,21 +102,21 @@ have been in the habit of thinking that there was nothing wanting to be
 done for him; that it was all settled and over; in short, of not
 thinking at all about it. I am different now. Let me do something for
 him. You too,” said the visitor, with careful delicacy, “have need to
-watch your health closely, for his sake, and I fear it fails.”
+watch your health closely, for his sake, and I [[Fear|fear]] it fails.”
 
 “Whoever you may be, Sir,” answered Harriet, raising her eyes to his
 face, “I am deeply grateful to you. I feel certain that in all you say,
 you have no object in the world but kindness to us. But years have
 passed since we began this life; and to take from my brother any part
 of what has so endeared him to me, and so proved his better
-resolution—any fragment of the merit of his unassisted, obscure, and
+resolution—any [[Fragment|fragment]] of the merit of his unassisted, obscure, and
 forgotten reparation—would be to diminish the comfort it will be to him
-and me, when that time comes to each of us, of which you spoke just
-now. I thank you better with these tears than any words. Believe it,
+and me, when that [[Time|time]] comes to each of us, of which you spoke just
+now. I thank you better with these [[Tears|tears]] than any words. Believe it,
 pray.”
 
 The gentleman was moved, and put the hand she held out, to his lips,
-much as a tender father might kiss the hand of a dutiful child. But
+much as a tender father might kiss the hand of a dutiful [[Child|child]]. But
 more reverently.
 
 “If the day should ever come,” said Harriet, “when he is restored, in
@@ -131,9 +131,9 @@ brother.”
 “You touch upon a subject that is never breathed between us; not even
 between us,” said Harriet.
 
-“I beg your forgiveness,” said the visitor. “I should have known it. I
+“I beg your [[Forgiveness|forgiveness]],” said the visitor. “I should have known it. I
 entreat you to forget that I have done so, inadvertently. And now, as I
 dare urge no more—as I am not sure that I have a right to do so—though
-Heaven knows, even that doubt may be habit,” said the gentleman,
+Heaven knows, even that [[Doubt|doubt]] may be habit,” said the gentleman,
 rubbing his head, as despondently as before, “let me; though a
 stranger, yet no stranger; ask two favours.”

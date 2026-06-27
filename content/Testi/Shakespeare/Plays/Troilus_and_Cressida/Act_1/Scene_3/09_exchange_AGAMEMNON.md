@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act I, Scene 3 — exchange (AGAMEMNON) [9]"
+title: "[[Troilus]] and [[Cressida]] — Act I, Scene 3 — exchange ([[Agamemnon|AGAMEMNON]]) [9]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| AGAMEMNON | Speak frankly as the wind. It is not Agamemnon’s sleeping hour. That thou shalt know, Trojan, he is awake, He tells thee so himself. |
+| [[Agamemnon|AGAMEMNON]] | Speak frankly as the [[Wind|wind]]. It is not [[Agamemnon]]’s sleeping hour. That thou shalt know, Trojan, he is awake, He tells thee so himself. |

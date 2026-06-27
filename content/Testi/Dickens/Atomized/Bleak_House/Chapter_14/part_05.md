@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 14 (part 5)"
+title: "Bleak [[house|House]] — Chapter 14 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,7 +19,7 @@ hard, to old Mr. Turveydrop deporting himself so beautifully, when
 the latter came ambling up to me and entered into conversation.
 
 He asked me, first of all, whether I conferred a charm and a
-distinction on London by residing in it? I did not think it necessary
+distinction on [[London]] by residing in it? I did not think it necessary
 to reply that I was perfectly aware I should not do that, in any
 case, but merely told him where I did reside.
 
@@ -29,12 +29,12 @@ right glove and afterwards extending it towards the pupils,
 polish—polish—polish!”
 
 He sat down beside me, taking some pains to sit on the form, I
-thought, in imitation of the print of his illustrious model on the
+thought, in [[Imitation|imitation]] of the print of his illustrious model on the
 sofa. And really he did look very like it.
 
 “To polish—polish—polish!” he repeated, taking a pinch of snuff and
 gently fluttering his fingers. “But we are not, if I may say so to
-one formed to be graceful both by Nature and Art—” with the
+one formed to be graceful both by [[Nature]] and Art—” with the
 high-shouldered bow, which it seemed impossible for him to make
 without lifting up his eyebrows and shutting his eyes “—we are not
 what we used to be in point of deportment.”
@@ -46,7 +46,7 @@ do to a very limited extent in his cravat. “A levelling age is not
 favourable to deportment. It develops vulgarity. Perhaps I speak with
 some little partiality. It may not be for me to say that I have been
 called, for some years now, Gentleman Turveydrop, or that his Royal
-Highness the Prince Regent did me the honour to inquire, on my
+Highness the Prince Regent did me the [[Honour|honour]] to inquire, on my
 removing my hat as he drove out of the Pavilion at Brighton (that
 fine building), ‘Who is he? Who the devil is he? Why don’t I know
 him? Why hasn’t he thirty thousand a year?’ But these are little
@@ -61,13 +61,13 @@ country!—has degenerated very much, and is degenerating every day.
 She has not many gentlemen left. We are few. I see nothing to succeed
 us but a race of weavers.”
 
-“One might hope that the race of gentlemen would be perpetuated
+“One might [[Hope|hope]] that the race of gentlemen would be perpetuated
 here,” said I.
 
 “You are very good.” He smiled with a high-shouldered bow again. “You
 flatter me. But, no—no! I have never been able to imbue my poor boy
 with that part of his art. Heaven forbid that I should disparage my
-dear child, but he has—no deportment.”
+dear [[Child|child]], but he has—no deportment.”
 
 “He appears to be an excellent master,” I observed.
 
@@ -76,11 +76,11 @@ can be acquired, he has acquired. All that can be imparted, he can
 impart. But there ARE things—” He took another pinch of snuff and
 made the bow again, as if to add, “This kind of thing, for instance.”
 
-I glanced towards the centre of the room, where Miss Jellyby’s lover,
+I glanced towards the centre of the room, where Miss Jellyby’s [[Lover|lover]],
 now engaged with single pupils, was undergoing greater drudgery than
 ever.
 
-“My amiable child,” murmured Mr. Turveydrop, adjusting his cravat.
+“My amiable [[Child|child]],” murmured Mr. Turveydrop, adjusting his cravat.
 
 “Your son is indefatigable,” said I.
 
@@ -89,8 +89,8 @@ respects, he treads in the footsteps of his sainted mother. She was a
 devoted creature. But wooman, lovely wooman,” said Mr. Turveydrop
 with very disagreeable gallantry, “what a sex you are!”
 
-I rose and joined Miss Jellyby, who was by this time putting on her
-bonnet. The time allotted to a lesson having fully elapsed, there was
+I [[Rose|rose]] and joined Miss Jellyby, who was by this [[Time|time]] putting on her
+bonnet. The [[Time|time]] allotted to a lesson having fully elapsed, there was
 a general putting on of bonnets. When Miss Jellyby and the
 unfortunate Prince found an opportunity to become betrothed I don’t
 know, but they certainly found none on this occasion to exchange a
@@ -102,10 +102,10 @@ hour?”
 “No, father.” The son had no watch. The father had a handsome gold
 one, which he pulled out with an air that was an example to mankind.
 
-“My son,” said he, “it’s two o’clock. Recollect your school at
+“My son,” said he, “it’s two o’[[Clock|clock]]. Recollect your school at
 Kensington at three.”
 
-“That’s time enough for me, father,” said Prince. “I can take a
+“That’s [[Time|time]] enough for me, father,” said Prince. “I can take a
 morsel of dinner standing and be off.”
 
 “My dear boy,” returned his father, “you must be very quick. You will
@@ -119,8 +119,8 @@ myself, as usual, about town.”
 
 “You had better dine out comfortably somewhere,” said his son.
 
-“My dear child, I intend to. I shall take my little meal, I think, at
-the French house, in the Opera Colonnade.”
+“My dear [[Child|child]], I intend to. I shall take my little meal, I think, at
+the French [[house]], in the Opera Colonnade.”
 
 “That’s right. Good-bye, father!” said Prince, shaking hands.
 
@@ -134,7 +134,7 @@ in the elder. The few moments that were occupied by Prince in taking
 leave of us (and particularly of one of us, as I saw, being in the
 secret), enhanced my favourable impression of his almost childish
 character. I felt a liking for him and a compassion for him as he put
-his little kit in his pocket—and with it his desire to stay a little
+his little kit in his pocket—and with it his [[Desire|desire]] to stay a little
 while with Caddy—and went away good-humouredly to his cold mutton
 and his school at Kensington, that made me scarcely less irate with
 his father than the censorious old lady.
@@ -153,4 +153,4 @@ deportment. This became so bewildering and suggested the possibility
 of so many Mr. Turveydrops that I said, “Esther, you must make up
 your mind to abandon this subject altogether and attend to Caddy.” I
 accordingly did so, and we chatted all the rest of the way to
-Lincoln’s Inn.
+[[Lincoln]]’s Inn.

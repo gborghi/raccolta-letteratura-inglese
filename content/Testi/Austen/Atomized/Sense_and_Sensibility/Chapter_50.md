@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 50"
+title: "[[Sense and Sensibility]] — Chapter 50"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -66,7 +66,7 @@ nobleman with thirty thousand pounds, while Miss Dashwood was only the
 
 daughter of a private gentleman with no more than _three;_ but when she
 
-found that, though perfectly admitting the truth of her representation,
+found that, though perfectly admitting the [[Truth|truth]] of her representation,
 
 he was by no means inclined to be guided by it, she judged it wisest,
 
@@ -76,7 +76,7 @@ ungracious delay as she owed to her own dignity, and as served to
 
 prevent every suspicion of good-will, she issued her decree of consent
 
-to the marriage of Edward and Elinor.
+to the [[Marriage|marriage]] of Edward and Elinor.
 
 
 
@@ -110,11 +110,11 @@ With an income quite sufficient to their wants thus secured to them,
 
 they had nothing to wait for after Edward was in possession of the
 
-living, but the readiness of the house, to which Colonel Brandon, with
+living, but the readiness of the [[house]], to which [[Colonel Brandon]], with
 
-an eager desire for the accommodation of Elinor, was making
+an eager [[Desire|desire]] for the accommodation of Elinor, was making
 
-considerable improvements; and after waiting some time for their
+considerable improvements; and after waiting some [[Time|time]] for their
 
 completion, after experiencing, as usual, a thousand disappointments
 
@@ -124,13 +124,13 @@ as usual, broke through the first positive resolution of not marrying
 
 till every thing was ready, and the ceremony took place in Barton
 
-church early in the autumn.
+church early in the [[Autumn|autumn]].
 
 
 
-The first month after their marriage was spent with their friend at the
+The first month after their [[Marriage|marriage]] was spent with their friend at the
 
-Mansion-house; from whence they could superintend the progress of the
+Mansion-[[house]]; from whence they could superintend the progress of the
 
 Parsonage, and direct every thing as they liked on the spot;—could
 
@@ -144,7 +144,7 @@ Michaelmas, and she found in Elinor and her husband, as she really
 
 believed, one of the happiest couples in the world. They had in fact
 
-nothing to wish for, but the marriage of Colonel Brandon and Marianne,
+nothing to wish for, but the [[Marriage|marriage]] of [[Colonel Brandon]] and Marianne,
 
 and rather better pasturage for their cows.
 
@@ -156,7 +156,7 @@ and friends. Mrs. Ferrars came to inspect the happiness which she was
 
 almost ashamed of having authorised; and even the Dashwoods were at the
 
-expense of a journey from Sussex to do them honour.
+expense of a [[Journey|journey]] from Sussex to do them [[Honour|honour]].
 
 
 
@@ -164,13 +164,13 @@ expense of a journey from Sussex to do them honour.
 
 they were walking together one morning before the gates of Delaford
 
-House, “_that_ would be saying too much, for certainly you have been
+[[house|House]], “_that_ would be saying too much, for certainly you have been
 
 one of the most fortunate young women in the world, as it is. But, I
 
-confess, it would give me great pleasure to call Colonel Brandon
+confess, it would give me great pleasure to call [[Colonel Brandon]]
 
-brother. His property here, his place, his house, every thing is in
+brother. His property here, his place, his [[house]], every thing is in
 
 such respectable and excellent condition! And his woods,—I have not
 
@@ -182,13 +182,13 @@ person to attract him, yet I think it would altogether be advisable for
 
 you to have them now frequently staying with you, for as Colonel
 
-Brandon seems a great deal at home, nobody can tell what may happen;
+Brandon seems a great deal at [[Home|home]], nobody can tell what may happen;
 
 for, when people are much thrown together, and see little of anybody
 
 else,—and it will always be in your power to set her off to advantage,
 
-and so forth. In short, you may as well give her a chance: you
+and so forth. In short, you may as [[Well|well]] give her a chance: you
 
 understand me.”
 
@@ -206,7 +206,7 @@ months had passed away. The selfish sagacity of the latter, which had
 
 at first drawn Robert into the scrape, was the principal instrument of
 
-his deliverance from it; for her respectful humility, assiduous
+his deliverance from it; for her respectful [[Humility|humility]], assiduous
 
 attentions, and endless flatteries, as soon as the smallest opening was
 
@@ -220,13 +220,13 @@ The whole of Lucy’s behaviour in the affair, and the prosperity which
 
 crowned it, therefore, may be held forth as a most encouraging instance
 
-of what an earnest, an unceasing attention to self-interest, however
+of what an earnest, an unceasing attention to [[Self|self]]-interest, however
 
 its progress may be apparently obstructed, will do in securing every
 
-advantage of fortune, with no other sacrifice than that of time and
+advantage of fortune, with no other sacrifice than that of [[Time|time]] and
 
-conscience. When Robert first sought her acquaintance, and privately
+[[Conscience|conscience]]. When Robert first sought her acquaintance, and privately
 
 visited her in Bartlett’s Buildings, it was only with the view imputed
 
@@ -268,9 +268,9 @@ had many relations and old acquaintances to cut—and he drew several
 
 plans for magnificent cottages;—and from thence returning to town,
 
-procured the forgiveness of Mrs. Ferrars, by the simple expedient of
+procured the [[Forgiveness|forgiveness]] of Mrs. Ferrars, by the simple expedient of
 
-asking it, which, at Lucy’s instigation, was adopted. The forgiveness,
+asking it, which, at Lucy’s instigation, was adopted. The [[Forgiveness|forgiveness]],
 
 at first, indeed, as was reasonable, comprehended only Robert; and
 
@@ -278,11 +278,11 @@ Lucy, who had owed his mother no duty and therefore could have
 
 transgressed none, still remained some weeks longer unpardoned. But
 
-perseverance in humility of conduct and messages, in self-condemnation
+perseverance in [[Humility|humility]] of conduct and messages, in [[Self|self]]-condemnation
 
 for Robert’s offence, and gratitude for the unkindness she was treated
 
-with, procured her in time the haughty notice which overcame her by its
+with, procured her in [[Time|time]] the haughty notice which overcame her by its
 
 graciousness, and led soon afterwards, by rapid degrees, to the highest
 
@@ -296,7 +296,7 @@ though superior to her in fortune and birth, was spoken of as an
 
 intruder, _she_ was in every thing considered, and always openly
 
-acknowledged, to be a favourite child. They settled in town, received
+acknowledged, to be a favourite [[Child|child]]. They settled in town, received
 
 very liberal assistance from Mrs. Ferrars, were on the best terms
 
@@ -304,7 +304,7 @@ imaginable with the Dashwoods; and setting aside the jealousies and
 
 ill-will continually subsisting between Fanny and Lucy, in which their
 
-husbands of course took a part, as well as the frequent domestic
+husbands of course took a part, as [[Well|well]] as the frequent domestic
 
 disagreements between Robert and Lucy themselves, nothing could exceed
 
@@ -328,7 +328,7 @@ brother too little, or bringing himself too much;—and if Edward might
 
 be judged from the ready discharge of his duties in every particular,
 
-from an increasing attachment to his wife and his home, and from the
+from an increasing attachment to his wife and his [[Home|home]], and from the
 
 regular cheerfulness of his spirits, he might be supposed no less
 
@@ -336,17 +336,17 @@ contented with his lot, no less free from every wish of an exchange.
 
 
 
-Elinor’s marriage divided her as little from her family as could well
+Elinor’s [[Marriage|marriage]] divided her as little from her family as could [[Well|well]]
 
 be contrived, without rendering the cottage at Barton entirely useless,
 
-for her mother and sisters spent much more than half their time with
+for her mother and sisters spent much more than half their [[Time|time]] with
 
-her. Mrs. Dashwood was acting on motives of policy as well as pleasure
+her. Mrs. Dashwood was acting on motives of policy as [[Well|well]] as pleasure
 
 in the frequency of her visits at Delaford; for her wish of bringing
 
-Marianne and Colonel Brandon together was hardly less earnest, though
+Marianne and [[Colonel Brandon]] together was hardly less earnest, though
 
 rather more liberal than what John had expressed. It was now her
 
@@ -354,7 +354,7 @@ darling object. Precious as was the company of her daughter to her, she
 
 desired nothing so much as to give up its constant enjoyment to her
 
-valued friend; and to see Marianne settled at the mansion-house was
+valued friend; and to see Marianne settled at the mansion-[[house]] was
 
 equally the wish of Edward and Elinor. They each felt his sorrows, and
 
@@ -374,7 +374,7 @@ her—what could she do?
 
 
 
-Marianne Dashwood was born to an extraordinary fate. She was born to
+[[Marianne Dashwood]] was born to an extraordinary fate. She was born to
 
 discover the falsehood of her own opinions, and to counteract, by her
 
@@ -382,7 +382,7 @@ conduct, her most favourite maxims. She was born to overcome an
 
 affection formed so late in life as at seventeen, and with no sentiment
 
-superior to strong esteem and lively friendship, voluntarily to give
+superior to strong esteem and lively [[Friendship|friendship]], voluntarily to give
 
 her hand to another!—and _that_ other, a man who had suffered no less
 
@@ -406,13 +406,13 @@ her more calm and sober judgment she had determined on,—she found
 
 herself at nineteen, submitting to new attachments, entering on new
 
-duties, placed in a new home, a wife, the mistress of a family, and the
+duties, placed in a new [[Home|home]], a wife, the mistress of a family, and the
 
 patroness of a village.
 
 
 
-Colonel Brandon was now as happy, as all those who best loved him,
+[[Colonel Brandon]] was now as happy, as all those who best loved him,
 
 believed he deserved to be;—in Marianne he was consoled for every past
 
@@ -420,31 +420,31 @@ affliction;—her regard and her society restored his mind to animation,
 
 and his spirits to cheerfulness; and that Marianne found her own
 
-happiness in forming his, was equally the persuasion and delight of
+happiness in forming his, was equally the [[Persuasion|persuasion]] and delight of
 
-each observing friend. Marianne could never love by halves; and her
+each observing friend. Marianne could never [[Love|love]] by halves; and her
 
-whole heart became, in time, as much devoted to her husband, as it had
+whole heart became, in [[Time|time]], as much devoted to her husband, as it had
 
 once been to Willoughby.
 
 
 
-Willoughby could not hear of her marriage without a pang; and his
+Willoughby could not hear of her [[Marriage|marriage]] without a pang; and his
 
-punishment was soon afterwards complete in the voluntary forgiveness of
+punishment was soon afterwards complete in the voluntary [[Forgiveness|forgiveness]] of
 
-Mrs. Smith, who, by stating his marriage with a woman of character, as
+Mrs. [[smith|Smith]], who, by stating his [[Marriage|marriage]] with a woman of character, as
 
 the source of her clemency, gave him reason for believing that had he
 
-behaved with honour towards Marianne, he might at once have been happy
+behaved with [[Honour|honour]] towards Marianne, he might at once have been happy
 
 and rich. That his repentance of misconduct, which thus brought its own
 
 punishment, was sincere, need not be doubted;—nor that he long thought
 
-of Colonel Brandon with envy, and of Marianne with regret. But that he
+of [[Colonel Brandon]] with envy, and of Marianne with regret. But that he
 
 was for ever inconsolable, that he fled from society, or contracted an
 
@@ -452,9 +452,9 @@ habitual gloom of temper, or died of a broken heart, must not be
 
 depended on—for he did neither. He lived to exert, and frequently to
 
-enjoy himself. His wife was not always out of humour, nor his home
+enjoy himself. His wife was not always out of [[Humour|humour]], nor his [[Home|home]]
 
-always uncomfortable; and in his breed of horses and dogs, and in
+always uncomfortable; and in his breed of horses and [[dogs]], and in
 
 sporting of every kind, he found no inconsiderable degree of domestic
 
@@ -468,7 +468,7 @@ loss, he always retained that decided regard which interested him in
 
 every thing that befell her, and made her his secret standard of
 
-perfection in woman; and many a rising beauty would be slighted by him
+perfection in woman; and many a rising [[Beauty|beauty]] would be slighted by him
 
 in after-days as bearing no comparison with Mrs. Brandon.
 
@@ -482,7 +482,7 @@ Jennings, when Marianne was taken from them, Margaret had reached an
 
 age highly suitable for dancing, and not very ineligible for being
 
-supposed to have a lover.
+supposed to have a [[Lover|lover]].
 
 
 

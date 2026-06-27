@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Until the time arrived for taking leave: and then, indeed, there was a
+Until the [[Time|time]] arrived for taking leave: and then, indeed, there was a
 sensation in the party. Sir Barnet Skettles brought up Skettles Junior
 to shake hands with him, and asked him if he would remember to tell his
 good Papa, with his best compliments, that he, Sir Barnet Skettles, had
@@ -54,7 +54,7 @@ within his experience; but it would be difficult to say if this were
 sober fact or custard-cups. The servants, with the butler at their
 head, had all an interest in seeing Little Dombey go; and even the
 weak-eyed young man, taking out his books and trunks to the coach that
-was to carry him and Florence to Mrs Pipchin’s for the night, melted
+was to carry him and Florence to Mrs Pipchin’s for the [[Night|night]], melted
 visibly.
 
 Not even the influence of the softer passion on the young gentlemen—and
@@ -74,9 +74,9 @@ addressed to him, surprised to see how shining and how bright, and
 numerous they were, and how they were all piled and heaped up, as faces
 are at crowded theatres. They swam before him as he looked, like faces
 in an agitated glass; and next moment he was in the dark coach outside,
-holding close to Florence. From that time, whenever he thought of
+holding close to Florence. From that [[Time|time]], whenever he thought of
 Doctor Blimber’s, it came back as he had seen it in this last view; and
-it never seemed to be a real place again, but always a dream, full of
+it never seemed to be a real place again, but always [[A Dream|a dream]], full of
 eyes.
 
 This was not quite the last of Doctor Blimber’s, however. There was
@@ -85,7 +85,7 @@ of the coach-windows, and looking in, said, with a most egregious
 chuckle, “Is Dombey there?” and immediately put it up again, without
 waiting for an answer. Nor was this quite the last of Mr Toots, even;
 for before the coachman could drive off, he as suddenly let down the
-other window, and looking in with a precisely similar chuckle, said in
+other [[Window|window]], and looking in with a precisely similar chuckle, said in
 a precisely similar tone of voice, “Is Dombey there?” and disappeared
 precisely as before.
 
@@ -94,20 +94,20 @@ whenever he did so.
 
 But there was much, soon afterwards—next day, and after that—which Paul
 could only recollect confusedly. As, why they stayed at Mrs Pipchin’s
-days and nights, instead of going home; why he lay in bed, with
+days and nights, instead of going [[Home|home]]; why he lay in bed, with
 Florence sitting by his side; whether that had been his father in the
-room, or only a tall shadow on the wall; whether he had heard his
+room, or only a tall [[Shadow|shadow]] on the wall; whether he had heard his
 doctor say, of someone, that if they had removed him before the
 occasion on which he had built up fancies, strong in proportion to his
 own weakness, it was very possible he might have pined away.
 
 He could not even remember whether he had often said to Florence, “Oh
-Floy, take me home, and never leave me!” but he thought he had. He
-fancied sometimes he had heard himself repeating, “Take me home, Floy!
-take me home!”
+Floy, take me [[Home|home]], and never leave me!” but he thought he had. He
+fancied sometimes he had heard himself repeating, “Take me [[Home|home]], Floy!
+take me [[Home|home]]!”
 
-But he could remember, when he got home, and was carried up the
-well-remembered stairs, that there had been the rumbling of a coach for
+But he could remember, when he got [[Home|home]], and was carried up the
+[[Well|well]]-remembered stairs, that there had been the rumbling of a coach for
 many hours together, while he lay upon the seat, with Florence still
 beside him, and old Mrs Pipchin sitting opposite. He remembered his old
 bed too, when they laid him down in it: his aunt, Miss Tox, and Susan:

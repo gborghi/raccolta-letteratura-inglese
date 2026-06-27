@@ -20,11 +20,11 @@ CHAPTER 12
 
 
 
-      I had for some time past, dwelt upon the prospect of our being
+      I had for some [[Time|time]] past, dwelt upon the prospect of our being
 
       reduced to this last horrible extremity, and had secretly made up
 
-      my mind to suffer death in any shape or under any circumstances
+      my mind to suffer [[Death|death]] in any shape or under any circumstances
 
       rather than resort to such a course. Nor was this resolution in
 
@@ -36,7 +36,7 @@ CHAPTER 12
 
       praying to God for power to dissuade him from the horrible
 
-      purpose he entertained, I expostulated with him for a long time,
+      purpose he entertained, I expostulated with him for a long [[Time|time]],
 
       and in the most supplicating manner, begging him in the name of
 
@@ -50,19 +50,19 @@ CHAPTER 12
 
       He heard all I said without attempting to controvert any of my
 
-      arguments, and I had begun to hope that he would be prevailed
+      arguments, and I had begun to [[Hope|hope]] that he would be prevailed
 
       upon to do as I desired. But when I had ceased speaking, he said
 
-      that he knew very well all I had said was true, and that to
+      that he knew very [[Well|well]] all I had said was true, and that to
 
       resort to such a course was the most horrible alternative which
 
       could enter into the mind of man; but that he had now held out as
 
-      long as human nature could be sustained; that it was unnecessary
+      long as human [[Nature|nature]] could be sustained; that it was unnecessary
 
-      for all to perish, when, by the death of one, it was possible,
+      for all to perish, when, by the [[Death|death]] of one, it was possible,
 
       and even probable, that the rest might be finally preserved;
 
@@ -70,7 +70,7 @@ CHAPTER 12
 
       from his purpose, his mind having been thoroughly made up on the
 
-      subject even before the appearance of the ship, and that only her
+      subject even before the appearance of the [[Ship|ship]], and that only her
 
       heaving in sight had prevented him from mentioning his intention
 
@@ -86,7 +86,7 @@ CHAPTER 12
 
       I could devise, and which I thought likely to have influence with
 
-      one of his rough nature. He said, in reply, that he had not
+      one of his rough [[Nature|nature]]. He said, in reply, that he had not
 
       spoken until the very last possible moment, that he could exist
 
@@ -120,7 +120,7 @@ CHAPTER 12
 
       drawing a knife, made several ineffectual efforts to stab me in
 
-      the stomach; an atrocity which his excessive debility alone
+      the stomach; an atrocity which his excessive debility [[Alone|alone]]
 
       prevented him from accomplishing. In the meantime, being roused
 
@@ -154,7 +154,7 @@ CHAPTER 12
 
       myself in resisting any attempt to execute so dreadful a purpose,
 
-      and, with the aid of either one of them, I had no fear of being
+      and, with the aid of either one of them, I had no [[Fear|fear]] of being
 
       able to prevent its accomplishment. Being disappointed in this
 
@@ -164,7 +164,7 @@ CHAPTER 12
 
       possibly be considered by men in their frightful condition a
 
-      sufficient excuse for refusing me fair play in the tragedy that I
+      sufficient excuse for refusing me fair play in the [[Tragedy|tragedy]] that I
 
       knew would speedily be enacted.
 
@@ -176,7 +176,7 @@ CHAPTER 12
 
       had gathered around us might have an opportunity of lifting, when
 
-      it was possible that the ship we had seen might be again in
+      it was possible that the [[Ship|ship]] we had seen might be again in
 
       sight. After great difficulty I obtained from them a promise to
 
@@ -194,11 +194,11 @@ CHAPTER 12
 
       after events have been able to efface in the slightest degree
 
-      from my memory, and whose stern recollection will embitter every
+      from my [[Memory|memory]], and whose stern recollection will embitter every
 
       future moment of my existence. Let me run over this portion of my
 
-      narrative with as much haste as the nature of the events to be
+      narrative with as much haste as the [[Nature|nature]] of the events to be
 
       spoken of will permit. The only method we could devise for the
 

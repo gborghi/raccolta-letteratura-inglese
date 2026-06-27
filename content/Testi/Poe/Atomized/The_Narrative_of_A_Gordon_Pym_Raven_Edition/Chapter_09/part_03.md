@@ -28,7 +28,7 @@ tags:
 
       of escape from our frightful situation. We derived much comfort
 
-      from taking off our clothes and wringing the water from them.
+      from taking off our clothes and wringing the [[Water|water]] from them.
 
       When we put them on after this, they felt remarkably warm and
 
@@ -48,7 +48,7 @@ tags:
 
       had escaped the less dreadful perils of the sea. We endeavoured,
 
-      however, to console ourselves with the hope of being speedily
+      however, to console ourselves with the [[Hope|hope]] of being speedily
 
       picked up by some vessel and encouraged each other to bear with
 
@@ -66,7 +66,7 @@ tags:
 
       much along as she had done before, the deck was comparatively
 
-      dry, and we could move about with freedom. We had now been better
+      dry, and we could move about with [[Freedom|freedom]]. We had now been better
 
       than three entire days and nights without either food or drink,
 
@@ -74,7 +74,7 @@ tags:
 
       to get up something from below. As the brig was completely full
 
-      of water, we went to this work despondently, and with but little
+      of [[Water|water]], we went to this work despondently, and with but little
 
       expectation of being able to obtain anything. We made a kind of
 
@@ -86,7 +86,7 @@ tags:
 
       them into the cabin, and dragged them to and fro, in the faint
 
-      hope of being thus able to entangle some article which might be
+      [[Hope|hope]] of being thus able to entangle some article which might be
 
       of use to us for food, or which might at least render us
 
@@ -98,19 +98,19 @@ tags:
 
       Indeed, our contrivance was so very clumsy that any greater
 
-      success was hardly to be anticipated.
+      [[success]] was hardly to be anticipated.
 
 
 
       We now tried the forecastle, but equally in vain, and were upon
 
-      the brink of despair, when Peters proposed that we should fasten
+      the brink of [[Despair|despair]], when Peters proposed that we should fasten
 
-      a rope to his body, and let him make an attempt to get up
+      a rope to his [[Body|body]], and let him make an attempt to get up
 
       something by diving into the cabin. This proposition we hailed
 
-      with all the delight which reviving hope could inspire. He
+      with all the delight which reviving [[Hope|hope]] could inspire. He
 
       proceeded immediately to strip off his clothes with the exception
 
@@ -126,7 +126,7 @@ tags:
 
       itself, it was necessary that the diver, after letting himself
 
-      down, should make a turn to the right, and proceed under water a
+      down, should make a turn to the right, and proceed under [[Water|water]] a
 
       distance of ten or twelve feet, in a narrow passage, to the
 
@@ -136,7 +136,7 @@ tags:
 
       Everything being ready, Peters now descended in the cabin, going
 
-      down the companion-ladder until the water reached his chin. He
+      down the companion-ladder until the [[Water|water]] reached his chin. He
 
       then plunged in, head first, turning to the right as he plunged,
 
@@ -166,9 +166,9 @@ tags:
 
 
 
-      The second attempt met with even worse success; for he remained
+      The second attempt met with even worse [[success]]; for he remained
 
-      so long under water without giving the signal, that, becoming
+      so long under [[Water|water]] without giving the signal, that, becoming
 
       alarmed for his safety, we drew him out without it, and found
 
@@ -186,7 +186,7 @@ tags:
 
       of getting it away except by main force, we all descended into
 
-      the water as far as we could on the ladder, and giving a pull
+      the [[Water|water]] as far as we could on the ladder, and giving a pull
 
       against it with our united strength, succeeded in breaking it
 
@@ -202,7 +202,7 @@ tags:
 
       steady himself, and keep to the floor of the cabin while making
 
-      his search. For a long time we looked about in vain for something
+      his search. For a long [[Time|time]] we looked about in vain for something
 
       which might answer this purpose; but at length, to our great joy,
 
@@ -212,7 +212,7 @@ tags:
 
       this securely to one of his ankles, Peters now made his fourth
 
-      descent into the cabin, and this time succeeded in making his way
+      descent into the cabin, and this [[Time|time]] succeeded in making his way
 
       to the door of the steward’s room. To his inexpressible grief,
 
@@ -220,11 +220,11 @@ tags:
 
       effecting an entrance, as, with the greatest exertion, he could
 
-      remain under water not more, at the utmost extent, than a single
+      remain under [[Water|water]] not more, at the utmost extent, than a single
 
       minute. Our affairs now looked gloomy indeed, and neither
 
-      Augustus nor myself could refrain from bursting into tears, as we
+      Augustus nor myself could refrain from bursting into [[Tears|tears]], as we
 
       thought of the host of difficulties which encompassed us, and the
 
@@ -234,7 +234,7 @@ tags:
 
       our knees to God, we implored His aid in the many dangers which
 
-      beset us; and arose with renewed hope and vigor to think what
+      beset us; and arose with renewed [[Hope|hope]] and vigor to think what
 
       could yet be done by mortal means toward accomplishing our
 

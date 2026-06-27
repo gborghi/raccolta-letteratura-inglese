@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 24"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -26,7 +26,7 @@ subsist any longer upon the filberts, the use of which occasioned us
 
 the most excruciating torment, we resolved to make a desperate attempt
 
-at descending the southern declivity of the hill. The face of the
+at descending the southern declivity of the [[Hill|hill]]. The face of the
 
 precipice was here of the softest species of soapstone, although nearly
 
@@ -46,7 +46,7 @@ saw the possibility of descending the whole way by the process in which
 
 we had clambered up from the chasm when we had been buried by the fall
 
-of the hill--that is, by cutting steps in the face of the soapstone
+of the [[Hill|hill]]--that is, by cutting steps in the face of the soapstone
 
 with our knives. The extreme hazard of the attempt can scarcely be
 
@@ -68,7 +68,7 @@ now proceeded to dig a deep hole in the soapstone (as far in as eight
 
 or ten inches), sloping away the rock above to the height of a foot, or
 
-thereabout, so as to allow of his driving, with the butt of a pistol, a
+thereabout, so as to allow of his driving, with the butt of a [[Pistol|pistol]], a
 
 tolerably strong peg into the levelled surface. I then drew him up for
 
@@ -112,11 +112,11 @@ which we were indebted altogether to Peters's ingenuity and resolution)
 
 my companion finally succeeded, with the occasional aid of projections
 
-in the cliff, in reaching the bottom without accident.
+in the cliff, in reaching the [[Bottom|bottom]] without accident.
 
 
 
-It was some time before I could summon sufficient resolution to follow
+It was some [[Time|time]] before I could summon sufficient resolution to follow
 
 him; but I did at length attempt it. Peters had taken off his shirt
 
@@ -130,11 +130,11 @@ striving, by the vigour of my movements, to banish the trepidation
 
 which I could overcome in no other manner. This answered sufficiently
 
-well for the first four or five steps; but presently I found my
+[[Well|well]] for the first four or five steps; but presently I found my
 
-imagination growing terribly excited by thoughts of the vast depth yet
+[[Imagination|imagination]] growing terribly excited by thoughts of the vast depth yet
 
-to be descended, and the precarious nature of the pegs and soapstone
+to be descended, and the precarious [[Nature|nature]] of the pegs and soapstone
 
 holes which were my only support. It was in vain I endeavoured to
 
@@ -162,9 +162,9 @@ strike violently together, while my fingers were gradually yet
 
 certainly relaxing their grasp. There was a ringing in my ears, and I
 
-said, "This is my knell of death!" And now I was consumed with the
+said, "This is my knell of [[Death|death]]!" And now I was consumed with the
 
-irrepressible desire of looking below. I could not, I would not,
+irrepressible [[Desire|desire]] of looking below. I could not, I would not,
 
 confine my glances to the cliff; and, with a wild, indefinable emotion
 
@@ -174,9 +174,9 @@ down into the abyss. For one moment my fingers clutched convulsively
 
 upon their hold, while, with the movement, the faintest possible idea
 
-of ultimate escape wandered, like a shadow, through my mind--in the
+of ultimate escape wandered, like a [[Shadow|shadow]], through my mind--in the
 
-next my whole soul was pervaded with _a longing to fall_; a desire, a
+next my whole [[Soul|soul]] was pervaded with _a [[Longing|longing]] to fall_; a [[Desire|desire]], a
 
 yearning, a passion utterly uncontrollable. I let go at once my grasp
 
@@ -184,7 +184,7 @@ upon the peg, and, turning half round from the precipice, remained
 
 tottering for an instant against its naked face. But now there came a
 
-spinning of the brain; a shrill-sounding and phantom voice screamed
+spinning of the brain; a shrill-sounding and [[Phantom|phantom]] voice screamed
 
 within my ears; a dusky, fiendish, and filmy figure stood immediately
 
@@ -196,17 +196,17 @@ plunged within its arms.
 
 I had swooned, and Peters had caught me as I fell. He had observed my
 
-proceedings from his station at the bottom of the cliff; and,
+proceedings from his station at the [[Bottom|bottom]] of the cliff; and,
 
 perceiving my imminent danger, had endeavoured to inspire me with
 
-courage by every suggestion he could devise; although my confusion of
+[[Courage|courage]] by every suggestion he could devise; although my confusion of
 
 mind had been so great as to prevent my hearing what he said, or being
 
 conscious that he had even spoken to me at all. At length, seeing me
 
-totter, he hastened to ascend to my rescue, and arrived just in time
+totter, he hastened to ascend to my rescue, and arrived just in [[Time|time]]
 
 for my preservation. Had I fallen with my full weight, the rope of
 
@@ -220,7 +220,7 @@ returned. This was in about fifteen minutes. On recovery, my
 
 trepidation had entirely vanished; I felt a new being, and, with some
 
-little further aid from my companion, reached the bottom also in
+little further aid from my companion, reached the [[Bottom|bottom]] also in
 
 safety.
 
@@ -228,7 +228,7 @@ safety.
 
 We now found ourselves not far from the ravine which had proved the
 
-tomb of our friends, and to the southward of the spot where the hill
+tomb of our friends, and to the southward of the spot where the [[Hill|hill]]
 
 had fallen. The place was one of singular wildness, and its aspect
 
@@ -270,7 +270,7 @@ the seacoast, distant not more than half a mile, with a view of
 
 catching turtle, several of which we had observed from our place of
 
-concealment on the hill. We had proceeded some hundred yards, threading
+concealment on the [[Hill|hill]]. We had proceeded some hundred yards, threading
 
 our route cautiously between the huge rocks and tumuli, when, upon
 
@@ -278,7 +278,7 @@ turning a corner, five savages sprung upon us from a small cavern,
 
 felling Peters to the ground with a blow from a club. As he fell the
 
-whole party rushed upon him to secure their victim, leaving me time to
+whole party rushed upon him to secure their victim, leaving me [[Time|time]] to
 
 recover from my astonishment. I still had the musket, but the barrel
 
@@ -334,7 +334,7 @@ whom I had shot, and supposed dead, sprang briskly to his feet, and
 
 attempted to make his escape. We overtook him, however, before he had
 
-advanced many paces, and were about to put him to death, when Peters
+advanced many paces, and were about to put him to [[Death|death]], when Peters
 
 suggested that we might derive some benefit from forcing him to
 
@@ -368,7 +368,7 @@ fastnesses of the rougher ground, when I discovered the bows of two
 
 canoes projecting from behind a large rock which ran out into the
 
-water. Towards these we now ran with all speed, and, reaching them,
+[[Water|water]]. Towards these we now ran with all [[Speed|speed]], and, reaching them,
 
 found them unguarded, and without any other freight than three of the
 
@@ -388,15 +388,15 @@ we became sufficiently calm to perceive the great oversight of which we
 
 had been guilty in leaving the other canoe in the power of the savages,
 
-who, by this time, were not more than twice as far from the beach as
+who, by this [[Time|time]], were not more than twice as far from the beach as
 
-ourselves, and were rapidly advancing to the pursuit. No time was now
+ourselves, and were rapidly advancing to the pursuit. No [[Time|time]] was now
 
-to be lost. Our hope was, at best, a forlorn one, but we had none
+to be lost. Our [[Hope|hope]] was, at best, a forlorn one, but we had none
 
 other. It was very doubtful whether, with the utmost exertion, we could
 
-get back in time to anticipate them in taking possession of the canoe;
+get back in [[Time|time]] to anticipate them in taking possession of the canoe;
 
 but yet there was a chance that we could. We might save ourselves if we
 
@@ -410,9 +410,9 @@ The canoe was modelled with the bow and stern alike, and, in place of
 
 turning it round, we merely changed our position in paddling. As soon
 
-as the savages perceived this they redoubled their yells, as well as
+as the savages perceived this they redoubled their yells, as [[Well|well]] as
 
-their speed, and approached with inconceivable rapidity. We pulled,
+their [[Speed|speed]], and approached with inconceivable rapidity. We pulled,
 
 however, with all the energy of desperation, and arrived at the
 
@@ -420,37 +420,37 @@ contested point before more than one of the natives had attained it.
 
 This man paid dearly for his superior agility, Peters shooting him
 
-through the head with a pistol as he approached the shore. The foremost
+through the head with a [[Pistol|pistol]] as he approached the shore. The foremost
 
 among the rest of his party were probably some twenty or thirty paces
 
 distant as we seized upon the canoe. We at first endeavoured to pull
 
-her into the deep water, beyond the reach of the savages, but, finding
+her into the deep [[Water|water]], beyond the reach of the savages, but, finding
 
-her too firmly aground, and there being no time to spare, Peters, with
+her too firmly aground, and there being no [[Time|time]] to spare, Peters, with
 
 one or two heavy strokes from the butt of the musket, succeeded in
 
 dashing out a large portion of the bow and of one side. We then pushed
 
-off. Two of the natives by this time had got hold of our boat,
+off. Two of the natives by this [[Time|time]] had got hold of our boat,
 
 obstinately refusing to let go, until we were forced to despatch them
 
 with our knives. We were now clear off, and making great way out to
 
-sea. The main body of the savages, upon reaching the broken canoe, set
+sea. The main [[Body|body]] of the savages, upon reaching the broken canoe, set
 
 up the most tremendous yell of rage and disappointment conceivable. In
 
-truth, from everything I could see of these wretches, they appeared to
+[[Truth|truth]], from everything I could see of these wretches, they appeared to
 
 be the most wicked, hypocritical, vindictive, bloodthirsty, and
 
 altogether fiendish race of men upon the face of the globe. It is clear
 
-we should have had no mercy had we fallen into their hands. They made a
+we should have had no [[Mercy|mercy]] had we fallen into their hands. They made a
 
 mad attempt at following us in the fractured canoe, but, finding it
 
@@ -464,7 +464,7 @@ We were thus relieved from immediate danger, but our situation was
 
 still sufficiently gloomy. We knew that four canoes of the kind we had
 
-were at one time in the possession of the savages, and were not aware
+were at one [[Time|time]] in the possession of the savages, and were not aware
 
 of the fact (afterward ascertained from our captive) that two of these
 
@@ -476,7 +476,7 @@ could get round to the bay (distant about three miles) where the boats
 
 were usually laid up. Fearing this, we made every exertion to leave the
 
-island behind us, and went rapidly through the water, forcing the
+island behind us, and went rapidly through the [[Water|water]], forcing the
 
 prisoner to take a paddle. In about half an hour, when we had gained,
 

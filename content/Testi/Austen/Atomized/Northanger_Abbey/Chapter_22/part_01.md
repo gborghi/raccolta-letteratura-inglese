@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 21 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 21 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -36,7 +36,7 @@ fashion, was handsome and comfortable, and the air of the room
 
 altogether far from uncheerful. Her heart instantaneously at ease on
 
-this point, she resolved to lose no time in particular examination of
+this point, she resolved to lose no [[Time|time]] in particular examination of
 
 anything, as she greatly dreaded disobliging the General by any delay.
 
@@ -50,7 +50,7 @@ a large high chest, standing back in a deep recess on one side of the
 
 fireplace. The sight of it made her start; and, forgetting everything
 
-else, she stood gazing on it in motionless wonder, while these thoughts
+else, she stood gazing on it in motionless [[Wonder|wonder]], while these thoughts
 
 crossed her:
 
@@ -84,7 +84,7 @@ certainty. She could not, in whatever direction she took it, believe
 
 the last letter to be a _T;_ and yet that it should be anything else in
 
-that house was a circumstance to raise no common degree of
+that [[house]] was a circumstance to raise no common degree of
 
 astonishment. If not originally theirs, by what strange events could it
 
@@ -110,13 +110,13 @@ mistress to be of use to Miss Morland; and though Catherine immediately
 
 dismissed her, it recalled her to the sense of what she ought to be
 
-doing, and forced her, in spite of her anxious desire to penetrate this
+doing, and forced her, in spite of her anxious [[Desire|desire]] to penetrate this
 
 mystery, to proceed in her dressing without further delay. Her progress
 
 was not quick, for her thoughts and her eyes were still bent on the
 
-object so well calculated to interest and alarm; and though she dared
+object so [[Well|well]] calculated to interest and alarm; and though she dared
 
 not waste a moment upon a second attempt, she could not remain many
 
@@ -128,7 +128,7 @@ her curiosity might safely be indulged. One moment surely might be
 
 spared; and, so desperate should be the exertion of her strength, that,
 
-unless secured by supernatural means, the lid in one moment should be
+unless secured by [[Supernatural|supernatural]] means, the lid in one moment should be
 
 thrown back. With this spirit she sprang forward, and her confidence
 
@@ -168,7 +168,7 @@ Catherine had no leisure for speech, being at once blushing, tying her
 
 gown, and forming wise resolutions with the most violent dispatch. Miss
 
-Tilney gently hinted her fear of being late; and in half a minute they
+Tilney gently hinted her [[Fear|fear]] of being late; and in half a minute they
 
 ran downstairs together, in an alarm not wholly unfounded, for General
 
@@ -186,13 +186,13 @@ and breathless, in a most humble mood, concerned for his children, and
 
 detesting old chests; and the General, recovering his politeness as he
 
-looked at her, spent the rest of his time in scolding his daughter for
+looked at her, spent the rest of his [[Time|time]] in scolding his daughter for
 
 so foolishly hurrying her fair friend, who was absolutely out of breath
 
 from haste, when there was not the least occasion for hurry in the
 
-world: but Catherine could not at all get over the double distress of
+world: but Catherine could not at all get over the [[Double|double]] distress of
 
 having involved her friend in a lecture and been a great simpleton
 

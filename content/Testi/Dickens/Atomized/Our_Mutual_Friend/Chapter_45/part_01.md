@@ -31,10 +31,10 @@ a sombre darkling state, which exhibited that impressive woman in her
 choicest colours.
 
 The noble lady’s condition on these delightful occasions was one
-compounded of heroic endurance and heroic forgiveness. Lurid indications
+compounded of heroic [[Endurance|endurance]] and heroic [[Forgiveness|forgiveness]]. Lurid indications
 of the better marriages she might have made, shone athwart the awful
 gloom of her composure, and fitfully revealed the cherub as a little
-monster unaccountably favoured by Heaven, who had possessed himself of a
+[[Monster|monster]] unaccountably favoured by Heaven, who had possessed himself of a
 blessing for which many of his superiors had sued and contended in vain.
 So firmly had this his position towards his treasure become established,
 that when the anniversary arrived, it always found him in an apologetic
@@ -42,14 +42,14 @@ state. It is not impossible that his modest penitence may have even gone
 the length of sometimes severely reproving him for that he ever took the
 liberty of making so exalted a character his wife.
 
-As for the children of the union, their experience of these festivals
+As for the children of the [[Union|union]], their experience of these festivals
 had been sufficiently uncomfortable to lead them annually to wish, when
 out of their tenderest years, either that Ma had married somebody else
 instead of much-teased Pa, or that Pa had married somebody else instead
-of Ma. When there came to be but two sisters left at home, the daring
+of Ma. When there came to be but two sisters left at [[Home|home]], the daring
 mind of Bella on the next of these occasions scaled the height of
 wondering with droll vexation ‘what on earth Pa ever could have seen in
-Ma, to induce him to make such a little fool of himself as to ask her to
+Ma, to induce him to make such a little [[Fool|fool]] of himself as to ask her to
 have him.’
 
 The revolving year now bringing the day round in its orderly sequence,
@@ -64,24 +64,24 @@ dwelling. They were there received by Mrs Wilfer in person, whose
 dignity on this, as on most special occasions, was heightened by a
 mysterious toothache.
 
-‘I shall not require the carriage at night,’ said Bella. ‘I shall walk
+‘I shall not require the carriage at [[Night|night]],’ said Bella. ‘I shall walk
 back.’
 
 The male domestic of Mrs Boffin touched his hat, and in the act of
 departure had an awful glare bestowed upon him by Mrs Wilfer, intended
-to carry deep into his audacious soul the assurance that, whatever his
+to carry deep into his audacious [[Soul|soul]] the assurance that, whatever his
 private suspicions might be, male domestics in livery were no rarity
 there.
 
-‘Well, dear Ma,’ said Bella, ‘and how do you do?’
+‘[[Well]], dear Ma,’ said Bella, ‘and how do you do?’
 
-‘I am as well, Bella,’ replied Mrs Wilfer, ‘as can be expected.’
+‘I am as [[Well|well]], Bella,’ replied Mrs Wilfer, ‘as can be expected.’
 
 ‘Dear me, Ma,’ said Bella; ‘you talk as if one was just born!’
 
 ‘That’s exactly what Ma has been doing,’ interposed Lavvy, over the
 maternal shoulder, ‘ever since we got up this morning. It’s all very
-well to laugh, Bella, but anything more exasperating it is impossible to
+[[Well|well]] to laugh, Bella, but anything more exasperating it is impossible to
 conceive.’
 
 Mrs Wilfer, with a look too full of majesty to be accompanied by any
@@ -92,7 +92,7 @@ was to be prepared.
 his sitting-room at our disposal to-day. You will therefore, Bella, be
 entertained in the humble abode of your parents, so far in accordance
 with your present style of living, that there will be a drawing-room for
-your reception as well as a dining-room. Your papa invited Mr Rokesmith
+your reception as [[Well|well]] as a dining-room. Your papa invited Mr Rokesmith
 to partake of our lowly fare. In excusing himself on account of a
 particular engagement, he offered the use of his apartment.’
 

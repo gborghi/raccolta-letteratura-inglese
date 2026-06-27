@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 6"
+title: "[[longbow2]] — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/longbow2-(Chesterton)"
@@ -23,11 +23,11 @@ If the present passage in the chronicles of the Long Bow seem but
 a side issue, an interlude and an idyll, a mere romantic episode
 lacking that larger structural achievement which gives solidity
 and hard actuality to the other stories, the reader is requested
-not to be hasty in his condemnation; for in the little love-story
-of Mr. Oliver Green is to be found, as in a parable, the beginning
+not to be hasty in his condemnation; for in the little [[Love|love]]-story
+of Mr. [[Oliver]] Green is to be found, as in a [[Parable|parable]], the beginning
 of the final apotheosis and last judgement of all these things.
 
-It may well begin on a morning when the sunlight came late
+It may [[Well|well]] begin on a morning when the sunlight came late
 but brilliant, under the lifting of great clouds from a great grey
 sweep of wolds that grew purple as they dipped again into distance. 
 Much of that mighty shape was striped and scored with ploughed fields,
@@ -38,11 +38,11 @@ They were both tall; but beyond the fact that they had both once
 been professional soldiers, of rather different types and times,
 they had very little in common.  By their ages they might almost
 have been father and son; and this would not have been contradicted
-by the fact that the younger appeared to be talking all the time,
+by the fact that the younger appeared to be talking all the [[Time|time]],
 in a high, confident and almost crowing voice, while the elder
 only now and then put in a word.  But they were not father and son;
 strangely enough they were really talking and walking together
-because they were friends.  Those who know only too well their
+because they were friends.  Those who know only too [[Well|well]] their
 proceedings as narrated elsewhere would have recognized Colonel Crane,
 once of the Coldstream Guards, and Captain Pierce, late of the
 Flying Corps.
@@ -59,22 +59,22 @@ since I talked to him, Oates is another and a better man."
 
 "Sown his wild oats, in fact," remarked Crane.
 
-"Well," replied the other.  "In a sense they were very quiet oats. 
+"[[Well]]," replied the other.  "In a sense they were very quiet oats. 
 Almost what you might call Quaker Oats.  He was a Puritan and a
 Prohibitionist and a Pacifist and an Internationalist; in short,
-everything that is in darkness and the shadow of death.  But what you
+everything that is in darkness and the [[Shadow|shadow]] of [[Death|death]].  But what you
 said about him was quite right.  His heart's in the right place. 
 It's on his sleeve.  That's why I preached the gospel to the noble
-savage and made him a convert."
+savage and made him a [[convert]]."
 
-"But what did you convert him to?" inquired the other.
+"But what did you [[convert]] him to?" inquired the other.
 
 "Private property," replied Pierce promptly.  "Being a millionaire
 he had never heard of it.  But when I explained the first elementary
 idea of it in a simple form, he was quite taken with the notion. 
 I pointed out that he might abandon robbery on a large scale and
 create property on a small scale.  He felt it was very revolutionary,
-but he admitted it was right.  Well, you know, he'd bought this big
+but he admitted it was right.  [[Well]], you know, he'd bought this big
 English estate out here.  He was going to play the philanthropist,
 and have a model estate with all the regular trimmings; heads hygienically
 shaved by machinery every morning; and the cottagers admitted once
@@ -159,20 +159,20 @@ they usually have in observatories."
 
 "Couldn't be partly a gun and partly a telescope?" pleaded Pierce,
 reluctant to abandon his first fancy.  "I've often seen the phrase
-`shooting stars,' but perhaps I've got the grammar and sense of
+`shooting [[Stars|stars]],' but perhaps I've got the grammar and sense of
 it wrong.  The young man lodging with the farmer may be following
 one of the local sports--the local substitute for duck-shooting!"
 
 "What in the world are you talking about?" growled the other.
 
-"Their lodger may be shooting the stars," explained Pierce.
+"Their lodger may be shooting the [[Stars|stars]]," explained Pierce.
 
-"Hope their lodger isn't shooting the moon," said the flippant Crane.
+"[[Hope]] their lodger isn't shooting the [[Moon|moon]]," said the flippant Crane.
 
 As they spoke there came towards them, through the green
 and twinkling twilight of the orchard, a young woman with
 copper-coloured hair and a square and rather striking face,
-whom Pierce saluted respectfully as the daughter of the house. 
+whom Pierce saluted respectfully as the daughter of the [[house]]. 
 He was very punctilious upon the point that these new peasant
 farmers must be treated like small squires and not like tenants or serfs.
 
@@ -180,7 +180,7 @@ farmers must be treated like small squires and not like tenants or serfs.
 
 "Yes, sir," said the girl.  "They say Mr. Green is a great astronomer."
 
-"I doubt if you ought to call me `sir,'" said Pierce reflectively. 
+"I [[Doubt|doubt]] if you ought to call me `sir,'" said Pierce reflectively. 
 "It suggests rather the forgotten feudalism than the new equality. 
 Perhaps you might oblige me by saying `Yes, citizen,' then we could
 continue our talk about Citizen Green on an equal footing.  By the way,
@@ -190,7 +190,7 @@ Citizen Crane bowed politely to the young woman without any apparent
 enthusiasm for his new title; but Pierce went on.
 
 "Rather rum to call ourselves citizens when we're all so glad to be out
-of the city.  We really want some term suitable to rural equality. 
+of the [[City|city]].  We really want some term suitable to rural equality. 
 The Socialists have spoilt `Comrade'; you can't be a comrade without
 a Liberty tie and a pointed beard.  Morris had a good notion of one
 man calling another Neighbour.  That sounds a little more rustic. 
@@ -420,25 +420,25 @@ little dog laughed--'"
 
 Then something happened, which was in the world of ideas much
 more dramatic than the fact that the little dog laughed. 
-The professor of astronomy laughed.  If the world of things had
-corresponded to the world of ideas, the leaves of the apple tree
-might have curled up in fear or the birds dropped out of the sky. 
+[[The Professor|The professor]] of astronomy laughed.  If the world of things had
+corresponded to the world of ideas, the [[Leaves|leaves]] of the apple tree
+might have curled up in [[Fear|fear]] or the [[Birds|birds]] dropped out of the sky. 
 It was rather as if the cow had laughed.
 
-Following that curt and uncouth noise was a silence; and then
+Following that curt and uncouth noise was a [[Silence|silence]]; and then
 the hand he had raised to his head abruptly rent off his big blue
 spectacles and showed his staring blue eyes.  He looked boyish
 and even babyish.
 
-"I wonder whether you always wore them," she said.  "I should think
-they made that moon of yours look blue.  Isn't there a proverb
-or something about a thing happening once in a blue moon?"
+"I [[Wonder|wonder]] whether you always wore them," she said.  "I should think
+they made that [[Moon|moon]] of yours look blue.  Isn't there a proverb
+or something about a thing happening once in a blue [[Moon|moon]]?"
 
 He threw the great goggles on the ground and broke them.
 
 "Good gracious!" she exclaimed, "you seem to have taken quite
 a dislike to them all of a sudden.  I thought you were going
-to wear them till--well, till all is blue, as they say."
+to wear them till--[[Well|well]], till all is blue, as they say."
 
 He shook his head.  "All is beautiful," he said.  "You are beautiful."
 
@@ -458,7 +458,7 @@ for the exposition of the theory.  The theorist had forgotten all about it.
 
 "I have been thinking a good deal," Hilary Pierce was saying,
 "about that astronomical fellow who is going to lecture in Bath
-to-night. It seemed to me somehow that he was a kindred spirit
+to-[[Night|night]]. It seemed to me somehow that he was a kindred spirit
 and that sooner or later we were bound to get mixed up with him--
 or he was bound to get mixed up with us.  I don't say it's always
 very comfortable to get mixed up with us.  I feel in my bones that
@@ -471,20 +471,20 @@ got to do with his theory?"
 
 "Because," answered the young man, "I understand his astronomical
 theory a good deal better than he thinks I do.  And, let me tell you,
-his astronomical theory is an astronomical allegory."
+his astronomical theory is an astronomical [[Allegory|allegory]]."
 
-"An allegory?" repeated Crane.  "What of?"
+"An [[Allegory|allegory]]?" repeated Crane.  "What of?"
 
-"An allegory of us," said Pierce; "and, as with many an allegory,
+"An [[Allegory|allegory]] of us," said Pierce; "and, as with many an [[Allegory|allegory]],
 we've acted it without knowing it.  I realized something about
-our history, when he was talking, that I don't think I'd ever
+our [[history]], when he was talking, that I don't think I'd ever
 thought of before."
 
 "What in the world are you talking about?" demanded the Colonel.
 
 "His theory," said Pierce in a meditative manner, "has got something
 to do with moving objects being really stationary, and stationary
-objects being really moving.  Well, you always talk of me as if I
+objects being really moving.  [[Well]], you always talk of me as if I
 were a moving object."
 
 "Heartbreaking object sometimes," assented the Colonel with
@@ -519,7 +519,7 @@ But Hunter didn't go on admiring the old landlords; he deserted
 to the new landlords as soon as they got the land.  His conservatism
 was too snobbish to conserve anything.  I wanted to import pigs,
 and I went on importing pigs, though my methods of smuggling
-might land me in a mad-house. But Enoch Oates, the millionaire,
+might land me in a mad-[[house]]. But Enoch Oates, the millionaire,
 didn't go on importing pork; he went off at once on some new stunt,
 first on the booming of his purses, and afterwards on the admirable
 stunt of starting English farms.  The business mind isn't steadfast;
@@ -537,8 +537,8 @@ Materialism isn't like stone; it's like mud, and liquid mud at that."
 inclined to add something to it.  On a rough reckoning of the chances
 in modern England, I should say the situation is something like this. 
 In that dubious and wavering atmosphere it is very unlikely
-there would ever be a revolution, or any very vital reform. 
-But if there were, I believe on my soul that it might be successful. 
+there would ever be a revolution, or any very vital [[Reform|reform]]. 
+But if there were, I believe on my [[Soul|soul]] that it might be successful. 
 I believe everything else would be too weak and wobbly to stand up
 against it."
 
@@ -553,7 +553,7 @@ compactly and clearly stated in the newspaper report, at which
 the friends of the experimentalists found themselves gazing with
 more than their usual bewilderment on the following morning. 
 The Colonel, sitting at his club with his favourite daily paper
-spread out before him, was regarding with a grave wonder a paragraph
+spread out before him, was regarding with a [[Grave|grave]] [[Wonder|wonder]] a paragraph
 that began with the following head-lines:
 
 
@@ -564,7 +564,7 @@ that began with the following head-lines:
 
 "A scene equally distressing and astonishing took place at the third
 meeting of the Astronomical Society now holding its congress
-at Bath.  Professor Oliver Green, one of the most promising of
+at Bath.  Professor [[Oliver]] Green, one of the most promising of
 the younger astronomers, was set down in the syllabus to deliver
 a lecture on `Relativity in Relation to Planetary Motion.' 
 About an hour before the lecture, however, the authorities received
@@ -585,23 +585,23 @@ a still more improbable of a more mobile but equally monstrous form
 of life, resting on four trunks or columns which swung in rotation,
 and terminating in some curious curved appendages, when a young man
 in the front row, whose demeanour had shown an increasing levity,
-called out abruptly:  `Why, that's a cow!'  To this the professor,
+called out abruptly:  `Why, that's a cow!'  To this [[The Professor|the professor]],
 abandoning abruptly all pretence of scientific dignity, replied by
 shouting in a voice like thunder:  `Yes, of course it's a cow;
 and you fellows would never have noticed a cow, even if she jumped
-over the moon!'  The unfortunate professor then began to rave
+over the [[Moon|moon]]!'  The unfortunate professor then began to rave
 in the most incoherent manner, throwing his arms about and shouting
 aloud that he and his fellow scientists were all a pack of noodles
 who had never looked at the world they were walking on, which contained
 the most miraculous things.  But the latter part of his remarks,
 which appeared to be an entirely irrelevant outburst in praise of
-the beauty of Woman, were interrupted by the Chairman and officials
+the [[Beauty|beauty]] of Woman, were interrupted by the Chairman and officials
 of the Congress, who called for medical and constabulary interference. 
 No less a person than Sir Horace Hunter, who, although best known
 as a psycho-physiologist, has taken all knowledge for his province
 and was present to show his interest in astronomical progress,
 was able to certify on the spot that the unfortunate Green was
-clearly suffering from dementia, which was immediately corroborated
+clearly [[Suffering|suffering]] from dementia, which was immediately corroborated
 by a local doctor, so that the unhappy man might be removed without
 further scandal.
 
@@ -616,37 +616,37 @@ from the doctors and police, and carry him outside the building.
 Those pursuing the fugitives found themselves at first confronted
 with a new mystery, in the form of their complete disappearance. 
 It has since been discovered that they actually escaped by aeroplane;
-the young man, whose name is said to be Pierce, being a well-known
+the young man, whose name is said to be Pierce, being a [[Well|well]]-known
 aviator formerly connected with the Flying Corps.  The other young man,
 who assisted him and acted as pilot, has not yet been identified."
 
 
-Night closed and the stars stood out over Dale's Farm; and the
-telescope pointed at the stars in vain.  Its giant lenses had
-vainly mirrored the moon of which its owner had spoken in so vain
+[[Night]] closed and the [[Stars|stars]] stood out over Dale's Farm; and the
+telescope pointed at the [[Stars|stars]] in vain.  Its giant lenses had
+vainly mirrored the [[Moon|moon]] of which its owner had spoken in so vain
 a fashion; but its owner did not return.  Miss Dale was rather
 unaccountably troubled by his absence, and mentioned it once or twice;
 after all, as her family said, it was very natural that he should
-go to an hotel in Bath for the night, especially if the revels
+go to an hotel in Bath for the [[Night|night]], especially if the revels
 of the roystering astronomers were long and late.  "It's no affair
-of ours," said the farmer's wife cheerfully.  "He is not a child." 
+of ours," said the farmer's wife cheerfully.  "He is not a [[Child|child]]." 
 But the farmer's daughter was not quite so sure on the point.
 
 
-Next morning she rose even earlier than usual and went about her
+Next morning she [[Rose|rose]] even earlier than usual and went about her
 ordinary tasks, which by some accident or other seemed to look more
 ordinary than usual.  In the blank morning hours, it was perhaps
 natural that her mind should go back to the previous afternoon,
 when the conduct of the astronomer could by no means be dismissed
 as ordinary.
 
-"It's all very well to say he's not a child," she said to herself. 
+"It's all very [[Well|well]] to say he's not a [[Child|child]]," she said to herself. 
 "I wish I were as certain he's not an idiot.  If he goes to an hotel,
 they'll cheat him."
 
 The more angular and prosaic her own surroundings seemed in the daylight,
-the more doubt she felt about the probable fate of the moonstruck
-gentleman who looked at a blue moon through his blue spectacles. 
+the more [[Doubt|doubt]] she felt about the probable fate of the moonstruck
+gentleman who looked at a blue [[Moon|moon]] through his blue spectacles. 
 She wondered whether his family or his friends were generally
 responsible for his movements; for really he must be a little dotty. 
 She had never heard him talk about his family; and she remembered
@@ -668,40 +668,40 @@ the phase in which they can safely be separated.
 She turned back into the kitchen and began to rout things out
 for breakfast; when she had done everything she could think of
 doing for a family that had not yet put in an appearance, she went
-out again into the garden and found herself at the same gate,
-staring at the steep wooded hill that lay between the farm and
+out again into the [[Garden|garden]] and found herself at the same gate,
+staring at the steep wooded [[Hill|hill]] that lay between the farm and
 the valley of the Blue Boar.  She thought of harnessing the pony;
-and then went walking rather restlessly along the road over the hill.
+and then went walking rather restlessly along the [[Road|road]] over the [[Hill|hill]].
 
 On the map it was only a few miles to the Blue Boar; and she
 was easily capable of walking ten times the distance.  But maps,
 like many other scientific documents, are very inaccurate. 
 The ridge that ran between the two valleys was, relatively to
-that rolling plain, as definite as a range of mountains. 
+that [[rolling]] plain, as definite as a range of [[Mountains|mountains]]. 
 The path through the dark wood that lay just beyond the farm began
-like a lane and then seemed to go up like a ladder.  By the time she
+like a lane and then seemed to go up like a ladder.  By the [[Time|time]] she
 had scaled it, under its continuous canopy of low spreading trees,
-she had the sensation of having walked for a long time.  And when
+she had the sensation of having walked for a long [[Time|time]].  And when
 the ascent ended with a gap in the trees and a blank space of sky,
 she looked over the edge like one looking into another world.
 
 
 Mr. Enoch Oates, in his more expansive moments, had been known to
 allude to what he called God's Great Prairies.  Mr. Rosenbaum Low,
-having come to London from, or through, Johannesburg, often referred
+having come to [[London]] from, or through, Johannesburg, often referred
 in his imperialistic speeches to the "illimitable veldt."  But neither
 the American prairie nor the African veldt really looks any larger,
 or could look any larger, than a wide English vale seen from a low
-English hill.  Nothing can be more distant than the distance;
+English [[Hill|hill]].  Nothing can be more distant than the distance;
 the horizon or the line drawn by heaven across the vision of man. 
 Nothing is so illimitable as that limit.  Within our narrow island
 there is a whole series of such infinities; as if the island itself
 could hold seven seas.  As she looked out over that new landscape,
-the soul seemed to be slaked and satisfied with immensity and,
-by a paradox, to be filled at last with emptiness.  All things seemed
-not only great but growing in greatness.  She could fancy that the tall
+the [[Soul|soul]] seemed to be slaked and satisfied with immensity and,
+by a [[Paradox|paradox]], to be filled at last with emptiness.  All things seemed
+not only great but growing in [[Greatness|greatness]].  She could fancy that the tall
 trees standing up in the sunlight grew taller while she looked at them. 
-The sun was rising and it seemed as if the whole world rose with it. 
+The sun was rising and it seemed as if the whole world [[Rose|rose]] with it. 
 Even the dome of heaven seemed to be lifting slowly; as if the very
 sky were a skirt drawn up and disappearing into the altitudes
 of light.
@@ -709,37 +709,37 @@ of light.
 The vast hollow below her was coloured as variously as a map in an atlas. 
 Fields of grass or grain or red earth seemed so far away that they
 might have been the empires and kingdoms of a world newly created. 
-But she could already see on the brow of a hill above the pine-woods
+But she could already see on the brow of a [[Hill|hill]] above the pine-woods
 the pale scar of the quarry and below it the glittering twist
-in the river where stood the inn of the Blue Boar.  As she drew
+in the [[River|river]] where stood the inn of the Blue Boar.  As she drew
 nearer and nearer to it she could see more and more clearly a green
 triangular field with tiny black dots, which were little black pigs;
-and another smaller dot, which was a child.  Something like a wind
+and another smaller dot, which was a [[Child|child]].  Something like a [[Wind|wind]]
 behind her or within her, that had driven her over the hills,
 seemed to sweep all the long lines of that landslide of a landscape,
 so that they pointed to that spot.
 
 As the path dropped to the level and she began to walk by farms
-and villages, the storm in her mind began to settle and she recovered
+and villages, the [[Storm|storm]] in her mind began to settle and she recovered
 the reasonable prudence with which she had pottered about her
 own farm.  She even felt some responsibility and embarrassment
 about troubling her friend by coming on so vague an errand.  But she
 told herself convincingly enough that after all she was justified. 
 One would not normally be alarmed about a strayed lodger as if he
-were a lion escaped from a menagerie.  But she had after all very
-good reason for regarding this lion as rather a fearful wildfowl. 
+were a [[Lion|lion]] escaped from a menagerie.  But she had after all very
+good reason for regarding this [[Lion|lion]] as rather a fearful wildfowl. 
 His way of talking had been so eccentric that everybody for miles round
 would have agreed, if they had heard him, that he had a tile loose. 
 She was very glad they had not heard him; but their imaginary
 opinion fortified her own.  They had a duty in common humanity;
-they could not let a poor gentleman of doubtful sanity disappear
+they could not let a poor gentleman of doubtful [[Sanity|sanity]] disappear
 without further inquiry.
 
 She entered the inn with a firm step and hailed her friend with something
 of that hearty cheerfulness that is so unpopular in the early riser. 
-She was rather younger and by nature rather more exuberant than Joan;
+She was rather younger and by [[Nature|nature]] rather more exuberant than Joan;
 and Joan had already felt the drag and concentration of children. 
-But Joan had not lost her rather steely sense of humour, and she heard
+But Joan had not lost her rather steely sense of [[Humour|humour]], and she heard
 the main facts of her friend's difficulty with a vigilant smile.
 
 "We should rather like to know what has happened," said the visitor
@@ -752,13 +752,13 @@ people might even blame us, when we knew he was like that."
 "The things he said to me about cows and trees and having found
 a new star were really--"
 
-"Well, it's rather lucky you came to me," said Joan quietly. 
+"[[Well]], it's rather lucky you came to me," said Joan quietly. 
 "For I don't believe you'd have found anybody else on the whole face
 of the earth who knows exactly where he is now."
 
 "And where is he?"
 
-"Well, he's not on the face of the earth," said Joan Hardy.
+"[[Well]], he's not on the face of the earth," said Joan Hardy.
 
 "You don't mean he's--dead?" asked the other in an unnatural voice.
 
@@ -772,13 +772,13 @@ when it's safe."
 "Escaped!  Nabbed him!  Safe!" ejaculated the other young woman
 with round eyes.  "What in the world does it all mean?"
 
-"Well," replied her friend, "he seems to have said the same sort
+"[[Well]]," replied her friend, "he seems to have said the same sort
 of things that he said to you to a whole roomful of scientific men
 at Bath.  And, of course, the scientific men all said he was mad;
 I suppose that's what scientific men are for.  So they were just
 going to take him away to an asylum, when Hilary--"
 
-The farmer's daughter rose in a glory of rage that might have seemed
+The farmer's daughter [[Rose|rose]] in a glory of rage that might have seemed
 to lift the roof, as the great sunrise had seemed to lift the sky.
 
 "Take him away!" she cried.  "How dare they talk about such things? 
@@ -787,7 +787,7 @@ such stuff!  Why, he's got more brains in his boots than they
 have in all their silly old bald heads knocked together--and I'd
 like to knock 'em together!  Why, they'd all smash like egg-shells,
 and he's got a head like cast-iron. Don't you know he's beaten
-all the old duffers at their own business, of stars and things? 
+all the old duffers at their own business, of [[Stars|stars]] and things? 
 I expect they're all jealous; it's just what I should have expected
 of them."
 
@@ -807,12 +807,12 @@ retorted Margery Dale.
 With a mountainous magnanimity Joan was silent.  Then after a pause
 she said:
 
-"Well, Hilary has taken his case in hand and your friend's safe
+"[[Well]], Hilary has taken his case in hand and your friend's safe
 for the present; Hilary generally brings things off, however queer
 they sound.  And I don't mind telling you in confidence that he's
 bringing that and a good many other things off, rather big things,
 just now.  You can't keep him from fighting whatever you do; and he
-seems to be out just now to fight everybody.  So I shouldn't wonder
+seems to be out just now to fight everybody.  So I shouldn't [[Wonder|wonder]]
 if you saw all your old gentlemen's heads knocked together after all. 
 There are rather big preparations going on; that friend of his named
 Blair is for ever going and coming with his balloons and things;
@@ -823,7 +823,7 @@ perhaps all over England."
 was sadly deficient in civic and political sense). "Is that your
 Tommy out there?"
 
-And they talked about the child and then about a hundred entirely
+And they talked about the [[Child|child]] and then about a hundred entirely
 trivial things; for they understood each other perfectly.
 
 And if there are still things the reader fails to understand,

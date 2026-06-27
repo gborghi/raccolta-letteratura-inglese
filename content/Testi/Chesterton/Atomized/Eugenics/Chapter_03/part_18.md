@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 18)"
+title: "[[Eugenics]] — Part 2 (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-But that noble stanza about the water-works has other elements
+But that noble stanza about the [[Water|water]]-works has other elements
 of nobility besides nationality.  It provides a compact and almost
 perfect summary of the whole social problem in industrial countries
-like England and America.  If I wished to set forth systematically
+like England and [[america|America]].  If I wished to set forth systematically
 the elements of the ethical and economic problem in Pittsburgh
 of Sheffield, I could not do better than take these few words
 as a text, and divide them up like the heads of a sermon.
@@ -32,7 +32,7 @@ and is thus generically called "Father." It must not be supposed
 that the poet or singer is necessarily one of the children.
 It may be the wife, called by the same ritual "Mother."
 Poor English wives say "Father" as poor Irish wives say "Himself,"
-meaning the titular head of the house.  The point to seize is
+meaning the titular head of the [[house]].  The point to seize is
 that among the ignorant this convention or custom still exists.
 Father and the family are the foundations of thought; the natural
 authority still comes natural to the poet; but it is overlaid
@@ -41,36 +41,36 @@ the schoolmaster, the policeman, the employer, and so on.
 What these forces fighting the family are we shall see, my dear brethren,
 when we pass to our second heading; which is:---
 
-2.--- Got the Sack.  This idiom marks a later stage of the history
+2.--- Got the Sack.  This idiom marks a later stage of the [[history]]
 of the language than the comparatively primitive word "Father."
 It is needless to discuss whether the term comes from Turkey or some
-other servile society.  In America they say that Father has been fired.
+other servile society.  In [[america|America]] they say that Father has been fired.
 But it involves the whole of the unique economic system under which
 Father has now to live.  Though assumed by family tradition to be
 a master, he can now, by industrial tradition, only be a particular
 kind of servant; a servant who has not the security of a slave.
 If he owned his own shop and tools, he could not get the sack.
 If his master owned him, he could not get the sack.
-The slave and the guildsman know where they will sleep every night;
+The slave and the guildsman know where they will [[Sleep|sleep]] every [[Night|night]];
 it was only the proletarian of individualist industrialism who could
 get the sack, if not in the style of the Bosphorus, at least
 in the sense of the Embankment.  We pass to the third heading.
 
-3.--- From the Water-works. This detail of Father's life is
+3.--- From the [[Water]]-works. This detail of Father's life is
 very important; for this is the reply to most of the Socialists, as the
-last section is to so many of the Capitalists.  The water-works which
+last section is to so many of the Capitalists.  The [[Water|water]]-works which
 employed Father is a very large, official and impersonal institution.
 Whether it is technically a bureaucratic department or a Big business
 makes little or no change in the feelings of Father in connection
-with it.  The water-works might or might not be nationalized;
+with it.  The [[Water|water]]-works might or might not be nationalized;
 and it would make no necessary difference to Father being fired,
-and no difference at all to his being accused of playing with fire.
+and no difference at all to his being accused of playing with [[Fire|fire]].
 In fact, if the Capitalists are more likely to give him the sack,
 the Socialists are even more likely to forbid him the smoke.
-There is no freedom for Father except in some sort of private
-ownership of things like water and fire.  If he owned his own
-well his water could never be cut off, and while he sits by
-his own fire his pipe can never be put out.  That is the real
+There is no [[Freedom|freedom]] for Father except in some sort of private
+ownership of things like [[Water|water]] and [[Fire|fire]].  If he owned his own
+[[Well|well]] his [[Water|water]] could never be cut off, and while he sits by
+his own [[Fire|fire]] his pipe can never be put out.  That is the real
 meaning of property, and the real argument against Socialism;
 probably the only argument against Socialism.
 
@@ -80,7 +80,7 @@ still claim the right to sack him like a stranger, they are
 already beginning to claim the right to supervise him like a son.
 Economically he can go and starve on the Embankment; but ethically
 and hygienically he must be controlled and coddled in the nursery.
-Government repudiates all responsibility for seeing that he gets bread.
+[[government|Government]] repudiates all responsibility for seeing that he gets bread.
 But it anxiously accepts all responsibility for seeing that he does
 not get beer.  It passes an Insurance Act to force him to provide
 himself with medicine; but it is avowedly indifferent to whether
@@ -91,12 +91,12 @@ It is true that in the special and sacred text of scripture we
 are here considering, the smoking is forbidden on a general
 and public and not on a medicinal and private ground.
 But it is none the less relevant to remember that, as his masters
-have already proved that alcohol is a poison, they may soon prove
-that nicotine is a poison.  And it is most significant of all that this
-sort of danger is even greater in what is called the new democracy
-of America than in what is called the old oligarchy of England.
-When I was in America, people were already "defending" tobacco.
-People who defend tobacco are on the road to proving that daylight
+have already proved that alcohol is a [[Poison|poison]], they may soon prove
+that nicotine is a [[Poison|poison]].  And it is most significant of all that this
+sort of danger is even greater in what is called the new [[democracy]]
+of [[america|America]] than in what is called the old oligarchy of England.
+When I was in [[america|America]], people were already "defending" tobacco.
+People who defend tobacco are on the [[Road|road]] to proving that daylight
 is defensible, or that it is not really sinful to sneeze.
 In other words, they are quietly going mad.
 
@@ -105,14 +105,14 @@ and anomalous position of the institution of Property.
 The sentiment still exists, even among the poor, or perhaps especially
 among the poor.  But it is attached to toys rather than tools;
 to the minor products rather than to the means of production.
-But something of the sanity of ownership is still to be observed;
+But something of the [[Sanity|sanity]] of ownership is still to be observed;
 for instance, the element of custom and continuity.
 It was an old cherry-briar; systematically smoked by Father
 in spite of all wiles and temptations to Woodbines and gaspers;
 an old companion possibly connected with various romantic or diverting
-events in Father's life.  It is perhaps a relic as well as a trinket.
+events in Father's life.  It is perhaps a relic as [[Well|well]] as a trinket.
 But because it is not a true tool, because it gives the man no grip
 on the creative energies of society, it is, with all the rest
-of his self-respect, at the mercy of the thing called the sack.
-When he gets the sack from the water-works, it is only too probable
+of his [[Self|self]]-respect, at the [[Mercy|mercy]] of the thing called the sack.
+When he gets the sack from the [[Water|water]]-works, it is only too probable
 that he will have to pawn his old cherry-briar.

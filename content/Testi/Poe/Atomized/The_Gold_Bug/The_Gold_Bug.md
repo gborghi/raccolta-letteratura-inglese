@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug"
+title: "[[The Gold-Bug]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -31,7 +31,7 @@ _—All in the Wrong._
 
       avoid the mortification consequent upon his disasters, he left
 
-      New Orleans, the city of his forefathers, and took up his
+      New Orleans, the [[City|city]] of his forefathers, and took up his
 
       residence at Sullivan’s Island, near Charleston, South Carolina.
 
@@ -53,9 +53,9 @@ _—All in the Wrong._
 
       western extremity, where Fort Moultrie stands, and where are some
 
-      miserable frame buildings, tenanted, during summer, by the
+      miserable frame buildings, tenanted, during [[Summer|summer]], by the
 
-      fugitives from Charleston dust and fever, may be found, indeed,
+      fugitives from Charleston [[Dust|dust]] and fever, may be found, indeed,
 
       the bristly palmetto; but the whole island, with the exception of
 
@@ -79,19 +79,19 @@ _—All in the Wrong._
 
       small hut, which he occupied when I first, by mere accident, made
 
-      his acquaintance. This soon ripened into friendship—for there was
+      his acquaintance. This soon ripened into [[Friendship|friendship]]—for there was
 
       much in the recluse to excite interest and esteem. I found him
 
-      well educated, with unusual powers of mind, but infected with
+      [[Well|well]] educated, with unusual powers of mind, but infected with
 
-      misanthropy, and subject to perverse moods of alternate
+      [[Misanthropy|misanthropy]], and subject to perverse moods of alternate
 
-      enthusiasm and melancholy. He had with him many books, but rarely
+      enthusiasm and [[Melancholy|melancholy]]. He had with him many books, but rarely
 
       employed them. His chief amusements were gunning and fishing, or
 
-      sauntering along the beach and through the myrtles, in quest of
+      sauntering along the beach and through the myrtles, in [[Quest|quest]] of
 
       shells or entomological specimens—his collection of the latter
 
@@ -119,7 +119,7 @@ _—All in the Wrong._
 
       severe, and in the fall of the year it is a rare event indeed
 
-      when a fire is considered necessary. About the middle of October,
+      when a [[Fire|fire]] is considered necessary. About the middle of October,
 
       18—, there occurred, however, a day of remarkable chilliness.
 
@@ -127,7 +127,7 @@ _—All in the Wrong._
 
       the hut of my friend, whom I had not visited for several weeks—my
 
-      residence being, at that time, in Charleston, a distance of nine
+      residence being, at that [[Time|time]], in Charleston, a distance of nine
 
       miles from the island, while the facilities of passage and
 
@@ -137,7 +137,7 @@ _—All in the Wrong._
 
       reply, sought for the key where I knew it was secreted, unlocked
 
-      the door and went in. A fine fire was blazing upon the hearth. It
+      the door and went in. A fine [[Fire|fire]] was blazing upon the hearth. It
 
       was a novelty, and by no means an ungrateful one. I threw off an
 
@@ -165,7 +165,7 @@ _—All in the Wrong._
 
 
 
-      “And why not to-night?” I asked, rubbing my hands over the blaze,
+      “And why not to-[[Night|night]]?” I asked, rubbing my hands over the blaze,
 
       and wishing the whole tribe of _scarabæi_ at the devil.
 
@@ -175,13 +175,13 @@ _—All in the Wrong._
 
       so long since I saw you; and how could I foresee that you would
 
-      pay me a visit this very night of all others? As I was coming
+      pay me a visit this very [[Night|night]] of all others? As I was coming
 
-      home I met Lieutenant G——, from the fort, and, very foolishly, I
+      [[Home|home]] I met Lieutenant G——, from the fort, and, very foolishly, I
 
       lent him the bug; so it will be impossible for you to see it
 
-      until the morning. Stay here to-night, and I will send Jup down
+      until the morning. Stay here to-[[Night|night]], and I will send Jup down
 
       for it at sunrise. It is the loveliest thing in creation!”
 
@@ -211,17 +211,17 @@ _—All in the Wrong._
 
 
 
-      “Well, suppose it is, Jup,” replied Legrand, somewhat more
+      “[[Well]], suppose it is, Jup,” replied Legrand, somewhat more
 
       earnestly, it seemed to me, than the case demanded, “is that any
 
-      reason for your letting the birds burn? The color”—here he turned
+      reason for your letting the [[Birds|birds]] burn? The color”—here he turned
 
       to me—“is really almost enough to warrant Jupiter’s idea. You
 
       never saw a more brilliant metallic lustre than the scales
 
-      emit—but of this you cannot judge till tomorrow. In the mean time
+      emit—but of this you cannot judge till tomorrow. In the mean [[Time|time]]
 
       I can give you some idea of the shape.” Saying this, he seated
 
@@ -237,7 +237,7 @@ _—All in the Wrong._
 
       foolscap, and made upon it a rough drawing with the pen. While he
 
-      did this, I retained my seat by the fire, for I was still chilly.
+      did this, I retained my seat by the [[Fire|fire]], for I was still chilly.
 
       When the design was complete, he handed it to me without rising.
 
@@ -251,35 +251,35 @@ _—All in the Wrong._
 
       attention during previous visits. When his gambols were over, I
 
-      looked at the paper, and, to speak the truth, found myself not a
+      looked at the paper, and, to speak the [[Truth|truth]], found myself not a
 
       little puzzled at what my friend had depicted.
 
 
 
-      “Well!” I said, after contemplating it for some minutes, “this
+      “[[Well]]!” I said, after contemplating it for some minutes, “this
 
       _is_ a strange _scarabæus_, I must confess: new to me: never saw
 
       anything like it before—unless it was a skull, or a
 
-      death’s-head—which it more nearly resembles than anything else
+      [[Death|death]]’s-head—which it more nearly resembles than anything else
 
       that has come under _my_ observation.”
 
 
 
-      “A death’s-head!” echoed Legrand. “Oh—yes—well, it has something
+      “A [[Death|death]]’s-head!” echoed Legrand. “Oh—yes—[[Well|well]], it has something
 
-      of that appearance upon paper, no doubt. The two upper black
+      of that appearance upon paper, no [[Doubt|doubt]]. The two upper black
 
-      spots look like eyes, eh? and the longer one at the bottom like a
+      spots look like eyes, eh? and the longer one at the [[Bottom|bottom]] like a
 
       mouth—and then the shape of the whole is oval.”
 
 
 
-      “Perhaps so,” said I; “but, Legrand, I fear you are no artist. I
+      “Perhaps so,” said I; “but, Legrand, I [[Fear|fear]] you are no [[Artist|artist]]. I
 
       must wait until I see the beetle itself, if I am to form any idea
 
@@ -287,7 +287,7 @@ _—All in the Wrong._
 
 
 
-      “Well, I don’t know,” said he, a little nettled, “I draw
+      “[[Well]], I don’t know,” said he, a little nettled, “I draw
 
       tolerably—_should_ do it at least—have had good masters, and
 
@@ -325,7 +325,7 @@ _—All in the Wrong._
 
 
 
-      “Well, well,” I said, “perhaps you have—still I don’t see them;”
+      “[[Well]], [[Well|well]],” I said, “perhaps you have—still I don’t see them;”
 
       and I handed him the paper without additional remark, not wishing
 
@@ -337,13 +337,13 @@ _—All in the Wrong._
 
       visible, and the whole _did_ bear a very close resemblance to the
 
-      ordinary cuts of a death’s-head.
+      ordinary cuts of a [[Death|death]]’s-head.
 
 
 
       He received the paper very peevishly, and was about to crumple
 
-      it, apparently to throw it in the fire, when a casual glance at
+      it, apparently to throw it in the [[Fire|fire]], when a casual glance at
 
       the design seemed suddenly to rivet his attention. In an instant
 
@@ -377,7 +377,7 @@ _—All in the Wrong._
 
       reverie, from which no sallies of mine could arouse him. It had
 
-      been my intention to pass the night at the hut, as I had
+      been my intention to pass the [[Night|night]] at the hut, as I had
 
       frequently done before, but, seeing my host in this mood, I
 
@@ -401,19 +401,19 @@ _—All in the Wrong._
 
 
 
-      “Well, Jup,” said I, “what is the matter now?—how is your
+      “[[Well]], Jup,” said I, “what is the matter now?—how is your
 
       master?”
 
 
 
-      “Why, to speak de troof, massa, him not so berry well as mought
+      “Why, to speak de troof, massa, him not so berry [[Well|well]] as mought
 
       be.”
 
 
 
-      “Not well! I am truly sorry to hear it. What does he complain
+      “Not [[Well|well]]! I am truly sorry to hear it. What does he complain
 
       of?”
 
@@ -453,7 +453,7 @@ _—All in the Wrong._
 
       and he soldiers up, and as white as a gose? And den he keep a
 
-      syphon all de time—”
+      syphon all de [[Time|time]]—”
 
 
 
@@ -471,7 +471,7 @@ _—All in the Wrong._
 
       had a big stick ready cut for to gib him deuced good beating when
 
-      he did come—but Ise sich a fool dat I hadn’t de heart arter
+      he did come—but Ise sich a [[Fool|fool]] dat I hadn’t de heart arter
 
       all—he look so berry poorly.”
 
@@ -481,7 +481,7 @@ _—All in the Wrong._
 
       too severe with the poor fellow—don’t flog him, Jupiter—he can’t
 
-      very well stand it—but can you form no idea of what has
+      very [[Well|well]] stand it—but can you form no idea of what has
 
       occasioned this illness, or rather this change of conduct? Has
 
@@ -523,7 +523,7 @@ _—All in the Wrong._
 
       Massa Will cotch him fuss, but had for to let him go ’gin mighty
 
-      quick, I tell you—den was de time he must ha’ got de bite. I did
+      quick, I tell you—den was de [[Time|time]] he must ha’ got de bite. I did
 
       n’t like de look oh de bug mouff, myself, no how, so I would n’t
 
@@ -549,17 +549,17 @@ _—All in the Wrong._
 
 
 
-      “But how do you know he dreams about gold?”
+      “But how do you know he [[Dreams|dreams]] about gold?”
 
 
 
-      “How I know? why ’cause he talk about it in he sleep—dat’s how I
+      “How I know? why ’cause he talk about it in he [[Sleep|sleep]]—dat’s how I
 
       nose.”
 
 
 
-      “Well, Jup, perhaps you are right; but to what fortunate
+      “[[Well]], Jup, perhaps you are right; but to what fortunate
 
       circumstance am I to attribute the honor of a visit from you
 
@@ -581,7 +581,7 @@ _—All in the Wrong._
 
 
 
-      “MY DEAR ——Why have I not seen you for so long a time? I hope you
+      “MY DEAR ——Why have I not seen you for so long a [[Time|time]]? I [[Hope|hope]] you
 
       have not been so foolish as to take offence at any little
 
@@ -595,9 +595,9 @@ _—All in the Wrong._
 
 
 
-      “I have not been quite well for some days past, and poor old Jup
+      “I have not been quite [[Well|well]] for some days past, and poor old Jup
 
-      annoys me, almost beyond endurance, by his well-meant attentions.
+      annoys me, almost beyond [[Endurance|endurance]], by his [[Well|well]]-meant attentions.
 
       Would you believe it?—he had prepared a huge stick, the other
 
@@ -605,7 +605,7 @@ _—All in the Wrong._
 
       spending the day, _solus_, among the hills on the main land. I
 
-      verily believe that my ill looks alone saved me a flogging.
+      verily believe that my ill looks [[Alone|alone]] saved me a flogging.
 
 
 
@@ -651,7 +651,7 @@ _—All in the Wrong._
 
       Upon reaching the wharf, I noticed a scythe and three spades, all
 
-      apparently new, lying in the bottom of the boat in which we were
+      apparently new, lying in the [[Bottom|bottom]] of the boat in which we were
 
       to embark.
 
@@ -739,7 +739,7 @@ _—All in the Wrong._
 
       smile, “to reinstate me in my family possessions. Is it any
 
-      wonder, then, that I prize it? Since Fortune has thought fit to
+      [[Wonder|wonder]], then, that I prize it? Since Fortune has thought fit to
 
       bestow it upon me, I have only to use it properly and I shall
 
@@ -751,13 +751,13 @@ _—All in the Wrong._
 
       “What! de bug, massa? I’d rudder not go fer trubble dat bug—you
 
-      mus’ git him for your own self.” Hereupon Legrand arose, with a
+      mus’ git him for your own [[Self|self]].” Hereupon Legrand arose, with a
 
-      grave and stately air, and brought me the beetle from a glass
+      [[Grave|grave]] and stately air, and brought me the beetle from a glass
 
       case in which it was enclosed. It was a beautiful scarabæus, and,
 
-      at that time, unknown to naturalists—of course a great prize in a
+      at that [[Time|time]], unknown to naturalists—of course a great prize in a
 
       scientific point of view. There were two round, black spots near
 
@@ -801,7 +801,7 @@ _—All in the Wrong._
 
 
 
-      I felt it, and, to say the truth, found not the slightest
+      I felt it, and, to say the [[Truth|truth]], found not the slightest
 
       indication of fever.
 
@@ -813,11 +813,11 @@ _—All in the Wrong._
 
 
 
-      “You are mistaken,” he interposed, “I am as well as I can expect
+      “You are mistaken,” he interposed, “I am as [[Well|well]] as I can expect
 
       to be under the excitement which I suffer. If you really wish me
 
-      well, you will relieve this excitement.”
+      [[Well|well]], you will relieve this excitement.”
 
 
 
@@ -865,7 +865,7 @@ _—All in the Wrong._
 
 
 
-      “Probably all night. We shall start immediately, and be back, at
+      “Probably all [[Night|night]]. We shall start immediately, and be back, at
 
       all events, by sunrise.”
 
@@ -875,13 +875,13 @@ _—All in the Wrong._
 
       of yours is over, and the bug business (good God!) settled to
 
-      your satisfaction, you will then return home and follow my advice
+      your satisfaction, you will then return [[Home|home]] and follow my advice
 
       implicitly, as that of your physician?”
 
 
 
-      “Yes; I promise; and now let us be off, for we have no time to
+      “Yes; I promise; and now let us be off, for we have no [[Time|time]] to
 
       lose.”
 
@@ -889,11 +889,11 @@ _—All in the Wrong._
 
       With a heavy heart I accompanied my friend. We started about four
 
-      o’clock—Legrand, Jupiter, the dog, and myself. Jupiter had with
+      o’[[Clock|clock]]—Legrand, Jupiter, the dog, and myself. Jupiter had with
 
       him the scythe and spades—the whole of which he insisted upon
 
-      carrying—more through fear, it seemed to me, of trusting either
+      carrying—more through [[Fear|fear]], it seemed to me, of trusting either
 
       of the implements within reach of his master, than from any
 
@@ -901,7 +901,7 @@ _—All in the Wrong._
 
       the extreme, and “dat deuced bug” were the sole words which
 
-      escaped his lips during the journey. For my own part, I had
+      escaped his lips during the [[Journey|journey]]. For my own part, I had
 
       charge of a couple of dark lanterns, while Legrand contented
 
@@ -913,11 +913,11 @@ _—All in the Wrong._
 
       evidence of my friend’s aberration of mind, I could scarcely
 
-      refrain from tears. I thought it best, however, to humor his
+      refrain from [[Tears|tears]]. I thought it best, however, to humor his
 
       fancy, at least for the present, or until I could adopt some more
 
-      energetic measures with a chance of success. In the mean time I
+      energetic measures with a chance of [[success]]. In the mean [[Time|time]] I
 
       endeavored, but all in vain, to sound him in regard to the object
 
@@ -955,7 +955,7 @@ _—All in the Wrong._
 
       any yet seen. It was a species of table land, near the summit of
 
-      an almost inaccessible hill, densely wooded from base to
+      an almost inaccessible [[Hill|hill]], densely wooded from base to
 
       pinnacle, and interspersed with huge crags that appeared to lie
 
@@ -985,7 +985,7 @@ _—All in the Wrong._
 
       surpassed them all, and all other trees which I had then ever
 
-      seen, in the beauty of its foliage and form, in the wide spread
+      seen, in the [[Beauty|beauty]] of its foliage and form, in the wide spread
 
       of its branches, and in the general majesty of its appearance.
 
@@ -1143,7 +1143,7 @@ _—All in the Wrong._
 
       work your way out upon that limb as far as you can. If you see
 
-      anything strange, let me know.” By this time what little doubt I
+      anything strange, let me know.” By this [[Time|time]] what little [[Doubt|doubt]] I
 
       might have entertained of my poor friend’s insanity, was put
 
@@ -1151,7 +1151,7 @@ _—All in the Wrong._
 
       stricken with lunacy, and I became seriously anxious about
 
-      getting him home. While I was pondering upon what was best to be
+      getting him [[Home|home]]. While I was pondering upon what was best to be
 
       done, Jupiter’s voice was again heard.
 
@@ -1183,7 +1183,7 @@ _—All in the Wrong._
 
       “Do!” said I, glad of an opportunity to interpose a word, “why
 
-      come home and go to bed. Come now!—that’s a fine fellow. It’s
+      come [[Home|home]] and go to bed. Come now!—that’s a fine fellow. It’s
 
       getting late, and, besides, you remember your promise.”
 
@@ -1199,7 +1199,7 @@ _—All in the Wrong._
 
 
 
-      “Try the wood well, then, with your knife, and see if you think
+      “Try the wood [[Well|well]], then, with your knife, and see if you think
 
       it very rotten.”
 
@@ -1239,7 +1239,7 @@ _—All in the Wrong._
 
 
 
-      “Well! now listen!—if you will venture out on the limb as far as
+      “[[Well]]! now listen!—if you will venture out on the limb as far as
 
       you think safe, and not let go the beetle, I’ll make you a
 
@@ -1265,7 +1265,7 @@ _—All in the Wrong._
 
 
 
-      “Well!” cried Legrand, highly delighted, “what is it?”
+      “[[Well]]!” cried Legrand, highly delighted, “what is it?”
 
 
 
@@ -1275,7 +1275,7 @@ _—All in the Wrong._
 
 
 
-      “A skull, you say!—very well—how is it fastened to the limb?—what
+      “A skull, you say!—very [[Well|well]]—how is it fastened to the limb?—what
 
       holds it on?”
 
@@ -1289,7 +1289,7 @@ _—All in the Wrong._
 
 
 
-      “Well now, Jupiter, do exactly as I tell you—do you hear?”
+      “[[Well]] now, Jupiter, do exactly as I tell you—do you hear?”
 
 
 
@@ -1403,11 +1403,11 @@ _—All in the Wrong._
 
 
 
-      To speak the truth, I had no especial relish for such amusement
+      To speak the [[Truth|truth]], I had no especial relish for such amusement
 
-      at any time, and, at that particular moment, would most willingly
+      at any [[Time|time]], and, at that particular moment, would most willingly
 
-      have declined it; for the night was coming on, and I felt much
+      have declined it; for the [[Night|night]] was coming on, and I felt much
 
       fatigued with the exercise already taken; but I saw no mode of
 
@@ -1417,13 +1417,13 @@ _—All in the Wrong._
 
       I would have had no hesitation in attempting to get the lunatic
 
-      home by force; but I was too well assured of the old negro’s
+      [[Home|home]] by force; but I was too [[Well|well]] assured of the old negro’s
 
-      disposition, to hope that he would assist me, under any
+      disposition, to [[Hope|hope]] that he would assist me, under any
 
       circumstances, in a personal contest with his master. I made no
 
-      doubt that the latter had been infected with some of the
+      [[Doubt|doubt]] that the latter had been infected with some of the
 
       innumerable Southern superstitions about money buried, and that
 
@@ -1479,21 +1479,21 @@ _—All in the Wrong._
 
       interruption which might have enabled me to get the wanderer
 
-      home. The noise was, at length, very effectually silenced by
+      [[Home|home]]. The noise was, at length, very effectually silenced by
 
       Jupiter, who, getting out of the hole with a dogged air of
 
       deliberation, tied the brute’s mouth up with one of his
 
-      suspenders, and then returned, with a grave chuckle, to his task.
+      suspenders, and then returned, with a [[Grave|grave]] chuckle, to his task.
 
 
 
-      When the time mentioned had expired, we had reached a depth of
+      When the [[Time|time]] mentioned had expired, we had reached a depth of
 
       five feet, and yet no signs of any treasure became manifest. A
 
-      general pause ensued, and I began to hope that the farce was at
+      general pause ensued, and I began to [[Hope|hope]] that the farce was at
 
       an end. Legrand, however, although evidently much disconcerted,
 
@@ -1511,13 +1511,13 @@ _—All in the Wrong._
 
       reluctantly, to put on his coat, which he had thrown off at the
 
-      beginning of his labor. In the mean time I made no remark.
+      beginning of his labor. In the mean [[Time|time]] I made no remark.
 
       Jupiter, at a signal from his master, began to gather up his
 
       tools. This done, and the dog having been unmuzzled, we turned in
 
-      profound silence towards home.
+      profound [[Silence|silence]] towards [[Home|home]].
 
 
 
@@ -1533,7 +1533,7 @@ _—All in the Wrong._
 
       “You scoundrel,” said Legrand, hissing out the syllables from
 
-      between his clenched teeth—“you infernal black villain!—speak, I
+      between his clenched teeth—“you infernal black [[Villain|villain]]!—speak, I
 
       tell you!—answer me this instant, without
 
@@ -1585,7 +1585,7 @@ _—All in the Wrong._
 
 
 
-      “Well, then, was it this eye or that through which you dropped
+      “[[Well]], then, was it this eye or that through which you dropped
 
       the beetle?”—here Legrand touched each of Jupiter’s eyes.
 
@@ -1601,7 +1601,7 @@ _—All in the Wrong._
 
 
 
-      Here my friend, about whose madness I now saw, or fancied that I
+      Here my friend, about whose [[Madness|madness]] I now saw, or fancied that I
 
       saw, certain indications of method, removed the peg which marked
 
@@ -1661,7 +1661,7 @@ _—All in the Wrong._
 
       complete skeletons, intermingled with several buttons of metal,
 
-      and what appeared to be the dust of decayed woollen. One or two
+      and what appeared to be the [[Dust|dust]] of decayed woollen. One or two
 
       strokes of a spade upturned the blade of a large Spanish knife,
 
@@ -1733,7 +1733,7 @@ _—All in the Wrong._
 
       wore, for some minutes, as deadly a pallor as it is possible, in
 
-      nature of things, for any negro’s visage to assume. He seemed
+      [[Nature|nature]] of things, for any negro’s visage to assume. He seemed
 
       stupefied—thunderstricken. Presently he fell upon his knees in
 
@@ -1761,7 +1761,7 @@ _—All in the Wrong._
 
       get every thing housed before daylight. It was difficult to say
 
-      what should be done, and much time was spent in deliberation—so
+      what should be done, and much [[Time|time]] was spent in deliberation—so
 
       confused were the ideas of all. We, finally, lightened the box by
 
@@ -1775,11 +1775,11 @@ _—All in the Wrong._
 
       to stir from the spot, nor to open his mouth until our return. We
 
-      then hurriedly made for home with the chest; reaching the hut in
+      then hurriedly made for [[Home|home]] with the chest; reaching the hut in
 
-      safety, but after excessive toil, at one o’clock in the morning.
+      safety, but after excessive toil, at one o’[[Clock|clock]] in the morning.
 
-      Worn out as we were, it was not in human nature to do more
+      Worn out as we were, it was not in human [[Nature|nature]] to do more
 
       immediately. We rested until two, and had supper; starting for
 
@@ -1791,17 +1791,17 @@ _—All in the Wrong._
 
       equally as might be, among us, and, leaving the holes unfilled,
 
-      again set out for the hut, at which, for the second time, we
+      again set out for the hut, at which, for the second [[Time|time]], we
 
       deposited our golden burthens, just as the first faint streaks of
 
-      the dawn gleamed from over the tree-tops in the East.
+      the [[Dawn|dawn]] gleamed from over the tree-tops in the East.
 
 
 
       We were now thoroughly broken down; but the intense excitement of
 
-      the time denied us repose. After an unquiet slumber of some three
+      the [[Time|time]] denied us repose. After an unquiet slumber of some three
 
       or four hours’ duration, we arose, as if by preconcert, to make
 
@@ -1811,7 +1811,7 @@ _—All in the Wrong._
 
       The chest had been full to the brim, and we spent the whole day,
 
-      and the greater part of the next night, in a scrutiny of its
+      and the greater part of the next [[Night|night]], in a scrutiny of its
 
       contents. There had been nothing like order or arrangement. Every
 
@@ -1857,15 +1857,15 @@ _—All in the Wrong._
 
       solid gold ornaments; nearly two hundred massive finger and
 
-      earrings; rich chains—thirty of these, if I remember;
+      earrings; rich [[Chains|chains]]—thirty of these, if I remember;
 
       eighty-three very large and heavy crucifixes; five gold censers
 
       of great value; a prodigious golden punch bowl, ornamented with
 
-      richly chased vine-leaves and Bacchanalian figures; with two
+      richly chased vine-[[Leaves|leaves]] and Bacchanalian figures; with two
 
-      sword-handles exquisitely embossed, and many other smaller
+      [[Sword|sword]]-handles exquisitely embossed, and many other smaller
 
       articles which I cannot recollect. The weight of these valuables
 
@@ -1881,7 +1881,7 @@ _—All in the Wrong._
 
       corrosion—but all were richly jewelled and in cases of great
 
-      worth. We estimated the entire contents of the chest, that night,
+      worth. We estimated the entire contents of the chest, that [[Night|night]],
 
       at a million and a half of dollars; and upon the subsequent
 
@@ -1895,23 +1895,23 @@ _—All in the Wrong._
 
       When, at length, we had concluded our examination, and the
 
-      intense excitement of the time had, in some measure, subsided,
+      intense excitement of the [[Time|time]] had, in some measure, subsided,
 
       Legrand, who saw that I was dying with impatience for a solution
 
-      of this most extraordinary riddle, entered into a full detail of
+      of this most extraordinary [[Riddle|riddle]], entered into a full detail of
 
       all the circumstances connected with it.
 
 
 
-      “You remember;” said he, “the night when I handed you the rough
+      “You remember;” said he, “the [[Night|night]] when I handed you the rough
 
-      sketch I had made of the _scarabæus_. You recollect also, that I
+      [[Sketch|sketch]] I had made of the _scarabæus_. You recollect also, that I
 
       became quite vexed at you for insisting that my drawing resembled
 
-      a death’s-head. When you first made this assertion I thought you
+      a [[Death|death]]’s-head. When you first made this assertion I thought you
 
       were jesting; but afterwards I called to mind the peculiar spots
 
@@ -1921,9 +1921,9 @@ _—All in the Wrong._
 
       graphic powers irritated me—for I am considered a good
 
-      artist—and, therefore, when you handed me the scrap of parchment,
+      [[Artist|artist]]—and, therefore, when you handed me the scrap of parchment,
 
-      I was about to crumple it up and throw it angrily into the fire.”
+      I was about to crumple it up and throw it angrily into the [[Fire|fire]].”
 
 
 
@@ -1937,13 +1937,13 @@ _—All in the Wrong._
 
       discovered it, at once, to be a piece of very thin parchment. It
 
-      was quite dirty, you remember. Well, as I was in the very act of
+      was quite dirty, you remember. [[Well]], as I was in the very act of
 
-      crumpling it up, my glance fell upon the sketch at which you had
+      crumpling it up, my glance fell upon the [[Sketch|sketch]] at which you had
 
       been looking, and you may imagine my astonishment when I
 
-      perceived, in fact, the figure of a death’s-head just where, it
+      perceived, in fact, the figure of a [[Death|death]]’s-head just where, it
 
       seemed to me, I had made the drawing of the beetle. For a moment
 
@@ -1957,7 +1957,7 @@ _—All in the Wrong._
 
       proceeded to scrutinize the parchment more closely. Upon turning
 
-      it over, I saw my own sketch upon the reverse, just as I had made
+      it over, I saw my own [[Sketch|sketch]] upon the reverse, just as I had made
 
       it. My first idea, now, was mere surprise at the really
 
@@ -1973,7 +1973,7 @@ _—All in the Wrong._
 
       say the singularity of this coincidence absolutely stupefied me
 
-      for a time. This is the usual effect of such coincidences. The
+      for a [[Time|time]]. This is the usual effect of such coincidences. The
 
       mind struggles to establish a connexion—a sequence of cause and
 
@@ -1987,7 +1987,7 @@ _—All in the Wrong._
 
       that there had been no drawing upon the parchment when I made my
 
-      sketch of the _scarabæus_. I became perfectly certain of this;
+      [[Sketch|sketch]] of the _scarabæus_. I became perfectly certain of this;
 
       for I recollected turning up first one side and then the other,
 
@@ -2001,13 +2001,13 @@ _—All in the Wrong._
 
       remote and secret chambers of my intellect, a glow-worm-like
 
-      conception of that truth which last night’s adventure brought to
+      conception of that [[Truth|truth]] which last [[Night|night]]’s adventure brought to
 
       so magnificent a demonstration. I arose at once, and putting the
 
       parchment securely away, dismissed all farther reflection until I
 
-      should be alone.
+      should be [[Alone|alone]].
 
 
 
@@ -2021,7 +2021,7 @@ _—All in the Wrong._
 
       _scarabæus_ was on the coast of the main land, about a mile
 
-      eastward of the island, and but a short distance above high water
+      eastward of the island, and but a short distance above high [[Water|water]]
 
       mark. Upon my taking hold of it, it gave me a sharp bite, which
 
@@ -2029,7 +2029,7 @@ _—All in the Wrong._
 
       before seizing the insect, which had flown towards him, looked
 
-      about him for a leaf, or something of that nature, by which to
+      about him for a leaf, or something of that [[Nature|nature]], by which to
 
       take hold of it. It was at this moment that his eyes, and mine
 
@@ -2039,7 +2039,7 @@ _—All in the Wrong._
 
       up. Near the spot where we found it, I observed the remnants of
 
-      the hull of what appeared to have been a ship’s long boat. The
+      the hull of what appeared to have been a [[Ship|ship]]’s long boat. The
 
       wreck seemed to have been there for a very great while; for the
 
@@ -2047,9 +2047,9 @@ _—All in the Wrong._
 
 
 
-      “Well, Jupiter picked up the parchment, wrapped the beetle in it,
+      “[[Well]], Jupiter picked up the parchment, wrapped the beetle in it,
 
-      and gave it to me. Soon afterwards we turned to go home, and on
+      and gave it to me. Soon afterwards we turned to go [[Home|home]], and on
 
       the way met Lieutenant G——. I showed him the insect, and he
 
@@ -2065,7 +2065,7 @@ _—All in the Wrong._
 
       at once—you know how enthusiastic he is on all subjects connected
 
-      with Natural History. At the same time, without being conscious
+      with Natural [[history|History]]. At the same [[Time|time]], without being conscious
 
       of it, I must have deposited the parchment in my own pocket.
 
@@ -2073,7 +2073,7 @@ _—All in the Wrong._
 
       “You remember that when I went to the table, for the purpose of
 
-      making a sketch of the beetle, I found no paper where it was
+      making a [[Sketch|sketch]] of the beetle, I found no paper where it was
 
       usually kept. I looked in the drawer, and found none there. I
 
@@ -2087,7 +2087,7 @@ _—All in the Wrong._
 
 
 
-      “No doubt you will think me fanciful—but I had already
+      “No [[Doubt|doubt]] you will think me fanciful—but I had already
 
       established a kind of connexion. I had put together two links of
 
@@ -2097,9 +2097,9 @@ _—All in the Wrong._
 
       depicted upon it. You will, of course, ask ‘where is the
 
-      connexion?’ I reply that the skull, or death’s-head, is the
+      connexion?’ I reply that the skull, or [[Death|death]]’s-head, is the
 
-      well-known emblem of the pirate. The flag of the death’s head is
+      [[Well|well]]-known emblem of the pirate. The [[Flag|flag]] of the [[Death|death]]’s head is
 
       hoisted in all engagements.
 
@@ -2111,11 +2111,11 @@ _—All in the Wrong._
 
       moment are rarely consigned to parchment; since, for the mere
 
-      ordinary purposes of drawing or writing, it is not nearly so well
+      ordinary purposes of drawing or writing, it is not nearly so [[Well|well]]
 
       adapted as paper. This reflection suggested some meaning—some
 
-      relevancy—in the death’s-head. I did not fail to observe, also,
+      relevancy—in the [[Death|death]]’s-head. I did not fail to observe, also,
 
       the form of the parchment. Although one of its corners had been,
 
@@ -2169,7 +2169,7 @@ _—All in the Wrong._
 
       occurred about the period in question. The weather was chilly (oh
 
-      rare and happy accident!), and a fire was blazing upon the
+      rare and happy accident!), and a [[Fire|fire]] was blazing upon the
 
       hearth. I was heated with exercise and sat near the table. You,
 
@@ -2185,7 +2185,7 @@ _—All in the Wrong._
 
       fall listlessly between your knees, and in close proximity to the
 
-      fire. At one moment I thought the blaze had caught it, and was
+      [[Fire|fire]]. At one moment I thought the blaze had caught it, and was
 
       about to caution you, but, before I could speak, you had
 
@@ -2195,17 +2195,17 @@ _—All in the Wrong._
 
       heat had been the agent in bringing to light, upon the parchment,
 
-      the skull which I saw designed upon it. You are well aware that
+      the skull which I saw designed upon it. You are [[Well|well]] aware that
 
-      chemical preparations exist, and have existed time out of mind,
+      chemical preparations exist, and have existed [[Time|time]] out of mind,
 
       by means of which it is possible to write upon either paper or
 
       vellum, so that the characters shall become visible only when
 
-      subjected to the action of fire. Zaffre, digested in aqua regia,
+      subjected to the action of [[Fire|fire]]. Zaffre, digested in aqua regia,
 
-      and diluted with four times its weight of water, is sometimes
+      and diluted with four times its weight of [[Water|water]], is sometimes
 
       employed; a green tint results. The regulus of cobalt, dissolved
 
@@ -2217,7 +2217,7 @@ _—All in the Wrong._
 
 
 
-      “I now scrutinized the death’s-head with care. Its outer
+      “I now scrutinized the [[Death|death]]’s-head with care. Its outer
 
       edges—the edges of the drawing nearest the edge of the
 
@@ -2225,7 +2225,7 @@ _—All in the Wrong._
 
       the action of the caloric had been imperfect or unequal. I
 
-      immediately kindled a fire, and subjected every portion of the
+      immediately kindled a [[Fire|fire]], and subjected every portion of the
 
       parchment to a glowing heat. At first, the only effect was the
 
@@ -2235,7 +2235,7 @@ _—All in the Wrong._
 
       corner of the slip, diagonally opposite to the spot in which the
 
-      death’s-head was delineated, the figure of what I at first
+      [[Death|death]]’s-head was delineated, the figure of what I at first
 
       supposed to be a goat. A closer scrutiny, however, satisfied me
 
@@ -2261,7 +2261,7 @@ _—All in the Wrong._
 
 
 
-      “Well, a kid then—pretty much the same thing.”
+      “[[Well]], a kid then—pretty much the same thing.”
 
 
 
@@ -2273,11 +2273,11 @@ _—All in the Wrong._
 
       say signature; because its position upon the vellum suggested
 
-      this idea. The death’s-head at the corner diagonally opposite,
+      this idea. The [[Death|death]]’s-head at the corner diagonally opposite,
 
       had, in the same manner, the air of a stamp, or seal. But I was
 
-      sorely put out by the absence of all else—of the body to my
+      sorely put out by the absence of all else—of the [[Body|body]] to my
 
       imagined instrument—of the text for my context.”
 
@@ -2295,7 +2295,7 @@ _—All in the Wrong._
 
       impending. I can scarcely say why. Perhaps, after all, it was
 
-      rather a desire than an actual belief;—but do you know that
+      rather a [[Desire|desire]] than an actual belief;—but do you know that
 
       Jupiter’s silly words, about the bug being of solid gold, had a
 
@@ -2307,13 +2307,13 @@ _—All in the Wrong._
 
       occurred upon the sole day of all the year in which it has been,
 
-      or may be, sufficiently cool for fire, and that without the fire,
+      or may be, sufficiently cool for [[Fire|fire]], and that without the [[Fire|fire]],
 
       or without the intervention of the dog at the precise moment in
 
       which he appeared, I should never have become aware of the
 
-      death’s-head, and so never the possessor of the treasure?”
+      [[Death|death]]’s-head, and so never the possessor of the treasure?”
 
 
 
@@ -2321,7 +2321,7 @@ _—All in the Wrong._
 
 
 
-      “Well; you have heard, of course, the many stories current—the
+      “[[Well]]; you have heard, of course, the many stories current—the
 
       thousand vague rumors afloat about money buried, somewhere upon
 
@@ -2335,7 +2335,7 @@ _—All in the Wrong._
 
       still remaining entombed. Had Kidd concealed his plunder for a
 
-      time, and afterwards reclaimed it, the rumors would scarcely have
+      [[Time|time]], and afterwards reclaimed it, the rumors would scarcely have
 
       reached us in their present unvarying form. You will observe that
 
@@ -2367,13 +2367,13 @@ _—All in the Wrong._
 
 
 
-      “But that Kidd’s accumulations were immense, is well known. I
+      “But that Kidd’s accumulations were immense, is [[Well|well]] known. I
 
       took it for granted, therefore, that the earth still held them;
 
       and you will scarcely be surprised when I tell you that I felt a
 
-      hope, nearly amounting to certainty, that the parchment so
+      [[Hope|hope]], nearly amounting to certainty, that the parchment so
 
       strangely found, involved a lost record of the place of deposit.”
 
@@ -2383,13 +2383,13 @@ _—All in the Wrong._
 
 
 
-      “I held the vellum again to the fire, after increasing the heat;
+      “I held the vellum again to the [[Fire|fire]], after increasing the heat;
 
       but nothing appeared. I now thought it possible that the coating
 
       of dirt might have something to do with the failure; so I
 
-      carefully rinsed the parchment by pouring warm water over it,
+      carefully rinsed the parchment by pouring warm [[Water|water]] over it,
 
       and, having done this, I placed it in a tin pan, with the skull
 
@@ -2413,7 +2413,7 @@ _—All in the Wrong._
 
       inspection. The following characters were rudely traced, in a red
 
-      tint, between the death’s-head and the goat:
+      tint, between the [[Death|death]]’s-head and the goat:
 
 
 
@@ -2465,9 +2465,9 @@ _—All in the Wrong._
 
       times greater. Circumstances, and a certain bias of mind, have
 
-      led me to take interest in such riddles, and it may well be
+      led me to take interest in such riddles, and it may [[Well|well]] be
 
-      doubted whether human ingenuity can construct an enigma of the
+      doubted whether human ingenuity can construct [[An Enigma|an enigma]] of the
 
       kind which human ingenuity may not, by proper application,
 
@@ -2521,7 +2521,7 @@ _—All in the Wrong._
 
       considered the solution as assured. But, there being no division,
 
-      my first step was to ascertain the predominant letters, as well
+      my first step was to ascertain the predominant letters, as [[Well|well]]
 
       as the least frequent. Counting all, I constructed a table, thus:
 
@@ -2587,7 +2587,7 @@ _—All in the Wrong._
 
       frequency in English—in such words, for example, as ‘meet,’
 
-      ‘.fleet,’ ‘speed,’ ‘seen,’ been,’ ‘agree,’ &c. In the present
+      ‘.fleet,’ ‘[[Speed|speed]],’ ‘seen,’ been,’ ‘agree,’ &c. In the present
 
       instance we see it doubled no less than five times, although the
 
@@ -2611,7 +2611,7 @@ _—All in the Wrong._
 
       therefore, assume that ; represents _t_, 4 represents _h_, and 8
 
-      represents _e_—the last being now well confirmed. Thus a great
+      represents _e_—the last being now [[Well|well]] confirmed. Thus a great
 
       step has been taken.
 
@@ -2775,7 +2775,7 @@ _—All in the Wrong._
 
 
 
-      “It is now time that we arrange our key, as far as discovered, in
+      “It is now [[Time|time]] that we arrange our key, as far as discovered, in
 
       a tabular form, to avoid confusion. It will stand thus:
 
@@ -2811,7 +2811,7 @@ _—All in the Wrong._
 
       the details of the solution. I have said enough to convince you
 
-      that ciphers of this nature are readily soluble, and to give you
+      that ciphers of this [[Nature|nature]] are readily soluble, and to give you
 
       some insight into the rationale of their development. But be
 
@@ -2819,7 +2819,7 @@ _—All in the Wrong._
 
       simplest species of cryptograph. It now only remains to give you
 
-      the full translation of the characters upon the parchment, as
+      the full [[Translation|translation]] of the characters upon the parchment, as
 
       unriddled. Here it is:
 
@@ -2831,7 +2831,7 @@ _—All in the Wrong._
 
       main branch seventh limb east side shoot from the left eye of the
 
-      death’s-head a bee line from the tree through the shot fifty feet
+      [[Death|death]]’s-head a bee line from the tree through the shot fifty feet
 
       out_.’”
 
@@ -2841,7 +2841,7 @@ _—All in the Wrong._
 
       ever. How is it possible to extort a meaning from all this jargon
 
-      about ‘devil’s seats,’ ‘death’s heads,’ and ‘bishop’s hotels?’”
+      about ‘devil’s seats,’ ‘[[Death|death]]’s heads,’ and ‘bishop’s hotels?’”
 
 
 
@@ -2893,13 +2893,13 @@ _—All in the Wrong._
 
       north—main branch seventh limb east side—shoot from the left eye
 
-      of the death’s-head—a bee-line from the tree through the shot
+      of the [[Death|death]]’s-head—a bee-line from the tree through the shot
 
       fifty feet out.’”
 
 
 
-      “Even this division,” said I, “leaves me still in the dark.”
+      “Even this division,” said I, “[[Leaves|leaves]] me still in the dark.”
 
 
 
@@ -2919,9 +2919,9 @@ _—All in the Wrong._
 
       quite suddenly, that this ‘Bishop’s Hostel’ might have some
 
-      reference to an old family, of the name of Bessop, which, time
+      reference to an old family, of the name of Bessop, which, [[Time|time]]
 
-      out of mind, had held possession of an ancient manor-house, about
+      out of mind, had held possession of an ancient manor-[[house]], about
 
       four miles to the northward of the island. I accordingly went
 
@@ -2929,25 +2929,25 @@ _—All in the Wrong._
 
       older negroes of the place. At length one of the most aged of the
 
-      women said that she had heard of such a place as Bessop’s Castle,
+      women said that she had heard of such a place as Bessop’s [[Castle]],
 
       and thought that she could guide me to it, but that it was not a
 
-      castle nor a tavern, but a high rock.
+      [[Castle|castle]] nor a tavern, but a high rock.
 
 
 
-      “I offered to pay her well for her trouble, and, after some
+      “I offered to pay her [[Well|well]] for her trouble, and, after some
 
       demur, she consented to accompany me to the spot. We found it
 
       without much difficulty, when, dismissing her, I proceeded to
 
-      examine the place. The ‘castle’ consisted of an irregular
+      examine the place. The ‘[[Castle|castle]]’ consisted of an irregular
 
       assemblage of cliffs and rocks—one of the latter being quite
 
-      remarkable for its height as well as for its insulated and
+      remarkable for its height as [[Well|well]] as for its insulated and
 
       artificial appearance. I clambered to its apex, and then felt
 
@@ -2965,11 +2965,11 @@ _—All in the Wrong._
 
       cliff just above it gave it a rude resemblance to one of the
 
-      hollow-backed chairs used by our ancestors. I made no doubt that
+      hollow-backed chairs used by our ancestors. I made no [[Doubt|doubt]] that
 
       here was the ‘devil’s seat’ alluded to in the MS., and now I
 
-      seemed to grasp the full secret of the riddle.
+      seemed to grasp the full secret of the [[Riddle|riddle]].
 
 
 
@@ -2987,7 +2987,7 @@ _—All in the Wrong._
 
       north,’ were intended as directions for the levelling of the
 
-      glass. Greatly excited by these discoveries, I hurried home,
+      glass. Greatly excited by these discoveries, I hurried [[Home|home]],
 
       procured a telescope, and returned to the rock.
 
@@ -3033,7 +3033,7 @@ _—All in the Wrong._
 
       could refer only to the position of the skull upon the tree,
 
-      while ‘shoot from the left eye of the death’s head’ admitted,
+      while ‘shoot from the left eye of the [[Death|death]]’s head’ admitted,
 
       also, of but one interpretation, in regard to a search for buried
 
@@ -3081,19 +3081,19 @@ _—All in the Wrong._
 
       “In this expedition to the ‘Bishop’s Hotel’ I had been attended
 
-      by Jupiter, who had, no doubt, observed, for some weeks past, the
+      by Jupiter, who had, no [[Doubt|doubt]], observed, for some weeks past, the
 
       abstraction of my demeanor, and took especial care not to leave
 
-      me alone. But, on the next day, getting up very early, I
+      me [[Alone|alone]]. But, on the next day, getting up very early, I
 
       contrived to give him the slip, and went into the hills in search
 
-      of the tree. After much toil I found it. When I came home at
+      of the tree. After much toil I found it. When I came [[Home|home]] at
 
-      night my valet proposed to give me a flogging. With the rest of
+      [[Night|night]] my valet proposed to give me a flogging. With the rest of
 
-      the adventure I believe you are as well acquainted as myself.”
+      the adventure I believe you are as [[Well|well]] acquainted as myself.”
 
 
 
@@ -3119,7 +3119,7 @@ _—All in the Wrong._
 
       course the error, however trivial in the beginning, increased as
 
-      we proceeded with the line, and by the time we had gone fifty
+      we proceeded with the line, and by the [[Time|time]] we had gone fifty
 
       feet, threw us quite off the scent. But for my deep-seated
 
@@ -3141,9 +3141,9 @@ _—All in the Wrong._
 
       “Why, to be frank, I felt somewhat annoyed by your evident
 
-      suspicions touching my sanity, and so resolved to punish you
+      suspicions touching my [[Sanity|sanity]], and so resolved to punish you
 
-      quietly, in my own way, by a little bit of sober mystification.
+      quietly, in my own way, by a little bit of sober [[Mystification|mystification]].
 
       For this reason I swung the beetle, and for this reason I let it
 
@@ -3167,7 +3167,7 @@ _—All in the Wrong._
 
       suggestion would imply. It is clear that Kidd—if Kidd indeed
 
-      secreted this treasure, which I doubt not—it is clear that he
+      secreted this treasure, which I [[Doubt|doubt]] not—it is clear that he
 
       must have had assistance in the labor. But this labor concluded,
 

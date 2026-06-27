@@ -26,28 +26,28 @@ himself and for them.
 Twelve gone for ever.
 
 He had been apprised that the final hour was Three, and he knew he would
-be summoned some time earlier, inasmuch as the tumbrils jolted heavily
+be summoned some [[Time|time]] earlier, inasmuch as the tumbrils jolted heavily
 and slowly through the streets. Therefore, he resolved to keep Two
 before his mind, as the hour, and so to strengthen himself in the
-interval that he might be able, after that time, to strengthen others.
+interval that he might be able, after that [[Time|time]], to strengthen others.
 
 Walking regularly to and fro with his arms folded on his breast, a very
 different man from the prisoner, who had walked to and fro at La Force,
 he heard One struck away from him, without surprise. The hour had
 measured like most other hours. Devoutly thankful to Heaven for his
-recovered self-possession, he thought, “There is but another now,” and
+recovered [[Self|self]]-possession, he thought, “There is but another now,” and
 turned to walk again.
 
 Footsteps in the stone passage outside the door. He stopped.
 
 The key was put in the lock, and turned. Before the door was opened, or
 as it opened, a man said in a low voice, in English: “He has never seen
-me here; I have kept out of his way. Go you in alone; I wait near. Lose
-no time!”
+me here; I have kept out of his way. Go you in [[Alone|alone]]; I wait near. Lose
+no [[Time|time]]!”
 
 The door was quickly opened and closed, and there stood before him
 face to face, quiet, intent upon him, with the light of a smile on his
-features, and a cautionary finger on his lip, Sydney Carton.
+features, and a cautionary finger on his lip, [[Sydney Carton]].
 
 There was something so bright and remarkable in his look, that, for the
 first moment, the prisoner misdoubted him to be an apparition of his own
@@ -70,38 +70,38 @@ The prisoner wrung his hand.
 “What is it?”
 
 “A most earnest, pressing, and emphatic entreaty, addressed to you
-in the most pathetic tones of the voice so dear to you, that you well
+in the most pathetic tones of the voice so dear to you, that you [[Well|well]]
 remember.”
 
 The prisoner turned his face partly aside.
 
-“You have no time to ask me why I bring it, or what it means; I have
-no time to tell you. You must comply with it--take off those boots you
+“You have no [[Time|time]] to ask me why I bring it, or what it means; I have
+no [[Time|time]] to tell you. You must comply with it--take off those boots you
 wear, and draw on these of mine.”
 
 There was a chair against the wall of the cell, behind the prisoner.
-Carton, pressing forward, had already, with the speed of lightning, got
+Carton, pressing forward, had already, with the [[Speed|speed]] of [[Lightning|lightning]], got
 him down into it, and stood over him, barefoot.
 
 “Draw on these boots of mine. Put your hands to them; put your will to
 them. Quick!”
 
 “Carton, there is no escaping from this place; it never can be done. You
-will only die with me. It is madness.”
+will only die with me. It is [[Madness|madness]].”
 
-“It would be madness if I asked you to escape; but do I? When I ask you
-to pass out at that door, tell me it is madness and remain here. Change
+“It would be [[Madness|madness]] if I asked you to escape; but do I? When I ask you
+to pass out at that door, tell me it is [[Madness|madness]] and remain here. Change
 that cravat for this of mine, that coat for this of mine. While you do
 it, let me take this ribbon from your hair, and shake out your hair like
 this of mine!”
 
 With wonderful quickness, and with a strength both of will and action,
-that appeared quite supernatural, he forced all these changes upon him.
-The prisoner was like a young child in his hands.
+that appeared quite [[Supernatural|supernatural]], he forced all these changes upon him.
+The prisoner was like a young [[Child|child]] in his hands.
 
-“Carton! Dear Carton! It is madness. It cannot be accomplished, it never
+“Carton! Dear Carton! It is [[Madness|madness]]. It cannot be accomplished, it never
 can be done, it has been attempted, and has always failed. I implore you
-not to add your death to the bitterness of mine.”
+not to add your [[Death|death]] to the bitterness of mine.”
 
 “Do I ask you, my dear Darnay, to pass the door? When I ask that,
 refuse. There are pen and ink and paper on this table. Is your hand
@@ -129,10 +129,10 @@ his hand in his breast, looked down.
 
 “‘If you remember,’” said Carton, dictating, “‘the words that passed
 between us, long ago, you will readily comprehend this when you see it.
-You do remember them, I know. It is not in your nature to forget them.’”
+You do remember them, I know. It is not in your [[Nature|nature]] to forget them.’”
 
 He was drawing his hand from his breast; the prisoner chancing to look
-up in his hurried wonder as he wrote, the hand stopped, closing upon
+up in his hurried [[Wonder|wonder]] as he wrote, the hand stopped, closing upon
 something.
 
 “Have you written ‘forget them’?” Carton asked.
@@ -144,7 +144,7 @@ something.
 “What is it in your hand?”
 
 “You shall know directly. Write on; there are but a few words more.” He
-dictated again. “‘I am thankful that the time has come, when I can prove
+dictated again. “‘I am thankful that the [[Time|time]] has come, when I can prove
 them. That I do so is no subject for regret or grief.’” As he said these
 words with his eyes fixed on the writer, his hand slowly and softly
 moved down close to the writer’s face.
@@ -161,7 +161,7 @@ him vacantly.
 “I am conscious of nothing; there can be nothing here. Take up the pen
 and finish. Hurry, hurry!”
 
-As if his memory were impaired, or his faculties disordered, the
+As if his [[Memory|memory]] were impaired, or his faculties disordered, the
 prisoner made an effort to rally his attention. As he looked at Carton
 with clouded eyes and with an altered manner of breathing, Carton--his
 hand again in his breast--looked steadily at him.

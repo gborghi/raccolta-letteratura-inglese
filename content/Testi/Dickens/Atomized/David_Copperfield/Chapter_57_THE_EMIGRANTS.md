@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 57: THE EMIGRANTS"
+title: "[[David Copperfield]] — Chapter 57: THE EMIGRANTS"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,24 +20,24 @@ CHAPTER 57. THE EMIGRANTS
 One thing more, I had to do, before yielding myself to the shock of
 these emotions. It was, to conceal what had occurred, from those who
 were going away; and to dismiss them on their voyage in happy ignorance.
-In this, no time was to be lost.
+In this, no [[Time|time]] was to be lost.
 
-I took Mr. Micawber aside that same night, and confided to him the
+I took Mr. Micawber aside that same [[Night|night]], and confided to him the
 task of standing between Mr. Peggotty and intelligence of the late
 catastrophe. He zealously undertook to do so, and to intercept any
 newspaper through which it might, without such precautions, reach him.
 
 ‘If it penetrates to him, sir,’ said Mr. Micawber, striking himself on
-the breast, ‘it shall first pass through this body!’
+the breast, ‘it shall first pass through this [[Body|body]]!’
 
 Mr. Micawber, I must observe, in his adaptation of himself to a new
 state of society, had acquired a bold buccaneering air, not absolutely
-lawless, but defensive and prompt. One might have supposed him a child
+lawless, but defensive and prompt. One might have supposed him a [[Child|child]]
 of the wilderness, long accustomed to live out of the confines of
 civilization, and about to return to his native wilds.
 
 He had provided himself, among other things, with a complete suit of
-oilskin, and a straw hat with a very low crown, pitched or caulked on
+oilskin, and a straw hat with a very low [[Crown|crown]], pitched or caulked on
 the outside. In this rough clothing, with a common mariner’s telescope
 under his arm, and a shrewd trick of casting up his eye at the sky
 as looking out for dirty weather, he was far more nautical, after his
@@ -56,16 +56,16 @@ direction, and to ‘tumble up’, or sing out, ‘Yeo--Heave--Yeo!’ on the
 shortest notice.
 
 Thus Traddles and I found them at nightfall, assembled on the wooden
-steps, at that time known as Hungerford Stairs, watching the departure
+steps, at that [[Time|time]] known as Hungerford Stairs, watching the departure
 of a boat with some of their property on board. I had told Traddles of
 the terrible event, and it had greatly shocked him; but there could be
-no doubt of the kindness of keeping it a secret, and he had come to help
+no [[Doubt|doubt]] of the kindness of keeping it a secret, and he had come to help
 me in this last service. It was here that I took Mr. Micawber aside, and
 received his promise.
 
 The Micawber family were lodged in a little, dirty, tumble-down
-public-house, which in those days was close to the stairs, and whose
-protruding wooden rooms overhung the river. The family, as emigrants,
+public-[[house]], which in those days was close to the stairs, and whose
+protruding wooden rooms overhung the [[River|river]]. The family, as emigrants,
 being objects of some interest in and about Hungerford, attracted so
 many beholders, that we were glad to take refuge in their room. It was
 one of the wooden chambers upstairs, with the tide flowing underneath.
@@ -76,10 +76,10 @@ before her, that had now outlived so much.
 
 It was not easy to answer her inquiries; still less to whisper Mr.
 Peggotty, when Mr. Micawber brought him in, that I had given the letter,
-and all was well. But I did both, and made them happy. If I showed any
+and all was [[Well|well]]. But I did both, and made them happy. If I showed any
 trace of what I felt, my own sorrows were sufficient to account for it.
 
-‘And when does the ship sail, Mr. Micawber?’ asked my aunt.
+‘And when does the [[Ship|ship]] sail, Mr. Micawber?’ asked my aunt.
 
 Mr. Micawber considered it necessary to prepare either my aunt or his
 wife, by degrees, and said, sooner than he had expected yesterday.
@@ -88,13 +88,13 @@ wife, by degrees, and said, sooner than he had expected yesterday.
 
 ‘It did, ma’am,’ he returned.
 
-‘Well?’ said my aunt. ‘And she sails--’
+‘[[Well]]?’ said my aunt. ‘And she sails--’
 
 ‘Madam,’ he replied, ‘I am informed that we must positively be on board
 before seven tomorrow morning.’
 
 ‘Heyday!’ said my aunt, ‘that’s soon. Is it a sea-going fact, Mr.
-Peggotty?’ ‘’Tis so, ma’am. She’ll drop down the river with that theer
+Peggotty?’ ‘’Tis so, ma’am. She’ll drop down the [[River|river]] with that theer
 tide. If Mas’r Davy and my sister comes aboard at Gravesen’, arternoon
 o’ next day, they’ll see the last on us.’
 
@@ -102,8 +102,8 @@ o’ next day, they’ll see the last on us.’
 
 ‘Until then, and until we are at sea,’ observed Mr. Micawber, with a
 glance of intelligence at me, ‘Mr. Peggotty and myself will constantly
-keep a double look-out together, on our goods and chattels. Emma, my
-love,’ said Mr. Micawber, clearing his throat in his magnificent way,
+keep a [[Double|double]] look-out together, on our goods and chattels. [[Emma]], my
+[[Love|love]],’ said Mr. Micawber, clearing his throat in his magnificent way,
 ‘my friend Mr. Thomas Traddles is so obliging as to solicit, in my ear,
 that he should have the privilege of ordering the ingredients necessary
 to the composition of a moderate portion of that Beverage which is
@@ -113,19 +113,19 @@ scruple to entreat the indulgence of Miss Trotwood and Miss Wickfield,
 but-’
 
 ‘I can only say for myself,’ said my aunt, ‘that I will drink all
-happiness and success to you, Mr. Micawber, with the utmost pleasure.’
+happiness and [[success]] to you, Mr. Micawber, with the utmost pleasure.’
 
 ‘And I too!’ said Agnes, with a smile.
 
 Mr. Micawber immediately descended to the bar, where he appeared to be
-quite at home; and in due time returned with a steaming jug. I could
+quite at [[Home|home]]; and in due [[Time|time]] returned with a steaming jug. I could
 not but observe that he had been peeling the lemons with his own
 clasp-knife, which, as became the knife of a practical settler, was
 about a foot long; and which he wiped, not wholly without ostentation,
 on the sleeve of his coat. Mrs. Micawber and the two elder members
 of the family I now found to be provided with similar formidable
-instruments, while every child had its own wooden spoon attached to its
-body by a strong line. In a similar anticipation of life afloat, and in
+instruments, while every [[Child|child]] had its own wooden spoon attached to its
+[[Body|body]] by a strong line. In a similar anticipation of life afloat, and in
 the Bush, Mr. Micawber, instead of helping Mrs. Micawber and his eldest
 son and daughter to punch, in wine-glasses, which he might easily have
 done, for there was a shelf-full in the room, served it out to them in a
@@ -148,34 +148,34 @@ warmth on that subject, ‘as the member of your family--whoever he, she,
 or it, may be--has kept us waiting for a considerable period, perhaps
 the Member may now wait MY convenience.’
 
-‘Micawber,’ said his wife, in a low tone, ‘at such a time as this--’
+‘Micawber,’ said his wife, in a low tone, ‘at such a [[Time|time]] as this--’
 
 ‘“It is not meet,”’ said Mr. Micawber, rising, ‘“that every nice offence
-should bear its comment!” Emma, I stand reproved.’
+should bear its comment!” [[Emma]], I stand reproved.’
 
 ‘The loss, Micawber,’ observed his wife, ‘has been my family’s, not
 yours. If my family are at length sensible of the deprivation to which
-their own conduct has, in the past, exposed them, and now desire to
+their own conduct has, in the past, exposed them, and now [[Desire|desire]] to
 extend the hand of fellowship, let it not be repulsed.’
 
 ‘My dear,’ he returned, ‘so be it!’
 
 ‘If not for their sakes; for mine, Micawber,’ said his wife.
 
-‘Emma,’ he returned, ‘that view of the question is, at such a moment,
+‘[[Emma]],’ he returned, ‘that view of the question is, at such a moment,
 irresistible. I cannot, even now, distinctly pledge myself to fall
 upon your family’s neck; but the member of your family, who is now in
 attendance, shall have no genial warmth frozen by me.’
 
-Mr. Micawber withdrew, and was absent some little time; in the course of
+Mr. Micawber withdrew, and was absent some little [[Time|time]]; in the course of
 which Mrs. Micawber was not wholly free from an apprehension that words
 might have arisen between him and the Member. At length the same boy
 reappeared, and presented me with a note written in pencil, and headed,
 in a legal manner, ‘Heep v. Micawber’. From this document, I learned
 that Mr. Micawber being again arrested, ‘Was in a final paroxysm of
-despair; and that he begged me to send him his knife and pint pot, by
+[[Despair|despair]]; and that he begged me to send him his knife and pint pot, by
 bearer, as they might prove serviceable during the brief remainder of
-his existence, in jail. He also requested, as a last act of friendship,
+his existence, in jail. He also requested, as a last act of [[Friendship|friendship]],
 that I would see his family to the Parish Workhouse, and forget that
 such a Being ever lived.
 
@@ -210,7 +210,7 @@ head, ‘that my family will appear on board, before we finally depart.’
 Mr. Micawber evidently had his presentiment on the subject too, but he
 put it in his tin pot and swallowed it.
 
-‘If you have any opportunity of sending letters home, on your passage,
+‘If you have any opportunity of sending letters [[Home|home]], on your passage,
 Mrs. Micawber,’ said my aunt, ‘you must let us hear from you, you know.’
 
 ‘My dear Miss Trotwood,’ she replied, ‘I shall only be too happy
@@ -219,7 +219,7 @@ correspond. Mr. Copperfield, I trust, as an old and familiar friend,
 will not object to receive occasional intelligence, himself, from one
 who knew him when the twins were yet unconscious?’
 
-I said that I should hope to hear, whenever she had an opportunity of
+I said that I should [[Hope|hope]] to hear, whenever she had an opportunity of
 writing.
 
 ‘Please Heaven, there will be many such opportunities,’ said Mr.
@@ -229,15 +229,15 @@ crossing,’ said Mr. Micawber, trifling with his eye-glass, ‘merely
 crossing. The distance is quite imaginary.’
 
 I think, now, how odd it was, but how wonderfully like Mr. Micawber,
-that, when he went from London to Canterbury, he should have talked as
+that, when he went from [[London]] to Canterbury, he should have talked as
 if he were going to the farthest limits of the earth; and, when he went
 from England to Australia, as if he were going for a little trip across
 the channel.
 
 ‘On the voyage, I shall endeavour,’ said Mr. Micawber, ‘occasionally
 to spin them a yarn; and the melody of my son Wilkins will, I trust,
-be acceptable at the galley-fire. When Mrs. Micawber has her
-sea-legs on--an expression in which I hope there is no conventional
+be acceptable at the galley-[[Fire|fire]]. When Mrs. Micawber has her
+sea-legs on--an expression in which I [[Hope|hope]] there is no conventional
 impropriety--she will give them, I dare say, “Little Tafflin”. Porpoises
 and dolphins, I believe, will be frequently observed athwart our
 Bows; and, either on the starboard or the larboard quarter, objects of
@@ -250,7 +250,7 @@ With that he flourished off the contents of his little tin pot, as if he
 had made the voyage, and had passed a first-class examination before the
 highest naval authorities.
 
-‘What I chiefly hope, my dear Mr. Copperfield,’ said Mrs. Micawber,
+‘What I chiefly [[Hope|hope]], my dear Mr. Copperfield,’ said Mrs. Micawber,
 ‘is, that in some branches of our family we may live again in the old
 country. Do not frown, Micawber! I do not now refer to my own family,
 but to our children’s children. However vigorous the sapling,’ said Mrs.
@@ -266,7 +266,7 @@ particular wish upon the subject.’
 out, Micawber, to this distant clime, to strengthen, not to weaken, the
 connexion between yourself and Albion.’
 
-‘The connexion in question, my love,’ rejoined Mr. Micawber, ‘has not
+‘The connexion in question, my [[Love|love]],’ rejoined Mr. Micawber, ‘has not
 laid me, I repeat, under that load of personal obligation, that I am at
 all sensitive as to the formation of another connexion.’
 
@@ -290,13 +290,13 @@ shut my eyes to those facts. But I also know what Mr. Micawber is.
 I know the latent power of Mr. Micawber. And therefore I consider it
 vitally important that Mr. Micawber should feel his position.’
 
-‘My love,’ he observed, ‘perhaps you will allow me to remark that it is
+‘My [[Love|love]],’ he observed, ‘perhaps you will allow me to remark that it is
 barely possible that I DO feel my position at the present moment.’
 
 ‘I think not, Micawber,’ she rejoined. ‘Not fully. My dear Mr.
 Copperfield, Mr. Micawber’s is not a common case. Mr. Micawber is going
 to a distant country expressly in order that he may be fully understood
-and appreciated for the first time. I wish Mr. Micawber to take his
+and appreciated for the first [[Time|time]]. I wish Mr. Micawber to take his
 stand upon that vessel’s prow, and firmly say, “This country I am
 come to conquer! Have you honours? Have you riches? Have you posts of
 profitable pecuniary emolument? Let them be brought forward. They are
@@ -319,7 +319,7 @@ stationed on the figure-head.
 ‘And doing that,’ said Mrs. Micawber, ‘--feeling his position--am I not
 right in saying that Mr. Micawber will strengthen, and not weaken, his
 connexion with Britain? An important public character arising in that
-hemisphere, shall I be told that its influence will not be felt at home?
+hemisphere, shall I be told that its influence will not be felt at [[Home|home]]?
 Can I be so weak as to imagine that Mr. Micawber, wielding the rod of
 talent and of power in Australia, will be nothing in England? I am but
 a woman; but I should be unworthy of myself and of my papa, if I were
@@ -332,17 +332,17 @@ before.
 ‘And therefore it is,’ said Mrs. Micawber, ‘that I the more wish, that,
 at a future period, we may live again on the parent soil. Mr. Micawber
 may be--I cannot disguise from myself that the probability is, Mr.
-Micawber will be--a page of History; and he ought then to be represented
+Micawber will be--a page of [[history|History]]; and he ought then to be represented
 in the country which gave him birth, and did NOT give him employment!’
 
-‘My love,’ observed Mr. Micawber, ‘it is impossible for me not to be
+‘My [[Love|love]],’ observed Mr. Micawber, ‘it is impossible for me not to be
 touched by your affection. I am always willing to defer to your good
 sense. What will be--will be. Heaven forbid that I should grudge my
 native country any portion of the wealth that may be accumulated by our
 descendants!’
 
-‘That’s well,’ said my aunt, nodding towards Mr. Peggotty, ‘and I drink
-my love to you all, and every blessing and success attend you!’
+‘That’s [[Well|well]],’ said my aunt, nodding towards Mr. Peggotty, ‘and I drink
+my [[Love|love]] to you all, and every blessing and [[success]] attend you!’
 
 Mr. Peggotty put down the two children he had been nursing, one on each
 knee, to join Mr. and Mrs. Micawber in drinking to all of us in return;
@@ -352,48 +352,48 @@ establish a good name, and be beloved, go where he would.
 
 Even the children were instructed, each to dip a wooden spoon into Mr.
 Micawber’s pot, and pledge us in its contents. When this was done, my
-aunt and Agnes rose, and parted from the emigrants. It was a sorrowful
+aunt and Agnes [[Rose|rose]], and parted from the emigrants. It was a sorrowful
 farewell. They were all crying; the children hung about Agnes to the
 last; and we left poor Mrs. Micawber in a very distressed condition,
 sobbing and weeping by a dim candle, that must have made the room look,
-from the river, like a miserable light-house.
+from the [[River|river]], like a miserable light-[[house]].
 
 I went down again next morning to see that they were away. They had
-departed, in a boat, as early as five o’clock. It was a wonderful
+departed, in a boat, as early as five o’[[Clock|clock]]. It was a wonderful
 instance to me of the gap such partings make, that although my
-association of them with the tumble-down public-house and the wooden
-stairs dated only from last night, both seemed dreary and deserted, now
+association of them with the tumble-down public-[[house]] and the wooden
+stairs dated only from last [[Night|night]], both seemed dreary and deserted, now
 that they were gone.
 
-In the afternoon of the next day, my old nurse and I went down to
-Gravesend. We found the ship in the river, surrounded by a crowd
-of boats; a favourable wind blowing; the signal for sailing at her
+In the afternoon of the next day, my old [[Nurse|nurse]] and I went down to
+Gravesend. We found the [[Ship|ship]] in the [[River|river]], surrounded by a crowd
+of boats; a favourable [[Wind|wind]] blowing; the signal for sailing at her
 mast-head. I hired a boat directly, and we put off to her; and getting
 through the little vortex of confusion of which she was the centre, went
 on board.
 
 Mr. Peggotty was waiting for us on deck. He told me that Mr. Micawber
-had just now been arrested again (and for the last time) at the suit of
+had just now been arrested again (and for the last [[Time|time]]) at the suit of
 Heep, and that, in compliance with a request I had made to him, he had
 paid the money, which I repaid him. He then took us down between decks;
 and there, any lingering fears I had of his having heard any rumours of
 what had happened, were dispelled by Mr. Micawber’s coming out of the
-gloom, taking his arm with an air of friendship and protection, and
+gloom, taking his arm with an air of [[Friendship|friendship]] and protection, and
 telling me that they had scarcely been asunder for a moment, since the
-night before last.
+[[Night|night]] before last.
 
 It was such a strange scene to me, and so confined and dark, that, at
 first, I could make out hardly anything; but, by degrees, it cleared, as
 my eyes became more accustomed to the gloom, and I seemed to stand in
 a picture by OSTADE. Among the great beams, bulks, and ringbolts of the
-ship, and the emigrant-berths, and chests, and bundles, and barrels, and
+[[Ship|ship]], and the emigrant-berths, and chests, and bundles, and barrels, and
 heaps of miscellaneous baggage--‘lighted up, here and there, by dangling
 lanterns; and elsewhere by the yellow daylight straying down a windsail
 or a hatchway--were crowded groups of people, making new friendships,
 taking leave of one another, talking, laughing, crying, eating and
 drinking; some, already settled down into the possession of their few
 feet of space, with their little households arranged, and tiny children
-established on stools, or in dwarf elbow-chairs; others, despairing of
+established on stools, or in [[Dwarf|dwarf]] elbow-chairs; others, despairing of
 a resting-place, and wandering disconsolately. From babies who had but a
 week or two of life behind them, to crooked old men and women who seemed
 to have but a week or two of life before them; and from ploughmen bodily
@@ -407,8 +407,8 @@ it first attracted my attention, by another figure parting from it with
 a kiss; and as it glided calmly away through the disorder, reminding
 me of--Agnes! But in the rapid motion and confusion, and in the
 unsettlement of my own thoughts, I lost it again; and only knew that
-the time was come when all visitors were being warned to leave the ship;
-that my nurse was crying on a chest beside me; and that Mrs. Gummidge,
+the [[Time|time]] was come when all visitors were being warned to leave the [[Ship|ship]];
+that my [[Nurse|nurse]] was crying on a chest beside me; and that Mrs. Gummidge,
 assisted by some younger stooping woman in black, was busily arranging
 Mr. Peggotty’s goods.
 
@@ -422,30 +422,30 @@ Martha stood before me.
 
 ‘Heaven bless you, you good man!’ cried I. ‘You take her with you!’
 
-She answered for him, with a burst of tears. I could speak no more at
-that time, but I wrung his hand; and if ever I have loved and honoured
-any man, I loved and honoured that man in my soul.
+She answered for him, with a burst of [[Tears|tears]]. I could speak no more at
+that [[Time|time]], but I wrung his hand; and if ever I have loved and honoured
+any man, I loved and honoured that man in my [[Soul|soul]].
 
-The ship was clearing fast of strangers. The greatest trial that I had,
+The [[Ship|ship]] was clearing fast of strangers. The greatest trial that I had,
 remained. I told him what the noble spirit that was gone, had given me
 in charge to say at parting. It moved him deeply. But when he charged
 me, in return, with many messages of affection and regret for those deaf
 ears, he moved me more.
 
-The time was come. I embraced him, took my weeping nurse upon my arm,
+The [[Time|time]] was come. I embraced him, took my weeping [[Nurse|nurse]] upon my arm,
 and hurried away. On deck, I took leave of poor Mrs. Micawber. She was
 looking distractedly about for her family, even then; and her last words
-to me were, that she never would desert Mr. Micawber.
+to me were, that she never would [[Desert|desert]] Mr. Micawber.
 
 We went over the side into our boat, and lay at a little distance, to
-see the ship wafted on her course. It was then calm, radiant sunset.
+see the [[Ship|ship]] wafted on her course. It was then calm, radiant sunset.
 She lay between us, and the red light; and every taper line and spar was
 visible against the glow. A sight at once so beautiful, so mournful, and
-so hopeful, as the glorious ship, lying, still, on the flushed water,
+so hopeful, as the glorious [[Ship|ship]], lying, still, on the flushed [[Water|water]],
 with all the life on board her crowded at the bulwarks, and there
 clustering, for a moment, bare-headed and silent, I never saw.
 
-Silent, only for a moment. As the sails rose to the wind, and the ship
+Silent, only for a moment. As the sails [[Rose|rose]] to the [[Wind|wind]], and the [[Ship|ship]]
 began to move, there broke from all the boats three resounding cheers,
 which those on board took up, and echoed back, and which were echoed
 and re-echoed. My heart burst out when I heard the sound, and beheld the
@@ -455,9 +455,9 @@ Then I saw her, at her uncle’s side, and trembling on his shoulder. He
 pointed to us with an eager hand; and she saw us, and waved her last
 good-bye to me. Aye, Emily, beautiful and drooping, cling to him with
 the utmost trust of thy bruised heart; for he has clung to thee, with
-all the might of his great love!
+all the might of his great [[Love|love]]!
 
 Surrounded by the rosy light, and standing high upon the deck, apart
 together, she clinging to him, and he holding her, they solemnly passed
-away. The night had fallen on the Kentish hills when we were rowed
+away. The [[Night|night]] had fallen on the Kentish hills when we were rowed
 ashore--and fallen darkly upon me.

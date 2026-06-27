@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 23 (part 4)"
+title: "[[Persuasion]] — Chapter 23 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -28,11 +28,11 @@ left her in the quiet possession of that room it would have been her
 
 cure; but to have them all standing or waiting around her was
 
-distracting, and in desperation, she said she would go home.
+distracting, and in desperation, she said she would go [[Home|home]].
 
 
 
-“By all means, my dear,” cried Mrs Musgrove, “go home directly, and
+“By all means, my dear,” cried Mrs Musgrove, “go [[Home|home]] directly, and
 
 take care of yourself, that you may be fit for the evening. I wish
 
@@ -44,7 +44,7 @@ and order a chair. She must not walk.”
 
 But the chair would never do. Worse than all! To lose the possibility
 
-of speaking two words to Captain Wentworth in the course of her quiet,
+of speaking two words to [[Captain Wentworth]] in the course of her quiet,
 
 solitary progress up the town (and she felt almost certain of meeting
 
@@ -54,11 +54,11 @@ Mrs Musgrove, who thought only of one sort of illness, having assured
 
 herself with some anxiety, that there had been no fall in the case;
 
-that Anne had not at any time lately slipped down, and got a blow on
+that Anne had not at any [[Time|time]] lately slipped down, and got a blow on
 
 her head; that she was perfectly convinced of having had no fall; could
 
-part with her cheerfully, and depend on finding her better at night.
+part with her cheerfully, and depend on finding her better at [[Night|night]].
 
 
 
@@ -68,13 +68,13 @@ Anxious to omit no possible precaution, Anne struggled, and said—
 
 “I am afraid, ma’am, that it is not perfectly understood. Pray be so
 
-good as to mention to the other gentlemen that we hope to see your
+good as to mention to the other gentlemen that we [[Hope|hope]] to see your
 
 whole party this evening. I am afraid there had been some mistake; and
 
 I wish you particularly to assure Captain Harville and Captain
 
-Wentworth, that we hope to see them both.”
+Wentworth, that we [[Hope|hope]] to see them both.”
 
 
 
@@ -98,7 +98,7 @@ Harville anywhere, remember to give Miss Anne’s message. But indeed, my
 
 dear, you need not be uneasy. Captain Harville holds himself quite
 
-engaged, I’ll answer for it; and Captain Wentworth the same, I dare
+engaged, I’ll answer for it; and [[Captain Wentworth]] the same, I dare
 
 say.”
 
@@ -114,7 +114,7 @@ power to send an intelligible sentence by Captain Harville. Another
 
 momentary vexation occurred. Charles, in his real concern and good
 
-nature, would go home with her; there was no preventing him. This was
+[[Nature|nature]], would go [[Home|home]] with her; there was no preventing him. This was
 
 almost cruel. But she could not be long ungrateful; he was sacrificing
 
@@ -124,11 +124,11 @@ with him, with no feeling but gratitude apparent.
 
 
 
-They were on Union Street, when a quicker step behind, a something of
+They were on [[Union]] Street, when a quicker step behind, a something of
 
 familiar sound, gave her two moments’ preparation for the sight of
 
-Captain Wentworth. He joined them; but, as if irresolute whether to
+[[Captain Wentworth]]. He joined them; but, as if irresolute whether to
 
 join or to pass on, said nothing, only looked. Anne could command
 
@@ -142,13 +142,13 @@ thought, Charles said—
 
 
 
-“Captain Wentworth, which way are you going? Only to Gay Street, or
+“[[Captain Wentworth]], which way are you going? Only to Gay Street, or
 
 farther up the town?”
 
 
 
-“I hardly know,” replied Captain Wentworth, surprised.
+“I hardly know,” replied [[Captain Wentworth]], surprised.
 
 
 
@@ -168,7 +168,7 @@ unpacked to the last possible moment, that I might see it; and if I do
 
 not turn back now, I have no chance. By his description, a good deal
 
-like the second size double-barrel of mine, which you shot with one day
+like the second size [[Double|double]]-barrel of mine, which you shot with one day
 
 round Winthrop.”
 
@@ -180,7 +180,7 @@ alacrity, a most obliging compliance for public view; and smiles reined
 
 in and spirits dancing in private rapture. In half a minute Charles was
 
-at the bottom of Union Street again, and the other two proceeding
+at the [[Bottom|bottom]] of [[Union]] Street again, and the other two proceeding
 
 together: and soon words enough had passed between them to decide their
 
@@ -188,7 +188,7 @@ direction towards the comparatively quiet and retired gravel walk,
 
 where the power of conversation would make the present hour a blessing
 
-indeed, and prepare it for all the immortality which the happiest
+indeed, and prepare it for all the [[Immortality|immortality]] which the happiest
 
 recollections of their own future lives could bestow. There they
 
@@ -198,11 +198,11 @@ seemed to secure everything, but which had been followed by so many,
 
 many years of division and estrangement. There they returned again into
 
-the past, more exquisitely happy, perhaps, in their re-union, than when
+the past, more exquisitely happy, perhaps, in their re-[[Union|union]], than when
 
 it had been first projected; more tender, more tried, more fixed in a
 
-knowledge of each other’s character, truth, and attachment; more equal
+knowledge of each other’s character, [[Truth|truth]], and attachment; more equal
 
 to act, more justified in acting. And there, as they slowly paced the
 
@@ -224,4 +224,4 @@ end.
 
 
 
-She had not mistaken him. Jealousy of Mr Elliot had been the retarding
+She had not mistaken him. [[Jealousy]] of Mr Elliot had been the retarding

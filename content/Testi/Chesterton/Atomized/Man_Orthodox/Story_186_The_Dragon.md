@@ -16,7 +16,7 @@ tags:
 
 THE DRAGON
 
-The following is the last sentence of Chesterton's first published essay;
+The following is the last sentence of Chesterton's first published [[Essay|essay]];
 it appeared in the first number of The Debater, the journal of the famous
 J.D.C. at St Paul's School.  In spite of its schoolboy rhetoric,
 it expresses something of which Chesterton's whole literary career was,
@@ -27,6 +27,6 @@ and perhaps rescue a few captives from his black cavern, may we bear
 a brave lance and a spotless shield through the crashing mÃªlÃ©e
 of life's narrow lists and may our wearied swords have struck fiercely
 on the painted crests of Imposture and Injustice when the Dark Herald
-comes to lead us to the pavilion of the King.
+comes to lead us to the pavilion of the [[King]].
 
                                            The Debater, March--April, 1891

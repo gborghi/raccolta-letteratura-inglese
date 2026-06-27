@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 9 (part 2)"
+title: "[[Jane Eyre]] — Chapter 9 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,33 +14,33 @@ tags:
 </nav>
 
 
-And where, meantime, was Helen Burns? Why did I not spend these sweet
+And where, meantime, was [[Helen Burns]]? Why did I not spend these sweet
 days of liberty with her? Had I forgotten her? or was I so worthless as
 to have grown tired of her pure society? Surely the Mary Ann Wilson I
 have mentioned was inferior to my first acquaintance: she could only
 tell me amusing stories, and reciprocate any racy and pungent gossip I
-chose to indulge in; while, if I have spoken truth of Helen, she was
+chose to indulge in; while, if I have spoken [[Truth|truth]] of [[Helen]], she was
 qualified to give those who enjoyed the privilege of her converse a
 taste of far higher things.
 
 True, reader; and I knew and felt this: and though I am a defective
 being, with many faults and few redeeming points, yet I never tired of
-Helen Burns; nor ever ceased to cherish for her a sentiment of
+[[Helen Burns]]; nor ever ceased to cherish for her a sentiment of
 attachment, as strong, tender, and respectful as any that ever animated
-my heart. How could it be otherwise, when Helen, at all times and under
-all circumstances, evinced for me a quiet and faithful friendship,
-which ill-humour never soured, nor irritation never troubled? But Helen
+my heart. How could it be otherwise, when [[Helen]], at all times and under
+all circumstances, evinced for me a quiet and faithful [[Friendship|friendship]],
+which ill-[[Humour|humour]] never soured, nor irritation never troubled? But [[Helen]]
 was ill at present: for some weeks she had been removed from my sight
 to I knew not what room upstairs. She was not, I was told, in the
-hospital portion of the house with the fever patients; for her
+hospital portion of the [[house]] with the fever patients; for her
 complaint was consumption, not typhus: and by consumption I, in my
-ignorance, understood something mild, which time and care would be sure
+ignorance, understood something mild, which [[Time|time]] and care would be sure
 to alleviate.
 
 I was confirmed in this idea by the fact of her once or twice coming
 downstairs on very warm sunny afternoons, and being taken by Miss
-Temple into the garden; but, on these occasions, I was not allowed to
-go and speak to her; I only saw her from the schoolroom window, and
+Temple into the [[Garden|garden]]; but, on these occasions, I was not allowed to
+go and speak to her; I only saw her from the schoolroom [[Window|window]], and
 then not distinctly; for she was much wrapped up, and sat at a distance
 under the verandah.
 
@@ -50,16 +50,16 @@ others, and had wandered far; so far that we lost our way, and had to
 ask it at a lonely cottage, where a man and woman lived, who looked
 after a herd of half-wild swine that fed on the mast in the wood. When
 we got back, it was after moonrise: a pony, which we knew to be the
-surgeon’s, was standing at the garden door. Mary Ann remarked that she
+surgeon’s, was standing at the [[Garden|garden]] door. Mary Ann remarked that she
 supposed some one must be very ill, as Mr. Bates had been sent for at
-that time of the evening. She went into the house; I stayed behind a
-few minutes to plant in my garden a handful of roots I had dug up in
+that [[Time|time]] of the evening. She went into the [[house]]; I stayed behind a
+few minutes to plant in my [[Garden|garden]] a handful of roots I had dug up in
 the forest, and which I feared would wither if I left them till the
-morning. This done, I lingered yet a little longer: the flowers smelt
+morning. This done, I lingered yet a little longer: the [[Flowers|flowers]] smelt
 so sweet as the dew fell; it was such a pleasant evening, so serene, so
 warm; the still glowing west promised so fairly another fine day on the
-morrow; the moon rose with such majesty in the grave east. I was noting
-these things and enjoying them as a child might, when it entered my
+morrow; the [[Moon|moon]] [[Rose|rose]] with such majesty in the [[Grave|grave]] east. I was noting
+these things and enjoying them as a [[Child|child]] might, when it entered my
 mind as it had never done before:—
 
 “How sad to be lying now on a sick bed, and to be in danger of dying!
@@ -67,17 +67,17 @@ This world is pleasant—it would be dreary to be called from it, and to
 have to go who knows where?”
 
 And then my mind made its first earnest effort to comprehend what had
-been infused into it concerning heaven and hell; and for the first time
-it recoiled, baffled; and for the first time glancing behind, on each
+been infused into it concerning heaven and hell; and for the first [[Time|time]]
+it recoiled, baffled; and for the first [[Time|time]] glancing behind, on each
 side, and before it, it saw all round an unfathomed gulf: it felt the
 one point where it stood—the present; all the rest was formless cloud
 and vacant depth; and it shuddered at the thought of tottering, and
 plunging amid that chaos. While pondering this new idea, I heard the
-front door open; Mr. Bates came out, and with him was a nurse. After
-she had seen him mount his horse and depart, she was about to close the
+front door open; Mr. Bates came out, and with him was a [[Nurse|nurse]]. After
+she had seen him mount his [[Horse|horse]] and depart, she was about to close the
 door, but I ran up to her.
 
-“How is Helen Burns?”
+“How is [[Helen Burns]]?”
 
 “Very poorly,” was the answer.
 
@@ -91,45 +91,45 @@ door, but I ran up to her.
 
 This phrase, uttered in my hearing yesterday, would have only conveyed
 the notion that she was about to be removed to Northumberland, to her
-own home. I should not have suspected that it meant she was dying; but
-I knew instantly now! It opened clear on my comprehension that Helen
+own [[Home|home]]. I should not have suspected that it meant she was dying; but
+I knew instantly now! It opened clear on my comprehension that [[Helen]]
 Burns was numbering her last days in this world, and that she was going
 to be taken to the region of spirits, if such region there were. I
 experienced a shock of horror, then a strong thrill of grief, then a
-desire—a necessity to see her; and I asked in what room she lay.
+[[Desire|desire]]—a necessity to see her; and I asked in what room she lay.
 
-“She is in Miss Temple’s room,” said the nurse.
+“She is in Miss Temple’s room,” said the [[Nurse|nurse]].
 
 “May I go up and speak to her?”
 
-“Oh no, child! It is not likely; and now it is time for you to come in;
+“Oh no, [[Child|child]]! It is not likely; and now it is [[Time|time]] for you to come in;
 you’ll catch the fever if you stop out when the dew is falling.”
 
-The nurse closed the front door; I went in by the side entrance which
-led to the schoolroom: I was just in time; it was nine o’clock, and
+The [[Nurse|nurse]] closed the front door; I went in by the side entrance which
+led to the schoolroom: I was just in [[Time|time]]; it was nine o’[[Clock|clock]], and
 Miss Miller was calling the pupils to go to bed.
 
 It might be two hours later, probably near eleven, when I—not having
-been able to fall asleep, and deeming, from the perfect silence of the
-dormitory, that my companions were all wrapt in profound repose—rose
-softly, put on my frock over my night-dress, and, without shoes, crept
-from the apartment, and set off in quest of Miss Temple’s room. It was
-quite at the other end of the house; but I knew my way; and the light
-of the unclouded summer moon, entering here and there at passage
+been able to fall asleep, and deeming, from the perfect [[Silence|silence]] of the
+dormitory, that my companions were all wrapt in profound repose—[[Rose|rose]]
+softly, put on my frock over my [[Night|night]]-dress, and, without shoes, crept
+from the apartment, and set off in [[Quest|quest]] of Miss Temple’s room. It was
+quite at the other end of the [[house]]; but I knew my way; and the light
+of the unclouded [[Summer|summer]] [[Moon|moon]], entering here and there at passage
 windows, enabled me to find it without difficulty. An odour of camphor
 and burnt vinegar warned me when I came near the fever room: and I
-passed its door quickly, fearful lest the nurse who sat up all night
+passed its door quickly, fearful lest the [[Nurse|nurse]] who sat up all [[Night|night]]
 should hear me. I dreaded being discovered and sent back; for I _must_
-see Helen,—I must embrace her before she died,—I must give her one last
+see [[Helen]],—I must embrace her before she died,—I must give her one last
 kiss, exchange with her one last word.
 
-Having descended a staircase, traversed a portion of the house below,
+Having descended a staircase, traversed a portion of the [[house]] below,
 and succeeded in opening and shutting, without noise, two doors, I
 reached another flight of steps; these I mounted, and then just
 opposite to me was Miss Temple’s room. A light shone through the
 keyhole and from under the door; a profound stillness pervaded the
 vicinity. Coming near, I found the door slightly ajar; probably to
 admit some fresh air into the close abode of sickness. Indisposed to
-hesitate, and full of impatient impulses—soul and senses quivering with
-keen throes—I put it back and looked in. My eye sought Helen, and
-feared to find death.
+hesitate, and full of impatient impulses—[[Soul|soul]] and senses quivering with
+keen throes—I put it back and looked in. My eye sought [[Helen]], and
+feared to find [[Death|death]].

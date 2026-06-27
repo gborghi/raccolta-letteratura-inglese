@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE MAN WITH THE BLACK BAG"
+title: "[[FourFaultlessFelons]] — THE MAN WITH THE BLACK BAG"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -24,9 +24,9 @@ light hair and a profile of the eager and sanguine sort, had fallen
 
 behind her companion in the walk up the steep street and stopped to make
 
-a small purchase at a small confectioner's shop. In front of her the road
+a small purchase at a small confectioner's shop. In front of her the [[Road|road]]
 
-rose in an abrupt white curve across a hill and the open spaces of a
+[[Rose|rose]] in an abrupt white curve across a [[Hill|hill]] and the open spaces of a
 
 suburban park. The small white rim of what was obviously a colossal white
 
@@ -36,7 +36,7 @@ that almost persuade the natural man, in spite of all the proofs adduced
 
 for it, that the world is round. Against that background of blue sky,
 
-white road and white rim of cloud, only two human figures happened at
+white [[Road|road]] and white rim of cloud, only two human figures happened at
 
 that moment to appear. They appeared to be totally disconnected and
 
@@ -58,7 +58,7 @@ under a wide hat; he wore loose clothes and was walking with loose
 
 strides in the sunny centre of the thoroughfare. Just before he crested
 
-the ridge he turned and looked idly backwards down the road he had
+the ridge he turned and looked idly backwards down the [[Road|road]] he had
 
 climbed. The other man was moving decorousy along the pavement and
 
@@ -68,7 +68,7 @@ person. He wore a top-hat and his compact but not conspicuous figure was
 
 clad neatly in dark clothes; he was walking briskly and rapidly, but very
 
-quietly, and he carried a small black bag. He might have been a City
+quietly, and he carried a small black bag. He might have been a [[City]]
 
 clerk who prided himself on being punctual, but feared he was a little
 
@@ -80,11 +80,11 @@ interest in anything but his goal.
 
 Quite suddenly he turned at right angles from the pavement, hurled
 
-himself, bag and all, into the middle of the road and appeared to pin or
+himself, bag and all, into the middle of the [[Road|road]] and appeared to pin or
 
 throttle the gentleman with the beard and the large hat. He was the
 
-shorter man of the two, but his spring was like a black cat's and he had
+shorter man of the two, but his [[spring]] was like a black cat's and he had
 
 all the advantage of youthful energy and the surprise. The tall man went
 
@@ -94,7 +94,7 @@ he had broken away from his mysterious enemy and started hitting back at
 
 him with refreshing vigour. At this moment a car coming from over the
 
-hill obscured for a moment the girl's view of the conflict, and when the
+[[Hill|hill]] obscured for a moment the girl's view of the conflict, and when the
 
 space was clear again, it underwent yet a third change. The man in black,
 
@@ -118,7 +118,7 @@ his neat cuff's and proceeded to slog into the other in an entirely new,
 
 vigorous and scientific manner. All this had taken less than half a
 
-minute to happen, but by this time the girl was running up the street as
+minute to happen, but by this [[Time|time]] the girl was running up the street as
 
 fast as she could, leaving a staring confectioner with a small
 
@@ -134,7 +134,7 @@ emancipate herself. He was her father.
 
 
 
-By the time she arrived on the scene, or possibly because she had arrived
+By the [[Time|time]] she arrived on the scene, or possibly because she had arrived
 
 on the scene, the violence of the pantomime had somewhat abated, but both
 
@@ -158,7 +158,7 @@ him.
 
 
 
-"Well!" he said, breathing hard, "of all the blasted old fools! ... Of
+"[[Well]]!" he said, breathing hard, "of all the blasted old fools! ... Of
 
 all the damned doddering old donkeys. ..."
 
@@ -166,23 +166,23 @@ all the damned doddering old donkeys. ..."
 
 "This man," declared Windrush with fiery hauteur, "criminally assaulted
 
-me in the middle of the road for no reason whatever and--"
+me in the middle of the [[Road|road]] for no reason whatever and--"
 
 
 
 "That's what he says!" cried the young man in a sort of triumphant
 
-derision. "For no reason whatever! And in the middle of the road! Oh, my
+derision. "For no reason whatever! And in the middle of the [[Road|road]]! Oh, my
 
 green-eyed grandmother!"
 
 
 
-"Well, what reason?" began Miss Windrush, making an attempt to intervene.
+"[[Well]], what reason?" began Miss Windrush, making an attempt to intervene.
 
 
 
-"Why, because he was in the middle of the road, of course!" exploded the
+"Why, because he was in the middle of the [[Road|road]], of course!" exploded the
 
 young man. "He'd have been in the middle of Kensal Green Cemetery pretty
 
@@ -190,21 +190,21 @@ soon. And, speaking generally, I should say he ought to be in the middle
 
 of Hanwell Asylum now. He must have escaped from there, I should think,
 
-to go stravaging up the middle of a modern road like that, and turning
+to go stravaging up the middle of a modern [[Road|road]] like that, and turning
 
-his back to admire the landscape, as if he were alone in the Sahara. Why,
+his back to admire the landscape, as if he were [[Alone|alone]] in the Sahara. Why,
 
 every reasonably modern village idiot knows that the motorists can't see
 
-what's on the other side of this hill when they come over it, and if I
+what's on the other side of this [[Hill|hill]] when they come over it, and if I
 
 hadn't happened to hear the car--"
 
 
 
-"The car!" said the artist with a grave and severe astonishment, as one
+"The car!" said the [[artist]] with a [[Grave|grave]] and severe astonishment, as one
 
-who convicts a child of romancing. "What car?" He turned round in a
+who convicts a [[Child|child]] of romancing. "What car?" He turned round in a
 
 lordly manner and surveyed the street. "Where is this car?" he said
 
@@ -220,7 +220,7 @@ away," said the other.
 
 "Why, of course it's quite true," said Enid, as a light broke upon her.
 
-"There was a car that came very fast over the hill, just as you--"
+"There was a car that came very fast over the [[Hill|hill]], just as you--"
 
 
 
@@ -236,7 +236,7 @@ thing, a man who valued a reputation for handsome behaviour. But he would
 
 have been more than human, if he had found it easy to adjust rapidly his
 
-relations to a gentleman, who had first flung him across the road and
+relations to a gentleman, who had first flung him across the [[Road|road]] and
 
 then, on his retaliating, started pommelling him like a pugilist, and to
 
@@ -252,9 +252,9 @@ rational reconsideration, she rather liked the look of the young man, for
 
 neatness and respectability do not always displease ladies who have seen
 
-a good deal of the sublime liberty of the artistic life. Also, she had
+a good deal of the [[Sublime|sublime]] liberty of the artistic life. Also, she had
 
-not been seized suddenly by the throat in the middle of the road.
+not been seized suddenly by the throat in the middle of the [[Road|road]].
 
 
 
@@ -308,19 +308,19 @@ became rather common. To all appearance, they met only to argue, and yet
 
 they were always meeting. For some reason or other, Dr. Judson was
 
-continually coming round to the poet's house on one pretext or another,
+continually coming round to the poet's [[house]] on one pretext or another,
 
 and the poet never failed in hospitality, though it had so strange a ring
 
 of hostility. It may be explained in part by the fact that each had met
 
-for the first time his complete antithesis and his completely convinced
+for the first [[Time|time]] his complete antithesis and his completely convinced
 
 antagonist. Windrush was a man in the old tradition of Shelley or Walt
 
 Whitman. He was a poet to whom poetry seemed almost synonymous with
 
-liberty. If he had enclosed a wild tree in a tame suburban garden, it was
+liberty. If he had enclosed a wild tree in a tame suburban [[Garden|garden]], it was
 
 by his account that it might be the last thing really allowed to grow
 
@@ -328,15 +328,15 @@ wild. If he walked in a solitary path secluded by high walls, it was
 
 apparently by the instinct that has led many a squire to fence in a
 
-wilderness and call it a park. He liked loneliness because it was the
+wilderness and call it a park. He liked [[Loneliness|loneliness]] because it was the
 
 only perfect form of doing as he liked. He regarded all the mechanical
 
-civilization that had spread around him as a mere materialistic slavery,
+civilization that had spread around him as a mere materialistic [[Slavery|slavery]],
 
 and, as far as possible, treated it as if it were not there; even, as we
 
-have seen, to the extent of standing in the middle of a main road with
+have seen, to the extent of standing in the middle of a main [[Road|road]] with
 
 his back to a motor-car.
 
@@ -348,7 +348,7 @@ he will get on, because he believes in himself. This was probably a
 
 slander on him. He did not merely believe in himself; he believed in
 
-things requiring far more faith: in things which some think far more
+things requiring far more [[Faith|faith]]: in things which some think far more
 
 incredible and difficult to believe. He believed in modern organization
 
@@ -366,11 +366,11 @@ ordinary papers, and then to articles in the scientific papers. He had
 
 the simplicity to carry his highly modern monomanias into private life,
 
-and propounded them to her for hours at a time, striding up and down the
+and propounded them to her for hours at a [[Time|time]], striding up and down the
 
 artistic drawing-room, while Windrush was wandering round his private
 
-garden engaged in perennial tree-worship. The walking up and down was
+[[Garden|garden]] engaged in perennial tree-worship. The walking up and down was
 
 characteristic, for the second definite impression which Judson produced,
 
@@ -402,9 +402,9 @@ not follow that they have no value."
 
 "But look here," the doctor would start in again, scowling painfully. "I
 
-don't see the value of it as art and poetry-let alone reason or sense.
+don't see the value of it as art and poetry-let [[Alone|alone]] reason or sense.
 
-What's the beauty of one dingy old tree stuck in the middle of bricks and
+What's the [[Beauty|beauty]] of one dingy old tree stuck in the middle of bricks and
 
 mortar? Why, if you abolished it, you'd have room for a garage and you
 
@@ -438,11 +438,11 @@ suppose that's the real difference between the generations."
 
 "All right," said the elder gentleman tartly. "Let us say you have all
 
-the motor-sense, and we have all the horse-sense."
+the motor-sense, and we have all the [[Horse|horse]]-sense."
 
 
 
-"Well," said the other, also with a sharpened accent. "If you'd had a
+"[[Well]]," said the other, also with a sharpened accent. "If you'd had a
 
 little more motor-sense, or any sort of sense, you wouldn't have been so
 
@@ -466,9 +466,9 @@ old-fashioned. But she, he would assert, with more earnest appeal, ought
 
 to have more sympathy with the future and the new hopes of the world.
 
-Then he would leave the house boiling with protests and arguing with
+Then he would leave the [[house]] boiling with protests and arguing with
 
-invisible persons all the way home. For he really was a man profoundly
+invisible persons all the way [[Home|home]]. For he really was a man profoundly
 
 convinced of the prospects and prophesies of science. He had a great many
 
@@ -480,9 +480,9 @@ diseases that nobody had ever experienced, in order to cure them by
 
 discoveries that nobody could ever explain. Superficially, he was indeed
 
-one with all the faults of a man of action, including the temptation of
+one with all the faults of a man of action, including the [[Temptation|temptation]] of
 
-ambition. But for all that, there was a dark but busy cell in his inmost
+[[Ambition|ambition]]. But for all that, there was a dark but busy cell in his inmost
 
 brain, where thought for thought's sake went on in an almost dangerous
 
@@ -490,7 +490,7 @@ degree of turmoil and intensity. Anyone who could have looked into that
 
 dim whirlpool might have guessed that there could arise out of it, in
 
-some strange hour of stress, a thing like a monster.
+some strange hour of stress, a thing like a [[Monster|monster]].
 
 
 
@@ -500,13 +500,13 @@ secrecy, and seemed always walking in the sunlight. She was healthy,
 
 hearty and athletic, and in her tastes she might have been the shining
 
-incarnation of her father's frustrated love of the open country and the
+incarnation of her father's frustrated [[Love|love]] of the open country and the
 
-tall trees. She was more conscious of her body than her soul, and
+tall trees. She was more conscious of her [[Body|body]] than her [[Soul|soul]], and
 
 expressed in the suburban substitutes of tennis and golf and the
 
-swimming-bath, what might have been a native love of country sports. And
+swimming-bath, what might have been a native [[Love|love]] of country sports. And
 
 yet it may be that in her also there was, at odd moments, a touch of her
 
@@ -514,7 +514,7 @@ father's more transcendental fancy. Anyhow, it is true that long
 
 afterwards, when this story was ended, she stood again in the sunlight
 
-and looked back at those earlier days through a storm of black and
+and looked back at those earlier days through a [[Storm|storm]] of black and
 
 brain-racking mysteries, and of horror truly piled upon horror. And
 
@@ -522,10 +522,10 @@ looking back at this beginning of her story, she wondered if there were
 
 something in the old notion of omens and prefiguring signs. She wondered
 
-whether the whole of her riddle would not have been clear to her, from
+whether the whole of her [[Riddle|riddle]] would not have been clear to her, from
 
 first to last, if she could have read it in those two dark figures
 
-dancing and fighting on the sunlit road against the white cloud; like two
+dancing and fighting on the sunlit [[Road|road]] against the white cloud; like two
 
 living letters of an alphabet struggling to spell out a word.

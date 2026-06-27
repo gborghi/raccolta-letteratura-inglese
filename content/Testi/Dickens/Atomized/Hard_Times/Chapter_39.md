@@ -19,8 +19,8 @@ THE ONE THING NEEDFUL
 
 
 ‘NOW, what I want is, Facts.  Teach these boys and girls nothing but
-Facts.  Facts alone are wanted in life.  Plant nothing else, and root out
-everything else.  You can only form the minds of reasoning animals upon
+Facts.  Facts [[Alone|alone]] are wanted in life.  Plant nothing else, and root out
+everything else.  You can only form the minds of reasoning [[Animals|animals]] upon
 Facts: nothing else will ever be of any service to them.  This is the
 principle on which I bring up my own children, and this is the principle
 on which I bring up these children.  Stick to Facts, sir!’
@@ -35,7 +35,7 @@ speaker’s mouth, which was wide, thin, and hard set.  The emphasis was
 helped by the speaker’s voice, which was inflexible, dry, and
 dictatorial.  The emphasis was helped by the speaker’s hair, which
 bristled on the skirts of his bald head, a plantation of firs to keep the
-wind from its shining surface, all covered with knobs, like the crust of
+[[Wind|wind]] from its shining surface, all covered with knobs, like the crust of
 a plum pie, as if the head had scarcely warehouse-room for the hard facts
 stored inside.  The speaker’s obstinate carriage, square coat, square
 legs, square shoulders,—nay, his very neckcloth, trained to take him by

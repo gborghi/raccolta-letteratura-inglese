@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 1"
+title: "[[manalive]] — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/manalive-(Chesterton)"
@@ -16,49 +16,49 @@ tags:
 
 			  Chapter I
 
-		      The Eye of Death;
+		      The Eye of [[Death]];
 		    or, the Murder Charge
 
 
-The dining-room of the Dukes had been set out for the Court
+The dining-room of the Dukes had been set out for the [[Court]]
 of Beacon with a certain impromptu pomposity that seemed somehow
 to increase its cosiness.  The big room was, as it were,
 cut up into small rooms, with walls only waist high--the sort
 of separation that children make when they are playing at shops.
-This had been done by Moses Gould and Michael Moon
+This had been done by Moses Gould and [[Michael]] [[Moon]]
 (the two most active members of this remarkable inquiry)
 with the ordinary furniture of the place.  At one end of the long
-mahogany table was set the one enormous garden chair, which was
-surmounted by the old torn tent or umbrella which Smith himself
+mahogany table was set the one enormous [[Garden|garden]] chair, which was
+surmounted by the old torn tent or umbrella which [[smith|Smith]] himself
 had suggested as a coronation canopy.  Inside this erection
 could be perceived the dumpy form of Mrs. Duke, with cushions
 and a form of countenance that already threatened slumber.
-At the other end sat the accused Smith, in a kind of dock;
+At the other end sat the accused [[smith|Smith]], in a kind of dock;
 for he was carefully fenced in with a quadrilateral of light
-bedroom chairs, any of which he could have tossed out the window
+bedroom chairs, any of which he could have tossed out the [[Window|window]]
 with his big toe.  He had been provided with pens and paper,
 out of the latter of which he made paper boats, paper darts,
 and paper dolls contentedly throughout the whole proceedings.
 He never spoke or even looked up, but seemed as unconscious
-as a child on the floor of an empty nursery.
+as a [[Child|child]] on the floor of an empty nursery.
 
 On a row of chairs raised high on the top of a long settee sat
-the three young ladies with their backs up against the window,
+the three young ladies with their backs up against the [[Window|window]],
 and Mary Gray in the middle; it was something between a jury
-box and the stall of the Queen of Beauty at a tournament.
-Down the centre of the long table Moon had built a low barrier
+box and the stall of the [[Queen]] of [[Beauty]] at a tournament.
+Down the centre of the long table [[Moon]] had built a low barrier
 out of eight bound volumes of "Good Words" to express the moral
 wall that divided the conflicting parties.  On the right side
 sat the two advocates of the prosecution, Dr. Pym and Mr. Gould;
 behind a barricade of books and documents, chiefly (in the case
 of Dr. Pym) solid volumes of criminology.  On the other side,
-Moon and Inglewood, for the defence, were also fortified
+[[Moon]] and Inglewood, for the defence, were also fortified
 with books and papers; but as these included several old yellow
-volumes by Ouida and Wilkie Collins, the hand of Mr. Moon
+volumes by Ouida and Wilkie Collins, the hand of Mr. [[Moon]]
 seemed to have been somewhat careless and comprehensive.
-As for the victim and prosecutor, Dr. Warner, Moon wanted at first
+As for the victim and prosecutor, Dr. Warner, [[Moon]] wanted at first
 to have him kept entirely behind a high screen in the corner,
-urging the indelicacy of his appearance in court, but privately
+urging the indelicacy of his appearance in [[Court|court]], but privately
 assuring him of an unofficial permission to peep over the top
 now and then.  Dr. Warner, however, failed to rise to the chivalry
 of such a course, and after some little disturbance and discussion
@@ -67,24 +67,24 @@ in a line with his legal advisers.
 
 It was before this solidly-established tribunal that Dr. Cyrus Pym,
 after passing a hand through the honey-coloured hair over each ear,
-rose to open the case.  His statement was clear and even restrained,
+[[Rose|rose]] to open the case.  His statement was clear and even restrained,
 and such flights of imagery as occurred in it only attracted attention
-by a certain indescribable abruptness, not uncommon in the flowers
+by a certain indescribable abruptness, not uncommon in the [[Flowers|flowers]]
 of American speech.
 
 He planted the points of his ten frail fingers on the mahogany,
-closed his eyes, and opened his mouth.  "The time has gone by,"
+closed his eyes, and opened his mouth.  "The [[Time|time]] has gone by,"
 he said, "when murder could be regarded as a moral and individual act,
 important perhaps to the murderer, perhaps to the murdered.
 Science has profoundly..." here he paused, poising his compressed
 finger and thumb in the air as if he were holding an elusive idea
 very tight by its tail, then he screwed up his eyes and said
-"modified," and let it go--"has profoundly Modified our view of death.
+"modified," and let it go--"has profoundly Modified our view of [[Death|death]].
 In superstitious ages it was regarded as the termination of life,
 catastrophic, and even tragic, and was often surrounded by solemnity.
-Brighter days, however, have dawned, and we now see death as universal
-and inevitable, as part of that great soul-stirring and heart-upholding
-average which we call for convenience the order of nature.
+Brighter days, however, have dawned, and we now see [[Death|death]] as universal
+and inevitable, as part of that great [[Soul|soul]]-stirring and heart-upholding
+average which we call for convenience the order of [[Nature|nature]].
 In the same way we have come to consider murder SOCIALLY.
 Rising above the mere private feelings of a man while being forcibly
 deprived of life, we are privileged to behold murder as a mighty whole,
@@ -302,16 +302,16 @@ of punching was an outward, instantaneous, and even natural gesture.--
 Believe me, yours faithfully, Burton Lestrange.
 
 
-"I have numberless other letters," continued Moon, "all bearing witness
+"I have numberless other letters," continued [[Moon]], "all bearing witness
 to this widespread feeling about my eminent friend; and I therefore think
 that Dr. Pym should have admitted this side of the question in his survey.
 We are in the presence, as Dr. Pym so truly says, of a natural force.
-As soon stay the cataract of the London water-works as stay
+As soon stay the cataract of the [[London]] [[Water|water]]-works as stay
 the great tendency of Dr. Warner to be assassinated by somebody.
 Place that man in a Quakers' meeting, among the most peaceful of Christians,
-and he will immediately be beaten to death with sticks of chocolate.
+and he will immediately be beaten to [[Death|death]] with sticks of chocolate.
 Place him among the angels of the New Jerusalem, and he will be stoned
-to death with precious stones.  Circumstances may be beautiful and wonderful,
+to [[Death|death]] with precious stones.  Circumstances may be beautiful and wonderful,
 the average may be heart-upholding, the harvester may be golden-bearded,
 the doctor may be secret-guessing, the cataract may be iris-leapt,
 the Anglo-Saxon infant may be brave-browed, but against and above
@@ -321,24 +321,24 @@ succeeds at last."
 
 He pronounced this peroration with an appearance of strong emotion.
 But even stronger emotions were manifesting themselves on the other
-side of the table.  Dr. Warner had leaned his large body quite across
+side of the table.  Dr. Warner had leaned his large [[Body|body]] quite across
 the little figure of Moses Gould and was talking in excited whispers
 to Dr. Pym.  That expert nodded a great many times and finally started
 to his feet with a sincere expression of sternness.
 
 "Ladies and gentlemen," he cried indignantly, "as my colleague has said,
 we should be delighted to give any latitude to the defence--if there
-were a defence.  But Mr. Moon seems to think he is there to make jokes--
+were a defence.  But Mr. [[Moon]] seems to think he is there to make jokes--
 very good jokes I dare say, but not at all adapted to assist his client.
 He picks holes in science.  He picks holes in my client's social popularity.
 He picks holes in my literary style, which doesn't seem to suit his high-toned
 European taste.  But how does this picking of holes affect the issue?
-This Smith has picked two holes in my client's hat, and with an inch better
+This [[smith|Smith]] has picked two holes in my client's hat, and with an inch better
 aim would have picked two holes in his head.  All the jokes in the world
 won't unpick those holes or be any use for the defence."
 
 Inglewood looked down in some embarrassment, as if shaken by the evident
-fairness of this, but Moon still gazed at his opponent in a dreamy way.
+fairness of this, but [[Moon]] still gazed at his opponent in a dreamy way.
 "The defence?" he said vaguely--"oh, I haven't begun that yet."
 
 "You certainly have not," said Pym warmly, amid a murmur of applause
@@ -346,15 +346,15 @@ from his side, which the other side found it impossible to answer.
 "Perhaps, if you have any defence, which has been doubtful from
 the very beginning--"
 
-"While you're standing up," said Moon, in the same almost sleepy style,
+"While you're standing up," said [[Moon]], in the same almost sleepy style,
 "perhaps I might ask you a question."
 
 "A question?  Certainly," said Pym stiffly.  "It was distinctly
-arranged between us that as we could not cross-examine
-the witnesses, we might vicariously cross-examine each other.
+arranged between us that as we could not [[Cross|cross]]-examine
+the witnesses, we might vicariously [[Cross|cross]]-examine each other.
 We are in a position to invite all such inquiry."
 
-"I think you said," observed Moon absently, "that none of the prisoner's
+"I think you said," observed [[Moon]] absently, "that none of the prisoner's
 shots really hit the doctor."
 
 "For the cause of science," cried the complacent Pym, "fortunately not."
@@ -364,16 +364,16 @@ shots really hit the doctor."
 "Yes; about four feet."
 
 "And no shots hit the Warden, though they were fired quite close
-to him too?" asked Moon.
+to him too?" asked [[Moon]].
 
 "That is so," said the witness gravely.
 
-"I think," said Moon, suppressing a slight yawn, "that your Sub-Warden
-mentioned that Smith was one of the University's record men for shooting."
+"I think," said [[Moon]], suppressing a slight yawn, "that your Sub-Warden
+mentioned that [[smith|Smith]] was one of the University's record men for shooting."
 
 "Why, as to that--" began Pym, after an instant of stillness.
 
-"A second question," continued Moon, comparatively curtly.
+"A second question," continued [[Moon]], comparatively curtly.
 "You said there were other cases of the accused trying to kill people.
 Why have you not got evidence of them?"
 
@@ -386,12 +386,12 @@ as in the Cambridge case, but only the evidence of the actual victims."
 "In the case of the actual victims," said Pym, "there was some difficulty
 and reluctance, and--"
 
-"Do you mean," asked Moon, "that none of the actual victims would
+"Do you mean," asked [[Moon]], "that none of the actual victims would
 appear against the prisoner?"
 
 "That would be exaggerative," began the other.
 
-"A third question," said Moon, so sharply that every one jumped.
+"A third question," said [[Moon]], so sharply that every one jumped.
 "You've got the evidence of the Sub-Warden who heard some shots;
 where's the evidence of the Warden himself who was shot at?
 The Warden of Brakespeare lives, a prosperous gentleman."
@@ -401,7 +401,7 @@ The Warden of Brakespeare lives, a prosperous gentleman."
 of deference to an old gentleman whose past services to science
 have been great."
 
-Moon leaned forward.  "You mean, I suppose," he said, "that his statement
+[[Moon]] leaned forward.  "You mean, I suppose," he said, "that his statement
 was favourable to the prisoner."
 
 "It might be understood so," replied the American doctor;
@@ -412,23 +412,23 @@ In fact, we sent it back to him."
 
 "No."
 
-"I only ask," said Michael quietly, "because we have.
+"I only ask," said [[Michael]] quietly, "because we have.
 To conclude my case I will ask my junior, Mr. Inglewood,
 to read a statement of the true story--a statement attested
 as true by the signature of the Warden himself."
 
-Arthur Inglewood rose with several papers in his hand, and though
-he looked somewhat refined and self-effacing, as he always did,
+[[arthur|Arthur]] Inglewood [[Rose|rose]] with several papers in his hand, and though
+he looked somewhat refined and [[Self|self]]-effacing, as he always did,
 the spectators were surprised to feel that his presence was,
 upon the whole, more efficient and sufficing than his leader's. He was,
-in truth, one of those modest men who cannot speak until they are told
-to speak; and then can speak well.  Moon was entirely the opposite.
+in [[Truth|truth]], one of those modest men who cannot speak until they are told
+to speak; and then can speak [[Well|well]].  [[Moon]] was entirely the opposite.
 His own impudences amused him in private, but they slightly
-embarrassed him in public; he felt a fool while he was speaking,
-whereas Inglewood felt a fool only because he could not speak.
+embarrassed him in public; he felt a [[Fool|fool]] while he was speaking,
+whereas Inglewood felt a [[Fool|fool]] only because he could not speak.
 The moment he had anything to say he could speak;
 and the moment he could speak, speaking seemed quite natural.
-Nothing in this universe seemed quite natural to Michael Moon.
+Nothing in this universe seemed quite natural to [[Michael]] [[Moon]].
 
 "As my colleague has just explained," said Inglewood, "there are
 two enigmas or inconsistencies on which we base the defence.
@@ -442,55 +442,55 @@ The second, as my colleague has urged, is the curious fact that we cannot
 find a single victim of these alleged outrages to speak for himself.
 Subordinates speak for him.  Porters climb up ladders to him.
 But he himself is silent.  Ladies and gentlemen, I propose to explain
-on the spot both the riddle of the shots and the riddle of the silence.
+on the spot both the [[Riddle|riddle]] of the shots and the [[Riddle|riddle]] of the [[Silence|silence]].
 I will first of all read the covering letter in which the true account
 of the Cambridge incident is contained, and then that document itself.
-When you have heard both, there will be no doubt about your decision.
+When you have heard both, there will be no [[Doubt|doubt]] about your decision.
 The covering letter runs as follows:--
 
 
 "Dear Sir,--The following is a very exact and even vivid account of the
 incident as it really happened at Brakespeare College.  We, the undersigned,
 do not see any particular reason why we should refer it to any
-isolated authorship.  The truth is, it has been a composite production;
+isolated authorship.  The [[Truth|truth]] is, it has been a composite production;
 and we have even had some difference of opinion about the adjectives.
 But every word of it is true.--We are, yours faithfully,
 
 				     "Wilfred Emerson Eames,
 		   Warden of Brakespeare College, Cambridge.
 
-					    "Innocent Smith.
+					    "[[Innocent]] [[smith|Smith]].
 
 
 "The enclosed statement," continued Inglewood, "runs as follows:--
 
 
-"A celebrated English university backs so abruptly on the river,
+"A celebrated English university backs so abruptly on the [[River|river]],
 that it has, so to speak, to be propped up and patched
 with all sorts of bridges and semi-detached buildings.
-The river splits itself into several small streams and canals,
+The [[River|river]] splits itself into several small streams and canals,
 so that in one or two corners the place has almost the look
-of Venice.  It was so especially in the case with which we
+of [[Venice]].  It was so especially in the case with which we
 are concerned, in which a few flying buttresses or airy ribs of stone
-sprang across a strip of water to connect Brakespeare College
-with the house of the Warden of Brakespeare.
+sprang across a strip of [[Water|water]] to connect Brakespeare College
+with the [[house]] of the Warden of Brakespeare.
 
 "The country around these colleges is flat; but it does not
 seem flat when one is thus in the midst of the colleges.
 For in these flat fens there are always wandering lakes and lingering
-rivers of water.  And these always change what might have been
+rivers of [[Water|water]].  And these always change what might have been
 a scheme of horizontal lines into a scheme of vertical lines.
-Wherever there is water the height of high buildings is doubled,
-and a British brick house becomes a Babylonian tower.
+Wherever there is [[Water|water]] the height of high buildings is doubled,
+and a British brick [[house]] becomes a Babylonian tower.
 In that shining unshaken surface the houses hang head
 downwards exactly to their highest or lowest chimney.
 The coral-coloured cloud seen in that abyss is as far
 below the world as its original appears above it.
-Every scrap of water is not only a window but a skylight.
+Every scrap of [[Water|water]] is not only a [[Window|window]] but a skylight.
 Earth splits under men's feet into precipitous aerial perspectives,
 into which a bird could as easily wing its way as--"
 
-Dr. Cyrus Pym rose in protest.  The documents he had put
+Dr. Cyrus Pym [[Rose|rose]] in protest.  The documents he had put
 in evidence had been confined to cold affirmation of fact.
 The defence, in a general way, had an indubitable right to put
 their case in their own way, but all this landscape gardening
@@ -499,7 +499,7 @@ seemed to him (Dr. Cyrus Pym) to be not up to the business.
 possibly affect this case, that a cloud was cor'l-coloured,
 or that a bird could have winged itself anywhere?"
 
-"Oh, I don't know," said Michael, lifting himself lazily;
+"Oh, I don't know," said [[Michael]], lifting himself lazily;
 "you see, you don't know yet what our defence is.
 Till you know that, don't you see, anything may be relevant.
 Why, suppose," he said suddenly, as if an idea had struck him,
@@ -511,19 +511,19 @@ might be of the most massive importance."
 
 He paused with a seriousness which was hardly generally shared,
 and continued with the same fluency:  "Or suppose we wanted to
-maintain that the Warden committed suicide--that he just got Smith
-to hold the pistol as Brutus's slave held the sword.  Why, it would
+maintain that the Warden committed [[suicide]]--that he just got [[smith|Smith]]
+to hold the [[Pistol|pistol]] as [[Brutus]]'s slave held the [[Sword|sword]].  Why, it would
 make all the difference whether the Warden could see himself plain
-in still water.  Still water has made hundreds of suicides:
-one sees oneself so very--well, so very plain."
+in still [[Water|water]].  Still [[Water|water]] has made hundreds of suicides:
+one sees oneself so very--[[Well|well]], so very plain."
 
 "Do you, perhaps," inquired Pym with austere irony, "maintain that
 your client was a bird of some sort--say, a flamingo?"
 
-"In the matter of his being a flamingo," said Moon with sudden severity,
+"In the matter of his being a flamingo," said [[Moon]] with sudden severity,
 "my client reserves his defence."
 
-No one quite knowing what to make of this, Mr. Moon resumed his seat
+No one quite knowing what to make of this, Mr. [[Moon]] resumed his seat
 and Inglewood resumed the reading of his document:--
 
 
@@ -531,14 +531,14 @@ and Inglewood resumed the reading of his document:--
 For a mystic is one who holds that two worlds are better than one.
 In the highest sense, indeed, all thought is reflection.
 
-"This is the real truth, in the saying that second thoughts are best.
-Animals have no second thoughts; man alone is able to see his own
-thought double, as a drunkard sees a lamp-post; man alone is able
-to see his own thought upside down as one sees a house in a puddle.
-This duplication of mentality, as in a mirror, is (we repeat)
-the inmost thing of human philosophy.  There is a mystical, even a
-monstrous truth, in the statement that two heads are better than one.
-But they ought both to grow on the same body."
+"This is the real [[Truth|truth]], in the saying that second thoughts are best.
+[[Animals]] have no second thoughts; man [[Alone|alone]] is able to see his own
+thought [[Double|double]], as a drunkard sees a lamp-post; man [[Alone|alone]] is able
+to see his own thought upside down as one sees a [[house]] in a puddle.
+This duplication of mentality, as in a [[Mirror|mirror]], is (we repeat)
+the inmost thing of human [[philosophy]].  There is a mystical, even a
+monstrous [[Truth|truth]], in the statement that two heads are better than one.
+But they ought both to grow on the same [[Body|body]]."
 
 
 "I know it's a little transcendental at first," interposed Inglewood,
@@ -549,7 +549,7 @@ in collaboration by a don and a--"
 
 "I rather think," proceeded Inglewood with an unruffled
 and critical air, "that this part was written by the don.
-I merely warn the Court that the statement, though indubitably accurate,
+I merely warn the [[Court]] that the statement, though indubitably accurate,
 bears here and there the trace of coming from two authors."
 
 "In that case," said Dr. Pym, leaning back and sniffing,
@@ -557,14 +557,14 @@ bears here and there the trace of coming from two authors."
 
 
 "The undersigned persons think it needless to touch on a kindred
-problem so often discussed at committees for University Reform:
-the question of whether dons see double because they are drunk,
-or get drunk because they see double.  It is enough for them
+problem so often discussed at committees for University [[Reform]]:
+the question of whether dons see [[Double|double]] because they are drunk,
+or get drunk because they see [[Double|double]].  It is enough for them
 (the undersigned persons) if they are able to pursue their own peculiar
 and profitable theme--which is puddles.  What (the undersigned
 persons ask themselves) is a puddle?  A puddle repeats infinity,
 and is full of light; nevertheless, if analyzed objectively,
-a puddle is a piece of dirty water spread very thin on mud.
+a puddle is a piece of dirty [[Water|water]] spread very thin on mud.
 The two great historic universities of England have all this large
 and level and reflective brilliance.  Nevertheless, or, rather, on the
 other hand, they are puddles--puddles, puddles, puddles, puddles.
@@ -576,9 +576,9 @@ Inglewood ignored a somewhat wild expression on the faces of some present,
 and continued with eminent cheerfulness:--
 
 
-"Such were the thoughts that failed to cross the mind of
-the undergraduate Smith as he picked his way among the stripes
-of canal and the glittering rainy gutters into which the water
+"Such were the thoughts that failed to [[Cross|cross]] the mind of
+the undergraduate [[smith|Smith]] as he picked his way among the stripes
+of canal and the glittering rainy gutters into which the [[Water|water]]
 broke up round the back of Brakespeare College.  Had these thoughts
 crossed his mind he would have been much happier than he was.
 Unfortunately he did not know that his puzzles were puddles.
@@ -586,49 +586,49 @@ He did not know that the academic mind reflects infinity and is full
 of light by the simple process of being shallow and standing still.
 In his case, therefore, there was something solemn, and even evil
 about the infinity implied.  It was half-way through a starry
-night of bewildering brilliancy; stars were both above and below.
-To young Smith's sullen fancy the skies below seemed even hollower
+[[Night|night]] of bewildering brilliancy; [[Stars|stars]] were both above and below.
+To young [[smith|Smith]]'s sullen fancy the skies below seemed even hollower
 than the skies above; he had a horrible idea that if he counted
-the stars he would find one too many in the pool.
+the [[Stars|stars]] he would find one too many in the pool.
 
 "In crossing the little paths and bridges he felt like one stepping
 on the black and slender ribs of some cosmic Eiffel Tower.  For to him,
-and nearly all the educated youth of that epoch, the stars were cruel things.
-Though they glowed in the great dome every night, they were an enormous
-and ugly secret; they uncovered the nakedness of nature; they were a glimpse
+and nearly all the educated youth of that epoch, the [[Stars|stars]] were cruel things.
+Though they glowed in the great dome every [[Night|night]], they were an enormous
+and ugly secret; they uncovered the [[Nakedness|nakedness]] of [[Nature|nature]]; they were a glimpse
 of the iron wheels and pulleys behind the scenes.  For the young men
-of that sad time thought that the god always comes from the machine.
-They did not know that in reality the machine only comes from the god.
+of that sad [[Time|time]] thought that the god always comes from the [[Machine|machine]].
+They did not know that in reality the [[Machine|machine]] only comes from the god.
 In short, they were all pessimists, and starlight was atrocious to them--
 atrocious because it was true.  All their universe was black with white spots.
 
-"Smith looked up with relief from the glittering pools below
+"[[smith|Smith]] looked up with relief from the glittering pools below
 to the glittering skies and the great black bulk of the college.
-The only light other than stars glowed through one peacock-green
+The only light other than [[Stars|stars]] glowed through one peacock-green
 curtain in the upper part of the building, marking where
 Dr. Emerson Eames always worked till morning and received
-his friends and favourite pupils at any hour of the night.
-Indeed, it was to his rooms that the melancholy Smith was bound.
-Smith had been at Dr. Eames's lecture for the first half of the morning,
-and at pistol practice and fencing in a saloon for the second half.
+his friends and favourite pupils at any hour of the [[Night|night]].
+Indeed, it was to his rooms that the [[Melancholy|melancholy]] [[smith|Smith]] was bound.
+[[smith|Smith]] had been at Dr. Eames's lecture for the first half of the morning,
+and at [[Pistol|pistol]] practice and fencing in a saloon for the second half.
 He had been sculling madly for the first half of the afternoon
 and thinking idly (and still more madly) for the second half.
 He had gone to a supper where he was uproarious, and on to a debating
-club where he was perfectly insufferable, and the melancholy
-Smith was melancholy still.  Then, as he was going home to his
+club where he was perfectly insufferable, and the [[Melancholy|melancholy]]
+[[smith|Smith]] was [[Melancholy|melancholy]] still.  Then, as he was going [[Home|home]] to his
 diggings he remembered the eccentricity of his friend and master,
 the Warden of Brakespeare, and resolved desperately to turn
-in to that gentleman's private house.
+in to that gentleman's private [[house]].
 
 "Emerson Eames was an eccentric in many ways, but his throne
-in philosophy and metaphysics was of international eminence;
+in [[philosophy]] and metaphysics was of international eminence;
 the university could hardly have afforded to lose him, and, moreover,
 a don has only to continue any of his bad habits long enough
 to make them a part of the British Constitution.  The bad habits
-of Emerson Eames were to sit up all night and to be a student
+of Emerson Eames were to sit up all [[Night|night]] and to be a student
 of Schopenhauer.  Personally, he was a lean, lounging sort of man,
 with a blond pointed beard, not so very much older than his
-pupil Smith in the matter of mere years, but older by centuries
+pupil [[smith|Smith]] in the matter of mere years, but older by centuries
 in the two essential respects of having a European reputation
 and a bald head.
 
@@ -642,7 +642,7 @@ living authority on the pessimist thinkers--'
 "`All thinkers,' said Eames, `are pessimist thinkers.'
 
 "After a patch of pause, not the first--for this depressing conversation
-had gone on for some hours with alternations of cynicism and silence--
+had gone on for some hours with alternations of cynicism and [[Silence|silence]]--
 the Warden continued with his air of weary brilliancy:  `It's all a question
 of wrong calculation.  The moth flies into the candle because he doesn't
 happen to know that the game is not worth the candle.  The wasp gets
@@ -663,13 +663,13 @@ like the man that wanders about the coulisse of a theater.
 He has only opened the wrong door and come into the right place.
 He sees things at the right angle.  But the common world--'
 
-"`Oh, hang the common world!' said the sullen Smith, letting his fist
-fall on the table in an idle despair.
+"`Oh, hang the common world!' said the sullen [[smith|Smith]], letting his fist
+fall on the table in an idle [[Despair|despair]].
 
 "`Let's give it a bad name first,' said the Professor calmly,
 `and then hang it.  A puppy with hydrophobia would probably struggle
 for life while we killed it; but if we were kind we should kill it.
-So an omniscient god would put us out of our pain.
+So an omniscient god would put us out of our [[Pain|pain]].
 He would strike us dead.'
 
 "`Why doesn't he strike us dead?' asked the undergraduate abstractedly,
@@ -692,26 +692,26 @@ Then he saw behind it the chambered barrel and cocked hammer of
 a revolver, and behind that the flushed and rather heavy face of Smith,
 apparently quite unchanged, or even more mild than before.
 
-"`I'll help you out of your hole, old man,' said Smith,
+"`I'll help you out of your hole, old man,' said [[smith|Smith]],
 with rough tenderness.  `I'll put the puppy out of his pain.'
 
 "Emerson Eames retreated towards the window.  `Do you mean
 to kill me?' he cried.
 
 "`It's not a thing I'd do for every one,' said Smith with emotion;
-`but you and I seem to have got so intimate to-night, somehow.
+`but you and I seem to have got so intimate to-[[Night|night]], somehow.
 I know all your troubles now, and the only cure, old chap.'
 
 "`Put that thing down,' shouted the Warden.
 
-"`It'll soon be over, you know,' said Smith with the air of a
-sympathetic dentist.  And as the Warden made a run for the window
+"`It'll soon be over, you know,' said [[smith|Smith]] with the air of a
+sympathetic dentist.  And as the Warden made a run for the [[Window|window]]
 and balcony, his benefactor followed him with a firm step
 and a compassionate expression.
 
 "Both men were perhaps surprised to see that the gray and white
 of early daybreak had already come.  One of them, however,
-had emotions calculated to swallow up surprise.  Brakespeare College
+had emotions calculated to [[Swallow|swallow]] up surprise.  Brakespeare College
 was one of the few that retained real traces of Gothic ornament,
 and just beneath Dr. Eames's balcony there ran out what had perhaps
 been a flying buttress, still shapelessly shaped into gray beasts
@@ -720,15 +720,15 @@ With an ungainly and most courageous leap, Eames sprang out on this
 antique bridge, as the only possible mode of escape from the maniac.
 He sat astride of it, still in his academic gown, dangling his
 long thin legs, and considering further chances of flight.
-The whitening daylight opened under as well as over him that
+The whitening daylight opened under as [[Well|well]] as over him that
 impression of vertical infinity already remarked about the little
 lakes round Brakespeare.  Looking down and seeing the spires
-and chimneys pendent in the pools, they felt alone in space.
+and chimneys pendent in the pools, they felt [[Alone|alone]] in space.
 They felt as if they were looking over the edge from the North Pole
 and seeing the South Pole below.
 
 "`Hang the world, we said,' observed Smith, `and the world is hanged.
-"He has hanged the world upon nothing," says the Bible.  Do you like being
+"He has hanged the world upon nothing," says the [[Bible]].  Do you like being
 hanged upon nothing?  I'm going to be hanged upon something myself.
 I'm going to swing for you... Dear, tender old phrase,' he murmured;
 `never true till this moment.  I am going to swing for you.
@@ -741,10 +741,10 @@ For you, dear friend.  For your sake.  At your express desire.'
 and kinder than he,' and he sighted his weapon so as exactly to cover
 the upper part of Eames's bald head.
 
-"`Smith,' said the philosopher with a sudden change to a sort
+"`[[smith|Smith]],' said the philosopher with a sudden change to a sort
 of ghastly lucidity, `I shall go mad.'
 
-"`And so look at things from the right angle,' observed Smith,
+"`And so look at things from the right angle,' observed [[smith|Smith]],
 sighing gently.  `Ah, but madness is only a palliative at best,
 a drug.  The only cure is an operation--an operation that is
 always successful:  death.'
@@ -782,7 +782,7 @@ as he might have called to a student to shut a door.
 
 "`Let me come off this place,' he cried; `I can't bear it.'
 
-"`I rather doubt if it will bear you,' said Smith critically;
+"`I rather [[Doubt|doubt]] if it will bear you,' said [[smith|Smith]] critically;
 `but before you break your neck, or I blow out your brains,
 or let you back into this room (on which complex points I
 am undecided) I want the metaphysical point cleared up.
@@ -791,9 +791,9 @@ Do I understand that you want to get back to life?'
 "`I'd give anything to get back,' replied the unhappy professor.
 
 "`Give anything!' cried Smith; `then, blast your impudence,
-give us a song!'
+give us a [[Song|song]]!'
 
-"`What song do you mean?' demanded the exasperated Eames; `what song?'
+"`What song do you mean?' demanded the exasperated Eames; `what [[Song|song]]?'
 
 "`A hymn, I think, would be most appropriate,' answered the other gravely.
 `I'll let you off if you'll repeat after me the words--
@@ -811,24 +811,24 @@ Mr. Eames held them up, very stiffly, but without marked surprise.
 A bird alighting on his stone seat took no more notice of him
 than of a comic statue.
 
-"`You are now engaged in public worship,' remarked Smith severely,
+"`You are now engaged in public worship,' remarked [[smith|Smith]] severely,
 `and before I have done with you, you shall thank God for the very ducks
 on the pond.'
 
 "The celebrated pessimist half articulately expressed his perfect
 readiness to thank God for the ducks on the pond.
 
-"`Not forgetting the drakes,' said Smith sternly.
+"`Not forgetting the drakes,' said [[smith|Smith]] sternly.
 (Eames weakly conceded the drakes.) `Not forgetting anything, please.
 You shall thank heaven for churches and chapels and villas
 and vulgar people and puddles and pots and pans and sticks
 and rags and bones and spotted blinds.'
 
-"`All right, all right,' repeated the victim in despair;
+"`All right, all right,' repeated the victim in [[Despair|despair]];
 `sticks and rags and bones and blinds.'
 
-"`Spotted blinds, I think we said,' remarked Smith with a
-rogueish ruthlessness, and wagging the pistol-barrel at him
+"`Spotted blinds, I think we said,' remarked [[smith|Smith]] with a
+rogueish ruthlessness, and wagging the [[Pistol|pistol]]-barrel at him
 like a long metallic finger.
 
 "`Spotted blinds,' said Emerson Eames faintly.
@@ -845,7 +845,7 @@ so as not to hit you (I am a good shot, you may be glad to hear),
 and then we will go in and have some breakfast.'
 
 "He then let off two barrels in the air, which the Professor
-endured with singular firmness, and then said, `But don't fire
+endured with singular firmness, and then said, `But don't [[Fire|fire]]
 them all off.'
 
 "`Why not' asked the other buoyantly.
@@ -866,18 +866,18 @@ and sitting with his shaggy head on his hands.  When addressed,
 he lifted a very pale face.
 
 "`Why, what is the matter?' asked Eames, whose own nerves had by this
-time twittered themselves quiet, like the morning birds.
+[[Time|time]] twittered themselves quiet, like the morning [[Birds|birds]].
 
 "`I must ask your indulgence,' said Smith, rather brokenly.
-`I must ask you to realize that I have just had an escape from death.'
+`I must ask you to realize that I have just had an escape from [[Death|death]].'
 
 "`YOU have had an escape from death?' repeated the Professor
-in not unpardonable irritation.  `Well, of all the cheek--'
+in not unpardonable irritation.  `[[Well]], of all the cheek--'
 
 "`Oh, don't you understand, don't you understand?' cried the pale
 young man impatiently.  `I had to do it, Eames; I had to prove
 you wrong or die.  When a man's young, he nearly always has
-some one whom he thinks the top-water mark of the mind of man--
+some one whom he thinks the top-[[Water|water]] mark of the mind of man--
 some one who knows all about it, if anybody knows.
 
 "`Well, you were that to me; you spoke with authority,
@@ -887,10 +887,10 @@ nothing anywhere, it was because you had been there to see.
 Don't you see that I HAD to prove you didn't really mean it?--
 or else drown myself in the canal.'
 
-"`Well,' said Eames hesitatingly, `I think perhaps you confuse--'
+"`[[Well]],' said Eames hesitatingly, `I think perhaps you confuse--'
 
-"`Oh, don't tell me that!' cried Smith with the sudden clairvoyance
-of mental pain; `don't tell me I confuse enjoyment of existence
+"`Oh, don't tell me that!' cried [[smith|Smith]] with the sudden clairvoyance
+of mental [[Pain|pain]]; `don't tell me I confuse enjoyment of existence
 with the Will to Live!  That's German, and German is High Dutch,
 and High Dutch is Double Dutch.  The thing I saw shining in your eyes
 when you dangled on that bridge was enjoyment of life and not "the
@@ -905,7 +905,7 @@ won't you admit I'm right?'
 "`Yes', said Eames very slowly, `I think you are right.
 You shall have a First!'
 
-"`Right!' cried Smith, springing up reanimated.  `I've passed
+"`Right!' cried [[smith|Smith]], springing up reanimated.  `I've passed
 with honours, and now let me go and see about being sent down.'
 
 "`You needn't be sent down,' said Eames with the quiet confidence
@@ -921,17 +921,17 @@ but he spoke with equal firmness.  `I must be sent down,' he said,
 
 "`Because I mean to follow your advice,' answered the massive youth,
 `I mean to keep the remaining shots for people in the shameful state
-you and I were in last night--I wish we could even plead drunkenness.
+you and I were in last [[Night|night]]--I wish we could even plead drunkenness.
 I mean to keep those bullets for pessimists--pills for pale people.
 And in this way I want to walk the world like a wonderful surprise--
 to float as idly as the thistledown, and come as silently as the sunrise;
 not to be expected any more than the thunderbolt, not to be
 recalled any more than the dying breeze.  I don't want people to
-anticipate me as a well-known practical joke.  I want both my gifts
-to come virgin and violent, the death and the life after death.
-I am going to hold a pistol to the head of the Modern Man.  But I
+anticipate me as a [[Well|well]]-known practical joke.  I want both my gifts
+to come virgin and violent, the [[Death|death]] and the life after [[Death|death]].
+I am going to hold a [[Pistol|pistol]] to the head of the Modern Man.  But I
 shall not use it to kill him--only to bring him to life.
-I begin to see a new meaning in being the skeleton at the feast.'
+I begin to see a new meaning in being the [[skeleton]] at the feast.'
 
 "`You can scarcely be called a skeleton,' said Dr. Eames, smiling.
 
@@ -956,10 +956,10 @@ the clouds turn pink.'
 "He gripped Dr. Eames's hand and groped his way somewhat unsteadily
 to the door.  Before he had vanished through it he had added,
 `It's very dangerous, though, when a man thinks for a split second
-that he understands death.'
+that he understands [[Death|death]].'
 
 "Dr. Eames remained in repose and rumination some hours after his
-late assailant had left.  Then he rose, took his hat and umbrella,
+late assailant had left.  Then he [[Rose|rose]], took his hat and umbrella,
 and went for a brisk if rotatory walk.  Several times,
 however, he stood outside the villa with the spotted blinds,
 studying them intently with his head slightly on one side.
@@ -971,7 +971,7 @@ in the opinion of the undersigned persons, new in the art of letters.
 Each of the two actors is described as he appeared to the other.
 But the undersigned persons absolutely guarantee the exactitude
 of the story; and if their version of the thing be questioned, they,
-the undersigned persons, would deucedly well like to know who does
+the undersigned persons, would deucedly [[Well|well]] like to know who does
 know about it if they don't.
 
 "The undersigned persons will now adjourn to `The Spotted Dog'
@@ -980,4 +980,4 @@ for beer.  Farewell.
 			      "(Signed) James Emerson Eames,
 		   Warden of Brakespeare College, Cambridge.
 
-					   "Innocent Smith."
+					   "[[Innocent]] [[smith|Smith]]."

@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Terrible Troubadour (part 5)"
+title: "[[MrPond]] — The Terrible Troubadour (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -24,35 +24,35 @@ did not see."
 
 "You have stated it very clearly," said Mr. Pond.  "More clearly
 
-than you know.  But even on the clearest moonlight night, as we
+than you know.  But even on the clearest moonlight [[Night|night]], as we
 
 agreed, shadows can be very deceptive."
 
 
 
-"You've said that before," said Sir Hubert rather irritably.
+"You've said that before," said Sir [[Hubert]] rather irritably.
 
 
 
 "And, as I have also said before," observed the unruffled Mr. Pond,
 
-"a shadow is most misleading when it is precisely correct."
+"a [[Shadow|shadow]] is most misleading when it is precisely correct."
 
 
 
-Silence suddenly fell on the group; and the silence became more and
+[[Silence]] suddenly fell on the group; and the [[Silence|silence]] became more and
 
 more tense, for, after these random shots, which seemed so very
 
 random, fired by Mr. Pond as he retired from the argument, everyone
 
-felt that nothing could now delay the main action.  For some time
+felt that nothing could now delay the main action.  For some [[Time|time]]
 
 it looked rather like inaction; for Gahagan, who had been growing
 
 gloomier and gloomier, still sat kicking his heels, as if he had
 
-nothing to say.  And indeed, when sharply called on by Sir Hubert
+nothing to say.  And indeed, when sharply called on by Sir [[Hubert]]
 
 for his statement, he was, at first, understood to declare
 
@@ -122,7 +122,7 @@ was committed by a lot of poor devils on leave from hell; to whom a
 
 holiday was heaven; only it was a very earthly paradise; a little
 
-too like a Moslem paradise.  I did make love to your daughter when
+too like a Moslem paradise.  I did make [[Love|love]] to your daughter when
 
 I had no right to, for I didn't really know my own mind.  None of
 
@@ -140,11 +140,11 @@ paused, as with a new embarrassment.
 
 
 
-"Only my rival wasn't the artist with the long hair," said Gahagan.
+"Only my rival wasn't the [[Artist|artist]] with the long hair," said Gahagan.
 
 
 
-Hubert Wotton again looked up sharply, with a frowning stare; but
+[[Hubert]] Wotton again looked up sharply, with a frowning stare; but
 
 he spoke quietly as he directed Gahagan to tell his story properly
 
@@ -154,15 +154,15 @@ from the start.
 
 "I had better start," said Gahagan, "where the other story started:
 
-just about the time when we both heard the howl of a dog in the
+just about the [[Time|time]] when we both heard the howl of a dog in the
 
-dark garden.  I may explain that I was actually staying with Ayres,
+dark [[Garden|garden]].  I may explain that I was actually staying with Ayres,
 
-the artist, for that night; we had become quite good friends,
+the [[Artist|artist]], for that [[Night|night]]; we had become quite good friends,
 
 really; though there may have been a bit of romantic swagger about
 
-the troubadour business at an earlier time.
+the troubadour business at an earlier [[Time|time]].
 
 
 
@@ -170,11 +170,11 @@ the troubadour business at an earlier time.
 
 how I happened to be cleaning my service revolver.  Ayres was
 
-looking through some of his sketch-books; and I left him at it when
+looking through some of his [[Sketch|sketch]]-books; and I left him at it when
 
 I went out, just as Mr. Whiteways looked out, in casual curiosity,
 
-over that sudden noise in the night.  Only I heard what he did not
+over that sudden noise in the [[Night|night]].  Only I heard what he did not
 
 hear.  I not only heard what sounded like the howl of a dog, but I
 
@@ -190,15 +190,15 @@ the face of Paul Green, that distinguished man of science.  He is
 
 distinguished and he looks distinguished; I remember thinking, at
 
-the time, what a fine head he had, and that the silver moulding of
+the [[Time|time]], what a fine head he had, and that the silver moulding of
 
-his features under the moon made them quite beautiful.  I had a
+his features under the [[Moon|moon]] made them quite beautiful.  I had a
 
 reason for having my attention thus arrested by that silvery mask,
 
 for, at that precise moment, it wore a sort of smile of hatred that
 
-turned one's blood cold.
+turned one's [[Blood|blood]] cold.
 
 
 
@@ -206,13 +206,13 @@ turned one's blood cold.
 
 vicar's, except that I did not see everything which happened just
 
-behind my back.  But I swung round in time to see that somebody had
+behind my back.  But I swung round in [[Time|time]] to see that somebody had
 
 run across the path, and begun to climb the creeper.  He climbed it
 
 very quickly, much quicker than I had done, but it was not easy to
 
-see him or recognize him in the dark shadow of the leaves.
+see him or recognize him in the dark [[Shadow|shadow]] of the [[Leaves|leaves]].
 
 
 
@@ -222,13 +222,13 @@ high-shouldered stoop that has been described; then I saw, as the
 
 vicar did, the head emerge clear of the foliage, only outlined by
 
-the moon with a sort of bristly halo of hair.  Only then, for the
+the [[Moon|moon]] with a sort of bristly halo of hair.  Only then, for the
 
-second time that night, I saw what the vicar did not see.  The
+second [[Time|time]] that [[Night|night]], I saw what the vicar did not see.  The
 
-Romeo, the climbing troubadour, turned his head, and, for a moment,
+[[Romeo]], the climbing troubadour, turned his head, and, for a moment,
 
-I saw it in profile, a black shape against the moon.  And I said to
+I saw it in profile, a black shape against the [[Moon|moon]].  And I said to
 
 myself:  'My God!  It's a dog, after all.'"
 

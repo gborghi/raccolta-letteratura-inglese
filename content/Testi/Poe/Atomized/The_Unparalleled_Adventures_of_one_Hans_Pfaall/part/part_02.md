@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 2)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -16,15 +16,15 @@ tags:
 
       of a circular rim reaching as high as the breast, and rigged on
 
-      to the cords of the balloon. The body of the little man was more
+      to the cords of the balloon. The [[Body|body]] of the little man was more
 
       than proportionately broad, giving to his entire figure a
 
       rotundity highly absurd. His feet, of course, could not be seen
 
-      at all, although a horny substance of suspicious nature was
+      at all, although a horny substance of suspicious [[Nature|nature]] was
 
-      occasionally protruded through a rent in the bottom of the car,
+      occasionally protruded through a rent in the [[Bottom|bottom]] of the car,
 
       or to speak more properly, in the top of the hat. His hands were
 
@@ -36,7 +36,7 @@ tags:
 
       cheeks, although wrinkled with age, were broad, puffy, and
 
-      double; but of ears of any kind or character there was not a
+      [[Double|double]]; but of ears of any kind or character there was not a
 
       semblance to be discovered upon any portion of his head. This odd
 
@@ -48,7 +48,7 @@ tags:
 
       white taffety cap was set jauntily on one side of his head; and,
 
-      to complete his equipment, a blood-red silk handkerchief
+      to complete his equipment, a [[Blood|blood]]-red silk handkerchief
 
       enveloped his throat, and fell down, in a dainty manner, upon his
 
@@ -112,15 +112,15 @@ tags:
 
       one-and-twenty distinct and furious whiffs from his pipe, to
 
-      which he held fast the whole time with all his might, and to
+      which he held fast the whole [[Time|time]] with all his might, and to
 
-      which he intends holding fast until the day of his death.
+      which he intends holding fast until the day of his [[Death|death]].
 
 
 
       In the meantime the balloon arose like a lark, and, soaring far
 
-      away above the city, at length drifted quietly behind a cloud
+      away above the [[City|city]], at length drifted quietly behind a cloud
 
       similar to that from which it had so oddly emerged, and was thus
 
@@ -156,7 +156,7 @@ tags:
 
       “To their Excellencies Von Underduk and Rub-a-dub, President and
 
-      Vice-President of the States’ College of Astronomers, in the city
+      Vice-President of the States’ College of Astronomers, in the [[City|city]]
 
       of Rotterdam.
 
@@ -174,7 +174,7 @@ tags:
 
       however, it so please your Excellencies, I, the writer of this
 
-      communication, am the identical Hans Pfaall himself. It is well
+      communication, am the identical Hans Pfaall himself. It is [[Well|well]]
 
       known to most of my fellow citizens, that for the period of forty
 
@@ -182,16 +182,16 @@ tags:
 
       the head of the alley called Sauerkraut, in which I resided at
 
-      the time of my disappearance. My ancestors have also resided
+      the [[Time|time]] of my disappearance. My ancestors have also resided
 
-      therein time out of mind—they, as well as myself, steadily
+      therein [[Time|time]] out of mind—they, as [[Well|well]] as myself, steadily
 
       following the respectable and indeed lucrative profession of
 
-      mending of bellows. For, to speak the truth, until of late years,
+      [[mending]] of bellows. For, to speak the [[Truth|truth]], until of late years,
 
       that the heads of all the people have been set agog with
 
       politics, no better business than my own could an honest citizen
 
-      of Rotterdam either desire or deserve. Credit was good,
+      of Rotterdam either [[Desire|desire]] or deserve. Credit was good,

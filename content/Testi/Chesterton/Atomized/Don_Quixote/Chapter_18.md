@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 17"
+title: "[[Don Quixote]] — Chapter 17"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -16,12 +16,12 @@ tags:
 
 CHAPTER XVII
 
-THE DEPARTURE OF DON QUIXOTE
+THE DEPARTURE OF [[Don Quixote|DON QUIXOTE]]
 
 And all this first hubbub, the two noblemen who had been named sat
 as still and stiff as mummies; though the reason of the rigidity
 might differ.  Lord Seawood was simply gaping; he wore such an
-expression as the human head might wear if the body were suddenly
+expression as the human head might wear if the [[Body|body]] were suddenly
 blown away from under it and it were left hanging in midair.
 The judge might be joking; but it was not so that a judge should joke.
 And if he was not joking . . . where was earth and air and sky?
@@ -35,9 +35,9 @@ of it goes.  Here again it is essential to understand such
 statements with a certain logical precision.  If we are defining
 or describing a Craft or Trade, as it originally was and as it
 reasonably should be, that is the statement and we ask no other.
-The government of such a craft or trade rests of right with the master
+The [[government]] of such a craft or trade rests of right with the master
 craftsmen and master traders.  But the old order recognised other
-rights as well; and among them the right of private property.
+rights as [[Well|well]]; and among them the right of private property.
 The craftsman worked and the trader traded with his own private property.
 In a case like the present, we must admit that even if the abstract
 right of management ought to belong to the workers, the materials
@@ -61,7 +61,7 @@ for securing the whole of any particular material in the market.
 Outside such crimes, however, which were often severely
 punished by the pillory and even by the gallows, the personal
 possession of wealth was accepted as normal; and I cannot see
-any reasonable doubt that the personal wealth of these three
+any reasonable [[Doubt|doubt]] that the personal wealth of these three
 persons is what is actually being employed in this industry.
 It is, I may remark, the greater part of their personal wealth.
 Two of them are the titular owners of large landed estates;
@@ -76,21 +76,21 @@ from the chemical works where these by-products are used.
 It only remains to ask by what form of commercial enterprise
 such a superiority has been achieved."
 
-A curious change had come over the audience by this time.
+A curious change had come over the audience by this [[Time|time]].
 Most of them, lulled by the familiar phrases of the magnificent
 prospectus or commercial report, had nodded themselves
 almost into a slumber of agreement.  But, what was much
-more remarkable, for the first time Lord Seawood was smiling;
+more remarkable, for the first [[Time|time]] Lord Seawood was smiling;
 and Lord Eden was not.
 
 "It so happens that an accident, or rather an adventure
 (one of the most honourable adventures of the new Comrades
 of this Realm) has revealed the facts about a typical test case.
-We actually have before us the history of a master Craftsman
+We actually have before us the [[history]] of a master Craftsman
 of the older sort; one who undoubtedly compounded his own
 pigments with his own hands and in accordance with his own
 taste and judgment; and who produced thereby a particular
-article which the best artists of his time regarded as unique
+article which the best artists of his [[Time|time]] regarded as unique
 and which later artists have tried in vain to replace.
 The article is not sold by the Coal-Tar Colour and Dye Company.
 The man is not in any way profited, or even employed,
@@ -100,7 +100,7 @@ to that Masterpiece?  What has happened to that Master?
 "From information laid before me by the gallant gentlemen I
 have mentioned, I am in a position to say what happened to them.
 The man was beaten down to a condition of beggary,
-was so much broken by despair as to be accused of insanity;
+was so much broken by [[Despair|despair]] as to be accused of insanity;
 and it is perfectly clear that the methods employed to drive him
 from his shop and his livelihood were the methods of which I
 have spoken; the buying up of materials before they could
@@ -116,7 +116,7 @@ Then he named the three again formally and at length in a hard voice;
 but upon the name of Lord Seawood his voice seemed for an instant
 to break.  He did not look at any face in the crowd.
 
-"On this second point, therefore, the Court of Arbitrament decides that
+"On this second point, therefore, the [[Court]] of Arbitrament decides that
 the private property employed in this business is not lawfully acquired;
 and cannot plead, as it normally would, the privilege of just possession.
 To sum up, it is decreed, first that the craft should be ruled by its
@@ -126,7 +126,7 @@ We shall adjudge to the Guild--."
 
 Old Seawood sprang up as if galvanised; and a simple sort of vainglory
 deeper than all Victorian vanities came gasping to the surface like a
-drowning thing.  He forgot even the snobbish fear of snobbishness.
+drowning thing.  He forgot even the snobbish [[Fear|fear]] of snobbishness.
 
 "I had imagined," he said, stammering with emphasis,
 "that this movement was to restore a true respect for Nobility.
@@ -135,7 +135,7 @@ applied to Nobility."
 
 "Ah," said Herne in a low voice like an aside; "it has come at last."
 
-It seemed as if he spoke for the first time in a human voice,
+It seemed as if he spoke for the first [[Time|time]] in a human voice,
 and the effect was all the stranger because of the strange
 words in which he spoke again.  "I am not a man," he said.
 "I am here only a mouthpiece to make clear the law;
@@ -146,7 +146,7 @@ do not make your claim as nobles and peers."
 "Why not?" cried the boisterous Archer.
 
 "Because about that also," replied Herne, who was deadly pale,
-"you have been fools enough to bid me find out the truth."
+"you have been fools enough to bid me find out the [[Truth|truth]]."
 
 "Oh what the devil does all this mean," cried Archer in his agony.
 
@@ -164,7 +164,7 @@ and you have not forgotten the names you bear."
 "Strangely enough," said the Arbiter, "that is exactly what
 you have done."
 
-There was another enigmatic silence, that seemed to be filled
+There was another enigmatic [[Silence|silence]], that seemed to be filled
 with the staring eyes of Archer and Hanbury; and then the voice of
 the Arbiter was heard once more; but it gave them a new sort of start,
 for it had taken on again the leaden weight of legal exposition.
@@ -187,13 +187,13 @@ He said it in a lifeless and impersonal tone, as if he were
 lecturing to students on the Hittites.  But perhaps it was
 a little overdone; the words with which he went on were rather
 too dead and distinct.  "Their estates have generally been
-obtained quite recently and often by methods of doubtful morality,
-let alone chivalry; by small solicitors and speculators employing
+obtained quite recently and often by methods of doubtful [[morality]],
+let [[Alone|alone]] chivalry; by small solicitors and speculators employing
 various forms of mortgage, of foreclosing and the rest.
 In assuming the estates, these ingenious persons generally
 assumed not only the titles but the names of older families.
 The name of the Eden family is not Eames but Evans.
-The name of the Seawood family is not Severne but Smith."
+The name of the Seawood family is not Severne but [[smith|Smith]]."
 
 And with that Murrel, who had been painfully watching the pale
 face and rigid attitude of the speaker, suddenly muttered
@@ -207,7 +207,7 @@ still be heard.
 "The only two men in this section of the county who can
 claim the nobility, to which appeal has been made,
 are a man now driving an omnibus between here and the town
-of Milldyke and a small green-grocer in the same town.
+of Milldyke and a small green-[[grocer]] in the same town.
 No other person can call himself _Armiger Generosus_ except
 William Pond and George Carter."
 
@@ -219,7 +219,7 @@ Even Braintree, suddenly remembering the solid smile of Old George
 in the Green Dragon, could not control his amusement.
 
 But, as Lord Seawood had accurately remarked, the Arbiter
-of the Court of Arbitrament was deficient in a sense of humour.
+of the [[Court]] of Arbitrament was deficient in a sense of [[Humour|humour]].
 He had never properly studied the back volumes of _Punch._
 
 "I do not know," he said, "why this man's lineage should be ridiculous.
@@ -229,14 +229,14 @@ He has not taken money at usury and laid field to field by chicane,
 served the ruling families like a dog and then fed on the dying families
 like a vulture.  But you--you who come here to grind the faces of the poor
 with your pomposities of property and gentility, and your grand final
-flourish of chivalry--what about you?  You sit in another man's house;
+flourish of chivalry--what about you?  You sit in another man's [[house]];
 you bear another man's name; the blazon of another is on your shield;
 the crest of another is on your gate-posts; your whole story is the story
 of new men in old clothes, and you come here to me to plead against
 justice in the name of your noble ancestry."
 
 The laughter had died down but the noise was even louder;
-there was now no disguise or hesitation about its nature;
+there was now no disguise or hesitation about its [[Nature|nature]];
 all the broken cries had come together; there was a new
 noise of the mob when it changes to the pack in cry.
 Archer and Hanbury and ten or twelve other men were standing
@@ -252,7 +252,7 @@ They make the claim of property and they are not the proprietors.
 They make the claim of nobility and they are not nobles.
 The three pleas are disallowed."
 
-"Well," gasped Archer, "and how long is this to be allowed."
+"[[Well]]," gasped Archer, "and how long is this to be allowed."
 
 The noise had somewhat subsided as in weariness; and each man looked
 at the other as if really wondering what would come next.
@@ -262,7 +262,7 @@ thrust in his trousers' pockets.
 
 "Mention has been made," he said, "of somebody being charged
 with insanity.  I am sorry that a painful scene of the sort
-should have occurred in this place; but isn't it time some
+should have occurred in this place; but isn't it [[Time|time]] some
 humane person interfered?"
 
 "Somebody send for a doctor," cried Archer in a crowing
@@ -281,8 +281,8 @@ the grand finale of all your loyalty and your vows."
 "If," said the Arbiter calmly, "it be an end of your loyalty to me,
 it is not an end of my loyalty to you; or to the law that I have sworn
 to expound.  It is nothing for me to stand down from this seat;
-but it is everything to speak the truth while I stand here;
-and it is less than nothing whether you hate the truth or no."
+but it is everything to speak the [[Truth|truth]] while I stand here;
+and it is less than nothing whether you hate the [[Truth|truth]] or no."
 
 "You were always a play-actor," called out Julian Archer angrily.
 
@@ -300,17 +300,17 @@ were more natural than prose.
 
   "The evil kings sit easy on their thrones
    Shame healed with habit; but what panic aloft
-   What wild white terror if a king were good
-   What staggering of the stars; what prodigy!
+   What wild white terror if a [[King|king]] were good
+   What staggering of the [[Stars|stars]]; what prodigy!
    Men easily endure an unjust master
    But a just master no men will endure
    His nobles shall rise up, his knights betray him,
-   And he go forth, as I go forth, alone."
+   And he go forth, as I go forth, [[Alone|alone]]."
 
 He stood down suddenly from the dais; and seemed to look taller
 for the fall.
 
-"If I cease to be king or judge," he cried, "I shall still be a knight;
+"If I cease to be [[King|king]] or judge," he cried, "I shall still be a knight;
 though it be, as in the play, a knight-errant. But you will all be
 play-actors. Rogues and vagabonds, where did you steal your spurs?"
 
@@ -323,7 +323,7 @@ a dark exultation; but the men about him understood almost
 as little of the decision in their favour as the men in front;
 and in any case the latter were long past letting them intervene.
 And all that chivalric company answered with murmurs or sombre
-silence the appeal of their late leader for support.
+[[Silence|silence]] the appeal of their late leader for support.
 In answer to that call only two of them moved.
 From the outer skirts of the crowd Olive Ashley came
 slowly forward with the movement of a princess and,
@@ -333,7 +333,7 @@ at the white and stony face of the woman who was her friend.
 A moment after Douglas Murrel lounged to his feet with a singular
 grimace and went to stand on the opposite side of the Arbiter.
 They seemed like strange repetitions, and even parodies,
-of the lady and the squire who had held the shield and sword
+of the lady and the squire who had held the shield and [[Sword|sword]]
 on either side of him, on the day when he was crowned.
 
 Standing before his judgment-seat, the judge made one last
@@ -369,7 +369,7 @@ The man in green turned and looked at him with a pale and patient face.
 as if he were addressing a stranger.
 
 "Don't you know me?" asked Murrel.  "Don't you know my name?
-Well, perhaps you don't know my real name."
+[[Well]], perhaps you don't know my real name."
 
 "What do you mean?" asked Herne.
 
@@ -377,7 +377,7 @@ Well, perhaps you don't know my real name."
 
 Twenty minutes later there passed from the lands of
 Lord Seawood a _cortege_ eminently calculated to show
-how the grotesque dogs the footprints of the fantastic.
+how the [[Grotesque|grotesque]] [[dogs]] the footprints of the fantastic.
 For Mr. Douglas Murrel had by no means the intention of losing
 his faculty of enjoying the absurd with a complete gravity.
 The last stage of that exit was worth seeing, though only a few
@@ -385,34 +385,34 @@ of the strayed revellers or rioters were there to see it.
 As soon as Murrel had obtained the post of squire for which
 he petitioned, he vanished behind an adjoining outhouse
 and reappeared perched on the top of his celebrated hansom
-cab and driving its crazy cab-horse. Bowing from his perch
+cab and driving its crazy cab-[[Horse|horse]]. Bowing from his perch
 with the deference of a polished servant, he appeared
 to be inviting his new master to get into the cab.
 But there was to be one more crescendo or bathos and medley
-of the sublime and the ridiculous; for with one last impulse
+of the [[Sublime|sublime]] and the ridiculous; for with one last impulse
 of outrageous solemnity, the knight-errant in green sprang
-astride of the cab-horse and signalled with his lifted spear.
+astride of the cab-[[Horse|horse]] and signalled with his lifted spear.
 
-Like a revelation of lightning, in the instant before annihilating
-laughter came down like night, those who saw it saw a vision
-and a memory, bright and brittle as an instant's resurrection
+Like a revelation of [[Lightning|lightning]], in the instant before annihilating
+laughter came down like [[Night|night]], those who saw it saw a vision
+and a [[Memory|memory]], bright and brittle as an instant's [[Resurrection|resurrection]]
 of the dead.  The bones of the gaunt, high-featured face,
 the flame-like fork of the beard, the hollow and almost
 frantic eyes, were in a setting that startled with recognition;
 rigid above the saddle of Rosinante, tall and in tattered arms
 he lifted that vain lance that for three hundred years has
 taught us nothing but to laugh at the shaking of the spear.
-And behind him rose a vast yawning shadow like the very vision
-of that leviathan of laughter; the grotesque cab like the jaws
-of a derisive dragon pursuing him for ever, as the vast shadow
-of caricature pursues our desperate dignity and beauty,
+And behind him [[Rose|rose]] a vast yawning [[Shadow|shadow]] like the very vision
+of that leviathan of laughter; the [[Grotesque|grotesque]] cab like the jaws
+of a derisive dragon pursuing him for ever, as the vast [[Shadow|shadow]]
+of caricature pursues our desperate dignity and [[Beauty|beauty]],
 hanging above him for ever threatening like the wave of the world;
 and over all, the lesser and lighter human spirit, not unkindly,
 looking down on all that is most high.
 
 And yet, though that towering and toppling appendage of absurdity
 was dragged behind him like an overwhelming load, for that instant
-of time it was erased and forgotten, in the force and appalling
+of [[Time|time]] it was erased and forgotten, in the force and appalling
 passion of his face.
 
 -^-

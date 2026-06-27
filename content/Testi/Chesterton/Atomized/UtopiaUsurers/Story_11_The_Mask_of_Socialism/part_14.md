@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 14)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 14)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-Germany is full of this sort of legislation; and if you asked an
+[[Germany]] is full of this sort of legislation; and if you asked an
 
-innocent German, who honestly believed in it, what it was, he would
+[[Innocent|innocent]] German, who honestly believed in it, what it was, he would
 
 answer that it was for the protection of workmen.
 
@@ -32,7 +32,7 @@ employed person _from his employer_. Much less is there any idea of his
 
 ever being anywhere except under an employer. Whatever the Capitalist
 
-wants he gets. He may have the sense to want washed and well-fed
+wants he gets. He may have the sense to want washed and [[Well|well]]-fed
 
 labourers rather than dirty and feeble ones, and the restrictions may
 
@@ -66,7 +66,7 @@ rank is more horrid than many hyenas. They are designed, my friends, to
 
 protect a man from himself--from something that the masters of the earth
 
-fear more than famine or war, and which Prussia especially fears as
+[[Fear|fear]] more than famine or war, and which Prussia especially fears as
 
 everything fears that which would certainly be its end. They are meant
 
@@ -76,7 +76,7 @@ man against his manhood.
 
 
 
-And if anyone reminds me that there is a Socialist Party in Germany, I
+And if anyone reminds me that there is a Socialist Party in [[Germany]], I
 
 reply that there isn't.
 
@@ -92,7 +92,7 @@ THE EMPIRE OF THE IGNORANT
 
 
 
-That anarchic future which the more timid Tories professed to fear has
+That anarchic future which the more timid Tories professed to [[Fear|fear]] has
 
 already fallen upon us. We are ruled by ignorant people. But the most
 
@@ -104,7 +104,7 @@ it with the smallest petulance or even distaste; these classes are
 
 often really beneficent in their breeding or their hospitality, or their
 
-humanity to animals.
+humanity to [[Animals|animals]].
 
 
 
@@ -120,7 +120,7 @@ though they _are_ gentlemen. But when one looks up at any mass of the
 
 wealthier and more powerful classes, at the Grand Stand at Epsom, at
 
-the windows of Park-lane, at the people at a full-dress debate or a
+the windows of Park-lane, at the people at a full-dress [[debate]] or a
 
 fashionable wedding, we shall be safe in saying that they are, for the
 
@@ -138,7 +138,7 @@ It is indeed their feeble boast that they are not literally illiterate.
 
 They are always saying the ancient barons could not sign their own
 
-names--for they know less of history perhaps than of anything else. The
+names--for they know less of [[history]] perhaps than of anything else. The
 
 modern barons, however, can sign their own names--or someone else's for
 
@@ -146,13 +146,13 @@ a change. They can sign their own names; and that is about all they can
 
 do. They cannot face a fact, or follow an argument, or feel a tradition;
 
-but, least of all, can they, upon any persuasion, read through a plain
+but, least of all, can they, upon any [[Persuasion|persuasion]], read through a plain
 
 impartial book, English or foreign, that is not specially written to
 
-soothe their panic or to please their pride. Looking up at these seats
+soothe their panic or to please their [[Pride|pride]]. Looking up at these seats
 
-of the mighty I can only say, with something of despair, what Robert
+of the mighty I can only say, with something of [[Despair|despair]], what Robert
 
 Lowe said of the enfranchised workmen: "We must educate our masters."
 
@@ -194,11 +194,11 @@ the precision and fineness of touch which only manual craftsmanship can
 
 give. The housewives who flatly refused to cook the hot dinner knew how
 
-much or how little, cold meat there was in the house. The sailor who
+much or how little, cold meat there was in the [[house]]. The sailor who
 
 defied discipline by mutinying at the Nore did not defy discipline in
 
-the sense of falling off the rigging or letting the water into the hold.
+the sense of falling off the rigging or letting the [[Water|water]] into the hold.
 
 Similarly the modern proletariat, however little it may know, knows what
 
@@ -224,6 +224,6 @@ the landlord will define Rent as rigidly as Ricardo. The doctors can
 
 always tell them the Latin for an empty stomach; and when the poor man
 
-is treated for the time with some human respect (by the Coroner) it
+is treated for the [[Time|time]] with some human respect (by the Coroner) it
 
 almost seems a pity he is not alive to hear how legally he died.

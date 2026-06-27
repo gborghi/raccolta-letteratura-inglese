@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — SCIENCE AND RELIGION"
+title: "[[AllThingsConsidered-8]] — SCIENCE AND RELIGION"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -25,19 +25,19 @@ a watering-place; it is his affair to say that certain results of health
 will follow if we do go to a watering-place. After that, obviously,
 it is for us to judge.  Physical science is like simple addition:
 it is either infallible or it is false.  To mix science up with
-philosophy is only to produce a philosophy that has lost all its
+[[philosophy]] is only to produce a [[philosophy]] that has lost all its
 ideal value and a science that has lost all its practical value.
 I want my private physician to tell me whether this or that food
 will kill me.  It is for my private philosopher to tell me whether
 I ought to be killed.  I apologise for stating all these truisms.
-But the truth is, that I have just been reading a thick pamphlet
+But the [[Truth|truth]] is, that I have just been reading a thick pamphlet
 written by a mass of highly intelligent men who seem never to have
 heard of any of these truisms in their lives.
 
 Those who detest the harmless writer of this column are generally reduced
 (in their final ecstasy of anger) to calling him "brilliant;" which has
 long ago in our journalism become a mere expression of contempt.
-But I am afraid that even this disdainful phrase does me too much honour.
+But I am afraid that even this disdainful phrase does me too much [[Honour|honour]].
 I am more and more convinced that I suffer, not from a shiny or
 showy impertinence, but from a simplicity that verges upon imbecility.
 I think more and more that I must be very dull, and that everybody else
@@ -50,7 +50,7 @@ Either they must be talking about some black and bestial religion
 in which they were brought up, and of which I never even heard,
 or else they must be talking about some blazing and blinding vision
 of God which they have found, which I have never found, and which by
-its very splendour confuses their logic and confounds their speech.
+its very splendour confuses their [[logic]] and confounds their speech.
 But the best instance I can quote of the thing is in connection
 with this matter of the business of physical science on the earth,
 of which I have just spoken.  The following words are written over
@@ -74,7 +74,7 @@ You do not boil him until he gives forth the unmistakable green
 fumes of depravity.  How could physical science find any traces
 of a moral fall?  What traces did the writer expect to find?
 Did he expect to find a fossil Eve with a fossil apple inside her?
-Did he suppose that the ages would have spared for him a complete skeleton
+Did he suppose that the ages would have spared for him a complete [[skeleton]]
 of Adam attached to a slightly faded fig-leaf?  The whole paragraph
 which I have quoted is simply a series of inconsequent sentences,
 all quite untrue in themselves and all quite irrelevant to each other.
@@ -100,9 +100,9 @@ the bones of the Archangel Gabriel, who presumably had none,
 therefore little boys, left to themselves, will not be selfish."
 To me it is all wild and whirling; as if a man said--"The plumber
 can find nothing wrong with our piano; so I suppose that my wife
-does love me."
+does [[Love|love]] me."
 
-I am not going to enter here into the real doctrine of original sin,
+I am not going to enter here into the real doctrine of [[Original Sin|original sin]],
 or into that probably false version of it which the New Theology
 writer calls the doctrine of depravity.  But whatever else
 the worst doctrine of depravity may have been, it was a product of
@@ -110,14 +110,14 @@ spiritual conviction; it had nothing to do with remote physical origins.
 Men thought mankind wicked because they felt wicked themselves.
 If a man feels wicked, I cannot see why he should suddenly feel
 good because somebody tells him that his ancestors once had tails.
-Man's primary purity and innocence may have dropped off with his tail,
+Man's primary purity and [[innocence]] may have dropped off with his tail,
 for all anybody knows.  The only thing we all know about that primary
-purity and innocence is that we have not got it.  Nothing can be,
+purity and [[innocence]] is that we have not got it.  Nothing can be,
 in the strictest sense of the word, more comic than to set so shadowy
 a thing as the conjectures made by the vaguer anthropologists about
 primitive man against so solid a thing as the human sense of sin.
-By its nature the evidence of Eden is something that one cannot find.
-By its nature the evidence of sin is something that one
+By its [[Nature|nature]] the evidence of Eden is something that one cannot find.
+By its [[Nature|nature]] the evidence of sin is something that one
 cannot help finding.
 
 Some statements I disagree with; others I do not understand.
@@ -129,17 +129,17 @@ his remark conveys no meaning to my mind.  It is like saying,
 "I wish to abolish roads because I am a moderate walker."
 If a man says, "I am not a Trinitarian," I understand.
 But if he says (as a lady once said to me), "I believe
-in the Holy Ghost in a spiritual sense," I go away dazed.
-In what other sense could one believe in the Holy Ghost?  And I
+in the Holy [[Ghost]] in a spiritual sense," I go away dazed.
+In what other sense could one believe in the Holy [[Ghost]]?  And I
 am sorry to say that this pamphlet of progressive religious views
 is full of baffling observations of that kind.  What can people
 mean when they say that science has disturbed their view of sin?
 What sort of view of sin can they have had before science disturbed it?
 Did they think that it was something to eat?  When people say that
-science has shaken their faith in immortality, what do they mean?
-Did they think that immortality was a gas?
+science has shaken their [[Faith|faith]] in [[Immortality|immortality]], what do they mean?
+Did they think that [[Immortality|immortality]] was a gas?
 
-Of course the real truth is that science has introduced no new
+Of course the real [[Truth|truth]] is that science has introduced no new
 principle into the matter at all.  A man can be a Christian to the end
 of the world, for the simple reason that a man could have been
 an Atheist from the beginning of it.  The materialism of things is on
@@ -153,4 +153,4 @@ that they eat, is to a thoughtful mind somewhat difficult to discover.
 My chief objection to these semi-scientific revolutionists is that they
 are not at all revolutionary.  They are the party of platitude.
 They do not shake religion:  rather religion seems to shake them.
-They can only answer the great paradox by repeating the truism.
+They can only answer the great [[Paradox|paradox]] by repeating the truism.

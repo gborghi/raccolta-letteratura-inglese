@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 3)"
+title: "[[David Copperfield]] — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -22,8 +22,8 @@ very little (which I thought exceedingly suspicious), even in words. I
 found a great many foxes, disparaging whole vineyards of inaccessible
 grapes; but I found very few foxes whom I would have trusted within
 reach of a bunch. Above all, I found that the most professing men were
-the greatest objects of interest; and that their conceit, their vanity,
-their want of excitement, and their love of deception (which many
+the greatest objects of interest; and that their conceit, their [[Vanity|vanity]],
+their want of excitement, and their [[Love|love]] of [[Deception|deception]] (which many
 of them possessed to an almost incredible extent, as their histories
 showed), all prompted to these professions, and were all gratified by
 them.
@@ -39,19 +39,19 @@ and of the beautiful letters he constantly wrote to his mother (whom he
 seemed to consider in a very bad way), that I became quite impatient to
 see him.
 
-I had to restrain my impatience for some time, on account of Twenty
+I had to restrain my impatience for some [[Time|time]], on account of Twenty
 Seven being reserved for a concluding effect. But, at last, we came to
 the door of his cell; and Mr. Creakle, looking through a little hole in
 it, reported to us, in a state of the greatest admiration, that he was
-reading a Hymn Book.
+reading a [[Hymn]] Book.
 
 There was such a rush of heads immediately, to see Number Twenty Seven
-reading his Hymn Book, that the little hole was blocked up, six or seven
+reading his [[Hymn]] Book, that the little hole was blocked up, six or seven
 heads deep. To remedy this inconvenience, and give us an opportunity of
 conversing with Twenty Seven in all his purity, Mr. Creakle directed the
 door of the cell to be unlocked, and Twenty Seven to be invited out into
 the passage. This was done; and whom should Traddles and I then behold,
-to our amazement, in this converted Number Twenty Seven, but Uriah Heep!
+to our amazement, in this converted Number Twenty Seven, but [[Uriah Heep]]!
 
 He knew us directly; and said, as he came out--with the old writhe,--
 
@@ -61,17 +61,17 @@ This recognition caused a general admiration in the party. I rather
 thought that everyone was struck by his not being proud, and taking
 notice of us.
 
-‘Well, Twenty Seven,’ said Mr. Creakle, mournfully admiring him. ‘How do
+‘[[Well]], Twenty Seven,’ said Mr. Creakle, mournfully admiring him. ‘How do
 you find yourself today?’
 
-‘I am very umble, sir!’ replied Uriah Heep.
+‘I am very umble, sir!’ replied [[Uriah Heep]].
 
 ‘You are always so, Twenty Seven,’ said Mr. Creakle.
 
 Here, another gentleman asked, with extreme anxiety: ‘Are you quite
 comfortable?’
 
-‘Yes, I thank you, sir!’ said Uriah Heep, looking in that direction.
+‘Yes, I thank you, sir!’ said [[Uriah Heep]], looking in that direction.
 ‘Far more comfortable here, than ever I was outside. I see my follies,
 now, sir. That’s what makes me comfortable.’
 
@@ -93,7 +93,7 @@ light shining upon us all at once, orders were given to let out Twenty
 Eight.
 
 I had been so much astonished already, that I only felt a kind of
-resigned wonder when Mr. Littimer walked forth, reading a good book!
+resigned [[Wonder|wonder]] when Mr. Littimer walked forth, reading a good book!
 
 ‘Twenty Eight,’ said a gentleman in spectacles, who had not yet spoken,
 ‘you complained last week, my good fellow, of the cocoa. How has it been
@@ -102,7 +102,7 @@ since?’
 ‘I thank you, sir,’ said Mr. Littimer, ‘it has been better made. If I
 might take the liberty of saying so, sir, I don’t think the milk which
 is boiled with it is quite genuine; but I am aware, sir, that there is
-a great adulteration of milk, in London, and that the article in a pure
+a great adulteration of milk, in [[London]], and that the article in a pure
 state is difficult to be obtained.’
 
 It appeared to me that the gentleman in spectacles backed his Twenty
@@ -114,7 +114,7 @@ spectacles.
 
 ‘I thank you, sir,’ returned Mr. Littimer; ‘I see my follies now, sir.
 I am a good deal troubled when I think of the sins of my former
-companions, sir; but I trust they may find forgiveness.’
+companions, sir; but I trust they may find [[Forgiveness|forgiveness]].’
 
 ‘You are quite happy yourself?’ said the questioner, nodding
 encouragement.
@@ -129,10 +129,10 @@ deceived me, there is a gentleman present who was acquainted with me
 in my former life. It may be profitable to that gentleman to know, sir,
 that I attribute my past follies, entirely to having lived a thoughtless
 life in the service of young men; and to having allowed myself to be led
-by them into weaknesses, which I had not the strength to resist. I hope
+by them into weaknesses, which I had not the strength to resist. I [[Hope|hope]]
 that gentleman will take warning, sir, and will not be offended at my
-freedom. It is for his good. I am conscious of my own past follies. I
-hope he may repent of all the wickedness and sin to which he has been a
+[[Freedom|freedom]]. It is for his good. I am conscious of my own past follies. I
+[[Hope|hope]] he may repent of all the wickedness and sin to which he has been a
 party.’
 
 I observed that several gentlemen were shading their eyes, each with one

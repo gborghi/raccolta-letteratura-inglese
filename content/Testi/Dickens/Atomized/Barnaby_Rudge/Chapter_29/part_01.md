@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 29 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 29 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -19,12 +19,12 @@ Chapter 29
 
 The thoughts of worldly men are for ever regulated by a moral law of
 gravitation, which, like the physical one, holds them down to earth. The
-bright glory of day, and the silent wonders of a starlit night, appeal
-to their minds in vain. There are no signs in the sun, or in the moon,
-or in the stars, for their reading. They are like some wise men, who,
+bright glory of day, and the silent wonders of a starlit [[Night|night]], appeal
+to their minds in vain. There are no signs in the sun, or in the [[Moon|moon]],
+or in the [[Stars|stars]], for their reading. They are like some wise men, who,
 learning to know each planet by its Latin name, have quite forgotten
-such small heavenly constellations as Charity, Forbearance, Universal
-Love, and Mercy, although they shine by night and day so brightly that
+such small heavenly constellations as [[Charity]], Forbearance, Universal
+[[Love]], and [[Mercy]], although they shine by [[Night|night]] and day so brightly that
 the blind may see them; and who, looking upward at the spangled sky,
 see nothing there but the reflection of their own great wisdom and
 book-learning.
@@ -32,7 +32,7 @@ book-learning.
 It is curious to imagine these people of the world, busy in thought,
 turning their eyes towards the countless spheres that shine above us,
 and making them reflect the only images their minds contain. The man who
-lives but in the breath of princes, has nothing in his sight but stars for
+lives but in the breath of princes, has nothing in his sight but [[Stars|stars]] for
 courtiers’ breasts. The envious man beholds his neighbours’ honours
 even in the sky; to the money-hoarder, and the mass of worldly folk, the
 whole great universe above glitters with sterling coin--fresh from the
@@ -41,34 +41,34 @@ heaven, turn where they may. So do the shadows of our own desires stand
 between us and our better angels, and thus their brightness is eclipsed.
 
 Everything was fresh and gay, as though the world were but that morning
-made, when Mr Chester rode at a tranquil pace along the Forest road.
+made, when Mr Chester rode at a tranquil pace along the Forest [[Road|road]].
 Though early in the season, it was warm and genial weather; the trees
 were budding into leaf, the hedges and the grass were green, the air was
-musical with songs of birds, and high above them all the lark poured
+musical with [[songs]] of [[Birds|birds]], and high above them all the lark poured
 out her richest melody. In shady spots, the morning dew sparkled on
 each young leaf and blade of grass; and where the sun was shining, some
 diamond drops yet glistened brightly, as in unwillingness to leave so
-fair a world, and have such brief existence. Even the light wind, whose
-rustling was as gentle to the ear as softly-falling water, had its hope
+fair a world, and have such brief existence. Even the light [[Wind|wind]], whose
+rustling was as gentle to the ear as softly-falling [[Water|water]], had its [[Hope|hope]]
 and promise; and, leaving a pleasant fragrance in its track as it went
-fluttering by, whispered of its intercourse with Summer, and of his
+fluttering by, whispered of its intercourse with [[Summer]], and of his
 happy coming.
 
 The solitary rider went glancing on among the trees, from sunlight
 into shade and back again, at the same even pace--looking about him,
-certainly, from time to time, but with no greater thought of the day
+certainly, from [[Time|time]] to [[Time|time]], but with no greater thought of the day
 or the scene through which he moved, than that he was fortunate (being
 choicely dressed) to have such favourable weather. He smiled very
 complacently at such times, but rather as if he were satisfied with
 himself than with anything else: and so went riding on, upon his
-chestnut cob, as pleasant to look upon as his own horse, and probably
+chestnut cob, as pleasant to look upon as his own [[Horse|horse]], and probably
 far less sensitive to the many cheerful influences by which he was
 surrounded.
 
-In the course of time, the Maypole’s massive chimneys rose upon his
+In the course of [[Time|time]], the Maypole’s massive chimneys [[Rose|rose]] upon his
 view: but he quickened not his pace one jot, and with the same cool
 gravity rode up to the tavern porch. John Willet, who was toasting
-his red face before a great fire in the bar, and who, with surpassing
+his red face before a great [[Fire|fire]] in the bar, and who, with surpassing
 foresight and quickness of apprehension, had been thinking, as he looked
 at the blue sky, that if that state of things lasted much longer, it
 might ultimately become necessary to leave off fires and throw the
@@ -85,8 +85,8 @@ after.’
 he dismounted, and acknowledging his salute by a careless motion of his
 hand towards his hat. ‘Why don’t you make HIM useful?’
 
-‘Why, the truth is, sir,’ replied John with great importance, ‘that my
-son--what, you’re a-listening are you, villain?’
+‘Why, the [[Truth|truth]] is, sir,’ replied John with great importance, ‘that my
+son--what, you’re a-listening are you, [[Villain|villain]]?’
 
 ‘Who’s listening?’ returned Hugh angrily. ‘A treat, indeed, to hear YOU
 speak! Would you have me take him in till he’s cool?’
@@ -101,9 +101,9 @@ you, pretty soon.’
 
 Hugh shrugged his shoulders scornfully, and in his reckless swaggering
 way, crossed to the other side of the little green, and there, with
-the bridle slung loosely over his shoulder, led the horse to and fro,
+the bridle slung loosely over his shoulder, led the [[Horse|horse]] to and fro,
 glancing at his master every now and then from under his bushy eyebrows,
-with as sinister an aspect as one would desire to see.
+with as sinister an aspect as one would [[Desire|desire]] to see.
 
 Mr Chester, who, without appearing to do so, had eyed him attentively
 during this brief dispute, stepped into the porch, and turning abruptly
@@ -112,26 +112,26 @@ to Mr Willet, said,
 ‘You keep strange servants, John.’
 
 ‘Strange enough to look at, sir, certainly,’ answered the host; ‘but out
-of doors; for horses, dogs, and the likes of that; there an’t a better
+of doors; for horses, [[dogs]], and the likes of that; there an’t a better
 man in England than is that Maypole Hugh yonder. He an’t fit for
 indoors,’ added Mr Willet, with the confidential air of a man who felt
-his own superior nature. ‘I do that; but if that chap had only a little
-imagination, sir--’
+his own superior [[Nature|nature]]. ‘I do that; but if that chap had only a little
+[[Imagination|imagination]], sir--’
 
 ‘He’s an active fellow now, I dare swear,’ said Mr Chester, in a musing
 tone, which seemed to suggest that he would have said the same had there
 been nobody to hear him.
 
 ‘Active, sir!’ retorted John, with quite an expression in his face;
-‘that chap! Hallo there! You, sir! Bring that horse here, and go and
+‘that chap! Hallo there! You, sir! Bring that [[Horse|horse]] here, and go and
 hang my wig on the weathercock, to show this gentleman whether you’re
 one of the lively sort or not.’
 
 Hugh made no answer, but throwing the bridle to his master, and
 snatching his wig from his head, in a manner so unceremonious and hasty
 that the action discomposed Mr Willet not a little, though performed at
-his own special desire, climbed nimbly to the very summit of the maypole
-before the house, and hanging the wig upon the weathercock, sent it
+his own special [[Desire|desire]], climbed nimbly to the very summit of the maypole
+before the [[house]], and hanging the wig upon the weathercock, sent it
 twirling round like a roasting jack. Having achieved this performance,
 he cast it on the ground, and sliding down the pole with inconceivable
 rapidity, alighted on his feet almost as soon as it had touched the

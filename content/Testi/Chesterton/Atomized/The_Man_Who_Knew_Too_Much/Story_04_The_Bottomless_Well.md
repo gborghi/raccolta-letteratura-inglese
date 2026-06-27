@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Bottomless Well"
+title: "The Man Who Knew Too Much — The Bottomless [[Well]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-IV - The Bottomless Well
+IV - The Bottomless [[Well]]
 *
 In an oasis, or green island, in the red and yellow seas of sand
 
@@ -28,7 +28,7 @@ British occupation. The site is famous among archaeologists for
 
 something that is hardly a monument, but merely a hole in the
 
-ground. But it is a round shaft, like that of a well, and probably a
+ground. But it is a round shaft, like that of a [[Well|well]], and probably a
 
 part of some great irrigation works of remote and disputed date,
 
@@ -36,7 +36,7 @@ perhaps more ancient than anything in that ancient land. There is a
 
 green fringe of palm and prickly pear round the black mouth of the
 
-well; but nothing of the upper masonry remains except two bulky and
+[[Well|well]]; but nothing of the upper masonry remains except two bulky and
 
 battered stones standing like the pillars of a gateway of nowhere,
 
@@ -56,7 +56,7 @@ of those assembled in such a place for official and military
 
 purposes have hobbies other than archaeology. And it is a solemn
 
-fact that the English in this Eastern exile have contrived to make a
+fact that the English in this Eastern [[Exile|exile]] have contrived to make a
 
 small golf links out of the green scrub and sand; with a comfortable
 
@@ -74,7 +74,7 @@ their interludes of talking and smoking cigarettes, and one of them
 
 had just come down from the clubhouse to find another gazing
 
-somewhat moodily into the well.
+somewhat moodily into the [[Well|well]].
 Both the Englishmen wore light clothes and white pith helmets and
 
 puggrees, but there, for the most part, their resemblance ended. And
@@ -83,7 +83,7 @@ they both almost simultaneously said the same word, but they said it
 
 on two totally different notes of the voice.
 "Have you heard the news?" asked the man from the club. "Splendid."
-"Splendid," replied the man by the well. But the first man
+"Splendid," replied the man by the [[Well|well]]. But the first man
 
 pronounced the word as a young man might say it about a woman, and
 
@@ -104,7 +104,7 @@ certainly an older resident, a civilian official—Horne Fisher; and
 
 his drooping eyelids and drooping light mustache expressed all the
 
-paradox of the Englishman in the East. He was much too hot to be
+[[Paradox|paradox]] of the Englishman in the East. He was much too hot to be
 
 anything but cool.
 Neither of them thought it necessary to mention what it was that was
@@ -115,15 +115,15 @@ something that everybody knew. The striking victory over a menacing
 
 combination of Turks and Arabs in the north, won by troops under the
 
-command of Lord Hastings, the veteran of so many striking victories,
+command of Lord [[Hastings]], the veteran of so many striking victories,
 
-was already spread by the newspapers all over the Empire, let alone
+was already spread by the newspapers all over the Empire, let [[Alone|alone]]
 
-to this small garrison so near to the battlefield.
+to this small garrison so near to the [[Battlefield|battlefield]].
 "Now, no other nation in the world could have done a thing like
 
 that," cried Captain Boyle, emphatically.
-Horne Fisher was still looking silently into the well; a moment
+Horne Fisher was still looking silently into the [[Well|well]]; a moment
 
 later he answered: "We certainly have the art of unmaking mistakes.
 
@@ -133,7 +133,7 @@ mistakes and stick to them. There is really a certain talent in
 
 unmaking a mistake."
 "What do you mean," asked Boyle, "what mistakes?"
-"Well, everybody knows it looked like biting off more than he could
+"[[Well]], everybody knows it looked like biting off more than he could
 
 chew," replied Horne Fisher. It was a peculiarity of Mr. Fisher that
 
@@ -141,7 +141,7 @@ he always said that everybody knew things which about one person in
 
 two million was ever allowed to hear of. "And it was certainly jolly
 
-lucky that Travers turned up so well in the nick of time. Odd how
+lucky that Travers turned up so [[Well|well]] in the nick of [[Time|time]]. Odd how
 
 often the right thing's been done for us by the second in command,
 
@@ -151,7 +151,7 @@ Waterloo."
 "It ought to add a whole province to the Empire," observed the
 
 other.
-"Well, I suppose the Zimmernes would have insisted on it as far as
+"[[Well]], I suppose the Zimmernes would have insisted on it as far as
 
 the canal," observed Fisher, thoughtfully, "though everybody knows
 
@@ -161,7 +161,7 @@ Captain Boyle frowned in a slightly puzzled fashion. Being cloudily
 conscious of never having heard of the Zimmernes in his life, he
 
 could only remark, stolidly:
-"Well, one can't be a Little Englander."
+"[[Well]], one can't be a Little Englander."
 Horne Fisher smiled, and he had a pleasant smile.
 "Every man out here is a Little Englander," he said. "He wishes he
 
@@ -170,7 +170,7 @@ were back in Little England."
 
 younger man, rather suspiciously. "One would think you didn't really
 
-admire Hastings or—or—anything."
+admire [[Hastings]] or—or—anything."
 "I admire him no end," replied Fisher. "He's by far the best man
 
 for this post; he understands the Moslems and can do anything with
@@ -185,23 +185,23 @@ frankly.
 
 "and, anyhow, we needn't talk politics. Do you know the Arab legend
 
-about that well?"
+about that [[Well|well]]?"
 "I'm afraid I don't know much about Arab legends," said Boyle,
 
 rather stiffly.
 "That's rather a mistake," replied Fisher, "especially from your
 
-point of view. Lord Hastings himself is an Arab legend. That is
+point of view. Lord [[Hastings]] himself is an Arab legend. That is
 
 perhaps the very greatest thing he really is. If his reputation went
 
-it would weaken us all over Asia and Africa. Well, the story about
+it would weaken us all over Asia and Africa. [[Well]], the story about
 
 that hole in the ground, that goes down nobody knows where, has
 
 always fascinated me, rather. It's Mohammedan in form now, but I
 
-shouldn't wonder if the tale is a long way older than Mohammed. It's
+shouldn't [[Wonder|wonder]] if the tale is a long way older than Mohammed. It's
 
 all about somebody they call the Sultan Aladdin, not our friend of
 
@@ -211,7 +211,7 @@ or giants or something of that sort. They say he commanded the
 
 giants to build him a sort of pagoda, rising higher and higher above
 
-all the stars. The Utmost for the Highest, as the people said when
+all the [[Stars|stars]]. The Utmost for the Highest, as the people said when
 
 they built the Tower of Babel. But the builders of the Tower of
 
@@ -225,19 +225,19 @@ above it, and go on rising for ever and ever. And Allah cast him
 
 down to earth with a thunderbolt, which sank into the earth, boring
 
-a hole deeper and deeper, till it made a well that was without a
+a hole deeper and deeper, till it made a [[Well|well]] that was without a
 
-bottom as the tower was to have been without a top. And down that
+[[Bottom|bottom]] as the tower was to have been without a top. And down that
 
-inverted tower of darkness the soul of the proud Sultan is falling
+inverted tower of darkness the [[Soul|soul]] of the proud Sultan is falling
 
 forever and ever."
 "What a queer chap you are," said Boyle. "You talk as if a fellow
 
 could believe those fables."
-"Perhaps I believe the moral and not the fable," answered Fisher.
+"Perhaps I believe the moral and not the [[Fable|fable]]," answered Fisher.
 
-"But here comes Lady Hastings. You know her, I think."
+"But here comes Lady [[Hastings]]. You know her, I think."
 The clubhouse on the golf links was used, of course, for many other
 
 purposes besides that of golf. It was the only social center of the
@@ -254,7 +254,7 @@ silver and face of bronze, like that of a brazen eagle, were often
 
 to be found bent over the charts and folios of the library. The
 
-great Lord Hastings believed in science and study, as in other
+great Lord [[Hastings]] believed in science and study, as in other
 
 severe ideals of life, and had given much paternal advice on the
 
@@ -268,7 +268,7 @@ of the library on to the golf links. But, above all, the club was so
 
 appointed as to serve the social conveniences of ladies at least as
 
-much as gentlemen, and Lady Hastings was able to play the queen in
+much as gentlemen, and Lady [[Hastings]] was able to play the [[Queen|queen]] in
 
 such a society almost as much as in her own ballroom. She was
 
@@ -282,7 +282,7 @@ looked after her a little sardonically as she swept away with the
 
 young soldier. Then his rather dreary eye strayed to the green and
 
-prickly growths round the well, growths of that curious cactus
+prickly growths round the [[Well|well]], growths of that curious cactus
 
 formation in which one thick leaf grows directly out of the other
 
@@ -290,13 +290,13 @@ without stalk or twig. It gave his fanciful mind a sinister feeling
 
 of a blind growth without shape or purpose. A flower or shrub in the
 
-West grows to the blossom which is its crown, and is content. But
+West grows to the blossom which is its [[Crown|crown]], and is content. But
 
 this was as if hands could grow out of hands or legs grow out of
 
-legs in a nightmare. "Always adding a province to the Empire," he
+legs in a [[nightmare]]. "Always adding a province to the Empire," he
 
-said, with a smile, and then added, more sadly, "but I doubt if I
+said, with a smile, and then added, more sadly, "but I [[Doubt|doubt]] if I
 
 was right, after all!"
 A strong but genial voice broke in on his meditations and he looked
@@ -351,7 +351,7 @@ the little boys in the street."
 "I never knew you taken like this before."
 "I'm ashamed of myself," replied Fisher. "I've just been throwing
 
-cold water on the enthusiasms of a boy."
+cold [[Water|water]] on the enthusiasms of a boy."
 "Even that explanation is hardly exhaustive," observed the criminal
 
 expert.
@@ -369,14 +369,14 @@ of the rut of the most rotten ideal."
 
 direction," answered Fisher; "a pretty endless sort of direction, a
 
-bottomless pit as deep as the bottomless well."
+bottomless pit as deep as the bottomless [[Well|well]]."
 Fisher did not see his friend until a fortnight later, when he found
 
-himself in the garden at the back of the clubhouse on the opposite
+himself in the [[Garden|garden]] at the back of the clubhouse on the opposite
 
-side from the links, a garden heavily colored and scented with sweet
+side from the links, a [[Garden|garden]] heavily colored and scented with sweet
 
-semitropical plants in the glow of a desert sunset. Two other men
+semitropical plants in the glow of a [[Desert|desert]] sunset. Two other men
 
 were with him, the third being the now celebrated second in command,
 
@@ -403,20 +403,20 @@ impression of something sinister, in spite of his agreeable smile.
 
 when the man had gone away. "It's very unjust, I take it, for he was
 
-certainly devoted to Hastings, and saved his life, they say. But
+certainly devoted to [[Hastings]], and saved his life, they say. But
 
 Arabs are often like that, loyal to one man. I can't help feeling he
 
 might cut anybody else's throat, and even do it treacherously."
-"Well," said Travers, with a rather sour smile, "so long as he
+"[[Well]]," said Travers, with a rather sour smile, "so long as he
 
-leaves Hastings alone the world won't mind much."
-There was a rather embarrassing silence, full of memories of the
+[[Leaves|leaves]] [[Hastings]] [[Alone|alone]] the world won't mind much."
+There was a rather embarrassing [[Silence|silence]], full of memories of the
 
 great battle, and then Horne Fisher said, quietly:
 "The newspapers aren't the world, Tom. Don't you worry about them.
 
-Everybody in your world knows the truth well enough."
+Everybody in your world knows the [[Truth|truth]] [[Well|well]] enough."
 "I think we'd better not talk about the general just now," remarked
 
 Grayne, "for he's just coming out of the club."
@@ -427,15 +427,15 @@ As he spoke, indeed, the lady came out on the steps of the club,
 
 followed by her husband, who then went swiftly in front of her to
 
-open the garden gate. As he did so she turned back and spoke for a
+open the [[Garden|garden]] gate. As he did so she turned back and spoke for a
 
-moment to a solitary man still sitting in a cane chair in the shadow
+moment to a solitary man still sitting in a cane chair in the [[Shadow|shadow]]
 
 of the doorway, the only man left in the deserted club save for the
 
-three that lingered in the garden. Fisher peered for a moment into
+three that lingered in the [[Garden|garden]]. Fisher peered for a moment into
 
-the shadow, and saw that it was Captain Boyle.
+the [[Shadow|shadow]], and saw that it was Captain Boyle.
 The next moment, rather to their surprise, the general reappeared
 
 and, remounting the steps, spoke a word or two to Boyle in his turn.
@@ -451,19 +451,19 @@ showed that the electric lamps had been turned on in the library
 beyond.
 "Coffee and scientific researches," said Travers, grimly. "All the
 
-luxuries of learning and theoretical research. Well, I must be
+luxuries of learning and theoretical research. [[Well]], I must be
 
-going, for I have my work to do as well." And he got up rather
+going, for I have my work to do as [[Well|well]]." And he got up rather
 
 stiffly, saluted his companions, and strode away into the dusk.
-"I only hope Boyle is sticking to scientific researches," said Horne
+"I only [[Hope|hope]] Boyle is sticking to scientific researches," said Horne
 
 Fisher. "I'm not very comfortable about him myself. But let's talk
 
 about something else."
 They talked about something else longer than they probably imagined,
 
-until the tropical night had come and a splendid moon painted the
+until the tropical [[Night|night]] had come and a splendid [[Moon|moon]] painted the
 
 whole scene with silver; but before it was bright enough to see by
 
@@ -471,14 +471,14 @@ Fisher had already noted that the lights in the library had been
 
 abruptly extinguished. He waited for the two men to come out by the
 
-garden entrance, but nobody came.
+[[Garden|garden]] entrance, but nobody came.
 "They must have gone for a stroll on the links," he said.
 "Very possibly," replied Grayne. "It's going to be a beautiful
 
-night."
+[[Night|night]]."
 A moment or two after he had spoken they heard a voice hailing them
 
-out of the shadow of the clubhouse, and were astonished to perceive
+out of the [[Shadow|shadow]] of the clubhouse, and were astonished to perceive
 
 Travers hurrying toward them, calling out as he came:
 "I shall want your help, you fellows," he cried. "There's something
@@ -486,7 +486,7 @@ Travers hurrying toward them, calling out as he came:
 pretty bad out on the links."
 They found themselves plunging through the club smoking room and the
 
-library beyond, in complete darkness, mental as well as material.
+library beyond, in complete darkness, mental as [[Well|well]] as material.
 
 But Horne Fisher, in spite of his affectation of indifference, was a
 
@@ -516,7 +516,7 @@ the library; on one of them stood the two cups of coffee, and on
 
 another a large open book. It was Budge's book on Egyptian
 
-hieroglyphics, with colored plates of strange birds and gods, and
+hieroglyphics, with colored plates of strange [[Birds|birds]] and gods, and
 
 even as he rushed past, he was conscious of something odd about the
 
@@ -524,29 +524,29 @@ fact that this, and not any work of military science, should be open
 
 in that place at that moment. He was even conscious of the gap in
 
-the well-lined bookshelf from which it had been taken, and it seemed
+the [[Well|well]]-lined bookshelf from which it had been taken, and it seemed
 
 almost to gape at him in an ugly fashion, like a gap in the teeth of
 
 some sinister face.
 A run brought them in a few minutes to the other side of the ground
 
-in front of the bottomless well, and a few yards from it, in a
+in front of the bottomless [[Well|well]], and a few yards from it, in a
 
 moonlight almost as broad as daylight, they saw what they had come
 
 to see.
-The great Lord Hastings lay prone on his face, in a posture in which
+The great Lord [[Hastings]] lay prone on his face, in a posture in which
 
 there was a touch of something strange and stiff, with one elbow
 
-erect above his body, the arm being doubled, and his big, bony hand
+erect above his [[Body|body]], the arm being doubled, and his big, bony hand
 
 clutching the rank and ragged grass. A few feet away was Boyle,
 
 almost as motionless, but supported on his hands and knees, and
 
-staring at the body. It might have been no more than shock and
+staring at the [[Body|body]]. It might have been no more than shock and
 
 accident; but there was something ungainly and unnatural about the
 
@@ -554,9 +554,9 @@ quadrupedal posture and the gaping face. It was as if his reason had
 
 fled from him. Behind, there was nothing but the clear blue southern
 
-sky, and the beginning of the desert, except for the two great
+sky, and the beginning of the [[Desert|desert]], except for the two great
 
-broken stones in front of the well. And it was in such a light and
+broken stones in front of the [[Well|well]]. And it was in such a light and
 
 atmosphere that men could fancy they traced in them enormous and
 
@@ -565,11 +565,11 @@ Horne Fisher stooped and touched the strong hand that was still
 
 clutching the grass, and it was as cold as a stone. He knelt by the
 
-body and was busy for a moment applying other tests; then he rose
+[[Body|body]] and was busy for a moment applying other tests; then he [[Rose|rose]]
 
-again, and said, with a sort of confident despair:
-"Lord Hastings is dead."
-There was a stony silence, and then Travers remarked, gruffly: "This
+again, and said, with a sort of confident [[Despair|despair]]:
+"Lord [[Hastings]] is dead."
+There was a stony [[Silence|silence]], and then Travers remarked, gruffly: "This
 
 is your department, Grayne; I will leave you to question Captain
 
@@ -579,7 +579,7 @@ Boyle had pulled himself together and risen to his feet, but his
 face still wore an awful expression, making it like a new mask or
 
 the face of another man.
-"I was looking at the well," he said, "and when I turned he had
+"I was looking at the [[Well|well]]," he said, "and when I turned he had
 
 fallen down."
 Grayne's face was very dark. "As you say, this is my affair," he
@@ -587,7 +587,7 @@ Grayne's face was very dark. "As you say, this is my affair," he
 said. "I must first ask you to help me carry him to the library and
 
 let me examine things thoroughly."
-When they had deposited the body in the library, Grayne turned to
+When they had deposited the [[Body|body]] in the library, Grayne turned to
 
 Fisher and said, in a voice that had recovered its fullness and
 
@@ -620,24 +620,24 @@ And with these apparently meaningless words he turned to the shaken
 Boyle and, taking his arm, began to walk him up and down in the
 
 moonlight, talking in low tones.
-Dawn had begun to break abrupt and white when Cuthbert Grayne turned
+[[Dawn]] had begun to break abrupt and white when Cuthbert Grayne turned
 
 out the lights in the library and came out on to the links. Fisher
 
-was lounging about alone, in his listless fashion; but the police
+was lounging about [[Alone|alone]], in his listless fashion; but the police
 
 messenger for whom he had sent was standing at attention in the
 
 background.
 "I sent Boyle off with Travers," observed Fisher, carelessly; "he'll
 
-look after him, and he'd better have some sleep, anyhow."
+look after him, and he'd better have some [[Sleep|sleep]], anyhow."
 "Did you get anything out of him?" asked Grayne. "Did he tell you
 
-what he and Hastings were doing?"
+what he and [[Hastings]] were doing?"
 "Yes," answered Fisher, "he gave me a pretty clear account, after
 
-all. He said that after Lady Hastings went off in the car the
+all. He said that after Lady [[Hastings]] went off in the car the
 
 general asked him to take coffee with him in the library and look up
 
@@ -649,13 +649,13 @@ found it in one of the bookshelves on the wall. After looking at
 
 some of the plates they went out, it would seem, rather abruptly, on
 
-to the links, and walked toward the old well; and while Boyle was
+to the links, and walked toward the old [[Well|well]]; and while Boyle was
 
 looking into it he heard a thud behind him, and turned round to find
 
 the general lying as we found him. He himself dropped on his knees
 
-to examine the body, and then was paralyzed with a sort of terror
+to examine the [[Body|body]], and then was paralyzed with a sort of terror
 
 and could not come nearer to it or touch it. But I think very little
 
@@ -664,15 +664,15 @@ of that; people caught in a real shock of surprise are sometimes
 found in the queerest postures."
 Grayne wore a grim smile of attention, and said, after a short
 
-silence:
-"Well, he hasn't told you many lies. It's really a creditably clear
+[[Silence|silence]]:
+"[[Well]], he hasn't told you many lies. It's really a creditably clear
 
 and consistent account of what happened, with everything of
 
 importance left out."
 "Have you discovered anything in there?" asked Fisher.
 "I have discovered everything," answered Grayne.
-Fisher maintained a somewhat gloomy silence, as the other resumed
+Fisher maintained a somewhat gloomy [[Silence|silence]], as the other resumed
 
 his explanation in quiet and assured tones.
 "You were quite right, Fisher, when you said that young fellow was
@@ -681,15 +681,15 @@ in danger of going down dark ways toward the pit. Whether or no, as
 
 you fancied, the jolt you gave to his view of the general had
 
-anything to do with it, he has not been treating the general well
+anything to do with it, he has not been treating the general [[Well|well]]
 
-for some time. It's an unpleasant business, and I don't want to
+for some [[Time|time]]. It's an unpleasant business, and I don't want to
 
 dwell on it; but it's pretty plain that his wife was not treating
 
-him well, either. I don't know how far it went, but it went as far
+him [[Well|well]], either. I don't know how far it went, but it went as far
 
-as concealment, anyhow; for when Lady Hastings spoke to Boyle it was
+as concealment, anyhow; for when Lady [[Hastings]] spoke to Boyle it was
 
 to tell him she had hidden a note in the Budge book in the library.
 
@@ -701,19 +701,19 @@ a scene, of course. And Boyle was confronted with something else; he
 
 was confronted with an awful alternative, in which the life of one
 
-old man meant ruin and his death meant triumph and even happiness."
-"Well," observed Fisher, at last, "I don't blame him for not telling
+old man meant ruin and his [[Death|death]] meant triumph and even happiness."
+"[[Well]]," observed Fisher, at last, "I don't blame him for not telling
 
 you the woman's part of the story. But how do you know about the
 
 letter?"
-"I found it on the general's body," answered Grayne, "but I found
+"I found it on the general's [[Body|body]]," answered Grayne, "but I found
 
-worse things than that. The body had stiffened in the way rather
+worse things than that. The [[Body|body]] had stiffened in the way rather
 
 peculiar to poisons of a certain Asiatic sort. Then I examined the
 
-coffee cups, and I knew enough chemistry to find poison in the dregs
+coffee cups, and I knew enough chemistry to find [[Poison|poison]] in the dregs
 
 of one of them. Now, the General went straight to the bookcase,
 
@@ -721,13 +721,13 @@ leaving his cup of coffee on the bookstand in the middle of the
 
 room. While his back was turned, and Boyle was pretending to examine
 
-the bookstand, he was left alone with the coffee cup. The poison
+the bookstand, he was left [[Alone|alone]] with the coffee cup. The [[Poison|poison]]
 
 takes about ten minutes to act, and ten minutes' walk would bring
 
-them to the bottomless well."
-"Yes," remarked Fisher, "and what about the bottomless well?"
-"What has the bottomless well got to do with it?" asked his friend.
+them to the bottomless [[Well|well]]."
+"Yes," remarked Fisher, "and what about the bottomless [[Well|well]]?"
+"What has the bottomless [[Well|well]] got to do with it?" asked his friend.
 "It has nothing to do with it," replied Fisher. "That is what I
 
 find utterly confounding and incredible."
@@ -747,14 +747,14 @@ be just as true to say I sent Travers in charge of Boyle."
 observed Horne Fisher, with a curious indifference.
 "Man, you're not saying what you mean," cried Grayne. "I tell you I
 
-found the poison in one of the coffee cups."
+found the [[Poison|poison]] in one of the coffee cups."
 "There was always Said, of course," added Fisher, "either for hatred
 
 or hire. We agreed he was capable of almost anything."
 "And we agreed he was incapable of hurting his master," retorted
 
 Grayne.
-"Well, well," said Fisher, amiably, "I dare say you are right; but I
+"[[Well]], [[Well|well]]," said Fisher, amiably, "I dare say you are right; but I
 
 should just like to have a look at the library and the coffee cups."
 He passed inside, while Grayne turned to the policeman in attendance
@@ -781,7 +781,7 @@ Very few people, if any, had ever seen Mr. Horne Fisher behave as he
 
 behaved just then. He flashed a glance at the door, saw that the
 
-open window was nearer, went out of it with a flying leap, as if
+open [[Window|window]] was nearer, went out of it with a flying leap, as if
 
 over a hurdle, and went racing across the turf, in the track of the
 
@@ -794,11 +794,11 @@ limpness and air of leisure. He was fanning himself slowly with a
 piece of paper, the telegram he had so violently intercepted.
 "Lucky I stopped that," he observed. "We must keep this affair as
 
-quiet as death. Hastings must die of apoplexy or heart disease."
+quiet as [[Death|death]]. [[Hastings]] must die of apoplexy or heart disease."
 "What on earth is the trouble?" demanded the other investigator.
 "The trouble is," said Fisher, "that in a few days we should have
 
-had a very agreeable alternative—of hanging an innocent man or
+had a very agreeable alternative—of hanging an [[Innocent|innocent]] man or
 
 knocking the British Empire to hell."
 "Do you mean to say," asked Grayne, "that this infernal crime is not
@@ -812,15 +812,15 @@ with admirable skill, old chap, and nearly all you said was true.
 
 Two men with two coffee cups did go into the library and did put
 
-their cups on the bookstand and did go together to the well, and one
+their cups on the bookstand and did go together to the [[Well|well]], and one
 
-of them was a murderer and had put poison in the other's cup. But it
+of them was a murderer and had put [[Poison|poison]] in the other's cup. But it
 
 was not done while Boyle was looking at the revolving bookcase. He
 
 did look at it, though, searching for the Budge book with the note
 
-in it, but I fancy that Hastings had already moved it to the shelves
+in it, but I fancy that [[Hastings]] had already moved it to the shelves
 
 on the wall. It was part of that grim game that he should find it
 
@@ -845,7 +845,7 @@ round as easily as the world goes round. Yes, very much as the
 
 world goes round, for the hand that turned it was not his. God, who
 
-turns the wheel of all the stars, touched that wheel and brought it
+turns the [[Wheel|wheel]] of all the [[Stars|stars]], touched that [[Wheel|wheel]] and brought it
 
 full circle, that His dreadful justice might return."
 "I am beginning," said Grayne, slowly, "to have some hazy and
@@ -860,19 +860,19 @@ noticed, which his enemy had not noticed, which nobody had noticed.
 The two coffee cups had exactly changed places."
 The rocky face of Grayne seemed to have sustained a shock in
 
-silence; not a line of it altered, but his voice when it came was
+[[Silence|silence]]; not a line of it altered, but his voice when it came was
 
 unexpectedly weakened.
 "I see what you mean," he said, "and, as you say, the less said
 
-about it the better. It was not the lover who tried to get rid of
+about it the better. It was not the [[Lover|lover]] who tried to get rid of
 
 the husband, but—the other thing. And a tale like that about a man
 
 like that would ruin us here. Had you any guess of this at the
 
 start?"
-"The bottomless well, as I told you," answered Fisher, quietly;
+"The bottomless [[Well|well]], as I told you," answered Fisher, quietly;
 
 "that was what stumped me from the start. Not because it had
 
@@ -881,11 +881,11 @@ He paused a moment, as if choosing an approach, and then went on:
 
 "When a man knows his enemy will be dead in ten minutes, and takes
 
-him to the edge of an unfathomable pit, he means to throw his body
+him to the edge of an unfathomable pit, he means to throw his [[Body|body]]
 
-into it. What else should he do? A born fool would have the sense to
+into it. What else should he do? A born [[Fool|fool]] would have the sense to
 
-do it, and Boyle is not a born fool. Well, why did not Boyle do it?
+do it, and Boyle is not a born [[Fool|fool]]. [[Well]], why did not Boyle do it?
 
 The more I thought of it the more I suspected there was some mistake
 
@@ -909,36 +909,36 @@ Fisher. "He is a very brilliant and successful journalist. But for
 
 all that he's a thoroughly honorable man, so you must not tell him
 
-the truth."
+the [[Truth|truth]]."
 Half an hour later Fisher was again walking to and fro in front of
 
-the clubhouse, with Captain Boyle, the latter by this time with a
+the clubhouse, with Captain Boyle, the latter by this [[Time|time]] with a
 
 very buffeted and bewildered air; perhaps a sadder and a wiser man.
 "What about me, then?" he was saying. "Am I cleared? Am I not going
 
 to be cleared?"
-"I believe and hope," answered Fisher, "that you are not going to be
+"I believe and [[Hope|hope]]," answered Fisher, "that you are not going to be
 
 suspected. But you are certainly not going to be cleared. There must
 
 be no suspicion against him, and therefore no suspicion against you.
 
-Any suspicion against him, let alone such a story against him, would
+Any suspicion against him, let [[Alone|alone]] such a story against him, would
 
-knock us endways from Malta to Mandalay. He was a hero as well as a
+knock us endways from Malta to Mandalay. He was a [[Hero|hero]] as [[Well|well]] as a
 
 holy terror among the Moslems. Indeed, you might almost call him a
 
-Moslem hero in the English service. Of course he got on with them
+Moslem [[Hero|hero]] in the English service. Of course he got on with them
 
-partly because of his own little dose of Eastern blood; he got it
+partly because of his own little dose of Eastern [[Blood|blood]]; he got it
 
 from his mother, the dancer from Damascus; everybody knows that."
 "Oh," repeated Boyle, mechanically, staring at him with round eyes,
 
 "everybody knows that."
-"I dare say there was a touch of it in his jealousy and ferocious
+"I dare say there was a touch of it in his [[Jealousy|jealousy]] and ferocious
 
 vengeance," went on Fisher. "But, for all that, the crime would ruin
 
@@ -946,7 +946,7 @@ us among the Arabs, all the more because it was something like a
 
 crime against hospitality. It's been hateful for you and it's pretty
 
-horrid for me. But there are some things that damned well can't be
+horrid for me. But there are some things that damned [[Well|well]] can't be
 
 done, and while I'm alive that's one of them."
 "What do you mean?" asked Boyle, glancing at him curiously. "Why
@@ -969,11 +969,11 @@ with no lies to help it. You talked as if everything always went
 
 right with us all over the world, in a triumphant crescendo
 
-culminating in Hastings. I tell you everything has gone wrong with
+culminating in [[Hastings]]. I tell you everything has gone wrong with
 
-us here, except Hastings. He was the one name we had left to conjure
+us here, except [[Hastings]]. He was the one name we had left to conjure
 
-with, and that mustn't go as well, no, by God! It's bad enough that
+with, and that mustn't go as [[Well|well]], no, by God! It's bad enough that
 
 a gang of infernal Jews should plant us here, where there's no
 
@@ -985,21 +985,21 @@ It's bad enough that an old pawnbroker from Bagdad should make us
 
 fight his battles; we can't fight with our right hand cut off. Our
 
-one score was Hastings and his victory, which was really somebody
+one score was [[Hastings]] and his victory, which was really somebody
 
 else's victory. Tom Travers has to suffer, and so have you."
-Then, after a moment's silence, he pointed toward the bottomless
+Then, after a moment's [[Silence|silence]], he pointed toward the bottomless
 
-well and said, in a quieter tone:
-"I told you that I didn't believe in the philosophy of the Tower of
+[[Well|well]] and said, in a quieter tone:
+"I told you that I didn't believe in the [[philosophy]] of the Tower of
 
 Aladdin. I don't believe in the Empire growing until it reaches the
 
-sky; I don't believe in the Union Jack going up and up eternally
+sky; I don't believe in the [[Union]] Jack going up and up eternally
 
-like the Tower. But if you think I am going to let the Union Jack go
+like the Tower. But if you think I am going to let the [[Union]] Jack go
 
-down and down eternally, like the bottomless well, down into the
+down and down eternally, like the bottomless [[Well|well]], down into the
 
 blackness of the bottomless pit, down in defeat and derision, amid
 
@@ -1014,7 +1014,7 @@ married twenty Yankee Jewesses, not if Woodville and Carstairs had
 shares in twenty swindling mines. If the thing is really tottering,
 
 God help it, it mustn't be we who tip it over."
-Boyle was regarding him with a bewilderment that was almost fear,
+Boyle was regarding him with a bewilderment that was almost [[Fear|fear]],
 
 and had even a touch of distaste.
 "Somehow," he said, "there seems to be something rather horrid about
@@ -1029,4 +1029,4 @@ responsible for your not being hanged, I don't know that you need
 complain of it."
 And, as if a little ashamed of his first boast, he turned and
 
-strolled away toward the bottomless well.
+strolled away toward the bottomless [[Well|well]].

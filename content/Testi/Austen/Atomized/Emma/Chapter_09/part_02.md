@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 9 (part 2)"
+title: "[[Emma]] — Chapter 9 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -24,7 +24,7 @@ Thy ready wit the word will soon supply.
 
 
 Humph—Harriet’s ready wit! All the better. A man must be very much in
-love, indeed, to describe her so. Ah! Mr. Knightley, I wish you had the
+[[Love|love]], indeed, to describe her so. Ah! Mr. Knightley, I wish you had the
 benefit of this; I think this would convince you. For once in your life
 you would be obliged to own yourself mistaken. An excellent charade
 indeed! and very much to the purpose. Things must come to a crisis soon
@@ -37,10 +37,10 @@ eagerness of Harriet’s wondering questions.
 “What can it be, Miss Woodhouse?—what can it be? I have not an idea—I
 cannot guess it in the least. What can it possibly be? Do try to find
 it out, Miss Woodhouse. Do help me. I never saw any thing so hard. Is
-it kingdom? I wonder who the friend was—and who could be the young
+it kingdom? I [[Wonder|wonder]] who the friend was—and who could be the young
 lady. Do you think it is a good one? Can it be woman?
 
-And woman, lovely woman, reigns alone.
+And woman, lovely woman, reigns [[Alone|alone]].
 
 
 Can it be Neptune?
@@ -48,15 +48,15 @@ Can it be Neptune?
 Behold him there, the monarch of the seas!
 
 
-Or a trident? or a mermaid? or a shark? Oh, no! shark is only one
+Or a trident? or a [[Mermaid|mermaid]]? or a shark? Oh, no! shark is only one
 syllable. It must be very clever, or he would not have brought it. Oh!
 Miss Woodhouse, do you think we shall ever find it out?”
 
 “Mermaids and sharks! Nonsense! My dear Harriet, what are you thinking
 of? Where would be the use of his bringing us a charade made by a
-friend upon a mermaid or a shark? Give me the paper and listen.
+friend upon a [[Mermaid|mermaid]] or a shark? Give me the paper and listen.
 
-For Miss ———, read Miss Smith.
+For Miss ———, read Miss [[smith|Smith]].
 
 My first displays the wealth and pomp of kings,
     Lords of the earth! their luxury and ease.
@@ -71,23 +71,23 @@ Another view of man, my second brings;
 That is _ship_;—plain as it can be.—Now for the cream.
 
 But ah! united, (_courtship_, you know,) what reverse we have!
-    Man’s boasted power and freedom, all are flown.
+    Man’s boasted power and [[Freedom|freedom]], all are flown.
 Lord of the earth and sea, he bends a slave,
-    And woman, lovely woman, reigns alone.
+    And woman, lovely woman, reigns [[Alone|alone]].
 
 
 A very proper compliment!—and then follows the application, which I
 think, my dear Harriet, you cannot find much difficulty in
-comprehending. Read it in comfort to yourself. There can be no doubt of
+comprehending. Read it in comfort to yourself. There can be no [[Doubt|doubt]] of
 its being written for you and to you.”
 
-Harriet could not long resist so delightful a persuasion. She read the
+Harriet could not long resist so delightful a [[Persuasion|persuasion]]. She read the
 concluding lines, and was all flutter and happiness. She could not
 speak. But she was not wanted to speak. It was enough for her to feel.
-Emma spoke for her.
+[[Emma]] spoke for her.
 
 “There is so pointed, and so particular a meaning in this compliment,”
-said she, “that I cannot have a doubt as to Mr. Elton’s intentions. You
+said she, “that I cannot have a [[Doubt|doubt]] as to Mr. Elton’s intentions. You
 are his object—and you will soon receive the completest proof of it. I
 thought it must be so. I thought I could not be so deceived; but now,
 it is clear; the state of his mind is as clear and decided, as my
@@ -97,9 +97,9 @@ has happened. I could never tell whether an attachment between you and
 Mr. Elton were most desirable or most natural. Its probability and its
 eligibility have really so equalled each other! I am very happy. I
 congratulate you, my dear Harriet, with all my heart. This is an
-attachment which a woman may well feel pride in creating. This is a
+attachment which a woman may [[Well|well]] feel [[Pride|pride]] in creating. This is a
 connexion which offers nothing but good. It will give you every thing
-that you want—consideration, independence, a proper home—it will fix
+that you want—consideration, independence, a proper [[Home|home]]—it will fix
 you in the centre of all your real friends, close to Hartfield and to
 me, and confirm our intimacy for ever. This, Harriet, is an alliance
 which can never raise a blush in either of us.”
@@ -111,9 +111,9 @@ to her friend that she saw, felt, anticipated, and remembered just as
 she ought. Mr. Elton’s superiority had very ample acknowledgment.
 
 “Whatever you say is always right,” cried Harriet, “and therefore I
-suppose, and believe, and hope it must be so; but otherwise I could not
+suppose, and believe, and [[Hope|hope]] it must be so; but otherwise I could not
 have imagined it. It is so much beyond any thing I deserve. Mr. Elton,
-who might marry any body! There cannot be two opinions about _him_. He
+who might marry any [[Body|body]]! There cannot be two opinions about _him_. He
 is so very superior. Only think of those sweet verses—‘To Miss ———.’
 Dear me, how clever!—Could it really be meant for me?”
 
@@ -133,24 +133,24 @@ other people, should so immediately shape itself into the proper form.
 You and Mr. Elton are by situation called together; you belong to one
 another by every circumstance of your respective homes. Your marrying
 will be equal to the match at Randalls. There does seem to be a
-something in the air of Hartfield which gives love exactly the right
+something in the air of Hartfield which gives [[Love|love]] exactly the right
 direction, and sends it into the very channel where it ought to flow.
 
-The course of true love never did run smooth—
+The course of true [[Love|love]] never did run smooth—
 
 
 A Hartfield edition of Shakespeare would have a long note on that
 passage.”
 
-“That Mr. Elton should really be in love with me,—me, of all people,
+“That Mr. Elton should really be in [[Love|love]] with me,—me, of all people,
 who did not know him, to speak to him, at Michaelmas! And he, the very
-handsomest man that ever was, and a man that every body looks up to,
-quite like Mr. Knightley! His company so sought after, that every body
+handsomest man that ever was, and a man that every [[Body|body]] looks up to,
+quite like Mr. Knightley! His company so sought after, that every [[Body|body]]
 says he need not eat a single meal by himself if he does not chuse it;
 that he has more invitations than there are days in the week. And so
 excellent in the Church! Miss Nash has put down all the texts he has
 ever preached from since he came to Highbury. Dear me! When I look back
-to the first time I saw him! How little did I think!—The two Abbots and
+to the first [[Time|time]] I saw him! How little did I think!—The two Abbots and
 I ran into the front room and peeped through the blind when we heard he
 was going by, and Miss Nash came and scolded us away, and staid to look
 through herself; however, she called me back presently, and let me look

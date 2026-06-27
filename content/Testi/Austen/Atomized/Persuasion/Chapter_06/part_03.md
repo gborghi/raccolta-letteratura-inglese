@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 6 (part 3)"
+title: "[[Persuasion]] — Chapter 6 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -42,13 +42,13 @@ there being no means of her going. She wished, however, to see the
 
 Crofts, and was glad to be within when the visit was returned. They
 
-came: the master of the house was not at home, but the two sisters were
+came: the master of the [[house]] was not at [[Home|home]], but the two sisters were
 
 together; and as it chanced that Mrs Croft fell to the share of Anne,
 
 while the Admiral sat by Mary, and made himself very agreeable by his
 
-good-humoured notice of her little boys, she was well able to watch for
+good-humoured notice of her little boys, she was [[Well|well]] able to watch for
 
 a likeness, and if it failed her in the features, to catch it in the
 
@@ -72,7 +72,7 @@ manners were open, easy, and decided, like one who had no distrust of
 
 herself, and no doubts of what to do; without any approach to
 
-coarseness, however, or any want of good humour. Anne gave her credit,
+coarseness, however, or any want of good [[Humour|humour]]. Anne gave her credit,
 
 indeed, for feelings of great consideration towards herself, in all
 
@@ -84,7 +84,7 @@ introduction, that there was not the smallest symptom of any knowledge
 
 or suspicion on Mrs Croft’s side, to give a bias of any sort. She was
 
-quite easy on that head, and consequently full of strength and courage,
+quite easy on that head, and consequently full of strength and [[Courage|courage]],
 
 till for a moment electrified by Mrs Croft’s suddenly saying,—
 
@@ -142,19 +142,19 @@ much engrossed by proposals of carrying them away in his coat pockets,
 
 &c., to have another moment for finishing or recollecting what he had
 
-begun, Anne was left to persuade herself, as well as she could, that
+begun, Anne was left to persuade herself, as [[Well|well]] as she could, that
 
 the same brother must still be in question. She could not, however,
 
 reach such a degree of certainty, as not to be anxious to hear whether
 
-anything had been said on the subject at the other house, where the
+anything had been said on the subject at the other [[house]], where the
 
 Crofts had previously been calling.
 
 
 
-The folks of the Great House were to spend the evening of this day at
+The folks of the [[Great House]] were to spend the evening of this day at
 
 the Cottage; and it being now too late in the year for such visits to
 
@@ -176,7 +176,7 @@ the harp, which was bringing in the carriage.
 
 come on to give you notice, that papa and mamma are out of spirits this
 
-evening, especially mamma; she is thinking so much of poor Richard! And
+evening, especially mamma; she is thinking so much of poor [[Richard]]! And
 
 we agreed it would be best to have the harp, for it seems to amuse her
 
@@ -184,7 +184,7 @@ more than the piano-forte. I will tell you why she is out of spirits.
 
 When the Crofts called this morning, (they called here afterwards, did
 
-not they?), they happened to say, that her brother, Captain Wentworth,
+not they?), they happened to say, that her brother, [[Captain Wentworth]],
 
 is just returned to England, or paid off, or something, and is coming
 
@@ -192,7 +192,7 @@ to see them almost directly; and most unluckily it came into mamma’s
 
 head, when they were gone, that Wentworth, or something very like it,
 
-was the name of poor Richard’s captain at one time; I do not know when
+was the name of poor [[Richard]]’s captain at one [[Time|time]]; I do not know when
 
 or where, but a great while before he died, poor fellow! And upon
 
@@ -200,13 +200,13 @@ looking over his letters and things, she found it was so, and is
 
 perfectly sure that this must be the very man, and her head is quite
 
-full of it, and of poor Richard! So we must be as merry as we can, that
+full of it, and of poor [[Richard]]! So we must be as merry as we can, that
 
 she may not be dwelling upon such gloomy things.”
 
 
 
-The real circumstances of this pathetic piece of family history were,
+The real circumstances of this pathetic piece of family [[history]] were,
 
 that the Musgroves had had the ill fortune of a very troublesome,
 

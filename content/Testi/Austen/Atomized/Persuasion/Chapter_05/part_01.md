@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 5 (part 1)"
+title: "[[Persuasion]] — Chapter 5 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -34,13 +34,13 @@ them.
 
 This meeting of the two parties proved highly satisfactory, and decided
 
-the whole business at once. Each lady was previously well disposed for
+the whole business at once. Each lady was previously [[Well|well]] disposed for
 
 an agreement, and saw nothing, therefore, but good manners in the
 
 other; and with regard to the gentlemen, there was such an hearty good
 
-humour, such an open, trusting liberality on the Admiral’s side, as
+[[Humour|humour]], such an open, trusting liberality on the Admiral’s side, as
 
 could not but influence Sir Walter, who had besides been flattered into
 
@@ -52,9 +52,9 @@ breeding.
 
 
 
-The house and grounds, and furniture, were approved, the Crofts were
+The [[house]] and grounds, and furniture, were approved, the Crofts were
 
-approved, terms, time, every thing, and every body, was right; and Mr
+approved, terms, [[Time|time]], every thing, and every [[Body|body]], was right; and Mr
 
 Shepherd’s clerks were set to work, without there having been a single
 
@@ -76,7 +76,7 @@ the park, “I thought we should soon come to a deal, my dear, in spite
 
 of what they told us at Taunton. The Baronet will never set the Thames
 
-on fire, but there seems to be no harm in him.”—reciprocal compliments,
+on [[Fire|fire]], but there seems to be no harm in him.”—reciprocal compliments,
 
 which would have been esteemed about equal.
 
@@ -86,13 +86,13 @@ The Crofts were to have possession at Michaelmas; and as Sir Walter
 
 proposed removing to Bath in the course of the preceding month, there
 
-was no time to be lost in making every dependent arrangement.
+was no [[Time|time]] to be lost in making every dependent arrangement.
 
 
 
-Lady Russell, convinced that Anne would not be allowed to be of any
+[[Lady Russell]], convinced that Anne would not be allowed to be of any
 
-use, or any importance, in the choice of the house which they were
+use, or any importance, in the choice of the [[house]] which they were
 
 going to secure, was very unwilling to have her hurried away so soon,
 
@@ -112,7 +112,7 @@ autumnal months in the country, did not think that, everything
 
 considered, she wished to remain. It would be most right, and most
 
-wise, and, therefore must involve least suffering to go with the
+wise, and, therefore must involve least [[Suffering|suffering]] to go with the
 
 others.
 
@@ -126,7 +126,7 @@ complaints, and always in the habit of claiming Anne when anything was
 
 the matter, was indisposed; and foreseeing that she should not have a
 
-day’s health all the autumn, entreated, or rather required her, for it
+day’s health all the [[Autumn|autumn]], entreated, or rather required her, for it
 
 was hardly entreaty, to come to Uppercross Cottage, and bear her
 
@@ -154,17 +154,17 @@ dear country, readily agreed to stay.
 
 
 
-This invitation of Mary’s removed all Lady Russell’s difficulties, and
+This invitation of Mary’s removed all [[Lady Russell]]’s difficulties, and
 
 it was consequently soon settled that Anne should not go to Bath till
 
-Lady Russell took her, and that all the intervening time should be
+[[Lady Russell]] took her, and that all the intervening [[Time|time]] should be
 
 divided between Uppercross Cottage and Kellynch Lodge.
 
 
 
-So far all was perfectly right; but Lady Russell was almost startled by
+So far all was perfectly right; but [[Lady Russell]] was almost startled by
 
 the wrong of one part of the Kellynch Hall plan, when it burst on her,
 
@@ -172,7 +172,7 @@ which was, Mrs Clay’s being engaged to go to Bath with Sir Walter and
 
 Elizabeth, as a most important and valuable assistant to the latter in
 
-all the business before her. Lady Russell was extremely sorry that such
+all the business before her. [[Lady Russell]] was extremely sorry that such
 
 a measure should have been resorted to at all, wondered, grieved, and
 
@@ -184,7 +184,7 @@ much use, while Anne could be of none, was a very sore aggravation.
 
 Anne herself was become hardened to such affronts; but she felt the
 
-imprudence of the arrangement quite as keenly as Lady Russell. With a
+imprudence of the arrangement quite as keenly as [[Lady Russell]]. With a
 
 great deal of quiet observation, and a knowledge, which she often
 
@@ -198,7 +198,7 @@ the kind. Mrs Clay had freckles, and a projecting tooth, and a clumsy
 
 wrist, which he was continually making severe remarks upon, in her
 
-absence; but she was young, and certainly altogether well-looking, and
+absence; but she was young, and certainly altogether [[Well|well]]-looking, and
 
 possessed, in an acute mind and assiduous pleasing manners, infinitely
 
@@ -208,7 +208,7 @@ Anne was so impressed by the degree of their danger, that she could not
 
 excuse herself from trying to make it perceptible to her sister. She
 
-had little hope of success; but Elizabeth, who in the event of such a
+had little [[Hope|hope]] of [[success]]; but Elizabeth, who in the event of such a
 
 reverse would be so much more to be pitied than herself, should never,
 

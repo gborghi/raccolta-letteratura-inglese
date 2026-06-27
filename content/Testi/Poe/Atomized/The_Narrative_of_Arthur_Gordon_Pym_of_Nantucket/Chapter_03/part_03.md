@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 4 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -22,19 +22,19 @@ painful position, although he struggled and prayed only for the poor
 
 satisfaction of being permitted to bid his father farewell. A handful
 
-of sea-biscuit and a jug of water were now handed down; but neither
+of sea-biscuit and a jug of [[Water|water]] were now handed down; but neither
 
 mast, sail, oar, nor compass. The boat was towed astern for a few
 
 minutes, during which the mutineers held another consultation--it was
 
-then finally cut adrift. By this time night had come on--there were
+then finally cut adrift. By this [[Time|time]] [[Night|night]] had come on--there were
 
-neither moon nor stars visible--and a short and ugly sea was running,
+neither [[Moon|moon]] nor [[Stars|stars]] visible--and a short and ugly sea was running,
 
-although there was no great deal of wind. The boat was instantly out of
+although there was no great deal of [[Wind|wind]]. The boat was instantly out of
 
-sight, and little hope could be entertained for the unfortunate
+sight, and little [[Hope|hope]] could be entertained for the unfortunate
 
 sufferers who were in it. This event happened, however, in latitude 35°
 
@@ -54,7 +54,7 @@ All sail was now put upon the brig, and she continued her original
 
 course to the southwest--the mutineers being bent upon some piratical
 
-expedition, in which, from all that could be understood, a ship was to
+expedition, in which, from all that could be understood, a [[Ship|ship]] was to
 
 be intercepted on her way from the Cape Verd Islands to Porto Rico. No
 
@@ -68,19 +68,19 @@ brutality of the cook. His situation was still one of the most
 
 precarious, as the men were continually intoxicated, and there was no
 
-relying upon their continued good-humour or carelessness in regard to
+relying upon their continued good-[[Humour|humour]] or carelessness in regard to
 
 himself. His anxiety on my account he represented, however, as the most
 
 distressing result of his condition; and, indeed, I had never reason to
 
-doubt the sincerity of his friendship. More than once he had resolved
+[[Doubt|doubt]] the sincerity of his [[Friendship|friendship]]. More than once he had resolved
 
 to acquaint the mutineers with the secret of my being on board, but was
 
 restrained from so doing, partly through recollection of the atrocities
 
-he had already beheld, and partly through a hope of being able soon to
+he had already beheld, and partly through a [[Hope|hope]] of being able soon to
 
 bring me relief. For the latter purpose he was constantly on the watch;
 
@@ -88,7 +88,7 @@ but, in spite of the most constant vigilance, three days elapsed after
 
 the boat was cut adrift before any chance occurred. At length, on the
 
-night of the third day, there came on a heavy blow from the eastward,
+[[Night|night]] of the third day, there came on a heavy blow from the eastward,
 
 and all hands were called up to take in sail. During the confusion
 
@@ -98,7 +98,7 @@ What was his grief and horror in discovering that the latter had been
 
 rendered a place of deposite for a variety of sea-stores and
 
-ship-furniture, and that several fathoms of old chain-cable, which had
+[[Ship|ship]]-furniture, and that several fathoms of old chain-cable, which had
 
 been stowed away beneath the companion-ladder, had been dragged thence
 

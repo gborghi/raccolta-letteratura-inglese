@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 13)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 13)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -29,7 +29,7 @@ The censorious young gentleman has the reputation among his familiars
 of a remarkably clever person, which he maintains by receiving all
 intelligence and expressing all opinions with a dubious sneer,
 accompanied with a half smile, expressive of anything you please but
-good-humour. This sets people about thinking what on earth the
+good-[[Humour|humour]]. This sets people about thinking what on earth the
 censorious young gentleman means, and they speedily arrive at the
 conclusion that he means something very deep indeed; for they reason in
 this way—‘This young gentleman looks so very knowing that he must mean
@@ -42,17 +42,17 @@ accordingly.
 As young ladies are generally—not curious, but laudably desirous to
 acquire information, the censorious young gentleman is much talked
 about among them, and many surmises are hazarded regarding him. ‘I
-wonder,’ exclaims the eldest Miss Greenwood, laying down her work to
-turn up the lamp, ‘I wonder whether Mr. Fairfax will ever be married.’
+[[Wonder|wonder]],’ exclaims the eldest Miss Greenwood, laying down her work to
+turn up the lamp, ‘I [[Wonder|wonder]] whether Mr. Fairfax will ever be married.’
 ‘Bless me, dear,’ cries Miss Marshall, ‘what ever made you think of
 him?’ ‘Really I hardly know,’ replies Miss Greenwood; ‘he is such a
-very mysterious person, that I often wonder about him.’ ‘Well, to tell
-you the truth,’ replies Miss Marshall, ‘and so do I.’ Here two other
+very mysterious person, that I often [[Wonder|wonder]] about him.’ ‘[[Well]], to tell
+you the [[Truth|truth]],’ replies Miss Marshall, ‘and so do I.’ Here two other
 young ladies profess that they are constantly doing the like, and all
 present appear in the same condition except one young lady, who, not
 scrupling to state that she considers Mr. Fairfax ‘a horror,’ draws
 down all the opposition of the others, which having been expressed in a
-great many ejaculatory passages, such as ‘Well, did I ever!’—and ‘Lor,
+great many ejaculatory passages, such as ‘[[Well]], did I ever!’—and ‘Lor,
 Emily, dear!’ ma takes up the subject, and gravely states, that she
 must say she does not think Mr. Fairfax by any means a horror, but
 rather takes him to be a young man of very great ability; ‘and I am
@@ -61,8 +61,8 @@ than he says.’
 
 The door opens at this point of the disclosure, and who of all people
 alive walks into the room, but the very Mr. Fairfax, who has been the
-subject of conversation! ‘Well, it really is curious,’ cries ma, ‘we
-were at that very moment talking about you.’ ‘You did me great honour,’
+subject of conversation! ‘[[Well]], it really is curious,’ cries ma, ‘we
+were at that very moment talking about you.’ ‘You did me great [[Honour|honour]],’
 replies Mr. Fairfax; ‘may I venture to ask what you were saying?’ ‘Why,
 if you must know,’ returns the eldest girl, ‘we were remarking what a
 very mysterious man you are.’ ‘Ay, ay!’ observes Mr. Fairfax, ‘Indeed!’
@@ -80,13 +80,13 @@ very centre of its head.
 When the conversation ranges from the mystery overhanging the
 censorious young gentleman’s behaviour, to the general topics of the
 day, he sustains his character to admiration. He considers the new
-tragedy well enough for a new tragedy, but Lord bless us—well, no
+[[Tragedy|tragedy]] [[Well|well]] enough for a new [[Tragedy|tragedy]], but Lord bless us—[[Well|well]], no
 matter; he could say a great deal on that point, but he would rather
 not, lest he should be thought ill-natured, as he knows he would be.
 ‘But is not Mr. So-and-so’s performance truly charming?’ inquires a
 young lady. ‘Charming!’ replies the censorious young gentleman. ‘Oh,
 dear, yes, certainly; very charming—oh, very charming indeed.’ After
-this, he stirs the fire, smiling contemptuously all the while: and a
+this, he stirs the [[Fire|fire]], smiling contemptuously all the while: and a
 modest young gentleman, who has been a silent listener, thinks what a
 great thing it must be, to have such a critical judgment. Of music,
 pictures, books, and poetry, the censorious young gentleman has an
@@ -94,10 +94,10 @@ equally fine conception. As to men and women, he can tell all about
 them at a glance. ‘Now let us hear your opinion of young Mrs. Barker,’
 says some great believer in the powers of Mr. Fairfax, ‘but don’t be
 too severe.’ ‘I never am severe,’ replies the censorious young
-gentleman. ‘Well, never mind that now. She is very lady-like, is she
+gentleman. ‘[[Well]], never mind that now. She is very lady-like, is she
 not?’ ‘Lady-like!’ repeats the censorious young gentleman (for he
 always repeats when he is at a loss for anything to say). ‘Did you
-observe her manner? Bless my heart and soul, Mrs. Thompson, did you
+observe her manner? Bless my heart and [[Soul|soul]], Mrs. Thompson, did you
 observe her manner?—that’s all I ask.’ ‘I thought I had done so,’
 rejoins the poor lady, much perplexed; ‘I did not observe it very
 closely perhaps.’ ‘Oh, not very closely,’ rejoins the censorious young

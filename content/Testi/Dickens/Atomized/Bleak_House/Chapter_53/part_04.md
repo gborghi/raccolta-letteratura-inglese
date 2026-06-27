@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 53 (part 4)"
+title: "Bleak [[house|House]] — Chapter 53 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mr. Bucket (still grave) inquires if to-morrow morning, now, would
+Mr. Bucket (still [[Grave|grave]]) inquires if to-morrow morning, now, would
 suit, in case he should be as for’ard as he expects to be. Sir
 Leicester replies, “All times are alike to me.” Mr. Bucket makes his
 three bows and is withdrawing when a forgotten point occurs to him.
@@ -24,25 +24,25 @@ returning, “who posted the reward-bill on the staircase.”
 
 “I ordered it to be put up there,” replies Sir Leicester.
 
-“Would it be considered a liberty, Sir Leicester Dedlock, Baronet, if
+“Would it be considered a liberty, [[Sir Leicester Dedlock]], Baronet, if
 I was to ask you why?”
 
-“Not at all. I chose it as a conspicuous part of the house. I think
+“Not at all. I chose it as a conspicuous part of the [[house]]. I think
 it cannot be too prominently kept before the whole establishment. I
 wish my people to be impressed with the enormity of the crime, the
 determination to punish it, and the hopelessness of escape. At the
-same time, officer, if you in your better knowledge of the subject
+same [[Time|time]], officer, if you in your better knowledge of the subject
 see any objection—”
 
 Mr. Bucket sees none now; the bill having been put up, had better not
 be taken down. Repeating his three bows he withdraws, closing the
-door on Volumnia’s little scream, which is a preliminary to her
+door on [[Volumnia]]’s little scream, which is a preliminary to her
 remarking that that charmingly horrible person is a perfect Blue
 Chamber.
 
 In his fondness for society and his adaptability to all grades, Mr.
-Bucket is presently standing before the hall-fire—bright and warm on
-the early winter night—admiring Mercury.
+Bucket is presently standing before the hall-[[Fire|fire]]—bright and warm on
+the early [[Winter|winter]] [[Night|night]]—admiring Mercury.
 
 “Why, you’re six foot two, I suppose?” says Mr. Bucket.
 
@@ -51,7 +51,7 @@ the early winter night—admiring Mercury.
 “Are you so much? But then, you see, you’re broad in proportion and
 don’t look it. You’re not one of the weak-legged ones, you ain’t. Was
 you ever modelled now?” Mr. Bucket asks, conveying the expression of
-an artist into the turn of his eye and head.
+an [[Artist|artist]] into the turn of his eye and head.
 
 Mercury never was modelled.
 
@@ -62,7 +62,7 @@ the marble. My Lady’s out, ain’t she?”
 
 “Out to dinner.”
 
-“Goes out pretty well every day, don’t she?”
+“Goes out pretty [[Well|well]] every day, don’t she?”
 
 “Yes.”
 
@@ -94,12 +94,12 @@ violent ringing at the bell. “Talk of the angels,” says Mr. Bucket.
 
 The doors are thrown open, and she passes through the hall. Still
 very pale, she is dressed in slight mourning and wears two beautiful
-bracelets. Either their beauty or the beauty of her arms is
+bracelets. Either their [[Beauty|beauty]] or the [[Beauty|beauty]] of her arms is
 particularly attractive to Mr. Bucket. He looks at them with an eager
 eye and rattles something in his pocket—halfpence perhaps.
 
 Noticing him at his distance, she turns an inquiring look on the
-other Mercury who has brought her home.
+other Mercury who has brought her [[Home|home]].
 
 “Mr. Bucket, my Lady.”
 
@@ -119,9 +119,9 @@ over the region of his mouth.
 “A few, my Lady.”
 
 This is merely in passing. She scarcely makes a stop, and sweeps
-upstairs alone. Mr. Bucket, moving towards the staircase-foot,
+upstairs [[Alone|alone]]. Mr. Bucket, moving towards the staircase-foot,
 watches her as she goes up the steps the old man came down to his
-grave, past murderous groups of statuary repeated with their shadowy
+[[Grave|grave]], past murderous groups of statuary repeated with their shadowy
 weapons on the wall, past the printed bill, which she looks at going
 by, out of view.
 
@@ -132,31 +132,31 @@ Is not quite healthy, Mercury informs him. Suffers much from
 headaches.
 
 Really? That’s a pity! Walking, Mr. Bucket would recommend for that.
-Well, she tries walking, Mercury rejoins. Walks sometimes for two
-hours when she has them bad. By night, too.
+[[Well]], she tries walking, Mercury rejoins. Walks sometimes for two
+hours when she has them bad. By [[Night|night]], too.
 
 “Are you sure you’re quite so much as six foot three?” asks Mr.
 Bucket. “Begging your pardon for interrupting you a moment?”
 
-Not a doubt about it.
+Not a [[Doubt|doubt]] about it.
 
-“You’re so well put together that I shouldn’t have thought it. But
+“You’re so [[Well|well]] put together that I shouldn’t have thought it. But
 the household troops, though considered fine men, are built so
-straggling. Walks by night, does she? When it’s moonlight, though?”
+straggling. Walks by [[Night|night]], does she? When it’s moonlight, though?”
 
 Oh, yes. When it’s moonlight! Of course. Oh, of course!
 Conversational and acquiescent on both sides.
 
 “I suppose you ain’t in the habit of walking yourself?” says Mr.
-Bucket. “Not much time for it, I should say?”
+Bucket. “Not much [[Time|time]] for it, I should say?”
 
 Besides which, Mercury don’t like it. Prefers carriage exercise.
 
 “To be sure,” says Mr. Bucket. “That makes a difference. Now I think
 of it,” says Mr. Bucket, warming his hands and looking pleasantly at
-the blaze, “she went out walking the very night of this business.”
+the blaze, “she went out walking the very [[Night|night]] of this business.”
 
-“To be sure she did! I let her into the garden over the way.”
+“To be sure she did! I let her into the [[Garden|garden]] over the way.”
 
 “And left her there. Certainly you did. I saw you doing it.”
 
@@ -164,9 +164,9 @@ the blaze, “she went out walking the very night of this business.”
 
 “I was rather in a hurry,” returns Mr. Bucket, “for I was going to
 visit a aunt of mine that lives at Chelsea—next door but two to the
-old original Bun House—ninety year old the old lady is, a single
+old original Bun [[house|House]]—ninety year old the old lady is, a single
 woman, and got a little property. Yes, I chanced to be passing at the
-time. Let’s see. What time might it be? It wasn’t ten.”
+[[Time|time]]. Let’s see. What [[Time|time]] might it be? It wasn’t ten.”
 
 “Half-past nine.”
 

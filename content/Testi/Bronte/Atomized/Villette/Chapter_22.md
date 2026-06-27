@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 22"
+title: "[[Villette]] — Chapter 22"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,9 +18,9 @@ CHAPTER XXII.
 THE LETTER.
 
 
-When all was still in the house; when dinner was over and the noisy
+When all was still in the [[house]]; when dinner was over and the noisy
 recreation-hour past; when darkness had set in, and the quiet lamp of
-study was lit in the refectory; when the externes were gone home, the
+study was lit in the refectory; when the externes were gone [[Home|home]], the
 clashing door and clamorous bell hushed for the evening; when Madame
 was safely settled in the salle-à-manger in company with her mother and
 some friends; I then glided to the kitchen, begged a bougie for one
@@ -31,22 +31,22 @@ mounted noiseless to the dormitory.
 
 Great was my chagrin to find in that apartment a pupil gone to bed
 indisposed,—greater when I recognised, amid the muslin nightcap
-borders, the “figure chiffonnée” of Mistress Ginevra Fanshawe; supine
+borders, the “figure chiffonnée” of Mistress [[Ginevra Fanshawe]]; supine
 at this moment, it is true—but certain to wake and overwhelm me with
 chatter when the interruption would be least acceptable: indeed, as I
 watched her, a slight twinkling of the eyelids warned me that the
 present appearance of repose might be but a ruse, assumed to cover sly
-vigilance over “Timon’s” movements; she was not to be trusted. And I
-had so wished to be alone, just to read my precious letter in peace.
+vigilance over “[[Timon]]’s” movements; she was not to be trusted. And I
+had so wished to be [[Alone|alone]], just to read my precious letter in peace.
 
-Well, I must go to the classes. Having sought and found my prize in its
+[[Well]], I must go to the classes. Having sought and found my prize in its
 casket, I descended. Ill-luck pursued me. The classes were undergoing
-sweeping and purification by candle-light, according to hebdomadal
-custom: benches were piled on desks, the air was dim with dust, damp
+sweeping and [[Purification|purification]] by candle-light, according to hebdomadal
+custom: benches were piled on desks, the air was dim with [[Dust|dust]], damp
 coffee-grounds (used by Labassecourien housemaids instead of
-tea-leaves) darkened the floor; all was hopeless confusion. Baffled,
+tea-[[Leaves|leaves]]) darkened the floor; all was hopeless confusion. Baffled,
 but not beaten, I withdrew, bent as resolutely as ever on finding
-solitude _somewhere_.
+[[Solitude|solitude]] _somewhere_.
 
 Taking a key whereof I knew the repository, I mounted three staircases
 in succession, reached a dark, narrow, silent landing, opened a
@@ -57,7 +57,7 @@ drawers; I put on a shawl, for the air was ice-cold; I took my letter;
 trembling with sweet impatience, I broke its seal.
 
 “Will it be long—will it be short?” thought I, passing my hand across
-my eyes to dissipate the silvery dimness of a suave, south-wind shower.
+my eyes to dissipate the silvery dimness of a suave, south-[[Wind|wind]] shower.
 
 It was long.
 
@@ -66,14 +66,14 @@ It was long.
 It was kind.
 
 To my checked, bridled, disciplined expectation, it seemed very kind:
-to my longing and famished thought it seemed, perhaps, kinder than it
+to my [[Longing|longing]] and famished thought it seemed, perhaps, kinder than it
 was.
 
 So little had I hoped, so much had I feared; there was a fulness of
 delight in this taste of fruition—such, perhaps, as many a human being
 passes through life without ever knowing. The poor English teacher in
 the frosty garret, reading by a dim candle guttering in the wintry air,
-a letter simply good-natured—nothing more; though that good-nature then
+a letter simply good-natured—nothing more; though that good-[[Nature|nature]] then
 seemed to me godlike—was happier than most queens in palaces.
 
 Of course, happiness of such shallow origin could be but brief; yet,
@@ -86,9 +86,9 @@ had held—on all the little subject-matter, in short, of the last few
 halcyon weeks. But the cordial core of the delight was, a conviction
 the blithe, genial language generously imparted, that it had been
 poured out not merely to content _me_—but to gratify _himself_. A
-gratification he might never more desire, never more seek—an hypothesis
+gratification he might never more [[Desire|desire]], never more seek—an hypothesis
 in every point of view approaching the certain; but _that_ concerned
-the future. This present moment had no pain, no blot, no want; full,
+the future. This present moment had no [[Pain|pain]], no blot, no want; full,
 pure, perfect, it deeply blessed me. A passing seraph seemed to have
 rested beside me, leaned towards my heart, and reposed on its throb a
 softening, cooling, healing, hallowing wing. Dr. John, you pained me
@@ -109,7 +109,7 @@ head bandaged, veiled, white.
 
 Say what you will, reader—tell me I was nervous or mad; affirm that I
 was unsettled by the excitement of that letter; declare that I dreamed;
-this I vow—I saw there—in that room—on that night—an image like—a NUN.
+this I vow—I saw there—in that room—on that [[Night|night]]—an image like—a NUN.
 
 I cried out; I sickened. Had the shape approached me I might have
 swooned. It receded: I made for the door. How I descended all the
@@ -120,16 +120,16 @@ course to Madame’s sitting-room: I burst in. I said—
 Go and look at it, all of you!”
 
 I said, “All of you;” for the room seemed to me full of people, though
-in truth there were but four present: Madame Beck; her mother, Madame
+in [[Truth|truth]] there were but four present: [[Madame Beck]]; her mother, Madame
 Kint, who was out of health, and now staying with her on a visit; her
 brother, M. Victor Kint, and another gentleman, who, when I entered the
 room, was conversing with the old lady, and had his back towards the
 door.
 
-My mortal fear and faintness must have made me deadly pale. I felt cold
-and shaking. They all rose in consternation; they surrounded me. I
+My mortal [[Fear|fear]] and faintness must have made me deadly pale. I felt cold
+and shaking. They all [[Rose|rose]] in consternation; they surrounded me. I
 urged them to go to the grenier; the sight of the gentlemen did me good
-and gave me courage: it seemed as if there were some help and hope,
+and gave me [[Courage|courage]]: it seemed as if there were some help and [[Hope|hope]],
 with men at hand. I turned to the door, beckoning them to follow. They
 wanted to stop me, but I said they must come this way: they must see
 what I had seen—something strange, standing in the middle of the
@@ -147,7 +147,7 @@ _that_ now, and not for the nun.
 
 “My letter! my letter!” I panted and plained, almost beside myself. I
 groped on the floor, wringing my hands wildly. Cruel, cruel doom! To
-have my bit of comfort preternaturally snatched from me, ere I had well
+have my bit of comfort preternaturally snatched from me, ere I had [[Well|well]]
 tasted its virtue!
 
 I don’t know what the others were doing; I could not watch them: they
@@ -181,24 +181,24 @@ Hush! Come out of this cold room; they are going to send for the police
 now to examine further: we need not stay here—come, we will go down.”
 
 A warm hand, taking my cold fingers, led me down to a room where there
-was a fire. Dr. John and I sat before the stove. He talked to me and
+was a [[Fire|fire]]. Dr. John and I sat before the stove. He talked to me and
 soothed me with unutterable goodness, promising me twenty letters for
 the one lost. If there are words and wrongs like knives, whose
 deep-inflicted lacerations never heal—cutting injuries and insults of
-serrated and poison-dripping edge—so, too, there are consolations of
+serrated and [[Poison|poison]]-dripping edge—so, too, there are consolations of
 tone too fine for the ear not fondly and for ever to retain their echo:
 caressing kindnesses—loved, lingered over through a whole life,
 recalled with unfaded tenderness, and answering the call with undimmed
-shine, out of that raven cloud foreshadowing Death himself. I have been
+shine, out of that raven cloud foreshadowing [[Death]] himself. I have been
 told since that Dr. Bretton was not nearly so perfect as I thought him:
 that his actual character lacked the depth, height, compass, and
-endurance it possessed in my creed. I don’t know: he was as good to me
-as the well is to the parched wayfarer—as the sun to the shivering
+[[Endurance|endurance]] it possessed in my creed. I don’t know: he was as good to me
+as the [[Well|well]] is to the parched wayfarer—as the sun to the shivering
 jailbird. I remember him heroic. Heroic at this moment will I hold him
 to be.
 
 He asked me, smiling, why I cared for his letter so very much. I
-thought, but did not say, that I prized it like the blood in my veins.
+thought, but did not say, that I prized it like the [[Blood|blood]] in my veins.
 I only answered that I had so few letters to care for.
 
 “I am sure you did not read it,” said he; “or you would think nothing
@@ -209,13 +209,13 @@ lost.” And I could not help weeping afresh.
 
 “Lucy, Lucy, my poor little god-sister (if there be such a
 relationship), here—_here_ is your letter. Why is it not better worth
-such tears, and such tenderly exaggerating faith?”
+such [[Tears|tears]], and such tenderly exaggerating [[Faith|faith]]?”
 
 Curious, characteristic manœuvre! His quick eye had seen the letter on
 the floor where I sought it; his hand, as quick, had snatched it up. He
 had hidden it in his waistcoat pocket. If my trouble had wrought with a
-whit less stress and reality, I doubt whether he would ever have
-acknowledged or restored it. Tears of temperature one degree cooler
+whit less stress and reality, I [[Doubt|doubt]] whether he would ever have
+acknowledged or restored it. [[Tears]] of temperature one degree cooler
 than those I shed would only have amused Dr. John.
 
 Pleasure at regaining made me forget merited reproach for the teasing
@@ -226,7 +226,7 @@ broke out more in countenance than language. I said little.
 
 I replied that I was—satisfied and happy.
 
-“Well then,” he proceeded, “how do you feel physically? Are you growing
+“[[Well]] then,” he proceeded, “how do you feel physically? Are you growing
 calmer? Not much: for you tremble like a leaf still.”
 
 It seemed to me, however, that I was sufficiently calm: at least I felt
@@ -244,7 +244,7 @@ otherwise, I shall be discredited and accused of dreaming.”
 “Tell me,” said Dr. Bretton; “I will hear it in my professional
 character: I look on you now from a professional point of view, and I
 read, perhaps, all you would conceal—in your eye, which is curiously
-vivid and restless: in your cheek, which the blood has forsaken; in
+vivid and restless: in your cheek, which the [[Blood|blood]] has forsaken; in
 your hand, which you cannot steady. Come, Lucy, speak and tell me.”
 
 “You would laugh—?”
@@ -256,7 +256,7 @@ your hand, which you cannot steady. Come, Lucy, speak and tell me.”
 “I will again take away that single epistle: being mine, I think I have
 a right to reclaim it.”
 
-I felt raillery in his words: it made me grave and quiet; but I folded
+I felt raillery in his words: it made me [[Grave|grave]] and quiet; but I folded
 up the letter and covered it from sight.
 
 “You may hide it, but I can possess it any moment I choose. You don’t
@@ -267,7 +267,7 @@ tongue and eye; but you never saw that in me—did you, Lucy?”
 “Indeed—indeed—when you were a mere boy I used to see both: far more
 then than now—for now you are strong, and strength dispenses with
 subtlety. But still,—Dr. John, you have what they call in this country
-‘un air fin,’ that nobody can mistake. Madame Beck saw it, and—”
+‘un air fin,’ that nobody can mistake. [[Madame Beck]] saw it, and—”
 
 “And liked it,” said he, laughing, “because she has it herself. But,
 Lucy, give me that letter—you don’t really care for it.”
@@ -275,21 +275,21 @@ Lucy, give me that letter—you don’t really care for it.”
 To this provocative speech I made no answer. Graham in mirthful mood
 must not be humoured too far. Just now there was a new sort of smile
 playing about his lips—very sweet, but it grieved me somehow—a new sort
-of light sparkling in his eyes: not hostile, but not reassuring. I rose
-to go—I bid him good-night a little sadly.
+of light sparkling in his eyes: not hostile, but not reassuring. I [[Rose|rose]]
+to go—I bid him good-[[Night|night]] a little sadly.
 
-His sensitiveness—that peculiar, apprehensive, detective faculty of
+His sensitiveness—that peculiar, apprehensive, [[Detective|detective]] faculty of
 his—felt in a moment the unspoken complaint—the scarce-thought
 reproach. He asked quietly if I was offended. I shook my head as
 implying a negative.
 
 “Permit me, then, to speak a little seriously to you before you go. You
 are in a highly nervous state. I feel sure from what is apparent in
-your look and manner, however well controlled, that whilst alone this
+your look and manner, however [[Well|well]] controlled, that whilst [[Alone|alone]] this
 evening in that dismal, perishing sepulchral garret—that dungeon under
 the leads, smelling of damp and mould, rank with phthisis and catarrh:
 a place you never ought to enter—that you saw, or _thought_ you saw,
-some appearance peculiarly calculated to impress the imagination. I
+some appearance peculiarly calculated to impress the [[Imagination|imagination]]. I
 know that you _are_ not, nor ever were, subject to material terrors,
 fears of robbers, &c.—I am not so sure that a visitation, bearing a
 spectral character, would not shake your very mind. Be calm now. This
@@ -304,13 +304,13 @@ though he has not grey hair.”
 “You will not laugh?”
 
 “Perhaps I may, to do you good: but not in scorn. Lucy, I feel as a
-friend towards you, though your timid nature is slow to trust.”
+friend towards you, though your timid [[Nature|nature]] is slow to trust.”
 
 He now looked like a friend: that indescribable smile and sparkle were
 gone; those formidable arched curves of lip, nostril, eyebrow, were
 depressed; repose marked his attitude—attention sobered his aspect. Won
 to confidence, I told him exactly what I had seen: ere now I had
-narrated to him the legend of the house—whiling away with that
+narrated to him the legend of the [[house]]—whiling away with that
 narrative an hour of a certain mild October afternoon, when he and I
 rode through Bois l’Etang.
 
@@ -334,7 +334,7 @@ start.”
 brain, and is now gone in there, and may glide out again at an hour and
 a day when I look not for her?”
 
-“I think it a case of spectral illusion: I fear, following on and
+“I think it a case of spectral illusion: I [[Fear|fear]], following on and
 resulting from long-continued mental conflict.”
 
 “Oh, Doctor John—I shudder at the thought of being liable to such an
@@ -346,23 +346,23 @@ No mockery in this world ever sounds to me so hollow as that of being
 told to _cultivate_ happiness. What does such advice mean? Happiness is
 not a potato, to be planted in mould, and tilled with manure. Happiness
 is a glory shining far down upon us out of Heaven. She is a divine dew
-which the soul, on certain of its summer mornings, feels dropping upon
+which the [[Soul|soul]], on certain of its [[Summer|summer]] mornings, feels dropping upon
 it from the amaranth bloom and golden fruitage of Paradise.
 
 “Cultivate happiness!” I said briefly to the doctor: “do _you_
 cultivate happiness? How do you manage?”
 
-“I am a cheerful fellow by nature: and then ill-luck has never dogged
+“I am a cheerful fellow by [[Nature|nature]]: and then ill-luck has never dogged
 me. Adversity gave me and my mother one passing scowl and brush, but we
 defied her, or rather laughed at her, and she went by.”.
 
 “There is no cultivation in all this.”
 
-“I do not give way to melancholy.”
+“I do not give way to [[Melancholy|melancholy]].”
 
 “Yes: I have seen you subdued by that feeling.”
 
-“About Ginevra Fanshawe—eh?”
+“About [[Ginevra Fanshawe]]—eh?”
 
 “Did she not sometimes make you miserable?”
 
@@ -381,7 +381,7 @@ gold on the spot just to see you snap your fingers. Try the manœuvre.”
 “If I were to bring Miss Fanshawe into your presence just now?”
 
 “I vow, Lucy, she should not move me: or, she should move me but by one
-thing—true, yes, and passionate love. I would accord forgiveness at no
+thing—true, yes, and passionate [[Love|love]]. I would accord [[Forgiveness|forgiveness]] at no
 less a price.”
 
 “Indeed! a smile of hers would have been a fortune to you a while
@@ -396,15 +396,15 @@ more than ease—a mood which was disdain of his past bondage.
 
 “Miss Fanshawe,” he pursued, “has led me through a phase of feeling
 which is over: I have entered another condition, and am now much
-disposed to exact love for love—passion for passion—and good measure of
+disposed to exact [[Love|love]] for [[Love|love]]—passion for passion—and good measure of
 it, too.”
 
-“Ah, Doctor! Doctor! you said it was your nature to pursue Love under
+“Ah, Doctor! Doctor! you said it was your [[Nature|nature]] to pursue [[Love]] under
 difficulties—to be charmed by a proud insensibility!”.
 
-He laughed, and answered, “My nature varies: the mood of one hour is
-sometimes the mockery of the next. Well, Lucy” (drawing on his gloves),
-“will the Nun come again to-night, think you?”
+He laughed, and answered, “My [[Nature|nature]] varies: the mood of one hour is
+sometimes the mockery of the next. [[Well]], Lucy” (drawing on his gloves),
+“will the Nun come again to-[[Night|night]], think you?”
 
 “I don’t think she will.”
 
@@ -425,23 +425,23 @@ least she had handsome eyes—bright and soft.”
 that shake of the hand, if she comes again. Will she stand _that_, do
 you think?”
 
-I thought it too kind and cordial for a ghost to stand: and so was the
-smile which matched it, and accompanied his “Good-night.”
+I thought it too kind and cordial for a [[Ghost|ghost]] to stand: and so was the
+smile which matched it, and accompanied his “Good-[[Night|night]].”
 
 And had there been anything in the garret? What did they discover? I
 believe, on the closest examination, their discoveries amounted to very
 little. They talked, at first, of the cloaks being disturbed; but
-Madame Beck told me afterwards she thought they hung much as usual: and
+[[Madame Beck]] told me afterwards she thought they hung much as usual: and
 as for the broken pane in the skylight, she affirmed that aperture was
 rarely without one or more panes broken or cracked: and besides, a
-heavy hail-storm had fallen a few days ago. Madame questioned me very
+heavy hail-[[Storm|storm]] had fallen a few days ago. Madame questioned me very
 closely as to what I had seen, but I only described an obscure figure
 clothed in black: I took care not to breathe the word “nun,” certain
-that this word would at once suggest to her mind an idea of romance and
+that this word would at once suggest to her mind an idea of [[Romance|romance]] and
 unreality. She charged me to say nothing on the subject to any servant,
 pupil, or teacher, and highly commended my discretion in coming to her
 private salle-à-manger, instead of carrying the tale of horror to the
 school refectory. Thus the subject dropped. I was left secretly and
-sadly to wonder, in my own mind, whether that strange thing was of this
-world, or of a realm beyond the grave; or whether indeed it was only
-the child of malady, and I of that malady the prey.
+sadly to [[Wonder|wonder]], in my own mind, whether that strange thing was of this
+world, or of a realm beyond the [[Grave|grave]]; or whether indeed it was only
+the [[Child|child]] of malady, and I of that malady the prey.

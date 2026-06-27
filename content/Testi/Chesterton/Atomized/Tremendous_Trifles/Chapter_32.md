@@ -16,9 +16,9 @@ tags:
 
 XXXI
 
-The Riddle of the Ivy
+The [[Riddle]] of the Ivy
 
-More than a month ago, when I was leaving London for a holiday,
+More than a month ago, when I was leaving [[London]] for a holiday,
 a friend walked into my flat in Battersea and found me surrounded
 with half-packed luggage.
 
@@ -29,8 +29,8 @@ With a strap between my teeth I replied, "To Battersea."
 "The wit of your remark," he said, "wholly escapes me."
 
 "I am going to Battersea," I repeated, "to Battersea
-viâ Paris, Belfort, Heidelberg, and Frankfort.
-My remark contained no wit.  It contained simply the truth.
+viâ [[Paris]], Belfort, Heidelberg, and Frankfort.
+My remark contained no wit.  It contained simply the [[Truth|truth]].
 I am going to wander over the whole world until once more I
 find Battersea.  Somewhere in the seas of sunset or of sunrise,
 somewhere in the ultimate archipelago of the earth,
@@ -45,28 +45,28 @@ place called Battersea."
 with an air of intellectual comparison, "that this is Battersea?"
 
 "It is quite unnecessary," I said, "and it is spiritually untrue.
-I cannot see any Battersea here; I cannot see any London or
+I cannot see any Battersea here; I cannot see any [[London]] or
 any England.  I cannot see that door.  I cannot see that chair:
-because a cloud of sleep and custom has come across my eyes.
+because a cloud of [[Sleep|sleep]] and custom has come across my eyes.
 The only way to get back to them is to go somewhere else; and that
 is the real object of travel and the real pleasure of holidays.
 Do you suppose that I go to France in order to see France?  Do you suppose
-that I go to Germany in order to see Germany?  I shall enjoy them both;
+that I go to [[Germany]] in order to see [[Germany]]?  I shall enjoy them both;
 but it is not them that I am seeking.  I am seeking Battersea.
 The whole object of travel is not to set foot on foreign land;
 it is at last to set foot on one's own country as a foreign land.
 Now I warn you that this Gladstone bag is compact and heavy,
-and that if you utter that word 'paradox' I shall hurl it at your head.
+and that if you utter that word '[[Paradox|paradox]]' I shall hurl it at your head.
 I did not make the world, and I did not make it paradoxical.
-It is not my fault, it is the truth, that the only way to go
+It is not my fault, it is the [[Truth|truth]], that the only way to go
 to England is to go away from it."
 
 But when, after only a month's travelling, I did come back
-to England, I was startled to find that I had told the exact truth.
+to England, I was startled to find that I had told the exact [[Truth|truth]].
 England did break on me at once beautifully new and beautifully old.
 To land at Dover is the right way to approach England (most things
 that are hackneyed are right), for then you see first the full,
-soft gardens of Kent, which are, perhaps, an exaggeration,
+soft gardens of [[Kent]], which are, perhaps, an exaggeration,
 but still a typical exaggeration, of the rich rusticity of England.
 As it happened, also, a fellow-traveller with whom I had fallen
 into conversation felt the same freshness, though for another cause.
@@ -81,7 +81,7 @@ that is another story.
 
 "I have never been in England before," said the American lady,
 "yet it is so pretty that I feel as if I have been away from it
-for a long time."
+for a long [[Time|time]]."
 
 "So you have," I said; "you have been away for three hundred years."
 
@@ -101,7 +101,7 @@ and hansom cabs, and cricket, and Mr. Will Crooks.  Above all,
 there is the happy and holy custom of eating a heavy breakfast.
 I cannot imagine that Shakespeare began the day with rolls and coffee,
 like a Frenchman or a German.  Surely he began with bacon or bloaters.
-In fact, a light bursts upon me; for the first time I see
+In fact, a light bursts upon me; for the first [[Time|time]] I see
 the real meaning of Mrs. Gallup and the Great Cipher.
 It is merely a mistake in the matter of a capital letter.
 I withdraw my objections; I accept everything;
@@ -110,10 +110,10 @@ bacon did write Shakespeare."
 "I cannot look at anything but the ivy," she said,
 "it looks so comfortable."
 
-While she looked at the ivy I opened for the first time for many
+While she looked at the ivy I opened for the first [[Time|time]] for many
 weeks an English newspaper, and I read a speech of Mr. Balfour
-in which he said that the House of Lords ought to be preserved
-because it represented something in the nature of permanent public
+in which he said that the [[house|House]] of Lords ought to be preserved
+because it represented something in the [[Nature|nature]] of permanent public
 opinion of England, above the ebb and flow of the parties.
 Now Mr. Balfour is a perfectly sincere patriot, a man who, from his
 own point of view, thinks long and seriously about the public needs,
@@ -123,21 +123,21 @@ thought with a heavy heart that there was one more thing that I had
 to add to the list of the specially English things, such as kippers
 and cricket; I had to add the specially English kind of humbug.
 In France things are attacked and defended for what they are.
-The Catholic Church is attacked because it is Catholic,
+The [[Catholic Church]] is attacked because it is Catholic,
 and defended because it is Catholic.  The Republic is defended
 because it is Republican, and attacked because it is Republican.
 But here is the ablest of English politicians consoling everybody
-by telling them that the House of Lords is not really the House
+by telling them that the [[house|House]] of Lords is not really the [[house|House]]
 of Lords, but something quite different, that the foolish accidental
-peers whom he meets every night are in some mysterious way experts
-upon the psychology of the democracy; that if you want to know
+peers whom he meets every [[Night|night]] are in some mysterious way experts
+upon the psychology of the [[democracy]]; that if you want to know
 what the very poor want you must ask the very rich, and that if you
-want the truth about Hoxton, you must ask for it at Hatfield.
-If the Conservative defender of the House of Lords were a logical
+want the [[Truth|truth]] about Hoxton, you must ask for it at Hatfield.
+If the Conservative defender of the [[house|House]] of Lords were a logical
 French politician he would simply be a liar.  But being an English
-politician he is simply a poet.  The English love of believing that
+politician he is simply a poet.  The English [[Love|love]] of believing that
 all is as it should be, the English optimism combined with the strong
-English imagination, is too much even for the obvious facts.
+English [[Imagination|imagination]], is too much even for the obvious facts.
 In a cold, scientific sense, of course, Mr. Balfour knows that nearly
 all the Lords who are not Lords by accident are Lords by bribery.
 He knows, and (as Mr. Belloc excellently said) everybody in Parliament
@@ -156,8 +156,8 @@ thing in England."
 
 "It is very beautiful," I said, "and, as you say, it is very English.
 Charles Dickens, who was almost more English than England,
-wrote one of his rare poems about the beauty of ivy.
+wrote one of his rare [[Poems|poems]] about the [[Beauty|beauty]] of ivy.
 Yes, by all means let us admire the ivy, so deep, so warm,
-so full of a genial gloom and a grotesque tenderness.
-Let us admire the ivy; and let us pray to God in His mercy
+so full of a genial gloom and a [[Grotesque|grotesque]] tenderness.
+Let us admire the ivy; and let us pray to God in His [[Mercy|mercy]]
 that it may not kill the tree."

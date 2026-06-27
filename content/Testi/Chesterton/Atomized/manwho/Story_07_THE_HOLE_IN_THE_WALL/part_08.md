@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE HOLE IN THE WALL (part 8)"
+title: "[[manwho]] — THE HOLE IN THE WALL (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-his house for all sorts of holidays and amusements. But there was
+his [[house]] for all sorts of holidays and amusements. But there was
 
 another side to him, which they found out when they tried to be his
 
@@ -22,9 +22,9 @@ equals. When I told him that his sister and I were engaged,
 
 something happened which I simply can't and won't describe. It
 
-seemed to me like some monstrous upheaval of madness. But I suppose
+seemed to me like some monstrous upheaval of [[Madness|madness]]. But I suppose
 
-the truth is painfully simple. There is such a thing as the
+the [[Truth|truth]] is painfully simple. There is such a thing as the
 
 coarseness of a gentleman. And it is the most horrible thing in
 
@@ -32,7 +32,7 @@ humanity."
 
 
 
-"I know," said Fisher.  "The Renaissance nobles of the Tudor time
+"I know," said Fisher.  "The [[Renaissance]] nobles of the Tudor [[Time|time]]
 
 were like that."
 
@@ -44,7 +44,7 @@ were talking there came on me a curious feeling that we were
 
 repeating some scene of the past, and that I was really some outlaw,
 
-found in the woods like Robin Hood, and that he had really stepped
+found in the woods like [[Robin Hood]], and that he had really stepped
 
 in all his plumes and purple out of the picture frame of the
 
@@ -88,7 +88,7 @@ without noticing it. In the village or suburb outside there's an inn
 
 with the sign of St. George and the Dragon. Now suppose I went about
 
-telling everybody that this was only a corruption of King George and
+telling everybody that this was only a corruption of [[King]] George and
 
 the Dragoon. Scores of people would believe it, without any inquiry,
 
@@ -104,7 +104,7 @@ remember having seen St. George in old Italian pictures and French
 
 romances, but a good many wouldn't think about it at all. They would
 
-just swallow the skepticism because it was skepticism. Modern
+just [[Swallow|swallow]] the skepticism because it was skepticism. Modern
 
 intelligence won't accept anything on authority. But it will accept
 
@@ -126,7 +126,7 @@ priory, and shared the fate of most priories--that is, the Tudor
 
 gentleman with the plumes simply stole it by brute force and turned
 
-it into his own private house; he did worse things, as you shall
+it into his own private [[house]]; he did worse things, as you shall
 
 hear. But the point here is that this is how the trick works, and
 
@@ -146,11 +146,11 @@ pronounced right."
 
 "Do you mean to say," asked Crane, quickly, "that there really was a
 
-well?"
+[[Well|well]]?"
 
 
 
-"There is a well," said Fisher, "and the truth lies at the bottom of
+"There is a [[Well|well]]," said Fisher, "and the [[Truth|truth]] lies at the [[Bottom|bottom]] of
 
 it."
 
@@ -158,19 +158,19 @@ it."
 
 As he spoke he stretched out his hand and pointed toward the sheet
 
-of water in front of him.
+of [[Water|water]] in front of him.
 
 
 
-"The well is under that water somewhere," he said, "and this is not
+"The [[Well|well]] is under that [[Water|water]] somewhere," he said, "and this is not
 
-the first tragedy connected with it. The founder of this house did
+the first [[Tragedy|tragedy]] connected with it. The founder of this [[house]] did
 
 something which his fellow ruffians very seldom did; something that
 
 had to be hushed up even in the anarchy of the pillage of the
 
-monasteries. The well was connected with the miracles of some saint,
+monasteries. The [[Well|well]] was connected with the miracles of some saint,
 
 and the last prior that guarded it was something like a saint
 
@@ -178,15 +178,15 @@ himself; certainly he was something very like a martyr. He defied
 
 the new owner and dared him to pollute the place, till the noble, in
 
-a fury, stabbed him and flung his body into the well, whither, after
+a fury, stabbed him and flung his [[Body|body]] into the [[Well|well]], whither, after
 
-four hundred years, it has been followed by an heir of the usurper,
+four hundred years, it has been followed by an heir of the [[Usurper|usurper]],
 
-clad in the same purple and walking the world with the same pride."
+clad in the same purple and walking the world with the same [[Pride|pride]]."
 
 
 
-"But how did it happen," demanded Crane, "that for the first time
+"But how did it happen," demanded Crane, "that for the first [[Time|time]]
 
 Bulmer fell in at that particular spot?"
 
@@ -202,13 +202,13 @@ myself heard the hammering and did not understand it. The place had
 
 been covered with an artificial lake, if only because the whole
 
-truth had to be covered with an artificial legend. But don't you see
+[[Truth|truth]] had to be covered with an artificial legend. But don't you see
 
 that it is exactly what those pagan nobles would have done, to
 
 desecrate it with a sort of heathen goddess, as the Roman Emperor
 
-built a temple to Venus on the Holy Sepulchre. But the truth could
+built a temple to [[Venus]] on the Holy Sepulchre. But the [[Truth|truth]] could
 
 still be traced out, by any scholarly man determined to trace it.
 
@@ -216,7 +216,7 @@ And this man was determined to trace it."
 
 
 
-"What man?" asked the other, with a shadow of the answer in his
+"What man?" asked the other, with a [[Shadow|shadow]] of the answer in his
 
 mind.
 
@@ -224,9 +224,9 @@ mind.
 
 "The only man who has an alibi," replied Fisher.  "James Haddow, the
 
-antiquarian lawyer, left the night before the fatality, but he left
+antiquarian lawyer, left the [[Night|night]] before the fatality, but he left
 
-that black star of death on the ice. He left abruptly, having
+that black star of [[Death|death]] on the ice. He left abruptly, having
 
 previously proposed to stay; probably, I think, after an ugly scene
 
@@ -236,19 +236,19 @@ could make a man feel pretty murderous, and I rather fancy the
 
 lawyer had himself irregularities to confess, and was in danger of
 
-exposure by his client. But it's my reading of human nature that a
+exposure by his client. But it's my reading of human [[Nature|nature]] that a
 
 man will cheat in his trade, but not in his hobby. Haddow may have
 
 been a dishonest lawyer, but he couldn't help being an honest
 
-antiquary. When he got on the track of the truth about the Holy Well
+antiquary. When he got on the track of the [[Truth|truth]] about the Holy [[Well]]
 
 he had to follow it up; he was not to be bamboozled with newspaper
 
 anecdotes about Mr. Prior and a hole in the wall; he found out
 
-everything, even to the exact location of the well, and he was
+everything, even to the exact location of the [[Well|well]], and he was
 
 rewarded, if being a successful assassin can be regarded as a
 
@@ -256,7 +256,7 @@ reward."
 
 
 
-"And how did you get on the track of all this hidden history?" asked
+"And how did you get on the track of all this hidden [[history]]?" asked
 
 the young architect.
 
@@ -276,17 +276,17 @@ the holy places and the persecution of the poor. After all, it needs
 
 very little poking about in the past to find that hole in the wall,
 
-that great breach in the defenses of English history. It lies just
+that great breach in the defenses of English [[history]]. It lies just
 
 under the surface of a thin sheet of sham information and
 
-instruction, just as the black and blood-stained well lies just
+instruction, just as the black and [[Blood|blood]]-stained [[Well|well]] lies just
 
-under that floor of shallow water and flat weeds. Oh, the ice is
+under that floor of shallow [[Water|water]] and flat weeds. Oh, the ice is
 
 thin, but it bears; it is strong enough to support us when we dress
 
-up as monks and dance on it, in mockery of the dear, quaint old
+up as [[Monks|monks]] and [[Dance|dance]] on it, in mockery of the dear, quaint old
 
 Middle Ages. They told me I must put on fancy dress; so I did put on
 
@@ -298,12 +298,12 @@ gentleman, and yet has not entirely lost the feelings of one."
 
 
 
-In answer to a look of inquiry, he rose with a sweeping and downward
+In answer to a look of inquiry, he [[Rose|rose]] with a sweeping and downward
 
 gesture.
 
 
 
-"Sackcloth," he said; "and I would wear the ashes as well if they
+"Sackcloth," he said; "and I would wear the ashes as [[Well|well]] if they
 
 would stay on my bald head."

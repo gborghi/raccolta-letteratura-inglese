@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE UNREASONABLENESS OF WOMAN (part 1)"
+title: "[[FourFaultlessFelons]] — THE UNREASONABLENESS OF WOMAN (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -34,7 +34,7 @@ He was of the usual size and shape of fairly imposing flunkeys. His face
 
 had the sort of solid good looks, at once wooden and waxen, which went
 
-well with the powder of the old regime of flunkeydom; there was nothing
+[[Well|well]] with the powder of the old regime of flunkeydom; there was nothing
 
 notable except perhaps that, while his blank, blue eyes expressed
 
@@ -44,9 +44,9 @@ depressing regularity of his features was rather relieved by a length of
 
 chin that suggested some sort of obscure obstinacy. And, indeed, the
 
-police who had questioned and cross-questioned him came to the conclusion
+police who had questioned and [[Cross|cross]]-questioned him came to the conclusion
 
-that they had to deal with a case of stubbornness as well as stupidity.
+that they had to deal with a case of stubbornness as [[Well|well]] as stupidity.
 
 
 
@@ -56,7 +56,7 @@ sorts of entirely illegal things, according to the method which the
 
 police of all modern and civilized countries apply on principle to all
 
-servants, cabmen, costers and other persons supposed by their poverty to
+servants, cabmen, costers and other persons supposed by their [[Poverty|poverty]] to
 
 be an outlying province of the criminal classes; though every now and
 
@@ -64,13 +64,13 @@ then those methods startle all Europe and are held up in flaming
 
 headlines of horror to the whole civilized world, when they happen to
 
-have been applied, by some fool or other, to a wealthy Jew or a heavily
+have been applied, by some [[Fool|fool]] or other, to a wealthy Jew or a heavily
 
 financed journalist. But the police had got nothing out of him that threw
 
 the least light on the meaning of his master's meetings and projects, and
 
-the weary investigators were beginning to attribute his silence to
+the weary investigators were beginning to attribute his [[Silence|silence]] to
 
 ignorance or idiocy. Only the Chief of Police himself, a man not
 
@@ -82,7 +82,7 @@ taciturnity was tinged with fidelity.
 
 Anyhow, the servant in his capacity of prisoner was drearily accustomed
 
-by this time to see the door of his cell open and some uniformed official
+by this [[Time|time]] to see the door of his cell open and some uniformed official
 
 come in with a notebook or a menacing forefinger, trying to collect more
 
@@ -94,7 +94,7 @@ see the same door open and introduce, not a policeman in uniform, but a
 
 beautiful lady in jewels and flaming fashionable colour scheme, who
 
-entered his prison as if it were the most natural thing in the world.
+entered his [[Prison|prison]] as if it were the most natural thing in the world.
 
 Only dimly did he perceive the lowering and lumpish visage of a policeman
 
@@ -110,7 +110,7 @@ resolute smile.
 
 He knew who she was, of course; he had seen her in the illustrated papers
 
-and even driving about the city in her car. In reply to her first
+and even driving about the [[City|city]] in her car. In reply to her first
 
 question he attempted some stumbling expressions of respect, but she
 
@@ -122,13 +122,13 @@ more.
 
 "Don't let us worry about all that," she said. "We are both subjects of
 
-the King and patriots of Pavonia. At least I'm sure you must be really a
+the [[King]] and patriots of Pavonia. At least I'm sure you must be really a
 
 patriot and I want to know why you don't behave like one."
 
 
 
-There was a long silence, and then he said, looking at the floor and in a
+There was a long [[Silence|silence]], and then he said, looking at the floor and in a
 
 rather hang-dog fashion: "I don't want any misunderstandings, Your
 
@@ -138,15 +138,15 @@ always good to me."
 
 
 
-"Why, what did they do for you?" she demanded. "Gave you tips from time
+"Why, what did they do for you?" she demanded. "Gave you tips from [[Time|time]]
 
-to time, I suppose. Paid you some sort of salary, probably much too
+to [[Time|time]], I suppose. Paid you some sort of salary, probably much too
 
 small. What is that compared with what the country has done for us all?
 
 You can't eat bread without eating the corn of Pavonia; you can't drink
 
-water without drinking it from the rivers of your own land; you can't
+[[Water|water]] without drinking it from the rivers of your own land; you can't
 
 walk down the street in safety or liberty, without relying on the law
 
@@ -200,9 +200,9 @@ intonation: "You see, these things go a bit by comparison. At the only
 
 school I was ever sent to they had hardly any meals at all; my family
 
-never had any money and I was often hungry all night, and out in the cold
+never had any money and I was often hungry all [[Night|night]], and out in the cold
 
-as well. You see, it's all very well to talk about the State and
+as [[Well|well]]. You see, it's all very [[Well|well]] to talk about the State and
 
 patriotism and the rest. Suppose when I was freezing in the gutter I had
 
@@ -212,9 +212,9 @@ Fountain Square and said, 'Pavonia, give me food', I suppose the great
 
 statue would have stepped down from its pedestal at once and brought me a
 
-tray of hot cakes or a pile of ham sandwiches. Suppose it began to snow
+tray of hot cakes or a pile of ham sandwiches. Suppose it began to [[Snow|snow]]
 
-when I had hardly a rag on my back; I suppose the Flag of Pavonia, flying
+when I had hardly a rag on my back; I suppose the [[Flag]] of Pavonia, flying
 
 on the top of the palace, would have come down off its pole to wrap me up
 

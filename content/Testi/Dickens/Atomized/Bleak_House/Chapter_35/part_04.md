@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 35 (part 4)"
+title: "Bleak [[house|House]] — Chapter 35 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -25,12 +25,12 @@ pocket handkerchief.”
 
 Charley gave her one, and the good creature certainly made use of it,
 for she held it to her eyes with both hands and sat so, shedding
-tears for the next ten minutes.
+[[Tears|tears]] for the next ten minutes.
 
 “With pleasure, my dear Fitz Jarndyce,” she was careful to explain.
-“Not the least pain. Pleasure to see you well again. Pleasure at
-having the honour of being admitted to see you. I am so much fonder
-of you, my love, than of the Chancellor. Though I DO attend court
+“Not the least [[Pain|pain]]. Pleasure to see you [[Well|well]] again. Pleasure at
+having the [[Honour|honour]] of being admitted to see you. I am so much fonder
+of you, my [[Love|love]], than of the Chancellor. Though I DO attend [[Court|court]]
 regularly. By the by, my dear, mentioning pocket handkerchiefs—”
 
 Miss Flite here looked at Charley, who had been to meet her at the
@@ -52,9 +52,9 @@ said, “If you please, ma’am, you had better tell then,” and therein
 gratified Miss Flite beyond measure.
 
 “So sagacious, our young friend,” said she to me in her mysterious
-way. “Diminutive. But ve-ry sagacious! Well, my dear, it’s a pretty
+way. “Diminutive. But ve-ry sagacious! [[Well]], my dear, it’s a pretty
 anecdote. Nothing more. Still I think it charming. Who should follow
-us down the road from the coach, my dear, but a poor person in a very
+us down the [[Road|road]] from the coach, my dear, but a poor person in a very
 ungenteel bonnet—”
 
 “Jenny, if you please, miss,” said Charley.
@@ -74,12 +74,12 @@ yours, miss, and partly because it had covered the baby.”
 
 “Diminutive,” whispered Miss Flite, making a variety of motions about
 her own forehead to express intellect in Charley. “But exceedingly
-sagacious! And so dear! My love, she’s clearer than any counsel I
+sagacious! And so dear! My [[Love|love]], she’s clearer than any counsel I
 ever heard!”
 
-“Yes, Charley,” I returned. “I remember it. Well?”
+“Yes, Charley,” I returned. “I remember it. [[Well]]?”
 
-“Well, miss,” said Charley, “and that’s the handkerchief the lady
+“[[Well]], miss,” said Charley, “and that’s the handkerchief the lady
 took. And Jenny wants you to know that she wouldn’t have made away
 with it herself for a heap of money but that the lady took it and
 left some money instead. Jenny don’t know her at all, if you please,
@@ -87,11 +87,11 @@ miss!”
 
 “Why, who can she be?” said I.
 
-“My love,” Miss Flite suggested, advancing her lips to my ear with
+“My [[Love|love]],” Miss Flite suggested, advancing her lips to my ear with
 her most mysterious look, “in MY opinion—don’t mention this to our
 diminutive friend—she’s the Lord Chancellor’s wife. He’s married,
 you know. And I understand she leads him a terrible life. Throws his
-lordship’s papers into the fire, my dear, if he won’t pay the
+lordship’s papers into the [[Fire|fire]], my dear, if he won’t pay the
 jeweller!”
 
 I did not think very much about this lady then, for I had an
@@ -104,13 +104,13 @@ down in a paper parcel. I had to preside, too, over the
 entertainment, consisting of a dish of fish, a roast fowl, a
 sweetbread, vegetables, pudding, and Madeira; and it was so pleasant
 to see how she enjoyed it, and with what state and ceremony she did
-honour to it, that I was soon thinking of nothing else.
+[[Honour|honour]] to it, that I was soon thinking of nothing else.
 
 When we had finished and had our little dessert before us,
 embellished by the hands of my dear, who would yield the
 superintendence of everything prepared for me to no one, Miss Flite
 was so very chatty and happy that I thought I would lead her to her
-own history, as she was always pleased to talk about herself. I began
+own [[history]], as she was always pleased to talk about herself. I began
 by saying “You have attended on the Lord Chancellor many years, Miss
 Flite?”
 
@@ -135,7 +135,7 @@ to her by meeting the theme rather than avoiding it.
 
 “Why, my dear,” she answered promptly, “of course it would!”
 
-“And to attend the court no more?”
+“And to attend the [[Court|court]] no more?”
 
 “Equally of course,” said she. “Very wearing to be always in
 expectation of what never comes, my dear Fitz Jarndyce! Wearing, I

@@ -1,5 +1,5 @@
 ---
-title: "The History of King Lear (Quarto Text) — Scene 6 — exchange (GLOUCESTER I) [3]"
+title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 6 — exchange ([[Gloucester|GLOUCESTER]] I) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| GLOUCESTER | I serve you, madam. Your graces are right welcome. Exeunt |
+| [[Gloucester|GLOUCESTER]] | I serve you, madam. Your graces are right welcome. Exeunt |

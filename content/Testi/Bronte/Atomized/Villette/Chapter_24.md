@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 24"
+title: "[[Villette]] — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -20,12 +20,12 @@ M. DE BASSOMPIERRE.
 
 Those who live in retirement, whose lives have fallen amid the
 seclusion of schools or of other walled-in and guarded dwellings, are
-liable to be suddenly and for a long while dropped out of the memory of
+liable to be suddenly and for a long while dropped out of the [[Memory|memory]] of
 their friends, the denizens of a freer world. Unaccountably, perhaps,
 and close upon some space of unusually frequent intercourse—some
 congeries of rather exciting little circumstances, whose natural sequel
 would rather seem to be the quickening than the suspension of
-communication—there falls a stilly pause, a wordless silence, a long
+communication—there falls a stilly pause, a wordless [[Silence|silence]], a long
 blank of oblivion. Unbroken always is this blank; alike entire and
 unexplained. The letter, the message once frequent, are cut off; the
 visit, formerly periodical, ceases to occur; the book, paper, or other
@@ -39,8 +39,8 @@ wingless hours plod by in the likeness of tired tramps prone to rest at
 milestones—that same interval, perhaps, teems with events, and pants
 with hurry for his friends.
 
-The hermit—if he be a sensible hermit—will swallow his own thoughts,
-and lock up his own emotions during these weeks of inward winter. He
+The hermit—if he be a sensible hermit—will [[Swallow|swallow]] his own thoughts,
+and lock up his own emotions during these weeks of inward [[Winter|winter]]. He
 will know that Destiny designed him to imitate, on occasion, the
 dormouse, and he will be conformable: make a tidy ball of himself,
 creep into a hole of life’s wall, and submit decently to the drift
@@ -48,28 +48,28 @@ which blows in and soon blocks him up, preserving him in ice for the
 season.
 
 Let him say, “It is quite right: it ought to be so, since so it is.”
-And, perhaps, one day his snow-sepulchre will open, spring’s softness
-will return, the sun and south-wind will reach him; the budding of
-hedges, and carolling of birds, and singing of liberated streams, will
-call him to kindly resurrection. _Perhaps_ this may be the case,
-perhaps not: the frost may get into his heart and never thaw more; when
-spring comes, a crow or a pie may pick out of the wall only his
-dormouse-bones. Well, even in that case, all will be right: it is to be
+And, perhaps, one day his [[Snow|snow]]-sepulchre will open, [[spring]]’s softness
+will return, the sun and south-[[Wind|wind]] will reach him; the budding of
+hedges, and carolling of [[Birds|birds]], and singing of liberated streams, will
+call him to kindly [[Resurrection|resurrection]]. _Perhaps_ this may be the case,
+perhaps not: the [[Frost|frost]] may get into his heart and never thaw more; when
+[[spring]] comes, a crow or a pie may pick out of the wall only his
+dormouse-bones. [[Well]], even in that case, all will be right: it is to be
 supposed he knew from the first he was mortal, and must one day go the
-way of all flesh, “As well soon as syne.”
+way of all flesh, “As [[Well|well]] soon as syne.”
 
 Following that eventful evening at the theatre, came for me seven weeks
 as bare as seven sheets of blank paper: no word was written on one of
 them; not a visit, not a token.
 
-About the middle of that time I entertained fancies that something had
+About the middle of that [[Time|time]] I entertained fancies that something had
 happened to my friends at La Terrasse. The mid-blank is always a
 beclouded point for the solitary: his nerves ache with the strain of
 long expectancy; the doubts hitherto repelled gather now to a mass
 and—strong in accumulation—roll back upon him with a force which
-savours of vindictiveness. Night, too, becomes an unkindly time, and
-sleep and his nature cannot agree: strange starts and struggles harass
-his couch: the sinister band of bad dreams, with horror of calamity,
+savours of vindictiveness. [[Night]], too, becomes an unkindly [[Time|time]], and
+[[Sleep|sleep]] and his [[Nature|nature]] cannot agree: strange starts and struggles harass
+his couch: the sinister band of bad [[Dreams|dreams]], with horror of calamity,
 and sick dread of entire desertion at their head, join the league
 against him. Poor wretch! He does his best to bear up, but he is a
 poor, pallid, wasting wretch, despite that best.
@@ -79,11 +79,11 @@ other six I had jealously excluded—the conviction that these blanks
 were inevitable: the result of circumstances, the fiat of fate, a part
 of my life’s lot and—above all—a matter about whose origin no question
 must ever be asked, for whose painful sequence no murmur ever uttered.
-Of course I did not blame myself for suffering: I thank God I had a
+Of course I did not blame myself for [[Suffering|suffering]]: I thank God I had a
 truer sense of justice than to fall into any imbecile extravagance of
-self-accusation; and as to blaming others for silence, in my reason I
-well knew them blameless, and in my heart acknowledged them so: but it
-was a rough and heavy road to travel, and I longed for better days.
+[[Self|self]]-accusation; and as to blaming others for [[Silence|silence]], in my reason I
+[[Well|well]] knew them blameless, and in my heart acknowledged them so: but it
+was a rough and heavy [[Road|road]] to travel, and I longed for better days.
 
 I tried different expedients to sustain and fill existence: I commenced
 an elaborate piece of lace-work, I studied German pretty hard, I
@@ -94,49 +94,49 @@ as if I had gnawed a file to satisfy hunger, or drank brine to quench
 thirst.
 
 My hour of torment was the post-hour. Unfortunately, I knew it too
-well, and tried as vainly as assiduously to cheat myself of that
+[[Well|well]], and tried as vainly as assiduously to cheat myself of that
 knowledge; dreading the rack of expectation, and the sick collapse of
 disappointment which daily preceded and followed upon that
-well-recognised ring.
+[[Well|well]]-recognised ring.
 
-I suppose animals kept in cages, and so scantily fed as to be always
+I suppose [[Animals|animals]] kept in cages, and so scantily fed as to be always
 upon the verge of famine, await their food as I awaited a letter.
-Oh!—to speak truth, and drop that tone of a false calm which long to
-sustain, outwears nature’s endurance—I underwent in those seven weeks
+Oh!—to speak [[Truth|truth]], and drop that tone of a false calm which long to
+sustain, outwears [[Nature|nature]]’s [[Endurance|endurance]]—I underwent in those seven weeks
 bitter fears and pains, strange inward trials, miserable defections of
-hope, intolerable encroachments of despair. This last came so near me
+[[Hope|hope]], intolerable encroachments of [[Despair|despair]]. This last came so near me
 sometimes that her breath went right through me. I used to feel it like
 a baleful air or sigh, penetrate deep, and make motion pause at my
 heart, or proceed only under unspeakable oppression. The letter—the
-well-beloved letter—would not come; and it was all of sweetness in life
+[[Well|well]]-beloved letter—would not come; and it was all of sweetness in life
 I had to look for.
 
 In the very extremity of want, I had recourse again, and yet again, to
 the little packet in the case—the five letters. How splendid that month
-seemed whose skies had beheld the rising of these five stars! It was
-always at night I visited them, and not daring to ask every evening for
+seemed whose skies had beheld the rising of these five [[Stars|stars]]! It was
+always at [[Night|night]] I visited them, and not daring to ask every evening for
 a candle in the kitchen, I bought a wax taper and matches to light it,
 and at the study-hour stole up to the dormitory and feasted on my crust
 from the Barmecide’s loaf. It did not nourish me: I pined on it, and
-got as thin as a shadow: otherwise I was not ill.
+got as thin as a [[Shadow|shadow]]: otherwise I was not ill.
 
 Reading there somewhat late one evening, and feeling that the power to
 read was leaving me—for the letters from incessant perusal were losing
-all sap and significance: my gold was withering to leaves before my
+all sap and significance: my gold was withering to [[Leaves|leaves]] before my
 eyes, and I was sorrowing over the disillusion—suddenly a quick
-tripping foot ran up the stairs. I knew Ginevra Fanshawe’s step: she
+tripping foot ran up the stairs. I knew [[Ginevra Fanshawe]]’s step: she
 had dined in town that afternoon; she was now returned, and would come
 here to replace her shawl, &c. in the wardrobe.
 
 Yes: in she came, dressed in bright silk, with her shawl falling from
-her shoulders, and her curls, half-uncurled in the damp of night,
-drooping careless and heavy upon her neck. I had hardly time to
+her shoulders, and her curls, half-uncurled in the damp of [[Night|night]],
+drooping careless and heavy upon her neck. I had hardly [[Time|time]] to
 recasket my treasures and lock them up when she was at my side her
-humour seemed none of the best.
+[[Humour|humour]] seemed none of the best.
 
 “It has been a stupid evening: they are stupid people,” she began.
 
-“Who? Mrs. Cholmondeley? I thought you always found her house
+“Who? Mrs. Cholmondeley? I thought you always found her [[house]]
 charming?”
 
 “I have not been to Mrs. Cholmondeley’s.”
@@ -163,10 +163,10 @@ left him estates, a title, and this name: he is quite a great man now.”
 married mamma’s sister. Mamma detests him; she says he killed aunt
 Ginevra with unkindness: he looks like a bear. Such a dismal evening!”
 she went on. “I’ll go no more to his big hotel. Fancy me walking into a
-room alone, and a great man fifty years old coming forwards, and after
+room [[Alone|alone]], and a great man fifty years old coming forwards, and after
 a few minutes’ conversation actually turning his back upon me, and then
-abruptly going out of the room. Such odd ways! I daresay his conscience
-smote him, for they all say at home I am the picture of aunt Ginevra.
+abruptly going out of the room. Such odd ways! I daresay his [[Conscience|conscience]]
+smote him, for they all say at [[Home|home]] I am the picture of aunt Ginevra.
 Mamma often declares the likeness is quite ridiculous.”
 
 “Were you the only visitor?”
@@ -208,12 +208,12 @@ conceited doll it is!”
 Soured and listless, Miss Fanshawe was beginning to disclose the causes
 of her prostrate condition. There had been a retrenchment of incense, a
 diversion or a total withholding of homage and attention coquetry had
-failed of effect, vanity had undergone mortification. She lay fuming in
+failed of effect, [[Vanity|vanity]] had undergone mortification. She lay fuming in
 the vapours.
 
-“Is Miss de Bassompierre quite well now?” I asked.
+“Is Miss de Bassompierre quite [[Well|well]] now?” I asked.
 
-“As well as you or I, no doubt; but she is an affected little thing,
+“As [[Well|well]] as you or I, no [[Doubt|doubt]]; but she is an affected little thing,
 and gave herself invalid airs to attract medical notice. And to see the
 old dowager making her recline on a couch, and ‘my son John’
 prohibiting excitement, etcetera—faugh! the scene was quite sickening.”
@@ -228,11 +228,11 @@ never calls him so.”
 
 “Then she ought. A clownish, bearish John he is.”
 
-“You violate the truth in saying so; and as the whole of my patience is
-now spun off the distaff, I peremptorily desire you to rise from that
+“You violate the [[Truth|truth]] in saying so; and as the whole of my patience is
+now spun off the distaff, I peremptorily [[Desire|desire]] you to rise from that
 bed, and vacate this room.”
 
-“Passionate thing! Your face is the colour of a coquelicot. I wonder
+“Passionate thing! Your face is the colour of a coquelicot. I [[Wonder|wonder]]
 what always makes you so mighty testy à l’endroit du gros Jean? ‘John
 Anderson, my Joe, John!’ Oh, the distinguished name!”
 
@@ -242,32 +242,32 @@ feather, that mealy-winged moth—I extinguished my taper, locked my
 bureau, and left her, since she would not leave me. Small-beer as she
 was, she had turned insufferably acid.
 
-The morrow was Thursday and a half-holiday. Breakfast was over; I had
+The morrow was [[thursday|Thursday]] and a half-holiday. Breakfast was over; I had
 withdrawn to the first classe. The dreaded hour, the post-hour, was
-nearing, and I sat waiting it, much as a ghost-seer might wait his
+nearing, and I sat waiting it, much as a [[Ghost|ghost]]-seer might wait his
 spectre. Less than ever was a letter probable; still, strive as I
 would, I could not forget that it was possible. As the moments
-lessened, a restlessness and fear almost beyond the average assailed
-me. It was a day of winter east wind, and I had now for some time
+lessened, a restlessness and [[Fear|fear]] almost beyond the average assailed
+me. It was a day of [[Winter|winter]] east [[Wind|wind]], and I had now for some [[Time|time]]
 entered into that dreary fellowship with the winds and their changes,
 so little known, so incomprehensible to the healthy. The north and east
-owned a terrific influence, making all pain more poignant, all sorrow
+owned a terrific influence, making all [[Pain|pain]] more poignant, all sorrow
 sadder. The south could calm, the west sometimes cheer: unless, indeed,
 they brought on their wings the burden of thunder-clouds, under the
 weight and warmth of which all energy died.
 
 Bitter and dark as was this January day, I remember leaving the classe,
-and running down without bonnet to the bottom of the long garden, and
-then lingering amongst the stripped shrubs, in the forlorn hope that
+and running down without bonnet to the [[Bottom|bottom]] of the long [[Garden|garden]], and
+then lingering amongst the stripped shrubs, in the forlorn [[Hope|hope]] that
 the postman’s ring might occur while I was out of hearing, and I might
 thus be spared the thrill which some particular nerve or nerves, almost
 gnawed through with the unremitting tooth of a fixed idea, were
 becoming wholly unfit to support. I lingered as long as I dared without
-fear of attracting attention by my absence. I muffled my head in my
+[[Fear|fear]] of attracting attention by my absence. I muffled my head in my
 apron, and stopped my ears in terror of the torturing clang, sure to be
-followed by such blank silence, such barren vacuum for me. At last I
+followed by such blank [[Silence|silence]], such barren vacuum for me. At last I
 ventured to re-enter the first classe, where, as it was not yet nine
-o’clock, no pupils had been admitted. The first thing seen was a white
+o’[[Clock|clock]], no pupils had been admitted. The first thing seen was a white
 object on my black desk, a white, flat object. The post had, indeed,
 arrived; by me unheard. Rosine had visited my cell, and, like some
 angel, had left behind her a bright token of her presence. That shining
@@ -277,17 +277,17 @@ earth, from that one it must come. He remembered me yet. How deep a
 pulse of gratitude sent new life through my heart.
 
 Drawing near, bending and looking on the letter, in trembling but
-almost certain hope of seeing a known hand, it was my lot to find, on
+almost certain [[Hope|hope]] of seeing a known hand, it was my lot to find, on
 the contrary, an autograph for the moment deemed unknown—a pale female
 scrawl, instead of a firm, masculine character. I then thought fate was
 _too_ hard for me, and I said, audibly, “This is cruel.”
 
-But I got over that pain also. Life is still life, whatever its pangs:
+But I got over that [[Pain|pain]] also. Life is still life, whatever its pangs:
 our eyes and ears and their use remain with us, though the prospect of
 what pleases be wholly withdrawn, and the sound of what consoles be
 quite silenced.
 
-I opened the billet: by this time I had recognised its handwriting as
+I opened the billet: by this [[Time|time]] I had recognised its handwriting as
 perfectly familiar. It was dated “La Terrasse,” and it ran thus:—
 
 “DEAR LUCY,—It occurs to me to inquire what you have been doing with
@@ -302,10 +302,10 @@ Lucy, he is a fine fellow: his mother’s heart dances at the sight of
 him. After being hurried here and there the whole day, and passing the
 ordeal of fifty sorts of tempers, and combating a hundred caprices, and
 sometimes witnessing cruel sufferings—perhaps, occasionally, as I tell
-him, inflicting them—at night he still comes home to me in such kindly,
+him, inflicting them—at [[Night|night]] he still comes [[Home|home]] to me in such kindly,
 pleasant mood, that really, I seem to live in a sort of moral
 antipodes, and on these January evenings my day rises when other
-people’s night sets in.
+people’s [[Night|night]] sets in.
     “Still he needs keeping in order, and correcting, and repressing,
     and I do him that good service; but the boy is so elastic there is
     no such thing as vexing him thoroughly. When I think I have at last
@@ -318,18 +318,18 @@ people’s night sets in.
     left him. He laughs to scorn my anxiety on this point, bidding me
     look and see how he can provide for himself and me too, and asking
     what the old lady can possibly want that she has not; hinting about
-    sky-blue turbans; accusing me of an ambition to wear diamonds, keep
+    sky-blue turbans; accusing me of an [[Ambition|ambition]] to wear diamonds, keep
     livery servants, have an hotel, and lead the fashion amongst the
-    English clan in Villette.
+    English clan in [[Villette]].
     “Talking of sky-blue turbans, I wish you had been with us the other
     evening. He had come in really tired, and after I had given him his
     tea, he threw himself into my chair with his customary presumption.
     To my great delight, he dropped asleep. (You know how he teases me
     about being drowsy; I, who never, by any chance, close an eye by
     daylight.) While he slept, I thought he looked very bonny, Lucy:
-    fool as I am to be so proud of him; but who can help it? Show me
-    his peer. Look where I will, I see nothing like him in Villette.
-    Well, I took it into my head to play him a trick: so I brought out
+    [[Fool|fool]] as I am to be so proud of him; but who can help it? Show me
+    his peer. Look where I will, I see nothing like him in [[Villette]].
+    [[Well]], I took it into my head to play him a trick: so I brought out
     the sky-blue turban, and handling it with gingerly precaution, I
     managed to invest his brows with this grand adornment. I assure you
     it did not at all misbecome him; he looked quite Eastern, except
@@ -338,15 +338,15 @@ people’s night sets in.
     I put my large cashmere about him, there was as fine a young bey,
     dey, or pacha improvised as you would wish to see.
     “It was good entertainment; but only half-enjoyed, since I was
-    alone: you should have been there.
-    “In due time my lord awoke: the looking-glass above the fireplace
+    [[Alone|alone]]: you should have been there.
+    “In due [[Time|time]] my lord awoke: the looking-glass above the fireplace
     soon intimated to him his plight: as you may imagine, I now live
     under threat and dread of vengeance.
-    “But to come to the gist of my letter. I know Thursday is a
+    “But to come to the gist of my letter. I know [[thursday|Thursday]] is a
     half-holiday in the Rue Fossette: be ready, then, by five in the
     afternoon, at which hour I will send the carriage to take you out
     to La Terrasse. Be sure to come: you may meet some old
-    acquaintance. Good-by, my wise, dear, grave little
+    acquaintance. Good-by, my wise, dear, [[Grave|grave]] little
     god-daughter.—Very truly yours,
 
 
@@ -355,26 +355,26 @@ people’s night sets in.
 
 Now, a letter like that sets one to rights! I might still be sad after
 reading that letter, but I was more composed; not exactly cheered,
-perhaps, but relieved. My friends, at least, were well and happy: no
+perhaps, but relieved. My friends, at least, were [[Well|well]] and happy: no
 accident had occurred to Graham; no illness had seized his
 mother—calamities that had so long been my dream and thought. Their
 feelings for me too were—as they had been. Yet, how strange it was to
 look on Mrs. Bretton’s seven weeks and contrast them with my seven
 weeks! Also, how very wise it is in people placed in an exceptional
 position to hold their tongues and not rashly declare how such position
-galls them! The world can understand well enough the process of
+galls them! The world can understand [[Well|well]] enough the process of
 perishing for want of food: perhaps few persons can enter into or
 follow out that of going mad from solitary confinement. They see the
 long-buried prisoner disinterred, a maniac or an idiot!—how his senses
 left him—how his nerves, first inflamed, underwent nameless agony, and
 then sunk to palsy—is a subject too intricate for examination, too
 abstract for popular comprehension. Speak of it! you might almost as
-well stand up in an European market-place, and propound dark sayings in
+[[Well|well]] stand up in an European market-place, and propound dark sayings in
 that language and mood wherein Nebuchadnezzar, the imperial
 hypochondriac, communed with his baffled Chaldeans. And long, long may
 the minds to whom such themes are no mystery—by whom their bearings are
 sympathetically seized—be few in number, and rare of rencounter. Long
-may it be generally thought that physical privations alone merit
+may it be generally thought that physical privations [[Alone|alone]] merit
 compassion, and that the rest is a figment. When the world was younger
 and haler than now, moral trials were a deeper mystery still: perhaps
 in all the land of Israel there was but one Saul—certainly but one
@@ -383,31 +383,31 @@ David to soothe or comprehend him.
 The keen, still cold of the morning was succeeded, later in the day, by
 a sharp breathing from Russian wastes: the cold zone sighed over the
 temperate zone, and froze it fast. A heavy firmament, dull, and thick
-with snow, sailed up from the north, and settled over expectant Europe.
+with [[Snow|snow]], sailed up from the north, and settled over expectant Europe.
 Towards afternoon began the descent. I feared no carriage would come,
 the white tempest raged so dense and wild. But trust my godmother! Once
-having asked, she would have her guest. About six o’clock I was lifted
+having asked, she would have her guest. About six o’[[Clock|clock]] I was lifted
 from the carriage over the already blocked-up front steps of the
 château, and put in at the door of La Terrasse.
 
 Running through the vestibule, and up-stairs to the drawing-room, there
-I found Mrs. Bretton—a summer-day in her own person. Had I been twice
+I found Mrs. Bretton—a [[Summer|summer]]-day in her own person. Had I been twice
 as cold as I was, her kind kiss and cordial clasp would have warmed me.
-Inured now for so long a time to rooms with bare boards, black benches,
+Inured now for so long a [[Time|time]] to rooms with bare boards, black benches,
 desks, and stoves, the blue saloon seemed to me gorgeous. In its
-Christmas-like fire alone there was a clear and crimson splendour which
+Christmas-like [[Fire|fire]] [[Alone|alone]] there was a clear and crimson splendour which
 quite dazzled me.
 
 When my godmother had held my hand for a little while, and chatted with
 me, and scolded me for having become thinner than when she last saw me,
-she professed to discover that the snow-wind had disordered my hair,
+she professed to discover that the [[Snow|snow]]-[[Wind|wind]] had disordered my hair,
 and sent me up-stairs to make it neat and remove my shawl.
 
 Repairing to my own little sea-green room, there also I found a bright
-fire, and candles too were lit: a tall waxlight stood on each side the
+[[Fire|fire]], and candles too were lit: a tall waxlight stood on each side the
 great looking-glass; but between the candles, and before the glass,
 appeared something dressing itself—an airy, fairy thing—small, slight,
-white—a winter spirit.
+white—a [[Winter|winter]] spirit.
 
 I declare, for one moment I thought of Graham and his spectral
 illusions. With distrustful eye I noted the details of this new vision.
@@ -432,10 +432,10 @@ of fine and delicate featuring, I could not but know her.
 inquire who then she might be, but waited voluntary information.
 
 “You are changed, but still you are yourself,” she said, approaching
-nearer. “I remember you well—your countenance, the colour of your hair,
+nearer. “I remember you [[Well|well]]—your countenance, the colour of your hair,
 the outline of your face….”
 
-I had moved to the fire, and she stood opposite, and gazed into me; and
+I had moved to the [[Fire|fire]], and she stood opposite, and gazed into me; and
 as she gazed, her face became gradually more and more expressive of
 thought and feeling, till at last a dimness quenched her clear vision.
 
@@ -444,29 +444,29 @@ being sorry, or sentimental, don’t think it: on the contrary, I am
 quite pleased and glad.”
 
 Interested, yet altogether at fault, I knew not what to say. At last I
-stammered, “I think I never met you till that night, some weeks ago,
+stammered, “I think I never met you till that [[Night|night]], some weeks ago,
 when you were hurt…?”
 
 She smiled. “You have forgotten then that I have sat on your knee, been
 lifted in your arms, even shared your pillow? You no longer remember
-the night when I came crying, like a naughty little child as I was, to
-your bedside, and you took me in. You have no memory for the comfort
+the [[Night|night]] when I came crying, like a naughty little [[Child|child]] as I was, to
+your bedside, and you took me in. You have no [[Memory|memory]] for the comfort
 and protection by which you soothed an acute distress? Go back to
-Bretton. Remember Mr. Home.”
+Bretton. Remember Mr. [[Home]].”
 
 At last I saw it all. “And you are little Polly?”
 
-“I am Paulina Mary Home de Bassompierre.”
+“I am [[Paulina]] Mary [[Home]] de Bassompierre.”
 
-How time can change! Little Polly wore in her pale, small features, her
+How [[Time|time]] can change! Little Polly wore in her pale, small features, her
 fairy symmetry, her varying expression, a certain promise of interest
-and grace; but Paulina Mary was become beautiful—not with the beauty
-that strikes the eye like a rose—orbed, ruddy, and replete; not with
+and grace; but [[Paulina]] Mary was become beautiful—not with the [[Beauty|beauty]]
+that strikes the eye like a [[Rose|rose]]—orbed, ruddy, and replete; not with
 the plump, and pink, and flaxen attributes of her blond cousin Ginevra;
 but her seventeen years had brought her a refined and tender charm
 which did not lie in complexion, though hers was fair and clear; nor in
 outline, though her features were sweet, and her limbs perfectly
-turned; but, I think, rather in a subdued glow from the soul outward.
+turned; but, I think, rather in a subdued glow from the [[Soul|soul]] outward.
 This was not an opaque vase, of material however costly, but a lamp
 chastely lucent, guarding from extinction, yet not hiding from worship,
 a flame vital and vestal. In speaking of her attractions, I would not
@@ -475,10 +475,10 @@ engaging. What though all was on a small scale, it was the perfume
 which gave this white violet distinction, and made it superior to the
 broadest camelia—the fullest dahlia that ever bloomed.
 
-“Ah! and you remember the old time at Bretton?”
+“Ah! and you remember the old [[Time|time]] at Bretton?”
 
 “Better,” said she, “better, perhaps, than you. I remember it with
-minute distinctness: not only the time, but the days of the time, and
+minute distinctness: not only the [[Time|time]], but the days of the [[Time|time]], and
 the hours of the days.”
 
 “You must have forgotten some things?”
@@ -490,25 +490,25 @@ this, have outgrown the impressions with which joy and grief, affection
 and bereavement, stamped your mind ten years ago.”
 
 “You think I have forgotten whom I liked, and in what degree I liked
-them when a child?”
+them when a [[Child|child]]?”
 
 “The sharpness must be gone—the point, the poignancy—the deep imprint
 must be softened away and effaced?”
 
-“I have a good memory for those days.”
+“I have a good [[Memory|memory]] for those days.”
 
 She looked as if she had. Her eyes were the eyes of one who can
-remember; one whose childhood does not fade like a dream, nor whose
+remember; one whose [[Childhood|childhood]] does not fade like [[A Dream|a dream]], nor whose
 youth vanish like a sunbeam. She would not take life, loosely and
 incoherently, in parts, and let one season slip as she entered on
 another: she would retain and add; often review from the commencement,
 and so grow in harmony and consistency as she grew in years. Still I
 could not quite admit the conviction that _all_ the pictures which now
 crowded upon me were vivid and visible to her. Her fond attachments,
-her sports and contests with a well-loved playmate, the patient, true
-devotion of her child’s heart, her fears, her delicate reserves, her
-little trials, the last piercing pain of separation…. I retraced these
-things, and shook my head incredulous. She persisted. “The child of
+her sports and contests with a [[Well|well]]-loved playmate, the patient, true
+devotion of her [[Child|child]]’s heart, her fears, her delicate reserves, her
+little trials, the last piercing [[Pain|pain]] of separation…. I retraced these
+things, and shook my head incredulous. She persisted. “The [[Child|child]] of
 seven years lives yet in the girl of seventeen,” said she.
 
 “You used to be excessively fond of Mrs. Bretton,” I remarked,
@@ -523,7 +523,7 @@ We were silent a few minutes. Glancing round the room she said, “There
 are several things here that used to be at Bretton! I remember that
 pincushion and that looking-glass.”
 
-Evidently she was not deceived in her estimate of her own memory; not,
+Evidently she was not deceived in her estimate of her own [[Memory|memory]]; not,
 at least, so far.
 
 “You think, then, you would have known Mrs. Bretton?” I went on.
@@ -535,36 +535,36 @@ complexion, and black hair, her height, her walk, her voice.”
 and, indeed, as I saw your first interview with him, I am aware that he
 appeared to you as a stranger.”
 
-“That first night I was puzzled,” she answered.
+“That first [[Night|night]] I was puzzled,” she answered.
 
 “How did the recognition between him and your father come about?”
 
-“They exchanged cards. The names Graham Bretton and Home de
+“They exchanged cards. The names [[Graham Bretton]] and [[Home]] de
 Bassompierre gave rise to questions and explanations. That was on the
 second day; but before then I was beginning to know something.”
 
 “How—know something?”
 
 “Why,” she said, “how strange it is that most people seem so slow to
-feel the truth—not to see, but _feel_! When Dr. Bretton had visited me
+feel the [[Truth|truth]]—not to see, but _feel_! When Dr. Bretton had visited me
 a few times, and sat near and talked to me; when I had observed the
 look in his eyes, the expression about his mouth, the form of his chin,
 the carriage of his head, and all that we _do_ observe in persons who
 approach us—how could I avoid being led by association to think of
-Graham Bretton? Graham was slighter than he, and not grown so tall, and
+[[Graham Bretton]]? Graham was slighter than he, and not grown so tall, and
 had a smoother face, and longer and lighter hair, and spoke—not so
 deeply—more like a girl; but yet _he_ is Graham, just as _I_ am little
-Polly, or you are Lucy Snowe.”
+Polly, or you are [[Lucy Snowe]].”
 
 I thought the same, but I wondered to find my thoughts hers: there are
-certain things in which we so rarely meet with our double that it seems
+certain things in which we so rarely meet with our [[Double|double]] that it seems
 a miracle when that chance befalls.
 
 “You and Graham were once playmates.”
 
 “And do you remember that?” she questioned in her turn.
 
-“No doubt he will remember it also,” said I.
+“No [[Doubt|doubt]] he will remember it also,” said I.
 
 “I have not asked him: few things would surprise me so much as to find
 that he did. I suppose his disposition is still gay and careless?”
@@ -581,13 +581,13 @@ those with whom he read or amused himself.”
 “Partial to me? Oh, no! he had other playmates—his school-fellows; I
 was of little consequence to him, except on Sundays: yes, he was kind
 on Sundays. I remember walking with him hand-in-hand to St. Mary’s, and
-his finding the places in my prayer-book; and how good and still he was
-on Sunday evenings! So mild for such a proud, lively boy; so patient
+his finding the places in my [[prayer]]-book; and how good and still he was
+on [[Sunday]] evenings! So mild for such a proud, lively boy; so patient
 with all my blunders in reading; and so wonderfully to be depended on,
-for he never spent those evenings from home: I had a constant fear that
+for he never spent those evenings from [[Home|home]]: I had a constant [[Fear|fear]] that
 he would accept some invitation and forsake us; but he never did, nor
 seemed ever to wish to do it. Thus, of course, it can be no more. I
-suppose Sunday will now be Dr. Bretton’s dining-out day….?”
+suppose [[Sunday]] will now be Dr. Bretton’s dining-out day….?”
 
-“Children, come down!” here called Mrs. Bretton from below. Paulina
+“Children, come down!” here called Mrs. Bretton from below. [[Paulina]]
 would still have lingered, but I inclined to descend: we went down.

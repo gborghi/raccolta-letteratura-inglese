@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 23 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 23 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-and the beauty of its wood, and ornaments of rich carving might be
+and the [[Beauty|beauty]] of its wood, and ornaments of rich carving might be
 
 pointed out: having gained the top, they turned in an opposite
 
@@ -40,11 +40,11 @@ of the distinguished characters by whom they had at times been
 
 honoured, turned with a smiling countenance to Catherine, and ventured
 
-to hope that henceforward some of their earliest tenants might be “our
+to [[Hope|hope]] that henceforward some of their earliest tenants might be “our
 
 friends from Fullerton.” She felt the unexpected compliment, and deeply
 
-regretted the impossibility of thinking well of a man so kindly
+regretted the impossibility of thinking [[Well|well]] of a man so kindly
 
 disposed towards herself, and so full of civility to all her family.
 
@@ -78,9 +78,9 @@ something worth her notice; and felt, as she unwillingly paced back the
 
 gallery, that she would rather be allowed to examine that end of the
 
-house than see all the finery of all the rest. The General’s evident
+[[house]] than see all the finery of all the rest. The General’s evident
 
-desire of preventing such an examination was an additional stimulant.
+[[Desire|desire]] of preventing such an examination was an additional stimulant.
 
 Something was certainly to be concealed; her fancy, though it had
 
@@ -94,27 +94,27 @@ going to take you into what was my mother’s room—the room in which she
 
 died—” were all her words; but few as they were, they conveyed pages of
 
-intelligence to Catherine. It was no wonder that the General should
+intelligence to Catherine. It was no [[Wonder|wonder]] that the General should
 
 shrink from the sight of such objects as that room must contain; a room
 
 in all probability never entered by him since the dreadful scene had
 
-passed, which released his suffering wife, and left him to the stings
+passed, which released his [[Suffering|suffering]] wife, and left him to the stings
 
-of conscience.
+of [[Conscience|conscience]].
 
 
 
-She ventured, when next alone with Eleanor, to express her wish of
+She ventured, when next [[Alone|alone]] with [[Eleanor]], to express her wish of
 
-being permitted to see it, as well as all the rest of that side of the
+being permitted to see it, as [[Well|well]] as all the rest of that side of the
 
-house; and Eleanor promised to attend her there, whenever they should
+[[house]]; and [[Eleanor]] promised to attend her there, whenever they should
 
 have a convenient hour. Catherine understood her: the General must be
 
-watched from home, before that room could be entered. “It remains as it
+watched from [[Home|home]], before that room could be entered. “It remains as it
 
 was, I suppose?” said she, in a tone of feeling.
 
@@ -130,9 +130,9 @@ was, I suppose?” said she, in a tone of feeling.
 
 “She has been dead these nine years.” And nine years, Catherine knew,
 
-was a trifle of time, compared with what generally elapsed after the
+was a trifle of [[Time|time]], compared with what generally elapsed after the
 
-death of an injured wife, before her room was put to rights.
+[[Death|death]] of an injured wife, before her room was put to rights.
 
 
 
@@ -140,13 +140,13 @@ death of an injured wife, before her room was put to rights.
 
 
 
-“No,” said Miss Tilney, sighing; “I was unfortunately from home. Her
+“No,” said Miss Tilney, sighing; “I was unfortunately from [[Home|home]]. Her
 
 illness was sudden and short; and, before I arrived it was all over.”
 
 
 
-Catherine’s blood ran cold with the horrid suggestions which naturally
+Catherine’s [[Blood|blood]] ran cold with the horrid suggestions which naturally
 
 sprang from these words. Could it be possible? Could Henry’s father—?
 
@@ -164,7 +164,7 @@ attitude of a Montoni! what could more plainly speak the gloomy
 
 workings of a mind not wholly dead to every sense of humanity, in its
 
-fearful review of past scenes of guilt? Unhappy man! and the
+fearful review of past scenes of [[Guilt|guilt]]? Unhappy man! and the
 
 anxiousness of her spirits directed her eyes towards his figure so
 

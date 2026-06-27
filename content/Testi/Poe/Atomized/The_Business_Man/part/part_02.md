@@ -1,5 +1,5 @@
 ---
-title: "The Business Man (part 2)"
+title: "[[The Business Man]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Business-Man-(Poe)"
@@ -18,17 +18,17 @@ tags:
 
       suit upon my back, was the admiration of all the knowing men in
 
-      the trade. Noon never passed without my bringing home a customer
+      the trade. [[Noon]] never passed without my bringing [[Home|home]] a customer
 
-      to the house of my employers, Messrs. Cut & Comeagain. I say this
+      to the [[house]] of my employers, Messrs. Cut & Comeagain. I say this
 
-      proudly, but with tears in my eyes—for the firm proved themselves
+      proudly, but with [[Tears|tears]] in my eyes—for the firm proved themselves
 
       the basest of ingrates. The little account, about which we
 
       quarreled and finally parted, cannot, in any item, be thought
 
-      overcharged, by gentlemen really conversant with the nature of
+      overcharged, by gentlemen really conversant with the [[Nature|nature]] of
 
       the business. Upon this point, however, I feel a degree of proud
 
@@ -44,7 +44,7 @@ To Peter Proffit, Walking Advertiser,_ Drs.
 
 
 
-July 10.   to promenade, as usual and customer brought home   $00 25
+July 10.   to promenade, as usual and customer brought [[Home|home]]   $00 25
 
 July 11.   To do do do                                            25
 
@@ -60,7 +60,7 @@ July 20.   To purchasing bran new paper shirt collar or dickey,
 
            to set off gray Petersham                              02
 
-Aug. 15.   To wearing double-padded bobtail frock, (thermometer
+Aug. 15.   To wearing [[Double|double]]-padded bobtail frock, (thermometer
 
            106 in the shade)                                      25
 
@@ -122,11 +122,11 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       again came into play. I found myself driving a flourishing trade,
 
-      and soon became a marked man upon “Change.” The truth is, I never
+      and soon became a marked man upon “Change.” The [[Truth|truth]] is, I never
 
       dabbled in flashy matters, but jogged on in the good old sober
 
-      routine of the calling—a calling in which I should, no doubt,
+      routine of the calling—a calling in which I should, no [[Doubt|doubt]],
 
       have remained to the present hour, but for a little accident
 
@@ -170,11 +170,11 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       I did not reply to their absurd proposition, of course; but I
 
-      felt it a duty to go that same night, and lamp-black the whole of
+      felt it a duty to go that same [[Night|night]], and lamp-black the whole of
 
       their palace. For this the unreasonable villains clapped me into
 
-      jail; and the gentlemen of the Eye-Sore trade could not well
+      jail; and the gentlemen of the Eye-Sore trade could not [[Well|well]]
 
       avoid cutting my connection when I came out.
 
@@ -184,22 +184,22 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       adventure for a livelihood, was somewhat ill-adapted to the
 
-      delicate nature of my constitution; but I went to work in it with
+      delicate [[Nature|nature]] of my constitution; but I went to work in it with
 
       a good heart, and found my account here, as heretofore, in those
 
       stern habits of methodical accuracy which had been thumped into
 
-      me by that delightful old nurse—I would indeed be the basest of
+      me by that delightful old [[Nurse|nurse]]—I would indeed be the basest of
 
-      men not to remember her well in my will. By observing, as I say,
+      men not to remember her [[Well|well]] in my will. By observing, as I say,
 
       the strictest system in all my dealings, and keeping a
 
-      well-regulated set of books, I was enabled to get over many
+      [[Well|well]]-regulated set of books, I was enabled to get over many
 
       serious difficulties, and, in the end, to establish myself very
 
-      decently in the profession. The truth is, that few individuals,
+      decently in the profession. The [[Truth|truth]] is, that few individuals,
 
       in any line, did a snugger little business than I. I will just

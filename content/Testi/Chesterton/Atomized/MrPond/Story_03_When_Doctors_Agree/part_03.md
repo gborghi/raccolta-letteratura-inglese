@@ -1,5 +1,5 @@
 ---
-title: "MrPond — When Doctors Agree (part 3)"
+title: "[[MrPond]] — When Doctors Agree (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -18,7 +18,7 @@ elder and perhaps honester world was the fact that he not only
 
 spoke with a Scottish accent but he spoke Scottish.  His speech
 
-will, therefore, be rendered here with difficulty and in doubt and
+will, therefore, be rendered here with difficulty and in [[Doubt|doubt]] and
 
 trembling.
 
@@ -28,13 +28,13 @@ trembling.
 
 ye fair at the start that I winna gie a bawbee to ken wha dirked
 
-Jamie Haggis.  Gin I kent, I wadna' say.  It's a sair thing, na
+Jamie Haggis.  Gin I [[Kent|kent]], I wadna' say.  It's a sair thing, na
 
 doot, that the freens and benefactors o' puir humanity should no be
 
 named and fitly celebrated; but like the masons that built our
 
-gran' cathedral and the gran' poets that wrote our ballads of
+gran' [[Cathedral|cathedral]] and the gran' poets that wrote our ballads of
 
 Otterburn and Sir Patrick Spens, the man that achieved the virtuous
 
@@ -48,7 +48,7 @@ seekin' a man of sic prudence and public spirit."
 
 
 
-There followed that sort of silence in which people are not certain
+There followed that sort of [[Silence|silence]] in which people are not certain
 
 whether to laugh, at a deliberate stroke of wit; but before they
 
@@ -102,7 +102,7 @@ it was at this point that she struck in.
 
 
 
-"Well, if Dr. Campbell won't pronounce for us, I suppose we must
+"[[Well]], if Dr. Campbell won't pronounce for us, I suppose we must
 
 all stick to our own suspicions.  I don't know whether you like
 
@@ -132,7 +132,7 @@ about now?"
 
 
 
-"I'm talking about hostesses," said Pond, with an air of pain.
+"I'm talking about hostesses," said Pond, with an air of [[Pain|pain]].
 
 "Good hostesses.  Really successful hostesses.  They will cut into
 
@@ -170,7 +170,7 @@ worse than murder; it's infanticide.  It's like killing a baby
 
 that's trying to come to life.  It can never be restored to life,
 
-though one rose from the dead.  A good light conversation can never
+though one [[Rose|rose]] from the dead.  A good light conversation can never
 
 be put together again when it's broken to pieces; because you can't
 
@@ -178,7 +178,7 @@ get all the pieces.  I remember a splendid talk at Trefusis's
 
 place, that began because there was a crack of thunder over the
 
-house and a cat howled in the garden, and somebody made a rather
+[[house]] and a cat howled in the [[Garden|garden]], and somebody made a rather
 
 crude joke about a catastrophe.  And then Gahagan here had a
 
@@ -192,7 +192,7 @@ about a political question on the Continent."
 
 "The Catalonian question, I suppose," said Gahagan, laughing, "but
 
-I fear I've quite forgotten my lovely theory."
+I [[Fear|fear]] I've quite forgotten my lovely theory."
 
 
 
@@ -204,15 +204,15 @@ worth starting again.  The hostess swept it all out of our heads,
 
 and then had the cheek to say afterwards that we could talk about
 
-it some other time.  Could we?  Could we make a contract with a
+it some other [[Time|time]].  Could we?  Could we make a contract with a
 
-cloud to break just over the roof, and tie a cat up in the garden
+cloud to break just over the roof, and tie a cat up in the [[Garden|garden]]
 
 and pull its tail at the right moment, and give Gahagan just enough
 
 champagne to inspire him with a theory so silly that he's forgotten
 
-it already?  It was then or never with that debate being started;
+it already?  It was then or never with that [[debate]] being started;
 
 and yet bad results enough followed from it being stopped.  But
 
@@ -220,7 +220,7 @@ that, as they say, is another story."
 
 
 
-"You must tell it to us another time," said Gahagan.  "At present I
+"You must tell it to us another [[Time|time]]," said Gahagan.  "At present I
 
 am still curious about the man who murdered another man because he
 

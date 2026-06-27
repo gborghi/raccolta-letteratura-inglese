@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 1"
+title: "[[Pride and Prejudice]] — Chapter 1"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -17,11 +17,11 @@ tags:
 Chapter I.]
 
 
-It is a truth universally acknowledged, that a single man in possession
+It is a [[Truth|truth]] universally acknowledged, that a single man in possession
 of a good fortune must be in want of a wife.
 
 However little known the feelings or views of such a man may be on his
-first entering a neighbourhood, this truth is so well fixed in the minds
+first entering a neighbourhood, this [[Truth|truth]] is so [[Well|well]] fixed in the minds
 of the surrounding families, that he is considered as the rightful
 property of some one or other of their daughters.
 
@@ -52,7 +52,7 @@ by a young man of large fortune from the north of England; that he came
 down on Monday in a chaise and four to see the place, and was so much
 delighted with it that he agreed with Mr. Morris immediately; that he is
 to take possession before Michaelmas, and some of his servants are to be
-in the house by the end of next week.”
+in the [[house]] by the end of next week.”
 
 “What is his name?”
 
@@ -71,7 +71,7 @@ must know that I am thinking of his marrying one of them.”
 “Is that his design in settling here?”
 
 “Design? Nonsense, how can you talk so! But it is very likely that he
-_may_ fall in love with one of them, and therefore you must visit him as
+_may_ fall in [[Love|love]] with one of them, and therefore you must visit him as
 soon as he comes.”
 
 “I see no occasion for that. You and the girls may go--or you may send
@@ -79,11 +79,11 @@ them by themselves, which perhaps will be still better; for as you are
 as handsome as any of them, Mr. Bingley might like you the best of the
 party.”
 
-“My dear, you flatter me. I certainly _have_ had my share of beauty, but
+“My dear, you flatter me. I certainly _have_ had my share of [[Beauty|beauty]], but
 I do not pretend to be anything extraordinary now. When a woman has five
-grown-up daughters, she ought to give over thinking of her own beauty.”
+grown-up daughters, she ought to give over thinking of her own [[Beauty|beauty]].”
 
-“In such cases, a woman has not often much beauty to think of.”
+“In such cases, a woman has not often much [[Beauty|beauty]] to think of.”
 
 “But, my dear, you must indeed go and see Mr. Bingley when he comes into
 the neighbourhood.”
@@ -101,7 +101,7 @@ glad to see you; and I will send a few lines by you to assure him of my
 hearty consent to his marrying whichever he chooses of the girls--though
 I must throw in a good word for my little Lizzy.”
 
-“I desire you will do no such thing. Lizzy is not a bit better than the
+“I [[Desire|desire]] you will do no such thing. Lizzy is not a bit better than the
 others: and I am sure she is not half so handsome as Jane, nor half so
 good-humoured as Lydia. But you are always giving _her_ the preference.”
 
@@ -118,7 +118,7 @@ these twenty years at least.”
 
 “Ah, you do not know what I suffer.”
 
-“But I hope you will get over it, and live to see many young men of four
+“But I [[Hope|hope]] you will get over it, and live to see many young men of four
 thousand a year come into the neighbourhood.”
 
 “It will be no use to us, if twenty such should come, since you will not
@@ -127,7 +127,7 @@ visit them.”
 “Depend upon it, my dear, that when there are twenty, I will visit them
 all.”
 
-Mr. Bennet was so odd a mixture of quick parts, sarcastic humour,
+Mr. Bennet was so odd a mixture of quick parts, sarcastic [[Humour|humour]],
 reserve, and caprice, that the experience of three-and-twenty years had
 been insufficient to make his wife understand his character. _Her_ mind
 was less difficult to develope. She was a woman of mean understanding,
@@ -144,6 +144,6 @@ daughters married: its solace was visiting and news.
 
 [Illustration:
 
-“I hope Mr. Bingley will like it”
+“I [[Hope|hope]] Mr. Bingley will like it”
 
 [_Copyright 1894 by George Allen._]]

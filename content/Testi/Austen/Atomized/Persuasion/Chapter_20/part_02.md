@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 20 (part 2)"
+title: "[[Persuasion]] — Chapter 20 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,9 +16,9 @@ tags:
 
 and previously there had been a great deal of enjoyment. So much
 
-novelty and beauty! I have travelled so little, that every fresh place
+novelty and [[Beauty|beauty]]! I have travelled so little, that every fresh place
 
-would be interesting to me; but there is real beauty at Lyme; and in
+would be interesting to me; but there is real [[Beauty|beauty]] at Lyme; and in
 
 short” (with a faint blush at some recollections), “altogether my
 
@@ -42,9 +42,9 @@ advanced into the room. The others joined them, and it was a group in
 
 which Anne found herself also necessarily included. She was divided
 
-from Captain Wentworth. Their interesting, almost too interesting
+from [[Captain Wentworth]]. Their interesting, almost too interesting
 
-conversation must be broken up for a time, but slight was the penance
+conversation must be broken up for a [[Time|time]], but slight was the penance
 
 compared with the happiness which brought it on! She had learnt, in the
 
@@ -54,7 +54,7 @@ feelings than she dared to think of; and she gave herself up to the
 
 demands of the party, to the needful civilities of the moment, with
 
-exquisite, though agitated sensations. She was in good humour with all.
+exquisite, though agitated sensations. She was in good [[Humour|humour]] with all.
 
 She had received ideas which disposed her to be courteous and kind to
 
@@ -64,21 +64,21 @@ all, and to pity every one, as being less happy than herself.
 
 The delightful emotions were a little subdued, when on stepping back
 
-from the group, to be joined again by Captain Wentworth, she saw that
+from the group, to be joined again by [[Captain Wentworth]], she saw that
 
-he was gone. She was just in time to see him turn into the Concert
+he was gone. She was just in [[Time|time]] to see him turn into the Concert
 
 Room. He was gone; he had disappeared, she felt a moment’s regret. But
 
 “they should meet again. He would look for her, he would find her out
 
-before the evening were over, and at present, perhaps, it was as well
+before the evening were over, and at present, perhaps, it was as [[Well|well]]
 
 to be asunder. She was in need of a little interval for recollection.”
 
 
 
-Upon Lady Russell’s appearance soon afterwards, the whole party was
+Upon [[Lady Russell]]’s appearance soon afterwards, the whole party was
 
 collected, and all that remained was to marshal themselves, and proceed
 
@@ -90,7 +90,7 @@ as they could.
 
 
 
-Very, very happy were both Elizabeth and Anne Elliot as they walked in.
+Very, very happy were both Elizabeth and [[Anne Elliot]] as they walked in.
 
 Elizabeth arm in arm with Miss Carteret, and looking on the broad back
 
@@ -98,9 +98,9 @@ of the dowager Viscountess Dalrymple before her, had nothing to wish
 
 for which did not seem within her reach; and Anne—but it would be an
 
-insult to the nature of Anne’s felicity, to draw any comparison between
+insult to the [[Nature|nature]] of Anne’s felicity, to draw any comparison between
 
-it and her sister’s; the origin of one all selfish vanity, of the other
+it and her sister’s; the origin of one all selfish [[Vanity|vanity]], of the other
 
 all generous attachment.
 
@@ -120,7 +120,7 @@ manner and look, had been such as she could see in only one light. His
 
 opinion of Louisa Musgrove’s inferiority, an opinion which he had
 
-seemed solicitous to give, his wonder at Captain Benwick, his feelings
+seemed solicitous to give, his [[Wonder|wonder]] at [[Captain Benwick]], his feelings
 
 as to a first, strong attachment; sentences begun which he could not
 
@@ -130,11 +130,11 @@ all, all declared that he had a heart returning to her at least; that
 
 anger, resentment, avoidance, were no more; and that they were
 
-succeeded, not merely by friendship and regard, but by the tenderness
+succeeded, not merely by [[Friendship|friendship]] and regard, but by the tenderness
 
 of the past. Yes, some share of the tenderness of the past. She could
 
-not contemplate the change as implying less. He must love her.
+not contemplate the change as implying less. He must [[Love|love]] her.
 
 
 
@@ -152,13 +152,13 @@ to be in the same part of the room, but he was not; her eye could not
 
 reach him; and the concert being just opening, she must consent for a
 
-time to be happy in a humbler way.
+[[Time|time]] to be happy in a humbler way.
 
 
 
 The party was divided and disposed of on two contiguous benches: Anne
 
-was among those on the foremost, and Mr Elliot had manœuvred so well,
+was among those on the foremost, and Mr Elliot had manœuvred so [[Well|well]],
 
 with the assistance of his friend Colonel Wallis, as to have a seat by
 
@@ -178,7 +178,7 @@ for the wearisome; and had never liked a concert better, at least
 
 during the first act. Towards the close of it, in the interval
 
-succeeding an Italian song, she explained the words of the song to Mr
+succeeding an Italian [[Song|song]], she explained the words of the [[Song|song]] to Mr
 
 Elliot. They had a concert bill between them.
 
@@ -186,7 +186,7 @@ Elliot. They had a concert bill between them.
 
 “This,” said she, “is nearly the sense, or rather the meaning of the
 
-words, for certainly the sense of an Italian love-song must not be
+words, for certainly the sense of an Italian [[Love|love]]-[[Song|song]] must not be
 
 talked of, but it is as nearly the meaning as I can give; for I do not
 
@@ -214,6 +214,6 @@ examined by a real proficient.”
 
 “I have not had the pleasure of visiting in Camden Place so long,”
 
-replied he, “without knowing something of Miss Anne Elliot; and I do
+replied he, “without knowing something of Miss [[Anne Elliot]]; and I do
 
 regard her as one who is too modest for the world in general to be

@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 10"
+title: "[[Agnes Grey]] — Chapter 10"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -18,14 +18,14 @@ CHAPTER X.
 THE CHURCH
 
 
-“Well, Miss Grey, what do you think of the new curate?” asked Miss
-Murray, on our return from church the Sunday after the recommencement
+“[[Well]], Miss Grey, what do you think of the new curate?” asked Miss
+Murray, on our return from church the [[Sunday]] after the recommencement
 of our duties.
 
 “I can scarcely tell,” was my reply: “I have not even heard him
 preach.”
 
-“Well, but you saw him, didn’t you?”
+“[[Well]], but you saw him, didn’t you?”
 
 “Yes, but I cannot pretend to judge of a man’s character by a single
 cursory glance at his face.”
@@ -43,15 +43,15 @@ were not reading at all, but praying earnestly and sincerely from his
 own heart.”
 
 “Oh, yes, that’s all he is good for: he can plod through the service
-well enough; but he has not a single idea beyond it.”
+[[Well|well]] enough; but he has not a single idea beyond it.”
 
 “How do you know?”
 
-“Oh! I know perfectly well; I am an excellent judge in such matters.
+“Oh! I know perfectly [[Well|well]]; I am an excellent judge in such matters.
 Did you see how he went out of church? stumping along—as if there were
 nobody there but himself—never looking to the right hand or the left,
 and evidently thinking of nothing but just getting out of the church,
-and, perhaps, home to his dinner: his great stupid head could contain
+and, perhaps, [[Home|home]] to his dinner: his great stupid head could contain
 no other idea.”
 
 “I suppose you would have had him cast a glance into the squire’s pew,”
@@ -59,10 +59,10 @@ said I, laughing at the vehemence of her hostility.
 
 “Indeed! I should have been highly indignant if he had dared to do such
 a thing!” replied she, haughtily tossing her head; then, after a
-moment’s reflection, she added—“Well, well! I suppose he’s good enough
+moment’s reflection, she added—“[[Well]], [[Well|well]]! I suppose he’s good enough
 for his place: but I’m glad I’m not dependent on _him_ for
 amusement—that’s all. Did you see how Mr. Hatfield hurried out to get a
-bow from me, and be in time to put us into the carriage?”
+bow from me, and be in [[Time|time]] to put us into the carriage?”
 
 “Yes,” answered I; internally adding, “and I thought it somewhat
 derogatory to his dignity as a clergyman to come flying from the pulpit
@@ -82,7 +82,7 @@ nor, in fact, any one that visited at Horton Lodge.
 
 Miss Murray ordered the carriage again, in the afternoon, for herself
 and her sister: she said it was too cold for them to enjoy themselves
-in the garden; and besides, she believed Harry Meltham would be at
+in the [[Garden|garden]]; and besides, she believed Harry Meltham would be at
 church. “For,” said she, smiling slyly at her own fair image in the
 glass, “he has been a most exemplary attendant at church these last few
 Sundays: you would think he was quite a good Christian. And you may go
@@ -92,7 +92,7 @@ will have an opportunity of seeing the beautiful Mr. Weston again, and
 of hearing him preach.”
 
 I did hear him preach, and was decidedly pleased with the evangelical
-truth of his doctrine, as well as the earnest simplicity of his manner,
+[[Truth|truth]] of his doctrine, as [[Well|well]] as the earnest simplicity of his manner,
 and the clearness and force of his style. It was truly refreshing to
 hear such a sermon, after being so long accustomed to the dry, prosy
 discourses of the former curate, and the still less edifying harangues
@@ -101,15 +101,15 @@ sweeping along like a whirlwind, with his rich silk gown flying behind
 him and rustling against the pew doors, mount the pulpit like a
 conqueror ascending his triumphal car; then, sinking on the velvet
 cushion in an attitude of studied grace, remain in silent prostration
-for a certain time; then mutter over a Collect, and gabble through the
-Lord’s Prayer, rise, draw off one bright lavender glove, to give the
+for a certain [[Time|time]]; then mutter over a Collect, and gabble through the
+Lord’s [[Prayer]], rise, draw off one bright lavender glove, to give the
 congregation the benefit of his sparkling rings, lightly pass his
-fingers through his well-curled hair, flourish a cambric handkerchief,
+fingers through his [[Well|well]]-curled hair, flourish a cambric handkerchief,
 recite a very short passage, or, perhaps, a mere phrase of Scripture,
 as a head-piece to his discourse, and, finally, deliver a composition
 which, as a composition, might be considered good, though far too
 studied and too artificial to be pleasing to me: the propositions were
-well laid down, the arguments logically conducted; and yet, it was
+[[Well|well]] laid down, the arguments logically conducted; and yet, it was
 sometimes hard to listen quietly throughout, without some slight
 demonstrations of disapproval or impatience.
 
@@ -138,18 +138,18 @@ to think about; perchance, exulting in the thought that old Betty
 Holmes would now lay aside the sinful indulgence of her pipe, which had
 been her daily solace for upwards of thirty years: that George Higgins
 would be frightened out of his Sabbath evening walks, and Thomas
-Jackson would be sorely troubled in his conscience, and shaken in his
-sure and certain hope of a joyful resurrection at the last day.
+Jackson would be sorely troubled in his [[Conscience|conscience]], and shaken in his
+sure and certain [[Hope|hope]] of a joyful [[Resurrection|resurrection]] at the last day.
 
 Thus, I could not but conclude that Mr. Hatfield was one of those who
 “bind heavy burdens, and grievous to be borne, and lay them upon men’s
 shoulders, while they themselves will not move them with one of their
 fingers”; and who “make the word of God of none effect by their
-traditions, teaching for doctrines the commandments of men.” I was well
+traditions, teaching for doctrines the commandments of men.” I was [[Well|well]]
 pleased to observe that the new curate resembled him, as far as I could
 see, in none of these particulars.
 
-“Well, Miss Grey, what do you think of him now?” said Miss Murray, as
+“[[Well]], Miss Grey, what do you think of him now?” said Miss Murray, as
 we took our places in the carriage after service.
 
 “No harm still,” replied I.
@@ -170,7 +170,7 @@ to shut me out, like Mr. Hatfield; neither, of course, had he offered
 me his assistance (I should not have accepted it, if he had), but as
 long as the door remained open he had stood smirking and chatting with
 them, and then lifted his hat and departed to his own abode: but I had
-scarcely noticed him all the time. My companions, however, had been
+scarcely noticed him all the [[Time|time]]. My companions, however, had been
 more observant; and, as we rolled along, they discussed between them
 not only his looks, words, and actions, but every feature of his face,
 and every article of his apparel.
@@ -179,7 +179,7 @@ and every article of his apparel.
 the close of this discussion; “I like him: I know he’d make a nice,
 jolly companion for me.”
 
-“Well, you’re quite welcome to him, Matilda,” replied her sister, in a
+“[[Well]], you’re quite welcome to him, Matilda,” replied her sister, in a
 tone of affected indifference.
 
 “And I’m sure,” continued the other, “he admires me quite as much as he
@@ -187,7 +187,7 @@ does you; doesn’t he, Miss Grey?”
 
 “I don’t know; I’m not acquainted with his sentiments.”
 
-“Well, but he _does_ though.”
+“[[Well]], but he _does_ though.”
 
 “My _dear_ Matilda! nobody will ever admire you till you get rid of
 your rough, awkward manners.”
@@ -195,14 +195,14 @@ your rough, awkward manners.”
 “Oh, stuff! Harry Meltham likes such manners; and so do papa’s
 friends.”
 
-“Well, you _may_ captivate old men, and younger sons; but nobody else,
+“[[Well]], you _may_ captivate old men, and younger sons; but nobody else,
 I am sure, will ever take a fancy to you.”
 
 “I don’t care: I’m not always grabbing after money, like you and mamma.
-If my husband is able to keep a few good horses and dogs, I shall be
+If my husband is able to keep a few good horses and [[dogs]], I shall be
 quite satisfied; and all the rest may go to the devil!”
 
-“Well, if you use such shocking expressions, I’m sure no real gentleman
+“[[Well]], if you use such shocking expressions, I’m sure no real gentleman
 will ever venture to come near you. Really, Miss Grey, you should not
 let her do so.”
 
@@ -211,6 +211,6 @@ let her do so.”
 “And you’re quite mistaken, Matilda, in supposing that Harry Meltham
 admires you: I assure you he does nothing of the kind.”
 
-Matilda was beginning an angry reply; but, happily, our journey was now
+Matilda was beginning an angry reply; but, happily, our [[Journey|journey]] was now
 at an end; and the contention was cut short by the footman opening the
 carriage-door, and letting down the steps for our descent.

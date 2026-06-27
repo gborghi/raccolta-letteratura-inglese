@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"There is no doubt about your condition now," said Dr. Wolfe
+"There is no [[Doubt|doubt]] about your condition now," said Dr. Wolfe
 with a sneer.
 
 "You look like an actor, but you are not a very good actor,"
@@ -26,7 +26,7 @@ bribed you and another cheap doctor to certify me for a madhouse.
 I know the sort of man you are.  I know this is not the first
 dirty trick you have done to help the rich out of a hole.
 You would do anything for your paymasters.  Possibly the murder
-of the unborn."
+of the [[unborn]]."
 
 Wolfe's face was still wrinkled with its Semitic sneer,
 but his olive tint had turned to a sort of loathsome yellow.
@@ -48,12 +48,12 @@ for the law was probably on the side of the doctors; and Gale
 continued his address to them.
 
 "The mental deficiency of Dr. Starkey," he said, "consists in having
-forgotten the truth.  You, Starkey, have no sceptical philosophy
+forgotten the [[Truth|truth]].  You, Starkey, have no sceptical [[philosophy]]
 like your friend.  You are a practical man, my dear Starkey;
 but you have told lies so incessantly and from so early an age that you
 never see anything as it is, but only as it could be made to look.
-Beside each thing stands the unreal thing that is its shadow;
-and you see the shadow first.  You are very quick in seeing it;
+Beside each thing stands the unreal thing that is its [[Shadow|shadow]];
+and you see the [[Shadow|shadow]] first.  You are very quick in seeing it;
 you go direct to the deceptive potentialities of anything;
 you see at once if anything could be used as anything else.
 You are the original man who went straight down the crooked lane.
@@ -68,7 +68,7 @@ pocket you can hardly help picking it.  That's where you're mad;
 you can't resist being clever, or rather borrowing cleverness.
 Which means you have sometimes been too clever to be lucky.
 You are a shabbier sort of scamp; and I rather fancy you have
-been in prison."
+been in [[Prison|prison]]."
 
 Starkey sprang to his feet, snatching up the ropes and throwing
 them on the table.
@@ -81,17 +81,17 @@ a day, or perhaps half an hour, I could find out the facts about you
 and tear your reputation to rags."
 
 As he spoke he again followed with an interested eye the movements
-of the strange man outside.  The man had recrossed the garden,
+of the strange man outside.  The man had recrossed the [[Garden|garden]],
 calmly picking up a chair from one of the little tables,
 and returned carrying it lightly in the direction of the arbour.
 To the surprise of all, he set it down at the round table in the
 very entrance of that retreat, and sat down on it with his hands
-in his pockets, staring at Gabriel Gale.  With his face in shadow,
+in his pockets, staring at Gabriel Gale.  With his face in [[Shadow|shadow]],
 his square head, short hair and bulk of shoulders took on a new
 touch of mystery.
 
-"Hope I don't interrupt," he said.  "Perhaps it would be more honest
-to say I hope I do interrupt.  Because I want to interrupt.
+"[[Hope]] I don't interrupt," he said.  "Perhaps it would be more honest
+to say I [[Hope|hope]] I do interrupt.  Because I want to interrupt.
 Honestly, I think you medical gentlemen would be very unwise to gag
 your friend here, or try to carry him off."
 
@@ -103,7 +103,7 @@ They all stared at him; and Wolfe sneered again as he said:
 "You might find it awkward to kill us both at once."
 
 The stranger took his hands out of his pockets; and with the very
-gesture there was a double flash of metal.  For the hands held
+gesture there was a [[Double|double]] flash of metal.  For the hands held
 two revolvers which pointed at them, fixed them like two large
 fingers of steel.
 
@@ -113,10 +113,10 @@ strange gentleman pleasantly.
 "If you do you'll be hanged," cried Wolfe violently.
 
 "Oh, no, I shan't," said the stranger; "not unless two dead men
-can get up and hang me on that nursery gallows in the garden.
+can get up and hang me on that nursery gallows in the [[Garden|garden]].
 I'm allowed to kill people.  There's a special Act of Parliament
 permitting me to go about killing anybody I like.  I'm never punished,
-whatever I do.  In fact, to tell you the truth, I'm the King of England,
+whatever I do.  In fact, to tell you the [[Truth|truth]], I'm the [[King]] of England,
 and the Constitution says I can do no wrong."
 
 "What are you talking about?" demanded the doctor.  "You must be mad."

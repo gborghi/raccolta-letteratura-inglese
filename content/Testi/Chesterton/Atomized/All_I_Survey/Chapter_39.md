@@ -18,7 +18,7 @@ XXXIX
 
 _On Making Good--II_
 
-A VERY eminent and distinguished critic has done me the honour
+A VERY eminent and distinguished critic has done me the [[Honour|honour]]
 to criticize, in a private letter, the remarks I made recently
 in disparagement of the phrase "making good."  He agrees with me,
 or at least he disagrees with Dean Inge, in so far as to admit
@@ -39,9 +39,9 @@ But the point seems to me worth a word or two of further
 elucidation and explanation.
 
 First, upon the primary point, I am disposed to stand firm;
-I mean the point of the logic of grammar.  For I am, I confess,
+I mean the point of the [[logic]] of grammar.  For I am, I confess,
 so degenerate a Latin type of mind that I think there ought to be some
-logic in grammar.  And it seems to me a simple fact that "to make"
+[[logic]] in grammar.  And it seems to me a simple fact that "to make"
 is a transitive verb, and must have an object or accusative.
 We can make a plumber good, or make a Dean good, or even make
 a poor bewildered and overwrought journalist, writing in a
@@ -61,7 +61,7 @@ left to be understood.
 
 But the worst of these words that are understood is that they
 are not understood.  Even in face of the few Latin precedents
-I rather doubt whether it is wise to follow such precedents,
+I rather [[Doubt|doubt]] whether it is wise to follow such precedents,
 and certainly whether it is wise to create new precedents.
 But it is particularly undesirable at the present day, at a period
 in which things are emphatically not understood; a period in
@@ -83,18 +83,18 @@ if you can call it an English phrase.  And that is the root
 of my unrepentant revolt against it.
 
 I mean that we may forgive the plumber (a form of Christian
-charity which many seem to find difficult) when he says that,
+[[Charity|charity]] which many seem to find difficult) when he says that,
 in some small job, he has made good.  But we only forgive him
 because we think that he, being poor and honest, really means
 "I have made good my word" or "I have made good my compact."
 But it is still true that a less honest plumber,
 and possibly a richer plumber, _might_ mean by the phrase:
-"I have made good my intention to swindle this old fool,"
+"I have made good my intention to swindle this old [[Fool|fool]],"
 or "I have made good money out of this business, and much
 more than I had any right to receive."
 
 Now, that is the moral ambiguity that I complain of,
-to start with, in the very nature of the phrase.
+to start with, in the very [[Nature|nature]] of the phrase.
 But, in its actual modern use in any ordinary newspapers
 or novels, it goes far beyond ambiguity and becomes anarchy.
 It is bad policy, at the best, to allow a word to be understood;
@@ -103,9 +103,9 @@ or betrayed or supplanted by some baser word in the minds
 of baser people.  Even if the man did originally mean:
 "I have made good my word," he will be unwise to leave out the word.
 It will be better, in every sense, if he keeps his word.
-A man's word is only too easy to forget.  And, after a time,
+A man's word is only too easy to forget.  And, after a [[Time|time]],
 some meaner notion, such as making good his plan or plot
-or conspiracy, will have crept into the vacuum of that silence.
+or conspiracy, will have crept into the vacuum of that [[Silence|silence]].
 But in the vulgar use of the phrase, in the modern world at
 this moment, there is not the remotest notion of anything so honest.
 Those who say that Hiram Q. Hogswash made good in Wall Street
@@ -127,8 +127,8 @@ sort of language about making good a job or a contract, we shall
 still lament over the larger and more desolating calamities
 that the Roman and the plumber, between them, have let loose
 upon the modern world.  We shall recognize that this piece
-of phraseology is now, in fact, identified with a philosophy
-which teaches snobbish self-interest as a sort of ideal.
+of phraseology is now, in fact, identified with a [[philosophy]]
+which teaches snobbish [[Self|self]]-interest as a sort of ideal.
 If it is permissible to use a phrase like having made good,
 it is permissible to say that this particular phrase has
 most unmistakably made bad.

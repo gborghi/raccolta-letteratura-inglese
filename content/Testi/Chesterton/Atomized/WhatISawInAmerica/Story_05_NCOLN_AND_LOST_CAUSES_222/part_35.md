@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 35)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 35)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-lacking in humanity and humour. It is the American, much more than the
+lacking in humanity and [[Humour|humour]]. It is the American, much more than the
 
 Englishman, who takes his pleasures sadly, not to say savagely.
 
@@ -24,7 +24,7 @@ The genuine popularity of constitutional monarchs, in parliamentary
 
 countries, can be explained by any practical example. Let us suppose
 
-that great social reform, The Compulsory Haircutting Act, has just begun
+that great social [[Reform|reform]], The Compulsory Haircutting Act, has just begun
 
 to be enforced. The Compulsory Haircutting Act, as every good citizen
 
@@ -52,9 +52,9 @@ glance that outline of the criminal skull, which is so common among
 
 them. The Compulsory Haircutting Act is thus in every way a compact and
 
-convenient example of all our current laws about education, sport,
+convenient example of all our current laws about [[Education|education]], sport,
 
-liquor and liberty in general. Well, the law has passed and the masses,
+liquor and liberty in general. [[Well]], the law has passed and the masses,
 
 insensible to its scientific value, are still murmuring against it. The
 
@@ -64,7 +64,7 @@ hair; and does not see how she can even be a flapper with nothing to
 
 flap. Her father, his mind already poisoned by Bolshevists, begins to
 
-wonder who the devil does these things, and why. In proportion as he
+[[Wonder|wonder]] who the devil does these things, and why. In proportion as he
 
 knows the world of to-day, he guesses that the real origin may be quite
 
@@ -80,7 +80,7 @@ sell a million bad razors. Hence the poor man looks about him with
 
 suspicion in the street; knowing that the lowest sneak or the loudest
 
-snob he sees may be directing the government of his country. Anybody may
+snob he sees may be directing the [[government]] of his country. Anybody may
 
 have to do with politics; and this sort of thing is politics. Suddenly
 
@@ -88,7 +88,7 @@ he catches sight of a crowd, stops, and begins wildly to cheer a
 
 carriage that is passing. The carriage contains the one person who has
 
-certainly not originated any great scientific reform. He is the only
+certainly not originated any great scientific [[Reform|reform]]. He is the only
 
 person in the commonwealth who is not allowed to cut off other people's
 
@@ -96,7 +96,7 @@ hair, or to take away other people's liberties. He at least is kept out
 
 of politics; and men hold him up as they did an unspotted victim to
 
-appease the wrath of the gods. He is their King, and the only man they
+appease the wrath of the gods. He is their [[King]], and the only man they
 
 know is not their ruler. We need not be surprised that he is popular,
 
@@ -104,7 +104,7 @@ knowing how they are ruled.
 
 
 
-The popularity of a President in America is exactly the opposite. The
+The popularity of a President in [[America]] is exactly the opposite. The
 
 American Republic is the last mediaeval monarchy. It is intended that
 
@@ -112,7 +112,7 @@ the President shall rule, and take all the risks of ruling. If the hair
 
 is cut he is the haircutter, the magistrate that bears not the razor in
 
-vain. All the popular Presidents, Jackson and Lincoln and Roosevelt,
+vain. All the popular Presidents, Jackson and [[Lincoln]] and Roosevelt,
 
 have acted as democratic despots, but emphatically not as
 
@@ -120,13 +120,13 @@ constitutional monarchs. In short, the names have become curiously
 
 interchanged; and as a historical reality it is the President who ought
 
-to be called a King.
+to be called a [[King]].
 
 
 
 But it is not only true that the President could correctly be called a
 
-King. It is also true that the King might correctly be called a
+[[King]]. It is also true that the [[King]] might correctly be called a
 
 President. We could hardly find a more exact description of him than to
 
@@ -160,11 +160,11 @@ national idea is perpetual motion. Technically it is called a message;
 
 and might often actually be called a menace. Thus we may truly say that
 
-the King presides and the President reigns. Some would prefer to say
+the [[King]] presides and the President reigns. Some would prefer to say
 
 that the President rules; and some Senators and members of Congress
 
-would prefer to say that he rebels. But there is no doubt that he moves;
+would prefer to say that he rebels. But there is no [[Doubt|doubt]] that he moves;
 
 he does not take the chair or even the stool, but rather the stump.
 
@@ -172,7 +172,7 @@ he does not take the chair or even the stool, but rather the stump.
 
 Some people seem to suppose that the fall of President Wilson was a
 
-denial of this almost despotic ideal in America. As a matter of fact it
+denial of this almost despotic ideal in [[America]]. As a matter of fact it
 
 was the strongest possible assertion of it. The idea is that the
 
@@ -190,6 +190,6 @@ as the mediaeval monarchs. Constitutional princes are seldom deposed;
 
 but despots were often deposed. In the simpler races of sunnier lands,
 
-such as Turkey, they were commonly assassinated. Even in our own history
+such as Turkey, they were commonly assassinated. Even in our own [[history]]
 
-a King often received the same respectful tribute to the responsibility
+a [[King]] often received the same respectful tribute to the responsibility

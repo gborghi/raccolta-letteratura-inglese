@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 21"
+title: "[[Oliver Twist]] — Chapter 21"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -19,41 +19,41 @@ THE EXPEDITION
 
 
 It was a cheerless morning when they got into the street; blowing and
-raining hard; and the clouds looking dull and stormy. The night had
-been very wet: large pools of water had collected in the road: and the
+raining hard; and the clouds looking dull and stormy. The [[Night|night]] had
+been very wet: large pools of [[Water|water]] had collected in the [[Road|road]]: and the
 kennels were overflowing. There was a faint glimmering of the coming
 day in the sky; but it rather aggravated than relieved the gloom of the
 scene: the sombre light only serving to pale that which the street
 lamps afforded, without shedding any warmer or brighter tints upon the
-wet house-tops, and dreary streets. There appeared to be nobody
+wet [[house]]-tops, and dreary streets. There appeared to be nobody
 stirring in that quarter of the town; the windows of the houses were
 all closely shut; and the streets through which they passed, were
 noiseless and empty.
 
-By the time they had turned into the Bethnal Green Road, the day had
+By the [[Time|time]] they had turned into the Bethnal Green [[Road]], the day had
 fairly begun to break. Many of the lamps were already extinguished; a
-few country waggons were slowly toiling on, towards London; now and
+few country waggons were slowly toiling on, towards [[London]]; now and
 then, a stage-coach, covered with mud, rattled briskly by: the driver
 bestowing, as he passed, an admonitory lash upon the heavy waggoner
-who, by keeping on the wrong side of the road, had endangered his
-arriving at the office, a quarter of a minute after his time. The
+who, by keeping on the wrong side of the [[Road|road]], had endangered his
+arriving at the office, a quarter of a minute after his [[Time|time]]. The
 public-houses, with gas-lights burning inside, were already open. By
 degrees, other shops began to be unclosed, and a few scattered people
 were met with. Then, came straggling groups of labourers going to their
 work; then, men and women with fish-baskets on their heads;
-donkey-carts laden with vegetables; chaise-carts filled with live-stock
+[[donkey]]-carts laden with vegetables; chaise-carts filled with live-stock
 or whole carcasses of meat; milk-women with pails; an unbroken
 concourse of people, trudging out with various supplies to the eastern
-suburbs of the town. As they approached the City, the noise and traffic
+suburbs of the town. As they approached the [[City]], the noise and traffic
 gradually increased; when they threaded the streets between Shoreditch
 and Smithfield, it had swelled into a roar of sound and bustle. It was
-as light as it was likely to be, till night came on again, and the busy
-morning of half the London population had begun.
+as light as it was likely to be, till [[Night|night]] came on again, and the busy
+morning of half the [[London]] population had begun.
 
-Turning down Sun Street and Crown Street, and crossing Finsbury square,
+Turning down Sun Street and [[Crown]] Street, and crossing Finsbury square,
 Mr. Sikes struck, by way of Chiswell Street, into Barbican: thence into
 Long Lane, and so into Smithfield; from which latter place arose a
-tumult of discordant sounds that filled Oliver Twist with amazement.
+tumult of discordant sounds that filled [[Oliver Twist]] with amazement.
 
 It was market-morning. The ground was covered, nearly ankle-deep, with
 filth and mire; a thick steam, perpetually rising from the reeking
@@ -64,18 +64,18 @@ the vacant space, were filled with sheep; tied up to posts by the
 gutter side were long lines of beasts and oxen, three or four deep.
 Countrymen, butchers, drovers, hawkers, boys, thieves, idlers, and
 vagabonds of every low grade, were mingled together in a mass; the
-whistling of drovers, the barking dogs, the bellowing and plunging of
+whistling of drovers, the barking [[dogs]], the bellowing and plunging of
 the oxen, the bleating of sheep, the grunting and squeaking of pigs,
 the cries of hawkers, the shouts, oaths, and quarrelling on all sides;
-the ringing of bells and roar of voices, that issued from every
-public-house; the crowding, pushing, driving, beating, whooping and
+the ringing of [[Bells|bells]] and roar of voices, that issued from every
+public-[[house]]; the crowding, pushing, driving, beating, whooping and
 yelling; the hideous and discordant dim that resounded from every
 corner of the market; and the unwashed, unshaven, squalid, and dirty
 figures constantly running to and fro, and bursting in and out of the
 throng; rendered it a stunning and bewildering scene, which quite
 confounded the senses.
 
-Mr. Sikes, dragging Oliver after him, elbowed his way through the
+Mr. Sikes, dragging [[Oliver]] after him, elbowed his way through the
 thickest of the crowd, and bestowed very little attention on the
 numerous sights and sounds, which so astonished the boy. He nodded,
 twice or thrice, to a passing friend; and, resisting as many
@@ -83,14 +83,14 @@ invitations to take a morning dram, pressed steadily onward, until they
 were clear of the turmoil, and had made their way through Hosier Lane
 into Holborn.
 
-“Now, young ’un!” said Sikes, looking up at the clock of St. Andrew’s
+“Now, young ’un!” said Sikes, looking up at the [[Clock|clock]] of St. Andrew’s
 Church, “hard upon seven! you must step out. Come, don’t lag behind
 already, Lazy-legs!”
 
 Mr. Sikes accompanied this speech with a jerk at his little companion’s
-wrist; Oliver, quickening his pace into a kind of trot between a fast
-walk and a run, kept up with the rapid strides of the house-breaker as
-well as he could.
+wrist; [[Oliver]], quickening his pace into a kind of trot between a fast
+walk and a run, kept up with the rapid strides of the [[house]]-breaker as
+[[Well|well]] as he could.
 
 They held their course at this rate, until they had passed Hyde Park
 corner, and were on their way to Kensington: when Sikes relaxed his
@@ -101,28 +101,28 @@ as Isleworth.
 
 “Jump up,” said the man. “Is that your boy?”
 
-“Yes; he’s my boy,” replied Sikes, looking hard at Oliver, and putting
-his hand abstractedly into the pocket where the pistol was.
+“Yes; he’s my boy,” replied Sikes, looking hard at [[Oliver]], and putting
+his hand abstractedly into the pocket where the [[Pistol|pistol]] was.
 
 “Your father walks rather too quick for you, don’t he, my man?”
-inquired the driver: seeing that Oliver was out of breath.
+inquired the driver: seeing that [[Oliver]] was out of breath.
 
 “Not a bit of it,” replied Sikes, interposing. “He’s used to it. Here,
 take hold of my hand, Ned. In with you!”
 
-Thus addressing Oliver, he helped him into the cart; and the driver,
+Thus addressing [[Oliver]], he helped him into the cart; and the driver,
 pointing to a heap of sacks, told him to lie down there, and rest
 himself.
 
-As they passed the different mile-stones, Oliver wondered, more and
+As they passed the different mile-stones, [[Oliver]] wondered, more and
 more, where his companion meant to take him. Kensington, Hammersmith,
 Chiswick, Kew Bridge, Brentford, were all passed; and yet they went on
-as steadily as if they had only just begun their journey. At length,
-they came to a public-house called the Coach and Horses; a little way
-beyond which, another road appeared to run off. And here, the cart
+as steadily as if they had only just begun their [[Journey|journey]]. At length,
+they came to a public-[[house]] called the Coach and Horses; a little way
+beyond which, another [[Road|road]] appeared to run off. And here, the cart
 stopped.
 
-Sikes dismounted with great precipitation, holding Oliver by the hand
+Sikes dismounted with great precipitation, holding [[Oliver]] by the hand
 all the while; and lifting him down directly, bestowed a furious look
 upon him, and rapped the side-pocket with his fist, in a significant
 manner.
@@ -135,30 +135,30 @@ dog! Don’t mind him.”
 “Not I!” rejoined the other, getting into his cart. “It’s a fine day,
 after all.” And he drove away.
 
-Sikes waited until he had fairly gone; and then, telling Oliver he
+Sikes waited until he had fairly gone; and then, telling [[Oliver]] he
 might look about him if he wanted, once again led him onward on his
-journey.
+[[Journey|journey]].
 
-They turned round to the left, a short way past the public-house; and
-then, taking a right-hand road, walked on for a long time: passing many
+They turned round to the left, a short way past the public-[[house]]; and
+then, taking a right-hand [[Road|road]], walked on for a long [[Time|time]]: passing many
 large gardens and gentlemen’s houses on both sides of the way, and
 stopping for nothing but a little beer, until they reached a town. Here
-against the wall of a house, Oliver saw written up in pretty large
+against the wall of a [[house]], [[Oliver]] saw written up in pretty large
 letters, “Hampton.” They lingered about, in the fields, for some hours.
 At length they came back into the town; and, turning into an old
-public-house with a defaced sign-board, ordered some dinner by the
-kitchen fire.
+public-[[house]] with a defaced sign-board, ordered some dinner by the
+kitchen [[Fire|fire]].
 
 The kitchen was an old, low-roofed room; with a great beam across the
 middle of the ceiling, and benches, with high backs to them, by the
-fire; on which were seated several rough men in smock-frocks, drinking
-and smoking. They took no notice of Oliver; and very little of Sikes;
+[[Fire|fire]]; on which were seated several rough men in smock-frocks, drinking
+and smoking. They took no notice of [[Oliver]]; and very little of Sikes;
 and, as Sikes took very little notice of them, he and his young comrade
 sat in a corner by themselves, without being much troubled by their
 company.
 
 They had some cold meat for dinner, and sat so long after it, while Mr.
-Sikes indulged himself with three or four pipes, that Oliver began to
+Sikes indulged himself with three or four pipes, that [[Oliver]] began to
 feel quite certain they were not going any further. Being much tired
 with the walk, and getting up so early, he dozed a little at first;
 then, quite overpowered by fatigue and the fumes of the tobacco, fell
@@ -173,7 +173,7 @@ of ale.
 
 “Yes, I am,” replied the man, who seemed a little the worse—or better,
 as the case might be—for drinking; “and not slow about it neither. My
-horse hasn’t got a load behind him going back, as he had coming up in
+[[Horse|horse]] hasn’t got a load behind him going back, as he had coming up in
 the mornin’; and he won’t be long a-doing of it. Here’s luck to him.
 Ecod! he’s a good ’un!”
 
@@ -201,61 +201,61 @@ good fellow. To which Mr. Sikes replied, he was joking; as, if he had
 been sober, there would have been strong reason to suppose he was.
 
 After the exchange of a few more compliments, they bade the company
-good-night, and went out; the girl gathering up the pots and glasses as
+good-[[Night|night]], and went out; the girl gathering up the pots and glasses as
 they did so, and lounging out to the door, with her hands full, to see
 the party start.
 
-The horse, whose health had been drunk in his absence, was standing
-outside: ready harnessed to the cart. Oliver and Sikes got in without
+The [[Horse|horse]], whose health had been drunk in his absence, was standing
+outside: ready harnessed to the cart. [[Oliver]] and Sikes got in without
 any further ceremony; and the man to whom he belonged, having lingered
 for a minute or two “to bear him up,” and to defy the hostler and the
 world to produce his equal, mounted also. Then, the hostler was told to
-give the horse his head; and, his head being given him, he made a very
+give the [[Horse|horse]] his head; and, his head being given him, he made a very
 unpleasant use of it: tossing it into the air with great disdain, and
 running into the parlour windows over the way; after performing those
-feats, and supporting himself for a short time on his hind-legs, he
-started off at great speed, and rattled out of the town right
+feats, and supporting himself for a short [[Time|time]] on his hind-legs, he
+started off at great [[Speed|speed]], and rattled out of the town right
 gallantly.
 
-The night was very dark. A damp mist rose from the river, and the
+The [[Night|night]] was very dark. A damp mist [[Rose|rose]] from the [[River|river]], and the
 marshy ground about; and spread itself over the dreary fields. It was
 piercing cold, too; all was gloomy and black. Not a word was spoken;
 for the driver had grown sleepy; and Sikes was in no mood to lead him
-into conversation. Oliver sat huddled together, in a corner of the
+into conversation. [[Oliver]] sat huddled together, in a corner of the
 cart; bewildered with alarm and apprehension; and figuring strange
 objects in the gaunt trees, whose branches waved grimly to and fro, as
 if in some fantastic joy at the desolation of the scene.
 
-As they passed Sunbury Church, the clock struck seven. There was a
-light in the ferry-house window opposite: which streamed across the
-road, and threw into more sombre shadow a dark yew-tree with graves
-beneath it. There was a dull sound of falling water not far off; and
-the leaves of the old tree stirred gently in the night wind. It seemed
+As they passed Sunbury Church, the [[Clock|clock]] struck seven. There was a
+light in the ferry-[[house]] [[Window|window]] opposite: which streamed across the
+[[Road|road]], and threw into more sombre [[Shadow|shadow]] a dark yew-tree with graves
+beneath it. There was a dull sound of falling [[Water|water]] not far off; and
+the [[Leaves|leaves]] of the old tree stirred gently in the [[Night|night]] [[Wind|wind]]. It seemed
 like quiet music for the repose of the dead.
 
-Sunbury was passed through, and they came again into the lonely road.
+Sunbury was passed through, and they came again into the lonely [[Road|road]].
 Two or three miles more, and the cart stopped. Sikes alighted, took
-Oliver by the hand, and they once again walked on.
+[[Oliver]] by the hand, and they once again walked on.
 
-They turned into no house at Shepperton, as the weary boy had expected;
+They turned into no [[house]] at Shepperton, as the weary boy had expected;
 but still kept walking on, in mud and darkness, through gloomy lanes
 and over cold open wastes, until they came within sight of the lights
-of a town at no great distance. On looking intently forward, Oliver saw
-that the water was just below them, and that they were coming to the
+of a town at no great distance. On looking intently forward, [[Oliver]] saw
+that the [[Water|water]] was just below them, and that they were coming to the
 foot of a bridge.
 
 Sikes kept straight on, until they were close upon the bridge; then
 turned suddenly down a bank upon the left.
 
-“The water!” thought Oliver, turning sick with fear. “He has brought me
+“The [[Water|water]]!” thought [[Oliver]], turning sick with [[Fear|fear]]. “He has brought me
 to this lonely place to murder me!”
 
 He was about to throw himself on the ground, and make one struggle for
-his young life, when he saw that they stood before a solitary house:
-all ruinous and decayed. There was a window on each side of the
+his young life, when he saw that they stood before a solitary [[house]]:
+all ruinous and decayed. There was a [[Window|window]] on each side of the
 dilapidated entrance; and one story above; but no light was visible.
-The house was dark, dismantled: and, to all appearance, uninhabited.
+The [[house]] was dark, dismantled: and, to all appearance, uninhabited.
 
-Sikes, with Oliver’s hand still in his, softly approached the low
+Sikes, with [[Oliver]]’s hand still in his, softly approached the low
 porch, and raised the latch. The door yielded to the pressure, and they
 passed in together.

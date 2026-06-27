@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 49 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 49 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ Unaccountable, however, as the circumstances of his release might
 
 appear to the whole family, it was certain that Edward was free; and to
 
-what purpose that freedom would be employed was easily pre-determined
+what purpose that [[Freedom|freedom]] would be employed was easily pre-determined
 
 by all;—for after experiencing the blessings of _one_ imprudent
 
@@ -56,27 +56,27 @@ expressed himself, and how he was received, need not be particularly
 
 told. This only need be said;—that when they all sat down to table at
 
-four o’clock, about three hours after his arrival, he had secured his
+four o’[[Clock|clock]], about three hours after his arrival, he had secured his
 
 lady, engaged her mother’s consent, and was not only in the rapturous
 
-profession of the lover, but, in the reality of reason and truth, one
+profession of the [[Lover|lover]], but, in the reality of reason and [[Truth|truth]], one
 
 of the happiest of men. His situation indeed was more than commonly
 
-joyful. He had more than the ordinary triumph of accepted love to swell
+joyful. He had more than the ordinary triumph of accepted [[Love|love]] to swell
 
 his heart, and raise his spirits. He was released without any reproach
 
 to himself, from an entanglement which had long formed his misery, from
 
-a woman whom he had long ceased to love;—and elevated at once to that
+a woman whom he had long ceased to [[Love|love]];—and elevated at once to that
 
 security with another, which he must have thought of almost with
 
-despair, as soon as he had learnt to consider it with desire. He was
+[[Despair|despair]], as soon as he had learnt to consider it with [[Desire|desire]]. He was
 
-brought, not from doubt or suspense, but from misery to happiness;—and
+brought, not from [[Doubt|doubt]] or suspense, but from misery to happiness;—and
 
 the change was openly spoken in such a genuine, flowing, grateful
 
@@ -102,9 +102,9 @@ from the care of Mr. Pratt, I think, nay, I am sure, it would never
 
 have happened; for though I left Longstaple with what I thought, at the
 
-time, a most unconquerable preference for his niece, yet had I then had
+[[Time|time]], a most unconquerable preference for his niece, yet had I then had
 
-any pursuit, any object to engage my time and keep me at a distance
+any pursuit, any object to engage my [[Time|time]] and keep me at a distance
 
 from her for a few months, I should very soon have outgrown the fancied
 
@@ -114,25 +114,25 @@ must have done. But instead of having any thing to do, instead of
 
 having any profession chosen for me, or being allowed to chuse any
 
-myself, I returned home to be completely idle; and for the first
+myself, I returned [[Home|home]] to be completely idle; and for the first
 
 twelvemonth afterwards I had not even the nominal employment, which
 
 belonging to the university would have given me; for I was not entered
 
-at Oxford till I was nineteen. I had therefore nothing in the world to
+at [[Oxford]] till I was nineteen. I had therefore nothing in the world to
 
-do, but to fancy myself in love; and as my mother did not make my home
+do, but to fancy myself in [[Love|love]]; and as my mother did not make my [[Home|home]]
 
 in every respect comfortable, as I had no friend, no companion in my
 
 brother, and disliked new acquaintance, it was not unnatural for me to
 
-be very often at Longstaple, where I always felt myself at home, and
+be very often at Longstaple, where I always felt myself at [[Home|home]], and
 
 was always sure of a welcome; and accordingly I spent the greatest part
 
-of my time there from eighteen to nineteen: Lucy appeared everything
+of my [[Time|time]] there from eighteen to nineteen: Lucy appeared everything
 
 that was amiable and obliging. She was pretty too—at least I thought so
 
@@ -140,9 +140,9 @@ _then;_ and I had seen so little of other women, that I could make no
 
 comparisons, and see no defects. Considering everything, therefore, I
 
-hope, foolish as our engagement was, foolish as it has since in every
+[[Hope|hope]], foolish as our engagement was, foolish as it has since in every
 
-way been proved, it was not at the time an unnatural or an inexcusable
+way been proved, it was not at the [[Time|time]] an unnatural or an inexcusable
 
 piece of folly.”
 
@@ -152,9 +152,9 @@ The change which a few hours had wrought in the minds and the happiness
 
 of the Dashwoods, was such—so great—as promised them all, the
 
-satisfaction of a sleepless night. Mrs. Dashwood, too happy to be
+satisfaction of a sleepless [[Night|night]]. Mrs. Dashwood, too happy to be
 
-comfortable, knew not how to love Edward, nor praise Elinor enough, how
+comfortable, knew not how to [[Love|love]] Edward, nor praise Elinor enough, how
 
 to be enough thankful for his release without wounding his delicacy,
 
@@ -164,9 +164,9 @@ together, and yet enjoy, as she wished, the sight and society of both.
 
 
 
-Marianne could speak _her_ happiness only by tears. Comparisons would
+Marianne could speak _her_ happiness only by [[Tears|tears]]. Comparisons would
 
-occur—regrets would arise; and her joy, though sincere as her love for
+occur—regrets would arise; and her joy, though sincere as her [[Love|love]] for
 
 her sister, was of a kind to give her neither spirits nor language.
 
@@ -180,7 +180,7 @@ moment of his justifying the hopes which had so instantly followed, she
 
 was every thing by turns but tranquil. But when the second moment had
 
-passed, when she found every doubt, every solicitude removed, compared
+passed, when she found every [[Doubt|doubt]], every solicitude removed, compared
 
 her situation with what so lately it had been,—saw him honourably
 

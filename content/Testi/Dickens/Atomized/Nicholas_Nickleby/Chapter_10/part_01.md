@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 10 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 10 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,11 +16,11 @@ tags:
 
 CHAPTER 10
 
-How Mr. Ralph Nickleby provided for his Niece and Sister-in-Law
+How Mr. [[Ralph Nickleby]] provided for his Niece and Sister-in-Law
 
 
 On the second morning after the departure of Nicholas for Yorkshire,
-Kate Nickleby sat in a very faded chair raised upon a very dusty throne
+[[Kate Nickleby]] sat in a very faded chair raised upon a very dusty throne
 in Miss La Creevy’s room, giving that lady a sitting for the portrait
 upon which she was engaged; and towards the full perfection of which,
 Miss La Creevy had had the street-door case brought upstairs, in
@@ -48,7 +48,7 @@ you are right there; though I don’t allow that it is of such very great
 importance in the present case. Ah! The difficulties of Art, my dear,
 are great.’
 
-‘They must be, I have no doubt,’ said Kate, humouring her good-natured
+‘They must be, I have no [[Doubt|doubt]],’ said Kate, humouring her good-natured
 little friend.
 
 ‘They are beyond anything you can form the faintest conception of,’
@@ -59,7 +59,7 @@ little miniature is.’
 
 ‘The remuneration can scarcely repay you,’ said Kate.
 
-‘Why, it does not, and that’s the truth,’ answered Miss La Creevy; ‘and
+‘Why, it does not, and that’s the [[Truth|truth]],’ answered Miss La Creevy; ‘and
 then people are so dissatisfied and unreasonable, that, nine times out
 of ten, there’s no pleasure in painting them. Sometimes they say, “Oh,
 how very serious you have made me look, Miss La Creevy!” and at others,
@@ -74,7 +74,7 @@ the other,’ replied Miss La Creevy. ‘Look at the Royal Academy! All
 those beautiful shiny portraits of gentlemen in black velvet waistcoats,
 with their fists doubled up on round tables, or marble slabs, are
 serious, you know; and all the ladies who are playing with little
-parasols, or little dogs, or little children--it’s the same rule in art,
+parasols, or little [[dogs]], or little children--it’s the same rule in art,
 only varying the objects--are smirking. In fact,’ said Miss La Creevy,
 sinking her voice to a confidential whisper, ‘there are only two styles
 of portrait painting; the serious and the smirk; and we always use the
@@ -88,7 +88,7 @@ on painting and talking, with immovable complacency.
 ‘What a number of officers you seem to paint!’ said Kate, availing
 herself of a pause in the discourse, and glancing round the room.
 
-‘Number of what, child?’ inquired Miss La Creevy, looking up from her
+‘Number of what, [[Child|child]]?’ inquired Miss La Creevy, looking up from her
 work. ‘Character portraits, oh yes--they’re not real military men, you
 know.’
 
@@ -109,14 +109,14 @@ feature she was at work upon, at the moment; ‘not,’ she expressly
 observed, ‘that you should make it up for painting, my dear, but because
 it’s our custom sometimes to tell sitters what part we are upon, in
 order that if there’s any particular expression they want introduced,
-they may throw it in, at the time, you know.’
+they may throw it in, at the [[Time|time]], you know.’
 
-‘And when,’ said Miss La Creevy, after a long silence, to wit, an
+‘And when,’ said Miss La Creevy, after a long [[Silence|silence]], to wit, an
 interval of full a minute and a half, ‘when do you expect to see your
 uncle again?’
 
 ‘I scarcely know; I had expected to have seen him before now,’ replied
-Kate. ‘Soon I hope, for this state of uncertainty is worse than
+Kate. ‘Soon I [[Hope|hope]], for this state of uncertainty is worse than
 anything.’
 
 ‘I suppose he has money, hasn’t he?’ inquired Miss La Creevy.
@@ -131,16 +131,16 @@ simplicity. ‘When a man’s a bear, he is generally pretty independent.’
 ‘His manner is rough,’ said Kate.
 
 ‘Rough!’ cried Miss La Creevy, ‘a porcupine’s a featherbed to him! I
-never met with such a cross-grained old savage.’
+never met with such a [[Cross|cross]]-grained old savage.’
 
 ‘It is only his manner, I believe,’ observed Kate, timidly; ‘he was
 disappointed in early life, I think I have heard, or has had his temper
 soured by some calamity. I should be sorry to think ill of him until I
 knew he deserved it.’
 
-‘Well; that’s very right and proper,’ observed the miniature painter,
+‘[[Well]]; that’s very right and proper,’ observed the miniature painter,
 ‘and Heaven forbid that I should be the cause of your doing so! But,
 now, mightn’t he, without feeling it himself, make you and your mama
 some nice little allowance that would keep you both comfortable until
-you were well married, and be a little fortune to her afterwards? What
+you were [[Well|well]] married, and be a little fortune to her afterwards? What
 would a hundred a year for instance, be to him?’

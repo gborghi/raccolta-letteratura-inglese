@@ -1,5 +1,5 @@
 ---
-title: "misc — THE FOOL"
+title: "[[misc]] — THE [[Fool|FOOL]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-THE FOOL
+THE [[Fool|FOOL]]
 
 
 For many years I had sought him, and at last I found him in a club.
@@ -36,15 +36,15 @@ and give and take than this age of intellectual snobs will admit.
 I have sometimes felt tired, like other people; but rather tired
 with men's talk and variety than with their stolidity or sameness;
 therefore it was that I sometimes longed to find the refreshment
-of a single fool.
+of a single [[Fool|fool]].
 
 But it was denied me.  Turn where I would I found this monotonous
 brilliancy of the general intelligence, this ruthless,
-ceaseless sparkle of humour and good sense.  The "mostly fools"
+ceaseless sparkle of [[Humour|humour]] and good sense.  The "mostly fools"
 theory has been used in an anti-democratic sense; but when I
 found at last my priceless ass, I did not find him in what is
-commonly called the democracy; nor in the aristocracy either.
-The man of the democracy generally talks quite rationally,
+commonly called the [[democracy]]; nor in the aristocracy either.
+The man of the [[democracy]] generally talks quite rationally,
 sometimes on the anti-democratic side, but always with an idea
 of giving reasons for what he says and referring to the realities
 of his experience.  Nor is it the aristocracy that is stupid;
@@ -56,8 +56,8 @@ Mr. Winston Churchill or Mr. Wyndham made up his mind for any
 reason to attack Syndicalism he would find out what it was first.
 Not so the man I found in the club.
 
-He was very well dressed; he had a heavy but handsome face;
-his black clothes suggested the City and his gray moustaches
+He was very [[Well|well]] dressed; he had a heavy but handsome face;
+his black clothes suggested the [[City]] and his gray moustaches
 the Army; but the whole suggested that he did not really
 belong to either, but was one of those who dabble in shares
 and who play at soldiers.  There was some third element about
@@ -66,19 +66,19 @@ were a shade too gentlemanly to be quite those of a gentleman.
 They involved an unction and over-emphasis of the club-man:
 then I suddenly remembered feeling the same thing in some old
 actors or old playgoers who had modelled themselves on actors.
-As I came in he said, "If I was the Government," and then put a cigar
+As I came in he said, "If I was the [[government|Government]]," and then put a cigar
 in his mouth which he lit carefully with long intakes of breath.
 Then he took the cigar out of his mouth again and said,
 "I'd give it 'em," as if it were quite a separate sentence.
 But even while his mouth was stopped with the cigar his
 companion or interlocutor leaped to his feet and said with
-great heartiness, snatching up a hat, "Well, I must be off.
+great heartiness, snatching up a hat, "[[Well]], I must be off.
 Tuesday!". I dislike these dark suspicions, but I certainly
 fancied I recognised the sudden geniality with which one takes
 leave of a bore.
 
 When, therefore, he removed the narcotic stopper from his
-mouth it was to me that he addressed the belated epigram.
+mouth it was to me that he addressed the belated [[Epigram|epigram]].
 "I'd give it 'em."
 
 "What would you give them," I asked, "the minimum wage?"
@@ -100,8 +100,8 @@ made me feel sure that he had something of the kind himself.
 "Besides," I continued, "wouldn't it be quite enough to
 confiscate their money?"
 
-"Well, I'd send them all to penal servitude, anyhow," he said,
-"and I'd confiscate their funds as well."
+"[[Well]], I'd send them all to penal servitude, anyhow," he said,
+"and I'd confiscate their funds as [[Well|well]]."
 
 "The policy is daring and full of difficulty," I replied, "but I do
 not say that it is wholly outside the extreme rights of the republic.
@@ -122,7 +122,7 @@ I mean the men who are selling their own coal for fancy prices,
 and who, as long as they can get those prices, care as little
 for national starvation as most merchant princes and pirates
 have cared for the provinces that were wasted or the peoples
-that were enslaved just before their ships came home.
+that were enslaved just before their ships came [[Home|home]].
 But though I am a bit of a revolutionist myself, I cannot quite
 go with you in the extreme violence you suggest.  You say--"
 
@@ -131,7 +131,7 @@ splendid energy like that of some noble beast, "I say I'd take
 all these blasted miners and--"
 
 I had risen slowly to my feet, for I was profoundly moved;
-and I stood staring at that mental monster.
+and I stood staring at that mental [[Monster|monster]].
 
 "Oh," I said, "so it is the miners who are all to be
 sent to penal servitude, so that we may get more coal.
@@ -141,13 +141,13 @@ mining again... You must forgive me, sir; I know I seem
 somewhat moved... The fact is, I have just found something.
 something I have been looking for for years."
 
-"Well," he asked, with no unfriendly stare, "and what have you found?"
+"[[Well]]," he asked, with no unfriendly stare, "and what have you found?"
 
 "No," I answered, shaking my head sadly, "I do not think it would
 be quite kind to tell you what I have found."
 
 He had a hundred virtues, including the capital virtue of
-good humour, and we had no difficulty in changing the subject
+good [[Humour|humour]], and we had no difficulty in changing the subject
 and forgetting the disagreement.  He talked about society,
 his town friends and his country sports, and I discovered
 in the course of it that he was a county magistrate, a Member

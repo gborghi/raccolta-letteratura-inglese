@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 4 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 4 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -26,24 +26,24 @@ horrible faces over your breakfast?’
 discomfited; not the less so because he saw the locksmith’s daughter
 smiling.
 
-‘Sim,’ rejoined Gabriel, laughing heartily. ‘Don’t be a fool, for I’d
+‘Sim,’ rejoined Gabriel, laughing heartily. ‘Don’t be a [[Fool|fool]], for I’d
 rather see you in your senses. These young fellows,’ he added, turning
 to his daughter, ‘are always committing some folly or another. There was
-a quarrel between Joe Willet and old John last night though I can’t say
+a quarrel between Joe Willet and old John last [[Night|night]] though I can’t say
 Joe was much in fault either. He’ll be missing one of these mornings,
 and will have gone away upon some wild-goose errand, seeking his
 fortune.--Why, what’s the matter, Doll? YOU are making faces now. The
 girls are as bad as the boys every bit!’
 
 ‘It’s the tea,’ said Dolly, turning alternately very red and very white,
-which is no doubt the effect of a slight scald--‘so very hot.’
+which is no [[Doubt|doubt]] the effect of a slight scald--‘so very hot.’
 
 Mr Tappertit looked immensely big at a quartern loaf on the table, and
 breathed hard.
 
 ‘Is that all?’ returned the locksmith. ‘Put some more milk in it.--Yes,
 I am sorry for Joe, because he is a likely young fellow, and gains upon
-one every time one sees him. But he’ll start off, you’ll find. Indeed he
+one every [[Time|time]] one sees him. But he’ll start off, you’ll find. Indeed he
 told me as much himself!’
 
 ‘Indeed!’ cried Dolly in a faint voice. ‘In-deed!’
@@ -52,11 +52,11 @@ told me as much himself!’
 
 But, before his daughter could make him any answer, she was taken with
 a troublesome cough, and it was such a very unpleasant cough, that,
-when she left off, the tears were starting in her bright eyes. The
+when she left off, the [[Tears|tears]] were starting in her bright eyes. The
 good-natured locksmith was still patting her on the back and applying
 such gentle restoratives, when a message arrived from Mrs Varden, making
 known to all whom it might concern, that she felt too much indisposed
-to rise after her great agitation and anxiety of the previous night; and
+to rise after her great agitation and anxiety of the previous [[Night|night]]; and
 therefore desired to be immediately accommodated with the little black
 teapot of strong mixed tea, a couple of rounds of buttered toast, a
 middling-sized dish of beef and ham cut thin, and the Protestant Manual
@@ -89,8 +89,8 @@ course of a quarter of an hour or so he again assumed the paper cap and
 tried to work. No. It could not be done.
 
 ‘I’ll do nothing to-day,’ said Mr Tappertit, dashing it down again, ‘but
-grind. I’ll grind up all the tools. Grinding will suit my present humour
-well. Joe!’
+grind. I’ll grind up all the tools. Grinding will suit my present [[Humour|humour]]
+[[Well|well]]. Joe!’
 
 Whirr-r-r-r. The grindstone was soon in motion; the sparks were flying
 off in showers. This was the occupation for his heated spirit.
@@ -99,6 +99,6 @@ Whirr-r-r-r-r-r-r.
 
 ‘Something will come of this!’ said Mr Tappertit, pausing as if in
 triumph, and wiping his heated face upon his sleeve. ‘Something will
-come of this. I hope it mayn’t be human gore!’
+come of this. I [[Hope|hope]] it mayn’t be human gore!’
 
 Whirr-r-r-r-r-r-r-r.

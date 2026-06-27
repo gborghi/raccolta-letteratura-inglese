@@ -18,7 +18,7 @@ The tickets we have received on board the steamboat are marked No. 1, so
 we belong to coach No. 1.  I throw my coat on the box, and hoist my wife
 and her maid into the inside.  It has only one step, and that being about
 a yard from the ground, is usually approached by a chair: when there is
-no chair, ladies trust in Providence.  The coach holds nine inside,
+no chair, ladies trust in [[Providence]].  The coach holds nine inside,
 having a seat across from door to door, where we in England put our legs:
 so that there is only one feat more difficult in the performance than
 getting in, and that is, getting out again.  There is only one outside
@@ -32,22 +32,22 @@ knees), grey stockings, enormous unblacked high-low shoes, and very short
 trousers.  He has two odd gloves: one of parti-coloured worsted, and one
 of leather.  He has a very short whip, broken in the middle and bandaged
 up with string.  And yet he wears a low-crowned, broad-brimmed, black
-hat: faintly shadowing forth a kind of insane imitation of an English
+hat: faintly shadowing forth a kind of insane [[Imitation|imitation]] of an English
 coachman!  But somebody in authority cries ‘Go ahead!’ as I am making
-these observations.  The mail takes the lead in a four-horse waggon, and
+these observations.  The mail takes the lead in a four-[[Horse|horse]] waggon, and
 all the coaches follow in procession: headed by No. 1.
 
 By the way, whenever an Englishman would cry ‘All right!’ an American
 cries ‘Go ahead!’ which is somewhat expressive of the national character
 of the two countries.
 
-The first half-mile of the road is over bridges made of loose planks laid
+The first half-mile of the [[Road|road]] is over bridges made of loose planks laid
 across two parallel poles, which tilt up as the wheels roll over them;
-and IN the river.  The river has a clayey bottom and is full of holes, so
-that half a horse is constantly disappearing unexpectedly, and can’t be
-found again for some time.
+and IN the [[River|river]].  The [[River|river]] has a clayey [[Bottom|bottom]] and is full of holes, so
+that half a [[Horse|horse]] is constantly disappearing unexpectedly, and can’t be
+found again for some [[Time|time]].
 
-But we get past even this, and come to the road itself, which is a series
+But we get past even this, and come to the [[Road|road]] itself, which is a series
 of alternate swamps and gravel-pits.  A tremendous place is close before
 us, the black driver rolls his eyes, screws his mouth up very round, and
 looks straight between the two leaders, as if he were saying to himself,
@@ -111,20 +111,20 @@ BLACK DRIVER (with his eyes starting out of his head).  ‘Lee, den.  Lee,
 dere.  Hi.  Jiddy, Jiddy.  Pill.  Ally Loo.  Lee-e-e-e-e!’
 
 They run up the bank, and go down again on the other side at a fearful
-pace.  It is impossible to stop them, and at the bottom there is a deep
-hollow, full of water.  The coach rolls frightfully.  The insides scream.
-The mud and water fly about us.  The black driver dances like a madman.
+pace.  It is impossible to stop them, and at the [[Bottom|bottom]] there is a deep
+hollow, full of [[Water|water]].  The coach rolls frightfully.  The insides scream.
+The mud and [[Water|water]] fly about us.  The black driver dances like a madman.
 Suddenly we are all right by some extraordinary means, and stop to
 breathe.
 
 A black friend of the black driver is sitting on a fence.  The black
 driver recognises him by twirling his head round and round like a
-harlequin, rolling his eyes, shrugging his shoulders, and grinning from
+harlequin, [[rolling]] his eyes, shrugging his shoulders, and grinning from
 ear to ear.  He stops short, turns to me, and says:
 
-‘We shall get you through sa, like a fiddle, and hope a please you when
-we get you through sa.  Old ‘ooman at home sa:’ chuckling very much.
-‘Outside gentleman sa, he often remember old ‘ooman at home sa,’ grinning
+‘We shall get you through sa, like a fiddle, and [[Hope|hope]] a please you when
+we get you through sa.  Old ‘ooman at [[Home|home]] sa:’ chuckling very much.
+‘Outside gentleman sa, he often remember old ‘ooman at [[Home|home]] sa,’ grinning
 again.
 
 ‘Ay ay, we’ll take care of the old woman.  Don’t be afraid.’
@@ -145,7 +145,7 @@ there is a railway to Richmond.  The tract of country through which it
 takes its course was once productive; but the soil has been exhausted by
 the system of employing a great amount of slave labour in forcing crops,
 without strengthening the land: and it is now little better than a sandy
-desert overgrown with trees.  Dreary and uninteresting as its aspect is,
+[[Desert|desert]] overgrown with trees.  Dreary and uninteresting as its aspect is,
 I was glad to the heart to find anything on which one of the curses of
 this horrible institution has fallen; and had greater pleasure in
 contemplating the withered ground, than the richest and most thriving

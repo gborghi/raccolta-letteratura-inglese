@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 2"
+title: "[[TheCrimesOfEngland]] — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -18,7 +18,7 @@ CHAPTER II
 
 
 
-THE PROTESTANT HERO
+THE PROTESTANT [[Hero|HERO]]
 
 
 
@@ -26,7 +26,7 @@ Suitable Finale for the German Emperor--Frederick
 
 II. and the Power of
 
-Fear--German Influence in England since
+[[Fear]]--German Influence in England since
 
 Lather--Our German Kings and Allies--
 

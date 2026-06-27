@@ -17,9 +17,9 @@ tags:
 But the reader need be under no apprehension that I have suddenly
 gone mad, and shall start biting large pieces out of the trunks
 of trees; or seriously altering (by large semicircular mouthfuls)
-the exquisite outline of the mountains.  This feeling for expressing
+the exquisite outline of the [[Mountains|mountains]].  This feeling for expressing
 a fresh solidity by the image of eating is really a very old one.
-So far from being a paradox of perversity, it is one of the oldest
+So far from being a [[Paradox|paradox]] of perversity, it is one of the oldest
 commonplaces of religion.  If any one wandering about wants to have
 a good trick or test for separating the wrong idealism from the right,
 I will give him one on the spot.  It is a mark of false religion
@@ -29,14 +29,14 @@ the economic problem.  The test of true religion is that its energy
 drives exactly the other way; it is always trying to make men feel
 truths as facts; always trying to make abstract things as plain
 and solid as concrete things; always trying to make men, not merely
-admit the truth, but see, smell, handle, hear, and devour the truth.
+admit the [[Truth|truth]], but see, smell, handle, hear, and devour the [[Truth|truth]].
 All great spiritual scriptures are full of the invitation not to test,
 but to taste; not to examine, but to eat.  Their phrases are full
-of living water and heavenly bread, mysterious manna and dreadful wine.
+of living [[Water|water]] and heavenly bread, mysterious manna and dreadful wine.
 Worldliness, and the polite society of the world, has despised
 this instinct of eating; but religion has never despised it.
-When we look at a firm, fat, white cliff of chalk at Dover, I do not
-suggest that we should desire to eat it; that would be highly abnormal.
+When we look at a firm, fat, white cliff of [[chalk]] at Dover, I do not
+suggest that we should [[Desire|desire]] to eat it; that would be highly abnormal.
 But I really mean that we should think it good to eat; good for
 some one else to eat.  For, indeed, some one else is eating it;
 the grass that grows upon its top is devouring it silently,
@@ -50,14 +50,14 @@ IT is a platitude, and none the less true for that, that we need
 to have an ideal in our minds with which to test all realities.
 But it is equally true, and less noted, that we need a reality
 with which to test ideals.  Thus I have selected Mrs. Buttons,
-a charwoman in Battersea, as the touchstone of all modern
+a charwoman in Battersea, as the [[Touchstone|touchstone]] of all modern
 theories about the mass of women.  Her name is not Buttons;
 she is not in the least a contemptible nor entirely a comic figure.
 She has a powerful stoop and an ugly, attractive face,
 a little like that of Huxley--without the whiskers, of course.
-The courage with which she supports the most brutal bad luck has
+The [[Courage|courage]] with which she supports the most brutal bad luck has
 something quite creepy about it.  Her irony is incessant and inventive;
-her practical charity very large; and she is wholly unaware
+her practical [[Charity|charity]] very large; and she is wholly unaware
 of the philosophical use to which I put her.
 
 But when I hear the modern generalisations about her sex on all sides
@@ -70,11 +70,11 @@ and exquisite, a protected piece of social art, etc."  It is
 extraordinary what a difference the substitution seems to make.
 And on the other hand, when some of the Suffragettes say in their
 pamphlets and speeches, "Woman, leaping to life at the trumpet call
-of Ibsen and Shaw, drops her tawdry luxuries and demands to grasp
+of Ibsen and [[Shaw]], drops her tawdry luxuries and demands to grasp
 the sceptre of empire and the firebrand of speculative thought"--
 in order to understand such a sentence I say it over again in the
 amended form:  "Mrs. Buttons, leaping to life at the trumpet call
-of Ibsen and Shaw, drops her tawdry luxuries and demands to grasp
+of Ibsen and [[Shaw]], drops her tawdry luxuries and demands to grasp
 the sceptre of empire and the firebrand of speculative thought."
 Somehow it sounds quite different.  And yet when you say Woman I
 suppose you mean the average woman; and if most women are as capable
@@ -85,13 +85,13 @@ But this study is not about Mrs. Buttons; she would require
 many studies.  I will take a less impressive case of my principle,
 the principle of keeping in the mind an actual personality when we
 are talking about types or tendencies or generalised ideals.
-Take, for example, the question of the education of boys.
+Take, for example, the question of the [[Education|education]] of boys.
 Almost every post brings me pamphlets expounding some advanced and
-suggestive scheme of education; the pupils are to be taught separate;
+suggestive scheme of [[Education|education]]; the pupils are to be taught separate;
 the sexes are to be taught together; there should be no prizes;
 there should be no punishments; the master should lift the boys
 to his level; the master should descend to their level;
-we should encourage the heartiest comradeship among boys,
+we should encourage the heartiest [[Comradeship|comradeship]] among boys,
 and also the tenderest spiritual intimacy with masters; toil must
 be pleasant and holidays must be instructive; with all these things
 I am daily impressed and somewhat bewildered.
@@ -105,7 +105,7 @@ He was exceptional, and yet the reverse of eccentric; he was
 He was the incarnation and the exaggeration of a certain spirit
 which is the common spirit of boys, but which nowhere else became
 so obvious and outrageous.  And because he was an incarnation he was,
-in his way, a tragedy.
+in his way, a [[Tragedy|tragedy]].
 
 * * * * *
 
@@ -121,7 +121,7 @@ He had even the look of one who has received a buffet that
 he cannot return.  In all occupations he was the average boy;
 just sufficiently good at sports, just sufficiently bad at work
 to be universally satisfactory.  But he was prominent in nothing,
-for prominence was to him a thing like bodily pain.  He could not endure,
+for prominence was to him a thing like bodily [[Pain|pain]].  He could not endure,
 without discomfort amounting to desperation, that any boy should
 be noticed or sensationally separated from the long line of boys;
 for him, to be distinguished was to be disgraced.

@@ -24,7 +24,7 @@ a place where people were allowed to talk.  It is only lately
 that the general increase of efficiency, that is, of the Speaker,
 has made it mostly a place where people are prevented from talking.
 The poor do not go to the modern church, but they went to the ancient
-church all right; and if the common man in the past had a grave respect
+church all right; and if the [[Common Man|common man]] in the past had a [[Grave|grave]] respect
 for property, it may conceivably have been because he sometimes had
 some of his own.  I therefore can claim that I have no vulgar itch
 of innovation in anything I say about any of these institutions.
@@ -43,27 +43,27 @@ X
 
 THE CASE FOR THE PUBLIC SCHOOLS
 
-The word success can of course be used in two senses.
+The word [[success]] can of course be used in two senses.
 It may be used with reference to a thing serving its immediate
-and peculiar purpose, as of a wheel going around; or it can
+and peculiar purpose, as of a [[Wheel|wheel]] going around; or it can
 be used with reference to a thing adding to the general welfare,
-as of a wheel being a useful discovery.  It is one thing
-to say that Smith's flying machine is a failure, and quite
-another to say that Smith has failed to make a flying machine.
+as of a [[Wheel|wheel]] being a useful discovery.  It is one thing
+to say that [[smith|Smith]]'s flying [[Machine|machine]] is a failure, and quite
+another to say that [[smith|Smith]] has failed to make a flying [[Machine|machine]].
 Now this is very broadly the difference between the old
 English public schools and the new democratic schools.
 Perhaps the old public schools are (as I personally think they are)
 ultimately weakening the country rather than strengthening it,
 and are therefore, in that ultimate sense, inefficient.
 But there is such a thing as being efficiently inefficient.
-You can make your flying ship so that it flies, even if you
+You can make your flying [[Ship|ship]] so that it flies, even if you
 also make it so that it kills you.  Now the public school system
 may not work satisfactorily, but it works; the public schools
 may not achieve what we want, but they achieve what they want.
 The popular elementary schools do not in that sense achieve
 anything at all.  It is very difficult to point to any guttersnipe
 in the street and say that he embodies the ideal for which popular
-education has been working, in the sense that the fresh-faced,
+[[Education|education]] has been working, in the sense that the fresh-faced,
 foolish boy in "Etons" does embody the ideal for which
 the headmasters of Harrow and Winchester have been working.
 The aristocratic educationists have the positive purpose
@@ -75,9 +75,9 @@ I know that the boy in "Etons" is stiff with a rather silly
 and sentimental stoicism, called being a man of the world.
 I do not fancy that the errand-boy is rigid with that republican
 stoicism that is called being a citizen.  The schoolboy will really
-say with fresh and innocent hauteur, "I am an English gentleman."
+say with fresh and [[Innocent|innocent]] hauteur, "I am an English gentleman."
 I cannot so easily picture the errand-boy drawing up his
-head to the stars and answering, "Romanus civis sum."
+head to the [[Stars|stars]] and answering, "Romanus civis sum."
 Let it be granted that our elementary teachers are teaching
 the very broadest code of morals, while our great headmasters
 are teaching only the narrowest code of manners.
@@ -93,12 +93,12 @@ often does not get what he asks for, but does get what he wants.
 The silent pressure of his ideal lasts much longer and reshapes the world
 much more than the actualities by which he attempted to suggest it.
 What perishes is the letter, which he thought so practical.
-What endures is the spirit, which he felt to be unattainable
+What endures is the spirit, which he felt to be [[Unattainable|unattainable]]
 and even unutterable.  It is exactly his schemes that are
 not fulfilled; it is exactly his vision that is fulfilled.
-Thus the ten or twelve paper constitutions of the French Revolution,
+Thus the ten or twelve paper constitutions of the [[French Revolution]],
 which seemed so business-like to the framers of them, seem to
-us to have flown away on the wind as the wildest fancies.
+us to have flown away on the [[Wind|wind]] as the wildest fancies.
 What has not flown away, what is a fixed fact in Europe,
 is the ideal and vision.  The Republic, the idea of a land
 full of mere citizens all with some minimum of manners
@@ -108,16 +108,16 @@ be with the creator of social things, desirable or undesirable.
 All his schemes will fail, all his tools break in his hands.
 His compromises will collapse, his concessions will be useless.
 He must brace himself to bear his fate; he shall have nothing
-but his heart's desire.
+but his heart's [[Desire|desire]].
 
 Now if one may compare very small things with very great,
 one may say that the English aristocratic schools can claim
-something of the same sort of success and solid splendor
+something of the same sort of [[success]] and solid splendor
 as the French democratic politics.  At least they can claim
 the same sort of superiority over the distracted and fumbling
-attempts of modern England to establish democratic education.
-Such success as has attended the public schoolboy throughout
-the Empire, a success exaggerated indeed by himself, but still
+attempts of modern England to establish democratic [[Education|education]].
+Such [[success]] as has attended the public schoolboy throughout
+the Empire, a [[success]] exaggerated indeed by himself, but still
 positive and a fact of a certain indisputable shape and size,
 has been due to the central and supreme circumstance that the managers
 of our public schools did know what sort of boy they liked.

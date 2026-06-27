@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 3"
+title: "[[Persuasion]] — Chapter 3"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -26,9 +26,9 @@ morning at Kellynch Hall, as he laid down the newspaper, “that the
 
 present juncture is much in our favour. This peace will be turning all
 
-our rich naval officers ashore. They will be all wanting a home. Could
+our rich naval officers ashore. They will be all wanting a [[Home|home]]. Could
 
-not be a better time, Sir Walter, for having a choice of tenants, very
+not be a better [[Time|time]], Sir Walter, for having a choice of tenants, very
 
 responsible tenants. Many a noble fortune has been made during the war.
 
@@ -52,7 +52,7 @@ Mr Shepherd laughed, as he knew he must, at this wit, and then added—
 
 “I presume to observe, Sir Walter, that, in the way of business,
 
-gentlemen of the navy are well to deal with. I have had a little
+gentlemen of the navy are [[Well|well]] to deal with. I have had a little
 
 knowledge of their methods of doing business; and I am free to confess
 
@@ -72,13 +72,13 @@ notice and curiosity of the other; consequence has its tax; I, John
 
 Shepherd, might conceal any family-matters that I chose, for nobody
 
-would think it worth their while to observe me; but Sir Walter Elliot
+would think it worth their while to observe me; but [[Sir Walter Elliot]]
 
 has eyes upon him which it may be very difficult to elude; and
 
 therefore, thus much I venture upon, that it will not greatly surprise
 
-me if, with all our caution, some rumour of the truth should get
+me if, with all our caution, some rumour of the [[Truth|truth]] should get
 
 abroad; in the supposition of which, as I was going to observe, since
 
@@ -86,7 +86,7 @@ applications will unquestionably follow, I should think any from our
 
 wealthy naval commanders particularly worth attending to; and beg leave
 
-to add, that two hours will bring me over at any time, to save you the
+to add, that two hours will bring me over at any [[Time|time]], to save you the
 
 trouble of replying.”
 
@@ -100,11 +100,11 @@ room, he observed sarcastically—
 
 “There are few among the gentlemen of the navy, I imagine, who would
 
-not be surprised to find themselves in a house of this description.”
+not be surprised to find themselves in a [[house]] of this description.”
 
 
 
-“They would look around them, no doubt, and bless their good fortune,”
+“They would look around them, no [[Doubt|doubt]], and bless their good fortune,”
 
 said Mrs Clay, for Mrs Clay was present: her father had driven her
 
@@ -118,7 +118,7 @@ and besides their liberality, they are so neat and careful in all their
 
 ways! These valuable pictures of yours, Sir Walter, if you chose to
 
-leave them, would be perfectly safe. Everything in and about the house
+leave them, would be perfectly safe. Everything in and about the [[house]]
 
 would be taken such excellent care of! The gardens and shrubberies
 
@@ -130,7 +130,7 @@ afraid, Miss Elliot, of your own sweet flower gardens being neglected.”
 
 “As to all that,” rejoined Sir Walter coolly, “supposing I were induced
 
-to let my house, I have by no means made up my mind as to the
+to let my [[house]], I have by no means made up my mind as to the
 
 privileges to be annexed to it. I am not particularly disposed to
 
@@ -144,7 +144,7 @@ pleasure-grounds, is another thing. I am not fond of the idea of my
 
 shrubberies being always approachable; and I should recommend Miss
 
-Elliot to be on her guard with respect to her flower garden. I am very
+Elliot to be on her guard with respect to her flower [[Garden|garden]]. I am very
 
 little disposed to grant a tenant of Kellynch Hall any extraordinary
 
@@ -178,7 +178,7 @@ Here Anne spoke—
 
 equal claim with any other set of men, for all the comforts and all the
 
-privileges which any home can give. Sailors work hard enough for their
+privileges which any [[Home|home]] can give. Sailors work hard enough for their
 
 comforts, we must all allow.”
 
@@ -220,7 +220,7 @@ father, his father might have disdained to speak to, and of becoming
 
 prematurely an object of disgust himself, than in any other line. One
 
-day last spring, in town, I was in company with two men, striking
+day last [[spring]], in town, I was in company with two men, striking
 
 instances of what I am talking of; Lord St Ives, whose father we all
 
@@ -260,7 +260,7 @@ Admiral Baldwin’s age.”
 
 “Nay, Sir Walter,” cried Mrs Clay, “this is being severe indeed. Have a
 
-little mercy on the poor men. We are not all born to be handsome. The
+little [[Mercy|mercy]] on the poor men. We are not all born to be handsome. The
 
 sea is no beautifier, certainly; sailors do grow old betimes; I have
 
@@ -272,7 +272,7 @@ active service, are not at all better off: and even in the quieter
 
 professions, there is a toil and a labour of the mind, if not of the
 
-body, which seldom leaves a man’s looks to the natural effect of time.
+[[Body|body]], which seldom [[Leaves|leaves]] a man’s looks to the natural effect of [[Time|time]].
 
 The lawyer plods, quite care-worn; the physician is up at all hours,
 
@@ -306,15 +306,15 @@ It seemed as if Mr Shepherd, in this anxiety to bespeak Sir Walter’s
 
 good will towards a naval officer as tenant, had been gifted with
 
-foresight; for the very first application for the house was from an
+foresight; for the very first application for the [[house]] was from an
 
-Admiral Croft, with whom he shortly afterwards fell into company in
+[[Admiral Croft]], with whom he shortly afterwards fell into company in
 
 attending the quarter sessions at Taunton; and indeed, he had received
 
-a hint of the Admiral from a London correspondent. By the report which
+a hint of the Admiral from a [[London]] correspondent. By the report which
 
-he hastened over to Kellynch to make, Admiral Croft was a native of
+he hastened over to Kellynch to make, [[Admiral Croft]] was a native of
 
 Somersetshire, who having acquired a very handsome fortune, was wishing
 
@@ -344,7 +344,7 @@ responsible, eligible tenant.
 
 
 
-“And who is Admiral Croft?” was Sir Walter’s cold suspicious inquiry.
+“And who is [[Admiral Croft]]?” was Sir Walter’s cold suspicious inquiry.
 
 
 
@@ -370,17 +370,17 @@ about as orange as the cuffs and capes of my livery.”
 
 
 
-Mr Shepherd hastened to assure him, that Admiral Croft was a very hale,
+Mr Shepherd hastened to assure him, that [[Admiral Croft]] was a very hale,
 
-hearty, well-looking man, a little weather-beaten, to be sure, but not
+hearty, [[Well|well]]-looking man, a little weather-beaten, to be sure, but not
 
 much, and quite the gentleman in all his notions and behaviour; not
 
 likely to make the smallest difficulty about terms, only wanted a
 
-comfortable home, and to get into it as soon as possible; knew he must
+comfortable [[Home|home]], and to get into it as soon as possible; knew he must
 
-pay for his convenience; knew what rent a ready-furnished house of that
+pay for his convenience; knew what rent a ready-furnished [[house]] of that
 
 consequence might fetch; should not have been surprised if Sir Walter
 
@@ -398,11 +398,11 @@ circumstances of the Admiral’s family, which made him peculiarly
 
 desirable as a tenant. He was a married man, and without children; the
 
-very state to be wished for. A house was never taken good care of, Mr
+very state to be wished for. A [[house]] was never taken good care of, Mr
 
 Shepherd observed, without a lady: he did not know, whether furniture
 
-might not be in danger of suffering as much where there was no lady, as
+might not be in danger of [[Suffering|suffering]] as much where there was no lady, as
 
 where there were many children. A lady, without a family, was the very
 
@@ -410,13 +410,13 @@ best preserver of furniture in the world. He had seen Mrs Croft, too;
 
 she was at Taunton with the admiral, and had been present almost all
 
-the time they were talking the matter over.
+the [[Time|time]] they were talking the matter over.
 
 
 
-“And a very well-spoken, genteel, shrewd lady, she seemed to be,”
+“And a very [[Well|well]]-spoken, genteel, shrewd lady, she seemed to be,”
 
-continued he; “asked more questions about the house, and terms, and
+continued he; “asked more questions about the [[house]], and terms, and
 
 taxes, than the Admiral himself, and seemed more conversant with
 
@@ -446,13 +446,13 @@ hear the appeal.
 
 “I have no conception whom you can mean, Shepherd; I remember no
 
-gentleman resident at Monkford since the time of old Governor Trent.”
+gentleman resident at Monkford since the [[Time|time]] of old Governor Trent.”
 
 
 
 “Bless me! how very odd! I shall forget my own name soon, I suppose. A
 
-name that I am so very well acquainted with; knew the gentleman so well
+name that I am so very [[Well|well]] acquainted with; knew the gentleman so [[Well|well]]
 
 by sight; seen him a hundred times; came to consult me once, I
 
@@ -480,7 +480,7 @@ Mr Shepherd was all gratitude.
 
 “Wentworth was the very name! Mr Wentworth was the very man. He had the
 
-curacy of Monkford, you know, Sir Walter, some time back, for two or
+curacy of Monkford, you know, Sir Walter, some [[Time|time]] back, for two or
 
 three years. Came there about the year —5, I take it. You remember
 
@@ -512,7 +512,7 @@ formed of Kellynch Hall, and extreme solicitude for the advantage of
 
 renting it; making it appear as if they ranked nothing beyond the
 
-happiness of being the tenants of Sir Walter Elliot: an extraordinary
+happiness of being the tenants of [[Sir Walter Elliot]]: an extraordinary
 
 taste, certainly, could they have been supposed in the secret of Sir
 
@@ -522,15 +522,15 @@ Walter’s estimate of the dues of a tenant.
 
 It succeeded, however; and though Sir Walter must ever look with an
 
-evil eye on anyone intending to inhabit that house, and think them
+evil eye on anyone intending to inhabit that [[house]], and think them
 
-infinitely too well off in being permitted to rent it on the highest
+infinitely too [[Well|well]] off in being permitted to rent it on the highest
 
 terms, he was talked into allowing Mr Shepherd to proceed in the
 
-treaty, and authorising him to wait on Admiral Croft, who still
+treaty, and authorising him to wait on [[Admiral Croft]], who still
 
-remained at Taunton, and fix a day for the house being seen.
+remained at Taunton, and fix a day for the [[house]] being seen.
 
 
 
@@ -538,23 +538,23 @@ Sir Walter was not very wise; but still he had experience enough of the
 
 world to feel, that a more unobjectionable tenant, in all essentials,
 
-than Admiral Croft bid fair to be, could hardly offer. So far went his
+than [[Admiral Croft]] bid fair to be, could hardly offer. So far went his
 
-understanding; and his vanity supplied a little additional soothing, in
+understanding; and his [[Vanity|vanity]] supplied a little additional soothing, in
 
 the Admiral’s situation in life, which was just high enough, and not
 
-too high. “I have let my house to Admiral Croft,” would sound extremely
+too high. “I have let my [[house]] to [[Admiral Croft]],” would sound extremely
 
-well; very much better than to any mere _Mr._——; a _Mr._ (save,
+[[Well|well]]; very much better than to any mere _Mr._——; a _Mr._ (save,
 
 perhaps, some half dozen in the nation,) always needs a note of
 
 explanation. An admiral speaks his own consequence, and, at the same
 
-time, can never make a baronet look small. In all their dealings and
+[[Time|time]], can never make a baronet look small. In all their dealings and
 
-intercourse, Sir Walter Elliot must ever have the precedence.
+intercourse, [[Sir Walter Elliot]] must ever have the precedence.
 
 
 

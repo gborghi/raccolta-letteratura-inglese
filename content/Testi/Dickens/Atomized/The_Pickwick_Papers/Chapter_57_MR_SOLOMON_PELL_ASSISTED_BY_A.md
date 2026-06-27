@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF"
+title: "The [[Pickwick]] Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -23,7 +23,7 @@ funeral, ‘I’ve found it, Sammy. I thought it wos there.’
 ‘Thought wot wos there?’ inquired Sam.
 
 ‘Your mother-in-law’s vill, Sammy,’ replied Mr. Weller. ‘In wirtue o’
-vich, them arrangements is to be made as I told you on, last night,
+vich, them arrangements is to be made as I told you on, last [[Night|night]],
 respectin’ the funs.’
 
 ‘Wot, didn’t she tell you were it wos?’ inquired Sam.
@@ -35,7 +35,7 @@ done it, indeed, if I had remembered it,’ added Mr. Weller, ‘for it’s a
 rum sort o’ thing, Sammy, to go a-hankerin’ arter anybody’s property,
 ven you’re assistin’ ‘em in illness. It’s like helping an outside
 passenger up, ven he’s been pitched off a coach, and puttin’ your hand
-in his pocket, vile you ask him, vith a sigh, how he finds his-self,
+in his pocket, vile you ask him, vith a sigh, how he finds his-[[Self|self]],
 Sammy.’
 
 With this figurative illustration of his meaning, Mr. Weller unclasped
@@ -46,8 +46,8 @@ confusion.
 ‘This here is the dockyment, Sammy,’ said Mr. Weller. ‘I found it in the
 little black tea-pot, on the top shelf o’ the bar closet. She used to
 keep bank-notes there, ‘fore she vos married, Samivel. I’ve seen her
-take the lid off, to pay a bill, many and many a time. Poor creetur, she
-might ha’ filled all the tea-pots in the house vith vills, and not have
+take the lid off, to pay a bill, many and many a [[Time|time]]. Poor creetur, she
+might ha’ filled all the tea-pots in the [[house]] vith vills, and not have
 inconwenienced herself neither, for she took wery little of anythin’ in
 that vay lately, ‘cept on the temperance nights, ven they just laid a
 foundation o’ tea to put the spirits atop on!’
@@ -63,10 +63,10 @@ Tony Veller, who I appint as my sole eggzekiter.’
 
 ‘That’s all,’ replied Mr. Weller. ‘And I s’pose as it’s all right and
 satisfactory to you and me as is the only parties interested, ve may as
-vell put this bit o’ paper into the fire.’
+vell put this bit o’ paper into the [[Fire|fire]].’
 
 ‘Wot are you a-doin’ on, you lunatic?’ said Sam, snatching the paper
-away, as his parent, in all innocence, stirred the fire preparatory to
+away, as his parent, in all [[innocence]], stirred the [[Fire|fire]] preparatory to
 suiting the action to the word. ‘You’re a nice eggzekiter, you are.’
 
 ‘Vy not?’ inquired Mr. Weller, looking sternly round, with the poker in
@@ -84,7 +84,7 @@ meanwhile, that he did mean it, and very seriously too.
 meditation, ‘this is a case for that ‘ere confidential pal o’ the
 Chancellorship’s. Pell must look into this, Sammy. He’s the man for a
 difficult question at law. Ve’ll have this here brought afore the
-Solvent Court, directly, Samivel.’
+Solvent [[Court]], directly, Samivel.’
 
 ‘I never did see such a addle-headed old creetur!’ exclaimed Sam
 irritably; ‘Old Baileys, and Solvent Courts, and alleybis, and ev’ry
@@ -99,7 +99,7 @@ but Pell--nobody but Pell as a legal adwiser.’
 ‘I don’t want anybody else,’ replied Sam. ‘Now, are you a-comin’?’
 
 ‘Vait a minit, Sammy,’ replied Mr. Weller, who, having tied his shawl
-with the aid of a small glass that hung in the window, was now, by dint
+with the aid of a small glass that hung in the [[Window|window]], was now, by dint
 of the most wonderful exertions, struggling into his upper garments.
 ‘Vait a minit’ Sammy; ven you grow as old as your father, you von’t get
 into your veskit quite as easy as you do now, my boy.’
@@ -113,17 +113,17 @@ Sammy, alvays grows together.’
 
 As Mr. Weller delivered this infallible maxim--the result of many years’
 personal experience and observation--he contrived, by a dexterous twist
-of his body, to get the bottom button of his coat to perform its office.
+of his [[Body|body]], to get the [[Bottom|bottom]] button of his coat to perform its office.
 Having paused a few seconds to recover breath, he brushed his hat with
 his elbow, and declared himself ready.
 
 ‘As four heads is better than two, Sammy,’ said Mr. Weller, as they
-drove along the London Road in the chaise-cart, ‘and as all this here
-property is a wery great temptation to a legal gen’l’m’n, ve’ll take a
+drove along the [[London]] [[Road]] in the chaise-cart, ‘and as all this here
+property is a wery great [[Temptation|temptation]] to a legal gen’l’m’n, ve’ll take a
 couple o’ friends o’ mine vith us, as’ll be wery soon down upon him if
 he comes anythin’ irreg’lar; two o’ them as saw you to the Fleet that
 day. They’re the wery best judges,’ added Mr. Weller, in a half-whisper-
--’the wery best judges of a horse, you ever know’d.’
+-’the wery best judges of a [[Horse|horse]], you ever know’d.’
 
 ‘And of a lawyer too?’ inquired Sam.
 
@@ -135,27 +135,27 @@ In pursuance of this notable resolution, the services of the mottled-
 faced gentleman and of two other very fat coachmen--selected by Mr.
 Weller, probably, with a view to their width and consequent wisdom--were
 put into requisition; and this assistance having been secured, the party
-proceeded to the public-house in Portugal Street, whence a messenger was
-despatched to the Insolvent Court over the way, requiring Mr. Solomon
+proceeded to the public-[[house]] in Portugal Street, whence a messenger was
+despatched to the Insolvent [[Court]] over the way, requiring Mr. Solomon
 Pell’s immediate attendance.
 
-The messenger fortunately found Mr. Solomon Pell in court, regaling
+The messenger fortunately found Mr. Solomon Pell in [[Court|court]], regaling
 himself, business being rather slack, with a cold collation of an
 Abernethy biscuit and a saveloy. The message was no sooner whispered in
 his ear than he thrust them in his pocket among various professional
 documents, and hurried over the way with such alacrity that he reached
 the parlour before the messenger had even emancipated himself from the
-court.
+[[Court|court]].
 
 ‘Gentlemen,’ said Mr. Pell, touching his hat, ‘my service to you all. I
 don’t say it to flatter you, gentlemen, but there are not five other men
-in the world, that I’d have come out of that court for, to-day.’
+in the world, that I’d have come out of that [[Court|court]] for, to-day.’
 
 ‘So busy, eh?’ said Sam.
 
 ‘Busy!’ replied Pell; ‘I’m completely sewn up, as my friend the late
-Lord Chancellor many a time used to say to me, gentlemen, when he came
-out from hearing appeals in the House of Lords. Poor fellow; he was very
+Lord Chancellor many a [[Time|time]] used to say to me, gentlemen, when he came
+out from hearing appeals in the [[house|House]] of Lords. Poor fellow; he was very
 susceptible to fatigue; he used to feel those appeals uncommonly. I
 actually thought more than once that he’d have sunk under ‘em; I did,
 indeed.’
@@ -166,34 +166,34 @@ connections, asked whether the duties in question produced any permanent
 ill effects on the constitution of his noble friend.
 
 ‘I don’t think he ever quite recovered them,’ replied Pell; ‘in fact I’m
-sure he never did. “Pell,” he used to say to me many a time, “how the
-blazes you can stand the head-work you do, is a mystery to me.”--“Well,”
+sure he never did. “Pell,” he used to say to me many a [[Time|time]], “how the
+blazes you can stand the head-work you do, is a mystery to me.”--“[[Well]],”
  I used to answer, “I hardly know how I do it, upon my life.”--“Pell,”
  he’d add, sighing, and looking at me with a little envy--friendly envy,
 you know, gentlemen, mere friendly envy; I never minded it--“Pell,
-you’re a wonder; a wonder.” Ah! you’d have liked him very much if you
+you’re a [[Wonder|wonder]]; a [[Wonder|wonder]].” Ah! you’d have liked him very much if you
 had known him, gentlemen. Bring me three-penn’orth of rum, my dear.’
 
 Addressing this latter remark to the waitress, in a tone of subdued
 grief, Mr. Pell sighed, looked at his shoes and the ceiling; and, the
-rum having by that time arrived, drank it up.
+rum having by that [[Time|time]] arrived, drank it up.
 
 ‘However,’ said Pell, drawing a chair to the table, ‘a professional man
 has no right to think of his private friendships when his legal
 assistance is wanted. By the bye, gentlemen, since I saw you here
-before, we have had to weep over a very melancholy occurrence.’
+before, we have had to weep over a very [[Melancholy|melancholy]] occurrence.’
 
 Mr. Pell drew out a pocket-handkerchief, when he came to the word weep,
 but he made no further use of it than to wipe away a slight tinge of rum
 which hung upon his upper lip.
 
 ‘I saw it in the ADVERTISER, Mr. Weller,’ continued Pell. ‘Bless my
-soul, not more than fifty-two! Dear me--only think.’
+[[Soul|soul]], not more than fifty-two! Dear me--only think.’
 
 These indications of a musing spirit were addressed to the mottled-faced
 man, whose eyes Mr. Pell had accidentally caught; on which, the mottled-
 faced man, whose apprehension of matters in general was of a foggy
-nature, moved uneasily in his seat, and opined that, indeed, so far as
+[[Nature|nature]], moved uneasily in his seat, and opined that, indeed, so far as
 that went, there was no saying how things was brought about; which
 observation, involving one of those subtle propositions which it is
 difficult to encounter in argument, was controverted by nobody.
@@ -205,14 +205,14 @@ said Pell, in a sympathising manner.
 this mode of discussing the subject, and yet thinking that the attorney,
 from his long intimacy with the late Lord Chancellor, must know best on
 all matters of polite breeding. ‘She wos a wery fine ‘ooman, sir, ven I
-first know’d her. She wos a widder, sir, at that time.’
+first know’d her. She wos a widder, sir, at that [[Time|time]].’
 
 ‘Now, it’s curious,’ said Pell, looking round with a sorrowful smile;
 ‘Mrs. Pell was a widow.’
 
 ‘That’s very extraordinary,’ said the mottled-faced man.
 
-‘Well, it is a curious coincidence,’ said Pell.
+‘[[Well]], it is a curious coincidence,’ said Pell.
 
 ‘Not at all,’ gruffly remarked the elder Mr. Weller. ‘More widders is
 married than single wimin.’
@@ -220,9 +220,9 @@ married than single wimin.’
 ‘Very good, very good,’ said Pell, ‘you’re quite right, Mr. Weller. Mrs.
 Pell was a very elegant and accomplished woman; her manners were the
 theme of universal admiration in our neighbourhood. I was proud to see
-that woman dance; there was something so firm and dignified, and yet
+that woman [[Dance|dance]]; there was something so firm and dignified, and yet
 natural, in her motion. Her cutting, gentlemen, was simplicity itself.
-Ah! well, well! Excuse my asking the question, Mr. Samuel,’ continued
+Ah! [[Well|well]], [[Well|well]]! Excuse my asking the question, Mr. Samuel,’ continued
 the attorney in a lower voice, ‘was your mother-in-law tall?’
 
 ‘Not wery,’ replied Sam.
@@ -238,13 +238,13 @@ discussion, ‘vith regard to bis’ness.’
 
 The word was music to Pell’s ears. He had been revolving in his mind
 whether any business was to be transacted, or whether he had been merely
-invited to partake of a glass of brandy-and-water, or a bowl of punch,
-or any similar professional compliment, and now the doubt was set at
+invited to partake of a glass of brandy-and-[[Water|water]], or a bowl of punch,
+or any similar professional compliment, and now the [[Doubt|doubt]] was set at
 rest without his appearing at all eager for its solution. His eyes
 glistened as he laid his hat on the table, and said--
 
 ‘What is the business upon which--um? Either of these gentlemen wish to
-go through the court? We require an arrest; a friendly arrest will do,
+go through the [[Court|court]]? We require an arrest; a friendly arrest will do,
 you know; we are all friends here, I suppose?’
 
 ‘Give me the dockyment, Sammy,’ said Mr. Weller, taking the will from
@@ -253,11 +253,11 @@ sir, is a probe o’ this here.’
 
 ‘Probate, my dear Sir, probate,’ said Pell.
 
-‘Well, sir,’ replied Mr. Weller sharply, ‘probe and probe it, is wery
+‘[[Well]], sir,’ replied Mr. Weller sharply, ‘probe and probe it, is wery
 much the same; if you don’t understand wot I mean, sir, I des-say I can
 find them as does.’
 
-‘No offence, I hope, Mr. Weller,’ said Pell meekly. ‘You are the
+‘No offence, I [[Hope|hope]], Mr. Weller,’ said Pell meekly. ‘You are the
 executor, I see,’ he added, casting his eyes over the paper.
 
 ‘I am, sir,’ replied Mr. Weller.
@@ -276,7 +276,7 @@ Mr. Weller produced that sum; after which, a long consultation about
 nothing particular took place, in the course whereof Mr. Pell
 demonstrated to the perfect satisfaction of the gentlemen who saw fair,
 that unless the management of the business had been intrusted to him, it
-must all have gone wrong, for reasons not clearly made out, but no doubt
+must all have gone wrong, for reasons not clearly made out, but no [[Doubt|doubt]]
 sufficient. This important point being despatched, Mr. Pell refreshed
 himself with three chops, and liquids both malt and spirituous, at the
 expense of the estate; and then they all went away to Doctors’ Commons.
@@ -302,7 +302,7 @@ who had been recommended by Mr. Solomon Pell for the purpose.
 It was a kind of festive occasion, and the parties were attired
 accordingly. Mr. Weller’s tops were newly cleaned, and his dress was
 arranged with peculiar care; the mottled-faced gentleman wore at his
-button-hole a full-sized dahlia with several leaves; and the coats of
+button-hole a full-sized dahlia with several [[Leaves|leaves]]; and the coats of
 his two friends were adorned with nosegays of laurel and other
 evergreens. All three were habited in strict holiday costume; that is to
 say, they were wrapped up to the chins, and wore as many clothes as
@@ -310,11 +310,11 @@ possible, which is, and has been, a stage-coachman’s idea of full dress
 ever since stage-coaches were invented.
 
 Mr. Pell was waiting at the usual place of meeting at the appointed
-time; even he wore a pair of gloves and a clean shirt, much frayed at
+[[Time|time]]; even he wore a pair of gloves and a clean shirt, much frayed at
 the collar and wristbands by frequent washings.
 
-‘A quarter to two,’ said Pell, looking at the parlour clock. ‘If we are
-with Mr. Flasher at a quarter past, we shall just hit the best time.’
+‘A quarter to two,’ said Pell, looking at the parlour [[Clock|clock]]. ‘If we are
+with Mr. Flasher at a quarter past, we shall just hit the best [[Time|time]].’
 
 ‘What should you say to a drop o’ beer, gen’l’m’n?’ suggested the
 mottled-faced man.
@@ -338,7 +338,7 @@ the hoarse voice, who took an imperial pint of vinegar with his oysters,
 without betraying the least emotion.
 
 ‘Mr. Pell, Sir,’ said the elder Mr. Weller, stirring a glass of brandy-
-and-water, of which one was placed before every gentleman when the
+and-[[Water|water]], of which one was placed before every gentleman when the
 oyster shells were removed--‘Mr. Pell, Sir, it wos my intention to have
 proposed the funs on this occasion, but Samivel has vispered to me--’
 
@@ -346,7 +346,7 @@ Here Mr. Samuel Weller, who had silently eaten his oysters with tranquil
 smiles, cried, ‘Hear!’ in a very loud voice.
 
 ‘--Has vispered to me,’ resumed his father, ‘that it vould be better to
-dewote the liquor to vishin’ you success and prosperity, and thankin’
+dewote the liquor to vishin’ you [[success]] and prosperity, and thankin’
 you for the manner in which you’ve brought this here business through.
 Here’s your health, sir.’
 
@@ -354,7 +354,7 @@ Here’s your health, sir.’
 energy; ‘your eyes on me, gen’l’m’n!’
 
 
-Saying this, the mottled-faced gentleman rose, as did the other
+Saying this, the mottled-faced gentleman [[Rose|rose]], as did the other
 gentlemen. The mottled-faced gentleman reviewed the company, and slowly
 lifted his hand, upon which every man (including him of the mottled
 countenance) drew a long breath, and lifted his tumbler to his lips. In
@@ -363,7 +363,7 @@ every glass was set down empty. It is impossible to describe the
 thrilling effect produced by this striking ceremony. At once dignified,
 solemn, and impressive, it combined every element of grandeur.
 
-‘Well, gentlemen,’ said Mr. Pell, ‘all I can say is, that such marks of
+‘[[Well]], gentlemen,’ said Mr. Pell, ‘all I can say is, that such marks of
 confidence must be very gratifying to a professional man. I don’t wish
 to say anything that might appear egotistical, gentlemen, but I’m very
 glad, for your own sakes, that you came to me; that’s all. If you had
@@ -371,29 +371,29 @@ gone to any low member of the profession, it’s my firm conviction, and I
 assure you of it as a fact, that you would have found yourselves in
 Queer Street before this. I could have wished my noble friend had been
 alive to have seen my management of this case. I don’t say it out of
-pride, but I think--However, gentlemen, I won’t trouble you with that.
+[[Pride|pride]], but I think--However, gentlemen, I won’t trouble you with that.
 I’m generally to be found here, gentlemen, but if I’m not here, or over
 the way, that’s my address. You’ll find my terms very cheap and
-reasonable, and no man attends more to his clients than I do, and I hope
+reasonable, and no man attends more to his clients than I do, and I [[Hope|hope]]
 I know a little of my profession besides. If you have any opportunity of
 recommending me to any of your friends, gentlemen, I shall be very much
 obliged to you, and so will they too, when they come to know me. Your
 healths, gentlemen.’
 
 With this expression of his feelings, Mr. Solomon Pell laid three small
-written cards before Mr. Weller’s friends, and, looking at the clock
-again, feared it was time to be walking. Upon this hint Mr. Weller
+written cards before Mr. Weller’s friends, and, looking at the [[Clock|clock]]
+again, feared it was [[Time|time]] to be walking. Upon this hint Mr. Weller
 settled the bill, and, issuing forth, the executor, legatee, attorney,
-and umpires, directed their steps towards the city.
+and umpires, directed their steps towards the [[City|city]].
 
 The office of Wilkins Flasher, Esquire, of the Stock Exchange, was in a
-first floor up a court behind the Bank of England; the house of Wilkins
-Flasher, Esquire, was at Brixton, Surrey; the horse and stanhope of
+first floor up a [[Court|court]] behind the Bank of England; the [[house]] of Wilkins
+Flasher, Esquire, was at Brixton, Surrey; the [[Horse|horse]] and stanhope of
 Wilkins Flasher, Esquire, were at an adjacent livery stable; the groom
 of Wilkins Flasher, Esquire, was on his way to the West End to deliver
 some game; the clerk of Wilkins Flasher, Esquire, had gone to his
 dinner; and so Wilkins Flasher, Esquire, himself, cried, ‘Come in,’ when
-Mr. Pell and his companions knocked at the counting-house door.
+Mr. Pell and his companions knocked at the counting-[[house]] door.
 
 ‘Good-morning, Sir,’ said Pell, bowing obsequiously. ‘We want to make a
 little transfer, if you please.’
@@ -409,7 +409,7 @@ they could get, and looked at the almanac and one or two papers which
 were wafered against the wall, with as much open-eyed reverence as if
 they had been the finest efforts of the old masters.
 
-‘Well, I’ll bet you half a dozen of claret on it; come!’ said Wilkins
+‘[[Well]], I’ll bet you half a dozen of claret on it; come!’ said Wilkins
 Flasher, Esquire, resuming the conversation to which Mr. Pell’s entrance
 had caused a momentary interruption.
 
@@ -419,8 +419,8 @@ ruler. Wilkins Flasher, Esquire, was balancing himself on two legs of an
 office stool, spearing a wafer-box with a penknife, which he dropped
 every now and then with great dexterity into the very centre of a small
 red wafer that was stuck outside. Both gentlemen had very open
-waistcoats and very rolling collars, and very small boots, and very big
-rings, and very little watches, and very large guard-chains, and
+waistcoats and very [[rolling]] collars, and very small boots, and very big
+rings, and very little watches, and very large guard-[[Chains|chains]], and
 symmetrical inexpressibles, and scented pocket-handkerchiefs.
 
 ‘I never bet half a dozen!’ said the other gentleman. ‘I’ll take a
@@ -436,7 +436,7 @@ gentleman entered it also, in another little book with another gold
 pencil-case.
 
 ‘I see there’s a notice up this morning about Boffer,’ observed Mr.
-Simmery. ‘Poor devil, he’s expelled the house!’
+Simmery. ‘Poor devil, he’s expelled the [[house]]!’
 
 ‘I’ll bet you ten guineas to five, he cuts his throat,’ said Wilkins
 Flasher, Esquire.
@@ -453,7 +453,7 @@ himself.’
 ‘Kills himself, in fact,’ said Wilkins Flasher, Esquire.
 
 ‘Just so,’ replied Mr. Simmery, putting it down. ‘“Flasher--ten guineas
-to five, Boffer kills himself.” Within what time shall we say?’
+to five, Boffer kills himself.” Within what [[Time|time]] shall we say?’
 
 ‘A fortnight?’ suggested Wilkins Flasher, Esquire.
 
@@ -463,12 +463,12 @@ smash a fly with the ruler. ‘Say a week.’
 ‘Split the difference,’ said Wilkins Flasher, Esquire. ‘Make it ten
 days.’
 
-‘Well; ten days,’ rejoined Mr. Simmery.
+‘[[Well]]; ten days,’ rejoined Mr. Simmery.
 
 So it was entered down on the little books that Boffer was to kill
 himself within ten days, or Wilkins Flasher, Esquire, was to hand over
 to Frank Simmery, Esquire, the sum of ten guineas; and that if Boffer
-did kill himself within that time, Frank Simmery, Esquire, would pay to
+did kill himself within that [[Time|time]], Frank Simmery, Esquire, would pay to
 Wilkins Flasher, Esquire, five guineas, instead.
 
 ‘I’m very sorry he has failed,’ said Wilkins Flasher, Esquire. ‘Capital
@@ -483,7 +483,7 @@ Five guineas my man outbids your man.’
 ‘Done.’
 
 Another entry was made in the little books, with the gold pencil-cases;
-and Mr. Simmery, having by this time killed all the flies and taken all
+and Mr. Simmery, having by this [[Time|time]] killed all the flies and taken all
 the bets, strolled away to the Stock Exchange to see what was going
 forward.
 
@@ -494,7 +494,7 @@ three friends staring at all they beheld in unbounded astonishment, and
 Sam encountering everything with a coolness which nothing could disturb.
 
 Crossing a courtyard which was all noise and bustle, and passing a
-couple of porters who seemed dressed to match the red fire engine which
+couple of porters who seemed dressed to match the red [[Fire|fire]] engine which
 was wheeled away into a corner, they passed into an office where their
 business was to be transacted, and where Pell and Mr. Flasher left them
 standing for a few moments, while they went upstairs into the Will
@@ -545,13 +545,13 @@ been for the prompt, though, at first sight, undutiful behaviour of Sam,
 who, seizing his father by the skirt of the coat, dragged him to the
 counter, and pinned him there, until he had affixed his signature to a
 couple of instruments; which, from Mr. Weller’s habit of printing, was a
-work of so much labour and time, that the officiating clerk peeled and
+work of so much labour and [[Time|time]], that the officiating clerk peeled and
 ate three Ribstone pippins while it was performing.
 
 As the elder Mr. Weller insisted on selling out his portion forthwith,
 they proceeded from the bank to the gate of the Stock Exchange, to which
 Wilkins Flasher, Esquire, after a short absence, returned with a cheque
-on Smith, Payne, & Smith, for five hundred and thirty pounds; that being
+on [[smith|Smith]], Payne, & [[smith|Smith]], for five hundred and thirty pounds; that being
 the money to which Mr. Weller, at the market price of the day, was
 entitled, in consideration of the balance of the second Mrs. Weller’s
 funded savings. Sam’s two hundred pounds stood transferred to his name,
@@ -561,10 +561,10 @@ office.
 
 Mr. Weller was at first obstinately determined on cashing the cheque in
 nothing but sovereigns; but it being represented by the umpires that by
-so doing he must incur the expense of a small sack to carry them home
+so doing he must incur the expense of a small sack to carry them [[Home|home]]
 in, he consented to receive the amount in five-pound notes.
 
-‘My son,’ said Mr. Weller, as they came out of the banking-house--‘my
+‘My son,’ said Mr. Weller, as they came out of the banking-[[house]]--‘my
 son and me has a wery partickler engagement this arternoon, and I should
 like to have this here bis’ness settled out of hand, so let’s jest go
 straight avay someveres, vere ve can hordit the accounts.’
@@ -578,9 +578,9 @@ and one on which he boarded, lodged, and washed, for six months
 afterwards.
 
 The umpires having partaken of a dram, shook hands and departed, as they
-had to drive out of town that night. Mr. Solomon Pell, finding that
+had to drive out of town that [[Night|night]]. Mr. Solomon Pell, finding that
 nothing more was going forward, either in the eating or drinking way,
-took a friendly leave, and Sam and his father were left alone.
+took a friendly leave, and Sam and his father were left [[Alone|alone]].
 
 ‘There!’ said Mr. Weller, thrusting his pocket-book in his side pocket.
 ‘Vith the bills for the lease, and that, there’s eleven hundred and

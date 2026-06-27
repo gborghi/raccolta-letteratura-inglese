@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 9 (part 4)"
+title: "[[Villette]] — Chapter 9 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -20,13 +20,13 @@ costly _parure_; that he supplies your bouquets and your gloves?”
 
 “You express yourself so disagreeably,” said she, “one hardly knows how
 to answer; what I mean to say is, that I occasionally allow Isidore the
-pleasure and honour of expressing his homage by the offer of a trifle.”
+pleasure and [[Honour|honour]] of expressing his homage by the offer of a trifle.”
 
-“It comes to the same thing…. Now, Ginevra, to speak the plain truth, I
-don’t very well understand these matters; but I believe you are doing
+“It comes to the same thing…. Now, Ginevra, to speak the plain [[Truth|truth]], I
+don’t very [[Well|well]] understand these matters; but I believe you are doing
 very wrong—seriously wrong. Perhaps, however, you now feel certain that
 you will be able to marry M. Isidore; your parents and uncle have given
-their consent, and, for your part, you love him entirely?”
+their consent, and, for your part, you [[Love|love]] him entirely?”
 
 “Mais pas du tout!” (she always had recourse to French when about to
 say something specially heartless and perverse). “Je suis sa reine,
@@ -34,11 +34,11 @@ mais il n’est pas mon roi.”
 
 “Excuse me, I must believe this language is mere nonsense and coquetry.
 There is nothing great about you, yet you are above profiting by the
-good nature and purse of a man to whom you feel absolute indifference.
-You love M. Isidore far more than you think, or will avow.”
+good [[Nature|nature]] and purse of a man to whom you feel absolute indifference.
+You [[Love|love]] M. Isidore far more than you think, or will avow.”
 
-“No. I danced with a young officer the other night, whom I love a
-thousand times more than he. I often wonder why I feel so very cold to
+“No. I danced with a young officer the other [[Night|night]], whom I [[Love|love]] a
+thousand times more than he. I often [[Wonder|wonder]] why I feel so very cold to
 Isidore, for everybody says he is handsome, and other ladies admire
 him; but, somehow, he bores me: let me see now how it is….”
 
@@ -59,7 +59,7 @@ lowest, and know me to be coquettish, and ignorant, and flirting, and
 fickle, and silly, and selfish, and all the other sweet things you and
 I have agreed to be a part of my character.”
 
-“This is all very well,” I said, making a strenuous effort to preserve
+“This is all very [[Well|well]],” I said, making a strenuous effort to preserve
 that gravity and severity which ran risk of being shaken by this
 whimsical candour, “but it does not alter that wretched business of the
 presents. Pack them up, Ginevra, like a good, honest girl, and send
@@ -84,7 +84,7 @@ myself, by promise or vow, to this man or that. When first I saw
 Isidore, I believed he would help me to enjoy it I believed he would be
 content with my being a pretty girl; and that we should meet and part
 and flutter about like two butterflies, and be happy. Lo, and behold! I
-find him at times as grave as a judge, and deep-feeling and thoughtful.
+find him at times as [[Grave|grave]] as a judge, and deep-feeling and thoughtful.
 Bah! Les penseurs, les hommes profonds et passionnés ne sont pas à mon
 goût. Le Colonel Alfred de Hamal suits me far better. Va pour les beaux
 fats et les jolis fripons! Vive les joies et les plaisirs! A bas les
@@ -96,4 +96,4 @@ She looked for an answer to this tirade. I gave none.
 Je ne serai jamais femme de bourgeois, moi!”
 
 I now signified that it was imperatively necessary my apartment should
-be relieved of the honour of her presence: she went away laughing.
+be relieved of the [[Honour|honour]] of her presence: she went away laughing.

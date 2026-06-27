@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 3"
+title: "[[Villette]] — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,14 +18,14 @@ CHAPTER III.
 THE PLAYMATES.
 
 
-Mr. Home stayed two days. During his visit he could not be prevailed on
+Mr. [[Home]] stayed two days. During his visit he could not be prevailed on
 to go out: he sat all day long by the fireside, sometimes silent,
 sometimes receiving and answering Mrs. Bretton’s chat, which was just
 of the proper sort for a man in his morbid mood—not over-sympathetic,
 yet not too uncongenial, sensible; and even with a touch of the
 motherly—she was sufficiently his senior to be permitted this touch.
 
-As to Paulina, the child was at once happy and mute, busy and watchful.
+As to [[Paulina]], the [[Child|child]] was at once happy and mute, busy and watchful.
 Her father frequently lifted her to his knee; she would sit there till
 she felt or fancied he grew restless; then it was—“Papa, put me down; I
 shall tire you with my weight.”
@@ -40,8 +40,8 @@ was stringent.
 
 The evening, by restoring Graham to the maternal roof (his days were
 passed at school), brought us an accession of animation—a quality not
-diminished by the nature of the scenes pretty sure to be enacted
-between him and Miss Paulina.
+diminished by the [[Nature|nature]] of the scenes pretty sure to be enacted
+between him and Miss [[Paulina]].
 
 A distant and haughty demeanour had been the result of the indignity
 put upon her the first evening of his arrival: her usual answer, when
@@ -53,22 +53,22 @@ think about.” Being implored to state _what_ things:
 Graham would endeavour to seduce her attention by opening his desk and
 displaying its multifarious contents: seals, bright sticks of wax,
 pen-knives, with a miscellany of engravings—some of them gaily
-coloured—which he had amassed from time to time. Nor was this powerful
-temptation wholly unavailing: her eyes, furtively raised from her work,
+coloured—which he had amassed from [[Time|time]] to [[Time|time]]. Nor was this powerful
+[[Temptation|temptation]] wholly unavailing: her eyes, furtively raised from her work,
 cast many a peep towards the writing-table, rich in scattered pictures.
-An etching of a child playing with a Blenheim spaniel happened to
+An etching of a [[Child|child]] playing with a Blenheim spaniel happened to
 flutter to the floor.
 
 “Pretty little dog!” said she, delighted.
 
 Graham prudently took no notice. Ere long, stealing from her corner,
 she approached to examine the treasure more closely. The dog’s great
-eyes and long ears, and the child’s hat and feathers, were
+eyes and long ears, and the [[Child|child]]’s hat and feathers, were
 irresistible.
 
 “Nice picture!” was her favourable criticism.
 
-“Well—you may have it,” said Graham.
+“[[Well]]—you may have it,” said Graham.
 
 She seemed to hesitate. The wish to possess was strong, but to accept
 would be a compromise of dignity. No. She put it down and turned away.
@@ -115,8 +115,8 @@ She hesitated, lingered, but complied.
 
 Polly, as she said this, looked rather faithless in her turn. Graham
 gave it. She absconded a debtor, darted to her father, and took refuge
-on his knee. Graham rose in mimic wrath and followed. She buried her
-face in Mr. Home’s waistcoat.
+on his knee. Graham [[Rose|rose]] in mimic wrath and followed. She buried her
+face in Mr. [[Home]]’s waistcoat.
 
 “Papa—papa—send him away!”
 
@@ -130,7 +130,7 @@ kisses.
 
 Graham—not failing in his way to be as wily as his little
 playmate—retreated apparently quite discomfited; he flung himself on a
-sofa, and resting his head against the cushion, lay like one in pain.
+sofa, and resting his head against the cushion, lay like one in [[Pain|pain]].
 Polly, finding him silent, presently peeped at him. His eyes and face
 were covered with his hands. She turned on her father’s knee, and gazed
 at her foe anxiously and long. Graham groaned.
@@ -141,10 +141,10 @@ at her foe anxiously and long. Graham groaned.
 
 “Is he hurt?” (groan second.)
 
-“He makes a noise as if he were,” said Mr. Home.
+“He makes a noise as if he were,” said Mr. [[Home]].
 
 “Mother,” suggested Graham, feebly, “I think you had better send for
-the doctor. Oh my eye!” (renewed silence, broken only by sighs from
+the doctor. Oh my eye!” (renewed [[Silence|silence]], broken only by sighs from
 Graham.)
 
 “If I were to become blind——?” suggested this last.
@@ -155,20 +155,20 @@ directly.
 “Let me see your eye: I did not mean to touch it, only your mouth; and
 I did not think I hit so _very_ hard.”
 
-Silence answered her. Her features worked,—“I am sorry; I am sorry!”
+[[Silence]] answered her. Her features worked,—“I am sorry; I am sorry!”
 
 Then succeeded emotion, faltering; weeping.
 
-“Have done trying that child, Graham,” said Mrs. Bretton.
+“Have done trying that [[Child|child]], Graham,” said Mrs. Bretton.
 
-“It is all nonsense, my pet,” cried Mr. Home.
+“It is all nonsense, my pet,” cried Mr. [[Home]].
 
 And Graham once more snatched her aloft, and she again punished him;
-and while she pulled his lion’s locks, termed him—“The naughtiest,
+and while she pulled his [[Lion|lion]]’s locks, termed him—“The naughtiest,
 rudest, worst, untruest person that ever was.”
 
-On the morning of Mr. Home’s departure, he and his daughter had some
-conversation in a window-recess by themselves; I heard part of it.
+On the morning of Mr. [[Home]]’s departure, he and his daughter had some
+conversation in a [[Window|window]]-recess by themselves; I heard part of it.
 
 “Couldn’t I pack my box and go with you, papa?” she whispered
 earnestly.
@@ -187,7 +187,7 @@ heart. Papa, will soon come back to his Polly.”
 
 “Indeed, indeed, I am not sad, scarcely at all.”
 
-“Polly would be sorry to give papa pain; would she not?”
+“Polly would be sorry to give papa [[Pain|pain]]; would she not?”
 
 “Sorrier than sorry.”
 
@@ -197,7 +197,7 @@ Can she do this?”
 
 “She will try.”
 
-“I see she will. Farewell, then. It is time to go.”
+“I see she will. Farewell, then. It is [[Time|time]] to go.”
 
 “_Now_?—just _now_?
 
@@ -216,7 +216,7 @@ through, in that brief interval of her infant life, emotions such as
 some never feel; it was in her constitution: she would have more of
 such instants if she lived. Nobody spoke. Mrs. Bretton, being a mother,
 shed a tear or two. Graham, who was writing, lifted up his eyes and
-gazed at her. I, Lucy Snowe, was calm.
+gazed at her. I, [[Lucy Snowe]], was calm.
 
 The little creature, thus left unharassed, did for herself what none
 other could do—contended with an intolerable feeling; and, ere long, in
@@ -253,7 +253,7 @@ my eye followed her.
 “There, then.”
 
 And she deposited the cup on the carpet, like a jailor putting a
-prisoner’s pitcher of water through his cell-door, and retreated.
+prisoner’s pitcher of [[Water|water]] through his cell-door, and retreated.
 Presently she returned.
 
 “What will you have besides tea—what to eat?”
@@ -271,7 +271,7 @@ She selected a portion of whatever was best on the table; and, ere
 long, came back with a whispered request for some marmalade, which was
 not there. Having got it, however, (for Mrs. Bretton refused the pair
 nothing), Graham was shortly after heard lauding her to the skies;
-promising that, when he had a house of his own, she should be his
+promising that, when he had a [[house]] of his own, she should be his
 housekeeper, and perhaps—if she showed any culinary genius—his cook;
 and, as she did not return, and I went to look after her, I found
 Graham and her breakfasting _tête-à-tête_—she standing at his elbow,
@@ -281,16 +281,16 @@ procured it as much on her own account as his. She constantly evinced
 these nice perceptions and delicate instincts.
 
 The league of acquaintanceship thus struck up was not hastily
-dissolved; on the contrary, it appeared that time and circumstances
+dissolved; on the contrary, it appeared that [[Time|time]] and circumstances
 served rather to cement than loosen it. Ill-assimilated as the two were
 in age, sex, pursuits, &c., they somehow found a great deal to say to
-each other. As to Paulina, I observed that her little character never
+each other. As to [[Paulina]], I observed that her little character never
 properly came out, except with young Bretton. As she got settled, and
-accustomed to the house, she proved tractable enough with Mrs. Bretton;
+accustomed to the [[house]], she proved tractable enough with Mrs. Bretton;
 but she would sit on a stool at that lady’s feet all day long, learning
 her task, or sewing, or drawing figures with a pencil on a slate, and
 never kindling once to originality, or showing a single gleam of the
-peculiarities of her nature. I ceased to watch her under such
+peculiarities of her [[Nature|nature]]. I ceased to watch her under such
 circumstances: she was not interesting. But the moment Graham’s knock
 sounded of an evening, a change occurred; she was instantly at the head
 of the staircase. Usually her welcome was a reprimand or a threat.
@@ -305,7 +305,7 @@ the rails of the banister; she could not look over them).
 
 “Polly!”
 
-“My dear boy!” (such was one of her terms for him, adopted in imitation
+“My dear boy!” (such was one of her terms for him, adopted in [[Imitation|imitation]]
 of his mother.)
 
 “I am fit to faint with fatigue,” declared Graham, leaning against the
@@ -318,9 +318,9 @@ up my books.”
 “Not at all, Polly—it is positive fact. I’m as weak as a rush. Come
 down.”
 
-“Your eyes are quiet like the cat’s, but you’ll spring.”
+“Your eyes are quiet like the cat’s, but you’ll [[spring]].”
 
-“Spring? Nothing of the kind: it isn’t in me. Come down.”
+“[[spring|Spring]]? Nothing of the kind: it isn’t in me. Come down.”
 
 “Perhaps I may—if you’ll promise not to touch—not to snatch me up, and
 not to whirl me round.”
@@ -338,12 +338,12 @@ and take your tea—I am sure you must want something.”
 
 It was sufficiently comical to observe her as she sat beside Graham,
 while he took that meal. In his absence she was a still personage, but
-with him the most officious, fidgety little body possible. I often
+with him the most officious, fidgety little [[Body|body]] possible. I often
 wished she would mind herself and be tranquil; but no—herself was
-forgotten in him: he could not be sufficiently well waited on, nor
+forgotten in him: he could not be sufficiently [[Well|well]] waited on, nor
 carefully enough looked after; he was more than the Grand Turk in her
 estimation. She would gradually assemble the various plates before him,
-and, when one would suppose all he could possibly desire was within his
+and, when one would suppose all he could possibly [[Desire|desire]] was within his
 reach, she would find out something else: “Ma’am,” she would whisper to
 Mrs. Bretton,—“perhaps your son would like a little cake—sweet cake,
 you know—there is some in there“ (pointing to the sideboard cupboard).
@@ -352,14 +352,14 @@ the request was urged,—“One little piece—only for him—as he goes to
 school: girls—such as me and Miss Snowe—don’t need treats, but _he_
 would like it.”
 
-Graham did like it very well, and almost always got it. To do him
+Graham did like it very [[Well|well]], and almost always got it. To do him
 justice, he would have shared his prize with her to whom he owed it;
 but that was never allowed: to insist, was to ruffle her for the
 evening. To stand by his knee, and monopolize his talk and notice, was
 the reward she wanted—not a share of the cake.
 
 With curious readiness did she adapt herself to such themes as
-interested him. One would have thought the child had no mind or life of
+interested him. One would have thought the [[Child|child]] had no mind or life of
 her own, but must necessarily live, move, and have her being in
 another: now that her father was taken from her, she nestled to Graham,
 and seemed to feel by his feelings: to exist in his existence. She
@@ -377,12 +377,12 @@ The pair seldom quarrelled; yet once a rupture occurred, in which her
 feelings received a severe shock.
 
 One day Graham, on the occasion of his birthday, had some friends—lads
-of his own age—to dine with him. Paulina took much interest in the
+of his own age—to dine with him. [[Paulina]] took much interest in the
 coming of these friends; she had frequently heard of them; they were
 amongst those of whom Graham oftenest spoke. After dinner, the young
 gentlemen were left by themselves in the dining-room, where they soon
 became very merry and made a good deal of noise. Chancing to pass
-through the hall, I found Paulina sitting alone on the lowest step of
+through the hall, I found [[Paulina]] sitting [[Alone|alone]] on the lowest step of
 the staircase, her eyes fixed on the glossy panels of the dining-room
 door, where the reflection of the hall-lamp was shining; her little
 brow knit in anxious meditation.
@@ -401,7 +401,7 @@ and ask to be let in?”
 I thought perhaps they might not object to have her as a playmate, and
 therefore encouraged the attempt.
 
-She knocked—too faintly at first to be heard, but on a second essay the
+She knocked—too faintly at first to be heard, but on a second [[Essay|essay]] the
 door unclosed; Graham’s head appeared; he looked in high spirits, but
 impatient.
 
@@ -422,7 +422,7 @@ consternation. “What have I done?”
 “And he likes them better than me! He turns me away now they are here!”
 
 I had some thoughts of consoling her, and of improving the occasion by
-inculcating some of those maxims of philosophy whereof I had ever a
+inculcating some of those maxims of [[philosophy]] whereof I had ever a
 tolerable stock ready for application. She stopped me, however, by
 putting her fingers in her ears at the first words I uttered, and then
 lying down on the mat with her face against the flags; nor could either
@@ -431,13 +431,13 @@ therefore, till she chose to rise of her own accord.
 
 Graham forgot his impatience the same evening, and would have accosted
 her as usual when his friends were gone, but she wrenched herself from
-his hand; her eye quite flashed; she would not bid him good-night; she
+his hand; her eye quite flashed; she would not bid him good-[[Night|night]]; she
 would not look in his face. The next day he treated her with
 indifference, and she grew like a bit of marble. The day after, he
 teased her to know what was the matter; her lips would not unclose. Of
 course he could not feel real anger on his side: the match was too
 unequal in every way; he tried soothing and coaxing. “Why was she so
-angry? What had he done?” By-and-by tears answered him; he petted her,
+angry? What had he done?” By-and-by [[Tears|tears]] answered him; he petted her,
 and they were friends. But she was one on whom such incidents were not
 lost: I remarked that never after this rebuff did she seek him, or
 follow him, or in any way solicit his notice. I told her once to carry
@@ -448,10 +448,10 @@ study.
 give him the trouble of rising to open the door.”
 
 Young Bretton had a favourite pony on which he often rode out; from the
-window she always watched his departure and return. It was her ambition
+[[Window|window]] she always watched his departure and return. It was her [[Ambition|ambition]]
 to be permitted to have a ride round the courtyard on this pony; but
 far be it from her to ask such a favour. One day she descended to the
-yard to watch him dismount; as she leaned against the gate, the longing
+yard to watch him dismount; as she leaned against the gate, the [[Longing|longing]]
 wish for the indulgence of a ride glittered in her eye.
 
 “Come, Polly, will you have a canter?” asked Graham, half carelessly.
@@ -464,30 +464,30 @@ I suppose she thought he was _too_ careless.
 
 “Don’t think I should care a fig about it,” was the response.
 
-“That is not true. You told Lucy Snowe you longed to have a ride.”
+“That is not true. You told [[Lucy Snowe]] you longed to have a ride.”
 
-“Lucy Snowe is a _tatter_-box,” I heard her say: (her imperfect
+“[[Lucy Snowe]] is a _tatter_-box,” I heard her say: (her imperfect
 articulation was the least precocious thing she had about her); and
-with this, she walked into the house.
+with this, she walked into the [[house]].
 
 Graham coming in soon after, observed to his mother,—“Mamma, I believe
 that creature is a changeling: she is a perfect cabinet of oddities;
 but I should be dull without her; she amuses me a great deal more than
-you or Lucy Snowe.”
+you or [[Lucy Snowe]].”
 
-“Miss Snowe,” said Paulina to me (she had now got into the habit of
-occasionally chatting with me when we were alone in our room at night),
+“Miss Snowe,” said [[Paulina]] to me (she had now got into the habit of
+occasionally chatting with me when we were [[Alone|alone]] in our room at [[Night|night]]),
 “do you know on what day in the week I like Graham best?”
 
 “How can I possibly know anything so strange? Is there one day out of
 the seven when he is otherwise than on the other six?”
 
 “To be sure! Can’t you see? Don’t you know? I find him the most
-excellent on a Sunday; then we have him the whole day, and he is quiet,
+excellent on a [[Sunday]]; then we have him the whole day, and he is quiet,
 and, in the evening, _so_ kind.”
 
 This observation was not altogether groundless: going to church, &c.,
-kept Graham quiet on the Sunday, and the evening he generally dedicated
+kept Graham quiet on the [[Sunday]], and the evening he generally dedicated
 to a serene, though rather indolent sort of enjoyment by the parlour
 fireside. He would take possession of the couch, and then he would call
 Polly.
@@ -502,7 +502,7 @@ it.
 
 Polly, being near him, kneeling on a little cushion or the carpet, a
 conversation would begin in murmurs, not inaudible, though subdued. I
-caught a snatch of their tenor now and then; and, in truth, some
+caught a snatch of their tenor now and then; and, in [[Truth|truth]], some
 influence better and finer than that of every day, seemed to soothe
 Graham at such times into no ungentle mood.
 
@@ -512,13 +512,13 @@ Graham at such times into no ungentle mood.
 
 “Speak nicely, then: don’t be in a hurry.”
 
-The hymn being rehearsed, or rather half-chanted, in a little singing
+The [[Hymn|hymn]] being rehearsed, or rather half-chanted, in a little singing
 voice, Graham would take exceptions at the manner, and proceed to give
 a lesson in recitation. She was quick in learning, apt in imitating;
 and, besides, her pleasure was to please Graham: she proved a ready
-scholar. To the hymn would succeed some reading—perhaps a chapter in
-the Bible; correction was seldom required here, for the child could
-read any simple narrative chapter very well; and, when the subject was
+scholar. To the [[Hymn|hymn]] would succeed some reading—perhaps a chapter in
+the [[Bible]]; correction was seldom required here, for the [[Child|child]] could
+read any simple narrative chapter very [[Well|well]]; and, when the subject was
 such as she could understand and take an interest in, her expression
 and emphasis were something remarkable. Joseph cast into the pit; the
 calling of Samuel; Daniel in the lions’ den;—these were favourite
@@ -527,46 +527,46 @@ pathos.
 
 “Poor Jacob!” she would sometimes say, with quivering lips. “How he
 loved his son Joseph! As much,” she once added—“as much, Graham, as I
-love you: if you were to die“ (and she re-opened the book, sought the
+[[Love|love]] you: if you were to die“ (and she re-opened the book, sought the
 verse, and read), “I should refuse to be comforted, and go down into
-the grave to you mourning.”
+the [[Grave|grave]] to you mourning.”
 
 With these words she gathered Graham in her little arms, drawing his
 long-tressed head towards her. The action, I remember, struck me as
 strangely rash; exciting the feeling one might experience on seeing an
-animal dangerous by nature, and but half-tamed by art, too heedlessly
+animal dangerous by [[Nature|nature]], and but half-tamed by art, too heedlessly
 fondled. Not that I feared Graham would hurt, or very roughly check
 her; but I thought she ran risk of incurring such a careless, impatient
 repulse, as would be worse almost to her than a blow. On the whole,
 however, these demonstrations were borne passively: sometimes even a
-sort of complacent wonder at her earnest partiality would smile not
-unkindly in his eyes. Once he said:—“You like me almost as well as if
+sort of complacent [[Wonder|wonder]] at her earnest partiality would smile not
+unkindly in his eyes. Once he said:—“You like me almost as [[Well|well]] as if
 you were my little sister, Polly.”
 
 “Oh! I _do_ like you,” said she; “I _do_ like you very much.”
 
 I was not long allowed the amusement of this study of character. She
 had scarcely been at Bretton two months, when a letter came from Mr.
-Home, signifying that he was now settled amongst his maternal kinsfolk
+[[Home]], signifying that he was now settled amongst his maternal kinsfolk
 on the Continent; that, as England was become wholly distasteful to
 him, he had no thoughts of returning hither, perhaps, for years; and
 that he wished his little girl to join him immediately.
 
-“I wonder how she will take this news?” said Mrs. Bretton, when she had
+“I [[Wonder|wonder]] how she will take this news?” said Mrs. Bretton, when she had
 read the letter. _I_ wondered, too, and I took upon myself to
 communicate it.
 
 Repairing to the drawing-room—in which calm and decorated apartment she
-was fond of being alone, and where she could be implicitly trusted, for
+was fond of being [[Alone|alone]], and where she could be implicitly trusted, for
 she fingered nothing, or rather soiled nothing she fingered—I found her
 seated, like a little Odalisque, on a couch, half shaded by the
-drooping draperies of the window near. She seemed happy; all her
+drooping draperies of the [[Window|window]] near. She seemed happy; all her
 appliances for occupation were about her; the white wood workbox, a
 shred or two of muslin, an end or two of ribbon collected for
-conversion into doll-millinery. The doll, duly night-capped and
-night-gowned, lay in its cradle; she was rocking it to sleep, with an
-air of the most perfect faith in its possession of sentient and
-somnolent faculties; her eyes, at the same time, being engaged with a
+[[conversion]] into doll-millinery. The doll, duly [[Night|night]]-capped and
+[[Night|night]]-gowned, lay in its cradle; she was rocking it to [[Sleep|sleep]], with an
+air of the most perfect [[Faith|faith]] in its possession of sentient and
+somnolent faculties; her eyes, at the same [[Time|time]], being engaged with a
 picture-book, which lay open on her lap.
 
 “Miss Snowe,” said she in a whisper, “this is a wonderful book.
@@ -585,8 +585,8 @@ under a palm-tree.” (She showed a little coloured cut to that effect.)
 “And here are pictures” (she went on) “more stranger” (grammar was
 occasionally forgotten) “than that. There is the wonderful Great Wall
 of China; here is a Chinese lady, with a foot littler than mine. There
-is a wild horse of Tartary; and here, most strange of all—is a land of
-ice and snow, without green fields, woods, or gardens. In this land,
+is a wild [[Horse|horse]] of Tartary; and here, most strange of all—is a land of
+ice and [[Snow|snow]], without green fields, woods, or gardens. In this land,
 they found some mammoth bones: there are no mammoths now. You don’t
 know what it was; but I can tell you, because Graham told me. A mighty,
 goblin creature, as high as this room, and as long as the hall; but not
@@ -602,7 +602,7 @@ Thus she rambled on.
 “Not just yet,” was the prudent answer; “but perhaps in twenty years,
 when I am grown a woman, as tall as Mrs. Bretton, I may travel with
 Graham. We intend going to Switzerland, and climbing Mount Blanck; and
-some day we shall sail over to South America, and walk to the top of
+some day we shall sail over to South [[america|America]], and walk to the top of
 Kim-kim-borazo.”
 
 “But how would you like to travel now, if your papa was with you?”
@@ -638,8 +638,8 @@ and replaced the comb in my hair; while thus busied, Graham entered.
 
 “Tell him by-and-by,” she whispered; “tell him I am going.”
 
-In the course of tea-time I made the desired communication. Graham, it
-chanced, was at that time greatly preoccupied about some school-prize,
+In the course of tea-[[Time|time]] I made the desired communication. Graham, it
+chanced, was at that [[Time|time]] greatly preoccupied about some school-prize,
 for which he was competing. The news had to be told twice before it
 took proper hold of his attention, and even then he dwelt on it but
 momently.
@@ -652,22 +652,22 @@ himself and his books, and was soon buried in study.
 
 “Little Mousie” crept to his side, and lay down on the carpet at his
 feet, her face to the floor; mute and motionless she kept that post and
-position till bed-time. Once I saw Graham—wholly unconscious of her
+position till bed-[[Time|time]]. Once I saw Graham—wholly unconscious of her
 proximity—push her with his restless foot. She receded an inch or two.
 A minute after one little hand stole out from beneath her face, to
 which it had been pressed, and softly caressed the heedless foot. When
-summoned by her nurse she rose and departed very obediently, having bid
-us all a subdued good-night.
+summoned by her [[Nurse|nurse]] she [[Rose|rose]] and departed very obediently, having bid
+us all a subdued good-[[Night|night]].
 
 I will not say that I dreaded going to bed, an hour later; yet I
 certainly went with an unquiet anticipation that I should find that
-child in no peaceful sleep. The forewarning of my instinct was but
+[[Child|child]] in no peaceful [[Sleep|sleep]]. The forewarning of my instinct was but
 fulfilled, when I discovered her, all cold and vigilant, perched like a
 white bird on the outside of the bed. I scarcely knew how to accost
-her; she was not to be managed like another child. She, however,
+her; she was not to be managed like another [[Child|child]]. She, however,
 accosted me. As I closed the door, and put the light on the
 dressing-table, she turned to me with these words:—“I cannot—_cannot_
-sleep; and in this way I cannot—_cannot_ live!”
+[[Sleep|sleep]]; and in this way I cannot—_cannot_ live!”
 
 I asked what ailed her.
 
@@ -675,28 +675,28 @@ I asked what ailed her.
 
 “Shall I call Mrs. Bretton?”
 
-“That is downright silly,” was her impatient reply; and, indeed, I well
+“That is downright silly,” was her impatient reply; and, indeed, I [[Well|well]]
 knew that if she had heard Mrs. Bretton’s foot approach, she would have
 nestled quiet as a mouse under the bedclothes. Whilst lavishing her
 eccentricities regardlessly before me—for whom she professed scarcely
 the semblance of affection—she never showed my godmother one glimpse of
-her inner self: for her, she was nothing but a docile, somewhat quaint
+her inner [[Self|self]]: for her, she was nothing but a docile, somewhat quaint
 little maiden. I examined her; her cheek was crimson; her dilated eye
 was both troubled and glowing, and painfully restless: in this state it
 was obvious she must not be left till morning. I guessed how the case
 stood.
 
-“Would you like to bid Graham good-night again?” I asked. “He is not
+“Would you like to bid Graham good-[[Night|night]] again?” I asked. “He is not
 gone to his room yet.”
 
 She at once stretched out her little arms to be lifted. Folding a shawl
 round her, I carried her back to the drawing-room. Graham was just
 coming out.
 
-“She cannot sleep without seeing and speaking to you once more,” I
+“She cannot [[Sleep|sleep]] without seeing and speaking to you once more,” I
 said. “She does not like the thought of leaving you.”
 
-“I’ve spoilt her,” said he, taking her from me with good humour, and
+“I’ve spoilt her,” said he, taking her from me with good [[Humour|humour]], and
 kissing her little hot face and burning lips. “Polly, you care for me
 more than for papa, now—”
 
@@ -705,22 +705,22 @@ more than for papa, now—”
 She was assured to the contrary, again kissed, restored to me, and I
 carried her away; but, alas! not soothed.
 
-When I thought she could listen to me, I said—“Paulina, you should not
+When I thought she could listen to me, I said—“[[Paulina]], you should not
 grieve that Graham does not care for you so much as you care for him.
 It must be so.”
 
 Her lifted and questioning eyes asked why.
 
 “Because he is a boy and you are a girl; he is sixteen and you are only
-six; his nature is strong and gay, and yours is otherwise.”
+six; his [[Nature|nature]] is strong and gay, and yours is otherwise.”
 
-“But I love him so much; he _should_ love me a little.”
+“But I [[Love|love]] him so much; he _should_ [[Love|love]] me a little.”
 
 “He does. He is fond of you. You are his favourite.”
 
 “Am I Graham’s favourite?”
 
-“Yes, more than any little child I know.”
+“Yes, more than any little [[Child|child]] I know.”
 
 The assurance soothed her; she smiled in her anguish.
 
@@ -728,11 +728,11 @@ The assurance soothed her; she smiled in her anguish.
 else he will feel you to be troublesome, and then it is all over.”
 
 “All over!” she echoed softly; “then I’ll be good. I’ll try to be good,
-Lucy Snowe.”
+[[Lucy Snowe]].”
 
 I put her to bed.
 
-“Will he forgive me this one time?” she asked, as I undressed myself. I
+“Will he forgive me this one [[Time|time]]?” she asked, as I undressed myself. I
 assured her that he would; that as yet he was by no means alienated;
 that she had only to be careful for the future.
 
@@ -767,31 +767,31 @@ none.”
 
 “Are you a wise person?”
 
-“I mean to try to be so. Go to sleep.”
+“I mean to try to be so. Go to [[Sleep|sleep]].”
 
-“I _cannot_ go to sleep. Have you no pain just here” (laying her elfish
+“I _cannot_ go to [[Sleep|sleep]]. Have you no [[Pain|pain]] just here” (laying her elfish
 hand on her elfish breast,) “when you think _you_ shall have to leave
-Graham; for _your_ home is not here?”
+Graham; for _your_ [[Home|home]] is not here?”
 
-“Surely, Polly,” said I, “you should not feel so much pain when you are
+“Surely, Polly,” said I, “you should not feel so much [[Pain|pain]] when you are
 very soon going to rejoin your father. Have you forgotten him? Do you
 no longer wish to be his little companion?”
 
-Dead silence succeeded this question.
+Dead [[Silence|silence]] succeeded this question.
 
-“Child, lie down and sleep,” I urged.
+“[[Child]], lie down and [[Sleep|sleep]],” I urged.
 
 “My bed is cold,” said she. “I can’t warm it.”
 
 I saw the little thing shiver. “Come to me,” I said, wishing, yet
 scarcely hoping, that she would comply: for she was a most strange,
 capricious, little creature, and especially whimsical with me. She
-came, however, instantly, like a small ghost gliding over the carpet. I
+came, however, instantly, like a small [[Ghost|ghost]] gliding over the carpet. I
 took her in. She was chill: I warmed her in my arms. She trembled
 nervously; I soothed her. Thus tranquillized and cherished she at last
 slumbered.
 
-“A very unique child,” thought I, as I viewed her sleeping countenance
+“A very unique [[Child|child]],” thought I, as I viewed her sleeping countenance
 by the fitful moonlight, and cautiously and softly wiped her glittering
 eyelids and her wet cheeks with my handkerchief. “How will she get
 through this world, or battle with this life? How will she bear the
@@ -799,4 +799,4 @@ shocks and repulses, the humiliations and desolations, which books, and
 my own reason, tell me are prepared for all flesh?”
 
 She departed the next day; trembling like a leaf when she took leave,
-but exercising self-command.
+but exercising [[Self|self]]-command.

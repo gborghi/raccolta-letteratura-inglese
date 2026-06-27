@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 22: TWENTY TWO"
+title: "[[Martin Chuzzlewit]] — Chapter 22: TWENTY TWO"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER TWENTY-TWO
 
-FROM WHICH IT WILL BE SEEN THAT MARTIN BECAME A LION OF HIS OWN ACCOUNT.
+FROM WHICH IT WILL BE SEEN THAT MARTIN BECAME A [[Lion|LION]] OF HIS OWN ACCOUNT.
 TOGETHER WITH THE REASON WHY
 
 
@@ -25,9 +25,9 @@ Englishman, Mr Chuzzlewit, had purchased a ‘lo-cation’ in the Valley
 of Eden, and intended to betake himself to that earthly Paradise by the
 next steamboat, he became a popular character. Why this should be, or
 how it had come to pass, Martin no more knew than Mrs Gamp, of Kingsgate
-Street, High Holborn, did; but that he was for the time being the lion,
+Street, High Holborn, did; but that he was for the [[Time|time]] being the [[Lion|lion]],
 by popular election, of the Watertoast community, and that his society
-was in rather inconvenient request there could be no kind of doubt.
+was in rather inconvenient request there could be no kind of [[Doubt|doubt]].
 
 The first notification he received of this change in his position, was
 the following epistle, written in a thin running hand--with here and
@@ -41,13 +41,13 @@ a sheet of paper, ruled with blue lines.
 
 ‘Dear Sir--‘When I had the privillidge of being your fellow-traveller
 in the cars, the day before yesterday, you offered some remarks upon the
-subject of the tower of London, which (in common with my fellow-citizens
+subject of the tower of [[London]], which (in common with my fellow-citizens
 generally) I could wish to hear repeated to a public audience.
 
 ‘As secretary to the Young Men’s Watertoast Association of this town,
 I am requested to inform you that the Society will be proud to hear
-you deliver a lecture upon the Tower of London, at their Hall to-morrow
-evening, at seven o’clock; and as a large issue of quarter-dollar
+you deliver a lecture upon the Tower of [[London]], at their Hall to-morrow
+evening, at seven o’[[Clock|clock]]; and as a large issue of quarter-dollar
 tickets may be expected, your answer and consent by bearer will be
 considered obliging.
 
@@ -60,16 +60,16 @@ considered obliging.
 ‘The Honourable M. Chuzzlewit.
 
 ‘P.S.--The Society would not be particular in limiting you to the Tower
-of London. Permit me to suggest that any remarks upon the Elements of
+of [[London]]. Permit me to suggest that any remarks upon the Elements of
 Geology, or (if more convenient) upon the Writings of your talented and
-witty countryman, the honourable Mr Miller, would be well received.’
+witty countryman, the honourable Mr Miller, would be [[Well|well]] received.’
 
 
 Very much aghast at this invitation, Martin wrote back, civilly
 declining it; and had scarcely done so, when he received another letter.
 
 
-‘No. 47, Bunker Hill Street,
+‘No. 47, Bunker [[Hill]] Street,
 
 ‘Monday Morning.
 
@@ -79,7 +79,7 @@ declining it; and had scarcely done so, when he received another letter.
 Mississippi (or Father of Waters) rolls his turbid flood.
 
 ‘I am young, and ardent. For there is a poetry in wildness, and every
-alligator basking in the slime is in himself an Epic, self-contained. I
+alligator basking in the slime is in himself an [[Epic]], [[Self|self]]-contained. I
 aspirate for fame. It is my yearning and my thirst.
 
 ‘Are you, sir, aware of any member of Congress in England, who would
@@ -95,7 +95,7 @@ that I am certain to succeed.
 a list of three or four of those most likely to respond, and I will
 address them through the Post Office. May I also ask you to favour me
 with any critical observations that have ever presented themselves to
-your reflective faculties, on “Cain, a Mystery,” by the Right Honourable
+your reflective faculties, on “[[Cain]], a Mystery,” by the Right Honourable
 Lord Byron?
 
 ‘I am, Sir,
@@ -104,7 +104,7 @@ Lord Byron?
 
 ‘PUTNAM SMIF
 
-‘P.S.--Address your answer to America Junior, Messrs. Hancock & Floby,
+‘P.S.--Address your answer to [[America]] Junior, Messrs. Hancock & Floby,
 Dry Goods Store, as above.’
 
 
@@ -118,8 +118,8 @@ the landlord, kindly came upstairs to see how he was getting on. The
 Captain sat down upon the bed before he spoke; and finding it rather
 hard, moved to the pillow.
 
-‘Well, sir!’ said the Captain, putting his hat a little more on one
-side, for it was rather tight in the crown: ‘You’re quite a public man I
+‘[[Well]], sir!’ said the Captain, putting his hat a little more on one
+side, for it was rather tight in the [[Crown|crown]]: ‘You’re quite a public man I
 calc’late.’
 
 ‘So it seems,’ retorted Martin, who was very tired.
@@ -133,14 +133,14 @@ to you. You will have to hold a sort of le-vee, sir, while you’re here.’
 
 ‘Must is not a pleasant word, Captain,’ urged Martin.
 
-‘Well! I didn’t fix the mother language, and I can’t unfix it,’ said the
+‘[[Well]]! I didn’t fix the mother language, and I can’t unfix it,’ said the
 Captain coolly; ‘else I’d make it pleasant. You must re-ceive. That’s
 all.’
 
 ‘But why should I receive people who care as much for me as I care for
 them?’ asked Martin.
 
-‘Well! because I have had a muniment put up in the bar,’ returned the
+‘[[Well]]! because I have had a muniment put up in the bar,’ returned the
 Captain.
 
 ‘A what?’ cried Martin.
@@ -149,7 +149,7 @@ Captain.
 
 Martin looked despairingly at Mark, who informed him that the
 Captain meant a written notice that Mr Chuzzlewit would receive the
-Watertoasters that day, at and after two o’clock which was in effect
+Watertoasters that day, at and after two o’[[Clock|clock]] which was in effect
 then hanging in the bar, as Mark, from ocular inspection of the same,
 could testify.
 
@@ -181,10 +181,10 @@ table; ‘such a perfectly unaccountable fellow as that, I never saw.
 Mark, what do you say to this?’
 
 ‘Why, sir,’ returned his partner, ‘my opinion is that we must have got
-to the MOST remarkable man in the country at last. So I hope there’s an
+to the MOST remarkable man in the country at last. So I [[Hope|hope]] there’s an
 end to the breed, sir.’
 
-Although this made Martin laugh, it couldn’t keep off two o’clock.
+Although this made Martin laugh, it couldn’t keep off two o’[[Clock|clock]].
 Punctually, as the hour struck, Captain Kedgick returned to hand him
 to the room of state; and he had no sooner got him safe there, than
 he bawled down the staircase to his fellow-citizens below, that Mr
@@ -228,30 +228,30 @@ feather-bed--exclaiming--‘Gentlemen, you that have been introduced to Mr
 Chuzzlewit, WILL you clear?’
 
 Even when they began to clear it was no better; for then a stream of
-gentlemen, every one with a lady on each arm (exactly like the chorus
+gentlemen, every one with a lady on each arm (exactly like the [[Chorus|chorus]]
 to the National Anthem when Royalty goes in state to the play), came
 gliding in--every new group fresher than the last, and bent on staying
 to the latest moment. If they spoke to him, which was not often, they
 invariably asked the same questions, in the same tone; with no more
 remorse, or delicacy, or consideration, than if he had been a figure of
 stone, purchased, and paid for, and set up there for their delight. Even
-when, in the slow course of time, these died off, it was as bad as ever,
+when, in the slow course of [[Time|time]], these died off, it was as bad as ever,
 if not worse; for then the boys grew bold, and came in as a class
 of themselves, and did everything that the grown-up people had done.
 Uncouth stragglers, too, appeared; men of a ghostly kind, who being in,
 didn’t know how to get out again; insomuch that one silent gentleman
 with glazed and fishy eyes and only one button on his waistcoat (which
 was a very large metal one, and shone prodigiously), got behind the
-door, and stood there, like a clock, long after everybody else was gone.
+door, and stood there, like a [[Clock|clock]], long after everybody else was gone.
 
 Martin felt, from pure fatigue, and heat, and worry, as if he could have
 fallen on the ground and willingly remained there, if they would but
-have had the mercy to leave him alone. But as letters and messages,
+have had the [[Mercy|mercy]] to leave him [[Alone|alone]]. But as letters and messages,
 threatening his public denouncement if he didn’t see the senders, poured
 in like hail; and as more visitors came while he took his coffee by
 himself; and as Mark, with all his vigilance, was unable to keep them
 from the door; he resolved to go to bed--not that he felt at all sure
-of bed being any protection, but that he might not leave a forlorn hope
+of bed being any protection, but that he might not leave a forlorn [[Hope|hope]]
 untried.
 
 He had communicated this design to Mark, and was on the eve of escaping,
@@ -268,11 +268,11 @@ held a most enormous fan.
 
 ‘That is my name.’
 
-‘Sir,’ said the gentleman, ‘I am pressed for time.’
+‘Sir,’ said the gentleman, ‘I am pressed for [[Time|time]].’
 
 ‘Thank God!’ thought Martin.
 
-‘I go back Toe my home, sir,’ pursued the gentleman, ‘by the return
+‘I go back Toe my [[Home|home]], sir,’ pursued the gentleman, ‘by the return
 train, which starts immediate. Start is not a word you use in your
 country, sir.’
 
@@ -294,8 +294,8 @@ Martin couldn’t say he was.
 ‘Mrs Hominy is going Toe stay until the end of the Fall, sir, with her
 married daughter at the settlement of New Thermopylae, three days this
 side of Eden. Any attention, sir, that you can show Toe Mrs Hominy
-upon the journey, will be very grateful Toe the Major and our
-fellow-citizens. Mrs Hominy, I wish you good night, ma’am, and a
+upon the [[Journey|journey]], will be very grateful Toe the Major and our
+fellow-citizens. Mrs Hominy, I wish you good [[Night|night]], ma’am, and a
 pleasant pro-gress on your route!’
 
 Martin could scarcely believe it; but he had gone, and Mrs Hominy was
@@ -307,7 +307,7 @@ sawyers.’
 
 ‘Snags and sawyers, ma’am?’ said Martin.
 
-‘Well, then, I do suppose you’ll hardly realise my meaning, sir,’ said
+‘[[Well]], then, I do suppose you’ll hardly realise my meaning, sir,’ said
 Mrs Hominy. ‘My! Only think! DO tell!’
 
 It did not appear that these expressions, although they seemed to
@@ -319,10 +319,10 @@ lay that article of dress aside, and would return immediately.
 
 ‘Hominy is, sir,’ returned his partner--‘Broad awake! Just the sort of
 woman, sir, as would be discovered with her eyes wide open, and her mind
-a-working for her country’s good, at any hour of the day or night.’
+a-working for her country’s good, at any hour of the day or [[Night|night]].’
 
 They had no opportunity of saying more, for Mrs Hominy stalked in
-again--very erect, in proof of her aristocratic blood; and holding in
+again--very erect, in proof of her aristocratic [[Blood|blood]]; and holding in
 her clasped hands a red cotton pocket-handkerchief, perhaps a parting
 gift from that choice spirit, the Major. She had laid aside her bonnet,
 and now appeared in a highly aristocratic and classical cap, meeting
@@ -338,17 +338,17 @@ could get back to his own seat.
 ‘I am afraid I am dull of comprehension,’ answered Martin, ‘being
 extremely tired; but upon my word I don’t understand you.’
 
-Mrs Hominy shook her head with a melancholy smile that said, not
+Mrs Hominy shook her head with a [[Melancholy|melancholy]] smile that said, not
 inexpressively, ‘They corrupt even the language in that old country!’
 and added then, as coming down a step or two to meet his low capacity,
-‘Where was you rose?’
+‘Where was you [[Rose|rose]]?’
 
-‘Oh!’ said Martin ‘I was born in Kent.’
+‘Oh!’ said Martin ‘I was born in [[Kent]].’
 
 ‘And how do you like our country, sir?’ asked Mrs Hominy.
 
 ‘Very much indeed,’ said Martin, half asleep. ‘At least--that is--pretty
-well, ma’am.’
+[[Well|well]], ma’am.’
 
 ‘Most strangers--and partick’larly Britishers--are much surprised by
 what they see in the U-nited States,’ remarked Mrs Hominy.
@@ -363,7 +363,7 @@ eye,’ said Martin.
 
 Mrs Hominy was a philosopher and an authoress, and consequently had a
 pretty strong digestion; but this coarse, this indecorous phrase,
-was almost too much for her. For a gentleman sitting alone with a
+was almost too much for her. For a gentleman sitting [[Alone|alone]] with a
 lady--although the door WAS open--to talk about a naked eye!
 
 A long interval elapsed before even she--woman of masculine and towering
@@ -382,11 +382,11 @@ she had it all her own way, and bruised him to her heart’s content.
 It is no great matter what Mrs Hominy said, save that she had learnt it
 from the cant of a class, and a large class, of her fellow countrymen,
 who in their every word, avow themselves to be as senseless to the high
-principles on which America sprang, a nation, into life, as any Orson in
+principles on which [[America]] sprang, a nation, into life, as any Orson in
 her legislative halls. Who are no more capable of feeling, or of caring
 if they did feel, that by reducing their own country to the ebb of
 honest men’s contempt, they put in hazard the rights of nations yet
-unborn, and very progress of the human race, than are the swine who
+[[unborn]], and very progress of the human race, than are the swine who
 wallow in their streets. Who think that crying out to other nations,
 old in their iniquity, ‘We are no worse than you!’ (No worse!) is high
 defence and ‘vantage-ground enough for that Republic, but yesterday let
@@ -395,10 +395,10 @@ of sores and ulcers, foul to the eye and almost hopeless to the sense,
 that her best friends turn from the loathsome creature with disgust.
 Who, having by their ancestors declared and won their Independence,
 because they would not bend the knee to certain Public vices and
-corruptions, and would not abrogate the truth, run riot in the Bad,
+corruptions, and would not abrogate the [[Truth|truth]], run riot in the Bad,
 and turn their backs upon the Good; and lying down contented with the
 wretched boast that other Temples also are of glass, and stones which
-batter theirs may be flung back; show themselves, in that alone, as
+batter theirs may be flung back; show themselves, in that [[Alone|alone]], as
 immeasurably behind the import of the trust they hold, and as unworthy
 to possess it as if the sordid hucksterings of all their little
 governments--each one a kingdom in its small depravity--were brought
@@ -406,11 +406,11 @@ into a heap for evidence against them.
 
 Martin by degrees became so far awake, that he had a sense of a terrible
 oppression on his mind; an imperfect dream that he had murdered a
-particular friend, and couldn’t get rid of the body. When his eyes
+particular friend, and couldn’t get rid of the [[Body|body]]. When his eyes
 opened it was staring him full in the face. There was the horrible
 Hominy talking deep truths in a melodious snuffle, and pouring forth her
 mental endowments to such an extent that the Major’s bitterest enemy,
-hearing her, would have forgiven him from the bottom of his heart.
+hearing her, would have forgiven him from the [[Bottom|bottom]] of his heart.
 Martin might have done something desperate if the gong had not sounded
 for supper; but sound it did most opportunely; and having stationed Mrs
 Hominy at the upper end of the table he took refuge at the lower end
@@ -419,23 +419,23 @@ yet busied with dried beef and a saucer-full of pickled fixings.
 
 It would be difficult to give an adequate idea of Mrs Hominy’s freshness
 next day, or of the avidity with which she went headlong into moral
-philosophy at breakfast. Some little additional degree of asperity,
+[[philosophy]] at breakfast. Some little additional degree of asperity,
 perhaps, was visible in her features, but not more than the pickles
 would have naturally produced. All that day she clung to Martin. She
 sat beside him while he received his friends (for there was another
 Reception, yet more numerous than the former), propounded theories, and
 answered imaginary objections, so that Martin really began to think he
 must be dreaming, and speaking for two; she quoted interminable passages
-from certain essays on government, written by herself; used the Major’s
+from certain essays on [[government]], written by herself; used the Major’s
 pocket-handkerchief as if the snuffle were a temporary malady, of which
 she was determined to rid herself by some means or other; and, in short,
 was such a remarkable companion, that Martin quite settled it between
-himself and his conscience, that in any new settlement it would be
+himself and his [[Conscience|conscience]], that in any new settlement it would be
 absolutely necessary to have such a person knocked on the head for the
 general peace of society.
 
 In the meantime Mark was busy, from early in the morning until late
-at night, in getting on board the steamboat such provisions, tools and
+at [[Night|night]], in getting on board the steamboat such provisions, tools and
 other necessaries, as they had been forewarned it would be wise to take.
 The purchase of these things, and the settlement of their bill at the
 National, reduced their finances to so low an ebb, that if the captain
@@ -450,16 +450,16 @@ with not a hand to aid them: newly come into an unknown world, children
 in helplessness, but men in wants--with younger children at their backs,
 to live or die as it might happen!
 
-The morning came, and they would start at noon. Noon came, and they
-would start at night. But nothing is eternal in this world; not even the
-procrastination of an American skipper; and at night all was ready.
+The morning came, and they would start at [[Noon|noon]]. [[Noon]] came, and they
+would start at [[Night|night]]. But nothing is eternal in this world; not even the
+procrastination of an American skipper; and at [[Night|night]] all was ready.
 
-Dispirited and weary to the last degree, but a greater lion than
+Dispirited and weary to the last degree, but a greater [[Lion|lion]] than
 ever (he had done nothing all the afternoon but answer letters from
 strangers; half of them about nothing; half about borrowing money, and
 all requiring an instantaneous reply), Martin walked down to the wharf,
 through a concourse of people, with Mrs Hominy upon his arm; and went on
-board. But Mark was bent on solving the riddle of this lionship, if he
+board. But Mark was bent on solving the [[Riddle|riddle]] of this lionship, if he
 could; and so, not without the risk of being left behind, ran back to
 the hotel.
 
@@ -497,7 +497,7 @@ The wharf was close at hand, and at that instant Mark could hear them
 shouting out his name; could even hear Martin calling to him to make
 haste, or they would be separated. It was too late to mend the matter,
 or put any face upon it but the best. He gave the Captain a parting
-benediction, and ran off like a race-horse.
+benediction, and ran off like a race-[[Horse|horse]].
 
 ‘Mark! Mark!’ cried Martin.
 
@@ -505,6 +505,6 @@ benediction, and ran off like a race-horse.
 quay, and leaping at a bound on board. ‘Never was half so jolly, sir.
 All right. Haul in! Go ahead!’
 
-The sparks from the wood fire streamed upward from the two chimneys, as
+The sparks from the wood [[Fire|fire]] streamed upward from the two chimneys, as
 if the vessel were a great firework just lighted; and they roared away
-upon the dark water.
+upon the dark [[Water|water]].

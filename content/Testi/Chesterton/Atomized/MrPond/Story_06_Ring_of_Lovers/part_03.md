@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Ring of Lovers (part 3)"
+title: "[[MrPond]] — Ring of [[lovers|Lovers]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-have got inside a novel; and not a very novel sort of novel.  But
+have got inside a [[Novel|novel]]; and not a very [[Novel|novel]] sort of [[Novel|novel]].  But
 
-the difference was exactly what Pond says: that the novel didn't
+the difference was exactly what Pond says: that the [[Novel|novel]] didn't
 
 finish properly, but seemed to go on to something else.  We had
 
@@ -54,7 +54,7 @@ reading through a stack of out-of-date magazines and mixing up all
 
 the results?  Of course we know the story about a whole company
 
-laid out with poison--"
+laid out with [[Poison|poison]]--"
 
 
 
@@ -64,7 +64,7 @@ Gahagan calmly.  "Most of us naturally sat like stone statues under
 
 such a thunder-bolt of a threat.  But young Pitt-Palmer, with his
 
-cold, clean-cut, classical face, rose to his feet with the coffee
+cold, clean-cut, classical face, [[Rose|rose]] to his feet with the coffee
 
 cup in his hand and said in the coolest way:
 
@@ -86,7 +86,7 @@ noises, he fell down as in a fit before our eyes.
 
 scientist had a doctor's degree; and what he reported was confirmed
 
-by the local doctor, who was sent for at once.  There was no doubt
+by the local doctor, who was sent for at once.  There was no [[Doubt|doubt]]
 
 that he was dead."
 
@@ -114,7 +114,7 @@ his whole powerful frame.
 
 
 
-After a silence that seemed suddenly imposed by his agitation,
+After a [[Silence|silence]] that seemed suddenly imposed by his agitation,
 
 Wotton said at last:
 
@@ -136,7 +136,7 @@ but the sugar would melt.  Some things do not melt."
 
 
 
-Sir Hubert Wotton stared for some seconds into vacancy; and then
+Sir [[Hubert]] Wotton stared for some seconds into vacancy; and then
 
 his eyes began to glow with his own very real though not very rapid
 
@@ -154,7 +154,7 @@ searched.  In other words, Pitt-Palmer was the thief?"
 
 "Pitt-Palmer is dead," said Gahagan very gravely, "and it is the
 
-more my duty to defend his memory.  What he did was doubtless
+more my duty to defend his [[Memory|memory]].  What he did was doubtless
 
 wrong, as I have come to see more clearly than I did; but not worse
 
@@ -182,7 +182,7 @@ and fatigue.  "Mr. Pond will now oblige."
 
 "Oh, no," answered Gahagan, rather with the air of one about to go
 
-to sleep.  "But I can see by his eyebrows that he knows all about
+to [[Sleep|sleep]].  "But I can see by his eyebrows that he knows all about
 
 it.  Besides, it's somebody else's turn."
 
@@ -202,19 +202,19 @@ he mean by saying that the man who hid the ring wasn't a thief?"
 
 
 
-"Well, perhaps I can guess a little," said Mr. Pond modestly.  "But
+"[[Well]], perhaps I can guess a little," said Mr. Pond modestly.  "But
 
 that's only because I've kept in mind what we said at the beginning--
 
 about the misleading way in which things remind us of romantic
 
-things; only they are never rounded off like the romance.  You see,
+things; only they are never rounded off like the [[Romance|romance]].  You see,
 
-the trouble is that, when a real event reminds us of a novel, we
+the trouble is that, when a real event reminds us of a [[Novel|novel]], we
 
 unconsciously think we know all about it, because we know all about
 
-the novel.  We have got into a groove or rut of familiar fiction;
+the [[Novel|novel]].  We have got into a groove or rut of familiar fiction;
 
 and we can't help thinking the groove runs forward and backward as
 
@@ -236,7 +236,7 @@ got hold of the wrong mystery."
 
 "Gahagan said you would explain everything," said Wotton, with
 
-controlled satire.  "May I ask if this is the explanation?  Is this
+controlled [[Satire|satire]].  "May I ask if this is the explanation?  Is this
 
 the solution or the mystery?"
 
@@ -268,7 +268,7 @@ Palmer was not the thief.  Pitt-Palmer did not steal the ring."
 
 
 
-There was a silence upon the whole group for a brief space; and
+There was a [[Silence|silence]] upon the whole group for a brief space; and
 
 then the somnolent Gahagan stirred and said:  "I knew you would see
 

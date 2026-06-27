@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T will be best, both for the reader and the writer, not to bother about"
+title: "[[FourFaultlessFelons]] — T will be best, both for the reader and the writer, not to bother about"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -18,17 +18,17 @@ IT will be best, both for the reader and the writer, not to bother about
 
 what particular country was the scene of this extraordinary incident. It
 
-may well be left vague, so long as it is firmly stipulated that it was
+may [[Well|well]] be left vague, so long as it is firmly stipulated that it was
 
 not in the Balkans, where so many romancers have rushed to stake out
 
-claims ever since Mr. Anthony Hope effected his coup d'etat in Ruritania.
+claims ever since Mr. Anthony [[Hope]] effected his coup d'etat in Ruritania.
 
 The Balkan kingdom is convenient because kings are killed and despotic
 
 governments overthrown with pleasing swiftness and frequency, and the
 
-crown may fall to any adventurer, good or bad. But meanwhile, in the same
+[[Crown|crown]] may fall to any adventurer, good or bad. But meanwhile, in the same
 
 Balkan State, the farms remain in the same families, the plot of land,
 
@@ -46,7 +46,7 @@ Family.
 
 But with the kingdom in question here, how different! Whatever name we
 
-may give it, it was at least a highly-civilized and well-ordered society,
+may give it, it was at least a highly-civilized and [[Well|well]]-ordered society,
 
 in which the Royal Family continued serene and safe under police
 
@@ -58,9 +58,9 @@ nobody was ever ruined or overthrown except the butcher, the baker, the
 
 candle-stick-maker and the various types of tradesmen and common citizens
 
-who might happen to cross the path of large commercial operations. The
+who might happen to [[Cross|cross]] the path of large commercial operations. The
 
-country might well be one of the smaller German States that have been
+country might [[Well|well]] be one of the smaller German States that have been
 
 industrialized by dependence on mines and factories, or one of the former
 
@@ -108,7 +108,7 @@ The public crisis became acute in Pavonia with the appearance of the
 
 rather mysterious agitation about "The Word". To this day there are
 
-disputes about the nature of the movement. Some of the government agents
+disputes about the [[Nature|nature]] of the movement. Some of the [[government]] agents
 
 and inquirers swore the ignorant populace did really believe that, with
 
@@ -120,7 +120,7 @@ insane ingenuity that, as all modern publicity and popularization consist
 
 of concentrating a book into a paragraph, or a chapter into a sentence,
 
-so at last the whole truth about the present problem would be
+so at last the whole [[Truth|truth]] about the present problem would be
 
 concentrated into a word. Crowds of impatient malcontents were adjured to
 
@@ -134,7 +134,7 @@ operations and an explanation of the whole organized strategy of the
 
 revolt. Some said the whole fancy had originated with one Bohemian poet,
 
-who signed his poems, "Sebastian", and had certainly composed a lyric
+who signed his [[Poems|poems]], "[[Sebastian]]", and had certainly composed a [[Lyric|lyric]]
 
 invocation full of allusions to The Word. Many repeated the lines which
 
@@ -142,11 +142,11 @@ ran:
 
 
 
-As Aaron's serpent swallowed snakes and rods,
+As [[Aaron]]'s serpent swallowed snakes and rods,
 
-As God alone is greater than the gods,
+As God [[Alone|alone]] is greater than the gods,
 
-As all stars shrivel in the single sun,
+As all [[Stars|stars]] shrivel in the single sun,
 
 The words are many, but The Word is one.
 
@@ -154,7 +154,7 @@ The words are many, but The Word is one.
 
 But nobody in office ever saw the revolutionary poet who tossed these
 
-little trifles at the Government and the public; until he was identified
+little trifles at the [[government|Government]] and the public; until he was identified
 
 one day in the street by the very last person who was likely to meet him.
 
@@ -172,15 +172,15 @@ appreciate the difference between reigning and ruling. She was a vigorous
 
 young woman with red hair and a Roman nose, and having as yet learned
 
-more about Royalties in history than in politics, took their position
+more about Royalties in [[history]] than in politics, took their position
 
 with a certain simplicity and could even imagine (just as if she had
 
 really been in the Balkans) that they might be worth murdering or worth
 
-obeying. She had come back into the life of the Court and the capital,
+obeying. She had come back into the life of the [[Court]] and the capital,
 
-which she had left as a mere child, full of that irrepressible desire to
+which she had left as a mere [[Child|child]], full of that irrepressible [[Desire|desire]] to
 
 be useful, which is so normal in women and so dangerous in great ladies,
 
@@ -188,7 +188,7 @@ and she was at present making herself a nuisance by asking questions of
 
 everybody about everything. She naturally asked questions about the
 
-popular political riddle of The Word, and generally, as Mr. Edmund Burke
+popular political [[Riddle|riddle]] of The Word, and generally, as Mr. [[Edmund]] Burke
 
 would say, about the cause of the present discontents. She was all the
 
@@ -208,7 +208,7 @@ revolutionary rhyme and the somewhat mysterious revolutionary movement.
 
 Her car was moving slowly down a quiet street, because she was on the
 
-look-out for a curio shop she had known in childhood and could not
+look-out for a curio shop she had known in [[Childhood|childhood]] and could not
 
 immediately locate. Just beyond the curio shop was a cafe, with a few
 
@@ -228,7 +228,7 @@ fashion is full of quaint revivals and modes that might be either very
 
 old or very new. The man with the stock might have been some eccentric
 
-contemporary or creation of Balzac; he might equally well have been an
+contemporary or creation of Balzac; he might equally [[Well|well]] have been an
 
 art student of today, with the most Futurist views but the most Early
 
@@ -242,11 +242,11 @@ high cravat which was of a vivid sort of peacock-green. The colour of the
 
 cravat varied, however, from day to day; sometimes it was of a brighter
 
-green when the spirit of spring inspired his songs; sometimes of purple
+green when the spirit of [[spring]] inspired his [[songs]]; sometimes of purple
 
-when he was lamenting the rich tragedy of his loves; sometimes completely
+when he was lamenting the rich [[Tragedy|tragedy]] of his loves; sometimes completely
 
-black when he had decided that the time had really come to destroy the
+black when he had decided that the [[Time|time]] had really come to destroy the
 
 universe. He would explain to his friends that he followed without
 
@@ -254,13 +254,13 @@ faltering the clue of the mood and the sky of morning, but they never
 
 recommended a necktie that did not contrast effectively with his beard.
 
-For this was no other than the poet Sebastian, whose verses counted for
+For this was no other than the poet [[Sebastian]], whose verses counted for
 
 so much in the revolutionary movement of the moment.
 
 
 
-The Princess, of course, was quite unaware of his identity, and would
+The Princess, of course, was quite unaware of his [[Identity|identity]], and would
 
 have passed him with no particular comment beyond a disapproval of his
 
@@ -286,9 +286,9 @@ declaiming what appeared to be alternate fragments of prose and verse,
 
 with some modern intermediate types difficult to define. She came just in
 
-time, however, to hear the end of the now familiar jingle or rhymed
+[[Time|time]], however, to hear the end of the now familiar jingle or rhymed
 
-motto: "As God alone is greater than the gods, As all stars shrivel in
+motto: "As God [[Alone|alone]] is greater than the gods, As all [[Stars|stars]] shrivel in
 
 the single sun, The words are many, but The Word is one.
 
@@ -318,9 +318,9 @@ present recognized the lady and there was a sudden stir and stoppage, as
 
 of embarrassment, but the poet standing on the table struck a new
 
-attitude of sublime impudence and cried aloud: "But how hard it is for
+attitude of [[Sublime|sublime]] impudence and cried aloud: "But how hard it is for
 
-ugliness to rise against beauty. And we are an ugly lot!"
+ugliness to rise against [[Beauty|beauty]]. And we are an ugly lot!"
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 10 (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 10 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-When they returned into the house, and were again alone in Mrs Todgers’s
+When they returned into the [[house]], and were again [[Alone|alone]] in Mrs Todgers’s
 room, the two young ladies exhibited an unusual amount of gaiety;
 insomuch that they clapped their hands, and laughed, and looked with
 roguish aspects and a bantering air upon their dear papa. This conduct
-was so very unaccountable, that Mr Pecksniff (being singularly grave
+was so very unaccountable, that Mr Pecksniff (being singularly [[Grave|grave]]
 himself) could scarcely choose but ask them what it meant; and took them
 to task, in his gentle manner, for yielding to such light emotions.
 
@@ -26,11 +26,11 @@ to task, in his gentle manner, for yielding to such light emotions.
 most remote,’ he said, ‘I should not reprove you. But when you can have
 none whatever--oh, really, really!’
 
-This admonition had so little effect on Mercy, that she was obliged to
+This admonition had so little effect on [[Mercy]], that she was obliged to
 hold her handkerchief before her rosy lips, and to throw herself back in
 her chair, with every demonstration of extreme amusement; which want
 of duty so offended Mr Pecksniff that he reproved her in set terms,
-and gave her his parental advice to correct herself in solitude and
+and gave her his parental advice to correct herself in [[Solitude|solitude]] and
 contemplation. But at that juncture they were disturbed by the sound of
 voices in dispute; and as it proceeded from the next room, the subject
 matter of the altercation quickly reached their ears.
@@ -43,7 +43,7 @@ suppose I do.’
 ‘I am quite certain you don’t, sir,’ replied Mrs Todgers. ‘You have
 too independent a spirit, I know, to yield to anybody. And quite right.
 There is no reason why you should give way to any gentleman. Everybody
-must be well aware of that.’
+must be [[Well|well]] aware of that.’
 
 ‘I should think no more of admitting daylight into the fellow,’ said the
 youngest gentleman, in a desperate voice, ‘than if he was a bulldog.’
@@ -58,13 +58,13 @@ No man shall step between me and the current of my vengeance. I know
 a Cove--’ he used that familiar epithet in his agitation but corrected
 himself by adding, ‘a gentleman of property, I mean--who practices with
 a pair of pistols (fellows too) of his own. If I am driven to borrow
-‘em, and to send at friend to Jinkins, a tragedy will get into the
+‘em, and to send at friend to Jinkins, a [[Tragedy|tragedy]] will get into the
 papers. That’s all.’
 
 Again Mrs Todgers moaned.
 
 ‘I have borne this long enough,’ said the youngest gentleman but now
-my soul rebels against it, and I won’t stand it any longer. I left home
+my [[Soul|soul]] rebels against it, and I won’t stand it any longer. I left [[Home|home]]
 originally, because I had that within me which wouldn’t be domineered
 over by a sister; and do you think I’m going to be put down by HIM? No.’
 
@@ -85,31 +85,31 @@ he never told it to Jinkins, but always to Mrs Todgers.
 
 ‘However,’ he said, ‘these are not proper subjects for ladies’ ears.
 All I’ve got to say to you, Mrs Todgers, is, a week’s notice from next
-Saturday. The same house can’t contain that miscreant and me any longer.
-If we get over the intermediate time without bloodshed, you may think
+Saturday. The same [[house]] can’t contain that miscreant and me any longer.
+If we get over the intermediate [[Time|time]] without bloodshed, you may think
 yourself pretty fortunate. I don’t myself expect we shall.’
 
 ‘Dear, dear!’ cried Mrs Todgers, ‘what would I have given to have
-prevented this? To lose you, sir, would be like losing the house’s
+prevented this? To lose you, sir, would be like losing the [[house]]’s
 right-hand. So popular as you are among the gentlemen; so generally
-looked up to; and so much liked! I do hope you’ll think better of it; if
+looked up to; and so much liked! I do [[Hope|hope]] you’ll think better of it; if
 on nobody else’s account, on mine.’
 
 ‘There’s Jinkins,’ said the youngest gentleman, moodily. ‘Your
 favourite. He’ll console you, and the gentlemen too, for the loss of
-twenty such as me. I’m not understood in this house. I never have been.’
+twenty such as me. I’m not understood in this [[house]]. I never have been.’
 
 ‘Don’t run away with that opinion, sir!’ cried Mrs Todgers, with a show
 of honest indignation. ‘Don’t make such a charge as that against the
 establishment, I must beg of you. It is not so bad as that comes to,
 sir. Make any remark you please against the gentlemen, or against me;
-but don’t say you’re not understood in this house.’
+but don’t say you’re not understood in this [[house]].’
 
 ‘I’m not treated as if I was,’ said the youngest gentleman.
 
 ‘There you make a great mistake, sir,’ returned Mrs Todgers, in the same
 strain. ‘As many of the gentlemen and I have often said, you are too
-sensitive. That’s where it is. You are of too susceptible a nature; it’s
+sensitive. That’s where it is. You are of too susceptible a [[Nature|nature]]; it’s
 in your spirit.’
 
 The young gentleman coughed.
@@ -127,7 +127,7 @@ The young gentleman was so much mollified by these and similar speeches
 on the part of Mrs Todgers, that he and that lady gradually changed
 positions; so that she became the injured party, and he was understood
 to be the injurer; but in a complimentary, not in an offensive sense;
-his cruel conduct being attributable to his exalted nature, and to that
-alone. So, in the end, the young gentleman withdrew his notice, and
+his cruel conduct being attributable to his exalted [[Nature|nature]], and to that
+[[Alone|alone]]. So, in the end, the young gentleman withdrew his notice, and
 assured Mrs Todgers of his unalterable regard; and having done so, went
 back to business.

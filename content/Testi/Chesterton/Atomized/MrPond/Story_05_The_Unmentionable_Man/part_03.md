@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Unmentionable Man (part 3)"
+title: "[[MrPond]] — The Unmentionable Man (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -26,7 +26,7 @@ umbrella like a sabre.  This was the eminent and highly militant
 
 Dr. Koch, the Minister of the Interior; he had been presiding over
 
-the police raid, and his rolling eye instantly spotted the one red
+the police raid, and his [[rolling]] eye instantly spotted the one red
 
 spot in the corner of the crowded café.  He planted himself before
 
@@ -78,7 +78,7 @@ grinding his teeth.  "Anyhow, you shan't arrest us or hold up the
 
 whole machinery of society by a trick like this.  Do you think we
 
-will let that sort of dirty little red rusty nail in the road stop
+will let that sort of dirty little red rusty nail in the [[Road|road]] stop
 
 all the wheels of progress?"
 
@@ -88,9 +88,9 @@ all the wheels of progress?"
 
 wheels of your sort of progress have ever done anything yet but
 
-grind the faces of the poor?  No; I have not the honour of being
+grind the faces of the poor?  No; I have not the [[Honour|honour]] of being
 
-one of the citizens of your State; one of those happy, joyful, well-
+one of the citizens of your State; one of those happy, joyful, [[Well|well]]-
 
 fed, wealthy citizens one sees standing about in the street, on
 
@@ -134,13 +134,13 @@ fancy about who he is."
 
 what he is.  Not a nice fancy."  And he strode abruptly away from
 
-the table and up the street alone.
+the table and up the street [[Alone|alone]].
 
 
 
 Mr. Pond remained seated in a condition of profound thought.  After
 
-some minutes he rose and made his way towards the table where his
+some minutes he [[Rose|rose]] and made his way towards the table where his
 
 friend the bookseller, the excellent Huss, was still seated in
 
@@ -174,7 +174,7 @@ and saluting like an army; and a great shout, seeming to shake the
 
 lamp-posts and little trees, went up for the one man who remained
 
-faithful to the red rag.  M. Louis rose and gravely bowed to the
+faithful to the red rag.  M. Louis [[Rose|rose]] and gravely bowed to the
 
 applauding mob.  Mr. Pond sat down opposite his friend the
 
@@ -182,7 +182,7 @@ bookseller and scrutinized his whiskered face with interest.
 
 
 
-"Well," said Mr. Pond, "our friend over there looks as if he might
+"[[Well]]," said Mr. Pond, "our friend over there looks as if he might
 
 soon be the leader of the revolutionary party."
 
@@ -210,7 +210,7 @@ capitalism."
 
 
 
-"Oh," said Mr. Pond; and an understanding began to dawn in his
+"Oh," said Mr. Pond; and an understanding began to [[Dawn|dawn]] in his
 
 eyes.  After a moment he said:  "I apologize most sincerely, old
 
@@ -230,7 +230,7 @@ sect talks its own language.  You could tell a man was a Buddhist
 
 from his way of saying he was not a Buddhist.  It's no business of
 
-mine; and I won't mention it to a soul, if you prefer not.  I only
+mine; and I won't mention it to a [[Soul|soul]], if you prefer not.  I only
 
 ventured to say that the man over there seems to be very popular
 
@@ -246,9 +246,9 @@ a scientific movement.  We are not moral.  We have done with
 
 bourgeois ideologies of right and wrong.  We are Realpolilik.  What
 
-helps the program of Marx is alone good.  What hinders the program
+helps the program of Marx is [[Alone|alone]] good.  What hinders the program
 
-of Marx is alone evil.  But there are limits.  There are names so
+of Marx is [[Alone|alone]] evil.  But there are limits.  There are names so
 
 infamous, there are persons so infamous, that they must always be
 

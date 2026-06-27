@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 32 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 32 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,8 +15,8 @@ tags:
 
 
 With his heart beating violently, and apprehending he knew not what
-disaster, Nicholas returned to where he had left Smike. Newman had not
-been home. He wouldn’t be, till twelve o’clock; there was no chance of
+disaster, Nicholas returned to where he had left [[Smike]]. Newman had not
+been [[Home|home]]. He wouldn’t be, till twelve o’[[Clock|clock]]; there was no chance of
 it. Was there no possibility of sending to fetch him if it were only for
 an instant, or forwarding to him one line of writing to which he might
 return a verbal reply? That was quite impracticable. He was not at
@@ -24,18 +24,18 @@ Golden Square, and probably had been sent to execute some commission at
 a distance.
 
 Nicholas tried to remain quietly where he was, but he felt so nervous
-and excited that he could not sit still. He seemed to be losing time
+and excited that he could not sit still. He seemed to be losing [[Time|time]]
 unless he was moving. It was an absurd fancy, he knew, but he was wholly
 unable to resist it. So, he took up his hat and rambled out again.
 
-He strolled westward this time, pacing the long streets with hurried
+He strolled westward this [[Time|time]], pacing the long streets with hurried
 footsteps, and agitated by a thousand misgivings and apprehensions
 which he could not overcome. He passed into Hyde Park, now silent and
-deserted, and increased his rate of walking as if in the hope of leaving
+deserted, and increased his rate of walking as if in the [[Hope|hope]] of leaving
 his thoughts behind. They crowded upon him more thickly, however, now
 there were no passing objects to attract his attention; and the one idea
 was always uppermost, that some stroke of ill-fortune must have occurred
-so calamitous in its nature that all were fearful of disclosing it to
+so calamitous in its [[Nature|nature]] that all were fearful of disclosing it to
 him. The old question arose again and again--What could it be? Nicholas
 walked till he was weary, but was not one bit the wiser; and indeed he
 came out of the Park at last a great deal more confused and perplexed
@@ -65,29 +65,29 @@ elegant design. The floor was covered with a rich carpet; and two superb
 mirrors, one above the chimneypiece and one at the opposite end of the
 room reaching from floor to ceiling, multiplied the other beauties and
 added new ones of their own to enhance the general effect. There was
-a rather noisy party of four gentlemen in a box by the fire-place, and
-only two other persons present--both elderly gentlemen, and both alone.
+a rather noisy party of four gentlemen in a box by the [[Fire|fire]]-place, and
+only two other persons present--both elderly gentlemen, and both [[Alone|alone]].
 
 Observing all this in the first comprehensive glance with which a
 stranger surveys a place that is new to him, Nicholas sat himself down
 in the box next to the noisy party, with his back towards them, and
-postponing his order for a pint of claret until such time as the waiter
+postponing his order for a pint of claret until such [[Time|time]] as the waiter
 and one of the elderly gentlemen should have settled a disputed
 question relative to the price of an item in the bill of fare, took up a
 newspaper and began to read.
 
-He had not read twenty lines, and was in truth himself dozing, when he
-was startled by the mention of his sister’s name. ‘Little Kate Nickleby’
+He had not read twenty lines, and was in [[Truth|truth]] himself dozing, when he
+was startled by the mention of his sister’s name. ‘Little [[Kate Nickleby]]’
 were the words that caught his ear. He raised his head in amazement, and
 as he did so, saw by the reflection in the opposite glass, that two of
-the party behind him had risen and were standing before the fire. ‘It
+the party behind him had risen and were standing before the [[Fire|fire]]. ‘It
 must have come from one of them,’ thought Nicholas. He waited to hear
 more with a countenance of some indignation, for the tone of speech had
 been anything but respectful, and the appearance of the individual whom
 he presumed to have been the speaker was coarse and swaggering.
 
-This person--so Nicholas observed in the same glance at the mirror which
-had enabled him to see his face--was standing with his back to the fire
+This person--so Nicholas observed in the same glance at the [[Mirror|mirror]] which
+had enabled him to see his face--was standing with his back to the [[Fire|fire]]
 conversing with a younger man, who stood with his back to the company,
 wore his hat, and was adjusting his shirt-collar by the aid of the
 glass. They spoke in whispers, now and then bursting into a loud laugh,
@@ -102,13 +102,13 @@ converted some other words into the name which had been so much in his
 thoughts.
 
 ‘It is remarkable too,’ thought Nicholas: ‘if it had been “Kate” or
-“Kate Nickleby,” I should not have been so much surprised: but “little
-Kate Nickleby!”’
+“[[Kate Nickleby]],” I should not have been so much surprised: but “little
+[[Kate Nickleby]]!”’
 
 The wine coming at the moment prevented his finishing the sentence. He
 swallowed a glassful and took up the paper again. At that instant--
 
-‘Little Kate Nickleby!’ cried the voice behind him.
+‘Little [[Kate Nickleby]]!’ cried the voice behind him.
 
 ‘I was right,’ muttered Nicholas as the paper fell from his hand. ‘And
 it was the man I supposed.’
@@ -117,7 +117,7 @@ it was the man I supposed.’
 voice, ‘we’ll give her the first glass in the new magnum. Little Kate
 Nickleby!’
 
-‘Little Kate Nickleby,’ cried the other three. And the glasses were set
+‘Little [[Kate Nickleby]],’ cried the other three. And the glasses were set
 down empty.
 
 Keenly alive to the tone and manner of this slight and careless mention

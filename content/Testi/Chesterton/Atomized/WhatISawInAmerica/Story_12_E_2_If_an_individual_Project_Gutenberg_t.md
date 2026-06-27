@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — E.2.  If an individual Project Gutenberg-tm electronic work is derived"
+title: "[[WhatISawInAmerica]] — E.2.  If an individual Project Gutenberg-tm electronic work is derived"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

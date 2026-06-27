@@ -36,7 +36,7 @@ tags:
 
       I could not utter! I felt, I am sure, more than ten thousand
 
-      times the agonies of death itself. My brain reeled, and I fell,
+      times the agonies of [[Death|death]] itself. My brain reeled, and I fell,
 
       deadly sick, against the end of the box.
 
@@ -54,9 +54,9 @@ tags:
 
       called my name could be no one but himself. All was silent for
 
-      some moments. At length I again heard the word “Arthur!” repeated
+      some moments. At length I again heard the word “[[arthur|Arthur]]!” repeated
 
-      in a low tone, and one full of hesitation. Reviving hope loosened
+      in a low tone, and one full of hesitation. Reviving [[Hope|hope]] loosened
 
       at once my powers of speech, and I now screamed at the top of my
 
@@ -66,11 +66,11 @@ tags:
 
       be with you immediately—as soon as I can make my way through the
 
-      hold.” For a long time I heard him moving among the lumber, and
+      hold.” For a long [[Time|time]] I heard him moving among the lumber, and
 
       every moment seemed to me an age. At length I felt his hand upon
 
-      my shoulder, and he placed, at the same moment, a bottle of water
+      my shoulder, and he placed, at the same moment, a bottle of [[Water|water]]
 
       to my lips. Those only who have been suddenly redeemed from the
 
@@ -78,7 +78,7 @@ tags:
 
       thirst under circumstances as aggravated as those which
 
-      encompassed me in my dreary prison, can form any idea of the
+      encompassed me in my dreary [[Prison|prison]], can form any idea of the
 
       unutterable transports which that one long draught of the richest
 

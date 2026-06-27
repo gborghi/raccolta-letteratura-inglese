@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Wrong Shape (part 6)"
+title: "[[innocence]] — The Wrong Shape (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-"It only had a corner snipped off," said Flambeau, "and I understand
+"It only had a corner snipped off," said [[Flambeau]], "and I understand
 that all Quinton's paper was cut that way."
 
 "It was a very odd way," said the other, "and a very bad way,
-to my taste and fancy.  Look here, Flambeau, this Quinton--God
-receive his soul!--was perhaps a bit of a cur in some ways,
-but he really was an artist, with the pencil as well as the pen.
+to my taste and fancy.  Look here, [[Flambeau]], this Quinton--God
+receive his [[Soul|soul]]!--was perhaps a bit of a cur in some ways,
+but he really was an [[Artist|artist]], with the pencil as [[Well|well]] as the pen.
 His handwriting, though hard to read, was bold and beautiful.
 I can't prove what I say; I can't prove anything.
 But I tell you with the full force of conviction that he could
@@ -32,33 +32,33 @@ It was a mean shape.  It was a wrong shape.  Like this.
 Don't you remember?"
 
 And he waved his burning cigar before him in the darkness,
-making irregular squares so rapidly that Flambeau really
+making irregular squares so rapidly that [[Flambeau]] really
 seemed to see them as fiery hieroglyphics upon the darkness--
 hieroglyphics such as his friend had spoken of, which are undecipherable,
 yet can have no good meaning.
 
-"But," said Flambeau, as the priest put his cigar in his mouth again
+"But," said [[Flambeau]], as the priest put his cigar in his mouth again
 and leaned back, staring at the roof, "suppose somebody else did use
 the scissors.  Why should somebody else, cutting pieces off his sermon paper,
-make Quinton commit suicide?"
+make Quinton commit [[suicide]]?"
 
-Father Brown was still leaning back and staring at the roof,
+[[Father Brown]] was still leaning back and staring at the roof,
 but he took his cigar out of his mouth and said:
-"Quinton never did commit suicide."
+"Quinton never did commit [[suicide]]."
 
-Flambeau stared at him.  "Why, confound it all," he cried,
-"then why did he confess to suicide?"
+[[Flambeau]] stared at him.  "Why, confound it all," he cried,
+"then why did he confess to [[suicide]]?"
 
 The priest leant forward again, settled his elbows on his knees,
 looked at the ground, and said, in a low, distinct voice:
-"He never did confess to suicide."
+"He never did confess to [[suicide]]."
 
-Flambeau laid his cigar down.  "You mean," he said,
+[[Flambeau]] laid his cigar down.  "You mean," he said,
 "that the writing was forged?"
 
-"No," said Father Brown.  "Quinton wrote it all right."
+"No," said [[Father Brown]].  "Quinton wrote it all right."
 
-"Well, there you are," said the aggravated Flambeau; "Quinton wrote,
+"[[Well]], there you are," said the aggravated [[Flambeau]]; "Quinton wrote,
 `I die by my own hand,' with his own hand on a plain piece of paper."
 
 "Of the wrong shape," said the priest calmly.
@@ -175,12 +175,12 @@ happened by one chance out of a hundred, that those last words
 were written at the top of a new sheet of paper.
 I left the room,
 
-and went out into the garden intoxicated with a frightful
+and went out into the [[Garden|garden]] intoxicated with a frightful
 
 opportunity.
 
 
-We walked round the house; and two more things happened in my
+We walked round the [[house]]; and two more things happened in my
 
 favour.  You suspected an Indian, and you found a dagger which the
 
@@ -194,12 +194,12 @@ Atkinson at all, but I urged him to call out and quiet the fellow,
 
 because I wanted a clear proof that Quinton was alive when I left
 
-the room for the second time.  Quinton lay down in the conservatory,
+the room for the second [[Time|time]].  Quinton lay down in the conservatory,
 and I came through the study.  I am a quick man with my hands, and
 
 in a minute and a half I had done what I wanted to do.  I had
 
-emptied all the first part of Quinton's romance into the fireplace,
+emptied all the first part of Quinton's [[Romance|romance]] into the fireplace,
 
 where it burnt to ashes.  Then I saw that the quotation marks
 
@@ -207,7 +207,7 @@ wouldn't do, so I snipped them off, and to make it seem likelier,
 
 snipped the whole quire to match.  Then I came out with the
 
-knowledge that Quinton's confession of suicide lay on the front
+knowledge that Quinton's confession of [[suicide]] lay on the front
 
 table, while Quinton lay alive but asleep in the conservatory
 
@@ -221,19 +221,19 @@ I delayed you
 
 with the paper, and, being a quick man with my hands, killed
 
-Quinton while you were looking at his confession of suicide.
+Quinton while you were looking at his confession of [[suicide]].
 He
 
 was half-asleep, being drugged, and I put his own hand on the
 
-knife and drove it into his body.  The knife was of so queer a
+knife and drove it into his [[Body|body]].  The knife was of so queer a
 
 shape that no one but an operator could have calculated the angle
 
-that would reach his heart.  I wonder if you noticed this.
+that would reach his heart.  I [[Wonder|wonder]] if you noticed this.
 
 
-When I had done it, the extraordinary thing happened.  Nature
+When I had done it, the extraordinary thing happened.  [[Nature]]
 
 deserted me.  I felt ill.  I felt just as if I had done something
 
@@ -241,19 +241,19 @@ wrong.  I think my brain is breaking up; I feel some sort of
 
 desperate pleasure in thinking I have told the thing to somebody;
 
-that I shall not have to be alone with it if I marry and have
+that I shall not have to be [[Alone|alone]] with it if I marry and have
 
-children.  What is the matter with me? ... Madness ... or can one
+children.  What is the matter with me? ... [[Madness]] ... or can one
 
-have remorse, just as if one were in Byron's poems!  I cannot
+have remorse, just as if one were in Byron's [[Poems|poems]]!  I cannot
 
 write any more.
 
-                                 James Erskine Harris.            
+                                 James [[Erskine]] Harris.            
 
 
 
 
-Father Brown carefully folded up the letter, and put it in his breast
+[[Father Brown]] carefully folded up the letter, and put it in his breast
 pocket just as there came a loud peal at the gate bell, and the wet
-waterproofs of several policemen gleamed in the road outside.
+waterproofs of several policemen gleamed in the [[Road|road]] outside.

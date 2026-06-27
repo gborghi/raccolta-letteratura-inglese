@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 30 (part 3)"
+title: "Bleak [[house|House]] — Chapter 30 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -25,7 +25,7 @@ Ada suggested that it was comfortable to know that Mr. Jellyby did
 not mean these destructive sentiments.
 
 “No, of course I know Pa wouldn’t like his family to be weltering in
-their blood,” said Caddy, “but he means that they are very
+their [[Blood|blood]],” said Caddy, “but he means that they are very
 unfortunate in being Ma’s children and that he is very unfortunate in
 being Ma’s husband; and I am sure that’s true, though it seems
 unnatural to say so.”
@@ -43,7 +43,7 @@ letters.”
 “And about your wardrobe, Caddy?” said I. For she was under no
 restraint with us.
 
-“Well, my dear Esther,” she returned, drying her eyes, “I must do the
+“[[Well]], my dear Esther,” she returned, drying her eyes, “I must do the
 best I can and trust to my dear Prince never to have an unkind
 remembrance of my coming so shabbily to him. If the question
 concerned an outfit for Borrioboola, Ma would know all about it and
@@ -51,7 +51,7 @@ would be quite excited. Being what it is, she neither knows nor
 cares.”
 
 Caddy was not at all deficient in natural affection for her mother,
-but mentioned this with tears as an undeniable fact, which I am
+but mentioned this with [[Tears|tears]] as an undeniable fact, which I am
 afraid it was. We were sorry for the poor dear girl and found so much
 to admire in the good disposition which had survived under such
 discouragement that we both at once (I mean Ada and I) proposed a
@@ -60,7 +60,7 @@ with us for three weeks, my staying with her for one, and our all
 three contriving and cutting out, and repairing, and sewing, and
 saving, and doing the very best we could think of to make the most of
 her stock. My guardian being as pleased with the idea as Caddy was,
-we took her home next day to arrange the matter and brought her out
+we took her [[Home|home]] next day to arrange the matter and brought her out
 again in triumph with her boxes and all the purchases that could be
 squeezed out of a ten-pound note, which Mr. Jellyby had found in the
 docks I suppose, but which he at all events gave her. What my
@@ -79,7 +79,7 @@ darling, and my little maid Charley, and a milliner out of the town,
 and I, sat hard at work, as pleasantly as possible.
 
 Over and above this, Caddy was very anxious “to learn housekeeping,”
-as she said. Now, mercy upon us! The idea of her learning
+as she said. Now, [[Mercy|mercy]] upon us! The idea of her learning
 housekeeping of a person of my vast experience was such a joke that I
 laughed, and coloured up, and fell into a comical confusion when she
 proposed it. However, I said, “Caddy, I am sure you are very welcome
@@ -93,15 +93,15 @@ follower than Caddy Jellyby.
 
 So what with working and housekeeping, and lessons to Charley, and
 backgammon in the evening with my guardian, and duets with Ada, the
-three weeks slipped fast away. Then I went home with Caddy to see
+three weeks slipped fast away. Then I went [[Home|home]] with Caddy to see
 what could be done there, and Ada and Charley remained behind to take
 care of my guardian.
 
-When I say I went home with Caddy, I mean to the furnished lodging in
-Hatton Garden. We went to Newman Street two or three times, where
+When I say I went [[Home|home]] with Caddy, I mean to the furnished lodging in
+Hatton [[Garden]]. We went to Newman Street two or three times, where
 preparations were in progress too—a good many, I observed, for
 enhancing the comforts of old Mr. Turveydrop, and a few for putting
-the newly married couple away cheaply at the top of the house—but
+the newly married couple away cheaply at the top of the [[house]]—but
 our great point was to make the furnished lodging decent for the
 wedding-breakfast and to imbue Mrs. Jellyby beforehand with some
 faint sense of the occasion.
@@ -113,19 +113,19 @@ waste-paper and Borrioboolan documents, as an untidy stable might be
 littered with straw. Mrs. Jellyby sat there all day drinking strong
 coffee, dictating, and holding Borrioboolan interviews by
 appointment. The unwholesome boy, who seemed to me to be going into a
-decline, took his meals out of the house. When Mr. Jellyby came home,
+decline, took his meals out of the [[house]]. When Mr. Jellyby came [[Home|home]],
 he usually groaned and went down into the kitchen. There he got
 something to eat if the servant would give him anything, and then,
 feeling that he was in the way, went out and walked about Hatton
-Garden in the wet. The poor children scrambled up and tumbled down
-the house as they had always been accustomed to do.
+[[Garden]] in the wet. The poor children scrambled up and tumbled down
+the [[house]] as they had always been accustomed to do.
 
 The production of these devoted little sacrifices in any presentable
 condition being quite out of the question at a week’s notice, I
 proposed to Caddy that we should make them as happy as we could on
-her marriage morning in the attic where they all slept, and should
+her [[Marriage|marriage]] morning in the attic where they all slept, and should
 confine our greatest efforts to her mama and her mama’s room, and a
-clean breakfast. In truth Mrs. Jellyby required a good deal of
+clean breakfast. In [[Truth|truth]] Mrs. Jellyby required a good deal of
 attention, the lattice-work up her back having widened considerably
 since I first knew her and her hair looking like the mane of a
-dustman’s horse.
+dustman’s [[Horse|horse]].

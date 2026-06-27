@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 7)"
+title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-‘Not the truth?’ cried Tigg, holding up his jewelled hand. ‘Don’t use
-that Sunday School expression, please!’
+‘Not the [[Truth|truth]]?’ cried Tigg, holding up his jewelled hand. ‘Don’t use
+that [[Sunday]] School expression, please!’
 
 ‘The long and the short of it,’ said Jonas. ‘The long and the short of
 it is, what’s the security?’
@@ -27,7 +27,7 @@ on the table, ‘is, at this present moment--’
 
 ‘You do?’ cried Tigg, stopping short.
 
-‘I should hope so.’
+‘I should [[Hope|hope]] so.’
 
 He turned the papers down again, and moving nearer to him, said in his
 ear:
@@ -54,7 +54,7 @@ don’t mean when--’
 ‘Yes,’ cried Tigg, ‘when there was a very charming and delightful little
 family party, at which yourself and your respected father assisted.’
 
-‘Well, never mind HIM,’ said Jonas. ‘He’s dead, and there’s no help for
+‘[[Well]], never mind HIM,’ said Jonas. ‘He’s dead, and there’s no help for
 it.’
 
 ‘Dead, is he!’ cried Tigg, ‘Venerable old gentleman, is he dead! You’re
@@ -65,10 +65,10 @@ because of his own private sentiments in reference to the personal
 appearance of his deceased parent; perhaps because he was not best
 pleased to find that Montague and Tigg were one. That gentleman
 perceived it, and tapping him familiarly on the sleeve, beckoned him
-to the window. From this moment, Mr Montague’s jocularity and flow of
+to the [[Window|window]]. From this moment, Mr Montague’s jocularity and flow of
 spirits were remarkable.
 
-‘Do you find me at all changed since that time?’ he asked. ‘Speak
+‘Do you find me at all changed since that [[Time|time]]?’ he asked. ‘Speak
 plainly.’
 
 Jonas looked hard at his waistcoat and jewels; and said ‘Rather, ecod!’
@@ -125,14 +125,14 @@ me to-morrow, in Pall Mall!’
 
 ‘Done!’ cried Montague. ‘Wait a bit. Take these papers with you and look
 ‘em over. See,’ he said, snatching some printed forms from the table. ‘B
-is a little tradesman, clerk, parson, artist, author, any common thing
+is a little tradesman, clerk, parson, [[Artist|artist]], author, any common thing
 you like.’
 
-‘Yes,’ said Jonas, looking greedily over his shoulder. ‘Well!’
+‘Yes,’ said Jonas, looking greedily over his shoulder. ‘[[Well]]!’
 
 ‘B wants a loan. Say fifty or a hundred pound; perhaps more; no matter.
-B proposes self and two securities. B is accepted. Two securities give
-a bond. B assures his own life for double the amount, and brings two
+B proposes [[Self|self]] and two securities. B is accepted. Two securities give
+a bond. B assures his own life for [[Double|double]] the amount, and brings two
 friends’ lives also--just to patronize the office. Ha ha, ha! Is that a
 good notion?’
 
@@ -142,7 +142,7 @@ it?’
 ‘Do it!’ repeated the chairman. ‘B’s hard up, my good fellow, and will
 do anything. Don’t you see? It’s my idea.’
 
-‘It does you honour. I’m blest if it don’t,’ said Jonas.
+‘It does you [[Honour|honour]]. I’m blest if it don’t,’ said Jonas.
 
 ‘I think it does,’ replied the chairman, ‘and I’m proud to hear you say
 so. B pays the highest lawful interest--’
@@ -152,19 +152,19 @@ so. B pays the highest lawful interest--’
 ‘Right! quite right!’ retorted Tigg. ‘And hard it is upon the part
 of the law that it should be so confoundedly down upon us unfortunate
 victims; when it takes such amazing good interest for itself from all
-its clients. But charity begins at home, and justice begins next door.
-Well! The law being hard upon us, we’re not exactly soft upon B; for
+its clients. But [[Charity|charity]] begins at [[Home|home]], and justice begins next door.
+[[Well]]! The law being hard upon us, we’re not exactly soft upon B; for
 besides charging B the regular interest, we get B’s premium, and B’s
 friends’ premiums, and we charge B for the bond, and, whether we accept
 him or not, we charge B for “inquiries” (we keep a man, at a pound a
 week, to make ‘em), and we charge B a trifle for the secretary; and in
-short, my good fellow, we stick it into B, up hill and down dale, and
+short, my good fellow, we stick it into B, up [[Hill|hill]] and down dale, and
 make a devilish comfortable little property out of him. Ha, ha, ha! I
 drive B, in point of fact,’ said Tigg, pointing to the cabriolet, ‘and a
-thoroughbred horse he is. Ha, ha, ha!’
+thoroughbred [[Horse|horse]] he is. Ha, ha, ha!’
 
 Jonas enjoyed this joke very much indeed. It was quite in his peculiar
-vein of humour.
+vein of [[Humour|humour]].
 
 ‘Then,’ said Tigg Montague, ‘we grant annuities on the very lowest and
 most advantageous terms known in the money market; and the old ladies

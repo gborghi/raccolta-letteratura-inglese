@@ -1,5 +1,5 @@
 ---
-title: "The Ballad of the White Horse — Book VI"
+title: "The Ballad of the White [[Horse]] — Book VI"
 author: "Chesterton"
 unitType: section
 parentWork: "Works/The-Ballad-of-the-White-Horse-(Chesterton)"
@@ -20,24 +20,24 @@ OF THE CHIEFS
 
 S the sea flooding the flat sands  
        Flew on the sea-born horde,  
-     The two hosts shocked with dust and din,  
+     The two hosts shocked with [[Dust|dust]] and din,  
      Left of the Latian paladin,  
      Clanged all Prince Harold’s howling kin [5]  
-       On Colan and the sword.  
+       On Colan and the [[Sword|sword]].  
      Crashed in the midst on Marcus,  
        Ogier with Guthrum by,  
      And westward of such central stir,  
      Far to the right and faintlier, [10]  
-     The house of Elf the harp-player,  
+     The [[house]] of Elf the harp-player,  
        Struck Eldred’s with a cry.  
      The centre swat for weariness,  
        Stemming the screaming horde,  
      And wearily went Colan’s hands [15]  
-       That swung King Alfred’s sword.  
+       That swung [[King Alfred]]’s [[Sword|sword]].  
      But like a cloud of evening  
        To westward easily,  
      Tall Eldred broke the sea of spears  
-       As a tall ship breaks the sea. [20]  
+       As a tall [[Ship|ship]] breaks the sea. [20]  
      His face like a sanguine sunset,  
        His shoulder a Wessex down,  
      His hand like a windy hammer-stroke;  
@@ -51,24 +51,24 @@ S the sea flooding the flat sands
        With a moving locust-tower;  
      Or tawny sand-winds tall and dry,  
      Like hell’s red banners beat and fly,  
-     When death comes out of Araby,  
+     When [[Death|death]] comes out of Araby,  
        Was Eldred in his hour. [35]  
      But while he moved like a massacre  
-       He murmured as in sleep,  
+       He murmured as in [[Sleep|sleep]],  
      And his words were all of low hedges  
        And little fields and sheep.  
      Even as he strode like a pestilence, [40]  
        That strides from Rhine to Rome,  
      He thought how tall his beans might be  
-       If ever he went home.  
-     Spoke some stiff piece of childish prayer,  
+       If ever he went [[Home|home]].  
+     Spoke some stiff piece of childish [[prayer]],  
        Dull as the distant chimes, [45]  
      That thanked our God for good eating  
        And corn and quiet times—  
      Till on the helm of a high chief  
        Fell shatteringly his brand,  
      And the helm broke and the bone broke [50]  
-       And the sword broke in his hand.  
+       And the [[Sword|sword]] broke in his hand.  
      Then from the yelling Northmen  
        Driven splintering on him ran  
      Full seven spears, and the seventh [55]  
@@ -76,19 +76,19 @@ S the sea flooding the flat sands
      Seven spears, and the seventh  
        Was wrought as the faerie blades,  
      And given to Elf the minstrel  
-       By the monstrous water-maids;  
+       By the monstrous [[Water|water]]-maids;  
      By them that dwell where luridly [60]  
        Lost waters of the Rhine  
      Move among roots of nations,  
        Being sunken for a sign.  
      Under all graves they murmur,  
-       They murmur and rebel, [65]  
+       They murmur and [[Rebel|rebel]], [65]  
      Down to the buried kingdoms creep,  
      And like a lost rain roar and weep  
        O’er the red heavens of hell.  
      Thrice drowned was Elf the minstrel,  
        And washed as dead on sand; [70]  
-     And the third time men found him  
+     And the third [[Time|time]] men found him  
        The spear was in his hand.  
      Seven spears went about Eldred,  
        Like stays about a mast;  
@@ -113,9 +113,9 @@ S the sea flooding the flat sands
      Crying, “Fallen is the tower of Wessex  
        That stood beside the sea.”  
      Centre and right the Wessex guard [95]  
-        Grew pale for doubt and fear,  
+        Grew pale for [[Doubt|doubt]] and [[Fear|fear]],  
      And the flank failed at the advance,  
-     For the death-light on the wizard lance—  
+     For the [[Death|death]]-light on the wizard lance—  
        The star of the evil spear.  
      “Stand like an oak,” cried Marcus, [100]  
        “Stand like a Roman wall!  
@@ -135,7 +135,7 @@ S the sea flooding the flat sands
        The fruits upon your bough; us  
      Even now your old thatch smoulders, Gurth,  
      Now is the judgment of the earth,  
-       Now is the death-grip, now!”  
+       Now is the [[Death|death]]-grip, now!”  
      For thunder of the captain,  
        Not less the Wessex line, [120]  
      Leaned back and reeled a space to rear  
@@ -150,31 +150,31 @@ S the sea flooding the flat sands
      But Mark was come of the glittering towns [130]  
        Where hot white details show,  
      Where man can number and expound,  
-     And his faith grew in a hard ground  
-     Of doubt and reason and falsehood found,  
-       Where no faith else could grow. [135]  
+     And his [[Faith|faith]] grew in a hard ground  
+     Of [[Doubt|doubt]] and reason and falsehood found,  
+       Where no [[Faith|faith]] else could grow. [135]  
      Belief that grew of all beliefs  
        One moment back was blown  
      And belief that stood on unbelief  
-       Stood up iron and alone.  
+       Stood up iron and [[Alone|alone]].  
      The Wessex crescent backwards [140]  
        Crushed, as with bloody spear  
      Went Elf roaring and routing,  
      And Mark against Elf yet shouting,  
        Shocked, in his mid-career.  
-     Right on the Roman shield and sword [145]  
+     Right on the Roman shield and [[Sword|sword]] [145]  
        Did spear of the Rhine maids run;  
      But the shield shifted never,  
-     The sword rang down to sever,  
+     The [[Sword|sword]] rang down to sever,  
      The great Rhine sang for ever,  
-       And the songs of Elf were done. [150]  
+       And the [[songs]] of Elf were done. [150]  
      And a great thunder of Christian men  
        Went up against the sky,  
      Saying, “God hath broken the evil spear  
-       Ere the good man’s blood was dry.”  
+       Ere the good man’s [[Blood|blood]] was dry.”  
      “Spears at the charge!” yelled Mark amain, [155]  
-       “Death on the gods of death!  
-     Over the thrones of doom and blood  
+       “[[Death]] on the gods of [[Death|death]]!  
+     Over the thrones of doom and [[Blood|blood]]  
      Goeth God that is a craftsman good,  
      And gold and iron, earth and wood,  
        Loveth and laboureth. [160]  
@@ -183,20 +183,20 @@ S the sea flooding the flat sands
      God of all good things done on earth  
      All wheels or webs of any worth,  
      The God that makes the roof, Gurth, [165]  
-       The God that makes the road.  
+       The God that makes the [[Road|road]].  
      “The God that heweth kings in oak  
-       Writeth songs on vellum,  
+       Writeth [[songs]] on vellum,  
      God of gold and flaming glass,  
      Confregit potentias, [170]  
      Arcuum, scutum, Gorlias,  
        Gladium et bellum.”  
-     Steel and lightning broke about him,  
+     Steel and [[Lightning|lightning]] broke about him,  
        Battle-bays and palm,  
      All the sea-kings swayed among [175]  
      Woods of the Wessex arms upflung,  
      The trumpet of the Roman tongue,  
        The thunder of the psalm.  
-     And midmost of that rolling field  
+     And midmost of that [[rolling]] field  
        Ran Ogier ragingly, [180]  
      Lashing at Mark, who turned his blow,  
      And brake the helm about his brow,  
@@ -209,19 +209,19 @@ S the sea flooding the flat sands
        A statue on a roof.  
      Dealing far blows about the fight, [190]  
        Like thunder-bolts a-roam,  
-     Like birds about the battle-field,  
+     Like [[Birds|birds]] about the battle-field,  
      While Ogier writhed under his shield  
        Like a tortoise in his dome.  
      But hate in the buried Ogier [195]  
-       Was strong as pain in hell,  
+       Was strong as [[Pain|pain]] in hell,  
      With bare brute hand from the inside  
      He burst the shield of brass and hide,  
-     And a death-stroke to the Roman’s side  
-       Sent suddenly and well. [200]  
+     And a [[Death|death]]-stroke to the Roman’s side  
+       Sent suddenly and [[Well|well]]. [200]  
      Then the great statue on the shield  
        Looked his last look around  
      With level and imperial eye;  
-       And Mark, the man from Italy,  
+       And Mark, the man from [[Italy]],  
      Fell in the sea of agony, [205]  
        And died without a sound.  
      And Ogier, leaping up alive,  
@@ -231,7 +231,7 @@ S the sea flooding the flat sands
      And held two arms up rigidly,  
        And roared to all the Danes:  
      “Fallen is Rome, yea, fallen  
-       The city of the plains!  
+       The [[City|city]] of the plains!  
      “Shall no man born remember, [215]  
        That breaketh wood or weald,  
      How long she stood on the roof of the world  
@@ -255,19 +255,19 @@ S the sea flooding the flat sands
      “The blind gods roar and rave and dream [235]  
        Of all cities under the sea,  
      For the heart of the north is broken,  
-       And the blood of the north is free.  
+       And the [[Blood|blood]] of the north is free.  
      “Down from the dome of the world we come,  
        Rivers on rivers down, [240]  
      Under us swirl the sects and hordes  
      And the high dooms we drown.  
      “Down from the dome of the world and down,  
        Struck flying as a skiff  
-     On a river in spate is spun and swirled [245]  
+     On a [[River|river]] in spate is spun and swirled [245]  
      Until we come to the end of the world  
        That breaks short, like a cliff.  
      “And when we come to the end of the world  
        For me, I count it fit  
-     To take the leap like a good river, [250]  
+     To take the leap like a good [[River|river]], [250]  
        Shot shrieking over it.  
      “But whatso hap at the end of the world,  
        Where Nothing is struck and sounds,  
@@ -277,43 +277,43 @@ S the sea flooding the flat sands
        This one white string of men,  
      Shall keep us back from the end of the world,  
        And the things that happen then.  
-     “It is not Alfred’s dwarfish sword, [260]  
-       Nor Egbert’s pigmy crown,  
+     “It is not Alfred’s dwarfish [[Sword|sword]], [260]  
+       Nor Egbert’s pigmy [[Crown|crown]],  
      Shall stay us now that descend in thunder,  
      Rending the realms and the realms thereunder,  
        Down through the world and down.”  
      There was that in the wild men back of him, [265]  
-       There was that in his own wild song,  
+       There was that in his own wild [[Song|song]],  
      A dizzy throbbing, a drunkard smoke,  
-     That dazed to death all Wessex folk,  
+     That dazed to [[Death|death]] all Wessex folk,  
        And swept their spears along.  
-     Vainly the sword of Colan [270]  
+     Vainly the [[Sword|sword]] of Colan [270]  
        And the axe of Alfred plied—  
      The Danes poured in like a brainless plague,  
        And knew not when they died.  
      Prince Colan slew a score of them,  
        And was stricken to his knee; [275]  
-     King Alfred slew a score and seven  
+     [[King Alfred]] slew a score and seven  
        And was borne back on a tree.  
      Back to the black gate of the woods,  
        Back up the single way,  
      Back by the place of the parting ways [280]  
-       Christ’s knights were whirled away.  
+       [[Christ]]’s knights were whirled away.  
      And when they came to the parting ways  
        Doom’s heaviest hammer fell,  
-     For the King was beaten, blind, at bay,  
+     For the [[King]] was beaten, blind, at bay,  
      Down the right lane with his array, [285]  
      But Colan swept the other way,  
        Where he smote great strokes and fell.  
      The thorn-woods over Ethandune  
        Stand sharp and thick as spears,  
-     By night and furze and forest-harms [290]  
+     By [[Night|night]] and furze and forest-harms [290]  
      Far sundered were the friends in arms;  
      The loud lost blows, the last alarms,  
        Came not to Alfred’s ears.  
      The thorn-woods over Ethandune  
        Stand stiff as spikes in mail; [295]  
-     As to the Haut King came at morn  
+     As to the Haut [[King]] came at morn  
      Dead Roland on a doubtful horn,  
      Seemed unto Alfred lightly borne  
        The last cry of the Gael.  

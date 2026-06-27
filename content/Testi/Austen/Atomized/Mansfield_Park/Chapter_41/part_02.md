@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 41 (part 2)"
+title: "[[Mansfield Park]] — Chapter 41 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -18,10 +18,10 @@ Mr. Crawford probably could not regard his future father-in-law with
 any idea of taking him for a model in dress; but (as Fanny instantly,
 and to her great relief, discerned) her father was a very different
 man, a very different Mr. Price in his behaviour to this most highly
-respected stranger, from what he was in his own family at home. His
+respected stranger, from what he was in his own family at [[Home|home]]. His
 manners now, though not polished, were more than passable: they were
 grateful, animated, manly; his expressions were those of an attached
-father, and a sensible man; his loud tones did very well in the open
+father, and a sensible man; his loud tones did very [[Well|well]] in the open
 air, and there was not a single oath to be heard. Such was his
 instinctive compliment to the good manners of Mr. Crawford; and, be the
 consequence what it might, Fanny’s immediate feelings were infinitely
@@ -61,7 +61,7 @@ Once fairly in the dockyard, he began to reckon upon some happy
 intercourse with Fanny, as they were very soon joined by a brother
 lounger of Mr. Price’s, who was come to take his daily survey of how
 things went on, and who must prove a far more worthy companion than
-himself; and after a time the two officers seemed very well satisfied
+himself; and after a [[Time|time]] the two officers seemed very [[Well|well]] satisfied
 going about together, and discussing matters of equal and never-failing
 interest, while the young people sat down upon some timbers in the
 yard, or found a seat on board a vessel in the stocks which they all
@@ -69,18 +69,18 @@ went to look at. Fanny was most conveniently in want of rest. Crawford
 could not have wished her more fatigued or more ready to sit down; but
 he could have wished her sister away. A quick-looking girl of Susan’s
 age was the very worst third in the world: totally different from Lady
-Bertram, all eyes and ears; and there was no introducing the main point
+[[Bertram]], all eyes and ears; and there was no introducing the main point
 before her. He must content himself with being only generally
 agreeable, and letting Susan have her share of entertainment, with the
 indulgence, now and then, of a look or hint for the better-informed and
 conscious Fanny. Norfolk was what he had mostly to talk of: there he
-had been some time, and everything there was rising in importance from
+had been some [[Time|time]], and everything there was rising in importance from
 his present schemes. Such a man could come from no place, no society,
 without importing something to amuse; his journeys and his acquaintance
 were all of use, and Susan was entertained in a way quite new to her.
 For Fanny, somewhat more was related than the accidental agreeableness
 of the parties he had been in. For her approbation, the particular
-reason of his going into Norfolk at all, at this unusual time of year,
+reason of his going into Norfolk at all, at this unusual [[Time|time]] of year,
 was given. It had been real business, relative to the renewal of a
 lease in which the welfare of a large and—he believed—industrious
 family was at stake. He had suspected his agent of some underhand
@@ -93,23 +93,23 @@ duty, he had secured agreeable recollections for his own mind. He had
 introduced himself to some tenants whom he had never seen before; he
 had begun making acquaintance with cottages whose very existence,
 though on his own estate, had been hitherto unknown to him. This was
-aimed, and well aimed, at Fanny. It was pleasing to hear him speak so
+aimed, and [[Well|well]] aimed, at Fanny. It was pleasing to hear him speak so
 properly; here he had been acting as he ought to do. To be the friend
 of the poor and the oppressed! Nothing could be more grateful to her;
 and she was on the point of giving him an approving look, when it was
 all frightened off by his adding a something too pointed of his hoping
 soon to have an assistant, a friend, a guide in every plan of utility
-or charity for Everingham: a somebody that would make Everingham and
+or [[Charity|charity]] for Everingham: a somebody that would make Everingham and
 all about it a dearer object than it had ever been yet.
 
 She turned away, and wished he would not say such things. She was
 willing to allow he might have more good qualities than she had been
 wont to suppose. She began to feel the possibility of his turning out
-well at last; but he was and must ever be completely unsuited to her,
+[[Well|well]] at last; but he was and must ever be completely unsuited to her,
 and ought not to think of her.
 
 He perceived that enough had been said of Everingham, and that it would
-be as well to talk of something else, and turned to Mansfield. He could
+be as [[Well|well]] to talk of something else, and turned to Mansfield. He could
 not have chosen better; that was a topic to bring back her attention
 and her looks almost instantly. It was a real indulgence to her to hear
 or to speak of Mansfield. Now so long divided from everybody who knew

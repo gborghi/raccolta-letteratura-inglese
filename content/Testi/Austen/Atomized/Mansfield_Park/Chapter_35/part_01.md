@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 35 (part 1)"
+title: "[[Mansfield Park]] — Chapter 35 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER XXXV
 
 
-Edmund had determined that it belonged entirely to Fanny to chuse
+[[Edmund]] had determined that it belonged entirely to Fanny to chuse
 whether her situation with regard to Crawford should be mentioned
 between them or not; and that if she did not lead the way, it should
 never be touched on by him; but after a day or two of mutual reserve,
@@ -25,9 +25,9 @@ he was induced by his father to change his mind, and try what his
 influence might do for his friend.
 
 A day, and a very early day, was actually fixed for the Crawfords’
-departure; and Sir Thomas thought it might be as well to make one more
+departure; and Sir Thomas thought it might be as [[Well|well]] to make one more
 effort for the young man before he left Mansfield, that all his
-professions and vows of unshaken attachment might have as much hope to
+professions and vows of unshaken attachment might have as much [[Hope|hope]] to
 sustain them as possible.
 
 Sir Thomas was most cordially anxious for the perfection of Mr.
@@ -35,9 +35,9 @@ Crawford’s character in that point. He wished him to be a model of
 constancy; and fancied the best means of effecting it would be by not
 trying him too long.
 
-Edmund was not unwilling to be persuaded to engage in the business; he
+[[Edmund]] was not unwilling to be persuaded to engage in the business; he
 wanted to know Fanny’s feelings. She had been used to consult him in
-every difficulty, and he loved her too well to bear to be denied her
+every difficulty, and he loved her too [[Well|well]] to bear to be denied her
 confidence now; he hoped to be of service to her, he thought he must be
 of service to her; whom else had she to open her heart to? If she did
 not need counsel, she must need the comfort of communication. Fanny
@@ -46,9 +46,9 @@ things; a state which he must break through, and which he could easily
 learn to think she was wanting him to break through.
 
 “I will speak to her, sir: I will take the first opportunity of
-speaking to her alone,” was the result of such thoughts as these; and
-upon Sir Thomas’s information of her being at that very time walking
-alone in the shrubbery, he instantly joined her.
+speaking to her [[Alone|alone]],” was the result of such thoughts as these; and
+upon Sir Thomas’s information of her being at that very [[Time|time]] walking
+[[Alone|alone]] in the shrubbery, he instantly joined her.
 
 “I am come to walk with you, Fanny,” said he. “Shall I?” Drawing her
 arm within his. “It is a long while since we have had a comfortable
@@ -86,7 +86,7 @@ This is such a comfort!”
 
 “This comfort you might have had sooner, Fanny, had you sought it. But
 how could you possibly suppose me against you? How could you imagine me
-an advocate for marriage without love? Were I even careless in general
+an advocate for [[Marriage|marriage]] without [[Love|love]]? Were I even careless in general
 on such matters, how could you imagine me so where your happiness was
 at stake?”
 
@@ -94,47 +94,47 @@ at stake?”
 
 “As far as you have gone, Fanny, I think you perfectly right. I may be
 sorry, I may be surprised—though hardly _that_, for you had not had
-time to attach yourself—but I think you perfectly right. Can it admit
-of a question? It is disgraceful to us if it does. You did not love
+[[Time|time]] to attach yourself—but I think you perfectly right. Can it admit
+of a question? It is disgraceful to us if it does. You did not [[Love|love]]
 him; nothing could have justified your accepting him.”
 
 Fanny had not felt so comfortable for days and days.
 
 “So far your conduct has been faultless, and they were quite mistaken
 who wished you to do otherwise. But the matter does not end here.
-Crawford’s is no common attachment; he perseveres, with the hope of
+Crawford’s is no common attachment; he perseveres, with the [[Hope|hope]] of
 creating that regard which had not been created before. This, we know,
-must be a work of time. But” (with an affectionate smile) “let him
+must be a work of [[Time|time]]. But” (with an affectionate smile) “let him
 succeed at last, Fanny, let him succeed at last. You have proved
 yourself upright and disinterested, prove yourself grateful and
 tender-hearted; and then you will be the perfect model of a woman which
 I have always believed you born for.”
 
 “Oh! never, never, never! he never will succeed with me.” And she spoke
-with a warmth which quite astonished Edmund, and which she blushed at
+with a warmth which quite astonished [[Edmund]], and which she blushed at
 the recollection of herself, when she saw his look, and heard him
 reply, “Never! Fanny!—so very determined and positive! This is not like
-yourself, your rational self.”
+yourself, your rational [[Self|self]].”
 
 “I mean,” she cried, sorrowfully correcting herself, “that I _think_ I
 never shall, as far as the future can be answered for; I think I never
 shall return his regard.”
 
-“I must hope better things. I am aware, more aware than Crawford can
-be, that the man who means to make you love him (you having due notice
+“I must [[Hope|hope]] better things. I am aware, more aware than Crawford can
+be, that the man who means to make you [[Love|love]] him (you having due notice
 of his intentions) must have very uphill work, for there are all your
 early attachments and habits in battle array; and before he can get
 your heart for his own use he has to unfasten it from all the holds
 upon things animate and inanimate, which so many years’ growth have
 confirmed, and which are considerably tightened for the moment by the
 very idea of separation. I know that the apprehension of being forced
-to quit Mansfield will for a time be arming you against him. I wish he
+to quit Mansfield will for a [[Time|time]] be arming you against him. I wish he
 had not been obliged to tell you what he was trying for. I wish he had
-known you as well as I do, Fanny. Between us, I think we should have
+known you as [[Well|well]] as I do, Fanny. Between us, I think we should have
 won you. My theoretical and his practical knowledge together could not
-have failed. He should have worked upon my plans. I must hope, however,
-that time, proving him (as I firmly believe it will) to deserve you by
+have failed. He should have worked upon my plans. I must [[Hope|hope]], however,
+that [[Time|time]], proving him (as I firmly believe it will) to deserve you by
 his steady affection, will give him his reward. I cannot suppose that
-you have not the _wish_ to love him—the natural wish of gratitude. You
+you have not the _wish_ to [[Love|love]] him—the natural wish of gratitude. You
 must have some feeling of that sort. You must be sorry for your own
 indifference.”

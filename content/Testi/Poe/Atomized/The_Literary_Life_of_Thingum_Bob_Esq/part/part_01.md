@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq (part 1)"
+title: "[[The Literary Life of Thingum Bob, Esq]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -28,7 +28,7 @@ By Himself
 
       I may even die. It has occurred to me, therefore, that I may as
 
-      well retire from the field of Letters and repose upon my laurels.
+      [[Well|well]] retire from the field of Letters and repose upon my laurels.
 
       But I am ambitious of signalizing my abdication of the literary
 
@@ -46,17 +46,17 @@ By Himself
 
       inspired. In fact, it is no more than the duty of him who
 
-      achieves greatness to leave behind him, in his ascent, such
+      achieves [[Greatness|greatness]] to leave behind him, in his ascent, such
 
       landmarks as may guide others to be great. I propose, therefore,
 
       in the present paper, (which I had some idea of calling
 
-      “Memoranda to serve for the Literary History of America,”) to
+      “Memoranda to serve for the Literary [[history|History]] of [[America]],”) to
 
       give a detail of those important, yet feeble and tottering first
 
-      steps, by which, at length, I attained the high road to the
+      steps, by which, at length, I attained the high [[Road|road]] to the
 
       pinnacle of human renown.
 
@@ -66,11 +66,11 @@ By Himself
 
       father, Thomas Bob, Esq., stood for many years at the summit of
 
-      his profession, which was that of a merchant-barber, in the city
+      his profession, which was that of a merchant-barber, in the [[City|city]]
 
       of Smug. His warehouse was the resort of all the principal people
 
-      of the place, and especially of the editorial corps—a body which
+      of the place, and especially of the editorial corps—a [[Body|body]] which
 
       inspires all about it with profound veneration and awe. For my
 
@@ -108,7 +108,7 @@ By Himself
 
 
 
-      “Father,” I said, “pardon me!—but I have a soul above lather. It
+      “Father,” I said, “pardon me!—but I have a [[Soul|soul]] above lather. It
 
       is my firm intention to cut the shop. I would be an editor—I
 
@@ -124,7 +124,7 @@ By Himself
 
       he said, raising me from my knees by the ears—“Thingum, my boy,
 
-      you’re a trump, and take after your father in having a soul. You
+      you’re a trump, and take after your father in having a [[Soul|soul]]. You
 
       have an immense head, too, and it must hold a great many brains.
 
@@ -134,9 +134,9 @@ By Himself
 
       politician don’t pay. Upon the whole you judge wisely;—the trade
 
-      of editor is best:—and if you can be a poet at the same time,—as
+      of editor is best:—and if you can be a poet at the same [[Time|time]],—as
 
-      most of the editors are, by the by,—why you will kill two birds
+      most of the editors are, by the by,—why you will kill two [[Birds|birds]]
 
       with one stone. To encourage you in the beginning of things, I
 
@@ -148,7 +148,7 @@ By Himself
 
 
 
-      “I would be an ungrateful villain if I did,” I replied with
+      “I would be an ungrateful [[Villain|villain]] if I did,” I replied with
 
       enthusiasm. “Your generosity is boundless. I will repay it by
 
@@ -174,7 +174,7 @@ By Himself
 
       excellence tended, naturally, to discourage me by comparison with
 
-      my own abortions; so that for a long time I labored in vain. At
+      my own abortions; so that for a long [[Time|time]] I labored in vain. At
 
       length there came into my head one of those exquisitely original
 
@@ -188,9 +188,9 @@ By Himself
 
       altogether unknown or forgotten volumes. The bookseller sold them
 
-      to me for a song. From one of these, which purported to be a
+      to me for a [[Song|song]]. From one of these, which purported to be a
 
-      translation of one Dante’s “Inferno,” I copied with remarkable
+      [[Translation|translation]] of one [[Dante]]’s “Inferno,” I copied with remarkable
 
       neatness a long passage about a man named Ugolino, who had a
 
@@ -208,6 +208,6 @@ By Himself
 
       Choctaw—I cannot be at the pains of remembering every trifle
 
-      exactly—I took about fifty verses beginning with “Achilles’
+      exactly—I took about fifty verses beginning with “[[Achilles]]’
 
       wrath,” and “grease,” and something else. From a fourth, which I

@@ -16,21 +16,21 @@ tags:
 
       many, many fair titles of the gentle, and the happy, and the
 
-      good. What prompted me then to disturb the memory of the buried
+      good. What prompted me then to disturb the [[Memory|memory]] of the buried
 
       dead? What demon urged me to breathe that sound, which in its
 
-      very recollection was wont to make ebb the purple blood in
+      very recollection was wont to make ebb the purple [[Blood|blood]] in
 
       torrents from the temples to the heart? What fiend spoke from the
 
-      recesses of my soul, when amid those dim aisles, and in the
+      recesses of my [[Soul|soul]], when amid those dim aisles, and in the
 
-      silence of the night, I whispered within the ears of the holy man
+      [[Silence|silence]] of the [[Night|night]], I whispered within the ears of the holy man
 
       the syllables—Morella? What more than fiend convulsed the
 
-      features of my child, and overspread them with hues of death, as
+      features of my [[Child|child]], and overspread them with hues of [[Death|death]], as
 
       starting at that scarcely audible sound, she turned her glassy
 
@@ -44,13 +44,13 @@ tags:
 
       within my ear, and thence like molten lead rolled hissingly into
 
-      my brain. Years—years may pass away, but the memory of that
+      my brain. Years—years may pass away, but the [[Memory|memory]] of that
 
-      epoch—never! Nor was I indeed ignorant of the flowers and the
+      epoch—never! Nor was I indeed ignorant of the [[Flowers|flowers]] and the
 
-      vine—but the hemlock and the cypress overshadowed me night and
+      vine—but the hemlock and the cypress overshadowed me [[Night|night]] and
 
-      day. And I kept no reckoning of time or place, and the stars of
+      day. And I kept no reckoning of [[Time|time]] or place, and the [[Stars|stars]] of
 
       my fate faded from heaven, and therefore the earth grew dark, and
 
@@ -76,7 +76,7 @@ tags:
 
 
 
-A TALE OF THE RAGGED MOUNTAINS
+A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
 
 
 
@@ -120,7 +120,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       by no means unpleasing, as might be supposed; but it had no
 
-      variation whatever. It was one of profound melancholy—of a
+      variation whatever. It was one of profound [[Melancholy|melancholy]]—of a
 
       phaseless and unceasing gloom. His eyes were abnormally large,
 
@@ -158,7 +158,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       of neuralgic attacks had reduced him from a condition of more
 
-      than usual personal beauty, to that which I saw. For many years
+      than usual personal [[Beauty|beauty]], to that which I saw. For many years
 
       past he had been attended by a physician, named Templeton—an old
 
@@ -174,7 +174,7 @@ A TALE OF THE RAGGED MOUNTAINS
 
       consideration of a liberal annual allowance, had consented to
 
-      devote his time and medical experience exclusively to the care of
+      devote his [[Time|time]] and medical experience exclusively to the care of
 
       the invalid.
 
@@ -182,19 +182,19 @@ A TALE OF THE RAGGED MOUNTAINS
 
       Doctor Templeton had been a traveller in his younger days, and at
 
-      Paris had become a convert, in great measure, to the doctrines of
+      [[Paris]] had become a [[convert]], in great measure, to the doctrines of
 
       Mesmer. It was altogether by means of magnetic remedies that he
 
       had succeeded in alleviating the acute pains of his patient; and
 
-      this success had very naturally inspired the latter with a
+      this [[success]] had very naturally inspired the latter with a
 
       certain degree of confidence in the opinions from which the
 
       remedies had been educed. The Doctor, however, like all
 
-      enthusiasts, had struggled hard to make a thorough convert of his
+      enthusiasts, had struggled hard to make a thorough [[convert]] of his
 
       pupil, and finally so far gained his point as to induce the
 
@@ -206,6 +206,6 @@ A TALE OF THE RAGGED MOUNTAINS
 
       at the period of which I write, had very rarely been known in
 
-      America. I mean to say, that between Doctor Templeton and Bedloe
+      [[America]]. I mean to say, that between Doctor Templeton and Bedloe
 
       there had grown up, little by little, a very distinct and

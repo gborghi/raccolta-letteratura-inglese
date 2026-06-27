@@ -18,12 +18,12 @@ CHAPTER XL.
 Domestic Relations
 
 
-It was not in the nature of things that a man of Mr Dombey’s mood,
+It was not in the [[Nature|nature]] of things that a man of Mr Dombey’s mood,
 opposed to such a spirit as he had raised against himself, should be
 softened in the imperious asperity of his temper; or that the cold hard
-armour of pride in which he lived encased, should be made more flexible
+armour of [[Pride|pride]] in which he lived encased, should be made more flexible
 by constant collision with haughty scorn and defiance. It is the curse
-of such a nature—it is a main part of the heavy retribution on itself
+of such a [[Nature|nature]]—it is a main part of the heavy retribution on itself
 it bears within itself—that while deference and concession swell its
 evil qualities, and are the food it grows upon, resistance and a
 questioning of its exacting claims, foster it too, no less. The evil
@@ -36,31 +36,31 @@ the Devil in dark fables.
 Towards his first wife, Mr Dombey, in his cold and lofty arrogance, had
 borne himself like the removed Being he almost conceived himself to be.
 He had been “Mr Dombey” with her when she first saw him, and he was “Mr
-Dombey” when she died. He had asserted his greatness during their whole
+Dombey” when she died. He had asserted his [[Greatness|greatness]] during their whole
 married life, and she had meekly recognised it. He had kept his distant
 seat of state on the top of his throne, and she her humble station on
 its lowest step; and much good it had done him, so to live in solitary
 bondage to his one idea. He had imagined that the proud character of
 his second wife would have been added to his own—would have merged into
-it, and exalted his greatness. He had pictured himself haughtier than
+it, and exalted his [[Greatness|greatness]]. He had pictured himself haughtier than
 ever, with Edith’s haughtiness subservient to his. He had never
 entertained the possibility of its arraying itself against him. And
 now, when he found it rising in his path at every step and turn of his
 daily life, fixing its cold, defiant, and contemptuous face upon him,
-this pride of his, instead of withering, or hanging down its head
+this [[Pride|pride]] of his, instead of withering, or hanging down its head
 beneath the shock, put forth new shoots, became more concentrated and
 intense, more gloomy, sullen, irksome, and unyielding, than it had ever
 been before.
 
 Who wears such armour, too, bears with him ever another heavy
-retribution. It is of proof against conciliation, love, and confidence;
+retribution. It is of proof against conciliation, [[Love|love]], and confidence;
 against all gentle sympathy from without, all trust, all tenderness,
-all soft emotion; but to deep stabs in the self-love, it is as
+all soft emotion; but to deep stabs in the [[Self|self]]-[[Love|love]], it is as
 vulnerable as the bare breast to steel; and such tormenting festers
 rankle there, as follow on no other wounds, no, though dealt with the
-mailed hand of Pride itself, on weaker pride, disarmed and thrown down.
+mailed hand of [[Pride]] itself, on weaker [[Pride|pride]], disarmed and thrown down.
 
-Such wounds were his. He felt them sharply, in the solitude of his old
+Such wounds were his. He felt them sharply, in the [[Solitude|solitude]] of his old
 rooms; whither he now began often to retire again, and pass long
 solitary hours. It seemed his fate to be ever proud and powerful; ever
 humbled and powerless where he would be most strong. Who seemed fated
@@ -69,79 +69,79 @@ to work out that doom?
 Who? Who was it who could win his wife as she had won his boy? Who was
 it who had shown him that new victory, as he sat in the dark corner?
 Who was it whose least word did what his utmost means could not? Who
-was it who, unaided by his love, regard or notice, thrived and grew
-beautiful when those so aided died? Who could it be, but the same child
+was it who, unaided by his [[Love|love]], regard or notice, thrived and grew
+beautiful when those so aided died? Who could it be, but the same [[Child|child]]
 at whom he had often glanced uneasily in her motherless infancy, with a
 kind of dread, lest he might come to hate her; and of whom his
 foreboding was fulfilled, for he DID hate her in his heart?
 
 Yes, and he would have it hatred, and he made it hatred, though some
 sparkles of the light in which she had appeared before him on the
-memorable night of his return home with his Bride, occasionally hung
+memorable [[Night|night]] of his return [[Home|home]] with his Bride, occasionally hung
 about her still. He knew now that she was beautiful; he did not dispute
-that she was graceful and winning, and that in the bright dawn of her
+that she was graceful and winning, and that in the bright [[Dawn|dawn]] of her
 womanhood she had come upon him, a surprise. But he turned even this
 against her. In his sullen and unwholesome brooding, the unhappy man,
-with a dull perception of his alienation from all hearts, and a vague
+with a dull perception of his [[Alienation|alienation]] from all hearts, and a vague
 yearning for what he had all his life repelled, made a distorted
 picture of his rights and wrongs, and justified himself with it against
 her. The worthier she promised to be of him, the greater claim he was
 disposed to antedate upon her duty and submission. When had she ever
 shown him duty and submission? Did she grace his life—or Edith’s? Had
 her attractions been manifested first to him—or Edith? Why, he and she
-had never been, from her birth, like father and child! They had always
+had never been, from her birth, like father and [[Child|child]]! They had always
 been estranged. She had crossed him every way and everywhere. She was
-leagued against him now. Her very beauty softened natures that were
+leagued against him now. Her very [[Beauty|beauty]] softened natures that were
 obdurate to him, and insulted him with an unnatural triumph.
 
 It may have been that in all this there were mutterings of an awakened
 feeling in his breast, however selfishly aroused by his position of
 disadvantage, in comparison with what she might have made his life. But
-he silenced the distant thunder with the rolling of his sea of pride.
-He would bear nothing but his pride. And in his pride, a heap of
-inconsistency, and misery, and self-inflicted torment, he hated her.
+he silenced the distant thunder with the [[rolling]] of his sea of [[Pride|pride]].
+He would bear nothing but his [[Pride|pride]]. And in his [[Pride|pride]], a heap of
+inconsistency, and misery, and [[Self|self]]-inflicted torment, he hated her.
 
 To the moody, stubborn, sullen demon, that possessed him, his wife
-opposed her different pride in its full force. They never could have
+opposed her different [[Pride|pride]] in its full force. They never could have
 led a happy life together; but nothing could have made it more unhappy,
-than the wilful and determined warfare of such elements. His pride was
+than the wilful and determined warfare of such elements. His [[Pride|pride]] was
 set upon maintaining his magnificent supremacy, and forcing recognition
-of it from her. She would have been racked to death, and turned but her
+of it from her. She would have been racked to [[Death|death]], and turned but her
 haughty glance of calm inflexible disdain upon him, to the last. Such
-recognition from Edith! He little knew through what a storm and
-struggle she had been driven onward to the crowning honour of his hand.
+recognition from Edith! He little knew through what a [[Storm|storm]] and
+struggle she had been driven onward to the crowning [[Honour|honour]] of his hand.
 He little knew how much she thought she had conceded, when she suffered
 him to call her wife.
 
 Mr Dombey was resolved to show her that he was supreme. There must be
 no will but his. Proud he desired that she should be, but she must be
-proud for, not against him. As he sat alone, hardening, he would often
-hear her go out and come home, treading the round of London life with
+proud for, not against him. As he sat [[Alone|alone]], hardening, he would often
+hear her go out and come [[Home|home]], treading the round of [[London]] life with
 no more heed of his liking or disliking, pleasure or displeasure, than
 if he had been her groom. Her cold supreme indifference—his own
 unquestioned attribute usurped—stung him more than any other kind of
 treatment could have done; and he determined to bend her to his
 magnificent and stately will.
 
-He had been long communing with these thoughts, when one night he
-sought her in her own apartment, after he had heard her return home
-late. She was alone, in her brilliant dress, and had but that moment
-come from her mother’s room. Her face was melancholy and pensive, when
+He had been long communing with these thoughts, when one [[Night|night]] he
+sought her in her own apartment, after he had heard her return [[Home|home]]
+late. She was [[Alone|alone]], in her brilliant dress, and had but that moment
+come from her mother’s room. Her face was [[Melancholy|melancholy]] and pensive, when
 he came upon her; but it marked him at the door; for, glancing at the
-mirror before it, he saw immediately, as in a picture-frame, the
-knitted brow, and darkened beauty that he knew so well.
+[[Mirror|mirror]] before it, he saw immediately, as in a picture-frame, the
+knitted brow, and darkened [[Beauty|beauty]] that he knew so [[Well|well]].
 
 “Mrs Dombey,” he said, entering, “I must beg leave to have a few words
 with you.”
 
 “To-morrow,” she replied.
 
-“There is no time like the present, Madam,” he returned. “You mistake
+“There is no [[Time|time]] like the present, Madam,” he returned. “You mistake
 your position. I am used to choose my own times; not to have them
 chosen for me. I think you scarcely understand who and what I am, Mrs
 Dombey.”
 
-“I think,” she answered, “that I understand you very well.”
+“I think,” she answered, “that I understand you very [[Well|well]].”
 
 She looked upon him as she said so, and folding her white arms,
 sparkling with gold and gems, upon her swelling breast, turned away her
@@ -149,26 +149,26 @@ eyes.
 
 If she had been less handsome, and less stately in her cold composure,
 she might not have had the power of impressing him with the sense of
-disadvantage that penetrated through his utmost pride. But she had the
+disadvantage that penetrated through his utmost [[Pride|pride]]. But she had the
 power, and he felt it keenly. He glanced round the room: saw how the
 splendid means of personal adornment, and the luxuries of dress, were
 scattered here and there, and disregarded; not in mere caprice and
 carelessness (or so he thought), but in a steadfast haughty disregard
-of costly things: and felt it more and more. Chaplets of flowers,
+of costly things: and felt it more and more. Chaplets of [[Flowers|flowers]],
 plumes of feathers, jewels, laces, silks and satins; look where he
 would, he saw riches, despised, poured out, and made of no account. The
-very diamonds—a marriage gift—that rose and fell impatiently upon her
+very diamonds—a [[Marriage|marriage]] gift—that [[Rose|rose]] and fell impatiently upon her
 bosom, seemed to pant to break the chain that clasped them round her
 neck, and roll down on the floor where she might tread upon them.
 
 He felt his disadvantage, and he showed it. Solemn and strange among
 this wealth of colour and voluptuous glitter, strange and constrained
-towards its haughty mistress, whose repellent beauty it repeated, and
-presented all around him, as in so many fragments of a mirror, he was
+towards its haughty mistress, whose repellent [[Beauty|beauty]] it repeated, and
+presented all around him, as in so many fragments of a [[Mirror|mirror]], he was
 conscious of embarrassment and awkwardness. Nothing that ministered to
-her disdainful self-possession could fail to gall him. Galled and
+her disdainful [[Self|self]]-possession could fail to gall him. Galled and
 irritated with himself, he sat down, and went on, in no improved
-humour:
+[[Humour|humour]]:
 
 “Mrs Dombey, it is very necessary that there should be some
 understanding arrived at between us. Your conduct does not please me,
@@ -219,7 +219,7 @@ Still the fixed look, the trembling lips, the throbbing breast, the
 face now crimson and now white; and still the deep whisper Florence,
 Florence, speaking to her in the beating of her heart.
 
-His insolence of self-importance dilated as he saw this alteration in
+His insolence of [[Self|self]]-importance dilated as he saw this alteration in
 her. Swollen no less by her past scorn of him, and his so recent
 feeling of disadvantage, than by her present submission (as he took it
 to be), it became too mighty for his breast, and burst all bounds. Why,
@@ -238,15 +238,15 @@ making it.—To Me—To Me!” he added, with emphasis.
 No word from her. No change in her. Her eyes upon him.
 
 “I have learnt from your mother, Mrs Dombey,” said Mr Dombey, with
-magisterial importance, “what no doubt you know, namely, that Brighton
+magisterial importance, “what no [[Doubt|doubt]] you know, namely, that Brighton
 is recommended for her health. Mr Carker has been so good.”
 
 She changed suddenly. Her face and bosom glowed as if the red light of
 an angry sunset had been flung upon them. Not unobservant of the
 change, and putting his own interpretation upon it, Mr Dombey resumed:
 
-“Mr Carker has been so good as to go down and secure a house there, for
-a time. On the return of the establishment to London, I shall take such
+“Mr Carker has been so good as to go down and secure a [[house]] there, for
+a [[Time|time]]. On the return of the establishment to [[London]], I shall take such
 steps for its better management as I consider necessary. One of these,
 will be the engagement at Brighton (if it is to be effected), of a very
 respectable reduced person there, a Mrs Pipchin, formerly employed in a
@@ -273,7 +273,7 @@ Carker,” said Mr Dombey, who, after the emotion he had just seen, set
 great store by this means of reducing his proud wife, and who was
 perhaps sufficiently willing to exhibit his power to that gentleman in
 a new and triumphant aspect, “Mr Carker being in my confidence, Mrs
-Dombey, may very well be in yours to such an extent. I hope, Mrs
+Dombey, may very [[Well|well]] be in yours to such an extent. I [[Hope|hope]], Mrs
 Dombey,” he continued, after a few moments, during which, in his
 increasing haughtiness, he had improved on his idea, “I may not find it
 necessary ever to entrust Mr Carker with any message of objection or
@@ -296,12 +296,12 @@ in a low voice:
 Why did she not, and what was the inward struggle that rendered her
 incapable of doing so, for minutes, while, in the strong constraint she
 put upon her face, it was as fixed as any statue’s—looking upon him
-with neither yielding nor unyielding, liking nor hatred, pride not
-humility: nothing but a searching gaze?
+with neither yielding nor unyielding, liking nor hatred, [[Pride|pride]] not
+[[Humility|humility]]: nothing but a searching gaze?
 
 “Did I ever tempt you to seek my hand? Did I ever use any art to win
 you? Was I ever more conciliating to you when you pursued me, than I
-have been since our marriage? Was I ever other to you than I am?”
+have been since our [[Marriage|marriage]]? Was I ever other to you than I am?”
 
 “It is wholly unnecessary, Madam,” said Mr Dombey, “to enter upon such
 discussions.”
@@ -319,7 +319,7 @@ drawing her majestic figure to its height, looked steadily upon him
 still.
 
 “You answer each of them. You answer me before I speak, I see. How can
-you help it; you who know the miserable truth as well as I? Now, tell
+you help it; you who know the miserable [[Truth|truth]] as [[Well|well]] as I? Now, tell
 me. If I loved you to devotion, could I do more than render up my whole
 will and being to you, as you have just demanded? If my heart were pure
 and all untried, and you its idol, could you ask more; could you have
@@ -331,7 +331,7 @@ more?”
 can read the warmth of passion for you that is breathing in my face.”
 Not a curl of the proud lip, not a flash of the dark eye, nothing but
 the same intent and searching look, accompanied these words. “You know
-my general history. You have spoken of my mother. Do you think you can
+my general [[history]]. You have spoken of my mother. Do you think you can
 degrade, or bend or break, me to submission and obedience?”
 
 Mr Dombey smiled, as he might have smiled at an inquiry whether he
@@ -349,19 +349,19 @@ Mr Dombey, with a slightly condescending bend of his chin that rustled
 and crackled his stiff cravat, sat down on a sofa that was near him, to
 hear the appeal.
 
-“If you can believe that I am of such a nature now,”—he fancied he saw
-tears glistening in her eyes, and he thought, complacently, that he had
+“If you can believe that I am of such a [[Nature|nature]] now,”—he fancied he saw
+[[Tears|tears]] glistening in her eyes, and he thought, complacently, that he had
 forced them from her, though none fell on her cheek, and she regarded
 him as steadily as ever,—“as would make what I now say almost
 incredible to myself, said to any man who had become my husband, but,
 above all, said to you, you may, perhaps, attach the greater weight to
 it. In the dark end to which we are tending, and may come, we shall not
-involve ourselves alone (that might not be much) but others.”
+involve ourselves [[Alone|alone]] (that might not be much) but others.”
 
 Others! He knew at whom that word pointed, and frowned heavily.
 
 “I speak to you for the sake of others. Also your own sake; and for
-mine. Since our marriage, you have been arrogant to me; and I have
+mine. Since our [[Marriage|marriage]], you have been arrogant to me; and I have
 repaid you in kind. You have shown to me and everyone around us, every
 day and hour, that you think I am graced and distinguished by your
 alliance. I do not think so, and have shown that too. It seems you do
@@ -373,10 +373,10 @@ Although her face was still the same, there was emphatic confirmation
 of this “Never” in the very breath she drew.
 
 “I feel no tenderness towards you; that you know. You would care
-nothing for it, if I did or could. I know as well that you feel none
+nothing for it, if I did or could. I know as [[Well|well]] that you feel none
 towards me. But we are linked together; and in the knot that ties us,
 as I have said, others are bound up. We must both die; we are both
-connected with the dead already, each by a little child. Let us
+connected with the dead already, each by a little [[Child|child]]. Let us
 forbear.”
 
 Mr Dombey took a long respiration, as if he would have said, Oh! was
@@ -389,19 +389,19 @@ away as idle breath, no wealth or power can bring them back. I mean
 them; I have weighed them; and I will be true to what I undertake. If
 you will promise to forbear on your part, I will promise to forbear on
 mine. We are a most unhappy pair, in whom, from different causes, every
-sentiment that blesses marriage, or justifies it, is rooted out; but in
-the course of time, some friendship, or some fitness for each other,
-may arise between us. I will try to hope so, if you will make the
+sentiment that blesses [[Marriage|marriage]], or justifies it, is rooted out; but in
+the course of [[Time|time]], some [[Friendship|friendship]], or some fitness for each other,
+may arise between us. I will try to [[Hope|hope]] so, if you will make the
 endeavour too; and I will look forward to a better and a happier use of
 age than I have made of youth or prime.”
 
-Throughout she had spoken in a low plain voice, that neither rose nor
+Throughout she had spoken in a low plain voice, that neither [[Rose|rose]] nor
 fell; ceasing, she dropped the hand with which she had enforced herself
 to be so passionless and distinct, but not the eyes with which she had
 so steadily observed him.
 
 “Madam,” said Mr Dombey, with his utmost dignity, “I cannot entertain
-any proposal of this extraordinary nature.”
+any proposal of this extraordinary [[Nature|nature]].”
 
 She looked at him yet, without the least change.
 
@@ -431,12 +431,12 @@ glass.
 feeling, and better reflection, Madam,” said Mr Dombey.
 
 She answered not one word. He saw no more expression of any heed of
-him, in the mirror, than if he had been an unseen spider on the wall,
+him, in the [[Mirror|mirror]], than if he had been an unseen spider on the wall,
 or beetle on the floor, or rather, than if he had been the one or
 other, seen and crushed when she last turned from him, and forgotten
 among the ignominious and dead vermin of the ground.
 
-He looked back, as he went out at the door, upon the well-lighted and
+He looked back, as he went out at the door, upon the [[Well|well]]-lighted and
 luxurious room, the beautiful and glittering objects everywhere
 displayed, the shape of Edith in its rich dress seated before her
 glass, and the face of Edith as the glass presented it to him; and
@@ -449,16 +449,16 @@ For the rest, Mr Dombey was very taciturn, and very dignified, and very
 confident of carrying out his purpose; and remained so.
 
 He did not design accompanying the family to Brighton; but he
-graciously informed Cleopatra at breakfast, on the morning of
+graciously informed [[Cleopatra]] at breakfast, on the morning of
 departure, which arrived a day or two afterwards, that he might be
-expected down, soon. There was no time to be lost in getting Cleopatra
+expected down, soon. There was no [[Time|time]] to be lost in getting [[Cleopatra]]
 to any place recommended as being salutary; for, indeed, she seemed
 upon the wane, and turning of the earth, earthy.
 
 Without having undergone any decided second attack of her malady, the
 old woman seemed to have crawled backward in her recovery from the
 first. She was more lean and shrunken, more uncertain in her
-imbecility, and made stranger confusions in her mind and memory. Among
+imbecility, and made stranger confusions in her mind and [[Memory|memory]]. Among
 other symptoms of this last affliction, she fell into the habit of
 confounding the names of her two sons-in-law, the living and the
 deceased; and in general called Mr Dombey, either “Grangeby,” or
@@ -471,7 +471,7 @@ baby’s. It was not easy to put her into a fly-away bonnet now, or to
 keep the bonnet in its place on the back of her poor nodding head, when
 it was got on. In this instance, it had not only the extraneous effect
 of being always on one side, but of being perpetually tapped on the
-crown by Flowers the maid, who attended in the background during
+[[Crown|crown]] by [[Flowers]] the maid, who attended in the background during
 breakfast to perform that duty.
 
 “Now, my dearest Grangeby,” said Mrs Skewton, “you must posively prom,”
@@ -489,8 +489,8 @@ disinterested composure of an immortal being, said:
 
 “Begad, Ma’am, you don’t ask old Joe to come!”
 
-“Sterious wretch, who’s he?” lisped Cleopatra. But a tap on the bonnet
-from Flowers seeming to jog her memory, she added, “Oh! You mean
+“Sterious wretch, who’s he?” lisped [[Cleopatra]]. But a tap on the bonnet
+from [[Flowers]] seeming to jog her [[Memory|memory]], she added, “Oh! You mean
 yourself, you naughty creature!”
 
 “Devilish queer, Sir,” whispered the Major to Mr Dombey. “Bad case.
@@ -499,18 +499,18 @@ who should J. B. mean by Joe, but old Joe Bagstock—Joseph—your
 slave—Joe, Ma’am? Here! Here’s the man! Here are the Bagstock bellows,
 Ma’am!” cried the Major, striking himself a sounding blow on the chest.
 
-“My dearest Edith—Grangeby—it’s most trordinry thing,” said Cleopatra,
+“My dearest Edith—Grangeby—it’s most trordinry thing,” said [[Cleopatra]],
 pettishly, “that Major—”
 
 “Bagstock! J. B.!” cried the Major, seeing that she faltered for his
 name.
 
-“Well, it don’t matter,” said Cleopatra. “Edith, my love, you know I
+“[[Well]], it don’t matter,” said [[Cleopatra]]. “Edith, my [[Love|love]], you know I
 never could remember names—what was it? oh!—most trordinry thing that
 so many people want to come down to see me. I’m not going for long. I’m
 coming back. Surely they can wait, till I come back!”
 
-Cleopatra looked all round the table as she said it, and appeared very
+[[Cleopatra]] looked all round the table as she said it, and appeared very
 uneasy.
 
 “I won’t have visitors—really don’t want visitors,” she said; “little
@@ -529,11 +529,11 @@ received these directions with becoming deference, and gave his
 guarantee for their execution; but when he withdrew a pace or two
 behind her, it appeared as if he couldn’t help looking strangely at the
 Major, who couldn’t help looking strangely at Mr Dombey, who couldn’t
-help looking strangely at Cleopatra, who couldn’t help nodding her
+help looking strangely at [[Cleopatra]], who couldn’t help nodding her
 bonnet over one eye, and rattling her knife and fork upon her plate in
 using them, as if she were playing castanets.
 
-Edith alone never lifted her eyes to any face at the table, and never
+Edith [[Alone|alone]] never lifted her eyes to any face at the table, and never
 seemed dismayed by anything her mother said or did. She listened to her
 disjointed talk, or at least, turned her head towards her when
 addressed; replied in a few low words when necessary; and sometimes
@@ -543,7 +543,7 @@ however unsteady in other things, was constant in this—that she was
 always observant of her. She would look at the beautiful face, in its
 marble stillness and severity, now with a kind of fearful admiration;
 now in a giggling foolish effort to move it to a smile; now with
-capricious tears and jealous shakings of her head, as imagining herself
+capricious [[Tears|tears]] and jealous shakings of her head, as imagining herself
 neglected by it; always with an attraction towards it, that never
 fluctuated like her other ideas, but had constant possession of her.
 From Edith she would sometimes look at Florence, and back again at
@@ -553,26 +553,26 @@ it she seemed forced to come, although it never sought hers unless
 sought, or troubled her with one single glance.
 
 The breakfast concluded, Mrs Skewton, affecting to lean girlishly upon
-the Major’s arm, but heavily supported on the other side by Flowers the
+the Major’s arm, but heavily supported on the other side by [[Flowers]] the
 maid, and propped up behind by Withers the page, was conducted to the
 carriage, which was to take her, Florence, and Edith to Brighton.
 
 “And is Joseph absolutely banished?” said the Major, thrusting in his
-purple face over the steps. “Damme, Ma’am, is Cleopatra so hard-hearted
+purple face over the steps. “Damme, Ma’am, is [[Cleopatra]] so hard-hearted
 as to forbid her faithful Antony Bagstock to approach the presence?”
 
-“Go along!” said Cleopatra, “I can’t bear you. You shall see me when I
+“Go along!” said [[Cleopatra]], “I can’t bear you. You shall see me when I
 come back, if you are very good.”
 
-“Tell Joseph, he may live in hope, Ma’am,” said the Major; “or he’ll
-die in despair.”
+“Tell Joseph, he may live in [[Hope|hope]], Ma’am,” said the Major; “or he’ll
+die in [[Despair|despair]].”
 
-Cleopatra shuddered, and leaned back. “Edith, my dear,” she said. “Tell
+[[Cleopatra]] shuddered, and leaned back. “Edith, my dear,” she said. “Tell
 him—”
 
 “What?”
 
-“Such dreadful words,” said Cleopatra. “He uses such dreadful words!”
+“Such dreadful words,” said [[Cleopatra]]. “He uses such dreadful words!”
 
 Edith signed to him to retire, gave the word to go on, and left the
 objectionable Major to Mr Dombey. To whom he returned, whistling.
@@ -584,19 +584,19 @@ Queer Street.”
 “What do you mean, Major?” inquired Mr Dombey.
 
 “I mean to say, Dombey,” returned the Major, “that you’ll soon be an
-orphan-in-law.”
+[[Orphan|orphan]]-in-law.”
 
 Mr Dombey appeared to relish this waggish description of himself so
-very little, that the Major wound up with the horse’s cough, as an
+very little, that the Major wound up with the [[Horse|horse]]’s cough, as an
 expression of gravity.
 
 “Damme, Sir,” said the Major, “there is no use in disguising a fact.
-Joe is blunt, Sir. That’s his nature. If you take old Josh at all, you
+Joe is blunt, Sir. That’s his [[Nature|nature]]. If you take old Josh at all, you
 take him as you find him; and a devilish rusty, old rasper, of a
 close-toothed, J. B. file, you do find him. Dombey,” said the Major,
 “your wife’s mother is on the move, Sir.”
 
-“I fear,” returned Mr Dombey, with much philosophy, “that Mrs Skewton
+“I [[Fear|fear]],” returned Mr Dombey, with much [[philosophy]], “that Mrs Skewton
 is shaken.”
 
 “Shaken, Dombey!” said the Major. “Smashed!”
@@ -618,25 +618,25 @@ wanted, coming within the “genuine old English” classification, which
 has never been exactly ascertained, took his lobster-eyes and his
 apoplexy to the club, and choked there all day.
 
-Cleopatra, at one time fretful, at another self-complacent, sometimes
+[[Cleopatra]], at one [[Time|time]] fretful, at another [[Self|self]]-complacent, sometimes
 awake, sometimes asleep, and at all times juvenile, reached Brighton
-the same night, fell to pieces as usual, and was put away in bed; where
-a gloomy fancy might have pictured a more potent skeleton than the
-maid, who should have been one, watching at the rose-coloured curtains,
+the same [[Night|night]], fell to pieces as usual, and was put away in bed; where
+a gloomy fancy might have pictured a more potent [[skeleton]] than the
+maid, who should have been one, watching at the [[Rose|rose]]-coloured curtains,
 which were carried down to shed their bloom upon her.
 
 It was settled in high council of medical authority that she should
 take a carriage airing every day, and that it was important she should
 get out every day, and walk if she could. Edith was ready to attend
 her—always ready to attend her, with the same mechanical attention and
-immovable beauty—and they drove out alone; for Edith had an uneasiness
+immovable [[Beauty|beauty]]—and they drove out [[Alone|alone]]; for Edith had an uneasiness
 in the presence of Florence, now that her mother was worse, and told
-Florence, with a kiss, that she would rather they two went alone.
+Florence, with a kiss, that she would rather they two went [[Alone|alone]].
 
 Mrs Skewton, on one particular day, was in the irresolute, exacting,
 jealous temper that had developed itself on her recovery from her first
 attack. After sitting silent in the carriage watching Edith for some
-time, she took her hand and kissed it passionately. The hand was
+[[Time|time]], she took her hand and kissed it passionately. The hand was
 neither given nor withdrawn, but simply yielded to her raising of it,
 and being released, dropped down again, almost as if it were
 insensible. At this she began to whimper and moan, and say what a
@@ -649,18 +649,18 @@ following at a little distance.
 It was a bleak, lowering, windy day, and they were out upon the Downs
 with nothing but a bare sweep of land between them and the sky. The
 mother, with a querulous satisfaction in the monotony of her complaint,
-was still repeating it in a low voice from time to time, and the proud
+was still repeating it in a low voice from [[Time|time]] to [[Time|time]], and the proud
 form of her daughter moved beside her slowly, when there came advancing
 over a dark ridge before them, two other figures, which in the
-distance, were so like an exaggerated imitation of their own, that
+distance, were so like an exaggerated [[Imitation|imitation]] of their own, that
 Edith stopped.
 
 Almost as she stopped, the two figures stopped; and that one which to
-Edith’s thinking was like a distorted shadow of her mother, spoke to
+Edith’s thinking was like a distorted [[Shadow|shadow]] of her mother, spoke to
 the other, earnestly, and with a pointing hand towards them. That one
 seemed inclined to turn back, but the other, in which Edith recognised
 enough that was like herself to strike her with an unusual feeling, not
-quite free from fear, came on; and then they came on together.
+quite free from [[Fear|fear]], came on; and then they came on together.
 
 [Illustration]
 
@@ -670,14 +670,14 @@ her that they were poorly dressed, as wanderers about the country; that
 the younger woman carried knitted work or some such goods for sale; and
 that the old one toiled on empty-handed.
 
-And yet, however far removed she was in dress, in dignity, in beauty,
+And yet, however far removed she was in dress, in dignity, in [[Beauty|beauty]],
 Edith could not but compare the younger woman with herself, still. It
 may have been that she saw upon her face some traces which she knew
-were lingering in her own soul, if not yet written on that index; but,
+were lingering in her own [[Soul|soul]], if not yet written on that index; but,
 as the woman came on, returning her gaze, fixing her shining eyes upon
 her, undoubtedly presenting something of her own air and stature, and
 appearing to reciprocate her own thoughts, she felt a chill creep over
-her, as if the day were darkening, and the wind were colder.
+her, as if the day were darkening, and the [[Wind|wind]] were colder.
 
 They had now come up. The old woman, holding out her hand
 importunately, stopped to beg of Mrs Skewton. The younger one stopped
@@ -724,19 +724,19 @@ that. You’re all affection and et cetera, ain’t you?”
 
 “Yes, I’m sure you are; and so’s that gentlemanly creature Grangeby. I
 must really shake hands with you again. And now you can go, you know;
-and I hope,” addressing the daughter, “that you’ll show more gratitude,
+and I [[Hope|hope]],” addressing the daughter, “that you’ll show more gratitude,
 and natural what’s-its-name, and all the rest of it—but I never
 remember names—for there never was a better mother than the good old
 creature’s been to you. Come, Edith!”
 
-As the ruin of Cleopatra tottered off whimpering, and wiping its eyes
+As the ruin of [[Cleopatra]] tottered off whimpering, and wiping its eyes
 with a gingerly remembrance of rouge in their neighbourhood, the old
 woman hobbled another way, mumbling and counting her money. Not one
 word more, nor one other gesture, had been exchanged between Edith and
 the younger woman, but neither had removed her eyes from the other for
 a moment. They had remained confronted until now, when Edith, as
-awakening from a dream, passed slowly on.
+awakening from [[A Dream|a dream]], passed slowly on.
 
-“You’re a handsome woman,” muttered her shadow, looking after her; “but
-good looks won’t save us. And you’re a proud woman; but pride won’t
+“You’re a handsome woman,” muttered her [[Shadow|shadow]], looking after her; “but
+good looks won’t save us. And you’re a proud woman; but [[Pride|pride]] won’t
 save us. We had need to know each other when we meet again!”

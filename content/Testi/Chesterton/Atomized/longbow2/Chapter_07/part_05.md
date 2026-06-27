@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 7 (part 5)"
+title: "[[longbow2]] — Chapter 7 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -33,15 +33,15 @@ of Sir Horace Hunter, O.B.E., smiling in an ingratiating manner
 at his favourite cockatoo.  We know this detail of his existence,
 which might seem a merely domestic one.  But the fact that he is shortly
 to be paid thirty thousand pounds of public money, for continuing
-to live in his own house, is concealed with the utmost delicacy.
+to live in his own [[house]], is concealed with the utmost delicacy.
 
 "Similarly we have seen whole pages of an illustrated paper
 filled with glimpses of Lord Normantowers enjoying his honeymoon,
-which the papers in question are careful to describe as his Romance. 
+which the papers in question are careful to describe as his [[Romance]]. 
 Whatever it may be, an antiquated and fastidious taste might
 possibly be disposed to regard it as his own affair.  But the fact
 that the taxpayer's money, which is the taxpayer's affair, is to be
-given him in enormous quantities, first for going out of his castle,
+given him in enormous quantities, first for going out of his [[Castle|castle]],
 and then for coming back into it--this little domestic detail
 is thought too trivial for the taxpayer to be told of it.
 
@@ -49,8 +49,8 @@ is thought too trivial for the taxpayer to be told of it.
 Low is improving the breed of Pekinese, and God knows they need it. 
 But it would seem the sort of hobby that anybody might have without
 telling everybody else about it.  On the other hand, the fact
-that Mr. Rosenbaum Low is being paid twice over for the same house,
-and keeping the house as well, is concealed from the public;
+that Mr. Rosenbaum Low is being paid twice over for the same [[house]],
+and keeping the [[house]] as [[Well|well]], is concealed from the public;
 along with the equally interesting fact that he is allowed to do
 these things chiefly because he lends money to the Prime Minister."
 
@@ -62,7 +62,7 @@ apparently connected with any particular election.
 
 
 "Vote for Crane.  He Said He would Heat His Hat and Did It. 
-Lord Normantowers said he would explain how people came to swallow
+Lord Normantowers said he would explain how people came to [[Swallow|swallow]]
 his coronet; but he hasn't done it yet.
 
 "Vote for Pierce.  He Said Pigs Would Fly And They Did.  Rosenbaum Low
@@ -73,9 +73,9 @@ and they didn't. It was your money he made to fly.
 Don't Tell Lies."
 
 
-The Prime Minister stood gazing after the vanishing cloud-castle,
+The Prime Minister stood gazing after the vanishing cloud-[[Castle|castle]],
 as it faded into the clouds, with a curious expression in his eyes. 
-Whether it were better or worse for his soul, there was something
+Whether it were better or worse for his [[Soul|soul]], there was something
 in him that understood much that the muddled materialists around him
 could never understand.
 
@@ -87,7 +87,7 @@ So is the thunderbolt.'"
 "Thunderbolts!" said Normantowers contemptuously.  "What can
 these fools do but go about flinging fireworks?"
 
-"Quite so," replied Eden; "but I'm afraid by this time they are
+"Quite so," replied Eden; "but I'm afraid by this [[Time|time]] they are
 flinging fireworks into a powder-magazine."
 
 He continued to gaze into the sky with screwed-up eyes,
@@ -97,34 +97,34 @@ If his eye could really have followed the thing after which he gazed,
 he would have been surprised; if his unfathomable scepticism was
 still capable of surprise.  It passed over woods and meadows like
 a sunset cloud towards the sunset, or a little to the north-west
-of it, like the fairy castle that was west of the moon.  It left
+of it, like the fairy [[Castle|castle]] that was west of the [[Moon|moon]].  It left
 behind the green orchards and the red towers of Hereford and passed
 into bare places whose towers are mightier than any made by man,
 where they buttress the mighty wall of Wales.  Far away in this
 wilderness of columned cliffs and clefts it found a cleft or hollow,
 along the floor of which ran a dark line that might have been
-a black river running through a rocky valley.  But it was in fact
-a crack opening below into another abyss.  The strange flying-ship
+a black [[River|river]] running through a rocky valley.  But it was in fact
+a crack opening below into another abyss.  The strange flying-[[Ship|ship]]
 followed the course of the winding fissure till it came to a place
 where the crack opened into a chasm, round like a cauldron and
 accidental as the knot in some colossal tree-trunk; through which
 it sank, entering the twilight of the tremendous cavern beneath. 
 The abyss below was lit here and there with artificial lights,
-like fallen stars of the underworld, and bridged with wooden
+like fallen [[Stars|stars]] of the underworld, and bridged with wooden
 platforms and galleries, on which were wooden huts and huge
 packing-cases and many things somewhat suggestive of a munition dump. 
 On the rocky walls were spread out various balloon coverings,
-some of them even more grotesque in outline than the castle. 
-Some were in the shapes of animals; and on that primeval background
+some of them even more [[Grotesque|grotesque]] in outline than the [[Castle|castle]]. 
+Some were in the shapes of [[Animals|animals]]; and on that primeval background
 looked like the last fossils, or possibly the first outlines of vast
 prehistoric creatures.  Perhaps there was something suggestive
 in the fancy that in that underworld a new world was being created. 
-The man who alighted from the flying castle recognized, almost as
+The man who alighted from the flying [[Castle|castle]] recognized, almost as
 one recognizes a domestic pet, the outline of a highly primitive
 pig stretching like a large archaic drawing across the wall. 
 For the young man was called Hilary Pierce, and had had previous
 dealings with the flying pig, though for that day he had been put in
-charge of the flying castle.
+charge of the flying [[Castle|castle]].
 
 On the platform on which he alighted stood a table covered
 with papers, with almost more papers than Lord Eden's table. 

@@ -18,12 +18,12 @@ XI
 
 The Twelve Men
 
-The other day, while I was meditating on morality and Mr. H. Pitt, I was,
+The other day, while I was meditating on [[morality]] and Mr. H. Pitt, I was,
 so to speak, snatched up and put into a jury box to try people.
 The snatching took some weeks, but to me it seemed something sudden
 and arbitrary.  I was put into this box because I lived in Battersea,
 and my name began with a C. Looking round me, I saw that there were
-also summoned and in attendance in the court whole crowds and processions
+also summoned and in attendance in the [[Court|court]] whole crowds and processions
 of men, all of whom lived in Battersea, and all of whose names began
 with a C.
 
@@ -32,54 +32,54 @@ alphabetical way.  At one official blow, so to speak,
 Battersea is denuded of all its C's, and left to get on
 as best it can with the rest of the alphabet.  A Cumberpatch
 is missing from one street--a Chizzolpop from another--
-three Chucksterfields from Chucksterfield House; the children
+three Chucksterfields from Chucksterfield [[house|House]]; the children
 are crying out for an absent Cadgerboy; the woman at the street
 corner is weeping for her Coffintop, and will not be comforted.
 We settle down with a rollicking ease into our seats
 (for we are a bold, devil-may-care race, the C's of Battersea),
 and an oath is administered to us in a totally inaudible manner
-by an individual resembling an Army surgeon in his second childhood.
-We understand, however, that we are to well and truly try the case
-between our sovereign lord the King and the prisoner at the bar,
+by an individual resembling an Army surgeon in his second [[Childhood|childhood]].
+We understand, however, that we are to [[Well|well]] and truly try the case
+between our sovereign lord the [[King]] and the prisoner at the bar,
 neither of whom has put in an appearance as yet.
 
 . . . . .
 
-Just when I was wondering whether the King and the prisoner
+Just when I was wondering whether the [[King]] and the prisoner
 were, perhaps, coming to an amicable understanding in some
-adjoining public house, the prisoner's head appears above
+adjoining public [[house]], the prisoner's head appears above
 the barrier of the dock; he is accused of stealing bicycles,
 and he is the living image of a great friend of mine.
 We go into the matter of the stealing of the bicycles.
-We do well and truly try the case between the King
+We do [[Well|well]] and truly try the case between the [[King]]
 and the prisoner in the affair of the bicycles.
 And we come to the conclusion, after a brief but reasonable
-discussion, that the King is not in any way implicated.
+discussion, that the [[King]] is not in any way implicated.
 Then we pass on to a woman who neglected her children,
 and who looks as if somebody or something had neglected her.
 And I am one of those who fancy that something had.
 
-All the time that the eye took in these light appearances
+All the [[Time|time]] that the eye took in these light appearances
 and the brain passed these light criticisms, there was in
-the heart a barbaric pity and fear which men have never been
+the heart a barbaric pity and [[Fear|fear]] which men have never been
 able to utter from the beginning, but which is the power behind
-half the poems of the world.  The mood cannot even adequately
-be suggested, except faintly by this statement that tragedy
+half the [[Poems|poems]] of the world.  The mood cannot even adequately
+be suggested, except faintly by this statement that [[Tragedy|tragedy]]
 is the highest expression of the infinite value of human life.
-Never had I stood so close to pain; and never so far away
+Never had I stood so close to [[Pain|pain]]; and never so far away
 from pessimism.  Ordinarily, I should not have spoken of these
 dark emotions at all, for speech about them is too difficult;
 but I mention them now for a specific and particular
 reason to the statement of which I will proceed at once.
 I speak these feelings because out of the furnace of them there
-came a curious realisation of a political or social truth.
+came a curious realisation of a political or social [[Truth|truth]].
 I saw with a queer and indescribable kind of clearness what
 a jury really is, and why we must never let it go.
 
-The trend of our epoch up to this time has been consistently towards
+The trend of our epoch up to this [[Time|time]] has been consistently towards
 specialism and professionalism.  We tend to have trained soldiers
 because they fight better, trained singers because they sing better,
-trained dancers because they dance better, specially instructed
+trained dancers because they [[Dance|dance]] better, specially instructed
 laughers because they laugh better, and so on and so on.
 The principle has been applied to law and politics by innumerable
 modern writers.  Many Fabians have insisted that a greater
@@ -100,8 +100,8 @@ yet we cannot easily state them in words without being guilty
 of seeming verbal contradictions.  One of them, for instance,
 is the unimpeachable platitude that the man who finds most
 pleasure for himself is often the man who least hunts for it.
-Another is the paradox of courage; the fact that the way
-to avoid death is not to have too much aversion to it.
+Another is the [[Paradox|paradox]] of [[Courage|courage]]; the fact that the way
+to avoid [[Death|death]] is not to have too much aversion to it.
 Whoever is careless enough of his bones to climb some hopeful
 cliff above the tide may save his bones by that carelessness.
 Whoever will lose his life, the same shall save it;
@@ -117,7 +117,7 @@ if it were really true that a man who studied a thing and practiced
 it every day went on seeing more and more of its significance.
 But he does not.  He goes on seeing less and less of its significance.
 In the same way, alas! we all go on every day, unless we are
-continually goading ourselves into gratitude and humility,
+continually goading ourselves into gratitude and [[Humility|humility]],
 seeing less and less of the significance of the sky or the stones.
 
 . . . . .
@@ -133,18 +133,18 @@ that they have got used to it.
 
 Strictly they do not see the prisoner in the dock; all they
 see is the usual man in the usual place.  They do not see
-the awful court of judgment; they only see their own workshop.
+the awful [[Court|court]] of judgment; they only see their own workshop.
 Therefore, the instinct of Christian civilisation has most wisely
 declared that into their judgments there shall upon every occasion
-be infused fresh blood and fresh thoughts from the streets.
-Men shall come in who can see the court and the crowd,
+be infused fresh [[Blood|blood]] and fresh thoughts from the streets.
+Men shall come in who can see the [[Court|court]] and the crowd,
 and coarse faces of the policeman and the professional criminals,
 the wasted faces of the wastrels, the unreal faces of the
 gesticulating counsel, and see it all as one sees a new picture
 or a play hitherto unvisited.
 
 Our civilisation has decided, and very justly decided,
-that determining the guilt or innocence of men is a thing too
+that determining the [[Guilt|guilt]] or [[innocence]] of men is a thing too
 important to be trusted to trained men.  It wishes for light upon
 that awful matter, it asks men who know no more law than I know,
 but who can feel the things that I felt in the jury box.
@@ -153,4 +153,4 @@ or any trifle of that kind, it uses up specialists.
 But when it wishes anything done which is really serious,
 it collects twelve of the ordinary men standing round.
 The same thing was done, if I remember right, by the
-Founder of Christianity.
+Founder of [[Christianity]].

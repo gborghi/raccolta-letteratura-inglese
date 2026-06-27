@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 20 (part 1)"
+title: "[[Wuthering Heights]] — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XX
 
 
 To obviate the danger of this threat being fulfilled, Mr. Linton
-commissioned me to take the boy home early, on Catherine’s pony; and,
+commissioned me to take the boy [[Home|home]] early, on Catherine’s pony; and,
 said he—“As we shall now have no influence over his destiny, good or
 bad, you must say nothing of where he is gone to my daughter: she
 cannot associate with him hereafter, and it is better for her to remain
@@ -26,20 +26,20 @@ in ignorance of his proximity; lest she should be restless, and anxious
 to visit the Heights. Merely tell her his father sent for him suddenly,
 and he has been obliged to leave us.”
 
-Linton was very reluctant to be roused from his bed at five o’clock,
+Linton was very reluctant to be roused from his bed at five o’[[Clock|clock]],
 and astonished to be informed that he must prepare for further
 travelling; but I softened off the matter by stating that he was going
-to spend some time with his father, Mr. Heathcliff, who wished to see
+to spend some [[Time|time]] with his father, Mr. [[Heathcliff]], who wished to see
 him so much, he did not like to defer the pleasure till he should
-recover from his late journey.
+recover from his late [[Journey|journey]].
 
 “My father!” he cried, in strange perplexity. “Mamma never told me I
 had a father. Where does he live? I’d rather stay with uncle.”
 
 “He lives a little distance from the Grange,” I replied; “just beyond
 those hills: not so far, but you may walk over here when you get
-hearty. And you should be glad to go home, and to see him. You must try
-to love him, as you did your mother, and then he will love you.”
+hearty. And you should be glad to go [[Home|home]], and to see him. You must try
+to [[Love|love]] him, as you did your mother, and then he will [[Love|love]] you.”
 
 “But why have I not heard of him before?” asked Linton. “Why didn’t
 mamma and he live together, as other people do?”
@@ -47,14 +47,14 @@ mamma and he live together, as other people do?”
 “He had business to keep him in the north,” I answered, “and your
 mother’s health required her to reside in the south.”
 
-“And why didn’t mamma speak to me about him?” persevered the child.
-“She often talked of uncle, and I learnt to love him long ago. How am I
-to love papa? I don’t know him.”
+“And why didn’t mamma speak to me about him?” persevered the [[Child|child]].
+“She often talked of uncle, and I learnt to [[Love|love]] him long ago. How am I
+to [[Love|love]] papa? I don’t know him.”
 
-“Oh, all children love their parents,” I said. “Your mother, perhaps,
+“Oh, all children [[Love|love]] their parents,” I said. “Your mother, perhaps,
 thought you would want to be with him if she mentioned him often to
 you. Let us make haste. An early ride on such a beautiful morning is
-much preferable to an hour’s more sleep.”
+much preferable to an hour’s more [[Sleep|sleep]].”
 
 “Is _she_ to go with us,” he demanded, “the little girl I saw
 yesterday?”
@@ -74,24 +74,24 @@ I attempted to persuade him of the naughtiness of showing reluctance to
 meet his father; still he obstinately resisted any progress towards
 dressing, and I had to call for my master’s assistance in coaxing him
 out of bed. The poor thing was finally got off, with several delusive
-assurances that his absence should be short: that Mr. Edgar and Cathy
+assurances that his absence should be short: that Mr. [[Edgar]] and Cathy
 would visit him, and other promises, equally ill-founded, which I
 invented and reiterated at intervals throughout the way. The pure
 heather-scented air, the bright sunshine, and the gentle canter of
 Minny, relieved his despondency after a while. He began to put
-questions concerning his new home, and its inhabitants, with greater
+questions concerning his new [[Home|home]], and its inhabitants, with greater
 interest and liveliness.
 
-“Is Wuthering Heights as pleasant a place as Thrushcross Grange?” he
+“Is [[Wuthering Heights]] as pleasant a place as Thrushcross Grange?” he
 inquired, turning to take a last glance into the valley, whence a light
 mist mounted and formed a fleecy cloud on the skirts of the blue.
 
 “It is not so buried in trees,” I replied, “and it is not quite so
 large, but you can see the country beautifully all round; and the air
 is healthier for you—fresher and drier. You will, perhaps, think the
-building old and dark at first; though it is a respectable house: the
+building old and dark at first; though it is a respectable [[house]]: the
 next best in the neighbourhood. And you will have such nice rambles on
-the moors. Hareton Earnshaw—that is, Miss Cathy’s other cousin, and so
+the moors. [[Hareton Earnshaw]]—that is, Miss Cathy’s other cousin, and so
 yours in a manner—will show you all the sweetest spots; and you can
 bring a book in fine weather, and make a green hollow your study; and,
 now and then, your uncle may join you in a walk: he does, frequently,
@@ -120,13 +120,13 @@ remember not a single thing about him!”
 
 “Why, Master Linton,” said I, “three hundred miles is a great distance;
 and ten years seem very different in length to a grown-up person
-compared with what they do to you. It is probable Mr. Heathcliff
-proposed going from summer to summer, but never found a convenient
+compared with what they do to you. It is probable Mr. [[Heathcliff]]
+proposed going from [[Summer|summer]] to [[Summer|summer]], but never found a convenient
 opportunity; and now it is too late. Don’t trouble him with questions
 on the subject: it will disturb him, for no good.”
 
 The boy was fully occupied with his own cogitations for the remainder
-of the ride, till we halted before the farmhouse garden-gate. I watched
+of the ride, till we halted before the farmhouse [[Garden|garden]]-gate. I watched
 to catch his impressions in his countenance. He surveyed the carved
 front and low-browed lattices, the straggling gooseberry-bushes and
 crooked firs, with solemn intentness, and then shook his head: his
@@ -135,9 +135,9 @@ But he had sense to postpone complaining: there might be compensation
 within. Before he dismounted, I went and opened the door. It was
 half-past six; the family had just finished breakfast: the servant was
 clearing and wiping down the table. Joseph stood by his master’s chair
-telling some tale concerning a lame horse; and Hareton was preparing
+telling some tale concerning a lame [[Horse|horse]]; and Hareton was preparing
 for the hayfield.
 
-“Hallo, Nelly!” said Mr. Heathcliff, when he saw me. “I feared I should
+“Hallo, Nelly!” said Mr. [[Heathcliff]], when he saw me. “I feared I should
 have to come down and fetch my property myself. You’ve brought it, have
 you? Let us see what we can make of it.”

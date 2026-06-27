@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 7)"
+title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -28,7 +28,7 @@ will take care of them, under the authority I mentioned.’
 ‘Under such circumstances,’ answered Traddles, ‘yes.’
 
 What was my astonishment when I beheld my aunt, who had been profoundly
-quiet and attentive, make a dart at Uriah Heep, and seize him by the
+quiet and attentive, make a dart at [[Uriah Heep]], and seize him by the
 collar with both hands!
 
 ‘You know what I want?’ said my aunt.
@@ -84,7 +84,7 @@ partnership books and papers must remain in our possession; all your
 books and papers; all money accounts and securities, of both kinds. In
 short, everything here.’
 
-‘Must it? I don’t know that,’ said Uriah. ‘I must have time to think
+‘Must it? I don’t know that,’ said Uriah. ‘I must have [[Time|time]] to think
 about that.’
 
 ‘Certainly,’ replied Traddles; ‘but, in the meanwhile, and until
@@ -96,8 +96,8 @@ room, and hold no communication with anyone.’
 
 ‘Maidstone jail is a safer place of detention,’ observed Traddles; ‘and
 though the law may be longer in righting us, and may not be able to
-right us so completely as you can, there is no doubt of its punishing
-YOU. Dear me, you know that quite as well as I! Copperfield, will you go
+right us so completely as you can, there is no [[Doubt|doubt]] of its punishing
+YOU. Dear me, you know that quite as [[Well|well]] as I! Copperfield, will you go
 round to the Guildhall, and bring a couple of officers?’
 
 Here, Mrs. Heep broke out again, crying on her knees to Agnes to
@@ -107,11 +107,11 @@ more to the same purpose; being half frantic with fears for her darling.
 To inquire what he might have done, if he had had any boldness, would
 be like inquiring what a mongrel cur might do, if it had the spirit of
 a tiger. He was a coward, from head to foot; and showed his dastardly
-nature through his sullenness and mortification, as much as at any time
+[[Nature|nature]] through his sullenness and mortification, as much as at any [[Time|time]]
 of his mean life.
 
 ‘Stop!’ he growled to me; and wiped his hot face with his hand. ‘Mother,
-hold your noise. Well! Let ‘em have that deed. Go and fetch it!’
+hold your noise. [[Well]]! Let ‘em have that deed. Go and fetch it!’
 
 ‘Do you help her, Mr. Dick,’ said Traddles, ‘if you please.’
 
@@ -134,14 +134,14 @@ room with his hand to his chin, and pausing at the door, said:
 and you’ve always been against me.’
 
 ‘As I think I told you once before,’ said I, ‘it is you who have been,
-in your greed and cunning, against all the world. It may be profitable
-to you to reflect, in future, that there never were greed and cunning in
+in your [[Greed|greed]] and cunning, against all the world. It may be profitable
+to you to reflect, in future, that there never were [[Greed|greed]] and cunning in
 the world yet, that did not do too much, and overreach themselves. It is
-as certain as death.’
+as certain as [[Death|death]].’
 
 ‘Or as certain as they used to teach at school (the same school where I
-picked up so much umbleness), from nine o’clock to eleven, that labour
-was a curse; and from eleven o’clock to one, that it was a blessing and
+picked up so much umbleness), from nine o’[[Clock|clock]] to eleven, that labour
+was a curse; and from eleven o’[[Clock|clock]] to one, that it was a blessing and
 a cheerfulness, and a dignity, and I don’t know what all, eh?’ said
 he with a sneer. ‘You preach, about as consistent as they did.
 Won’t umbleness go down? I shouldn’t have got round my gentleman

@@ -22,40 +22,40 @@ tags:
 
 “If you had,” pursued Mr. Lorry, “perhaps you would attend to it.”
 
-“Lord love you, no!--I shouldn’t,” said Mr. Carton.
+“Lord [[Love|love]] you, no!--I shouldn’t,” said Mr. Carton.
 
-“Well, sir!” cried Mr. Lorry, thoroughly heated by his indifference,
+“[[Well]], sir!” cried Mr. Lorry, thoroughly heated by his indifference,
 “business is a very good thing, and a very respectable thing. And, sir,
 if business imposes its restraints and its silences and impediments, Mr.
 Darnay as a young gentleman of generosity knows how to make allowance
-for that circumstance. Mr. Darnay, good night, God bless you, sir!
-I hope you have been this day preserved for a prosperous and happy
+for that circumstance. Mr. Darnay, good [[Night|night]], God bless you, sir!
+I [[Hope|hope]] you have been this day preserved for a prosperous and happy
 life.--Chair there!”
 
-Perhaps a little angry with himself, as well as with the barrister, Mr.
+Perhaps a little angry with himself, as [[Well|well]] as with the barrister, Mr.
 Lorry bustled into the chair, and was carried off to Tellson’s. Carton,
 who smelt of port wine, and did not appear to be quite sober, laughed
 then, and turned to Darnay:
 
 “This is a strange chance that throws you and me together. This must
-be a strange night to you, standing alone here with your counterpart on
+be a strange [[Night|night]] to you, standing [[Alone|alone]] here with your counterpart on
 these street stones?”
 
-“I hardly seem yet,” returned Charles Darnay, “to belong to this world
+“I hardly seem yet,” returned [[Charles Darnay]], “to belong to this world
 again.”
 
-“I don’t wonder at it; it’s not so long since you were pretty far
+“I don’t [[Wonder|wonder]] at it; it’s not so long since you were pretty far
 advanced on your way to another. You speak faintly.”
 
 “I begin to think I _am_ faint.”
 
 “Then why the devil don’t you dine? I dined, myself, while those
 numskulls were deliberating which world you should belong to--this, or
-some other. Let me show you the nearest tavern to dine well at.”
+some other. Let me show you the nearest tavern to dine [[Well|well]] at.”
 
-Drawing his arm through his own, he took him down Ludgate-hill to
+Drawing his arm through his own, he took him down Ludgate-[[Hill|hill]] to
 Fleet-street, and so, up a covered way, into a tavern. Here, they were
-shown into a little room, where Charles Darnay was soon recruiting
+shown into a little room, where [[Charles Darnay]] was soon recruiting
 his strength with a good plain dinner and good wine: while Carton sat
 opposite to him at the same table, with his separate bottle of port
 before him, and his fully half-insolent manner upon him.
@@ -63,7 +63,7 @@ before him, and his fully half-insolent manner upon him.
 “Do you feel, yet, that you belong to this terrestrial scheme again, Mr.
 Darnay?”
 
-“I am frightfully confused regarding time and place; but I am so far
+“I am frightfully confused regarding [[Time|time]] and place; but I am so far
 mended as to feel that.”
 
 “It must be an immense satisfaction!”
@@ -71,13 +71,13 @@ mended as to feel that.”
 He said it bitterly, and filled up his glass again: which was a large
 one.
 
-“As to me, the greatest desire I have, is to forget that I belong to it.
+“As to me, the greatest [[Desire|desire]] I have, is to forget that I belong to it.
 It has no good in it for me--except wine like this--nor I for it. So we
 are not much alike in that particular. Indeed, I begin to think we are
 not much alike in any particular, you and I.”
 
 Confused by the emotion of the day, and feeling his being there with
-this Double of coarse deportment, to be like a dream, Charles Darnay was
+this [[Double]] of coarse deportment, to be like [[A Dream|a dream]], [[Charles Darnay]] was
 at a loss how to answer; finally, answered not at all.
 
 “Now your dinner is done,” Carton presently said, “why don’t you call a
@@ -134,16 +134,16 @@ not asked myself the question.”
 opinion of your understanding.”
 
 “Nevertheless,” pursued Darnay, rising to ring the bell, “there is
-nothing in that, I hope, to prevent my calling the reckoning, and our
-parting without ill-blood on either side.”
+nothing in that, I [[Hope|hope]], to prevent my calling the reckoning, and our
+parting without ill-[[Blood|blood]] on either side.”
 
 Carton rejoining, “Nothing in life!” Darnay rang. “Do you call the whole
 reckoning?” said Carton. On his answering in the affirmative, “Then
 bring me another pint of this same wine, drawer, and come and wake me at
 ten.”
 
-The bill being paid, Charles Darnay rose and wished him good night.
-Without returning the wish, Carton rose too, with something of a threat
+The bill being paid, [[Charles Darnay]] [[Rose|rose]] and wished him good [[Night|night]].
+Without returning the wish, Carton [[Rose|rose]] too, with something of a threat
 of defiance in his manner, and said, “A last word, Mr. Darnay: you think
 I am drunk?”
 
@@ -159,9 +159,9 @@ care for no man on earth, and no man on earth cares for me.”
 “Much to be regretted. You might have used your talents better.”
 
 “May be so, Mr. Darnay; may be not. Don’t let your sober face elate you,
-however; you don’t know what it may come to. Good night!”
+however; you don’t know what it may come to. Good [[Night|night]]!”
 
-When he was left alone, this strange being took up a candle, went to a
+When he was left [[Alone|alone]], this strange being took up a candle, went to a
 glass that hung against the wall, and surveyed himself minutely in it.
 
 “Do you particularly like the man?” he muttered, at his own image; “why

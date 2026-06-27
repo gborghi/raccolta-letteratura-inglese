@@ -25,19 +25,19 @@ They had started walking in the tracks of the car, leaving it behind
 
 them in the hollow, still humming horribly like a huge insect that
 
-had killed a man. The tracks took them to the corner of the road,
+had killed a man. The tracks took them to the corner of the [[Road|road]],
 
 one arm of which went on in the same line toward the distant gates
 
 of the park. It was clear that the car had been driven down the long
 
-straight road, and then, instead of turning with the road to the
+straight [[Road|road]], and then, instead of turning with the [[Road|road]] to the
 
 left, had gone straight on over the turf to its doom. But it was not
 
 this discovery that had riveted Fisher's eye, but something even
 
-more solid. At the angle of the white road a dark and solitary
+more solid. At the angle of the white [[Road|road]] a dark and solitary
 
 figure was standing almost as still as a finger post. It was that of
 
@@ -57,7 +57,7 @@ something deep and even cavernous about the setting of the eyes
 
 redeemed his animal good looks from the commonplace. But March had
 
-no time to study the man more closely, for, much to his
+no [[Time|time]] to study the man more closely, for, much to his
 
 astonishment, his guide merely observed, "Hullo, Jack!" and walked
 
@@ -72,7 +72,7 @@ The man they had passed looked after them in rather a suspicious
 
 fashion, but Fisher continued serenely on his way along the straight
 
-road that ran past the gates of the great estate.
+[[Road|road]] that ran past the gates of the great estate.
 "That's John Burke, the traveler," he condescended to explain. "I
 
 expect you've heard of him; shoots big game and all that. Sorry I
@@ -86,14 +86,14 @@ on."
 
 only conscious of the closeness of the elephant when the colossal
 
-head blocked out the moon."
-"Yes, young Halkett writes jolly well, I think. What? Didn't you
+head blocked out the [[Moon|moon]]."
+"Yes, young Halkett writes jolly [[Well|well]], I think. What? Didn't you
 
 know Halkett wrote Burke's book for him? Burke can't use anything
 
 except a gun; and you can't write with that. Oh, he's genuine enough
 
-in his way, you know, as brave as a lion, or a good deal braver by
+in his way, you know, as brave as a [[Lion|lion]], or a good deal braver by
 
 all accounts."
 "You seem to know all about him," observed March, with a rather
@@ -113,7 +113,7 @@ That's why I'm really interested, just now, about one thing that I
 don't know."
 "And that is?" inquired the other.
 "Why that poor fellow is dead."
-They had walked along the straight road for nearly a mile,
+They had walked along the straight [[Road|road]] for nearly a mile,
 
 conversing at intervals in this fashion; and March had a singular
 
@@ -136,29 +136,29 @@ They reached the great lodge gates of the park, and, to March's
 
 surprise, passed them and continued along the interminable white,
 
-straight road. But he was himself too early for his appointment with
+straight [[Road|road]]. But he was himself too early for his appointment with
 
 Sir Howard, and was not disinclined to see the end of his new
 
 friend's experiment, whatever it might be. They had long left the
 
-moorland behind them, and half the white road was gray in the great
+moorland behind them, and half the white [[Road|road]] was gray in the great
 
-shadow of the Torwood pine forests, themselves like gray bars
+[[Shadow|shadow]] of the Torwood pine forests, themselves like gray bars
 
-shuttered against the sunshine and within, amid that clear noon,
+shuttered against the sunshine and within, amid that clear [[Noon|noon]],
 
 manufacturing their own midnight. Soon, however, rifts began to
 
 appear in them like gleams of colored windows; the trees thinned and
 
-fell away as the road went forward, showing the wild, irregular
+fell away as the [[Road|road]] went forward, showing the wild, irregular
 
-copses in which, as Fisher said, the house-party had been blazing
+copses in which, as Fisher said, the [[house]]-party had been blazing
 
 away all day. And about two hundred yards farther on they came to
 
-the first turn of the road.
+the first turn of the [[Road|road]].
 At the corner stood a sort of decayed inn with the dingy sign of The
 
 Grapes. The signboard was dark and indecipherable by now, and hung
@@ -173,13 +173,13 @@ for vinegar instead of wine.
 enough to drink wine in it. But the beer is very good, and so is the
 
 brandy."
-March followed him to the bar parlor with some wonder, and his dim
+March followed him to the bar parlor with some [[Wonder|wonder]], and his dim
 
 sense of repugnance was not dismissed by the first sight of the
 
 innkeeper, who was widely different from the genial innkeepers of
 
-romance, a bony man, very silent behind a black mustache, but with
+[[Romance|romance]], a bony man, very silent behind a black mustache, but with
 
 black, restless eyes. Taciturn as he was, the investigator succeeded
 
@@ -191,6 +191,6 @@ subject of motor cars. He evidently regarded the innkeeper as in
 
 some singular way an authority on motor cars; as being deep in the
 
-secrets of the mechanism, management, and mismanagement of motor
+[[Secrets|secrets]] of the mechanism, management, and mismanagement of motor
 
-cars; holding the man all the time with a glittering eye like the
+cars; holding the man all the [[Time|time]] with a glittering eye like the

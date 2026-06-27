@@ -1,5 +1,5 @@
 ---
-title: "heret12 — On the Wit of Whistler (part 3)"
+title: "[[heret12]] — On the Wit of Whistler (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/heret12-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Whistler never ceased to be an artist.  As Mr. Max Beerbohm pointed
+Whistler never ceased to be an [[artist]].  As Mr. Max Beerbohm pointed
 out in one of his extraordinarily sensible and sincere critiques,
 Whistler really regarded Whistler as his greatest work of art.
 The white lock, the single eyeglass, the remarkable hat--
@@ -26,17 +26,17 @@ of aestheticism which is the burden of the amateur.
 
 It need hardly be said that this is the real explanation of the thing
 which has puzzled so many dilettante critics, the problem of the extreme
-ordinariness of the behaviour of so many great geniuses in history.
+ordinariness of the behaviour of so many great geniuses in [[history]].
 Their behaviour was so ordinary that it was not recorded;
 hence it was so ordinary that it seemed mysterious.  Hence people say
 that Bacon wrote Shakespeare.  The modern artistic temperament cannot
 understand how a man who could write such lyrics as Shakespeare wrote,
 could be as keen as Shakespeare was on business transactions in a
 little town in Warwickshire.  The explanation is simple enough;
-it is that Shakespeare had a real lyrical impulse, wrote a real lyric,
+it is that Shakespeare had a real lyrical impulse, wrote a real [[Lyric|lyric]],
 and so got rid of the impulse and went about his business.
-Being an artist did not prevent him from being an ordinary man,
-any more than being a sleeper at night or being a diner at dinner
+Being an [[artist]] did not prevent him from being an ordinary man,
+any more than being a sleeper at [[Night|night]] or being a diner at dinner
 prevented him from being an ordinary man.
 
 All very great teachers and leaders have had this habit
@@ -44,8 +44,8 @@ of assuming their point of view to be one which was human
 and casual, one which would readily appeal to every passing man.
 If a man is genuinely superior to his fellows the first
 thing that he believes in is the equality of man.
-We can see this, for instance, in that strange and innocent
-rationality with which Christ addressed any motley crowd
+We can see this, for instance, in that strange and [[Innocent|innocent]]
+rationality with which [[Christ]] addressed any motley crowd
 that happened to stand about Him.  "What man of you having
 a hundred sheep, and losing one, would not leave the ninety
 and nine in the wilderness, and go after that which was lost?"

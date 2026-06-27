@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 39 (part 6)"
+title: "Bleak [[house|House]] — Chapter 39 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -18,8 +18,8 @@ tags:
 in!”
 
 Mr. Guppy retreats behind a chair. “Small told me of her. She went
-leaping and bounding and tearing about that night like a dragon, and
-got out on the house-top, and roamed about up there for a fortnight,
+leaping and bounding and tearing about that [[Night|night]] like a dragon, and
+got out on the [[house]]-top, and roamed about up there for a fortnight,
 and then came tumbling down the chimney very thin. Did you ever see
 such a brute? Looks as if she knew all about it, don’t she? Almost
 looks as if she was Krook. Shoohoo! Get out, you goblin!”
@@ -28,35 +28,35 @@ Lady Jane, in the doorway, with her tiger snarl from ear to ear and
 her club of a tail, shows no intention of obeying; but Mr.
 Tulkinghorn stumbling over her, she spits at his rusty legs, and
 swearing wrathfully, takes her arched back upstairs. Possibly to roam
-the house-tops again and return by the chimney.
+the [[house]]-tops again and return by the chimney.
 
 “Mr. Guppy,” says Mr. Tulkinghorn, “could I have a word with you?”
 
 Mr. Guppy is engaged in collecting the Galaxy Gallery of British
-Beauty from the wall and depositing those works of art in their old
+[[Beauty]] from the wall and depositing those works of art in their old
 ignoble band-box. “Sir,” he returns, reddening, “I wish to act with
 courtesy towards every member of the profession, and especially, I am
-sure, towards a member of it so well known as yourself—I will truly
+sure, towards a member of it so [[Well|well]] known as yourself—I will truly
 add, sir, so distinguished as yourself. Still, Mr. Tulkinghorn, sir,
 I must stipulate that if you have any word with me, that word is
 spoken in the presence of my friend.”
 
 “Oh, indeed?” says Mr. Tulkinghorn.
 
-“Yes, sir. My reasons are not of a personal nature at all, but they
+“Yes, sir. My reasons are not of a personal [[Nature|nature]] at all, but they
 are amply sufficient for myself.”
 
-“No doubt, no doubt.” Mr. Tulkinghorn is as imperturbable as the
+“No [[Doubt|doubt]], no [[Doubt|doubt]].” Mr. Tulkinghorn is as imperturbable as the
 hearthstone to which he has quietly walked. “The matter is not of
 that consequence that I need put you to the trouble of making any
 conditions, Mr. Guppy.” He pauses here to smile, and his smile is as
 dull and rusty as his pantaloons. “You are to be congratulated, Mr.
 Guppy; you are a fortunate young man, sir.”
 
-“Pretty well so, Mr. Tulkinghorn; I don’t complain.”
+“Pretty [[Well|well]] so, Mr. Tulkinghorn; I don’t complain.”
 
 “Complain? High friends, free admission to great houses, and access
-to elegant ladies! Why, Mr. Guppy, there are people in London who
+to elegant ladies! Why, Mr. Guppy, there are people in [[London]] who
 would give their ears to be you.”
 
 Mr. Guppy, looking as if he would give his own reddening and still
@@ -82,20 +82,20 @@ impeachment.
 “A virtue in which few Englishmen are deficient,” observes Mr.
 Tulkinghorn. He has been standing on the hearthstone with his back to
 the smoked chimney-piece, and now turns round with his glasses to his
-eyes. “Who is this? ‘Lady Dedlock.’ Ha! A very good likeness in its
+eyes. “Who is this? ‘[[Lady Dedlock]].’ Ha! A very good likeness in its
 way, but it wants force of character. Good day to you, gentlemen;
 good day!”
 
 When he has walked out, Mr. Guppy, in a great perspiration, nerves
 himself to the hasty completion of the taking down of the Galaxy
-Gallery, concluding with Lady Dedlock.
+Gallery, concluding with [[Lady Dedlock]].
 
 “Tony,” he says hurriedly to his astonished companion, “let us be
 quick in putting the things together and in getting out of this
 place. It were in vain longer to conceal from you, Tony, that between
 myself and one of the members of a swan-like aristocracy whom I now
 hold in my hand, there has been undivulged communication and
-association. The time might have been when I might have revealed it
+association. The [[Time|time]] might have been when I might have revealed it
 to you. It never will be more. It is due alike to the oath I have
 taken, alike to the shattered idol, and alike to circumstances over
 which I have no control, that the whole should be buried in oblivion.

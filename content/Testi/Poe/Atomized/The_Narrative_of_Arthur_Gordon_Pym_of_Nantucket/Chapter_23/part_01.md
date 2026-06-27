@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 24 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -26,7 +26,7 @@ subsist any longer upon the filberts, the use of which occasioned us
 
 the most excruciating torment, we resolved to make a desperate attempt
 
-at descending the southern declivity of the hill. The face of the
+at descending the southern declivity of the [[Hill|hill]]. The face of the
 
 precipice was here of the softest species of soapstone, although nearly
 
@@ -46,7 +46,7 @@ saw the possibility of descending the whole way by the process in which
 
 we had clambered up from the chasm when we had been buried by the fall
 
-of the hill--that is, by cutting steps in the face of the soapstone
+of the [[Hill|hill]]--that is, by cutting steps in the face of the soapstone
 
 with our knives. The extreme hazard of the attempt can scarcely be
 
@@ -68,7 +68,7 @@ now proceeded to dig a deep hole in the soapstone (as far in as eight
 
 or ten inches), sloping away the rock above to the height of a foot, or
 
-thereabout, so as to allow of his driving, with the butt of a pistol, a
+thereabout, so as to allow of his driving, with the butt of a [[Pistol|pistol]], a
 
 tolerably strong peg into the levelled surface. I then drew him up for
 
@@ -112,11 +112,11 @@ which we were indebted altogether to Peters's ingenuity and resolution)
 
 my companion finally succeeded, with the occasional aid of projections
 
-in the cliff, in reaching the bottom without accident.
+in the cliff, in reaching the [[Bottom|bottom]] without accident.
 
 
 
-It was some time before I could summon sufficient resolution to follow
+It was some [[Time|time]] before I could summon sufficient resolution to follow
 
 him; but I did at length attempt it. Peters had taken off his shirt
 
@@ -130,11 +130,11 @@ striving, by the vigour of my movements, to banish the trepidation
 
 which I could overcome in no other manner. This answered sufficiently
 
-well for the first four or five steps; but presently I found my
+[[Well|well]] for the first four or five steps; but presently I found my
 
-imagination growing terribly excited by thoughts of the vast depth yet
+[[Imagination|imagination]] growing terribly excited by thoughts of the vast depth yet
 
-to be descended, and the precarious nature of the pegs and soapstone
+to be descended, and the precarious [[Nature|nature]] of the pegs and soapstone
 
 holes which were my only support. It was in vain I endeavoured to
 
@@ -162,9 +162,9 @@ strike violently together, while my fingers were gradually yet
 
 certainly relaxing their grasp. There was a ringing in my ears, and I
 
-said, "This is my knell of death!" And now I was consumed with the
+said, "This is my knell of [[Death|death]]!" And now I was consumed with the
 
-irrepressible desire of looking below. I could not, I would not,
+irrepressible [[Desire|desire]] of looking below. I could not, I would not,
 
 confine my glances to the cliff; and, with a wild, indefinable emotion
 
@@ -174,9 +174,9 @@ down into the abyss. For one moment my fingers clutched convulsively
 
 upon their hold, while, with the movement, the faintest possible idea
 
-of ultimate escape wandered, like a shadow, through my mind--in the
+of ultimate escape wandered, like a [[Shadow|shadow]], through my mind--in the
 
-next my whole soul was pervaded with _a longing to fall_; a desire, a
+next my whole [[Soul|soul]] was pervaded with _a [[Longing|longing]] to fall_; a [[Desire|desire]], a
 
 yearning, a passion utterly uncontrollable. I let go at once my grasp
 
@@ -184,7 +184,7 @@ upon the peg, and, turning half round from the precipice, remained
 
 tottering for an instant against its naked face. But now there came a
 
-spinning of the brain; a shrill-sounding and phantom voice screamed
+spinning of the brain; a shrill-sounding and [[Phantom|phantom]] voice screamed
 
 within my ears; a dusky, fiendish, and filmy figure stood immediately
 
@@ -196,8 +196,8 @@ plunged within its arms.
 
 I had swooned, and Peters had caught me as I fell. He had observed my
 
-proceedings from his station at the bottom of the cliff; and,
+proceedings from his station at the [[Bottom|bottom]] of the cliff; and,
 
 perceiving my imminent danger, had endeavoured to inspire me with
 
-courage by every suggestion he could devise; although my confusion of
+[[Courage|courage]] by every suggestion he could devise; although my confusion of

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 8)"
+title: "[[Shirley]] — Chapter 7 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,7 +32,7 @@ parents would have quite approved the match. To them his fifty-five
 
 years, his bend-leather heart, could have presented no obstacles; and as
 
-he was a rector, held an excellent living, occupied a good house, and
+he was a rector, held an excellent living, occupied a good [[house]], and
 
 was supposed even to have private property (though in that the world was
 
@@ -94,11 +94,11 @@ tea before him, long after the rest had finished and after he himself
 
 had discussed such allowance of viands as he felt competent to
 
-swallow--long, indeed, after signs of impatience had been manifested
+[[Swallow|swallow]]--long, indeed, after signs of impatience had been manifested
 
 all round the board, till chairs were pushed back, till the talk
 
-flagged, till silence fell. Vainly did Caroline inquire repeatedly if he
+flagged, till [[Silence|silence]] fell. Vainly did Caroline inquire repeatedly if he
 
 would have another cup, if he would take a little hot tea, as that must
 
@@ -134,7 +134,7 @@ movements.
 
 he; which he did forthwith, and all quitted the table. Donne, nothing
 
-abashed, still sat ten minutes quite alone, whereupon Mr. Helstone rang
+abashed, still sat ten minutes quite [[Alone|alone]], whereupon Mr. Helstone rang
 
 the bell for the things to be removed. The curate at length saw himself
 
@@ -154,7 +154,7 @@ was asked for. This was Mr. Sweeting's chance for showing off. He was
 
 eager to commence. He undertook, therefore, the arduous task of
 
-persuading the young ladies to favour the company with an air--a song.
+persuading the young ladies to favour the company with an air--a [[Song|song]].
 
 _Con amore_ he went through the whole business of begging, praying,
 
@@ -186,7 +186,7 @@ all at once assuming the character of a swain (which character he had
 
 endeavoured to enact once or twice before, but in which he had not
 
-hitherto met with the success he doubtless opined his merits deserved),
+hitherto met with the [[success]] he doubtless opined his merits deserved),
 
 approached a sofa on which Miss Helstone was seated, and depositing his
 
@@ -198,7 +198,7 @@ incomprehensible. In the course of his efforts to render himself
 
 agreeable, he contrived to possess himself of the two long sofa cushions
 
-and a square one; with which, after rolling them about for some time
+and a square one; with which, after [[rolling]] them about for some [[Time|time]]
 
 with strange gestures, he managed to erect a sort of barrier between
 

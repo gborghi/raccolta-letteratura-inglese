@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 9 (part 1)"
+title: "[[GKC-Autobiography]] — Chapter 9 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -32,8 +32,8 @@ More frequently still, perhaps, it was a case of there being
 simultaneously two orators and no audience.  We argued throughout our
 boyhood and youth until we became the pest of our whole social circle.
 We shouted at each other across the table, on the subject of Parnell
-or Puritanism or Charles the First's head, until our nearest
-and dearest fled at our approach, and we had a desert around us.
+or [[Puritanism]] or Charles the First's head, until our nearest
+and dearest fled at our approach, and we had a [[Desert|desert]] around us.
 And though it is not a matter of undiluted pleasure to recall having
 been so horrible a nuisance, I am rather glad in other ways that we
 did so early thrash out our own thoughts on almost all the subjects
@@ -55,20 +55,20 @@ But in fact, by a process of elimination, we came more and more to think
 that the same sort of non-Puritan religion was the more plausible
 and promising; and to end eventually, but quite independently,
 in the same Church.  I think it was a good thing that we had tested
-every link of logic by mutual hammering.  I will even add something
+every link of [[logic]] by mutual hammering.  I will even add something
 that sounds too like a boast; though it is meant to be a tribute.
 I will say that the man who had got used to arguing with Cecil Chesterton
-has never since had any reason to fear an argument with anybody.
+has never since had any reason to [[Fear|fear]] an argument with anybody.
 
 The editor of the New Statesman, an acute critic of quite a different
 school from ours, said to me a little while ago, "Your brother was
 the very finest debater I have ever heard or heard of", and such editors,
 of course, had known all the politicians and popular speakers.
-The qualities of his speaking were those of logic and lucidity combined
-with a sort of violent and startling courage.  Indeed, he illustrated
-what I think is a common error on the subject of logic.
+The qualities of his speaking were those of [[logic]] and lucidity combined
+with a sort of violent and startling [[Courage|courage]].  Indeed, he illustrated
+what I think is a common error on the subject of [[logic]].
 The logician is too often presented as a prig; as a thin and frigid
-person of a pallid complexion.  Both in experience and history,
+person of a pallid complexion.  Both in experience and [[history]],
 I have generally found that it was very full-blooded and warm-hearted
 people who had that gift of clear and connected thought.
 Charles Fox was like that; Danton was like that; and Cecil Chesterton
@@ -77,17 +77,17 @@ the Chesterton simplicity and steadiness in his personal relations;
 his affections were particularly fixed and tranquil; but in
 battle he had a sort of bull-necked pugnacity and intolerance.
 He did not seem to wish to live and leave a fallacy alive;
-he certainly could not leave a fallacy alone.  The development of his
-political ideas was for a time decidedly divergent from my own.
+he certainly could not leave a fallacy [[Alone|alone]].  The development of his
+political ideas was for a [[Time|time]] decidedly divergent from my own.
 When I went to work with the Pro-Boers of the Daily News, and generally
 upheld the Liberal cause, though rather more romantically than
-many Liberals, he gravitated to a sort of practical Tory Democracy,
+many Liberals, he gravitated to a sort of practical Tory [[democracy|Democracy]],
 which was more and more permeated by the Socialism of Sidney Webb
-and Bernard Shaw.  He eventually became an active and effective
+and Bernard [[Shaw]].  He eventually became an active and effective
 member of the Fabian Executive.  But what was much more important,
 he had within him a living and most menacing sort of intolerance;
 a hatred of the real corruptions and hypocrisies of modern politics
-and an extraordinary idea of telling the truth.
+and an extraordinary idea of telling the [[Truth|truth]].
 
 I have already indicated that I myself, though I believed
 in Liberalism, was finding it dimly difficult to believe in Liberals.
@@ -95,7 +95,7 @@ It would be truer, perhaps, to say that I was finding it
 difficult to believe in politics; because the reality seemed
 almost unreal, as compared with the reputation or the report.
 I could give twenty instances to indicate what I mean; but they would
-be no more than indications, because the doubt itself was doubtful.
+be no more than indications, because the [[Doubt|doubt]] itself was doubtful.
 I remember going to a great Liberal club, and walking about in a
 large crowded room, somewhere at the end of which a bald gentleman
 with a beard was reading something from a manuscript in a low voice.
@@ -123,6 +123,6 @@ to the people who heard him, and what he was to the thousands
 of newspaper readers who did not hear him, was so huge a hiatus
 and disproportion that I do not think I ever quite got over it.
 I knew henceforward what was meant, or what might be meant,
-by a Scene in the House, or a Challenge from the Platform,
+by a Scene in the [[house|House]], or a Challenge from the Platform,
 or any of those sensational events which take place in the newspapers
 and nowhere else.

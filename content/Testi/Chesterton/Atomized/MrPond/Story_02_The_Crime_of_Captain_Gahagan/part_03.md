@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Crime of Captain Gahagan (part 3)"
+title: "[[MrPond]] — The Crime of Captain Gahagan (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-known firm of Masters, Luke and Masters, expressing the hope that
+known firm of Masters, Luke and Masters, expressing the [[Hope|hope]] that
 
 Mr. Luke might be allowed to discuss certain information with Mr.
 
@@ -38,11 +38,11 @@ was going to tell him.
 
 
 
-"The truth is, Mr. Pond," said the solicitor, in a confidential but
+"The [[Truth|truth]] is, Mr. Pond," said the solicitor, in a confidential but
 
 still careful voice, when he was at length deposited on the other
 
-side of Mr. Pond's table next day.  "The truth is that the
+side of Mr. Pond's table next day.  "The [[Truth|truth]] is that the
 
 possibilities of this affair, painful in any case, may be specially
 
@@ -64,7 +64,7 @@ suppose that anybody had not entertained the idea long ago.  He
 
 knew that words to that effect were common in the more conventional
 
-detective stories, which he heartily enjoyed, as a change from
+[[Detective|detective]] stories, which he heartily enjoyed, as a change from
 
 Burke and Gibbon.  He could see the printed words on a hundred
 
@@ -110,13 +110,13 @@ whether men were capable of murder, he was rather inclined to think
 
 that Gahagan WAS capable of murder--more capable of murder than of
 
-meanness to a cabman.
+meanness to a [[cabman]].
 
 
 
 Suddenly, with extraordinary vividness, the image of Gahagan
 
-himself sprang up in Pond's memory: Gahagan as he had last seen him
+himself sprang up in Pond's [[Memory|memory]]: Gahagan as he had last seen him
 
 lounging with his large shoulders and long stride, and strange dark-
 
@@ -132,17 +132,17 @@ forgiven; but not a man to be lightly acquitted.
 
 
 
-"Mr. Luke," said Pond suddenly, "will it save time if I tell you,
+"Mr. Luke," said Pond suddenly, "will it save [[Time|time]] if I tell you,
 
 to start with, what I know there is against Gahagan?  He was
 
 hanging round Mrs. Feversham, the great actress; I don't know why
 
-he was; my own belief is that he is really in love with another
+he was; my own belief is that he is really in [[Love|love]] with another
 
 woman.  Yet he did unquestionably give the actress a huge amount of
 
-his time: hours and hours and late hours too.  But if Feversham
+his [[Time|time]]: hours and hours and late hours too.  But if Feversham
 
 caught him doing anything unconventional, Feversham was not the man
 
@@ -166,7 +166,7 @@ at the start that I don't believe in it."
 
 "Unfortunately it is not the whole case against Captain Gahagan,"
 
-replied Luke smoothly, "and I fear the full Statement may make even
+replied Luke smoothly, "and I [[Fear|fear]] the full Statement may make even
 
 you believe it.  Perhaps the most serious result of our
 
@@ -178,7 +178,7 @@ of his movements, or proposed movements, on the evening of the
 
 murder.  Allowing him the highest possible marks for truthfulness
 
-in the matter, he must at least have told two lies to one truth."
+in the matter, he must at least have told two lies to one [[Truth|truth]]."
 
 
 
@@ -186,7 +186,7 @@ in the matter, he must at least have told two lies to one truth."
 
 "except when he was telling lies for amusement; which is really
 
-rather the mark of a man who doesn't prostitute the sublime art of
+rather the mark of a man who doesn't prostitute the [[Sublime|sublime]] art of
 
 lying to the base uses of necessity.  About all ordinary practical
 
@@ -220,7 +220,7 @@ had been talking to several ladies."
 
 him?  If one of them happened, for instance, to be that very
 
-charming lady, Miss Asa-Smith of Pentapolis, I would venture to
+charming lady, Miss Asa-[[smith|Smith]] of Pentapolis, I would venture to
 
 guess that it was she who was talking to him."
 
@@ -230,7 +230,7 @@ guess that it was she who was talking to him."
 
 not know if it was a guess; but one of them certainly was a Miss
 
-Asa-Smith of Pentapolis.  The other two were the Hon. Violet Varney
+Asa-[[smith|Smith]] of Pentapolis.  The other two were the Hon. Violet Varney
 
 and, last but not least, the Hon. Joan Varney.  As a matter of
 

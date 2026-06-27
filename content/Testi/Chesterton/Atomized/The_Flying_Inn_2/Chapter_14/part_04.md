@@ -32,14 +32,14 @@ and such things are not of my seeking.  It is only
 right to tell you that the police will be here in a
 moment."
 
-"Quite time, too!" said Dalroy, shaking his head.
+"Quite [[Time|time]], too!" said Dalroy, shaking his head.
 "I never saw anything so disgraceful in my life.  Of
-course, I am sorry it's a friend of yours; and I hope
-the police will keep Ivywood House out of the papers.
+course, I am sorry it's a friend of yours; and I [[Hope|hope]]
+the police will keep Ivywood [[house|House]] out of the papers.
 But I won't be a party to one law for the rich and
 another for the poor, and it would be a great shame
 if a man in that state got off altogether merely
-because he had got the stuff at your house."
+because he had got the stuff at your [[house]]."
 
 "I do not understand you," said Ivywood.  "What
 are you talking of?"
@@ -51,7 +51,7 @@ are coming for."
 
 Lord Ivywood looked at the forest log by the tunnel
 which he had not glanced at before, and in his pale
-eyes, perhaps for the first time, stood a simple
+eyes, perhaps for the first [[Time|time]], stood a simple
 astonishment.
 
 Above the log appeared two duplicate objects, which,
@@ -77,12 +77,12 @@ exhibited him, limp and wild-eyed to the company.
 station," said the Captain.  "I'm sorry, Lord Ivywood,
 I'm afraid it's no use your asking me to overlook it
 again.  We can't afford it," and he shook his head
-implacably.  "We've always kept a respectable house,
-Mr. Pump and I.  'The Old Ship' has a reputation all
+implacably.  "We've always kept a respectable [[house]],
+Mr. Pump and I.  'The Old [[Ship]]' has a reputation all
 over the country--in quite a lot of different parts, in
 fact.  People in the oddest places have found it a
-quiet, family house.  Nothing gadabout in 'The Old
-Ship.'  And if you think you can send all your
+quiet, family [[house]].  Nothing gadabout in 'The Old
+[[Ship]].'  And if you think you can send all your
 staggering revellers--"
 
 "Captain Dalroy," said Ivywood, simply, "you seem
@@ -116,7 +116,7 @@ briskly, "All quite correct and conventional, you see.
 You can't run us in for not having a sign; we've
 rather an extra life-like one.  And you can't run us
 in as rogues and vagabonds either.  Visible means of
-subsistence," and he slapped the huge cheese under
+subsistence," and he slapped the huge [[cheese]] under
 his arm with his great flat hand, so that it reverberated
 like a drum.  "Quite visible.  Perceptible," he added,
 holding it out suddenly almost under Lord Ivywood's
@@ -124,7 +124,7 @@ nose.  "Perceptible to the naked eye through your
 lordship's eyeglasses."
 
 He turned abruptly, burst open the pantomime door
-behind him and bowled the big cheese down the tunnel
+behind him and bowled the big [[cheese]] down the tunnel
 with a noise like thunder, which ended in a cry of
 acceptation in the distant voice of Mr. Humphrey
 Pump.  It was the last of their belongings left at this
@@ -132,7 +132,7 @@ end of the tunnel, and Dalroy turned again, a man
 totally transfigured.
 
 "And now, Ivywood," he said, "what can I be
-charged with?  Well, I have a suggestion to make.
+charged with?  [[Well]], I have a suggestion to make.
 I will surrender to the police quite quietly when they
 come, if you will do me one favour.  Let me choose
 my crime."
@@ -140,12 +140,12 @@ my crime."
 "I don't understand you," answered the other coolly,
 "what crime?  What favour?"
 
-Captain Dalroy unsheathed the straight sword that
+Captain Dalroy unsheathed the straight [[Sword|sword]] that
 still hung on his now shabby uniform.  The slender
 blade sparkled splendidly in the moonlight as he
 pointed it straight at Dr. Gluck.
 
-"Take away his sword from the little pawnbroker,"
+"Take away his [[Sword|sword]] from the little pawnbroker,"
 he said.  "It's about the length of mine; or we'll change
 if you like.  Give me ten minutes on that strip of
 turf.  And then it may be, Ivywood, that I shall be
@@ -157,13 +157,13 @@ ashamed.  Or, on the other hand, it may be--that
 when the police come there will be something to arrest
 me for."
 
-There was a long silence, and the elf of irresponsibility
+There was a long [[Silence|silence]], and the elf of irresponsibility
 peeped out again for an instant in Dalroy's
 mind.
 
 "Mr. Bullrose will see fair play for you, from a
 throne above the lists," he said.  "I have already put
-my honour in the hands of Mr. Hibbs."
+my [[Honour|honour]] in the hands of Mr. Hibbs."
 
 "I must decline Captain Dalroy's invitation," said
 Ivywood at last, in a curious tone.  "Not so much

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 44 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 44 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,11 +22,11 @@ now, in all haste, transported back again.
 
 
 
-The old woman brought my supper and Arthur’s into the parlour, and told
+The old woman brought my supper and [[arthur|Arthur]]’s into the parlour, and told
 
 me, with all due formality, that “the master desired his compliments to
 
-Mrs. Graham, and he had prepared the rooms as well as he could upon so
+Mrs. Graham, and he had prepared the rooms as [[Well|well]] as he could upon so
 
 short a notice; but he would do himself the pleasure of calling upon
 
@@ -36,15 +36,15 @@ her to-morrow, to receive her further commands.”
 
 I was glad to ascend the stern-looking stone staircase, and lie down in
 
-the gloomy, old-fashioned bed, beside my little Arthur. He was asleep
+the gloomy, old-fashioned bed, beside my little [[arthur|Arthur]]. He was asleep
 
 in a minute; but, weary as I was, my excited feelings and restless
 
-cogitations kept me awake till dawn began to struggle with the
+cogitations kept me awake till [[Dawn|dawn]] began to struggle with the
 
-darkness; but sleep was sweet and refreshing when it came, and the
+darkness; but [[Sleep|sleep]] was sweet and refreshing when it came, and the
 
-waking was delightful beyond expression. It was little Arthur that
+waking was delightful beyond expression. It was little [[arthur|Arthur]] that
 
 roused me, with his gentle kisses. He was here, then, safely clasped in
 
@@ -52,7 +52,7 @@ my arms, and many leagues away from his unworthy father! Broad daylight
 
 illumined the apartment, for the sun was high in heaven, though
 
-obscured by rolling masses of autumnal vapour.
+obscured by [[rolling]] masses of autumnal vapour.
 
 
 
@@ -66,15 +66,15 @@ desolate wilderness below, where the dark stone walls and iron gate,
 
 the rank growth of grass and weeds, and the hardy evergreens of
 
-preternatural forms, alone remained to tell that there had been once a
+preternatural forms, [[Alone|alone]] remained to tell that there had been once a
 
-garden,—and the bleak and barren fields beyond might have struck me as
+[[Garden|garden]],—and the bleak and barren fields beyond might have struck me as
 
-gloomy enough at another time; but now, each separate object seemed to
+gloomy enough at another [[Time|time]]; but now, each separate object seemed to
 
-echo back my own exhilarating sense of hope and freedom: indefinite
+echo back my own exhilarating sense of [[Hope|hope]] and [[Freedom|freedom]]: indefinite
 
-dreams of the far past and bright anticipations of the future seemed to
+[[Dreams|dreams]] of the far past and bright anticipations of the future seemed to
 
 greet me at every turn. I should rejoice with more security, to be
 
@@ -82,7 +82,7 @@ sure, had the broad sea rolled between my present and my former homes;
 
 but surely in this lonely spot I might remain unknown; and then I had
 
-my brother here to cheer my solitude with his occasional visits.
+my brother here to cheer my [[Solitude|solitude]] with his occasional visits.
 
 
 
@@ -96,7 +96,7 @@ Wildfell—except on such occasions as a landlord might be expected to
 
 call upon a stranger tenant—lest suspicion should be excited against
 
-me, whether of the truth or of some slanderous falsehood.
+me, whether of the [[Truth|truth]] or of some slanderous falsehood.
 
 
 
@@ -104,13 +104,13 @@ I have now been here nearly a fortnight, and, but for one disturbing
 
 care, the haunting dread of discovery, I am comfortably settled in my
 
-new home: Frederick has supplied me with all requisite furniture and
+new [[Home|home]]: Frederick has supplied me with all requisite furniture and
 
 painting materials: Rachel has sold most of my clothes for me, in a
 
 distant town, and procured me a wardrobe more suitable to my present
 
-position: I have a second-hand piano, and a tolerably well-stocked
+position: I have a second-hand piano, and a tolerably [[Well|well]]-stocked
 
 bookcase in my parlour; and my other room has assumed quite a
 
@@ -134,9 +134,9 @@ it without offending him too deeply. I have a few pictures already
 
 done, for I told Rachel to pack up all I had; and she executed her
 
-commission but too well—for among the rest, she put up a portrait of
+commission but too [[Well|well]]—for among the rest, she put up a portrait of
 
-Mr. Huntingdon that I had painted in the first year of my marriage. It
+Mr. Huntingdon that I had painted in the first year of my [[Marriage|marriage]]. It
 
 struck me with dismay, at the moment, when I took it from the box and
 
@@ -158,7 +158,7 @@ pleasure and dissatisfaction I had had in the result of my
 
 labours!—pleasure for the likeness I had caught; dissatisfaction,
 
-because I had not made it handsome enough. Now, I see no beauty in
+because I had not made it handsome enough. Now, I see no [[Beauty|beauty]] in
 
 it—nothing pleasing in any part of its expression; and yet it is far
 
@@ -172,7 +172,7 @@ however, is handsome enough; it will serve for another painting. The
 
 picture itself I have not destroyed, as I had first intended; I have
 
-put it aside; not, I think, from any lurking tenderness for the memory
+put it aside; not, I think, from any lurking tenderness for the [[Memory|memory]]
 
 of past affection, nor yet to remind me of my former folly, but chiefly
 
@@ -200,7 +200,7 @@ that my uncle more than half believes him, and strongly advocates my
 
 going back to him and being friends again. But my aunt knows better:
 
-she is too cool and cautious, and too well acquainted with both my
+she is too cool and cautious, and too [[Well|well]] acquainted with both my
 
 husband’s character and my own to be imposed upon by any specious
 

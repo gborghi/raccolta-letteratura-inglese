@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 3"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 Two days after, Mrs. Graham called at Linden-Car, contrary to the
 
-expectation of Rose, who entertained an idea that the mysterious
+expectation of [[Rose]], who entertained an idea that the mysterious
 
 occupant of Wildfell Hall would wholly disregard the common observances
 
@@ -32,25 +32,25 @@ who testified that neither their call nor the Millwards’ had been
 
 returned as yet. Now, however, the cause of that omission was
 
-explained, though not entirely to the satisfaction of Rose. Mrs. Graham
+explained, though not entirely to the satisfaction of [[Rose]]. Mrs. Graham
 
-had brought her child with her, and on my mother’s expressing surprise
+had brought her [[Child|child]] with her, and on my mother’s expressing surprise
 
 that he could walk so far, she replied,—“It is a long walk for him; but
 
 I must have either taken him with me, or relinquished the visit
 
-altogether; for I never leave him alone; and I think, Mrs. Markham, I
+altogether; for I never leave him [[Alone|alone]]; and I think, Mrs. Markham, I
 
 must beg you to make my excuses to the Millwards and Mrs. Wilson, when
 
-you see them, as I fear I cannot do myself the pleasure of calling upon
+you see them, as I [[Fear|fear]] I cannot do myself the pleasure of calling upon
 
-them till my little Arthur is able to accompany me.”
+them till my little [[arthur|Arthur]] is able to accompany me.”
 
 
 
-“But you have a servant,” said Rose; “could you not leave him with
+“But you have a servant,” said [[Rose]]; “could you not leave him with
 
 her?”
 
@@ -58,7 +58,7 @@ her?”
 
 “She has her own occupations to attend to; and besides, she is too old
 
-to run after a child, and he is too mercurial to be tied to an elderly
+to run after a [[Child|child]], and he is too mercurial to be tied to an elderly
 
 woman.”
 
@@ -72,7 +72,7 @@ woman.”
 
 think, in future, I must contrive to bring him with me, or stay at
 
-home.”
+[[Home|home]].”
 
 
 
@@ -90,7 +90,7 @@ treasure, and I am his only friend: so we don’t like to be separated.”
 
 “But, my dear, I call that doting,” said my plain-spoken parent. “You
 
-should try to suppress such foolish fondness, as well to save your son
+should try to suppress such foolish fondness, as [[Well|well]] to save your son
 
 from ruin as yourself from ridicule.”
 
@@ -100,7 +100,7 @@ from ruin as yourself from ridicule.”
 
 
 
-“Yes; it is spoiling the child. Even at _his_ age, he ought not to be
+“Yes; it is spoiling the [[Child|child]]. Even at _his_ age, he ought not to be
 
 always tied to his mother’s apron-string; he should learn to be ashamed
 
@@ -110,7 +110,7 @@ of it.”
 
 “Mrs. Markham, I beg you will not say such things, in _his_ presence,
 
-at least. I trust my son will _never_ be ashamed to love his mother!”
+at least. I trust my son will _never_ be ashamed to [[Love|love]] his mother!”
 
 said Mrs. Graham, with a serious energy that startled the company.
 
@@ -128,11 +128,11 @@ conversation.
 
 the mildest, notwithstanding her sweet, pale face and lofty brow, where
 
-thought and suffering seem equally to have stamped their impress.”
+thought and [[Suffering|suffering]] seem equally to have stamped their impress.”
 
 
 
-All this time I was seated at a table on the other side of the room,
+All this [[Time|time]] I was seated at a table on the other side of the room,
 
 apparently immersed in the perusal of a volume of the _Farmer’s
 
@@ -148,17 +148,17 @@ In a little while, however, I was sensible that some one was
 
 approaching me, with a light, but slow and hesitating tread. It was
 
-little Arthur, irresistibly attracted by my dog Sancho, that was lying
+little [[arthur|Arthur]], irresistibly attracted by my dog Sancho, that was lying
 
 at my feet. On looking up I beheld him standing about two yards off,
 
 with his clear blue eyes wistfully gazing on the dog, transfixed to the
 
-spot, not by fear of the animal, but by a timid disinclination to
+spot, not by [[Fear|fear]] of the animal, but by a timid disinclination to
 
 approach its master. A little encouragement, however, induced him to
 
-come forward. The child, though shy, was not sullen. In a minute he was
+come forward. The [[Child|child]], though shy, was not sullen. In a minute he was
 
 kneeling on the carpet, with his arms round Sancho’s neck, and, in a
 
@@ -172,11 +172,11 @@ now and then to see how she relished the new-sprung intimacy; and I
 
 saw, by the unquiet aspect of her eye, that for some reason or other
 
-she was uneasy at the child’s position.
+she was uneasy at the [[Child|child]]’s position.
 
 
 
-“Arthur,” said she, at length, “come here. You are troublesome to Mr.
+“[[arthur|Arthur]],” said she, at length, “come here. You are troublesome to Mr.
 
 Markham: he wishes to read.”
 
@@ -190,7 +190,7 @@ to her side.
 
 
 
-“No, mamma,” said the child; “let me look at these pictures first; and
+“No, mamma,” said the [[Child|child]]; “let me look at these pictures first; and
 
 then I’ll come, and tell you all about them.”
 
@@ -198,7 +198,7 @@ then I’ll come, and tell you all about them.”
 
 “We are going to have a small party on Monday, the fifth of November,”
 
-said my mother; “and I hope you will not refuse to make one, Mrs.
+said my mother; “and I [[Hope|hope]] you will not refuse to make one, Mrs.
 
 Graham. You can bring your little boy with you, you know—I daresay we
 
@@ -222,9 +222,9 @@ to make acquaintance.”
 
 
 
-“I do know something of him—but you must excuse me this time; for the
+“I do know something of him—but you must excuse me this [[Time|time]]; for the
 
-evenings, now, are dark and damp, and Arthur, I fear, is too delicate
+evenings, now, are dark and damp, and [[arthur|Arthur]], I [[Fear|fear]], is too delicate
 
 to risk exposure to their influence with impunity. We must defer the
 
@@ -234,7 +234,7 @@ nights.”
 
 
 
-Rose, now, at a hint from my mother, produced a decanter of wine, with
+[[Rose]], now, at a hint from my mother, produced a decanter of wine, with
 
 accompaniments of glasses and cake, from the cupboard and the oak
 
@@ -242,7 +242,7 @@ sideboard, and the refreshment was duly presented to the guests. They
 
 both partook of the cake, but obstinately refused the wine, in spite of
 
-their hostess’s hospitable attempts to force it upon them. Arthur,
+their hostess’s hospitable attempts to force it upon them. [[arthur|Arthur]],
 
 especially shrank from the ruby nectar as if in terror and disgust, and
 
@@ -250,17 +250,17 @@ was ready to cry when urged to take it.
 
 
 
-“Never mind, Arthur,” said his mamma; “Mrs. Markham thinks it will do
+“Never mind, [[arthur|Arthur]],” said his mamma; “Mrs. Markham thinks it will do
 
 you good, as you were tired with your walk; but she will not oblige you
 
-to take it!—I daresay you will do very well without. He detests the
+to take it!—I daresay you will do very [[Well|well]] without. He detests the
 
 very sight of wine,” she added, “and the smell of it almost makes him
 
-sick. I have been accustomed to make him swallow a little wine or weak
+sick. I have been accustomed to make him [[Swallow|swallow]] a little wine or weak
 
-spirits-and-water, by way of medicine, when he was sick, and, in fact,
+spirits-and-[[Water|water]], by way of medicine, when he was sick, and, in fact,
 
 I have done what I could to make him hate them.”
 
@@ -270,11 +270,11 @@ Everybody laughed, except the young widow and her son.
 
 
 
-“Well, Mrs. Graham,” said my mother, wiping the tears of merriment from
+“[[Well]], Mrs. Graham,” said my mother, wiping the [[Tears|tears]] of merriment from
 
-her bright blue eyes—“well, you surprise me! I really gave you credit
+her bright blue eyes—“[[Well|well]], you surprise me! I really gave you credit
 
-for having more sense.—The poor child will be the veriest milksop that
+for having more sense.—The poor [[Child|child]] will be the veriest milksop that
 
 ever was sopped! Only think what a man you will make of him, if you
 
@@ -284,7 +284,7 @@ persist in—”
 
 “I think it a very excellent plan,” interrupted Mrs. Graham, with
 
-imperturbable gravity. “By that means I hope to save him from one
+imperturbable gravity. “By that means I [[Hope|hope]] to save him from one
 
 degrading vice at least. I wish I could render the incentives to every
 
@@ -296,7 +296,7 @@ other equally innoxious in his case.”
 
 is it that constitutes virtue, Mrs. Graham? Is it the circumstance of
 
-being able and willing to resist temptation; or that of having no
+being able and willing to resist [[Temptation|temptation]]; or that of having no
 
 temptations to resist?—Is he a strong man that overcomes great
 
@@ -306,7 +306,7 @@ muscular exertion, and at the risk of some subsequent fatigue, or he
 
 that sits in his chair all day, with nothing to do more laborious than
 
-stirring the fire, and carrying his food to his mouth? If you would
+stirring the [[Fire|fire]], and carrying his food to his mouth? If you would
 
 have your son to walk honourably through the world, you must not
 
@@ -314,13 +314,13 @@ attempt to clear the stones from his path, but teach him to walk firmly
 
 over them—not insist upon leading him by the hand, but let him learn to
 
-go alone.”
+go [[Alone|alone]].”
 
 
 
 “I will lead him by the hand, Mr. Markham, till he has strength to go
 
-alone; and I will clear as many stones from his path as I can, and
+[[Alone|alone]]; and I will clear as many stones from his path as I can, and
 
 teach him to avoid the _rest_—or walk firmly over them, as you say;—for
 
@@ -328,11 +328,11 @@ when I have done my utmost, in the way of clearance, there will still
 
 be plenty left to exercise all the agility, steadiness, and
 
-circumspection he will ever have.—It is all very well to talk about
+circumspection he will ever have.—It is all very [[Well|well]] to talk about
 
 noble resistance, and trials of virtue; but for fifty—or five hundred
 
-men that have yielded to temptation, show me one that has had virtue to
+men that have yielded to [[Temptation|temptation]], show me one that has had virtue to
 
 resist. And why should I take it for granted that my son will be one in
 
@@ -364,7 +364,7 @@ and a safer passage?”
 
 “Yes, but the surest means will be to endeavour to fortify him
 
-_against_ temptation, not to remove it out of his way.”
+_against_ [[Temptation|temptation]], not to remove it out of his way.”
 
 
 
@@ -374,7 +374,7 @@ to assail him, both from within and without, when I have done all I can
 
 to render vice as uninviting to him, as it is abominable in its own
 
-nature—I myself have had, indeed, but few incentives to what the world
+[[Nature|nature]]—I myself have had, indeed, but few incentives to what the world
 
 calls vice, but yet I have experienced temptations and trials of
 
@@ -394,11 +394,11 @@ natural corruptions.”
 
 not judge of a boy by yourself—and, my dear Mrs. Graham, let me warn
 
-you in good time against the error—the fatal error, I may call it—of
+you in good [[Time|time]] against the error—the fatal error, I may call it—of
 
-taking that boy’s education upon yourself. Because you are clever in
+taking that boy’s [[Education|education]] upon yourself. Because you are clever in
 
-some things and well informed, you may fancy yourself equal to the
+some things and [[Well|well]] informed, you may fancy yourself equal to the
 
 task; but indeed you are not; and if you persist in the attempt,
 
@@ -416,7 +416,7 @@ smile.
 
 “Oh, _no!_—But if you would have a boy to despise his mother, let her
 
-keep him at home, and spend her life in petting him up, and slaving to
+keep him at [[Home|home]], and spend her life in petting him up, and slaving to
 
 indulge his follies and caprices.”
 
@@ -428,9 +428,9 @@ from my principles and practice than such criminal weakness as that.”
 
 
 
-“Well, but you will treat him like a girl—you’ll spoil his spirit, and
+“[[Well]], but you will treat him like a girl—you’ll spoil his spirit, and
 
-make a mere Miss Nancy of him—you will, indeed, Mrs. Graham, whatever
+make a mere Miss [[Nancy]] of him—you will, indeed, Mrs. Graham, whatever
 
 you may think. But I’ll get Mr. Millward to talk to you about
 
@@ -438,7 +438,7 @@ it:—_he’ll_ tell you the consequences;—he’ll set it before you as plain
 
 as the day;—and tell you what you ought to do, and all about it;—and, I
 
-don’t doubt, he’ll be able to convince you in a minute.”
+don’t [[Doubt|doubt]], he’ll be able to convince you in a minute.”
 
 
 
@@ -450,17 +450,17 @@ worthy gentleman—“Mr. Markham here thinks his powers of conviction at
 
 least equal to Mr. Millward’s. If I hear not him, neither should I be
 
-convinced though one rose from the dead, he would tell you. Well, Mr.
+convinced though one [[Rose|rose]] from the dead, he would tell you. [[Well]], Mr.
 
 Markham, you that maintain that a boy should not be shielded from evil,
 
-but sent out to battle against it, alone and unassisted—not taught to
+but sent out to battle against it, [[Alone|alone]] and unassisted—not taught to
 
 avoid the snares of life, but boldly to rush into them, or over them,
 
 as he may—to seek danger, rather than shun it, and feed his virtue by
 
-temptation,—would you—?”
+[[Temptation|temptation]],—would you—?”
 
 
 
@@ -468,15 +468,15 @@ temptation,—would you—?”
 
 said that a boy should be taught to rush into the snares of life,—or
 
-even wilfully to seek temptation for the sake of exercising his virtue
+even wilfully to seek [[Temptation|temptation]] for the sake of exercising his virtue
 
 by overcoming it;—I only say that it is better to arm and strengthen
 
-your hero, than to disarm and enfeeble the foe;—and if you were to rear
+your [[Hero|hero]], than to disarm and enfeeble the foe;—and if you were to rear
 
-an oak sapling in a hothouse, tending it carefully night and day, and
+an oak sapling in a hothouse, tending it carefully [[Night|night]] and day, and
 
-shielding it from every breath of wind, you could not expect it to
+shielding it from every breath of [[Wind|wind]], you could not expect it to
 
 become a hardy tree, like that which has grown up on the mountain-side,
 
@@ -496,7 +496,7 @@ the shock of the tempest.”
 
 “No; you would have her to be tenderly and delicately nurtured, like a
 
-hot-house plant—taught to cling to others for direction and support,
+hot-[[house]] plant—taught to cling to others for direction and support,
 
 and guarded, as much as possible, from the very knowledge of evil. But
 
@@ -510,17 +510,17 @@ it that you think she _has_ no virtue?”
 
 
 
-“Well, but you affirm that virtue is only elicited by temptation;—and
+“[[Well]], but you affirm that virtue is only elicited by [[Temptation|temptation]];—and
 
-you think that a woman cannot be too little exposed to temptation, or
+you think that a woman cannot be too little exposed to [[Temptation|temptation]], or
 
 too little acquainted with vice, or anything connected therewith. It
 
 _must_ be either that you think she is essentially so vicious, or so
 
-feeble-minded, that she _cannot_ withstand temptation,—and though she
+feeble-minded, that she _cannot_ withstand [[Temptation|temptation]],—and though she
 
-may be pure and innocent as long as she is kept in ignorance and
+may be pure and [[Innocent|innocent]] as long as she is kept in ignorance and
 
 restraint, yet, being destitute of _real_ virtue, to teach her how to
 
@@ -540,19 +540,19 @@ dangers, is only the further developed—”
 
 
 
-“Well, then, it must be that you think they are _both_ weak and prone
+“[[Well]], then, it must be that you think they are _both_ weak and prone
 
-to err, and the slightest error, the merest shadow of pollution, will
+to err, and the slightest error, the merest [[Shadow|shadow]] of pollution, will
 
 ruin the one, while the character of the other will be strengthened and
 
-embellished—his education properly finished by a little practical
+embellished—his [[Education|education]] properly finished by a little practical
 
 acquaintance with forbidden things. Such experience, to him (to use a
 
-trite simile), will be like the storm to the oak, which, though it may
+trite simile), will be like the [[Storm|storm]] to the oak, which, though it may
 
-scatter the leaves, and snap the smaller branches, serves but to rivet
+scatter the [[Leaves|leaves]], and snap the smaller branches, serves but to rivet
 
 the roots, and to harden and condense the fibres of the tree. You would
 
@@ -572,7 +572,7 @@ into the world, unarmed against her foes, and ignorant of the snares
 
 that beset her path; nor would I watch and guard her, till, deprived of
 
-self-respect and self-reliance, she lost the power or the will to watch
+[[Self|self]]-respect and [[Self-Reliance|self-reliance]], she lost the power or the will to watch
 
 and guard herself;—and as for my son—if I thought he would grow up to
 
@@ -588,15 +588,15 @@ times!” she earnestly repeated, pressing her darling to her side and
 
 kissing his forehead with intense affection. He had already left his
 
-new companion, and been standing for some time beside his mother’s
+new companion, and been standing for some [[Time|time]] beside his mother’s
 
-knee, looking up into her face, and listening in silent wonder to her
+knee, looking up into her face, and listening in silent [[Wonder|wonder]] to her
 
 incomprehensible discourse.
 
 
 
-“Well! you ladies must always have the last word, I suppose,” said I,
+“[[Well]]! you ladies must always have the last word, I suppose,” said I,
 
 observing her rise, and begin to take leave of my mother.
 
@@ -610,13 +610,13 @@ them.”
 
 “No; that is the way: you hear just as much of an argument as you
 
-please; and the rest may be spoken to the wind.”
+please; and the rest may be spoken to the [[Wind|wind]].”
 
 
 
 “If you are anxious to say anything more on the subject,” replied she,
 
-as she shook hands with Rose, “you must bring your sister to see me
+as she shook hands with [[Rose]], “you must bring your sister to see me
 
 some fine day, and I’ll listen, as patiently as you could wish, to
 
@@ -658,7 +658,7 @@ She laughingly turned round and held out her hand. I gave it a spiteful
 
 squeeze, for I was annoyed at the continual injustice she had done me
 
-from the very dawn of our acquaintance. Without knowing anything about
+from the very [[Dawn|dawn]] of our acquaintance. Without knowing anything about
 
 my real disposition and principles, she was evidently prejudiced
 

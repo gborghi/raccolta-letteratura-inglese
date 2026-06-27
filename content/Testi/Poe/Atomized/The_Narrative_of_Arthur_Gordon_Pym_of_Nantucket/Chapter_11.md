@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 12"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,11 +20,11 @@ CHAPTER XII.
 
 
 
-I had, for some time past, dwelt upon the prospect of our being reduced
+I had, for some [[Time|time]] past, dwelt upon the prospect of our being reduced
 
 to this last horrible extremity, and had secretly made up my mind to
 
-suffer death in any shape or under any circumstances rather than resort
+suffer [[Death|death]] in any shape or under any circumstances rather than resort
 
 to such a course. Nor was this resolution in any degree weakened by the
 
@@ -36,7 +36,7 @@ aside; and mentally praying to God for power to dissuade him from the
 
 horrible purpose he entertained, I expostulated with him for a long
 
-time and in the most supplicating manner, begging him in the name of
+[[Time|time]] and in the most supplicating manner, begging him in the name of
 
 everything which he held sacred, and urging him by every species of
 
@@ -48,25 +48,25 @@ idea, and not to mention it to either of the other two.
 
 He heard all I said without attempting to controvert any of my
 
-arguments, and I had begun to hope that he would be prevailed upon to
+arguments, and I had begun to [[Hope|hope]] that he would be prevailed upon to
 
 do as I desired. But when I had ceased speaking, he said that he knew
 
-very well all I had said was true, and that to resort to such a course
+very [[Well|well]] all I had said was true, and that to resort to such a course
 
 was the most horrible alternative which could enter into the mind of
 
-man; but that he had now held out as long as human nature could be
+man; but that he had now held out as long as human [[Nature|nature]] could be
 
 sustained; that it was unnecessary for all to perish, when, by the
 
-death of one, it was possible, and even probable, that the rest might
+[[Death|death]] of one, it was possible, and even probable, that the rest might
 
 be finally preserved; adding that I might save myself the trouble of
 
 trying to turn him from his purpose, his mind having been thoroughly
 
-made up on the subject even before the appearance of the ship, and that
+made up on the subject even before the appearance of the [[Ship|ship]], and that
 
 only her heaving in sight had prevented him from mentioning his
 
@@ -82,7 +82,7 @@ come to our relief; again reiterating every argument I could devise,
 
 and which I thought likely to have influence with one of his rough
 
-nature. He said, in reply, that he had not spoken until the very last
+[[Nature|nature]]. He said, in reply, that he had not spoken until the very last
 
 possible moment; that he could exist no longer without sustenance of
 
@@ -112,9 +112,9 @@ sea. Upon this he immediately seized me by the throat, and drawing a
 
 knife, made several ineffectual efforts to stab me in the stomach; an
 
-atrocity which his excessive debility alone prevented him from
+atrocity which his excessive debility [[Alone|alone]] prevented him from
 
-accomplishing. In the mean time, being roused to a high pitch of anger,
+accomplishing. In the mean [[Time|time]], being roused to a high pitch of anger,
 
 I forced him to the vessel's side, with the full intention of throwing
 
@@ -144,7 +144,7 @@ strength of mind to side with myself in resisting any attempt to
 
 execute so dreadful a purpose; and, with the aid of either one of them,
 
-I had no fear of being able to prevent its accomplishment. Being
+I had no [[Fear|fear]] of being able to prevent its accomplishment. Being
 
 disappointed in this expectation, it became absolutely necessary that I
 
@@ -152,7 +152,7 @@ should attend to my own safety, as a further resistance on my part
 
 might possibly be considered by men in their frightful condition a
 
-sufficient excuse for refusing me fair play in the tragedy that I knew
+sufficient excuse for refusing me fair play in the [[Tragedy|tragedy]] that I knew
 
 would speedily be enacted.
 
@@ -164,7 +164,7 @@ requesting a delay of about one hour, in order that the fog which had
 
 gathered around us might have an opportunity of lifting, when it was
 
-possible that the ship we had seen might be again in sight. After great
+possible that the [[Ship|ship]] we had seen might be again in sight. After great
 
 difficulty I obtained from them a promise to wait thus long; and, as I
 
@@ -180,13 +180,13 @@ It is with extreme reluctance that I dwell upon the appalling scene
 
 which ensued; a scene which, with its minutest details, no after events
 
-have been able to efface in the slightest degree from my memory, and
+have been able to efface in the slightest degree from my [[Memory|memory]], and
 
 whose stern recollection will imbitter every future moment of my
 
 existence. Let me run over this portion of my narrative with as much
 
-haste as the nature of the events to be spoken of will permit. The only
+haste as the [[Nature|nature]] of the events to be spoken of will permit. The only
 
 method we could devise for the terrific lottery, in which we were to
 
@@ -210,17 +210,17 @@ an interest momentarily increasing with the frailness of the tenure by
 
 which that existence may be held. But now that the silent, definite,
 
-and stern nature of the business in which I was engaged (so different
+and stern [[Nature|nature]] of the business in which I was engaged (so different
 
-from the tumultuous dangers of the storm or the gradually approaching
+from the tumultuous dangers of the [[Storm|storm]] or the gradually approaching
 
 horrors of famine) allowed me to reflect on the few chances I had of
 
-escaping the most appalling of deaths--a death for the most appalling
+escaping the most appalling of deaths--a [[Death|death]] for the most appalling
 
 of purposes--every particle of that energy which had so long buoyed me
 
-up departed like feathers before the wind, leaving me a helpless prey
+up departed like feathers before the [[Wind|wind]], leaving me a helpless prey
 
 to the most abject and pitiable terror. I could not, at first, even
 
@@ -236,13 +236,13 @@ awful speculation. I thought of falling on my knees to my companions,
 
 and entreating them to let me escape this necessity; of suddenly
 
-rushing upon them, and, by putting one of them to death, of rendering
+rushing upon them, and, by putting one of them to [[Death|death]], of rendering
 
 the decision by lot useless--in short, of everything but of going
 
 through with the matter I had in hand. At last, after wasting a long
 
-time in this imbecile conduct, I was recalled to my senses by the voice
+[[Time|time]] in this imbecile conduct, I was recalled to my senses by the voice
 
 of Parker, who urged me to relieve them at once from the terrible
 
@@ -308,9 +308,9 @@ deck.
 
 
 
-I recovered from my swoon in time to behold the consummation of the
+I recovered from my swoon in [[Time|time]] to behold the consummation of the
 
-tragedy in the death of him who had been chiefly instrumental in
+[[Tragedy|tragedy]] in the [[Death|death]] of him who had been chiefly instrumental in
 
 bringing it about. He made no resistance whatever, and was stabbed in
 
@@ -324,11 +324,11 @@ exquisite horror of their reality. Let it suffice to say that, having
 
 in some measure appeased the raging thirst which consumed us by the
 
-blood of the victim, and having by common consent taken off the hands,
+[[Blood|blood]] of the victim, and having by common consent taken off the hands,
 
 feet, and head, throwing them, together with the entrails, into the
 
-sea, we devoured the rest of the body, piecemeal, during the four ever
+sea, we devoured the rest of the [[Body|body]], piecemeal, during the four ever
 
 memorable days of the seventeenth, eighteenth, nineteenth, and
 
@@ -338,7 +338,7 @@ twentieth of the month.
 
 On the nineteenth, there coming on a smart shower which lasted fifteen
 
-or twenty minutes, we contrived to catch some water by means of a sheet
+or twenty minutes, we contrived to catch some [[Water|water]] by means of a sheet
 
 which had been fished up from the cabin by our drag just after the
 
@@ -346,7 +346,7 @@ gale. The quantity we took in all did not amount to more than half a
 
 gallon; but even this scanty allowance supplied us with comparative
 
-strength and hope.
+strength and [[Hope|hope]].
 
 
 
@@ -364,9 +364,9 @@ gloomily revolving over our lamentable condition, there flashed through
 
 my mind all at once an idea which inspired me with a bright gleam of
 
-hope. I remembered that, when the foremast had been cut away, Peters,
+[[Hope|hope]]. I remembered that, when the foremast had been cut away, Peters,
 
-being in the windward chains, passed one of the axes into my hand,
+being in the windward [[Chains|chains]], passed one of the axes into my hand,
 
 requesting me to put it, if possible, in a place of security, and that
 
@@ -398,7 +398,7 @@ about three feet square, had remained uninjured. I did not hesitate,
 
 however, to attempt the descent; and, a rope being fastened round my
 
-body as before, I plunged boldly in, feet foremost, made my way quickly
+[[Body|body]] as before, I plunged boldly in, feet foremost, made my way quickly
 
 to the berth, and, at the very first attempt, brought up the axe. It
 
@@ -412,7 +412,7 @@ preservation.
 
 We now commenced cutting at the deck with all the energy of rekindled
 
-hope, Peters and myself taking the axe by turns, Augustus's wounded arm
+[[Hope|hope]], Peters and myself taking the axe by turns, Augustus's wounded arm
 
 not permitting him to aid us in any degree. As we were still so feeble
 
@@ -426,7 +426,7 @@ cut an opening sufficiently large to admit of a free access to the
 
 storeroom. This consideration, however, did not discourage us; and,
 
-working all night by the light of the moon, we succeeded in effecting
+working all [[Night|night]] by the light of the [[Moon|moon]], we succeeded in effecting
 
 our purpose by daybreak on the morning of the twenty-third.
 
@@ -440,7 +440,7 @@ jar, which, to our great joy, proved to be full of olives. Having
 
 shared these among us, and devoured them with the greatest avidity, we
 
-proceeded to let him down again. This time he succeeded beyond our
+proceeded to let him down again. This [[Time|time]] he succeeded beyond our
 
 utmost expectations, returning instantly with a large ham and a bottle
 
@@ -450,7 +450,7 @@ learned by experience the pernicious consequences of indulging too
 
 freely. The ham, except about two pounds near the bone, was not in a
 
-condition to be eaten, having been entirely spoiled by the salt water.
+condition to be eaten, having been entirely spoiled by the salt [[Water|water]].
 
 The sound part was divided among us. Peters and Augustus, not being
 
@@ -464,11 +464,11 @@ labours, which had been intolerably severe.
 
 
 
-By noon, feeling somewhat strengthened and refreshed, we again renewed
+By [[Noon|noon]], feeling somewhat strengthened and refreshed, we again renewed
 
 our attempt at getting up provision, Peters and myself going down
 
-alternately, and always with more or less success, until sundown.
+alternately, and always with more or less [[success]], until sundown.
 
 During this interval we had the good fortune to bring up, altogether,
 
@@ -494,7 +494,7 @@ as most of my readers may know, in the group of islands called the
 
 Gallipagos, which, indeed, derive their name from the animal--the
 
-Spanish word Gallipago meaning a fresh-water terapin. From the
+Spanish word Gallipago meaning a fresh-[[Water|water]] terapin. From the
 
 peculiarity of their shape and action they have been sometimes called
 
@@ -518,7 +518,7 @@ shoulder to the extremity of the head was no less than three feet ten
 
 inches. The head has a striking resemblance to that of a serpent. They
 
-can exist without food for an almost incredible length of time,
+can exist without food for an almost incredible length of [[Time|time]],
 
 instances having been known where they have been thrown into the hold
 
@@ -526,17 +526,17 @@ of a vessel and lain two years without nourishment of any kind--being
 
 as fat, and, in every respect, in as good order at the expiration of
 
-the time as when they were first put in. In one particular these
+the [[Time|time]] as when they were first put in. In one particular these
 
-extraordinary animals bear a resemblance to the dromedary, or camel of
+extraordinary [[Animals|animals]] bear a resemblance to the dromedary, or camel of
 
-the desert. In a bag at the root of the neck they carry with them a
+the [[Desert|desert]]. In a bag at the root of the neck they carry with them a
 
-constant supply of water. In some instances, upon killing them after a
+constant supply of [[Water|water]]. In some instances, upon killing them after a
 
 full year's deprivation of all nourishment, as much as three gallons of
 
-perfectly sweet and fresh water have been found in their bags. Their
+perfectly sweet and fresh [[Water|water]] have been found in their bags. Their
 
 food is chiefly wild parsley and celery, with purslain, sea-kelp, and
 
@@ -546,7 +546,7 @@ great quantity of it being usually found on the hillsides near the
 
 shore wherever the animal itself is discovered. They are excellent and
 
-highly nutritious food, and have, no doubt, been the means of
+highly nutritious food, and have, no [[Doubt|doubt]], been the means of
 
 preserving the lives of thousands of seamen employed in the
 
@@ -560,7 +560,7 @@ was not of a large size, weighing probably sixty-five or seventy
 
 pounds. It was a female, and in excellent condition, being exceedingly
 
-fat, and having more than a quart of limpid and sweet water in its bag.
+fat, and having more than a quart of limpid and sweet [[Water|water]] in its bag.
 
 This was indeed a treasure; and, falling on our knees with one accord,
 
@@ -574,7 +574,7 @@ as its struggles were fierce and its strength prodigious. It was upon
 
 the point of making its escape from Peters's grasp, and slipping back
 
-into the water, when Augustus, throwing a rope with a slip-knot around
+into the [[Water|water]], when Augustus, throwing a rope with a slip-knot around
 
 its throat, held it up in this manner until I jumped into the hole by
 
@@ -582,7 +582,7 @@ the side of Peters, and assisted him in lifting it out.
 
 
 
-The water we drew carefully from the bag into the jug, which, it will
+The [[Water|water]] we drew carefully from the bag into the jug, which, it will
 
 be remembered, had been brought up before from the cabin. Having done
 
@@ -598,9 +598,9 @@ per day as long as it should hold out.
 
 During the last two or three days, the weather having been dry and
 
-pleasant, the bedding we had obtained from the cabin, as well as our
+pleasant, the bedding we had obtained from the cabin, as [[Well|well]] as our
 
-clothing, had become thoroughly dry, so that we passed this night (that
+clothing, had become thoroughly dry, so that we passed this [[Night|night]] (that
 
 of the twenty-third) in comparative comfort, enjoying a tranquil
 
@@ -608,9 +608,9 @@ repose, after having supped plentifully on olives and ham, with a small
 
 allowance of the wine. Being afraid of losing some of our stores
 
-overboard during the night, in the event of a breeze springing up, we
+overboard during the [[Night|night]], in the event of a breeze springing up, we
 
-secured them as well as possible with cordage to the fragments of the
+secured them as [[Well|well]] as possible with cordage to the fragments of the
 
 windlass. Our tortoise, which we were anxious to preserve alive as long
 

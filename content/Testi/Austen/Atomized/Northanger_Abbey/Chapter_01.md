@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 31"
+title: "[[Northanger Abbey]] — Chapter 31"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -28,7 +28,7 @@ tags:
 
 
 
-ADVERTISEMENT BY THE AUTHORESS, TO NORTHANGER ABBEY
+ADVERTISEMENT BY THE AUTHORESS, TO [[Northanger Abbey|NORTHANGER ABBEY]]
 
 
 

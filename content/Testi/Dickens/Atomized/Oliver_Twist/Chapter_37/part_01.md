@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 37 (part 1)"
+title: "[[Oliver Twist]] — Chapter 37 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -20,18 +20,18 @@ MATRIMONIAL CASES
 
 
 Mr. Bumble sat in the workhouse parlour, with his eyes moodily fixed on
-the cheerless grate, whence, as it was summer time, no brighter gleam
+the cheerless grate, whence, as it was [[Summer|summer]] [[Time|time]], no brighter gleam
 proceeded, than the reflection of certain sickly rays of the sun, which
 were sent back from its cold and shining surface. A paper fly-cage
 dangled from the ceiling, to which he occasionally raised his eyes in
-gloomy thought; and, as the heedless insects hovered round the gaudy
+gloomy thought; and, as the heedless [[Insects|insects]] hovered round the gaudy
 net-work, Mr. Bumble would heave a deep sigh, while a more gloomy
-shadow overspread his countenance. Mr. Bumble was meditating; it might
-be that the insects brought to mind, some painful passage in his own
+[[Shadow|shadow]] overspread his countenance. Mr. Bumble was meditating; it might
+be that the [[Insects|insects]] brought to mind, some painful passage in his own
 past life.
 
 Nor was Mr. Bumble’s gloom the only thing calculated to awaken a
-pleasing melancholy in the bosom of a spectator. There were not wanting
+pleasing [[Melancholy|melancholy]] in the bosom of a spectator. There were not wanting
 other appearances, and those closely connected with his own person,
 which announced that a great change had taken place in the position of
 his affairs. The laced coat, and the cocked hat; where were they? He
@@ -76,7 +76,7 @@ complaint, had hazarded the foregoing remark at a venture.
 
 “Mrs. Bumble, ma’am!” said Mr. Bumble, with a sentimental sternness.
 
-“Well!” cried the lady.
+“[[Well]]!” cried the lady.
 
 “Have the goodness to look at me,” said Mr. Bumble, fixing his eyes
 upon her.
@@ -102,7 +102,7 @@ by the voice of his partner.
 
 “I am going to sit here, as long as I think proper, ma’am,” rejoined
 Mr. Bumble; “and although I was _not_ snoring, I shall snore, gape,
-sneeze, laugh, or cry, as the humour strikes me; such being my
+sneeze, laugh, or cry, as the [[Humour|humour]] strikes me; such being my
 prerogative.”
 
 “_Your_ prerogative!” sneered Mrs. Bumble, with ineffable contempt.
@@ -122,12 +122,12 @@ arrived, and that a blow struck for the mastership on one side or
 other, must necessarily be final and conclusive, no sooner heard this
 allusion to the dead and gone, than she dropped into a chair, and with
 a loud scream that Mr. Bumble was a hard-hearted brute, fell into a
-paroxysm of tears.
+paroxysm of [[Tears|tears]].
 
-But, tears were not the things to find their way to Mr. Bumble’s soul;
+But, [[Tears|tears]] were not the things to find their way to Mr. Bumble’s [[Soul|soul]];
 his heart was waterproof. Like washable beaver hats that improve with
 rain, his nerves were rendered stouter and more vigorous, by showers of
-tears, which, being tokens of weakness, and so far tacit admissions of
+[[Tears|tears]], which, being tokens of weakness, and so far tacit admissions of
 his own power, pleased and exalted him. He eyed his good lady with
 looks of great satisfaction, and begged, in an encouraging manner, that
 she should cry her hardest: the exercise being looked upon, by the

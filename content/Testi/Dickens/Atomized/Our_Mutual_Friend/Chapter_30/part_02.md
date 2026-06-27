@@ -16,7 +16,7 @@ tags:
 
 ‘Don’t know, Eugene?’
 
-‘Upon my soul, don’t know. I know less about myself than about most
+‘Upon my [[Soul|soul]], don’t know. I know less about myself than about most
 people in the world, and I don’t know.’
 
 ‘You have some design in your mind?’
@@ -34,7 +34,7 @@ embarrassed me. Absolutely, I can’t say. Frankly and faithfully, I would
 if I could.’
 
 So replying, he clapped a hand, in his turn, on his friend’s shoulder,
-as he rose from his seat upon the bed, and said:
+as he [[Rose|rose]] from his seat upon the bed, and said:
 
 ‘You must take your friend as he is. You know what I am, my dear
 Mortimer. You know how dreadfully susceptible I am to boredom. You know
@@ -42,7 +42,7 @@ that when I became enough of a man to find myself an embodied conundrum,
 I bored myself to the last degree by trying to find out what I meant.
 You know that at length I gave it up, and declined to guess any more.
 Then how can I possibly give you the answer that I have not discovered?
-The old nursery form runs, “Riddle-me-riddle-me-ree, p’raps you can’t
+The old nursery form runs, “[[Riddle]]-me-[[Riddle|riddle]]-me-ree, p’raps you can’t
 tell me what this may be?” My reply runs, “No. Upon my life, I can’t.”’
 
 So much of what was fantastically true to his own knowledge of this
@@ -55,19 +55,19 @@ from his reckless indifference.
 enlightens me at all on this question, I will impart unreservedly.’
 
 They returned to the room they had come from, and, finding it heated,
-opened a window. Having lighted their cigars, they leaned out of this
-window, smoking, and looking down at the moonlight, as it shone into the
-court below.
+opened a [[Window|window]]. Having lighted their cigars, they leaned out of this
+[[Window|window]], smoking, and looking down at the moonlight, as it shone into the
+[[Court|court]] below.
 
-‘No enlightenment,’ resumed Eugene, after certain minutes of silence. ‘I
+‘No enlightenment,’ resumed Eugene, after certain minutes of [[Silence|silence]]. ‘I
 feel sincerely apologetic, my dear Mortimer, but nothing comes.’
 
 ‘If nothing comes,’ returned Mortimer, ‘nothing can come from it. So
-I shall hope that this may hold good throughout, and that there may be
+I shall [[Hope|hope]] that this may hold good throughout, and that there may be
 nothing on foot. Nothing injurious to you, Eugene, or—’
 
 Eugene stayed him for a moment with his hand on his arm, while he took a
-piece of earth from an old flowerpot on the window-sill and dexterously
+piece of earth from an old flowerpot on the [[Window|window]]-sill and dexterously
 shot it at a little point of light opposite; having done which to his
 satisfaction, he said, ‘Or?’
 
@@ -90,13 +90,13 @@ concealed or half-expressed meaning in his face.
 
 ‘Two belated wanderers in the mazes of the law,’ said Eugene, attracted
 by the sound of footsteps, and glancing down as he spoke, ‘stray into
-the court. They examine the door-posts of number one, seeking the name
+the [[Court|court]]. They examine the door-posts of number one, seeking the name
 they want. Not finding it at number one, they come to number two. On the
 hat of wanderer number two, the shorter one, I drop this pellet. Hitting
 him on the hat, I smoke serenely, and become absorbed in contemplation
 of the sky.’
 
-Both the wanderers looked up towards the window; but, after
+Both the wanderers looked up towards the [[Window|window]]; but, after
 interchanging a mutter or two, soon applied themselves to the door-posts
 below. There they seemed to discover what they wanted, for they
 disappeared from view by entering at the doorway. ‘When they emerge,’
@@ -105,8 +105,8 @@ two pellets for the purpose.
 
 He had not reckoned on their seeking his name, or Lightwood’s. But
 either the one or the other would seem to be in question, for now there
-came a knock at the door. ‘I am on duty to-night,’ said Mortimer, ‘stay
-you where you are, Eugene.’ Requiring no persuasion, he stayed there,
+came a knock at the door. ‘I am on duty to-[[Night|night]],’ said Mortimer, ‘stay
+you where you are, Eugene.’ Requiring no [[Persuasion|persuasion]], he stayed there,
 smoking quietly, and not at all curious to know who knocked, until
 Mortimer spoke to him from within the room, and touched him. Then,
 drawing in his head, he found the visitors to be young Charley Hexam
@@ -130,10 +130,10 @@ explanation of this odd visit.
 ‘So I thought, but he says no. He says it is to you.’
 
 ‘Yes, I do say so,’ interposed the boy. ‘And I mean to say what I want
-to say, too, Mr Eugene Wrayburn!’
+to say, too, Mr [[Eugene Wrayburn]]!’
 
 Passing him with his eyes as if there were nothing where he stood,
-Eugene looked on to Bradley Headstone. With consummate indolence, he
+Eugene looked on to [[Bradley Headstone]]. With consummate [[Indolence|indolence]], he
 turned to Mortimer, inquiring: ‘And who may this other person be?’
 
 ‘I am Charles Hexam’s friend,’ said Bradley; ‘I am Charles Hexam’s
@@ -143,12 +143,12 @@ schoolmaster.’
 Eugene.
 
 Composedly smoking, he leaned an elbow on the chimneypiece, at the side
-of the fire, and looked at the schoolmaster. It was a cruel look, in its
+of the [[Fire|fire]], and looked at the schoolmaster. It was a cruel look, in its
 cold disdain of him, as a creature of no worth. The schoolmaster looked
 at him, and that, too, was a cruel look, though of the different kind,
-that it had a raging jealousy and fiery wrath in it.
+that it had a raging [[Jealousy|jealousy]] and fiery wrath in it.
 
-Very remarkably, neither Eugene Wrayburn nor Bradley Headstone looked at
+Very remarkably, neither [[Eugene Wrayburn]] nor [[Bradley Headstone]] looked at
 all at the boy. Through the ensuing dialogue, those two, no matter
 who spoke, or whom was addressed, looked at each other. There was some
 secret, sure perception between them, which set them against one another

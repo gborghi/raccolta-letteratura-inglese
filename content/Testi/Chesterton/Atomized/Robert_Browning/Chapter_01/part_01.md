@@ -23,7 +23,7 @@ On the subject of Browning's work innumerable things have been said
 and remain to be said; of his life, considered as a narrative of
 facts, there is little or nothing to say. It was a lucid and public
 and yet quiet life, which culminated in one great dramatic test of
-character, and then fell back again into this union of quietude and
+character, and then fell back again into this [[Union|union]] of quietude and
 publicity. And yet, in spite of this, it is a great deal more
 difficult to speak finally about his life than about his work. His
 work has the mystery which belongs to the complex; his life the much
@@ -34,33 +34,33 @@ never clever enough to understand his own character; consequently we
 may be excused if that part of him which was hidden from him is partly
 hidden from us. The subtle man is always immeasurably easier to
 understand than the natural man; for the subtle man keeps a diary of
-his moods, he practises the art of self-analysis and self-revelation,
+his moods, he practises the art of [[Self|self]]-analysis and [[Self|self]]-revelation,
 and can tell us how he came to feel this or to say that. But a man
 like Browning knows no more about the state of his emotions than about
 the state of his pulse; they are things greater than he, things
-growing at will, like forces of Nature. There is an old anecdote,
+growing at will, like forces of [[Nature]]. There is an old anecdote,
 probably apocryphal, which describes how a feminine admirer wrote to
-Browning asking him for the meaning of one of his darker poems, and
+Browning asking him for the meaning of one of his darker [[Poems|poems]], and
 received the following reply: "When that poem was written, two people
 knew what it meant--God and Robert Browning. And now God only knows
 what it means." This story gives, in all probability, an entirely
 false impression of Browning's attitude towards his work. He was a
-keen artist, a keen scholar, he could put his finger on anything, and
-he had a memory like the British Museum Library. But the story does,
+keen [[artist]], a keen scholar, he could put his finger on anything, and
+he had a [[Memory|memory]] like the British Museum Library. But the story does,
 in all probability, give a tolerably accurate picture of Browning's
 attitude towards his own emotions and his psychological type. If a man
-had asked him what some particular allusion to a Persian hero meant he
-could in all probability have quoted half the epic; if a man had asked
+had asked him what some particular allusion to a Persian [[Hero|hero]] meant he
+could in all probability have quoted half the [[Epic|epic]]; if a man had asked
 him which third cousin of Charlemagne was alluded to in _Sordello_, he
 could have given an account of the man and an account of his father
 and his grandfather. But if a man had asked him what he thought of
 himself, or what were his emotions an hour before his wedding, he
-would have replied with perfect sincerity that God alone knew.
+would have replied with perfect sincerity that God [[Alone|alone]] knew.
 
 This mystery of the unconscious man, far deeper than any mystery of
 the conscious one, existing as it does in all men, existed peculiarly
 in Browning, because he was a very ordinary and spontaneous man. The
-same thing exists to some extent in all history and all affairs.
+same thing exists to some extent in all [[history]] and all affairs.
 Anything that is deliberate, twisted, created as a trap and a
 mystery, must be discovered at last; everything that is done naturally
 remains mysterious. It may be difficult to discover the principles of
@@ -72,7 +72,7 @@ of Browning's life; there is the same difference between judging of
 his poetry and judging of his life, that there is between making a map
 of a labyrinth and making a map of a mist. The discussion of what some
 particular allusion in _Sordello_ means has gone on so far, and may go
-on still, but it has it in its nature to end. The life of Robert
+on still, but it has it in its [[Nature|nature]] to end. The life of Robert
 Browning, who combines the greatest brain with the most simple
 temperament known in our annals, would go on for ever if we did not
 decide to summarise it in a very brief and simple narrative.
@@ -94,11 +94,11 @@ a coincidence of surnames and the fact that Browning used a seal with
 a coat-of-arms. Thousands of middle-class men use such a seal, merely
 because it is a curiosity or a legacy, without knowing or caring
 anything about the condition of their ancestors in the Middle Ages.
-Then, again, there is a theory that he was of Jewish blood; a view
+Then, again, there is a theory that he was of Jewish [[Blood|blood]]; a view
 which is perfectly conceivable, and which Browning would have been the
 last to have thought derogatory, but for which, as a matter of fact,
 there is exceedingly little evidence. The chief reason assigned by his
-contemporaries for the belief was the fact that he was, without doubt,
+contemporaries for the belief was the fact that he was, without [[Doubt|doubt]],
 specially and profoundly interested in Jewish matters. This
 suggestion, worthless in any case, would, if anything, tell the other
 way. For while an Englishman may be enthusiastic about England, or

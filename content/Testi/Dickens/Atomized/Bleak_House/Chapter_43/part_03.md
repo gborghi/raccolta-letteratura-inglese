@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 43 (part 3)"
+title: "Bleak [[house|House]] — Chapter 43 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Well,” said my guardian, by no means displeased with this artless
+“[[Well]],” said my guardian, by no means displeased with this artless
 reply, “if you come to any kind of journeying with Rick, you must
 borrow the money of me (never breathing the least allusion to that
 circumstance), and leave the calculation to him.”
@@ -46,7 +46,7 @@ them—as bright prospects. But I know no more about them, and I tell
 him so.”
 
 The helpless kind of candour with which he presented this before us,
-the light-hearted manner in which he was amused by his innocence, the
+the light-hearted manner in which he was amused by his [[innocence]], the
 fantastic way in which he took himself under his own protection and
 argued about that curious person, combined with the delightful ease
 of everything he said exactly to make out my guardian’s case. The
@@ -61,15 +61,15 @@ Skimpole left the room with a radiant face to fetch his daughters
 (his sons had run away at various times), leaving my guardian quite
 delighted by the manner in which he had vindicated his childish
 character. He soon came back, bringing with him the three young
-ladies and Mrs. Skimpole, who had once been a beauty but was now a
-delicate high-nosed invalid suffering under a complication of
+ladies and Mrs. Skimpole, who had once been a [[Beauty|beauty]] but was now a
+delicate high-nosed invalid [[Suffering|suffering]] under a complication of
 disorders.
 
-“This,” said Mr. Skimpole, “is my Beauty daughter, Arethusa—plays
+“This,” said Mr. Skimpole, “is my [[Beauty]] daughter, Arethusa—plays
 and sings odds and ends like her father. This is my Sentiment
-daughter, Laura—plays a little but don’t sing. This is my Comedy
+daughter, Laura—plays a little but don’t sing. This is my [[Comedy]]
 daughter, Kitty—sings a little but don’t play. We all draw a little
-and compose a little, and none of us have any idea of time or money.”
+and compose a little, and none of us have any idea of [[Time|time]] or money.”
 
 Mrs. Skimpole sighed, I thought, as if she would have been glad to
 strike out this item in the family attainments. I also thought that
@@ -82,14 +82,14 @@ peculiarities in families. In this family we are all children, and I
 am the youngest.”
 
 The daughters, who appeared to be very fond of him, were amused by
-this droll fact, particularly the Comedy daughter.
+this droll fact, particularly the [[Comedy]] daughter.
 
 “My dears, it is true,” said Mr. Skimpole, “is it not? So it is, and
-so it must be, because like the dogs in the hymn, ‘it is our nature
+so it must be, because like the [[dogs]] in the [[Hymn|hymn]], ‘it is our [[Nature|nature]]
 to.’ Now, here is Miss Summerson with a fine administrative capacity
 and a knowledge of details perfectly surprising. It will sound very
 strange in Miss Summerson’s ears, I dare say, that we know nothing
-about chops in this house. But we don’t, not the least. We can’t cook
+about chops in this [[house]]. But we don’t, not the least. We can’t cook
 anything whatever. A needle and thread we don’t know how to use. We
 admire the people who possess the practical wisdom we want, but we
 don’t quarrel with them. Then why should they quarrel with us? Live
@@ -107,13 +107,13 @@ everything. Have we not?”
 “In fact, that is our family department,” said Mr. Skimpole, “in this
 hurly-burly of life. We are capable of looking on and of being
 interested, and we DO look on, and we ARE interested. What more can
-we do? Here is my Beauty daughter, married these three years. Now I
-dare say her marrying another child, and having two more, was all
+we do? Here is my [[Beauty]] daughter, married these three years. Now I
+dare say her marrying another [[Child|child]], and having two more, was all
 wrong in point of political economy, but it was very agreeable. We
 had our little festivities on those occasions and exchanged social
-ideas. She brought her young husband home one day, and they and their
-young fledglings have their nest upstairs. I dare say at some time or
-other Sentiment and Comedy will bring THEIR husbands home and have
+ideas. She brought her young husband [[Home|home]] one day, and they and their
+young fledglings have their nest upstairs. I dare say at some [[Time|time]] or
+other Sentiment and [[Comedy]] will bring THEIR husbands [[Home|home]] and have
 THEIR nests upstairs too. So we get on, we don’t know how, but
 somehow.”
 
@@ -123,8 +123,8 @@ three daughters had grown up as they could and had had just as little
 haphazard instruction as qualified them to be their father’s
 playthings in his idlest hours. His pictorial tastes were consulted,
 I observed, in their respective styles of wearing their hair, the
-Beauty daughter being in the classic manner, the Sentiment daughter
-luxuriant and flowing, and the Comedy daughter in the arch style,
+[[Beauty]] daughter being in the classic manner, the Sentiment daughter
+luxuriant and flowing, and the [[Comedy]] daughter in the arch style,
 with a good deal of sprightly forehead, and vivacious little curls
 dotted about the corners of her eyes. They were dressed to
 correspond, though in a most untidy and negligent way.
@@ -132,7 +132,7 @@ correspond, though in a most untidy and negligent way.
 Ada and I conversed with these young ladies and found them
 wonderfully like their father. In the meanwhile Mr. Jarndyce (who had
 been rubbing his head to a great extent, and hinted at a change in
-the wind) talked with Mrs. Skimpole in a corner, where we could not
+the [[Wind|wind]]) talked with Mrs. Skimpole in a corner, where we could not
 help hearing the chink of money. Mr. Skimpole had previously
-volunteered to go home with us and had withdrawn to dress himself for
+volunteered to go [[Home|home]] with us and had withdrawn to dress himself for
 the purpose.

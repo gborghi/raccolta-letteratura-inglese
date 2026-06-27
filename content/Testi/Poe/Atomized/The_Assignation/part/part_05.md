@@ -1,5 +1,5 @@
 ---
-title: "The Assignation (part 5)"
+title: "[[The Assignation]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Assignation-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
     “He is up
 There like a Roman statue!  He will stand
-Till Death hath made him marble!”
+Till [[Death]] hath made him marble!”
 
       “Come,” he said at length, turning towards a table of richly
       enamelled and massive silver, upon which were a few goblets
@@ -37,18 +37,18 @@ Till Death hath made him marble!”
       conversation, as he held up to the rich light of a censer one of
       the magnificent vases—“to dream has been the business of my life.
       I have therefore framed for myself, as you see, a bower of
-      dreams. In the heart of Venice could I have erected a better? You
+      [[Dreams|dreams]]. In the heart of [[Venice]] could I have erected a better? You
       behold around you, it is true, a medley of architectural
       embellishments. The chastity of Ionia is offended by antediluvian
-      devices, and the sphynxes of Egypt are outstretched upon carpets
-      of gold. Yet the effect is incongruous to the timid alone.
-      Proprieties of place, and especially of time, are the bugbears
+      devices, and the sphynxes of [[Egypt]] are outstretched upon carpets
+      of gold. Yet the effect is incongruous to the timid [[Alone|alone]].
+      Proprieties of place, and especially of [[Time|time]], are the bugbears
       which terrify mankind from the contemplation of the magnificent.
       Once I was myself a decorist; but that sublimation of folly has
-      palled upon my soul. All this is now the fitter for my purpose.
-      Like these arabesque censers, my spirit is writhing in fire, and
+      palled upon my [[Soul|soul]]. All this is now the fitter for my purpose.
+      Like these arabesque censers, my spirit is writhing in [[Fire|fire]], and
       the delirium of this scene is fashioning me for the wilder
-      visions of that land of real dreams whither I am now rapidly
+      visions of that land of real [[Dreams|dreams]] whither I am now rapidly
       departing.” He here paused abruptly, bent his head to his bosom,
       and seemed to listen to a sound which I could not hear. At
       length, erecting his frame, he looked upwards, and ejaculated the
@@ -72,4 +72,4 @@ Till Death hath made him marble!”
       were rigid—his lips were livid—his lately beaming eyes were
       riveted in _death_. I staggered back towards the table—my hand
       fell upon a cracked and blackened goblet—and a consciousness of
-      the entire and terrible truth flashed suddenly over my soul.
+      the entire and terrible [[Truth|truth]] flashed suddenly over my [[Soul|soul]].

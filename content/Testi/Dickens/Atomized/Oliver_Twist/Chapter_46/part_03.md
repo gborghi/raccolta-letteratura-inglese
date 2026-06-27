@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 46 (part 3)"
+title: "[[Oliver Twist]] — Chapter 46 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -18,7 +18,7 @@ tags:
 he has a lurking walk; and as he walks, constantly looks over his
 shoulder, first on one side, and then on the other. Don’t forget that,
 for his eyes are sunk in his head so much deeper than any other man’s,
-that you might almost tell him by that alone. His face is dark, like
+that you might almost tell him by that [[Alone|alone]]. His face is dark, like
 his hair and eyes; and, although he can’t be more than six or eight and
 twenty, withered and haggard. His lips are often discoloured and
 disfigured with the marks of teeth; for he has desperate fits, and
@@ -29,7 +29,7 @@ The gentleman replied, in a hurried manner, that he was not conscious
 of having done so, and begged her to proceed.
 
 “Part of this,” said the girl, “I have drawn out from other people at
-the house I tell you of, for I have only seen him twice, and both times
+the [[house]] I tell you of, for I have only seen him twice, and both times
 he was covered up in a large cloak. I think that’s all I can give you
 to know him by. Stay though,” she added. “Upon his throat: so high that
 you can see a part of it below his neckerchief when he turns his face:
@@ -42,7 +42,7 @@ there is—”
 The young lady uttered a cry of surprise, and for a few moments they
 were so still that the listener could distinctly hear them breathe.
 
-“I think I do,” said the gentleman, breaking silence. “I should by your
+“I think I do,” said the gentleman, breaking [[Silence|silence]]. “I should by your
 description. We shall see. Many people are singularly like each other.
 It may not be the same.”
 
@@ -55,50 +55,50 @@ he had stood before, “you have given us most valuable assistance, young
 woman, and I wish you to be the better for it. What can I do to serve
 you?”
 
-“Nothing,” replied Nancy.
+“Nothing,” replied [[Nancy]].
 
 “You will not persist in saying that,” rejoined the gentleman, with a
 voice and emphasis of kindness that might have touched a much harder
 and more obdurate heart. “Think now. Tell me.”
 
 “Nothing, sir,” rejoined the girl, weeping. “You can do nothing to help
-me. I am past all hope, indeed.”
+me. I am past all [[Hope|hope]], indeed.”
 
 “You put yourself beyond its pale,” said the gentleman. “The past has
 been a dreary waste with you, of youthful energies mis-spent, and such
 priceless treasures lavished, as the Creator bestows but once and never
-grants again, but, for the future, you may hope. I do not say that it
+grants again, but, for the future, you may [[Hope|hope]]. I do not say that it
 is in our power to offer you peace of heart and mind, for that must
 come as you seek it; but a quiet asylum, either in England, or, if you
-fear to remain here, in some foreign country, it is not only within the
+[[Fear|fear]] to remain here, in some foreign country, it is not only within the
 compass of our ability but our most anxious wish to secure you. Before
-the dawn of morning, before this river wakes to the first glimpse of
+the [[Dawn|dawn]] of morning, before this [[River|river]] wakes to the first glimpse of
 day-light, you shall be placed as entirely beyond the reach of your
 former associates, and leave as utter an absence of all trace behind
 you, as if you were to disappear from the earth this moment. Come! I
 would not have you go back to exchange one word with any old companion,
 or take one look at any old haunt, or breathe the very air which is
-pestilence and death to you. Quit them all, while there is time and
+pestilence and [[Death|death]] to you. Quit them all, while there is [[Time|time]] and
 opportunity!”
 
 “She will be persuaded now,” cried the young lady. “She hesitates, I am
 sure.”
 
-“I fear not, my dear,” said the gentleman.
+“I [[Fear|fear]] not, my dear,” said the gentleman.
 
 “No sir, I do not,” replied the girl, after a short struggle. “I am
 chained to my old life. I loathe and hate it now, but I cannot leave
 it. I must have gone too far to turn back,—and yet I don’t know, for if
-you had spoken to me so, some time ago, I should have laughed it off.
-But,” she said, looking hastily round, “this fear comes over me again.
-I must go home.”
+you had spoken to me so, some [[Time|time]] ago, I should have laughed it off.
+But,” she said, looking hastily round, “this [[Fear|fear]] comes over me again.
+I must go [[Home|home]].”
 
-“Home!” repeated the young lady, with great stress upon the word.
+“[[Home]]!” repeated the young lady, with great stress upon the word.
 
-“Home, lady,” rejoined the girl. “To such a home as I have raised for
+“[[Home]], lady,” rejoined the girl. “To such a [[Home|home]] as I have raised for
 myself with the work of my whole life. Let us part. I shall be watched
 or seen. Go! Go! If I have done you any service all I ask is, that you
-leave me, and let me go my way alone.”
+leave me, and let me go my way [[Alone|alone]].”
 
 “It is useless,” said the gentleman, with a sigh. “We compromise her
 safety, perhaps, by staying here. We may have detained her longer than
@@ -110,7 +110,7 @@ she expected already.”
 life!”
 
 “What!” repeated the girl. “Look before you, lady. Look at that dark
-water. How many times do you read of such as I who spring into the
+[[Water|water]]. How many times do you read of such as I who [[Spring|spring]] into the
 tide, and leave no living thing, to care for, or bewail them. It may be
 years hence, or it may be only months, but I shall come to that at
 last.”
@@ -118,7 +118,7 @@ last.”
 “Do not speak thus, pray,” returned the young lady, sobbing.
 
 “It will never reach your ears, dear lady, and God forbid such horrors
-should!” replied the girl. “Good-night, good-night!”
+should!” replied the girl. “Good-[[Night|night]], good-[[Night|night]]!”
 
 The gentleman turned away.
 
@@ -129,7 +129,7 @@ have some resource in an hour of need and trouble.”
 that to think of. And yet—give me something that you have worn: I
 should like to have something—no, no, not a ring—your gloves or
 handkerchief—anything that I can keep, as having belonged to you, sweet
-lady. There. Bless you! God bless you. Good-night, good-night!”
+lady. There. Bless you! God bless you. Good-[[Night|night]], good-[[Night|night]]!”
 
 The violent agitation of the girl, and the apprehension of some
 discovery which would subject her to ill-usage and violence, seemed to
@@ -143,21 +143,21 @@ appeared upon the bridge. They stopped at the summit of the stairs.
 “Hark!” cried the young lady, listening. “Did she call! I thought I
 heard her voice.”
 
-“No, my love,” replied Mr. Brownlow, looking sadly back. “She has not
+“No, my [[Love|love]],” replied Mr. Brownlow, looking sadly back. “She has not
 moved, and will not till we are gone.”
 
-Rose Maylie lingered, but the old gentleman drew her arm through his,
+[[Rose Maylie]] lingered, but the old gentleman drew her arm through his,
 and led her, with gentle force, away. As they disappeared, the girl
 sunk down nearly at her full length upon one of the stone stairs, and
-vented the anguish of her heart in bitter tears.
+vented the anguish of her heart in bitter [[Tears|tears]].
 
-After a time she arose, and with feeble and tottering steps ascended
+After a [[Time|time]] she arose, and with feeble and tottering steps ascended
 the street. The astonished listener remained motionless on his post for
 some minutes afterwards, and having ascertained, with many cautious
-glances round him, that he was again alone, crept slowly from his
+glances round him, that he was again [[Alone|alone]], crept slowly from his
 hiding-place, and returned, stealthily and in the shade of the wall, in
 the same manner as he had descended.
 
 Peeping out, more than once, when he reached the top, to make sure that
-he was unobserved, Noah Claypole darted away at his utmost speed, and
-made for the Jew’s house as fast as his legs would carry him.
+he was unobserved, Noah Claypole darted away at his utmost [[Speed|speed]], and
+made for the Jew’s [[house]] as fast as his legs would carry him.

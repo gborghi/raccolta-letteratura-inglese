@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 5)"
+title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -20,25 +20,25 @@ Twyford."
 "But I don't understand," objected March. "If it was done with the
 
 schoolboy's magnet, I suppose it was done by the schoolboy."
-"Well," replied Fisher, reflectively, "it rather depends which
+"[[Well]]," replied Fisher, reflectively, "it rather depends which
 
 schoolboy."
 "What on earth do you mean?"
-"The soul of a schoolboy is a curious thing," Fisher continued, in a
+"The [[Soul|soul]] of a schoolboy is a curious thing," Fisher continued, in a
 
 meditative manner. "It can survive a great many things besides
 
 climbing out of a chimney. A man can grow gray in great campaigns,
 
-and still have the soul of a schoolboy. A man can return with a
+and still have the [[Soul|soul]] of a schoolboy. A man can return with a
 
 great reputation from India and be put in charge of a great public
 
-treasure, and still have the soul of a schoolboy, waiting to be
+treasure, and still have the [[Soul|soul]] of a schoolboy, waiting to be
 
 awakened by an accident. And it is ten times more so when to the
 
-schoolboy you add the skeptic, who is generally a sort of stunted
+schoolboy you add the [[skeptic]], who is generally a sort of stunted
 
 schoolboy. You said just now that things might be done by religious
 
@@ -46,14 +46,14 @@ mania. Have you ever heard of irreligious mania? I assure you it
 
 exists very violently, especially in men who like showing up
 
-magicians in India. But here the skeptic had the temptation of
+magicians in India. But here the [[skeptic]] had the [[Temptation|temptation]] of
 
-showing up a much more tremendous sham nearer home."
+showing up a much more tremendous sham nearer [[Home|home]]."
 A light came into Harold March's eyes as he suddenly saw, as if afar
 
 off, the wider implication of the suggestion. But Twyford was still
 
-wrestling with one problem at a time.
+wrestling with one problem at a [[Time|time]].
 "Do you really mean," he said, "that Colonel Morris took the relic?"
 "He was the only person who could use the magnet," replied Fisher.
 
@@ -81,7 +81,7 @@ almost unrecognizable.
 "Oh," replied Fisher, soothingly, "I dare say it was painted with
 
 silver a little."
-There was a heavy silence, and at last Harold March said, "But where
+There was a heavy [[Silence|silence]], and at last Harold March said, "But where
 
 is the real relic?"
 "Where it has been for five years," replied Horne Fisher, "in the
@@ -101,7 +101,7 @@ actually done; according to that, Morris just made a hole and fished
 
 it up with a magnet at the end of a string. Such a monkey trick
 
-looks like mere madness, but I suppose he was mad, partly with the
+looks like mere [[Madness|madness]], but I suppose he was mad, partly with the
 
 boredom of watching over what he felt was a fraud, though he
 
@@ -125,7 +125,7 @@ Fisher.
 "All the same I should try," said March, still without lifting his
 
 head.
-"Oh, very well," replied Fisher, with a sigh; "the plain truth is,
+"Oh, very [[Well|well]]," replied Fisher, with a sigh; "the plain [[Truth|truth]] is,
 
 of course, that it's a bad business. Everybody knows it's a bad
 
@@ -138,14 +138,14 @@ princess that's as stiff as a Dutch doll, and they have their fling.
 In this case it was a pretty big fling."
 The face of the Rev. Thomas Twyford certainly suggested that he was
 
-a little out of his depth in the seas of truth, but as the other
+a little out of his depth in the seas of [[Truth|truth]], but as the other
 
 went on speaking vaguely the old gentleman's features sharpened and
 
 set.
 "If it were some decent morganatic affair I wouldn't say; but he
 
-must have been a fool to throw away thousands on a woman like that.
+must have been a [[Fool|fool]] to throw away thousands on a woman like that.
 
 At the end it was sheer blackmail; but it's something that the old
 
@@ -153,12 +153,12 @@ ass didn't get it out of the taxpayers. He could only get it out of
 
 the Yank, and there you are."
 The Rev. Thomas Twyford had risen to his feet.
-"Well, I'm glad my nephew had nothing to do with it," he said. "And
+"[[Well]], I'm glad my nephew had nothing to do with it," he said. "And
 
-if that's what the world is like, I hope he will never have anything
+if that's what the world is like, I [[Hope|hope]] he will never have anything
 
 to do with it."
-"I hope not," answered Horne Fisher. "No one knows so well as I do
+"I [[Hope|hope]] not," answered Horne Fisher. "No one knows so [[Well|well]] as I do
 
 that one can have far too much to do with it."
 For Summers Minor had indeed nothing to do with it; and it is part
@@ -179,4 +179,4 @@ might see a new bird or a botanist a new flower. And he had been
 
 sufficiently enraptured in rushing after it, and riding away upon
 
-that fairy ship.
+that fairy [[Ship|ship]].

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 31"
+title: "[[Pride and Prejudice]] — Chapter 31"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -23,12 +23,12 @@ Colonel Fitzwilliam’s manners were very much admired at the Parsonage,
 and the ladies all felt that he must add considerably to the pleasure of
 their engagements at Rosings. It was some days, however, before they
 received any invitation thither, for while there were visitors in the
-house they could not be necessary; and it was not till Easter-day,
+[[house]] they could not be necessary; and it was not till Easter-day,
 almost a week after the gentlemen’s arrival, that they were honoured by
 such an attention, and then they were merely asked on leaving church to
 come there in the evening. For the last week they had seen very little
 of either Lady Catherine or her daughter. Colonel Fitzwilliam had called
-at the Parsonage more than once during the time, but Mr. Darcy they had
+at the Parsonage more than once during the [[Time|time]], but Mr. Darcy they had
 only seen at church.
 
 The invitation was accepted, of course, and at a proper hour they joined
@@ -41,11 +41,11 @@ much more than to any other person in the room.
 Colonel Fitzwilliam seemed really glad to see them: anything was a
 welcome relief to him at Rosings; and Mrs. Collins’s pretty friend had,
 moreover, caught his fancy very much. He now seated himself by her, and
-talked so agreeably of Kent and Hertfordshire, of travelling and staying
-at home, of new books and music, that Elizabeth had never been half so
-well entertained in that room before; and they conversed with so much
+talked so agreeably of [[Kent]] and Hertfordshire, of travelling and staying
+at [[Home|home]], of new books and music, that Elizabeth had never been half so
+[[Well|well]] entertained in that room before; and they conversed with so much
 spirit and flow as to draw the attention of Lady Catherine herself, as
-well as of Mr. Darcy. _His_ eyes had been soon and repeatedly turned
+[[Well|well]] as of Mr. Darcy. _His_ eyes had been soon and repeatedly turned
 towards them with a look of curiosity; and that her Ladyship, after a
 while, shared the feeling, was more openly acknowledged, for she did not
 scruple to call out,--
@@ -77,18 +77,18 @@ She practises very constantly.”
 to her, I shall charge her not to neglect it on any account. I often
 tell young ladies, that no excellence in music is to be acquired without
 constant practice. I have told Miss Bennet several times, that she will
-never play really well, unless she practises more; and though Mrs.
+never play really [[Well|well]], unless she practises more; and though Mrs.
 Collins has no instrument, she is very welcome, as I have often told
 her, to come to Rosings every day, and play on the pianoforte in Mrs.
 Jenkinson’s room. She would be in nobody’s way, you know, in that part
-of the house.”
+of the [[house]].”
 
 Mr. Darcy looked a little ashamed of his aunt’s ill-breeding, and made
 no answer.
 
 When coffee was over, Colonel Fitzwilliam reminded Elizabeth of having
 promised to play to him; and she sat down directly to the instrument. He
-drew a chair near her. Lady Catherine listened to half a song, and then
+drew a chair near her. Lady Catherine listened to half a [[Song|song]], and then
 talked, as before, to her other nephew; till the latter walked away from
 her, and moving with his usual deliberation towards the pianoforte,
 stationed himself so as to command a full view of the fair performer’s
@@ -96,9 +96,9 @@ countenance. Elizabeth saw what he was doing, and at the first
 convenient pause turned to him with an arch smile, and said,--
 
 “You mean to frighten me, Mr. Darcy, by coming in all this state to hear
-me. But I will not be alarmed, though your sister _does_ play so well.
+me. But I will not be alarmed, though your sister _does_ play so [[Well|well]].
 There is a stubbornness about me that never can bear to be frightened at
-the will of others. My courage always rises with every attempt to
+the will of others. My [[Courage|courage]] always rises with every attempt to
 intimidate me.”
 
 “I shall not say that you are mistaken,” he replied, “because you could
@@ -110,7 +110,7 @@ are not your own.”
 Elizabeth laughed heartily at this picture of herself, and said to
 Colonel Fitzwilliam, “Your cousin will give you a very pretty notion of
 me, and teach you not to believe a word I say. I am particularly unlucky
-in meeting with a person so well able to expose my real character, in a
+in meeting with a person so [[Well|well]] able to expose my real character, in a
 part of the world where I had hoped to pass myself off with some degree
 of credit. Indeed, Mr. Darcy, it is very ungenerous in you to mention
 all that you knew to my disadvantage in Hertfordshire--and, give me
@@ -123,17 +123,17 @@ and such things may come out as will shock your relations to hear.”
 Fitzwilliam. “I should like to know how he behaves among strangers.”
 
 “You shall hear, then--but prepare for something very dreadful. The
-first time of my ever seeing him in Hertfordshire, you must know, was at
+first [[Time|time]] of my ever seeing him in Hertfordshire, you must know, was at
 a ball--and at this ball, what do you think he did? He danced only four
-dances! I am sorry to pain you, but so it was. He danced only four
+dances! I am sorry to [[Pain|pain]] you, but so it was. He danced only four
 dances, though gentlemen were scarce; and, to my certain knowledge, more
 than one young lady was sitting down in want of a partner. Mr. Darcy,
 you cannot deny the fact.”
 
-“I had not at that time the honour of knowing any lady in the assembly
+“I had not at that [[Time|time]] the [[Honour|honour]] of knowing any lady in the assembly
 beyond my own party.”
 
-“True; and nobody can ever be introduced in a ball-room. Well, Colonel
+“True; and nobody can ever be introduced in a ball-room. [[Well]], Colonel
 Fitzwilliam, what do I play next? My fingers wait your orders.”
 
 “Perhaps,” said Darcy, “I should have judged better had I sought an
@@ -141,7 +141,7 @@ introduction, but I am ill-qualified to recommend myself to strangers.”
 
 “Shall we ask your cousin the reason of this?” said Elizabeth, still
 addressing Colonel Fitzwilliam. “Shall we ask him why a man of sense and
-education, and who has lived in the world, is ill-qualified to recommend
+[[Education|education]], and who has lived in the world, is ill-qualified to recommend
 himself to strangers?”
 
 “I can answer your question,” said Fitzwilliam, “without applying to
@@ -160,7 +160,7 @@ the trouble of practising. It is not that I do not believe _my_ fingers
 as capable as any other woman’s of superior execution.”
 
 Darcy smiled and said, “You are perfectly right. You have employed your
-time much better. No one admitted to the privilege of hearing you can
+[[Time|time]] much better. No one admitted to the privilege of hearing you can
 think anything wanting. We neither of us perform to strangers.”
 
 Here they were interrupted by Lady Catherine, who called out to know
@@ -169,13 +169,13 @@ Lady Catherine approached, and, after listening for a few minutes, said
 to Darcy,--
 
 “Miss Bennet would not play at all amiss if she practised more, and
-could have the advantage of a London master. She has a very good notion
+could have the advantage of a [[London]] master. She has a very good notion
 of fingering, though her taste is not equal to Anne’s. Anne would have
 been a delightful performer, had her health allowed her to learn.”
 
 Elizabeth looked at Darcy, to see how cordially he assented to his
 cousin’s praise: but neither at that moment nor at any other could she
-discern any symptom of love; and from the whole of his behaviour to Miss
+discern any symptom of [[Love|love]]; and from the whole of his behaviour to Miss
 De Bourgh she derived this comfort for Miss Bingley, that he might have
 been just as likely to marry _her_, had she been his relation.
 
@@ -183,7 +183,7 @@ Lady Catherine continued her remarks on Elizabeth’s performance, mixing
 with them many instructions on execution and taste. Elizabeth received
 them with all the forbearance of civility; and at the request of the
 gentlemen remained at the instrument till her Ladyship’s carriage was
-ready to take them all home.
+ready to take them all [[Home|home]].
 
 
 

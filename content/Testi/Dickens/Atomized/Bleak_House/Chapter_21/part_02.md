@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 21 (part 2)"
+title: "Bleak [[house|House]] — Chapter 21 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -37,9 +37,9 @@ modelling that action of her face, as she has unconsciously modelled
 all its other expressions, on her pattern of sordid age. Such is
 Judy.
 
-And her twin brother couldn’t wind up a top for his life. He knows no
+And her twin brother couldn’t [[Wind|wind]] up a top for his life. He knows no
 more of Jack the Giant Killer or of Sinbad the Sailor than he knows
-of the people in the stars. He could as soon play at leap-frog or at
+of the people in the [[Stars|stars]]. He could as soon play at leap-frog or at
 cricket as change into a cricket or a frog himself. But he is so much
 the better off than his sister that on his narrow world of fact an
 opening has dawned into such broader regions as lie within the ken of
@@ -58,14 +58,14 @@ it is served out and asks Judy where the girl is.
 
 “Charley, do you mean?”
 
-This touches a spring in Grandmother Smallweed, who, chuckling as
-usual at the trivets, cries, “Over the water! Charley over the water,
-Charley over the water, over the water to Charley, Charley over the
-water, over the water to Charley!” and becomes quite energetic about
+This touches a [[spring]] in Grandmother Smallweed, who, chuckling as
+usual at the trivets, cries, “Over the [[Water|water]]! Charley over the [[Water|water]],
+Charley over the [[Water|water]], over the [[Water|water]] to Charley, Charley over the
+[[Water|water]], over the [[Water|water]] to Charley!” and becomes quite energetic about
 it. Grandfather looks at the cushion but has not sufficiently
 recovered his late exertion.
 
-“Ha!” he says when there is silence. “If that’s her name. She eats a
+“Ha!” he says when there is [[Silence|silence]]. “If that’s her name. She eats a
 deal. It would be better to allow her for her keep.”
 
 Judy, with her brother’s wink, shakes her head and purses up her
@@ -81,7 +81,7 @@ Judy answers with a nod of deepest meaning and calls, as she scrapes
 the butter on the loaf with every precaution against waste and cuts
 it into slices, “You, Charley, where are you?” Timidly obedient to
 the summons, a little girl in a rough apron and a large bonnet, with
-her hands covered with soap and water and a scrubbing brush in one of
+her hands covered with soap and [[Water|water]] and a scrubbing brush in one of
 them, appears, and curtsys.
 
 “What work are you about now?” says Judy, making an ancient snap at
@@ -94,8 +94,8 @@ me. Make haste! Go along!” cries Judy with a stamp upon the ground.
 “You girls are more trouble than you’re worth, by half.”
 
 On this severe matron, as she returns to her task of scraping the
-butter and cutting the bread, falls the shadow of her brother,
-looking in at the window. For whom, knife and loaf in hand, she opens
+butter and cutting the bread, falls the [[Shadow|shadow]] of her brother,
+looking in at the [[Window|window]]. For whom, knife and loaf in hand, she opens
 the street-door.
 
 “Aye, aye, Bart!” says Grandfather Smallweed. “Here you are, hey?”

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 13 (part 4)"
+title: "Bleak [[house|House]] — Chapter 13 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,14 +16,14 @@ tags:
 
 Dinner was now announced, and we went downstairs. It was a very
 genteel entertainment, very handsomely served. But the captain and
-the professor still ran in Mr. Badger’s head, and as Ada and I had
-the honour of being under his particular care, we had the full
+[[The Professor|the professor]] still ran in Mr. Badger’s head, and as Ada and I had
+the [[Honour|honour]] of being under his particular care, we had the full
 benefit of them.
 
-“Water, Miss Summerson? Allow me! Not in that tumbler, pray. Bring me
-the professor’s goblet, James!”
+“[[Water]], Miss Summerson? Allow me! Not in that tumbler, pray. Bring me
+[[The Professor|the professor]]’s goblet, James!”
 
-Ada very much admired some artificial flowers under a glass.
+Ada very much admired some artificial [[Flowers|flowers]] under a glass.
 
 “Astonishing how they keep!” said Mr. Badger. “They were presented to
 Mrs. Bayham Badger when she was in the Mediterranean.”
@@ -36,24 +36,24 @@ an occasion I produce some very special claret I happen to have.
 was imported by the captain, we will not say how many years ago. You
 will find it very curious. My dear, I shall be happy to take some of
 this wine with you. (Captain Swosser’s claret to your mistress,
-James!) My love, your health!”
+James!) My [[Love|love]], your health!”
 
 After dinner, when we ladies retired, we took Mrs. Badger’s first and
 second husband with us. Mrs. Badger gave us in the drawing-room a
-biographical sketch of the life and services of Captain Swosser
-before his marriage and a more minute account of him dating from the
-time when he fell in love with her at a ball on board the Crippler,
-given to the officers of that ship when she lay in Plymouth Harbour.
+biographical [[Sketch|sketch]] of the life and services of Captain Swosser
+before his [[Marriage|marriage]] and a more minute account of him dating from the
+[[Time|time]] when he fell in [[Love|love]] with her at a ball on board the Crippler,
+given to the officers of that [[Ship|ship]] when she lay in Plymouth Harbour.
 
 “The dear old Crippler!” said Mrs. Badger, shaking her head. “She was
-a noble vessel. Trim, ship-shape, all a taunto, as Captain Swosser
+a noble vessel. Trim, [[Ship|ship]]-shape, all a taunto, as Captain Swosser
 used to say. You must excuse me if I occasionally introduce a
 nautical expression; I was quite a sailor once. Captain Swosser loved
 that craft for my sake. When she was no longer in commission, he
 frequently said that if he were rich enough to buy her old hulk, he
-would have an inscription let into the timbers of the quarter-deck
-where we stood as partners in the dance to mark the spot where he
-fell—raked fore and aft (Captain Swosser used to say) by the fire
+would have an [[Inscription|inscription]] let into the timbers of the quarter-deck
+where we stood as partners in the [[Dance|dance]] to mark the spot where he
+fell—raked fore and aft (Captain Swosser used to say) by the [[Fire|fire]]
 from my tops. It was his naval way of mentioning my eyes.”
 
 Mrs. Badger shook her head, sighed, and looked in the glass.
@@ -61,10 +61,10 @@ Mrs. Badger shook her head, sighed, and looked in the glass.
 “It was a great change from Captain Swosser to Professor Dingo,” she
 resumed with a plaintive smile. “I felt it a good deal at first. Such
 an entire revolution in my mode of life! But custom, combined with
-science—particularly science—inured me to it. Being the professor’s
+science—particularly science—inured me to it. Being [[The Professor|the professor]]’s
 sole companion in his botanical excursions, I almost forgot that I
 had ever been afloat, and became quite learned. It is singular that
-the professor was the antipodes of Captain Swosser and that Mr.
+[[The Professor|the professor]] was the antipodes of Captain Swosser and that Mr.
 Badger is not in the least like either!”
 
 We then passed into a narrative of the deaths of Captain Swosser and
@@ -72,23 +72,23 @@ Professor Dingo, both of whom seem to have had very bad complaints.
 In the course of it, Mrs. Badger signified to us that she had never
 madly loved but once and that the object of that wild affection,
 never to be recalled in its fresh enthusiasm, was Captain Swosser.
-The professor was yet dying by inches in the most dismal manner, and
+[[The Professor|The professor]] was yet dying by inches in the most dismal manner, and
 Mrs. Badger was giving us imitations of his way of saying, with great
-difficulty, “Where is Laura? Let Laura give me my toast and water!”
+difficulty, “Where is Laura? Let Laura give me my toast and [[Water|water]]!”
 when the entrance of the gentlemen consigned him to the tomb.
 
 Now, I observed that evening, as I had observed for some days past,
-that Ada and Richard were more than ever attached to each other’s
+that Ada and [[Richard]] were more than ever attached to each other’s
 society, which was but natural, seeing that they were going to be
 separated so soon. I was therefore not very much surprised when we
-got home, and Ada and I retired upstairs, to find Ada more silent
+got [[Home|home]], and Ada and I retired upstairs, to find Ada more silent
 than usual, though I was not quite prepared for her coming into my
 arms and beginning to speak to me, with her face hidden.
 
 “My darling Esther!” murmured Ada. “I have a great secret to tell
 you!”
 
-A mighty secret, my pretty one, no doubt!
+A mighty secret, my pretty one, no [[Doubt|doubt]]!
 
 “What is it, Ada?”
 
@@ -99,22 +99,22 @@ A mighty secret, my pretty one, no doubt!
 “Oh, no! Don’t! Pray don’t!” cried Ada, very much startled by the
 idea of my doing so.
 
-“Now, I wonder who it can be about?” said I, pretending to consider.
+“Now, I [[Wonder|wonder]] who it can be about?” said I, pretending to consider.
 
 “It’s about—” said Ada in a whisper. “It’s about—my cousin
-Richard!”
+[[Richard]]!”
 
-“Well, my own!” said I, kissing her bright hair, which was all I
+“[[Well]], my own!” said I, kissing her bright hair, which was all I
 could see. “And what about him?”
 
 “Oh, Esther, you would never guess!”
 
 It was so pretty to have her clinging to me in that way, hiding her
 face, and to know that she was not crying in sorrow but in a little
-glow of joy, and pride, and hope, that I would not help her just yet.
+glow of joy, and [[Pride|pride]], and [[Hope|hope]], that I would not help her just yet.
 
 “He says—I know it’s very foolish, we are both so young—but he
-says,” with a burst of tears, “that he loves me dearly, Esther.”
+says,” with a burst of [[Tears|tears]], “that he loves me dearly, Esther.”
 
 “Does he indeed?” said I. “I never heard of such a thing! Why, my pet
 of pets, I could have told you that weeks and weeks ago!”
@@ -123,12 +123,12 @@ To see Ada lift up her flushed face in joyful surprise, and hold me
 round the neck, and laugh, and cry, and blush, was so pleasant!
 
 “Why, my darling,” said I, “what a goose you must take me for! Your
-cousin Richard has been loving you as plainly as he could for I don’t
+cousin [[Richard]] has been loving you as plainly as he could for I don’t
 know how long!”
 
 “And yet you never said a word about it!” cried Ada, kissing me.
 
-“No, my love,” said I. “I waited to be told.”
+“No, my [[Love|love]],” said I. “I waited to be told.”
 
 “But now I have told you, you don’t think it wrong of me, do you?”
 returned Ada. She might have coaxed me to say no if I had been the
@@ -146,11 +146,11 @@ holding me tighter and laying down her face again upon my breast.
 
 “Why, you never mean to say—” I was beginning in joke.
 
-But Ada, looking up and smiling through her tears, cried, “Yes, I do!
+But Ada, looking up and smiling through her [[Tears|tears]], cried, “Yes, I do!
 You know, you know I do!” And then sobbed out, “With all my heart I
 do! With all my whole heart, Esther!”
 
-I told her, laughing, why I had known that, too, just as well as I
-had known the other! And we sat before the fire, and I had all the
+I told her, laughing, why I had known that, too, just as [[Well|well]] as I
+had known the other! And we sat before the [[Fire|fire]], and I had all the
 talking to myself for a little while (though there was not much of
 it); and Ada was soon quiet and happy.

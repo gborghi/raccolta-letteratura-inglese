@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 23 (part 6)"
+title: "[[Shirley]] — Chapter 23 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,15 +20,15 @@ figure, of a certain mould and height, pass the hedge and enter the
 
 gate. A human figure she at last saw--nay, two. Frederick Murgatroyd
 
-went by, carrying a pail of water; Joe Scott followed, dangling on his
+went by, carrying a pail of [[Water|water]]; Joe Scott followed, dangling on his
 
 forefinger the keys of the mill. They were going to lock up mill and
 
-stables for the night, and then betake themselves home.
+stables for the [[Night|night]], and then betake themselves [[Home|home]].
 
 
 
-"So must I," thought Caroline, as she half rose and sighed.
+"So must I," thought Caroline, as she half [[Rose|rose]] and sighed.
 
 
 
@@ -44,7 +44,7 @@ second place, if he stepped in this moment, my presence here would be a
 
 chagrin to him, and the consciousness that it must be so would turn half
 
-my blood to ice. His hand would, perhaps, be loose and chill if I put
+my [[Blood|blood]] to ice. His hand would, perhaps, be loose and chill if I put
 
 mine into it; his eye would be clouded if I sought its beam. I should
 
@@ -52,7 +52,7 @@ look up for that kindling, something I have seen in past days, when my
 
 face, or my language, or my disposition had at some happy moment pleased
 
-him; I should discover only darkness. I had better go home."
+him; I should discover only darkness. I had better go [[Home|home]]."
 
 
 
@@ -60,7 +60,7 @@ She took her bonnet from the table where it lay, and was just fastening
 
 the ribbon, when Hortense, directing her attention to a splendid bouquet
 
-of flowers in a glass on the same table, mentioned that Miss Keeldar had
+of [[Flowers|flowers]] in a glass on the same table, mentioned that Miss Keeldar had
 
 sent them that morning from Fieldhead; and went on to comment on the
 
@@ -68,7 +68,7 @@ guests that lady was at present entertaining, on the bustling life she
 
 had lately been leading; adding divers conjectures that she did not very
 
-well like it, and much wonderment that a person who was so fond of her
+[[Well|well]] like it, and much wonderment that a person who was so fond of her
 
 own way as the heiress did not find some means of sooner getting rid of
 
@@ -80,7 +80,7 @@ this _cortége_ of relatives.
 
 she added. "They wanted much to return to the south last week, to be
 
-ready for the reception of the only son, who is expected home from a
+ready for the reception of the only son, who is expected [[Home|home]] from a
 
 tour. She insists that her cousin Henry shall come and join his friends
 
@@ -94,7 +94,7 @@ myself."
 
 
 
-"Why, my child, you are dull. Don't you know--you must often have
+"Why, my [[Child|child]], you are dull. Don't you know--you must often have
 
 heard----"
 
@@ -118,7 +118,7 @@ And mademoiselle, hastily taking from a drawer a large linen apron, and
 
 tying it over her black apron, rushed _éperdue_ into the kitchen,
 
-whence, to speak truth, exhaled an odour of calcined sweets rather
+whence, to speak [[Truth|truth]], exhaled an odour of calcined sweets rather
 
 strong than savoury.
 
@@ -138,7 +138,7 @@ treacle, "mélasse," was infinitely preferable. She had committed an
 
 imprudence in leaving Sarah in charge of the preserving-pan, for her
 
-want of sympathy in the nature of its contents had induced a degree of
+want of sympathy in the [[Nature|nature]] of its contents had induced a degree of
 
 carelessness in watching their confection, whereof the result was--dark
 
@@ -148,7 +148,7 @@ than deep or real.
 
 
 
-Caroline, once more turning to the little mirror, was shading her
+Caroline, once more turning to the little [[Mirror|mirror]], was shading her
 
 ringlets from her cheek to smooth them under her cottage bonnet, certain
 
@@ -230,7 +230,7 @@ voice--Robert's, certainly.
 
 Caroline was puzzled. Obeying an impulse the wisdom of which she had not
 
-time to question, she escaped from the little parlour, by way of leaving
+[[Time|time]] to question, she escaped from the little parlour, by way of leaving
 
 the coast clear, and running upstairs took up a position at the head of
 

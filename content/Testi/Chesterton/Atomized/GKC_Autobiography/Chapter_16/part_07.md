@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 16 (part 7)"
+title: "[[GKC-Autobiography]] — Chapter 16 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-I have said that my morbidities were mental as well as moral; and sounded
+I have said that my morbidities were mental as [[Well|well]] as moral; and sounded
 the most appalling depths of fundamental scepticism and solipsism.
 And there again I found that the Church had gone before me and established
 her adamantine foundations; that she had affirmed the actuality
@@ -39,15 +39,15 @@ I did not really understand what I meant by Liberty, until I heard it
 called by the new name of Human Dignity.  It was a new name to me;
 though it was part of a creed nearly two thousand years old.
 In short, I had blindly desired that a man should be in possession
-of something, if it were only his own body.  In so far as materialistic
+of something, if it were only his own [[Body|body]].  In so far as materialistic
 concentration proceeds, a man will be in possesion of nothing;
-not even his own body.  Already there hover on the horizon sweeping
+not even his own [[Body|body]].  Already there hover on the horizon sweeping
 scourges of sterilisation or social hygiene, applied to everybody
 and imposed by nobody.  At least I will not argue here with what
 are quaintly called the scientific authorities on the other side.
 I have found one authority on my side.
 
-This story, therefore, can only end as any detective story
+This story, therefore, can only end as any [[Detective|detective]] story
 should end, with its own particular questions answered and its own
 primary problem solved.  Thousands of totally different stories,
 with totally different problems have ended in the same place
@@ -58,7 +58,7 @@ back to me the first glimpse of the glorious gift of the senses;
 and the sensational experience of sensation.  And there starts
 up again before me, standing sharp and clear in shape as of old,
 the figure of a man who crosses a bridge and carries a key;
-as I saw him when I first looked into fairyland through the window
+as I saw him when I first looked into fairyland through the [[Window|window]]
 of my father's peep-show. But I know that he who is called Pontifex,
 the Builder of the Bridge, is called also Claviger, the Bearer of the Key;
 and that such keys were given him to bind and loose when he was a poor

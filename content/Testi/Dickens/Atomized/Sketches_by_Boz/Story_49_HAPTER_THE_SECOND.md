@@ -17,30 +17,30 @@ tags:
 CHAPTER THE SECOND.
 
 
-‘Well!’ said little Mrs. Tibbs to herself, as she sat in the front
-parlour of the Coram-street mansion one morning, mending a piece of
+‘[[Well]]!’ said little Mrs. Tibbs to herself, as she sat in the front
+parlour of the Coram-street mansion one morning, [[mending]] a piece of
 stair-carpet off the first Landings;—‘Things have not turned out so
 badly, either, and if I only get a favourable answer to the
 advertisement, we shall be full again.’
 
 Mrs. Tibbs resumed her occupation of making worsted lattice-work in the
 carpet, anxiously listening to the twopenny postman, who was hammering
-his way down the street, at the rate of a penny a knock. The house was
+his way down the street, at the rate of a penny a knock. The [[house]] was
 as quiet as possible. There was only one low sound to be heard—it was
 the unhappy Tibbs cleaning the gentlemen’s boots in the back kitchen,
 and accompanying himself with a buzzing noise, in wretched mockery of
 humming a tune.
 
-The postman drew near the house. He paused—so did Mrs. Tibbs. A knock—a
+The postman drew near the [[house]]. He paused—so did Mrs. Tibbs. A knock—a
 bustle—a letter—post-paid.
 
 
 ‘T. I. presents compt. to I. T. and T. I. begs To say that i see the
 advertisement And she will Do Herself the pleasure of calling On you at
-12 o’clock to-morrow morning.
+12 o’[[Clock|clock]] to-morrow morning.
 
 ‘T. I. as To apologise to I. T. for the shortness Of the notice But i
-hope it will not unconvenience you.
+[[Hope|hope]] it will not unconvenience you.
 
 ‘I remain yours Truly
 ‘Wednesday evening.’
@@ -57,18 +57,18 @@ pleasingly ornamented with a large red wafer, which, with the addition
 of divers ink-stains, bore a marvellous resemblance to a black beetle
 trodden upon. One thing, however, was perfectly clear to the perplexed
 Mrs. Tibbs. Somebody was to call at twelve. The drawing-room was
-forthwith dusted for the third time that morning; three or four chairs
+forthwith dusted for the third [[Time|time]] that morning; three or four chairs
 were pulled out of their places, and a corresponding number of books
 carefully upset, in order that there might be a due absence of
 formality. Down went the piece of stair-carpet before noticed, and up
 ran Mrs. Tibbs ‘to make herself tidy.’
 
-The clock of New Saint Pancras Church struck twelve, and the Foundling,
+The [[Clock|clock]] of New Saint Pancras Church struck twelve, and the Foundling,
 with laudable politeness, did the same ten minutes afterwards, Saint
 something else struck the quarter, and then there arrived a single lady
-with a double knock, in a pelisse the colour of the interior of a
+with a [[Double|double]] knock, in a pelisse the colour of the interior of a
 damson pie; a bonnet of the same, with a regular conservatory of
-artificial flowers; a white veil, and a green parasol, with a cobweb
+artificial [[Flowers|flowers]]; a white veil, and a green parasol, with a cobweb
 border.
 
 The visitor (who was very fat and red-faced) was shown into the
@@ -86,14 +86,14 @@ applicant full in the face—two things she always did on such occasions.
 living in a state of retirement and obtrusion.’
 
 Mrs. Tibbs, as a matter of course, acquiesced in such an exceedingly
-natural desire.
+natural [[Desire|desire]].
 
 ‘I am constantly attended by a medical man,’ resumed the pelisse
-wearer; ‘I have been a shocking unitarian for some time—I, indeed, have
-had very little peace since the death of Mr. Bloss.’
+wearer; ‘I have been a shocking unitarian for some [[Time|time]]—I, indeed, have
+had very little peace since the [[Death|death]] of Mr. Bloss.’
 
 Mrs. Tibbs looked at the relict of the departed Bloss, and thought he
-must have had very little peace in his time. Of course she could not
+must have had very little peace in his [[Time|time]]. Of course she could not
 say so; so she looked very sympathising.
 
 ‘I shall be a good deal of trouble to you,’ said Mrs. Bloss; ‘but, for
@@ -118,10 +118,10 @@ the second-floor front, for my bed-room?’
 ‘With the greatest pleasure;—James shall get it ready for you by
 Saturday.’
 
-‘And I’ll join the company at the breakfast-table on Sunday morning,’
+‘And I’ll join the company at the breakfast-table on [[Sunday]] morning,’
 said Mrs. Bloss. ‘I shall get up on purpose.’
 
-‘Very well,’ returned Mrs. Tibbs, in her most amiable tone; for
+‘Very [[Well|well]],’ returned Mrs. Tibbs, in her most amiable tone; for
 satisfactory references had ‘been given and required,’ and it was quite
 certain that the new-comer had plenty of money. ‘It’s rather singular,’
 continued Mrs. Tibbs, with what was meant for a most bewitching smile,
@@ -167,13 +167,13 @@ worse than I am.’
 
 ‘Oh, yes!’ replied Mrs. Tibbs;—‘certainly.’ She said this with great
 confidence, for the damson pelisse suggested that Mrs. Bloss, at all
-events, was not suffering under Mr. Gobler’s complaint.
+events, was not [[Suffering|suffering]] under Mr. Gobler’s complaint.
 
-‘You have quite incited my curiosity,’ said Mrs. Bloss, as she rose to
+‘You have quite incited my curiosity,’ said Mrs. Bloss, as she [[Rose|rose]] to
 depart. ‘How I long to see him!’
 
 ‘He generally comes down, once a week,’ replied Mrs. Tibbs; ‘I dare say
-you’ll see him on Sunday.’ With this consolatory promise Mrs. Bloss was
+you’ll see him on [[Sunday]].’ With this consolatory promise Mrs. Bloss was
 obliged to be contented. She accordingly walked slowly down the stairs,
 detailing her complaints all the way; and Mrs. Tibbs followed her,
 uttering an exclamation of compassion at every step. James (who looked
@@ -201,7 +201,7 @@ halfpenny.
 The relict and sole executrix of this noble-minded man was an odd
 mixture of shrewdness and simplicity, liberality and meanness. Bred up
 as she had been, she knew no mode of living so agreeable as a
-boarding-house: and having nothing to do, and nothing to wish for, she
+boarding-[[house]]: and having nothing to do, and nothing to wish for, she
 naturally imagined she must be ill—an impression which was most
 assiduously promoted by her medical attendant, Dr. Wosky, and her
 handmaid Agnes: both of whom, doubtless for good reasons, encouraged
@@ -216,9 +216,9 @@ indifference, and Mrs. Tibbs devoted all her energies to prepare for
 the reception of the valetudinarian. The second-floor front was
 scrubbed, and washed, and flannelled, till the wet went through to the
 drawing-room ceiling. Clean white counterpanes, and curtains, and
-napkins, water-bottles as clear as crystal, blue jugs, and mahogany
+napkins, [[Water|water]]-bottles as clear as crystal, blue jugs, and mahogany
 furniture, added to the splendour, and increased the comfort, of the
-apartment. The warming-pan was in constant requisition, and a fire
+apartment. The warming-pan was in constant requisition, and a [[Fire|fire]]
 lighted in the room every day. The chattels of Mrs. Bloss were
 forwarded by instalments. First, there came a large hamper of
 Guinness’s stout, and an umbrella; then, a train of trunks; then, a
@@ -229,19 +229,19 @@ dress, open-work stockings, and shoes with sandals: like a disguised
 Columbine.
 
 The installation of the Duke of Wellington, as Chancellor of the
-University of Oxford, was nothing, in point of bustle and turmoil, to
+University of [[Oxford]], was nothing, in point of bustle and turmoil, to
 the installation of Mrs. Bloss in her new quarters. True, there was no
 bright doctor of civil law to deliver a classical address on the
 occasion; but there were several other old women present, who spoke
-quite as much to the purpose, and understood themselves equally well.
+quite as much to the purpose, and understood themselves equally [[Well|well]].
 The chop-eater was so fatigued with the process of removal that she
 declined leaving her room until the following morning; so a
 mutton-chop, pickle, a pill, a pint bottle of stout, and other
 medicines, were carried up-stairs for her consumption.
 
 ‘Why, what _do_ you think, ma’am?’ inquired the inquisitive Agnes of
-her mistress, after they had been in the house some three hours; ‘what
-_do_ you think, ma’am? the lady of the house is married.’
+her mistress, after they had been in the [[house]] some three hours; ‘what
+_do_ you think, ma’am? the lady of the [[house]] is married.’
 
 ‘Married!’ said Mrs. Bloss, taking the pill and a draught of
 Guinness—‘married! Unpossible!’
@@ -260,9 +260,9 @@ of the way, who used to live here—“Ah! Mr. Calton, sir, how are you?”’
 Here the attendant laughed till Mrs. Bloss was in serious apprehension
 of her chuckling herself into a fit.
 
-‘Well, I never!’ said Mrs. Bloss.
+‘[[Well]], I never!’ said Mrs. Bloss.
 
-‘Yes. And please, ma’am, the servants gives him gin-and-water
+‘Yes. And please, ma’am, the servants gives him gin-and-[[Water|water]]
 sometimes; and then he cries, and says he hates his wife and the
 boarders, and wants to tickle them.’
 
@@ -285,10 +285,10 @@ weaknesses which he had incurred, most probably during his military
 career, seemed to increase as his comforts diminished. He was actually
 a sort of journeyman Giovanni of the basement story.
 
-The next morning, being Sunday, breakfast was laid in the front parlour
-at ten o’clock. Nine was the usual time, but the family always
+The next morning, being [[Sunday]], breakfast was laid in the front parlour
+at ten o’[[Clock|clock]]. Nine was the usual [[Time|time]], but the family always
 breakfasted an hour later on sabbath. Tibbs enrobed himself in his
-Sunday costume—a black coat, and exceedingly short, thin trousers; with
+[[Sunday]] costume—a black coat, and exceedingly short, thin trousers; with
 a very large white waistcoat, white stockings and cravat, and Blucher
 boots—and mounted to the parlour aforesaid. Nobody had come down, and
 he amused himself by drinking the contents of the milkpot with a
@@ -296,7 +296,7 @@ teaspoon.
 
 A pair of slippers were heard descending the stairs. Tibbs flew to a
 chair; and a stern-looking man, of about fifty, with very little hair
-on his head, and a Sunday paper in his hand, entered the room.
+on his head, and a [[Sunday]] paper in his hand, entered the room.
 
 ‘Good morning, Mr. Evenson,’ said Tibbs, very humbly, with something
 between a nod and a bow.
@@ -308,7 +308,7 @@ himself down, and began to read his paper without saying another word.
 just for the sake of saying something.
 
 ‘I should think he was,’ replied the stern gentleman. ‘He was whistling
-“The Light Guitar,” in the next room to mine, at five o’clock this
+“The Light Guitar,” in the next room to mine, at five o’[[Clock|clock]] this
 morning.’
 
 ‘He’s very fond of whistling,’ said Tibbs, with a slight smirk.
@@ -326,18 +326,18 @@ the peerage by heart, and, could tell you, off-hand, where any
 illustrious personage lived. He had a good set of teeth, and a capital
 tailor. Mr. Evenson looked on all these qualifications with profound
 contempt; and the consequence was that the two were always disputing,
-much to the edification of the rest of the house. It should be added,
+much to the edification of the rest of the [[house]]. It should be added,
 that, in addition to his partiality for whistling, Mr. Wisbottle had a
 great idea of his singing powers. There were two other boarders,
 besides the gentleman in the back drawing-room—Mr. Alfred Tomkins and
-Mr. Frederick O’Bleary. Mr. Tomkins was a clerk in a wine-house; he was
+Mr. Frederick O’Bleary. Mr. Tomkins was a clerk in a wine-[[house]]; he was
 a connoisseur in paintings, and had a wonderful eye for the
 picturesque. Mr. O’Bleary was an Irishman, recently imported; he was in
 a perfectly wild state; and had come over to England to be an
-apothecary, a clerk in a government office, an actor, a reporter, or
+apothecary, a clerk in a [[government]] office, an actor, a reporter, or
 anything else that turned up—he was not particular. He was on familiar
 terms with two small Irish members, and got franks for everybody in the
-house. He felt convinced that his intrinsic merits must procure him a
+[[house]]. He felt convinced that his intrinsic merits must procure him a
 high destiny. He wore shepherd’s-plaid inexpressibles, and used to look
 under all the ladies’ bonnets as he walked along the streets. His
 manners and appearance reminded one of Orson.
@@ -350,7 +350,7 @@ piacer_.’
 ever said to anybody.
 
 ‘How are you, Tibbs?’ condescendingly replied the amateur; and he
-walked to the window, and whistled louder than ever.
+walked to the [[Window|window]], and whistled louder than ever.
 
 ‘Pretty air, that!’ said Evenson, with a snarl, and without taking his
 eyes off the paper.
@@ -363,9 +363,9 @@ louder?’ inquired the mastiff.
 ‘No; I don’t think it would,’ rejoined the unconscious Wisbottle.
 
 ‘I’ll tell you what, Wisbottle,’ said Evenson, who had been bottling up
-his anger for some hours—‘the next time you feel disposed to whistle
-“The Light Guitar” at five o’clock in the morning, I’ll trouble you to
-whistle it with your head out o’ window. If you don’t, I’ll learn the
+his anger for some hours—‘the next [[Time|time]] you feel disposed to whistle
+“The Light Guitar” at five o’[[Clock|clock]] in the morning, I’ll trouble you to
+whistle it with your head out o’ [[Window|window]]. If you don’t, I’ll learn the
 triangle—I will, by—’
 
 The entrance of Mrs. Tibbs (with the keys in a little basket)
@@ -373,13 +373,13 @@ interrupted the threat, and prevented its conclusion.
 
 Mrs. Tibbs apologised for being down rather late; the bell was rung;
 James brought up the urn, and received an unlimited order for dry toast
-and bacon. Tibbs sat down at the bottom of the table, and began eating
-water-cresses like a Nebuchadnezzar. Mr. O’Bleary appeared, and Mr.
+and bacon. Tibbs sat down at the [[Bottom|bottom]] of the table, and began eating
+[[Water|water]]-cresses like a Nebuchadnezzar. Mr. O’Bleary appeared, and Mr.
 Alfred Tomkins. The compliments of the morning were exchanged, and the
 tea was made.
 
 ‘God bless me!’ exclaimed Tomkins, who had been looking out at the
-window. ‘Here—Wisbottle—pray come here—make haste.’
+[[Window|window]]. ‘Here—Wisbottle—pray come here—make haste.’
 
 Mr. Wisbottle started from the table, and every one looked up.
 
@@ -398,7 +398,7 @@ beauties which no one else could discover—he certainly deserved it.
 which has a much better effect,’ said the patriotic O’Bleary, who never
 allowed Ireland to be outdone on any point.
 
-The assertion was received with obvious incredulity, for Mr. Tomkins
+The assertion was received with obvious [[Incredulity|incredulity]], for Mr. Tomkins
 declared that no other chimney-pot in the United Kingdom, broken or
 unbroken, could be so beautiful as the one at No. 48.
 
@@ -409,14 +409,14 @@ splendid assortment of rings, with enormous stones. A general rush was
 made for a chair, and a regular introduction took place. Mr. John
 Evenson made a slight inclination of the head; Mr. Frederick O’Bleary,
 Mr. Alfred Tomkins, and Mr. Wisbottle, bowed like the mandarins in a
-grocer’s shop; Tibbs rubbed hands, and went round in circles. He was
-observed to close one eye, and to assume a clock-work sort of
+[[grocer]]’s shop; Tibbs rubbed hands, and went round in circles. He was
+observed to close one eye, and to assume a [[Clock|clock]]-work sort of
 expression with the other; this has been considered as a wink, and it
 has been reported that Agnes was its object. We repel the calumny, and
 challenge contradiction.
 
 Mrs. Tibbs inquired after Mrs. Bloss’s health in a low tone. Mrs.
-Bloss, with a supreme contempt for the memory of Lindley Murray,
+Bloss, with a supreme contempt for the [[Memory|memory]] of Lindley Murray,
 answered the various questions in a most satisfactory manner; and a
 pause ensued, during which the eatables disappeared with awful
 rapidity.
@@ -436,7 +436,7 @@ Tibbs, hoping to start a topic.
 ‘Oh, infinitely superior!’
 
 ‘Gad! I don’t know,’ said the aristocratic Wisbottle, ‘the Dowager
-Marchioness of Publiccash was most magnificently dressed, and so was
+[[Marchioness]] of Publiccash was most magnificently dressed, and so was
 the Baron Slappenbachenhausen.’
 
 ‘What was he presented on?’ inquired Evenson.
@@ -449,7 +449,7 @@ being presented on their going away again. They know better than that.’
 ‘Unless somebody pervades them with an apintment,’ said Mrs. Bloss,
 joining in the conversation in a faint voice.
 
-‘Well,’ said Wisbottle, evading the point, ‘it’s a splendid sight.’
+‘[[Well]],’ said Wisbottle, evading the point, ‘it’s a splendid sight.’
 
 ‘And did it never occur to you,’ inquired the radical, who never would
 be quiet; ‘did it never occur to you, that you pay for these precious
@@ -459,7 +459,7 @@ ornaments of society?’
 answer was a poser; ‘it _has_ occurred to me, and I am willing to pay
 for them.’
 
-‘Well, and it has occurred to me too,’ replied John Evenson, ‘and I
+‘[[Well]], and it has occurred to me too,’ replied John Evenson, ‘and I
 ain’t willing to pay for ’em. Then why should I?—I say, why should I?’
 continued the politician, laying down the paper, and knocking his
 knuckles on the table. ‘There are two great principles—demand—’
@@ -478,8 +478,8 @@ resumed the paper.
 general, ‘I shall ride down to Richmond to-day, and come back by the
 steamer. There are some splendid effects of light and shade on the
 Thames; the contrast between the blueness of the sky and the yellow
-water is frequently exceedingly beautiful.’ Mr. Wisbottle hummed, ‘Flow
-on, thou shining river.’
+[[Water|water]] is frequently exceedingly beautiful.’ Mr. Wisbottle hummed, ‘Flow
+on, thou shining [[River|river]].’
 
 ‘We have some splendid steam-vessels in Ireland,’ said O’Bleary.
 
@@ -500,10 +500,10 @@ pun; and Tomkins laughed too, and said he had not.
 
 The remainder of the meal passed off as breakfasts usually do.
 Conversation flagged, and people played with their teaspoons. The
-gentlemen looked out at the window; walked about the room; and, when
+gentlemen looked out at the [[Window|window]]; walked about the room; and, when
 they got near the door, dropped off one by one. Tibbs retired to the
-back parlour by his wife’s orders, to check the green-grocer’s weekly
-account; and ultimately Mrs. Tibbs and Mrs. Bloss were left alone
+back parlour by his wife’s orders, to check the green-[[grocer]]’s weekly
+account; and ultimately Mrs. Tibbs and Mrs. Bloss were left [[Alone|alone]]
 together.
 
 ‘Oh dear!’ said the latter, ‘I feel alarmingly faint; it’s very
@@ -521,11 +521,11 @@ weeks together.’
 
 ‘I haven’t seen or heard nothing of him,’ repeated Mrs. Bloss.
 
-‘I dare say you’ll hear him to-night,’ replied Mrs. Tibbs; ‘he
-generally groans a good deal on Sunday evenings.’
+‘I dare say you’ll hear him to-[[Night|night]],’ replied Mrs. Tibbs; ‘he
+generally groans a good deal on [[Sunday]] evenings.’
 
 ‘I never felt such an interest in any one in my life,’ ejaculated Mrs.
-Bloss. A little double-knock interrupted the conversation; Dr. Wosky
+Bloss. A little [[Double|double]]-knock interrupted the conversation; Dr. Wosky
 was announced, and duly shown in. He was a little man with a red
 face—dressed of course in black, with a stiff white neckerchief. He had
 a very good practice, and plenty of money, which he had amassed by
@@ -533,7 +533,7 @@ invariably humouring the worst fancies of all the females of all the
 families he had ever been introduced into. Mrs. Tibbs offered to
 retire, but was entreated to stay.
 
-‘Well, my dear ma’am, and how are we?’ inquired Wosky, in a soothing
+‘[[Well]], my dear ma’am, and how are we?’ inquired Wosky, in a soothing
 tone.
 
 ‘Very ill, doctor—very ill,’ said Mrs. Bloss, in a whisper
@@ -546,8 +546,8 @@ obsequious Wosky, as he felt the pulse of his interesting patient.
 Mrs. Bloss shook her head.
 
 ‘Our friend requires great care,’ said Wosky, appealing to Mrs. Tibbs,
-who of course assented. ‘I hope, however, with the blessing of
-Providence, that we shall be enabled to make her quite stout again.’
+who of course assented. ‘I [[Hope|hope]], however, with the blessing of
+[[Providence]], that we shall be enabled to make her quite stout again.’
 Mrs. Tibbs wondered in her own mind what the patient would be when she
 was made quite stout.
 
@@ -571,11 +571,11 @@ detailed account of the domestic economy of the establishment. We will
 therefore proceed to events, merely premising that the mysterious
 tenant of the back drawing-room was a lazy, selfish hypochondriac;
 always complaining and never ill. As his character in many respects
-closely assimilated to that of Mrs. Bloss, a very warm friendship soon
+closely assimilated to that of Mrs. Bloss, a very warm [[Friendship|friendship]] soon
 sprung up between them. He was tall, thin, and pale; he always fancied
-he had a severe pain somewhere or other, and his face invariably wore a
+he had a severe [[Pain|pain]] somewhere or other, and his face invariably wore a
 pinched, screwed-up expression; he looked, indeed, like a man who had
-got his feet in a tub of exceedingly hot water, against his will.
+got his feet in a tub of exceedingly hot [[Water|water]], against his will.
 
 For two or three months after Mrs. Bloss’s first appearance in
 Coram-street, John Evenson was observed to become, every day, more
@@ -584,13 +584,13 @@ importance in his manner, which clearly showed that he fancied he had
 discovered something, which he only wanted a proper opportunity of
 divulging. He found it at last.
 
-One evening, the different inmates of the house were assembled in the
+One evening, the different inmates of the [[house]] were assembled in the
 drawing-room engaged in their ordinary occupations. Mr. Gobler and Mrs.
-Bloss were sitting at a small card-table near the centre window,
+Bloss were sitting at a small card-table near the centre [[Window|window]],
 playing cribbage; Mr. Wisbottle was describing semicircles on the
-music-stool, turning over the leaves of a book on the piano, and
+music-stool, turning over the [[Leaves|leaves]] of a book on the piano, and
 humming most melodiously; Alfred Tomkins was sitting at the round
-table, with his elbows duly squared, making a pencil sketch of a head
+table, with his elbows duly squared, making a pencil [[Sketch|sketch]] of a head
 considerably larger than his own; O’Bleary was reading Horace, and
 trying to look as if he understood it; and John Evenson had drawn his
 chair close to Mrs. Tibbs’s work-table, and was talking to her very
@@ -599,10 +599,10 @@ earnestly in a low tone.
 ‘I can assure you, Mrs. Tibbs,’ said the radical, laying his forefinger
 on the muslin she was at work on; ‘I can assure you, Mrs. Tibbs, that
 nothing but the interest I take in your welfare would induce me to make
-this communication. I repeat, I fear Wisbottle is endeavouring to gain
+this communication. I repeat, I [[Fear|fear]] Wisbottle is endeavouring to gain
 the affections of that young woman, Agnes, and that he is in the habit
 of meeting her in the store-room on the first floor, over the leads.
-From my bedroom I distinctly heard voices there, last night. I opened
+From my bedroom I distinctly heard voices there, last [[Night|night]]. I opened
 my door immediately, and crept very softly on to the landing; there I
 saw Mr. Tibbs, who, it seems, had been disturbed also.—Bless me, Mrs.
 Tibbs, you change colour!’
@@ -614,7 +614,7 @@ the heat of the room.’
 four.’
 
 ‘If I thought it was Mr. Wisbottle,’ said Mrs. Tibbs, after a pause,
-‘he should leave this house instantly.’
+‘he should leave this [[house]] instantly.’
 
 ‘Go!’ said Mrs. Bloss again.
 
@@ -624,7 +624,7 @@ four.’
 ‘One for his nob!’ said Gobler.
 
 ‘Oh,’ said Evenson, in a most soothing tone—he liked to make
-mischief—‘I should hope Mr. Tibbs was not in any way implicated. He
+mischief—‘I should [[Hope|hope]] Mr. Tibbs was not in any way implicated. He
 always appeared to me very harmless.’
 
 ‘I have generally found him so,’ sobbed poor little Mrs. Tibbs; crying
@@ -635,21 +635,21 @@ don’t!’ said John Evenson, fearing his whole plan would be interrupted.
 ‘We will set the matter at rest with the utmost care, and I shall be
 most happy to assist you in doing so.’ Mrs. Tibbs murmured her thanks.
 
-‘When you think every one has retired to rest to-night,’ said Evenson
+‘When you think every one has retired to rest to-[[Night|night]],’ said Evenson
 very pompously, ‘if you’ll meet me without a light, just outside my
-bedroom door, by the staircase window, I think we can ascertain who the
+bedroom door, by the staircase [[Window|window]], I think we can ascertain who the
 parties really are, and you will afterwards be enabled to proceed as
 you think proper.’
 
 Mrs. Tibbs was easily persuaded; her curiosity was excited, her
-jealousy was roused, and the arrangement was forthwith made. She
+[[Jealousy|jealousy]] was roused, and the arrangement was forthwith made. She
 resumed her work, and John Evenson walked up and down the room with his
 hands in his pockets, looking as if nothing had happened. The game of
 cribbage was over, and conversation began again.
 
-‘Well, Mr. O’Bleary,’ said the humming-top, turning round on his pivot,
+‘[[Well]], Mr. O’Bleary,’ said the humming-top, turning round on his pivot,
 and facing the company, ‘what did you think of Vauxhall the other
-night?’
+[[Night|night]]?’
 
 ‘Oh, it’s very fair,’ replied Orson, who had been enthusiastically
 delighted with the whole exhibition.
@@ -664,15 +664,15 @@ said Wisbottle; ‘they appeared much delighted.’
 
 ‘Then it _must_ be beautiful,’ snarled Evenson.
 
-‘I think the white bears is partickerlerly well done,’ suggested Mrs.
+‘I think the white bears is partickerlerly [[Well|well]] done,’ suggested Mrs.
 Bloss. ‘In their shaggy white coats, they look just like Polar
 bears—don’t you think they do, Mr. Evenson?’
 
 ‘I think they look a great deal more like omnibus cads on all fours,’
 replied the discontented one.
 
-‘Upon the whole, I should have liked our evening very well,’ gasped
-Gobler; ‘only I caught a desperate cold which increased my pain
+‘Upon the whole, I should have liked our evening very [[Well|well]],’ gasped
+Gobler; ‘only I caught a desperate cold which increased my [[Pain|pain]]
 dreadfully! I was obliged to have several shower-baths, before I could
 leave my room.’
 
@@ -692,27 +692,27 @@ they have saved by promoting perspiration.’
 
 ‘Promoting perspiration, indeed,’ growled John Evenson, stopping short
 in his walk across the large squares in the pattern of the carpet—‘I
-was ass enough to be persuaded some time ago to have one in my bedroom.
+was ass enough to be persuaded some [[Time|time]] ago to have one in my bedroom.
 ‘Gad, I was in it once, and it effectually cured _me_, for the mere
 sight of it threw me into a profuse perspiration for six months
 afterwards.’
 
 A titter followed this announcement, and before it had subsided James
-brought up ‘the tray,’ containing the remains of a leg of lamb which
-had made its _début_ at dinner; bread; cheese; an atom of butter in a
+brought up ‘the tray,’ containing the remains of a leg of [[Lamb|lamb]] which
+had made its _début_ at dinner; bread; [[cheese]]; an atom of butter in a
 forest of parsley; one pickled walnut and the third of another; and so
 forth. The boy disappeared, and returned again with another tray,
-containing glasses and jugs of hot and cold water. The gentlemen
+containing glasses and jugs of hot and cold [[Water|water]]. The gentlemen
 brought in their spirit-bottles; the housemaid placed divers plated
 bedroom candlesticks under the card-table; and the servants retired for
-the night.
+the [[Night|night]].
 
 Chairs were drawn round the table, and the conversation proceeded in
 the customary manner. John Evenson, who never ate supper, lolled on the
 sofa, and amused himself by contradicting everybody. O’Bleary ate as
 much as he could conveniently carry, and Mrs. Tibbs felt a due degree
 of indignation thereat; Mr. Gobler and Mrs. Bloss conversed most
-affectionately on the subject of pill-taking, and other innocent
+affectionately on the subject of pill-taking, and other [[Innocent|innocent]]
 amusements; and Tomkins and Wisbottle ‘got into an argument;’ that is
 to say, they both talked very loudly and vehemently, each flattering
 himself that he had got some advantage about something, and neither of
@@ -724,21 +724,21 @@ until Mr. Gobler had retired. He always sat in the drawing-room an hour
 after everybody else had left it, taking medicine, and groaning.
 
 Great Coram-street was hushed into a state of profound repose: it was
-nearly two o’clock. A hackney-coach now and then rumbled slowly by; and
-occasionally some stray lawyer’s clerk, on his way home to Somers-town,
+nearly two o’[[Clock|clock]]. A hackney-coach now and then rumbled slowly by; and
+occasionally some stray lawyer’s clerk, on his way [[Home|home]] to Somers-town,
 struck his iron heel on the top of the coal-cellar with a noise
 resembling the click of a smoke-Jack. A low, monotonous, gushing sound
 was heard, which added considerably to the romantic dreariness of the
-scene. It was the water ‘coming in’ at number eleven.
+scene. It was the [[Water|water]] ‘coming in’ at number eleven.
 
-‘He must be asleep by this time,’ said John Evenson to himself, after
+‘He must be asleep by this [[Time|time]],’ said John Evenson to himself, after
 waiting with exemplary patience for nearly an hour after Mr. Gobler had
-left the drawing-room. He listened for a few moments; the house was
+left the drawing-room. He listened for a few moments; the [[house]] was
 perfectly quiet; he extinguished his rushlight, and opened his bedroom
 door. The staircase was so dark that it was impossible to see anything.
 
 ‘S-s-s!’ whispered the mischief-maker, making a noise like the first
-indication a catherine-wheel gives of the probability of its going off.
+indication a catherine-[[Wheel|wheel]] gives of the probability of its going off.
 
 ‘Hush!’ whispered somebody else.
 
@@ -749,17 +749,17 @@ indication a catherine-wheel gives of the probability of its going off.
 ‘Where?’
 
 ‘Here;’ and the misty outline of Mrs. Tibbs appeared at the staircase
-window, like the ghost of Queen Anne in the tent scene in Richard.
+[[Window|window]], like the [[Ghost|ghost]] of [[Queen]] Anne in the tent scene in [[Richard]].
 
 ‘This way, Mrs. Tibbs,’ whispered the delighted busybody: ‘give me your
 hand—there! Whoever these people are, they are in the store-room now,
-for I have been looking down from my window, and I could see that they
+for I have been looking down from my [[Window|window]], and I could see that they
 accidentally upset their candlestick, and are now in darkness. You have
 no shoes on, have you?’
 
 ‘No,’ said little Mrs. Tibbs, who could hardly speak for trembling.
 
-‘Well; I have taken my boots off, so we can go down, close to the
+‘[[Well]]; I have taken my boots off, so we can go down, close to the
 store-room door, and listen over the banisters;’ and down-stairs they
 both crept accordingly, every board creaking like a patent mangle on a
 Saturday afternoon.
@@ -774,7 +774,7 @@ consideration.
 ‘Ah! if I could but believe you,’ said a female voice coquettishly,
 ‘I’d be bound to settle my missis for life.’
 
-‘What does she say?’ inquired Mr. Evenson, who was not quite so well
+‘What does she say?’ inquired Mr. Evenson, who was not quite so [[Well|well]]
 situated as his companion.
 
 ‘She says she’ll settle her missis’s life,’ replied Mrs. Tibbs. ‘The
@@ -782,23 +782,23 @@ wretch! they’re plotting murder.’
 
 ‘I know you want money,’ continued the voice, which belonged to Agnes;
 ‘and if you’d secure me the five hundred pound, I warrant she should
-take fire soon enough.’
+take [[Fire|fire]] soon enough.’
 
 ‘What’s that?’ inquired Evenson again. He could just hear enough to
 want to hear more.
 
-‘I think she says she’ll set the house on fire,’ replied the affrighted
+‘I think she says she’ll set the [[house]] on [[Fire|fire]],’ replied the affrighted
 Mrs. Tibbs. ‘But thank God I’m insured in the Phoenix!’
 
 ‘The moment I have secured your mistress, my dear,’ said a man’s voice
 in a strong Irish brogue, ‘you may depend on having the money.’
 
-‘Bless my soul, it’s Mr. O’Bleary!’ exclaimed Mrs. Tibbs, in a
+‘Bless my [[Soul|soul]], it’s Mr. O’Bleary!’ exclaimed Mrs. Tibbs, in a
 parenthesis.
 
-‘The villain!’ said the indignant Mr. Evenson.
+‘The [[Villain|villain]]!’ said the indignant Mr. Evenson.
 
-‘The first thing to be done,’ continued the Hibernian, ‘is to poison
+‘The first thing to be done,’ continued the Hibernian, ‘is to [[Poison|poison]]
 Mr. Gobler’s mind.’
 
 ‘Oh, certainly,’ returned Agnes.
@@ -806,7 +806,7 @@ Mr. Gobler’s mind.’
 ‘What’s that?’ inquired Evenson again, in an agony of curiosity and a
 whisper.
 
-‘He says she’s to mind and poison Mr. Gobler,’ replied Mrs. Tibbs,
+‘He says she’s to mind and [[Poison|poison]] Mr. Gobler,’ replied Mrs. Tibbs,
 aghast at this sacrifice of human life.
 
 ‘And in regard of Mrs. Tibbs,’ continued O’Bleary.—Mrs. Tibbs
@@ -830,7 +830,7 @@ equally astonished companion; and for the drawing-room they both made,
 plainly hearing the rustling of two persons, one coming down-stairs,
 and one coming up.
 
-‘What can it be?’ exclaimed Mrs. Tibbs. ‘It’s like a dream. I wouldn’t
+‘What can it be?’ exclaimed Mrs. Tibbs. ‘It’s like [[A Dream|a dream]]. I wouldn’t
 be found in this situation for the world!’
 
 ‘Nor I,’ returned Evenson, who could never bear a joke at his own
@@ -843,19 +843,19 @@ Alfred Tomkins. ‘Who would have thought it?’
 
 ‘I told you so,’ said Wisbottle, in a most knowing whisper. ‘Lord bless
 you, he has paid her most extraordinary attention for the last two
-months. I saw ’em when I was sitting at the piano to-night.’
+months. I saw ’em when I was sitting at the piano to-[[Night|night]].’
 
-‘Well, do you know I didn’t notice it?’ interrupted Tomkins.
+‘[[Well]], do you know I didn’t notice it?’ interrupted Tomkins.
 
 ‘Not notice it!’ continued Wisbottle. ‘Bless you; I saw him whispering
 to her, and she crying; and then I’ll swear I heard him say something
-about to-night when we were all in bed.’
+about to-[[Night|night]] when we were all in bed.’
 
 ‘They’re talking of _us_!’ exclaimed the agonised Mrs. Tibbs, as the
 painful suspicion, and a sense of their situation, flashed upon her
 mind.
 
-‘I know it—I know it,’ replied Evenson, with a melancholy consciousness
+‘I know it—I know it,’ replied Evenson, with a [[Melancholy|melancholy]] consciousness
 that there was no mode of escape.
 
 ‘What’s to be done? we cannot both stop here!’ ejaculated Mrs. Tibbs,
@@ -864,7 +864,7 @@ in a state of partial derangement.
 ‘I’ll get up the chimney,’ replied Evenson, who really meant what he
 said.
 
-‘You can’t,’ said Mrs. Tibbs, in despair. ‘You can’t—it’s a register
+‘You can’t,’ said Mrs. Tibbs, in [[Despair|despair]]. ‘You can’t—it’s a register
 stove.’
 
 ‘Hush!’ repeated John Evenson.
@@ -881,7 +881,7 @@ was heard in the store-room.
 
 ‘Hark!’ repeated Mrs. Tibbs and Evenson.
 
-‘Let me alone, sir,’ said a female voice in the store-room.
+‘Let me [[Alone|alone]], sir,’ said a female voice in the store-room.
 
 ‘Oh, Hagnes!’ cried another voice, which clearly belonged to Tibbs, for
 nobody else ever owned one like it, ‘Oh, Hagnes—lovely creature!’
@@ -894,7 +894,7 @@ nobody else ever owned one like it, ‘Oh, Hagnes—lovely creature!’
 quiet, sir!’
 
 ‘My wife!’ exclaimed the valorous Tibbs, who was clearly under the
-influence of gin-and-water, and a misplaced attachment; ‘I ate her! Oh,
+influence of gin-and-[[Water|water]], and a misplaced attachment; ‘I ate her! Oh,
 Hagnes! when I was in the volunteer corps, in eighteen hundred and—’
 
 ‘I declare I’ll scream. Be quiet, sir, will you?’ (Another bounce and a
@@ -911,7 +911,7 @@ a tapping was heard at Mrs. Tibbs’s bedroom door, which would have
 beaten any dozen woodpeckers hollow.
 
 ‘Mrs. Tibbs! Mrs. Tibbs!’ called out Mrs. Bloss. ‘Mrs. Tibbs, pray get
-up.’ (Here the imitation of a woodpecker was resumed with tenfold
+up.’ (Here the [[Imitation|imitation]] of a woodpecker was resumed with tenfold
 violence.)
 
 ‘Oh, dear—dear!’ exclaimed the wretched partner of the depraved Tibbs.
@@ -924,11 +924,11 @@ think?’
 drawing-room, like the dragon at Astley’s.
 
 ‘Oh, Mr. Gobler!’ cried Mrs. Bloss, with a proper approximation to
-hysterics; ‘I think the house is on fire, or else there’s thieves in
+hysterics; ‘I think the [[house]] is on [[Fire|fire]], or else there’s thieves in
 it. I have heard the most dreadful noises!’
 
 ‘The devil you have!’ shouted Gobler again, bouncing back into his den,
-in happy imitation of the aforesaid dragon, and returning immediately
+in happy [[Imitation|imitation]] of the aforesaid dragon, and returning immediately
 with a lighted candle. ‘Why, what’s this? Wisbottle! Tomkins! O’Bleary!
 Agnes! What the deuce! all up and dressed?’
 
@@ -942,7 +942,7 @@ front drawing-room.—‘What! Mrs. Tibbs and Mr. Evenson!!’
 were discovered: Mrs. Tibbs seated in an arm-chair by the fireplace,
 and Mr. Evenson standing by her side.
 
-We must leave the scene that ensued to the reader’s imagination. We
+We must leave the scene that ensued to the reader’s [[Imagination|imagination]]. We
 could tell, how Mrs. Tibbs forthwith fainted away, and how it required
 the united strength of Mr. Wisbottle and Mr. Alfred Tomkins to hold her
 in her chair; how Mr. Evenson explained, and how his explanation was
@@ -952,17 +952,17 @@ mistress’s affections in his behalf; and how Mr. Gobler threw a damp
 counterpane on the hopes of Mr. O’Bleary by avowing that he (Gobler)
 had already proposed to, and been accepted by, Mrs. Bloss; how Agnes
 was discharged from that lady’s service; how Mr. O’Bleary discharged
-himself from Mrs. Tibbs’s house, without going through the form of
+himself from Mrs. Tibbs’s [[house]], without going through the form of
 previously discharging his bill; and how that disappointed young
 gentleman rails against England and the English, and vows there is no
 virtue or fine feeling extant, ‘except in Ireland.’ We repeat that we
-_could_ tell all this, but we love to exercise our self-denial, and we
+_could_ tell all this, but we [[Love|love]] to exercise our [[Self|self]]-denial, and we
 therefore prefer leaving it to be imagined.
 
 The lady whom we have hitherto described as Mrs. Bloss, is no more.
 Mrs. Gobler exists: Mrs. Bloss has left us for ever. In a secluded
 retreat in Newington Butts, far, far removed from the noisy strife of
-that great boarding-house, the world, the enviable Gobler and his
+that great boarding-[[house]], the world, the enviable Gobler and his
 pleasing wife revel in retirement: happy in their complaints, their
 table, and their medicine, wafted through life by the grateful prayers
 of all the purveyors of animal food within three miles round.

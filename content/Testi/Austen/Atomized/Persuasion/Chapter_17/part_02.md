@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 17 (part 2)"
+title: "[[Persuasion]] — Chapter 17 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,13 +16,13 @@ tags:
 
 that her landlady had a character to preserve, and would not use her
 
-ill; and she had been particularly fortunate in her nurse, as a sister
+ill; and she had been particularly fortunate in her [[Nurse|nurse]], as a sister
 
-of her landlady, a nurse by profession, and who had always a home in
+of her landlady, a [[Nurse|nurse]] by profession, and who had always a [[Home|home]] in
 
-that house when unemployed, chanced to be at liberty just in time to
+that [[house]] when unemployed, chanced to be at liberty just in [[Time|time]] to
 
-attend her. “And she,” said Mrs Smith, “besides nursing me most
+attend her. “And she,” said Mrs [[smith|Smith]], “besides nursing me most
 
 admirably, has really proved an invaluable acquaintance. As soon as I
 
@@ -40,21 +40,21 @@ acquaintance, of course professionally, among those who can afford to
 
 buy, and she disposes of my merchandise. She always takes the right
 
-time for applying. Everybody’s heart is open, you know, when they have
+[[Time|time]] for applying. Everybody’s heart is open, you know, when they have
 
-recently escaped from severe pain, or are recovering the blessing of
+recently escaped from severe [[Pain|pain]], or are recovering the blessing of
 
-health, and Nurse Rooke thoroughly understands when to speak. She is a
+health, and [[Nurse]] Rooke thoroughly understands when to speak. She is a
 
 shrewd, intelligent, sensible woman. Hers is a line for seeing human
 
-nature; and she has a fund of good sense and observation, which, as a
+[[Nature|nature]]; and she has a fund of good sense and observation, which, as a
 
 companion, make her infinitely superior to thousands of those who
 
-having only received ‘the best education in the world,’ know nothing
+having only received ‘the best [[Education|education]] in the world,’ know nothing
 
-worth attending to. Call it gossip, if you will, but when Nurse Rooke
+worth attending to. Call it gossip, if you will, but when [[Nurse]] Rooke
 
 has half an hour’s leisure to bestow on me, she is sure to have
 
@@ -64,7 +64,7 @@ makes one know one’s species better. One likes to hear what is going
 
 on, to be _au fait_ as to the newest modes of being trifling and silly.
 
-To me, who live so much alone, her conversation, I assure you, is a
+To me, who live so much [[Alone|alone]], her conversation, I assure you, is a
 
 treat.”
 
@@ -74,17 +74,17 @@ Anne, far from wishing to cavil at the pleasure, replied, “I can easily
 
 believe it. Women of that class have great opportunities, and if they
 
-are intelligent may be well worth listening to. Such varieties of human
+are intelligent may be [[Well|well]] worth listening to. Such varieties of human
 
-nature as they are in the habit of witnessing! And it is not merely in
+[[Nature|nature]] as they are in the habit of witnessing! And it is not merely in
 
-its follies, that they are well read; for they see it occasionally
+its follies, that they are [[Well|well]] read; for they see it occasionally
 
 under every circumstance that can be most interesting or affecting.
 
 What instances must pass before them of ardent, disinterested,
 
-self-denying attachment, of heroism, fortitude, patience, resignation:
+[[Self|self]]-denying attachment, of [[Heroism|heroism]], fortitude, patience, [[Resignation|resignation]]:
 
 of all the conflicts and all the sacrifices that ennoble us most. A
 
@@ -92,17 +92,17 @@ sick chamber may often furnish the worth of volumes.”
 
 
 
-“Yes,” said Mrs Smith more doubtingly, “sometimes it may, though I fear
+“Yes,” said Mrs [[smith|Smith]] more doubtingly, “sometimes it may, though I [[Fear|fear]]
 
 its lessons are not often in the elevated style you describe. Here and
 
-there, human nature may be great in times of trial; but generally
+there, human [[Nature|nature]] may be great in times of trial; but generally
 
 speaking, it is its weakness and not its strength that appears in a
 
 sick chamber: it is selfishness and impatience rather than generosity
 
-and fortitude, that one hears of. There is so little real friendship in
+and fortitude, that one hears of. There is so little real [[Friendship|friendship]] in
 
 the world! and unfortunately” (speaking low and tremulously) “there are
 
@@ -116,7 +116,7 @@ ought, and the wife had been led among that part of mankind which made
 
 her think worse of the world than she hoped it deserved. It was but a
 
-passing emotion however with Mrs Smith; she shook it off, and soon
+passing emotion however with Mrs [[smith|Smith]]; she shook it off, and soon
 
 added in a different tone—
 
@@ -152,7 +152,7 @@ evening in Westgate Buildings. She was not sorry for the excuse. They
 
 were only asked, she was sure, because Lady Dalrymple being kept at
 
-home by a bad cold, was glad to make use of the relationship which had
+[[Home|home]] by a bad cold, was glad to make use of the relationship which had
 
 been so pressed on her; and she declined on her own account with great
 
@@ -168,15 +168,15 @@ disdainful, and Sir Walter severe.
 
 
 
-“Westgate Buildings!” said he, “and who is Miss Anne Elliot to be
+“Westgate Buildings!” said he, “and who is Miss [[Anne Elliot]] to be
 
-visiting in Westgate Buildings? A Mrs Smith. A widow Mrs Smith; and who
+visiting in Westgate Buildings? A Mrs [[smith|Smith]]. A widow Mrs [[smith|Smith]]; and who
 
 was her husband? One of five thousand Mr Smiths whose names are to be
 
 met with everywhere. And what is her attraction? That she is old and
 
-sickly. Upon my word, Miss Anne Elliot, you have the most extraordinary
+sickly. Upon my word, Miss [[Anne Elliot]], you have the most extraordinary
 
 taste! Everything that revolts other people, low company, paltry rooms,
 
@@ -184,7 +184,7 @@ foul air, disgusting associations are inviting to you. But surely you
 
 may put off this old lady till to-morrow: she is not so near her end, I
 
-presume, but that she may hope to see another day. What is her age?
+presume, but that she may [[Hope|hope]] to see another day. What is her age?
 
 Forty?”
 
@@ -192,7 +192,7 @@ Forty?”
 
 “No, sir, she is not one-and-thirty; but I do not think I can put off
 
-my engagement, because it is the only evening for some time which will
+my engagement, because it is the only evening for some [[Time|time]] which will
 
 at once suit her and myself. She goes into the warm bath to-morrow, and
 
@@ -200,7 +200,7 @@ for the rest of the week, you know, we are engaged.”
 
 
 
-“But what does Lady Russell think of this acquaintance?” asked
+“But what does [[Lady Russell]] think of this acquaintance?” asked
 
 Elizabeth.
 
@@ -210,7 +210,7 @@ Elizabeth.
 
 approves it, and has generally taken me when I have called on Mrs
 
-Smith.”
+[[smith|Smith]].”
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 3)"
+title: "[[Shirley]] — Chapter 7 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,13 +16,13 @@ tags:
 
 when he went out early every morning, and often forgot to return and
 
-give her her dinner during the day, and at night, when he came back, was
+give her her dinner during the day, and at [[Night|night]], when he came back, was
 
 like a madman, furious, terrible, or--still more painful--like an idiot,
 
 imbecile, senseless. She knew she had fallen ill in this place, and that
 
-one night, when she was very sick he had come raving into the room, and
+one [[Night|night]], when she was very sick he had come raving into the room, and
 
 said he would kill her, for she was a burden to him. Her screams had
 
@@ -38,17 +38,17 @@ spoke to her of that mother, though she could not remember having seen
 
 her; but that she was alive she knew. This mother was then the
 
-drunkard's wife. What had _their_ marriage been? Caroline, turning from
+drunkard's wife. What had _their_ [[Marriage|marriage]] been? Caroline, turning from
 
 the lattice, whence she had been watching the starlings (though without
 
 seeing them), in a low voice, and with a sad, bitter tone, thus broke
 
-the silence of the room,--
+the [[Silence|silence]] of the room,--
 
 
 
-"You term marriage miserable, I suppose, from what you saw of my father
+"You term [[Marriage|marriage]] miserable, I suppose, from what you saw of my father
 
 and mother's. If my mother suffered what I suffered when I was with
 
@@ -66,7 +66,7 @@ Her father and mother! What had put it into her head to mention her
 
 father and mother, of whom he had never, during the twelve years she had
 
-lived with him, spoken to her? That the thoughts were self-matured, that
+lived with him, spoken to her? That the thoughts were [[Self|self]]-matured, that
 
 she had any recollections or speculations about her parents, he could
 
@@ -96,9 +96,9 @@ her. I have not heard from her for years: but wherever she is, she
 
 thinks nothing of you; she never inquires about you. I have reason to
 
-believe she does not wish to see you. Come, it is school-time. You go to
+believe she does not wish to see you. Come, it is school-[[Time|time]]. You go to
 
-your cousin at ten, don't you? The clock has struck."
+your cousin at ten, don't you? The [[Clock|clock]] has struck."
 
 
 
@@ -112,7 +112,7 @@ cottage.
 
 
 
-The road from the rectory to Hollow's Mill inclined downwards; she ran,
+The [[Road|road]] from the rectory to Hollow's Mill inclined downwards; she ran,
 
 therefore, almost all the way. Exercise, the fresh air, the thought of
 
@@ -120,9 +120,9 @@ seeing Robert, at least of being on his premises, in his vicinage,
 
 revived her somewhat depressed spirits quickly. Arriving in sight of the
 
-white house, and within hearing of the thundering mill and its rushing
+white [[house]], and within hearing of the thundering mill and its rushing
 
-watercourse, the first thing she saw was Moore at his garden gate. There
+watercourse, the first thing she saw was Moore at his [[Garden|garden]] gate. There
 
 he stood, in his belted Holland blouse, a light cap covering his head,
 
@@ -150,17 +150,17 @@ She sought "bonny Robert's" presence speedily. For his part, when she
 
 challenged his sight, I believe he would have passed from before her
 
-eyes like a phantom, if he could; but being a tall fact, and no fiction,
+eyes like a [[Phantom|phantom]], if he could; but being a tall fact, and no fiction,
 
 he was obliged to stand the greeting. He made it brief. It was
 
-cousin-like, brother-like, friend-like, anything but lover-like. The
+cousin-like, brother-like, friend-like, anything but [[Lover|lover]]-like. The
 
-nameless charm of last night had left his manner: he was no longer the
+nameless charm of last [[Night|night]] had left his manner: he was no longer the
 
 same man: or, at any rate, the same heart did not beat in his breast.
 
-Rude disappointment, sharp cross! At first the eager girl would not
+Rude disappointment, sharp [[Cross|cross]]! At first the eager girl would not
 
 believe in the change, though she saw and felt it. It was difficult to
 
@@ -174,15 +174,15 @@ welcome.
 
 
 
-A lover masculine so disappointed can speak and urge explanation, a
+A [[Lover|lover]] masculine so disappointed can speak and urge explanation, a
 
-lover feminine can say nothing; if she did, the result would be shame
+[[Lover|lover]] feminine can say nothing; if she did, the result would be shame
 
-and anguish, inward remorse for self-treachery. Nature would brand such
+and anguish, inward remorse for [[Self|self]]-treachery. [[Nature]] would brand such
 
 demonstration as a rebellion against her instincts, and would
 
-vindictively repay it afterwards by the thunderbolt of self-contempt
+vindictively repay it afterwards by the thunderbolt of [[Self|self]]-contempt
 
 smiting suddenly in secret. Take the matter as you find it: ask no
 
@@ -190,7 +190,7 @@ questions, utter no remonstrances; it is your best wisdom. You expected
 
 bread, and you have got a stone: break your teeth on it, and don't
 
-shriek because the nerves are martyrized; do not doubt that your mental
+shriek because the nerves are martyrized; do not [[Doubt|doubt]] that your mental
 
 stomach--if you have such a thing--is strong as an ostrich's; the stone
 
@@ -198,7 +198,7 @@ will digest. You held out your hand for an egg, and fate put into it a
 
 scorpion. Show no consternation: close your fingers firmly upon the
 
-gift; let it sting through your palm. Never mind; in time, after your
+gift; let it sting through your palm. Never mind; in [[Time|time]], after your
 
 hand and arm have swelled and quivered long with torture, the squeezed
 
@@ -208,9 +208,9 @@ endure without a sob. For the whole remnant of your life, if you survive
 
 the test--some, it is said, die under it--you will be stronger, wiser,
 
-less sensitive. This you are not aware of, perhaps, at the time, and so
+less sensitive. This you are not aware of, perhaps, at the [[Time|time]], and so
 
-cannot borrow courage of that hope. Nature, however, as has been
+cannot borrow [[Courage|courage]] of that [[Hope|hope]]. [[Nature]], however, as has been
 
 intimated, is an excellent friend in such cases, sealing the lips,
 
@@ -218,6 +218,6 @@ interdicting utterance, commanding a placid dissimulation--a
 
 dissimulation often wearing an easy and gay mien at first, settling down
 
-to sorrow and paleness in time, then passing away, and leaving a
+to sorrow and paleness in [[Time|time]], then passing away, and leaving a
 
 convenient stoicism, not the less fortifying because it is half-bitter.

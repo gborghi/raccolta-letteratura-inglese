@@ -31,7 +31,7 @@ gracious permission to be really an inn?"
 
 Lord Ivywood had an admirable command of temper,
 which had helped him much in his career as a
-statesman.  He did not waste time in wrangling about
+statesman.  He did not waste [[Time|time]] in wrangling about
 the Captain's _locus standi_ in the matter.  He replied
 quite simply,
 
@@ -42,47 +42,47 @@ police, I may go in and ask for a glass of beer--also
 permitted by the police."
 
 "If you find any such, yes," answered Ivywood,
-quite temperately.  "But we hope soon to have
+quite temperately.  "But we [[Hope|hope]] soon to have
 removed them altogether."
 
-Captain Patrick Dalroy rose enormously from his
+Captain Patrick Dalroy [[Rose|rose]] enormously from his
 seat with a sort of stretch and yawn.
 
-"Well, Hump," he said to his friend, "the best thing,
+"[[Well]], Hump," he said to his friend, "the best thing,
 it seems to me, is to take the important things with us."
 
 With two sight-staggering kicks he sent the keg
-of rum and the round cheese flying over the fence,
+of rum and the round [[cheese]] flying over the fence,
 in such a direction that they bounded on the descending
-road and rolled more and more rapidly down
+[[Road|road]] and rolled more and more rapidly down
 toward the dark woods into which the path disappeared.
 Then he gripped the pole of the inn-sign,
 shook it twice and plucked it out of the turf like a tuft
 of grass.
 
 It had all happened before anyone could move, but
-as he strode out into the road the policeman ran
+as he strode out into the [[Road|road]] the policeman ran
 forward.  Dalroy smote him flat across face and chest
 with the wooden sign-board, so as to send him flying
-into the ditch on the other side of the road.  Then
+into the ditch on the other side of the [[Road|road]].  Then
 turning on the man in the fez he poked him with the
 end of the pole so sharply in his new white waistcoat
 and watch-chain as to cause him to sit down suddenly
-in the road, looking very serious and thoughtful.
+in the [[Road|road]], looking very serious and thoughtful.
 
 The dark secretary made a movement of rescue,
 but Humphrey Pump, with a cry, caught up his gun
 from the table and pointed it at him, which so alarmed
-J. Leveson, Secretary, as to cause him almost to double
+J. Leveson, Secretary, as to cause him almost to [[Double|double]]
 up with his emotions.  The next moment Pump, with
-his gun under his arm, was scampering down the hill
+his gun under his arm, was scampering down the [[Hill|hill]]
 after the Captain, who was scampering after the
-barrel and the cheese.
+barrel and the [[cheese]].
 
 Before the policeman had struggled out of the ditch,
 they had all disappeared into the darkness of the
 forest.  Lord Ivywood who had remained firm through
-the scene, without a sign of fear or impatience (or, I
+the scene, without a sign of [[Fear|fear]] or impatience (or, I
 will add, amusement), held up his hand and stopped
 the policeman in his pursuit.
 
@@ -98,7 +98,7 @@ the law has been violated."
 And he stood for hours on the lawn, watching the
 smashing of bottles and the breaking up of casks and
 feeding on fanatical pleasure: the pleasure his strange,
-cold, courageous nature could not get from food or
+cold, courageous [[Nature|nature]] could not get from food or
 wine or woman.
 
 * * *

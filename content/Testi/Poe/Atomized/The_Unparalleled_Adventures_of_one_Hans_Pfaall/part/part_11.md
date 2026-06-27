@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 11)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 11)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -54,7 +54,7 @@ tags:
 
       speck, the dark Mediterranean sea, dotted with shining islands as
 
-      the heaven is dotted with stars, spread itself out to the
+      the heaven is dotted with [[Stars|stars]], spread itself out to the
 
       eastward as far as my vision extended, until its entire mass of
 
@@ -64,11 +64,11 @@ tags:
 
       the mighty cataract. Overhead, the sky was of a jetty black, and
 
-      the stars were brilliantly visible.
+      the [[Stars|stars]] were brilliantly visible.
 
 
 
-      “The pigeons about this time seeming to undergo much suffering, I
+      “The pigeons about this [[Time|time]] seeming to undergo much [[Suffering|suffering]], I
 
       determined upon giving them their liberty. I first untied one of
 
@@ -86,7 +86,7 @@ tags:
 
       descend as I had expected, but struggled with great vehemence to
 
-      get back, uttering at the same time very shrill and piercing
+      get back, uttering at the same [[Time|time]] very shrill and piercing
 
       cries. He at length succeeded in regaining his former station on
 
@@ -102,13 +102,13 @@ tags:
 
       with great velocity, making use of his wings with ease, and in a
 
-      perfectly natural manner. In a very short time he was out of
+      perfectly natural manner. In a very short [[Time|time]] he was out of
 
-      sight, and I have no doubt he reached home in safety. Puss, who
+      sight, and I have no [[Doubt|doubt]] he reached [[Home|home]] in safety. Puss, who
 
       seemed in a great measure recovered from her illness, now made a
 
-      hearty meal of the dead bird and then went to sleep with much
+      hearty meal of the dead bird and then went to [[Sleep|sleep]] with much
 
       apparent satisfaction. Her kittens were quite lively, and so far
 
@@ -118,7 +118,7 @@ tags:
 
       “At a quarter-past eight, being no longer able to draw breath
 
-      without the most intolerable pain, I proceeded forthwith to
+      without the most intolerable [[Pain|pain]], I proceeded forthwith to
 
       adjust around the car the apparatus belonging to the condenser.
 
@@ -144,13 +144,13 @@ tags:
 
       manner placed. That is to say, it (the bag) was drawn over the
 
-      whole bottom of the car, up its sides, and so on, along the
+      whole [[Bottom|bottom]] of the car, up its sides, and so on, along the
 
       outside of the ropes, to the upper rim or hoop where the net-work
 
       is attached. Having pulled the bag up in this way, and formed a
 
-      complete enclosure on all sides, and at bottom, it was now
+      complete enclosure on all sides, and at [[Bottom|bottom]], it was now
 
       necessary to fasten up its top or mouth, by passing its material
 
@@ -164,7 +164,7 @@ tags:
 
       the hoop, but attached by a series of running loops or nooses. I
 
-      therefore undid only a few of these loops at one time, leaving
+      therefore undid only a few of these loops at one [[Time|time]], leaving
 
       the car suspended by the remainder. Having thus inserted a
 

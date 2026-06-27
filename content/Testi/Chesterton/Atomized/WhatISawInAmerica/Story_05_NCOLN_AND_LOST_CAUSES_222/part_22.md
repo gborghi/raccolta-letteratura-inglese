@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 22)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 22)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,9 +16,9 @@ tags:
 
 to find rather in New Orleans. The academic aristocracy of Boston, which
 
-Oliver Wendell Holmes called the Brahmins, is still a reality though it
+[[Oliver]] Wendell Holmes called the Brahmins, is still a reality though it
 
-was always a minority and is now a very small minority. An epigram,
+was always a minority and is now a very small minority. An [[Epigram|epigram]],
 
 invented by Yale at the expense of Harvard, describes it as very small
 
@@ -28,7 +28,7 @@ indeed:--
 
 
 
-     Here is to jolly old Boston, the home of the bean and the cod,
+     Here is to jolly old Boston, the [[Home|home]] of the bean and the cod,
 
      Where Cabots speak only to Lowells, and Lowells speak only to God.
 
@@ -48,7 +48,7 @@ Amy Lowell, and broadened his sympathies so indiscriminately as to show
 
 kindness and hospitality to so lost a being as an English lecturer. But
 
-if the thing is hardly a limit it is very living as a memory; and Boston
+if the thing is hardly a limit it is very living as a [[Memory|memory]]; and Boston
 
 on this side is very much a place of memories. It would be paying it a
 
@@ -60,7 +60,7 @@ vanished from England. There are old brown houses in the corners of
 
 squares and streets that are like glimpses of a man's forgotten
 
-childhood; and when I saw the long path with posts where the Autocrat
+[[Childhood|childhood]]; and when I saw the long path with posts where the Autocrat
 
 may be supposed to have walked with the schoolmistress, I felt I had
 
@@ -68,19 +68,19 @@ come to the land where old tales come true.
 
 
 
-I pause in this place upon this particular aspect of America because it
+I pause in this place upon this particular aspect of [[America]] because it
 
 is very much missed in a mere contrast with England. I need not say that
 
 if I felt it even about slight figures of fiction, I felt it even more
 
-about solid figures of history. Such ghosts seemed particularly solid in
+about solid figures of [[history]]. Such [[Ghosts|ghosts]] seemed particularly solid in
 
 the Southern States, precisely because of the comparative quietude and
 
 leisure of the atmosphere of the South. It was never more vivid to me
 
-than when coming in, at a quiet hour of the night, into the
+than when coming in, at a quiet hour of the [[Night|night]], into the
 
 comparatively quiet hotel at Nashville in Tennessee, and mounting to a
 
@@ -92,11 +92,11 @@ Jackson, watchful like a white eagle.
 
 
 
-At that moment, perhaps, I was in more than one sense alone. Most
+At that moment, perhaps, I was in more than one sense [[Alone|alone]]. Most
 
 Englishmen know a good deal of American fiction, and nothing whatever of
 
-American history. They know more about the autocrat of the
+American [[history]]. They know more about the autocrat of the
 
 breakfast-table than about the autocrat of the army and the people, the
 
@@ -104,7 +104,7 @@ one great democratic despot of modern times; the Napoleon of the New
 
 World. The only notion the English public ever got about American
 
-politics they got from a novel, _Uncle Tom's Cabin_; and to say the
+politics they got from a [[Novel|novel]], _Uncle Tom's Cabin_; and to say the
 
 least of it, it was no exception to the prevalence of fiction over fact.
 
@@ -112,7 +112,7 @@ Hundreds of us have heard of Tom Sawyer for one who has heard of Charles
 
 Sumner; and it is probable that most of us could pass a more detailed
 
-examination about Toddy and Budge than about Lincoln and Lee. But in
+examination about Toddy and Budge than about [[Lincoln]] and Lee. But in
 
 the case of Andrew Jackson it may be that I felt a special sense of
 
@@ -124,15 +124,15 @@ great man was largely directed towards saving us from the chief evil
 
 which destroys the nations to-day. He sought to cut down, as with a
 
-sword of simplicity, the new and nameless enormity of finance; and he
+[[Sword|sword]] of simplicity, the new and nameless enormity of finance; and he
 
-must have known, as by a lightning flash, that the people were behind
+must have known, as by a [[Lightning|lightning]] flash, that the people were behind
 
 him, because all the politicians were against him. The end of that
 
-struggle is not yet; but if the bank is stronger than the sword or the
+struggle is not yet; but if the bank is stronger than the [[Sword|sword]] or the
 
-sceptre of popular sovereignty, the end will be the end of democracy. It
+sceptre of popular sovereignty, the end will be the end of [[democracy]]. It
 
 will have to choose between accepting an acknowledged dictator and
 
@@ -152,9 +152,9 @@ great popular dictator who made war on the politicians and the
 
 financiers. This chapter does not profess to touch on one in twenty of
 
-the interesting cities of America, even in this particular aspect of
+the interesting cities of [[America]], even in this particular aspect of
 
-their relation to the history of America, which is so much neglected in
+their relation to the [[history]] of [[America]], which is so much neglected in
 
 England. If that were so, there would be a great deal to say even about
 
@@ -170,17 +170,17 @@ with industrialism. It is due to the Americans to remember that they
 
 have deliberately preserved one of their cities from such defilement and
 
-such disease. And that is the presidential city, which stands in the
+such disease. And that is the presidential [[City|city]], which stands in the
 
 American mind for the same ideal as the President; the idea of the
 
 Republic that rises above modern money-getting and endures. There has
 
-really been an effort to keep the White House white. No factories are
+really been an effort to keep the White [[house|House]] white. No factories are
 
 allowed in that town; no more than the necessary shops are tolerated. It
 
-is a beautiful city; and really retains something of that classical
+is a beautiful [[City|city]]; and really retains something of that classical
 
 serenity of the eighteenth century in which the Fathers of the Republic
 
@@ -196,9 +196,9 @@ In this, as in so many things, there is no harm in our criticising
 
 foreigners, if only we would also criticise ourselves. In other words,
 
-the world might need even less of its new charity, if it had a little
+the world might need even less of its new [[Charity|charity]], if it had a little
 
-more of the old humility. When we complain of American individualism, we
+more of the old [[Humility|humility]]. When we complain of American [[Individualism|individualism]], we
 
 forget that we have fostered it by ourselves having far less of this
 

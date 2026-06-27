@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 6 (part 1)"
+title: "[[Shirley]] — Chapter 6 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER VI.
 
 
 
-CORIOLANUS.
+[[Coriolanus|CORIOLANUS]].
 
 
 
@@ -30,7 +30,7 @@ Caroline forgot, again and again, the explanations which were given to
 
 her. However, she still bore with unclouded mood the chidings her
 
-inattention brought upon her. Sitting in the sunshine near the window,
+inattention brought upon her. Sitting in the sunshine near the [[Window|window]],
 
 she seemed to receive with its warmth a kind influence, which made her
 
@@ -40,7 +40,7 @@ was a pleasing vision.
 
 
 
-To her had not been denied the gift of beauty. It was not absolutely
+To her had not been denied the gift of [[Beauty|beauty]]. It was not absolutely
 
 necessary to know her in order to like her; she was fair enough to
 
@@ -66,7 +66,7 @@ material, but suitable in colour to the fair complexion with which it
 
 contrasted, and in make to the slight form which it draped. Her present
 
-winter garb was of merino--the same soft shade of brown as her hair; the
+[[Winter|winter]] garb was of merino--the same soft shade of brown as her hair; the
 
 little collar round her neck lay over a pink ribbon, and was fastened
 
@@ -74,25 +74,25 @@ with a pink knot. She wore no other decoration.
 
 
 
-So much for Caroline Helstone's appearance. As to her character or
+So much for [[Caroline Helstone]]'s appearance. As to her character or
 
-intellect, if she had any, they must speak for themselves in due time.
+intellect, if she had any, they must speak for themselves in due [[Time|time]].
 
 
 
-Her connections are soon explained. She was the child of parents
+Her connections are soon explained. She was the [[Child|child]] of parents
 
 separated soon after her birth, in consequence of disagreement of
 
 disposition. Her mother was the half-sister of Mr. Moore's father; thus,
 
-though there was no mixture of blood, she was, in a distant sense, the
+though there was no mixture of [[Blood|blood]], she was, in a distant sense, the
 
 cousin of Robert, Louis, and Hortense. Her father was the brother of Mr.
 
-Helstone--a man of the character friends desire not to recall, after
+Helstone--a man of the character friends [[Desire|desire]] not to recall, after
 
-death has once settled all earthly accounts. He had rendered his wife
+[[Death|death]] has once settled all earthly accounts. He had rendered his wife
 
 unhappy. The reports which were known to be true concerning him had
 
@@ -106,9 +106,9 @@ her; her father died comparatively young, and her uncle, the rector, had
 
 for some years been her sole guardian. He was not, as we are aware, much
 
-adapted, either by nature or habits, to have the charge of a young girl.
+adapted, either by [[Nature|nature]] or habits, to have the charge of a young girl.
 
-He had taken little trouble about her education; probably he would have
+He had taken little trouble about her [[Education|education]]; probably he would have
 
 taken none if she, finding herself neglected, had not grown anxious on
 
@@ -148,7 +148,7 @@ the girl unawares gleaned these treasures. She thought it even when
 
 forced to feel that her pupil knew much on subjects whereof she knew
 
-little. The idea was not logical, but Hortense had perfect faith in it.
+little. The idea was not logical, but Hortense had perfect [[Faith|faith]] in it.
 
 
 
@@ -164,9 +164,9 @@ improving exercise she could devise, interminable "analyses logiques."
 
 These "analyses" were by no means a source of particular pleasure to
 
-Caroline; she thought she could have learned French just as well without
+Caroline; she thought she could have learned French just as [[Well|well]] without
 
-them, and grudged excessively the time spent in pondering over
+them, and grudged excessively the [[Time|time]] spent in pondering over
 
 "propositions, principales, et incidents;" in deciding the "incidente
 
@@ -182,7 +182,7 @@ occupation in which she spent a large portion of each day, arranging,
 
 disarranging, rearranging, and counter-arranging), carry her book to
 
-Robert in the counting-house, and get the rough place made smooth by his
+Robert in the counting-[[house]], and get the rough place made smooth by his
 
 aid. Mr. Moore possessed a clear, tranquil brain of his own. Almost as
 
@@ -200,6 +200,6 @@ face, she would leave the mill reluctantly to go back to the cottage,
 
 and then, while she completed the exercise, or worked out the sum (for
 
-Mdlle. Moore taught her arithmetic too), she would wish nature had made
+Mdlle. Moore taught her arithmetic too), she would wish [[Nature|nature]] had made
 
 her a boy instead of a girl, that she might ask Robert to let her be his

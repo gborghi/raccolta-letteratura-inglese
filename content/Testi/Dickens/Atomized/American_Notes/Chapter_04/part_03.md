@@ -19,13 +19,13 @@ who were already dismissed, and were at play.  Here, as in many
 institutions, no uniform is worn; and I was very glad of it, for two
 reasons.  Firstly, because I am sure that nothing but senseless custom
 and want of thought would reconcile us to the liveries and badges we are
-so fond of at home.  Secondly, because the absence of these things
-presents each child to the visitor in his or her own proper character,
+so fond of at [[Home|home]].  Secondly, because the absence of these things
+presents each [[Child|child]] to the visitor in his or her own proper character,
 with its individuality unimpaired; not lost in a dull, ugly, monotonous
 repetition of the same unmeaning garb: which is really an important
-consideration.  The wisdom of encouraging a little harmless pride in
+consideration.  The wisdom of encouraging a little harmless [[Pride|pride]] in
 personal appearance even among the blind, or the whimsical absurdity of
-considering charity and leather breeches inseparable companions, as we
+considering [[Charity|charity]] and leather breeches inseparable companions, as we
 do, requires no comment.
 
 Good order, cleanliness, and comfort, pervaded every corner of the
@@ -34,12 +34,12 @@ answered the questions put to them with readiness and intelligence, and
 in a spirit of cheerful contest for precedence which pleased me very
 much.  Those who were at play, were gleesome and noisy as other children.
 More spiritual and affectionate friendships appeared to exist among them,
-than would be found among other young persons suffering under no
+than would be found among other young persons [[Suffering|suffering]] under no
 deprivation; but this I expected and was prepared to find.  It is a part
 of the great scheme of Heaven’s merciful consideration for the afflicted.
 
 In a portion of the building, set apart for that purpose, are work-shops
-for blind persons whose education is finished, and who have acquired a
+for blind persons whose [[Education|education]] is finished, and who have acquired a
 trade, but who cannot pursue it in an ordinary manufactory because of
 their deprivation.  Several people were at work here; making brushes,
 mattresses, and so forth; and the cheerfulness, industry, and good order
@@ -51,10 +51,10 @@ leader, to a spacious music-hall, where they took their seats in an
 orchestra erected for that purpose, and listened with manifest delight to
 a voluntary on the organ, played by one of themselves.  At its
 conclusion, the performer, a boy of nineteen or twenty, gave place to a
-girl; and to her accompaniment they all sang a hymn, and afterwards a
-sort of chorus.  It was very sad to look upon and hear them, happy though
+girl; and to her accompaniment they all sang a [[Hymn|hymn]], and afterwards a
+sort of [[Chorus|chorus]].  It was very sad to look upon and hear them, happy though
 their condition unquestionably was; and I saw that one blind girl, who
-(being for the time deprived of the use of her limbs, by illness) sat
+(being for the [[Time|time]] deprived of the use of her limbs, by illness) sat
 close beside me with her face towards them, wept silently the while she
 listened.
 
@@ -64,20 +64,20 @@ which, a man with eyes may blush to contemplate the mask he wears.
 Allowing for one shade of anxious expression which is never absent from
 their countenances, and the like of which we may readily detect in our
 own faces if we try to feel our way in the dark, every idea, as it rises
-within them, is expressed with the lightning’s speed and nature’s truth.
-If the company at a rout, or drawing-room at court, could only for one
-time be as unconscious of the eyes upon them as blind men and women are,
-what secrets would come out, and what a worker of hypocrisy this sight,
+within them, is expressed with the [[Lightning|lightning]]’s [[Speed|speed]] and [[Nature|nature]]’s [[Truth|truth]].
+If the company at a rout, or drawing-room at [[Court|court]], could only for one
+[[Time|time]] be as unconscious of the eyes upon them as blind men and women are,
+what [[Secrets|secrets]] would come out, and what a worker of hypocrisy this sight,
 the loss of which we so much pity, would appear to be!
 
 The thought occurred to me as I sat down in another room, before a girl,
 blind, deaf, and dumb; destitute of smell; and nearly so of taste: before
-a fair young creature with every human faculty, and hope, and power of
+a fair young creature with every human faculty, and [[Hope|hope]], and power of
 goodness and affection, inclosed within her delicate frame, and but one
 outward sense—the sense of touch.  There she was, before me; built up, as
 it were, in a marble cell, impervious to any ray of light, or particle of
 sound; with her poor white hand peeping through a chink in the wall,
-beckoning to some good man for help, that an Immortal soul might be
+beckoning to some good man for help, that an Immortal [[Soul|soul]] might be
 awakened.
 
 Long before I looked upon her, the help had come.  Her face was radiant
@@ -90,7 +90,7 @@ desk she leaned upon.—From the mournful ruin of such bereavement, there
 had slowly risen up this gentle, tender, guileless, grateful-hearted
 being.
 
-Like other inmates of that house, she had a green ribbon bound round her
+Like other inmates of that [[house]], she had a green ribbon bound round her
 eyelids.  A doll she had dressed lay near upon the ground.  I took it up,
 and saw that she had made a green fillet such as she wore herself, and
 fastened it about its mimic eyes.
@@ -99,9 +99,9 @@ She was seated in a little enclosure, made by school-desks and forms,
 writing her daily journal.  But soon finishing this pursuit, she engaged
 in an animated conversation with a teacher who sat beside her.  This was
 a favourite mistress with the poor pupil.  If she could see the face of
-her fair instructress, she would not love her less, I am sure.
+her fair instructress, she would not [[Love|love]] her less, I am sure.
 
-I have extracted a few disjointed fragments of her history, from an
+I have extracted a few disjointed fragments of her [[history]], from an
 account, written by that one man who has made her what she is.  It is a
 very beautiful and touching narrative; and I wish I could present it
 entire.
@@ -111,7 +111,7 @@ the twenty-first of December, 1829.  She is described as having been a
 very sprightly and pretty infant, with bright blue eyes.  She was,
 however, so puny and feeble until she was a year and a half old, that her
 parents hardly hoped to rear her.  She was subject to severe fits, which
-seemed to rack her frame almost beyond her power of endurance: and life
+seemed to rack her frame almost beyond her power of [[Endurance|endurance]]: and life
 was held by the feeblest tenure: but when a year and a half old, she
 seemed to rally; the dangerous symptoms subsided; and at twenty months
-old, she was perfectly well.
+old, she was perfectly [[Well|well]].

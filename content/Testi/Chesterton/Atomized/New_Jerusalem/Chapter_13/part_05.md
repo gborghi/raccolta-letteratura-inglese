@@ -21,7 +21,7 @@ the modern societies they live in also grant them vital forms of national
 political power.  Here the vagrant is already as rich as a miser
 and the vagrant is actually made a mayor.  As will be seen shortly,
 there is a Jewish side of the story which leads really to the same
-ending of the story; but the truth stated here is quite independent
+ending of the story; but the [[Truth|truth]] stated here is quite independent
 of any sympathetic or unsympathetic view of the race in question.
 It is a question of fact, which a sensible Jew can afford to recognise,
 and which the most sensible Jews do very definitely recognise.
@@ -34,7 +34,7 @@ in the five great capitals of Europe.  Nobody can pretend that the
 Seventh Day Baptists are the seven grandchildren of one grandfather,
 scattered systematically among the warring nations of the earth.
 Nobody thinks the Plymouth Brothers are literally brothers,
-or that they are likely to be quite as powerful in Paris or in
+or that they are likely to be quite as powerful in [[Paris]] or in
 Petrograd as in Plymouth.
 
 The Jewish problem can be stated very simply after all.
@@ -44,7 +44,7 @@ This may not appear to matter to those who do not believe in nations,
 those who really think there ought not to be any nations.
 But I literally fail to understand anybody who does believe in patriotism
 thinking that this state of affairs can be consistent with it.
-It is in its nature intolerable, from a national standpoint,
+It is in its [[Nature|nature]] intolerable, from a national standpoint,
 that a man admittedly powerful in one nation should be bound
 to a man equally powerful in another nation, by ties more private
 and personal even than nationality.  Even when the purpose is not
@@ -59,12 +59,12 @@ civilised nation of the Jews.
 For what may be criticised here as Anti-Semitism is only the negative
 side of Zionism.  For the sake of convenience I have begun by stating
 it in terms of the universal popular impression which some call
-a popular prejudice.  But such a truth of differentiation is equally
+a popular prejudice.  But such a [[Truth|truth]] of differentiation is equally
 true on both its different sides.  Suppose somebody proposes to mix up
-England and America, under some absurd name like the Anglo-Saxon Empire.
+England and [[America]], under some absurd name like the Anglo-Saxon Empire.
 One man may say, "Why should the jolly English inns and villages
 be swamped by these priggish provincial Yankees?"  Another may say,
-"Why should the real democracy of a young country be tied to your
+"Why should the real [[Democracy|democracy]] of a young country be tied to your
 snobbish old squirarchy?"  But both these views are only versions
 of the same view of a great American:  "God never made one people
 good enough to rule another."
@@ -78,7 +78,7 @@ they do not deny that Jews may be unpopular; they do not deny that there
 may be other than superstitious reasons for their unpopularity.
 They are not obliged to maintain that when a Piccadilly dandy talks
 about being in the hands of the Jews he is moved by the theological
-fanaticism that prevails in Piccadilly; or that when a silly youth on
+[[Fanaticism|fanaticism]] that prevails in Piccadilly; or that when a silly youth on
 Derby Day says he was done by a dirty Jew, he is merely conforming to that
 Christian orthodoxy which is one of the strict traditions of the Turf.
 They are not, like some other Jews, forced to pay so extravagant
@@ -100,17 +100,17 @@ which to produce, and they are cosmopolitans rather than patriots
 because they have no country of their own for which to be patriotic.
 They can no more become farmers while they are vagrant than they
 could have built the Temple of Solomon while they were building
-the Pyramids of Egypt.  They can no more feel the full stream
-of nationalism while they wander in the desert of nomadism than
+the Pyramids of [[Egypt]].  They can no more feel the full stream
+of nationalism while they wander in the [[Desert|desert]] of nomadism than
 they could bathe in the waters of Jordan while they were weeping
-by the waters of Babylon.  For exile is the worst kind of bondage.
+by the waters of Babylon.  For [[Exile|exile]] is the worst kind of bondage.
 In insisting upon that at least the Zionists have insisted upon
-a profound truth, with many applications to many other moral issues.
+a profound [[Truth|truth]], with many applications to many other moral issues.
 It is true that for any one whose heart is set on a particular
-home or shrine, to be locked out is to be locked in.
-The narrowest possible prison for him is the whole world.
+[[Home|home]] or shrine, to be locked out is to be locked in.
+The narrowest possible [[Prison|prison]] for him is the whole world.
 
-It will be well to notice briefly, however, how the principle
+It will be [[Well|well]] to notice briefly, however, how the principle
 applies to the two Anti-Semitic arguments already considered.
 The first is the charge of usury and unproductive loans, the second
 the charge either of treason or of unpatriotic detachment.
@@ -121,7 +121,7 @@ the unproductive loan is only a minor form of the unproductive labour.
 It is certainly true that the latter complaint is, if possible,
 commoner than the former, especially in comparatively simple
 communities like those of Palestine.  A very honest Moslem Arab
-said to me, with a singular blend of simplicity and humour, "A Jew
+said to me, with a singular blend of simplicity and [[Humour|humour]], "A Jew
 does not work; but he grows rich.  You never see a Jew working;
 and yet they grow rich.  What I want to know is, why do we not
 all do the same?  Why do we not also do this and become rich?"
@@ -136,7 +136,7 @@ many laborious Jewish blacksmiths, many active Jewish hedgers
 and ditchers, or even many energetic Jewish hunters and fishermen.
 In short, the popular impression is tolerably true to life,
 as popular impressions very often are; though it is not fashionable
-to say so in these days of democracy and self-determination. Jews
+to say so in these days of [[Democracy|democracy]] and [[Self|self]]-determination. Jews
 do not generally work on the land, or in any of the handicrafts
 that are akin to the land; but the Zionists reply that this is
 because it can never really be their own land.  That is Zionism,

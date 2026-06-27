@@ -28,27 +28,27 @@ awful manner, over our Sister and our Brother too.
 
 And Sloppy—on whom the brave deceased had never turned her back until
 she ran away from him, knowing that otherwise he would not be separated
-from her—Sloppy could not in his conscience as yet find the hearty
+from her—Sloppy could not in his [[Conscience|conscience]] as yet find the hearty
 thanks required of it. Selfish in Sloppy, and yet excusable, it may be
 humbly hoped, because our sister had been more than his mother.
 
 The words were read above the ashes of Betty Higden, in a corner of a
-churchyard near the river; in a churchyard so obscure that there was
+churchyard near the [[River|river]]; in a churchyard so obscure that there was
 nothing in it but grass-mounds, not so much as one single tombstone.
 It might not be to do an unreasonably great deal for the diggers and
 hewers, in a registering age, if we ticketed their graves at the common
 charge; so that a new generation might know which was which: so that the
-soldier, sailor, emigrant, coming home, should be able to identify the
+soldier, sailor, emigrant, coming [[Home|home]], should be able to identify the
 resting-place of father, mother, playmate, or betrothed. For, we turn up
-our eyes and say that we are all alike in death, and we might turn
+our eyes and say that we are all alike in [[Death|death]], and we might turn
 them down and work the saying out in this world, so far. It would
 be sentimental, perhaps? But how say ye, my lords and gentleman and
 honourable boards, shall we not find good standing-room left for a
 little sentiment, if we look into our crowds?
 
 Near unto the Reverend Frank Milvey as he read, stood his little wife,
-John Rokesmith the Secretary, and Bella Wilfer. These, over and above
-Sloppy, were the mourners at the lowly grave. Not a penny had been
+John Rokesmith the Secretary, and [[Bella Wilfer]]. These, over and above
+Sloppy, were the mourners at the lowly [[Grave|grave]]. Not a penny had been
 added to the money sewn in her dress: what her honest spirit had so long
 projected, was fulfilled.
 
@@ -70,16 +70,16 @@ she went through with everythink. O Mrs Higden, Mrs Higden, you was a
 woman and a mother and a mangler in a million million!’
 
 With those heartfelt words, Sloppy removed his dejected head from the
-church door, and took it back to the grave in the corner, and laid it
-down there, and wept alone. ‘Not a very poor grave,’ said the Reverend
+church door, and took it back to the [[Grave|grave]] in the corner, and laid it
+down there, and wept [[Alone|alone]]. ‘Not a very poor [[Grave|grave]],’ said the Reverend
 Frank Milvey, brushing his hand across his eyes, ‘when it has that
 homely figure on it. Richer, I think, than it could be made by most of
 the sculpture in Westminster Abbey!’
 
 They left him undisturbed, and passed out at the wicket-gate. The
-water-wheel of the paper-mill was audible there, and seemed to have a
+[[Water|water]]-[[Wheel|wheel]] of the paper-mill was audible there, and seemed to have a
 softening influence on the bright wintry scene. They had arrived but a
-little while before, and Lizzie Hexam now told them the little she could
+little while before, and [[Lizzie Hexam]] now told them the little she could
 add to the letter in which she had enclosed Mr Rokesmith’s letter and
 had asked for their instructions. This was merely how she had heard the
 groan, and what had afterwards passed, and how she had obtained leave
@@ -99,7 +99,7 @@ without our managing partner.’
 wife, is a Jewess, and I was first brought to their notice by a Jew. But
 I think there cannot be kinder people in the world.’
 
-‘But suppose they try to convert you!’ suggested Mrs Milvey, bristling
+‘But suppose they try to [[convert]] you!’ suggested Mrs Milvey, bristling
 in her good little way, as a clergyman’s wife.
 
 ‘To do what, ma’am?’ asked Lizzie, with a modest smile.
@@ -129,17 +129,17 @@ would talk to her.’
 
 ‘My dear,’ said the Reverend Frank aside to his good little wife, ‘I
 think I will leave it to somebody else. The circumstances are hardly
-favourable. There are plenty of talkers going about, my love, and she
+favourable. There are plenty of talkers going about, my [[Love|love]], and she
 will soon find one.’
 
 While this discourse was interchanging, both Bella and the Secretary
-observed Lizzie Hexam with great attention. Brought face to face for the
-first time with the daughter of his supposed murderer, it was natural
-that John Harmon should have his own secret reasons for a careful
+observed [[Lizzie Hexam]] with great attention. Brought face to face for the
+first [[Time|time]] with the daughter of his supposed murderer, it was natural
+that [[John Harmon]] should have his own secret reasons for a careful
 scrutiny of her countenance and manner. Bella knew that Lizzie’s
 father had been falsely accused of the crime which had had so great an
 influence on her own life and fortunes; and her interest, though it had
 no secret springs, like that of the Secretary, was equally natural. Both
-had expected to see something very different from the real Lizzie Hexam,
+had expected to see something very different from the real [[Lizzie Hexam]],
 and thus it fell out that she became the unconscious means of bringing
 them together.

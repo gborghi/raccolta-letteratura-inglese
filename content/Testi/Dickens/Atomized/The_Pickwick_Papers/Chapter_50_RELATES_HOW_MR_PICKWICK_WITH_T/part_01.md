@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 48: RELATES HOW MR. PICKWICK, WITH THE ASSISTANCE OF SAMUEL (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 48: RELATES HOW MR. [[Pickwick|PICKWICK]], WITH THE ASSISTANCE OF SAMUEL (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CHAPTER XLVIII. RELATES HOW MR. PICKWICK, WITH THE ASSISTANCE OF SAMUEL
+CHAPTER XLVIII. RELATES HOW MR. [[Pickwick|PICKWICK]], WITH THE ASSISTANCE OF SAMUEL
 WELLER, ESSAYED TO SOFTEN THE HEART OF MR. BENJAMIN ALLEN, AND TO
 MOLLIFY THE WRATH OF MR. ROBERT SAWYER
 
@@ -27,7 +27,7 @@ from the honourable profession to which he had devoted himself.
 ‘Which, I think,’ observed Mr. Bob Sawyer, pursuing the thread of the
 subject--‘which, I think, Ben, are rather dubious.’
 
-‘What’s rather dubious?’ inquired Mr. Ben Allen, at the same time
+‘What’s rather dubious?’ inquired Mr. Ben Allen, at the same [[Time|time]]
 sharpening his intellect with a draught of beer. ‘What’s dubious?’
 
 ‘Why, the chances,’ responded Mr. Bob Sawyer.
@@ -36,7 +36,7 @@ sharpening his intellect with a draught of beer. ‘What’s dubious?’
 Bob--yes; they _are _dubious.’
 
 ‘It’s wonderful how the poor people patronise me,’ said Mr. Bob Sawyer
-reflectively. ‘They knock me up, at all hours of the night; they take
+reflectively. ‘They knock me up, at all hours of the [[Night|night]]; they take
 medicine to an extent which I should have conceived impossible; they put
 on blisters and leeches with a perseverance worthy of a better cause;
 they make additions to their families, in a manner which is quite awful.
@@ -91,7 +91,7 @@ the porter pot. ‘If that didn’t do his business, I’d extract it
 afterwards, and kill him that way.’
 
 Mr. Benjamin Allen gazed abstractedly on his friend for some minutes in
-silence, and then said--
+[[Silence|silence]], and then said--
 
 ‘You have never proposed to her, point-blank, Bob?’
 
@@ -101,13 +101,13 @@ silence, and then said--
 with desperate calmness. ‘She shall have you, or I’ll know the reason
 why. I’ll exert my authority.’
 
-‘Well,’ said Mr. Bob Sawyer, ‘we shall see.’
+‘[[Well]],’ said Mr. Bob Sawyer, ‘we shall see.’
 
 ‘We shall see, my friend,’ replied Mr. Ben Allen fiercely. He paused for
 a few seconds, and added in a voice broken by emotion, ‘You have loved
-her from a child, my friend. You loved her when we were boys at school
+her from a [[Child|child]], my friend. You loved her when we were boys at school
 together, and, even then, she was wayward and slighted your young
-feelings. Do you recollect, with all the eagerness of a child’s love,
+feelings. Do you recollect, with all the eagerness of a [[Child|child]]’s [[Love|love]],
 one day pressing upon her acceptance, two small caraway-seed biscuits
 and one sweet apple, neatly folded into a circular parcel with the leaf
 of a copy-book?’
@@ -123,26 +123,26 @@ pockets of my corduroys, that the apple was unpleasantly warm.’
 in alternate bites.’
 
 Bob Sawyer intimated his recollection of the circumstance last alluded
-to, by a melancholy frown; and the two friends remained for some time
+to, by a [[Melancholy|melancholy]] frown; and the two friends remained for some [[Time|time]]
 absorbed, each in his own meditations.
 
 While these observations were being exchanged between Mr. Bob Sawyer and
 Mr. Benjamin Allen; and while the boy in the gray livery, marvelling at
-the unwonted prolongation of the dinner, cast an anxious look, from time
-to time, towards the glass door, distracted by inward misgivings
+the unwonted prolongation of the dinner, cast an anxious look, from [[Time|time]]
+to [[Time|time]], towards the glass door, distracted by inward misgivings
 regarding the amount of minced veal which would be ultimately reserved
 for his individual cravings; there rolled soberly on through the streets
 of Bristol, a private fly, painted of a sad green colour, drawn by a
-chubby sort of brown horse, and driven by a surly-looking man with his
-legs dressed like the legs of a groom, and his body attired in the coat
+chubby sort of brown [[Horse|horse]], and driven by a surly-looking man with his
+legs dressed like the legs of a groom, and his [[Body|body]] attired in the coat
 of a coachman. Such appearances are common to many vehicles belonging
 to, and maintained by, old ladies of economic habits; and in this
 vehicle sat an old lady who was its mistress and proprietor.
 
 ‘Martin!’ said the old lady, calling to the surly man, out of the front
-window.
+[[Window|window]].
 
-‘Well?’ said the surly man, touching his hat to the old lady.
+‘[[Well]]?’ said the surly man, touching his hat to the old lady.
 
 ‘Mr. Sawyer’s,’ said the old lady.
 
@@ -150,5 +150,5 @@ window.
 
 The old lady nodded the satisfaction which this proof of the surly man’s
 foresight imparted to her feelings; and the surly man giving a smart
-lash to the chubby horse, they all repaired to Mr. Bob Sawyer’s
+lash to the chubby [[Horse|horse]], they all repaired to Mr. Bob Sawyer’s
 together.

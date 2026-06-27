@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 28"
+title: "[[Villette]] — Chapter 28"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,15 +18,15 @@ CHAPTER XXVIII.
 THE WATCHGUARD.
 
 
-M. Paul Emanuel owned an acute sensitiveness to the annoyance of
+M. [[Paul Emanuel]] owned an acute sensitiveness to the annoyance of
 interruption, from whatsoever cause occurring, during his lessons: to
 pass through the classe under such circumstances was considered by the
 teachers and pupils of the school, individually and collectively, to be
 as much as a woman’s or girl’s life was worth.
 
-Madame Beck herself, if forced to the enterprise, would “skurry”
+[[Madame Beck]] herself, if forced to the enterprise, would “skurry”
 through, retrenching her skirts, and carefully coasting the formidable
-estrade, like a ship dreading breakers. As to Rosine, the portress—on
+estrade, like a [[Ship|ship]] dreading breakers. As to Rosine, the portress—on
 whom, every half-hour, devolved the fearful duty of fetching pupils out
 of the very heart of one or other of the divisions to take their
 music-lessons in the oratory, the great or little saloon, the
@@ -41,18 +41,18 @@ and while my fingers wrought at the frame, my ears regaled themselves
 with listening to the crescendos and cadences of a voice haranguing in
 the neighbouring classe, in tones that waxed momentarily more unquiet,
 more ominously varied. There was a good strong partition-wall between
-me and the gathering storm, as well as a facile means of flight through
-the glass-door to the court, in case it swept this way; so I am afraid
+me and the gathering [[Storm|storm]], as [[Well|well]] as a facile means of flight through
+the glass-door to the [[Court|court]], in case it swept this way; so I am afraid
 I derived more amusement than alarm from these thickening symptoms.
 Poor Rosine was not safe: four times that blessed morning had she made
-the passage of peril; and now, for the fifth time, it became her
+the passage of peril; and now, for the fifth [[Time|time]], it became her
 dangerous duty to snatch, as it were, a brand from the burning—a pupil
 from under M. Paul’s nose.
 
 “Mon Dieu! Mon Dieu!” cried she. “Que vais-je devenir? Monsieur va me
 tuer, je suis sûre; car il est d’une colère!”
 
-Nerved by the courage of desperation, she opened the door.
+Nerved by the [[Courage|courage]] of desperation, she opened the door.
 
 “Mademoiselle La Malle au piano!” was her cry.
 
@@ -60,7 +60,7 @@ Ere she could make good her retreat, or quite close the door, this
 voice uttered itself:—
 
 “Dès ce moment!—la classe est défendue. La première qui ouvrira cette
-porte, ou passera par cette division, sera pendue—fut-ce Madame Beck
+porte, ou passera par cette division, sera pendue—fut-ce [[Madame Beck]]
 elle-même!”
 
 Ten minutes had not succeeded the promulgation of this decree when
@@ -70,7 +70,7 @@ corridor.
 “Mademoiselle,” said she, “I would not for a five-franc piece go into
 that classe again just now: Monsieur’s lunettes are really terrible;
 and here is a commissionaire come with a message from the Athénée. I
-have told Madame Beck I dare not deliver it, and she says I am to
+have told [[Madame Beck]] I dare not deliver it, and she says I am to
 charge you with it.”
 
 “Me? No, that is rather too bad! It is not in my line of duty. Come,
@@ -87,22 +87,22 @@ an urgent summons to go directly to the Athénée, as there is an
 official visitor—inspector—I know not what—arrived, and Monsieur _must_
 meet him: you know how he hates a _must_.”
 
-Yes, I knew well enough. The restive little man detested spur or curb:
+Yes, I knew [[Well|well]] enough. The restive little man detested spur or curb:
 against whatever was urgent or obligatory, he was sure to revolt.
-However, I accepted the responsibility—not, certainly, without fear,
-but fear blent with other sentiments, curiosity, amongst them. I opened
+However, I accepted the responsibility—not, certainly, without [[Fear|fear]],
+but [[Fear|fear]] blent with other sentiments, curiosity, amongst them. I opened
 the door, I entered, I closed it behind me as quickly and quietly as a
 rather unsteady hand would permit; for to be slow or bustling, to
 rattle a latch, or leave a door gaping wide, were aggravations of crime
 often more disastrous in result than the main crime itself. There I
-stood then, and there he sat; his humour was visibly bad—almost at its
+stood then, and there he sat; his [[Humour|humour]] was visibly bad—almost at its
 worst; he had been giving a lesson in arithmetic—for he gave lessons on
 any and every subject that struck his fancy—and arithmetic being a dry
 subject, invariably disagreed with him: not a pupil but trembled when
 he spoke of figures. He sat, bent above his desk: to look up at the
 sound of an entrance, at the occurrence of a direct breach of his will
 and law, was an effort he could not for the moment bring himself to
-make. It was quite as well: I thus gained time to walk up the long
+make. It was quite as [[Well|well]]: I thus gained [[Time|time]] to walk up the long
 classe; and it suited my idiosyncracy far better to encounter the near
 burst of anger like his, than to bear its menace at a distance.
 
@@ -111,12 +111,12 @@ immediate attention: he proceeded with his lesson. Disdain would not
 do: he must hear and he must answer my message.
 
 Not being quite tall enough to lift my head over his desk, elevated
-upon the estrade, and thus suffering eclipse in my present position, I
+upon the estrade, and thus [[Suffering|suffering]] eclipse in my present position, I
 ventured to peep round, with the design, at first, of merely getting a
 better view of his face, which had struck me when I entered as bearing
 a close and picturesque resemblance to that of a black and sallow
 tiger. Twice did I enjoy this side-view with impunity, advancing and
-receding unseen; the third time my eye had scarce dawned beyond the
+receding unseen; the third [[Time|time]] my eye had scarce dawned beyond the
 obscuration of the desk, when it was caught and transfixed through its
 very pupil—transfixed by the “lunettes.” Rosine was right; these
 utensils had in them a blank and immutable terror, beyond the mobile
@@ -133,7 +133,7 @@ furnish him with a needleful of embroidering thread with such
 accommodating civility as could not but allay some portion at least of
 his surplus irritation. Of course I did not parade this courtesy before
 public view: I merely handed the thread round the angle of the desk,
-and attached it, ready noosed, to the barred back of the Professor’s
+and attached it, ready noosed, to the barred back of [[The Professor|the Professor]]’s
 chair.
 
 “Que me voulez-vous?” said he in a growl of which the music was wholly
@@ -148,13 +148,13 @@ quick voice, I delivered the Athenian message, floridly exaggerating
 its urgency.
 
 Of course, he would not hear a word of it. “He would not go; he would
-not leave his present class, let all the officials of Villette send for
+not leave his present class, let all the officials of [[Villette]] send for
 him. He would not put himself an inch out of his way at the bidding of
-king, cabinet, and chambers together.”
+[[King|king]], cabinet, and chambers together.”
 
 I knew, however, that he _must_ go; that, talk as he would, both his
 duty and interest commanded an immediate and literal compliance with
-the summons: I stood, therefore, waiting in silence, as if he had not
+the summons: I stood, therefore, waiting in [[Silence|silence]], as if he had not
 yet spoken. He asked what more I wanted.
 
 “Only Monsieur’s answer to deliver to the commissionaire.”
@@ -162,8 +162,8 @@ yet spoken. He asked what more I wanted.
 He waved an impatient negative.
 
 I ventured to stretch my hand to the bonnet-grec which lay in grim
-repose on the window-sill. He followed this daring movement with his
-eye, no doubt in mixed pity and amazement at its presumption.
+repose on the [[Window|window]]-sill. He followed this daring movement with his
+eye, no [[Doubt|doubt]] in mixed pity and amazement at its presumption.
 
 “Ah!” he muttered, “if it came to that—if Miss Lucy meddled with his
 bonnet-grec—she might just put it on herself, turn garçon for the
@@ -175,11 +175,11 @@ seemed to give me an awful nod.
 “I’ll write a note of apology—that will do!” said he, still bent on
 evasion.
 
-Knowing well it would _not_ do, I gently pushed the bonnet towards his
+Knowing [[Well|well]] it would _not_ do, I gently pushed the bonnet towards his
 hand. Thus impelled, it slid down the polished slope of the varnished
 and unbaized desk, carried before it the light steel-framed “lunettes,”
 and, fearful to relate, they fell to the estrade. A score of times ere
-now had I seen them fall and receive no damage—_this_ time, as Lucy
+now had I seen them fall and receive no damage—_this_ [[Time|time]], as Lucy
 Snowe’s hapless luck would have it, they so fell that each clear pebble
 became a shivered and shapeless star.
 
@@ -202,7 +202,7 @@ seen brightening it that evening at the Hotel Crécy. He was not
 angry—not even grieved. For the real injury he showed himself full of
 clemency; under the real provocation, patient as a saint. This event,
 which seemed so untoward—which I thought had ruined at once my chance
-of successful persuasion—proved my best help. Difficult of management
+of successful [[Persuasion|persuasion]]—proved my best help. Difficult of management
 so long as I had done him no harm, he became graciously pliant as soon
 as I stood in his presence a conscious and contrite offender.
 
@@ -213,10 +213,10 @@ absolutely like the “grand Empereur smashing the vase to inspire
 dismay.” So, at last, crowning himself with his bonnet-grec, and taking
 his ruined “lunettes” from my hand with a clasp of kind pardon and
 encouragement, he made his bow, and went off to the Athénée in
-first-rate humour and spirits.
+first-rate [[Humour|humour]] and spirits.
 
 After all this amiability, the reader will be sorry for my sake to hear
-that I was quarrelling with M. Paul again before night; yet so it was,
+that I was quarrelling with M. Paul again before [[Night|night]]; yet so it was,
 and I could not help it.
 
 It was his occasional custom—and a very laudable, acceptable custom,
@@ -225,16 +225,16 @@ in on the silent hour of study, establish a sudden despotism over us
 and our occupations, cause books to be put away, work-bags to be
 brought out, and, drawing forth a single thick volume, or a handful of
 pamphlets, substitute for the besotted “lecture pieuse,” drawled by a
-sleepy pupil, some tragedy made grand by grand reading, ardent by fiery
+sleepy pupil, some [[Tragedy|tragedy]] made grand by grand reading, ardent by fiery
 action—some drama, whereof, for my part, I rarely studied the intrinsic
 merit; for M. Emanuel made it a vessel for an outpouring, and filled it
 with his native verve and passion like a cup with a vital brewage. Or
 else he would flash through our conventual darkness a reflex of a
 brighter world, show us a glimpse of the current literature of the day,
 read us passages from some enchanting tale, or the last witty
-feuilleton which had awakened laughter in the saloons of Paris; taking
-care always to expunge, with the severest hand, whether from tragedy,
-melodrama, tale, or essay, whatever passage, phrase, or word, could be
+feuilleton which had awakened laughter in the saloons of [[Paris]]; taking
+care always to expunge, with the severest hand, whether from [[Tragedy|tragedy]],
+[[Melodrama|melodrama]], tale, or [[Essay|essay]], whatever passage, phrase, or word, could be
 deemed unsuited to an audience of “jeunes filles.” I noticed more than
 once, that where retrenchment without substitute would have left
 unmeaning vacancy, or introduced weakness, he could, and did, improvise
@@ -242,10 +242,10 @@ whole paragraphs, no less vigorous than irreproachable; the
 dialogue—the description—he engrafted was often far better than that he
 pruned away.
 
-Well, on the evening in question, we were sitting silent as nuns in a
+[[Well]], on the evening in question, we were sitting silent as nuns in a
 “retreat,” the pupils studying, the teachers working. I remember my
 work; it was a slight matter of fancy, and it rather interested me; it
-had a purpose; I was not doing it merely to kill time; I meant it when
+had a purpose; I was not doing it merely to kill [[Time|time]]; I meant it when
 finished as a gift; and the occasion of presentation being near, haste
 was requisite, and my fingers were busy.
 
@@ -266,7 +266,7 @@ Pierre, the senior mistress; then to take her vacated seat; and thus
 avail himself of the full beam of Cancer or Capricorn, which, owing to
 his near sight, he needed.
 
-As usual, Zélie rose with alacrity, smiling to the whole extent of her
+As usual, Zélie [[Rose|rose]] with alacrity, smiling to the whole extent of her
 mouth, and the full display of her upper and under rows of teeth—that
 strange smile which passes from ear to ear, and is marked only by a
 sharp thin curve, which fails to spread over the countenance, and
@@ -283,8 +283,8 @@ wish you were at Jericho.”
 
 It was easy to say, “Ne bougez pas;” but how could I help it? I must
 make him room, and I must request the pupils to recede that _I_ might
-recede. It was very well for Ginevra to be gummed to me, “keeping
-herself warm,” as she said, on the winter evenings, and harassing my
+recede. It was very [[Well|well]] for Ginevra to be gummed to me, “keeping
+herself warm,” as she said, on the [[Winter|winter]] evenings, and harassing my
 very heart with her fidgetings and pokings, obliging me, indeed,
 sometimes to put an artful pin in my girdle by way of protection
 against her elbow; but I suppose M. Emanuel was not to be subjected to
@@ -293,7 +293,7 @@ clear space for his book, and withdrew myself to make room for his
 person; not, however, leaving more than a yard of interval, just what
 any reasonable man would have regarded as a convenient, respectful
 allowance of bench. But M. Emanuel never _was_ reasonable; flint and
-tinder that he was! he struck and took fire directly.
+tinder that he was! he struck and took [[Fire|fire]] directly.
 
 “Vous ne voulez pas de moi pour voisin,” he growled: “vous vous donnez
 des airs de caste; vous me traitez en paria;” he scowled. “Soit! je
@@ -301,12 +301,12 @@ vais arranger la chose!” And he set to work.
 
 “Levez vous toutes, Mesdemoiselles!” cried he.
 
-The girls rose. He made them all file off to the other table. He then
+The girls [[Rose|rose]]. He made them all file off to the other table. He then
 placed me at one extremity of the long bench, and having duly and
 carefully brought me my work-basket, silk, scissors, all my implements,
 he fixed himself quite at the other end.
 
-At this arrangement, highly absurd as it was, not a soul in the room
+At this arrangement, highly absurd as it was, not a [[Soul|soul]] in the room
 dared to laugh; luckless for the giggler would have been the giggle. As
 for me, I took it with entire coolness. There I sat, isolated and cut
 off from human intercourse; I sat and minded my work, and was quiet,
@@ -321,13 +321,13 @@ je n’y ai pas mis la main.”
 
 And with this assertion he commenced the reading.
 
-For his misfortune he had chosen a French translation of what he called
+For his misfortune he had chosen a French [[Translation|translation]] of what he called
 “un drame de Williams Shackspire; le faux dieu,” he further announced,
 “de ces sots païens, les Anglais.” How far otherwise he would have
 characterized him had his temper not been upset, I scarcely need
 intimate.
 
-Of course, the translation being French, was very inefficient; nor did
+Of course, the [[Translation|translation]] being French, was very inefficient; nor did
 I make any particular effort to conceal the contempt which some of its
 forlorn lapses were calculated to excite. Not that it behoved or
 beseemed me to say anything: but one can occasionally _look_ the
@@ -347,8 +347,8 @@ sound, and could not justly be deemed amenable to reprimand or penalty
 for having permitted a slightly freer action than usual to the muscles
 about my eyes and mouth.
 
-The supper, consisting of bread, and milk diluted with tepid water, was
-brought in. In respectful consideration of the Professor’s presence,
+The supper, consisting of bread, and milk diluted with tepid [[Water|water]], was
+brought in. In respectful consideration of [[The Professor|the Professor]]’s presence,
 the rolls and glasses were allowed to stand instead of being
 immediately handed round.
 
@@ -358,12 +358,12 @@ accepted a roll and glass, but being now more than ever interested in
 my work, I kept my seat of punishment, and wrought while I munched my
 bread and sipped my beverage, the whole with easy _sang-froid_; with a
 certain snugness of composure, indeed, scarcely in my habits, and
-pleasantly novel to my feelings. It seemed as if the presence of a
-nature so restless, chafing, thorny as that of M. Paul absorbed all
+pleasantly [[Novel|novel]] to my feelings. It seemed as if the presence of a
+[[Nature|nature]] so restless, chafing, thorny as that of M. Paul absorbed all
 feverish and unsettling influences like a magnet, and left me none but
 such as were placid and harmonious.
 
-He rose. “Will he go away without saying another word?” Yes; he turned
+He [[Rose|rose]]. “Will he go away without saying another word?” Yes; he turned
 to the door.
 
 No: he _re_-turned on his steps; but only, perhaps, to take his
@@ -383,7 +383,7 @@ said I was making a watchguard.
 He asked, “For whom?” And I answered, “For a gentleman—one of my
 friends.”
 
-M. Paul stooped down and proceeded—as novel-writers say, and, as was
+M. Paul stooped down and proceeded—as [[Novel|novel]]-writers say, and, as was
 literally true in his case—to “hiss” into my ear some poignant words.
 
 He said that, of all the women he knew, I was the one who could make
@@ -392,7 +392,7 @@ least possible to live on friendly terms. I had a “caractère
 intraitable,” and perverse to a miracle. How I managed it, or what
 possessed me, he, for his part, did not know; but with whatever pacific
 and amicable intentions a person accosted me—crac! I turned concord to
-discord, good-will to enmity. He was sure, he—M. Paul—wished me well
+discord, good-will to enmity. He was sure, he—M. Paul—wished me [[Well|well]]
 enough; he had never done me any harm that he knew of; he might, at
 least, he supposed, claim a right to be regarded as a neutral
 acquaintance, guiltless of hostile sentiments: yet, how I behaved to
@@ -407,7 +407,7 @@ didn’t know….”
 sorry—he was very sorry: for my sake he grieved over the hapless
 peculiarity. This “emportement,” this “chaleur”—generous, perhaps, but
 excessive—would yet, he feared, do me a mischief. It was a pity: I was
-not—he believed, in his soul—wholly without good qualities: and would I
+not—he believed, in his [[Soul|soul]]—wholly without good qualities: and would I
 but hear reason, and be more sedate, more sober, less “en l’air,” less
 “coquette,” less taken by show, less prone to set an undue value on
 outside excellence—to make much of the attentions of people remarkable
@@ -427,15 +427,15 @@ at his ease.
 for the sake of my good, and would venture to refer to a change he had
 noticed in my dress. He was free to confess that when he first knew
 me—or, rather, was in the habit of catching a passing glimpse of me
-from time to time—I satisfied him on this point: the gravity, the
+from [[Time|time]] to [[Time|time]]—I satisfied him on this point: the gravity, the
 austere simplicity, obvious in this particular, were such as to inspire
 the highest hopes for my best interests. What fatal influence had
-impelled me lately to introduce flowers under the brim of my bonnet, to
+impelled me lately to introduce [[Flowers|flowers]] under the brim of my bonnet, to
 wear ‘des cols brodés,’ and even to appear on one occasion in a
 _scarlet gown_—he might indeed conjecture, but, for the present, would
 not openly declare.”
 
-Again I interrupted, and this time not without an accent at once
+Again I interrupted, and this [[Time|time]] not without an accent at once
 indignant and horror-struck.
 
 “Scarlet, Monsieur Paul? It was not scarlet! It was pink, and pale pink
@@ -452,7 +452,7 @@ passionate disposition. He would merely say, in general terms—and in
 these general terms he knew he was correct—that my costume had of late
 assumed ‘des façons mondaines,’ which it wounded him to see.”
 
-What “façons mondaines” he discovered in my present winter merino and
+What “façons mondaines” he discovered in my present [[Winter|winter]] merino and
 plain white collar, I own it puzzled me to guess: and when I asked him,
 he said it was all made with too much attention to effect—and besides,
 “had I not a bow of ribbon at my neck?”
@@ -462,23 +462,23 @@ necessarily disapprove of a thing like this for a gentleman?”—holding
 up my bright little chainlet of silk and gold. His sole reply was a
 groan—I suppose over my levity.
 
-After sitting some minutes in silence, and watching the progress of the
+After sitting some minutes in [[Silence|silence]], and watching the progress of the
 chain, at which I now wrought more assiduously than ever, he inquired:
 “Whether what he had just said would have the effect of making me
 entirely detest him?”
 
 I hardly remember what answer I made, or how it came about; I don’t
-think I spoke at all, but I know we managed to bid good-night on
+think I spoke at all, but I know we managed to bid good-[[Night|night]] on
 friendly terms: and, even after M. Paul had reached the door, he turned
 back just to explain, “that he would not be understood to speak in
 entire condemnation of the scarlet dress” (“Pink! pink!” I threw in);
 “that he had no intention to deny it the merit of _looking_ rather
-well” (the fact was, M. Emanuel’s taste in colours decidedly leaned to
+[[Well|well]]” (the fact was, M. Emanuel’s taste in colours decidedly leaned to
 the brilliant); “only he wished to counsel me, whenever I wore it, to
 do so in the same spirit as if its material were ‘bure,’ and its hue
 ‘gris de poussière.’”
 
-“And the flowers under my bonnet, Monsieur?” I asked. “They are very
+“And the [[Flowers|flowers]] under my bonnet, Monsieur?” I asked. “They are very
 little ones—?”
 
 “Keep them little, then,” said he. “Permit them not to become
@@ -490,24 +490,24 @@ full-blown.”
 
 And so we settled it.
 
-“Well done, Lucy Snowe!” cried I to myself; “you have come in for a
+“[[Well]] done, [[Lucy Snowe]]!” cried I to myself; “you have come in for a
 pretty lecture—brought on yourself a ‘rude savant,’ and all through
 your wicked fondness for worldly vanities! Who would have thought it?
-You deemed yourself a melancholy sober-sides enough! Miss Fanshawe
+You deemed yourself a [[Melancholy|melancholy]] sober-sides enough! Miss Fanshawe
 there regards you as a second Diogenes. M. de Bassompierre, the other
 day, politely turned the conversation when it ran on the wild gifts of
 the actress Vashti, because, as he kindly said, ‘Miss Snowe looked
 uncomfortable.’ Dr. John Bretton knows you only as ‘quiet Lucy’—‘a
-creature inoffensive as a shadow;’ he has said, and you have heard him
-say it: ‘Lucy’s disadvantages spring from over-gravity in tastes and
+creature inoffensive as a [[Shadow|shadow]];’ he has said, and you have heard him
+say it: ‘Lucy’s disadvantages [[spring]] from over-gravity in tastes and
 manner—want of colour in character and costume.’ Such are your own and
 your friends’ impressions; and behold! there starts up a little man,
 differing diametrically from all these, roundly charging you with being
 too airy and cheery—too volatile and versatile—too flowery and coloury.
 This harsh little man—this pitiless censor—gathers up all your poor
-scattered sins of vanity, your luckless chiffon of rose-colour, your
+scattered sins of [[Vanity|vanity]], your luckless chiffon of [[Rose|rose]]-colour, your
 small fringe of a wreath, your small scrap of ribbon, your silly bit of
 lace, and calls you to account for the lot, and for each item. You are
-well habituated to be passed by as a shadow in Life’s sunshine: it is a
+[[Well|well]] habituated to be passed by as a [[Shadow|shadow]] in Life’s sunshine: it is a
 new thing to see one testily lifting his hand to screen his eyes,
 because you tease him with an obtrusive ray.”

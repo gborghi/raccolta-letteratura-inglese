@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 26"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 26"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -32,7 +32,7 @@ better since I last saw him. But there is room for improvement still.
 
 He is not always cheerful, nor always contented, and she often
 
-complains of his ill-humour, which, however, of all persons, _she_
+complains of his ill-[[Humour|humour]], which, however, of all persons, _she_
 
 ought to be the last to accuse him of, as he never displays it against
 
@@ -40,7 +40,7 @@ her, except for such conduct as would provoke a saint. He adores her
 
 still, and would go to the world’s end to please her. She knows her
 
-power, and she uses it too; but well knowing that to wheedle and coax
+power, and she uses it too; but [[Well|well]] knowing that to wheedle and coax
 
 is safer than to command, she judiciously tempers her despotism with
 
@@ -58,11 +58,11 @@ but not too glaringly, coquetting with Mr. Huntingdon, who is quite
 
 willing to be her partner in the game; but I don’t care for it,
 
-because, with him, I know there is nothing but personal vanity, and a
+because, with him, I know there is nothing but personal [[Vanity|vanity]], and a
 
-mischievous desire to excite my jealousy, and, perhaps, to torment his
+mischievous [[Desire|desire]] to excite my [[Jealousy|jealousy]], and, perhaps, to torment his
 
-friend; and she, no doubt, is actuated by much the same motives; only,
+friend; and she, no [[Doubt|doubt]], is actuated by much the same motives; only,
 
 there is more of malice and less of playfulness in _her_ manœuvres. It
 
@@ -76,7 +76,7 @@ confidence in my husband, and the greatest indifference to the arts of
 
 my attractive guest. I have never reproached the former but once, and
 
-that was for laughing at Lord Lowborough’s depressed and anxious
+that was for laughing at [[Lord Lowborough]]’s depressed and anxious
 
 countenance one evening, when they had both been particularly
 
@@ -84,7 +84,7 @@ provoking; and then, indeed, I said a good deal on the subject, and
 
 rebuked him sternly enough; but he only laughed, and said,—“You can
 
-feel for him, Helen, can’t you?”
+feel for him, [[Helen]], can’t you?”
 
 
 
@@ -94,19 +94,19 @@ feel for those that injure them too.”
 
 
 
-“Why, Helen, you are as jealous as he is!” cried he, laughing still
+“Why, [[Helen]], you are as jealous as he is!” cried he, laughing still
 
 more; and I found it impossible to convince him of his mistake. So,
 
-from that time, I have carefully refrained from any notice of the
+from that [[Time|time]], I have carefully refrained from any notice of the
 
-subject whatever, and left Lord Lowborough to take care of himself. He
+subject whatever, and left [[Lord Lowborough]] to take care of himself. He
 
 either has not the sense or the power to follow my example, though he
 
-does try to conceal his uneasiness as well as he can; but still, it
+does try to conceal his uneasiness as [[Well|well]] as he can; but still, it
 
-will appear in his face, and his ill-humour will peep out at intervals,
+will appear in his face, and his ill-[[Humour|humour]] will peep out at intervals,
 
 though not in the expression of open resentment—they never go far
 
@@ -120,23 +120,23 @@ interest; for then I know he is really delighted, and I have no power
 
 to awaken similar fervour. I can amuse and please him with my simple
 
-songs, but not delight him thus.
+[[songs]], but not delight him thus.
 
 
 
 28th.—Yesterday, we all went to the Grove, Mr. Hargrave’s
 
-much-neglected home. His mother frequently asks us over, that she may
+much-neglected [[Home|home]]. His mother frequently asks us over, that she may
 
-have the pleasure of her dear Walter’s company; and this time she had
+have the pleasure of her dear Walter’s company; and this [[Time|time]] she had
 
 invited us to a dinner-party, and got together as many of the country
 
-gentry as were within reach to meet us. The entertainment was very well
+gentry as were within reach to meet us. The entertainment was very [[Well|well]]
 
 got up; but I could not help thinking about the cost of it all the
 
-time. I don’t like Mrs. Hargrave; she is a hard, pretentious,
+[[Time|time]]. I don’t like Mrs. Hargrave; she is a hard, pretentious,
 
 worldly-minded woman. She has money enough to live very comfortably, if
 
@@ -144,7 +144,7 @@ she only knew how to use it judiciously, and had taught her son to do
 
 the same; but she is ever straining to keep up appearances, with that
 
-despicable pride that shuns the semblance of poverty as of a shameful
+despicable [[Pride|pride]] that shuns the semblance of [[Poverty|poverty]] as of a shameful
 
 crime. She grinds her dependents, pinches her servants, and deprives
 
@@ -176,9 +176,9 @@ as long as they can contrive to make a respectable appearance once a
 
 year, when they come to town, he gives himself little concern about
 
-their private stintings and struggles at home. This is a harsh judgment
+their private stintings and struggles at [[Home|home]]. This is a harsh judgment
 
-to form of “dear, noble-minded, generous-hearted Walter,” but I fear it
+to form of “dear, noble-minded, generous-hearted Walter,” but I [[Fear|fear]] it
 
 is too just.
 
@@ -196,13 +196,13 @@ legitimate means, and lavishing so much on their brother, she renders
 
 them portionless, and makes them burdens on her hands. Poor Milicent, I
 
-fear, has already fallen a sacrifice to the manœuvrings of this
+[[Fear|fear]], has already fallen a sacrifice to the manœuvrings of this
 
 mistaken mother, who congratulates herself on having so satisfactorily
 
-discharged her maternal duty, and hopes to do as well for Esther. But
+discharged her maternal duty, and hopes to do as [[Well|well]] for Esther. But
 
-Esther is a child as yet, a little merry romp of fourteen: as
+Esther is a [[Child|child]] as yet, a little merry romp of fourteen: as
 
 honest-hearted, and as guileless and simple as her sister, but with a
 

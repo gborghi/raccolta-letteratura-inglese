@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 3 (part 2)"
+title: "[[GKC-Autobiography]] — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -15,31 +15,31 @@ tags:
 
 
 Boys, I have said, wander in threes.  Three is certainly the
-symbolic number for comradeship, even if it is not always exactly
-the same as friendship.  I have had the good luck to enjoy both,
+symbolic number for [[Comradeship|comradeship]], even if it is not always exactly
+the same as [[Friendship|friendship]].  I have had the good luck to enjoy both,
 as did the Three Musketeers, or the Three Soldiers of Mr. Kipling.
 The first of my friends, with whom I fought in the field,
-has since written the best detective story of modern times and
-still conceals a very powerful sense of humour under the almost
+has since written the best [[Detective|detective]] story of modern times and
+still conceals a very powerful sense of [[Humour|humour]] under the almost
 impenetrable disguise of a writer on the Daily Telegraph.  He was,
 and indeed still is, remarkable for the combination of an extraordinary
 gravity of visage with extreme agility and quickness of movement.
-I used to say that he had the head of a professor on the body
+I used to say that he had the head of a professor on the [[Body|body]]
 of a harlequin.  It was a poetic pleasure to see him walk,
 a little pompously, down the street and suddenly scale a lamp-post
 like a monkey, with the alleged intention of lighting a cigarette,
 and then drop down and resume his walk with an unchanged
 expression of earnestness and serenity.  He had extraordinarily
-well-balanced brains and could do almost anything with them;
-even writing an ordinary leading article for a London daily.
+[[Well|well]]-balanced brains and could do almost anything with them;
+even writing an ordinary leading article for a [[London]] daily.
 But he could write clear and unadulterated nonsense with the same
 serious simplicity.  It was he who invented that severe and stately
-form of Free Verse which has since been known by his own second
+form of [[Free Verse]] which has since been known by his own second
 name as "the Clerihew" (his name is Edward Clerihew Bentley)
-or "Biography for Beginners"; which dates from our days at school,
+or "[[Biography]] for Beginners"; which dates from our days at school,
 when he sat listening to a chemical exposition, with his rather
 bored air and blank sheet of blotting paper before him.
-On this he wrote, inspired by the limpid spirit of song,
+On this he wrote, inspired by the limpid spirit of [[Song|song]],
 the unadorned lines,
 
   Sir Humphrey Davy
@@ -58,14 +58,14 @@ anything else; or that our schoolboy days would ever end.  In that sense
 we were as unambitious as children whispering a secret language.
 Our jokes were all domestic or developed out of the daily affairs
 of the school; but they covered enough waste paper to stock a library.
-I remember an interminable romance, for which I was always
+I remember an interminable [[Romance|romance]], for which I was always
 drawing pictures, and which I still think had a touch of wild fancy.
 It arose merely from our walking behind three of the masters;
 two of them, who were young and tall, had between them a third,
 who was old and very small; so that there seemed a vague suggestion
 that they were supporting him.  On this was based the great constructive
 theory that the elder master (who was one of the most important persons
-in the school) was in fact only a clock-work figure, which they
+in the school) was in fact only a [[Clock|clock]]-work figure, which they
 carried about with them and wound up to go through his daily round.
 The dummy and the two conspirators were dragged through an endless
 reel of long-drawn (and badly drawn) adventures, some scraps
@@ -79,7 +79,7 @@ these elaborate strategic maps of nonsense, or the suggestion
 of such preposterous plots.  It is something like the industry
 which accompanies the fantasy of Father Ronald Knox, when he makes
 a detailed map of the Barsetshire of Trollope or works out an incredible
-cryptogram to show that Queen Victoria wrote "In Memoriam."
+cryptogram to show that [[Queen]] Victoria wrote "In Memoriam."
 I remember one day when the whole school assembled for a presentation
 to a master who was leaving us to take up a fellowship at Peterhouse.
 The congratulatory speech was made by one of the upper masters
@@ -102,7 +102,7 @@ He had lived for that hour.  He had now made his first and last joke;
 and probably would soon pass away in peace.
 
 It was the third member of our original trio who brought into our
-secrets the breath of ambition and the air out of the great world.
+[[Secrets|secrets]] the breath of [[Ambition|ambition]] and the air out of the great world.
 He was a dark and very thin youth, named Lucian Oldershaw,
 who looked and in some ways was very sensitive; but about
 those larger matters he was much less shy than we were.
@@ -112,7 +112,7 @@ much more of the variety of life.  Above all, there possessed him,
 almost feverishly, a vast, amazing and devastating idea, the idea
 of doing something; of doing something in the manner of grown-up people,
 who were the only people who could be conceived as doing things.
-I well remember how my hair stood on end, when he first spoke
+I [[Well|well]] remember how my hair stood on end, when he first spoke
 casually about the official School Magazine; which was to me
 something like the School Prayers or the School Foundation.
 None of us had ever dreamed of contributing to it, any more than
@@ -122,12 +122,12 @@ establishing some cooperation between all the great school magazines,
 those of Eton, Harrow, Winchester and the rest.  If he had proposed
 that we should conquer and rule the British Empire, I could not have been
 more staggered; but he dismissed it as casually as he had called it up,
-and then proposed in cold blood that we should publish a magazine
+and then proposed in cold [[Blood|blood]] that we should publish a magazine
 of our own; and have it printed at a real printer's. He must have
 possessed considerable persuasive powers; because we actually did.
 We also founded a small society of boys of our own age, and called
 it the Junior Debating Club; though nobody, so far as I know,
-has ever heard of the Senior Debating Club.  There was the Union,
+has ever heard of the Senior Debating Club.  There was the [[Union]],
 to which you belonged when you were in the top form, as you did other
 lawful and appalling things, such as dining with the High Master.
-But we no more anticipated that at our age, than we anticipated death.
+But we no more anticipated that at our age, than we anticipated [[Death|death]].

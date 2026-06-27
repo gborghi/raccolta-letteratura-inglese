@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 30"
+title: "[[Barnaby Rudge]] — Chapter 30"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -20,9 +20,9 @@ Chapter 30
 A homely proverb recognises the existence of a troublesome class of
 persons who, having an inch conceded them, will take an ell. Not to
 quote the illustrious examples of those heroic scourges of mankind,
-whose amiable path in life has been from birth to death through blood,
-and fire, and ruin, and who would seem to have existed for no better
-purpose than to teach mankind that as the absence of pain is pleasure,
+whose amiable path in life has been from birth to [[Death|death]] through [[Blood|blood]],
+and [[Fire|fire]], and ruin, and who would seem to have existed for no better
+purpose than to teach mankind that as the absence of [[Pain|pain]] is pleasure,
 so the earth, purged of their presence, may be deemed a blessed
 place--not to quote such mighty instances, it will be sufficient to
 refer to old John Willet.
@@ -35,7 +35,7 @@ old John became. The ell soon faded into nothing. Yards, furlongs, miles
 arose; and on went old John in the pleasantest manner possible, trimming
 off an exuberance in this place, shearing away some liberty of speech
 or action in that, and conducting himself in his small way with as much
-high mightiness and majesty, as the most glorious tyrant that ever had
+high mightiness and majesty, as the most glorious [[Tyrant|tyrant]] that ever had
 his statue reared in the public ways, of ancient or of modern times.
 
 As great men are urged on to the abuse of power (when they need urging,
@@ -46,8 +46,8 @@ pots, would shake their heads and say that Mr Willet was a father of the
 good old English sort; that there were no new-fangled notions or modern
 ways in him; that he put them in mind of what their fathers were when
 they were boys; that there was no mistake about him; that it would be
-well for the country if there were more like him, and more was the pity
-that there were not; with many other original remarks of that nature.
+[[Well|well]] for the country if there were more like him, and more was the pity
+that there were not; with many other original remarks of that [[Nature|nature]].
 Then they would condescendingly give Joe to understand that it was
 all for his good, and he would be thankful for it one day; and in
 particular, Mr Cobb would acquaint him, that when he was his age, his
@@ -68,12 +68,12 @@ Chester, he did that day exceed himself, and did so goad and chafe his
 son and heir, that but for Joe’s having made a solemn vow to keep
 his hands in his pockets when they were not otherwise engaged, it is
 impossible to say what he might have done with them. But the longest day
-has an end, and at length Mr Chester came downstairs to mount his horse,
+has an end, and at length Mr Chester came downstairs to mount his [[Horse|horse]],
 which was ready at the door.
 
 As old John was not in the way at the moment, Joe, who was sitting in
 the bar ruminating on his dismal fate and the manifold perfections of
-Dolly Varden, ran out to hold the guest’s stirrup and assist him to
+[[Dolly Varden]], ran out to hold the guest’s stirrup and assist him to
 mount. Mr Chester was scarcely in the saddle, and Joe was in the very
 act of making him a graceful bow, when old John came diving out of the
 porch, and collared him.
@@ -95,45 +95,45 @@ gentlemen and their sons, are you, eh? Hold your tongue, sir.’
 
 Joe made no effort to reply. It was the crowning circumstance of his
 degradation. He extricated himself from his father’s grasp, darted an
-angry look at the departing guest, and returned into the house.
+angry look at the departing guest, and returned into the [[house]].
 
 ‘But for her,’ thought Joe, as he threw his arms upon a table in the
 common room, and laid his head upon them, ‘but for Dolly, who I couldn’t
 bear should think me the rascal they would make me out to be if I ran
-away, this house and I should part to-night.’
+away, this [[house]] and I should part to-[[Night|night]].’
 
-It being evening by this time, Solomon Daisy, Tom Cobb, and Long Parkes,
-were all in the common room too, and had from the window been witnesses
+It being evening by this [[Time|time]], Solomon Daisy, Tom Cobb, and Long Parkes,
+were all in the common room too, and had from the [[Window|window]] been witnesses
 of what had just occurred. Mr Willet joining them soon afterwards,
 received the compliments of the company with great composure, and
 lighting his pipe, sat down among them.
 
 ‘We’ll see, gentlemen,’ said John, after a long pause, ‘who’s the master
-of this house, and who isn’t. We’ll see whether boys are to govern men,
+of this [[house]], and who isn’t. We’ll see whether boys are to govern men,
 or men are to govern boys.’
 
 ‘And quite right too,’ assented Solomon Daisy with some approving nods;
-‘quite right, Johnny. Very good, Johnny. Well said, Mr Willet. Brayvo,
+‘quite right, Johnny. Very good, Johnny. [[Well]] said, Mr Willet. Brayvo,
 sir.’
 
 John slowly brought his eyes to bear upon him, looked at him for a long
-time, and finally made answer, to the unspeakable consternation of his
+[[Time|time]], and finally made answer, to the unspeakable consternation of his
 hearers, ‘When I want encouragement from you, sir, I’ll ask you for
-it. You let me alone, sir. I can get on without you, I hope. Don’t you
+it. You let me [[Alone|alone]], sir. I can get on without you, I [[Hope|hope]]. Don’t you
 tackle me, sir, if you please.’
 
 ‘Don’t take it ill, Johnny; I didn’t mean any harm,’ pleaded the little
 man.
 
 ‘Very good, sir,’ said John, more than usually obstinate after his late
-success. ‘Never mind, sir. I can stand pretty firm of myself, sir, I
+[[success]]. ‘Never mind, sir. I can stand pretty firm of myself, sir, I
 believe, without being shored up by you.’ And having given utterance to
 this retort, Mr Willet fixed his eyes upon the boiler, and fell into a
 kind of tobacco-trance.
 
 The spirits of the company being somewhat damped by this embarrassing
 line of conduct on the part of their host, nothing more was said for a
-long time; but at length Mr Cobb took upon himself to remark, as he rose
+long [[Time|time]]; but at length Mr Cobb took upon himself to remark, as he [[Rose|rose]]
 to knock the ashes out of his pipe, that he hoped Joe would thenceforth
 learn to obey his father in all things; that he had found, that day, he
 was not one of the sort of men who were to be trifled with; and that
@@ -156,9 +156,9 @@ talked to, eh, Joe?’
 
 To which Joe returned no answer, but with a very ominous shake of the
 head, resumed his old position, which he would have peacefully preserved
-until the house shut up at night, but that Mr Cobb, stimulated by the
-wonder of the company at the young man’s presumption, retorted with
-sundry taunts, which proved too much for flesh and blood to bear.
+until the [[house]] shut up at [[Night|night]], but that Mr Cobb, stimulated by the
+[[Wonder|wonder]] of the company at the young man’s presumption, retorted with
+sundry taunts, which proved too much for flesh and [[Blood|blood]] to bear.
 Crowding into one moment the vexation and the wrath of years, Joe
 started up, overturned the table, fell upon his long enemy, pummelled
 him with all his might and main, and finished by driving him with

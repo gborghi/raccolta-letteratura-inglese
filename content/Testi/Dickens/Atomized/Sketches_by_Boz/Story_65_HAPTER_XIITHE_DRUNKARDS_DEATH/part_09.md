@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 9)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 9)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -19,7 +19,7 @@ this, he plays the same part on a larger scale with increased _éclat_.
 Mr. Mincin is invited to an evening party with his dear friends the
 Martins, where he meets his dear friends the Cappers, and his dear
 friends the Watsons, and a hundred other dear friends too numerous to
-mention. He is as much at home with the Martins as with the Cappers;
+mention. He is as much at [[Home|home]] with the Martins as with the Cappers;
 but how exquisitely he balances his attentions, and divides them among
 his dear friends! If he flirts with one of the Miss Watsons, he has one
 little Martin on the sofa pulling his hair, and the other little Martin
@@ -32,13 +32,13 @@ Mincin leads her tenderly into the next room, and restores her with
 port wine, which she must take medicinally. If any gentleman be
 standing by the piano during the progress of the ballad, Mr. Mincin
 seizes him by the arm at one point of the melody, and softly beating
-time the while with his head, expresses in dumb show his intense
-perception of the delicacy of the passage. If anybody’s self-love is to
-be flattered, Mr. Mincin is at hand. If anybody’s overweening vanity is
-to be pampered, Mr. Mincin will surfeit it. What wonder that people of
+[[Time|time]] the while with his head, expresses in dumb show his intense
+perception of the delicacy of the passage. If anybody’s [[Self|self]]-[[Love|love]] is to
+be flattered, Mr. Mincin is at hand. If anybody’s overweening [[Vanity|vanity]] is
+to be pampered, Mr. Mincin will surfeit it. What [[Wonder|wonder]] that people of
 all stations and ages recognise Mr. Mincin’s friendliness; that he is
 universally allowed to be handsome as amiable; that mothers think him
-an oracle, daughters a dear, brothers a beau, and fathers a wonder! And
+an oracle, daughters a dear, brothers a beau, and fathers a [[Wonder|wonder]]! And
 who would not have the reputation of the very friendly young gentleman?
 
 
@@ -67,8 +67,8 @@ circumstance may be naturally supposed to be greatly in their favour.
 We have sometimes thought that this phenomenon may take its rise in the
 conventional behaviour of captains and colonels and other gentlemen in
 red coats on the stage, where they are invariably represented as fine
-swaggering fellows, talking of nothing but charming girls, their king
-and country, their honour, and their debts, and crowing over the
+swaggering fellows, talking of nothing but charming girls, their [[King|king]]
+and country, their [[Honour|honour]], and their debts, and crowing over the
 inferior classes of the community, whom they occasionally treat with a
 little gentlemanly swindling, no less to the improvement and pleasure
 of the audience, than to the satisfaction and approval of the choice
@@ -84,10 +84,10 @@ These young gentlemen may be divided into two classes—young gentlemen
 who are actually in the army, and young gentlemen who, having an
 intense and enthusiastic admiration for all things appertaining to a
 military life, are compelled by adverse fortune or adverse relations to
-wear out their existence in some ignoble counting-house. We will take
+wear out their existence in some ignoble counting-[[house]]. We will take
 this latter description of military young gentlemen first.
 
-The whole heart and soul of the military young gentleman are
+The whole heart and [[Soul|soul]] of the military young gentleman are
 concentrated in his favourite topic. There is nothing that he is so
 learned upon as uniforms; he will tell you, without faltering for an
 instant, what the habiliments of any one regiment are turned up with,
@@ -115,10 +115,10 @@ gentleman, but parted company with ready good-will.
 
 Some three or four hours afterwards, we chanced to be walking down
 Whitehall, on the Admiralty side of the way, when, as we drew near to
-one of the little stone places in which a couple of horse soldiers
+one of the little stone places in which a couple of [[Horse|horse]] soldiers
 mount guard in the daytime, we were attracted by the motionless
 appearance and eager gaze of a young gentleman, who was devouring both
-man and horse with his eyes, so eagerly, that he seemed deaf and blind
+man and [[Horse|horse]] with his eyes, so eagerly, that he seemed deaf and blind
 to all that was passing around him. We were not much surprised at the
 discovery that it was our friend, the military young gentleman, but we
 _were_ a little astonished when we returned from a walk to South
@@ -127,4 +127,4 @@ before. As it was a very windy day, we felt bound to awaken the young
 gentleman from his reverie, when he inquired of us with great
 enthusiasm, whether ‘that was not a glorious spectacle,’ and proceeded
 to give us a detailed account of the weight of every article of the
-spectacle’s trappings, from the man’s gloves to the horse’s shoes.
+spectacle’s trappings, from the man’s gloves to the [[Horse|horse]]’s shoes.

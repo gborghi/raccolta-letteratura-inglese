@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-Not very well knowing how to get rid of this applicant, and feeling the
+Not very [[Well|well]] knowing how to get rid of this applicant, and feeling the
 more embarrassed because his manner and appearance claimed a delicacy
 in which the worthy Mr Boffin feared he himself might be deficient, that
 gentleman glanced into the mouldy little plantation or cat-preserve, of
-Clifford’s Inn, as it was that day, in search of a suggestion. Sparrows
+[[Clifford]]’s Inn, as it was that day, in search of a suggestion. Sparrows
 were there, cats were there, dry-rot and wet-rot were there, but it was
 not otherwise a suggestive spot.
 
-‘All this time,’ said the stranger, producing a little pocket-book and
+‘All this [[Time|time]],’ said the stranger, producing a little pocket-book and
 taking out a card, ‘I have not mentioned my name. My name is Rokesmith.
 I lodge at one Mr Wilfer’s, at Holloway.’
 
 Mr Boffin stared again.
 
-‘Father of Miss Bella Wilfer?’ said he.
+‘Father of Miss [[Bella Wilfer]]?’ said he.
 
-‘My landlord has a daughter named Bella. Yes; no doubt.’
+‘My landlord has a daughter named Bella. Yes; no [[Doubt|doubt]].’
 
 Now, this name had been more or less in Mr Boffin’s thoughts all the
 morning, and for days before; therefore he said:
@@ -46,7 +46,7 @@ it was one of that family that pinted me out?’
 ‘No. I occupy my own rooms, and have held scarcely any communication
 with them.’
 
-‘Odder and odder!’ said Mr Boffin. ‘Well, sir, to tell you the truth, I
+‘Odder and odder!’ said Mr Boffin. ‘[[Well]], sir, to tell you the [[Truth|truth]], I
 don’t know what to say to you.’
 
 ‘Say nothing,’ returned Mr Rokesmith; ‘allow me to call on you in a few
@@ -68,13 +68,13 @@ head to foot, repeating ‘Queer!—You’re sure it was Secretary? Are you?’
 
 —‘As Secretary,’ repeated Mr Boffin, meditating upon the word; ‘I no
 more know that I may ever want a Secretary, or what not, than I do that
-I shall ever be in want of the man in the moon. Me and Mrs Boffin have
+I shall ever be in want of the man in the [[Moon|moon]]. Me and Mrs Boffin have
 not even settled that we shall make any change in our way of life. Mrs
 Boffin’s inclinations certainly do tend towards Fashion; but, being
 already set up in a fashionable way at the Bower, she may not make
 further alterations. However, sir, as you don’t press yourself, I wish
 to meet you so far as saying, by all means call at the Bower if you
-like. Call in the course of a week or two. At the same time, I consider
+like. Call in the course of a week or two. At the same [[Time|time]], I consider
 that I ought to name, in addition to what I have already named, that I
 have in my employment a literary man—WITH a wooden leg—as I have no
 thoughts of parting from.’
@@ -91,7 +91,7 @@ Without observing that these duties seemed by no means clear to Mr
 Rokesmith’s astonished comprehension, Mr Boffin went on:
 
 ‘And now, sir, I’ll wish you good-day. You can call at the Bower any
-time in a week or two. It’s not above a mile or so from you, and your
+[[Time|time]] in a week or two. It’s not above a mile or so from you, and your
 landlord can direct you to it. But as he may not know it by its new
 name of Boffin’s Bower, say, when you inquire of him, it’s Harmon’s;
 will you?’

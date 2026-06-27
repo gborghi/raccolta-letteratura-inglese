@@ -30,7 +30,7 @@ and looking at his watch, “without any scruple, in a very few minutes.”
 hook Mr. Lorry into the discussion, “that your respect for my sister--”
 
 “I could not better testify my respect for your sister than by finally
-relieving her of her brother,” said Sydney Carton.
+relieving her of her brother,” said [[Sydney Carton]].
 
 “You think not, sir?”
 
@@ -51,7 +51,7 @@ who was he?”
 “French. You don’t know him,” said the spy, quickly.
 
 “French, eh?” repeated Carton, musing, and not appearing to notice him
-at all, though he echoed his word. “Well; he may be.”
+at all, though he echoed his word. “[[Well]]; he may be.”
 
 “Is, I assure you,” said the spy; “though it’s not important.”
 
@@ -61,7 +61,7 @@ the face.”
 
 “I think not. I am sure not. It can’t be,” said the spy.
 
-“It-can’t-be,” muttered Sydney Carton, retrospectively, and idling his
+“It-can’t-be,” muttered [[Sydney Carton]], retrospectively, and idling his
 glass (which fortunately was a small one) again. “Can’t-be. Spoke good
 French. Yet like a foreigner, I thought?”
 
@@ -74,14 +74,14 @@ had that man before us at the Old Bailey.”
 “Now, there you are hasty, sir,” said Barsad, with a smile that gave his
 aquiline nose an extra inclination to one side; “there you really give
 me an advantage over you. Cly (who I will unreservedly admit, at this
-distance of time, was a partner of mine) has been dead several years. I
-attended him in his last illness. He was buried in London, at the church
+distance of [[Time|time]], was a partner of mine) has been dead several years. I
+attended him in his last illness. He was buried in [[London]], at the church
 of Saint Pancras-in-the-Fields. His unpopularity with the blackguard
 multitude at the moment prevented my following his remains, but I helped
 to lay him in his coffin.”
 
 Here, Mr. Lorry became aware, from where he sat, of a most remarkable
-goblin shadow on the wall. Tracing it to its source, he discovered it
+goblin [[Shadow|shadow]] on the wall. Tracing it to its source, he discovered it
 to be caused by a sudden extraordinary rising and stiffening of all the
 risen and stiff hair on Mr. Cruncher’s head.
 
@@ -93,9 +93,9 @@ it, “ever since. There it is. Oh, look at it, look at it! You may take
 it in your hand; it’s no forgery.”
 
 Here, Mr. Lorry perceived the reflection on the wall to elongate, and
-Mr. Cruncher rose and stepped forward. His hair could not have been more
+Mr. Cruncher [[Rose|rose]] and stepped forward. His hair could not have been more
 violently on end, if it had been that moment dressed by the Cow with the
-crumpled horn in the house that Jack built.
+crumpled horn in the [[house]] that Jack built.
 
 Unseen by the spy, Mr. Cruncher stood at his side, and touched him on
 the shoulder like a ghostly bailiff.
@@ -125,30 +125,30 @@ take in. Me and two more knows it.”
 old grudge again, is it, with your shameful impositions upon tradesmen!
 I’d catch hold of your throat and choke you for half a guinea.”
 
-Sydney Carton, who, with Mr. Lorry, had been lost in amazement at
+[[Sydney Carton]], who, with Mr. Lorry, had been lost in amazement at
 this turn of the business, here requested Mr. Cruncher to moderate and
 explain himself.
 
-“At another time, sir,” he returned, evasively, “the present time is
-ill-conwenient for explainin’. What I stand to, is, that he knows well
+“At another [[Time|time]], sir,” he returned, evasively, “the present [[Time|time]] is
+ill-conwenient for explainin’. What I stand to, is, that he knows [[Well|well]]
 wot that there Cly was never in that there coffin. Let him say he was,
 in so much as a word of one syllable, and I’ll either catch hold of his
 throat and choke him for half a guinea;” Mr. Cruncher dwelt upon this as
 quite a liberal offer; “or I’ll out and announce him.”
 
 “Humph! I see one thing,” said Carton. “I hold another card, Mr. Barsad.
-Impossible, here in raging Paris, with Suspicion filling the air, for
+Impossible, here in raging [[Paris]], with Suspicion filling the air, for
 you to outlive denunciation, when you are in communication with another
 aristocratic spy of the same antecedents as yourself, who, moreover, has
-the mystery about him of having feigned death and come to life again!
+the mystery about him of having feigned [[Death|death]] and come to life again!
 A plot in the prisons, of the foreigner against the Republic. A strong
 card--a certain Guillotine card! Do you play?”
 
 “No!” returned the spy. “I throw up. I confess that we were so unpopular
 with the outrageous mob, that I only got away from England at the risk
-of being ducked to death, and that Cly was so ferreted up and down, that
+of being ducked to [[Death|death]], and that Cly was so ferreted up and down, that
 he never would have got away at all but for that sham. Though how this
-man knows it was a sham, is a wonder of wonders to me.”
+man knows it was a sham, is a [[Wonder|wonder]] of wonders to me.”
 
 “Never you trouble your head about this man,” retorted the contentious
 Mr. Cruncher; “you’ll have trouble enough with giving your attention to
@@ -157,9 +157,9 @@ be restrained from making rather an ostentatious parade of his
 liberality--“I’d catch hold of your throat and choke you for half a
 guinea.”
 
-The Sheep of the prisons turned from him to Sydney Carton, and said,
+The Sheep of the prisons turned from him to [[Sydney Carton]], and said,
 with more decision, “It has come to a point. I go on duty soon, and
-can’t overstay my time. You told me you had a proposal; what is it?
+can’t overstay my [[Time|time]]. You told me you had a proposal; what is it?
 Now, it is of no use asking too much of me. Ask me to do anything in my
 office, putting my head in great extra danger, and I had better trust my
 life to the chances of a refusal than the chances of consent. In short,
@@ -182,10 +182,10 @@ Conciergerie?”
 
 “I can pass in and out when I choose.”
 
-Sydney Carton filled another glass with brandy, poured it slowly out
+[[Sydney Carton]] filled another glass with brandy, poured it slowly out
 upon the hearth, and watched it as it dropped. It being all spent, he
 said, rising:
 
-“So far, we have spoken before these two, because it was as well that
+“So far, we have spoken before these two, because it was as [[Well|well]] that
 the merits of the cards should not rest solely between you and me. Come
-into the dark room here, and let us have one final word alone.”
+into the dark room here, and let us have one final word [[Alone|alone]].”

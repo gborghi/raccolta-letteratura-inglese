@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act II, Scene 1 — exchange (ESCALUS) [5]"
+title: "Measure for Measure — Act II, Scene 1 — exchange ([[Escalus|ESCALUS]]) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/MEASURE-FOR-MEASURE-(Shakespeare)"
@@ -15,12 +15,12 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ESCALUS | Look you bring me in the names of some six or seven, the most sufficient of your parish. |
-| ELBOW | To your worship’s house, sir? |
-| ESCALUS | To my house. Fare you well. Exit Elbow with officers What’s o’clock, think you? |
+| [[Escalus|ESCALUS]] | Look you bring me in the names of some six or seven, the most sufficient of your parish. |
+| ELBOW | To your worship’s [[house]], sir? |
+| [[Escalus|ESCALUS]] | To my [[house]]. Fare you [[Well|well]]. Exit Elbow with officers What’s o’[[Clock|clock]], think you? |
 | JUSTICE | Eleven, sir. |
-| ESCALUS | I pray you home to dinner with me. |
+| [[Escalus|ESCALUS]] | I pray you [[Home|home]] to dinner with me. |
 | JUSTICE | I humbly thank you. |
-| ESCALUS | It grieves me for the death of Claudio, But there’s no remedy. |
-| JUSTICE | Lord Angelo is severe. |
-| ESCALUS | It is but needful. Mercy is not itself that oft looks so. Pardon is still the nurse of second woe. But yet, poor Claudio! There is no remedy. Come, sir. Exeunt |
+| [[Escalus|ESCALUS]] | It grieves me for the [[Death|death]] of [[Claudio]], But there’s no remedy. |
+| JUSTICE | Lord [[Angelo]] is severe. |
+| [[Escalus|ESCALUS]] | It is but needful. [[Mercy]] is not itself that oft looks so. Pardon is still the [[Nurse|nurse]] of second woe. But yet, poor [[Claudio]]! There is no remedy. Come, sir. Exeunt |

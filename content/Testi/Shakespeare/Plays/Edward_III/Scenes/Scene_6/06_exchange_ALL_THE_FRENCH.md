@@ -1,5 +1,5 @@
 ---
-title: "Edward III — Scene 6 — exchange (ALL THE FRENCH) [6]"
+title: "[[Edward III]] — Scene 6 — exchange (ALL THE FRENCH) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/EDWARD-III-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ALL THE FRENCH | Vive le roil God save King Jean of Francel |
-| KING OF FRANCE | Now, on this plain of Crécy, spread yourselves. And, Edward, when thou dar’st, begin the fight! Exit with the French |
+| ALL THE FRENCH | Vive le roil God save [[King]] Jean of Francel |
+| [[King of France|KING OF FRANCE]] | Now, on this plain of Crécy, spread yourselves. And, Edward, when thou dar’st, begin the fight! Exit with the French |

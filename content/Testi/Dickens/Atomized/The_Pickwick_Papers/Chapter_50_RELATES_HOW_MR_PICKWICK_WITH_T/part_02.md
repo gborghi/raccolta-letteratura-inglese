@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 48: RELATES HOW MR. PICKWICK, WITH THE ASSISTANCE OF SAMUEL (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 48: RELATES HOW MR. [[Pickwick|PICKWICK]], WITH THE ASSISTANCE OF SAMUEL (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,23 +17,23 @@ tags:
 ‘Martin!’ said the old lady, when the fly stopped at the door of Mr.
 Robert Sawyer, late Nockemorf.
 
-‘Well?’ said Martin.
+‘[[Well]]?’ said Martin.
 
-‘Ask the lad to step out, and mind the horse.’
+‘Ask the lad to step out, and mind the [[Horse|horse]].’
 
-‘I’m going to mind the horse myself,’ said Martin, laying his whip on
+‘I’m going to mind the [[Horse|horse]] myself,’ said Martin, laying his whip on
 the roof of the fly.
 
 ‘I can’t permit it, on any account,’ said the old lady; ‘your testimony
-will be very important, and I must take you into the house with me. You
+will be very important, and I must take you into the [[house]] with me. You
 must not stir from my side during the whole interview. Do you hear?’
 
 ‘I hear,’ replied Martin.
 
-‘Well; what are you stopping for?’
+‘[[Well]]; what are you stopping for?’
 
 ‘Nothing,’ replied Martin. So saying, the surly man leisurely descended
-from the wheel, on which he had been poising himself on the tops of the
+from the [[Wheel|wheel]], on which he had been poising himself on the tops of the
 toes of his right foot, and having summoned the boy in the gray livery,
 opened the coach door, flung down the steps, and thrusting in a hand
 enveloped in a dark wash-leather glove, pulled out the old lady with as
@@ -46,7 +46,7 @@ Mr. Martin coughed behind the dark wash-leather gloves, but expressed no
 sympathy; so the old lady, composing herself, trotted up Mr. Bob
 Sawyer’s steps, and Mr. Martin followed. Immediately on the old lady’s
 entering the shop, Mr. Benjamin Allen and Mr. Bob Sawyer, who had been
-putting the spirits-and-water out of sight, and upsetting nauseous drugs
+putting the spirits-and-[[Water|water]] out of sight, and upsetting nauseous drugs
 to take off the smell of the tobacco smoke, issued hastily forth in a
 transport of pleasure and affection.
 
@@ -60,14 +60,14 @@ were so disposed.
 
 ‘My dear Benjamin,’ said the old lady, struggling with a great shortness
 of breath, and trembling from head to foot, ‘don’t be alarmed, my dear,
-but I think I had better speak to Mr. Sawyer, alone, for a moment. Only
+but I think I had better speak to Mr. Sawyer, [[Alone|alone]], for a moment. Only
 for one moment.’
 
 ‘Bob,’ said Mr. Allen, ‘will you take my aunt into the surgery?’
 
 ‘Certainly,’ responded Bob, in a most professional voice. ‘Step this
 way, my dear ma’am. Don’t be frightened, ma’am. We shall be able to set
-you to rights in a very short time, I have no doubt, ma’am. Here, my
+you to rights in a very short [[Time|time]], I have no [[Doubt|doubt]], ma’am. Here, my
 dear ma’am. Now then!’ With this, Mr. Bob Sawyer having handed the old
 lady to a chair, shut the door, drew another chair close to her, and
 waited to hear detailed the symptoms of some disorder from which he saw
@@ -76,8 +76,8 @@ in perspective a long train of profits and advantages.
 The first thing the old lady did, was to shake her head a great many
 times, and began to cry.
 
-‘Nervous,’ said Bob Sawyer complacently. ‘Camphor-julep and water three
-times a day, and composing draught at night.’
+‘Nervous,’ said Bob Sawyer complacently. ‘Camphor-julep and [[Water|water]] three
+times a day, and composing draught at [[Night|night]].’
 
 ‘I don’t know how to begin, Mr. Sawyer,’ said the old lady. ‘It is so
 very painful and distressing.’
@@ -93,8 +93,8 @@ stomach is the primary cause.’
 
 ‘Mr. Sawyer!’ exclaimed the old lady, starting.
 
-‘Not the least doubt of it, ma’am,’ rejoined Bob, looking wondrous wise.
-‘Medicine, in time, my dear ma’am, would have prevented it all.’
+‘Not the least [[Doubt|doubt]] of it, ma’am,’ rejoined Bob, looking wondrous wise.
+‘Medicine, in [[Time|time]], my dear ma’am, would have prevented it all.’
 
 ‘Mr. Sawyer,’ said the old lady, more flurried than before, ‘this
 conduct is either great impertinence to one in my situation, Sir, or it
@@ -113,7 +113,7 @@ understood you. What _is_ the matter, ma’am?’
 agitated, spoke with the most tantalising deliberation, as old ladies
 often do. ‘Yes, ma’am.’
 
-‘Left my home, Mr. Sawyer, three days ago, on a pretended visit to my
+‘Left my [[Home|home]], Mr. Sawyer, three days ago, on a pretended visit to my
 sister, another aunt of hers, who keeps the large boarding-school, just
 beyond the third mile-stone, where there is a very large laburnum-tree
 and an oak gate,’ said the old lady, stopping in this place to dry her
@@ -135,7 +135,7 @@ she come back?’
 ‘She said, Mr. Sawyer,’ replied the old lady--‘and it is this I want to
 prepare Benjamin’s mind for, gently and by degrees; she said that she
 was--I have got the letter in my pocket, Mr. Sawyer, but my glasses are
-in the carriage, and I should only waste your time if I attempted to
+in the carriage, and I should only waste your [[Time|time]] if I attempted to
 point out the passage to you, without them; she said, in short, Mr.
 Sawyer, that she was married.’
 

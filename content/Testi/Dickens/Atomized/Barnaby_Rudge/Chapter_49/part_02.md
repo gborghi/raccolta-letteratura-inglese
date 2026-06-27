@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 49 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 49 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,16 +17,16 @@ tags:
 Mr Dennis received these explanatory remarks with many nods and winks,
 and softened his behaviour towards Barnaby from that moment. Hugh,
 laying his finger on his nose, stepped back into his former place, and
-they proceeded in silence.
+they proceeded in [[Silence|silence]].
 
-It was between two and three o’clock in the afternoon when the three
+It was between two and three o’[[Clock|clock]] in the afternoon when the three
 great parties met at Westminster, and, uniting into one huge mass,
 raised a tremendous shout. This was not only done in token of their
 presence, but as a signal to those on whom the task devolved, that it
-was time to take possession of the lobbies of both Houses, and of
+was [[Time|time]] to take possession of the lobbies of both Houses, and of
 the various avenues of approach, and of the gallery stairs. To the
 last-named place, Hugh and Dennis, still with their pupil between them,
-rushed straightway; Barnaby having given his flag into the hands of one
+rushed straightway; Barnaby having given his [[Flag|flag]] into the hands of one
 of their own party, who kept them at the outer door. Their followers
 pressing on behind, they were borne as on a great wave to the very doors
 of the gallery, whence it was impossible to retreat, even if they had
@@ -45,7 +45,7 @@ coming near the ground.
 
 Through this vast throng, sprinkled doubtless here and there with honest
 zealots, but composed for the most part of the very scum and refuse
-of London, whose growth was fostered by bad criminal laws, bad prison
+of [[London]], whose growth was fostered by bad criminal laws, bad [[Prison|prison]]
 regulations, and the worst conceivable police, such of the members of
 both Houses of Parliament as had not taken the precaution to be already
 at their posts, were compelled to fight and force their way. Their
@@ -58,20 +58,20 @@ stages of ill-usage; and sent to their fellow-senators at last with
 their clothes hanging in ribands about them, their bagwigs torn off,
 themselves speechless and breathless, and their persons covered with the
 powder which had been cuffed and beaten out of their hair. One lord was
-so long in the hands of the populace, that the Peers as a body resolved
+so long in the hands of the populace, that the Peers as a [[Body|body]] resolved
 to sally forth and rescue him, and were in the act of doing so, when he
 happily appeared among them covered with dirt and bruises, and hardly to
 be recognised by those who knew him best. The noise and uproar were on
 the increase every moment. The air was filled with execrations, hoots,
-and howlings. The mob raged and roared, like a mad monster as it was,
+and howlings. The mob raged and roared, like a mad [[Monster|monster]] as it was,
 unceasingly, and each new outrage served to swell its fury.
 
 Within doors, matters were even yet more threatening. Lord
 George--preceded by a man who carried the immense petition on a porter’s
-knot through the lobby to the door of the House of Commons, where it
-was received by two officers of the house who rolled it up to the table
+knot through the lobby to the door of the [[house|House]] of Commons, where it
+was received by two officers of the [[house]] who rolled it up to the table
 ready for presentation--had taken his seat at an early hour, before the
-Speaker went to prayers. His followers pouring in at the same time, the
+Speaker went to prayers. His followers pouring in at the same [[Time|time]], the
 lobby and all the avenues were immediately filled, as we have seen. Thus
 the members were not only attacked in their passage through the streets,
 but were set upon within the very walls of Parliament; while the tumult,
@@ -81,31 +81,31 @@ it would be wise to take in such extremity, or animate each other to
 dignified and firm resistance. So sure as any member, just arrived, with
 dress disordered and dishevelled hair, came struggling through the crowd
 in the lobby, it yelled and screamed in triumph; and when the door
-of the House, partially and cautiously opened by those within for his
+of the [[house|House]], partially and cautiously opened by those within for his
 admission, gave them a momentary glimpse of the interior, they grew
 more wild and savage, like beasts at the sight of prey, and made a rush
 against the portal which strained its locks and bolts in their staples,
 and shook the very beams.
 
 The strangers’ gallery, which was immediately above the door of the
-House, had been ordered to be closed on the first rumour of disturbance,
+[[house|House]], had been ordered to be closed on the first rumour of disturbance,
 and was empty; save that now and then Lord George took his seat there,
 for the convenience of coming to the head of the stairs which led to
 it, and repeating to the people what had passed within. It was on
 these stairs that Barnaby, Hugh, and Dennis were posted. There were two
 flights, short, steep, and narrow, running parallel to each other,
 and leading to two little doors communicating with a low passage which
-opened on the gallery. Between them was a kind of well, or unglazed
+opened on the gallery. Between them was a kind of [[Well|well]], or unglazed
 skylight, for the admission of light and air into the lobby, which might
 be some eighteen or twenty feet below.
 
 Upon one of these little staircases--not that at the head of which Lord
-George appeared from time to time, but the other--Gashford stood with
+George appeared from [[Time|time]] to [[Time|time]], but the other--Gashford stood with
 his elbow on the bannister, and his cheek resting on his hand, with his
 usual crafty aspect. Whenever he varied this attitude in the slightest
 degree--so much as by the gentlest motion of his arm--the uproar was
 certain to increase, not merely there, but in the lobby below; from
-which place no doubt, some man who acted as fugleman to the rest, was
+which place no [[Doubt|doubt]], some man who acted as fugleman to the rest, was
 constantly looking up and watching him.
 
 ‘Order!’ cried Hugh, in a voice which made itself heard even above the

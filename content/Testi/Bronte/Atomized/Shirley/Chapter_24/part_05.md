@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 24 (part 5)"
+title: "[[Shirley]] — Chapter 24 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ conferred; but the heart and the brain are _mine_. The germs are from
 
 _me_, and they are improved, they are developed to excellence. I esteem
 
-and approve my child as highly as I do most fondly love her."
+and approve my [[Child|child]] as highly as I do most fondly [[Love|love]] her."
 
 
 
@@ -44,11 +44,11 @@ generally did not like her--so I have been given to understand."
 
 
 
-"They told you that? Well, your mother now tells you that, not having
+"They told you that? [[Well]], your mother now tells you that, not having
 
 the gift to please people generally, for their approbation she does not
 
-care. Her thoughts are centred in her child. Does that child welcome or
+care. Her thoughts are centred in her [[Child|child]]. Does that [[Child|child]] welcome or
 
 reject her?"
 
@@ -64,9 +64,9 @@ can live. I should like to recover----"
 
 were a tiny, fair infant, over whose blue eyes I used to weep, fearing I
 
-beheld in your very beauty the sign of qualities that had entered my
+beheld in your very [[Beauty|beauty]] the sign of qualities that had entered my
 
-heart like iron, and pierced through my soul like a sword. Daughter! we
+heart like iron, and pierced through my [[Soul|soul]] like a [[Sword|sword]]. Daughter! we
 
 have been long parted; I return now to cherish you again."
 
@@ -74,7 +74,7 @@ have been long parted; I return now to cherish you again."
 
 She held her to her bosom; she cradled her in her arms; she rocked her
 
-softly, as if lulling a young child to sleep.
+softly, as if lulling a young [[Child|child]] to [[Sleep|sleep]].
 
 
 
@@ -86,13 +86,13 @@ The offspring nestled to the parent; that parent, feeling the endearment
 
 and hearing the appeal, gathered her closer still. She covered her with
 
-noiseless kisses; she murmured love over her, like a cushat fostering
+noiseless kisses; she murmured [[Love|love]] over her, like a cushat fostering
 
 its young.
 
 
 
-There was silence in the room for a long while.
+There was [[Silence|silence]] in the room for a long while.
 
 
 
@@ -114,7 +114,7 @@ There was silence in the room for a long while.
 
 "How could it be otherwise? Mr. and Miss Helstone being announced, I was
 
-prepared to see my child."
+prepared to see my [[Child|child]]."
 
 
 
@@ -170,15 +170,15 @@ me. Had you been rustic, clownish, awkward, I should have been content."
 
 "I had reason to dread a fair outside, to mistrust a popular bearing, to
 
-shudder before distinction, grace, and courtesy. Beauty and affability
+shudder before distinction, grace, and courtesy. [[Beauty]] and affability
 
 had come in my way when I was recluse, desolate, young, and ignorant--a
 
 toil-worn governess perishing of uncheered labour, breaking down before
 
-her time. These, Caroline, when they smiled on me, I mistook for angels.
+her [[Time|time]]. These, Caroline, when they smiled on me, I mistook for angels.
 
-I followed them home; and when into their hands I had given without
+I followed them [[Home|home]]; and when into their hands I had given without
 
 reserve my whole chance of future happiness, it was my lot to witness a
 
@@ -210,9 +210,9 @@ patience. He kept me in the days of my anguish. I was afraid with
 
 terror--I was troubled. Through great tribulation He brought me through
 
-to a salvation revealed in this last time. My fear had torment; He has
+to a salvation revealed in this last [[Time|time]]. My [[Fear|fear]] had torment; He has
 
-cast it out. He has given me in its stead perfect love. But,
+cast it out. He has given me in its stead perfect [[Love|love]]. But,
 
 Caroline----"
 
@@ -240,15 +240,15 @@ God is the arbiter. This world's laws never came near us--never! They
 
 were powerless as a rotten bulrush to protect me--impotent as idiot
 
-babblings to restrain him! As you said, it is all over now; the grave
+babblings to restrain him! As you said, it is all over now; the [[Grave|grave]]
 
-lies between us. There he sleeps, in that church. To his dust I say this
+lies between us. There he sleeps, in that church. To his [[Dust|dust]] I say this
 
-night, what I have never said before, 'James, slumber peacefully! See!
+[[Night|night]], what I have never said before, 'James, slumber peacefully! See!
 
 your terrible debt is cancelled! Look! I wipe out the long, black
 
-account with my own hand! James, your child atones. This living likeness
+account with my own hand! James, your [[Child|child]] atones. This living likeness
 
 of you--this thing with your perfect features--this one good gift you
 
@@ -260,13 +260,13 @@ gave me has nestled affectionately to my heart, and tenderly called me
 
 "Dearest mother, that is right! Can papa's spirit hear us? Is he
 
-comforted to know that we still love him?"
+comforted to know that we still [[Love|love]] him?"
 
 
 
-"I said nothing of love. I spoke of forgiveness. Mind the truth, child;
+"I said nothing of [[Love|love]]. I spoke of [[Forgiveness|forgiveness]]. Mind the [[Truth|truth]], [[Child|child]];
 
-I said nothing of love! On the threshold of eternity, should he be there
+I said nothing of [[Love|love]]! On the threshold of [[Eternity|eternity]], should he be there
 
 to see me enter, will I maintain that."
 
@@ -276,7 +276,7 @@ to see me enter, will I maintain that."
 
 
 
-"O child, the human heart _can_ suffer! It can hold more tears than the
+"O [[Child|child]], the human heart _can_ suffer! It can hold more [[Tears|tears]] than the
 
 ocean holds waters. We never know how deep, how wide it is, till misery
 

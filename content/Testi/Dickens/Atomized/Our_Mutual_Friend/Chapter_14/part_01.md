@@ -21,7 +21,7 @@ MR AND MRS BOFFIN IN CONSULTATION
 
 Betaking himself straight homeward, Mr Boffin, without further let or
 hindrance, arrived at the Bower, and gave Mrs Boffin (in a walking dress
-of black velvet and feathers, like a mourning coach-horse) an account of
+of black velvet and feathers, like a mourning coach-[[Horse|horse]]) an account of
 all he had said and done since breakfast.
 
 ‘This brings us round, my dear,’ he then pursued, ‘to the question
@@ -33,7 +33,7 @@ dress with an air of immense enjoyment, ‘I want Society.’
 
 ‘Fashionable Society, my dear?’
 
-‘Yes!’ cried Mrs Boffin, laughing with the glee of a child. ‘Yes! It’s
+‘Yes!’ cried Mrs Boffin, laughing with the glee of a [[Child|child]]. ‘Yes! It’s
 no good my being kept here like Wax-Work; is it now?’
 
 ‘People have to pay to see Wax-Work, my dear,’ returned her husband,
@@ -55,16 +55,16 @@ replied, though rather pensively: ‘I suppose we must.’
 ‘It’s never been acted up to yet, and, consequently, no good has come of
 it,’ said Mrs Boffin.
 
-‘True, to the present time,’ Mr Boffin assented, with his former
-pensiveness, as he took his seat upon his settle. ‘I hope good may be
-coming of it in the future time. Towards which, what’s your views, old
+‘True, to the present [[Time|time]],’ Mr Boffin assented, with his former
+pensiveness, as he took his seat upon his settle. ‘I [[Hope|hope]] good may be
+coming of it in the future [[Time|time]]. Towards which, what’s your views, old
 lady?’
 
-Mrs Boffin, a smiling creature, broad of figure and simple of nature,
+Mrs Boffin, a smiling creature, broad of figure and simple of [[Nature|nature]],
 with her hands folded in her lap, and with buxom creases in her throat,
 proceeded to expound her views.
 
-‘I say, a good house in a good neighbourhood, good things about us,
+‘I say, a good [[house]] in a good neighbourhood, good things about us,
 good living, and good society. I say, live like our means, without
 extravagance, and be happy.’
 
@@ -84,7 +84,7 @@ with you and me leaning back inside, as grand as ninepence! Oh-h-h-h My!
 Ha ha ha ha ha!’
 
 Mrs Boffin clapped her hands again, rocked herself again, beat her feet
-upon the floor, and wiped the tears of laughter from her eyes.
+upon the floor, and wiped the [[Tears|tears]] of laughter from her eyes.
 
 ‘And what, my old lady,’ inquired Mr Boffin, when he also had
 sympathetically laughed: ‘what’s your views on the subject of the
@@ -106,11 +106,11 @@ the table in his admiration. ‘What a thinking steam-ingein this old lady
 is. And she don’t know how she does it. Neither does the ingein!’
 
 Mrs Boffin pulled his nearest ear, in acknowledgment of this piece of
-philosophy, and then said, gradually toning down to a motherly strain:
+[[philosophy]], and then said, gradually toning down to a motherly strain:
 ‘Last, and not least, I have taken a fancy. You remember dear little
-John Harmon, before he went to school? Over yonder across the yard, at
-our fire? Now that he is past all benefit of the money, and it’s come to
-us, I should like to find some orphan child, and take the boy and adopt
+[[John Harmon]], before he went to school? Over yonder across the yard, at
+our [[Fire|fire]]? Now that he is past all benefit of the money, and it’s come to
+us, I should like to find some [[Orphan|orphan]] [[Child|child]], and take the boy and adopt
 him and give him John’s name, and provide for him. Somehow, it would
 make me easier, I fancy. Say it’s only a whim—’
 
@@ -124,9 +124,9 @@ make me easier, I fancy. Say it’s only a whim—’
 deary! And don’t you begin to find it pleasant now,’ said Mrs Boffin,
 once more radiant in her comely way from head to foot, and once more
 smoothing her dress with immense enjoyment, ‘don’t you begin to find
-it pleasant already, to think that a child will be made brighter, and
-better, and happier, because of that poor sad child that day? And isn’t
-it pleasant to know that the good will be done with the poor sad child’s
+it pleasant already, to think that a [[Child|child]] will be made brighter, and
+better, and happier, because of that poor sad [[Child|child]] that day? And isn’t
+it pleasant to know that the good will be done with the poor sad [[Child|child]]’s
 own money?’
 
 ‘Yes; and it’s pleasant to know that you are Mrs Boffin,’ said her
@@ -135,10 +135,10 @@ year!’ It was ruin to Mrs Boffin’s aspirations, but, having so spoken,
 they sat side by side, a hopelessly Unfashionable pair.
 
 These two ignorant and unpolished people had guided themselves so far on
-in their journey of life, by a religious sense of duty and desire to do
+in their [[Journey of Life|journey of life]], by a religious sense of duty and [[Desire|desire]] to do
 right. Ten thousand weaknesses and absurdities might have been detected
 in the breasts of both; ten thousand vanities additional, possibly, in
-the breast of the woman. But the hard wrathful and sordid nature that
+the breast of the woman. But the hard wrathful and sordid [[Nature|nature]] that
 had wrung as much work out of them as could be got in their best days,
 for as little money as could be paid to hurry on their worst, had never
 been so warped but that it knew their moral straightness and respected

@@ -15,30 +15,30 @@ tags:
 
 
 CHAPTER XVI
-THE PASSAGE HOME
+THE PASSAGE [[Home|HOME]]
 
 
 I NEVER had so much interest before, and very likely I shall never have
-so much interest again, in the state of the wind, as on the
+so much interest again, in the state of the [[Wind|wind]], as on the
 long-looked-for morning of Tuesday the Seventh of June.  Some nautical
 authority had told me a day or two previous, ‘anything with west in it,
 will do;’ so when I darted out of bed at daylight, and throwing up the
-window, was saluted by a lively breeze from the north-west which had
-sprung up in the night, it came upon me so freshly, rustling with so many
+[[Window|window]], was saluted by a lively breeze from the north-west which had
+sprung up in the [[Night|night]], it came upon me so freshly, rustling with so many
 happy associations, that I conceived upon the spot a special regard for
 all airs blowing from that quarter of the compass, which I shall cherish,
-I dare say, until my own wind has breathed its last frail puff, and
+I dare say, until my own [[Wind|wind]] has breathed its last frail puff, and
 withdrawn itself for ever from the mortal calendar.
 
 The pilot had not been slow to take advantage of this favourable weather,
-and the ship which yesterday had been in such a crowded dock that she
+and the [[Ship|ship]] which yesterday had been in such a crowded dock that she
 might have retired from trade for good and all, for any chance she seemed
 to have of going to sea, was now full sixteen miles away.  A gallant
 sight she was, when we, fast gaining on her in a steamboat, saw her in
 the distance riding at anchor: her tall masts pointing up in graceful
 lines against the sky, and every rope and spar expressed in delicate and
 thread-like outline: gallant, too, when, we being all aboard, the anchor
-came up to the sturdy chorus ‘Cheerily men, oh cheerily!’ and she
+came up to the sturdy [[Chorus|chorus]] ‘Cheerily men, oh cheerily!’ and she
 followed proudly in the towing steamboat’s wake: but bravest and most
 gallant of all, when the tow-rope being cast adrift, the canvas fluttered
 from her masts, and spreading her white wings she soared away upon her
@@ -46,10 +46,10 @@ free and solitary course.
 
 In the after cabin we were only fifteen passengers in all, and the
 greater part were from Canada, where some of us had known each other.
-The night was rough and squally, so were the next two days, but they flew
+The [[Night|night]] was rough and squally, so were the next two days, but they flew
 by quickly, and we were soon as cheerful and snug a party, with an
 honest, manly-hearted captain at our head, as ever came to the resolution
-of being mutually agreeable, on land or water.
+of being mutually agreeable, on land or [[Water|water]].
 
 We breakfasted at eight, lunched at twelve, dined at three, and took our
 tea at half-past seven.  We had abundance of amusements, and dinner was
@@ -62,7 +62,7 @@ lower end of the table, below the mast, to whose distinguished president
 modesty forbids me to make any further allusion, which, being a very
 hilarious and jovial institution, was (prejudice apart) in high favour
 with the rest of the community, and particularly with a black steward,
-who lived for three weeks in a broad grin at the marvellous humour of
+who lived for three weeks in a broad grin at the marvellous [[Humour|humour]] of
 these incorporated worthies.
 
 Then, we had chess for those who played it, whist, cribbage, books,
@@ -70,20 +70,20 @@ backgammon, and shovelboard.  In all weathers, fair or foul, calm or
 windy, we were every one on deck, walking up and down in pairs, lying in
 the boats, leaning over the side, or chatting in a lazy group together.
 We had no lack of music, for one played the accordion, another the
-violin, and another (who usually began at six o’clock A.M.) the
+violin, and another (who usually began at six o’[[Clock|clock]] A.M.) the
 key-bugle: the combined effect of which instruments, when they all played
-different tunes in different parts of the ship, at the same time, and
+different tunes in different parts of the [[Ship|ship]], at the same [[Time|time]], and
 within hearing of each other, as they sometimes did (everybody being
 intensely satisfied with his own performance), was sublimely hideous.
 
 When all these means of entertainment failed, a sail would heave in
-sight: looming, perhaps, the very spirit of a ship, in the misty
+sight: looming, perhaps, the very spirit of a [[Ship|ship]], in the misty
 distance, or passing us so close that through our glasses we could see
 the people on her decks, and easily make out her name, and whither she
 was bound.  For hours together we could watch the dolphins and porpoises
 as they rolled and leaped and dived around the vessel; or those small
 creatures ever on the wing, the Mother Carey’s chickens, which had borne
-us company from New York bay, and for a whole fortnight fluttered about
+us company from [[New York]] bay, and for a whole fortnight fluttered about
 the vessel’s stern.  For some days we had a dead calm, or very light
 winds, during which the crew amused themselves with fishing, and hooked
 an unlucky dolphin, who expired, in all his rainbow colours, on the deck:
@@ -92,16 +92,16 @@ dated from the dolphin, and made the day on which he died, an era.
 
 Besides all this, when we were five or six days out, there began to be
 much talk of icebergs, of which wandering islands an unusual number had
-been seen by the vessels that had come into New York a day or two before
+been seen by the vessels that had come into [[New York]] a day or two before
 we left that port, and of whose dangerous neighbourhood we were warned by
 the sudden coldness of the weather, and the sinking of the mercury in the
-barometer.  While these tokens lasted, a double look-out was kept, and
+barometer.  While these tokens lasted, a [[Double|double]] look-out was kept, and
 many dismal tales were whispered after dark, of ships that had struck
-upon the ice and gone down in the night; but the wind obliging us to hold
+upon the ice and gone down in the [[Night|night]]; but the [[Wind|wind]] obliging us to hold
 a southward course, we saw none of them, and the weather soon grew bright
 and warm again.
 
-The observation every day at noon, and the subsequent working of the
+The observation every day at [[Noon|noon]], and the subsequent working of the
 vessel’s course, was, as may be supposed, a feature in our lives of
 paramount importance; nor were there wanting (as there never are)
 sagacious doubters of the captain’s calculations, who, so soon as his
@@ -111,11 +111,11 @@ snuffers, and clearly prove him to be wrong by an odd thousand miles or
 so.  It was very edifying to see these unbelievers shake their heads and
 frown, and hear them hold forth strongly upon navigation: not that they
 knew anything about it, but that they always mistrusted the captain in
-calm weather, or when the wind was adverse.  Indeed, the mercury itself
+calm weather, or when the [[Wind|wind]] was adverse.  Indeed, the mercury itself
 is not so variable as this class of passengers, whom you will see, when
-the ship is going nobly through the water, quite pale with admiration,
+the [[Ship|ship]] is going nobly through the [[Water|water]], quite pale with admiration,
 swearing that the captain beats all captains ever known, and even hinting
 at subscriptions for a piece of plate; and who, next morning, when the
 breeze has lulled, and all the sails hang useless in the idle air, shake
-their despondent heads again, and say, with screwed-up lips, they hope
-that captain is a sailor—but they shrewdly doubt him.
+their despondent heads again, and say, with screwed-up lips, they [[Hope|hope]]
+that captain is a sailor—but they shrewdly [[Doubt|doubt]] him.

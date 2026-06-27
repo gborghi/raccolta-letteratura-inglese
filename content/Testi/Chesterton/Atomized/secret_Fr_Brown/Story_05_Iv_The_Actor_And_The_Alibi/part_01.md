@@ -33,7 +33,7 @@ Palace, or portions of the Enchanted Grove of Golden Orange Trees,
 leaning up against the wall to be festooned with cobwebs or nibbled by
 mice, did not give him that soothing sense of a return to simplicity
 which we all ought to have when given a glimpse of that wonderland of
-our childhood. Nor had he any time to drop a tear where he had dropped
+our [[Childhood|childhood]]. Nor had he any [[Time|time]] to drop a tear where he had dropped
 the money, or to dream of this Paradise of Peter Pan; for he had been
 summoned hurriedly to settle a practical problem, not of the past but of
 the moment. It was the sort of thing that does sometimes happen in that
@@ -48,7 +48,7 @@ seemed unlikely, for the present, that he would. Mr. Mundon Mandeville
 was sufficiently British to explain it by murmuring that all foreigners
 were mad; but the thought of his good fortune in inhabiting the only
 sane island of the planet did not suffice to soothe him any more than
-the memory of the Enchanted Grove. All these things, and many more, were
+the [[Memory|memory]] of the Enchanted Grove. All these things, and many more, were
 annoying; and yet a very intimate observer might have suspected that
 something was wrong with Mr. Mandeville that went beyond annoyance.
 
@@ -58,7 +58,7 @@ twitched as if it were always trying to bite the black strip of
 moustache that was just too short to be bitten. He might have been a man
 who had begun to take drugs; but even on that assumption there was
 something that suggested that he had a reason for doing it; that the
-drug was not the cause of the tragedy, but the tragedy the cause of the
+drug was not the cause of the [[Tragedy|tragedy]], but the [[Tragedy|tragedy]] the cause of the
 drug. Whatever was his deeper secret, it seemed to inhabit that dark end
 of the long passage where was the entrance to his own little study; and
 as he went along the empty corridor, he threw back a nervous glance now
@@ -69,9 +69,9 @@ of the passage where the blank green door of Miss Maroni defied the
 world. A group of actors and other people involved were already standing
 in front of it, conferring and considering, one might almost fancy, the
 advisability of a battering-ram. The group contained one figure, at
-least, who was already well enough known; whose photograph was on many
+least, who was already [[Well|well]] enough known; whose photograph was on many
 mantelpieces and his autograph in many albums. For though Norman Knight
-was playing the hero in a theatre that was still a little provincial and
+was playing the [[Hero|hero]] in a theatre that was still a little provincial and
 old-fashioned and capable of calling him the first walking gentleman,
 he, at least, was certainly on the way to wider triumphs. He was a good
 -looking man with a long cleft chin and fair hair low on his forehead,

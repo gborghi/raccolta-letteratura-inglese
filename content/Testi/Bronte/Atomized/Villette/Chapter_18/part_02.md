@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 18 (part 2)"
+title: "[[Villette]] — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,13 +15,13 @@ tags:
 
 
 For my part, there was only one plan to be pursued; I must expiate my
-culpable vehemence, or I must not sleep that night. This would not do
+culpable vehemence, or I must not [[Sleep|sleep]] that [[Night|night]]. This would not do
 at all; I could not stand it: I made no pretence of capacity to wage
-war on this footing. School solitude, conventual silence and
+war on this footing. School [[Solitude|solitude]], conventual [[Silence|silence]] and
 stagnation, anything seemed preferable to living embroiled with Dr.
 John. As to Ginevra, she might take the silver wings of a dove, or any
 other fowl that flies, and mount straight up to the highest place,
-among the highest stars, where her lover’s highest flight of fancy
+among the highest [[Stars|stars]], where her [[Lover|lover]]’s highest flight of fancy
 chose to fix the constellation of her charms: never more be it mine to
 dispute the arrangement. Long I tried to catch his eye. Again and again
 that eye just met mine; but, having nothing to say, it withdrew, and I
@@ -40,8 +40,8 @@ in one thunder-clap.
 “Dr. Bretton, forgive my hasty words: _do, do_ forgive them.”
 
 He smiled that moment I spoke. “Perhaps I deserved them, Lucy. If you
-don’t respect me, I am sure it is because I am not respectable. I fear,
-I am an awkward fool: I must manage badly in some way, for where I wish
+don’t respect me, I am sure it is because I am not respectable. I [[Fear|fear]],
+I am an awkward [[Fool|fool]]: I must manage badly in some way, for where I wish
 to please, it seems I don’t please.”
 
 “Of that you cannot be sure; and even if such be the case, is it the
@@ -61,19 +61,19 @@ Let me be pardoned; that is what I ask.”
 that, to ease me of the heart-ache.”
 
 “Put away your heart-ache, as I will put away mine; for you wounded me
-a little, Lucy. Now, when the pain is gone, I more than forgive: I feel
-grateful, as to a sincere well-wisher.”
+a little, Lucy. Now, when the [[Pain|pain]] is gone, I more than forgive: I feel
+grateful, as to a sincere [[Well|well]]-wisher.”
 
-“I _am_ your sincere well-wisher: you are right.”
+“I _am_ your sincere [[Well|well]]-wisher: you are right.”
 
 Thus our quarrel ended.
 
 Reader, if in the course of this work, you find that my opinion of Dr.
 John undergoes modification, excuse the seeming inconsistency. I give
-the feeling as at the time I felt it; I describe the view of character
+the feeling as at the [[Time|time]] I felt it; I describe the view of character
 as it appeared when discovered.
 
-He showed the fineness of his nature by being kinder to me after that
+He showed the fineness of his [[Nature|nature]] by being kinder to me after that
 misunderstanding than before. Nay, the very incident which, by my
 theory, must in some degree estrange me and him, changed, indeed,
 somewhat our relations; but not in the sense I painfully anticipated.
@@ -81,7 +81,7 @@ An invisible, but a cold something, very slight, very transparent, but
 very chill: a sort of screen of ice had hitherto, all through our two
 lives, glazed the medium through which we exchanged intercourse. Those
 few warm words, though only warm with anger, breathed on that frail
-frost-work of reserve; about this time, it gave note of dissolution. I
+[[Frost|frost]]-work of reserve; about this [[Time|time]], it gave note of dissolution. I
 think from that day, so long as we continued friends, he never in
 discourse stood on topics of ceremony with me. He seemed to know that
 if he would but talk about himself, and about that in which he was most
@@ -90,11 +90,11 @@ satisfied. It follows, as a matter of course, that I continued to hear
 much of “Ginevra.”
 
 “Ginevra!” He thought her so fair, so good; he spoke so lovingly of her
-charms, her sweetness, her innocence, that, in spite of my plain prose
+charms, her sweetness, her [[innocence]], that, in spite of my plain prose
 knowledge of the reality, a kind of reflected glow began to settle on
 her idea, even for me. Still, reader, I am free to confess, that he
 often talked nonsense; but I strove to be unfailingly patient with him.
-I had had my lesson: I had learned how severe for me was the pain of
+I had had my lesson: I had learned how severe for me was the [[Pain|pain]] of
 crossing, or grieving, or disappointing him. In a strange and new
 sense, I grew most selfish, and quite powerless to deny myself the
 delight of indulging his mood, and being pliant to his will. He still
@@ -105,7 +105,7 @@ only coquetting to goad him, and that, at heart, she coveted every one
 of his words and looks. Sometimes he harassed me, in spite of my
 resolution to bear and hear; in the midst of the indescribable
 gall-honey pleasure of thus bearing and hearing, he struck so on the
-flint of what firmness I owned, that it emitted fire once and again. I
+flint of what firmness I owned, that it emitted [[Fire|fire]] once and again. I
 chanced to assert one day, with a view to stilling his impatience, that
 in my own mind, I felt positive Miss Fanshawe _must_ intend eventually
 to accept him.
@@ -117,9 +117,9 @@ assurance?”
 
 “Now, Lucy, _do_ tell me what!”
 
-“You know them as well as I; and, knowing them, Dr. John, it really
+“You know them as [[Well|well]] as I; and, knowing them, Dr. John, it really
 amazes me that you should not repose the frankest confidence in her
-fidelity. To doubt, under the circumstances, is almost to insult.”
+fidelity. To [[Doubt|doubt]], under the circumstances, is almost to insult.”
 
 “Now you are beginning to speak fast and to breathe short; but speak a
 little faster and breathe a little shorter, till you have given an
@@ -127,6 +127,6 @@ explanation—a full explanation: I must have it.”
 
 “You shall, Dr. John. In some cases, you are a lavish, generous man:
 you are a worshipper ever ready with the votive offering should Père
-Silas ever convert _you_, you will give him abundance of alms for his
+Silas ever [[convert]] _you_, you will give him abundance of alms for his
 poor, you will supply his altar with tapers, and the shrine of your
 favourite saint you will do your best to enrich: Ginevra, Dr. John—”

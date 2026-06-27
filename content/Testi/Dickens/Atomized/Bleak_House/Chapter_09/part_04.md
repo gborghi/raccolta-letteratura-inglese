@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 9 (part 4)"
+title: "Bleak [[house|House]] — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -37,7 +37,7 @@ been in town, and I thought some letters might have been sent down
 here. I dare say they will report progress to-morrow morning.”
 
 I saw him so often in the course of the evening, which passed very
-pleasantly, contemplate Richard and Ada with an interest and a
+pleasantly, contemplate [[Richard]] and Ada with an interest and a
 satisfaction that made his fine face remarkably agreeable as he sat
 at a little distance from the piano listening to the music—and he
 had small occasion to tell us that he was passionately fond of music,
@@ -63,9 +63,9 @@ once. Long ago. And once.”
 
 “Did the lady die?”
 
-“No—but she died to him. That time has had its influence on all his
+“No—but she died to him. That [[Time|time]] has had its influence on all his
 later life. Would you suppose him to have a head and a heart full of
-romance yet?”
+[[Romance|romance]] yet?”
 
 “I think, guardian, I might have supposed so. But it is easy to say
 that when you have told me so.”
@@ -75,27 +75,27 @@ that when you have told me so.”
 and his little yellow friend. It’s your throw, my dear!”
 
 I felt, from my guardian’s manner, that beyond this point I could not
-pursue the subject without changing the wind. I therefore forbore to
+pursue the subject without changing the [[Wind|wind]]. I therefore forbore to
 ask any further questions. I was interested, but not curious. I
-thought a little while about this old love story in the night, when I
+thought a little while about this old [[Love|love]] story in the [[Night|night]], when I
 was awakened by Mr. Boythorn’s lusty snoring; and I tried to do that
 very difficult thing, imagine old people young again and invested
 with the graces of youth. But I fell asleep before I had succeeded,
-and dreamed of the days when I lived in my godmother’s house. I am
+and dreamed of the days when I lived in my godmother’s [[house]]. I am
 not sufficiently acquainted with such subjects to know whether it is
 at all remarkable that I almost always dreamed of that period of my
 life.
 
 With the morning there came a letter from Messrs. Kenge and Carboy to
 Mr. Boythorn informing him that one of their clerks would wait upon
-him at noon. As it was the day of the week on which I paid the bills,
+him at [[Noon|noon]]. As it was the day of the week on which I paid the bills,
 and added up my books, and made all the household affairs as compact
-as possible, I remained at home while Mr. Jarndyce, Ada, and Richard
+as possible, I remained at [[Home|home]] while Mr. Jarndyce, Ada, and [[Richard]]
 took advantage of a very fine day to make a little excursion, Mr.
 Boythorn was to wait for Kenge and Carboy’s clerk and then was to go
 on foot to meet them on their return.
 
-Well! I was full of business, examining tradesmen’s books, adding up
+[[Well]]! I was full of business, examining tradesmen’s books, adding up
 columns, paying money, filing receipts, and I dare say making a great
 bustle about it when Mr. Guppy was announced and shown in. I had had
 some idea that the clerk who was to be sent down might be the young
@@ -104,31 +104,31 @@ him, because he was associated with my present happiness.
 
 I scarcely knew him again, he was so uncommonly smart. He had an
 entirely new suit of glossy clothes on, a shining hat, lilac-kid
-gloves, a neckerchief of a variety of colours, a large hot-house
+gloves, a neckerchief of a variety of colours, a large hot-[[house]]
 flower in his button-hole, and a thick gold ring on his little
 finger. Besides which, he quite scented the dining-room with
 bear’s-grease and other perfumery. He looked at me with an attention
 that quite confused me when I begged him to take a seat until the
 servant should return; and as he sat there crossing and uncrossing
 his legs in a corner, and I asked him if he had had a pleasant ride,
-and hoped that Mr. Kenge was well, I never looked at him, but I found
+and hoped that Mr. Kenge was [[Well|well]], I never looked at him, but I found
 him looking at me in the same scrutinizing and curious way.
 
 When the request was brought to him that he would go upstairs to Mr.
 Boythorn’s room, I mentioned that he would find lunch prepared for
 him when he came down, of which Mr. Jarndyce hoped he would partake.
 He said with some embarrassment, holding the handle of the door,
-“Shall I have the honour of finding you here, miss?” I replied yes, I
+“Shall I have the [[Honour|honour]] of finding you here, miss?” I replied yes, I
 should be there; and he went out with a bow and another look.
 
 I thought him only awkward and shy, for he was evidently much
 embarrassed; and I fancied that the best thing I could do would be to
 wait until I saw that he had everything he wanted and then to leave
 him to himself. The lunch was soon brought, but it remained for some
-time on the table. The interview with Mr. Boythorn was a long one,
+[[Time|time]] on the table. The interview with Mr. Boythorn was a long one,
 and a stormy one too, I should think, for although his room was at
 some distance I heard his loud voice rising every now and then like a
-high wind, and evidently blowing perfect broadsides of denunciation.
+high [[Wind|wind]], and evidently blowing perfect broadsides of denunciation.
 
 At last Mr. Guppy came back, looking something the worse for the
 conference. “My eye, miss,” he said in a low voice, “he’s a Tartar!”

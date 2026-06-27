@@ -22,21 +22,21 @@ him at all, just now!’
 
 It was agreeable to see the graceful figures of the blooming sisters,
 twined together, lingering among the trees, conversing thus, with
-earnestness opposed to lightness, yet, with love responding tenderly to
-love.  And it was very curious indeed to see the younger sister’s eyes
-suffused with tears, and something fervently and deeply felt, breaking
+earnestness opposed to lightness, yet, with [[Love|love]] responding tenderly to
+[[Love|love]].  And it was very curious indeed to see the younger sister’s eyes
+suffused with [[Tears|tears]], and something fervently and deeply felt, breaking
 through the wilfulness of what she said, and striving with it painfully.
 
 The difference between them, in respect of age, could not exceed four
 years at most; but Grace, as often happens in such cases, when no mother
 watches over both (the Doctor’s wife was dead), seemed, in her gentle
 care of her young sister, and in the steadiness of her devotion to her,
-older than she was; and more removed, in course of nature, from all
+older than she was; and more removed, in course of [[Nature|nature]], from all
 competition with her, or participation, otherwise than through her
 sympathy and true affection, in her wayward fancies, than their ages
-seemed to warrant.  Great character of mother, that, even in this shadow
+seemed to warrant.  Great character of mother, that, even in this [[Shadow|shadow]]
 and faint reflection of it, purifies the heart, and raises the exalted
-nature nearer to the angels!
+[[Nature|nature]] nearer to the angels!
 
 The Doctor’s reflections, as he looked after them, and heard the purport
 of their discourse, were limited at first to certain merry meditations on
@@ -44,18 +44,18 @@ the folly of all loves and likings, and the idle imposition practised on
 themselves by young people, who believed for a moment, that there could
 be anything serious in such bubbles, and were always undeceived—always!
 
-But, the home-adorning, self-denying qualities of Grace, and her sweet
+But, the [[Home|home]]-adorning, [[Self|self]]-denying qualities of Grace, and her sweet
 temper, so gentle and retiring, yet including so much constancy and
 bravery of spirit, seemed all expressed to him in the contrast between
 her quiet household figure and that of his younger and more beautiful
-child; and he was sorry for her sake—sorry for them both—that life should
+[[Child|child]]; and he was sorry for her sake—sorry for them both—that life should
 be such a very ridiculous business as it was.
 
 The Doctor never dreamed of inquiring whether his children, or either of
 them, helped in any way to make the scheme a serious one.  But then he
 was a Philosopher.
 
-A kind and generous man by nature, he had stumbled, by chance, over that
+A kind and generous man by [[Nature|nature]], he had stumbled, by chance, over that
 common Philosopher’s stone (much more easily discovered than the object
 of the alchemist’s researches), which sometimes trips up kind and
 generous men, and has the fatal property of turning gold to dross and
@@ -64,14 +64,14 @@ every precious thing to poor account.
 ‘Britain!’ cried the Doctor.  ‘Britain!  Holloa!’
 
 A small man, with an uncommonly sour and discontented face, emerged from
-the house, and returned to this call the unceremonious acknowledgment of
+the [[house]], and returned to this call the unceremonious acknowledgment of
 ‘Now then!’
 
 ‘Where’s the breakfast table?’ said the Doctor.
 
-‘In the house,’ returned Britain.
+‘In the [[house]],’ returned Britain.
 
-‘Are you going to spread it out here, as you were told last night?’ said
+‘Are you going to spread it out here, as you were told last [[Night|night]]?’ said
 the Doctor.  ‘Don’t you know that there are gentlemen coming?  That
 there’s business to be done this morning, before the coach comes by?
 That this is a very particular occasion?’
@@ -80,7 +80,7 @@ That this is a very particular occasion?’
 the apples, could I?’ said Britain, his voice rising with his reasoning,
 so that it was very loud at last.
 
-‘Well, have they done now?’ replied the Doctor, looking at his watch, and
+‘[[Well]], have they done now?’ replied the Doctor, looking at his watch, and
 clapping his hands.  ‘Come! make haste! where’s Clemency?’
 
 ‘Here am I, Mister,’ said a voice from one of the ladders, which a pair
@@ -102,7 +102,7 @@ say that she was perfectly content and satisfied with these arrangements,
 and regarded them as being no business of hers, and that she took her
 arms and legs as they came, and allowed them to dispose of themselves
 just as it happened, is to render faint justice to her equanimity.  Her
-dress was a prodigious pair of self-willed shoes, that never wanted to go
+dress was a prodigious pair of [[Self|self]]-willed shoes, that never wanted to go
 where her feet went; blue stockings; a printed gown of many colours, and
 the most hideous pattern procurable for money; and a white apron.  She
 always wore short sleeves, and always had, by some accident, grazed
@@ -112,16 +112,16 @@ a little cap placed somewhere on her head; though it was rarely to be met
 with in the place usually occupied in other subjects, by that article of
 dress; but, from head to foot she was scrupulously clean, and maintained
 a kind of dislocated tidiness.  Indeed, her laudable anxiety to be tidy
-and compact in her own conscience as well as in the public eye, gave rise
+and compact in her own [[Conscience|conscience]] as [[Well|well]] as in the public eye, gave rise
 to one of her most startling evolutions, which was to grasp herself
 sometimes by a sort of wooden handle (part of her clothing, and
 familiarly called a busk), and wrestle as it were with her garments,
 until they fell into a symmetrical arrangement.
 
-Such, in outward form and garb, was Clemency Newcome; who was supposed to
+Such, in outward form and garb, was [[Clemency Newcome]]; who was supposed to
 have unconsciously originated a corruption of her own Christian name,
 from Clementina (but nobody knew, for the deaf old mother, a very
-phenomenon of age, whom she had supported almost from a child, was dead,
+phenomenon of age, whom she had supported almost from a [[Child|child]], was dead,
 and she had no other relation); who now busied herself in preparing the
 table, and who stood, at intervals, with her bare red arms crossed,
 rubbing her grazed elbows with opposite hands, and staring at it very

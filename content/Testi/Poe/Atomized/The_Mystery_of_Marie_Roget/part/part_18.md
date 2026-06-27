@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 18)"
+title: "[[The Mystery of Marie Roget]] (part 18)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      committed the murder. He is alone with the ghost of the departed.
+      committed the murder. He is [[Alone|alone]] with the [[Ghost|ghost]] of the departed.
 
       He is appalled by what lies motionless before him. The fury of
 
@@ -22,27 +22,27 @@ tags:
 
       the natural awe of the deed. His is none of that confidence which
 
-      the presence of numbers inevitably inspires. He is alone with the
+      the presence of numbers inevitably inspires. He is [[Alone|alone]] with the
 
       dead. He trembles and is bewildered. Yet there is a necessity for
 
-      disposing of the corpse. He bears it to the river, but leaves
+      disposing of the corpse. He bears it to the [[River|river]], but [[Leaves|leaves]]
 
-      behind him the other evidences of guilt; for it is difficult, if
+      behind him the other evidences of [[Guilt|guilt]]; for it is difficult, if
 
       not impossible to carry all the burthen at once, and it will be
 
-      easy to return for what is left. But in his toilsome journey to
+      easy to return for what is left. But in his toilsome [[Journey|journey]] to
 
-      the water his fears redouble within him. The sounds of life
+      the [[Water|water]] his fears redouble within him. The sounds of life
 
       encompass his path. A dozen times he hears or fancies the step of
 
-      an observer. Even the very lights from the city bewilder him.
+      an observer. Even the very lights from the [[City|city]] bewilder him.
 
-      Yet, in time and by long and frequent pauses of deep agony, he
+      Yet, in [[Time|time]] and by long and frequent pauses of deep agony, he
 
-      reaches the river’s brink, and disposes of his ghastly
+      reaches the [[River|river]]’s brink, and disposes of his ghastly
 
       charge—perhaps through the medium of a boat. But now what
 
@@ -52,7 +52,7 @@ tags:
 
       murderer over that toilsome and perilous path, to the thicket and
 
-      its blood chilling recollections? He returns not, let the
+      its [[Blood|blood]] chilling recollections? He returns not, let the
 
       consequences be what they may. He could not return if he would.
 
@@ -68,7 +68,7 @@ tags:
 
       confidence; if, indeed confidence is ever wanting in the breast
 
-      of the arrant blackguard; and of arrant blackguards alone are the
+      of the arrant blackguard; and of arrant blackguards [[Alone|alone]] are the
 
       supposed gangs ever constituted. Their number, I say, would have
 
@@ -90,13 +90,13 @@ tags:
 
       corpse when found, ‘a slip, about a foot wide had been torn
 
-      upward from the bottom hem to the waist wound three times round
+      upward from the [[Bottom|bottom]] hem to the waist wound three times round
 
       the waist, and secured by a sort of hitch in the back.’ This was
 
       done with the obvious design of affording a handle by which to
 
-      carry the body. But would any number of men have dreamed of
+      carry the [[Body|body]]. But would any number of men have dreamed of
 
       resorting to such an expedient? To three or four, the limbs of
 
@@ -106,7 +106,7 @@ tags:
 
       and this brings us to the fact that ‘between the thicket and the
 
-      river, the rails of the fences were found taken down, and the
+      [[River|river]], the rails of the fences were found taken down, and the
 
       ground bore evident traces of some heavy burden having been
 
@@ -198,4 +198,4 @@ tags:
 
       about the neck, and so dragged his victim to the brink of the
 
-      river. That this ‘bandage,’ only attainable with trouble and
+      [[River|river]]. That this ‘bandage,’ only attainable with trouble and

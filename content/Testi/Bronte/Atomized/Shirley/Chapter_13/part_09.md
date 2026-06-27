@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 9)"
+title: "[[Shirley]] — Chapter 13 (part 9)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,13 +20,13 @@ be."
 
 "So do I. But I find in myself, Lina, two natures--one for the world and
 
-business, and one for home and leisure. Gérard Moore is a hard dog,
+business, and one for [[Home|home]] and leisure. Gérard Moore is a hard dog,
 
 brought up to mill and market; the person you call your cousin Robert is
 
 sometimes a dreamer, who lives elsewhere than in Cloth-hall and
 
-counting-house."
+counting-[[house]]."
 
 
 
@@ -44,13 +44,13 @@ I have got clear of some shoals, and have more sea-room."
 
 
 
-"And, with a fair wind, you may now hope to make a prosperous voyage?"
+"And, with a fair [[Wind|wind]], you may now [[Hope|hope]] to make a prosperous voyage?"
 
 
 
-"I may _hope_ it--yes--but hope is deceptive. There is no controlling
+"I may _hope_ it--yes--but [[Hope|hope]] is deceptive. There is no controlling
 
-wind or wave. Gusts and swells perpetually trouble the mariner's
+[[Wind|wind]] or wave. Gusts and swells perpetually trouble the mariner's
 
 course; he dare not dismiss from his mind the expectation of tempest."
 
@@ -58,15 +58,15 @@ course; he dare not dismiss from his mind the expectation of tempest."
 
 "But you are ready for a breeze; you are a good seaman, an able
 
-commander. You are a skilful pilot, Robert; you will weather the storm."
+commander. You are a skilful pilot, Robert; you will weather the [[Storm|storm]]."
 
 
 
 "My kinswoman always thinks the best of me, but I will take her words
 
-for a propitious omen. I will consider that in meeting her to-night I
+for a propitious omen. I will consider that in meeting her to-[[Night|night]] I
 
-have met with one of those birds whose appearance is to the sailor the
+have met with one of those [[Birds|birds]] whose appearance is to the sailor the
 
 harbinger of good luck."
 
@@ -78,7 +78,7 @@ power. I feel my incapacity. It is of no use saying I have the will to
 
 serve you when I cannot prove it. Yet I have that will. I wish you
 
-success. I wish you high fortune and true happiness."
+[[success]]. I wish you high fortune and true happiness."
 
 
 
@@ -88,9 +88,9 @@ told her to walk on. Oh! we have reached the churchyard. Then we are to
 
 part here, I suppose. We might have sat a few minutes in the church
 
-porch, if the girl had not been with us. It is so fine a night, so
+porch, if the girl had not been with us. It is so fine a [[Night|night]], so
 
-summer-mild and still, I have no particular wish to return yet to the
+[[Summer|summer]]-mild and still, I have no particular wish to return yet to the
 
 Hollow."
 
@@ -110,7 +110,7 @@ will make no difference."
 
 
 
-The church clock struck ten.
+The church [[Clock|clock]] struck ten.
 
 
 
@@ -124,9 +124,9 @@ always surveys the church and churchyard."
 
 should find pleasure in dodging and eluding him. We could be under the
 
-east window when he is at the porch; as he came round to the north side
+east [[Window|window]] when he is at the porch; as he came round to the north side
 
-we could wheel off to the south; we might at a pinch hide behind some of
+we could [[Wheel|wheel]] off to the south; we might at a pinch hide behind some of
 
 the monuments. That tall erection of the Wynnes would screen us
 
@@ -178,7 +178,7 @@ say, with pleasure. I should like to provoke the old Turk--not, however,
 
 against you. But he would make a distinction between a cousin and a
 
-lover, would he not?"
+[[Lover|lover]], would he not?"
 
 
 
@@ -186,7 +186,7 @@ lover, would he not?"
 
 with you is entirely political. Yet I should not like the breach to be
 
-widened, and he is so testy. Here he is at the garden gate. For your own
+widened, and he is so testy. Here he is at the [[Garden|garden]] gate. For your own
 
 sake and mine, Robert, go!"
 
@@ -196,15 +196,15 @@ The beseeching words were aided by a beseeching gesture and a more
 
 beseeching look. Moore covered her clasped hands an instant with his,
 
-answered her upward by a downward gaze, said "Good-night!" and went.
+answered her upward by a downward gaze, said "Good-[[Night|night]]!" and went.
 
 
 
-Caroline was in a moment at the kitchen door behind Fanny. The shadow of
+Caroline was in a moment at the kitchen door behind Fanny. The [[Shadow|shadow]] of
 
 the shovel-hat at that very instant fell on a moonlit tomb. The rector
 
-emerged, erect as a cane, from his garden, and proceeded in slow march,
+emerged, erect as a cane, from his [[Garden|garden]], and proceeded in slow march,
 
 his hands behind him, down the cemetery. Moore was almost caught. He had
 
@@ -230,11 +230,11 @@ not thinking it worth while to follow them closely, he was not aware
 
 that she had been out at all that day, and imagined her then occupied
 
-with book or work in her chamber--where, indeed, she was by this time,
+with book or work in her chamber--where, indeed, she was by this [[Time|time]],
 
 though not absorbed in the tranquil employment he ascribed to her, but
 
-standing at her window with fast-throbbing heart, peeping anxiously from
+standing at her [[Window|window]] with fast-throbbing heart, peeping anxiously from
 
 behind the blind, watching for her uncle to re-enter and her cousin to
 
@@ -242,21 +242,21 @@ escape. And at last she was gratified. She heard Mr. Helstone come in;
 
 she saw Robert stride the tombs and vault the wall; she then went down
 
-to prayers. When she returned to her chamber, it was to meet the memory
+to prayers. When she returned to her chamber, it was to meet the [[Memory|memory]]
 
 of Robert. Slumber's visitation was long averted. Long she sat at her
 
-lattice, long gazed down on the old garden and older church, on the
+lattice, long gazed down on the old [[Garden|garden]] and older church, on the
 
 tombs laid out all gray and calm, and clear in moonlight. She followed
 
-the steps of the night, on its pathway of stars, far into the "wee sma'
+the steps of the [[Night|night]], on its pathway of [[Stars|stars]], far into the "wee sma'
 
-hours ayont the twal'." She was with Moore, in spirit, the whole time;
+hours ayont the twal'." She was with Moore, in spirit, the whole [[Time|time]];
 
 she was at his side; she heard his voice; she gave her hand into his
 
-hand; it rested warm in his fingers. When the church clock struck, when
+hand; it rested warm in his fingers. When the church [[Clock|clock]] struck, when
 
 any other sound stirred, when a little mouse familiar to her chamber--an
 
@@ -270,25 +270,25 @@ laid ready for it, she looked up, recalled momentarily to the real. Then
 
 she said half aloud, as if deprecating the accusation of some unseen and
 
-unheard monitor, "I am not cherishing love dreams; I am only thinking
+unheard monitor, "I am not cherishing [[Love|love]] [[Dreams|dreams]]; I am only thinking
 
-because I cannot sleep. Of course, I know he will marry Shirley."
+because I cannot [[Sleep|sleep]]. Of course, I know he will marry [[Shirley]]."
 
 
 
-With returning silence, with the lull of the chime, and the retreat of
+With returning [[Silence|silence]], with the lull of the chime, and the retreat of
 
 her small untamed and unknown _protégé_, she still resumed the dream,
 
 nestling to the vision's side--listening to, conversing with it. It
 
-paled at last. As dawn approached, the setting stars and breaking day
+paled at last. As [[Dawn|dawn]] approached, the setting [[Stars|stars]] and breaking day
 
-dimmed the creation of fancy; the wakened song of birds hushed her
+dimmed the creation of fancy; the wakened [[Song|song]] of [[Birds|birds]] hushed her
 
-whispers. The tale full of fire, quick with interest, borne away by the
+whispers. The tale full of [[Fire|fire]], quick with interest, borne away by the
 
-morning wind, became a vague murmur. The shape that, seen in a moonbeam,
+morning [[Wind|wind]], became a vague murmur. The shape that, seen in a moonbeam,
 
 lived, had a pulse, had movement, wore health's glow and youth's
 

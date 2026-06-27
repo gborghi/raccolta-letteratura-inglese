@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE RELIGION OF SMALL PROPERTY (part 2)"
+title: "[[Sanity]] — THE RELIGION OF SMALL PROPERTY (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 If I do not compare the critic in question with the doctors
 of this dismal perversion, still less do I compare him with
-those whose motives are merely self-protective and plutocratic.
+those whose motives are merely [[Self|self]]-protective and plutocratic.
 But it must also be said that many rush to the expedient
 of emigration, just as many rush to the expedient of Birth Control,
 for the perfectly simple reason that it is the easiest way in which
@@ -31,21 +31,21 @@ families must go to the modern equivalent of Botany Bay.
 It is not in that spirit that we envisage an element of colonization;
 and so long as it is treated in that spirit we refuse to consider it.
 I put first the statement that real colonial settlement must be not
-only stable but sacred.  I say the new home must be not only a home
+only stable but sacred.  I say the new [[Home|home]] must be not only a [[Home|home]]
 but a shrine.  And that is why I say it must be first established
-in England, in the home of our fathers and the shrine of our saints,
+in England, in the [[Home|home]] of our fathers and the shrine of our saints,
 to be a light and an ensign to our children.
 
 I have explained that I cannot content myself with leaving my own
 nationality out of my own normal ideal; or leaving England as the mere
-tool-house or coal-cellar of other countries like Canada or Australia--
+tool-[[house]] or coal-cellar of other countries like Canada or Australia--
 or, for that matter, Argentina.  I should like England also to have
 a much more rural type of redistribution; nor do I think it impossible.
 But when this is allowed for, nobody in his five wits would
 dream of denying that there is a real scope and even necessity
 for emigration and colonial settlement.  Only, when we come to that,
 I have to draw a line rather sharply and explain something else,
-which is by no means inconsistent with my love of England, but I fear
+which is by no means inconsistent with my [[Love|love]] of England, but I [[Fear|fear]]
 is not so likely to make me loved by Englishmen.  I do not believe,
 as the newspapers and national histories always tell me to believe,
 that we have "the secret" of this sort of successful colonization and need
@@ -81,20 +81,20 @@ As I have said, I am a nationalist; Eng-land is good enough for me.
 I would defend England against the whole European continent.
 With even greater joy would I defend England against the whole
 British Empire.  With a romantic rapture would I defend England
-against Mr. Ramsay MacDonald when he had become King of Scotland;
+against Mr. Ramsay MacDonald when he had become [[King]] of Scotland;
 lighting again the watch fires of Newark and Carlisle and sounding
 the old tocsins of the Border.  With equal energy would I defend
-England against Mr. Tim Healy as King of Ireland, if ever the gross
+England against Mr. Tim Healy as [[King]] of Ireland, if ever the gross
 and growing prosperity of that helpless and decaying Celtic stock
 became positively offensive.  With the greatest ecstasy of all
-would I defend England against Mr. Lloyd George as King of Wales.
+would I defend England against Mr. Lloyd George as [[King]] of Wales.
 It will be seen, therefore, that there is nothing broad-minded about
 my patriotism; most modern nationality is not narrow enough for me.
 
 But putting aside my own local affections, and looking at the matter
 in what is called a larger way, I note once more that our Imperialism
 does not get any of the good that could be got out of being large.
-And I was reminded of Dean Inge, because he suggested some time ago
+And I was reminded of Dean Inge, because he suggested some [[Time|time]] ago
 that the Irish and the French Canadians were increasing in numbers,
 not because they held the Catholic view of the family, but because they
 were a backward and apparently almost barbaric stock which naturally
@@ -115,31 +115,31 @@ The Imperial statesman, if he had really been a statesman,
 ought to have been able to say, "It is always difficult to understand
 another nation or another religion; but I am more fortunately
 placed than most people.  I know a little more than can be known
-by self-contained and isolated states like Sweden or Spain.
-I have more sympathy with the Catholic faith or the French
-blood because I have French Catholics in my own Empire."
+by [[Self|self]]-contained and isolated states like Sweden or Spain.
+I have more sympathy with the Catholic [[Faith|faith]] or the French
+[[Blood|blood]] because I have French Catholics in my own Empire."
 Now it seems to me that the Imperial statesman never has said this;
 never has even been able to say it; never has even tried
 or pretended to be able to say it.  He has been far narrower
 than a nationalist like myself, engaged in desperately defending
-Offa's Dyke against a horde of Welsh politicians.  I doubt if there
+Offa's Dyke against a horde of Welsh politicians.  I [[Doubt|doubt]] if there
 was ever a politician who knew a word more of the French language,
-let alone a word more of the Latin Mass, because he had to govern
+let [[Alone|alone]] a word more of the Latin Mass, because he had to govern
 a whole population that drew its traditions from Rome and Gaul.
 I will suggest in a moment how this enormous international
 narrowness affects the question of a peasantry and the extension
 of the natural ownership of land.  But for the moment it is important
-to make the point clear about the nature of that narrowness.
+to make the point clear about the [[Nature|nature]] of that narrowness.
 And that is why some light might be thrown on it in that tender,
 that intimate, that heart-to-heart talk between Mr. Saklatvala and
-the Dean of St. Paul's. Mr. Saklatvala is a sort of parody or extreme
+the Dean of St. Paul's. Mr. Saklatvala is a sort of [[Parody|parody]] or extreme
 and extravagant exhibition of the point; that we really know nothing at
 all about the moral and philosophical elements that make up the Empire.
 It is quite obvious, of course, that he does not represent Battersea.
 But have we any way of knowing to what extent he represents India?
 It seems to me not impossible that the more impersonal and indefinite
 doctrines of Asia do form a soil for Bolshevism.  Most of the eastern
-philosophy differs from the western theology in refusing to draw
+[[philosophy]] differs from the western theology in refusing to draw
 the line anywhere; and it would be a highly probable perversion
 of that instinct to refuse to draw the line between meum and tuum.
 I do not think the Indian gentleman is any judge of whether we in the West

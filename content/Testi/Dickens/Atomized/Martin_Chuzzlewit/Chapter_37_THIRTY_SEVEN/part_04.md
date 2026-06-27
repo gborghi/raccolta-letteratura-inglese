@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -31,12 +31,12 @@ interest.
 ‘I don’t,’ said Mr Moddle. ‘The Elements may have me when they please.
 I’m ready.’
 
-Tom inferred from these, and other expressions of the same nature, that
+Tom inferred from these, and other expressions of the same [[Nature|nature]], that
 he was jealous. Therefore he allowed him to take his own course; which
 was such a gloomy one, that he felt a load removed from his mind when
 they parted company at the gate of Furnival’s Inn.
 
-It was now a couple of hours past John Westlock’s dinner-time; and he
+It was now a couple of hours past John Westlock’s dinner-[[Time|time]]; and he
 was walking up and down the room, quite anxious for Tom’s safety. The
 table was spread; the wine was carefully decanted; and the dinner smelt
 delicious.
@@ -44,7 +44,7 @@ delicious.
 ‘Why, Tom, old boy, where on earth have you been? Your box is here. Get
 your boots off instantly, and sit down!’
 
-‘I am sorry to say I can’t stay, John,’ replied Tom Pinch, who was
+‘I am sorry to say I can’t stay, John,’ replied [[Tom Pinch]], who was
 breathless with the haste he had made in running up the stairs.
 
 ‘Can’t stay!’
@@ -61,13 +61,13 @@ John Westlock was perfectly confounded by this reply, and vowed he would
 not touch a morsel until Tom had explained himself fully. So Tom sat
 down, and told him all; to which he listened with the greatest interest.
 
-He knew Tom too well, and respected his delicacy too much, to ask him
+He knew Tom too [[Well|well]], and respected his delicacy too much, to ask him
 why he had taken these measures without communicating with him first. He
 quite concurred in the expediency of Tom’s immediately returning to his
 sister, as he knew so little of the place in which he had left her, and
 good-humouredly proposed to ride back with him in a cab, in which he
 might convey his box. Tom’s proposition that he should sup with them
-that night, he flatly rejected, but made an appointment with him for the
+that [[Night|night]], he flatly rejected, but made an appointment with him for the
 morrow. ‘And now Tom,’ he said, as they rode along, ‘I have a question
 to ask you to which I expect a manly and straightforward answer. Do you
 want any money? I am pretty sure you do.’
@@ -84,10 +84,10 @@ borrow it; and then drove off as hard as she could go.’
 
 ‘And a blessing on every dimple in her handsome face, say I!’ cried
 John, ‘though why you should give her the preference over me, I don’t
-know. Never mind. I bide my time, Tom.’
+know. Never mind. I bide my [[Time|time]], Tom.’
 
-‘And I hope you’ll continue to bide it,’ returned Tom, gayly. ‘For I
-owe you more, already, in a hundred other ways, than I can ever hope to
+‘And I [[Hope|hope]] you’ll continue to bide it,’ returned Tom, gayly. ‘For I
+owe you more, already, in a hundred other ways, than I can ever [[Hope|hope]] to
 pay.’
 
 They parted at the door of Tom’s new residence. John Westlock, sitting
@@ -95,7 +95,7 @@ in the cab, and, catching a glimpse of a blooming little busy creature
 darting out to kiss Tom and to help him with his box, would not have had
 the least objection to change places with him.
 
-Well! she WAS a cheerful little thing; and had a quaint, bright
+[[Well]]! she WAS a cheerful little thing; and had a quaint, bright
 quietness about her that was infinitely pleasant. Surely she was the
 best sauce for chops ever invented. The potatoes seemed to take a
 pleasure in sending up their grateful steam before her; the froth upon

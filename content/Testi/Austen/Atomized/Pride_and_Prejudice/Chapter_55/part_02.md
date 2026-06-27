@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 55 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 55 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -37,7 +37,7 @@ and affection of a sister. Elizabeth honestly and heartily expressed her
 delight in the prospect of their relationship. They shook hands with
 great cordiality; and then, till her sister came down, she had to listen
 to all he had to say of his own happiness, and of Jane’s perfections;
-and in spite of his being a lover, Elizabeth really believed all his
+and in spite of his being a [[Lover|lover]], Elizabeth really believed all his
 expectations of felicity to be rationally founded, because they had for
 basis the excellent understanding and super-excellent disposition of
 Jane, and a general similarity of feeling and taste between her and
@@ -53,7 +53,7 @@ Mr. Bennet joined them at supper, his voice and manner plainly showed
 how really happy he was.
 
 Not a word, however, passed his lips in allusion to it, till their
-visitor took his leave for the night; but as soon as he was gone, he
+visitor took his leave for the [[Night|night]]; but as soon as he was gone, he
 turned to his daughter and said,--
 
 “Jane, I congratulate you. You will be a very happy woman.”
@@ -62,19 +62,19 @@ Jane went to him instantly, kissed him, and thanked him for his
 goodness.
 
 “You are a good girl,” he replied, “and I have great pleasure in
-thinking you will be so happily settled. I have not a doubt of your
-doing very well together. Your tempers are by no means unlike. You are
+thinking you will be so happily settled. I have not a [[Doubt|doubt]] of your
+doing very [[Well|well]] together. Your tempers are by no means unlike. You are
 each of you so complying, that nothing will ever be resolved on; so
 easy, that every servant will cheat you; and so generous, that you will
 always exceed your income.”
 
-“I hope not so. Imprudence or thoughtlessness in money matters would be
+“I [[Hope|hope]] not so. Imprudence or thoughtlessness in money matters would be
 unpardonable in _me_.”
 
 “Exceed their income! My dear Mr. Bennet,” cried his wife, “what are you
 talking of? Why, he has four or five thousand a year, and very likely
 more.” Then addressing her daughter, “Oh, my dear, dear Jane, I am so
-happy! I am sure I shan’t get a wink of sleep all night. I knew how it
+happy! I am sure I shan’t get a wink of [[Sleep|sleep]] all [[Night|night]]. I knew how it
 would be. I always said it must be so, at last. I was sure you could not
 be so beautiful for nothing! I remember, as soon as ever I saw him, when
 he first came into Hertfordshire last year, I thought how likely it was
@@ -82,20 +82,20 @@ that you should come together. Oh, he is the handsomest young man that
 ever was seen!”
 
 Wickham, Lydia, were all forgotten. Jane was beyond competition her
-favourite child. At that moment she cared for no other. Her younger
+favourite [[Child|child]]. At that moment she cared for no other. Her younger
 sisters soon began to make interest with her for objects of happiness
 which she might in future be able to dispense.
 
 Mary petitioned for the use of the library at Netherfield; and Kitty
-begged very hard for a few balls there every winter.
+begged very hard for a few balls there every [[Winter|winter]].
 
-Bingley, from this time, was of course a daily visitor at Longbourn;
+Bingley, from this [[Time|time]], was of course a daily visitor at Longbourn;
 coming frequently before breakfast, and always remaining till after
 supper; unless when some barbarous neighbour, who could not be enough
 detested, had given him an invitation to dinner, which he thought
 himself obliged to accept.
 
-Elizabeth had now but little time for conversation with her sister; for
+Elizabeth had now but little [[Time|time]] for conversation with her sister; for
 while he was present Jane had no attention to bestow on anyone else: but
 she found herself considerably useful to both of them, in those hours of
 separation that must sometimes occur. In the absence of Jane, he always
@@ -103,14 +103,14 @@ attached himself to Elizabeth for the pleasure of talking of her; and
 when Bingley was gone, Jane constantly sought the same means of relief.
 
 “He has made me so happy,” said she, one evening, “by telling me that he
-was totally ignorant of my being in town last spring! I had not believed
+was totally ignorant of my being in town last [[spring]]! I had not believed
 it possible.”
 
 “I suspected as much,” replied Elizabeth. “But how did he account for
 it?”
 
 “It must have been his sisters’ doing. They were certainly no friends to
-his acquaintance with me, which I cannot wonder at, since he might have
+his acquaintance with me, which I cannot [[Wonder|wonder]] at, since he might have
 chosen so much more advantageously in many respects. But when they see,
 as I trust they will, that their brother is happy with me, they will
 learn to be contented, and we shall be on good terms again: though we
@@ -121,7 +121,7 @@ heard you utter. Good girl! It would vex me, indeed, to see you again
 the dupe of Miss Bingley’s pretended regard.”
 
 “Would you believe it, Lizzy, that when he went to town last November he
-really loved me, and nothing but a persuasion of _my_ being indifferent
+really loved me, and nothing but a [[Persuasion|persuasion]] of _my_ being indifferent
 would have prevented his coming down again?”
 
 “He made a little mistake, to be sure; but it is to the credit of his
@@ -143,7 +143,7 @@ another man for you!”
 “If you were to give me forty such men I never could be so happy as you.
 Till I have your disposition, your goodness, I never can have your
 happiness. No, no, let me shift for myself; and, perhaps, if I have very
-good luck, I may meet with another Mr. Collins in time.”
+good luck, I may meet with another Mr. Collins in [[Time|time]].”
 
 The situation of affairs in the Longbourn family could not be long a
 secret. Mrs. Bennet was privileged to whisper it to Mrs. Philips, and

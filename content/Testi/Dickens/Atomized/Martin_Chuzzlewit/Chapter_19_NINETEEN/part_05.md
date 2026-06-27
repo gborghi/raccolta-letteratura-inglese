@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 19: NINETEEN (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 19: NINETEEN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,11 +21,11 @@ his glass and smacked his lips.
 
 ‘Nothing in the world,’ repeated Mr Mould. ‘You are right, Mrs Gamp.
 Why do people spend more money’--here he filled his glass again--‘upon a
-death, Mrs Gamp, than upon a birth? Come, that’s in your way; you ought
+[[Death|death]], Mrs Gamp, than upon a birth? Come, that’s in your way; you ought
 to know. How do you account for that now?’
 
 ‘Perhaps it is because an undertaker’s charges comes dearer than a
-nurse’s charges, sir,’ said Mrs Gamp, tittering, and smoothing down her
+[[Nurse|nurse]]’s charges, sir,’ said Mrs Gamp, tittering, and smoothing down her
 new black dress with her hands.
 
 ‘Ha, ha!’ laughed Mr Mould. ‘You have been breakfasting at somebody’s
@@ -33,13 +33,13 @@ expense this morning, Mrs Gamp.’ But seeing, by the aid of a little
 shaving-glass which hung opposite, that he looked merry, he composed his
 features and became sorrowful.
 
-‘Many’s the time that I’ve not breakfasted at my own expense along of
-your recommending, sir; and many’s the time I hope to do the same in
-time to come,’ said Mrs Gamp, with an apologetic curtsey.
+‘Many’s the [[Time|time]] that I’ve not breakfasted at my own expense along of
+your recommending, sir; and many’s the [[Time|time]] I [[Hope|hope]] to do the same in
+[[Time|time]] to come,’ said Mrs Gamp, with an apologetic curtsey.
 
-‘So be it,’ replied Mr Mould, ‘please Providence. No, Mrs Gamp;
+‘So be it,’ replied Mr Mould, ‘please [[Providence]]. No, Mrs Gamp;
 I’ll tell you why it is. It’s because the laying out of money with a
-well-conducted establishment, where the thing is performed upon the
+[[Well|well]]-conducted establishment, where the thing is performed upon the
 very best scale, binds the broken heart, and sheds balm upon the wounded
 spirit. Hearts want binding, and spirits want balming when people die;
 not when people are born. Look at this gentleman to-day; look at him.’
@@ -49,7 +49,7 @@ not when people are born. Look at this gentleman to-day; look at him.’
 ‘No, no,’ said the undertaker; ‘not an open-handed gentleman in general,
 by any means. There you mistake him; but an afflicted gentleman, an
 affectionate gentleman, who knows what it is in the power of money to
-do, in giving him relief, and in testifying his love and veneration for
+do, in giving him relief, and in testifying his [[Love|love]] and veneration for
 the departed. It can give him,’ said Mr Mould, waving his watch-chain
 slowly round and round, so that he described one circle after every
 item; ‘it can give him four horses to each vehicle; it can give him
@@ -76,10 +76,10 @@ fact--an obese person, with his waistcoat in closer connection with his
 legs than is quite reconcilable with the established ideas of grace;
 with that cast of feature which is figuratively called a bottle nose;
 and with a face covered all over with pimples. He had been a tender
-plant once upon a time, but from constant blowing in the fat atmosphere
+plant once upon a [[Time|time]], but from constant blowing in the fat atmosphere
 of funerals, had run to seed.
 
-‘Well, Tacker,’ said Mr Mould, ‘is all ready below?’
+‘[[Well]], Tacker,’ said Mr Mould, ‘is all ready below?’
 
 ‘A beautiful show, sir,’ rejoined Tacker. ‘The horses are prouder and
 fresher than ever I see ‘em; and toss their heads, they do, as if they
@@ -114,15 +114,15 @@ with one.
 
 ‘I couldn’t think of it,’ returned Mr Pecksniff.
 
-‘You are very good,’ said the doctor, taking a pair. ‘Well, sir, as I
+‘You are very good,’ said the doctor, taking a pair. ‘[[Well]], sir, as I
 was saying--I was called up to attend that case at about half-past one
-o’clock. Cake and wine, eh? Which is port? Thank you.’
+o’[[Clock|clock]]. Cake and wine, eh? Which is port? Thank you.’
 
 Mr Pecksniff took some also.
 
-‘At about half-past one o’clock in the morning, sir,’ resumed the
+‘At about half-past one o’[[Clock|clock]] in the morning, sir,’ resumed the
 doctor, ‘I was called up to attend that case. At the first pull of
-the night-bell I turned out, threw up the window, and put out my head.
+the [[Night|night]]-bell I turned out, threw up the [[Window|window]], and put out my head.
 Cloak, eh? Don’t tie it too tight. That’ll do.’
 
 Mr Pecksniff having been likewise inducted into a similar garment, the
@@ -130,10 +130,10 @@ doctor resumed.
 
 ‘And put out my head--hat, eh? My good friend, that is not mine. Mr
 Pecksniff, I beg your pardon, but I think we have unintentionally made
-an exchange. Thank you. Well, sir, I was going to tell you--’
+an exchange. Thank you. [[Well]], sir, I was going to tell you--’
 
 ‘We are quite ready,’ interrupted Mould in a low voice.
 
 ‘Ready, eh?’ said the doctor. ‘Very good, Mr Pecksniff, I’ll take an
 opportunity of relating the rest in the coach. It’s rather curious.
-Ready, eh? No rain, I hope?’
+Ready, eh? No rain, I [[Hope|hope]]?’

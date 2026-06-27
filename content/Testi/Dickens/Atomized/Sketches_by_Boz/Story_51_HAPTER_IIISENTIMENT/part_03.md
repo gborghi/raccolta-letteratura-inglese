@@ -19,8 +19,8 @@ of the evening threatened destruction to the bell of the gate.
 
 An awful pause ensued. Some boxes arrived and a young lady—Miss Brook
 Dingwall, in full ball costume, with an immense gold chain round her
-neck, and her dress looped up with a single rose; an ivory fan in her
-hand, and a most interesting expression of despair in her face.
+neck, and her dress looped up with a single [[Rose|rose]]; an ivory fan in her
+hand, and a most interesting expression of [[Despair|despair]] in her face.
 
 The Miss Crumptons inquired after the family, with the most
 excruciating anxiety, and Miss Brook Dingwall was formally introduced
@@ -50,7 +50,7 @@ The popular Mr. Hilton was the next arrival; and he having, at the
 request of the Miss Crumptons, undertaken the office of Master of the
 Ceremonies, the quadrilles commenced with considerable spirit. The
 young men by the door gradually advanced into the middle of the room,
-and in time became sufficiently at ease to consent to be introduced to
+and in [[Time|time]] became sufficiently at ease to consent to be introduced to
 partners. The writing-master danced every set, springing about with the
 most fearful agility, and his wife played a rubber in the
 back-parlour—a little room with five book-shelves, dignified by the
@@ -58,9 +58,9 @@ name of the study. Setting her down to whist was a half-yearly piece of
 generalship on the part of the Miss Crumptons; it was necessary to hide
 her somewhere, on account of her being a fright.
 
-The interesting Lavinia Brook Dingwall was the only girl present, who
+The interesting [[Lavinia]] Brook Dingwall was the only girl present, who
 appeared to take no interest in the proceedings of the evening. In vain
-was she solicited to dance; in vain was the universal homage paid to
+was she solicited to [[Dance|dance]]; in vain was the universal homage paid to
 her as the daughter of a member of parliament. She was equally unmoved
 by the splendid tenor of the inimitable Lobskini, and the brilliant
 execution of Miss Laetitia Parsons, whose performance of ‘The
@@ -69,13 +69,13 @@ to that of Moscheles himself. Not even the announcement of the arrival
 of Mr. Theodosius Butler could induce her to leave the corner of the
 back drawing-room in which she was seated.
 
-‘Now, Theodosius,’ said Miss Maria Crumpton, after that enlightened
+‘Now, Theodosius,’ said Miss [[Maria]] Crumpton, after that enlightened
 pamphleteer had nearly run the gauntlet of the whole company, ‘I must
 introduce you to our new pupil.’
 
 Theodosius looked as if he cared for nothing earthly.
 
-‘She’s the daughter of a member of parliament,’ said Maria.—Theodosius
+‘She’s the daughter of a member of parliament,’ said [[Maria]].—Theodosius
 started.
 
 ‘And her name is—?’ he inquired.
@@ -87,12 +87,12 @@ started.
 Miss Crumpton commenced the introduction in due form. Miss Brook
 Dingwall languidly raised her head.
 
-‘Edward!’ she exclaimed, with a half-shriek, on seeing the well-known
+‘Edward!’ she exclaimed, with a half-shriek, on seeing the [[Well|well]]-known
 nankeen legs.
 
-Fortunately, as Miss Maria Crumpton possessed no remarkable share of
+Fortunately, as Miss [[Maria]] Crumpton possessed no remarkable share of
 penetration, and as it was one of the diplomatic arrangements that no
-attention was to be paid to Miss Lavinia’s incoherent exclamations, she
+attention was to be paid to Miss [[Lavinia]]’s incoherent exclamations, she
 was perfectly unconscious of the mutual agitation of the parties; and
 therefore, seeing that the offer of his hand for the next quadrille was
 accepted, she left him by the side of Miss Brook Dingwall.
@@ -107,17 +107,17 @@ manner, that he was not conscious of being anybody but himself.
 ‘Then why—why—this disguise? Oh! Edward M’Neville Walter, what have I
 not suffered on your account?’
 
-‘Lavinia, hear me,’ replied the hero, in his most poetic strain. ‘Do
-not condemn me unheard. If anything that emanates from the soul of such
+‘[[Lavinia]], hear me,’ replied the [[Hero|hero]], in his most poetic strain. ‘Do
+not condemn me unheard. If anything that emanates from the [[Soul|soul]] of such
 a wretch as I, can occupy a place in your recollection—if any being, so
 vile, deserve your notice—you may remember that I once published a
 pamphlet (and paid for its publication) entitled “Considerations on the
-Policy of Removing the Duty on Bees’-wax.”’
+Policy of Removing the Duty on [[Bees]]’-wax.”’
 
-‘I do—I do!’ sobbed Lavinia.
+‘I do—I do!’ sobbed [[Lavinia]].
 
-‘That,’ continued the lover, ‘was a subject to which your father was
-devoted heart and soul.’
+‘That,’ continued the [[Lover|lover]], ‘was a subject to which your father was
+devoted heart and [[Soul|soul]].’
 
 ‘He was—he was!’ reiterated the sentimentalist.
 
@@ -126,22 +126,22 @@ him a copy. He wished to know me. Could I disclose my real name? Never!
 No, I assumed that name which you have so often pronounced in tones of
 endearment. As M’Neville Walter, I devoted myself to the stirring
 cause; as M’Neville Walter I gained your heart; in the same character I
-was ejected from your house by your father’s domestics; and in no
+was ejected from your [[house]] by your father’s domestics; and in no
 character at all have I since been enabled to see you. We now meet
 again, and I proudly own that I am—Theodosius Butler.’
 
 The young lady appeared perfectly satisfied with this argumentative
 address, and bestowed a look of the most ardent affection on the
-immortal advocate of bees’-wax.
+immortal advocate of [[Bees|bees]]’-wax.
 
-‘May I hope,’ said he, ‘that the promise your father’s violent
+‘May I [[Hope|hope]],’ said he, ‘that the promise your father’s violent
 behaviour interrupted, may be renewed?’
 
-‘Let us join this set,’ replied Lavinia, coquettishly—for girls of
+‘Let us join this set,’ replied [[Lavinia]], coquettishly—for girls of
 nineteen _can_ coquette.
 
 ‘No,’ ejaculated he of the nankeens. ‘I stir not from this spot,
-writhing under this torture of suspense. May I—may I—hope?’
+writhing under this torture of suspense. May I—may I—[[Hope|hope]]?’
 
 ‘You may.’
 
@@ -155,18 +155,18 @@ writhing under this torture of suspense. May I—may I—hope?’
 
 ‘To the fullest extent?’
 
-‘You know it,’ returned the blushing Lavinia. The contortions of the
+‘You know it,’ returned the blushing [[Lavinia]]. The contortions of the
 interesting Butler’s visage expressed his raptures.
 
 We could dilate upon the occurrences that ensued. How Mr. Theodosius
-and Miss Lavinia danced, and talked, and sighed for the remainder of
+and Miss [[Lavinia]] danced, and talked, and sighed for the remainder of
 the evening—how the Miss Crumptons were delighted thereat. How the
-writing-master continued to frisk about with one-horse power, and how
+writing-master continued to frisk about with one-[[Horse|horse]] power, and how
 his wife, from some unaccountable freak, left the whist-table in the
 little back-parlour, and persisted in displaying her green head-dress
 in the most conspicuous part of the drawing-room. How the supper
 consisted of small triangular sandwiches in trays, and a tart here and
-there by way of variety; and how the visitors consumed warm water
+there by way of variety; and how the visitors consumed warm [[Water|water]]
 disguised with lemon, and dotted with nutmeg, under the denomination of
 negus. These, and other matters of as much interest, however, we pass
 over, for the purpose of describing a scene of even more importance.

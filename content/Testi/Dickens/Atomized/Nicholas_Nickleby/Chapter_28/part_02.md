@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 28 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 28 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -35,7 +35,7 @@ sweet description. Close the book.’
 Kate complied, not unwillingly; and, as she did so, Mrs. Wititterly
 raising her glass with a languid hand, remarked, that she looked pale.
 
-‘It was the fright of that--that noise and confusion last night,’ said
+‘It was the fright of that--that noise and confusion last [[Night|night]],’ said
 Kate.
 
 ‘How very odd!’ exclaimed Mrs. Wititterly, with a look of surprise. And
@@ -44,11 +44,11 @@ should have disturbed a companion. A steam-engine, or other ingenious
 piece of mechanism out of order, would have been nothing to it.
 
 ‘How did you come to know Lord Frederick, and those other delightful
-creatures, child?’ asked Mrs. Wititterly, still eyeing Kate through her
+creatures, [[Child|child]]?’ asked Mrs. Wititterly, still eyeing Kate through her
 glass.
 
 ‘I met them at my uncle’s,’ said Kate, vexed to feel that she was
-colouring deeply, but unable to keep down the blood which rushed to her
+colouring deeply, but unable to keep down the [[Blood|blood]] which rushed to her
 face whenever she thought of that man.
 
 ‘Have you known them long?’
@@ -60,7 +60,7 @@ mother, gave us of being known to them,’ said Mrs. Wititterly, in a lofty
 manner. ‘Some friends of ours were on the very point of introducing us,
 which makes it quite remarkable.’
 
-This was said lest Miss Nickleby should grow conceited on the honour
+This was said lest Miss Nickleby should grow conceited on the [[Honour|honour]]
 and dignity of having known four great people (for Pyke and Pluck were
 included among the delightful creatures), whom Mrs. Wititterly did not
 know. But as the circumstance had made no impression one way or other
@@ -110,8 +110,8 @@ visitors. ‘I am delighted, I am sure.’
 a low voice--not so low, however, but that it reached the ears of Mrs
 Wititterly.
 
-‘Why, she complains of suffering from the fright of last night,’ said
-the lady. ‘I am sure I don’t wonder at it, for my nerves are quite torn
+‘Why, she complains of [[Suffering|suffering]] from the fright of last [[Night|night]],’ said
+the lady. ‘I am sure I don’t [[Wonder|wonder]] at it, for my nerves are quite torn
 to pieces.’
 
 ‘And yet you look,’ observed Sir Mulberry, turning round; ‘and yet you
@@ -122,13 +122,13 @@ course Mr. Pluck said the same.
 
 ‘I am afraid Sir Mulberry is a flatterer, my lord,’ said Mrs. Wititterly,
 turning to that young gentleman, who had been sucking the head of his
-cane in silence, and staring at Kate.
+cane in [[Silence|silence]], and staring at Kate.
 
 ‘Oh, deyvlish!’ replied Verisopht. Having given utterance to which
 remarkable sentiment, he occupied himself as before.
 
 ‘Neither does Miss Nickleby look the worse,’ said Sir Mulberry, bending
-his bold gaze upon her. ‘She was always handsome, but upon my soul,
+his bold gaze upon her. ‘She was always handsome, but upon my [[Soul|soul]],
 ma’am, you seem to have imparted some of your own good looks to her
 besides.’
 
@@ -145,7 +145,7 @@ becomes very doubtful when he takes to complimenting other people.
 ‘Pyke,’ said the watchful Mr. Pluck, observing the effect which the
 praise of Miss Nickleby had produced.
 
-‘Well, Pluck,’ said Pyke.
+‘[[Well]], Pluck,’ said Pyke.
 
 ‘Is there anybody,’ demanded Mr. Pluck, mysteriously, ‘anybody you know,
 that Mrs. Wititterly’s profile reminds you of?’

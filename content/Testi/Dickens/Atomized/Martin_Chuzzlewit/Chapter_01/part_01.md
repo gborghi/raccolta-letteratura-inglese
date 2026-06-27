@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 1 (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 1 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -26,9 +26,9 @@ to know that it undoubtedly descended in a direct line from Adam and
 Eve; and was, in the very earliest times, closely connected with the
 agricultural interest. If it should ever be urged by grudging and
 malicious persons, that a Chuzzlewit, in any period of the family
-history, displayed an overweening amount of family pride, surely the
+[[history]], displayed an overweening amount of family [[Pride|pride]], surely the
 weakness will be considered not only pardonable but laudable, when the
-immense superiority of the house to the rest of mankind, in respect of
+immense superiority of the [[house]] to the rest of mankind, in respect of
 this its ancient origin, is taken into account.
 
 It is remarkable that as there was, in the oldest family of which we
@@ -42,24 +42,24 @@ shattered fortunes, were at once the ennobling pursuit and the healthful
 recreation of the Quality of this land.
 
 Consequently, it is a source of inexpressible comfort and happiness
-to find, that in various periods of our history, the Chuzzlewits were
+to find, that in various periods of our [[history]], the Chuzzlewits were
 actively connected with divers slaughterous conspiracies and bloody
 frays. It is further recorded of them, that being clad from head to
 heel in steel of proof, they did on many occasions lead their
-leather-jerkined soldiers to the death with invincible courage, and
-afterwards return home gracefully to their relations and friends.
+leather-jerkined soldiers to the [[Death|death]] with invincible [[Courage|courage]], and
+afterwards return [[Home|home]] gracefully to their relations and friends.
 
-There can be no doubt that at least one Chuzzlewit came over with
+There can be no [[Doubt|doubt]] that at least one Chuzzlewit came over with
 William the Conqueror. It does not appear that this illustrious ancestor
 ‘came over’ that monarch, to employ the vulgar phrase, at any subsequent
 period; inasmuch as the Family do not seem to have been ever greatly
-distinguished by the possession of landed estate. And it is well known
+distinguished by the possession of landed estate. And it is [[Well|well]] known
 that for the bestowal of that kind of property upon his favourites,
 the liberality and gratitude of the Norman were as remarkable as those
 virtues are usually found to be in great men when they give away what
 belongs to other people.
 
-Perhaps in this place the history may pause to congratulate itself upon
+Perhaps in this place the [[history]] may pause to congratulate itself upon
 the enormous amount of bravery, wisdom, eloquence, virtue, gentle birth,
 and true nobility, that appears to have come into England with the
 Norman Invasion: an amount which the genealogy of every ancient family
@@ -81,25 +81,25 @@ to those who are curious in tracing the progress of hereditary tastes
 through the lives of their unconscious inheritors. It is a notable
 circumstance that in these later times, many Chuzzlewits, being
 unsuccessful in other pursuits, have, without the smallest rational
-hope of enriching themselves, or any conceivable reason, set up as
+[[Hope|hope]] of enriching themselves, or any conceivable reason, set up as
 coal-merchants; and have, month after month, continued gloomily to watch
 a small stock of coals, without in any one instance negotiating with a
 purchaser. The remarkable similarity between this course of proceeding
 and that adopted by their Great Ancestor beneath the vaults of the
-Parliament House at Westminster, is too obvious and too full of
+Parliament [[house|House]] at Westminster, is too obvious and too full of
 interest, to stand in need of comment.
 
 It is also clearly proved by the oral traditions of the Family, that
-there existed, at some one period of its history which is not distinctly
+there existed, at some one period of its [[history]] which is not distinctly
 stated, a matron of such destructive principles, and so familiarized to
 the use and composition of inflammatory and combustible engines, that
 she was called ‘The Match Maker;’ by which nickname and byword she is
 recognized in the Family legends to this day. Surely there can be
-no reasonable doubt that this was the Spanish lady, the mother of
+no reasonable [[Doubt|doubt]] that this was the Spanish lady, the mother of
 Chuzzlewit Fawkes.
 
 But there is one other piece of evidence, bearing immediate reference
-to their close connection with this memorable event in English History,
+to their close connection with this memorable event in English [[history|History]],
 which must carry conviction, even to a mind (if such a mind there be)
 remaining unconvinced by these presumptive proofs.
 
@@ -114,7 +114,7 @@ did again and again set forth upon his solemn asseveration, that he had
 frequently heard his grandmother say, when contemplating this venerable
 relic, ‘Aye, aye! This was carried by my fourth son on the fifth of
 November, when he was a Guy Fawkes.’ These remarkable words wrought
-(as well they might) a strong impression on his mind, and he was in the
+(as [[Well|well]] they might) a strong impression on his mind, and he was in the
 habit of repeating them very often. The just interpretation which
 they bear, and the conclusion to which they lead, are triumphant and
 irresistible. The old lady, naturally strong-minded, was nevertheless

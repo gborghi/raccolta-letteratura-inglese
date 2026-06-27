@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Pond the Pantaloon (part 4)"
+title: "[[MrPond]] — Pond the Pantaloon (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-surprised those who only knew his catlike love of comfortable
+surprised those who only knew his catlike [[Love|love]] of comfortable
 
 domestic routine.
 
@@ -28,7 +28,7 @@ broken pens on the corner table.
 
 
 
-"Well," he said, turning away, "they couldn't do very much with
+"[[Well]]," he said, turning away, "they couldn't do very much with
 
 those, anyhow; but, of course, they might have pencils or fountain-
 
@@ -38,9 +38,9 @@ pens.  I'm rather glad I did it, on the whole."
 
 "Pond," said Wotton gravely, "this is in your department anyhow;
 
-and I'm sure that Dyer will agree that we've done well to follow
+and I'm sure that Dyer will agree that we've done [[Well|well]] to follow
 
-your advice so far.  But I hope you don't mind my having a mild
+your advice so far.  But I [[Hope|hope]] you don't mind my having a mild
 
 curiosity about what it is that you've done."
 
@@ -80,7 +80,7 @@ little against them.  But what could an isolated man do?"
 
 
 
-"Well," said Wotton rather impatiently.  "What could he do?"
+"[[Well]]," said Wotton rather impatiently.  "What could he do?"
 
 
 
@@ -88,7 +88,7 @@ little against them.  But what could an isolated man do?"
 
 think about what a spy or stray intruder might do, in a quiet way
 
-without any noise of battle, murder or sudden death, if he did
+without any noise of battle, murder or sudden [[Death|death]], if he did
 
 manage somehow to spot the right box.  So I got on to the private
 
@@ -100,7 +100,7 @@ which the address seemed to have been altered; anything crossed out
 
 or anything substituted.  A man might conceivably snatch a moment
 
-to re-direct a box to some of his friends in London; though he
+to re-direct a box to some of his friends in [[London]]; though he
 
 could never take the box out of the station without being searched.
 
@@ -108,29 +108,29 @@ That's what I did; and it was these broken-down penholders that
 
 reminded me of it.  It's a pretty broken-down place to spend
 
-Christmas in, as you say; they have given us a sort of a fire,
+Christmas in, as you say; they have given us a sort of a [[Fire|fire]],
 
 which is more than some waiting-rooms do; but it looks as if it
 
-were dying of depression; and I don't wonder."
+were dying of depression; and I don't [[Wonder|wonder]]."
 
 
 
-He stirred up the neglected fire, making quite a creditable blaze,
+He stirred up the neglected [[Fire|fire]], making quite a creditable blaze,
 
 with his usual instinct for the comforts of life; then he added:
 
-"I hope you don't disagree with that second precaution of mine."
+"I [[Hope|hope]] you don't disagree with that second precaution of mine."
 
 
 
-"No; I think that also is a very sensible precaution; though I hope
+"No; I think that also is a very sensible precaution; though I [[Hope|hope]]
 
 there is no chance of anybody hitting on the right box, even by
 
-accident."  Hubert Wotton frowned a moment at the renewed flame and
+accident."  [[Hubert]] Wotton frowned a moment at the renewed flame and
 
-the dancing sparks, and then said gloomily, "This is about the time
+the dancing sparks, and then said gloomily, "This is about the [[Time|time]]
 
 when people at Christmas are going to the pantomime.  Or, at any
 
@@ -144,27 +144,27 @@ abstraction.  At last he said:
 
 
 
-"I sometimes wonder whether things weren't better when pictures
+"I sometimes [[Wonder|wonder]] whether things weren't better when pictures
 
-meant the pictures in the fire, instead of the pictures on the
+meant the pictures in the [[Fire|fire]], instead of the pictures on the
 
 film."
 
 
 
-Sir Hubert Wotton gruffly suggested, in a general way, that the
+Sir [[Hubert]] Wotton gruffly suggested, in a general way, that the
 
-dingy fire in a Third Class Waiting-Room was not one in which he
+dingy [[Fire|fire]] in a Third Class Waiting-Room was not one in which he
 
 would prefer to look for pictures.
 
 
 
-"The fire pictures, like the cloud pictures," went on Mr. Pond,
+"The [[Fire|fire]] pictures, like the cloud pictures," went on Mr. Pond,
 
-"are just incomplete enough to call out the imagination to complete
+"are just incomplete enough to call out the [[Imagination|imagination]] to complete
 
-them.  Besides," he added, cheerfully poking the fire, "you can
+them.  Besides," he added, cheerfully poking the [[Fire|fire]], "you can
 
 stick a poker into the coals and break them up into a different
 
@@ -194,7 +194,7 @@ three of the officials involved.
 
 "I'll stay on this platform," he said; "in fact I shall stay on
 
-this platform all night if necessary.  This is my particular job.
+this platform all [[Night|night]] if necessary.  This is my particular job.
 
 But you go and get your lunch first and come back; and I'll see if
 

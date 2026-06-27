@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 54)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 54)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
 the respectable party; he is said to have been mentioned as a possible
 
-President. And the speeches of Clara Smith's counsel, who was known by
+President. And the speeches of Clara [[smith|Smith]]'s counsel, who was known by
 
 the delightfully Oklahomite title of Wild Bill McLean, were wild enough
 
-in all conscience; but they left very little of my friend's illusion
+in all [[Conscience|conscience]]; but they left very little of my friend's illusion
 
 that members of the Upper Ten could not be accused of crimes. Nero and
 
@@ -34,7 +34,7 @@ English trials, which does at least begin with a certain scepticism
 
 about people prominent in public life being abominable in private life.
 
-People do vaguely doubt the criminality of 'a man in that position';
+People do vaguely [[Doubt|doubt]] the criminality of 'a man in that position';
 
 that is, the position of the Marquise de Brinvilliers or the Marquis de
 
@@ -46,11 +46,11 @@ millionaire. Wild Bill did not minimise him as a bankrupt or an
 
 adventurer; he insisted on the solidity and size of his fortune, he made
 
-mountains out of the 'Hamon millions,' as if they made the matter much
+[[Mountains|mountains]] out of the 'Hamon millions,' as if they made the matter much
 
 worse; as indeed I think they do. But that is because I happen to share
 
-a certain political philosophy with Wild Bill and other wild buffaloes
+a certain political [[philosophy]] with Wild Bill and other wild buffaloes
 
 of the prairies. In other words, there is really present here a
 
@@ -70,25 +70,25 @@ the Senator with his gold.
 
 But something more is involved. I became conscious, as I have been
 
-conscious in reading the crime novels of America, that the millionaire
+conscious in reading the crime novels of [[America]], that the millionaire
 
 was taken as a type and not an individual. This is the great difference;
 
-that America recognises rich crooks as a _class_. Any Englishman might
+that [[America]] recognises rich crooks as a _class_. Any Englishman might
 
-recognise them as individuals. Any English romance may turn on a crime
+recognise them as individuals. Any English [[Romance|romance]] may turn on a crime
 
 in high life; in which the baronet is found to have poisoned his wife,
 
 or the elusive burglar turns out to be the bishop. But the English are
 
-not always saying, either in romance or reality, 'What's to be done, if
+not always saying, either in [[Romance|romance]] or reality, 'What's to be done, if
 
 our food is being poisoned by all these baronets?' They do not murmur in
 
 indignation, 'If bishops will go on burgling like this, something must
 
-be done.' The whole point of the English romance is the exceptional
+be done.' The whole point of the English [[Romance|romance]] is the exceptional
 
 character of a crime in high life. That is not the tone of American
 
@@ -100,15 +100,15 @@ as when any other crook is caught; but it is at his being caught, not at
 
 his being discovered. To put the matter shortly, England recognises a
 
-criminal class at the bottom of the social scale. America also
+criminal class at the [[Bottom|bottom]] of the social scale. [[America]] also
 
 recognises a criminal class at the top of the social scale. In both, for
 
 various reasons, it may be difficult for the criminals to be convicted;
 
-but in America the upper class of criminals is recognised. In both
+but in [[America]] the upper class of criminals is recognised. In both
 
-America and England, of course, it exists.
+[[America]] and England, of course, it exists.
 
 
 
@@ -118,7 +118,7 @@ great difference in many ways; and in my opinion a difference for the
 
 better. I wrote merely fancifully just now about bishops being burglars;
 
-but there is a story in New York, illustrating this, which really does
+but there is a story in [[New York]], illustrating this, which really does
 
 in a sense attribute a burglary to a bishop. The story was that an
 
@@ -132,25 +132,25 @@ when a gigantic Irish policeman came round the corner and hit him a
 
 crack over the head with a truncheon on the assumption that he was a
 
-house-breaker. I hope that those who laugh at the story see that the
+[[house]]-breaker. I [[Hope|hope]] that those who laugh at the story see that the
 
 laugh is not altogether against the policeman; and that it is not only
 
 the policeman, but rather the bishop, who had failed to recognise some
 
-fine logical distinctions. The bishop, being a learned man, might well
+fine logical distinctions. The bishop, being a learned man, might [[Well|well]]
 
 be called upon (when he had sufficiently recovered from the knock on
 
-the head) to define what is the exact difference between a house-breaker
+the head) to define what is the exact difference between a [[house]]-breaker
 
-and a home-visitor; and why the home-visitor should not be regarded as a
+and a [[Home|home]]-visitor; and why the [[Home|home]]-visitor should not be regarded as a
 
-house-breaker when he will not behave as a guest. An impartial
+[[house]]-breaker when he will not behave as a guest. An impartial
 
 intelligence will be much less shocked at the policeman's disrespect for
 
-the home-visitor than by the home-visitor's disrespect for the home.
+the [[Home|home]]-visitor than by the [[Home|home]]-visitor's disrespect for the [[Home|home]].
 
 
 
@@ -162,7 +162,7 @@ oppression are much subtler and softer; the manifestations of them at
 
 least are more mellow and humane. In comparison there is indeed
 
-something which people call ruthless about the air of America,
+something which people call ruthless about the air of [[America]],
 
 especially the American cities. The bishop may push open the door
 
@@ -170,7 +170,7 @@ without an apology, but he would not break open the door with a
 
 truncheon; but the Irish policeman's truncheon hits both ways. It may be
 
-brutal to the tenement dweller as well as to the bishop; but the
+brutal to the tenement dweller as [[Well|well]] as to the bishop; but the
 
 difference and distinction is that it might really be brutal to the
 
@@ -186,8 +186,8 @@ oligarchic bureaucracies are resented. There is a sense in which
 
 corruption is not so narrow as nepotism. It is upon this queer cynical
 
-charity, and even humility, that it has been possible to rear so high
+[[Charity|charity]], and even [[Humility|humility]], that it has been possible to rear so high
 
 and uphold so long that tower of brass, Tammany Hall. The modern police
 
-system is in spirit the most inhuman in history, and its evil belongs
+system is in spirit the most inhuman in [[history]], and its evil belongs

@@ -71,7 +71,7 @@ about six years old, the boy about four; the former was dressed in a
 white frock with a pink sash and dog’s-eared-looking little spencer: a
 straw bonnet and green veil, six inches by three and a half; the
 latter, was attired for the occasion in a nankeen frock, between the
-bottom of which, and the top of his plaid socks, a considerable portion
+[[Bottom|bottom]] of which, and the top of his plaid socks, a considerable portion
 of two small mottled legs was discernible. He had a light blue cap with
 a gold band and tassel on his head, and a damp piece of gingerbread in
 his hand, with which he had slightly embossed his countenance.
@@ -79,7 +79,7 @@ his hand, with which he had slightly embossed his countenance.
 The boat once more started off; the band played ‘Off she goes:’ the
 major part of the company conversed cheerfully in groups; and the old
 gentlemen walked up and down the deck in pairs, as perseveringly and
-gravely as if they were doing a match against time for an immense
+gravely as if they were doing a match against [[Time|time]] for an immense
 stake. They ran briskly down the Pool; the gentlemen pointed out the
 Docks, the Thames Police-office, and other elegant public edifices; and
 the young ladies exhibited a proper display of horror at the appearance
@@ -93,14 +93,14 @@ and the envy of the men. Quadrilling commenced; Captain Helves danced
 one set with Miss Emily Taunton, and another set with Miss Sophia
 Taunton. Mrs. Taunton was in ecstasies. The victory appeared to be
 complete; but alas! the inconstancy of man! Having performed this
-necessary duty, he attached himself solely to Miss Julia Briggs, with
+necessary duty, he attached himself solely to Miss [[Julia]] Briggs, with
 whom he danced no less than three sets consecutively, and from whose
 side he evinced no intention of stirring for the remainder of the day.
 
 Mr. Hardy, having played one or two very brilliant fantasias on the
 Jews’-harp, and having frequently repeated the exquisitely amusing joke
-of slily chalking a large cross on the back of some member of the
-committee, Mr. Percy Noakes expressed his hope that some of their
+of slily chalking a large [[Cross|cross]] on the back of some member of the
+committee, Mr. Percy Noakes expressed his [[Hope|hope]] that some of their
 musical friends would oblige the company by a display of their
 abilities.
 
@@ -129,7 +129,7 @@ accompaniments.’
 
 ‘Perhaps,’ said Mrs. Taunton, reddening, for she guessed the tenor of
 the observation, though she had not heard it clearly—‘Perhaps it would
-be as well for some people, if their voices were not quite so audible
+be as [[Well|well]] for some people, if their voices were not quite so audible
 as they are to other people.’
 
 ‘And, perhaps, if gentlemen who are kidnapped to pay attention to some

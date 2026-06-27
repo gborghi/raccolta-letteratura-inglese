@@ -1,5 +1,5 @@
 ---
-title: "The Glass Walking Stick — On The True Artist"
+title: "The Glass Walking Stick — On The True [[artist|Artist]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-ON THE TRUE ARTIST
+ON THE TRUE [[artist|ARTIST]]
 
 IT has lately been noted that the artists who started with entirely
 new artistic methods have now themselves returned to more
 realistic methods, and what some would call more reasonable methods.
 According to the pioneer theory of progress, of which we have all
-heard so much, they ought by this time to have shot far out of sight,
+heard so much, they ought by this [[Time|time]] to have shot far out of sight,
 and be enjoying the society of our great-great-grandchildren. For it
 is supposed to be the duty of this singular sort of pioneer to lose
 sight entirely of the army which he leads.
@@ -31,33 +31,33 @@ A pioneer does not lead an army; he is merely a man
 who walks in front of it and is as much under the orders
 of the general command as the last man who walks behind it.
 But, accepting the vague imagery of those who talk of a pioneer
-when they mean a prophet, it is clear that the pioneer
-sometimes falls back on the main body of the advance.
-In other words, the prophet sometimes gets tired of the society
-of the babe unborn (who may be an uncommunicative companion)
+when they mean a [[Prophet|prophet]], it is clear that the pioneer
+sometimes falls back on the main [[Body|body]] of the advance.
+In other words, the [[Prophet|prophet]] sometimes gets tired of the society
+of the babe [[unborn]] (who may be an uncommunicative companion)
 and seeks for companions even among contemporaries.
 I cannot pronounce upon the case of pictorial art, but in
 the parallel case of literature there is perhaps something
 to be said about the tests of such a return to society,
-and of whether and when it is a return to sanity.
+and of whether and when it is a return to [[Sanity|sanity]].
 
-The first truth involved is a truism, but a truism
+The first [[Truth|truth]] involved is a truism, but a truism
 often as little understood as any mystery.
-It is that the artist is a person who communicates something.
+It is that the [[artist]] is a person who communicates something.
 He may communicate it more or less easily and quickly;
 he may communicate it to a larger or smaller number of people.
 But it is a question of communication and not merely of what some
 people call expression.  Or rather, strictly speaking, unless it
-is communication it is not expression.  I know that for some time
-past it has been the custom to talk of the artist expressing
+is communication it is not expression.  I know that for some [[Time|time]]
+past it has been the custom to talk of the [[artist]] expressing
 something as if it only meant his getting rid of something.
-It may be natural that the artist should want to get rid of his art;
+It may be natural that the [[artist]] should want to get rid of his art;
 especially when we consider what it is sometimes like.
 But it is not his business only to deliver himself; It is,
 I say very solemnly, his business to deliver the goods.
 This, as I say, is a truism, but it is one that is strangely
 forgotten in a great deal of the fashionable fuss about
-artistic self-expression. The artist does ultimately exhibit
+artistic [[Self|self]]-expression. The [[artist]] does ultimately exhibit
 himself as being intelligent by being intelligible.
 I do not say by being easy to understand, but certainly
 by being understood.
@@ -66,11 +66,11 @@ Yet there is still a vast amount of talk about the isolated
 and incommunicable spirit of the man of genius;
 about how he has in him things too deep for expression
 and too subtle to be subject to general criticism.
-I say that that is exactly what is not true of the artist.
-That is exactly what is true of the ordinary man who is not an artist.
+I say that that is exactly what is not true of the [[artist]].
+That is exactly what is true of the ordinary man who is not an [[artist]].
 That is exactly what is true of the man who is called a Philistine.
-He has subtleties in his soul which he cannot describe;
-he has secrets of emotion which he can never show to the public.
+He has subtleties in his [[Soul|soul]] which he cannot describe;
+he has [[Secrets|secrets]] of emotion which he can never show to the public.
 He it is who dies with all his music in him.  But it should obviously
 be the aim of the musician to die with all his music out of him;
 even if this ideal state of things can seldom be achieved.
@@ -81,35 +81,35 @@ It is also his business to get his music into somebody else.
 We should all be reasonable enough to recognize that the somebody
 else will depend to some extent on the sort of music.
 But if all he can say is that he has a secret of sealed-up
-power and passion, that his imagination is visited by visions
+power and passion, that his [[Imagination|imagination]] is visited by visions
 of which the world knows nothing, that he is conscious of a
 point of view which is wholly his own and is not expressed
 in anything common or comprehensible--then he is simply saying
-that he is not an artist, and there is an end of it.
+that he is not an [[artist]], and there is an end of it.
 
-The real truth to be recognized on the other side is this.
+The real [[Truth|truth]] to be recognized on the other side is this.
 The expression of a unique point of view, so that somebody
 else shall share it, is a very difficult and delicate matter.
-It will probably take the artist some time, and a number
+It will probably take the [[artist]] some [[Time|time]], and a number
 of experiments, to make his meaning clear.  And it seems to me
 that the moment when he returns to a more normal style is,
 very often, simply the moment when he has managed to make it clear.
-The time when he is wild and revolutionary and unfathomable
-and ferociously original is the time when he is trying to do it.
-The time when he is called ordinary is the time when he has done it.
+The [[Time|time]] when he is wild and revolutionary and unfathomable
+and ferociously original is the [[Time|time]] when he is trying to do it.
+The [[Time|time]] when he is called ordinary is the [[Time|time]] when he has done it.
 
-It is true that there is a sort of bad parody of this good process.
+It is true that there is a sort of bad [[Parody|parody]] of this good process.
 There generally is of all good processes; diabolus simius Dei.
 It does sometimes happen that a man who had revolutionary ideals
 in his youth sells them for a merely snobbish conformity.
 But I do not think this is true of the modern artists whose return
 to a more normal manner has recently been remarked in this connexion.
 Theft work has still an individual character, even when it becomes
-intelligible as well as individual.
+intelligible as [[Well|well]] as individual.
 
 I am only pointing out that the moment when artists become intelligible
 is the moment when they become truly and triumphantly individual.
-It is the time when the individual first appears in the world with
+It is the [[Time|time]] when the individual first appears in the world with
 which art is concerned; the world of receptivity and appreciation.
 Every individual is an individual; and I am one of those who
 think that every individual is an interesting individual.

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 16 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 16 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-humour, and so grateful for my late deliverance from Mr. Boarham, that
+[[Humour|humour]], and so grateful for my late deliverance from Mr. Boarham, that
 
 it did not anger me.
 
 
 
-“Well, Helen, how do you like Mr. Boarham now?” said my aunt, as we
+“[[Well]], [[Helen]], how do you like Mr. Boarham now?” said my aunt, as we
 
 took our seats in the carriage and drove away.
 
@@ -92,11 +92,11 @@ blue eyes.”
 
 
 
-“False reasoning, Helen!” said she, with a sigh.
+“False reasoning, [[Helen]]!” said she, with a sigh.
 
 
 
-“Well, we ought to be charitable, you know, aunt—besides, I don’t think
+“[[Well]], we ought to be charitable, you know, aunt—besides, I don’t think
 
 it _is_ false: I am an excellent physiognomist, and I always judge of
 
@@ -112,7 +112,7 @@ worthless old reprobate; and by Mr. Boarham’s, that he was not an
 
 agreeable companion; and by Mr. Huntingdon’s, that he was neither a
 
-fool nor a knave, though, possibly, neither a sage nor a saint—but that
+[[Fool|fool]] nor a knave, though, possibly, neither a sage nor a saint—but that
 
 is no matter to me, as I am not likely to meet him again—unless as an
 
@@ -126,9 +126,9 @@ call upon my uncle, apologising for not having done so before, by
 
 saying he was only lately returned from the Continent, and had not
 
-heard, till the previous night, of my uncle’s arrival in town; and
+heard, till the previous [[Night|night]], of my uncle’s arrival in town; and
 
-after that I often met him; sometimes in public, sometimes at home; for
+after that I often met him; sometimes in public, sometimes at [[Home|home]]; for
 
 he was very assiduous in paying his respects to his old friend, who did
 
@@ -136,9 +136,9 @@ not, however, consider himself greatly obliged by the attention.
 
 
 
-“I wonder what the deuce the lad means by coming so often,” he would
+“I [[Wonder|wonder]] what the deuce the lad means by coming so often,” he would
 
-say,—“can _you_ tell, Helen?—Hey? He wants none o’ my company, nor I
+say,—“can _you_ tell, [[Helen]]?—Hey? He wants none o’ my company, nor I
 
 his—that’s certain.”
 
@@ -152,13 +152,13 @@ his—that’s certain.”
 
 me). “Besides, he’s a pretty tidy fortune, Peggy, you know—not such a
 
-catch as Wilmot; but then Helen won’t hear of that match: for, somehow,
+catch as Wilmot; but then [[Helen]] won’t hear of that match: for, somehow,
 
 these old chaps don’t go down with the girls—with _all_ their money,
 
 and their experience to boot. I’ll bet anything she’d rather have this
 
-young fellow without a penny, than Wilmot with his house full of gold.
+young fellow without a penny, than Wilmot with his [[house]] full of gold.
 
 Wouldn’t you, Nell?”
 
@@ -182,7 +182,7 @@ Huntingdon—eh?”
 
 “Ah! it needs consideration, then? But come, now—would you rather be an
 
-old maid—let alone the pauper?”
+old maid—let [[Alone|alone]] the pauper?”
 
 
 
@@ -192,11 +192,11 @@ old maid—let alone the pauper?”
 
 And I left the room immediately, to escape further examination. But
 
-five minutes after, in looking from my window, I beheld Mr. Boarham
+five minutes after, in looking from my [[Window|window]], I beheld Mr. Boarham
 
 coming up to the door. I waited nearly half-an-hour in uncomfortable
 
-suspense, expecting every minute to be called, and vainly longing to
+suspense, expecting every minute to be called, and vainly [[Longing|longing]] to
 
 hear him go. Then footsteps were heard on the stairs, and my aunt
 
@@ -206,7 +206,7 @@ her.
 
 
 
-“Here is Mr. Boarham, Helen,” said she. “He wishes to see you.”
+“Here is Mr. Boarham, [[Helen]],” said she. “He wishes to see you.”
 
 
 
@@ -218,17 +218,17 @@ _him_.”
 
 “Nonsense, my dear! this is no trifling matter. He is come on a very
 
-important errand—to ask your hand in marriage of your uncle and me.”
+important errand—to ask your hand in [[Marriage|marriage]] of your uncle and me.”
 
 
 
-“I hope my uncle and you told him it was not in your power to give it.
+“I [[Hope|hope]] my uncle and you told him it was not in your power to give it.
 
 What right had he to ask _any_ one before me?”
 
 
 
-“Helen!”
+“[[Helen]]!”
 
 
 
@@ -258,7 +258,7 @@ please yourself.”
 
 “It is no matter what I said. What will _you_ say?—that is the
 
-question. He is now waiting to ask you himself; but consider well
+question. He is now waiting to ask you himself; but consider [[Well|well]]
 
 before you go; and if you intend to refuse him, give me your reasons.”
 
@@ -272,9 +272,9 @@ my reasons afterwards.”
 
 
 
-“But stay, Helen; sit down a little and compose yourself. Mr. Boarham
+“But stay, [[Helen]]; sit down a little and compose yourself. Mr. Boarham
 
-is in no particular hurry, for he has little doubt of your acceptance;
+is in no particular hurry, for he has little [[Doubt|doubt]] of your acceptance;
 
 and I want to speak with you. Tell me, my dear, what are your
 
@@ -294,7 +294,7 @@ objections to him? Do you deny that he is an upright, honourable man?”
 
 
 
-“_But_ Helen! How many such men do you expect to meet with in the
+“_But_ [[Helen]]! How many such men do you expect to meet with in the
 
 world? Upright, honourable, sensible, sober, respectable! Is _this_
 

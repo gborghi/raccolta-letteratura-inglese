@@ -20,24 +20,24 @@ THE HOSPITALITY OF THE CAPTAIN
 
 DR. MOSES MEADOWS, whether that was his name or
 an Anglicised version of it, had certainly come in the
-first instance from a little town in Germany and his
+first instance from a little town in [[Germany]] and his
 first two books were written in German.  His first
 two books were his best, for he began with a genuine
 enthusiasm for physical science, and this was
 adulterated with nothing worse than a hatred of what he
 thought was superstition, and what many of us think
-is the soul of the state.  The first enthusiasm was
+is the [[Soul|soul]] of the state.  The first enthusiasm was
 most notable in the first book, which was concerned to
 show that "in the female not upsprouting of the
 whiskers was from the therewith increasing arrested
 mentality derived."  In his second book he came more
-to grips with delusions, and for some time he was
+to grips with delusions, and for some [[Time|time]] he was
 held to have proved (to everyone who agreed with
-him already) that the Time Ghost had been walking
+him already) that the [[Time]] [[Ghost]] had been walking
 particularly "rapidly, lately; and that the Christus
 Mythus was by the alcoholic mind's trouble explained."
 Then, unfortunately, he came across the institution
-called Death, and began to argue with it.  Not seeing
+called [[Death]], and began to argue with it.  Not seeing
 any rational explanation of this custom of dying, so
 prevalent among his fellow-citizens, he concluded that
 it was merely traditional (which he thought meant
@@ -45,7 +45,7 @@ it was merely traditional (which he thought meant
 evading or delaying it.  This had a rather narrowing
 effect on him, and he lost much of that acrid ardour
 which had humanised the atheism of his youth, when
-he would almost have committed suicide for the pleasure
+he would almost have committed [[suicide]] for the pleasure
 of taunting God with not being there.  His later
 idealism grew more and more into materialism and
 consisted of his changing hypotheses and discoveries
@@ -76,7 +76,7 @@ put him right about that.
 
 "I bought it in a shop at Wyddington," he said,
 "and since then I have used no other.  You'll hardly
-believe me" he said, with some truth, "but when I
+believe me" he said, with some [[Truth|truth]], "but when I
 went into that shop I was quite a little man.  I had
 one glass of your Mountain Milk; and look at me
 now."
@@ -97,12 +97,12 @@ satisfaction.
 "You shall laugh at the magistrate," said the other,
 with a thickening accent.
 
-"I shall," agreed Patrick.  "Well, I'll make a clean
-breast of it, sir.  The truth is it isn't your milk at all.
+"I shall," agreed Patrick.  "[[Well]], I'll make a clean
+breast of it, sir.  The [[Truth|truth]] is it isn't your milk at all.
 It has quite a different taste.  These gentlemen will
 tell you so."
 
-A smothered giggle sent all the blood to the eminent
+A smothered giggle sent all the [[Blood|blood]] to the eminent
 capitalist's face.
 
 "Then, either you have stolen my can and are a
@@ -117,8 +117,8 @@ And it's as true as daylight that this stuff tastes
 different.  I can't tell you what the taste is" (subdued
 guffaws from the outskirts of the crowd).  "It's
 something between the taste of your first sugar-stick and
-the fag-end of your father's cigar.  It's as innocent
-as Heaven and as hot as hell.  It tastes like a paradox.
+the fag-end of your father's cigar.  It's as [[Innocent|innocent]]
+as Heaven and as hot as hell.  It tastes like a [[Paradox|paradox]].
 It tastes like a prehistoric inconsistency--I trust I
 make myself clear.  The men who taste it most are
 the simplest men that God has made, and it always
@@ -151,7 +151,7 @@ wheels and pumps and pulleys be for?  Will you tell
 me, here and now, what you add to the milk which
 makes it so exceedingly Mountain?"
 
-There was a long silence, full of the same sense of
+There was a long [[Silence|silence]], full of the same sense of
 submerged mirth in the mob.  But the philanthropist
 had fallen into a naked frenzy in the sunlight, and
 shaking his fists aloft in a way unknown to all the
@@ -163,8 +163,8 @@ you shall laugh at a magistrate."
 
 Dalroy, with a bow, retired to the car, removed a
 number of wrappings and produced the prodigious
-wooden sign-post of "The Old Ship," with its blue
-three-decker and red St. George's cross conspicuously
+wooden sign-post of "The Old [[Ship]]," with its blue
+three-decker and red St. George's [[Cross|cross]] conspicuously
 displayed.  This he planted on his narrow territory of
 turf and looked round serenely.
 
@@ -174,47 +174,47 @@ anything unhygienic about this inn.  No low ceilings
 or stuffiness here.  Windows open everywhere, except
 in the floor.  And as I hear some are saying there
 ought always to be food sold with fermented liquor,
-why, my dear Dr. Meadows, I've got a cheese here that
-will make another man of you.  At least, we'll hope
+why, my dear Dr. Meadows, I've got a [[cheese]] here that
+will make another man of you.  At least, we'll [[Hope|hope]]
 so.  We can but try."
 
 But Dr. Meadows was long past being merely
 angry.  The exhibition of the sign had put him into a
 serious difficulty.  Like most sceptics, like even the
 most genuine sceptics such as Bradlaugh, he was as
-legal as he was sceptical.  He had a profound fear,
-which also had in it something better than fear, of
-being ultimately found in the wrong in a police court
-or a public inquiry.  And he also suffered the tragedy
+legal as he was sceptical.  He had a profound [[Fear|fear]],
+which also had in it something better than [[Fear|fear]], of
+being ultimately found in the wrong in a police [[Court|court]]
+or a public inquiry.  And he also suffered the [[Tragedy|tragedy]]
 of all such men living in modern England; that he
 must always be certain to respect the law, while never
 being certain of what it was.  He could only remember
 generally that Lord Ivywood, when introducing
 or defending the great Ivywood Act on this matter,
 had dwelt very strongly on the unique and significant
-nature of the sign.  And he could not be certain that
+[[Nature|nature]] of the sign.  And he could not be certain that
 if he disregarded it altogether, he might not eventually
-be cast in heavy damages--or even go to prison,
-in spite of his success in business.  Of course he knew
-quite well that he had a thousand answers to such
-nonsense: that a patch of grass in the road couldn't
+be cast in heavy damages--or even go to [[Prison|prison]],
+in spite of his [[success]] in business.  Of course he knew
+quite [[Well|well]] that he had a thousand answers to such
+nonsense: that a patch of grass in the [[Road|road]] couldn't
 be an inn; that the sign wasn't even produced when
 the Captain began to hand round the rum.  But he
-also knew quite well that in the black peril we call
+also knew quite [[Well|well]] that in the black peril we call
 British law that is not the point.  He had heard points
 quite as obvious urged to a judge and urged in vain.
-At the bottom of his mind he found this fact: rich
+At the [[Bottom|bottom]] of his mind he found this fact: rich
 as he was, Lord Ivywood had made him--and on
 which side would Lord Ivywood be?
 
 "Captain," said Humphrey Pump, speaking for the
-first time, "we'd better be getting away.  I feel it in
+first [[Time|time]], "we'd better be getting away.  I feel it in
 my bones."
 
 "Inhospitable innkeeper!" cried the Captain,
 indignantly.  "And after I have gone out of the way to
-license your premises!  Why, this is the dawn of
-peace in the great city of Peaceways.  I don't despair
+license your premises!  Why, this is the [[Dawn|dawn]] of
+peace in the great [[City|city]] of Peaceways.  I don't [[Despair|despair]]
 of Dr. Meadows tossing off another bumper before
 we've done.  For the moment, Brother Hugby will
 engage."
@@ -229,45 +229,45 @@ a glass of the new Mountain Milk; and then his very
 face became full of speech, before he had spoken a
 word.
 
-"There's a motor coming along the road from the
+"There's a motor coming along the [[Road|road]] from the
 far hills," said Humphrey, quietly.  "It'll be across
 the last bridge down stream in ten minutes and come
 up on this side."
 
-"Well," said the Captain, impatiently, "I suppose
+"[[Well]]," said the Captain, impatiently, "I suppose
 you've seen a motor before."
 
 "Not in this valley all this morning," answered
 Pump.
 
 "Mr. Chairman," said Mr. Hugby, feeling a dim
-disposition to say "Mr. Vice," in memory of old
+disposition to say "Mr. Vice," in [[Memory|memory]] of old
 commercial banquets, "I'm sure we're all law-abiding
 people here, and wish to remain friends, especially
 with our good friend the Doctor; may he never want
 a friend or a bottle--that is in short, anything he
-wants, as we go up the hill of prosperity, and so
+wants, as we go up the [[Hill|hill]] of prosperity, and so
 on.  But, as our friend here with the sign-board seems
-to be within his rights, well, I think the time's come
+to be within his rights, [[Well|well]], I think the [[Time|time]]'s come
 when we can look at these things more broadly, so to
 speak.  Now I know it's quite true those dirty little
 pubs do a lot of harm to a property, and you get a
 lot of ignorant people there who are just like pigs;
 and I don't say our friend the Doctor hasn't done
-good by clearing 'em away.  But a big, well-managed
+good by clearing 'em away.  But a big, [[Well|well]]-managed
 business with plenty of capital behind it is quite
-another thing.  Well, friends, you all know that I was
+another thing.  [[Well]], friends, you all know that I was
 originally in the Trade; though I have, of course, left
 off selling under the new regulations."  Here the goats
 looked rather guiltily at their cloven hoofs.  "But
 I've got my little bit and I wouldn't mind putting it
-into this 'Old Ship' here, if our friend would allow it
+into this 'Old [[Ship]]' here, if our friend would allow it
 to be run on business lines.  And especially if he'd
 enlarge the premises a bit.  Ha! ha!  And if our good
 friend, the Doctor--"
 
 "You rascal fellow!" spluttered Meadows, "your
-goot friend the doctor will make you dance before a
+goot friend the doctor will make you [[Dance|dance]] before a
 magistrate."
 
 "Now, don't be unbusinesslike," reasoned the brewer.
@@ -280,7 +280,7 @@ fiery eyes, "I am a servant of humanity."
 "Then," said Dalroy, "why do you never do what
 your master tells you?"
 
-"The motor has crossed the river," said Humphrey
+"The motor has crossed the [[River|river]]," said Humphrey
 Pump.
 
 "You would undo all my works," cried the Doctor,
@@ -296,7 +296,7 @@ am not a goot friend!"
 to that--aren't you trying to sell--"
 
 A motor car drove up with a white explosion of
-dust, and about six very dusty people got out of it.
+[[Dust|dust]], and about six very dusty people got out of it.
 Even through the densest disguise of the swift motorist,
 Pump perceived in many of them the peculiar
 style and bodily carriage of the police.  The most
@@ -305,7 +305,7 @@ which, on removing its cap and goggles, disclosed the
 dark and drooping features of J. Leveson, Secretary.
 He walked across to the little, old millionaire, who
 instantly recognized him and shook hands.  They 
-confabulated for some little time, turning over some
+confabulated for some little [[Time|time]], turning over some
 official documents.  Dr. Meadows cleared his throat and
 said to the whole crowd.
 
@@ -317,12 +317,12 @@ places of importance such as this a most just and right
 alteration of the law, which exactly meets the present
 case.
 
-"We shall sleep in jail tonight," said Humphrey,
+"We shall [[Sleep|sleep]] in jail tonight," said Humphrey,
 Pump.  "I know it in my bones."
 
 "It is enough to say," proceeded the millionaire,
 "that by the law as it now stands, any innkeeper, even
-if he display a sign, is subject to imprisonment if he
+if he display a sign, is subject to [[Imprisonment|imprisonment]] if he
 sells alcohol on premises where it has not been
 previously kept for three days."
 
@@ -377,12 +377,12 @@ enough it was not the withered and fanatical face of
 the philanthropist Meadows, nor the dark and equine
 face of the official Leveson, which stood out most
 vividly as a picture of protest.  The face most strangely
-unsympathetic with this form of charity was that of
+unsympathetic with this form of [[Charity|charity]] was that of
 the ex-proprietor of Hugby's Ales.  His gooseberry
 eyes were almost dropping from his head and his
 words sprang from his lips before he could stop them.
 
-"And you blooming well think you can come here
+"And you blooming [[Well|well]] think you can come here
 like a big buffoon, you beast, and take away all my
 trade--"
 
@@ -393,20 +393,20 @@ an adder.
 
 The brewer bubbled with a sort of bursting anger.
 The goats all looked at the ground as is, according to
-a Roman poet, the habit of the lower animals.  Man
+a Roman poet, the habit of the lower [[Animals|animals]].  Man
 (in the character of Mr. Patrick Dalroy) taking advantage
-of a free but fine translation of the Latin passage,
+of a free but fine [[Translation|translation]] of the Latin passage,
 "looked aloft, and with uplifted eyes beheld his own
 hereditary skies."
 
-"Well, all I can say is," roared Mr. Hugby, "if the
+"[[Well]], all I can say is," roared Mr. Hugby, "if the
 police come all this way and can't lock up a dirty loafer
 whose coat's all in rags, there's an end of me paying
 these fat infernal taxes and--"
 
 "Yes," said Dalroy, in a voice that fell like an axe,
 "there is an end of you, please God.  It's brewers like
-you that have made the inns stink with poison, till even
+you that have made the inns stink with [[Poison|poison]], till even
 good men asked for no inns at all.  And you are worse
 than the teetotallers, for you prevented what they never
 knew.  And as for you, eminent man of science, great
@@ -420,22 +420,22 @@ should I respect you because you are fastidious about
 food, that your poor old digestion may outlive the
 hearts of better men?  Why should you be the god of
 this valley, whose god is your belly, merely because you
-do not even love your god, but only fear him?  Go
-home to your prayers, old man; for all men shall die.
-Read the Bible, if you like, as they do in your German
-home; and I suppose you once read it to pick texts as
+do not even [[Love|love]] your god, but only [[Fear|fear]] him?  Go
+[[Home|home]] to your prayers, old man; for all men shall die.
+Read the [[Bible]], if you like, as they do in your German
+[[Home|home]]; and I suppose you once read it to pick texts as
 you now read it to pick holes.  I don't read it myself,
 I'm afraid, but I remember some words in old Mulligan's
-translation; and I leave them with you.  'Unless
+[[Translation|translation]]; and I leave them with you.  'Unless
 God,'" and he made a movement with his arm,
 so natural and yet so vast that for an instant the town
 really looked like a toy of bright coloured cardboard
-at the feet of the giant; "'unless God build the city,
+at the feet of the giant; "'unless God build the [[City|city]],
 their labour is but lost that build it; unless God keep
-the city, the watchman watcheth in vain.  It is lost
+the [[City|city]], the watchman watcheth in vain.  It is lost
 labour that you rise up early in the morning and eat
 the bread of carefulness; while He giveth His
-beloved sleep.'  Try and understand what that means,
+beloved [[Sleep|sleep]].'  Try and understand what that means,
 and never mind whether it's Elohistic.  And now,
 Hump, we'll away and away.  I'm tired of the green
 tiles over there.  Come, fill up my cup," and he banged
@@ -444,18 +444,18 @@ call out my men.  And tremble, gay goats, in the
 midst of your glee; for you've no' seen the last of my
 milk can and me."
 
-This song was joyously borne away with Mr. Dalroy
+This [[Song|song]] was joyously borne away with Mr. Dalroy
 in the disappearing car; and the motorists were
 miles beyond pursuit from Peaceways before they
 thought of halting again.  But they were still beside
-the bank of that noble and enlarging river; and in a
+the bank of that noble and enlarging [[River|river]]; and in a
 place of deep fern and fairy-ribboned birches with the
-glowing and gleaming water behind them, Patrick
+glowing and gleaming [[Water|water]] behind them, Patrick
 asked his friend to stop the car.
 
 "By the way," said Humphrey, suddenly, "there
 was one thing I didn't understand.  Why was he so
-afraid of the Public Analyst?  What poison and
+afraid of the Public Analyst?  What [[Poison|poison]] and
 chemicals does he put in the milk?"
 
 "H20," answered the Captain, "I take it without

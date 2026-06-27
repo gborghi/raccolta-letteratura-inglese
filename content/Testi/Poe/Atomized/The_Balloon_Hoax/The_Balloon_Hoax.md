@@ -1,5 +1,5 @@
 ---
-title: "The Balloon-Hoax"
+title: "[[The Balloon-Hoax]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Balloon-Hoax-(Poe)"
@@ -17,7 +17,7 @@ tags:
 
 Three Days!  Signal Triumph of Mr. Monck Mason’s Flying
 
-Machine!—Arrival at Sullivan’s Island, near Charlestown, S.C., of Mr.
+[[Machine]]!—Arrival at Sullivan’s Island, near Charlestown, S.C., of Mr.
 
 Mason, Mr. Robert Holland, Mr. Henson, Mr. Harrison Ainsworth, and four
 
@@ -27,9 +27,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
     The subjoined _jeu d’esprit_ with the preceding heading in
 
-    magnificent capitals, well interspersed with notes of admiration,
+    magnificent capitals, [[Well|well]] interspersed with notes of admiration,
 
-    was originally published, as matter of fact, in the “New York Sun,”
+    was originally published, as matter of fact, in the “[[New York]] Sun,”
 
     a daily newspaper, and therein fully subserved the purpose of
 
@@ -49,7 +49,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
 
 
-      The great problem is at length solved! The air, as well as the
+      The great problem is at length solved! The air, as [[Well|well]] as the
 
       earth and the ocean, has been subdued by science, and will become
 
@@ -59,7 +59,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       difficulty—without any great apparent danger—with thorough
 
-      control of the machine—and in the inconceivably brief period of
+      control of the [[Machine|machine]]—and in the inconceivably brief period of
 
       seventy-five hours from shore to shore! By the energy of an agent
 
@@ -73,13 +73,13 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       Everard Bringhurst; Mr. Osborne, a nephew of Lord Bentinck’s; Mr.
 
-      Monck Mason and Mr. Robert Holland, the well-known æronauts; Mr.
+      Monck Mason and Mr. Robert Holland, the [[Well|well]]-known æronauts; Mr.
 
       Harrison Ainsworth, author of “Jack Sheppard,” &c.; and Mr.
 
       Henson, the projector of the late unsuccessful flying
 
-      machine—with two seamen from Woolwich—in all, eight persons. The
+      [[Machine|machine]]—with two seamen from Woolwich—in all, eight persons. The
 
       particulars furnished below may be relied on as authentic and
 
@@ -123,13 +123,13 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       Adelaide Gallery, it was found that the operation of these fans
 
-      not only did not propel the machine, but actually impeded its
+      not only did not propel the [[Machine|machine]], but actually impeded its
 
       flight. The only propelling force it ever exhibited, was the mere
 
       _impetus_ acquired from the descent of the inclined plane; and
 
-      this _impetus_ carried the machine farther when the vanes were at
+      this _impetus_ carried the [[Machine|machine]] farther when the vanes were at
 
       rest, than when they were in motion—a fact which sufficiently
 
@@ -141,9 +141,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       George Cayley to think only of adapting a propeller to some
 
-      machine having of itself an independent power of support—in a
+      [[Machine|machine]] having of itself an independent power of support—in a
 
-      word, to a balloon; the idea, however, being novel, or original,
+      word, to a balloon; the idea, however, being [[Novel|novel]], or original,
 
       with Sir George, only so far as regards the mode of its
 
@@ -189,9 +189,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       gas, which, if pure hydrogen, would support twenty-one pounds
 
-      upon its first inflation, before the gas has time to deteriorate
+      upon its first inflation, before the gas has [[Time|time]] to deteriorate
 
-      or escape. The weight of the whole machine and apparatus was
+      or escape. The weight of the whole [[Machine|machine]] and apparatus was
 
       seventeen pounds—leaving about four pounds to spare. Beneath the
 
@@ -229,15 +229,15 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       end of the axis which is next the car, proceeds a shaft of steel,
 
-      connecting the screw with the pinion of a piece of spring
+      connecting the screw with the pinion of a piece of [[Spring|spring]]
 
-      machinery fixed in the car. By the operation of this spring, the
+      machinery fixed in the car. By the operation of this [[Spring|spring]], the
 
       screw is made to revolve with great rapidity, communicating a
 
       progressive motion to the whole. By means of the rudder, the
 
-      machine was readily turned in any direction. The spring was of
+      [[Machine|machine]] was readily turned in any direction. The [[Spring|spring]] was of
 
       great power, compared with its dimensions, being capable of
 
@@ -253,19 +253,19 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       one foot. Its weight was about two ounces. It could be turned
 
-      _flat_, and directed upwards or downwards, as well as to the
+      _flat_, and directed upwards or downwards, as [[Well|well]] as to the
 
       right or left; and thus enabled the æronaut to transfer the
 
       resistance of the air which in an inclined position it must
 
-      generate in its passage, to any side upon which he might desire
+      generate in its passage, to any side upon which he might [[Desire|desire]]
 
       to act; thus determining the balloon in the opposite direction.
 
 
 
-      “This model (which, through want of time, we have necessarily
+      “This model (which, through want of [[Time|time]], we have necessarily
 
       described in an imperfect manner,) was put in action at the
 
@@ -273,7 +273,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       per hour; although, strange to say, it excited very little
 
-      interest in comparison with the previous complex machine of Mr.
+      interest in comparison with the previous complex [[Machine|machine]] of Mr.
 
       Henson—so resolute is the world to despise anything which carries
 
@@ -287,31 +287,31 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
 
 
-      “So well satisfied, however, was Mr. Mason of the ultimate
+      “So [[Well|well]] satisfied, however, was Mr. Mason of the ultimate
 
-      success of his invention, that he determined to construct
+      [[success]] of his invention, that he determined to construct
 
       immediately, if possible, a balloon of sufficient capacity to
 
       test the question by a voyage of some extent—the original design
 
-      being to cross the British Channel, as before, in the Nassau
+      being to [[Cross|cross]] the British Channel, as before, in the Nassau
 
       balloon. To carry out his views, he solicited and obtained the
 
       patronage of Sir Everard Bringhurst and Mr. Osborne, two
 
-      gentlemen well known for scientific acquirement, and especially
+      gentlemen [[Well|well]] known for scientific acquirement, and especially
 
       for the interest they have exhibited in the progress of
 
-      ærostation. The project, at the desire of Mr. Osborne, was kept a
+      ærostation. The project, at the [[Desire|desire]] of Mr. Osborne, was kept a
 
       profound secret from the public—the only persons entrusted with
 
       the design being those actually engaged in the construction of
 
-      the machine, which was built (under the superintendence of Mr.
+      the [[Machine|machine]], which was built (under the superintendence of Mr.
 
       Mason, Mr. Holland, Sir Everard Bringhurst, and Mr. Osborne,) at
 
@@ -341,7 +341,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       more expensive and inconvenient hydrogen, the supporting power of
 
-      the machine, when fully inflated, and immediately after
+      the [[Machine|machine]], when fully inflated, and immediately after
 
       inflation, is not more than about 2500 pounds. The coal gas is
 
@@ -387,11 +387,11 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       telescopes, barrels containing provision for a fortnight,
 
-      water-casks, cloaks, carpet-bags, and various other indispensable
+      [[Water|water]]-casks, cloaks, carpet-bags, and various other indispensable
 
       matters, including a coffee-warmer, contrived for warming coffee
 
-      by means of slack-lime, so as to dispense altogether with fire,
+      by means of slack-lime, so as to dispense altogether with [[Fire|fire]],
 
       if it should be judged prudent to do so. All these articles, with
 
@@ -403,7 +403,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       light wicker, and is wonderfully strong, for so frail looking a
 
-      machine. Its rim is about four feet deep. The rudder is also very
+      [[Machine|machine]]. Its rim is about four feet deep. The rudder is also very
 
       much larger, in proportion, than that of the model; and the screw
 
@@ -429,11 +429,11 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       extent, even, of several hundred pounds; ballast has then to be
 
-      thrown out, or the machine may descend. This ballast being
+      thrown out, or the [[Machine|machine]] may descend. This ballast being
 
       discarded, and a clear sunshine evaporating the dew, and at the
 
-      same time expanding the gas in the silk, the whole will again
+      same [[Time|time]] expanding the gas in the silk, the whole will again
 
       rapidly ascend. To check this ascent, the only recourse is, (or
 
@@ -461,7 +461,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       example, there should be a deposition of moisture upon the silk,
 
-      and the machine begins to descend in consequence, there will be
+      and the [[Machine|machine]] begins to descend in consequence, there will be
 
       no necessity for discharging ballast to remedy the increase of
 
@@ -481,11 +481,11 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       resources, either in gas or ballast, remain comparatively
 
-      unimpaired. When passing over an expanse of water, it becomes
+      unimpaired. When passing over an expanse of [[Water|water]], it becomes
 
       necessary to employ small kegs of copper or wood, filled with
 
-      liquid ballast of a lighter nature than water. These float, and
+      liquid ballast of a lighter [[Nature|nature]] than [[Water|water]]. These float, and
 
       serve all the purposes of a mere rope on land. Another most
 
@@ -503,7 +503,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       In the same way, the angle formed by the rope with the vertical
 
-      axis of the machine, indicates the _velocity_. When there is _no_
+      axis of the [[Machine|machine]], indicates the _velocity_. When there is _no_
 
       angle—in other words, when the rope hangs perpendicularly, the
 
@@ -515,13 +515,13 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
 
 
-      “As the original design was to cross the British Channel, and
+      “As the original design was to [[Cross|cross]] the British Channel, and
 
-      alight as near Paris as possible, the voyagers had taken the
+      alight as near [[Paris]] as possible, the voyagers had taken the
 
       precaution to prepare themselves with passports directed to all
 
-      parts of the Continent, specifying the nature of the expedition,
+      parts of the Continent, specifying the [[Nature|nature]] of the expedition,
 
       as in the case of the Nassau voyage, and entitling the
 
@@ -533,9 +533,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       “The inflation was commenced very quietly at daybreak, on
 
-      Saturday morning, the 6th instant, in the Court-Yard of Weal-Vor
+      Saturday morning, the 6th instant, in the [[Court]]-Yard of Weal-Vor
 
-      House, Mr. Osborne’s seat, about a mile from Penstruthal, in
+      [[house|House]], Mr. Osborne’s seat, about a mile from Penstruthal, in
 
       North Wales; and at 7 minutes past 11, every thing being ready
 
@@ -547,7 +547,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       now with the journal, as transcribed by Mr. Forsyth from the
 
-      joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The body of the
+      joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The [[Body|body]] of the
 
       journal, as given, is in the hand-writing of Mr. Mason, and a P.
 
@@ -555,7 +555,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       preparation, and will shortly give the public a more minute, and
 
-      no doubt, a thrillingly interesting account of the voyage.
+      no [[Doubt|doubt]], a thrillingly interesting account of the voyage.
 
 
 
@@ -565,15 +565,15 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       “_Saturday, April the 6th_.—Every preparation likely to embarrass
 
-      us, having been made over night, we commenced the inflation this
+      us, having been made over [[Night|night]], we commenced the inflation this
 
       morning at daybreak; but owing to a thick fog, which encumbered
 
       the folds of the silk and rendered it unmanageable, we did not
 
-      get through before nearly eleven o’clock. Cut loose, then, in
+      get through before nearly eleven o’[[Clock|clock]]. Cut loose, then, in
 
-      high spirits, and rose gently but steadily, with a light breeze
+      high spirits, and [[Rose|rose]] gently but steadily, with a light breeze
 
       at North, which bore us in the direction of the British Channel.
 
@@ -599,7 +599,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       romantic one when seen from any point,—was now especially
 
-      sublime. The numerous deep gorges presented the appearance of
+      [[Sublime|sublime]]. The numerous deep gorges presented the appearance of
 
       lakes, on account of the dense vapors with which they were
 
@@ -607,9 +607,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       inextricable confusion, resembling nothing so much as the giant
 
-      cities of eastern fable. We were rapidly approaching the
+      cities of eastern [[Fable|fable]]. We were rapidly approaching the
 
-      mountains in the South; but our elevation was more than
+      [[Mountains|mountains]] in the South; but our elevation was more than
 
       sufficient to enable us to pass them in safety. In a few minutes
 
@@ -631,7 +631,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       resolved to let off enough gas to bring our guide-rope, with the
 
-      buoys affixed, into the water. This was immediately done, and we
+      buoys affixed, into the [[Water|water]]. This was immediately done, and we
 
       commenced a gradual descent. In about twenty minutes our first
 
@@ -643,13 +643,13 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       into requisition forthwith, for the purpose of altering our
 
-      direction more to the eastward, and in a line for Paris. By means
+      direction more to the eastward, and in a line for [[Paris]]. By means
 
       of the rudder we instantly effected the necessary change of
 
       direction, and our course was brought nearly at right angles to
 
-      that of the wind; when we set in motion the spring of the screw,
+      that of the [[Wind|wind]]; when we set in motion the [[Spring|spring]] of the screw,
 
       and were rejoiced to find it propel us readily as desired. Upon
 
@@ -663,7 +663,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       discouraged us in no little degree. The steel rod connecting the
 
-      spring with the propeller was suddenly jerked out of place, at
+      [[Spring|spring]] with the propeller was suddenly jerked out of place, at
 
       the car end, (by a swaying of the car through some movement of
 
@@ -675,7 +675,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       completely absorbed, we became involved in a strong current of
 
-      wind from the East, which bore us, with rapidly increasing force,
+      [[Wind|wind]] from the East, which bore us, with rapidly increasing force,
 
       towards the Atlantic. We soon found ourselves driving out to sea
 
@@ -683,7 +683,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       hour, so that we came up with Cape Clear, at some forty miles to
 
-      our North, before we had secured the rod, and had time to think
+      our North, before we had secured the rod, and had [[Time|time]] to think
 
       what we were about. It was now that Mr. Ainsworth made an
 
@@ -693,9 +693,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       Holland—viz.: that we should take advantage of the strong gale
 
-      which bore us on, and in place of beating back to Paris, make an
+      which bore us on, and in place of beating back to [[Paris]], make an
 
-      attempt to reach the coast of North America. After slight
+      attempt to reach the coast of North [[America]]. After slight
 
       reflection I gave a willing assent to this bold proposition,
 
@@ -723,7 +723,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       streamer from a vessel. It is needless to say that a very short
 
-      time sufficed us to lose sight of the coast. We passed over
+      [[Time|time]] sufficed us to lose sight of the coast. We passed over
 
       innumerable vessels of all kinds, a few of which were endeavoring
 
@@ -735,7 +735,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       influence of a dram of Geneva, seemed resolved to give all
 
-      scruple, or fear, to the wind. Many of the vessels fired signal
+      scruple, or [[Fear|fear]], to the [[Wind|wind]]. Many of the vessels fired signal
 
       guns; and in all we were saluted with loud cheers (which we heard
 
@@ -743,7 +743,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       handkerchiefs. We kept on in this manner throughout the day, with
 
-      no material incident, and, as the shades of night closed around
+      no material incident, and, as the shades of [[Night|night]] closed around
 
       us, we made a rough estimate of the distance traversed. It could
 
@@ -751,21 +751,21 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       more. The propeller was kept in constant operation, and, no
 
-      doubt, aided our progress materially. As the sun went down, the
+      [[Doubt|doubt]], aided our progress materially. As the sun went down, the
 
       gale freshened into an absolute hurricane, and the ocean beneath
 
-      was clearly visible on account of its phosphorescence. The wind
+      was clearly visible on account of its phosphorescence. The [[Wind|wind]]
 
-      was from the East all night, and gave us the brightest omen of
+      was from the East all [[Night|night]], and gave us the brightest omen of
 
-      success. We suffered no little from cold, and the dampness of the
+      [[success]]. We suffered no little from cold, and the dampness of the
 
       atmosphere was most unpleasant; but the ample space in the car
 
       enabled us to lie down, and by means of cloaks and a few
 
-      blankets, we did sufficiently well.
+      blankets, we did sufficiently [[Well|well]].
 
 
 
@@ -777,11 +777,11 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       adventure such as this. May God grant that we succeed! I ask not
 
-      success for mere safety to my insignificant person, but for the
+      [[success]] for mere safety to my insignificant person, but for the
 
       sake of human knowledge and—for the vastness of the triumph. And
 
-      yet the feat is only so evidently feasible that the sole wonder
+      yet the feat is only so evidently feasible that the sole [[Wonder|wonder]]
 
       is why men have scrupled to attempt it before. One single gale
 
@@ -793,7 +793,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       coast. In view of such a gale the broad Atlantic becomes a mere
 
-      lake. I am more struck, just now, with the supreme silence which
+      lake. I am more struck, just now, with the supreme [[Silence|silence]] which
 
       reigns in the sea beneath us, notwithstanding its agitation, than
 
@@ -805,7 +805,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       of innumerable dumb gigantic fiends struggling in impotent agony.
 
-      In a night such as is this to me, a man _lives_—lives a whole
+      In a [[Night|night]] such as is this to me, a man _lives_—lives a whole
 
       century of ordinary life—nor would I forego this rapturous
 
@@ -831,13 +831,13 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       the teeth of a gale) as no longer problematical. We could not
 
-      have made head against the strong wind of yesterday; but, by
+      have made head against the strong [[Wind|wind]] of yesterday; but, by
 
       ascending, we might have got out of its influence, if requisite.
 
       Against a pretty stiff breeze, I feel convinced, we can make our
 
-      way with the propeller. At noon, to-day, ascended to an elevation
+      way with the propeller. At [[Noon|noon]], to-day, ascended to an elevation
 
       of nearly 25,000 feet, by discharging ballast. Did this to search
 
@@ -847,7 +847,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       small pond, even should the voyage last three weeks. I have not
 
-      the slightest fear for the result. The difficulty has been
+      the slightest [[Fear|fear]] for the result. The difficulty has been
 
       strangely exaggerated and misapprehended. I can choose my
 
@@ -855,7 +855,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       very tolerable headway with the propeller. We have had no
 
-      incidents worth recording. The night promises fair.
+      incidents worth recording. The [[Night|night]] promises fair.
 
 
 
@@ -881,7 +881,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       feat after all. _Omne ignotum pro magnifico. Mem:_ at 25,000 feet
 
-      elevation the sky appears nearly black, and the stars are
+      elevation the sky appears nearly black, and the [[Stars|stars]] are
 
       distinctly visible; while the sea does not seem convex (as one
 
@@ -895,11 +895,11 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       some little trouble with the rod of the propeller, which must be
 
-      entirely remodelled, for fear of serious accident—I mean the
+      entirely remodelled, for [[Fear|fear]] of serious accident—I mean the
 
       steel rod—not the vanes. The latter could not be improved. The
 
-      wind has been blowing steadily and strongly from the north-east
+      [[Wind|wind]] has been blowing steadily and strongly from the north-east
 
       all day and so far fortune seems bent upon favoring us. Just
 
@@ -907,7 +907,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       concussions in the balloon, accompanied with the apparent rapid
 
-      subsidence of the whole machine. These phenomena were occasioned
+      subsidence of the whole [[Machine|machine]]. These phenomena were occasioned
 
       by the expansion of the gas, through increase of heat in the
 
@@ -915,15 +915,15 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       of ice with which the network had become encrusted during the
 
-      night. Threw down several bottles to the vessels below. Saw one
+      [[Night|night]]. Threw down several bottles to the vessels below. Saw one
 
-      of them picked up by a large ship—seemingly one of the New York
+      of them picked up by a large [[Ship|ship]]—seemingly one of the [[New York]]
 
       line packets. Endeavored to make out her name, but could not be
 
       sure of it. Mr. Osborne’s telescope made it out something like
 
-      “Atalanta.” It is now 12, at night, and we are still going nearly
+      “Atalanta.” It is now 12, at [[Night|night]], and we are still going nearly
 
       west, at a rapid pace. The sea is peculiarly phosphorescent.
 
@@ -931,7 +931,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       “P.S. [By Mr. Ainsworth.] It is now 2, A.M., and nearly calm, as
 
-      well as I can judge—but it is very difficult to determine this
+      [[Well|well]] as I can judge—but it is very difficult to determine this
 
       point, since we move _with_ the air so completely. I have not
 
@@ -983,7 +983,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       counting from shore to shore. No serious accident occurred. No
 
-      real danger was at any time apprehended. The balloon was
+      real danger was at any [[Time|time]] apprehended. The balloon was
 
       exhausted and secured without trouble; and when the MS. from
 

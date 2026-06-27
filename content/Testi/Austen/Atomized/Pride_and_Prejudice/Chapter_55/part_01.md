@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 55 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 55 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -19,15 +19,15 @@ CHAPTER LV.
 
 [Illustration]
 
-A few days after this visit, Mr. Bingley called again, and alone. His
-friend had left him that morning for London, but was to return home in
-ten days’ time. He sat with them above an hour, and was in remarkably
+A few days after this visit, Mr. Bingley called again, and [[Alone|alone]]. His
+friend had left him that morning for [[London]], but was to return [[Home|home]] in
+ten days’ [[Time|time]]. He sat with them above an hour, and was in remarkably
 good spirits. Mrs. Bennet invited him to dine with them; but, with many
 expressions of concern, he confessed himself engaged elsewhere.
 
-“Next time you call,” said she, “I hope we shall be more lucky.”
+“Next [[Time|time]] you call,” said she, “I [[Hope|hope]] we shall be more lucky.”
 
-He should be particularly happy at any time, etc., etc.; and if she
+He should be particularly happy at any [[Time|time]], etc., etc.; and if she
 would give him leave, would take an early opportunity of waiting on
 them.
 
@@ -36,7 +36,7 @@ them.
 Yes, he had no engagement at all for to-morrow; and her invitation was
 accepted with alacrity.
 
-He came, and in such very good time, that the ladies were none of them
+He came, and in such very good [[Time|time]], that the ladies were none of them
 dressed. In ran Mrs. Bennet to her daughters’ room, in her
 dressing-gown, and with her hair half finished, crying out,--
 
@@ -58,16 +58,16 @@ The same anxiety to get them by themselves was visible again in the
 evening. After tea, Mr. Bennet retired to the library, as was his
 custom, and Mary went upstairs to her instrument. Two obstacles of the
 five being thus removed, Mrs. Bennet sat looking and winking at
-Elizabeth and Catherine for a considerable time, without making any
+Elizabeth and Catherine for a considerable [[Time|time]], without making any
 impression on them. Elizabeth would not observe her; and when at last
 Kitty did, she very innocently said, “What is the matter, mamma? What do
 you keep winking at me for? What am I to do?”
 
-“Nothing, child, nothing. I did not wink at you.” She then sat still
+“Nothing, [[Child|child]], nothing. I did not wink at you.” She then sat still
 five minutes longer; but unable to waste such a precious occasion, she
 suddenly got up, and saying to Kitty,--
 
-“Come here, my love, I want to speak to you,” took her out of the room.
+“Come here, my [[Love|love]], I want to speak to you,” took her out of the room.
 Jane instantly gave a look at Elizabeth which spoke her distress at such
 premeditation, and her entreaty that _she_ would not give in to it. In a
 few minutes, Mrs. Bennet half opened the door and called out,--
@@ -76,7 +76,7 @@ few minutes, Mrs. Bennet half opened the door and called out,--
 
 Elizabeth was forced to go.
 
-“We may as well leave them by themselves, you know,” said her mother as
+“We may as [[Well|well]] leave them by themselves, you know,” said her mother as
 soon as she was in the hall. “Kitty and I are going upstairs to sit in
 my dressing-room.”
 
@@ -85,7 +85,7 @@ quietly in the hall till she and Kitty were out of sight, then returned
 into the drawing-room.
 
 Mrs. Bennet’s schemes for this day were ineffectual. Bingley was
-everything that was charming, except the professed lover of her
+everything that was charming, except the professed [[Lover|lover]] of her
 daughter. His ease and cheerfulness rendered him a most agreeable
 addition to their evening party; and he bore with the ill-judged
 officiousness of the mother, and heard all her silly remarks with a
@@ -99,7 +99,7 @@ means, for his coming next morning to shoot with her husband.
 After this day, Jane said no more of her indifference. Not a word passed
 between the sisters concerning Bingley; but Elizabeth went to bed in the
 happy belief that all must speedily be concluded, unless Mr. Darcy
-returned within the stated time. Seriously, however, she felt tolerably
+returned within the stated [[Time|time]]. Seriously, however, she felt tolerably
 persuaded that all this must have taken place with that gentleman’s
 concurrence.
 
@@ -107,7 +107,7 @@ Bingley was punctual to his appointment; and he and Mr. Bennet spent the
 morning together, as had been agreed on. The latter was much more
 agreeable than his companion expected. There was nothing of presumption
 or folly in Bingley that could provoke his ridicule, or disgust him into
-silence; and he was more communicative, and less eccentric, than the
+[[Silence|silence]]; and he was more communicative, and less eccentric, than the
 other had ever seen him. Bingley of course returned with him to dinner;
 and in the evening Mrs. Bennet’s invention was again at work to get
 everybody away from him and her daughter. Elizabeth, who had a letter to
@@ -116,7 +116,7 @@ as the others were all going to sit down to cards, she could not be
 wanted to counteract her mother’s schemes.
 
 But on her returning to the drawing-room, when her letter was finished,
-she saw, to her infinite surprise, there was reason to fear that her
+she saw, to her infinite surprise, there was reason to [[Fear|fear]] that her
 mother had been too ingenious for her. On opening the door, she
 perceived her sister and Bingley standing together over the hearth, as
 if engaged in earnest conversation; and had this led to no suspicion,
@@ -124,7 +124,7 @@ the faces of both, as they hastily turned round and moved away from each
 other, would have told it all. _Their_ situation was awkward enough; but
 _hers_ she thought was still worse. Not a syllable was uttered by
 either; and Elizabeth was on the point of going away again, when
-Bingley, who as well as the other had sat down, suddenly rose, and,
+Bingley, who as [[Well|well]] as the other had sat down, suddenly [[Rose|rose]], and,
 whispering a few words to her sister, ran out of the room.
 
 Jane could have no reserves from Elizabeth, where confidence would give

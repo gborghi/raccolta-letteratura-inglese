@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 30"
+title: "[[Sense and Sensibility]] — Chapter 30"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -34,7 +34,7 @@ Marianne, who turned away her face without attempting to answer.
 
 
 
-“How is she, Miss Dashwood? Poor thing! she looks very bad. No wonder.
+“How is she, Miss Dashwood? Poor thing! she looks very bad. No [[Wonder|wonder]].
 
 Ay, it is but too true. He is to be married very soon—a
 
@@ -44,11 +44,11 @@ me of it half an hour ago, and she was told it by a particular friend
 
 of Miss Grey herself, else I am sure I should not have believed it; and
 
-I was almost ready to sink as it was. Well, said I, all I can say is,
+I was almost ready to sink as it was. [[Well]], said I, all I can say is,
 
 that if this be true, he has used a young lady of my acquaintance
 
-abominably ill, and I wish with all my soul his wife may plague his
+abominably ill, and I wish with all my [[Soul|soul]] his wife may plague his
 
 heart out. And so I shall always say, my dear, you may depend on it. I
 
@@ -60,7 +60,7 @@ day. But there is one comfort, my dear Miss Marianne; he is not the
 
 only young man in the world worth having; and with your pretty face you
 
-will never want admirers. Well, poor thing! I won’t disturb her any
+will never want admirers. [[Well]], poor thing! I won’t disturb her any
 
 longer, for she had better have her cry out at once and have done with.
 
@@ -80,13 +80,13 @@ Marianne, to the surprise of her sister, determined on dining with
 
 them. Elinor even advised her against it. But “no, she would go down;
 
-she could bear it very well, and the bustle about her would be less.”
+she could bear it very [[Well|well]], and the bustle about her would be less.”
 
 Elinor, pleased to have her governed for a moment by such a motive,
 
 though believing it hardly possible that she could sit out the dinner,
 
-said no more; and adjusting her dress for her as well as she could,
+said no more; and adjusting her dress for her as [[Well|well]] as she could,
 
 while Marianne still remained on the bed, was ready to assist her into
 
@@ -98,7 +98,7 @@ When there, though looking most wretchedly, she ate more and was calmer
 
 than her sister had expected. Had she tried to speak, or had she been
 
-conscious of half Mrs. Jennings’s well-meant but ill-judged attentions
+conscious of half Mrs. Jennings’s [[Well|well]]-meant but ill-judged attentions
 
 to her, this calmness could not have been maintained; but not a
 
@@ -120,11 +120,11 @@ Marianne was unhappy, and felt that every thing was due to her which
 
 might make her at all less so. She treated her therefore, with all the
 
-indulgent fondness of a parent towards a favourite child on the last
+indulgent fondness of a parent towards a favourite [[Child|child]] on the last
 
-day of its holidays. Marianne was to have the best place by the fire,
+day of its holidays. Marianne was to have the best place by the [[Fire|fire]],
 
-was to be tempted to eat by every delicacy in the house, and to be
+was to be tempted to eat by every delicacy in the [[house]], and to be
 
 amused by the relation of all the news of the day. Had not Elinor, in
 
@@ -132,9 +132,9 @@ the sad countenance of her sister, seen a check to all mirth, she could
 
 have been entertained by Mrs. Jennings’s endeavours to cure a
 
-disappointment in love, by a variety of sweetmeats and olives, and a
+disappointment in [[Love|love]], by a variety of sweetmeats and olives, and a
 
-good fire. As soon, however, as the consciousness of all this was
+good [[Fire|fire]]. As soon, however, as the consciousness of all this was
 
 forced by continual repetition on Marianne, she could stay no longer.
 
@@ -144,7 +144,7 @@ follow her, she directly got up and hurried out of the room.
 
 
 
-“Poor soul!” cried Mrs. Jennings, as soon as she was gone, “how it
+“Poor [[Soul|soul]]!” cried Mrs. Jennings, as soon as she was gone, “how it
 
 grieves me to see her! And I declare if she is not gone away without
 
@@ -152,7 +152,7 @@ finishing her wine! And the dried cherries too! Lord! nothing seems to
 
 do her any good. I am sure if I knew of any thing she would like, I
 
-would send all over the town for it. Well, it is the oddest thing to
+would send all over the town for it. [[Well]], it is the oddest thing to
 
 me, that a man should use such a pretty girl so ill! But when there is
 
@@ -168,25 +168,25 @@ you! they care no more about such things!—”
 
 “Fifty thousand pounds, my dear. Did you ever see her? a smart, stylish
 
-girl they say, but not handsome. I remember her aunt very well, Biddy
+girl they say, but not handsome. I remember her aunt very [[Well|well]], [[Biddy]]
 
 Henshawe; she married a very wealthy man. But the family are all rich
 
 together. Fifty thousand pounds! and by all accounts, it won’t come
 
-before it’s wanted; for they say he is all to pieces. No wonder!
+before it’s wanted; for they say he is all to pieces. No [[Wonder|wonder]]!
 
-dashing about with his curricle and hunters! Well, it don’t signify
+dashing about with his curricle and hunters! [[Well]], it don’t signify
 
-talking; but when a young man, be who he will, comes and makes love to
+talking; but when a young man, be who he will, comes and makes [[Love|love]] to
 
-a pretty girl, and promises marriage, he has no business to fly off
+a pretty girl, and promises [[Marriage|marriage]], he has no business to fly off
 
 from his word only because he grows poor, and a richer girl is ready to
 
-have him. Why don’t he, in such a case, sell his horses, let his house,
+have him. Why don’t he, in such a case, sell his horses, let his [[house]],
 
-turn off his servants, and make a thorough reform at once? I warrant
+turn off his servants, and make a thorough [[Reform|reform]] at once? I warrant
 
 you, Miss Marianne would have been ready to wait till matters came
 
@@ -226,7 +226,7 @@ moment—“your poor sister is gone to her own room, I suppose, to moan by
 
 herself. Is there nothing one can get to comfort her? Poor dear, it
 
-seems quite cruel to let her be alone. Well, by-and-by we shall have a
+seems quite cruel to let her be [[Alone|alone]]. [[Well]], by-and-by we shall have a
 
 few friends, and that will amuse her a little. What shall we play at?
 
@@ -244,25 +244,25 @@ can to go early to bed, for I am sure she wants rest.”
 
 “Aye, I believe that will be best for her. Let her name her own supper,
 
-and go to bed. Lord! no wonder she has been looking so bad and so cast
+and go to bed. Lord! no [[Wonder|wonder]] she has been looking so bad and so cast
 
 down this last week or two, for this matter I suppose has been hanging
 
 over her head as long as that. And so the letter that came today
 
-finished it! Poor soul! I am sure if I had had a notion of it, I would
+finished it! Poor [[Soul|soul]]! I am sure if I had had a notion of it, I would
 
 not have joked her about it for all my money. But then you know, how
 
 should I guess such a thing? I made sure of its being nothing but a
 
-common love letter, and you know young people like to be laughed at
+common [[Love|love]] letter, and you know young people like to be laughed at
 
 about them. Lord! how concerned Sir John and my daughters will be when
 
 they hear it! If I had my senses about me I might have called in
 
-Conduit Street in my way home, and told them of it. But I shall see
+Conduit Street in my way [[Home|home]], and told them of it. But I shall see
 
 them tomorrow.”
 
@@ -272,7 +272,7 @@ them tomorrow.”
 
 Sir John against ever naming Mr. Willoughby, or making the slightest
 
-allusion to what has passed, before my sister. Their own good-nature
+allusion to what has passed, before my sister. Their own good-[[Nature|nature]]
 
 must point out to them the real cruelty of appearing to know any thing
 
@@ -288,7 +288,7 @@ dear madam will easily believe.”
 
 it talked of; and as for your sister, I am sure I would not mention a
 
-word about it to her for the world. You saw I did not all dinner time.
+word about it to her for the world. You saw I did not all dinner [[Time|time]].
 
 No more would Sir John, nor my daughters, for they are all very
 
@@ -316,7 +316,7 @@ broken no positive engagement with my sister.”
 
 “Law, my dear! Don’t pretend to defend him. No positive engagement
 
-indeed! after taking her all over Allenham House, and fixing on the
+indeed! after taking her all over Allenham [[house|House]], and fixing on the
 
 very rooms they were to live in hereafter!”
 
@@ -328,23 +328,23 @@ she hoped it was not required of her for Willoughby’s; since, though
 
 Marianne might lose much, he could gain very little by the enforcement
 
-of the real truth. After a short silence on both sides, Mrs. Jennings,
+of the real [[Truth|truth]]. After a short [[Silence|silence]] on both sides, Mrs. Jennings,
 
 with all her natural hilarity, burst forth again.
 
 
 
-“Well, my dear, ’tis a true saying about an ill-wind, for it will be
+“[[Well]], my dear, ’tis a true saying about an ill-[[Wind|wind]], for it will be
 
-all the better for Colonel Brandon. He will have her at last; aye, that
+all the better for [[Colonel Brandon]]. He will have her at last; aye, that
 
-he will. Mind me, now, if they an’t married by Mid-summer. Lord! how
+he will. Mind me, now, if they an’t married by Mid-[[Summer|summer]]. Lord! how
 
-he’ll chuckle over this news! I hope he will come tonight. It will be
+he’ll chuckle over this news! I [[Hope|hope]] he will come tonight. It will be
 
 all to one a better match for your sister. Two thousand a year without
 
-debt or drawback—except the little love-child, indeed; aye, I had
+debt or drawback—except the little [[Love|love]]-[[Child|child]], indeed; aye, I had
 
 forgot her; but she may be ’prenticed out at a small cost, and then
 
@@ -352,11 +352,11 @@ what does it signify? Delaford is a nice place, I can tell you; exactly
 
 what I call a nice old fashioned place, full of comforts and
 
-conveniences; quite shut in with great garden walls that are covered
+conveniences; quite shut in with great [[Garden|garden]] walls that are covered
 
 with the best fruit-trees in the country; and such a mulberry tree in
 
-one corner! Lord! how Charlotte and I did stuff the only time we were
+one corner! Lord! how Charlotte and I did stuff the only [[Time|time]] we were
 
 there! Then, there is a dove-cote, some delightful stew-ponds, and a
 
@@ -364,19 +364,19 @@ very pretty canal; and every thing, in short, that one could wish for;
 
 and, moreover, it is close to the church, and only a quarter of a mile
 
-from the turnpike-road, so ’tis never dull, for if you only go and sit
+from the turnpike-[[Road|road]], so ’tis never dull, for if you only go and sit
 
-up in an old yew arbour behind the house, you may see all the carriages
+up in an old yew arbour behind the [[house]], you may see all the carriages
 
 that pass along. Oh! ’tis a nice place! A butcher hard by in the
 
-village, and the parsonage-house within a stone’s throw. To my fancy, a
+village, and the parsonage-[[house]] within a stone’s throw. To my fancy, a
 
 thousand times prettier than Barton Park, where they are forced to send
 
 three miles for their meat, and have not a neighbour nearer than your
 
-mother. Well, I shall spirit up the Colonel as soon as I can. One
+mother. [[Well]], I shall spirit up the Colonel as soon as I can. One
 
 shoulder of mutton, you know, drives another down. If we _can_ but put
 
@@ -384,13 +384,13 @@ Willoughby out of her head!”
 
 
 
-“Ay, if we can do _that_, Ma’am,” said Elinor, “we shall do very well
+“Ay, if we can do _that_, Ma’am,” said Elinor, “we shall do very [[Well|well]]
 
-with or without Colonel Brandon.” And then rising, she went away to
+with or without [[Colonel Brandon]].” And then rising, she went away to
 
 join Marianne, whom she found, as she expected, in her own room,
 
-leaning, in silent misery, over the small remains of a fire, which,
+leaning, in silent misery, over the small remains of a [[Fire|fire]], which,
 
 till Elinor’s entrance, had been her only light.
 
@@ -404,9 +404,9 @@ from her.
 
 “I will leave you,” said Elinor, “if you will go to bed.” But this,
 
-from the momentary perverseness of impatient suffering, she at first
+from the momentary perverseness of impatient [[Suffering|suffering]], she at first
 
-refused to do. Her sister’s earnest, though gentle persuasion, however,
+refused to do. Her sister’s earnest, though gentle [[Persuasion|persuasion]], however,
 
 soon softened her to compliance, and Elinor saw her lay her aching head
 
@@ -424,7 +424,7 @@ Mrs. Jennings, with a wine-glass, full of something, in her hand.
 
 “My dear,” said she, entering, “I have just recollected that I have
 
-some of the finest old Constantia wine in the house that ever was
+some of the finest old Constantia wine in the [[house]] that ever was
 
 tasted, so I have brought a glass of it for your sister. My poor
 
@@ -440,7 +440,7 @@ world. Do take it to your sister.”
 
 complaints for which it was recommended, “how good you are! But I have
 
-just left Marianne in bed, and, I hope, almost asleep; and as I think
+just left Marianne in bed, and, I [[Hope|hope]], almost asleep; and as I think
 
 nothing will be of so much service to her as rest, if you will give me
 
@@ -462,7 +462,7 @@ as on her sister.
 
 
 
-Colonel Brandon came in while the party were at tea, and by his manner
+[[Colonel Brandon]] came in while the party were at tea, and by his manner
 
 of looking round the room for Marianne, Elinor immediately fancied that
 
@@ -474,7 +474,7 @@ struck by the same thought; for soon after his entrance, she walked
 
 across the room to the tea-table where Elinor presided, and whispered,
 
-“The Colonel looks as grave as ever you see. He knows nothing of it; do
+“The Colonel looks as [[Grave|grave]] as ever you see. He knows nothing of it; do
 
 tell him, my dear.”
 
@@ -488,7 +488,7 @@ sister.
 
 
 
-“Marianne is not well,” said she. “She has been indisposed all day, and
+“Marianne is not [[Well|well]],” said she. “She has been indisposed all day, and
 
 we have persuaded her to go to bed.”
 
@@ -496,7 +496,7 @@ we have persuaded her to go to bed.”
 
 “Perhaps, then,” he hesitatingly replied, “what I heard this morning
 
-may be—there may be more truth in it than I could believe possible at
+may be—there may be more [[Truth|truth]] in it than I could believe possible at
 
 first.”
 
@@ -516,7 +516,7 @@ already, as surely you must, I may be spared.”
 
 “You mean,” answered Elinor, with forced calmness, “Mr. Willoughby’s
 
-marriage with Miss Grey. Yes, we _do_ know it all. This seems to have
+[[Marriage|marriage]] with Miss Grey. Yes, we _do_ know it all. This seems to have
 
 been a day of general elucidation, for this very morning first unfolded
 
@@ -532,11 +532,11 @@ an account of the intended match, in a voice so little attempting
 
 concealment, that it was impossible for me not to hear all. The name of
 
-Willoughby, John Willoughby, frequently repeated, first caught my
+Willoughby, [[John Willoughby]], frequently repeated, first caught my
 
 attention; and what followed was a positive assertion that every thing
 
-was now finally settled respecting his marriage with Miss Grey—it was
+was now finally settled respecting his [[Marriage|marriage]] with Miss Grey—it was
 
 no longer to be a secret—it would take place even within a few weeks,
 
@@ -572,7 +572,7 @@ your sister—how did she—”
 
 
 
-“Her sufferings have been very severe. I have only to hope that they
+“Her sufferings have been very severe. I have only to [[Hope|hope]] that they
 
 may be proportionately short. It has been, it is a most cruel
 
@@ -586,7 +586,7 @@ points, there seems a hardness of heart about him.”
 
 
 
-“Ah!” said Colonel Brandon, “there is, indeed! But your sister does
+“Ah!” said [[Colonel Brandon]], “there is, indeed! But your sister does
 
 not—I think you said so—she does not consider quite as you do?”
 
@@ -610,6 +610,6 @@ Dashwood’s communication, in such an instantaneous gaiety on Colonel
 
 Brandon’s side, as might have become a man in the bloom of youth, of
 
-hope and happiness, saw him, with amazement, remain the whole evening
+[[Hope|hope]] and happiness, saw him, with amazement, remain the whole evening
 
 more serious and thoughtful than usual.

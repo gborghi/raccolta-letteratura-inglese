@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 18: A RETROSPECT"
+title: "[[David Copperfield]] — Chapter 18: A RETROSPECT"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,13 +18,13 @@ CHAPTER 18. A RETROSPECT
 
 
 My school-days! The silent gliding on of my existence--the unseen,
-unfelt progress of my life--from childhood up to youth! Let me think,
-as I look back upon that flowing water, now a dry channel overgrown with
-leaves, whether there are any marks along its course, by which I can
+unfelt progress of my life--from [[Childhood|childhood]] up to youth! Let me think,
+as I look back upon that flowing [[Water|water]], now a dry channel overgrown with
+[[Leaves|leaves]], whether there are any marks along its course, by which I can
 remember how it ran.
 
-A moment, and I occupy my place in the Cathedral, where we all went
-together, every Sunday morning, assembling first at school for that
+A moment, and I occupy my place in the [[Cathedral]], where we all went
+together, every [[Sunday]] morning, assembling first at school for that
 purpose. The earthy smell, the sunless air, the sensation of the world
 being shut out, the resounding of the organ through the black and white
 arched galleries and aisles, are wings that take me back, and hold me
@@ -32,26 +32,26 @@ hovering above those days, in a half-sleeping and half-waking dream.
 
 I am not the last boy in the school. I have risen in a few months, over
 several heads. But the first boy seems to me a mighty creature, dwelling
-afar off, whose giddy height is unattainable. Agnes says ‘No,’ but I say
+afar off, whose giddy height is [[Unattainable|unattainable]]. Agnes says ‘No,’ but I say
 ‘Yes,’ and tell her that she little thinks what stores of knowledge have
 been mastered by the wonderful Being, at whose place she thinks I, even
-I, weak aspirant, may arrive in time. He is not my private friend
+I, weak aspirant, may arrive in [[Time|time]]. He is not my private friend
 and public patron, as Steerforth was, but I hold him in a reverential
-respect. I chiefly wonder what he’ll be, when he leaves Doctor Strong’s,
+respect. I chiefly [[Wonder|wonder]] what he’ll be, when he [[Leaves|leaves]] Doctor Strong’s,
 and what mankind will do to maintain any place against him.
 
-But who is this that breaks upon me? This is Miss Shepherd, whom I love.
+But who is this that breaks upon me? This is Miss Shepherd, whom I [[Love|love]].
 
 Miss Shepherd is a boarder at the Misses Nettingalls’ establishment. I
 adore Miss Shepherd. She is a little girl, in a spencer, with a round
 face and curly flaxen hair. The Misses Nettingalls’ young ladies come to
-the Cathedral too. I cannot look upon my book, for I must look upon
+the [[Cathedral]] too. I cannot look upon my book, for I must look upon
 Miss Shepherd. When the choristers chaunt, I hear Miss Shepherd. In the
 service I mentally insert Miss Shepherd’s name--I put her in among the
-Royal Family. At home, in my own room, I am sometimes moved to cry out,
-‘Oh, Miss Shepherd!’ in a transport of love.
+Royal Family. At [[Home|home]], in my own room, I am sometimes moved to cry out,
+‘Oh, Miss Shepherd!’ in a transport of [[Love|love]].
 
-For some time, I am doubtful of Miss Shepherd’s feelings, but, at
+For some [[Time|time]], I am doubtful of Miss Shepherd’s feelings, but, at
 length, Fate being propitious, we meet at the dancing-school. I have
 Miss Shepherd for my partner. I touch Miss Shepherd’s glove, and feel a
 thrill go up the right arm of my jacket, and come out at my hair. I say
@@ -59,7 +59,7 @@ nothing to Miss Shepherd, but we understand each other. Miss Shepherd
 and myself live but to be united.
 
 Why do I secretly give Miss Shepherd twelve Brazil nuts for a present, I
-wonder? They are not expressive of affection, they are difficult to pack
+[[Wonder|wonder]]? They are not expressive of affection, they are difficult to pack
 into a parcel of any regular shape, they are hard to crack, even in
 room doors, and they are oily when cracked; yet I feel that they are
 appropriate to Miss Shepherd. Soft, seedy biscuits, also, I bestow upon
@@ -72,7 +72,7 @@ Miss Shepherd being the one pervading theme and vision of my life, how
 do I ever come to break with her? I can’t conceive. And yet a coolness
 grows between Miss Shepherd and myself. Whispers reach me of Miss
 Shepherd having said she wished I wouldn’t stare so, and having avowed a
-preference for Master Jones--for Jones! a boy of no merit whatever! The
+preference for Master [[Jones]]--for [[Jones]]! a boy of no merit whatever! The
 gulf between me and Miss Shepherd widens. At last, one day, I meet the
 Misses Nettingalls’ establishment out walking. Miss Shepherd makes
 a face as she goes by, and laughs to her companion. All is over. The
@@ -83,14 +83,14 @@ know her no more.
 I am higher in the school, and no one breaks my peace. I am not at all
 polite, now, to the Misses Nettingalls’ young ladies, and shouldn’t
 dote on any of them, if they were twice as many and twenty times as
-beautiful. I think the dancing-school a tiresome affair, and wonder why
-the girls can’t dance by themselves and leave us alone. I am growing
+beautiful. I think the dancing-school a tiresome affair, and [[Wonder|wonder]] why
+the girls can’t [[Dance|dance]] by themselves and leave us [[Alone|alone]]. I am growing
 great in Latin verses, and neglect the laces of my boots. Doctor Strong
 refers to me in public as a promising young scholar. Mr. Dick is wild
 with joy, and my aunt remits me a guinea by the next post.
 
 The shade of a young butcher rises, like the apparition of an armed head
-in Macbeth. Who is this young butcher? He is the terror of the youth
+in [[Macbeth]]. Who is this young butcher? He is the terror of the youth
 of Canterbury. There is a vague belief abroad, that the beef suet with
 which he anoints his hair gives him unnatural strength, and that he is
 a match for a man. He is a broad-faced, bull-necked, young butcher, with
@@ -103,8 +103,8 @@ waylays the smaller boys to punch their unprotected heads, and calls
 challenges after me in the open streets. For these sufficient reasons I
 resolve to fight the butcher.
 
-It is a summer evening, down in a green hollow, at the corner of a wall.
-I meet the butcher by appointment. I am attended by a select body of our
+It is a [[Summer|summer]] evening, down in a green hollow, at the corner of a wall.
+I meet the butcher by appointment. I am attended by a select [[Body|body]] of our
 boys; the butcher, by two other butchers, a young publican, and a sweep.
 The preliminaries are adjusted, and the butcher and myself stand face to
 face. In a moment the butcher lights ten thousand candles out of my left
@@ -115,53 +115,53 @@ the trodden grass. Sometimes I see the butcher, bloody but confident;
 sometimes I see nothing, and sit gasping on my second’s knee; sometimes
 I go in at the butcher madly, and cut my knuckles open against his face,
 without appearing to discompose him at all. At last I awake, very queer
-about the head, as from a giddy sleep, and see the butcher walking off,
+about the head, as from a giddy [[Sleep|sleep]], and see the butcher walking off,
 congratulated by the two other butchers and the sweep and publican, and
 putting on his coat as he goes; from which I augur, justly, that the
 victory is his.
 
-I am taken home in a sad plight, and I have beef-steaks put to my eyes,
+I am taken [[Home|home]] in a sad plight, and I have beef-steaks put to my eyes,
 and am rubbed with vinegar and brandy, and find a great puffy place
 bursting out on my upper lip, which swells immoderately. For three or
-four days I remain at home, a very ill-looking subject, with a green
+four days I remain at [[Home|home]], a very ill-looking subject, with a green
 shade over my eyes; and I should be very dull, but that Agnes is a
-sister to me, and condoles with me, and reads to me, and makes the time
+sister to me, and condoles with me, and reads to me, and makes the [[Time|time]]
 light and happy. Agnes has my confidence completely, always; I tell her
 all about the butcher, and the wrongs he has heaped upon me; she thinks
 I couldn’t have done otherwise than fight the butcher, while she shrinks
 and trembles at my having fought him.
 
-Time has stolen on unobserved, for Adams is not the head-boy in the days
+[[Time]] has stolen on unobserved, for Adams is not the head-boy in the days
 that are come now, nor has he been this many and many a day. Adams has
 left the school so long, that when he comes back, on a visit to Doctor
 Strong, there are not many there, besides myself, who know him. Adams is
 going to be called to the bar almost directly, and is to be an advocate,
 and to wear a wig. I am surprised to find him a meeker man than I had
 thought, and less imposing in appearance. He has not staggered the world
-yet, either; for it goes on (as well as I can make out) pretty much the
+yet, either; for it goes on (as [[Well|well]] as I can make out) pretty much the
 same as if he had never joined it.
 
-A blank, through which the warriors of poetry and history march on in
+A blank, through which the warriors of poetry and [[history]] march on in
 stately hosts that seem to have no end--and what comes next! I am
 the head-boy, now! I look down on the line of boys below me, with a
 condescending interest in such of them as bring to my mind the boy I was
 myself, when I first came there. That little fellow seems to be no part
-of me; I remember him as something left behind upon the road of life--as
+of me; I remember him as something left behind upon the [[Road|road]] of life--as
 something I have passed, rather than have actually been--and almost
 think of him as of someone else.
 
 And the little girl I saw on that first day at Mr. Wickfield’s, where
 is she? Gone also. In her stead, the perfect likeness of the picture,
-a child likeness no more, moves about the house; and Agnes--my sweet
+a [[Child|child]] likeness no more, moves about the [[house]]; and Agnes--my sweet
 sister, as I call her in my thoughts, my counsellor and friend, the
 better angel of the lives of all who come within her calm, good,
-self-denying influence--is quite a woman.
+[[Self|self]]-denying influence--is quite a woman.
 
 What other changes have come upon me, besides the changes in my growth
 and looks, and in the knowledge I have garnered all this while? I wear
 a gold watch and chain, a ring upon my little finger, and a long-tailed
 coat; and I use a great deal of bear’s grease--which, taken in
-conjunction with the ring, looks bad. Am I in love again? I am. I
+conjunction with the ring, looks bad. Am I in [[Love|love]] again? I am. I
 worship the eldest Miss Larkins.
 
 The eldest Miss Larkins is not a little girl. She is a tall, dark,
@@ -171,13 +171,13 @@ be three or four years older. Perhaps the eldest Miss Larkins may be
 about thirty. My passion for her is beyond all bounds.
 
 The eldest Miss Larkins knows officers. It is an awful thing to bear. I
-see them speaking to her in the street. I see them cross the way to meet
+see them speaking to her in the street. I see them [[Cross|cross]] the way to meet
 her, when her bonnet (she has a bright taste in bonnets) is seen coming
 down the pavement, accompanied by her sister’s bonnet. She laughs and
-talks, and seems to like it. I spend a good deal of my own spare time in
+talks, and seems to like it. I spend a good deal of my own spare [[Time|time]] in
 walking up and down to meet her. If I can bow to her once in the day (I
 know her to bow to, knowing Mr. Larkins), I am happier. I deserve a bow
-now and then. The raging agonies I suffer on the night of the Race Ball,
+now and then. The raging agonies I suffer on the [[Night|night]] of the Race Ball,
 where I know the eldest Miss Larkins will be dancing with the military,
 ought to have some compensation, if there be even-handed justice in the
 world.
@@ -187,53 +187,53 @@ neckerchief continually. I have no relief but in putting on my best
 clothes, and having my boots cleaned over and over again. I seem, then,
 to be worthier of the eldest Miss Larkins. Everything that belongs to
 her, or is connected with her, is precious to me. Mr. Larkins (a gruff
-old gentleman with a double chin, and one of his eyes immovable in his
+old gentleman with a [[Double|double]] chin, and one of his eyes immovable in his
 head) is fraught with interest to me. When I can’t meet his daughter,
 I go where I am likely to meet him. To say ‘How do you do, Mr. Larkins?
-Are the young ladies and all the family quite well?’ seems so pointed,
+Are the young ladies and all the family quite [[Well|well]]?’ seems so pointed,
 that I blush.
 
 I think continually about my age. Say I am seventeen, and say that
 seventeen is young for the eldest Miss Larkins, what of that? Besides,
-I shall be one-and-twenty in no time almost. I regularly take walks
-outside Mr. Larkins’s house in the evening, though it cuts me to the
+I shall be one-and-twenty in no [[Time|time]] almost. I regularly take walks
+outside Mr. Larkins’s [[house]] in the evening, though it cuts me to the
 heart to see the officers go in, or to hear them up in the drawing-room,
 where the eldest Miss Larkins plays the harp. I even walk, on two or
-three occasions, in a sickly, spoony manner, round and round the house
+three occasions, in a sickly, spoony manner, round and round the [[house]]
 after the family are gone to bed, wondering which is the eldest Miss
 Larkins’s chamber (and pitching, I dare say now, on Mr. Larkins’s
-instead); wishing that a fire would burst out; that the assembled crowd
+instead); wishing that a [[Fire|fire]] would burst out; that the assembled crowd
 would stand appalled; that I, dashing through them with a ladder, might
-rear it against her window, save her in my arms, go back for something
+rear it against her [[Window|window]], save her in my arms, go back for something
 she had left behind, and perish in the flames. For I am generally
-disinterested in my love, and think I could be content to make a figure
+disinterested in my [[Love|love]], and think I could be content to make a figure
 before Miss Larkins, and expire.
 
 Generally, but not always. Sometimes brighter visions rise before me.
 When I dress (the occupation of two hours), for a great ball given at
 the Larkins’s (the anticipation of three weeks), I indulge my fancy with
-pleasing images. I picture myself taking courage to make a declaration
+pleasing images. I picture myself taking [[Courage|courage]] to make a declaration
 to Miss Larkins. I picture Miss Larkins sinking her head upon my
 shoulder, and saying, ‘Oh, Mr. Copperfield, can I believe my ears!’ I
 picture Mr. Larkins waiting on me next morning, and saying, ‘My dear
 Copperfield, my daughter has told me all. Youth is no objection. Here
 are twenty thousand pounds. Be happy!’ I picture my aunt relenting,
 and blessing us; and Mr. Dick and Doctor Strong being present at the
-marriage ceremony. I am a sensible fellow, I believe--I believe,
+[[Marriage|marriage]] ceremony. I am a sensible fellow, I believe--I believe,
 on looking back, I mean--and modest I am sure; but all this goes on
-notwithstanding. I repair to the enchanted house, where there are
-lights, chattering, music, flowers, officers (I am sorry to see), and
-the eldest Miss Larkins, a blaze of beauty. She is dressed in blue, with
-blue flowers in her hair--forget-me-nots--as if SHE had any need to wear
+notwithstanding. I repair to the enchanted [[house]], where there are
+lights, chattering, music, [[Flowers|flowers]], officers (I am sorry to see), and
+the eldest Miss Larkins, a blaze of [[Beauty|beauty]]. She is dressed in blue, with
+blue [[Flowers|flowers]] in her hair--forget-me-nots--as if SHE had any need to wear
 forget-me-nots. It is the first really grown-up party that I have ever
 been invited to, and I am a little uncomfortable; for I appear not to
 belong to anybody, and nobody appears to have anything to say to me,
 except Mr. Larkins, who asks me how my schoolfellows are, which he
 needn’t do, as I have not come there to be insulted.
 
-But after I have stood in the doorway for some time, and feasted my eyes
+But after I have stood in the doorway for some [[Time|time]], and feasted my eyes
 upon the goddess of my heart, she approaches me--she, the eldest Miss
-Larkins!--and asks me pleasantly, if I dance?
+Larkins!--and asks me pleasantly, if I [[Dance|dance]]?
 
 I stammer, with a bow, ‘With you, Miss Larkins.’
 
@@ -242,20 +242,20 @@ I stammer, with a bow, ‘With you, Miss Larkins.’
 ‘I should have no pleasure in dancing with anyone else.’
 
 Miss Larkins laughs and blushes (or I think she blushes), and says,
-‘Next time but one, I shall be very glad.’
+‘Next [[Time|time]] but one, I shall be very glad.’
 
-The time arrives. ‘It is a waltz, I think,’ Miss Larkins doubtfully
+The [[Time|time]] arrives. ‘It is a waltz, I think,’ Miss Larkins doubtfully
 observes, when I present myself. ‘Do you waltz? If not, Captain
 Bailey--’
 
-But I do waltz (pretty well, too, as it happens), and I take Miss
+But I do waltz (pretty [[Well|well]], too, as it happens), and I take Miss
 Larkins out. I take her sternly from the side of Captain Bailey. He
-is wretched, I have no doubt; but he is nothing to me. I have been
+is wretched, I have no [[Doubt|doubt]]; but he is nothing to me. I have been
 wretched, too. I waltz with the eldest Miss Larkins! I don’t know where,
 among whom, or how long. I only know that I swim about in space, with a
-blue angel, in a state of blissful delirium, until I find myself alone
+blue angel, in a state of blissful delirium, until I find myself [[Alone|alone]]
 with her in a little room, resting on a sofa. She admires a flower (pink
-camellia japonica, price half-a-crown), in my button-hole. I give it
+camellia japonica, price half-a-[[Crown|crown]]), in my button-hole. I give it
 her, and say:
 
 ‘I ask an inestimable price for it, Miss Larkins.’
@@ -272,7 +272,7 @@ says, ‘Now take me back to Captain Bailey.’
 
 I am lost in the recollection of this delicious interview, and the
 waltz, when she comes to me again, with a plain elderly gentleman who
-has been playing whist all night, upon her arm, and says:
+has been playing whist all [[Night|night]], upon her arm, and says:
 
 ‘Oh! here is my bold friend! Mr. Chestle wants to know you, Mr.
 Copperfield.’
@@ -287,8 +287,8 @@ place,--we shall be glad for you to stop as long as you like.’
 
 I thank Mr. Chestle warmly, and shake hands. I think I am in a happy
 dream. I waltz with the eldest Miss Larkins once again. She says I
-waltz so well! I go home in a state of unspeakable bliss, and waltz in
-imagination, all night long, with my arm round the blue waist of my dear
+waltz so [[Well|well]]! I go [[Home|home]] in a state of unspeakable bliss, and waltz in
+[[Imagination|imagination]], all [[Night|night]] long, with my arm round the blue waist of my dear
 divinity. For some days afterwards, I am lost in rapturous reflections;
 but I neither see her in the street, nor when I call. I am imperfectly
 consoled for this disappointment by the sacred pledge, the perished
@@ -308,11 +308,11 @@ you hear him, Papa?--The eldest Miss Larkins.’
 
 I am terribly dejected for about a week or two. I take off my ring, I
 wear my worst clothes, I use no bear’s grease, and I frequently lament
-over the late Miss Larkins’s faded flower. Being, by that time, rather
+over the late Miss Larkins’s faded flower. Being, by that [[Time|time]], rather
 tired of this kind of life, and having received new provocation from
 the butcher, I throw the flower away, go out with the butcher, and
 gloriously defeat him.
 
-This, and the resumption of my ring, as well as of the bear’s grease
+This, and the resumption of my ring, as [[Well|well]] as of the bear’s grease
 in moderation, are the last marks I can discern, now, in my progress to
 seventeen.

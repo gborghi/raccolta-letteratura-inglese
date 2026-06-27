@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE TYRANNY OF TRUSTS (part 3)"
+title: "[[Sanity]] — THE TYRANNY OF TRUSTS (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -18,8 +18,8 @@ tags:
 
 II A MISUNDERSTANDING ABOUT METHOD
 
-Before I go any further with this sketch, I find I must pause upon
-a parenthesis touching the nature of my task, without which the rest
+Before I go any further with this [[Sketch|sketch]], I find I must pause upon
+a parenthesis touching the [[Nature|nature]] of my task, without which the rest
 of it may be misunderstood.  As a matter of fact, without pretending
 to any official or commercial experience, I am here doing a great deal
 more than has ever been asked of most of the mere men of letters
@@ -28,10 +28,10 @@ confidently conducted social movements or setup social ideals.
 I will promise that, by the end of these notes, the reader shall
 know a great deal more about how men might set about making
 a Distributive State than the readers of Carlyle ever knew about
-how they should set about finding a Hero King or a Real Superior.
+how they should set about finding a [[Hero]] [[King]] or a Real Superior.
 I think we can explain how to make a small shop or a small farm
 a common feature of our society better than Matthew Arnold
-explained how to make the State the organ of Our Best Self.
+explained how to make the State the organ of Our Best [[Self]].
 I think the farm will be marked on some sort of rude map
 more clearly than the Earthly Paradise on the navigation chart
 of William Morris; and I think that in comparison with his News
@@ -49,25 +49,25 @@ poet when these very major prophets were not required to carry
 out and complete the fulfilment of their own prophecies.
 It would seem that our fathers did not think it quite so futile
 to have a clear vision of the goal with or without a detailed
-map of the road; or to be able to describe a scandal without
+map of the [[Road|road]]; or to be able to describe a scandal without
 going on to describe a substitute.  Anyhow, for whatever reason,
 it is quite certain that if I really were great enough to deserve
 the reproaches of the utilitarians, if I really were as merely
 idealistic or imaginative as they make me out, if I really did confine
-myself to describing a direction without exactly measuring a road,
-to pointing towards home or heaven and telling men to use their own
+myself to describing a direction without exactly measuring a [[Road|road]],
+to pointing towards [[Home|home]] or heaven and telling men to use their own
 good sense in getting there--if this were really all that I could do,
 it would be all that men immeasurably greater than I am were ever
-expected to do; from Plato and Isaiah to Emerson and Tolstoy.
+expected to do; from Plato and Isaiah to Emerson and [[tolstoy|Tolstoy]].
 
 But it is not all that I can do; even though those who did
-not do it did so much more.  I can do something else as well;
+not do it did so much more.  I can do something else as [[Well|well]];
 but I can only do it if it be understood what I am doing.
-At the same time I am well aware that, in explaining the improvement
+At the same [[Time|time]] I am [[Well|well]] aware that, in explaining the improvement
 of so elaborate a society, a man may often find it very difficult
 to explain exactly what he is doing, until it is done.
 I have considered and rejected half a dozen ways of approaching
-the problem, by different roads that all lead to the same truth.
+the problem, by different roads that all lead to the same [[Truth|truth]].
 I had thought of beginning with the simple example of the peasant;
 and then I knew that a hundred correspondents would leap upon me,
 accusing me of trying to turn all of them into peasants.
@@ -86,17 +86,17 @@ much by anybody, almost everything by everybody.  Then I would
 maintain that on the removal of that particular plutocratic pressure,
 the appetite and appreciation of natural property would revive,
 like any other natural thing.  Then, I say, it will be worth while to
-propound to people thus returning to sanity, however sporadically,
+propound to people thus returning to [[Sanity|sanity]], however sporadically,
 a sane society that could balance property and control machinery.
 With the description of that ultimate society, with its laws
 and limitations, I would conclude.
 
 Now that may or may not be a good arrangement or order of ideas;
-but it is an intelligible one; and I submit with all humility
+but it is an intelligible one; and I submit with all [[Humility|humility]]
 that I have a right to arrange my explanations in that order,
 and no critic has a right to complain that I do not disarrange them
 in order to answer questions out of their order.  I am willing
-to write him a whole Encyclopaedia of Distributism if he has
+to write him a whole Encyclopaedia of [[Distributism]] if he has
 the patience to read it; but he must have the patience to read it.
 It is unreasonable for him to complain that I have not dealt
 adequately with Zoology, State Provision For, under the letter B;
@@ -115,19 +115,19 @@ on the spur of the moment, of many ways in which its final triumph
 can be delayed and perhaps defeated.  Suppose a monopolist who is
 my mortal enemy endeavours to ruin me by preventing me from selling
 eggs to my neighbours, I can tell him I shall live on my own
-turnips in my own kitchen-garden. I do not mean to tie myself
+turnips in my own kitchen-[[Garden|garden]]. I do not mean to tie myself
 to turnips; or swear never to touch my own potatoes or beans.
 I mean the turnips as an example; something to throw at him.
 Suppose the wicked millionaire in question comes and grins over my
-garden wall and says, "I perceive by your starved and emaciated
+[[Garden|garden]] wall and says, "I perceive by your starved and emaciated
 appearance that you are in immediate need of a few shillings;
 but you can't possibly get them," I may possibly be stung into retorting,
-"Yes, I can.  I could sell my first edition of Martin Chuzzlewit."
+"Yes, I can.  I could sell my first edition of [[Martin Chuzzlewit]]."
 I do not necessarily mean that I see myself already in a pauper's
-grave unless I can sell Martin Chuzzlewit; I do not mean that I
-have nothing else to suggest except selling Martin Chuzzlewit; I do
+[[Grave|grave]] unless I can sell [[Martin Chuzzlewit]]; I do not mean that I
+have nothing else to suggest except selling [[Martin Chuzzlewit]]; I do
 not mean to brag like any common politician that I have nailed
-my colours to the Martin Chuzzlewit policy.  I mean to tell
+my colours to the [[Martin Chuzzlewit]] policy.  I mean to tell
 the offensive pessimist that I am not at the end of my resources;
 that I can sell a book or even, if the case grows desperate,
 write a book.  I could do a great many things before I came to
@@ -135,32 +135,32 @@ definitely anti-social action like robbing a bank or (worse still)
 working in a bank.  I could do a great many things of a great
 many kinds, and I give an example at the start to suggest that
 there are many more of them, not that there are no more of them.
-There are a great many things of a great many kinds in my house,
-besides the copy of a Martin Chuzzlewit.  Not many of them are of great
+There are a great many things of a great many kinds in my [[house]],
+besides the copy of a [[Martin Chuzzlewit]].  Not many of them are of great
 value except to me; but some of them are of some value to anybody.
-For the whole point of a home is that it is a hotch-potch.
+For the whole point of a [[Home|home]] is that it is a hotch-potch.
 And mine, at any rate, rises to that austere domestic ideal.
-The whole point of one's own house is that it is not only a number
+The whole point of one's own [[house]] is that it is not only a number
 of totally different things, which are nevertheless one thing,
 but it is one in which we still value even the things that we forget.
-If a man has burnt my house to a heap of ashes, I am none
+If a man has burnt my [[house]] to a heap of ashes, I am none
 the less justly indignant with him for having burnt everything,
 because I cannot at first even remember everything he has burnt.
 And as it is with the household gods, so it is with the whole
 of that household religion, or what remains of it, to offer
 resistance to the destructive discipline of industrial capitalism.
 In a simpler society, I should rush out of the ruins, calling for help
-on the Commune or the King, and crying out, "Haro! a robber has burnt
-my house."  I might, of course, rush down the street crying in one
+on the Commune or the [[King]], and crying out, "Haro! a robber has burnt
+my [[house]]."  I might, of course, rush down the street crying in one
 passionate breath, "Haro! a robber has burnt my front door of seasoned
-oak with the usual fittings, fourteen window frames, nine curtains,
+oak with the usual fittings, fourteen [[Window|window]] frames, nine curtains,
 five and a half carpets, 753 books, of which four were editions de luxe,
 one portrait of my great-grandmother," and so on through all the items;
 but something would be lost of the fierce and simple feudal cry.
 And in the same way I could have begun this outline with an
 inventory of all the alterations I should like to see in the laws,
 with the object of establishing some economic justice in England.
-But I doubt whether the reader would have had any better idea
+But I [[Doubt|doubt]] whether the reader would have had any better idea
 of what I was ultimately driving at; and it would not have been
 the approach by which I propose at present to drive.  I shall have
 occasion later to go into some slight detail about these things;

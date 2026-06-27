@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 3: On the Road"
+title: "Little Dorrit — Chapter 3: On the [[Road]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-CHAPTER 3. On the Road
+CHAPTER 3. On the [[Road]]
 
 
-The bright morning sun dazzled the eyes, the snow had ceased, the mists
+The bright morning sun dazzled the eyes, the [[Snow|snow]] had ceased, the mists
 had vanished, the mountain air was so clear and light that the
 new sensation of breathing it was like the having entered on a new
 existence. To help the delusion, the solid ground itself seemed gone,
@@ -25,30 +25,30 @@ and the mountain, a shining waste of immense white heaps and masses, to
 be a region of cloud floating between the blue sky above and the earth
 far below.
 
-Some dark specks in the snow, like knots upon a little thread, beginning
+Some dark specks in the [[Snow|snow]], like knots upon a little thread, beginning
 at the convent door and winding away down the descent in broken lengths
 which were not yet pieced together, showed where the Brethren were at
-work in several places clearing the track. Already the snow had begun to
+work in several places clearing the track. Already the [[Snow|snow]] had begun to
 be foot-thawed again about the door. Mules were busily brought out, tied
-to the rings in the wall, and laden; strings of bells were buckled
+to the rings in the wall, and laden; strings of [[Bells|bells]] were buckled
 on, burdens were adjusted, the voices of drivers and riders sounded
-musically. Some of the earliest had even already resumed their journey;
-and, both on the level summit by the dark water near the convent, and on
+musically. Some of the earliest had even already resumed their [[Journey|journey]];
+and, both on the level summit by the dark [[Water|water]] near the convent, and on
 the downward way of yesterday’s ascent, little moving figures of men and
 mules, reduced to miniatures by the immensity around, went with a clear
-tinkling of bells and a pleasant harmony of tongues.
+tinkling of [[Bells|bells]] and a pleasant harmony of tongues.
 
-In the supper-room of last night, a new fire, piled upon the feathery
+In the supper-room of last [[Night|night]], a new [[Fire|fire]], piled upon the feathery
 ashes of the old one, shone upon a homely breakfast of loaves, butter,
 and milk. It also shone on the courier of the Dorrit family, making tea
 for his party from a supply he had brought up with him, together with
 several other small stores which were chiefly laid in for the use of the
-strong body of inconvenience. Mr Gowan and Blandois of Paris had already
+strong [[Body|body]] of inconvenience. Mr Gowan and Blandois of [[Paris]] had already
 breakfasted, and were walking up and down by the lake, smoking their
 cigars.
 
 ‘Gowan, eh?’ muttered Tip, otherwise Edward Dorrit, Esquire, turning
-over the leaves of the book, when the courier had left them to
+over the [[Leaves|leaves]] of the book, when the courier had left them to
 breakfast. ‘Then Gowan is the name of a puppy, that’s all I have got to
 say! If it was worth my while, I’d pull his nose. But it isn’t worth my
 while--fortunately for him. How’s his wife, Amy? I suppose you know.
@@ -72,42 +72,42 @@ Fanny, and at his father too.
 ‘I have only been in to ask her if I could do anything for her, Tip,’
 said Little Dorrit.
 
-‘You needn’t call me Tip, Amy child,’ returned that young gentleman
-with a frown; ‘because that’s an old habit, and one you may as well lay
+‘You needn’t call me Tip, Amy [[Child|child]],’ returned that young gentleman
+with a frown; ‘because that’s an old habit, and one you may as [[Well|well]] lay
 aside.’
 
 ‘I didn’t mean to say so, Edward dear. I forgot. It was so natural once,
 that it seemed at the moment the right word.’
 
 ‘Oh yes!’ Miss Fanny struck in. ‘Natural, and right word, and once, and
-all the rest of it! Nonsense, you little thing! I know perfectly well
+all the rest of it! Nonsense, you little thing! I know perfectly [[Well|well]]
 why you have been taking such an interest in this Mrs Gowan. You can’t
 blind _me_.’
 
 ‘I will not try to, Fanny. Don’t be angry.’
 
 ‘Oh! angry!’ returned that young lady with a flounce. ‘I have no
-patience’ (which indeed was the truth).
+patience’ (which indeed was the [[Truth|truth]]).
 
 ‘Pray, Fanny,’ said Mr Dorrit, raising his eyebrows, ‘what do you mean?
 Explain yourself.’
 
 ‘Oh! Never mind, Pa,’ replied Miss Fanny, ‘it’s no great matter.
 Amy will understand me. She knew, or knew of, this Mrs Gowan before
-yesterday, and she may as well admit that she did.’
+yesterday, and she may as [[Well|well]] admit that she did.’
 
-‘My child,’ said Mr Dorrit, turning to his younger daughter, ‘has your
+‘My [[Child|child]],’ said Mr Dorrit, turning to his younger daughter, ‘has your
 sister--any--ha--authority for this curious statement?’
 
 ‘However meek we are,’ Miss Fanny struck in before she could answer, ‘we
-don’t go creeping into people’s rooms on the tops of cold mountains,
-and sitting perishing in the frost with people, unless we know something
+don’t go creeping into people’s rooms on the tops of cold [[Mountains|mountains]],
+and sitting perishing in the [[Frost|frost]] with people, unless we know something
 about them beforehand. It’s not very hard to divine whose friend Mrs
 Gowan is.’
 
 ‘Whose friend?’ inquired her father.
 
-‘Pa, I am sorry to say,’ returned Miss Fanny, who had by this time
+‘Pa, I am sorry to say,’ returned Miss Fanny, who had by this [[Time|time]]
 succeeded in goading herself into a state of much ill-usage and
 grievance, which she was often at great pains to do: ‘that I believe her
 to be a friend of that very objectionable and unpleasant person, who,
@@ -116,7 +116,7 @@ led us to expect from him, insulted us and outraged our feelings in
 so public and wilful a manner on an occasion to which it is understood
 among us that we will not more pointedly allude.’
 
-‘Amy, my child,’ said Mr Dorrit, tempering a bland severity with a
+‘Amy, my [[Child|child]],’ said Mr Dorrit, tempering a bland severity with a
 dignified affection, ‘is this the case?’
 
 Little Dorrit mildly answered, yes it was.
@@ -132,22 +132,22 @@ our feelings most? Are we to be exposed to this unnatural conduct every
 moment of our lives? Are we never to be permitted to forget? I say
 again, it is absolutely infamous!’
 
-‘Well, Amy,’ observed her brother, shaking his head, ‘you know I stand
+‘[[Well]], Amy,’ observed her brother, shaking his head, ‘you know I stand
 by you whenever I can, and on most occasions. But I must say, that, upon
-my soul, I do consider it rather an unaccountable mode of showing your
+my [[Soul|soul]], I do consider it rather an unaccountable mode of showing your
 sisterly affection, that you should back up a man who treated me in the
 most ungentlemanly way in which one man can treat another. And who,’ he
 added convincingly, ‘must be a low-minded thief, you know, or he never
 could have conducted himself as he did.’
 
 ‘And see,’ said Miss Fanny, ‘see what is involved in this! Can we ever
-hope to be respected by our servants? Never. Here are our two women, and
+[[Hope|hope]] to be respected by our servants? Never. Here are our two women, and
 Pa’s valet, and a footman, and a courier, and all sorts of dependents,
 and yet in the midst of these, we are to have one of ourselves rushing
-about with tumblers of cold water, like a menial! Why, a policeman,’
+about with tumblers of cold [[Water|water]], like a menial! Why, a policeman,’
 said Miss Fanny, ‘if a beggar had a fit in the street, could but go
 plunging about with tumblers, as this very Amy did in this very room
-before our very eyes last night!’
+before our very eyes last [[Night|night]]!’
 
 ‘I don’t so much mind that, once in a way,’ remarked Mr Edward; ‘but
 your Clennam, as he thinks proper to call himself, is another thing.’
@@ -159,13 +159,13 @@ have dispensed with his company with the greatest pleasure.
 He then commits that gross outrage upon our feelings, which he never
 could or would have committed but for the delight he took in exposing
 us; and then we are to be demeaned for the service of his friends! Why,
-I don’t wonder at this Mr Gowan’s conduct towards you. What else was
+I don’t [[Wonder|wonder]] at this Mr Gowan’s conduct towards you. What else was
 to be expected when he was enjoying our past misfortunes--gloating over
 them at the moment!’
 
 ‘Father--Edward--no indeed!’ pleaded Little Dorrit. ‘Neither Mr nor Mrs
 Gowan had ever heard our name. They were, and they are, quite ignorant
-of our history.’
+of our [[history]].’
 
 ‘So much the worse,’ retorted Fanny, determined not to admit anything in
 extenuation, ‘for then you have no excuse. If they had known about us,
@@ -192,30 +192,30 @@ authority, and to point their moral by his wisdom.
 ‘My dear,’ said he to his younger daughter, ‘I beg you to--ha--to say
 no more. Your sister Fanny expresses herself strongly, but not without
 considerable reason. You have now a--hum--a great position to support.
-That great position is not occupied by yourself alone, but by--ha--by
+That great position is not occupied by yourself [[Alone|alone]], but by--ha--by
 me, and--ha hum--by us. Us. Now, it is incumbent upon all people in an
 exalted position, but it is particularly so on this family, for reasons
 which I--ha--will not dwell upon, to make themselves respected. To be
 vigilant in making themselves respected. Dependants, to respect us, must
 be--ha--kept at a distance and--hum--kept down. Down. Therefore, your
 not exposing yourself to the remarks of our attendants by appearing to
-have at any time dispensed with their services and performed them for
+have at any [[Time|time]] dispensed with their services and performed them for
 yourself, is--ha--highly important.’
 
-‘Why, who can doubt it?’ cried Miss Fanny. ‘It’s the essence of
+‘Why, who can [[Doubt|doubt]] it?’ cried Miss Fanny. ‘It’s the essence of
 everything.’
 
 ‘Fanny,’ returned her father, grandiloquently, ‘give me leave, my dear.
 We then come to--ha--to Mr Clennam. I am free to say that I do not, Amy,
 share your sister’s sentiments--that is to say altogether--hum--
 altogether--in reference to Mr Clennam. I am content to regard that
-individual in the light of--ha--generally--a well-behaved person. Hum.
-A well-behaved person. Nor will I inquire whether Mr Clennam did, at any
-time, obtrude himself on--ha--my society. He knew my society to
+individual in the light of--ha--generally--a [[Well|well]]-behaved person. Hum.
+A [[Well|well]]-behaved person. Nor will I inquire whether Mr Clennam did, at any
+[[Time|time]], obtrude himself on--ha--my society. He knew my society to
 be--hum--sought, and his plea might be that he regarded me in the light
 of a public character. But there were circumstances attending
 my--ha--slight knowledge of Mr Clennam (it was very slight), which,’
-here Mr Dorrit became extremely grave and impressive, ‘would render it
+here Mr Dorrit became extremely [[Grave|grave]] and impressive, ‘would render it
 highly indelicate in Mr Clennam to--ha--to seek to renew communication
 with me or with any member of my family under existing circumstances.
 If Mr Clennam has sufficient delicacy to perceive the impropriety of
@@ -235,25 +235,25 @@ breakfast party went out to the convent door to join the cavalcade.
 Mr Gowan stood aloof with his cigar and pencil, but Mr Blandois was on
 the spot to pay his respects to the ladies. When he gallantly pulled
 off his slouched hat to Little Dorrit, she thought he had even a more
-sinister look, standing swart and cloaked in the snow, than he had
-in the fire-light over-night. But, as both her father and her sister
+sinister look, standing swart and cloaked in the [[Snow|snow]], than he had
+in the [[Fire|fire]]-light over-[[Night|night]]. But, as both her father and her sister
 received his homage with some favour, she refrained from expressing any
 distrust of him, lest it should prove to be a new blemish derived from
-her prison birth.
+her [[Prison|prison]] birth.
 
 Nevertheless, as they wound down the rugged way while the convent was
 yet in sight, she more than once looked round, and descried Mr Blandois,
-backed by the convent smoke which rose straight and high from the
+backed by the convent smoke which [[Rose|rose]] straight and high from the
 chimneys in a golden film, always standing on one jutting point looking
-down after them. Long after he was a mere black stick in the snow, she
+down after them. Long after he was a mere black stick in the [[Snow|snow]], she
 felt as though she could yet see that smile of his, that high nose, and
 those eyes that were too near it. And even after that, when the convent
 was gone and some light morning clouds veiled the pass below it, the
-ghastly skeleton arms by the wayside seemed to be all pointing up at
+ghastly [[skeleton]] arms by the wayside seemed to be all pointing up at
 him.
 
-More treacherous than snow, perhaps, colder at heart, and harder to
-melt, Blandois of Paris by degrees passed out of her mind, as they came
+More treacherous than [[Snow|snow]], perhaps, colder at heart, and harder to
+melt, Blandois of [[Paris]] by degrees passed out of her mind, as they came
 down into the softer regions. Again the sun was warm, again the streams
 descending from glaciers and snowy caverns were refreshing to drink at,
 again they came among the pine-trees, the rocky rivulets, the verdant
@@ -262,17 +262,17 @@ country. Sometimes the way so widened that she and her father could
 ride abreast. And then to look at him, handsomely clothed in his fur and
 broadcloths, rich, free, numerously served and attended, his eyes roving
 far away among the glories of the landscape, no miserable screen before
-them to darken his sight and cast its shadow on him, was enough.
+them to darken his sight and cast its [[Shadow|shadow]] on him, was enough.
 
-Her uncle was so far rescued from that shadow of old, that he wore the
+Her uncle was so far rescued from that [[Shadow|shadow]] of old, that he wore the
 clothes they gave him, and performed some ablutions as a sacrifice to
 the family credit, and went where he was taken, with a certain patient
 animal enjoyment, which seemed to express that the air and change did
 him good. In all other respects, save one, he shone with no light but
-such as was reflected from his brother. His brother’s greatness, wealth,
-freedom, and grandeur, pleased him without any reference to himself.
+such as was reflected from his brother. His brother’s [[Greatness|greatness]], wealth,
+[[Freedom|freedom]], and grandeur, pleased him without any reference to himself.
 Silent and retiring, he had no use for speech when he could hear his
-brother speak; no desire to be waited on, so that the servants devoted
+brother speak; no [[Desire|desire]] to be waited on, so that the servants devoted
 themselves to his brother. The only noticeable change he originated in
 himself, was an alteration in his manner to his younger niece. Every day
 it refined more and more into a marked respect, very rarely shown by age
@@ -285,30 +285,30 @@ the profoundest deference. Yet it never appeared misplaced or forced,
 being always heartily simple, spontaneous, and genuine. Neither would he
 ever consent, even at his brother’s request, to be helped to any place
 before her, or to take precedence of her in anything. So jealous was he
-of her being respected, that, on this very journey down from the Great
+of her being respected, that, on this very [[Journey|journey]] down from the Great
 Saint Bernard, he took sudden and violent umbrage at the footman’s being
 remiss to hold her stirrup, though standing near when she dismounted;
 and unspeakably astonished the whole retinue by charging at him on a
 hard-headed mule, riding him into a corner, and threatening to trample
-him to death.
+him to [[Death|death]].
 
 They were a goodly company, and the Innkeepers all but worshipped them.
 Wherever they went, their importance preceded them in the person of the
 courier riding before, to see that the rooms of state were ready. He was
 the herald of the family procession. The great travelling-carriage came
-next: containing, inside, Mr Dorrit, Miss Dorrit, Miss Amy Dorrit,
+next: containing, inside, Mr Dorrit, Miss Dorrit, Miss [[Amy Dorrit]],
 and Mrs General; outside, some of the retainers, and (in fine weather)
 Edward Dorrit, Esquire, for whom the box was reserved. Then came
 the chariot containing Frederick Dorrit, Esquire, and an empty place
 occupied by Edward Dorrit, Esquire, in wet weather. Then came the
 fourgon with the rest of the retainers, the heavy baggage, and as much
-as it could carry of the mud and dust which the other vehicles left
+as it could carry of the mud and [[Dust|dust]] which the other vehicles left
 behind.
 
 These equipages adorned the yard of the hotel at Martigny, on the return
 of the family from their mountain excursion. Other vehicles were there,
-much company being on the road, from the patched Italian Vettura--like
-the body of a swing from an English fair put upon a wooden tray on
+much company being on the [[Road|road]], from the patched Italian Vettura--like
+the [[Body|body]] of a swing from an English fair put upon a wooden tray on
 wheels, and having another wooden tray without wheels put atop of it--to
 the trim English carriage. But there was another adornment of the
 hotel which Mr Dorrit had not bargained for. Two strange travellers
@@ -329,7 +329,7 @@ yet gone.
 Nothing could exceed Mr Dorrit’s indignation, as he turned at the foot
 of the staircase on hearing these apologies. He felt that the family
 dignity was struck at by an assassin’s hand. He had a sense of his
-dignity, which was of the most exquisite nature. He could detect a
+dignity, which was of the most exquisite [[Nature|nature]]. He could detect a
 design upon it when nobody else had any perception of the fact. His
 life was made an agony by the number of fine scalpels that he felt to be
 incessantly engaged in dissecting his dignity.
@@ -342,15 +342,15 @@ Thousands of pardons! It was the host’s profound misfortune to have been
 overcome by that too genteel lady. He besought Monseigneur not to enrage
 himself. He threw himself on Monseigneur for clemency. If Monseigneur
 would have the distinguished goodness to occupy the other salon
-especially reserved for him, for but five minutes, all would go well.
+especially reserved for him, for but five minutes, all would go [[Well|well]].
 
 ‘No, sir,’ said Mr Dorrit. ‘I will not occupy any salon. I will leave
-your house without eating or drinking, or setting foot in it. How do
+your [[house]] without eating or drinking, or setting foot in it. How do
 you dare to act like this? Who am I that you--ha--separate me from other
 gentlemen?’
 
 Alas! The host called all the universe to witness that Monseigneur was
-the most amiable of the whole body of nobility, the most important,
+the most amiable of the whole [[Body|body]] of nobility, the most important,
 the most estimable, the most honoured. If he separated Monseigneur from
 others, it was only because he was more distinguished, more cherished,
 more generous, more renowned.
@@ -361,7 +361,7 @@ yourself.’
 
 Ah, just Heaven, then, how could the host explain himself when he had
 nothing more to explain; when he had only to apologise, and confide
-himself to the so well-known magnanimity of Monseigneur!
+himself to the so [[Well|well]]-known magnanimity of Monseigneur!
 
 ‘I tell you, sir,’ said Mr Dorrit, panting with anger, ‘that you
 separate me--ha--from other gentlemen; that you make distinctions
@@ -373,15 +373,15 @@ Permit the landlord humbly to submit to Monsieur the Courier then, that
 Monseigneur, ordinarily so gracious, enraged himself without cause.
 There was no why. Monsieur the Courier would represent to Monseigneur,
 that he deceived himself in suspecting that there was any why, but the
-why his devoted servant had already had the honour to present to him.
+why his devoted servant had already had the [[Honour|honour]] to present to him.
 The very genteel lady--
 
-‘Silence!’ cried Mr Dorrit. ‘Hold your tongue! I will hear no more
+‘[[Silence]]!’ cried Mr Dorrit. ‘Hold your tongue! I will hear no more
 of the very genteel lady; I will hear no more of you. Look at this
 family--my family--a family more genteel than any lady. You have treated
 this family with disrespect; you have been insolent to this family. I’ll
 ruin you. Ha--send for the horses, pack the carriages, I’ll not set foot
-in this man’s house again!’
+in this man’s [[house]] again!’
 
 No one had interfered in the dispute, which was beyond the French
 colloquial powers of Edward Dorrit, Esquire, and scarcely within the
@@ -397,9 +397,9 @@ they ought to be torn from him.
 All the guides, mule-drivers, and idlers in the yard, had made
 themselves parties to the angry conference, and were much impressed by
 the courier’s now bestirring himself to get the carriages out. With the
-aid of some dozen people to each wheel, this was done at a great cost of
+aid of some dozen people to each [[Wheel|wheel]], this was done at a great cost of
 noise; and then the loading was proceeded with, pending the arrival of
-the horses from the post-house.
+the horses from the post-[[house]].
 
 But the very genteel lady’s English chariot being already horsed and at
 the inn-door, the landlord had slipped up-stairs to represent his hard
@@ -430,19 +430,19 @@ it’s not pleasant to find other people in ‘em.’
 ‘No,’ said the other, ‘I know it isn’t. I admit it. Still, let you and I
 try to make it all right, and avoid Row. The fault is not this chap’s
 at all, but my mother’s. Being a remarkably fine woman with no bigodd
-nonsense about her--well educated, too--she was too many for this chap.
+nonsense about her--[[Well|well]] educated, too--she was too many for this chap.
 Regularly pocketed him.’
 
 ‘If that’s the case--’ Edward Dorrit, Esquire, began.
 
-‘Assure you ‘pon my soul ‘tis the case. Consequently,’ said the other
+‘Assure you ‘pon my [[Soul|soul]] ‘tis the case. Consequently,’ said the other
 gentleman, retiring on his main position, ‘why Row?’
 
-‘Edmund,’ said the lady from the doorway, ‘I hope you have explained,
+‘[[Edmund]],’ said the lady from the doorway, ‘I [[Hope|hope]] you have explained,
 or are explaining, to the satisfaction of this gentleman and his family
 that the civil landlord is not to blame?’
 
-‘Assure you, ma’am,’ returned Edmund, ‘perfectly paralysing myself with
+‘Assure you, ma’am,’ returned [[Edmund]], ‘perfectly paralysing myself with
 trying it on.’ He then looked steadfastly at Edward Dorrit, Esquire, for
 some seconds, and suddenly added, in a burst of confidence, ‘Old feller!
 _Is_ it all right?’
@@ -451,7 +451,7 @@ _Is_ it all right?’
 two towards Mr Dorrit, ‘but that I had better say myself, at once,
 that I assured this good man I took all the consequences on myself of
 occupying one of a stranger’s suite of rooms during his absence, for
-just as much (or as little) time as I could dine in. I had no idea the
+just as much (or as little) [[Time|time]] as I could dine in. I had no idea the
 rightful owner would come back so soon, nor had I any idea that he
 had come back, or I should have hastened to make restoration of my
 ill-gotten chamber, and to have offered my explanation and apology. I
@@ -467,12 +467,12 @@ lady from head to foot.
 
 The lady, recovering herself quickly--for it was Mrs Merdle and she was
 not easily dashed--went on to add that she trusted in saying this, she
-apologised for her boldness, and restored this well-behaved landlord to
+apologised for her boldness, and restored this [[Well|well]]-behaved landlord to
 the favour that was so very valuable to him. Mr Dorrit, on the altar of
 whose dignity all this was incense, made a gracious reply; and said
 that his people should--ha--countermand his horses, and he
 would--hum--overlook what he had at first supposed to be an affront,
-but now regarded as an honour. Upon this the bosom bent to him; and its
+but now regarded as an [[Honour|honour]]. Upon this the bosom bent to him; and its
 owner, with a wonderful command of feature, addressed a winning smile of
 adieu to the two sisters, as young ladies of fortune in whose favour she
 was much prepossessed, and whom she had never had the gratification of
@@ -481,14 +481,14 @@ seeing before.
 Not so, however, Mr Sparkler. This gentleman, becoming transfixed at
 the same moment as his lady-mother, could not by any means unfix himself
 again, but stood stiffly staring at the whole composition with Miss
-Fanny in the Foreground. On his mother saying, ‘Edmund, we are quite
+Fanny in the Foreground. On his mother saying, ‘[[Edmund]], we are quite
 ready; will you give me your arm?’ he seemed, by the motion of his lips,
 to reply with some remark comprehending the form of words in which his
 shining talents found the most frequent utterance, but he relaxed no
 muscle. So fixed was his figure, that it would have been matter of some
 difficulty to bend him sufficiently to get him in the carriage-door,
 if he had not received the timely assistance of a maternal pull from
-within. He was no sooner within than the pad of the little window in the
+within. He was no sooner within than the pad of the little [[Window|window]] in the
 back of the chariot disappeared, and his eye usurped its place. There
 it remained as long as so small an object was discernible, and probably
 much longer, staring (as though something inexpressibly surprising
@@ -503,9 +503,9 @@ flow of spirits indeed, that Mrs General looked rather surprised.
 Little Dorrit was glad to be found no fault with, and to see that Fanny
 was pleased; but her part in the procession was a musing part, and a
 quiet one. Sitting opposite her father in the travelling-carriage, and
-recalling the old Marshalsea room, her present existence was a dream.
+recalling the old Marshalsea room, her present existence was [[A Dream|a dream]].
 All that she saw was new and wonderful, but it was not real; it seemed
-to her as if those visions of mountains and picturesque countries might
+to her as if those visions of [[Mountains|mountains]] and picturesque countries might
 melt away at any moment, and the carriage, turning some abrupt corner,
 bring up with a jolt at the old Marshalsea gate.
 
@@ -515,17 +515,17 @@ and contrive, no cares of others to load herself with. Strange as that
 was, it was far stranger yet to find a space between herself and her
 father, where others occupied themselves in taking care of him, and
 where she was never expected to be. At first, this was so much more
-unlike her old experience than even the mountains themselves, that she
+unlike her old experience than even the [[Mountains|mountains]] themselves, that she
 had been unable to resign herself to it, and had tried to retain her
-old place about him. But he had spoken to her alone, and had said that
+old place about him. But he had spoken to her [[Alone|alone]], and had said that
 people--ha--people in an exalted position, my dear, must scrupulously
 exact respect from their dependents; and that for her, his daughter,
-Miss Amy Dorrit, of the sole remaining branch of the Dorrits of
+Miss [[Amy Dorrit]], of the sole remaining branch of the Dorrits of
 Dorsetshire, to be known to--hum--to occupy herself in fulfilling the
 functions of--ha hum--a valet, would be incompatible with that respect.
 Therefore, my dear, he--ha--he laid his parental injunctions upon
 her, to remember that she was a lady, who had now to conduct herself
-with--hum--a proper pride, and to preserve the rank of a lady;
+with--hum--a proper [[Pride|pride]], and to preserve the rank of a lady;
 and consequently he requested her to abstain from doing what would
 occasion--ha--unpleasant and derogatory remarks. She had obeyed without
 a murmur. Thus it had been brought about that she now sat in her corner
@@ -535,33 +535,33 @@ in life on which her feet had lingered.
 
 It was from this position that all she saw appeared unreal; the more
 surprising the scenes, the more they resembled the unreality of her
-own inner life as she went through its vacant places all day long. The
+own [[Inner Life|inner life]] as she went through its vacant places all day long. The
 gorges of the Simplon, its enormous depths and thundering waterfalls,
-the wonderful road, the points of danger where a loose wheel or a
-faltering horse would have been destruction, the descent into Italy, the
+the wonderful [[Road|road]], the points of danger where a loose [[Wheel|wheel]] or a
+faltering [[Horse|horse]] would have been destruction, the descent into [[Italy]], the
 opening of that beautiful land as the rugged mountain-chasm widened and
-let them out from a gloomy and dark imprisonment--all a dream--only the
+let them out from a gloomy and dark [[Imprisonment|imprisonment]]--all [[A Dream|a dream]]--only the
 old mean Marshalsea a reality. Nay, even the old mean Marshalsea was
 shaken to its foundations when she pictured it without her father. She
 could scarcely believe that the prisoners were still lingering in the
 close yard, that the mean rooms were still every one tenanted, and that
 the turnkey still stood in the Lodge letting people in and out, all just
-as she well knew it to be.
+as she [[Well|well]] knew it to be.
 
-With a remembrance of her father’s old life in prison hanging about her
+With a remembrance of her father’s old life in [[Prison|prison]] hanging about her
 like the burden of a sorrowful tune, Little Dorrit would wake from a
 dream of her birth-place into a whole day’s dream. The painted room in
 which she awoke, often a humbled state-chamber in a dilapidated palace,
-would begin it; with its wild red autumnal vine-leaves overhanging the
-glass, its orange-trees on the cracked white terrace outside the window,
-a group of monks and peasants in the little street below, misery and
+would begin it; with its wild red autumnal vine-[[Leaves|leaves]] overhanging the
+glass, its orange-trees on the cracked white terrace outside the [[Window|window]],
+a group of [[Monks|monks]] and peasants in the little street below, misery and
 magnificence wrestling with each other upon every rood of ground in
 the prospect, no matter how widely diversified, and misery throwing
 magnificence with the strength of fate. To this would succeed a
 labyrinth of bare passages and pillared galleries, with the family
 procession already preparing in the quadrangle below, through the
 carriages and luggage being brought together by the servants for the
-day’s journey. Then breakfast in another painted chamber, damp-stained
+day’s [[Journey|journey]]. Then breakfast in another painted chamber, damp-stained
 and of desolate proportions; and then the departure, which, to her
 timidity and sense of not being grand enough for her place in the
 ceremonies, was always an uneasy thing. For then the courier (who
@@ -581,17 +581,17 @@ narrow unsavoury streets, and jerked out at the town gate.
 
 Among the day’s unrealities would be roads where the bright red vines
 were looped and garlanded together on trees for many miles; woods of
-olives; white villages and towns on hill-sides, lovely without, but
-frightful in their dirt and poverty within; crosses by the way; deep
+olives; white villages and towns on [[Hill|hill]]-sides, lovely without, but
+frightful in their dirt and [[Poverty|poverty]] within; crosses by the way; deep
 blue lakes with fairy islands, and clustering boats with awnings of
 bright colours and sails of beautiful forms; vast piles of building
-mouldering to dust; hanging-gardens where the weeds had grown so strong
-that their stems, like wedges driven home, had split the arch and rent
+mouldering to [[Dust|dust]]; hanging-gardens where the weeds had grown so strong
+that their stems, like wedges driven [[Home|home]], had split the arch and rent
 the wall; stone-terraced lanes, with the lizards running into and out
 of every chink; beggars of all sorts everywhere: pitiful, picturesque,
 hungry, merry; children beggars and aged beggars. Often at
 posting-houses and other halting places, these miserable creatures would
-appear to her the only realities of the day; and many a time, when the
+appear to her the only realities of the day; and many a [[Time|time]], when the
 money she had brought to give them was all given away, she would sit
 with her folded hands, thoughtfully looking after some diminutive girl
 leading her grey father, as if the sight reminded her of something in
@@ -607,10 +607,10 @@ there were pictures, fantastic images, gaudy altars, great heights and
 distances, all softly lighted through stained glass, and the massive
 curtains that hung in the doorways. From these cities they would go on
 again, by the roads of vines and olives, through squalid villages, where
-there was not a hovel without a gap in its filthy walls, not a window
+there was not a hovel without a gap in its filthy walls, not a [[Window|window]]
 with a whole inch of glass or paper; where there seemed to be nothing to
 support life, nothing to eat, nothing to make, nothing to grow, nothing
-to hope, nothing to do but die.
+to [[Hope|hope]], nothing to do but die.
 
 Again they would come to whole towns of palaces, whose proper inmates
 were all banished, and which were all changed into barracks: troops
@@ -622,29 +622,29 @@ the heads of the other swarms of soldiers and the swarms of priests, and
 the swarms of spies, who were all the ill-looking population left to be
 ruined, in the streets below.
 
-Through such scenes, the family procession moved on to Venice. And here
-it dispersed for a time, as they were to live in Venice some few months
+Through such scenes, the family procession moved on to [[Venice]]. And here
+it dispersed for a [[Time|time]], as they were to live in [[Venice]] some few months
 in a palace (itself six times as big as the whole Marshalsea) on the
 Grand Canal.
 
-In this crowning unreality, where all the streets were paved with water,
+In this crowning unreality, where all the streets were paved with [[Water|water]],
 and where the deathlike stillness of the days and nights was broken by
-no sound but the softened ringing of church-bells, the rippling of
+no sound but the softened ringing of church-[[Bells|bells]], the rippling of
 the current, and the cry of the gondoliers turning the corners of the
 flowing streets, Little Dorrit, quite lost by her task being done, sat
 down to muse. The family began a gay life, went here and there, and
-turned night into day; but she was timid of joining in their gaieties,
-and only asked leave to be left alone.
+turned [[Night|night]] into day; but she was timid of joining in their gaieties,
+and only asked leave to be left [[Alone|alone]].
 
 Sometimes she would step into one of the gondolas that were always kept
 in waiting, moored to painted posts at the door--when she could escape
 from the attendance of that oppressive maid, who was her mistress, and
-a very hard one--and would be taken all over the strange city. Social
+a very hard one--and would be taken all over the strange [[City|city]]. Social
 people in other gondolas began to ask each other who the little solitary
 girl was whom they passed, sitting in her boat with folded hands,
 looking so pensively and wonderingly about her. Never thinking that
 it would be worth anybody’s while to notice her or her doings, Little
-Dorrit, in her quiet, scared, lost manner, went about the city none the
+Dorrit, in her quiet, scared, lost manner, went about the [[City|city]] none the
 less.
 
 But her favourite station was the balcony of her own room, overhanging
@@ -652,9 +652,9 @@ the canal, with other balconies below, and none above. It was of massive
 stone darkened by ages, built in a wild fancy which came from the East
 to that collection of wild fancies; and Little Dorrit was little indeed,
 leaning on the broad-cushioned ledge, and looking over. As she liked no
-place of an evening half so well, she soon began to be watched for, and
+place of an evening half so [[Well|well]], she soon began to be watched for, and
 many eyes in passing gondolas were raised, and many people said, There
-was the little figure of the English girl who was always alone.
+was the little figure of the English girl who was always [[Alone|alone]].
 
 Such people were not realities to the little figure of the English girl;
 such people were all unknown to her. She would watch the sunset, in its
@@ -663,15 +663,15 @@ the sky: so glowing on the buildings, and so lightening their structure,
 that it made them look as if their strong walls were transparent, and
 they shone from within. She would watch those glories expire; and then,
 after looking at the black gondolas underneath, taking guests to music
-and dancing, would raise her eyes to the shining stars. Was there no
-party of her own, in other times, on which the stars had shone? To think
+and dancing, would raise her eyes to the shining [[Stars|stars]]. Was there no
+party of her own, in other times, on which the [[Stars|stars]] had shone? To think
 of that old gate now!
 
 She would think of that old gate, and of herself sitting at it in the
-dead of the night, pillowing Maggy’s head; and of other places and of
+dead of the [[Night|night]], pillowing Maggy’s head; and of other places and of
 other scenes associated with those different times. And then she would
-lean upon her balcony, and look over at the water, as though they all
+lean upon her balcony, and look over at the [[Water|water]], as though they all
 lay underneath it. When she got to that, she would musingly watch its
 running, as if, in the general vision, it might run dry, and show her
-the prison again, and herself, and the old room, and the old inmates,
+the [[Prison|prison]] again, and herself, and the old room, and the old inmates,
 and the old visitors: all lasting realities that had never changed.

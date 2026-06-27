@@ -32,7 +32,7 @@ evidently understood it.
 only add to her trouble. Don’t speak of me to her. As I said to you when
 I first came, I had better not see her. I can put my hand out, to do any
 little helpful work for her that my hand can find to do, without that.
-You are going to her, I hope? She must be very desolate to-night.”
+You are going to her, I [[Hope|hope]]? She must be very desolate to-[[Night|night]].”
 
 “I am going now, directly.”
 
@@ -45,13 +45,13 @@ on you. How does she look?”
 
 It was a long, grieving sound, like a sigh--almost like a sob. It
 attracted Mr. Lorry’s eyes to Carton’s face, which was turned to the
-fire. A light, or a shade (the old gentleman could not have said which),
-passed from it as swiftly as a change will sweep over a hill-side on a
+[[Fire|fire]]. A light, or a shade (the old gentleman could not have said which),
+passed from it as swiftly as a change will sweep over a [[Hill|hill]]-side on a
 wild bright day, and he lifted his foot to put back one of the little
 flaming logs, which was tumbling forward. He wore the white riding-coat
-and top-boots, then in vogue, and the light of the fire touching their
+and top-boots, then in vogue, and the light of the [[Fire|fire]] touching their
 light surfaces made him look very pale, with his long brown hair,
-all untrimmed, hanging loose about him. His indifference to fire was
+all untrimmed, hanging loose about him. His indifference to [[Fire|fire]] was
 sufficiently remarkable to elicit a word of remonstrance from Mr. Lorry;
 his boot was still upon the hot embers of the flaming log, when it had
 broken under the weight of his foot.
@@ -66,9 +66,9 @@ reminded of that expression.
 “And your duties here have drawn to an end, sir?” said Carton, turning
 to him.
 
-“Yes. As I was telling you last night when Lucie came in so
+“Yes. As I was telling you last [[Night|night]] when Lucie came in so
 unexpectedly, I have at length done all that I can do here. I hoped to
-have left them in perfect safety, and then to have quitted Paris. I have
+have left them in perfect safety, and then to have quitted [[Paris]]. I have
 my Leave to Pass. I was ready to go.”
 
 They were both silent.
@@ -89,7 +89,7 @@ you when you leave it empty!”
 “A solitary old bachelor,” answered Mr. Lorry, shaking his head. “There
 is nobody to weep for me.”
 
-“How can you say that? Wouldn’t She weep for you? Wouldn’t her child?”
+“How can you say that? Wouldn’t She weep for you? Wouldn’t her [[Child|child]]?”
 
 “Yes, yes, thank God. I didn’t quite mean what I said.”
 
@@ -97,8 +97,8 @@ is nobody to weep for me.”
 
 “Surely, surely.”
 
-“If you could say, with truth, to your own solitary heart, to-night,
-‘I have secured to myself the love and attachment, the gratitude or
+“If you could say, with [[Truth|truth]], to your own solitary heart, to-[[Night|night]],
+‘I have secured to myself the [[Love|love]] and attachment, the gratitude or
 respect, of no human creature; I have won myself a tender place in no
 regard; I have done nothing good or serviceable to be remembered by!’
 your seventy-eight years would be seventy-eight heavy curses; would they
@@ -106,15 +106,15 @@ not?”
 
 “You say truly, Mr. Carton; I think they would be.”
 
-Sydney turned his eyes again upon the fire, and, after a silence of a
+Sydney turned his eyes again upon the [[Fire|fire]], and, after a [[Silence|silence]] of a
 few moments, said:
 
-“I should like to ask you:--Does your childhood seem far off? Do the
+“I should like to ask you:--Does your [[Childhood|childhood]] seem far off? Do the
 days when you sat at your mother’s knee, seem days of very long ago?”
 
 Responding to his softened manner, Mr. Lorry answered:
 
-“Twenty years back, yes; at this time of my life, no. For, as I draw
+“Twenty years back, yes; at this [[Time|time]] of my life, no. For, as I draw
 closer and closer to the end, I travel in the circle, nearer and
 nearer to the beginning. It seems to be one of the kind smoothings and
 preparings of the way. My heart is touched now, by many remembrances
@@ -125,7 +125,7 @@ so real with me, and my faults were not confirmed in me.”
 “I understand the feeling!” exclaimed Carton, with a bright flush. “And
 you are the better for it?”
 
-“I hope so.”
+“I [[Hope|hope]] so.”
 
 Carton terminated the conversation here, by rising to help him on with
 his outer coat; “But you,” said Mr. Lorry, reverting to the theme, “you
@@ -137,8 +137,8 @@ age. Enough of me.”
 “And of me, I am sure,” said Mr. Lorry. “Are you going out?”
 
 “I’ll walk with you to her gate. You know my vagabond and restless
-habits. If I should prowl about the streets a long time, don’t be
-uneasy; I shall reappear in the morning. You go to the Court to-morrow?”
+habits. If I should prowl about the streets a long [[Time|time]], don’t be
+uneasy; I shall reappear in the morning. You go to the [[Court]] to-morrow?”
 
 “Yes, unhappily.”
 
@@ -149,13 +149,13 @@ Mr. Lorry did so, and they went down-stairs and out in the streets. A
 few minutes brought them to Mr. Lorry’s destination. Carton left him
 there; but lingered at a little distance, and turned back to the gate
 again when it was shut, and touched it. He had heard of her going to
-the prison every day. “She came out here,” he said, looking about him,
+the [[Prison|prison]] every day. “She came out here,” he said, looking about him,
 “turned this way, must have trod on these stones often. Let me follow in
 her steps.”
 
-It was ten o’clock at night when he stood before the prison of La Force,
+It was ten o’[[Clock|clock]] at [[Night|night]] when he stood before the [[Prison|prison]] of La Force,
 where she had stood hundreds of times. A little wood-sawyer, having
 closed his shop, was smoking his pipe at his shop-door.
 
-“Good night, citizen,” said Sydney Carton, pausing in going by; for, the
+“Good [[Night|night]], citizen,” said [[Sydney Carton]], pausing in going by; for, the
 man eyed him inquisitively.

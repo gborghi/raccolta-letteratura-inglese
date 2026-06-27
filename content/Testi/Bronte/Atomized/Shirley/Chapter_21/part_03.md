@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 21 (part 3)"
+title: "[[Shirley]] — Chapter 21 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,15 +16,15 @@ tags:
 
 individuals, without the slightest allowance made for circumstances or
 
-temptations; and then, Mr. Yorke, doubt clutches my inmost heart as to
+temptations; and then, Mr. Yorke, [[Doubt|doubt]] clutches my inmost heart as to
 
 whether men exist clement, reasonable, and just enough to be entrusted
 
-with the task of reform. I don't believe _you_ are of the number."
+with the task of [[Reform|reform]]. I don't believe _you_ are of the number."
 
 
 
-"You have an ill opinion of me, Miss Shirley. You never told me so much
+"You have an ill opinion of me, Miss [[Shirley]]. You never told me so much
 
 of your mind before."
 
@@ -64,9 +64,9 @@ Helstone also is proud and prejudiced. Moore, though juster and more
 
 considerate than either you or the rector, is still haughty, stern, and,
 
-in a public sense, selfish. It is well there are such men as Mr. Hall to
+in a public sense, selfish. It is [[Well|well]] there are such men as Mr. Hall to
 
-be found occasionally--men of large and kind hearts, who can love their
+be found occasionally--men of large and kind hearts, who can [[Love|love]] their
 
 whole race, who can forgive others for being richer, more prosperous, or
 
@@ -94,31 +94,31 @@ force of character than you, but they are better friends to mankind."
 
 "Only that of Robert Gérard Moore, Esq., of Hollow's Cottage, with Miss
 
-Keeldar, daughter and heiress of the late Charles Cave Keeldar of
+Keeldar, daughter and heiress of the late Charles [[Cave]] Keeldar of
 
 Fieldhead Hall."
 
 
 
-Shirley gazed at the questioner with rising colour. But the light in her
+[[Shirley]] gazed at the questioner with rising colour. But the light in her
 
 eye was not faltering; it shone steadily--yes, it burned deeply.
 
 
 
-"That is your revenge," she said slowly; then added, "Would it be a bad
+"That is your [[Revenge|revenge]]," she said slowly; then added, "Would it be a bad
 
-match, unworthy of the late Charles Cave Keeldar's representative?"
+match, unworthy of the late Charles [[Cave]] Keeldar's representative?"
 
 
 
-"My lass, Moore is a gentleman; his blood is pure and ancient as mine or
+"My lass, Moore is a gentleman; his [[Blood|blood]] is pure and ancient as mine or
 
 thine."
 
 
 
-"And we two set store by ancient blood? We have family pride, though one
+"And we two set store by ancient [[Blood|blood]]? We have family [[Pride|pride]], though one
 
 of us at least is a republican?"
 
@@ -126,13 +126,13 @@ of us at least is a republican?"
 
 Yorke bowed as he stood before her. His lips were mute, but his eye
 
-confessed the impeachment. Yes, he had family pride; you saw it in his
+confessed the impeachment. Yes, he had family [[Pride|pride]]; you saw it in his
 
 whole bearing.
 
 
 
-"Moore _is_ a gentleman," echoed Shirley, lifting her head with glad
+"Moore _is_ a gentleman," echoed [[Shirley]], lifting her head with glad
 
 grace. She checked herself. Words seemed crowding to her tongue. She
 
@@ -140,15 +140,15 @@ would not give them utterance; but her look spoke much at the moment.
 
 What, Yorke tried to read, but could not. The language was there,
 
-visible, but untranslatable--a poem, a fervid lyric, in an unknown
+visible, but untranslatable--a poem, a fervid [[Lyric|lyric]], in an unknown
 
 tongue. It was not a plain story, however, no simple gush of feeling, no
 
-ordinary love-confession--that was obvious. It was something other,
+ordinary [[Love|love]]-confession--that was obvious. It was something other,
 
-deeper, more intricate than he guessed at. He felt his revenge had not
+deeper, more intricate than he guessed at. He felt his [[Revenge|revenge]] had not
 
-struck home. He felt that Shirley triumphed. She held him at fault,
+struck [[Home|home]]. He felt that [[Shirley]] triumphed. She held him at fault,
 
 baffled, puzzled. _She_ enjoyed the moment, not _he_.
 
@@ -158,7 +158,7 @@ baffled, puzzled. _She_ enjoyed the moment, not _he_.
 
 
 
-"Therefore there would be no inequality in our union."
+"Therefore there would be no inequality in our [[Union|union]]."
 
 
 
@@ -186,7 +186,7 @@ her mobile lineaments.
 
 
 
-She laughed. "Take courage, sir; you are not singular in your ignorance.
+She laughed. "Take [[Courage|courage]], sir; you are not singular in your ignorance.
 
 But I suppose if Moore understands me that will do, will it not?"
 
@@ -222,9 +222,9 @@ The day being fine, or at least fair--for soft clouds curtained the sun,
 
 and a dim but not chill or waterish haze slept blue on the
 
-hills--Caroline, while Shirley was engaged with her callers, had
+hills--Caroline, while [[Shirley]] was engaged with her callers, had
 
-persuaded Mrs. Pryor to assume her bonnet and summer shawl, and to take
+persuaded Mrs. Pryor to assume her bonnet and [[Summer|summer]] shawl, and to take
 
 a walk with her up towards the narrow end of the Hollow.
 
@@ -234,7 +234,7 @@ Here the opposing sides of the glen, approaching each other and becoming
 
 clothed with brushwood and stunted oaks, formed a wooded ravine, at the
 
-bottom of which ran the mill-stream, in broken, unquiet course,
+[[Bottom|bottom]] of which ran the mill-stream, in broken, unquiet course,
 
 struggling with many stones, chafing against rugged banks, fretting with
 
@@ -242,17 +242,17 @@ gnarled tree-roots, foaming, gurgling, battling as it went. Here, when
 
 you had wandered half a mile from the mill, you found a sense of deep
 
-solitude--found it in the shade of unmolested trees, received it in the
+[[Solitude|solitude]]--found it in the shade of unmolested trees, received it in the
 
-singing of many birds, for which that shade made a home. This was no
+singing of many [[Birds|birds]], for which that shade made a [[Home|home]]. This was no
 
-trodden way. The freshness of the wood flowers attested that foot of man
+trodden way. The freshness of the wood [[Flowers|flowers]] attested that foot of man
 
 seldom pressed them; the abounding wild roses looked as if they budded,
 
-bloomed, and faded under the watch of solitude, as if in a sultan's
+bloomed, and faded under the watch of [[Solitude|solitude]], as if in a sultan's
 
-harem. Here you saw the sweet azure of blue-bells, and recognized in
+harem. Here you saw the sweet azure of blue-[[Bells|bells]], and recognized in
 
 pearl-white blossoms, spangling the grass, a humble type of some starlit
 
@@ -262,4 +262,4 @@ spot in space.
 
 Mrs. Pryor liked a quiet walk. She ever shunned high-roads, and sought
 
-byways and lonely lanes. One companion she preferred to total solitude,
+byways and lonely lanes. One companion she preferred to total [[Solitude|solitude]],

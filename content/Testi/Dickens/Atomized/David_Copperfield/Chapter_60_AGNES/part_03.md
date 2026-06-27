@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 60: AGNES (part 3)"
+title: "[[David Copperfield]] — Chapter 60: AGNES (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -16,12 +16,12 @@ tags:
 
 ‘My part in them,’ said Mr. Wickfield, shaking his white head, ‘has much
 matter for regret--for deep regret, and deep contrition, Trotwood, you
-well know. But I would not cancel it, if it were in my power.’
+[[Well|well]] know. But I would not cancel it, if it were in my power.’
 
 I could readily believe that, looking at the face beside him.
 
 ‘I should cancel with it,’ he pursued, ‘such patience and devotion, such
-fidelity, such a child’s love, as I must not forget, no! even to forget
+fidelity, such a [[Child|child]]’s [[Love|love]], as I must not forget, no! even to forget
 myself.’
 
 ‘I understand you, sir,’ I softly said. ‘I hold it--I have always held
@@ -33,9 +33,9 @@ how much she has undergone, how hard she has striven. Dear Agnes!’
 She had put her hand entreatingly on his arm, to stop him; and was very,
 very pale.
 
-‘Well, well!’ he said with a sigh, dismissing, as I then saw, some trial
+‘[[Well]], [[Well|well]]!’ he said with a sigh, dismissing, as I then saw, some trial
 she had borne, or was yet to bear, in connexion with what my aunt had
-told me. ‘Well! I have never told you, Trotwood, of her mother. Has
+told me. ‘[[Well]]! I have never told you, Trotwood, of her mother. Has
 anyone?’
 
 ‘Never, sir.’
@@ -49,14 +49,14 @@ heart.’
 Agnes leaned upon his shoulder, and stole her arm about his neck.
 
 ‘She had an affectionate and gentle heart,’ he said; ‘and it was broken.
-I knew its tender nature very well. No one could, if I did not. She
+I knew its tender [[Nature|nature]] very [[Well|well]]. No one could, if I did not. She
 loved me dearly, but was never happy. She was always labouring, in
-secret, under this distress; and being delicate and downcast at the time
+secret, under this distress; and being delicate and downcast at the [[Time|time]]
 of his last repulse--for it was not the first, by many--pined away
 and died. She left me Agnes, two weeks old; and the grey hair that you
 recollect me with, when you first came.’ He kissed Agnes on her cheek.
 
-‘My love for my dear child was a diseased love, but my mind was all
+‘My [[Love|love]] for my dear [[Child|child]] was a diseased [[Love|love]], but my mind was all
 unhealthy then. I say no more of that. I am not speaking of myself,
 Trotwood, but of her mother, and of her. If I give you any clue to what
 I am, or to what I have been, you will unravel it, I know. What Agnes
@@ -66,10 +66,10 @@ again together, after such great changes. I have told it all.’
 
 His bowed head, and her angel-face and filial duty, derived a more
 pathetic meaning from it than they had had before. If I had wanted
-anything by which to mark this night of our re-union, I should have
+anything by which to mark this [[Night|night]] of our re-[[Union|union]], I should have
 found it in this.
 
-Agnes rose up from her father’s side, before long; and going softly to
+Agnes [[Rose|rose]] up from her father’s side, before long; and going softly to
 her piano, played some of the old airs to which we had often listened in
 that place.
 
@@ -78,14 +78,14 @@ standing by.
 
 ‘What does my sister say to that?’
 
-‘I hope not.’
+‘I [[Hope|hope]] not.’
 
 ‘Then I have no such intention, Agnes.’
 
 ‘I think you ought not, Trotwood, since you ask me,’ she said, mildly.
-‘Your growing reputation and success enlarge your power of doing good;
+‘Your growing reputation and [[success]] enlarge your power of doing good;
 and if I could spare my brother,’ with her eyes upon me, ‘perhaps the
-time could not.’
+[[Time|time]] could not.’
 
 ‘What I am, you have made me, Agnes. You should know best.’
 
@@ -96,14 +96,14 @@ you, when we met today, something that has been in my thoughts since
 Dora died. You remember, when you came down to me in our little
 room--pointing upward, Agnes?’
 
-‘Oh, Trotwood!’ she returned, her eyes filled with tears. ‘So loving, so
+‘Oh, Trotwood!’ she returned, her eyes filled with [[Tears|tears]]. ‘So loving, so
 confiding, and so young! Can I ever forget?’
 
 ‘As you were then, my sister, I have often thought since, you have ever
 been to me. Ever pointing upward, Agnes; ever leading me to something
 better; ever directing me to higher things!’
 
-She only shook her head; through her tears I saw the same sad quiet
+She only shook her head; through her [[Tears|tears]] I saw the same sad quiet
 smile.
 
 ‘And I am so grateful to you for it, Agnes, so bound to you, that there
@@ -111,7 +111,7 @@ is no name for the affection of my heart. I want you to know, yet don’t
 know how to tell you, that all my life long I shall look up to you,
 and be guided by you, as I have been through the darkness that is past.
 Whatever betides, whatever new ties you may form, whatever changes may
-come between us, I shall always look to you, and love you, as I do now,
+come between us, I shall always look to you, and [[Love|love]] you, as I do now,
 and have always done. You will always be my solace and resource, as you
 have always been. Until I die, my dearest sister, I shall see you always
 before me, pointing upward!’
@@ -139,18 +139,18 @@ She softly played on, looking at me still.
 
 ‘Or at my saying that I really believe I felt, even then, that you could
 be faithfully affectionate against all discouragement, and never cease
-to be so, until you ceased to live?---Will you laugh at such a dream?’
+to be so, until you ceased to live?---Will you laugh at such [[A Dream|a dream]]?’
 
 ‘Oh, no! Oh, no!’
 
-For an instant, a distressful shadow crossed her face; but, even in the
+For an instant, a distressful [[Shadow|shadow]] crossed her face; but, even in the
 start it gave me, it was gone; and she was playing on, and looking at me
 with her own calm smile.
 
-As I rode back in the lonely night, the wind going by me like a restless
-memory, I thought of this, and feared she was not happy. I was not
+As I rode back in the lonely [[Night|night]], the [[Wind|wind]] going by me like a restless
+[[Memory|memory]], I thought of this, and feared she was not happy. I was not
 happy; but, thus far, I had faithfully set the seal upon the Past, and,
 thinking of her, pointing upward, thought of her as pointing to that
-sky above me, where, in the mystery to come, I might yet love her with
-a love unknown on earth, and tell her what the strife had been within me
+sky above me, where, in the mystery to come, I might yet [[Love|love]] her with
+a [[Love|love]] unknown on earth, and tell her what the strife had been within me
 when I loved her here.

@@ -15,12 +15,12 @@ tags:
 
 
 At some distance from the factories, and on the highest and pleasantest
-ground in the neighbourhood, stands their hospital, or boarding-house for
-the sick: it is the best house in those parts, and was built by an
+ground in the neighbourhood, stands their hospital, or boarding-[[house]] for
+the sick: it is the best [[house]] in those parts, and was built by an
 eminent merchant for his own residence.  Like that institution at Boston,
 which I have before described, it is not parcelled out into wards, but is
 divided into convenient chambers, each of which has all the comforts of a
-very comfortable home.  The principal medical attendant resides under the
+very comfortable [[Home|home]].  The principal medical attendant resides under the
 same roof; and were the patients members of his own family, they could
 not be better cared for, or attended with greater gentleness and
 consideration.  The weekly charge in this establishment for each female
@@ -74,10 +74,10 @@ only observe, putting entirely out of sight the fact of the articles
 having been written by these girls after the arduous labours of the day,
 that it will compare advantageously with a great many English Annuals.
 It is pleasant to find that many of its Tales are of the Mills and of
-those who work in them; that they inculcate habits of self-denial and
+those who work in them; that they inculcate habits of [[Self|self]]-denial and
 contentment, and teach good doctrines of enlarged benevolence.  A strong
-feeling for the beauties of nature, as displayed in the solitudes the
-writers have left at home, breathes through its pages like wholesome
+feeling for the beauties of [[Nature|nature]], as displayed in the solitudes the
+writers have left at [[Home|home]], breathes through its pages like wholesome
 village air; and though a circulating library is a favourable school for
 the study of such topics, it has very scant allusion to fine clothes,
 fine marriages, fine houses, or fine life.  Some persons might object to
@@ -100,32 +100,32 @@ circumstance.
 
 In this brief account of Lowell, and inadequate expression of the
 gratification it yielded me, and cannot fail to afford to any foreigner
-to whom the condition of such people at home is a subject of interest and
+to whom the condition of such people at [[Home|home]] is a subject of interest and
 anxious speculation, I have carefully abstained from drawing a comparison
 between these factories and those of our own land.  Many of the
 circumstances whose strong influence has been at work for years in our
 manufacturing towns have not arisen here; and there is no manufacturing
 population in Lowell, so to speak: for these girls (often the daughters
 of small farmers) come from other States, remain a few years in the
-mills, and then go home for good.
+mills, and then go [[Home|home]] for good.
 
 The contrast would be a strong one, for it would be between the Good and
-Evil, the living light and deepest shadow.  I abstain from it, because I
+Evil, the living light and deepest [[Shadow|shadow]].  I abstain from it, because I
 deem it just to do so.  But I only the more earnestly adjure all those
 whose eyes may rest on these pages, to pause and reflect upon the
 difference between this town and those great haunts of desperate misery:
 to call to mind, if they can in the midst of party strife and squabble,
-the efforts that must be made to purge them of their suffering and
-danger: and last, and foremost, to remember how the precious Time is
+the efforts that must be made to purge them of their [[Suffering|suffering]] and
+danger: and last, and foremost, to remember how the precious [[Time]] is
 rushing by.
 
-I returned at night by the same railroad and in the same kind of car.
+I returned at [[Night|night]] by the same railroad and in the same kind of car.
 One of the passengers being exceedingly anxious to expound at great
 length to my companion (not to me, of course) the true principles on
-which books of travel in America should be written by Englishmen, I
-feigned to fall asleep.  But glancing all the way out at window from the
+which books of travel in [[America]] should be written by Englishmen, I
+feigned to fall asleep.  But glancing all the way out at [[Window|window]] from the
 corners of my eyes, I found abundance of entertainment for the rest of
-the ride in watching the effects of the wood fire, which had been
+the ride in watching the effects of the wood [[Fire|fire]], which had been
 invisible in the morning but were now brought out in full relief by the
 darkness: for we were travelling in a whirlwind of bright sparks, which
-showered about us like a storm of fiery snow.
+showered about us like a [[Storm|storm]] of fiery [[Snow|snow]].

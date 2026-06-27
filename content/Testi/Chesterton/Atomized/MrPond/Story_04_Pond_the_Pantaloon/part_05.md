@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Pond the Pantaloon (part 5)"
+title: "[[MrPond]] — Pond the Pantaloon (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -30,25 +30,25 @@ shack."
 
 "I consider it quite a Christmas triumph," said Mr. Pond, with
 
-undiminished cheerfulness, "that we have managed to keep the fire
+undiminished cheerfulness, "that we have managed to keep the [[Fire|fire]]
 
-in, anyhow. . . .  Why, I believe it's begun to snow."
+in, anyhow. . . .  Why, I believe it's begun to [[Snow|snow]]."
 
 
 
-For some time they had noted that the afternoon, already darkening
+For some [[Time|time]] they had noted that the afternoon, already darkening
 
-towards the early winter evening, had something of that lurid
+towards the early [[Winter|winter]] evening, had something of that lurid
 
-greenish light which often glows under the load of snow-clouds; a
+greenish light which often glows under the load of [[Snow|snow]]-clouds; a
 
 sprinkling began to fall as they went along the apparently
 
-interminable platform; and by the time they reached the austere
+interminable platform; and by the [[Time|time]] they reached the austere
 
 waiting-room, its roof and doorway were powdered with silver.  The
 
-fire was burning briskly inside; Dyer had evidently been keeping
+[[Fire|fire]] was burning briskly inside; Dyer had evidently been keeping
 
 himself warm.
 
@@ -58,13 +58,13 @@ himself warm.
 
 beginning to look like a Christmas card.  Our dismal salle
 
-d'attente will soon be a parody of Father Christmas's cottage in a
+d'attente will soon be a [[Parody|parody]] of Father Christmas's cottage in a
 
 pantomime."
 
 
 
-"The whole thing is like the parody of a pantomime," said Pond in a
+"The whole thing is like the [[Parody|parody]] of a pantomime," said Pond in a
 
 lower and more disquieted tone, "and as you say, it is very queer."
 
@@ -114,19 +114,19 @@ telephoning as you did."
 
 
 
-"Well," said Pond obstinately, "and what would they do then; if
+"[[Well]]," said Pond obstinately, "and what would they do then; if
 
 they knew I'd telephoned?"
 
 
 
-Wotton looked puzzled; and Pond sat down in silence, stirring the
+Wotton looked puzzled; and Pond sat down in [[Silence|silence]], stirring the
 
-fire and staring at it.
+[[Fire|fire]] and staring at it.
 
 
 
-After a silence he said abruptly:  "I wish Dyer were back."
+After a [[Silence|silence]] he said abruptly:  "I wish Dyer were back."
 
 
 
@@ -138,13 +138,13 @@ finished the business; and it's all over here."
 
 
 
-"I fear," said Pond, without taking his head out of the fireplace,
+"I [[Fear|fear]]," said Pond, without taking his head out of the fireplace,
 
 "that it's only just going to begin."
 
 
 
-There was another silence of growing mystification, like the
+There was another [[Silence|silence]] of growing [[Mystification|mystification]], like the
 
 gathering darkness outside.  And then Pond observed suddenly:
 
@@ -158,13 +158,13 @@ Wotton's face only expressed the stolid stupefaction natural under
 
 the circumstances; but in his depths, which were deeper than some
 
-supposed, an unearthly chill touched him for the first time.
+supposed, an unearthly chill touched him for the first [[Time|time]].
 
-Nightmare stirred in its sleep; not the mere practical perplexity
+[[nightmare|Nightmare]] stirred in its [[Sleep|sleep]]; not the mere practical perplexity
 
 of a problem, but all those doubts beyond reason which revolve
 
-round place and time.  Before he could speak, Pond added:
+round place and [[Time|time]].  Before he could speak, Pond added:
 
 
 
@@ -178,7 +178,7 @@ locked up the station; and there is nobody on it but ourselves;
 
 except that girl in the bar.  You don't imagine she has put a new
 
-set of furniture and fire-irons in all the waiting-rooms?"
+set of furniture and [[Fire|fire]]-irons in all the waiting-rooms?"
 
 
 
@@ -190,17 +190,17 @@ shape of poker."
 
 Almost as he spoke, he leapt away from the fireplace, leaving the
 
-poker in the fire, and ran to the doorway, craning out his head and
+poker in the [[Fire|fire]], and ran to the doorway, craning out his head and
 
 listening.  His companion listened also; and recognized as an
 
-objective reality, which was no nightmare, a noise of scrambling
+objective reality, which was no [[nightmare]], a noise of scrambling
 
 footsteps somewhere on the platform.  But, when they ran out, the
 
 platform appeared to be perfectly empty, now a blank and solid
 
-table of snow; and they began to realize that the noise came from
+table of [[Snow|snow]]; and they began to realize that the noise came from
 
 underneath their feet.  Looking over the railing, they saw that the
 
@@ -208,7 +208,7 @@ whole raised woodwork of the station was intercepted at one point
 
 by a belt of grassy embankment, very grey and discoloured with the
 
-smoke; they were just in time to see a dark lean figure scramble up
+smoke; they were just in [[Time|time]] to see a dark lean figure scramble up
 
 this bank and dive under the platform, in such a manner that he was
 
@@ -226,13 +226,13 @@ station, against such very special difficulties, Wotton's mind,
 
 already full of suspicions, decided at a glance that he was very
 
-much of a dark horse.  Curiously enough, he looked a little like a
+much of a dark [[Horse|horse]].  Curiously enough, he looked a little like a
 
-horse, having a long equine visage and a strange sort of stoop; he
+[[Horse|horse]], having a long equine visage and a strange sort of stoop; he
 
 was swarthy and haggard and his hollow eyes were such dense patches
 
-of shadow that it was a sort of shock to realize that the eyes
+of [[Shadow|shadow]] that it was a sort of shock to realize that the eyes
 
 within were glaring.  He was dressed with the last extreme of
 
@@ -240,11 +240,11 @@ shabbiness, in a long threadbare and almost ragged waterproof; and
 
 they thought they had never seen before a face and figure so
 
-symbolic of desolation and dreary tragedy.  It seemed to Wotton
+symbolic of desolation and dreary [[Tragedy|tragedy]].  It seemed to Wotton
 
 that he himself had his first real glimpse of those depths in which
 
-despair manufactures the many revolutionary movements which it had
+[[Despair|despair]] manufactures the many revolutionary movements which it had
 
 been his duty to combat; but, of necessity, his duty prevailed.
 

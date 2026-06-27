@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 2 (part 2)"
+title: "[[Shirley]] — Chapter 2 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,11 +20,11 @@ yourself."
 
 "Yes, but my sister would be glad to see you, if you would prefer
 
-stepping into the house."
+stepping into the [[house]]."
 
 
 
-"Oh no! The ladies are best alone, I never was a lady's man. You don't
+"Oh no! The ladies are best [[Alone|alone]], I never was a lady's man. You don't
 
 mistake me for my friend Sweeting, do you, Mr. Moore?"
 
@@ -38,17 +38,17 @@ overcoat, or the little gentleman?"
 
 "The little one--he of Nunnely; the cavalier of the Misses Sykes, with
 
-the whole six of whom he is in love, ha! ha!"
+the whole six of whom he is in [[Love|love]], ha! ha!"
 
 
 
-"Better be generally in love with all than specially with one, I should
+"Better be generally in [[Love|love]] with all than specially with one, I should
 
 think, in that quarter."
 
 
 
-"But he is specially in love with one besides, for when I and Donne
+"But he is specially in [[Love|love]] with one besides, for when I and Donne
 
 urged him to make a choice amongst the fair bevy, he named--which do you
 
@@ -102,13 +102,13 @@ eyeglass. That's what he has."
 
 
 
-"Ha! ha! Excellent! I'll ask him that next time I see him. I'll roast
+"Ha! ha! Excellent! I'll ask him that next [[Time|time]] I see him. I'll roast
 
-him for his presumption. But no doubt he expects old Christopher Sykes
+him for his presumption. But no [[Doubt|doubt]] he expects old Christopher Sykes
 
 would do something handsome. He is rich, is he not? They live in a large
 
-house."
+[[house]]."
 
 
 
@@ -126,7 +126,7 @@ would be about as likely to think of drawing money from the business to
 
 give dowries to his daughters as I should be to dream of pulling down
 
-the cottage there, and constructing on its ruins a house as large as
+the cottage there, and constructing on its ruins a [[house]] as large as
 
 Fieldhead."
 
@@ -144,7 +144,7 @@ Briarfield gossips are capable of saying that or sillier things."
 
 "That you were going to take Fieldhead on a lease (I thought it looked a
 
-dismal place, by-the-bye, to-night, as I passed it), and that it was
+dismal place, by-the-bye, to-[[Night|night]], as I passed it), and that it was
 
 your intention to settle a Miss Sykes there as mistress--to be married,
 
@@ -154,7 +154,7 @@ the handsomest."
 
 
 
-"I wonder how often it has been settled that I was to be married since I
+"I [[Wonder|wonder]] how often it has been settled that I was to be married since I
 
 came to Briarfield. They have assigned me every marriageable single
 
@@ -170,7 +170,7 @@ visit nowhere; I seek female society about as assiduously as you do, Mr.
 
 Malone. If ever I go to Whinbury, it is only to give Sykes or Pearson a
 
-call in their counting-house, where our discussions run on other topics
+call in their counting-[[house]], where our discussions run on other topics
 
 than matrimony, and our thoughts are occupied with other things than
 
@@ -180,15 +180,15 @@ we can't employ, the mills we can't run, the perverse course of events
 
 generally, which we cannot alter, fill our hearts, I take it, pretty
 
-well at present, to the tolerably complete exclusion of such figments as
+[[Well|well]] at present, to the tolerably complete exclusion of such figments as
 
-love-making, etc."
+[[Love|love]]-making, etc."
 
 
 
 "I go along with you completely, Moore. If there is one notion I hate
 
-more than another, it is that of marriage--I mean marriage in the vulgar
+more than another, it is that of [[Marriage|marriage]]--I mean [[Marriage|marriage]] in the vulgar
 
 weak sense, as a mere matter of sentiment--two beggarly fools agreeing
 
@@ -202,9 +202,9 @@ dignity of views and permanency of solid interests, is not so bad--eh?"
 
 "No," responded Moore, in an absent manner. The subject seemed to have
 
-no interest for him; he did not pursue it. After sitting for some time
+no interest for him; he did not pursue it. After sitting for some [[Time|time]]
 
-gazing at the fire with a preoccupied air, he suddenly turned his head.
+gazing at the [[Fire|fire]] with a preoccupied air, he suddenly turned his head.
 
 
 
@@ -212,9 +212,9 @@ gazing at the fire with a preoccupied air, he suddenly turned his head.
 
 
 
-Rising, he went to the window, opened it, and listened. He soon closed
+Rising, he went to the [[Window|window]], opened it, and listened. He soon closed
 
-it. "It is only the sound of the wind rising," he remarked, "and the
+it. "It is only the sound of the [[Wind|wind]] rising," he remarked, "and the
 
 rivulet a little swollen, rushing down the hollow. I expected those
 
@@ -234,15 +234,15 @@ it will."
 
 the walls of this mill. Once put up, I defy the frame-breakers. Let them
 
-only pay me a visit and take the consequences. My mill is my castle."
+only pay me a visit and take the consequences. My mill is my [[Castle|castle]]."
 
 
 
 "One despises such low scoundrels," observed Malone, in a profound vein
 
-of reflection. "I almost wish a party would call upon you to-night; but
+of reflection. "I almost wish a party would call upon you to-[[Night|night]]; but
 
-the road seemed extremely quiet as I came along. I saw nothing astir."
+the [[Road|road]] seemed extremely quiet as I came along. I saw nothing astir."
 
 
 
@@ -254,7 +254,7 @@ the road seemed extremely quiet as I came along. I saw nothing astir."
 
 
 
-"There would be nothing on that road. It is in the direction of Stilbro'
+"There would be nothing on that [[Road|road]]. It is in the direction of Stilbro'
 
 the risk lies."
 
@@ -268,7 +268,7 @@ the risk lies."
 
 this difference: most of the manufacturers seem paralyzed when they are
 
-attacked. Sykes, for instance, when his dressing-shop was set on fire
+attacked. Sykes, for instance, when his dressing-shop was set on [[Fire|fire]]
 
 and burned to the ground, when the cloth was torn from his tenters and
 

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -18,20 +18,20 @@ CHAPTER XXIII. IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES
 TO THE RETURN MATCH BETWEEN HIMSELF AND MR. TROTTER
 
 In a small room in the vicinity of the stableyard, betimes in the
-morning, which was ushered in by Mr. Pickwick’s adventure with the
+morning, which was ushered in by Mr. [[Pickwick]]’s adventure with the
 middle--aged lady in the yellow curl-papers, sat Mr. Weller, senior,
-preparing himself for his journey to London. He was sitting in an
+preparing himself for his [[Journey|journey]] to [[London]]. He was sitting in an
 excellent attitude for having his portrait taken; and here it is.
 
 It is very possible that at some earlier period of his career, Mr.
 Weller’s profile might have presented a bold and determined outline. His
 face, however, had expanded under the influence of good living, and a
-disposition remarkable for resignation; and its bold, fleshy curves had
+disposition remarkable for [[Resignation|resignation]]; and its bold, fleshy curves had
 so far extended beyond the limits originally assigned them, that unless
 you took a full view of his countenance in front, it was difficult to
 distinguish more than the extreme tip of a very rubicund nose. His chin,
-from the same cause, had acquired the grave and imposing form which is
-generally described by prefixing the word ‘double’ to that expressive
+from the same cause, had acquired the [[Grave|grave]] and imposing form which is
+generally described by prefixing the word ‘[[Double|double]]’ to that expressive
 feature; and his complexion exhibited that peculiarly mottled
 combination of colours which is only to be seen in gentlemen of his
 profession, and in underdone roast beef. Round his neck he wore a
@@ -41,14 +41,14 @@ of the one, from the folds of the other. Over this, he mounted a long
 waistcoat of a broad pink-striped pattern, and over that again, a wide-
 skirted green coat, ornamented with large brass buttons, whereof the two
 which garnished the waist, were so far apart, that no man had ever
-beheld them both at the same time. His hair, which was short, sleek, and
+beheld them both at the same [[Time|time]]. His hair, which was short, sleek, and
 black, was just visible beneath the capacious brim of a low-crowned
 brown hat. His legs were encased in knee-cord breeches, and painted top-
 boots; and a copper watch-chain, terminating in one seal, and a key of
 the same material, dangled loosely from his capacious waistband.
 
-We have said that Mr. Weller was engaged in preparing for his journey to
-London--he was taking sustenance, in fact. On the table before him,
+We have said that Mr. Weller was engaged in preparing for his [[Journey|journey]] to
+[[London]]--he was taking sustenance, in fact. On the table before him,
 stood a pot of ale, a cold round of beef, and a very respectable-looking
 loaf, to each of which he distributed his favours in turn, with the most
 rigid impartiality. He had just cut a mighty slice from the latter, when
@@ -82,7 +82,7 @@ are ‘ceptions to ev’ry rule. I have heerd how many ordinary women one
 widder’s equal to in pint o’ comin’ over you. I think it’s five-and-
 twenty, but I don’t rightly know vether it ain’t more.’
 
-‘Well; that’s pretty well,’ said Sam.
+‘[[Well]]; that’s pretty [[Well|well]],’ said Sam.
 
 ‘Besides,’ continued Mr. Weller, not noticing the interruption, ‘that’s
 a wery different thing. You know what the counsel said, Sammy, as
@@ -101,21 +101,21 @@ vay; scorned it, Sammy.’ In the excitement of feeling produced by this
 agonising reflection, Mr. Weller rang the bell, and ordered an
 additional pint of ale.
 
-‘Well, it’s no use talking about it now,’ said Sam. ‘It’s over, and
+‘[[Well]], it’s no use talking about it now,’ said Sam. ‘It’s over, and
 can’t be helped, and that’s one consolation, as they always says in
 Turkey, ven they cuts the wrong man’s head off. It’s my innings now,
 gov’nor, and as soon as I catches hold o’ this ‘ere Trotter, I’ll have a
 good ‘un.’
 
-‘I hope you will, Sammy. I hope you will,’ returned Mr. Weller. ‘Here’s
+‘I [[Hope|hope]] you will, Sammy. I [[Hope|hope]] you will,’ returned Mr. Weller. ‘Here’s
 your health, Sammy, and may you speedily vipe off the disgrace as you’ve
-inflicted on the family name.’ In honour of this toast Mr. Weller
+inflicted on the family name.’ In [[Honour|honour]] of this toast Mr. Weller
 imbibed at a draught, at least two-thirds of a newly-arrived pint, and
 handed it over to his son, to dispose of the remainder, which he
 instantaneously did.
 
-‘And now, Sammy,’ said Mr. Weller, consulting a large double-faced
-silver watch that hung at the end of the copper chain. ‘Now it’s time I
+‘And now, Sammy,’ said Mr. Weller, consulting a large [[Double|double]]-faced
+silver watch that hung at the end of the copper chain. ‘Now it’s [[Time|time]] I
 was up at the office to get my vay-bill and see the coach loaded; for
 coaches, Sammy, is like guns--they requires to be loaded with wery great
 care, afore they go off.’
@@ -125,11 +125,11 @@ filial smile. His revered parent continued in a solemn tone--
 
 ‘I’m a-goin’ to leave you, Samivel, my boy, and there’s no telling ven I
 shall see you again. Your mother-in-law may ha’ been too much for me, or
-a thousand things may have happened by the time you next hears any news
+a thousand things may have happened by the [[Time|time]] you next hears any news
 o’ the celebrated Mr. Veller o’ the Bell Savage. The family name depends
-wery much upon you, Samivel, and I hope you’ll do wot’s right by it.
+wery much upon you, Samivel, and I [[Hope|hope]] you’ll do wot’s right by it.
 Upon all little pints o’ breedin’, I know I may trust you as vell as if
-it was my own self. So I’ve only this here one little bit of adwice to
+it was my own [[Self|self]]. So I’ve only this here one little bit of adwice to
 give you. If ever you gets to up’ards o’ fifty, and feels disposed to go
 a-marryin’ anybody--no matter who--jist you shut yourself up in your own
 room, if you’ve got one, and pison yourself off hand. Hangin’s wulgar,

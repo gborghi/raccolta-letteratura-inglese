@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — F.5.  Some states do not allow disclaimers of certain implied"
+title: "[[LordKitchener]] — F.5.  Some states do not allow disclaimers of certain implied"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

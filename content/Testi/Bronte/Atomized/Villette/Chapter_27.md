@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 26"
+title: "[[Villette]] — Chapter 26"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -19,7 +19,7 @@ A BURIAL.
 
 
 From this date my life did not want variety; I went out a good deal,
-with the entire consent of Madame Beck, who perfectly approved the
+with the entire consent of [[Madame Beck]], who perfectly approved the
 grade of my acquaintance. That worthy directress had never from the
 first treated me otherwise than with respect; and when she found that I
 was liable to frequent invitations from a château and a great hotel,
@@ -27,13 +27,13 @@ respect improved into distinction.
 
 Not that she was fulsome about it: Madame, in all things worldly, was
 in nothing weak; there was measure and sense in her hottest pursuit of
-self-interest, calm and considerateness in her closest clutch of gain;
-without, then, laying herself open to my contempt as a time-server and
+[[Self|self]]-interest, calm and considerateness in her closest clutch of gain;
+without, then, laying herself open to my contempt as a [[Time|time]]-server and
 a toadie, she marked with tact that she was pleased people connected
 with her establishment should frequent such associates as must
 cultivate and elevate, rather than those who might deteriorate and
 depress. She never praised either me or my friends; only once when she
-was sitting in the sun in the garden, a cup of coffee at her elbow and
+was sitting in the sun in the [[Garden|garden]], a cup of coffee at her elbow and
 the Gazette in her hand, looking very comfortable, and I came up and
 asked leave of absence for the evening, she delivered herself in this
 gracious sort:—
@@ -47,7 +47,7 @@ suis contente; c’est sage, digne, laudable.”
 She closed her lips and resumed the Gazette.
 
 The reader will not too gravely regard the little circumstance that
-about this time the triply-enclosed packet of five letters temporarily
+about this [[Time|time]] the triply-enclosed packet of five letters temporarily
 disappeared from my bureau. Blank dismay was naturally my first
 sensation on making the discovery; but in a moment I took heart of
 grace.
@@ -59,7 +59,7 @@ And they did come back: they had only been on a short visit to Madame’s
 chamber; having passed their examination, they came back duly and
 truly: I found them all right the next day.
 
-I wonder what she thought of my correspondence? What estimate did she
+I [[Wonder|wonder]] what she thought of my correspondence? What estimate did she
 form of Dr. John Bretton’s epistolary powers? In what light did the
 often very pithy thoughts, the generally sound, and sometimes original
 opinions, set, without pretension, in an easily-flowing, spirited
@@ -67,15 +67,15 @@ style, appear to her? How did she like that genial, half humorous vein,
 which to me gave such delight? What did she think of the few kind words
 scattered here and there—not thickly, as the diamonds were scattered in
 the valley of Sindbad, but sparely, as those gems lie in unfabled beds?
-Oh, Madame Beck! how seemed these things to you?
+Oh, [[Madame Beck]]! how seemed these things to you?
 
-I think in Madame Beck’s eyes the five letters found a certain favour.
+I think in [[Madame Beck]]’s eyes the five letters found a certain favour.
 One day after she had _borrowed_ them of me (in speaking of so suave a
 little woman, one ought to use suave terms), I caught her examining me
 with a steady contemplative gaze, a little puzzled, but not at all
 malevolent. It was during that brief space between lessons, when the
-pupils turned out into the court for a quarter of an hour’s recreation;
-she and I remained in the first classe alone: when I met her eye, her
+pupils turned out into the [[Court|court]] for a quarter of an hour’s recreation;
+she and I remained in the first classe [[Alone|alone]]: when I met her eye, her
 thoughts forced themselves partially through her lips.
 
 “Il y a,” said she, “quelquechose de bien remarquable dans le caractère
@@ -90,13 +90,13 @@ She gave a little laugh, repeating the word “how” in English.
 de les surveiller,” she added, getting up and trotting away like the
 compact little pony she was.
 
-“Then I hope,” murmured I to myself, “you will graciously let alone my
+“Then I [[Hope|hope]],” murmured I to myself, “you will graciously let [[Alone|alone]] my
 letters for the future.”
 
 Alas! something came rushing into my eyes, dimming utterly their
-vision, blotting from sight the schoolroom, the garden, the bright
-winter sun, as I remembered that never more would letters, such as she
-had read, come to me. I had seen the last of them. That goodly river on
+vision, blotting from sight the schoolroom, the [[Garden|garden]], the bright
+[[Winter|winter]] sun, as I remembered that never more would letters, such as she
+had read, come to me. I had seen the last of them. That goodly [[River|river]] on
 whose banks I had sojourned, of whose waves a few reviving drops had
 trickled to my lips, was bending to another course: it was leaving my
 little hut and field forlorn and sand-dry, pouring its wealth of waters
@@ -107,11 +107,11 @@ like a false mirage. Though stoical, I was not quite a stoic; drops
 streamed fast on my hands, on my desk: I wept one sultry shower, heavy
 and brief.
 
-But soon I said to myself, “The Hope I am bemoaning suffered and made
-me suffer much: it did not die till it was full time: following an
-agony so lingering, death ought to be welcome.”
+But soon I said to myself, “The [[Hope]] I am bemoaning suffered and made
+me suffer much: it did not die till it was full [[Time|time]]: following an
+agony so lingering, [[Death|death]] ought to be welcome.”
 
-Welcome I endeavoured to make it. Indeed, long pain had made patience a
+Welcome I endeavoured to make it. Indeed, long [[Pain|pain]] had made patience a
 habit. In the end I closed the eyes of my dead, covered its face, and
 composed its limbs with great calm.
 
@@ -120,14 +120,14 @@ undergone bereavement always jealously gather together and lock away
 mementos: it is not supportable to be stabbed to the heart each moment
 by sharp revival of regret.
 
-One vacant holiday afternoon (the Thursday) going to my treasure, with
-intent to consider its final disposal, I perceived—and this time with a
+One vacant holiday afternoon (the [[thursday|Thursday]]) going to my treasure, with
+intent to consider its final disposal, I perceived—and this [[Time|time]] with a
 strong impulse of displeasure—that it had been again tampered with: the
 packet was there, indeed, but the ribbon which secured it had been
 untied and retied; and by other symptoms I knew that my drawer had been
 visited.
 
-This was a little too much. Madame Beck herself was the soul of
+This was a little too much. [[Madame Beck]] herself was the [[Soul|soul]] of
 discretion, besides having as strong a brain and sound a judgment as
 ever furnished a human head; that she should know the contents of my
 casket, was not pleasant, but might be borne. Little Jesuit
@@ -136,7 +136,7 @@ understand them in an unperverted sense; but the idea that she had
 ventured to communicate information, thus gained, to others; that she
 had, perhaps, amused herself with a companion over documents, in my
 eyes most sacred, shocked me cruelly. Yet, that such was the case I now
-saw reason to fear; I even guessed her confidant. Her kinsman, M. Paul
+saw reason to [[Fear|fear]]; I even guessed her confidant. Her kinsman, M. Paul
 Emanuel, had spent yesterday evening with her: she was much in the
 habit of consulting him, and of discussing with him matters she
 broached to no one else. This very morning, in class, that gentleman
@@ -147,9 +147,9 @@ _He_, I believed, was not apt to regard what concerned me from a fair
 point of view, nor to judge me with tolerance and candour: I had always
 found him severe and suspicious: the thought that these letters, mere
 friendly letters as they were, had fallen once, and might fall again,
-into his hands, jarred my very soul.
+into his hands, jarred my very [[Soul|soul]].
 
-What should I do to prevent this? In what corner of this strange house
+What should I do to prevent this? In what corner of this strange [[house]]
 was it possible to find security or secresy? Where could a key be a
 safeguard, or a padlock a barrier?
 
@@ -161,16 +161,16 @@ Ichabod was written on their covers) might be consumed by vermin;
 certainly the writing would soon become obliterated by damp. No; the
 grenier would not do—but where then?
 
-While pondering this problem, I sat in the dormitory window-seat. It
-was a fine frosty afternoon; the winter sun, already setting, gleamed
-pale on the tops of the garden-shrubs in the “allée défendue.” One
-great old pear-tree—the nun’s pear-tree—stood up a tall dryad skeleton,
+While pondering this problem, I sat in the dormitory [[Window|window]]-seat. It
+was a fine frosty afternoon; the [[Winter|winter]] sun, already setting, gleamed
+pale on the tops of the [[Garden|garden]]-shrubs in the “allée défendue.” One
+great old pear-tree—the nun’s pear-tree—stood up a tall dryad [[skeleton]],
 grey, gaunt, and stripped. A thought struck me—one of those queer
 fantastic thoughts that will sometimes strike solitary people. I put on
-my bonnet, cloak, and furs, and went out into the city.
+my bonnet, cloak, and furs, and went out into the [[City|city]].
 
 Bending my steps to the old historical quarter of the town, whose hoar
-and overshadowed precincts I always sought by instinct in melancholy
+and overshadowed precincts I always sought by instinct in [[Melancholy|melancholy]]
 moods, I wandered on from street to street, till, having crossed a half
 deserted “place” or square, I found myself before a sort of broker’s
 shop; an ancient place, full of ancient things. What I wanted was a
@@ -182,22 +182,22 @@ I then made a little roll of my letters, wrapped them in oiled silk,
 bound them with twine, and, having put them in the bottle, got the old
 Jew broker to stopper, seal, and make it air-tight. While obeying my
 directions, he glanced at me now and then suspiciously from under his
-frost-white eyelashes. I believe he thought there was some evil deed on
+[[Frost|frost]]-white eyelashes. I believe he thought there was some evil deed on
 hand. In all this I had a dreary something—not pleasure—but a sad,
 lonely satisfaction. The impulse under which I acted, the mood
 controlling me, were similar to the impulse and the mood which had
 induced me to visit the confessional. With quick walking I regained the
-pensionnat just at dark, and in time for dinner.
+pensionnat just at dark, and in [[Time|time]] for dinner.
 
-At seven o’clock the moon rose. At half-past seven, when the pupils and
-teachers were at study, and Madame Beck was with her mother and
+At seven o’[[Clock|clock]] the [[Moon|moon]] [[Rose|rose]]. At half-past seven, when the pupils and
+teachers were at study, and [[Madame Beck]] was with her mother and
 children in the salle-à-manger, when the half-boarders were all gone
-home, and Rosine had left the vestibule, and all was still—I shawled
+[[Home|home]], and Rosine had left the vestibule, and all was still—I shawled
 myself, and, taking the sealed jar, stole out through the first-classe
 door, into the berceau and thence into the “allée défendue.”
 
 Methusaleh, the pear-tree, stood at the further end of this walk, near
-my seat: he rose up, dim and gray, above the lower shrubs round him.
+my seat: he [[Rose|rose]] up, dim and gray, above the lower shrubs round him.
 Now Methusaleh, though so very old, was of sound timber still; only
 there was a hole, or rather a deep hollow, near his root. I knew there
 was such a hollow, hidden partly by ivy and creepers growing thick
@@ -206,20 +206,20 @@ going to hide a treasure—I meant also to bury a grief. That grief over
 which I had lately been weeping, as I wrapped it in its winding-sheet,
 must be interred.
 
-Well, I cleared away the ivy, and found the hole; it was large enough
+[[Well]], I cleared away the ivy, and found the hole; it was large enough
 to receive the jar, and I thrust it deep in. In a tool-shed at the
-bottom of the garden, lay the relics of building-materials, left by
+[[Bottom|bottom]] of the [[Garden|garden]], lay the relics of building-materials, left by
 masons lately employed to repair a part of the premises. I fetched
 thence a slate and some mortar, put the slate on the hollow, secured it
 with cement, covered the hole with black mould, and, finally, replaced
 the ivy. This done, I rested, leaning against the tree; lingering, like
-any other mourner, beside a newly-sodded grave.
+any other mourner, beside a newly-sodded [[Grave|grave]].
 
-The air of the night was very still, but dim with a peculiar mist,
+The air of the [[Night|night]] was very still, but dim with a peculiar mist,
 which changed the moonlight into a luminous haze. In this air, or this
 mist, there was some quality—electrical, perhaps—which acted in strange
 sort upon me. I felt then as I had felt a year ago in England—on a
-night when the aurora borealis was streaming and sweeping round heaven,
+[[Night|night]] when the aurora borealis was streaming and sweeping round heaven,
 when, belated in lonely fields, I had paused to watch that mustering of
 an army with banners—that quivering of serried lances—that swift ascent
 of messengers from below the north star to the dark, high keystone of
@@ -227,16 +227,16 @@ heaven’s arch. I felt, not happy, far otherwise, but strong with
 reinforced strength.
 
 If life be a war, it seemed my destiny to conduct it single-handed. I
-pondered now how to break up my winter-quarters—to leave an encampment
+pondered now how to break up my [[Winter|winter]]-quarters—to leave an encampment
 where food and forage failed. Perhaps, to effect this change, another
 pitched battle must be fought with fortune; if so, I had a mind to the
 encounter: too poor to lose, God might destine me to gain. But what
-road was open?—what plan available?
+[[Road|road]] was open?—what plan available?
 
-On this question I was still pausing, when the moon, so dim hitherto,
+On this question I was still pausing, when the [[Moon|moon]], so dim hitherto,
 seemed to shine out somewhat brighter: a ray gleamed even white before
-me, and a shadow became distinct and marked. I looked more narrowly, to
-make out the cause of this well-defined contrast appearing a little
+me, and a [[Shadow|shadow]] became distinct and marked. I looked more narrowly, to
+make out the cause of this [[Well|well]]-defined contrast appearing a little
 suddenly in the obscure alley: whiter and blacker it grew on my eye: it
 took shape with instantaneous transformation. I stood about three yards
 from a tall, sable-robed, snowy-veiled woman.
@@ -250,7 +250,7 @@ She stood mute. She had no face—no features: all below her brow was
 masked with a white cloth; but she had eyes, and they viewed me.
 
 I felt, if not brave, yet a little desperate; and desperation will
-often suffice to fill the post and do the work of courage. I advanced
+often suffice to fill the post and do the work of [[Courage|courage]]. I advanced
 one step. I stretched out my hand, for I meant to touch her. She seemed
 to recede. I drew nearer: her recession, still silent, became swift. A
 mass of shrubs, full-leaved evergreens, laurel and dense yew,
@@ -258,10 +258,10 @@ intervened between me and what I followed. Having passed that obstacle,
 I looked and saw nothing. I waited. I said,—“If you have any errand to
 men, come back and deliver it.” Nothing spoke or re-appeared.
 
-This time there was no Dr. John to whom to have recourse: there was no
+This [[Time|time]] there was no Dr. John to whom to have recourse: there was no
 one to whom I dared whisper the words, “I have again seen the nun.”
 
-Paulina Mary sought my frequent presence in the Rue Crécy. In the old
+[[Paulina]] Mary sought my frequent presence in the Rue Crécy. In the old
 Bretton days, though she had never professed herself fond of me, my
 society had soon become to her a sort of unconscious necessary. I used
 to notice that if I withdrew to my room, she would speedily come
@@ -273,50 +273,50 @@ In the same spirit she urged me now—“Leave the Rue Fossette,” she said,
 “and come and live with us. Papa would give you far more than Madame
 Beck gives you.”
 
-Mr. Home himself offered me a handsome sum—thrice my present salary—if
+Mr. [[Home]] himself offered me a handsome sum—thrice my present salary—if
 I would accept the office of companion to his daughter. I declined. I
 think I should have declined had I been poorer than I was, and with
 scantier fund of resource, more stinted narrowness of future prospect.
 I had not that vocation. I could teach; I could give lessons; but to be
 either a private governess or a companion was unnatural to me. Rather
-than fill the former post in any great house, I would deliberately have
+than fill the former post in any [[Great House|great house]], I would deliberately have
 taken a housemaid’s place, bought a strong pair of gloves, swept
 bedrooms and staircases, and cleaned stoves and locks, in peace and
 independence. Rather than be a companion, I would have made shirts and
 starved.
 
-I was no bright lady’s shadow—not Miss de Bassompierre’s. Overcast
-enough it was my nature often to be; of a subdued habit I was: but the
+I was no bright lady’s [[Shadow|shadow]]—not Miss de Bassompierre’s. Overcast
+enough it was my [[Nature|nature]] often to be; of a subdued habit I was: but the
 dimness and depression must both be voluntary—such as kept me docile at
-my desk, in the midst of my now well-accustomed pupils in Madame Beck’s
-first classe; or alone, at my own bedside, in her dormitory, or in the
-alley and seat which were called mine, in her garden: my qualifications
+my desk, in the midst of my now [[Well|well]]-accustomed pupils in [[Madame Beck]]’s
+first classe; or [[Alone|alone]], at my own bedside, in her dormitory, or in the
+alley and seat which were called mine, in her [[Garden|garden]]: my qualifications
 were not convertible, nor adaptable; they could not be made the foil of
-any gem, the adjunct of any beauty, the appendage of any greatness in
-Christendom. Madame Beck and I, without assimilating, understood each
-other well. I was not _her_ companion, nor her children’s governess;
+any gem, the adjunct of any [[Beauty|beauty]], the appendage of any [[Greatness|greatness]] in
+Christendom. [[Madame Beck]] and I, without assimilating, understood each
+other [[Well|well]]. I was not _her_ companion, nor her children’s governess;
 she left me free: she tied me to nothing—not to herself—not even to her
-interests: once, when she had for a fortnight been called from home by
+interests: once, when she had for a fortnight been called from [[Home|home]] by
 a near relation’s illness, and on her return, all anxious and full of
 care about her establishment, lest something in her absence should have
 gone wrong finding that matters had proceeded much as usual, and that
 there was no evidence of glaring neglect—she made each of the teachers
 a present, in acknowledgment of steadiness. To my bedside she came at
-twelve o’clock at night, and told me she had no present for me: “I must
+twelve o’[[Clock|clock]] at [[Night|night]], and told me she had no present for me: “I must
 make fidelity advantageous to the St. Pierre,” said she; “if I attempt
 to make it advantageous to you, there will arise misunderstanding
 between us—perhaps separation. One thing, however, I _can_ do to please
-you—leave you alone with your liberty: c’est-ce que je ferai.” She kept
+you—leave you [[Alone|alone]] with your liberty: c’est-ce que je ferai.” She kept
 her word. Every slight shackle she had ever laid on me, she, from that
-time, with quiet hand removed. Thus I had pleasure in voluntarily
-respecting her rules: gratification in devoting double time, in taking
-double pains with the pupils she committed to my charge.
+[[Time|time]], with quiet hand removed. Thus I had pleasure in voluntarily
+respecting her rules: gratification in devoting [[Double|double]] [[Time|time]], in taking
+[[Double|double]] pains with the pupils she committed to my charge.
 
 As to Mary de Bassompierre, I visited her with pleasure, though I would
 not live with her. My visits soon taught me that it was unlikely even
 my occasional and voluntary society would long be indispensable to her.
 M. de Bassompierre, for his part, seemed impervious to this conjecture,
-blind to this possibility; unconscious as any child to the signs, the
+blind to this possibility; unconscious as any [[Child|child]] to the signs, the
 likelihoods, the fitful beginnings of what, when it drew to an end, he
 might not approve.
 
@@ -325,7 +325,7 @@ Difficult to say. He was much taken up with scientific interests; keen,
 intent, and somewhat oppugnant in what concerned his favourite
 pursuits, but unsuspicious and trustful in the ordinary affairs of
 life. From all I could gather, he seemed to regard his “daughterling”
-as still but a child, and probably had not yet admitted the notion that
+as still but a [[Child|child]], and probably had not yet admitted the notion that
 others might look on her in a different light: he would speak of what
 should be done when “Polly” was a woman, when she should be grown up;
 and “Polly,” standing beside his chair, would sometimes smile and take
@@ -334,13 +334,13 @@ locks; and, at other times, she would pout and toss her curls: but she
 never said, “Papa, I _am_ grown up.”
 
 She had different moods for different people. With her father she
-really was still a child, or child-like, affectionate, merry, and
+really was still a [[Child|child]], or [[Child|child]]-like, affectionate, merry, and
 playful. With me she was serious, and as womanly as thought and feeling
 could make her. With Mrs. Bretton she was docile and reliant, but not
 expansive. With Graham she was shy, at present very shy; at moments she
 tried to be cold; on occasion she endeavoured to shun him. His step
 made her start; his entrance hushed her; when he spoke, her answers
-failed of fluency; when he took leave, she remained self-vexed and
+failed of fluency; when he took leave, she remained [[Self|self]]-vexed and
 disconcerted. Even her father noticed this demeanour in her.
 
 “My little Polly,” he said once, “you live too retired a life; if you
@@ -358,7 +358,7 @@ simple tone.
 other.”
 
 “Then rub it off, Polly; rub the rust and the strangeness off. Talk
-away when he is here, and have no fear of him?”
+away when he is here, and have no [[Fear|fear]] of him?”
 
 “_He_ does not talk much. Is he afraid of me, do you think, papa?”
 
@@ -371,7 +371,7 @@ way, and that I have no unfriendly intention.”
 “Your way, you little chatter-box? So far from being your way, it is
 only your whim!”
 
-“Well, I’ll improve, papa.”
+“[[Well]], I’ll improve, papa.”
 
 And very pretty was the grace with which, the next day, she tried to
 keep her word. I saw her make the effort to converse affably with Dr.
@@ -379,14 +379,14 @@ John on general topics. The attention called into her guest’s face a
 pleasurable glow; he met her with caution, and replied to her in his
 softest tones, as if there was a kind of gossamer happiness hanging in
 the air which he feared to disturb by drawing too deep a breath.
-Certainly, in her timid yet earnest advance to friendship, it could not
+Certainly, in her timid yet earnest advance to [[Friendship|friendship]], it could not
 be denied that there was a most exquisite and fairy charm.
 
 When the Doctor was gone, she approached her father’s chair.
 
 “Did I keep my word, papa? Did I behave better?”
 
-“My Polly behaved like a queen. I shall become quite proud of her if
+“My Polly behaved like a [[Queen|queen]]. I shall become quite proud of her if
 this improvement continues. By-and-by we shall see her receiving my
 guests with quite a calm, grand manner. Miss Lucy and I will have to
 look about us, and polish up all our best airs and graces lest we
@@ -407,35 +407,35 @@ yourself?”
 
 “To be sure: for old acquaintance sake I like him: then he is a very
 good son to his mother; besides being a kind-hearted fellow and clever
-in his profession: yes, the callant is well enough.”
+in his profession: yes, the callant is [[Well|well]] enough.”
 
 “_Callant_! Ah, Scotchman! Papa, is it the Edinburgh or the Aberdeen
 accent you have?”
 
 “Both, my pet, both: and doubtless the Glaswegian into the bargain. It
-is that which enables me to speak French so well: a gude Scots tongue
-always succeeds well at the French.”
+is that which enables me to speak French so [[Well|well]]: a gude Scots tongue
+always succeeds [[Well|well]] at the French.”
 
 “_The_ French! Scotch again: incorrigible papa. You, too, need
 schooling.”
 
-“Well, Polly, you must persuade Miss Snowe to undertake both you and
+“[[Well]], Polly, you must persuade Miss Snowe to undertake both you and
 me; to make you steady and womanly, and me refined and classical.”
 
 The light in which M. de Bassompierre evidently regarded “Miss Snowe,”
 used to occasion me much inward edification. What contradictory
 attributes of character we sometimes find ascribed to us, according to
-the eye with which we are viewed! Madame Beck esteemed me learned and
-blue; Miss Fanshawe, caustic, ironic, and cynical; Mr. Home, a model
+the eye with which we are viewed! [[Madame Beck]] esteemed me learned and
+blue; Miss Fanshawe, caustic, ironic, and cynical; Mr. [[Home]], a model
 teacher, the essence of the sedate and discreet: somewhat conventional,
 perhaps, too strict, limited, and scrupulous, but still the pink and
 pattern of governess-correctness; whilst another person, Professor Paul
 Emanuel, to wit, never lost an opportunity of intimating his opinion
-that mine was rather a fiery and rash nature—adventurous, indocile, and
+that mine was rather a fiery and rash [[Nature|nature]]—adventurous, indocile, and
 audacious. I smiled at them all. If any one knew me it was little
-Paulina Mary.
+[[Paulina]] Mary.
 
-As I would not be Paulina’s nominal and paid companion, genial and
+As I would not be [[Paulina]]’s nominal and paid companion, genial and
 harmonious as I began to find her intercourse, she persuaded me to join
 her in some study, as a regular and settled means of sustaining
 communication: she proposed the German language, which, like myself,
@@ -444,9 +444,9 @@ Rue Crécy of the same mistress; this arrangement threw us together for
 some hours of every week. M. de Bassompierre seemed quite pleased: it
 perfectly met his approbation, that Madame Minerva Gravity should
 associate a portion of her leisure with that of his fair and dear
-child.
+[[Child|child]].
 
-That other self-elected judge of mine, the professor in the Rue
+That other [[Self|self]]-elected judge of mine, [[The Professor|the professor]] in the Rue
 Fossette, discovering by some surreptitious spying means, that I was no
 longer so stationary as hitherto, but went out regularly at certain
 hours of certain days, took it upon himself to place me under
@@ -461,33 +461,33 @@ solemnly that he “had his eye on me: _he_ at least would discharge the
 duty of a friend, and not leave me entirely to my own devices. My
 proceedings seemed at present very unsettled: he did not know what to
 make of them: he thought his cousin Beck very much to blame in
-suffering this sort of fluttering inconsistency in a teacher attached
-to her house. What had a person devoted to a serious calling, that of
-education, to do with Counts and Countesses, hotels and châteaux? To
-him, I seemed altogether ‘en l’air.’ On his faith, he believed I went
+[[Suffering|suffering]] this sort of fluttering inconsistency in a teacher attached
+to her [[house]]. What had a person devoted to a serious calling, that of
+[[Education|education]], to do with Counts and Countesses, hotels and châteaux? To
+him, I seemed altogether ‘en l’air.’ On his [[Faith|faith]], he believed I went
 out six days in the seven.”
 
 I said, “Monsieur exaggerated. I certainly had enjoyed the advantage of
 a little change lately, but not before it had become necessary; and the
 privilege was by no means exercised in excess.”
 
-“Necessary! How was it necessary? I was well enough, he supposed?
+“Necessary! How was it necessary? I was [[Well|well]] enough, he supposed?
 Change necessary! He would recommend me to look at the Catholic
 ‘religieuses,’ and study _their_ lives. _They_ asked no change.”
 
 I am no judge of what expression crossed my face when he thus spoke,
 but it was one which provoked him: he accused me of being reckless,
-worldly, and epicurean; ambitious of greatness, and feverishly athirst
+worldly, and epicurean; ambitious of [[Greatness|greatness]], and feverishly athirst
 for the pomps and vanities of life. It seems I had no “dévouement,” no
-“récueillement” in my character; no spirit of grace, faith, sacrifice,
-or self-abasement. Feeling the inutility of answering these charges, I
+“récueillement” in my character; no spirit of grace, [[Faith|faith]], sacrifice,
+or [[Self|self]]-abasement. Feeling the inutility of answering these charges, I
 mutely continued the correction of a pile of English exercises.
 
 “He could see in me nothing Christian: like many other Protestants, I
-revelled in the pride and self-will of paganism.”
+revelled in the [[Pride|pride]] and [[Self|self]]-will of paganism.”
 
 I slightly turned from him, nestling still closer under the wing of
-silence.
+[[Silence|silence]].
 
 A vague sound grumbled between his teeth; it could not surely be a
 “juron:” he was too religious for that; but I am certain I heard the
@@ -499,45 +499,45 @@ than M. Paul: never, in others, a more waspish little despot.
 
 Our German mistress, Fräulein Anna Braun, was a worthy, hearty woman,
 of about forty-five; she ought, perhaps, to have lived in the days of
-Queen Elizabeth, as she habitually consumed, for her first and second
+[[Queen Elizabeth]], as she habitually consumed, for her first and second
 breakfasts, beer and beef: also, her direct and downright Deutsch
-nature seemed to suffer a sensation of cruel restraint from what she
+[[Nature|nature]] seemed to suffer a sensation of cruel restraint from what she
 called our English reserve; though we thought we were very cordial with
 her: but we did not slap her on the shoulder, and if we consented to
 kiss her cheek, it was done quietly, and without any explosive smack.
 These omissions oppressed and depressed her considerably; still, on the
-whole, we got on very well. Accustomed to instruct foreign girls, who
+whole, we got on very [[Well|well]]. Accustomed to instruct foreign girls, who
 hardly ever will think and study for themselves—who have no idea of
 grappling with a difficulty, and overcoming it by dint of reflection or
-application—our progress, which in truth was very leisurely, seemed to
+application—our progress, which in [[Truth|truth]] was very leisurely, seemed to
 astound her. In her eyes, we were a pair of glacial prodigies, cold,
 proud, and preternatural.
 
 The young Countess _was_ a little proud, a little fastidious: and
-perhaps, with her native delicacy and beauty, she had a right to these
+perhaps, with her native delicacy and [[Beauty|beauty]], she had a right to these
 feelings; but I think it was a total mistake to ascribe them to me. I
-never evaded the morning salute, which Paulina would slip when she
+never evaded the morning salute, which [[Paulina]] would slip when she
 could; nor was a certain little manner of still disdain a weapon known
-in my armoury of defence; whereas, Paulina always kept it clear, fine,
+in my armoury of defence; whereas, [[Paulina]] always kept it clear, fine,
 and bright, and any rough German sally called forth at once its steelly
 glisten.
 
 Honest Anna Braun, in some measure, felt this difference; and while she
-half-feared, half-worshipped Paulina, as a sort of dainty nymph—an
+half-feared, half-worshipped [[Paulina]], as a sort of dainty nymph—an
 Undine—she took refuge with me, as a being all mortal, and of easier
 mood.
 
-A book we liked well to read and translate was Schiller’s Ballads;
-Paulina soon learned to read them beautifully; the Fräulein would
+A book we liked [[Well|well]] to read and translate was Schiller’s Ballads;
+[[Paulina]] soon learned to read them beautifully; the Fräulein would
 listen to her with a broad smile of pleasure, and say her voice sounded
 like music. She translated them, too, with a facile flow of language,
 and in a strain of kindred and poetic fervour: her cheek would flush,
 her lips tremblingly smile, her beauteous eyes kindle or melt as she
 went on. She learnt the best by heart, and would often recite them when
-we were alone together. One she liked well was “Des Mädchens Klage:”
-that is, she liked well to repeat the words, she found plaintive melody
+we were [[Alone|alone]] together. One she liked [[Well|well]] was “Des Mädchens Klage:”
+that is, she liked [[Well|well]] to repeat the words, she found plaintive melody
 in the sound; the sense she would criticise. She murmured, as we sat
-over the fire one evening:—
+over the [[Fire|fire]] one evening:—
 
 Du Heilige, rufe dein Kind zurück,
 Ich habe genossen das irdische Glück,
@@ -545,23 +545,23 @@ Ich habe genossen das irdische Glück,
 
 
 “Lived and loved!” said she, “is that the summit of earthly happiness,
-the end of life—to love? I don’t think it is. It may be the extreme of
-mortal misery, it may be sheer waste of time, and fruitless torture of
+the end of life—to [[Love|love]]? I don’t think it is. It may be the extreme of
+mortal misery, it may be sheer waste of [[Time|time]], and fruitless torture of
 feeling. If Schiller had said to _be_ loved, he might have come nearer
-the truth. Is not that another thing, Lucy, to be loved?”
+the [[Truth|truth]]. Is not that another thing, Lucy, to be loved?”
 
-“I suppose it may be: but why consider the subject? What is love to
+“I suppose it may be: but why consider the subject? What is [[Love|love]] to
 you? What do you know about it?”
 
 She crimsoned, half in irritation, half in shame.
 
-“Now, Lucy,” she said, “I won’t take that from you. It may be well for
+“Now, Lucy,” she said, “I won’t take that from you. It may be [[Well|well]] for
 papa to look on me as a baby: I rather prefer that he should thus view
 me; but _you_ know and shall learn to acknowledge that I am verging on
 my nineteenth year.”
 
 “No matter if it were your twenty-ninth; we will anticipate no feelings
-by discussion and conversation; we will not talk about love.”
+by discussion and conversation; we will not talk about [[Love|love]].”
 
 “Indeed, indeed!” said she—all in hurry and heat—“you may think to
 check and hold me in, as much as you please; but I _have_ talked about
@@ -570,7 +570,7 @@ disagreeably and detrimentally: and in a way you wouldn’t approve.”
 
 And the vexed, triumphant, pretty, naughty being laughed. I could not
 discern what she meant, and I would not ask her: I was nonplussed.
-Seeing, however, the utmost innocence in her countenance—combined with
+Seeing, however, the utmost [[innocence]] in her countenance—combined with
 some transient perverseness and petulance—I said at last,—
 
 “Who talks to you disagreeably and detrimentally on such matters? Who
@@ -579,15 +579,15 @@ that has near access to you would dare to do it?”
 “Lucy,” replied she more softly, “it is a person who makes me miserable
 sometimes; and I wish she would keep away—I don’t want her.”
 
-“But who, Paulina, can it be? You puzzle me much.”
+“But who, [[Paulina]], can it be? You puzzle me much.”
 
-“It is—it is my cousin Ginevra. Every time she has leave to visit Mrs.
-Cholmondeley she calls here, and whenever she finds me alone she begins
-to talk about her admirers. Love, indeed! You should hear all she has
-to say about love.”
+“It is—it is my cousin Ginevra. Every [[Time|time]] she has leave to visit Mrs.
+Cholmondeley she calls here, and whenever she finds me [[Alone|alone]] she begins
+to talk about her admirers. [[Love]], indeed! You should hear all she has
+to say about [[Love|love]].”
 
 “Oh, I have heard it,” said I, quite coolly; “and on the whole, perhaps
-it is as well you should have heard it too: it is not to be regretted,
+it is as [[Well|well]] you should have heard it too: it is not to be regretted,
 it is all right. Yet, surely, Ginevra’s mind cannot influence yours.
 You can look over both her head and her heart.”
 
@@ -595,7 +595,7 @@ You can look over both her head and her heart.”
 happiness and unsettling my opinions. She hurts me through the feelings
 and people dearest to me.”
 
-“What does she say, Paulina? Give me some idea. There may be
+“What does she say, [[Paulina]]? Give me some idea. There may be
 counteraction of the damage done.”
 
 “The people I have longest and most esteemed are degraded by her. She
@@ -607,7 +607,7 @@ her…._love_? She does mix them, I suppose?”
 “Lucy, she is insolent; and, I believe, false. You know Dr. Bretton. We
 both know him. He may be careless and proud; but when was he ever mean
 or slavish? Day after day she shows him to me kneeling at her feet,
-pursuing her like her shadow. She—repulsing him with insult, and he
+pursuing her like her [[Shadow|shadow]]. She—repulsing him with insult, and he
 imploring her with infatuation. Lucy, is it true? Is any of it true?”
 
 “It may be true that he once thought her handsome: does she give him
@@ -619,7 +619,7 @@ out as still her suitor?”
 towards Graham which your father noticed.”
 
 “They have certainly made me all doubtful about his character. As
-Ginevra speaks, they do not carry with them the sound of unmixed truth:
+Ginevra speaks, they do not carry with them the sound of unmixed [[Truth|truth]]:
 I believe she exaggerates—perhaps invents—but I want to know how far.”
 
 “Suppose we bring Miss Fanshawe to some proof. Give her an opportunity

@@ -17,4 +17,4 @@ tags:
 CHAPTER IV: THE INN FINDS WINGS
 
 
-MR. HUMPHREY PUMP stood in front of his inn once more, the cleaned and loaded gun still lay on the table, and the white sign of The Ship still swung in the slight sea breeze over his head; but his leatherish features were knotted over a new problem. He held two letters in his hand, letters of a very different sort, but letters that pointed to the same difficult problem. The first ran:
+MR. HUMPHREY PUMP stood in front of his inn once more, the cleaned and loaded gun still lay on the table, and the white sign of The [[Ship]] still swung in the slight sea breeze over his head; but his leatherish features were knotted over a new problem. He held two letters in his hand, letters of a very different sort, but letters that pointed to the same difficult problem. The first ran:

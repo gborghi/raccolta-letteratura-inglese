@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 33 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 33 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -26,7 +26,7 @@ thankful that Marianne was not present, to share the provocation.
 
 
 
-Having now said enough to make his poverty clear, and to do away the
+Having now said enough to make his [[Poverty|poverty]] clear, and to do away the
 
 necessity of buying a pair of ear-rings for each of his sisters, in his
 
@@ -36,7 +36,7 @@ began to congratulate Elinor on having such a friend as Mrs. Jennings.
 
 
 
-“She seems a most valuable woman indeed. Her house, her style of
+“She seems a most valuable woman indeed. Her [[house]], her style of
 
 living, all bespeak an exceeding good income; and it is an acquaintance
 
@@ -72,7 +72,7 @@ daughters, than to us?”
 
 
 
-“Her daughters are both exceedingly well married, and therefore I
+“Her daughters are both exceedingly [[Well|well]] married, and therefore I
 
 cannot perceive the necessity of her remembering them farther. Whereas,
 
@@ -104,19 +104,19 @@ and is grown quite thin. Is she ill?”
 
 
 
-“She is not well, she has had a nervous complaint on her for several
+“She is not [[Well|well]], she has had a nervous complaint on her for several
 
 weeks.”
 
 
 
-“I am sorry for that. At her time of life, any thing of an illness
+“I am sorry for that. At her [[Time|time]] of life, any thing of an illness
 
 destroys the bloom for ever! Hers has been a very short one! She was as
 
 handsome a girl last September, as I ever saw; and as likely to attract
 
-the man. There was something in her style of beauty, to please them
+the man. There was something in her style of [[Beauty|beauty]], to please them
 
 particularly. I remember Fanny used to say that she would marry sooner
 
@@ -140,25 +140,25 @@ earliest and best pleased of your visitors.”
 
 Elinor tried very seriously to convince him that there was no
 
-likelihood of her marrying Colonel Brandon; but it was an expectation
+likelihood of her marrying [[Colonel Brandon]]; but it was an expectation
 
 of too much pleasure to himself to be relinquished, and he was really
 
 resolved on seeking an intimacy with that gentleman, and promoting the
 
-marriage by every possible attention. He had just compunction enough
+[[Marriage|marriage]] by every possible attention. He had just compunction enough
 
 for having done nothing for his sisters himself, to be exceedingly
 
 anxious that everybody else should do a great deal; and an offer from
 
-Colonel Brandon, or a legacy from Mrs. Jennings, was the easiest means
+[[Colonel Brandon]], or a legacy from Mrs. Jennings, was the easiest means
 
 of atoning for his own neglect.
 
 
 
-They were lucky enough to find Lady Middleton at home, and Sir John
+They were lucky enough to find Lady Middleton at [[Home|home]], and Sir John
 
 came in before their visit ended. Abundance of civilities passed on all
 
@@ -180,11 +180,11 @@ walked back with his sister. “Lady Middleton is really a most elegant
 
 woman! Such a woman as I am sure Fanny will be glad to know. And Mrs.
 
-Jennings too, an exceedingly well-behaved woman, though not so elegant
+Jennings too, an exceedingly [[Well|well]]-behaved woman, though not so elegant
 
 as her daughter. Your sister need not have any scruple even of visiting
 
-_her_, which, to say the truth, has been a little the case, and very
+_her_, which, to say the [[Truth|truth]], has been a little the case, and very
 
 naturally; for we only knew that Mrs. Jennings was the widow of a man
 

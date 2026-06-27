@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 23"
+title: "The Mystery of [[Edwin Drood]] — Chapter 23"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,25 +15,25 @@ tags:
 
 
 CHAPTER XXIII.
-THE DAWN AGAIN
+THE [[Dawn|DAWN]] AGAIN
 
 
-Although Mr. Crisparkle and John Jasper met daily under the Cathedral
-roof, nothing at any time passed between them having reference to Edwin
-Drood, after the time, more than half a year gone by, when Jasper
+Although Mr. Crisparkle and [[John Jasper]] met daily under the [[Cathedral]]
+roof, nothing at any [[Time|time]] passed between them having reference to Edwin
+Drood, after the [[Time|time]], more than half a year gone by, when Jasper
 mutely showed the Minor Canon the conclusion and the resolution entered
 in his Diary. It is not likely that they ever met, though so often,
 without the thoughts of each reverting to the subject. It is not likely
 that they ever met, though so often, without a sensation on the part of
 each that the other was a perplexing secret to him. Jasper as the
-denouncer and pursuer of Neville Landless, and Mr. Crisparkle as his
+denouncer and pursuer of [[Neville Landless]], and Mr. Crisparkle as his
 consistent advocate and protector, must at least have stood
 sufficiently in opposition to have speculated with keen interest on the
 steadiness and next direction of the other’s designs. But neither ever
 broached the theme.
 
-False pretence not being in the Minor Canon’s nature, he doubtless
-displayed openly that he would at any time have revived the subject,
+False pretence not being in the Minor Canon’s [[Nature|nature]], he doubtless
+displayed openly that he would at any [[Time|time]] have revived the subject,
 and even desired to discuss it. The determined reticence of Jasper,
 however, was not to be so approached. Impassive, moody, solitary,
 resolute, so concentrated on one idea, and on its attendant fixed
@@ -48,63 +48,63 @@ inflexibility arose.
 
 That he must know of Rosa’s abrupt departure, and that he must divine
 its cause, was not to be doubted. Did he suppose that he had terrified
-her into silence? or did he suppose that she had imparted to any one—to
+her into [[Silence|silence]]? or did he suppose that she had imparted to any one—to
 Mr. Crisparkle himself, for instance—the particulars of his last
 interview with her? Mr. Crisparkle could not determine this in his
 mind. He could not but admit, however, as a just man, that it was not,
-of itself, a crime to fall in love with Rosa, any more than it was a
-crime to offer to set love above revenge.
+of itself, a crime to fall in [[Love|love]] with Rosa, any more than it was a
+crime to offer to set [[Love|love]] above [[Revenge|revenge]].
 
 The dreadful suspicion of Jasper, which Rosa was so shocked to have
-received into her imagination, appeared to have no harbour in Mr.
-Crisparkle’s. If it ever haunted Helena’s thoughts or Neville’s,
+received into her [[Imagination|imagination]], appeared to have no harbour in Mr.
+Crisparkle’s. If it ever haunted [[Helena]]’s thoughts or Neville’s,
 neither gave it one spoken word of utterance. Mr. Grewgious took no
 pains to conceal his implacable dislike of Jasper, yet he never
 referred it, however distantly, to such a source. But he was a reticent
-as well as an eccentric man; and he made no mention of a certain
-evening when he warmed his hands at the gatehouse fire, and looked
+as [[Well|well]] as an eccentric man; and he made no mention of a certain
+evening when he warmed his hands at the gatehouse [[Fire|fire]], and looked
 steadily down upon a certain heap of torn and miry clothes upon the
 floor.
 
 Drowsy Cloisterham, whenever it awoke to a passing reconsideration of a
 story above six months old and dismissed by the bench of magistrates,
-was pretty equally divided in opinion whether John Jasper’s beloved
+was pretty equally divided in opinion whether [[John Jasper]]’s beloved
 nephew had been killed by his treacherously passionate rival, or in an
 open struggle; or had, for his own purposes, spirited himself away. It
 then lifted up its head, to notice that the bereaved Jasper was still
-ever devoted to discovery and revenge; and then dozed off again. This
+ever devoted to discovery and [[Revenge|revenge]]; and then dozed off again. This
 was the condition of matters, all round, at the period to which the
-present history has now attained.
+present [[history]] has now attained.
 
-The Cathedral doors have closed for the night; and the Choir-master, on
+The [[Cathedral]] doors have closed for the [[Night|night]]; and the Choir-master, on
 a short leave of absence for two or three services, sets his face
-towards London. He travels thither by the means by which Rosa
+towards [[London]]. He travels thither by the means by which Rosa
 travelled, and arrives, as Rosa arrived, on a hot, dusty evening.
 
 His travelling baggage is easily carried in his hand, and he repairs
 with it on foot, to a hybrid hotel in a little square behind Aldersgate
-Street, near the General Post Office. It is hotel, boarding-house, or
-lodging-house, at its visitor’s option. It announces itself, in the new
-Railway Advertisers, as a novel enterprise, timidly beginning to spring
+Street, near the General Post Office. It is hotel, boarding-[[house]], or
+lodging-[[house]], at its visitor’s option. It announces itself, in the new
+Railway Advertisers, as a [[Novel|novel]] enterprise, timidly beginning to [[Spring|spring]]
 up. It bashfully, almost apologetically, gives the traveller to
 understand that it does not expect him, on the good old constitutional
 hotel plan, to order a pint of sweet blacking for his drinking, and
 throw it away; but insinuates that he may have his boots blacked
 instead of his stomach, and maybe also have bed, breakfast, attendance,
-and a porter up all night, for a certain fixed charge. From these and
+and a porter up all [[Night|night]], for a certain fixed charge. From these and
 similar premises, many true Britons in the lowest spirits deduce that
 the times are levelling times, except in the article of high roads, of
 which there will shortly be not one in England.
 
 He eats without appetite, and soon goes forth again. Eastward and still
 eastward through the stale streets he takes his way, until he reaches
-his destination: a miserable court, specially miserable among many
+his destination: a miserable [[Court|court]], specially miserable among many
 such.
 
 He ascends a broken staircase, opens a door, looks into a dark stifling
-room, and says: “Are you alone here?”
+room, and says: “Are you [[Alone|alone]] here?”
 
-“Alone, deary; worse luck for me, and better for you,” replies a
+“[[Alone]], deary; worse luck for me, and better for you,” replies a
 croaking voice. “Come in, come in, whoever you be: I can’t see you till
 I light a match, yet I seem to know the sound of your speaking. I’m
 acquainted with you, ain’t I?”
@@ -122,19 +122,19 @@ and cough, like live things. Are you off a voyage, deary?”
 
 “No.”
 
-“Well, there’s land customers, and there’s water customers. I’m a
-mother to both. Different from Jack Chinaman t’other side the court. He
+“[[Well]], there’s land customers, and there’s [[Water|water]] customers. I’m a
+mother to both. Different from Jack Chinaman t’other side the [[Court|court]]. He
 ain’t a father to neither. It ain’t in him. And he ain’t got the true
 secret of mixing, though he charges as much as me that has, and more if
 he can get it. Here’s a match, and now where’s the candle? If my cough
 takes me, I shall cough out twenty matches afore I gets a light.”
 
 But she finds the candle, and lights it, before the cough comes on. It
-seizes her in the moment of success, and she sits down rocking herself
+seizes her in the moment of [[success]], and she sits down rocking herself
 to and fro, and gasping at intervals: “O, my lungs is awful bad! my
 lungs is wore away to cabbage-nets!” until the fit is over. During its
 continuance she has had no power of sight, or any other power not
-absorbed in the struggle; but as it leaves her, she begins to strain
+absorbed in the struggle; but as it [[Leaves|leaves]] her, she begins to strain
 her eyes, and as soon as she is able to articulate, she cries, staring:
 
 “Why, it’s you!”
@@ -147,7 +147,7 @@ dead, and gone to Heaven.”
 “Why?”
 
 “I didn’t suppose you could have kept away, alive, so long, from the
-poor old soul with the real receipt for mixing it. And you are in
+poor old [[Soul|soul]] with the real receipt for mixing it. And you are in
 mourning too! Why didn’t you come and have a pipe or two of comfort?
 Did they leave you money, perhaps, and so you didn’t want comfort?”
 
@@ -159,9 +159,9 @@ Did they leave you money, perhaps, and so you didn’t want comfort?”
 
 “Died of what, lovey?”
 
-“Probably, Death.”
+“Probably, [[Death]].”
 
-“We are short to-night!” cries the woman, with a propitiatory laugh.
+“We are short to-[[Night|night]]!” cries the woman, with a propitiatory laugh.
 “Short and snappish we are! But we’re out of sorts for want of a smoke.
 We’ve got the all-overs, haven’t us, deary? But this is the place to
 cure ’em in; this is the place where the all-overs is smoked off.”
@@ -173,7 +173,7 @@ the foot of the squalid bed, with his head resting on his left hand.
 
 “Now you begin to look like yourself,” says the woman approvingly. “Now
 I begin to know my old customer indeed! Been trying to mix for yourself
-this long time, poppet?”
+this long [[Time|time]], poppet?”
 
 “I have been taking it now and then in my own way.”
 
@@ -183,8 +183,8 @@ little spoon? He’s going to take it in a artful form now, my deary
 dear!”
 
 Entering on her process, and beginning to bubble and blow at the faint
-spark enclosed in the hollow of her hands, she speaks from time to
-time, in a tone of snuffling satisfaction, without leaving off. When he
+spark enclosed in the hollow of her hands, she speaks from [[Time|time]] to
+[[Time|time]], in a tone of snuffling satisfaction, without leaving off. When he
 speaks, he does so without looking at her, and as if his thoughts were
 already roaming away by anticipation.
 
@@ -209,7 +209,7 @@ ready for you now, deary.”
 He takes it from her with great care, and puts the mouthpiece to his
 lips. She seats herself beside him, ready to refill the pipe.
 
-After inhaling a few whiffs in silence, he doubtingly accosts her with:
+After inhaling a few whiffs in [[Silence|silence]], he doubtingly accosts her with:
 
 “Is it as potent as it used to be?”
 
@@ -254,15 +254,15 @@ thousands of times in this room.”
 
 “It _was_ pleasant to do!”
 
-He says this with a savage air, and a spring or start at her. Quite
+He says this with a savage air, and a [[Spring|spring]] or start at her. Quite
 unmoved she retouches and replenishes the contents of the bowl with her
 little spatula. Seeing her intent upon the occupation, he sinks into
 his former attitude.
 
-“It was a journey, a difficult and dangerous journey. That was the
-subject in my mind. A hazardous and perilous journey, over abysses
+“It was a [[Journey|journey]], a difficult and dangerous [[Journey|journey]]. That was the
+subject in my mind. A hazardous and perilous [[Journey|journey]], over abysses
 where a slip would be destruction. Look down, look down! You see what
-lies at the bottom there?”
+lies at the [[Bottom|bottom]] there?”
 
 He has darted forward to say it, and to point at the ground, as though
 at some imaginary object far beneath. The woman looks at him, as his
@@ -270,24 +270,24 @@ spasmodic face approaches close to hers, and not at his pointing. She
 seems to know what the influence of her perfect quietude would be; if
 so, she has not miscalculated it, for he subsides again.
 
-“Well; I have told you I did it here hundreds of thousands of times.
+“[[Well]]; I have told you I did it here hundreds of thousands of times.
 What do I say? I did it millions and billions of times. I did it so
-often, and through such vast expanses of time, that when it was really
+often, and through such vast expanses of [[Time|time]], that when it was really
 done, it seemed not worth the doing, it was done so soon.”
 
-“That’s the journey you have been away upon,” she quietly remarks.
+“That’s the [[Journey|journey]] you have been away upon,” she quietly remarks.
 
 He glares at her as he smokes; and then, his eyes becoming filmy,
-answers: “That’s the journey.”
+answers: “That’s the [[Journey|journey]].”
 
-Silence ensues. His eyes are sometimes closed and sometimes open. The
+[[Silence]] ensues. His eyes are sometimes closed and sometimes open. The
 woman sits beside him, very attentive to the pipe, which is all the
 while at his lips.
 
 “I’ll warrant,” she observes, when he has been looking fixedly at her
 for some consecutive moments, with a singular appearance in his eyes of
 seeming to see her a long way off, instead of so near him: “I’ll
-warrant you made the journey in a many ways, when you made it so
+warrant you made the [[Journey|journey]] in a many ways, when you made it so
 often?”
 
 “No, always in one way.”
@@ -304,7 +304,7 @@ often?”
 
 “Ay.”
 
-For the time he appears unequal to any other reply than this lazy
+For the [[Time|time]] he appears unequal to any other reply than this lazy
 monosyllabic assent. Probably to assure herself that it is not the
 assent of a mere automaton, she reverses the form of her next sentence.
 
@@ -315,11 +315,11 @@ He struggles into a sitting posture, and retorts upon her: “What do you
 mean? What did I want? What did I come for?”
 
 She gently lays him back again, and before returning him the instrument
-he has dropped, revives the fire in it with her own breath; then says
+he has dropped, revives the [[Fire|fire]] in it with her own breath; then says
 to him, coaxingly:
 
 “Sure, sure, sure! Yes, yes, yes! Now I go along with you. You was too
-quick for me. I see now. You come o’ purpose to take the journey. Why,
+quick for me. I see now. You come o’ purpose to take the [[Journey|journey]]. Why,
 I might have known it, through its standing by you so.”
 
 He answers first with a laugh, and then with a passionate setting of
@@ -333,7 +333,7 @@ her next remark. It is: “There was a fellow-traveller, deary.”
 “Ha, ha, ha!” He breaks into a ringing laugh, or rather yell.
 
 “To think,” he cries, “how often fellow-traveller, and yet not know it!
-To think how many times he went the journey, and never saw the road!”
+To think how many times he went the [[Journey|journey]], and never saw the [[Road|road]]!”
 
 The woman kneels upon the floor, with her arms crossed on the coverlet
 of the bed, close by him, and her chin upon them. In this crouching
@@ -341,12 +341,12 @@ attitude she watches him. The pipe is falling from his mouth. She puts
 it back, and laying her hand upon his chest, moves him slightly from
 side to side. Upon that he speaks, as if she had spoken.
 
-“Yes! I always made the journey first, before the changes of colours
+“Yes! I always made the [[Journey|journey]] first, before the changes of colours
 and the great landscapes and glittering processions began. They
 couldn’t begin till it was off my mind. I had no room till then for
 anything else.”
 
-Once more he lapses into silence. Once more she lays her hand upon his
+Once more he lapses into [[Silence|silence]]. Once more she lays her hand upon his
 chest, and moves him slightly to and fro, as a cat might stimulate a
 half-slain mouse. Once more he speaks, as if she had spoken.
 
@@ -354,24 +354,24 @@ half-slain mouse. Once more he speaks, as if she had spoken.
 
 
 “What? I told you so. When it comes to be real at last, it is so short
-that it seems unreal for the first time. Hark!”
+that it seems unreal for the first [[Time|time]]. Hark!”
 
 “Yes, deary. I’m listening.”
 
-“Time and place are both at hand.”
+“[[Time]] and place are both at hand.”
 
 He is on his feet, speaking in a whisper, and as if in the dark.
 
-“Time, place, and fellow-traveller,” she suggests, adopting his tone,
+“[[Time]], place, and fellow-traveller,” she suggests, adopting his tone,
 and holding him softly by the arm.
 
-“How could the time be at hand unless the fellow-traveller was? Hush!
-The journey’s made. It’s over.”
+“How could the [[Time|time]] be at hand unless the fellow-traveller was? Hush!
+The [[Journey|journey]]’s made. It’s over.”
 
 “So soon?”
 
 “That’s what I said to you. So soon. Wait a little. This is a vision. I
-shall sleep it off. It has been too short and easy. I must have a
+shall [[Sleep|sleep]] it off. It has been too short and easy. I must have a
 better vision than this; this is the poorest of all. No struggle, no
 consciousness of peril, no entreaty—and yet I never saw _that_ before.”
 With a start.
@@ -386,9 +386,9 @@ but they trail off into the progressive inaction of stupor, and he lies
 a log upon the bed.
 
 The woman, however, is still inquisitive. With a repetition of her
-cat-like action she slightly stirs his body again, and listens; stirs
+cat-like action she slightly stirs his [[Body|body]] again, and listens; stirs
 again, and listens; whispers to it, and listens. Finding it past all
-rousing for the time, she slowly gets upon her feet, with an air of
+rousing for the [[Time|time]], she slowly gets upon her feet, with an air of
 disappointment, and flicks the face with the back of her hand in
 turning from it.
 
@@ -398,18 +398,18 @@ hand, intent upon him. “I heard ye say once,” she croaks under her
 breath, “I heard ye say once, when I was lying where you’re lying, and
 you were making your speculations upon me, ‘Unintelligible!’ I heard
 you say so, of two more than me. But don’t ye be too sure always; don’t
-be ye too sure, beauty!”
+be ye too sure, [[Beauty|beauty]]!”
 
 Unwinking, cat-like, and intent, she presently adds: “Not so potent as
 it once was? Ah! Perhaps not at first. You may be more right there.
 Practice makes perfect. I may have learned the secret how to make ye
 talk, deary.”
 
-He talks no more, whether or no. Twitching in an ugly way from time to
-time, both as to his face and limbs, he lies heavy and silent. The
+He talks no more, whether or no. Twitching in an ugly way from [[Time|time]] to
+[[Time|time]], both as to his face and limbs, he lies heavy and silent. The
 wretched candle burns down; the woman takes its expiring end between
 her fingers, lights another at it, crams the guttering frying morsel
-deep into the candlestick, and rams it home with the new candle, as if
+deep into the candlestick, and rams it [[Home|home]] with the new candle, as if
 she were loading some ill-savoured and unseemly weapon of witchcraft;
 the new candle in its turn burns down; and still he lies insensible. At
 length what remains of the last candle is blown out, and daylight looks
@@ -419,30 +419,30 @@ It has not looked very long, when he sits up, chilled and shaking,
 slowly recovers consciousness of where he is, and makes himself ready
 to depart. The woman receives what he pays her with a grateful, “Bless
 ye, bless ye, deary!” and seems, tired out, to begin making herself
-ready for sleep as he leaves the room.
+ready for [[Sleep|sleep]] as he [[Leaves|leaves]] the room.
 
 But seeming may be false or true. It is false in this case; for, the
 moment the stairs have ceased to creak under his tread, she glides
 after him, muttering emphatically: “I’ll not miss ye twice!”
 
-There is no egress from the court but by its entrance. With a weird
+There is no egress from the [[Court|court]] but by its entrance. With a weird
 peep from the doorway, she watches for his looking back. He does not
 look back before disappearing, with a wavering step. She follows him,
-peeps from the court, sees him still faltering on without looking back,
+peeps from the [[Court|court]], sees him still faltering on without looking back,
 and holds him in view.
 
 He repairs to the back of Aldersgate Street, where a door immediately
 opens to his knocking. She crouches in another doorway, watching that
 one, and easily comprehending that he puts up temporarily at that
-house. Her patience is unexhausted by hours. For sustenance she can,
+[[house]]. Her patience is unexhausted by hours. For sustenance she can,
 and does, buy bread within a hundred yards, and milk as it is carried
 past her.
 
-He comes forth again at noon, having changed his dress, but carrying
+He comes forth again at [[Noon|noon]], having changed his dress, but carrying
 nothing in his hand, and having nothing carried for him. He is not
 going back into the country, therefore, just yet. She follows him a
 little way, hesitates, instantaneously turns confidently, and goes
-straight into the house he has quitted.
+straight into the [[house]] he has quitted.
 
 “Is the gentleman from Cloisterham indoors?
 
@@ -453,18 +453,18 @@ straight into the house he has quitted.
 “At six this evening.”
 
 “Bless ye and thank ye. May the Lord prosper a business where a civil
-question, even from a poor soul, is so civilly answered!”
+question, even from a poor [[Soul|soul]], is so civilly answered!”
 
-“I’ll not miss ye twice!” repeats the poor soul in the street, and not
+“I’ll not miss ye twice!” repeats the poor [[Soul|soul]] in the street, and not
 so civilly. “I lost ye last, where that omnibus you got into nigh your
-journey’s end plied betwixt the station and the place. I wasn’t so much
+[[Journey|journey]]’s end plied betwixt the station and the place. I wasn’t so much
 as certain that you even went right on to the place. Now I know ye did.
 My gentleman from Cloisterham, I’ll be there before ye, and bide your
 coming. I’ve swore my oath that I’ll not miss ye twice!”
 
-Accordingly, that same evening the poor soul stands in Cloisterham High
-Street, looking at the many quaint gables of the Nuns’ House, and
-getting through the time as she best can until nine o’clock; at which
+Accordingly, that same evening the poor [[Soul|soul]] stands in Cloisterham High
+Street, looking at the many quaint gables of the Nuns’ [[house|House]], and
+getting through the [[Time|time]] as she best can until nine o’[[Clock|clock]]; at which
 hour she has reason to suppose that the arriving omnibus passengers may
 have some interest for her. The friendly darkness, at that hour,
 renders it easy for her to ascertain whether this be so or not; and it
@@ -475,7 +475,7 @@ is so, for the passenger not to be missed twice arrives among the rest.
 An observation addressed to the air, and yet it might be addressed to
 the passenger, so compliantly does he go on along the High Street until
 he comes to an arched gateway, at which he unexpectedly vanishes. The
-poor soul quickens her pace; is swift, and close upon him entering
+poor [[Soul|soul]] quickens her pace; is swift, and close upon him entering
 under the gateway; but only sees a postern staircase on one side of it,
 and on the other side an ancient vaulted room, in which a large-headed,
 gray-haired gentleman is writing, under the odd circumstances of
@@ -495,7 +495,7 @@ toll-taker of the gateway: though the way is free.
 
 “Bless ye! Whisper. What’s his name, deary?”
 
-“Surname Jasper, Christian name John. Mr. John Jasper.”
+“Surname Jasper, Christian name John. Mr. [[John Jasper]].”
 
 “Has he a calling, good gentleman?”
 
@@ -508,7 +508,7 @@ toll-taker of the gateway: though the way is free.
 “What’s that?”
 
 Mr. Datchery rises from his papers, and comes to his doorstep. “Do you
-know what a cathedral is?” he asks, jocosely.
+know what a [[Cathedral|cathedral]] is?” he asks, jocosely.
 
 The woman nods.
 
@@ -516,10 +516,10 @@ The woman nods.
 
 She looks puzzled, casting about in her mind to find a definition, when
 it occurs to her that it is easier to point out the substantial object
-itself, massive against the dark-blue sky and the early stars.
+itself, massive against the dark-blue sky and the early [[Stars|stars]].
 
 “That’s the answer. Go in there at seven to-morrow morning, and you may
-see Mr. John Jasper, and hear him too.”
+see Mr. [[John Jasper]], and hear him too.”
 
 “Thank ye! Thank ye!”
 
@@ -543,13 +543,13 @@ It’s a long way to come for that, though.”
 The woman looks up quickly. If Mr. Datchery thinks she is to be so
 induced to declare where she comes from, he is of a much easier temper
 than she is. But she acquits him of such an artful thought, as he
-lounges along, like the chartered bore of the city, with his uncovered
+lounges along, like the chartered bore of the [[City|city]], with his uncovered
 gray hair blowing about, and his purposeless hands rattling the loose
 money in the pockets of his trousers.
 
 The chink of the money has an attraction for her greedy ears. “Wouldn’t
 you help me to pay for my traveller’s lodging, dear gentleman, and to
-pay my way along? I am a poor soul, I am indeed, and troubled with a
+pay my way along? I am a poor [[Soul|soul]], I am indeed, and troubled with a
 grievous cough.”
 
 “You know the travellers’ lodging, I perceive, and are making directly
@@ -560,8 +560,8 @@ money. “Been here often, my good woman?”
 
 “Ay, ay?”
 
-They have arrived at the entrance to the Monks’ Vineyard. An
-appropriate remembrance, presenting an exemplary model for imitation,
+They have arrived at the entrance to the [[Monks]]’ Vineyard. An
+appropriate remembrance, presenting an exemplary model for [[Imitation|imitation]],
 is revived in the woman’s mind by the sight of the place. She stops at
 the gate, and says energetically:
 
@@ -579,11 +579,11 @@ tone, “I wanted the money to lay it out on a medicine as does me good,
 and as I deal in. I told the young gentleman so, and he gave it me, and
 I laid it out honest to the last brass farden. I want to lay out the
 same sum in the same way now; and if you’ll give it me, I’ll lay it out
-honest to the last brass farden again, upon my soul!”
+honest to the last brass farden again, upon my [[Soul|soul]]!”
 
 “What’s the medicine?”
 
-“I’ll be honest with you beforehand, as well as after. It’s opium.”
+“I’ll be honest with you beforehand, as [[Well|well]] as after. It’s opium.”
 
 Mr. Datchery, with a sudden change of countenance, gives her a sudden
 look.
@@ -619,17 +619,17 @@ anger brewing for the event of his thinking better of the gift; but he
 bestows it on her as if he were abstracting his mind from the
 sacrifice, and with many servile thanks she goes her way.
 
-John Jasper’s lamp is kindled, and his lighthouse is shining when Mr.
-Datchery returns alone towards it. As mariners on a dangerous voyage,
+[[John Jasper]]’s lamp is kindled, and his lighthouse is shining when Mr.
+Datchery returns [[Alone|alone]] towards it. As mariners on a dangerous voyage,
 approaching an iron-bound coast, may look along the beams of the
 warning light to the haven lying beyond it that may never be reached,
 so Mr. Datchery’s wistful gaze is directed to this beacon, and beyond.
 
 His object in now revisiting his lodging is merely to put on the hat
 which seems so superfluous an article in his wardrobe. It is half-past
-ten by the Cathedral clock when he walks out into the Precincts again;
+ten by the [[Cathedral]] [[Clock|clock]] when he walks out into the Precincts again;
 he lingers and looks about him, as though, the enchanted hour when Mr.
-Durdles may be stoned home having struck, he had some expectation of
+[[Durdles]] may be stoned [[Home|home]] having struck, he had some expectation of
 seeing the Imp who is appointed to the mission of stoning him.
 
 In effect, that Power of Evil is abroad. Having nothing living to stone
@@ -659,7 +659,7 @@ for the State, however statistical, to do.
 “I think there must be.”
 
 “Yer lie, there ain’t. The travellers give me the name on account of my
-getting no settled sleep and being knocked up all night; whereby I gets
+getting no settled [[Sleep|sleep]] and being knocked up all [[Night|night]]; whereby I gets
 one eye roused open afore I’ve shut the other. That’s what Winks means.
 Deputy’s the nighest name to indict me by: but yer wouldn’t catch me
 pleading to that, neither.”
@@ -675,7 +675,7 @@ and many of my sixpences have come your way since; eh, Deputy?”
 a-histing me off my legs for?”
 
 “What indeed! But never mind him now. A shilling of mine is going your
-way to-night, Deputy. You have just taken in a lodger I have been
+way to-[[Night|night]], Deputy. You have just taken in a lodger I have been
 speaking to; an infirm woman with a cough.”
 
 “Puffer,” assents Deputy, with a shrewd leer of recognition, and
@@ -688,7 +688,7 @@ eyes very much out of their places: “Hopeum Puffer.”
 
 “She has some other name than that; where does she live?”
 
-“Up in London. Among the Jacks.”
+“Up in [[London]]. Among the Jacks.”
 
 “The sailors?”
 
@@ -699,7 +699,7 @@ eyes very much out of their places: “Hopeum Puffer.”
 “All right. Give us ’old.”
 
 A shilling passes; and, in that spirit of confidence which should
-pervade all business transactions between principals of honour, this
+pervade all business transactions between principals of [[Honour|honour]], this
 piece of business is considered done.
 
 “But here’s a lark!” cries Deputy. “Where did yer think ’Er Royal
@@ -714,12 +714,12 @@ purpose. She ses, ‘Deputy, I must ’ave a early wash, and make myself as
 swell as I can, for I’m a-goin’ to take a turn at the
 KIN-FREE-DER-EL!’” He separates the syllables with his former zest,
 and, not finding his sense of the ludicrous sufficiently relieved by
-stamping about on the pavement, breaks into a slow and stately dance,
+stamping about on the pavement, breaks into a slow and stately [[Dance|dance]],
 perhaps supposed to be performed by the Dean.
 
-Mr. Datchery receives the communication with a well-satisfied though
+Mr. Datchery receives the communication with a [[Well|well]]-satisfied though
 pondering face, and breaks up the conference. Returning to his quaint
-lodging, and sitting long over the supper of bread-and-cheese and salad
+lodging, and sitting long over the supper of bread-and-[[cheese]] and salad
 and ale which Mrs. Tope has left prepared for him, he still sits when
 his supper is finished. At length he rises, throws open the door of a
 corner cupboard, and refers to a few uncouth chalked strokes on its
@@ -730,7 +730,7 @@ Illegible except to the scorer. The scorer not committed, the scored
 debited with what is against him. Hum; ha! A very small score this; a
 very poor score!”
 
-He sighs over the contemplation of its poverty, takes a bit of chalk
+He sighs over the contemplation of its [[Poverty|poverty]], takes a bit of [[chalk]]
 from one of the cupboard shelves, and pauses with it in his hand,
 uncertain what addition to make to the account.
 
@@ -738,21 +738,21 @@ uncertain what addition to make to the account.
 scoring up;” so, suits the action to the word, closes the cupboard, and
 goes to bed.
 
-A brilliant morning shines on the old city. Its antiquities and ruins
+A brilliant morning shines on the old [[City|city]]. Its antiquities and ruins
 are surpassingly beautiful, with a lusty ivy gleaming in the sun, and
 the rich trees waving in the balmy air. Changes of glorious light from
-moving boughs, songs of birds, scents from gardens, woods, and
-fields—or, rather, from the one great garden of the whole cultivated
-island in its yielding time—penetrate into the Cathedral, subdue its
-earthy odour, and preach the Resurrection and the Life. The cold stone
+moving boughs, [[songs]] of [[Birds|birds]], scents from gardens, woods, and
+fields—or, rather, from the one great [[Garden|garden]] of the whole cultivated
+island in its yielding [[Time|time]]—penetrate into the [[Cathedral]], subdue its
+earthy odour, and preach the [[Resurrection]] and the Life. The cold stone
 tombs of centuries ago grow warm; and flecks of brightness dart into
 the sternest marble corners of the building, fluttering there like
 wings.
 
 Comes Mr. Tope with his large keys, and yawningly unlocks and sets
-open. Come Mrs. Tope and attendant sweeping sprites. Come, in due time,
+open. Come Mrs. Tope and attendant sweeping sprites. Come, in due [[Time|time]],
 organist and bellows-boy, peeping down from the red curtains in the
-loft, fearlessly flapping dust from books up at that remote elevation,
+loft, fearlessly flapping [[Dust|dust]] from books up at that remote elevation,
 and whisking it from stops and pedals. Come sundry rooks, from various
 quarters of the sky, back to the great tower; who may be presumed to
 enjoy vibration, and to know that bell and organ are going to give it
@@ -761,13 +761,13 @@ from Minor Canon Corner and the Precincts. Come Mr. Crisparkle, fresh
 and bright; and his ministering brethren, not quite so fresh and
 bright. Come the Choir in a hurry (always in a hurry, and struggling
 into their nightgowns at the last moment, like children shirking bed),
-and comes John Jasper leading their line. Last of all comes Mr.
+and comes [[John Jasper]] leading their line. Last of all comes Mr.
 Datchery into a stall, one of a choice empty collection very much at
 his service, and glancing about him for Her Royal Highness the Princess
 Puffer.
 
-The service is pretty well advanced before Mr. Datchery can discern Her
-Royal Highness. But by that time he has made her out, in the shade. She
+The service is pretty [[Well|well]] advanced before Mr. Datchery can discern Her
+Royal Highness. But by that [[Time|time]] he has made her out, in the shade. She
 is behind a pillar, carefully withdrawn from the Choir-master’s view,
 but regards him with the closest attention. All unconscious of her
 presence, he chants and sings. She grins when he is most musically
@@ -792,7 +792,7 @@ Mr. Datchery accosts his last new acquaintance outside, when the Choir
 (as much in a hurry to get their bedgowns off, as they were but now to
 get them on) have scuffled away.
 
-“Well, mistress. Good morning. You have seen him?”
+“[[Well]], mistress. Good morning. You have seen him?”
 
 “_I’ve_ seen him, deary; _I’ve_ seen him!”
 
@@ -803,33 +803,33 @@ him.”
 
 Mrs. Tope’s care has spread a very neat, clean breakfast ready for her
 lodger. Before sitting down to it, he opens his corner-cupboard door;
-takes his bit of chalk from its shelf; adds one thick line to the
-score, extending from the top of the cupboard door to the bottom; and
+takes his bit of [[chalk]] from its shelf; adds one thick line to the
+score, extending from the top of the cupboard door to the [[Bottom|bottom]]; and
 then falls to with an appetite.
 
 
 
-APPENDIX: FRAGMENT OF ‘THE MYSTERY OF EDWIN DROOD’
+APPENDIX: [[Fragment|FRAGMENT]] OF ‘THE MYSTERY OF [[Edwin Drood|EDWIN DROOD]]’
 
 
-When Forster was just finishing his biography of Dickens, he found
-among the leaves of one of the novelist’s other manuscripts certain
+When Forster was just finishing his [[Biography|biography]] of Dickens, he found
+among the [[Leaves|leaves]] of one of the novelist’s other manuscripts certain
 loose slips in his writing, ‘on paper only half the size of that used
 for the tale, so cramped, interlined, and blotted as to be nearly
 illegible.’ These proved, upon examination, to contain a suggested
 chapter for _Edwin Drood_, in which Sapsea, the auctioneer, appears as
 the principal figure, surrounded by a group of characters new to the
 story. That chapter, being among the last things Dickens wrote, seems
-to contain so much of interest that it may be well to reprint it
+to contain so much of interest that it may be [[Well|well]] to reprint it
 here.—ED.
 
 HOW MR. SAPSEA CEASED TO BE A MEMBER OF THE EIGHT CLUB
 TOLD BY HIMSELF
 
 Wishing to take the air, I proceeded by a circuitous route to the Club,
-it being our weekly night of meeting. I found that we mustered our full
+it being our weekly [[Night|night]] of meeting. I found that we mustered our full
 strength. We were enrolled under the denomination of the Eight Club. We
-were eight in number; we met at eight o’clock during eight months of
+were eight in number; we met at eight o’[[Clock|clock]] during eight months of
 the year; we played eight games of four-handed cribbage, at eightpence
 the game; our frugal supper was composed of eight rolls, eight mutton
 chops, eight pork sausages, eight baked potatoes, eight marrow-bones,
@@ -838,7 +838,7 @@ a certain harmony of colour in the ruling idea of this (to adopt a
 phrase of our lively neighbours) reunion. It was a little idea of mine.
 
 [Illustration: Facsimile of a page of the manuscript of “The Mystery of
-Edwin Drood”]
+[[Edwin Drood]]”]
 
 
 A somewhat popular member of the Eight Club, was a member by the name
@@ -850,13 +850,13 @@ half-believes him to be very high in the Church.’
 
 In the act of hanging up my hat on the eighth peg by the door, I caught
 Kimber’s visual ray. He lowered it, and passed a remark on the next
-change of the moon. I did not take particular notice of this at the
+change of the [[Moon|moon]]. I did not take particular notice of this at the
 moment, because the world was often pleased to be a little shy of
 ecclesiastical topics in my presence. For I felt that I was picked out
 (though perhaps only through a coincidence) to a certain extent to
 represent what I call our glorious constitution in Church and State.
 The phrase may be objected to by cautious minds; but I own to it as
-mine. I threw it off in argument some little time back. I said: ‘OUR
+mine. I threw it off in argument some little [[Time|time]] back. I said: ‘OUR
 GLORIOUS CONSTITUTION in CHURCH and STATE.’
 
 Another member of the Eight Club was Peartree; also member of the Royal
@@ -887,7 +887,7 @@ am not to be blinded; and of course it was as plain to me what he was
 going to do with them, as it was that he was a brown hulking sort of
 revolutionary subject who had been in India with the soldiers, and
 ought (for the sake of society) to have his neck broke. I saw the lots
-shortly afterwards in Kimber’s lodgings—through the window—and I easily
+shortly afterwards in Kimber’s lodgings—through the [[Window|window]]—and I easily
 made out that there had been a sneaking pretence of lending them till
 better times. A man with a smaller knowledge of the world than myself
 might have been led to suspect that Kimber had held back money from his
@@ -896,7 +896,7 @@ for certain he had no money, I knew that this would involve a species
 of forethought not to be made compatible with the frivolity of a
 caperer, inoculating other people with capering, for his bread.
 
-As it was the first time I had seen either of those two since the sale,
+As it was the first [[Time|time]] I had seen either of those two since the sale,
 I kept myself in what I call Abeyance. When selling him up, I had
 delivered a few remarks—shall I say a little homily?—concerning Kimber,
 which the world did regard as more than usually worth notice. I had
@@ -916,7 +916,7 @@ writ of execution; thirdly, Issued by a creditor; with a few moral
 reflections on each, and winding up with, ‘Now to the first lot’ in a
 manner that was complimented when I afterwards mingled with my hearers.
 
-So, not being certain on what terms I and Kimber stood, I was grave, I
+So, not being certain on what terms I and Kimber stood, I was [[Grave|grave]], I
 was chilling. Kimber, however, moving to me, I moved to Kimber. (I was
 the creditor who had issued the writ. Not that it matters.)
 
@@ -936,19 +936,19 @@ you were not high in the Church.’
 strong expressions to apply to a young man of good appearance and
 address.’ My generosity was roused; I own it.
 
-‘You’ll admit that he must be a Fool,’ said Peartree.
+‘You’ll admit that he must be a [[Fool]],’ said Peartree.
 
 ‘You can’t deny that he must be a Blockhead,’ said Kimber.
 
 Their tone of disgust amounted to being offensive. Why should the young
-man be so calumniated? What had he done? He had only made an innocent
+man be so calumniated? What had he done? He had only made an [[Innocent|innocent]]
 and natural mistake. I controlled my generous indignation, and said so.
 
 ‘Natural?’ repeated Kimber. ‘_He’s_ a Natural!’
 
 The remaining six members of the Eight Club laughed unanimously. It
 stung me. It was a scornful laugh. My anger was roused in behalf of an
-absent, friendless stranger. I rose (for I had been sitting down).
+absent, friendless stranger. I [[Rose|rose]] (for I had been sitting down).
 
 ‘Gentlemen,’ I said with dignity, ‘I will not remain one of this Club
 allowing opprobrium to be cast on an unoffending person in his absence.
@@ -966,7 +966,7 @@ knowledge of mankind. I had forced it out of them.
 II
 
 Whom should I meet in the street, within a few yards of the door of the
-inn where the Club was held, but the self-same young man whose cause I
+inn where the Club was held, but the [[Self|self]]-same young man whose cause I
 had felt it my duty so warmly—and I will add so disinterestedly—to take
 up.
 
@@ -988,11 +988,11 @@ avail me?’
 I don’t know that I had quite exactly made out to a fraction that his
 name _was_ Poker, but I daresay I had been pretty near doing it.
 
-‘Well, well,’ said I, trying to put him at his ease by nodding my head
+‘[[Well]], [[Well|well]],’ said I, trying to put him at his ease by nodding my head
 in a soothing way. ‘Your name is Poker, and there is no harm in being
 named Poker.’
 
-‘Oh, Mr. Sapsea!’ cried the young man, in a very well-behaved manner.
+‘Oh, Mr. Sapsea!’ cried the young man, in a very [[Well|well]]-behaved manner.
 ‘Bless you for those words!’ He then, as if ashamed of having given way
 to his feelings, looked down again.
 

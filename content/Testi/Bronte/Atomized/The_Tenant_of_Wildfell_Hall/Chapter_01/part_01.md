@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 1 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 1 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,23 +20,23 @@ tags:
 
 
 
-You must go back with me to the autumn of 1827.
+You must go back with me to the [[Autumn|autumn]] of 1827.
 
 
 
 My father, as you know, was a sort of gentleman farmer in ——shire; and
 
-I, by his express desire, succeeded him in the same quiet occupation,
+I, by his express [[Desire|desire]], succeeded him in the same quiet occupation,
 
-not very willingly, for ambition urged me to higher aims, and
+not very willingly, for [[Ambition|ambition]] urged me to higher aims, and
 
-self-conceit assured me that, in disregarding its voice, I was burying
+[[Self|self]]-conceit assured me that, in disregarding its voice, I was burying
 
 my talent in the earth, and hiding my light under a bushel. My mother
 
 had done her utmost to persuade me that I was capable of great
 
-achievements; but my father, who thought ambition was the surest road
+achievements; but my father, who thought [[Ambition|ambition]] was the surest [[Road|road]]
 
 to ruin, and change but another word for destruction, would listen to
 
@@ -46,7 +46,7 @@ mortals. He assured me it was all rubbish, and exhorted me, with his
 
 dying breath, to continue in the good old way, to follow his steps, and
 
-those of his father before him, and let my highest ambition be to walk
+those of his father before him, and let my highest [[Ambition|ambition]] be to walk
 
 honestly through the world, looking neither to the right hand nor to
 
@@ -56,7 +56,7 @@ least, as flourishing a condition as he left them to me.
 
 
 
-“Well!—an honest and industrious farmer is one of the most useful
+“[[Well]]!—an honest and industrious farmer is one of the most useful
 
 members of society; and if I devote my talents to the cultivation of my
 
@@ -70,11 +70,11 @@ some degree, mankind at large:—hence I shall not have lived in vain.”
 
 With such reflections as these I was endeavouring to console myself, as
 
-I plodded home from the fields, one cold, damp, cloudy evening towards
+I plodded [[Home|home]] from the fields, one cold, damp, cloudy evening towards
 
-the close of October. But the gleam of a bright red fire through the
+the close of October. But the gleam of a bright red [[Fire|fire]] through the
 
-parlour window had more effect in cheering my spirits, and rebuking my
+parlour [[Window|window]] had more effect in cheering my spirits, and rebuking my
 
 thankless repinings, than all the sage reflections and good resolutions
 
@@ -104,7 +104,7 @@ girl of nineteen, with a tidy, dumpy figure, a round face, bright,
 
 blooming cheeks, glossy, clustering curls, and little merry brown eyes.
 
-I need not tell you this was my sister Rose. She is, I know, a comely
+I need not tell you this was my sister [[Rose]]. She is, I know, a comely
 
 matron still, and, doubtless, no less lovely—in _your_ eyes—than on the
 
@@ -116,7 +116,7 @@ but destined hereafter to become a closer friend than even herself,
 
 more intimate than that unmannerly lad of seventeen, by whom I was
 
-collared in the passage, on coming down, and well-nigh jerked off my
+collared in the passage, on coming down, and [[Well|well]]-nigh jerked off my
 
 equilibrium, and who, in correction for his impudence, received a
 
@@ -136,9 +136,9 @@ arm-chair at the fireside, working away at her knitting, according to
 
 her usual custom, when she had nothing else to do. She had swept the
 
-hearth, and made a bright blazing fire for our reception; the servant
+hearth, and made a bright blazing [[Fire|fire]] for our reception; the servant
 
-had just brought in the tea-tray; and Rose was producing the
+had just brought in the tea-tray; and [[Rose]] was producing the
 
 sugar-basin and tea-caddy from the cupboard in the black oak
 
@@ -148,11 +148,11 @@ twilight.
 
 
 
-“Well! here they both are,” cried my mother, looking round upon us
+“[[Well]]! here they both are,” cried my mother, looking round upon us
 
 without retarding the motion of her nimble fingers and glittering
 
-needles. “Now shut the door, and come to the fire, while Rose gets the
+needles. “Now shut the door, and come to the [[Fire|fire]], while [[Rose]] gets the
 
 tea ready; I’m sure you must be starved;—and tell me what you’ve been
 
@@ -180,7 +180,7 @@ efficient draining of the low meadowlands.”
 
 And here he proceeded to give a particular account of his sport, and
 
-the respective traits of prowess evinced by the badger and the dogs; my
+the respective traits of prowess evinced by the badger and the [[dogs]]; my
 
 mother pretending to listen with deep attention, and watching his
 
@@ -190,7 +190,7 @@ highly disproportioned to its object.
 
 
 
-“It’s time you should be doing something else, Fergus,” said I, as soon
+“It’s [[Time|time]] you should be doing something else, Fergus,” said I, as soon
 
 as a momentary pause in his narration allowed me to get in a word.
 
@@ -210,7 +210,7 @@ Our parent soothingly stroked his stiff, short curls. He growled, and
 
 tried to look sulky, and then we all took our seats at the table, in
 
-obedience to the thrice-repeated summons of Rose.
+obedience to the thrice-repeated summons of [[Rose]].
 
 
 
@@ -222,13 +222,13 @@ you didn’t go with me, Gilbert, for Eliza Millward was there!”
 
 
 
-“Well! what of her?”
+“[[Well]]! what of her?”
 
 
 
 “Oh, nothing!—I’m not going to tell you about her;—only that she’s a
 
-nice, amusing little thing, when she is in a merry humour, and I
+nice, amusing little thing, when she is in a merry [[Humour|humour]], and I
 
 shouldn’t mind calling her—”
 
@@ -240,6 +240,6 @@ mother earnestly, holding up her finger.
 
 
 
-“Well,” resumed Rose; “I was going to tell you an important piece of
+“[[Well]],” resumed [[Rose]]; “I was going to tell you an important piece of
 
 news I heard there—I have been bursting with it ever since. You know it

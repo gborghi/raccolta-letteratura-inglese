@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 9)"
+title: "[[Shirley]] — Chapter 7 (part 9)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -36,7 +36,7 @@ his niece. Gérard Moore was better instructed on this point: he had seen
 
 the neat church that owed its origin to the rector's zeal and cash, and
 
-more than once, in his inmost soul, had cursed an expensive caprice
+more than once, in his inmost [[Soul|soul]], had cursed an expensive caprice
 
 which crossed his wishes.
 
@@ -74,9 +74,9 @@ Tired at length to exhaustion, she embraced the opportunity of Mr.
 
 Sweeting coming up to speak to Mrs. Sykes to slip quietly out of the
 
-apartment, and seek a moment's respite in solitude. She repaired to the
+apartment, and seek a moment's respite in [[Solitude|solitude]]. She repaired to the
 
-dining-room, where the clear but now low remnant of a fire still burned
+dining-room, where the clear but now low remnant of a [[Fire|fire]] still burned
 
 in the grate. The place was empty and quiet, glasses and decanters were
 
@@ -92,15 +92,15 @@ vacancy. As to her mind, that flew directly to the Hollow. It stood on
 
 the threshold of the parlour there, then it passed to the
 
-counting-house, and wondered which spot was blessed by the presence of
+counting-[[house]], and wondered which spot was blessed by the presence of
 
-Robert. It so happened that neither locality had that honour; for Robert
+Robert. It so happened that neither locality had that [[Honour|honour]]; for Robert
 
 was half a mile away from both, and much nearer to Caroline than her
 
 deadened spirit suspected. He was at this moment crossing the
 
-churchyard, approaching the rectory garden-gate--not, however, coming to
+churchyard, approaching the rectory [[Garden|garden]]-gate--not, however, coming to
 
 see his cousin, but intent solely on communicating a brief piece of
 
@@ -110,7 +110,7 @@ intelligence to the rector.
 
 Yes, Caroline; you hear the wire of the bell vibrate; it rings again for
 
-the fifth time this afternoon. You start, and you are certain now that
+the fifth [[Time|time]] this afternoon. You start, and you are certain now that
 
 this must be he of whom you dream. Why you are so certain you cannot
 
@@ -164,7 +164,7 @@ which she said this, any one might perceive that some saddening change
 
 had lately passed over her prospects, and that the faculty of cheerful
 
-self-possession had left her. Mr. Moore, probably, remembered how she
+[[Self|self]]-possession had left her. Mr. Moore, probably, remembered how she
 
 had formerly been accustomed to meet him with gentle ardour and hopeful
 
@@ -206,13 +206,13 @@ messenger?"
 
 
 
-"Then you may just inform him that I have got a clue to the identity of
+"Then you may just inform him that I have got a clue to the [[Identity|identity]] of
 
 one, at least, of the men who broke my frames; that he belongs to the
 
 same gang who attacked Sykes and Pearson's dressing-shop, and that I
 
-hope to have him in custody to-morrow. You can remember that?"
+[[Hope|hope]] to have him in custody to-morrow. You can remember that?"
 
 
 

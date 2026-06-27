@@ -64,8 +64,8 @@ me?”
 
 “A stranger?”
 
-“Chut!” said the old woman, with a shrill laugh. “What signifies! Well,
-well; no. No stranger to your worship. But he won’t see you. He’d be
+“Chut!” said the old woman, with a shrill laugh. “What signifies! [[Well]],
+[[Well|well]]; no. No stranger to your worship. But he won’t see you. He’d be
 afraid of you, and wouldn’t talk. You’ll stand behind that door, and
 judge him for yourself. We don’t ask to be believed on trust What! Your
 worship doubts the room behind the door? Oh the suspicion of you rich
@@ -112,7 +112,7 @@ birdcage in my hand, will you?”
 “Thinks of a birdcage, afore me!” cried the old woman, apostrophizing
 the ceiling. “Me that feels more than a mother for him!”
 
-“Well, I’m sure I’m very much obliged to you, Misses Brown,” said the
+“[[Well]], I’m sure I’m very much obliged to you, Misses Brown,” said the
 unfortunate youth, greatly aggravated; “but you’re so jealous of a
 cove. I’m very fond of you myself, and all that, of course; but I don’t
 smother you, do I, Misses Brown?”
@@ -139,7 +139,7 @@ enough to make a cove run wild!”
 “What! Do you snub me, thankless boy!” cried the old woman, with ready
 vehemence.
 
-“Good gracious, Misses Brown, no!” returned the Grinder, with tears in
+“Good gracious, Misses Brown, no!” returned the Grinder, with [[Tears|tears]] in
 his eyes. “Was there ever such a—! Don’t I dote upon you, Misses
 Brown?”
 

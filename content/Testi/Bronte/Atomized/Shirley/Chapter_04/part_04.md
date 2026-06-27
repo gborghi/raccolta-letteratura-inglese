@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 4 (part 4)"
+title: "[[Shirley]] — Chapter 4 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-have been induced by any persuasion to cross his former rival's
+have been induced by any [[Persuasion|persuasion]] to [[Cross|cross]] his former rival's
 
 threshold.
 
@@ -24,7 +24,7 @@ threshold.
 
 
 
-Mr. Yorke did not resume his lecture of Robert Moore. The conversation
+Mr. Yorke did not resume his lecture of [[Robert Moore]]. The conversation
 
 ere long recommenced in a more general form, though still in a somewhat
 
@@ -44,7 +44,7 @@ constituted authorities, the growing indisposition to bear with patience
 
 evils he regarded as inevitable. The cures he prescribed were vigorous
 
-government interference, strict magisterial vigilance; when necessary,
+[[government]] interference, strict magisterial vigilance; when necessary,
 
 prompt military coercion.
 
@@ -66,7 +66,7 @@ authorities he regarded as the most promising sign of the times; the
 
 masters, he allowed, were truly aggrieved, but their main grievances had
 
-been heaped on them by a "corrupt, base, and bloody" government (these
+been heaped on them by a "corrupt, base, and bloody" [[government]] (these
 
 were Mr. Yorke's epithets). Madmen like Pitt, demons like Castlereagh,
 
@@ -88,7 +88,7 @@ public men did--that hung a millstone about England's neck.
 
 "But where was the use of talking?" he demanded. "What chance was there
 
-of reason being heard in a land that was king-ridden, priest-ridden,
+of reason being heard in a land that was [[King|king]]-ridden, priest-ridden,
 
 peer-ridden; where a lunatic was the nominal monarch, an unprincipled
 
@@ -114,13 +114,13 @@ instances where sentiments of this sort had been very bravely maintained
 
 so long as health, strength, and worldly prosperity had been the allies
 
-of him who professed them; but there came a time," he said, "to all men,
+of him who professed them; but there came a [[Time|time]]," he said, "to all men,
 
-'when the keepers of the house should tremble; when they should be
+'when the keepers of the [[house]] should tremble; when they should be
 
-afraid of that which is high, and fear should be in the way;' and that
+afraid of that which is high, and [[Fear|fear]] should be in the way;' and that
 
-time was the test of the advocate of anarchy and rebellion, the enemy of
+[[Time|time]] was the test of the advocate of anarchy and rebellion, the enemy of
 
 religion and order. Ere now," he affirmed, "he had been called upon to
 
@@ -130,9 +130,9 @@ dying-bed of one of her most rancorous foes; he had seen such a one
 
 stricken with remorse, solicitous to discover a place for repentance,
 
-and unable to find any, though he sought it carefully with tears. He
+and unable to find any, though he sought it carefully with [[Tears|tears]]. He
 
-must forewarn Mr. Yorke that blasphemy against God and the king was a
+must forewarn Mr. Yorke that blasphemy against God and the [[King|king]] was a
 
 deadly sin, and that there was such a thing as 'judgment to come.'"
 
@@ -142,7 +142,7 @@ Mr. Yorke "believed fully that there was such a thing as judgment to
 
 come. If it were otherwise, it would be difficult to imagine how all the
 
-scoundrels who seemed triumphant in this world, who broke innocent
+scoundrels who seemed triumphant in this world, who broke [[Innocent|innocent]]
 
 hearts with impunity, abused unmerited privileges, were a scandal to
 
@@ -154,9 +154,9 @@ be properly paid off in such coin as they had earned. But," he added,
 
 "whenever he got low-spirited about such-like goings-on, and their
 
-seeming success in this mucky lump of a planet, he just reached down t'
+seeming [[success]] in this mucky lump of a planet, he just reached down t'
 
-owd book" (pointing to a great Bible in the bookcase), "opened it like
+owd book" (pointing to a great [[Bible]] in the bookcase), "opened it like
 
 at a chance, and he was sure to light of a verse blazing wi' a blue
 
@@ -180,7 +180,7 @@ steps tend."
 
 from the very gates of heaven, borne through the air, and thrust in at a
 
-door in the side of the hill which led down to hell."
+door in the side of the [[Hill|hill]] which led down to hell."
 
 
 
@@ -198,7 +198,7 @@ dashed to pieces with his fall."
 
 spectator of this worldly combat, and whose indifference to the party
 
-politics of the day, as well as to the gossip of the neighbourhood, made
+politics of the day, as [[Well|well]] as to the gossip of the neighbourhood, made
 
 him an impartial, if apathetic, judge of the merits of such an
 
@@ -212,13 +212,13 @@ current against the fellows who have broken my frames that I have none
 
 to spare for my private acquaintance, and still less for such a vague
 
-thing as a sect or a government. But really, gentlemen, you both seem
+thing as a sect or a [[government]]. But really, gentlemen, you both seem
 
 very bad by your own showing--worse than ever I suspected you to be.--I
 
-dare not stay all night with a rebel and blasphemer like you, Yorke; and
+dare not stay all [[Night|night]] with a [[Rebel|rebel]] and blasphemer like you, Yorke; and
 
-I hardly dare ride home with a cruel and tyrannical ecclesiastic like
+I hardly dare ride [[Home|home]] with a cruel and tyrannical ecclesiastic like
 
 Mr. Helstone."
 
@@ -234,7 +234,7 @@ or not, as you please."
 
 Yorke. "It's midnight, and past; and I'll have nob'dy staying up i' my
 
-house any longer. Ye mun all go."
+[[house]] any longer. Ye mun all go."
 
 
 

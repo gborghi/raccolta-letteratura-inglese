@@ -15,15 +15,15 @@ tags:
 
 
 CHAPTER VIII
-WASHINGTON.  THE LEGISLATURE.  AND THE PRESIDENT’S HOUSE
+WASHINGTON.  THE LEGISLATURE.  AND THE PRESIDENT’S [[house|HOUSE]]
 
 
-WE left Philadelphia by steamboat, at six o’clock one very cold morning,
+WE left Philadelphia by steamboat, at six o’[[Clock|clock]] one very cold morning,
 and turned our faces towards Washington.
 
-In the course of this day’s journey, as on subsequent occasions, we
+In the course of this day’s [[Journey|journey]], as on subsequent occasions, we
 encountered some Englishmen (small farmers, perhaps, or country publicans
-at home) who were settled in America, and were travelling on their own
+at [[Home|home]]) who were settled in [[america|America]], and were travelling on their own
 affairs.  Of all grades and kinds of men that jostle one in the public
 conveyances of the States, these are often the most intolerable and the
 most insufferable companions.  United to every disagreeable
@@ -32,22 +32,22 @@ countrymen of ours display an amount of insolent conceit and cool
 assumption of superiority, quite monstrous to behold.  In the coarse
 familiarity of their approach, and the effrontery of their
 inquisitiveness (which they are in great haste to assert, as if they
-panted to revenge themselves upon the decent old restraints of home),
+panted to [[Revenge|revenge]] themselves upon the decent old restraints of [[Home|home]]),
 they surpass any native specimens that came within my range of
 observation: and I often grew so patriotic when I saw and heard them,
 that I would cheerfully have submitted to a reasonable fine, if I could
-have given any other country in the whole world, the honour of claiming
+have given any other country in the whole world, the [[Honour|honour]] of claiming
 them for its children.
 
 As Washington may be called the head-quarters of tobacco-tinctured
-saliva, the time is come when I must confess, without any disguise, that
+saliva, the [[Time|time]] is come when I must confess, without any disguise, that
 the prevalence of those two odious practices of chewing and expectorating
-began about this time to be anything but agreeable, and soon became most
-offensive and sickening.  In all the public places of America, this
+began about this [[Time|time]] to be anything but agreeable, and soon became most
+offensive and sickening.  In all the public places of [[america|America]], this
 filthy custom is recognised.  In the courts of law, the judge has his
 spittoon, the crier his, the witness his, and the prisoner his; while the
 jurymen and spectators are provided for, as so many men who in the course
-of nature must desire to spit incessantly.  In the hospitals, the
+of [[Nature|nature]] must [[Desire|desire]] to spit incessantly.  In the hospitals, the
 students of medicine are requested, by notices upon the wall, to eject
 their tobacco juice into the boxes provided for that purpose, and not to
 discolour the stairs.  In public buildings, visitors are implored,
@@ -66,9 +66,9 @@ On board this steamboat, there were two young gentlemen, with
 shirt-collars reversed as usual, and armed with very big walking-sticks;
 who planted two seats in the middle of the deck, at a distance of some
 four paces apart; took out their tobacco-boxes; and sat down opposite
-each other, to chew.  In less than a quarter of an hour’s time, these
+each other, to chew.  In less than a quarter of an hour’s [[Time|time]], these
 hopeful youths had shed about them on the clean boards, a copious shower
-of yellow rain; clearing, by that means, a kind of magic circle, within
+of yellow rain; clearing, by that means, a kind of [[Magic|magic]] circle, within
 whose limits no intruders dared to come, and which they never failed to
 refresh and re-refresh before a spot was dry.  This being before
 breakfast, rather disposed me, I confess, to nausea; but looking
@@ -83,29 +83,29 @@ for hours.
 We all sat down to a comfortable breakfast in the cabin below, where
 there was no more hurry or confusion than at such a meal in England, and
 where there was certainly greater politeness exhibited than at most of
-our stage-coach banquets.  At about nine o’clock we arrived at the
-railroad station, and went on by the cars.  At noon we turned out again,
-to cross a wide river in another steamboat; landed at a continuation of
+our stage-coach banquets.  At about nine o’[[Clock|clock]] we arrived at the
+railroad station, and went on by the cars.  At [[Noon|noon]] we turned out again,
+to [[Cross|cross]] a wide [[River|river]] in another steamboat; landed at a continuation of
 the railroad on the opposite shore; and went on by other cars; in which,
 in the course of the next hour or so, we crossed by wooden bridges, each
 a mile in length, two creeks, called respectively Great and Little
-Gunpowder.  The water in both was blackened with flights of canvas-backed
+Gunpowder.  The [[Water|water]] in both was blackened with flights of canvas-backed
 ducks, which are most delicious eating, and abound hereabouts at that
 season of the year.
 
 These bridges are of wood, have no parapet, and are only just wide enough
 for the passage of the trains; which, in the event of the smallest
-accident, wound inevitably be plunged into the river.  They are startling
+accident, wound inevitably be plunged into the [[River|river]].  They are startling
 contrivances, and are most agreeable when passed.
 
 We stopped to dine at Baltimore, and being now in Maryland, were waited
-on, for the first time, by slaves.  The sensation of exacting any service
-from human creatures who are bought and sold, and being, for the time, a
+on, for the first [[Time|time]], by slaves.  The sensation of exacting any service
+from human creatures who are bought and sold, and being, for the [[Time|time]], a
 party as it were to their condition, is not an enviable one.  The
 institution exists, perhaps, in its least repulsive and most mitigated
-form in such a town as this; but it _is_ slavery; and though I was, with
-respect to it, an innocent man, its presence filled me with a sense of
-shame and self-reproach.
+form in such a town as this; but it _is_ [[Slavery|slavery]]; and though I was, with
+respect to it, an [[Innocent|innocent]] man, its presence filled me with a sense of
+shame and [[Self|self]]-reproach.
 
 After dinner, we went down to the railroad again, and took our seats in
 the cars for Washington.  Being rather early, those men and boys who
@@ -119,79 +119,79 @@ information with reference to my own nose and eyes, and various
 impressions wrought by my mouth and chin on different minds, and how my
 head looks when it is viewed from behind, as on these occasions.  Some
 gentlemen were only satisfied by exercising their sense of touch; and the
-boys (who are surprisingly precocious in America) were seldom satisfied,
+boys (who are surprisingly precocious in [[america|America]]) were seldom satisfied,
 even by that, but would return to the charge over and over again.  Many a
 budding president has walked into my room with his cap on his head and
 his hands in his pockets, and stared at me for two whole hours:
 occasionally refreshing himself with a tweak of his nose, or a draught
-from the water-jug; or by walking to the windows and inviting other boys
+from the [[Water|water]]-jug; or by walking to the windows and inviting other boys
 in the street below, to come up and do likewise: crying, ‘Here he is!’
 ‘Come on!’  ‘Bring all your brothers!’ with other hospitable entreaties
-of that nature.
+of that [[Nature|nature]].
 
 We reached Washington at about half-past six that evening, and had upon
 the way a beautiful view of the Capitol, which is a fine building of the
 Corinthian order, placed upon a noble and commanding eminence.  Arrived
-at the hotel; I saw no more of the place that night; being very tired,
+at the hotel; I saw no more of the place that [[Night|night]]; being very tired,
 and glad to get to bed.
 
 Breakfast over next morning, I walk about the streets for an hour or two,
-and, coming home, throw up the window in the front and back, and look
+and, coming [[Home|home]], throw up the [[Window|window]] in the front and back, and look
 out.  Here is Washington, fresh in my mind and under my eye.
 
-Take the worst parts of the City Road and Pentonville, or the straggling
-outskirts of Paris, where the houses are smallest, preserving all their
+Take the worst parts of the [[City]] [[Road]] and Pentonville, or the straggling
+outskirts of [[Paris]], where the houses are smallest, preserving all their
 oddities, but especially the small shops and dwellings, occupied in
 Pentonville (but not in Washington) by furniture-brokers, keepers of poor
-eating-houses, and fanciers of birds.  Burn the whole down; build it up
+eating-houses, and fanciers of [[Birds|birds]].  Burn the whole down; build it up
 again in wood and plaster; widen it a little; throw in part of St. John’s
 Wood; put green blinds outside all the private houses, with a red curtain
-and a white one in every window; plough up all the roads; plant a great
+and a white one in every [[Window|window]]; plough up all the roads; plant a great
 deal of coarse turf in every place where it ought _not_ to be; erect
-three handsome buildings in stone and marble, anywhere, but the more
+three handsome buildings in [[Stone and Marble|stone and marble]], anywhere, but the more
 entirely out of everybody’s way the better; call one the Post Office; one
 the Patent Office, and one the Treasury; make it scorching hot in the
 morning, and freezing cold in the afternoon, with an occasional tornado
-of wind and dust; leave a brick-field without the bricks, in all central
+of [[Wind|wind]] and [[Dust|dust]]; leave a brick-field without the bricks, in all central
 places where a street may naturally be expected: and that’s Washington.
 
 The hotel in which we live, is a long row of small houses fronting on the
 street, and opening at the back upon a common yard, in which hangs a
 great triangle.  Whenever a servant is wanted, somebody beats on this
 triangle from one stroke up to seven, according to the number of the
-house in which his presence is required; and as all the servants are
+[[house]] in which his presence is required; and as all the servants are
 always being wanted, and none of them ever come, this enlivening engine
 is in full performance the whole day through.  Clothes are drying in the
 same yard; female slaves, with cotton handkerchiefs twisted round their
-heads are running to and fro on the hotel business; black waiters cross
-and recross with dishes in their hands; two great dogs are playing upon a
+heads are running to and fro on the hotel business; black waiters [[Cross|cross]]
+and recross with dishes in their hands; two great [[dogs]] are playing upon a
 mound of loose bricks in the centre of the little square; a pig is
 turning up his stomach to the sun, and grunting ‘that’s comfortable!’;
-and neither the men, nor the women, nor the dogs, nor the pig, nor any
+and neither the men, nor the women, nor the [[dogs]], nor the pig, nor any
 created creature, takes the smallest notice of the triangle, which is
-tingling madly all the time.
+tingling madly all the [[Time|time]].
 
-I walk to the front window, and look across the road upon a long,
+I walk to the front [[Window|window]], and look across the [[Road|road]] upon a long,
 straggling row of houses, one story high, terminating, nearly opposite,
-but a little to the left, in a melancholy piece of waste ground with
+but a little to the left, in a [[Melancholy|melancholy]] piece of waste ground with
 frowzy grass, which looks like a small piece of country that has taken to
 drinking, and has quite lost itself.  Standing anyhow and all wrong, upon
 this open space, like something meteoric that has fallen down from the
-moon, is an odd, lop-sided, one-eyed kind of wooden building, that looks
-like a church, with a flag-staff as long as itself sticking out of a
-steeple something larger than a tea-chest.  Under the window is a small
+[[Moon|moon]], is an odd, lop-sided, one-eyed kind of wooden building, that looks
+like a church, with a [[Flag|flag]]-staff as long as itself sticking out of a
+steeple something larger than a tea-chest.  Under the [[Window|window]] is a small
 stand of coaches, whose slave-drivers are sunning themselves on the steps
 of our door, and talking idly together.  The three most obtrusive houses
 near at hand are the three meanest.  On one—a shop, which never has
-anything in the window, and never has the door open—is painted in large
-characters, ‘THE CITY LUNCH.’  At another, which looks like a backway to
+anything in the [[Window|window]], and never has the door open—is painted in large
+characters, ‘THE [[City|CITY]] LUNCH.’  At another, which looks like a backway to
 somewhere else, but is an independent building in itself, oysters are
 procurable in every style.  At the third, which is a very, very little
 tailor’s shop, pants are fixed to order; or in other words, pantaloons
 are made to measure.  And that is our street in Washington.
 
-It is sometimes called the City of Magnificent Distances, but it might
-with greater propriety be termed the City of Magnificent Intentions; for
+It is sometimes called the [[City]] of Magnificent Distances, but it might
+with greater propriety be termed the [[City]] of Magnificent Intentions; for
 it is only on taking a bird’s-eye view of it from the top of the Capitol,
 that one can at all comprehend the vast designs of its projector, an
 aspiring Frenchman.  Spacious avenues, that begin in nothing, and lead
@@ -201,22 +201,22 @@ ornaments of great thoroughfares, which only lack great thoroughfares to
 ornament—are its leading features.  One might fancy the season over, and
 most of the houses gone out of town for ever with their masters.  To the
 admirers of cities it is a Barmecide Feast: a pleasant field for the
-imagination to rove in; a monument raised to a deceased project, with not
-even a legible inscription to record its departed greatness.
+[[Imagination|imagination]] to rove in; a monument raised to a deceased project, with not
+even a legible [[Inscription|inscription]] to record its departed [[Greatness|greatness]].
 
 Such as it is, it is likely to remain.  It was originally chosen for the
-seat of Government, as a means of averting the conflicting jealousies and
+seat of [[government|Government]], as a means of averting the conflicting jealousies and
 interests of the different States; and very probably, too, as being
-remote from mobs: a consideration not to be slighted, even in America.
+remote from mobs: a consideration not to be slighted, even in [[america|America]].
 It has no trade or commerce of its own: having little or no population
 beyond the President and his establishment; the members of the
-legislature who reside there during the session; the Government clerks
+legislature who reside there during the session; the [[government|Government]] clerks
 and officers employed in the various departments; the keepers of the
 hotels and boarding-houses; and the tradesmen who supply their tables.
 It is very unhealthy.  Few people would live in Washington, I take it,
 who were not obliged to reside there; and the tides of emigration and
 speculation, those rapid and regardless currents, are little likely to
-flow at any time towards such dull and sluggish water.
+flow at any [[Time|time]] towards such dull and sluggish [[Water|water]].
 
 The principal features of the Capitol, are, of course, the two houses of
 Assembly.  But there is, besides, in the centre of the building, a fine
@@ -224,7 +224,7 @@ rotunda, ninety-six feet in diameter, and ninety-six high, whose circular
 wall is divided into compartments, ornamented by historical pictures.
 Four of these have for their subjects prominent events in the
 revolutionary struggle.  They were painted by Colonel Trumbull, himself a
-member of Washington’s staff at the time of their occurrence; from which
+member of Washington’s staff at the [[Time|time]] of their occurrence; from which
 circumstance they derive a peculiar interest of their own.  In this same
 hall Mr. Greenough’s large statue of Washington has been lately placed.
 It has great merits of course, but it struck me as being rather strained
@@ -235,26 +235,26 @@ There is a very pleasant and commodious library in the Capitol; and from
 a balcony in front, the bird’s-eye view, of which I have just spoken, may
 be had, together with a beautiful prospect of the adjacent country.  In
 one of the ornamented portions of the building, there is a figure of
-Justice; whereunto the Guide Book says, ‘the artist at first contemplated
+Justice; whereunto the Guide Book says, ‘the [[Artist|artist]] at first contemplated
 giving more of nudity, but he was warned that the public sentiment in
 this country would not admit of it, and in his caution he has gone,
 perhaps, into the opposite extreme.’  Poor Justice! she has been made to
-wear much stranger garments in America than those she pines in, in the
-Capitol.  Let us hope that she has changed her dress-maker since they
+wear much stranger garments in [[america|America]] than those she pines in, in the
+Capitol.  Let us [[Hope|hope]] that she has changed her dress-maker since they
 were fashioned, and that the public sentiment of the country did not cut
 out the clothes she hides her lovely figure in, just now.
 
-The House of Representatives is a beautiful and spacious hall, of
+The [[house|House]] of Representatives is a beautiful and spacious hall, of
 semicircular shape, supported by handsome pillars.  One part of the
 gallery is appropriated to the ladies, and there they sit in front rows,
 and come in, and go out, as at a play or concert.  The chair is canopied,
-and raised considerably above the floor of the House; and every member
+and raised considerably above the floor of the [[house|House]]; and every member
 has an easy chair and a writing desk to himself: which is denounced by
 some people out of doors as a most unfortunate and injudicious
 arrangement, tending to long sittings and prosaic speeches.  It is an
 elegant chamber to look at, but a singularly bad one for all purposes of
 hearing.  The Senate, which is smaller, is free from this objection, and
-is exceedingly well adapted to the uses for which it is designed.  The
+is exceedingly [[Well|well]] adapted to the uses for which it is designed.  The
 sittings, I need hardly add, take place in the day; and the parliamentary
 forms are modelled on those of the old country.
 
@@ -270,9 +270,9 @@ my impressions on this subject in as few words as possible.
 
 In the first place—it may be from some imperfect development of my organ
 of veneration—I do not remember having ever fainted away, or having even
-been moved to tears of joyful pride, at sight of any legislative body.  I
-have borne the House of Commons like a man, and have yielded to no
-weakness, but slumber, in the House of Lords.  I have seen elections for
+been moved to [[Tears|tears]] of joyful [[Pride|pride]], at sight of any legislative [[Body|body]].  I
+have borne the [[house|House]] of Commons like a man, and have yielded to no
+weakness, but slumber, in the [[house|House]] of Lords.  I have seen elections for
 borough and county, and have never been impelled (no matter which party
 won) to damage my hat by throwing it up into the air in triumph, or to
 crack my voice by shouting forth any reference to our Glorious
@@ -284,40 +284,40 @@ and therefore my impressions of the live pillars of the Capitol at
 Washington must be received with such grains of allowance as this free
 confession may seem to demand.
 
-Did I see in this public body an assemblage of men, bound together in the
-sacred names of Liberty and Freedom, and so asserting the chaste dignity
+Did I see in this public [[Body|body]] an assemblage of men, bound together in the
+sacred names of Liberty and [[Freedom]], and so asserting the chaste dignity
 of those twin goddesses, in all their discussions, as to exalt at once
 the Eternal Principles to which their names are given, and their own
 character and the character of their countrymen, in the admiring eyes of
 the whole world?
 
-It was but a week, since an aged, grey-haired man, a lasting honour to
+It was but a week, since an aged, grey-haired man, a lasting [[Honour|honour]] to
 the land that gave him birth, who has done good service to his country,
 as his forefathers did, and who will be remembered scores upon scores of
 years after the worms bred in its corruption, are but so many grains of
-dust—it was but a week, since this old man had stood for days upon his
-trial before this very body, charged with having dared to assert the
+[[Dust|dust]]—it was but a week, since this old man had stood for days upon his
+trial before this very [[Body|body]], charged with having dared to assert the
 infamy of that traffic, which has for its accursed merchandise men and
-women, and their unborn children.  Yes.  And publicly exhibited in the
-same city all the while; gilded, framed and glazed hung up for general
-admiration; shown to strangers not with shame, but pride; its face not
+women, and their [[unborn]] children.  Yes.  And publicly exhibited in the
+same [[City|city]] all the while; gilded, framed and glazed hung up for general
+admiration; shown to strangers not with shame, but [[Pride|pride]]; its face not
 turned towards the wall, itself not taken down and burned; is the
-Unanimous Declaration of the Thirteen United States of America, which
+Unanimous Declaration of the Thirteen United States of [[america|America]], which
 solemnly declares that All Men are created Equal; and are endowed by
 their Creator with the Inalienable Rights of Life, Liberty, and the
 Pursuit of Happiness!
 
-It was not a month, since this same body had sat calmly by, and heard a
+It was not a month, since this same [[Body|body]] had sat calmly by, and heard a
 man, one of themselves, with oaths which beggars in their drink reject,
 threaten to cut another’s throat from ear to ear.  There he sat, among
 them; not crushed by the general feeling of the assembly, but as good a
 man as any.
 
-There was but a week to come, and another of that body, for doing his
+There was but a week to come, and another of that [[Body|body]], for doing his
 duty to those who sent him there; for claiming in a Republic the Liberty
-and Freedom of expressing their sentiments, and making known their
-prayer; would be tried, found guilty, and have strong censure passed upon
-him by the rest.  His was a grave offence indeed; for years before, he
+and [[Freedom]] of expressing their sentiments, and making known their
+[[prayer]]; would be tried, found guilty, and have strong censure passed upon
+him by the rest.  His was a [[Grave|grave]] offence indeed; for years before, he
 had risen up and said, ‘A gang of male and female slaves for sale,
 warranted to breed like cattle, linked to each other by iron fetters, are
 passing now along the open street beneath the windows of your Temple of
@@ -326,14 +326,14 @@ Pursuit of Happiness, and they go variously armed.  It is the Inalienable
 Right of some among them, to take the field after _their_ Happiness
 equipped with cat and cartwhip, stocks, and iron collar, and to shout
 their view halloa! (always in praise of Liberty) to the music of clanking
-chains and bloody stripes.
+[[Chains|chains]] and bloody stripes.
 
 Where sat the many legislators of coarse threats; of words and blows such
 as coalheavers deal upon each other, when they forget their breeding?  On
 every side.  Every session had its anecdotes of that kind, and the actors
 were all there.
 
-Did I recognise in this assembly, a body of men, who, applying themselves
+Did I recognise in this assembly, a [[Body|body]] of men, who, applying themselves
 in a new world to correct some of the falsehoods and vices of the old,
 purified the avenues to Public Life, paved the dirty ways to Place and
 Power, debated and made laws for the Common Good, and had no party but
@@ -353,11 +353,11 @@ most depraved and most unblushing form, stared out from every corner of
 the crowded hall.
 
 Did I see among them, the intelligence and refinement: the true, honest,
-patriotic heart of America?  Here and there, were drops of its blood and
+patriotic heart of [[america|America]]?  Here and there, were drops of its [[Blood|blood]] and
 life, but they scarcely coloured the stream of desperate adventurers
 which sets that way for profit and for pay.  It is the game of these men,
 and of their profligate organs, to make the strife of politics so fierce
-and brutal, and so destructive of all self-respect in worthy men, that
+and brutal, and so destructive of all [[Self|self]]-respect in worthy men, that
 sensitive and delicate-minded persons shall be kept aloof, and they, and
 such as they, be left to battle out their selfish views unchecked.  And
 thus this lowest of all scrambling fights goes on, and they who in other
@@ -375,30 +375,30 @@ most heartily subscribe; and that personal intercourse and free
 communication have bred within me, not the result predicted in the very
 doubtful proverb, but increased admiration and respect.  They are
 striking men to look at, hard to deceive, prompt to act, lions in energy,
-Crichtons in varied accomplishments, Indians in fire of eye and gesture,
-Americans in strong and generous impulse; and they as well represent the
-honour and wisdom of their country at home, as the distinguished
-gentleman who is now its Minister at the British Court sustains its
+Crichtons in varied accomplishments, Indians in [[Fire|fire]] of eye and gesture,
+Americans in strong and generous impulse; and they as [[Well|well]] represent the
+[[Honour|honour]] and wisdom of their country at [[Home|home]], as the distinguished
+gentleman who is now its Minister at the British [[Court]] sustains its
 highest character abroad.
 
 I visited both houses nearly every day, during my stay in Washington.  On
-my initiatory visit to the House of Representatives, they divided against
-a decision of the chair; but the chair won.  The second time I went, the
+my initiatory visit to the [[house|House]] of Representatives, they divided against
+a decision of the chair; but the chair won.  The second [[Time|time]] I went, the
 member who was speaking, being interrupted by a laugh, mimicked it, as
-one child would in quarrelling with another, and added, ‘that he would
+one [[Child|child]] would in quarrelling with another, and added, ‘that he would
 make honourable gentlemen opposite, sing out a little more on the other
 side of their mouths presently.’  But interruptions are rare; the speaker
-being usually heard in silence.  There are more quarrels than with us,
+being usually heard in [[Silence|silence]].  There are more quarrels than with us,
 and more threatenings than gentlemen are accustomed to exchange in any
 civilised society of which we have record: but farm-yard imitations have
 not as yet been imported from the Parliament of the United Kingdom.  The
 feature in oratory which appears to be the most practised, and most
-relished, is the constant repetition of the same idea or shadow of an
+relished, is the constant repetition of the same idea or [[Shadow|shadow]] of an
 idea in fresh words; and the inquiry out of doors is not, ‘What did he
 say?’ but, ‘How long did he speak?’  These, however, are but enlargements
 of a principle which prevails elsewhere.
 
-The Senate is a dignified and decorous body, and its proceedings are
+The Senate is a dignified and decorous [[Body|body]], and its proceedings are
 conducted with much gravity and order.  Both houses are handsomely
 carpeted; but the state to which these carpets are reduced by the
 universal disregard of the spittoon with which every honourable member is
@@ -421,12 +421,12 @@ place.
 
 I was surprised to observe that even steady old chewers of great
 experience, are not always good marksmen, which has rather inclined me to
-doubt that general proficiency with the rifle, of which we have heard so
+[[Doubt|doubt]] that general proficiency with the rifle, of which we have heard so
 much in England.  Several gentlemen called upon me who, in the course of
 conversation, frequently missed the spittoon at five paces; and one (but
 he was certainly short-sighted) mistook the closed sash for the open
-window, at three.  On another occasion, when I dined out, and was sitting
-with two ladies and some gentlemen round a fire before dinner, one of the
+[[Window|window]], at three.  On another occasion, when I dined out, and was sitting
+with two ladies and some gentlemen round a [[Fire|fire]] before dinner, one of the
 company fell short of the fireplace, six distinct times.  I am disposed
 to think, however, that this was occasioned by his not aiming at that
 object; as there was a white marble hearth before the fender, which was
@@ -435,42 +435,42 @@ more convenient, and may have suited his purpose better.
 The Patent Office at Washington, furnishes an extraordinary example of
 American enterprise and ingenuity; for the immense number of models it
 contains are the accumulated inventions of only five years; the whole of
-the previous collection having been destroyed by fire.  The elegant
+the previous collection having been destroyed by [[Fire|fire]].  The elegant
 structure in which they are arranged is one of design rather than
 execution, for there is but one side erected out of four, though the
 works are stopped.  The Post Office is a very compact and very beautiful
 building.  In one of the departments, among a collection of rare and
 curious articles, are deposited the presents which have been made from
-time to time to the American ambassadors at foreign courts by the various
+[[Time|time]] to [[Time|time]] to the American ambassadors at foreign courts by the various
 potentates to whom they were the accredited agents of the Republic; gifts
 which by the law they are not permitted to retain.  I confess that I
 looked upon this as a very painful exhibition, and one by no means
-flattering to the national standard of honesty and honour.  That can
+flattering to the national standard of honesty and [[Honour|honour]].  That can
 scarcely be a high state of moral feeling which imagines a gentleman of
 repute and station, likely to be corrupted, in the discharge of his duty,
-by the present of a snuff-box, or a richly-mounted sword, or an Eastern
+by the present of a snuff-box, or a richly-mounted [[Sword|sword]], or an Eastern
 shawl; and surely the Nation who reposes confidence in her appointed
 servants, is likely to be better served, than she who makes them the
 subject of such very mean and paltry suspicions.
 
 At George Town, in the suburbs, there is a Jesuit College; delightfully
-situated, and, so far as I had an opportunity of seeing, well managed.
+situated, and, so far as I had an opportunity of seeing, [[Well|well]] managed.
 Many persons who are not members of the Romish Church, avail themselves,
 I believe, of these institutions, and of the advantageous opportunities
-they afford for the education of their children.  The heights of this
-neighbourhood, above the Potomac River, are very picturesque: and are
+they afford for the [[Education|education]] of their children.  The heights of this
+neighbourhood, above the Potomac [[River]], are very picturesque: and are
 free, I should conceive, from some of the insalubrities of Washington.
 The air, at that elevation, was quite cool and refreshing, when in the
-city it was burning hot.
+[[City|city]] it was burning hot.
 
-The President’s mansion is more like an English club-house, both within
+The President’s mansion is more like an English club-[[house]], both within
 and without, than any other kind of establishment with which I can
-compare it.  The ornamental ground about it has been laid out in garden
+compare it.  The ornamental ground about it has been laid out in [[Garden|garden]]
 walks; they are pretty, and agreeable to the eye; though they have that
 uncomfortable air of having been made yesterday, which is far from
 favourable to the display of such beauties.
 
-My first visit to this house was on the morning after my arrival, when I
+My first visit to this [[house]] was on the morning after my arrival, when I
 was carried thither by an official gentleman, who was so kind as to
 charge himself with my presentation to the President.
 
@@ -489,7 +489,7 @@ any of the furniture, or sold the fixtures for his private benefit.
 
 After glancing at these loungers; who were scattered over a pretty
 drawing-room, opening upon a terrace which commanded a beautiful prospect
-of the river and the adjacent country; and who were sauntering, too,
+of the [[River|river]] and the adjacent country; and who were sauntering, too,
 about a larger state-room called the Eastern Drawing-room; we went
 up-stairs into another chamber, where were certain visitors, waiting for
 audiences.  At sight of my conductor, a black in plain clothes and yellow
@@ -500,9 +500,9 @@ off to announce him.
 We had previously looked into another chamber fitted all round with a
 great, bare, wooden desk or counter, whereon lay files of newspapers, to
 which sundry gentlemen were referring.  But there were no such means of
-beguiling the time in this apartment, which was as unpromising and
+beguiling the [[Time|time]] in this apartment, which was as unpromising and
 tiresome as any waiting-room in one of our public establishments, or any
-physician’s dining-room during his hours of consultation at home.
+physician’s dining-room during his hours of consultation at [[Home|home]].
 
 There were some fifteen or twenty persons in the room.  One, a tall,
 wiry, muscular old man, from the west; sunburnt and swarthy; with a brown
@@ -512,11 +512,11 @@ twitching the hard lines about his mouth, as if he had made up his mind
 ‘to fix’ the President on what he had to say, and wouldn’t bate him a
 grain.  Another, a Kentucky farmer, six-feet-six in height, with his hat
 on, and his hands under his coat-tails, who leaned against the wall and
-kicked the floor with his heel, as though he had Time’s head under his
+kicked the floor with his heel, as though he had [[Time]]’s head under his
 shoe, and were literally ‘killing’ him.  A third, an oval-faced,
 bilious-looking man, with sleek black hair cropped close, and whiskers
 and beard shaved down to blue dots, who sucked the head of a thick stick,
-and from time to time took it out of his mouth, to see how it was getting
+and from [[Time|time]] to [[Time|time]] took it out of his mouth, to see how it was getting
 on.  A fourth did nothing but whistle.  A fifth did nothing but spit.
 And indeed all these gentlemen were so very persevering and energetic in
 this latter particular, and bestowed their favours so abundantly upon the
@@ -528,23 +528,23 @@ servants.
 We had not waited in this room many minutes, before the black messenger
 returned, and conducted us into another of smaller dimensions, where, at
 a business-like table covered with papers, sat the President himself.  He
-looked somewhat worn and anxious, and well he might; being at war with
+looked somewhat worn and anxious, and [[Well|well]] he might; being at war with
 everybody—but the expression of his face was mild and pleasant, and his
 manner was remarkably unaffected, gentlemanly, and agreeable.  I thought
 that in his whole carriage and demeanour, he became his station
-singularly well.
+singularly [[Well|well]].
 
-Being advised that the sensible etiquette of the republican court
+Being advised that the sensible etiquette of the republican [[Court|court]]
 admitted of a traveller, like myself, declining, without any impropriety,
 an invitation to dinner, which did not reach me until I had concluded my
 arrangements for leaving Washington some days before that to which it
-referred, I only returned to this house once.  It was on the occasion of
+referred, I only returned to this [[house]] once.  It was on the occasion of
 one of those general assemblies which are held on certain nights, between
-the hours of nine and twelve o’clock, and are called, rather oddly,
+the hours of nine and twelve o’[[Clock|clock]], and are called, rather oddly,
 Levees.
 
 I went, with my wife, at about ten.  There was a pretty dense crowd of
-carriages and people in the court-yard, and so far as I could make out,
+carriages and people in the [[Court|court]]-yard, and so far as I could make out,
 there were no very clear regulations for the taking up or setting down of
 company.  There were certainly no policemen to soothe startled horses,
 either by sawing at their bridles or flourishing truncheons in their
@@ -570,7 +570,7 @@ chambers on the ground-floor, were crowded to excess.  The company was
 not, in our sense of the term, select, for it comprehended persons of
 very many grades and classes; nor was there any great display of costly
 attire: indeed, some of the costumes may have been, for aught I know,
-grotesque enough.  But the decorum and propriety of behaviour which
+[[Grotesque|grotesque]] enough.  But the decorum and propriety of behaviour which
 prevailed, were unbroken by any rude or disagreeable incident; and every
 man, even among the miscellaneous crowd in the hall who were admitted
 without any orders or tickets to look on, appeared to feel that he was a
@@ -583,9 +583,9 @@ to those men who, by the peaceful exercise of great abilities, shed new
 charms and associations upon the homes of their countrymen, and elevate
 their character in other lands, was most earnestly testified by their
 reception of Washington Irving, my dear friend, who had recently been
-appointed Minister at the court of Spain, and who was among them that
-night, in his new character, for the first and last time before going
-abroad.  I sincerely believe that in all the madness of American
+appointed Minister at the [[Court|court]] of Spain, and who was among them that
+[[Night|night]], in his new character, for the first and last [[Time|time]] before going
+abroad.  I sincerely believe that in all the [[Madness|madness]] of American
 politics, few public men would have been so earnestly, devotedly, and
 affectionately caressed, as this most charming writer: and I have seldom
 respected a public assembly more, than I did this eager throng, when I
@@ -605,26 +605,26 @@ we had traversed yet, in journeying among these older towns, are on that
 great continent looked upon as nothing.
 
 I had at first intended going South—to Charleston.  But when I came to
-consider the length of time which this journey would occupy, and the
+consider the length of [[Time|time]] which this [[Journey|journey]] would occupy, and the
 premature heat of the season, which even at Washington had been often
-very trying; and weighed moreover, in my own mind, the pain of living in
-the constant contemplation of slavery, against the more than doubtful
-chances of my ever seeing it, in the time I had to spare, stripped of the
+very trying; and weighed moreover, in my own mind, the [[Pain|pain]] of living in
+the constant contemplation of [[Slavery|slavery]], against the more than doubtful
+chances of my ever seeing it, in the [[Time|time]] I had to spare, stripped of the
 disguises in which it would certainly be dressed, and so adding any item
 to the host of facts already heaped together on the subject; I began to
-listen to old whisperings which had often been present to me at home in
+listen to old whisperings which had often been present to me at [[Home|home]] in
 England, when I little thought of ever being here; and to dream again of
 cities growing up, like palaces in fairy tales, among the wilds and
 forests of the west.
 
-The advice I received in most quarters when I began to yield to my desire
+The advice I received in most quarters when I began to yield to my [[Desire|desire]]
 of travelling towards that point of the compass was, according to custom,
 sufficiently cheerless: my companion being threatened with more perils,
 dangers, and discomforts, than I can remember or would catalogue if I
 could; but of which it will be sufficient to remark that blowings-up in
 steamboats and breakings-down in coaches were among the least.  But,
 having a western route sketched out for me by the best and kindest
-authority to which I could have resorted, and putting no great faith in
+authority to which I could have resorted, and putting no great [[Faith|faith]] in
 these discouragements, I soon determined on my plan of action.
 
 This was to travel south, only to Richmond in Virginia; and then to turn,

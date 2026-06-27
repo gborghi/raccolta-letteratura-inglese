@@ -1,5 +1,5 @@
 ---
-title: "Mellonta Tauta (part 6)"
+title: "[[Mellonta Tauta]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mellonta-Tauta-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       sufficient data (in the shape of coins, medals or inscriptions)
 
-      wherewith to build up even the ghost of a theory concerning the
+      wherewith to build up even the [[Ghost|ghost]] of a theory concerning the
 
       manners, customs, &c., &c., &c., of the aboriginal inhabitants.
 
@@ -54,7 +54,7 @@ tags:
 
       unaccountably, this deformity was looked upon altogether in the
 
-      light of a beauty. One or two pictures of these singular women
+      light of a [[Beauty|beauty]]. One or two pictures of these singular women
 
       have in fact, been miraculously preserved. They look very odd,
 
@@ -62,11 +62,11 @@ tags:
 
 
 
-      Well, these few details are nearly all that have descended to us
+      [[Well]], these few details are nearly all that have descended to us
 
       respecting the ancient Knickerbockers. It seems, however, that
 
-      while digging in the centre of the emperors garden, (which, you
+      while digging in the centre of the emperors [[Garden|garden]], (which, you
 
       know, covers the whole island), some of the workmen unearthed a
 
@@ -78,7 +78,7 @@ tags:
 
       On one of its surfaces was a marble slab with (only think of it!)
 
-      an inscription—a legible inscription. Pundit is in ecstacies.
+      an [[Inscription|inscription]]—a legible [[Inscription|inscription]]. Pundit is in ecstacies.
 
       Upon detaching the slab, a cavity appeared, containing a leaden
 
@@ -86,7 +86,7 @@ tags:
 
       documents which appear to resemble newspapers, with other matters
 
-      of intense interest to the antiquarian! There can be no doubt
+      of intense interest to the antiquarian! There can be no [[Doubt|doubt]]
 
       that all these are genuine Amriccan relics belonging to the tribe
 
@@ -94,7 +94,7 @@ tags:
 
       filled with fac-similes of the coins, MSS., typography, &c., &c.
 
-      I copy for your amusement the Knickerbocker inscription on the
+      I copy for your amusement the Knickerbocker [[Inscription|inscription]] on the
 
       marble slab:—
 
@@ -102,7 +102,7 @@ tags:
 
           This Corner Stone of a Monument to
 
-                  The Memory of
+                  The [[Memory]] of
 
                 GEORGE WASHINGTON
 
@@ -124,11 +124,11 @@ tags:
 
           Washington Monument Association of
 
-                the city of New York
+                the [[City|city]] of [[New York]]
 
 
 
-      This, as I give it, is a verbatim translation done by Pundit
+      This, as I give it, is a verbatim [[Translation|translation]] done by Pundit
 
       himself, so there can be no mistake about it. From the few words
 
@@ -142,21 +142,21 @@ tags:
 
       mere indication of the design to erect a monument at some future
 
-      time; a corner-stone being cautiously laid by itself “solitary
+      [[Time|time]]; a corner-stone being cautiously laid by itself “solitary
 
-      and alone” (excuse me for quoting the great American poet
+      and [[Alone|alone]]” (excuse me for quoting the great American poet
 
       Benton!), as a guarantee of the magnanimous intention. We
 
-      ascertain, too, very distinctly, from this admirable inscription,
+      ascertain, too, very distinctly, from this admirable [[Inscription|inscription]],
 
-      the how as well as the where and the what, of the great surrender
+      the how as [[Well|well]] as the where and the what, of the great surrender
 
       in question. As to the where, it was Yorktown (wherever that
 
-      was), and as to the what, it was General Cornwallis (no doubt
+      was), and as to the what, it was General Cornwallis (no [[Doubt|doubt]]
 
-      some wealthy dealer in corn). He was surrendered. The inscription
+      some wealthy dealer in corn). He was surrendered. The [[Inscription|inscription]]
 
       commemorates the surrender of—what?—why, “of Lord Cornwallis.”
 
@@ -172,19 +172,19 @@ tags:
 
       “under the auspices of the Washington Monument Association”—no
 
-      doubt a charitable institution for the depositing of
+      [[Doubt|doubt]] a charitable institution for the depositing of
 
       corner-stones.—But, Heaven bless me! what is the matter? Ah, I
 
       see—the balloon has collapsed, and we shall have a tumble into
 
-      the sea. I have, therefore, only time enough to add that, from a
+      the sea. I have, therefore, only [[Time|time]] enough to add that, from a
 
       hasty inspection of the fac-similes of newspapers, &c., &c., I
 
       find that the great men in those days among the Amriccans, were
 
-      one John, a smith, and one Zacchary, a tailor.
+      one John, a [[smith]], and one Zacchary, a tailor.
 
 
 

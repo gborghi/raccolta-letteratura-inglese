@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 27 (part 2)"
+title: "Bleak [[house|House]] — Chapter 27 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-“Well?” says Mr. Tulkinghorn. “What do you say?”
+“[[Well]]?” says Mr. Tulkinghorn. “What do you say?”
 
-“Well, sir,” replies Mr. George, rising erect and looking immense, “I
+“[[Well]], sir,” replies Mr. George, rising erect and looking immense, “I
 would rather, if you’ll excuse me, have nothing to do with this.”
 
 Mr. Tulkinghorn, outwardly quite undisturbed, demands, “Why not?”
@@ -24,7 +24,7 @@ Mr. Tulkinghorn, outwardly quite undisturbed, demands, “Why not?”
 “Why, sir,” returns the trooper. “Except on military compulsion, I am
 not a man of business. Among civilians I am what they call in
 Scotland a ne’er-do-weel. I have no head for papers, sir. I can stand
-any fire better than a fire of cross questions. I mentioned to Mr.
+any [[Fire|fire]] better than a [[Fire|fire]] of [[Cross|cross]] questions. I mentioned to Mr.
 Smallweed, only an hour or so ago, that when I come into things of
 this kind I feel as if I was being smothered. And that is my
 sensation,” says Mr. George, looking round upon the company, “at the
@@ -43,7 +43,7 @@ possessive pronoun into brimmy and appearing to have an impediment in
 his speech. Once past this difficulty, however, he exhorts his dear
 friend in the tenderest manner not to be rash, but to do what so
 eminent a gentleman requires, and to do it with a good grace,
-confident that it must be unobjectionable as well as profitable. Mr.
+confident that it must be unobjectionable as [[Well|well]] as profitable. Mr.
 Tulkinghorn merely utters an occasional sentence, as, “You are the
 best judge of your own interest, sergeant.” “Take care you do no harm
 by this.” “Please yourself, please yourself.” “If you know what you
@@ -73,7 +73,7 @@ about that.”
 
 “IS he?” Mr. Tulkinghorn quietly sits down to write.
 
-“Well, sir,” says the trooper, looking into his hat after another
+“[[Well]], sir,” says the trooper, looking into his hat after another
 disconcerted pause, “I am sorry not to have given you more
 satisfaction. If it would be any satisfaction to any one that I
 should be confirmed in my judgment that I would rather have nothing
@@ -103,7 +103,7 @@ inspection of the boxes, strong and otherwise.
 
 “If I wasn’t as weak as a brimstone baby, sir,” whispers Grandfather
 Smallweed, drawing the lawyer down to his level by the lapel of his
-coat and flashing some half-quenched green fire out of his angry
+coat and flashing some half-quenched green [[Fire|fire]] out of his angry
 eyes, “I’d tear the writing away from him. He’s got it buttoned in
 his breast. I saw him put it there. Judy saw him put it there. Speak
 up, you crabbed image for the sign of a walking-stick shop, and say
@@ -112,14 +112,14 @@ you saw him put it there!”
 This vehement conjuration the old gentleman accompanies with such a
 thrust at his granddaughter that it is too much for his strength, and
 he slips away out of his chair, drawing Mr. Tulkinghorn with him,
-until he is arrested by Judy, and well shaken.
+until he is arrested by Judy, and [[Well|well]] shaken.
 
 “Violence will not do for me, my friend,” Mr. Tulkinghorn then
 remarks coolly.
 
 “No, no, I know, I know, sir. But it’s chafing and
 galling—it’s—it’s worse than your smattering chattering magpie of a
-grandmother,” to the imperturbable Judy, who only looks at the fire,
+grandmother,” to the imperturbable Judy, who only looks at the [[Fire|fire]],
 “to know he has got what’s wanted and won’t give it up. He, not to
 give it up! HE! A vagabond! But never mind, sir, never mind. At the
 most, he has only his own way for a little while. I have him
@@ -130,6 +130,6 @@ the lawyer hideously as he releases him, “I am ready for your kind
 assistance, my excellent friend!”
 
 Mr. Tulkinghorn, with some shadowy sign of amusement manifesting
-itself through his self-possession, stands on the hearth-rug with his
-back to the fire, watching the disappearance of Mr. Smallweed and
+itself through his [[Self|self]]-possession, stands on the hearth-rug with his
+back to the [[Fire|fire]], watching the disappearance of Mr. Smallweed and
 acknowledging the trooper’s parting salute with one slight nod.

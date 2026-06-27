@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-For, when they had walked on with her to the little house in the clean
+For, when they had walked on with her to the little [[house]] in the clean
 village by the paper-mill, where Lizzie had a lodging with an elderly
 couple employed in the establishment, and when Mrs Milvey and Bella
 had been up to see her room and had come down, the mill bell rang.
-This called Lizzie away for the time, and left the Secretary and Bella
+This called Lizzie away for the [[Time|time]], and left the Secretary and Bella
 standing rather awkwardly in the small street; Mrs Milvey being engaged
 in pursuing the village children, and her investigations whether they
 were in danger of becoming children of Israel; and the Reverend Frank
-being engaged—to say the truth—in evading that branch of his spiritual
+being engaged—to say the [[Truth|truth]]—in evading that branch of his spiritual
 functions, and getting out of sight surreptitiously.
 
 Bella at length said:
@@ -41,20 +41,20 @@ shouldn’t both be here?’
 Boffin urged me to do so, in order that I might give her my small
 report—it’s not worth anything, Mr Rokesmith, except for it’s being
 a woman’s—which indeed with you may be a fresh reason for it’s being
-worth nothing—of Lizzie Hexam.’
+worth nothing—of [[Lizzie Hexam]].’
 
 ‘Mr Boffin,’ said the Secretary, ‘directed me to come for the same
 purpose.’
 
 As they spoke they were leaving the little street and emerging on the
-wooded landscape by the river.
+wooded landscape by the [[River|river]].
 
-‘You think well of her, Mr Rokesmith?’ pursued Bella, conscious of
+‘You think [[Well|well]] of her, Mr Rokesmith?’ pursued Bella, conscious of
 making all the advances.
 
 ‘I think highly of her.’
 
-‘I am so glad of that! Something quite refined in her beauty, is there
+‘I am so glad of that! Something quite refined in her [[Beauty|beauty]], is there
 not?’
 
 ‘Her appearance is very striking.’
@@ -64,7 +64,7 @@ I—I am not setting up my own poor opinion, you know, Mr Rokesmith,’
 said Bella, excusing and explaining herself in a pretty shy way; ‘I am
 consulting you.’
 
-‘I noticed that sadness. I hope it may not,’ said the Secretary in
+‘I noticed that sadness. I [[Hope|hope]] it may not,’ said the Secretary in
 a lower voice, ‘be the result of the false accusation which has been
 retracted.’
 
@@ -74,21 +74,21 @@ stealing a glance or two at the Secretary, suddenly said:
 ‘Oh, Mr Rokesmith, don’t be hard with me, don’t be stern with me; be
 magnanimous! I want to talk with you on equal terms.’
 
-The Secretary as suddenly brightened, and returned: ‘Upon my honour I
+The Secretary as suddenly brightened, and returned: ‘Upon my [[Honour|honour]] I
 had no thought but for you. I forced myself to be constrained, lest you
 might misinterpret my being more natural. There. It’s gone.’
 
 ‘Thank you,’ said Bella, holding out her little hand. ‘Forgive me.’
 
-‘No!’ cried the Secretary, eagerly. ‘Forgive ME!’ For there were tears
+‘No!’ cried the Secretary, eagerly. ‘Forgive ME!’ For there were [[Tears|tears]]
 in her eyes, and they were prettier in his sight (though they smote him
 on the heart rather reproachfully too) than any other glitter in the
 world.
 
 When they had walked a little further:
 
-‘You were going to speak to me,’ said the Secretary, with the shadow so
-long on him quite thrown off and cast away, ‘about Lizzie Hexam. So was
+‘You were going to speak to me,’ said the Secretary, with the [[Shadow|shadow]] so
+long on him quite thrown off and cast away, ‘about [[Lizzie Hexam]]. So was
 I going to speak to you, if I could have begun.’
 
 ‘Now that you CAN begin, sir,’ returned Bella, with a look as if she
@@ -104,7 +104,7 @@ Bella nodded Yes.
 
 ‘It is my duty to find out why she made that stipulation. I have it in
 charge from Mr Boffin to discover, and I am very desirous for myself to
-discover, whether that retracted accusation still leaves any stain upon
+discover, whether that retracted accusation still [[Leaves|leaves]] any stain upon
 her. I mean whether it places her at any disadvantage towards any one,
 even towards herself.’
 
@@ -122,7 +122,7 @@ The Secretary with a smile held up his hand, so plainly interposing ‘not
 for better taste’, that Bella’s colour deepened over the little piece of
 coquetry she was checked in.
 
-‘And so,’ resumed the Secretary, ‘if you would speak with her alone
+‘And so,’ resumed the Secretary, ‘if you would speak with her [[Alone|alone]]
 before we go away from here, I feel quite sure that a natural and easy
 confidence would arise between you. Of course you would not be asked to
 betray it; and of course you would not, if you were. But if you do not
@@ -146,13 +146,13 @@ the burden of it for any one else.’
 
 ‘Not for your father?’
 
-‘Dear, loving, self-forgetting, easily-satisfied Pa! Oh, yes! He thinks
+‘Dear, loving, [[Self|self]]-forgetting, easily-satisfied Pa! Oh, yes! He thinks
 so.’
 
 ‘It is enough if he only thinks so,’ said the Secretary. ‘Excuse the
 interruption: I don’t like to hear you depreciate yourself.’
 
-‘But YOU once depreciated ME, sir,’ thought Bella, pouting, ‘and I hope
+‘But YOU once depreciated ME, sir,’ thought Bella, pouting, ‘and I [[Hope|hope]]
 you may be satisfied with the consequences you brought upon your head!’
 However, she said nothing to that purpose; she even said something to a
 different purpose.

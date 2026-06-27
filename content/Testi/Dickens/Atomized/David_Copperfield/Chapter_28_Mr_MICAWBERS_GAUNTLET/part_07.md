@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 7)"
+title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,7 +20,7 @@ tags:
 
 I noticed, I remember, as he paused, looking at me with his handsome
 head a little thrown back, and his glass raised in his hand, that,
-though the freshness of the sea-wind was on his face, and it was ruddy,
+though the freshness of the sea-[[Wind|wind]] was on his face, and it was ruddy,
 there were traces in it, made since I last saw it, as if he had applied
 himself to some habitual strain of the fervent energy which, when
 roused, was so passionately roused within him. I had it in my thoughts
@@ -36,28 +36,28 @@ to me--’
 moving from the table to the fireside again.
 
 ‘Then I tell you what, Steerforth. I think I will go down and see my
-old nurse. It is not that I can do her any good, or render her any real
+old [[Nurse|nurse]]. It is not that I can do her any good, or render her any real
 service; but she is so attached to me that my visit will have as much
 effect on her, as if I could do both. She will take it so kindly that it
 will be a comfort and support to her. It is no great effort to make,
 I am sure, for such a friend as she has been to me. Wouldn’t you go a
-day’s journey, if you were in my place?’
+day’s [[Journey|journey]], if you were in my place?’
 
 His face was thoughtful, and he sat considering a little before he
-answered, in a low voice, ‘Well! Go. You can do no harm.’
+answered, in a low voice, ‘[[Well]]! Go. You can do no harm.’
 
 ‘You have just come back,’ said I, ‘and it would be in vain to ask you
 to go with me?’
 
 ‘Quite,’ he returned. ‘I am for Highgate tonight. I have not seen
-my mother this long time, and it lies upon my conscience, for
+my mother this long [[Time|time]], and it lies upon my [[Conscience|conscience]], for
 it’s something to be loved as she loves her prodigal son.---Bah!
 Nonsense!--You mean to go tomorrow, I suppose?’ he said, holding me out
 at arm’s length, with a hand on each of my shoulders.
 
 ‘Yes, I think so.’
 
-‘Well, then, don’t go till next day. I wanted you to come and stay a
+‘[[Well]], then, don’t go till next day. I wanted you to come and stay a
 few days with us. Here I am, on purpose to bid you, and you fly off to
 Yarmouth!’
 
@@ -71,19 +71,19 @@ holding me as before, and giving me a shake:
 us! Who knows when we may meet again, else? Come! Say the next day! I
 want you to stand between Rosa Dartle and me, and keep us asunder.’
 
-‘Would you love each other too much, without me?’
+‘Would you [[Love|love]] each other too much, without me?’
 
 ‘Yes; or hate,’ laughed Steerforth; ‘no matter which. Come! Say the next
 day!’
 
 I said the next day; and he put on his great-coat and lighted his cigar,
-and set off to walk home. Finding him in this intention, I put on my own
+and set off to walk [[Home|home]]. Finding him in this intention, I put on my own
 great-coat (but did not light my own cigar, having had enough of that
-for one while) and walked with him as far as the open road: a dull road,
-then, at night. He was in great spirits all the way; and when we parted,
+for one while) and walked with him as far as the open [[Road|road]]: a dull [[Road|road]],
+then, at [[Night|night]]. He was in great spirits all the way; and when we parted,
 and I looked after him going so gallantly and airily homeward, I thought
 of his saying, ‘Ride on over all obstacles, and win the race!’ and
-wished, for the first time, that he had some worthy race to run.
+wished, for the first [[Time|time]], that he had some worthy race to run.
 
 I was undressing in my own room, when Mr. Micawber’s letter tumbled on
 the floor. Thus reminded of it, I broke the seal and read as follows. It
@@ -97,7 +97,7 @@ equivalent to winding up his affairs.
 
 ‘It is expedient that I should inform you that the undersigned is
 Crushed. Some flickering efforts to spare you the premature knowledge of
-his calamitous position, you may observe in him this day; but hope has
+his calamitous position, you may observe in him this day; but [[Hope|hope]] has
 sunk beneath the horizon, and the undersigned is Crushed.
 
 ‘The present communication is penned within the personal range (I cannot
@@ -115,23 +115,23 @@ undersigned, it would be found in the fact, that a friendly acceptance
 granted to the undersigned, by the before-mentioned Mr. Thomas Traddles,
 for the sum Of 23l 4s 9 1/2d is over due, and is NOT provided for. Also,
 in the fact that the living responsibilities clinging to the undersigned
-will, in the course of nature, be increased by the sum of one more
+will, in the course of [[Nature|nature]], be increased by the sum of one more
 helpless victim; whose miserable appearance may be looked for--in round
 numbers--at the expiration of a period not exceeding six lunar months
 from the present date.
 
 ‘After premising thus much, it would be a work of supererogation to add,
-that dust and ashes are for ever scattered
+that [[Dust|dust]] and ashes are for ever scattered
 
                ‘On
                     ‘The
                          ‘Head
                               ‘Of
-                                   ‘WILKINS MICAWBER.’
+                                   ‘[[Wilkins Micawber|WILKINS MICAWBER]].’
 
 
-Poor Traddles! I knew enough of Mr. Micawber by this time, to foresee
-that he might be expected to recover the blow; but my night’s rest was
+Poor Traddles! I knew enough of Mr. Micawber by this [[Time|time]], to foresee
+that he might be expected to recover the blow; but my [[Night|night]]’s rest was
 sorely distressed by thoughts of Traddles, and of the curate’s daughter,
 who was one of ten, down in Devonshire, and who was such a dear girl,
 and who would wait for Traddles (ominous praise!) until she was sixty,

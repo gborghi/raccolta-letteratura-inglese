@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 8 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 8 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Chapter 8
 
 
-Clear of the locksmith’s house, Sim Tappertit laid aside his cautious
+Clear of the locksmith’s [[house]], Sim Tappertit laid aside his cautious
 manner, and assuming in its stead that of a ruffling, swaggering, roving
 blade, who would rather kill a man than otherwise, and eat him too if
 needful, made the best of his way along the darkened streets.
@@ -28,13 +28,13 @@ turning into one of the narrowest of the narrow streets which diverged
 from that centre, slackened his pace and wiped his heated brow, as if
 the termination of his walk were near at hand.
 
-It was not a very choice spot for midnight expeditions, being in truth
+It was not a very choice spot for midnight expeditions, being in [[Truth|truth]]
 one of more than questionable character, and of an appearance by no
 means inviting. From the main street he had entered, itself little
-better than an alley, a low-browed doorway led into a blind court, or
+better than an alley, a low-browed doorway led into a blind [[Court|court]], or
 yard, profoundly dark, unpaved, and reeking with stagnant odours. Into
 this ill-favoured pit, the locksmith’s vagrant ‘prentice groped his way;
-and stopping at a house from whose defaced and rotten front the rude
+and stopping at a [[house]] from whose defaced and rotten front the rude
 effigy of a bottle swung to and fro like some gibbeted malefactor,
 struck thrice upon an iron grating with his foot. After listening in
 vain for some response to his signal, Mr Tappertit became impatient, and
@@ -57,12 +57,12 @@ when I require you. Forward!’
 This latter word of command was perhaps somewhat theatrical and
 unnecessary, inasmuch as the descent was by a very narrow, steep, and
 slippery flight of steps, and any rashness or departure from the beaten
-track must have ended in a yawning water-butt. But Mr Tappertit being,
+track must have ended in a yawning [[Water|water]]-butt. But Mr Tappertit being,
 like some other great commanders, favourable to strong effects, and
 personal display, cried ‘Forward!’ again, in the hoarsest voice he could
 assume; and led the way, with folded arms and knitted brows, to the
 cellar down below, where there was a small copper fixed in one corner,
-a chair or two, a form and table, a glimmering fire, and a truckle-bed,
+a chair or two, a form and table, a glimmering [[Fire|fire]], and a truckle-bed,
 covered with a ragged patchwork rug.
 
 ‘Welcome, noble captain!’ cried a lanky figure, rising as from a nap.
@@ -70,7 +70,7 @@ covered with a ragged patchwork rug.
 The captain nodded. Then, throwing off his outer coat, he stood composed
 in all his dignity, and eyed his follower over.
 
-‘What news to-night?’ he asked, when he had looked into his very soul.
+‘What news to-[[Night|night]]?’ he asked, when he had looked into his very [[Soul|soul]].
 
 ‘Nothing particular,’ replied the other, stretching himself--and he was
 so long already that it was quite alarming to see him do it--‘how come
@@ -87,7 +87,7 @@ prepared?’
 
 ‘Playing skittles!’ said the captain moodily. ‘Light-hearted revellers!’
 
-There was no doubt respecting the particular amusement in which these
+There was no [[Doubt|doubt]] respecting the particular amusement in which these
 heedless spirits were indulging, for even in the close and stifling
 atmosphere of the vault, the noise sounded like distant thunder. It
 certainly appeared, at first sight, a singular spot to choose, for that
@@ -104,9 +104,9 @@ fungus sprung from every mouldering corner.
 
 The proprietor of this charming retreat, and owner of the ragged head
 before mentioned--for he wore an old tie-wig as bare and frowzy as a
-stunted hearth-broom--had by this time joined them; and stood a little
+stunted hearth-broom--had by this [[Time|time]] joined them; and stood a little
 apart, rubbing his hands, wagging his hoary bristled chin, and smiling
-in silence. His eyes were closed; but had they been wide open, it would
+in [[Silence|silence]]. His eyes were closed; but had they been wide open, it would
 have been easy to tell, from the attentive expression of the face he
 turned towards them--pale and unwholesome as might be expected in one
 of his underground existence--and from a certain anxious raising and
@@ -118,7 +118,7 @@ this person.
 ‘Sound, captain, sound!’ cried the blind man; ‘what does my noble
 captain drink--is it brandy, rum, usquebaugh? Is it soaked gunpowder, or
 blazing oil? Give it a name, heart of oak, and we’d get it for you, if
-it was wine from a bishop’s cellar, or melted gold from King George’s
+it was wine from a bishop’s cellar, or melted gold from [[King]] George’s
 mint.’
 
 ‘See,’ said Mr Tappertit haughtily, ‘that it’s something strong, and

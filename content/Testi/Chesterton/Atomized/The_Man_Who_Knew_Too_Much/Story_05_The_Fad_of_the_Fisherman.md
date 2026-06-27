@@ -26,11 +26,11 @@ remains only a subconscious thing, to be stirred by some accident
 
 long after. It drifts apart like a forgotten dream; and it was in
 
-the hour of many dreams, at daybreak and very soon after the end of
+the hour of many [[Dreams|dreams]], at daybreak and very soon after the end of
 
 dark, that such a strange sight was given to a man sculling a boat
 
-down a river in the West country. The man was awake; indeed, he
+down a [[River|river]] in the West country. The man was awake; indeed, he
 
 considered himself rather wide awake, being the political
 
@@ -42,14 +42,14 @@ inconsequent that it might have been imaginary. It simply slipped
 
 past his mind and was lost in later and utterly different events;
 
-nor did he even recover the memory till he had long afterward
+nor did he even recover the [[Memory|memory]] till he had long afterward
 
 discovered the meaning.
 Pale mists of morning lay on the fields and the rushes along one
 
-margin of the river; along the other side ran a wall of tawny brick
+margin of the [[River|river]]; along the other side ran a wall of tawny brick
 
-almost overhanging the water. He had shipped his oars and was
+almost overhanging the [[Water|water]]. He had shipped his oars and was
 
 drifting for a moment with the stream, when he turned his head and
 
@@ -59,9 +59,9 @@ rather an elegant eighteenth-century sort of bridge with little
 
 columns of white stone turning gray. There had been floods and the
 
-river still stood very high, with dwarfish trees waist deep in it,
+[[River|river]] still stood very high, with dwarfish trees waist deep in it,
 
-and rather a narrow arc of white dawn gleamed under the curve of the
+and rather a narrow arc of white [[Dawn|dawn]] gleamed under the curve of the
 
 bridge.
 As his own boat went under the dark archway he saw another boat
@@ -96,7 +96,7 @@ whenever he thought of it again, long afterward, when he understood
 
 the story in which it figured, it was always fixed in that one
 
-fantastic shape—as if those wild legs were a grotesque graven
+fantastic shape—as if those wild legs were a [[Grotesque|grotesque]] graven
 
 ornament of the bridge itself, in the manner of a gargoyle. At the
 
@@ -141,7 +141,7 @@ public had ever heard of Horne Fisher; but he had known the Prime
 
 Minister all his life. For these reasons, had the two taken the
 
-projected journey together, March might have been slightly disposed
+projected [[Journey|journey]] together, March might have been slightly disposed
 
 to hasten it and Fisher vaguely content to lengthen it out. For
 
@@ -153,17 +153,17 @@ and in his case bore some resemblance to being born tired. But he
 
 was distinctly annoyed to receive, just as he was doing a little
 
-light packing of fishing tackle and cigars for the journey, a
+light packing of fishing tackle and cigars for the [[Journey|journey]], a
 
 telegram from Willowood asking him to come down at once by train, as
 
-the Prime Minister had to leave that night. Fisher knew that his
+the Prime Minister had to leave that [[Night|night]]. Fisher knew that his
 
 friend the journalist could not possibly start till the next day,
 
 and he liked his friend the journalist, and had looked forward to a
 
-few days on the river. He did not particularly like or dislike the
+few days on the [[River|river]]. He did not particularly like or dislike the
 
 Prime Minister, but he intensely disliked the alternative of a few
 
@@ -175,9 +175,9 @@ not the revolutionist sent on earth to destroy. So he telephoned to
 
 March, asking him, with many apologetic curses and faint damns, to
 
-take the boat down the river as arranged, that they might meet at
+take the boat down the [[River|river]] as arranged, that they might meet at
 
-Willowood by the time settled; then he went outside and hailed a
+Willowood by the [[Time|time]] settled; then he went outside and hailed a
 
 taxicab to take him to the railway station. There he paused at the
 
@@ -196,25 +196,25 @@ one of the smaller seats of Sir Isaac Hook, the master of much
 
 shipping and many newspapers. He entered by the gate giving on the
 
-road, at the opposite side to the river, but there was a mixed
+[[Road|road]], at the opposite side to the [[River|river]], but there was a mixed
 
 quality in all that watery landscape which perpetually reminded a
 
-traveler that the river was near. White gleams of water would shine
+traveler that the [[River|river]] was near. White gleams of [[Water|water]] would shine
 
 suddenly like swords or spears in the green thickets. And even in
 
-the garden itself, divided into courts and curtained with hedges and
+the [[Garden|garden]] itself, divided into courts and curtained with hedges and
 
-high garden trees, there hung everywhere in the air the music of
+high [[Garden|garden]] trees, there hung everywhere in the air the music of
 
-water. The first of the green courts which he entered appeared to be
+[[Water|water]]. The first of the green courts which he entered appeared to be
 
 a somewhat neglected croquet lawn, in which was a solitary young man
 
 playing croquet against himself. Yet he was not an enthusiast for
 
-the game, or even for the garden; and his sallow but well-featured
+the game, or even for the [[Garden|garden]]; and his sallow but [[Well|well]]-featured
 
 face looked rather sullen than otherwise. He was only one of those
 
@@ -222,7 +222,7 @@ young men who cannot support the burden of consciousness unless they
 
 are doing something, and whose conceptions of doing something are
 
-limited to a game of some kind. He was dark and well dressed in a
+limited to a game of some kind. He was dark and [[Well|well]] dressed in a
 
 light holiday fashion, and Fisher recognized him at once as a young
 
@@ -238,7 +238,7 @@ wanted to see. Has your chief come down yet?"
 
 yellow ball. "He's got a great speech to-morrow at Birmingham and
 
-he's going straight through to-night. He's motoring himself there;
+he's going straight through to-[[Night|night]]. He's motoring himself there;
 
 driving the car, I mean. It's the one thing he's really proud of."
 "You mean you're staying here with your uncle, like a good boy?"
@@ -250,21 +250,21 @@ the epigrams whispered to him by his brilliant secretary?"
 
 "I'm only too glad not to go trailing after him. He doesn't know a
 
-thing about maps or money or hotels or anything, and I have to dance
+thing about maps or money or hotels or anything, and I have to [[Dance|dance]]
 
 about like a courier. As for my uncle, as I'm supposed to come into
 
 the estate, it's only decent to be here sometimes."
-"Very proper," replied the other. "Well, I shall see you later on,"
+"Very proper," replied the other. "[[Well]], I shall see you later on,"
 
 and, crossing the lawn, he passed out through a gap in the hedge.
 He was walking across the lawn toward the landing stage on the
 
-river, and still felt all around him, under the dome of golden
+[[River|river]], and still felt all around him, under the dome of golden
 
 evening, an Old World savor and reverberation in that riverhaunted
 
-garden. The next square of turf which he crossed seemed at first
+[[Garden|garden]]. The next square of turf which he crossed seemed at first
 
 sight quite deserted, till he saw in the twilight of trees in one
 
@@ -275,9 +275,9 @@ Him also he hailed by name, and the man slipped to the ground and
 
 strolled forward. It seemed fated that he should feel something of
 
-the past in the accidents of that place, for the figure might well
+the past in the accidents of that place, for the figure might [[Well|well]]
 
-have been an early-Victorian ghost revisiting the ghosts of the
+have been an early-Victorian [[Ghost|ghost]] revisiting the [[Ghosts|ghosts]] of the
 
 croquet hoops and mallets. It was the figure of an elderly man with
 
@@ -293,7 +293,7 @@ hammock behind him. This was the Duke of Westmoreland, the relic of
 
 a family really some centuries old; and the antiquity was not
 
-heraldry but history. Nobody knew better than Fisher how rare such
+heraldry but [[history]]. Nobody knew better than Fisher how rare such
 
 noblemen are in fact, and how numerous in fiction. But whether the
 
@@ -311,15 +311,15 @@ must be one of the servants. I'm looking for somebody to take this
 bag of mine; I haven't brought a man down, as I came away in a
 
 hurry."
-"Nor have I, for that matter," replied the duke, with some pride. "I
+"Nor have I, for that matter," replied the duke, with some [[Pride|pride]]. "I
 
 never do. If there's one animal alive I loathe it's a valet. I
 
 learned to dress myself at an early age and was supposed to do it
 
-decently. I may be in my second childhood, but I've not go so far as
+decently. I may be in my second [[Childhood|childhood]], but I've not go so far as
 
-being dressed like a child."
+being dressed like a [[Child|child]]."
 "The Prime Minister hasn't brought a valet; he's brought a secretary
 
 instead," observed Fisher. "Devilish inferior job. Didn't I hear
@@ -328,19 +328,19 @@ that Harker was down here?"
 "He's over there on the landing stage," replied the duke,
 
 indifferently, and resumed the study of the Morning Post.
-Fisher made his way beyond the last green wall of the garden on to a
+Fisher made his way beyond the last green wall of the [[Garden|garden]] on to a
 
-sort of towing path looking on the river and a wooden island
+sort of towing path looking on the [[River|river]] and a wooden island
 
 opposite. There, indeed, he saw a lean, dark figure with a stoop
 
-almost like that of a vulture, a posture well known in the law
+almost like that of a vulture, a posture [[Well|well]] known in the law
 
 courts as that of Sir John Harker, the Attorney-General. His face
 
-was lined with headwork, for alone among the three idlers in the
+was lined with headwork, for [[Alone|alone]] among the three idlers in the
 
-garden he was a man who had made his own way; and round his bald
+[[Garden|garden]] he was a man who had made his own way; and round his bald
 
 brow and hollow temples clung dull red hair, quite flat, like plates
 
@@ -384,8 +384,8 @@ grows all the grapes and peaches, and designs all the patterns on
 the carpets? I've always heard he was a busy man."
 "I don't think he mentioned it," answered the lawyer. "What is the
 
-meaning of this social satire?"
-"Well, I am a trifle tired," said Fisher, "of the Simple Life and
+meaning of this social [[Satire|satire]]?"
+"[[Well]], I am a trifle tired," said Fisher, "of the Simple Life and
 
 the Strenuous Life as lived by our little set. We're all really
 
@@ -407,7 +407,7 @@ extraordinary old clothes as he wears. He must have them looked up
 
 in the British Museum or excavated out of the tombs. That white hat
 
-alone must require a sort of expedition fitted out to find it, like
+[[Alone|alone]] must require a sort of expedition fitted out to find it, like
 
 the North Pole. And here we have old Hook pretending to produce his
 
@@ -425,7 +425,7 @@ at work."
 of being useful sometimes. Haven't you come down here to see Number
 
 One before he goes on to Birmingham?"
-Horne Fisher answered, in a lower voice: "Yes; and I hope to be
+Horne Fisher answered, in a lower voice: "Yes; and I [[Hope|hope]] to be
 
 lucky enough to catch him before dinner. He's got to see Sir Isaac
 
@@ -452,7 +452,7 @@ civilly saluting them. There were several fish in his basket and he
 was in a good temper.
 "Yes," he said, acknowledging Fisher's polite expression of
 
-surprise, "I get up before anybody else in the house, I think. The
+surprise, "I get up before anybody else in the [[house]], I think. The
 
 early bird catches the worm."
 "Unfortunately," said Harker, "it is the early fish that catches the
@@ -461,10 +461,10 @@ worm."
 "But the early man catches the fish," replied the old man, gruffly.
 "But from what I hear, Sir Isaac, you are the late man, too,"
 
-interposed Fisher. "You must do with very little sleep."
-"I never had much time for sleeping," answered Hook, "and I shall
+interposed Fisher. "You must do with very little [[Sleep|sleep]]."
+"I never had much [[Time|time]] for sleeping," answered Hook, "and I shall
 
-have to be the late man to-night, anyhow. The Prime Minister wants
+have to be the late man to-[[Night|night]], anyhow. The Prime Minister wants
 
 to have a talk, he tells me, and, all things considered, I think
 
@@ -475,12 +475,12 @@ enough but ceremonial trifles. The Prime Minister, Lord Merivale,
 
 who was a long, slim man with curly gray hair, was gravely
 
-complimentary to his host about his success as a fisherman and the
+complimentary to his host about his [[success]] as a fisherman and the
 
 skill and patience he displayed; the conversation flowed like the
 
 shallow stream through the stepping-stones.
-"It wants patience to wait for them, no doubt," said Sir Isaac, "and
+"It wants patience to wait for them, no [[Doubt|doubt]]," said Sir Isaac, "and
 
 skill to play them, but I'm generally pretty lucky at it."
 "Does a big fish ever break the line and get away?" inquired the
@@ -490,11 +490,11 @@ politician, with respectful interest.
 
 rather specialize in tackle, as a matter of fact. If he were strong
 
-enough to do that, he'd be strong enough to pull me into the river."
+enough to do that, he'd be strong enough to pull me into the [[River|river]]."
 "A great loss to the community," said the Prime Minister, bowing.
 Fisher had listened to all these futilities with inward impatience,
 
-waiting for his own opportunity, and when the host rose he sprang to
+waiting for his own opportunity, and when the host [[Rose|rose]] he sprang to
 
 his feet with an alertness he rarely showed. He managed to catch
 
@@ -505,13 +505,13 @@ He said, in a low voice as he opened the door for the Premier, "I
 
 have seen Montmirail; he says that unless we protest immediately on
 
-behalf of Denmark, Sweden will certainly seize the ports."
+behalf of [[Denmark]], Sweden will certainly seize the ports."
 Lord Merivale nodded. "I'm just going to hear what Hook has to say
 
 about it," he said.
 "I imagine," said Fisher, with a faint smile, "that there is very
 
-little doubt what he will say about it."
+little [[Doubt|doubt]] what he will say about it."
 Merivale did not answer, but lounged gracefully toward the library,
 
 whither his host had already preceded him. The rest drifted toward
@@ -537,19 +537,19 @@ it was not many hours later when the first sensation of that strange
 
 day came upon them. It came in the form of a young man with light
 
-hair and a candid expression, who came sculling down the river and
+hair and a candid expression, who came sculling down the [[River|river]] and
 
 disembarked at the landing stage. It was, in fact, no other than Mr.
 
-Harold March, whose journey had begun far away up the river in the
+Harold March, whose [[Journey|journey]] had begun far away up the [[River|river]] in the
 
 earliest hours of that day. He arrived late in the afternoon, having
 
 stopped for tea in a large riverside town, and he had a pink evening
 
-paper sticking out of his pocket. He fell on the riverside garden
+paper sticking out of his pocket. He fell on the riverside [[Garden|garden]]
 
-like a quiet and well-behaved thunderbolt, but he was a thunderbolt
+like a quiet and [[Well|well]]-behaved thunderbolt, but he was a thunderbolt
 
 without knowing it.
 The first exchange of salutations and introductions was commonplace
@@ -563,7 +563,7 @@ again, of course, and must not be disturbed till the appointed hour,
 though he sat within a stone's throw of where they stood.
 "You see it's his only hobby," observed Harker, apologetically,
 
-"and, after all, it's his own house; and he's very hospitable in
+"and, after all, it's his own [[house]]; and he's very hospitable in
 
 other ways."
 "I'm rather afraid," said Fisher, in a lower voice, "that it's
@@ -572,15 +572,15 @@ becoming more of a mania than a hobby. I know how it is when a man
 
 of that age begins to collect things, if it's only collecting those
 
-rotten little river fish. You remember Talbot's uncle with his
+rotten little [[River|river]] fish. You remember Talbot's uncle with his
 
 toothpicks, and poor old Buzzy and the waste of cigar ashes. Hook
 
-has done a lot of big things in his time—the great deal in the
+has done a lot of big things in his [[Time|time]]—the great deal in the
 
 Swedish timber trade and the Peace Conference at Chicago—but I
 
-doubt whether he cares now for any of those big things as he cares
+[[Doubt|doubt]] whether he cares now for any of those big things as he cares
 
 for those little fish."
 "Oh, come, come," protested the Attorney-General. "You'll make Mr.
@@ -592,9 +592,9 @@ does it for fun, like any other sport, only he's of the kind that
 takes his fun sadly. But I bet if there were big news about timber
 
 or shipping, he would drop his fun and his fish all right."
-"Well, I wonder," said Horne Fisher, looking sleepily at the island
+"[[Well]], I [[Wonder|wonder]]," said Horne Fisher, looking sleepily at the island
 
-in the river.
+in the [[River|river]].
 "By the way, is there any news of anything?" asked Harker of Harold
 
 March. "I see you've got an evening paper; one of those enterprising
@@ -618,7 +618,7 @@ for a moment his leathery jaw was loosened. He looked in some odd
 fashion like a very old man. Then, hardening his voice and handing
 
 the paper to Fisher without a tremor, he simply said:
-"Well, here's a chance for the bet. You've got your big news to
+"[[Well]], here's a chance for the bet. You've got your big news to
 
 disturb the old man's fishing."
 Horne Fisher was looking at the paper, and over his more languid and
@@ -667,12 +667,12 @@ devil of it comes in, to knock us all silly. It's admirable. It's
 inestimable. It is also quite incredible."
 He gazed again at the gray and green colors of the island and the
 
-river, and his rather dreary eye traveled slowly round to the hedges
+[[River|river]], and his rather dreary eye traveled slowly round to the hedges
 
 and the lawns.
-"I felt this garden was a sort of dream," he said, "and I suppose I
+"I felt this [[Garden|garden]] was a sort of dream," he said, "and I suppose I
 
-must be dreaming. But there is grass growing and water moving; and
+must be dreaming. But there is grass growing and [[Water|water]] moving; and
 
 something impossible has happened."
 Even as he spoke the dark figure with a stoop like a vulture
@@ -680,7 +680,7 @@ Even as he spoke the dark figure with a stoop like a vulture
 appeared in the gap of the hedge just above him.
 "You have won your bet," said Harker, in a harsh and almost croaking
 
-voice. "The old fool cares for nothing but fishing. He cursed me and
+voice. "The old [[Fool|fool]] cares for nothing but fishing. He cursed me and
 
 told me he would talk no politics."
 "I thought it might be so," said Fisher, modestly. "What are you
@@ -690,16 +690,16 @@ going to do next?"
 
 "I must find out exactly what has happened. I've got to speak for
 
-the Government myself to-morrow." And he hurried away toward the
+the [[government|Government]] myself to-morrow." And he hurried away toward the
 
-house.
-In the silence that followed, a very bewildering silence so far as
+[[house]].
+In the [[Silence|silence]] that followed, a very bewildering [[Silence|silence]] so far as
 
 March was concerned, they saw the quaint figure of the Duke of
 
 Westmoreland, with his white hat and whiskers, approaching them
 
-across the garden. Fisher instantly stepped toward him with the pink
+across the [[Garden|garden]]. Fisher instantly stepped toward him with the pink
 
 paper in his hand, and, with a few words, pointed out the
 
@@ -721,20 +721,20 @@ something almost comical about the clear picture of the old
 
 gentleman in his wonderful white hat carefully stepping from stone
 
-to stone across the river, like a figure crossing the traffic in
+to stone across the [[River|river]], like a figure crossing the traffic in
 
 Piccadilly. Then he disappeared behind the trees of the island, and
 
 March and Fisher turned to meet the Attorney-General, who was coming
 
-out of the house with a visage of grim assurance.
+out of the [[house]] with a visage of grim assurance.
 "Everybody is saying," he said, "that the Prime Minister has made
 
 the greatest speech of his life. Peroration and loud and prolonged
 
-cheers. Corrupt financiers and heroic peasants. We will not desert
+cheers. Corrupt financiers and heroic peasants. We will not [[Desert|desert]]
 
-Denmark again."
+[[Denmark]] again."
 Fisher nodded and turned away toward the towing path, where he saw
 
 the duke returning with a rather dazed expression. In answer to
@@ -752,7 +752,7 @@ decisively:
 
 clear that the old fellow is fixed on this fishing notion by now. If
 
-the house caught fire behind him he would hardly move till sunset."
+the [[house]] caught [[Fire|fire]] behind him he would hardly move till sunset."
 Fisher had continued his stroll toward the higher embanked ground of
 
 the towing path, and he now swept a long and searching gaze, not
@@ -765,12 +765,12 @@ previous day was settling down all over the dim landscape, but
 
 toward the west it was now red rather than gold; there was scarcely
 
-any sound but the monotonous music of the river. Then came the sound
+any sound but the monotonous music of the [[River|river]]. Then came the sound
 
 of a half-stifled exclamation from Horne Fisher, and Harold March
 
-looked up at him in wonder.
-"You spoke of bad news," said Fisher. "Well, there is really bad
+looked up at him in [[Wonder|wonder]].
+"You spoke of bad news," said Fisher. "[[Well]], there is really bad
 
 news now. I am afraid this is a bad business."
 "What bad news do you mean?" asked his friend, conscious of
@@ -781,9 +781,9 @@ He went on with the air of one conscious of having said something
 
 fatal. "We must get somebody to go across whom he will really listen
 
-to. He may be mad, but there's method in his madness. There nearly
+to. He may be mad, but there's method in his [[Madness|madness]]. There nearly
 
-always is method in madness. It's what drives men mad, being
+always is method in [[Madness|madness]]. It's what drives men mad, being
 
 methodical. And he never goes on sitting there after sunset, with
 
@@ -793,7 +793,7 @@ really fond of his nephew."
 "Look!" cried March, abruptly. "Why, he's been across already.
 
 There he is coming back."
-And, looking up the river once more, they saw, dark against the
+And, looking up the [[River|river]] once more, they saw, dark against the
 
 sunset reflections, the figure of James Bullen stepping hastily and
 
@@ -810,7 +810,7 @@ Fisher looked at the young man steadily for a moment; then he
 
 started from his immobility and, making a motion to March to follow
 
-him, himself strode down to the river crossing. In a few moments
+him, himself strode down to the [[River|river]] crossing. In a few moments
 
 they were on the little beaten track that ran round the wooded
 
@@ -833,12 +833,12 @@ was as cold as a fish.
 "and he will never see it rise again."
 Ten minutes afterward the five men, shaken by such a shock, were
 
-again together in the garden, looking at one another with white but
+again together in the [[Garden|garden]], looking at one another with white but
 
 watchful faces. The lawyer seemed the most alert of the group; he
 
 was articulate if somewhat abrupt.
-"We must leave the body as it is and telephone for the police," he
+"We must leave the [[Body|body]] as it is and telephone for the police," he
 
 said. "I think my own authority will stretch to examining the
 
@@ -853,7 +853,7 @@ suggested the closing of a net or trap. Anyhow, young Bullen
 
 suddenly broke down, or perhaps blew up, for his voice was like an
 
-explosion in the silent garden.
+explosion in the silent [[Garden|garden]].
 "I never touched him," he cried. "I swear I had nothing to do with
 
 it!"
@@ -867,16 +867,16 @@ angrily. "Do you think I don't know you're always talking about my
 damned debts and expectations?"
 Rather to March's surprise, Fisher had drawn away from this first
 
-collision, leading the duke with him to another part of the garden.
+collision, leading the duke with him to another part of the [[Garden|garden]].
 
 When he was out of earshot of the others he said, with a curious
 
 simplicity of manner:
 "Westmoreland, I am going straight to the point."
-"Well?" said the other, staring at him stolidly.
+"[[Well]]?" said the other, staring at him stolidly.
 "You have a motive for killing him," said Fisher.
 The duke continued to stare, but he seemed unable to speak.
-"I hope you had a motive for killing him," continued Fisher, mildly.
+"I [[Hope|hope]] you had a motive for killing him," continued Fisher, mildly.
 
 "You see, it's rather a curious situation. If you have a motive for
 
@@ -888,18 +888,18 @@ why, then perhaps, you did."
 
 either alive or dead. If he was alive, it might be you who killed
 
-him, or why should you have held your tongue about his death? But if
+him, or why should you have held your tongue about his [[Death|death]]? But if
 
 he was dead, and you had a reason for killing him, you might have
 
-held your tongue for fear of being accused." Then after a silence he
+held your tongue for [[Fear|fear]] of being accused." Then after a [[Silence|silence]] he
 
 added, abstractedly: "Cyprus is a beautiful place, I believe.
 
 Romantic scenery and romantic people. Very intoxicating for a young
 
 man."
-The duke suddenly clenched his hands and said, thickly, "Well, I had
+The duke suddenly clenched his hands and said, thickly, "[[Well]], I had
 
 a motive."
 "Then you're all right," said Fisher, holding out his hand with an
@@ -911,7 +911,7 @@ you had a fright when you saw it done, as was only natural. Like a
 bad dream come true, wasn't it?"
 While this curious conversation was passing, Harker had gone into
 
-the house, disregarding the demonstrations of the sulky nephew, and
+the [[house]], disregarding the demonstrations of the sulky nephew, and
 
 came back presently with a new air of animation and a sheaf of
 
@@ -920,12 +920,12 @@ papers in his hand.
 
 Fisher, "but I think I've done most of their work for them. I
 
-believe I've found out the truth. There's a paper here—" He
+believe I've found out the [[Truth|truth]]. There's a paper here—" He
 
 stopped, for Fisher was looking at him with a singular expression;
 
 and it was Fisher who spoke next:
-"Are there any papers that are not there, I wonder? I mean that are
+"Are there any papers that are not there, I [[Wonder|wonder]]? I mean that are
 
 not there now?" After a pause he added: "Let us have the cards on
 
@@ -955,7 +955,7 @@ you swagger about with everlasting virtue because you haven't got
 
 other people's spoons in your pockets. But I was born in a Pimlico
 
-lodging house and I had to make my spoon, and there'd be plenty to
+lodging [[house]] and I had to make my spoon, and there'd be plenty to
 
 say I only spoiled a horn or an honest man. And if a struggling man
 
@@ -977,7 +977,7 @@ firmness:
 "Yes, I did destroy a paper, but I really did find a paper, too; and
 
 I believe that it clears us all."
-"Very well," said Fisher, in a louder and more cheerful tone; "let
+"Very [[Well|well]]," said Fisher, in a louder and more cheerful tone; "let
 
 us all have the benefit of it."
 "On the very top of Sir Isaac's papers," explained Harker, "there
@@ -992,25 +992,25 @@ yourselves; but it makes a particular point of poor Hook's habit of
 
 fishing from the island. Above all, the man professes to be writing
 
-from a boat. And, since we alone went across to him," and he smiled
+from a boat. And, since we [[Alone|alone]] went across to him," and he smiled
 
 in a rather ugly fashion, "the crime must have been committed by a
 
 man passing in a boat."
 "Why, dear me!" cried the duke, with something almost amounting to
 
-animation. "Why, I remember the man called Hugo quite well! He was a
+animation. "Why, I remember the man called Hugo quite [[Well|well]]! He was a
 
-sort of body servant and bodyguard of Sir Isaac. You see, Sir Isaac
+sort of [[Body|body]] servant and bodyguard of Sir Isaac. You see, Sir Isaac
 
-was in some fear of assault. He was—he was not very popular with
+was in some [[Fear|fear]] of assault. He was—he was not very popular with
 
 several people. Hugo was discharged after some row or other; but I
 
-remember him well. He was a great big Hungarian fellow with great
+remember him [[Well|well]]. He was a great big Hungarian fellow with great
 
 mustaches that stood out on each side of his face."
-A door opened in the darkness of Harold March's memory, or, rather,
+A door opened in the darkness of Harold March's [[Memory|memory]], or, rather,
 
 oblivion, and showed a shining landscape, like that of a lost dream.
 
@@ -1023,7 +1023,7 @@ instant he saw again the man with mustaches like dark horns leap up
 on to the bridge and disappear.
 "Good heavens!" he cried. "Why, I met the murderer this morning!"
 *
-Horne Fisher and Harold March had their day on the river, after all,
+Horne Fisher and Harold March had their day on the [[River|river]], after all,
 
 for the little group broke up when the police arrived. They declared
 
@@ -1035,7 +1035,7 @@ Hungarian fugitive would ever be caught appeared to Horne Fisher to
 
 be highly doubtful; nor can it be pretended that he displayed any
 
-very demoniac detective energy in the matter as he leaned back in
+very demoniac [[Detective|detective]] energy in the matter as he leaned back in
 
 the boat cushions, smoking, and watching the swaying reeds slide
 
@@ -1048,21 +1048,21 @@ bank, and he's walked off the bridge without walking on to it, so to
 
 speak. He's got twenty-four hours' start; his mustaches will
 
-disappear, and then he will disappear. I think there is every hope
+disappear, and then he will disappear. I think there is every [[Hope|hope]]
 
 of his escape."
-"Hope?" repeated March, and stopped sculling for an instant.
-"Yes, hope," repeated the other. "To begin with, I'm not going to
+"[[Hope]]?" repeated March, and stopped sculling for an instant.
+"Yes, [[Hope|hope]]," repeated the other. "To begin with, I'm not going to
 
-be exactly consumed with Corsican revenge because somebody has
+be exactly consumed with Corsican [[Revenge|revenge]] because somebody has
 
-killed Hook. Perhaps you may guess by this time what Hook was. A
+killed Hook. Perhaps you may guess by this [[Time|time]] what Hook was. A
 
-damned blood-sucking blackmailer was that simple, strenuous,
+damned [[Blood|blood]]-sucking blackmailer was that simple, strenuous,
 
-self-made captain of industry. He had secrets against nearly
+[[Self|self]]-made captain of industry. He had [[Secrets|secrets]] against nearly
 
-everybody; one against poor old Westmoreland about an early marriage
+everybody; one against poor old Westmoreland about an early [[Marriage|marriage]]
 
 in Cyprus that might have put the duchess in a queer position; and
 
@@ -1091,7 +1091,7 @@ very reason for which they acquit everybody else? Harker and
 
 Westmoreland were silent because they found him murdered, and knew
 
-there were papers that made them look like the murderers. Well, so
+there were papers that made them look like the murderers. [[Well]], so
 
 did Hugo find him murdered, and so did Hugo know there was a paper
 
@@ -1110,7 +1110,7 @@ island."
 committed in the morning. The crime was not committed on the
 
 island."
-March stared at the shining water without replying, but Fisher
+March stared at the shining [[Water|water]] without replying, but Fisher
 
 resumed like one who had been asked a question:
 "Every intelligent murder involves taking advantage of some one
@@ -1121,15 +1121,15 @@ fancy of old Hook for being the first man up every morning, his
 
 fixed routine as an angler, and his annoyance at being disturbed.
 
-The murderer strangled him in his own house after dinner on the
+The murderer strangled him in his own [[house]] after dinner on the
 
-night before, carried his corpse, with all his fishing tackle,
+[[Night|night]] before, carried his corpse, with all his fishing tackle,
 
-across the stream in the dead of night, tied him to the tree, and
+across the stream in the dead of [[Night|night]], tied him to the tree, and
 
-left him there under the stars. It was a dead man who sat fishing
+left him there under the [[Stars|stars]]. It was a dead man who sat fishing
 
-there all day. Then the murderer went back to the house, or, rather,
+there all day. Then the murderer went back to the [[house]], or, rather,
 
 to the garage, and went off in his motor car. The murderer drove his
 
@@ -1144,7 +1144,7 @@ had his family life ruined, you wouldn't think the murder of his
 
 persecutor the most inexcusable of murders. Is it any worse when a
 
-whole great nation is set free as well as a family? By this warning
+whole great nation is set free as [[Well|well]] as a family? By this warning
 
 to Sweden we shall probably prevent war and not precipitate it, and
 
@@ -1152,11 +1152,11 @@ save many thousand lives rather more valuable than the life of that
 
 viper. Oh, I'm not talking sophistry or seriously justifying the
 
-thing, but the slavery that held him and his country was a thousand
+thing, but the [[Slavery|slavery]] that held him and his country was a thousand
 
 times less justifiable. If I'd really been sharp I should have
 
-guessed it from his smooth, deadly smiling at dinner that night. Do
+guessed it from his smooth, deadly smiling at dinner that [[Night|night]]. Do
 
 you remember that silly talk about how old Isaac could always play
 

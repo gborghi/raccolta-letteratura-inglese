@@ -15,28 +15,28 @@ tags:
 
 
 Again, it illustrates this variety of experiment that Stevenson
-also wrote a detective story; or as he characteristically called it
-(in a sort of pedantic plain English) a police novel.  He wrote it
+also wrote a [[Detective|detective]] story; or as he characteristically called it
+(in a sort of pedantic plain English) a police [[Novel|novel]].  He wrote it
 in collaboration with Mr. Lloyd Osbourne; and I have considered
 another aspect of it already, in the local colour of _The Wrecker._
-But _The Wrecker_ is ultimately a police novel; and the best
-sort of police novel, in which the police are never called in.
+But _The Wrecker_ is ultimately a police [[Novel|novel]]; and the best
+sort of police [[Novel|novel]], in which the police are never called in.
 Stevenson explained his reasons for leading up to the problem with studies
 of social life; and certainly it says much for the liveliness of that life
 that we do not grow so impatient as to offer the obvious comment.
 Otherwise we should certainly make one reasonable criticism.
-The writer may be pardoned if he is a long time getting to the solution,
-but not when he is such a long time getting to the mystery.
+The writer may be pardoned if he is a long [[Time|time]] getting to the solution,
+but not when he is such a long [[Time|time]] getting to the mystery.
 It must be confessed that we have to wait for the question
-to be asked, as well as for it to be answered.  Personally I am
+to be asked, as [[Well|well]] as for it to be answered.  Personally I am
 very glad to wait in the waiting-room of Pinkerton and Dodd.
 But anyhow when the question is asked, it is with great animation;
 and the excitement of beginning to piece together a puzzle,
-which is the essence of a detective story, has seldom been more
-lively and lifelike than in the cross questions and crooked answers
-of Captain Nares and his super-cargo. Here, however, the detective
+which is the essence of a [[Detective|detective]] story, has seldom been more
+lively and lifelike than in the [[Cross|cross]] questions and crooked answers
+of Captain Nares and his super-cargo. Here, however, the [[Detective|detective]]
 story merely illustrates the fact of his having almost as many irons
-in the fire as Jim Pinkerton.  It illustrates the general fact
+in the [[Fire|fire]] as Jim Pinkerton.  It illustrates the general fact
 that he tried a great many different styles; and yet his style
 was not different.
 
@@ -61,7 +61,7 @@ written himself out or experienced any weakening of power.
 For the very last days of all were spent in producing what was,
 or would have been, his most powerful piece of work.  I have said
 something elsewhere, in connection with the Scottish romances,
-of his last great story, which is unfortunately a great fragment.
+of his last great story, which is unfortunately a great [[Fragment|fragment]].
 Actually (I am tempted to say fortunately) that story named
 after Weir of Hermiston is not mainly about Weir of Hermiston.
 At least it is not about the first and most famous person of that name;
@@ -69,11 +69,11 @@ and the best chapters of the book now in existence are concerned with
 the most sensitive and passionate shades of the Scottish temperament;
 richer shades of passion than he had ever yet attempted to touch.
 If ever the grey moor turned purple, it did at the moment
-when the girl lifted her voice to sing the song of the Elliots.
+when the girl lifted her voice to sing the [[Song|song]] of the Elliots.
 He never forgets his abrupt gesture; and it was never so arresting
 as when her psalm-book page was rent across.
 
-When Stevenson drew the long bow for the last time, like Robin Hood,
+When Stevenson drew the long bow for the last [[Time|time]], like [[Robin Hood]],
 he had two strings to his bow; and they both broke; but one was much
 stronger than the other.  In other words he had two stories in his head,
 both of which broke off short; and perhaps it is not surprising
@@ -82,17 +82,17 @@ The story of _St.  Ives_ contains excellent things, as does everything
 that he ever wrote, down to the most casual private letter.
 But it may be called disappointing, with rather more exactitude
 than is usual in the use of that word.  _St.  Ives_ can hardly
-avoid being a sort of historical novel; and yet it is a rather
-unhistorical novel.  By which I do not mean that there may be
+avoid being a sort of [[Historical Novel|historical novel]]; and yet it is a rather
+unhistorical [[Novel|novel]].  By which I do not mean that there may be
 mistakes about dates or details; which matter nothing in fiction
-and are made too much fuss of even in history.  I mean it is
-unhistorical in showing a strange lack of historical imagination
+and are made too much fuss of even in [[history]].  I mean it is
+unhistorical in showing a strange lack of historical [[Imagination|imagination]]
 and the sense of historical opportunity.  It is the story of a soldier
 of Napoleon imprisoned on Edinburgh Rock and escaping from it.
 But indeed we might fancy it was Stevenson and not St. Ives who was
 imprisoned on Edinburgh Rock.  And Stevenson does not escape from it.
 Such a subject demanded a sort of international interpreter;
-but it is in truth the most strangely insular of all his books.
+but it is in [[Truth|truth]] the most strangely insular of all his books.
 St. Ives is not a Frenchman; he is the less and not the more French
 because he is given all the foppery and swagger which spinsters
 in Edinburgh in 1813 doubtless did associate with a Frenchman.
@@ -104,11 +104,11 @@ from Britain; it is not, as it should be, Britain seen from France.
 Unless St. Ives were a very bitter Royalist (which he evidently was not,
 but a moderate Bonapartist) he would quite certainly have conceived
 himself as carrying not mere military glory but the light of reason and
-philosophy and social justice to the aristocratic and autocratic states.
+[[philosophy]] and social justice to the aristocratic and autocratic states.
 He would have been impatient with the illogical resistance to
 rational things; not merely annoyed at not being shaved or provided
 with a looking-glass. But St. Ives is not a French soldier.
 He is a man in a French uniform; but so was Alan Breck Stewart.
 And that blessed and beloved name may perhaps recall to us
-that vanity and a love of fine coats can occasionally be found,
+that [[Vanity|vanity]] and a [[Love|love]] of fine coats can occasionally be found,
 even in the British Isles.

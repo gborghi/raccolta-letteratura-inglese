@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act V, Scene 3 — exchange (VIRGILIA) [5]"
+title: "[[Coriolanus]] — Act V, Scene 3 — exchange ([[Virgilia|VIRGILIA]]) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CORIOLANUS-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| VIRGILIA | Ay, and mine, That brought you forth this boy to keep your name Living to time. |
+| [[Virgilia|VIRGILIA]] | Ay, and mine, That brought you forth this boy to keep your name Living to [[Time|time]]. |
 | YOUNG MARTIUS | A shall not tread on me. I’ll run away till I am bigger, but then I’ll fight. |
-| CORIOLANUS | Not of a woman’s tenderness to be Requires nor child nor woman’s face to see. I have sat too long. He rises and turns away |
+| [[Coriolanus|CORIOLANUS]] | Not of a woman’s tenderness to be Requires nor [[Child|child]] nor woman’s face to see. I have sat too long. He rises and turns away |

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 45"
+title: "[[Sense and Sensibility]] — Chapter 45"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XLV.
 
 
 
-Elinor, for some time after he left her, for some time even after the
+Elinor, for some [[Time|time]] after he left her, for some [[Time|time]] even after the
 
 sound of his carriage had died away, remained too much oppressed by a
 
@@ -48,9 +48,9 @@ in reason to have weight; by that person of uncommon attraction, that
 
 open, affectionate, and lively manner which it was no merit to possess;
 
-and by that still ardent love for Marianne, which it was not even
+and by that still ardent [[Love|love]] for Marianne, which it was not even
 
-innocent to indulge. But she felt that it was so, long, long before she
+[[Innocent|innocent]] to indulge. But she felt that it was so, long, long before she
 
 could feel his influence less.
 
@@ -58,7 +58,7 @@ could feel his influence less.
 
 When at last she returned to the unconscious Marianne, she found her
 
-just awaking, refreshed by so long and sweet a sleep to the extent of
+just awaking, refreshed by so long and sweet a [[Sleep|sleep]] to the extent of
 
 her hopes. Elinor’s heart was full. The past, the present, the future,
 
@@ -68,21 +68,21 @@ arrival, threw her altogether into an agitation of spirits which kept
 
 off every indication of fatigue, and made her only fearful of betraying
 
-herself to her sister. Short was the time, however, in which that fear
+herself to her sister. Short was the [[Time|time]], however, in which that [[Fear|fear]]
 
 could affect her, for within half an hour after Willoughby’s leaving
 
-the house, she was again called down stairs by the sound of another
+the [[house]], she was again called down stairs by the sound of another
 
 carriage.—Eager to save her mother from every unnecessary moment’s
 
 horrible suspense, she ran immediately into the hall, and reached the
 
-outward door just in time to receive and support her as she entered it.
+outward door just in [[Time|time]] to receive and support her as she entered it.
 
 
 
-Mrs. Dashwood, whose terror as they drew near the house had produced
+Mrs. Dashwood, whose terror as they drew near the [[house]] had produced
 
 almost the conviction of Marianne’s being no more, had no voice to
 
@@ -96,41 +96,41 @@ overcome by her happiness, as she had been before by her fears. She was
 
 supported into the drawing-room between her daughter and her friend;
 
-and there, shedding tears of joy, though still unable to speak,
+and there, shedding [[Tears|tears]] of joy, though still unable to speak,
 
 embraced Elinor again and again, turning from her at intervals to press
 
-Colonel Brandon’s hand, with a look which spoke at once her gratitude,
+[[Colonel Brandon]]’s hand, with a look which spoke at once her gratitude,
 
 and her conviction of his sharing with herself in the bliss of the
 
-moment. He shared it, however, in a silence even greater than her own.
+moment. He shared it, however, in a [[Silence|silence]] even greater than her own.
 
 
 
 As soon as Mrs. Dashwood had recovered herself, to see Marianne was her
 
-first desire; and in two minutes she was with her beloved child,
+first [[Desire|desire]]; and in two minutes she was with her beloved [[Child|child]],
 
 rendered dearer to her than ever by absence, unhappiness, and danger.
 
 Elinor’s delight, as she saw what each felt in the meeting, was only
 
-checked by an apprehension of its robbing Marianne of farther sleep:
+checked by an apprehension of its robbing Marianne of farther [[Sleep|sleep]]:
 
 but Mrs. Dashwood could be calm, could be even prudent, when the life
 
-of a child was at stake, and Marianne, satisfied in knowing her mother
+of a [[Child|child]] was at stake, and Marianne, satisfied in knowing her mother
 
 was near her, and conscious of being too weak for conversation,
 
-submitted readily to the silence and quiet prescribed by every nurse
+submitted readily to the [[Silence|silence]] and quiet prescribed by every [[Nurse|nurse]]
 
-around her. Mrs. Dashwood _would_ sit up with her all night; and
+around her. Mrs. Dashwood _would_ sit up with her all [[Night|night]]; and
 
 Elinor, in compliance with her mother’s entreaty, went to bed. But the
 
-rest, which one night entirely sleepless, and many hours of the most
+rest, which one [[Night|night]] entirely sleepless, and many hours of the most
 
 wearing anxiety seemed to make requisite, was kept off by irritation of
 
@@ -148,17 +148,17 @@ it, dreaded what its effect on Marianne might be; doubted whether after
 
 such an explanation she could ever be happy with another; and for a
 
-moment wished Willoughby a widower. Then, remembering Colonel Brandon,
+moment wished Willoughby a widower. Then, remembering [[Colonel Brandon]],
 
 reproved herself, felt that to _his_ sufferings and _his_ constancy far
 
 more than to his rival’s, the reward of her sister was due, and wished
 
-any thing rather than Mrs. Willoughby’s death.
+any thing rather than Mrs. Willoughby’s [[Death|death]].
 
 
 
-The shock of Colonel Brandon’s errand at Barton had been much softened
+The shock of [[Colonel Brandon]]’s errand at Barton had been much softened
 
 to Mrs. Dashwood by her own previous alarm; for so great was her
 
@@ -166,7 +166,7 @@ uneasiness about Marianne, that she had already determined to set out
 
 for Cleveland on that very day, without waiting for any further
 
-intelligence, and had so far settled her journey before his arrival,
+intelligence, and had so far settled her [[Journey|journey]] before his arrival,
 
 that the Careys were then expected every moment to fetch Margaret away,
 
@@ -202,9 +202,9 @@ soon as any opportunity of private conference between them occurred.
 
 
 
-“At last we are alone. My Elinor, you do not yet know all my happiness.
+“At last we are [[Alone|alone]]. My Elinor, you do not yet know all my happiness.
 
-Colonel Brandon loves Marianne. He has told me so himself.”
+[[Colonel Brandon]] loves Marianne. He has told me so himself.”
 
 
 
@@ -214,11 +214,11 @@ not surprised, was all silent attention.
 
 
 
-“You are never like me, dear Elinor, or I should wonder at your
+“You are never like me, dear Elinor, or I should [[Wonder|wonder]] at your
 
 composure now. Had I sat down to wish for any possible good to my
 
-family, I should have fixed on Colonel Brandon’s marrying one of you as
+family, I should have fixed on [[Colonel Brandon]]’s marrying one of you as
 
 the object most desirable. And I believe Marianne will be the most
 
@@ -232,7 +232,7 @@ satisfied that none founded on an impartial consideration of their age,
 
 characters, or feelings, could be given;—but her mother must always be
 
-carried away by her imagination on any interesting subject, and
+carried away by her [[Imagination|imagination]] on any interesting subject, and
 
 therefore instead of an inquiry, she passed it off with a smile.
 
@@ -240,11 +240,11 @@ therefore instead of an inquiry, she passed it off with a smile.
 
 “He opened his whole heart to me yesterday as we travelled. It came out
 
-quite unawares, quite undesignedly. I, you may well believe, could talk
+quite unawares, quite undesignedly. I, you may [[Well|well]] believe, could talk
 
-of nothing but my child;—he could not conceal his distress; I saw that
+of nothing but my [[Child|child]];—he could not conceal his distress; I saw that
 
-it equalled my own, and he perhaps, thinking that mere friendship, as
+it equalled my own, and he perhaps, thinking that mere [[Friendship|friendship]], as
 
 the world now goes, would not justify so warm a sympathy—or rather, not
 
@@ -260,7 +260,7 @@ her.”
 
 Here, however, Elinor perceived,—not the language, not the professions
 
-of Colonel Brandon, but the natural embellishments of her mother’s
+of [[Colonel Brandon]], but the natural embellishments of her mother’s
 
 active fancy, which fashioned every thing delightful to her as it
 
@@ -276,7 +276,7 @@ constant—which ever we are to call it—has subsisted through all the
 
 knowledge of dear Marianne’s unhappy prepossession for that worthless
 
-young man!—and without selfishness—without encouraging a hope!—could he
+young man!—and without selfishness—without encouraging a [[Hope|hope]]!—could he
 
 have seen her happy with another—Such a noble mind!—such openness, such
 
@@ -284,9 +284,9 @@ sincerity!—no one can be deceived in _him_.”
 
 
 
-“Colonel Brandon’s character,” said Elinor, “as an excellent man, is
+“[[Colonel Brandon]]’s character,” said Elinor, “as an excellent man, is
 
-well established.”
+[[Well|well]] established.”
 
 
 
@@ -296,7 +296,7 @@ _I_ should be the last to encourage such affection, or even to be
 
 pleased by it. But his coming for me as he did, with such active, such
 
-ready friendship, is enough to prove him one of the worthiest of men.”
+ready [[Friendship|friendship]], is enough to prove him one of the worthiest of men.”
 
 
 
@@ -306,7 +306,7 @@ of kindness, to which his affection for Marianne, were humanity out of
 
 the case, would have prompted him. To Mrs. Jennings, to the Middletons,
 
-he has been long and intimately known; they equally love and respect
+he has been long and intimately known; they equally [[Love|love]] and respect
 
 him; and even my own knowledge of him, though lately acquired, is very
 
@@ -316,27 +316,27 @@ Marianne can be happy with him, I shall be as ready as yourself to
 
 think our connection the greatest blessing to us in the world. What
 
-answer did you give him?—Did you allow him to hope?”
+answer did you give him?—Did you allow him to [[Hope|hope]]?”
 
 
 
-“Oh! my love, I could not then talk of hope to him or to myself.
+“Oh! my [[Love|love]], I could not then talk of [[Hope|hope]] to him or to myself.
 
-Marianne might at that moment be dying. But he did not ask for hope or
+Marianne might at that moment be dying. But he did not ask for [[Hope|hope]] or
 
 encouragement. His was an involuntary confidence, an irrepressible
 
 effusion to a soothing friend, not an application to a parent. Yet
 
-after a time I _did_ say, for at first I was quite overcome, that if
+after a [[Time|time]] I _did_ say, for at first I was quite overcome, that if
 
 she lived, as I trusted she might, my greatest happiness would lie in
 
-promoting their marriage; and since our arrival, since our delightful
+promoting their [[Marriage|marriage]]; and since our arrival, since our delightful
 
 security, I have repeated it to him more fully, have given him every
 
-encouragement in my power. Time, a very little time, I tell him, will
+encouragement in my power. [[Time]], a very little [[Time|time]], I tell him, will
 
 do everything; Marianne’s heart is not to be wasted for ever on such a
 
@@ -352,7 +352,7 @@ him equally sanguine.”
 
 “No. He thinks Marianne’s affection too deeply rooted for any change in
 
-it under a great length of time, and even supposing her heart again
+it under a great length of [[Time|time]], and even supposing her heart again
 
 free, is too diffident of himself to believe, that with such a
 
@@ -362,13 +362,13 @@ however, he is quite mistaken. His age is only so much beyond hers as
 
 to be an advantage, as to make his character and principles fixed; and
 
-his disposition, I am well convinced, is exactly the very one to make
+his disposition, I am [[Well|well]] convinced, is exactly the very one to make
 
 your sister happy. And his person, his manners too, are all in his
 
 favour. My partiality does not blind me; he certainly is not so
 
-handsome as Willoughby; but at the same time, there is something much
+handsome as Willoughby; but at the same [[Time|time]], there is something much
 
 more pleasing in his countenance. There was always a something, if you
 
@@ -384,7 +384,7 @@ assent, continued,
 
 “And his manners, the Colonel’s manners are not only more pleasing to
 
-me than Willoughby’s ever were, but they are of a kind I well know to
+me than Willoughby’s ever were, but they are of a kind I [[Well|well]] know to
 
 be more solidly attaching to Marianne. Their gentleness, their genuine
 
@@ -398,7 +398,7 @@ that had Willoughby turned out as really amiable, as he has proved
 
 himself the contrary, Marianne would yet never have been so happy with
 
-_him_ as she will be with Colonel Brandon.”
+_him_ as she will be with [[Colonel Brandon]].”
 
 
 
@@ -414,7 +414,7 @@ Dashwood, “even if I remain at Barton; and in all probability,—for I
 
 hear it is a large village,—indeed there certainly _must_ be some small
 
-house or cottage close by, that would suit us quite as well as our
+[[house]] or cottage close by, that would suit us quite as [[Well|well]] as our
 
 present situation.”
 
@@ -426,9 +426,9 @@ spirit was stubborn.
 
 
 
-“His fortune too!—for at my time of life you know, everybody cares
+“His fortune too!—for at my [[Time|time]] of life you know, everybody cares
 
-about _that;_—and though I neither know nor desire to know, what it
+about _that;_—and though I neither know nor [[Desire|desire]] to know, what it
 
 really is, I am sure it must be a good one.”
 
@@ -436,6 +436,6 @@ really is, I am sure it must be a good one.”
 
 Here they were interrupted by the entrance of a third person, and
 
-Elinor withdrew to think it all over in private, to wish success to her
+Elinor withdrew to think it all over in private, to wish [[success]] to her
 
 friend, and yet in wishing it, to feel a pang for Willoughby.

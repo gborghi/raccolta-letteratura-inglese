@@ -1,5 +1,5 @@
 ---
-title: "Never Bet the Devil your Head"
+title: "[[Never Bet the Devil your Head]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Never-Bet-the-Devil-your-Head-(Poe)"
@@ -16,16 +16,16 @@ tags:
 A Tale With a Moral.
 
       “_Con tal que las costumbres de un autor_,” says Don Thomas de las
-      Torres, in the preface to his “Amatory Poems” _“sean puras y castas,
+      Torres, in the preface to his “Amatory [[Poems]]” _“sean puras y castas,
       importo muy poco que no sean igualmente severas sus obras”_—meaning,
       in plain English, that, provided the morals of an author are pure
       personally, it signifies nothing what are the morals of his books. We
       presume that Don Thomas is now in Purgatory for the assertion. It would be
       a clever thing, too, in the way of poetical justice, to keep him there
-      until his “Amatory Poems” get out of print, or are laid definitely upon
+      until his “Amatory [[Poems]]” get out of print, or are laid definitely upon
       the shelf through lack of readers. Every fiction should have a moral; and,
       what is more to the purpose, the critics have discovered that every
-      fiction has. Philip Melanchthon, some time ago, wrote a commentary upon
+      fiction has. Philip Melanchthon, some [[Time|time]] ago, wrote a commentary upon
       the “Batrachomyomachia,” and proved that the poet’s object was to excite a
       distaste for sedition. Pierre la Seine, going a step farther, shows that
       the intention was to recommend to young men temperance in eating and
@@ -33,13 +33,13 @@ A Tale With a Moral.
       Euenis, Homer meant to insinuate John Calvin; by Antinous, Martin Luther;
       by the Lotophagi, Protestants in general; and, by the Harpies, the Dutch.
       Our more modern Scholiasts are equally acute. These fellows demonstrate a
-      hidden meaning in “The Antediluvians,” a parable in Powhatan, “new views
+      hidden meaning in “The Antediluvians,” a [[Parable|parable]] in Powhatan, “new views
       in Cock Robin,” and transcendentalism in “Hop O’ My Thumb.” In short, it
       has been shown that no man can sit down to write without a very profound
       design. Thus to authors in general much trouble is spared. A novelist, for
       example, need have no care of his moral. It is there—that is to say,
       it is somewhere—and the moral and the critics can take care of
-      themselves. When the proper time arrives, all that the gentleman intended,
+      themselves. When the proper [[Time|time]] arrives, all that the gentleman intended,
       and all that he did not intend, will be brought to light, in the “Dial,”
        or the “Down-Easter,” together with all that he ought to have intended,
       and the rest that he clearly meant to intend:—so that it will all
@@ -51,8 +51,8 @@ A Tale With a Moral.
       predestined to bring me out, and develop my morals:—that is the
       secret. By and by the “North American Quarterly Humdrum” will make them
       ashamed of their stupidity. In the meantime, by way of staying execution—by
-      way of mitigating the accusations against me—I offer the sad history
-      appended,—a history about whose obvious moral there can be no
+      way of mitigating the accusations against me—I offer the sad [[history]]
+      appended,—a [[history]] about whose obvious moral there can be no
       question whatever, since he who runs may read it in the large capitals
       which form the title of the tale. I should have credit for this
       arrangement—a far wiser one than that of La Fontaine and others, who
@@ -63,20 +63,20 @@ A Tale With a Moral.
       mortuis nil nisi bonum_ is an excellent injunction—even if the dead
       in question be nothing but dead small beer. It is not my design,
       therefore, to vituperate my deceased friend, Toby Dammit. He was a sad
-      dog, it is true, and a dog’s death it was that he died; but he himself was
+      dog, it is true, and a dog’s [[Death|death]] it was that he died; but he himself was
       not to blame for his vices. They grew out of a personal defect in his
       mother. She did her best in the way of flogging him while an infant—for
-      duties to her well-regulated mind were always pleasures, and babies,
+      duties to her [[Well|well]]-regulated mind were always pleasures, and babies,
       like tough steaks, or the modern Greek olive trees, are invariably the
       better for beating—but, poor woman! she had the misfortune to be
-      left-handed, and a child flogged left-handedly had better be left
+      left-handed, and a [[Child|child]] flogged left-handedly had better be left
       unflogged. The world revolves from right to left. It will not do to whip a
       baby from left to right. If each blow in the proper direction drives an
       evil propensity out, it follows that every thump in an opposite one knocks
       its quota of wickedness in. I was often present at Toby’s chastisements,
       and, even by the way in which he kicked, I could perceive that he was
-      getting worse and worse every day. At last I saw, through the tears in my
-      eyes, that there was no hope of the villain at all, and one day when he
+      getting worse and worse every day. At last I saw, through the [[Tears|tears]] in my
+      eyes, that there was no [[Hope|hope]] of the [[Villain|villain]] at all, and one day when he
       had been cuffed until he grew so black in the face that one might have
       mistaken him for a little African, and no effect had been produced beyond
       that of making him wriggle himself into a fit, I could stand it no longer,
@@ -101,12 +101,12 @@ A Tale With a Moral.
       do my friend the justice to say that he would as soon have laid eggs. With
       him the thing was a mere formula—nothing more. His expressions on
       this head had no meaning attached to them whatever. They were simple if
-      not altogether innocent expletives—imaginative phrases wherewith to
+      not altogether [[Innocent|innocent]] expletives—imaginative phrases wherewith to
       round off a sentence. When he said “I’ll bet you so and so,” nobody ever
       thought of taking him up; but still I could not help thinking it my duty
       to put him down. The habit was an immoral one, and so I told him. It was a
       vulgar one—this I begged him to believe. It was discountenanced by
-      society—here I said nothing but the truth. It was forbidden by act
+      society—here I said nothing but the [[Truth|truth]]. It was forbidden by act
       of Congress—here I had not the slightest intention of telling a lie.
       I remonstrated—but to no purpose. I demonstrated—in vain. I
       entreated—he smiled. I implored—he laughed. I preached—he
@@ -114,9 +114,9 @@ A Tale With a Moral.
       police. I pulled his nose—he blew it, and offered to bet the Devil
       his head that I would not venture to try that experiment again.
 
-      Poverty was another vice which the peculiar physical deficiency of
+      [[Poverty]] was another vice which the peculiar physical deficiency of
       Dammit’s mother had entailed upon her son. He was detestably poor, and
-      this was the reason, no doubt, that his expletive expressions about
+      this was the reason, no [[Doubt|doubt]], that his expletive expressions about
       betting, seldom took a pecuniary turn. I will not be bound to say that I
       ever heard him make use of such a figure of speech as “I’ll bet you a
       dollar.” It was usually “I’ll bet you what you please,” or “I’ll bet you
@@ -136,14 +136,14 @@ A Tale With a Moral.
       “I’ll bet the Devil my head,” with a pertinacity and exclusiveness of
       devotion that displeased not less than it surprised me. I am always
       displeased by circumstances for which I cannot account. Mysteries force a
-      man to think, and so injure his health. The truth is, there was something
+      man to think, and so injure his health. The [[Truth|truth]] is, there was something
       in the air with which Mr. Dammit was wont to give utterance to his
       offensive expression—something in his manner of enunciation—which
       at first interested, and afterwards made me very uneasy—something
       which, for want of a more definite term at present, I must be permitted to
       call queer; but which Mr. Coleridge would have called mystical, Mr. Kant
       pantheistical, Mr. Carlyle twistical, and Mr. Emerson hyperquizzitistical.
-      I began not to like it at all. Mr. Dammits soul was in a perilous state. I
+      I began not to like it at all. Mr. Dammits [[Soul|soul]] was in a perilous state. I
       resolved to bring all my eloquence into play to save it. I vowed to serve
       him as St. Patrick, in the Irish chronicle, is said to have served the
       toad,—that is to say, “awaken him to a sense of his situation.” I
@@ -166,7 +166,7 @@ A Tale With a Moral.
       me if I would hold my tongue. He wished none of my advice. He despised all
       my insinuations. He was old enough to take care of himself. Did I still
       think him baby Dammit? Did I mean to say any thing against his character?
-      Did I intend to insult him? Was I a fool? Was my maternal parent aware, in
+      Did I intend to insult him? Was I a [[Fool|fool]]? Was my maternal parent aware, in
       a word, of my absence from the domiciliary residence? He would put this
       latter question to me as to a man of veracity, and he would bind himself
       to abide by my reply. Once more he would demand explicitly if my mother
@@ -174,26 +174,26 @@ A Tale With a Moral.
       willing to bet the Devil his head that she did not.
 
       Mr. Dammit did not pause for my rejoinder. Turning upon his heel, he left
-      my presence with undignified precipitation. It was well for him that he
+      my presence with undignified precipitation. It was [[Well|well]] for him that he
       did so. My feelings had been wounded. Even my anger had been aroused. For
       once I would have taken him up upon his insulting wager. I would have won
       for the Arch-Enemy Mr. Dammit’s little head—for the fact is, my
-      mamma was very well aware of my merely temporary absence from home.
+      mamma was very [[Well|well]] aware of my merely temporary absence from [[Home|home]].
 
       But Khoda shefa midêhed—Heaven gives relief—as the Mussulmans
       say when you tread upon their toes. It was in pursuance of my duty that I
       had been insulted, and I bore the insult like a man. It now seemed to me,
       however, that I had done all that could be required of me, in the case of
       this miserable individual, and I resolved to trouble him no longer with my
-      counsel, but to leave him to his conscience and himself. But although I
+      counsel, but to leave him to his [[Conscience|conscience]] and himself. But although I
       forebore to intrude with my advice, I could not bring myself to give up
       his society altogether. I even went so far as to humor some of his less
       reprehensible propensities; and there were times when I found myself
-      lauding his wicked jokes, as epicures do mustard, with tears in my eyes:—so
+      lauding his wicked jokes, as epicures do mustard, with [[Tears|tears]] in my eyes:—so
       profoundly did it grieve me to hear his evil talk.
 
       One fine day, having strolled out together, arm in arm, our route led us
-      in the direction of a river. There was a bridge, and we resolved to cross
+      in the direction of a [[River|river]]. There was a bridge, and we resolved to [[Cross|cross]]
       it. It was roofed over, by way of protection from the weather, and the
       archway, having but few windows, was thus very uncomfortably dark. As we
       entered the passage, the contrast between the external glare and the
@@ -201,16 +201,16 @@ A Tale With a Moral.
       unhappy Dammit, who offered to bet the Devil his head that I was hipped.
       He seemed to be in an unusual good humor. He was excessively lively—so
       much so that I entertained I know not what of uneasy suspicion. It is not
-      impossible that he was affected with the transcendentals. I am not well
+      impossible that he was affected with the transcendentals. I am not [[Well|well]]
       enough versed, however, in the diagnosis of this disease to speak with
       decision upon the point; and unhappily there were none of my friends of
       the “Dial” present. I suggest the idea, nevertheless, because of a certain
       species of austere Merry-Andrewism which seemed to beset my poor friend,
-      and caused him to make quite a Tom-Fool of himself. Nothing would serve
+      and caused him to make quite a Tom-[[Fool]] of himself. Nothing would serve
       him but wriggling and skipping about under and over every thing that came
       in his way; now shouting out, and now lisping out, all manner of odd
       little and big words, yet preserving the gravest face in the world all the
-      time. I really could not make up my mind whether to kick or to pity him.
+      [[Time|time]]. I really could not make up my mind whether to kick or to pity him.
       At length, having passed nearly across the bridge, we approached the
       termination of the footway, when our progress was impeded by a turnstile
       of some height. Through this I made my way quietly, pushing it around as
@@ -238,20 +238,20 @@ A Tale With a Moral.
 
       Upon observing him more closely, I perceived that he wore a black silk
       apron over his small-clothes; and this was a thing which I thought very
-      odd. Before I had time to make any remark, however, upon so singular a
+      odd. Before I had [[Time|time]] to make any remark, however, upon so singular a
       circumstance, he interrupted me with a second “ahem!”
 
 
       To this observation I was not immediately prepared to reply. The fact is,
-      remarks of this laconic nature are nearly unanswerable. I have known a
+      remarks of this laconic [[Nature|nature]] are nearly unanswerable. I have known a
       Quarterly Review non-plussed by the word “Fudge!” I am not ashamed to say,
       therefore, that I turned to Mr. Dammit for assistance.
 
       “Dammit,” said I, “what are you about? don’t you hear?—the gentleman
       says ‘ahem!’” I looked sternly at my friend while I thus addressed him;
-      for, to say the truth, I felt particularly puzzled, and when a man is
+      for, to say the [[Truth|truth]], I felt particularly puzzled, and when a man is
       particularly puzzled he must knit his brows and look savage, or else he is
-      pretty sure to look like a fool.
+      pretty sure to look like a [[Fool|fool]].
 
       “Dammit,” observed I—although this sounded very much like an oath,
       than which nothing was further from my thoughts—“Dammit,” I
@@ -262,7 +262,7 @@ A Tale With a Moral.
       think it profound myself; but I have noticed that the effect of our
       speeches is not always proportionate with their importance in our own
       eyes; and if I had shot Mr. D. through and through with a Paixhan bomb, or
-      knocked him in the head with the “Poets and Poetry of America,” he could
+      knocked him in the head with the “Poets and Poetry of [[America]],” he could
       hardly have been more discomfited than when I addressed him with those
       simple words: “Dammit, what are you about?—don’t you hear?—the
       gentleman says ‘ahem!’”
@@ -270,8 +270,8 @@ A Tale With a Moral.
 
       “You don’t say so?” gasped he at length, after turning more colors than a
       pirate runs up, one after the other, when chased by a man-of-war. “Are you
-      quite sure he said that? Well, at all events I am in for it now, and may
-      as well put a bold face upon the matter. Here goes, then—ahem!”
+      quite sure he said that? [[Well]], at all events I am in for it now, and may
+      as [[Well|well]] put a bold face upon the matter. Here goes, then—ahem!”
 
 
       At this the little old gentleman seemed pleased—God only knows why.
@@ -291,9 +291,9 @@ A Tale With a Moral.
       the corners of his mouth—“ahem!” And “ahem!” said he again, after a
       pause; and not another word more than “ahem!” did I ever know him to say
       after that. “Aha!” thought I, without expressing myself aloud—“this
-      is quite a remarkable silence on the part of Toby Dammit, and is no doubt
+      is quite a remarkable [[Silence|silence]] on the part of Toby Dammit, and is no [[Doubt|doubt]]
       a consequence of his verbosity upon a previous occasion. One extreme
-      induces another. I wonder if he has forgotten the many unanswerable
+      induces another. I [[Wonder|wonder]] if he has forgotten the many unanswerable
       questions which he propounded to me so fluently on the day when I gave him
       my last lecture? At all events, he is cured of the transcendentals.”
 
@@ -303,7 +303,7 @@ A Tale With a Moral.
 
       The old gentleman now took him by the arm, and led him more into the shade
       of the bridge—a few paces back from the turnstile. “My good fellow,”
-       said he, “I make it a point of conscience to allow you this much run. Wait
+       said he, “I make it a point of [[Conscience|conscience]] to allow you this much run. Wait
       here, till I take my place by the stile, so that I may see whether you go
       over it handsomely, and transcendentally, and don’t omit any flourishes of
       the pigeon-wing. A mere form, you know. I will say ‘one, two, three, and
@@ -331,7 +331,7 @@ A Tale With a Moral.
 
       But what I said, or what I thought, or what I heard, occupied only an
       instant. In less than five seconds from his starting, my poor Toby had
-      taken the leap. I saw him run nimbly, and spring grandly from the floor of
+      taken the leap. I saw him run nimbly, and [[spring]] grandly from the floor of
       the bridge, cutting the most awful flourishes with his legs as he went up.
       I saw him high in the air, pigeon-winging it to admiration just over the
       top of the stile; and of course I thought it an unusually singular thing
@@ -339,17 +339,17 @@ A Tale With a Moral.
       a moment, and, before I had a chance to make any profound reflections,
       down came Mr. Dammit on the flat of his back, on the same side of the
       stile from which he had started. At the same instant I saw the old
-      gentleman limping off at the top of his speed, having caught and wrapt up
+      gentleman limping off at the top of his [[Speed|speed]], having caught and wrapt up
       in his apron something that fell heavily into it from the darkness of the
       arch just over the turnstile. At all this I was much astonished; but I had
       no leisure to think, for Dammit lay particularly still, and I concluded
       that his feelings had been hurt, and that he stood in need of my
       assistance. I hurried up to him and found that he had received what might
-      be termed a serious injury. The truth is, he had been deprived of his
+      be termed a serious injury. The [[Truth|truth]] is, he had been deprived of his
       head, which after a close search I could not find anywhere; so I
-      determined to take him home and send for the homœopathists. In the
-      meantime a thought struck me, and I threw open an adjacent window of the
-      bridge, when the sad truth flashed upon me at once. About five feet just
+      determined to take him [[Home|home]] and send for the homœopathists. In the
+      meantime a thought struck me, and I threw open an adjacent [[Window|window]] of the
+      bridge, when the sad [[Truth|truth]] flashed upon me at once. About five feet just
       above the top of the turnstile, and crossing the arch of the foot-path so
       as to constitute a brace, there extended a flat iron bar, lying with its
       breadth horizontally, and forming one of a series that served to
@@ -360,7 +360,7 @@ A Tale With a Moral.
       He did not long survive his terrible loss. The homœopathists did not give
       him little enough physic, and what little they did give him he hesitated
       to take. So in the end he grew worse, and at length died, a lesson to all
-      riotous livers. I bedewed his grave with my tears, worked a bar sinister
+      riotous livers. I bedewed his [[Grave|grave]] with my [[Tears|tears]], worked a bar sinister
       on his family escutcheon, and, for the general expenses of his funeral,
       sent in my very moderate bill to the transcendentalists. The scoundrels
       refused to pay it, so I had Mr. Dammit dug up at once, and sold him for

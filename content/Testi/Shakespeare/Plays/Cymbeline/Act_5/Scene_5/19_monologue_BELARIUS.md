@@ -1,5 +1,5 @@
 ---
-title: "Cymbeline — Act V, Scene 5 — monologue (BELARIUS) [19]"
+title: "[[Cymbeline]] — Act V, Scene 5 — monologue ([[Belarius|BELARIUS]]) [19]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CYMBELINE-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| BELARIUS | So sure as you your father’s. I, old Morgan, Am that Belarius whom you sometime banished. Your pleasure was my mere offence, my punishment Itself, and all my treason. That I suffered Was all the harm I did. These gentle princes— For such and so they are-these twenty years Have I trained up. Those arts they have as I Could put into them. My breeding was, sir, As your highness knows. Their nurse Euriphile, Whom for the theft I wedded, stole these children Upon my banishment. I moved her to‘t, Having received the punishment before For that which I did then. Beaten for loyalty Excited me to treason. Their dear loss, The more of you ‘twas felt, the more it shaped Unto my end of stealing them. But, gracious sir, Here are your sons again, and I must lose Two of the sweet’st companions in the world. The benediction of these covering heavens Fall on their heads like dew, for they are worthy To inlay heaven with stars. |
+| [[Belarius|BELARIUS]] | So sure as you your father’s. I, old Morgan, Am that [[Belarius]] whom you sometime banished. Your pleasure was my mere offence, my punishment Itself, and all my treason. That I suffered Was all the harm I did. These gentle princes— For such and so they are-these twenty years Have I trained up. Those arts they have as I Could put into them. My breeding was, sir, As your highness knows. Their [[Nurse|nurse]] Euriphile, Whom for the theft I wedded, stole these children Upon my banishment. I moved her to‘t, Having received the punishment before For that which I did then. Beaten for loyalty Excited me to treason. Their dear loss, The more of you ‘twas felt, the more it shaped Unto my end of stealing them. But, gracious sir, Here are your sons again, and I must lose Two of the sweet’st companions in the world. The benediction of these covering heavens Fall on their heads like dew, for they are worthy To inlay heaven with [[Stars|stars]]. |

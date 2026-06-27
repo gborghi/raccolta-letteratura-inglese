@@ -22,7 +22,7 @@ ON THE LOOK OUT
 In these times of ours, though concerning the exact year there is no
 need to be precise, a boat of dirty and disreputable appearance, with
 two figures in it, floated on the Thames, between Southwark bridge which
-is of iron, and London Bridge which is of stone, as an autumn evening
+is of iron, and [[London]] Bridge which is of stone, as an [[Autumn|autumn]] evening
 was closing in.
 
 The figures in this boat were those of a strong man with ragged grizzled
@@ -32,19 +32,19 @@ rowed, pulling a pair of sculls very easily; the man, with the
 rudder-lines slack in his hands, and his hands loose in his waistband,
 kept an eager look out. He had no net, hook, or line, and he could
 not be a fisherman; his boat had no cushion for a sitter, no paint, no
-inscription, no appliance beyond a rusty boathook and a coil of rope,
+[[Inscription|inscription]], no appliance beyond a rusty boathook and a coil of rope,
 and he could not be a waterman; his boat was too crazy and too small
 to take in cargo for delivery, and he could not be a lighterman or
-river-carrier; there was no clue to what he looked for, but he looked
+[[River|river]]-carrier; there was no clue to what he looked for, but he looked
 for something, with a most intent and searching gaze. The tide, which
 had turned an hour before, was running down, and his eyes watched
 every little race and eddy in its broad sweep, as the boat made slight
 head-way against it, or drove stern foremost before it, according as he
 directed his daughter by a movement of his head. She watched his face
-as earnestly as he watched the river. But, in the intensity of her look
+as earnestly as he watched the [[River|river]]. But, in the intensity of her look
 there was a touch of dread or horror.
 
-Allied to the bottom of the river rather than the surface, by reason of
+Allied to the [[Bottom|bottom]] of the [[River|river]] rather than the surface, by reason of
 the slime and ooze with which it was covered, and its sodden state, this
 boat and the two figures in it obviously were doing something that they
 often did, and were seeking what they often sought. Half savage as the
@@ -57,15 +57,15 @@ steady gaze. So with every lithe action of the girl, with every turn of
 her wrist, perhaps most of all with her look of dread or horror; they
 were things of usage.
 
-‘Keep her out, Lizzie. Tide runs strong here. Keep her well afore the
+‘Keep her out, Lizzie. Tide runs strong here. Keep her [[Well|well]] afore the
 sweep of it.’
 
 Trusting to the girl’s skill and making no use of the rudder, he eyed
 the coming tide with an absorbed attention. So the girl eyed him. But,
 it happened now, that a slant of light from the setting sun glanced into
-the bottom of the boat, and, touching a rotten stain there which bore
+the [[Bottom|bottom]] of the boat, and, touching a rotten stain there which bore
 some resemblance to the outline of a muffled human form, coloured it as
-though with diluted blood. This caught the girl’s eye, and she shivered.
+though with diluted [[Blood|blood]]. This caught the girl’s eye, and she shivered.
 
 ‘What ails you?’ said the man, immediately aware of it, though so intent
 on the advancing waters; ‘I see nothing afloat.’
@@ -75,8 +75,8 @@ come back to the boat for a moment, travelled away again. Wheresoever
 the strong tide met with an impediment, his gaze paused for an instant.
 At every mooring-chain and rope, at every stationery boat or barge that
 split the current into a broad-arrowhead, at the offsets from the piers
-of Southwark Bridge, at the paddles of the river steamboats as they beat
-the filthy water, at the floating logs of timber lashed together lying
+of Southwark Bridge, at the paddles of the [[River|river]] steamboats as they beat
+the filthy [[Water|water]], at the floating logs of timber lashed together lying
 off certain wharves, his shining eyes darted a hungry look. After a
 darkening hour or so, suddenly the rudder-lines tightened in his hold,
 and he steered hard towards the Surrey shore.
@@ -87,22 +87,22 @@ jerk, and the upper half of the man was stretched out over the stern.
 
 The girl pulled the hood of a cloak she wore, over her head and over her
 face, and, looking backward so that the front folds of this hood were
-turned down the river, kept the boat in that direction going before the
+turned down the [[River|river]], kept the boat in that direction going before the
 tide. Until now, the boat had barely held her own, and had hovered about
 one spot; but now, the banks changed swiftly, and the deepening shadows
-and the kindling lights of London Bridge were passed, and the tiers of
+and the kindling lights of [[London]] Bridge were passed, and the tiers of
 shipping lay on either hand.
 
 It was not until now that the upper half of the man came back into the
 boat. His arms were wet and dirty, and he washed them over the side. In
-his right hand he held something, and he washed that in the river too.
+his right hand he held something, and he washed that in the [[River|river]] too.
 It was money. He chinked it once, and he blew upon it once, and he spat
 upon it once,—‘for luck,’ he hoarsely said—before he put it in his
 pocket.
 
 ‘Lizzie!’
 
-The girl turned her face towards him with a start, and rowed in silence.
+The girl turned her face towards him with a start, and rowed in [[Silence|silence]].
 Her face was very pale. He was a hook-nosed man, and with that and his
 bright eyes and his ruffled head, bore a certain likeness to a roused
 bird of prey.
@@ -122,7 +122,7 @@ expostulation stopped him and he resumed his seat.
 
 ‘None, none. But I cannot bear it.’
 
-‘It’s my belief you hate the sight of the very river.’
+‘It’s my belief you hate the sight of the very [[River|river]].’
 
 ‘I—I do not like it, father.’
 
@@ -133,10 +133,10 @@ in her rowing, seeming to turn deadly faint. It escaped his attention,
 for he was glancing over the stern at something the boat had in tow.
 
 ‘How can you be so thankless to your best friend, Lizzie? The very
-fire that warmed you when you were a babby, was picked out of the river
+[[Fire|fire]] that warmed you when you were a babby, was picked out of the [[River|river]]
 alongside the coal barges. The very basket that you slept in, the tide
 washed ashore. The very rockers that I put it upon to make a cradle
-of it, I cut out of a piece of wood that drifted from some ship or
+of it, I cut out of a piece of wood that drifted from some [[Ship|ship]] or
 another.’
 
 Lizzie took her right hand from the scull it held, and touched her
@@ -146,14 +146,14 @@ appearance, though in rather better trim, came out from a dark place and
 dropped softly alongside.
 
 ‘In luck again, Gaffer?’ said a man with a squinting leer, who sculled
-her and who was alone, ‘I know’d you was in luck again, by your wake as
+her and who was [[Alone|alone]], ‘I know’d you was in luck again, by your wake as
 you come down.’
 
 ‘Ah!’ replied the other, drily. ‘So you’re out, are you?’
 
 ‘Yes, pardner.’
 
-There was now a tender yellow moonlight on the river, and the new comer,
+There was now a tender yellow moonlight on the [[River|river]], and the new comer,
 keeping half his boat’s length astern of the other boat, looked hard at
 its track.
 
@@ -161,13 +161,13 @@ its track.
 Gaffer, and in luck again, by George if he ain’t! Scull it is,
 pardner—don’t fret yourself—I didn’t touch him.’ This was in answer
 to a quick impatient movement on the part of Gaffer: the speaker at the
-same time unshipping his scull on that side, and laying his hand on the
+same [[Time|time]] unshipping his scull on that side, and laying his hand on the
 gunwale of Gaffer’s boat and holding to it.
 
-‘He’s had touches enough not to want no more, as well as I make him
+‘He’s had touches enough not to want no more, as [[Well|well]] as I make him
 out, Gaffer! Been a knocking about with a pretty many tides, ain’t he
 pardner? Such is my out-of-luck ways, you see! He must have passed me
-when he went up last time, for I was on the lookout below bridge here. I
+when he went up last [[Time|time]], for I was on the lookout below bridge here. I
 a’most think you’re like the wulturs, pardner, and scent ’em out.’
 
 He spoke in a dropped voice, and with more than one glance at Lizzie who
@@ -205,18 +205,18 @@ of the sneaking spirit that robs a live man.’
 
 ‘I’ll tell you what it is—.’
 
-‘No you won’t. I’ll tell you what it is. You got off with a short time
+‘No you won’t. I’ll tell you what it is. You got off with a short [[Time|time]]
 of it for putting your hand in the pocket of a sailor, a live sailor.
 Make the most of it and think yourself lucky, but don’t think after
-that to come over ME with your pardners. We have worked together in time
-past, but we work together no more in time present nor yet future. Let
+that to come over ME with your pardners. We have worked together in [[Time|time]]
+past, but we work together no more in [[Time|time]] present nor yet future. Let
 go. Cast off!’
 
 ‘Gaffer! If you think to get rid of me this way—.’
 
 ‘If I don’t get rid of you this way, I’ll try another, and chop you over
 the fingers with the stretcher, or take a pick at your head with the
-boat-hook. Cast off! Pull you, Lizzie. Pull home, since you won’t let
+boat-hook. Cast off! Pull you, Lizzie. Pull [[Home|home]], since you won’t let
 your father pull.’
 
 Lizzie shot ahead, and the other boat fell astern. Lizzie’s father,

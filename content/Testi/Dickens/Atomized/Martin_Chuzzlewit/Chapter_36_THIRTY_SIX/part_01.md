@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,15 +16,15 @@ tags:
 
 CHAPTER THIRTY-SIX
 
-TOM PINCH DEPARTS TO SEEK HIS FORTUNE. WHAT HE FINDS AT STARTING
+[[Tom Pinch|TOM PINCH]] DEPARTS TO SEEK HIS FORTUNE. WHAT HE FINDS AT STARTING
 
 
-Oh! What a different town Salisbury was in Tom Pinch’s eyes to be sure,
+Oh! What a different town Salisbury was in [[Tom Pinch]]’s eyes to be sure,
 when the substantial Pecksniff of his heart melted away into an idle
-dream! He possessed the same faith in the wonderful shops, the same
+dream! He possessed the same [[Faith|faith]] in the wonderful shops, the same
 intensified appreciation of the mystery and wickedness of the place;
 made the same exalted estimate of its wealth, population, and resources;
-and yet it was not the old city nor anything like it. He walked into the
+and yet it was not the old [[City|city]] nor anything like it. He walked into the
 market while they were getting breakfast ready for him at the Inn; and
 though it was the same market as of old, crowded by the same buyers and
 sellers; brisk with the same business; noisy with the same confusion of
@@ -59,32 +59,32 @@ seriously considering his own affairs, and taking counsel thereon with
 his friend the organist’s assistant.
 
 The organist’s assistant gave it as his decided opinion that whatever
-Tom did, he must go to London; for there was no place like it. Which
+Tom did, he must go to [[London]]; for there was no place like it. Which
 may be true in the main, though hardly, perhaps, in itself, a sufficient
 reason for Tom’s going there.
 
-But Tom had thought of London before, and had coupled with it thoughts
+But Tom had thought of [[London]] before, and had coupled with it thoughts
 of his sister, and of his old friend John Westlock, whose advice
 he naturally felt disposed to seek in this important crisis of his
-fortunes. To London, therefore, he resolved to go; and he went away to
+fortunes. To [[London]], therefore, he resolved to go; and he went away to
 the coach-office at once, to secure his place. The coach being already
-full, he was obliged to postpone his departure until the next night; but
-even this circumstance had its bright side as well as its dark one, for
+full, he was obliged to postpone his departure until the next [[Night|night]]; but
+even this circumstance had its bright side as [[Well|well]] as its dark one, for
 though it threatened to reduce his poor purse with unexpected country
 charges, it afforded him an opportunity of writing to Mrs Lupin and
-appointing his box to be brought to the old finger-post at the old time;
+appointing his box to be brought to the old finger-post at the old [[Time|time]];
 which would enable him to take that treasure with him to the metropolis,
 and save the expense of its carriage. ‘So,’ said Tom, comforting
 himself, ‘it’s very nearly as broad as it’s long.’
 
 And it cannot be denied that, when he had made up his mind to even this
-extent, he felt an unaccustomed sense of freedom--a vague and indistinct
+extent, he felt an unaccustomed sense of [[Freedom|freedom]]--a vague and indistinct
 impression of holiday-making--which was very luxurious. He had his
 moments of depression and anxiety, and they were, with good reason,
 pretty numerous; but still, it was wonderfully pleasant to reflect that
 he was his own master, and could plan and scheme for himself. It was
 startling, thrilling, vast, difficult to understand; it was a stupendous
-truth, teeming with responsibility and self-distrust; but in spite of
+[[Truth|truth]], teeming with responsibility and [[Self|self]]-distrust; but in spite of
 all his cares, it gave a curious relish to the viands at the Inn, and
 interposed a dreamy haze between him and his prospects, in which they
 sometimes showed to magical advantage.
@@ -92,7 +92,7 @@ sometimes showed to magical advantage.
 In this unsettled state of mind, Tom went once more to bed in the low
 four-poster, to the same immovable surprise of the effigies of the
 former landlord and the fat ox; and in this condition, passed the whole
-of the succeeding day. When the coach came round at last with ‘London’
+of the succeeding day. When the coach came round at last with ‘[[London]]’
 blazoned in letters of gold upon the boot, it gave Tom such a turn, that
 he was half disposed to run away. But he didn’t do it; for he took his
 seat upon the box instead, and looking down upon the four greys, felt
@@ -107,13 +107,13 @@ didn’t handle his gloves like another man, but put them on--even when he
 was standing on the pavement, quite detached from the coach--as if the
 four greys were, somehow or other, at the ends of the fingers. It was
 the same with his hat. He did things with his hat, which nothing but an
-unlimited knowledge of horses and the wildest freedom of the road, could
+unlimited knowledge of horses and the wildest [[Freedom|freedom]] of the [[Road|road]], could
 ever have made him perfect in. Valuable little parcels were brought to
 him with particular instructions, and he pitched them into this hat, and
 stuck it on again; as if the laws of gravity did not admit of such
 an event as its being knocked off or blown off, and nothing like an
 accident could befall it. The guard, too! Seventy breezy miles a day
 were written in his very whiskers. His manners were a canter; his
-conversation a round trot. He was a fast coach upon a down-hill turnpike
-road; he was all pace. A waggon couldn’t have moved slowly, with that
+conversation a round trot. He was a fast coach upon a down-[[Hill|hill]] turnpike
+[[Road|road]]; he was all pace. A waggon couldn’t have moved slowly, with that
 guard and his key-bugle on the top of it.

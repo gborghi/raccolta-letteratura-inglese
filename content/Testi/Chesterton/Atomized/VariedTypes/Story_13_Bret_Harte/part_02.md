@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Bret Harte (part 2)"
+title: "[[VariedTypes]] — Bret Harte (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-and thanked his stars if he had thought of it. This is real parody,
+and thanked his [[Stars|stars]] if he had thought of it. This is real [[Parody|parody]],
 
-inseparable from admiration. It is the same in the parody of Dumas,
+inseparable from admiration. It is the same in the [[Parody|parody]] of Dumas,
 
 which is arranged on the system of "Aramis killed three of them. Porthos
 
@@ -24,9 +24,9 @@ three. Athos three." You cannot write that kind of thing unless you
 
 have first exulted in the arithmetical ingenuity of the plots of Dumas.
 
-It is the same in the parody of Charlotte Brontë, which opens with a
+It is the same in the [[Parody|parody]] of Charlotte Brontë, which opens with a
 
-dream of a storm-beaten cliff, containing jewels and pelicans. Bret
+dream of a [[Storm|storm]]-beaten cliff, containing jewels and pelicans. Bret
 
 Harte could not have written it unless he had really understood the
 
@@ -34,19 +34,19 @@ triumph of the Brontës, the triumph of asserting that great mysteries
 
 lie under the surface of the most sullen life, and that the most real
 
-part of a man is in his dreams.
+part of a man is in his [[Dreams|dreams]].
 
 
 
-This kind of parody is for ever removed from the purview of ordinary
+This kind of [[Parody|parody]] is for ever removed from the purview of ordinary
 
-American humour. Can anyone imagine Mark Twain, that admirable author,
+American [[Humour|humour]]. Can anyone imagine Mark Twain, that admirable author,
 
-writing even a tolerable imitation of authors so intellectually
+writing even a tolerable [[Imitation|imitation]] of authors so intellectually
 
 individual as Hugo or Charlotte Brontë? Mark Twain would yield to the
 
-spirit of contempt which destroys parody. All those who hate authors
+spirit of contempt which destroys [[Parody|parody]]. All those who hate authors
 
 fail to satirise them, for they always accuse them of the wrong faults.
 
@@ -58,7 +58,7 @@ of Meredith call his gospel too subtle, instead of what it is, a
 
 gospel, if anything, too robust. And it is this vulgar misunderstanding
 
-which we find in most parody--which we find in all American parody--but
+which we find in most [[Parody|parody]]--which we find in all American [[Parody|parody]]--but
 
 which we never find in the parodies of Bret Harte.
 
@@ -80,9 +80,9 @@ which we never find in the parodies of Bret Harte.
 
 
 
-This could only be written by a genuine admirer of Edgar Allan Poe, who
+This could only be written by a genuine admirer of [[Edgar]] Allan Poe, who
 
-permitted himself for a moment to see the fun of the thing. Parody might
+permitted himself for a moment to see the fun of the thing. [[Parody]] might
 
 indeed be defined as the worshipper's half-holiday.
 
@@ -90,7 +90,7 @@ indeed be defined as the worshipper's half-holiday.
 
 The same general characteristic of sympathy amounting to reverence marks
 
-Bret Harte's humour in his better-known class of works, the short
+Bret Harte's [[Humour|humour]] in his better-known class of works, the short
 
 stories. He does not make his characters absurd in order to make them
 
@@ -110,43 +110,43 @@ remarks I read the other day, had compared him on this ground with old
 
 Mr. Weller. It would be difficult to find a comparison indicating a more
 
-completely futile instinct for literature. Tony Weller and Yuba Bill
+completely futile instinct for literature. [[Tony Weller]] and Yuba Bill
 
 were both coach-drivers, and this fact establishes a resemblance just
 
 about as much as the fact that Jobson in "Rob Roy" and George Warrington
 
-in "Pendennis" were both lawyers; or that Antonio and Mr. Pickwick were
+in "Pendennis" were both lawyers; or that [[Antonio]] and Mr. [[Pickwick]] were
 
 both merchants; or that Sir Galahad and Sir Willoughby Patten were both
 
-knights. Tony Weller is a magnificent grotesque. He is a gargoyle, and
+knights. [[Tony Weller]] is a magnificent [[Grotesque|grotesque]]. He is a gargoyle, and
 
-his mouth, like the mouths of so many gargoyles, is always open. He is
+his mouth, like the mouths of so many [[gargoyles]], is always open. He is
 
 garrulous, exuberant, flowery, preposterously sociable. He holds that
 
 great creed of the convivial, the creed which is at the back of so much
 
-that is greatest in Dickens, the creed that eternity begins at ten
+that is greatest in Dickens, the creed that [[Eternity|eternity]] begins at ten
 
-o'clock at night, and that nights last forever. But Yuba Bill is a
+o'[[Clock|clock]] at [[Night|night]], and that nights last forever. But Yuba Bill is a
 
 figure of a widely different character. He is not convivial; it might
 
 almost be said that he is too great ever to be sociable. A circle of
 
-quiescence and solitude such as that which might ring a saint or a
+quiescence and [[Solitude|solitude]] such as that which might ring a saint or a
 
 hermit rings this majestic and profound humourist. His jokes do not flow
 
 upon him like those of Mr. Weller, sparkling, continual, and deliberate,
 
-like the play of a fountain in a pleasure garden; they fall suddenly and
+like the play of a fountain in a pleasure [[Garden|garden]]; they fall suddenly and
 
 capriciously, like a crash of avalanches from a great mountain. Tony
 
-Weller has the noisy humour of London, Yuba Bill has the silent humour
+Weller has the noisy [[Humour|humour]] of [[London]], Yuba Bill has the silent [[Humour|humour]]
 
 of the earth.
 
@@ -162,15 +162,15 @@ moment the story in which the character of Yuba Bill is exhibited in its
 
 most solemn grandeur, but I remember that it concerned a ride on the
 
-San Francisco stage coach, a difficulty arising from storm and darkness,
+San Francisco stage coach, a difficulty arising from [[Storm|storm]] and darkness,
 
 and an intelligent young man who suggested to Yuba Bill that a certain
 
 manner of driving the coach in a certain direction might minimise the
 
-dangers of the journey. A profound silence followed the intelligent
+dangers of the [[Journey|journey]]. A profound [[Silence|silence]] followed the intelligent
 
-young man's suggestion, and then (I quote from memory) Yuba Bill
+young man's suggestion, and then (I quote from [[Memory|memory]]) Yuba Bill
 
 observed at last:
 
@@ -206,11 +206,11 @@ paints so powerfully; the stormy skies, the sombre gorge, the rocking
 
 and spinning coach, and high above the feverish passengers the huge
 
-dark form of Yuba Bill, a silent mountain of humour.
+dark form of Yuba Bill, a silent mountain of [[Humour|humour]].
 
 
 
-Another unrecovered and possibly irrecoverable fragment about Yuba Bill,
+Another unrecovered and possibly irrecoverable [[Fragment|fragment]] about Yuba Bill,
 
 I recall in a story about his visiting a lad who had once been his
 

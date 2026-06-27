@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq (part 4)"
+title: "[[The Literary Life of Thingum Bob, Esq]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      and I hope never to be subjected to a criticism so searching, or
+      and I [[Hope|hope]] never to be subjected to a criticism so searching, or
 
       to rebukes so withering, as were bestowed by Mr. Crab upon that
 
@@ -22,7 +22,7 @@ tags:
 
       the “Gad-Fly” as something superhuman; but Mr. Crab soon
 
-      disabused me of that idea. He set the literary as well as the
+      disabused me of that idea. He set the literary as [[Well|well]] as the
 
       personal character of the Fly (so Mr. C. satirically designated
 
@@ -30,17 +30,17 @@ tags:
 
       little better than he should be. He had written infamous things.
 
-      He was a penny-a-liner, and a buffoon. He was a villain. He had
+      He was a penny-a-liner, and a buffoon. He was a [[Villain|villain]]. He had
 
-      composed a tragedy which set the whole country in a guffaw, and a
+      composed a [[Tragedy|tragedy]] which set the whole country in a guffaw, and a
 
-      farce which deluged the universe in tears. Besides all this, he
+      farce which deluged the universe in [[Tears|tears]]. Besides all this, he
 
       had the impudence to pen what he meant for a lampoon upon
 
       himself, (Mr. Crab,) and the temerity to style him “an ass.”
 
-      Should I at any time wish to express my opinion of Mr. Fry, the
+      Should I at any [[Time|time]] wish to express my opinion of Mr. Fry, the
 
       pages of the “Lollipop,” Mr. Crab assured me, were at my
 
@@ -136,7 +136,7 @@ tags:
 
       contribution—the _first_, I say,—it is never the Magazine custom
 
-      to pay for—you comprehend, eh? The truth is, we are usually the
+      to pay for—you comprehend, eh? The [[Truth|truth]] is, we are usually the
 
       _recipients_ in such case.” [Mr. Crab smiled blandly as he
 
@@ -148,7 +148,7 @@ tags:
 
       disburse what we term in France the _argent comptant_—I have no
 
-      doubt you understand. In a quarter or two after publication of
+      [[Doubt|doubt]] you understand. In a quarter or two after publication of
 
       the article—or in a year or two—we make no objection to giving
 
@@ -156,21 +156,21 @@ tags:
 
       our affairs as to be quite certain of a ‘burst up’ in six. I
 
-      really _do_ hope, Mr. Bob, that you will look upon this
+      really _do_ [[Hope|hope]], Mr. Bob, that you will look upon this
 
       explanation as satisfactory.” Here Mr. Crab concluded, and the
 
-      tears stood in his eyes.
+      [[Tears|tears]] stood in his eyes.
 
 
 
-      Grieved to the soul at having been, however innocently, the cause
+      Grieved to the [[Soul|soul]] at having been, however innocently, the cause
 
-      of pain to so eminent and so sensitive a man, I hastened to
+      of [[Pain|pain]] to so eminent and so sensitive a man, I hastened to
 
       apologize, and to reassure him, by expressing my perfect
 
-      coincidence with his views, as well as my entire appreciation of
+      coincidence with his views, as [[Well|well]] as my entire appreciation of
 
       the delicacy of his position. Having done all this in a neat
 
@@ -196,7 +196,7 @@ tags:
 
 
 
-      The “Owl,” a journal of profound sagacity, and well known for the
+      The “Owl,” a journal of profound sagacity, and [[Well|well]] known for the
 
       deliberate gravity of its literary decisions—the “Owl,” I say,
 
@@ -208,8 +208,8 @@ tags:
 
       surpasses its predecessors, and sets competition at defiance. In
 
-      the beauty of its typography and paper—in the number and
+      the [[Beauty|beauty]] of its typography and paper—in the number and
 
-      excellence of its steel plates—as well as in the literary merit
+      excellence of its steel plates—as [[Well|well]] as in the literary merit
 
       of its contributions—the ‘Lollipop’ compares with its slow-paced

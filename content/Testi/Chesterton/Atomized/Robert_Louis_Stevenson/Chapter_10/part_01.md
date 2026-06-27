@@ -23,9 +23,9 @@ and the tradition continued in the pirates of _Peter Pan,_ form
 an episode that is ended, may still be asked to consider it
 as an episode; to consider it, or perhaps to reconsider it.
 Even those who hardly feel it as a piece of literature
-will be forced at least to accept it as a piece of history.
+will be forced at least to accept it as a piece of [[history]].
 I am not one of these dismal and disinherited persons, as the reader
-has perhaps by this time darkly suspected; but I am quite content
+has perhaps by this [[Time|time]] darkly suspected; but I am quite content
 for the moment to put aside the question of whether their lack of
 appreciation is due to the advance of literary experiment or the decline
 of literary taste.  I ask them for the moment to consider it not
@@ -41,29 +41,29 @@ how Stevenson's romanticism was related to realism and rationalism
 and all the great movements of the nineteenth-century. In short,
 I am content for the moment if all that wonderful library of books
 is lumped together under the name of one of the least of them;
-and considered as a Footnote to History.
+and considered as a Footnote to [[history|History]].
 
 What was the historical meaning then of that strange splash
 of crimson lake on the drab age of Gissing and Howells;
-like a burlesque bloodstain in a detective story?  To begin with,
+like a burlesque bloodstain in a [[Detective|detective]] story?  To begin with,
 I foresee that in having stated the matter thus historically, I have
 laid myself open to some criticisms of the strictly historical sort.
-It may be said that the dates and details of Stevenson's life and time
+It may be said that the dates and details of Stevenson's life and [[Time|time]]
 do not correspond with such a comparison; that he came too early
 in the Victorian progress to be really a type of the 'nineties;
 and that his real rivals or models were the Victorian Philistines.
-I do not admit this as a truth, even where I might admit part
+I do not admit this as a [[Truth|truth]], even where I might admit part
 of it as a fact.  An anachronism is often simply an ellipsis;
 and an ellipsis is often simply a necessity.  The thing that a living
 intelligence like that of Stevenson feels is not the stale and
 static conventions of his world, but the way the world is going.
-We talk familiarly of time and tide; and, in a case like this,
-it is idle to remember a time without realising that it was a tide.
-The author of _The Ebb-Tide_ knew well enough what tide was at that
+We talk familiarly of [[Time|time]] and tide; and, in a case like this,
+it is idle to remember a [[Time|time]] without realising that it was a tide.
+The author of _The Ebb-Tide_ knew [[Well|well]] enough what tide was at that
 moment ebbing.  It was the tide of what many regarded as Victorian
-virtue and all the happiness described in the three-volume novel.
-Stevenson knew very well that this stuffy sort of stuff was not
-the strong menace or promise of the coming time.  He sometimes
+virtue and all the happiness described in the three-volume [[Novel|novel]].
+Stevenson knew very [[Well|well]] that this stuffy sort of stuff was not
+the strong menace or promise of the coming [[Time|time]].  He sometimes
 pokes fun at the Philistines; but he thrusts with furious energy
 at the Aesthetes.  Compare for instance the way in which he speaks
 of Walter Besant with the way in which he speaks of Henry James,
@@ -82,35 +82,35 @@ he attacks too late.
 
 Or again, it may be said that I exaggerate the novelty of work
 like that of _Treasure Island;_ and that it was but a natural
-continuation of the historical novel of Scott or the nautical
-novel of Marryat.  Here again I think the critic will not only
+continuation of the [[Historical Novel|historical novel]] of Scott or the nautical
+[[Novel|novel]] of Marryat.  Here again I think the critic will not only
 miss a fine distinction, but a very sharp point.  The old novels
 were novels; they were not boys' stories, but simply stories.
-The comedy of the Oldbucks and Osbaldistones is as much a solid
-comedy of character as that of Mr. Bennett or Miss Bates.
-It is only Scott's incurable and almost unconscious sense of romance
-that sends the comedy characters to the dangerous cliff or to
+The [[Comedy|comedy]] of the Oldbucks and Osbaldistones is as much a solid
+[[Comedy|comedy]] of character as that of Mr. Bennett or [[Miss Bates]].
+It is only Scott's incurable and almost unconscious sense of [[Romance|romance]]
+that sends the [[Comedy|comedy]] characters to the dangerous cliff or to
 the Clachan of Aberfoyle.  There was no deliberate and defiant
 return to juvenile art out of season, such as that which is
-flaunted in Stevenson's letters as well as in Stevenson's story.
-The point can be best illustrated once more by the memory of
+flaunted in Stevenson's letters as [[Well|well]] as in Stevenson's story.
+The point can be best illustrated once more by the [[Memory|memory]] of
 Skelt's Juvenile Drama.  It is one thing to say that a painter
 like Maclise or an actor like Macready may have had a style
 that would strike us as stagey and pompous.  Maclise and Macready
 did not themselves think that they were stagey and pompous.
 It would be quite another thing to revive the actual figures of the old
 toy theatre, almost (in a sense) _because_ they were stagey and pompous.
-Stevenson obviously resurrected all this romance, not because it
-was the fashion of his time, like the historical painting of Maclise,
-but because it was _against_ the growing fashion of his time; and had
+Stevenson obviously resurrected all this [[Romance|romance]], not because it
+was the fashion of his [[Time|time]], like the historical painting of Maclise,
+but because it was _against_ the growing fashion of his [[Time|time]]; and had
 to be fought for as a new fashion because it was really an old fashion.
 He glorified an antiquated Skeltery, when he knew it was antiquated.
 He concentrated on a certain type of book for boys, when he knew it
-had long been abandoned to boys.  He is often called self-conscious;
-and in this sense he was very self-conscious. He was as self-consciously
+had long been abandoned to boys.  He is often called [[Self|self]]-conscious;
+and in this sense he was very [[Self|self]]-conscious. He was as [[Self|self]]-consciously
 copying an old piratical penny dreadful as the Pre-Raphaelites
-were self-consciously copying an old mediaeval religious picture.
+were [[Self|self]]-consciously copying an old mediaeval religious picture.
 As they were carefully inlaying it with jewels of childlike colour,
-he was carefully resetting the lost jewel of his own childhood.
+he was carefully resetting the lost [[Jewel|jewel]] of his own [[Childhood|childhood]].
 But he knew he was not merely fashionable, just as he knew that
 he was not really five years old.

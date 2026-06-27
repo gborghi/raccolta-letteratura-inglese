@@ -15,8 +15,8 @@ tags:
 
 
 Another five minutes had elapsed, and the surgeon had resolved to
-explore the house, in search of some one to whom he might make his
-errand known, when the room-door opened, and his last night’s visitor,
+explore the [[house]], in search of some one to whom he might make his
+errand known, when the room-door opened, and his last [[Night|night]]’s visitor,
 dressed in exactly the same manner, with the veil lowered as before,
 motioned him to advance. The singular height of her form, coupled with
 the circumstance of her not speaking, caused the idea to pass across
@@ -28,7 +28,7 @@ exposed the absurdity of the suspicion; and he hastily followed.
 The woman led the way up-stairs to the front room, and paused at the
 door, to let him enter first. It was scantily furnished with an old
 deal box, a few chairs, and a tent bedstead, without hangings or
-cross-rails, which was covered with a patchwork counterpane. The dim
+[[Cross|cross]]-rails, which was covered with a patchwork counterpane. The dim
 light admitted through the curtain which he had noticed from the
 outside, rendered the objects in the room so indistinct, and
 communicated to all of them so uniform a hue, that he did not, at
@@ -69,24 +69,24 @@ withdrew his hand from the man’s breast. ‘Stay—undraw that curtain!’
 ‘Undraw that curtain!’ repeated the surgeon in an agitated tone.
 
 ‘I darkened the room on purpose,’ said the woman, throwing herself
-before him as he rose to undraw it.—‘Oh! sir, have pity on me! If it
+before him as he [[Rose|rose]] to undraw it.—‘Oh! sir, have pity on me! If it
 can be of no use, and he is really dead, do not expose that form to
 other eyes than mine!’
 
-‘This man died no natural or easy death,’ said the surgeon. ‘I _must_
-see the body!’ With a motion so sudden, that the woman hardly knew that
+‘This man died no natural or easy [[Death|death]],’ said the surgeon. ‘I _must_
+see the [[Body|body]]!’ With a motion so sudden, that the woman hardly knew that
 he had slipped from beside her, he tore open the curtain, admitted the
 full light of day, and returned to the bedside.
 
-‘There has been violence here,’ he said, pointing towards the body, and
+‘There has been violence here,’ he said, pointing towards the [[Body|body]], and
 gazing intently on the face, from which the black veil was now, for the
-first time, removed. In the excitement of a minute before, the female
+first [[Time|time]], removed. In the excitement of a minute before, the female
 had thrown off the bonnet and veil, and now stood with her eyes fixed
 upon him. Her features were those of a woman about fifty, who had once
 been handsome. Sorrow and weeping had left traces upon them which not
-time itself would ever have produced without their aid; her face was
+[[Time|time]] itself would ever have produced without their aid; her face was
 deadly pale; and there was a nervous contortion of the lip, and an
-unnatural fire in her eye, which showed too plainly that her bodily and
+unnatural [[Fire|fire]] in her eye, which showed too plainly that her bodily and
 mental powers had nearly sunk, beneath an accumulation of misery.
 
 ‘There has been violence here,’ said the surgeon, preserving his
@@ -103,9 +103,9 @@ searching glance.
 
 ‘Look at the butchers’ marks, and then ask me!’ she replied.
 
-The surgeon turned his face towards the bed, and bent over the body
-which now lay full in the light of the window. The throat was swollen,
-and a livid mark encircled it. The truth flashed suddenly upon him.
+The surgeon turned his face towards the bed, and bent over the [[Body|body]]
+which now lay full in the light of the [[Window|window]]. The throat was swollen,
+and a livid mark encircled it. The [[Truth|truth]] flashed suddenly upon him.
 
 ‘This is one of the men who were hanged this morning!’ he exclaimed,
 turning away with a shudder.
@@ -117,15 +117,15 @@ turning away with a shudder.
 ‘_My son_,’ rejoined the woman; and fell senseless at his feet.
 
 It was true. A companion, equally guilty with himself, had been
-acquitted for want of evidence; and this man had been left for death,
+acquitted for want of evidence; and this man had been left for [[Death|death]],
 and executed. To recount the circumstances of the case, at this distant
-period, must be unnecessary, and might give pain to some persons still
-alive. The history was an every-day one. The mother was a widow without
+period, must be unnecessary, and might give [[Pain|pain]] to some persons still
+alive. The [[history]] was an every-day one. The mother was a widow without
 friends or money, and had denied herself necessaries to bestow them on
-her orphan boy. That boy, unmindful of her prayers, and forgetful of
+her [[Orphan|orphan]] boy. That boy, unmindful of her prayers, and forgetful of
 the sufferings she had endured for him—incessant anxiety of mind, and
-voluntary starvation of body—had plunged into a career of dissipation
-and crime. And this was the result; his own death by the hangman’s
+voluntary starvation of [[Body|body]]—had plunged into a career of dissipation
+and crime. And this was the result; his own [[Death|death]] by the hangman’s
 hands, and his mother’s shame, and incurable insanity.
 
 For many years after this occurrence, and when profitable and arduous
@@ -135,11 +135,11 @@ harmless mad woman; not only soothing her by his presence and kindness,
 but alleviating the rigour of her condition by pecuniary donations for
 her comfort and support, bestowed with no sparing hand. In the
 transient gleam of recollection and consciousness which preceded her
-death, a prayer for his welfare and protection, as fervent as mortal
-ever breathed, rose from the lips of this poor friendless creature.
-That prayer flew to Heaven, and was heard. The blessings he was
+[[Death|death]], a [[prayer]] for his welfare and protection, as fervent as mortal
+ever breathed, [[Rose|rose]] from the lips of this poor friendless creature.
+That [[prayer]] flew to Heaven, and was heard. The blessings he was
 instrumental in conferring, have been repaid to him a thousand-fold;
 but, amid all the honours of rank and station which have since been
-heaped upon him, and which he has so well earned, he can have no
+heaped upon him, and which he has so [[Well|well]] earned, he can have no
 reminiscence more gratifying to his heart than that connected with The
 Black Veil.

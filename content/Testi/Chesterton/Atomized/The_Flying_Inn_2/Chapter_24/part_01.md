@@ -18,34 +18,34 @@ CHAPTER XXIII
 
 THE MARCH ON IVYWOOD
 
-THAT storm-spirit, or eagle of liberty, which is the
-sudden soul in a crowd, had descended upon London
+THAT [[Storm|storm]]-spirit, or eagle of liberty, which is the
+sudden [[Soul|soul]] in a crowd, had descended upon [[London]]
 after a foreign tour of some centuries in which it had
 commonly alighted upon other capitals.  It is always
 impossible to define the instant and the turn of mood
 which makes the whole difference between danger
-being worse than endurance and endurance being
+being worse than [[Endurance|endurance]] and [[Endurance|endurance]] being
 worse than danger.  The actual outbreak generally
 has a symbolic or artistic, or, what some would call
-whimsical cause.  Somebody fires off a pistol or
+whimsical cause.  Somebody fires off a [[Pistol|pistol]] or
 appears in an unpopular uniform, or refers in a loud
 voice to a scandal that is never mentioned in the
 newspapers; somebody takes off his hat, or somebody
-doesn't take off his hat; and a city is sacked before
+doesn't take off his hat; and a [[City|city]] is sacked before
 midnight.  When the ever-swelling army of revolt
 smashed a whole street full of the shops of Mr.
 Crooke, the chemist, and then went on to Parliament,
-the Tower of London and the road to the sea, the
+the Tower of [[London]] and the [[Road|road]] to the sea, the
 sociologists hiding in their coal-cellars could think
 (in that clarifying darkness) of many material and
-spiritual explanations of such a storm in human souls;
+spiritual explanations of such a [[Storm|storm]] in human souls;
 but of none that explained it quite enough.  Doubtless
 there was a great deal of sheer drunkenness when
 the urns and goblets of Aesculapius were reclaimed as
 belonging to Bacchus: and many who went roaring
-down that road were merely stored with rich wines
+down that [[Road|road]] were merely stored with rich wines
 and liqueurs which are more comfortably and quietly
-digested at a City banquet or a West End restaurant.
+digested at a [[City]] banquet or a West End restaurant.
 But many of these had been blind drunk twenty times
 without a thought of rebellion; you could not stretch
 the material explanation to cover a corner of the
@@ -59,23 +59,23 @@ Dorian Wimpole was at the tail of the procession,
 which grew more and more crowded every moment.
 For one space of the march he even had the misfortune
 to lose it altogether; owing to the startling activity
-which the rotund cheese when it escaped from his
-hands showed, in descending a somewhat steep road
-toward the river.  But in recent days he had gained
+which the rotund [[cheese]] when it escaped from his
+hands showed, in descending a somewhat steep [[Road|road]]
+toward the [[River|river]].  But in recent days he had gained
 a pleasure in practical events which was like a second
 youth.  He managed to find a stray taxi-cab; and had
 little difficulty in picking up again the trail of the
 extraordinary cortège.  Inquiries addressed to a
-policeman with a black eye outside the House of Commons
+policeman with a black eye outside the [[house|House]] of Commons
 informed him sufficiently of the rebels' line of retreat
 or advance, or whatever it was; and in a very short
-time he beheld the unmistakable legion once more.
+[[Time|time]] he beheld the unmistakable legion once more.
 It was unmistakable, because in front of it there
 walked a red-headed giant, apparently carrying with
 him a wooden portion of some public building; and also
 because so big a crowd had never followed any man
-in England for a long time past.  But except for such
-things the unmistakable crowd might well have been
+in England for a long [[Time|time]] past.  But except for such
+things the unmistakable crowd might [[Well|well]] have been
 mistaken for another one.  Its aspect had been altered
 almost as much as if it had grown horns or tusks; for
 many of the company walked with outlandish weapons
@@ -97,7 +97,7 @@ Pump walked on the other side, with the celebrated
 cask suspended round his neck by something
 resembling braces, as if it were a drum.  Mr. Wimpole
 had himself taken the opportunity of his brief
-estrangement to carry the cheese somewhat more
+estrangement to carry the [[cheese]] somewhat more
 easily in a very large, loose, waterproof knapsack on
 his shoulders.  The effect in both cases was to suggest
 dreadful deformities in two persons who happened to
@@ -113,11 +113,11 @@ of you a fancy dress ball?  What have you been up
 to?"
 
 "We've been shopping," said Mr. Patrick Dalroy,
-with some pride.  "We are country cousins.  I know
+with some [[Pride|pride]].  "We are country cousins.  I know
 all about shopping; let us see, what are the phrases
 about it?  Look at those rifles now!  We got them
 quite at a bargain.  We went to all the best
-gunsmiths in London, and we didn't pay much.  In fact,
+gunsmiths in [[London]], and we didn't pay much.  In fact,
 we didn't pay anything.  That's what is called a bargain,
 isn't it?  Surely, I've seen in those things they
 send to ladies something about 'giving them away.'
@@ -127,12 +127,12 @@ piece of stuff we've tied round the sign.  Surely, it
 must be what ladies called chiffon?"
 
 Dorian lifted his eyes and perceived that a very
-coarse strip of red rag, possibly collected from a dust
+coarse strip of red rag, possibly collected from a [[Dust|dust]]
 bin, had been tied round the wooden sign-post by way
-of a red flag of revolution.
+of a red [[Flag|flag]] of revolution.
 
 "Not what ladies call chiffon?" inquired the Captain
-with anxiety.  "Well, anyhow, it is what _chiffoniers_
+with anxiety.  "[[Well]], anyhow, it is what _chiffoniers_
 call it.  But as I'm going to call on a lady shortly,
 I'll try to remember the distinction."
 
@@ -143,7 +143,7 @@ Wimpole.
 find a music shop--you know what I mean.  Place
 where they sell pianos and things of that sort."
 
-"Look here," said Dorian, "this cheese is pretty
+"Look here," said Dorian, "this [[cheese]] is pretty
 heavy as it is.  Have I got to carry a piano, too?"
 
 "You misunderstand me," said the Captain, calmly.

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 20 (part 1)"
+title: "[[Shirley]] — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,11 +24,11 @@ TO-MORROW.
 
 
 
-The two girls met no living soul on their way back to the rectory. They
+The two girls met no living [[Soul|soul]] on their way back to the rectory. They
 
 let themselves in noiselessly; they stole upstairs unheard--the breaking
 
-morning gave them what light they needed. Shirley sought her couch
+morning gave them what light they needed. [[Shirley]] sought her couch
 
 immediately; and though the room was strange--for she had never slept at
 
@@ -36,13 +36,13 @@ the rectory before--and though the recent scene was one unparalleled for
 
 excitement and terror by any it had hitherto been her lot to witness,
 
-yet scarce was her head laid on the pillow ere a deep, refreshing sleep
+yet scarce was her head laid on the pillow ere a deep, refreshing [[Sleep|sleep]]
 
 closed her eyes and calmed her senses.
 
 
 
-Perfect health was Shirley's enviable portion. Though warm-hearted and
+Perfect health was [[Shirley]]'s enviable portion. Though warm-hearted and
 
 sympathetic, she was not nervous; powerful emotions could rouse and sway
 
@@ -50,25 +50,25 @@ without exhausting her spirit. The tempest troubled and shook her while
 
 it lasted, but it left her elasticity unbent, and her freshness quite
 
-unblighted. As every day brought her stimulating emotion, so every night
+unblighted. As every day brought her stimulating emotion, so every [[Night|night]]
 
 yielded her recreating rest. Caroline now watched her sleeping, and read
 
-the serenity of her mind in the beauty of her happy countenance.
+the serenity of her mind in the [[Beauty|beauty]] of her happy countenance.
 
 
 
-For herself, being of a different temperament, she could not sleep. The
+For herself, being of a different temperament, she could not [[Sleep|sleep]]. The
 
 commonplace excitement of the tea-drinking and school-gathering would
 
-alone have sufficed to make her restless all night; the effect of the
+[[Alone|alone]] have sufficed to make her restless all [[Night|night]]; the effect of the
 
 terrible drama which had just been enacted before her eyes was not
 
 likely to quit her for days. It was vain even to try to retain a
 
-recumbent posture; she sat up by Shirley's side, counting the slow
+recumbent posture; she sat up by [[Shirley]]'s side, counting the slow
 
 minutes, and watching the June sun mount the heavens.
 
@@ -78,19 +78,19 @@ Life wastes fast in such vigils as Caroline had of late but too often
 
 kept--vigils during which the mind, having no pleasant food to nourish
 
-it, no manna of hope, no hived-honey of joyous memories, tries to live
+it, no manna of [[Hope|hope]], no hived-honey of joyous memories, tries to live
 
 on the meagre diet of wishes, and failing to derive thence either
 
 delight or support, and feeling itself ready to perish with craving
 
-want, turns to philosophy, to resolution, to resignation; calls on all
+want, turns to [[philosophy]], to resolution, to [[Resignation|resignation]]; calls on all
 
 these gods for aid, calls vainly--is unheard, unhelped, and languishes.
 
 
 
-Caroline was a Christian; therefore in trouble she framed many a prayer
+Caroline was a Christian; therefore in trouble she framed many a [[prayer]]
 
 after the Christian creed, preferred it with deep earnestness, begged
 
@@ -104,13 +104,13 @@ unaccepted. She believed, sometimes, that God had turned His face from
 
 her. At moments she was a Calvinist, and, sinking into the gulf of
 
-religious despair, she saw darkening over her the doom of reprobation.
+religious [[Despair|despair]], she saw darkening over her the doom of reprobation.
 
 
 
 Most people have had a period or periods in their lives when they have
 
-felt thus forsaken--when, having long hoped against hope, and still seen
+felt thus forsaken--when, having long hoped against [[Hope|hope]], and still seen
 
 the day of fruition deferred, their hearts have truly sickened within
 
@@ -118,17 +118,17 @@ them. This is a terrible hour, but it is often that darkest point which
 
 precedes the rise of day--that turn of the year when the icy January
 
-wind carries over the waste at once the dirge of departing winter and
+[[Wind|wind]] carries over the waste at once the [[Dirge|dirge]] of departing [[Winter|winter]] and
 
-the prophecy of coming spring. The perishing birds, however, cannot thus
+the prophecy of coming [[spring]]. The perishing [[Birds|birds]], however, cannot thus
 
 understand the blast before which they shiver; and as little can the
 
-suffering soul recognize, in the climax of its affliction, the dawn of
+[[Suffering|suffering]] [[Soul|soul]] recognize, in the climax of its affliction, the [[Dawn|dawn]] of
 
-its deliverance. Yet, let whoever grieves still cling fast to love and
+its deliverance. Yet, let whoever grieves still cling fast to [[Love|love]] and
 
-faith in God. God will never deceive, never finally desert him. "Whom He
+[[Faith|faith]] in God. God will never deceive, never finally [[Desert|desert]] him. "Whom He
 
 loveth, He chasteneth." These words are true, and should not be
 
@@ -148,7 +148,7 @@ dressed herself, as usual, carefully, trying so to arrange her hair and
 
 attire that nothing of the forlornness she felt at heart should be
 
-visible externally. She looked as fresh as Shirley when both were
+visible externally. She looked as fresh as [[Shirley]] when both were
 
 dressed, only that Miss Keeldar's eyes were lively, and Miss Helstone's
 
@@ -156,19 +156,19 @@ languid.
 
 
 
-"To-day I shall have much to say to Moore," were Shirley's first words;
+"To-day I shall have much to say to Moore," were [[Shirley]]'s first words;
 
 and you could see in her face that life was full of interest,
 
 expectation, and occupation for her. "He will have to undergo
 
-cross-examination," she added. "I dare say he thinks he has outwitted me
+[[Cross|cross]]-examination," she added. "I dare say he thinks he has outwitted me
 
 cleverly. And this is the way men deal with women--still concealing
 
-danger from them--thinking, I suppose, to spare them pain. They
+danger from them--thinking, I suppose, to spare them [[Pain|pain]]. They
 
-imagined we little knew where they were to-night. We _know_ they little
+imagined we little knew where they were to-[[Night|night]]. We _know_ they little
 
 conjectured where we were. Men, I believe, fancy women's minds something
 
@@ -198,9 +198,9 @@ half angel; their bad woman almost always a fiend. Then to hear them
 
 fall into ecstasies with each other's creations--worshipping the heroine
 
-of such a poem, novel, drama--thinking it fine, divine! Fine and divine
+of such a poem, [[Novel|novel]], drama--thinking it fine, divine! Fine and divine
 
-it may be, but often quite artificial--false as the rose in my best
+it may be, but often quite artificial--false as the [[Rose|rose]] in my best
 
 bonnet there. If I spoke all I think on this point, if I gave my real
 
@@ -210,7 +210,7 @@ should I be? Dead under a cairn of avenging stones in half an hour."
 
 
 
-"Shirley, you chatter so, I can't fasten you. Be still. And, after all,
+"[[Shirley]], you chatter so, I can't fasten you. Be still. And, after all,
 
 authors' heroines are almost as good as authoresses' heroes."
 
@@ -218,6 +218,6 @@ authors' heroines are almost as good as authoresses' heroes."
 
 "Not at all. Women read men more truly than men read women. I'll prove
 
-that in a magazine paper some day when I've time; only it will never be
+that in a magazine paper some day when I've [[Time|time]]; only it will never be
 
 inserted. It will be 'declined with thanks,' and left for me at the

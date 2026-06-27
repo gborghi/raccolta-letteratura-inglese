@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE"
+title: "The [[Pickwick]] Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,13 +17,13 @@ tags:
 CHAPTER X. CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE
 DISINTERESTEDNESS OF MR. A. JINGLE’S CHARACTER
 
-There are in London several old inns, once the headquarters of
+There are in [[London]] several old inns, once the headquarters of
 celebrated coaches in the days when coaches performed their journeys in
 a graver and more solemn manner than they do in these times; but which
 have now degenerated into little more than the abiding and booking-
 places of country wagons. The reader would look in vain for any of these
 ancient hostelries, among the Golden Crosses and Bull and Mouths, which
-rear their stately fronts in the improved streets of London. If he would
+rear their stately fronts in the improved streets of [[London]]. If he would
 light upon any of these old places, he must direct his steps to the
 obscurer quarters of the town, and there in some secluded nooks he will
 find several, still standing with a kind of gloomy sturdiness, amidst
@@ -34,10 +34,10 @@ which have preserved their external features unchanged, and which have
 escaped alike the rage for public improvement and the encroachments of
 private speculation. Great, rambling queer old places they are, with
 galleries, and passages, and staircases, wide enough and antiquated
-enough to furnish materials for a hundred ghost stories, supposing we
+enough to furnish materials for a hundred [[Ghost|ghost]] stories, supposing we
 should ever be reduced to the lamentable necessity of inventing any, and
 that the world should exist long enough to exhaust the innumerable
-veracious legends connected with old London Bridge, and its adjacent
+veracious legends connected with old [[London]] Bridge, and its adjacent
 neighbourhood on the Surrey side.
 
 It was in the yard of one of these inns--of no less celebrated a one
@@ -55,15 +55,15 @@ evident satisfaction.
 The yard presented none of that bustle and activity which are the usual
 characteristics of a large coach inn. Three or four lumbering wagons,
 each with a pile of goods beneath its ample canopy, about the height of
-the second-floor window of an ordinary house, were stowed away beneath a
+the second-floor [[Window|window]] of an ordinary [[house]], were stowed away beneath a
 lofty roof which extended over one end of the yard; and another, which
-was probably to commence its journey that morning, was drawn out into
-the open space. A double tier of bedroom galleries, with old clumsy
-balustrades, ran round two sides of the straggling area, and a double
-row of bells to correspond, sheltered from the weather by a little
+was probably to commence its [[Journey|journey]] that morning, was drawn out into
+the open space. A [[Double|double]] tier of bedroom galleries, with old clumsy
+balustrades, ran round two sides of the straggling area, and a [[Double|double]]
+row of [[Bells|bells]] to correspond, sheltered from the weather by a little
 sloping roof, hung over the door leading to the bar and coffee-room. Two
 or three gigs and chaise-carts were wheeled up under different little
-sheds and pent-houses; and the occasional heavy tread of a cart-horse,
+sheds and pent-houses; and the occasional heavy tread of a cart-[[Horse|horse]],
 or rattling of a chain at the farther end of the yard, announced to
 anybody who cared about the matter, that the stable lay in that
 direction. When we add that a few boys in smock-frocks were lying asleep
@@ -72,7 +72,7 @@ about on heaps of straw, we have described as fully as need be the
 general appearance of the yard of the White Hart Inn, High Street,
 Borough, on the particular morning in question.
 
-A loud ringing of one of the bells was followed by the appearance of a
+A loud ringing of one of [[The Bells|the bells]] was followed by the appearance of a
 smart chambermaid in the upper sleeping gallery, who, after tapping at
 one of the doors, and receiving a request from within, called over the
 balustrades--
@@ -86,10 +86,10 @@ balustrades--
 ‘Ask number twenty-two, vether he’ll have ‘em now, or vait till he gets
 ‘em,’ was the reply.
 
-‘Come, don’t be a fool, Sam,’ said the girl coaxingly, ‘the gentleman
+‘Come, don’t be a [[Fool|fool]], Sam,’ said the girl coaxingly, ‘the gentleman
 wants his boots directly.’
 
-‘Well, you _are_ a nice young ‘ooman for a musical party, you are,’ said
+‘[[Well]], you _are_ a nice young ‘ooman for a musical party, you are,’ said
 the boot-cleaner. ‘Look at these here boots--eleven pair o’ boots; and
 one shoe as belongs to number six, with the wooden leg. The eleven boots
 is to be called at half-past eight and the shoe at nine. Who’s number
@@ -116,7 +116,7 @@ The landlady flung a pair of lady’s shoes into the yard, and bustled
 away.
 
 ‘Number five,’ said Sam, as he picked up the shoes, and taking a piece
-of chalk from his pocket, made a memorandum of their destination on the
+of [[chalk]] from his pocket, made a memorandum of their destination on the
 soles--‘Lady’s shoes and private sittin’-room! I suppose she didn’t come
 in the vagin.’
 
@@ -129,11 +129,11 @@ about it.’
 singling out the boots in question from the heap before him. ‘For all I
 know’d he was one o’ the regular threepennies. Private room! and a lady
 too! If he’s anything of a gen’l’m’n, he’s vurth a shillin’ a day, let
-alone the arrands.’
+[[Alone|alone]] the arrands.’
 
 Stimulated by this inspiring reflection, Mr. Samuel brushed away with
 such hearty good-will, that in a few minutes the boots and shoes, with a
-polish which would have struck envy to the soul of the amiable Mr.
+polish which would have struck envy to the [[Soul|soul]] of the amiable Mr.
 Warren (for they used Day & Martin at the White Hart), had arrived at
 the door of number five.
 
@@ -169,13 +169,13 @@ and their mas’rs, too, sir--Old Bailey Proctors--and no mistake.’
 ‘Do! You, Sir! That ain’t the worst on it, neither. They puts things
 into old gen’l’m’n’s heads as they never dreamed of. My father, Sir, wos
 a coachman. A widower he wos, and fat enough for anything--uncommon fat,
-to be sure. His missus dies, and leaves him four hundred pound. Down he
+to be sure. His missus dies, and [[Leaves|leaves]] him four hundred pound. Down he
 goes to the Commons, to see the lawyer and draw the blunt--very smart--
 top boots on--nosegay in his button-hole--broad-brimmed tile--green
 shawl--quite the gen’l’m’n. Goes through the archvay, thinking how he
 should inwest the money--up comes the touter, touches his hat--“Licence,
 Sir, licence?”--“What’s that?” says my father.--“Licence, Sir,” says
-he.--“What licence?” says my father.--“Marriage licence,” says the
+he.--“What licence?” says my father.--“[[Marriage]] licence,” says the
 touter.--“Dash my veskit,” says my father, “I never thought o’ that.”--
 “I think you wants one, Sir,” says the touter. My father pulls up, and
 thinks a bit--“No,” says he, “damme, I’m too old, b’sides, I’m a many
@@ -189,13 +189,13 @@ teller sat among dirty papers, and tin boxes, making believe he was
 busy. “Pray take a seat, vile I makes out the affidavit, Sir,” says the
 lawyer.--“Thank’ee, Sir,” says my father, and down he sat, and stared
 with all his eyes, and his mouth vide open, at the names on the boxes.
-“What’s your name, Sir,” says the lawyer.--“Tony Weller,” says my
+“What’s your name, Sir,” says the lawyer.--“[[Tony Weller]],” says my
 father.--“Parish?” says the lawyer. “Belle Savage,” says my father; for
 he stopped there wen he drove up, and he know’d nothing about parishes,
 he didn’t.--“And what’s the lady’s name?” says the lawyer. My father was
 struck all of a heap. “Blessed if I know,” says he.--“Not know!” says
 the lawyer.--“No more nor you do,” says my father; “can’t I put that in
-arterwards?”--“Impossible!” says the lawyer.--“Wery well,” says my
+arterwards?”--“Impossible!” says the lawyer.--“Wery [[Well|well]],” says my
 father, after he’d thought a moment, “put down Mrs. Clarke.”--“What
 Clarke?” says the lawyer, dipping his pen in the ink.--“Susan Clarke,
 Markis o’ Granby, Dorking,” says my father; “she’ll have me, if I ask. I
@@ -203,14 +203,14 @@ des-say--I never said nothing to her, but she’ll have me, I know.” The
 licence was made out, and she _did_ have him, and what’s more she’s got
 him now; and I never had any of the four hundred pound, worse luck. Beg
 your pardon, sir,’ said Sam, when he had concluded, ‘but wen I gets on
-this here grievance, I runs on like a new barrow with the wheel
+this here grievance, I runs on like a new barrow with the [[Wheel|wheel]]
 greased.’ Having said which, and having paused for an instant to see
 whether he was wanted for anything more, Sam left the room.
 
-‘Half-past nine--just the time--off at once;’ said the gentleman, whom
+‘Half-past nine--just the [[Time|time]]--off at once;’ said the gentleman, whom
 we need hardly introduce as Mr. Jingle.
 
-‘Time--for what?’ said the spinster aunt coquettishly.
+‘[[Time]]--for what?’ said the spinster aunt coquettishly.
 
 ‘Licence, dearest of angels--give notice at the church--call you mine,
 to-morrow’--said Mr. Jingle, and he squeezed the spinster aunt’s hand.
@@ -226,7 +226,7 @@ to-morrow’--said Mr. Jingle, and he squeezed the spinster aunt’s hand.
 
 ‘Run on--nothing to the hours, days, weeks, months, years, when we’re
 united--run on--they’ll fly on--bolt--mizzle--steam-engine--thousand-
-horse power--nothing to it.’
+[[Horse|horse]] power--nothing to it.’
 
 ‘Can’t--can’t we be married before to-morrow morning?’ inquired Rachael.
 
@@ -258,7 +258,7 @@ purpose to relate, that escaping the snares of the dragons in white
 aprons, who guard the entrance to that enchanted region, he reached the
 vicar-general’s office in safety and having procured a highly flattering
 address on parchment, from the Archbishop of Canterbury, to his ‘trusty
-and well-beloved Alfred Jingle and Rachael Wardle, greeting,’ he
+and [[Well|well]]-beloved [[Alfred Jingle]] and Rachael Wardle, greeting,’ he
 carefully deposited the mystic document in his pocket, and retraced his
 steps in triumph to the Borough.
 
@@ -275,7 +275,7 @@ him the thin gentleman straightway advanced.
 ‘My friend,’ said the thin gentleman.
 
 ‘You’re one o’ the adwice gratis order,’ thought Sam, ‘or you wouldn’t
-be so wery fond o’ me all at once.’ But he only said--‘Well, Sir.’
+be so wery fond o’ me all at once.’ But he only said--‘[[Well]], Sir.’
 
 ‘My friend,’ said the thin gentleman, with a conciliatory hem--‘have you
 got many people stopping here now? Pretty busy. Eh?’
@@ -293,16 +293,16 @@ some regular posers.
 
 ‘Pretty busy, eh?’ said the little man.
 
-‘Oh, wery well, Sir,’ replied Sam, ‘we shan’t be bankrupts, and we
+‘Oh, wery [[Well|well]], Sir,’ replied Sam, ‘we shan’t be bankrupts, and we
 shan’t make our fort’ns. We eats our biled mutton without capers, and
-don’t care for horse-radish ven ve can get beef.’
+don’t care for [[Horse|horse]]-radish ven ve can get beef.’
 
 ‘Ah,’ said the little man, ‘you’re a wag, ain’t you?’
 
 ‘My eldest brother was troubled with that complaint,’ said Sam; ‘it may
-be catching--I used to sleep with him.’
+be catching--I used to [[Sleep|sleep]] with him.’
 
-‘This is a curious old house of yours,’ said the little man, looking
+‘This is a curious old [[house]] of yours,’ said the little man, looking
 round him.
 
 ‘If you’d sent word you was a-coming, we’d ha’ had it repaired;’ replied
@@ -327,22 +327,22 @@ must in no way interfere in the progress of the business; you must
 repose implicit confidence in him. Really, Mr.--’ He turned to the other
 plump gentleman, and said, ‘I forget your friend’s name.’
 
-‘Pickwick,’ said Mr. Wardle, for it was no other than that jolly
+‘[[Pickwick]],’ said Mr. Wardle, for it was no other than that jolly
 personage.
 
-‘Ah, Pickwick--really Mr. Pickwick, my dear Sir, excuse me--I shall be
+‘Ah, [[Pickwick]]--really Mr. [[Pickwick]], my dear Sir, excuse me--I shall be
 happy to receive any private suggestions of yours, as AMICUS CURIAE, but
 you must see the impropriety of your interfering with my conduct in this
 case, with such an AD CAPTANDUM argument as the offer of half a guinea.
 Really, my dear Sir, really;’ and the little man took an argumentative
 pinch of snuff, and looked very profound.
 
-‘My only wish, Sir,’ said Mr. Pickwick, ‘was to bring this very
+‘My only wish, Sir,’ said Mr. [[Pickwick]], ‘was to bring this very
 unpleasant matter to as speedy a close as possible.’
 
 ‘Quite right--quite right,’ said the little man.
 
-‘With which view,’ continued Mr. Pickwick, ‘I made use of the argument
+‘With which view,’ continued Mr. [[Pickwick]], ‘I made use of the argument
 which my experience of men has taught me is the most likely to succeed
 in any case.’
 
@@ -350,16 +350,16 @@ in any case.’
 should have suggested it to me. My dear sir, I’m quite certain you
 cannot be ignorant of the extent of confidence which must be placed in
 professional men. If any authority can be necessary on such a point, my
-dear sir, let me refer you to the well-known case in Barnwell and--’
+dear sir, let me refer you to the [[Well|well]]-known case in Barnwell and--’
 
 ‘Never mind George Barnwell,’ interrupted Sam, who had remained a
 wondering listener during this short colloquy; ‘everybody knows what
 sort of a case his was, tho’ it’s always been my opinion, mind you, that
 the young ‘ooman deserved scragging a precious sight more than he did.
 Hows’ever, that’s neither here nor there. You want me to accept of half
-a guinea. Wery well, I’m agreeable: I can’t say no fairer than that, can
-I, sir?’ (Mr. Pickwick smiled.) Then the next question is, what the
-devil do you want with me, as the man said, wen he see the ghost?’
+a guinea. Wery [[Well|well]], I’m agreeable: I can’t say no fairer than that, can
+I, sir?’ (Mr. [[Pickwick]] smiled.) Then the next question is, what the
+devil do you want with me, as the man said, wen he see the [[Ghost|ghost]]?’
 
 ‘We want to know--’ said Mr. Wardle.
 
@@ -369,9 +369,9 @@ Mr. Wardle shrugged his shoulders, and was silent.
 
 ‘We want to know,’ said the little man solemnly; ‘and we ask the
 question of you, in order that we may not awaken apprehensions inside--
-we want to know who you’ve got in this house at present?’
+we want to know who you’ve got in this [[house]] at present?’
 
-‘Who there is in the house!’ said Sam, in whose mind the inmates were
+‘Who there is in the [[house]]!’ said Sam, in whose mind the inmates were
 always represented by that particular article of their costume, which
 came under his immediate superintendence. ‘There’s a vooden leg in
 number six; there’s a pair of Hessians in thirteen; there’s two pair of
@@ -385,7 +385,7 @@ a pair of Vellingtons a good deal worn, and a pair o’ lady’s shoes, in
 number five.’
 
 ‘What sort of shoes?’ hastily inquired Wardle, who, together with Mr.
-Pickwick, had been lost in bewilderment at the singular catalogue of
+[[Pickwick]], had been lost in bewilderment at the singular catalogue of
 visitors.
 
 ‘Country make,’ replied Sam.
@@ -406,7 +406,7 @@ visitors.
 
 ‘Yes, for a licence.’
 
-‘We’re in time,’ exclaimed Wardle. ‘Show us the room; not a moment is to
+‘We’re in [[Time|time]],’ exclaimed Wardle. ‘Show us the room; not a moment is to
 be lost.’
 
 ‘Pray, my dear sir--pray,’ said the little man; ‘caution, caution.’ He
@@ -448,7 +448,7 @@ with passion.
 table, ‘pray, consider--pray. Defamation of character: action for
 damages. Calm yourself, my dear sir, pray--’
 
-‘How dare you drag my sister from my house?’ said the old man.
+‘How dare you drag my sister from my [[house]]?’ said the old man.
 
 Ay--ay--very good,’ said the little gentleman, ‘you may ask that. How
 dare you, sir?--eh, sir?’
@@ -459,7 +459,7 @@ the little gentleman involuntarily fell back a step or two.
 ‘Who is he, you scoundrel,’ interposed Wardle. ‘He’s my lawyer, Mr.
 Perker, of Gray’s Inn. Perker, I’ll have this fellow prosecuted--
 indicted--I’ll--I’ll--I’ll ruin him. And you,’ continued Mr. Wardle,
-turning abruptly round to his sister--‘you, Rachael, at a time of life
+turning abruptly round to his sister--‘you, Rachael, at a [[Time|time]] of life
 when you ought to know better, what do you mean by running away with a
 vagabond, disgracing your family, and making yourself miserable? Get on
 your bonnet and come back. Call a hackney-coach there, directly, and
@@ -485,15 +485,15 @@ her determination to faint.
 
 Here the spinster aunt uttered a loud shriek, and became senseless.
 
-‘A glass of water,’ said the humane Mr. Pickwick, summoning the
+‘A glass of [[Water|water]],’ said the humane Mr. [[Pickwick]], summoning the
 landlady.
 
-‘A glass of water!’ said the passionate Wardle. ‘Bring a bucket, and
+‘A glass of [[Water|water]]!’ said the passionate Wardle. ‘Bring a bucket, and
 throw it all over her; it’ll do her good, and she richly deserves it.’
 
 ‘Ugh, you brute!’ ejaculated the kind-hearted landlady. ‘Poor dear.’ And
 with sundry ejaculations of ‘Come now, there’s a dear--drink a little of
-this--it’ll do you good--don’t give way so--there’s a love,’ etc. etc.,
+this--it’ll do you good--don’t give way so--there’s a [[Love|love]],’ etc. etc.,
 the landlady, assisted by a chambermaid, proceeded to vinegar the
 forehead, beat the hands, titillate the nose, and unlace the stays of
 the spinster aunt, and to administer such other restoratives as are
@@ -522,7 +522,7 @@ dares to take her away--unless she wishes it.’
 it.’ (Here there was a frightful relapse.)
 
 ‘My dear Sir,’ said the little man, in a low tone, taking Mr. Wardle and
-Mr. Pickwick apart--‘my dear Sir, we’re in a very awkward situation.
+Mr. [[Pickwick]] apart--‘my dear Sir, we’re in a very awkward situation.
 It’s a distressing case--very; I never knew one more so; but really, my
 dear sir, really we have no power to control this lady’s actions. I
 warned you before we came, my dear sir, that there was nothing to look
@@ -530,12 +530,12 @@ to but a compromise.’
 
 There was a short pause.
 
-‘What kind of compromise would you recommend?’ inquired Mr. Pickwick.
+‘What kind of compromise would you recommend?’ inquired Mr. [[Pickwick]].
 
 ‘Why, my dear Sir, our friend’s in an unpleasant position--very much so.
 We must be content to suffer some pecuniary loss.’
 
-‘I’ll suffer any, rather than submit to this disgrace, and let her, fool
+‘I’ll suffer any, rather than submit to this disgrace, and let her, [[Fool|fool]]
 as she is, be made miserable for life,’ said Wardle.
 
 ‘I rather think it can be done,’ said the bustling little man. ‘Mr.
@@ -545,11 +545,11 @@ Mr. Jingle assented, and the quartette walked into an empty apartment.
 
 ‘Now, sir,’ said the little man, as he carefully closed the door, ‘is
 there no way of accommodating this matter--step this way, sir, for a
-moment--into this window, Sir, where we can be alone--there, sir, there,
+moment--into this [[Window|window]], Sir, where we can be [[Alone|alone]]--there, sir, there,
 pray sit down, sir. Now, my dear Sir, between you and I, we know very
-well, my dear Sir, that you have run off with this lady for the sake of
+[[Well|well]], my dear Sir, that you have run off with this lady for the sake of
 her money. Don’t frown, Sir, don’t frown; I say, between you and I, _we_
-know it. We are both men of the world, and WE know very well that our
+know it. We are both men of the world, and WE know very [[Well|well]] that our
 friends here, are not--eh?’
 
 Mr. Jingle’s face gradually relaxed; and something distantly resembling
@@ -557,7 +557,7 @@ a wink quivered for an instant in his left eye.
 
 ‘Very good, very good,’ said the little man, observing the impression he
 had made. ‘Now, the fact is, that beyond a few hundreds, the lady has
-little or nothing till the death of her mother--fine old lady, my dear
+little or nothing till the [[Death|death]] of her mother--fine old lady, my dear
 Sir.’
 
 ‘_Old_,’ said Mr. Jingle briefly but emphatically.
@@ -565,18 +565,18 @@ Sir.’
 ‘Why, yes,’ said the attorney, with a slight cough. ‘You are right, my
 dear Sir, she is rather old. She comes of an old family though, my dear
 Sir; old in every sense of the word. The founder of that family came
-into Kent when Julius Caesar invaded Britain;--only one member of it,
+into [[Kent]] when [[Julius Caesar]] invaded Britain;--only one member of it,
 since, who hasn’t lived to eighty-five, and he was beheaded by one of
 the Henrys. The old lady is not seventy-three now, my dear Sir.’ The
 little man paused, and took a pinch of snuff.
 
-‘Well,’ cried Mr. Jingle.
+‘[[Well]],’ cried Mr. Jingle.
 
-‘Well, my dear sir--you don’t take snuff!--ah! so much the better--
-expensive habit--well, my dear Sir, you’re a fine young man, man of the
+‘[[Well]], my dear sir--you don’t take snuff!--ah! so much the better--
+expensive habit--[[Well|well]], my dear Sir, you’re a fine young man, man of the
 world--able to push your fortune, if you had capital, eh?’
 
-‘Well,’ said Mr. Jingle again.
+‘[[Well]],’ said Mr. Jingle again.
 
 ‘Do you comprehend me?’
 
@@ -590,11 +590,11 @@ expectation?’
 
 ‘Nay, nay, my dear Sir,’ remonstrated the little attorney, seizing him
 by the button. ‘Good round sum--a man like you could treble it in no
-time--great deal to be done with fifty pounds, my dear Sir.’
+[[Time|time]]--great deal to be done with fifty pounds, my dear Sir.’
 
 ‘More to be done with a hundred and fifty,’ replied Mr. Jingle coolly.
 
-‘Well, my dear Sir, we won’t waste time in splitting straws,’ resumed
+‘[[Well]], my dear Sir, we won’t waste [[Time|time]] in splitting straws,’ resumed
 the little man, ‘say--say--seventy.’
 
 Won’t do,’ said Mr. Jingle.
@@ -604,12 +604,12 @@ Won’t do,’ said Mr. Jingle.
 
 ‘Won’t do,’ said Mr. Jingle.
 
-‘Well, my dear Sir, well,’ said the little man, still detaining him;
+‘[[Well]], my dear Sir, [[Well|well]],’ said the little man, still detaining him;
 ‘just tell me what _will_ do.’
 
 ‘Expensive affair,’ said Mr. Jingle. ‘Money out of pocket--posting, nine
 pounds; licence, three--that’s twelve--compensation, a hundred--hundred
-and twelve--breach of honour--and loss of the lady--’
+and twelve--breach of [[Honour|honour]]--and loss of the lady--’
 
 ‘Yes, my dear Sir, yes,’ said the little man, with a knowing look,
 ‘never mind the last two items. That’s a hundred and twelve--say a
@@ -635,7 +635,7 @@ meanwhile.’ Mr. Wardle sullenly nodded assent.
 The cheque was written by the little gentleman, and pocketed by Mr.
 Jingle.
 
-‘Now, leave this house instantly!’ said Wardle, starting up.
+‘Now, leave this [[house]] instantly!’ said Wardle, starting up.
 
 ‘My dear Sir,’ urged the little man.
 
@@ -648,34 +648,34 @@ go to the devil faster, if possible, than you would without it--’
 
 ‘Be quiet, Perker,’ resumed Wardle. ‘Leave the room, Sir.’
 
-‘Off directly,’ said the unabashed Jingle. ‘Bye bye, Pickwick.’
+‘Off directly,’ said the unabashed Jingle. ‘Bye bye, [[Pickwick]].’
 
 If any dispassionate spectator could have beheld the countenance of the
 illustrious man, whose name forms the leading feature of the title of
 this work, during the latter part of this conversation, he would have
-been almost induced to wonder that the indignant fire which flashed from
+been almost induced to [[Wonder|wonder]] that the indignant [[Fire|fire]] which flashed from
 his eyes did not melt the glasses of his spectacles--so majestic was his
 wrath. His nostrils dilated, and his fists clenched involuntarily, as he
-heard himself addressed by the villain. But he restrained himself again-
+heard himself addressed by the [[Villain|villain]]. But he restrained himself again-
 -he did not pulverise him.
 
 ‘Here,’ continued the hardened traitor, tossing the licence at Mr.
-Pickwick’s feet; ‘get the name altered--take home the lady--do for
+[[Pickwick]]’s feet; ‘get the name altered--take [[Home|home]] the lady--do for
 Tuppy.’
 
-Mr. Pickwick was a philosopher, but philosophers are only men in armour,
+Mr. [[Pickwick]] was a philosopher, but philosophers are only men in armour,
 after all. The shaft had reached him, penetrated through his
 philosophical harness, to his very heart. In the frenzy of his rage, he
 hurled the inkstand madly forward, and followed it up himself. But Mr.
 Jingle had disappeared, and he found himself caught in the arms of Sam.
 
 ‘Hollo,’ said that eccentric functionary, ‘furniter’s cheap where you
-come from, Sir. Self-acting ink, that ‘ere; it’s wrote your mark upon
+come from, Sir. [[Self]]-acting ink, that ‘ere; it’s wrote your mark upon
 the wall, old gen’l’m’n. Hold still, Sir; wot’s the use o’ runnin’ arter
 a man as has made his lucky, and got to t’other end of the Borough by
-this time?’
+this [[Time|time]]?’
 
-Mr. Pickwick’s mind, like those of all truly great men, was open to
+Mr. [[Pickwick]]’s mind, like those of all truly great men, was open to
 conviction. He was a quick and powerful reasoner; and a moment’s
 reflection sufficed to remind him of the impotency of his rage. It
 subsided as quickly as it had been roused. He panted for breath, and
@@ -683,13 +683,13 @@ looked benignantly round upon his friends.
 
 Shall we tell the lamentations that ensued when Miss Wardle found
 herself deserted by the faithless Jingle? Shall we extract Mr.
-Pickwick’s masterly description of that heartrending scene? His note-
-book, blotted with the tears of sympathising humanity, lies open before
+[[Pickwick]]’s masterly description of that heartrending scene? His note-
+book, blotted with the [[Tears|tears]] of sympathising humanity, lies open before
 us; one word, and it is in the printer’s hands. But, no! we will be
 resolute! We will not wring the public bosom, with the delineation of
-such suffering!
+such [[Suffering|suffering]]!
 
 Slowly and sadly did the two friends and the deserted lady return next
 day in the Muggleton heavy coach. Dimly and darkly had the sombre
-shadows of a summer’s night fallen upon all around, when they again
+shadows of a [[Summer|summer]]’s [[Night|night]] fallen upon all around, when they again
 reached Dingley Dell, and stood within the entrance to Manor Farm.

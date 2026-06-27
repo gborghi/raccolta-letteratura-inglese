@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 15 (part 3)"
+title: "[[Wuthering Heights]] — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-“Let me alone. Let me alone,” sobbed Catherine. “If I’ve done wrong,
+“Let me [[Alone|alone]]. Let me [[Alone|alone]],” sobbed Catherine. “If I’ve done wrong,
 I’m dying for it. It is enough! You left me too: but I won’t upbraid
 you! I forgive you. Forgive me!”
 
 “It is hard to forgive, and to look at those eyes, and feel those
 wasted hands,” he answered. “Kiss me again; and don’t let me see your
-eyes! I forgive what you have done to me. I love _my_ murderer—but
+eyes! I forgive what you have done to me. I [[Love|love]] _my_ murderer—but
 _yours_! How can I?”
 
 They were silent—their faces hid against each other, and washed by each
-other’s tears. At least, I suppose the weeping was on both sides; as it
-seemed Heathcliff _could_ weep on a great occasion like this.
+other’s [[Tears|tears]]. At least, I suppose the weeping was on both sides; as it
+seemed [[Heathcliff]] _could_ weep on a great occasion like this.
 
 I grew very uncomfortable, meanwhile; for the afternoon wore fast away,
 the man whom I had sent off returned from his errand, and I could
@@ -35,21 +35,21 @@ thickening outside Gimmerton chapel porch.
 “Service is over,” I announced. “My master will be here in half an
 hour.”
 
-Heathcliff groaned a curse, and strained Catherine closer: she never
+[[Heathcliff]] groaned a curse, and strained Catherine closer: she never
 moved.
 
-Ere long I perceived a group of the servants passing up the road
+Ere long I perceived a group of the servants passing up the [[Road|road]]
 towards the kitchen wing. Mr. Linton was not far behind; he opened the
 gate himself and sauntered slowly up, probably enjoying the lovely
-afternoon that breathed as soft as summer.
+afternoon that breathed as soft as [[Summer|summer]].
 
 “Now he is here,” I exclaimed. “For heaven’s sake, hurry down! You’ll
 not meet any one on the front stairs. Do be quick; and stay among the
 trees till he is fairly in.”
 
-“I must go, Cathy,” said Heathcliff, seeking to extricate himself from
+“I must go, Cathy,” said [[Heathcliff]], seeking to extricate himself from
 his companion’s arms. “But if I live, I’ll see you again before you are
-asleep. I won’t stray five yards from your window.”
+asleep. I won’t stray five yards from your [[Window|window]].”
 
 “You must not go!” she answered, holding him as firmly as her strength
 allowed. “You _shall_ not, I tell you.”
@@ -64,10 +64,10 @@ intruder.
 He would have risen, and unfixed her fingers by the act—she clung fast,
 gasping: there was mad resolution in her face.
 
-“No!” she shrieked. “Oh, don’t, don’t go. It is the last time! Edgar
-will not hurt us. Heathcliff, I shall die! I shall die!”
+“No!” she shrieked. “Oh, don’t, don’t go. It is the last [[Time|time]]! [[Edgar]]
+will not hurt us. [[Heathcliff]], I shall die! I shall die!”
 
-“Damn the fool! There he is,” cried Heathcliff, sinking back into his
+“Damn the [[Fool|fool]]! There he is,” cried [[Heathcliff]], sinking back into his
 seat. “Hush, my darling! Hush, hush, Catherine! I’ll stay. If he shot
 me so, I’d expire with a blessing on my lips.”
 
@@ -89,7 +89,7 @@ down.
 that she should be dead, than lingering a burden and a misery-maker to
 all about her.”
 
-Edgar sprang to his unbidden guest, blanched with astonishment and
+[[Edgar]] sprang to his unbidden guest, blanched with astonishment and
 rage. What he meant to do I cannot tell; however, the other stopped all
 demonstrations, at once, by placing the lifeless-looking form in his
 arms.
@@ -100,16 +100,16 @@ shall speak to me!”
 He walked into the parlour, and sat down. Mr. Linton summoned me, and
 with great difficulty, and after resorting to many means, we managed to
 restore her to sensation; but she was all bewildered; she sighed, and
-moaned, and knew nobody. Edgar, in his anxiety for her, forgot her
+moaned, and knew nobody. [[Edgar]], in his anxiety for her, forgot her
 hated friend. I did not. I went, at the earliest opportunity, and
 besought him to depart; affirming that Catherine was better, and he
-should hear from me in the morning how she passed the night.
+should hear from me in the morning how she passed the [[Night|night]].
 
 “I shall not refuse to go out of doors,” he answered; “but I shall stay
-in the garden: and, Nelly, mind you keep your word to-morrow. I shall
+in the [[Garden|garden]]: and, Nelly, mind you keep your word to-morrow. I shall
 be under those larch-trees. Mind! or I pay another visit, whether
 Linton be in or not.”
 
 He sent a rapid glance through the half-open door of the chamber, and,
 ascertaining that what I stated was apparently true, delivered the
-house of his luckless presence.
+[[house]] of his luckless presence.

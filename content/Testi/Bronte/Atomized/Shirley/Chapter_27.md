@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 27"
+title: "[[Shirley]] — Chapter 27"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,7 +28,7 @@ Miss Keeldar and her uncle had characters that would not harmonize, that
 
 never had harmonized. He was irritable, and she was spirited. He was
 
-despotic, and she liked freedom. He was worldly, and she, perhaps,
+despotic, and she liked [[Freedom|freedom]]. He was worldly, and she, perhaps,
 
 romantic.
 
@@ -46,7 +46,7 @@ ever.
 
 
 
-The misfortune was, from infancy upwards, Shirley and he had disagreed
+The misfortune was, from infancy upwards, [[Shirley]] and he had disagreed
 
 on the meaning of the words "suitable" and "proper." She never yet had
 
@@ -74,7 +74,7 @@ done!_"
 
 He sent for his niece to the oak parlour; he shut himself up there with
 
-her alone; he communicated the offer; he gave his opinion; he claimed
+her [[Alone|alone]]; he communicated the offer; he gave his opinion; he claimed
 
 her consent.
 
@@ -110,7 +110,7 @@ equal respectability."
 
 
 
-"Had he my money counted fivescore times I would take no vow to love
+"Had he my money counted fivescore times I would take no vow to [[Love|love]]
 
 him."
 
@@ -130,7 +130,7 @@ as the first reason why I spurn him."
 
 
 
-"That conduct alone sinks him in a gulf of immeasurable inferiority. His
+"That conduct [[Alone|alone]] sinks him in a gulf of immeasurable inferiority. His
 
 intellect reaches no standard I can esteem: there is a second
 
@@ -164,7 +164,7 @@ demand your hand?"
 
 
 
-"I doubt if the peer breathes on whom I would confer it."
+"I [[Doubt|doubt]] if the peer breathes on whom I would confer it."
 
 
 
@@ -206,7 +206,7 @@ alike.
 
 
 
-"Why? What shadow of power have _you_ over me? Why should I fear you?"
+"Why? What [[Shadow|shadow]] of power have _you_ over me? Why should I [[Fear|fear]] you?"
 
 
 
@@ -224,13 +224,13 @@ to esteem--to admire--to _love_."
 
 
 
-"To love with my whole heart. I know I speak in an unknown tongue; but I
+"To [[Love|love]] with my whole heart. I know I speak in an unknown tongue; but I
 
 feel indifferent whether I am comprehended or not."
 
 
 
-"And if this love of yours should fall on a beggar?"
+"And if this [[Love|love]] of yours should fall on a beggar?"
 
 
 
@@ -242,17 +242,17 @@ feel indifferent whether I am comprehended or not."
 
 
 
-"Take courage, Mr. Sympson! Or what?"
+"Take [[Courage|courage]], Mr. Sympson! Or what?"
 
 
 
-"Any literary scrub, or shabby, whining artist."
+"Any literary scrub, or shabby, whining [[Artist|artist]]."
 
 
 
 "For the scrubby, shabby, whining I have no taste; for literature and
 
-the arts I have. And there I wonder how your Fawthrop Wynne would suit
+the arts I have. And there I [[Wonder|wonder]] how your Fawthrop Wynne would suit
 
 me. He cannot write a note without orthographical errors; he reads only
 
@@ -294,7 +294,7 @@ the form of repeating again and again a similar stroke of luck in the
 
 same quarter. It appeared that Miss Keeldar--or her fortune--had by this
 
-time made a sensation in the district, and produced an impression in
+[[Time|time]] made a sensation in the district, and produced an impression in
 
 quarters by her unthought of. No less than three offers followed Mr.
 
@@ -302,7 +302,7 @@ Wynne's, all more or less eligible. All were in succession pressed on
 
 her by her uncle, and all in succession she refused. Yet amongst them
 
-was more than one gentleman of unexceptionable character as well as
+was more than one gentleman of unexceptionable character as [[Well|well]] as
 
 ample wealth. Many besides her uncle asked what she meant, and whom she
 
@@ -324,11 +324,11 @@ Fieldhead had of late been fast growing too hot to hold them both. The
 
 suave aunt could not reconcile them; the daughters froze at the view of
 
-their quarrels. Gertrude and Isabella whispered by the hour together in
+their quarrels. [[Gertrude]] and [[Isabella]] whispered by the hour together in
 
 their dressing-room, and became chilled with decorous dread if they
 
-chanced to be left alone with their audacious cousin. But, as I have
+chanced to be left [[Alone|alone]] with their audacious cousin. But, as I have
 
 said, a change supervened. Mr. Sympson was appeased and his family
 
@@ -370,7 +370,7 @@ to their society; he seemed _glad_ of it.
 
 
 
-With any unaffected individual Shirley could easily and quickly cement
+With any unaffected individual [[Shirley]] could easily and quickly cement
 
 an acquaintance. She walked and talked with Sir Philip; she, her aunt,
 
@@ -382,7 +382,7 @@ to amuse him.
 
 
 
-One slight drawback there was--where is the friendship without it?--Sir
+One slight drawback there was--where is the [[Friendship|friendship]] without it?--Sir
 
 Philip had a literary turn. He wrote poetry--sonnets, stanzas, ballads.
 
@@ -392,9 +392,9 @@ reciting these compositions; perhaps she wished the rhyme had possessed
 
 more accuracy, the measure more music, the tropes more freshness, the
 
-inspiration more fire. At any rate, she always winced when he recurred
+inspiration more [[Fire|fire]]. At any rate, she always winced when he recurred
 
-to the subject of his poems, and usually did her best to divert the
+to the subject of his [[Poems|poems]], and usually did her best to divert the
 
 conversation into another channel.
 
@@ -410,13 +410,13 @@ the rush of the surf to the sands was heard soft and soothing; and when
 
 he had her all to himself, and the sea lay before them, and the scented
 
-shade of gardens spread round, and the tall shelter of cliffs rose
+shade of gardens spread round, and the tall shelter of cliffs [[Rose|rose]]
 
 behind them, he would pull out his last batch of sonnets, and read them
 
 in a voice tremulous with emotion. He did not seem to know that though
 
-they might be rhyme they were not poetry. It appeared, by Shirley's
+they might be rhyme they were not poetry. It appeared, by [[Shirley]]'s
 
 downcast eye and disturbed face, that she knew it, and felt heartily
 
@@ -436,7 +436,7 @@ happy to answer his interrogatories at length. She never wearied of
 
 describing the antique priory, the wild silvan park, the hoary church
 
-and hamlet; nor did she fail to counsel him to come down and gather his
+and [[Hamlet|hamlet]]; nor did she fail to counsel him to come down and gather his
 
 tenantry about him in his ancestral halls.
 
@@ -454,13 +454,13 @@ He said--when he had achieved the round of the neighbourhood--that under
 
 no roof had he found such pleasant shelter as beneath the massive oak
 
-beams of the gray manor-house of Briarfield; a cramped, modest dwelling
+beams of the gray manor-[[house]] of Briarfield; a cramped, modest dwelling
 
 enough compared with his own, but he liked it.
 
 
 
-Presently it did not suffice to sit with Shirley in her panelled
+Presently it did not suffice to sit with [[Shirley]] in her panelled
 
 parlour, where others came and went, and where he could rarely find a
 
@@ -478,9 +478,9 @@ scenes--woods severed by the Wharfe, vales watered by the Aire.
 
 Such assiduity covered Miss Keeldar with distinction. Her uncle's
 
-prophetic soul anticipated a splendid future. He already scented the
+prophetic [[Soul|soul]] anticipated a splendid future. He already scented the
 
-time afar off when, with nonchalant air, and left foot nursed on his
+[[Time|time]] afar off when, with nonchalant air, and left foot nursed on his
 
 right knee, he should be able to make dashingly-familiar allusion to his
 
@@ -490,13 +490,13 @@ girl," but a "most sensible woman." He termed her, in confidential
 
 dialogues with Mrs. Sympson, "a truly superior person; peculiar, but
 
-very clever." He treated her with exceeding deference; rose reverently
+very clever." He treated her with exceeding deference; [[Rose|rose]] reverently
 
 to open and shut doors for her; reddened his face and gave himself
 
 headaches with stooping to pick up gloves, handkerchiefs, and other
 
-loose property, whereof Shirley usually held but insecure tenure. He
+loose property, whereof [[Shirley]] usually held but insecure tenure. He
 
 would cut mysterious jokes about the superiority of woman's wit over
 
@@ -526,13 +526,13 @@ whole, so much sense.
 
 
 
-Time proved, indeed, that Sir Philip liked her. Perhaps he had found in
+[[Time]] proved, indeed, that Sir Philip liked her. Perhaps he had found in
 
 her that "curious charm" noticed by Mr. Hall. He sought her presence
 
 more and more, and at last with a frequency that attested it had become
 
-to him an indispensable stimulus. About this time strange feelings
+to him an indispensable stimulus. About this [[Time|time]] strange feelings
 
 hovered round Fieldhead; restless hopes and haggard anxieties haunted
 
@@ -552,9 +552,9 @@ could not affirm of him, what she had so bitterly affirmed of Sam Wynne,
 
 that his feelings were blunt, his tastes coarse, and his manners vulgar.
 
-There was sensibility in his nature; there was a very real, if not a
+There was sensibility in his [[Nature|nature]]; there was a very real, if not a
 
-very discriminating, love of the arts; there was the English gentleman
+very discriminating, [[Love|love]] of the arts; there was the English gentleman
 
 in all his deportment. As to his lineage and wealth, both were, of
 
@@ -564,11 +564,11 @@ course, far beyond her claims.
 
 His appearance had at first elicited some laughing though not
 
-ill-natured remarks from the merry Shirley. It was boyish. His features
+ill-natured remarks from the merry [[Shirley]]. It was boyish. His features
 
 were plain and slight, his hair sandy, his stature insignificant. But
 
-she soon checked her sarcasm on this point; she would even fire up if
+she soon checked her sarcasm on this point; she would even [[Fire|fire]] up if
 
 any one else made uncomplimentary allusion thereto. He had "a pleasing
 
@@ -586,17 +586,17 @@ save her own.
 
 In short, matters had reached a point which seemed fully to warrant an
 
-observation made about this time by Mr. Yorke to the tutor, Louis.
+observation made about this [[Time|time]] by Mr. Yorke to the tutor, Louis.
 
 
 
-"Yond' brother Robert of yours seems to me to be either a fool or a
+"Yond' brother Robert of yours seems to me to be either a [[Fool|fool]] or a
 
 madman. Two months ago I could have sworn he had the game all in his own
 
-hands; and there he runs the country, and quarters himself up in London
+hands; and there he runs the country, and quarters himself up in [[London]]
 
-for weeks together, and by the time he comes back he'll find himself
+for weeks together, and by the [[Time|time]] he comes back he'll find himself
 
 checkmated. Louis, 'there is a tide in the affairs of men, which, taken
 
@@ -626,7 +626,7 @@ she liked him."
 
 mere mention of his name. Write to the lad, I say, and tell him to come
 
-home. He is a finer gentleman than this bit of a baronet, after all."
+[[Home|home]]. He is a finer gentleman than this bit of a baronet, after all."
 
 
 
@@ -636,7 +636,7 @@ to aspire to a rich woman's hand is presumptuous--contemptible?"
 
 
 
-"Oh, if you are for high notions and double-refined sentiment, I've
+"Oh, if you are for high notions and [[Double|double]]-refined sentiment, I've
 
 naught to say. I'm a plain, practical man myself, and if Robert is
 
@@ -658,17 +658,17 @@ speaking to a parson to consult with you."
 
 
 
-Flattered and fawned upon as Shirley was just now, it appeared she was
+Flattered and fawned upon as [[Shirley]] was just now, it appeared she was
 
-not absolutely spoiled--that her better nature did not quite leave her.
+not absolutely spoiled--that her better [[Nature|nature]] did not quite leave her.
 
 Universal report had indeed ceased to couple her name with that of
 
-Moore, and this silence seemed sanctioned by her own apparent oblivion
+Moore, and this [[Silence|silence]] seemed sanctioned by her own apparent oblivion
 
 of the absentee; but that she had not _quite_ forgotten him--that she
 
-still regarded him, if not with love, yet with interest--seemed proved
+still regarded him, if not with [[Love|love]], yet with interest--seemed proved
 
 by the increased attention which at this juncture of affairs a sudden
 
@@ -684,7 +684,7 @@ as abashed school-girls are wont to accost their stern professors;
 
 bridling her neck of ivory and curling her lip of carmine, if he
 
-encountered her glance, one minute, and the next submitting to the grave
+encountered her glance, one minute, and the next submitting to the [[Grave|grave]]
 
 rebuke of his eye with as much contrition as if he had the power to
 
@@ -692,7 +692,7 @@ inflict penalties in case of contumacy.
 
 
 
-Louis Moore had perhaps caught the fever, which for a few days laid him
+[[Louis Moore]] had perhaps caught the fever, which for a few days laid him
 
 low, in one of the poor cottages of the district, which he, his lame
 
@@ -712,7 +712,7 @@ Mrs. Gill or the housemaid--summoned young Sympson to the door.
 
 
 
-"How is Mr. Moore to-night?" asked a low voice from the dark gallery.
+"How is Mr. Moore to-[[Night|night]]?" asked a low voice from the dark gallery.
 
 
 
@@ -724,7 +724,7 @@ Mrs. Gill or the housemaid--summoned young Sympson to the door.
 
 
 
-"I wish he could sleep. Come and speak to him, Shirley."
+"I wish he could [[Sleep|sleep]]. Come and speak to him, [[Shirley]]."
 
 
 
@@ -756,7 +756,7 @@ She spoke gently.
 
 
 
-"Mr. Moore, how are you to-night?"
+"Mr. Moore, how are you to-[[Night|night]]?"
 
 
 
@@ -792,15 +792,15 @@ yet I see that your lips are parched. What beverage do you prefer?"
 
 
 
-"Mrs. Gill supplies me with toast-and-water. I like it best."
+"Mrs. Gill supplies me with toast-and-[[Water|water]]. I like it best."
 
 
 
-Silence fell for some minutes.
+[[Silence]] fell for some minutes.
 
 
 
-"Do you suffer?--have you pain?"
+"Do you suffer?--have you [[Pain|pain]]?"
 
 
 
@@ -812,15 +812,15 @@ Silence fell for some minutes.
 
 
 
-Silence.
+[[Silence]].
 
 
 
-"I wonder what caused this fever? To what do you attribute it?"
+"I [[Wonder|wonder]] what caused this fever? To what do you attribute it?"
 
 
 
-"Miasma, perhaps--malaria. This is autumn, a season fertile in fevers."
+"Miasma, perhaps--malaria. This is [[Autumn|autumn]], a season fertile in fevers."
 
 
 
@@ -834,9 +834,9 @@ Mr. Hall. You should be on your guard; temerity is not wise."
 
 this chamber or come near this couch. I do not believe my illness is
 
-infectious. I scarcely fear"--with a sort of smile--"_you_ will take it;
+infectious. I scarcely [[Fear|fear]]"--with a sort of smile--"_you_ will take it;
 
-but why should you run even the shadow of a risk? Leave me."
+but why should you run even the [[Shadow|shadow]] of a risk? Leave me."
 
 
 
@@ -874,11 +874,11 @@ hear him just now pass from the dining-room to the drawing-room."
 
 "It is never dull, and the sense seems sharpened at present. Sir Philip
 
-was here to tea last night. I heard you sing to him some song which he
+was here to tea last [[Night|night]]. I heard you sing to him some [[Song|song]] which he
 
 had brought you. I heard him, when he took his departure at eleven
 
-o'clock, call you out on to the pavement, to look at the evening star."
+o'[[Clock|clock]], call you out on to the pavement, to look at the [[Evening Star|evening star]]."
 
 
 
@@ -894,13 +894,13 @@ o'clock, call you out on to the pavement, to look at the evening star."
 
 
 
-"No: my chamber is over the hall, the window just above the front door;
+"No: my chamber is over the hall, the [[Window|window]] just above the front door;
 
 the sash was a little raised, for I felt feverish. You stood ten minutes
 
 with him on the steps. I heard your discourse, every word, and I heard
 
-the salute.--Henry, give me some water."
+the salute.--Henry, give me some [[Water|water]]."
 
 
 
@@ -908,7 +908,7 @@ the salute.--Henry, give me some water."
 
 
 
-But he half rose to take the glass from young Sympson, and declined her
+But he half [[Rose|rose]] to take the glass from young Sympson, and declined her
 
 attendance.
 
@@ -918,17 +918,17 @@ attendance.
 
 
 
-"Nothing; for you cannot guarantee me a night's peaceful rest, and it is
+"Nothing; for you cannot guarantee me a [[Night|night]]'s peaceful rest, and it is
 
 all I at present want."
 
 
 
-"You do not sleep well?"
+"You do not [[Sleep|sleep]] [[Well|well]]?"
 
 
 
-"Sleep has left me."
+"[[Sleep]] has left me."
 
 
 
@@ -942,7 +942,7 @@ all I at present want."
 
 "If I had power, I would lap you in the most placid slumber--quite deep
 
-and hushed, without a dream."
+and hushed, without [[A Dream|a dream]]."
 
 
 
@@ -950,11 +950,11 @@ and hushed, without a dream."
 
 
 
-"With dreams of all you most desire."
+"With [[Dreams|dreams]] of all you most [[Desire|desire]]."
 
 
 
-"Monstrous delusions! The sleep would be delirium, the waking death."
+"Monstrous delusions! The [[Sleep|sleep]] would be delirium, the waking [[Death|death]]."
 
 
 
@@ -964,15 +964,15 @@ and hushed, without a dream."
 
 "Miss Keeldar, I suppose you think so; but my character is not, perhaps,
 
-quite as legible to you as a page of the last new novel might be."
+quite as legible to you as a page of the last new [[Novel|novel]] might be."
 
 
 
-"That is possible. But this sleep--I _should_ like to woo it to your
+"That is possible. But this [[Sleep|sleep]]--I _should_ like to woo it to your
 
 pillow, to win for you its favour. If I took a book and sat down and
 
-read some pages? I can well spare half an hour."
+read some pages? I can [[Well|well]] spare half an hour."
 
 
 
@@ -990,23 +990,23 @@ cooing, vibrating voice close at my ear. You had better leave me."
 
 
 
-"Well, I will go."
+"[[Well]], I will go."
 
 
 
-"And no good-night?"
+"And no good-[[Night|night]]?"
 
 
 
-"Yes, sir, yes. Mr. Moore, good-night." (Exit Shirley.)
+"Yes, sir, yes. Mr. Moore, good-[[Night|night]]." (Exit [[Shirley]].)
 
 
 
-"Henry, my boy, go to bed now; it is time you had some repose."
+"Henry, my boy, go to bed now; it is [[Time|time]] you had some repose."
 
 
 
-"Sir, it would please me to watch at your bedside all night."
+"Sir, it would please me to watch at your bedside all [[Night|night]]."
 
 
 
@@ -1042,7 +1042,7 @@ light step traversed the gallery in the course of a day, it did not
 
 again pause at his door; nor did her "cooing, vibrating voice" disturb a
 
-second time the hush of the sickroom. A sickroom, indeed, it soon ceased
+second [[Time|time]] the hush of the sickroom. A sickroom, indeed, it soon ceased
 
 to be; Mr. Moore's good constitution quickly triumphed over his
 
@@ -1064,17 +1064,17 @@ reserve with a firm, quiet hand.
 
 One afternoon the Sympson family were gone out to take a carriage
 
-airing. Shirley, never sorry to snatch a reprieve from their society,
+airing. [[Shirley]], never sorry to snatch a reprieve from their society,
 
 had remained behind, detained by business, as she said. The business--a
 
 little letter-writing--was soon dispatched after the yard gates had
 
-closed on the carriage; Miss Keeldar betook herself to the garden.
+closed on the carriage; Miss Keeldar betook herself to the [[Garden|garden]].
 
 
 
-It was a peaceful autumn day. The gilding of the Indian summer mellowed
+It was a peaceful [[Autumn|autumn]] day. The gilding of the Indian [[Summer|summer]] mellowed
 
 the pastures far and wide. The russet woods stood ripe to be stripped,
 
@@ -1082,31 +1082,31 @@ but were yet full of leaf. The purple of heath-bloom, faded but not
 
 withered, tinged the hills. The beck wandered down to the Hollow,
 
-through a silent district; no wind followed its course or haunted its
+through a silent district; no [[Wind|wind]] followed its course or haunted its
 
-woody borders. Fieldhead gardens bore the seal of gentle decay. On the
+woody borders. Fieldhead gardens bore the seal of gentle [[Decay|decay]]. On the
 
-walks, swept that morning, yellow leaves had fluttered down again. Its
+walks, swept that morning, yellow [[Leaves|leaves]] had fluttered down again. Its
 
-time of flowers, and even of fruits, was over; but a scantling of
+[[Time|time]] of [[Flowers|flowers]], and even of fruits, was over; but a scantling of
 
 apples enriched the trees. Only a blossom here and there expanded pale
 
-and delicate amidst a knot of faded leaves.
+and delicate amidst a knot of faded [[Leaves|leaves]].
 
 
 
-These single flowers--the last of their race--Shirley culled as she
+These single [[Flowers|flowers]]--the last of their race--[[Shirley]] culled as she
 
 wandered thoughtfully amongst the beds. She was fastening into her
 
 girdle a hueless and scentless nosegay, when Henry Sympson called to her
 
-as he came limping from the house.
+as he came limping from the [[house]].
 
 
 
-"Shirley, Mr. Moore would be glad to see you in the schoolroom and to
+"[[Shirley]], Mr. Moore would be glad to see you in the schoolroom and to
 
 hear you read a little French, if you have no more urgent occupation."
 
@@ -1142,9 +1142,9 @@ Entering the schoolroom, she inclined her head with a decent obeisance,
 
 as had been her wont in former times. She removed her bonnet, and hung
 
-it up beside Henry's cap. Louis Moore sat at his desk, turning the
+it up beside Henry's cap. [[Louis Moore]] sat at his desk, turning the
 
-leaves of a book, open before him, and marking passages with his pencil.
+[[Leaves|leaves]] of a book, open before him, and marking passages with his pencil.
 
 He just moved, in acknowledgment of her curtsy, but did not rise.
 
@@ -1182,7 +1182,7 @@ curls dropped so low as to hide the page from him.
 
 
 
-For one moment Shirley looked not quite certain whether she would obey
+For one moment [[Shirley]] looked not quite certain whether she would obey
 
 the request or disregard it. A flicker of her eye beamed furtive on the
 
@@ -1194,7 +1194,7 @@ have rebelled, and the lesson had ended there and then; but he was only
 
 awaiting her compliance--as calm as marble, and as cool. She threw the
 
-veil of tresses behind her ear. It was well her face owned an agreeable
+veil of tresses behind her ear. It was [[Well|well]] her face owned an agreeable
 
 outline, and that her cheek possessed the polish and the roundness of
 
@@ -1202,7 +1202,7 @@ early youth, or, thus robbed of a softening shade, the contours might
 
 have lost their grace. But what mattered that in the present society?
 
-Neither Calypso nor Eucharis cared to fascinate Mentor.
+Neither Calypso nor Eucharis cared to fascinate [[Mentor]].
 
 
 
@@ -1250,7 +1250,7 @@ What _he_ read _she_ repeated. She caught his accent in three minutes.
 
 
 
-"I doubt you."
+"I [[Doubt|doubt]] you."
 
 
 
@@ -1272,7 +1272,7 @@ What _he_ read _she_ repeated. She caught his accent in three minutes.
 
 He proceeded to recite the following. He gave it in French, but we must
 
-translate, on pain of being unintelligible to some readers.
+translate, on [[Pain|pain]] of being unintelligible to some readers.
 
 
 
@@ -1290,7 +1290,7 @@ translate, on pain of being unintelligible to some readers.
 
 
 
-This was in the dawn of time, before the morning stars were set, and
+This was in the [[Dawn|dawn]] of [[Time|time]], before the morning [[Stars|stars]] were set, and
 
 while they yet sang together.
 
@@ -1304,9 +1304,9 @@ clear line of locality, evade perception and baffle research. It must
 
 suffice to know that the world then existed; that men peopled it; that
 
-man's nature, with its passions, sympathies, pains, and pleasures,
+man's [[Nature|nature]], with its passions, sympathies, pains, and pleasures,
 
-informed the planet and gave it soul.
+informed the planet and gave it [[Soul|soul]].
 
 
 
@@ -1342,19 +1342,19 @@ hunters, their flocks wander wild as their prey. Are they happy? No, not
 
 more happy than we are at this day. Are they good? No, not better than
 
-ourselves. Their nature is our nature--human both. There is one in this
+ourselves. Their [[Nature|nature]] is our [[Nature|nature]]--human both. There is one in this
 
-tribe too often miserable--a child bereaved of both parents. None cares
+tribe too often miserable--a [[Child|child]] bereaved of both parents. None cares
 
-for this child. She is fed sometimes, but oftener forgotten. A hut
+for this [[Child|child]]. She is fed sometimes, but oftener forgotten. A hut
 
-rarely receives her; the hollow tree and chill cavern are her home.
+rarely receives her; the hollow tree and chill cavern are her [[Home|home]].
 
 Forsaken, lost, and wandering, she lives more with the wild beast and
 
 bird than with her own kind. Hunger and cold are her comrades; sadness
 
-hovers over, and solitude besets her round. Unheeded and unvalued, she
+hovers over, and [[Solitude|solitude]] besets her round. Unheeded and unvalued, she
 
 should die; but she both lives and grows. The green wilderness nurses
 
@@ -1368,7 +1368,7 @@ There is something in the air of this clime which fosters life kindly.
 
 There must be something, too, in its dews which heals with sovereign
 
-balm. Its gentle seasons exaggerate no passion, no sense; its
+balm. Its gentle [[Seasons|seasons]] exaggerate no passion, no sense; its
 
 temperature tends to harmony; its breezes, you would say, bring down
 
@@ -1386,7 +1386,7 @@ The gentle charm vouchsafed to flower and tree, bestowed on deer and
 
 dove, has not been denied to the human nursling. All solitary, she has
 
-sprung up straight and graceful. Nature cast her features in a fine
+sprung up straight and graceful. [[Nature]] cast her features in a fine
 
 mould; they have matured in their pure, accurate first lines, unaltered
 
@@ -1412,13 +1412,13 @@ of what one so untaught can think it is not easy to divine.
 
 
 
-On the evening of one summer day, before the Flood, being utterly
+On the evening of one [[Summer|summer]] day, before the Flood, being utterly
 
-alone--for she had lost all trace of her tribe, who had wandered leagues
+[[Alone|alone]]--for she had lost all trace of her tribe, who had wandered leagues
 
 away, she knew not where--she went up from the vale, to watch Day take
 
-leave and Night arrive. A crag overspread by a tree was her station. The
+leave and [[Night]] arrive. A crag overspread by a tree was her station. The
 
 oak roots, turfed and mossed, gave a seat; the oak boughs, thick-leaved,
 
@@ -1426,11 +1426,11 @@ wove a canopy.
 
 
 
-Slow and grand the Day withdrew, passing in purple fire, and parting to
+Slow and grand the Day withdrew, passing in purple [[Fire|fire]], and parting to
 
-the farewell of a wild, low chorus from the woodlands. Then Night
+the farewell of a wild, low [[Chorus|chorus]] from the woodlands. Then [[Night]]
 
-entered, quiet as death. The wind fell, the birds ceased singing. Now
+entered, quiet as [[Death|death]]. The [[Wind|wind]] fell, the [[Birds|birds]] ceased singing. Now
 
 every nest held happy mates, and hart and hind slumbered blissfully safe
 
@@ -1438,15 +1438,15 @@ in their lair.
 
 
 
-The girl sat, her body still, her soul astir; occupied, however, rather
+The girl sat, her [[Body|body]] still, her [[Soul|soul]] astir; occupied, however, rather
 
 in feeling than in thinking, in wishing than hoping, in imagining than
 
-projecting. She felt the world, the sky, the night, boundlessly mighty.
+projecting. She felt the world, the sky, the [[Night|night]], boundlessly mighty.
 
 Of all things herself seemed to herself the centre--a small, forgotten
 
-atom of life, a spark of soul, emitted inadvertent from the great
+atom of life, a spark of [[Soul|soul]], emitted inadvertent from the great
 
 creative source, and now burning unmarked to waste in the heart of a
 
@@ -1470,7 +1470,7 @@ which it insisted she should find exercise?
 
 She gazed abroad on Heaven and Evening. Heaven and Evening gazed back on
 
-her. She bent down, searching bank, hill, river, spread dim below. All
+her. She bent down, searching bank, [[Hill|hill]], [[River|river]], spread dim below. All
 
 she questioned responded by oracles. She heard--she was impressed; but
 
@@ -1490,7 +1490,7 @@ There was no voice, nor any that answered.
 
 She waited, kneeling, steadfastly looking up. Yonder sky was sealed; the
 
-solemn stars shone alien and remote.
+solemn [[Stars|stars]] shone alien and remote.
 
 
 
@@ -1498,13 +1498,13 @@ At last one overstretched chord of her agony slacked; she thought
 
 Something above relented; she felt as if Something far round drew
 
-nigher; she heard as if Silence spoke. There was no language, no word,
+nigher; she heard as if [[Silence]] spoke. There was no language, no word,
 
 only a tone.
 
 
 
-Again--a fine, full, lofty tone, a deep, soft sound, like a storm
+Again--a fine, full, lofty tone, a deep, soft sound, like a [[Storm|storm]]
 
 whispering, made twilight undulate.
 
@@ -1522,7 +1522,7 @@ Yet again--a distinct voice passed between Heaven and Earth.
 
 
 
-If Eva were not this woman's name, she had none. She rose. "Here am I."
+If Eva were not this woman's name, she had none. She [[Rose|rose]]. "Here am I."
 
 
 
@@ -1530,7 +1530,7 @@ If Eva were not this woman's name, she had none. She rose. "Here am I."
 
 
 
-"O Night (it can be but Night that speaks), I am here!"
+"O [[Night]] (it can be but [[Night]] that speaks), I am here!"
 
 
 
@@ -1558,7 +1558,7 @@ She had her religion--all tribes held some creed.
 
 
 
-The Evening flushed full of hope; the Air panted; the Moon--rising
+The Evening flushed full of [[Hope|hope]]; the Air panted; the [[Moon]]--rising
 
 before--ascended large, but her light showed no shape.
 
@@ -1582,7 +1582,7 @@ drink of my cup!"
 
 arid heart revives; my affliction is lightened; my strait and struggle
 
-are gone. And the night changes! the wood, the hill, the moon, the wide
+are gone. And the [[Night|night]] changes! the wood, the [[Hill|hill]], the [[Moon|moon]], the wide
 
 sky--all change!"
 
@@ -1594,7 +1594,7 @@ from thy faculties fetters! I level in thy path obstacles; I with my
 
 presence fill vacancy. I claim as mine the lost atom of life. I take to
 
-myself the spark of soul--burning heretofore forgotten!"
+myself the spark of [[Soul|soul]]--burning heretofore forgotten!"
 
 
 
@@ -1626,7 +1626,7 @@ mine own. Acknowledge in me that Seraph on earth named Genius."
 
 at last I possess. I receive a revelation. The dark hint, the obscure
 
-whisper, which have haunted me from childhood, are interpreted. Thou art
+whisper, which have haunted me from [[Childhood|childhood]], are interpreted. Thou art
 
 He I sought. Godborn, take me, thy bride!"
 
@@ -1640,7 +1640,7 @@ wert sent."
 
 
 
-That Presence, invisible but mighty, gathered her in like a lamb to the
+That Presence, invisible but mighty, gathered her in like a [[Lamb|lamb]] to the
 
 fold; that voice, soft but all-pervading, vibrated through her heart
 
@@ -1648,11 +1648,11 @@ like music. Her eye received no image; and yet a sense visited her
 
 vision and her brain as of the serenity of stainless air, the power of
 
-sovereign seas, the majesty of marching stars, the energy of colliding
+sovereign seas, the majesty of marching [[Stars|stars]], the energy of colliding
 
-elements, the rooted endurance of hills wide based, and, above all, as
+elements, the rooted [[Endurance|endurance]] of hills wide based, and, above all, as
 
-of the lustre of heroic beauty rushing victorious on the Night,
+of the lustre of heroic [[Beauty|beauty]] rushing victorious on the [[Night]],
 
 vanquishing its shadows like a diviner sun.
 
@@ -1660,7 +1660,7 @@ vanquishing its shadows like a diviner sun.
 
 Such was the bridal hour of Genius and Humanity. Who shall rehearse the
 
-tale of their after-union? Who shall depict its bliss and bale? Who
+tale of their after-[[Union|union]]? Who shall depict its bliss and bale? Who
 
 shall tell how He between whom and the Woman God put enmity forged
 
@@ -1668,15 +1668,15 @@ deadly plots to break the bond or defile its purity? Who shall record
 
 the long strife between Serpent and Seraph:--How still the Father of
 
-Lies insinuated evil into good, pride into wisdom, grossness into glory,
+Lies insinuated evil into good, [[Pride|pride]] into wisdom, grossness into glory,
 
-pain into bliss, poison into passion? How the "dreadless Angel" defied,
+[[Pain|pain]] into bliss, [[Poison|poison]] into passion? How the "dreadless Angel" defied,
 
 resisted, and repelled? How again and again he refined the polluted cup,
 
 exalted the debased emotion, rectified the perverted impulse, detected
 
-the lurking venom, baffled the frontless temptation--purified,
+the lurking venom, baffled the frontless [[Temptation|temptation]]--purified,
 
 justified, watched, and withstood? How, by his patience, by his
 
@@ -1684,17 +1684,17 @@ strength, by that unutterable excellence he held from God--his
 
 Origin--this faithful Seraph fought for Humanity a good fight through
 
-time; and, when Time's course closed, and Death was encountered at the
+[[Time|time]]; and, when [[Time]]'s course closed, and [[Death]] was encountered at the
 
-end, barring with fleshless arm the portals of Eternity, how Genius
+end, barring with fleshless arm the portals of [[Eternity]], how Genius
 
 still held close his dying bride, sustained her through the agony of the
 
-passage, bore her triumphant into his own home, Heaven; restored her,
+passage, bore her triumphant into his own [[Home|home]], Heaven; restored her,
 
 redeemed, to Jehovah, her Maker; and at last, before Angel and
 
-Archangel, crowned her with the crown of Immortality?
+Archangel, crowned her with the [[Crown|crown]] of [[Immortality]]?
 
 
 
@@ -1706,7 +1706,7 @@ Who shall of these things write the chronicle?
 
 
 
-"I never could correct that composition," observed Shirley, as Moore
+"I never could correct that composition," observed [[Shirley]], as Moore
 
 concluded. "Your censor-pencil scored it with condemnatory lines, whose
 
@@ -1716,7 +1716,7 @@ signification I strove vainly to fathom."
 
 She had taken a crayon from the tutor's desk, and was drawing little
 
-leaves, fragments of pillars, broken crosses, on the margin of the book.
+[[Leaves|leaves]], fragments of pillars, broken crosses, on the margin of the book.
 
 
 
@@ -1730,7 +1730,7 @@ Keeldar, her mark, traced on every page."
 
 
 
-Shirley dropped her crayon as if it burned her fingers.
+[[Shirley]] dropped her crayon as if it burned her fingers.
 
 
 
@@ -1756,9 +1756,9 @@ contradiction."
 
 
 
-"Mr. Moore," cried Henry, "make Shirley repeat some of the pieces she
+"Mr. Moore," cried Henry, "make [[Shirley]] repeat some of the pieces she
 
-used to say so well by heart."
+used to say so [[Well|well]] by heart."
 
 
 
@@ -1780,17 +1780,17 @@ knows how naughty she was."
 
 
 
-A smile, which Shirley would not permit to expand, made her lip tremble;
+A smile, which [[Shirley]] would not permit to expand, made her lip tremble;
 
 she bent her face, and hid it half with her arms, half in her curls,
 
-which, as she stooped, fell loose again. "Certainly I was a rebel," she
+which, as she stooped, fell loose again. "Certainly I was a [[Rebel|rebel]]," she
 
 answered.
 
 
 
-"A rebel!" repeated Henry. "Yes; you and papa had quarrelled terribly,
+"A [[Rebel|rebel]]!" repeated Henry. "Yes; you and papa had quarrelled terribly,
 
 and you set both him and mamma, and Mrs. Pryor, and everybody, at
 
@@ -1798,7 +1798,7 @@ defiance. You said he had insulted you----"
 
 
 
-"He _had_ insulted me," interposed Shirley.
+"He _had_ insulted me," interposed [[Shirley]].
 
 
 
@@ -1810,7 +1810,7 @@ cried; they both stood wringing their hands begging you to be patient;
 
 and you knelt on the floor with your things and your up-turned box
 
-before you, looking, Shirley, looking--why, in one of _your_ passions.
+before you, looking, [[Shirley]], looking--why, in one of _your_ passions.
 
 Your features, in such passions, are not distorted; they are fixed, but
 
@@ -1818,7 +1818,7 @@ quite beautiful. You scarcely look angry, only resolute, and in a
 
 certain haste; yet one feels that at such times an obstacle cast across
 
-your path would be split as with lightning. Papa lost heart, and called
+your path would be split as with [[Lightning|lightning]]. Papa lost heart, and called
 
 Mr. Moore."
 
@@ -1834,7 +1834,7 @@ I recollect he suggested to papa that agitation would bring on his gout;
 
 and then he spoke quietly to the ladies, and got them away; and
 
-afterwards he said to you, Miss Shirley, that it was of no use talking
+afterwards he said to you, Miss [[Shirley]], that it was of no use talking
 
 or lecturing now, but that the tea-things were just brought into the
 
@@ -1860,7 +1860,7 @@ hour, and wound it up by marking you a piece to learn in Bossuet as a
 
 punishment-lesson--'Le Cheval Dompté.' You learned it instead of packing
 
-up, Shirley. We heard no more of your running away. Mr. Moore used to
+up, [[Shirley]]. We heard no more of your running away. Mr. Moore used to
 
 tease you on the subject for a year afterwards."
 
@@ -1868,15 +1868,15 @@ tease you on the subject for a year afterwards."
 
 "She never said a lesson with greater spirit," subjoined Moore. "She
 
-then, for the first time, gave me the treat of hearing my native tongue
+then, for the first [[Time|time]], gave me the treat of hearing my native tongue
 
 spoken without accent by an English girl."
 
 
 
-"She was as sweet as summer cherries for a month afterwards," struck in
+"She was as sweet as [[Summer|summer]] cherries for a month afterwards," struck in
 
-Henry: "a good hearty quarrel always left Shirley's temper better than
+Henry: "a good hearty quarrel always left [[Shirley]]'s temper better than
 
 it found it."
 
@@ -1902,9 +1902,9 @@ Fieldhead if she knew what had become of my former pupil."
 
 "I see her, and humble enough; but I would neither advise Harry nor
 
-others to believe too implicitly in the humility which one moment can
+others to believe too implicitly in the [[Humility|humility]] which one moment can
 
-hide its blushing face like a modest little child, and the next lift it
+hide its blushing face like a modest little [[Child|child]], and the next lift it
 
 pale and lofty as a marble Juno."
 
@@ -1934,7 +1934,7 @@ chill the kind heart."
 
 
 
-"Ingenious!" responded Shirley. "If the interpretation pleases you, you
+"Ingenious!" responded [[Shirley]]. "If the interpretation pleases you, you
 
 are welcome to hold it valid. _I_ don't care."
 
@@ -1960,7 +1960,7 @@ oblige him. Let us begin."
 
 
 
-"Which I have not. _My_ memory, if a slow, is a retentive one. I acquire
+"Which I have not. _My_ [[Memory|memory]], if a slow, is a retentive one. I acquire
 
 deliberately both knowledge and liking. The acquisition grows into my
 
@@ -1968,7 +1968,7 @@ brain, and the sentiment into my breast; and it is not as the
 
 rapid-springing produce which, having no root in itself, flourishes
 
-verdurous enough for a time, but too soon falls withered away.
+verdurous enough for a [[Time|time]], but too soon falls withered away.
 
 Attention, Henry! Miss Keeldar consents to favour you. 'Voyez ce cheval
 
@@ -1992,7 +1992,7 @@ impressive emphasis.
 
 
 
-Shirley, by degrees, inclined her ear as he went on. Her face, before
+[[Shirley]], by degrees, inclined her ear as he went on. Her face, before
 
 turned from him, _re_turned towards him. When he ceased, she took the
 
@@ -2018,7 +2018,7 @@ the pleasure of making his language her own. She asked for further
 
 indulgence; all the old school pieces were revived, and with them
 
-Shirley's old school days.
+[[Shirley]]'s old school days.
 
 
 
@@ -2028,7 +2028,7 @@ and then had heard the echo of his own deep tones in the girl's voice,
 
 that modulated itself faithfully on his. "Le chêne et le Roseau," that
 
-most beautiful of La Fontaine's fables, had been recited, well recited,
+most beautiful of La Fontaine's fables, had been recited, [[Well|well]] recited,
 
 by the tutor, and the pupil had animatedly availed herself of the
 
@@ -2046,7 +2046,7 @@ nervous, natural!"
 
 
 
-And then he smiled and was silent. His whole nature seemed serenely
+And then he smiled and was silent. His whole [[Nature|nature]] seemed serenely
 
 alight. He stood on the hearth, leaning his elbow on the mantelpiece,
 
@@ -2054,17 +2054,17 @@ musing not unblissfully.
 
 
 
-Twilight was closing on the diminished autumn day. The schoolroom
+Twilight was closing on the diminished [[Autumn|autumn]] day. The schoolroom
 
 windows--darkened with creeping plants, from which no high October winds
 
 had as yet swept the sere foliage--admitted scarce a gleam of sky; but
 
-the fire gave light enough to talk by.
+the [[Fire|fire]] gave light enough to talk by.
 
 
 
-And now Louis Moore addressed his pupil in French, and she answered at
+And now [[Louis Moore]] addressed his pupil in French, and she answered at
 
 first with laughing hesitation and in broken phrase. Moore encouraged
 
@@ -2092,7 +2092,7 @@ yard.
 
 
 
-"It is the carriage returned," said Shirley; "and dinner must be just
+"It is the carriage returned," said [[Shirley]]; "and dinner must be just
 
 ready, and I am not dressed."
 
@@ -2100,7 +2100,7 @@ ready, and I am not dressed."
 
 A servant came in with Mr. Moore's candle and tea; for the tutor and his
 
-pupil usually dined at luncheon time.
+pupil usually dined at luncheon [[Time|time]].
 
 
 
@@ -2110,7 +2110,7 @@ Nunnely is with them."
 
 
 
-"How you did start, and how your hand trembled, Shirley!" said Henry,
+"How you did start, and how your hand trembled, [[Shirley]]!" said Henry,
 
 when the maid had closed the shutter and was gone. "But I know
 
@@ -2118,7 +2118,7 @@ why--don't you, Mr. Moore? I know what papa intends. He is a little ugly
 
 man, that Sir Philip. I wish he had not come. I wish sisters and all of
 
-them had stayed at De Walden Hall to dine.--Shirley should once more
+them had stayed at De Walden Hall to dine.--[[Shirley]] should once more
 
 have made tea for you and me, Mr. Moore, and we would have had a happy
 
@@ -2144,4 +2144,4 @@ minute."
 
 
 
-He left the room; so did Shirley, by another door.
+He left the room; so did [[Shirley]], by another door.

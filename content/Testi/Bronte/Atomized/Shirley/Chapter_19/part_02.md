@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 19 (part 2)"
+title: "[[Shirley]] — Chapter 19 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,9 +22,9 @@ and filling of urns and teapots, and running backwards and forwards
 
 with trays. Ere long the maids' chamber door was heard to close.
 
-Caroline took a candle and went quietly all over the house, seeing that
+Caroline took a candle and went quietly all over the [[house]], seeing that
 
-every window was fast and every door barred. She did not even evade the
+every [[Window|window]] was fast and every door barred. She did not even evade the
 
 haunted back kitchen nor the vault-like cellars. These visited, she
 
@@ -32,13 +32,13 @@ returned.
 
 
 
-"There is neither spirit nor flesh in the house at present," she said,
+"There is neither spirit nor flesh in the [[house]] at present," she said,
 
-"which should not be there. It is now near eleven o'clock, fully
+"which should not be there. It is now near eleven o'[[Clock|clock]], fully
 
 bedtime; yet I would rather sit up a little longer, if you do not
 
-object, Shirley. Here," she continued, "I have brought the brace of
+object, [[Shirley]]. Here," she continued, "I have brought the brace of
 
 pistols from my uncle's study. You may examine them at your leisure."
 
@@ -64,27 +64,27 @@ firearms, examining them, and again laying them down.
 
 "Is this state of sleeplessness and restlessness caused by something
 
-electrical in the air, I wonder?"
+electrical in the air, I [[Wonder|wonder]]?"
 
 
 
-"No; the sky is clear, the stars numberless. It is a fine night."
+"No; the sky is clear, the [[Stars|stars]] numberless. It is a fine [[Night|night]]."
 
 
 
-"But very still. I hear the water fret over its stony bed in Hollow's
+"But very still. I hear the [[Water|water]] fret over its stony bed in Hollow's
 
 Copse as distinctly as if it ran below the churchyard wall."
 
 
 
-"I am glad it is so still a night. A moaning wind or rushing rain would
+"I am glad it is so still a [[Night|night]]. A moaning [[Wind|wind]] or rushing rain would
 
 vex me to fever just now."
 
 
 
-"Why, Shirley?"
+"Why, [[Shirley]]?"
 
 
 
@@ -100,17 +100,17 @@ vex me to fever just now."
 
 
 
-"The only one, Shirley."
+"The only one, [[Shirley]]."
 
 
 
-They both sat near the window, and both leaned their arms on the sill,
+They both sat near the [[Window|window]], and both leaned their arms on the sill,
 
 and both inclined their heads towards the open lattice. They saw each
 
 other's young faces by the starlight and that dim June twilight which
 
-does not wholly fade from the west till dawn begins to break in the
+does not wholly fade from the west till [[Dawn|dawn]] begins to break in the
 
 east.
 
@@ -140,9 +140,9 @@ Caroline.
 
 
 
-Both kept silent for full half an hour. The night was silent too; only
+Both kept silent for full half an hour. The [[Night|night]] was silent too; only
 
-the church clock measured its course by quarters. Some words were
+the church [[Clock|clock]] measured its course by quarters. Some words were
 
 interchanged about the chill of the air. They wrapped their scarves
 
@@ -152,9 +152,9 @@ again watched.
 
 
 
-Towards midnight the teasing, monotonous bark of the house-dog disturbed
+Towards midnight the teasing, monotonous bark of the [[house]]-dog disturbed
 
-the quietude of their vigil. Caroline rose, and made her way noiselessly
+the quietude of their vigil. Caroline [[Rose|rose]], and made her way noiselessly
 
 through the dark passages to the kitchen, intending to appease him with
 
@@ -162,7 +162,7 @@ a piece of bread. She succeeded. On returning to the dining-room she
 
 found it all dark, Miss Keeldar having extinguished the candle. The
 
-outline of her shape was visible near the still open window, leaning
+outline of her shape was visible near the still open [[Window|window]], leaning
 
 out. Miss Helstone asked no questions; she stole to her side. The dog
 
@@ -172,7 +172,7 @@ listen. The occupants of the dining-room listened too, and not merely
 
 now to the flow of the mill-stream. There was a nearer, though a
 
-muffled, sound on the road below the churchyard--a measured, beating,
+muffled, sound on the [[Road|road]] below the churchyard--a measured, beating,
 
 approaching sound--a dull tramp of marching feet.
 
@@ -184,7 +184,7 @@ was not the tread of two, nor of a dozen, nor of a score of men; it was
 
 the tread of hundreds. They could see nothing; the high shrubs of the
 
-garden formed a leafy screen between them and the road. To hear,
+[[Garden|garden]] formed a leafy screen between them and the [[Road|road]]. To hear,
 
 however, was not enough, and this they felt as the troop trod forwards,
 
@@ -192,7 +192,7 @@ and seemed actually passing the rectory. They felt it more when a human
 
 voice--though that voice spoke but one word--broke the hush of the
 
-night.
+[[Night|night]].
 
 
 
@@ -206,23 +206,23 @@ which no word was distinguishable from the dining-room.
 
 
 
-"We _must_ hear this," said Shirley.
+"We _must_ hear this," said [[Shirley]].
 
 
 
 She turned, took her pistols from the table, silently passed out through
 
-the middle window of the dining-room, which was, in fact, a glass door,
+the middle [[Window|window]] of the dining-room, which was, in fact, a glass door,
 
-stole down the walk to the garden wall, and stood listening under the
+stole down the walk to the [[Garden|garden]] wall, and stood listening under the
 
-lilacs. Caroline would not have quitted the house had she been alone,
+lilacs. Caroline would not have quitted the [[house]] had she been [[Alone|alone]],
 
-but where Shirley went she would go. She glanced at the weapon on the
+but where [[Shirley]] went she would go. She glanced at the weapon on the
 
 sideboard, but left it behind her, and presently stood at her friend's
 
-side. They dared not look over the wall, for fear of being seen; they
+side. They dared not look over the wall, for [[Fear|fear]] of being seen; they
 
 were obliged to crouch behind it. They heard these words,--
 
@@ -238,7 +238,7 @@ parson?"
 
 
 
-"Do you know where they sleep?"
+"Do you know where they [[Sleep|sleep]]?"
 
 
 
@@ -260,7 +260,7 @@ parson?"
 
 "If I were ordered to do his job--and he desarves it--I'd try yond' long
 
-window; it opens to the dining-room. I could grope my way upstairs, and
+[[Window|window]]; it opens to the dining-room. I could grope my way upstairs, and
 
 I know his chamber."
 
@@ -270,7 +270,7 @@ I know his chamber."
 
 
 
-"Let 'em alone except they shrieked, and then I'd soon quieten 'em. I
+"Let 'em [[Alone|alone]] except they shrieked, and then I'd soon quieten 'em. I
 
 could wish to find the old chap asleep. If he waked, he'd be dangerous."
 
@@ -284,7 +284,7 @@ could wish to find the old chap asleep. If he waked, he'd be dangerous."
 
 
 
-"Then you're a fool to stop us here. A shot would give the alarm. Moore
+"Then you're a [[Fool|fool]] to stop us here. A shot would give the alarm. Moore
 
 would be on us before we could turn round. We should miss our main
 
@@ -292,7 +292,7 @@ object."
 
 
 
-"You might go on, I tell you. I'd engage Helstone alone."
+"You might go on, I tell you. I'd engage Helstone [[Alone|alone]]."
 
 
 

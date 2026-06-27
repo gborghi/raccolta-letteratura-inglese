@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 6)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -18,7 +18,7 @@ unwearied iteration, that equality is an illusion.
 
 
 
-In truth it is inequality that is the illusion. The extreme
+In [[Truth|truth]] it is inequality that is the illusion. The extreme
 
 disproportion between men, that we seem to see in life, is a thing of
 
@@ -26,7 +26,7 @@ changing lights and lengthening shadows, a twilight full of fancies and
 
 distortions. We find a man famous and cannot live long enough to find
 
-him forgotten; we see a race dominant and cannot linger to see it decay.
+him forgotten; we see a race dominant and cannot linger to see it [[Decay|decay]].
 
 It is the experience of men that always returns to the equality of men;
 
@@ -34,23 +34,23 @@ it is the average that ultimately justifies the average man. It is when
 
 men have seen and suffered much and come at the end of more elaborate
 
-experiments, that they see men as men under an equal light of death and
+experiments, that they see men as men under an equal light of [[Death|death]] and
 
 daily laughter; and none the less mysterious for being many. Nor is it
 
 in vain that these Western democrats have sought the blazonry of their
 
-flag in that great multitude of immortal lights that endure behind the
+[[Flag|flag]] in that great multitude of immortal lights that endure behind the
 
 fires we see, and gathered them into the corner of Old Glory whose
 
-ground is like the glittering night. For veritably, in the spirit as
+ground is like the glittering [[Night|night]]. For veritably, in the spirit as
 
-well as in the symbol, suns and moons and meteors pass and fill our
+[[Well|well]] as in the symbol, suns and moons and meteors pass and fill our
 
 skies with a fleeting and almost theatrical conflagration; and wherever
 
-the old shadow stoops upon the earth, the stars return.
+the old [[Shadow|shadow]] stoops upon the earth, the [[Stars|stars]] return.
 
 
 
@@ -60,7 +60,7 @@ the old shadow stoops upon the earth, the stars return.
 
 
 
-_A Meditation in a New York Hotel_
+_A Meditation in a [[New York]] Hotel_
 
 
 
@@ -68,9 +68,9 @@ _A Meditation in a New York Hotel_
 
 All this must begin with an apology and not an apologia. When I went
 
-wandering about the States disguised as a lecturer, I was well aware
+wandering about the States disguised as a lecturer, I was [[Well|well]] aware
 
-that I was not sufficiently well disguised to be a spy. I was even in
+that I was not sufficiently [[Well|well]] disguised to be a spy. I was even in
 
 the worst possible position to be a sight-seer. A lecturer to American
 
@@ -78,7 +78,7 @@ audiences can hardly be in the holiday mood of a sight-seer. It is
 
 rather the audience that is sight-seeing; even if it is seeing a rather
 
-melancholy sight. Some say that people come to see the lecturer and not
+[[Melancholy|melancholy]] sight. Some say that people come to see the lecturer and not
 
 to hear him; in which case it seems rather a pity that he should disturb
 
@@ -86,7 +86,7 @@ and distress their minds with a lecture. He might merely display himself
 
 on a stand or platform for a stipulated sum; or be exhibited like a
 
-monster in a menagerie. The circus elephant is not expected to make a
+[[Monster|monster]] in a menagerie. The circus elephant is not expected to make a
 
 speech. But it is equally true that the circus elephant is not allowed
 
@@ -128,7 +128,7 @@ of Uplift, and is even, in a manner of speaking, a high-brow. Above all,
 
 I shall probably make generalisations that are much too general; and are
 
-insufficient through being exaggerative. To this sort of doubt all my
+insufficient through being exaggerative. To this sort of [[Doubt|doubt]] all my
 
 impressions are subject; and among them the negative generalisation with
 
@@ -138,11 +138,11 @@ which I shall begin this rambling meditation on American hotels.
 
 In all my American wanderings I never saw such a thing as an inn. They
 
-may exist; but they do not arrest the traveller upon every road as they
+may exist; but they do not arrest the traveller upon every [[Road|road]] as they
 
 do in England and in Europe. The saloons no longer existed when I was
 
-there, owing to the recent reform which restricted intoxicants to the
+there, owing to the recent [[Reform|reform]] which restricted intoxicants to the
 
 wealthier classes. But we feel that the saloons have been there; if one
 
@@ -156,13 +156,13 @@ for the power of modern plutocracy to root them out. There will be a
 
 very different chase when the White Hart is hunted to the forests or
 
-when the Red Lion turns to bay. But people could not feel about the
+when the Red [[Lion]] turns to bay. But people could not feel about the
 
 American saloon as they will feel about the English inns. They could not
 
 feel that the Prohibitionist, that vulgar chucker-out, was chucking
 
-Chaucer out of the Tabard and Shakespeare out of the Mermaid. In justice
+Chaucer out of the Tabard and Shakespeare out of the [[Mermaid]]. In justice
 
 to the American Prohibitionists it must be realised that they were not
 
@@ -180,7 +180,7 @@ Prohibition except in so far as it is involved in the statement that the
 
 saloons were in no sense inns. Secondly, of course, there are the
 
-hotels. There are indeed. There are hotels toppling to the stars, hotels
+hotels. There are indeed. There are hotels toppling to the [[Stars|stars]], hotels
 
 covering the acreage of villages, hotels in multitudinous number like a
 
@@ -190,13 +190,13 @@ inns.
 
 
 
-Broadly speaking, there is only one hotel in America. The pattern of it,
+Broadly speaking, there is only one hotel in [[America]]. The pattern of it,
 
 which is a very rational pattern, is repeated in cities as remote from
 
 each other as the capitals of European empires. You may find that hotel
 
-rising among the red blooms of the warm spring woods of Nebraska, or
+rising among the red blooms of the warm [[Spring|spring]] woods of Nebraska, or
 
 whitened with Canadian snows near the eternal noise of Niagara. And
 

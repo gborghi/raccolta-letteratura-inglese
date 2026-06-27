@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-Towards night an old woman came tottering up the garden as speedily as
+Towards [[Night|night]] an old woman came tottering up the [[Garden|garden]] as speedily as
 she could, and meeting the schoolmaster at the door, said he was to go
 to Dame West’s directly, and had best run on before her.  He and the
-child were on the point of going out together for a walk, and without
+[[Child|child]] were on the point of going out together for a walk, and without
 relinquishing her hand, the schoolmaster hurried away, leaving the
 messenger to follow as she might.
 
 They stopped at a cottage-door, and the schoolmaster knocked softly at
-it with his hand.  It was opened without loss of time.  They entered a
+it with his hand.  It was opened without loss of [[Time|time]].  They entered a
 room where a little group of women were gathered about one, older than
 the rest, who was crying very bitterly, and sat wringing her hands and
 rocking herself to and fro.
@@ -40,7 +40,7 @@ dear, what can I do!’
 don’t mean what you say.  I am sure you don’t.’
 
 ‘I do,’ returned the old woman.  ‘I mean it all.  If he hadn’t been
-poring over his books out of fear of you, he would have been well and
+poring over his books out of [[Fear|fear]] of you, he would have been [[Well|well]] and
 merry now, I know he would.’
 
 The schoolmaster looked round upon the other women as if to entreat
@@ -51,27 +51,27 @@ word in reply, or giving them a look of reproach, he followed the old
 woman who had summoned him (and who had now rejoined them) into another
 room, where his infant friend, half-dressed, lay stretched upon a bed.
 
-He was a very young boy; quite a little child.  His hair still hung in
+He was a very young boy; quite a little [[Child|child]].  His hair still hung in
 curls about his face, and his eyes were very bright; but their light
 was of Heaven, not earth.  The schoolmaster took a seat beside him, and
 stooping over the pillow, whispered his name.  The boy sprung up,
 stroked his face with his hand, and threw his wasted arms round his
 neck, crying out that he was his dear kind friend.
 
-‘I hope I always was.  I meant to be, God knows,’ said the poor
+‘I [[Hope|hope]] I always was.  I meant to be, God knows,’ said the poor
 schoolmaster.
 
 ‘Who is that?’ said the boy, seeing Nell.  ‘I am afraid to kiss her,
 lest I should make her ill.  Ask her to shake hands with me.’
 
-The sobbing child came closer up, and took the little languid hand in
-hers. Releasing his again after a time, the sick boy laid him gently
+The sobbing [[Child|child]] came closer up, and took the little languid hand in
+hers. Releasing his again after a [[Time|time]], the sick boy laid him gently
 down.
 
-‘You remember the garden, Harry,’ whispered the schoolmaster, anxious
-to rouse him, for a dulness seemed gathering upon the child, ‘and how
-pleasant it used to be in the evening time?  You must make haste to
-visit it again, for I think the very flowers have missed you, and are
+‘You remember the [[Garden|garden]], Harry,’ whispered the schoolmaster, anxious
+to rouse him, for a dulness seemed gathering upon the [[Child|child]], ‘and how
+pleasant it used to be in the evening [[Time|time]]?  You must make haste to
+visit it again, for I think the very [[Flowers|flowers]] have missed you, and are
 less gay than they used to be.  You will come soon, my dear, very soon
 now--won’t you?’
 
@@ -79,9 +79,9 @@ The boy smiled faintly--so very, very faintly--and put his hand upon
 his friend’s grey head.  He moved his lips too, but no voice came from
 them; no, not a sound.
 
-In the silence that ensued, the hum of distant voices borne upon the
-evening air came floating through the open window.  ‘What’s that?’ said
-the sick child, opening his eyes.
+In the [[Silence|silence]] that ensued, the hum of distant voices borne upon the
+evening air came floating through the open [[Window|window]].  ‘What’s that?’ said
+the sick [[Child|child]], opening his eyes.
 
 ‘The boys at play upon the green.’
 
@@ -90,7 +90,7 @@ head.  But the feeble arm dropped powerless down.
 
 ‘Shall I do it?’ said the schoolmaster.
 
-‘Please wave it at the window,’ was the faint reply.  ‘Tie it to the
+‘Please wave it at the [[Window|window]],’ was the faint reply.  ‘Tie it to the
 lattice.  Some of them may see it there.  Perhaps they’ll think of me,
 and look this way.’
 
@@ -101,10 +101,10 @@ asked if the little girl were there, for he could not see her.
 
 She stepped forward, and pressed the passive hand that lay upon the
 coverlet.  The two old friends and companions--for such they were,
-though they were man and child--held each other in a long embrace, and
+though they were man and [[Child|child]]--held each other in a long embrace, and
 then the little scholar turned his face towards the wall, and fell
 asleep.
 
 The poor schoolmaster sat in the same place, holding the small cold
-hand in his, and chafing it.  It was but the hand of a dead child.  He
+hand in his, and chafing it.  It was but the hand of a dead [[Child|child]].  He
 felt that; and yet he chafed it still, and could not lay it down.

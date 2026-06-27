@@ -16,8 +16,8 @@ tags:
 
 The other was of more prosperous appearance than most of the men
 on such seats; still, he was not what one calls a gentleman,
-and had probably worked at some time like a human being.
-He was a small, sharp-faced man, with grave, staring eyes,
+and had probably worked at some [[Time|time]] like a human being.
+He was a small, sharp-faced man, with [[Grave|grave]], staring eyes,
 and a beard somewhat foreign.  His clothes were black;
 respectable and yet casual; those of a man who dressed conventionally
 because it was a bore to dress unconventionally--as it is.
@@ -26,13 +26,13 @@ for my bitter social feelings, I tempted him into speech,
 first about the cold, and then about the General Election.
 To this the respectable man replied:
 
-"Well, I don't belong to any party myself.  I'm an Anarchist."
+"[[Well]], I don't belong to any party myself.  I'm an Anarchist."
 
-I looked up and almost expected fire from heaven.
+I looked up and almost expected [[Fire|fire]] from heaven.
 This coincidence was like the end of the world.  I had sat down
 feeling that somehow or other Park-lane must be pulled down;
 and I had sat down beside the man who wanted to pull it down.
-I bowed in silence for an instant under the approaching apocalypse;
+I bowed in [[Silence|silence]] for an instant under the approaching [[Apocalypse|apocalypse]];
 and in that instant the man turned sharply and started talking
 like a torrent.
 
@@ -46,7 +46,7 @@ as to be a better test of teetotalism than the Scotch one of saying
 "Biblical criticism" six times.  I attempted to speak, but he began
 again with the same rippling rapidity.
 
-"You will say that Pidge also admits government in that tenth chapter
+"You will say that Pidge also admits [[government]] in that tenth chapter
 so easily misunderstood.  Bolger has attacked Pidge on those lines.
 But Bolger has no scientific training.  Bolger is a psychometrist,
 but no sociologist.  To any one who has combined a study of Pidge with
@@ -58,7 +58,7 @@ steadily and triumphantly at me, with his head on one side.
 I opened my mouth, and the mere motion seemed to sting him to
 fresh verbal leaps.
 
-"Yes," he said, "that's all very well.  The Finland Group has
+"Yes," he said, "that's all very [[Well|well]].  The Finland Group has
 accepted Bolger.  But," he said, suddenly lifting a long finger as
 if to stop me, "but--Pidge has replied.  His pamphlet is published.
 He has proved that Potential Social Rebuke is not a weapon of
@@ -80,7 +80,7 @@ white houses over in Park-lane, where your masters live?"
 
 He assented and muttered something about concentrations of capital.
 
-"Well," I said, "if the time ever comes when we all storm
+"[[Well]]," I said, "if the [[Time|time]] ever comes when we all [[Storm|storm]]
 those houses, will you tell me one thing?  Tell me how we shall
 do it without authority?  Tell me how you will have an army
 of revolt without discipline?"
@@ -91,15 +91,15 @@ to run after me.  He had remembered something out of Pidge.
 
 I escaped, however, and as I leapt on an omnibus I saw again the enormous
 emblem of the Marble Arch.  I saw that massive symbol of the modern mind:
-a door with no house to it; the gigantic gate of Nowhere.
+a door with no [[house]] to it; the gigantic gate of Nowhere.
 
 -/-
 
 How I found the Superman
 
-READERS of Mr. Bernard Shaw and other modern writers may be
+READERS of Mr. Bernard [[Shaw]] and other modern writers may be
 interested to know that the Superman has been found.  I found him;
-he lives in South Croydon.  My success will be a great blow to Mr. Shaw,
+he lives in South Croydon.  My [[success]] will be a great blow to Mr. [[Shaw]],
 who has been following quite a false scent, and is now looking
 for the creature in Blackpool; and as for Mr. Wells's notion
 of generating him out of gases in a private laboratory, I always
@@ -119,7 +119,7 @@ in their extreme old age; and it was owing to her ceaseless crusade
 that the pestilence of the Monkey-on-the-Stick was almost swept
 from Hoxton.  The devoted worker would tramp the streets untiringly,
 taking away the toys from all the poor children, who were often
-moved to tears by her kindness.  Her good work was interrupted,
+moved to [[Tears|tears]] by her kindness.  Her good work was interrupted,
 partly by a new interest in the creed of Zoroaster, and partly
 by a savage blow from an umbrella.  It was inflicted by a dissolute
 Irish apple-woman, who, on returning from some orgy to her ill-kept
@@ -130,25 +130,25 @@ reformer a severe blow, adding to it an absurd accusation of theft.
 The lady's exquisitely balanced mind received a shock, and it was
 during a short mental illness that she married Dr. Hagg.
 
-Of Dr. Hagg himself I hope there is no need to speak.
+Of Dr. Hagg himself I [[Hope|hope]] there is no need to speak.
 Any one even slightly acquainted with those daring experiments
-in Neo-Individualist Eugenics, which are now the one absorbing
-interest of the English democracy, must know his name and often
+in Neo-Individualist [[Eugenics]], which are now the one absorbing
+interest of the English [[democracy]], must know his name and often
 commend it to the personal protection of an impersonal power.
-Early in life he brought to bear that ruthless insight into the history
+Early in life he brought to bear that ruthless insight into the [[history]]
 of religions which he had gained in boyhood as an electrical engineer.
 Later he became one of our greatest geologists; and achieved that bold and
 bright outlook upon the future of Socialism which only geology can give.
 At first there seemed something like a rift, a faint, but perceptible,
 fissure, between his views and those of his aristocratic wife.
-For she was in favour (to use her own powerful epigram) of protecting
+For she was in favour (to use her own powerful [[Epigram|epigram]]) of protecting
 the poor against themselves; while he declared pitilessly,
 in a new and striking metaphor, that the weakest must go to the wall.
-Eventually, however, the married pair perceived an essential union
+Eventually, however, the married pair perceived an essential [[Union|union]]
 in the unmistakably modern character of both their views, and in this
 enlightening and intelligible formula their souls found peace.
-The result is that this union of the two highest types of
+The result is that this [[Union|union]] of the two highest types of
 our civilisation, the fashionable lady and the all but vulgar
 medical man, has been blessed by the birth of the Superman,
 that being whom all the labourers in Battersea are so eagerly
-expecting night and day.
+expecting [[Night|night]] and day.

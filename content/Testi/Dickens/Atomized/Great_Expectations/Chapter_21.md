@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 21"
+title: "[[Great Expectations]] — Chapter 21"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -34,27 +34,27 @@ quite laden with remembrances of departed friends. He had glittering
 eyes,—small, keen, and black,—and thin wide mottled lips. He had had
 them, to the best of my belief, from forty to fifty years.
 
-“So you were never in London before?” said Mr. Wemmick to me.
+“So you were never in [[London]] before?” said Mr. Wemmick to me.
 
 “No,” said I.
 
 “_I_ was new here once,” said Mr. Wemmick. “Rum to think of now!”
 
-“You are well acquainted with it now?”
+“You are [[Well|well]] acquainted with it now?”
 
 “Why, yes,” said Mr. Wemmick. “I know the moves of it.”
 
 “Is it a very wicked place?” I asked, more for the sake of saying
 something than for information.
 
-“You may get cheated, robbed, and murdered in London. But there are
+“You may get cheated, robbed, and murdered in [[London]]. But there are
 plenty of people anywhere, who’ll do that for you.”
 
-“If there is bad blood between you and them,” said I, to soften it off
+“If there is bad [[Blood|blood]] between you and them,” said I, to soften it off
 a little.
 
-“O! I don’t know about bad blood,” returned Mr. Wemmick; “there’s not
-much bad blood about. They’ll do it, if there’s anything to be got by
+“O! I don’t know about bad [[Blood|blood]],” returned Mr. Wemmick; “there’s not
+much bad [[Blood|blood]] about. They’ll do it, if there’s anything to be got by
 it.”
 
 “That makes it worse.”
@@ -63,24 +63,24 @@ it.”
 say.”
 
 He wore his hat on the back of his head, and looked straight before
-him: walking in a self-contained way as if there were nothing in the
+him: walking in a [[Self|self]]-contained way as if there were nothing in the
 streets to claim his attention. His mouth was such a post-office of a
 mouth that he had a mechanical appearance of smiling. We had got to the
-top of Holborn Hill before I knew that it was merely a mechanical
+top of Holborn [[Hill]] before I knew that it was merely a mechanical
 appearance, and that he was not smiling at all.
 
 “Do you know where Mr. Matthew Pocket lives?” I asked Mr. Wemmick.
 
 “Yes,” said he, nodding in the direction. “At Hammersmith, west of
-London.”
+[[London]].”
 
 “Is that far?”
 
-“Well! Say five miles.”
+“[[Well]]! Say five miles.”
 
 “Do you know him?”
 
-“Why, you’re a regular cross-examiner!” said Mr. Wemmick, looking at me
+“Why, you’re a regular [[Cross|cross]]-examiner!” said Mr. Wemmick, looking at me
 with an approving air. “Yes, I know him. _I_ know him!”
 
 There was an air of toleration or depreciation about his utterance of
@@ -89,26 +89,26 @@ at his block of a face in search of any encouraging note to the text,
 when he said here we were at Barnard’s Inn. My depression was not
 alleviated by the announcement, for, I had supposed that establishment
 to be an hotel kept by Mr. Barnard, to which the Blue Boar in our town
-was a mere public-house. Whereas I now found Barnard to be a
+was a mere public-[[house]]. Whereas I now found Barnard to be a
 disembodied spirit, or a fiction, and his inn the dingiest collection
 of shabby buildings ever squeezed together in a rank corner as a club
 for Tom-cats.
 
 We entered this haven through a wicket-gate, and were disgorged by an
-introductory passage into a melancholy little square that looked to me
+introductory passage into a [[Melancholy|melancholy]] little square that looked to me
 like a flat burying-ground. I thought it had the most dismal trees in
 it, and the most dismal sparrows, and the most dismal cats, and the
 most dismal houses (in number half a dozen or so), that I had ever
 seen. I thought the windows of the sets of chambers into which those
 houses were divided were in every stage of dilapidated blind and
-curtain, crippled flower-pot, cracked glass, dusty decay, and miserable
+curtain, crippled flower-pot, cracked glass, dusty [[Decay|decay]], and miserable
 makeshift; while To Let, To Let, To Let, glared at me from empty rooms,
-as if no new wretches ever came there, and the vengeance of the soul of
-Barnard were being slowly appeased by the gradual suicide of the
+as if no new wretches ever came there, and the vengeance of the [[Soul|soul]] of
+Barnard were being slowly appeased by the gradual [[suicide]] of the
 present occupants and their unholy interment under the gravel. A frowzy
 mourning of soot and smoke attired this forlorn creation of Barnard,
 and it had strewn ashes on its head, and was undergoing penance and
-humiliation as a mere dust-hole. Thus far my sense of sight; while dry
+humiliation as a mere [[Dust|dust]]-hole. Thus far my sense of sight; while dry
 rot and wet rot and all the silent rots that rot in neglected roof and
 cellar,—rot of rat and mouse and bug and coaching-stables near at hand
 besides—addressed themselves faintly to my sense of smell, and moaned,
@@ -142,23 +142,23 @@ himself,—
 
 “To be sure! Yes. You’re in the habit of shaking hands?”
 
-I was rather confused, thinking it must be out of the London fashion,
+I was rather confused, thinking it must be out of the [[London]] fashion,
 but said yes.
 
 “I have got so out of it!” said Mr. Wemmick,—“except at last. Very
 glad, I’m sure, to make your acquaintance. Good day!”
 
-When we had shaken hands and he was gone, I opened the staircase window
+When we had shaken hands and he was gone, I opened the staircase [[Window|window]]
 and had nearly beheaded myself, for, the lines had rotted away, and it
 came down like the guillotine. Happily it was so quick that I had not
 put my head out. After this escape, I was content to take a foggy view
-of the Inn through the window’s encrusting dirt, and to stand dolefully
-looking out, saying to myself that London was decidedly overrated.
+of the Inn through the [[Window|window]]’s encrusting dirt, and to stand dolefully
+looking out, saying to myself that [[London]] was decidedly overrated.
 
 Mr. Pocket, Junior’s, idea of Shortly was not mine, for I had nearly
 maddened myself with looking out for half an hour, and had written my
 name with my finger several times in the dirt of every pane in the
-window, before I heard footsteps on the stairs. Gradually there arose
+[[Window|window]], before I heard footsteps on the stairs. Gradually there arose
 before me the hat, head, neckcloth, waistcoat, trousers, boots, of a
 member of society of about my own standing. He had a paper-bag under
 each arm and a pottle of strawberries in one hand, and was out of
@@ -172,12 +172,12 @@ breath.
 coach from your part of the country at midday, and I thought you would
 come by that one. The fact is, I have been out on your account,—not
 that that is any excuse,—for I thought, coming from the country, you
-might like a little fruit after dinner, and I went to Covent Garden
+might like a little fruit after dinner, and I went to Covent [[Garden]]
 Market to get it good.”
 
 For a reason that I had, I felt as if my eyes would start out of my
 head. I acknowledged his attention incoherently, and began to think
-this was a dream.
+this was [[A Dream|a dream]].
 
 “Dear me!” said Mr. Pocket, Junior. “This door sticks so!”
 
@@ -187,28 +187,28 @@ them. He relinquished them with an agreeable smile, and combated with
 the door as if it were a wild beast. It yielded so suddenly at last,
 that he staggered back upon me, and I staggered back upon the opposite
 door, and we both laughed. But still I felt as if my eyes must start
-out of my head, and as if this must be a dream.
+out of my head, and as if this must be [[A Dream|a dream]].
 
 “Pray come in,” said Mr. Pocket, Junior. “Allow me to lead the way. I
-am rather bare here, but I hope you’ll be able to make out tolerably
-well till Monday. My father thought you would get on more agreeably
+am rather bare here, but I [[Hope|hope]] you’ll be able to make out tolerably
+[[Well|well]] till Monday. My father thought you would get on more agreeably
 through to-morrow with me than with him, and might like to take a walk
-about London. I am sure I shall be very happy to show London to you. As
-to our table, you won’t find that bad, I hope, for it will be supplied
-from our coffee-house here, and (it is only right I should add) at your
+about [[London]]. I am sure I shall be very happy to show [[London]] to you. As
+to our table, you won’t find that bad, I [[Hope|hope]], for it will be supplied
+from our coffee-[[house]] here, and (it is only right I should add) at your
 expense, such being Mr. Jaggers’s directions. As to our lodging, it’s
 not by any means splendid, because I have my own bread to earn, and my
 father hasn’t anything to give me, and I shouldn’t be willing to take
 it, if he had. This is our sitting-room,—just such chairs and tables
-and carpet and so forth, you see, as they could spare from home. You
+and carpet and so forth, you see, as they could spare from [[Home|home]]. You
 mustn’t give me credit for the tablecloth and spoons and castors,
-because they come for you from the coffee-house. This is my little
+because they come for you from the coffee-[[house]]. This is my little
 bedroom; rather musty, but Barnard’s _is_ musty. This is your bedroom;
 the furniture’s hired for the occasion, but I trust it will answer the
 purpose; if you should want anything, I’ll go and fetch it. The
-chambers are retired, and we shall be alone together, but we shan’t
+chambers are retired, and we shall be [[Alone|alone]] together, but we shan’t
 fight, I dare say. But dear me, I beg your pardon, you’re holding the
-fruit all this time. Pray let me take these bags from you. I am quite
+fruit all this [[Time|time]]. Pray let me take these bags from you. I am quite
 ashamed.”
 
 As I stood opposite to Mr. Pocket, Junior, delivering him the bags,

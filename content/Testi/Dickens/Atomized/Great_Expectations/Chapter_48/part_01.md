@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 48 (part 1)"
+title: "[[Great Expectations]] — Chapter 48 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -19,7 +19,7 @@ Chapter XLVIII.
 
 The second of the two meetings referred to in the last chapter occurred
 about a week after the first. I had again left my boat at the wharf
-below Bridge; the time was an hour earlier in the afternoon; and,
+below Bridge; the [[Time|time]] was an hour earlier in the afternoon; and,
 undecided where to dine, I had strolled up into Cheapside, and was
 strolling along it, surely the most unsettled person in all the busy
 concourse, when a large hand was laid upon my shoulder by some one
@@ -33,8 +33,8 @@ Where are you bound for?”
 
 “Don’t you know?” said Mr. Jaggers.
 
-“Well,” I returned, glad for once to get the better of him in
-cross-examination, “I do _not_ know, for I have not made up my mind.”
+“[[Well]],” I returned, glad for once to get the better of him in
+[[Cross|cross]]-examination, “I do _not_ know, for I have not made up my mind.”
 
 “You are going to dine?” said Mr. Jaggers. “You don’t mind admitting
 that, I suppose?”
@@ -59,7 +59,7 @@ the Hummums had opened white eyes in the ghostly wall.
 
 At the office in Little Britain there was the usual letter-writing,
 hand-washing, candle-snuffing, and safe-locking, that closed the
-business of the day. As I stood idle by Mr. Jaggers’s fire, its rising
+business of the day. As I stood idle by Mr. Jaggers’s [[Fire|fire]], its rising
 and falling flame made the two casts on the shelf look as if they were
 playing a diabolical game at bo-peep with me; while the pair of coarse,
 fat office candles that dimly lighted Mr. Jaggers as he wrote in a
@@ -75,7 +75,7 @@ was not to be done. He turned his eyes on Mr. Jaggers whenever he
 raised them from the table, and was as dry and distant to me as if
 there were twin Wemmicks, and this was the wrong one.
 
-“Did you send that note of Miss Havisham’s to Mr. Pip, Wemmick?” Mr.
+“Did you send that note of [[Miss Havisham]]’s to Mr. Pip, Wemmick?” Mr.
 Jaggers asked, soon after we began dinner.
 
 “No, sir,” returned Wemmick; “it was going by post, when you brought
@@ -83,7 +83,7 @@ Mr. Pip into the office. Here it is.” He handed it to his principal
 instead of to me.
 
 “It’s a note of two lines, Pip,” said Mr. Jaggers, handing it on, “sent
-up to me by Miss Havisham on account of her not being sure of your
+up to me by [[Miss Havisham]] on account of her not being sure of your
 address. She tells me that she wants to see you on a little matter of
 business you mentioned to her. You’ll go down?”
 
@@ -94,7 +94,7 @@ those terms.
 
 “I have an impending engagement,” said I, glancing at Wemmick, who was
 putting fish into the post-office, “that renders me rather uncertain of
-my time. At once, I think.”
+my [[Time|time]]. At once, I think.”
 
 “If Mr. Pip has the intention of going at once,” said Wemmick to Mr.
 Jaggers, “he needn’t write an answer, you know.”

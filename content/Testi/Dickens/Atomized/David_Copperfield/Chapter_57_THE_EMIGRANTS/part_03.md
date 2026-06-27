@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 57: THE EMIGRANTS (part 3)"
+title: "[[David Copperfield]] — Chapter 57: THE EMIGRANTS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘What I chiefly hope, my dear Mr. Copperfield,’ said Mrs. Micawber,
+‘What I chiefly [[Hope|hope]], my dear Mr. Copperfield,’ said Mrs. Micawber,
 ‘is, that in some branches of our family we may live again in the old
 country. Do not frown, Micawber! I do not now refer to my own family,
 but to our children’s children. However vigorous the sapling,’ said Mrs.
@@ -30,7 +30,7 @@ particular wish upon the subject.’
 out, Micawber, to this distant clime, to strengthen, not to weaken, the
 connexion between yourself and Albion.’
 
-‘The connexion in question, my love,’ rejoined Mr. Micawber, ‘has not
+‘The connexion in question, my [[Love|love]],’ rejoined Mr. Micawber, ‘has not
 laid me, I repeat, under that load of personal obligation, that I am at
 all sensitive as to the formation of another connexion.’
 
@@ -54,13 +54,13 @@ shut my eyes to those facts. But I also know what Mr. Micawber is.
 I know the latent power of Mr. Micawber. And therefore I consider it
 vitally important that Mr. Micawber should feel his position.’
 
-‘My love,’ he observed, ‘perhaps you will allow me to remark that it is
+‘My [[Love|love]],’ he observed, ‘perhaps you will allow me to remark that it is
 barely possible that I DO feel my position at the present moment.’
 
 ‘I think not, Micawber,’ she rejoined. ‘Not fully. My dear Mr.
 Copperfield, Mr. Micawber’s is not a common case. Mr. Micawber is going
 to a distant country expressly in order that he may be fully understood
-and appreciated for the first time. I wish Mr. Micawber to take his
+and appreciated for the first [[Time|time]]. I wish Mr. Micawber to take his
 stand upon that vessel’s prow, and firmly say, “This country I am
 come to conquer! Have you honours? Have you riches? Have you posts of
 profitable pecuniary emolument? Let them be brought forward. They are
@@ -83,7 +83,7 @@ stationed on the figure-head.
 ‘And doing that,’ said Mrs. Micawber, ‘--feeling his position--am I not
 right in saying that Mr. Micawber will strengthen, and not weaken, his
 connexion with Britain? An important public character arising in that
-hemisphere, shall I be told that its influence will not be felt at home?
+hemisphere, shall I be told that its influence will not be felt at [[Home|home]]?
 Can I be so weak as to imagine that Mr. Micawber, wielding the rod of
 talent and of power in Australia, will be nothing in England? I am but
 a woman; but I should be unworthy of myself and of my papa, if I were
@@ -96,17 +96,17 @@ before.
 ‘And therefore it is,’ said Mrs. Micawber, ‘that I the more wish, that,
 at a future period, we may live again on the parent soil. Mr. Micawber
 may be--I cannot disguise from myself that the probability is, Mr.
-Micawber will be--a page of History; and he ought then to be represented
+Micawber will be--a page of [[history|History]]; and he ought then to be represented
 in the country which gave him birth, and did NOT give him employment!’
 
-‘My love,’ observed Mr. Micawber, ‘it is impossible for me not to be
+‘My [[Love|love]],’ observed Mr. Micawber, ‘it is impossible for me not to be
 touched by your affection. I am always willing to defer to your good
 sense. What will be--will be. Heaven forbid that I should grudge my
 native country any portion of the wealth that may be accumulated by our
 descendants!’
 
-‘That’s well,’ said my aunt, nodding towards Mr. Peggotty, ‘and I drink
-my love to you all, and every blessing and success attend you!’
+‘That’s [[Well|well]],’ said my aunt, nodding towards Mr. Peggotty, ‘and I drink
+my [[Love|love]] to you all, and every blessing and [[success]] attend you!’
 
 Mr. Peggotty put down the two children he had been nursing, one on each
 knee, to join Mr. and Mrs. Micawber in drinking to all of us in return;
@@ -116,15 +116,15 @@ establish a good name, and be beloved, go where he would.
 
 Even the children were instructed, each to dip a wooden spoon into Mr.
 Micawber’s pot, and pledge us in its contents. When this was done, my
-aunt and Agnes rose, and parted from the emigrants. It was a sorrowful
+aunt and Agnes [[Rose|rose]], and parted from the emigrants. It was a sorrowful
 farewell. They were all crying; the children hung about Agnes to the
 last; and we left poor Mrs. Micawber in a very distressed condition,
 sobbing and weeping by a dim candle, that must have made the room look,
-from the river, like a miserable light-house.
+from the [[River|river]], like a miserable light-[[house]].
 
 I went down again next morning to see that they were away. They had
-departed, in a boat, as early as five o’clock. It was a wonderful
+departed, in a boat, as early as five o’[[Clock|clock]]. It was a wonderful
 instance to me of the gap such partings make, that although my
-association of them with the tumble-down public-house and the wooden
-stairs dated only from last night, both seemed dreary and deserted, now
+association of them with the tumble-down public-[[house]] and the wooden
+stairs dated only from last [[Night|night]], both seemed dreary and deserted, now
 that they were gone.

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 4"
+title: "The Mystery of [[Edwin Drood]] — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -18,7 +18,7 @@ CHAPTER IV.
 MR. SAPSEA
 
 
-Accepting the Jackass as the type of self-sufficient stupidity and
+Accepting the Jackass as the type of [[Self|self]]-sufficient stupidity and
 conceit—a custom, perhaps, like some few other customs, more
 conventional than fair—then the purest jackass in Cloisterham is Mr.
 Thomas Sapsea, Auctioneer.
@@ -31,7 +31,7 @@ his style. He has even (in selling landed property) tried the
 experiment of slightly intoning in his pulpit, to make himself more
 like what he takes to be the genuine ecclesiastical article. So, in
 ending a Sale by Public Auction, Mr. Sapsea finishes off with an air of
-bestowing a benediction on the assembled brokers, which leaves the real
+bestowing a benediction on the assembled brokers, which [[Leaves|leaves]] the real
 Dean—a modest and worthy gentleman—far behind.
 
 Mr. Sapsea has many admirers; indeed, the proposition is carried by a
@@ -48,7 +48,7 @@ himself has grown since he was a baby; how can dunder-headed Mr. Sapsea
 be otherwise than a credit to Cloisterham, and society?
 
 Mr. Sapsea’s premises are in the High-street, over against the Nuns’
-House. They are of about the period of the Nuns’ House, irregularly
+[[house|House]]. They are of about the period of the Nuns’ [[house|House]], irregularly
 modernised here and there, as steadily deteriorating generations found,
 more and more, that they preferred air and light to Fever and the
 Plague. Over the doorway is a wooden effigy, about half life-size,
@@ -57,41 +57,41 @@ of selling. The chastity of the idea, and the natural appearance of the
 little finger, hammer, and pulpit, have been much admired.
 
 Mr. Sapsea sits in his dull ground-floor sitting-room, giving first on
-his paved back yard; and then on his railed-off garden. Mr. Sapsea has
-a bottle of port wine on a table before the fire—the fire is an early
-luxury, but pleasant on the cool, chilly autumn evening—and is
-characteristically attended by his portrait, his eight-day clock, and
+his paved back yard; and then on his railed-off [[Garden|garden]]. Mr. Sapsea has
+a bottle of port wine on a table before the [[Fire|fire]]—the [[Fire|fire]] is an early
+luxury, but pleasant on the cool, chilly [[Autumn|autumn]] evening—and is
+characteristically attended by his portrait, his eight-day [[Clock|clock]], and
 his weather-glass. Characteristically, because he would uphold himself
-against mankind, his weather-glass against weather, and his clock
-against time.
+against mankind, his weather-glass against weather, and his [[Clock|clock]]
+against [[Time|time]].
 
 By Mr. Sapsea’s side on the table are a writing-desk and writing
 materials. Glancing at a scrap of manuscript, Mr. Sapsea reads it to
 himself with a lofty air, and then, slowly pacing the room with his
-thumbs in the arm-holes of his waistcoat, repeats it from memory: so
+thumbs in the arm-holes of his waistcoat, repeats it from [[Memory|memory]]: so
 internally, though with much dignity, that the word “Ethelinda” is
-alone audible.
+[[Alone|alone]] audible.
 
 There are three clean wineglasses in a tray on the table. His
 serving-maid entering, and announcing “Mr. Jasper is come, sir,” Mr.
 Sapsea waves “Admit him,” and draws two wineglasses from the rank, as
 being claimed.
 
-“Glad to see you, sir. I congratulate myself on having the honour of
-receiving you here for the first time.” Mr. Sapsea does the honours of
-his house in this wise.
+“Glad to see you, sir. I congratulate myself on having the [[Honour|honour]] of
+receiving you here for the first [[Time|time]].” Mr. Sapsea does the honours of
+his [[house]] in this wise.
 
-“You are very good. The honour is mine and the self-congratulation is
+“You are very good. The [[Honour|honour]] is mine and the [[Self|self]]-congratulation is
 mine.”
 
 “You are pleased to say so, sir. But I do assure you that it is a
-satisfaction to me to receive you in my humble home. And that is what I
+satisfaction to me to receive you in my humble [[Home|home]]. And that is what I
 would not say to everybody.” Ineffable loftiness on Mr. Sapsea’s part
 accompanies these words, as leaving the sentence to be understood: “You
 will not easily believe that your society can be a satisfaction to a
 man like myself; nevertheless, it is.”
 
-“I have for some time desired to know you, Mr. Sapsea.”
+“I have for some [[Time|time]] desired to know you, Mr. Sapsea.”
 
 “And I, sir, have long known you by reputation as a man of taste. Let
 me fill your glass. I will give you, sir,” says Mr. Sapsea, filling his
@@ -106,9 +106,9 @@ fully convinced of its being appropriate to any subsequent era.
 
 “You can scarcely be ignorant, Mr. Sapsea,” observes Jasper, watching
 the auctioneer with a smile as the latter stretches out his legs before
-the fire, “that you know the world.”
+the [[Fire|fire]], “that you know the world.”
 
-“Well, sir,” is the chuckling reply, “I think I know something of it;
+“[[Well]], sir,” is the chuckling reply, “I think I know something of it;
 something of it.”
 
 “Your reputation for that knowledge has always interested and surprised
@@ -125,11 +125,11 @@ Jasper? You are much my junior.”
 “If I have not gone to foreign countries, young man, foreign countries
 have come to me. They have come to me in the way of business, and I
 have improved upon my opportunities. Put it that I take an inventory,
-or make a catalogue. I see a French clock. I never saw him before, in
-my life, but I instantly lay my finger on him and say ‘Paris!’ I see
+or make a catalogue. I see a French [[Clock|clock]]. I never saw him before, in
+my life, but I instantly lay my finger on him and say ‘[[Paris]]!’ I see
 some cups and saucers of Chinese make, equally strangers to me
 personally: I put my finger on them, then and there, and I say ‘Pekin,
-Nankin, and Canton.’ It is the same with Japan, with Egypt, and with
+Nankin, and Canton.’ It is the same with Japan, with [[Egypt]], and with
 bamboo and sandalwood from the East Indies; I put my finger on them
 all. I have put my finger on the North Pole before now, and said ‘Spear
 of Esquimaux make, for half a pint of pale sherry!’”
@@ -159,16 +159,16 @@ watering eyes.
 enlarged my mind up to—I will not say to what it now is, for that might
 seem to aim at too much, but up to the pitch of wanting another mind to
 be absorbed in it—I cast my eye about me for a nuptial partner.
-Because, as I say, it is not good for man to be alone.”
+Because, as I say, it is not good for man to be [[Alone|alone]].”
 
-Mr. Jasper appears to commit this original idea to memory.
+Mr. Jasper appears to commit this original idea to [[Memory|memory]].
 
-“Miss Brobity at that time kept, I will not call it the rival
-establishment to the establishment at the Nuns’ House opposite, but I
+“Miss Brobity at that [[Time|time]] kept, I will not call it the rival
+establishment to the establishment at the Nuns’ [[house|House]] opposite, but I
 will call it the other parallel establishment down town. The world did
 have it that she showed a passion for attending my sales, when they
-took place on half holidays, or in vacation time. The world did put it
-about, that she admired my style. The world did notice that as time
+took place on half holidays, or in vacation [[Time|time]]. The world did put it
+about, that she admired my style. The world did notice that as [[Time|time]]
 flowed by, my style became traceable in the dictation-exercises of Miss
 Brobity’s pupils. Young man, a whisper even sprang up in obscure
 malignity, that one ignorant and besotted Churl (a parent) so committed
@@ -184,7 +184,7 @@ empty.
 “Miss Brobity’s Being, young man, was deeply imbued with homage to
 Mind. She revered Mind, when launched, or, as I say, precipitated, on
 an extensive knowledge of the world. When I made my proposal, she did
-me the honour to be so overshadowed with a species of Awe, as to be
+me the [[Honour|honour]] to be so overshadowed with a species of Awe, as to be
 able to articulate only the two words, ‘O Thou!’ meaning myself. Her
 limpid blue eyes were fixed upon me, her semi-transparent hands were
 clasped together, pallor overspread her aquiline features, and, though
@@ -202,9 +202,9 @@ deepened voice “Ah!”—rather as if stopping himself on the extreme verge
 of adding—“men!”
 
 “I have been since,” says Mr. Sapsea, with his legs stretched out, and
-solemnly enjoying himself with the wine and the fire, “what you behold
+solemnly enjoying himself with the wine and the [[Fire|fire]], “what you behold
 me; I have been since a solitary mourner; I have been since, as I say,
-wasting my evening conversation on the desert air. I will not say that
+wasting my evening conversation on the [[Desert|desert]] air. I will not say that
 I have reproached myself; but there have been times when I have asked
 myself the question: What if her husband had been nearer on a level
 with her? If she had not had to look up quite so high, what might the
@@ -220,11 +220,11 @@ thought in another form; but that is the way I put it.”
 Mr. Jasper murmurs assent.
 
 “And now, Mr. Jasper,” resumes the auctioneer, producing his scrap of
-manuscript, “Mrs. Sapsea’s monument having had full time to settle and
-dry, let me take your opinion, as a man of taste, on the inscription I
+manuscript, “Mrs. Sapsea’s monument having had full [[Time|time]] to settle and
+dry, let me take your opinion, as a man of taste, on the [[Inscription|inscription]] I
 have (as I before remarked, not without some little fever of the brow)
 drawn out for it. Take it in your own hand. The setting out of the
-lines requires to be followed with the eye, as well as the contents
+lines requires to be followed with the eye, as [[Well|well]] as the contents
 with the mind.”
 
 Mr. Jasper complying, sees and reads as follows:
@@ -233,7 +233,7 @@ ETHELINDA,
 Reverential Wife of
 MR. THOMAS SAPSEA,
 AUCTIONEER, VALUER, ESTATE AGENT, &c.,
-OF THIS CITY.
+OF THIS [[City|CITY]].
 Whose Knowledge of the World,
 Though somewhat extensive,
 Never brought him acquainted with
@@ -248,11 +248,11 @@ WITH A BLUSH RETIRE.
 
 
 Mr. Sapsea having risen and stationed himself with his back to the
-fire, for the purpose of observing the effect of these lines on the
+[[Fire|fire]], for the purpose of observing the effect of these lines on the
 countenance of a man of taste, consequently has his face towards the
-door, when his serving-maid, again appearing, announces, “Durdles is
+door, when his serving-maid, again appearing, announces, “[[Durdles]] is
 come, sir!” He promptly draws forth and fills the third wineglass, as
-being now claimed, and replies, “Show Durdles in.”
+being now claimed, and replies, “Show [[Durdles]] in.”
 
 “Admirable!” quoth Mr. Jasper, handing back the paper.
 
@@ -261,71 +261,71 @@ being now claimed, and replies, “Show Durdles in.”
 “Impossible not to approve. Striking, characteristic, and complete.”
 
 The auctioneer inclines his head, as one accepting his due and giving a
-receipt; and invites the entering Durdles to take off that glass of
+receipt; and invites the entering [[Durdles]] to take off that glass of
 wine (handing the same), for it will warm him.
 
-Durdles is a stonemason; chiefly in the gravestone, tomb, and monument
+[[Durdles]] is a stonemason; chiefly in the gravestone, tomb, and monument
 way, and wholly of their colour from head to foot. No man is better
 known in Cloisterham. He is the chartered libertine of the place. Fame
 trumpets him a wonderful workman—which, for aught that anybody knows,
 he may be (as he never works); and a wonderful sot—which everybody
-knows he is. With the Cathedral crypt he is better acquainted than any
+knows he is. With the [[Cathedral]] crypt he is better acquainted than any
 living authority; it may even be than any dead one. It is said that the
 intimacy of this acquaintance began in his habitually resorting to that
-secret place, to lock-out the Cloisterham boy-populace, and sleep off
-fumes of liquor: he having ready access to the Cathedral, as contractor
+secret place, to lock-out the Cloisterham boy-populace, and [[Sleep|sleep]] off
+fumes of liquor: he having ready access to the [[Cathedral]], as contractor
 for rough repairs. Be this as it may, he does know much about it, and,
 in the demolition of impedimental fragments of wall, buttress, and
 pavement, has seen strange sights. He often speaks of himself in the
-third person; perhaps, being a little misty as to his own identity,
+third person; perhaps, being a little misty as to his own [[Identity|identity]],
 when he narrates; perhaps impartially adopting the Cloisterham
 nomenclature in reference to a character of acknowledged distinction.
-Thus he will say, touching his strange sights: “Durdles come upon the
-old chap,” in reference to a buried magnate of ancient time and high
+Thus he will say, touching his strange sights: “[[Durdles]] come upon the
+old chap,” in reference to a buried magnate of ancient [[Time|time]] and high
 degree, “by striking right into the coffin with his pick. The old chap
-gave Durdles a look with his open eyes, as much as to say, ‘Is your
-name Durdles? Why, my man, I’ve been waiting for you a devil of a
-time!’ And then he turned to powder.” With a two-foot rule always in
-his pocket, and a mason’s hammer all but always in his hand, Durdles
+gave [[Durdles]] a look with his open eyes, as much as to say, ‘Is your
+name [[Durdles]]? Why, my man, I’ve been waiting for you a devil of a
+[[Time|time]]!’ And then he turned to powder.” With a two-foot rule always in
+his pocket, and a mason’s hammer all but always in his hand, [[Durdles]]
 goes continually sounding and tapping all about and about the
-Cathedral; and whenever he says to Tope: “Tope, here’s another old ’un
+[[Cathedral]]; and whenever he says to Tope: “Tope, here’s another old ’un
 in here!” Tope announces it to the Dean as an established discovery.
 
 In a suit of coarse flannel with horn buttons, a yellow neckerchief
 with draggled ends, an old hat more russet-coloured than black, and
-laced boots of the hue of his stony calling, Durdles leads a hazy,
+laced boots of the hue of his stony calling, [[Durdles]] leads a hazy,
 gipsy sort of life, carrying his dinner about with him in a small
 bundle, and sitting on all manner of tombstones to dine. This dinner of
-Durdles’s has become quite a Cloisterham institution: not only because
+[[Durdles]]’s has become quite a Cloisterham institution: not only because
 of his never appearing in public without it, but because of its having
 been, on certain renowned occasions, taken into custody along with
-Durdles (as drunk and incapable), and exhibited before the Bench of
+[[Durdles]] (as drunk and incapable), and exhibited before the Bench of
 justices at the townhall. These occasions, however, have been few and
-far apart: Durdles being as seldom drunk as sober. For the rest, he is
-an old bachelor, and he lives in a little antiquated hole of a house
+far apart: [[Durdles]] being as seldom drunk as sober. For the rest, he is
+an old bachelor, and he lives in a little antiquated hole of a [[house]]
 that was never finished: supposed to be built, so far, of stones stolen
-from the city wall. To this abode there is an approach, ankle-deep in
+from the [[City|city]] wall. To this abode there is an approach, ankle-deep in
 stone chips, resembling a petrified grove of tombstones, urns,
 draperies, and broken columns, in all stages of sculpture. Herein two
 journeymen incessantly chip, while other two journeymen, who face each
 other, incessantly saw stone; dipping as regularly in and out of their
 sheltering sentry-boxes, as if they were mechanical figures
-emblematical of Time and Death.
+emblematical of [[Time]] and [[Death]].
 
-To Durdles, when he had consumed his glass of port, Mr. Sapsea intrusts
-that precious effort of his Muse. Durdles unfeelingly takes out his
+To [[Durdles]], when he had consumed his glass of port, Mr. Sapsea intrusts
+that precious effort of his Muse. [[Durdles]] unfeelingly takes out his
 two-foot rule, and measures the lines calmly, alloying them with
 stone-grit.
 
 “This is for the monument, is it, Mr. Sapsea?”
 
-“The Inscription. Yes.” Mr. Sapsea waits for its effect on a common
+“The [[Inscription]]. Yes.” Mr. Sapsea waits for its effect on a common
 mind.
 
-“It’ll come in to a eighth of a inch,” says Durdles. “Your servant, Mr.
-Jasper. Hope I see you well.”
+“It’ll come in to a eighth of a inch,” says [[Durdles]]. “Your servant, Mr.
+Jasper. [[Hope]] I see you [[Well|well]].”
 
-“How are you Durdles?”
+“How are you [[Durdles]]?”
 
 “I’ve got a touch of the Tombatism on me, Mr. Jasper, but that I must
 expect.”
@@ -334,36 +334,36 @@ expect.”
 by having his composition so mechanically received.)
 
 “No, I don’t. I mean, Mr. Sapsea, the Tombatism. It’s another sort from
-Rheumatism. Mr. Jasper knows what Durdles means. You get among them
-Tombs afore it’s well light on a winter morning, and keep on, as the
+Rheumatism. Mr. Jasper knows what [[Durdles]] means. You get among them
+Tombs afore it’s [[Well|well]] light on a [[Winter|winter]] morning, and keep on, as the
 Catechism says, a-walking in the same all the days of your life, and
-_you’ll_ know what Durdles means.”
+_you’ll_ know what [[Durdles]] means.”
 
 “It is a bitter cold place,” Mr. Jasper assents, with an antipathetic
 shiver.
 
 “And if it’s bitter cold for you, up in the chancel, with a lot of live
-breath smoking out about you, what the bitterness is to Durdles, down
+breath smoking out about you, what the bitterness is to [[Durdles]], down
 in the crypt among the earthy damps there, and the dead breath of the
-old ’uns,” returns that individual, “Durdles leaves you to judge.—Is
+old ’uns,” returns that individual, “[[Durdles]] [[Leaves|leaves]] you to judge.—Is
 this to be put in hand at once, Mr. Sapsea?”
 
 Mr. Sapsea, with an Author’s anxiety to rush into publication, replies
 that it cannot be out of hand too soon.
 
-“You had better let me have the key then,” says Durdles.
+“You had better let me have the key then,” says [[Durdles]].
 
 “Why, man, it is not to be put inside the monument!”
 
-“Durdles knows where it’s to be put, Mr. Sapsea; no man better. Ask
-’ere a man in Cloisterham whether Durdles knows his work.”
+“[[Durdles]] knows where it’s to be put, Mr. Sapsea; no man better. Ask
+’ere a man in Cloisterham whether [[Durdles]] knows his work.”
 
 Mr. Sapsea rises, takes a key from a drawer, unlocks an iron safe let
 into the wall, and takes from it another key.
 
-“When Durdles puts a touch or a finish upon his work, no matter where,
-inside or outside, Durdles likes to look at his work all round, and see
-that his work is a-doing him credit,” Durdles explains, doggedly.
+“When [[Durdles]] puts a touch or a finish upon his work, no matter where,
+inside or outside, [[Durdles]] likes to look at his work all round, and see
+that his work is a-doing him credit,” [[Durdles]] explains, doggedly.
 
 The key proffered him by the bereaved widower being a large one, he
 slips his two-foot rule into a side-pocket of his flannel trousers made
@@ -371,7 +371,7 @@ for it, and deliberately opens his flannel coat, and opens the mouth of
 a large breast-pocket within it before taking the key to place it in
 that repository.
 
-“Why, Durdles!” exclaims Jasper, looking on amused, “you are undermined
+“Why, [[Durdles]]!” exclaims Jasper, looking on amused, “you are undermined
 with pockets!”
 
 “And I carries weight in ’em too, Mr. Jasper. Feel those!” producing
@@ -380,19 +380,19 @@ two other large keys.
 “Hand me Mr. Sapsea’s likewise. Surely this is the heaviest of the
 three.”
 
-“You’ll find ’em much of a muchness, I expect,” says Durdles. “They all
-belong to monuments. They all open Durdles’s work. Durdles keeps the
+“You’ll find ’em much of a muchness, I expect,” says [[Durdles]]. “They all
+belong to monuments. They all open [[Durdles]]’s work. [[Durdles]] keeps the
 keys of his work mostly. Not that they’re much used.”
 
 “By the bye,” it comes into Jasper’s mind to say, as he idly examines
 the keys, “I have been going to ask you, many a day, and have always
-forgotten. You know they sometimes call you Stony Durdles, don’t you?”
+forgotten. You know they sometimes call you Stony [[Durdles]], don’t you?”
 
-“Cloisterham knows me as Durdles, Mr. Jasper.”
+“Cloisterham knows me as [[Durdles]], Mr. Jasper.”
 
 “I am aware of that, of course. But the boys sometimes—”
 
-“O! if you mind them young imps of boys—” Durdles gruffly interrupts.
+“O! if you mind them young imps of boys—” [[Durdles]] gruffly interrupts.
 
 “I don’t mind them any more than you do. But there was a discussion the
 other day among the Choir, whether Stony stood for Tony;” clinking one
@@ -407,7 +407,7 @@ key against another.
 “Or whether the name comes from your trade. How stands the fact?”
 
 Mr. Jasper weighs the three keys in his hand, lifts his head from his
-idly stooping attitude over the fire, and delivers the keys to Durdles
+idly stooping attitude over the [[Fire|fire]], and delivers the keys to [[Durdles]]
 with an ingenuous and friendly face.
 
 But the stony one is a gruff one likewise, and that hazy state of his

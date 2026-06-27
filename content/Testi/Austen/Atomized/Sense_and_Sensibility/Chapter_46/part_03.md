@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 46 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 46 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,7 +22,7 @@ consoled her! I cannot express my own abhorrence of myself. Whenever I
 
 looked towards the past, I saw some duty neglected, or some failing
 
-indulged. Every body seemed injured by me. The kindness, the unceasing
+indulged. Every [[Body|body]] seemed injured by me. The kindness, the unceasing
 
 kindness of Mrs. Jennings, I had repaid with ungrateful contempt. To
 
@@ -48,11 +48,11 @@ imitate your forbearance, or lessen your restraints, by taking any part
 
 in those offices of general complaisance or particular gratitude which
 
-you had hitherto been left to discharge alone? No; not less when I knew
+you had hitherto been left to discharge [[Alone|alone]]? No; not less when I knew
 
 you to be unhappy, than when I had believed you at ease, did I turn
 
-away from every exertion of duty or friendship; scarcely allowing
+away from every exertion of duty or [[Friendship|friendship]]; scarcely allowing
 
 sorrow to exist but with me, regretting only _that_ heart which had
 
@@ -62,11 +62,11 @@ unbounded affection, to be miserable for my sake.”
 
 
 
-Here ceased the rapid flow of her self-reproving spirit; and Elinor,
+Here ceased the rapid flow of her [[Self|self]]-reproving spirit; and Elinor,
 
 impatient to soothe, though too honest to flatter, gave her instantly
 
-that praise and support which her frankness and her contrition so well
+that praise and support which her frankness and her contrition so [[Well|well]]
 
 deserved. Marianne pressed her hand and replied,—
 
@@ -82,7 +82,7 @@ torture myself. I shall now live solely for my family. You, my mother,
 
 and Margaret, must henceforth be all the world to me; you will share my
 
-affections entirely between you. From you, from my home, I shall never
+affections entirely between you. From you, from my [[Home|home]], I shall never
 
 again have the smallest incitement to move; and if I do mix in other
 
@@ -108,7 +108,7 @@ everything would become easy.”
 
 
 
-Elinor, who had now been for some time reflecting on the propriety or
+Elinor, who had now been for some [[Time|time]] reflecting on the propriety or
 
 impropriety of speedily hazarding her narration, without feeling at all
 
@@ -136,13 +136,13 @@ thousand inquiries sprung up from her heart, but she dared not urge
 
 one. She caught every syllable with panting eagerness; her hand,
 
-unknowingly to herself, closely pressed her sister’s, and tears covered
+unknowingly to herself, closely pressed her sister’s, and [[Tears|tears]] covered
 
 her cheeks.
 
 
 
-Elinor, dreading her being tired, led her towards home; and till they
+Elinor, dreading her being tired, led her towards [[Home|home]]; and till they
 
 reached the door of the cottage, easily conjecturing what her curiosity
 
@@ -152,13 +152,13 @@ but Willoughby, and their conversation together; and was carefully
 
 minute in every particular of speech and look, where minuteness could
 
-be safely indulged. As soon as they entered the house, Marianne with a
+be safely indulged. As soon as they entered the [[house]], Marianne with a
 
 kiss of gratitude and these two words just articulate through her
 
-tears, “Tell mama,” withdrew from her sister and walked slowly up
+[[Tears|tears]], “Tell mama,” withdrew from her sister and walked slowly up
 
-stairs. Elinor would not attempt to disturb a solitude so reasonable as
+stairs. Elinor would not attempt to disturb a [[Solitude|solitude]] so reasonable as
 
 what she now sought; and with a mind anxiously pre-arranging its
 

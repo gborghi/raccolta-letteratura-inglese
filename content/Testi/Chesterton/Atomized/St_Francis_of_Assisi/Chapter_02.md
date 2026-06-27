@@ -17,24 +17,24 @@ tags:
 Chapter 2
 THE WORLD ST. FRANCIS FOUND
 The modern innovation which has substituted
-journalism for history, or for that tradition that is the gossip of
-history, has had at least one definite effect. It has insured that
+journalism for [[history]], or for that tradition that is the gossip of
+[[history]], has had at least one definite effect. It has insured that
 everybody should only hear the end of every story. Journalists are
 in the habit of printing above the very last chapters of their
-serial stories (when the hero and the heroine are just about to
+serial stories (when the [[Hero|hero]] and the heroine are just about to
 embrace in the last chapter, as only an unfathomable perversity
 prevented them from doing so in the first) the rather misleading
 words, "You can only begin this story here." But even this is not a
 complete parallel; for the journals do give some sort of a summary
 of the story, while they never give anything remotely resembling a
-summary of the history. Newspapers not only deal with news, but
+summary of the [[history]]. Newspapers not only deal with news, but
 they deal with everything as if it were entirely new. It is exactly
 in the same fashion that we read that Admiral Bangs has been shot,
 which is the first intimation we have that he has ever been
 born.
 There is something singularly significant in the use which
-journalism makes of its stores of biography. It never thinks of
-publishing the life until it is publishing the death. As it deals
+journalism makes of its stores of [[Biography|biography]]. It never thinks of
+publishing the life until it is publishing the [[Death|death]]. As it deals
 with individuals it deals with institutions and ideas. After the
 Great War our public began to be told of all sorts of nations being
 emancipated. It had never been told a word about their being
@@ -46,47 +46,47 @@ Yugo-Slavonic international new diplomacy; and they are quite
 excited about something they call Czecho-Slovakia without
 apparently having ever heard about Bohemia. Things that are as old
 as Europe are regarded as more recent than the very latest claims
-pegged out on the prairies of America. It is very exciting; like
+pegged out on the prairies of [[america|America]]. It is very exciting; like
 the last act of a play to people who have only come into the
 theatre just before the curtain falls. But it does not conduce
 exactly to knowing what it is all about. To those content with the
-mere fact of a pistol-shot or a passionate embrace, such a
+mere fact of a [[Pistol|pistol]]-shot or a passionate embrace, such a
 leisurely manner of patronising the drama may be recommended. To
 those tormented by a mere intellectual curiosity about who is
 kissing or killing whom, it is unsatisfactory.
-Most modern history, especially in England, suffers from the
+Most modern [[history]], especially in England, suffers from the
 same imperfection as journalism. At best it only tells half the
 story of Christendom; and that the second half without the first
-half. Men for whom reason begins with the Reformation, can never
+half. Men for whom reason begins with the [[Reformation]], can never
 give a complete account of anything, for they have to start with
 institutions whose origin they can never explain, or generally even
 imagine. Just as we hear of the admiral being shot but have never
 heard of his being born, so we all heard a great deal about the
 dissolution of the monasteries, but we heard next to nothing about
-the creation of the monasteries. Now this sort of history would be
+the creation of the monasteries. Now this sort of [[history]] would be
 hopelessly insufficient, even for an intelligent man who hated the
 monasteries. It is hopelessly insufficient in connection with
 institutions that many intelligent men do in a quite healthy spirit
 hate. For instance, it is possible that some of us have
 occasionally seen some mention, by our learned leader-writers, of
-an obscure institution called the Spanish Inquisition. Well, it
+an obscure institution called the [[Spanish Inquisition]]. [[Well]], it
 really is an obscure institution, according to them and the
 histories they read. It is obscure because its origin is obscure.
-Protestant history simply begins with the horrible thing in
-possession, as the pantomine begins with the demon king in the
+Protestant [[history]] simply begins with the horrible thing in
+possession, as the pantomine begins with the demon [[King|king]] in the
 goblin kitchen. It is likely enough that it was, especially towards
 the end, a horrible thing that might be haunted by demons; but if
 we say this was so, we have no notion why it was so. To understand
-the Spanish Inquisition it would be necessary to discover two
+the [[Spanish Inquisition]] it would be necessary to discover two
 things that we have never dreamed of bothering about; what Spain
-was and what an Inquisition was. The former would bring in the
+was and what an [[Inquisition]] was. The former would bring in the
 whole great question about the Crusade against the Moors; and by
 what heroic chivalry a European nation freed itself of an alien
 domination from Africa. The latter would bring in the whole
 business of the other Crusade against the Albigensians, and why men
 loved and hated that nihilistic vision from Asia. Unless we
 understand that there was in these things originally the rush and
-romance of a Crusade, we cannot understand how they came to deceive
+[[Romance|romance]] of a Crusade, we cannot understand how they came to deceive
 men or drag them on towards evil. The Crusaders doubtless abused
 their victory, but there was a victory to abuse. And where there is
 victory there is valour in the field and popularity in the forum.
@@ -96,12 +96,12 @@ days the responsibility of the English for their atrocious
 treatment of the Irish. But it would be quite unfair to describe
 even the devilry of '98 and leave out altogether all mention of the
 war with Napoleon. It would be unjust to suggest that the English
-mind was bent on nothing but the death of Emmett, when it was more
-probably full of the glory of the death of Nelson. Unfortunately
+mind was bent on nothing but the [[Death|death]] of Emmett, when it was more
+probably full of the glory of the [[Death|death]] of Nelson. Unfortunately
 '98 was very far from being the last date of such dirty work; and
 only a few years ago our politicians started trying to rule by
 random robbing and killing, while gently remonstrating with the
-Irish for their memory of old unhappy far-off things and battles
+Irish for their [[Memory|memory]] of old unhappy far-off things and battles
 long ago. But however badly we may think of the Black-and tan
 business, it would be unjust to forget that most of us were not
 thinking of Black-and-Tan but of khaki; and that khaki had just
@@ -112,16 +112,16 @@ English. So to talk about the torture-engine as if it had been a
 hideous toy is unjust to the Spanish. It does not tell sensibly
 from the start the story of what the Spaniards did, and why. We may
 concede to our contempories that in any case it is not a story that
-ends well. We do not insist that in their version it should begin
-well. What we complain of is that in their version it does not
-begin at all. They are only in at the death; or even, like Lord Tom
+ends [[Well|well]]. We do not insist that in their version it should begin
+[[Well|well]]. What we complain of is that in their version it does not
+begin at all. They are only in at the [[Death|death]]; or even, like Lord Tom
 Noddy, to late for the hanging. It is quite true that it was more
 horrible than any hanging; but they only gather, so to speak, the
 very ashes of the ashes; the fag-end of the faggot.
-The case of the Inquisition is here taken at random, for it is
+The case of the [[Inquisition]] is here taken at random, for it is
 one among any number illustrating the same thing; and not because
 it is especially connected with St. Francis, in whatever sense it
-may have been connected with St Dominic. It may well be suggested
+may have been connected with St Dominic. It may [[Well|well]] be suggested
 later indeed that St. Francis is unintelligible, just as St.
 Dominic is unintelligible, unless we do understand something of
 what the thirteenth century meant by heresy and a crusade. But for
@@ -129,10 +129,10 @@ the moment I use it as a lesser example for a much larger purpose.
 It is to point out that to begin the story of St. Francis with the
 birth of St Francis would be to miss the whole point of the story,
 or rather not to tell the story at all. And it is to suggest that
-the modern tail-foremost type of journalistic history perpetually
+the modern tail-foremost type of journalistic [[history]] perpetually
 fails us. We learn about reformers without knowing what they had to
-reform, about rebels without knowing what they rebelled against, of
-memorials that are not connected with any memory and restorations
+[[Reform|reform]], about rebels without knowing what they rebelled against, of
+memorials that are not connected with any [[Memory|memory]] and restorations
 of things that apparently never existed before. Even at the expense
 of this chapter appearing disproportionate, it is necessary to say
 something about the great movements that led up to the entrance of
@@ -143,17 +143,17 @@ desperate generalisations in a few abrupt sentences. But so far
 from its meaning that we shall see a very small figure under so
 large a sky, it will mean that we must measure the sky before we
 can begin to measure the towering stature of the man.
-And this phrase alone brings me to the preliminary suggestions
-that seem necessary before even a slight sketch of the life of St.
+And this phrase [[Alone|alone]] brings me to the preliminary suggestions
+that seem necessary before even a slight [[Sketch|sketch]] of the life of St.
 Francis. It is necessary to realise, in however rude and elementary
 a fashion, into what sort of a world St. Francis entered and what
-had been the history of that world, at least in so far as it
+had been the [[history]] of that world, at least in so far as it
 affected him. It is necessary to have, if only in a few sentences,
-a sort of preface in the form of an Outline of History, if we may
+a sort of preface in the form of an Outline of [[history|History]], if we may
 borrow the phrase of Mr. Wells. in the case of Mr. Wells himself,
 it is evident that the distinguished novelist suffered the same
-disadvantage as if he had been obliged to write a novel of which he
-hated the hero. To write history and hate Rome, both pagan and
+disadvantage as if he had been obliged to write a [[Novel|novel]] of which he
+hated the [[Hero|hero]]. To write [[history]] and hate Rome, both pagan and
 papal, is to hate everything that has happened. It comes very
 nearly to hating humanity on purely humanitarian grounds. To
 dislike both the priest and the soldier, both the laurels of the
@@ -167,18 +167,18 @@ found.
 Men will not believe because they will not broaden their minds.
 As a matter of individual belief, I should of course express it by
 saying they are not sufficiently catholic to be Catholic. But I am
-not going to discuss here the doctrinal truths of Christianity, but
-simply the broad historical fact of Christianity, as it might
+not going to discuss here the doctrinal truths of [[Christianity]], but
+simply the broad historical fact of [[Christianity]], as it might
 appear to a really enlightened and imaginative person even if he
 were not a Christian. What I mean at the moment is that the
 majority of doubts are made out of details. In the course of random
 reading a man comes across a pagan custom that strikes him as
 picturesque or a Christian action that strikes him as cruel; but he
-does not enlarge his mind sufficiently to see the main truth about
+does not enlarge his mind sufficiently to see the main [[Truth|truth]] about
 pagan custom or the Christian reaction against it. Until we
 understand, not necessarily in detail, but in their big bulk and
 proportion that pagan progress and that Christian reaction, we
-cannot really understand the point of history at which St. Francis
+cannot really understand the point of [[history]] at which St. Francis
 appears or what his great popular mission was all about.
 Now everybody knows, I imagine, that the twelfth and thirteenth
 centuries were an awakening of the world. They were a fresh
@@ -186,11 +186,11 @@ flowering of culture and the creative arts after a long spell of
 much sterner and even more sterile experience which we call the
 Dark Ages. They may be called an emancipation; they were certainly
 an end; an end of what may at least seem a harsher and more inhuman
-time. But what was it that was ended? From what was it that men
+[[Time|time]]. But what was it that was ended? From what was it that men
 were emancipated? That is where there is a real collision and point
-at issue between the different philosophies of history. On the
+at issue between the different philosophies of [[history]]. On the
 merely external and secular side, it has been truly said that men
-awoke from a sleep; but there had been dreams in that sleep of a
+awoke from a [[Sleep|sleep]]; but there had been [[Dreams|dreams]] in that [[Sleep|sleep]] of a
 mystical and sometimes of a monstrous kind. In that rationalistic
 routine into which most modern historians have fallen, it is
 considered enough to say that they were emancipated from mere
@@ -198,13 +198,13 @@ savage superstition and advanced towards mere civilised
 enlightenment. Now this is the big blunder that stands as a
 stumbling-block at the very beginning of our story. Anybody who
 supposes that the Dark Ages were plain darkness and nothing else,
-and that the dawn of the thirteenth century was plain daylight and
+and that the [[Dawn|dawn]] of the thirteenth century was plain daylight and
 nothing else, will not be able to make head or tail of the human
-story of St. Francis of Assisi. The truth is that the joy of St.
+story of St. Francis of Assisi. The [[Truth|truth]] is that the joy of St.
 Francis and his Jongleurs de Dieu was not merely an awakening. It
 was something which cannot be understood without understanding
 their own mystical creed. The end of the Dark Ages was not merely
-the end of a sleep. It was certainly not merely the end of a
+the end of a [[Sleep|sleep]]. It was certainly not merely the end of a
 superstitious enslavement. It was the end of something belonging to
 a quite definite but quite different order of ideas.
 It was the end of a penance; or, if it be preferred, a
@@ -212,102 +212,102 @@ purgation. It marked the moment when a certain spiritual expiation
 had been finally worked out and certain spiritual diseases had been
 finally expelled from the system. They had been expelled by an era
 of asceticism, which was the only thing that could have expelled
-them. Christianity had entered the world to cure the world; and she
+them. [[Christianity]] had entered the world to cure the world; and she
 cured it in the only way in which it could be cured. Viewed merely
 in an external and experimental fashion, the whole of the high
 civilisation of antiquity had ended in the learning of a certain
-lesson; that is, in its conversion to Christianity. But that lesson
-was a psychological fact as well as a theological faith. That pagan
+lesson; that is, in its [[conversion]] to [[Christianity]]. But that lesson
+was a psychological fact as [[Well|well]] as a theological [[Faith|faith]]. That pagan
 civilization had indeed been a very high civilisation. It would not
 weaken our thesis, it might even strengthen it, to say that it was
 the highest that humanity ever reached. It had discovered its still
 unrivalled arts of poetry and plastic representation; it had
 discovered its own permanent political ideals; it had discovered
-its own clear system of logic and language. But above all, it had
+its own clear system of [[logic]] and language. But above all, it had
 discovered its own mistake. That mistake was too deep to be ideally
 defined; the short-hand of it is to call it the mistake of
-nature-worship. It might almost as truly be called the mistake of
+[[Nature|nature]]-worship. It might almost as truly be called the mistake of
 being natural; and it was a very natural mistake. The Greeks, the
 great guides and pioneers of pagan antiquity, started out with the
 idea of something splendidly obvious and direct; the idea that if a
-man walked straight ahead on the high road of reason and nature, he
+man walked straight ahead on the high [[Road|road]] of reason and [[Nature|nature]], he
 would come to no harm; especially if he was, as the Greek was,
 eminently enlightened and intelligent. We might be so flippant as
 to say that man was simply to follow his nose, so long as it was a
-Greek nose. And the case of the Greeks themselves is alone enough
+Greek nose. And the case of the Greeks themselves is [[Alone|alone]] enough
 to illustrate the strange but certain fatality that attends upon
 this fallacy. No sooner did the Greeks themselves begin to follow
 their own noses and their own notion of being natural, than the
-queerest thing in history seems to have happened to them. It was
+queerest thing in [[history]] seems to have happened to them. It was
 much too queer to be an easy matter to discuss. It may be remarked
 that our more repulsive realists never give us the benefit of their
 realism. Their studies of unsavoury subjects never take note of the
-testimony they bear to the truths of traditional morality. But if
+testimony they bear to the truths of traditional [[morality]]. But if
 we had the taste for such things, we could cite thousands of such
 things as part of the case for Christian morals. And an instance of
 this is found in the fact that nobody has written, in this sense, a
-real moral history of the Greeks. Nobody has seen the scale or the
+real moral [[history]] of the Greeks. Nobody has seen the scale or the
 strangeness of the story. The wisest men in the world set out to be
 natural; and the most unnatural thing in the world was the very
 first thing they did. The immediate effect of saluting the sun and
-the sunny sanity of nature was a perversion spreading like a
+the sunny [[Sanity|sanity]] of [[Nature|nature]] was a perversion spreading like a
 pestilence. The greatest and even the purest philosophers could not
 apparently avoid this low sort of lunacy. Why? It would seem simple
-enough for the people whose poets had conceived Helen of Troy,
-whose sculptors had carved the Venus of Milo, to remain healthy on
-the point. The truth is people who worship health cannot remain
+enough for the people whose poets had conceived [[Helen]] of Troy,
+whose sculptors had carved the [[Venus]] of Milo, to remain healthy on
+the point. The [[Truth|truth]] is people who worship health cannot remain
 healthy on the point. When Man goes straight he goes crooked. When
 he follows his nose he manages somehow to put his nose out of
 joint, or even to cut off his nose to spite his face; and that in
-accordance with something much deeper in human nature than
-nature-worshippers could ever understand. It was the discovery of
+accordance with something much deeper in human [[Nature|nature]] than
+[[Nature|nature]]-worshippers could ever understand. It was the discovery of
 that deeper thing, humanly speaking, that constituted the
-conversion to Christianity. There is a bias in a man like the bias
-on a bowl; and Christianity was the discovery of how to correct the
+[[conversion]] to [[Christianity]]. There is a bias in a man like the bias
+on a bowl; and [[Christianity]] was the discovery of how to correct the
 bias and therefore hit the mark. There are many who will smile at
 the saying; but it is profoundly true to say that the glad good
-news brought by the Gospel was the news of original sin.
-Rome rose at the expense of her Greek teachers largely because
+news brought by the Gospel was the news of [[Original Sin|original sin]].
+Rome [[Rose|rose]] at the expense of her Greek teachers largely because
 she did not entirely consent to be taught these tricks. She had a
 much more decent tradition; but she ultimately suffered from the
 same fallacy in her religious tradition; which was necessarily in
-no small degree the heathen tradition of nature worship. What was
+no small degree the heathen tradition of [[Nature|nature]] worship. What was
 the matter with the whole heathen civilisation was that there
 nothing for the mass of men in the way of mysticism, except that
-concerned with the mystery of the nameless forces of nature, such
-as sex and growth and death. In the Roman Empire also, long before
-the end, we find nature-worship inevitably producing things that
-are against nature. Cases like that of Nero have passed into a
+concerned with the mystery of the nameless forces of [[Nature|nature]], such
+as sex and growth and [[Death|death]]. In the Roman Empire also, long before
+the end, we find [[Nature|nature]]-worship inevitably producing things that
+are against [[Nature|nature]]. Cases like that of Nero have passed into a
 proverb when Sadism sat on a throne brazen in the broad daylight.
-But the truth I mean is something much more subtle and universal
+But the [[Truth|truth]] I mean is something much more subtle and universal
 than a conventional catalogue of atrocities. What had happened to
-the human imagination, as a whole, was that the whole world was
+the human [[Imagination|imagination]], as a whole, was that the whole world was
 coloured by dangerous and rapidly deteriorating passions; by
 natural passions becoming unnatural passions. Thus the effect of
-treating sex as only one innocent natural thing was that every
-other innocent natural thing became soaked and sodden with sex. For
+treating sex as only one [[Innocent|innocent]] natural thing was that every
+other [[Innocent|innocent]] natural thing became soaked and sodden with sex. For
 sex cannot be admitted to a mere equality among elementary emotions
 or experiences like eating and sleeping. The moment sex ceases to
-be a servant it becomes a tyrant. There is something dangerous and
-disproportionate in its place in human nature, for whatever reason;
-and it does really need a special purification and dedication. The
+be a servant it becomes a [[Tyrant|tyrant]]. There is something dangerous and
+disproportionate in its place in human [[Nature|nature]], for whatever reason;
+and it does really need a special [[Purification|purification]] and dedication. The
 modern talk about sex being free like any other sense, about the
-body being beautiful like any tree or flower, is either a
-description of the Garden of Eden or a piece of thoroughly bad
+[[Body|body]] being beautiful like any tree or flower, is either a
+description of the [[Garden]] of Eden or a piece of thoroughly bad
 psychology, of which the world grew weary two thousand years
 ago.
-This is not to be confused with mere self-righteous
+This is not to be confused with mere [[Self|self]]-righteous
 sensationalism about the wickedness of the pagan world. It was not
 so much that the pagan world was wicked as that it was good enough
 to realise that its paganism was becoming wicked, or rather it was
-on the logical high road to wickedness. I mean that there was no
-future for "natural magic"; to deepen it was only to darken it into
-black magic. There was no future for it; because in the past it had
-only been innocent because it was young. We might say it had only
-been innocent because it was shallow. Pagans were wiser that
+on the logical high [[Road|road]] to wickedness. I mean that there was no
+future for "natural [[Magic|magic]]"; to deepen it was only to darken it into
+black [[Magic|magic]]. There was no future for it; because in the past it had
+only been [[Innocent|innocent]] because it was young. We might say it had only
+been [[Innocent|innocent]] because it was shallow. Pagans were wiser that
 paganism; that is why the pagans became Christians. Thousands of
-them had philosophy and family virtues and military honour to hold
-them up; but by this time the purely popular thing called religion
+them had [[philosophy]] and family virtues and military [[Honour|honour]] to hold
+them up; but by this [[Time|time]] the purely popular thing called religion
 was certainly dragging them down. When this reaction against the
 evil is allowed for, it is true to repeat that it was an evil that
 was everywhere. In another and more literal sense its name was
@@ -315,13 +315,13 @@ Pan.
 It was no metaphor to say that these people needed a new heaven
 and a new earth; for they had really defiled their own earth and
 even their own heaven. How could their case be met by looking at
-the sky, when erotic legends were scrawled in stars across it; how
-could they learn anything from the love of birds and flowers after
-the sort of love stories that were told of them? It is impossible
+the sky, when erotic legends were scrawled in [[Stars|stars]] across it; how
+could they learn anything from the [[Love|love]] of [[Birds|birds]] and [[Flowers|flowers]] after
+the sort of [[Love|love]] stories that were told of them? It is impossible
 here to multiply evidences, and one small example may stand for the
 rest. We know what sort of sentimental associations are called up
-to us by the phrase "a garden"; and how we think mostly of the
-memory of melancholy and innocent romances, or quite as often of
+to us by the phrase "a [[Garden|garden]]"; and how we think mostly of the
+[[Memory|memory]] of [[Melancholy|melancholy]] and [[Innocent|innocent]] romances, or quite as often of
 some gracious maiden lady or kindly old person pottering under a
 yew hedge, perhaps in sight of a village spire. Then, let anyone
 who knows a little Latin poetry recall suddenly what would have
@@ -330,29 +330,29 @@ monstrous in the sun; and of what sort was the god of their
 gardens.
 Nothing could purge this obsession but a religion that was
 literally unearthly. It was no good telling such people to have a
-natural religion full of stars and flowers; there was not a flower
+natural religion full of [[Stars|stars]] and [[Flowers|flowers]]; there was not a flower
 or even a star that had not been stained. They had to go into the
-desert where they could find no flowers or even into the cavern
-where they could see no stars. Into that desert and that cavern the
+[[Desert|desert]] where they could find no [[Flowers|flowers]] or even into the cavern
+where they could see no [[Stars|stars]]. Into that [[Desert|desert]] and that cavern the
 highest human intellect entered for some four centuries; and it was
 the very wisest thing it could do. Nothing but the stark
-supernatural stood up for its salvation; if God could not save it,
+[[Supernatural|supernatural]] stood up for its salvation; if God could not save it,
 certainly the gods could not. The early Church called the gods of
 paganism devils; and the Early Church was perfectly right. Whatever
 natural religion may have had to do with their beginnings, nothing
 but fiends now inhabited those hollow shrines. Pan was nothing but
-panic. Venus was nothing but venereal vice. I do not mean for a
+panic. [[Venus]] was nothing but venereal vice. I do not mean for a
 moment, of course, that all the individual pagans were of this
 character even to the end; but it was as individuals that they
-differed from it. Nothing distinguishes paganism from Christianity
-so clearly as the fact that the individual thing called philosophy
+differed from it. Nothing distinguishes paganism from [[Christianity]]
+so clearly as the fact that the individual thing called [[philosophy]]
 had little or nothing to do with the social thing called religion.
 Anyhow it was no good to preach natural religion to people to whom
-nature had grown as unnatural as any religion. They knew much
+[[Nature|nature]] had grown as unnatural as any religion. They knew much
 better than we do what was the matter with them and what sort of
 demons at once tempted and tormented them; and they wrote across
-that great space of history the text; "This sort goeth not out but
-by prayer and fasting."
+that great space of [[history]] the text; "This sort goeth not out but
+by [[prayer]] and fasting."
 Now the historical importance of St. Francis and the transition
 from the twelfth to the thirteenth centuries, lies in the fact that
 they marked the end of this expiation. Men at the close of the dark
@@ -361,13 +361,13 @@ but wars with heathen tribes, more barbarous than themselves, but
 they were clean. They were like children; the first beginnings of
 their rude arts have all the clean pleasure of children. We have to
 conceive them in Europe as a whole living under little local
-governments, feudal in so far as they were a survival of fierce
+governments, feudal in so far as they were a [[Survival|survival]] of fierce
 wars with the barbarians, often monastic and carrying a far more
 friendly and fatherly character, still faintly imperial as far as
-Rome still ruled as a great legend. But in Italy something had
+Rome still ruled as a great legend. But in [[Italy]] something had
 survived more typical of the finer spirit of antiquity; the
-republic, Italy, was dotted with little states, largely democratic
-in their ideals, and often filled with real citizens. But the city
+republic, [[Italy]], was dotted with little states, largely democratic
+in their ideals, and often filled with real citizens. But the [[City|city]]
 no longer lay open as under the Roman peace, but was pent in high
 walls for defence against feudal war and all the citizens had to be
 soldiers. One of these stood in a steep and striking position on
@@ -375,7 +375,7 @@ the wooded hills of Umbria; and its name was Assisi. Out of its
 deep gate under its high turrets was to come the message that was
 the gospel of the hour, "Your warfare is accomplished, your
 iniquity is pardoned." But it was out of all these fragmentary
-things of feudalism and freedom and remains of Roman Law that there
+things of feudalism and [[Freedom|freedom]] and remains of Roman Law that there
 were to rise, at the beginning of the thirteenth century, vast and
 almost universal, the mighty civilisation of the Middle Ages.
 It is an exaggeration to attribute it entirely to the
@@ -391,15 +391,15 @@ over all those first movements there was still something of that
 ancient austerity that came from the long penitentiary period. It
 was the twilight of the morning; but it was still a grey twilight.
 This may be illustrated by the mere mention of two or three of
-these reforms before the Franciscan reform. The monastic
+these reforms before the Franciscan [[Reform|reform]]. The monastic
 institution itself, of course, was far older than all these things;
-indeed it was undoubtedly almost as old as Christianity. Its
+indeed it was undoubtedly almost as old as [[Christianity]]. Its
 counsels of perfection had always taken the form of vows of
-chastity and poverty and obedience. With these unworldly aims it
-had long ago civilised a great part of the world. The monks had
-taught people to plough and sow as well as to read and write;
+chastity and [[Poverty|poverty]] and obedience. With these unworldly aims it
+had long ago civilised a great part of the world. The [[Monks|monks]] had
+taught people to plough and sow as [[Well|well]] as to read and write;
 indeed they had taught the people nearly everything the people
-knew. But it may truly be said that the monks were severely
+knew. But it may truly be said that the [[Monks|monks]] were severely
 practical, in the sense that they not only practical but also
 severe; though they were generally severe with themselves and
 practical for other people. All this early monastic movement had
@@ -407,7 +407,7 @@ long ago settled down and doubtless often deteriorated; but when we
 come to the first medieval movements this sterner character is
 still apparent. Three examples may be taken to illustrate the
 point.
-First, the ancient social mould of slavery was already beginning
+First, the ancient social mould of [[Slavery|slavery]] was already beginning
 to melt. Not only was the slave turning into a serf, who was
 practically free as regards his own farm and family life, but many
 lords were freeing slaves and serfs altogether. This was done under
@@ -416,18 +416,18 @@ spirit of a penance. In one sense, of course, any Catholic society
 must have an atmosphere of penance; but I am speaking of that
 sterner spirit of penance which had expiated the excesses of
 paganism. There was about such restitutions the atmosphere of the
-death-bed; as many of them were doubtless were examples of
-death-bed repentance. A very honest atheist with whom I once
+[[Death|death]]-bed; as many of them were doubtless were examples of
+[[Death|death]]-bed repentance. A very honest atheist with whom I once
 debated made use of the expression, "Men have only been kept in
-slavery by the fear of hell." As I pointed out to him, if he had
-said that men had only been freed from slavery by the fear of hell,
+[[Slavery|slavery]] by the [[Fear|fear]] of hell." As I pointed out to him, if he had
+said that men had only been freed from [[Slavery|slavery]] by the [[Fear|fear]] of hell,
 he would have at least have been referring to an unquestionable
 historical fact.
-Another example was the sweeping reform of Church discipline by
-Pope Gregory the Seventh. It really was a reform, undertaken from
+Another example was the sweeping [[Reform|reform]] of Church discipline by
+Pope Gregory the Seventh. It really was a [[Reform|reform]], undertaken from
 the highest motives and having the healthiest results; it conducted
-a searching inquisition against simony or the financial corruption
-of the clergy; it insisted on a more serious and self-sacrificing
+a searching [[Inquisition|inquisition]] against simony or the financial corruption
+of the clergy; it insisted on a more serious and [[Self|self]]-sacrificing
 ideal for the life of the parish priest. But the very fact that
 this largely took the form of making universal the obligation of
 celibacy will strike the note of something which, however noble,
@@ -435,8 +435,8 @@ would seem to many to be vaguely negative. The third example is in
 one sense the strongest of all. For the third example was a war; a
 heroic war and for many of us a holy war; but still having all the
 stark and terrible responsibilities of war. There is no space here
-to say all that should be said about the true nature of the
-Crusades. Everybody knows that in the very darkest hour of the Dark
+to say all that should be said about the true [[Nature|nature]] of the
+[[Crusades]]. Everybody knows that in the very darkest hour of the Dark
 Ages a sort of heresy had sprung up in Arabia and become a new
 religion of a military but nomadic sort; invoking the name of
 Mahomet. Intrinsically it had a character found in many heresies
@@ -448,14 +448,14 @@ its objective character was that of a military danger to
 Christendom and Christendom had struck at the very heart of it, in
 seeking to reconquer the Holy Places. The great Duke Godfrey and
 the first Christians who stormed Jerusalem were heroes if there
-were any in the world; but they were the heroes of a tragedy.
+were any in the world; but they were the heroes of a [[Tragedy|tragedy]].
 Now I have taken these two or three examples of the earlier
 medieval movements in order to note about them one general
 character, which refers back to the penance that followed paganism.
 There is something in all these movements that is bracing even
-while it is still bleak, like a wind blowing between the clefts of
-the mountains. That wind, austere and pure, of which the poet
-speaks, is really the spirit of the time, for it is the wind of a
+while it is still bleak, like a [[Wind|wind]] blowing between the clefts of
+the [[Mountains|mountains]]. That [[Wind|wind]], austere and pure, of which the poet
+speaks, is really the spirit of the [[Time|time]], for it is the [[Wind|wind]] of a
 world that has at last been purified. To anyone who can appreciate
 atmospheres there is something clear and clean about the atmosphere
 of this crude and often harsh society. Its very lusts are clean;
@@ -463,27 +463,27 @@ for they no have longer any smell of perversion. Its very cruelties
 are clean; they are not the luxurious cruelties of the
 amphitheatre. They come either of a very simple horror at blasphemy
 or a very simple fury at an insult. Gradually against this grey
-background beauty begins to appear, as something really fresh and
-delicate and above all surprising. Love returning is no longer what
-was once called platonic but what is still called chivalric love.
-The flowers and stars are have recovered their first innocence.
-Fire and water are felt to be worthy to be the brother and sister
+background [[Beauty|beauty]] begins to appear, as something really fresh and
+delicate and above all surprising. [[Love]] returning is no longer what
+was once called platonic but what is still called chivalric [[Love|love]].
+The [[Flowers|flowers]] and [[Stars|stars]] are have recovered their first [[innocence]].
+[[Fire]] and [[Water|water]] are felt to be worthy to be the brother and sister
 of a saint. The purge of paganism is complete at last.
-For water itself has been washed. Fire itself has been purified
-as by fire. Water is no longer the water into which slaves were
-flung to feed the fishes. Fire is no longer that fire through which
-children were passed to Moloch. Flowers smell no more of the
-forgotten garlands gathered in the garden of Priapus; stars stand
+For [[Water|water]] itself has been washed. [[Fire]] itself has been purified
+as by [[Fire|fire]]. [[Water]] is no longer the [[Water|water]] into which slaves were
+flung to feed the fishes. [[Fire]] is no longer that [[Fire|fire]] through which
+children were passed to Moloch. [[Flowers]] smell no more of the
+forgotten garlands gathered in the [[Garden|garden]] of Priapus; [[Stars|stars]] stand
 no more as signs of the far frigidity of gods as cold as those cold
 fires. They are like all new things newly made and awaiting new
 names, from one who shall come to name them. Neither the universe
 nor the earth have now any longer the old sinister significance of
-the world. They await a new reconciliation with man, but they are
-already capable of being reconciled. Man has stripped from his soul
-the last rag of nature worship, and can return to nature.
+the world. They await a new [[Reconciliation|reconciliation]] with man, but they are
+already capable of being reconciled. Man has stripped from his [[Soul|soul]]
+the last rag of [[Nature|nature]] worship, and can return to [[Nature|nature]].
 While it was yet twilight a figure appeared silently and
-suddenly on a little hill above the city, dark against the fading
-darkness. For it was the end of a long and stern night, a night of
-vigil, not unvisited by stars. He stood with his hands lifted, as
-in so many statues and pictures, and about him was a burst of birds
+suddenly on a little [[Hill|hill]] above the [[City|city]], dark against the fading
+darkness. For it was the end of a long and stern [[Night|night]], a [[Night|night]] of
+vigil, not unvisited by [[Stars|stars]]. He stood with his hands lifted, as
+in so many statues and pictures, and about him was a burst of [[Birds|birds]]
 singing; and behind him was the break of day.

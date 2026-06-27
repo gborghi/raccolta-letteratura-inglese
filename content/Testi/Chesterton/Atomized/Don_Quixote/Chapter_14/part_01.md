@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 13 (part 1)"
+title: "[[Don Quixote]] — Chapter 13 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -18,23 +18,23 @@ CHAPTER XIII
 
 THE VICTORIAN AND THE ARROW
 
-The arrow that had entered the summer-house with a sound
-like song awakened the worthy proprietor of the place
+The arrow that had entered the [[Summer|summer]]-[[house]] with a sound
+like [[Song|song]] awakened the worthy proprietor of the place
 to a world without which had been entirely transformed.
-Why it had been transformed, and what was the nature
+Why it had been transformed, and what was the [[Nature|nature]]
 of the transformation, he found it sufficiently bewildering
 to discover; but it is almost equally bewildering to describe.
 It began, in a sense, with the isolated insanity of one man;
-yet it was almost equally due, by a not uncommon paradox,
-to the equally isolated sanity of one woman.
+yet it was almost equally due, by a not uncommon [[Paradox|paradox]],
+to the equally isolated [[Sanity|sanity]] of one woman.
 
 Mr. Herne, the librarian, had positively and finally refused
 to change his clothes.
 
-"Well I can't," he cried in despair.  "I simply can't. I should feel
-like a fool, just as if--."
+"[[Well]] I can't," he cried in [[Despair|despair]].  "I simply can't. I should feel
+like a [[Fool|fool]], just as if--."
 
-"Well," asked Rosamund regarding him with round eyes.
+"[[Well]]," asked Rosamund regarding him with round eyes.
 
 "I should feel as if I were in fancy dress," he said.
 Rosamund was less impatient than might have been expected.
@@ -51,7 +51,7 @@ that seems to mean standing always with a sort of a stoop.
 Now I put my hands in my belt and it makes me feel ten
 inches taller.  Why, look at this spear."
 
-He had a habit of walking about with the boar-spear which King Richard
+He had a habit of walking about with the boar-spear which [[King]] [[Richard]]
 had carried in his capacity of forester; and he now planted the staff
 in the grass to bring it to her attention, though it was very literally
 as plain as a pike-staff.
@@ -59,7 +59,7 @@ as plain as a pike-staff.
 "The minute you begin to carry a thing of this sort," he cried,
 "you realise at once why men generally used to carry long
 poles of one sort or another; spears or pikes or pilgrims'
-staffs, or pastoral staffs.  You can hold them at arm's
+staffs, or [[Pastoral|pastoral]] staffs.  You can hold them at arm's
 length and then throw your head back as if it wore a crest.
 You have to lean down to the little modern walking-sticks in order
 to lean on them; as if you were leaning on a crutch, and so you are.
@@ -95,47 +95,47 @@ his clothes at once, like a naughty little boy who had fallen in a pond.
 But the quaint and almost fabulous creatures called human souls
 do not always, or perhaps even often, do what is expected of them.
 If any sensible person can be supposed to have foreseen all this
-crazy tale, he would have had no doubt about which of the two women
+crazy tale, he would have had no [[Doubt|doubt]] about which of the two women
 involved would have been more impatient with its craziness.
 The sensible man would have said that Olive Ashley, with her hobby
 of medievalism, would have understood even a rather mad medievalist;
 whereas anyone so modern as her red-haired friend would not even have
 stopped to ask whether it was medievalism, in face of the obvious
-fact that it was madness.  But then no sensible man would ever
+fact that it was [[Madness|madness]].  But then no sensible man would ever
 have believed that it would happen at all.
 
 In any case the sensible man would have been wrong, as he often is.
-Olive always had her own dreams:  but Rosamund's heart hungered
+Olive always had her own [[Dreams|dreams]]:  but Rosamund's heart hungered
 after two things, simplification and action.  Her thinking was slow;
 so she liked simplicity.  Her impulses were swift; so she liked action.
 
-Rosamund Severne in a bodily sense was born worthy of a crown;
-and even in a biographical sense under the shadow of a coronet.
-It was her fate to move against a magnificent background of river
+Rosamund Severne in a bodily sense was born worthy of a [[Crown|crown]];
+and even in a biographical sense under the [[Shadow|shadow]] of a coronet.
+It was her fate to move against a magnificent background of [[River|river]]
 and terraced hills and the ruins of a historic place, and the medieval
 masquerade she had assumed seemed altogether fitted to her presence.
 To the visionary eyes of the librarian, she appeared to be equally
 a princess in that costume or in a more conventional one.  But these
-accidents of birth and even of beauty are very misleading in psychology.
+accidents of birth and even of [[Beauty|beauty]] are very misleading in psychology.
 If Mr. Herne had possessed more knowledge of the world, he would
 have recognised a type to be seen in very different surroundings.
-The great green valley and the great grey abbey house would have
+The great green valley and the great grey abbey [[house]] would have
 faded from his sight and he would have seen in their place desks
 and typewriters and rows of very dull works of reference.  He would
-have seen in that square face and those grave and honest eyes a type
+have seen in that square face and those [[Grave|grave]] and honest eyes a type
 that is very modern and very variously distributed in the modern world.
 That young woman is to be found in many places where she is wanted
 to support the wavering unworldliness of men like Mr. Herne.
 As Secretary to the Submarine Colonisation Company, she explains firmly to
 a long procession of inquirers that there is room in the sea for more men
 that ever went into it.  As Lady Manager of the Elastic Pavements Society,
-she knows the whole case for this essential reform, and can show
+she knows the whole case for this essential [[Reform|reform]], and can show
 how it eliminates the necessity for better boots or a country life.
-The movement for proving that "Paradise Lost" was written by Charles II
+The movement for proving that "[[Paradise Lost]]" was written by Charles II
 owes its wide popularity entirely to her energy and efficiency.
 The arrangement by which the tops of top-hats can be lifted with a string,
 for purposes of ventilation, would never have reached its present
-universal success, if there had not been one sane person in the office.
+universal [[success]], if there had not been one sane person in the office.
 In all these positions she has the same powerful simplicity
-and the same sincerity in following out one idea at a time.
+and the same sincerity in following out one idea at a [[Time|time]].
 In all these positions she is very conscientious and very unscrupulous.

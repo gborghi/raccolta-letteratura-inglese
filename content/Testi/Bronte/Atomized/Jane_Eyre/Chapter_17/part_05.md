@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 17 (part 5)"
+title: "[[Jane Eyre]] — Chapter 17 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -23,15 +23,15 @@ attired in spotless white.
 
 And did I now think Miss Ingram such a choice as Mr. Rochester would be
 likely to make? I could not tell—I did not know his taste in female
-beauty. If he liked the majestic, she was the very type of majesty:
+[[Beauty|beauty]]. If he liked the majestic, she was the very type of majesty:
 then she was accomplished, sprightly. Most gentlemen would admire her,
 I thought; and that he _did_ admire her, I already seemed to have
-obtained proof: to remove the last shade of doubt, it remained but to
+obtained proof: to remove the last shade of [[Doubt|doubt]], it remained but to
 see them together.
 
-You are not to suppose, reader, that Adèle has all this time been
+You are not to suppose, reader, that Adèle has all this [[Time|time]] been
 sitting motionless on the stool at my feet: no; when the ladies
-entered, she rose, advanced to meet them, made a stately reverence, and
+entered, she [[Rose|rose]], advanced to meet them, made a stately reverence, and
 said with gravity—
 
 “Bon jour, mesdames.”
@@ -45,7 +45,7 @@ little French girl he was speaking of.”
 Mrs. Dent had kindly taken her hand, and given her a kiss. Amy and
 Louisa Eshton had cried out simultaneously—
 
-“What a love of a child!”
+“What a [[Love|love]] of a [[Child|child]]!”
 
 And then they had called her to a sofa, where she now sat, ensconced
 between them, chattering alternately in French and broken English;
@@ -54,7 +54,7 @@ and Lady Lynn, and getting spoilt to her heart’s content.
 
 At last coffee is brought in, and the gentlemen are summoned. I sit in
 the shade—if any shade there be in this brilliantly-lit apartment; the
-window-curtain half hides me. Again the arch yawns; they come. The
+[[Window|window]]-curtain half hides me. Again the arch yawns; they come. The
 collective appearance of the gentlemen, like that of the ladies, is
 very imposing: they are all costumed in black; most of them are tall,
 some young. Henry and Frederick Lynn are very dashing sparks indeed;
@@ -64,7 +64,7 @@ and whiskers still dark, which gives him something of the appearance of
 a “père noble de théâtre.” Lord Ingram, like his sisters, is very tall;
 like them, also, he is handsome; but he shares Mary’s apathetic and
 listless look: he seems to have more length of limb than vivacity of
-blood or vigour of brain.
+[[Blood|blood]] or vigour of brain.
 
 And where is Mr. Rochester?
 
@@ -80,7 +80,7 @@ to overflow; in whose emotions I had a part. How near had I approached
 him at that moment! What had occurred since, calculated to change his
 and my relative positions? Yet now, how distant, how far estranged we
 were! So far estranged, that I did not expect him to come and speak to
-me. I did not wonder, when, without looking at me, he took a seat at
+me. I did not [[Wonder|wonder]], when, without looking at me, he took a seat at
 the other side of the room, and began conversing with some of the
 ladies.
 
@@ -90,19 +90,19 @@ involuntarily to his face; I could not keep their lids under control:
 they would rise, and the irids would fix on him. I looked, and had an
 acute pleasure in looking,—a precious yet poignant pleasure; pure gold,
 with a steely point of agony: a pleasure like what the thirst-perishing
-man might feel who knows the well to which he has crept is poisoned,
+man might feel who knows the [[Well|well]] to which he has crept is poisoned,
 yet stoops and drinks divine draughts nevertheless.
 
-Most true is it that “beauty is in the eye of the gazer.” My master’s
+Most true is it that “[[Beauty|beauty]] is in the eye of the gazer.” My master’s
 colourless, olive face, square, massive brow, broad and jetty eyebrows,
 deep eyes, strong features, firm, grim mouth,—all energy, decision,
 will,—were not beautiful, according to rule; but they were more than
 beautiful to me; they were full of an interest, an influence that quite
 mastered me,—that took my feelings from my own power and fettered them
-in his. I had not intended to love him; the reader knows I had wrought
-hard to extirpate from my soul the germs of love there detected; and
+in his. I had not intended to [[Love|love]] him; the reader knows I had wrought
+hard to extirpate from my [[Soul|soul]] the germs of [[Love|love]] there detected; and
 now, at the first renewed view of him, they spontaneously arrived,
-green and strong! He made me love him without looking at me.
+green and strong! He made me [[Love|love]] him without looking at me.
 
 I compared him with his guests. What was the gallant grace of the
 Lynns, the languid elegance of Lord Ingram,—even the military
@@ -110,8 +110,8 @@ distinction of Colonel Dent, contrasted with his look of native pith
 and genuine power? I had no sympathy in their appearance, their
 expression: yet I could imagine that most observers would call them
 attractive, handsome, imposing; while they would pronounce Mr.
-Rochester at once harsh-featured and melancholy-looking. I saw them
-smile, laugh—it was nothing; the light of the candles had as much soul
+Rochester at once harsh-featured and [[Melancholy|melancholy]]-looking. I saw them
+smile, laugh—it was nothing; the light of the candles had as much [[Soul|soul]]
 in it as their smile; the tinkle of the bell as much significance as
 their laugh. I saw Mr. Rochester smile:—his stern features softened;
 his eye grew both brilliant and gentle, its ray both searching and
@@ -122,15 +122,15 @@ it; yet I was glad when I found they were in no sense moved. “He is not
 to them what he is to me,” I thought: “he is not of their kind. I
 believe he is of mine;—I am sure he is—I feel akin to him—I understand
 the language of his countenance and movements: though rank and wealth
-sever us widely, I have something in my brain and heart, in my blood
+sever us widely, I have something in my brain and heart, in my [[Blood|blood]]
 and nerves, that assimilates me mentally to him. Did I say, a few days
 since, that I had nothing to do with him but to receive my salary at
 his hands? Did I forbid myself to think of him in any other light than
-as a paymaster? Blasphemy against nature! Every good, true, vigorous
+as a paymaster? Blasphemy against [[Nature|nature]]! Every good, true, vigorous
 feeling I have gathers impulsively round him. I know I must conceal my
-sentiments: I must smother hope; I must remember that he cannot care
+sentiments: I must smother [[Hope|hope]]; I must remember that he cannot care
 much for me. For when I say that I am of his kind, I do not mean that I
 have his force to influence, and his spell to attract; I mean only that
 I have certain tastes and feelings in common with him. I must, then,
 repeat continually that we are for ever sundered:—and yet, while I
-breathe and think, I must love him.”
+breathe and think, I must [[Love|love]] him.”

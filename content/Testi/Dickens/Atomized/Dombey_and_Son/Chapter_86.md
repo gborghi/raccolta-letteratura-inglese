@@ -15,44 +15,44 @@ tags:
 
 
 CHAPTER XXX.
-The interval before the Marriage
+The interval before the [[Marriage]]
 
 
-Although the enchanted house was no more, and the working world had
+Although the enchanted [[house]] was no more, and the working world had
 broken into it, and was hammering and crashing and tramping up and down
 stairs all day long keeping Diogenes in an incessant paroxysm of
 barking, from sunrise to sunset—evidently convinced that his enemy had
 got the better of him at last, and was then sacking the premises in
 triumphant defiance—there was, at first, no other great change in the
-method of Florence’s life. At night, when the workpeople went away, the
-house was dreary and deserted again; and Florence, listening to their
+method of Florence’s life. At [[Night|night]], when the workpeople went away, the
+[[house]] was dreary and deserted again; and Florence, listening to their
 voices echoing through the hall and staircase as they departed,
 pictured to herself the cheerful homes to which they were returning,
 and the children who were waiting for them, and was glad to think that
-they were merry and well pleased to go.
+they were merry and [[Well|well]] pleased to go.
 
-She welcomed back the evening silence as an old friend, but it came now
-with an altered face, and looked more kindly on her. Fresh hope was in
+She welcomed back the evening [[Silence|silence]] as an old friend, but it came now
+with an altered face, and looked more kindly on her. Fresh [[Hope|hope]] was in
 it. The beautiful lady who had soothed and carressed her, in the very
 room in which her heart had been so wrung, was a spirit of promise to
 her. Soft shadows of the bright life dawning, when her father’s
 affection should be gradually won, and all, or much should be restored,
-of what she had lost on the dark day when a mother’s love had faded
+of what she had lost on the dark day when a mother’s [[Love|love]] had faded
 with a mother’s last breath on her cheek, moved about her in the
 twilight and were welcome company. Peeping at the rosy children her
 neighbours, it was a new and precious sensation to think that they
-might soon speak together and know each other; when she would not fear,
+might soon speak together and know each other; when she would not [[Fear|fear]],
 as of old, to show herself before them, lest they should be grieved to
-see her in her black dress sitting there alone!
+see her in her black dress sitting there [[Alone|alone]]!
 
-In her thoughts of her new mother, and in the love and trust
+In her thoughts of her new mother, and in the [[Love|love]] and trust
 overflowing her pure heart towards her, Florence loved her own dead
-mother more and more. She had no fear of setting up a rival in her
+mother more and more. She had no [[Fear|fear]] of setting up a rival in her
 breast. The new flower sprang from the deep-planted and long-cherished
 root, she knew. Every gentle word that had fallen from the lips of the
 beautiful lady, sounded to Florence like an echo of the voice long
-hushed and silent. How could she love that memory less for living
-tenderness, when it was her memory of all parental tenderness and love!
+hushed and silent. How could she [[Love|love]] that [[Memory|memory]] less for living
+tenderness, when it was her [[Memory|memory]] of all parental tenderness and [[Love|love]]!
 
 Florence was, one day, sitting reading in her room, and thinking of the
 lady and her promised visit soon—for her book turned on a kindred
@@ -74,10 +74,10 @@ was even more sensible of it than on the first occasion of their
 meeting.
 
 She led Florence to a chair beside her, and sat down: Florence looking
-in her face, quite wondering at its beauty, and willingly leaving her
+in her face, quite wondering at its [[Beauty|beauty]], and willingly leaving her
 hand in hers.
 
-“Have you been alone, Florence, since I was here last?”
+“Have you been [[Alone|alone]], Florence, since I was here last?”
 
 “Oh yes!” smiled Florence, hastily.
 
@@ -85,17 +85,17 @@ She hesitated and cast down her eyes; for her new Mama was very earnest
 in her look, and the look was intently and thoughtfully fixed upon her
 face.
 
-“I—I—am used to be alone,” said Florence. “I don’t mind it at all. Di
+“I—I—am used to be [[Alone|alone]],” said Florence. “I don’t mind it at all. Di
 and I pass whole days together, sometimes.” Florence might have said,
 whole weeks and months.
 
-“Is Di your maid, love?”
+“Is Di your maid, [[Love|love]]?”
 
 “My dog, Mama,” said Florence, laughing. “Susan is my maid.”
 
 “And these are your rooms,” said Edith, looking round. “I was not shown
 these rooms the other day. We must have them improved, Florence. They
-shall be made the prettiest in the house.”
+shall be made the prettiest in the [[house]].”
 
 “If I might change them, Mama,” returned Florence; “there is one
 upstairs I should like much better.”
@@ -103,7 +103,7 @@ upstairs I should like much better.”
 “Is this not high enough, dear girl?” asked Edith, smiling.
 
 “The other was my brother’s room,” said Florence, “and I am very fond
-of it. I would have spoken to Papa about it when I came home, and found
+of it. I would have spoken to Papa about it when I came [[Home|home]], and found
 the workmen here, and everything changing; but—”
 
 Florence dropped her eyes, lest the same look should make her falter
@@ -111,12 +111,12 @@ again.
 
 “but I was afraid it might distress him; and as you said you would be
 here again soon, Mama, and are the mistress of everything, I determined
-to take courage and ask you.”
+to take [[Courage|courage]] and ask you.”
 
 Edith sat looking at her, with her brilliant eyes intent upon her face,
 until Florence raising her own, she, in her turn, withdrew her gaze,
 and turned it on the ground. It was then that Florence thought how
-different this lady’s beauty was, from what she had supposed. She had
+different this lady’s [[Beauty|beauty]] was, from what she had supposed. She had
 thought it of a proud and lofty kind; yet her manner was so subdued and
 gentle, that if she had been of Florence’s own age and character, it
 scarcely could have invited confidence more.
@@ -128,15 +128,15 @@ Florence, and ill at ease. When she had said that she was not her Mama
 yet, and when Florence had called her the mistress of everything there,
 this change in her was quick and startling; and now, while the eyes of
 Florence rested on her face, she sat as though she would have shrunk
-and hidden from her, rather than as one about to love and cherish her,
+and hidden from her, rather than as one about to [[Love|love]] and cherish her,
 in right of such a near connexion.
 
 She gave Florence her ready promise, about her new room, and said she
 would give directions about it herself. She then asked some questions
 concerning poor Paul; and when they had sat in conversation for some
-time, told Florence she had come to take her to her own home.
+[[Time|time]], told Florence she had come to take her to her own [[Home|home]].
 
-“We have come to London now, my mother and I,” said Edith, “and you
+“We have come to [[London]] now, my mother and I,” said Edith, “and you
 shall stay with us until I am married. I wish that we should know and
 trust each other, Florence.”
 
@@ -144,62 +144,62 @@ trust each other, Florence.”
 you!”
 
 “Let me say now, for it may be the best opportunity,” continued Edith,
-looking round to see that they were quite alone, and speaking in a
+looking round to see that they were quite [[Alone|alone]], and speaking in a
 lower voice, “that when I am married, and have gone away for some
-weeks, I shall be easier at heart if you will come home here. No matter
-who invites you to stay elsewhere. Come home here. It is better to be
-alone than—what I would say is,” she added, checking herself, “that I
-know well you are best at home, dear Florence.”
+weeks, I shall be easier at heart if you will come [[Home|home]] here. No matter
+who invites you to stay elsewhere. Come [[Home|home]] here. It is better to be
+[[Alone|alone]] than—what I would say is,” she added, checking herself, “that I
+know [[Well|well]] you are best at [[Home|home]], dear Florence.”
 
-“I will come home on the very day, Mama”
+“I will come [[Home|home]] on the very day, Mama”
 
 “Do so. I rely on that promise. Now, prepare to come with me, dear
 girl. You will find me downstairs when you are ready.”
 
-Slowly and thoughtfully did Edith wander alone through the mansion of
+Slowly and thoughtfully did Edith wander [[Alone|alone]] through the mansion of
 which she was so soon to be the lady: and little heed took she of all
 the elegance and splendour it began to display. The same indomitable
-haughtiness of soul, the same proud scorn expressed in eye and lip, the
-same fierce beauty, only tamed by a sense of its own little worth, and
+haughtiness of [[Soul|soul]], the same proud scorn expressed in eye and lip, the
+same fierce [[Beauty|beauty]], only tamed by a sense of its own little worth, and
 of the little worth of everything around it, went through the grand
 saloons and halls, that had got loose among the shady trees, and raged
 and rent themselves. The mimic roses on the walls and floors were set
 round with sharp thorns, that tore her breast; in every scrap of gold
 so dazzling to the eye, she saw some hateful atom of her
 purchase-money; the broad high mirrors showed her, at full length, a
-woman with a noble quality yet dwelling in her nature, who was too
-false to her better self, and too debased and lost, to save herself.
+woman with a noble quality yet dwelling in her [[Nature|nature]], who was too
+false to her better [[Self|self]], and too debased and lost, to save herself.
 She believed that all this was so plain, more or less, to all eyes,
-that she had no resource or power of self-assertion but in pride: and
-with this pride, which tortured her own heart night and day, she fought
+that she had no resource or power of [[Self|self]]-assertion but in [[Pride|pride]]: and
+with this [[Pride|pride]], which tortured her own heart [[Night|night]] and day, she fought
 her fate out, braved it, and defied it.
 
-Was this the woman whom Florence—an innocent girl, strong only in her
-earnestness and simple truth—could so impress and quell, that by her
+Was this the woman whom Florence—an [[Innocent|innocent]] girl, strong only in her
+earnestness and simple [[Truth|truth]]—could so impress and quell, that by her
 side she was another creature, with her tempest of passion hushed, and
-her very pride itself subdued? Was this the woman who now sat beside
+her very [[Pride|pride]] itself subdued? Was this the woman who now sat beside
 her in a carriage, with her arms entwined, and who, while she courted
-and entreated her to love and trust her, drew her fair head to nestle
+and entreated her to [[Love|love]] and trust her, drew her fair head to nestle
 on her breast, and would have laid down life to shield it from wrong or
 harm?
 
-Oh, Edith! it were well to die, indeed, at such a time! Better and
+Oh, Edith! it were [[Well|well]] to die, indeed, at such a [[Time|time]]! Better and
 happier far, perhaps, to die so, Edith, than to live on to the end!
 
 The Honourable Mrs Skewton, who was thinking of anything rather than of
 such sentiments—for, like many genteel persons who have existed at
-various times, she set her face against death altogether, and objected
+various times, she set her face against [[Death|death]] altogether, and objected
 to the mention of any such low and levelling upstart—had borrowed a
-house in Brook Street, Grosvenor Square, from a stately relative (one
+[[house]] in Brook Street, Grosvenor Square, from a stately relative (one
 of the Feenix brood), who was out of town, and who did not object to
 lending it, in the handsomest manner, for nuptial purposes, as the loan
 implied his final release and acquittance from all further loans and
 gifts to Mrs Skewton and her daughter. It being necessary for the
-credit of the family to make a handsome appearance at such a time, Mrs
+credit of the family to make a handsome appearance at such a [[Time|time]], Mrs
 Skewton, with the assistance of an accommodating tradesman resident in
 the parish of Mary-le-bone, who lent out all sorts of articles to the
 nobility and gentry, from a service of plate to an army of footmen,
-clapped into this house a silver-headed butler (who was charged extra
+clapped into this [[house]] a silver-headed butler (who was charged extra
 on that account, as having the appearance of an ancient family
 retainer), two very tall young men in livery, and a select staff of
 kitchen-servants; so that a legend arose, downstairs, that Withers the
@@ -211,12 +211,12 @@ and being still in a celestial dream. A variety of requisites in plate
 and china being also conveyed to the same establishment from the same
 convenient source, with several miscellaneous articles, including a
 neat chariot and a pair of bays, Mrs Skewton cushioned herself on the
-principal sofa, in the Cleopatra attitude, and held her court in fair
+principal sofa, in the [[Cleopatra]] attitude, and held her [[Court|court]] in fair
 state.
 
 “And how,” said Mrs Skewton, on the entrance of her daughter and her
 charge, “is my charming Florence? You must come and kiss me, Florence,
-if you please, my love.”
+if you please, my [[Love|love]].”
 
 Florence was timidly stooping to pick out a place in the white part of
 Mrs Skewton’s face, when that lady presented her ear, and relieved her
@@ -245,12 +245,12 @@ Her mother eyed her sharply for a moment, and feeling herself on unsafe
 ground, said, as a diversion:
 
 “My charming Florence, you must come and kiss me once more, if you
-please, my love.”
+please, my [[Love|love]].”
 
 Florence complied, of course, and again imprinted her lips on Mrs
 Skewton’s ear.
 
-“And you have heard, no doubt, my darling pet,” said Mrs Skewton,
+“And you have heard, no [[Doubt|doubt]], my darling pet,” said Mrs Skewton,
 detaining her hand, “that your Papa, whom we all perfectly adore and
 dote upon, is to be married to my dearest Edith this day week.”
 
@@ -264,30 +264,30 @@ not told Florence?”
 that Florence could scarcely believe it was the same voice.
 
 Mrs Skewton then told Florence, as another and safer diversion, that
-her father was coming to dinner, and that he would no doubt be
-charmingly surprised to see her; as he had spoken last night of
-dressing in the City, and had known nothing of Edith’s design, the
+her father was coming to dinner, and that he would no [[Doubt|doubt]] be
+charmingly surprised to see her; as he had spoken last [[Night|night]] of
+dressing in the [[City]], and had known nothing of Edith’s design, the
 execution of which, according to Mrs Skewton’s expectation, would throw
 him into a perfect ecstasy. Florence was troubled to hear this; and her
 distress became so keen, as the dinner-hour approached, that if she had
-known how to frame an entreaty to be suffered to return home, without
+known how to frame an entreaty to be suffered to return [[Home|home]], without
 involving her father in her explanation, she would have hurried back on
-foot, bareheaded, breathless, and alone, rather than incur the risk of
+foot, bareheaded, breathless, and [[Alone|alone]], rather than incur the risk of
 meeting his displeasure.
 
-As the time drew nearer, she could hardly breathe. She dared not
-approach a window, lest he should see her from the street. She dared
+As the [[Time|time]] drew nearer, she could hardly breathe. She dared not
+approach a [[Window|window]], lest he should see her from the street. She dared
 not go upstairs to hide her emotion, lest, in passing out at the door,
 she should meet him unexpectedly; besides which dread, she felt as
 though she never could come back again if she were summoned to his
-presence. In this conflict of fears; she was sitting by Cleopatra’s
+presence. In this conflict of fears; she was sitting by [[Cleopatra]]’s
 couch, endeavouring to understand and to reply to the bald discourse of
 that lady, when she heard his foot upon the stair.
 
 “I hear him now!” cried Florence, starting. “He is coming!”
 
-Cleopatra, who in her juvenility was always playfully disposed, and who
-in her self-engrossment did not trouble herself about the nature of
+[[Cleopatra]], who in her juvenility was always playfully disposed, and who
+in her [[Self|self]]-engrossment did not trouble herself about the [[Nature|nature]] of
 this agitation, pushed Florence behind her couch, and dropped a shawl
 over her, preparatory to giving Mr Dombey a rapture of surprise. It was
 so quickly done, that in a moment Florence heard his awful step in the
@@ -295,26 +295,26 @@ room.
 
 He saluted his intended mother-in-law, and his intended bride. The
 strange sound of his voice thrilled through the whole frame of his
-child.
+[[Child|child]].
 
-“My dear Dombey,” said Cleopatra, “come here and tell me how your
+“My dear Dombey,” said [[Cleopatra]], “come here and tell me how your
 pretty Florence is.”
 
-“Florence is very well,” said Mr Dombey, advancing towards the couch.
+“Florence is very [[Well|well]],” said Mr Dombey, advancing towards the couch.
 
-“At home?”
+“At [[Home|home]]?”
 
-“At home,” said Mr Dombey.
+“At [[Home|home]],” said Mr Dombey.
 
-“My dear Dombey,” returned Cleopatra, with bewitching vivacity; “now
+“My dear Dombey,” returned [[Cleopatra]], with bewitching vivacity; “now
 are you sure you are not deceiving me? I don’t know what my dearest
-Edith will say to me when I make such a declaration, but upon my honour
+Edith will say to me when I make such a declaration, but upon my [[Honour|honour]]
 I am afraid you are the falsest of men, my dear Dombey.”
 
 Though he had been; and had been detected on the spot, in the most
 enormous falsehood that was ever said or done; he could hardly have
 been more disconcerted than he was, when Mrs Skewton plucked the shawl
-away, and Florence, pale and trembling, rose before him like a ghost.
+away, and Florence, pale and trembling, [[Rose|rose]] before him like a [[Ghost|ghost]].
 He had not yet recovered his presence of mind, when Florence had run up
 to him, clasped her hands round his neck, kissed his face, and hurried
 out of the room. He looked round as if to refer the matter to somebody
@@ -333,14 +333,14 @@ He appeared to consider gravely about it for a moment, and then said,
 more decidedly, “Yes, I really am very glad indeed to meet Florence
 here.”
 
-“You wonder how she comes here?” said Mrs Skewton, “don’t you?”
+“You [[Wonder|wonder]] how she comes here?” said Mrs Skewton, “don’t you?”
 
 “Edith, perhaps—” suggested Mr Dombey.
 
-“Ah! wicked guesser!” replied Cleopatra, shaking her head. “Ah!
+“Ah! wicked guesser!” replied [[Cleopatra]], shaking her head. “Ah!
 cunning, cunning man! One shouldn’t tell these things; your sex, my
 dear Dombey, are so vain, and so apt to abuse our weakness; but you
-know my open soul—very well; immediately.”
+know my open [[Soul|soul]]—very [[Well|well]]; immediately.”
 
 This was addressed to one of the very tall young men who announced
 dinner.
@@ -348,18 +348,18 @@ dinner.
 “But Edith, my dear Dombey,” she continued in a whisper, “when she
 cannot have you near her—and as I tell her, she cannot expect that
 always—will at least have near her something or somebody belonging to
-you. Well, how extremely natural that is! And in this spirit, nothing
+you. [[Well]], how extremely natural that is! And in this spirit, nothing
 would keep her from riding off today to fetch our darling Florence.
-Well, how excessively charming that is!”
+[[Well]], how excessively charming that is!”
 
 As she waited for an answer, Mr Dombey answered, “Eminently so.”
 
-“Bless you, my dear Dombey, for that proof of heart!” cried Cleopatra,
+“Bless you, my dear Dombey, for that proof of heart!” cried [[Cleopatra]],
 squeezing his hand. “But I am growing too serious! Take me downstairs,
 like an angel, and let us see what these people intend to give us for
 dinner. Bless you, dear Dombey!”
 
-Cleopatra skipping off her couch with tolerable briskness, after the
+[[Cleopatra]] skipping off her couch with tolerable briskness, after the
 last benediction, Mr Dombey took her arm in his and led her
 ceremoniously downstairs; one of the very tall young men on hire, whose
 organ of veneration was imperfectly developed, thrusting his tongue
@@ -373,25 +373,25 @@ an opposite place at the round table.
 
 The conversation was almost entirely sustained by Mrs Skewton. Florence
 hardly dared to raise her eyes, lest they should reveal the traces of
-tears; far less dared to speak; and Edith never uttered one word,
-unless in answer to a question. Verily, Cleopatra worked hard, for the
+[[Tears|tears]]; far less dared to speak; and Edith never uttered one word,
+unless in answer to a question. Verily, [[Cleopatra]] worked hard, for the
 establishment that was so nearly clutched; and verily it should have
 been a rich one to reward her!
 
 “And so your preparations are nearly finished at last, my dear Dombey?”
-said Cleopatra, when the dessert was put upon the table, and the
+said [[Cleopatra]], when the dessert was put upon the table, and the
 silver-headed butler had withdrawn. “Even the lawyers” preparations!”
 
 “Yes, madam,” replied Mr Dombey; “the deed of settlement, the
 professional gentlemen inform me, is now ready, and as I was mentioning
-to you, Edith has only to do us the favour to suggest her own time for
+to you, Edith has only to do us the favour to suggest her own [[Time|time]] for
 its execution.”
 
 Edith sat like a handsome statue; as cold, as silent, and as still.
 
-“My dearest love,” said Cleopatra, “do you hear what Mr Dombey says?
+“My dearest [[Love|love]],” said [[Cleopatra]], “do you hear what Mr Dombey says?
 Ah, my dear Dombey!” aside to that gentleman, “how her absence, as the
-time approaches, reminds me of the days, when that most agreeable of
+[[Time|time]] approaches, reminds me of the days, when that most agreeable of
 creatures, her Papa, was in your situation!”
 
 “I have nothing to suggest. It shall be when you please,” said Edith,
@@ -413,12 +413,12 @@ and one appointments with all sorts of trades-people!”
 “They are of your making,” returned Edith, turning on her with a slight
 contraction of her brow. “You and Mr Dombey can arrange between you.”
 
-“Very true indeed, my love, and most considerate of you!” said
-Cleopatra. “My darling Florence, you must really come and kiss me once
+“Very true indeed, my [[Love|love]], and most considerate of you!” said
+[[Cleopatra]]. “My darling Florence, you must really come and kiss me once
 more, if you please, my dear!”
 
 Singular coincidence, that these gushes of interest in Florence hurried
-Cleopatra away from almost every dialogue in which Edith had a share,
+[[Cleopatra]] away from almost every dialogue in which Edith had a share,
 however trifling! Florence had certainly never undergone so much
 embracing, and perhaps had never been, unconsciously, so useful in her
 life.
@@ -428,11 +428,11 @@ of his beautiful betrothed. He had that good reason for sympathy with
 haughtiness and coldness, which is found in a fellow-feeling. It
 flattered him to think how these deferred to him, in Edith’s case, and
 seemed to have no will apart from his. It flattered him to picture to
-himself, this proud and stately woman doing the honours of his house,
+himself, this proud and stately woman doing the honours of his [[house]],
 and chilling his guests after his own manner. The dignity of Dombey and
 Son would be heightened and maintained, indeed, in such hands.
 
-So thought Mr Dombey, when he was left alone at the dining-table, and
+So thought Mr Dombey, when he was left [[Alone|alone]] at the dining-table, and
 mused upon his past and future fortunes: finding no uncongeniality in
 an air of scant and gloomy state that pervaded the room, in colour a
 dark brown, with black hatchments of pictures blotching the walls, and
@@ -441,13 +441,13 @@ coffins, waiting like mutes, upon the threshold of the Turkey carpet;
 and two exhausted negroes holding up two withered branches of
 candelabra on the sideboard, and a musty smell prevailing as if the
 ashes of ten thousand dinners were entombed in the sarcophagus below
-it. The owner of the house lived much abroad; the air of England seldom
+it. The owner of the [[house]] lived much abroad; the air of England seldom
 agreed long with a member of the Feenix family; and the room had
 gradually put itself into deeper and still deeper mourning for him,
-until it was become so funereal as to want nothing but a body in it to
+until it was become so funereal as to want nothing but a [[Body|body]] in it to
 be quite complete.
 
-No bad representation of the body, for the nonce, in his unbending
+No bad representation of the [[Body|body]], for the nonce, in his unbending
 form, if not in his attitude, Mr Dombey looked down into the cold
 depths of the dead sea of mahogany on which the fruit dishes and
 decanters lay at anchor: as if the subjects of his thoughts were rising
@@ -458,32 +458,32 @@ instant, when she left the room; and Edith’s eyes upon her, and Edith’s
 hand put out protectingly. A little figure in a low arm-chair came
 springing next into the light, and looked upon him wonderingly, with
 its bright eyes and its old-young face, gleaming as in the flickering
-of an evening fire. Again came Florence close upon it, and absorbed his
+of an evening [[Fire|fire]]. Again came Florence close upon it, and absorbed his
 whole attention. Whether as a fore-doomed difficulty and disappointment
 to him; whether as a rival who had crossed him in his way, and might
-again; whether as his child, of whom, in his successful wooing, he
-could stoop to think as claiming, at such a time, to be no more
+again; whether as his [[Child|child]], of whom, in his successful wooing, he
+could stoop to think as claiming, at such a [[Time|time]], to be no more
 estranged; or whether as a hint to him that the mere appearance of
-caring for his own blood should be maintained in his new relations; he
-best knew. Indifferently well, perhaps, at best; for marriage company
-and marriage altars, and ambitious scenes—still blotted here and there
+caring for his own [[Blood|blood]] should be maintained in his new relations; he
+best knew. Indifferently [[Well|well]], perhaps, at best; for [[Marriage|marriage]] company
+and [[Marriage|marriage]] altars, and ambitious scenes—still blotted here and there
 with Florence—always Florence—turned up so fast, and so confusedly,
-that he rose, and went upstairs to escape them.
+that he [[Rose|rose]], and went upstairs to escape them.
 
-It was quite late at night before candles were brought; for at present
+It was quite late at [[Night|night]] before candles were brought; for at present
 they made Mrs Skewton’s head ache, she complained; and in the meantime
-Florence and Mrs Skewton talked together (Cleopatra being very anxious
+Florence and Mrs Skewton talked together ([[Cleopatra]] being very anxious
 to keep her close to herself), or Florence touched the piano softly for
 Mrs Skewton’s delight; to make no mention of a few occasions in the
 course of the evening, when that affectionate lady was impelled to
 solicit another kiss, and which always happened after Edith had said
 anything. They were not many, however, for Edith sat apart by an open
-window during the whole time (in spite of her mother’s fears that she
+[[Window|window]] during the whole [[Time|time]] (in spite of her mother’s fears that she
 would take cold), and remained there until Mr Dombey took leave. He was
 serenely gracious to Florence when he did so; and Florence went to bed
 in a room within Edith’s, so happy and hopeful, that she thought of her
-late self as if it were some other poor deserted girl who was to be
-pitied for her sorrow; and in her pity, sobbed herself to sleep.
+late [[Self|self]] as if it were some other poor deserted girl who was to be
+pitied for her sorrow; and in her pity, sobbed herself to [[Sleep|sleep]].
 
 The week fled fast. There were drives to milliners, dressmakers,
 jewellers, lawyers, florists, pastry-cooks; and Florence was always of
@@ -496,7 +496,7 @@ said it would become her to admiration, and that all the world would
 take her for the young lady’s sister.
 
 The week fled faster. Edith looked at nothing and cared for nothing.
-Her rich dresses came home, and were tried on, and were loudly
+Her rich dresses came [[Home|home]], and were tried on, and were loudly
 commended by Mrs Skewton and the milliners, and were put away without a
 word from her. Mrs Skewton made their plans for every day, and executed
 them. Sometimes Edith sat in the carriage when they went to make
@@ -505,25 +505,25 @@ the shops. But Mrs Skewton conducted the whole business, whatever it
 happened to be; and Edith looked on as uninterested and with as much
 apparent indifference as if she had no concern in it. Florence might
 perhaps have thought she was haughty and listless, but that she was
-never so to her. So Florence quenched her wonder in her gratitude
+never so to her. So Florence quenched her [[Wonder|wonder]] in her gratitude
 whenever it broke out, and soon subdued it.
 
 The week fled faster. It had nearly winged its flight away. The last
-night of the week, the night before the marriage, was come. In the dark
+[[Night|night]] of the week, the [[Night|night]] before the [[Marriage|marriage]], was come. In the dark
 room—for Mrs Skewton’s head was no better yet, though she expected to
 recover permanently to-morrow—were that lady, Edith, and Mr Dombey.
-Edith was at her open window looking out into the street; Mr Dombey and
-Cleopatra were talking softly on the sofa. It was growing late; and
+Edith was at her open [[Window|window]] looking out into the street; Mr Dombey and
+[[Cleopatra]] were talking softly on the sofa. It was growing late; and
 Florence, being fatigued, had gone to bed.
 
-“My dear Dombey,” said Cleopatra, “you will leave me Florence
+“My dear Dombey,” said [[Cleopatra]], “you will leave me Florence
 to-morrow, when you deprive me of my sweetest Edith.”
 
 Mr Dombey said he would, with pleasure.
 
-“To have her about me, here, while you are both at Paris, and to think
+“To have her about me, here, while you are both at [[Paris]], and to think
 at her age, I am assisting in the formation of her mind, my dear
-Dombey,” said Cleopatra, “will be a perfect balm to me in the extremely
+Dombey,” said [[Cleopatra]], “will be a perfect balm to me in the extremely
 shattered state to which I shall be reduced.”
 
 Edith turned her head suddenly. Her listless manner was exchanged, in a
@@ -533,77 +533,77 @@ attended closely to their conversation.
 Mr Dombey would be delighted to leave Florence in such admirable
 guardianship.
 
-“My dear Dombey,” returned Cleopatra, “a thousand thanks for your good
+“My dear Dombey,” returned [[Cleopatra]], “a thousand thanks for your good
 opinion. I feared you were going, with malice aforethought, as the
 dreadful lawyers say—those horrid prosers!—to condemn me to utter
-solitude.”
+[[Solitude|solitude]].”
 
 “Why do me so great an injustice, my dear madam?” said Mr Dombey.
 
-“Because my charming Florence tells me so positively she must go home
-tomorrow, returned Cleopatra, that I began to be afraid, my dearest
+“Because my charming Florence tells me so positively she must go [[Home|home]]
+tomorrow, returned [[Cleopatra]], that I began to be afraid, my dearest
 Dombey, you were quite a Bashaw.”
 
 “I assure you, madam!” said Mr Dombey, “I have laid no commands on
 Florence; and if I had, there are no commands like your wish.”
 
-“My dear Dombey,” replied Cleopatra, what a courtier you are! Though
+“My dear Dombey,” replied [[Cleopatra]], what a courtier you are! Though
 I’ll not say so, either; for courtiers have no heart, and yours
 pervades your farming life and character. And are you really going so
 early, my dear Dombey!”
 
 Oh, indeed! it was late, and Mr Dombey feared he must.
 
-“Is this a fact, or is it all a dream!” lisped Cleopatra. “Can I
+“Is this a fact, or is it all [[A Dream|a dream]]!” lisped [[Cleopatra]]. “Can I
 believe, my dearest Dombey, that you are coming back tomorrow morning
 to deprive me of my sweet companion; my own Edith!”
 
 Mr Dombey, who was accustomed to take things literally, reminded Mrs
 Skewton that they were to meet first at the church.
 
-“The pang,” said Mrs Skewton, “of consigning a child, even to you, my
+“The pang,” said Mrs Skewton, “of consigning a [[Child|child]], even to you, my
 dear Dombey, is one of the most excruciating imaginable, and combined
 with a naturally delicate constitution, and the extreme stupidity of
 the pastry-cook who has undertaken the breakfast, is almost too much
 for my poor strength. But I shall rally, my dear Dombey, in the
-morning; do not fear for me, or be uneasy on my account. Heaven bless
+morning; do not [[Fear|fear]] for me, or be uneasy on my account. Heaven bless
 you! My dearest Edith!” she cried archly. “Somebody is going, pet.”
 
-Edith, who had turned her head again towards the window, and whose
-interest in their conversation had ceased, rose up in her place, but
+Edith, who had turned her head again towards the [[Window|window]], and whose
+interest in their conversation had ceased, [[Rose|rose]] up in her place, but
 made no advance towards him, and said nothing. Mr Dombey, with a lofty
 gallantry adapted to his dignity and the occasion, betook his creaking
 boots towards her, put her hand to his lips, said, “Tomorrow morning I
 shall have the happiness of claiming this hand as Mrs Dombey’s,” and
 bowed himself solemnly out.
 
-Mrs Skewton rang for candles as soon as the house-door had closed upon
+Mrs Skewton rang for candles as soon as the [[house]]-door had closed upon
 him. With the candles appeared her maid, with the juvenile dress that
 was to delude the world to-morrow. The dress had savage retribution in
 it, as such dresses ever have, and made her infinitely older and more
 hideous than her greasy flannel gown. But Mrs Skewton tried it on with
-mincing satisfaction; smirked at her cadaverous self in the glass, as
-she thought of its killing effect upon the Major; and suffering her
+mincing satisfaction; smirked at her cadaverous [[Self|self]] in the glass, as
+she thought of its killing effect upon the Major; and [[Suffering|suffering]] her
 maid to take it off again, and to prepare her for repose, tumbled into
-ruins like a house of painted cards.
+ruins like a [[house]] of painted cards.
 
-All this time, Edith remained at the dark window looking out into the
-street. When she and her mother were at last left alone, she moved from
-it for the first time that evening, and came opposite to her. The
+All this [[Time|time]], Edith remained at the dark [[Window|window]] looking out into the
+street. When she and her mother were at last left [[Alone|alone]], she moved from
+it for the first [[Time|time]] that evening, and came opposite to her. The
 yawning, shaking, peevish figure of the mother, with her eyes raised to
-confront the proud erect form of the daughter, whose glance of fire was
+confront the proud erect form of the daughter, whose glance of [[Fire|fire]] was
 bent downward upon her, had a conscious air upon it, that no levity or
 temper could conceal.
 
-“I am tired to death,” said she. “You can’t be trusted for a moment.
-You are worse than a child. Child! No child would be half so obstinate
+“I am tired to [[Death|death]],” said she. “You can’t be trusted for a moment.
+You are worse than a [[Child|child]]. [[Child]]! No [[Child|child]] would be half so obstinate
 and undutiful.”
 
 “Listen to me, mother,” returned Edith, passing these words by with a
 scorn that would not descend to trifle with them. “You must remain
-alone here until I return.”
+[[Alone|alone]] here until I return.”
 
-“Must remain alone here, Edith, until you return!” repeated her mother.
+“Must remain [[Alone|alone]] here, Edith, until you return!” repeated her mother.
 
 “Or in that name upon which I shall call to-morrow to witness what I
 do, so falsely: and so shamefully, I swear I will refuse the hand of
@@ -614,16 +614,16 @@ The mother answered with a look of quick alarm, in no degree diminished
 by the look she met.
 
 “It is enough,” said Edith, steadily, “that we are what we are. I will
-have no youth and truth dragged down to my level. I will have no
-guileless nature undermined, corrupted, and perverted, to amuse the
+have no youth and [[Truth|truth]] dragged down to my level. I will have no
+guileless [[Nature|nature]] undermined, corrupted, and perverted, to amuse the
 leisure of a world of mothers. You know my meaning. Florence must go
-home.”
+[[Home|home]].”
 
 “You are an idiot, Edith,” cried her angry mother. “Do you expect there
-can ever be peace for you in that house, till she is married, and
+can ever be peace for you in that [[house]], till she is married, and
 away?”
 
-“Ask me, or ask yourself, if I ever expect peace in that house,” said
+“Ask me, or ask yourself, if I ever expect peace in that [[house]],” said
 her daughter, “and you know the answer.”
 
 “And am I to be told tonight, after all my pains and labour, and when
@@ -633,7 +633,7 @@ leaf, “that there is corruption and contagion in me, and that I am not
 fit company for a girl! What are you, pray? What are you?”
 
 “I have put the question to myself,” said Edith, ashy pale, and
-pointing to the window, “more than once when I have been sitting there,
+pointing to the [[Window|window]], “more than once when I have been sitting there,
 and something in the faded likeness of my sex has wandered past
 outside; and God knows I have met with my reply. Oh mother, mother, if
 you had but left me to my natural heart when I too was a girl—a younger
@@ -641,7 +641,7 @@ girl than Florence—how different I might have been!”
 
 Sensible that any show of anger was useless here, her mother restrained
 herself, and fell a whimpering, and bewailed that she had lived too
-long, and that her only child had cast her off, and that duty towards
+long, and that her only [[Child|child]] had cast her off, and that duty towards
 parents was forgotten in these evil days, and that she had heard
 unnatural taunts, and cared for life no longer.
 
@@ -650,19 +650,19 @@ whined, “I am sure it would be much better for me to think of some
 means of putting an end to my existence. Oh! The idea of your being my
 daughter, Edith, and addressing me in such a strain!”
 
-“Between us, mother,” returned Edith, mournfully, “the time for mutual
+“Between us, mother,” returned Edith, mournfully, “the [[Time|time]] for mutual
 reproaches is past.”
 
 “Then why do you revive it?” whimpered her mother. “You know that you
 are lacerating me in the cruellest manner. You know how sensitive I am
 to unkindness. At such a moment, too, when I have so much to think of,
-and am naturally anxious to appear to the best advantage! I wonder at
+and am naturally anxious to appear to the best advantage! I [[Wonder|wonder]] at
 you, Edith. To make your mother a fright upon your wedding-day!”
 
 Edith bent the same fixed look upon her, as she sobbed and rubbed her
 eyes; and said in the same low steady voice, which had neither risen
 nor fallen since she first addressed her, “I have said that Florence
-must go home.”
+must go [[Home|home]].”
 
 “Let her go!” cried the afflicted and affrighted parent, hastily. “I am
 sure I am willing she should go. What is the girl to me?”
@@ -670,10 +670,10 @@ sure I am willing she should go. What is the girl to me?”
 “She is so much to me, that rather than communicate, or suffer to be
 communicated to her, one grain of the evil that is in my breast,
 mother, I would renounce you, as I would (if you gave me cause)
-renounce him in the church to-morrow,” replied Edith. “Leave her alone.
+renounce him in the church to-morrow,” replied Edith. “Leave her [[Alone|alone]].
 She shall not, while I can interpose, be tampered with and tainted by
 the lessons I have learned. This is no hard condition on this bitter
-night.”
+[[Night|night]].”
 
 “If you had proposed it in a filial manner, Edith,” whined her mother,
 “perhaps not; very likely not. But such extremely cutting words—”
@@ -687,17 +687,17 @@ wickedness. May God forgive my own!”
 
 Without a tremor in her voice, or frame, and passing onward with a foot
 that set itself upon the neck of every soft emotion, she bade her
-mother good-night, and repaired to her own room.
+mother good-[[Night|night]], and repaired to her own room.
 
 But not to rest; for there was no rest in the tumult of her agitation
-when alone to and fro, and to and fro, and to and fro again, five
+when [[Alone|alone]] to and fro, and to and fro, and to and fro again, five
 hundred times, among the splendid preparations for her adornment on the
 morrow; with her dark hair shaken down, her dark eyes flashing with a
 raging light, her broad white bosom red with the cruel grasp of the
 relentless hand with which she spurned it from her, pacing up and down
 with an averted head, as if she would avoid the sight of her own fair
-person, and divorce herself from its companionship. Thus, in the dead
-time of the night before her bridal, Edith Granger wrestled with her
+person, and [[divorce]] herself from its companionship. Thus, in the dead
+[[Time|time]] of the [[Night|night]] before her bridal, [[Edith Granger]] wrestled with her
 unquiet spirit, tearless, friendless, silent, proud, and uncomplaining.
 
 At length it happened that she touched the open door which led into the
@@ -706,15 +706,15 @@ room where Florence lay.
 She started, stopped, and looked in.
 
 A light was burning there, and showed her Florence in her bloom of
-innocence and beauty, fast asleep. Edith held her breath, and felt
+[[innocence]] and [[Beauty|beauty]], fast asleep. Edith held her breath, and felt
 herself drawn on towards her.
 
 Drawn nearer, nearer, nearer yet; at last, drawn so near, that stooping
 down, she pressed her lips to the gentle hand that lay outside the bed,
-and put it softly to her neck. Its touch was like the prophet’s rod of
-old upon the rock. Her tears sprung forth beneath it, as she sunk upon
+and put it softly to her neck. Its touch was like the [[Prophet|prophet]]’s rod of
+old upon the rock. Her [[Tears|tears]] sprung forth beneath it, as she sunk upon
 her knees, and laid her aching head and streaming hair upon the pillow
 by its side.
 
-Thus Edith Granger passed the night before her bridal. Thus the sun
+Thus [[Edith Granger]] passed the [[Night|night]] before her bridal. Thus the sun
 found her on her bridal morning.

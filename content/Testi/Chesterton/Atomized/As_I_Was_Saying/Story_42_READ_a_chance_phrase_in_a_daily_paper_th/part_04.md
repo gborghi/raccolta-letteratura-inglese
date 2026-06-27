@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-All the memoirs and memories of that time are full of that curious
+All the memoirs and memories of that [[Time|time]] are full of that curious
 atmosphere of brand-new prejudice and premature pugnacity.
 Popular science loved to put the spotlight on special occasions;
 party combats and particular challenges of particular champions.
 Everybody talked about the repartee of Huxley to Wilberforce as
 something as theatrical as a thunderbolt.  Everything was supposed
-to stand or fall by a particular debate between Huxley and Gladstone
+to stand or fall by a particular [[debate]] between Huxley and Gladstone
 about the Gadarene Swine.  Nobody seems to have remarked on the fact
 that a theory like Darwinism, advanced by a man like Darwin,
 was about the most unsuitable subject on earth to be settled by a
@@ -38,24 +38,24 @@ as a fashion.
 
 If the great biological speculations of the later nineteenth century
 had remained speculative, they would have been much more slow and
-very much more sure.  We might by this time have really taken stock
+very much more sure.  We might by this [[Time|time]] have really taken stock
 of what is actually known about the variation of species and what can
 only be plausibly guessed and what is quite random guesswork.
 Instead of that, a hypothesis was allowed to harden into a habit
 of thought; and any alternative hypothesis creates unnecessary
-excitement as a violent paradox.  A distinguished scientific man,
+excitement as a violent [[Paradox|paradox]].  A distinguished scientific man,
 in another branch of science, has recently contradicted Darwinism with
 the same emphasis and eagerness with which the Darwinians affirmed it.
 This is news in the newspapers, but in this country we grossly
 exaggerate the extent to which it is new in the scientific world.
-When Sir Arthur Keith and Mr. H. G. Wells tried to treat Anti-Darwinism
-as an unheard-of paradox, Mr. Belloc had not the least difficulty in
+When Sir [[Arthur]] Keith and Mr. H. G. Wells tried to treat Anti-Darwinism
+as an unheard-of [[Paradox|paradox]], Mr. Belloc had not the least difficulty in
 naming fifty scientific men of the first rank, throughout Europe, who were
-avowed Anti-Darwinians. And Sir Arthur Keith could say nothing in reply,
+avowed Anti-Darwinians. And Sir [[Arthur]] Keith could say nothing in reply,
 except that one out of the fifty, the distinguished Professor Dwight,
-had never at any time accepted the Darwinian hypothesis.
+had never at any [[Time|time]] accepted the Darwinian hypothesis.
 The argument was, apparently, that Dwight could not be right,
-because he had been right all the time.  There is nothing new
+because he had been right all the [[Time|time]].  There is nothing new
 about the purely scientific attack on the Darwinian theory;
 it began very soon after the Darwinians advanced the theory.
 But the Darwinians advanced it with so sweeping and hasty
@@ -91,35 +91,35 @@ against Gladstone.  They were always going to the country,
 appealing to the public, expecting an immediate decision of
 the whole commonwealth, even on the most specialist speculations,
 as if they were the most spiritual elements of right and wrong.
-Thus they identified Free Trade with Freedom; insisting on it with
+Thus they identified Free Trade with [[Freedom]]; insisting on it with
 an ethical simplicity wholly inapplicable to an economic science.
-And so they identified Natural Selection with Nature; with a
+And so they identified Natural Selection with [[Nature]]; with a
 dogmatic finality wholly inapplicable to a biological science.
-The Darwinian Theory was the Dawn; and any other shade of fact
+The Darwinian Theory was the [[Dawn]]; and any other shade of fact
 or fancy was only part of the opposing darkness.  We can see
 the difference in a flash if we merely compare those great and grim
-grey-whiskered men with the Greeks or the men of the Renaissance,
+grey-whiskered men with the Greeks or the men of the [[Renaissance]],
 when they speculated in a free-and-easy fashion about some theory
-of the stars, or the flight of birds, or the movements of the sea.
+of the [[Stars|stars]], or the flight of [[Birds|birds]], or the movements of the sea.
 The greater moral seriousness of the Victorians gave them all
 the advantage that industry and conscientious record can give;
 but there is a sense in which the scientific spirit was lost
 in the very triumphs of the scientific age.  They were so fond
 of having convictions that they came prematurely to conclusions.
 Having grown doubtful about the things on which conviction is
-most valuable, they then expected the speculative imagination to answer
-as promptly and practically as the conscience.  The consequence was
-that they answered much too soon; and then yielded to the temptation
+most valuable, they then expected the speculative [[Imagination|imagination]] to answer
+as promptly and practically as the [[Conscience|conscience]].  The consequence was
+that they answered much too soon; and then yielded to the [[Temptation|temptation]]
 of all moralists, to veto any kind of answer to the answer.
 Anyone who reads the account of how the orthodox officials of Darwinism
 dealt with a real free-thinker like Samuel Butler will recognize
 by unmistakable signs that the Darwinian free-thinkers were no longer
 thinking freely; we might say they were no longer free to think.
-The consequence is that, by this time, when that rigid
+The consequence is that, by this [[Time|time]], when that rigid
 and respectable Victorian front door is suddenly burst open,
-it has the effect of a resurrection or the rending of a tomb.
+it has the effect of a [[Resurrection|resurrection]] or the rending of a tomb.
 But there is no need for such excitement; and it is quite possible
-that the reaction following such a resurrection may go too far.
+that the reaction following such a [[Resurrection|resurrection]] may go too far.
 It will be worse still if the world is again converted
 without being convinced.
 

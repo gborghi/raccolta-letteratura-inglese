@@ -24,11 +24,11 @@ tags:
 
       the horrors which encompassed me. For another twenty-four hours
 
-      it was barely possible that I might exist without water—for a
+      it was barely possible that I might exist without [[Water|water]]—for a
 
-      longer time I could not do so. During the first portion of my
+      longer [[Time|time]] I could not do so. During the first portion of my
 
-      imprisonment I had made free use of the cordials with which
+      [[Imprisonment|imprisonment]] I had made free use of the cordials with which
 
       Augustus had supplied me, but they only served to excite fever,
 
@@ -70,7 +70,7 @@ tags:
 
       ran his nose against my hand with a slight snarl; but I was too
 
-      greatly excited at the time to pay much attention to the
+      greatly excited at the [[Time|time]] to pay much attention to the
 
       circumstance. Soon afterward, it will be remembered, I threw
 
@@ -92,13 +92,13 @@ tags:
 
       times, until finally his behaviour inspired me with so great a
 
-      degree of fear, that I became fully aroused. He was now lying
+      degree of [[Fear|fear]], that I became fully aroused. He was now lying
 
       close by the door of the box, snarling fearfully, although in a
 
       kind of undertone, and grinding his teeth as if strongly
 
-      convulsed. I had no doubt whatever that the want of water or the
+      convulsed. I had no [[Doubt|doubt]] whatever that the want of [[Water|water]] or the
 
       confined atmosphere of the hold had driven him mad, and I was at
 
@@ -118,7 +118,7 @@ tags:
 
       should render it necessary for me to do so. To get out, I had to
 
-      pass directly over his body, and he already seemed to anticipate
+      pass directly over his [[Body|body]], and he already seemed to anticipate
 
       my design—missing himself upon his fore-legs (as I perceived by
 
@@ -136,7 +136,7 @@ tags:
 
       sooner did I do this, than the dog sprang with a loud growl
 
-      toward my throat. The whole weight of his body struck me on the
+      toward my throat. The whole weight of his [[Body|body]] struck me on the
 
       right shoulder, and I fell violently to the left, while the
 
@@ -152,9 +152,9 @@ tags:
 
       all the folds. I was now beneath the dog, and a few moments would
 
-      place me completely in his power. Despair gave me strength, and I
+      place me completely in his power. [[Despair]] gave me strength, and I
 
-      rose boldly up, shaking him from me by main force, and dragging
+      [[Rose|rose]] boldly up, shaking him from me by main force, and dragging
 
       with me the blankets from the mattress. These I now threw over
 
@@ -170,7 +170,7 @@ tags:
 
       felt myself actuated by one of those fits of perverseness which
 
-      might be supposed to influence a spoiled child in similar
+      might be supposed to influence a spoiled [[Child|child]] in similar
 
       circumstances, and, raising the bottle to my lips, I drained it
 

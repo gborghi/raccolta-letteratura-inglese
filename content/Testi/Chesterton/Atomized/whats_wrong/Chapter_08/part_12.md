@@ -17,8 +17,8 @@ tags:
 This condition (described by some as emancipated) is at least
 the reverse of my ideal.  I would give woman, not more rights,
 but more privileges.  Instead of sending her to seek such
-freedom as notoriously prevails in banks and factories,
-I would design specially a house in which she can be free.
+[[Freedom|freedom]] as notoriously prevails in banks and factories,
+I would design specially a [[house]] in which she can be free.
 And with that we come to the last point of all; the point at
 which we can perceive the needs of women, like the rights of men,
 stopped and falsified by something which it is the object
@@ -26,13 +26,13 @@ of this book to expose.
 
 The Feminist (which means, I think, one who dislikes the chief
 feminine characteristics) has heard my loose monologue,
-bursting all the time with one pent-up protest.
+bursting all the [[Time|time]] with one pent-up protest.
 At this point he will break out and say, "But what are we to do?
 There is modern commerce and its clerks; there is the modern family
 with its unmarried daughters; specialism is expected everywhere;
 female thrift and conscientiousness are demanded and supplied.
 What does it matter whether we should in the abstract prefer
-the old human and housekeeping woman; we might prefer the Garden
+the old human and housekeeping woman; we might prefer the [[Garden]]
 of Eden.  But since women have trades they ought to have trades unions.
 Since women work in factories, they ought to vote on factory-acts. If
 they are unmarried they must be commercial; if they are commercial
@@ -45,7 +45,7 @@ it is whether votes are good enough for women."  He only answered:
 Now this is the attitude which I attack.  It is the huge heresy of
 Precedent.  It is the view that because we have got into a mess we
 must grow messier to suit it; that because we have taken a wrong turn
-some time ago we must go forward and not backwards; that because we
+some [[Time|time]] ago we must go forward and not backwards; that because we
 have lost our way we must lose our map also; and because we have
 missed our ideal, we must forget it.  "There are numbers of excellent
 people who do not think votes unfeminine; and there may be enthusiasts
@@ -62,7 +62,7 @@ destroy womanhood.  That is the only difference.
 Whether we can recover the clear vision of woman as a tower
 with many windows, the fixed eternal feminine from which her sons,
 the specialists, go forth; whether we can preserve the tradition
-of a central thing which is even more human than democracy
+of a central thing which is even more human than [[democracy]]
 and even more practical than politics; whether, in word,
 it is possible to re-establish the family, freed from the filthy
 cynicism and cruelty of the commercial epoch, I shall discuss
@@ -70,6 +70,6 @@ in the last section of this book.  But meanwhile do not talk
 to me about the poor chain-makers on Cradley Heath.  I know
 all about them and what they are doing.  They are engaged in a
 very wide-spread and flourishing industry of the present age.
-They are making chains.
+They are making [[Chains|chains]].
 
 * * *

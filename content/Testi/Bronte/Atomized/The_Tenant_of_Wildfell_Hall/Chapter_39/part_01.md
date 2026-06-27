@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 39 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,11 +20,11 @@ tags:
 
 
 
-My greatest source of uneasiness, in this time of trial, was my son,
+My greatest source of uneasiness, in this [[Time|time]] of trial, was my son,
 
 whom his father and his father’s friends delighted to encourage in all
 
-the embryo vices a little child can show, and to instruct in all the
+the embryo vices a little [[Child|child]] can show, and to instruct in all the
 
 evil habits he could acquire—in a word, to “make a man of him” was one
 
@@ -42,9 +42,9 @@ stayed; but it was no use: these orders were immediately countermanded
 
 and overruled by his father; he was not going to have the little fellow
 
-moped to death between an old nurse and a cursed fool of a mother. So
+moped to [[Death|death]] between an old [[Nurse|nurse]] and a cursed [[Fool|fool]] of a mother. So
 
-the little fellow came down every evening in spite of his cross mamma,
+the little fellow came down every evening in spite of his [[Cross|cross]] mamma,
 
 and learned to tipple wine like papa, to swear like Mr. Hattersley, and
 
@@ -52,7 +52,7 @@ to have his own way like a man, and sent mamma to the devil when she
 
 tried to prevent him. To see such things done with the roguish naïveté
 
-of that pretty little child, and hear such things spoken by that small
+of that pretty little [[Child|child]], and hear such things spoken by that small
 
 infantile voice, was as peculiarly piquant and irresistibly droll to
 
@@ -72,7 +72,7 @@ never will.”
 
 Hence was I obliged to stay among these human brutes, watching an
 
-opportunity to get my child away from them instead of leaving them
+opportunity to get my [[Child|child]] away from them instead of leaving them
 
 immediately after the removal of the cloth, as I should always
 
@@ -84,7 +84,7 @@ unjust; and sometimes his father would insist upon my letting him
 
 remain; and then I would leave him to his kind friends, and retire to
 
-indulge my bitterness and despair alone, or to rack my brains for a
+indulge my bitterness and [[Despair|despair]] [[Alone|alone]], or to rack my brains for a
 
 remedy to this great evil.
 
@@ -92,7 +92,7 @@ remedy to this great evil.
 
 But here again I must do Mr. Hargrave the justice to acknowledge that I
 
-never saw _him_ laugh at the child’s misdemeanours, nor heard him utter
+never saw _him_ laugh at the [[Child|child]]’s misdemeanours, nor heard him utter
 
 a word of encouragement to his aspirations after manly accomplishments.
 
@@ -104,13 +104,13 @@ I could neither interpret nor define: a slight twitching about the
 
 muscles of the mouth; a sudden flash in the eye, as he darted a sudden
 
-glance at the child and then at me: and then I could fancy there arose
+glance at the [[Child|child]] and then at me: and then I could fancy there arose
 
 a gleam of hard, keen, sombre satisfaction in his countenance at the
 
 look of impotent wrath and anguish he was too certain to behold in
 
-mine. But on one occasion, when Arthur had been behaving particularly
+mine. But on one occasion, when [[arthur|Arthur]] had been behaving particularly
 
 ill, and Mr. Huntingdon and his guests had been particularly provoking
 
@@ -118,9 +118,9 @@ and insulting to me in their encouragement of him, and I particularly
 
 anxious to get him out of the room, and on the very point of demeaning
 
-myself by a burst of uncontrollable passion—Mr. Hargrave suddenly rose
+myself by a burst of uncontrollable passion—Mr. Hargrave suddenly [[Rose|rose]]
 
-from his seat with an aspect of stern determination, lifted the child
+from his seat with an aspect of stern determination, lifted the [[Child|child]]
 
 from his father’s knee, where he was sitting half-tipsy, cocking his
 
@@ -138,15 +138,15 @@ and disconcerted boy.
 
 
 
-But this should not continue: my child must not be abandoned to this
+But this should not continue: my [[Child|child]] must not be abandoned to this
 
-corruption: better far that he should live in poverty and obscurity,
+corruption: better far that he should live in [[Poverty|poverty]] and obscurity,
 
 with a fugitive mother, than in luxury and affluence with such a
 
 father. These guests might not be with us long, but they would return
 
-again: and he, the most injurious of the whole, his child’s worst
+again: and he, the most injurious of the whole, his [[Child|child]]’s worst
 
 enemy, would still remain. I could endure it for myself, but for my son
 
@@ -158,15 +158,15 @@ from my duty. But where should I find an asylum, and how obtain
 
 subsistence for us both? Oh, I would take my precious charge at early
 
-dawn, take the coach to M——, flee to the port of ——, cross the
+[[Dawn|dawn]], take the coach to M——, flee to the port of ——, [[Cross|cross]] the
 
-Atlantic, and seek a quiet, humble home in New England, where I would
+Atlantic, and seek a quiet, humble [[Home|home]] in [[New England]], where I would
 
 support myself and him by the labour of my hands. The palette and the
 
 easel, my darling playmates once, must be my sober toil-fellows now.
 
-But was I sufficiently skilful as an artist to obtain my livelihood in
+But was I sufficiently skilful as an [[artist]] to obtain my livelihood in
 
 a strange land, without friends and without recommendation? No; I must
 
@@ -176,11 +176,11 @@ something worth while as a specimen of my powers, something to speak
 
 favourably for me, whether as an actual painter or a teacher. Brilliant
 
-success, of course, I did not look for, but some degree of security
+[[success]], of course, I did not look for, but some degree of security
 
 from positive failure was indispensable: I must not take my son to
 
-starve. And then I must have money for the journey, the passage, and
+starve. And then I must have money for the [[Journey|journey]], the passage, and
 
 some little to support us in our retreat in case I should be
 
@@ -198,7 +198,7 @@ and my resolves to him? No, no: even if I told him _all_ my grievances,
 
 which I should be very reluctant to do, he would be certain to
 
-disapprove of the step: it would seem like madness to him, as it would
+disapprove of the step: it would seem like [[Madness|madness]] to him, as it would
 
 to my uncle and aunt, or to Milicent. No; I must have patience and
 

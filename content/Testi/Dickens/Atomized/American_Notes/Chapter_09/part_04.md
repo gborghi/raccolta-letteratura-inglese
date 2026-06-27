@@ -19,7 +19,7 @@ as coalheavers deal upon each other, when they forget their breeding?  On
 every side.  Every session had its anecdotes of that kind, and the actors
 were all there.
 
-Did I recognise in this assembly, a body of men, who, applying themselves
+Did I recognise in this assembly, a [[Body|body]] of men, who, applying themselves
 in a new world to correct some of the falsehoods and vices of the old,
 purified the avenues to Public Life, paved the dirty ways to Place and
 Power, debated and made laws for the Common Good, and had no party but
@@ -39,11 +39,11 @@ most depraved and most unblushing form, stared out from every corner of
 the crowded hall.
 
 Did I see among them, the intelligence and refinement: the true, honest,
-patriotic heart of America?  Here and there, were drops of its blood and
+patriotic heart of [[America]]?  Here and there, were drops of its [[Blood|blood]] and
 life, but they scarcely coloured the stream of desperate adventurers
 which sets that way for profit and for pay.  It is the game of these men,
 and of their profligate organs, to make the strife of politics so fierce
-and brutal, and so destructive of all self-respect in worthy men, that
+and brutal, and so destructive of all [[Self|self]]-respect in worthy men, that
 sensitive and delicate-minded persons shall be kept aloof, and they, and
 such as they, be left to battle out their selfish views unchecked.  And
 thus this lowest of all scrambling fights goes on, and they who in other
@@ -61,30 +61,30 @@ most heartily subscribe; and that personal intercourse and free
 communication have bred within me, not the result predicted in the very
 doubtful proverb, but increased admiration and respect.  They are
 striking men to look at, hard to deceive, prompt to act, lions in energy,
-Crichtons in varied accomplishments, Indians in fire of eye and gesture,
-Americans in strong and generous impulse; and they as well represent the
-honour and wisdom of their country at home, as the distinguished
-gentleman who is now its Minister at the British Court sustains its
+Crichtons in varied accomplishments, Indians in [[Fire|fire]] of eye and gesture,
+Americans in strong and generous impulse; and they as [[Well|well]] represent the
+[[Honour|honour]] and wisdom of their country at [[Home|home]], as the distinguished
+gentleman who is now its Minister at the British [[Court]] sustains its
 highest character abroad.
 
 I visited both houses nearly every day, during my stay in Washington.  On
-my initiatory visit to the House of Representatives, they divided against
-a decision of the chair; but the chair won.  The second time I went, the
+my initiatory visit to the [[house|House]] of Representatives, they divided against
+a decision of the chair; but the chair won.  The second [[Time|time]] I went, the
 member who was speaking, being interrupted by a laugh, mimicked it, as
-one child would in quarrelling with another, and added, ‘that he would
+one [[Child|child]] would in quarrelling with another, and added, ‘that he would
 make honourable gentlemen opposite, sing out a little more on the other
 side of their mouths presently.’  But interruptions are rare; the speaker
-being usually heard in silence.  There are more quarrels than with us,
+being usually heard in [[Silence|silence]].  There are more quarrels than with us,
 and more threatenings than gentlemen are accustomed to exchange in any
 civilised society of which we have record: but farm-yard imitations have
 not as yet been imported from the Parliament of the United Kingdom.  The
 feature in oratory which appears to be the most practised, and most
-relished, is the constant repetition of the same idea or shadow of an
+relished, is the constant repetition of the same idea or [[Shadow|shadow]] of an
 idea in fresh words; and the inquiry out of doors is not, ‘What did he
 say?’ but, ‘How long did he speak?’  These, however, are but enlargements
 of a principle which prevails elsewhere.
 
-The Senate is a dignified and decorous body, and its proceedings are
+The Senate is a dignified and decorous [[Body|body]], and its proceedings are
 conducted with much gravity and order.  Both houses are handsomely
 carpeted; but the state to which these carpets are reduced by the
 universal disregard of the spittoon with which every honourable member is
@@ -107,12 +107,12 @@ place.
 
 I was surprised to observe that even steady old chewers of great
 experience, are not always good marksmen, which has rather inclined me to
-doubt that general proficiency with the rifle, of which we have heard so
+[[Doubt|doubt]] that general proficiency with the rifle, of which we have heard so
 much in England.  Several gentlemen called upon me who, in the course of
 conversation, frequently missed the spittoon at five paces; and one (but
 he was certainly short-sighted) mistook the closed sash for the open
-window, at three.  On another occasion, when I dined out, and was sitting
-with two ladies and some gentlemen round a fire before dinner, one of the
+[[Window|window]], at three.  On another occasion, when I dined out, and was sitting
+with two ladies and some gentlemen round a [[Fire|fire]] before dinner, one of the
 company fell short of the fireplace, six distinct times.  I am disposed
 to think, however, that this was occasioned by his not aiming at that
 object; as there was a white marble hearth before the fender, which was

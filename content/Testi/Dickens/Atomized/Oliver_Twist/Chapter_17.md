@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 17"
+title: "[[Oliver Twist]] — Chapter 17"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,49 +15,49 @@ tags:
 
 
  CHAPTER XVII.
-OLIVER’S DESTINY CONTINUING UNPROPITIOUS, BRINGS A GREAT MAN TO LONDON
+[[Oliver|OLIVER]]’S DESTINY CONTINUING UNPROPITIOUS, BRINGS A GREAT MAN TO [[London|LONDON]]
 TO INJURE HIS REPUTATION
 
 
 It is the custom on the stage, in all good murderous melodramas, to
 present the tragic and the comic scenes, in as regular alternation, as
-the layers of red and white in a side of streaky bacon. The hero sinks
+the layers of red and white in a side of streaky bacon. The [[Hero|hero]] sinks
 upon his straw bed, weighed down by fetters and misfortunes; in the
 next scene, his faithful but unconscious squire regales the audience
-with a comic song. We behold, with throbbing bosoms, the heroine in the
+with a comic [[Song|song]]. We behold, with throbbing bosoms, the heroine in the
 grasp of a proud and ruthless baron: her virtue and her life alike in
 danger, drawing forth her dagger to preserve the one at the cost of the
 other; and just as our expectations are wrought up to the highest
 pitch, a whistle is heard, and we are straightway transported to the
-great hall of the castle; where a grey-headed seneschal sings a funny
-chorus with a funnier body of vassals, who are free of all sorts of
+great hall of the [[Castle|castle]]; where a grey-headed seneschal sings a funny
+[[Chorus|chorus]] with a funnier [[Body|body]] of vassals, who are free of all sorts of
 places, from church vaults to palaces, and roam about in company,
 carolling perpetually.
 
 Such changes appear absurd; but they are not so unnatural as they would
-seem at first sight. The transitions in real life from well-spread
-boards to death-beds, and from mourning-weeds to holiday garments, are
+seem at first sight. The transitions in real life from [[Well|well]]-spread
+boards to [[Death|death]]-beds, and from mourning-weeds to holiday garments, are
 not a whit less startling; only, there, we are busy actors, instead of
 passive lookers-on, which makes a vast difference. The actors in the
 mimic life of the theatre, are blind to violent transitions and abrupt
 impulses of passion or feeling, which, presented before the eyes of
 mere spectators, are at once condemned as outrageous and preposterous.
 
-As sudden shiftings of the scene, and rapid changes of time and place,
+As sudden shiftings of the scene, and rapid changes of [[Time|time]] and place,
 are not only sanctioned in books by long usage, but are by many
 considered as the great art of authorship: an author’s skill in his
 craft being, by such critics, chiefly estimated with relation to the
-dilemmas in which he leaves his characters at the end of every chapter:
+dilemmas in which he [[Leaves|leaves]] his characters at the end of every chapter:
 this brief introduction to the present one may perhaps be deemed
 unnecessary. If so, let it be considered a delicate intimation on the
-part of the historian that he is going back to the town in which Oliver
+part of the historian that he is going back to the town in which [[Oliver]]
 Twist was born; the reader taking it for granted that there are good
-and substantial reasons for making the journey, or he would not be
+and substantial reasons for making the [[Journey|journey]], or he would not be
 invited to proceed upon such an expedition.
 
 Mr. Bumble emerged at early morning from the workhouse-gate, and walked
 with portly carriage and commanding steps, up the High Street. He was
-in the full bloom and pride of beadlehood; his cocked hat and coat were
+in the full bloom and [[Pride|pride]] of beadlehood; his cocked hat and coat were
 dazzling in the morning sun; he clutched his cane with the vigorous
 tenacity of health and power. Mr. Bumble always carried his head high;
 but this morning it was higher than usual. There was an abstraction in
@@ -71,23 +71,23 @@ returned their salutations with a wave of his hand, and relaxed not in
 his dignified pace, until he reached the farm where Mrs. Mann tended
 the infant paupers with parochial care.
 
-“Drat that beadle!” said Mrs. Mann, hearing the well-known shaking at
-the garden-gate. “If it isn’t him at this time in the morning! Lauk,
-Mr. Bumble, only think of its being you! Well, dear me, it _is_ a
+“Drat that beadle!” said Mrs. Mann, hearing the [[Well|well]]-known shaking at
+the [[Garden|garden]]-gate. “If it isn’t him at this [[Time|time]] in the morning! Lauk,
+Mr. Bumble, only think of its being you! [[Well]], dear me, it _is_ a
 pleasure, this is! Come into the parlour, sir, please.”
 
 The first sentence was addressed to Susan; and the exclamations of
 delight were uttered to Mr. Bumble: as the good lady unlocked the
-garden-gate: and showed him, with great attention and respect, into the
-house.
+[[Garden|garden]]-gate: and showed him, with great attention and respect, into the
+[[house]].
 
 “Mrs. Mann,” said Mr. Bumble; not sitting upon, or dropping himself
 into a seat, as any common jackanapes would: but letting himself
 gradually and slowly down into a chair; “Mrs. Mann, ma’am, good
 morning.”
 
-“Well, and good morning to _you_, sir,” replied Mrs. Mann, with many
-smiles; “and hoping you find yourself well, sir!”
+“[[Well]], and good morning to _you_, sir,” replied Mrs. Mann, with many
+smiles; “and hoping you find yourself [[Well|well]], sir!”
 
 “So-so, Mrs. Mann,” replied the beadle. “A porochial life is not a bed
 of roses, Mrs. Mann.”
@@ -100,20 +100,20 @@ if they had heard it.
 with his cane, “is a life of worrit, and vexation, and hardihood; but
 all public characters, as I may say, must suffer prosecution.”
 
-Mrs. Mann, not very well knowing what the beadle meant, raised her
+Mrs. Mann, not very [[Well|well]] knowing what the beadle meant, raised her
 hands with a look of sympathy, and sighed.
 
-“Ah! You may well sigh, Mrs. Mann!” said the beadle.
+“Ah! You may [[Well|well]] sigh, Mrs. Mann!” said the beadle.
 
 Finding she had done right, Mrs. Mann sighed again: evidently to the
 satisfaction of the public character: who, repressing a complacent
 smile by looking sternly at his cocked hat, said,
 
-“Mrs. Mann, I am going to London.”
+“Mrs. Mann, I am going to [[London]].”
 
 “Lauk, Mr. Bumble!” cried Mrs. Mann, starting back.
 
-“To London, ma’am,” resumed the inflexible beadle, “by coach. I and two
+“To [[London]], ma’am,” resumed the inflexible beadle, “by coach. I and two
 paupers, Mrs. Mann! A legal action is a coming on, about a settlement;
 and the board has appointed me—me, Mrs. Mann—to dispose to the matter
 before the quarter-sessions at Clerkinwell. And I very much question,”
@@ -146,10 +146,10 @@ cold.”
 said Mr. Bumble. “They are both in a very low state, and we find it
 would come two pound cheaper to move ’em than to bury ’em—that is, if
 we can throw ’em upon another parish, which I think we shall be able to
-do, if they don’t die upon the road to spite us. Ha! ha! ha!”
+do, if they don’t die upon the [[Road|road]] to spite us. Ha! ha! ha!”
 
 When Mr. Bumble had laughed a little while, his eyes again encountered
-the cocked hat; and he became grave.
+the cocked hat; and he became [[Grave|grave]].
 
 “We are forgetting business, ma’am,” said the beadle; “here is your
 porochial stipend for the month.”
@@ -165,14 +165,14 @@ Mr. Bumble nodded, blandly, in acknowledgment of Mrs. Mann’s curtsey;
 and inquired how the children were.
 
 “Bless their dear little hearts!” said Mrs. Mann with emotion, “they’re
-as well as can be, the dears! Of course, except the two that died last
+as [[Well|well]] as can be, the dears! Of course, except the two that died last
 week. And little Dick.”
 
 “Isn’t that boy no better?” inquired Mr. Bumble.
 
 Mrs. Mann shook her head.
 
-“He’s a ill-conditioned, wicious, bad-disposed porochial child that,”
+“He’s a ill-conditioned, wicious, bad-disposed porochial [[Child|child]] that,”
 said Mr. Bumble angrily. “Where is he?”
 
 “I’ll bring him to you in one minute, sir,” replied Mrs. Mann. “Here,
@@ -182,9 +182,9 @@ After some calling, Dick was discovered. Having had his face put under
 the pump, and dried upon Mrs. Mann’s gown, he was led into the awful
 presence of Mr. Bumble, the beadle.
 
-The child was pale and thin; his cheeks were sunken; and his eyes large
+The [[Child|child]] was pale and thin; his cheeks were sunken; and his eyes large
 and bright. The scanty parish dress, the livery of his misery, hung
-loosely on his feeble body; and his young limbs had wasted away, like
+loosely on his feeble [[Body|body]]; and his young limbs had wasted away, like
 those of an old man.
 
 Such was the little being who stood trembling beneath Mr. Bumble’s
@@ -193,19 +193,19 @@ to hear the beadle’s voice.
 
 “Can’t you look at the gentleman, you obstinate boy?” said Mrs. Mann.
 
-The child meekly raised his eyes, and encountered those of Mr. Bumble.
+The [[Child|child]] meekly raised his eyes, and encountered those of Mr. Bumble.
 
 “What’s the matter with you, porochial Dick?” inquired Mr. Bumble, with
-well-timed jocularity.
+[[Well|well]]-timed jocularity.
 
-“Nothing, sir,” replied the child faintly.
+“Nothing, sir,” replied the [[Child|child]] faintly.
 
 “I should think not,” said Mrs. Mann, who had of course laughed very
-much at Mr. Bumble’s humour.
+much at Mr. Bumble’s [[Humour|humour]].
 
 “You want for nothing, I’m sure.”
 
-“I should like—” faltered the child.
+“I should like—” faltered the [[Child|child]].
 
 “Hey-day!” interposed Mrs. Mann, “I suppose you’re going to say that
 you _do_ want for something, now? Why, you little wretch—”
@@ -213,18 +213,18 @@ you _do_ want for something, now? Why, you little wretch—”
 “Stop, Mrs. Mann, stop!” said the beadle, raising his hand with a show
 of authority. “Like what, sir, eh?”
 
-“I should like,” faltered the child, “if somebody that can write, would
+“I should like,” faltered the [[Child|child]], “if somebody that can write, would
 put a few words down for me on a piece of paper, and fold it up and
 seal it, and keep it for me, after I am laid in the ground.”
 
 “Why, what does the boy mean?” exclaimed Mr. Bumble, on whom the
-earnest manner and wan aspect of the child had made some impression:
+earnest manner and wan aspect of the [[Child|child]] had made some impression:
 accustomed as he was to such things. “What do you mean, sir?”
 
-“I should like,” said the child, “to leave my dear love to poor Oliver
+“I should like,” said the [[Child|child]], “to leave my dear [[Love|love]] to poor [[Oliver]]
 Twist; and to let him know how often I have sat by myself and cried to
 think of his wandering about in the dark nights with nobody to help
-him. And I should like to tell him,” said the child pressing his small
+him. And I should like to tell him,” said the [[Child|child]] pressing his small
 hands together, and speaking with great fervour, “that I was glad to
 die when I was very young; for, perhaps, if I had lived to be a man,
 and had grown old, my little sister who is in Heaven, might forget me,
@@ -233,7 +233,7 @@ children there together.”
 
 Mr. Bumble surveyed the little speaker, from head to foot, with
 indescribable astonishment; and, turning to his companion, said,
-“They’re all in one story, Mrs. Mann. That out-dacious Oliver had
+“They’re all in one story, Mrs. Mann. That out-dacious [[Oliver]] had
 demogalized them all!”
 
 “I couldn’t have believed it, sir” said Mrs Mann, holding up her hands,
@@ -243,7 +243,7 @@ wretch!”
 “Take him away, ma’am!” said Mr. Bumble imperiously. “This must be
 stated to the board, Mrs. Mann.”
 
-“I hope the gentleman will understand that it isn’t my fault, sir?”
+“I [[Hope|hope]] the gentleman will understand that it isn’t my fault, sir?”
 said Mrs. Mann, whimpering pathetically.
 
 “They shall understand that, ma’am; they shall be acquainted with the
@@ -251,13 +251,13 @@ true state of the case,” said Mr. Bumble. “There; take him away, I
 can’t bear the sight on him.”
 
 Dick was immediately taken away, and locked up in the coal-cellar. Mr.
-Bumble shortly afterwards took himself off, to prepare for his journey.
+Bumble shortly afterwards took himself off, to prepare for his [[Journey|journey]].
 
-At six o’clock next morning, Mr. Bumble: having exchanged his cocked
+At six o’[[Clock|clock]] next morning, Mr. Bumble: having exchanged his cocked
 hat for a round one, and encased his person in a blue great-coat with a
 cape to it: took his place on the outside of the coach, accompanied by
 the criminals whose settlement was disputed; with whom, in due course
-of time, he arrived in London.
+of [[Time|time]], he arrived in [[London]].
 
 He experienced no other crosses on the way, than those which originated
 in the perverse behaviour of the two paupers, who persisted in
@@ -265,11 +265,11 @@ shivering, and complaining of the cold, in a manner which, Mr. Bumble
 declared, caused his teeth to chatter in his head, and made him feel
 quite uncomfortable; although he had a great-coat on.
 
-Having disposed of these evil-minded persons for the night, Mr. Bumble
-sat himself down in the house at which the coach stopped; and took a
+Having disposed of these evil-minded persons for the [[Night|night]], Mr. Bumble
+sat himself down in the [[house]] at which the coach stopped; and took a
 temperate dinner of steaks, oyster sauce, and porter. Putting a glass
-of hot gin-and-water on the chimney-piece, he drew his chair to the
-fire; and, with sundry moral reflections on the too-prevalent sin of
+of hot gin-and-[[Water|water]] on the chimney-piece, he drew his chair to the
+[[Fire|fire]]; and, with sundry moral reflections on the too-prevalent sin of
 discontent and complaining, composed himself to read the paper.
 
 The very first paragraph upon which Mr. Bumble’s eye rested, was the
@@ -278,29 +278,29 @@ following advertisement.
 “FIVE GUINEAS REWARD
 
 
-“Whereas a young boy, named Oliver Twist, absconded, or was enticed, on
-Thursday evening last, from his home, at Pentonville; and has not since
+“Whereas a young boy, named [[Oliver Twist]], absconded, or was enticed, on
+[[thursday|Thursday]] evening last, from his [[Home|home]], at Pentonville; and has not since
 been heard of. The above reward will be paid to any person who will
-give such information as will lead to the discovery of the said Oliver
-Twist, or tend to throw any light upon his previous history, in which
+give such information as will lead to the discovery of the said [[Oliver]]
+Twist, or tend to throw any light upon his previous [[history]], in which
 the advertiser is, for many reasons, warmly interested.”
 
-And then followed a full description of Oliver’s dress, person,
+And then followed a full description of [[Oliver]]’s dress, person,
 appearance, and disappearance: with the name and address of Mr.
 Brownlow at full length.
 
 Mr. Bumble opened his eyes; read the advertisement, slowly and
 carefully, three several times; and in something more than five minutes
 was on his way to Pentonville: having actually, in his excitement, left
-the glass of hot gin-and-water, untasted.
+the glass of hot gin-and-[[Water|water]], untasted.
 
-“Is Mr. Brownlow at home?” inquired Mr. Bumble of the girl who opened
+“Is Mr. Brownlow at [[Home|home]]?” inquired Mr. Bumble of the girl who opened
 the door.
 
 To this inquiry the girl returned the not uncommon, but rather evasive
 reply of “I don’t know; where do you come from?”
 
-Mr. Bumble no sooner uttered Oliver’s name, in explanation of his
+Mr. Bumble no sooner uttered [[Oliver]]’s name, in explanation of his
 errand, than Mrs. Bedwin, who had been listening at the parlour door,
 hastened into the passage in a breathless state.
 
@@ -309,7 +309,7 @@ Poor dear! I knew we should! I was certain of it. Bless his heart! I
 said so all along.”
 
 Having said this, the worthy old lady hurried back into the parlour
-again; and seating herself on a sofa, burst into tears. The girl, who
+again; and seating herself on a sofa, burst into [[Tears|tears]]. The girl, who
 was not quite so susceptible, had run upstairs meanwhile; and now
 returned with a request that Mr. Bumble would follow her immediately:
 which he did.
@@ -339,14 +339,14 @@ impatience,
 “Of course,” observed Mr. Grimwig aside to his friend, “I knew he was.
 A beadle all over!”
 
-Mr. Brownlow gently shook his head to impose silence on his friend, and
+Mr. Brownlow gently shook his head to impose [[Silence|silence]] on his friend, and
 resumed:
 
 “Do you know where this poor boy is now?”
 
 “No more than nobody,” replied Mr. Bumble.
 
-“Well, what _do_ you know of him?” inquired the old gentleman. “Speak
+“[[Well]], what _do_ you know of him?” inquired the old gentleman. “Speak
 out, my friend, if you have anything to say. What _do_ you know of
 him?”
 
@@ -360,7 +360,7 @@ portentous solemnity.
 
 Mr. Brownlow looked apprehensively at Mr. Bumble’s pursed-up
 countenance; and requested him to communicate what he knew regarding
-Oliver, in as few words as possible.
+[[Oliver]], in as few words as possible.
 
 Mr. Bumble put down his hat; unbuttoned his coat; folded his arms;
 inclined his head in a retrospective manner; and, after a few moments’
@@ -368,24 +368,24 @@ reflection, commenced his story.
 
 It would be tedious if given in the beadle’s words: occupying, as it
 did, some twenty minutes in the telling; but the sum and substance of
-it was, that Oliver was a foundling, born of low and vicious parents.
+it was, that [[Oliver]] was a foundling, born of low and vicious parents.
 That he had, from his birth, displayed no better qualities than
 treachery, ingratitude, and malice. That he had terminated his brief
 career in the place of his birth, by making a sanguinary and cowardly
-attack on an unoffending lad, and running away in the night-time from
-his master’s house. In proof of his really being the person he
+attack on an unoffending lad, and running away in the [[Night|night]]-[[Time|time]] from
+his master’s [[house]]. In proof of his really being the person he
 represented himself, Mr. Bumble laid upon the table the papers he had
 brought to town. Folding his arms again, he then awaited Mr. Brownlow’s
 observations.
 
-“I fear it is all too true,” said the old gentleman sorrowfully, after
+“I [[Fear|fear]] it is all too true,” said the old gentleman sorrowfully, after
 looking over the papers. “This is not much for your intelligence; but I
 would gladly have given you treble the money, if it had been favourable
 to the boy.”
 
 It is not improbable that if Mr. Bumble had been possessed of this
 information at an earlier period of the interview, he might have
-imparted a very different colouring to his little history. It was too
+imparted a very different colouring to his little [[history]]. It was too
 late to do it now, however; so he shook his head gravely, and,
 pocketing the five guineas, withdrew.
 
@@ -396,13 +396,13 @@ vex him further.
 At length he stopped, and rang the bell violently.
 
 “Mrs. Bedwin,” said Mr. Brownlow, when the housekeeper appeared; “that
-boy, Oliver, is an imposter.”
+boy, [[Oliver]], is an imposter.”
 
 “It can’t be, sir. It cannot be,” said the old lady energetically.
 
 “I tell you he is,” retorted the old gentleman. “What do you mean by
 can’t be? We have just heard a full account of him from his birth; and
-he has been a thorough-paced little villain, all his life.”
+he has been a thorough-paced little [[Villain|villain]], all his life.”
 
 “I never will believe it, sir,” replied the old lady, firmly. “Never!”
 
@@ -410,9 +410,9 @@ he has been a thorough-paced little villain, all his life.”
 story-books,” growled Mr. Grimwig. “I knew it all along. Why didn’t you
 take my advice in the beginning; you would if he hadn’t had a fever, I
 suppose, eh? He was interesting, wasn’t he? Interesting! Bah!” And Mr.
-Grimwig poked the fire with a flourish.
+Grimwig poked the [[Fire|fire]] with a flourish.
 
-“He was a dear, grateful, gentle child, sir,” retorted Mrs. Bedwin,
+“He was a dear, grateful, gentle [[Child|child]], sir,” retorted Mrs. Bedwin,
 indignantly. “I know what children are, sir; and have done these forty
 years; and people who can’t say the same, shouldn’t say anything about
 them. That’s my opinion!”
@@ -422,13 +422,13 @@ nothing from that gentleman but a smile, the old lady tossed her head,
 and smoothed down her apron preparatory to another speech, when she was
 stopped by Mr. Brownlow.
 
-“Silence!” said the old gentleman, feigning an anger he was far from
+“[[Silence]]!” said the old gentleman, feigning an anger he was far from
 feeling. “Never let me hear the boy’s name again. I rang to tell you
 that. Never. Never, on any pretence, mind! You may leave the room, Mrs.
 Bedwin. Remember! I am in earnest.”
 
-There were sad hearts at Mr. Brownlow’s that night.
+There were sad hearts at Mr. Brownlow’s that [[Night|night]].
 
-Oliver’s heart sank within him, when he thought of his good friends; it
-was well for him that he could not know what they had heard, or it
+[[Oliver]]’s heart sank within him, when he thought of his good friends; it
+was [[Well|well]] for him that he could not know what they had heard, or it
 might have broken outright.

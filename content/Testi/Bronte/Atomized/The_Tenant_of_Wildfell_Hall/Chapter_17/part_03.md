@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 17 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 17 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,7 +28,7 @@ acquirements?”
 
 
 
-“Thanks to you, aunt, I have been well brought up, and had good
+“Thanks to you, aunt, I have been [[Well|well]] brought up, and had good
 
 examples always before me, which he, most likely, has not; and,
 
@@ -38,7 +38,7 @@ temper, and I am naturally inclined to reflection.”
 
 
 
-“Well, now you have made him out to be deficient in both sense and
+“[[Well]], now you have made him out to be deficient in both sense and
 
 principle, by your own confession—”
 
@@ -48,7 +48,7 @@ principle, by your own confession—”
 
 
 
-“That sounds presumptuous, Helen. Do you think you have enough for
+“That sounds presumptuous, [[Helen]]. Do you think you have enough for
 
 both; and do you imagine your merry, thoughtless profligate would allow
 
@@ -60,7 +60,7 @@ himself to be guided by a young girl like you?”
 
 sufficient to save him from some errors, and I should think my life
 
-well spent in the effort to preserve so noble a nature from
+[[Well|well]] spent in the effort to preserve so noble a [[Nature|nature]] from
 
 destruction. He always listens attentively now when I speak seriously
 
@@ -76,11 +76,11 @@ still—”
 
 
 
-“But still you think it may be truth?”
+“But still you think it may be [[Truth|truth]]?”
 
 
 
-“If I do think there is any mixture of truth in it, it is not from
+“If I do think there is any mixture of [[Truth|truth]] in it, it is not from
 
 confidence in my own powers, but in _his_ natural goodness. And you
 
@@ -102,7 +102,7 @@ other day?”
 
 
 
-“You think, then, that he is a virtuous, well-conducted young man?”
+“You think, then, that he is a virtuous, [[Well|well]]-conducted young man?”
 
 
 
@@ -124,7 +124,7 @@ too glad to attract his attention.”
 
 
 
-“Helen, the world _may_ look upon such offences as venial; a few
+“[[Helen]], the world _may_ look upon such offences as venial; a few
 
 unprincipled mothers may be anxious to catch a young man of fortune
 
@@ -140,7 +140,7 @@ judgment. I did not think _you_ would call these venial errors!”
 
 
 
-“Nor do I, aunt; but if I hate the sins, I love the sinner, and would
+“Nor do I, aunt; but if I hate the sins, I [[Love|love]] the sinner, and would
 
 do much for his salvation, even supposing your suspicions to be mainly
 
@@ -148,7 +148,7 @@ true, which I do not and will not believe.”
 
 
 
-“Well, my dear, ask your uncle what sort of company he keeps, and if he
+“[[Well]], my dear, ask your uncle what sort of company he keeps, and if he
 
 is not banded with a set of loose, profligate young men, whom he calls
 
@@ -156,7 +156,7 @@ his friends, his jolly companions, and whose chief delight is to wallow
 
 in vice, and vie with each other who can run fastest and furthest down
 
-the headlong road to the place prepared for the devil and his angels.”
+the headlong [[Road|road]] to the place prepared for the devil and his angels.”
 
 
 
@@ -164,7 +164,7 @@ the headlong road to the place prepared for the devil and his angels.”
 
 
 
-“Oh, Helen, Helen! you little know the misery of uniting your fortunes
+“Oh, [[Helen]], [[Helen]]! you little know the misery of uniting your fortunes
 
 to such a man!”
 
@@ -176,11 +176,11 @@ I would willingly risk my happiness for the chance of securing his. I
 
 will leave better men to those who only consider their own advantage.
 
-If he has done amiss, I shall consider my life well spent in saving him
+If he has done amiss, I shall consider my life [[Well|well]] spent in saving him
 
 from the consequences of his early errors, and striving to recall him
 
-to the path of virtue. God grant me success!”
+to the path of virtue. God grant me [[success]]!”
 
 
 
@@ -188,7 +188,7 @@ Here the conversation ended, for at this juncture my uncle’s voice was
 
 heard from his chamber, loudly calling upon my aunt to come to bed. He
 
-was in a bad humour that night; for his gout was worse. It had been
+was in a bad [[Humour|humour]] that [[Night|night]]; for his gout was worse. It had been
 
 gradually increasing upon him ever since we came to town; and my aunt
 
@@ -210,4 +210,4 @@ forgotten him already, for I never mention his name; and she may
 
 continue to think so, till we meet again—if ever that should be. I
 
-wonder if it will?
+[[Wonder|wonder]] if it will?

@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 35)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 35)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -24,22 +24,22 @@ age?’ ‘It’s a wery great age, Sir, for a gentleman to be as healthy and
 active as you are,’ returns the barber; ‘but my grandfather, Sir, he
 was ninety-four.’ ‘You don’t mean that, Crofts?’ says the old
 gentleman. ‘I do indeed, Sir,’ retorts the barber, ‘and as wiggerous as
-Julius Caesar, my grandfather was.’ The old gentleman muses a little
-time, and then says, ‘What did he die of, Crofts?’ ‘He died
+[[Julius Caesar]], my grandfather was.’ The old gentleman muses a little
+[[Time|time]], and then says, ‘What did he die of, Crofts?’ ‘He died
 accidentally, Sir,’ returns the barber; ‘he didn’t mean to do it. He
 always would go a running about the streets—walking never satisfied
 _his_ spirit—and he run against a post and died of a hurt in his
 chest.’ The old gentleman says no more until the shaving is concluded,
-and then he gives Crofts half-a-crown to drink his health. He is a
+and then he gives Crofts half-a-[[Crown|crown]] to drink his health. He is a
 little doubtful of the barber’s veracity afterwards, and telling the
 anecdote to the old lady, affects to make very light of it—though to be
 sure (he adds) there was old Parr, and in some parts of England,
 ninety-five or so is a common age, quite a common age.
 
 This morning the old couple are cheerful but serious, recalling old
-times as well as they can remember them, and dwelling upon many
+times as [[Well|well]] as they can remember them, and dwelling upon many
 passages in their past lives which the day brings to mind. The old lady
-reads aloud, in a tremulous voice, out of a great Bible, and the old
+reads aloud, in a tremulous voice, out of a great [[Bible]], and the old
 gentleman with his hand to his ear, listens with profound respect. When
 the book is closed, they sit silent for a short space, and afterwards
 resume their conversation, with a reference perhaps to their dead
@@ -68,20 +68,20 @@ he presents the old gentleman with a queer sort of antique ring from
 his own finger, that he’ll be de’ed if he doesn’t think he looks
 younger than he did ten years ago.
 
-But the great time is after dinner, when the dessert and wine are on
+But the great [[Time|time]] is after dinner, when the dessert and wine are on
 the table, which is pushed back to make plenty of room, and they are
-all gathered in a large circle round the fire, for it is then—the
+all gathered in a large circle round the [[Fire|fire]], for it is then—the
 glasses being filled, and everybody ready to drink the toast—that two
 great-grandchildren rush out at a given signal, and presently return,
 dragging in old Jane Adams leaning upon her crutched stick, and
-trembling with age and pleasure. Who so popular as poor old Jane, nurse
+trembling with age and pleasure. Who so popular as poor old Jane, [[Nurse|nurse]]
 and story-teller in ordinary to two generations; and who so happy as
-she, striving to bend her stiff limbs into a curtsey, while tears of
+she, striving to bend her stiff limbs into a curtsey, while [[Tears|tears]] of
 pleasure steal down her withered cheeks!
 
-The old couple sit side by side, and the old time seems like yesterday
-indeed. Looking back upon the path they have travelled, its dust and
-ashes disappear; the flowers that withered long ago, show brightly
+The old couple sit side by side, and the old [[Time|time]] seems like yesterday
+indeed. Looking back upon the path they have travelled, its [[Dust|dust]] and
+ashes disappear; the [[Flowers|flowers]] that withered long ago, show brightly
 again upon its borders, and they grow young once more in the youth of
 those about them.
 
@@ -103,26 +103,26 @@ lady reigns paramount and supreme, holding such cases to be of a very
 unnatural kind, and like hideous births and other monstrous
 deformities, only to be discreetly and sparingly exhibited.
 
-And here our self-imposed task would have ended, but that to those
+And here our [[Self|self]]-imposed task would have ended, but that to those
 young ladies and gentlemen who are yet revolving singly round the
-church, awaiting the advent of that time when the mysterious laws of
+church, awaiting the advent of that [[Time|time]] when the mysterious laws of
 attraction shall draw them towards it in couples, we are desirous of
 addressing a few last words.
 
-Before marriage and afterwards, let them learn to centre all their
+Before [[Marriage|marriage]] and afterwards, let them learn to centre all their
 hopes of real and lasting happiness in their own fireside; let them
-cherish the faith that in home, and all the English virtues which the
-love of home engenders, lies the only true source of domestic felicity;
+cherish the [[Faith|faith]] that in [[Home|home]], and all the English virtues which the
+[[Love|love]] of [[Home|home]] engenders, lies the only true source of domestic felicity;
 let them believe that round the household gods, contentment and
 tranquillity cluster in their gentlest and most graceful forms; and
 that many weary hunters of happiness through the noisy world, have
-learnt this truth too late, and found a cheerful spirit and a quiet
-mind only at home at last.
+learnt this [[Truth|truth]] too late, and found a cheerful spirit and a quiet
+mind only at [[Home|home]] at last.
 
-How much may depend on the education of daughters and the conduct of
+How much may depend on the [[Education|education]] of daughters and the conduct of
 mothers; how much of the brightest part of our old national character
 may be perpetuated by their wisdom or frittered away by their folly—how
 much of it may have been lost already, and how much more in danger of
 vanishing every day—are questions too weighty for discussion here, but
-well deserving a little serious consideration from all young couples
+[[Well|well]] deserving a little serious consideration from all young couples
 nevertheless.

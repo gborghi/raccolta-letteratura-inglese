@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-Being advised that the sensible etiquette of the republican court
+Being advised that the sensible etiquette of the republican [[Court|court]]
 admitted of a traveller, like myself, declining, without any impropriety,
 an invitation to dinner, which did not reach me until I had concluded my
 arrangements for leaving Washington some days before that to which it
-referred, I only returned to this house once.  It was on the occasion of
+referred, I only returned to this [[house]] once.  It was on the occasion of
 one of those general assemblies which are held on certain nights, between
-the hours of nine and twelve o’clock, and are called, rather oddly,
+the hours of nine and twelve o’[[Clock|clock]], and are called, rather oddly,
 Levees.
 
 I went, with my wife, at about ten.  There was a pretty dense crowd of
-carriages and people in the court-yard, and so far as I could make out,
+carriages and people in the [[Court|court]]-yard, and so far as I could make out,
 there were no very clear regulations for the taking up or setting down of
 company.  There were certainly no policemen to soothe startled horses,
 either by sawing at their bridles or flourishing truncheons in their
@@ -50,7 +50,7 @@ chambers on the ground-floor, were crowded to excess.  The company was
 not, in our sense of the term, select, for it comprehended persons of
 very many grades and classes; nor was there any great display of costly
 attire: indeed, some of the costumes may have been, for aught I know,
-grotesque enough.  But the decorum and propriety of behaviour which
+[[Grotesque|grotesque]] enough.  But the decorum and propriety of behaviour which
 prevailed, were unbroken by any rude or disagreeable incident; and every
 man, even among the miscellaneous crowd in the hall who were admitted
 without any orders or tickets to look on, appeared to feel that he was a
@@ -63,9 +63,9 @@ to those men who, by the peaceful exercise of great abilities, shed new
 charms and associations upon the homes of their countrymen, and elevate
 their character in other lands, was most earnestly testified by their
 reception of Washington Irving, my dear friend, who had recently been
-appointed Minister at the court of Spain, and who was among them that
-night, in his new character, for the first and last time before going
-abroad.  I sincerely believe that in all the madness of American
+appointed Minister at the [[Court|court]] of Spain, and who was among them that
+[[Night|night]], in his new character, for the first and last [[Time|time]] before going
+abroad.  I sincerely believe that in all the [[Madness|madness]] of American
 politics, few public men would have been so earnestly, devotedly, and
 affectionately caressed, as this most charming writer: and I have seldom
 respected a public assembly more, than I did this eager throng, when I
@@ -85,26 +85,26 @@ we had traversed yet, in journeying among these older towns, are on that
 great continent looked upon as nothing.
 
 I had at first intended going South—to Charleston.  But when I came to
-consider the length of time which this journey would occupy, and the
+consider the length of [[Time|time]] which this [[Journey|journey]] would occupy, and the
 premature heat of the season, which even at Washington had been often
-very trying; and weighed moreover, in my own mind, the pain of living in
-the constant contemplation of slavery, against the more than doubtful
-chances of my ever seeing it, in the time I had to spare, stripped of the
+very trying; and weighed moreover, in my own mind, the [[Pain|pain]] of living in
+the constant contemplation of [[Slavery|slavery]], against the more than doubtful
+chances of my ever seeing it, in the [[Time|time]] I had to spare, stripped of the
 disguises in which it would certainly be dressed, and so adding any item
 to the host of facts already heaped together on the subject; I began to
-listen to old whisperings which had often been present to me at home in
+listen to old whisperings which had often been present to me at [[Home|home]] in
 England, when I little thought of ever being here; and to dream again of
 cities growing up, like palaces in fairy tales, among the wilds and
 forests of the west.
 
-The advice I received in most quarters when I began to yield to my desire
+The advice I received in most quarters when I began to yield to my [[Desire|desire]]
 of travelling towards that point of the compass was, according to custom,
 sufficiently cheerless: my companion being threatened with more perils,
 dangers, and discomforts, than I can remember or would catalogue if I
 could; but of which it will be sufficient to remark that blowings-up in
 steamboats and breakings-down in coaches were among the least.  But,
 having a western route sketched out for me by the best and kindest
-authority to which I could have resorted, and putting no great faith in
+authority to which I could have resorted, and putting no great [[Faith|faith]] in
 these discouragements, I soon determined on my plan of action.
 
 This was to travel south, only to Richmond in Virginia; and then to turn,

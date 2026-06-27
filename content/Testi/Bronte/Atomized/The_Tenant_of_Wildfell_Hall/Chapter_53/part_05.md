@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 53 (part 5)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 53 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-and we got along marvellously well together. When my ambitious
+and we got along marvellously [[Well|well]] together. When my ambitious
 
 intentions were made known to her, she took it more sensibly than I had
 
-ventured to hope. Her only remark on the subject, in my hearing, was—
+ventured to [[Hope|hope]]. Her only remark on the subject, in my hearing, was—
 
 
 
 “And so, Mr. Markham, you are going to rob me of my niece, I
 
-understand. Well! I hope God will prosper your union, and make my dear
+understand. [[Well]]! I [[Hope|hope]] God will prosper your [[Union|union]], and make my dear
 
 girl happy at last. Could she have been contented to remain single, I
 
@@ -46,9 +46,9 @@ that she was not mistaken in her favourable judgment.
 
 “I have, however, one request to offer,” continued she. “It seems I am
 
-still to look on Staningley as my home: I wish you to make it yours
+still to look on Staningley as my [[Home|home]]: I wish you to make it yours
 
-likewise, for Helen is attached to the place and to me—as I am to her.
+likewise, for [[Helen]] is attached to the place and to me—as I am to her.
 
 There are painful associations connected with Grassdale, which she
 
@@ -64,23 +64,23 @@ then.”
 
 Of course I most readily consented to this; and we lived in the
 
-greatest harmony with our dear aunt until the day of her death, which
+greatest harmony with our dear aunt until the day of her [[Death|death]], which
 
-melancholy event took place a few years after—melancholy, not to
+[[Melancholy|melancholy]] event took place a few years after—[[Melancholy|melancholy]], not to
 
 herself (for it came quietly upon her, and she was glad to reach her
 
-journey’s end), but only to the few loving friends and grateful
+[[Journey|journey]]’s end), but only to the few loving friends and grateful
 
 dependents she left behind.
 
 
 
-To return, however, to my own affairs: I was married in summer, on a
+To return, however, to my own affairs: I was married in [[Summer|summer]], on a
 
 glorious August morning. It took the whole eight months, and all
 
-Helen’s kindness and goodness to boot, to overcome my mother’s
+[[Helen]]’s kindness and goodness to boot, to overcome my mother’s
 
 prejudices against my bride-elect, and to reconcile her to the idea of
 
@@ -92,7 +92,7 @@ his own superior merits and endowments. I bequeathed the farm to
 
 Fergus, with better hopes of its prosperity than I should have had a
 
-year ago under similar circumstances; for he had lately fallen in love
+year ago under similar circumstances; for he had lately fallen in [[Love|love]]
 
 with the Vicar of L——’s eldest daughter—a lady whose superiority had
 
@@ -102,21 +102,21 @@ exertions, not only to gain her affection and esteem, and to obtain a
 
 fortune sufficient to aspire to her hand, but to render himself worthy
 
-of her, in his own eyes, as well as in those of her parents; and in the
+of her, in his own eyes, as [[Well|well]] as in those of her parents; and in the
 
 end he was successful, as you already know. As for myself, I need not
 
-tell you how happily my Helen and I have lived together, and how
+tell you how happily my [[Helen]] and I have lived together, and how
 
 blessed we still are in each other’s society, and in the promising
 
 young scions that are growing up about us. We are just now looking
 
-forward to the advent of you and Rose, for the time of your annual
+forward to the advent of you and [[Rose]], for the [[Time|time]] of your annual
 
 visit draws nigh, when you must leave your dusty, smoky, noisy,
 
-toiling, striving city for a season of invigorating relaxation and
+toiling, striving [[City|city]] for a season of invigorating relaxation and
 
 social retirement with us.
 
@@ -124,7 +124,7 @@ social retirement with us.
 
 Till then, farewell,
 
-GILBERT MARKHAM.
+[[Gilbert Markham|GILBERT MARKHAM]].
 
 
 
@@ -140,7 +140,7 @@ THE END
 
 Printed by SPOTTISWOODE, BALLENTYNE & CO. LTD.
 
-Colchester, London & Eton, England.
+Colchester, [[London]] & Eton, England.
 
 
 
@@ -160,6 +160,6 @@ Footnotes:
 
 
 
- [2] This Preface is now printed here for the first time in a collected
+ [2] This Preface is now printed here for the first [[Time|time]] in a collected
 
  edition of the works of the Brontë sisters.

@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 34 (part 1)"
+title: "[[Mansfield Park]] — Chapter 34 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,14 +17,14 @@ tags:
 CHAPTER XXXIV
 
 
-Edmund had great things to hear on his return. Many surprises were
+[[Edmund]] had great things to hear on his return. Many surprises were
 awaiting him. The first that occurred was not least in interest: the
-appearance of Henry Crawford and his sister walking together through
+appearance of [[Henry Crawford]] and his sister walking together through
 the village as he rode into it. He had concluded—he had meant them to
 be far distant. His absence had been extended beyond a fortnight
 purposely to avoid Miss Crawford. He was returning to Mansfield with
-spirits ready to feed on melancholy remembrances, and tender
-associations, when her own fair self was before him, leaning on her
+spirits ready to feed on [[Melancholy|melancholy]] remembrances, and tender
+associations, when her own fair [[Self|self]] was before him, leaning on her
 brother’s arm, and he found himself receiving a welcome, unquestionably
 friendly, from the woman whom, two moments before, he had been thinking
 of as seventy miles off, and as farther, much farther, from him in
@@ -34,23 +34,23 @@ Her reception of him was of a sort which he could not have hoped for,
 had he expected to see her. Coming as he did from such a purport
 fulfilled as had taken him away, he would have expected anything rather
 than a look of satisfaction, and words of simple, pleasant meaning. It
-was enough to set his heart in a glow, and to bring him home in the
+was enough to set his heart in a glow, and to bring him [[Home|home]] in the
 properest state for feeling the full value of the other joyful
 surprises at hand.
 
 William’s promotion, with all its particulars, he was soon master of;
 and with such a secret provision of comfort within his own breast to
 help the joy, he found in it a source of most gratifying sensation and
-unvarying cheerfulness all dinner-time.
+unvarying cheerfulness all dinner-[[Time|time]].
 
-After dinner, when he and his father were alone, he had Fanny’s
-history; and then all the great events of the last fortnight, and the
+After dinner, when he and his father were [[Alone|alone]], he had Fanny’s
+[[history]]; and then all the great events of the last fortnight, and the
 present situation of matters at Mansfield were known to him.
 
 Fanny suspected what was going on. They sat so much longer than usual
 in the dining-parlour, that she was sure they must be talking of her;
 and when tea at last brought them away, and she was to be seen by
-Edmund again, she felt dreadfully guilty. He came to her, sat down by
+[[Edmund]] again, she felt dreadfully guilty. He came to her, sat down by
 her, took her hand, and pressed it kindly; and at that moment she
 thought that, but for the occupation and the scene which the tea-things
 afforded, she must have betrayed her emotion in some unpardonable
@@ -74,26 +74,26 @@ believing, that it would be a match at last, and that, united by mutual
 affection, it would appear that their dispositions were as exactly
 fitted to make them blessed in each other, as he was now beginning
 seriously to consider them. Crawford had been too precipitate. He had
-not given her time to attach herself. He had begun at the wrong end.
+not given her [[Time|time]] to attach herself. He had begun at the wrong end.
 With such powers as his, however, and such a disposition as hers,
-Edmund trusted that everything would work out a happy conclusion.
+[[Edmund]] trusted that everything would work out a happy conclusion.
 Meanwhile, he saw enough of Fanny’s embarrassment to make him
-scrupulously guard against exciting it a second time, by any word, or
+scrupulously guard against exciting it a second [[Time|time]], by any word, or
 look, or movement.
 
-Crawford called the next day, and on the score of Edmund’s return, Sir
+Crawford called the next day, and on the score of [[Edmund]]’s return, Sir
 Thomas felt himself more than licensed to ask him to stay dinner; it
-was really a necessary compliment. He staid of course, and Edmund had
+was really a necessary compliment. He staid of course, and [[Edmund]] had
 then ample opportunity for observing how he sped with Fanny, and what
 degree of immediate encouragement for him might be extracted from her
 manners; and it was so little, so very, very little—every chance, every
 possibility of it, resting upon her embarrassment only; if there was
-not hope in her confusion, there was hope in nothing else—that he was
-almost ready to wonder at his friend’s perseverance. Fanny was worth it
+not [[Hope|hope]] in her confusion, there was [[Hope|hope]] in nothing else—that he was
+almost ready to [[Wonder|wonder]] at his friend’s perseverance. Fanny was worth it
 all; he held her to be worth every effort of patience, every exertion
 of mind, but he did not think he could have gone on himself with any
-woman breathing, without something more to warm his courage than his
-eyes could discern in hers. He was very willing to hope that Crawford
+woman breathing, without something more to warm his [[Courage|courage]] than his
+eyes could discern in hers. He was very willing to [[Hope|hope]] that Crawford
 saw clearer, and this was the most comfortable conclusion for his
 friend that he could come to from all that he observed to pass before,
 and at, and after dinner.
@@ -101,10 +101,10 @@ and at, and after dinner.
 In the evening a few circumstances occurred which he thought more
 promising. When he and Crawford walked into the drawing-room, his
 mother and Fanny were sitting as intently and silently at work as if
-there were nothing else to care for. Edmund could not help noticing
+there were nothing else to care for. [[Edmund]] could not help noticing
 their apparently deep tranquillity.
 
-“We have not been so silent all the time,” replied his mother. “Fanny
+“We have not been so silent all the [[Time|time]],” replied his mother. “Fanny
 has been reading to me, and only put the book down upon hearing you
 coming.” And sure enough there was a book on the table which had the
 air of being very recently closed: a volume of Shakespeare. “She often
@@ -114,25 +114,25 @@ footsteps.”
 
 Crawford took the volume. “Let me have the pleasure of finishing that
 speech to your ladyship,” said he. “I shall find it immediately.” And
-by carefully giving way to the inclination of the leaves, he did find
-it, or within a page or two, quite near enough to satisfy Lady Bertram,
-who assured him, as soon as he mentioned the name of Cardinal Wolsey,
+by carefully giving way to the inclination of the [[Leaves|leaves]], he did find
+it, or within a page or two, quite near enough to satisfy Lady [[Bertram]],
+who assured him, as soon as he mentioned the name of [[Cardinal Wolsey]],
 that he had got the very speech. Not a look or an offer of help had
 Fanny given; not a syllable for or against. All her attention was for
 her work. She seemed determined to be interested by nothing else. But
 taste was too strong in her. She could not abstract her mind five
 minutes: she was forced to listen; his reading was capital, and her
 pleasure in good reading extreme. To _good_ reading, however, she had
-been long used: her uncle read well, her cousins all, Edmund very well,
+been long used: her uncle read [[Well|well]], her cousins all, [[Edmund]] very [[Well|well]],
 but in Mr. Crawford’s reading there was a variety of excellence beyond
-what she had ever met with. The King, the Queen, Buckingham, Wolsey,
+what she had ever met with. The [[King]], the [[Queen]], [[Buckingham]], Wolsey,
 Cromwell, all were given in turn; for with the happiest knack, the
 happiest power of jumping and guessing, he could always alight at will
 on the best scene, or the best speeches of each; and whether it were
-dignity, or pride, or tenderness, or remorse, or whatever were to be
-expressed, he could do it with equal beauty. It was truly dramatic. His
+dignity, or [[Pride|pride]], or tenderness, or remorse, or whatever were to be
+expressed, he could do it with equal [[Beauty|beauty]]. It was truly dramatic. His
 acting had first taught Fanny what pleasure a play might give, and his
 reading brought all his acting before her again; nay, perhaps with
 greater enjoyment, for it came unexpectedly, and with no such drawback
 as she had been used to suffer in seeing him on the stage with Miss
-Bertram.
+[[Bertram]].

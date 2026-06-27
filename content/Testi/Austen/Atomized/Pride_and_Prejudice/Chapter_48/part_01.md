@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 48 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 48 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER XLVIII.
 The whole party were in hopes of a letter from Mr. Bennet the next
 morning, but the post came in without bringing a single line from him.
 His family knew him to be, on all common occasions, a most negligent and
-dilatory correspondent; but at such a time they had hoped for exertion.
+dilatory correspondent; but at such a [[Time|time]] they had hoped for exertion.
 They were forced to conclude, that he had no pleasing intelligence to
 send; but even of _that_ they would have been glad to be certain. Mr.
 Gardiner had waited only for the letters before he set off.
@@ -36,7 +36,7 @@ security for her husband’s not being killed in a duel.
 Mrs. Gardiner and the children were to remain in Hertfordshire a few
 days longer, as the former thought her presence might be serviceable to
 her nieces. She shared in their attendance on Mrs. Bennet, and was a
-great comfort to them in their hours of freedom. Their other aunt also
+great comfort to them in their hours of [[Freedom|freedom]]. Their other aunt also
 visited them frequently, and always, as she said, with the design of
 cheering and heartening them up--though, as she never came without
 reporting some fresh instance of Wickham’s extravagance or irregularity,
@@ -52,26 +52,26 @@ everybody began to find out that they had always distrusted the
 appearance of his goodness. Elizabeth, though she did not credit above
 half of what was said, believed enough to make her former assurance of
 her sister’s ruin still more certain; and even Jane, who believed still
-less of it, became almost hopeless, more especially as the time was now
+less of it, became almost hopeless, more especially as the [[Time|time]] was now
 come, when, if they had gone to Scotland, which she had never before
 entirely despaired of, they must in all probability have gained some
 news of them.
 
-Mr. Gardiner left Longbourn on Sunday; on Tuesday, his wife received a
+Mr. Gardiner left Longbourn on [[Sunday]]; on Tuesday, his wife received a
 letter from him: it told them, that on his arrival he had immediately
 found out his brother, and persuaded him to come to Gracechurch Street.
 That Mr. Bennet had been to Epsom and Clapham, before his arrival, but
 without gaining any satisfactory information; and that he was now
 determined to inquire at all the principal hotels in town, as Mr. Bennet
 thought it possible they might have gone to one of them, on their first
-coming to London, before they procured lodgings. Mr. Gardiner himself
-did not expect any success from this measure; but as his brother was
+coming to [[London]], before they procured lodgings. Mr. Gardiner himself
+did not expect any [[success]] from this measure; but as his brother was
 eager in it, he meant to assist him in pursuing it. He added, that Mr.
-Bennet seemed wholly disinclined at present to leave London, and
+Bennet seemed wholly disinclined at present to leave [[London]], and
 promised to write again very soon. There was also a postscript to this
 effect:--
 
-“I have written to Colonel Forster to desire him to find out, if
+“I have written to Colonel Forster to [[Desire|desire]] him to find out, if
 possible, from some of the young man’s intimates in the regiment,
 whether Wickham has any relations or connections who would be likely to
 know in what part of the town he has now concealed himself. If there
@@ -84,7 +84,7 @@ other person.”
 
 Elizabeth was at no loss to understand from whence this deference for
 her authority proceeded; but it was not in her power to give any
-information of so satisfactory a nature as the compliment deserved.
+information of so satisfactory a [[Nature|nature]] as the compliment deserved.
 
 She had never heard of his having had any relations, except a father
 and mother, both of whom had been dead many years. It was possible,
@@ -109,15 +109,15 @@ follows:--
 
      “I feel myself called upon, by our relationship, and my situation
      in life, to condole with you on the grievous affliction you are now
-     suffering under, of which we were yesterday informed by a letter
+     [[Suffering|suffering]] under, of which we were yesterday informed by a letter
      from Hertfordshire. Be assured, my dear sir, that Mrs. Collins and
      myself sincerely sympathize with you, and all your respectable
      family, in your present distress, which must be of the bitterest
-     kind, because proceeding from a cause which no time can remove. No
+     kind, because proceeding from a cause which no [[Time|time]] can remove. No
      arguments shall be wanting on my part, that can alleviate so severe
      a misfortune; or that may comfort you, under a circumstance that
      must be, of all others, most afflicting to a parent’s mind. The
-     death of your daughter would have been a blessing in comparison of
+     [[Death|death]] of your daughter would have been a blessing in comparison of
      this. And it is the more to be lamented, because there is reason to
      suppose, as my dear Charlotte informs me, that this licentiousness
      of behaviour in your

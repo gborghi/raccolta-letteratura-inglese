@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 24"
+title: "[[Jane Eyre]] — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,39 +17,39 @@ tags:
 CHAPTER XXIV
 
 
-As I rose and dressed, I thought over what had happened, and wondered
-if it were a dream. I could not be certain of the reality till I had
-seen Mr. Rochester again, and heard him renew his words of love and
+As I [[Rose|rose]] and dressed, I thought over what had happened, and wondered
+if it were [[A Dream|a dream]]. I could not be certain of the reality till I had
+seen Mr. Rochester again, and heard him renew his words of [[Love|love]] and
 promise.
 
 While arranging my hair, I looked at my face in the glass, and felt it
-was no longer plain: there was hope in its aspect and life in its
+was no longer plain: there was [[Hope|hope]] in its aspect and life in its
 colour; and my eyes seemed as if they had beheld the fount of fruition,
 and borrowed beams from the lustrous ripple. I had often been unwilling
 to look at my master, because I feared he could not be pleased at my
 look; but I was sure I might lift my face to his now, and not cool his
-affection by its expression. I took a plain but clean and light summer
+affection by its expression. I took a plain but clean and light [[Summer|summer]]
 dress from my drawer and put it on: it seemed no attire had ever so
-well become me, because none had I ever worn in so blissful a mood.
+[[Well|well]] become me, because none had I ever worn in so blissful a mood.
 
 I was not surprised, when I ran down into the hall, to see that a
-brilliant June morning had succeeded to the tempest of the night; and
+brilliant June morning had succeeded to the tempest of the [[Night|night]]; and
 to feel, through the open glass door, the breathing of a fresh and
-fragrant breeze. Nature must be gladsome when I was so happy. A
+fragrant breeze. [[Nature]] must be gladsome when I was so happy. A
 beggar-woman and her little boy—pale, ragged objects both—were coming
 up the walk, and I ran down and gave them all the money I happened to
 have in my purse—some three or four shillings: good or bad, they must
-partake of my jubilee. The rooks cawed, and blither birds sang; but
+partake of my jubilee. The rooks cawed, and blither [[Birds|birds]] sang; but
 nothing was so merry or so musical as my own rejoicing heart.
 
-Mrs. Fairfax surprised me by looking out of the window with a sad
+Mrs. Fairfax surprised me by looking out of the [[Window|window]] with a sad
 countenance, and saying gravely—“Miss Eyre, will you come to
 breakfast?” During the meal she was quiet and cool: but I could not
 undeceive her then. I must wait for my master to give explanations; and
 so must she. I ate what I could, and then I hastened upstairs. I met
 Adèle leaving the schoolroom.
 
-“Where are you going? It is time for lessons.”
+“Where are you going? It is [[Time|time]] for lessons.”
 
 “Mr. Rochester has sent me away to the nursery.”
 
@@ -61,7 +61,7 @@ there he stood.
 “Come and bid me good-morning,” said he. I gladly advanced; and it was
 not merely a cold word now, or even a shake of the hand that I
 received, but an embrace and a kiss. It seemed natural: it seemed
-genial to be so well loved, so caressed by him.
+genial to be so [[Well|well]] loved, so caressed by him.
 
 “Jane, you look blooming, and smiling, and pretty,” said he: “truly
 pretty this morning. Is this my pale, little elf? Is this my
@@ -70,7 +70,7 @@ rosy lips; the satin-smooth hazel hair, and the radiant hazel eyes?” (I
 had green eyes, reader; but you must excuse the mistake: for him they
 were new-dyed, I suppose.)
 
-“It is Jane Eyre, sir.”
+“It is [[Jane Eyre]], sir.”
 
 “Soon to be Jane Rochester,” he added: “in four weeks, Janet; not a day
 more. Do you hear that?”
@@ -78,7 +78,7 @@ more. Do you hear that?”
 I did, and I could not quite comprehend it: it made me giddy. The
 feeling, the announcement sent through me, was something stronger than
 was consistent with joy—something that smote and stunned: it was, I
-think, almost fear.
+think, almost [[Fear|fear]].
 
 “You blushed, and now you are white, Jane: what is that for?”
 
@@ -94,42 +94,42 @@ destiny to the rest of my species: to imagine such a lot befalling me
 is a fairy tale—a day-dream.”
 
 “Which I can and will realise. I shall begin to-day. This morning I
-wrote to my banker in London to send me certain jewels he has in his
-keeping,—heirlooms for the ladies of Thornfield. In a day or two I hope
+wrote to my banker in [[London]] to send me certain jewels he has in his
+keeping,—heirlooms for the ladies of Thornfield. In a day or two I [[Hope|hope]]
 to pour them into your lap: for every privilege, every attention shall
 be yours that I would accord a peer’s daughter, if about to marry her.”
 
 “Oh, sir!—never rain jewels! I don’t like to hear them spoken of.
-Jewels for Jane Eyre sounds unnatural and strange: I would rather not
+Jewels for [[Jane Eyre]] sounds unnatural and strange: I would rather not
 have them.”
 
 “I will myself put the diamond chain round your neck, and the circlet
-on your forehead,—which it will become: for nature, at least, has
+on your forehead,—which it will become: for [[Nature|nature]], at least, has
 stamped her patent of nobility on this brow, Jane; and I will clasp the
 bracelets on these fine wrists, and load these fairy-like fingers with
 rings.”
 
 “No, no, sir! think of other subjects, and speak of other things, and
-in another strain. Don’t address me as if I were a beauty; I am your
+in another strain. Don’t address me as if I were a [[Beauty|beauty]]; I am your
 plain, Quakerish governess.”
 
-“You are a beauty in my eyes, and a beauty just after the desire of my
+“You are a [[Beauty|beauty]] in my eyes, and a [[Beauty|beauty]] just after the [[Desire|desire]] of my
 heart,—delicate and aërial.”
 
 “Puny and insignificant, you mean. You are dreaming, sir,—or you are
 sneering. For God’s sake, don’t be ironical!”
 
-“I will make the world acknowledge you a beauty, too,” he went on,
+“I will make the world acknowledge you a [[Beauty|beauty]], too,” he went on,
 while I really became uneasy at the strain he had adopted, because I
 felt he was either deluding himself or trying to delude me. “I will
 attire my Jane in satin and lace, and she shall have roses in her hair;
-and I will cover the head I love best with a priceless veil.”
+and I will cover the head I [[Love|love]] best with a priceless veil.”
 
-“And then you won’t know me, sir; and I shall not be your Jane Eyre any
+“And then you won’t know me, sir; and I shall not be your [[Jane Eyre]] any
 longer, but an ape in a harlequin’s jacket—a jay in borrowed plumes. I
 would as soon see you, Mr. Rochester, tricked out in stage-trappings,
-as myself clad in a court-lady’s robe; and I don’t call you handsome,
-sir, though I love you most dearly: far too dearly to flatter you.
+as myself clad in a [[Court|court]]-lady’s robe; and I don’t call you handsome,
+sir, though I [[Love|love]] you most dearly: far too dearly to flatter you.
 Don’t flatter me.”
 
 He pursued his theme, however, without noticing my deprecation. “This
@@ -145,7 +145,7 @@ with others.”
 
 “Shall I travel?—and with you, sir?”
 
-“You shall sojourn at Paris, Rome, and Naples: at Florence, Venice, and
+“You shall sojourn at [[Paris]], Rome, and Naples: at Florence, [[Venice]], and
 Vienna: all the ground I have wandered over shall be re-trodden by you:
 wherever I stamped my hoof, your sylph’s foot shall step also. Ten
 years since, I flew through Europe half mad; with disgust, hate, and
@@ -163,16 +163,16 @@ anticipate.”
 “For a little while you will perhaps be as you are now,—a very little
 while; and then you will turn cool; and then you will be capricious;
 and then you will be stern, and I shall have much ado to please you:
-but when you get well used to me, you will perhaps like me
-again,—_like_ me, I say, not _love_ me. I suppose your love will
+but when you get [[Well|well]] used to me, you will perhaps like me
+again,—_like_ me, I say, not _love_ me. I suppose your [[Love|love]] will
 effervesce in six months, or less. I have observed in books written by
 men, that period assigned as the farthest to which a husband’s ardour
-extends. Yet, after all, as a friend and companion, I hope never to
+extends. Yet, after all, as a friend and companion, I [[Hope|hope]] never to
 become quite distasteful to my dear master.”
 
 “Distasteful! and like you again! I think I shall like you again, and
 yet again: and I will make you confess I do not only _like_, but _love_
-you—with truth, fervour, constancy.”
+you—with [[Truth|truth]], fervour, constancy.”
 
 “Yet are you not capricious, sir?”
 
@@ -180,14 +180,14 @@ you—with truth, fervour, constancy.”
 find out they have neither souls nor hearts—when they open to me a
 perspective of flatness, triviality, and perhaps imbecility,
 coarseness, and ill-temper: but to the clear eye and eloquent tongue,
-to the soul made of fire, and the character that bends but does not
+to the [[Soul|soul]] made of [[Fire|fire]], and the character that bends but does not
 break—at once supple and stable, tractable and consistent—I am ever
 tender and true.”
 
-“Had you ever experience of such a character, sir? Did you ever love
+“Had you ever experience of such a character, sir? Did you ever [[Love|love]]
 such an one?”
 
-“I love it now.”
+“I [[Love|love]] it now.”
 
 “But before me: if I, indeed, in any respect come up to your difficult
 standard?”
@@ -198,7 +198,7 @@ am twining the soft, silken skein round my finger, it sends a thrill up
 my arm to my heart. I am influenced—conquered; and the influence is
 sweeter than I can express; and the conquest I undergo has a witchery
 beyond any triumph I can win. Why do you smile, Jane? What does that
-inexplicable, that uncanny turn of countenance mean?”
+inexplicable, that [[Uncanny|uncanny]] turn of countenance mean?”
 
 “I was thinking, sir (you will excuse the idea; it was involuntary), I
 was thinking of Hercules and Samson with their charmers—”
@@ -207,34 +207,34 @@ was thinking of Hercules and Samson with their charmers—”
 
 “Hush, sir! You don’t talk very wisely just now; any more than those
 gentlemen acted very wisely. However, had they been married, they would
-no doubt by their severity as husbands have made up for their softness
-as suitors; and so will you, I fear. I wonder how you will answer me a
+no [[Doubt|doubt]] by their severity as husbands have made up for their softness
+as suitors; and so will you, I [[Fear|fear]]. I [[Wonder|wonder]] how you will answer me a
 year hence, should I ask a favour it does not suit your convenience or
 pleasure to grant.”
 
-“Ask me something now, Janet,—the least thing: I desire to be
+“Ask me something now, Janet,—the least thing: I [[Desire|desire]] to be
 entreated—”
 
 “Indeed I will, sir; I have my petition all ready.”
 
 “Speak! But if you look up and smile with that countenance, I shall
-swear concession before I know to what, and that will make a fool of
+swear concession before I know to what, and that will make a [[Fool|fool]] of
 me.”
 
 “Not at all, sir; I ask only this: don’t send for the jewels, and don’t
-crown me with roses: you might as well put a border of gold lace round
+[[Crown|crown]] me with roses: you might as [[Well|well]] put a border of gold lace round
 that plain pocket handkerchief you have there.”
 
-“I might as well ‘gild refined gold.’ I know it: your request is
-granted then—for the time. I will remand the order I despatched to my
+“I might as [[Well|well]] ‘gild refined gold.’ I know it: your request is
+granted then—for the [[Time|time]]. I will remand the order I despatched to my
 banker. But you have not yet asked for anything; you have prayed a gift
 to be withdrawn: try again.”
 
-“Well then, sir, have the goodness to gratify my curiosity, which is
+“[[Well]] then, sir, have the goodness to gratify my curiosity, which is
 much piqued on one point.”
 
 He looked disturbed. “What? what?” he said hastily. “Curiosity is a
-dangerous petition: it is well I have not taken a vow to accord every
+dangerous petition: it is [[Well|well]] I have not taken a vow to accord every
 request—”
 
 “But there can be no danger in complying with this, sir.”
@@ -242,19 +242,19 @@ request—”
 “Utter it, Jane: but I wish that instead of a mere inquiry into,
 perhaps, a secret, it was a wish for half my estate.”
 
-“Now, King Ahasuerus! What do I want with half your estate? Do you
+“Now, [[King]] Ahasuerus! What do I want with half your estate? Do you
 think I am a Jew-usurer, seeking good investment in land? I would much
 rather have all your confidence. You will not exclude me from your
 confidence if you admit me to your heart?”
 
 “You are welcome to all my confidence that is worth having, Jane; but
-for God’s sake, don’t desire a useless burden! Don’t long for
-poison—don’t turn out a downright Eve on my hands!”
+for God’s sake, don’t [[Desire|desire]] a useless burden! Don’t long for
+[[Poison|poison]]—don’t turn out a downright Eve on my hands!”
 
 “Why not, sir? You have just been telling me how much you liked to be
-conquered, and how pleasant over-persuasion is to you. Don’t you think
+conquered, and how pleasant over-[[Persuasion|persuasion]] is to you. Don’t you think
 I had better take advantage of the confession, and begin and coax and
-entreat—even cry and be sulky if necessary—for the sake of a mere essay
+entreat—even cry and be sulky if necessary—for the sake of a mere [[Essay|essay]]
 of my power?”
 
 “I dare you to any such experiment. Encroach, presume, and the game is
@@ -275,18 +275,18 @@ what I have to ask,—Why did you take such pains to make me believe you
 wished to marry Miss Ingram?”
 
 “Is that all? Thank God it is no worse!” And now he unknit his black
-brows; looked down, smiling at me, and stroked my hair, as if well
+brows; looked down, smiling at me, and stroked my hair, as if [[Well|well]]
 pleased at seeing a danger averted. “I think I may confess,” he
 continued, “even although I should make you a little indignant,
-Jane—and I have seen what a fire-spirit you can be when you are
-indignant. You glowed in the cool moonlight last night, when you
+Jane—and I have seen what a [[Fire|fire]]-spirit you can be when you are
+indignant. You glowed in the cool moonlight last [[Night|night]], when you
 mutinied against fate, and claimed your rank as my equal. Janet,
 by-the-bye, it was you who made me the offer.”
 
 “Of course I did. But to the point if you please, sir—Miss Ingram?”
 
-“Well, I feigned courtship of Miss Ingram, because I wished to render
-you as madly in love with me as I was with you; and I knew jealousy
+“[[Well]], I feigned courtship of Miss Ingram, because I wished to render
+you as madly in [[Love|love]] with me as I was with you; and I knew [[Jealousy|jealousy]]
 would be the best ally I could call in for the furtherance of that
 end.”
 
@@ -294,7 +294,7 @@ end.”
 little finger. It was a burning shame and a scandalous disgrace to act
 in that way. Did you think nothing of Miss Ingram’s feelings, sir?”
 
-“Her feelings are concentrated in one—pride; and that needs humbling.
+“Her feelings are concentrated in one—[[Pride|pride]]; and that needs humbling.
 Were you jealous, Jane?”
 
 “Never mind, Mr. Rochester: it is in no way interesting to you to know
@@ -313,12 +313,12 @@ principles on some points are eccentric.”
 awry for want of attention.”
 
 “Once again, seriously; may I enjoy the great good that has been
-vouchsafed to me, without fearing that any one else is suffering the
-bitter pain I myself felt a while ago?”
+vouchsafed to me, without fearing that any one else is [[Suffering|suffering]] the
+bitter [[Pain|pain]] I myself felt a while ago?”
 
 “That you may, my good little girl: there is not another being in the
-world has the same pure love for me as yourself—for I lay that pleasant
-unction to my soul, Jane, a belief in your affection.”
+world has the same pure [[Love|love]] for me as yourself—for I lay that pleasant
+unction to my [[Soul|soul]], Jane, a belief in your affection.”
 
 I turned my lips to the hand that lay on my shoulder. I loved him very
 much—more than I could trust myself to say—more than words had power to
@@ -328,14 +328,14 @@ express.
 entreated, and to yield.”
 
 I was again ready with my request. “Communicate your intentions to Mrs.
-Fairfax, sir: she saw me with you last night in the hall, and she was
+Fairfax, sir: she saw me with you last [[Night|night]] in the hall, and she was
 shocked. Give her some explanation before I see her again. It pains me
 to be misjudged by so good a woman.”
 
 “Go to your room, and put on your bonnet,” he replied. “I mean you to
 accompany me to Millcote this morning; and while you prepare for the
 drive, I will enlighten the old lady’s understanding. Did she think,
-Janet, you had given the world for love, and considered it well lost?”
+Janet, you had given the world for [[Love|love]], and considered it [[Well|well]] lost?”
 
 “I believe she thought I had forgotten my station, and yours, sir.”
 
@@ -344,19 +344,19 @@ those who would insult you, now or hereafter.—Go.”
 
 I was soon dressed; and when I heard Mr. Rochester quit Mrs. Fairfax’s
 parlour, I hurried down to it. The old lady had been reading her
-morning portion of Scripture—the Lesson for the day; her Bible lay open
+morning portion of Scripture—the Lesson for the day; her [[Bible]] lay open
 before her, and her spectacles were upon it. Her occupation, suspended
 by Mr. Rochester’s announcement, seemed now forgotten: her eyes, fixed
 on the blank wall opposite, expressed the surprise of a quiet mind
 stirred by unwonted tidings. Seeing me, she roused herself: she made a
 sort of effort to smile, and framed a few words of congratulation; but
 the smile expired, and the sentence was abandoned unfinished. She put
-up her spectacles, shut the Bible, and pushed her chair back from the
+up her spectacles, shut the [[Bible]], and pushed her chair back from the
 table.
 
 “I feel so astonished,” she began, “I hardly know what to say to you,
 Miss Eyre. I have surely not been dreaming, have I? Sometimes I half
-fall asleep when I am sitting alone and fancy things that have never
+fall asleep when I am sitting [[Alone|alone]] and fancy things that have never
 happened. It has seemed to me more than once when I have been in a
 doze, that my dear husband, who died fifteen years since, has come in
 and sat down beside me; and that I have even heard him call me by my
@@ -382,7 +382,7 @@ been called careful. He means to marry you?”
 She surveyed my whole person: in her eyes I read that they had there
 found no charm powerful enough to solve the enigma.
 
-“It passes me!” she continued; “but no doubt it is true since you say
+“It passes me!” she continued; “but no [[Doubt|doubt]] it is true since you say
 so. How it will answer, I cannot tell: I really don’t know. Equality of
 position and fortune is often advisable in such cases; and there are
 twenty years of difference in your ages. He might almost be your
@@ -393,38 +393,38 @@ my father! No one, who saw us together, would suppose it for an
 instant. Mr. Rochester looks as young, and is as young, as some men at
 five-and-twenty.”
 
-“Is it really for love he is going to marry you?” she asked.
+“Is it really for [[Love|love]] he is going to marry you?” she asked.
 
-I was so hurt by her coldness and scepticism, that the tears rose to my
+I was so hurt by her coldness and scepticism, that the [[Tears|tears]] [[Rose|rose]] to my
 eyes.
 
 “I am sorry to grieve you,” pursued the widow; “but you are so young,
 and so little acquainted with men, I wished to put you on your guard.
 It is an old saying that ‘all is not gold that glitters;’ and in this
-case I do fear there will be something found to be different to what
+case I do [[Fear|fear]] there will be something found to be different to what
 either you or I expect.”
 
-“Why?—am I a monster?” I said: “is it impossible that Mr. Rochester
+“Why?—am I a [[Monster|monster]]?” I said: “is it impossible that Mr. Rochester
 should have a sincere affection for me?”
 
-“No: you are very well; and much improved of late; and Mr. Rochester, I
+“No: you are very [[Well|well]]; and much improved of late; and Mr. Rochester, I
 daresay, is fond of you. I have always noticed that you were a sort of
 pet of his. There are times when, for your sake, I have been a little
 uneasy at his marked preference, and have wished to put you on your
 guard: but I did not like to suggest even the possibility of wrong. I
 knew such an idea would shock, perhaps offend you; and you were so
 discreet, and so thoroughly modest and sensible, I hoped you might be
-trusted to protect yourself. Last night I cannot tell you what I
-suffered when I sought all over the house, and could find you nowhere,
-nor the master either; and then, at twelve o’clock, saw you come in
+trusted to protect yourself. Last [[Night|night]] I cannot tell you what I
+suffered when I sought all over the [[house]], and could find you nowhere,
+nor the master either; and then, at twelve o’[[Clock|clock]], saw you come in
 with him.”
 
-“Well, never mind that now,” I interrupted impatiently; “it is enough
+“[[Well]], never mind that now,” I interrupted impatiently; “it is enough
 that all was right.”
 
-“I hope all will be right in the end,” she said: “but believe me, you
+“I [[Hope|hope]] all will be right in the end,” she said: “but believe me, you
 cannot be too careful. Try and keep Mr. Rochester at a distance:
-distrust yourself as well as him. Gentlemen in his station are not
+distrust yourself as [[Well|well]] as him. Gentlemen in his station are not
 accustomed to marry their governesses.”
 
 I was growing truly irritated: happily, Adèle ran in.
@@ -458,10 +458,10 @@ really wish the bairn to go? Will it annoy you if she is left behind?”
 
 “I would far rather she went, sir.”
 
-“Then off for your bonnet, and back like a flash of lightning!” cried
+“Then off for your bonnet, and back like a flash of [[Lightning|lightning]]!” cried
 he to Adèle.
 
-She obeyed him with what speed she might.
+She obeyed him with what [[Speed|speed]] she might.
 
 “After all, a single morning’s interruption will not matter much,” said
 he, “when I mean shortly to claim you—your thoughts, conversation, and
@@ -484,18 +484,18 @@ Adèle heard him, and asked if she was to go to school “sans
 mademoiselle?”
 
 “Yes,” he replied, “absolutely sans mademoiselle; for I am to take
-mademoiselle to the moon, and there I shall seek a cave in one of the
+mademoiselle to the [[Moon|moon]], and there I shall seek a [[Cave|cave]] in one of the
 white valleys among the volcano-tops, and mademoiselle shall live with
 me there, and only me.”
 
 “She will have nothing to eat: you will starve her,” observed Adèle.
 
-“I shall gather manna for her morning and night: the plains and
-hillsides in the moon are bleached with manna, Adèle.”
+“I shall gather manna for her morning and [[Night|night]]: the plains and
+hillsides in the [[Moon|moon]] are bleached with manna, Adèle.”
 
-“She will want to warm herself: what will she do for a fire?”
+“She will want to warm herself: what will she do for a [[Fire|fire]]?”
 
-“Fire rises out of the lunar mountains: when she is cold, I’ll carry
+“[[Fire]] rises out of the lunar [[Mountains|mountains]]: when she is cold, I’ll carry
 her up to a peak, and lay her down on the edge of a crater.”
 
 “Oh, qu’elle y sera mal—peu comfortable! And her clothes, they will
@@ -506,18 +506,18 @@ do, Adèle? Cudgel your brains for an expedient. How would a white or a
 pink cloud answer for a gown, do you think? And one could cut a pretty
 enough scarf out of a rainbow.”
 
-“She is far better as she is,” concluded Adèle, after musing some time:
-“besides, she would get tired of living with only you in the moon. If I
+“She is far better as she is,” concluded Adèle, after musing some [[Time|time]]:
+“besides, she would get tired of living with only you in the [[Moon|moon]]. If I
 were mademoiselle, I would never consent to go with you.”
 
 “She has consented: she has pledged her word.”
 
-“But you can’t get her there; there is no road to the moon: it is all
+“But you can’t get her there; there is no [[Road|road]] to the [[Moon|moon]]: it is all
 air; and neither you nor she can fly.”
 
 “Adèle, look at that field.” We were now outside Thornfield gates, and
-bowling lightly along the smooth road to Millcote, where the dust was
-well laid by the thunderstorm, and, where the low hedges and lofty
+bowling lightly along the smooth [[Road|road]] to Millcote, where the [[Dust|dust]] was
+[[Well|well]] laid by the thunderstorm, and, where the low hedges and lofty
 timber trees on each side glistened green and rain-refreshed.
 
 “In that field, Adèle, I was walking late one evening about a fortnight
@@ -535,8 +535,8 @@ this effect—
 
 “It was a fairy, and come from Elf-land, it said; and its errand was to
 make me happy: I must go with it out of the common world to a lonely
-place—such as the moon, for instance—and it nodded its head towards her
-horn, rising over Hay-hill: it told me of the alabaster cave and silver
+place—such as the [[Moon|moon]], for instance—and it nodded its head towards her
+horn, rising over Hay-[[Hill|hill]]: it told me of the alabaster [[Cave|cave]] and silver
 vale where we might live. I said I should like to go; but reminded it,
 as you did me, that I had no wings to fly.
 
@@ -544,12 +544,12 @@ as you did me, that I had no wings to fly.
 will remove all difficulties;’ and she held out a pretty gold ring.
 ‘Put it,’ she said, ‘on the fourth finger of my left hand, and I am
 yours, and you are mine; and we shall leave earth, and make our own
-heaven yonder.’ She nodded again at the moon. The ring, Adèle, is in my
+heaven yonder.’ She nodded again at the [[Moon|moon]]. The ring, Adèle, is in my
 breeches-pocket, under the disguise of a sovereign: but I mean soon to
 change it to a ring again.”
 
 “But what has mademoiselle to do with it? I don’t care for the fairy:
-you said it was mademoiselle you would take to the moon?”
+you said it was mademoiselle you would take to the [[Moon|moon]]?”
 
 “Mademoiselle is a fairy,” he said, whispering mysteriously. Whereupon
 I told her not to mind his badinage; and she, on her part, evinced a
@@ -557,7 +557,7 @@ fund of genuine French scepticism: denominating Mr. Rochester “un vrai
 menteur,” and assuring him that she made no account whatever of his
 “contes de fée,” and that “du reste, il n’y avait pas de fées, et quand
 même il y en avait:” she was sure they would never appear to him, nor
-ever give him rings, or offer to live with him in the moon.
+ever give him rings, or offer to live with him in the [[Moon|moon]].
 
 The hour spent at Millcote was a somewhat harassing one to me. Mr.
 Rochester obliged me to go to a certain silk warehouse: there I was
@@ -567,7 +567,7 @@ entreaties expressed in energetic whispers, I reduced the half-dozen to
 two: these however, he vowed he would select himself. With anxiety I
 watched his eye rove over the gay stores: he fixed on a rich silk of
 the most brilliant amethyst dye, and a superb pink satin. I told him in
-a new series of whispers, that he might as well buy me a gold gown and
+a new series of whispers, that he might as [[Well|well]] buy me a gold gown and
 a silver bonnet at once: I should certainly never venture to wear his
 choice. With infinite difficulty, for he was stubborn as a stone, I
 persuaded him to make an exchange in favour of a sober black satin and
@@ -583,12 +583,12 @@ John Eyre, to Mrs. Reed: his intention to adopt me and make me his
 legatee. “It would, indeed, be a relief,” I thought, “if I had ever so
 small an independency; I never can bear being dressed like a doll by
 Mr. Rochester, or sitting like a second Danae with the golden shower
-falling daily round me. I will write to Madeira the moment I get home,
+falling daily round me. I will write to Madeira the moment I get [[Home|home]],
 and tell my uncle John I am going to be married, and to whom: if I had
 but a prospect of one day bringing Mr. Rochester an accession of
 fortune, I could better endure to be kept by him now.” And somewhat
 relieved by this idea (which I failed not to execute that day), I
-ventured once more to meet my master’s and lover’s eye, which most
+ventured once more to meet my master’s and [[Lover|lover]]’s eye, which most
 pertinaciously sought mine, though I averted both face and gaze. He
 smiled; and I thought his smile was such as a sultan might, in a
 blissful and fond moment, bestow on a slave his gold and gems had
@@ -623,15 +623,15 @@ as you are, sir, shall in a trice find yourself fettered amongst our
 hands: nor will I, for one, consent to cut your bonds till you have
 signed a charter, the most liberal that despot ever yet conferred.”
 
-“I would consent to be at your mercy, Jane.”
+“I would consent to be at your [[Mercy|mercy]], Jane.”
 
-“I would have no mercy, Mr. Rochester, if you supplicated for it with
+“I would have no [[Mercy|mercy]], Mr. Rochester, if you supplicated for it with
 an eye like that. While you looked so, I should be certain that
 whatever charter you might grant under coercion, your first act, when
 released, would be to violate its conditions.”
 
-“Why, Jane, what would you have? I fear you will compel me to go
-through a private marriage ceremony, besides that performed at the
+“Why, Jane, what would you have? I [[Fear|fear]] you will compel me to go
+through a private [[Marriage|marriage]] ceremony, besides that performed at the
 altar. You will stipulate, I see, for peculiar terms—what will they
 be?”
 
@@ -642,12 +642,12 @@ shall continue to act as Adèle’s governess; by that I shall earn my
 board and lodging, and thirty pounds a year besides. I’ll furnish my
 own wardrobe out of that money, and you shall give me nothing but—”
 
-“Well, but what?”
+“[[Well]], but what?”
 
 “Your regard; and if I give you mine in return, that debt will be
 quit.”
 
-“Well, for cool native impudence and pure innate pride, you haven’t
+“[[Well]], for cool native impudence and pure innate [[Pride|pride]], you haven’t
 your equal,” said he. We were now approaching Thornfield. “Will it
 please you to dine with me to-day?” he asked, as we re-entered the
 gates.
@@ -669,63 +669,63 @@ companion of my repast?”
 “I have formed no supposition on the subject, sir; but I want to go on
 as usual for another month.”
 
-“You will give up your governessing slavery at once.”
+“You will give up your governessing [[Slavery|slavery]] at once.”
 
 “Indeed, begging your pardon, sir, I shall not. I shall just go on with
 it as usual. I shall keep out of your way all day, as I have been
 accustomed to do: you may send for me in the evening, when you feel
-disposed to see me, and I’ll come then; but at no other time.”
+disposed to see me, and I’ll come then; but at no other [[Time|time]].”
 
 “I want a smoke, Jane, or a pinch of snuff, to comfort me under all
 this, ‘pour me donner une contenance,’ as Adèle would say; and
 unfortunately I have neither my cigar-case, nor my snuff-box. But
-listen—whisper. It is your time now, little tyrant, but it will be mine
+listen—whisper. It is your [[Time|time]] now, little [[Tyrant|tyrant]], but it will be mine
 presently; and when once I have fairly seized you, to have and to hold,
 I’ll just—figuratively speaking—attach you to a chain like this”
 (touching his watch-guard). “Yes, bonny wee thing, I’ll wear you in my
-bosom, lest my jewel I should tyne.”
+bosom, lest my [[Jewel|jewel]] I should tyne.”
 
 He said this as he helped me to alight from the carriage, and while he
-afterwards lifted out Adèle, I entered the house, and made good my
+afterwards lifted out Adèle, I entered the [[house]], and made good my
 retreat upstairs.
 
 He duly summoned me to his presence in the evening. I had prepared an
-occupation for him; for I was determined not to spend the whole time in
+occupation for him; for I was determined not to spend the whole [[Time|time]] in
 a _tête-à-tête_ conversation. I remembered his fine voice; I knew he
 liked to sing—good singers generally do. I was no vocalist myself, and,
 in his fastidious judgment, no musician, either; but I delighted in
 listening when the performance was good. No sooner had twilight, that
-hour of romance, began to lower her blue and starry banner over the
-lattice, than I rose, opened the piano, and entreated him, for the love
-of heaven, to give me a song. He said I was a capricious witch, and
-that he would rather sing another time; but I averred that no time was
+hour of [[Romance|romance]], began to lower her blue and starry banner over the
+lattice, than I [[Rose|rose]], opened the piano, and entreated him, for the [[Love|love]]
+of heaven, to give me a [[Song|song]]. He said I was a capricious [[Witch|witch]], and
+that he would rather sing another [[Time|time]]; but I averred that no [[Time|time]] was
 like the present.
 
 “Did I like his voice?” he asked.
 
-“Very much.” I was not fond of pampering that susceptible vanity of
+“Very much.” I was not fond of pampering that susceptible [[Vanity|vanity]] of
 his; but for once, and from motives of expediency, I would e’en soothe
 and stimulate it.
 
 “Then, Jane, you must play the accompaniment.”
 
-“Very well, sir, I will try.”
+“Very [[Well|well]], sir, I will try.”
 
 I did try, but was presently swept off the stool and denominated “a
 little bungler.” Being pushed unceremoniously to one side—which was
 precisely what I wished—he usurped my place, and proceeded to accompany
-himself: for he could play as well as sing. I hied me to the
-window-recess. And while I sat there and looked out on the still trees
+himself: for he could play as [[Well|well]] as sing. I hied me to the
+[[Window|window]]-recess. And while I sat there and looked out on the still trees
 and dim lawn, to a sweet air was sung in mellow tones the following
 strain:—
 
-“The truest love that ever heart
+“The truest [[Love|love]] that ever heart
 Felt at its kindled core,
 Did through each vein, in quickened start,
 The tide of being pour.
 
-Her coming was my hope each day,
-Her parting was my pain;
+Her coming was my [[Hope|hope]] each day,
+Her parting was my [[Pain|pain]];
 The chance that did her steps delay
 Was ice in every vein.
 
@@ -750,11 +750,11 @@ Whatever menaced, harassed, warned,
 I passed impetuous by.
 
 On sped my rainbow, fast as light;
-I flew as in a dream;
-For glorious rose upon my sight
-That child of Shower and Gleam.
+I flew as in [[A Dream|a dream]];
+For glorious [[Rose|rose]] upon my sight
+That [[Child|child]] of Shower and Gleam.
 
-Still bright on clouds of suffering dim
+Still bright on clouds of [[Suffering|suffering]] dim
 Shines that soft, solemn joy;
 Nor care I now, how dense and grim
 Disasters gather nigh.
@@ -769,18 +769,18 @@ Right, bar approach to me,
 And grinding Might, with furious frown,
 Swear endless enmity.
 
-My love has placed her little hand
-With noble faith in mine,
+My [[Love|love]] has placed her little hand
+With noble [[Faith|faith]] in mine,
 And vowed that wedlock’s sacred band
-Our nature shall entwine.
+Our [[Nature|nature]] shall entwine.
 
-My love has sworn, with sealing kiss,
+My [[Love|love]] has sworn, with sealing kiss,
 With me to live—to die;
 I have at last my nameless bliss.
-As I love—loved am I!”
+As I [[Love|love]]—loved am I!”
 
 
-He rose and came towards me, and I saw his face all kindled, and his
+He [[Rose|rose]] and came towards me, and I saw his face all kindled, and his
 full falcon-eye flashing, and tenderness and passion in every
 lineament. I quailed momentarily—then I rallied. Soft scene, daring
 demonstration, I would not have; and I stood in peril of both: a weapon
@@ -795,10 +795,10 @@ pagan idea? _I_ had no intention of dying with him—he might depend on
 that.”
 
 “Oh, all he longed, all he prayed for, was that I might live with him!
-Death was not for such as I.”
+[[Death]] was not for such as I.”
 
-“Indeed it was: I had as good a right to die when my time came as he
-had: but I should bide that time, and not be hurried away in a suttee.”
+“Indeed it was: I had as good a right to die when my [[Time|time]] came as he
+had: but I should bide that [[Time|time]], and not be hurried away in a suttee.”
 
 “Would I forgive him for the selfish idea, and prove my pardon by a
 reconciling kiss?”
@@ -813,7 +813,7 @@ I assured him I was naturally hard—very flinty, and that he would often
 find me so; and that, moreover, I was determined to show him divers
 rugged points in my character before the ensuing four weeks elapsed: he
 should know fully what sort of a bargain he had made, while there was
-yet time to rescind it.
+yet [[Time|time]] to rescind it.
 
 “Would I be quiet and talk rationally?”
 
@@ -830,37 +830,37 @@ mutual advantage.”
 
 From less to more, I worked him up to considerable irritation; then,
 after he had retired, in dudgeon, quite to the other end of the room, I
-got up, and saying, “I wish you good-night, sir,” in my natural and
+got up, and saying, “I wish you good-[[Night|night]], sir,” in my natural and
 wonted respectful manner, I slipped out by the side-door and got away.
 
 The system thus entered on, I pursued during the whole season of
-probation; and with the best success. He was kept, to be sure, rather
-cross and crusty; but on the whole I could see he was excellently
-entertained, and that a lamb-like submission and turtle-dove
+probation; and with the best [[success]]. He was kept, to be sure, rather
+[[Cross|cross]] and crusty; but on the whole I could see he was excellently
+entertained, and that a [[Lamb|lamb]]-like submission and turtle-dove
 sensibility, while fostering his despotism more, would have pleased his
 judgment, satisfied his common-sense, and even suited his taste less.
 
 In other people’s presence I was, as formerly, deferential and quiet;
 any other line of conduct being uncalled for: it was only in the
 evening conferences I thus thwarted and afflicted him. He continued to
-send for me punctually the moment the clock struck seven; though when I
-appeared before him now, he had no such honeyed terms as “love” and
+send for me punctually the moment the [[Clock|clock]] struck seven; though when I
+appeared before him now, he had no such honeyed terms as “[[Love|love]]” and
 “darling” on his lips: the best words at my service were “provoking
 puppet,” “malicious elf,” “sprite,” “changeling,” &c. For caresses,
 too, I now got grimaces; for a pressure of the hand, a pinch on the
 arm; for a kiss on the cheek, a severe tweak of the ear. It was all
 right: at present I decidedly preferred these fierce favours to
 anything more tender. Mrs. Fairfax, I saw, approved me: her anxiety on
-my account vanished; therefore I was certain I did well. Meantime, Mr.
+my account vanished; therefore I was certain I did [[Well|well]]. Meantime, Mr.
 Rochester affirmed I was wearing him to skin and bone, and threatened
 awful vengeance for my present conduct at some period fast coming. I
 laughed in my sleeve at his menaces. “I can keep you in reasonable
-check now,” I reflected; “and I don’t doubt to be able to do it
+check now,” I reflected; “and I don’t [[Doubt|doubt]] to be able to do it
 hereafter: if one expedient loses its virtue, another must be devised.”
 
 Yet after all my task was not an easy one; often I would rather have
 pleased than teased him. My future husband was becoming to me my whole
-world; and more than the world: almost my hope of heaven. He stood
+world; and more than the world: almost my [[Hope|hope]] of heaven. He stood
 between me and every thought of religion, as an eclipse intervenes
 between man and the broad sun. I could not, in those days, see God for
 His creature: of whom I had made an idol.

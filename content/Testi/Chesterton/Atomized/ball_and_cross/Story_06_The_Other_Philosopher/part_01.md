@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Other Philosopher (part 1)"
+title: "ball and [[Cross|cross]] — The Other Philosopher (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -22,8 +22,8 @@ or feverish manner, but in the steady swing of the pendulum.
 Across the great plains and uplands to the right and left of
 the lane, a long tide of sunset light rolled like a sea of ruby,
 lighting up the long terraces of the hills and picking out the few
-windows of the scattered hamlets in startling blood-red sparks.
-But the lane was cut deep in the hill and remained in an abrupt shadow.
+windows of the scattered hamlets in startling [[Blood|blood]]-red sparks.
+But the lane was cut deep in the [[Hill|hill]] and remained in an abrupt [[Shadow|shadow]].
 The two men running in it had an impression not uncommonly experienced
 between those wild green English walls; a sense of being led between
 the walls of a maze.
@@ -37,22 +37,22 @@ They had the look of two lunatics, possibly they were.
 "Are you all right?" said Turnbull, with civility.  "Can you
 keep this up?"
 
-"Quite easily, thank you," replied MacIan.  "I run very well."
+"Quite easily, thank you," replied MacIan.  "I run very [[Well|well]]."
 
 "Is that a qualification in a family of warriors?" asked Turnbull.
 
 "Undoubtedly. Rapid movement is essential," answered MacIan,
 who never saw a joke in his life.
 
-Turnbull broke out into a short laugh, and silence fell between them,
-the panting silence of runners.
+Turnbull broke out into a short laugh, and [[Silence|silence]] fell between them,
+the panting [[Silence|silence]] of runners.
 
 Then MacIan said:  "We run better than any of those policemen.
 They are too fat.  Why do you make your policemen so fat?"
 
 "I didn't do much towards making them fat myself," replied Turnbull,
 genially, "but I flatter myself that I am now doing something towards
-making them thin.  You'll see they will be as lean as rakes by the time
+making them thin.  You'll see they will be as lean as rakes by the [[Time|time]]
 they catch us.  They will look like your friend, Cardinal Manning."
 
 "But they won't catch us," said MacIan, in his literal way.
@@ -62,7 +62,7 @@ returned the other.  "They won't catch us unless----"
 
 MacIan turned his long equine face inquiringly.  "Unless what?"
 he said, for Turnbull had gone silent suddenly, and seemed to be
-listening intently as he ran as a horse does with his ears turned back.
+listening intently as he ran as a [[Horse|horse]] does with his ears turned back.
 
 "Unless what?" repeated the Highlander.
 
@@ -90,26 +90,26 @@ the black hedge stood out over them as an angle, almost like a thatched
 roof of the lane.  And the burning evening sky looked down at them
 through the tangle with red eyes as of an army of goblins.
 
-Turnbull hoisted himself up and broke the hedge with his body.
-As his head and shoulders rose above it they turned to flame
+Turnbull hoisted himself up and broke the hedge with his [[Body|body]].
+As his head and shoulders [[Rose|rose]] above it they turned to flame
 in the full glow as if lit up by an immense firelight.
 His red hair and beard looked almost scarlet, and his pale face
 as bright as a boy's. Something violent, something that was at once
-love and hatred, surged in the strange heart of the Gael below him.
-He had an unutterable sense of epic importance, as if he were somehow
+[[Love|love]] and hatred, surged in the strange heart of the Gael below him.
+He had an unutterable sense of [[Epic|epic]] importance, as if he were somehow
 lifting all humanity into a prouder and more passionate region
 of the air.  As he swung himself up also into the evening light
 he felt as if he were rising on enormous wings.
 
-Legends of the morning of the world which he had heard in childhood
+Legends of the morning of the world which he had heard in [[Childhood|childhood]]
 or read in youth came back upon him in a cloudy splendour,
-purple tales of wrath and friendship, like Roland and Oliver,
+purple tales of wrath and [[Friendship|friendship]], like Roland and [[Oliver]],
 or Balin and Balan, reminding him of emotional entanglements.
 Men who had loved each other and then fought each other;
 men who had fought each other and then loved each other,
 together made a mixed but monstrous sense of momentousness.
 The crimson seas of the sunset seemed to him like a bursting out
-of some sacred blood, as if the heart of the world had broken.
+of some sacred [[Blood|blood]], as if the heart of the world had broken.
 
 Turnbull was wholly unaffected by any written or spoken poetry;
 his was a powerful and prosaic mind.  But even upon him there came
@@ -117,25 +117,25 @@ for the moment something out of the earth and the passionate ends
 of the sky.  The only evidence was in his voice, which was still
 practical but a shade more quiet.
 
-"Do you see that summer-house-looking thing over there?"
-he asked shortly.  "That will do for us very well."
+"Do you see that [[Summer|summer]]-[[house]]-looking thing over there?"
+he asked shortly.  "That will do for us very [[Well|well]]."
 
 Keeping himself free from the tangle of the hedge he strolled across
-a triangle of obscure kitchen garden, and approached a dismal shed
+a triangle of obscure kitchen [[Garden|garden]], and approached a dismal shed
 or lodge a yard or two beyond it.  It was a weather-stained hut
 of grey wood, which with all its desolation retained a tag or two
 of trivial ornament, which suggested that the thing had once been
-a sort of summer-house, and the place probably a sort of garden.
+a sort of [[Summer|summer]]-[[house]], and the place probably a sort of [[Garden|garden]].
 
-"That is quite invisible from the road," said Turnbull, as he entered it,
-"and it will cover us up for the night."
+"That is quite invisible from the [[Road|road]]," said Turnbull, as he entered it,
+"and it will cover us up for the [[Night|night]]."
 
 MacIan looked at him gravely for a few moments.  "Sir," he said,
 "I ought to say something to you.  I ought to say----"
 
 "Hush," said Turnbull, suddenly lifting his hand; "be still, man."
 
-In the sudden silence, the drumming of the distant horses grew
+In the sudden [[Silence|silence]], the drumming of the distant horses grew
 louder and louder with inconceivable rapidity, and the cavalcade
 of police rushed by below them in the lane, almost with the roar
 and rattle of an express train.

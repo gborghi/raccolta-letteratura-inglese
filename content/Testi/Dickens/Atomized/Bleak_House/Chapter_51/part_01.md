@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 51 (part 1)"
+title: "Bleak [[house|House]] — Chapter 51 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,14 +19,14 @@ CHAPTER LI
 Enlightened
 
 
-When Mr. Woodcourt arrived in London, he went, that very same day, to
+When Mr. Woodcourt arrived in [[London]], he went, that very same day, to
 Mr. Vholes’s in Symond’s Inn. For he never once, from the moment when
-I entreated him to be a friend to Richard, neglected or forgot his
+I entreated him to be a friend to [[Richard]], neglected or forgot his
 promise. He had told me that he accepted the charge as a sacred
 trust, and he was ever true to it in that spirit.
 
 He found Mr. Vholes in his office and informed Mr. Vholes of his
-agreement with Richard that he should call there to learn his
+agreement with [[Richard]] that he should call there to learn his
 address.
 
 “Just so, sir,” said Mr. Vholes. “Mr. C.’s address is not a hundred
@@ -43,7 +43,7 @@ influence with Mr. C. Indeed I am aware that you have.”
 “I was not aware of it myself,” returned Mr. Woodcourt; “but I
 suppose you know best.”
 
-“Sir,” rejoined Mr. Vholes, self-contained as usual, voice and all,
+“Sir,” rejoined Mr. Vholes, [[Self|self]]-contained as usual, voice and all,
 “it is a part of my professional duty to know best. It is a part of
 my professional duty to study and to understand a gentleman who
 confides his interests to me. In my professional duty I shall not be
@@ -73,11 +73,11 @@ nothing and have no interest in anything you say.”
 “Pardon me, sir!” retorted Mr. Vholes. “You do yourself an injustice.
 No, sir! Pardon me! You shall not—shall not in my office, if I know
 it—do yourself an injustice. You are interested in anything, and in
-everything, that relates to your friend. I know human nature much
+everything, that relates to your friend. I know human [[Nature|nature]] much
 better, sir, than to admit for an instant that a gentleman of your
 appearance is not interested in whatever concerns his friend.”
 
-“Well,” replied Mr. Woodcourt, “that may be. I am particularly
+“[[Well]],” replied Mr. Woodcourt, “that may be. I am particularly
 interested in his address.”
 
 “The number, sir,” said Mr. Vholes parenthetically, “I believe I have
@@ -101,7 +101,7 @@ Mr. Woodcourt rather sternly rejoined that he was glad to hear it.
 “I wish, sir,” said Mr. Vholes, “to leave a good name behind me.
 Therefore I take every opportunity of openly stating to a friend of
 Mr. C. how Mr. C. is situated. As to myself, sir, the labourer is
-worthy of his hire. If I undertake to put my shoulder to the wheel, I
+worthy of his hire. If I undertake to put my shoulder to the [[Wheel|wheel]], I
 do it, and I earn what I get. I am here for that purpose. My name is
 painted on the door outside, with that object.”
 
@@ -110,11 +110,11 @@ painted on the door outside, with that object.”
 “Sir,” returned Mr. Vholes, “as I believe I have already mentioned,
 it is next door. On the second story you will find Mr. C.’s
 apartments. Mr. C. desires to be near his professional adviser, and I
-am far from objecting, for I court inquiry.”
+am far from objecting, for I [[Court|court]] inquiry.”
 
 Upon this Mr. Woodcourt wished Mr. Vholes good day and went in search
-of Richard, the change in whose appearance he began to understand now
-but too well.
+of [[Richard]], the change in whose appearance he began to understand now
+but too [[Well|well]].
 
 He found him in a dull room, fadedly furnished, much as I had found
 him in his barrack-room but a little while before, except that he was
@@ -125,14 +125,14 @@ being perceived, and he told me that he never could forget the
 haggardness of his face and the dejection of his manner before he was
 aroused from his dream.
 
-“Woodcourt, my dear fellow,” cried Richard, starting up with extended
-hands, “you come upon my vision like a ghost.”
+“Woodcourt, my dear fellow,” cried [[Richard]], starting up with extended
+hands, “you come upon my vision like a [[Ghost|ghost]].”
 
-“A friendly one,” he replied, “and only waiting, as they say ghosts
+“A friendly one,” he replied, “and only waiting, as they say [[Ghosts|ghosts]]
 do, to be addressed. How does the mortal world go?” They were seated
 now, near together.
 
-“Badly enough, and slowly enough,” said Richard, “speaking at least
+“Badly enough, and slowly enough,” said [[Richard]], “speaking at least
 for my part of it.”
 
 “What part is that?”
@@ -140,12 +140,12 @@ for my part of it.”
 “The Chancery part.”
 
 “I never heard,” returned Mr. Woodcourt, shaking his head, “of its
-going well yet.”
+going [[Well|well]] yet.”
 
-“Nor I,” said Richard moodily. “Who ever did?” He brightened again in
+“Nor I,” said [[Richard]] moodily. “Who ever did?” He brightened again in
 a moment and said with his natural openness, “Woodcourt, I should be
 sorry to be misunderstood by you, even if I gained by it in your
-estimation. You must know that I have done no good this long time. I
+estimation. You must know that I have done no good this long [[Time|time]]. I
 have not intended to do much harm, but I seem to have been capable of
 nothing else. It may be that I should have done better by keeping out
 of the net into which my destiny has worked me, but I think not,

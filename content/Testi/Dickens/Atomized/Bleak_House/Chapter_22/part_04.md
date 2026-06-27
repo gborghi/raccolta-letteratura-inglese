@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 22 (part 4)"
+title: "Bleak [[house|House]] — Chapter 22 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-“Well, well,” says Mr. Bucket, “you train him respectable, and he’ll
+“[[Well]], [[Well|well]],” says Mr. Bucket, “you train him respectable, and he’ll
 be a comfort to you, and look after you in your old age, you know.”
 
 “I mean to try hard,” she answers, wiping her eyes. “But I have been
-a-thinking, being over-tired to-night and not well with the ague, of
+a-thinking, being over-tired to-[[Night|night]] and not [[Well|well]] with the ague, of
 all the many things that’ll come in his way. My master will be
-against it, and he’ll be beat, and see me beat, and made to fear his
-home, and perhaps to stray wild. If I work for him ever so much, and
+against it, and he’ll be beat, and see me beat, and made to [[Fear|fear]] his
+[[Home|home]], and perhaps to stray wild. If I work for him ever so much, and
 ever so hard, there’s no one to help me; and if he should be turned
-bad ‘spite of all I could do, and the time should come when I should
-sit by him in his sleep, made hard and changed, an’t it likely I
+bad ‘spite of all I could do, and the [[Time|time]] should come when I should
+sit by him in his [[Sleep|sleep]], made hard and changed, an’t it likely I
 should think of him as he lies in my lap now and wish he had died as
-Jenny’s child died!”
+Jenny’s [[Child|child]] died!”
 
 “There, there!” says Jenny. “Liz, you’re tired and ill. Let me take
 him.”
@@ -34,9 +34,9 @@ him.”
 In doing so, she displaces the mother’s dress, but quickly readjusts
 it over the wounded and bruised bosom where the baby has been lying.
 
-“It’s my dead child,” says Jenny, walking up and down as she nurses,
-“that makes me love this child so dear, and it’s my dead child that
-makes her love it so dear too, as even to think of its being taken
+“It’s my dead [[Child|child]],” says Jenny, walking up and down as she nurses,
+“that makes me [[Love|love]] this [[Child|child]] so dear, and it’s my dead [[Child|child]] that
+makes her [[Love|love]] it so dear too, as even to think of its being taken
 away from her now. While she thinks that, I think what fortune would
 I give to have my darling back. But we mean the same thing, if we
 knew how to say it, us two mothers does in our poor hearts!”
@@ -49,7 +49,7 @@ do?”
 “That’s Jo,” says Mr. Snagsby.
 
 Jo stands amazed in the disk of light, like a ragged figure in a
-magic-lantern, trembling to think that he has offended against the
+[[Magic|magic]]-lantern, trembling to think that he has offended against the
 law in not having moved on far enough. Mr. Snagsby, however, giving
 him the consolatory assurance, “It’s only a job you will be paid for,
 Jo,” he recovers; and on being taken outside by Mr. Bucket for a
@@ -59,16 +59,16 @@ out of breath.
 “I have squared it with the lad,” says Mr. Bucket, returning, “and
 it’s all right. Now, Mr. Snagsby, we’re ready for you.”
 
-First, Jo has to complete his errand of good nature by handing over
+First, Jo has to complete his errand of good [[Nature|nature]] by handing over
 the physic he has been to get, which he delivers with the laconic
 verbal direction that “it’s to be all took d’rectly.” Secondly, Mr.
-Snagsby has to lay upon the table half a crown, his usual panacea for
+Snagsby has to lay upon the table half a [[Crown|crown]], his usual panacea for
 an immense variety of afflictions. Thirdly, Mr. Bucket has to take Jo
 by the arm a little above the elbow and walk him on before him,
 without which observance neither the Tough Subject nor any other
-Subject could be professionally conducted to Lincoln’s Inn Fields.
-These arrangements completed, they give the women good night and come
-out once more into black and foul Tom-all-Alone’s.
+Subject could be professionally conducted to [[Lincoln]]’s Inn Fields.
+These arrangements completed, they give the women good [[Night|night]] and come
+out once more into black and foul Tom-all-[[Alone]]’s.
 
 By the noisome ways through which they descended into that pit, they
 gradually emerge from it, the crowd flitting, and whistling, and
@@ -82,13 +82,13 @@ Tulkinghorn’s gate.
 As they ascend the dim stairs (Mr. Tulkinghorn’s chambers being on
 the first floor), Mr. Bucket mentions that he has the key of the
 outer door in his pocket and that there is no need to ring. For a man
-so expert in most things of that kind, Bucket takes time to open the
+so expert in most things of that kind, Bucket takes [[Time|time]] to open the
 door and makes some noise too. It may be that he sounds a note of
 preparation.
 
 Howbeit, they come at last into the hall, where a lamp is burning,
 and so into Mr. Tulkinghorn’s usual room—the room where he drank his
-old wine to-night. He is not there, but his two old-fashioned
+old wine to-[[Night|night]]. He is not there, but his two old-fashioned
 candlesticks are, and the room is tolerably light.
 
 Mr. Bucket, still having his professional hold of Jo and appearing to
@@ -134,7 +134,7 @@ Jo shakes his head. “Not rings a bit like them. Not a hand like
 that.”
 
 “What are you talking of?” says Bucket, evidently pleased though, and
-well pleased too.
+[[Well|well]] pleased too.
 
 “Hand was a deal whiter, a deal delicater, and a deal smaller,”
 returns Jo.

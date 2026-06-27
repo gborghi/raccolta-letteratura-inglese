@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-Mr. Winkle, stooping forward, with his body half doubled up, was being
+Mr. Winkle, stooping forward, with his [[Body|body]] half doubled up, was being
 assisted over the ice by Mr. Weller, in a very singular and un-swan-like
-manner, when Mr. Pickwick most innocently shouted from the opposite
+manner, when Mr. [[Pickwick]] most innocently shouted from the opposite
 bank--
 
 ‘Sam!’
@@ -33,9 +33,9 @@ the agonised Pickwickian, and, in so doing, administered a considerable
 impetus to the unhappy Mr. Winkle. With an accuracy which no degree of
 dexterity or practice could have insured, that unfortunate gentleman
 bore swiftly down into the centre of the reel, at the very moment when
-Mr. Bob Sawyer was performing a flourish of unparalleled beauty. Mr.
+Mr. Bob Sawyer was performing a flourish of unparalleled [[Beauty|beauty]]. Mr.
 Winkle struck wildly against him, and with a loud crash they both fell
-heavily down. Mr. Pickwick ran to the spot. Bob Sawyer had risen to his
+heavily down. Mr. [[Pickwick]] ran to the spot. Bob Sawyer had risen to his
 feet, but Mr. Winkle was far too wise to do anything of the kind, in
 skates. He was seated on the ice, making spasmodic efforts to smile; but
 anguish was depicted on every lineament of his countenance.
@@ -53,21 +53,21 @@ eagerness.
 
 ‘Thank you,’ replied Mr. Winkle; ‘I’d rather not.’
 
-‘What do _you _think, Mr. Pickwick?’ inquired Bob Sawyer.
+‘What do _you _think, Mr. [[Pickwick]]?’ inquired Bob Sawyer.
 
-Mr. Pickwick was excited and indignant. He beckoned to Mr. Weller, and
+Mr. [[Pickwick]] was excited and indignant. He beckoned to Mr. Weller, and
 said in a stern voice, ‘Take his skates off.’
 
 ‘No; but really I had scarcely begun,’ remonstrated Mr. Winkle.
 
-‘Take his skates off,’ repeated Mr. Pickwick firmly.
+‘Take his skates off,’ repeated Mr. [[Pickwick]] firmly.
 
 The command was not to be resisted. Mr. Winkle allowed Sam to obey it,
-in silence.
+in [[Silence|silence]].
 
-‘Lift him up,’ said Mr. Pickwick. Sam assisted him to rise.
+‘Lift him up,’ said Mr. [[Pickwick]]. Sam assisted him to rise.
 
-Mr. Pickwick retired a few paces apart from the bystanders; and,
+Mr. [[Pickwick]] retired a few paces apart from the bystanders; and,
 beckoning his friend to approach, fixed a searching look upon him, and
 uttered in a low, but distinct and emphatic tone, these remarkable
 words--
@@ -78,18 +78,18 @@ A what?’ said Mr. Winkle, starting.
 
 ‘A humbug, Sir. I will speak plainer, if you wish it. An impostor, sir.’
 
-With those words, Mr. Pickwick turned slowly on his heel, and rejoined
+With those words, Mr. [[Pickwick]] turned slowly on his heel, and rejoined
 his friends.
 
-While Mr. Pickwick was delivering himself of the sentiment just
+While Mr. [[Pickwick]] was delivering himself of the sentiment just
 recorded, Mr. Weller and the fat boy, having by their joint endeavours
 cut out a slide, were exercising themselves thereupon, in a very
-masterly and brilliant manner. Sam Weller, in particular, was displaying
+masterly and brilliant manner. [[Sam Weller]], in particular, was displaying
 that beautiful feat of fancy-sliding which is currently denominated
 ‘knocking at the cobbler’s door,’ and which is achieved by skimming over
 the ice on one foot, and occasionally giving a postman’s knock upon it
 with the other. It was a good long slide, and there was something in the
-motion which Mr. Pickwick, who was very cold with standing still, could
+motion which Mr. [[Pickwick]], who was very cold with standing still, could
 not help envying.
 
 ‘It looks a nice warm exercise that, doesn’t it?’ he inquired of Wardle,
@@ -100,14 +100,14 @@ compasses, and drawn complicated problems on the ice.
 ‘Ah, it does, indeed,’ replied Wardle. ‘Do you slide?’
 
 ‘I used to do so, on the gutters, when I was a boy,’ replied Mr.
-Pickwick.
+[[Pickwick]].
 
 ‘Try it now,’ said Wardle.
 
-‘Oh, do, please, Mr. Pickwick!’ cried all the ladies.
+‘Oh, do, please, Mr. [[Pickwick]]!’ cried all the ladies.
 
 ‘I should be very happy to afford you any amusement,’ replied Mr.
-Pickwick, ‘but I haven’t done such a thing these thirty years.’
+[[Pickwick]], ‘but I haven’t done such a thing these thirty years.’
 
 ‘Pooh! pooh! Nonsense!’ said Wardle, dragging off his skates with the
 impetuosity which characterised all his proceedings. ‘Here; I’ll keep
@@ -115,21 +115,21 @@ you company; come along!’ And away went the good-tempered old fellow
 down the slide, with a rapidity which came very close upon Mr. Weller,
 and beat the fat boy all to nothing.
 
-Mr. Pickwick paused, considered, pulled off his gloves and put them in
+Mr. [[Pickwick]] paused, considered, pulled off his gloves and put them in
 his hat; took two or three short runs, baulked himself as often, and at
 last took another run, and went slowly and gravely down the slide, with
 his feet about a yard and a quarter apart, amidst the gratified shouts
 of all the spectators.
 
 ‘Keep the pot a-bilin’, Sir!’ said Sam; and down went Wardle again, and
-then Mr. Pickwick, and then Sam, and then Mr. Winkle, and then Mr. Bob
+then Mr. [[Pickwick]], and then Sam, and then Mr. Winkle, and then Mr. Bob
 Sawyer, and then the fat boy, and then Mr. Snodgrass, following closely
 upon each other’s heels, and running after each other with as much
 eagerness as if their future prospects in life depended on their
 expedition.
 
 It was the most intensely interesting thing, to observe the manner in
-which Mr. Pickwick performed his share in the ceremony; to watch the
+which Mr. [[Pickwick]] performed his share in the ceremony; to watch the
 torture of anxiety with which he viewed the person behind, gaining upon
 him at the imminent hazard of tripping him up; to see him gradually
 expend the painful force he had put on at first, and turn slowly round
@@ -137,7 +137,7 @@ on the slide, with his face towards the point from which he had started;
 to contemplate the playful smile which mantled on his face when he had
 accomplished the distance, and the eagerness with which he turned round
 when he had done so, and ran after his predecessor, his black gaiters
-tripping pleasantly through the snow, and his eyes beaming cheerfulness
+tripping pleasantly through the [[Snow|snow]], and his eyes beaming cheerfulness
 and gladness through his spectacles. And when he was knocked down (which
 happened upon the average every third round), it was the most
 invigorating sight that can possibly be imagined, to behold him gather
@@ -148,7 +148,7 @@ nothing Could abate.
 The sport was at its height, the sliding was at the quickest, the
 laughter was at the loudest, when a sharp smart crack was heard. There
 was a quick rush towards the bank, a wild scream from the ladies, and a
-shout from Mr. Tupman. A large mass of ice disappeared; the water
-bubbled up over it; Mr. Pickwick’s hat, gloves, and handkerchief were
-floating on the surface; and this was all of Mr. Pickwick that anybody
+shout from Mr. Tupman. A large mass of ice disappeared; the [[Water|water]]
+bubbled up over it; Mr. [[Pickwick]]’s hat, gloves, and handkerchief were
+floating on the surface; and this was all of Mr. [[Pickwick]] that anybody
 could see.

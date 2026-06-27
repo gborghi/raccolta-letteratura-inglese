@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 50 (part 2)"
+title: "Bleak [[house|House]] — Chapter 50 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-Next day we went to London. We found our old lodging vacant, and in
+Next day we went to [[London]]. We found our old lodging vacant, and in
 half an hour were quietly established there, as if we had never gone
 away. Mr. Woodcourt dined with us to celebrate my darling’s birthday,
 and we were as pleasant as we could be with the great blank among us
-that Richard’s absence naturally made on such an occasion. After that
+that [[Richard]]’s absence naturally made on such an occasion. After that
 day I was for some weeks—eight or nine as I remember—very much with
-Caddy, and thus it fell out that I saw less of Ada at this time than
-any other since we had first come together, except the time of my own
+Caddy, and thus it fell out that I saw less of Ada at this [[Time|time]] than
+any other since we had first come together, except the [[Time|time]] of my own
 illness. She often came to Caddy’s, but our function there was to
 amuse and cheer her, and we did not talk in our usual confidential
-manner. Whenever I went home at night we were together, but Caddy’s
-rest was broken by pain, and I often remained to nurse her.
+manner. Whenever I went [[Home|home]] at [[Night|night]] we were together, but Caddy’s
+rest was broken by [[Pain|pain]], and I often remained to [[Nurse|nurse]] her.
 
-With her husband and her poor little mite of a baby to love and their
-home to strive for, what a good creature Caddy was! So self-denying,
-so uncomplaining, so anxious to get well on their account, so afraid
+With her husband and her poor little mite of a baby to [[Love|love]] and their
+[[Home|home]] to strive for, what a good creature Caddy was! So [[Self|self]]-denying,
+so uncomplaining, so anxious to get [[Well|well]] on their account, so afraid
 of giving trouble, and so thoughtful of the unassisted labours of her
 husband and the comforts of old Mr. Turveydrop; I had never known the
 best of her until now. And it seemed so curious that her pale face
@@ -44,13 +44,13 @@ airy and more cheerful corner than she had yet occupied; then, every
 day, when we were in our neatest array, I used to lay my small small
 namesake in her arms and sit down to chat or work or read to her. It
 was at one of the first of these quiet times that I told Caddy about
-Bleak House.
+Bleak [[house|House]].
 
 We had other visitors besides Ada. First of all we had Prince, who in
 his hurried intervals of teaching used to come softly in and sit
 softly down, with a face of loving anxiety for Caddy and the very
-little child. Whatever Caddy’s condition really was, she never failed
-to declare to Prince that she was all but well—which I, heaven
+little [[Child|child]]. Whatever Caddy’s condition really was, she never failed
+to declare to Prince that she was all but [[Well|well]]—which I, heaven
 forgive me, never failed to confirm. This would put Prince in such
 good spirits that he would sometimes take the kit from his pocket and
 play a chord or two to astonish the baby, which I never knew it to do
@@ -60,7 +60,7 @@ Then there was Mrs. Jellyby. She would come occasionally, with her
 usual distraught manner, and sit calmly looking miles beyond her
 grandchild as if her attention were absorbed by a young Borrioboolan
 on its native shores. As bright-eyed as ever, as serene, and as
-untidy, she would say, “Well, Caddy, child, and how do you do
+untidy, she would say, “[[Well]], Caddy, [[Child|child]], and how do you do
 to-day?” And then would sit amiably smiling and taking no notice of
 the reply or would sweetly glide off into a calculation of the number
 of letters she had lately received and answered or of the
@@ -68,12 +68,12 @@ coffee-bearing power of Borrioboola-Gha. This she would always do
 with a serene contempt for our limited sphere of action, not to be
 disguised.
 
-Then there was old Mr. Turveydrop, who was from morning to night and
-from night to morning the subject of innumerable precautions. If the
+Then there was old Mr. Turveydrop, who was from morning to [[Night|night]] and
+from [[Night|night]] to morning the subject of innumerable precautions. If the
 baby cried, it was nearly stifled lest the noise should make him
-uncomfortable. If the fire wanted stirring in the night, it was
+uncomfortable. If the [[Fire|fire]] wanted stirring in the [[Night|night]], it was
 surreptitiously done lest his rest should be broken. If Caddy
-required any little comfort that the house contained, she first
+required any little comfort that the [[house]] contained, she first
 carefully discussed whether he was likely to require it too. In
 return for this consideration he would come into the room once a day,
 all but blessing it—showing a condescension, and a patronage, and a
@@ -96,17 +96,17 @@ particular in his attentions since I had been so altered.
 “Charming! We must take care of our dear Caroline, Miss Summerson. We
 must spare nothing that will restore her. We must nourish her. My
 dear Caroline”—he would turn to his daughter-in-law with infinite
-generosity and protection—“want for nothing, my love. Frame a wish
-and gratify it, my daughter. Everything this house contains,
+generosity and protection—“want for nothing, my [[Love|love]]. Frame a wish
+and gratify it, my daughter. Everything this [[house]] contains,
 everything my room contains, is at your service, my dear. Do not,” he
 would sometimes add in a burst of deportment, “even allow my simple
-requirements to be considered if they should at any time interfere
+requirements to be considered if they should at any [[Time|time]] interfere
 with your own, my Caroline. Your necessities are greater than mine.”
 
 He had established such a long prescriptive right to this deportment
 (his son’s inheritance from his mother) that I several times knew
-both Caddy and her husband to be melted to tears by these
-affectionate self-sacrifices.
+both Caddy and her husband to be melted to [[Tears|tears]] by these
+affectionate [[Self|self]]-sacrifices.
 
 “Nay, my dears,” he would remonstrate; and when I saw Caddy’s thin
 arm about his fat neck as he said it, I would be melted too, though
@@ -115,13 +115,13 @@ ye. Be dutiful and affectionate towards me, and I ask no other
 return. Now, bless ye! I am going to the Park.”
 
 He would take the air there presently and get an appetite for his
-hotel dinner. I hope I do old Mr. Turveydrop no wrong, but I never
+hotel dinner. I [[Hope|hope]] I do old Mr. Turveydrop no wrong, but I never
 saw any better traits in him than these I faithfully record, except
 that he certainly conceived a liking for Peepy and would take the
-child out walking with great pomp, always on those occasions sending
-him home before he went to dinner himself, and occasionally with a
+[[Child|child]] out walking with great pomp, always on those occasions sending
+him [[Home|home]] before he went to dinner himself, and occasionally with a
 halfpenny in his pocket. But even this disinterestedness was attended
 with no inconsiderable cost, to my knowledge, for before Peepy was
-sufficiently decorated to walk hand in hand with the professor of
+sufficiently decorated to walk hand in hand with [[The Professor|the professor]] of
 deportment, he had to be newly dressed, at the expense of Caddy and
 her husband, from top to toe.

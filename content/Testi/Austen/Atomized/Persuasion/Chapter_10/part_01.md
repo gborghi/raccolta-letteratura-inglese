@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 10 (part 1)"
+title: "[[Persuasion]] — Chapter 10 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -24,19 +24,19 @@ Other opportunities of making her observations could not fail to occur.
 
 Anne had soon been in company with all the four together often enough
 
-to have an opinion, though too wise to acknowledge as much at home,
+to have an opinion, though too wise to acknowledge as much at [[Home|home]],
 
 where she knew it would have satisfied neither husband nor wife; for
 
 while she considered Louisa to be rather the favourite, she could not
 
-but think, as far as she might dare to judge from memory and
+but think, as far as she might dare to judge from [[Memory|memory]] and
 
-experience, that Captain Wentworth was not in love with either. They
+experience, that [[Captain Wentworth]] was not in [[Love|love]] with either. They
 
-were more in love with him; yet there it was not love. It was a little
+were more in [[Love|love]] with him; yet there it was not [[Love|love]]. It was a little
 
-fever of admiration; but it might, probably must, end in love with
+fever of admiration; but it might, probably must, end in [[Love|love]] with
 
 some. Charles Hayter seemed aware of being slighted, and yet Henrietta
 
@@ -48,7 +48,7 @@ pointing out some of the evils they were exposing themselves to. She
 
 did not attribute guile to any. It was the highest satisfaction to her
 
-to believe Captain Wentworth not in the least aware of the pain he was
+to believe [[Captain Wentworth]] not in the least aware of the [[Pain|pain]] he was
 
 occasioning. There was no triumph, no pitiful triumph in his manner. He
 
@@ -70,9 +70,9 @@ dinner; and having been found on the occasion by Mr Musgrove with some
 
 large books before him, Mr and Mrs Musgrove were sure all could not be
 
-right, and talked, with grave faces, of his studying himself to death.
+right, and talked, with [[Grave|grave]] faces, of his studying himself to [[Death|death]].
 
-It was Mary’s hope and belief that he had received a positive dismissal
+It was Mary’s [[Hope|hope]] and belief that he had received a positive dismissal
 
 from Henrietta, and her husband lived under the constant dependence of
 
@@ -82,13 +82,13 @@ wise.
 
 
 
-One morning, about this time Charles Musgrove and Captain Wentworth
+One morning, about this [[Time|time]] Charles Musgrove and [[Captain Wentworth]]
 
 being gone a-shooting together, as the sisters in the Cottage were
 
-sitting quietly at work, they were visited at the window by the sisters
+sitting quietly at work, they were visited at the [[Window|window]] by the sisters
 
-from the Mansion-house.
+from the Mansion-[[house]].
 
 
 
@@ -100,7 +100,7 @@ they were going to take a _long_ walk, and, therefore, concluded Mary
 
 could not like to go with them; and when Mary immediately replied, with
 
-some jealousy at not being supposed a good walker, “Oh, yes, I should
+some [[Jealousy|jealousy]] at not being supposed a good walker, “Oh, yes, I should
 
 like to join you very much, I am very fond of a long walk;” Anne felt
 
@@ -140,11 +140,11 @@ Just as they were setting off, the gentlemen returned. They had taken
 
 out a young dog, who had spoilt their sport, and sent them back early.
 
-Their time and strength, and spirits, were, therefore, exactly ready
+Their [[Time|time]] and strength, and spirits, were, therefore, exactly ready
 
 for this walk, and they entered into it with pleasure. Could Anne have
 
-foreseen such a junction, she would have staid at home; but, from some
+foreseen such a junction, she would have staid at [[Home|home]]; but, from some
 
 feelings of interest and curiosity, she fancied now that it was too
 
@@ -164,11 +164,11 @@ with her brother and sister. Her _pleasure_ in the walk must arise from
 
 the exercise and the day, from the view of the last smiles of the year
 
-upon the tawny leaves, and withered hedges, and from repeating to
+upon the tawny [[Leaves|leaves]], and withered hedges, and from repeating to
 
 herself some few of the thousand poetical descriptions extant of
 
-autumn, that season of peculiar and inexhaustible influence on the mind
+[[Autumn|autumn]], that season of peculiar and inexhaustible influence on the mind
 
 of taste and tenderness, that season which had drawn from every poet,
 
@@ -178,7 +178,7 @@ feeling. She occupied her mind as much as possible in such like musings
 
 and quotations; but it was not possible, that when within reach of
 
-Captain Wentworth’s conversation with either of the Miss Musgroves, she
+[[Captain Wentworth]]’s conversation with either of the Miss Musgroves, she
 
 should not try to hear it; yet she caught little very remarkable. It
 
@@ -192,7 +192,7 @@ sister. This distinction appeared to increase, and there was one speech
 
 of Louisa’s which struck her. After one of the many praises of the day,
 
-which were continually bursting forth, Captain Wentworth added:—
+which were continually bursting forth, [[Captain Wentworth]] added:—
 
 
 
@@ -202,7 +202,7 @@ take a long drive this morning; perhaps we may hail them from some of
 
 these hills. They talked of coming into this side of the country. I
 
-wonder whereabouts they will upset to-day. Oh! it does happen very
+[[Wonder|wonder]] whereabouts they will upset to-day. Oh! it does happen very
 
 often, I assure you; but my sister makes nothing of it; she would as
 

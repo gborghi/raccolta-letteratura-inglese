@@ -15,7 +15,7 @@ tags:
 
 
 “Thank you, Sir,” returned Uncle Sol, taking out his pocket-book, and
-handing over some notes as he spoke. “Nothing ails me in body but old
+handing over some notes as he spoke. “Nothing ails me in [[Body|body]] but old
 age. Twenty-five, Sir.”
 
 “You are as punctual and exact, Mr Gills,” replied the smiling Manager,
@@ -42,7 +42,7 @@ Uncle Sol, standing by him, shook his head and heaved a deep sigh.
 “Mr Gills,” said Carker, with his soft hand playing round his mouth,
 and looking up into the Instrument-maker’s face, “it would be company
 to you to have a young fellow in your shop just now, and it would be
-obliging me if you would give one house-room for the present. No, to be
+obliging me if you would give one [[house]]-room for the present. No, to be
 sure,” he added quickly, in anticipation of what the old man was going
 to say, “there’s not much business doing there, I know; but you can
 make him clean the place out, polish up the instruments; drudge, Mr
@@ -51,11 +51,11 @@ Gills. That’s the lad!”
 Sol Gills pulled down his spectacles from his forehead to his eyes, and
 looked at Toodle Junior standing upright in the corner: his head
 presenting the appearance (which it always did) of having been newly
-drawn out of a bucket of cold water; his small waistcoat rising and
+drawn out of a bucket of cold [[Water|water]]; his small waistcoat rising and
 falling quickly in the play of his emotions; and his eyes intently
 fixed on Mr Carker, without the least reference to his proposed master.
 
-“Will you give him house-room, Mr Gills?” said the Manager.
+“Will you give him [[house]]-room, Mr Gills?” said the Manager.
 
 Old Sol, without being quite enthusiastic on the subject, replied that
 he was glad of any opportunity, however slight, to oblige Mr Carker,
@@ -73,12 +73,12 @@ with him, and what he deserves. As I consider myself responsible for
 him, Mr Gills,” here he smiled a wide smile at Rob, who shook before
 it: “I shall be glad if you’ll look sharply after him, and report his
 behaviour to me. I’ll ask a question or two of his parents as I ride
-home this afternoon—respectable people—to confirm some particulars in
+[[Home|home]] this afternoon—respectable people—to confirm some particulars in
 his own account of himself; and that done, Mr Gills, I’ll send him
 round to you to-morrow morning. Goodbye!”
 
 His smile at parting was so full of teeth, that it confused old Sol,
-and made him vaguely uncomfortable. He went home, thinking of raging
+and made him vaguely uncomfortable. He went [[Home|home]], thinking of raging
 seas, foundering ships, drowning men, an ancient bottle of Madeira
 never brought to light, and other dismal matters.
 
@@ -97,26 +97,26 @@ to understand better than that.
 
 “If you have lied to me,” said Mr Carker, “in anything, never come in
 my way again. If not, you may let me find you waiting for me somewhere
-near your mother’s house this afternoon. I shall leave this at five
-o’clock, and ride there on horseback. Now, give me the address.”
+near your mother’s [[house]] this afternoon. I shall leave this at five
+o’[[Clock|clock]], and ride there on horseback. Now, give me the address.”
 
 Rob repeated it slowly, as Mr Carker wrote it down. Rob even spelt it
-over a second time, letter by letter, as if he thought that the
+over a second [[Time|time]], letter by letter, as if he thought that the
 omission of a dot or scratch would lead to his destruction. Mr Carker
 then handed him out of the room; and Rob, keeping his round eyes fixed
-upon his patron to the last, vanished for the time being.
+upon his patron to the last, vanished for the [[Time|time]] being.
 
 Mr Carker the Manager did a great deal of business in the course of the
 day, and bestowed his teeth upon a great many people. In the office, in
-the court, in the street, and on “Change, they glistened and bristled
-to a terrible extent. Five o’clock arriving, and with it Mr Carker’s
-bay horse, they got on horseback, and went gleaming up Cheapside.
+the [[Court|court]], in the street, and on “Change, they glistened and bristled
+to a terrible extent. Five o’[[Clock|clock]] arriving, and with it Mr Carker’s
+bay [[Horse|horse]], they got on horseback, and went gleaming up Cheapside.
 
 As no one can easily ride fast, even if inclined to do so, through the
-press and throng of the City at that hour, and as Mr Carker was not
+press and throng of the [[City]] at that hour, and as Mr Carker was not
 inclined, he went leisurely along, picking his way among the carts and
 carriages, avoiding whenever he could the wetter and more dirty places
-in the over-watered road, and taking infinite pains to keep himself and
+in the over-watered [[Road|road]], and taking infinite pains to keep himself and
 his steed clean. Glancing at the passersby while he was thus ambling on
 his way, he suddenly encountered the round eyes of the sleek-headed Rob
 intently fixed upon his face as if they had never been taken off, while
@@ -127,11 +127,11 @@ proper to go.
 
 This attention, however flattering, being one of an unusual kind, and
 attracting some notice from the other passengers, Mr Carker took
-advantage of a clearer thoroughfare and a cleaner road, and broke into
+advantage of a clearer thoroughfare and a cleaner [[Road|road]], and broke into
 a trot. Rob immediately did the same. Mr Carker presently tried a
 canter; Rob was still in attendance. Then a short gallop; it was all
 one to the boy. Whenever Mr Carker turned his eyes to that side of the
-road, he still saw Toodle Junior holding his course, apparently without
+[[Road|road]], he still saw Toodle Junior holding his course, apparently without
 distress, and working himself along by the elbows after the most
 approved manner of professional gentlemen who get over the ground for
 wagers.

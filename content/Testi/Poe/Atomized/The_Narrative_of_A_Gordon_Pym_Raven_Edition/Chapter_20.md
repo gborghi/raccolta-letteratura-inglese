@@ -26,7 +26,7 @@ CHAPTER 20
 
       we had ever seen, and the ducks surpassed our best species of
 
-      wild fowl, being exceedingly tender, juicy, and well-flavoured.
+      wild fowl, being exceedingly tender, juicy, and [[Well|well]]-flavoured.
 
       Besides these, the savages brought us, upon our making them
 
@@ -38,7 +38,7 @@ CHAPTER 20
 
       benefit in restoring those of our men who had shown symptoms of
 
-      disease. In a very short time we had not a single person on the
+      disease. In a very short [[Time|time]] we had not a single person on the
 
       sick-list. We had also plenty of other kinds of fresh provisions,
 
@@ -46,7 +46,7 @@ CHAPTER 20
 
       the mussel in shape, but with the taste of an oyster. Shrimps,
 
-      too, and prawns were abundant, and albatross and other birds’
+      too, and prawns were abundant, and albatross and other [[Birds|birds]]’
 
       eggs with dark shells. We took in, too, a plentiful stock of the
 
@@ -64,7 +64,7 @@ CHAPTER 20
 
       the schooner, where our barterings were carried on with every
 
-      appearance of good faith, and a degree of order which their
+      appearance of good [[Faith|faith]], and a degree of order which their
 
       conduct at the village of _Klock-klock_ had not led us to expect
 
@@ -126,7 +126,7 @@ CHAPTER 20
 
 
 
-      A description of the nature of this important article of
+      A description of the [[Nature|nature]] of this important article of
 
       commerce, and the method of preparing it, may prove of some
 
@@ -136,7 +136,7 @@ CHAPTER 20
 
       comprehensive notice of the substance is taken from a modern
 
-      history of a voyage to the South Seas.
+      [[history]] of a voyage to the South Seas.
 
 
 
@@ -152,11 +152,11 @@ CHAPTER 20
 
       Chinese market, where it commands a great price, perhaps as much
 
-      as their much-talked-of edible birds’ nests, which are properly
+      as their much-talked-of edible [[Birds|birds]]’ nests, which are properly
 
       made up of the gelatinous matter picked up by a species of
 
-      swallow from the body of these molluscae. They have no shell, no
+      [[Swallow|swallow]] from the [[Body|body]] of these molluscae. They have no shell, no
 
       legs, nor any prominent part, except an _absorbing_ and an
 
@@ -164,7 +164,7 @@ CHAPTER 20
 
       caterpillars or worms, they creep in shallow waters, in which,
 
-      when low, they can be seen by a kind of swallow, the sharp bill
+      when low, they can be seen by a kind of [[Swallow|swallow]], the sharp bill
 
       of which, inserted in the soft animal, draws a gummy and
 
@@ -182,15 +182,15 @@ CHAPTER 20
 
       less than two feet long. They were nearly round, a little
 
-      flattish on one side, which lies next to the bottom of the sea;
+      flattish on one side, which lies next to the [[Bottom|bottom]] of the sea;
 
       and they are from one to eight inches thick. They crawl up into
 
-      shallow water at particular seasons of the year, probably for the
+      shallow [[Water|water]] at particular [[Seasons|seasons]] of the year, probably for the
 
       purpose of gendering, as we often find them in pairs. It is when
 
-      the sun has the most power on the water, rendering it tepid, that
+      the sun has the most power on the [[Water|water]], rendering it tepid, that
 
       they approach the shore; and they often go up into places so
 
@@ -198,9 +198,9 @@ CHAPTER 20
 
       to the beat of the sun. But they do not bring forth their young
 
-      in shallow water, as we never see any of their progeny, and
+      in shallow [[Water|water]], as we never see any of their progeny, and
 
-      full-grown ones are always observed coming in from deep water.
+      full-grown ones are always observed coming in from deep [[Water|water]].
 
       They feed principally on that class of zoophytes which produce
 
@@ -210,7 +210,7 @@ CHAPTER 20
 
       “The _biche de mer_ is generally taken in three or four feet of
 
-      water; after which they are brought on shore, and split at one
+      [[Water|water]]; after which they are brought on shore, and split at one
 
       end with a knife, the incision being one inch or more, according
 
@@ -224,13 +224,13 @@ CHAPTER 20
 
       or too little. They are then buried in the ground for four hours,
 
-      then boiled again for a short time, after which they are dried,
+      then boiled again for a short [[Time|time]], after which they are dried,
 
-      either by the fire or the sun. Those cured by the sun are worth
+      either by the [[Fire|fire]] or the sun. Those cured by the sun are worth
 
       the most; but where one picul (133 1/3 lbs.) can be cured that
 
-      way, I can cure thirty piculs by the fire. When once properly
+      way, I can cure thirty piculs by the [[Fire|fire]]. When once properly
 
       cured, they can be kept in a dry place for two or three years
 
@@ -272,7 +272,7 @@ CHAPTER 20
 
       eastern shore of the bay was selected, where there was plenty of
 
-      both wood and water, and within a convenient distance of the
+      both wood and [[Water|water]], and within a convenient distance of the
 
       principal reefs on which the _biche de mer_ was to be procured.
 
@@ -288,7 +288,7 @@ CHAPTER 20
 
       three men whom we intended to leave behind. These were John
 
-      Carson, Alfred Harris, and ___ Peterson (all natives of London, I
+      Carson, Alfred Harris, and ___ Peterson (all natives of [[London]], I
 
       believe), who volunteered their services in this respect.
 
@@ -304,9 +304,9 @@ CHAPTER 20
 
       it advisable to run the risk of offending him by a final refusal.
 
-      I believe that not one of us had at this time the slightest
+      I believe that not one of us had at this [[Time|time]] the slightest
 
-      suspicion of the good faith of the savages. They had uniformly
+      suspicion of the good [[Faith|faith]] of the savages. They had uniformly
 
       behaved with the greatest decorum, aiding us with alacrity in our
 
@@ -326,7 +326,7 @@ CHAPTER 20
 
       single thought of perfidy on the part of a people who treated us
 
-      so well. A very short while sufficed to prove that this apparent
+      so [[Well|well]]. A very short while sufficed to prove that this apparent
 
       kindness of disposition was only the result of a deeply laid plan
 
@@ -354,7 +354,7 @@ CHAPTER 20
 
       constantly on deck. The boarding-nettings were up, the guns
 
-      double-shotted with grape and canister, and the swivels loaded
+      [[Double|double]]-shotted with grape and canister, and the swivels loaded
 
       with canisters of musket-balls. She lay, with her anchor apeak,
 
@@ -362,7 +362,7 @@ CHAPTER 20
 
       any direction without being distinctly seen and exposed to the
 
-      full fire of our swivels immediately.
+      full [[Fire|fire]] of our swivels immediately.
 
 
 
@@ -392,7 +392,7 @@ CHAPTER 20
 
 
 
-      We had passed the spring and rivulet of which I before spoke, and
+      We had passed the [[Spring|spring]] and rivulet of which I before spoke, and
 
       were now entering upon a narrow gorge leading through the chain
 
@@ -450,7 +450,7 @@ CHAPTER 20
 
       natives), and, more than all, to the long-sustained pretension of
 
-      friendship kept up by these infamous wretches. Five or six of
+      [[Friendship|friendship]] kept up by these infamous wretches. Five or six of
 
       them went on before, as if to lead the way, ostentatiously
 
@@ -460,7 +460,7 @@ CHAPTER 20
 
       taking care only to prevent separation. Behind followed the main
 
-      body of the savages, observing unusual order and decorum.
+      [[Body|body]] of the savages, observing unusual order and decorum.
 
 
 
@@ -474,7 +474,7 @@ CHAPTER 20
 
       wide enough for one person to enter without squeezing, and
 
-      extended back into the hill some eighteen or twenty feet in a
+      extended back into the [[Hill|hill]] some eighteen or twenty feet in a
 
       straight course, sloping afterward to the left. The height of the
 

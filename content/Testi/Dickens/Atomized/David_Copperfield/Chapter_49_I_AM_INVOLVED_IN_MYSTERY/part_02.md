@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 2)"
+title: "[[David Copperfield]] — Chapter 49: I AM INVOLVED IN MYSTERY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -23,11 +23,11 @@ he now allow me to throw myself on his friendly consideration? Oh yes,
 for I know his heart!
 
 ‘The quick eye of affection is not easily blinded, when of the female
-sex. Mr. Micawber is going to London. Though he studiously concealed his
+sex. Mr. Micawber is going to [[London]]. Though he studiously concealed his
 hand, this morning before breakfast, in writing the direction-card which
 he attached to the little brown valise of happier days, the eagle-glance
 of matrimonial anxiety detected, d, o, n, distinctly traced. The
-West-End destination of the coach, is the Golden Cross. Dare I fervently
+West-End destination of the coach, is the Golden [[Cross]]. Dare I fervently
 implore Mr. T. to see my misguided husband, and to reason with him?
 Dare I ask Mr. T. to endeavour to step in between Mr. Micawber and his
 agonized family? Oh no, for that would be too much!
@@ -44,7 +44,7 @@ subscribes herself, in extreme distress,
 
 ‘Mr. Thomas Traddles’s respectful friend and suppliant,
 
-                                   ‘EMMA MICAWBER.’
+                                   ‘[[Emma|EMMA]] MICAWBER.’
 
 
 ‘What do you think of that letter?’ said Traddles, casting his eyes upon
@@ -56,17 +56,17 @@ with knitted brows.
 ‘I think that the two together, Copperfield,’ replied Traddles,
 ‘mean more than Mr. and Mrs. Micawber usually mean in their
 correspondence--but I don’t know what. They are both written in good
-faith, I have no doubt, and without any collusion. Poor thing!’ he was
+[[Faith|faith]], I have no [[Doubt|doubt]], and without any collusion. Poor thing!’ he was
 now alluding to Mrs. Micawber’s letter, and we were standing side by
-side comparing the two; ‘it will be a charity to write to her, at all
+side comparing the two; ‘it will be a [[Charity|charity]] to write to her, at all
 events, and tell her that we will not fail to see Mr. Micawber.’
 
 I acceded to this the more readily, because I now reproached myself with
 having treated her former letter rather lightly. It had set me thinking
-a good deal at the time, as I have mentioned in its place; but my
+a good deal at the [[Time|time]], as I have mentioned in its place; but my
 absorption in my own affairs, my experience of the family, and my
 hearing nothing more, had gradually ended in my dismissing the subject.
-I had often thought of the Micawbers, but chiefly to wonder what
+I had often thought of the Micawbers, but chiefly to [[Wonder|wonder]] what
 ‘pecuniary liabilities’ they were establishing in Canterbury, and to
 recall how shy Mr. Micawber was of me when he became clerk to Uriah
 Heep.
@@ -79,7 +79,7 @@ in the afternoon; but our only decided conclusion was, that we would be
 very punctual in keeping Mr. Micawber’s appointment.
 
 Although we appeared at the stipulated place a quarter of an hour before
-the time, we found Mr. Micawber already there. He was standing with his
+the [[Time|time]], we found Mr. Micawber already there. He was standing with his
 arms folded, over against the wall, looking at the spikes on the top,
 with a sentimental expression, as if they were the interlacing boughs of
 trees that had shaded him in his youth.
@@ -105,23 +105,23 @@ gentlemen,’ when I ventured to object to that ceremonious form of
 address, and to beg that he would speak to us in the old way.
 
 ‘My dear Copperfield,’ he returned, pressing my hand, ‘your cordiality
-overpowers me. This reception of a shattered fragment of the Temple once
+overpowers me. This reception of a shattered [[Fragment|fragment]] of the Temple once
 called Man--if I may be permitted so to express myself--bespeaks a heart
-that is an honour to our common nature. I was about to observe that
+that is an [[Honour|honour]] to our common [[Nature|nature]]. I was about to observe that
 I again behold the serene spot where some of the happiest hours of my
 existence fleeted by.’
 
-‘Made so, I am sure, by Mrs. Micawber,’ said I. ‘I hope she is well?’
+‘Made so, I am sure, by Mrs. Micawber,’ said I. ‘I [[Hope|hope]] she is [[Well|well]]?’
 
 ‘Thank you,’ returned Mr. Micawber, whose face clouded at this
 reference, ‘she is but so-so. And this,’ said Mr. Micawber, nodding
-his head sorrowfully, ‘is the Bench! Where, for the first time in many
+his head sorrowfully, ‘is the Bench! Where, for the first [[Time|time]] in many
 revolving years, the overwhelming pressure of pecuniary liabilities was
 not proclaimed, from day to day, by importune voices declining to vacate
 the passage; where there was no knocker on the door for any creditor
 to appeal to; where personal service of process was not required, and
 detainees were merely lodged at the gate! Gentlemen,’ said Mr. Micawber,
-‘when the shadow of that iron-work on the summit of the brick structure
+‘when the [[Shadow|shadow]] of that iron-work on the summit of the brick structure
 has been reflected on the gravel of the Parade, I have seen my children
 thread the mazes of the intricate pattern, avoiding the dark marks. I
 have been familiar with every stone in the place. If I betray weakness,

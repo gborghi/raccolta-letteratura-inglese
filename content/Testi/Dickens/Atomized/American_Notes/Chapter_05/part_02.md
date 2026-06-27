@@ -22,10 +22,10 @@ just of age—for if my recollection serve me, it has been a manufacturing
 town barely one-and-twenty years—Lowell is a large, populous, thriving
 place.  Those indications of its youth which first attract the eye, give
 it a quaintness and oddity of character which, to a visitor from the old
-country, is amusing enough.  It was a very dirty winter’s day, and
+country, is amusing enough.  It was a very dirty [[Winter|winter]]’s day, and
 nothing in the whole town looked old to me, except the mud, which in some
 parts was almost knee-deep, and might have been deposited there, on the
-subsiding of the waters after the Deluge.  In one place, there was a new
+subsiding of the waters after the [[deluge|Deluge]].  In one place, there was a new
 wooden church, which, having no steeple, and being yet unpainted, looked
 like an enormous packing-case without any direction upon it.  In another
 there was a large hotel, whose walls and colonnades were so crisp, and
@@ -33,13 +33,13 @@ thin, and slight, that it had exactly the appearance of being built with
 cards.  I was careful not to draw my breath as we passed, and trembled
 when I saw a workman come out upon the roof, lest with one thoughtless
 stamp of his foot he should crush the structure beneath him, and bring it
-rattling down.  The very river that moves the machinery in the mills (for
-they are all worked by water power), seems to acquire a new character
+rattling down.  The very [[River|river]] that moves the machinery in the mills (for
+they are all worked by [[Water|water]] power), seems to acquire a new character
 from the fresh buildings of bright red brick and painted wood among which
 it takes its course; and to be as light-headed, thoughtless, and brisk a
-young river, in its murmurings and tumblings, as one would desire to see.
+young [[River|river]], in its murmurings and tumblings, as one would [[Desire|desire]] to see.
 One would swear that every ‘Bakery,’ ‘Grocery,’ and ‘Bookbindery,’ and
-other kind of store, took its shutters down for the first time, and
+other kind of store, took its shutters down for the first [[Time|time]], and
 started in business yesterday.  The golden pestles and mortars fixed as
 signs upon the sun-blind frames outside the Druggists’, appear to have
 been just turned out of the United States’ Mint; and when I saw a baby of
@@ -48,31 +48,31 @@ myself unconsciously wondering where it came from: never supposing for an
 instant that it could have been born in such a young town as that.
 
 There are several factories in Lowell, each of which belongs to what we
-should term a Company of Proprietors, but what they call in America a
+should term a Company of Proprietors, but what they call in [[America]] a
 Corporation.  I went over several of these; such as a woollen factory, a
 carpet factory, and a cotton factory: examined them in every part; and
 saw them in their ordinary working aspect, with no preparation of any
 kind, or departure from their ordinary everyday proceedings.  I may add
-that I am well acquainted with our manufacturing towns in England, and
+that I am [[Well|well]] acquainted with our manufacturing towns in England, and
 have visited many mills in Manchester and elsewhere in the same manner.
 
 I happened to arrive at the first factory just as the dinner hour was
 over, and the girls were returning to their work; indeed the stairs of
-the mill were thronged with them as I ascended.  They were all well
+the mill were thronged with them as I ascended.  They were all [[Well|well]]
 dressed, but not to my thinking above their condition; for I like to see
 the humbler classes of society careful of their dress and appearance, and
 even, if they please, decorated with such little trinkets as come within
 the compass of their means.  Supposing it confined within reasonable
-limits, I would always encourage this kind of pride, as a worthy element
-of self-respect, in any person I employed; and should no more be deterred
-from doing so, because some wretched female referred her fall to a love
+limits, I would always encourage this kind of [[Pride|pride]], as a worthy element
+of [[Self|self]]-respect, in any person I employed; and should no more be deterred
+from doing so, because some wretched female referred her fall to a [[Love|love]]
 of dress, than I would allow my construction of the real intent and
 meaning of the Sabbath to be influenced by any warning to the
-well-disposed, founded on his backslidings on that particular day, which
+[[Well|well]]-disposed, founded on his backslidings on that particular day, which
 might emanate from the rather doubtful authority of a murderer in
 Newgate.
 
-These girls, as I have said, were all well dressed: and that phrase
+These girls, as I have said, were all [[Well|well]] dressed: and that phrase
 necessarily includes extreme cleanliness.  They had serviceable bonnets,
 good warm cloaks, and shawls; and were not above clogs and pattens.
 Moreover, there were places in the mill in which they could deposit these
@@ -81,18 +81,18 @@ were healthy in appearance, many of them remarkably so, and had the
 manners and deportment of young women: not of degraded brutes of burden.
 If I had seen in one of those mills (but I did not, though I looked for
 something of this kind with a sharp eye), the most lisping, mincing,
-affected, and ridiculous young creature that my imagination could
+affected, and ridiculous young creature that my [[Imagination|imagination]] could
 suggest, I should have thought of the careless, moping, slatternly,
 degraded, dull reverse (I _have_ seen that), and should have been still
-well pleased to look upon her.
+[[Well|well]] pleased to look upon her.
 
-The rooms in which they worked, were as well ordered as themselves.  In
+The rooms in which they worked, were as [[Well|well]] ordered as themselves.  In
 the windows of some, there were green plants, which were trained to shade
 the glass; in all, there was as much fresh air, cleanliness, and comfort,
-as the nature of the occupation would possibly admit of.  Out of so large
+as the [[Nature|nature]] of the occupation would possibly admit of.  Out of so large
 a number of females, many of whom were only then just verging upon
 womanhood, it may be reasonably supposed that some were delicate and
-fragile in appearance: no doubt there were.  But I solemnly declare, that
+fragile in appearance: no [[Doubt|doubt]] there were.  But I solemnly declare, that
 from all the crowd I saw in the different factories that day, I cannot
 recall or separate one young face that gave me a painful impression; not
 one young girl whom, assuming it to be a matter of necessity that she

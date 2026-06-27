@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 24"
+title: "[[Persuasion]] — Chapter 24"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XXIV.
 
 
 
-Who can be in doubt of what followed? When any two young people take it
+Who can be in [[Doubt|doubt]] of what followed? When any two young people take it
 
 into their heads to marry, they are pretty sure by perseverance to
 
@@ -28,9 +28,9 @@ carry their point, be they ever so poor, or ever so imprudent, or ever
 
 so little likely to be necessary to each other’s ultimate comfort. This
 
-may be bad morality to conclude with, but I believe it to be truth; and
+may be bad [[morality]] to conclude with, but I believe it to be [[Truth|truth]]; and
 
-if such parties succeed, how should a Captain Wentworth and an Anne
+if such parties succeed, how should a [[Captain Wentworth]] and an Anne
 
 Elliot, with the advantage of maturity of mind, consciousness of right,
 
@@ -42,7 +42,7 @@ they met with, for there was little to distress them beyond the want of
 
 graciousness and warmth. Sir Walter made no objection, and Elizabeth
 
-did nothing worse than look cold and unconcerned. Captain Wentworth,
+did nothing worse than look cold and unconcerned. [[Captain Wentworth]],
 
 with five-and-twenty thousand pounds, and as high in his profession as
 
@@ -52,7 +52,7 @@ esteemed quite worthy to address the daughter of a foolish, spendthrift
 
 baronet, who had not had principle or sense enough to maintain himself
 
-in the situation in which Providence had placed him, and who could give
+in the situation in which [[Providence]] had placed him, and who could give
 
 his daughter at present but a small part of the share of ten thousand
 
@@ -60,41 +60,41 @@ pounds which must be hers hereafter.
 
 
 
-Sir Walter, indeed, though he had no affection for Anne, and no vanity
+Sir Walter, indeed, though he had no affection for Anne, and no [[Vanity|vanity]]
 
 flattered, to make him really happy on the occasion, was very far from
 
 thinking it a bad match for her. On the contrary, when he saw more of
 
-Captain Wentworth, saw him repeatedly by daylight, and eyed him well,
+[[Captain Wentworth]], saw him repeatedly by daylight, and eyed him [[Well|well]],
 
 he was very much struck by his personal claims, and felt that his
 
 superiority of appearance might be not unfairly balanced against her
 
-superiority of rank; and all this, assisted by his well-sounding name,
+superiority of rank; and all this, assisted by his [[Well|well]]-sounding name,
 
 enabled Sir Walter at last to prepare his pen, with a very good grace,
 
-for the insertion of the marriage in the volume of honour.
+for the insertion of the [[Marriage|marriage]] in the volume of [[Honour|honour]].
 
 
 
 The only one among them, whose opposition of feeling could excite any
 
-serious anxiety was Lady Russell. Anne knew that Lady Russell must be
+serious anxiety was [[Lady Russell]]. Anne knew that [[Lady Russell]] must be
 
-suffering some pain in understanding and relinquishing Mr Elliot, and
+[[Suffering|suffering]] some [[Pain|pain]] in understanding and relinquishing Mr Elliot, and
 
 be making some struggles to become truly acquainted with, and do
 
-justice to Captain Wentworth. This however was what Lady Russell had
+justice to [[Captain Wentworth]]. This however was what [[Lady Russell]] had
 
 now to do. She must learn to feel that she had been mistaken with
 
 regard to both; that she had been unfairly influenced by appearances in
 
-each; that because Captain Wentworth’s manners had not suited her own
+each; that because [[Captain Wentworth]]’s manners had not suited her own
 
 ideas, she had been too quick in suspecting them to indicate a
 
@@ -106,7 +106,7 @@ their general politeness and suavity, she had been too quick in
 
 receiving them as the certain result of the most correct opinions and
 
-well-regulated mind. There was nothing less for Lady Russell to do,
+[[Well|well]]-regulated mind. There was nothing less for [[Lady Russell]] to do,
 
 than to admit that she had been pretty completely wrong, and to take up
 
@@ -118,11 +118,11 @@ There is a quickness of perception in some, a nicety in the discernment
 
 of character, a natural penetration, in short, which no experience in
 
-others can equal, and Lady Russell had been less gifted in this part of
+others can equal, and [[Lady Russell]] had been less gifted in this part of
 
 understanding than her young friend. But she was a very good woman, and
 
-if her second object was to be sensible and well-judging, her first was
+if her second object was to be sensible and [[Well|well]]-judging, her first was
 
 to see Anne happy. She loved Anne better than she loved her own
 
@@ -130,7 +130,7 @@ abilities; and when the awkwardness of the beginning was over, found
 
 little hardship in attaching herself as a mother to the man who was
 
-securing the happiness of her other child.
+securing the happiness of her other [[Child|child]].
 
 
 
@@ -140,11 +140,11 @@ by the circumstance. It was creditable to have a sister married, and
 
 she might flatter herself with having been greatly instrumental to the
 
-connexion, by keeping Anne with her in the autumn; and as her own
+connexion, by keeping Anne with her in the [[Autumn|autumn]]; and as her own
 
 sister must be better than her husband’s sisters, it was very agreeable
 
-that Captain Wentworth should be a richer man than either Captain
+that [[Captain Wentworth]] should be a richer man than either Captain
 
 Benwick or Charles Hayter. She had something to suffer, perhaps, when
 
@@ -156,13 +156,13 @@ future to look forward to, of powerful consolation. Anne had no
 
 Uppercross Hall before her, no landed estate, no headship of a family;
 
-and if they could but keep Captain Wentworth from being made a baronet,
+and if they could but keep [[Captain Wentworth]] from being made a baronet,
 
 she would not change situations with Anne.
 
 
 
-It would be well for the eldest sister if she were equally satisfied
+It would be [[Well|well]] for the eldest sister if she were equally satisfied
 
 with her situation, for a change is not very probable there. She had
 
@@ -178,7 +178,7 @@ The news of his cousin Anne’s engagement burst on Mr Elliot most
 
 unexpectedly. It deranged his best plan of domestic happiness, his best
 
-hope of keeping Sir Walter single by the watchfulness which a
+[[Hope|hope]] of keeping Sir Walter single by the watchfulness which a
 
 son-in-law’s rights would have given. But, though discomfited and
 
@@ -188,7 +188,7 @@ own enjoyment. He soon quitted Bath; and on Mrs Clay’s quitting it soon
 
 afterwards, and being next heard of as established under his protection
 
-in London, it was evident how double a game he had been playing, and
+in [[London]], it was evident how [[Double|double]] a game he had been playing, and
 
 how determined he was to save himself from being cut out by one artful
 
@@ -200,7 +200,7 @@ Mrs Clay’s affections had overpowered her interest, and she had
 
 sacrificed, for the young man’s sake, the possibility of scheming
 
-longer for Sir Walter. She has abilities, however, as well as
+longer for Sir Walter. She has abilities, however, as [[Well|well]] as
 
 affections; and it is now a doubtful point whether his cunning, or
 
@@ -216,7 +216,7 @@ It cannot be doubted that Sir Walter and Elizabeth were shocked and
 
 mortified by the loss of their companion, and the discovery of their
 
-deception in her. They had their great cousins, to be sure, to resort
+[[Deception|deception]] in her. They had their great cousins, to be sure, to resort
 
 to for comfort; but they must long feel that to flatter and follow
 
@@ -226,9 +226,9 @@ half enjoyment.
 
 
 
-Anne, satisfied at a very early period of Lady Russell’s meaning to
+Anne, satisfied at a very early period of [[Lady Russell]]’s meaning to
 
-love Captain Wentworth as she ought, had no other alloy to the
+[[Love|love]] [[Captain Wentworth]] as she ought, had no other alloy to the
 
 happiness of her prospects than what arose from the consciousness of
 
@@ -244,21 +244,21 @@ respectability, of harmony, of good will to offer in return for all the
 
 worth and all the prompt welcome which met her in his brothers and
 
-sisters, was a source of as lively pain as her mind could well be
+sisters, was a source of as lively [[Pain|pain]] as her mind could [[Well|well]] be
 
 sensible of under circumstances of otherwise strong felicity. She had
 
-but two friends in the world to add to his list, Lady Russell and Mrs
+but two friends in the world to add to his list, [[Lady Russell]] and Mrs
 
-Smith. To those, however, he was very well disposed to attach himself.
+[[smith|Smith]]. To those, however, he was very [[Well|well]] disposed to attach himself.
 
-Lady Russell, in spite of all her former transgressions, he could now
+[[Lady Russell]], in spite of all her former transgressions, he could now
 
 value from his heart. While he was not obliged to say that he believed
 
 her to have been right in originally dividing them, he was ready to say
 
-almost everything else in her favour, and as for Mrs Smith, she had
+almost everything else in her favour, and as for Mrs [[smith|Smith]], she had
 
 claims of various kinds to recommend her quickly and permanently.
 
@@ -266,7 +266,7 @@ claims of various kinds to recommend her quickly and permanently.
 
 Her recent good offices by Anne had been enough in themselves, and
 
-their marriage, instead of depriving her of one friend, secured her
+their [[Marriage|marriage]], instead of depriving her of one friend, secured her
 
 two. She was their earliest visitor in their settled life; and Captain
 
@@ -284,7 +284,7 @@ to his wife.
 
 
 
-Mrs Smith’s enjoyments were not spoiled by this improvement of income,
+Mrs [[smith|Smith]]’s enjoyments were not spoiled by this improvement of income,
 
 with some improvement of health, and the acquisition of such friends to
 
@@ -296,11 +296,11 @@ bid defiance even to greater accessions of worldly prosperity. She
 
 might have been absolutely rich and perfectly healthy, and yet be
 
-happy. Her spring of felicity was in the glow of her spirits, as her
+happy. Her [[spring]] of felicity was in the glow of her spirits, as her
 
 friend Anne’s was in the warmth of her heart. Anne was tenderness
 
-itself, and she had the full worth of it in Captain Wentworth’s
+itself, and she had the full worth of it in [[Captain Wentworth]]’s
 
 affection. His profession was all that could ever make her friends wish
 

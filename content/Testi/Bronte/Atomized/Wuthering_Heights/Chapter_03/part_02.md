@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 3 (part 2)"
+title: "[[Wuthering Heights]] — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -22,10 +22,10 @@ up another subject: she waxed lachrymose.
 
 “How little did I dream that Hindley would ever make me cry so!” she
 wrote. “My head aches, till I cannot keep it on the pillow; and still I
-can’t give over. Poor Heathcliff! Hindley calls him a vagabond, and
+can’t give over. Poor [[Heathcliff]]! Hindley calls him a vagabond, and
 won’t let him sit with us, nor eat with us any more; and, he says, he
 and I must not play together, and threatens to turn him out of the
-house if we break his orders. He has been blaming our father (how dared
+[[house]] if we break his orders. He has been blaming our father (how dared
 he?) for treating H. too liberally; and swears he will reduce him to
 his right place—”
 
@@ -39,16 +39,16 @@ Reverend Jabez Branderham, in the Chapel of Gimmerden Sough.” And while
 I was, half-consciously, worrying my brain to guess what Jabez
 Branderham would make of his subject, I sank back in bed, and fell
 asleep. Alas, for the effects of bad tea and bad temper! What else
-could it be that made me pass such a terrible night? I don’t remember
+could it be that made me pass such a terrible [[Night|night]]? I don’t remember
 another that I can at all compare with it since I was capable of
-suffering.
+[[Suffering|suffering]].
 
 I began to dream, almost before I ceased to be sensible of my locality.
-I thought it was morning; and I had set out on my way home, with Joseph
-for a guide. The snow lay yards deep in our road; and, as we floundered
+I thought it was morning; and I had set out on my way [[Home|home]], with Joseph
+for a guide. The [[Snow|snow]] lay yards deep in our [[Road|road]]; and, as we floundered
 on, my companion wearied me with constant reproaches that I had not
-brought a pilgrim’s staff: telling me that I could never get into the
-house without one, and boastfully flourishing a heavy-headed cudgel,
+brought a [[Pilgrim|pilgrim]]’s staff: telling me that I could never get into the
+[[house]] without one, and boastfully flourishing a heavy-headed cudgel,
 which I understood to be so denominated. For a moment I considered it
 absurd that I should need such a weapon to gain admittance into my own
 residence. Then a new idea flashed across me. I was not going there: we
@@ -62,7 +62,7 @@ thrice; it lies in a hollow, between two hills: an elevated hollow,
 near a swamp, whose peaty moisture is said to answer all the purposes
 of embalming on the few corpses deposited there. The roof has been kept
 whole hitherto; but as the clergyman’s stipend is only twenty pounds
-per annum, and a house with two rooms, threatening speedily to
+per annum, and a [[house]] with two rooms, threatening speedily to
 determine into one, no clergyman will undertake the duties of pastor:
 especially as it is currently reported that his flock would rather let
 him starve than increase the living by one penny from their own
@@ -94,14 +94,14 @@ more!”
 
 “_Thou art the Man!_” cried Jabez, after a solemn pause, leaning over
 his cushion. “Seventy times seven times didst thou gapingly contort thy
-visage—seventy times seven did I take counsel with my soul—Lo, this is
+visage—seventy times seven did I take counsel with my [[Soul|soul]]—Lo, this is
 human weakness: this also may be absolved! The First of the
 Seventy-First is come. Brethren, execute upon him the judgment written.
-Such honour have all His saints!”
+Such [[Honour|honour]] have all His saints!”
 
-With that concluding word, the whole assembly, exalting their pilgrim’s
-staves, rushed round me in a body; and I, having no weapon to raise in
-self-defence, commenced grappling with Joseph, my nearest and most
+With that concluding word, the whole assembly, exalting their [[Pilgrim|pilgrim]]’s
+staves, rushed round me in a [[Body|body]]; and I, having no weapon to raise in
+[[Self|self]]-defence, commenced grappling with Joseph, my nearest and most
 ferocious assailant, for his. In the confluence of the multitude,
 several clubs crossed; blows, aimed at me, fell on other sconces.
 Presently the whole chapel resounded with rappings and counter
@@ -116,11 +116,11 @@ listened doubtingly an instant; detected the disturber, then turned and
 dozed, and dreamt again: if possible, still more disagreeably than
 before.
 
-This time, I remembered I was lying in the oak closet, and I heard
-distinctly the gusty wind, and the driving of the snow; I heard, also,
+This [[Time|time]], I remembered I was lying in the oak closet, and I heard
+distinctly the gusty [[Wind|wind]], and the driving of the [[Snow|snow]]; I heard, also,
 the fir bough repeat its teasing sound, and ascribed it to the right
-cause: but it annoyed me so much, that I resolved to silence it, if
-possible; and, I thought, I rose and endeavoured to unhasp the
+cause: but it annoyed me so much, that I resolved to [[Silence|silence]] it, if
+possible; and, I thought, I [[Rose|rose]] and endeavoured to unhasp the
 casement. The hook was soldered into the staple: a circumstance
 observed by me when awake, but forgotten. “I must stop it,
 nevertheless!” I muttered, knocking my knuckles through the glass, and

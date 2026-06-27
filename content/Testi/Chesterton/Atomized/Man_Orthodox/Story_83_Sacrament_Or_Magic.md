@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Sacrament Or Magic"
+title: "Man Orthodox — Sacrament Or [[Magic]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-SACRAMENT OR MAGIC
+SACRAMENT OR [[Magic|MAGIC]]

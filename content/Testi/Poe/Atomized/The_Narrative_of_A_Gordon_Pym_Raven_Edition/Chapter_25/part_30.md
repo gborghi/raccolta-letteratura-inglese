@@ -74,9 +74,9 @@ tags:
 
       in calling attention to his gaudy-colored surtout. This, to say
 
-      the truth, must have cost him no little money, and was made to
+      the [[Truth|truth]], must have cost him no little money, and was made to
 
-      fit him exceedingly well—being fashioned from one of the
+      fit him exceedingly [[Well|well]]—being fashioned from one of the
 
       curiously embroidered silken covers appertaining to those
 
@@ -106,7 +106,7 @@ tags:
 
       wine-bibbing cast of his visage. A pair of prodigious ears,
 
-      nevertheless, which it was no doubt found impossible to confine,
+      nevertheless, which it was no [[Doubt|doubt]] found impossible to confine,
 
       towered away into the atmosphere of the apartment, and were
 
@@ -148,17 +148,17 @@ tags:
 
       Before each of the party lay a portion of a skull, which was used
 
-      as a drinking cup. Overhead was suspended a human skeleton, by
+      as a drinking cup. Overhead was suspended a human [[skeleton]], by
 
       means of a rope tied round one of the legs and fastened to a ring
 
       in the ceiling. The other limb, confined by no such fetter, stuck
 
-      off from the body at right angles, causing the whole loose and
+      off from the [[Body|body]] at right angles, causing the whole loose and
 
       rattling frame to dangle and twirl about at the caprice of every
 
-      occasional puff of wind which found its way into the apartment.
+      occasional puff of [[Wind|wind]] which found its way into the apartment.
 
       In the cranium of this hideous thing lay quantity of ignited
 

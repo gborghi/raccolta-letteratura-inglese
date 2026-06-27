@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 14 (part 1)"
+title: "[[Persuasion]] — Chapter 14 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -24,7 +24,7 @@ Though Charles and Mary had remained at Lyme much longer after Mr and
 
 Mrs Musgrove’s going than Anne conceived they could have been at all
 
-wanted, they were yet the first of the family to be at home again; and
+wanted, they were yet the first of the family to be at [[Home|home]] again; and
 
 as soon as possible after their return to Uppercross they drove over to
 
@@ -34,13 +34,13 @@ though clear, was exceedingly weak, and her nerves susceptible to the
 
 highest extreme of tenderness; and though she might be pronounced to be
 
-altogether doing very well, it was still impossible to say when she
+altogether doing very [[Well|well]], it was still impossible to say when she
 
-might be able to bear the removal home; and her father and mother, who
+might be able to bear the removal [[Home|home]]; and her father and mother, who
 
-must return in time to receive their younger children for the Christmas
+must return in [[Time|time]] to receive their younger children for the Christmas
 
-holidays, had hardly a hope of being allowed to bring her with them.
+holidays, had hardly a [[Hope|hope]] of being allowed to bring her with them.
 
 
 
@@ -88,21 +88,21 @@ very useful, had made really an agreeable fortnight.
 
 
 
-Anne enquired after Captain Benwick. Mary’s face was clouded directly.
+Anne enquired after [[Captain Benwick]]. Mary’s face was clouded directly.
 
 Charles laughed.
 
 
 
-“Oh! Captain Benwick is very well, I believe, but he is a very odd
+“Oh! [[Captain Benwick]] is very [[Well|well]], I believe, but he is a very odd
 
-young man. I do not know what he would be at. We asked him to come home
+young man. I do not know what he would be at. We asked him to come [[Home|home]]
 
 with us for a day or two: Charles undertook to give him some shooting,
 
 and he seemed quite delighted, and, for my part, I thought it was all
 
-settled; when behold! on Tuesday night, he made a very awkward sort of
+settled; when behold! on Tuesday [[Night|night]], he made a very awkward sort of
 
 excuse; ‘he never shot’ and he had ‘been quite misunderstood,’ and he
 
@@ -112,29 +112,29 @@ found, that he did not mean to come. I suppose he was afraid of finding
 
 it dull; but upon my word I should have thought we were lively enough
 
-at the Cottage for such a heart-broken man as Captain Benwick.”
+at the Cottage for such a heart-broken man as [[Captain Benwick]].”
 
 
 
-Charles laughed again and said, “Now Mary, you know very well how it
+Charles laughed again and said, “Now Mary, you know very [[Well|well]] how it
 
 really was. It was all your doing,” (turning to Anne). “He fancied that
 
 if he went with us, he should find you close by: he fancied everybody
 
-to be living in Uppercross; and when he discovered that Lady Russell
+to be living in Uppercross; and when he discovered that [[Lady Russell]]
 
-lived three miles off, his heart failed him, and he had not courage to
+lived three miles off, his heart failed him, and he had not [[Courage|courage]] to
 
-come. That is the fact, upon my honour. Mary knows it is.”
+come. That is the fact, upon my [[Honour|honour]]. Mary knows it is.”
 
 
 
 But Mary did not give into it very graciously, whether from not
 
-considering Captain Benwick entitled by birth and situation to be in
+considering [[Captain Benwick]] entitled by birth and situation to be in
 
-love with an Elliot, or from not wanting to believe Anne a greater
+[[Love|love]] with an Elliot, or from not wanting to believe Anne a greater
 
 attraction to Uppercross than herself, must be left to be guessed.
 
@@ -148,7 +148,7 @@ She boldly acknowledged herself flattered, and continued her enquiries.
 
 him. “I declare, Charles, I never heard him mention Anne twice all the
 
-time I was there. I declare, Anne, he never talks of you at all.”
+[[Time|time]] I was there. I declare, Anne, he never talks of you at all.”
 
 
 
@@ -170,7 +170,7 @@ was spoken of in the highest terms! Now Mary, I declare it was so, I
 
 heard it myself, and you were in the other room. ‘Elegance, sweetness,
 
-beauty.’ Oh! there was no end of Miss Elliot’s charms.”
+[[Beauty|beauty]].’ Oh! there was no end of Miss Elliot’s charms.”
 
 
 
@@ -178,13 +178,13 @@ beauty.’ Oh! there was no end of Miss Elliot’s charms.”
 
 credit, if he did. Miss Harville only died last June. Such a heart is
 
-very little worth having; is it, Lady Russell? I am sure you will agree
+very little worth having; is it, [[Lady Russell]]? I am sure you will agree
 
 with me.”
 
 
 
-“I must see Captain Benwick before I decide,” said Lady Russell,
+“I must see [[Captain Benwick]] before I decide,” said [[Lady Russell]],
 
 smiling.
 
@@ -198,15 +198,15 @@ setting off again afterwards to pay a formal visit here, he will make
 
 his way over to Kellynch one day by himself, you may depend on it. I
 
-told him the distance and the road, and I told him of the church’s
+told him the distance and the [[Road|road]], and I told him of the church’s
 
-being so very well worth seeing; for as he has a taste for those sort
+being so very [[Well|well]] worth seeing; for as he has a taste for those sort
 
 of things, I thought that would be a good excuse, and he listened with
 
-all his understanding and soul; and I am sure from his manner that you
+all his understanding and [[Soul|soul]]; and I am sure from his manner that you
 
-will have him calling here soon. So, I give you notice, Lady Russell.”
+will have him calling here soon. So, I give you notice, [[Lady Russell]].”
 
 
 
@@ -224,6 +224,6 @@ fortnight.”
 
 
 
-“Well, as your joint acquaintance, then, I shall be very happy to see
+“[[Well]], as your joint acquaintance, then, I shall be very happy to see
 
-Captain Benwick.”
+[[Captain Benwick]].”

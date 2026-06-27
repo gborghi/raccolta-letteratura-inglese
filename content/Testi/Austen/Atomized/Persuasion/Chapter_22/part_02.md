@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 22 (part 2)"
+title: "[[Persuasion]] — Chapter 22 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -18,7 +18,7 @@ father and Elizabeth; to consider the various sources of mortification
 
 preparing for them! Mrs Clay’s selfishness was not so complicate nor so
 
-revolting as his; and Anne would have compounded for the marriage at
+revolting as his; and Anne would have compounded for the [[Marriage|marriage]] at
 
 once, with all its evils, to be clear of Mr Elliot’s subtleties in
 
@@ -26,7 +26,7 @@ endeavouring to prevent it.
 
 
 
-On Friday morning she meant to go very early to Lady Russell, and
+On Friday morning she meant to go very early to [[Lady Russell]], and
 
 accomplish the necessary communication; and she would have gone
 
@@ -42,23 +42,23 @@ in Rivers Street.
 
 
 
-“Very well,” said Elizabeth, “I have nothing to send but my love. Oh!
+“Very [[Well|well]],” said Elizabeth, “I have nothing to send but my [[Love|love]]. Oh!
 
-you may as well take back that tiresome book she would lend me, and
+you may as [[Well|well]] take back that tiresome book she would lend me, and
 
 pretend I have read it through. I really cannot be plaguing myself for
 
-ever with all the new poems and states of the nation that come out.
+ever with all the new [[Poems|poems]] and states of the nation that come out.
 
-Lady Russell quite bores one with her new publications. You need not
+[[Lady Russell]] quite bores one with her new publications. You need not
 
-tell her so, but I thought her dress hideous the other night. I used to
+tell her so, but I thought her dress hideous the other [[Night|night]]. I used to
 
 think she had some taste in dress, but I was ashamed of her at the
 
 concert. Something so formal and _arrangé_ in her air! and she sits so
 
-upright! My best love, of course.”
+upright! My best [[Love|love]], of course.”
 
 
 
@@ -66,11 +66,11 @@ upright! My best love, of course.”
 
 mean to call upon her soon. Make a civil message; but I shall only
 
-leave my card. Morning visits are never fair by women at her time of
+leave my card. Morning visits are never fair by women at her [[Time|time]] of
 
 life, who make themselves up so little. If she would only wear rouge
 
-she would not be afraid of being seen; but last time I called, I
+she would not be afraid of being seen; but last [[Time|time]] I called, I
 
 observed the blinds were let down immediately.”
 
@@ -96,9 +96,9 @@ they could put on a decent air of welcome; and as soon as it became
 
 clear that these, their nearest relations, were not arrived with any
 
-views of accommodation in that house, Sir Walter and Elizabeth were
+views of accommodation in that [[house]], Sir Walter and Elizabeth were
 
-able to rise in cordiality, and do the honours of it very well. They
+able to rise in cordiality, and do the honours of it very [[Well|well]]. They
 
 were come to Bath for a few days with Mrs Musgrove, and were at the
 
@@ -108,11 +108,11 @@ Elizabeth were walking Mary into the other drawing-room, and regaling
 
 themselves with her admiration, Anne could not draw upon Charles’s
 
-brain for a regular history of their coming, or an explanation of some
+brain for a regular [[history]] of their coming, or an explanation of some
 
 smiling hints of particular business, which had been ostentatiously
 
-dropped by Mary, as well as of some apparent confusion as to whom their
+dropped by Mary, as [[Well|well]] as of some apparent confusion as to whom their
 
 party consisted of.
 
@@ -150,9 +150,9 @@ it ended in being his mother’s party, that everything might be
 
 comfortable and easy to Captain Harville; and he and Mary were included
 
-in it by way of general convenience. They had arrived late the night
+in it by way of general convenience. They had arrived late the [[Night|night]]
 
-before. Mrs Harville, her children, and Captain Benwick, remained with
+before. Mrs Harville, her children, and [[Captain Benwick]], remained with
 
 Mr Musgrove and Louisa at Uppercross.
 
@@ -162,7 +162,7 @@ Anne’s only surprise was, that affairs should be in forwardness enough
 
 for Henrietta’s wedding-clothes to be talked of. She had imagined such
 
-difficulties of fortune to exist there as must prevent the marriage
+difficulties of fortune to exist there as must prevent the [[Marriage|marriage]]
 
 from being near at hand; but she learned from Charles that, very
 
@@ -176,7 +176,7 @@ present income, with almost a certainty of something more permanent
 
 long before the term in question, the two families had consented to the
 
-young people’s wishes, and that their marriage was likely to take place
+young people’s wishes, and that their [[Marriage|marriage]] was likely to take place
 
 in a few months, quite as soon as Louisa’s. “And a very good living it
 
@@ -198,12 +198,12 @@ recommendation. Not that he will value it as he ought,” he observed,
 
 “I am extremely glad, indeed,” cried Anne, “particularly glad that this
 
-should happen; and that of two sisters, who both deserve equally well,
+should happen; and that of two sisters, who both deserve equally [[Well|well]],
 
 and who have always been such good friends, the pleasant prospect of
 
 one should not be dimming those of the other—that they should be so
 
-equal in their prosperity and comfort. I hope your father and mother
+equal in their prosperity and comfort. I [[Hope|hope]] your father and mother
 
 are quite happy with regard to both.”

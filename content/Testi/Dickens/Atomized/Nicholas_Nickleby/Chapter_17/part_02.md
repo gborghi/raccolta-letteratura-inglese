@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 17 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘And what about the cash, my existence’s jewel?’ said Mantalini, when
+‘And what about the cash, my existence’s [[Jewel|jewel]]?’ said Mantalini, when
 these endearments ceased. ‘How much have we in hand?’
 
 ‘Very little indeed,’ replied Madame.
@@ -24,14 +24,14 @@ out of old Nickleby to carry on the war with, demmit.’
 
 ‘You can’t want any more just now,’ said Madame coaxingly.
 
-‘My life and soul,’ returned her husband, ‘there is a horse for sale
+‘My life and [[Soul|soul]],’ returned her husband, ‘there is a [[Horse|horse]] for sale
 at Scrubbs’s, which it would be a sin and a crime to lose--going, my
 senses’ joy, for nothing.’
 
 ‘For nothing,’ cried Madame, ‘I am glad of that.’
 
 ‘For actually nothing,’ replied Mantalini. ‘A hundred guineas down will
-buy him; mane, and crest, and legs, and tail, all of the demdest beauty.
+buy him; mane, and crest, and legs, and tail, all of the demdest [[Beauty|beauty]].
 I will ride him in the park before the very chariots of the rejected
 countesses. The demd old dowager will faint with grief and rage; the
 other two will say “He is married, he has made away with himself, it
@@ -43,13 +43,13 @@ triumphal pictures; after a little jingling of keys, she observed that
 she would see what her desk contained, and rising for that purpose,
 opened the folding-door, and walked into the room where Kate was seated.
 
-‘Dear me, child!’ exclaimed Madame Mantalini, recoiling in surprise.
+‘Dear me, [[Child|child]]!’ exclaimed Madame Mantalini, recoiling in surprise.
 ‘How came you here?’
 
-‘Child!’ cried Mantalini, hurrying in. ‘How came--eh!--oh--demmit, how
+‘[[Child]]!’ cried Mantalini, hurrying in. ‘How came--eh!--oh--demmit, how
 d’ye do?’
 
-‘I have been waiting, here some time, ma’am,’ said Kate, addressing
+‘I have been waiting, here some [[Time|time]], ma’am,’ said Kate, addressing
 Madame Mantalini. ‘The servant must have forgotten to let you know that
 I was here, I think.’
 
@@ -57,11 +57,11 @@ I was here, I think.’
 ‘He forgets everything.’
 
 ‘I will twist his demd nose off his countenance for leaving such a very
-pretty creature all alone by herself,’ said her husband.
+pretty creature all [[Alone|alone]] by herself,’ said her husband.
 
 ‘Mantalini,’ cried Madame, ‘you forget yourself.’
 
-‘I don’t forget you, my soul, and never shall, and never can,’ said
+‘I don’t forget you, my [[Soul|soul]], and never shall, and never can,’ said
 Mantalini, kissing his wife’s hand, and grimacing aside, to Miss
 Nickleby, who turned away.
 
@@ -103,7 +103,7 @@ Miss Nickleby to come into the show-room with you, and try things on for
 people,’ said Madame Mantalini. ‘She will not be able for the present to
 be of much use in any other way; and her appearance will--’
 
-‘Suit very well with mine, Madame Mantalini,’ interrupted Miss Knag. ‘So
+‘Suit very [[Well|well]] with mine, Madame Mantalini,’ interrupted Miss Knag. ‘So
 it will; and to be sure I might have known that you would not be long in
 finding that out; for you have so much taste in all those matters, that
 really, as I often say to the young ladies, I do not know how, when, or
@@ -122,14 +122,14 @@ can imagine.’
 ‘They must have had something of the appearance of club feet, Miss
 Knag,’ said Madame.
 
-‘Well now, that is so like you,’ returned Miss Knag, ‘Ha! ha! ha! Of
-club feet! Oh very good! As I often remark to the young ladies, “Well
+‘[[Well]] now, that is so like you,’ returned Miss Knag, ‘Ha! ha! ha! Of
+club feet! Oh very good! As I often remark to the young ladies, “[[Well]]
 I must say, and I do not care who knows it, of all the ready
-humour--hem--I ever heard anywhere”--and I have heard a good deal; for
-when my dear brother was alive (I kept house for him, Miss Nickleby), we
+[[Humour|humour]]--hem--I ever heard anywhere”--and I have heard a good deal; for
+when my dear brother was alive (I kept [[house]] for him, Miss Nickleby), we
 had to supper once a week two or three young men, highly celebrated
-in those days for their humour, Madame Mantalini--“Of all the ready
-humour,” I say to the young ladies, “I ever heard, Madame Mantalini’s
+in those days for their [[Humour|humour]], Madame Mantalini--“Of all the ready
+[[Humour|humour]],” I say to the young ladies, “I ever heard, Madame Mantalini’s
 is the most remarkable--hem. It is so gentle, so sarcastic, and yet so
 good-natured (as I was observing to Miss Simmonds only this morning),
 that how, or when, or by what means she acquired it, is to me a mystery

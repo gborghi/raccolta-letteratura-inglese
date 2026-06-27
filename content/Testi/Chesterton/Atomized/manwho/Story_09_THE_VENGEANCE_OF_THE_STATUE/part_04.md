@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE VENGEANCE OF THE STATUE (part 4)"
+title: "[[manwho]] — THE VENGEANCE OF THE STATUE (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -34,9 +34,9 @@ knows?"
 
 "My uncle has the papers safe enough," replied Fisher, "and is
 
-sending them west to-night; but somebody is trying to get at them
+sending them west to-[[Night|night]]; but somebody is trying to get at them
 
-from outside, I fear with the assistance of somebody inside. All
+from outside, I [[Fear|fear]] with the assistance of somebody inside. All
 
 I can do at present is to try to head off the man outside; and I
 
@@ -46,25 +46,25 @@ hours. While I'm away I want you to keep an eye on these people and
 
 find out what you can. Au revoir." He vanished down the stairs; and
 
-from the window March could see him mount a motor cycle and trail
+from the [[Window|window]] March could see him mount a motor cycle and trail
 
 away toward the neighboring town.
 
 
 
-On the following morning, March was sitting in the window seat of
+On the following morning, March was sitting in the [[Window|window]] seat of
 
 the old inn parlor, which was oak-paneled and ordinarily rather
 
 dark; but on that occasion it was full of the white light of a
 
-curiously clear morning--the moon had shone brilliantly for the
+curiously clear morning--the [[Moon|moon]] had shone brilliantly for the
 
-last two or three nights. He was himself somewhat in shadow in the
+last two or three nights. He was himself somewhat in [[Shadow|shadow]] in the
 
-corner of the window seat; and Lord James Herries, coming in hastily
+corner of the [[Window|window]] seat; and Lord James Herries, coming in hastily
 
-from the garden behind, did not see him. Lord James clutched the
+from the [[Garden|garden]] behind, did not see him. Lord James clutched the
 
 back of a chair, as if to steady himself, and, sitting down abruptly
 
@@ -72,7 +72,7 @@ at the table, littered with the last meal, poured himself out a
 
 tumbler of brandy and drank it. He sat with his back to March, but
 
-his yellow face appeared in a round mirror beyond and the tinge of it
+his yellow face appeared in a round [[Mirror|mirror]] beyond and the tinge of it
 
 was like that of some horrible malady. As March moved he started
 
@@ -86,7 +86,7 @@ violently and faced round.
 
 "Outside?" repeated the other, glancing over his shoulder at the
 
-garden.
+[[Garden|garden]].
 
 
 
@@ -100,11 +100,11 @@ He turned his back again and sat down with a thud; his square
 
 shoulders were shaking. Harold March darted out of the doorway into
 
-the back garden with its steep slope of statues.
+the back [[Garden|garden]] with its steep slope of statues.
 
 
 
-The first thing he saw was Doctor Prince, the detective, peering
+The first thing he saw was Doctor Prince, the [[Detective|detective]], peering
 
 through his spectacles at something on the ground; the second was
 
@@ -116,7 +116,7 @@ heard inside, the sight was something of a sensation.
 
 The monstrous stone image of Britannia was lying prone and face
 
-downward on the garden path; and there stuck out at random from
+downward on the [[Garden|garden]] path; and there stuck out at random from
 
 underneath it, like the legs of a smashed fly, an arm clad in a
 
@@ -124,9 +124,9 @@ white shirt sleeve and a leg clad in a khaki trouser, and hair of
 
 the unmistakable sandy gray that belonged to Horne Fisher's
 
-unfortunate uncle. There were pools of blood and the limbs were
+unfortunate uncle. There were pools of [[Blood|blood]] and the limbs were
 
-quite stiff in death.
+quite stiff in [[Death|death]].
 
 
 
@@ -148,7 +148,7 @@ there on the bank, with the great slash in it."
 
 
 
-"But wait a minute," said the detective, Prince, quietly. "In that
+"But wait a minute," said the [[Detective|detective]], Prince, quietly. "In that
 
 case there seems to be something of a mystery. A murderer might
 
@@ -164,7 +164,7 @@ down as he walked past, using the statue as a stone club, then
 
 lifted it up again, took him out and deprived him of his coat, then
 
-put him back again in the posture of death and neatly replaced the
+put him back again in the posture of [[Death|death]] and neatly replaced the
 
 statue. I tell you it's physically impossible. And how else could he
 
@@ -184,9 +184,9 @@ corpse?" asked March.
 
 "And why?" asked Prince, sharply.  "If he'd killed his man and got
 
-his papers, he'd be away like the wind. He wouldn't potter about in
+his papers, he'd be away like the [[Wind|wind]]. He wouldn't potter about in
 
-a garden excavating the pedestals of statues. Besides--Hullo, who's
+a [[Garden|garden]] excavating the pedestals of statues. Besides--Hullo, who's
 
 that up there?"
 
@@ -210,17 +210,17 @@ with an agitated movement so abrupt as almost to be called an antic.
 
 The next moment the man seemed to reconsider and collect himself,
 
-and began to come down the zigzag garden path, but with obvious
+and began to come down the zigzag [[Garden|garden]] path, but with obvious
 
 reluctance, his feet falling in slower and slower rhythm. Through
 
 March's mind were throbbing the phrases that this man himself had
 
-used, about going mad in the middle of the night and wrecking the
+used, about going mad in the middle of the [[Night|night]] and wrecking the
 
 stone figure. Just so, he could fancy, the maniac who had done such
 
-a thing might climb the crest of the hill, in that feverish dancing
+a thing might climb the crest of the [[Hill|hill]], in that feverish dancing
 
 fashion, and look down on the wreck he had made. But the wreck he
 
@@ -228,11 +228,11 @@ had made here was not only a wreck of stone.
 
 
 
-When the man emerged at last on to the garden path, with the full
+When the man emerged at last on to the [[Garden|garden]] path, with the full
 
 light on his face and figure, he was walking slowly indeed, but
 
-easily, and with no appearance of fear.
+easily, and with no appearance of [[Fear|fear]].
 
 
 

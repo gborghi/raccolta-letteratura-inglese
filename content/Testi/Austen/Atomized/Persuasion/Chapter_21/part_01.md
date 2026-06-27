@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 21 (part 1)"
+title: "[[Persuasion]] — Chapter 21 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER XXI.
 
 Anne recollected with pleasure the next morning her promise of going to
 
-Mrs Smith, meaning that it should engage her from home at the time when
+Mrs [[smith|Smith]], meaning that it should engage her from [[Home|home]] at the [[Time|time]] when
 
 Mr Elliot would be most likely to call; for to avoid Mr Elliot was
 
@@ -44,25 +44,25 @@ sentiments, by his early prepossession. It was altogether very
 
 extraordinary; flattering, but painful. There was much to regret. How
 
-she might have felt had there been no Captain Wentworth in the case,
+she might have felt had there been no [[Captain Wentworth]] in the case,
 
-was not worth enquiry; for there was a Captain Wentworth; and be the
+was not worth enquiry; for there was a [[Captain Wentworth]]; and be the
 
 conclusion of the present suspense good or bad, her affection would be
 
-his for ever. Their union, she believed, could not divide her more from
+his for ever. Their [[Union|union]], she believed, could not divide her more from
 
 other men, than their final separation.
 
 
 
-Prettier musings of high-wrought love and eternal constancy, could
+Prettier musings of high-wrought [[Love|love]] and eternal constancy, could
 
 never have passed along the streets of Bath, than Anne was sporting
 
 with from Camden Place to Westgate Buildings. It was almost enough to
 
-spread purification and perfume all the way.
+spread [[Purification|purification]] and perfume all the way.
 
 
 
@@ -82,17 +82,17 @@ features and make her rejoice to talk of it. All that she could tell
 
 she told most gladly, but the all was little for one who had been
 
-there, and unsatisfactory for such an enquirer as Mrs Smith, who had
+there, and unsatisfactory for such an enquirer as Mrs [[smith|Smith]], who had
 
 already heard, through the short cut of a laundress and a waiter,
 
-rather more of the general success and produce of the evening than Anne
+rather more of the general [[success]] and produce of the evening than Anne
 
 could relate, and who now asked in vain for several particulars of the
 
-company. Everybody of any consequence or notoriety in Bath was well
+company. Everybody of any consequence or notoriety in Bath was [[Well|well]]
 
-know by name to Mrs Smith.
+know by name to Mrs [[smith|Smith]].
 
 
 
@@ -134,7 +134,7 @@ grandeur, round the orchestra, of course.”
 
 in every respect. But happily Lady Dalrymple always chooses to be
 
-farther off; and we were exceedingly well placed, that is, for hearing;
+farther off; and we were exceedingly [[Well|well]] placed, that is, for hearing;
 
 I must not say for seeing, because I appear to have seen very little.”
 
@@ -174,9 +174,9 @@ Anne half smiled and said, “Do you see that in my eye?”
 
 “Yes, I do. Your countenance perfectly informs me that you were in
 
-company last night with the person whom you think the most agreeable in
+company last [[Night|night]] with the person whom you think the most agreeable in
 
-the world, the person who interests you at this present time more than
+the world, the person who interests you at this present [[Time|time]] more than
 
 all the rest of the world put together.”
 
@@ -186,13 +186,13 @@ A blush overspread Anne’s cheeks. She could say nothing.
 
 
 
-“And such being the case,” continued Mrs Smith, after a short pause, “I
+“And such being the case,” continued Mrs [[smith|Smith]], after a short pause, “I
 
-hope you believe that I do know how to value your kindness in coming to
+[[Hope|hope]] you believe that I do know how to value your kindness in coming to
 
 me this morning. It is really very good of you to come and sit with me,
 
-when you must have so many pleasanter demands upon your time.”
+when you must have so many pleasanter demands upon your [[Time|time]].”
 
 
 
@@ -200,13 +200,13 @@ Anne heard nothing of this. She was still in the astonishment and
 
 confusion excited by her friend’s penetration, unable to imagine how
 
-any report of Captain Wentworth could have reached her. After another
+any report of [[Captain Wentworth]] could have reached her. After another
 
-short silence—
+short [[Silence|silence]]—
 
 
 
-“Pray,” said Mrs Smith, “is Mr Elliot aware of your acquaintance with
+“Pray,” said Mrs [[smith|Smith]], “is Mr Elliot aware of your acquaintance with
 
 me? Does he know that I am in Bath?”
 
@@ -216,13 +216,13 @@ me? Does he know that I am in Bath?”
 
 shewed her the mistake she had been under. She caught it
 
-instantaneously; and recovering her courage with the feeling of safety,
+instantaneously; and recovering her [[Courage|courage]] with the feeling of safety,
 
 soon added, more composedly, “Are you acquainted with Mr Elliot?”
 
 
 
-“I have been a good deal acquainted with him,” replied Mrs Smith,
+“I have been a good deal acquainted with him,” replied Mrs [[smith|Smith]],
 
 gravely, “but it seems worn out now. It is a great while since we met.”
 
@@ -234,7 +234,7 @@ known it, I would have had the pleasure of talking to him about you.”
 
 
 
-“To confess the truth,” said Mrs Smith, assuming her usual air of
+“To confess the [[Truth|truth]],” said Mrs [[smith|Smith]], assuming her usual air of
 
 cheerfulness, “that is exactly the pleasure I want you to have. I want
 
@@ -248,7 +248,7 @@ done.”
 
 
 
-“I should be extremely happy; I hope you cannot doubt my willingness to
+“I should be extremely happy; I [[Hope|hope]] you cannot [[Doubt|doubt]] my willingness to
 
 be of even the slightest use to you,” replied Anne; “but I suspect that
 

@@ -1,5 +1,5 @@
 ---
-title: "MrPond — A Tall Story (part 6)"
+title: "[[MrPond]] — A Tall Story (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -28,15 +28,15 @@ mother.  Your son is not mad."
 
 He looked more judicial, and even severe, when he next sat in
 
-consultation with Mr. Butt, Sir Hubert Wotton, and Inspector Grote,
+consultation with Mr. Butt, Sir [[Hubert]] Wotton, and Inspector Grote,
 
-the leading detective of the district.
+the leading [[Detective|detective]] of the district.
 
 "What it comes to is this," said Mr. Pond, very sternly: "that you
 
 do not really know the story of Puss-in-Boots.  And they talk about
 
-this as an epoch of Education."
+this as an epoch of [[Education]]."
 
 "Oh, I know it's about a clever cat and all the rest of it," said
 
@@ -52,7 +52,7 @@ first there was something wrong about that bit of scaffolding round
 
 the door; but I soon saw it was far too low and small for anybody
 
-to climb up to the window by it.  But, of course, if we're talking
+to climb up to the [[Window|window]] by it.  But, of course, if we're talking
 
 about a really clever cat burglar, there's always some chance that--"
 
@@ -60,7 +60,7 @@ about a really clever cat burglar, there's always some chance that--"
 
 any burglar, any more than any cat, load himself with a gigantic
 
-knife rather bigger than a garden spade?  Nobody carries a gigantic
+knife rather bigger than a [[Garden|garden]] spade?  Nobody carries a gigantic
 
 knife except a giant.  This crime was committed by a giant."
 
@@ -70,7 +70,7 @@ rebuke:
 
 "What I remark upon, what I regret and regard as symptomatic of
 
-serious intellectual decay, is that you apparently do not know that
+serious intellectual [[Decay|decay]], is that you apparently do not know that
 
 the story of Puss-in-Boots includes a giant.  He is also a
 
@@ -78,7 +78,7 @@ magician; but he is always depicted, in pictures and pantomimes, as
 
 an ogre with a large knife.  Signor Alberto Tizzi, that somewhat
 
-dubious foreign artist, enacts the part on the pier by the usual
+dubious foreign [[Artist|artist]], enacts the part on the pier by the usual
 
 expedient of walking on very high stilts, covered by very long
 
@@ -86,21 +86,21 @@ trousers.  But he sometimes walks about on the stilts and dispenses
 
 with the trousers; taking a walk through the almost entirely
 
-deserted streets at night.  Just round here, especially, the
+deserted streets at [[Night|night]].  Just round here, especially, the
 
 chances are against his being even seen; all the big houses are
 
 shut up, except ours and Mrs. Hartog-Haggard's, which only looks on
 
-the street through a landing window; through which her little boy
+the street through a landing [[Window|window]]; through which her little boy
 
 (probably in his nightgown) peered and beheld a real ogre, with a
 
 great gory knife, and, perhaps, a great grinning mask, walking
 
-majestically under the moon--rather a fine sight to put among the
+majestically under the [[Moon|moon]]--rather a fine sight to put among the
 
-memories of childhood.  For the rest, all the poor houses are low
+memories of [[Childhood|childhood]].  For the rest, all the poor houses are low
 
 houses of one storey; and the people would see nothing but his
 
@@ -124,9 +124,9 @@ ledge or roof or other upper level.  So he left them standing
 
 outside our doorway, among the poles of the little scaffolding,
 
-while he climbed in at the upper window and killed poor Travers."
+while he climbed in at the upper [[Window|window]] and killed poor Travers."
 
-"If you are sure of this," cried Sir Hubert Wotton, starting to his
+"If you are sure of this," cried Sir [[Hubert]] Wotton, starting to his
 
 feet hastily, "you ought to act on it at once!"
 
@@ -146,9 +146,9 @@ But he sighed again.
 
 after, "though we did manage to save the secret plans, the incident
 
-was much more of a tragedy than a triumph.  And what I most
+was much more of a [[Tragedy|tragedy]] than a triumph.  And what I most
 
-intensely disliked about the tragedy was the irony--what I believe
+intensely disliked about the [[Tragedy|tragedy]] was the irony--what I believe
 
 is called the tragic irony, or, alternatively, the Greek irony.  We
 

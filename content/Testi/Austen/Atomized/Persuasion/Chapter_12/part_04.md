@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 12 (part 4)"
+title: "[[Persuasion]] — Chapter 12 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -18,7 +18,7 @@ heaven’s name, is to be done next?”
 
 
 
-Captain Wentworth’s eyes were also turned towards her.
+[[Captain Wentworth]]’s eyes were also turned towards her.
 
 
 
@@ -28,7 +28,7 @@ gently to the inn.”
 
 
 
-“Yes, yes, to the inn,” repeated Captain Wentworth, comparatively
+“Yes, yes, to the inn,” repeated [[Captain Wentworth]], comparatively
 
 collected, and eager to be doing something. “I will carry her myself.
 
@@ -36,7 +36,7 @@ Musgrove, take care of the others.”
 
 
 
-By this time the report of the accident had spread among the workmen
+By this [[Time|time]] the report of the accident had spread among the workmen
 
 and boatmen about the Cobb, and many were collected near them, to be
 
@@ -60,7 +60,7 @@ had passed along.
 
 They were not off the Cobb, before the Harvilles met them. Captain
 
-Benwick had been seen flying by their house, with a countenance which
+Benwick had been seen flying by their [[house]], with a countenance which
 
 showed something to be wrong; and they had set off immediately,
 
@@ -70,9 +70,9 @@ Captain Harville was, he brought senses and nerves that could be
 
 instantly useful; and a look between him and his wife decided what was
 
-to be done. She must be taken to their house; all must go to their
+to be done. She must be taken to their [[house]]; all must go to their
 
-house; and await the surgeon’s arrival there. They would not listen to
+[[house]]; and await the surgeon’s arrival there. They would not listen to
 
 scruples: he was obeyed; they were all beneath his roof; and while
 
@@ -90,9 +90,9 @@ apparent consciousness. This had been a proof of life, however, of
 
 service to her sister; and Henrietta, though perfectly incapable of
 
-being in the same room with Louisa, was kept, by the agitation of hope
+being in the same room with Louisa, was kept, by the agitation of [[Hope|hope]]
 
-and fear, from a return of her own insensibility. Mary, too, was
+and [[Fear|fear]], from a return of her own insensibility. Mary, too, was
 
 growing calmer.
 
@@ -110,7 +110,7 @@ recovered from: he was by no means hopeless; he spoke cheerfully.
 
 That he did not regard it as a desperate case, that he did not say a
 
-few hours must end it, was at first felt, beyond the hope of most; and
+few hours must end it, was at first felt, beyond the [[Hope|hope]] of most; and
 
 the ecstasy of such a reprieve, the rejoicing, deep and silent, after a
 
@@ -128,7 +128,7 @@ of him afterwards, as he sat near a table, leaning over it with folded
 
 arms and face concealed, as if overpowered by the various feelings of
 
-his soul, and trying by prayer and reflection to calm them.
+his [[Soul|soul]], and trying by [[Prayer|prayer]] and reflection to calm them.
 
 
 
@@ -144,17 +144,17 @@ each other and consult. That Louisa must remain where she was, however
 
 distressing to her friends to be involving the Harvilles in such
 
-trouble, did not admit a doubt. Her removal was impossible. The
+trouble, did not admit a [[Doubt|doubt]]. Her removal was impossible. The
 
 Harvilles silenced all scruples; and, as much as they could, all
 
 gratitude. They had looked forward and arranged everything before the
 
-others began to reflect. Captain Benwick must give up his room to them,
+others began to reflect. [[Captain Benwick]] must give up his room to them,
 
 and get another bed elsewhere; and the whole was settled. They were
 
-only concerned that the house could accommodate no more; and yet
+only concerned that the [[house]] could accommodate no more; and yet
 
 perhaps, by “putting the children away in the maid’s room, or swinging
 
@@ -166,19 +166,19 @@ with regard to any attendance on Miss Musgrove, there need not be the
 
 least uneasiness in leaving her to Mrs Harville’s care entirely. Mrs
 
-Harville was a very experienced nurse, and her nursery-maid, who had
+Harville was a very experienced [[Nurse|nurse]], and her nursery-maid, who had
 
 lived with her long, and gone about with her everywhere, was just such
 
 another. Between these two, she could want no possible attendance by
 
-day or night. And all this was said with a truth and sincerity of
+day or [[Night|night]]. And all this was said with a [[Truth|truth]] and sincerity of
 
 feeling irresistible.
 
 
 
-Charles, Henrietta, and Captain Wentworth were the three in
+Charles, Henrietta, and [[Captain Wentworth]] were the three in
 
 consultation, and for a little while it was only an interchange of
 
@@ -190,9 +190,9 @@ and Mrs Musgrove; the lateness of the morning; an hour already gone
 
 since they ought to have been off; the impossibility of being in
 
-tolerable time.” At first, they were capable of nothing more to the
+tolerable [[Time|time]].” At first, they were capable of nothing more to the
 
-purpose than such exclamations; but, after a while, Captain Wentworth,
+purpose than such exclamations; but, after a while, [[Captain Wentworth]],
 
 exerting himself, said—
 
@@ -224,4 +224,4 @@ was forced to acknowledge that she could do no good, yet was still
 
 unwilling to be away, till, touched by the thought of her father and
 
-mother, she gave it up; she consented, she was anxious to be at home.
+mother, she gave it up; she consented, she was anxious to be at [[Home|home]].

@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 8 (part 1)"
+title: "[[GKC-Autobiography]] — Chapter 8 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -23,18 +23,18 @@ in Fleet Street is a mystery; at least it is still a mystery to me.
 It used to be said by critics that falling on my feet was only
 a preliminary to standing on my head.  But in fact Fleet Street,
 not to mention my head, was a rather seasick and earthquaky sort
-of thing to stand on.  On the whole, I think I owe my success
+of thing to stand on.  On the whole, I think I owe my [[success]]
 (as the millionaires say) to having listened respectfully and
 rather bashfully to the very best advice, given by all the best
-journalists who had achieved the best sort of success in journalism;
+journalists who had achieved the best sort of [[success]] in journalism;
 and then going away and doing the exact opposite.  For what they
-all told me was that the secret of success in journalism was to
+all told me was that the secret of [[success]] in journalism was to
 study the particular journal and write what was suitable to it.
 And, partly by accident and ignorance and partly through the real
 rabid certainties of youth, I cannot remember that I ever wrote
 any article that was at all suitable to any paper.
 
-On the contrary, I think I became a sort of comic success by contrast.
+On the contrary, I think I became a sort of comic [[success]] by contrast.
 I have a notion that the real advice I could give to a young journalist,
 now that I am myself an old journalist, is simply this:  to write
 an article for the Sporting Times and another for the Church Times,
@@ -46,7 +46,7 @@ and all the clergymen would go about saying to each other, "Rattling good
 writing on some of our religious papers; very witty fellow."
 This is perhaps a little faint and fantastic as a theory;
 but it is the only theory upon which I can explain my own undeserved
-survival in the journalistic squabble of the old Fleet Street.
+[[Survival|survival]] in the journalistic squabble of the old Fleet Street.
 I wrote on a Nonconformist organ like the old Daily News
 and told them all about French cafés and Catholic cathedrals;
 and they loved it, because they had never heard of them before.
@@ -67,17 +67,17 @@ of Fleet Street.  But Fleet Street itself was full of such accidents;
 it might have been called the Street of Accident, as a man whom I am proud
 to have first met there afterwards called it the Street of Adventure.
 Philip Gibbs himself accentuated that intellectual incongruity
-which was the comedy of the place; he carried a curious air of being
+which was the [[Comedy|comedy]] of the place; he carried a curious air of being
 the right man in the wrong place.  His fine falcon face, with its
 almost unearthly refinement, seemed set in a sort of fastidious
-despair about ever making it the right place.  This was long before
+[[Despair|despair]] about ever making it the right place.  This was long before
 he gained his great distinctions as a war correspondent; but he dealt
 in the same detached way with the other great wars in the past.
 He had been studying the struggle between the great men of
-the French Revolution; and had concentrated on what seemed to me
+the [[French Revolution]]; and had concentrated on what seemed to me
 an unbalanced yet delicate detestation of Camille Desmoulins.
 He summoned him before a tribunal of earnest talk, in my presence;
-and all the time he was talking, I thought how like he looked
+and all the [[Time|time]] he was talking, I thought how like he looked
 to those high-minded, hatchet-faced, hard humanitarian idealists
 among the great revolutionists whom he criticised.  David should
 have painted his profile.  I begin with that impression of Gibbs
@@ -89,10 +89,10 @@ which has since been destroyed, not by the idealism of detachment,
 but by the materialism of machinery.  A newspaper proprietor
 in later years assured me that it was a slander on journalism
 to tell all these tales about taverns and ragged pressmen and work
-and recreation coming at random at all hours of the night.
+and recreation coming at random at all hours of the [[Night|night]].
 "A newspaper office is now exactly like any other place of business,"
 he said with a radiant smile; and I agreed with a groan.
-The very name of Bohemia has faded from the map of London as it
+The very name of Bohemia has faded from the map of [[London]] as it
 has faded from the map of Europe.  I have never understood why
 the new diplomacy abandoned that old and noble national name,
 which was among the things that were not lost on Mohacs Field;
@@ -100,7 +100,7 @@ but it would seem that in both cases the best things are lost in victory
 and not in defeat.  At least I know that I should have been annoyed if,
 in order to gain with doubtful judgment another strip of territory,
 I had been suddenly asked to talk about England as West Saxony;
-and that is what has happened to the long epic of Serbia, now described
+and that is what has happened to the long [[Epic|epic]] of Serbia, now described
 as North Slavia.  I remember when it was announced that Bohemia was
 to cease to exist, at the very moment when it came into existence.
 It was to be called Czechoslovakia; and I went about asking people
@@ -118,7 +118,7 @@ of any successful moneylender or moderately fraudulent financier.
 To such persons, it will indeed seem idle if I recall that the old
 taverns in which men drank, or the old courts in which they starved,
 were often full of starving poets and drunken scholars; and all sorts
-of perverse personalities who sometimes even tried to tell the truth;
+of perverse personalities who sometimes even tried to tell the [[Truth|truth]];
 men of the type of old Crosland, that queer cantankerous man,
 who hated so many things (including me) but had often justified
 his great farewell, in which he said bitterly that he had:

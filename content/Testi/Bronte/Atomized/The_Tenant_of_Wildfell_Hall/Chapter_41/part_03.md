@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 41 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 41 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-up to London again, unless I surrender: she cannot afford to take me to
+up to [[London]] again, unless I surrender: she cannot afford to take me to
 
 town for pleasure and nonsense, she says, and it is not _every_ rich
 
@@ -24,9 +24,9 @@ exalted ideas I may have of my own attractions.”
 
 
 
-“Well, Esther, I pity you; but still, I repeat, stand firm. You might
+“[[Well]], Esther, I pity you; but still, I repeat, stand firm. You might
 
-as well sell yourself to slavery at once, as marry a man you dislike.
+as [[Well|well]] sell yourself to [[Slavery|slavery]] at once, as marry a man you dislike.
 
 If your mother and brother are unkind to you, you may leave them, but
 
@@ -36,7 +36,7 @@ remember you are bound to your husband for life.”
 
 “But I cannot leave them unless I get married, and I cannot get married
 
-if nobody sees me. I saw one or two gentlemen in London that I might
+if nobody sees me. I saw one or two gentlemen in [[London]] that I might
 
 have liked, but they were younger sons, and mamma would not let me get
 
@@ -48,13 +48,13 @@ Wasn’t it provoking?”
 
 
 
-“I have no doubt you would feel it so, but it is possible that if you
+“I have no [[Doubt|doubt]] you would feel it so, but it is possible that if you
 
 married him, you might have more reason to regret it hereafter than if
 
-you married Mr. Oldfield. When I tell you not to marry _without_ love,
+you married Mr. Oldfield. When I tell you not to marry _without_ [[Love|love]],
 
-I do not advise you to marry for love alone: there are many, many other
+I do not advise you to marry for [[Love|love]] [[Alone|alone]]: there are many, many other
 
 things to be considered. Keep both heart and hand in your own
 
@@ -64,7 +64,7 @@ occasion should never present itself, comfort your mind with this
 
 reflection, that though in single life your joys may not be very many,
 
-your sorrows, at least, will not be more than you can bear. Marriage
+your sorrows, at least, will not be more than you can bear. [[Marriage]]
 
 _may_ change your circumstances for the better, but, in my private
 
@@ -86,13 +86,13 @@ intolerable; I would rather run away with the butler.”
 
 
 
-“Your circumstances are peculiar, I allow; but have patience, love; do
+“Your circumstances are peculiar, I allow; but have patience, [[Love|love]]; do
 
 nothing rashly. Remember you are not yet nineteen, and many years are
 
 yet to pass before any one can set you down as an old maid: you cannot
 
-tell what Providence may have in store for you. And meantime, remember
+tell what [[Providence]] may have in store for you. And meantime, remember
 
 you have a _right_ to the protection and support of your mother and
 
@@ -100,9 +100,9 @@ brother, however they may seem to grudge it.”
 
 
 
-“You are so grave, Mrs. Huntingdon,” said Esther, after a pause. “When
+“You are so [[Grave|grave]], Mrs. Huntingdon,” said Esther, after a pause. “When
 
-Milicent uttered the same discouraging sentiments concerning marriage,
+Milicent uttered the same discouraging sentiments concerning [[Marriage|marriage]],
 
 I asked if she was happy: she said she was; but I only half believed
 
@@ -124,7 +124,7 @@ neck, as she dropped her head on my bosom and continued, with an odd
 
 mixture of sadness and levity, timidity and audacity,—“I know you are
 
-not so happy as I mean to be, for you spend half your life alone at
+not so happy as I mean to be, for you spend half your life [[Alone|alone]] at
 
 Grassdale, while Mr. Huntingdon goes about enjoying himself where and
 

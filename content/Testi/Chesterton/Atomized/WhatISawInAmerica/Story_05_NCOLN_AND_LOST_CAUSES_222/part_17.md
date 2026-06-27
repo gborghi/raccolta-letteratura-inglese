@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 17)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 17)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -20,7 +20,7 @@ very much farther, and certainly go on very much longer. The Englishman
 
 would approach the churchyard by a rather more wandering woodland path;
 
-but if once he had got to the grave I think he would have much more
+but if once he had got to the [[Grave|grave]] I think he would have much more
 
 disposition, so to speak, to sit down on it. Our own national
 
@@ -110,7 +110,7 @@ troubles. I told them my general view of Labour in the very largest and
 
 perhaps the vaguest historical outline; pointing out that the one great
 
-truth to be taught to the middle classes was that Capitalism was itself
+[[Truth|truth]] to be taught to the middle classes was that Capitalism was itself
 
 a crisis, and a passing crisis; that it was not so much that it was
 
@@ -128,7 +128,7 @@ most faithfully reproduced by the interviewer, who had actually heard it
 
 casually and idly spoken. But on the top of this column of political
 
-philosophy was the extraordinary announcement in enormous letters,
+[[philosophy]] was the extraordinary announcement in enormous letters,
 
 'Chesterton Takes Sides in Trolley Strike.' This was inaccurate. When I
 
@@ -138,7 +138,7 @@ did not know what a trolley strike was. I should have had an indistinct
 
 idea that a large number of citizens earned their living by carrying
 
-things about in wheel-barrows, and that they had desisted from the
+things about in [[Wheel|wheel]]-barrows, and that they had desisted from the
 
 beneficent activities. Any one who did not happen to be a journalist, or
 
@@ -150,11 +150,11 @@ and written the title. But I know that we have here to deal with two
 
 different types of journalists; and the man who writes the headlines I
 
-will not dare to describe; for I have not seen him except in dreams.
+will not dare to describe; for I have not seen him except in [[Dreams|dreams]].
 
 
 
-Another innocent complication is that the interviewer does sometimes
+Another [[Innocent|innocent]] complication is that the interviewer does sometimes
 
 translate things into his native language. It would not seem odd that a
 
@@ -162,7 +162,7 @@ French interviewer should translate them into French; and it is certain
 
 that the American interviewer sometimes translates them into American.
 
-Those who imagine the two languages to be the same are more innocent
+Those who imagine the two languages to be the same are more [[Innocent|innocent]]
 
 than any interviewer. To take one out of the twenty examples, some of
 
@@ -172,7 +172,7 @@ had the reputation of being a nut. I should be flattered but faintly
 
 surprised at such a tribute to my dress and dashing exterior. I should
 
-afterwards be sobered and enlightened by discovering that in America a
+afterwards be sobered and enlightened by discovering that in [[America]] a
 
 nut does not mean a dandy but a defective or imbecile person. And as I
 
@@ -192,7 +192,7 @@ it. From the printed interview it appeared that I had said,
 
 'Prohibition! All matter of dollar sign.' This is almost avowed
 
-translation, like a French translation. Nobody can suppose that it would
+[[Translation|translation]], like a French [[Translation|translation]]. Nobody can suppose that it would
 
 come natural to an Englishman to talk about a dollar, still less about a
 

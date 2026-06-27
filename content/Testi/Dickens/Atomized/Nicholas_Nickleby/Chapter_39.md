@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 39"
+title: "[[Nicholas Nickleby]] — Chapter 39"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,20 +16,20 @@ tags:
 
 CHAPTER 39
 
-In which another old Friend encounters Smike, very opportunely and to
+In which another old Friend encounters [[Smike]], very opportunely and to
 some Purpose
 
 
-The night, fraught with so much bitterness to one poor soul, had given
-place to a bright and cloudless summer morning, when a north-country
+The [[Night|night]], fraught with so much bitterness to one poor [[Soul|soul]], had given
+place to a bright and cloudless [[Summer|summer]] morning, when a north-country
 mail-coach traversed, with cheerful noise, the yet silent streets
 of Islington, and, giving brisk note of its approach with the lively
 winding of the guard’s horn, clattered onward to its halting-place hard
 by the Post Office.
 
 The only outside passenger was a burly, honest-looking countryman on
-the box, who, with his eyes fixed upon the dome of St Paul’s Cathedral,
-appeared so wrapt in admiring wonder, as to be quite insensible to all
+the box, who, with his eyes fixed upon the dome of St Paul’s [[Cathedral]],
+appeared so wrapt in admiring [[Wonder|wonder]], as to be quite insensible to all
 the bustle of getting out the bags and parcels, until one of the coach
 windows being let sharply down, he looked round, and encountered a
 pretty female face which was just then thrust out.
@@ -39,7 +39,7 @@ his admiration. ‘There be Paul’s Church. ‘Ecod, he be a soizable ‘un, he
 be.’
 
 ‘Goodness, John! I shouldn’t have thought it could have been half the
-size. What a monster!’
+size. What a [[Monster|monster]]!’
 
 ‘Monsther!--Ye’re aboot right theer, I reckon, Mrs. Browdie,’ said the
 countryman good-humouredly, as he came slowly down in his huge top-coat;
@@ -47,7 +47,7 @@ countryman good-humouredly, as he came slowly down in his huge top-coat;
 never coom near it ‘gin you thried for twolve moonths. It’s na’ but a
 Poast Office! Ho! ho! They need to charge for dooble-latthers. A Poast
 Office! Wa’at dost thee think o’ thot? ‘Ecod, if thot’s on’y a Poast
-Office, I’d loike to see where the Lord Mayor o’ Lunnun lives.’
+Office, I’d loike to see where the [[Lord Mayor]] o’ Lunnun lives.’
 
 So saying, John Browdie--for he it was--opened the coach-door, and
 tapping Mrs. Browdie, late Miss Price, on the cheek as he looked in,
@@ -55,9 +55,9 @@ burst into a boisterous fit of laughter.
 
 ‘Weel!’ said John. ‘Dang my bootuns if she bean’t asleep agean!’
 
-‘She’s been asleep all night, and was, all yesterday, except for a
+‘She’s been asleep all [[Night|night]], and was, all yesterday, except for a
 minute or two now and then,’ replied John Browdie’s choice, ‘and I was
-very sorry when she woke, for she has been SO cross!’
+very sorry when she woke, for she has been SO [[Cross|cross]]!’
 
 The subject of these remarks was a slumbering figure, so muffled in
 shawl and cloak, that it would have been matter of impossibility to
@@ -77,19 +77,19 @@ there, under a mass of crumpled beaver, and surrounded by a semicircle
 of blue curl-papers, were the delicate features of Miss Fanny Squeers.
 
 ‘Oh, ‘Tilda!’ cried Miss Squeers, ‘how you have been kicking of me
-through this blessed night!’
+through this blessed [[Night|night]]!’
 
-‘Well, I do like that,’ replied her friend, laughing, ‘when you have had
+‘[[Well]], I do like that,’ replied her friend, laughing, ‘when you have had
 nearly the whole coach to yourself.’
 
 ‘Don’t deny it, ‘Tilda,’ said Miss Squeers, impressively, ‘because you
 have, and it’s no use to go attempting to say you haven’t. You mightn’t
-have known it in your sleep, ‘Tilda, but I haven’t closed my eyes for a
+have known it in your [[Sleep|sleep]], ‘Tilda, but I haven’t closed my eyes for a
 single wink, and so I THINK I am to be believed.’
 
 With which reply, Miss Squeers adjusted the bonnet and veil, which
-nothing but supernatural interference and an utter suspension of
-nature’s laws could have reduced to any shape or form; and evidently
+nothing but [[Supernatural|supernatural]] interference and an utter suspension of
+[[Nature|nature]]’s laws could have reduced to any shape or form; and evidently
 flattering herself that it looked uncommonly neat, brushed off the
 sandwich-crumbs and bits of biscuit which had accumulated in her lap,
 and availing herself of John Browdie’s proffered arm, descended from the
@@ -115,36 +115,36 @@ for I don’t know what.’
 ‘Let them tak’ us as they foind us,’ said John Browdie; ‘we dean’t come
 to Lunnun to do nought but ‘joy oursel, do we?’
 
-‘I hope not, Mr. Browdie,’ replied Miss Squeers, looking singularly
+‘I [[Hope|hope]] not, Mr. Browdie,’ replied Miss Squeers, looking singularly
 dismal.
 
-‘Well, then,’ said John, ‘it’s no matther. I’ve only been a married man
+‘[[Well]], then,’ said John, ‘it’s no matther. I’ve only been a married man
 fower days, ‘account of poor old feyther deein, and puttin’ it off. Here
 be a weddin’ party--broide and broide’s-maid, and the groom--if a mun
 dean’t ‘joy himsel noo, when ought he, hey? Drat it all, thot’s what I
 want to know.’
 
 So, in order that he might begin to enjoy himself at once, and lose no
-time, Mr. Browdie gave his wife a hearty kiss, and succeeded in wresting
+[[Time|time]], Mr. Browdie gave his wife a hearty kiss, and succeeded in wresting
 another from Miss Squeers, after a maidenly resistance of scratching and
 struggling on the part of that young lady, which was not quite over when
 they reached the Saracen’s Head.
 
-Here, the party straightway retired to rest; the refreshment of sleep
-being necessary after so long a journey; and here they met again
-about noon, to a substantial breakfast, spread by direction of Mr. John
+Here, the party straightway retired to rest; the refreshment of [[Sleep|sleep]]
+being necessary after so long a [[Journey|journey]]; and here they met again
+about [[Noon|noon]], to a substantial breakfast, spread by direction of Mr. John
 Browdie, in a small private room upstairs commanding an uninterrupted
 view of the stables.
 
 To have seen Miss Squeers now, divested of the brown beaver, the green
 veil, and the blue curl-papers, and arrayed in all the virgin splendour
 of a white frock and spencer, with a white muslin bonnet, and an
-imitative damask rose in full bloom on the inside thereof--her luxuriant
+imitative damask [[Rose|rose]] in full bloom on the inside thereof--her luxuriant
 crop of hair arranged in curls so tight that it was impossible they
 could come out by any accident, and her bonnet-cap trimmed with little
 damask roses, which might be supposed to be so many promising scions of
-the big rose--to have seen all this, and to have seen the broad
-damask belt, matching both the family rose and the little roses, which
+the big [[Rose|rose]]--to have seen all this, and to have seen the broad
+damask belt, matching both the family [[Rose|rose]] and the little roses, which
 encircled her slender waist, and by a happy ingenuity took off from the
 shortness of the spencer behind,--to have beheld all this, and to have
 taken further into account the coral bracelets (rather short of beads,
@@ -152,8 +152,8 @@ and with a very visible black string) which clasped her wrists, and the
 coral necklace which rested on her neck, supporting, outside her frock,
 a lonely cornelian heart, typical of her own disengaged affections--to
 have contemplated all these mute but expressive appeals to the purest
-feelings of our nature, might have thawed the frost of age, and added
-new and inextinguishable fuel to the fire of youth.
+feelings of our [[Nature|nature]], might have thawed the [[Frost|frost]] of age, and added
+new and inextinguishable fuel to the [[Fire|fire]] of youth.
 
 The waiter was touched. Waiter as he was, he had human passions and
 feelings, and he looked very hard at Miss Squeers as he handed the
@@ -167,15 +167,15 @@ muffins.
 
 ‘In where, miss?’
 
-‘In here--in the house!’ replied Miss Squeers. ‘My pa--Mr. Wackford
-Squeers--he’s stopping here. Is he at home?’
+‘In here--in the [[house]]!’ replied Miss Squeers. ‘My pa--Mr. Wackford
+Squeers--he’s stopping here. Is he at [[Home|home]]?’
 
-‘I didn’t know there was any gen’l’man of that name in the house, miss’
+‘I didn’t know there was any gen’l’man of that name in the [[house]], miss’
 replied the waiter. ‘There may be, in the coffee-room.’
 
 MAY BE. Very pretty this, indeed! Here was Miss Squeers, who had been
-depending, all the way to London, upon showing her friends how much
-at home she would be, and how much respectful notice her name and
+depending, all the way to [[London]], upon showing her friends how much
+at [[Home|home]] she would be, and how much respectful notice her name and
 connections would excite, told that her father MIGHT be there! ‘As if he
 was a feller!’ observed Miss Squeers, with emphatic indignation.
 
@@ -183,12 +183,12 @@ was a feller!’ observed Miss Squeers, with emphatic indignation.
 pigeon-pie, will ‘ee? Dang the chap,’ muttered John, looking into the
 empty dish as the waiter retired; ‘does he ca’ this a pie--three yoong
 pigeons and a troifling matther o’ steak, and a crust so loight that you
-doant know when it’s in your mooth and when it’s gane? I wonder hoo many
+doant know when it’s in your mooth and when it’s gane? I [[Wonder|wonder]] hoo many
 pies goes to a breakfast!’
 
 After a short interval, which John Browdie employed upon the ham and
 a cold round of beef, the waiter returned with another pie, and the
-information that Mr. Squeers was not stopping in the house, but that he
+information that Mr. Squeers was not stopping in the [[house]], but that he
 came there every day and that directly he arrived, he should be shown
 upstairs. With this, he retired; and he had not retired two minutes,
 when he returned with Mr. Squeers and his hopeful son.
@@ -215,11 +215,11 @@ moralising way, ‘before you’re aware of it; mine did upon me.’
 Wackford tuck into something fat, I’ll be obliged to you. Give it him in
 his fingers, else the waiter charges it on, and there’s lot of profit on
 this sort of vittles without that. If you hear the waiter coming, sir,
-shove it in your pocket and look out of the window, d’ye hear?’
+shove it in your pocket and look out of the [[Window|window]], d’ye hear?’
 
 ‘I’m awake, father,’ replied the dutiful Wackford.
 
-‘Well,’ said Squeers, turning to his daughter, ‘it’s your turn to be
+‘[[Well]],’ said Squeers, turning to his daughter, ‘it’s your turn to be
 married next. You must make haste.’
 
 ‘Oh, I’m in no hurry,’ said Miss Squeers, very sharply.
@@ -252,7 +252,7 @@ Browdie did it for her, and added, ‘Nickleby?’
 
 ‘No,’ said Squeers. ‘But next door to him though.’
 
-‘You can’t mean Smike?’ cried Miss Squeers, clapping her hands.
+‘You can’t mean [[Smike]]?’ cried Miss Squeers, clapping her hands.
 
 ‘Yes, I can though,’ rejoined her father. ‘I’ve got him, hard and fast.’
 
@@ -281,12 +281,12 @@ hands. ‘It was pretty neatly done, and pretty quick too.’
 aboot it, mun; coom, quick!’
 
 Although he could not keep pace with John Browdie’s impatience, Mr
-Squeers related the lucky chance by which Smike had fallen into his
+Squeers related the lucky chance by which [[Smike]] had fallen into his
 hands, as quickly as he could, and, except when he was interrupted by
 the admiring remarks of his auditors, paused not in the recital until he
 had brought it to an end.
 
-‘For fear he should give me the slip, by any chance,’ observed Squeers,
+‘For [[Fear|fear]] he should give me the slip, by any chance,’ observed Squeers,
 when he had finished, looking very cunning, ‘I’ve taken three outsides
 for tomorrow morning--for Wackford and him and me--and have arranged to
 leave the accounts and the new boys to the agent, don’t you see? So it’s
@@ -302,8 +302,8 @@ such a ready acceptance of his invitation, or he would have considered
 twice before he gave it.
 
 John Browdie’s only reply was another squeeze of the hand, and an
-assurance that they would not begin to see London till tomorrow, so that
-they might be at Mr. Snawley’s at six o’clock without fail; and after
+assurance that they would not begin to see [[London]] till tomorrow, so that
+they might be at Mr. Snawley’s at six o’[[Clock|clock]] without fail; and after
 some further conversation, Mr. Squeers and his son departed.
 
 During the remainder of the day, Mr. Browdie was in a very odd and
@@ -317,10 +317,10 @@ not to distress herself, communicated her suspicions in so many words.
 Mrs. Browdie, however, without discovering any great alarm, observed that
 she had seen him so once before, and that although he was almost sure to
 be ill after it, it would not be anything very serious, and therefore he
-was better left alone.
+was better left [[Alone|alone]].
 
 The result proved her to be perfectly correct for, while they were all
-sitting in Mr. Snawley’s parlour that night, and just as it was beginning
+sitting in Mr. Snawley’s parlour that [[Night|night]], and just as it was beginning
 to get dusk, John Browdie was taken so ill, and seized with such an
 alarming dizziness in the head, that the whole company were thrown into
 the utmost consternation. His good lady, indeed, was the only person
@@ -330,7 +330,7 @@ entirely to himself, he would be sure to recover again almost as quickly
 as he had been taken ill. Nobody could refuse to try the effect of so
 reasonable a proposal, before sending for a surgeon. Accordingly, John
 was supported upstairs, with great difficulty; being a monstrous weight,
-and regularly tumbling down two steps every time they hoisted him up
+and regularly tumbling down two steps every [[Time|time]] they hoisted him up
 three; and, being laid on the bed, was left in charge of his wife, who,
 after a short interval, reappeared in the parlour, with the gratifying
 intelligence that he had fallen fast asleep.
@@ -341,20 +341,20 @@ of the pillow into his mouth, to prevent his roaring out loud with
 laughter. He had no sooner succeeded in suppressing this emotion, than
 he slipped off his shoes, and creeping to the adjoining room where the
 prisoner was confined, turned the key, which was on the outside, and
-darting in, covered Smike’s mouth with his huge hand before he could
+darting in, covered [[Smike]]’s mouth with his huge hand before he could
 utter a sound.
 
 ‘Ods-bobs, dost thee not know me, mun?’ whispered the Yorkshireman to
 the bewildered lad. ‘Browdie. Chap as met thee efther schoolmeasther was
 banged?’
 
-‘Yes, yes,’ cried Smike. ‘Oh! help me.’
+‘Yes, yes,’ cried [[Smike]]. ‘Oh! help me.’
 
 ‘Help thee!’ replied John, stopping his mouth again, the instant he
 had said this much. ‘Thee didn’t need help, if thee warn’t as silly
 yoongster as ever draw’d breath. Wa’at did ‘ee come here for, then?’
 
-‘He brought me; oh! he brought me,’ cried Smike.
+‘He brought me; oh! he brought me,’ cried [[Smike]].
 
 ‘Brout thee!’ replied John. ‘Why didn’t ‘ee punch his head, or lay
 theeself doon and kick, and squeal out for the pollis? I’d ha’ licked
@@ -362,7 +362,7 @@ a doozen such as him when I was yoong as thee. But thee be’est a poor
 broken-doon chap,’ said John, sadly, ‘and God forgi’ me for bragging
 ower yan o’ his weakest creeturs!’
 
-Smike opened his mouth to speak, but John Browdie stopped him.
+[[Smike]] opened his mouth to speak, but John Browdie stopped him.
 
 ‘Stan’ still,’ said the Yorkshireman, ‘and doant’ee speak a morsel o’
 talk till I tell’ee.’
@@ -374,12 +374,12 @@ implement, on the floor.
 
 ‘See thot?’ said John ‘Thot be thy doin’. Noo, coot awa’!’
 
-Smike looked vacantly at him, as if unable to comprehend his meaning.
+[[Smike]] looked vacantly at him, as if unable to comprehend his meaning.
 
 ‘I say, coot awa’,’ repeated John, hastily. ‘Dost thee know where thee
 livest? Thee dost? Weel. Are yon thy clothes, or schoolmeasther’s?’
 
-‘Mine,’ replied Smike, as the Yorkshireman hurried him to the adjoining
+‘Mine,’ replied [[Smike]], as the Yorkshireman hurried him to the adjoining
 room, and pointed out a pair of shoes and a coat which were lying on a
 chair.
 
@@ -388,24 +388,24 @@ and winding the tails of the coat round the fugitive’s neck. ‘Noo,
 foller me, and when thee get’st ootside door, turn to the right, and
 they wean’t see thee pass.’
 
-‘But--but--he’ll hear me shut the door,’ replied Smike, trembling from
+‘But--but--he’ll hear me shut the door,’ replied [[Smike]], trembling from
 head to foot.
 
 ‘Then dean’t shut it at all,’ retorted John Browdie. ‘Dang it, thee
-bean’t afeard o’ schoolmeasther’s takkin cold, I hope?’
+bean’t afeard o’ schoolmeasther’s takkin cold, I [[Hope|hope]]?’
 
-‘N-no,’ said Smike, his teeth chattering in his head. ‘But he brought me
+‘N-no,’ said [[Smike]], his teeth chattering in his head. ‘But he brought me
 back before, and will again. He will, he will indeed.’
 
 ‘He wull, he wull!’ replied John impatiently. ‘He wean’t, he wean’t.
 Look’ee! I wont to do this neighbourly loike, and let them think thee’s
 gotten awa’ o’ theeself, but if he cooms oot o’ thot parlour awhiles
-theer’t clearing off, he mun’ have mercy on his oun boans, for I wean’t.
+theer’t clearing off, he mun’ have [[Mercy|mercy]] on his oun boans, for I wean’t.
 If he foinds it oot, soon efther, I’ll put ‘un on a wrong scent, I
 warrant ‘ee. But if thee keep’st a good hart, thee’lt be at whoam afore
 they know thee’st gotten off. Coom!’
 
-Smike, who comprehended just enough of this to know it was intended
+[[Smike]], who comprehended just enough of this to know it was intended
 as encouragement, prepared to follow with tottering steps, when John
 whispered in his ear.
 
@@ -416,15 +416,15 @@ think I see ‘un now, a powderin’ awa’ at the thin bread an’ butther!’
 
 It was rather a ticklish recollection for John just then, for he was
 within an ace of breaking out into a loud guffaw. Restraining himself,
-however, just in time, by a great effort, he glided downstairs, hauling
-Smike behind him; and placing himself close to the parlour door, to
+however, just in [[Time|time]], by a great effort, he glided downstairs, hauling
+[[Smike]] behind him; and placing himself close to the parlour door, to
 confront the first person that might come out, signed to him to make
 off.
 
-Having got so far, Smike needed no second bidding. Opening the
-house-door gently, and casting a look of mingled gratitude and terror
+Having got so far, [[Smike]] needed no second bidding. Opening the
+[[house]]-door gently, and casting a look of mingled gratitude and terror
 at his deliverer, he took the direction which had been indicated to him,
-and sped away like the wind.
+and sped away like the [[Wind|wind]].
 
 The Yorkshireman remained on his post for a few minutes, but, finding
 that there was no pause in the conversation inside, crept back again
@@ -435,7 +435,7 @@ smothered.
 
 If there could only have been somebody by, to see how the bedclothes
 shook, and to see the Yorkshireman’s great red face and round head
-appear above the sheets, every now and then, like some jovial monster
+appear above the sheets, every now and then, like some jovial [[Monster|monster]]
 coming to the surface to breathe, and once more dive down convulsed with
 the laughter which came bursting forth afresh--that somebody would have
 been scarcely less amused than John Browdie himself.

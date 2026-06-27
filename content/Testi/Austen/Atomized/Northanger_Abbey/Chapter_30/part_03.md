@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 29 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 29 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -18,7 +18,7 @@ after long thought and much perplexity, to be very brief was all that
 
 she could determine on with any confidence of safety. The money
 
-therefore which Eleanor had advanced was enclosed with little more than
+therefore which [[Eleanor]] had advanced was enclosed with little more than
 
 grateful thanks, and the thousand good wishes of a most affectionate
 
@@ -32,9 +32,9 @@ letter was finished; “soon made and soon ended. I am sorry it happens
 
 so, for Mrs. Allen thought them very pretty kind of young people; and
 
-you were sadly out of luck too in your Isabella. Ah! poor James! well,
+you were sadly out of luck too in your [[Isabella]]. Ah! poor James! [[Well|well]],
 
-we must live and learn; and the next new friends you make I hope will
+we must live and learn; and the next new friends you make I [[Hope|hope]] will
 
 be better worth keeping.”
 
@@ -42,11 +42,11 @@ be better worth keeping.”
 
 Catherine coloured as she warmly answered, “No friend can be better
 
-worth keeping than Eleanor.”
+worth keeping than [[Eleanor]].”
 
 
 
-“If so, my dear, I dare say you will meet again some time or other; do
+“If so, my dear, I dare say you will meet again some [[Time|time]] or other; do
 
 not be uneasy. It is ten to one but you are thrown together again in
 
@@ -54,17 +54,17 @@ the course of a few years; and then what a pleasure it will be!”
 
 
 
-Mrs. Morland was not happy in her attempt at consolation. The hope of
+Mrs. Morland was not happy in her attempt at consolation. The [[Hope|hope]] of
 
 meeting again in the course of a few years could only put into
 
-Catherine’s head what might happen within that time to make a meeting
+Catherine’s head what might happen within that [[Time|time]] to make a meeting
 
-dreadful to her. She could never forget Henry Tilney, or think of him
+dreadful to her. She could never forget [[Henry Tilney]], or think of him
 
 with less tenderness than she did at that moment; but he might forget
 
-her; and in that case, to meet—! her eyes filled with tears as she
+her; and in that case, to meet—! her eyes filled with [[Tears|tears]] as she
 
 pictured her acquaintance so renewed; and her mother, perceiving her
 
@@ -88,7 +88,7 @@ not be a desirable thing to have him engaged to a girl whom we had not
 
 the smallest acquaintance with, and who was so entirely without
 
-fortune; and now, after such behaviour, we cannot think at all well of
+fortune; and now, after such behaviour, we cannot think at all [[Well|well]] of
 
 her. Just at present it comes hard to poor James; but that will not
 
@@ -106,7 +106,7 @@ made her reply less rational; for soon were all her thinking powers
 
 swallowed up in the reflection of her own change of feelings and
 
-spirits since last she had trodden that well-known road. It was not
+spirits since last she had trodden that [[Well|well]]-known [[Road|road]]. It was not
 
 three months ago since, wild with joyful expectation, she had there run
 
@@ -136,17 +136,17 @@ was no inflated representation, no studied appeal to their passions.
 
 travelled all the way post by herself, and knew nothing of coming till
 
-Saturday night; for General Tilney, from some odd fancy or other, all
+Saturday [[Night|night]]; for [[General Tilney]], from some odd fancy or other, all
 
 of a sudden grew tired of having her there, and almost turned her out
 
-of the house. Very unfriendly, certainly; and he must be a very odd
+of the [[house]]. Very unfriendly, certainly; and he must be a very odd
 
 man; but we are so glad to have her amongst us again! and it is a great
 
 comfort to find that she is not a poor helpless creature, but can shift
 
-very well for herself.”
+very [[Well|well]] for herself.”
 
 
 
@@ -156,7 +156,7 @@ resentment of a sensible friend; and Mrs. Allen thought his expressions
 
 quite good enough to be immediately made use of again by herself. His
 
-wonder, his conjectures, and his explanations became in succession
+[[Wonder|wonder]], his conjectures, and his explanations became in succession
 
 hers, with the addition of this single remark—“I really have not
 
@@ -194,9 +194,9 @@ existence there.
 
 “Very true: we soon met with Mrs. Thorpe, and then we wanted for
 
-nothing. My dear, do not you think these silk gloves wear very well? I
+nothing. My dear, do not you think these silk gloves wear very [[Well|well]]? I
 
-put them on new the first time of our going to the Lower Rooms, you
+put them on new the first [[Time|time]] of our going to the Lower Rooms, you
 
 know, and I have worn them a great deal since. Do you remember that
 
@@ -228,13 +228,13 @@ suppose, Mrs. Morland, you ever saw a better-bred man in your life. His
 
 lodgings were taken the very day after he left them, Catherine. But no
 
-wonder; Milsom Street, you know.”
+[[Wonder|wonder]]; Milsom Street, you know.”
 
 
 
-As they walked home again, Mrs. Morland endeavoured to impress on her
+As they walked [[Home|home]] again, Mrs. Morland endeavoured to impress on her
 
-daughter’s mind the happiness of having such steady well-wishers as Mr.
+daughter’s mind the happiness of having such steady [[Well|well]]-wishers as Mr.
 
 and Mrs. Allen, and the very little consideration which the neglect or
 

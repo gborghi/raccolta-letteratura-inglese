@@ -1,5 +1,5 @@
 ---
-title: "The Colloquy of Monos and Una"
+title: "[[The Colloquy of Monos and Una]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Colloquy-of-Monos-and-Una-(Poe)"
@@ -29,11 +29,11 @@ tags:
 
       pondered, rejecting the explanations of the priesthood, until
 
-      Death himself resolved for me the secret.
+      [[Death]] himself resolved for me the secret.
 
 
 
-      _Una._ Death!
+      _Una._ [[Death]]!
 
 
 
@@ -43,7 +43,7 @@ tags:
 
       You are confused and oppressed by the majestic novelty of the
 
-      Life Eternal. Yes, it was of Death I spoke. And here how
+      Life Eternal. Yes, it was of [[Death]] I spoke. And here how
 
       singularly sounds that word which of old was wont to bring terror
 
@@ -51,15 +51,15 @@ tags:
 
 
 
-      _Una._ Ah, Death, the spectre which sate at all feasts! How
+      _Una._ Ah, [[Death]], the spectre which sate at all feasts! How
 
       often, Monos, did we lose ourselves in speculations upon its
 
-      nature! How mysteriously did it act as a check to human
+      [[Nature|nature]]! How mysteriously did it act as a check to human
 
       bliss—saying unto it “thus far, and no farther!” That earnest
 
-      mutual love, my own Monos, which burned within our bosoms—how
+      mutual [[Love|love]], my own Monos, which burned within our bosoms—how
 
       vainly did we flatter ourselves, feeling happy in its first
 
@@ -69,7 +69,7 @@ tags:
 
       that evil hour which was hurrying to separate us forever! Thus,
 
-      in time, it became painful to love. Hate would have been mercy
+      in [[Time|time]], it became painful to [[Love|love]]. Hate would have been [[Mercy|mercy]]
 
       then.
 
@@ -81,13 +81,13 @@ tags:
 
 
 
-      _ Una._ But the memory of past sorrow—is it not present joy? I
+      _ Una._ But the [[Memory|memory]] of past sorrow—is it not present joy? I
 
       have much to say yet of the things which have been. Above all, I
 
       burn to know the incidents of your own passage through the dark
 
-      Valley and Shadow.
+      Valley and [[Shadow]].
 
 
 
@@ -107,7 +107,7 @@ tags:
 
 
 
-      _Una._ Monos, I comprehend you. In Death we have both learned the
+      _Una._ Monos, I comprehend you. In [[Death]] we have both learned the
 
       propensity of man to define the indefinable. I will not say,
 
@@ -117,7 +117,7 @@ tags:
 
       you sank into a breathless and motionless torpor, and I pressed
 
-      down your pallid eyelids with the passionate fingers of love.
+      down your pallid eyelids with the passionate fingers of [[Love|love]].
 
 
 
@@ -127,7 +127,7 @@ tags:
 
       wise among our forefathers—wise in fact, although not in the
 
-      world’s esteem—had ventured to doubt the propriety of the term
+      world’s esteem—had ventured to [[Doubt|doubt]] the propriety of the term
 
       “improvement,” as applied to the progress of our civilization.
 
@@ -135,7 +135,7 @@ tags:
 
       immediately preceding our dissolution, when arose some vigorous
 
-      intellect, boldly contending for those principles whose truth
+      intellect, boldly contending for those principles whose [[Truth|truth]]
 
       appears now, to our disenfranchised reason, so utterly
 
@@ -155,19 +155,19 @@ tags:
 
       importance could only be reached by that analogy which speaks in
 
-      proof tones to the imagination alone and to the unaided reason
+      proof tones to the [[Imagination|imagination]] [[Alone|alone]] and to the unaided reason
 
       bears no weight—occasionally did this poetic intellect proceed a
 
       step farther in the evolving of the vague idea of the
 
-      philosophic, and find in the mystic parable that tells of the
+      philosophic, and find in the mystic [[Parable|parable]] that tells of the
 
-      tree of knowledge, and of its forbidden fruit, death-producing, a
+      tree of knowledge, and of its forbidden fruit, [[Death|death]]-producing, a
 
       distinct intimation that knowledge was not meet for man in the
 
-      infant condition of his soul. And these men—the poets—living and
+      infant condition of his [[Soul|soul]]. And these men—the poets—living and
 
       perishing amid the scorn of the “utilitarians”—of rough pedants,
 
@@ -197,11 +197,11 @@ tags:
 
       term—went on: a diseased commotion, moral and physical. Art—the
 
-      Arts—arose supreme, and, once enthroned, cast chains upon the
+      Arts—arose supreme, and, once enthroned, cast [[Chains|chains]] upon the
 
       intellect which had elevated them to power. Man, because he could
 
-      not but acknowledge the majesty of Nature, fell into childish
+      not but acknowledge the majesty of [[Nature]], fell into childish
 
       exultation at his acquired and still-increasing dominion over her
 
@@ -219,15 +219,15 @@ tags:
 
       of the laws of _gradation_ so visibly pervading all things in
 
-      Earth and Heaven—wild attempts at an omni-prevalent Democracy
+      Earth and Heaven—wild attempts at an omni-prevalent [[democracy|Democracy]]
 
       were made. Yet this evil sprang necessarily from the leading
 
       evil—Knowledge. Man could not both know and succumb. Meantime
 
-      huge smoking cities arose, innumerable. Green leaves shrank
+      huge smoking cities arose, innumerable. Green [[Leaves|leaves]] shrank
 
-      before the hot breath of furnaces. The fair face of Nature was
+      before the hot breath of furnaces. The fair face of [[Nature]] was
 
       deformed as with the ravages of some loathsome disease. And
 
@@ -239,21 +239,21 @@ tags:
 
       perversion of our taste, or rather in the blind neglect of its
 
-      culture in the schools. For, in truth, it was at this crisis that
+      culture in the schools. For, in [[Truth|truth]], it was at this crisis that
 
-      taste alone—that faculty which, holding a middle position between
+      taste [[Alone|alone]]—that faculty which, holding a middle position between
 
       the pure intellect and the moral sense, could never safely have
 
-      been disregarded—it was now that taste alone could have led us
+      been disregarded—it was now that taste [[Alone|alone]] could have led us
 
-      gently back to Beauty, to Nature, and to Life. But alas for the
+      gently back to [[Beauty]], to [[Nature]], and to Life. But alas for the
 
       pure contemplative spirit and majestic intuition of Plato! Alas
 
       for the μουσικη which he justly regarded as an all-sufficient
 
-      education for the soul! Alas for him and for it!—since both were
+      [[Education|education]] for the [[Soul|soul]]! Alas for him and for it!—since both were
 
       most desperately needed when both were most entirely forgotten or
 
@@ -261,13 +261,13 @@ tags:
 
 
 
-      Pascal, a philosopher whom we both love, has said, how
+      Pascal, a philosopher whom we both [[Love|love]], has said, how
 
       truly!—“que tout notre raisonnement se rèduit à céder au
 
       sentiment;” and it is not impossible that the sentiment of the
 
-      natural, had time permitted it, would have regained its old
+      natural, had [[Time|time]] permitted it, would have regained its old
 
       ascendancy over the harsh mathematical reason of the schools. But
 
@@ -283,11 +283,11 @@ tags:
 
       imbibed a prescience of our Fate from comparison of China the
 
-      simple and enduring, with Assyria the architect, with Egypt the
+      simple and enduring, with Assyria the architect, with [[Egypt]] the
 
       astrologer, with Nubia, more crafty than either, the turbulent
 
-      mother of all Arts. In history {*2} of these regions I met with a
+      mother of all Arts. In [[history]] {*2} of these regions I met with a
 
       ray from the Future. The individual artificialities of the three
 
@@ -295,9 +295,9 @@ tags:
 
       overthrows we had seen local remedies applied; but for the
 
-      infected world at large I could anticipate no regeneration save
+      infected world at large I could anticipate no [[Regeneration|regeneration]] save
 
-      in death. That man, as a race, should not become extinct, I saw
+      in [[Death|death]]. That man, as a race, should not become extinct, I saw
 
       that he must be “born again.”
 
@@ -305,11 +305,11 @@ tags:
 
       And now it was, fairest and dearest, that we wrapped our spirits,
 
-      daily, in dreams. Now it was that, in twilight, we discoursed of
+      daily, in [[Dreams|dreams]]. Now it was that, in twilight, we discoursed of
 
       the days to come, when the Art-scarred surface of the Earth,
 
-      having undergone that purification {*3} which alone could efface
+      having undergone that [[Purification|purification]] {*3} which [[Alone|alone]] could efface
 
       its rectangular obscenities, should clothe itself anew in the
 
@@ -317,9 +317,9 @@ tags:
 
       Paradise, and be rendered at length a fit dwelling-place for
 
-      man:—for man the Death purged—for man to whose now exalted
+      man:—for man the [[Death]] purged—for man to whose now exalted
 
-      intellect there should be poison in knowledge no more—for the
+      intellect there should be [[Poison|poison]] in knowledge no more—for the
 
       redeemed, regenerated, blissful, and now immortal, but still for
 
@@ -327,7 +327,7 @@ tags:
 
 
 
-      _Una._ Well do I remember these conversations, dear Monos; but
+      _Una._ [[Well]] do I remember these conversations, dear Monos; but
 
       the epoch of the fiery overthrow was not so near at hand as we
 
@@ -335,7 +335,7 @@ tags:
 
       us in believing. Men lived; and died individually. You yourself
 
-      sickened, and passed into the grave; and thither your constant
+      sickened, and passed into the [[Grave|grave]]; and thither your constant
 
       Una speedily followed you. And though the century which has since
 
@@ -353,17 +353,17 @@ tags:
 
       at heart with anxieties which had their origin in the general
 
-      turmoil and decay, I succumbed to the fierce fever. After some
+      turmoil and [[Decay|decay]], I succumbed to the fierce fever. After some
 
-      few days of pain, and many of dreamy delirium replete with
+      few days of [[Pain|pain]], and many of dreamy delirium replete with
 
-      ecstasy, the manifestations of which you mistook for pain, while
+      ecstasy, the manifestations of which you mistook for [[Pain|pain]], while
 
       I longed but was impotent to undeceive you—after some days there
 
       came upon me, as you have said, a breathless and motionless
 
-      torpor; and this was termed Death by those who stood around me.
+      torpor; and this was termed [[Death]] by those who stood around me.
 
 
 
@@ -375,9 +375,9 @@ tags:
 
       profoundly, lying motionless and fully prostrate in a midsummer
 
-      noon, begins to steal slowly back into consciousness, through the
+      [[Noon|noon]], begins to steal slowly back into consciousness, through the
 
-      mere sufficiency of his sleep, and without being awakened by
+      mere sufficiency of his [[Sleep|sleep]], and without being awakened by
 
       external disturbances.
 
@@ -393,11 +393,11 @@ tags:
 
       inextricably confounded, and became one sentiment, abnormal and
 
-      intense. The rose-water with which your tenderness had moistened
+      intense. The [[Rose|rose]]-[[Water|water]] with which your tenderness had moistened
 
       my lips to the last, affected me with sweet fancies of
 
-      flowers—fantastic flowers, far more lovely than any of the old
+      [[Flowers|flowers]]—fantastic [[Flowers|flowers]], far more lovely than any of the old
 
       Earth, but whose prototypes we have here blooming around us. The
 
@@ -423,7 +423,7 @@ tags:
 
       shade—curved or angular in outline. The hearing, at the same
 
-      time, although excited in degree, was not irregular in
+      [[Time|time]], although excited in degree, was not irregular in
 
       action—estimating real sounds with an extravagance of precision,
 
@@ -445,9 +445,9 @@ tags:
 
       passive brain by the senses were not in the least degree wrought
 
-      into shape by the deceased understanding. Of pain there was some
+      into shape by the deceased understanding. Of [[Pain|pain]] there was some
 
-      little; of pleasure there was much; but of moral pain or pleasure
+      little; of pleasure there was much; but of moral [[Pain|pain]] or pleasure
 
       none at all. Thus your wild sobs floated into my ear with all
 
@@ -457,13 +457,13 @@ tags:
 
       more; they conveyed to the extinct reason no intimation of the
 
-      sorrows which gave them birth; while the large and constant tears
+      sorrows which gave them birth; while the large and constant [[Tears|tears]]
 
       which fell upon my face, telling the bystanders of a heart which
 
-      broke, thrilled every fibre of my frame with ecstasy alone. And
+      broke, thrilled every fibre of my frame with ecstasy [[Alone|alone]]. And
 
-      this was in truth the Death of which these bystanders spoke
+      this was in [[Truth|truth]] the [[Death]] of which these bystanders spoke
 
       reverently, in low whispers—you, sweet Una, gaspingly, with loud
 
@@ -481,7 +481,7 @@ tags:
 
       other dismal expressions of terror, of horror, or of wo. You
 
-      alone, habited in a white robe, passed in all directions
+      [[Alone|alone]], habited in a white robe, passed in all directions
 
       musically about me.
 
@@ -489,13 +489,13 @@ tags:
 
       The day waned; and, as its light faded away, I became possessed
 
-      by a vague uneasiness—an anxiety such as the sleeper feels when
+      by a vague uneasiness—an anxiety such as [[The Sleeper|the sleeper]] feels when
 
       sad real sounds fall continuously within his ear—low distant
 
       bell-tones, solemn, at long but equal intervals, and mingling
 
-      with melancholy dreams. Night arrived; and with its shadows a
+      with [[Melancholy|melancholy]] [[Dreams|dreams]]. [[Night]] arrived; and with its shadows a
 
       heavy discomfort. It oppressed my limbs with the oppression of
 
@@ -529,11 +529,11 @@ tags:
 
       forth, a something akin to sentiment itself—a feeling that, half
 
-      appreciating, half responded to your earnest love and sorrow; but
+      appreciating, half responded to your earnest [[Love|love]] and sorrow; but
 
       this feeling took no root in the pulseless heart, and seemed
 
-      indeed rather a shadow than a reality, and faded quickly away,
+      indeed rather a [[Shadow|shadow]] than a reality, and faded quickly away,
 
       first into extreme quiescence, and then into a purely sensual
 
@@ -559,13 +559,13 @@ tags:
 
       a mental pendulous pulsation. It was the moral embodiment of
 
-      man’s abstract idea of Time. By the absolute equalization of this
+      man’s abstract idea of [[Time]]. By the absolute equalization of this
 
       movement—or of such as this—had the cycles of the firmamental
 
       orbs themselves, been adjusted. By its aid I measured the
 
-      irregularities of the clock upon the mantel, and of the watches
+      irregularities of the [[Clock|clock]] upon the mantel, and of the watches
 
       of the attendants. Their tickings came sonorously to my ears. The
 
@@ -573,9 +573,9 @@ tags:
 
       deviations were omni-prevalent—affected me just as violations of
 
-      abstract truth were wont, on earth, to affect the moral sense.
+      abstract [[Truth|truth]] were wont, on earth, to affect the moral sense.
 
-      Although no two of the time-pieces in the chamber struck the
+      Although no two of the [[Time|time]]-pieces in the chamber struck the
 
       individual seconds accurately together, yet I had no difficulty
 
@@ -583,7 +583,7 @@ tags:
 
       momentary errors of each. And this—this keen, perfect,
 
-      self-existing sentiment of duration—this sentiment existing (as
+      [[Self|self]]-existing sentiment of duration—this sentiment existing (as
 
       man could not possibly have conceived it to exist) independently
 
@@ -591,15 +591,15 @@ tags:
 
       upspringing from the ashes of the rest, was the first obvious and
 
-      certain step of the intemporal soul upon the threshold of the
+      certain step of the intemporal [[Soul|soul]] upon the threshold of the
 
-      temporal Eternity.
+      temporal [[Eternity]].
 
 
 
       It was midnight; and you still sat by my side. All others had
 
-      departed from the chamber of Death. They had deposited me in the
+      departed from the chamber of [[Death]]. They had deposited me in the
 
       coffin. The lamps burned flickeringly; for this I knew by the
 
@@ -619,9 +619,9 @@ tags:
 
       of entity, and in the one abiding sentiment of duration. The
 
-      mortal body had been at length stricken with the hand of the
+      mortal [[Body|body]] had been at length stricken with the hand of the
 
-      deadly Decay.
+      deadly [[Decay]].
 
 
 
@@ -637,13 +637,13 @@ tags:
 
       I still dully felt that you sat by my side. So, too, when the
 
-      noon of the second day came, I was not unconscious of those
+      [[Noon|noon]] of the second day came, I was not unconscious of those
 
       movements which displaced you from my side, which confined me
 
       within the coffin, which deposited me within the hearse, which
 
-      bore me to the grave, which lowered me within it, which heaped
+      bore me to the [[Grave|grave]], which lowered me within it, which heaped
 
       heavily the mould upon me, and which thus left me, in blackness
 
@@ -651,9 +651,9 @@ tags:
 
 
 
-      And here, in the prison-house which has few secrets to disclose,
+      And here, in the [[Prison|prison]]-[[house]] which has few [[Secrets|secrets]] to disclose,
 
-      there rolled away days and weeks and months; and the soul watched
+      there rolled away days and weeks and months; and the [[Soul|soul]] watched
 
       narrowly each second as it flew, and, without effort, took record
 
@@ -669,21 +669,21 @@ tags:
 
       that of place. The narrow space immediately surrounding what had
 
-      been the body, was now growing to be the body itself. At length,
+      been the [[Body|body]], was now growing to be the [[Body|body]] itself. At length,
 
-      as often happens to the sleeper (by sleep and its world alone is
+      as often happens to [[The Sleeper|the sleeper]] (by [[Sleep|sleep]] and its world [[Alone|alone]] is
 
-      Death imaged)—at length, as sometimes happened on Earth to the
+      [[Death]] imaged)—at length, as sometimes happened on Earth to the
 
       deep slumberer, when some flitting light half startled him into
 
-      awaking, yet left him half enveloped in dreams—so to me, in the
+      awaking, yet left him half enveloped in [[Dreams|dreams]]—so to me, in the
 
-      strict embrace of the Shadow came that light which alone might
+      strict embrace of the [[Shadow]] came that light which [[Alone|alone]] might
 
-      have had power to startle—the light of enduring Love. Men toiled
+      have had power to startle—the light of enduring [[Love]]. Men toiled
 
-      at the grave in which I lay darkling. They upthrew the damp
+      at the [[Grave|grave]] in which I lay darkling. They upthrew the damp
 
       earth. Upon my mouldering bones there descended the coffin of
 
@@ -695,13 +695,13 @@ tags:
 
       extinguished. That feeble thrill had vibrated itself into
 
-      quiescence. Many lustra had supervened. Dust had returned to
+      quiescence. Many lustra had supervened. [[Dust]] had returned to
 
-      dust. The worm had food no more. The sense of being had at length
+      [[Dust|dust]]. The worm had food no more. The sense of being had at length
 
       utterly departed, and there reigned in its stead—instead of all
 
-      things—dominant and perpetual—the autocrats Place and Time. For
+      things—dominant and perpetual—the autocrats Place and [[Time]]. For
 
       that which was not—for that which had no form—for that which had
 
@@ -709,6 +709,6 @@ tags:
 
       soulless, yet of which matter formed no portion—for all this
 
-      nothingness, yet for all this immortality, the grave was still a
+      nothingness, yet for all this [[Immortality|immortality]], the [[Grave|grave]] was still a
 
-      home, and the corrosive hours, co-mates.
+      [[Home|home]], and the corrosive hours, co-mates.

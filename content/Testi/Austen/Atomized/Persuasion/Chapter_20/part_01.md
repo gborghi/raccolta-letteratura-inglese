@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 20 (part 1)"
+title: "[[Persuasion]] — Chapter 20 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -28,7 +28,7 @@ waited for, they took their station by one of the fires in the Octagon
 
 Room. But hardly were they so settled, when the door opened again, and
 
-Captain Wentworth walked in alone. Anne was the nearest to him, and
+[[Captain Wentworth]] walked in [[Alone|alone]]. Anne was the nearest to him, and
 
 making yet a little advance, she instantly spoke. He was preparing only
 
@@ -50,11 +50,11 @@ While they were speaking, a whispering between her father and Elizabeth
 
 caught her ear. She could not distinguish, but she must guess the
 
-subject; and on Captain Wentworth’s making a distant bow, she
+subject; and on [[Captain Wentworth]]’s making a distant bow, she
 
-comprehended that her father had judged so well as to give him that
+comprehended that her father had judged so [[Well|well]] as to give him that
 
-simple acknowledgement of acquaintance, and she was just in time by a
+simple acknowledgement of acquaintance, and she was just in [[Time|time]] by a
 
 side glance to see a slight curtsey from Elizabeth herself. This,
 
@@ -66,7 +66,7 @@ nothing, and her spirits improved.
 
 After talking, however, of the weather, and Bath, and the concert,
 
-their conversation began to flag, and so little was said at last, that
+their conversation began to [[Flag|flag]], and so little was said at last, that
 
 she was expecting him to go every moment, but he did not; he seemed in
 
@@ -80,7 +80,7 @@ smile, a little glow, he said—
 
 have suffered from the shock, and the more from its not overpowering
 
-you at the time.”
+you at the [[Time|time]].”
 
 
 
@@ -106,7 +106,7 @@ concerned in her recovery.”
 
 
 
-“Certainly I could have none. But it appears—I should hope it would be
+“Certainly I could have none. But it appears—I should [[Hope|hope]] it would be
 
 a very happy match. There are on both sides good principles and good
 
@@ -116,11 +116,11 @@ temper.”
 
 “Yes,” said he, looking not exactly forward; “but there, I think, ends
 
-the resemblance. With all my soul I wish them happy, and rejoice over
+the resemblance. With all my [[Soul|soul]] I wish them happy, and rejoice over
 
 every circumstance in favour of it. They have no difficulties to
 
-contend with at home, no opposition, no caprice, no delays. The
+contend with at [[Home|home]], no opposition, no caprice, no delays. The
 
 Musgroves are behaving like themselves, most honourably and kindly,
 
@@ -154,7 +154,7 @@ reading man; and I confess, that I do consider his attaching himself to
 
 her with some surprise. Had it been the effect of gratitude, had he
 
-learnt to love her, because he believed her to be preferring him, it
+learnt to [[Love|love]] her, because he believed her to be preferring him, it
 
 would have been another thing. But I have no reason to suppose it so.
 
@@ -198,7 +198,7 @@ smallest wish for a total change, she only deviated so far as to say—
 
 
 
-“About a fortnight. I could not leave it till Louisa’s doing well was
+“About a fortnight. I could not leave it till Louisa’s doing [[Well|well]] was
 
 quite ascertained. I had been too deeply concerned in the mischief to
 
@@ -228,10 +228,10 @@ thought your last impressions of Lyme must have been strong disgust.”
 
 “The last hours were certainly very painful,” replied Anne; “but when
 
-pain is over, the remembrance of it often becomes a pleasure. One does
+[[Pain|pain]] is over, the remembrance of it often becomes a pleasure. One does
 
-not love a place the less for having suffered in it, unless it has been
+not [[Love|love]] a place the less for having suffered in it, unless it has been
 
-all suffering, nothing but suffering, which was by no means the case at
+all [[Suffering|suffering]], nothing but [[Suffering|suffering]], which was by no means the case at
 
 Lyme. We were only in anxiety and distress during the last two hours,

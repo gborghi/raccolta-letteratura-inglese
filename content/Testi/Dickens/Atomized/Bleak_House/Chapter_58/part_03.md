@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 58 (part 3)"
+title: "Bleak [[house|House]] — Chapter 58 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-Sir Leicester breaks silence with a harsh cry. “George? Your son
-George come home, Mrs. Rouncewell?”
+Sir Leicester breaks [[Silence|silence]] with a harsh cry. “George? Your son
+George come [[Home|home]], Mrs. Rouncewell?”
 
 The old housekeeper wipes her eyes. “Thank God. Yes, Sir Leicester.”
 
@@ -32,9 +32,9 @@ understood.
 “Why did you not tell me, Mrs. Rouncewell?”
 
 “It happened only yesterday, Sir Leicester, and I doubted your being
-well enough to be talked to of such things.”
+[[Well|well]] enough to be talked to of such things.”
 
-Besides, the giddy Volumnia now remembers with her little scream that
+Besides, the giddy [[Volumnia]] now remembers with her little scream that
 nobody was to have known of his being Mrs. Rouncewell’s son and that
 she was not to have told. But Mrs. Rouncewell protests, with warmth
 enough to swell the stomacher, that of course she would have told Sir
@@ -43,18 +43,18 @@ Leicester as soon as he got better.
 “Where is your son George, Mrs. Rouncewell?” asks Sir Leicester,
 
 Mrs. Rouncewell, not a little alarmed by his disregard of the
-doctor’s injunctions, replies, in London.
+doctor’s injunctions, replies, in [[London]].
 
-“Where in London?”
+“Where in [[London]]?”
 
-Mrs. Rouncewell is constrained to admit that he is in the house.
+Mrs. Rouncewell is constrained to admit that he is in the [[house]].
 
 “Bring him here to my room. Bring him directly.”
 
 The old lady can do nothing but go in search of him. Sir Leicester,
 with such power of movement as he has, arranges himself a little to
 receive him. When he has done so, he looks out again at the falling
-sleet and snow and listens again for the returning steps. A quantity
+sleet and [[Snow|snow]] and listens again for the returning steps. A quantity
 of straw has been tumbled down in the street to deaden the noises
 there, and she might be driven to the door perhaps without his
 hearing wheels.
@@ -71,14 +71,14 @@ Leicester. “Do you remember me, George?”
 The trooper needs to look at him and to separate this sound from that
 sound before he knows what he has said, but doing this and being a
 little helped by his mother, he replies, “I must have a very bad
-memory, indeed, Sir Leicester, if I failed to remember you.”
+[[Memory|memory]], indeed, Sir Leicester, if I failed to remember you.”
 
 “When I look at you, George Rouncewell,” Sir Leicester observes with
 difficulty, “I see something of a boy at Chesney Wold—I remember
-well—very well.”
+[[Well|well]]—very [[Well|well]].”
 
-He looks at the trooper until tears come into his eyes, and then he
-looks at the sleet and snow again.
+He looks at the trooper until [[Tears|tears]] come into his eyes, and then he
+looks at the sleet and [[Snow|snow]] again.
 
 “I ask your pardon, Sir Leicester,” says the trooper, “but would you
 accept of my arms to raise you up? You would lie easier, Sir
@@ -86,22 +86,22 @@ Leicester, if you would allow me to move you.”
 
 “If you please, George Rouncewell; if you will be so good.”
 
-The trooper takes him in his arms like a child, lightly raises him,
-and turns him with his face more towards the window. “Thank you. You
+The trooper takes him in his arms like a [[Child|child]], lightly raises him,
+and turns him with his face more towards the [[Window|window]]. “Thank you. You
 have your mother’s gentleness,” returns Sir Leicester, “and your own
 strength. Thank you.”
 
 He signs to him with his hand not to go away. George quietly remains
 at the bedside, waiting to be spoken to.
 
-“Why did you wish for secrecy?” It takes Sir Leicester some time to
+“Why did you wish for secrecy?” It takes Sir Leicester some [[Time|time]] to
 ask this.
 
 “Truly I am not much to boast of, Sir Leicester, and I—I should
-still, Sir Leicester, if you was not so indisposed—which I hope you
-will not be long—I should still hope for the favour of being allowed
+still, Sir Leicester, if you was not so indisposed—which I [[Hope|hope]] you
+will not be long—I should still [[Hope|hope]] for the favour of being allowed
 to remain unknown in general. That involves explanations not very
-hard to be guessed at, not very well timed here, and not very
+hard to be guessed at, not very [[Well|well]] timed here, and not very
 creditable to myself. However opinions may differ on a variety of
 subjects, I should think it would be universally agreed, Sir
 Leicester, that I am not much to boast of.”
@@ -113,7 +113,7 @@ George makes his military bow. “As far as that goes, Sir Leicester, I
 have done my duty under discipline, and it was the least I could do.”
 
 “You find me,” says Sir Leicester, whose eyes are much attracted
-towards him, “far from well, George Rouncewell.”
+towards him, “far from [[Well|well]], George Rouncewell.”
 
 “I am very sorry both to hear it and to see it, Sir Leicester.”
 
@@ -128,10 +128,10 @@ arise before them both and soften both.
 
 Sir Leicester, evidently with a great determination to say, in his
 own manner, something that is on his mind before relapsing into
-silence, tries to raise himself among his pillows a little more.
+[[Silence|silence]], tries to raise himself among his pillows a little more.
 George, observant of the action, takes him in his arms again and
 places him as he desires to be. “Thank you, George. You are another
-self to me. You have often carried my spare gun at Chesney Wold,
+[[Self|self]] to me. You have often carried my spare gun at Chesney Wold,
 George. You are familiar to me in these strange circumstances, very
 familiar.” He has put Sir Leicester’s sounder arm over his shoulder
 in lifting him up, and Sir Leicester is slow in drawing it away again
@@ -143,12 +143,12 @@ slight misunderstanding between my Lady and myself. I do not mean
 that there was any difference between us (for there has been none),
 but that there was a misunderstanding of certain circumstances
 important only to ourselves, which deprives me, for a little while,
-of my Lady’s society. She has found it necessary to make a journey—I
-trust will shortly return. Volumnia, do I make myself intelligible?
+of my Lady’s society. She has found it necessary to make a [[Journey|journey]]—I
+trust will shortly return. [[Volumnia]], do I make myself intelligible?
 The words are not quite under my command in the manner of pronouncing
 them.”
 
-Volumnia understands him perfectly, and in truth he delivers himself
+[[Volumnia]] understands him perfectly, and in [[Truth|truth]] he delivers himself
 with far greater plainness than could have been supposed possible a
 minute ago. The effort by which he does so is written in the anxious
 and labouring expression of his face. Nothing but the strength of his

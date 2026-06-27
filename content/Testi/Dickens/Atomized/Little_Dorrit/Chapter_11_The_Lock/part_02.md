@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-She had brought the meat home that she should have eaten herself, and
-was already warming it on a gridiron over the fire for her father, clad
+She had brought the meat [[Home|home]] that she should have eaten herself, and
+was already warming it on a gridiron over the [[Fire|fire]] for her father, clad
 in an old grey gown and a black cap, awaiting his supper at the table.
 A clean cloth was spread before him, with knife, fork, and spoon,
 salt-cellar, pepper-box, glass, and pewter ale-pot. Such zests as his
@@ -31,13 +31,13 @@ Amy’s friend--at the outer gate, wishful, as he was going by, of paying
 his respects, but hesitating whether to come in or not. This is my
 brother William, sir.’
 
-‘I hope,’ said Arthur, very doubtful what to say, ‘that my respect for
-your daughter may explain and justify my desire to be presented to you,
+‘I [[Hope|hope]],’ said [[Arthur]], very doubtful what to say, ‘that my respect for
+your daughter may explain and justify my [[Desire|desire]] to be presented to you,
 sir.’
 
 ‘Mr Clennam,’ returned the other, rising, taking his cap off in the
 flat of his hand, and so holding it, ready to put on again, ‘you do me
-honour. You are welcome, sir;’ with a low bow. ‘Frederick, a chair. Pray
+[[Honour|honour]]. You are welcome, sir;’ with a low bow. ‘Frederick, a chair. Pray
 sit down, Mr Clennam.’
 
 He put his black cap on again as he had taken it off, and resumed his
@@ -48,32 +48,32 @@ manner. These were the ceremonies with which he received the collegians.
 to these walls. Perhaps you are aware--my daughter Amy may have
 mentioned that I am the Father of this place.’
 
-‘I--so I have understood,’ said Arthur, dashing at the assertion.
+‘I--so I have understood,’ said [[Arthur]], dashing at the assertion.
 
 ‘You know, I dare say, that my daughter Amy was born here. A good girl,
 sir, a dear girl, and long a comfort and support to me. Amy, my dear,
 put this dish on; Mr Clennam will excuse the primitive customs to which
 we are reduced here. Is it a compliment to ask you if you would do me
-the honour, sir, to--’
+the [[Honour|honour]], sir, to--’
 
-‘Thank you,’ returned Arthur. ‘Not a morsel.’
+‘Thank you,’ returned [[Arthur]]. ‘Not a morsel.’
 
-He felt himself quite lost in wonder at the manner of the man, and that
+He felt himself quite lost in [[Wonder|wonder]] at the manner of the man, and that
 the probability of his daughter’s having had a reserve as to her family
-history, should be so far out of his mind.
+[[history]], should be so far out of his mind.
 
 She filled his glass, put all the little matters on the table ready to
 his hand, and then sat beside him while he ate his supper. Evidently in
 observance of their nightly custom, she put some bread before herself,
-and touched his glass with her lips; but Arthur saw she was troubled
+and touched his glass with her lips; but [[Arthur]] saw she was troubled
 and took nothing. Her look at her father, half admiring him and proud
 of him, half ashamed for him, all devoted and loving, went to his inmost
 heart.
 
 The Father of the Marshalsea condescended towards his brother as an
-amiable, well-meaning man; a private character, who had not arrived at
+amiable, [[Well|well]]-meaning man; a private character, who had not arrived at
 distinction. ‘Frederick,’ said he, ‘you and Fanny sup at your lodgings
-to-night, I know. What have you done with Fanny, Frederick?’
+to-[[Night|night]], I know. What have you done with Fanny, Frederick?’
 
 ‘She is walking with Tip.’
 
@@ -89,10 +89,10 @@ knowledge. It very seldom happens that anybody--of any pretensions--any
 pretensions--comes here without being presented to me.’
 
 ‘As many as forty or fifty in a day have been introduced to my brother,’
-said Frederick, faintly lighting up with a ray of pride.
+said Frederick, faintly lighting up with a ray of [[Pride|pride]].
 
 ‘Yes!’ the Father of the Marshalsea assented. ‘We have even exceeded
-that number. On a fine Sunday in term time, it is quite a Levee--quite
+that number. On a fine [[Sunday]] in term [[Time|time]], it is quite a Levee--quite
 a Levee. Amy, my dear, I have been trying half the day to remember the
 name of the gentleman from Camberwell who was introduced to me last
 Christmas week by that agreeable coal-merchant who was remanded for six
@@ -102,24 +102,24 @@ months.’
 
 ‘Frederick, do _you_ remember his name?’
 
-Frederick doubted if he had ever heard it. No one could doubt that
+Frederick doubted if he had ever heard it. No one could [[Doubt|doubt]] that
 Frederick was the last person upon earth to put such a question to, with
-any hope of information.
+any [[Hope|hope]] of information.
 
 ‘I mean,’ said his brother, ‘the gentleman who did that handsome action
 with so much delicacy. Ha! Tush! The name has quite escaped me. Mr
 Clennam, as I have happened to mention handsome and delicate action, you
 may like, perhaps, to know what it was.’
 
-‘Very much,’ said Arthur, withdrawing his eyes from the delicate head
+‘Very much,’ said [[Arthur]], withdrawing his eyes from the delicate head
 beginning to droop and the pale face with a new solicitude stealing over
 it.
 
 ‘It is so generous, and shows so much fine feeling, that it is almost a
-duty to mention it. I said at the time that I always would mention it
+duty to mention it. I said at the [[Time|time]] that I always would mention it
 on every suitable occasion, without regard to personal sensitiveness.
-A--well--a--it’s of no use to disguise the fact--you must know, Mr
-Clennam, that it does sometimes occur that people who come here desire
+A--[[Well|well]]--a--it’s of no use to disguise the fact--you must know, Mr
+Clennam, that it does sometimes occur that people who come here [[Desire|desire]]
 to offer some little--Testimonial--to the Father of the place.’
 
 To see her hand upon his arm in mute entreaty half-repressed, and her
@@ -131,10 +131,10 @@ sometimes another; but it is generally--ha--Money. And it is, I cannot
 but confess it, it is too often--hem--acceptable. This gentleman that I
 refer to, was presented to me, Mr Clennam, in a manner highly gratifying
 to my feelings, and conversed not only with great politeness, but with
-great--ahem--information.’ All this time, though he had finished his
+great--ahem--information.’ All this [[Time|time]], though he had finished his
 supper, he was nervously going about his plate with his knife and
 fork, as if some of it were still before him. ‘It appeared from his
-conversation that he had a garden, though he was delicate of mentioning
+conversation that he had a [[Garden|garden]], though he was delicate of mentioning
 it at first, as gardens are--hem--are not accessible to me. But it came
 out, through my admiring a very fine cluster of geranium--beautiful
 cluster of geranium to be sure--which he had brought from his

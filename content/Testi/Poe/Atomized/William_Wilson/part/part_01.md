@@ -1,5 +1,5 @@
 ---
-title: "William Wilson (part 1)"
+title: "[[William Wilson]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/William-Wilson-(Poe)"
@@ -14,31 +14,31 @@ tags:
 </nav>
 
 
-What say of it? what say of CONSCIENCE grim,
+What say of it? what say of [[Conscience|CONSCIENCE]] grim,
     That spectre in my path?
                     —_Chamberlayne’s Pharronida._
 
-      Let me call myself, for the present, William Wilson. The fair
+      Let me call myself, for the present, [[William Wilson]]. The fair
       page now lying before me need not be sullied with my real
       appellation. This has been already too much an object for the
       scorn—for the horror—for the detestation of my race. To the
       uttermost regions of the globe have not the indignant winds
       bruited its unparalleled infamy? Oh, outcast of all outcasts most
       abandoned!—to the earth art thou not forever dead? to its honors,
-      to its flowers, to its golden aspirations?—and a cloud, dense,
+      to its [[Flowers|flowers]], to its golden aspirations?—and a cloud, dense,
       dismal, and limitless, does it not hang eternally between thy
       hopes and heaven?
 
       I would not, if I could, here or to-day, embody a record of my
       later years of unspeakable misery, and unpardonable crime. This
       epoch—these later years—took unto themselves a sudden elevation
-      in turpitude, whose origin alone it is my present purpose to
+      in turpitude, whose origin [[Alone|alone]] it is my present purpose to
       assign. Men usually grow base by degrees. From me, in an instant,
       all virtue dropped bodily as a mantle. From comparatively trivial
       wickedness I passed, with the stride of a giant, into more than
       the enormities of an Elah-Gabalus. What chance—what one event
       brought this evil thing to pass, bear with me while I relate.
-      Death approaches; and the shadow which foreruns him has thrown a
+      [[Death]] approaches; and the [[Shadow|shadow]] which foreruns him has thrown a
       softening influence over my spirit. I long, in passing through
       the dim valley, for the sympathy—I had nearly said for the
       pity—of my fellow men. I would fain have them believe that I have
@@ -46,10 +46,10 @@ What say of it? what say of CONSCIENCE grim,
       control. I would wish them to seek out for me, in the details I
       am about to give, some little oasis of fatality amid a wilderness
       of error. I would have them allow—what they cannot refrain from
-      allowing—that, although temptation may have erewhile existed as
+      allowing—that, although [[Temptation|temptation]] may have erewhile existed as
       great, man was never thus, at least, tempted before—certainly,
       never thus fell. And is it therefore that he has never thus
-      suffered? Have I not indeed been living in a dream? And am I not
+      suffered? Have I not indeed been living in [[A Dream|a dream]]? And am I not
       now dying a victim to the horror and the mystery of the wildest
       of all sublunary visions?
 
@@ -59,7 +59,7 @@ What say of it? what say of CONSCIENCE grim,
       inherited the family character. As I advanced in years it was
       more strongly developed; becoming, for many reasons, a cause of
       serious disquietude to my friends, and of positive injury to
-      myself. I grew self-willed, addicted to the wildest caprices, and
+      myself. I grew [[Self|self]]-willed, addicted to the wildest caprices, and
       a prey to the most ungovernable passions. Weak-minded, and beset
       with constitutional infirmities akin to my own, my parents could
       do but little to check the evil propensities which distinguished
@@ -71,10 +71,10 @@ What say of it? what say of CONSCIENCE grim,
       master of my own actions.
 
       My earliest recollections of a school-life, are connected with a
-      large, rambling, Elizabethan house, in a misty-looking village of
+      large, rambling, Elizabethan [[house]], in a misty-looking village of
       England, where were a vast number of gigantic and gnarled trees,
-      and where all the houses were excessively ancient. In truth, it
-      was a dream-like and spirit-soothing place, that venerable old
+      and where all the houses were excessively ancient. In [[Truth|truth]], it
+      was [[A Dream|a dream]]-like and spirit-soothing place, that venerable old
       town. At this moment, in fancy, I feel the refreshing chilliness
       of its deeply-shadowed avenues, inhale the fragrance of its
       thousand shrubberies, and thrill anew with undefinable delight,
@@ -94,21 +94,21 @@ What say of it? what say of CONSCIENCE grim,
       the first ambiguous monitions of the destiny which afterwards so
       fully overshadowed me. Let me then remember.
 
-      The house, I have said, was old and irregular. The grounds were
+      The [[house]], I have said, was old and irregular. The grounds were
       extensive, and a high and solid brick wall, topped with a bed of
-      mortar and broken glass, encompassed the whole. This prison-like
+      mortar and broken glass, encompassed the whole. This [[Prison|prison]]-like
       rampart formed the limit of our domain; beyond it we saw but
       thrice a week—once every Saturday afternoon, when, attended by
-      two ushers, we were permitted to take brief walks in a body
-      through some of the neighbouring fields—and twice during Sunday,
+      two ushers, we were permitted to take brief walks in a [[Body|body]]
+      through some of the neighbouring fields—and twice during [[Sunday]],
       when we were paraded in the same formal manner to the morning and
       evening service in the one church of the village. Of this church
       the principal of our school was pastor. With how deep a spirit of
-      wonder and perplexity was I wont to regard him from our remote
+      [[Wonder|wonder]] and perplexity was I wont to regard him from our remote
       pew in the gallery, as, with step solemn and slow, he ascended
       the pulpit! This reverend man, with countenance so demurely
       benign, with robes so glossy and so clerically flowing, with wig
       so minutely powdered, so rigid and so vast,—-could this be he
       who, of late, with sour visage, and in snuffy habiliments,
       administered, ferule in hand, the Draconian laws of the academy?
-      Oh, gigantic paradox, too utterly monstrous for solution!
+      Oh, gigantic [[Paradox|paradox]], too utterly monstrous for solution!

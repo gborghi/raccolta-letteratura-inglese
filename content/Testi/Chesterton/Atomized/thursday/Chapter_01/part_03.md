@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 1 (part 3)"
+title: "[[thursday]] — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -32,22 +32,22 @@ And at that the corners of her own mouth broke into a smile,
 and she thought with a simultaneous pleasure of Gregory's
 absurdity and of his safety.
 
-Syme strolled with her to a seat in the corner of the garden,
+Syme strolled with her to a seat in the corner of the [[Garden|garden]],
 and continued to pour out his opinions.  For he was a
 sincere man, and in spite of his superficial airs and graces,
 at root a humble one.  And it is always the humble man who
 talks too much; the proud man watches himself too closely.
 He defended respectability with violence and exaggeration.
 He grew passionate in his praise of tidiness and propriety.
-All the time there was a smell of lilac all round him.
+All the [[Time|time]] there was a smell of lilac all round him.
 Once he heard very faintly in some distant street a barrel-organ
 begin to play, and it seemed to him that his heroic words
 were moving to a tiny tune from under or beyond the world.
 
 He stared and talked at the girl's red hair and amused face
 for what seemed to be a few minutes; and then, feeling that
-the groups in such a place should mix, rose to his feet.
-To his astonishment, he discovered the whole garden empty.
+the groups in such a place should mix, [[Rose|rose]] to his feet.
+To his astonishment, he discovered the whole [[Garden|garden]] empty.
 Everyone had gone long ago, and he went himself with a
 rather hurried apology.  He left with a sense of champagne
 in his head, which he could not afterwards explain.
@@ -56,29 +56,29 @@ at all; he never saw her again until all his tale was over.
 And yet, in some indescribable way, she kept recurring like
 a motive in music through all his mad adventures afterwards,
 and the glory of her strange hair ran like a red thread
-through those dark and ill-drawn tapestries of the night.
-For what followed was so improbable, that it might well have
-been a dream.
+through those dark and ill-drawn tapestries of the [[Night|night]].
+For what followed was so improbable, that it might [[Well|well]] have
+been [[A Dream|a dream]].
 
 When Syme went out into the starlit street, he found it
 for the moment empty.  Then he realised (in some odd way)
-that the silence was rather a living silence than a dead one.
+that the [[Silence|silence]] was rather a living [[Silence|silence]] than a dead one.
 Directly outside the door stood a street lamp, whose gleam gilded
-the leaves of the tree that bent out over the fence behind him.
+the [[Leaves|leaves]] of the tree that bent out over the fence behind him.
 About a foot from the lamp-post stood a figure almost as rigid
 and motionless as the lamp-post itself.  The tall hat and long
-frock coat were black; the face, in an abrupt shadow, was almost
+frock coat were black; the face, in an abrupt [[Shadow|shadow]], was almost
 as dark.  Only a fringe of fiery hair against the light,
 and also something aggressive in the attitude, proclaimed that it
 was the poet Gregory.  He had something of the look of a masked
-bravo waiting sword in hand for his foe.
+bravo waiting [[Sword|sword]] in hand for his foe.
 
 He made a sort of doubtful salute, which Syme somewhat more formally returned.
 
 "I was waiting for you," said Gregory.  "Might I have
 a moment's conversation?"
 
-"Certainly.  About what?" asked Syme in a sort of weak wonder.
+"Certainly.  About what?" asked Syme in a sort of weak [[Wonder|wonder]].
 
 Gregory struck out with his stick at the lamp-post, and then at the tree.
 "About this and this," he cried; "about order and anarchy.
@@ -87,7 +87,7 @@ and there is anarchy, rich, living, reproducing itself--there is anarchy,
 splendid in green and gold."
 
 "All the same," replied Syme patiently, "just at present
-you only see the tree by the light of the lamp.  I wonder
+you only see the tree by the light of the lamp.  I [[Wonder|wonder]]
 when you would ever see the lamp by the light of the tree."
 Then after a pause he said, "But may I ask if you have been
 standing out here in the dark only to resume our little argument?"
@@ -96,7 +96,7 @@ standing out here in the dark only to resume our little argument?"
 "I did not stand here to resume our argument, but to end
 it for ever."
 
-The silence fell again, and Syme, though he understood nothing,
+The [[Silence|silence]] fell again, and Syme, though he understood nothing,
 listened instinctively for something serious.  Gregory began
 in a smooth voice and with a rather bewildering smile.
 
@@ -116,7 +116,7 @@ at Southend.  You have irritated me."
 with an apology," said Gregory very calmly.  "No duel could wipe it out.
 If I struck you dead I could not wipe it out.  There is only one
 way by which that insult can be erased, and that way I choose.
-I am going, at the possible sacrifice of my life and honour, to prove
+I am going, at the possible sacrifice of my life and [[Honour|honour]], to prove
 to you that you were wrong in what you said."
 
 "In what I said?"
@@ -125,8 +125,8 @@ to you that you were wrong in what you said."
 
 "There are degrees of seriousness," replied Syme.  "I have
 never doubted that you were perfectly sincere in this sense,
-that you thought what you said well worth saying, that you
-thought a paradox might wake men up to a neglected truth."
+that you thought what you said [[Well|well]] worth saying, that you
+thought a [[Paradox|paradox]] might wake men up to a neglected [[Truth|truth]]."
 
 Gregory stared at him steadily and painfully.
 
@@ -135,16 +135,16 @@ You think me a flaneur who lets fall occasional truths.
 You do not think that in a deeper, a more deadly sense,
 I am serious."
 
-Syme struck his stick violently on the stones of the road.
+Syme struck his stick violently on the stones of the [[Road|road]].
 
 "Serious!" he cried.  "Good Lord! is this street serious?
 Are these damned Chinese lanterns serious?  Is the whole caboodle serious?
-One comes here and talks a pack of bosh, and perhaps some sense as well,
+One comes here and talks a pack of bosh, and perhaps some sense as [[Well|well]],
 but I should think very little of a man who didn't keep something in
 the background of his life that was more serious than all this talking--
 something more serious, whether it was religion or only drink."
 
-"Very well," said Gregory, his face darkening, "you shall see
+"Very [[Well|well]]," said Gregory, his face darkening, "you shall see
 something more serious than either drink or religion."
 
 Syme stood waiting with his usual air of mildness until Gregory
@@ -159,7 +159,7 @@ that you have one?"
 involves that you will not reveal what I am now going to tell you to any
 son of Adam, and especially not to the police?  Will you swear that!
 If you will take upon yourself this awful abnegation, if you will consent
-to burden your soul with a vow that you should never make and a knowledge
+to burden your [[Soul|soul]] with a vow that you should never make and a knowledge
 you should never dream about, I will promise you in return--"
 
 "You will promise me in return?" inquired Syme, as the other paused.
@@ -169,16 +169,16 @@ Syme suddenly took off his hat.
 
 "Your offer," he said, "is far too idiotic to be declined.
 You say that a poet is always an anarchist.  I disagree;
-but I hope at least that he is always a sportsman.
+but I [[Hope|hope]] at least that he is always a sportsman.
 Permit me, here and now, to swear as a Christian, and promise
-as a good comrade and a fellow-artist, that I will not
+as a good comrade and a fellow-[[Artist|artist]], that I will not
 report anything of this, whatever it is, to the police.
 And now, in the name of Colney Hatch, what is it?"
 
 "I think," said Gregory, with placid irrelevancy, "that we will call a cab."
 
-He gave two long whistles, and a hansom came rattling down the road.
-The two got into it in silence.  Gregory gave through the trap the
-address of an obscure public-house on the Chiswick bank of the river.
+He gave two long whistles, and a hansom came rattling down the [[Road|road]].
+The two got into it in [[Silence|silence]].  Gregory gave through the trap the
+address of an obscure public-[[house]] on the Chiswick bank of the [[River|river]].
 The cab whisked itself away again, and in it these two fantastics
 quitted their fantastic town.

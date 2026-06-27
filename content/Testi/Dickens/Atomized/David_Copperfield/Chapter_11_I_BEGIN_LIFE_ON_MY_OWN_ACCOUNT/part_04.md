@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 4)"
+title: "[[David Copperfield]] — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,30 +17,30 @@ tags:
 My rescue from this kind of existence I considered quite hopeless, and
 abandoned, as such, altogether. I am solemnly convinced that I never for
 one hour was reconciled to it, or was otherwise than miserably unhappy;
-but I bore it; and even to Peggotty, partly for the love of her and
+but I bore it; and even to Peggotty, partly for the [[Love|love]] of her and
 partly for shame, never in any letter (though many passed between us)
-revealed the truth.
+revealed the [[Truth|truth]].
 
 Mr. Micawber’s difficulties were an addition to the distressed state of
 my mind. In my forlorn state I became quite attached to the family, and
 used to walk about, busy with Mrs. Micawber’s calculations of ways and
 means, and heavy with the weight of Mr. Micawber’s debts. On a Saturday
-night, which was my grand treat,--partly because it was a great thing
-to walk home with six or seven shillings in my pocket, looking into the
+[[Night|night]], which was my grand treat,--partly because it was a great thing
+to walk [[Home|home]] with six or seven shillings in my pocket, looking into the
 shops and thinking what such a sum would buy, and partly because I went
-home early,--Mrs. Micawber would make the most heart-rending confidences
-to me; also on a Sunday morning, when I mixed the portion of tea or
-coffee I had bought over-night, in a little shaving-pot, and sat late
+[[Home|home]] early,--Mrs. Micawber would make the most heart-rending confidences
+to me; also on a [[Sunday]] morning, when I mixed the portion of tea or
+coffee I had bought over-[[Night|night]], in a little shaving-pot, and sat late
 at my breakfast. It was nothing at all unusual for Mr. Micawber to sob
-violently at the beginning of one of these Saturday night conversations,
+violently at the beginning of one of these Saturday [[Night|night]] conversations,
 and sing about Jack’s delight being his lovely Nan, towards the end of
-it. I have known him come home to supper with a flood of tears, and a
+it. I have known him come [[Home|home]] to supper with a flood of [[Tears|tears]], and a
 declaration that nothing was now left but a jail; and go to bed making a
-calculation of the expense of putting bow-windows to the house, ‘in
+calculation of the expense of putting bow-windows to the [[house]], ‘in
 case anything turned up’, which was his favourite expression. And Mrs.
 Micawber was just the same.
 
-A curious equality of friendship, originating, I suppose, in our
+A curious equality of [[Friendship|friendship]], originating, I suppose, in our
 respective circumstances, sprung up between me and these people,
 notwithstanding the ludicrous disparity in our years. But I never
 allowed myself to be prevailed upon to accept any invitation to eat and
@@ -56,17 +56,17 @@ are coming to a crisis.’
 It made me very miserable to hear it, and I looked at Mrs. Micawber’s
 red eyes with the utmost sympathy.
 
-‘With the exception of the heel of a Dutch cheese--which is not adapted
+‘With the exception of the heel of a Dutch [[cheese]]--which is not adapted
 to the wants of a young family’--said Mrs. Micawber, ‘there is really
 not a scrap of anything in the larder. I was accustomed to speak of
 the larder when I lived with papa and mama, and I use the word almost
 unconsciously. What I mean to express is, that there is nothing to eat
-in the house.’
+in the [[house]].’
 
 ‘Dear me!’ I said, in great concern.
 
 I had two or three shillings of my week’s money in my pocket--from which
-I presume that it must have been on a Wednesday night when we held this
+I presume that it must have been on a Wednesday [[Night|night]] when we held this
 conversation--and I hastily produced them, and with heartfelt emotion
 begged Mrs. Micawber to accept of them as a loan. But that lady, kissing
 me, and making me put them back in my pocket, replied that she couldn’t
@@ -96,13 +96,13 @@ morning, before I went to Murdstone and Grinby’s.
 
 Mr. Micawber had a few books on a little chiffonier, which he called the
 library; and those went first. I carried them, one after another, to
-a bookstall in the City Road--one part of which, near our house, was
+a bookstall in the [[City]] [[Road]]--one part of which, near our [[house]], was
 almost all bookstalls and bird shops then--and sold them for whatever
 they would bring. The keeper of this bookstall, who lived in a little
-house behind it, used to get tipsy every night, and to be violently
+[[house]] behind it, used to get tipsy every [[Night|night]], and to be violently
 scolded by his wife every morning. More than once, when I went there
 early, I had audience of him in a turn-up bedstead, with a cut in his
-forehead or a black eye, bearing witness to his excesses over-night (I
+forehead or a black eye, bearing witness to his excesses over-[[Night|night]] (I
 am afraid he was quarrelsome in his drink), and he, with a shaking
 hand, endeavouring to find the needful shillings in one or other of the
 pockets of his clothes, which lay upon the floor, while his wife, with a
@@ -110,17 +110,17 @@ baby in her arms and her shoes down at heel, never left off rating him.
 Sometimes he had lost his money, and then he would ask me to call again;
 but his wife had always got some--had taken his, I dare say, while he
 was drunk--and secretly completed the bargain on the stairs, as we went
-down together. At the pawnbroker’s shop, too, I began to be very well
+down together. At the pawnbroker’s shop, too, I began to be very [[Well|well]]
 known. The principal gentleman who officiated behind the counter, took
 a good deal of notice of me; and often got me, I recollect, to decline a
 Latin noun or adjective, or to conjugate a Latin verb, in his ear, while
 he transacted my business. After all these occasions Mrs. Micawber made
 a little treat, which was generally a supper; and there was a peculiar
-relish in these meals which I well remember.
+relish in these meals which I [[Well|well]] remember.
 
 At last Mr. Micawber’s difficulties came to a crisis, and he was
-arrested early one morning, and carried over to the King’s Bench Prison
-in the Borough. He told me, as he went out of the house, that the God
+arrested early one morning, and carried over to the [[King]]’s Bench [[Prison]]
+in the Borough. He told me, as he went out of the [[house]], that the God
 of day had now gone down upon him--and I really thought his heart was
 broken and mine too. But I heard, afterwards, that he was seen to play a
-lively game at skittles, before noon.
+lively game at skittles, before [[Noon|noon]].

@@ -37,13 +37,13 @@ it is only fair to state, however hurriedly, the superficial
 objection to the Suffragettes before we go on to the really
 subtle questions behind the Suffrage.
 
-Well, to get this honest but unpleasant business over, the objection
+[[Well]], to get this honest but unpleasant business over, the objection
 to the Suffragettes is not that they are Militant Suffragettes.
 On the contrary, it is that they are not militant enough.
 A revolution is a military thing; it has all the military virtues;
 one of which is that it comes to an end.  Two parties fight
 with deadly weapons, but under certain rules of arbitrary honor;
-the party that wins becomes the government and proceeds to govern.
+the party that wins becomes the [[government]] and proceeds to govern.
 The aim of civil war, like the aim of all war, is peace.
 Now the Suffragettes cannot raise civil war in this
 soldierly and decisive sense; first, because they are women;
@@ -52,18 +52,18 @@ raise something else; which is altogether another pair of shoes.
 They do not create revolution; what they do create is anarchy;
 and the difference between these is not a question of violence,
 but a question of fruitfulness and finality.  Revolution of its
-nature produces government; anarchy only produces more anarchy.
+[[Nature|nature]] produces [[government]]; anarchy only produces more anarchy.
 Men may have what opinions they please about the beheading
-of King Charles or King Louis, but they cannot deny that Bradshaw
+of [[King]] Charles or [[King]] Louis, but they cannot deny that Bradshaw
 and Cromwell ruled, that Carnot and Napoleon governed.
 Someone conquered; something occurred.  You can only knock off
-the King's head once.  But you can knock off the King's hat any
+the [[King]]'s head once.  But you can knock off the [[King]]'s hat any
 number of times.  Destruction is finite, obstruction is infinite:
 so long as rebellion takes the form of mere disorder
 (instead of an attempt to enforce a new order) there is no logical
 end to it; it can feed on itself and renew itself forever.
 If Napoleon had not wanted to be a Consul, but only wanted to be
-a nuisance, he could, possibly, have prevented any government
+a nuisance, he could, possibly, have prevented any [[government]]
 arising successfully out of the Revolution.  But such a proceeding
 would not have deserved the dignified name of rebellion.
 
@@ -77,25 +77,25 @@ are ready to be dead.  But a tiny minority, even an interested minority,
 may maintain mere disorder forever.  There is also, of course, in the case
 of these women, the further falsity that is introduced by their sex.
 It is false to state the matter as a mere brutal question of strength.
-If his muscles give a man a vote, then his horse ought to have two votes
-and his elephant five votes.  The truth is more subtle than that;
+If his muscles give a man a vote, then his [[Horse|horse]] ought to have two votes
+and his elephant five votes.  The [[Truth|truth]] is more subtle than that;
 it is that bodily outbreak is a man's instinctive weapon, like the hoofs
-to the horse or the tusks to the elephant.  All riot is a threat
+to the [[Horse|horse]] or the tusks to the elephant.  All riot is a threat
 of war; but the woman is brandishing a weapon she can never use.
 There are many weapons that she could and does use.  If (for example)
 all the women nagged for a vote they would get it in a month.
 But there again, one must remember, it would be necessary to get all
 the women to nag.  And that brings us to the end of the political surface
-of the matter.  The working objection to the Suffragette philosophy
+of the matter.  The working objection to the Suffragette [[philosophy]]
 is simply that overmastering millions of women do not agree with it.
 I am aware that some maintain that women ought to have votes whether the
 majority wants them or not; but this is surely a strange and childish case
-of setting up formal democracy to the destruction of actual democracy.
+of setting up formal [[democracy]] to the destruction of actual [[democracy]].
 What should the mass of women decide if they do not decide their general
 place in the State?  These people practically say that females may vote
 about everything except about Female Suffrage.
 
-But having again cleared my conscience of my merely political
+But having again cleared my [[Conscience|conscience]] of my merely political
 and possibly unpopular opinion, I will again cast back and try
 to treat the matter in a slower and more sympathetic style;
 attempt to trace the real roots of woman's position in
@@ -115,24 +115,24 @@ Cast your eye round the room in which you sit, and select some three
 or four things that have been with man almost since his beginning;
 which at least we hear of early in the centuries and often among
 the tribes.  Let me suppose that you see a knife on the table,
-a stick in the corner, or a fire on the hearth.  About each of these
+a stick in the corner, or a [[Fire|fire]] on the hearth.  About each of these
 you will notice one speciality; that not one of them is special.
 Each of these ancestral things is a universal thing;
 made to supply many different needs; and while tottering pedants
 nose about to find the cause and origin of some old custom,
-the truth is that it had fifty causes or a hundred origins.
-The knife is meant to cut wood, to cut cheese, to cut pencils,
-to cut throats; for a myriad ingenious or innocent human objects.
+the [[Truth|truth]] is that it had fifty causes or a hundred origins.
+The knife is meant to cut wood, to cut [[cheese]], to cut pencils,
+to cut throats; for a myriad ingenious or [[Innocent|innocent]] human objects.
 The stick is meant partly to hold a man up, partly to knock a man down;
 partly to point with like a finger-post, partly to balance with
 like a balancing pole, partly to trifle with like a cigarette,
 partly to kill with like a club of a giant; it is a crutch and a cudgel;
 an elongated finger and an extra leg.  The case is the same, of course,
-with the fire; about which the strangest modern views have arisen.
-A queer fancy seems to be current that a fire exists to warm people.
+with the [[Fire|fire]]; about which the strangest modern views have arisen.
+A queer fancy seems to be current that a [[Fire|fire]] exists to warm people.
 It exists to warm people, to light their darkness, to raise
 their spirits, to toast their muffins, to air their rooms,
 to cook their chestnuts, to tell stories to their children, to make
 checkered shadows on their walls, to boil their hurried kettles,
-and to be the red heart of a man's house and that hearth for which,
+and to be the red heart of a man's [[house]] and that hearth for which,
 as the great heathens said, a man should die.

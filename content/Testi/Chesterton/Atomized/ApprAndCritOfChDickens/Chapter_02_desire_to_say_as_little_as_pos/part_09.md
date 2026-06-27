@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 9)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -20,9 +20,9 @@ to him, they come generally in a manner very fragmentary and inverted,
 
 mostly in irrational glimpses of crisis or consummation. The last page
 
-comes before the first; before his romance has begun, he knows that it
+comes before the first; before his [[Romance|romance]] has begun, he knows that it
 
-has ended well. He sees the wedding before the wooing; he sees the death
+has ended [[Well|well]]. He sees the wedding before the wooing; he sees the [[Death|death]]
 
 before the duel. But most of all he sees the colour and character of the
 
@@ -40,9 +40,9 @@ of book he wants to write when he knows nothing else about it.
 
 _Pickwick_ is in Dickens's career the mere mass of light before the
 
-creation of sun or moon. It is the splendid, shapeless substance of
+creation of sun or [[Moon|moon]]. It is the splendid, shapeless substance of
 
-which all his stars were ultimately made. You might split up _Pickwick_
+which all his [[Stars|stars]] were ultimately made. You might split up _Pickwick_
 
 into innumerable novels as you could split up that primeval light into
 
@@ -54,7 +54,7 @@ of Dickens. He had not yet settled down into the plain, professional
 
 habit of picking out a plot and characters, of attending to one thing at
 
-a time, of writing a separate, sensible novel and sending it off to his
+a [[Time|time]], of writing a separate, sensible [[Novel|novel]] and sending it off to his
 
 publishers. He is still in the youthful whirl of the kind of world that
 
@@ -68,7 +68,7 @@ crude experiences of his boyhood; he sticks in irrelevant short stories
 
 shamelessly, as into a scrap-book; he adopts designs and abandons them,
 
-begins episodes and leaves them unfinished; but from the first page to
+begins episodes and [[Leaves|leaves]] them unfinished; but from the first page to
 
 the last there is a nameless and elemental ecstasy--that of the man who
 
@@ -76,7 +76,7 @@ is doing the kind of thing that he can do. Dickens, like every other
 
 honest and effective writer, came at last to some degree of care and
 
-self-restraint. He learned how to make his _dramatis personæ_ assist his
+[[Self|self]]-restraint. He learned how to make his _dramatis personæ_ assist his
 
 drama; he learned how to write stories which were full of rambling and
 
@@ -94,7 +94,7 @@ figures. That vision was _Pickwick_.
 
 It must be remembered that this is true even in connection with the
 
-man's contemporaneous biography. Apart from anything else about it,
+man's contemporaneous [[Biography|biography]]. Apart from anything else about it,
 
 _Pickwick_ was his first great chance. It was a big commission given in
 
@@ -108,13 +108,13 @@ book may most properly be regarded as simply a lump of Dickens. He was
 
 anxious to show all that was in him. He was more concerned to prove that
 
-he could write well than to prove that he could write this particular
+he could write [[Well|well]] than to prove that he could write this particular
 
-book well. And he did prove this, at any rate. No one ever sent such a
+book [[Well|well]]. And he did prove this, at any rate. No one ever sent such a
 
 sample as the sample of Dickens. His roll of leather blocked up the
 
-street; his lump of coal set the Thames on fire.
+street; his lump of coal set the Thames on [[Fire|fire]].
 
 
 
@@ -122,7 +122,7 @@ The book originated in the suggestion of a publisher; as many more good
 
 books have done than the arrogance of the man of letters is commonly
 
-inclined to admit. Very much is said in our time about Apollo and
+inclined to admit. Very much is said in our [[Time|time]] about [[Apollo]] and
 
 Admetus, and the impossibility of asking genius to work within
 
@@ -154,7 +154,7 @@ and promising; the more he has a grasp of everything the more ready he
 
 will be to write anything. It is very hard (if that is the question) to
 
-throw a brick at a man and ask him to write an epic; but the more he is
+throw a brick at a man and ask him to write an [[Epic|epic]]; but the more he is
 
 a great man the more able he will be to write about the brick. It is
 
@@ -164,13 +164,13 @@ and demand a flood of philosophical eloquence; but the greater the man
 
 is the more likely he will be to give it to you. So it was proved, not
 
-for the first time, in this great experiment of the early employment of
+for the first [[Time|time]], in this great experiment of the early employment of
 
 Dickens. Messrs. Chapman and Hall came to him with a scheme for a string
 
 of sporting stories to serve as the context, and one might almost say
 
-the excuse, for a string of sketches by Seymour, the sporting artist.
+the excuse, for a string of sketches by Seymour, the sporting [[artist]].
 
 Dickens made some modifications in the plan, but he adopted its main
 
@@ -188,6 +188,6 @@ brave figures. He was destined to have the applause of continents like a
 
 statesman, and to dictate to his publishers like a despot; but perhaps
 
-he never worked again so supremely well as here, where he worked in
+he never worked again so supremely [[Well|well]] as here, where he worked in
 
-chains. It may well be questioned whether his one hack book is not his
+[[Chains|chains]]. It may [[Well|well]] be questioned whether his one hack book is not his

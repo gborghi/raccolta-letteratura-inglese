@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 26 (part 6)"
+title: "[[Shirley]] — Chapter 26 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -50,7 +50,7 @@ presently executed. She herself measured out the milk, and distributed
 
 the bread round the cosy circle now enclosing the bright little
 
-schoolroom fire. She then took the post of toaster-general; and kneeling
+schoolroom [[Fire|fire]]. She then took the post of toaster-general; and kneeling
 
 on the rug, fork in hand, fulfilled her office with dexterity. Mr. Hall,
 
@@ -60,7 +60,7 @@ husky oatcake was from custom suave as manna, seemed in his best
 
 spirits. He talked and laughed gleefully--now with Caroline, whom he had
 
-fixed by his side, now with Shirley, and again with Louis Moore. And
+fixed by his side, now with [[Shirley]], and again with [[Louis Moore]]. And
 
 Louis met him in congenial spirit. He did not laugh much, but he uttered
 
@@ -70,25 +70,25 @@ marked by unexpected turns and a quite fresh flavour and poignancy, fell
 
 easily from his lips. He proved himself to be--what Mr. Hall had said he
 
-was--excellent company. Caroline marvelled at his humour, but still more
+was--excellent company. Caroline marvelled at his [[Humour|humour]], but still more
 
-at his entire self-possession. Nobody there present seemed to impose on
+at his entire [[Self|self]]-possession. Nobody there present seemed to impose on
 
 him a sensation of unpleasant restraint. Nobody seemed a bore--a
 
 check--a chill to him; and yet there was the cool and lofty Miss Keeldar
 
-kneeling before the fire, almost at his feet.
+kneeling before the [[Fire|fire]], almost at his feet.
 
 
 
-But Shirley was cool and lofty no longer, at least not at this moment.
+But [[Shirley]] was cool and lofty no longer, at least not at this moment.
 
-She appeared unconscious of the humility of her present position; or if
+She appeared unconscious of the [[Humility|humility]] of her present position; or if
 
 conscious, it was only to taste a charm in its lowliness. It did not
 
-revolt her pride that the group to whom she voluntarily officiated as
+revolt her [[Pride|pride]] that the group to whom she voluntarily officiated as
 
 handmaid should include her cousin's tutor. It did not scare her that
 
@@ -102,7 +102,7 @@ had been her equal.
 
 "You are overheated now," he said, when she had retained the fork for
 
-some time; "let me relieve you."
+some [[Time|time]]; "let me relieve you."
 
 
 
@@ -120,9 +120,9 @@ sumptuous luncheon was discussed.--"Would not you, Mr. Hall?"
 
 "To please you, I should; but, for my own part, I have cut him as an
 
-artist. I had enough of him in that capacity in Cumberland and
+[[Artist|artist]]. I had enough of him in that capacity in Cumberland and
 
-Westmoreland. Many a wetting we got amongst the mountains because he
+Westmoreland. Many a wetting we got amongst the [[Mountains|mountains]] because he
 
 would persist in sitting on a camp-stool, catching effects of
 
@@ -138,7 +138,7 @@ on his crutch with the other.
 
 Louis took it, but he still sat as if he wanted another to speak. It
 
-seemed as if he would not open it unless the proud Shirley deigned to
+seemed as if he would not open it unless the proud [[Shirley]] deigned to
 
 show herself interested in the exhibition.
 
@@ -156,9 +156,9 @@ spoiled the lock for me once; try now."
 
 He held it. She opened it, and, monopolizing the contents, had the first
 
-view of every sketch herself. She enjoyed the treat--if treat it
+view of every [[Sketch|sketch]] herself. She enjoyed the treat--if treat it
 
-were--in silence, without a single comment. Moore stood behind her chair
+were--in [[Silence|silence]], without a single comment. Moore stood behind her chair
 
 and looked over her shoulder, and when she had done and the others were
 
@@ -166,7 +166,7 @@ still gazing, he left his post and paced through the room.
 
 
 
-A carriage was heard in the lane--the gate-bell rang. Shirley started.
+A carriage was heard in the lane--the gate-bell rang. [[Shirley]] started.
 
 
 
@@ -174,7 +174,7 @@ A carriage was heard in the lane--the gate-bell rang. Shirley started.
 
 pretty figure--as they say--I am to receive company. I and Henry have
 
-been in the garden gathering fruit half the morning. Oh for rest under
+been in the [[Garden|garden]] gathering fruit half the morning. Oh for rest under
 
 my own vine and my own fig-tree! Happy is the slave-wife of the Indian
 
@@ -188,7 +188,7 @@ to the western woods."
 
 
 
-Louis Moore laughed.
+[[Louis Moore]] laughed.
 
 
 
@@ -196,19 +196,19 @@ Louis Moore laughed.
 
 yourself to the tender task of digging your lord's maize-field while he
 
-smokes his pipe or drinks fire-water."
+smokes his pipe or drinks [[Fire|fire]]-[[Water|water]]."
 
 
 
-Shirley seemed about to reply, but here the schoolroom door unclosed,
+[[Shirley]] seemed about to reply, but here the schoolroom door unclosed,
 
 admitting Mr. Sympson. That personage stood aghast when he saw the group
 
-around the fire.
+around the [[Fire|fire]].
 
 
 
-"I thought you alone, Miss Keeldar," he said. "I find quite a party."
+"I thought you [[Alone|alone]], Miss Keeldar," he said. "I find quite a party."
 
 
 
@@ -232,19 +232,19 @@ the drawing-room." And he bowed and withdrew.
 
 "The family from De Walden Hall! Couldn't be a worse set," murmured
 
-Shirley.
+[[Shirley]].
 
 
 
 She sat still, looking a little contumacious, and very much indisposed
 
-to stir. She was flushed with the fire. Her dark hair had been more than
+to stir. She was flushed with the [[Fire|fire]]. Her dark hair had been more than
 
-once dishevelled by the morning wind that day. Her attire was a light,
+once dishevelled by the morning [[Wind|wind]] that day. Her attire was a light,
 
 neatly fitting, but amply flowing dress of muslin; the shawl she had
 
-worn in the garden was still draped in a careless fold round her.
+worn in the [[Garden|garden]] was still draped in a careless fold round her.
 
 Indolent, wilful, picturesque, and singularly pretty was her
 
@@ -254,17 +254,17 @@ knows how, had given new bloom and expression to her features.
 
 
 
-"Shirley, Shirley, you ought to go," whispered Caroline.
+"[[Shirley]], [[Shirley]], you ought to go," whispered Caroline.
 
 
 
-"I wonder why?"
+"I [[Wonder|wonder]] why?"
 
 
 
 She lifted her eyes, and saw in the glass over the fireplace both Mr.
 
-Hall and Louis Moore gazing at her gravely.
+Hall and [[Louis Moore]] gazing at her gravely.
 
 
 
@@ -278,7 +278,7 @@ I ought to go hold up their hands."
 
 
 
-Again consulting the mirror, it reflected an unanimous vote against her.
+Again consulting the [[Mirror|mirror]], it reflected an unanimous vote against her.
 
 
 
@@ -288,13 +288,13 @@ duties to society. It is not permitted you to please only yourself."
 
 
 
-Louis Moore assented with a low "Hear, hear!"
+[[Louis Moore]] assented with a low "Hear, hear!"
 
 
 
 Caroline, approaching her, smoothed her wavy curls, gave to her attire a
 
-less artistic and more domestic grace, and Shirley was put out of the
+less artistic and more domestic grace, and [[Shirley]] was put out of the
 
 room, protesting still, by a pouting lip, against her dismissal.
 
@@ -308,7 +308,7 @@ mother, and there are two funerals."
 
 
 
-"Henry, get your books; it is lesson-time," said Moore, sitting down to
+"Henry, get your books; it is lesson-[[Time|time]]," said Moore, sitting down to
 
 his desk.
 
@@ -316,7 +316,7 @@ his desk.
 
 "A curious charm!" repeated the pupil, when he and his master were left
 
-alone. "True. Is she not a kind of white witch?" he asked.
+[[Alone|alone]]. "True. Is she not a kind of white [[Witch|witch]]?" he asked.
 
 
 
@@ -324,11 +324,11 @@ alone. "True. Is she not a kind of white witch?" he asked.
 
 
 
-"Of my cousin Shirley."
+"Of my cousin [[Shirley]]."
 
 
 
-"No irrelevant questions; study in silence."
+"No irrelevant questions; study in [[Silence|silence]]."
 
 
 

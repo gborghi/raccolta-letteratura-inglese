@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 4"
+title: "[[Shirley]] — Chapter 4"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -48,13 +48,13 @@ was an indocile, a scornful, and a sarcastic face--the face of a man
 
 difficult to lead, and impossible to drive. His stature was rather tall,
 
-and he was well made and wiry, and had a stately integrity of port;
+and he was [[Well|well]] made and wiry, and had a stately integrity of port;
 
 there was not a suspicion of the clown about him anywhere.
 
 
 
-I did not find it easy to sketch Mr. Yorke's person, but it is more
+I did not find it easy to [[Sketch|sketch]] Mr. Yorke's person, but it is more
 
 difficult to indicate his mind. If you expect to be treated to a
 
@@ -78,7 +78,7 @@ deficiency which strips a man of sympathy; and thirdly, he had too
 
 little of the organs of benevolence and ideality, which took the glory
 
-and softness from his nature, and for him diminished those divine
+and softness from his [[Nature|nature]], and for him diminished those divine
 
 qualities throughout the universe.
 
@@ -108,7 +108,7 @@ not be that of one who knows how to venerate. He believed in God and
 
 heaven; but his God and heaven were those of a man in whom awe,
 
-imagination, and tenderness lack.
+[[Imagination|imagination]], and tenderness lack.
 
 
 
@@ -136,7 +136,7 @@ wishes regarding those who had acted, as he thought, ferociously and
 
 tyrannically. To judge by his threats, he would have employed arbitrary,
 
-even cruel, means to advance the cause of freedom and equality.
+even cruel, means to advance the cause of [[Freedom|freedom]] and equality.
 
 Equality! yes, Mr. Yorke talked about equality, but at heart he was a
 
@@ -146,7 +146,7 @@ beneath him, and submitted quietly to be beneath him, but haughty as
 
 Beelzebub to whomsoever the world deemed (for he deemed no man) his
 
-superior. Revolt was in his blood: he could not bear control; his
+superior. Revolt was in his [[Blood|blood]]: he could not bear control; his
 
 father, his grandfather before him, could not bear it, and his children
 
@@ -156,7 +156,7 @@ after him never could.
 
 The want of general benevolence made him very impatient of imbecility,
 
-and of all faults which grated on his strong, shrewd nature; it left no
+and of all faults which grated on his strong, shrewd [[Nature|nature]]; it left no
 
 check to his cutting sarcasm. As he was not merciful, he would sometimes
 
@@ -170,7 +170,7 @@ As to the paucity of ideality in his mind, that can scarcely be called a
 
 fault: a fine ear for music, a correct eye for colour and form, left him
 
-the quality of taste; and who cares for imagination? Who does not think
+the quality of taste; and who cares for [[Imagination|imagination]]? Who does not think
 
 it a rather dangerous, senseless attribute, akin to weakness, perhaps
 
@@ -188,9 +188,9 @@ dim if that flame did not refine their vision, that they would be lonely
 
 if this strange companion abandoned them. You would suppose that it
 
-imparted some glad hope to spring, some fine charm to summer, some
+imparted some glad [[Hope|hope]] to [[Spring|spring]], some fine charm to [[Summer|summer]], some
 
-tranquil joy to autumn, some consolation to winter, which you do not
+tranquil joy to [[Autumn|autumn]], some consolation to [[Winter|winter]], which you do not
 
 feel. An illusion, of course; but the fanatics cling to their dream, and
 
@@ -198,7 +198,7 @@ would not give it for gold.
 
 
 
-As Mr. Yorke did not possess poetic imagination himself, he considered
+As Mr. Yorke did not possess poetic [[Imagination|imagination]] himself, he considered
 
 it a most superfluous quality in others. Painters and musicians he could
 
@@ -208,15 +208,15 @@ their art; he could see the charm of a fine picture, and feel the
 
 pleasure of good music; but a quiet poet--whatever force struggled,
 
-whatever fire glowed, in his breast--if he could not have played the man
+whatever [[Fire|fire]] glowed, in his breast--if he could not have played the man
 
-in the counting-house, of the tradesman in the Piece Hall, might have
+in the counting-[[house]], of the tradesman in the Piece Hall, might have
 
 lived despised, and died scorned, under the eyes of Hiram Yorke.
 
 
 
-And as there are many Hiram Yorkes in the world, it is well that the
+And as there are many Hiram Yorkes in the world, it is [[Well|well]] that the
 
 true poet, quiet externally though he may be, has often a truculent
 
@@ -228,7 +228,7 @@ correctly ascertain the weight and value of the pursuits they disdain
 
 him for not having followed. It is happy that he can have his own bliss,
 
-his own society with his great friend and goddess Nature, quite
+his own society with his great friend and goddess [[Nature]], quite
 
 independent of those who find little pleasure in him, and in whom he
 
@@ -242,7 +242,7 @@ able to maintain a festal brightness and cherishing glow in his bosom,
 
 which makes all bright and genial for him; while strangers, perhaps,
 
-deem his existence a Polar winter never gladdened by a sun. The true
+deem his existence a Polar [[Winter|winter]] never gladdened by a sun. The true
 
 poet is not one whit to be pitied, and he is apt to laugh in his sleeve
 
@@ -304,11 +304,11 @@ Mr. Yorke's family was the first and oldest in the district; and he,
 
 though not the wealthiest, was one of the most influential men. His
 
-education had been good. In his youth, before the French Revolution, he
+[[Education|education]] had been good. In his youth, before the [[French Revolution]], he
 
 had travelled on the Continent. He was an adept in the French and
 
-Italian languages. During a two years' sojourn in Italy he had collected
+Italian languages. During a two years' sojourn in [[Italy]] he had collected
 
 many good paintings and tasteful rarities, with which his residence was
 
@@ -338,7 +338,7 @@ character, high or low, ever found acceptance with him; a refined,
 
 insipid personage, however exalted in station, was his aversion. He
 
-would spend an hour any time in talking freely with a shrewd workman of
+would spend an hour any [[Time|time]] in talking freely with a shrewd workman of
 
 his own, or with some queer, sagacious old woman amongst his cottagers,
 
@@ -356,7 +356,7 @@ order of mind, plain, ingenuous, neglecting refinement, almost devoid of
 
 intellectuality, and quite incapable of appreciating what was
 
-intellectual in him, but which, at the same time, never felt disgust at
+intellectual in him, but which, at the same [[Time|time]], never felt disgust at
 
 his rudeness, was not easily wounded by his sarcasm, did not closely
 
@@ -432,11 +432,11 @@ his alterations and improvements, had frequent occasion to consult him.
 
 As to the other guest now present in Mr. Yorke's parlour, Mr. Helstone,
 
-between him and his host there existed a double antipathy--the antipathy
+between him and his host there existed a [[Double|double]] antipathy--the antipathy
 
-of nature and that of circumstances. The free-thinker hated the
+of [[Nature|nature]] and that of circumstances. The free-thinker hated the
 
-formalist; the lover of liberty detested the disciplinarian. Besides, it
+formalist; the [[Lover|lover]] of liberty detested the disciplinarian. Besides, it
 
 was said that in former years they had been rival suitors of the same
 
@@ -452,7 +452,7 @@ ready tongue, chiefly seemed to attract him. He never, however, proposed
 
 to any of these brilliant belles whose society he sought; and all at
 
-once he seriously fell in love with and eagerly wooed a girl who
+once he seriously fell in [[Love|love]] with and eagerly wooed a girl who
 
 presented a complete contrast to those he had hitherto noticed--a girl
 
@@ -468,15 +468,15 @@ rarely smiled at his jests, paid him no respect and no attention; no
 
 matter that she seemed the opposite of everything feminine he had ever
 
-in his whole life been known to admire. For him Mary Cave was perfect,
+in his whole life been known to admire. For him Mary [[Cave]] was perfect,
 
-because somehow, for some reason--no doubt he had a reason--he loved
+because somehow, for some reason--no [[Doubt|doubt]] he had a reason--he loved
 
 her.
 
 
 
-Mr. Helstone, at that time curate of Briarfield, loved Mary too--or, at
+Mr. Helstone, at that [[Time|time]] curate of Briarfield, loved Mary too--or, at
 
 any rate, he fancied her. Several others admired her, for she was
 
@@ -486,7 +486,7 @@ office's sake--that office probably investing him with some of the
 
 illusion necessary to allure to the commission of matrimony, and which
 
-Miss Cave did not find in any of the young wool-staplers, her other
+Miss [[Cave]] did not find in any of the young wool-staplers, her other
 
 adorers. Mr. Helstone neither had, nor professed to have, Mr. Yorke's
 
@@ -500,13 +500,13 @@ She accepted him at the first offer, and they were married.
 
 
 
-Nature never intended Mr. Helstone to make a very good husband,
+[[Nature]] never intended Mr. Helstone to make a very good husband,
 
 especially to a quiet wife. He thought so long as a woman was silent
 
 nothing ailed her, and she wanted nothing. If she did not complain of
 
-solitude, solitude, however continued, could not be irksome to her. If
+[[Solitude|solitude]], [[Solitude|solitude]], however continued, could not be irksome to her. If
 
 she did not talk and put herself forward, express a partiality for this,
 
@@ -532,7 +532,7 @@ clay left, cold and white, in the conjugal couch, he felt his
 
 bereavement--who shall say how little? Yet, perhaps, more than he seemed
 
-to feel it; for he was not a man from whom grief easily wrung tears.
+to feel it; for he was not a man from whom grief easily wrung [[Tears|tears]].
 
 
 
@@ -542,7 +542,7 @@ likewise a female attendant, who had waited upon Mrs. Helstone in her
 
 sickness, and who, perhaps, had had opportunities of learning more of
 
-the deceased lady's nature, of her capacity for feeling and loving, than
+the deceased lady's [[Nature|nature]], of her capacity for feeling and loving, than
 
 her husband knew. They gossiped together over the corpse, related
 
@@ -570,7 +570,7 @@ believed them. Already, of course, he had no friendly feeling to his
 
 successful rival. Though himself a married man now, and united to a
 
-woman who seemed a complete contrast to Mary Cave in all respects, he
+woman who seemed a complete contrast to Mary [[Cave]] in all respects, he
 
 could not forget the great disappointment of his life; and when he heard
 
@@ -582,19 +582,19 @@ animosity.
 
 
 
-Of the nature and strength of this animosity Mr. Helstone was but half
+Of the [[Nature|nature]] and strength of this animosity Mr. Helstone was but half
 
-aware. He neither knew how much Yorke had loved Mary Cave, what he had
+aware. He neither knew how much Yorke had loved Mary [[Cave]], what he had
 
 felt on losing her, nor was he conscious of the calumnies concerning his
 
 treatment of her, familiar to every ear in the neighbourhood but his
 
-own. He believed political and religious differences alone separated him
+own. He believed political and religious differences [[Alone|alone]] separated him
 
 and Mr. Yorke. Had he known how the case really stood, he would hardly
 
-have been induced by any persuasion to cross his former rival's
+have been induced by any [[Persuasion|persuasion]] to [[Cross|cross]] his former rival's
 
 threshold.
 
@@ -604,7 +604,7 @@ threshold.
 
 
 
-Mr. Yorke did not resume his lecture of Robert Moore. The conversation
+Mr. Yorke did not resume his lecture of [[Robert Moore]]. The conversation
 
 ere long recommenced in a more general form, though still in a somewhat
 
@@ -624,7 +624,7 @@ constituted authorities, the growing indisposition to bear with patience
 
 evils he regarded as inevitable. The cures he prescribed were vigorous
 
-government interference, strict magisterial vigilance; when necessary,
+[[government]] interference, strict magisterial vigilance; when necessary,
 
 prompt military coercion.
 
@@ -646,7 +646,7 @@ authorities he regarded as the most promising sign of the times; the
 
 masters, he allowed, were truly aggrieved, but their main grievances had
 
-been heaped on them by a "corrupt, base, and bloody" government (these
+been heaped on them by a "corrupt, base, and bloody" [[government]] (these
 
 were Mr. Yorke's epithets). Madmen like Pitt, demons like Castlereagh,
 
@@ -668,7 +668,7 @@ public men did--that hung a millstone about England's neck.
 
 "But where was the use of talking?" he demanded. "What chance was there
 
-of reason being heard in a land that was king-ridden, priest-ridden,
+of reason being heard in a land that was [[King|king]]-ridden, priest-ridden,
 
 peer-ridden; where a lunatic was the nominal monarch, an unprincipled
 
@@ -694,13 +694,13 @@ instances where sentiments of this sort had been very bravely maintained
 
 so long as health, strength, and worldly prosperity had been the allies
 
-of him who professed them; but there came a time," he said, "to all men,
+of him who professed them; but there came a [[Time|time]]," he said, "to all men,
 
-'when the keepers of the house should tremble; when they should be
+'when the keepers of the [[house]] should tremble; when they should be
 
-afraid of that which is high, and fear should be in the way;' and that
+afraid of that which is high, and [[Fear|fear]] should be in the way;' and that
 
-time was the test of the advocate of anarchy and rebellion, the enemy of
+[[Time|time]] was the test of the advocate of anarchy and rebellion, the enemy of
 
 religion and order. Ere now," he affirmed, "he had been called upon to
 
@@ -710,9 +710,9 @@ dying-bed of one of her most rancorous foes; he had seen such a one
 
 stricken with remorse, solicitous to discover a place for repentance,
 
-and unable to find any, though he sought it carefully with tears. He
+and unable to find any, though he sought it carefully with [[Tears|tears]]. He
 
-must forewarn Mr. Yorke that blasphemy against God and the king was a
+must forewarn Mr. Yorke that blasphemy against God and the [[King|king]] was a
 
 deadly sin, and that there was such a thing as 'judgment to come.'"
 
@@ -722,7 +722,7 @@ Mr. Yorke "believed fully that there was such a thing as judgment to
 
 come. If it were otherwise, it would be difficult to imagine how all the
 
-scoundrels who seemed triumphant in this world, who broke innocent
+scoundrels who seemed triumphant in this world, who broke [[Innocent|innocent]]
 
 hearts with impunity, abused unmerited privileges, were a scandal to
 
@@ -734,9 +734,9 @@ be properly paid off in such coin as they had earned. But," he added,
 
 "whenever he got low-spirited about such-like goings-on, and their
 
-seeming success in this mucky lump of a planet, he just reached down t'
+seeming [[success]] in this mucky lump of a planet, he just reached down t'
 
-owd book" (pointing to a great Bible in the bookcase), "opened it like
+owd book" (pointing to a great [[Bible]] in the bookcase), "opened it like
 
 at a chance, and he was sure to light of a verse blazing wi' a blue
 
@@ -760,7 +760,7 @@ steps tend."
 
 from the very gates of heaven, borne through the air, and thrust in at a
 
-door in the side of the hill which led down to hell."
+door in the side of the [[Hill|hill]] which led down to hell."
 
 
 
@@ -778,7 +778,7 @@ dashed to pieces with his fall."
 
 spectator of this worldly combat, and whose indifference to the party
 
-politics of the day, as well as to the gossip of the neighbourhood, made
+politics of the day, as [[Well|well]] as to the gossip of the neighbourhood, made
 
 him an impartial, if apathetic, judge of the merits of such an
 
@@ -792,13 +792,13 @@ current against the fellows who have broken my frames that I have none
 
 to spare for my private acquaintance, and still less for such a vague
 
-thing as a sect or a government. But really, gentlemen, you both seem
+thing as a sect or a [[government]]. But really, gentlemen, you both seem
 
 very bad by your own showing--worse than ever I suspected you to be.--I
 
-dare not stay all night with a rebel and blasphemer like you, Yorke; and
+dare not stay all [[Night|night]] with a [[Rebel|rebel]] and blasphemer like you, Yorke; and
 
-I hardly dare ride home with a cruel and tyrannical ecclesiastic like
+I hardly dare ride [[Home|home]] with a cruel and tyrannical ecclesiastic like
 
 Mr. Helstone."
 
@@ -814,7 +814,7 @@ or not, as you please."
 
 Yorke. "It's midnight, and past; and I'll have nob'dy staying up i' my
 
-house any longer. Ye mun all go."
+[[house]] any longer. Ye mun all go."
 
 
 

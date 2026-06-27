@@ -20,13 +20,13 @@ The Toy Theatre
 
 There is only one reason why all grown-up people do not play with toys;
 and it is a fair reason.  The reason is that playing with toys
-takes so very much more time and trouble than anything else.
+takes so very much more [[Time|time]] and trouble than anything else.
 Playing as children mean playing is the most serious thing in the world;
 and as soon as we have small duties or small sorrows we have to
 abandon to some extent so enormous and ambitious a plan of life.
-We have enough strength for politics and commerce and art and philosophy;
-we have not enough strength for play.  This is a truth which every one
-will recognize who, as a child, has ever played with anything at all;
+We have enough strength for politics and commerce and art and [[philosophy]];
+we have not enough strength for play.  This is a [[Truth|truth]] which every one
+will recognize who, as a [[Child|child]], has ever played with anything at all;
 any one who has played with bricks, any one who has played with dolls,
 any one who has played with tin soldiers.  My journalistic work,
 which earns money, is not pursued with such awful persistency as that
@@ -38,7 +38,7 @@ Take the case of bricks.  If you publish a book to-morrow
 in twelve volumes (it would be just like you) on "The Theory
 and Practice of European Architecture," your work may be laborious,
 but it is fundamentally frivolous.  It is not serious as the work
-of a child piling one brick on the other is serious; for the simple
+of a [[Child|child]] piling one brick on the other is serious; for the simple
 reason that if your book is a bad book no one will ever be able
 ultimately and entirely to prove to you that it is a bad book.
 Whereas if his balance of bricks is a bad balance of bricks,
@@ -50,11 +50,11 @@ could help it.
 
 Take the case of dolls.  It is much easier to care for an educational
 cause than to care for a doll.  It is as easy to write an article on
-education as to write an article on toffee or tramcars or anything else.
+[[Education|education]] as to write an article on toffee or tramcars or anything else.
 But it is almost as difficult to look after a doll as to look after
-a child.  The little girls that I meet in the little streets of Battersea
+a [[Child|child]].  The little girls that I meet in the little streets of Battersea
 worship their dolls in a way that reminds one not so much of play
-as idolatry.  In some cases the love and care of the artistic symbol
+as idolatry.  In some cases the [[Love|love]] and care of the artistic symbol
 has actually become more important than the human reality which it was,
 I suppose, originally meant to symbolize.
 
@@ -62,13 +62,13 @@ I remember a Battersea little girl who wheeled her
 large baby sister stuffed into a doll's perambulator.
 When questioned on this course of conduct, she replied:
 "I haven't got a dolly, and Baby is pretending to be my dolly."
-Nature was indeed imitating art.  First a doll had been a substitute
-for a child; afterwards a child was a mere substitute for a doll.
+[[Nature]] was indeed imitating art.  First a doll had been a substitute
+for a [[Child|child]]; afterwards a [[Child|child]] was a mere substitute for a doll.
 But that opens other matters; the point is here that such devotion
 takes up most of the brain and most of the life; much as if it
 were really the thing which it is supposed to symbolize.
 The point is that the man writing on motherhood is merely
-an educationalist; the child playing with a doll is a mother.
+an educationalist; the [[Child|child]] playing with a doll is a mother.
 
 Take the case of soldiers.  A man writing an article
 on military strategy is simply a man writing an article;
@@ -84,7 +84,7 @@ that Delarey was being hard pressed by a column which was pursuing
 him under the command of Methuen.  Methuen chased Delarey;
 and Delarey's activity was due to his being short of stores.
 Otherwise he would have stood quite still while he was chased.
-I run after Jones with a hatchet, and if he turns round and tries
+I run after [[Jones]] with a hatchet, and if he turns round and tries
 to get rid of me the only possible explanation is that he has
 a very small balance at his bankers.  I cannot believe that
 any boy playing at soldiers would be as idiotic as this.
@@ -98,14 +98,14 @@ Broadly, then, what keeps adults from joining in children's
 games is, generally speaking, not that they have no pleasure
 in them; it is simply that they have no leisure for them.
 It is that they cannot afford the expenditure of toil
-and time and consideration for so grand and grave a scheme.
-I have been myself attempting for some time past to complete
+and [[Time|time]] and consideration for so grand and [[Grave|grave]] a scheme.
+I have been myself attempting for some [[Time|time]] past to complete
 a play in a small toy theatre, the sort of toy theatre
 that used to be called Penny Plain and Twopence Coloured;
 only that I drew and coloured the figures and scenes myself.
 Hence I was free from the degrading obligation of having to pay
 either a penny or twopence; I only had to pay a shilling a sheet
-for good cardboard and a shilling a box for bad water colours.
+for good cardboard and a shilling a box for bad [[Water|water]] colours.
 The kind of miniature stage I mean is probably familiar to every one;
 it is never more than a development of the stage which Skelt
 made and Stevenson celebrated.
@@ -120,22 +120,22 @@ that is how it will be seen), still lacks most conspicuously,
 alas! two wings of the Sultan's Palace, and also some comprehensible
 and workable way of getting up the curtain.
 
-All this gives me a feeling touching the real meaning of immortality.
+All this gives me a feeling touching the real meaning of [[Immortality|immortality]].
 In this world we cannot have pure pleasure.  This is partly because
 pure pleasure would be dangerous to us and to our neighbours.
 But it is partly because pure pleasure is a great deal too much trouble.
-If I am ever in any other and better world, I hope that I shall have
-enough time to play with nothing but toy theatres; and I hope that I
+If I am ever in any other and better world, I [[Hope|hope]] that I shall have
+enough [[Time|time]] to play with nothing but toy theatres; and I [[Hope|hope]] that I
 shall have enough divine and superhuman energy to act at least one play
 in them without a hitch.
 
 . . . . .
 
-Meanwhile the philosophy of toy theatres is worth any
+Meanwhile the [[philosophy]] of toy theatres is worth any
 one's consideration.  All the essential morals which modern
 men need to learn could be deduced from this toy.
 Artistically considered, it reminds us of the main principle of art,
-the principle which is in most danger of being forgotten in our time.
+the principle which is in most danger of being forgotten in our [[Time|time]].
 I mean the fact that art consists of limitation; the fact that
 art is limitation.  Art does not consist in expanding things.
 Art consists of cutting things down, as I cut down with a pair
@@ -145,15 +145,15 @@ for though the creature has few other artistic merits he is at
 least dragonish.  The modern philosopher, who likes infinity,
 is quite welcome to a sheet of the plain cardboard.
 The most artistic thing about the theatrical art is the fact
-that the spectator looks at the whole thing through a window.
+that the spectator looks at the whole thing through a [[Window|window]].
 This is true even of theatres inferior to my own; even at the
-Court Theatre or His Majesty's you are looking through a window;
-an unusually large window.  But the advantage of the small
-theatre exactly is that you are looking through a small window.
+[[Court]] Theatre or His Majesty's you are looking through a [[Window|window]];
+an unusually large [[Window|window]].  But the advantage of the small
+theatre exactly is that you are looking through a small [[Window|window]].
 Has not every one noticed how sweet and startling any
 landscape looks when seen through an arch?  This strong,
 square shape, this shutting off of everything else is not
-only an assistance to beauty; it is the essential of beauty.
+only an assistance to [[Beauty|beauty]]; it is the essential of [[Beauty|beauty]].
 The most beautiful part of every picture is the frame.
 
 This especially is true of the toy theatre; that, by reducing
@@ -161,13 +161,13 @@ the scale of events it can introduce much larger events.
 Because it is small it could easily represent the earthquake in Jamaica.
 Because it is small it could easily represent the Day of Judgment.
 Exactly in so far as it is limited, so far it could play easily
-with falling cities or with falling stars.  Meanwhile the big
+with falling cities or with falling [[Stars|stars]].  Meanwhile the big
 theatres are obliged to be economical because they are big.
 When we have understood this fact we shall have understood something
 of the reason why the world has always been first inspired by
-small nationalities.  The vast Greek philosophy could fit easier
-into the small city of Athens than into the immense Empire of Persia.
-In the narrow streets of Florence Dante felt that there was room
+small nationalities.  The vast Greek [[philosophy]] could fit easier
+into the small [[City|city]] of Athens than into the immense Empire of Persia.
+In the narrow streets of Florence [[Dante]] felt that there was room
 for Purgatory and Heaven and Hell.  He would have been stifled
 by the British Empire.  Great empires are necessarily prosaic;
 for it is beyond human power to act a great poem upon so great a scale.

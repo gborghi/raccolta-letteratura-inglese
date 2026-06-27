@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 4"
+title: "Bleak [[house|House]] — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,7 +19,7 @@ CHAPTER IV
 Telescopic Philanthropy
 
 
-We were to pass the night, Mr. Kenge told us when we arrived in his
+We were to pass the [[Night|night]], Mr. Kenge told us when we arrived in his
 room, at Mrs. Jellyby’s; and then he turned to me and said he took it
 for granted I knew who Mrs. Jellyby was.
 
@@ -27,35 +27,35 @@ for granted I knew who Mrs. Jellyby was.
 Clare—”
 
 But no, they knew nothing whatever about Mrs. Jellyby. “In-deed! Mrs.
-Jellyby,” said Mr. Kenge, standing with his back to the fire and
+Jellyby,” said Mr. Kenge, standing with his back to the [[Fire|fire]] and
 casting his eyes over the dusty hearth-rug as if it were Mrs.
-Jellyby’s biography, “is a lady of very remarkable strength of
+Jellyby’s [[Biography|biography]], “is a lady of very remarkable strength of
 character who devotes herself entirely to the public. She has devoted
 herself to an extensive variety of public subjects at various times
 and is at present (until something else attracts her) devoted to the
 subject of Africa, with a view to the general cultivation of the
 coffee berry—AND the natives—and the happy settlement, on the banks
-of the African rivers, of our superabundant home population. Mr.
+of the African rivers, of our superabundant [[Home|home]] population. Mr.
 Jarndyce, who is desirous to aid any work that is considered likely
 to be a good work and who is much sought after by philanthropists,
 has, I believe, a very high opinion of Mrs. Jellyby.”
 
 Mr. Kenge, adjusting his cravat, then looked at us.
 
-“And Mr. Jellyby, sir?” suggested Richard.
+“And Mr. Jellyby, sir?” suggested [[Richard]].
 
 “Ah! Mr. Jellyby,” said Mr. Kenge, “is—a—I don’t know that I can
 describe him to you better than by saying that he is the husband of
 Mrs. Jellyby.”
 
-“A nonentity, sir?” said Richard with a droll look.
+“A nonentity, sir?” said [[Richard]] with a droll look.
 
 “I don’t say that,” returned Mr. Kenge gravely. “I can’t say that,
 indeed, for I know nothing whatever OF Mr. Jellyby. I never, to my
 knowledge, had the pleasure of seeing Mr. Jellyby. He may be a very
 superior man, but he is, so to speak, merged—merged—in the more
 shining qualities of his wife.” Mr. Kenge proceeded to tell us that
-as the road to Bleak House would have been very long, dark, and
+as the [[Road|road]] to Bleak [[house|House]] would have been very long, dark, and
 tedious on such an evening, and as we had been travelling already,
 Mr. Jarndyce had himself proposed this arrangement. A carriage would
 be at Mrs. Jellyby’s to convey us out of town early in the forenoon
@@ -70,21 +70,21 @@ to take us round too as soon as we pleased.
 “Then it only remains,” said Mr. Kenge, shaking hands with us, “for
 me to express my lively satisfaction in (good day, Miss Clare!) the
 arrangement this day concluded and my (GOOD-bye to you, Miss
-Summerson!) lively hope that it will conduce to the happiness, the
-(glad to have had the honour of making your acquaintance, Mr.
+Summerson!) lively [[Hope|hope]] that it will conduce to the happiness, the
+(glad to have had the [[Honour|honour]] of making your acquaintance, Mr.
 Carstone!) welfare, the advantage in all points of view, of all
 concerned! Guppy, see the party safely there.”
 
-“Where IS ‘there,’ Mr. Guppy?” said Richard as we went downstairs.
+“Where IS ‘there,’ Mr. Guppy?” said [[Richard]] as we went downstairs.
 
 “No distance,” said Mr. Guppy; “round in Thavies Inn, you know.”
 
 “I can’t say I know where it is, for I come from Winchester and am
-strange in London.”
+strange in [[London]].”
 
 “Only round the corner,” said Mr. Guppy. “We just twist up Chancery
-Lane, and cut along Holborn, and there we are in four minutes’ time,
-as near as a toucher. This is about a London particular NOW, ain’t
+Lane, and cut along Holborn, and there we are in four minutes’ [[Time|time]],
+as near as a toucher. This is about a [[London]] particular NOW, ain’t
 it, miss?” He seemed quite delighted with it on my account.
 
 “The fog is very dense indeed!” said I.
@@ -93,45 +93,45 @@ it, miss?” He seemed quite delighted with it on my account.
 up the steps. “On the contrary, it seems to do you good, miss,
 judging from your appearance.”
 
-I knew he meant well in paying me this compliment, so I laughed at
+I knew he meant [[Well|well]] in paying me this compliment, so I laughed at
 myself for blushing at it when he had shut the door and got upon the
 box; and we all three laughed and chatted about our inexperience and
-the strangeness of London until we turned up under an archway to our
+the strangeness of [[London]] until we turned up under an archway to our
 destination—a narrow street of high houses like an oblong cistern to
 hold the fog. There was a confused little crowd of people,
-principally children, gathered about the house at which we stopped,
-which had a tarnished brass plate on the door with the inscription
+principally children, gathered about the [[house]] at which we stopped,
+which had a tarnished brass plate on the door with the [[Inscription|inscription]]
 JELLYBY.
 
 “Don’t be frightened!” said Mr. Guppy, looking in at the
-coach-window. “One of the young Jellybys been and got his head
+coach-[[Window|window]]. “One of the young Jellybys been and got his head
 through the area railings!”
 
-“Oh, poor child,” said I; “let me out, if you please!”
+“Oh, poor [[Child|child]],” said I; “let me out, if you please!”
 
 “Pray be careful of yourself, miss. The young Jellybys are always up
 to something,” said Mr. Guppy.
 
-I made my way to the poor child, who was one of the dirtiest little
+I made my way to the poor [[Child|child]], who was one of the dirtiest little
 unfortunates I ever saw, and found him very hot and frightened and
 crying loudly, fixed by the neck between two iron railings, while a
 milkman and a beadle, with the kindest intentions possible, were
 endeavouring to drag him back by the legs, under a general impression
 that his skull was compressible by those means. As I found (after
 pacifying him) that he was a little boy with a naturally large head,
-I thought that perhaps where his head could go, his body could
+I thought that perhaps where his head could go, his [[Body|body]] could
 follow, and mentioned that the best mode of extrication might be to
 push him forward. This was so favourably received by the milkman and
 beadle that he would immediately have been pushed into the area if I
-had not held his pinafore while Richard and Mr. Guppy ran down
+had not held his pinafore while [[Richard]] and Mr. Guppy ran down
 through the kitchen to catch him when he should be released. At last
 he was happily got down without any accident, and then he began to
 beat Mr. Guppy with a hoop-stick in quite a frantic manner.
 
-Nobody had appeared belonging to the house except a person in
-pattens, who had been poking at the child from below with a broom; I
+Nobody had appeared belonging to the [[house]] except a person in
+pattens, who had been poking at the [[Child|child]] from below with a broom; I
 don’t know with what object, and I don’t think she did. I therefore
-supposed that Mrs. Jellyby was not at home, and was quite surprised
+supposed that Mrs. Jellyby was not at [[Home|home]], and was quite surprised
 when the person appeared in the passage without the pattens, and
 going up to the back room on the first floor before Ada and me,
 announced us as, “Them two young ladies, Missis Jellyby!” We passed
@@ -141,12 +141,12 @@ one of the poor little things fell downstairs—down a whole flight
 (as it sounded to me), with a great noise.
 
 Mrs. Jellyby, whose face reflected none of the uneasiness which we
-could not help showing in our own faces as the dear child’s head
-recorded its passage with a bump on every stair—Richard afterwards
+could not help showing in our own faces as the dear [[Child|child]]’s head
+recorded its passage with a bump on every stair—[[Richard]] afterwards
 said he counted seven, besides one for the landing—received us with
 perfect equanimity. She was a pretty, very diminutive, plump woman of
 from forty to fifty, with handsome eyes, though they had a curious
-habit of seeming to look a long way off. As if—I am quoting Richard
+habit of seeming to look a long way off. As if—I am quoting [[Richard]]
 again—they could see nothing nearer than Africa!
 
 “I am very glad indeed,” said Mrs. Jellyby in an agreeable voice, “to
@@ -161,13 +161,13 @@ shawl in which she had been loosely muffled dropped onto her chair
 when she advanced to us; and as she turned to resume her seat, we
 could not help noticing that her dress didn’t nearly meet up the back
 and that the open space was railed across with a lattice-work of
-stay-lace—like a summer-house.
+stay-lace—like a [[Summer|summer]]-[[house]].
 
 The room, which was strewn with papers and nearly filled by a great
 writing-table covered with similar litter, was, I must say, not only
 very untidy but very dirty. We were obliged to take notice of that
 with our sense of sight, even while, with our sense of hearing, we
-followed the poor child who had tumbled downstairs: I think into the
+followed the poor [[Child|child]] who had tumbled downstairs: I think into the
 back kitchen, where somebody seemed to stifle him.
 
 But what principally struck us was a jaded and unhealthy-looking
@@ -181,13 +181,13 @@ place.
 
 “You find me, my dears,” said Mrs. Jellyby, snuffing the two great
 office candles in tin candlesticks, which made the room taste
-strongly of hot tallow (the fire had gone out, and there was nothing
+strongly of hot tallow (the [[Fire|fire]] had gone out, and there was nothing
 in the grate but ashes, a bundle of wood, and a poker), “you find me,
 my dears, as usual, very busy; but that you will excuse. The African
-project at present employs my whole time. It involves me in
+project at present employs my whole [[Time|time]]. It involves me in
 correspondence with public bodies and with private individuals
 anxious for the welfare of their species all over the country. I am
-happy to say it is advancing. We hope by this time next year to have
+happy to say it is advancing. We [[Hope|hope]] by this [[Time|time]] next year to have
 from a hundred and fifty to two hundred healthy families cultivating
 coffee and educating the natives of Borrioboola-Gha, on the left bank
 of the Niger.”
@@ -197,8 +197,8 @@ gratifying.
 
 “It IS gratifying,” said Mrs. Jellyby. “It involves the devotion of
 all my energies, such as they are; but that is nothing, so that it
-succeeds; and I am more confident of success every day. Do you know,
-Miss Summerson, I almost wonder that YOU never turned your thoughts
+succeeds; and I am more confident of [[success]] every day. Do you know,
+Miss Summerson, I almost [[Wonder|wonder]] that YOU never turned your thoughts
 to Africa.”
 
 This application of the subject was really so unexpected to me that I
@@ -213,7 +213,7 @@ Holborn, without precaution, and be run over. You may go into
 Holborn, with precaution, and never be run over. Just so with
 Africa.”
 
-I said, “No doubt.” I meant as to Holborn.
+I said, “No [[Doubt|doubt]].” I meant as to Holborn.
 
 “If you would like,” said Mrs. Jellyby, putting a number of papers
 towards us, “to look over some remarks on that head, and on the
@@ -228,13 +228,13 @@ our recognition, which was half bashful and half sulky.
 Jellyby with a sweet smile, “though my work is never done. Where are
 you, Caddy?”
 
-“‘Presents her compliments to Mr. Swallow, and begs—’” said Caddy.
+“‘Presents her compliments to Mr. [[Swallow]], and begs—’” said Caddy.
 
 “‘And begs,’” said Mrs. Jellyby, dictating, “‘to inform him, in
 reference to his letter of inquiry on the African project—’ No,
 Peepy! Not on my account!”
 
-Peepy (so self-named) was the unfortunate child who had fallen
+Peepy (so [[Self|self]]-named) was the unfortunate [[Child|child]] who had fallen
 downstairs, who now interrupted the correspondence by presenting
 himself, with a strip of plaster on his forehead, to exhibit his
 wounded knees, in which Ada and I did not know which to pity
@@ -244,7 +244,7 @@ naughty Peepy!” and fixed her fine eyes on Africa again.
 
 However, as she at once proceeded with her dictation, and as I
 interrupted nothing by doing it, I ventured quietly to stop poor
-Peepy as he was going out and to take him up to nurse. He looked very
+Peepy as he was going out and to take him up to [[Nurse|nurse]]. He looked very
 much astonished at it and at Ada’s kissing him, but soon fell fast
 asleep in my arms, sobbing at longer and longer intervals, until he
 was quiet. I was so occupied with Peepy that I lost the letter in
@@ -253,19 +253,19 @@ momentous importance of Africa, and the utter insignificance of all
 other places and things, that I felt quite ashamed to have thought so
 little about it.
 
-“Six o’clock!” said Mrs. Jellyby. “And our dinner hour is nominally
+“Six o’[[Clock|clock]]!” said Mrs. Jellyby. “And our dinner hour is nominally
 (for we dine at all hours) five! Caddy, show Miss Clare and Miss
 Summerson their rooms. You will like to make some change, perhaps?
 You will excuse me, I know, being so much occupied. Oh, that very bad
-child! Pray put him down, Miss Summerson!”
+[[Child|child]]! Pray put him down, Miss Summerson!”
 
 I begged permission to retain him, truly saying that he was not at
 all troublesome, and carried him upstairs and laid him on my bed. Ada
 and I had two upper rooms with a door of communication between. They
-were excessively bare and disorderly, and the curtain to my window
+were excessively bare and disorderly, and the curtain to my [[Window|window]]
 was fastened up with a fork.
 
-“You would like some hot water, wouldn’t you?” said Miss Jellyby,
+“You would like some hot [[Water|water]], wouldn’t you?” said Miss Jellyby,
 looking round for a jug with a handle to it, but looking in vain.
 
 “If it is not being troublesome,” said we.
@@ -276,11 +276,11 @@ if there IS any.”
 The evening was so very cold and the rooms had such a marshy smell
 that I must confess it was a little miserable, and Ada was half
 crying. We soon laughed, however, and were busily unpacking when Miss
-Jellyby came back to say that she was sorry there was no hot water,
+Jellyby came back to say that she was sorry there was no hot [[Water|water]],
 but they couldn’t find the kettle, and the boiler was out of order.
 
 We begged her not to mention it and made all the haste we could to
-get down to the fire again. But all the little children had come up
+get down to the [[Fire|fire]] again. But all the little children had come up
 to the landing outside to look at the phenomenon of Peepy lying on my
 bed, and our attention was distracted by the constant apparition of
 noses and fingers in situations of danger between the hinges of the
@@ -295,19 +295,19 @@ mice, including Peepy, who awoke opportunely before the appearance of
 the wolf.
 
 When we went downstairs we found a mug with “A Present from Tunbridge
-Wells” on it lighted up in the staircase window with a floating wick,
+Wells” on it lighted up in the staircase [[Window|window]] with a floating wick,
 and a young woman, with a swelled face bound up in a flannel bandage
-blowing the fire of the drawing-room (now connected by an open door
+blowing the [[Fire|fire]] of the drawing-room (now connected by an open door
 with Mrs. Jellyby’s room) and choking dreadfully. It smoked to that
 degree, in short, that we all sat coughing and crying with the
 windows open for half an hour, during which Mrs. Jellyby, with the
 same sweetness of temper, directed letters about Africa. Her being so
-employed was, I must say, a great relief to me, for Richard told us
+employed was, I must say, a great relief to me, for [[Richard]] told us
 that he had washed his hands in a pie-dish and that they had found
 the kettle on his dressing-table, and he made Ada laugh so that they
 made me laugh in the most ridiculous manner.
 
-Soon after seven o’clock we went down to dinner, carefully, by Mrs.
+Soon after seven o’[[Clock|clock]] we went down to dinner, carefully, by Mrs.
 Jellyby’s advice, for the stair-carpets, besides being very deficient
 in stair-wires, were so torn as to be absolute traps. We had a fine
 cod-fish, a piece of roast beef, a dish of cutlets, and a pudding; an
@@ -324,7 +324,7 @@ as the dish of potatoes being mislaid in the coal skuttle and the
 handle of the corkscrew coming off and striking the young woman in
 the chin—Mrs. Jellyby preserved the evenness of her disposition. She
 told us a great deal that was interesting about Borrioboola-Gha and
-the natives, and received so many letters that Richard, who sat by
+the natives, and received so many letters that [[Richard]], who sat by
 her, saw four envelopes in the gravy at once. Some of the letters
 were proceedings of ladies’ committees or resolutions of ladies’
 meetings, which she read to us; others were applications from people
@@ -335,17 +335,17 @@ undoubtedly was, as she had told us, devoted to the cause.
 
 I was a little curious to know who a mild bald gentleman in
 spectacles was, who dropped into a vacant chair (there was no top or
-bottom in particular) after the fish was taken away and seemed
+[[Bottom|bottom]] in particular) after the fish was taken away and seemed
 passively to submit himself to Borrioboola-Gha but not to be actively
 interested in that settlement. As he never spoke a word, he might
 have been a native but for his complexion. It was not until we left
-the table and he remained alone with Richard that the possibility of
+the table and he remained [[Alone|alone]] with [[Richard]] that the possibility of
 his being Mr. Jellyby ever entered my head. But he WAS Mr. Jellyby;
 and a loquacious young man called Mr. Quale, with large shining knobs
 for temples and his hair all brushed to the back of his head, who
 came in the evening, and told Ada he was a philanthropist, also
 informed her that he called the matrimonial alliance of Mrs. Jellyby
-with Mr. Jellyby the union of mind and matter.
+with Mr. Jellyby the [[Union|union]] of mind and matter.
 
 This young man, besides having a great deal to say for himself about
 Africa and a project of his for teaching the coffee colonists to
@@ -353,14 +353,14 @@ teach the natives to turn piano-forte legs and establish an export
 trade, delighted in drawing Mrs. Jellyby out by saying, “I believe
 now, Mrs. Jellyby, you have received as many as from one hundred and
 fifty to two hundred letters respecting Africa in a single day, have
-you not?” or, “If my memory does not deceive me, Mrs. Jellyby, you
+you not?” or, “If my [[Memory|memory]] does not deceive me, Mrs. Jellyby, you
 once mentioned that you had sent off five thousand circulars from one
-post-office at one time?”—always repeating Mrs. Jellyby’s answer to
+post-office at one [[Time|time]]?”—always repeating Mrs. Jellyby’s answer to
 us like an interpreter. During the whole evening, Mr. Jellyby sat in
 a corner with his head against the wall as if he were subject to low
 spirits. It seemed that he had several times opened his mouth when
-alone with Richard after dinner, as if he had something on his mind,
-but had always shut it again, to Richard’s extreme confusion, without
+[[Alone|alone]] with [[Richard]] after dinner, as if he had something on his mind,
+but had always shut it again, to [[Richard]]’s extreme confusion, without
 saying anything.
 
 Mrs. Jellyby, sitting in quite a nest of waste paper, drank coffee
@@ -378,20 +378,20 @@ where the young woman with the flannel bandage charged into the midst
 of the little family like a dragon and overturned them into cribs.
 
 After that I occupied myself in making our room a little tidy and in
-coaxing a very cross fire that had been lighted to burn, which at
+coaxing a very [[Cross|cross]] [[Fire|fire]] that had been lighted to burn, which at
 last it did, quite brightly. On my return downstairs, I felt that
 Mrs. Jellyby looked down upon me rather for being so frivolous, and I
-was sorry for it, though at the same time I knew that I had no higher
+was sorry for it, though at the same [[Time|time]] I knew that I had no higher
 pretensions.
 
 It was nearly midnight before we found an opportunity of going to
 bed, and even then we left Mrs. Jellyby among her papers drinking
 coffee and Miss Jellyby biting the feather of her pen.
 
-“What a strange house!” said Ada when we got upstairs. “How curious
+“What a strange [[house]]!” said Ada when we got upstairs. “How curious
 of my cousin Jarndyce to send us here!”
 
-“My love,” said I, “it quite confuses me. I want to understand it,
+“My [[Love|love]],” said I, “it quite confuses me. I want to understand it,
 and I can’t understand it at all.”
 
 “What?” asked Ada with her pretty smile.
@@ -401,16 +401,16 @@ take such pains about a scheme for the benefit of natives—and
 yet—Peepy and the housekeeping!”
 
 Ada laughed and put her arm about my neck as I stood looking at the
-fire, and told me I was a quiet, dear, good creature and had won her
+[[Fire|fire]], and told me I was a quiet, dear, good creature and had won her
 heart. “You are so thoughtful, Esther,” she said, “and yet so
 cheerful! And you do so much, so unpretendingly! You would make a
-home out of even this house.”
+[[Home|home]] out of even this [[house]].”
 
 My simple darling! She was quite unconscious that she only praised
 herself and that it was in the goodness of her own heart that she
 made so much of me!
 
-“May I ask you a question?” said I when we had sat before the fire a
+“May I ask you a question?” said I when we had sat before the [[Fire|fire]] a
 little while.
 
 “Five hundred,” said Ada.
@@ -419,7 +419,7 @@ little while.
 describing him to me?”
 
 Shaking her golden hair, Ada turned her eyes upon me with such
-laughing wonder that I was full of wonder too, partly at her beauty,
+laughing [[Wonder|wonder]] that I was full of [[Wonder|wonder]] too, partly at her [[Beauty|beauty]],
 partly at her surprise.
 
 “Esther!” she cried.
@@ -432,25 +432,25 @@ partly at her surprise.
 
 “And I never saw him!” returned Ada.
 
-Well, to be sure!
+[[Well]], to be sure!
 
 No, she had never seen him. Young as she was when her mama died, she
-remembered how the tears would come into her eyes when she spoke of
+remembered how the [[Tears|tears]] would come into her eyes when she spoke of
 him and of the noble generosity of his character, which she had said
 was to be trusted above all earthly things; and Ada trusted it. Her
 cousin Jarndyce had written to her a few months ago—“a plain, honest
 letter,” Ada said—proposing the arrangement we were now to enter on
-and telling her that “in time it might heal some of the wounds made
+and telling her that “in [[Time|time]] it might heal some of the wounds made
 by the miserable Chancery suit.” She had replied, gratefully
-accepting his proposal. Richard had received a similar letter and had
+accepting his proposal. [[Richard]] had received a similar letter and had
 made a similar response. He HAD seen Mr. Jarndyce once, but only
 once, five years ago, at Winchester school. He had told Ada, when
-they were leaning on the screen before the fire where I found them,
+they were leaning on the screen before the [[Fire|fire]] where I found them,
 that he recollected him as “a bluff, rosy fellow.” This was the
 utmost description Ada could give me.
 
 It set me thinking so that when Ada was asleep, I still remained
-before the fire, wondering and wondering about Bleak House, and
+before the [[Fire|fire]], wondering and wondering about Bleak [[house|House]], and
 wondering and wondering that yesterday morning should seem so long
 ago. I don’t know where my thoughts had wandered when they were
 recalled by a tap at the door.
@@ -459,18 +459,18 @@ I opened it softly and found Miss Jellyby shivering there with a
 broken candle in a broken candlestick in one hand and an egg-cup in
 the other.
 
-“Good night!” she said very sulkily.
+“Good [[Night|night]]!” she said very sulkily.
 
-“Good night!” said I.
+“Good [[Night|night]]!” said I.
 
 “May I come in?” she shortly and unexpectedly asked me in the same
 sulky way.
 
 “Certainly,” said I. “Don’t wake Miss Clare.”
 
-She would not sit down, but stood by the fire dipping her inky middle
+She would not sit down, but stood by the [[Fire|fire]] dipping her inky middle
 finger in the egg-cup, which contained vinegar, and smearing it over
-the ink stains on her face, frowning the whole time and looking very
+the ink stains on her face, frowning the whole [[Time|time]] and looking very
 gloomy.
 
 “I wish Africa was dead!” she said on a sudden.
@@ -491,31 +491,31 @@ same uncivil manner.
 
 I assented with a smile.
 
-“An orphan. Ain’t she?”
+“An [[Orphan|orphan]]. Ain’t she?”
 
 “Yes.”
 
-“But knows a quantity, I suppose? Can dance, and play music, and
+“But knows a quantity, I suppose? Can [[Dance|dance]], and play music, and
 sing? She can talk French, I suppose, and do geography, and globes,
 and needlework, and everything?”
 
-“No doubt,” said I.
+“No [[Doubt|doubt]],” said I.
 
 “I can’t,” she returned. “I can’t do anything hardly, except write.
-I’m always writing for Ma. I wonder you two were not ashamed of
+I’m always writing for Ma. I [[Wonder|wonder]] you two were not ashamed of
 yourselves to come in this afternoon and see me able to do nothing
-else. It was like your ill nature. Yet you think yourselves very
+else. It was like your ill [[Nature|nature]]. Yet you think yourselves very
 fine, I dare say!”
 
 I could see that the poor girl was near crying, and I resumed my
-chair without speaking and looked at her (I hope) as mildly as I felt
+chair without speaking and looked at her (I [[Hope|hope]]) as mildly as I felt
 towards her.
 
-“It’s disgraceful,” she said. “You know it is. The whole house is
+“It’s disgraceful,” she said. “You know it is. The whole [[house]] is
 disgraceful. The children are disgraceful. I’M disgraceful. Pa’s
-miserable, and no wonder! Priscilla drinks—she’s always drinking.
+miserable, and no [[Wonder|wonder]]! Priscilla drinks—she’s always drinking.
 It’s a great shame and a great story of you if you say you didn’t
-smell her to-day. It was as bad as a public-house, waiting at dinner;
+smell her to-day. It was as bad as a public-[[house]], waiting at dinner;
 you know it was!”
 
 “My dear, I don’t know it,” said I.
@@ -533,7 +533,7 @@ Summerson.”
 
 “Oh, yes, I think you do,” said I, “because that would be so very
 unreasonable. I did not know what you tell me because the servant did
-not come near me at dinner; but I don’t doubt what you tell me, and I
+not come near me at dinner; but I don’t [[Doubt|doubt]] what you tell me, and I
 am sorry to hear it.”
 
 “You needn’t make a merit of that,” said she.
@@ -562,15 +562,15 @@ I could not persuade her to sit by me or to do anything but move a
 ragged stool to where she was kneeling, and take that, and still hold
 my dress in the same manner. By degrees the poor tired girl fell
 asleep, and then I contrived to raise her head so that it should rest
-on my lap, and to cover us both with shawls. The fire went out, and
-all night long she slumbered thus before the ashy grate. At first I
+on my lap, and to cover us both with shawls. The [[Fire|fire]] went out, and
+all [[Night|night]] long she slumbered thus before the ashy grate. At first I
 was painfully awake and vainly tried to lose myself, with my eyes
 closed, among the scenes of the day. At length, by slow degrees, they
-became indistinct and mingled. I began to lose the identity of the
+became indistinct and mingled. I began to lose the [[Identity|identity]] of the
 sleeper resting on me. Now it was Ada, now one of my old Reading
 friends from whom I could not believe I had so recently parted. Now
 it was the little mad woman worn out with curtsying and smiling, now
-some one in authority at Bleak House. Lastly, it was no one, and I
+some one in authority at Bleak [[house|House]]. Lastly, it was no one, and I
 was no one.
 
 The purblind day was feebly struggling with the fog when I opened my

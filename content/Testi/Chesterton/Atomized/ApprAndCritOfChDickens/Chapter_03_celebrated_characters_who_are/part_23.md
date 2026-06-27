@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 23)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 23)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -18,7 +18,7 @@ thistledown. Wherever there is the definite phenomenon called
 
 depression, it commonly means that something else has been closer to us
 
-than so normal a thing as death. There has been disease, bodily or
+than so normal a thing as [[Death|death]]. There has been disease, bodily or
 
 mental, or there has been sin, or there has been some struggle or
 
@@ -30,9 +30,9 @@ a wholesome human life; there had been the quarrel with his wife, and
 
 there had been the strain of incessant and exaggerated intellectual
 
-labour. He had not an easy time; and on top of that (or perhaps rather
+labour. He had not an easy [[Time|time]]; and on top of that (or perhaps rather
 
-at the bottom of it) he had not an easy nature. Not only did his life
+at the [[Bottom|bottom]] of it) he had not an easy [[Nature|nature]]. Not only did his life
 
 necessitate work, but his character necessitated worry about work; and
 
@@ -70,31 +70,31 @@ this more sombre quality of which I have spoken are not very hard to
 
 find. The thing can easily be seen by comparing a book like _Little
 
-Dorrit_ with a book like _David Copperfield_. David Copperfield and
+Dorrit_ with a book like _David Copperfield_. [[David Copperfield]] and
 
-Arthur Clennam have both been brought up in unhappy homes, under bitter
+[[Arthur Clennam]] have both been brought up in unhappy homes, under bitter
 
 guardians and a black, disheartening religion. It is the whole point of
 
-David Copperfield that he has broken out of a Calvinistic tyranny which
+[[David Copperfield]] that he has broken out of a Calvinistic tyranny which
 
-he cannot forgive. But it is the whole point of Arthur Clennam that he
+he cannot forgive. But it is the whole point of [[Arthur Clennam]] that he
 
 has not broken out of the Calvinistic tyranny, but is still under its
 
-shadow. Copperfield has come from a gloomy childhood; Clennam, though
+[[Shadow|shadow]]. Copperfield has come from a gloomy [[Childhood|childhood]]; Clennam, though
 
-forty years old, is still in a gloomy childhood. When David meets the
+forty years old, is still in a gloomy [[Childhood|childhood]]. When David meets the
 
 Murdstones again it is to defy them with the health and hilarious anger
 
 that go with his happy delirium about Dora. But when Clennam re-enters
 
-his sepulchral house there is a weight upon his soul which makes it
+his sepulchral [[house]] there is a weight upon his [[Soul|soul]] which makes it
 
 impossible for him to answer, with any spirit, the morbidities of his
 
-mother, or even the grotesque interferences of Mr. Flintwinch. This is
+mother, or even the [[Grotesque|grotesque]] interferences of Mr. Flintwinch. This is
 
 only another example of the same quality which makes the Dickens of
 
@@ -104,27 +104,27 @@ Dickens of _David Copperfield_ insisted on his splendid
 
 irresponsibility, his essential emancipation. Imprisonments passed over
 
-Micawber like summer clouds. But the imprisonment in _Little Dorrit_ is
+Micawber like [[Summer|summer]] clouds. But the [[Imprisonment|imprisonment]] in _Little Dorrit_ is
 
 like a complete natural climate and environment; it has positively
 
-modified the shapes and functions of the animals that dwell in it. A
+modified the shapes and functions of the [[Animals|animals]] that dwell in it. A
 
 horrible thing has happened to Dickens; he has almost become an
 
 Evolutionist. Worse still, in studying the Calvinism of Mrs. Clennam's
 
-house, he has almost become a Calvinist. He half believes (as do some of
+[[house]], he has almost become a Calvinist. He half believes (as do some of
 
-the modern scientists) that there is really such a thing as "a child of
+the modern scientists) that there is really such a thing as "a [[Child|child]] of
 
-wrath," that a man on whom such an early shadow had fallen could never
+wrath," that a man on whom such an early [[Shadow|shadow]] had fallen could never
 
 shake it off. For ancient Calvinism and modern Evolutionism are
 
 essentially the same things. They are both ingenious logical blasphemies
 
-against the dignity and liberty of the human soul.
+against the dignity and liberty of the human [[Soul|soul]].
 
 
 
@@ -158,7 +158,7 @@ in the predestined passion of Tattycoram or the incurable cruelty of
 
 Miss Wade. Even Little Dorrit herself had, we are told, one stain from
 
-her prison experience; and it is spoken of like a bodily stain; like
+her [[Prison|prison]] experience; and it is spoken of like a bodily stain; like
 
 something that cannot be washed away.
 
@@ -174,17 +174,17 @@ have done; he descended into Hell. Nor is it irreverent to continue the
 
 quotation from the Creed, for in the next book he was to write he was to
 
-break out of all these dreams of fate and failure, and with his highest
+break out of all these [[Dreams|dreams]] of fate and failure, and with his highest
 
 voice to speak of the triumph of the weak of this world. His next book
 
-was to leave us saying, as Sydney Carton mounted the scaffold, words
+was to leave us saying, as [[Sydney Carton]] mounted the scaffold, words
 
 which, splendid in themselves, have never been so splendidly quoted--"I
 
-am the Resurrection and the Life; whoso believeth in Me though he be
+am the [[Resurrection]] and the Life; whoso believeth in Me though he be
 
-dead yet he shall live." In Sydney Carton at least, Dickens shows none
+dead yet he shall live." In [[Sydney Carton]] at least, Dickens shows none
 
 of that dreary submission to the environment of the irrevocable that had
 
@@ -192,4 +192,4 @@ for an instant lain on him like a cloud. On this occasion he sees with
 
 the old heroic clearness that to be a failure may be one step to being a
 
-saint. On the third day he rose again from the dead.
+saint. On the third day he [[Rose|rose]] again from the dead.

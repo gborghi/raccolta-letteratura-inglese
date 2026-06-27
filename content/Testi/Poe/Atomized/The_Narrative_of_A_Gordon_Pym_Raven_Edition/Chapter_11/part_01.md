@@ -30,7 +30,7 @@ CHAPTER 11
 
       all other cares and considerations. Nothing, however, could be
 
-      done until the morning, and, securing ourselves as well as
+      done until the morning, and, securing ourselves as [[Well|well]] as
 
       possible, we endeavoured to snatch a little repose. In this I
 
@@ -54,7 +54,7 @@ CHAPTER 11
 
       storeroom, thinking it possible that he might be able to force it
 
-      open, provided he could get at it in sufficient time; and this he
+      open, provided he could get at it in sufficient [[Time|time]]; and this he
 
       hoped to do, as the hulk lay much more steadily than before.
 
@@ -62,13 +62,13 @@ CHAPTER 11
 
       He succeeded very quickly in reaching the door, when, loosening
 
-      one of the chains from his ankle, he made every exertion to force
+      one of the [[Chains|chains]] from his ankle, he made every exertion to force
 
       the passage with it, but in vain, the framework of the room being
 
       far stronger than was anticipated. He was quite exhausted with
 
-      his long stay under water, and it became absolutely necessary
+      his long stay under [[Water|water]], and it became absolutely necessary
 
       that some other one of us should take his place. For this service
 
@@ -88,7 +88,7 @@ CHAPTER 11
 
 
 
-      Peters had left one of the chains in the passage, and I found,
+      Peters had left one of the [[Chains|chains]] in the passage, and I found,
 
       upon plunging in, that I had not sufficient balance to keep me
 
@@ -98,7 +98,7 @@ CHAPTER 11
 
       along the floor of the passage for this, I felt a hard substance,
 
-      which I immediately grasped, not having time to ascertain what it
+      which I immediately grasped, not having [[Time|time]] to ascertain what it
 
       was, but returning and ascending instantly to the surface. The
 
@@ -124,17 +124,17 @@ CHAPTER 11
 
       descended, and now recovered the chain, with which I instantly
 
-      came up. I then fastened it on and went down for the third time,
+      came up. I then fastened it on and went down for the third [[Time|time]],
 
       when I became fully satisfied that no exertions whatever, in that
 
       situation, would enable me to force open the door of the
 
-      storeroom. I therefore returned in despair.
+      storeroom. I therefore returned in [[Despair|despair]].
 
 
 
-      There seemed now to be no longer any room for hope, and I could
+      There seemed now to be no longer any room for [[Hope|hope]], and I could
 
       perceive in the countenances of my companions that they had made
 
@@ -164,13 +164,13 @@ CHAPTER 11
 
       belonging to Captain Barnard. This was immediately opened in the
 
-      faint hope that it might contain something to eat or drink. We
+      faint [[Hope|hope]] that it might contain something to eat or drink. We
 
       found nothing, however, except a box of razors and two linen
 
-      shirts. I now went down again, and returned without any success.
+      shirts. I now went down again, and returned without any [[success]].
 
-      As my head came above water I heard a crash on deck, and, upon
+      As my head came above [[Water|water]] I heard a crash on deck, and, upon
 
       getting up, saw that my companions had ungratefully taken
 
@@ -180,9 +180,9 @@ CHAPTER 11
 
       I saw them. I remonstrated with them on the heartlessness of
 
-      their conduct, when Augustus burst into tears. The other two
+      their conduct, when Augustus burst into [[Tears|tears]]. The other two
 
-      endeavoured to laugh the matter off as a joke, but I hope never
+      endeavoured to laugh the matter off as a joke, but I [[Hope|hope]] never
 
       again to behold laughter of such a species: the distortion of
 
@@ -200,8 +200,8 @@ CHAPTER 11
 
 
 
-      I now found myself, as it were, alone in the brig, and my
+      I now found myself, as it were, [[Alone|alone]] in the brig, and my
 
       reflections, to be sure, were of the most fearful and gloomy
 
-      nature. No prospect offered itself to my view but a lingering
+      [[Nature|nature]]. No prospect offered itself to my view but a lingering

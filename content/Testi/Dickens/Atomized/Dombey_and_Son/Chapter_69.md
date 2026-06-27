@@ -18,10 +18,10 @@ CHAPTER XIII.
 Shipping Intelligence and Office Business
 
 
-Mr Dombey’s offices were in a court where there was an old-established
+Mr Dombey’s offices were in a [[Court|court]] where there was an old-established
 stall of choice fruit at the corner: where perambulating merchants, of
-both sexes, offered for sale at any time between the hours of ten and
-five, slippers, pocket-books, sponges, dogs’ collars, and Windsor soap;
+both sexes, offered for sale at any [[Time|time]] between the hours of ten and
+five, slippers, pocket-books, sponges, [[dogs]]’ collars, and Windsor soap;
 and sometimes a pointer or an oil-painting.
 
 The pointer always came that way, with a view to the Stock Exchange,
@@ -29,8 +29,8 @@ where a sporting taste (originating generally in bets of new hats) is
 much in vogue. The other commodities were addressed to the general
 public; but they were never offered by the vendors to Mr Dombey. When
 he appeared, the dealers in those wares fell off respectfully. The
-principal slipper and dogs’ collar man—who considered himself a public
-character, and whose portrait was screwed on to an artist’s door in
+principal slipper and [[dogs]]’ collar man—who considered himself a public
+character, and whose portrait was screwed on to an [[artist]]’s door in
 Cheapside—threw up his forefinger to the brim of his hat as Mr Dombey
 went by. The ticket-porter, if he were not absent on a job, always ran
 officiously before, to open Mr Dombey’s office door as wide as
@@ -38,42 +38,42 @@ possible, and hold it open, with his hat off, while he entered.
 
 The clerks within were not a whit behind-hand in their demonstrations
 of respect. A solemn hush prevailed, as Mr Dombey passed through the
-outer office. The wit of the Counting-House became in a moment as mute
-as the row of leathern fire-buckets hanging up behind him. Such vapid
+outer office. The wit of the Counting-[[house|House]] became in a moment as mute
+as the row of leathern [[Fire|fire]]-buckets hanging up behind him. Such vapid
 and flat daylight as filtered through the ground-glass windows and
 skylights, leaving a black sediment upon the panes, showed the books
 and papers, and the figures bending over them, enveloped in a studious
 gloom, and as much abstracted in appearance, from the world without, as
-if they were assembled at the bottom of the sea; while a mouldy little
+if they were assembled at the [[Bottom|bottom]] of the sea; while a mouldy little
 strong room in the obscure perspective, where a shaded lamp was always
-burning, might have represented the cavern of some ocean monster,
+burning, might have represented the cavern of some ocean [[Monster|monster]],
 looking on with a red eye at these mysteries of the deep.
 
 When Perch the messenger, whose place was on a little bracket, like a
 timepiece, saw Mr Dombey come in—or rather when he felt that he was
 coming, for he had usually an instinctive sense of his approach—he
-hurried into Mr Dombey’s room, stirred the fire, carried fresh coals
+hurried into Mr Dombey’s room, stirred the [[Fire|fire]], carried fresh coals
 from the bowels of the coal-box, hung the newspaper to air upon the
 fender, put the chair ready, and the screen in its place, and was round
 upon his heel on the instant of Mr Dombey’s entrance, to take his
 great-coat and hat, and hang them up. Then Perch took the newspaper,
-and gave it a turn or two in his hands before the fire, and laid it,
+and gave it a turn or two in his hands before the [[Fire|fire]], and laid it,
 deferentially, at Mr Dombey’s elbow. And so little objection had Perch
 to being deferential in the last degree, that if he might have laid
 himself at Mr Dombey’s feet, or might have called him by some such
 title as used to be bestowed upon the Caliph Haroun Alraschid, he would
 have been all the better pleased.
 
-As this honour would have been an innovation and an experiment, Perch
-was fain to content himself by expressing as well as he could, in his
-manner, You are the light of my Eyes. You are the Breath of my Soul.
+As this [[Honour|honour]] would have been an innovation and an experiment, Perch
+was fain to content himself by expressing as [[Well|well]] as he could, in his
+manner, You are the light of my Eyes. You are the Breath of my [[Soul]].
 You are the commander of the Faithful Perch! With this imperfect
 happiness to cheer him, he would shut the door softly, walk away on
 tiptoe, and leave his great chief to be stared at, through a
-dome-shaped window in the leads, by ugly chimney-pots and backs of
-houses, and especially by the bold window of a hair-cutting saloon on a
+dome-shaped [[Window|window]] in the leads, by ugly chimney-pots and backs of
+houses, and especially by the bold [[Window|window]] of a hair-cutting saloon on a
 first floor, where a waxen effigy, bald as a Mussulman in the morning,
-and covered, after eleven o’clock in the day, with luxuriant hair and
+and covered, after eleven o’[[Clock|clock]] in the day, with luxuriant hair and
 whiskers in the latest Christian fashion, showed him the wrong side of
 its head for ever.
 
@@ -90,17 +90,17 @@ inferior state, inhabited the room that was nearest to the clerks.
 The gentleman last mentioned was a cheerful-looking, hazel-eyed elderly
 bachelor: gravely attired, as to his upper man, in black; and as to his
 legs, in pepper-and-salt colour. His dark hair was just touched here
-and there with specks of gray, as though the tread of Time had splashed
+and there with specks of gray, as though the tread of [[Time]] had splashed
 it; and his whiskers were already white. He had a mighty respect for Mr
 Dombey, and rendered him due homage; but as he was of a genial temper
 himself, and never wholly at his ease in that stately presence, he was
-disquieted by no jealousy of the many conferences enjoyed by Mr Carker,
+disquieted by no [[Jealousy|jealousy]] of the many conferences enjoyed by Mr Carker,
 and felt a secret satisfaction in having duties to discharge, which
 rarely exposed him to be singled out for such distinction. He was a
 great musical amateur in his way—after business; and had a paternal
 affection for his violoncello, which was once in every week transported
 from Islington, his place of abode, to a certain club-room hard by the
-Bank, where quartettes of the most tormenting and excruciating nature
+Bank, where quartettes of the most tormenting and excruciating [[Nature|nature]]
 were executed every Wednesday evening by a private party.
 
 Mr Carker was a gentleman thirty-eight or forty years old, of a florid
@@ -126,9 +126,9 @@ been more explicit than he was.
 This was Carker the Manager. Mr Carker the Junior, Walter’s friend, was
 his brother; two or three years older than he, but widely removed in
 station. The younger brother’s post was on the top of the official
-ladder; the elder brother’s at the bottom. The elder brother never
+ladder; the elder brother’s at the [[Bottom|bottom]]. The elder brother never
 gained a stave, or raised his foot to mount one. Young men passed above
-his head, and rose and rose; but he was always at the bottom. He was
+his head, and [[Rose|rose]] and [[Rose|rose]]; but he was always at the [[Bottom|bottom]]. He was
 quite resigned to occupy that low condition: never complained of it:
 and certainly never hoped to escape from it.
 
@@ -138,35 +138,35 @@ in his hand.
 
 “How do you do, Carker?” said Mr Dombey.
 
-“Coolish!” observed Carker, stirring the fire.
+“Coolish!” observed Carker, stirring the [[Fire|fire]].
 
 “Rather,” said Mr Dombey.
 
 “Any news of the young gentleman who is so important to us all?” asked
 Carker, with his whole regiment of teeth on parade.
 
-“Yes—not direct news—I hear he’s very well,” said Mr Dombey. Who had
-come from Brighton over-night. But no one knew It.
+“Yes—not direct news—I hear he’s very [[Well|well]],” said Mr Dombey. Who had
+come from Brighton over-[[Night|night]]. But no one knew It.
 
-“Very well, and becoming a great scholar, no doubt?” observed the
+“Very [[Well|well]], and becoming a great scholar, no [[Doubt|doubt]]?” observed the
 Manager.
 
-“I hope so,” returned Mr Dombey.
+“I [[Hope|hope]] so,” returned Mr Dombey.
 
-“Egad!” said Mr Carker, shaking his head, “Time flies!”
+“Egad!” said Mr Carker, shaking his head, “[[Time]] flies!”
 
 “I think so, sometimes,” returned Mr Dombey, glancing at his newspaper.
 
 “Oh! You! You have no reason to think so,” observed Carker. “One who
 sits on such an elevation as yours, and can sit there, unmoved, in all
-seasons—hasn’t much reason to know anything about the flight of time.
+[[Seasons|seasons]]—hasn’t much reason to know anything about the flight of [[Time|time]].
 It’s men like myself, who are low down and are not superior in
-circumstances, and who inherit new masters in the course of Time, that
+circumstances, and who inherit new masters in the course of [[Time]], that
 have cause to look about us. I shall have a rising sun to worship,
 soon.”
 
-“Time enough, time enough, Carker!” said Mr Dombey, rising from his
-chair, and standing with his back to the fire. “Have you anything there
+“[[Time]] enough, [[Time|time]] enough, Carker!” said Mr Dombey, rising from his
+chair, and standing with his back to the [[Fire|fire]]. “Have you anything there
 for me?”
 
 “I don’t know that I need trouble you,” returned Carker, turning over
@@ -176,10 +176,10 @@ know.”
 “And one at three, three-quarters,” added Mr Dombey.
 
 “Catch you forgetting anything!” exclaimed Carker, still turning over
-his papers. “If Mr Paul inherits your memory, he’ll be a troublesome
-customer in the House. One of you is enough.”
+his papers. “If Mr Paul inherits your [[Memory|memory]], he’ll be a troublesome
+customer in the [[house|House]]. One of you is enough.”
 
-“You have an accurate memory of your own,” said Mr Dombey.
+“You have an accurate [[Memory|memory]] of your own,” said Mr Dombey.
 
 “Oh! I!” returned the manager. “It’s the only capital of a man like
 me.”
@@ -189,16 +189,16 @@ leaning against the chimney-piece, surveying his (of course
 unconscious) clerk, from head to foot. The stiffness and nicety of Mr
 Carker’s dress, and a certain arrogance of manner, either natural to
 him or imitated from a pattern not far off, gave great additional
-effect to his humility. He seemed a man who would contend against the
+effect to his [[Humility|humility]]. He seemed a man who would contend against the
 power that vanquished him, if he could, but who was utterly borne down
-by the greatness and superiority of Mr Dombey.
+by the [[Greatness|greatness]] and superiority of Mr Dombey.
 
 “Is Morfin here?” asked Mr Dombey after a short pause, during which Mr
 Carker had been fluttering his papers, and muttering little abstracts
 of their contents to himself.
 
 “Morfin’s here,” he answered, looking up with his widest and almost
-sudden smile; “humming musical recollections—of his last night’s
+sudden smile; “humming musical recollections—of his last [[Night|night]]’s
 quartette party, I suppose—through the walls between us, and driving me
 half mad. I wish he’d make a bonfire of his violoncello, and burn his
 music-books in it.”
@@ -206,12 +206,12 @@ music-books in it.”
 “You respect nobody, Carker, I think,” said Mr Dombey.
 
 “No?” inquired Carker, with another wide and most feline show of his
-teeth. “Well! Not many people, I believe. I wouldn’t answer perhaps,”
+teeth. “[[Well]]! Not many people, I believe. I wouldn’t answer perhaps,”
 he murmured, as if he were only thinking it, “for more than one.”
 
 A dangerous quality, if real; and a not less dangerous one, if feigned.
 But Mr Dombey hardly seemed to think so, as he still stood with his
-back to the fire, drawn up to his full height, and looking at his
+back to the [[Fire|fire]], drawn up to his full height, and looking at his
 head-clerk with a dignified composure, in which there seemed to lurk a
 stronger latent sense of power than usual.
 
@@ -225,7 +225,7 @@ Mr Dombey shook his head with supreme indifference.
 
 “It’s no very precious appointment,” observed Mr Carker, taking up a
 pen, with which to endorse a memorandum on the back of the paper. “I
-hope he may bestow it on some orphan nephew of a musical friend. It may
+[[Hope|hope]] he may bestow it on some [[Orphan|orphan]] nephew of a musical friend. It may
 perhaps stop his fiddle-playing, if he has a gift that way. Who’s that?
 Come in!”
 
@@ -247,7 +247,7 @@ Carker the Junior had told me he believed you were gone out, or I
 should not have knocked at the door when you were engaged with Mr
 Dombey. These are letters for Mr Dombey, Sir.”
 
-“Very well, Sir,” returned Mr Carker the Manager, plucking them sharply
+“Very [[Well|well]], Sir,” returned Mr Carker the Manager, plucking them sharply
 from his hand. “Go about your business.”
 
 But in taking them with so little ceremony, Mr Carker dropped one on
@@ -268,7 +268,7 @@ He crushed the letter in his hand; and having watched Walter out at the
 door, put it in his pocket without breaking the seal.
 
 “These continual references to Mr Carker the Junior,” Mr Carker the
-Manager began, as soon as they were alone, “are, to a man in my
+Manager began, as soon as they were [[Alone|alone]], “are, to a man in my
 position, uttered before one in yours, so unspeakably distressing—”
 
 “Nonsense, Carker,” Mr Dombey interrupted. “You are too sensitive.”
@@ -302,8 +302,8 @@ shoulder. “Here is a—”
 “An opening,” said Mr Carker, with his mouth stretched to the utmost.
 
 “In the West Indies. At Barbados. I am going to send you,” said Mr
-Dombey, scorning to embellish the bare truth, “to fill a junior
-situation in the counting-house at Barbados. Let your Uncle know from
+Dombey, scorning to embellish the bare [[Truth|truth]], “to fill a junior
+situation in the counting-[[house]] at Barbados. Let your Uncle know from
 me, that I have chosen you to go to the West Indies.”
 
 Walter’s breath was so completely taken away by his astonishment, that
@@ -327,7 +327,7 @@ round towards him. “What do you mean? What does he mean, Carker?”
 Walter bowed.
 
 “That’s all,” said Mr Dombey, resuming his letters. “You will explain
-to him in good time about the usual outfit and so forth, Carker, of
+to him in good [[Time|time]] about the usual outfit and so forth, Carker, of
 course. He needn’t wait, Carker.”
 
 “You needn’t wait, Gay,” observed Mr Carker: bare to the gums.
@@ -337,7 +337,7 @@ the letter, and seeming to listen. “Unless he has anything to say.”
 
 “No, Sir,” returned Walter, agitated and confused, and almost stunned,
 as an infinite variety of pictures presented themselves to his mind;
-among which Captain Cuttle, in his glazed hat, transfixed with
+among which [[Captain Cuttle]], in his glazed hat, transfixed with
 astonishment at Mrs MacStinger’s, and his uncle bemoaning his loss in
 the little back parlour, held prominent places. “I hardly know—I—I am
 much obliged, Sir.”
@@ -350,7 +350,7 @@ would be an unpardonable intrusion—especially as he had nothing to
 say—and therefore walked out quite confounded.
 
 Going along the passage, with the mingled consciousness and
-helplessness of a dream, he heard Mr Dombey’s door shut again, as Mr
+helplessness of [[A Dream|a dream]], he heard Mr Dombey’s door shut again, as Mr
 Carker came out: and immediately afterwards that gentleman called to
 him.
 
@@ -359,10 +359,10 @@ please.”
 
 Walter went to the outer office and apprised Mr Carker the Junior of
 his errand, who accordingly came out from behind a partition where he
-sat alone in one corner, and returned with him to the room of Mr Carker
+sat [[Alone|alone]] in one corner, and returned with him to the room of Mr Carker
 the Manager.
 
-That gentleman was standing with his back to the fire, and his hands
+That gentleman was standing with his back to the [[Fire|fire]], and his hands
 under his coat-tails, looking over his white cravat, as unpromisingly
 as Mr Dombey himself could have looked. He received them without any
 change in his attitude or softening of his harsh and black expression:
@@ -381,7 +381,7 @@ disgrace.”
 
 “From that disgrace,” assented his brother with keen emphasis, “but is
 the fact to be blurted out and trumpeted, and proclaimed continually in
-the presence of the very House! In moments of confidence too? Do you
+the presence of the very [[house|House]]! In moments of confidence too? Do you
 think your name is calculated to harmonise in this place with trust and
 confidence, John Carker?”
 
@@ -400,24 +400,24 @@ yourself in my way? Haven’t you injured me enough already?”
 “I wish you could and would.”
 
 During this conversation, Walter had looked from one brother to the
-other, with pain and amazement. He who was the Senior in years, and
-Junior in the House, stood, with his eyes cast upon the ground, and his
+other, with [[Pain|pain]] and amazement. He who was the Senior in years, and
+Junior in the [[house|House]], stood, with his eyes cast upon the ground, and his
 head bowed, humbly listening to the reproaches of the other. Though
 these were rendered very bitter by the tone and look with which they
 were accompanied, and by the presence of Walter whom they so much
 surprised and shocked, he entered no other protest against them than by
 slightly raising his right hand in a deprecatory manner, as if he would
 have said, “Spare me!” So, had they been blows, and he a brave man,
-under strong constraint, and weakened by bodily suffering, he might
+under strong constraint, and weakened by bodily [[Suffering|suffering]], he might
 have stood before the executioner.
 
 Generous and quick in all his emotions, and regarding himself as the
-innocent occasion of these taunts, Walter now struck in, with all the
+[[Innocent|innocent]] occasion of these taunts, Walter now struck in, with all the
 earnestness he felt.
 
 “Mr Carker,” he said, addressing himself to the Manager. “Indeed,
 indeed, this is my fault solely. In a kind of heedlessness, for which I
-cannot blame myself enough, I have, I have no doubt, mentioned Mr
+cannot blame myself enough, I have, I have no [[Doubt|doubt]], mentioned Mr
 Carker the Junior much oftener than was necessary; and have allowed his
 name sometimes to slip through my lips, when it was against your
 expressed wish. But it has been my own mistake, Sir. We have never
@@ -427,7 +427,7 @@ heedlessness on my part, Sir; for I have felt an interest in Mr Carker
 ever since I have been here, and have hardly been able to help speaking
 of him sometimes, when I have thought of him so much!”
 
-Walter said this from his soul, and with the very breath of honour. For
+Walter said this from his [[Soul|soul]], and with the very breath of [[Honour|honour]]. For
 he looked upon the bowed head, and the downcast eyes, and upraised
 hand, and thought, “I have felt it; and why should I not avow it in
 behalf of this unfriended, broken man!”
@@ -445,15 +445,15 @@ whether he claims to be, or is, an object of such strong interest.”
 “James, do me justice,” said his brother. “I have claimed nothing; and
 I claim nothing. Believe me, on my—”
 
-“Honour?” said his brother, with another smile, as he warmed himself
-before the fire.
+“[[Honour]]?” said his brother, with another smile, as he warmed himself
+before the [[Fire|fire]].
 
 “On my Me—on my fallen life!” returned the other, in the same low
 voice, but with a deeper stress on his words than he had yet seemed
 capable of giving them. “Believe me, I have held myself aloof, and kept
-alone. This has been unsought by me. I have avoided him and everyone.
+[[Alone|alone]]. This has been unsought by me. I have avoided him and everyone.
 
-“Indeed, you have avoided me, Mr Carker,” said Walter, with the tears
+“Indeed, you have avoided me, Mr Carker,” said Walter, with the [[Tears|tears]]
 rising to his eyes; so true was his compassion. “I know it, to my
 disappointment and regret. When I first came here, and ever since, I am
 sure I have tried to be as much your friend, as one of my age could
@@ -465,16 +465,16 @@ people’s attention. That is not the way to befriend Mr John Carker. Ask
 him if he thinks it is.”
 
 “It is no service to me,” said the brother. “It only leads to such a
-conversation as the present, which I need not say I could have well
+conversation as the present, which I need not say I could have [[Well|well]]
 spared. No one can be a better friend to me:” he spoke here very
 distinctly, as if he would impress it upon Walter: “than in forgetting
 me, and leaving me to go my way, unquestioned and unnoticed.”
 
-“Your memory not being retentive, Gay, of what you are told by others,”
+“Your [[Memory|memory]] not being retentive, Gay, of what you are told by others,”
 said Mr Carker the Manager, warming himself with great and increased
-satisfaction, “I thought it well that you should be told this from the
+satisfaction, “I thought it [[Well|well]] that you should be told this from the
 best authority,” nodding towards his brother. “You are not likely to
-forget it now, I hope. That’s all, Gay. You can go.”
+forget it now, I [[Hope|hope]]. That’s all, Gay. You can go.”
 
 Walter passed out at the door, and was about to close it after him,
 when, hearing the voices of the brothers again, and also the mention of
@@ -483,29 +483,29 @@ the door ajar, uncertain whether to return or go away. In this position
 he could not help overhearing what followed.
 
 “Think of me more leniently, if you can, James,” said John Carker,
-“when I tell you I have had—how could I help having, with my history,
+“when I tell you I have had—how could I help having, with my [[history]],
 written here”—striking himself upon the breast—“my whole heart awakened
-by my observation of that boy, Walter Gay. I saw in him when he first
-came here, almost my other self.”
+by my observation of that boy, [[Walter Gay]]. I saw in him when he first
+came here, almost my other [[Self|self]].”
 
-“Your other self!” repeated the Manager, disdainfully.
+“Your other [[Self|self]]!” repeated the Manager, disdainfully.
 
 “Not as I am, but as I was when I first came here too; as sanguine,
 giddy, youthful, inexperienced; flushed with the same restless and
 adventurous fancies; and full of the same qualities, fraught with the
 same capacity of leading on to good or evil.”
 
-“I hope not,” said his brother, with some hidden and sarcastic meaning
+“I [[Hope|hope]] not,” said his brother, with some hidden and sarcastic meaning
 in his tone.
 
 “You strike me sharply; and your hand is steady, and your thrust is
 very deep,” returned the other, speaking (or so Walter thought) as if
 some cruel weapon actually stabbed him as he spoke. “I imagined all
-this when he was a boy. I believed it. It was a truth to me. I saw him
+this when he was a boy. I believed it. It was a [[Truth|truth]] to me. I saw him
 lightly walking on the edge of an unseen gulf where so many others walk
 with equal gaiety, and from which—”
 
-“The old excuse,” interrupted his brother, as he stirred the fire. “So
+“The old excuse,” interrupted his brother, as he stirred the [[Fire|fire]]. “So
 many. Go on. Say, so many fall.”
 
 “From which ONE traveller fell,” returned the other, “who set forward,
@@ -519,29 +519,29 @@ suffered, when I watched that boy.”
 “Only myself,” he assented with a sigh. “I don’t seek to divide the
 blame or shame.”
 
-“You have divided the shame,” James Carker muttered through his teeth.
-And, through so many and such close teeth, he could mutter well.
+“You have divided the shame,” [[James Carker]] muttered through his teeth.
+And, through so many and such close teeth, he could mutter [[Well|well]].
 
-“Ah, James,” returned his brother, speaking for the first time in an
+“Ah, James,” returned his brother, speaking for the first [[Time|time]] in an
 accent of reproach, and seeming, by the sound of his voice, to have
 covered his face with his hands, “I have been, since then, a useful
 foil to you. You have trodden on me freely in your climbing up. Don’t
 spurn me with your heel!”
 
-A silence ensued. After a time, Mr Carker the Manager was heard
+A [[Silence|silence]] ensued. After a [[Time|time]], Mr Carker the Manager was heard
 rustling among his papers, as if he had resolved to bring the interview
-to a conclusion. At the same time his brother withdrew nearer to the
+to a conclusion. At the same [[Time|time]] his brother withdrew nearer to the
 door.
 
 “That’s all,” he said. “I watched him with such trembling and such
-fear, as was some little punishment to me, until he passed the place
+[[Fear|fear]], as was some little punishment to me, until he passed the place
 where I first fell; and then, though I had been his father, I believe I
 never could have thanked God more devoutly. I didn’t dare to warn him,
 and advise him; but if I had seen direct cause, I would have shown him
 my example. I was afraid to be seen speaking with him, lest it should
 be thought I did him harm, and tempted him to evil, and corrupted him:
 or lest I really should. There may be such contagion in me; I don’t
-know. Piece out my history, in connexion with young Walter Gay, and
+know. Piece out my [[history]], in connexion with young [[Walter Gay]], and
 what he has made me feel; and think of me more leniently, James, if you
 can.”
 
@@ -568,7 +568,7 @@ from you, and may I ever be. Do you know what I am?”
 attentively.
 
 “It was begun,” said Carker, “before my twenty-first birthday—led up
-to, long before, but not begun till near that time. I had robbed them
+to, long before, but not begun till near that [[Time|time]]. I had robbed them
 when I came of age. I robbed them afterwards. Before my twenty-second
 birthday, it was all found out; and then, Walter, from all men’s
 society, I died.”
@@ -576,22 +576,22 @@ society, I died.”
 Again his last few words hung trembling upon Walter’s lips, but he
 could neither utter them, nor any of his own.
 
-“The House was very good to me. May Heaven reward the old man for his
+“The [[house|House]] was very good to me. May Heaven reward the old man for his
 forbearance! This one, too, his son, who was then newly in the Firm,
 where I had held great trust! I was called into that room which is now
 his—I have never entered it since—and came out, what you know me. For
-many years I sat in my present seat, alone as now, but then a known and
+many years I sat in my present seat, [[Alone|alone]] as now, but then a known and
 recognised example to the rest. They were all merciful to me, and I
-lived. Time has altered that part of my poor expiation; and I think,
-except the three heads of the House, there is no one here who knows my
+lived. [[Time]] has altered that part of my poor expiation; and I think,
+except the three heads of the [[house|House]], there is no one here who knows my
 story rightly. Before the little boy grows up, and has it told to him,
 my corner may be vacant. I would rather that it might be so! This is
-the only change to me since that day, when I left all youth, and hope,
+the only change to me since that day, when I left all youth, and [[Hope|hope]],
 and good men’s company, behind me in that room. God bless you, Walter!
 Keep you, and all dear to you, in honesty, or strike them dead!”
 
 Some recollection of his trembling from head to foot, as if with
-excessive cold, and of his bursting into tears, was all that Walter
+excessive cold, and of his bursting into [[Tears|tears]], was all that Walter
 could add to this, when he tried to recall exactly what had passed
 between them.
 
@@ -599,10 +599,10 @@ When Walter saw him next, he was bending over his desk in his old
 silent, drooping, humbled way. Then, observing him at his work, and
 feeling how resolved he evidently was that no further intercourse
 should arise between them, and thinking again and again on all he had
-seen and heard that morning in so short a time, in connexion with the
-history of both the Carkers, Walter could hardly believe that he was
+seen and heard that morning in so short a [[Time|time]], in connexion with the
+[[history]] of both the Carkers, Walter could hardly believe that he was
 under orders for the West Indies, and would soon be lost to Uncle Sol,
-and Captain Cuttle, and to glimpses few and far between of Florence
+and [[Captain Cuttle]], and to glimpses few and far between of Florence
 Dombey—no, he meant Paul—and to all he loved, and liked, and looked
 for, in his daily life.
 
@@ -610,6 +610,6 @@ But it was true, and the news had already penetrated to the outer
 office; for while he sat with a heavy heart, pondering on these things,
 and resting his head upon his arm, Perch the messenger, descending from
 his mahogany bracket, and jogging his elbow, begged his pardon, but
-wished to say in his ear, Did he think he could arrange to send home to
+wished to say in his ear, Did he think he could arrange to send [[Home|home]] to
 England a jar of preserved Ginger, cheap, for Mrs Perch’s own eating,
 in the course of her recovery from her next confinement?

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 21 (part 4)"
+title: "[[Shirley]] — Chapter 21 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-for in solitude she was nervous; a vague fear of annoying encounters
+for in [[Solitude|solitude]] she was nervous; a vague [[Fear|fear]] of annoying encounters
 
 broke the enjoyment of quite lonely rambles. But she feared nothing with
 
 Caroline. When once she got away from human habitations, and entered
 
-the still demesne of nature accompanied by this one youthful friend, a
+the still demesne of [[Nature|nature]] accompanied by this one youthful friend, a
 
 propitious change seemed to steal over her mind and beam in her
 
@@ -44,11 +44,11 @@ vulnerable.
 
 To-day, for instance, as they walked along, Mrs. Pryor talked to her
 
-companion about the various birds singing in the trees, discriminated
+companion about the various [[Birds|birds]] singing in the trees, discriminated
 
 their species, and said something about their habits and peculiarities.
 
-English natural history seemed familiar to her. All the wild flowers
+English natural [[history]] seemed familiar to her. All the wild [[Flowers|flowers]]
 
 round their path were recognized by her; tiny plants springing near
 
@@ -62,7 +62,7 @@ English fields and woods. Having reached the head of the ravine, they
 
 sat down together on a ledge of gray and mossy rock jutting from the
 
-base of a steep green hill which towered above them. She looked round
+base of a steep green [[Hill|hill]] which towered above them. She looked round
 
 her, and spoke of the neighbourhood as she had once before seen it long
 
@@ -88,7 +88,7 @@ animation. Rarely, probably, had she, with her chill, repellent outside,
 
 her diffident mien, and incommunicative habits, known what it was to
 
-excite in one whom she herself could love feelings of earnest affection
+excite in one whom she herself could [[Love|love]] feelings of earnest affection
 
 and admiring esteem. Delightful, doubtless, was the consciousness that a
 
@@ -104,7 +104,7 @@ to use, she said, as she bent towards her youthful companion, and put
 
 aside from her forehead a pale brown curl which had strayed from the
 
-confining comb, "I do hope this sweet air blowing from the hill will do
+confining comb, "I do [[Hope|hope]] this sweet air blowing from the [[Hill|hill]] will do
 
 you good, my dear Caroline. I wish I could see something more of colour
 
@@ -124,7 +124,7 @@ lives easy."
 
 
 
-"Do you," continued Mrs. Pryor, mastering by an effort that tyrant
+"Do you," continued Mrs. Pryor, mastering by an effort that [[Tyrant|tyrant]]
 
 timidity which made it difficult for her, even under present
 
@@ -156,7 +156,7 @@ But Caroline comprehended.
 
 
 
-"Oh, that is nothing," she replied. "My uncle and I get on very well. We
+"Oh, that is nothing," she replied. "My uncle and I get on very [[Well|well]]. We
 
 never quarrel--I don't call him harsh--he never scolds me. Sometimes I
 
@@ -164,7 +164,7 @@ wish somebody in the world loved me, but I cannot say that I
 
 particularly wish him to have more affection for me than he has. As a
 
-child, I should perhaps have felt the want of attention, only the
+[[Child|child]], I should perhaps have felt the want of attention, only the
 
 servants were very kind to me; but when people are long indifferent to
 
@@ -178,7 +178,7 @@ far as I am concerned. I believe it would merely annoy and frighten me
 
 were he to be affectionate towards me now. But you know, Mrs. Pryor, it
 
-is scarcely _living_ to measure time as I do at the rectory. The hours
+is scarcely _living_ to measure [[Time|time]] as I do at the rectory. The hours
 
 pass, and I get them over somehow, but I do not _live_. I endure
 
@@ -192,7 +192,7 @@ been--I was going to say happier, but that would be untrue." She paused.
 
 
 
-"Very fond of Shirley. I both like and admire her. But I am painfully
+"Very fond of [[Shirley]]. I both like and admire her. But I am painfully
 
 circumstanced. For a reason I cannot explain I want to go away from this
 

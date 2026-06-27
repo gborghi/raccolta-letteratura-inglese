@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 43 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 43 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-“And what will you do, Rachel?” said I; “will you go home, or seek
+“And what will you do, Rachel?” said I; “will you go [[Home|home]], or seek
 
 another place?”
 
 
 
-“I have no home, ma’am, but with you,” she replied; “and if I leave you
+“I have no [[Home|home]], ma’am, but with you,” she replied; “and if I leave you
 
 I’ll never go into place again as long as I live.”
 
@@ -28,7 +28,7 @@ I’ll never go into place again as long as I live.”
 
 “But I can’t afford to live like a lady now,” returned I: “I must be my
 
-own maid and my child’s nurse.”
+own maid and my [[Child|child]]’s [[Nurse|nurse]].”
 
 
 
@@ -44,7 +44,7 @@ somewhere, or else work among strangers: and it’s what I’m not used to:
 
 so you can please yourself, ma’am.” Her voice quavered as she spoke,
 
-and the tears stood in her eyes.
+and the [[Tears|tears]] stood in her eyes.
 
 
 
@@ -76,7 +76,7 @@ bless him!”
 
 
 
-“But I’m young, Rachel; I sha’n’t mind it; and Arthur is young too: it
+“But I’m young, Rachel; I sha’n’t mind it; and [[arthur|Arthur]] is young too: it
 
 will be nothing to him.”
 
@@ -100,7 +100,7 @@ trouble and danger, and going amongst strangers myself.”
 
 “Bless you, honey!” cried she, affectionately returning my embrace.
 
-“Only let us get shut of this wicked house, and we’ll do right enough,
+“Only let us get shut of this wicked [[house]], and we’ll do right enough,
 
 you’ll see.”
 
@@ -152,7 +152,7 @@ undertaking, and therefore I had left it to the last; but I must give
 
 her some explanation of that extraordinary step I had taken: and that
 
-quickly, for she and my uncle would no doubt hear of it within a day or
+quickly, for she and my uncle would no [[Doubt|doubt]] hear of it within a day or
 
 two after my disappearance, as it was probable that Mr. Huntingdon
 
@@ -168,7 +168,7 @@ absolutely necessary that he should be delivered from his father’s
 
 corrupting influence. I should not disclose my place of refuge even to
 
-her, in order that she and my uncle might be able, with truth, to deny
+her, in order that she and my uncle might be able, with [[Truth|truth]], to deny
 
 all knowledge concerning it; but any communications addressed to me
 
@@ -184,7 +184,7 @@ safety and keep it unmolested, I should be very happy, but for the
 
 thoughts of them; and should be quite contented to spend my life in
 
-obscurity, devoting myself to the training up of my child, and teaching
+obscurity, devoting myself to the training up of my [[Child|child]], and teaching
 
 him to avoid the errors of both his parents.
 
@@ -192,7 +192,7 @@ him to avoid the errors of both his parents.
 
 These things were done yesterday: I have given two whole days to the
 
-preparation for our departure, that Frederick may have more time to
+preparation for our departure, that Frederick may have more [[Time|time]] to
 
 prepare the rooms, and Rachel to pack up the things: for the latter
 
@@ -204,7 +204,7 @@ I do not understand the art of stowing them into the boxes, so as to
 
 take up the smallest possible space; and there are her own things to
 
-do, as well as mine and Arthur’s. I can ill afford to leave anything
+do, as [[Well|well]] as mine and [[arthur|Arthur]]’s. I can ill afford to leave anything
 
 behind, since I have no money, except a few guineas in my purse; and
 
@@ -218,13 +218,13 @@ But what trouble I have had throughout these two days, struggling to
 
 appear calm and collected, to meet him and her as usual, when I was
 
-obliged to meet them, and forcing myself to leave my little Arthur in
+obliged to meet them, and forcing myself to leave my little [[arthur|Arthur]] in
 
 her hands for hours together! But I trust these trials are over now: I
 
 have laid him in my bed for better security, and never more, I trust,
 
-shall his innocent lips be defiled by their contaminating kisses, or
+shall his [[Innocent|innocent]] lips be defiled by their contaminating kisses, or
 
 his young ears polluted by their words. But shall we escape in safety?
 
@@ -242,17 +242,17 @@ not force myself to eat. Mr. Huntingdon remarked the circumstance.
 
 “What’s to do with you _now?_” said he, when the removal of the second
 
-course gave him time to look about him.
+course gave him [[Time|time]] to look about him.
 
 
 
-“I am not well,” I replied: “I think I must lie down a little; you
+“I am not [[Well|well]],” I replied: “I think I must lie down a little; you
 
 won’t miss me much?”
 
 
 
-“Not the least: if you leave your chair, it’ll do just as well—better,
+“Not the least: if you leave your chair, it’ll do just as [[Well|well]]—better,
 
 a trifle,” he muttered, as I left the room, “for I can fancy somebody
 
@@ -262,7 +262,7 @@ else fills it.”
 
 “Somebody else _may_ fill it to-morrow,” I thought, but did not say.
 
-“There! I’ve seen the last of _you_, I hope,” I muttered, as I closed
+“There! I’ve seen the last of _you_, I [[Hope|hope]],” I muttered, as I closed
 
 the door upon him.
 
@@ -270,7 +270,7 @@ the door upon him.
 
 Rachel urged me to seek repose at once, to recruit my strength for
 
-to-morrow’s journey, as we must be gone before the dawn; but in my
+to-morrow’s [[Journey|journey]], as we must be gone before the [[Dawn|dawn]]; but in my
 
 present state of nervous excitement that was entirely out of the
 
@@ -278,7 +278,7 @@ question. It was equally out of the question to sit, or wander about my
 
 room, counting the hours and the minutes between me and the appointed
 
-time of action, straining my ears and trembling at every sound, lest
+[[Time|time]] of action, straining my ears and trembling at every sound, lest
 
 someone should discover and betray us after all. I took up a book and
 
@@ -292,15 +292,15 @@ once more, and wrote the above account—with difficulty, at first, but
 
 gradually my mind became more calm and steady. Thus several hours have
 
-passed away: the time is drawing near; and now my eyes feel heavy and
+passed away: the [[Time|time]] is drawing near; and now my eyes feel heavy and
 
 my frame exhausted. I will commend my cause to God, and then lie down
 
-and gain an hour or two of sleep; and _then!_—
+and gain an hour or two of [[Sleep|sleep]]; and _then!_—
 
 
 
-Little Arthur sleeps soundly. All the house is still: there can be no
+Little [[arthur|Arthur]] sleeps soundly. All the [[house]] is still: there can be no
 
 one watching. The boxes were all corded by Benson, and quietly conveyed
 

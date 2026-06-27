@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 2 (part 1)"
+title: "[[TheAppOfTyranny]] — Chapter 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -34,11 +34,11 @@ vow or the contract, which Prussian intellectualism would destroy. I urged
 
 that the Prussian is a spiritual Barbarian, because he is not bound by his
 
-own past, any more than a man in a dream. He avows that when he promised to
+own past, any more than a man in [[A Dream|a dream]]. He avows that when he promised to
 
 respect a frontier on Monday, he did not foresee what he calls "the
 
-necessity" of not respecting it on Tuesday. In short, he is like a child,
+necessity" of not respecting it on Tuesday. In short, he is like a [[Child|child]],
 
 who at the end of all reasonable explanations and reminders of admitted
 
@@ -48,17 +48,17 @@ arrangements, has no answer except "But I _want_ to."
 
 There is another idea in human arrangements so fundamental as to be
 
-forgotten; but now for the first time denied. It may be called the idea of
+forgotten; but now for the first [[Time|time]] denied. It may be called the idea of
 
 reciprocity; or, in better English, of give and take. The Prussian appears
 
 to be quite intellectually incapable of this thought. He cannot, I think,
 
-conceive the idea that is the foundation of all comedy; that, in the eyes
+conceive the idea that is the foundation of all [[Comedy|comedy]]; that, in the eyes
 
 of the other man, he is only the other man. And if we carry this clue
 
-through the institutions of Prussianised Germany, we shall find how
+through the institutions of Prussianised [[Germany]], we shall find how
 
 curiously his mind has been limited in the matter. The German differs from
 
@@ -74,19 +74,19 @@ they would still be singing sadly about how fast and true stands the watch
 
 on Rhine; and what a shame it would be if any one took their own little
 
-river away from them. That is what I mean by not being reciprocal: and you
+[[River|river]] away from them. That is what I mean by not being reciprocal: and you
 
 will find it in all that they do: as in all that is done by savages.
 
 
 
-Here, again, it is very necessary to avoid confusing this soul of the
+Here, again, it is very necessary to avoid confusing this [[Soul|soul]] of the
 
 savage with mere savagery in the sense of brutality or butchery; in which
 
 the Greeks, the French and all the most civilised nations have indulged in
 
-hours of abnormal panic or revenge. Accusations of cruelty are generally
+hours of abnormal panic or [[Revenge|revenge]]. Accusations of cruelty are generally
 
 mutual. But it is the point about the Prussian that with him nothing is
 
@@ -104,9 +104,9 @@ world believes all he sees in the newspapers; and no journalist believes a
 
 quarter of it. We should, therefore, be quite ready in the ordinary way to
 
-take a great deal off the tales of German atrocities; to doubt this story
+take a great deal off the tales of German atrocities; to [[Doubt|doubt]] this story
 
-or deny that. But there is one thing that we cannot doubt or deny: the seal
+or deny that. But there is one thing that we cannot [[Doubt|doubt]] or deny: the seal
 
 and authority of the Emperor. In the Imperial proclamation the fact that
 
@@ -116,7 +116,7 @@ ground of their frightfulness. It was a military necessity to terrify the
 
 peaceful populations with something that was not civilised, something that
 
-was hardly human. Very well. That is an intelligible policy: and in that
+was hardly human. Very [[Well|well]]. That is an intelligible policy: and in that
 
 sense an intelligible argument. An army endangered by foreigners may do the
 
@@ -128,7 +128,7 @@ States, to complain that the English are using Dum-dum bullets and
 
 violating various regulations of the Hague Conference. I pass for the
 
-present the question of whether there is a word of truth in these charges.
+present the question of whether there is a word of [[Truth|truth]] in these charges.
 
 I am content to gaze rapturously at the blinking eyes of the True, or
 
@@ -148,7 +148,7 @@ free to break the law; and also to appeal to the law. It is said that the
 
 Prussian officers play at a game called Kriegsspiel, or the War Game. But
 
-in truth they could not play at any game; for the essence of every game is
+in [[Truth|truth]] they could not play at any game; for the essence of every game is
 
 that the rules are the same on both sides.
 
@@ -160,21 +160,21 @@ is not a case of mere bloodshed or military bravado. The duel, for
 
 example, can legitimately be called a barbaric thing; but the word is here
 
-used in another sense. There are duels in Germany; but so there are in
+used in another sense. There are duels in [[Germany]]; but so there are in
 
-France, Italy, Belgium, and Spain; indeed, there are duels wherever there
+France, [[Italy]], Belgium, and Spain; indeed, there are duels wherever there
 
-are dentists, newspapers, Turkish baths, time-tables, and all the curses of
+are dentists, newspapers, Turkish baths, [[Time|time]]-tables, and all the curses of
 
-civilisation; except in England and a corner of America. You may happen to
+civilisation; except in England and a corner of [[america|America]]. You may happen to
 
 regard the duel as a historic relic of the more barbaric States on which
 
-these modern States were built. It might equally well be maintained that
+these modern States were built. It might equally [[Well|well]] be maintained that
 
 the duel is everywhere the sign of high civilisation; being the sign of its
 
-more delicate sense of honour, its more vulnerable vanity, or its greater
+more delicate sense of [[Honour|honour]], its more vulnerable [[Vanity|vanity]], or its greater
 
 dread of social disrepute. But whichever of the two views you take, you
 

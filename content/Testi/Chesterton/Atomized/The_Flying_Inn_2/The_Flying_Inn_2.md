@@ -20,10 +20,10 @@ GILBERT K. CHESTERTON
 
 AUTHOR OF
 
-"MANALIVE," "THE INNOCENCE OF
-FATHER BROWN," ETC.
+"[[manalive|MANALIVE]]," "THE [[innocence|INNOCENCE]] OF
+[[Father Brown|FATHER BROWN]]," ETC.
 
-NEW YORK
+[[New York|NEW YORK]]
 JOHN LANE COMPANY
 MCMXIV
 
@@ -43,25 +43,25 @@ CONTENTS
 CHAPTER
      I. A SERMON ON INNS
     II. THE END OF OLIVE ISLAND
-   III. THE SIGN OF "THE OLD SHIP"
+   III. THE SIGN OF "THE OLD [[Ship|SHIP]]"
     IV. THE INN FINDS WINGS
      V. THE ASTONISHMENT OF THE AGENT
     VI. THE HOLE IN HEAVEN
    VII. THE SOCIETY OF SIMPLE SOULS
   VIII. VOX POPULI VOX DEI
     IX. THE HIGHER CRITICISM AND MR. HIBBS
-     X. THE CHARACTER OF QUOODLE
+     X. THE CHARACTER OF [[quoodle|QUOODLE]]
     XI. VEGETARIANISM IN THE DRAWING-ROOM
    XII. VEGETARIANISM IN THE FOREST
   XIII. THE BATTLE OF THE TUNNEL
    XIV. THE CREATURE THAT MAN FORGETS
-    XV. THE SONGS OF THE CAR CLUB
+    XV. THE [[songs|SONGS]] OF THE CAR CLUB
    XVI. THE SEVEN MOODS OF DORIAN
   XVII. THE POET IN PARLIAMENT
  XVIII. THE REPUBLIC OF PEACEWAYS
    XIX. THE HOSPITALITY OF THE CAPTAIN
     XX. THE TURK AND THE FUTURISTS
-   XXI. THE ROAD TO ROUNDABOUT
+   XXI. THE [[Road|ROAD]] TO ROUNDABOUT
   XXII. THE CHEMISTRY OF MR. CROOKE
  XXIII. THE MARCH ON IVYWOOD
   XXIV. THE ENIGMAS OF LADY JOAN
@@ -85,7 +85,7 @@ rather listlessly along the parade of Pebblewick-on-Sea,
 trailing a parasol and looking out upon the
 sea's horizon.  She had a reason for looking instinctively
 out at the sea-line; a reason that many young
-women have had in the history of the world.  But
+women have had in the [[history]] of the world.  But
 there was no sail in sight.
 
 On the beach below the parade were a succession
@@ -93,10 +93,10 @@ of small crowds, surrounding the usual orators of the
 seaside; whether niggers or socialists, whether clowns
 or clergymen.  Here would stand a man doing something
 or other with paper boxes; and the holiday
-makers would watch him for hours in the hope of
-some time knowing what it was that he was doing with
+makers would watch him for hours in the [[Hope|hope]] of
+some [[Time|time]] knowing what it was that he was doing with
 them.  Next to him would be a man in a top hat with
-a very big Bible and a very small wife, who stood
+a very big [[Bible]] and a very small wife, who stood
 silently beside him, while he fought with his clenched
 fist against the heresy of Milnian Sublapsarianism so
 wide-spread in fashionable watering-places.  It was
@@ -109,14 +109,14 @@ favour mainly on having a ring of carrots round
 his hat.  He had more money lying in front of him
 than the others.  Next were niggers.  Next was a
 children's service conducted by a man with a long neck
-who beat time with a little wooden spade.  Farther
+who beat [[Time|time]] with a little wooden spade.  Farther
 along there was an atheist, in a towering rage, who
 pointed every now and then at the children's service
-and spoke of Nature's fairest things being corrupted
-with the secrets of the Spanish Inquisition--by the
+and spoke of [[Nature]]'s fairest things being corrupted
+with the [[Secrets|secrets]] of the [[Spanish Inquisition]]--by the
 man with the little spade, of course.  The atheist (who
 wore a red rosette) was very withering to his own
-audience as well.  "Hypocrites!" he would say; and
+audience as [[Well|well]].  "Hypocrites!" he would say; and
 then they would throw him money.  "Dupes and
 dastards!" and then they would throw him more money.
 But between the atheist and the children's service was
@@ -128,7 +128,7 @@ we associate rather with Persia.  The young woman
 had never seen him before; he was a new exhibit in the
 now familiar museum of cranks and quacks.  The
 young woman was one of those people in whom a real
-sense of humour is always at issue with a certain
+sense of [[Humour|humour]] is always at issue with a certain
 temperamental tendency to boredom or melancholia;
 and she lingered a moment, and leaned on the rail to
 listen.
@@ -141,12 +141,12 @@ All the noises of that articulation were odd; the most
 marked was an extreme prolongation of the short
 "u" into "oo"; as in "poo-oot" for "put."  Gradually
 the girl got used to the dialect, and began to understand
-the words; though some time elapsed even then
+the words; though some [[Time|time]] elapsed even then
 before she could form any conjecture of their subject
 matter.  Eventually it appeared to her that he had
 some fad about English civilisation having been founded
 by the Turks; or, perhaps by the Saracens after their
-victory in the Crusades.  He also seemed to think that
+victory in the [[Crusades]].  He also seemed to think that
 Englishmen would soon return to this way of thinking;
 and seemed to be urging the spread of teetotalism
 as an evidence of it.  The girl was the only person
@@ -160,11 +160,11 @@ to sell ze alcoholic Christian drink.  They were
 put up to sell ze non-alcoholic Islamic drinks.  You can
 see this in the names of your inns.  They are eastern
 names, Asiatic names.  You have a famous public
-house to which your omnibuses go on the pilgrimage.
-It is called the Elephant and Castle.  That is not an
+[[house]] to which your omnibuses go on the pilgrimage.
+It is called the Elephant and [[Castle]].  That is not an
 English name.  It is an Asiatic name.  You will say
 there are castles in England, and I will agree with you.
-There is the Windsor Castle.  But where," he cried
+There is the Windsor [[Castle]].  But where," he cried
 sternly, shaking his green umbrella at the girl in an
 angry oratorical triumph, "where is the Windsor Elephant?
 I have searched all Windsor Park.  No elephants."
@@ -196,7 +196,7 @@ the word in his own way.  "Why should there be
 a Bull in connection with a festive locality?  Who
 thinks about a Bull in gardens of delight?  What need
 is there of a Bull when we watch the tulip-tinted
-maidens dance or pour the sparkling sherbert?  You
+maidens [[Dance|dance]] or pour the sparkling sherbert?  You
 yourselves, my friends?"  And he looked around
 radiantly, as if addressing an enormous mob.  "You
 yourselves have a proverb, 'It is not calculated to
@@ -209,12 +209,12 @@ He stuck his umbrella upright in the sand and struck
 one finger against another, like a man getting to business
 at last.
 
-"It iss as clear as the sun at noon," he said solemnly.
-"It iss as clear as the sun at noon that this word Bull,
+"It iss as clear as the sun at [[Noon|noon]]," he said solemnly.
+"It iss as clear as the sun at [[Noon|noon]] that this word Bull,
 which is devoid of restful and pleasurable associations,
 is but the corruption of another word, which possesses
 restful and pleasurable associations.  The word is not
-Bull; it is the Bul-Bul!"  His voice rose suddenly like
+Bull; it is the Bul-Bul!"  His voice [[Rose|rose]] suddenly like
 a trumpet and he spread abroad his hands like the fans
 of a tropic palm-tree.
 
@@ -241,7 +241,7 @@ little Ireland.  I will have a little Scotland.  I will have
 a little Spain?'  No--o."  And the noise of the negative
 seemed to waggle as does the bleating of a sheep.
 "You say, 'I will have a little Turkey,' which is your
-name for the Country of the Servant of the Prophet!"
+name for the Country of the Servant of the [[Prophet]]!"
 
 And once more he stretched out his arms sublimely
 to the east and west and appealed to earth and heaven.
@@ -259,36 +259,36 @@ littlest bit!"
 "In reply to this you will object--" proceeded her
 preceptor, "that some inns are actually named after the
 symbols of your national superstitions.  You will hasten
-to point out to me that the Golden Cross is situated
-opposite Charing Cross, and you will expatiate at
-length on King's Cross, Gerrard's Cross and the many
-crosses that are to be found in or near London.  But
+to point out to me that the Golden [[Cross]] is situated
+opposite Charing [[Cross]], and you will expatiate at
+length on [[King]]'s [[Cross]], Gerrard's [[Cross]] and the many
+crosses that are to be found in or near [[London]].  But
 you must not forget," and here he wagged his green
 umbrella roguishly at the girl, as if he was going to
 poke her with it, "none of you, my friends, must
 forget what a large number of Crescents there are
-in London!  Denmark Crescent; Mornington Crescent!
+in [[London]]!  [[Denmark]] Crescent; Mornington Crescent!
 St. Mark's Crescent!  St. George's Crescent!
 Grosvenor Crescent!  Regent's Park Crescent!  Nay,
 Royal Crescent!  And why should we forget Pelham
 Crescent?  Why, indeed?  Everywhere, I say, homage
-paid to the holy symbol of the religion of the Prophet!
+paid to the holy symbol of the religion of the [[Prophet]]!
 Compare with this network and pattern of crescents,
-this city almost consisting of crescents, the meagre
-array of crosses, which remain to attest the ephemeral
+this [[City|city]] almost consisting of crescents, the meagre
+array of crosses, which remain to attest the [[ephemeral]]
 superstition to which you were, for one weak moment,
 inclined."
 
 The crowds on the beach were rapidly thinning as
-tea-time drew nearer.  The west grew clearer and
+tea-[[Time|time]] drew nearer.  The west grew clearer and
 clearer with the evening, till the sunshine seemed to
 have got behind the pale green sea and be shining
 through, as through a wall of thin green glass.  The
 very transparency of sky and sea might have to this
-girl, for whom the sea was the romance and the tragedy,
+girl, for whom the sea was the [[Romance|romance]] and the [[Tragedy|tragedy]],
 the hint of a sort of radiant hopelessness.  The
 flood made of a million emeralds was ebbing as slowly
-as the sun was sinking: but the river of human nonsense
+as the sun was sinking: but the [[River|river]] of human nonsense
 flowed on for ever.
 
 "I will not for one moment maintain," said the old
@@ -296,21 +296,21 @@ gentleman, "that there are no difficulties in my case;
 or that all the examples are as obviously true as those
 that I have just demonstrated.  No-o.  It is obvious,
 let us say, that the 'Saracen's Head' is a corruption of
-the historic truth 'The Saracen is Ahead'--I am far
+the historic [[Truth|truth]] 'The Saracen is Ahead'--I am far
 from saying it is equally obvious that the 'Green Dragon'
 was originally 'the Agreeing Dragoman'; though
-I hope to prove in my book that it is so.  I will only
+I [[Hope|hope]] to prove in my book that it is so.  I will only
 say here that it is su-urely more probable that one
 poo-ooting himself forward to attract the wayfarer
-in the desert, would compare himself to a friendly
+in the [[Desert|desert]], would compare himself to a friendly
 and persuadable guide or courier, rather than to a
-voracious monster.  Sometimes the true origin is very
+voracious [[Monster|monster]].  Sometimes the true origin is very
 hard to trace; as in the inn that commemorates our
 great Moslem Warrior, Amir Ali Ben Bhoze, whom
 you have so quaintly abbreviated into Admiral Benbow.
 Sometimes it is even more difficult for the seeker
-after truth.  There is a place of drink near to here
-called 'The Old Ship'--"
+after [[Truth|truth]].  There is a place of drink near to here
+called 'The Old [[Ship]]'--"
 
 The eyes of the girl remained on the ring of the
 horizon as rigid as the ring itself; but her whole face
@@ -320,21 +320,21 @@ his God; and those who had hoped to know what was
 being done to the paper boxes had gone away to their
 tea without knowing it.  But the young woman still
 leaned on the railing.  Her face was suddenly alive;
-and it looked as if her body could not move.
+and it looked as if her [[Body|body]] could not move.
 
 "It shood be admitted--" bleated the old man with
 the green umbrella, "that there is no literally
-self-evident trace of the Asiatic nomenclature in the words
-'the old ship.'  But even here the see-eeker after Truth
+[[Self|self]]-evident trace of the Asiatic nomenclature in the words
+'the old [[Ship|ship]].'  But even here the see-eeker after [[Truth]]
 can poot himself in touch with facts.  I questioned
-the proprietor of 'The Old Ship' who is, according to
+the proprietor of 'The Old [[Ship]]' who is, according to
 such notes as I have kept, a Mr. Pumph."
 
 The girl's lip trembled.
 
 "Poor old Hump!" she said.  "Why, I'd forgotten
 about him.  He must be very nearly as worried as I
-am!  I hope this man won't be too silly about this!
+am!  I [[Hope|hope]] this man won't be too silly about this!
 I'd rather it weren't about this!"
 
 "And Mr. Pumph to-old me the inn was named by
@@ -343,12 +343,12 @@ been a Captain in the Britannic Royal Navy, but had
 resigned his po-ost in anger at the treatment of
 Ireland.  Though quitting the service, he retained joost
 enough of the superstition of your western sailors, to
-wish his friend's inn to be named after his old ship.
-But as the name of the ship was 'The United Kingdom--'"
+wish his friend's inn to be named after his old [[Ship|ship]].
+But as the name of the [[Ship|ship]] was 'The United Kingdom--'"
 
 His female pupil, if she could not exactly be said
 to be sitting at his feet, was undoubtedly leaning out
-very eagerly above his head.  Amid the solitude of
+very eagerly above his head.  Amid the [[Solitude|solitude]] of
 the sands she called out in a loud and clear voice, "Can
 you tell me the Captain's name?"
 
@@ -356,11 +356,11 @@ The old gentleman jumped, blinked and stared like
 a startled owl.  Having been talking for hours as if
 he had an audience of thousands, he seemed suddenly
 very much embarrassed to find that he had even an
-audience of one.  By this time they seemed to be almost
+audience of one.  By this [[Time|time]] they seemed to be almost
 the only human creatures along the shore; almost
 the only living creatures, except the seagulls.  The sun,
-in dropping finally, seemed to have broken as a blood
-orange might break; and lines of blood-red light were
+in dropping finally, seemed to have broken as a [[Blood|blood]]
+orange might break; and lines of [[Blood|blood]]-red light were
 spilt along the split, low, level skies.  This abrupt and
 belated brilliance took all the colour out of the man's
 red cap and green umbrella; but his dark figure, distinct
@@ -370,15 +370,15 @@ save that it was more agitated than before.
 "The name," he said, "the Captain's name.  I--I
 understood it was Dalroy.  But what I wish to indicate,
 what I wish to expound, is that here again the
-seeker after truth can find the connection of his ideas.
+seeker after [[Truth|truth]] can find the connection of his ideas.
 It was explained to me by Mr. Pumph that he was
 rearranging the place of festivity, in no inconsiderable
 proportion because of the anticipated return of
 the Captain in question, who had, as it appeared, taken
 service in some not very large Navy, but had left it
-and was coming home.  Now, mark all of you, my
+and was coming [[Home|home]].  Now, mark all of you, my
 friends," he said to the seagulls "that even here the
-chain of logic holds."
+chain of [[logic]] holds."
 
 He said it to the seagulls because the young lady,
 after staring at him with starry eyes for a moment and
@@ -391,14 +391,14 @@ continuous sound of a soliloquy.
 
 "Mark, all of you," continued the man flourishing
 his green umbrella so furiously that it almost flew
-open like a green flag unfurled, and then striking it
+open like a green [[Flag|flag]] unfurled, and then striking it
 deep in the sand, in the sand in which his fighting
 fathers had so often struck their tents, "mark all of
 you this marvellous fact!  That when, being for a
-time, for a time, astonished-embarrassed--brought
+[[Time|time]], for a [[Time|time]], astonished-embarrassed--brought
 up as you would say short--by the absence of any
 absolute evidence of Eastern influence in the phrase
-'the old ship,' I inquired from what country the Captain
+'the old [[Ship|ship]],' I inquired from what country the Captain
 was returning, Mr. Pumph said to me in solemnity,
 'From Turkey.'  From Turkey!  From the nearest
 country of the Religion!  I know men say it is not
@@ -406,14 +406,14 @@ our country; that no man knows where we come from,
 of what is our country.  What does it matter where
 we come from if we carry a message from Paradise?
 With a great galloping of horses we carry it, and have
-no time to stop in places.  But what we bring is the
+no [[Time|time]] to stop in places.  But what we bring is the
 only creed that has regarded what you will call in
 your great words the virginity of a man's reason, that
-has put no man higher than a prophet, and has
-respected the solitude of God."
+has put no man higher than a [[Prophet|prophet]], and has
+respected the [[Solitude|solitude]] of God."
 
 And again he spread his arms out, as if addressing
-a mass meeting of millions, all alone on the dark
+a mass meeting of millions, all [[Alone|alone]] on the dark
 seashore.
 
 * * *
@@ -434,7 +434,7 @@ three little olives grew there to an unparalleled height.
 Even in the full heat of the South it is very unusual
 for an olive tree to grow any taller than a small pear
 tree; but the three olives that stood up as signals on this
-sterile place might well be mistaken, except for the
+sterile place might [[Well|well]] be mistaken, except for the
 shape, for moderate sized pines or larches of the north.
 It was also connected with some ancient Greek legend
 about Pallas the patroness of the olive; for all that
@@ -461,17 +461,17 @@ came in to coerce them.  But the interested parties
 had now dwindled to these four.  For the Powers of
 Europe being entirely agreed on the necessity for
 peace on a Turkish basis, were content to leave the
-last negotiations to England and Germany, who could
+last negotiations to England and [[Germany]], who could
 be trusted to enforce it; there was a representative of
 the Sultan, of course; and there was a representative
 of the only enemy of the Sultan who had not hitherto
 come to terms.
 
-For one tiny power had alone carried on the war
+For one tiny power had [[Alone|alone]] carried on the war
 month after month, and with a tenacity and temporary
-success that was a new nine-days marvel every
+[[success]] that was a new nine-days marvel every
 morning.  An obscure and scarcely recognized prince
-calling himself the King of Ithaca had filled the
+calling himself the [[King]] of Ithaca had filled the
 Eastern Mediterranean with exploits that were not
 unworthy of the audacious parallel that the name of his
 island suggested.  Poets could not help asking if it
@@ -479,21 +479,21 @@ were Odysseus come again; patriotic Greeks, even if
 they themselves had been forced to lay down their
 arms, could not help feeling curious as to what Greek
 race or name was boasted by the new and heroic royal
-house.  It was, therefore, with some amusement that
+[[house]].  It was, therefore, with some amusement that
 the world at last discovered that the descendant of
-Ulysses was a cheeky Irish adventurer named Patrick
+[[Ulysses]] was a cheeky Irish adventurer named Patrick
 Dalroy; who had once been in the English Navy, had
 got into a quarrel through his Fenian sympathies and
 resigned his commission.  Since then he had seen
 many adventures in many uniforms; and always got
-himself or some one else into hot water with an
+himself or some one else into hot [[Water|water]] with an
 extraordinary mixture of cynicism and quixotry.  In
 his fantastic little kingdom, of course, he had been his
 own General, his own Admiral, his own Foreign
 Secretary and his own Ambassador; but he was always
 careful to follow the wishes of his people in the
 essentials of peace and war; and it was at their direction
-that he had come to lay down his sword at last.  Besides
+that he had come to lay down his [[Sword|sword]] at last.  Besides
 his professional skill, he was chiefly famous for
 his enormous bodily strength and stature.  It is the
 custom in newspapers nowadays to say that mere
@@ -505,28 +505,28 @@ personal assault is common, a leader who can defend his
 head often has a real advantage; and it is not true,
 even in a general way, that strength is of no use.  This
 was admitted by Lord Ivywood, the English Minister,
-who was pointing out in detail to King Patrick the
+who was pointing out in detail to [[King]] Patrick the
 hopeless superiority of the light pattern of Turkish
-field gun; and the King of Ithaca, remarking that he
+field gun; and the [[King]] of Ithaca, remarking that he
 was quite convinced, said he would take it with him,
 and ran away with it under his arm.  It would be
 conceded by the greatest of the Turkish warriors, the
-terrifying Oman Pasha, equally famous for his courage
+terrifying Oman Pasha, equally famous for his [[Courage|courage]]
 in war and his cruelty in peace; but who carried on
-his brow a scar from Patrick's sword, taken after three
+his brow a scar from Patrick's [[Sword|sword]], taken after three
 hours mortal combat--and taken without spite or
 shame, be it said, for the Turk is always at his best
 in that game.  Nor would the quality be doubted by
 Mr. Hart, a financial friend of the German Minister,
 whom Patrick Dalroy, after asking him which of his
 front windows he would prefer to be thrown into,
-threw into his bedroom window on the first floor with
+threw into his bedroom [[Window|window]] on the first floor with
 so considerate an exactitude that he alighted on the
 bed, where he was in a position to receive any medical
 attention.  But, when all is said, one muscular Irish
 gentleman on an island cannot fight all Europe for
 ever, and he came, with a kind of gloomy good
-humour, to offer the terms now dictated to him by his
+[[Humour|humour]], to offer the terms now dictated to him by his
 adopted country.  He could not even knock all the
 diplomatists down (for which he possessed both the
 power and the inclination), for he realised, with the
@@ -537,14 +537,14 @@ Navy of Ithaca (invented by himself); a big bull of
 a man, monstrously young for his size, with a bull neck
 and two blue bull's eyes for eyes, and red hair rising
 so steadily off his scalp that it looked as if his head had
-caught fire: as some said it had.
+caught [[Fire|fire]]: as some said it had.
 
 The most dominant person present was the great
 Oman Pasha himself, with his strong face starved by
 the asceticism of war, his hair and mustache seeming
-rather blasted with lightning than blanched with
+rather blasted with [[Lightning|lightning]] than blanched with
 age; a red fez on his head, and between the red fez
-and mustache, a scar at which the King of Ithaca did
+and mustache, a scar at which the [[King]] of Ithaca did
 not look.  His eyes had an awful lack of expression.
 
 Lord Ivywood, the English Minister, was probably
@@ -559,11 +559,11 @@ splendid mask never changed in colour or expression.
 He was one of the last of the old Parliamentary
 orators; and yet he was probably a comparatively
 young man; he could make anything he had to
-mention blossom into verbal beauty; yet his face
+mention blossom into verbal [[Beauty|beauty]]; yet his face
 remained dead while his lips were alive.  He had little
 old-fashioned ways, as out of old Parliaments; for
 instance, he would always stand up, as in a Senate, to
-speak to those three other men, alone on a rock in
+speak to those three other men, [[Alone|alone]] on a rock in
 the ocean.
 
 In all this he perhaps appeared more personal in
@@ -571,7 +571,7 @@ contrast to the man sitting next to him, who never
 spoke at all but whose face seemed to speak for him.
 He was Dr. Gluck, the German Minister, whose
 face had nothing German about it; neither the German
-vision nor the German sleep.  His face was as vivid
+vision nor the German [[Sleep|sleep]].  His face was as vivid
 as a highly coloured photograph and altered like a
 cinema: but his scarlet lips never moved in speech.
 His almond eyes seemed to shine with all the shifting
@@ -589,19 +589,19 @@ first item ran:
 "The Ithacan Ambassador asks that the girls taken
 to harems after the capture of Pylos be restored to
 their families.  This cannot be granted."  Lord
-Ivywood rose.  The mere beauty of his voice startled
+Ivywood [[Rose|rose]].  The mere [[Beauty|beauty]] of his voice startled
 everyone who had not heard it before.
 
 "Your Excellencies and gentlemen," he said, "a
 statement to whose policy I by no means assent, but
 to whose historic status I could not conceivably
 aspire, has familiarised you with a phrase about peace
-with honour.  But when we have to celebrate a peace
+with [[Honour|honour]].  But when we have to celebrate a peace
 between such historic soldiers as Oman Pasha and
-His Majesty the King of Ithaca, I think we may say
+His Majesty the [[King]] of Ithaca, I think we may say
 that it is peace with glory."
 
-He paused for half an instant; yet even the silence
+He paused for half an instant; yet even the [[Silence|silence]]
 of sea and rock seemed full of multitudinous applause,
 so perfectly had the words been spoken.
 
@@ -612,23 +612,23 @@ but one thought now.  That the peace may be as full
 as the war--that the peace may be as fearless as the
 war."
 
-Once more he paused an instant; and felt a phantom
+Once more he paused an instant; and felt a [[Phantom|phantom]]
 clapping, as it were, not from the hands but the
 heads of the men.  He went on.
 
 "If we are to leave off fighting, we may surely leave
 off haggling.  A statute of limitations or, if you will,
-an amnesty, is surely proper when so sublime a peace
-seals so sublime a struggle.  And if there be anything
+an amnesty, is surely proper when so [[Sublime|sublime]] a peace
+seals so [[Sublime|sublime]] a struggle.  And if there be anything
 in which an old diplomatist may advise you, I would
 most strongly say this: that there should be no new
 disturbance of whatever amicable or domestic ties have
-been formed during this disturbed time.  I will admit
+been formed during this disturbed [[Time|time]].  I will admit
 I am sufficiently old-fashioned to think any interference
 with the interior life of the family a precedent
 of no little peril.  Nor will I be so illiberal as not to
-extend to the ancient customs of Islam what I would
-extend to the ancient customs of Christianity.  A
+extend to the ancient customs of [[Islam]] what I would
+extend to the ancient customs of [[Christianity]].  A
 suggestion has been brought before us that we should
 enter into a renewed war of recrimination as to whether
 certain women have left their homes with or without
@@ -641,7 +641,7 @@ family arrangements of this great Ottoman Empire,
 shall remain as they are today."
 
 No one moved except Patrick Dalroy, who put his
-hand on his sword-hilt for a moment and looked at
+hand on his [[Sword|sword]]-hilt for a moment and looked at
 them all with bursting eyes; then his hand fell and he
 laughed out loud and sudden.
 
@@ -655,19 +655,19 @@ him:
 be Chinese for the marble.  Greeks cannot be trusted
 in the quarries just now."
 
-"But while," continued Lord Ivywood, "we desire
+"But while," continued Lord Ivywood, "we [[Desire|desire]]
 these fundamental institutions, such as the Moslem
 family, to remain as they are even at this moment, we
 do not assent to social stagnation.  Nor do we say
-for one moment that the great tradition of Islam is
-capable alone of sustaining the necessities of the Near
+for one moment that the great tradition of [[Islam]] is
+capable [[Alone|alone]] of sustaining the necessities of the Near
 East.  But I would seriously ask your Excellencies,
 why should we be so vain as to suppose that the only
 cure for the Near East is of necessity the Near West?
-If new ideas are needed, if new blood is needed, would
+If new ideas are needed, if new [[Blood|blood]] is needed, would
 it not be more natural to appeal to those most living,
 those most laborious civilisations which form the vast
-reserve of the Orient?  Asia in Europe, if my friend
+reserve of the [[Orient]]?  Asia in Europe, if my friend
 Oman Pasha will allow me the criticism, has hitherto
 been Asia in arms.  May we not yet see Asia in
 Europe and yet Asia in peace?  These at least are the
@@ -687,11 +687,11 @@ anything.  He shook the branching olive tree above him
 in his fury.  But he did not for one moment disturb
 Lord Ivywood, who had just read the third item on
 his private agenda ("Oman Pasha insists on the
-destruction of the vineyards") and was by this time
+destruction of the vineyards") and was by this [[Time|time]]
 engaged in a peroration which afterwards became
 famous and may be found in many rhetorical text books
-and primers.  He was well into the middle of it before
-Dalroy's rage and wonder allowed him to follow the
+and primers.  He was [[Well|well]] into the middle of it before
+Dalroy's rage and [[Wonder|wonder]] allowed him to follow the
 words.
 
 ". . . do we indeed owe nothing," the diplomatist
@@ -699,16 +699,16 @@ was saying "to that gesture of high refusal in
 which so many centuries ago the great Arabian mystic
 put the wine-cup from his lips?  Do we owe nothing
 to the long vigil of a valiant race, the long fast by
-which they have testified against the venomous beauty
+which they have testified against the venomous [[Beauty|beauty]]
 of the Vine?  Ours is an age when men come more
 and more to see that the creeds hold treasures for each
 other, that each religion has a secret for its neighbour,
-that faith unto faith uttereth speech, and church unto
+that [[Faith|faith]] unto [[Faith|faith]] uttereth speech, and church unto
 church showeth knowledge.  If it be true, and I claim
 again the indulgence of Oman Pasha when I say I
 think it is true, that we of the West have brought some
-light to Islam in the matter of the preciousness of
-peace and of civil order, may we not say that Islam
+light to [[Islam]] in the matter of the preciousness of
+peace and of civil order, may we not say that [[Islam]]
 in answer shall give us peace in a thousand homes,
 and encourage us to cut down that curse that has
 done so much to thwart and madden the virtues of
@@ -717,26 +717,26 @@ the orgies that made horrible the nights of the noblest
 families are no more.  Already the legislature takes
 more and more sweeping action to deliver the populace
 from the bondage of the all-destroying drug.  Surely
-the prophet of Mecca is reaping his harvest; the
+the [[Prophet|prophet]] of Mecca is reaping his harvest; the
 cession of the disputed vineyards to the greatest of his
 champions is of all acts the most appropriate to this
 day; to this happy day that may yet deliver the East
 from the curse of war and the West from the curse
 of wine.  The gallant prince who meets us here at last,
 to offer an olive branch even more glorious than his
-sword, may well have our sympathy if he himself
+[[Sword|sword]], may [[Well|well]] have our sympathy if he himself
 views the cession with some sentimental regret; but I
-have little doubt that he also will live to rejoice in it
+have little [[Doubt|doubt]] that he also will live to rejoice in it
 at last.  And I would remind you that it is not the
-vine alone that has been the sign of the glory of the
+vine [[Alone|alone]] that has been the sign of the glory of the
 South.  There is another sacred tree unstained by loose
-and violent memories, guiltless of the blood of
+and violent memories, guiltless of the [[Blood|blood]] of
 Pentheus or of Orpheus and the broken lyre.  We shall
 pass from this place in a little while as all things pass
 and perish:
 
    "Far called, our navies melt away.
-      On dune and headland sinks the fire,
+      On dune and headland sinks the [[Fire|fire]],
     And all our pomp of yesterday
       Is one with Nineveh and Tyre.
 
@@ -751,69 +751,69 @@ his hand had tightened on the tree, and a giant billow
 of effort went over his broad breast.  A small stone
 jerked itself out of the ground at the foot of the tree
 as if it were a grasshopper jumping; and then the
-coiled roots of the olive tree rose very slowly out of
+coiled roots of the olive tree [[Rose|rose]] very slowly out of
 the earth like the limbs of a dragon lifting itself from
-sleep.
+[[Sleep|sleep]].
 
-"I offer an olive branch," said the King of Ithaca,
+"I offer an olive branch," said the [[King]] of Ithaca,
 totteringly leaning the loose tree so that its vast
-shadow, much larger than itself, fell across the whole
+[[Shadow|shadow]], much larger than itself, fell across the whole
 council.  "An olive branch," he gasped, "more glorious
-than my sword.  Also heavier."
+than my [[Sword|sword]].  Also heavier."
 
 Then he made another effort and tossed it into the
 sea below.
 
 The German, who was no German, had put up his
-arm in apprehension when the shadow fell across him.
+arm in apprehension when the [[Shadow|shadow]] fell across him.
 Now he got up and edged away from the table; seeing
 that the wild Irishman was tearing up the second tree.
 This one came out more easily; and before he flung
 it after the first, he stood with it a moment; looking
 like a man juggling with a tower.
 
-Lord Ivywood showed more firmness; but he rose
+Lord Ivywood showed more firmness; but he [[Rose|rose]]
 in tremendous remonstrance.  Only the Turkish Pasha
 still sat with blank eyes, immovable.  Dalroy rent out
 the last tree and hurled it, leaving the island bare.
 
 "There!" said Dalroy, when the third and last olive
 had splashed in the tide.  "Now I will go.  I have
-seen something today that is worse than death: and
+seen something today that is worse than [[Death|death]]: and
 the name of it is Peace."
 
-Oman Pasha rose and held out his hand.
+Oman Pasha [[Rose|rose]] and held out his hand.
 
-"You are right," he said in French, "and I hope we
+"You are right," he said in French, "and I [[Hope|hope]] we
 meet again in the only life that is a good life.  Where
 are you going now?"
 
 "I am going," said Dalroy, dreamily, "to 'The Old
-Ship.'"
+[[Ship]].'"
 
 "Do you mean?" asked the Turk, "that you are
-going back to the warships of the English King?"
+going back to the warships of the English [[King]]?"
 
 "No," answered the other, "I am going back to 'The
-Old Ship' that is behind the apple trees by Pebblewick;
-where the Ule flows among the trees.  I fear I
+Old [[Ship]]' that is behind the apple trees by Pebblewick;
+where the Ule flows among the trees.  I [[Fear|fear]] I
 shall never see you there."
 
 After an instant's hesitation he wrung the red hand
-of the great tyrant and walked to his boat without a
+of the great [[Tyrant|tyrant]] and walked to his boat without a
 glance at the diplomatists.
 
 * * *
 
 CHAPTER III
 
-THE SIGN OF "THE OLD SHIP"
+THE SIGN OF "THE OLD [[Ship|SHIP]]"
 
 UPON few of the children of men has the surname of
 Pump fallen, and of these few have been maddened
-into naming a child Humphrey in addition to it.  To
+into naming a [[Child|child]] Humphrey in addition to it.  To
 such extremity, however, had the parents of the
-innkeeper at "The Old Ship" proceeded, that their son
+innkeeper at "The Old [[Ship]]" proceeded, that their son
 might come at last to be called "Hump" by his dearest
 friends, and "Pumph" by an aged Turk with a
 green umbrella.  All this, or all he knew of it, he
@@ -824,20 +824,20 @@ stood almost on the seashore, screened only by one
 line of apple trees, dwarfed, twisted and salted by the
 sea air; but in front of it was a highly banked bowling
 green, and behind it the land sank abruptly; so that
-one very steep sweeping road vanished into the depth
+one very steep sweeping [[Road|road]] vanished into the depth
 and mystery of taller trees.  Mr. Pump was standing
 immediately under his trim sign, which stood erect in
 the turf; a wooden pole painted white and suspending
 a square white board, also painted white but further
-decorated with a highly grotesque blue ship, such as
-a child might draw, but into which Mr. Pump's patriotism
+decorated with a highly [[Grotesque|grotesque]] blue [[Ship|ship]], such as
+a [[Child|child]] might draw, but into which Mr. Pump's patriotism
 had insinuated a disproportionately large red St.
-George's cross.
+George's [[Cross|cross]].
 
 Mr. Humphrey Pump was a man of middle size,
 with very broad shoulders, wearing a sort of shooting
 suit with gaiters.  Indeed, he was engaged at the
-moment in cleaning and reloading a double-barrelled
+moment in cleaning and reloading a [[Double|double]]-barrelled
 gun, a short but powerful weapon which he had
 invented, or at least improved, himself; and which,
 though eccentric enough as compared with latest scientific
@@ -845,8 +845,8 @@ arms, was neither clumsy nor necessarily out of
 date.  For Pump was one of those handy men who
 seem to have a hundred hands like Briareus; he made
 nearly everything for himself and everything in his
-house was slightly different from the same thing in
-anyone else's house.  He was also as cunning as Pan
+[[house]] was slightly different from the same thing in
+anyone else's [[house]].  He was also as cunning as Pan
 or a poacher in everything affecting every bird or
 dish, every leaf or berry in the woods.  His mind was
 a rich soil of subconscious memories and traditions;
@@ -870,7 +870,7 @@ animation and even defiance.  Beyond the goblin
 green apple trees and against the sea had appeared the
 tall, slight figure of a girl, in a dress about the colour
 of copper and a large shady hat.  Under the hat her
-face was grave and beautiful though rather swarthy.
+face was [[Grave|grave]] and beautiful though rather swarthy.
 She shook hands with Mr. Pump; then he very
 ceremoniously put a chair for her and called her "Lady
 Joan."
@@ -909,8 +909,8 @@ went on Mr. Pump.
 "Painted Captain Dawson green," continued Mr.
 Pump in colourless tones.  "Captain Dawson said
 green was the colour of Irish traitors, so Dalroy painted
-him green.  It was a great temptation, no doubt,
-with this fence being painted at the time and the pail
+him green.  It was a great [[Temptation|temptation]], no [[Doubt|doubt]],
+with this fence being painted at the [[Time|time]] and the pail
 of stuff there; but, of course, it had a very prejudicial
 effect on his professional career."
 
@@ -924,7 +924,7 @@ of the 'Green Man' over there by the town."
 since before Waterloo times.  Poor old Noyle had it
 until they put him away.  You remember old Noyle,
 Lady Joan.  Still alive, I hear, and still writing
-love-letters to Queen Victoria.  Only of course they aren't
+[[Love|love]]-letters to [[Queen]] Victoria.  Only of course they aren't
 posted now."
 
 "Have you heard from your Irish friend lately?"
@@ -960,21 +960,21 @@ it.  It wasn't a free seat.  It was the family pew."
 
 Lady Joan broke out laughing again.  "What horrible
 things you do seem to have heard of," she said.
-"Well, I must be going, Mr. Hump--I mean Mr.
+"[[Well]], I must be going, Mr. Hump--I mean Mr.
 Pump--I used to call you Hump . . . oh, Hump, do
 you think any of us will ever be happy again?"
 
-"I suppose it rests with Providence," he said,
+"I suppose it rests with [[Providence]]," he said,
 looking at the sea.
 
-"Oh, do say Providence again!" cried the girl.
+"Oh, do say [[Providence]] again!" cried the girl.
 "It's as good as 'Masterman Ready.'"
 
 With which inconsequent words she betook herself
 again to the path by the apple trees and walked back
 by the sea front to Pebblewick.
 
-The inn of "The Old Ship" lay a little beyond the
+The inn of "The Old [[Ship]]" lay a little beyond the
 old fishing village of Pebblewick; and that again was
 separated by an empty half-mile or so from the new
 watering-place of Pebblewick-on-Sea.  But the
@@ -984,7 +984,7 @@ west in the insane optimism of watering-places, and,
 as she approached the more crowded part, looked more
 and more carefully at the groups on the beach.  Most of
 them were much the same as she had seen them more
-than a month before.  The seekers after truth (as
+than a month before.  The seekers after [[Truth|truth]] (as
 the man in the fez would say) who assembled daily to
 find out what the man was doing with the paper-boxes,
 had not found out yet; neither had they wearied
@@ -1017,20 +1017,20 @@ aristocratic training for the remembering of middle class
 people, she managed to remember that this was a Miss
 Browning who had done typewriting work for her a
 year or two before; and immediately went forward to
-greet her, partly out of genuine good nature and
+greet her, partly out of genuine good [[Nature|nature]] and
 partly as a relief from her own rather dreary thoughts.
 Her tone was so seriously frank and friendly that the
-lady in black summoned the social courage to say:
+lady in black summoned the social [[Courage|courage]] to say:
 
 "I've so often wanted to introduce you to my sister
 who's much cleverer than I am, though she does live
-at home; which I suppose is very old-fashioned.  She
+at [[Home|home]]; which I suppose is very old-fashioned.  She
 knows all sorts of intellectual people.  She is talking
-to one of them now; this Prophet of the Moon that
+to one of them now; this [[Prophet]] of the [[Moon]] that
 everyone's talking about.  Do let me introduce you."
 
 Lady Joan Brett had met many prophets of the
-moon and of other things.  But she had the spontaneous
+[[Moon|moon]] and of other things.  But she had the spontaneous
 courtesy which redeems the vices of her class, and
 she followed Miss Browning to a seat on the parade.
 She greeted Miss Browning's sister with glowing
@@ -1053,11 +1053,11 @@ comes from the East.  You really would be interested."
 "Poot it to yourselfs," the man in the fez was
 saying to Miss Browning's sister, "joost what sort of
 meaning the names of your ince can have if they do
-not commemorate the unlimitable influence of Islam.
-There is a vary populous Inn in London, one of the
+not commemorate the unlimitable influence of [[Islam]].
+There is a vary populous Inn in [[London]], one of the
 most distinguished, one of the most of the Centre, and
 it is called the Horseshoe?  Now, my friendss, why
-should anyone commemorate a horse-shoe?  It iss but
+should anyone commemorate a [[Horse|horse]]-shoe?  It iss but
 an appendage to a creature more interesting than itself.
 I have already demonstrated to you that the very fact
 that you have in your town a place of drink called the
@@ -1071,46 +1071,46 @@ that the Bool is a disturbing thought, while the Bul-Bul
 is a reassuring thought.  But even you my friends,
 would not name a place after a ring in a Bool's nose
 and not after the Bool?  Why then name an equivalent
-place after the shoo, the mere shoo, upon a horse's
-hoof, and not after the noble horse?  Surely it is clear,
-surely it is evident that the term 'horse-shoe' is a
+place after the shoo, the mere shoo, upon a [[Horse|horse]]'s
+hoof, and not after the noble [[Horse|horse]]?  Surely it is clear,
+surely it is evident that the term '[[Horse|horse]]-shoe' is a
 cryptic term, an esoteric term, a term made during the
-days when the ancient Moslem faith of this English
+days when the ancient Moslem [[Faith|faith]] of this English
 country was oppressed by the passing superstition of
 the Galileans.  That bent shape, that duplex curving
-shape, which you call horse-shoe, is it not clearly the
+shape, which you call [[Horse|horse]]-shoe, is it not clearly the
 Crescent?" and he cast his arms wide as he had done
-on the sands, "the Crescent of the Prophet of the only
+on the sands, "the Crescent of the [[Prophet]] of the only
 God?"
 
 "I should like to ask," began Lady Joan, again,
 "how you would explain the name of the inn called
 'The Green Man,' just behind that row of houses."
 
-"Exactly! exactly!" cried the Prophet of the Moon,
-in almost insane excitement.  "The seeker after truth
+"Exactly! exactly!" cried the [[Prophet]] of the [[Moon]],
+in almost insane excitement.  "The seeker after [[Truth|truth]]
 could not at all probably find a more perfect example
 of these principles.  My friendss, how could there be a
 green man?  You are acquainted with green grass,
-with green leaves, with green cheese, with green
+with green [[Leaves|leaves]], with green [[cheese]], with green
 chartreuse.  I ask if any one of you, however wide her
 social circle, has ever been acquainted with a green
 man.  Surely, surely, it is evident, my friendss, that this
 is an imperfect version, an abbreviated version, of the
 original words. What can be clearer than that the
 original expression, was 'the green-turban'd man,' in
-allusion to the well-known uniform of the descendants
-of the Prophet?  'Turban'd' surely is just the
+allusion to the [[Well|well]]-known uniform of the descendants
+of the [[Prophet]]?  'Turban'd' surely is just the
 sort of word, exactly the sort of foreign and
 unfamiliar word, that might easily be slurred over and
 ultimately suppressed."
 
 "There is a legend in these parts," said Lady Joan,
-steadily, "that a great hero, hearing the colour that
+steadily, "that a great [[Hero|hero]], hearing the colour that
 was sacred to his holy island insulted, really poured it
 over his enemy for a reply."
 
-"A legend! a fable!" cried the man in the fez, with
+"A legend! a [[Fable|fable]]!" cried the man in the fez, with
 another radiant and rational expansion of the hands.
 "Is it not evident that no such thing can have really
 happened?"
@@ -1131,7 +1131,7 @@ THE INN FINDS WINGS
 
 MR. HUMPHREY PUMP stood in front of his inn once
 more, the cleaned and loaded gun still lay on the table,
-and the white sign of The Ship still swung in the slight
+and the white sign of The [[Ship]] still swung in the slight
 sea breeze over his head; but his leatherish features
 were knotted over a new problem.  He held two letters
 in his hand, letters of a very different sort, but
@@ -1145,21 +1145,21 @@ name again.  You understand I've got to keep in with my
 people.  Lord Ivywood is a sort of cousin of mine, and for
 that and some other reasons, my poor old mother would
 just die if I offended him.  You know her heart is weak;
-you know everything there is to know in this county.  Well,
+you know everything there is to know in this county.  [[Well]],
 I only write to warn you that something is going to be done
 against your dear old inn.  I don't know what this Country's
 coming to.  Only a month or two ago I saw a shabby
 old pantaloon on the beach with a green gamp, talking the
 craziest stuff you ever heard in your life.  Three weeks
 ago I heard he was lecturing at Ethical Societies--whatever
-they are--for a handsome salary.  Well, when I was last
+they are--for a handsome salary.  [[Well]], when I was last
 at Ivywood--I must go because Mamma likes it--there was
 the living lunatic again, in evening dress, and talked about
 by people who really _know_.  I mean who know better.
 
 "Lord Ivywood is entirely under his influence and thinks
-him the greatest prophet the world has ever seen.  And
-Lord Ivywood is not a fool; one can't help admiring him.
+him the greatest [[Prophet|prophet]] the world has ever seen.  And
+Lord Ivywood is not a [[Fool|fool]]; one can't help admiring him.
 Mamma, I think, wants me to do more than admire him.
 I am telling you everything, Hump, because I think perhaps
 this is the last honest letter I shall ever write in the world.
@@ -1167,10 +1167,10 @@ And I warn you seriously that Lord Ivywood is _sincere_,
 which is perfectly terrible.  He will be the biggest English
 statesman, and he does really mean to ruin--the old ships.
 If ever you see me here again taking part in such work,
-I hope you may forgive me.
+I [[Hope|hope]] you may forgive me.
 
 "Somebody we mentioned, whom I shall never see again,
-I leave to your friendship.  It is the second best thing I can
+I leave to your [[Friendship|friendship]].  It is the second best thing I can
 give, and I am not sure it may not be better than the first
 would have been.  Goodbye.
                      J. B."
@@ -1196,7 +1196,7 @@ annum.
 
 "(2) Violation of sub-section 113_d_ of the Act, which
 enacts that no liquor containing alcohol shall be sold in
-any inn, hotel, tavern or public-house, except when
+any inn, hotel, tavern or public-[[house]], except when
 demanded under a medical certificate from one of the
 doctors licensed by the State Medical Council, or in
 the specially excepted cases of Claridge's Hotel and the
@@ -1220,10 +1220,10 @@ with his warm, brown eyes he considered the cold, grey
 sea.  There was not much to be got out of the sea.
 Humphrey Pump might drown himself in the sea;
 which would be better for Humphrey Pump than being
-finally separated from "The Old Ship."  England might
+finally separated from "The Old [[Ship]]."  England might
 be sunk under the sea; which would be better for
 England than never again having such places as "The Old
-Ship."  But these were not serious remedies nor rationally
+[[Ship]]."  But these were not serious remedies nor rationally
 attainable; and Pump could only feel that the
 sea had simply warped him as it had warped his apple
 trees.  The sea was a dreary business altogether.
@@ -1233,17 +1233,17 @@ grew to more than human size, that he sprang to his
 feet with a cry.  Also the level light of morning lit the
 man's hair, and it was red.
 
-The late King of Ithaca came casually and slowly
-up the slope of the beach that led to "The Old Ship."
+The late [[King]] of Ithaca came casually and slowly
+up the slope of the beach that led to "The Old [[Ship]]."
 He had landed in a boat from a battleship that could
 still be seen near the horizon, and he still wore the
 astounding uniform of apple-green and silver which
 he had himself invented as that of a navy that had
 never existed very much, and which now did not exist
-at all.  He had a straight naval sword at his side; for
+at all.  He had a straight naval [[Sword|sword]] at his side; for
 the terms of his capitulation had never required him
 to surrender it; and inside the uniform and beside the
-sword there was what there always had been, a big
+[[Sword|sword]] there was what there always had been, a big
 and rather bewildered man with rough red hair, whose
 misfortune was that he had good brains, but that his
 bodily strength and bodily passions were a little too
@@ -1258,20 +1258,20 @@ Then, as if feeling that his attitude needed explanation,
 he added, "I suppose I shall never be a sailor
 again after tonight.  So I must have rum."
 
-Humphrey Pump had a talent for friendship, and
+Humphrey Pump had a talent for [[Friendship|friendship]], and
 understood his old friend.  He went into the inn
-without a word; and came back idly pushing or rolling
+without a word; and came back idly pushing or [[rolling]]
 with an alternate foot (as if he were playing football
 with two footballs at once) two objects that
 rolled very easily.  One was a big keg or barrel of
-rum and the other a great solid drum of a cheese.
+rum and the other a great solid drum of a [[cheese]].
 Among his thousand other technical tricks he had a
 way of tapping a cask without a tap, or anything that
 could impair its revolutionary or revolving qualities.
 He was feeling in his pocket for the instrument with
 which he solved such questions, when his Irish
 friend suddenly sat bolt upright, as one startled out of
-sleep, and spoke with his strongest and most unusual
+[[Sleep|sleep]], and spoke with his strongest and most unusual
 brogue.
 
 "Oh thank ye, Hump, a thousand times; and I don't
@@ -1287,9 +1287,9 @@ yours that shan't be just obviously rubbish."
 "And what do you mean by rubbish?"
 
 "I carl it rubbish" cried Patrick Dalroy, "when ye
-put the Koran into the Bible and not the Apocrypha;
+put the Koran into the [[Bible]] and not the Apocrypha;
 and I carl it rubbish when a mad parson's allowed to
-propose to put a crescent on St. Paul's Cathedral.  I
+propose to put a crescent on St. Paul's [[Cathedral]].  I
 know the Turks are our allies now, but they often
 were before, and I never heard that Palmerston or
 Colin Campbell had any truck with such trash."
@@ -1297,22 +1297,22 @@ Colin Campbell had any truck with such trash."
 "Lord Ivywood is very enthusiastic, I know," said
 Pump, with a restrained amusement.  "He was saying
 only the other day at the Flower Show here that the
-time had come for a full unity between Christianity
-and Islam."
+[[Time|time]] had come for a full [[unity]] between [[Christianity]]
+and [[Islam]]."
 
 "Something called Chrislam perhaps," said the
 Irishman, with a moody eye.  He was gazing across
 the grey and purple woodlands that stretched below
 them at the back of the inn; and into which the steep,
-white road swept downwards and disappeared.  The
-steep road looked like the beginning of an adventure;
+white [[Road|road]] swept downwards and disappeared.  The
+steep [[Road|road]] looked like the beginning of an adventure;
 and he was an adventurer.
 
 "But you exaggerate, you know," went on Pump,
 polishing his gun, "about the crescent on St. Paul's.
 It wasn't exactly that.  What Dr. Moole suggested, I
-think, was some sort of double emblem, you know,
-combining cross and crescent."
+think, was some sort of [[Double|double]] emblem, you know,
+combining [[Cross|cross]] and crescent."
 
 "And carled the Croscent," muttered Dalroy.
 
@@ -1324,7 +1324,7 @@ to bite elm trees by Marley.  The grand folks have
 these fashions, Captain, but they've never lasted long
 that I know of."
 
-"I think it's serious this time," said his friend,
+"I think it's serious this [[Time|time]]," said his friend,
 shaking his big red head.  "This is the last inn on this
 coast, and will soon be the last inn in England.  Do
 you remember the 'Saracen's Head' in Plumsea, along
@@ -1337,12 +1337,12 @@ place."
 "I passed there just now; and it has been destroyed,"
 said Dalroy.
 
-"Destroyed by fire?" asked Pump, pausing in his
+"Destroyed by [[Fire|fire]]?" asked Pump, pausing in his
 gun-scrubbing.
 
 "No," said Dalroy, "destroyed by lemonade.
 They've taken away its license or whatever you call it.
-I made a song about it, which I'll sing to you now!"
+I made a [[Song|song]] about it, which I'll sing to you now!"
 And with an astounding air of suddenly revived spirits,
 he roared in a voice like thunder the following
 verses, to a simple but spirited tune of his own
@@ -1350,11 +1350,11 @@ invention:
 
     "The Saracen's Head looks down the lane,
      Where we shall never drink wine again;
-     For the wicked old Women who feel well-bred
+     For the wicked old Women who feel [[Well|well]]-bred
      Have turned to a tea-shop the Saracen's Head.
 
     "The Saracen's Head out of Araby came,
-     King Richard riding in arms like flame,
+     [[King]] [[Richard]] riding in arms like flame,
      And where he established his folk to be fed
      He set up his spear--and the Saracen's Head.
 
@@ -1372,18 +1372,18 @@ something."
 yet more earthquake bellow:
 
     "So the Saracen's Head fulfils its name,
-     They drink no wine--a ridiculous game--     And I shall wonder until I'm dead,
+     They drink no wine--a ridiculous game--     And I shall [[Wonder|wonder]] until I'm dead,
      How it ever came into the Saracen's Head."
 
 As the last echo of this lyrical roar rolled away
-among the apple-trees, and down the steep, white road
+among the apple-trees, and down the steep, white [[Road|road]]
 into the woods, Captain Dalroy leaned back in his
 chair and nodded good humouredly to Lord Ivywood,
 who was standing on the lawn with his usual cold air,
 but with slightly compressed lips.  Behind him was a
-dark young man with double eyeglasses and a number
+dark young man with [[Double|double]] eyeglasses and a number
 of printed papers in his hand; presumably J. Leveson,
-Secretary.  In the road outside stood a group of
+Secretary.  In the [[Road|road]] outside stood a group of
 three which struck Pump as strangely incongruous,
 like a group in a three act farce.  The first was a police
 inspector in uniform; the second was a workman in
@@ -1395,7 +1395,7 @@ explaining something about the inn to the policeman
 and the carpenter, who appeared to be restraining their
 amusement.
 
-"Fine song that, my lord," said Dalroy, with cheerful
+"Fine [[Song|song]] that, my lord," said Dalroy, with cheerful
 egotism.  "I'll sing you another," and he cleared
 his throat.
 
@@ -1414,7 +1414,7 @@ than see a gentleman of your family taking away a
 poor man's livelihood."
 
 "The act is specially designed in the interests of the
-relief of poverty," proceeded Lord Ivywood, in an
+relief of [[Poverty|poverty]]," proceeded Lord Ivywood, in an
 unruffled manner, "and its final advantages will accrue
 to all citizens alike."  He turned for an instant to
 the dark secretary, saying, "You have that second
@@ -1426,7 +1426,7 @@ the Act is largely to protect the savings of the more
 humble and necessitous classes.  I find in paragraph
 three, 'we strongly advise that the deleterious element
 of alcohol be made illegal save in such few places as
-the Government may specially exempt for Parliamentary
+the [[government|Government]] may specially exempt for Parliamentary
 or other public reasons, and that the provocative
 and demoralising display on inn signs be strictly
 forbidden except in the cases thus specially exempted: the
@@ -1434,12 +1434,12 @@ absence of such temptations will, in our opinion, do
 much to improve the precarious financial conditions
 of the working class.'  That disposes, I think, of any
 such suggestion as Mr. Pump's, that our inevitable acts
-of social reform are in any sense oppressive.  To Mr.
+of social [[Reform|reform]] are in any sense oppressive.  To Mr.
 Pump's prejudice it may appear for the moment to
 bear hardly upon him; but" (and here Lord Ivywood's
 voice took one of its moving oratorical turns), "what
-better proof could we desire of the insidiousness of
-the sleepy poison we denounce, what better evidence
+better proof could we [[Desire|desire]] of the insidiousness of
+the sleepy [[Poison|poison]] we denounce, what better evidence
 could we offer of the civic corruption that we seek to
 cure, than the very fact that good and worthy men of
 established repute in the county can, by living in such
@@ -1466,7 +1466,7 @@ gracious permission to be really an inn?"
 
 Lord Ivywood had an admirable command of temper,
 which had helped him much in his career as a
-statesman.  He did not waste time in wrangling about
+statesman.  He did not waste [[Time|time]] in wrangling about
 the Captain's _locus standi_ in the matter.  He replied
 quite simply,
 
@@ -1477,47 +1477,47 @@ police, I may go in and ask for a glass of beer--also
 permitted by the police."
 
 "If you find any such, yes," answered Ivywood,
-quite temperately.  "But we hope soon to have
+quite temperately.  "But we [[Hope|hope]] soon to have
 removed them altogether."
 
-Captain Patrick Dalroy rose enormously from his
+Captain Patrick Dalroy [[Rose|rose]] enormously from his
 seat with a sort of stretch and yawn.
 
-"Well, Hump," he said to his friend, "the best thing,
+"[[Well]], Hump," he said to his friend, "the best thing,
 it seems to me, is to take the important things with us."
 
 With two sight-staggering kicks he sent the keg
-of rum and the round cheese flying over the fence,
+of rum and the round [[cheese]] flying over the fence,
 in such a direction that they bounded on the descending
-road and rolled more and more rapidly down
+[[Road|road]] and rolled more and more rapidly down
 toward the dark woods into which the path disappeared.
 Then he gripped the pole of the inn-sign,
 shook it twice and plucked it out of the turf like a tuft
 of grass.
 
 It had all happened before anyone could move, but
-as he strode out into the road the policeman ran
+as he strode out into the [[Road|road]] the policeman ran
 forward.  Dalroy smote him flat across face and chest
 with the wooden sign-board, so as to send him flying
-into the ditch on the other side of the road.  Then
+into the ditch on the other side of the [[Road|road]].  Then
 turning on the man in the fez he poked him with the
 end of the pole so sharply in his new white waistcoat
 and watch-chain as to cause him to sit down suddenly
-in the road, looking very serious and thoughtful.
+in the [[Road|road]], looking very serious and thoughtful.
 
 The dark secretary made a movement of rescue,
 but Humphrey Pump, with a cry, caught up his gun
 from the table and pointed it at him, which so alarmed
-J. Leveson, Secretary, as to cause him almost to double
+J. Leveson, Secretary, as to cause him almost to [[Double|double]]
 up with his emotions.  The next moment Pump, with
-his gun under his arm, was scampering down the hill
+his gun under his arm, was scampering down the [[Hill|hill]]
 after the Captain, who was scampering after the
-barrel and the cheese.
+barrel and the [[cheese]].
 
 Before the policeman had struggled out of the ditch,
 they had all disappeared into the darkness of the
 forest.  Lord Ivywood who had remained firm through
-the scene, without a sign of fear or impatience (or, I
+the scene, without a sign of [[Fear|fear]] or impatience (or, I
 will add, amusement), held up his hand and stopped
 the policeman in his pursuit.
 
@@ -1533,7 +1533,7 @@ the law has been violated."
 And he stood for hours on the lawn, watching the
 smashing of bottles and the breaking up of casks and
 feeding on fanatical pleasure: the pleasure his strange,
-cold, courageous nature could not get from food or
+cold, courageous [[Nature|nature]] could not get from food or
 wine or woman.
 
 * * *
@@ -1547,14 +1547,14 @@ men who have fed on books; he ignored, not the value
 but the very existence of other forms of information.
 Thus Humphrey Pump was perfectly aware that Lord
 Ivywood considered him an ignorant man who carried
-a volume of Pickwick and could not be got to
+a volume of [[Pickwick]] and could not be got to
 read any other book.  But Lord Ivywood was quite
 unaware that Humphrey never looked at him without
 thinking that he could be most successfully hidden
 in a wood of small beeches, as his grey-brown hair
 and sallow, ashen face exactly reproduced the three
 predominant tints of such a sylvan twilight.  Mr.
-Pump, I fear, had sometimes partaken of partridge
+Pump, I [[Fear|fear]], had sometimes partaken of partridge
 or pheasant, in his early youth, under circumstances
 in which Lord Ivywood was not only unconscious of
 the hospitality he was dispensing, but would have
@@ -1575,16 +1575,16 @@ the largest man lying just behind them, takes up far
 less room than you would suppose; if you know that
 many natural sounds are much more like each other
 than the enlightened ear can believe, as in the case of
-wind in leaves and of the sea; if you know that it is
+[[Wind|wind]] in [[Leaves|leaves]] and of the sea; if you know that it is
 easier to walk in socks than in boots, if you know
 how to take hold of the ground; if you know
-that the proportion of dogs who will bite a man under
+that the proportion of [[dogs]] who will bite a man under
 any circumstances is rather less than the proportion
 of men who will murder you in a railway carriage; if
 you know that you need not be drowned even in a
-river, unless the tide is very strong, and unless you
+[[River|river]], unless the tide is very strong, and unless you
 practise putting yourself into the special attitudes of
-a suicide; if you know that country stations have
+a [[suicide]]; if you know that country stations have
 objectless, extra waiting rooms that nobody ever goes
 into; and if you know that county folk will forget
 you if you speak to them, but talk about you all day
@@ -1594,8 +1594,8 @@ By the exercise of these and other arts and sciences
 Humphrey Pump was able to guide his friend across
 country, mostly in the character of trespasser and
 occasionally in that of something like housebreaker,
-and eventually, with sign, keg, cheese and all to step
-out of a black pinewood onto a white road in a part
+and eventually, with sign, keg, [[cheese]] and all to step
+out of a black pinewood onto a white [[Road|road]] in a part
 of the county where they would not be sought for the
 present.
 
@@ -1604,7 +1604,7 @@ in the shades of the pine trees, a cottage, a very
 tumbledown cottage that seemed to have collapsed under
 its own thatch.  The red-haired Irishman's face wore
 a curious smile.  He stuck the inn-sign erect in the
-road and went and hammered on the door.
+[[Road|road]] and went and hammered on the door.
 
 It was opened tremulously by an old man with a
 face so wrinkled that the wrinkles seemed more
@@ -1615,15 +1615,15 @@ have been a thousand years old.
 
 He did not seem to notice the sign-board, which
 stood rather to the left of the door; and what life
-remained in his eyes seemed to awake in wonder at
-Dalroy's stature and strange uniform and the sword
+remained in his eyes seemed to awake in [[Wonder|wonder]] at
+Dalroy's stature and strange uniform and the [[Sword|sword]]
 at his side.  "I beg your pardon," said the Captain,
-courteously.  "I fear my uniform startles you.  It
+courteously.  "I [[Fear|fear]] my uniform startles you.  It
 is Lord Ivywood's livery.  All his servants are to dress
 like this.  In fact, I understand the tenants also and
-even yourself, perhaps . . . excuse my sword.
+even yourself, perhaps . . . excuse my [[Sword|sword]].
 Lord Ivywood is very particular that every man should
-have a sword.  You know his beautiful, eloquent way
+have a [[Sword|sword]].  You know his beautiful, eloquent way
 of putting his views.  'How can we profess,' he was
 saying to me yesterday, while I was brushing his
 trousers.  'How can we profess that all men are
@@ -1634,15 +1634,15 @@ that which has in all ages marked the difference
 between the free man and the slave.  Nor need we
 anticipate any such barbaric abuses as my honourable
 friend who is cleaning the knives has prophesied, for
-this gift is a sublime act of confidence in your universal
+this gift is a [[Sublime|sublime]] act of confidence in your universal
 passion for the severe splendours of Peace; and
 he that has the right to strike is he who has learnt to
 spare.'"
 
 Talking all this nonsense with extreme rapidity and
 vast oratorical flourishes of the hand, Captain Dalroy
-proceeded to trundle both the big cheese and the cask
-of rum into the house of the astonished cottager: Mr.
+proceeded to trundle both the big [[cheese]] and the cask
+of rum into the [[house]] of the astonished cottager: Mr.
 Pump following with a grim placidity and his gun
 under his arm.
 
@@ -1661,28 +1661,28 @@ cleaning them to make a note of it), 'wine may be a
 mocker; strong drink may be raging, but nowhere in
 the sacred pages will you find one word of censure
 of the sweeter spirit sacred to them that go down
-to the sea in ships; no tongue of priest and prophet
-was ever lifted to break the sacred silence of Holy
+to the sea in ships; no tongue of priest and [[Prophet|prophet]]
+was ever lifted to break the sacred [[Silence|silence]] of Holy
 Writ about Rum.'  He then explained to me," went
 on Dalroy, signing to Pump to tap the cask according
 to his own technical secret, "that the great tip for
 avoiding any bad results that a bottle or two of rum
 might have on young and inexperienced people was
-to eat cheese with it, particularly this kind of cheese
+to eat [[cheese]] with it, particularly this kind of [[cheese]]
 that I have here.  I've forgotten its name."
 
 "Cheddar," said Pump, quite gravely.
 
 "But mind you!" continued the Captain almost
 ferociously, shaking his big finger in warning at the
-aged man.  "Mind you 'no _bread_ with the cheese.
-All the devastating ruin wrought by cheese and the
+aged man.  "Mind you 'no _bread_ with the [[cheese]].
+All the devastating ruin wrought by [[cheese]] and the
 once happy homes of this country, has been due to
 the reckless and insane experiment of eating bread
 with it.'  You'll get no bread from me, my friend.
 Indeed, Lord Ivywood has given directions that the
 allusion to this ignorant and depraved habit shall be
-eliminated from the Lord's Prayer.  Have a drink."
+eliminated from the Lord's [[Prayer]].  Have a drink."
 
 He had already poured out a little of the spirit into
 two thick tumblers and a broken teacup, which he had
@@ -1690,16 +1690,16 @@ induced the aged man to produce; and now solemnly
 pledged him.
 
 "Thank ye kindly, sir," said the old man, using
-his cracked voice for the first time.  Then he drank;
+his cracked voice for the first [[Time|time]].  Then he drank;
 and his old face changed as if it were an old horn
 lantern in which the flame began to rise.
 
 "Ar," he said.  "My son he be a sailor."
 
 "I wish him a happy voyage," said the Captain.
-"And I'll sing you a song about the first sailor there
+"And I'll sing you a [[Song|song]] about the first sailor there
 ever was in the world; and who (as Lord Ivywood
-acutely observes) lived before the time of rum."
+acutely observes) lived before the [[Time|time]] of rum."
 
 He sat down on a wooden chair and lifted his loud
 voice once more, beating on the table with the broken
@@ -1714,19 +1714,19 @@ tea-cup.
     out to sail;
  And Noah, he often said to his wife when he sat down to
     dine,
- 'I don't care where the water goes if it doesn't get into the
+ 'I don't care where the [[Water|water]] goes if it doesn't get into the
     wine.'
 
 "The cataract of the cliff of heaven fell blinding off the
     brink,
- As if it would wash the stars away as suds go down a sink,
+ As if it would wash the [[Stars|stars]] away as suds go down a sink,
  The seven heavens came roaring down for the throats of
     hell to drink,
  And Noah, he cocked his eye and said, 'It looks like rain,
     I think,
- The water has drowned the Matterhorn as deep as a
+ The [[Water|water]] has drowned the Matterhorn as deep as a
     Mendip mine,
- But I don't care where the water goes if it doesn't get into
+ But I don't care where the [[Water|water]] goes if it doesn't get into
     the wine.'
 
 "But Noah he sinned, and we have sinned; on tipsy feet we
@@ -1734,22 +1734,22 @@ tea-cup.
  Till a great big black teetotaller was sent to us for a rod,
  And you can't get wine at a P. S. A. or chapel or
     Eisteddfod;
- For the Curse of Water has come again because of the
+ For the Curse of [[Water]] has come again because of the
     wrath of God,
- And water is on the Bishop's board and the Higher Thinker's
+ And [[Water|water]] is on the Bishop's board and the Higher Thinker's
     shrine,
- But I don't care where the water goes if it doesn't get into
+ But I don't care where the [[Water|water]] goes if it doesn't get into
     the wine."
 
-"Lord Ivywood's favourite song," concluded Mr.
-Patrick Dalroy, drinking.  "Sing us a song yourself."
+"Lord Ivywood's favourite [[Song|song]]," concluded Mr.
+Patrick Dalroy, drinking.  "Sing us a [[Song|song]] yourself."
 
 Rather to the surprise of the two humourists, the old
 gentleman actually began in a quavering voice to
 chant,
 
-    "King George that lives in London Town,
-     I hope they will defend his crown,
+    "[[King]] George that lives in [[London]] Town,
+     I [[Hope|hope]] they will defend his [[Crown|crown]],
      And Bonyparte be quite put down
      On Christmas Day in the morning.
 
@@ -1757,7 +1757,7 @@ chant,
      All in his--"
 
 It is perhaps fortunate for the rapidity of this
-narrative that the old gentleman's favourite song, which
+narrative that the old gentleman's favourite [[Song|song]], which
 consists of forty-seven verses, was interrupted by a
 curious incident.  The door of the cottage opened and
 a sheepish-looking man in corduroys stood silently in
@@ -1773,10 +1773,10 @@ sight of Humphrey seemed to find a few more
 words in his vocabulary.
 
 "Morning, Mr. Pump.  Didn't know as how you'd
-moved 'The Old Ship.'"
+moved 'The Old [[Ship]].'"
 
 Mr. Pump, with a twist of a smile, pointed to the
-old man whose song had been interrupted.
+old man whose [[Song|song]] had been interrupted.
 
 "Mr. Marne's seeing after it now, Mr. Gowl," said
 Pump with the strict etiquette of the country side.
@@ -1807,16 +1807,16 @@ sign you were all right still; a lawyer up at Grunton
 Abbot had told him so; when the company was increased
 and greatly excited by the arrival of a boisterous
 and popular tinker, who ordered glasses all round
-and said he had his donkey and cart outside.  A prolonged,
-rich and confused conversation about the donkey
+and said he had his [[donkey]] and cart outside.  A prolonged,
+rich and confused conversation about the [[donkey]]
 and cart then ensued, in which the most varied
 views were taken of their merits; and it gradually
-began to dawn on Dalroy that the tinker was trying to
+began to [[Dawn|dawn]] on Dalroy that the tinker was trying to
 sell them.
 
 An idea, suited to the romantic opportunism of his
 present absurd career, suddenly swept over his mind,
-and he rushed out to look at the cart and donkey.
+and he rushed out to look at the cart and [[donkey]].
 The next moment he was back again, asking the tinker
 what his price was, and almost in the same breath
 offering a much bigger price than the tinker would
@@ -1824,19 +1824,19 @@ have dreamed of asking.  This was considered, however,
 as a lunacy specially allowed to gentlemen; the
 tinker had some more rum on the strength of the
 payment, and then Dalroy, offering his excuses, sealed up
-the cask and took it and the cheese to be stowed in the
-bottom of the cart.  The money, however, he still left
+the cask and took it and the [[cheese]] to be stowed in the
+[[Bottom|bottom]] of the cart.  The money, however, he still left
 lying in shining silver and copper before the silver
 beard of old Marne.
 
 No one acquainted with the quaint and often wordless
 camaraderie of the English poor will require to
 be told that they all went out and stared at him as he
-loaded the cart and saw to the harness of the donkey
+loaded the cart and saw to the harness of the [[donkey]]
 --all except the old cottager, who sat as if hypnotised
 by the sight of the money.  While they were standing
-there they saw coming down the white, hot road, where
-it curled over the hill, a figure that gave them no
+there they saw coming down the white, hot [[Road|road]], where
+it curled over the [[Hill|hill]], a figure that gave them no
 pleasure, even when it was a mere marching black spot
 in the distance.  It was a Mr. Bullrose, the agent of
 Lord Ivywood's estates.
@@ -1850,7 +1850,7 @@ that sort of estate hardly ever is a nice man.  The
 landlord often is; and even Lord Ivywood had an
 arctic magnanimity of his own, which made most
 people want, if possible, to see him personally.  But Mr.
-Bullrose was petty.  Every really practical tyrant
+Bullrose was petty.  Every really practical [[Tyrant|tyrant]]
 must be petty.
 
 He evidently failed to understand the commotion in
@@ -1870,7 +1870,7 @@ aristocratic land system comes in.
 "Good-bye, my friends," the enormous man in the
 fantastic uniform was saying, "all roads lead to rum,
 as Lord Ivywood said in one of his gayer moments,
-and we hope to be back soon, establishing a first
+and we [[Hope|hope]] to be back soon, establishing a first
 class hotel here, of which prospectuses will soon be
 sent out."
 
@@ -1889,12 +1889,12 @@ miserable cottage.
 "I've got him now," muttered Mr. Bullrose.  "He
 can't possibly pay; and out he shall go."  And he
 walked swiftly towards the door of the cottage, almost
-at the same moment that Dalroy went to the donkey's
-head, as if to lead it off along the road.
+at the same moment that Dalroy went to the [[donkey]]'s
+head, as if to lead it off along the [[Road|road]].
 
 "Look here, my man," burst out Bullrose, the instant
 he was inside the cottage.  "You've cooked yourself
-this time.  His lordship has been a great deal too
+this [[Time|time]].  His lordship has been a great deal too
 indulgent with you; but this is going to be the end of
 it.  The insolence of what you've done outside,
 especially when you know his lordship's wishes in such
@@ -1915,13 +1915,13 @@ steadily than the cottager had done.
 thick, gross voice.  "Did you steal it?"
 
 "I ain't very spry for stealin'," said the old man in
-quavering comedy.
+quavering [[Comedy|comedy]].
 
 Bullrose looked at him and then at the money; and
 remembered with fury that Ivywood was a just though
 cold magistrate on the bench.
 
-"Well, anyhow," he cried, in a hot, heady way,
+"[[Well]], anyhow," he cried, in a hot, heady way,
 "we've got enough against you to turn you out of this.
 Haven't you broken the law, my man, to say nothing
 of the regulations for tenants, in sticking up that fancy
@@ -1934,9 +1934,9 @@ The tenant was silent.
 "Ar," replied the tenant.
 
 "Have you or have you not a sign-board outside
-this house?" shouted Bullrose, hammering the table.
+this [[house]]?" shouted Bullrose, hammering the table.
 
-The tenant looked at him for a long time with a
+The tenant looked at him for a long [[Time|time]] with a
 patient and venerable face, and then said: "Mubbe,
 yes.  Mubbe, no."
 
@@ -1944,13 +1944,13 @@ yes.  Mubbe, no."
 and sticking his silk hat on the back of his head.  "I
 don't know whether you people are too drunk to see
 anything, but I saw the thing with my own eyes out in
-the road.  Come out, and deny it if you dare!"
+the [[Road|road]].  Come out, and deny it if you dare!"
 
 "Ar," said Mr. Marne, dubiously.
 
 He tottered after the agent, who flung open the
 door with a businesslike fury and stood outside on the
-threshold.  He stood there quite a long time, and he
+threshold.  He stood there quite a long [[Time|time]], and he
 did not speak.  Deep in the hardened mud of his
 materialistic mind there had stirred two things that were its
 ancient enemies; the old fairy tale in which every
@@ -1975,21 +1975,21 @@ washed in wine; and dyed almost scarlet the strong
 red head of Patrick Dalroy as he stood on the waste
 of furze and bracken, where he and his friends had
 halted.  One of his friends was re-examining a short
-gun, rather like a double-barrelled carbine, the other
+gun, rather like a [[Double|double]]-barrelled carbine, the other
 was eating thistles.
 
 Dalroy himself was idle and ruminant, with his
 hands in his pockets and his eye on the horizon.
 Land-wards the hills, plains and woods lay bathed in the
-rose-red light; but it changed somewhat to purple, to
-cloud and something like storm over the distant violet
+[[Rose|rose]]-red light; but it changed somewhat to purple, to
+cloud and something like [[Storm|storm]] over the distant violet
 strip of sea.  It was towards the sea that he was
 staring.
 
 Suddenly he woke up; and seemed almost to rub his
 eyes, or at any rate, to rub his red eyebrow.
 
-"Why, we're on the road back of Pebblewick," he
+"Why, we're on the [[Road|road]] back of Pebblewick," he
 said.  "That's the damned little tin chapel by the
 beach."
 
@@ -1999,12 +1999,12 @@ times out of ten it's the best.  Parson Whitelady used
 to do it when they were after him for dog-stealing.
 I've pretty much followed his trail; you can't do better
 than stick to the best examples.  They tell you in
-London that Dick Turpin rode to York.  Well, I know he
+[[London]] that Dick Turpin rode to York.  [[Well]], I know he
 didn't; for my old grandfather up at Cobble's End
 knew the Turpins intimately--threw one of them into
-the river on a Christmas day; but I think I can guess
+the [[River|river]] on a Christmas day; but I think I can guess
 what he did do and how the tale got about.  If Dick
-was wise, he went flying up the old North Road, shouting
+was wise, he went flying up the old North [[Road]], shouting
 'York!  York!' or what not, before people recognised
 him; then if he did the thing properly, he might
 half an hour afterwards walk down the Strand with
@@ -2017,13 +2017,13 @@ it.  I should say, 'Go where you ought to be expected'
 do what they ought about expecting any more than
 about anything else."
 
-"Well, this bit between here and the sea," said the
-Captain, in a brown study, "I know it so well--so
-well that--that I rather wish I'd never seen it again.
+"[[Well]], this bit between here and the sea," said the
+Captain, in a brown study, "I know it so [[Well|well]]--so
+[[Well|well]] that--that I rather wish I'd never seen it again.
 Do you know," he asked, suddenly pointing to a patch
 and pit of sand that showed white in the dusky heath
 a hundred yards away, "do you know what makes
-that spot so famous in history?"
+that spot so famous in [[history]]?"
 
 "Yes," answered Mr. Pump, "that's where old
 Mother Grouch shot the Methodist."
@@ -2035,21 +2035,21 @@ because a very badly brought up girl once lost a ribbon
 off a plait of black hair and somebody helped her
 to find it."
 
-"Has the other person been well brought up?" asked
+"Has the other person been [[Well|well]] brought up?" asked
 Pump, with a faint smile.
 
 "No," said Dalroy, staring at the sea.  "He has been
 brought down."  Then, rousing himself again, he made
 a gesture toward a further part of the heath.  "Do
-you know the remarkable history of that old wall, the
+you know the remarkable [[history]] of that old wall, the
 one beyond the last gorge over there?"
 
 "No," replied the other, "unless you mean Dead
 Man's Circus, and that happened further along."
 
 "I do not mean Dead Man's Circus," said the
-Captain.  "The remarkable history of that wall is that
-somebody's shadow once fell on it; and that shadow
+Captain.  "The remarkable [[history]] of that wall is that
+somebody's [[Shadow|shadow]] once fell on it; and that [[Shadow|shadow]]
 was more desirable than the substance of all other
 living things.  It is _this_," he cried, almost violently,
 resuming his flippant tone, "it is this circumstance,
@@ -2058,10 +2058,10 @@ dead man going to a circus to which you have presumed
 to compare it, it is _this_ historical event which
 Lord Ivywood is about to commemorate by rebuilding
 the wall with solid gold and Greek marbles stolen by
-the Turks from the grave of Socrates, enclosing a
+the Turks from the [[Grave|grave]] of Socrates, enclosing a
 column of solid gold four hundred feet high and
 surmounted by a colossal equestrian statue of a bankrupt
-Irishman riding backwards on a donkey."
+Irishman riding backwards on a [[donkey]]."
 
 He lifted one of his long legs over the animal, as
 if about to pose for the group; then swung back on
@@ -2070,16 +2070,16 @@ of the sea.
 
 "Do you know, Hump," he said, "I think modern
 people have somehow got their minds all wrong about
-human life.  They seem to expect what Nature has
-never promised; and then try to ruin all that Nature
+human life.  They seem to expect what [[Nature]] has
+never promised; and then try to ruin all that [[Nature]]
 has really given.  At all those atheist chapels of
 Ivywood's they're always talking of Peace, Perfect Peace,
 and Utter Peace, and Universal Joy and souls that
 beat as one.  But they don't look any more cheerful
 than anyone else; and the next thing they do is to
 start smashing a thousand good jokes and good stories
-and good songs and good friendships by pulling down
-'The Old Ship.'"  He gave a glance at the loose
+and good [[songs]] and good friendships by pulling down
+'The Old [[Ship]].'"  He gave a glance at the loose
 sign-post lying on the heath beside him, almost as if to
 reassure himself that it was not stolen.  "Now it seems
 to me," he went on, "that this is asking for too much
@@ -2088,23 +2088,23 @@ means a man to have happiness in that All in All and
 Utterly Utter sense of happiness.  But God does mean
 a man to have a little Fun; and I mean to go on having
 it.  If I mustn't satisfy my heart, I can gratify my
-humour.  The cynical fellows who think themselves
+[[Humour|humour]].  The cynical fellows who think themselves
 so damned clever have a sort of saying, 'Be good and
-you will be happy; but you will not have a jolly time.'
+you will be happy; but you will not have a jolly [[Time|time]].'
 The cynical fellows are quite wrong, as they generally
 are.  They have got hold of the exact opposite of the
-truth.  God knows I don't set up to be good; but even
+[[Truth|truth]].  God knows I don't set up to be good; but even
 a rascal sometimes has to fight the world in the same
 way as a saint.  I think I have fought the world; _et
 militavi non sine_--what's the Latin for having a lark?
 I can't pretend to Peace and Joy, and all the rest of it,
 particularly in this original briar-patch.  I haven't been
-happy, Hump, but I have had a jolly time."
+happy, Hump, but I have had a jolly [[Time|time]]."
 
 The sunset stillness settled down again, save for the
-cropping of the donkey in the undergrowth; and
+cropping of the [[donkey]] in the undergrowth; and
 Pump said nothing sympathetically; and it was
-Dalroy once more who took up his parable.
+Dalroy once more who took up his [[Parable|parable]].
 
 "So I think there's too much of this playing on our
 emotions, Hump; as this place is certainly playing the
@@ -2115,8 +2115,8 @@ people miserable.  In my present frame of mind I'm in
 favour of doing things.  All of which, Hump," he said
 with a sudden lift of the voice that always went in him
 with a rushing, irrational return of merely animal
-spirits--"All of which I have put into a Song Against
-Songs, that I will now sing you."
+spirits--"All of which I have put into a [[Song]] Against
+[[songs|Songs]], that I will now sing you."
 
 "I shouldn't sing it here," said Humphrey Pump,
 picking up his gun and putting it under his arm.  "You
@@ -2128,11 +2128,11 @@ who could only get drunk on Greek wine at Squire
 Wimpole's."
 
 "Hump!" cried the Captain, "I abdicate the throne
-of Ithaca.  You are far wiser than Ulysses.  Here
+of Ithaca.  You are far wiser than [[Ulysses]].  Here
 I have had my heart torn with temptations to ten
-thousand things between suicide and abduction, and
+thousand things between [[suicide]] and abduction, and
 all by the mere sight of that hole in the heath, where
-we used to have picnics.  And all that time I'd forgotten
+we used to have picnics.  And all that [[Time|time]] I'd forgotten
 we used to call it the Hole in Heaven.  And, by
 God, what a good name--in both senses."
 
@@ -2164,39 +2164,39 @@ natural curve of fern and furze, and flashed out of
 sight like a fairy.
 
 "It's all right," he called out from under a floor
-or roof of leaves.  "You'll remember it all when you
-get here.  This is the place to sing your song, Captain.
+or roof of [[Leaves|leaves]].  "You'll remember it all when you
+get here.  This is the place to sing your [[Song|song]], Captain.
 Lord bless me, Captain, don't I remember your singing
-that Irish song you made up at college--bellowing it
+that Irish [[Song|song]] you made up at college--bellowing it
 like a bull of Bashan--all about hearts and sleeves or
 some such things--and her ladyship and the tutor
 never heard a breath, because that bank of sand breaks
 everything.  It's worth knowing all this, you know.
 It's a pity it's not part of a young gentleman's
-education.  Now you shall sing me the song in favour of
+[[Education|education]].  Now you shall sing me the [[Song|song]] in favour of
 having no feelings, or whatever you call it."
 
 Dalroy was staring about him at the cavern of his
 old picnics, so forgotten and so startlingly familiar.
 He seemed to have lost all thought of singing
-anything, and simply to be groping in the dark house
+anything, and simply to be groping in the dark [[house]]
 of his own boyhood.  There was a slight trickle from
-a natural spring in sandstone just under the ferns,
-and he remembered they used to try to boil the water
+a natural [[spring]] in sandstone just under the ferns,
+and he remembered they used to try to boil the [[Water|water]]
 in a kettle.  He remembered a quarrel about who had
-upset the kettle which, in the morbidity of first love,
+upset the kettle which, in the morbidity of first [[Love|love]],
 had given him for days the tortures of the damned.
 When the energetic Pump broke once more through
 the rather thorny roof, on an impulse to accumulate
 their other eccentric possessions, Patrick remembered
 about a thorn in a finger, that made his heart stop
-with something that was pain and perfect music.
-When Pump returned with the rum-keg and the cheese
+with something that was [[Pain|pain]] and perfect music.
+When Pump returned with the rum-keg and the [[cheese]]
 and rolled them with a kick down the shelving sandy
 side of the hole, he remembered, with almost wrathful
 laughter, that in the old days he had rolled down
 that slope himself, and thought it a rather fine thing
-to do.  He felt then as if he were rolling down a
+to do.  He felt then as if he were [[rolling]] down a
 smooth side of the Matterhorn.  He observed now that
 the height was rather less than that of the second
 storey of one of the stunted cottages he had noted on
@@ -2210,10 +2210,10 @@ Hole in Heaven.  But does it let one in, or let one
 out?"
 
 In the last level shafts of the fallen sun the
-fantastic shadow of the long-eared quadruped, whom
+fantastic [[Shadow|shadow]] of the long-eared quadruped, whom
 Pump had now tethered to a new and nearer pasture,
 fell across the last sunlit scrap of sand.  Dalroy looked
-at the long exaggerated shadow of the ass; and laughed
+at the long exaggerated [[Shadow|shadow]] of the ass; and laughed
 that short explosive laugh he had uttered when the
 doors of the harems had been closed after the Turkish
 war.  He was normally a man much too loquacious;
@@ -2223,9 +2223,9 @@ Humphrey Pump plunged down again into the sunken
 nest, and began to broach the cask of rum in his
 own secret style, saying--
 "We can get something else somehow tomorrow.
-For tonight we can eat cheese and drink rum,
-especially as there's water on tap, so to speak.  And now,
-Captain, sing us the Song Against Songs."
+For tonight we can eat [[cheese]] and drink rum,
+especially as there's [[Water|water]] on tap, so to speak.  And now,
+Captain, sing us the [[Song]] Against [[songs|Songs]]."
 
 Patrick Dalroy drank a little rum out of a small
 medicine glass which the generally unaccountable Mr.
@@ -2234,25 +2234,25 @@ pocket; but Patrick's colour had risen, his brow was
 almost as red as his hair; and he was evidently
 reluctant.
 
-"I don't see why I should sing all the songs," he
-said.  "Why the divil don't you sing a song
+"I don't see why I should sing all the [[songs]]," he
+said.  "Why the divil don't you sing a [[Song|song]]
 yourself?  And now I come to think of it," he cried, with
 an accumulating brogue, not, perhaps, wholly
 unaffected by the rum, which he had not, in fact, drunk
 for years, "and now I come to think of it, what about
-that song of yours?  All me youth's coming back in this
-blest and cursed place; and I remember that song of
+that [[Song|song]] of yours?  All me youth's coming back in this
+blest and cursed place; and I remember that [[Song|song]] of
 yours, that never existed nor ever will.  Don't ye
-remember now, Humphrey Pump, that night when I
-sang ye no less than seventeen songs of me own
+remember now, Humphrey Pump, that [[Night|night]] when I
+sang ye no less than seventeen [[songs]] of me own
 composition?"
 
-"I remember it very well," answered the
+"I remember it very [[Well|well]]," answered the
 Englishman, with restraint.
 
 "And don't ye remember," went on the exhilarated
 Irishman, with solemnity, "that unless ye could
-produce a poetic lyric of your own, written and sung by
+produce a poetic [[Lyric|lyric]] of your own, written and sung by
 yourself, I threatened to . . ."
 
 "To sing again," said the impenetrable Pump.  "Yes,
@@ -2264,68 +2264,68 @@ an innkeeper, a folded and faded piece of paper.
 
 "I wrote it when you asked me," he said simply.
 "I have never tried to sing it.  But I'll sing it myself,
-when you've sung your song, against anybody singing
+when you've sung your [[Song|song]], against anybody singing
 at all."
 
 "All right," cried the somewhat excited Captain, "to
-hear a song from you--why, I'll sing anything.  This
-is the Song Against Songs, Hump."
+hear a [[Song|song]] from you--why, I'll sing anything.  This
+is the [[Song]] Against [[songs|Songs]], Hump."
 
 And again he let his voice out like a bellow against
-the evening silence.
+the evening [[Silence|silence]].
 
-"The song of the sorrow of Melisande is a weary song and
-     a dreary song,
-  The glory of Mariana's grange had got into great decay,
- The song of the Raven Never More has never been called
-     a cheery song,
+"The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and
+     a dreary [[Song|song]],
+  The glory of [[Mariana]]'s grange had got into great [[Decay|decay]],
+ The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called
+     a cheery [[Song|song]],
   And the brightest things in Baudelaire are anything else
      but gay.
-   But who will write us a riding song,
-   Or a hunting song or a drinking song,
+   But who will write us a riding [[Song|song]],
+   Or a hunting [[Song|song]] or a drinking [[Song|song]],
    Fit for them that arose and rode,
    When day and the wine were red?
    But bring me a quart of claret out,
-   And I will write you a clinking song,
-   A song of war and a song of wine,
-   And a song to wake the dead.
+   And I will write you a clinking [[Song|song]],
+   A [[Song|song]] of war and a [[Song|song]] of wine,
+   And a [[Song|song]] to wake the dead.
 
-"The song of the fury of Fragolette is a florid song and a
-     torrid song,
-  The song of the sorrow of Tara is sung to a harp
+"The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a
+     torrid [[Song|song]],
+  The [[Song|song]] of the sorrow of Tara is sung to a harp
      unstrung,
- The song of the cheerful Shropshire Kid I consider a
-     perfectly horrid song,
-  And the song of the happy Futurist is a song that can't
+ The [[Song|song]] of the cheerful Shropshire Kid I consider a
+     perfectly horrid [[Song|song]],
+  And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't
      be sung.
-   But who will write us a riding song,
-   Or a fighting song or a drinking song,
+   But who will write us a riding [[Song|song]],
+   Or a fighting [[Song|song]] or a drinking [[Song|song]],
    Fit for the fathers of you and me,
    That knew how to think and thrive?
-   But the song of Beauty and Art and Love
-   Is simply an utterly stinking song,
-   To double you up and drag you down,
-   And damn your soul alive.
+   But the [[Song|song]] of [[Beauty]] and Art and [[Love]]
+   Is simply an utterly stinking [[Song|song]],
+   To [[Double|double]] you up and drag you down,
+   And damn your [[Soul|soul]] alive.
 
 "Take some more rum," concluded the Irish officer,
-affably, "and let's hear your song at last."
+affably, "and let's hear your [[Song|song]] at last."
 
 With the gravity inseparable from the deep
 conventionality of country people, Mr. Pump unfolded the
 paper on which he had recorded the only antagonistic
 emotion that was strong enough in him to screw his
-infinite English tolerance to the pitch of song.  He
+infinite English tolerance to the pitch of [[Song|song]].  He
 read out the title very carefully and in full.
 
-"Song Against Grocers, by Humphrey Pump, sole
-proprietor of 'The Old Ship,' Pebblewick.  Good
+"[[Song]] Against Grocers, by Humphrey Pump, sole
+proprietor of 'The Old [[Ship]],' Pebblewick.  Good
 Accommodation for Man and Beast.  Celebrated as
-the House at which both Queen Charlotte and
+the [[house|House]] at which both [[Queen]] Charlotte and
 Jonathan Wilde put up on different occasions; and where
 the Ice-cream man was mistaken for Bonaparte.  This
-song is written against Grocers."
+[[Song|song]] is written against Grocers."
 
-"God made the wicked Grocer,
+"God made the wicked [[grocer|Grocer]],
   For a mystery and a sign,
  That men might shun the awful shops,
   And go to inns to dine;
@@ -2334,10 +2334,10 @@ song is written against Grocers."
  And God that made good laughter
   Has seen that they are good.
 
-"The evil-hearted Grocer
+"The evil-hearted [[grocer|Grocer]]
   Would call his mother 'Ma'am,'
  And bow at her and bob at her,
-  Her aged soul to damn;
+  Her aged [[Soul|soul]] to damn;
  And rub his horrid hands and ask,
   What article was next;
  Though _mortis in articulo_,
@@ -2356,21 +2356,21 @@ song is written against Grocers."
   Induce them now and then
  To crack a bottle with a friend,
   Or treat unmoneyed men;
- But who hath seen the Grocer
+ But who hath seen the [[grocer|Grocer]]
   Treat housemaids to his teas,
  Or crack a bottle of fish-sauce,
-  Or stand a man a cheese?
+  Or stand a man a [[cheese]]?
 
 "He sells us sands of Araby
   As sugar for cash down,
- He sweeps his shop and sells the dust,
+ He sweeps his shop and sells the [[Dust|dust]],
   The purest salt in town;
  He crams with cans of poisoned meat
-  Poor subjects of the King,
+  Poor subjects of the [[King]],
  And when they die by thousands
   Why, he laughs like anything.
 
-"The Wicked Grocer groces
+"The Wicked [[grocer|Grocer]] groces
   In spirits and in wine,
  Not frankly and in fellowship,
   As men in inns do dine;
@@ -2379,18 +2379,18 @@ song is written against Grocers."
  For to be snatched by Duchesses,
   And drunk in dressing-rooms.
 
-"The hell-instructed Grocer
+"The hell-instructed [[grocer|Grocer]]
   Has a temple made of tin,
  And the ruin of good inn-keepers
   Is loudly urged therein;
  But now the sands are running out
   From sugar of a sort,
- The Grocer trembles; for his time
+ The [[grocer|Grocer]] trembles; for his [[Time|time]]
   Just like his weight is short."
 
 Captain Dalroy was getting considerably heated
 with his nautical liquor, and his appreciation of
-Pump's song was not merely noisy but active.  He
+Pump's [[Song|song]] was not merely noisy but active.  He
 leapt to his feet and waved his glass.  "Ye ought to be
 Poet Laureate, Hump--ye're right, ye're right; we'll
 stand all this no longer!"
@@ -2404,7 +2404,7 @@ it!"
 
 They were some way along the coast from the
 large watering-place of Pebblewick and between the
-gathering twilight and the rolling country it could not
+gathering twilight and the [[rolling]] country it could not
 be clearly seen.  Nothing was now in sight but the
 corrugated iron hall by the beach and three half-built
 red brick villas.
@@ -2419,7 +2419,7 @@ and began to stride towards the place, showering
 curses.
 
 "In forty days," he cried, "shall Pebblewick be
-destroyed.  Dogs shall lap the blood of J. Leveson,
+destroyed.  [[dogs|Dogs]] shall lap the [[Blood|blood]] of J. Leveson,
 Secretary, and Unicorns--"
 
 "Come back Pat," cried Humphrey, "you've had
@@ -2429,7 +2429,7 @@ too much rum."
 the Captain.
 
 "Donkeys will howl, anyhow," said Pump.  "But
-I suppose the other donkey must follow."
+I suppose the other [[donkey]] must follow."
 
 And loading and untethering the quadruped, he
 began to lead him along.
@@ -2442,10 +2442,10 @@ THE SOCIETY OF SIMPLE SOULS
 
 UNDER sunset, at once softer and more sombre, under
 which the leaden sea took on a Lenten purple, a tint
-appropriate to tragedy, Lady Joan Brett was once
+appropriate to [[Tragedy|tragedy]], Lady Joan Brett was once
 more drifting moodily along the sea-front.  The evening
 had been rainy and lowering; the watering-place
-season was nearly over; and she was almost alone
+season was nearly over; and she was almost [[Alone|alone]]
 on the shore; but she had fallen into the habit of
 restlessly pacing the place, and it seemed to satisfy some
 subconscious hunger in her rather mixed psychology.
@@ -2453,7 +2453,7 @@ Through all her brooding her animal senses always
 remained abnormally active: she could _smell_ the sea
 when it had ebbed almost to the horizon, and in the
 same way she heard, through every whisper of waves
-or wind, the swish or flutter of another woman's
+or [[Wind|wind]], the swish or flutter of another woman's
 skirt behind her.  There is, she felt, something
 unmistakable about the movements of a lady who is
 generally very dignified and rather slow, and who happens
@@ -2476,7 +2476,7 @@ eyes of ladies who ask questions at public meetings.
 Joan Brett was herself, as she had said, a connection
 of the Ivywood family; but Lady Enid was Ivywood's
 first cousin, and for all practical purposes his sister.
-For she kept house for him and his mother, who was
+For she kept [[house]] for him and his mother, who was
 now so incredibly old that she only survived to satisfy
 conventional opinion in the character of a speechless
 and useless _chaperon_.  And Ivywood was not the sort
@@ -2489,7 +2489,7 @@ sense that shone on her cousin's.
 "Oh, I'm so glad I've caught you up," she said to
 Joan.  "Lady Ivywood wants you _so_ much to come to
 us for the week-end or so, while Philip is still there.
-He always admired your sonnet on Cyprus so much,
+He always admired your [[Sonnet|sonnet]] on Cyprus so much,
 and he wants to talk to you about this policy of his in
 Turkey.  Of course he's awfully busy, but I shall be
 seeing him tonight after the meeting."
@@ -2497,29 +2497,29 @@ seeing him tonight after the meeting."
 "No living creature," said Lady Joan, with a smile,
 "ever saw him except before or after a meeting."
 
-"Are you a Simple Soul?" asked Lady Enid, carelessly.
+"Are you a Simple [[Soul]]?" asked Lady Enid, carelessly.
 
-"Am I a simple soul?" asked Joan, drawing her
+"Am I a simple [[Soul|soul]]?" asked Joan, drawing her
 black brows together.  "Merciful Heavens, no!  What
 can you mean?"
 
 "Their meeting's on tonight at the small Universal
 Hall, and Philip's taking the chair," explained the
 other lady.  "He's very annoyed that he has to leave
-early to get up to the House, but Mr. Leveson can
+early to get up to the [[house|House]], but Mr. Leveson can
 take the chair for the last bit.  They've got Misysra
 Ammon."
 
-"Got Mrs. Who?" asked Joan, in honest doubt.
+"Got Mrs. Who?" asked Joan, in honest [[Doubt|doubt]].
 
 "You make game of everything," said Lady Enid,
 in cheerless amiability.  "It's the man everyone's talking
-about--_you_ know as well as I do.  It's really his
+about--_you_ know as [[Well|well]] as I do.  It's really his
 influence that has _made_ the Simple Souls."
 
 "Oh!" said Lady Joan Brett.
 
-Then after a long silence, she added: "Who are the
+Then after a long [[Silence|silence]], she added: "Who are the
 Simple Souls?  I should be interested in them, if I
 could meet any."  And she turned her dark, brooding
 face on the darkening purple sea.
@@ -2528,7 +2528,7 @@ face on the darkening purple sea.
 Wimpole, "that you haven't met any of them yet?"
 
 "No," said Joan, looking at the last dark line of sea.
-"I never met but one simple soul in my life."
+"I never met but one simple [[Soul|soul]] in my life."
 
 "But you must come to the meeting!" cried Lady
 Enid, with frosty and sparkling gaiety.  "You must
@@ -2567,7 +2567,7 @@ longer impossible.  The East and the West are one.
 The East is no longer East nor the West West; for
 a small isthmus has been broken, and the Atlantic and
 Pacific are a single sea.  No man assuredly has done
-more of this mighty work of unity than the brilliant
+more of this mighty work of [[unity]] than the brilliant
 and distinguished philosopher to whom you will have
 the pleasure of listening tonight; and I profoundly
 wish that affairs more practical, for I will not call
@@ -2580,16 +2580,16 @@ developed before you tonight.  I have long been
 increasingly convinced that underneath a certain mask
 of stiffness which the Mahommedan religion has worn
 through certain centuries, as a somewhat similar mask
-has been worn by the religion of the Jews, Islam has
+has been worn by the religion of the Jews, [[Islam]] has
 in it the potentialities of being the most progressive of
 all religions; so that a century or two to come we may
-see the cause of peace, of science and of reform
-everywhere supported by Islam as it is everywhere
+see the cause of peace, of science and of [[Reform|reform]]
+everywhere supported by [[Islam]] as it is everywhere
 supported by Israel.  Not in vain, I think, is the symbol
-of that faith the Crescent, the growing thing.  While
+of that [[Faith|faith]] the Crescent, the growing thing.  While
 other creeds carry emblems implying more or less of
-finality, for this great creed of hope its very imperfection
-is its pride, and men shall walk fearlessly in new
+finality, for this great creed of [[Hope|hope]] its very imperfection
+is its [[Pride|pride]], and men shall walk fearlessly in new
 and wonderful paths, following the increasing curve
 which contains and holds up before them the eternal
 promises of the orb."
@@ -2603,13 +2603,13 @@ clap or stamp had subsided, he sprang up alertly, his
 light great-coat over his arm, shook hands with the
 lecturer, bowed to the audience and slid quickly out of
 the hall.  Mr. Leveson, the swarthy young man with
-the drooping double-eyeglass rather bashfully to the
+the drooping [[Double|double]]-eyeglass rather bashfully to the
 front, took the empty seat on the platform, and in a
 few words presented the eminent Turkish mystic
-Misysra Ammon, sometimes called the Prophet of the
-Moon.
+Misysra Ammon, sometimes called the [[Prophet]] of the
+[[Moon]].
 
-Lady Joan found the Prophet's English accent somewhat
+Lady Joan found the [[Prophet]]'s English accent somewhat
 improved by good society, but he still elongated
 the letter "u" in the same bleating manner, and his
 remarks had exactly the same rabidly wrong-headed
@@ -2623,10 +2623,10 @@ sterility and worldly ineffectiveness.
 the practical tings, if you could come to consider them in a manner
 quite equal, that our methods are better than your methods.  My
 ancestors invented the curved swords, because one cuts better with a
-curved sword.  Your ancestors possessed the straight swords out of
+curved [[Sword|sword]].  Your ancestors possessed the straight swords out of
 some romantic fancy of being what you call straight; or, I will take a
 more plain example, of which I have myself experience.  When I first
-had the honour of meeting Lord Ivywood, I was unused to your various
+had the [[Honour|honour]] of meeting Lord Ivywood, I was unused to your various
 ceremonies and had a little difficulty, joost a little difficulty, in
 entering Mr.  Claridge's hotel, where his lordship had invited me.  A
 servant of the hotel was standing joost beside me on the doorstep.  I
@@ -2653,8 +2653,8 @@ helpless looking people with limp hair and gowns like
 green curtains, and their dry faces were as dry as
 ever.
 
-"But I explained to him.  I explained to him for a long time, for a
-carefully occupied time, that it was more practical, more
+"But I explained to him.  I explained to him for a long [[Time|time]], for a
+carefully occupied [[Time|time]], that it was more practical, more
 business-like, more altogether for utility, to take off the boo-oots
 than to remove the hat.  'Let us,' I said to him, 'consider what many
 complaints are made against the footwear, what few complaints against
@@ -2667,13 +2667,13 @@ occasion butt you with the hat?'"
 He looked round with a radiant seriousness, which
 made Lady Joan almost as speechless for sympathy
 as she was for amusement.  With all that was most
-sound in his too complicated soul she realised the
+sound in his too complicated [[Soul|soul]] she realised the
 presence of a man really convinced.
 
 "The man on the doorstep, he would not listen to
 me," went on Misysra Ammon, pathetically.  "He said
 there would be a crowd if I stood on the doorstep,
-holding in my hand my boo-oots.  Well, I do not know
+holding in my hand my boo-oots.  [[Well]], I do not know
 why, in your country you always send the young
 males to be the first of your crowds.  They certainly
 were making a number of noises, the young males."
@@ -2684,7 +2684,7 @@ back parts of the hall.  She felt that if she looked for
 one moment more at the serious face with the Jewish
 nose and the Persian beard, she would publicly
 disgrace herself; or, what was quite as bad (for she was
-the generous sort of aristocrat) publicly insult the
+the generous sort of [[aristocrat]]) publicly insult the
 lecturer.  She had a feeling that the sight of all the
 Simple Souls in bulk might have a soothing effect.  It
 had.  It had what might have been mistaken for a
@@ -2692,7 +2692,7 @@ depressing effect.  Lady Joan resumed her seat with a
 controlled countenance.
 
 "Now, why," asked the Eastern philosopher, "do I
-tell so simple a little story of your London streets--a
+tell so simple a little story of your [[London]] streets--a
 thing happening any day?  The little mistake had no
 preju-udicial effect.  Lord Ivywood came out, at the
 end.  He made no attempt to explain the true view of
@@ -2701,8 +2701,8 @@ Mr. Claridge's servant remained on the doorstep.
 But he commanded Mr. Claridge's servant to
 restore to me one of my boo-oots, which had fallen
 down the front steps, while I was explaining this
-harmlessness of the hat in the home.  So all was, for me,
-very well.  But why do I tell such little tales?"
+harmlessness of the hat in the [[Home|home]].  So all was, for me,
+very [[Well|well]].  But why do I tell such little tales?"
 
 He spread out his hands again, in his fanlike
 eastern style.  Then he clapped them together, so suddenly
@@ -2716,10 +2716,10 @@ could give of the wrong and slanderous character of
 the charge that we fail in our domesticities.  That we
 fail especially in our treatment of the womankind.  I
 appeal to any lady, to any Christian lady.  Is not the
-boo-oot more devastating, more dreaded in the home
+boo-oot more devastating, more dreaded in the [[Home|home]]
 than the hat?  The boot jumps, he bound, he run about,
 he break things, he leave on the carpet the earths of
-the garden.  The hat, he remain quiet on his hat-peg.
+the [[Garden|garden]].  The hat, he remain quiet on his hat-peg.
 Look at him on his hat-peg; how quiet and good he
 remain!  Why not let him remain quiet also on his
 head?"
@@ -2734,7 +2734,7 @@ the common objection our worthy enemies make
 against our polygamy?  That it is disdainful of the
 womanhood.  But how can this be so, my friends,
 when it allows the womanhood to be present in so
-large numbers?  When in your House of Commons
+large numbers?  When in your [[house|House]] of Commons
 you put a hundred English members and joost one little
 Welsh member, you do not say 'The Welshman is on
 top; he is our Sultan; may he live for ever!'  If your
@@ -2754,23 +2754,23 @@ The door of the hall stood open, and occasional
 sounds came even from that deserted end of the town.
 Two men seemed to be passing along the distant
 parade; one of them was singing.  It was common enough
-for workmen to sing going home at night, and the
+for workmen to sing going [[Home|home]] at [[Night|night]], and the
 voice, though a loud one, would have been too far off
 for Joan to hear the words.  Only Joan happened to
 know the words.  She could almost see them before
 her, written in a round swaggering hand on the pink
-page of an old school-girl album at home.  She knew
+page of an old school-girl album at [[Home|home]].  She knew
 the words and the voice.
 
 "I come from Castlepatrick and my heart is on my sleeve,
- And any sword or pistol boy can hit ut with me leave,
+ And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit ut with me leave,
  It shines there for an epaulette, as golden as a flame,
  As naked as me ancestors, as noble as me name.
  For I come from Castlepatrick and my heart is on my
     sleeve,
  But a lady stole it from me on St. Gallowglass's Eve."
 
-Startlingly and with strong pain there sprang up
+Startlingly and with strong [[Pain|pain]] there sprang up
 before Joan's eyes a patch of broken heath with a very
 deep hollow of white sand, blinding in the sun.  No
 words, no name, only the place.
@@ -2778,7 +2778,7 @@ words, no name, only the place.
 "The folks that live in Liverpool, their heart is in their boots;
  They go to Hell like lambs, they do, because the hooter hoots.
  Where men may not be dancin', though the wheels may
-    dance all day;
+    [[Dance|dance]] all day;
  And men may not be smokin', but only chimneys may.
  But I come from Castlepatrick and my heart is on my
     sleeve,
@@ -2809,7 +2809,7 @@ will not refu-use either this great social experiment,
 this great polygamical method which also arose out
 of the East, and always returns.  For this is that
 Higher Polygamy which always comes, like the sun
-itself, out of the orient, but is only at its noontide
+itself, out of the [[Orient|orient]], but is only at its noontide
 splendour when the sun is high in heaven."
 
 She was but vaguely conscious of Mr. Leveson, the
@@ -2818,9 +2818,9 @@ the entrancing lecture in suitable terms, and
 calling on any of the Simple Souls who might have
 questions to ask, to ask them.  It was only when the
 Simple Souls had displayed their simplicity with the
-usual parade of well-bred reluctance and fussy self-effacement, that anyone addressed the chair.  And it
+usual parade of [[Well|well]]-bred reluctance and fussy [[Self|self]]-effacement, that anyone addressed the chair.  And it
 was only after somebody had been addressing the
-chair for some time that Joan gradually awoke to the
+chair for some [[Time|time]] that Joan gradually awoke to the
 fact that the address was somewhat unusual.
 
 * * *
@@ -2833,7 +2833,7 @@ VOX POPULI VOX DEI
 with a somewhat constrained smile, "that after the
 eloquent and epoch-making speech to which we have
 listened there will be some questions asked, and we
-hope to have a debate afterwards.  I am sure somebody
+[[Hope|hope]] to have a [[debate]] afterwards.  I am sure somebody
 will ask a question."  Then he looked interrogatively
 at one weary looking gentleman in the fourth
 row and said, "Mr. Hinch?"
@@ -2845,7 +2845,7 @@ I really couldn't!"
 "We should be very pleased," said Mr. Leveson, "if
 any lady would ask a question."
 
-In the silence that followed it was somehow
+In the [[Silence|silence]] that followed it was somehow
 psychologically borne in on the whole audience that one
 particular great large lady (as the lecturer would say)
 sitting at the end of the second row was expected to
@@ -2861,7 +2861,7 @@ could be heard of "Now then, Garge!"--"Go it
 Garge!  Is there any questions!  Gor!"
 
 Mr. Leveson looked up with an alertness somewhat
-akin to alarm.  He realised for the first time that a few
+akin to alarm.  He realised for the first [[Time|time]] that a few
 quite common men in coarse, unclean clothes, had
 somehow strolled in through the open door.  They
 were not true rustics, but the semi-rustic labourers that
@@ -2894,22 +2894,22 @@ string.  He did not appear to have had any seat since
 his arrival, and made his remarks standing half way
 down what we may call the central aisle.
 
-"Well, I want to ask the proprietor," he began.
+"[[Well]], I want to ask the proprietor," he began.
 
 "Questions," said Mr. Leveson, swiftly seizing a
-chance for that construction of debate which is the
+chance for that construction of [[debate]] which is the
 main business of a modern chairman, "must be asked
 of the chair, if they are points of order.  If they
 concern the address, they should be asked of the lecturer."
 
-"Well, I ask the lecturer," said the patient Garge,
+"[[Well]], I ask the lecturer," said the patient Garge,
 "whether it ain't right that when you 'ave the thing
 outside you should 'ave the thing inside."  (Hoarse
 applause at the back.)
 
 Mr. Leveson was evidently puzzled and already
 suspicious that something was quite wrong.  But the
-enthusiasm of the Prophet of the Moon sprang up
+enthusiasm of the [[Prophet]] of the [[Moon]] sprang up
 instantly at any sort of question and swept the
 Chairman along with it.
 
@@ -2918,7 +2918,7 @@ cried, spreading out his arms to embrace the world,
 "that the outer manifestation should be one with the
 inner manifestation.  My friendss, it iss this very
 tru-uth our friend has stated, that iss responsible for
-our apparent lack of symbolism in Islam!  We appear
+our apparent lack of symbolism in [[Islam]]!  We appear
 to neglect the symbol because we insist on the
 satisfactory symbol.  My friend in the middle will
 walk round all our mosques and say loudly, 'Where is
@@ -2929,7 +2929,7 @@ statue of Allah?"
 Misysra Ammon sat down greatly satisfied with
 his answer, but it was doubted by many whether, he
 had conveyed the satisfaction to his friend in the
-middle.  That seeker after truth wiped his mouth with
+middle.  That seeker after [[Truth|truth]] wiped his mouth with
 the back of his hand with an unsatisfied air and said:
 
 "No offence, sir.  But ain't it the Law, sir, that if
@@ -2939,33 +2939,33 @@ place like this afore."  (Hoarse laughter behind.)
 
 "No apology is needed, my friend," cried the Eastern
 sage, eagerly, "I can conceive you are not perhaps
-du-uly conversant with such schools of truth.  But
+du-uly conversant with such schools of [[Truth|truth]].  But
 the Law is All.  The Law is Allah.  The inmost
-u-unity of--"
+u-[[unity]] of--"
 
-"Well, ain't it the Law?" repeated the dogged
-George, and every time he mentioned the Law the poor
+"[[Well]], ain't it the Law?" repeated the dogged
+George, and every [[Time|time]] he mentioned the Law the poor
 men who are its chief victims applauded loudly.  "I'm
 not one to make a fuss.  I never was one to make a
 fuss.  I'm a law-abidin' man, I am.  (More applause.)
 Ain't it the Law that if so be such is your sign and
 such is your profession, you ought to serve us?"
 
-"I fear I not quite follow," cried the eager Turk.
+"I [[Fear|fear]] I not quite follow," cried the eager Turk.
 "I ought?"
 
 "To serve us," shouted a throng of thick voices
 from the back of the hall, which was already much
 more crowded than before.
 
-"Serve you!" cried Misysra, leaping up like a spring
-released, "The Holy Prophet came from Heaven to
+"Serve you!" cried Misysra, leaping up like a [[spring]]
+released, "The Holy [[Prophet]] came from Heaven to
 serve you!  The virtue and valour of a thousand
 years, my friends, has had no hunger but to serve you!
-We are of all faiths, the most the faith of service.
-Our highest prophet is no more than the servant of
+We are of all faiths, the most the [[Faith|faith]] of service.
+Our highest [[Prophet|prophet]] is no more than the servant of
 God, as I am, as you all are.  Even for our symbol
-we choose a satellite, and honour the Moon because it
+we choose a satellite, and [[Honour|honour]] the [[Moon]] because it
 only serves the Earth, and does not pretend to be the
 Sun."
 
@@ -2986,7 +2986,7 @@ him:
 "You must get all the ladies away.  I can't imagine
 what's up, but something's up."
 
-"Well?" repeated the patient George.  "So be it's
+"[[Well]]?" repeated the patient George.  "So be it's
 the Law, where is it?"
 
 "Ladies and Gentlemen," said Mr. Leveson, in his
@@ -3020,12 +3020,12 @@ Away on the wettest edge of the sands by the sea the
 prints of two wheels and four hoofs were being slowly
 washed away by a slowly rising tide; which was,
 indeed, the only motive of the man Humphrey Pump,
-leading the donkey cart, in leading it almost ankle deep
-in water.
+leading the [[donkey]] cart, in leading it almost ankle deep
+in [[Water|water]].
 
-"I hope you're sober again now," he said with some
+"I [[Hope|hope]] you're sober again now," he said with some
 seriousness to his companion, a huge man walking
-heavily and even humbly with a straight sword swinging
+heavily and even humbly with a straight [[Sword|sword]] swinging
 to and fro at his hip--"for honestly it was a mug's
 game to go and stick up the old sign before that tin
 place.  I haven't often spoken to you like this,
@@ -3037,34 +3037,34 @@ hear the ladies screaming before we left."
 
 "I heard worse than that long before we left," said
 the large man, without lifting his head.  "I heard one
-of them laugh. . . .  Christ, do you think I shouldn't
+of them laugh. . . .  [[Christ]], do you think I shouldn't
 hear her laugh?"
 
-There was a silence.  "I didn't mean to speak
+There was a [[Silence|silence]].  "I didn't mean to speak
 sharp," said Humphrey Pump with that incorruptible
 kindliness which was the root of his Englishry, and
-may yet save the soul of the English.  "But it's the
-truth I was pretty well bothered about how to get out
+may yet save the [[Soul|soul]] of the English.  "But it's the
+[[Truth|truth]] I was pretty [[Well|well]] bothered about how to get out
 of this business.  You're braver than I am, you see,
 and I own I was frightened about both of us.  If I
 hadn't known my way to the lost tunnel, I should be
 fairly frightened still."
 
 "Known your way to what?" asked the Captain,
-lifting his red head for the first time.
+lifting his red head for the first [[Time|time]].
 
 "Oh, you know all about No More Ivywood's lost
 tunnel," said Pump, carelessly.  "Why, we all used
 to look for it when we were boys.  Only I happened
 to find it."
 
-"Have mercy on an exile," said Dalroy, humbly.
+"Have [[Mercy|mercy]] on an [[Exile|exile]]," said Dalroy, humbly.
 "I don't know which hurt him most, the things he
 forgets or the things he remembers."
 
 Mr. Pump was silent for a little while and then
-said, more seriously than usual, "Well, the people
-from London say you must put up placards and
+said, more seriously than usual, "[[Well]], the people
+from [[London]] say you must put up placards and
 statues and subscriptions and epitaphs and the Lord
 knows what, to the people who've found some new
 trick and made it come off.  But only a man that
@@ -3079,22 +3079,22 @@ ninety-two patients who hadn't got anything.  But
 Boone had to keep it dark; naturally, because all his
 lady patients grew mustaches.  It was a result of the
 treatment.  But it wasn't a result he wishes to dwell
-on.  Then there was old Dean Arthur, who discovered
+on.  Then there was old Dean [[arthur|Arthur]], who discovered
 balloons if ever a man did.  He discovered them
 long before they were discovered.  But people were
 suspicious about such things just then--there was a
-revival of the witch business in spite of all the parsons
+revival of the [[Witch|witch]] business in spite of all the parsons
 --and he had to sign a paper saying where he'd got the
-notion.  Well, it stands to reason, you wouldn't like to
+notion.  [[Well]], it stands to reason, you wouldn't like to
 sign a paper saying you'd got it from the village idiot
 when you were both blowing soap-bubbles; and that's
 all he could have signed, for he was an honest gentleman,
 the poor old Dean.  Then there was Jack Arlingham
 and the diving bell--but you remember all about
-that.  Well, it was just the same with the man that
+that.  [[Well]], it was just the same with the man that
 made this tunnel--one of the mad Ivywoods.  There's
 many a man, Captain, that has a statue in the great
-London squares for helping to make the railway
+[[London]] squares for helping to make the railway
 trains.  There's many a man has his name in
 Westminster Abbey for doing something in discovering
 steamboats.  Poor old Ivywood discovered both at
@@ -3107,13 +3107,13 @@ didn't like the tunnel even mentioned.  I don't think
 anybody knows where it is but me and Bunchy Robinson.
 We shall be there in a minute or two.  They've
 thrown the rocks about at this end; and let the thick
-plantation grow at the other, but I've got a race horse
+plantation grow at the other, but I've got a race [[Horse|horse]]
 through before now, to save it from Colonel Chepstow's
 little games, and I think I can manage this
-donkey.  Honestly, I think it's the only place we'll
+[[donkey]].  Honestly, I think it's the only place we'll
 be safe in after what we've left behind us at Pebblewick.
 But it's the best place in the world, there's no
-doubt, for lying low and starting afresh.  Here we
+[[Doubt|doubt]], for lying low and starting afresh.  Here we
 are.  You think you can't get behind that rock, but
 you can.  In fact, you have."
 
@@ -3134,12 +3134,12 @@ came glimmering through the trees was so broken
 and tremulous that it was hard to tell whether it was
 daybreak or moonrise.
 
-"I know there's water here," said Pump.  "They
+"I know there's [[Water|water]] here," said Pump.  "They
 couldn't keep it out of the stone-work when they
 made the tunnel, and old Ivywood hit the hydraulic
 engineer with a spirit level.  With the bit of covert
 here and the sea behind us we ought to be able to get
-food of one kind or another, when the cheese has given
+food of one kind or another, when the [[cheese]] has given
 out, and donkeys can eat anything.  By the way," he
 added with some embarrassment, "you don't mind my
 saying it, Captain, but I think we'd better keep that
@@ -3156,7 +3156,7 @@ which I will take a glass now, to celebrate our
 glorious victory over Leveson and his tin tabernacle."
 
 He drained one glass and then sat down on the
-cask, as if to put temptation behind him.  His blue
+cask, as if to put [[Temptation|temptation]] behind him.  His blue
 ruminant bull's eye seemed to plunge deeper and deeper
 into the emerald twilight of the trees in front of him,
 and it was long before he spoke again.
@@ -3166,13 +3166,13 @@ a friend of yours--a gentleman named Bunchy Robinson,
 I think--was also a _habitué_ here."
 
 "Yes, he knew the way," answered Pump, leading
-the donkey to the most suitable patch of pasturage.
+the [[donkey]] to the most suitable patch of pasturage.
 
 "May we, do you think, have the pleasure of a visit
 from Mr. Robinson?" inquired the Captain.
 
 "Not unless they're jolly careless up in Blackstone
-Gaol," replied Pump.  And he moved the cheese well
+Gaol," replied Pump.  And he moved the [[cheese]] [[Well|well]]
 into the arch of the tunnel.  Dalroy still sat with his
 square chin on his hand, staring at the mystery of the
 little wood.
@@ -3181,18 +3181,18 @@ little wood.
 Humphrey.
 
 "The deepest thoughts are all commonplaces," said
-Dalroy.  "That is why I believe in Democracy, which
-is more than you do, you foul blood-stained old British
+Dalroy.  "That is why I believe in [[democracy|Democracy]], which
+is more than you do, you foul [[Blood|blood]]-stained old British
 Tory.  And the deepest commonplace of all is that
-Vanitas Vanitatem, which is not pessimism but is
+[[Vanitas]] Vanitatem, which is not pessimism but is
 really the opposite of pessimism.  It is man's futility
 that makes us feel he must be a god.  And I think
 of this tunnel, and how the poor old lunatic walked
-about on this grass, watching it being built, the soul
-in him on fire with the future.  And he saw the whole
+about on this grass, watching it being built, the [[Soul|soul]]
+in him on [[Fire|fire]] with the future.  And he saw the whole
 world changed and the seas thronged with his new
 shipping; and now," and Dalroy's voice changed and
-broke, "now there is good pasture for the donkey
+broke, "now there is good pasture for the [[donkey]]
 and it is very quiet here."
 
 "Yes," said Pump, in some way that conveyed his
@@ -3200,7 +3200,7 @@ knowledge that the Captain was thinking of other
 things also.  The Captain went on dreamily:
 
 "And I think about another Lord Ivywood recorded
-in history who also had a great vision.  For it is a
+in [[history]] who also had a great vision.  For it is a
 great vision after all, and though the man is a prig,
 he is brave.  He also wants to drive a tunnel--between
 East and West--to make the Indian Empire more
@@ -3214,11 +3214,11 @@ be indeed enough life and growth in your England to
 leave it at last as this is left, buried in English forests
 and wasted by an English sea."
 
-The silence fell between them again, and again there
+The [[Silence|silence]] fell between them again, and again there
 was only the slight sound the animal made in eating.
 As Dalroy had said, it was very quiet there.
 
-But it was not quiet in Pebblewick that night;
+But it was not quiet in Pebblewick that [[Night|night]];
 when the Riot Act was read, and all the people who had
 seen the sign-board outside fought all the people who
 hadn't seen the sign-board outside; or when babies and
@@ -3253,7 +3253,7 @@ to have happened, to the eyes of the amazed Garge
 and his crowd of sympathisers.  "George Burn,
 carpenter of this town, with Samuel Gripes, drayman in
 the service of Messrs. Jay and Gubbins, brewers,
-together with a number of other well-known residents,
+together with a number of other [[Well|well]]-known residents,
 passed by the new building erected on the West Beach
 for various forms of entertainment and popularly
 called the small Universal Hall.  Seeing outside it
@@ -3274,8 +3274,8 @@ spontaneous, and owed not a little to the accidental
 honesty of the editor.  Moreover, evening papers are
 often more honest than morning papers, because they
 are written by ill-paid and hardworked underlings in
-a great hurry, and there is no time for more timid
-people to correct them.  By the time the morning
+a great hurry, and there is no [[Time|time]] for more timid
+people to correct them.  By the [[Time|time]] the morning
 papers came out next day a faint but perceptible change
 had passed over the story of the vanishing sign-board.
 In the daily paper which had the largest circulation and
@@ -3290,7 +3290,7 @@ the conjunctions; upon "but" and "yet" and "though"
 and similar words.  As his salary grew larger (for
 editors and proprietors like that sort of thing) and his
 old friends fewer (for the most generous of friends
-cannot but feel faintly acid at a success which has in
+cannot but feel faintly acid at a [[success]] which has in
 it nothing of the infectious flavour of glory) he grew
 more and more to value himself as a diplomatist; a
 man who always said the right thing.  But he was
@@ -3316,13 +3316,13 @@ elusive train of associations of his own.  In his late
 bad manner, as they say of painters, he was just as
 likely to say, "Whatever we may think of the rights
 and wrongs of the vivisection of pauper children, no
-progressive mind can doubt that the influence of the
+progressive mind can [[Doubt|doubt]] that the influence of the
 Vatican is on the decline."  His nickname had stuck
-to him in honour of a paragraph he was alleged to have
+to him in [[Honour|honour]] of a paragraph he was alleged to have
 written when the American President was wounded
 by a bullet fired by a lunatic in New Orleans, and
 which was said to have run, "The President passed
-a good night and his condition is greatly improved.
+a good [[Night|night]] and his condition is greatly improved.
 The assassin is not, however, a German, as was at first
 supposed."  Men stared at that mysterious conjunction
 till they wanted to go mad and to shoot somebody
@@ -3341,7 +3341,7 @@ roof thrown after you by men more energetic than
 yourself, you will find you emerge with emotions which
 are not solely those of a moderate politician.  Hibbs
 However had already composed a leaderette on the
-Pebblewick incident, which rather pointed to the truth
+Pebblewick incident, which rather pointed to the [[Truth|truth]]
 of the story, so far as his articles ever pointed to
 anything.  His motives for veering vaguely in this
 direction were, as usual, complex.  He knew the millionaire
@@ -3354,7 +3354,7 @@ He knew that Lord Ivywood must be mildly but not
 effectually checked; for Lord Ivywood was of The
 Other Party.  And there could be no milder or less
 effectual way of checking him than by allowing the paper
-to lend at least a temporary credit to a well-supported
+to lend at least a temporary credit to a [[Well|well]]-supported
 story that came from outside, and certainly had not
 been (like so many stories) created in the office.  Amid
 all these considerations had Hibbs However steered
@@ -3374,7 +3374,7 @@ the worst literature of the world.
 It began, indeed, with the comparatively familiar
 formula, "Whether we take the more lax or the more
 advanced view of the old disputed problem of the
-morality or immorality of the wooden sign-board as
+[[morality]] or immorality of the wooden sign-board as
 such, we shall all agree that the scenes enacted at
 Pebblewick were very discreditable, to most, though
 not all, concerned."  After that, tact degenerated into
@@ -3389,28 +3389,28 @@ September.  But the second half of the sentence
 suggested with equal clearness that, since these two acts
 were no longer, as it were, in contemplation, and all
 attempts to prevent them would probably arrive a
-little late, he felt the warmest friendship for the French
-nation.  He merely insisted that his friendship should
+little late, he felt the warmest [[Friendship|friendship]] for the French
+nation.  He merely insisted that his [[Friendship|friendship]] should
 never be mentioned except in the French language.
 It must be called an "entente" in the language taught
 to tourists by waiters.  It must on no account be called
 an "understanding," in a language understanded of
 the people.  From the first half of the sentence
 following it might safely be inferred that Mr. Hibbs had
-read Milton, or at least the passage about sons of
+read [[Milton]], or at least the passage about sons of
 Belial; from the second half that he knew nothing
-about bad wine, let alone good.  The next sentence
+about bad wine, let [[Alone|alone]] good.  The next sentence
 began with the corruption of the Roman Empire and
-contrived to end with Dr. Clifford.  Then there was a
-weak plea for Eugenics; and a warm plea against
-Conscription, which was not True Eugenics.  That
+contrived to end with Dr. [[Clifford]].  Then there was a
+weak plea for [[Eugenics]]; and a warm plea against
+Conscription, which was not True [[Eugenics]].  That
 was all; and it was headed "The Riot at Pebblewick."
 
 Yet some injustice would be done to Hibbs However
 if we concealed the fact that this chaotic leader
 was followed by quite a considerable mass of public
 correspondence.  The people who write to newspapers
-are, it may be supposed, a small, eccentric body, like
+are, it may be supposed, a small, eccentric [[Body|body]], like
 most of those that sway a modern state.  But at least,
 unlike the lawyers, or the financiers, or the members
 of Parliament, or the men of science, they are people
@@ -3421,15 +3421,15 @@ looking up in the dusty old files of his paper.
 
 A dear old lady in the densest part of the Midlands
 wrote to suggest that there might really have been
-an old ship wrecked on the shore, during the
+an old [[Ship|ship]] wrecked on the shore, during the
 proceedings.  "Mr. Leveson may have omitted to notice it,
 or, at that late hour of the evening, it may have been
 mistaken for a sign-board, especially by a person of
 defective sight.  My own sight has been failing for
-some time; but I am still a diligent reader of your
+some [[Time|time]]; but I am still a diligent reader of your
 paper."  If Mr. Hibbs's diplomacy had left one nerve
-in his soul undrugged, he would have laughed, or burst
-into tears, or got drunk, or gone into a monastery over
+in his [[Soul|soul]] undrugged, he would have laughed, or burst
+into [[Tears|tears]], or got drunk, or gone into a monastery over
 a letter like that.  As it was, he measured it with a
 pencil, and decided that it was just too long to get into
 the column.
@@ -3446,7 +3446,7 @@ which I have proved the point quite plainly, and which
 none of the Bishops or the so-called Free Church
 Ministers have attempted to answer.  The connection
 between the rod or pole and the snake so clearly indicated
-in Scripture is no less clear in this case.  It is well
+in Scripture is no less clear in this case.  It is [[Well|well]]
 known that those who follow after strong drink often
 announce themselves as having seen a snake.  Is it not
 clear that those unhappy revellers beheld it in its
@@ -3476,7 +3476,7 @@ by all scientific analogy we may infer that the unusual
 phrase "inn-sign" is an acoustic error for "inside."
 The word "inside" would so naturally occur in any
 discussion either about the building or the individual,
-when the debate was of a hygienic character.  This
+when the [[debate]] was of a hygienic character.  This
 letter was signed "Medical Student," and the less
 intelligent parts of it were selected for publication in the
 paper.
@@ -3515,7 +3515,7 @@ in all the people who think they can solve a problem
 they cannot understand by abolishing everything that
 has contributed to it.  We all know these people.  If a
 barber has cut his customer's throat because the girl
-has changed her partner for a dance or donkey ride on
+has changed her partner for a [[Dance|dance]] or [[donkey]] ride on
 Hampstead Heath, there are always people to protest
 against the mere institutions that led up to it.  This
 would not have happened if barbers were abolished,
@@ -3523,12 +3523,12 @@ or if cutlery were abolished, or if the objection felt by
 girls to imperfectly grown beards were abolished, or if
 the girls were abolished, or if heaths and open spaces
 were abolished, or if dancing were abolished, or if
-donkeys were abolished.  But donkeys, I fear, will
+donkeys were abolished.  But donkeys, I [[Fear|fear]], will
 never be abolished.
 
 There were plenty of such donkeys in the common
 land of this particular controversy.  Some made it an
-argument against democracy, because poor Garge was
+argument against [[democracy]], because poor Garge was
 a carpenter.  Some made it an argument against Alien
 Immigration, because Misysra Ammon was a Turk.
 Some proposed that ladies should no longer be admitted
@@ -3549,7 +3549,7 @@ not inexcusable.  Nobody did know what had
 happened; nobody knows it to this day, of course, or it
 would be unnecessary to write this story.  No one can
 suppose this story is written from any motive save that
-of telling the plain, humdrum truth.
+of telling the plain, humdrum [[Truth|truth]].
 
 That queer confused cunning which was the only
 definable quality possessed by Hibbs However had
@@ -3575,7 +3575,7 @@ satisfied Mr. George.
 It was not until almost a year after that it was
 felt in philosophical circles that the last word had
 been said on the matter.  An estimate of the incident
-and of its bearing on natural and supernatural history
+and of its bearing on natural and [[Supernatural|supernatural]] [[history]]
 occurred in Professor Widge's celebrated "Historicity
 of the Petro-Piscatorial Phenomena"; which so
 profoundly affected modern thought when it came out in
@@ -3585,14 +3585,14 @@ critic must apply to the thaumaturgics of the Lake of
 Tiberias the same principle of criticism which Dr.
 Bunk and others have so successfully applied to the
 thaumaturgics of the Cana narrative: "Authorities
-as final as Pink and Toscher," wrote the Professor,
+as final as Pink and Toscher," wrote [[The Professor|the Professor]],
 "have now shown with an emphasis that no emancipated
 mind is entitled to question, that the Aqua-Vinic
 thaumaturgy at Cana is wholly inconsistent with the
 psychology of the 'master of the feast,' as modern
 research has analysed it; and indeed with the whole
 Judaeo-Aramaic psychology at that stage of its
-development, as well as being painfully incongruous with
+development, as [[Well|well]] as being painfully incongruous with
 the elevated ideals of the ethical teacher in question.
 But as we rise to higher levels of moral achievement,
 it will probably be found necessary to apply the Canaic
@@ -3601,7 +3601,7 @@ This principle has, of course, been mainly expounded
 by Huscher in the sense that the whole episode is
 unhistorical, while the alternative theory, that the wine
 was non-alcoholic and was naturally infused into the
-water, can claim on its side the impressive name of
+[[Water|water]], can claim on its side the impressive name of
 Minns.  It is clear that if we apply the same alternative
 to the so-called Miraculous Draught of Fishes we must
 either hold with Gilp, that the fishes were stuffed
@@ -3651,23 +3651,23 @@ by children's services run on the most ruthless lines
 of orthodoxy and by the League of the Red Rosette,
 the formidable atheist and anarchist organization.  As
 if this were not enough to swell the whirlpool of
-fanaticism, the old popular controversy between the Milnian
+[[Fanaticism|fanaticism]], the old popular controversy between the Milnian
 and the Complete Sublapsarians broke out again on
 the fated beach.  It is natural to conjecture that in
 the thickening atmosphere of theology in Pebblewick,
 some controversialist quoted the text 'An evil and
 adulterous generation _seek for a sign_.  But no sign
-shall be given it save the sign of the prophet Jonas.'
+shall be given it save the sign of the [[Prophet|prophet]] Jonas.'
 
 "A mind like that of Pooke will find it hard to
 credit, but it seems certain that the effect of this text
 on the ignorant peasantry of southern England was
 actually to make them go about looking for a sign,
 in the sense of those old tavern signs now so happily
-disappearing.  The 'sign of the Prophet Jonas,' they
-somehow translated in their stunted minds into a sign-board of the ship out of which Jonah was thrown.
+disappearing.  The 'sign of the [[Prophet]] Jonas,' they
+somehow translated in their stunted minds into a sign-board of the [[Ship|ship]] out of which Jonah was thrown.
 They went about literally looking for 'The Sign of
-the Ship,' and there are some cases of their suffering
+the [[Ship]],' and there are some cases of their [[Suffering|suffering]]
 Smail's Hallucination and actually seeing it.  The
 whole incident is a curious parallel to the Gospel
 narrative and a triumphant vindication of Huscher's law."
@@ -3682,21 +3682,21 @@ and stunning blow that scattered the brains of all men.
 
 CHAPTER X
 
-THE CHARACTER OF QUOODLE
+THE CHARACTER OF [[quoodle|QUOODLE]]
 
 THERE lay about in Lord Ivywood's numerous gardens,
 terraces, outhouses, stable yards and similar
 places, a dog that came to be called by the name of
-Quoodle.  Lord Ivywood did not call him Quoodle.
+[[quoodle|Quoodle]].  Lord Ivywood did not call him [[quoodle|Quoodle]].
 Lord Ivywood was almost physically incapable of
 articulating such sounds.  Lord Ivywood did not care
-for dogs.  He cared for the Cause of dogs, of course;
-and he cared still more for his own intellectual self-respect and consistency.  He would never have permitted
-a dog in his house to be physically ill-treated; nor,
+for [[dogs]].  He cared for the Cause of [[dogs]], of course;
+and he cared still more for his own intellectual [[Self|self]]-respect and consistency.  He would never have permitted
+a dog in his [[house]] to be physically ill-treated; nor,
 for that matter, a rat; nor, for that matter, even a
-man.  But if Quoodle was not physically ill-treated,
-he was at least socially neglected, and Quoodle did
-not like it.  For dogs care for companionship more
+man.  But if [[quoodle|Quoodle]] was not physically ill-treated,
+he was at least socially neglected, and [[quoodle|Quoodle]] did
+not like it.  For [[dogs]] care for companionship more
 than for kindness itself.
 
 Lord Ivywood would probably have sold the dog,
@@ -3713,8 +3713,8 @@ hazy impression that the dog might have been valuable
 as a watch-dog if it had not been able to follow game
 like a pointer; and that even in the latter walk of life it
 would always be discredited by an unfortunate talent
-for swimming as well as a retriever.  But Lord
-Ivywood's impressions may very well have been slightly
+for swimming as [[Well|well]] as a retriever.  But Lord
+Ivywood's impressions may very [[Well|well]] have been slightly
 confused, as he was probably thinking about the
 Black stone of Mecca, or some such subject at the
 moment.  The victim of this entanglement of virtues,
@@ -3722,13 +3722,13 @@ therefore, still lay about in the sunlight of Ivywood,
 exhibiting no general result of that entanglement
 except the most appalling ugliness.
 
-Now Lady Joan Brett did appreciate dogs.  It was
-the whole of her type and a great deal of her tragedy
+Now Lady Joan Brett did appreciate [[dogs]].  It was
+the whole of her type and a great deal of her [[Tragedy|tragedy]]
 that all that was natural in her was still alive under all
 that was artificial; and she could smell hawthorn or the
 sea as far off as a dog can smell his dinner.  Like most
 aristocrats she would carry cynicism almost to the
-suburbs of the city of Satan; she was quite as
+suburbs of the [[City|city]] of [[Satan]]; she was quite as
 irreligious as Lord Ivywood, or rather more.  She could
 be quite equally frigid or supercilious when she felt
 inclined.  And in the great social talent of being tired,
@@ -3737,20 +3737,20 @@ difference remained in spite of her sophistries and
 ambitions; that her elemental communications were
 not cut, and his were.  For her the sunrise was still
 the rising of a sun, and not the turning on of a light
-by a convenient cosmic servant.  For her the Spring
+by a convenient cosmic servant.  For her the [[spring|Spring]]
 was really the Season in the country, and not merely
 the Season in town.  For her cocks and hens were
-natural appendages to an English house; and not (as
+natural appendages to an English [[house]]; and not (as
 Lord Ivywood had proved to her from an encyclopaedia)
-animals of Indian origin, recently imported by
+[[Animals|animals]] of Indian origin, recently imported by
 Alexander the Great.  And so for her a dog was a dog,
-and not one of the higher animals, nor one of the lower
-animals, nor something that had the sacredness of life,
+and not one of the higher [[Animals|animals]], nor one of the lower
+[[Animals|animals]], nor something that had the sacredness of life,
 nor something that ought to be muzzled, nor something
 that ought not to be vivisected.  She knew that in every
 practical sense proper provision would be made for the
 dog; as, indeed, provision was made for the yellow
-dogs in Constantinople by Abdul Hamid, whose life
+[[dogs]] in Constantinople by Abdul Hamid, whose life
 Lord Ivywood was writing for the _Progressive Potentates_
 series.  Nor was she in the least sentimental about
 the dog or anxious to turn him into a pet.  It simply
@@ -3758,15 +3758,15 @@ came natural to her in passing to rub all his hair the
 wrong way and call him something which she
 instantly forgot.
 
-The man who was mowing the garden lawn looked
+The man who was mowing the [[Garden|garden]] lawn looked
 up for a moment, for he had never seen the dog
-behave in exactly that way before.  Quoodle arose,
+behave in exactly that way before.  [[quoodle|Quoodle]] arose,
 shook himself, and trotted on in front of the lady,
 leading her up an iron side staircase, of which, as it
 happened, she had never made use before.  It was
 then, most probably, that she first took any special
 notice of him; and her pleasure, like that which she
-took in the sublime prophet from Turkey, was of a
+took in the [[Sublime|sublime]] [[Prophet|prophet]] from Turkey, was of a
 humorous character.  For the complex quadruped
 had retained the bow legs of the bull-dog; and, seen
 from behind, reminded her ridiculously of a
@@ -3775,16 +3775,16 @@ swaggering little Major waddling down to his Club.
 The dog and the iron stairway between them led
 her into a series of long rooms, one opening into the
 other.  They formed part of what she had known
-in earlier days as the disused Wing of Ivywood House,
+in earlier days as the disused Wing of Ivywood [[house|House]],
 which had been neglected or shut up, probably because
 it bore some defacements from the fancies of the mad
-ancestor, the memory of whom the present Lord Ivywood
+ancestor, the [[Memory|memory]] of whom the present Lord Ivywood
 did not think helpful to his own political career.
 But it seemed to Joan that there were indications of
 a recent attempt to rehabilitate the place.  There was
 a pail of whitewash in one of the empty rooms, a step-ladder in another, here and there a curtain rod, and
 at last, in the fourth room a curtain.  It hung all
-alone on the old woodwork, but it was a very gorgeous
+[[Alone|alone]] on the old woodwork, but it was a very gorgeous
 curtain, being a kind of orange-gold relieved with
 wavy bars of crimson, which somehow seemed to suggest
 the very spirit and presence of serpents, though
@@ -3792,7 +3792,7 @@ they had neither eyes nor mouths among them.
 
 In the next of the endless series of rooms she came
 upon a kind of ottoman, striped with green and silver
-standing alone on the bare floor.  She sat down on it
+standing [[Alone|alone]] on the bare floor.  She sat down on it
 from a mixed motive of fatigue and of impudence, for
 she dimly remembered a story which she had always
 thought one of the funniest in the world, about a lady
@@ -3802,14 +3802,14 @@ discover afterward that it was a Mahatma, covered with
 his eastern garment and prostrate and rigid in ecstasy.
 She had no hopes of sitting on a Mahatma herself,
 but the very thought of it made her laugh, because it
-would make Lord Ivywood look such a fool.  She was
+would make Lord Ivywood look such a [[Fool|fool]].  She was
 not sure whether she liked or disliked Lord Ivywood,
 but she felt quite certain that it would gratify her to
-make him look a fool.  The moment she had sat down
+make him look a [[Fool|fool]].  The moment she had sat down
 on the ottoman, the dog, who had been trotting beside
 her, sat down also, and on the edge of her skirt.
 
-After a minute or two she rose (and the dog rose),
+After a minute or two she [[Rose|rose]] (and the dog [[Rose|rose]]),
 and she looked yet farther down that long perspective
 of large rooms, in which men like Philip Ivywood
 forget that they are only men.  The next was more
@@ -3818,7 +3818,7 @@ scheme of decoration that was in progress had been
 started at the other end.  She could now see that the
 long lane ended in rooms that from afar off looked
 like the end of a kaleidoscope, rooms like nests made
-only from humming birds or palaces built of fixed
+only from humming [[Birds|birds]] or palaces built of fixed
 fireworks.  Out of this furnace of fragmentary
 colours she saw Ivywood advancing toward her, with
 his black suit and his white face accented by the
@@ -3828,7 +3828,7 @@ her, and she had to strangle a subconscious and utterly
 senseless cry, "He is blind!"
 
 The next moment he was welcoming her intrusion
-with the well-bred surprise and rather worldly
+with the [[Well|well]]-bred surprise and rather worldly
 simplicity suitable to such a case, and Joan fancied she
 understood why his face had seemed a little bleaker
 and blinder than usual.  It was by contrast.  He was
@@ -3839,7 +3839,7 @@ of whose head, neck and eye was the very opposite
 of his own.  Joan thought she had never seen a living
 creature with a head so lively and insulting.  Its
 provocative eye and pointed crest seemed to be offering to
-fight fifty game-cocks.  It was no wonder (she told
+fight fifty game-cocks.  It was no [[Wonder|wonder]] (she told
 herself) that by the side of this gaudy gutter-snipe
 with feathers Ivywood's faint-coloured hair and frigid
 face looked like the hair and face of a corpse walking.
@@ -3851,7 +3851,7 @@ was.  This is the Bulbul."
 
 "I never knew," replied Joan.  "I am afraid I never
 cared.  I always thought it was something like a 
-nightingale."
+[[Nightingale|nightingale]]."
 
 "Ah, yes," answered Ivywood, "but this is the real
 Bulbul peculiar to the East, _Pycnonotus Haemorrhous_.
@@ -3865,13 +3865,13 @@ austerity of her companion's face, she caressed the
 gaudy and pugnacious bird with one finger and said,
 "It's a dear little thing."
 
-The quadruped intimately called Quoodle did not
-approve of all this at all.  Like most dogs, he liked
+The quadruped intimately called [[quoodle|Quoodle]] did not
+approve of all this at all.  Like most [[dogs]], he liked
 to be with human beings when they were silent, and he
 extended a magnificent toleration to them as long as
 they were talking to each other.  But conversational
 attention paid to any other animal at all remote from
-a mongrel bull-terrier wounded Mr. Quoodle in his
+a mongrel bull-terrier wounded Mr. [[quoodle|Quoodle]] in his
 most sensitive and gentlemanly feelings.  He emitted
 a faint growl.  Joan, with all the instincts that were in
 her, bent down and pulled his hair about once more,
@@ -3884,7 +3884,7 @@ but exquisite panelling in white and coloured woods,
 inlaid in the oriental manner.  At one corner the whole
 corridor ended by curving into a round turret chamber
 overlooking the landscape; and which Joan, who
-had known the house in childhood, was sure was an
+had known the [[house]] in [[Childhood|childhood]], was sure was an
 innovation.  On the other hand a black gap, still left
 in the lower left-hand corner of the oriental
 woodwork, suddenly reminded her of something she had
@@ -3892,14 +3892,14 @@ forgotten.
 
 "Surely," she said (after much mere aesthetic
 ecstasy), "there used to be a staircase there, leading to
-the old kitchen garden, or the old chapel or something."
+the old kitchen [[Garden|garden]], or the old chapel or something."
 
 Ivywood nodded gravely.  "Yes," he said, "it did
 lead to the ruins of a Mediaeval Chapel, as you say.
-The truth is it led to several things that I cannot
+The [[Truth|truth]] is it led to several things that I cannot
 altogether consider a credit to the family in these days.
 All that scandal and joking about the unsuccessful
-tunnel (your mother may have told you of it), well,
+tunnel (your mother may have told you of it), [[Well|well]],
 it did us no good in the County, I'm afraid; so as it's
 a mere scrap of land bordering on the sea, I've fenced
 it off and let it grow wild.  But I'm boarding up the
@@ -3911,9 +3911,9 @@ new architecture ended, and Joan, with her thirst
 for the beautiful, could not stifle a certain thrill of
 beatitude at the prospect.  Five open windows of a
 light and exquisite Saracenic outline looked out over
-the bronze and copper and purple of the Autumn parks
+the bronze and copper and purple of the [[Autumn]] parks
 and forests to the peacock colours of the sea.  There
-was neither house nor living thing in sight, and, familiar
+was neither [[house]] nor living thing in sight, and, familiar
 as she had been with that coast, she knew she was
 looking out from a new angle of vision on a new
 landscape of Ivywood.
@@ -3923,19 +3923,19 @@ more like emotion in his voice than she had
 ever heard in it.  "What comes first into your mind
 with these open windows?"
 
-"I know what you mean," said Joan after a silence.
+"I know what you mean," said Joan after a [[Silence|silence]].
 "The same hath oft . . ."
 
 "Yes," he said.  "That is how I felt . . . of
 perilous seas in fairy lands forlorn."
 
-There was another silence and the dog sniffed round
+There was another [[Silence|silence]] and the dog sniffed round
 and round the circular turret chamber.
 
 "I want it to be like that," said Ivywood in a low
 and singularly moved intonation.  "I want this to be
-the end of the house.  I want this to be the end of the
-world.  Don't you feel that is the real beauty of all
+the end of the [[house]].  I want this to be the end of the
+world.  Don't you feel that is the real [[Beauty|beauty]] of all
 this eastern art; that it is coloured like the edges of
 things, like the little clouds of morning and the
 islands of the blest?  Do you know," and he lowered
@@ -3948,9 +3948,9 @@ I am standing thousands of leagues from where I
 stand."
 
 "You are right," said Joan, looking at him with
-some wonder, "I have felt like that myself."
+some [[Wonder|wonder]], "I have felt like that myself."
 
-"This art," went on Ivywood as in a dream, "does
+"This art," went on Ivywood as in [[A Dream|a dream]], "does
 indeed take the wings of the morning and abide in the
 uttermost parts of the sea.  They say it contains no
 form of life, but surely we can read its alphabet as
@@ -3961,7 +3961,7 @@ which are on the fringes of the robe of God."
 lady, and again stroked the vivid violet feathers of the
 small eastern bird.
 
-Mr. Quoodle could stand it no longer.  He had
+Mr. [[quoodle|Quoodle]] could stand it no longer.  He had
 evidently formed a very low opinion of the turret
 chamber and of oriental art generally, but seeing Joan's
 attention once more transferred to his rival, he trotted
@@ -3975,19 +3975,19 @@ own finger, and went to one of the open windows,
 leaning out a little.
 
 "Look here," he said, "doesn't this express what we
-both feel?  Isn't this the sort of fairy-tale house that
+both feel?  Isn't this the sort of fairy-tale [[house]] that
 ought to hang on the last wall of the world?"
 
-And he motioned her to the window-sill, just outside
+And he motioned her to the [[Window|window]]-sill, just outside
 which hung the bird's empty cage, beautifully wrought
 in brass or some of the yellow metals.
 
 "Why that is the best of all!" cried Lady Joan.  "It
 makes one feel as if it really were the Arabian Nights.
 As if this were a tower of the gigantic Genii with
-turrets up to the moon; and this were an enchanted
+turrets up to the [[Moon|moon]]; and this were an enchanted
 Prince caged in a golden palace suspended by the
-evening star."
+[[Evening Star|evening star]]."
 
 Something stirred in her dim but teeming subconsciousness,
 something like a chill or change like that by
@@ -4003,32 +4003,32 @@ Ivywood turned with a mild, grey eye.
 "Yes," said Lady Joan Brett, and gave him back the
 bird, which he restored carefully to its cage.
 
-The dog after whom she inquired had in truth trundled
+The dog after whom she inquired had in [[Truth|truth]] trundled
 down a dark, winding staircase and turned into the
-daylight, into a part of the garden he had never seen
-before; nor, indeed, had anybody else for some time
+daylight, into a part of the [[Garden|garden]] he had never seen
+before; nor, indeed, had anybody else for some [[Time|time]]
 past.  It was altogether tangled and overgrown with
 weeds, and the only trace of human handiwork, the
 wreck of an old Gothic Chapel, stood waist high in
 numberless nettles and soiled with crawling fungoids.
 Most of these merely discoloured the grey crumbling
 stone with shades of bronze or brown; but some of
-them, particularly on the side farthest from the house,
+them, particularly on the side farthest from the [[house]],
 were of orange or purple tints almost bright enough for
 Lord Ivywood's oriental decoration.  Some fanciful
 eyes that fell on the place afterward found something
-like an allegory in those graven and broken saints or
-archangels feeding such fiery and ephemeral parasites
-as those toadstools like blood or gold.  But Mr. Quoodle
+like an [[Allegory|allegory]] in those graven and broken saints or
+archangels feeding such fiery and [[ephemeral]] parasites
+as those toadstools like [[Blood|blood]] or gold.  But Mr. [[quoodle|Quoodle]]
 had never set himself up as an allegorist, and he
 merely trotted deeper and deeper into the grey-green
 English jungle.  He grumbled very much at the thistles
-and nettles, much as a city man will grumble at the
+and nettles, much as a [[City|city]] man will grumble at the
 jostling of a crowd.  But he continued to press forward,
 with his nose near the ground, as if he had already
 smelt something that interested him.  And, indeed, he
 had smelt something in which a dog, except on special
-occasions, is much more interested than he is in dogs.
+occasions, is much more interested than he is in [[dogs]].
 Breaking through a last barrier of high and hoary
 purple thistles he came out on a semicircle of somewhat
 clearer ground, dotted with slender trees, and
@@ -4066,7 +4066,7 @@ moment a huge voice like on ogre's came from within
 the masked tunnel, calling out, "And who are ye
 talking to?"
 
-A very crooked kind of window in the upper part of
+A very crooked kind of [[Window|window]] in the upper part of
 the pantomime cottage burst open and an enormous
 head, with erect, startling, and almost scarlet hair and
 blue eyes as big as a bullfrog's, was thrust out above
@@ -4074,19 +4074,19 @@ the scene.
 
 "Hump," cried the ogre.  "Me moral counsels have
 been thrown away.  In the last week I've sung you
-fourteen and a half songs of me own composition;
-instead of which you go about stealing dogs.  You're
+fourteen and a half [[songs]] of me own composition;
+instead of which you go about stealing [[dogs]].  You're
 following in the path of Parson Whats-his-name in
 every way, I'm afraid."
 
 "No," said the man with the frying pan, impartially,
 "Parson Whitelady struck a very good path for
 doubling on Pebblewick, that I was glad to follow.
-But I think he was quite silly to steal dogs.  He was
+But I think he was quite silly to steal [[dogs]].  He was
 young and brought up pious.  I know too much about
-dogs to steal one."
+[[dogs]] to steal one."
 
-"Well," asked the large red-haired man, "and how
+"[[Well]]," asked the large red-haired man, "and how
 do you get a dog like that?"
 
 "I let him steal me," said the person stirring the pan.
@@ -4100,8 +4100,8 @@ CHAPTER XI
 
 VEGETARIANISM IN THE DRAWING-ROOM
 
-THE Company that assembled to listen to the Prophet
-of the Moon, on the next occasion of his delivering any
+THE Company that assembled to listen to the [[Prophet]]
+of the [[Moon]], on the next occasion of his delivering any
 formal address, was much more select than the
 comparatively mixed and middle-class society of the
 Simple Souls.  Miss Browning and her sister, Mrs.
@@ -4122,15 +4122,15 @@ foreign diplomatist, who was, indeed, none other than
 that silent German representative who had sat beside
 him in that last conference on the Island of the Olives.
 Dr. Gluck was no longer in his quiet, black suit, but
-wore an ornate, diplomatic uniform with a sword and
+wore an ornate, diplomatic uniform with a [[Sword|sword]] and
 Prussian, Austrian or Turkish Orders; for he was
-going on from Ivywood to a function at Court.  But
+going on from Ivywood to a function at [[Court]].  But
 his curl of red lips, his screw of black mustache, and
 his unanswering almond eyes had no more changed
 than the face of a wax figure in a barber's shop
-window.
+[[Window|window]].
 
-The Prophet had also effected an improvement in
+The [[Prophet]] had also effected an improvement in
 his dress.  When he had orated on the sands his
 costume, except for the fez, was the shabby but respectable
 costume of any rather unsuccessful English clerk.
@@ -4141,8 +4141,8 @@ oriental tulip or lotus.  So--he wore long, flowing
 robes of white, relieved here and there by flame-coloured threads of tracery, and round his head was
 a turban of a kind of pale golden green.  He had to
 look as if he had come flying across Europe on the
-magic carpet, or fallen a moment before from his
-paradise in the moon.
+[[Magic|magic]] carpet, or fallen a moment before from his
+paradise in the [[Moon|moon]].
 
 The ladies of Lord Ivywood's world were much as
 we have already found them.  Lady Enid Wimpole
@@ -4151,23 +4151,23 @@ tremendous costume, that was more like a procession
 than a dress.  It looked rather like the funeral
 procession of Aubrey Beardsley.  Lady Joan Brett still
 looked like a very beautiful Spaniard with no illusions
-left about her castle in Spain.  The large and resolute
+left about her [[Castle|castle]] in Spain.  The large and resolute
 lady who had refused to ask any questions at Misysra's
 earlier lecture, and who was known as Lady Crump,
 the distinguished Feminist, still had the air of being
 so full and bursting with questions fatal to Man as to
 have passed the speaking and reached the speechless
 stage of hostility.  Throughout the proceedings she
-contributed nothing but bursting silence and a malevolent
+contributed nothing but bursting [[Silence|silence]] and a malevolent
 eye.  And old Lady Ivywood, under the oldest and
 finest lace and the oldest and finest manners, had a look
-like death on her, which can often be seen in the
+like [[Death|death]] on her, which can often be seen in the
 parents of pure intellectuals.  She had that face of
 a lost mother that is more pathetic than the face of a
-lost child.
+lost [[Child|child]].
 
 "And what are you going to delight us with today?"
-Lady Enid was asking of the Prophet.
+Lady Enid was asking of the [[Prophet]].
 
 "My lecture," answered Misysra, gravely, "is on the
 Pig."
@@ -4176,12 +4176,12 @@ It was part of a simplicity really respectable in him
 that he never saw any incongruity in the arbitrary and
 isolated texts or symbols out of which he spun his
 thousand insane theories.  Lady Enid endured the
-impact of this singular subject for debate without losing
+impact of this singular subject for [[debate]] without losing
 that expression of wistful sweetness which she wore
 on principle when talking to such people.
 
 "The Pig, he is a large subject," continued the
-Prophet, making curves in the air, as if embracing
+[[Prophet]], making curves in the air, as if embracing
 some particularly prize specimen.  "He includes many
 subjects.  It is to me very strange that the Christians
 should so laugh and be surprised because we hold
@@ -4190,7 +4190,7 @@ the Peoples of the Book.  But, surely, you Christians
 yourselves consider the pig as a manner of pollution;
 since it is your most usual expression of your
 despising, of your very great dislike.  You say 'swine,'
-my dear lady; you do not say animals far more
+my dear lady; you do not say [[Animals|animals]] far more
 unpopular, such as the alligator."
 
 "I see," said the lady, "how wonderful!"
@@ -4198,13 +4198,13 @@ unpopular, such as the alligator."
 "If you are annoyed," went on the encouraged and
 excited gentleman, "if you are annoyed with anyone,
 with a--what you say?--a lady's maid, you do not
-say to her 'Horse.'  You do not say to her 'Camel.'"
+say to her '[[Horse]].'  You do not say to her 'Camel.'"
 
 "Ah, no," said Lady Enid, earnestly.
 
 "'Pig of a lady's maid,' you say in your colloquial
-English," continued the Prophet, triumphantly.  "And
-yet this great and awful Pig, this monster whose very
+English," continued the [[Prophet]], triumphantly.  "And
+yet this great and awful Pig, this [[Monster|monster]] whose very
 name, when whispered, you think will wither all your
 enemies, you allow, my dear lady, to approach yet
 closer to you.  You incorporate this great Pig in the
@@ -4220,12 +4220,12 @@ and flanked on all four sides with tables laden with
 all kinds of refreshments.  It was typical of the
 strange, half-fictitious enthusiasm and curiosity of that
 world, that one long table was set out entirely with
-vegetarian foods, especially of an eastern sort (like
-a table spread in the desert for a rather fastidious
+[[vegetarian]] foods, especially of an eastern sort (like
+a table spread in the [[Desert|desert]] for a rather fastidious
 Indian hermit); but that tables covered with game
 patties, lobster and champagne were equally provided,
 and very much more frequented.  Even Mr. Hibbs,
-who would honestly have thought entering a public-house more disgraceful than entering a brothel, could
+who would honestly have thought entering a public-[[house]] more disgraceful than entering a brothel, could
 not connect any conception of disgrace with Lord
 Ivywood's champagne.
 
@@ -4233,34 +4233,34 @@ For the purpose of the lecture was not wholly
 devoted to the great and awful Pig, and the purpose of
 the meeting even less.  Lord Ivywood, the white
 furnace of whose mind was always full of new fancies
-hardening into ambitions, wanted to have a debate on
+hardening into ambitions, wanted to have a [[debate]] on
 the diet of East and West, and felt that Misysra might
 very appropriately open with an account of the
 Moslem veto on pork or other coarse forms of flesh food.
 He reserved it to himself to speak second.
 
-The Prophet began, indeed, with some of his dizziest
+The [[Prophet]] began, indeed, with some of his dizziest
 flights.  He informed the Company that they,
 the English, had always gone in hidden terror and
 loathing of the Pig, as a sacred symbol of evil.  He
 proved it by the common English custom of drawing
 a pig with one's eyes shut.  Lady Joan smiled, and yet
-she asked herself (in a doubt that had been darkening
+she asked herself (in a [[Doubt|doubt]] that had been darkening
 round her about many modern things lately) whether
 it was really much more fanciful than many things
-the scientists told her: as, the traces of Marriage by
+the scientists told her: as, the traces of [[Marriage]] by
 Capture which they found in that ornamental and even
 frivolous being, the Best Man.
 
-He said that the dawn of greater enlightenment is
+He said that the [[Dawn|dawn]] of greater enlightenment is
 shown in the use of the word "gammon," which still
 expresses disgust at "the porcine image," but no longer
-fear of it, but rather a rational disdain and disbelief.
-"Rowley," said the Prophet, solemnly, and then after
+[[Fear|fear]] of it, but rather a rational disdain and disbelief.
+"Rowley," said the [[Prophet]], solemnly, and then after
 a long pause, "Powley, _Gammon_ and Spinach."
 
 Lady Joan smiled again, but again asked herself if it
-was much more farfetched than a history book she had
+was much more farfetched than a [[history]] book she had
 read, which proved the unpopularity of Catholicism in
 Tudor times from the word "hocus pocus."
 
@@ -4287,27 +4287,27 @@ to disturbing news of her mother's health, which,
 though not menacing, made her feel hypothetically how
 isolated she was in the world.  On all previous
 occasions she had merely enjoyed the mad lecturer now at
-the reading-desk.  Today she felt a strange desire to
+the reading-desk.  Today she felt a strange [[Desire|desire]] to
 analyse him, and imagine how a man could be so
 connected and so convinced and yet so wildly wide of the
 mark.  As she listened carefully, looking at the hands
 in her lap, she began to think she understood.
 
 The lecturer did really try to prove that the "porcine
-image" had never been used in English history
+image" had never been used in English [[history]]
 or literature, except in contempt.  And the lecturer
 really did know a very great deal about English
-history and literature: much more than she did; much
+[[history]] and literature: much more than she did; much
 more than the aristocrats round her did.  But she
 noted that in every case what he knew was a fragmentary
 fact.  In every case what he did not know was
-the truth behind the fact.  What he did not know was
+the [[Truth|truth]] behind the fact.  What he did not know was
 the atmosphere.  What he did not know was the
 tradition.  She found herself ticking off the cases like
 counts in an indictment.
 
 Misysra Ammon knew, what next to none of the
-English present knew, that Richard III was called a
+English present knew, that [[Richard III]] was called a
 "boar" by an eighteenth century poet and a "hog" by
 a fifteenth century poet.  What he did not know was
 the habit of sport and of heraldry.  He did not know
@@ -4316,7 +4316,7 @@ thought of it before in her life) that beasts courageous
 and hard to kill are noble beasts, by the law of chivalry.
 Therefore, the boar was a noble beast, and a common
 crest for great captains.  Misysra tried to show that
-Richard had only been called a pig after he was cold
+[[Richard]] had only been called a pig after he was cold
 pork at Bosworth.
 
 Misysra Ammon knew, what next to none of the
@@ -4335,9 +4335,9 @@ his unpopularity or after his fall.
 Misysra Ammon knew, what next to none of the
 English present knew, that the poet Shelley had a
 friend called Hogg, who treated him on one occasion
-with grave treachery.  He instantly tried to prove that
+with [[Grave|grave]] treachery.  He instantly tried to prove that
 the man was only called "Hogg" because he had treated
-Shelley with grave treachery.  And he actually adduced
+Shelley with [[Grave|grave]] treachery.  And he actually adduced
 the fact that another poet, practically contemporary,
 was called "Hogg" as completing the connection
 with Shelley.  What he did not know was just what
@@ -4354,18 +4354,18 @@ could form no fancy of what it did mean.
 
 "Can Philip Ivywood believe this kind of thing?"
 she asked herself; and even as she did so, Philip
-Ivywood rose.
+Ivywood [[Rose|rose]].
 
 He had, as Pitt and Gladstone had, an impromptu
 classicism of diction, his words wheeling and deploying
-into their proper places like a well-disciplined army
+into their proper places like a [[Well|well]]-disciplined army
 in its swiftest advance.  And it was not long before
 Joan perceived that the last phase of the picture,
 obscure and monstrous as it seemed, gave Ivywood exactly
-the opening he wanted.  Indeed, she felt, no doubt,
+the opening he wanted.  Indeed, she felt, no [[Doubt|doubt]],
 that he had arranged for it beforehand.
 
-"It is within my memory," said Lord Ivywood,
+"It is within my [[Memory|memory]]," said Lord Ivywood,
 "though it need in no case have encumbered yours,
 that when it was my duty to precede the admired
 lecturer whom I now feel it a privilege even to follow, I
@@ -4375,23 +4375,23 @@ view that the religion of Mahomet was, in a peculiar
 sense, a religion of progress.  This is so contrary, not
 only to historical convention but to common platitude,
 that I shall find no ground either of surprise or censure
-if it takes a perceptible time before it sinks into the
+if it takes a perceptible [[Time|time]] before it sinks into the
 mind of the English public.  But I think, ladies and
 gentlemen, that this period is notably abbreviated by
 the remarkable exposition which we have heard today.
-For this question of the attitude of Islam toward
+For this question of the attitude of [[Islam]] toward
 food affords as excellent an example of its special
-mode of progressive purification as the more popular
+mode of progressive [[Purification|purification]] as the more popular
 example of its attitude toward drink.  For it illustrates
 that principle which I have ventured to call the
 principle of the Crescent: the principle of perpetual
 growth toward an implied and infinite perfection.
 
-"The great religion of Islam does not of itself
+"The great religion of [[Islam]] does not of itself
 forbid the eating of flesh foods.  But, in accordance with
 that principle of growth which is its life, it has pointed
 the way to a perfection not yet perhaps fully attainable
-by our nature; it has taken a plain and strong example
+by our [[Nature|nature]]; it has taken a plain and strong example
 of the dangers of meat-eating; and hung up the
 repellent carcass as a warning and a sign.  In the
 gradual emergence of mankind from a gross and
@@ -4400,7 +4400,7 @@ He has laid, as it were, a symbolic embargo upon the
 beast typical, the beast of beasts.  With the instinct
 of the true mystic, he selected for exemption from
 such cannibal feasts the creature which appeals to
-both sides of the higher vegetarian ethic.  The pig
+both sides of the higher [[vegetarian]] ethic.  The pig
 is at once the creature whose helplessness most moves
 our pity and whose ugliness most repels our taste.
 
@@ -4409,13 +4409,13 @@ arises out of the different stages of moral evolution
 in which the different races find themselves.  Thus it
 is constantly said, and such things are not said
 without some excuse in document or incident, that
-followers of the Prophet have specialised in the arts of
+followers of the [[Prophet]] have specialised in the arts of
 war and have come into a contact, not invariably
 friendly, with those Hindoos of India who have
 specialised in the arts of Peace.  In the same way the
 Hindoos, it must be confessed, have been almost as
-much in advance of Islam in the question of meat as
-Islam is in advance of Christianity in the matter of
+much in advance of [[Islam]] in the question of meat as
+[[Islam]] is in advance of [[Christianity]] in the matter of
 drink.  It must be remembered again and again, ladies
 and gentlemen, that every allegation we have of any
 difference between Hindoo and Moslem comes
@@ -4423,14 +4423,14 @@ through a Christian channel, and is therefore tainted
 evidence.  But in this matter, even, can we not see the
 perils of disregarding such plain danger signals as the
 veto on pork?  Did not an Empire nearly slip out of
-our hands because our hands were greased with cow-fat?  And did not the well of Cawnpore brim with
-blood instead of water because we would not listen to
+our hands because our hands were greased with cow-fat?  And did not the [[Well|well]] of Cawnpore brim with
+[[Blood|blood]] instead of [[Water|water]] because we would not listen to
 the instinct of the Oriental about the shedding of
-sacred blood?
+sacred [[Blood|blood]]?
 
 "But if it be proposed, with whatever graduation,
 to approach that repudiation of flesh food which
-Buddhism mainly and Islam partly recommends, it will
+Buddhism mainly and [[Islam]] partly recommends, it will
 always be asked by those who hate the very vision of
 Progress--'Where do you draw the line?  May I eat
 oysters?  May I eat eggs?  May I drink milk?'  You
@@ -4444,25 +4444,25 @@ For how else has all progress in public or private
 manners been achieved?  Would not the primitive
 cannibals be surprised at the strange distinction we draw
 between men and beasts?  All historians pay high
-honour to the Huguenots, and the great Huguenot Prince,
-Henri Quatre.  None need deny that his aspiration
+[[Honour|honour]] to the Huguenots, and the great Huguenot Prince,
+Henri Quatre.  None need deny that his [[Aspiration|aspiration]]
 that every Frenchman should have a chicken in his
-pot was, for his period, a high aspiration.  It is no
+pot was, for his period, a high [[Aspiration|aspiration]].  It is no
 disrespect to him that we, mounting to higher levels,
 and looking down longer perspectives, consider the
 chicken.  And this august march of discovery passes
 figures higher than that of Henry of Navarre.  I shall
-always give a high place, as Islam has always given a
+always give a high place, as [[Islam]] has always given a
 high place, to that figure, mythical or no, which we
-find presiding over the foundations of Christianity.
-I cannot doubt that the fable, incredible and revolting
+find presiding over the foundations of [[Christianity]].
+I cannot [[Doubt|doubt]] that the [[Fable|fable]], incredible and revolting
 otherwise, which records the rush of swine into the
-sea, was an allegory of his early realisation that a
-spirit, evil indeed, does reside in all animals in so far
-as they tempt us to devour them.  I cannot doubt that
+sea, was an [[Allegory|allegory]] of his early realisation that a
+spirit, evil indeed, does reside in all [[Animals|animals]] in so far
+as they tempt us to devour them.  I cannot [[Doubt|doubt]] that
 the Prodigal leaving his sins among the swine is
-another illustration of the great thesis of the Prophet
-of the Moon.  But here, also, progress and relativity
+another illustration of the great thesis of the [[Prophet]]
+of the [[Moon]].  But here, also, progress and relativity
 are relentless in their advance; and not a few of us
 may have risen today to the point of regretting that
 the joyful sounds around the return of the Prodigal
@@ -4471,9 +4471,9 @@ should be marred by the moaning of a calf.
 "For the rest, he who asks us whither we go knows
 not the meaning of Progress.  If we come at last to
 live on light, as men said of the chameleon, if some
-cosmic magic closed to us now, as radium was but
+cosmic [[Magic|magic]] closed to us now, as radium was but
 recently closed, allows us to transmute the very metals
-into flesh without breaking into the bloody house of
+into flesh without breaking into the bloody [[house]] of
 life, we shall know these things when we have achieved
 them.  It is enough for us now if we have reached a
 spiritual station, in which at least the living head we
@@ -4483,7 +4483,7 @@ mandrake."
 
 Lord Ivywood resumed his seat, his colourless lips
 still moving.  By some previous arrangement, probably,
-Mr. Leveson rose to move a motion about Vegetarianism.
+Mr. Leveson [[Rose|rose]] to move a motion about Vegetarianism.
 Mr. Leveson was of opinion that the Jewish
 and Moslem veto on pork had been the origin of
 Vegetarianism.  He thought it was a great step, and
@@ -4493,7 +4493,7 @@ had probably been much exaggerated; he thought our
 experience in the Indian Mutiny showed we considered
 the feeling of Easterners too little in such matters.
 He thought Vegetarianism in some ways an advance
-on orthodox Christianity.  He thought we must be
+on orthodox [[Christianity]].  He thought we must be
 ready for yet further advances; and he sat down.
 And as he had said precisely, clause by clause, everything
 that Lord Ivywood had said, it is needless to say
@@ -4501,15 +4501,15 @@ that that nobleman afterward congratulated him on
 the boldness and originality of his brilliant speech.
 
 At a similar sort of preconcerted signal, Hibbs
-However rose rather vaguely to his feet to second the
+However [[Rose|rose]] rather vaguely to his feet to second the
 motion.  He rather prided himself on being a man of
 few words, in the vocal sense; he was no orator, as
-Brutus was.  It was only with pen in hand, in an
+[[Brutus]] was.  It was only with pen in hand, in an
 office lined with works of reference, that he could feel
 that sense of confused responsibility that was the one
 pleasure of his life.  But on this occasion he was
 brighter than usual; partly because he liked being in
-a lord's house; partly because he had never tasted
+a lord's [[house]]; partly because he had never tasted
 champagne before, and he felt as if it agreed with
 him; partly because he saw in the subject of Progress
 an infinite opportunity of splitting hairs.
@@ -4517,7 +4517,7 @@ an infinite opportunity of splitting hairs.
 "Whatever," said Hibbs, with a solemn cough,
 "whatever we may think of the old belief that
 Moslems have differed from Buddhism in a regrettable
-way, there can be no doubt the responsibility lay with
+way, there can be no [[Doubt|doubt]] the responsibility lay with
 the Christian Churches.  Had the Free Churches put
 their foot down and met Messrs. Opalstein's demand,
 we should have heard nothing of these old differences
@@ -4526,28 +4526,28 @@ reminded him of Napoleon.  He gave his own opinion
 for what it was worth, but he was not afraid to say at
 any cost, even there and in that company, that this
 business of Asiatic vegetation had occupied less of the
-time of the Wesleyan Conference than it should have
+[[Time|time]] of the Wesleyan Conference than it should have
 done.  He would be the last to say, of course, that
 anyone was in any sense to blame.  They all knew
-Dr. Coon's qualifications.  They all knew as well as
+Dr. Coon's qualifications.  They all knew as [[Well|well]] as
 he did, that a more strenuous social worker than
 Charles Chadder had never rallied the forces of
 progress.  But that which was not really an indiscretion
 might be represented as an indiscretion, and perhaps
 we had had enough of that just lately.  It was all very
-well to talk about Coffe but it should be remembered,
+[[Well|well]] to talk about Coffe but it should be remembered,
 with no disrespect to those in Canada to whom we
 owe so much, that all that happened before 1891.  No
-one had less desire to offend our Ritualistic friends
+one had less [[Desire|desire]] to offend our Ritualistic friends
 than he did, but he had no hesitation in saying that
 the question was a question that could be asked, and
-though no doubt, from one point of view the goat's--.
+though no [[Doubt|doubt]], from one point of view the goat's--.
 
 Lady Joan moved sharply in her chair, as if gripped
-by sudden pain.  And, indeed, she had suddenly felt
-the chronic and recurrent pain of her life.  She was
-brave about bodily pain, as are most women, even
-luxurious women: but the torment that from time to time
+by sudden [[Pain|pain]].  And, indeed, she had suddenly felt
+the chronic and recurrent [[Pain|pain]] of her life.  She was
+brave about bodily [[Pain|pain]], as are most women, even
+luxurious women: but the torment that from [[Time|time]] to [[Time|time]]
 returned and tore her was one to which many
 philosophical names have been given, but no name so
 philosophical as Boredom.
@@ -4563,7 +4563,7 @@ refreshments, though attenuated tables could still be
 found here and there.  She threw herself on an
 ottoman and stared toward the empty and elfin turret
 chambers in which Ivywood had made her understand
-that he, also, could thirst for beauty and desire to be
+that he, also, could thirst for [[Beauty|beauty]] and [[Desire|desire]] to be
 at peace.  He certainly had a poetry of his own, after
 all; a poetry that never touched earth; the poetry of
 Shelley rather than Shakespeare.  His phrase about
@@ -4571,7 +4571,7 @@ the fairy turret was true: it did look like the end of
 the world.  It did seem to teach her that there is
 always some serene limit at last.
 
-She started and half rose on her elbow with a small
+She started and half [[Rose|rose]] on her elbow with a small
 laugh.  A dog of ludicrous but familiar appearance
 came shuffling toward her and she lifted herself in the
 act of lifting him.  She also lifted her head, and saw
@@ -4592,15 +4592,15 @@ man that science has really been unfortunate in losing.
 He was the old-fashioned English Naturalist like
 Gilbert White or even Isaac Walton, who learned things
 not academically like an American Professor, but
-actually, like an American Indian.  And every truth a
+actually, like an American Indian.  And every [[Truth|truth]] a
 man has found out as a man of science is always
-subtly different from any truth he has found out as a
+subtly different from any [[Truth|truth]] he has found out as a
 man, because a man's family, friends, habits and social
-type have always got well under way before he has
+type have always got [[Well|well]] under way before he has
 thoroughly learned the theory of anything.  For
 instance, any eminent botanist at a _Soirée_ of the Royal
 Society could tell you, of course, that other edible
-fungi exist, as well as mushrooms and truffles.  But
+fungi exist, as [[Well|well]] as mushrooms and truffles.  But
 long before he was a botanist, still less an eminent
 botanist, he had begun, so to speak, on a basis of
 mushrooms and truffles.  He felt, in a vague way, that these
@@ -4630,14 +4630,14 @@ vegetables isn't half bad, so long as you know what
 vegetables there are and eat all of them that you can.
 But there are two ways where it goes wrong among
 the gentry.  First, they've never had to eat a carrot
-or a potato because it was all there was in the house; so
+or a potato because it was all there was in the [[house]]; so
 they've never learnt how to be really hungry for
-carrots, as that donkey might be.  They only know the
+carrots, as that [[donkey]] might be.  They only know the
 vegetables that are meant to help the meat.  They
 know you take duck and peas; and when they turn
-vegetarian they can only think of the peas without
+[[vegetarian]] they can only think of the peas without
 the duck.  They know you take lobster in a salad; and
-when they turn vegetarian they can only think of the
+when they turn [[vegetarian]] they can only think of the
 salad without the lobster.  But the other reason is
 worse.  There's plenty of good people even round
 here, and still more in the north, who get meat very
@@ -4645,11 +4645,11 @@ seldom.  But then, when they do get it, they gobble
 it up like good 'uns.  But the trouble with the gentry
 is different.  The trouble is, the same sort of gentry
 that don't want to eat meat don't really want to eat
-anything.  The man called a Vegetarian who goes
-to Ivywood House is generally like a cow trying to
+anything.  The man called a [[vegetarian|Vegetarian]] who goes
+to Ivywood [[house|House]] is generally like a cow trying to
 live on a blade of grass a day.  You and I, Captain,
-have pretty well been vegetarians for some time, so as
-not to break into the cheese, and we haven't found it
+have pretty [[Well|well]] been vegetarians for some [[Time|time]], so as
+not to break into the [[cheese]], and we haven't found it
 so difficult, because we eat as much as we can."
 
 "It's not so difficult as being teetotallers," answered
@@ -4658,24 +4658,24 @@ never deny that I feel the better for that, too, on the
 whole.  But only because I could leave off being one
 whenever I chose.  And, now I come to think of it,"
 he cried, with one of his odd returns of animal energy,
-"if I'm to be a vegetarian why shouldn't I drink?
-Why shouldn't I have a purely vegetarian drink?
+"if I'm to be a [[vegetarian]] why shouldn't I drink?
+Why shouldn't I have a purely [[vegetarian]] drink?
 Why shouldn't I take vegetables in their highest form,
 so to speak?  The modest vegetarians ought obviously
-to stick to wine or beer, plain vegetarian drinks,
-instead of filling their goblets with the blood of bulls
+to stick to wine or beer, plain [[vegetarian]] drinks,
+instead of filling their goblets with the [[Blood|blood]] of bulls
 and elephants, as all conventional meat-eaters do, I
 suppose.  What is the matter?"
 
 "Nothing," answered Pump.  "I was looking out
-for somebody who generally turns up about this time.
+for somebody who generally turns up about this [[Time|time]].
 But I think I'm fast."
 
 "I should never have thought so from the look of
 you," answered the Captain, "but what I'm saying is
 that the drinking of decent fermented liquor is just
 simply the triumph of vegetarianism.  Why, it's an
-inspiring idea!  I could write a sort of song about it.
+inspiring idea!  I could write a sort of [[Song|song]] about it.
 As, for instance--
 
     "You will find me drinking rum
@@ -4683,7 +4683,7 @@ As, for instance--
       You will find me drinking beer like a Bavarian;
      You will find me drinking gin
      In the lowest kind of inn,
-      Because I am a rigid Vegetarian."
+      Because I am a rigid [[vegetarian|Vegetarian]]."
 
 Why, it's a vista of verbal felicity and spiritual
 edification!  It has I don't know how many hundred
@@ -4695,23 +4695,23 @@ Something like--
        And I tried to hail the constable as 'Marion';
      But he said I couldn't speak,
      And he bowled me to the Beak,
-       Because I was a Happy Vegetarian."
+       Because I was a Happy [[vegetarian|Vegetarian]]."
 
 "I really think something instructive to the human race
 may come out of all this . . . Hullo!  Is that
 what you were looking for?"
 
-The quadruped Quoodle came in out of the woods a
-whole minute later than the usual time and took his
+The quadruped [[quoodle|Quoodle]] came in out of the woods a
+whole minute later than the usual [[Time|time]] and took his
 seat beside Humphrey's left foot with a preoccupied
 air.
 
 "Good old boy," said the Captain.  "You seem to
-have taken quite a fancy to us.  I doubt, Hump, if
-he's properly looked after up at the house.  I
+have taken quite a fancy to us.  I [[Doubt|doubt]], Hump, if
+he's properly looked after up at the [[house]].  I
 particularly don't want to talk against Ivywood, Hump.  I
-don't want his soul to be able in all eternity to accuse
-my soul of a mean detraction.  I want to be fair to
+don't want his [[Soul|soul]] to be able in all [[Eternity|eternity]] to accuse
+my [[Soul|soul]] of a mean detraction.  I want to be fair to
 him, because I hate him like hell, and he has taken
 from me all for which I lived.  But I don't think, with
 all this in my mind, I don't think I say anything beyond
@@ -4726,7 +4726,7 @@ acts with; he never looks at them as you and I look
 at that dog.  There was a fellow calling himself
 Gluck who was (mainly by Ivywood's influence, I
 believe) his colleague on the Turkish Conferences,
-being supposed to represent Germany.  My dear
+being supposed to represent [[Germany]].  My dear
 Hump, he was a man that a great gentleman like
 Ivywood ought not to have touched with a barge-pole.  It's
 not the race he was--if it was one race--it's the Sort
@@ -4742,7 +4742,7 @@ you.
        And his attitudes were anything but Aryan;
      So I gave him all the pork
      That I had, upon a fork;
-       Because I am myself a Vegetarian."
+       Because I am myself a [[vegetarian|Vegetarian]]."
 
 "If you are," said Humphrey Pump, "You'd better
 come and eat some vegetables.  The White Hat can
@@ -4750,7 +4750,7 @@ be eaten cold--or raw, for that matter.  But
 Bloodspots wants some cooking."
 
 "You are right, Hump," said Dalroy, seating
-himself with every appearance of speechless greed.  "I
+himself with every appearance of speechless [[Greed|greed]].  "I
 will be silent.  As the poet says--
 
     "I am silent in the Club,
@@ -4758,10 +4758,10 @@ will be silent.  As the poet says--
        I am silent on a bally peak in Darien;
      For I stuff away for life,
      Shoving peas in with a knife,
-       Because I am at heart a Vegetarian."
+       Because I am at heart a [[vegetarian|Vegetarian]]."
 
 He fell to his food with great gusto, dispatched a
-good deal of it in a very short time, threw a glance of
+good deal of it in a very short [[Time|time]], threw a glance of
 gloomy envy at the cask, and then sprang to his feet
 again.  He caught up the inn-sign from where it
 leant against the Pantomime Cottage, and planted it
@@ -4777,42 +4777,42 @@ to sing again, in an even louder voice than before.
 "that I'm rather tired of that particular tune?"
 
 "Tired, is it?" said the indignant Irishman, "then
-I'll sing you a longer song, to an even worse tune,
+I'll sing you a longer [[Song|song]], to an even worse tune,
 about more and more vegetarians, and you shall see
-me dance as well; and I will dance till you burst into
-tears and offer me the half of your kingdom; and I
+me [[Dance|dance]] as [[Well|well]]; and I will [[Dance|dance]] till you burst into
+[[Tears|tears]] and offer me the half of your kingdom; and I
 shall ask for Mr. Leveson's head on the frying-pan.
-For this, let me tell you, is a song of oriental origin,
+For this, let me tell you, is a [[Song|song]] of oriental origin,
 celebrating the caprices of an ancient Babylonian
 Sultan and should be performed in palaces of ivory with
 palm trees and a bulbul accompaniment."
 
-And he began to bellow another and older lyric of
+And he began to bellow another and older [[Lyric|lyric]] of
 his own on vegetarianism.
 
-    "Nebuchadnezzar, the King of the Jews,
+    "Nebuchadnezzar, the [[King]] of the Jews,
      Suffered from new and original views,
      He crawled on his hands and knees it's said,
-     With grass in his mouth and a crown on his head,
+     With grass in his mouth and a [[Crown|crown]] on his head,
         With a wowtyiddly, etc.
 
     "Those in traditional paths that trod,
      Thought the thing was a curse from God;
      But a Pioneer men always abuse,
-     Like Nebuchadnezzar the King of the Jews."
+     Like Nebuchadnezzar the [[King]] of the Jews."
 
-Dalroy, as he sang this, actually began to dance
+Dalroy, as he sang this, actually began to [[Dance|dance]]
 about like a ballet girl, an enormous and ridiculous
 figure in the sunlight, waving the wooden sign around
-his head.  Quoodle opened his eyes and pricked up
+his head.  [[quoodle|Quoodle]] opened his eyes and pricked up
 his ears and seemed much interested in these
 extraordinary evolutions.  Suddenly, with one of those
 startling changes that will transfigure the most sedentary
-dogs, Quoodle decided that the dance was a game, and
+[[dogs]], [[quoodle|Quoodle]] decided that the [[Dance|dance]] was a game, and
 began to bark and bound round the performer, sometimes
 leaping so far into the air as almost to threaten
 the man's throat.  But, though the sailor naturally
-knew less about dogs than the countryman, he knew
+knew less about [[dogs]] than the countryman, he knew
 enough about them (as about many other things) not
 to be afraid, and the voice he sang with might have
 drowned the baying of a pack.
@@ -4823,21 +4823,21 @@ drowned the baying of a pack.
      So they stuffed him with grass when they cut off his head.
         With a wowtyiddly, etc.
 
-    "For the pride of his soul he perished then,
-     But of course it is always of Pride that men
+    "For the [[Pride|pride]] of his [[Soul|soul]] he perished then,
+     But of course it is always of [[Pride]] that men
      A Man in Advance of his Age accuse
-     Like Nebuchadnezzar the King of the Jews.
+     Like Nebuchadnezzar the [[King]] of the Jews.
 
     "Simeon Scudder of Styx, in Maine,
      Thought of the thing and was at it again;
-     He gave good grass and water in pails
+     He gave good grass and [[Water|water]] in pails
      To a thousand Irishmen hammering rails,
         With a wowtyiddly, etc.
 
     "Appetites differ, and tied to a stake,
-     He was tarred and feathered for Conscience Sake;
+     He was tarred and feathered for [[Conscience]] Sake;
      But stoning the prophets is ancient news,
-     Like Nebuchadnezzar the King of the Jews."
+     Like Nebuchadnezzar the [[King]] of the Jews."
 
 In an abandon, unusual even for him, he had danced
 his way down through the thistles into the jungle of
@@ -4846,11 +4846,11 @@ now fully convinced that it was not only a game but
 an expedition, perhaps a hunting expedition, ran barking
 in front of him, along the path that his own dog's
 paws had already burst through the tangle.  Before
-Patrick Dalroy well knew what he was doing, or even
+Patrick Dalroy [[Well|well]] knew what he was doing, or even
 remembered that he still carried the ridiculous sign-board in his hand, he found himself outside the open
 porch of a sort of narrow tower at the angle of a
 building which, to the best of his recollection, he had
-never seen before.  Quoodle instantly ran up four or
+never seen before.  [[quoodle|Quoodle]] instantly ran up four or
 five steps in the dark staircase inside, and then, lifting
 his ears again, looked back for his companion.
 
@@ -4864,7 +4864,7 @@ porch, and proceeded to climb the stairs.  It was quite
 dark, and it was only after at least two twists of the
 stone spiral that he saw light ahead of him, and then
 it was a sort of rent in the wall that seemed to him
-as ragged as the mouth of a Cornish cave.  It was
+as ragged as the mouth of a Cornish [[Cave|cave]].  It was
 also so low that he had some difficulty in squeezing
 his bulk through it, but the dog had jumped through
 with an air of familiarity, and once more looked back
@@ -4877,9 +4877,9 @@ surroundings which he had never seen before, or even,
 in one sense, believed possible.
 
 His first feeling was that he was walking in the
-most sealed and secret suite of apartments in the castle
-of a dream.  All the chambers had that air of
-perpetually opening inwards which is the soul of the
+most sealed and secret suite of apartments in the [[Castle|castle]]
+of [[A Dream|a dream]].  All the chambers had that air of
+perpetually opening inwards which is the [[Soul|soul]] of the
 Arabian Nights.  And the ornament was of the same
 tradition; gorgeous and flamboyant, yet featureless
 and stiff.  A purple mansion seemed to be built inside
@@ -4894,8 +4894,8 @@ Worm.
 But he had also another sensation which he could
 not analyze; for it reminded him of being a fly on the
 ceiling or the wall.  Was it the Hanging Gardens of
-Babylon coming back to his imagination; or the Castle
-East of the Sun and West of the Moon?  Then he
+Babylon coming back to his [[Imagination|imagination]]; or the [[Castle]]
+East of the Sun and West of the [[Moon]]?  Then he
 remembered that in some boyish illness he had stared
 at a rather Moorish sort of wall paper, which was like
 rows and rows of brightly coloured corridors, empty
@@ -4905,20 +4905,20 @@ seemed to his childish fancy that the corridors were
 all dead in front of the fly, but all came to life as he
 passed.
 
-"By George!" he cried, "I wonder whether that's
-the real truth about East and West!  That the
+"By George!" he cried, "I [[Wonder|wonder]] whether that's
+the real [[Truth|truth]] about East and West!  That the
 gorgeous East offers everything needed for adventures
 except the man to enjoy them.  It would explain the
-tradition of the Crusades uncommonly well.  Perhaps
+tradition of the [[Crusades]] uncommonly [[Well|well]].  Perhaps
 that's what God meant by Europe and Asia.  We
-dress the characters and they paint the scenery.  Well,
+dress the characters and they paint the scenery.  [[Well]],
 anyhow, three of the least Asiatic things in the world
 are lost in this endless Asiatic palace--a good dog, a
-straight sword, and an Irishman."
+straight [[Sword|sword]], and an Irishman."
 
 But as he went down this telescope of tropical colours
 he really felt something of that hard fatalistic
-freedom of the heroes (or should we say villains?)
+[[Freedom|freedom]] of the heroes (or should we say villains?)
 in the Arabian Nights.  He was prepared for any
 impossibility.  He would hardly have been surprised
 if from under the lid of one of the porcelain pots
@@ -4926,24 +4926,24 @@ standing in a corner had come a serpentine string of
 blue or yellow smoke, as if some wizard's oil were
 within.  He would hardly have been surprised if from
 under the curtains or closed doors had crawled out a
-snaky track of blood, or if a dumb negro dressed in
+snaky track of [[Blood|blood]], or if a dumb negro dressed in
 white had come out with a bow string, having done
 his work.  He would not have been surprised if he had
 walked suddenly into the still chamber of some Sultan
-asleep, whom to wake was a death in torments.  And
+asleep, whom to wake was a [[Death|death]] in torments.  And
 yet he was very much more surprised by what he did
 see, and when he saw it, he was certain at last that
 he was only wandering in the labyrinth of his own
 brain.  For what he saw was what was really in the
-core of all his dreams.
+core of all his [[Dreams|dreams]].
 
 What he saw, indeed, was more appropriate to that
 inmost eastern chamber than anything he had imagined.
-On a divan of blood-red and orange cushions
+On a divan of [[Blood|blood]]-red and orange cushions
 lay a startlingly beautiful woman, with a skin almost
-swarthy enough for an Arab's, and who might well
+swarthy enough for an Arab's, and who might [[Well|well]]
 have been the Princess proper to such an Arabian
-tale.  But in truth it was not her appropriateness to
+tale.  But in [[Truth|truth]] it was not her appropriateness to
 the scene, but rather her inappropriateness, that made
 his heart bound.  It was not her strangeness but her
 familiarity that made his big feet suddenly stop.
@@ -4954,37 +4954,37 @@ his short hind legs.  Then she looked up, and seemed
 turned to stone.
 
 "Bismillah," said the oriental traveller, affably, "may
-your shadow never grow less--or more, as the ladies
+your [[Shadow|shadow]] never grow less--or more, as the ladies
 would say.  The Commander of the Faithful has deputed
 his least competent slave to bring you back a dog.
 Owing to temporary delay in collecting the fifteen
-largest diamonds in the moon, he has been compelled
+largest diamonds in the [[Moon|moon]], he has been compelled
 to send the animal without any collar.  Those responsible
-for the delay will instantly be beaten to death,
+for the delay will instantly be beaten to [[Death|death]],
 with the tails of dragons--"
 
 The frightful shock, which had not yet left the
 lady's face, brought him back to responsible speech.
 
-"In short," he said, "in the name of the Prophet,
-dog.  I say, Joan, I wish this wasn't a dream."
+"In short," he said, "in the name of the [[Prophet]],
+dog.  I say, Joan, I wish this wasn't [[A Dream|a dream]]."
 
-"It isn't," said the girl, speaking for the first time,
+"It isn't," said the girl, speaking for the first [[Time|time]],
 "and I don't know yet whether I wish it was."
 
-"Well," argued the dreamer, rationally, "what are
-you, anytime, if you're not a dream--or a vision?
-And what are all these rooms, if they aren't a dream
---or rather a nightmare?"
+"[[Well]]," argued the dreamer, rationally, "what are
+you, anytime, if you're not [[A Dream|a dream]]--or a vision?
+And what are all these rooms, if they aren't [[A Dream|a dream]]
+--or rather a [[nightmare]]?"
 
-"This is the new wing of Ivywood House," said
+"This is the new wing of Ivywood [[house|House]]," said
 the lady addressed as Joan, speaking with great
 difficulty.  "Lord Ivywood has fitted them up in the
 eastern style; he is inside conducting a most interesting
-debate in defence of Eastern Vegetarianism.  I only
+[[debate]] in defence of Eastern Vegetarianism.  I only
 came out because the room was rather hot."
 
-"Vegetarian!" cried Dalroy, with abrupt and rather
+"[[vegetarian|Vegetarian]]!" cried Dalroy, with abrupt and rather
 unreasonable exasperation.  "That table seems to fall
 a bit short of Vegetarianism."  And he pointed to one
 of the long, narrow tables, laid somewhere in almost
@@ -5010,7 +5010,7 @@ Lady Joan Brett stood up straight but trembling.
 
 "Now that's really wrong, Pat," she cried.  "Oh,
 don't be silly--you know I don't care about the alcohol
-or all that.  But you're in the man's house, uninvited,
+or all that.  But you're in the man's [[house]], uninvited,
 and he doesn't know.  That wasn't like you."
 
 "He shall know, all right," said the large man,
@@ -5022,7 +5022,7 @@ of a bill of fare on the table, and then carefully laid
 three shillings on top of it.
 
 "And there you do Philip the worst wrong of all,"
-cried Lady Joan, flaming white.  "You know as well
+cried Lady Joan, flaming white.  "You know as [[Well|well]]
 as I do, anyhow, that he would not take your money."
 Patrick Dalroy stood looking at her for some
 seconds with an expression on his broad and unusually
@@ -5050,16 +5050,16 @@ Ivywood clearly told me, with his own careful lips,
 that I might go in and pay for fermented liquor in any
 place displaying a public sign outside.  And he won't
 go back on that definition or on any definition.  If he
-finds me here, he may quite possibly put me in prison
+finds me here, he may quite possibly put me in [[Prison|prison]]
 on some other charge, as a thief or a vagabond, or
 what not.  But he will not grudge the champagne.
 And he will accept the three shillings.  And I shall
-honour him for his glorious consistency."
+[[Honour|honour]] him for his glorious consistency."
 
 "I don't understand," said Joan, "one word of what
 you are talking about.  Which way did you come?
 How can I get you away?  You don't seem to grasp
-that you're in Ivywood House."
+that you're in Ivywood [[house|House]]."
 
 "You see there's a new name outside the gate,"
 observed Patrick, conversationally, and led the lady to
@@ -5067,13 +5067,13 @@ the end of the corridor by which he had entered and
 into its ultimate turret chamber.
 
 Following his indications, Lady Joan peered a little
-over the edge of the window where hung the brilliant
+over the edge of the [[Window|window]] where hung the brilliant
 purple bird in its brilliant golden cage.  Almost
 immediately below, outside the entrance to the half-closed
 stairway, stood a wooden tavern sign, as solid and still
 as if it had been there for centuries.
 
-"All back at the sign of 'The Old Ship,' you see,"
+"All back at the sign of 'The Old [[Ship]],' you see,"
 said the Captain.  "Can I offer you anything in a lady-like way?"
 
 There was a vast impudence in the slight, hospitable
@@ -5081,7 +5081,7 @@ movement of his hand, that disturbed Lady Joan's
 features with an emotion other than any that she desired
 to show.
 
-"Well!" cried Patrick, with a wild geniality, "I've
+"[[Well]]!" cried Patrick, with a wild geniality, "I've
 made you laugh again, my dear."
 
 He caught her to him as in a whirlwind, and then
@@ -5100,9 +5100,9 @@ is doubtful if anyone will ever know.  But she was full
 of the pungent feminine instinct to "drive at practice,"
 and what she did clearly realise was the pencil writing
 Dalroy had left on the back of Lord Ivywood's _menu_.
-Heaven alone knew what it was, and (as it pleased
+Heaven [[Alone|alone]] knew what it was, and (as it pleased
 her profane temper to tell herself) she was not
-satisfied with Heaven alone knowing.  She went swiftly
+satisfied with Heaven [[Alone|alone]] knowing.  She went swiftly
 back, with swishing skirts, to the table where it had
 been left.  But her skirts fell more softly and her feet
 trailed slower and more in her usual manner as she
@@ -5117,14 +5117,14 @@ sympathetic way.
 it's really too hot for anything.  Dr. Gluck is making
 an uncommonly good speech, but I couldn't stop even
 for that.  Don't you think my eastern decorations are
-rather a success after all?  A sort of Vegetarianism
+rather a [[success]] after all?  A sort of Vegetarianism
 in design, isn't it?"
 
 He led her up and down the corridors, pointing out
 lemon-coloured crescents or crimson pomegranates in
 the scheme of ornament, with such utter detachment
 that they twice passed the open mouth of the hall of
-debate, and Joan could distinctly hear the voice of
+[[debate]], and Joan could distinctly hear the voice of
 the diplomatic Gluck saying:
 
 "Indeed, we owe our knowledge of the pollution of
@@ -5138,9 +5138,9 @@ jutht that touch of refinement, jutht that intellectual
 thuperiority which--."
 
 And then the voice would die away behind, as Lord
-Ivywood lectured luxuriantly, and very well, on the
+Ivywood lectured luxuriantly, and very [[Well|well]], on the
 peacock tail in decoration, or some more extravagant
-eastern version of the Greek Key.  But the third time
+eastern version of the Greek Key.  But the third [[Time|time]]
 they turned, they heard the noise of subdued applause
 and the breaking up the meeting; and people came
 pouring forth.
@@ -5157,11 +5157,11 @@ immediate matters.  And if there were anyone else--."
 
 If Philip, Lord Ivywood, had ever looked at a
 human being in his life, he would have seen that J.
-Leveson, Secretary, was suffering from a very ancient
+Leveson, Secretary, was [[Suffering|suffering]] from a very ancient
 human malady, excusable in all men and rather more
 excusable in one who has had his top-hat smashed over
 his eyes and has run for his life.  As it was, he saw
-nothing, but merely said, "Oh, well, get someone else.
+nothing, but merely said, "Oh, [[Well|well]], get someone else.
 What about your friend Hibbs?"
 
 Leveson ran across to Hibbs, who was drinking
@@ -5181,7 +5181,7 @@ Lord Ivywood doesn't want to alarm the ladies
 and perhaps turn the laugh against himself, by getting
 up a sort of police raid about nothing.  He wants some
 sensible, tactful friend of his to go down and look
-round the place--it's a sort of disused garden--and
+round the place--it's a sort of disused [[Garden|garden]]--and
 report if there's anyone about.  I'd go myself, but
 I'm wanted here."
 
@@ -5192,10 +5192,10 @@ Hibbs nodded, and filled another glass.
 dangerous man,' were his lordship's words; and it
 looks as if he'd spotted a very good hiding-place, a
 disused tunnel leading to the sands, just beyond the
-disused garden and chapel.  It's a smart choice, you
+disused [[Garden|garden]] and chapel.  It's a smart choice, you
 see, for he can bolt into the woods if anyone comes
 from the shore, or on to the shore if anyone comes
-from the woods.  But it would take a good time even
+from the woods.  But it would take a good [[Time|time]] even
 to get the police here, and it would take ten times
 longer to get 'em round to the sea end of the tunnel,
 especially as the sea comes up to the cliffs once or
@@ -5215,10 +5215,10 @@ Hibbs took a glass or two more of wine; feeling
 that he was going on a great diplomatic mission to
 please a lord.  Then he went through the opening,
 picked his way down the stair, and somehow found his
-way out into the neglected garden and shrubbery.
+way out into the neglected [[Garden|garden]] and shrubbery.
 
-It was already evening, and an early moon was
-brightening over the sunken chapel with its dragon-coloured scales of fungus.  The night breeze was very
+It was already evening, and an early [[Moon|moon]] was
+brightening over the sunken chapel with its dragon-coloured scales of fungus.  The [[Night|night]] breeze was very
 fresh and had a marked effect on Mr. Hibbs.  He
 found himself taking a meaningless pleasure in the
 scene; especially in one fungus that was white with
@@ -5243,17 +5243,17 @@ of waltzing with the Angel in the moonlight, in a
 very amorous and irreverent manner.  Then the statue
 rolled over one way and he rolled over the other, and
 lay on his face in the grass, making inaudible remarks.
-He might have lain there for some time, or at least
+He might have lain there for some [[Time|time]], or at least
 found some difficulty in rising, but for another
-circumstance.  The dog Quoodle, with characteristic
+circumstance.  The dog [[quoodle|Quoodle]], with characteristic
 officiousness, had followed him down the dark stairs and
 out of the doorway, and, finding him in this unusual
-posture, began to bark as if the house were on fire.
+posture, began to bark as if the [[house]] were on [[Fire|fire]].
 
 This brought a heavy human footstep from the more
 hidden parts of the copse; and in a minute or two the
 large man with the red hair was looking down at him
-in undisguised wonder.  Hibbs said, in a muffled voice
+in undisguised [[Wonder|wonder]].  Hibbs said, in a muffled voice
 which came obscurely from under his hidden face,
 "Wish my presence to appear quite accidental."
 
@@ -5273,7 +5273,7 @@ will be back presently, and he's a capital doctor."
 His friend Pump may or may not have been a
 capital doctor, but the Captain himself was certainly
 a most inefficient one.  So small was his talent for
-diagnosing the nature of a disease at sight, that having
+diagnosing the [[Nature|nature]] of a disease at sight, that having
 given Mr. Hibbs a seat on a fallen tree by the tunnel,
 he proceeded to give him (in mere automatic hospitality)
 a glass of rum.
@@ -5300,16 +5300,16 @@ complex title, staring.
 
 "Sha' we say," asked Hibbs brightly, turning a leaf
 in his note book, "sha' we say long been strong
-vegetarian by conviction?"
+[[vegetarian]] by conviction?"
 
 "No; I have only once been convicted," answered
-Dalroy, with restraint, "and I hope to lead a better
+Dalroy, with restraint, "and I [[Hope|hope]] to lead a better
 life when I come out."
 
 "Hopes lead better life," murmured Hibbs, writing
 eagerly, with the wrong end of his pencil.  "And
 wha' would you shay was best vegable food for really
-strong vegetarian by conviction?"
+strong [[vegetarian]] by conviction?"
 
 "Thistles," said the Captain, wearily.  "But I don't
 know much about it, you know."
@@ -5320,8 +5320,8 @@ Ivywoo' says tact.  Talk to him naturally.  And so I
 do.  That's what I do.  Talk to him naturally."
 
 Humphrey Pump came through the clearer part of
-the wood, leading the donkey, who had just partaken
-of the diet recommended to a vegetarian by conviction;
+the wood, leading the [[donkey]], who had just partaken
+of the diet recommended to a [[vegetarian]] by conviction;
 the dog sprang up and ran to them.  Pump was,
 perhaps, the most naturally polite man in the world, and
 said nothing.  But his eyes had accepted, with one
@@ -5338,7 +5338,7 @@ sphose they can swim."  He seized his note book again
 and looked in vain for his pencil.  "Good subjec'
 correspondence.  Can policem'n swim?"
 
-"Policemen?" said Dalroy, in a dead silence.  The
+"Policemen?" said Dalroy, in a dead [[Silence|silence]].  The
 dog looked up, and the innkeeper did not.
 
 "Get to Ivywoo' one thing," reasoned the diplomatist.
@@ -5347,7 +5347,7 @@ good do one thing no' do other thing, 'no goo' do
 other thing no' do other thing.  Wish my presence
 appear quite accidental.  Haw!"
 
-"I'll harness the donkey," said Pump.
+"I'll harness the [[donkey]]," said Pump.
 
 "Will he go through that door?" asked Dalroy,
 with a gesture toward the entrance of the rough boarding
@@ -5360,15 +5360,15 @@ him to the safe end of the tunnel before I load him
 up.  The best thing you can do is to pull up one of
 those saplings to bar the door with.  That'll delay
 them a minute or two; though I think we've got
-warning in pretty easy time."
+warning in pretty easy [[Time|time]]."
 
-He led his donkey to the cart, and carefully
-harnessed the donkey; like all men cunning in the old
+He led his [[donkey]] to the cart, and carefully
+harnessed the [[donkey]]; like all men cunning in the old
 healthy sense he knew that the last chance of leisure
 ought to be leisurely, in order that it may be lucid.
 Then he led the whole equipment through the
 temporary wooden door of the tunnel, the inquisitive
-Quoodle, of course, following at his heels.
+[[quoodle|Quoodle]], of course, following at his heels.
 
 "Excuse me if I take a tree," said Dalroy, politely,
 to his guest, like a man reaching across another man
@@ -5377,14 +5377,14 @@ by its roots, as he had done in the Island of the Olives,
 and carried it on his shoulder, like the club of
 Hercules.
 
-Up in Ivywood House Lord Ivywood had telephoned
+Up in Ivywood [[house|House]] Lord Ivywood had telephoned
 twice to Pebblewick.  It was a delay he seldom
 suffered; and, though he never expressed impatience in
 unnecessary words he expressed it in unnecessary
 walking.  He would not yet send for the police
 without news from his Ambassador, but he thought a
 preliminary conversation with some police authorities
-he knew well, might advance matters.  Seeing Leveson
+he knew [[Well|well]], might advance matters.  Seeing Leveson
 rather shrunk in a corner, he wheeled round in his walk
 and said abruptly:
 
@@ -5404,7 +5404,7 @@ luxurious social motives of Mr. Hibbs.  Mr. Leveson did
 not drink for pleasure; in fact, he hardly knew what
 he was drinking.  His motive was something far more
 simple and sincere; a sentiment forcibly described in
-legal phraseology as going in bodily fear.
+legal phraseology as going in bodily [[Fear|fear]].
 
 He was partly nerved, but by no means reconciled
 to his adventure, when he crept carefully down the
@@ -5416,27 +5416,27 @@ pursued it.  The first words he heard seemed to run
 something like--
 
     "No more the milk of cows
-     Shall pollute my private house,
+     Shall pollute my private [[house]],
      Than the milk of the wild mares of the Barbarian;
      I will stick to port and sherry,
      For they are so very, very,
-     So very, very, very Vegetarian."
+     So very, very, very [[vegetarian|Vegetarian]]."
 
 Leveson did not know the huge and horrible voice
 in which these words were shouted, but he had a most
 strange and even sickening suspicion that he did know
 the voice, however altered, the quavering and rather
-refined voice that joined in the chorus and sang,
+refined voice that joined in the [[Chorus|chorus]] and sang,
 
     "Because they are so vegy,
-     So vegy, vegy, vegy Vegetarian."
+     So vegy, vegy, vegy [[vegetarian|Vegetarian]]."
 
 Terror lit up his wits, and he made a wild guess at
 what had happened.  With a gasp of relief he realised
 that he had now good excuse for returning to the
-house with the warning.  He ran there like a hare,
+[[house]] with the warning.  He ran there like a hare,
 still hearing the great voice from the woods like the
-roaring of a lion in his ear.
+roaring of a [[Lion|lion]] in his ear.
 
 He found Lord Ivywood in consultation with Dr.
 Gluck, and also with Mr. Bullrose the Agent, whose
@@ -5460,15 +5460,15 @@ Station?"
 
 Bullrose went down into the shrubbery and had,
 for many reasons, less difficulty in crossing it than the
-hilarious Hibbs.  The moon had increased to an almost
+hilarious Hibbs.  The [[Moon|moon]] had increased to an almost
 unnatural brilliancy, so that the whole scene was like
 a rather silver daylight; and in this clear medium he
 beheld a very tall man with erect, red hair and a colossal
-cylinder of cheese carried under one arm, while he
+cylinder of [[cheese]] carried under one arm, while he
 employed the other to wag a big forefinger at a dog
 with whom he was conversing.
 
-It was the Agent's duty and desire to hold the man,
+It was the Agent's duty and [[Desire|desire]] to hold the man,
 whom he recognised from the sign-board mystery, in
 play and conversation, and prevent his final escape.
 But there are some people who really cannot be courteous,
@@ -5479,7 +5479,7 @@ one of them.
 what you want."
 
 "Do not, however, fall into the common error,
-Quoodle," Dalroy was saying to the dog, whose
+[[quoodle|Quoodle]]," Dalroy was saying to the dog, whose
 unfathomable eyes were fixed on his face, "of supposing
 that the phrase 'good dog' is used in its absolute sense.
 A dog is good or bad negatively to a limited scheme
@@ -5487,7 +5487,7 @@ of duties created by human civilization--"
 
 "What are you doing here?" asked Mr. Bullrose.
 
-"A dog, my dear Quoodle," continued the Captain,
+"A dog, my dear [[quoodle|Quoodle]]," continued the Captain,
 "cannot be either so good or bad as a man.  Nay, I
 should go farther.  I would almost say a dog cannot be
 so stupid as a man.  He cannot be utterly wanting
@@ -5496,39 +5496,39 @@ as a dog--as some men are as men."
 "Answer me, you there!" roared the Agent.
 
 "It is all the more pathetic," continued the Captain,
-to whose monologue Quoodle seemed to listen with
+to whose monologue [[quoodle|Quoodle]] seemed to listen with
 magnetized attention.  "It is all the more pathetic
 because this mental insufficiency is sometimes found
 in the good; though there are, I should imagine, at
 least an equal number of opposite examples.  The
 person standing a few feet off us, for example, is both
-stupid and wicked.  But be very careful, Quoodle, to
+stupid and wicked.  But be very careful, [[quoodle|Quoodle]], to
 remember that any disadvantage under which we place
 him should be based on the _moral_ and not his _mental_
-defects.  Should I say to you at any time, 'Go for him,
-Quoodle,' or 'Hold him, Quoodle,' be certain in your
+defects.  Should I say to you at any [[Time|time]], 'Go for him,
+[[quoodle|Quoodle]],' or 'Hold him, [[quoodle|Quoodle]],' be certain in your
 own mind, please, that it is solely because he is _wicked_
 and not because he is _stupid_, that I am entitled to do
 so.  The fact that he is _stupid_ would not justify me
-in saying 'hold him, Quoodle,' with the realistic
+in saying 'hold him, [[quoodle|Quoodle]],' with the realistic
 intonation I now employ--"
 
 "Curse you, call him off!" cried Mr. Bullrose,
-retreating, for Quoodle was coming toward him with
+retreating, for [[quoodle|Quoodle]] was coming toward him with
 the bulldog part of his pedigree very prominently
 displayed, like a pennon.  "Should Mr. Bullrose find
 it expedient to climb a tree, or even a sign-post,"
 proceeded Dalroy, for indeed the Agent had already
-clasped the pole of "The Old Ship," which was stouter
+clasped the pole of "The Old [[Ship]]," which was stouter
 than the slender trees standing just around it, "you
-will keep an eye on him, Quoodle, and, I doubt not,
+will keep an eye on him, [[quoodle|Quoodle]], and, I [[Doubt|doubt]] not,
 constantly remind him that it is his _wickedness_, and
 not, as he might hastily be inclined to suppose, _stupidity_
 that has placed him on so conspicuous an elevation--"
 
 "Some of you'll wish yourself dead for this," said
-the Agent; who was by this time clinging to the wooden
-sign like a monkey on a stick, while Quoodle watched
+the Agent; who was by this [[Time|time]] clinging to the wooden
+sign like a monkey on a stick, while [[quoodle|Quoodle]] watched
 him from below with an unsated interest.  "Some of
 you'll see something.  Here comes his lordship and
 the police, I reckon."
@@ -5551,14 +5551,14 @@ and such things are not of my seeking.  It is only
 right to tell you that the police will be here in a
 moment."
 
-"Quite time, too!" said Dalroy, shaking his head.
+"Quite [[Time|time]], too!" said Dalroy, shaking his head.
 "I never saw anything so disgraceful in my life.  Of
-course, I am sorry it's a friend of yours; and I hope
-the police will keep Ivywood House out of the papers.
+course, I am sorry it's a friend of yours; and I [[Hope|hope]]
+the police will keep Ivywood [[house|House]] out of the papers.
 But I won't be a party to one law for the rich and
 another for the poor, and it would be a great shame
 if a man in that state got off altogether merely
-because he had got the stuff at your house."
+because he had got the stuff at your [[house]]."
 
 "I do not understand you," said Ivywood.  "What
 are you talking of?"
@@ -5570,7 +5570,7 @@ are coming for."
 
 Lord Ivywood looked at the forest log by the tunnel
 which he had not glanced at before, and in his pale
-eyes, perhaps for the first time, stood a simple
+eyes, perhaps for the first [[Time|time]], stood a simple
 astonishment.
 
 Above the log appeared two duplicate objects, which,
@@ -5596,12 +5596,12 @@ exhibited him, limp and wild-eyed to the company.
 station," said the Captain.  "I'm sorry, Lord Ivywood,
 I'm afraid it's no use your asking me to overlook it
 again.  We can't afford it," and he shook his head
-implacably.  "We've always kept a respectable house,
-Mr. Pump and I.  'The Old Ship' has a reputation all
+implacably.  "We've always kept a respectable [[house]],
+Mr. Pump and I.  'The Old [[Ship]]' has a reputation all
 over the country--in quite a lot of different parts, in
 fact.  People in the oddest places have found it a
-quiet, family house.  Nothing gadabout in 'The Old
-Ship.'  And if you think you can send all your
+quiet, family [[house]].  Nothing gadabout in 'The Old
+[[Ship]].'  And if you think you can send all your
 staggering revellers--"
 
 "Captain Dalroy," said Ivywood, simply, "you seem
@@ -5635,7 +5635,7 @@ briskly, "All quite correct and conventional, you see.
 You can't run us in for not having a sign; we've
 rather an extra life-like one.  And you can't run us
 in as rogues and vagabonds either.  Visible means of
-subsistence," and he slapped the huge cheese under
+subsistence," and he slapped the huge [[cheese]] under
 his arm with his great flat hand, so that it reverberated
 like a drum.  "Quite visible.  Perceptible," he added,
 holding it out suddenly almost under Lord Ivywood's
@@ -5643,7 +5643,7 @@ nose.  "Perceptible to the naked eye through your
 lordship's eyeglasses."
 
 He turned abruptly, burst open the pantomime door
-behind him and bowled the big cheese down the tunnel
+behind him and bowled the big [[cheese]] down the tunnel
 with a noise like thunder, which ended in a cry of
 acceptation in the distant voice of Mr. Humphrey
 Pump.  It was the last of their belongings left at this
@@ -5651,7 +5651,7 @@ end of the tunnel, and Dalroy turned again, a man
 totally transfigured.
 
 "And now, Ivywood," he said, "what can I be
-charged with?  Well, I have a suggestion to make.
+charged with?  [[Well]], I have a suggestion to make.
 I will surrender to the police quite quietly when they
 come, if you will do me one favour.  Let me choose
 my crime."
@@ -5659,12 +5659,12 @@ my crime."
 "I don't understand you," answered the other coolly,
 "what crime?  What favour?"
 
-Captain Dalroy unsheathed the straight sword that
+Captain Dalroy unsheathed the straight [[Sword|sword]] that
 still hung on his now shabby uniform.  The slender
 blade sparkled splendidly in the moonlight as he
 pointed it straight at Dr. Gluck.
 
-"Take away his sword from the little pawnbroker,"
+"Take away his [[Sword|sword]] from the little pawnbroker,"
 he said.  "It's about the length of mine; or we'll change
 if you like.  Give me ten minutes on that strip of
 turf.  And then it may be, Ivywood, that I shall be
@@ -5676,13 +5676,13 @@ ashamed.  Or, on the other hand, it may be--that
 when the police come there will be something to arrest
 me for."
 
-There was a long silence, and the elf of irresponsibility
+There was a long [[Silence|silence]], and the elf of irresponsibility
 peeped out again for an instant in Dalroy's
 mind.
 
 "Mr. Bullrose will see fair play for you, from a
 throne above the lists," he said.  "I have already put
-my honour in the hands of Mr. Hibbs."
+my [[Honour|honour]] in the hands of Mr. Hibbs."
 
 "I must decline Captain Dalroy's invitation," said
 Ivywood at last, in a curious tone.  "Not so much
@@ -5694,11 +5694,11 @@ the copse, hallooing, "The police are here!"
 Dalroy, who loved leaving everything to the last
 instant, tore up the sign, with Bullrose literally
 hanging to it, shook him off like a ripe fruit, and then
-plunged into the tunnel, the clamorous Quoodle at
+plunged into the tunnel, the clamorous [[quoodle|Quoodle]] at
 his heels.  Before even Ivywood (the promptest of
 his party) could reach the spot, he had clashed to the
 wood door and bolted it across with his wooden staple.
-He had not had time even to sheath his sword.
+He had not had [[Time|time]] even to sheath his [[Sword|sword]].
 
 "Break down this door," said Lord Ivywood, calmly.
 "I noticed they haven't finished loading their cart."
@@ -5721,23 +5721,23 @@ was, he only heard a publican wanted by the police.--Yet even he paused, and ind
 "My lord, I would like a word.  I learned my catechism
 and never was with the Radicals.  I want you
 to look at what you've done to me.  You've stolen a
-house that was mine as that one's yours.  You've
+[[house]] that was mine as that one's yours.  You've
 made me a dirty tramp, that was a man respected in
 church and market.  Now you send me where I might
 have cells or the Cat.  If I might make so bold, what
 do you suppose I think of you?  Do you think because
-you go up to London and settle it with lords in
+you go up to [[London]] and settle it with lords in
 Parliament and bring back a lot of papers and long words,
 that makes any difference to the man you do it to?
 By what I can see, you're just a bad and cruel master,
 like those God punished in the old days; like Squire
-Varney the weasels killed in Holy Wood.  Well,
+Varney the weasels killed in Holy Wood.  [[Well]],
 parson always said one might shoot at robbers, and I
 want to tell your lordship," he ended respectfully, "that
 I have a gun."
 
 Ivywood instantly stepped into the darkness, and
-spoke in a voice shaken with some emotion, the nature
+spoke in a voice shaken with some emotion, the [[Nature|nature]]
 of which was never certainly known.
 
 "The police are here," he said, "but I'll arrest you
@@ -5751,7 +5751,7 @@ with a bullet above his knee.
 Almost at the same instant a shout and a bark
 announced that the cart had started as a complete
 equipage.  It was even more than complete, for the instant
-before it moved Mr. Quoodle had sprung into it, and,
+before it moved Mr. [[quoodle|Quoodle]] had sprung into it, and,
 as it was driven off, sat erect in it, looking solemn.
 
 * * *
@@ -5765,7 +5765,7 @@ Ivywood and the difficulties of the police in finding
 their way to the shore, the fugitives of the Flying Inn
 must almost certainly have been captured but for a
 curious accident, which also flowed, as it happened,
-from the great Ivywood debate on Vegetarianism.
+from the great Ivywood [[debate]] on Vegetarianism.
 
 The comparatively late hour at which Lord Ivywood
 had made his discovery had been largely due to a very
@@ -5776,20 +5776,20 @@ was made by an eccentric, of course.  Most of those
 who attended, and nearly all of those who talked, were
 eccentric in one way or another.  But he was an
 eccentric of great wealth and good family, an M.P., a J.P.,
-a relation of Lady Enid, a man well known in art and
+a relation of Lady Enid, a man [[Well|well]] known in art and
 letters; in short, a personality who could not be
 prevented from being anything he chose, from a
 revolutionist to a bore.  Dorian Wimpole had first become
 famous outside his own class under the fanciful title
-of the Poet of the Birds.  A volume of verse, expanding
-the several notes or cries of separate song-birds into
+of the Poet of the [[Birds]].  A volume of verse, expanding
+the several notes or cries of separate [[Song|song]]-[[Birds|birds]] into
 fantastic soliloquies of these feathered philosophers,
 had really contained a great deal of ingenuity and
 elegance.  Unfortunately, he was one of those who
 always tend to take their own fancies seriously, and
 in whose otherwise legitimate extravagance there is
 too little of the juice of jest.  Hence, in his later
-works, when he explained "The Fable of the Angel,"
+works, when he explained "The [[Fable]] of the Angel,"
 by trying to prove that the fowls of the air were creatures
 higher than man or the anthropoids, his manner
 was felt to be too austere; and when he moved an
@@ -5797,23 +5797,23 @@ amendment to Lord Ivywood's scheme for the model
 village called Peaceways, urging that its houses should
 all follow the more hygienic architecture of nests hung
 in trees, many regretted that he had lost his light touch.
-But, when he went beyond birds and filled his poems
+But, when he went beyond [[Birds|birds]] and filled his [[Poems|poems]]
 with conjectural psychology about all the Zoological
-Gardens, his meaning became obscure; and Lady Susan
+Gardens, his meaning became obscure; and [[Lady Susan]]
 had even described it as his bad period.  It was all the
 more uncomfortable reading because he poured forth
-the imaginary hymns, love-songs and war-songs of
-the lower animals, without a word of previous
+the imaginary hymns, [[Love|love]]-[[songs]] and war-[[songs]] of
+the lower [[Animals|animals]], without a word of previous
 explanation.  Thus, if someone seeking for an ordinary
-drawing-room song came on lines that were headed
-"A Desert Love Song," and which began--
-    "Her head is high against the stars,
-     Her hump is heaved in pride,"
+drawing-room [[Song|song]] came on lines that were headed
+"A [[Desert]] [[Love]] [[Song]]," and which began--
+    "Her head is high against the [[Stars|stars]],
+     Her hump is heaved in [[Pride|pride]],"
 
 the compliment to the lady would at first seem startling,
 until the reader realised that all the characters
 in the idyll were camels.  Or, if he began a poem
-simply entitled, "The March of Democracy," and
+simply entitled, "The March of [[democracy|Democracy]]," and
 found in the first lines--
     "Comrades, marching evermore,
      Fix your teeth in floor and door,"
@@ -5823,14 +5823,14 @@ masses; until he discovered that it was supposed to be
 addressed by an eloquent and aspiring rat to the
 social solidarity of his race.  Lord Ivywood had nearly
 quarrelled with his poetic relative over the uproarious
-realism of the verses called "A Drinking Song," until
+realism of the verses called "A Drinking [[Song]]," until
 it was carefully explained to him that the drink was
-water, and that the festive company consisted of bisons.
+[[Water|water]], and that the festive company consisted of bisons.
 His vision of the perfect husband, as it exists in the
 feelings of the young female walrus, is thoughtful and
 suggestive; but would doubtless receive many emendations
 from anyone who had experienced those feelings.
-And in his sonnet called "Motherhood" he has made
+And in his [[Sonnet|sonnet]] called "Motherhood" he has made
 the young scorpion consistent and convincing, yet
 somehow not wholly lovable.  In justice to him,
 however, it should be remembered that he attacked the
@@ -5838,12 +5838,12 @@ most difficult cases on principle, declaring that there
 was no earthly creature that a poet should forget.
 
 He was of the blond type of his cousin, with flowing
-fair hair and mustache, and a bright blue, absent-minded eye; he was very well dressed in the carefully
+fair hair and mustache, and a bright blue, absent-minded eye; he was very [[Well|well]] dressed in the carefully
 careless manner, with a brown velvet jacket and the
 image on his ring of one of those beasts men
-worshipped in Egypt.
+worshipped in [[Egypt]].
 
-His speech was graceful and well worded and
+His speech was graceful and [[Well|well]] worded and
 enormously long, and it was all about an oyster.  He
 passionately protested against the suggestion of some
 humanitarians who were vegetarians in other respects,
@@ -5853,7 +5853,7 @@ miserable best, was always trying to excommunicate
 some one citizen of the cosmos, to forget some one
 creature that he should remember.  Now, it seemed
 that creature was the oyster.  He gave a long account
-of the tragedy of the oyster, a really imaginative and
+of the [[Tragedy|tragedy]] of the oyster, a really imaginative and
 picturesque account; full of fantastic fishes, and coral
 crags crawling and climbing, and bearded creatures
 streaking the seashore and the green darkness in the
@@ -5861,38 +5861,38 @@ cellars of the sea.
 
 "What a horrid irony it is," he cried, "that this is
 the only one of the lower creatures whom we call a
-Native!  We speak of him, and of him alone as if he
+Native!  We speak of him, and of him [[Alone|alone]] as if he
 were a native of the country.  Whereas, indeed, he is
-an exile in the universe.  What can be conceived more
+an [[Exile|exile]] in the universe.  What can be conceived more
 pitiful than the eternal frenzy of the impotent
 amphibian?  What is more terrible than the tear of an
-oyster?  Nature herself has sealed it with the hard seal
-of eternity.  The creature man forgets bears against
+oyster?  [[Nature]] herself has sealed it with the hard seal
+of [[Eternity|eternity]].  The creature man forgets bears against
 him a testimony that cannot be forgotten.  For the
-tears of widows and of captives are wiped away at
-last like the tears of children.  They vanish like the
+[[Tears|tears]] of widows and of captives are wiped away at
+last like the [[Tears|tears]] of children.  They vanish like the
 mists of morning or the small pools after a flood.  But
 the tear of the oyster is a pearl."
 
-The Poet of the Birds was so excited with his own
+The Poet of the [[Birds]] was so excited with his own
 speech that, after the meeting, he walked out with a
 wild eye to the motor car, which had been long awaiting
 him, the chauffeur giving some faint signs of
 relief.
 
-"Toward home, for the present," said the poet, and
-stared at the moon with an inspired face.
+"Toward [[Home|home]], for the present," said the poet, and
+stared at the [[Moon|moon]] with an inspired face.
 
 He was very fond of motoring, finding it fed him
 with inspirations; and he had been doing it from an
 early hour that morning, having enjoyed a slightly
-lessened sleep.  He had scarcely spoken to anybody
+lessened [[Sleep|sleep]].  He had scarcely spoken to anybody
 until he spoke to the cultured crowd at Ivywood.  He
 did not wish to speak to anyone for many hours yet.
 His ideas were racing.  He had thrown on a fur
 coat over his velvet jacket, but he let it fly open, having
 long forgotten the coldness in the splendour of the
-moonstruck night.  He realised only two things: the
+moonstruck [[Night|night]].  He realised only two things: the
 swiftness of his car and the swiftness of his thoughts.
 He felt, as it were, a fury of omniscience; he seemed
 flying with every bird that sped or spun above the
@@ -5906,26 +5906,26 @@ suddenly squaring his shoulders, jarringly stopped the
 wheels.  Dorian Wimpole had just seen something in
 the clear moonlight by the roadside, which appealed
 both to this and to the other side of his tradition;
-something that appealed to Wimpole as well as to
+something that appealed to Wimpole as [[Well|well]] as to
 Dorian.
 
 Two shabby looking men, one in tattered gaiters and
 the other in what looked like the remains of fancy
 dress with the addition of hair, of so wild a red that it
 looked like a wig, were halted under the hedge, apparently
-loading a donkey cart.  At least two rounded,
+loading a [[donkey]] cart.  At least two rounded,
 rudely cylindrical objects, looking more or less like
-tubs, stood out in the road beside the wheels, along
+tubs, stood out in the [[Road|road]] beside the wheels, along
 with a sort of loose wooden post that lay along the
-road beside them.  As a matter of fact, the man in
+[[Road|road]] beside them.  As a matter of fact, the man in
 the old gaiters had just been feeding and watering
-the donkey, and was now adjusting its harness more
+the [[donkey]], and was now adjusting its harness more
 easily.  But Dorian Wimpole naturally did not expect
 that sort of thing from that sort of man.  There
 swelled up in him the sense that his omnipotence went
 beyond the poetical; that he was a gentleman, a magistrate,
 an M.P. and J.P., and so on.  This callousness
-or ignorance about animals should not go on while
+or ignorance about [[Animals|animals]] should not go on while
 he was a J.P.; especially since Ivywood's last Act.  He
 simply strode across to the stationary cart and said:
 
@@ -5933,29 +5933,29 @@ simply strode across to the stationary cart and said:
 And you must come with me to the police station."
 
 Humphrey Pump, who was very considerate to
-animals, and had always tried to be considerate to
+[[Animals|animals]], and had always tried to be considerate to
 gentlemen, in spite of having put a bullet into one of their
 legs, was simply too astounded and distressed to make
 any answer at all.  He moved a step or two backward
 and stared with brown, blinking eyes at the poet, the
-donkey, the cask, the cheese, and the sign-board lying
-in the road.
+[[donkey]], the cask, the [[cheese]], and the sign-board lying
+in the [[Road|road]].
 
 But Captain Dalroy, with the quicker recovery of
 his national temperament, swept the poet and
 magistrate a vast fantastic bow and said with agreeable
-impudence, "interested in donkeys, no doubt?"
+impudence, "interested in donkeys, no [[Doubt|doubt]]?"
 
 "I am interested in all things men forget," answered
-the poet, with a fine touch of pride, "but mostly in
+the poet, with a fine touch of [[Pride|pride]], "but mostly in
 those like this, that are most easily forgotten."
 
 Somehow from those two first sentences Pump
 realised that these two eccentric aristocrats had
 unconsciously recognised each other.  The fact that it
 was unconscious seemed, somehow, to exclude him all
-the more.  He stirred a little the moonlit dust of the
-road with his rather dilapidated boots and eventually
+the more.  He stirred a little the moonlit [[Dust|dust]] of the
+[[Road|road]] with his rather dilapidated boots and eventually
 strolled across to speak to the chauffeur.
 
 "Is the next police station far from here?" he asked.
@@ -5977,10 +5977,10 @@ that the arm was shaking.  He understood his countrymen
 enough to know that whatever he said he must
 say in a careless manner.
 
-"I hope it's nearer to your place.  You must be a
+"I [[Hope|hope]] it's nearer to your place.  You must be a
 bit done up."
 
-"Oh hell!" said the driver and spat on the road.
+"Oh hell!" said the driver and spat on the [[Road|road]].
 
 Pump was sympathetically silent, and Mr. Wimpole's
 chauffeur broke out incoherently, as if in another
@@ -5997,14 +5997,14 @@ serious voice, "that you've had no food today?"
 "Ow no!" replied the cockney, with the irony of the
 deathbed.  "Ow, of course not."
 
-Pump strolled back into the road again, picked up
-the cheese in his left hand, and landed it on the seat
+Pump strolled back into the [[Road|road]] again, picked up
+the [[cheese]] in his left hand, and landed it on the seat
 beside the driver.  Then his right hand went to one
 of his large loose equivocal pockets, and the blade of a
 big jack-knife caught and recaught the steady splendours
-of the moon.
+of the [[Moon|moon]].
 
-The driver stared for several instants at the cheese,
+The driver stared for several instants at the [[cheese]],
 with the knife shaking in his hand.  Then he began
 to hack it, and in that white witchlike light the
 happiness of his face was almost horrible.
@@ -6013,38 +6013,38 @@ Pump was wise in all such things, and knew that
 just as a little food will sometimes prevent sheer
 intoxication, so a little stimulant will sometimes prevent
 sudden and dangerous indigestion.  It was practically
-impossible to make the man stop eating cheese.  It was
+impossible to make the man stop eating [[cheese]].  It was
 far better to give him a very little of the rum,
 especially as it was very good rum, and better than
 anything he could find in any of the public-houses that
-were still permitted.  He walked across the road again
+were still permitted.  He walked across the [[Road|road]] again
 and picked up the small cask, which he put on the other
-side of the cheese and from which he filled, in his own
+side of the [[cheese]] and from which he filled, in his own
 manner, the little cup he carried in his pocket.
 
 But at the sight of this the cockney's eyes lit at once
-with terror and desire.
+with terror and [[Desire|desire]].
 
 "But yer cawnt do it," he whispered hoarsely, "its
 the pleece.  It's gile for that, with no doctor's letter
 nor sign-board nor nothink."
 
 Mr. Humphrey Pump made yet another march back
-into the road.  When he got there he hesitated for
-the first time, but it was quite clear from the attitude
+into the [[Road|road]].  When he got there he hesitated for
+the first [[Time|time]], but it was quite clear from the attitude
 of the two insane aristocrats who were arguing and
-posturing in the road that they would notice nothing
+posturing in the [[Road|road]] that they would notice nothing
 except each other.  He picked the loose post off the
-road and brought it to the car, humorously propping
-it erect in the aperture between keg and cheese.
+[[Road|road]] and brought it to the car, humorously propping
+it erect in the aperture between keg and [[cheese]].
 
 The little glass of rum was wavering in the poor
 chauffeur's hand exactly as the big knife had done,
 but when he looked up and actually saw the wooden
 sign above him, he seemed not so much to pluck up
-his courage, but rather to drag up some forgotten
-courage from the foundations of some unfathomable
-sea.  It was indeed the forgotten courage of the people.
+his [[Courage|courage]], but rather to drag up some forgotten
+[[Courage|courage]] from the foundations of some unfathomable
+sea.  It was indeed the forgotten [[Courage|courage]] of the people.
 
 He looked once at the bleak, black pinewoods around
 him and took the mouthful of golden liquid at a gulp,
@@ -6052,7 +6052,7 @@ as if it were a fairy potion.  He sat silent; and then,
 very slowly, a sort of stony glitter began to come into
 his eyes.  The brown and vigilant eyes of Humphrey
 Pump were studying him with some anxiety or even
-fear.  He did look rather like a man enchanted or
+[[Fear|fear]].  He did look rather like a man enchanted or
 turned to stone.  But he spoke very suddenly.
 
 "The blighter!" he said.  "I'll give 'im 'ell.  I'll give
@@ -6066,7 +6066,7 @@ composure, "I'll give 'im a little dornkey."
 
 Mr. Pump looked troubled.  "Do you think," he
 observed, affecting to speak lightly, "that he's fit to
-be trusted even with a little donkey?"
+be trusted even with a little [[donkey]]?"
 
 "Ow, yes," said the man.  "He's very amiable with
 donkeys, and donkeys we is to be amiable with 'im."
@@ -6076,14 +6076,14 @@ affecting not to follow his meaning.  Then he looked
 equally anxiously across at the other two men; but
 they were still talking.  Different as they were in
 every other way, they were of the sort who forget
-everything, class, quarrel, time, place and physical
+everything, class, quarrel, [[Time|time]], place and physical
 facts in front of them, in the lust of lucid explanation
 and equal argument.
 
 Thus, when the Captain began by lightly alluding
-to the fact that after all it was his donkey, since he
+to the fact that after all it was his [[donkey]], since he
 had bought it from a tinker for a just price, the police
-station practically vanished from Wimpole's mind--and I fear the donkey-cart also.  Nothing remained
+station practically vanished from Wimpole's mind--and I [[Fear|fear]] the [[donkey]]-cart also.  Nothing remained
 but the necessity of dissipating the superstition of
 personal property.
 
@@ -6097,7 +6097,7 @@ cosmos."
 car serve the higher purposes of the cosmos?"
 
 "It helps me," said Mr. Wimpole, with honourable
-simplicity, "to produce my poems."
+simplicity, "to produce my [[Poems|poems]]."
 
 "And if it could be used for some higher purpose
 (if such a thing could be), if some new purpose had
@@ -6106,7 +6106,7 @@ other, "I suppose it would cease to be your property."
 
 "Certainly," replied the dignified Dorian.  "I should
 not complain.  Nor have you any title to complain
-when the donkey ceases to be yours when you depress
+when the [[donkey]] ceases to be yours when you depress
 it in the cosmic scale."
 
 "What makes you think," asked Dalroy, "that I
@@ -6118,48 +6118,48 @@ Captain had once repeated his playful gesture of
 putting his large leg across).  "Is not that so?"
 
 "No," answered the Captain, innocently, "I never
-ride on a donkey.  I'm afraid of it."
+ride on a [[donkey]].  I'm afraid of it."
 
-"Afraid of a donkey!" cried Wimpole, incredulously.
+"Afraid of a [[donkey]]!" cried Wimpole, incredulously.
 
 "Afraid of an historical comparison," said Dalroy.
 
 There was a short pause, and Wimpole said coolly
-enough, "Oh, well, we've outlived those comparisons."
+enough, "Oh, [[Well|well]], we've outlived those comparisons."
 
 "Easily," answered the Irish Captain.  "It is
 wonderful how easily one outlives someone else's
 crucifixion."
 
 "In this case," said the other grimly, "I think it is
-the donkey's crucifixion."
+the [[donkey]]'s crucifixion."
 
 "Why, you must have drawn that old Roman
-caricature of the crucified donkey," said Patrick Dalroy,
-with an air of some wonder.  "How well you have
-worn; why, you look quite young!  Well, of course,
-if this donkey is crucified, he must be uncrucified.  But
+caricature of the crucified [[donkey]]," said Patrick Dalroy,
+with an air of some [[Wonder|wonder]].  "How [[Well|well]] you have
+worn; why, you look quite young!  [[Well]], of course,
+if this [[donkey]] is crucified, he must be uncrucified.  But
 are you quite sure," he added, very gravely, "that you
-know how to uncrucify a donkey?  I assure you it's
+know how to uncrucify a [[donkey]]?  I assure you it's
 one of the rarest of human arts.  All a matter of
 knack.  It's like the doctors with the rare diseases,
 you know; the necessity so seldom arises.  Granted
 that, by the higher purposes of the cosmos, I am unfit
-to look after this donkey, I must still feel a faint
+to look after this [[donkey]], I must still feel a faint
 shiver of responsibility in passing him on to you.  Will
-you understand this donkey?  He is a delicate-minded
-donkey.  He is a complex donkey.  How can I be
+you understand this [[donkey]]?  He is a delicate-minded
+[[donkey]].  He is a complex [[donkey]].  How can I be
 certain that, on so short an acquaintance, you will
 understand every shade of his little likes and dislikes?"
 
-The dog Quoodle, who had been sitting as still as
-the sphinx under the shadow of the pine trees, waddled
-out for an instant into the middle of the road and then
+The dog [[quoodle|Quoodle]], who had been sitting as still as
+[[The Sphinx|the sphinx]] under the [[Shadow|shadow]] of the pine trees, waddled
+out for an instant into the middle of the [[Road|road]] and then
 returned.  He ran out when a slight noise as of
 rotatory grinding was heard; and ran back when it had
 ceased.  But Dorian Wimpole was much too keen
 on his philosophical discovery to notice either dog or
-wheel.
+[[Wheel|wheel]].
 
 "I shall not sit on its back, anyhow," he said proudly,
 "but if that were all it would be a small matter.  It
@@ -6179,7 +6179,7 @@ people.  I don't suppose you've met them; but they
 always think that anybody with less than two hundred
 a year is drunk and very cruel, and that anybody with
 more than two thousand a year is conducting the Day
-of Judgment.  If you will keep our dear donkey from
+of Judgment.  If you will keep our dear [[donkey]] from
 the society of such persons--Hullo!  Hullo!  Hullo!"
 
 He turned in genuine disturbance, and dashed after
@@ -6188,30 +6188,30 @@ jumped inside.  The Captain jumped in after the dog,
 to pull him out again.  But before he could do so, he
 found the car was flying along too fast for any such
 leap.  He looked up and saw the sign of "The Old
-Ship" erect in the front like a rigid banner; and Pump,
-with his cask and cheese, sitting solidly beside the
+[[Ship]]" erect in the front like a rigid banner; and Pump,
+with his cask and [[cheese]], sitting solidly beside the
 driver.
 
 The thing was more of an earthquake and transformation
 to him even than to any of the others; but
-he rose waveringly to his feet and shouted out to
+he [[Rose|rose]] waveringly to his feet and shouted out to
 Wimpole.
 
 "You've left it in the right hands.  I've never been
 cruel to a motor."
 
-In the moonlight of the magic pine-wood far behind,
-Dorian and the donkey were left looking at each other.
+In the moonlight of the [[Magic|magic]] pine-wood far behind,
+Dorian and the [[donkey]] were left looking at each other.
 
 To the mystical mind, when it is a mind at all
 (which is by no means always the case), there are no
 two things more impressive and symbolical than a
-poet and a donkey.  And the donkey was a very
-genuine donkey, and the poet was a very genuine poet;
+poet and a [[donkey]].  And the [[donkey]] was a very
+genuine [[donkey]], and the poet was a very genuine poet;
 however lawfully he might be mistaken for the other
-animal at times.  The interest of the donkey in the poet
+animal at times.  The interest of the [[donkey]] in the poet
 will never be known.  The interest of the poet in the
-donkey was perfectly genuine; and survived even that
+[[donkey]] was perfectly genuine; and survived even that
 appalling private interview in the owlish secrecy of
 the woods.
 
@@ -6219,21 +6219,21 @@ But I think even the poet would have been enlightened
 if he had seen the white, set, frantic face of the
 man on the driver's seat of his vanishing motor.  If
 he had seen it he might have remembered the name, or,
-perhaps, even begun to understand the nature of a
-certain animal which is neither the donkey nor the
+perhaps, even begun to understand the [[Nature|nature]] of a
+certain animal which is neither the [[donkey]] nor the
 oyster; but the creature whom man has always found
 it easiest to forget, since the hour he forgot God in a
-Garden.
+[[Garden]].
 
 * * *
 
 CHAPTER XV
 
-THE SONGS OF THE CAR CLUB
+THE [[songs|SONGS]] OF THE CAR CLUB
 
 MORE than once as the car flew through black and
 silver fairylands of fir wood and pine wood, Dalroy
-put his head out of the side window and remonstrated
+put his head out of the side [[Window|window]] and remonstrated
 with the chauffeur without effect.  He was reduced
 at last to asking him where he was going.
 
@@ -6255,7 +6255,7 @@ and he's left behind with nothing to eat, so to speak."
 stinker eat 'is dornkey, with thistle sauce.  'E would
 if 'e was as 'ollow as I was."
 
-Humphrey Pump opened the glass window that
+Humphrey Pump opened the glass [[Window|window]] that
 separated him from the rear part of the car, and turned
 to speak to his friend over his square elbow and
 shoulder.
@@ -6266,25 +6266,25 @@ just yet.  He's as mad as Moody's aunt, as they say."
 "Do they say it?" asked the Captain, with a sort of
 anxiety.  "They never said it in Ithaca."
 
-"Honestly, I think you'd better leave him alone,"
+"Honestly, I think you'd better leave him [[Alone|alone]],"
 answered Pump, with his sagacious face.  "He'd just
 run us into a Scotch Express like Dandy Mutton did,
 when they said he was driving carelessly.  We can
 send the car back to Ivywood somehow later on, and
 really, I don't think it'll do the gentleman any harm to
-spend a night with a donkey.  The donkey might teach
+spend a [[Night|night]] with a [[donkey]].  The [[donkey]] might teach
 him something, I tell you."
 
 "It's true he denied the Principle of Private Property,"
 said Dalroy, reflectively, "but I fancy he was
-thinking of a plain house fixed on the ground.  A
-house on wheels, such as this, he might perhaps think
+thinking of a plain [[house]] fixed on the ground.  A
+[[house]] on wheels, such as this, he might perhaps think
 a more permanent possession.  But I never understand
 it;" and again he passed a weary palm across his open
 forehead.  "Have you ever noticed, Hump, what is
 really odd about those people?"
 
-The car shot on amid the comfortable silence of
+The car shot on amid the comfortable [[Silence|silence]] of
 Pump, and then the Irishman said again:
 
 "That poet in the pussy-cat clothes wasn't half bad.
@@ -6301,26 +6301,26 @@ to other men.  Go and dine with a temperance millionaire
 and you won't find he's abolished the _hors
 d'oeuvres_ or the five courses or even the coffee.  What
 he's abolished is the port and sherry, because poor
-men like that as well as rich.  Go a step farther, and
+men like that as [[Well|well]] as rich.  Go a step farther, and
 you won't find he's abolished the fine silver forks and
 spoons, but he's abolished the meat, because poor men
 like meat--when they can get it.  Go a step farther,
 and you won't find he goes without gardens or gorgeous
 rooms, which poor men can't enjoy at all.  But
-you will find he boasts of early rising, because sleep
+you will find he boasts of early rising, because [[Sleep|sleep]]
 is a thing poor men can still enjoy.  About the only
 thing they can still enjoy.  Nobody ever heard of a
 modern philanthropist giving up petrol or typewriting
 or troops of servants.  No, no!  What he gives
 up must be some simple and universal thing.  He will
-give up beef or beer or sleep--because these pleasures
+give up beef or beer or [[Sleep|sleep]]--because these pleasures
 remind him that he is only a man."
 
 Humphrey Pump nodded, but still answered nothing;
 and the voice of the sprawling Dalroy took one
 of its upward turns of a sort of soaring flippancy;
 which commonly embodied itself in remembering some
-song he had composed.
+[[Song|song]] he had composed.
 
 "Such," he said, "was the case of the late Mr.
 Mandragon, so long popular in English aristocratic society
@@ -6335,7 +6335,7 @@ incautiously landing on American soil.
  He ordered his lunch by megaphone in manly, simple tones,
  And used all his motors for canvassing voters, and twenty
     telephones;
-  Besides a dandy little machine,
+  Besides a dandy little [[Machine|machine]],
   Cunning and neat as ever was seen,
   With a hundred pulleys and cranks between,
   Made of iron and kept quite clean,
@@ -6353,7 +6353,7 @@ And wash him and brush him and shave him and dress him
   A Tiger Skin, all striped and specked,
   And a Peacock Hat with the tail erect,
   A scarlet tunic with sunflowers decked--  That might have had a more marked effect,
- And pleased the pride of a weaker man that yearned for
+ And pleased the [[Pride|pride]] of a weaker man that yearned for
     wine or wife;
  But fame and the flagon for Mr. Mandragon obscured the
     Simple Life.
@@ -6362,25 +6362,25 @@ And wash him and brush him and shave him and dress him
  He enjoyed a quiet funeral in a crematorium shed,
  And he lies there fluffy and soft and grey and certainly
     quite refined,
- When he might have rotted to flowers and fruit with Adam
+ When he might have rotted to [[Flowers|flowers]] and fruit with Adam
     and all mankind.
-  Or been eaten by bears that fancy blood,
+  Or been eaten by bears that fancy [[Blood|blood]],
   Or burnt on a big tall tower of wood,
   In a towering flame as a heathen should,
   Or even sat with us here at food,
- Merrily taking twopenny rum and cheese with a pocket
+ Merrily taking twopenny rum and [[cheese]] with a pocket
     knife,
  But these were luxuries lost for him that lived for the
     Simple Life."
 
 Mr. Pump had made many attempts to arrest this
-song, but they were as vain as all attempts to arrest
+[[Song|song]], but they were as vain as all attempts to arrest
 the car.  The angry chauffeur seemed, indeed, rather
 inspired to further energy by the violent vocal noises
 behind; and Pump again found it best to fall back on
 conversation.
 
-"Well, Captain," he said, amicably.  "I can't quite
+"[[Well]], Captain," he said, amicably.  "I can't quite
 agree with you about those things.  Of course, you
 can trust foreigners too much as poor Thompson did;
 but then you can go too far the other way.  Aunt
@@ -6393,24 +6393,24 @@ foreign chaps.  Take these Americans, now!  There
 were many Americans went by Pebblewick, you may
 suppose.  But in all the lot there was never a bad lot;
 never a nasty American, nor a stupid American--nor,
-well, never an American that I didn't rather like."
+[[Well|well]], never an American that I didn't rather like."
 
 "I know," said Dalroy, "you mean there was never
-an American who did not appreciate 'The Old Ship.'"
+an American who did not appreciate 'The Old [[Ship]].'"
 
 "I suppose I do mean that," answered the inn-keeper,
-"and somehow, I feel 'The Old Ship' might appreciate
+"and somehow, I feel 'The Old [[Ship]]' might appreciate
 the American too."
 
 "You English are an extraordinary lot," said the
 Irishman, with a sudden and sombre quietude.  "I
 sometimes feel you may pull through after all."
 
-After another silence he said, "You're always right,
+After another [[Silence|silence]] he said, "You're always right,
 Hump, and one oughtn't to think of Yankees like
 that.  The rich are the scum of the earth in every
 country.  And a vast proportion of the real Americans
-are among the most courteous, intelligent, self-respecting
+are among the most courteous, intelligent, [[Self|self]]-respecting
 people in the world.  Some attribute this to the
 fact that a vast proportion of the real Americans are
 Irishmen."
@@ -6425,14 +6425,14 @@ in the matter of nationality.  I shouldn't like to have
 to write the American National Anthem, but fortunately
 there is no great probability of the commission
 being given.  The shameful secret of my inability to
-write an American patriotic song is one that will die
+write an American patriotic [[Song|song]] is one that will die
 with me."
 
-"Well, what about an English one," said Pump,
+"[[Well]], what about an English one," said Pump,
 sturdily.  "You might do worse, Captain."
 
-"English, you bloody tyrant," said Patrick, indignantly.
-"I could no more fancy a song by an Englishman
+"English, you bloody [[Tyrant|tyrant]]," said Patrick, indignantly.
+"I could no more fancy a [[Song|song]] by an Englishman
 than you could one by that dog."
 
 Mr. Humphrey Pump gravely took the paper from
@@ -6441,9 +6441,9 @@ sin and desolation of grocers, and felt in another of
 his innumerable pockets for a pencil.
 
 "Hullo," cried Dalroy.  "Are you going to have a
-shy at the Ballad of Quoodle?"
+shy at the Ballad of [[quoodle|Quoodle]]?"
 
-Quoodle lifted his ears at his name.  Mr. Pump
+[[quoodle|Quoodle]] lifted his ears at his name.  Mr. Pump
 smiled a slight and embarrassed smile.  He was
 secretly proud of Dalroy's admiration for his previous
 literary attempts and he had some natural knack for
@@ -6451,12 +6451,12 @@ verse as a game, as he had for all games; and his reading,
 though desultory, had not been merely rustic or low.
 
 "On condition," he said, deprecatingly, "that you
-write a song for the English."
+write a [[Song|song]] for the English."
 
-"Oh, very well," said Patrick, with a huge sigh
+"Oh, very [[Well|well]]," said Patrick, with a huge sigh
 that really indicated the very opposite of reluctance.
 "We must do something till the thing stops, I suppose,
-and this seems a blameless parlour game.  'Songs of
+and this seems a blameless parlour game.  '[[songs|Songs]] of
 the Car Club.'  Sounds quite aristocratic."
 
 And he began to make marks with a pencil on the
@@ -6465,25 +6465,25 @@ _Noctes Ambrosianae_.  Every now and then, however,
 he looked up and delayed his own composition by
 watching Pump and the dog, whose proceedings
 amused him very much.  For the owner of "The Old
-Ship" sat sucking his pencil and looking at Mr. Quoodle
+[[Ship]]" sat sucking his pencil and looking at Mr. [[quoodle|Quoodle]]
 with eyes of fathomless attention.  Every now and
 then he slightly scratched his brown hair with the
-pencil, and wrote down a word.  And the dog Quoodle,
+pencil, and wrote down a word.  And the dog [[quoodle|Quoodle]],
 with that curious canine power of either understanding
 or most brazenly pretending to understand
 what is going on, sat erect with his head at an angle,
 as if he were sitting for his portrait.
 
 Hence it happened that though Pump's poem was a
-little long, as are often the poems of inexperienced
+little long, as are often the [[Poems|poems]] of inexperienced
 poets, and though Dalroy's poem was very short
 (being much hurried toward the end) the long poem
-was finished some time before the short one.
+was finished some [[Time|time]] before the short one.
 
 Therefore it was that there was first produced for
-the world the song more familiarly known as "No
-Noses," or more correctly called "The Song of
-Quoodle."  Part of it ran eventually thus:--
+the world the [[Song|song]] more familiarly known as "No
+Noses," or more correctly called "The [[Song]] of
+[[quoodle|Quoodle]]."  Part of it ran eventually thus:--
 
     "They haven't got no noses
        The fallen sons of Eve,
@@ -6499,24 +6499,24 @@ Quoodle."  Part of it ran eventually thus:--
      Where even the Law of Moses
        Will let you steal a smell;
 
-    "The brilliant smell of water,
+    "The brilliant smell of [[Water|water]],
        The brave smell of a stone,
      The smell of dew and thunder
      And old bones buried under,
      Are things in which they blunder
-       And err, if left alone.
+       And err, if left [[Alone|alone]].
 
-    "The wind from winter forests,
-       The scent of scentless flowers,
+    "The [[Wind|wind]] from [[Winter|winter]] forests,
+       The scent of scentless [[Flowers|flowers]],
      The breath of bride's adorning,
      The smell of snare and warning,
-     The smell of Sunday morning,
+     The smell of [[Sunday]] morning,
        God gave to us for ours."
 
         *  *  *  *  *  *
 
-    "And Quoodle here discloses
-       All things that Quoodle can;
+    "And [[quoodle|Quoodle]] here discloses
+       All things that [[quoodle|Quoodle]] can;
      They haven't got no noses,
      They haven't got no noses,
      And goodness only knowses
@@ -6524,21 +6524,21 @@ Quoodle."  Part of it ran eventually thus:--
 
 This poem also shows traces of haste in its termination,
 and the present editor (who has no aim save
-truth) is bound to confess that parts of it were supplied
+[[Truth|truth]]) is bound to confess that parts of it were supplied
 in the criticisms of the Captain, and even enriched
 (in later and livelier circumstances) by the Poet
-of the Birds himself.  At the actual moment the chief
-features of this realistic song about dogs was a crashing
-chorus of "Bow-wow, wow," begun by Mr. Patrick
+of the [[Birds]] himself.  At the actual moment the chief
+features of this realistic [[Song|song]] about [[dogs]] was a crashing
+[[Chorus|chorus]] of "Bow-wow, wow," begun by Mr. Patrick
 Dalroy; but immediately imitated (much more
-successfully) by Mr. Quoodle.  In the face of all this
+successfully) by Mr. [[quoodle|Quoodle]].  In the face of all this
 Dalroy suffered some real difficulty in fulfilling the
 bargain by reading out his much shorter poem about
 what he imagined an Englishman might feel.  Indeed
 there was something very rough and vague in his
 very voice as he read it out; as of one who had not
 found the key to his problem.  The present compiler
-(who has no aim save truth) must confess that the
+(who has no aim save [[Truth|truth]]) must confess that the
 verses ran as follows:--
 
     "St. George he was for England,
@@ -6562,15 +6562,15 @@ verses ran as follows:--
     "St. George he was for England,
        And shall wear the shield he wore
      When we go out in armour,
-       With the battle-cross before;
+       With the battle-[[Cross|cross]] before;
      But though he is jolly company
        And very pleased to dine,
      It isn't safe to give him nuts
        Unless you give him wine.
 
-"Very philosophical song that," said Dalroy, shaking
+"Very philosophical [[Song|song]] that," said Dalroy, shaking
 his head solemnly, "full of deep thought.  I really
-think that is about the truth of the matter, in the case
+think that is about the [[Truth|truth]] of the matter, in the case
 of the Englishman.  Your enemies say you're stupid,
 and you boast of being illogical--which is about the
 only thing you do that really is stupid.  As if anybody
@@ -6580,7 +6580,7 @@ stronger for _not_ understanding anything--if it were
 only tip-cat or chemistry.  But this _is_ true about you
 Hump.  You English are supremely an artistic people,
 and therefore you go by associations, as I said in my
-song.  You won't have one thing without the other
+[[Song|song]].  You won't have one thing without the other
 thing that goes with it.  And as you can't imagine a
 village without a squire and parson, or a college
 without port and old oak, you get the reputation of a
@@ -6592,8 +6592,8 @@ I tell ye, Hump, every real revolution is a compromise.
 D'ye think Wolfe Tone or Charles Stuart Parnell
 never compromised?  But it's just because you're
 afraid of a compromise that you won't have a revolution.
-If you really overhauled 'The Old Ship'--or
-Oxford--you'd have to make up your mind what to
+If you really overhauled 'The Old [[Ship]]'--or
+[[Oxford]]--you'd have to make up your mind what to
 take and what to leave, and it would break your heart,
 Humphrey Pump."
 
@@ -6610,10 +6610,10 @@ thousand times to be living under the thousand paper
 constitutions of Condorcet and Sieyès.  When the
 English oligarchy is run by an Englishman who hasn't
 got an English mind--then you have Lord Ivywood
-and all this nightmare, of which God could only guess
+and all this [[nightmare]], of which God could only guess
 the end."
 
-The car had beaten some roods of dust behind it,
+The car had beaten some roods of [[Dust|dust]] behind it,
 and he ended still more darkly:
 
 "And the other disadvantage, my amiable aesthete,
@@ -6637,7 +6637,7 @@ direction.
 
 White morning lay about the grey stony streets
 like spilt milk.  A few proletarian early risers,
-wearier at morning than most men at night, seemed merely
+wearier at morning than most men at [[Night|night]], seemed merely
 of opinion that it was no use crying over it.  The two
 or three last houses, which looked almost too tired to
 stand upright, seemed to have moved the Captain into
@@ -6648,12 +6648,12 @@ knows--or must have thought of.  There are those
 who idealize the real and those who (precious seldom)
 realise the ideal.  Artistic and poetical people like the
 English generally idealize the real.  This I have
-expressed in a song, which--"
+expressed in a [[Song|song]], which--"
 
 "No, really," protested the innkeeper, "really now,
 Captain--"
 
-"This I have expressed in a song," repeated Dalroy,
+"This I have expressed in a [[Song|song]]," repeated Dalroy,
 in an adamantine manner, "which I will now sing with
 every circumstance of leisure, loudness, or any
 other--"
@@ -6662,8 +6662,8 @@ He stopped because the flying universe seemed to
 stop.  Charging hedgerows came to a halt, as if
 challenged by the bugle.  The racing forests stood rigid.
 The last few tottering houses stood suddenly at
-attention.  For a noise like a pistol-shot from the car
-itself had stopped all that race, as a pistol-shot might
+attention.  For a noise like a [[Pistol|pistol]]-shot from the car
+itself had stopped all that race, as a [[Pistol|pistol]]-shot might
 start any other.
 
 The driver clambered out very slowly, and stood
@@ -6690,33 +6690,33 @@ at all."
 "Getting back," repeated Dalroy, opening the blue
 eyes of a bull.  "Back where?"
 
-"Well, yer see," said the chauffeur, reasonably, "I
+"[[Well]], yer see," said the chauffeur, reasonably, "I
 was bloody keen to show 'im it was me drove the car
 and not 'im.  By a bit o' bad luck, I done damage to
-'is car.  Well--if _you_ can stick in 'is car--"
+'is car.  [[Well]]--if _you_ can stick in 'is car--"
 
 Captain Patrick Dalroy sprang out of the car so
 rapidly that he almost reeled and slipped upon the
-road.  The dog sprang after him, barking furiously.
+[[Road|road]].  The dog sprang after him, barking furiously.
 
 "Hump," said Patrick, quietly.  "I've found out
 everything about you.  I know what always bothered
 me about the Englishman."
 
-Then, after an instant's silence, he said, "That
+Then, after an instant's [[Silence|silence]], he said, "That
 Frenchman was right who said (I forget how he put
 it) that you march to Trafalgar Square to rid yourself
-of your temper; not to rid yourself of your tyrant.
-Our friend was quite ready to rebel, rushing away.
-To rebel sitting still was too much for him.  Do you
+of your temper; not to rid yourself of your [[Tyrant|tyrant]].
+Our friend was quite ready to [[Rebel|rebel]], rushing away.
+To [[Rebel|rebel]] sitting still was too much for him.  Do you
 read _Punch_?  I am sure you do.  Pump and _Punch_
 must be almost the only survivors of the Victorian
 Age.  Do you remember an old joke in an excellent
 picture, representing two ragged Irishmen with guns,
 waiting behind a stone wall to shoot a landlord?  One
 of the Irishmen says the landlord is late, and adds, 'I
-hope no accident's happened to the poor gentleman.'
-Well, it's all perfectly true; I knew that Irishman
+[[Hope|hope]] no accident's happened to the poor gentleman.'
+[[Well]], it's all perfectly true; I knew that Irishman
 intimately, but I want to tell you a secret about him.
 He was an Englishman."
 
@@ -6746,13 +6746,13 @@ a bundle over his arm.  Least of all would any
 motorist, however tall, have said to him from behind the
 cap and goggles, "Put on these things, Hump, and
 then we'll go into the milk shop.  I'm waiting for the
-car.  Which car, my seeker after truth?  Why the car
+car.  Which car, my seeker after [[Truth|truth]]?  Why the car
 I'm going to buy for you to drive."
 
 The remorseful chauffeur, after many adventures,
 did actually find his way back to the little moonlit
-wood where he had left his master and the donkey.
-But his master and the donkey had vanished.
+wood where he had left his master and the [[donkey]].
+But his master and the [[donkey]] had vanished.
 
 * * *
 
@@ -6760,32 +6760,32 @@ CHAPTER XVI
 
 THE SEVEN MOODS OF DORIAN
 
-THAT timeless clock of all lunatics, which was so
-bright in the sky that night, may really have had some
+THAT timeless [[Clock|clock]] of all lunatics, which was so
+bright in the sky that [[Night|night]], may really have had some
 elfin luck about it, like a silver penny.  Not only had
 it initiated Mr. Hibbs into the mysteries of Dionysius,
 and Mr. Bullrose into the arboreal habits of his
-ancestors, but one night of it made a very considerable
+ancestors, but one [[Night|night]] of it made a very considerable
 and rather valuable change in Mr. Dorian Wimpole,
-the Poet of the Birds.  He was a man neither foolish
+the Poet of the [[Birds]].  He was a man neither foolish
 nor evil, any more than Shelley; only a man made
 sterile by living in a world of indirectness and
 insincerity, with words rather than with things.  He had
 not had the smallest intention of starving his chauffeur;
 he did not realise that there was worse spiritual
 murder in merely forgetting him.  But as hour after
-hour passed over him, alone with the donkey and the
-moon, he went through a raging and shifting series
+hour passed over him, [[Alone|alone]] with the [[donkey]] and the
+[[Moon|moon]], he went through a raging and shifting series
 of frames of mind, such as his cultured friends would
 have described as moods.
 
 The First Mood, I regret to say, was one of black
 and grinding hatred.  He had no notion of the chauffeur's
 grievance, and could only suppose he had been
-bribed or intimidated by the demonic donkey-torturers.  But Mr. Wimpole was much more capable at
+bribed or intimidated by the demonic [[donkey]]-torturers.  But Mr. Wimpole was much more capable at
 that moment of torturing a chauffeur than Mr. Pump
-had ever been of torturing a donkey; for no sane man
-can hate an animal.  He kicked the stones in the road,
+had ever been of torturing a [[donkey]]; for no sane man
+can hate an animal.  He kicked the stones in the [[Road|road]],
 sending them flying into the forest, and wished that
 each one of them was a chauffeur.  The bracken by
 the roadside he tore up by the roots, as representing
@@ -6804,13 +6804,13 @@ in what he would have called the cosmic scale.  The
 next best thing to really loving a fellow creature is
 really hating him: especially when he is a poorer man
 separated from you otherwise by mere social stiffness.
-The desire to murder him is at least an acknowledgment
+The [[Desire|desire]] to murder him is at least an acknowledgment
 that he is alive.  Many a man has owed the first
-white gleams of the dawn of Democracy in his soul
-to a desire to find a stick and beat the butler.  And we
+white gleams of the [[Dawn|dawn]] of [[democracy|Democracy]] in his [[Soul|soul]]
+to a [[Desire|desire]] to find a stick and beat the butler.  And we
 have it on the unimpeachable local authority of Mr.
 Humphrey Pump that Squire Merriman chased his
-librarian through three villages with a horse-pistol; and
+librarian through three villages with a [[Horse|horse]]-[[Pistol|pistol]]; and
 was a Radical ever after.
 
 His rage also did him good merely as a relief, and
@@ -6818,35 +6818,35 @@ he soon passed into a second and more positive mood
 of meditation.
 
 "The damnable monkeys go on like this," he muttered,
-"and then they call a donkey one of the Lower
-Animals.  Ride on a donkey would he?  I'd like to see
-the donkey riding on him for a bit.  Good old man."
+"and then they call a [[donkey]] one of the Lower
+[[Animals]].  Ride on a [[donkey]] would he?  I'd like to see
+the [[donkey]] riding on him for a bit.  Good old man."
 
 The patient ass turned mild eyes on him when he
 patted it, and Dorian Wimpole discovered, with a
 sort of subconscious surprise, that he really was fond
-of the donkey.  Deeper still in his subliminal self he
+of the [[donkey]].  Deeper still in his subliminal [[Self|self]] he
 knew that he had never been fond of an animal before.
-His poems about fantastic creatures had been quite
+His [[Poems|poems]] about fantastic creatures had been quite
 sincere, and quite cold.  When he said he loved a
 shark, he meant he saw no reason for hating a shark,
 which was right enough.  There is no reason for
 hating a shark, however much reason there may be for
 avoiding one.  There is no harm in a craken if you
-keep it in a tank--or in a sonnet.
+keep it in a tank--or in a [[Sonnet|sonnet]].
 
-But he also realised that his love of creatures had
+But he also realised that his [[Love|love]] of creatures had
 been turned round and was working from the other
-end.  The donkey was a companion, and not a
+end.  The [[donkey]] was a companion, and not a
 monstrosity.  It was dear because it was near, not because
 it was distant.  The oyster had attracted him because
 it was utterly unlike a man; unless it be counted a
-touch of masculine vanity to grow a beard.  The
+touch of masculine [[Vanity|vanity]] to grow a beard.  The
 fancy is no idler than that he had himself used, in
-suggesting a sort of feminine vanity in the permanence
+suggesting a sort of feminine [[Vanity|vanity]] in the permanence
 of a pearl.  But in that maddening vigil among
 the mystic pines, he found himself more and more
-drawn toward the donkey, because it was more like
+drawn toward the [[donkey]], because it was more like
 a man than anything else around him; because it had
 eyes to see, and ears to hear--and the latter even
 unduly developed.
@@ -6862,16 +6862,16 @@ caught himself wondering how a caress from an oyster
 could be managed.  Everything else around him was
 beautiful, but inhuman.  Only in the first glory of
 anger could he really trace in a tall pine-tree the
-features of an ex-taxi-cabman from Kennington.  Trees
+features of an ex-taxi-[[cabman]] from Kennington.  Trees
 and ferns had no living ears that they could wag nor
 mild eyes that they could move.  He patted the
-donkey again.
+[[donkey]] again.
 
-But the donkey had reconciled him to the landscape,
+But the [[donkey]] had reconciled him to the landscape,
 and in his third mood he began to realise how beautiful
 it was.  On a second study, he was not sure it was
-so inhuman.  Rather he felt that its beauty at least
-was half human; that the aureole of the sinking moon
+so inhuman.  Rather he felt that its [[Beauty|beauty]] at least
+was half human; that the aureole of the sinking [[Moon|moon]]
 behind the woods was chiefly lovely because it was
 like the tender-coloured aureole of an early saint;
 and that the young trees were, after all, noble because
@@ -6879,20 +6879,20 @@ they held up their heads like virgins.  Cloudily there
 crowded into his mind ideas with which it was imperfectly
 familiar, especially an idea which he had heard
 called "The Image of God."  It seemed to him more
-and more that all these things, from the donkey to the
+and more that all these things, from the [[donkey]] to the
 very docks and ferns by the roadside, were dignified
 and sanctified by their partial resemblance to
 something else.  It was as if they were baby drawings:
-the wild, crude sketches of Nature in her first sketch-books of stone.
+the wild, crude sketches of [[Nature]] in her first [[Sketch|sketch]]-books of stone.
 
 He had flung himself on a pile of pine-needles to
 enjoy the gathering darkness of the pinewoods as the
-moon sank behind them.  There is nothing more deep
+[[Moon|moon]] sank behind them.  There is nothing more deep
 and wonderful than really impenetrable pinewoods
 where the nearer trees show against the more shadowy;
 a tracery of silver upon grey and of grey upon black.
 
-It was by this time, in pure pleasure and idleness
+It was by this [[Time|time]], in pure pleasure and idleness
 that he picked up a pine-needle to philosophise about
 it.
 
@@ -6900,18 +6900,18 @@ it.
 suppose this is the sort of needle that Eve, in the old
 legend, used in Eden.  Aye, and the old legend was
 right, too!  Think of sitting on all the needles in
-London!  Think of sitting on all the needles in Sheffield!
+[[London]]!  Think of sitting on all the needles in Sheffield!
 Think of sitting on any needles, except on all the
 needles of Paradise!  Oh, yes, the old legend was right
 enough.  The very needles of God are softer than
 the carpets of men."
 
 He took a pleasure in watching the weird little
-forest animals creeping out from under the green
+forest [[Animals|animals]] creeping out from under the green
 curtains of the wood.  He reminded himself that in the
-old legend they had been as tame as the ass, as well
+old legend they had been as tame as the ass, as [[Well|well]]
 as being as comic.  He thought of Adam naming the
-animals, and said to a beetle, "I should call _you_
+[[Animals|animals]], and said to a beetle, "I should call _you_
 Budger."
 
 The slugs gave him great entertainment, and so did
@@ -6925,33 +6925,33 @@ yet he found himself waiting patiently for hours
 for the pleasure of their acquaintance.  One of them
 rather specially arrested his eye, because it was a little
 longer than most worms and seemed to be turning its
-head in the direction of the donkey's left foreleg.
+head in the direction of the [[donkey]]'s left foreleg.
 Also, it had a head to turn, which most worms have
 not.
 
 Dorian Wimpole did not know much about exact
-Natural History, except what he had once got up very
+Natural [[history|History]], except what he had once got up very
 thoroughly from an encyclopaedia for the purposes of
 a sympathetic _vilanelle_.  But as this information was
 entirely concerned with the conjectural causes of
 laughter in the Hyena, it was not directly helpful in
 this case.  But though he did not know much Natural
-History, he knew some.  He knew enough to know
+[[history|History]], he knew some.  He knew enough to know
 that a worm ought not to have a head, and especially
 not a squared and flattened head, shaped like a spade
 or a chisel.  He knew enough to know that a creeping
 thing with a head of that pattern survives in the
 English country sides, though it is not common.  In short,
-he knew enough to step across the road and set a
+he knew enough to step across the [[Road|road]] and set a
 sharp and savage boot-heel on the neck and spine of
 the creature, breaking it into three black bits that
 writhed once more before they stiffened.
 
-Then he gave out a great explosive sigh.  The donkey,
+Then he gave out a great explosive sigh.  The [[donkey]],
 whose leg had been in such danger, looked at the
 dead adder with eyes that had never lost their moony
 mildness.  Even Dorian, himself, looked at it for a
-long time, and with feelings he could neither arrest
+long [[Time|time]], and with feelings he could neither arrest
 nor understand, before he remembered that he had
 been comparing the little wood to Eden.
 
@@ -6970,24 +6970,24 @@ silent but confident, like men that keep a tryst; soon
 its white robes had threads of gold and scarlet: and the
 name of it was morning.
 
-For some time past, loud and in vain, all the birds
-had been singing to the Poet of the Birds.  But when
+For some [[Time|time]] past, loud and in vain, all the [[Birds|birds]]
+had been singing to the Poet of the [[Birds]].  But when
 that minstrel actually saw broad daylight breaking
-over wood and road, the effect on him was somewhat
+over wood and [[Road|road]], the effect on him was somewhat
 curious.  He stood staring at it in gaping astonishment,
 until it had fulfilled the fulness of its shining
 fate; and the pine-cones and the curling ferns and the
-live donkey and the dead viper were almost as distinct
-as they could be at noon, or in a Preraphaelite
+live [[donkey]] and the dead viper were almost as distinct
+as they could be at [[Noon|noon]], or in a Preraphaelite
 picture.  And then the Fourth Mood fell upon him like
 a bolt from the blue, and he strode across and took
-the donkey's bridle, as if to lead it along.
+the [[donkey]]'s bridle, as if to lead it along.
 
 "Damn it all," he cried, in a voice as cheerful as the
 cockcrow that rang recently from the remote village,
 "it's not everybody who's killed a snake."  Then he
 added, reflectively, "I bet Dr. Gluck never did.  Come
-along, donkey, let's have some adventures."
+along, [[donkey]], let's have some adventures."
 
 The finding and fighting of positive evil is the
 beginning of all fun--and even of all farce.  All the
@@ -6998,21 +6998,21 @@ might not untruly be said that he had passed out of
 the mood of Maeterlinck into the mood of Whitman,
 and out of the mood of Whitman into the mood of
 Stevenson.  He had not been a hypocrite when he
-asked for gilded birds of Asia or purple polypi out of
+asked for gilded [[Birds|birds]] of Asia or purple polypi out of
 the Southern Seas; he was not a hypocrite now, when
 he asked for mere comic adventures along a common
-English road.  It was his misfortune and not his
+English [[Road|road]].  It was his misfortune and not his
 fault if his first adventure was his last; and was much
 too comic to laugh at.
 
 Already the wan morning had warmed into a pale
 blue and was spotted with those little plump pink
 clouds which must surely have been the origin of the
-story that pigs might fly.  The insects of the grass
+story that pigs might fly.  The [[Insects|insects]] of the grass
 chattered so cheerfully that every green tongue seemed
 to be talking.  The skyline on every side was broken
 only by objects that encouraged such swashbucklering
-comedy.  There was a windmill that Chaucer's
+[[Comedy|comedy]].  There was a windmill that Chaucer's
 Miller might have inhabited or Cervantes's champion
 charged.  There was an old leaden church spire that
 might have been climbed by Robert Clive.  Away
@@ -7022,12 +7022,12 @@ declares to this day to have been the stands for an
 unsuccessful children's swing; but which tourists
 always accept as the remains of the antique gallows.
 In the gaiety of such surroundings, it is small
-wonder if Dorian and the donkey stepped briskly along
-the road.  The very donkey reminded him of Sancho
+[[Wonder|wonder]] if Dorian and the [[donkey]] stepped briskly along
+the [[Road|road]].  The very [[donkey]] reminded him of Sancho
 Panza.
 
 He did not wake out of this boisterous reverie of
-the white road and the wind till a motor horn had first
+the white [[Road|road]] and the [[Wind|wind]] till a motor horn had first
 hooted and then howled, till the ground had shaken
 with the shock of a stoppage, and till a human hand
 fell heavily and tightly on his shoulder.  He looked
@@ -7036,9 +7036,9 @@ He did not worry about the face.  And there
 fell on him the Fifth, or Unexpected Mood, which is
 called by the vulgar Astonishment.
 
-In despair he looked at the motor car itself that had
+In [[Despair|despair]] he looked at the motor car itself that had
 anchored so abruptly under the opposite hedge.  The
-man at the steering wheel was so erect and unresponsive
+man at the steering [[Wheel|wheel]] was so erect and unresponsive
 that Dorian felt sure he was feasting his eyes on
 yet another policeman.  But on the seat behind was a
 very different figure, a figure that baffled him all the
@@ -7051,7 +7051,7 @@ of which stuck straight up and was exalted, like the
 little horn in his favourite scriptures.  Another tuft of
 it, in a bright but blinding manner, fell across and
 obscured the left optic, as in literal fulfilment of the
-parable of a beam in the eye.  The eyes, with or without
+[[Parable|parable]] of a beam in the eye.  The eyes, with or without
 beams in them, looked a little bewildered, and the
 individual was always nervously resettling his
 necktie.  For the individual went by the name of Hibbs,
@@ -7061,25 +7061,25 @@ wholly new to him.
 "What on earth do you want?" asked Wimpole of
 the policeman.
 
-His innocent and startled face, and perhaps other
+His [[Innocent|innocent]] and startled face, and perhaps other
 things about his appearance, evidently caused the
 Inspector to waver.
 
-"Well, it's about this 'ere donkey, sir," he said.
+"[[Well]], it's about this 'ere [[donkey]], sir," he said.
 
 "Do you think I stole it?" cried the indignant
-aristocrat.  "Well, of all the mad worlds!  A pack of
-thieves steal my Limousine, I save their damned donkey's
+[[aristocrat]].  "[[Well]], of all the mad worlds!  A pack of
+thieves steal my Limousine, I save their damned [[donkey]]'s
 life at the risk of my own--and _I'm_ run in for
 stealing."
 
-The clothes of the indignant aristocrat probably
+The clothes of the indignant [[aristocrat]] probably
 spoke louder than his tongue; the officer dropped his
 hand, and after consulting some papers in his hand,
 walked across to consult with the unkempt gentleman
 in the car.
 
-"That seems to be a similar cart and donkey," Dorian
+"That seems to be a similar cart and [[donkey]]," Dorian
 heard him saying, "but the clothes don't seem to
 fit your description of the men you saw."
 
@@ -7087,10 +7087,10 @@ Now, Mr. Hibbs had extremely vague and wild
 recollections of the men he saw; he could not even
 tell what he had done and what he had merely dreamed.
 If he had spoken sincerely, he would have described
-a sort of green nightmare of forests, in which he
+a sort of green [[nightmare]] of forests, in which he
 found himself in the power of an ogre about twelve
 feet high, with scarlet flames for hair and dressed
-rather like Robin Hood.  But a long course of what is
+rather like [[Robin Hood]].  But a long course of what is
 known as "keeping the party together" had made it as
 unnatural to him to tell anyone (even himself) what
 he really thought about anything, as it would have
@@ -7109,22 +7109,22 @@ uniform."
 intellectually, "when we say _uniform_, of course--we must distinguish some of our friends who don't
 quite see eye to eye with us, you know," and he smiled
 with tender leniency, "some of our friends wouldn't
-like it called a _uniform_ perhaps.  But--of course--well, it wasn't a police uniform, for instance.  Ha!
+like it called a _uniform_ perhaps.  But--of course--[[Well|well]], it wasn't a police uniform, for instance.  Ha!
 Ha!"
 
-"I should hope not," said the official, shortly.
+"I should [[Hope|hope]] not," said the official, shortly.
 
 "So--in a way--however," said Hibbs, clutching
 his verbal talisman at last, "it might be brown velvet
 in the dark."
 
 The Inspector replied to this helpful suggestion with
-some wonder.  "But it was a moon, like limelight," he
+some [[Wonder|wonder]].  "But it was a [[Moon|moon]], like limelight," he
 protested.
 
 "Yars, yars," cried Hibbs, in a high tone that can
 only be described as a hasty drawl.  "Yars--discolours
-everything of course.  The flowers and things--"
+everything of course.  The [[Flowers|flowers]] and things--"
 
 "But look here," said the Inspector, "you said the
 principal man's hair was red."
@@ -7136,12 +7136,12 @@ shook his head and said with the heaviest solemnity
 the word was capable of carrying, "Teutonic, purely
 Teutonic."
 
-The Inspector began to feel some wonder that, even
+The Inspector began to feel some [[Wonder|wonder]] that, even
 in the confusion following on Lord Ivywood's fall, he
 had been put under the guidance of this particular
-guide.  The truth was that Leveson, once more masking
+guide.  The [[Truth|truth]] was that Leveson, once more masking
 his own fears under his usual parade of hurry, had
-found Hibbs at a table by an open window, with wild
+found Hibbs at a table by an open [[Window|window]], with wild
 hair and sleepy eyes, picking himself up with some
 sort of medicine.  Finding him already fairly clear-headed in a dreary way, he had not scrupled to use
 the remains of his bewilderment to despatch him with
@@ -7150,12 +7150,12 @@ semi-recovered drunkard, he thought, could be trusted
 to recognise anyone so unmistakable as the Captain.
 
 But, though the diplomatist's debauch was barely
-over, his strange, soft fear and cunning were awake.
+over, his strange, soft [[Fear|fear]] and cunning were awake.
 He felt fairly certain the man in the fur coat had
 something to do with the mystery, as men with fur coats
 do not commonly wander about with donkeys.  He
 was afraid of offending Lord Ivywood, and at the
-same time, afraid of exposing himself to a policeman.
+same [[Time|time]], afraid of exposing himself to a policeman.
 
 "You have large discretion," he said, gravely.
 "Very right you should have large discretion in the
@@ -7171,33 +7171,33 @@ the distant windmill through half-closed lids,
 as if this were a new fine shade introduced into an
 already delicate question.
 
-"Well, hang it all," said the police officer, "you must
+"[[Well]], hang it all," said the police officer, "you must
 know whether there were two men or one."
 
-Gradually it dawned, in a grey dawn of horror, over
+Gradually it dawned, in a grey [[Dawn|dawn]] of horror, over
 the brain of Hibbs that this was what he specially
 couldn't know.  He had always heard, and read in
-comic papers, that a drunken man "sees double" and
+comic papers, that a drunken man "sees [[Double|double]]" and
 beholds two lamp-posts, one of which is (as the
 Higher Critic would have said) purely subjective.  For
 all he knew (being a mere novice) inebriation might
 produce the impression of the two men of his dream-like
-adventure, when in truth there had only been one.
+adventure, when in [[Truth|truth]] there had only been one.
 
 "Two men, you know--one man," he said with a
-sort of moody carelessness.  "Well we can go into
+sort of moody carelessness.  "[[Well]] we can go into
 their numbers later; they can't have a very large
 following."  Here he shook his head very firmly.  "Quite
 impossible.  And as the late Lord Goschen used to
 say, 'You can prove anything by statistics.'"
 
 And here came an interruption from the other side
-of the road.
+of the [[Road|road]].
 
 "And how long am I to wait here for you and your
-Goschens, you silly goat," were the intemperate wood-notes issuing from the Poet of the Birds.  "I'm shot
-if I'll stand this!  Come along, donkey, and let's pray
-for a better adventure next time.  These are very
+Goschens, you silly goat," were the intemperate wood-notes issuing from the Poet of the [[Birds]].  "I'm shot
+if I'll stand this!  Come along, [[donkey]], and let's pray
+for a better adventure next [[Time|time]].  These are very
 inferior specimens of your own race."
 
 And seizing the bridle of the ass again, he strode
@@ -7208,10 +7208,10 @@ Unfortunately this disdainful dash for liberty was
 precisely what was wanting to weigh down the rocking
 intelligence of the Inspector on the wrong side.
 If Wimpole had stood still a minute or two longer,
-the official, who was no fool, might have ended in
+the official, who was no [[Fool|fool]], might have ended in
 disbelieving Hibbs's story altogether.  As it was, there
 was a scuffle, not without blows on both sides, and
-eventually the Honourable Dorian Wimpole, donkey
+eventually the Honourable Dorian Wimpole, [[donkey]]
 and all, was marched off to the village, in which there
 was a Police Station; in which was a temporary cell;
 in which a Sixth Mood was experienced.
@@ -7219,8 +7219,8 @@ in which a Sixth Mood was experienced.
 His complaints, however, were at once so clamorous
 and so convincing, and his coat was so unquestionably
 covered with fur, that after some questioning
-and cross purposes they agreed to take him in the
-afternoon to Ivywood House, where there was a magistrate
+and [[Cross|cross]] purposes they agreed to take him in the
+afternoon to Ivywood [[house|House]], where there was a magistrate
 incapacitated by a shot only recently extracted
 from his leg.
 
@@ -7239,15 +7239,15 @@ type merely rage.
 
 "I am sorry, Dorian," said Ivywood, when he had
 heard the whole story.  "These fanatics are capable
-of anything, I fear, and you very rightly resent their
+of anything, I [[Fear|fear]], and you very rightly resent their
 stealing your car--"
 
 "You are wrong, Philip," answered the poet, emphatically.
 "I do not even faintly resent their stealing
 my car.  What I do resent is the continued existence
-on God's earth of this Fool" (pointing to the serious
-Hibbs) "and of that Fool" (pointing to the Inspector)
-"and--yes, by thunder, of _that_ Fool, too" (and he
+on God's earth of this [[Fool]]" (pointing to the serious
+Hibbs) "and of that [[Fool]]" (pointing to the Inspector)
+"and--yes, by thunder, of _that_ [[Fool]], too" (and he
 pointed straight at Lord Ivywood).  "And I tell you
 frankly, Philip, if there really are, as you say, two
 men who are bent on smashing your schemes and making
@@ -7255,7 +7255,7 @@ your life a hell--I am very happy to put my car
 at their disposal.  And now I'm off."
 
 "You'll stop to dinner?" inquired Ivywood, with
-frigid forgiveness.
+frigid [[Forgiveness|forgiveness]].
 
 "No, thanks," said the disappearing bard, "I'm
 going up to town."
@@ -7272,10 +7272,10 @@ THE POET IN PARLIAMENT
 
 DURING the singular entrance and exit of Dorian
 Wimpole, M.P., J.P., etc., Lady Joan was looking
-out of the magic casements of that turret room which
+out of the [[Magic|magic]] casements of that turret room which
 was now literally, and not only poetically, the last
-limit of Ivywood House.  The old broken hole and
-black staircase up which the lost dog Quoodle used to
+limit of Ivywood [[house|House]].  The old broken hole and
+black staircase up which the lost dog [[quoodle|Quoodle]] used to
 come and go, had long ago been sealed up and cemented
 with a wall of exquisite Eastern workmanship.
 All through the patterns Lord Ivywood had preserved
@@ -7283,31 +7283,31 @@ and repeated the principle that no animal shape must
 appear.  But, like all lucid dogmatists, he perceived
 all the liberties his dogma allowed him.  And he had
 irradiated this remote end of Ivywood with sun and
-moon and solar and starry systems, with the Milky
+[[Moon|moon]] and solar and starry systems, with the Milky
 Way for a dado and a few comets for comic relief.
-The thing was well done of its kind (as were all the
+The thing was [[Well|well]] done of its kind (as were all the
 things that Philip Ivywood got done for him); and
 if all the windows of the turret were closed with their
 peacock curtains, a poet with anything like a Hibbsian
 appreciation of the family champagne might almost
-fancy he was looking out across the sea on a night
-crowded with stars.  And (what was yet more
+fancy he was looking out across the sea on a [[Night|night]]
+crowded with [[Stars|stars]].  And (what was yet more
 important) even Misysra (that exact thinker) could not
-call the moon a live animal without falling into
+call the [[Moon|moon]] a live animal without falling into
 idolatry.
 
 But Joan, looking out of real windows on a real
 sky and sea, thought no more about the astronomical
 wall-paper than about any other wall-paper.  She was
 asking herself in sullen emotionalism, and for the
-thousandth time, a question she had never been able to
-decide.  It was the final choice between an ambition
-and a memory.  And there was this heavy weight in
-the scale: that the ambition would probably materialise,
-and the memory probably wouldn't.  It has been
+thousandth [[Time|time]], a question she had never been able to
+decide.  It was the final choice between an [[Ambition|ambition]]
+and a [[Memory|memory]].  And there was this heavy weight in
+the scale: that the [[Ambition|ambition]] would probably materialise,
+and the [[Memory|memory]] probably wouldn't.  It has been
 the same weight in the same scale a million times
-since Satan became the prince of this world.  But
-the evening stars were strengthening over the old
+since [[Satan]] became the prince of this world.  But
+the evening [[Stars|stars]] were strengthening over the old
 sea-shore, and they also wanted weighing like
 diamonds.
 
@@ -7319,7 +7319,7 @@ never came so fast save for serious cause.
 believe, could move him."  Joan looked at Lady Enid
 and realised that the lady was close on crying.  She
 turned a trifle pale and asked quietly for the question.
-"Philip says he's going to London now, with that leg
+"Philip says he's going to [[London]] now, with that leg
 and all," cried Enid, "and he won't let us say a word."
 
 "But how did it all happen?" asked Joan.
@@ -7346,7 +7346,7 @@ Mystery.  Reported Reappearance of the Vanishing
 Inn."  Underneath was printed, in smaller letters:
 
 "An almost incredible report from Wyddington announces
-that the mysterious 'Sign of the Old Ship' has once more
+that the mysterious 'Sign of the Old [[Ship]]' has once more
 been seen in this country; though it has long been relegated
 by scientific investigators to the limbo of old rustic
 superstitions.  According to the local version, Mr. Simmons, a
@@ -7359,7 +7359,7 @@ was a person of unusual stature.  In a few moments, this
 latter individual went out of the shop again and returned
 with a miserable specimen out of the street, one of the
 tattered loafers that linger about our most prosperous towns,
-tramping the streets all night and even begging in defiance
+tramping the streets all [[Night|night]] and even begging in defiance
 of the police.  The filth and disease of the creature were so
 squalid that Mr. Simmons at first refused to serve him with
 the glass of milk which the taller motorist wished to
@@ -7389,7 +7389,7 @@ prosecution if he permitted the consumption of alcohol in his
 shop; since he did not display a sign.  The motorist then
 made the amazing reply, 'But you _do_ display a sign, you
 jolly old man.  Did you think I couldn't find my way to the
-sign of The Old Ship, you sly boots?'  Mr. Simmons was
+sign of The Old [[Ship]], you sly boots?'  Mr. Simmons was
 now fully convinced of the intoxication of his visitors, and
 refusing a glass of rum rather boisterously offered him,
 went outside his shop to look round for a policeman.  To his
@@ -7397,7 +7397,7 @@ surprise he found the officer engaged in dispersing a
 considerable crowd, which was staring up at some object behind
 him.  On looking round (he states in his deposition) he
 'saw what was undoubtedly one of the low tavern signs at
-one time common in England.'  He was wholly unable to
+one [[Time|time]] common in England.'  He was wholly unable to
 explain its presence outside his premises, and as it undoubtedly
 legalised the motorist's action, the police declined to
 move in the matter.
@@ -7420,7 +7420,7 @@ bought the whole can; observing, as he tucked it under his
 arm, that it would help him to remember the address.
 
 "Later.  Our readers will be glad to hear that the legend
-of 'The Old Ship' sign has once more yielded to the
+of 'The Old [[Ship]]' sign has once more yielded to the
 wholesome scepticism of science.  Our representative reached
 Wyddington after the practical jokers, or whatever they
 were, had left; but he searched the whole frontage of Mr.
@@ -7435,14 +7435,14 @@ would also ruin all his previous plan of campaign.
 His pallid and classic profile was as immovable as a
 cameo; but anyone who had known him at all would
 have known that his brain was going like a motor
-car that has broken the speed limit long ago.
+car that has broken the [[Speed|speed]] limit long ago.
 
 Then he turned his head and said, "Please tell Hicks
 to bring round the long blue car in half an hour; it
 can be fitted up for a sofa.  And ask the gardener
 to cut a pole of about four feet nine inches, and put a
-cross-piece for a crutch.  I'm going up to London
-to-night."
+[[Cross|cross]]-piece for a crutch.  I'm going up to [[London]]
+to-[[Night|night]]."
 
 Mr. Leveson's lower jaw literally fell with
 astonishment.
@@ -7462,13 +7462,13 @@ It was a moment or two afterward that Enid Wimpole
 had come into the room, and striven in vain to
 shake his decision.  Then it was that Joan had been
 brought out of the turret and saw Philip standing,
-sustained upon a crutch of garden timber; and
+sustained upon a crutch of [[Garden|garden]] timber; and
 admired him as she had never admired him before.
 While he was being helped downstairs, while he was
 being propped in the car with such limited comfort
 as was possible, she did really feel in him something
 worthy of his ancient roots, worthy of such hills and
-of such a sea.  For she felt God's wind from nowhere
+of such a sea.  For she felt God's [[Wind|wind]] from nowhere
 which is called the Will; and is man's only excuse
 upon this earth.  In the small toot of the starting
 motor she could hear a hundred trumpets, such as
@@ -7495,16 +7495,16 @@ and Mr. Pump were quite clever enough to leave no
 more hints behind.
 
 Third, he guessed, by careful consideration of map
-and clock, that they could not get to so remote a
+and [[Clock|clock]], that they could not get to so remote a
 region in so cheap a car under something like two days,
 nor do anything very conclusive in less than three.
-Thus, he had just time to turn round in.
+Thus, he had just [[Time|time]] to turn round in.
 
 Fourth, he realised that ever since that day when
 Dalroy swung round the sign-board and smote the
 policeman into the ditch, Dalroy had swung round the
 Ivywood Act on Lord Ivywood.  He (Lord Ivywood)
-had thought, and might well have thought rightly, that
+had thought, and might [[Well|well]] have thought rightly, that
 by restricting the old sign-posts to a few places so
 select that they can afford to be eccentric, and forbidding
 such artistic symbols to all other places, he could
@@ -7517,7 +7517,7 @@ gentleman wished to claim the liberties of a Bohemian, the
 path would be open.  If a Bohemian wished to claim
 the liberties of a gentleman, the path would be shut.
 So, gradually, Lord Ivywood had thought, the old
-signs which can alone sell alcohol, will dwindle down
+signs which can [[Alone|alone]] sell alcohol, will dwindle down
 to mere curiosities, like Audit Ale or the Mead that
 may still be found in the New Forest.  The calculation
 was by no means unstatesmanlike.  But, like many
@@ -7528,17 +7528,17 @@ anywhere, it mattered little whether the result was
 enjoyment or disappointment for the populace.  In either
 case it must mean constant scandal or riot.  If there
 was one thing worse than the appearance of "The Old
-Ship" it was its disappearance.
+[[Ship]]" it was its disappearance.
 
 He realised that his own law was letting them loose
-every time; for the local authorities hesitated to act
+every [[Time|time]]; for the local authorities hesitated to act
 on the spot, in defiance of a symbol now so exclusive
 and therefore impressive.  He realised that the law
 must be altered.  Must be altered at once.  Must be
 altered, if possible, before the fugitives broke away
 from the Model Village of Peaceways.
 
-He realised that it was Thursday.  This was the
+He realised that it was [[thursday|Thursday]].  This was the
 day on which any private member of Parliament could
 introduce any private bill of the kind called "non-contentious," and pass it without a division, so long as no
 particular member made any particular fuss.  He
@@ -7550,38 +7550,38 @@ Act.
 Finally, he realised that the whole case could be
 met by so slight an improvement as this.  Change the
 words of the Act (which he knew by heart, as happier
-men might know a song): "If such sign be present
+men might know a [[Song|song]]): "If such sign be present
 liquids containing alcohol can be sold on the premises,"
 to these other words: "Liquids containing alcohol can
 be sold, if previously preserved for three days on the
 premises"; it was mate in a few moves.  Parliament
 could never reject or even examine so slight an
-emendation.  And the revolution of "The Old Ship" and
-the late King of Ithaca would be crushed for ever.
+emendation.  And the revolution of "The Old [[Ship]]" and
+the late [[King]] of Ithaca would be crushed for ever.
 
 It does undoubtedly show, as we have said, something
 Napoleonic in the man's mind that the whole of
 this excellent and even successful plan was complete
-long before he saw the great glowing clock on the
-towers of Westminster; and knew he was in time.
+long before he saw the great glowing [[Clock|clock]] on the
+towers of Westminster; and knew he was in [[Time|time]].
 
 It was unfortunate, perhaps, that about the same
-time, or not long after, another gentleman of the same
+[[Time|time]], or not long after, another gentleman of the same
 rank, and indirectly of the same family, having left
 the restaurant in Regent Street and the tangle of
 Piccadilly, had drifted serenely down Whitehall, and had
 seen the same great golden goblin's eye on the tall
 tower of St. Stephen.
 
-The Poet of the Birds, like most aesthetes, had
+The Poet of the [[Birds]], like most aesthetes, had
 known as little of the real town as he had of the real
 country.  But he had remembered a good place for
 supper; and as he passed certain great cold clubs,
 built of stone and looking like Assyrian Sarcophagi,
 he remembered that he belonged to many of them.
-And so when he saw afar off, sitting above the river,
+And so when he saw afar off, sitting above the [[River|river]],
 what has been very erroneously described as the best
-club in London, he suddenly remembered that he
+club in [[London]], he suddenly remembered that he
 belonged to that too.  He could not at the moment recall
 what constituency in South England it was that he sat
 for; but he knew he could walk into the place if he
@@ -7590,68 +7590,68 @@ but he knew that in an oligarchy things go by respect
 for persons and not for claims; by visiting cards and
 not by voting cards.  He had not been near the place
 for years, being permanently paired against a famous
-Patriot who had accepted an important government
+Patriot who had accepted an important [[government]]
 appointment in a private madhouse.  Even in his
 silliest days, he had never pretended to feel any respect
 for modern politics, and made all haste to put his "leaders"
-and the mad patriot's "leaders" on the well selected
+and the mad patriot's "leaders" on the [[Well|well]] selected
 list of the creatures whom man forgets.  He had
-made one really eloquent speech in the House (on the
+made one really eloquent speech in the [[house|House]] (on the
 subject of gorillas), and then found he was speaking
 against his party.  It was an indescribable sort of
 place, anyhow.  Even Lord Ivywood did not go to it
 except to do some business that could be done nowhere
-else; as was the case that night.
+else; as was the case that [[Night|night]].
 
 Ivywood was what is called a peer by courtesy;
-his place was in the Commons, and for the time being
+his place was in the Commons, and for the [[Time|time]] being
 on the Opposition side.  But, though he visited the
-House but seldom, he knew far too much about it
+[[house|House]] but seldom, he knew far too much about it
 to go into the Chamber itself.  He limped into the
 Smoking Room (though he did not smoke), procured
 a needless cigarette and a much-needed sheet of note-paper, and composed a curt but careful note to the
-one member of the government whom he knew must
-be in the House.  Having sent it up to him, he waited.
+one member of the [[government]] whom he knew must
+be in the [[house|House]].  Having sent it up to him, he waited.
 
 Outside, Mr. Dorian Wimpole also waited, leaning
 on the parapet of Westminster Bridge and looking
-down the river.  He was becoming one with the
+down the [[River|river]].  He was becoming one with the
 oysters in a more solemn and solid sense than he had
 hitherto conceived possible, and also with a strictly
-Vegetarian beverage which bears the noble and starry
+[[vegetarian|Vegetarian]] beverage which bears the noble and starry
 name of Nuits.  He felt at peace with all things, even
-in a manner with politics.  It was one of those magic
+in a manner with politics.  It was one of those [[Magic|magic]]
 hours of evening when the red and golden lights of
-men are already lit along the river, and look like the
+men are already lit along the [[River|river]], and look like the
 lights of goblins, but daylight still lingers in a cold
-and delicate green.  He felt about the river something
+and delicate green.  He felt about the [[River|river]] something
 of that smiling and glorious sadness which two
 Englishmen have expressed under the figure of the white
-wood of an old ship fading like a phantom; Turner,
+wood of an old [[Ship|ship]] fading like a [[Phantom|phantom]]; Turner,
 in painting, and Henry Newbolt, in poetry.  He had
-come back to earth like a man fallen from the moon;
-he was at bottom not only a poet but a patriot, and a
-patriot is always a little sad.  Yet his melancholy was
-mixed up with that immutable yet meaningless faith
+come back to earth like a man fallen from the [[Moon|moon]];
+he was at [[Bottom|bottom]] not only a poet but a patriot, and a
+patriot is always a little sad.  Yet his [[Melancholy|melancholy]] was
+mixed up with that immutable yet meaningless [[Faith|faith]]
 which few Englishmen, even in modern times, fail to
 feel at the unexpected sight either of Westminster
 or of that height on which stands the temple of St.
 Paul.
 
-    "While flows the sacred river,
-     While stands the sacred hill,"
+    "While flows the sacred [[River|river]],
+     While stands the sacred [[Hill|hill]],"
 
 he murmured in some schoolboy echo of the ballad
 of Lake Regillus,
 
-    "While flows the sacred river,
-     While stands the sacred hill,
+    "While flows the sacred [[River|river]],
+     While stands the sacred [[Hill|hill]],
      The proud old pantaloons and nincompoops,
      Who yawn at the very length of their own lies
      in that accursed sanhedrim where
      people put each other's hats on in a poisonous
      room with no more windows than hell
-     Shall have such honour still."
+     Shall have such [[Honour|honour]] still."
 
 Relieved by this rendering of Macaulay in the style
 known among his cultured friends as _vers libre_, or
@@ -7660,7 +7660,7 @@ strolled toward the members' entrance and went in.
 
 Lacking Lord Ivywood's experience, he strolled into
 the Common's Chamber itself and sat down on a
-green bench, under the impression that the House was
+green bench, under the impression that the [[house|House]] was
 not sitting.  He was, however, gradually able to
 distinguish some six or eight drowsy human forms
 from the seats on which they sat; and to hear a senile
@@ -7673,16 +7673,16 @@ regarded except in the right way and have tried to put it
 in the right way and cannot think the honourable member
 was altogether adding to his reputation in putting it in
 what those who think with me must of course consider the
-wrong way and I for one am free to say that if in his desire
+wrong way and I for one am free to say that if in his [[Desire|desire]]
 to settle this great question he takes this hasty course and
 this revolutionary course about slate pencils he may not
 be able to prevent the extremists behind him from applying
 it to lead pencils and while I should be the last to increase
 the heat and the excitement and the personalities of this
-debate if I could possibly help it I must confess that in
+[[debate]] if I could possibly help it I must confess that in
 my opinion the honourable gentleman has himself encouraged
 that heat and personality in a manner that he now
-doubtless regrets I have no desire to use abusive terms indeed
+doubtless regrets I have no [[Desire|desire]] to use abusive terms indeed
 you Mr. Speaker would not allow me of course to use
 abusive terms but I must tell the honourable member face
 to face that the perambulators with which he has twitted
@@ -7691,16 +7691,16 @@ last person. . . ."
 
 Dorian Wimpole had softly risen to go, when he
 was arrested by the sight of someone sliding into the
-House and handing a note to the solitary young man
+[[house|House]] and handing a note to the solitary young man
 with heavy eyelids who was at that moment governing
 all England from the Treasury Bench.  Seeing him
-go out, Dorian had a sickening sweetness of hope (as
-he might have said in his earlier poems), that something
+go out, Dorian had a sickening sweetness of [[Hope|hope]] (as
+he might have said in his earlier [[Poems|poems]]), that something
 intelligible might happen after all, and followed
 him out almost with alacrity.
 
 The solitary and sleepy governor of Great Britain
-went down into the lower crypts of its temple of freedom
+went down into the lower crypts of its temple of [[Freedom|freedom]]
 and turned into an apartment where Wimpole
 was astonished to see his cousin Ivywood sitting at a
 little table with a large crutch leaning beside him,
@@ -7720,15 +7720,15 @@ a bell rang in several rooms at once.  And whenever
 the bell rang, Lord Ivywood nodded, as if he were
 part of the electrical machinery.  And whenever Lord
 Ivywood nodded the young man turned and sped upstairs
-like a mountaineer, returning in a short time to
+like a mountaineer, returning in a short [[Time|time]] to
 resume the conversation.  On the third occasion the
 poet began to observe that many others from the other
 rooms could be heard running upstairs at the sound of
 this bell, and returning with the slightly less rapid step
 which expresses relief after a duty done.  Yet did he
-not know that this duty was Representative Government;
+not know that this duty was Representative [[government|Government]];
 and that it is thus that the cry of Cumberland
-or Cornwall can come to the ears of an English King.
+or Cornwall can come to the ears of an English [[King]].
 
 Suddenly the sleepy young man sprang erect, uninspired
 by any bell, and strode out once more.  The
@@ -7748,7 +7748,7 @@ said:
 
 "I want to apologise to you, Philip, for my rudeness
 this afternoon.  Honestly, I am sorry.  Pinewoods
-and prison-cells try a man's temper, but I had no
+and [[Prison|prison]]-cells try a man's temper, but I had no
 rag of excuse for not seeing that for neither of them
 were you to blame.  I'd no notion you were coming up
 to town tonight; with your leg and all.  You mustn't
@@ -7769,13 +7769,13 @@ you've come up to make a speech.  I _should_ like to
 hear it.  We haven't always agreed; but, by God, if
 there's anything good left in literature it's your
 speeches reported in a newspaper.  That thing of
-yours that ended, 'death and the last shutting of the
+yours that ended, '[[Death|death]] and the last shutting of the
 iron doors of defeat'--Why you must go back to
 Strafford's last speech for such English.  Do let me
 hear your speech!  I've got a seat upstairs, you know."
 
 "If you wish it," said Ivywood hurriedly, "but I
-shan't make much of a speech to-night."  And he
+shan't make much of a speech to-[[Night|night]]."  And he
 looked at the wall behind Wimpole's head with
 thunderous wrinkles thickening on his brow.  It was
 essential to his brilliant and rapid scheme, of course,
@@ -7789,13 +7789,13 @@ exalted cripple resolutely refused anything in the way
 of liquor, his cousin was so kind as to have a little
 more himself, and resumed his remarks.
 
-"It's about this public-house affair of yours, I
+"It's about this public-[[house]] affair of yours, I
 suppose.  I'd like to hear you speak on that.  P'raps I'll
 speak myself.  I've been thinking about it a good deal
-all day, and a good deal of last night, too.  Now, here's
-what I should say to the House, if I were you.  To
-begin with, can you abolish the public-house?  Are
-you _important_ enough now to abolish the public-house?
+all day, and a good deal of last [[Night|night]], too.  Now, here's
+what I should say to the [[house|House]], if I were you.  To
+begin with, can you abolish the public-[[house]]?  Are
+you _important_ enough now to abolish the public-[[house]]?
 Whether it's right or wrong, can you in the long run
 prevent haymakers having ale any more than you can
 prevent me having this glass of Chartreuse?"
@@ -7808,26 +7808,26 @@ he heard were such as he was less able to cope with.
 shaking his head at the functionary, "remember the
 sensible little High-Church curate, who when asked
 for a Temperance Sermon preached on the text 'Suffer
-us not to be overwhelmed in the water-floods.'  Indeed,
+us not to be overwhelmed in the [[Water|water]]-floods.'  Indeed,
 indeed, Philip, you are in deeper waters than you
-know.  _You_ will abolish ale!  _You_ will make Kent
+know.  _You_ will abolish ale!  _You_ will make [[Kent]]
 forget hop-poles, and Devonshire forget cider!  The
 fate of the Inn is to be settled in that hot little room
 upstairs!  Take care its fate and yours are not settled
 in the Inn.  Take care Englishmen don't sit in judgment
 on you as they do on many another corpse at an
-inquest--at a common public-house!  Take care that
+inquest--at a common public-[[house]]!  Take care that
 the one tavern that is really neglected and shut up and
-passed like a house of pestilence is not the tavern in
-which I drink to-night, and that merely because it is
-the worst tavern on the King's highway.  Take care
+passed like a [[house]] of pestilence is not the tavern in
+which I drink to-[[Night|night]], and that merely because it is
+the worst tavern on the [[King]]'s highway.  Take care
 this place where we sit does not get a name like any
 pub where sailors are hocussed or girls debauched.
 That is what I shall say to them," said he, rising cheerfully,
 "that's what I shall say.  See you to it," he cried
 with sudden passion and apparently to the waiter,
 "see you to it if the sign that is destroyed is not the
-sign of 'The Old Ship' but the sign of the Mace and
+sign of 'The Old [[Ship]]' but the sign of the Mace and
 Bauble, and, in the words of a highly historical brewer,
 if we see a dog bark at your going."
 
@@ -7840,7 +7840,7 @@ any speech, good or bad, would wreck his whole plan
 and send the wild inn flying again.  But the orator
 had resumed his seat and drained his glass, passing a
 hand across his brow.  And he remembered that a
-man who keeps a vigil in a wood all night and drinks
+man who keeps a vigil in a wood all [[Night|night]] and drinks
 wine on the following evening is liable to an accident
 that is not drunkenness, but something much healthier.
 
@@ -7855,14 +7855,14 @@ and feel pretty tired.  You'll let me know?"
 Stillness fell along all the rooms until Lord
 Ivywood broke it by saying:
 
-"Debate is a most necessary thing; but there are
+"[[debate|Debate]] is a most necessary thing; but there are
 times when it rather impedes than assists parliamentary
-government."
+[[government]]."
 
 He received no reply.  Dorian still sat as if looking
 at the table, but his eyelids had lightly fallen; he was
 asleep.  Almost at the same moment the Member of
-Government, who was nearly asleep, appeared at the
+[[government|Government]], who was nearly asleep, appeared at the
 entrance of the long room and made some sort of
 weary signal.
 
@@ -7871,9 +7871,9 @@ stood for a moment looking at the sleeping man.
 Then he and his crutch trailed out of the long room,
 leaving the sleeping man behind.  Nor was that the
 only thing that he left behind.  He also left behind an
-unlighted cigarette and his honour and all the England
+unlighted cigarette and his [[Honour|honour]] and all the England
 of his father's; everything that could really distinguish
-that high house beside the river from any tavern for
+that high [[house]] beside the [[River|river]] from any tavern for
 the hocussing of sailors.  He went upstairs and did
 his business in twenty minutes in the only speech he
 had ever delivered without any trace of eloquence.
@@ -7886,7 +7886,7 @@ CHAPTER XVIII
 
 THE REPUBLIC OF PEACEWAYS
 
-IN a hamlet round about Windermere, let us say, or
+IN a [[Hamlet|hamlet]] round about Windermere, let us say, or
 somewhere in Wordsworth's country, there could be
 found a cottage, in which could be found a cottager.
 So far all is as it should be; and the visitor would first
@@ -7905,7 +7905,7 @@ on milk.  The subject of this diet the oldest of the
 three men continued to discuss in enormous detail.
 For the rest, it might be said that his pleasures were
 purely arithmetical.  Some men count their years with
-dismay, and he counted his with a juvenile vanity.
+dismay, and he counted his with a juvenile [[Vanity|vanity]].
 Some men collect stamps or coins, and he collected
 days.  Newspaper men interviewed him about the
 historic times through which he had lived, without
@@ -7917,12 +7917,12 @@ wasn't any milk, but must be Mountain Milk, like Dr.
 Meadows says.  Nor would his calculating creed of
 life have allowed him to understand you if you had
 said that in a meadowland oversea that lies before the
-city of Brussels, boys of his old school in that year
-gained the love of the gods and died young.
+[[City|city]] of Brussels, boys of his old school in that year
+gained the [[Love|love]] of the gods and died young.
 
 It was the philanthropic Dr. Meadows, of course,
 who discovered this deathless tribe, and erected on it
-the whole of his great dietetic philosophy, to say nothing
+the whole of his great dietetic [[philosophy]], to say nothing
 of the houses and dairies of Peaceways.  He
 attracted many pupils and backers among the wealthy
 and influential; young men who were, so to speak,
@@ -7931,15 +7931,15 @@ nonagenarians.  It would be an exaggeration to say that
 they watched joyfully for the first white hair as
 Fascination Fledgeby watched for his first whisker; but
 it is quite true to say that they seemed to have scorned
-the beauty of woman and the feasting of friends and,
-above all, the old idea of death with glory; in comparison
-with this vision of the sports of second childhood.
+the [[Beauty|beauty]] of woman and the feasting of friends and,
+above all, the old idea of [[Death|death]] with glory; in comparison
+with this vision of the sports of second [[Childhood|childhood]].
 
 Peaceways was in its essential plan much like what
-we call a Garden City; a ring of buildings where the
+we call a [[Garden]] [[City]]; a ring of buildings where the
 work people did their work, with a pretty ornamental
 town in the centre, where they lived in the open country
-outside.  This was no doubt much healthier than
+outside.  This was no [[Doubt|doubt]] much healthier than
 the factory system in the great towns and may have
 partly accounted for the serene expression of Dr.
 Meadows and his friends, if any part of the credit
@@ -7958,29 +7958,29 @@ to do tricks.  As, indeed, they were.
 
 Before entering the town they had stopped by a
 splendid mountain stream quickening and thickening
-rapidly into a river; unhelmed and otherwise eased
+rapidly into a [[River|river]]; unhelmed and otherwise eased
 themselves, eaten a little bread bought at Wyddington
-and drank the water of the widening current which
+and drank the [[Water|water]] of the widening current which
 opened on the valley of Peaceways.
 
-"I'm beginning quite to like water," said the taller of
+"I'm beginning quite to like [[Water|water]]," said the taller of
 the two knights.  "I used to think it a most dangerous
 drink.  In theory, of course, it ought only to be given
 to people who are fainting.  It's really good for them,
 much better than brandy.  Besides, think of wasting
 good brandy on people who are fainting!  But I don't
 go so far as I did; I shouldn't insist on a doctor's
-prescription before I allow people water.  That was
-the too severe morality of youth; that was my
-innocence and goodness.  I thought that if I fell once,
-water-drinking might become a habit.  But I do see
-the good side of water now.  How good it is when
+prescription before I allow people [[Water|water]].  That was
+the too severe [[morality]] of youth; that was my
+[[innocence]] and goodness.  I thought that if I fell once,
+[[Water|water]]-drinking might become a habit.  But I do see
+the good side of [[Water|water]] now.  How good it is when
 you're really thirsty, how it glitters and gurgles!  How
 alive it is!  After all, it's the best of drinks, after
-the other.  As it says in the song:
+the other.  As it says in the [[Song|song]]:
 
-    "Feast on wine or fast on water,
-       And your honour shall stand sure;
+    "Feast on wine or fast on [[Water|water]],
+       And your [[Honour|honour]] shall stand sure;
      God Almighty's son and daughter,
        He the valiant, she the pure.
      If an angel out of heaven
@@ -7995,7 +7995,7 @@ the other.  As it says in the song:
      All the women, like a harem,
        At his pig-tail troop along,
      And, like all the East he grows in,
-       He is Poison when he's strong.
+       He is [[Poison]] when he's strong.
 
     "Tea, although an Oriental,
        Is a gentleman at least;
@@ -8003,35 +8003,35 @@ the other.  As it says in the song:
        Cocoa is a vulgar beast;
      Cocoa is a dull, disloyal,
        Lying, crawling cad and clown,
-     And may very well be grateful
-       To the fool that takes him down.
+     And may very [[Well|well]] be grateful
+       To the [[Fool|fool]] that takes him down.
 
     "As for all the windy waters,
      They were rained like trumpets down,
      When good drink had been dishonoured
        By the tipplers of the town.
      When red wine had brought red ruin,
-       And the death-dance of our times,
-     Heaven sent us Soda Water
+       And the [[Death|death]]-[[Dance|dance]] of our times,
+     Heaven sent us Soda [[Water]]
        As a torment for our crimes."
 
-"Upon my soul, this water tastes quite nice.  I
-wonder what vintage now?" and he smacked his lips
+"Upon my [[Soul|soul]], this [[Water|water]] tastes quite nice.  I
+[[Wonder|wonder]] what vintage now?" and he smacked his lips
 with solemnity.  "It tastes just like the year 1881
 tasted."
 
 "You can fancy anything in the tasting way,"
 returned his shorter companion.  "Mr. Jack, who was
-always up to his tricks, did serve plain water in those
+always up to his tricks, did serve plain [[Water|water]] in those
 little glasses they drink liqueurs out of, and everyone
 swore it was a delicious liqueur, and wanted to know
 where they could get it--all except old Admiral Guffin,
-who said it tasted too strong of olives.  But water's
+who said it tasted too strong of olives.  But [[Water|water]]'s
 much the best for our game, certainly."
 
 Patrick nodded, and then said:
 
-"I doubt if I could do it, if it weren't for the
+"I [[Doubt|doubt]] if I could do it, if it weren't for the
 comfort of looking at that," and he kicked the rum-keg,
 "and feeling we shall have a good swig at it some day.
 It feels like a fairy-tale, carrying that about--as if
@@ -8043,14 +8043,14 @@ I remember!  Where's that milk can of mine?"
 For the next twenty minutes he was industriously
 occupied with his milk can and the cask; Pump watching
 him with an interest amounting to anxiety.  Lifting
-his head, however, at the end of that time, he
+his head, however, at the end of that [[Time|time]], he
 knotted his red brows and said, "What's that?"
 
 "What's what?" asked the other traveller.
 
 "That!" said Captain Patrick Dalroy, and pointed
-to a figure approaching on the road parallel to the
-river, "I mean, what's it for?"
+to a figure approaching on the [[Road|road]] parallel to the
+[[River|river]], "I mean, what's it for?"
 
 The figure had a longish beard and very long hair
 falling far below its shoulders.  It had a serious and
@@ -8073,7 +8073,7 @@ But a madman has only one merit and last link with God.  A madman is
 always logical.  Now what is the logical connection between living on
 milk and wearing your hair long?  Most of us lived on milk when we had
 no hair at all.  How do they connect it up?  Are there any heads even
-for a synopsis?  Is it, say, 'milk--water--shaving-water--
+for a synopsis?  Is it, say, 'milk--[[Water|water]]--shaving-[[Water|water]]--
 shaving--hair?'  Is it 'milk--kindness--unkindness--convicts--hair?'
 What is the logical connection between having too much hair and having
 far too few boots?  What _can_ it be?  Is it 'hair--hair-trunk--
@@ -8085,7 +8085,7 @@ lunacies live together?"
 "Because all the lunatics should live together," said,
 Humphrey, "and if you'd seen what happened up at
 Crampton, with the farming-out idea, you'd know.  It's
-all very well, Captain; but if people can prevent a
+all very [[Well|well]], Captain; but if people can prevent a
 guest of great importance being buried up to the neck
 in farm manure, they will.  They will, really."  He
 coughed almost apologetically.  He was about to
@@ -8096,9 +8096,9 @@ car, and get into it himself.  "You drive," he said,
 
 They did not, however, arrive in the civic centre of
 such things without yet another delay.  They left the
-river and followed the man with the long hair and the
+[[River|river]] and followed the man with the long hair and the
 goatskin frock; and he stopped as it happened at a
-house on the outskirts of the village.  The adventurers
+[[house]] on the outskirts of the village.  The adventurers
 stopped also, out of curiosity, and were at first
 relieved to see the man almost instantly reappear,
 having transacted his business with a quickness that
@@ -8106,17 +8106,17 @@ seemed incredible.  A second glance showed them it
 was not the man, but another man dressed exactly like
 him.  A few minutes more of inquisitive delay, showed
 them many of the kilty and goatish sect going in and
-out of this particular place, each clad in his innocent
+out of this particular place, each clad in his [[Innocent|innocent]]
 uniform.
 
 "This must be the temple and chapel," muttered
 Patrick, "it must be here they sacrifice a glass of milk
-to a cow, or whatever it is they do.  Well, the joke
+to a cow, or whatever it is they do.  [[Well]], the joke
 is pretty obvious, but we must wait for a lull in the
 crowding of the congregation."
 
-When the last long-haired phantom had faded up
-the road, Dalroy sprang from the car and drove the
+When the last long-haired [[Phantom|phantom]] had faded up
+the [[Road|road]], Dalroy sprang from the car and drove the
 sign-board deep into the earth with savage violence,
 and then very quietly knocked at the door.
 
@@ -8137,19 +8137,19 @@ but he could not make head or tail of it in
 connection with the priggish perfections of Peaceways.
 It was all the odder because he was manifestly
 prosperous; his clothes were smartly cut in something of
-the sporting manner, and the inside of his house was
+the sporting manner, and the inside of his [[house]] was
 at least four times grander than the outside.
 
 But what mystified them most was this, that he did
 not so much exhibit the natural curiosity of a gentleman
-whose private house is entered by strangers, but
+whose private [[house]] is entered by strangers, but
 rather an embarrassed and restless expectation.  During
 Dalroy's eager apologies and courteous inquiries
 about the direction and accommodations of Peaceways,
 his eye (which was of the boiled gooseberry order)
 perpetually wandered from them to the cupboard
-and then again to the window, and at last he got up
-and went to look out into the road.
+and then again to the [[Window|window]], and at last he got up
+and went to look out into the [[Road|road]].
 
 "Oh, yes, sir; very healthy place, Peaceways," he
 said, peering through the lattice.  "Very . . .
@@ -8161,7 +8161,7 @@ place.  Of course they have their little ways."
 The householder looked at him with a rather wild
 eye and grunted.
 
-"Yes; so they say," and he went again to the window.
+"Yes; so they say," and he went again to the [[Window|window]].
 
 "I've bought some of it," said Patrick, patting his
 pet milk can, which he carried under his arm, as if
@@ -8175,17 +8175,17 @@ some other emotion.
 or what?"
 
 "Agents and Distributors of the Meadows's Mountain
-Milk," said the Captain, with simple pride, "taste
+Milk," said the Captain, with simple [[Pride|pride]], "taste
 it?"
 
 The dazed householder took a glass of the blameless
 liquid and sipped it; and the change on his face
 was extraordinary.
 
-"Well, I'm jiggered," he said, with a broad and
+"[[Well]], I'm jiggered," he said, with a broad and
 rather coarse grin.  "That's a queer dodge.  You're
 in the joke, I see."  Then he went again restlessly to
-the window; and added, "but if we're all friends, why
+the [[Window|window]]; and added, "but if we're all friends, why
 the blazes don't the others come in?  I've never known
 trade so slow before."
 
@@ -8203,21 +8203,21 @@ Then he abruptly opened the front door and called
 out impatiently, but not loudly:
 
 "Come along in if you're coming.  You'll give the
-show away if you play the fool out there."
+show away if you play the [[Fool|fool]] out there."
 
-Patrick looked out also and the view of the road
+Patrick looked out also and the view of the [[Road|road]]
 outside was certainly rather singular.  He was used to
 crowds, large and small, collecting outside houses
 which he had honoured with the sign of "The Old
-Ship," but they generally stared up at it in unaffected
-wonder and amusement.  But outside this open door,
+[[Ship]]," but they generally stared up at it in unaffected
+[[Wonder|wonder]] and amusement.  But outside this open door,
 some twenty or thirty persons in what Pump had
-called their night-gowns were moving to and fro
+called their [[Night|night]]-gowns were moving to and fro
 like somnambulists, apparently blind to the presence of
-the sign; looking at the other side of the road, looking
+the sign; looking at the other side of the [[Road|road]], looking
 at the horizon, looking at the clouds of morning; and
 only occasionally stopping to whisper to each other.
-But when the owner of the house called to one of these
+But when the owner of the [[house]] called to one of these
 ostentatiously abstracted beings and asked him hoarsely
 what the devil was the matter, it was natural for
 the milk-fed one to turn his feeble eye toward the
@@ -8225,13 +8225,13 @@ sign.  The gooseberry eyes followed his, and the face
 to which they belonged was a study in apoplectic
 astonishment.
 
-"What the hell have you done to my house?" he
+"What the hell have you done to my [[house]]?" he
 demanded.  "Of course they can't come in if this
 thing's here."
 
 "I'll take it down, if you like," said Dalroy, stepping
 out and picking it up like a flower from the front
-garden (to the amazement of the men in the road, who
+[[Garden|garden]] (to the amazement of the men in the [[Road|road]], who
 thought they had strayed into a nursery fairy-tale),
 "but I wish, in return, you'd give me some idea of
 what the blazes all this means."
@@ -8254,11 +8254,11 @@ of the Law as they are of the Doctor?"
 
 "Why should they be afraid of the Doctor?" asked
 Dalroy, innocently.  "I always heard that Peaceways
-was a self-governing republic."
+was a [[Self|self]]-governing republic."
 
-"Self-governing be damned," was the illiberal
+"[[Self]]-governing be damned," was the illiberal
 reply.  "Don't he own all the houses and could turn 'em
-out in a snow storm?  Don't 'e pay all the wages and
+out in a [[Snow|snow]] [[Storm|storm]]?  Don't 'e pay all the wages and
 could starve 'em stiff in a month?  The Law!"  And
 he snorted.  A moment after he squared his elbows on
 the table and began to explain more fully.
@@ -8266,14 +8266,14 @@ the table and began to explain more fully.
 "I was a brewer about here and had the biggest
 brewery in these parts.  There were only two houses
 which didn't belong to me, and the magistrates took
-away their licenses after a time.  Ten years ago you
+away their licenses after a [[Time|time]].  Ten years ago you
 could see Hugby's Ales written beside every sign in
 the county.  Then came these cursed Radicals, and our
 leader, Lord Ivywood, must go over to their side
 about it, and let this Doctor buy all the land under
 some new law that there shan't be any pubs at all.  And
 so my business is ruined so that he can sell his milk.
-Luckily I'd done pretty well before and had some
+Luckily I'd done pretty [[Well|well]] before and had some
 compensation, of course; and I still do a fair trade on the
 Q.T., as you see.  But of course that don't amount to
 half the old one, for they're afraid of old Meadows
@@ -8285,7 +8285,7 @@ the carpet.
 "I am a Radical myself," said the Irishman, rather
 coldly, "for all information on the Conservative party
 I must refer you to my friend, Mr. Pump, who is, of
-course, in the inmost secrets of his leaders.  But it
+course, in the inmost [[Secrets|secrets]] of his leaders.  But it
 seems to me very rum sort of Radicalism to eat and
 drink at the orders of a master who is a madman,
 merely because he's also a millionaire.  0 Liberty,
@@ -8293,7 +8293,7 @@ what very complicated and even unsatisfactory social
 developments are committed in thy name!  Why
 don't they kick the old ass round the town a bit?  No
 boots?  Is that why they're allowed no boots?  Oh, roll
-him down hill in a milk can: he can't object to that."
+him down [[Hill|hill]] in a milk can: he can't object to that."
 
 "I don't know," said Pump, in his ruminant way,
 "Master Christian's aunt did, but ladies are more
@@ -8304,7 +8304,7 @@ particular, of course."
 will you defy them?  You'd be strictly within the
 law, and any private coercion I can promise you they
 shall repent.  Plant the sign and sell the stuff openly
-like a man, and you may stand in English history like
+like a man, and you may stand in English [[history]] like
 a deliverer."
 
 Mr. Hugby, of Hugby's Ales, only looked gloomily
@@ -8312,12 +8312,12 @@ at the table.  His was not the sort of drinking nor the
 sort of drink-selling on which the revolutionary
 sentiment flourishes.
 
-"Well," said the Captain, "will you come with me
+"[[Well]]," said the Captain, "will you come with me
 and say 'Hear, hear!' and 'How true!'--'What matchless
 eloquence!' if I make a speech in the market-place?
 Come along!  There's room in our car."
 
-"Well, I'll come with you, if you like," replied Mr.
+"[[Well]], I'll come with you, if you like," replied Mr.
 Hugby, heavily.  "It's true if yours is allowed we
 might get our trade back, too."  And putting on a
 silk hat he followed the Captain and the innkeeper
@@ -8330,7 +8330,7 @@ It was a superb morning, some hours after sunrise.
 The edges of the sky touching the ring of dim woods
 and distant hills were still jewelled with the tiny
 transparent clouds of daybreak, delicate red and green
-or yellow.  But above the vault of Heaven rose
+or yellow.  But above the vault of Heaven [[Rose|rose]]
 through turquoise into a torrid and solid blue in which
 the other clouds, the colossal cumuli, tumbled about
 like a celestial pillow-fight.  The bulk of the houses
@@ -8348,11 +8348,11 @@ more esoteric sort of terra cotta bricks.  The houses
 were not English, nor homelike, nor suited to the
 landscape; for the houses had not been built by free men
 for themselves, but at the fancy of a whimsical lord.
-But considered as a sort of elfin city in a pantomime
+But considered as a sort of elfin [[City|city]] in a pantomime
 it was a really picturesque background for pantomimic
 proceedings.
 
-I fear Mr. Dalroy's proceedings from the first rather
+I [[Fear|fear]] Mr. Dalroy's proceedings from the first rather
 deserved that name.  To begin with, he left the sign,
 the cask, and the keg all wrapped and concealed in the
 car, but removed all the wraps of his own disguise,
@@ -8365,11 +8365,11 @@ the large milk can, and deposited it, almost reverently,
 on the island of turf.  Then he stood beside it, like
 Napoleon beside a gun, with an expression of tremendous
 seriousness and even severity.  Then he drew his
-sword, and with that flashing weapon, as with a flail,
+[[Sword|sword]], and with that flashing weapon, as with a flail,
 lashed and thrashed the echoing metal can till the din
 was deafening, and Mr. Hugby hastily got out of the
 car and withdrew to a slight distance, stopping his
-ears.  Mr. Pump sat solidly at the steering wheel, well
+ears.  Mr. Pump sat solidly at the steering [[Wheel|wheel]], [[Well|well]]
 knowing it might be necessary to start in some haste.
 
 "Gather, gather, gather, Peaceways," shouted
@@ -8385,28 +8385,28 @@ an army covering Salisbury Plain.
 
 "Citizens," he roared, saying anything that came
 into his head, "try the only original unadulterated
-Mountain Milk, for which alone Mahomet came to
+Mountain Milk, for which [[Alone|alone]] Mahomet came to
 the mountain.  The original milk of the land flowing
 with milk and honey; the high quality of which could
-alone have popularised so unappetising a combination.
+[[Alone|alone]] have popularised so unappetising a combination.
 Try our milk!  None others are genuine!  Who can do
 without milk.  Even whales can't do without milk.
 If any lady or gentleman keeps a favourite whale
-at home, now's their chance!  The early whale catches
+at [[Home|home]], now's their chance!  The early whale catches
 the milk.  Just look at our milk!  If you say you can't
-look at the milk, because it's in the can--well, look at
+look at the milk, because it's in the can--[[Well|well]], look at
 the can!  You must look at the can!  You simply must!
 When Duty whispers low 'Thou Must!'" he bellowed
 at the top of his voice in a highly impromptu
 peroration, "When Duty whispers low 'Thou Must,' the
 Youth replies, 'I can!'"  And with the word "Can"
 he hit the can with a shocking and shattering noise,
-like a peal of demoniac bells of steel.
+like a peal of demoniac [[Bells|bells]] of steel.
 
 This introductory speech is open to criticism from
 those who regard it as intended for the study rather
 than the stage.  The present chronicler (who has no
-aim save truth) is bound to record that for its own
+aim save [[Truth|truth]]) is bound to record that for its own
 unscrupulous purpose it was extremely successful: a
 great mass of the citizens of Peaceways having been
 attracted by the noise of one man shouting like a
@@ -8420,7 +8420,7 @@ consisted in actually handing to a few of the foremost
 of his audience some samples of his blameless
 beverage.  The fact was certainly striking.  Some were
 paralysed with surprise.  Some were abruptly broken
-double with laughter.  Many chuckled.  Some cheered.
+[[Double|double]] with laughter.  Many chuckled.  Some cheered.
 All looked radiantly toward the eccentric orator.
 
 And yet the radiance died quietly and suddenly
@@ -8438,24 +8438,24 @@ THE HOSPITALITY OF THE CAPTAIN
 
 DR. MOSES MEADOWS, whether that was his name or
 an Anglicised version of it, had certainly come in the
-first instance from a little town in Germany and his
+first instance from a little town in [[Germany]] and his
 first two books were written in German.  His first
 two books were his best, for he began with a genuine
 enthusiasm for physical science, and this was
 adulterated with nothing worse than a hatred of what he
 thought was superstition, and what many of us think
-is the soul of the state.  The first enthusiasm was
+is the [[Soul|soul]] of the state.  The first enthusiasm was
 most notable in the first book, which was concerned to
 show that "in the female not upsprouting of the
 whiskers was from the therewith increasing arrested
 mentality derived."  In his second book he came more
-to grips with delusions, and for some time he was
+to grips with delusions, and for some [[Time|time]] he was
 held to have proved (to everyone who agreed with
-him already) that the Time Ghost had been walking
+him already) that the [[Time]] [[Ghost]] had been walking
 particularly "rapidly, lately; and that the Christus
 Mythus was by the alcoholic mind's trouble explained."
 Then, unfortunately, he came across the institution
-called Death, and began to argue with it.  Not seeing
+called [[Death]], and began to argue with it.  Not seeing
 any rational explanation of this custom of dying, so
 prevalent among his fellow-citizens, he concluded that
 it was merely traditional (which he thought meant
@@ -8463,7 +8463,7 @@ it was merely traditional (which he thought meant
 evading or delaying it.  This had a rather narrowing
 effect on him, and he lost much of that acrid ardour
 which had humanised the atheism of his youth, when
-he would almost have committed suicide for the pleasure
+he would almost have committed [[suicide]] for the pleasure
 of taunting God with not being there.  His later
 idealism grew more and more into materialism and
 consisted of his changing hypotheses and discoveries
@@ -8494,7 +8494,7 @@ put him right about that.
 
 "I bought it in a shop at Wyddington," he said,
 "and since then I have used no other.  You'll hardly
-believe me" he said, with some truth, "but when I
+believe me" he said, with some [[Truth|truth]], "but when I
 went into that shop I was quite a little man.  I had
 one glass of your Mountain Milk; and look at me
 now."
@@ -8515,12 +8515,12 @@ satisfaction.
 "You shall laugh at the magistrate," said the other,
 with a thickening accent.
 
-"I shall," agreed Patrick.  "Well, I'll make a clean
-breast of it, sir.  The truth is it isn't your milk at all.
+"I shall," agreed Patrick.  "[[Well]], I'll make a clean
+breast of it, sir.  The [[Truth|truth]] is it isn't your milk at all.
 It has quite a different taste.  These gentlemen will
 tell you so."
 
-A smothered giggle sent all the blood to the eminent
+A smothered giggle sent all the [[Blood|blood]] to the eminent
 capitalist's face.
 
 "Then, either you have stolen my can and are a
@@ -8535,8 +8535,8 @@ And it's as true as daylight that this stuff tastes
 different.  I can't tell you what the taste is" (subdued
 guffaws from the outskirts of the crowd).  "It's
 something between the taste of your first sugar-stick and
-the fag-end of your father's cigar.  It's as innocent
-as Heaven and as hot as hell.  It tastes like a paradox.
+the fag-end of your father's cigar.  It's as [[Innocent|innocent]]
+as Heaven and as hot as hell.  It tastes like a [[Paradox|paradox]].
 It tastes like a prehistoric inconsistency--I trust I
 make myself clear.  The men who taste it most are
 the simplest men that God has made, and it always
@@ -8569,7 +8569,7 @@ wheels and pumps and pulleys be for?  Will you tell
 me, here and now, what you add to the milk which
 makes it so exceedingly Mountain?"
 
-There was a long silence, full of the same sense of
+There was a long [[Silence|silence]], full of the same sense of
 submerged mirth in the mob.  But the philanthropist
 had fallen into a naked frenzy in the sunlight, and
 shaking his fists aloft in a way unknown to all the
@@ -8581,8 +8581,8 @@ you shall laugh at a magistrate."
 
 Dalroy, with a bow, retired to the car, removed a
 number of wrappings and produced the prodigious
-wooden sign-post of "The Old Ship," with its blue
-three-decker and red St. George's cross conspicuously
+wooden sign-post of "The Old [[Ship]]," with its blue
+three-decker and red St. George's [[Cross|cross]] conspicuously
 displayed.  This he planted on his narrow territory of
 turf and looked round serenely.
 
@@ -8592,47 +8592,47 @@ anything unhygienic about this inn.  No low ceilings
 or stuffiness here.  Windows open everywhere, except
 in the floor.  And as I hear some are saying there
 ought always to be food sold with fermented liquor,
-why, my dear Dr. Meadows, I've got a cheese here that
-will make another man of you.  At least, we'll hope
+why, my dear Dr. Meadows, I've got a [[cheese]] here that
+will make another man of you.  At least, we'll [[Hope|hope]]
 so.  We can but try."
 
 But Dr. Meadows was long past being merely
 angry.  The exhibition of the sign had put him into a
 serious difficulty.  Like most sceptics, like even the
 most genuine sceptics such as Bradlaugh, he was as
-legal as he was sceptical.  He had a profound fear,
-which also had in it something better than fear, of
-being ultimately found in the wrong in a police court
-or a public inquiry.  And he also suffered the tragedy
+legal as he was sceptical.  He had a profound [[Fear|fear]],
+which also had in it something better than [[Fear|fear]], of
+being ultimately found in the wrong in a police [[Court|court]]
+or a public inquiry.  And he also suffered the [[Tragedy|tragedy]]
 of all such men living in modern England; that he
 must always be certain to respect the law, while never
 being certain of what it was.  He could only remember
 generally that Lord Ivywood, when introducing
 or defending the great Ivywood Act on this matter,
 had dwelt very strongly on the unique and significant
-nature of the sign.  And he could not be certain that
+[[Nature|nature]] of the sign.  And he could not be certain that
 if he disregarded it altogether, he might not eventually
-be cast in heavy damages--or even go to prison,
-in spite of his success in business.  Of course he knew
-quite well that he had a thousand answers to such
-nonsense: that a patch of grass in the road couldn't
+be cast in heavy damages--or even go to [[Prison|prison]],
+in spite of his [[success]] in business.  Of course he knew
+quite [[Well|well]] that he had a thousand answers to such
+nonsense: that a patch of grass in the [[Road|road]] couldn't
 be an inn; that the sign wasn't even produced when
 the Captain began to hand round the rum.  But he
-also knew quite well that in the black peril we call
+also knew quite [[Well|well]] that in the black peril we call
 British law that is not the point.  He had heard points
 quite as obvious urged to a judge and urged in vain.
-At the bottom of his mind he found this fact: rich
+At the [[Bottom|bottom]] of his mind he found this fact: rich
 as he was, Lord Ivywood had made him--and on
 which side would Lord Ivywood be?
 
 "Captain," said Humphrey Pump, speaking for the
-first time, "we'd better be getting away.  I feel it in
+first [[Time|time]], "we'd better be getting away.  I feel it in
 my bones."
 
 "Inhospitable innkeeper!" cried the Captain,
 indignantly.  "And after I have gone out of the way to
-license your premises!  Why, this is the dawn of
-peace in the great city of Peaceways.  I don't despair
+license your premises!  Why, this is the [[Dawn|dawn]] of
+peace in the great [[City|city]] of Peaceways.  I don't [[Despair|despair]]
 of Dr. Meadows tossing off another bumper before
 we've done.  For the moment, Brother Hugby will
 engage."
@@ -8647,45 +8647,45 @@ a glass of the new Mountain Milk; and then his very
 face became full of speech, before he had spoken a
 word.
 
-"There's a motor coming along the road from the
+"There's a motor coming along the [[Road|road]] from the
 far hills," said Humphrey, quietly.  "It'll be across
 the last bridge down stream in ten minutes and come
 up on this side."
 
-"Well," said the Captain, impatiently, "I suppose
+"[[Well]]," said the Captain, impatiently, "I suppose
 you've seen a motor before."
 
 "Not in this valley all this morning," answered
 Pump.
 
 "Mr. Chairman," said Mr. Hugby, feeling a dim
-disposition to say "Mr. Vice," in memory of old
+disposition to say "Mr. Vice," in [[Memory|memory]] of old
 commercial banquets, "I'm sure we're all law-abiding
 people here, and wish to remain friends, especially
 with our good friend the Doctor; may he never want
 a friend or a bottle--that is in short, anything he
-wants, as we go up the hill of prosperity, and so
+wants, as we go up the [[Hill|hill]] of prosperity, and so
 on.  But, as our friend here with the sign-board seems
-to be within his rights, well, I think the time's come
+to be within his rights, [[Well|well]], I think the [[Time|time]]'s come
 when we can look at these things more broadly, so to
 speak.  Now I know it's quite true those dirty little
 pubs do a lot of harm to a property, and you get a
 lot of ignorant people there who are just like pigs;
 and I don't say our friend the Doctor hasn't done
-good by clearing 'em away.  But a big, well-managed
+good by clearing 'em away.  But a big, [[Well|well]]-managed
 business with plenty of capital behind it is quite
-another thing.  Well, friends, you all know that I was
+another thing.  [[Well]], friends, you all know that I was
 originally in the Trade; though I have, of course, left
 off selling under the new regulations."  Here the goats
 looked rather guiltily at their cloven hoofs.  "But
 I've got my little bit and I wouldn't mind putting it
-into this 'Old Ship' here, if our friend would allow it
+into this 'Old [[Ship]]' here, if our friend would allow it
 to be run on business lines.  And especially if he'd
 enlarge the premises a bit.  Ha! ha!  And if our good
 friend, the Doctor--"
 
 "You rascal fellow!" spluttered Meadows, "your
-goot friend the doctor will make you dance before a
+goot friend the doctor will make you [[Dance|dance]] before a
 magistrate."
 
 "Now, don't be unbusinesslike," reasoned the brewer.
@@ -8698,7 +8698,7 @@ fiery eyes, "I am a servant of humanity."
 "Then," said Dalroy, "why do you never do what
 your master tells you?"
 
-"The motor has crossed the river," said Humphrey
+"The motor has crossed the [[River|river]]," said Humphrey
 Pump.
 
 "You would undo all my works," cried the Doctor,
@@ -8714,7 +8714,7 @@ am not a goot friend!"
 to that--aren't you trying to sell--"
 
 A motor car drove up with a white explosion of
-dust, and about six very dusty people got out of it.
+[[Dust|dust]], and about six very dusty people got out of it.
 Even through the densest disguise of the swift motorist,
 Pump perceived in many of them the peculiar
 style and bodily carriage of the police.  The most
@@ -8723,7 +8723,7 @@ which, on removing its cap and goggles, disclosed the
 dark and drooping features of J. Leveson, Secretary.
 He walked across to the little, old millionaire, who
 instantly recognized him and shook hands.  They 
-confabulated for some little time, turning over some
+confabulated for some little [[Time|time]], turning over some
 official documents.  Dr. Meadows cleared his throat and
 said to the whole crowd.
 
@@ -8735,12 +8735,12 @@ places of importance such as this a most just and right
 alteration of the law, which exactly meets the present
 case.
 
-"We shall sleep in jail tonight," said Humphrey,
+"We shall [[Sleep|sleep]] in jail tonight," said Humphrey,
 Pump.  "I know it in my bones."
 
 "It is enough to say," proceeded the millionaire,
 "that by the law as it now stands, any innkeeper, even
-if he display a sign, is subject to imprisonment if he
+if he display a sign, is subject to [[Imprisonment|imprisonment]] if he
 sells alcohol on premises where it has not been
 previously kept for three days."
 
@@ -8795,12 +8795,12 @@ enough it was not the withered and fanatical face of
 the philanthropist Meadows, nor the dark and equine
 face of the official Leveson, which stood out most
 vividly as a picture of protest.  The face most strangely
-unsympathetic with this form of charity was that of
+unsympathetic with this form of [[Charity|charity]] was that of
 the ex-proprietor of Hugby's Ales.  His gooseberry
 eyes were almost dropping from his head and his
 words sprang from his lips before he could stop them.
 
-"And you blooming well think you can come here
+"And you blooming [[Well|well]] think you can come here
 like a big buffoon, you beast, and take away all my
 trade--"
 
@@ -8811,20 +8811,20 @@ an adder.
 
 The brewer bubbled with a sort of bursting anger.
 The goats all looked at the ground as is, according to
-a Roman poet, the habit of the lower animals.  Man
+a Roman poet, the habit of the lower [[Animals|animals]].  Man
 (in the character of Mr. Patrick Dalroy) taking advantage
-of a free but fine translation of the Latin passage,
+of a free but fine [[Translation|translation]] of the Latin passage,
 "looked aloft, and with uplifted eyes beheld his own
 hereditary skies."
 
-"Well, all I can say is," roared Mr. Hugby, "if the
+"[[Well]], all I can say is," roared Mr. Hugby, "if the
 police come all this way and can't lock up a dirty loafer
 whose coat's all in rags, there's an end of me paying
 these fat infernal taxes and--"
 
 "Yes," said Dalroy, in a voice that fell like an axe,
 "there is an end of you, please God.  It's brewers like
-you that have made the inns stink with poison, till even
+you that have made the inns stink with [[Poison|poison]], till even
 good men asked for no inns at all.  And you are worse
 than the teetotallers, for you prevented what they never
 knew.  And as for you, eminent man of science, great
@@ -8838,22 +8838,22 @@ should I respect you because you are fastidious about
 food, that your poor old digestion may outlive the
 hearts of better men?  Why should you be the god of
 this valley, whose god is your belly, merely because you
-do not even love your god, but only fear him?  Go
-home to your prayers, old man; for all men shall die.
-Read the Bible, if you like, as they do in your German
-home; and I suppose you once read it to pick texts as
+do not even [[Love|love]] your god, but only [[Fear|fear]] him?  Go
+[[Home|home]] to your prayers, old man; for all men shall die.
+Read the [[Bible]], if you like, as they do in your German
+[[Home|home]]; and I suppose you once read it to pick texts as
 you now read it to pick holes.  I don't read it myself,
 I'm afraid, but I remember some words in old Mulligan's
-translation; and I leave them with you.  'Unless
+[[Translation|translation]]; and I leave them with you.  'Unless
 God,'" and he made a movement with his arm,
 so natural and yet so vast that for an instant the town
 really looked like a toy of bright coloured cardboard
-at the feet of the giant; "'unless God build the city,
+at the feet of the giant; "'unless God build the [[City|city]],
 their labour is but lost that build it; unless God keep
-the city, the watchman watcheth in vain.  It is lost
+the [[City|city]], the watchman watcheth in vain.  It is lost
 labour that you rise up early in the morning and eat
 the bread of carefulness; while He giveth His
-beloved sleep.'  Try and understand what that means,
+beloved [[Sleep|sleep]].'  Try and understand what that means,
 and never mind whether it's Elohistic.  And now,
 Hump, we'll away and away.  I'm tired of the green
 tiles over there.  Come, fill up my cup," and he banged
@@ -8862,18 +8862,18 @@ call out my men.  And tremble, gay goats, in the
 midst of your glee; for you've no' seen the last of my
 milk can and me."
 
-This song was joyously borne away with Mr. Dalroy
+This [[Song|song]] was joyously borne away with Mr. Dalroy
 in the disappearing car; and the motorists were
 miles beyond pursuit from Peaceways before they
 thought of halting again.  But they were still beside
-the bank of that noble and enlarging river; and in a
+the bank of that noble and enlarging [[River|river]]; and in a
 place of deep fern and fairy-ribboned birches with the
-glowing and gleaming water behind them, Patrick
+glowing and gleaming [[Water|water]] behind them, Patrick
 asked his friend to stop the car.
 
 "By the way," said Humphrey, suddenly, "there
 was one thing I didn't understand.  Why was he so
-afraid of the Public Analyst?  What poison and
+afraid of the Public Analyst?  What [[Poison|poison]] and
 chemicals does he put in the milk?"
 
 "H20," answered the Captain, "I take it without
@@ -8904,22 +8904,22 @@ was a most respectable and reliable apothecary, or he
 would not have had the custom of families, especially
 among the upper classes; but he enjoyed as a hobby,
 the study of the dark days and lands where his science
-had lain sometimes on the borders of magic and
+had lain sometimes on the borders of [[Magic|magic]] and
 sometimes upon the borders of murder.  Hence it often
 happened that persons, who in their serious senses
-were well aware of his harmless and useful habits,
-would leave his shop on some murky and foggy night,
+were [[Well|well]] aware of his harmless and useful habits,
+would leave his shop on some murky and foggy [[Night|night]],
 with their heads so full of wild tales of the eating
 of hemp or the poisoning of roses, they could hardly
-help fancying that the shop, with its glowing moon
-of crimson or saffron, like bowls of blood and sulphur,
-was really a house of the Black Art.
+help fancying that the shop, with its glowing [[Moon|moon]]
+of crimson or saffron, like bowls of [[Blood|blood]] and sulphur,
+was really a [[house]] of the Black Art.
 
 It was doubtless for such conversational pleasures,
-in part, that Hibbs However entered the shop; as well
+in part, that Hibbs However entered the shop; as [[Well|well]]
 as for a small glass of the same restorative medicine
 which he had been taking when Leveson found him by
-the open window.  But this did not prevent Hibbs
+the open [[Window|window]].  But this did not prevent Hibbs
 from expressing considerable surprise and some
 embarrassment when Leveson entered the same chemist's
 and asked for the same chemical.  Indeed, Leveson
@@ -8933,27 +8933,27 @@ sick of it.  Where are you going?"
 
 "I thought," said Mr. Hibbs, "of dropping in at
 this Post-Futurist exhibition.  I believe Lord Ivywood
-will be there; he is showing it to the Prophet.
+will be there; he is showing it to the [[Prophet]].
 I don't pretend to know much about art, but I hear it's
 very fine."
 
-There was a long silence and Mr. Leveson said,
+There was a long [[Silence|silence]] and Mr. Leveson said,
 "People always prejudiced against new ideas."
 
-Then there was another long silence and Mr. Hibbs
+Then there was another long [[Silence|silence]] and Mr. Hibbs
 said, "After all, they said the same of Whistler."
 
 Refreshed by this ritual, Mr. Leveson became
 conscious of the existence of Crooke, and said to him,
 cheerfully, "That's so in your department, too, isn't it?
 I suppose the greatest pioneers in chemistry were
-unpopular in their own time."
+unpopular in their own [[Time|time]]."
 
 "Look at the Borgias," said Mr. Crooke.  "They
 got themselves quite disliked."
 
 "You're very flippant, you know," said Leveson, in
-a fatigued way.  "Well, so long.  Are you coming,
+a fatigued way.  "[[Well]], so long.  Are you coming,
 Hibbs?"
 
 And the two gentlemen, who were both attired in
@@ -8962,7 +8962,7 @@ themselves down the street.  It was a fine, sunny day, the
 twin of the day before that had shone so brightly on
 the white town of Peaceways; and their walk was a
 pleasant one, along a handsome street with high houses
-and small trees that overlooked the river all the way.
+and small trees that overlooked the [[River|river]] all the way.
 For the pictures were exhibited in a small but famous
 gallery, a rather rococo building of which the entrance
 steps almost descended upon the Thames.  The building
@@ -8974,7 +8974,7 @@ costume.  But even the sight of that fragrant
 eastern flower did not seem to revive altogether the
 spirits of the drooping Secretary.
 
-"You have coome," said the beaming Prophet, "to
+"You have coome," said the beaming [[Prophet]], "to
 see the decoration?  It is approo-ooved.  I haf
 approo-ooved it."
 
@@ -8993,7 +8993,7 @@ frames.  Every one I have approo-ooved.  No trace
 of ze Man form.  No trace of ze Animal form.  All
 decoration as goo-ood as the goo-oodest of carpets;
 it harms not.  Lord Ivywood smile of happiness; for
-I tell him Islam indeed progresses.  Ze old Moslems
+I tell him [[Islam]] indeed progresses.  Ze old Moslems
 allow to draw the picture of the vegetable.  Here I
 hunt even for the vegetable.  And there is no
 vegetable."
@@ -9001,8 +9001,8 @@ vegetable."
 Hibbs, whose trade was tact, naturally did not
 think it wise that the eminent Misysra should go on
 lecturing from a tall flight of steps to the whole street
-and river, so he had slipped past with a general proposal
-to go in and see.  The Prophet and the Secretary
+and [[River|river]], so he had slipped past with a general proposal
+to go in and see.  The [[Prophet]] and the Secretary
 followed; and all entered the outer hall where Lord
 Ivywood stood with the white face of a statue.  He
 was the only statue the New Moslems were allowed
@@ -9022,7 +9022,7 @@ figures or groups of that world drifted through the
 Exhibition of the Post-Futurists.  It is a very small
 world, but it is just big enough and just small enough
 to govern a country--that is, a country with no
-religion.  And it has all the vanity of a mob; and all
+religion.  And it has all the [[Vanity|vanity]] of a mob; and all
 the reticence of a secret society.
 
 Leveson instantly went up to Lord Ivywood, pulled
@@ -9036,7 +9036,7 @@ like cold marble than before.
 "I made all possible inquiries about their subsequent
 route," the Secretary was heard saying, "and the most
 serious feature is that they seem to have taken the
-road for London."
+[[Road|road]] for [[London]]."
 
 "Quite so," replied the statue, "they will be easier
 to capture here."
@@ -9056,13 +9056,13 @@ sudden appearance of that blameless diplomatist
 quickened the mental current to a cataract.  But as
 he could not insult Hibbs, whom socially he did not
 even know; and could not insult Ivywood, with whom
-he had just had a formal reconciliation, it was
+he had just had a formal [[Reconciliation|reconciliation]], it was
 absolutely necessary that he should insult something else
-instead.  All watchers for the Dawn will be deeply
+instead.  All watchers for the [[Dawn]] will be deeply
 distressed to know that the Post-Futurist School of
 Painting received the full effects of this perverted
-wrath.  In vain did Mr. Leveson affirm from time to
-time, "People always prejudiced against new ideas."
+wrath.  In vain did Mr. Leveson affirm from [[Time|time]] to
+[[Time|time]], "People always prejudiced against new ideas."
 Vainly did Mr. Hibbs say at the proper intervals,
 "After all, they said the same of Whistler."  Not by
 such decent formalities was the frenzy of Dorian to
@@ -9072,22 +9072,22 @@ be appeased.
 he said, "he passes it as a good wall-paper.  I should
 say it was a bad wall-paper; the sort of wall-paper
 that gives a sick man fever when he hasn't got it.  But
-to call it pictures--you might as well call it seats for
-the Lord Mayor's Show.  A seat isn't a seat if you
-can't see the Lord Mayor's Show.  A picture isn't a
+to call it pictures--you might as [[Well|well]] call it seats for
+the [[Lord Mayor]]'s Show.  A seat isn't a seat if you
+can't see the [[Lord Mayor]]'s Show.  A picture isn't a
 picture if you can't see any picture.  You can sit down
-at home more comfortably than you can at a procession.
-And you can walk about at home more comfortably
+at [[Home|home]] more comfortably than you can at a procession.
+And you can walk about at [[Home|home]] more comfortably
 than you can at a picture gallery.  There's only
 one thing to be said for a street show or a picture
 show--and that is whether there is anything to be
 shown.  Now, then!  Show me something!"
 
-"Well," said Lord Ivywood, good humouredly, motioning
+"[[Well]]," said Lord Ivywood, good humouredly, motioning
 toward the wall in front of him, "let me show
 you the 'Portrait of an Old Lady.'"
 
-"Well," said Dorian, stolidly, "which is it?"
+"[[Well]]," said Dorian, stolidly, "which is it?"
 
 Mr. Hibbs made a hasty gesture of identification,
 but was so unfortunate as to point to the picture of
@@ -9105,10 +9105,10 @@ stopped at one glass, and returned with a full
 diplomatic responsibility.
 
 He returned to find that Dorian Wimpole had forgotten
-all the facts of time, place, and personal pride,
+all the facts of [[Time|time]], place, and personal [[Pride|pride]],
 in an argument with Lord Ivywood, exactly as he had
 forgotten such facts in an argument with Patrick
-Dalroy, in a dark wood with a donkey-cart.  And Philip
+Dalroy, in a dark wood with a [[donkey]]-cart.  And Philip
 Ivywood was interested also; his cold eyes even shone;
 for though his pleasure was almost purely intellectual,
 it was utterly sincere.
@@ -9116,7 +9116,7 @@ it was utterly sincere.
 "And I do trust the untried; I do follow the
 inexperienced," he was saying quietly, with his fine
 inflections of voice.  "You say this is changing the very
-nature of Art.  I want to change the very nature of
+[[Nature|nature]] of Art.  I want to change the very [[Nature|nature]] of
 Art.  Everything lives by turning into something else.
 Exaggeration is growth."
 
@@ -9130,19 +9130,19 @@ I hardly think such jokes are in your line.  But don't
 you see, my good Philip, that even then the joke
 depends on its looking like a cow and not only like a
 thing with feathers.  Even then the joke depends on
-the whale as well as the legs.  You can combine up to
+the whale as [[Well|well]] as the legs.  You can combine up to
 a certain point; you can distort up to a certain point;
-after that you lose the identity; and with that you lose
+after that you lose the [[Identity|identity]]; and with that you lose
 everything.  A Centaur is so much of a man with so
-much of a horse.  The Centaur must not be hastily
-identified with the Horsy Man.  And the Mermaid
+much of a [[Horse|horse]].  The Centaur must not be hastily
+identified with the Horsy Man.  And the [[Mermaid]]
 must be maidenly; even if there is something fishy
 about her social conduct."
 
 "No," said Lord Ivywood, in the same quiet way, "I
 understand what you mean, and I don't agree.  I
 should like the Centaur to turn into something else,
-that is neither man nor horse."
+that is neither man nor [[Horse|horse]]."
 
 "But not something that has nothing of either?"
 asked the poet.
@@ -9156,10 +9156,10 @@ that has changed entirely has not changed at all.  It
 has no bridge of crisis.  It can remember no change.
 If you wake up tomorrow and you simply _are_ Mrs.
 Dope, an old woman who lets lodgings at Broadstairs
---well, I don't doubt Mrs. Dope is a saner and
+--[[Well|well]], I don't [[Doubt|doubt]] Mrs. Dope is a saner and
 happier person than you are.  But in what way have
 _you_ progressed?  What part of _you_ is better?  Don't
-you see this prime fact of identity is the limit set on
+you see this prime fact of [[Identity|identity]] is the limit set on
 all living things?"
 
 "No," said Philip, with suppressed but sudden violence,
@@ -9173,7 +9173,7 @@ Lady Joan, who was looking with tedium at a rich
 pattern of purple and green in which Misysra attempted
 to interest her (imploring her to disregard the mere
 title, which idolatrously stated it as "First Communion
-in the Snow"), abruptly turned her full face to
+in the [[Snow]]"), abruptly turned her full face to
 Dorian.  It was a face to which few men could feel
 indifferent, especially when thus suddenly shown them.
 
@@ -9182,9 +9182,9 @@ mean he would resent the limits of metre and rhyme
 and so on?"
 
 The poet reflected for a moment and then said,
-"Well, partly; but I mean more than that too.  As one
+"[[Well]], partly; but I mean more than that too.  As one
 can be candid in the family, I may say that what everyone
-says about him is that he has no humour.  But
+says about him is that he has no [[Humour|humour]].  But
 that's not my complaint at all.  I think my complaint
 is that he has no pathos.  That is, he does not feel
 human limitations.  That is, he will not write poetry."
@@ -9206,15 +9206,15 @@ he dropped it again and confronted Joan with a face
 paler than usual.
 
 "Joan," he said, "I would walk where no man has
-walked; and find something beyond tears and laughter.
-My road shall be my road indeed; for I will make it,
+walked; and find something beyond [[Tears|tears]] and laughter.
+My [[Road|road]] shall be my [[Road|road]] indeed; for I will make it,
 like the Romans.  And my adventures shall not be in
 the hedges and the gutters, but in the borders of the
 ever advancing brain.  I will think what was unthinkable
-until I thought it; I will love what never lived
+until I thought it; I will [[Love|love]] what never lived
 until I loved it--I will be as lonely as the First Man."
 
-"They say," she said, after a silence, "that the first
+"They say," she said, after a [[Silence|silence]], "that the first
 man fell."
 
 "You mean the priests?" he answered.  "Yes, but
@@ -9229,7 +9229,7 @@ pictures, yourself?"
 "I see the breaking of the barriers," he answered,
 "beyond that I see nothing."
 
-She looked at the floor for a little time and traced
+She looked at the floor for a little [[Time|time]] and traced
 patterns with her parasol, like one who has really
 received food for thought.  Then she said, suddenly,
 
@@ -9301,7 +9301,7 @@ know if it was raining, say?"
 countryside," inquired Dorian, scientifically, "a woman
 --let us say an old woman."
 
-"Aye," said the man, with good humour.
+"Aye," said the man, with good [[Humour|humour]].
 
 "What on earth are you doing with the creature?"
 whispered Enid, feverishly.
@@ -9315,7 +9315,7 @@ my asking; you see we are responsible while we keep
 the place going."
 
 There soared up into the sky like a cloud of rooks
-the eager vanity of the North.
+the eager [[Vanity|vanity]] of the North.
 
 "We collier lads are none so badly educated, lad,"
 he said.  "In the town a' was born in there was a
@@ -9329,11 +9329,11 @@ woman and the other rain in the hills.  It's a mere
 formality.  You shall have your drink when you've
 said which is which."
 
-The northerner bowed his huge body before the two
+The northerner bowed his huge [[Body|body]] before the two
 frames and peered into them patiently.  The long stillness
 that followed seemed to be something of a strain
-on Joan, who rose in a restless manner, first went to
-look out of a window and then went out of the front
+on Joan, who [[Rose|rose]] in a restless manner, first went to
+look out of a [[Window|window]] and then went out of the front
 door.
 
 At length the art-critic lifted a large, puzzled but
@@ -9352,12 +9352,12 @@ payment by the rapid method of running out of the
 gallery on to the steps outside.
 
 Joan was already standing there.  Out the little side
-window she had seen the incredible thing she
+[[Window|window]] she had seen the incredible thing she
 expected to see; which explained the ludicrous scene
-inside.  She saw the red and blue wooden flag of Mr.
+inside.  She saw the red and blue wooden [[Flag|flag]] of Mr.
 Pump standing up in the flower-beds in the sun, as
 serenely as if it were a tall and tropical flower;
-and yet, in the brief interval between the window and
+and yet, in the brief interval between the [[Window|window]] and
 the door it had vanished, as if to remind her it was a
 flying dream.  But two men were in a little motor
 outside, which was in the very act of starting.  They
@@ -9365,11 +9365,11 @@ were in motoring disguise, but she knew who they
 were.  All that was deep in her, all that was sceptical,
 all that was stoical, all that was noble, made her
 stand as still as one of the pillars of the porch; but a
-dog, bearing the name of Quoodle, sprang up in the
+dog, bearing the name of [[quoodle|Quoodle]], sprang up in the
 moving car, and barked with joy at the mere sight of
 her, and though she had borne all else, something in
-that bestial innocence of an animal suddenly blinded
-her with tears.
+that bestial [[innocence]] of an animal suddenly blinded
+her with [[Tears|tears]].
 
 It could not, however, blind her to the extraordinary
 fact that followed.  Mr. Dorian Wimpole, attired in
@@ -9388,7 +9388,7 @@ Whistlerian silk hat.
 
 CHAPTER XXI
 
-THE ROAD TO ROUNDABOUT
+THE [[Road|ROAD]] TO ROUNDABOUT
 
 PATRICK DALROY looked at the invader with a heavy
 and yet humorous expression, and merely said, "I
@@ -9400,23 +9400,23 @@ to speak, it wouldn't be fair not to tell you that I
 don't agree much with Ivywood about all this.  I
 disagree with him; or rather, to speak medically, he
 disagrees with me.  He has, ever since I woke up after
-an oyster supper and found myself in the House of
+an oyster supper and found myself in the [[house|House]] of
 Commons with policemen calling out, 'Who goes
-home?'"
+[[Home|home]]?'"
 
 "Indeed," inquired Dalroy, drawing his red bushy
 eyebrows together.  "Do the officials in Parliament
-say, 'Who goes home?'"
+say, 'Who goes [[Home|home]]?'"
 
 "Yes," answered Wimpole, indifferently, "it's a part
 of some old custom in the days when Members of
 Parliament might be attacked in the street."
 
-"Well," inquired Patrick, in a rational tone, "why
+"[[Well]]," inquired Patrick, in a rational tone, "why
 aren't they attacked in the street?"
 
-There was a silence.  "It is a holy mystery," said
-the Captain at last.  "But, 'Who goes home?'--that
+There was a [[Silence|silence]].  "It is a holy mystery," said
+the Captain at last.  "But, 'Who goes [[Home|home]]?'--that
 is uncommonly good."
 
 The Captain had received the poet into the car with
@@ -9424,7 +9424,7 @@ all possible expressions of affability and satisfaction,
 but the poet, who was keen-sighted enough about
 people of his own sort, could not help thinking that
 the Captain was a little absent-minded.  As they flew
-thundering through the mazes of South London (for
+thundering through the mazes of South [[London]] (for
 Pump had crossed Westminster Bridge and was making
 for the Surrey hills), the big blue eyes of the big
 red-haired man rolled perpetually up and down the
@@ -9432,9 +9432,9 @@ streets; and, after longer and longer silences, he found
 expression for his thoughts.
 
 "Doesn't it strike you that there are a very large
-number of chemists in London nowadays?"
+number of chemists in [[London]] nowadays?"
 
-"Are there?" asked Wimpole, carelessly.  "Well,
+"Are there?" asked Wimpole, carelessly.  "[[Well]],
 there certainly are two very close to each other just
 over there."
 
@@ -9453,9 +9453,9 @@ they put one leg into one shop and one into the other
 and have their corns done in both at once?  Or, do
 they take an acid in one shop and an alkali in the
 next, and wait for the fizz?  Or, do they take the
-poison in the first shop and the emetic in the second
+[[Poison|poison]] in the first shop and the emetic in the second
 shop?  It seems like carrying delicacy too far.  It
-almost amounts to living a double life."
+almost amounts to living a [[Double|double]] life."
 
 "But, perhaps," said Dorian, "he is an uproariously
 popular chemist, this Mr. Crooke.  Perhaps there's a
@@ -9464,11 +9464,11 @@ rush on some specialty of his."
 "It seems to me," said the Captain, "that there are
 certain limitations to such popularity in the case of
 a chemist.  If a man sells very good tobacco, people
-may smoke more and more of it from sheer self-indulgence.  But I never heard of anybody exceeding
+may smoke more and more of it from sheer [[Self|self]]-indulgence.  But I never heard of anybody exceeding
 in cod-liver oil.  Even castor-oil, I should say, is
 regarded with respect rather than true affection."
 
-After a few minutes of silence, he said, "Is it safe to
+After a few minutes of [[Silence|silence]], he said, "Is it safe to
 stop here for an instant, Pump?"
 
 "I think so," replied Humphrey, "if you'll promise
@@ -9487,33 +9487,33 @@ consider it an unceremonious invitation to an
 unconventional meal; and it may be necessary to eat it under
 a hedge or even up a tree; but you are a man of taste,
 and one does not apologise for Hump's rum or Hump's
-cheese to persons of taste.  We will eat and drink of
+[[cheese]] to persons of taste.  We will eat and drink of
 our best tonight.  It is a banquet.  I am not very
 certain whether you and I are friends or enemies, but at
 least there shall be peace tonight."
 
-"Friends, I hope," said the poet, smiling, "but why
+"Friends, I [[Hope|hope]]," said the poet, smiling, "but why
 peace especially tonight?"
 
 "Because there will be war tomorrow," answered
 Patrick Dalroy, "whichever side of it you may be on.
 I have just made a singular discovery."
 
-And he relapsed into his silence as they flew out of
-the fringe of London into the woods and hills beyond
+And he relapsed into his [[Silence|silence]] as they flew out of
+the fringe of [[London]] into the woods and hills beyond
 Croydon.  Dalroy remained in the same mood of
 brooding, Dorian was brushed by the butterfly wing
 of that fleeting slumber that will come on a man
 hurried, through the air, after long lounging in hot
-drawing rooms; even the dog Quoodle was asleep at the
-bottom of the car.  As for Humphrey Pump, he very
+drawing rooms; even the dog [[quoodle|Quoodle]] was asleep at the
+[[Bottom|bottom]] of the car.  As for Humphrey Pump, he very
 seldom talked when he had anything else to do.  Thus
 it happened that long landscapes and perspectives were
 shot past them like suddenly shifted slides, and long
-stretches of time elapsed before any of them spoke
+stretches of [[Time|time]] elapsed before any of them spoke
 again.  The sky was changing from the pale golds and
 greens of evening to the burning blue of a strong
-summer night, a night of strong stars.  The walls of
+[[Summer|summer]] [[Night|night]], a [[Night|night]] of strong [[Stars|stars]].  The walls of
 woodland that flew past them like long assegais, were
 mostly, at first, of the fenced and park-like sort;
 endless oblong blocks of black pinewood shut in by boxes
@@ -9526,27 +9526,27 @@ had long known he was on the marches of his native
 land.
 
 So far as the difference could be defined by a detail,
-it seemed to consist not so much in the road rising
-as in the road perpetually winding.  It was more like
+it seemed to consist not so much in the [[Road|road]] rising
+as in the [[Road|road]] perpetually winding.  It was more like
 a path; and even where it was abrupt or aimless, it
 seemed the more alive.  They appeared to be ascending
-a big, dim hill that was built of a crowd of little
+a big, dim [[Hill|hill]] that was built of a crowd of little
 hills with rounded tops; it was like a cluster of domes.
-Among these domes the road climbed and curled in
+Among these domes the [[Road|road]] climbed and curled in
 multitudinous curves and angles.  It was almost
 impossible to believe that it could turn itself and round
 on itself so often without tying itself in a knot and
 choking.
 
-"I say," said Dalroy, breaking the silence suddenly,
+"I say," said Dalroy, breaking the [[Silence|silence]] suddenly,
 "this car will get giddy and fall down."
 
 "Perhaps," said Dorian, beaming at him, "my car,
 as you may have noticed, was much steadier."
 
 Patrick laughed, but not without a shade of confusion.
-"I hope you got back your car all right," he
-said.  "This is really nothing for speed; but it's an
+"I [[Hope|hope]] you got back your car all right," he
+said.  "This is really nothing for [[Speed|speed]]; but it's an
 uncommonly good little climber, and it seems to have
 some climbing to do just now.  And even more
 wandering."
@@ -9554,9 +9554,9 @@ wandering."
 "The roads certainly seem to be very irregular,"
 said Dorian, reflectively.
 
-"Well," cried Patrick, with a queer kind of
+"[[Well]]," cried Patrick, with a queer kind of
 impatience, "you're English and I'm not.  You ought to
-know why the road winds about like this.  Why, the
+know why the [[Road|road]] winds about like this.  Why, the
 Saints deliver us!" he cried, "it's one of the wrongs
 of Ireland that she can't understand England.  England
 won't understand herself, England won't tell us
@@ -9568,9 +9568,9 @@ won't tell us!  You won't tell us!"
 Dalroy, with an irony far from quiet emitted a
 loud yell of victory.
 
-"Right," he shouted.  "More songs of the car club!
-We're all poets here, I hope.  Each shall write
-something about why the road jerks about so much.  So
+"Right," he shouted.  "More [[songs]] of the car club!
+We're all poets here, I [[Hope|hope]].  Each shall write
+something about why the [[Road|road]] jerks about so much.  So
 much as this, for example," he added, as the whole
 vehicle nearly rolled over in a ditch.
 
@@ -9580,7 +9580,7 @@ motor car.  This may have been exaggerated in the
 emotions of his companions, who had both, for
 different reasons, seen much of mere flat country lately.
 The sensation was like a combination of trying to get
-into the middle of the maze at Hampton Court, and
+into the middle of the maze at Hampton [[Court]], and
 climbing the spiral staircase to the Belfry at Bruges.
 
 "This is the right way to Roundabout," said Dalroy,
@@ -9588,21 +9588,21 @@ cheerfully, "charming place; salubrious spot.  You
 can't miss it.  First to the left and right and straight
 on round the corner and back again.  That'll do for my
 poem.  Get on, you slackers; why aren't you writing
-your poems?"
+your [[Poems|poems]]?"
 
 "I'll try one if you like," said Dorian, treating his
 flattered egotism lightly.  "But it's too dark to write;
 and getting darker."
 
-Indeed they had come under a shadow between them
-and the stars, like the brim of a giant's hat; only
-through the holes and rents in which the summer stars
-could now look down on them.  The hill, like a cluster
+Indeed they had come under a [[Shadow|shadow]] between them
+and the [[Stars|stars]], like the brim of a giant's hat; only
+through the holes and rents in which the [[Summer|summer]] [[Stars|stars]]
+could now look down on them.  The [[Hill|hill]], like a cluster
 of domes, though smooth and even bare in its lower
 contours was topped with a tangle of spanning trees
 that sat above them like a bird brooding over its
 nest.  The wood was larger and vaguer than the clump
-that is the crown of the hill at Chanctonbury, but was
+that is the [[Crown|crown]] of the [[Hill|hill]] at Chanctonbury, but was
 rather like it and held much the same high and
 romantic position.  The next moment they were in the
 wood itself, and winding in and out among the trees
@@ -9611,32 +9611,32 @@ the stems, combined with the dragon-like contortions
 of the great grey roots of the beeches, had a suggestion
 of monsters and the deep sea; especially as a long litter
 of crimson and copper-coloured fungi, which might
-well have been the more gorgeous types of anemone
+[[Well|well]] have been the more gorgeous types of anemone
 or jelly-fish, reddened the ground like a sunset dropped
 from the sky.  And yet, contradictorily enough, they
 had also a strong sense of being high up; and even
-near to heaven; and the brilliant summer stars that
+near to heaven; and the brilliant [[Summer|summer]] [[Stars|stars]] that
 stared through the chinks of the leafy roof might
 almost have been white starry blossoms on the trees
 of the wood.
 
 But though they had entered the wood as if it were
-a house, their strongest sensation still was the
-rotatory; it seemed as if that high green house went round
-and round like a revolving lighthouse or the whiz-gig temple in the old pantomimes.  The stars seemed,
+a [[house]], their strongest sensation still was the
+rotatory; it seemed as if that high green [[house]] went round
+and round like a revolving lighthouse or the whiz-gig temple in the old pantomimes.  The [[Stars|stars]] seemed,
 to circle over their heads; and Dorian felt almost
 certain he had seen the same beech-tree twice.
 
 At length they came to a central place where the
-hill rose in a sort of cone in the thick of its trees,
+[[Hill|hill]] [[Rose|rose]] in a sort of cone in the thick of its trees,
 lifting its trees with it.  Here Pump stopped the car,
 and clambering up the slope, came to the crawling
 colossal roots of a very large but very low beech-tree.
 It spread out to the four quarters of heaven more
 in the manner of an octopus than a tree, and within
-its low crown of branches there was a kind of hollow,
+its low [[Crown|crown]] of branches there was a kind of hollow,
 like a cup, into which Mr. Humphrey Pump, of "The
-Old Ship," Pebblewick, suddenly and entirely
+Old [[Ship]]," Pebblewick, suddenly and entirely
 disappeared.
 
 When he appeared it was with a kind of rope ladder,
@@ -9651,10 +9651,10 @@ and began to take out their simple stores.  The dog
 was still asleep in the car.
 
 "An old haunt of yours, Hump, I suppose," said
-the Captain.  "You seem quite at home."
+the Captain.  "You seem quite at [[Home|home]]."
 
-"I am at home," answered Pump, with gravity, "at
-the sign of 'The Old Ship.'"  And he stuck the old
+"I am at [[Home|home]]," answered Pump, with gravity, "at
+the sign of 'The Old [[Ship]].'"  And he stuck the old
 blue and red sign-board erect among the toadstools,
 as if inviting the passer-by to climb the trees for a
 drink.
@@ -9663,38 +9663,38 @@ The tree just topped the mound or clump of trees,
 and from it they could see the whole champaign of the
 country they had passed, with the silver roads roaming
 about in it like rivers.  They were so exalted they
-could almost fancy the stars would burn them.
+could almost fancy the [[Stars|stars]] would burn them.
 
-"Those roads remind me of the songs you've all
+"Those roads remind me of the [[songs]] you've all
 promised," said Dalroy at last.  "Let's have some
 supper, Hump, and then recite."
 
 Humphrey had hung one of the motor lanterns
 onto a branch above him, and proceeded by the light
-of it to tap the keg of rum and hand round the cheese.
+of it to tap the keg of rum and hand round the [[cheese]].
 
 "What an extraordinary thing," exclaimed Dorian
 Wimpole, suddenly.  "Why, I'm quite comfortable!
 Such a thing has never happened before, I should
-imagine.  And how holy this cheese tastes."
+imagine.  And how holy this [[cheese]] tastes."
 
 "It has gone on a pilgrimage," answered Dalroy,
-"or rather a Crusade.  It's a heroic, a fighting cheese.
-'Cheese of all Cheeses, Cheeses of all the world,' as
+"or rather a Crusade.  It's a heroic, a fighting [[cheese]].
+'[[cheese|Cheese]] of all Cheeses, Cheeses of all the world,' as
 my compatriot, Mr. Yeats, says to the Something-or-other
-of Battle.  It's almost impossible that this cheese
+of Battle.  It's almost impossible that this [[cheese]]
 can have come out of such a coward as a cow.  I suppose,"
 he added, wistfully, "I suppose it wouldn't do
 to explain that in this case Hump had milked the
 bull.  That would be classed by scientists among Irish
 legends--those that have the Celtic glamour and all
-that.  No, I think this cheese must have come from
+that.  No, I think this [[cheese]] must have come from
 that Dun Cow of Dunsmore Heath, who had horns
 bigger than elephant's tusks, and who was so ferocious
 that one of the greatest of the old heroes of chivalry
 was required to do battle with it.  The rum's good,
 too.  I've earned this glass of rum--earned it by
-Christian humility.  For nearly a month I've lowered
+Christian [[Humility|humility]].  For nearly a month I've lowered
 myself to the beasts of the field, and gone about on
 all fours like a teetotaller.  Hump, circulate the
 bottle--I mean the cask--and let us have some of this
@@ -9702,16 +9702,16 @@ poetry you're so keen about.  Each poem must have
 the same title, you know; it's a rattling good title.
 It's called 'An Inquiry into the Causes geological,
 historical, agricultural, psychological, psychical, moral,
-spiritual and theological of the alleged cases of double,
+spiritual and theological of the alleged cases of [[Double|double]],
 treble, quadruple and other curvature in the English
-Road, conducted by a specially appointed secret commission
+[[Road]], conducted by a specially appointed secret commission
 in a hole in a tree, by admittedly judicious and
 academic authorities specially appointed by themselves
-to report to the Dog Quoodle, having power to add
+to report to the Dog [[quoodle|Quoodle]], having power to add
 to their number and also to take away the number
-they first thought of; God save the King."  Having
+they first thought of; God save the [[King]]."  Having
 delivered this formula with blinding rapidity, he added
-rather breathlessly, "that's the note to strike, the lyric
+rather breathlessly, "that's the note to strike, the [[Lyric|lyric]]
 note."
 
 For all his rather formless hilarity, Dalroy still
@@ -9719,7 +9719,7 @@ impressed the poet as being more _distrait_ than the
 others, as if his mind were labouring with some bigger
 thing in the background.  He was in a sort of creative
 trance; and Humphrey Pump, who knew him like
-his own soul, knew well that it was not mere literary
+his own [[Soul|soul]], knew [[Well|well]] that it was not mere literary
 creation.  Rather it was a kind of creation which many
 modern moralists would call destruction.  For Patrick
 Dalroy was, not a little to his misfortune, what is
@@ -9733,8 +9733,8 @@ Thus it happened that his contribution to the metrical
 inquiry into the crooked roads was avowedly hasty
 and flippant.  While Dorian who was of the opposite
 temper, the temper that receives impressions instead
-of pushing out to make them, found his artist's love
-of beauty fulfilled as it had never been before in that
+of pushing out to make them, found his [[Artist|artist]]'s [[Love|love]]
+of [[Beauty|beauty]] fulfilled as it had never been before in that
 noble nest; and was far more serious and human than
 usual.  Patrick's verses ran:
 
@@ -9759,10 +9759,10 @@ usual.  Patrick's verses ran:
        Whose lantern lights the meads,
      (To steal a phrase Sir Walter Scott
        In heaven no longer needs)
-     Such dance around the trysting-place
-       The moonstruck lover leads;
+     Such [[Dance|dance]] around the trysting-place
+       The moonstruck [[Lover|lover]] leads;
      Which superstition I should scout;
-       There is more faith in honest doubt,
+       There is more [[Faith|faith]] in honest [[Doubt|doubt]],
      (As Tennyson has pointed out)
        Than in those nasty creeds.
          But peace and righteousness (St. John)
@@ -9775,7 +9775,7 @@ usual.  Patrick's verses ran:
     "Some say that when Sir Lancelot
        Went forth to find the Grail,
      Grey Merlin wrinkled up the roads
-       For hope that he should fail;
+       For [[Hope|hope]] that he should fail;
      All roads led back to Lyonesse
        And Camelot in the Vale;
      I cannot yield assent to this
@@ -9792,7 +9792,7 @@ usual.  Patrick's verses ran:
 Patrick Dalroy relieved his feelings by finishing
 with a shout, draining a stiff glass of his sailor's wine,
 turning restlessly on his elbow and looking across the
-landscape toward London.
+landscape toward [[London]].
 
 Dorian Wimpole had been drinking golden rum
 and strong starlight and the fragrance of forests; and,
@@ -9800,39 +9800,39 @@ though his verses, too, were burlesque, he read them
 more emotionally than was his wont.
 
 "Before the Roman came to Rye or out to Severn strode,
- The rolling English drunkard made the rolling English
-    road.
- A reeling road, a rolling road, that rambles round the shire,
+ The [[rolling]] English drunkard made the [[rolling]] English
+    [[Road|road]].
+ A reeling [[Road|road]], a [[rolling]] [[Road|road]], that rambles round the shire,
  And after him the parson ran, the sexton and the squire.
- A merry road, a mazy road, and such as we did tread
- That night we went to Birmingham by way of Beachy
+ A merry [[Road|road]], a mazy [[Road|road]], and such as we did tread
+ That [[Night|night]] we went to Birmingham by way of Beachy
     Head.
 
 "I knew no harm of Bonaparte and plenty of the Squire,
- And for to fight the Frenchmen I did not much desire;
+ And for to fight the Frenchmen I did not much [[Desire|desire]];
  But I did bash their baggonets because they came arrayed
- To straighten out the crooked road an English drunkard
+ To straighten out the crooked [[Road|road]] an English drunkard
     made,
  Where you and I went down the lane with ale-mugs in
     our hands
- The night we went to Glastonbury by way of Goodwin
+ The [[Night|night]] we went to Glastonbury by way of Goodwin
     Sands.
 
-"His sins they were forgiven him; or why do flowers run
+"His sins they were forgiven him; or why do [[Flowers|flowers]] run
  Behind him; and the hedges all strengthening in the sun?
  The wild thing went from left to right and knew not
     which was which,
- But the wild rose was above him when they found him
+ But the wild [[Rose|rose]] was above him when they found him
     in the ditch.
  God pardon us, nor harden us; we did not see so clear
- The night we went to Bannockburn by way of Brighton
+ The [[Night|night]] we went to Bannockburn by way of Brighton
     Pier.
 
 "My friends, we will not go again or ape an ancient rage,
  Or stretch the folly of our youth to be the shame of age,
  But walk with clearer eyes and ears this path that
     wandereth,
- And see undrugged in evening light the decent inn of death;
+ And see undrugged in evening light the decent inn of [[Death|death]];
  For there is good news yet to hear and fine things to be
     seen
  Before we go to Paradise by way of Kensal Green."
@@ -9842,10 +9842,10 @@ Humphrey, who had been scribbling hard under the
 lamp, looked up with a dismal face.
 
 "Yes," he said.  "But I write under a great disadvantage.
-You see, I know why the road curves about."
+You see, I know why the [[Road|road]] curves about."
 And he read very rapidly, all on one note:
 
-    "The road turned first toward the left
+    "The [[Road|road]] turned first toward the left
      Where Pinker's quarry made the cleft;
      The path turned next toward the right
      Because the mastiff used to bite;
@@ -9853,17 +9853,17 @@ And he read very rapidly, all on one note:
      And then again toward the right.
      We could not take the left because
      It would have been against the laws;
-     Squire closed it in King William's day
+     Squire closed it in [[King]] William's day
      Because it was a Right of Way.
-     Still right; to dodge the ridge of chalk
-     Where Parson's Ghost it used to walk,
+     Still right; to dodge the ridge of [[chalk]]
+     Where Parson's [[Ghost]] it used to walk,
      Till someone Parson used to know
      Met him blind drunk in Callao.
      Then left, a long way round, to skirt
      The good land where old Doggy Burt
-     Was owner of the Crown and Cup,
+     Was owner of the [[Crown]] and Cup,
      And would not give his freehold up;
-     Right, missing the old river-bed,
+     Right, missing the old [[River|river]]-bed,
      They tried to make him take instead
      Right, since they say Sir Gregory
      Went mad and let the Gypsies be,
@@ -9877,13 +9877,13 @@ And he read very rapidly, all on one note:
      Since the policeman lost his clothes
      Because of fairies; right again,
      What used to be High Toby Lane,
-     Left by the double larch and right
+     Left by the [[Double|double]] larch and right
      Until the milestone is in sight,
-     Because the road is firm and good
+     Because the [[Road|road]] is firm and good
      From past the milestone to the wood;
      And I was told by Dr. Lowe
      Whom Mr. Wimpole's aunt would know,
-     Who lives at Oxford writing books,
+     Who lives at [[Oxford]] writing books,
      And ain't so silly as he looks;
      The Romans did that little bit
      And we've done all the rest of it;
@@ -9913,7 +9913,7 @@ interest.
 
 "My complaint, exactly," said the Captain.  "What
 you want is legends.  What you want is lies, especially
-at this time of night, and on rum like this, and on our
+at this [[Time|time]] of [[Night|night]], and on rum like this, and on our
 first and our last holiday.  What do you think about
 rum?" he asked Wimpole.
 
@@ -9921,12 +9921,12 @@ rum?" he asked Wimpole.
 at this particular moment," answered Wimpole, "I
 think it is the nectar of the younger gods.  If you
 ask me in a general, synthetic sense what I think of
-rum--well, I think it's rather rum."
+rum--[[Well|well]], I think it's rather rum."
 
 "You find it a trifle sweet, I suppose," said Dalroy,
 with some bitterness.  "Sybarite!  By the way," he
 said abruptly, "what a silly word that word 'Hedonist'
-is!  The really self-indulgent people generally like
+is!  The really [[Self|self]]-indulgent people generally like
 sour things and not sweet; bitter things like caviar
 and curries or what not.  It's the Saints who like the
 sweets.  At least I've known at least five women who
@@ -9942,11 +9942,11 @@ ceases.  But when the three boys last met in the
 village market-place, they were all sucking sugar-sticks.  Nevertheless, they were all discontented, and,
 on that day parted for ever.  One remained on his
 father's farm, hungering for his inheritance.  One
-went up to London to seek his fortune, as fortunes
+went up to [[London]] to seek his fortune, as fortunes
 are found today in that town forgotten of God.  The
 third ran away to sea.  And the first two flung away
 their sugar-sticks in shame; and he on the farm was
-always drinking smaller and sourer beer for the love
+always drinking smaller and sourer beer for the [[Love|love]]
 of money; and he that was in town was always drinking
 richer and richer wines, that men might see that
 he was rich.  But he who ran away to sea actually ran
@@ -9960,7 +9960,7 @@ an unprecedented cargo, will elicit a sympathetic
 agreement."
 
 "Your rum at least," said Dorian, good-humouredly,
-"may well produce a fairy-tale.  But, indeed, I think
+"may [[Well|well]] produce a fairy-tale.  But, indeed, I think
 all this would have been a fairy-tale without it."
 
 Patrick raised himself from his arboreal throne,
@@ -9971,39 +9971,39 @@ sincere sense of being rebuked.
 irrelevance, "and mine was a bad one.  Mine was
 bad, partly because I'm not a poet as you are; but
 almost as much because I was trying to make up
-another song at the same time.  And it went to another
+another [[Song|song]] at the same [[Time|time]].  And it went to another
 tune, you see."
 
-He looked out over the rolling roads and said
+He looked out over the [[rolling]] roads and said
 almost to himself:
 
-    "In the city set upon slime and loam
-     They cry in their parliament 'Who goes home?'
+    "In the [[City|city]] set upon slime and loam
+     They cry in their parliament 'Who goes [[Home|home]]?'
      And there is no answer in arch or dome,
-     For none in the city of graves goes home.
+     For none in the [[City|city]] of graves goes [[Home|home]].
      Yet these shall perish and understand,
      For God has pity on this great land.
-     Men that are men again; who goes home?
-     Tocsin and trumpeter!  Who goes home?
-     For there's blood on the field and blood on the foam,
-     And blood on the body when man goes home.
+     Men that are men again; who goes [[Home|home]]?
+     Tocsin and trumpeter!  Who goes [[Home|home]]?
+     For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam,
+     And [[Blood|blood]] on the [[Body|body]] when man goes [[Home|home]].
      And a voice valedictory--Who is for Victory?
-     Who is for Liberty?  Who goes home?"
+     Who is for Liberty?  Who goes [[Home|home]]?"
 
 Softly and idly as he had said this second rhyme,
 there were circumstances about his attitude that must
 have troubled or interested anyone who did not know
-him well.
+him [[Well|well]].
 
 "May I ask," asked Dorian, laughing, "why it is
-necessary to draw your sword at this stage of the
+necessary to draw your [[Sword|sword]] at this stage of the
 affair?"
 
 "Because we have left the place called Roundabout,"
 answered Patrick, "and we have come to a
 place called Rightabout."
 
-And he lifted his sword toward London, and the
+And he lifted his [[Sword|sword]] toward [[London]], and the
 grey glint upon it came from a low, grey light in the
 east.
 
@@ -10026,7 +10026,7 @@ shopkeeper for some distance round.  Mr. Crooke still
 served in his shop, however; and politely hastened
 to serve his customer with the medicine that was
 customary.  Unfortunately, for some reason or other,
-history was, in connection with this shop, only too
+[[history]] was, in connection with this shop, only too
 prone to repeat itself.  And after a vague but soothing
 conversation with the chemist (on the subject of
 vitriol and its effects on human happiness), Mr. Hibbs
@@ -10036,7 +10036,7 @@ enter the same fashionable emporium.  But, indeed,
 Leveson's own annoyance was much too acute for him
 to notice any on the part of Hibbs.
 
-"Well," he said, stopping dead in the middle of
+"[[Well]]," he said, stopping dead in the middle of
 the shop, "here is a fine confounded kettle of fish!"
 
 It is one of the tragedies of the diplomatic that they
@@ -10047,7 +10047,7 @@ pursing his lips, "you mean the _general_ situation."
 "I mean the situation about this everlasting
 business of the inn-signs," said Leveson, impatiently.
 "Lord Ivywood went up specially, when his leg was
-really bad, to get it settled in the House in a small
+really bad, to get it settled in the [[house|House]] in a small
 non-contentious bill, providing that the sign shouldn't be
 enough if the liquor hadn't been on the spot three
 days."
@@ -10067,7 +10067,7 @@ kept too quiet to be obeyed.  It's not so easy to hush
 it up from a big politician without running the risk
 of hushing it up even from a common policeman."
 
-"But surely that can't happen, by the nature of
+"But surely that can't happen, by the [[Nature|nature]] of
 things?"
 
 "Can't it, by God," said J. Leveson, appealing to a
@@ -10088,7 +10088,7 @@ asserted to be a sign-board within the meaning of the act.
 There, you see, they haven't even heard of the new
 act!  What do you think of this, from the _Clapton
 Conservator_.  'The contempt of Socialists for the law
-was well illustrated yesterday, when a crowd, collected
+was [[Well|well]] illustrated yesterday, when a crowd, collected
 round some wooden ensign of Socialism set up before
 Mr. Dugdale's Drapery Stores, refused to disperse,
 though told that their action was contrary to the law.
@@ -10097,16 +10097,16 @@ following the wooden emblem.'  And what do you say
 to this?  'Stop-press news.  A chemist in Pimlico has
 been invaded by a huge crowd, demanding beer; and
 asserting the provision of it to be among his duties.
-The chemist is, of course, well acquainted with his
+The chemist is, of course, [[Well|well]] acquainted with his
 immunities in the matter, especially under the new
 act; but the old notion of the importance of the sign
 seems still to possess the populace and even, to a
 certain extent, to paralyze the police.'  What do you say
 to that?  Isn't it as plain as Monday morning that
 this Flying Inn has flown a day in front of us, as all
-such lies do?"  There was a diplomatic silence.
+such lies do?"  There was a diplomatic [[Silence|silence]].
 
-"Well," asked the still angry Leveson of the still
+"[[Well]]," asked the still angry Leveson of the still
 dubious Hibbs, "what do you make of all that?"
 
 One ill-acquainted with that relativity essential to
@@ -10121,7 +10121,7 @@ Crooke.
 with an expression which they both thought baffling
 and even a little disconcerting.  "Good morning, Mr.
 Crooke.  I have a celebrated visitor for you."  And
-he introduced the smiling Misysra.  The Prophet had
+he introduced the smiling Misysra.  The [[Prophet]] had
 fallen back on a comparatively quiet costume this
 morning, a mere matter of purple and orange or what
 not; but his aged face was now perennially festive.
@@ -10133,7 +10133,7 @@ beau-uti-ful speech?"
 "I have heard many," said Hibbs, gracefully, "that
 can be so described."
 
-"The Prophet means what I was saying about the
+"The [[Prophet]] means what I was saying about the
 Ballot Paper Amendment Act," said Ivywood, casually.
 "It seems to be the alphabet of statesmanship
 to recognise now that the great oriental British
@@ -10142,23 +10142,23 @@ occidental one.  Look at our universities, with their
 Mohammedan students; soon they may be a majority.
 Now are we," he went on, still more quietly, "are
 we to rule this country under the forms of representative
-government?  I do not pretend to believe in
-democracy, as you know, but I think it would be
+[[government]]?  I do not pretend to believe in
+[[democracy]], as you know, but I think it would be
 extremely unsettling and incalculable to destroy
-representative government.  If we are to give Moslem
-Britain representative government, we must not make
+representative [[government]].  If we are to give Moslem
+Britain representative [[government]], we must not make
 the mistake we made about the Hindoos and military
 organization--which led to the Mutiny.  We must not
-ask them to make a cross on their ballot papers; for
+ask them to make a [[Cross|cross]] on their ballot papers; for
 though it seems a small thing, it may offend them.
 So I brought in a little bill to make it optional between
-the old-fashioned cross and an upward curved mark
+the old-fashioned [[Cross|cross]] and an upward curved mark
 that might stand for a crescent--and as it's rather
 easier to make, I believe it will be generally adopted."
 
 "And so," said the radiant old Turk, "the little,
 light, easily made, curly mark is substituted for the
-hard, difficult, double-made, cutting both ways mark.
+hard, difficult, [[Double|double]]-made, cutting both ways mark.
 It is the more good for hygi-e-ene.  For you must
 know, and indeed our good and wise Chemist will tell
 you, that the Saracenic and the Arabian and the Turkish
@@ -10171,21 +10171,21 @@ origin."
 "Yes, that is quite true," said Crooke, in his rather
 cryptic and unsympathetic way, "the powder called
 Arenine, lately popularised by Mr. Boze, now Lord
-Helvellyn, who tried it first on birds, is made of plain
-desert sand.  And what you see in prescriptions as
+Helvellyn, who tried it first on [[Birds|birds]], is made of plain
+[[Desert|desert]] sand.  And what you see in prescriptions as
 _Cannabis Indiensis_ is what our lively neighbours of
 Asia describe more energetically as bhang."
 
 "And so-o--in the sa-ame way," said Misysra, making
 soothing passes with his brown hand like a mesmerist,
 "in the sa-ame way the making of the crescent
-is hy-gienic; the making of the cross is non-hy-gienic.
+is hy-gienic; the making of the [[Cross|cross]] is non-hy-gienic.
 The crescent was a little wave, as a leaf, as
 a little curling feather," and he waved his hand with
 real artistic enthusiasm toward the capering curves of
 the new Turkish decoration which Ivywood had made
 fashionable in many of the fashionable shops.  "But
-when you make the cross you must make the one line
+when you make the [[Cross|cross]] you must make the one line
 _so-o_," and he swept the horizon with the brown hand,
 "and then you must go back and make the other line
 so-o," and he made an upward gesture suggestive of
@@ -10193,9 +10193,9 @@ one constrained to lift a pine-tree.  "And then you
 become very ill."
 
 "As a matter of fact, Mr. Crooke," said Ivywood,
-in his polite manner, "I brought the Prophet here to
+in his polite manner, "I brought the [[Prophet]] here to
 consult you as the best authority on the very point you
-have just mentioned--the use of hashish or the hemp-plant.  I have it on my conscience to decide whether
+have just mentioned--the use of hashish or the hemp-plant.  I have it on my [[Conscience|conscience]] to decide whether
 these oriental stimulants or sedatives shall come under
 the general veto we are attempting to impose on the
 vulgar intoxicants.  Of course one has heard of the
@@ -10203,20 +10203,20 @@ horrible and voluptuous visions, and a kind of insanity
 attributed to the Assassins and the Old Man of the
 Mountain.  But, on the one hand, we must clearly
 discount much for the illimitable pro-Christian bias
-with which the history of these eastern tribes is told
+with which the [[history]] of these eastern tribes is told
 in this country.  Would you say the effect of hashish
 was extremely bad?"  And he turned first to the
-Prophet.
+[[Prophet]].
 
 "You will see mosques," said that seer with candour,
 "many mosques--more mosques--taller and taller
-mosques till they reach the moon and you bear a
+mosques till they reach the [[Moon|moon]] and you bear a
 dreadful voice in the very high mosque calling the
 muezzin; and you will think it is Allah.  Then you
 will see wives--many, many wives--more wives than
 you yet have.  Then you will be rolled over and over
 in a great pink and purple sea--which is still wives.
-Then you will go to sleep.  I have only done it once,"
+Then you will go to [[Sleep|sleep]].  I have only done it once,"
 he concluded mildly.
 
 "And what do you think about hashish, Mr.
@@ -10224,7 +10224,7 @@ Crooke?" asked Ivywood, thoughtfully.
 
 "I think it's hemp at both ends," said the Chemist.
 
-"I fear," said Lord Ivywood, "I don't quite
+"I [[Fear|fear]]," said Lord Ivywood, "I don't quite
 understand you."
 
 "A hempen drink, a murder, and a hempen rope.
@@ -10237,7 +10237,7 @@ And, of course," he added, with a simplicity that had
 something noble about it, "their connection with St.
 Louis discredits them rather."
 
-After a space of silence, he said suddenly, looking
+After a space of [[Silence|silence]], he said suddenly, looking
 at Crooke, "So it isn't the sort of thing you chiefly
 sell?"
 
@@ -10275,7 +10275,7 @@ Hibbs coughed considerately and said, "Of course
 all our things came from the East, and"--and he
 paused, being suddenly unable to remember anything
 but curry; to which he was very rightly attached.  He
-then remembered Christianity, and mentioned that
+then remembered [[Christianity]], and mentioned that
 too.  "Everything from the East is good, of course,"
 he ended, with an air of light omniscience.
 
@@ -10291,16 +10291,16 @@ illogical compliment.
 
 "You are in error," he said, solemnly, to Hibbs,
 "because you say all things from the East are good.
-There is the east wind.  I do not like him.  He is not
+There is the east [[Wind|wind]].  I do not like him.  He is not
 good.  And I think very much that all the warmth and
-all the wealthiness and the colours and the poems and
+all the wealthiness and the colours and the [[Poems|poems]] and
 the religiousness that the East was meant to give you
 have been much poisoned by this accident, this east
-wind.  When you see the green flag of the Prophet,
-you do not think of a green field in Summer, you think
-of a green wave in your seas of Winter; for you think
-it blown by the east wind.  When you read of the
-moon-faced houris you think not of our moons like
+[[Wind|wind]].  When you see the green [[Flag|flag]] of the [[Prophet]],
+you do not think of a green field in [[Summer]], you think
+of a green wave in your seas of [[Winter]]; for you think
+it blown by the east [[Wind|wind]].  When you read of the
+[[Moon|moon]]-faced houris you think not of our moons like
 oranges but of your moons like snowballs--"
 
 Here a new voice contributed to the conversation.
@@ -10318,12 +10318,12 @@ and seemed honestly abashed that she was not present.
 Ivywood looked at the man with that expression
 of one turned to stone, which his physique made so
 effective in him.  But J. Leveson, Secretary, could
-summon no such powers of self-petrification.  Upon
-his soul the slaughter red of that unhallowed eve arose
-when first the Ship and he were foes; when he
+summon no such powers of [[Self|self]]-petrification.  Upon
+his [[Soul|soul]] the slaughter red of that unhallowed eve arose
+when first the [[Ship]] and he were foes; when he
 discovered that the poor are human beings, and
 therefore are polite and brutal within a comparatively short
-space of time.  He saw that two other men were
+space of [[Time|time]].  He saw that two other men were
 standing behind the plastering person, one of them
 apparently urging him to counsels of moderation; which
 was an ominous sign.  And then he lifted his eyes and
@@ -10331,7 +10331,7 @@ saw something worse than any omen.
 
 All the glass frontage of the shop was a cloud of
 crowding faces.  They could not be clearly seen, since
-night was closing in on the street; and the dazzling
+[[Night|night]] was closing in on the street; and the dazzling
 fires of ruby and amethyst which the lighted shop
 gave to its great globes of liquid, rather veiled than
 revealed them.  But the foremost actually flattened
@@ -10342,11 +10342,11 @@ of an upright staff and a square board.  He could not
 see what was on the board.  He did not need to see.
 
 Those who saw Lord Ivywood at such moments
-understood why he stood out so strongly in the history
-of his time, in spite of his frozen face and his fanciful
+understood why he stood out so strongly in the [[history]]
+of his [[Time|time]], in spite of his frozen face and his fanciful
 dogmas.  He had all the negative nobility that is
 possible to man.  Unlike Nelson and most of the great
-heroes, he knew not fear.  Thus he was never conquered
+heroes, he knew not [[Fear|fear]].  Thus he was never conquered
 by a surprise, but was cold and collected when
 other men had lost their heads even if they had not
 lost their nerve.
@@ -10354,7 +10354,7 @@ lost their nerve.
 "I will not conceal from you, gentlemen," said Lord
 Ivywood, "that I have been expecting this.  I will not
 even conceal from you that I have been occupying Mr.
-Crooke's time until it occurred.  So far from excluding
+Crooke's [[Time|time]] until it occurred.  So far from excluding
 the crowd, I suggest it would be an excellent thing
 if Mr. Crooke could accommodate them all in this shop.
 I want to tell, as soon as possible, as large a crowd as
@@ -10365,7 +10365,7 @@ Come in and listen!"
 "Thank yer," said a man connected in some way
 with motor buses, who lurched in behind the plasterer.
 
-"Thanky, sir," said a bright little clock-mender
+"Thanky, sir," said a bright little [[Clock|clock]]-mender
 from Croydon, who immediately followed him.
 
 "Thanks," said a rather bewildered clerk from
@@ -10373,23 +10373,23 @@ Camberwell, who came next in the rather bewildered
 procession.
 
 "Thank you," said Mr. Dorian Wimpole, who
-entered, carrying a large round cheese.
+entered, carrying a large round [[cheese]].
 
 "Thank you," said Captain Dalroy, who entered
 carrying a large cask of rum.
 
 "Thank you very much," said Mr. Humphrey
 Pump, who entered the shop carrying the sign of
-"The Old Ship."
+"The Old [[Ship]]."
 
-I fear it must be recorded that the crowd which
+I [[Fear|fear]] it must be recorded that the crowd which
 followed them dispensed with all expressions of
 gratitude.  But though the crowd filled the shop so that
 there was no standing room to spare, Leveson still
 lifted his gloomy eyes and beheld his gloomy omen.
 For, though there were very many more people standing
 in the shop, there seemed to be no less people
-looking in at the window.
+looking in at the [[Window|window]].
 
 "Gentlemen," said Ivywood, "all jokes come to an
 end.  This one has gone so far as to be serious; and it
@@ -10409,16 +10409,16 @@ with a sigh, "And as you truly say, my jest has come
 to an end."
 
 "That wooden sign," said Ivywood, pointing at the
-queer blue ship, "can be cut up for firewood.  It shall
-lead decent citizens a devil's dance no more.  Understand
+queer blue [[Ship|ship]], "can be cut up for firewood.  It shall
+lead decent citizens a devil's [[Dance|dance]] no more.  Understand
 it once and for all, before you learn it from
-policemen or prison warders.  You are under a new
+policemen or [[Prison|prison]] warders.  You are under a new
 law.  That sign is the sign of nothing.  You can no
 more buy and sell alcohol by having that outside your
-house, than if it were a lamp-post."
+[[house]], than if it were a lamp-post."
 
 "D'you meanter say, guv'ner," said the plasterer,
-with a dawn of intelligence on his large face which
+with a [[Dawn|dawn]] of intelligence on his large face which
 was almost awful to watch, "that I ain't to 'ave a glass
 o' bitter?"
 
@@ -10426,7 +10426,7 @@ o' bitter?"
 
 "Captain Dalroy," said Lord Ivywood, "if you
 give one drop from that cask to that man, you are
-breaking the law and you shall sleep in jail."
+breaking the law and you shall [[Sleep|sleep]] in jail."
 
 "Are you quite sure?" asked Dalroy, with a strange
 sort of anxiety.  "I might escape."
@@ -10442,7 +10442,7 @@ necktie, I will," said the plasterer.  "Why ain't people
 allowed to know the law?"
 
 "They ain't got no right to alter the law in the dark
-like that," said the clock-mender.  "Damn the new
+like that," said the [[Clock|clock]]-mender.  "Damn the new
 law."
 
 "What is the new law?" asked the clerk.
@@ -10456,7 +10456,7 @@ that cask of yours has not, I think, been three
 days on these premises.  I command you to seal it up
 and take it away."
 
-"Surely," said Patrick, with an innocent air, "the
+"Surely," said Patrick, with an [[Innocent|innocent]] air, "the
 best remedy would be to wait till it _has been three days_
 on the premises.  We might all get to know each other
 better."  And he looked round at the ever-increasing
@@ -10465,9 +10465,9 @@ multitude with hazy benevolence.
 "You shall do nothing of the kind," said his lordship,
 with sudden fierceness.
 
-"Well," answered Patrick, wearily, "now I come
+"[[Well]]," answered Patrick, wearily, "now I come
 to think of it, perhaps I won't.  I'll have one drink
-here and go home to bed like a good little boy."
+here and go [[Home|home]] to bed like a good little boy."
 
 "And the constables shall arrest you," thundered
 Ivywood.
@@ -10499,7 +10499,7 @@ on the counter by Hibbs and Leveson.
 "What is that man drinking?" he demanded.
 
 Hibbs put out his hand hastily for his glass, but
-the indignant clock-mender had snatched it first and
+the indignant [[Clock|clock]]-mender had snatched it first and
 drained it at a gulp.
 
 "Scortch," he said, and dashed the glass to atoms
@@ -10512,7 +10512,7 @@ port.  Fetch it down, Bill."
 Ivywood turned to Crooke and said, scarcely moving
 his lips of marble, "This is a lie."
 
-"It is the truth," answered Crooke, looking back at
+"It is the [[Truth|truth]]," answered Crooke, looking back at
 him with equal steadiness.  "Do you think you made
 the world, that you should make it over again so
 easily?"
@@ -10534,16 +10534,16 @@ glass was crashing amid the cries of a crowd.  Rivers
 of gold and purple wines sprawled about the pavement.
 
 "Out in the open!" shouted Dalroy, rushing out of
-the shop, sign-board in hand, the dog Quoodle barking
-furiously at his heels, while Dorian with the cheese
+the shop, sign-board in hand, the dog [[quoodle|Quoodle]] barking
+furiously at his heels, while Dorian with the [[cheese]]
 and Humphrey with the keg followed as rapidly as
 they could.  "Goodnight, my lord.
 
     "Perhaps our meeting next may fall,
-     At Tomworth in your castle hall.
+     At Tomworth in your [[Castle|castle]] hall.
 
 "Come along, friends, and form up.  Don't waste
-time destroying property.  We're all to start now."
+[[Time|time]] destroying property.  We're all to start now."
 
 "Where are we all going to?" asked the plasterer.
 
@@ -10556,15 +10556,15 @@ Wimpole, who was toward the tail of the procession, saw
 again the grey Cyclops tower of St. Stephens, with
 its one great golden eye, as he had seen it against that
 pale green sunset that was at once quiet and volcanic
-on the night he was betrayed by sleep and by a friend.
+on the [[Night|night]] he was betrayed by [[Sleep|sleep]] and by a friend.
 Almost as far off, at the head of the procession, he
-could see the sign with the ship and the cross going
+could see the sign with the [[Ship|ship]] and the [[Cross|cross]] going
 before them like an ensign, and hear a great voice
 singing--
-    "Men that are men again, Who goes home?
-     Tocsin and trumpeter!  Who goes home?
+    "Men that are men again, Who goes [[Home|home]]?
+     Tocsin and trumpeter!  Who goes [[Home|home]]?
      The voice valedictory--who is for Victory?
-     Who is for Liberty?  Who goes home?"
+     Who is for Liberty?  Who goes [[Home|home]]?"
 
 * * *
 
@@ -10572,34 +10572,34 @@ CHAPTER XXIII
 
 THE MARCH ON IVYWOOD
 
-THAT storm-spirit, or eagle of liberty, which is the
-sudden soul in a crowd, had descended upon London
+THAT [[Storm|storm]]-spirit, or eagle of liberty, which is the
+sudden [[Soul|soul]] in a crowd, had descended upon [[London]]
 after a foreign tour of some centuries in which it had
 commonly alighted upon other capitals.  It is always
 impossible to define the instant and the turn of mood
 which makes the whole difference between danger
-being worse than endurance and endurance being
+being worse than [[Endurance|endurance]] and [[Endurance|endurance]] being
 worse than danger.  The actual outbreak generally
 has a symbolic or artistic, or, what some would call
-whimsical cause.  Somebody fires off a pistol or
+whimsical cause.  Somebody fires off a [[Pistol|pistol]] or
 appears in an unpopular uniform, or refers in a loud
 voice to a scandal that is never mentioned in the
 newspapers; somebody takes off his hat, or somebody
-doesn't take off his hat; and a city is sacked before
+doesn't take off his hat; and a [[City|city]] is sacked before
 midnight.  When the ever-swelling army of revolt
 smashed a whole street full of the shops of Mr.
 Crooke, the chemist, and then went on to Parliament,
-the Tower of London and the road to the sea, the
+the Tower of [[London]] and the [[Road|road]] to the sea, the
 sociologists hiding in their coal-cellars could think
 (in that clarifying darkness) of many material and
-spiritual explanations of such a storm in human souls;
+spiritual explanations of such a [[Storm|storm]] in human souls;
 but of none that explained it quite enough.  Doubtless
 there was a great deal of sheer drunkenness when
 the urns and goblets of Aesculapius were reclaimed as
 belonging to Bacchus: and many who went roaring
-down that road were merely stored with rich wines
+down that [[Road|road]] were merely stored with rich wines
 and liqueurs which are more comfortably and quietly
-digested at a City banquet or a West End restaurant.
+digested at a [[City]] banquet or a West End restaurant.
 But many of these had been blind drunk twenty times
 without a thought of rebellion; you could not stretch
 the material explanation to cover a corner of the
@@ -10613,23 +10613,23 @@ Dorian Wimpole was at the tail of the procession,
 which grew more and more crowded every moment.
 For one space of the march he even had the misfortune
 to lose it altogether; owing to the startling activity
-which the rotund cheese when it escaped from his
-hands showed, in descending a somewhat steep road
-toward the river.  But in recent days he had gained
+which the rotund [[cheese]] when it escaped from his
+hands showed, in descending a somewhat steep [[Road|road]]
+toward the [[River|river]].  But in recent days he had gained
 a pleasure in practical events which was like a second
 youth.  He managed to find a stray taxi-cab; and had
 little difficulty in picking up again the trail of the
 extraordinary cortège.  Inquiries addressed to a
-policeman with a black eye outside the House of Commons
+policeman with a black eye outside the [[house|House]] of Commons
 informed him sufficiently of the rebels' line of retreat
 or advance, or whatever it was; and in a very short
-time he beheld the unmistakable legion once more.
+[[Time|time]] he beheld the unmistakable legion once more.
 It was unmistakable, because in front of it there
 walked a red-headed giant, apparently carrying with
 him a wooden portion of some public building; and also
 because so big a crowd had never followed any man
-in England for a long time past.  But except for such
-things the unmistakable crowd might well have been
+in England for a long [[Time|time]] past.  But except for such
+things the unmistakable crowd might [[Well|well]] have been
 mistaken for another one.  Its aspect had been altered
 almost as much as if it had grown horns or tusks; for
 many of the company walked with outlandish weapons
@@ -10651,7 +10651,7 @@ Pump walked on the other side, with the celebrated
 cask suspended round his neck by something
 resembling braces, as if it were a drum.  Mr. Wimpole
 had himself taken the opportunity of his brief
-estrangement to carry the cheese somewhat more
+estrangement to carry the [[cheese]] somewhat more
 easily in a very large, loose, waterproof knapsack on
 his shoulders.  The effect in both cases was to suggest
 dreadful deformities in two persons who happened to
@@ -10667,11 +10667,11 @@ of you a fancy dress ball?  What have you been up
 to?"
 
 "We've been shopping," said Mr. Patrick Dalroy,
-with some pride.  "We are country cousins.  I know
+with some [[Pride|pride]].  "We are country cousins.  I know
 all about shopping; let us see, what are the phrases
 about it?  Look at those rifles now!  We got them
 quite at a bargain.  We went to all the best
-gunsmiths in London, and we didn't pay much.  In fact,
+gunsmiths in [[London]], and we didn't pay much.  In fact,
 we didn't pay anything.  That's what is called a bargain,
 isn't it?  Surely, I've seen in those things they
 send to ladies something about 'giving them away.'
@@ -10681,12 +10681,12 @@ piece of stuff we've tied round the sign.  Surely, it
 must be what ladies called chiffon?"
 
 Dorian lifted his eyes and perceived that a very
-coarse strip of red rag, possibly collected from a dust
+coarse strip of red rag, possibly collected from a [[Dust|dust]]
 bin, had been tied round the wooden sign-post by way
-of a red flag of revolution.
+of a red [[Flag|flag]] of revolution.
 
 "Not what ladies call chiffon?" inquired the Captain
-with anxiety.  "Well, anyhow, it is what _chiffoniers_
+with anxiety.  "[[Well]], anyhow, it is what _chiffoniers_
 call it.  But as I'm going to call on a lady shortly,
 I'll try to remember the distinction."
 
@@ -10697,7 +10697,7 @@ Wimpole.
 find a music shop--you know what I mean.  Place
 where they sell pianos and things of that sort."
 
-"Look here," said Dorian, "this cheese is pretty
+"Look here," said Dorian, "this [[cheese]] is pretty
 heavy as it is.  Have I got to carry a piano, too?"
 
 "You misunderstand me," said the Captain, calmly.
@@ -10714,26 +10714,26 @@ to shops?"
 went to all the right places.  We went to the Houses
 of Parliament.  But Parliament isn't sitting; so there
 are no eggs of the quality suitable for elections.  We
-went to the Tower of London--you can't tire country
+went to the Tower of [[London]]--you can't tire country
 cousins like us.  We took away some curiosities of
 steel and iron.  We even took away the halberds from
 the Beef-eaters.  We pointed out that for the purpose
 of eating beef (their only avowed public object)
 knives and forks had always been found more
-convenient.  To tell the truth, they seemed rather
+convenient.  To tell the [[Truth|truth]], they seemed rather
 relieved to be relieved of them."
 
 "And may I ask," said the other with a smile, "where
 you are off to now?"
 
-"Another beauty spot!" cried the Captain, boisterously,
+"Another [[Beauty|beauty]] spot!" cried the Captain, boisterously,
 "no tiring the country cousin!  I am going
 to show my young friends from the provinces what is
-perhaps the finest old country house in England.  We
+perhaps the finest old country [[house]] in England.  We
 are going to Ivywood, not far from that big watering
 place they call Pebblewick."
 
-"I see," said Dorian; and for the first time looked
+"I see," said Dorian; and for the first [[Time|time]] looked
 back with intelligent trouble on his face, on the marching
 ranks behind him.
 
@@ -10743,16 +10743,16 @@ Ivywood talked about having set the police to catch
 us; and though this is a pretty big crowd, I simply
 cannot believe that the police, as I knew them in my
 youth, could not catch us.  But where are the police?
-You seem to have marched through half London with
+You seem to have marched through half [[London]] with
 much (if you'll excuse me) of the appearance of
 carrying murderous weapons.  Lord Ivywood threatened
-that the police would stop us.  Well, why didn't they
+that the police would stop us.  [[Well]], why didn't they
 stop us?"
 
 "Your subject," said Patrick, cheerfully, "divides
 itself into three heads."
 
-"I hope not," said Dorian.
+"I [[Hope|hope]] not," said Dorian.
 
 "There really are three reasons why the police
 should not be prominent in this business; as their worst
@@ -10761,12 +10761,12 @@ enemy cannot say that they were."
 He began ticking off the three on his own huge
 fingers; and seemed to be quite serious about it.
 
-"First," he said, "you have been a long time away
+"First," he said, "you have been a long [[Time|time]] away
 from town.  Probably you do not know a policeman
 when you see him.  They do not wear helmets, as our
 line regiments did after the Prussians had won.  They
 wear fezzes, because the Turks have won.  Shortly, I
-have little doubt, they will wear pigtails, because the
+have little [[Doubt|doubt]], they will wear pigtails, because the
 Chinese have won.  It is a very interesting branch of
 moral science.  It is called Efficiency.
 
@@ -10774,8 +10774,8 @@ moral science.  It is called Efficiency.
 omitted to notice that a very considerable number
 of those wearing such fezzes are walking just behind
 us.  Oh, yes, it's quite true.  Don't you remember
-that the whole French Revolution really began
-because a sort of City Militia refused to fire on their
+that the whole [[French Revolution]] really began
+because a sort of [[City]] Militia refused to [[Fire|fire]] on their
 own fathers and wives; and even showed some slight
 traces of a taste for firing on the other side?  You'll
 see lots of them behind; and you can tell them by
@@ -10798,17 +10798,17 @@ complaint."
 
 "But very clear," said the Captain, gravely, "to
 anyone who has ever seen sailors or soldiers.  I will tell
-you the truth.  Our rulers have come to count on the
+you the [[Truth|truth]].  Our rulers have come to count on the
 bare bodily cowardice of a mass of Englishmen, as a
 sheep dog counts on the cowardice of a flock of sheep.
 Now, look here, Mr. Wimpole, wouldn't a shepherd
-be wise to limit the number of his dogs if he could
+be wise to limit the number of his [[dogs]] if he could
 make his sheep pay by it?  At the end you might find
 millions of sheep managed by a solitary dog.  But that
 is because they are sheep.  Suppose the sheep were
 turned by a miracle into wolves.  There are very few
-dogs they could not tear in pieces.  But, what is my
-practical point, there are really very few dogs to
+[[dogs]] they could not tear in pieces.  But, what is my
+practical point, there are really very few [[dogs]] to
 tear."
 
 "You don't mean," said Dorian, "that the British
@@ -10834,10 +10834,10 @@ Dorian Wimpole.  "Of course Ivywood and the
 authorities do seem very prone to rely on the sepoy
 troops."
 
-"And other troops as well," said Patrick.  "I think
+"And other troops as [[Well|well]]," said Patrick.  "I think
 you will be surprised when you see them."
 
-He tramped on for a while in silence and then said,
+He tramped on for a while in [[Silence|silence]] and then said,
 with some air of abruptness, which yet did not seem
 to be entirely a changing of the subject,
 
@@ -10848,29 +10848,29 @@ next to Ivywood?"
 very much to himself."
 
 "And his estate, too," said Patrick, rather gloomily.
-"If you would climb his garden-wall, Wimpole, I
+"If you would climb his [[Garden|garden]]-wall, Wimpole, I
 think you would find an answer to a good many of
 your questions.  Oh, yes, the right honourable gentlemen
 are making full provision for public order and
 national defence--in a way."
 
-He fell into an almost sullen silence again; and
+He fell into an almost sullen [[Silence|silence]] again; and
 several villages had been passed before he spoke again.
 
-They tramped through the darkness; and dawn
+They tramped through the darkness; and [[Dawn|dawn]]
 surprised them somewhere in the wilder and more
 wooded parts where the roads began to rise and roam.
 Dalroy gave an exclamation of pleasure and pointed
 ahead, drawing the attention of Dorian to the
 distance.  Against the silver and scarlet bars of the
 daybreak could be seen afar a dark purple dome, with a
-crown of dark green leaves; the place they had called
+[[Crown|crown]] of dark green [[Leaves|leaves]]; the place they had called
 Roundabout.
 
 Dalroy's spirit seemed to revive at the sight, with
 the customary accompaniment of the threat of vocalism.
 
-"Been making any poems lately?" he asked of
+"Been making any [[Poems|poems]] lately?" he asked of
 Wimpole.
 
 "Nothing particular," replied the poet.
@@ -10880,7 +10880,7 @@ throat, "you shall listen to one of mine, whether you
 like it or not--nay, the more you dislike it the longer
 and longer it will be.  I begin to understand why
 soldiers want to sing when on the march; and also why
-they put up with such rotten songs.
+they put up with such rotten [[songs]].
 
     "The Druids waved their golden knives
      And danced around the Oak,
@@ -10890,14 +10890,14 @@ they put up with such rotten songs.
      Entirely see the joke;
      But though they cut the throats of men
      They cut not down the tree,
-     And from the blood the saplings sprang
+     And from the [[Blood|blood]] the saplings sprang
      Of oak-woods yet to be.
        But Ivywood, Lord Ivywood,
        He rots the tree as ivy would,
        He clings and crawls as ivy would
        About the sacred tree.
 
-    "King Charles he fled from Worcester fight
+    "[[King]] Charles he fled from Worcester fight
      And hid him in an Oak;
      In convent schools no man of tact
      Would trace and praise his every act,
@@ -10916,8 +10916,8 @@ they put up with such rotten songs.
      And flung the acorns free,
      That oaks might still be in the grove
      As oaken as the beams above
-     When the great Lover sailors love
-     Was kissed by Death at sea.
+     When the great [[Lover]] sailors [[Love|love]]
+     Was kissed by [[Death]] at sea.
      But though for him the oak-trees fell
      To build the oaken ships,
      The woodman worshipped what he smote
@@ -10927,65 +10927,65 @@ they put up with such rotten songs.
        As the dragon of the ivy would,
        That has us in his grips."
 
-They were ascending a sloping road, walled in on
+They were ascending a sloping [[Road|road]], walled in on
 both sides by solemn woods, which somehow seemed
 as watchful as owls awake.  Though daybreak was
 going over them with banners, scrolls of scarlet and
-gold, and with a wind like trumpets of triumph, the
+gold, and with a [[Wind|wind]] like trumpets of triumph, the
 dark woods seemed to hold their secret like dark, cool
 cellars; nor was the strong sunlight seen in them, save
 in one or two brilliant shafts, that looked like
 splintered emeralds.
 
-"I should not wonder," said Dorian, "if the ivy
+"I should not [[Wonder|wonder]]," said Dorian, "if the ivy
 does not find the tree knows a thing or two also."
 
 "The tree does," assented the Captain.  "The
 trouble was that until a little while ago the tree did
 not know that it knew."
 
-There was a silence; and as they went up the incline
+There was a [[Silence|silence]]; and as they went up the incline
 grew steeper and steeper, and the tall trees seemed
 more and more to be guarding something from sight,
 as with the grey shields of giants.
 
-"Do you remember this road, Hump?" asked Dalroy
+"Do you remember this [[Road|road]], Hump?" asked Dalroy
 of the innkeeper.
 
 "Yes," answered Humphrey Pump, and said no
 more; but few have ever heard such fulness in an
 affirmative.
 
-They marched on in silence and about two hours
-afterward, toward eleven o'clock, Dalroy called a
+They marched on in [[Silence|silence]] and about two hours
+afterward, toward eleven o'[[Clock|clock]], Dalroy called a
 halt in the forest, and said that everybody had better
-have a few hours' sleep.  The impenetrable quality
+have a few hours' [[Sleep|sleep]].  The impenetrable quality
 in the woods and the comparative softness of the
 carpet of beech-mast, made the spot as appropriate as
-the time was inappropriate.  And if anyone thinks
+the [[Time|time]] was inappropriate.  And if anyone thinks
 that common people, casually picked up in a street,
-could not follow a random leader on such a journey or
-sleep at his command in such a spot, given the state
-of the soul, then someone knows no history.
+could not follow a random leader on such a [[Journey|journey]] or
+[[Sleep|sleep]] at his command in such a spot, given the state
+of the [[Soul|soul]], then someone knows no [[history]].
 
 "I'm afraid," said Dalroy, "you'll have to have
 your supper for breakfast.  I know an excellent place
-for having breakfast, but it's too exposed for sleep.
-And sleep you must have; so we won't unpack the
+for having breakfast, but it's too exposed for [[Sleep|sleep]].
+And [[Sleep|sleep]] you must have; so we won't unpack the
 stores just now.  We'll lie down like Babes in the
 Wood, and any bird of an industrious disposition is
-free to start covering me with leaves.  Really, there
-are things coming, before which you will want sleep."
+free to start covering me with [[Leaves|leaves]].  Really, there
+are things coming, before which you will want [[Sleep|sleep]]."
 
 When they resumed the march it was nearly the
 middle of the afternoon; and the meal which Dalroy
 insisted buoyantly on describing as breakfast was taken
 about that mysterious hour when ladies die without
-tea.  The steep road had consistently grown steeper
+tea.  The steep [[Road|road]] had consistently grown steeper
 and steeper; and steeper; and at last, Dalroy said to
 Dorian Wimpole,
 
-"Don't drop that cheese again just here, or it will
+"Don't drop that [[cheese]] again just here, or it will
 roll right away down into the woods.  I know it will.
 No scientific calculations of grades and angles are
 necessary; because I have seen it do so myself.  In
@@ -11011,26 +11011,26 @@ England."
 
 Some of his audience began to laugh, but somehow
 suddenly ceased doing so, as Dalroy strode forward
-and planted the sign of "The Old Ship" on the
+and planted the sign of "The Old [[Ship]]" on the
 desolate sea-shore.
 
 "And now," he said, "you have charge of the stores
 we brought, Hump, and we will picnic.  As it said in
-a song I once sang,
+a [[Song|song]] I once sang,
 
     "The Saracen's Head out of Araby came,
-     King Richard riding in arms like flame,
+     [[King]] [[Richard]] riding in arms like flame,
      And where he established his folk to be fed
      He set up his spear, and the Saracen's Head."
 
 It was nearly dusk before the mob, much swelled by
 the many discontented on the Ivywood estates, reached
-the gates of Ivywood House.  Strategically, and for
-the purposes of a night surprise, this might have done
+the gates of Ivywood [[house|House]].  Strategically, and for
+the purposes of a [[Night|night]] surprise, this might have done
 credit to the Captain's military capacity.  But the use
 to which he put it actually was what some might call
 eccentric.  When he had disposed his forces, with
-strict injunctions of silence for the first few minutes,
+strict injunctions of [[Silence|silence]] for the first few minutes,
 he turned to Pump, and said,
 
 "And now, before we do anything else, I'm going
@@ -11054,24 +11054,24 @@ THE ENIGMAS OF LADY JOAN
 ON an evening when the sky was clear and only its
 fringes embroidered with the purple arabesques of the
 sunset, Joan Brett was walking on the upper lawn of
-the terraced garden at Ivywood, where the peacocks
+the terraced [[Garden|garden]] at Ivywood, where the peacocks
 trail themselves about.  She was not unlike one of
-the peacocks herself in beauty, and some might have
+the peacocks herself in [[Beauty|beauty]], and some might have
 said, in inutility; she had the proud head and the
 sweeping train; nor was she, in these days, devoid of
 the occasional disposition to scream.  For, indeed, for
-some time past she had felt her existence closing round
+some [[Time|time]] past she had felt her existence closing round
 her with an incomprehensible quietude; and that is
 harder for the patience than an incomprehensible
 noise.  Whenever she looked at the old yew hedges
-of the garden they seemed to be higher than when
+of the [[Garden|garden]] they seemed to be higher than when
 she saw them last; as if those living walls could still
 grow to shut her in.  Whenever from the turret windows
 she had a sight of the sea, it seemed to be farther
 away.  Indeed, the whole closing of the end of the
 turret wing with the new wall of eastern woodwork
 seemed to symbolise all her shapeless sensations.  In
-her childhood the wing had ended with a broken-down
+her [[Childhood|childhood]] the wing had ended with a broken-down
 door and a disused staircase.  They led to an
 uncultivated copse and an abandoned railway tunnel, to
 which neither she nor anyone else ever wanted to go.
@@ -11090,7 +11090,7 @@ was a gentleman from the Mediterranean coast; which
 singular form of words seemed to have been put into
 her mouth.  As a Mediterranean gentleman might
 mean anything from an American gentleman living
-in Venice to a black African on the edge of the Atlas,
+in [[Venice]] to a black African on the edge of the Atlas,
 the description did not illuminate; and probably was
 not intended to do so.  She occasionally saw his liveried
 servants going about; and their liveries were not
@@ -11109,7 +11109,7 @@ and she was not allowed to know about it.
 But she had deeper spiritual troubles also, while,
 under the pathetic entreaties of old, Lady Ivywood
 and her own sick mother, she stayed on week after
-week at Ivywood House.  If the matter be stated
+week at Ivywood [[house|House]].  If the matter be stated
 cynically (as she herself was quite capable of stating
 it) she was engaged in the established feminine
 occupation of trying to like a man.  But the cynicism would
@@ -11121,28 +11121,28 @@ She had liked him when he was brought in with
 Pump's bullet in his leg; and was still the strongest
 and calmest man in the room.  She had liked him
 when the hurt took a dangerous turn, and when he
-bore pain to admiration.  She had liked him when
+bore [[Pain|pain]] to admiration.  She had liked him when
 he showed no malice against the angry Dorian; she
 had liked him with something like enthusiasm on the
-night he rose rigid on his rude crutch, and, crushing
+[[Night|night]] he [[Rose|rose]] rigid on his rude crutch, and, crushing
 all remonstrance, made his rash and swift rush to
-London.  But, despite the queer closing-in-sensations
+[[London]].  But, despite the queer closing-in-sensations
 of which we have spoken, she never liked him better
 than that evening when he lifted himself laboriously
-on his crutch up the terraces of the old garden and
+on his crutch up the terraces of the old [[Garden|garden]] and
 came to speak to her as she stood among the peacocks.
 He even tried to pat a peacock in a hazy way, as if it
-were a dog.  He told her that these beautiful birds
+were a dog.  He told her that these beautiful [[Birds|birds]]
 were, of course, imported from the East--by the semi-eastern empire of Macedonia.  But, all the same, Joan
 had a dim suspicion that he had never noticed before
 that there were any peacocks at Ivywood.  His greatest
-fault was a pride in the faultlessness of his mental
+fault was a [[Pride|pride]] in the faultlessness of his mental
 and moral strength; but, if he had only known, something
 faintly comic in the unconscious side of him did
 him more good with the woman than all the rest.
 
-"They were said to be the birds of Juno," he said,
-"but I have little doubt that Juno, like so much else
+"They were said to be the [[Birds|birds]] of Juno," he said,
+"but I have little [[Doubt|doubt]] that Juno, like so much else
 of the Homeric mythology, has also an Asiatic origin."
 
 "I always thought," said Joan, "that Juno was
@@ -11156,47 +11156,47 @@ view of women.  It is, somehow, too simple and solid
 for our paradoxical Christendom to comprehend.
 Even the vulgar joke against the Turks, that they
 like their brides fat, has in it a sort of distorted
-shadow of what I mean.  They do not look so much at the
+[[Shadow|shadow]] of what I mean.  They do not look so much at the
 individual, as at Womanhood and the power of
-Nature."
+[[Nature]]."
 
 "I sometimes think," said Joan, "that these fascinating
 theories are a little strained.  Your friend
 Misysra told me the other day that women had the
-highest freedom in Turkey; as they were allowed to
+highest [[Freedom|freedom]] in Turkey; as they were allowed to
 wear trousers."
 
 Ivywood smiled his rare and dry smile.  "The
-Prophet has something of a simplicity often found
+[[Prophet]] has something of a simplicity often found
 with genius," he answered.  "I will not deny that
 some of the arguments he has employed have seemed
 to me crude and even fanciful.  But he is right at the
-root.  There is a kind of freedom that consists in
-never rebelling against Nature; and I think they
-understand it in the Orient better than we do in the
-West.  You see, Joan, it is all very well to talk about
-love in our narrow, personal, romantic way; but there
-is something higher than the love of a lover or the love
-of love."
+root.  There is a kind of [[Freedom|freedom]] that consists in
+never rebelling against [[Nature]]; and I think they
+understand it in the [[Orient]] better than we do in the
+West.  You see, Joan, it is all very [[Well|well]] to talk about
+[[Love|love]] in our narrow, personal, romantic way; but there
+is something higher than the [[Love|love]] of a [[Lover|lover]] or the [[Love|love]]
+of [[Love|love]]."
 
 "What is that?" asked Joan, looking down.
 
-"The love of Fate," said Lord Ivywood, with something
+"The [[Love|love]] of Fate," said Lord Ivywood, with something
 like spiritual passion in his eyes.  "Doesn't
 Nietzsche say somewhere that the delight in destiny
-is the mark of the hero?  We are mistaken if we
-think that the heroes and saints of Islam say 'Kismet'
+is the mark of the [[Hero|hero]]?  We are mistaken if we
+think that the heroes and saints of [[Islam]] say 'Kismet'
 with bowed heads and in sorrow.  They say 'Kismet'
 with a shout of joy.  That which is fitting--that is
 what they really mean.  In the Arabian tales, the
 most perfect prince is wedded to the most perfect
 princess--because it is fitting.  The spiritual giants,
-the Genii, achieve it--that is, the purposes of Nature.
+the Genii, achieve it--that is, the purposes of [[Nature]].
 In the selfish, sentimental European novels, the loveliest
 princess on earth might have run away with her
 middle-aged drawing-master.  These things are not
 in the Path.  The Turk rides out to wed the fairest
-queen of the earth; he conquers empires to do it; and
+[[Queen|queen]] of the earth; he conquers empires to do it; and
 he is not ashamed of his laurels."
 
 The crumpled violet clouds around the edge of the
@@ -11204,15 +11204,15 @@ silver evening looked to Lady Joan more and more like
 vivid violet embroideries hemming some silver curtain
 in the closed corridor at Ivywood.  The peacocks
 looked more lustrous and beautiful than they ever had
-before; but for the first time she really felt they came
+before; but for the first [[Time|time]] she really felt they came
 out of the land of the Arabian Nights.
 
 "Joan," said Philip Ivywood, very softly, in the
 twilight, "I am not ashamed of my laurels, I see no
-meaning in what these Christians call humility.  I
+meaning in what these Christians call [[Humility|humility]].  I
 will be the greatest man in the world if I can; and I
 think I can.  Therefore, something that is higher
-than love itself, Fate and what is fitting, make it right
+than [[Love|love]] itself, Fate and what is fitting, make it right
 that I should wed the most beautiful woman in the
 world.  And she stands among the peacocks and is
 more beautiful and more proud than they."
@@ -11224,10 +11224,10 @@ like "don't."
 "Joan," said Philip, again, "I have told you, you
 are the woman one of the great heroes could have
 desired.  Let me now tell you something I could have
-told no one to whom I had not thus spoken of love and
+told no one to whom I had not thus spoken of [[Love|love]] and
 betrothal.  When I was twenty years old in a town in
-Germany, pursuing my education, I did what the West
-calls falling in love.  She was a fisher-girl from the
+[[Germany]], pursuing my [[Education|education]], I did what the West
+calls falling in [[Love|love]].  She was a fisher-girl from the
 coast; for this town was near the sea.  My story might
 have ended there.  I could not have entered diplomacy
 with such a wife, but I should not have minded then.
@@ -11236,12 +11236,12 @@ Flanders, and found myself standing above some of
 the last grand reaches of the Rhine.  And things
 came over me but for which I might be crying stinking
 fish to this day.  I thought how many holy or
-lovely nooks that river had left behind, and gone on.
+lovely nooks that [[River|river]] had left behind, and gone on.
 It might anywhere in Switzerland have spent its weak
 youth in a spirit over a high crag, or anywhere in the
-Rhinelands lost itself in a marsh covered with flowers.
+Rhinelands lost itself in a marsh covered with [[Flowers|flowers]].
 But it went on to the perfect sea, which is the
-fulfilment of a river."
+fulfilment of a [[River|river]]."
 
 Again, Joan could not speak; and again it was
 Philip who went on.
@@ -11255,7 +11255,7 @@ everywhere!  And ask yourself whether you don't wish
 they had been infant marriages!  People talk in the
 newspapers of the heartlessness of royal marriages.
 But you and I do not believe the newspapers, I
-suppose.  We know there is no King in England; nor has
+suppose.  We know there is no [[King]] in England; nor has
 been since his head fell before Whitehall.  You know
 that you and I and the families are the Kings of
 England; and our marriages are royal marriages.  Let
@@ -11263,13 +11263,13 @@ the suburbs call them heartless.  Let us say they need
 the brave heart that is the only badge of aristocracy.
 Joan," he said, very gently, "perhaps you have been
 near a crag in Switzerland, or a marsh covered with
-flowers.  Perhaps you have known--a fisher-girl.  But
+[[Flowers|flowers]].  Perhaps you have known--a fisher-girl.  But
 there is something greater and simpler than all that;
 something you find in the great epics of the East--the beautiful woman, and the great man, and Fate."
 
 "My lord," said Joan, using the formal phrase by
 an unfathomable instinct, "will you allow me a little
-more time to think of this?  And let there be no
+more [[Time|time]] to think of this?  And let there be no
 notion of disloyalty, if my decision is one way or the
 other?"
 
@@ -11297,7 +11297,7 @@ convalescence of Ivywood, about which she could say
 nothing except that it annoyed her somehow.  There
 was something in it glorious--but also languorous.
 By an impulse by no means uncommon among intelligent,
-fashionable people, she felt a desire to talk to a
+fashionable people, she felt a [[Desire|desire]] to talk to a
 sensible woman of the middle or lower classes; and
 almost threw herself on the bosom of Miss Browning
 for sympathy.
@@ -11305,8 +11305,8 @@ for sympathy.
 But Miss Browning, with her curling, reddish hair
 and white, very clever face, struck the same indescribable
 note.  Lord Ivywood was assumed as a first principle;
-as if he were Father Time, or the Clerk of the
-Weather.  He was called "He."  The fifth time he
+as if he were Father [[Time]], or the Clerk of the
+Weather.  He was called "He."  The fifth [[Time|time]] he
 was called "He," Joan could not understand why she
 seemed to smell the plants in the hot conservatory.
 
@@ -11314,36 +11314,36 @@ seemed to smell the plants in the hot conservatory.
 with his career; that is the important thing.  And,
 really, I think the quieter we keep about everything
 the better.  I am sure he is maturing very big plans.
-You heard what the Prophet said the other night?"
+You heard what the [[Prophet]] said the other [[Night|night]]?"
 
-"The last thing the Prophet said to me," said the
+"The last thing the [[Prophet]] said to me," said the
 darker lady, in a dogged manner, "was that when we
 English see the English youth, we cry out 'He is
 crescent!'  But when we see the English aged man, we
-cry out 'He is cross!'"
+cry out 'He is [[Cross|cross]]!'"
 
 A lady with so clever a face could not but laugh
 faintly; but she continued on a determined theme, "The
-Prophet said, you know, that all real love had in it
+[[Prophet]] said, you know, that all real [[Love|love]] had in it
 an element of fate.  And I am sure that is his
-view, too.  People cluster round a centre as little stars
+view, too.  People cluster round a centre as little [[Stars|stars]]
 do round a star; because a star is a magnet.  You are
 never wrong when destiny blows behind you like a
-great big wind; and I think many things have been
-judged unfairly that way.  It's all very well to talk
+great big [[Wind|wind]]; and I think many things have been
+judged unfairly that way.  It's all very [[Well|well]] to talk
 about the infant marriages in India."
 
 "Miss Browning," said Joan, "are you interested
 in the infant marriages in India?"
 
-"Well--" said Miss Browning.
+"[[Well]]--" said Miss Browning.
 
 "Is your sister interested in them?  I'll run and ask
 her," cried Joan, plunging across the room to where
 Mrs. Mackintosh was sitting at a table scribbling
 secretarial notes.
 
-"Well," said Mrs. Mackintosh, turning up a rich-haired,
+"[[Well]]," said Mrs. Mackintosh, turning up a rich-haired,
 resolute head, more handsome than her sister's,
 "I believe the Indian way is the best.  When people are
 left to themselves in early youth, any of them might
@@ -11351,7 +11351,7 @@ marry anything.  We might have married a nigger
 or a fish-wife or--a criminal."
 
 "Now, Mrs. Mackintosh," said Joan, with black-browed
-severity, "you well know you would never
+severity, "you [[Well|well]] know you would never
 have married a fish-wife.  Where is Enid?" she ended
 suddenly.
 
@@ -11364,8 +11364,8 @@ at the piano.
 
 "Enid," cried Joan, "you know I've always been
 fond of you.  For God's sake tell me what is the
-matter with this house?  I admire Philip as everybody
-does.  But what is the matter with the house?  Why
+matter with this [[house]]?  I admire Philip as everybody
+does.  But what is the matter with the [[house]]?  Why
 do all these rooms and gardens seem to be shutting
 me in and in and in?  Why does everything look more
 and more the same?  Why does everybody say the
@@ -11379,7 +11379,7 @@ two on the piano.  Then she said,
 
 "Nor do I, Joan.  I don't indeed.  I know exactly
 what you mean.  But it's just because there is a
-purpose that I have faith in him and trust him."  She
+purpose that I have [[Faith|faith]] in him and trust him."  She
 began softly to play a ballad tune of the Rhineland;
 and perhaps the music suggested her next remark.
 "Suppose you were looking at some of the last reaches
@@ -11389,7 +11389,7 @@ of the Rhine, where it flows--"
 Sea,' I shall scream.  Scream, do you hear, louder
 than all the peacocks together."
 
-"Well," expostulated Lady Enid, looking up rather
+"[[Well]]," expostulated Lady Enid, looking up rather
 wildly, "The Rhine _does_ flow into the North Sea,
 doesn't it?"
 
@@ -11410,7 +11410,7 @@ Joan walked back through the corridor of the
 music room, and restlessly resumed her seat in the
 room with the two lady secretaries.
 
-"Well," asked the red-haired and good-humoured
+"[[Well]]," asked the red-haired and good-humoured
 Mrs. Mackintosh, without looking up from her work
 of scribbling, "have you discovered anything?"
 
@@ -11420,20 +11420,20 @@ candid and friendly tone, which somehow contrasted
 with her knit and swarthy brows--
 "No, really.  At least I think I've only found out
 two things; and they are only things about myself.
-I've discovered that I do like heroism, but I don't
-like hero worship."
+I've discovered that I do like [[Heroism|heroism]], but I don't
+like [[Hero|hero]] worship."
 
 "Surely," said Miss Browning, in the Girton
 manner, "the one always flows from the other."
 
-"I hope not," said Joan.
+"I [[Hope|hope]] not," said Joan.
 
-"But what else can you do with the hero?" asked
+"But what else can you do with the [[Hero|hero]]?" asked
 Mrs. Mackintosh, still without looking up from her
 writing, "except worship him?"
 
 "You might crucify him," said Joan, with a sudden
-return of savage restlessness, as she rose from her
+return of savage restlessness, as she [[Rose|rose]] from her
 chair.  "Things seem to happen then."
 
 "Aren't you tired?" asked the Miss Browning who
@@ -11441,12 +11441,12 @@ had the clever face.
 
 "Yes," said Joan, "and the worst sort of tiredness;
 when you don't even know what you're tired of.  To
-tell the honest truth, I think I'm tired of this
-house."
+tell the honest [[Truth|truth]], I think I'm tired of this
+[[house]]."
 
 "It's very old, of course, and parts of it are still
 dismal," said Miss Browning, "but he has enormously
-improved it.  The decoration, with the moon and stars,
+improved it.  The decoration, with the [[Moon|moon]] and [[Stars|stars]],
 down in the wing with the turret is really--"
 
 Away in the distant music room, Lady Enid, having
@@ -11463,18 +11463,18 @@ found the right tune now."
 "The tune of harp, sackbut, psaltery, dulcimer and
 all kinds of music," said Joan, softly and fiercely,
 "when we shall bow down and worship the Golden
-Image that Nebuchadnezzar the King has set up.
+Image that Nebuchadnezzar the [[King]] has set up.
 Girls!  Women!  Do you know what this place is?  Do
 you know why it is all doors within doors and lattice
 behind lattice; and everything is curtained and
-cushioned; and why the flowers that are so fragrant here
-are not the flowers of our hills?"
+cushioned; and why the [[Flowers|flowers]] that are so fragrant here
+are not the [[Flowers|flowers]] of our hills?"
 
 From the distant and slowly darkening music room,
-Enid Wimpole's song came thin and clear:
+Enid Wimpole's [[Song|song]] came thin and clear:
 
-  "Less than the dust beneath thy chariot wheel,
-   Less than the rust that never stained thy sword--"
+  "Less than the [[Dust|dust]] beneath thy chariot [[Wheel|wheel]],
+   Less than the rust that never stained thy [[Sword|sword]]--"
 
 "Do you know what we are?" demanded Joan
 Brett, again. "We are a Harem."
@@ -11491,7 +11491,7 @@ this room stinks of polygamy as certainly as it smells
 of tube-roses."
 
 "Why, Joan," cried Lady Enid, entering the room
-like a well-bred ghost, "what on earth is the matter
+like a [[Well|well]]-bred [[Ghost|ghost]], "what on earth is the matter
 with you.  You all look as white as sheets."
 
 Joan took no heed of her but went on with her
@@ -11517,7 +11517,7 @@ afterward; or I will scream as I would scream trapped in
 any den by the Docks."
 
 She swept down the rooms toward the turret, with
-a sudden passion for solitude; but as she passed the
+a sudden passion for [[Solitude|solitude]]; but as she passed the
 astronomical wood-carving that had closed up the
 end of the old wing, Enid saw her strike it with her
 clinched hand.
@@ -11525,7 +11525,7 @@ clinched hand.
 It was in the turret that she had a strange experience.
 She was again, later on, using its isolation to
 worry out the best way of having it out with Philip,
-when he should return from his visit to London; for
+when he should return from his visit to [[London]]; for
 to tell old Lady Ivywood what was on her mind
 would be about as kind and useful as describing Chinese
 tortures to a baby.  The evening was very quiet,
@@ -11533,25 +11533,25 @@ of the pale grey sort, and all that side of Ivywood
 lay before her eyes, undisturbed.  She was the more
 surprised when her dreaming took note of a sort of
 stirring in the grey-purple dusk of the bushes; of
-whisperings; and of many footsteps.  Then the silence
+whisperings; and of many footsteps.  Then the [[Silence|silence]]
 settled down again; and then it was startlingly broken
 by a big voice singing in the dark distance.  It was
 accompanied by faint sounds that might have been
 from the fingering of some lute or viol:
 
     "Lady, the light is dying in the skies,
-     Lady, and let us die when honour dies,
+     Lady, and let us die when [[Honour|honour]] dies,
      Your dear, dropped glove was like a gauntlet flung,
           When you and I were young.
      For something more than splendour stood; and ease was
           not the only good
      About the woods in Ivywood when you and I were young.
 
-    "Lady, the stars are falling pale and small,
+    "Lady, the [[Stars|stars]] are falling pale and small,
      Lady, we will not live if life be all
-     Forgetting those good stars in heaven hung
+     Forgetting those good [[Stars|stars]] in heaven hung
           When all the world was young,
-     For more than gold was in a ring, and love was not a little
+     For more than gold was in a ring, and [[Love|love]] was not a little
           thing
      Between the trees in Ivywood when all the world was
           young."
@@ -11559,8 +11559,8 @@ from the fingering of some lute or viol:
 The singing ceased; and the bustle in the bushes
 could hardly be called more than a whisper.  But
 sounds of the same sort and somewhat louder seemed
-wafted round corners from other sides of the house;
-and the whole night seemed full of something that was
+wafted round corners from other sides of the [[house]];
+and the whole [[Night|night]] seemed full of something that was
 alive, but was more than a single man.
 
 She heard a cry behind her, and Enid rushed into
@@ -11571,7 +11571,7 @@ courtyard is full of men shouting, and there are
 torches everywhere and--"
 
 Joan heard a tramp of men marching and heard,
-afar off, another song, sung on a more derisive note,
+afar off, another [[Song|song]], sung on a more derisive note,
 something like--
     "But Ivywood, Lord Ivywood,
      He rots the tree as ivy would."
@@ -11588,12 +11588,12 @@ decorative wood panelling at the end of the wing; as
 if admittance were demanded with the club of a giant.
 Enid remembered that she had thought Joan's little
 blow energetic, and shuddered.  Both the girls stared
-at the stars and moons and suns blazoned on that
+at the [[Stars|stars]] and moons and suns blazoned on that
 sacred wall that leapt and shuddered under the strokes
 of the doom.
 
-Then the sun fell from Heaven, and the moon and
-stars dropped down and were scattered about the
+Then the sun fell from Heaven, and the [[Moon|moon]] and
+[[Stars|stars]] dropped down and were scattered about the
 Persian carpet; and by the opening of the end of the
 world, Patrick Dalroy came in, carrying a mandolin.
 
@@ -11604,43 +11604,43 @@ CHAPTER XXV
 THE FINDING OF THE SUPERMAN
 
 "I'VE brought you a little dog," said Mr. Dalroy,
-introducing the rampant Quoodle.  "I had him brought
+introducing the rampant [[quoodle|Quoodle]].  "I had him brought
 down here in a large hamper labelled 'Explosives,' a
-title which appears to have been well selected."
+title which appears to have been [[Well|well]] selected."
 
 He had bowed to Lady Enid on entering and taken
 Joan's hand with the least suggestion that he wanted
 to do something else with it; but he resolutely
 resumed his conversation, which was on the subject of
-dogs.
+[[dogs]].
 
-"People who bring back dogs," he said, "are always
+"People who bring back [[dogs]]," he said, "are always
 under a cloud of suspicion.  Sometimes it is hideously
 hinted that the citizen who brings the dog back with
 him is identical with the citizen who took the dog away
 with him.  In my case, of course, such conduct is
-inconceivable.  But the returners of dogs, that prosperous
+inconceivable.  But the returners of [[dogs]], that prosperous
 and increasing class, are also accused," he went
 on, looking straight at Joan, with blank blue eyes, "of
-coming back for a Reward.  There is more truth in
+coming back for a Reward.  There is more [[Truth|truth]] in
 this charge."
 
 Then, with a change of manner more extraordinary
 than any revolution, even the revolution that was
-roaring round the house, he took her hand again and
+roaring round the [[house]], he took her hand again and
 kissed it, saying, with a confounding seriousness,
 
-"I know at least that you will pray for my soul."
+"I know at least that you will pray for my [[Soul|soul]]."
 
 "You had better pray for mine, if I have one,"
 answered Joan, "but why now?"
 
 "Because," said Patrick, "you will hear from outside,
-you may even see from that turret window something
+you may even see from that turret [[Window|window]] something
 which in brute fact has never been seen in
 England since Poor Monmouth's army went down.  In
-spirit and in truth it has not happened since Saladin
-and Coeur de Lion crashed together.  I only add one
+spirit and in [[Truth|truth]] it has not happened since Saladin
+and Coeur de [[Lion]] crashed together.  I only add one
 thing, and that you know already.  I have lived loving
 you and I shall die loving you.  It is the only
 dimension of the Universe in which I have not
@@ -11648,7 +11648,7 @@ wandered and gone astray.  I leave the dog to guard you;"
 and he disappeared down the old broken staircase.
 
 Lady Enid was much mystified that no popular
-pursuit assailed this stair or invaded the house.  But
+pursuit assailed this stair or invaded the [[house]].  But
 Lady Joan knew better.  She had gone, on the
 suggestion she most cared about, into the turret room and
 looked out of its many windows on to the abandoned
@@ -11658,15 +11658,15 @@ door.  Across that high barrier she could not even
 see the tunnel, and barely the tops of the tallest trees
 which hid its entrance from sight.  But in an instant
 she knew that Dalroy was not hurling his forces on
-Ivywood at all, but on the house and estate beyond it.
+Ivywood at all, but on the [[house]] and estate beyond it.
 
 And then followed a sight that was not an experience
 but rather a revolving vision.  She could never
 describe it afterward, nor could any of those involved
-in so violent and mystical a wheel.  She had seen a
+in so violent and mystical a [[Wheel|wheel]].  She had seen a
 huge wall of a breaker wash all over the parade at
 Pebblewick; and wondered that so huge a hammer
-could be made merely of water.  She had never had a
+could be made merely of [[Water|water]].  She had never had a
 notion of what it is like when it is made of men.
 
 The palisade, put up by the new landlord in front of
@@ -11681,7 +11681,7 @@ Only, when the fence was broken, she saw behind
 it something that robbed her of reason; so that she
 seemed to be living in all ages and all lands at once.
 She never could describe the vision afterward; but
-she always denied it was a dream.  She said it was
+she always denied it was [[A Dream|a dream]].  She said it was
 worse; it was something more real than reality.  It
 was a line of real soldiers, which is always a magnificent
 sight.  But they might have been the soldiers of
@@ -11691,13 +11691,13 @@ Joan had to do with them.  There, encamped in English
 meadows, with a hawthorn-tree in front of them
 and three beeches behind, was something that has
 never been in camp nearer than some leagues south of
-Paris, since that Carolus called The Hammer broke it
+[[Paris]], since that Carolus called The Hammer broke it
 backward at Tours.
 
-There flew the green standard of that great faith
+There flew the green standard of that great [[Faith|faith]]
 and strong civilization which has so often almost
 entered the great cities of the West; which long
-encircled Vienna, which was barely barred from Paris;
+encircled Vienna, which was barely barred from [[Paris]];
 but which had never before been seen in arms on the
 soil of England.  At one end of the line stood Philip
 Ivywood, in a uniform of his own special creation, a
@@ -11713,11 +11713,11 @@ in the front of the battle, as if it had been a battle
 in the old epics, and crossed swords with Patrick
 Dalroy.  He had come to return the scar upon his
 forehead; and he returned it with many wounds, though
-at last it was he who sank under the sword thrust.  He
+at last it was he who sank under the [[Sword|sword]] thrust.  He
 fell on his face; and Dalroy looked at him with
-something that is much more great than pity.  Blood was
+something that is much more great than pity.  [[Blood]] was
 flowing from Patrick's wrist and forehead, but he
-made a salute with his sword.  As he was doing so,
+made a salute with his [[Sword|sword]].  As he was doing so,
 the corpse, as it appeared, laboriously lifted a face,
 with feeble eyelids.  And, seeming to understand the
 quarters of the sky by instinct, Oman Pasha dragged
@@ -11726,7 +11726,7 @@ toward Mecca.
 
 After that the turret turned round and round
 about Joan and she knew not whether the things she
-saw were history or prophecy.  Something in that
+saw were [[history]] or prophecy.  Something in that
 last fact of being crushed by the weapons of brown
 men and yellow, secretly entrenched in English meadows,
 had made the English what they had not been
@@ -11735,9 +11735,9 @@ broken, as it was at the Battle of Ashdown, when
 Alfred led his first charge against the Danes.  The
 beech-trees were splashed up to their lowest branches
 with the mingling of brave heathen and brave
-Christian blood.  She knew no more than that when a
+Christian [[Blood|blood]].  She knew no more than that when a
 column of the Christian rebels, led by Humphrey of
-the Sign of the Ship, burst through the choked and
+the Sign of the [[Ship]], burst through the choked and
 forgotten tunnel and took the Turkish regiment in the
 rear, it was the end.
 
@@ -11752,9 +11752,9 @@ officer, or rather to himself.  But his words were:
 "I have gone where God has never dared to go.  I
 am above the silly supermen as they are above mere
 men.  Where I walk in the Heavens, no man has
-walked before me; and I am alone in a garden.  All
+walked before me; and I am [[Alone|alone]] in a [[Garden|garden]].  All
 this passing about me is like the lonely plucking of
-garden flowers.  I will have this blossom, I will have
+[[Garden|garden]] [[Flowers|flowers]].  I will have this blossom, I will have
 that."
 
 The sentence ended so suddenly that the officer
@@ -11763,12 +11763,12 @@ did not speak.
 
 But Patrick and Joan, wandering together in a world
 made warm and fresh again, as it can be for few in
-a world that calls courage frenzy and love superstition,
+a world that calls [[Courage|courage]] frenzy and [[Love|love]] superstition,
 feeling every branching tree as a friend with
 arms open for the man, or every sweeping slope as a
 great train trailing behind the woman, did one day
 climb up to the little white cottage that was now the
-home of the Superman.
+[[Home|home]] of the Superman.
 
 He sat playing with a pale, reposeful face, with
 scraps of flower and weed put before him on a wooden
@@ -11785,6 +11785,6 @@ prevent herself from replying, "And we are so happy."
 she wept.
 
 "I understand," said Joan, and kissed her cousin,
-not without tears of her own.
+not without [[Tears|tears]] of her own.
 
 * * *

@@ -1,5 +1,5 @@
 ---
-title: "trees of pride — THE MYSTERY OF THE WELL"
+title: "trees of [[Pride|pride]] — THE MYSTERY OF THE [[Well|WELL]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/trees-of-pride-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-  III. THE MYSTERY OF THE WELL
+  III. THE MYSTERY OF THE [[Well|WELL]]

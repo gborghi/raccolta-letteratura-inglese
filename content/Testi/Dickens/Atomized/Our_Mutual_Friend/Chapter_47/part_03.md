@@ -17,7 +17,7 @@ tags:
 ‘Eh? What’s that?’ demanded Mr Boffin.
 
 ‘“The Treasures,” sir,’ repeated Silas, reading very distinctly, ‘“of a
-Dunghill.” Mr Venus, sir, would you obleege with the snuffers?’ This, to
+Dunghill.” [[Mr Venus]], sir, would you obleege with the snuffers?’ This, to
 secure attention to his adding with his lips only, ‘Mounds!’
 
 Mr Boffin drew an arm-chair into the space where he stood, and said,
@@ -25,20 +25,20 @@ seating himself and slyly rubbing his hands:
 
 ‘Give us Dancer.’
 
-Mr Wegg pursued the biography of that eminent man through its various
-phases of avarice and dirt, through Miss Dancer’s death on a sick
+Mr Wegg pursued the [[Biography|biography]] of that eminent man through its various
+phases of avarice and dirt, through Miss Dancer’s [[Death|death]] on a sick
 regimen of cold dumpling, and through Mr Dancer’s keeping his rags
 together with a hayband, and warming his dinner by sitting upon it, down
 to the consolatory incident of his dying naked in a sack. After which he
 read on as follows:
 
-‘“The house, or rather the heap of ruins, in which Mr Dancer lived, and
-which at his death devolved to the right of Captain Holmes, was a most
+‘“The [[house]], or rather the heap of ruins, in which Mr Dancer lived, and
+which at his [[Death|death]] devolved to the right of Captain Holmes, was a most
 miserable, decayed building, for it had not been repaired for more than
 half a century.”’
 
 (Here Mr Wegg eyes his comrade and the room in which they sat: which had
-not been repaired for a long time.)
+not been repaired for a long [[Time|time]].)
 
 ‘“But though poor in external structure, the ruinous fabric was very
 rich in the interior. It took many weeks to explore its whole contents;
@@ -57,26 +57,26 @@ and gold were found five hundred pounds more.”’
 elevated itself as he read on.)
 
 ‘“Several bowls were discovered filled with guineas and half-guineas;
-and at different times on searching the corners of the house they found
+and at different times on searching the corners of the [[house]] they found
 various parcels of bank notes. Some were crammed into the crevices of
 the wall”’;
 
-(Here Mr Venus looked at the wall.)
+(Here [[Mr Venus]] looked at the wall.)
 
 ‘“Bundles were hid under the cushions and covers of the chairs”’;
 
-(Here Mr Venus looked under himself on the settle.)
+(Here [[Mr Venus]] looked under himself on the settle.)
 
 ‘“Some were reposing snugly at the back of the drawers; and notes
 amounting to six hundred pounds were found neatly doubled up in the
 inside of an old teapot. In the stable the Captain found jugs full of
 old dollars and shillings. The chimney was not left unsearched, and paid
-very well for the trouble; for in nineteen different holes, all filled
+very [[Well|well]] for the trouble; for in nineteen different holes, all filled
 with soot, were found various sums of money, amounting together to more
 than two hundred pounds.”’
 
 On the way to this crisis Mr Wegg’s wooden leg had gradually elevated
-itself more and more, and he had nudged Mr Venus with his opposite
+itself more and more, and he had nudged [[Mr Venus]] with his opposite
 elbow deeper and deeper, until at length the preservation of his balance
 became incompatible with the two actions, and he now dropped over
 sideways upon that gentleman, squeezing him against the settle’s edge.
@@ -84,9 +84,9 @@ Nor did either of the two, for some few seconds, make any effort to
 recover himself; both remaining in a kind of pecuniary swoon.
 
 But the sight of Mr Boffin sitting in the arm-chair hugging himself,
-with his eyes upon the fire, acted as a restorative. Counterfeiting a
+with his eyes upon the [[Fire|fire]], acted as a restorative. Counterfeiting a
 sneeze to cover their movements, Mr Wegg, with a spasmodic ‘Tish-ho!’
-pulled himself and Mr Venus up in a masterly manner.
+pulled himself and [[Mr Venus]] up in a masterly manner.
 
 ‘Let’s have some more,’ said Mr Boffin, hungrily.
 
@@ -96,7 +96,7 @@ pulled himself and Mr Venus up in a masterly manner.
 
 He did not appear to have hidden anything, so went off rather flatly.
 But an exemplary lady named Wilcocks, who had stowed away gold and
-silver in a pickle-pot in a clock-case, a canister-full of treasure in
+silver in a pickle-pot in a [[Clock|clock]]-case, a canister-full of treasure in
 a hole under her stairs, and a quantity of money in an old rat-trap,
 revived the interest. To her succeeded another lady, claiming to be a
 pauper, whose wealth was found wrapped up in little scraps of paper and
@@ -106,15 +106,15 @@ and corners, behind bricks and under the flooring.’ To her, a French
 gentleman, who had crammed up his chimney, rather to the detriment
 of its drawing powers, ‘a leather valise, containing twenty thousand
 francs, gold coins, and a large quantity of precious stones,’ as
-discovered by a chimneysweep after his death. By these steps Mr Wegg
+discovered by a chimneysweep after his [[Death|death]]. By these steps Mr Wegg
 arrived at a concluding instance of the human Magpie:
 
 ‘Many years ago, there lived at Cambridge a miserly old couple of the
 name of Jardine: they had two sons: the father was a perfect miser, and
-at his death one thousand guineas were discovered secreted in his bed.
+at his [[Death|death]] one thousand guineas were discovered secreted in his bed.
 The two sons grew up as parsimonious as their sire. When about twenty
 years of age, they commenced business at Cambridge as drapers, and
-they continued there until their death. The establishment of the Messrs
+they continued there until their [[Death|death]]. The establishment of the Messrs
 Jardine was the most dirty of all the shops in Cambridge. Customers
 seldom went in to purchase, except perhaps out of curiosity. The
 brothers were most disreputable-looking beings; for, although surrounded
@@ -129,7 +129,7 @@ sums of money which had been secreted even from him.’
 ‘There!’ cried Mr Boffin. ‘Even from him, you see! There was only two of
 ’em, and yet one of ’em hid from the other.’
 
-Mr Venus, who since his introduction to the French gentleman, had been
+[[Mr Venus]], who since his introduction to the French gentleman, had been
 stooping to peer up the chimney, had his attention recalled by the last
 sentence, and took the liberty of repeating it.
 

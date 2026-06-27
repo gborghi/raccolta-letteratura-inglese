@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 4 (part 2)"
+title: "[[Great Expectations]] — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -27,7 +27,7 @@ compliments of the season—I have brought you, Mum, a bottle of sherry
 wine—and I have brought you, Mum, a bottle of port wine.”
 
 Every Christmas Day he presented himself, as a profound novelty, with
-exactly the same words, and carrying the two bottles like dumb-bells.
+exactly the same words, and carrying the two bottles like dumb-[[Bells|bells]].
 Every Christmas Day, Mrs. Joe replied, as she now replied, “O, Un—cle
 Pum-ble—chook! This _is_ kind!” Every Christmas Day, he retorted, as he
 now retorted, “It’s no more than your merits. And now are you all
@@ -35,7 +35,7 @@ bobbish, and how’s Sixpennorth of halfpence?” meaning me.
 
 We dined on these occasions in the kitchen, and adjourned, for the nuts
 and oranges and apples to the parlour; which was a change very like
-Joe’s change from his working-clothes to his Sunday dress. My sister
+Joe’s change from his working-clothes to his [[Sunday]] dress. My sister
 was uncommonly lively on the present occasion, and indeed was generally
 more gracious in the society of Mrs. Hubble than in other company. I
 remember Mrs. Hubble as a little curly sharp-edged person in sky-blue,
@@ -54,7 +54,7 @@ speak (I didn’t want to speak), nor because I was regaled with the
 scaly tips of the drumsticks of the fowls, and with those obscure
 corners of pork of which the pig, when living, had had the least reason
 to be vain. No; I should not have minded that, if they would only have
-left me alone. But they wouldn’t leave me alone. They seemed to think
+left me [[Alone|alone]]. But they wouldn’t leave me [[Alone|alone]]. They seemed to think
 the opportunity lost, if they failed to point the conversation at me,
 every now and then, and stick the point into me. I might have been an
 unfortunate little bull in a Spanish arena, I got so smartingly touched
@@ -62,8 +62,8 @@ up by these moral goads.
 
 It began the moment we sat down to dinner. Mr. Wopsle said grace with
 theatrical declamation,—as it now appears to me, something like a
-religious cross of the Ghost in Hamlet with Richard the Third,—and
-ended with the very proper aspiration that we might be truly grateful.
+religious [[Cross|cross]] of the [[Ghost]] in [[Hamlet]] with [[Richard]] the Third,—and
+ended with the very proper [[Aspiration|aspiration]] that we might be truly grateful.
 Upon which my sister fixed me with her eye, and said, in a low
 reproachful voice, “Do you hear that? Be grateful.”
 
@@ -80,7 +80,7 @@ particularly unpleasant and personal manner.
 Joe’s station and influence were something feebler (if possible) when
 there was company than when there was none. But he always aided and
 comforted me when he could, in some way of his own, and he always did
-so at dinner-time by giving me gravy, if there were any. There being
+so at dinner-[[Time|time]] by giving me gravy, if there were any. There being
 plenty of gravy to-day, Joe spooned into my plate, at this point, about
 half a pint.
 
@@ -96,7 +96,7 @@ subjects “going about.”
 subjects going about, for them that know how to put salt upon their
 tails. That’s what’s wanted. A man needn’t go far to find a subject, if
 he’s ready with his salt-box.” Mr. Pumblechook added, after a short
-interval of reflection, “Look at Pork alone. There’s a subject! If you
+interval of reflection, “Look at Pork [[Alone|alone]]. There’s a subject! If you
 want a subject, look at Pork!”
 
 “True, sir. Many a moral for the young,” returned Mr. Wopsle,—and I
@@ -110,7 +110,7 @@ Joe gave me some more gravy.
 “Swine,” pursued Mr. Wopsle, in his deepest voice, and pointing his
 fork at my blushes, as if he were mentioning my Christian name,—“swine
 were the companions of the prodigal. The gluttony of Swine is put
-before us, as an example to the young.” (I thought this pretty well in
+before us, as an example to the young.” (I thought this pretty [[Well|well]] in
 him who had been praising up the pork for being so plump and juicy.)
 “What is detestable in a pig is more detestable in a boy.”
 
@@ -122,11 +122,11 @@ irritably, “but there is no girl present.”
 “Besides,” said Mr. Pumblechook, turning sharp on me, “think what
 you’ve got to be grateful for. If you’d been born a Squeaker—”
 
-“He _was_, if ever a child was,” said my sister, most emphatically.
+“He _was_, if ever a [[Child|child]] was,” said my sister, most emphatically.
 
 Joe gave me some more gravy.
 
-“Well, but I mean a four-footed Squeaker,” said Mr. Pumblechook. “If
+“[[Well]], but I mean a four-footed Squeaker,” said Mr. Pumblechook. “If
 you had been born such, would you have been here now? Not you—”
 
 “Unless in that form,” said Mr. Wopsle, nodding towards the dish.

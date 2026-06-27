@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 8)"
+title: "[[The Gold-Bug]] (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       complete skeletons, intermingled with several buttons of metal,
 
-      and what appeared to be the dust of decayed woollen. One or two
+      and what appeared to be the [[Dust|dust]] of decayed woollen. One or two
 
       strokes of a spade upturned the blade of a large Spanish knife,
 
@@ -94,7 +94,7 @@ tags:
 
       wore, for some minutes, as deadly a pallor as it is possible, in
 
-      nature of things, for any negro’s visage to assume. He seemed
+      [[Nature|nature]] of things, for any negro’s visage to assume. He seemed
 
       stupefied—thunderstricken. Presently he fell upon his knees in
 
@@ -122,7 +122,7 @@ tags:
 
       get every thing housed before daylight. It was difficult to say
 
-      what should be done, and much time was spent in deliberation—so
+      what should be done, and much [[Time|time]] was spent in deliberation—so
 
       confused were the ideas of all. We, finally, lightened the box by
 
@@ -136,11 +136,11 @@ tags:
 
       to stir from the spot, nor to open his mouth until our return. We
 
-      then hurriedly made for home with the chest; reaching the hut in
+      then hurriedly made for [[Home|home]] with the chest; reaching the hut in
 
-      safety, but after excessive toil, at one o’clock in the morning.
+      safety, but after excessive toil, at one o’[[Clock|clock]] in the morning.
 
-      Worn out as we were, it was not in human nature to do more
+      Worn out as we were, it was not in human [[Nature|nature]] to do more
 
       immediately. We rested until two, and had supper; starting for
 
@@ -152,17 +152,17 @@ tags:
 
       equally as might be, among us, and, leaving the holes unfilled,
 
-      again set out for the hut, at which, for the second time, we
+      again set out for the hut, at which, for the second [[Time|time]], we
 
       deposited our golden burthens, just as the first faint streaks of
 
-      the dawn gleamed from over the tree-tops in the East.
+      the [[Dawn|dawn]] gleamed from over the tree-tops in the East.
 
 
 
       We were now thoroughly broken down; but the intense excitement of
 
-      the time denied us repose. After an unquiet slumber of some three
+      the [[Time|time]] denied us repose. After an unquiet slumber of some three
 
       or four hours’ duration, we arose, as if by preconcert, to make
 
@@ -172,7 +172,7 @@ tags:
 
       The chest had been full to the brim, and we spent the whole day,
 
-      and the greater part of the next night, in a scrutiny of its
+      and the greater part of the next [[Night|night]], in a scrutiny of its
 
       contents. There had been nothing like order or arrangement. Every
 

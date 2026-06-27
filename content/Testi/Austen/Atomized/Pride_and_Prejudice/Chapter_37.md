@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 37"
+title: "[[Pride and Prejudice]] — Chapter 37"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -21,16 +21,16 @@ CHAPTER XXXVII.
 
 The two gentlemen left Rosings the next morning; and Mr. Collins having
 been in waiting near the lodges, to make them his parting obeisance, was
-able to bring home the pleasing intelligence of their appearing in very
+able to bring [[Home|home]] the pleasing intelligence of their appearing in very
 good health, and in as tolerable spirits as could be expected, after the
-melancholy scene so lately gone through at Rosings. To Rosings he then
+[[Melancholy|melancholy]] scene so lately gone through at Rosings. To Rosings he then
 hastened to console Lady Catherine and her daughter; and on his return
 brought back, with great satisfaction, a message from her Ladyship,
 importing that she felt herself so dull as to make her very desirous of
 having them all to dine with her.
 
 Elizabeth could not see Lady Catherine without recollecting that, had
-she chosen it, she might by this time have been presented to her as her
+she chosen it, she might by this [[Time|time]] have been presented to her as her
 future niece; nor could she think, without a smile, of what her
 Ladyship’s indignation would have been. “What would she have said? how
 would she have behaved?” were the questions with which she amused
@@ -50,7 +50,7 @@ were kindly smiled on by the mother and daughter.
 
 Lady Catherine observed, after dinner, that Miss Bennet seemed out of
 spirits; and immediately accounting for it herself, by supposing that
-she did not like to go home again so soon, she added,--
+she did not like to go [[Home|home]] again so soon, she added,--
 
 “But if that is the case, you must write to your mother to beg that you
 may stay a little longer. Mrs. Collins will be very glad of your
@@ -76,7 +76,7 @@ spare you for another fortnight.”
 “Oh, your father, of course, may spare you, if your mother can.
 Daughters are never of so much consequence to a father. And if you will
 stay another _month_ complete, it will be in my power to take one of you
-as far as London, for I am going there early in June, for a week; and
+as far as [[London]], for I am going there early in June, for a week; and
 as Dawson does not object to the barouche-box, there will be very good
 room for one of you--and, indeed, if the weather should happen to be
 cool, I should not object to taking you both, as you are neither of you
@@ -91,13 +91,13 @@ of two young women travelling post by themselves. It is highly improper.
 You must contrive to send somebody. I have the greatest dislike in the
 world to that sort of thing. Young women should always be properly
 guarded and attended, according to their situation in life. When my
-niece Georgiana went to Ramsgate last summer, I made a point of her
+niece Georgiana went to Ramsgate last [[Summer|summer]], I made a point of her
 having two men-servants go with her. Miss Darcy, the daughter of Mr.
-Darcy of Pemberley, and Lady Anne, could not have appeared with
+Darcy of Pemberley, and [[Lady Anne]], could not have appeared with
 propriety in a different manner. I am excessively attentive to all those
 things. You must send John with the young ladies, Mrs. Collins. I am
 glad it occurred to me to mention it; for it would really be
-discreditable to _you_ to let them go alone.”
+discreditable to _you_ to let them go [[Alone|alone]].”
 
 “My uncle is to send a servant for us.”
 
@@ -106,11 +106,11 @@ have somebody who thinks of those things. Where shall you change horses?
 Oh, Bromley, of course. If you mention my name at the Bell, you will be
 attended to.”
 
-Lady Catherine had many other questions to ask respecting their journey;
+Lady Catherine had many other questions to ask respecting their [[Journey|journey]];
 and as she did not answer them all herself attention was
 necessary--which Elizabeth believed to be lucky for her; or, with a
 mind so occupied, she might have forgotten where she was. Reflection
-must be reserved for solitary hours: whenever she was alone, she gave
+must be reserved for solitary hours: whenever she was [[Alone|alone]], she gave
 way to it as the greatest relief; and not a day went by without a
 solitary walk, in which she might indulge in all the delight of
 unpleasant recollections.
@@ -134,7 +134,7 @@ united with Jane in an endeavour to check the imprudence of Catherine
 and Lydia; but while they were supported by their mother’s indulgence,
 what chance could there be of improvement? Catherine, weak-spirited,
 irritable, and completely under Lydia’s guidance, had been always
-affronted by their advice; and Lydia, self-willed and careless, would
+affronted by their advice; and Lydia, [[Self|self]]-willed and careless, would
 scarcely give them a hearing. They were ignorant, idle, and vain. While
 there was an officer in Meryton, they would flirt with him; and while
 Meryton was within a walk of Longbourn, they would be going there for
@@ -157,13 +157,13 @@ almost impossible for her to appear tolerably cheerful.
 Their engagements at Rosings were as frequent during the last week of
 her stay as they had been at first. The very last evening was spent
 there; and her Ladyship again inquired minutely into the particulars of
-their journey, gave them directions as to the best method of packing,
+their [[Journey|journey]], gave them directions as to the best method of packing,
 and was so urgent on the necessity of placing gowns in the only right
-way, that Maria thought herself obliged, on her return, to undo all the
+way, that [[Maria]] thought herself obliged, on her return, to undo all the
 work of the morning, and pack her trunk afresh.
 
 When they parted, Lady Catherine, with great condescension, wished them
-a good journey, and invited them to come to Hunsford again next year;
+a good [[Journey|journey]], and invited them to come to Hunsford again next year;
 and Miss de Bourgh exerted herself so far as to courtesy and hold out
 her hand to both.
 

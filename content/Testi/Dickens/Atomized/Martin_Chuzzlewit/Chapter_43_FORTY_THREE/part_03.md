@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,17 +19,17 @@ told them of the separation between Mr Pecksniff and his daughters, and
 between the same good gentleman and Mr Pinch. But these were nothing to
 the indignant demonstrations of Martin, when she related, as the common
 talk of the neighbourhood, what entire possession he had obtained
-over the mind and person of old Mr Chuzzlewit, and what high honour he
+over the mind and person of old Mr Chuzzlewit, and what high [[Honour|honour]] he
 designed for Mary. On receipt of this intelligence, Martin’s slippers
 flew off in a twinkling, and he began pulling on his wet boots with that
 indefinite intention of going somewhere instantly, and doing something
 to somebody, which is the first safety-valve of a hot temper.
 
-‘He!’ said Martin, ‘smooth-tongued villain that he is! He! Give me that
+‘He!’ said Martin, ‘smooth-tongued [[Villain|villain]] that he is! He! Give me that
 other boot, Mark?’
 
 ‘Where was you a-thinking of going to, sir?’ inquired Mr Tapley drying
-the sole at the fire, and looking coolly at it as he spoke, as if it
+the sole at the [[Fire|fire]], and looking coolly at it as he spoke, as if it
 were a slice of toast.
 
 ‘Where!’ repeated Martin. ‘You don’t suppose I am going to remain here,
@@ -51,11 +51,11 @@ many victories over himself when Mark was in the case, and he resolved
 to conquer now. So he came back to the book-jack, laid his hand on
 Mark’s shoulder to steady himself, pulled the boot off, picked up his
 slippers, put them on, and sat down again. He could not help thrusting
-his hands to the very bottom of his pockets, and muttering at intervals,
-‘Pecksniff too! That fellow! Upon my soul! In-deed! What next?’ and so
+his hands to the very [[Bottom|bottom]] of his pockets, and muttering at intervals,
+‘Pecksniff too! That fellow! Upon my [[Soul|soul]]! In-deed! What next?’ and so
 forth; nor could he help occasionally shaking his fist at the chimney,
 with a very threatening countenance; but this did not last long; and he
-heard Mrs Lupin out, if not with composure, at all events in silence.
+heard Mrs Lupin out, if not with composure, at all events in [[Silence|silence]].
 
 ‘As to Mr Pecksniff himself,’ observed the hostess in conclusion,
 spreading out the skirts of her gown with both hands, and nodding
@@ -69,7 +69,7 @@ for no better reason, uphold their Pecksniffs to the last and abandon
 virtuous men, when Pecksniffs breathe upon them!
 
 ‘As to Mr Pinch,’ pursued the landlady, ‘if ever there was a dear, good,
-pleasant, worthy soul alive, Pinch, and no other, is his name. But
+pleasant, worthy [[Soul|soul]] alive, Pinch, and no other, is his name. But
 how do we know that old Mr Chuzzlewit himself was not the cause of
 difference arising between him and Mr Pecksniff? No one but themselves
 can tell; for Mr Pinch has a proud spirit, though he has such a quiet
@@ -79,7 +79,7 @@ story good, even to me.’
 ‘Poor old Tom!’ said Martin, in a tone that sounded like remorse.
 
 ‘It’s a comfort to know,’ resumed the landlady, ‘that he has his sister
-living with him, and is doing well. Only yesterday he sent me back, by
+living with him, and is doing [[Well|well]]. Only yesterday he sent me back, by
 post, a little’--here the colour came into her cheeks--‘a little trifle
 I was bold enough to lend him when he went away; saying, with many
 thanks, that he had good employment, and didn’t want it. It was the same
@@ -105,16 +105,16 @@ still hesitated, and expressed his reason thus:
 ‘That’s all very true, and perfectly correct, Mark; and if it were a
 mere question of humbling myself before HIM, I would not consider it
 twice. But don’t you see, that being wholly under this hypocrite’s
-government, and having (if what we hear be true) no mind or will of his
+[[government]], and having (if what we hear be true) no mind or will of his
 own, I throw myself, in fact, not at his feet, but at the feet of
 Mr Pecksniff? And when I am rejected and spurned away,’ said Martin,
-turning crimson at the thought, ‘it is not by him; my own blood stirred
+turning crimson at the thought, ‘it is not by him; my own [[Blood|blood]] stirred
 against me; but by Pecksniff--Pecksniff, Mark!’
 
-‘Well, but we know beforehand,’ returned the politic Mr Tapley, ‘that
+‘[[Well]], but we know beforehand,’ returned the politic Mr Tapley, ‘that
 Pecksniff is a wagabond, a scoundrel, and a willain.’
 
-‘A most pernicious villain!’ said Martin.
+‘A most pernicious [[Villain|villain]]!’ said Martin.
 
 ‘A most pernicious willain. We know that beforehand, sir; and,
 consequently, it’s no shame to be defeated by Pecksniff. Blow
@@ -122,12 +122,12 @@ Pecksniff!’ cried Mr Tapley, in the fervour of his eloquence. ‘Who’s he!
 It’s not in the natur of Pecksniff to shame US, unless he agreed with
 us, or done us a service; and, in case he offered any audacity of that
 description, we could express our sentiments in the English language,
-I hope. Pecksniff!’ repeated Mr Tapley, with ineffable disdain. ‘What’s
+I [[Hope|hope]]. Pecksniff!’ repeated Mr Tapley, with ineffable disdain. ‘What’s
 Pecksniff, who’s Pecksniff, where’s Pecksniff, that he’s to be so much
 considered? We’re not a-calculating for ourselves;’ he laid uncommon
 emphasis on the last syllable of that word, and looked full in Martin’s
 face; ‘we’re making a effort for a young lady likewise as has undergone
-her share; and whatever little hope we have, this here Pecksniff is not
+her share; and whatever little [[Hope|hope]] we have, this here Pecksniff is not
 to stand in its way, I expect. I never heard of any act of Parliament,
 as was made by Pecksniff. Pecksniff! Why, I wouldn’t see the man myself;
 I wouldn’t hear him; I wouldn’t choose to know he was in company. I’d

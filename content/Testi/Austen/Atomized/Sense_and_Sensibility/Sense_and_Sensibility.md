@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility"
+title: "[[Sense and Sensibility]]"
 author: "Austen"
 unitType: work
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -23,7 +23,7 @@ tags:
 
 
 
-Sense and Sensibility
+[[Sense and Sensibility]]
 
 
 
@@ -169,11 +169,11 @@ man, who lived to a very advanced age, and who for many years of his
 
 life, had a constant companion and housekeeper in his sister. But her
 
-death, which happened ten years before his own, produced a great
+[[Death|death]], which happened ten years before his own, produced a great
 
-alteration in his home; for to supply her loss, he invited and received
+alteration in his [[Home|home]]; for to supply her loss, he invited and received
 
-into his house the family of his nephew Mr. Henry Dashwood, the legal
+into his [[house]] the family of his nephew Mr. Henry Dashwood, the legal
 
 inheritor of the Norland estate, and the person to whom he intended to
 
@@ -193,7 +193,7 @@ children added a relish to his existence.
 
 
 
-By a former marriage, Mr. Henry Dashwood had one son: by his present
+By a former [[Marriage|marriage]], Mr. Henry Dashwood had one son: by his present
 
 lady, three daughters. The son, a steady respectable young man, was
 
@@ -201,7 +201,7 @@ amply provided for by the fortune of his mother, which had been large,
 
 and half of which devolved on him on his coming of age. By his own
 
-marriage, likewise, which happened soon afterwards, he added to his
+[[Marriage|marriage]], likewise, which happened soon afterwards, he added to his
 
 wealth. To him therefore the succession to the Norland estate was not
 
@@ -215,7 +215,7 @@ father only seven thousand pounds in his own disposal; for the
 
 remaining moiety of his first wife’s fortune was also secured to her
 
-child, and he had only a life-interest in it.
+[[Child|child]], and he had only a life-interest in it.
 
 
 
@@ -231,7 +231,7 @@ bequest. Mr. Dashwood had wished for it more for the sake of his wife
 
 and daughters than for himself or his son;—but to his son, and his
 
-son’s son, a child of four years old, it was secured, in such a way, as
+son’s son, a [[Child|child]] of four years old, it was secured, in such a way, as
 
 to leave to himself no power of providing for those who were most dear
 
@@ -239,13 +239,13 @@ to him, and who most needed a provision by any charge on the estate, or
 
 by any sale of its valuable woods. The whole was tied up for the
 
-benefit of this child, who, in occasional visits with his father and
+benefit of this [[Child|child]], who, in occasional visits with his father and
 
 mother at Norland, had so far gained on the affections of his uncle, by
 
 such attractions as are by no means unusual in children of two or three
 
-years old; an imperfect articulation, an earnest desire of having his
+years old; an imperfect articulation, an earnest [[Desire|desire]] of having his
 
 own way, many cunning tricks, and a great deal of noise, as to outweigh
 
@@ -261,7 +261,7 @@ thousand pounds a-piece.
 
 Mr. Dashwood’s disappointment was, at first, severe; but his temper was
 
-cheerful and sanguine; and he might reasonably hope to live many years,
+cheerful and sanguine; and he might reasonably [[Hope|hope]] to live many years,
 
 and by living economically, lay by a considerable sum from the produce
 
@@ -287,9 +287,9 @@ could command, the interest of his mother-in-law and sisters.
 
 Mr. John Dashwood had not the strong feelings of the rest of the
 
-family; but he was affected by a recommendation of such a nature at
+family; but he was affected by a recommendation of such a [[Nature|nature]] at
 
-such a time, and he promised to do every thing in his power to make
+such a [[Time|time]], and he promised to do every thing in his power to make
 
 them comfortable. His father was rendered easy by such an assurance,
 
@@ -301,7 +301,7 @@ prudently be in his power to do for them.
 
 He was not an ill-disposed young man, unless to be rather cold hearted
 
-and rather selfish is to be ill-disposed: but he was, in general, well
+and rather selfish is to be ill-disposed: but he was, in general, [[Well|well]]
 
 respected; for he conducted himself with propriety in the discharge of
 
@@ -343,9 +343,9 @@ No sooner was his father’s funeral over, than Mrs. John Dashwood,
 
 without sending any notice of her intention to her mother-in-law,
 
-arrived with her child and their attendants. No one could dispute her
+arrived with her [[Child|child]] and their attendants. No one could dispute her
 
-right to come; the house was her husband’s from the moment of his
+right to come; the [[house]] was her husband’s from the moment of his
 
 father’s decease; but the indelicacy of her conduct was so much the
 
@@ -371,11 +371,11 @@ So acutely did Mrs. Dashwood feel this ungracious behaviour, and so
 
 earnestly did she despise her daughter-in-law for it, that, on the
 
-arrival of the latter, she would have quitted the house for ever, had
+arrival of the latter, she would have quitted the [[house]] for ever, had
 
 not the entreaty of her eldest girl induced her first to reflect on the
 
-propriety of going, and her own tender love for all her three children
+propriety of going, and her own tender [[Love|love]] for all her three children
 
 determined her afterwards to stay, and for their sakes avoid a breach
 
@@ -441,9 +441,9 @@ her to similar forbearance.
 
 
 
-Margaret, the other sister, was a good-humored, well-disposed girl; but
+Margaret, the other sister, was a good-humored, [[Well|well]]-disposed girl; but
 
-as she had already imbibed a good deal of Marianne’s romance, without
+as she had already imbibed a good deal of Marianne’s [[Romance|romance]], without
 
 having much of her sense, she did not, at thirteen, bid fair to equal
 
@@ -471,13 +471,13 @@ As such, however, they were treated by her with quiet civility; and by
 
 her husband with as much kindness as he could feel towards anybody
 
-beyond himself, his wife, and their child. He really pressed them, with
+beyond himself, his wife, and their [[Child|child]]. He really pressed them, with
 
-some earnestness, to consider Norland as their home; and, as no plan
+some earnestness, to consider Norland as their [[Home|home]]; and, as no plan
 
 appeared so eligible to Mrs. Dashwood as remaining there till she could
 
-accommodate herself with a house in the neighbourhood, his invitation
+accommodate herself with a [[house]] in the neighbourhood, his invitation
 
 was accepted.
 
@@ -485,7 +485,7 @@ was accepted.
 
 A continuance in a place where everything reminded her of former
 
-delight, was exactly what suited her mind. In seasons of cheerfulness,
+delight, was exactly what suited her mind. In [[Seasons|seasons]] of cheerfulness,
 
 no temper could be more cheerful than hers, or possess, in a greater
 
@@ -505,15 +505,15 @@ of their dear little boy would be impoverishing him to the most
 
 dreadful degree. She begged him to think again on the subject. How
 
-could he answer it to himself to rob his child, and his only child too,
+could he answer it to himself to rob his [[Child|child]], and his only [[Child|child]] too,
 
 of so large a sum? And what possible claim could the Miss Dashwoods,
 
-who were related to him only by half blood, which she considered as no
+who were related to him only by half [[Blood|blood]], which she considered as no
 
 relationship at all, have on his generosity to so large an amount. It
 
-was very well known that no affection was ever supposed to exist
+was very [[Well|well]] known that no affection was ever supposed to exist
 
 between the children of any man by different marriages; and why was he
 
@@ -531,11 +531,11 @@ should assist his widow and daughters.”
 
 “He did not know what he was talking of, I dare say; ten to one but he
 
-was light-headed at the time. Had he been in his right senses, he could
+was light-headed at the [[Time|time]]. Had he been in his right senses, he could
 
 not have thought of such a thing as begging you to give away half your
 
-fortune from your own child.”
+fortune from your own [[Child|child]].”
 
 
 
@@ -545,19 +545,19 @@ requested me, in general terms, to assist them, and make their
 
 situation more comfortable than it was in his power to do. Perhaps it
 
-would have been as well if he had left it wholly to myself. He could
+would have been as [[Well|well]] if he had left it wholly to myself. He could
 
 hardly suppose I should neglect them. But as he required the promise, I
 
-could not do less than give it; at least I thought so at the time. The
+could not do less than give it; at least I thought so at the [[Time|time]]. The
 
 promise, therefore, was given, and must be performed. Something must be
 
-done for them whenever they leave Norland and settle in a new home.”
+done for them whenever they leave Norland and settle in a new [[Home|home]].”
 
 
 
-“Well, then, _let_ something be done for them; but _that_ something
+“[[Well]], then, _let_ something be done for them; but _that_ something
 
 need not be three thousand pounds. Consider,” she added, “that when the
 
@@ -571,7 +571,7 @@ to our poor little boy—”
 
 “Why, to be sure,” said her husband, very gravely, “that would make
 
-great difference. The time may come when Harry will regret that so
+great difference. The [[Time|time]] may come when Harry will regret that so
 
 large a sum was parted with. If he should have a numerous family, for
 
@@ -595,7 +595,7 @@ to their fortunes!”
 
 for his sisters, even if _really_ his sisters! And as it is—only half
 
-blood!—But you have such a generous spirit!”
+[[Blood|blood]]!—But you have such a generous spirit!”
 
 
 
@@ -621,7 +621,7 @@ afford to do.”
 
 a-piece. As it is, without any addition of mine, they will each have
 
-about three thousand pounds on their mother’s death—a very comfortable
+about three thousand pounds on their mother’s [[Death|death]]—a very comfortable
 
 fortune for any young woman.”
 
@@ -631,7 +631,7 @@ fortune for any young woman.”
 
 addition at all. They will have ten thousand pounds divided amongst
 
-them. If they marry, they will be sure of doing well, and if they do
+them. If they marry, they will be sure of doing [[Well|well]], and if they do
 
 not, they may all live very comfortably together on the interest of ten
 
@@ -645,7 +645,7 @@ whole, it would not be more advisable to do something for their mother
 
 while she lives, rather than for them—something of the annuity kind I
 
-mean.—My sisters would feel the good effects of it as well as herself.
+mean.—My sisters would feel the good effects of it as [[Well|well]] as herself.
 
 A hundred a year would make them all perfectly comfortable.”
 
@@ -731,7 +731,7 @@ hundred, or even fifty pounds from our own expenses.”
 
 
 
-“I believe you are right, my love; it will be better that there should
+“I believe you are right, my [[Love|love]]; it will be better that there should
 
 be no annuity in the case; whatever I may give them occasionally will
 
@@ -751,7 +751,7 @@ father.”
 
 
 
-“To be sure it will. Indeed, to say the truth, I am convinced within
+“To be sure it will. Indeed, to say the [[Truth|truth]], I am convinced within
 
 myself that your father had no idea of your giving them any money at
 
@@ -759,7 +759,7 @@ all. The assistance he thought of, I dare say, was only such as might
 
 be reasonably expected of you; for instance, such as looking out for a
 
-comfortable small house for them, helping them to move their things,
+comfortable small [[house]] for them, helping them to move their things,
 
 and sending them presents of fish and game, and so forth, whenever they
 
@@ -803,7 +803,7 @@ what you say. I clearly understand it now, and I will strictly fulfil
 
 my engagement by such acts of assistance and kindness to them as you
 
-have described. When my mother removes into another house my services
+have described. When my mother removes into another [[house]] my services
 
 shall be readily given to accommodate her as far as I can. Some little
 
@@ -817,7 +817,7 @@ must be considered. When your father and mother moved to Norland,
 
 though the furniture of Stanhill was sold, all the china, plate, and
 
-linen was saved, and is now left to your mother. Her house will
+linen was saved, and is now left to your mother. Her [[house]] will
 
 therefore be almost completely fitted up as soon as she takes it.”
 
@@ -833,7 +833,7 @@ addition to our own stock here.”
 
 “Yes; and the set of breakfast china is twice as handsome as what
 
-belongs to this house. A great deal too handsome, in my opinion, for
+belongs to this [[house]]. A great deal too handsome, in my opinion, for
 
 any place _they_ can ever afford to live in. But, however, so it is.
 
@@ -841,7 +841,7 @@ Your father thought only of _them_. And I must say this: that you owe
 
 no particular gratitude to him, nor attention to his wishes; for we
 
-very well know that if he could, he would have left almost everything
+very [[Well|well]] know that if he could, he would have left almost everything
 
 in the world to _them_.”
 
@@ -873,13 +873,13 @@ CHAPTER III.
 
 Mrs. Dashwood remained at Norland several months; not from any
 
-disinclination to move when the sight of every well known spot ceased
+disinclination to move when the sight of every [[Well|well]] known spot ceased
 
 to raise the violent emotion which it produced for a while; for when
 
 her spirits began to revive, and her mind became capable of some other
 
-exertion than that of heightening its affliction by melancholy
+exertion than that of heightening its affliction by [[Melancholy|melancholy]]
 
 remembrances, she was impatient to be gone, and indefatigable in her
 
@@ -917,7 +917,7 @@ merit before, in believing him incapable of generosity. His attentive
 
 behaviour to herself and his sisters convinced her that their welfare
 
-was dear to him, and, for a long time, she firmly relied on the
+was dear to him, and, for a long [[Time|time]], she firmly relied on the
 
 liberality of his intentions.
 
@@ -951,13 +951,13 @@ man, who was introduced to their acquaintance soon after his sister’s
 
 establishment at Norland, and who had since spent the greatest part of
 
-his time there.
+his [[Time|time]] there.
 
 
 
 Some mothers might have encouraged the intimacy from motives of
 
-interest, for Edward Ferrars was the eldest son of a man who had died
+interest, for [[Edward Ferrars]] was the eldest son of a man who had died
 
 very rich; and some might have repressed it from motives of prudence,
 
@@ -979,7 +979,7 @@ every one who knew her, was to her comprehension impossible.
 
 
 
-Edward Ferrars was not recommended to their good opinion by any
+[[Edward Ferrars]] was not recommended to their good opinion by any
 
 peculiar graces of person or address. He was not handsome, and his
 
@@ -989,7 +989,7 @@ to do justice to himself; but when his natural shyness was overcome,
 
 his behaviour gave every indication of an open, affectionate heart. His
 
-understanding was good, and his education had given it solid
+understanding was good, and his [[Education|education]] had given it solid
 
 improvement. But he was neither fitted by abilities nor disposition to
 
@@ -1007,7 +1007,7 @@ Dashwood wished it likewise; but in the mean while, till one of these
 
 superior blessings could be attained, it would have quieted her
 
-ambition to see him driving a barouche. But Edward had no turn for
+[[Ambition|ambition]] to see him driving a barouche. But Edward had no turn for
 
 great men or barouches. All his wishes centered in domestic comfort and
 
@@ -1017,9 +1017,9 @@ more promising.
 
 
 
-Edward had been staying several weeks in the house before he engaged
+Edward had been staying several weeks in the [[house]] before he engaged
 
-much of Mrs. Dashwood’s attention; for she was, at that time, in such
+much of Mrs. Dashwood’s attention; for she was, at that [[Time|time]], in such
 
 affliction as rendered her careless of surrounding objects. She saw
 
@@ -1039,7 +1039,7 @@ most forcibly to her mother.
 
 “It is enough,” said she; “to say that he is unlike Fanny is enough. It
 
-implies everything amiable. I love him already.”
+implies everything amiable. I [[Love|love]] him already.”
 
 
 
@@ -1049,7 +1049,7 @@ implies everything amiable. I love him already.”
 
 “Like him!” replied her mother with a smile. “I feel no sentiment of
 
-approbation inferior to love.”
+approbation inferior to [[Love|love]].”
 
 
 
@@ -1057,7 +1057,7 @@ approbation inferior to love.”
 
 
 
-“I have never yet known what it was to separate esteem and love.”
+“I have never yet known what it was to separate esteem and [[Love|love]].”
 
 
 
@@ -1065,7 +1065,7 @@ Mrs. Dashwood now took pains to get acquainted with him. Her manners
 
 were attaching, and soon banished his reserve. She speedily
 
-comprehended all his merits; the persuasion of his regard for Elinor
+comprehended all his merits; the [[Persuasion|persuasion]] of his regard for Elinor
 
 perhaps assisted her penetration; but she really felt assured of his
 
@@ -1079,11 +1079,11 @@ affectionate.
 
 
 
-No sooner did she perceive any symptom of love in his behaviour to
+No sooner did she perceive any symptom of [[Love|love]] in his behaviour to
 
 Elinor, than she considered their serious attachment as certain, and
 
-looked forward to their marriage as rapidly approaching.
+looked forward to their [[Marriage|marriage]] as rapidly approaching.
 
 
 
@@ -1099,13 +1099,13 @@ happy.”
 
 
 
-“My love, it will be scarcely a separation. We shall live within a few
+“My [[Love|love]], it will be scarcely a separation. We shall live within a few
 
 miles of each other, and shall meet every day of our lives. You will
 
 gain a brother, a real, affectionate brother. I have the highest
 
-opinion in the world of Edward’s heart. But you look grave, Marianne;
+opinion in the world of Edward’s heart. But you look [[Grave|grave]], Marianne;
 
 do you disapprove your sister’s choice?”
 
@@ -1113,13 +1113,13 @@ do you disapprove your sister’s choice?”
 
 “Perhaps,” said Marianne, “I may consider it with some surprise. Edward
 
-is very amiable, and I love him tenderly. But yet—he is not the kind of
+is very amiable, and I [[Love|love]] him tenderly. But yet—he is not the kind of
 
 young man—there is something wanting—his figure is not striking; it has
 
 none of that grace which I should expect in the man who could seriously
 
-attach my sister. His eyes want all that spirit, that fire, which at
+attach my sister. His eyes want all that spirit, that [[Fire|fire]], which at
 
 once announce virtue and intelligence. And besides all this, I am
 
@@ -1131,7 +1131,7 @@ admiration of a person who can understand their worth. It is evident,
 
 in spite of his frequent attention to her while she draws, that in fact
 
-he knows nothing of the matter. He admires as a lover, not as a
+he knows nothing of the matter. He admires as a [[Lover|lover]], not as a
 
 connoisseur. To satisfy me, those characters must be united. I could
 
@@ -1141,7 +1141,7 @@ with my own. He must enter into all my feelings; the same books, the
 
 same music must charm us both. Oh! mama, how spiritless, how tame was
 
-Edward’s manner in reading to us last night! I felt for my sister most
+Edward’s manner in reading to us last [[Night|night]]! I felt for my sister most
 
 severely. Yet she bore it with so much composure, she seemed scarcely
 
@@ -1157,7 +1157,7 @@ impenetrable calmness, such dreadful indifference!”
 
 “He would certainly have done more justice to simple and elegant prose.
 
-I thought so at the time; but you _would_ give him Cowper.”
+I thought so at the [[Time|time]]; but you _would_ give him Cowper.”
 
 
 
@@ -1171,7 +1171,7 @@ heart, had I loved him, to hear him read with so little sensibility.
 
 Mama, the more I know of the world, the more am I convinced that I
 
-shall never see a man whom I can really love. I require so much! He
+shall never see a man whom I can really [[Love|love]]. I require so much! He
 
 must have all Edward’s virtues, and his person and manners must
 
@@ -1179,9 +1179,9 @@ ornament his goodness with every possible charm.”
 
 
 
-“Remember, my love, that you are not seventeen. It is yet too early in
+“Remember, my [[Love|love]], that you are not seventeen. It is yet too early in
 
-life to despair of such a happiness. Why should you be less fortunate
+life to [[Despair|despair]] of such a happiness. Why should you be less fortunate
 
 than your mother? In one circumstance only, my Marianne, may your
 
@@ -1217,7 +1217,7 @@ deficient in natural taste, though he has not had opportunities of
 
 improving it. Had he ever been in the way of learning, I think he would
 
-have drawn very well. He distrusts his own judgment in such matters so
+have drawn very [[Well|well]]. He distrusts his own judgment in such matters so
 
 much, that he is always unwilling to give his opinion on any picture;
 
@@ -1233,7 +1233,7 @@ the kind of approbation which Elinor described as excited in him by the
 
 drawings of other people, was very far from that rapturous delight,
 
-which, in her opinion, could alone be called taste. Yet, though smiling
+which, in her opinion, could [[Alone|alone]] be called taste. Yet, though smiling
 
 within herself at the mistake, she honoured her sister for that blind
 
@@ -1241,7 +1241,7 @@ partiality to Edward which produced it.
 
 
 
-“I hope, Marianne,” continued Elinor, “you do not consider him as
+“I [[Hope|hope]], Marianne,” continued Elinor, “you do not consider him as
 
 deficient in general taste. Indeed, I think I may say that you cannot,
 
@@ -1287,7 +1287,7 @@ Marianne was rejoiced to find her sister so easily pleased.
 
 “Of his sense and his goodness,” continued Elinor, “no one can, I
 
-think, be in doubt, who has seen him often enough to engage him in
+think, be in [[Doubt|doubt]], who has seen him often enough to engage him in
 
 unreserved conversation. The excellence of his understanding and his
 
@@ -1307,9 +1307,9 @@ have seen a great deal of him, have studied his sentiments and heard
 
 his opinion on subjects of literature and taste; and, upon the whole, I
 
-venture to pronounce that his mind is well-informed, enjoyment of books
+venture to pronounce that his mind is [[Well|well]]-informed, enjoyment of books
 
-exceedingly great, his imagination lively, his observation just and
+exceedingly great, his [[Imagination|imagination]] lively, his observation just and
 
 correct, and his taste delicate and pure. His abilities in every
 
@@ -1321,7 +1321,7 @@ hardly be called handsome, till the expression of his eyes, which are
 
 uncommonly good, and the general sweetness of his countenance, is
 
-perceived. At present, I know him so well, that I think him really
+perceived. At present, I know him so [[Well|well]], that I think him really
 
 handsome; or at least, almost so. What say you, Marianne?”
 
@@ -1329,7 +1329,7 @@ handsome; or at least, almost so. What say you, Marianne?”
 
 “I shall very soon think him handsome, Elinor, if I do not now. When
 
-you tell me to love him as a brother, I shall no more see imperfection
+you tell me to [[Love|love]] him as a brother, I shall no more see imperfection
 
 in his face, than I now do in his heart.”
 
@@ -1347,7 +1347,7 @@ attachment agreeable to her. She knew that what Marianne and her mother
 
 conjectured one moment, they believed the next—that with them, to wish
 
-was to hope, and to hope was to expect. She tried to explain the real
+was to [[Hope|hope]], and to [[Hope|hope]] was to expect. She tried to explain the real
 
 state of the case to her sister.
 
@@ -1377,7 +1377,7 @@ that I meant no offence to you, by speaking, in so quiet a way, of my
 
 own feelings. Believe them to be stronger than I have declared; believe
 
-them, in short, to be such as his merit, and the suspicion—the hope of
+them, in short, to be such as his merit, and the suspicion—the [[Hope|hope]] of
 
 his affection for me may warrant, without imprudence or folly. But
 
@@ -1385,13 +1385,13 @@ farther than this you must _not_ believe. I am by no means assured of
 
 his regard for me. There are moments when the extent of it seems
 
-doubtful; and till his sentiments are fully known, you cannot wonder at
+doubtful; and till his sentiments are fully known, you cannot [[Wonder|wonder]] at
 
 my wishing to avoid any encouragement of my own partiality, by
 
 believing or calling it more than it is. In my heart I feel
 
-little—scarcely any doubt of his preference. But there are other points
+little—scarcely any [[Doubt|doubt]] of his preference. But there are other points
 
 to be considered besides his inclination. He is very far from being
 
@@ -1409,9 +1409,9 @@ fortune or high rank.”
 
 
 
-Marianne was astonished to find how much the imagination of her mother
+Marianne was astonished to find how much the [[Imagination|imagination]] of her mother
 
-and herself had outstripped the truth.
+and herself had outstripped the [[Truth|truth]].
 
 
 
@@ -1439,7 +1439,7 @@ believed it. There was, at times, a want of spirits about him which, if
 
 it did not denote indifference, spoke of something almost as
 
-unpromising. A doubt of her regard, supposing him to feel it, need not
+unpromising. A [[Doubt|doubt]] of her regard, supposing him to feel it, need not
 
 give him more than inquietude. It would not be likely to produce that
 
@@ -1449,9 +1449,9 @@ cause might be found in the dependent situation which forbade the
 
 indulgence of his affection. She knew that his mother neither behaved
 
-to him so as to make his home comfortable at present, nor to give him
+to him so as to make his [[Home|home]] comfortable at present, nor to give him
 
-any assurance that he might form a home for himself, without strictly
+any assurance that he might form a [[Home|home]] for himself, without strictly
 
 attending to her views for his aggrandizement. With such a knowledge as
 
@@ -1461,25 +1461,25 @@ far from depending on that result of his preference of her, which her
 
 mother and sister still considered as certain. Nay, the longer they
 
-were together the more doubtful seemed the nature of his regard; and
+were together the more doubtful seemed the [[Nature|nature]] of his regard; and
 
 sometimes, for a few painful minutes, she believed it to be no more
 
-than friendship.
+than [[Friendship|friendship]].
 
 
 
 But, whatever might really be its limits, it was enough, when perceived
 
-by his sister, to make her uneasy, and at the same time, (which was
+by his sister, to make her uneasy, and at the same [[Time|time]], (which was
 
 still more common,) to make her uncivil. She took the first opportunity
 
 of affronting her mother-in-law on the occasion, talking to her so
 
-expressively of her brother’s great expectations, of Mrs. Ferrars’s
+expressively of her brother’s [[Great Expectations|great expectations]], of Mrs. Ferrars’s
 
-resolution that both her sons should marry well, and of the danger
+resolution that both her sons should marry [[Well|well]], and of the danger
 
 attending any young woman who attempted to _draw him in;_ that Mrs.
 
@@ -1497,9 +1497,9 @@ exposed another week to such insinuations.
 
 In this state of her spirits, a letter was delivered to her from the
 
-post, which contained a proposal particularly well timed. It was the
+post, which contained a proposal particularly [[Well|well]] timed. It was the
 
-offer of a small house, on very easy terms, belonging to a relation of
+offer of a small [[house]], on very easy terms, belonging to a relation of
 
 her own, a gentleman of consequence and property in Devonshire. The
 
@@ -1507,13 +1507,13 @@ letter was from this gentleman himself, and written in the true spirit
 
 of friendly accommodation. He understood that she was in need of a
 
-dwelling; and though the house he now offered her was merely a cottage,
+dwelling; and though the [[house]] he now offered her was merely a cottage,
 
 he assured her that everything should be done to it which she might
 
 think necessary, if the situation pleased her. He earnestly pressed
 
-her, after giving the particulars of the house and garden, to come with
+her, after giving the particulars of the [[house]] and [[Garden|garden]], to come with
 
 her daughters to Barton Park, the place of his own residence, from
 
@@ -1527,9 +1527,9 @@ his letter was written in so friendly a style as could not fail of
 
 giving pleasure to his cousin; more especially at a moment when she was
 
-suffering under the cold and unfeeling behaviour of her nearer
+[[Suffering|suffering]] under the cold and unfeeling behaviour of her nearer
 
-connections. She needed no time for deliberation or inquiry. Her
+connections. She needed no [[Time|time]] for deliberation or inquiry. Her
 
 resolution was formed as she read. The situation of Barton, in a county
 
@@ -1541,7 +1541,7 @@ possible advantage belonging to the place, was now its first
 
 recommendation. To quit the neighbourhood of Norland was no longer an
 
-evil; it was an object of desire; it was a blessing, in comparison of
+evil; it was an object of [[Desire|desire]]; it was a blessing, in comparison of
 
 the misery of continuing her daughter-in-law’s guest; and to remove for
 
@@ -1565,7 +1565,7 @@ at some distance from Norland, than immediately amongst their present
 
 acquaintance. On _that_ head, therefore, it was not for her to oppose
 
-her mother’s intention of removing into Devonshire. The house, too, as
+her mother’s intention of removing into Devonshire. The [[house]], too, as
 
 described by Sir John, was on so simple a scale, and the rent so
 
@@ -1597,7 +1597,7 @@ No sooner was her answer dispatched, than Mrs. Dashwood indulged
 
 herself in the pleasure of announcing to her son-in-law and his wife
 
-that she was provided with a house, and should incommode them no longer
+that she was provided with a [[house]], and should incommode them no longer
 
 than till every thing were ready for her inhabiting it. They heard her
 
@@ -1619,7 +1619,7 @@ northward of Exeter.
 
 
 
-“It is but a cottage,” she continued, “but I hope to see many of my
+“It is but a cottage,” she continued, “but I [[Hope|hope]] to see many of my
 
 friends in it. A room or two can easily be added; and if my friends
 
@@ -1651,7 +1651,7 @@ disregarded her disapprobation of the match.
 
 Mr. John Dashwood told his mother again and again how exceedingly sorry
 
-he was that she had taken a house at such a distance from Norland as to
+he was that she had taken a [[house]] at such a distance from Norland as to
 
 prevent his being of any service to her in removing her furniture. He
 
@@ -1661,7 +1661,7 @@ exertion to which he had limited the performance of his promise to his
 
 father was by this arrangement rendered impracticable.—The furniture
 
-was all sent around by water. It chiefly consisted of household linen,
+was all sent around by [[Water|water]]. It chiefly consisted of household linen,
 
 plate, china, and books, with a handsome pianoforte of Marianne’s. Mrs.
 
@@ -1675,7 +1675,7 @@ furniture.
 
 
 
-Mrs. Dashwood took the house for a twelvemonth; it was ready furnished,
+Mrs. Dashwood took the [[house]] for a twelvemonth; it was ready furnished,
 
 and she might have immediate possession. No difficulty arose on either
 
@@ -1689,7 +1689,7 @@ performance of everything that interested her, was soon done.—The
 
 horses which were left her by her husband had been sold soon after his
 
-death, and an opportunity now offering of disposing of her carriage,
+[[Death|death]], and an opportunity now offering of disposing of her carriage,
 
 she agreed to sell that likewise at the earnest advice of her eldest
 
@@ -1707,13 +1707,13 @@ amongst those who had formed their establishment at Norland.
 
 The man and one of the maids were sent off immediately into Devonshire,
 
-to prepare the house for their mistress’s arrival; for as Lady
+to prepare the [[house]] for their mistress’s arrival; for as Lady
 
 Middleton was entirely unknown to Mrs. Dashwood, she preferred going
 
 directly to the cottage to being a visitor at Barton Park; and she
 
-relied so undoubtingly on Sir John’s description of the house, as to
+relied so undoubtingly on Sir John’s description of the [[house]], as to
 
 feel no curiosity to examine it herself till she entered it as her own.
 
@@ -1723,17 +1723,17 @@ the evident satisfaction of her daughter-in-law in the prospect of her
 
 removal; a satisfaction which was but feebly attempted to be concealed
 
-under a cold invitation to her to defer her departure. Now was the time
+under a cold invitation to her to defer her departure. Now was the [[Time|time]]
 
 when her son-in-law’s promise to his father might with particular
 
 propriety be fulfilled. Since he had neglected to do it on first coming
 
-to the estate, their quitting his house might be looked on as the most
+to the estate, their quitting his [[house]] might be looked on as the most
 
 suitable period for its accomplishment. But Mrs. Dashwood began shortly
 
-to give over every hope of the kind, and to be convinced, from the
+to give over every [[Hope|hope]] of the kind, and to be convinced, from the
 
 general drift of his discourse, that his assistance extended no farther
 
@@ -1755,23 +1755,23 @@ first letter to Norland, every thing was so far settled in their future
 
 abode as to enable Mrs. Dashwood and her daughters to begin their
 
-journey.
+[[Journey|journey]].
 
 
 
-Many were the tears shed by them in their last adieus to a place so
+Many were the [[Tears|tears]] shed by them in their last adieus to a place so
 
 much beloved. “Dear, dear Norland!” said Marianne, as she wandered
 
-alone before the house, on the last evening of their being there; “when
+[[Alone|alone]] before the [[house]], on the last evening of their being there; “when
 
-shall I cease to regret you!—when learn to feel a home elsewhere!—Oh!
+shall I cease to regret you!—when learn to feel a [[Home|home]] elsewhere!—Oh!
 
-happy house, could you know what I suffer in now viewing you from this
+happy [[house]], could you know what I suffer in now viewing you from this
 
 spot, from whence perhaps I may view you no more!—And you, ye
 
-well-known trees!—but you will continue the same.—No leaf will decay
+[[Well|well]]-known trees!—but you will continue the same.—No leaf will [[Decay|decay]]
 
 because we are removed, nor any branch become motionless although we
 
@@ -1797,7 +1797,7 @@ CHAPTER VI.
 
 
 
-The first part of their journey was performed in too melancholy a
+The first part of their [[Journey|journey]] was performed in too [[Melancholy|melancholy]] a
 
 disposition to be otherwise than tedious and unpleasant. But as they
 
@@ -1807,35 +1807,35 @@ country which they were to inhabit overcame their dejection, and a view
 
 of Barton Valley as they entered it gave them cheerfulness. It was a
 
-pleasant fertile spot, well wooded, and rich in pasture. After winding
+pleasant fertile spot, [[Well|well]] wooded, and rich in pasture. After winding
 
-along it for more than a mile, they reached their own house. A small
+along it for more than a mile, they reached their own [[house]]. A small
 
-green court was the whole of its demesne in front; and a neat wicket
+green [[Court|court]] was the whole of its demesne in front; and a neat wicket
 
 gate admitted them into it.
 
 
 
-As a house, Barton Cottage, though small, was comfortable and compact;
+As a [[house]], Barton Cottage, though small, was comfortable and compact;
 
 but as a cottage it was defective, for the building was regular, the
 
-roof was tiled, the window shutters were not painted green, nor were
+roof was tiled, the [[Window|window]] shutters were not painted green, nor were
 
 the walls covered with honeysuckles. A narrow passage led directly
 
-through the house into the garden behind. On each side of the entrance
+through the [[house]] into the [[Garden|garden]] behind. On each side of the entrance
 
 was a sitting room, about sixteen feet square; and beyond them were the
 
 offices and the stairs. Four bed-rooms and two garrets formed the rest
 
-of the house. It had not been built many years and was in good repair.
+of the [[house]]. It had not been built many years and was in good repair.
 
-In comparison of Norland, it was poor and small indeed!—but the tears
+In comparison of Norland, it was poor and small indeed!—but the [[Tears|tears]]
 
-which recollection called forth as they entered the house were soon
+which recollection called forth as they entered the [[house]] were soon
 
 dried away. They were cheered by the joy of the servants on their
 
@@ -1851,7 +1851,7 @@ it to their lasting approbation.
 
 
 
-The situation of the house was good. High hills rose immediately
+The situation of the [[house]] was good. High hills [[Rose|rose]] immediately
 
 behind, and at no great distance on each side; some of which were open
 
@@ -1871,27 +1871,27 @@ between two of the steepest of them.
 
 
 
-With the size and furniture of the house Mrs. Dashwood was upon the
+With the size and furniture of the [[house]] Mrs. Dashwood was upon the
 
-whole well satisfied; for though her former style of life rendered many
+whole [[Well|well]] satisfied; for though her former style of life rendered many
 
 additions to the latter indispensable, yet to add and improve was a
 
-delight to her; and she had at this time ready money enough to supply
+delight to her; and she had at this [[Time|time]] ready money enough to supply
 
 all that was wanted of greater elegance to the apartments. “As for the
 
-house itself, to be sure,” said she, “it is too small for our family,
+[[house]] itself, to be sure,” said she, “it is too small for our family,
 
 but we will make ourselves tolerably comfortable for the present, as it
 
-is too late in the year for improvements. Perhaps in the spring, if I
+is too late in the year for improvements. Perhaps in the [[Spring|spring]], if I
 
 have plenty of money, as I dare say I shall, we may think about
 
 building. These parlors are both too small for such parties of our
 
-friends as I hope to see often collected here; and I have some thoughts
+friends as I [[Hope|hope]] to see often collected here; and I have some thoughts
 
 of throwing the passage into one of them with perhaps a part of the
 
@@ -1905,23 +1905,23 @@ the stairs were handsome. But one must not expect every thing; though I
 
 suppose it would be no difficult matter to widen them. I shall see how
 
-much I am before-hand with the world in the spring, and we will plan
+much I am before-hand with the world in the [[Spring|spring]], and we will plan
 
 our improvements accordingly.”
 
 
 
-In the mean time, till all these alterations could be made from the
+In the mean [[Time|time]], till all these alterations could be made from the
 
 savings of an income of five hundred a-year by a woman who never saved
 
-in her life, they were wise enough to be contented with the house as it
+in her life, they were wise enough to be contented with the [[house]] as it
 
 was; and each of them was busy in arranging their particular concerns,
 
 and endeavoring, by placing around them books and other possessions, to
 
-form themselves a home. Marianne’s pianoforte was unpacked and properly
+form themselves a [[Home|home]]. Marianne’s pianoforte was unpacked and properly
 
 disposed of; and Elinor’s drawings were affixed to the walls of their
 
@@ -1935,7 +1935,7 @@ the next day by the entrance of their landlord, who called to welcome
 
 them to Barton, and to offer them every accommodation from his own
 
-house and garden in which theirs might at present be deficient. Sir
+[[house]] and [[Garden|garden]] in which theirs might at present be deficient. Sir
 
 John Middleton was a good looking man about forty. He had formerly
 
@@ -1947,19 +1947,19 @@ manners were as friendly as the style of his letter. Their arrival
 
 seemed to afford him real satisfaction, and their comfort to be an
 
-object of real solicitude to him. He said much of his earnest desire of
+object of real solicitude to him. He said much of his earnest [[Desire|desire]] of
 
 their living in the most sociable terms with his family, and pressed
 
 them so cordially to dine at Barton Park every day till they were
 
-better settled at home, that, though his entreaties were carried to a
+better settled at [[Home|home]], that, though his entreaties were carried to a
 
 point of perseverance beyond civility, they could not give offence. His
 
 kindness was not confined to words; for within an hour after he left
 
-them, a large basket full of garden stuff and fruit arrived from the
+them, a large basket full of [[Garden|garden]] stuff and fruit arrived from the
 
 park, which was followed before the end of the day by a present of
 
@@ -1999,7 +1999,7 @@ his frankness and warmth; and her visit was long enough to detract
 
 something from their first admiration, by showing that, though
 
-perfectly well-bred, she was reserved, cold, and had nothing to say for
+perfectly [[Well|well]]-bred, she was reserved, cold, and had nothing to say for
 
 herself beyond the most common-place inquiry or remark.
 
@@ -2009,11 +2009,11 @@ Conversation however was not wanted, for Sir John was very chatty, and
 
 Lady Middleton had taken the wise precaution of bringing with her their
 
-eldest child, a fine little boy about six years old, by which means
+eldest [[Child|child]], a fine little boy about six years old, by which means
 
 there was one subject always to be recurred to by the ladies in case of
 
-extremity, for they had to enquire his name and age, admire his beauty,
+extremity, for they had to enquire his name and age, admire his [[Beauty|beauty]],
 
 and ask him questions which his mother answered for him, while he hung
 
@@ -2021,7 +2021,7 @@ about her and held down his head, to the great surprise of her
 
 ladyship, who wondered at his being so shy before company, as he could
 
-make noise enough at home. On every formal visit a child ought to be of
+make noise enough at [[Home|home]]. On every formal visit a [[Child|child]] ought to be of
 
 the party, by way of provision for discourse. In the present case it
 
@@ -2029,7 +2029,7 @@ took up ten minutes to determine whether the boy were most like his
 
 father or mother, and in what particular he resembled either, for of
 
-course every body differed, and every body was astonished at the
+course every [[Body|body]] differed, and every [[Body|body]] was astonished at the
 
 opinion of the others.
 
@@ -2037,7 +2037,7 @@ opinion of the others.
 
 An opportunity was soon to be given to the Dashwoods of debating on the
 
-rest of the children, as Sir John would not leave the house without
+rest of the children, as Sir John would not leave the [[house]] without
 
 securing their promise of dining at the park the next day.
 
@@ -2059,7 +2059,7 @@ Barton Park was about half a mile from the cottage. The ladies had
 
 passed near it in their way along the valley, but it was screened from
 
-their view at home by the projection of a hill. The house was large and
+their view at [[Home|home]] by the projection of a [[Hill|hill]]. The [[house]] was large and
 
 handsome; and the Middletons lived in a style of equal hospitality and
 
@@ -2067,7 +2067,7 @@ elegance. The former was for Sir John’s gratification, the latter for
 
 that of his lady. They were scarcely ever without some friends staying
 
-with them in the house, and they kept more company of every kind than
+with them in the [[house]], and they kept more company of every kind than
 
 any other family in the neighbourhood. It was necessary to the
 
@@ -2087,9 +2087,9 @@ Middleton had the advantage of being able to spoil her children all the
 
 year round, while Sir John’s independent employments were in existence
 
-only half the time. Continual engagements at home and abroad, however,
+only half the [[Time|time]]. Continual engagements at [[Home|home]] and abroad, however,
 
-supplied all the deficiencies of nature and education; supported the
+supplied all the deficiencies of [[Nature|nature]] and [[Education|education]]; supported the
 
 good spirits of Sir John, and gave exercise to the good breeding of his
 
@@ -2099,21 +2099,21 @@ wife.
 
 Lady Middleton piqued herself upon the elegance of her table, and of
 
-all her domestic arrangements; and from this kind of vanity was her
+all her domestic arrangements; and from this kind of [[Vanity|vanity]] was her
 
 greatest enjoyment in any of their parties. But Sir John’s satisfaction
 
 in society was much more real; he delighted in collecting about him
 
-more young people than his house would hold, and the noisier they were
+more young people than his [[house]] would hold, and the noisier they were
 
 the better was he pleased. He was a blessing to all the juvenile part
 
-of the neighbourhood, for in summer he was for ever forming parties to
+of the neighbourhood, for in [[Summer|summer]] he was for ever forming parties to
 
-eat cold ham and chicken out of doors, and in winter his private balls
+eat cold ham and chicken out of doors, and in [[Winter|winter]] his private balls
 
-were numerous enough for any young lady who was not suffering under the
+were numerous enough for any young lady who was not [[Suffering|suffering]] under the
 
 unsatiable appetite of fifteen.
 
@@ -2149,7 +2149,7 @@ residence within his own manor.
 
 
 
-Mrs. Dashwood and her daughters were met at the door of the house by
+Mrs. Dashwood and her daughters were met at the door of the [[house]] by
 
 Sir John, who welcomed them to Barton Park with unaffected sincerity;
 
@@ -2169,7 +2169,7 @@ party, and could assure them it should never happen so again. He had
 
 been to several families that morning in hopes of procuring some
 
-addition to their number, but it was moonlight and every body was full
+addition to their number, but it was moonlight and every [[Body|body]] was full
 
 of engagements. Luckily Lady Middleton’s mother had arrived at Barton
 
@@ -2177,7 +2177,7 @@ within the last hour, and as she was a very cheerful agreeable woman,
 
 he hoped the young ladies would not find it so very dull as they might
 
-imagine. The young ladies, as well as their mother, were perfectly
+imagine. The young ladies, as [[Well|well]] as their mother, were perfectly
 
 satisfied with having two entire strangers of the party, and wished for
 
@@ -2191,7 +2191,7 @@ fat, elderly woman, who talked a great deal, seemed very happy, and
 
 rather vulgar. She was full of jokes and laughter, and before dinner
 
-was over had said many witty things on the subject of lovers and
+was over had said many witty things on the subject of [[lovers]] and
 
 husbands; hoped they had not left their hearts behind them in Sussex,
 
@@ -2201,19 +2201,19 @@ vexed at it for her sister’s sake, and turned her eyes towards Elinor
 
 to see how she bore these attacks, with an earnestness which gave
 
-Elinor far more pain than could arise from such common-place raillery
+Elinor far more [[Pain|pain]] than could arise from such common-place raillery
 
 as Mrs. Jennings’s.
 
 
 
-Colonel Brandon, the friend of Sir John, seemed no more adapted by
+[[Colonel Brandon]], the friend of Sir John, seemed no more adapted by
 
 resemblance of manner to be his friend, than Lady Middleton was to be
 
 his wife, or Mrs. Jennings to be Lady Middleton’s mother. He was silent
 
-and grave. His appearance however was not unpleasing, in spite of his
+and [[Grave|grave]]. His appearance however was not unpleasing, in spite of his
 
 being in the opinion of Marianne and Margaret an absolute old bachelor,
 
@@ -2231,7 +2231,7 @@ companions to the Dashwoods; but the cold insipidity of Lady Middleton
 
 was so particularly repulsive, that in comparison of it the gravity of
 
-Colonel Brandon, and even the boisterous mirth of Sir John and his
+[[Colonel Brandon]], and even the boisterous mirth of Sir John and his
 
 mother-in-law was interesting. Lady Middleton seemed to be roused to
 
@@ -2245,33 +2245,33 @@ discourse except what related to themselves.
 
 In the evening, as Marianne was discovered to be musical, she was
 
-invited to play. The instrument was unlocked, every body prepared to be
+invited to play. The instrument was unlocked, every [[Body|body]] prepared to be
 
-charmed, and Marianne, who sang very well, at their request went
+charmed, and Marianne, who sang very [[Well|well]], at their request went
 
-through the chief of the songs which Lady Middleton had brought into
+through the chief of the [[songs]] which Lady Middleton had brought into
 
-the family on her marriage, and which perhaps had lain ever since in
+the family on her [[Marriage|marriage]], and which perhaps had lain ever since in
 
 the same position on the pianoforte, for her ladyship had celebrated
 
 that event by giving up music, although by her mother’s account, she
 
-had played extremely well, and by her own was very fond of it.
+had played extremely [[Well|well]], and by her own was very fond of it.
 
 
 
 Marianne’s performance was highly applauded. Sir John was loud in his
 
-admiration at the end of every song, and as loud in his conversation
+admiration at the end of every [[Song|song]], and as loud in his conversation
 
-with the others while every song lasted. Lady Middleton frequently
+with the others while every [[Song|song]] lasted. Lady Middleton frequently
 
 called him to order, wondered how any one’s attention could be diverted
 
-from music for a moment, and asked Marianne to sing a particular song
+from music for a moment, and asked Marianne to sing a particular [[Song|song]]
 
-which Marianne had just finished. Colonel Brandon alone, of all the
+which Marianne had just finished. [[Colonel Brandon]] [[Alone|alone]], of all the
 
 party, heard her without being in raptures. He paid her only the
 
@@ -2281,13 +2281,13 @@ occasion, which the others had reasonably forfeited by their shameless
 
 want of taste. His pleasure in music, though it amounted not to that
 
-ecstatic delight which alone could sympathize with her own, was
+ecstatic delight which [[Alone|alone]] could sympathize with her own, was
 
 estimable when contrasted against the horrible insensibility of the
 
 others; and she was reasonable enough to allow that a man of five and
 
-thirty might well have outlived all acuteness of feeling and every
+thirty might [[Well|well]] have outlived all acuteness of feeling and every
 
 exquisite power of enjoyment. She was perfectly disposed to make every
 
@@ -2323,13 +2323,13 @@ weddings among all the young people of her acquaintance. She was
 
 remarkably quick in the discovery of attachments, and had enjoyed the
 
-advantage of raising the blushes and the vanity of many a young lady by
+advantage of raising the blushes and the [[Vanity|vanity]] of many a young lady by
 
 insinuations of her power over such a young man; and this kind of
 
 discernment enabled her soon after her arrival at Barton decisively to
 
-pronounce that Colonel Brandon was very much in love with Marianne
+pronounce that [[Colonel Brandon]] was very much in [[Love|love]] with Marianne
 
 Dashwood. She rather suspected it to be so, on the very first evening
 
@@ -2343,7 +2343,7 @@ It must be so. She was perfectly convinced of it. It would be an
 
 excellent match, for _he_ was rich, and _she_ was handsome. Mrs.
 
-Jennings had been anxious to see Colonel Brandon well married, ever
+Jennings had been anxious to see [[Colonel Brandon]] [[Well|well]] married, ever
 
 since her connection with Sir John first brought him to her knowledge;
 
@@ -2383,11 +2383,11 @@ wishing to throw ridicule on his age.
 
 “But at least, Mama, you cannot deny the absurdity of the accusation,
 
-though you may not think it intentionally ill-natured. Colonel Brandon
+though you may not think it intentionally ill-natured. [[Colonel Brandon]]
 
 is certainly younger than Mrs. Jennings, but he is old enough to be
 
-_my_ father; and if he were ever animated enough to be in love, must
+_my_ father; and if he were ever animated enough to be in [[Love|love]], must
 
 have long outlived every sensation of the kind. It is too ridiculous!
 
@@ -2397,7 +2397,7 @@ protect him?”
 
 
 
-“Infirmity!” said Elinor, “do you call Colonel Brandon infirm? I can
+“Infirmity!” said Elinor, “do you call [[Colonel Brandon]] infirm? I can
 
 easily suppose that his age may appear much greater to you than to my
 
@@ -2413,19 +2413,19 @@ commonest infirmity of declining life?”
 
 
 
-“My dearest child,” said her mother, laughing, “at this rate you must
+“My dearest [[Child|child]],” said her mother, laughing, “at this rate you must
 
-be in continual terror of _my_ decay; and it must seem to you a miracle
+be in continual terror of _my_ [[Decay|decay]]; and it must seem to you a miracle
 
 that my life has been extended to the advanced age of forty.”
 
 
 
-“Mama, you are not doing me justice. I know very well that Colonel
+“Mama, you are not doing me justice. I know very [[Well|well]] that Colonel
 
 Brandon is not old enough to make his friends yet apprehensive of
 
-losing him in the course of nature. He may live twenty years longer.
+losing him in the course of [[Nature|nature]]. He may live twenty years longer.
 
 But thirty-five has nothing to do with matrimony.”
 
@@ -2437,7 +2437,7 @@ any thing to do with matrimony together. But if there should by any
 
 chance happen to be a woman who is single at seven and twenty, I should
 
-not think Colonel Brandon’s being thirty-five any objection to his
+not think [[Colonel Brandon]]’s being thirty-five any objection to his
 
 marrying _her_.”
 
@@ -2445,11 +2445,11 @@ marrying _her_.”
 
 “A woman of seven and twenty,” said Marianne, after pausing a moment,
 
-“can never hope to feel or inspire affection again, and if her home be
+“can never [[Hope|hope]] to feel or inspire affection again, and if her [[Home|home]] be
 
 uncomfortable, or her fortune small, I can suppose that she might bring
 
-herself to submit to the offices of a nurse, for the sake of the
+herself to submit to the offices of a [[Nurse|nurse]], for the sake of the
 
 provision and security of a wife. In his marrying such a woman
 
@@ -2457,7 +2457,7 @@ therefore there would be nothing unsuitable. It would be a compact of
 
 convenience, and the world would be satisfied. In my eyes it would be
 
-no marriage at all, but that would be nothing. To me it would seem only
+no [[Marriage|marriage]] at all, but that would be nothing. To me it would seem only
 
 a commercial exchange, in which each wished to be benefited at the
 
@@ -2469,9 +2469,9 @@ expense of the other.”
 
 a woman of seven and twenty could feel for a man of thirty-five
 
-anything near enough to love, to make him a desirable companion to her.
+anything near enough to [[Love|love]], to make him a desirable companion to her.
 
-But I must object to your dooming Colonel Brandon and his wife to the
+But I must object to your dooming [[Colonel Brandon]] and his wife to the
 
 constant confinement of a sick chamber, merely because he chanced to
 
@@ -2503,7 +2503,7 @@ Soon after this, upon Elinor’s leaving the room, “Mama,” said Marianne,
 
 “I have an alarm on the subject of illness which I cannot conceal from
 
-you. I am sure Edward Ferrars is not well. We have now been here almost
+you. I am sure [[Edward Ferrars]] is not [[Well|well]]. We have now been here almost
 
 a fortnight, and yet he does not come. Nothing but real indisposition
 
@@ -2535,7 +2535,7 @@ yesterday of getting a new grate for the spare bedchamber, she observed
 
 that there was no immediate hurry for it, as it was not likely that the
 
-room would be wanted for some time.”
+room would be wanted for some [[Time|time]].”
 
 
 
@@ -2551,13 +2551,13 @@ distinction between Elinor and me: it was the good wishes of an
 
 affectionate brother to both. Twice did I leave them purposely together
 
-in the course of the last morning, and each time did he most
+in the course of the last morning, and each [[Time|time]] did he most
 
 unaccountably follow me out of the room. And Elinor, in quitting
 
-Norland and Edward, cried not as I did. Even now her self-command is
+Norland and Edward, cried not as I did. Even now her [[Self|self]]-command is
 
-invariable. When is she dejected or melancholy? When does she try to
+invariable. When is she dejected or [[Melancholy|melancholy]]? When does she try to
 
 avoid society, or appear restless and dissatisfied in it?”
 
@@ -2577,7 +2577,7 @@ CHAPTER IX.
 
 The Dashwoods were now settled at Barton with tolerable comfort to
 
-themselves. The house and the garden, with all the objects surrounding
+themselves. The [[house]] and the [[Garden|garden]], with all the objects surrounding
 
 them, were now become familiar, and the ordinary pursuits which had
 
@@ -2589,7 +2589,7 @@ father. Sir John Middleton, who called on them every day for the first
 
 fortnight, and who was not in the habit of seeing much occupation at
 
-home, could not conceal his amazement on finding them always employed.
+[[Home|home]], could not conceal his amazement on finding them always employed.
 
 
 
@@ -2615,19 +2615,19 @@ described, the girls had, in one of their earliest walks, discovered an
 
 ancient respectable looking mansion which, by reminding them a little
 
-of Norland, interested their imagination and made them wish to be
+of Norland, interested their [[Imagination|imagination]] and made them wish to be
 
 better acquainted with it. But they learnt, on enquiry, that its
 
 possessor, an elderly lady of very good character, was unfortunately
 
-too infirm to mix with the world, and never stirred from home.
+too infirm to mix with the world, and never stirred from [[Home|home]].
 
 
 
 The whole country about them abounded in beautiful walks. The high
 
-downs which invited them from almost every window of the cottage to
+downs which invited them from almost every [[Window|window]] of the cottage to
 
 seek the exquisite enjoyment of air on their summits, were a happy
 
@@ -2655,7 +2655,7 @@ They gaily ascended the downs, rejoicing in their own penetration at
 
 every glimpse of blue sky; and when they caught in their faces the
 
-animating gales of a high south-westerly wind, they pitied the fears
+animating gales of a high south-westerly [[Wind|wind]], they pitied the fears
 
 which had prevented their mother and Elinor from sharing such
 
@@ -2669,7 +2669,7 @@ this?—Margaret, we will walk here at least two hours.”
 
 
 
-Margaret agreed, and they pursued their way against the wind, resisting
+Margaret agreed, and they pursued their way against the [[Wind|wind]], resisting
 
 it with laughing delight for about twenty minutes longer, when suddenly
 
@@ -2679,13 +2679,13 @@ their face. Chagrined and surprised, they were obliged, though
 
 unwillingly, to turn back, for no shelter was nearer than their own
 
-house. One consolation however remained for them, to which the exigence
+[[house]]. One consolation however remained for them, to which the exigence
 
 of the moment gave more than usual propriety,—it was that of running
 
-with all possible speed down the steep side of the hill which led
+with all possible [[Speed|speed]] down the steep side of the [[Hill|hill]] which led
 
-immediately to their garden gate.
+immediately to their [[Garden|garden]] gate.
 
 
 
@@ -2695,13 +2695,13 @@ brought her suddenly to the ground; and Margaret, unable to stop
 
 herself to assist her, was involuntarily hurried along, and reached the
 
-bottom in safety.
+[[Bottom|bottom]] in safety.
 
 
 
 A gentleman carrying a gun, with two pointers playing round him, was
 
-passing up the hill and within a few yards of Marianne, when her
+passing up the [[Hill|hill]] and within a few yards of Marianne, when her
 
 accident happened. He put down his gun and ran to her assistance. She
 
@@ -2713,19 +2713,19 @@ services; and perceiving that her modesty declined what her situation
 
 rendered necessary, took her up in his arms without farther delay, and
 
-carried her down the hill. Then passing through the garden, the gate of
+carried her down the [[Hill|hill]]. Then passing through the [[Garden|garden]], the gate of
 
 which had been left open by Margaret, he bore her directly into the
 
-house, whither Margaret was just arrived, and quitted not his hold till
+[[house]], whither Margaret was just arrived, and quitted not his hold till
 
 he had seated her in a chair in the parlour.
 
 
 
-Elinor and her mother rose up in amazement at their entrance, and while
+Elinor and her mother [[Rose|rose]] up in amazement at their entrance, and while
 
-the eyes of both were fixed on him with an evident wonder and a secret
+the eyes of both were fixed on him with an evident [[Wonder|wonder]] and a secret
 
 admiration which equally sprung from his appearance, he apologized for
 
@@ -2737,11 +2737,11 @@ additional charms from his voice and expression. Had he been even old,
 
 ugly, and vulgar, the gratitude and kindness of Mrs. Dashwood would
 
-have been secured by any act of attention to her child; but the
+have been secured by any act of attention to her [[Child|child]]; but the
 
-influence of youth, beauty, and elegance, gave an interest to the
+influence of youth, [[Beauty|beauty]], and elegance, gave an interest to the
 
-action which came home to her feelings.
+action which came [[Home|home]] to her feelings.
 
 
 
@@ -2751,11 +2751,11 @@ always attended her, invited him to be seated. But this he declined, as
 
 he was dirty and wet. Mrs. Dashwood then begged to know to whom she was
 
-obliged. His name, he replied, was Willoughby, and his present home was
+obliged. His name, he replied, was Willoughby, and his present [[Home|home]] was
 
-at Allenham, from whence he hoped she would allow him the honour of
+at Allenham, from whence he hoped she would allow him the [[Honour|honour]] of
 
-calling tomorrow to enquire after Miss Dashwood. The honour was readily
+calling tomorrow to enquire after Miss Dashwood. The [[Honour|honour]] was readily
 
 granted, and he then departed, to make himself still more interesting,
 
@@ -2763,7 +2763,7 @@ in the midst of a heavy rain.
 
 
 
-His manly beauty and more than common gracefulness were instantly the
+His manly [[Beauty|beauty]] and more than common gracefulness were instantly the
 
 theme of general admiration, and the laugh which his gallantry raised
 
@@ -2775,15 +2775,15 @@ rest, for the confusion which crimsoned over her face, on his lifting
 
 her up, had robbed her of the power of regarding him after their
 
-entering the house. But she had seen enough of him to join in all the
+entering the [[house]]. But she had seen enough of him to join in all the
 
 admiration of the others, and with an energy which always adorned her
 
 praise. His person and air were equal to what her fancy had ever drawn
 
-for the hero of a favourite story; and in his carrying her into the
+for the [[Hero|hero]] of a favourite story; and in his carrying her into the
 
-house with so little previous formality, there was a rapidity of
+[[house]] with so little previous formality, there was a rapidity of
 
 thought which particularly recommended the action to her. Every
 
@@ -2793,7 +2793,7 @@ residence was in their favourite village, and she soon found out that
 
 of all manly dresses a shooting-jacket was the most becoming. Her
 
-imagination was busy, her reflections were pleasant, and the pain of a
+[[Imagination|imagination]] was busy, her reflections were pleasant, and the [[Pain|pain]] of a
 
 sprained ankle was disregarded.
 
@@ -2813,7 +2813,7 @@ gentleman of the name of Willoughby at Allenham.
 
 good news however; I will ride over tomorrow, and ask him to dinner on
 
-Thursday.”
+[[thursday|Thursday]].”
 
 
 
@@ -2847,7 +2847,7 @@ Sir John was rather puzzled.
 
 
 
-“Upon my soul,” said he, “I do not know much about him as to all
+“Upon my [[Soul|soul]],” said he, “I do not know much about him as to all
 
 _that_. But he is a pleasant, good humoured fellow, and has got the
 
@@ -2865,7 +2865,7 @@ mind.
 
 
 
-“But who is he?” said Elinor. “Where does he come from? Has he a house
+“But who is he?” said Elinor. “Where does he come from? Has he a [[house]]
 
 at Allenham?”
 
@@ -2877,9 +2877,9 @@ told them that Mr. Willoughby had no property of his own in the
 
 country; that he resided there only while he was visiting the old lady
 
-at Allenham Court, to whom he was related, and whose possessions he was
+at Allenham [[Court]], to whom he was related, and whose possessions he was
 
-to inherit; adding, “Yes, yes, he is very well worth catching I can
+to inherit; adding, “Yes, yes, he is very [[Well|well]] worth catching I can
 
 tell you, Miss Dashwood; he has a pretty little estate of his own in
 
@@ -2913,7 +2913,7 @@ will not be ineligible.”
 
 Sir John. “I remember last Christmas at a little hop at the park, he
 
-danced from eight o’clock till four, without once sitting down.”
+danced from eight o’[[Clock|clock]] till four, without once sitting down.”
 
 
 
@@ -2951,7 +2951,7 @@ intended; and ‘setting one’s cap at a man,’ or ‘making a conquest,’ ar
 
 the most odious of all. Their tendency is gross and illiberal; and if
 
-their construction could ever be deemed clever, time has long ago
+their construction could ever be deemed clever, [[Time|time]] has long ago
 
 destroyed all its ingenuity.”
 
@@ -2965,7 +2965,7 @@ heartily as if he did, and then replied,
 
 “Ay, you will make conquests enough, I dare say, one way or other. Poor
 
-Brandon! he is quite smitten already, and he is very well worth setting
+Brandon! he is quite smitten already, and he is very [[Well|well]] worth setting
 
 your cap at, I can tell you, in spite of all this tumbling about and
 
@@ -3011,7 +3011,7 @@ though not so correct as her sister’s, in having the advantage of
 
 height, was more striking; and her face was so lovely, that when in the
 
-common cant of praise, she was called a beautiful girl, truth was less
+common cant of praise, she was called a beautiful girl, [[Truth|truth]] was less
 
 violently outraged than usually happens. Her skin was very brown, but,
 
@@ -3057,7 +3057,7 @@ authors were brought forward and dwelt upon with so rapturous a
 
 delight, that any young man of five and twenty must have been
 
-insensible indeed, not to become an immediate convert to the excellence
+insensible indeed, not to become an immediate [[convert]] to the excellence
 
 of such works, however disregarded before. Their taste was strikingly
 
@@ -3075,9 +3075,9 @@ the familiarity of a long-established acquaintance.
 
 
 
-“Well, Marianne,” said Elinor, as soon as he had left them, “for _one_
+“[[Well]], Marianne,” said Elinor, as soon as he had left them, “for _one_
 
-morning I think you have done pretty well. You have already ascertained
+morning I think you have done pretty [[Well|well]]. You have already ascertained
 
 Mr. Willoughby’s opinion in almost every matter of importance. You know
 
@@ -3093,7 +3093,7 @@ subject for discourse? You will soon have exhausted each favourite
 
 topic. Another meeting will suffice to explain his sentiments on
 
-picturesque beauty, and second marriages, and then you can have nothing
+picturesque [[Beauty|beauty]], and second marriages, and then you can have nothing
 
 farther to ask.”
 
@@ -3115,7 +3115,7 @@ reproach would have been spared.”
 
 
 
-“My love,” said her mother, “you must not be offended with Elinor—she
+“My [[Love|love]],” said her mother, “you must not be offended with Elinor—she
 
 was only in jest. I should scold her myself, if she were capable of
 
@@ -3137,11 +3137,11 @@ greater kindness, made such an excuse unnecessary before it had ceased
 
 to be possible, by Marianne’s perfect recovery. She was confined for
 
-some days to the house; but never had any confinement been less
+some days to the [[house]]; but never had any confinement been less
 
 irksome. Willoughby was a young man of good abilities, quick
 
-imagination, lively spirits, and open, affectionate manners. He was
+[[Imagination|imagination]], lively spirits, and open, affectionate manners. He was
 
 exactly formed to engage Marianne’s heart, for with all this, he joined
 
@@ -3203,15 +3203,15 @@ were strong.
 
 Her mother too, in whose mind not one speculative thought of their
 
-marriage had been raised, by his prospect of riches, was led before the
+[[Marriage|marriage]] had been raised, by his prospect of riches, was led before the
 
-end of a week to hope and expect it; and secretly to congratulate
+end of a week to [[Hope|hope]] and expect it; and secretly to congratulate
 
 herself on having gained two such sons-in-law as Edward and Willoughby.
 
 
 
-Colonel Brandon’s partiality for Marianne, which had so early been
+[[Colonel Brandon]]’s partiality for Marianne, which had so early been
 
 discovered by his friends, now first became perceptible to Elinor, when
 
@@ -3233,9 +3233,9 @@ of disposition between the parties might forward the affection of Mr.
 
 Willoughby, an equally striking opposition of character was no
 
-hindrance to the regard of Colonel Brandon. She saw it with concern;
+hindrance to the regard of [[Colonel Brandon]]. She saw it with concern;
 
-for what could a silent man of five and thirty hope, when opposed to a
+for what could a silent man of five and thirty [[Hope|hope]], when opposed to a
 
 very lively one of five and twenty? and as she could not even wish him
 
@@ -3265,7 +3265,7 @@ lively nor young, seemed resolved to undervalue his merits.
 
 “Brandon is just the kind of man,” said Willoughby one day, when they
 
-were talking of him together, “whom every body speaks well of, and
+were talking of him together, “whom every [[Body|body]] speaks [[Well|well]] of, and
 
 nobody cares about; whom all are delighted to see, and nobody remembers
 
@@ -3293,7 +3293,7 @@ itself. Who would submit to the indignity of being approved by such a
 
 woman as Lady Middleton and Mrs. Jennings, that could command the
 
-indifference of any body else?”
+indifference of any [[Body|body]] else?”
 
 
 
@@ -3321,7 +3321,7 @@ abroad, has read, and has a thinking mind. I have found him capable of
 
 giving me much information on various subjects; and he has always
 
-answered my inquiries with readiness of good-breeding and good nature.”
+answered my inquiries with readiness of good-breeding and good [[Nature|nature]].”
 
 
 
@@ -3333,7 +3333,7 @@ troublesome.”
 
 
 
-“He _would_ have told me so, I doubt not, had I made any such
+“He _would_ have told me so, I [[Doubt|doubt]] not, had I made any such
 
 inquiries, but they happened to be points on which I had been
 
@@ -3355,9 +3355,9 @@ further than _your_ candour. But why should you dislike him?”
 
 “I do not dislike him. I consider him, on the contrary, as a very
 
-respectable man, who has every body’s good word, and nobody’s notice;
+respectable man, who has every [[Body|body]]’s good word, and nobody’s notice;
 
-who has more money than he can spend, more time than he knows how to
+who has more money than he can spend, more [[Time|time]] than he knows how to
 
 employ, and two new coats every year.”
 
@@ -3373,13 +3373,13 @@ ardour, and his voice no expression.”
 
 “You decide on his imperfections so much in the mass,” replied Elinor,
 
-“and so much on the strength of your own imagination, that the
+“and so much on the strength of your own [[Imagination|imagination]], that the
 
 commendation _I_ am able to give of him is comparatively cold and
 
-insipid. I can only pronounce him to be a sensible man, well-bred,
+insipid. I can only pronounce him to be a sensible man, [[Well|well]]-bred,
 
-well-informed, of gentle address, and, I believe, possessing an amiable
+[[Well|well]]-informed, of gentle address, and, I believe, possessing an amiable
 
 heart.”
 
@@ -3403,7 +3403,7 @@ to be told, that I believe his character to be in other respects
 
 irreproachable, I am ready to confess it. And in return for an
 
-acknowledgment, which must give me some pain, you cannot deny me the
+acknowledgment, which must give me some [[Pain|pain]], you cannot deny me the
 
 privilege of disliking him as much as ever.”
 
@@ -3425,17 +3425,17 @@ Little had Mrs. Dashwood or her daughters imagined when they first came
 
 into Devonshire, that so many engagements would arise to occupy their
 
-time as shortly presented themselves, or that they should have such
+[[Time|time]] as shortly presented themselves, or that they should have such
 
 frequent invitations and such constant visitors as to leave them little
 
 leisure for serious employment. Yet such was the case. When Marianne
 
-was recovered, the schemes of amusement at home and abroad, which Sir
+was recovered, the schemes of amusement at [[Home|home]] and abroad, which Sir
 
 John had been previously forming, were put into execution. The private
 
-balls at the park then began; and parties on the water were made and
+balls at the park then began; and parties on the [[Water|water]] were made and
 
 accomplished as often as a showery October would allow. In every
 
@@ -3459,7 +3459,7 @@ Elinor could not be surprised at their attachment. She only wished that
 
 it were less openly shown; and once or twice did venture to suggest the
 
-propriety of some self-command to Marianne. But Marianne abhorred all
+propriety of some [[Self|self]]-command to Marianne. But Marianne abhorred all
 
 concealment where no real disgrace could attend unreserve; and to aim
 
@@ -3483,11 +3483,11 @@ the park were concluded with cards, he cheated himself and all the rest
 
 of the party to get her a good hand. If dancing formed the amusement of
 
-the night, they were partners for half the time; and when obliged to
+the [[Night|night]], they were partners for half the [[Time|time]]; and when obliged to
 
 separate for a couple of dances, were careful to stand together and
 
-scarcely spoke a word to any body else. Such conduct made them of
+scarcely spoke a word to any [[Body|body]] else. Such conduct made them of
 
 course most exceedingly laughed at; but ridicule could not shame, and
 
@@ -3513,7 +3513,7 @@ her from Sussex, was more likely to be softened than she had thought it
 
 possible before, by the charms which his society bestowed on her
 
-present home.
+present [[Home|home]].
 
 
 
@@ -3531,9 +3531,9 @@ she missed; although the latter was an everlasting talker, and from the
 
 first had regarded her with a kindness which ensured her a large share
 
-of her discourse. She had already repeated her own history to Elinor
+of her discourse. She had already repeated her own [[history]] to Elinor
 
-three or four times; and had Elinor’s memory been equal to her means of
+three or four times; and had Elinor’s [[Memory|memory]] been equal to her means of
 
 improvement, she might have known very early in their acquaintance all
 
@@ -3561,7 +3561,7 @@ and her two eldest children attended her, she never appeared to receive
 
 more enjoyment from them than she might have experienced in sitting at
 
-home;—and so little did her presence add to the pleasure of the others,
+[[Home|home]];—and so little did her presence add to the pleasure of the others,
 
 by any share in their conversation, that they were sometimes only
 
@@ -3571,19 +3571,19 @@ troublesome boys.
 
 
 
-In Colonel Brandon alone, of all her new acquaintance, did Elinor find
+In [[Colonel Brandon]] [[Alone|alone]], of all her new acquaintance, did Elinor find
 
 a person who could in any degree claim the respect of abilities, excite
 
-the interest of friendship, or give pleasure as a companion. Willoughby
+the interest of [[Friendship|friendship]], or give pleasure as a companion. Willoughby
 
 was out of the question. Her admiration and regard, even her sisterly
 
-regard, was all his own; but he was a lover; his attentions were wholly
+regard, was all his own; but he was a [[Lover|lover]]; his attentions were wholly
 
 Marianne’s, and a far less agreeable man might have been more generally
 
-pleasing. Colonel Brandon, unfortunately for himself, had no such
+pleasing. [[Colonel Brandon]], unfortunately for himself, had no such
 
 encouragement to think only of Marianne, and in conversing with Elinor
 
@@ -3593,7 +3593,7 @@ he found the greatest consolation for the indifference of her sister.
 
 Elinor’s compassion for him increased, as she had reason to suspect
 
-that the misery of disappointed love had already been known to him.
+that the misery of disappointed [[Love|love]] had already been known to him.
 
 This suspicion was given by some words which accidentally dropped from
 
@@ -3601,7 +3601,7 @@ him one evening at the park, when they were sitting down together by
 
 mutual consent, while the others were dancing. His eyes were fixed on
 
-Marianne, and, after a silence of some minutes, he said, with a faint
+Marianne, and, after a [[Silence|silence]] of some minutes, he said, with a faint
 
 smile, “Your sister, I understand, does not approve of second
 
@@ -3625,7 +3625,7 @@ few years however will settle her opinions on the reasonable basis of
 
 common sense and observation; and then they may be more easy to define
 
-and to justify than they now are, by any body but herself.”
+and to justify than they now are, by any [[Body|body]] but herself.”
 
 
 
@@ -3657,7 +3657,7 @@ After a short pause he resumed the conversation by saying,—
 
 “Does your sister make no distinction in her objections against a
 
-second attachment? or is it equally criminal in every body? Are those
+second attachment? or is it equally criminal in every [[Body|body]]? Are those
 
 who have been disappointed in their first choice, whether from the
 
@@ -3677,7 +3677,7 @@ attachment’s being pardonable.”
 
 “This,” said he, “cannot hold; but a change, a total change of
 
-sentiments—No, no, do not desire it; for when the romantic refinements
+sentiments—No, no, do not [[Desire|desire]] it; for when the romantic refinements
 
 of a young mind are obliged to give way, how frequently are they
 
@@ -3705,9 +3705,9 @@ recollection of past regard. Elinor attempted no more. But Marianne, in
 
 her place, would not have done so little. The whole story would have
 
-been speedily formed under her active imagination; and every thing
+been speedily formed under her active [[Imagination|imagination]]; and every thing
 
-established in the most melancholy order of disastrous love.
+established in the most [[Melancholy|melancholy]] order of disastrous [[Love|love]].
 
 
 
@@ -3731,13 +3731,13 @@ all that she knew before of Marianne’s imprudence and want of thought,
 
 surprised her by its extravagant testimony of both. Marianne told her,
 
-with the greatest delight, that Willoughby had given her a horse, one
+with the greatest delight, that Willoughby had given her a [[Horse|horse]], one
 
 that he had bred himself on his estate in Somersetshire, and which was
 
 exactly calculated to carry a woman. Without considering that it was
 
-not in her mother’s plan to keep any horse, that if she were to alter
+not in her mother’s plan to keep any [[Horse|horse]], that if she were to alter
 
 her resolution in favour of this gift, she must buy another for the
 
@@ -3759,19 +3759,19 @@ gallop on some of these downs.”
 
 
 
-Most unwilling was she to awaken from such a dream of felicity to
+Most unwilling was she to awaken from such [[A Dream|a dream]] of felicity to
 
 comprehend all the unhappy truths which attended the affair; and for
 
-some time she refused to submit to them. As to an additional servant,
+some [[Time|time]] she refused to submit to them. As to an additional servant,
 
 the expense would be a trifle; Mama she was sure would never object to
 
-it; and any horse would do for _him;_ he might always get one at the
+it; and any [[Horse|horse]] would do for _him;_ he might always get one at the
 
 park; as to a stable, the merest shed would be sufficient. Elinor then
 
-ventured to doubt the propriety of her receiving such a present from a
+ventured to [[Doubt|doubt]] the propriety of her receiving such a present from a
 
 man so little, or at least so lately known to her. This was too much.
 
@@ -3783,15 +3783,15 @@ little of Willoughby. I have not known him long indeed, but I am much
 
 better acquainted with him, than I am with any other creature in the
 
-world, except yourself and mama. It is not time or opportunity that is
+world, except yourself and mama. It is not [[Time|time]] or opportunity that is
 
-to determine intimacy;—it is disposition alone. Seven years would be
+to determine intimacy;—it is disposition [[Alone|alone]]. Seven years would be
 
 insufficient to make some people acquainted with each other, and seven
 
 days are more than enough for others. I should hold myself guilty of
 
-greater impropriety in accepting a horse from my brother, than from
+greater impropriety in accepting a [[Horse|horse]] from my brother, than from
 
 Willoughby. Of John I know very little, though we have lived together
 
@@ -3825,19 +3825,19 @@ cottage, the same day, Elinor heard her express her disappointment to
 
 him in a low voice, on being obliged to forego the acceptance of his
 
-present. The reasons for this alteration were at the same time related,
+present. The reasons for this alteration were at the same [[Time|time]] related,
 
 and they were such as to make further entreaty on his side impossible.
 
 His concern however was very apparent; and after expressing it with
 
-earnestness, he added, in the same low voice,—“But, Marianne, the horse
+earnestness, he added, in the same low voice,—“But, Marianne, the [[Horse|horse]]
 
 is still yours, though you cannot use it now. I shall keep it only till
 
 you can claim it. When you leave Barton to form your own establishment
 
-in a more lasting home, Queen Mab shall receive you.”
+in a more lasting [[Home|home]], [[Queen]] Mab shall receive you.”
 
 
 
@@ -3845,7 +3845,7 @@ This was all overheard by Miss Dashwood; and in the whole of the
 
 sentence, in his manner of pronouncing it, and in his addressing her
 
-sister by her Christian name alone, she instantly saw an intimacy so
+sister by her Christian name [[Alone|alone]], she instantly saw an intimacy so
 
 decided, a meaning so direct, as marked a perfect agreement between
 
@@ -3863,7 +3863,7 @@ Margaret related something to her the next day, which placed this
 
 matter in a still clearer light. Willoughby had spent the preceding
 
-evening with them, and Margaret, by being left some time in the parlour
+evening with them, and Margaret, by being left some [[Time|time]] in the parlour
 
 with only him and Marianne, had had opportunity for observations,
 
@@ -3905,7 +3905,7 @@ _his_.”
 
 “But, indeed, Elinor, it is Marianne’s. I am almost sure it is, for I
 
-saw him cut it off. Last night after tea, when you and mama went out of
+saw him cut it off. Last [[Night|night]] after tea, when you and mama went out of
 
 the room, they were whispering and talking together as fast as could
 
@@ -3941,7 +3941,7 @@ tell, may I, Elinor?”
 
 
 
-This of course made every body laugh; and Elinor tried to laugh too.
+This of course made every [[Body|body]] laugh; and Elinor tried to laugh too.
 
 But the effort was painful. She was convinced that Margaret had fixed
 
@@ -3983,13 +3983,13 @@ Jennings. “What is the gentleman’s name?”
 
 
 
-“I must not tell, ma’am. But I know very well what it is; and I know
+“I must not tell, ma’am. But I know very [[Well|well]] what it is; and I know
 
 where he is too.”
 
 
 
-“Yes, yes, we can guess where he is; at his own house at Norland to be
+“Yes, yes, we can guess where he is; at his own [[house]] at Norland to be
 
 sure. He is the curate of the parish I dare say.”
 
@@ -4007,7 +4007,7 @@ existence.”
 
 
 
-“Well, then, he is lately dead, Marianne, for I am sure there was such
+“[[Well]], then, he is lately dead, Marianne, for I am sure there was such
 
 a man once, and his name begins with an F.”
 
@@ -4023,7 +4023,7 @@ ladyship’s great dislike of all such inelegant subjects of raillery as
 
 delighted her husband and mother. The idea however started by her, was
 
-immediately pursued by Colonel Brandon, who was on every occasion
+immediately pursued by [[Colonel Brandon]], who was on every occasion
 
 mindful of the feelings of others; and much was said on the subject of
 
@@ -4041,7 +4041,7 @@ A party was formed this evening for going on the following day to see a
 
 very fine place about twelve miles from Barton, belonging to a
 
-brother-in-law of Colonel Brandon, without whose interest it could not
+brother-in-law of [[Colonel Brandon]], without whose interest it could not
 
 be seen, as the proprietor, who was then abroad, had left strict orders
 
@@ -4051,9 +4051,9 @@ John, who was particularly warm in their praise, might be allowed to be
 
 a tolerable judge, for he had formed parties to visit them, at least,
 
-twice every summer for the last ten years. They contained a noble piece
+twice every [[Summer|summer]] for the last ten years. They contained a noble piece
 
-of water; a sail on which was to form a great part of the morning’s
+of [[Water|water]]; a sail on which was to form a great part of the morning’s
 
 amusement; cold provisions were to be taken, open carriages only to be
 
@@ -4065,11 +4065,11 @@ party of pleasure.
 
 To some few of the company it appeared rather a bold undertaking,
 
-considering the time of year, and that it had rained every day for the
+considering the [[Time|time]] of year, and that it had rained every day for the
 
 last fortnight;—and Mrs. Dashwood, who had already a cold, was
 
-persuaded by Elinor to stay at home.
+persuaded by Elinor to stay at [[Home|home]].
 
 
 
@@ -4095,15 +4095,15 @@ not go at all.
 
 
 
-By ten o’clock the whole party was assembled at the park, where they
+By ten o’[[Clock|clock]] the whole party was assembled at the park, where they
 
 were to breakfast. The morning was rather favourable, though it had
 
-rained all night, as the clouds were then dispersing across the sky,
+rained all [[Night|night]], as the clouds were then dispersing across the sky,
 
 and the sun frequently appeared. They were all in high spirits and good
 
-humour, eager to be happy, and determined to submit to the greatest
+[[Humour|humour]], eager to be happy, and determined to submit to the greatest
 
 inconveniences and hardships rather than be otherwise.
 
@@ -4111,7 +4111,7 @@ inconveniences and hardships rather than be otherwise.
 
 While they were at breakfast the letters were brought in. Among the
 
-rest there was one for Colonel Brandon;—he took it, looked at the
+rest there was one for [[Colonel Brandon]];—he took it, looked at the
 
 direction, changed colour, and immediately left the room.
 
@@ -4125,9 +4125,9 @@ Nobody could tell.
 
 
 
-“I hope he has had no bad news,” said Lady Middleton. “It must be
+“I [[Hope|hope]] he has had no bad news,” said Lady Middleton. “It must be
 
-something extraordinary that could make Colonel Brandon leave my
+something extraordinary that could make [[Colonel Brandon]] leave my
 
 breakfast table so suddenly.”
 
@@ -4137,7 +4137,7 @@ In about five minutes he returned.
 
 
 
-“No bad news, Colonel, I hope;” said Mrs. Jennings, as soon as he
+“No bad news, Colonel, I [[Hope|hope]];” said Mrs. Jennings, as soon as he
 
 entered the room.
 
@@ -4147,7 +4147,7 @@ entered the room.
 
 
 
-“Was it from Avignon? I hope it is not to say that your sister is
+“Was it from Avignon? I [[Hope|hope]] it is not to say that your sister is
 
 worse.”
 
@@ -4161,7 +4161,7 @@ worse.”
 
 letter of business? Come, come, this won’t do, Colonel; so let us hear
 
-the truth of it.”
+the [[Truth|truth]] of it.”
 
 
 
@@ -4179,7 +4179,7 @@ Mrs. Jennings, without attending to her daughter’s reproof.
 
 
 
-“Well, then, I know who it is from, Colonel. And I hope she is well.”
+“[[Well]], then, I know who it is from, Colonel. And I [[Hope|hope]] she is [[Well|well]].”
 
 
 
@@ -4201,13 +4201,13 @@ requires my immediate attendance in town.”
 
 “In town!” cried Mrs. Jennings. “What can you have to do in town at
 
-this time of year?”
+this [[Time|time]] of year?”
 
 
 
 “My own loss is great,” he continued, “in being obliged to leave so
 
-agreeable a party; but I am the more concerned, as I fear my presence
+agreeable a party; but I am the more concerned, as I [[Fear|fear]] my presence
 
 is necessary to gain your admittance at Whitwell.”
 
@@ -4235,7 +4235,7 @@ near it. You cannot go to town till tomorrow, Brandon, that is all.”
 
 “I wish it could be so easily settled. But it is not in my power to
 
-delay my journey for one day!”
+delay my [[Journey|journey]] for one day!”
 
 
 
@@ -4247,7 +4247,7 @@ Jennings, “we might see whether it could be put off or not.”
 
 “You would not be six hours later,” said Willoughby, “if you were to
 
-defer your journey till our return.”
+defer your [[Journey|journey]] till our return.”
 
 
 
@@ -4267,7 +4267,7 @@ of his own writing.”
 
 
 
-“I have no doubt of it,” replied Marianne.
+“I have no [[Doubt|doubt]] of it,” replied Marianne.
 
 
 
@@ -4275,29 +4275,29 @@ of his own writing.”
 
 old,” said Sir John, “when once you are determined on anything. But,
 
-however, I hope you will think better of it. Consider, here are the two
+however, I [[Hope|hope]] you will think better of it. Consider, here are the two
 
 Miss Careys come over from Newton, the three Miss Dashwoods walked up
 
 from the cottage, and Mr. Willoughby got up two hours before his usual
 
-time, on purpose to go to Whitwell.”
+[[Time|time]], on purpose to go to Whitwell.”
 
 
 
-Colonel Brandon again repeated his sorrow at being the cause of
+[[Colonel Brandon]] again repeated his sorrow at being the cause of
 
-disappointing the party; but at the same time declared it to be
+disappointing the party; but at the same [[Time|time]] declared it to be
 
 unavoidable.
 
 
 
-“Well, then, when will you come back again?”
+“[[Well]], then, when will you come back again?”
 
 
 
-“I hope we shall see you at Barton,” added her ladyship, “as soon as
+“I [[Hope|hope]] we shall see you at Barton,” added her ladyship, “as soon as
 
 you can conveniently leave town; and we must put off the party to
 
@@ -4329,7 +4329,7 @@ something he is ashamed of.”
 
 
 
-Colonel Brandon’s horses were announced.
+[[Colonel Brandon]]’s horses were announced.
 
 
 
@@ -4341,7 +4341,7 @@ Colonel Brandon’s horses were announced.
 
 
 
-“Well, as you are resolved to go, I wish you a good journey. But you
+“[[Well]], as you are resolved to go, I wish you a good [[Journey|journey]]. But you
 
 had better change your mind.”
 
@@ -4357,7 +4357,7 @@ He then took leave of the whole party.
 
 “Is there no chance of my seeing you and your sisters in town this
 
-winter, Miss Dashwood?”
+[[Winter|winter]], Miss Dashwood?”
 
 
 
@@ -4365,7 +4365,7 @@ winter, Miss Dashwood?”
 
 
 
-“Then I must bid you farewell for a longer time than I should wish to
+“Then I must bid you farewell for a longer [[Time|time]] than I should wish to
 
 do.”
 
@@ -4399,7 +4399,7 @@ exultingly.
 
 
 
-“Can you, ma’am?” said almost every body.
+“Can you, ma’am?” said almost every [[Body|body]].
 
 
 
@@ -4415,7 +4415,7 @@ exultingly.
 
 heard of her before. She is a relation of the Colonel’s, my dear; a
 
-very near relation. We will not say how near, for fear of shocking the
+very near relation. We will not say how near, for [[Fear|fear]] of shocking the
 
 young ladies.” Then, lowering her voice a little, she said to Elinor,
 
@@ -4461,9 +4461,9 @@ the downs.
 
 
 
-It was settled that there should be a dance in the evening, and that
+It was settled that there should be a [[Dance|dance]] in the evening, and that
 
-every body should be extremely merry all day long. Some more of the
+every [[Body|body]] should be extremely merry all day long. Some more of the
 
 Careys came to dinner, and they had the pleasure of sitting down nearly
 
@@ -4491,13 +4491,13 @@ curricle?”
 
 
 
-“Yes, yes, Mr. Impudence, I know that very well, and I was determined
+“Yes, yes, Mr. Impudence, I know that very [[Well|well]], and I was determined
 
-to find out _where_ you had been to. I hope you like your house, Miss
+to find out _where_ you had been to. I [[Hope|hope]] you like your [[house]], Miss
 
 Marianne. It is a very large one, I know; and when I come to see you, I
 
-hope you will have new-furnished it, for it wanted it very much when I
+[[Hope|hope]] you will have new-furnished it, for it wanted it very much when I
 
 was there six years ago.”
 
@@ -4511,17 +4511,17 @@ had been, she had actually made her own woman enquire of Mr.
 
 Willoughby’s groom; and that she had by that method been informed that
 
-they had gone to Allenham, and spent a considerable time there in
+they had gone to Allenham, and spent a considerable [[Time|time]] there in
 
-walking about the garden and going all over the house.
+walking about the [[Garden|garden]] and going all over the [[house]].
 
 
 
 Elinor could hardly believe this to be true, as it seemed very unlikely
 
-that Willoughby should propose, or Marianne consent, to enter the house
+that Willoughby should propose, or Marianne consent, to enter the [[house]]
 
-while Mrs. Smith was in it, with whom Marianne had not the smallest
+while Mrs. [[smith|Smith]] was in it, with whom Marianne had not the smallest
 
 acquaintance.
 
@@ -4539,13 +4539,13 @@ with her for doubting it.
 
 “Why should you imagine, Elinor, that we did not go there, or that we
 
-did not see the house? Is not it what you have often wished to do
+did not see the [[house]]? Is not it what you have often wished to do
 
 yourself?”
 
 
 
-“Yes, Marianne, but I would not go while Mrs. Smith was there, and with
+“Yes, Marianne, but I would not go while Mrs. [[smith|Smith]] was there, and with
 
 no other companion than Mr. Willoughby.”
 
@@ -4553,7 +4553,7 @@ no other companion than Mr. Willoughby.”
 
 “Mr. Willoughby however is the only person who can have a right to show
 
-that house; and as he went in an open carriage, it was impossible to
+that [[house]]; and as he went in an open carriage, it was impossible to
 
 have any other companion. I never spent a pleasanter morning in my
 
@@ -4571,7 +4571,7 @@ does not always evince its propriety.”
 
 there had been any real impropriety in what I did, I should have been
 
-sensible of it at the time, for we always know when we are acting
+sensible of it at the [[Time|time]], for we always know when we are acting
 
 wrong, and with such a conviction I could have had no pleasure.”
 
@@ -4579,7 +4579,7 @@ wrong, and with such a conviction I could have had no pleasure.”
 
 “But, my dear Marianne, as it has already exposed you to some very
 
-impertinent remarks, do you not now begin to doubt the discretion of
+impertinent remarks, do you not now begin to [[Doubt|doubt]] the discretion of
 
 your own conduct?”
 
@@ -4593,7 +4593,7 @@ I value not her censure any more than I should do her commendation. I
 
 am not sensible of having done anything wrong in walking over Mrs.
 
-Smith’s grounds, or in seeing her house. They will one day be Mr.
+[[smith|Smith]]’s grounds, or in seeing her [[house]]. They will one day be Mr.
 
 Willoughby’s, and—”
 
@@ -4609,11 +4609,11 @@ She blushed at this hint; but it was even visibly gratifying to her;
 
 and after a ten minutes’ interval of earnest thought, she came to her
 
-sister again, and said with great good humour, “Perhaps, Elinor, it
+sister again, and said with great good [[Humour|humour]], “Perhaps, Elinor, it
 
 _was_ rather ill-judged in me to go to Allenham; but Mr. Willoughby
 
-wanted particularly to show me the place; and it is a charming house, I
+wanted particularly to show me the place; and it is a charming [[house]], I
 
 assure you.—There is one remarkably pretty sitting room up stairs; of a
 
@@ -4621,7 +4621,7 @@ nice comfortable size for constant use, and with modern furniture it
 
 would be delightful. It is a corner room, and has windows on two sides.
 
-On one side you look across the bowling-green, behind the house, to a
+On one side you look across the bowling-green, behind the [[house]], to a
 
 beautiful hanging wood, and on the other you have a view of the church
 
@@ -4633,13 +4633,13 @@ forlorn than the furniture,—but if it were newly fitted up—a couple of
 
 hundred pounds, Willoughby says, would make it one of the pleasantest
 
-summer-rooms in England.”
+[[Summer|summer]]-rooms in England.”
 
 
 
 Could Elinor have listened to her without interruption from the others,
 
-she would have described every room in the house with equal delight.
+she would have described every room in the [[house]] with equal delight.
 
 
 
@@ -4655,11 +4655,11 @@ CHAPTER XIV.
 
 
 
-The sudden termination of Colonel Brandon’s visit at the park, with his
+The sudden termination of [[Colonel Brandon]]’s visit at the park, with his
 
 steadiness in concealing its cause, filled the mind, and raised the
 
-wonder of Mrs. Jennings for two or three days; she was a great
+[[Wonder|wonder]] of Mrs. Jennings for two or three days; she was a great
 
 wonderer, as every one must be who takes a very lively interest in all
 
@@ -4675,7 +4675,7 @@ them all.
 
 
 
-“Something very melancholy must be the matter, I am sure,” said she. “I
+“Something very [[Melancholy|melancholy]] must be the matter, I am sure,” said she. “I
 
 could see it in his face. Poor man! I am afraid his circumstances may
 
@@ -4685,9 +4685,9 @@ thousand a year, and his brother left everything sadly involved. I do
 
 think he must have been sent for about money matters, for what else can
 
-it be? I wonder whether it is so. I would give anything to know the
+it be? I [[Wonder|wonder]] whether it is so. I would give anything to know the
 
-truth of it. Perhaps it is about Miss Williams and, by the bye, I dare
+[[Truth|truth]] of it. Perhaps it is about Miss Williams and, by the bye, I dare
 
 say it is, because he looked so conscious when I mentioned her. May be
 
@@ -4699,11 +4699,11 @@ Miss Williams. It is not so very likely he should be distressed in his
 
 circumstances _now_, for he is a very prudent man, and to be sure must
 
-have cleared the estate by this time. I wonder what it can be! May be
+have cleared the estate by this [[Time|time]]. I [[Wonder|wonder]] what it can be! May be
 
 his sister is worse at Avignon, and has sent for him over. His setting
 
-off in such a hurry seems very like it. Well, I wish him out of all his
+off in such a hurry seems very like it. [[Well]], I wish him out of all his
 
 trouble with all my heart, and a good wife into the bargain.”
 
@@ -4715,19 +4715,19 @@ fresh conjecture, and all seeming equally probable as they arose.
 
 Elinor, though she felt really interested in the welfare of Colonel
 
-Brandon, could not bestow all the wonder on his going so suddenly away,
+Brandon, could not bestow all the [[Wonder|wonder]] on his going so suddenly away,
 
 which Mrs. Jennings was desirous of her feeling; for besides that the
 
 circumstance did not in her opinion justify such lasting amazement or
 
-variety of speculation, her wonder was otherwise disposed of. It was
+variety of speculation, her [[Wonder|wonder]] was otherwise disposed of. It was
 
-engrossed by the extraordinary silence of her sister and Willoughby on
+engrossed by the extraordinary [[Silence|silence]] of her sister and Willoughby on
 
 the subject, which they must know to be peculiarly interesting to them
 
-all. As this silence continued, every day made it appear more strange
+all. As this [[Silence|silence]] continued, every day made it appear more strange
 
 and more incompatible with the disposition of both. Why they should not
 
@@ -4739,7 +4739,7 @@ imagine.
 
 
 
-She could easily conceive that marriage might not be immediately in
+She could easily conceive that [[Marriage|marriage]] might not be immediately in
 
 their power; for though Willoughby was independent, there was no reason
 
@@ -4749,15 +4749,15 @@ or seven hundred a year; but he lived at an expense to which that
 
 income could hardly be equal, and he had himself often complained of
 
-his poverty. But for this strange kind of secrecy maintained by them
+his [[Poverty|poverty]]. But for this strange kind of secrecy maintained by them
 
 relative to their engagement, which in fact concealed nothing at all,
 
 she could not account; and it was so wholly contradictory to their
 
-general opinions and practice, that a doubt sometimes entered her mind
+general opinions and practice, that a [[Doubt|doubt]] sometimes entered her mind
 
-of their being really engaged, and this doubt was enough to prevent her
+of their being really engaged, and this [[Doubt|doubt]] was enough to prevent her
 
 making any inquiry of Marianne.
 
@@ -4767,11 +4767,11 @@ Nothing could be more expressive of attachment to them all, than
 
 Willoughby’s behaviour. To Marianne it had all the distinguishing
 
-tenderness which a lover’s heart could give, and to the rest of the
+tenderness which a [[Lover|lover]]’s heart could give, and to the rest of the
 
 family it was the affectionate attention of a son and a brother. The
 
-cottage seemed to be considered and loved by him as his home; many more
+cottage seemed to be considered and loved by him as his [[Home|home]]; many more
 
 of his hours were spent there than at Allenham; and if no general
 
@@ -4785,13 +4785,13 @@ favourite pointer at her feet.
 
 
 
-One evening in particular, about a week after Colonel Brandon left the
+One evening in particular, about a week after [[Colonel Brandon]] left the
 
 country, his heart seemed more than usually open to every feeling of
 
 attachment to the objects around him; and on Mrs. Dashwood’s happening
 
-to mention her design of improving the cottage in the spring, he warmly
+to mention her design of improving the cottage in the [[Spring|spring]], he warmly
 
 opposed every alteration of a place which affection had established as
 
@@ -4827,7 +4827,7 @@ whom I loved, for all the improvements in the world. Depend upon it
 
 that whatever unemployed sum may remain, when I make up my accounts in
 
-the spring, I would even rather lay it uselessly by than dispose of it
+the [[Spring|spring]], I would even rather lay it uselessly by than dispose of it
 
 in a manner so painful to you. But are you really so attached to this
 
@@ -4867,7 +4867,7 @@ Barton.”
 
 of better rooms and a broader staircase, you will hereafter find your
 
-own house as faultless as you now do this.”
+own [[house]] as faultless as you now do this.”
 
 
 
@@ -4881,13 +4881,13 @@ my affection, which no other can possibly share.”
 
 Mrs. Dashwood looked with pleasure at Marianne, whose fine eyes were
 
-fixed so expressively on Willoughby, as plainly denoted how well she
+fixed so expressively on Willoughby, as plainly denoted how [[Well|well]] she
 
 understood him.
 
 
 
-“How often did I wish,” added he, “when I was at Allenham this time
+“How often did I wish,” added he, “when I was at Allenham this [[Time|time]]
 
 twelvemonth, that Barton cottage were inhabited! I never passed within
 
@@ -4895,7 +4895,7 @@ view of it without admiring its situation, and grieving that no one
 
 should live in it. How little did I then think that the very first news
 
-I should hear from Mrs. Smith, when I next came into the country, would
+I should hear from Mrs. [[smith|Smith]], when I next came into the country, would
 
 be that Barton cottage was taken: and I felt an immediate satisfaction
 
@@ -4905,7 +4905,7 @@ what happiness I should experience from it, can account for. Must it
 
 not have been so, Marianne?” speaking to her in a lowered voice. Then
 
-continuing his former tone, he said, “And yet this house you would
+continuing his former tone, he said, “And yet this [[house]] you would
 
 spoil, Mrs. Dashwood? You would rob it of its simplicity by imaginary
 
@@ -4915,7 +4915,7 @@ began, and in which so many happy hours have been since spent by us
 
 together, you would degrade to the condition of a common entrance, and
 
-every body would be eager to pass through the room which has hitherto
+every [[Body|body]] would be eager to pass through the room which has hitherto
 
 contained within itself more real accommodation and comfort than any
 
@@ -4935,7 +4935,7 @@ be attempted.
 
 Extend it a little farther, and it will make me happy. Tell me that not
 
-only your house will remain the same, but that I shall ever find you
+only your [[house]] will remain the same, but that I shall ever find you
 
 and yours as unchanged as your dwelling; and that you will always
 
@@ -4959,7 +4959,7 @@ walk to the park, to call on Lady Middleton.”
 
 
 
-He engaged to be with them by four o’clock.
+He engaged to be with them by four o’[[Clock|clock]].
 
 
 
@@ -4983,9 +4983,9 @@ being of the party, under some trifling pretext of employment; and her
 
 mother, who concluded that a promise had been made by Willoughby the
 
-night before of calling on her while they were absent, was perfectly
+[[Night|night]] before of calling on her while they were absent, was perfectly
 
-satisfied with her remaining at home.
+satisfied with her remaining at [[Home|home]].
 
 
 
@@ -4995,7 +4995,7 @@ servant in waiting at the cottage, and Mrs. Dashwood was convinced that
 
 her conjecture had been just. So far it was all as she had foreseen;
 
-but on entering the house she beheld what no foresight had taught her
+but on entering the [[house]] she beheld what no foresight had taught her
 
 to expect. They were no sooner in the passage than Marianne came
 
@@ -5021,11 +5021,11 @@ entered—“is she ill?”
 
 
 
-“I hope not,” he replied, trying to look cheerful; and with a forced
+“I [[Hope|hope]] not,” he replied, trying to look cheerful; and with a forced
 
 smile presently added, “It is I who may rather expect to be ill—for I
 
-am now suffering under a very heavy disappointment!”
+am now [[Suffering|suffering]] under a very heavy disappointment!”
 
 
 
@@ -5033,11 +5033,11 @@ am now suffering under a very heavy disappointment!”
 
 
 
-“Yes, for I am unable to keep my engagement with you. Mrs. Smith has
+“Yes, for I am unable to keep my engagement with you. Mrs. [[smith|Smith]] has
 
 this morning exercised the privilege of riches upon a poor dependent
 
-cousin, by sending me on business to London. I have just received my
+cousin, by sending me on business to [[London]]. I have just received my
 
 dispatches, and taken my farewell of Allenham; and by way of
 
@@ -5045,7 +5045,7 @@ exhilaration I am now come to take my farewell of you.”
 
 
 
-“To London!—and are you going this morning?”
+“To [[London]]!—and are you going this morning?”
 
 
 
@@ -5053,21 +5053,21 @@ exhilaration I am now come to take my farewell of you.”
 
 
 
-“This is very unfortunate. But Mrs. Smith must be obliged;—and her
+“This is very unfortunate. But Mrs. [[smith|Smith]] must be obliged;—and her
 
-business will not detain you from us long I hope.”
+business will not detain you from us long I [[Hope|hope]].”
 
 
 
 He coloured as he replied, “You are very kind, but I have no idea of
 
-returning into Devonshire immediately. My visits to Mrs. Smith are
+returning into Devonshire immediately. My visits to Mrs. [[smith|Smith]] are
 
 never repeated within the twelvemonth.”
 
 
 
-“And is Mrs. Smith your only friend? Is Allenham the only house in the
+“And is Mrs. [[smith|Smith]] your only friend? Is Allenham the only [[house]] in the
 
 neighbourhood to which you will be welcome? For shame, Willoughby, can
 
@@ -5095,15 +5095,15 @@ will always be welcome; for I will not press you to return here
 
 immediately, because you only can judge how far _that_ might be
 
-pleasing to Mrs. Smith; and on this head I shall be no more disposed to
+pleasing to Mrs. [[smith|Smith]]; and on this head I shall be no more disposed to
 
-question your judgment than to doubt your inclination.”
+question your judgment than to [[Doubt|doubt]] your inclination.”
 
 
 
 “My engagements at present,” replied Willoughby, confusedly, “are of
 
-such a nature—that—I dare not flatter myself—”
+such a [[Nature|nature]]—that—I dare not flatter myself—”
 
 
 
@@ -5127,7 +5127,7 @@ step into his carriage, and in a minute it was out of sight.
 
 Mrs. Dashwood felt too much for speech, and instantly quitted the
 
-parlour to give way in solitude to the concern and alarm which this
+parlour to give way in [[Solitude|solitude]] to the concern and alarm which this
 
 sudden departure occasioned.
 
@@ -5141,7 +5141,7 @@ in taking leave of them, his embarrassment, and affectation of
 
 cheerfulness, and, above all, his unwillingness to accept her mother’s
 
-invitation, a backwardness so unlike a lover, so unlike himself,
+invitation, a backwardness so unlike a [[Lover|lover]], so unlike himself,
 
 greatly disturbed her. One moment she feared that no serious design had
 
@@ -5153,7 +5153,7 @@ which Marianne had quitted the room was such as a serious quarrel could
 
 most reasonably account for, though when she considered what Marianne’s
 
-love for him was, a quarrel seemed almost impossible.
+[[Love|love]] for him was, a quarrel seemed almost impossible.
 
 
 
@@ -5183,7 +5183,7 @@ as she sat down to work, “and with how heavy a heart does he travel?”
 
 “It is all very strange. So suddenly to be gone! It seems but the work
 
-of a moment. And last night he was with us so happy, so cheerful, so
+of a moment. And last [[Night|night]] he was with us so happy, so cheerful, so
 
 affectionate? And now, after only ten minutes notice—Gone too without
 
@@ -5191,7 +5191,7 @@ intending to return!—Something more than what he owned to us must have
 
 happened. He did not speak, he did not behave like himself. _You_ must
 
-have seen the difference as well as I. What can it be? Can they have
+have seen the difference as [[Well|well]] as I. What can it be? Can they have
 
 quarrelled? Why else should he have shown such unwillingness to accept
 
@@ -5205,7 +5205,7 @@ _that_. He had not the power of accepting it. I have thought it all
 
 over I assure you, and I can perfectly account for every thing that at
 
-first seemed strange to me as well as to you.”
+first seemed strange to me as [[Well|well]] as to you.”
 
 
 
@@ -5215,11 +5215,11 @@ first seemed strange to me as well as to you.”
 
 “Yes. I have explained it to myself in the most satisfactory way;—but
 
-you, Elinor, who love to doubt where you can—it will not satisfy _you_,
+you, Elinor, who [[Love|love]] to [[Doubt|doubt]] where you can—it will not satisfy _you_,
 
 I know; but you shall not talk _me_ out of my trust in it. I am
 
-persuaded that Mrs. Smith suspects his regard for Marianne, disapproves
+persuaded that Mrs. [[smith|Smith]] suspects his regard for Marianne, disapproves
 
 of it, (perhaps because she has other views for him,) and on that
 
@@ -5255,7 +5255,7 @@ Oh, Elinor, how incomprehensible are your feelings! You had rather take
 
 evil upon credit than good. You had rather look out for misery for
 
-Marianne, and guilt for poor Willoughby, than an apology for the
+Marianne, and [[Guilt|guilt]] for poor Willoughby, than an apology for the
 
 latter. You are resolved to think him blameable, because he took leave
 
@@ -5267,7 +5267,7 @@ recent disappointment? Are no probabilities to be accepted, merely
 
 because they are not certainties? Is nothing due to the man whom we
 
-have all such reason to love, and no reason in the world to think ill
+have all such reason to [[Love|love]], and no reason in the world to think ill
 
 of? To the possibility of motives unanswerable in themselves, though
 
@@ -5281,13 +5281,13 @@ him of?”
 
 inevitable consequence of such an alteration as we just witnessed in
 
-him. There is great truth, however, in what you have now urged of the
+him. There is great [[Truth|truth]], however, in what you have now urged of the
 
 allowances which ought to be made for him, and it is my wish to be
 
-candid in my judgment of every body. Willoughby may undoubtedly have
+candid in my judgment of every [[Body|body]]. Willoughby may undoubtedly have
 
-very sufficient reasons for his conduct, and I will hope that he has.
+very sufficient reasons for his conduct, and I will [[Hope|hope]] that he has.
 
 But it would have been more like Willoughby to acknowledge them at
 
@@ -5307,7 +5307,7 @@ have said in his defence?—I am happy—and he is acquitted.”
 
 “Not entirely. It may be proper to conceal their engagement (if they
 
-_are_ engaged) from Mrs. Smith—and if that is the case, it must be
+_are_ engaged) from Mrs. [[smith|Smith]]—and if that is the case, it must be
 
 highly expedient for Willoughby to be but little in Devonshire at
 
@@ -5315,7 +5315,7 @@ present. But this is no excuse for their concealing it from us.”
 
 
 
-“Concealing it from us! my dear child, do you accuse Willoughby and
+“Concealing it from us! my dear [[Child|child]], do you accuse Willoughby and
 
 Marianne of concealment? This is strange indeed, when your eyes have
 
@@ -5351,11 +5351,11 @@ Have we not perfectly understood each other? Has not my consent been
 
 daily asked by his looks, his manner, his attentive and affectionate
 
-respect? My Elinor, is it possible to doubt their engagement? How could
+respect? My Elinor, is it possible to [[Doubt|doubt]] their engagement? How could
 
 such a thought occur to you? How is it to be supposed that Willoughby,
 
-persuaded as he must be of your sister’s love, should leave her, and
+persuaded as he must be of your sister’s [[Love|love]], should leave her, and
 
 leave her perhaps for months, without telling her of his
 
@@ -5367,7 +5367,7 @@ confidence?”
 
 “I confess,” replied Elinor, “that every circumstance except _one_ is
 
-in favour of their engagement; but that _one_ is the total silence of
+in favour of their engagement; but that _one_ is the total [[Silence|silence]] of
 
 both on the subject, and with me it almost outweighs every other.”
 
@@ -5375,17 +5375,17 @@ both on the subject, and with me it almost outweighs every other.”
 
 “How strange this is! You must think wretchedly indeed of Willoughby,
 
-if, after all that has openly passed between them, you can doubt the
+if, after all that has openly passed between them, you can [[Doubt|doubt]] the
 
-nature of the terms on which they are together. Has he been acting a
+[[Nature|nature]] of the terms on which they are together. Has he been acting a
 
-part in his behaviour to your sister all this time? Do you suppose him
+part in his behaviour to your sister all this [[Time|time]]? Do you suppose him
 
 really indifferent to her?”
 
 
 
-“No, I cannot think that. He must and does love her I am sure.”
+“No, I cannot think that. He must and does [[Love|love]] her I am sure.”
 
 
 
@@ -5403,7 +5403,7 @@ matter as certain. I have had my doubts, I confess; but they are
 
 fainter than they were, and they may soon be entirely done away. If we
 
-find they correspond, every fear of mine will be removed.”
+find they correspond, every [[Fear|fear]] of mine will be removed.”
 
 
 
@@ -5413,21 +5413,21 @@ would suppose they were going to be married. Ungracious girl! But _I_
 
 require no such proof. Nothing in my opinion has ever passed to justify
 
-doubt; no secrecy has been attempted; all has been uniformly open and
+[[Doubt|doubt]]; no secrecy has been attempted; all has been uniformly open and
 
-unreserved. You cannot doubt your sister’s wishes. It must be
+unreserved. You cannot [[Doubt|doubt]] your sister’s wishes. It must be
 
 Willoughby therefore whom you suspect. But why? Is he not a man of
 
-honour and feeling? Has there been any inconsistency on his side to
+[[Honour|honour]] and feeling? Has there been any inconsistency on his side to
 
 create alarm? can he be deceitful?”
 
 
 
-“I hope not, I believe not,” cried Elinor. “I love Willoughby,
+“I [[Hope|hope]] not, I believe not,” cried Elinor. “I [[Love|love]] Willoughby,
 
-sincerely love him; and suspicion of his integrity cannot be more
+sincerely [[Love|love]] him; and suspicion of his integrity cannot be more
 
 painful to yourself than to me. It has been involuntary, and I will not
 
@@ -5441,19 +5441,19 @@ such a situation of his affairs as you have supposed. He had just
 
 parted from my sister, had seen her leave him in the greatest
 
-affliction; and if he felt obliged, from a fear of offending Mrs.
+affliction; and if he felt obliged, from a [[Fear|fear]] of offending Mrs.
 
-Smith, to resist the temptation of returning here soon, and yet aware
+[[smith|Smith]], to resist the [[Temptation|temptation]] of returning here soon, and yet aware
 
 that by declining your invitation, by saying that he was going away for
 
-some time, he should seem to act an ungenerous, a suspicious part by
+some [[Time|time]], he should seem to act an ungenerous, a suspicious part by
 
-our family, he might well be embarrassed and disturbed. In such a case,
+our family, he might [[Well|well]] be embarrassed and disturbed. In such a case,
 
 a plain and open avowal of his difficulties would have been more to his
 
-honour I think, as well as more consistent with his general
+[[Honour|honour]] I think, as [[Well|well]] as more consistent with his general
 
 character;—but I will not raise objections against any one’s conduct on
 
@@ -5475,7 +5475,7 @@ it might have been odd that he should leave us without acknowledging
 
 everything to me at once: but this is not the case. It is an engagement
 
-in some respects not prosperously begun, for their marriage must be at
+in some respects not prosperously begun, for their [[Marriage|marriage]] must be at
 
 a very uncertain distance; and even secrecy, as far as it can be
 
@@ -5487,29 +5487,29 @@ They were interrupted by the entrance of Margaret; and Elinor was then
 
 at liberty to think over the representations of her mother, to
 
-acknowledge the probability of many, and hope for the justice of all.
+acknowledge the probability of many, and [[Hope|hope]] for the justice of all.
 
 
 
-They saw nothing of Marianne till dinner time, when she entered the
+They saw nothing of Marianne till dinner [[Time|time]], when she entered the
 
 room and took her place at the table without saying a word. Her eyes
 
-were red and swollen; and it seemed as if her tears were even then
+were red and swollen; and it seemed as if her [[Tears|tears]] were even then
 
 restrained with difficulty. She avoided the looks of them all, could
 
-neither eat nor speak, and after some time, on her mother’s silently
+neither eat nor speak, and after some [[Time|time]], on her mother’s silently
 
 pressing her hand with tender compassion, her small degree of fortitude
 
-was quite overcome, she burst into tears and left the room.
+was quite overcome, she burst into [[Tears|tears]] and left the room.
 
 
 
 This violent oppression of spirits continued the whole evening. She was
 
-without any power, because she was without any desire of command over
+without any power, because she was without any [[Desire|desire]] of command over
 
 herself. The slightest mention of anything relative to Willoughby
 
@@ -5537,7 +5537,7 @@ CHAPTER XVI.
 
 Marianne would have thought herself very inexcusable had she been able
 
-to sleep at all the first night after parting from Willoughby. She
+to [[Sleep|sleep]] at all the first [[Night|night]] after parting from Willoughby. She
 
 would have been ashamed to look her family in the face the next
 
@@ -5547,11 +5547,11 @@ when she lay down in it. But the feelings which made such composure a
 
 disgrace, left her in no danger of incurring it. She was awake the
 
-whole night, and she wept the greatest part of it. She got up with a
+whole [[Night|night]], and she wept the greatest part of it. She got up with a
 
 headache, was unable to talk, and unwilling to take any nourishment;
 
-giving pain every moment to her mother and sisters, and forbidding all
+giving [[Pain|pain]] every moment to her mother and sisters, and forbidding all
 
 attempt at consolation from either. Her sensibility was potent enough!
 
@@ -5567,7 +5567,7 @@ and crying over the present reverse for the chief of the morning.
 
 The evening passed off in the equal indulgence of feeling. She played
 
-over every favourite song that she had been used to play to Willoughby,
+over every favourite [[Song|song]] that she had been used to play to Willoughby,
 
 every air in which their voices had been oftenest joined, and sat at
 
@@ -5579,7 +5579,7 @@ gained; and this nourishment of grief was every day applied. She spent
 
 whole hours at the pianoforte alternately singing and crying; her voice
 
-often totally suspended by her tears. In books too, as well as in
+often totally suspended by her [[Tears|tears]]. In books too, as [[Well|well]] as in
 
 music, she courted the misery which a contrast between the past and
 
@@ -5591,7 +5591,7 @@ used to read together.
 
 Such violence of affliction indeed could not be supported for ever; it
 
-sunk within a few days into a calmer melancholy; but these employments,
+sunk within a few days into a calmer [[Melancholy|melancholy]]; but these employments,
 
 to which she daily recurred, her solitary walks and silent meditations,
 
@@ -5621,9 +5621,9 @@ Sir John’s hands.”
 
 
 
-Elinor could not deny the truth of this, and she tried to find in it a
+Elinor could not deny the [[Truth|truth]] of this, and she tried to find in it a
 
-motive sufficient for their silence. But there was one method so
+motive sufficient for their [[Silence|silence]]. But there was one method so
 
 direct, so simple, and in her opinion so eligible of knowing the real
 
@@ -5661,7 +5661,7 @@ be the last to whom the affair is made known, when circumstances make
 
 the revealment of it eligible. I would not attempt to force the
 
-confidence of any one; of a child much less; because a sense of duty
+confidence of any one; of a [[Child|child]] much less; because a sense of duty
 
 would prevent the denial which her wishes might direct.”
 
@@ -5681,7 +5681,7 @@ It was several days before Willoughby’s name was mentioned before
 
 Marianne by any of her family; Sir John and Mrs. Jennings, indeed, were
 
-not so nice; their witticisms added pain to many a painful hour;—but
+not so nice; their witticisms added [[Pain|pain]] to many a painful hour;—but
 
 one evening, Mrs. Dashwood, accidentally taking up a volume of
 
@@ -5689,7 +5689,7 @@ Shakespeare, exclaimed,
 
 
 
-“We have never finished Hamlet, Marianne; our dear Willoughby went away
+“We have never finished [[Hamlet]], Marianne; our dear Willoughby went away
 
 before we could get through it. We will put it by, that when he comes
 
@@ -5725,7 +5725,7 @@ found when the others set off. But at length she was secured by the
 
 exertions of Elinor, who greatly disapproved such continual seclusion.
 
-They walked along the road through the valley, and chiefly in silence,
+They walked along the [[Road|road]] through the valley, and chiefly in [[Silence|silence]],
 
 for Marianne’s _mind_ could not be controlled, and Elinor, satisfied
 
@@ -5733,7 +5733,7 @@ with gaining one point, would not then attempt more. Beyond the
 
 entrance of the valley, where the country, though still rich, was less
 
-wild and more open, a long stretch of the road which they had travelled
+wild and more open, a long stretch of the [[Road|road]] which they had travelled
 
 on first coming to Barton, lay before them; and on reaching that point,
 
@@ -5769,7 +5769,7 @@ person is not tall enough for him, and has not his air.”
 
 “He has, he has,” cried Marianne, “I am sure he has. His air, his coat,
 
-his horse. I knew how soon he would come.”
+his [[Horse|horse]]. I knew how soon he would come.”
 
 
 
@@ -5783,11 +5783,11 @@ yards of the gentleman. Marianne looked again; her heart sunk within
 
 her; and abruptly turning round, she was hurrying back, when the voices
 
-of both her sisters were raised to detain her; a third, almost as well
+of both her sisters were raised to detain her; a third, almost as [[Well|well]]
 
 known as Willoughby’s, joined them in begging her to stop, and she
 
-turned round with surprise to see and welcome Edward Ferrars.
+turned round with surprise to see and welcome [[Edward Ferrars]].
 
 
 
@@ -5795,13 +5795,13 @@ He was the only person in the world who could at that moment be
 
 forgiven for not being Willoughby; the only one who could have gained a
 
-smile from her; but she dispersed her tears to smile on _him_, and in
+smile from her; but she dispersed her [[Tears|tears]] to smile on _him_, and in
 
-her sister’s happiness forgot for a time her own disappointment.
+her sister’s happiness forgot for a [[Time|time]] her own disappointment.
 
 
 
-He dismounted, and giving his horse to his servant, walked back with
+He dismounted, and giving his [[Horse|horse]] to his servant, walked back with
 
 them to Barton, whither he was purposely coming to visit them.
 
@@ -5819,7 +5819,7 @@ which she had often observed at Norland in their mutual behaviour. On
 
 Edward’s side, more particularly, there was a deficiency of all that a
 
-lover ought to look and say on such an occasion. He was confused,
+[[Lover|lover]] ought to look and say on such an occasion. He was confused,
 
 seemed scarcely sensible of pleasure in seeing them, looked neither
 
@@ -5837,9 +5837,9 @@ contrast sufficiently striking to those of his brother elect.
 
 
 
-After a short silence which succeeded the first surprise and enquiries
+After a short [[Silence|silence]] which succeeded the first surprise and enquiries
 
-of meeting, Marianne asked Edward if he came directly from London. No,
+of meeting, Marianne asked Edward if he came directly from [[London]]. No,
 
 he had been in Devonshire a fortnight.
 
@@ -5871,9 +5871,9 @@ some friends near Plymouth.
 
 “Dear, dear Norland,” said Elinor, “probably looks much as it always
 
-does at this time of the year. The woods and walks thickly covered with
+does at this [[Time|time]] of the year. The woods and walks thickly covered with
 
-dead leaves.”
+dead [[Leaves|leaves]].”
 
 
 
@@ -5881,7 +5881,7 @@ dead leaves.”
 
 seen them fall! How have I delighted, as I walked, to see them driven
 
-in showers about me by the wind! What feelings have they, the season,
+in showers about me by the [[Wind|wind]]! What feelings have they, the season,
 
 the air altogether inspired! Now there is no one to regard them. They
 
@@ -5893,7 +5893,7 @@ possible from the sight.”
 
 “It is not every one,” said Elinor, “who has your passion for dead
 
-leaves.”
+[[Leaves|leaves]].”
 
 
 
@@ -5909,15 +5909,15 @@ to it, and be tranquil if you can. Look at those hills! Did you ever
 
 see their equals? To the left is Barton park, amongst those woods and
 
-plantations. You may see the end of the house. And there, beneath that
+plantations. You may see the end of the [[house]]. And there, beneath that
 
-farthest hill, which rises with such grandeur, is our cottage.”
+farthest [[Hill|hill]], which rises with such grandeur, is our cottage.”
 
 
 
 “It is a beautiful country,” he replied; “but these bottoms must be
 
-dirty in winter.”
+dirty in [[Winter|winter]].”
 
 
 
@@ -5995,15 +5995,15 @@ Mrs. Dashwood was surprised only for a moment at seeing him; for his
 
 coming to Barton was, in her opinion, of all things the most natural.
 
-Her joy and expression of regard long outlived her wonder. He received
+Her joy and expression of regard long outlived her [[Wonder|wonder]]. He received
 
 the kindest welcome from her; and shyness, coldness, reserve could not
 
 stand against such a reception. They had begun to fail him before he
 
-entered the house, and they were quite overcome by the captivating
+entered the [[house]], and they were quite overcome by the captivating
 
-manners of Mrs. Dashwood. Indeed a man could not very well be in love
+manners of Mrs. Dashwood. Indeed a man could not very [[Well|well]] be in [[Love|love]]
 
 with either of her daughters, without extending the passion to her; and
 
@@ -6013,7 +6013,7 @@ himself. His affections seemed to reanimate towards them all, and his
 
 interest in their welfare again became perceptible. He was not in
 
-spirits, however; he praised their house, admired its prospect, was
+spirits, however; he praised their [[house]], admired its prospect, was
 
 attentive, and kind; but still he was not in spirits. The whole family
 
@@ -6027,13 +6027,13 @@ selfish parents.
 
 “What are Mrs. Ferrars’s views for you at present, Edward?” said she,
 
-when dinner was over and they had drawn round the fire; “are you still
+when dinner was over and they had drawn round the [[Fire|fire]]; “are you still
 
 to be a great orator in spite of yourself?”
 
 
 
-“No. I hope my mother is now convinced that I have no more talents than
+“No. I [[Hope|hope]] my mother is now convinced that I have no more talents than
 
 inclination for a public life!”
 
@@ -6051,21 +6051,21 @@ it a difficult matter.”
 
 “I shall not attempt it. I have no wish to be distinguished; and have
 
-every reason to hope I never shall. Thank Heaven! I cannot be forced
+every reason to [[Hope|hope]] I never shall. Thank Heaven! I cannot be forced
 
 into genius and eloquence.”
 
 
 
-“You have no ambition, I well know. Your wishes are all moderate.”
+“You have no [[Ambition|ambition]], I [[Well|well]] know. Your wishes are all moderate.”
 
 
 
 “As moderate as those of the rest of the world, I believe. I wish as
 
-well as every body else to be perfectly happy; but, like every body
+[[Well|well]] as every [[Body|body]] else to be perfectly happy; but, like every [[Body|body]]
 
-else it must be in my own way. Greatness will not make me so.”
+else it must be in my own way. [[Greatness]] will not make me so.”
 
 
 
@@ -6085,7 +6085,7 @@ it.”
 
 where there is nothing else to give it. Beyond a competence, it can
 
-afford no real satisfaction, as far as mere self is concerned.”
+afford no real satisfaction, as far as mere [[Self|self]] is concerned.”
 
 
 
@@ -6113,7 +6113,7 @@ how it would end.”
 
 “And yet two thousand a-year is a very moderate income,” said Marianne.
 
-“A family cannot well be maintained on a smaller. I am sure I am not
+“A family cannot [[Well|well]] be maintained on a smaller. I am sure I am not
 
 extravagant in my demands. A proper establishment of servants, a
 
@@ -6127,7 +6127,7 @@ future expenses at Combe Magna.
 
 
 
-“Hunters!” repeated Edward—“but why must you have hunters? Every body
+“Hunters!” repeated Edward—“but why must you have hunters? Every [[Body|body]]
 
 does not hunt.”
 
@@ -6137,7 +6137,7 @@ Marianne coloured as she replied, “But most people do.”
 
 
 
-“I wish,” said Margaret, striking out a novel thought, “that somebody
+“I wish,” said Margaret, striking out a [[Novel|novel]] thought, “that somebody
 
 would give us all a large fortune apiece!”
 
@@ -6157,13 +6157,13 @@ of the insufficiency of wealth.”
 
 
 
-“Oh dear!” cried Margaret, “how happy I should be! I wonder what I
+“Oh dear!” cried Margaret, “how happy I should be! I [[Wonder|wonder]] what I
 
 should do with it!”
 
 
 
-Marianne looked as if she had no doubt on that point.
+Marianne looked as if she had no [[Doubt|doubt]] on that point.
 
 
 
@@ -6173,13 +6173,13 @@ Dashwood, “if my children were all to be rich without my help.”
 
 
 
-“You must begin your improvements on this house,” observed Elinor, “and
+“You must begin your improvements on this [[house]],” observed Elinor, “and
 
 your difficulties will soon vanish.”
 
 
 
-“What magnificent orders would travel from this family to London,” said
+“What magnificent orders would travel from this family to [[London]],” said
 
 Edward, “in such an event! What a happy day for booksellers,
 
@@ -6187,9 +6187,9 @@ music-sellers, and print-shops! You, Miss Dashwood, would give a
 
 general commission for every new print of merit to be sent you—and as
 
-for Marianne, I know her greatness of soul, there would not be music
+for Marianne, I know her [[Greatness|greatness]] of [[Soul|soul]], there would not be music
 
-enough in London to content her. And books!—Thomson, Cowper, Scott—she
+enough in [[London]] to content her. And books!—Thomson, Cowper, Scott—she
 
 would buy them all over and over again: she would buy up every copy, I
 
@@ -6203,9 +6203,9 @@ willing to show you that I had not forgot our old disputes.”
 
 
 
-“I love to be reminded of the past, Edward—whether it be melancholy or
+“I [[Love|love]] to be reminded of the past, Edward—whether it be [[Melancholy|melancholy]] or
 
-gay, I love to recall it—and you will never offend me by talking of
+gay, I [[Love|love]] to recall it—and you will never offend me by talking of
 
 former times. You are very right in supposing how my money would be
 
@@ -6229,13 +6229,13 @@ authors or their heirs.”
 
 wrote the ablest defence of your favourite maxim, that no one can ever
 
-be in love more than once in their life—your opinion on that point is
+be in [[Love|love]] more than once in their life—your opinion on that point is
 
 unchanged, I presume?”
 
 
 
-“Undoubtedly. At my time of life opinions are tolerably fixed. It is
+“Undoubtedly. At my [[Time|time]] of life opinions are tolerably fixed. It is
 
 not likely that I should now see or hear any thing to change them.”
 
@@ -6247,7 +6247,7 @@ at all altered.”
 
 
 
-“She is only grown a little more grave than she was.”
+“She is only grown a little more [[Grave|grave]] than she was.”
 
 
 
@@ -6283,15 +6283,15 @@ down as a lively girl.”
 
 Elinor, “in a total misapprehension of character in some point or
 
-other: fancying people so much more gay or grave, or ingenious or
+other: fancying people so much more gay or [[Grave|grave]], or ingenious or
 
 stupid than they really are, and I can hardly tell why or in what the
 
-deception originated. Sometimes one is guided by what they say of
+[[Deception|deception]] originated. Sometimes one is guided by what they say of
 
 themselves, and very frequently by what other people say of them,
 
-without giving oneself time to deliberate and judge.”
+without giving oneself [[Time|time]] to deliberate and judge.”
 
 
 
@@ -6337,7 +6337,7 @@ offend, but I am so foolishly shy, that I often seem negligent, when I
 
 am only kept back by my natural awkwardness. I have frequently thought
 
-that I must have been intended by nature to be fond of low company, I
+that I must have been intended by [[Nature|nature]] to be fond of low company, I
 
 am so little at my ease among strangers of gentility!”
 
@@ -6349,7 +6349,7 @@ Elinor.
 
 
 
-“She knows her own worth too well for false shame,” replied Edward.
+“She knows her own worth too [[Well|well]] for false shame,” replied Edward.
 
 “Shyness is only the effect of a sense of inferiority in some way or
 
@@ -6379,7 +6379,7 @@ what manner? What am I to tell you? What can you suppose?”
 
 Elinor looked surprised at his emotion; but trying to laugh off the
 
-subject, she said to him, “Do not you know my sister well enough to
+subject, she said to him, “Do not you know my sister [[Well|well]] enough to
 
 understand what she means? Do not you know she calls every one reserved
 
@@ -6391,7 +6391,7 @@ as herself?”
 
 Edward made no answer. His gravity and thoughtfulness returned on him
 
-in their fullest extent—and he sat for some time silent and dull.
+in their fullest extent—and he sat for some [[Time|time]] silent and dull.
 
 
 
@@ -6415,7 +6415,7 @@ enjoyment in it appeared so imperfect. It was evident that he was
 
 unhappy; she wished it were equally evident that he still distinguished
 
-her by the same affection which once she had felt no doubt of
+her by the same affection which once she had felt no [[Doubt|doubt]] of
 
 inspiring; but hitherto the continuance of his preference seemed very
 
@@ -6483,7 +6483,7 @@ and the valley looks comfortable and snug—with rich meadows and several
 
 neat farm houses scattered here and there. It exactly answers my idea
 
-of a fine country, because it unites beauty with utility—and I dare say
+of a fine country, because it unites [[Beauty|beauty]] with utility—and I dare say
 
 it is a picturesque one too, because you admire it; I can easily
 
@@ -6503,7 +6503,7 @@ boast of it?”
 
 Edward here falls into another. Because he believes many people pretend
 
-to more admiration of the beauties of nature than they really feel, and
+to more admiration of the beauties of [[Nature|nature]] than they really feel, and
 
 is disgusted with such pretensions, he affects greater indifference and
 
@@ -6515,11 +6515,11 @@ fastidious and will have an affectation of his own.”
 
 “It is very true,” said Marianne, “that admiration of landscape scenery
 
-is become a mere jargon. Every body pretends to feel and tries to
+is become a mere jargon. Every [[Body|body]] pretends to feel and tries to
 
 describe with the taste and elegance of him who first defined what
 
-picturesque beauty was. I detest jargon of every kind, and sometimes I
+picturesque [[Beauty|beauty]] was. I detest jargon of every kind, and sometimes I
 
 have kept my feelings to myself, because I could find no language to
 
@@ -6543,7 +6543,7 @@ flourishing. I do not like ruined, tattered cottages. I am not fond of
 
 nettles or thistles, or heath blossoms. I have more pleasure in a snug
 
-farm-house than a watch-tower—and a troop of tidy, happy villagers
+farm-[[house]] than a watch-tower—and a troop of tidy, happy villagers
 
 please me better than the finest banditti in the world.”
 
@@ -6589,7 +6589,7 @@ setting always casts a different shade on it, you know.”
 
 Elinor had met his eye, and looked conscious likewise. That the hair
 
-was her own, she instantaneously felt as well satisfied as Marianne;
+was her own, she instantaneously felt as [[Well|well]] satisfied as Marianne;
 
 the only difference in their conclusions was, that what Marianne
 
@@ -6597,25 +6597,25 @@ considered as a free gift from her sister, Elinor was conscious must
 
 have been procured by some theft or contrivance unknown to herself. She
 
-was not in a humour, however, to regard it as an affront, and affecting
+was not in a [[Humour|humour]], however, to regard it as an affront, and affecting
 
 to take no notice of what passed, by instantly talking of something
 
 else, she internally resolved henceforward to catch every opportunity
 
-of eyeing the hair and of satisfying herself, beyond all doubt, that it
+of eyeing the hair and of satisfying herself, beyond all [[Doubt|doubt]], that it
 
 was exactly the shade of her own.
 
 
 
-Edward’s embarrassment lasted some time, and it ended in an absence of
+Edward’s embarrassment lasted some [[Time|time]], and it ended in an absence of
 
-mind still more settled. He was particularly grave the whole morning.
+mind still more settled. He was particularly [[Grave|grave]] the whole morning.
 
 Marianne severely censured herself for what she had said; but her own
 
-forgiveness might have been more speedy, had she known how little
+[[Forgiveness|forgiveness]] might have been more speedy, had she known how little
 
 offence it had given her sister.
 
@@ -6655,9 +6655,9 @@ to engage them for both.
 
 
 
-“You _must_ drink tea with us to night,” said he, “for we shall be
+“You _must_ drink tea with us to [[Night|night]],” said he, “for we shall be
 
-quite alone—and tomorrow you must absolutely dine with us, for we shall
+quite [[Alone|alone]]—and tomorrow you must absolutely dine with us, for we shall
 
 be a large party.”
 
@@ -6665,23 +6665,23 @@ be a large party.”
 
 Mrs. Jennings enforced the necessity. “And who knows but you may raise
 
-a dance,” said she. “And that will tempt _you_, Miss Marianne.”
+a [[Dance|dance]],” said she. “And that will tempt _you_, Miss Marianne.”
 
 
 
-“A dance!” cried Marianne. “Impossible! Who is to dance?”
+“A [[Dance|dance]]!” cried Marianne. “Impossible! Who is to [[Dance|dance]]?”
 
 
 
 “Who! why yourselves, and the Careys, and Whitakers to be sure.—What!
 
-you thought nobody could dance because a certain person that shall be
+you thought nobody could [[Dance|dance]] because a certain person that shall be
 
 nameless is gone!”
 
 
 
-“I wish with all my soul,” cried Sir John, “that Willoughby were among
+“I wish with all my [[Soul|soul]],” cried Sir John, “that Willoughby were among
 
 us again.”
 
@@ -6719,23 +6719,23 @@ said, in a whisper, “I have been guessing. Shall I tell you my guess?”
 
 
 
-“Well then; I guess that Mr. Willoughby hunts.”
+“[[Well]] then; I guess that Mr. Willoughby hunts.”
 
 
 
 Marianne was surprised and confused, yet she could not help smiling at
 
-the quiet archness of his manner, and after a moment’s silence, said,
+the quiet archness of his manner, and after a moment’s [[Silence|silence]], said,
 
 
 
-“Oh, Edward! How can you?—But the time will come I hope...I am sure you
+“Oh, Edward! How can you?—But the [[Time|time]] will come I [[Hope|hope]]...I am sure you
 
 will like him.”
 
 
 
-“I do not doubt it,” replied he, rather astonished at her earnestness
+“I do not [[Doubt|doubt]] it,” replied he, rather astonished at her earnestness
 
 and warmth; for had he not imagined it to be a joke for the good of her
 
@@ -6763,15 +6763,15 @@ Edward remained a week at the cottage; he was earnestly pressed by Mrs.
 
 Dashwood to stay longer; but, as if he were bent only on
 
-self-mortification, he seemed resolved to be gone when his enjoyment
+[[Self|self]]-mortification, he seemed resolved to be gone when his enjoyment
 
 among his friends was at the height. His spirits, during the last two
 
 or three days, though still very unequal, were greatly improved—he grew
 
-more and more partial to the house and environs—never spoke of going
+more and more partial to the [[house]] and environs—never spoke of going
 
-away without a sigh—declared his time to be wholly disengaged—even
+away without a sigh—declared his [[Time|time]] to be wholly disengaged—even
 
 doubted to what place he should go when he left them—but still, go he
 
@@ -6783,13 +6783,13 @@ marked the turn of his feelings and gave the lie to his actions. He had
 
 no pleasure at Norland; he detested being in town; but either to
 
-Norland or London, he must go. He valued their kindness beyond any
+Norland or [[London]], he must go. He valued their kindness beyond any
 
 thing, and his greatest happiness was in being with them. Yet, he must
 
 leave them at the end of a week, in spite of their wishes and his own,
 
-and without any restraint on his time.
+and without any restraint on his [[Time|time]].
 
 
 
@@ -6803,7 +6803,7 @@ for every thing strange on the part of her son. Disappointed, however,
 
 and vexed as she was, and sometimes displeased with his uncertain
 
-behaviour to herself, she was very well disposed on the whole to regard
+behaviour to herself, she was very [[Well|well]] disposed on the whole to regard
 
 his actions with all the candid allowances and generous qualifications,
 
@@ -6821,7 +6821,7 @@ in leaving them, originated in the same fettered inclination, the same
 
 inevitable necessity of temporizing with his mother. The old
 
-well-established grievance of duty against will, parent against child,
+[[Well|well]]-established grievance of duty against will, parent against [[Child|child]],
 
 was the cause of all. She would have been glad to know when these
 
@@ -6845,11 +6845,11 @@ his finger.
 
 last morning, “you would be a happier man if you had any profession to
 
-engage your time and give an interest to your plans and actions. Some
+engage your [[Time|time]] and give an interest to your plans and actions. Some
 
 inconvenience to your friends, indeed, might result from it—you would
 
-not be able to give them so much of your time. But (with a smile) you
+not be able to give them so much of your [[Time|time]]. But (with a smile) you
 
 would be materially benefited in one particular at least—you would know
 
@@ -6897,7 +6897,7 @@ young man of eighteen is not in general so earnestly bent on being busy
 
 as to resist the solicitations of his friends to do nothing. I was
 
-therefore entered at Oxford and have been properly idle ever since.”
+therefore entered at [[Oxford]] and have been properly idle ever since.”
 
 
 
@@ -6921,17 +6921,17 @@ every thing.”
 
 “Come, come; this is all an effusion of immediate want of spirits,
 
-Edward. You are in a melancholy humour, and fancy that any one unlike
+Edward. You are in a [[Melancholy|melancholy]] [[Humour|humour]], and fancy that any one unlike
 
-yourself must be happy. But remember that the pain of parting from
+yourself must be happy. But remember that the [[Pain|pain]] of parting from
 
-friends will be felt by every body at times, whatever be their
+friends will be felt by every [[Body|body]] at times, whatever be their
 
-education or state. Know your own happiness. You want nothing but
+[[Education|education]] or state. Know your own happiness. You want nothing but
 
-patience—or give it a more fascinating name, call it hope. Your mother
+patience—or give it a more fascinating name, call it [[Hope|hope]]. Your mother
 
-will secure to you, in time, that independence you are so anxious for;
+will secure to you, in [[Time|time]], that independence you are so anxious for;
 
 it is her duty, and it will, it must ere long become her happiness to
 
@@ -6949,11 +6949,11 @@ good to me.”
 
 This desponding turn of mind, though it could not be communicated to
 
-Mrs. Dashwood, gave additional pain to them all in the parting, which
+Mrs. Dashwood, gave additional [[Pain|pain]] to them all in the parting, which
 
 shortly took place, and left an uncomfortable impression on Elinor’s
 
-feelings especially, which required some trouble and time to subdue.
+feelings especially, which required some trouble and [[Time|time]] to subdue.
 
 But as it was her determination to subdue it, and to prevent herself
 
@@ -6963,7 +6963,7 @@ going away, she did not adopt the method so judiciously employed by
 
 Marianne, on a similar occasion, to augment and fix her sorrow, by
 
-seeking silence, solitude and idleness. Their means were as different
+seeking [[Silence|silence]], [[Solitude|solitude]] and idleness. Their means were as different
 
 as their objects, and equally suited to the advancement of each.
 
@@ -6971,7 +6971,7 @@ as their objects, and equally suited to the advancement of each.
 
 Elinor sat down to her drawing-table as soon as he was out of the
 
-house, busily employed herself the whole day, neither sought nor
+[[house]], busily employed herself the whole day, neither sought nor
 
 avoided the mention of his name, appeared to interest herself almost as
 
@@ -6989,7 +6989,7 @@ Such behaviour as this, so exactly the reverse of her own, appeared no
 
 more meritorious to Marianne, than her own had seemed faulty to her.
 
-The business of self-command she settled very easily;—with strong
+The business of [[Self|self]]-command she settled very easily;—with strong
 
 affections it was impossible, with calm ones it could have no merit.
 
@@ -7003,9 +7003,9 @@ spite of this mortifying conviction.
 
 
 
-Without shutting herself up from her family, or leaving the house in
+Without shutting herself up from her family, or leaving the [[house]] in
 
-determined solitude to avoid them, or lying awake the whole night to
+determined [[Solitude|solitude]] to avoid them, or lying awake the whole [[Night|night]] to
 
 indulge meditation, Elinor found every day afforded her leisure enough
 
@@ -7013,13 +7013,13 @@ to think of Edward, and of Edward’s behaviour, in every possible
 
 variety which the different state of her spirits at different times
 
-could produce,—with tenderness, pity, approbation, censure, and doubt.
+could produce,—with tenderness, pity, approbation, censure, and [[Doubt|doubt]].
 
 There were moments in abundance, when, if not by the absence of her
 
-mother and sisters, at least by the nature of their employments,
+mother and sisters, at least by the [[Nature|nature]] of their employments,
 
-conversation was forbidden among them, and every effect of solitude was
+conversation was forbidden among them, and every effect of [[Solitude|solitude]] was
 
 produced. Her mind was inevitably at liberty; her thoughts could not be
 
@@ -7027,7 +7027,7 @@ chained elsewhere; and the past and the future, on a subject so
 
 interesting, must be before her, must force her attention, and engross
 
-her memory, her reflection, and her fancy.
+her [[Memory|memory]], her reflection, and her fancy.
 
 
 
@@ -7035,17 +7035,17 @@ From a reverie of this kind, as she sat at her drawing-table, she was
 
 roused one morning, soon after Edward’s leaving them, by the arrival of
 
-company. She happened to be quite alone. The closing of the little
+company. She happened to be quite [[Alone|alone]]. The closing of the little
 
-gate, at the entrance of the green court in front of the house, drew
+gate, at the entrance of the green [[Court|court]] in front of the [[house]], drew
 
-her eyes to the window, and she saw a large party walking up to the
+her eyes to the [[Window|window]], and she saw a large party walking up to the
 
 door. Amongst them were Sir John and Lady Middleton and Mrs. Jennings,
 
 but there were two others, a gentleman and lady, who were quite unknown
 
-to her. She was sitting near the window, and as soon as Sir John
+to her. She was sitting near the [[Window|window]], and as soon as Sir John
 
 perceived her, he left the rest of the party to the ceremony of
 
@@ -7053,13 +7053,13 @@ knocking at the door, and stepping across the turf, obliged her to open
 
 the casement to speak to him, though the space was so short between the
 
-door and the window, as to make it hardly possible to speak at one
+door and the [[Window|window]], as to make it hardly possible to speak at one
 
 without being heard at the other.
 
 
 
-“Well,” said he, “we have brought you some strangers. How do you like
+“[[Well]],” said he, “we have brought you some strangers. How do you like
 
 them?”
 
@@ -7095,19 +7095,19 @@ They were now joined by Mrs. Jennings, who had not patience enough to
 
 wait till the door was opened before she told _her_ story. She came
 
-hallooing to the window, “How do you do, my dear? How does Mrs.
+hallooing to the [[Window|window]], “How do you do, my dear? How does Mrs.
 
-Dashwood do? And where are your sisters? What! all alone! you will be
+Dashwood do? And where are your sisters? What! all [[Alone|alone]]! you will be
 
 glad of a little company to sit with you. I have brought my other son
 
 and daughter to see you. Only think of their coming so suddenly! I
 
-thought I heard a carriage last night, while we were drinking our tea,
+thought I heard a carriage last [[Night|night]], while we were drinking our tea,
 
 but it never entered my head that it could be them. I thought of
 
-nothing but whether it might not be Colonel Brandon come back again; so
+nothing but whether it might not be [[Colonel Brandon]] come back again; so
 
 I said to Sir John, I do think I hear a carriage; perhaps it is Colonel
 
@@ -7121,7 +7121,7 @@ receive the rest of the party; Lady Middleton introduced the two
 
 strangers; Mrs. Dashwood and Margaret came down stairs at the same
 
-time, and they all sat down to look at one another, while Mrs. Jennings
+[[Time|time]], and they all sat down to look at one another, while Mrs. Jennings
 
 continued her story as she walked through the passage into the parlour,
 
@@ -7133,21 +7133,21 @@ Mrs. Palmer was several years younger than Lady Middleton, and totally
 
 unlike her in every respect. She was short and plump, had a very pretty
 
-face, and the finest expression of good humour in it that could
+face, and the finest expression of good [[Humour|humour]] in it that could
 
 possibly be. Her manners were by no means so elegant as her sister’s,
 
 but they were much more prepossessing. She came in with a smile, smiled
 
-all the time of her visit, except when she laughed, and smiled when she
+all the [[Time|time]] of her visit, except when she laughed, and smiled when she
 
-went away. Her husband was a grave looking young man of five or six and
+went away. Her husband was a [[Grave|grave]] looking young man of five or six and
 
 twenty, with an air of more fashion and sense than his wife, but of
 
 less willingness to please or be pleased. He entered the room with a
 
-look of self-consequence, slightly bowed to the ladies, without
+look of [[Self|self]]-consequence, slightly bowed to the ladies, without
 
 speaking a word, and, after briefly surveying them and their
 
@@ -7157,7 +7157,7 @@ it as long as he staid.
 
 
 
-Mrs. Palmer, on the contrary, who was strongly endowed by nature with a
+Mrs. Palmer, on the contrary, who was strongly endowed by [[Nature|nature]] with a
 
 turn for being uniformly civil and happy, was hardly seated before her
 
@@ -7165,7 +7165,7 @@ admiration of the parlour and every thing in it burst forth.
 
 
 
-“Well! what a delightful room this is! I never saw anything so
+“[[Well]]! what a delightful room this is! I never saw anything so
 
 charming! Only think, Mama, how it is improved since I was here last! I
 
@@ -7173,7 +7173,7 @@ always thought it such a sweet place, ma’am! (turning to Mrs. Dashwood)
 
 but you have made it so charming! Only look, sister, how delightful
 
-every thing is! How I should like such a house for myself! Should not
+every thing is! How I should like such a [[house]] for myself! Should not
 
 you, Mr. Palmer?”
 
@@ -7207,7 +7207,7 @@ their friends, without ceasing till every thing was told. Mrs. Palmer
 
 laughed heartily at the recollection of their astonishment, and every
 
-body agreed, two or three times over, that it had been quite an
+[[Body|body]] agreed, two or three times over, that it had been quite an
 
 agreeable surprise.
 
@@ -7221,13 +7221,13 @@ as if she meant to be heard by no one else, though they were seated on
 
 different sides of the room; “but, however, I can’t help wishing they
 
-had not travelled quite so fast, nor made such a long journey of it,
+had not travelled quite so fast, nor made such a long [[Journey|journey]] of it,
 
-for they came all round by London upon account of some business, for
+for they came all round by [[London]] upon account of some business, for
 
 you know (nodding significantly and pointing to her daughter) it was
 
-wrong in her situation. I wanted her to stay at home and rest this
+wrong in her situation. I wanted her to stay at [[Home|home]] and rest this
 
 morning, but she would come with us; she longed so much to see you
 
@@ -7277,7 +7277,7 @@ drawings which hung round the room. She got up to examine them.
 
 
 
-“Oh! dear, how beautiful these are! Well! how delightful! Do but look,
+“Oh! dear, how beautiful these are! [[Well]]! how delightful! Do but look,
 
 mama, how sweet! I declare they are quite charming; I could look at
 
@@ -7287,13 +7287,13 @@ there were any such things in the room.
 
 
 
-When Lady Middleton rose to go away, Mr. Palmer rose also, laid down
+When Lady Middleton [[Rose|rose]] to go away, Mr. Palmer [[Rose|rose]] also, laid down
 
 the newspaper, stretched himself and looked at them all around.
 
 
 
-“My love, have you been asleep?” said his wife, laughing.
+“My [[Love|love]], have you been asleep?” said his wife, laughing.
 
 
 
@@ -7391,7 +7391,7 @@ would go with him to Barton. He is so droll! He never tells me any
 
 thing! I am so sorry we cannot stay longer; however we shall meet again
 
-in town very soon, I hope.”
+in town very soon, I [[Hope|hope]].”
 
 
 
@@ -7401,11 +7401,11 @@ They were obliged to put an end to such an expectation.
 
 “Not go to town!” cried Mrs. Palmer, with a laugh, “I shall be quite
 
-disappointed if you do not. I could get the nicest house in the world
+disappointed if you do not. I could get the nicest [[house]] in the world
 
 for you, next door to ours, in Hanover-square. You must come, indeed. I
 
-am sure I shall be very happy to chaperon you at any time till I am
+am sure I shall be very happy to chaperon you at any [[Time|time]] till I am
 
 confined, if Mrs. Dashwood should not like to go into public.”
 
@@ -7415,15 +7415,15 @@ They thanked her; but were obliged to resist all her entreaties.
 
 
 
-“Oh, my love,” cried Mrs. Palmer to her husband, who just then entered
+“Oh, my [[Love|love]],” cried Mrs. Palmer to her husband, who just then entered
 
 the room—“you must help me to persuade the Miss Dashwoods to go to town
 
-this winter.”
+this [[Winter|winter]].”
 
 
 
-Her love made no answer; and after slightly bowing to the ladies, began
+Her [[Love|love]] made no answer; and after slightly bowing to the ladies, began
 
 complaining of the weather.
 
@@ -7431,11 +7431,11 @@ complaining of the weather.
 
 “How horrid all this is!” said he. “Such weather makes every thing and
 
-every body disgusting. Dullness is as much produced within doors as
+every [[Body|body]] disgusting. Dullness is as much produced within doors as
 
 without, by rain. It makes one detest all one’s acquaintance. What the
 
-devil does Sir John mean by not having a billiard room in his house?
+devil does Sir John mean by not having a billiard room in his [[house]]?
 
 How few people know what comfort is! Sir John is as stupid as the
 
@@ -7453,7 +7453,7 @@ take your usual walk to Allenham today.”
 
 
 
-Marianne looked very grave and said nothing.
+Marianne looked very [[Grave|grave]] and said nothing.
 
 
 
@@ -7471,7 +7471,7 @@ country, you know. Not above ten miles, I dare say.”
 
 
 
-“Ah, well! there is not much difference. I never was at his house; but
+“Ah, [[Well|well]]! there is not much difference. I never was at his [[house]]; but
 
 they say it is a sweet pretty place.”
 
@@ -7521,13 +7521,13 @@ ceremony.”
 
 
 
-“My love you contradict every body,” said his wife with her usual
+“My [[Love|love]] you contradict every [[Body|body]],” said his wife with her usual
 
 laugh. “Do you know that you are quite rude?”
 
 
 
-“I did not know I contradicted any body in calling your mother
+“I did not know I contradicted any [[Body|body]] in calling your mother
 
 ill-bred.”
 
@@ -7543,7 +7543,7 @@ So there I have the whip hand of you.”
 
 Charlotte laughed heartily to think that her husband could not get rid
 
-of her; and exultingly said, she did not care how cross he was to her,
+of her; and exultingly said, she did not care how [[Cross|cross]] he was to her,
 
 as they must live together. It was impossible for any one to be more
 
@@ -7551,7 +7551,7 @@ thoroughly good-natured, or more determined to be happy than Mrs.
 
 Palmer. The studied indifference, insolence, and discontent of her
 
-husband gave her no pain; and when he scolded or abused her, she was
+husband gave her no [[Pain|pain]]; and when he scolded or abused her, she was
 
 highly diverted.
 
@@ -7559,7 +7559,7 @@ highly diverted.
 
 “Mr. Palmer is so droll!” said she, in a whisper, to Elinor. “He is
 
-always out of humour.”
+always out of [[Humour|humour]].”
 
 
 
@@ -7571,15 +7571,15 @@ wished to appear. His temper might perhaps be a little soured by
 
 finding, like many others of his sex, that through some unaccountable
 
-bias in favour of beauty, he was the husband of a very silly woman—but
+bias in favour of [[Beauty|beauty]], he was the husband of a very silly woman—but
 
 she knew that this kind of blunder was too common for any sensible man
 
 to be lastingly hurt by it. It was rather a wish of distinction, she
 
-believed, which produced his contemptuous treatment of every body, and
+believed, which produced his contemptuous treatment of every [[Body|body]], and
 
-his general abuse of every thing before him. It was the desire of
+his general abuse of every thing before him. It was the [[Desire|desire]] of
 
 appearing superior to other people. The motive was too common to be
 
@@ -7595,11 +7595,11 @@ him except his wife.
 
 got such a favour to ask of you and your sister. Will you come and
 
-spend some time at Cleveland this Christmas? Now, pray do,—and come
+spend some [[Time|time]] at Cleveland this Christmas? Now, pray do,—and come
 
 while the Westons are with us. You cannot think how happy I shall be!
 
-It will be quite delightful!—My love,” applying to her husband, “don’t
+It will be quite delightful!—My [[Love|love]],” applying to her husband, “don’t
 
 you long to have the Miss Dashwoods come to Cleveland?”
 
@@ -7633,7 +7633,7 @@ against the election; and so many people came to dine with us that I
 
 never saw before, it is quite charming! But, poor fellow! it is very
 
-fatiguing to him! for he is forced to make every body like him.”
+fatiguing to him! for he is forced to make every [[Body|body]] like him.”
 
 
 
@@ -7689,7 +7689,7 @@ by asking her whether she did not like Mr. Palmer excessively.
 
 
 
-“Well—I am so glad you do. I thought you would, he is so pleasant; and
+“[[Well]]—I am so glad you do. I thought you would, he is so pleasant; and
 
 Mr. Palmer is excessively pleased with you and your sisters I can tell
 
@@ -7711,7 +7711,7 @@ be gathered from the Middletons’ partial acquaintance with him; and she
 
 was eager to gain from any one, such a confirmation of his merits as
 
-might remove the possibility of fear from Marianne. She began by
+might remove the possibility of [[Fear|fear]] from Marianne. She began by
 
 inquiring if they saw much of Mr. Willoughby at Cleveland, and whether
 
@@ -7719,7 +7719,7 @@ they were intimately acquainted with him.
 
 
 
-“Oh dear, yes; I know him extremely well,” replied Mrs. Palmer;—“Not
+“Oh dear, yes; I know him extremely [[Well|well]],” replied Mrs. Palmer;—“Not
 
 that I ever spoke to him, indeed; but I have seen him for ever in town.
 
@@ -7737,7 +7737,7 @@ believe; but if he were ever so much there, I do not think Mr. Palmer
 
 would visit him, for he is in the opposition, you know, and besides it
 
-is such a way off. I know why you inquire about him, very well; your
+is such a way off. I know why you inquire about him, very [[Well|well]]; your
 
 sister is to marry him. I am monstrous glad of it, for then I shall
 
@@ -7751,7 +7751,7 @@ I do, if you have any reason to expect such a match.”
 
 
 
-“Don’t pretend to deny it, because you know it is what every body talks
+“Don’t pretend to deny it, because you know it is what every [[Body|body]] talks
 
 of. I assure you I heard of it in my way through town.”
 
@@ -7761,19 +7761,19 @@ of. I assure you I heard of it in my way through town.”
 
 
 
-“Upon my honour I did.—I met Colonel Brandon Monday morning in
+“Upon my [[Honour|honour]] I did.—I met [[Colonel Brandon]] Monday morning in
 
 Bond-street, just before we left town, and he told me of it directly.”
 
 
 
-“You surprise me very much. Colonel Brandon tell you of it! Surely you
+“You surprise me very much. [[Colonel Brandon]] tell you of it! Surely you
 
 must be mistaken. To give such intelligence to a person who could not
 
 be interested in it, even if it were true, is not what I should expect
 
-Colonel Brandon to do.”
+[[Colonel Brandon]] to do.”
 
 
 
@@ -7807,11 +7807,11 @@ I declare! When is it to take place?”
 
 
 
-“Mr. Brandon was very well I hope?”
+“Mr. Brandon was very [[Well|well]] I [[Hope|hope]]?”
 
 
 
-“Oh! yes, quite well; and so full of your praises, he did nothing but
+“Oh! yes, quite [[Well|well]]; and so full of your praises, he did nothing but
 
 say fine things of you.”
 
@@ -7825,11 +7825,11 @@ think him uncommonly pleasing.”
 
 “So do I. He is such a charming man, that it is quite a pity he should
 
-be so grave and so dull. Mama says _he_ was in love with your sister
+be so [[Grave|grave]] and so dull. Mama says _he_ was in [[Love|love]] with your sister
 
 too. I assure you it was a great compliment if he was, for he hardly
 
-ever falls in love with any body.”
+ever falls in [[Love|love]] with any [[Body|body]].”
 
 
 
@@ -7839,7 +7839,7 @@ Elinor.
 
 
 
-“Oh! yes, extremely well; that is, I do not believe many people are
+“Oh! yes, extremely [[Well|well]]; that is, I do not believe many people are
 
 acquainted with him, because Combe Magna is so far off; but they all
 
@@ -7847,7 +7847,7 @@ think him extremely agreeable I assure you. Nobody is more liked than
 
 Mr. Willoughby wherever he goes, and so you may tell your sister. She
 
-is a monstrous lucky girl to get him, upon my honour; not but that he
+is a monstrous lucky girl to get him, upon my [[Honour|honour]]; not but that he
 
 is much more lucky in getting her, because she is so very handsome and
 
@@ -7857,7 +7857,7 @@ think her hardly at all handsomer than you, I assure you; for I think
 
 you both excessively pretty, and so does Mr. Palmer too I am sure,
 
-though we could not get him to own it last night.”
+though we could not get him to own it last [[Night|night]].”
 
 
 
@@ -7869,19 +7869,19 @@ but any testimony in his favour, however small, was pleasing to her.
 
 “I am so glad we are got acquainted at last,” continued Charlotte.—“And
 
-now I hope we shall always be great friends. You can’t think how much I
+now I [[Hope|hope]] we shall always be great friends. You can’t think how much I
 
 longed to see you! It is so delightful that you should live at the
 
 cottage! Nothing can be like it, to be sure! And I am so glad your
 
-sister is going to be well married! I hope you will be a great deal at
+sister is going to be [[Well|well]] married! I [[Hope|hope]] you will be a great deal at
 
 Combe Magna. It is a sweet place, by all accounts.”
 
 
 
-“You have been long acquainted with Colonel Brandon, have not you?”
+“You have been long acquainted with [[Colonel Brandon]], have not you?”
 
 
 
@@ -7899,7 +7899,7 @@ Colonel, and we should have been married immediately.”
 
 
 
-“Did not Colonel Brandon know of Sir John’s proposal to your mother
+“Did not [[Colonel Brandon]] know of Sir John’s proposal to your mother
 
 before it was made? Had he never owned his affection to yourself?”
 
@@ -7977,7 +7977,7 @@ up with one another. As it was impossible, however, now to prevent
 
 their coming, Lady Middleton resigned herself to the idea of it, with
 
-all the philosophy of a well-bred woman, contenting herself with merely
+all the [[philosophy]] of a [[Well|well]]-bred woman, contenting herself with merely
 
 giving her husband a gentle reprimand on the subject five or six times
 
@@ -7989,7 +7989,7 @@ The young ladies arrived: their appearance was by no means ungenteel or
 
 unfashionable. Their dress was very smart, their manners very civil,
 
-they were delighted with the house, and in raptures with the furniture,
+they were delighted with the [[house]], and in raptures with the furniture,
 
 and they happened to be so doatingly fond of children that Lady
 
@@ -7999,7 +7999,7 @@ been an hour at the Park. She declared them to be very agreeable girls
 
 indeed, which for her ladyship was enthusiastic admiration. Sir John’s
 
-confidence in his own judgment rose with this animated praise, and he
+confidence in his own judgment [[Rose|rose]] with this animated praise, and he
 
 set off directly for the cottage to tell the Miss Dashwoods of the Miss
 
@@ -8007,7 +8007,7 @@ Steeles’ arrival, and to assure them of their being the sweetest girls
 
 in the world. From such commendation as this, however, there was not
 
-much to be learned; Elinor well knew that the sweetest girls in the
+much to be learned; Elinor [[Well|well]] knew that the sweetest girls in the
 
 world were to be met with in every part of England, under every
 
@@ -8037,7 +8037,7 @@ very true, and a great deal more. You will be delighted with them I am
 
 sure. They have brought the whole coach full of playthings for the
 
-children. How can you be so cross as not to come? Why they are your
+children. How can you be so [[Cross|cross]] as not to come? Why they are your
 
 cousins, you know, after a fashion. _You_ are my cousins, and they are
 
@@ -8049,7 +8049,7 @@ But Sir John could not prevail. He could only obtain a promise of their
 
 calling at the Park within a day or two, and then left them in
 
-amazement at their indifference, to walk home and boast anew of their
+amazement at their indifference, to walk [[Home|home]] and boast anew of their
 
 attractions to the Miss Steeles, as he had been already boasting of the
 
@@ -8065,7 +8065,7 @@ eldest, who was nearly thirty, with a very plain and not a sensible
 
 face, nothing to admire; but in the other, who was not more than two or
 
-three and twenty, they acknowledged considerable beauty; her features
+three and twenty, they acknowledged considerable [[Beauty|beauty]]; her features
 
 were pretty, and she had a sharp quick eye, and a smartness of air,
 
@@ -8079,9 +8079,9 @@ constant and judicious attention they were making themselves agreeable
 
 to Lady Middleton. With her children they were in continual raptures,
 
-extolling their beauty, courting their notice, and humouring their
+extolling their [[Beauty|beauty]], courting their notice, and humouring their
 
-whims; and such of their time as could be spared from the importunate
+whims; and such of their [[Time|time]] as could be spared from the importunate
 
 demands which this politeness made on it, was spent in admiration of
 
@@ -8091,15 +8091,15 @@ or in taking patterns of some elegant new dress, in which her
 
 appearance the day before had thrown them into unceasing delight.
 
-Fortunately for those who pay their court through such foibles, a fond
+Fortunately for those who pay their [[Court|court]] through such foibles, a fond
 
 mother, though, in pursuit of praise for her children, the most
 
 rapacious of human beings, is likewise the most credulous; her demands
 
-are exorbitant; but she will swallow any thing; and the excessive
+are exorbitant; but she will [[Swallow|swallow]] any thing; and the excessive
 
-affection and endurance of the Miss Steeles towards her offspring were
+affection and [[Endurance|endurance]] of the Miss Steeles towards her offspring were
 
 viewed therefore by Lady Middleton without the smallest surprise or
 
@@ -8111,7 +8111,7 @@ She saw their sashes untied, their hair pulled about their ears, their
 
 work-bags searched, and their knives and scissors stolen away, and felt
 
-no doubt of its being a reciprocal enjoyment. It suggested no other
+no [[Doubt|doubt]] of its being a reciprocal enjoyment. It suggested no other
 
 surprise than that Elinor and Marianne should sit so composedly by,
 
@@ -8121,7 +8121,7 @@ without claiming a share in what was passing.
 
 “John is in such spirits today!” said she, on his taking Miss Steeles’s
 
-pocket handkerchief, and throwing it out of window—“He is full of
+pocket handkerchief, and throwing it out of [[Window|window]]—“He is full of
 
 monkey tricks.”
 
@@ -8145,7 +8145,7 @@ such a quiet little thing!”
 
 But unfortunately in bestowing these embraces, a pin in her ladyship’s
 
-head dress slightly scratching the child’s neck, produced from this
+head dress slightly scratching the [[Child|child]]’s neck, produced from this
 
 pattern of gentleness such violent screams, as could hardly be outdone
 
@@ -8159,11 +8159,11 @@ affection could suggest as likely to assuage the agonies of the little
 
 sufferer. She was seated in her mother’s lap, covered with kisses, her
 
-wound bathed with lavender-water, by one of the Miss Steeles, who was
+wound bathed with lavender-[[Water|water]], by one of the Miss Steeles, who was
 
 on her knees to attend her, and her mouth stuffed with sugar plums by
 
-the other. With such a reward for her tears, the child was too wise to
+the other. With such a reward for her [[Tears|tears]], the [[Child|child]] was too wise to
 
 cease crying. She still screamed and sobbed lustily, kicked her two
 
@@ -8177,11 +8177,11 @@ successfully applied for a bruised temple, the same remedy was eagerly
 
 proposed for this unfortunate scratch, and a slight intermission of
 
-screams in the young lady on hearing it, gave them reason to hope that
+screams in the young lady on hearing it, gave them reason to [[Hope|hope]] that
 
 it would not be rejected. She was carried out of the room therefore in
 
-her mother’s arms, in quest of this medicine, and as the two boys chose
+her mother’s arms, in [[Quest|quest]] of this medicine, and as the two boys chose
 
 to follow, though earnestly entreated by their mother to stay behind,
 
@@ -8205,7 +8205,7 @@ heightening alarm, where there is nothing to be alarmed at in reality.”
 
 
 
-“What a sweet woman Lady Middleton is!” said Lucy Steele.
+“What a sweet woman Lady Middleton is!” said [[Lucy Steele]].
 
 
 
@@ -8253,7 +8253,7 @@ witnessed this morning.”
 
 too much indulged; perhaps they may be the outside of enough; but it is
 
-so natural in Lady Middleton; and for my part, I love to see children
+so natural in Lady Middleton; and for my part, I [[Love|love]] to see children
 
 full of life and spirits; I cannot bear them if they are tame and
 
@@ -8291,7 +8291,7 @@ Steele.
 
 “We have heard Sir John admire it excessively,” said Lucy, who seemed
 
-to think some apology necessary for the freedom of her sister.
+to think some apology necessary for the [[Freedom|freedom]] of her sister.
 
 
 
@@ -8333,7 +8333,7 @@ part, I think they are vastly agreeable, provided they dress smart and
 
 behave civil. But I can’t bear to see them dirty and nasty. Now there’s
 
-Mr. Rose at Exeter, a prodigious smart young man, quite a beau, clerk
+Mr. [[Rose]] at Exeter, a prodigious smart young man, quite a beau, clerk
 
 to Mr. Simpson, you know, and yet if you do but meet him of a morning,
 
@@ -8363,23 +8363,23 @@ something else to do.”
 
 will make Miss Dashwood believe you think of nothing else.” And then to
 
-turn the discourse, she began admiring the house and the furniture.
+turn the discourse, she began admiring the [[house]] and the furniture.
 
 
 
-This specimen of the Miss Steeles was enough. The vulgar freedom and
+This specimen of the Miss Steeles was enough. The vulgar [[Freedom|freedom]] and
 
 folly of the eldest left her no recommendation, and as Elinor was not
 
-blinded by the beauty, or the shrewd look of the youngest, to her want
+blinded by the [[Beauty|beauty]], or the shrewd look of the youngest, to her want
 
-of real elegance and artlessness, she left the house without any wish
+of real elegance and artlessness, she left the [[house]] without any wish
 
 of knowing them better.
 
 
 
-Not so the Miss Steeles. They came from Exeter, well provided with
+Not so the Miss Steeles. They came from Exeter, [[Well|well]] provided with
 
 admiration for the use of Sir John Middleton, his family, and all his
 
@@ -8405,7 +8405,7 @@ but he did not know that any more was required: to be together was, in
 
 his opinion, to be intimate, and while his continual schemes for their
 
-meeting were effectual, he had not a doubt of their being established
+meeting were effectual, he had not a [[Doubt|doubt]] of their being established
 
 friends.
 
@@ -8429,7 +8429,7 @@ to make a conquest of a very smart beau since she came to Barton.
 
 she, “and I hear he is quite a beau, and prodigious handsome. And I
 
-hope you may have as good luck yourself soon,—but perhaps you may have
+[[Hope|hope]] you may have as good luck yourself soon,—but perhaps you may have
 
 a friend in the corner already.”
 
@@ -8483,7 +8483,7 @@ not tell it, for it’s a great secret.”
 
 What! your sister-in-law’s brother, Miss Dashwood? a very agreeable
 
-young man to be sure; I know him very well.”
+young man to be sure; I know him very [[Well|well]].”
 
 
 
@@ -8491,7 +8491,7 @@ young man to be sure; I know him very well.”
 
 to all her sister’s assertions. “Though we have seen him once or twice
 
-at my uncle’s, it is rather too much to pretend to know him very well.”
+at my uncle’s, it is rather too much to pretend to know him very [[Well|well]].”
 
 
 
@@ -8501,7 +8501,7 @@ uncle? Where did he live? How came they acquainted?” She wished very
 
 much to have the subject continued, though she did not chuse to join in
 
-it herself; but nothing more of it was said, and for the first time in
+it herself; but nothing more of it was said, and for the first [[Time|time]] in
 
 her life, she thought Mrs. Jennings deficient either in curiosity after
 
@@ -8537,7 +8537,7 @@ Marianne, who had never much toleration for any thing like
 
 impertinence, vulgarity, inferiority of parts, or even difference of
 
-taste from herself, was at this time particularly ill-disposed, from
+taste from herself, was at this [[Time|time]] particularly ill-disposed, from
 
 the state of her spirits, to be pleased with the Miss Steeles, or to
 
@@ -8561,7 +8561,7 @@ Lucy was naturally clever; her remarks were often just and amusing; and
 
 as a companion for half an hour Elinor frequently found her agreeable;
 
-but her powers had received no aid from education: she was ignorant and
+but her powers had received no aid from [[Education|education]]: she was ignorant and
 
 illiterate; and her deficiency of all mental improvement, her want of
 
@@ -8571,7 +8571,7 @@ Miss Dashwood, in spite of her constant endeavour to appear to
 
 advantage. Elinor saw, and pitied her for, the neglect of abilities
 
-which education might have rendered so respectable; but she saw, with
+which [[Education|education]] might have rendered so respectable; but she saw, with
 
 less tenderness of feeling, the thorough want of delicacy, of
 
@@ -8607,7 +8607,7 @@ expressed it, as she answered that she had never seen Mrs. Ferrars.
 
 
 
-“Indeed!” replied Lucy; “I wonder at that, for I thought you must have
+“Indeed!” replied Lucy; “I [[Wonder|wonder]] at that, for I thought you must have
 
 seen her at Norland sometimes. Then, perhaps, you cannot tell me what
 
@@ -8627,7 +8627,7 @@ curiosity; “I know nothing of her.”
 
 way,” said Lucy, eyeing Elinor attentively as she spoke; “but perhaps
 
-there may be reasons—I wish I might venture; but however I hope you
+there may be reasons—I wish I might venture; but however I [[Hope|hope]] you
 
 will do me the justice of believing that I do not mean to be
 
@@ -8637,7 +8637,7 @@ impertinent.”
 
 Elinor made her a civil reply, and they walked on for a few minutes in
 
-silence. It was broken by Lucy, who renewed the subject again by
+[[Silence|silence]]. It was broken by Lucy, who renewed the subject again by
 
 saying, with some hesitation,
 
@@ -8647,9 +8647,9 @@ saying, with some hesitation,
 
 would rather do any thing in the world than be thought so by a person
 
-whose good opinion is so well worth having as yours. And I am sure I
+whose good opinion is so [[Well|well]] worth having as yours. And I am sure I
 
-should not have the smallest fear of trusting _you;_ indeed, I should
+should not have the smallest [[Fear|fear]] of trusting _you;_ indeed, I should
 
 be very glad of your advice how to manage in such an uncomfortable
 
@@ -8671,11 +8671,11 @@ into her character.”
 
 
 
-“I dare say you are, and I am sure I do not at all wonder at it. But if
+“I dare say you are, and I am sure I do not at all [[Wonder|wonder]] at it. But if
 
 I dared tell you all, you would not be so much surprised. Mrs. Ferrars
 
-is certainly nothing to me at present—but the time _may_ come—how soon
+is certainly nothing to me at present—but the [[Time|time]] _may_ come—how soon
 
 it will come must depend upon herself—when we may be very intimately
 
@@ -8711,13 +8711,13 @@ assertion attended it. She turned towards Lucy in silent amazement,
 
 unable to divine the reason or object of such a declaration; and though
 
-her complexion varied, she stood firm in incredulity, and felt in no
+her complexion varied, she stood firm in [[Incredulity|incredulity]], and felt in no
 
 danger of an hysterical fit, or a swoon.
 
 
 
-“You may well be surprised,” continued Lucy; “for to be sure you could
+“You may [[Well|well]] be surprised,” continued Lucy; “for to be sure you could
 
 have had no idea of it before; for I dare say he never dropped the
 
@@ -8725,7 +8725,7 @@ smallest hint of it to you or any of your family; because it was always
 
 meant to be a great secret, and I am sure has been faithfully kept so
 
-by me to this hour. Not a soul of all my relations know of it but Anne,
+by me to this hour. Not a [[Soul|soul]] of all my relations know of it but Anne,
 
 and I never should have mentioned it to you, if I had not felt the
 
@@ -8751,7 +8751,7 @@ heard was at first too great for words; but at length forcing herself
 
 to speak, and to speak cautiously, she said, with calmness of manner,
 
-which tolerably well concealed her surprise and solicitude—“May I ask
+which tolerably [[Well|well]] concealed her surprise and solicitude—“May I ask
 
 if your engagement is of long standing?”
 
@@ -8811,9 +8811,9 @@ was almost always with us afterwards. I was very unwilling to enter
 
 into it, as you may imagine, without the knowledge and approbation of
 
-his mother; but I was too young, and loved him too well, to be so
+his mother; but I was too young, and loved him too [[Well|well]], to be so
 
-prudent as I ought to have been. Though you do not know him so well as
+prudent as I ought to have been. Though you do not know him so [[Well|well]] as
 
 me, Miss Dashwood, you must have seen enough of him to be sensible he
 
@@ -8825,7 +8825,7 @@ is very capable of making a woman sincerely attached to him.”
 
 a moment’s reflection, she added, with revived security of Edward’s
 
-honour and love, and her companion’s falsehood—“Engaged to Mr. Edward
+[[Honour|honour]] and [[Love|love]], and her companion’s falsehood—“Engaged to Mr. Edward
 
 Ferrars!—I confess myself so totally surprised at what you tell me,
 
@@ -8835,7 +8835,7 @@ person or name. We cannot mean the same Mr. Ferrars.”
 
 
 
-“We can mean no other,” cried Lucy, smiling. “Mr. Edward Ferrars, the
+“We can mean no other,” cried Lucy, smiling. “Mr. [[Edward Ferrars]], the
 
 eldest son of Mrs. Ferrars, of Park Street, and brother of your
 
@@ -8867,7 +8867,7 @@ it.”
 
 
 
-She was silent.—Elinor’s security sunk; but her self-command did not
+She was silent.—Elinor’s security sunk; but her [[Self|self]]-command did not
 
 sink with it.
 
@@ -8893,7 +8893,7 @@ drew for.—I have had it above these three years.”
 
 She put it into her hands as she spoke; and when Elinor saw the
 
-painting, whatever other doubts her fear of a too hasty decision, or
+painting, whatever other doubts her [[Fear|fear]] of a too hasty decision, or
 
 her wish of detecting falsehood might suffer to linger in her mind, she
 
@@ -8915,11 +8915,11 @@ opportunity.”
 
 “You are quite in the right,” replied Elinor calmly. They then
 
-proceeded a few paces in silence. Lucy spoke first.
+proceeded a few paces in [[Silence|silence]]. Lucy spoke first.
 
 
 
-“I am sure,” said she, “I have no doubt in the world of your faithfully
+“I am sure,” said she, “I have no [[Doubt|doubt]] in the world of your faithfully
 
 keeping this secret, because you must know of what importance it is to
 
@@ -8971,7 +8971,7 @@ not a creature whose advice I can ask. Anne is the only person that
 
 knows of it, and she has no judgment at all; indeed, she does me a
 
-great deal more harm than good, for I am in constant fear of her
+great deal more harm than good, for I am in constant [[Fear|fear]] of her
 
 betraying me. She does not know how to hold her tongue, as you must
 
@@ -8981,13 +8981,13 @@ t’other day, when Edward’s name was mentioned by Sir John, lest she
 
 should out with it all. You can’t think how much I go through in my
 
-mind from it altogether. I only wonder that I am alive after what I
+mind from it altogether. I only [[Wonder|wonder]] that I am alive after what I
 
 have suffered for Edward’s sake these last four years. Every thing in
 
 such suspense and uncertainty; and seeing him so seldom—we can hardly
 
-meet above twice a-year. I am sure I wonder my heart is not quite
+meet above twice a-year. I am sure I [[Wonder|wonder]] my heart is not quite
 
 broke.”
 
@@ -9025,7 +9025,7 @@ you.”
 
 
 
-“To be sure,” continued Lucy, after a few minutes silence on both
+“To be sure,” continued Lucy, after a few minutes [[Silence|silence]] on both
 
 sides, “his mother must provide for him sometime or other; but poor
 
@@ -9055,9 +9055,9 @@ circumstance in favour of Lucy’s veracity; “I remember he told us, that
 
 he had been staying a fortnight with some friends near Plymouth.” She
 
-remembered too, her own surprise at the time, at his mentioning nothing
+remembered too, her own surprise at the [[Time|time]], at his mentioning nothing
 
-farther of those friends, at his total silence with respect even to
+farther of those friends, at his total [[Silence|silence]] with respect even to
 
 their names.
 
@@ -9071,9 +9071,9 @@ their names.
 
 
 
-“I begged him to exert himself for fear you should suspect what was the
+“I begged him to exert himself for [[Fear|fear]] you should suspect what was the
 
-matter; but it made him so melancholy, not being able to stay more than
+matter; but it made him so [[Melancholy|melancholy]], not being able to stay more than
 
 a fortnight with us, and seeing me so much affected. Poor fellow! I am
 
@@ -9085,13 +9085,13 @@ from her pocket and carelessly showing the direction to Elinor. “You
 
 know his hand, I dare say,—a charming one it is; but that is not
 
-written so well as usual. He was tired, I dare say, for he had just
+written so [[Well|well]] as usual. He was tired, I dare say, for he had just
 
 filled the sheet to me as full as possible.”
 
 
 
-Elinor saw that it _was_ his hand, and she could doubt no longer. This
+Elinor saw that it _was_ his hand, and she could [[Doubt|doubt]] no longer. This
 
 picture, she had allowed herself to believe, might have been
 
@@ -9107,7 +9107,7 @@ could hardly stand; but exertion was indispensably necessary; and she
 
 struggled so resolutely against the oppression of her feelings, that
 
-her success was speedy, and for the time complete.
+her [[success]] was speedy, and for the [[Time|time]] complete.
 
 
 
@@ -9165,21 +9165,21 @@ However small Elinor’s general dependence on Lucy’s veracity might be,
 
 it was impossible for her on serious reflection to suspect it in the
 
-present case, where no temptation could be answerable to the folly of
+present case, where no [[Temptation|temptation]] could be answerable to the folly of
 
 inventing a falsehood of such a description. What Lucy had asserted to
 
-be true, therefore, Elinor could not, dared not longer doubt; supported
+be true, therefore, Elinor could not, dared not longer [[Doubt|doubt]]; supported
 
 as it was too on every side by such probabilities and proofs, and
 
 contradicted by nothing but her own wishes. Their opportunity of
 
-acquaintance in the house of Mr. Pratt was a foundation for the rest,
+acquaintance in the [[house]] of Mr. Pratt was a foundation for the rest,
 
 at once indisputable and alarming; and Edward’s visit near Plymouth,
 
-his melancholy state of mind, his dissatisfaction at his own prospects,
+his [[Melancholy|melancholy]] state of mind, his dissatisfaction at his own prospects,
 
 his uncertain behaviour towards herself, the intimate knowledge of the
 
@@ -9187,13 +9187,13 @@ Miss Steeles as to Norland and their family connections, which had
 
 often surprised her, the picture, the letter, the ring, formed
 
-altogether such a body of evidence, as overcame every fear of
+altogether such a [[Body|body]] of evidence, as overcame every [[Fear|fear]] of
 
 condemning him unfairly, and established as a fact, which no partiality
 
 could set aside, his ill-treatment of herself.—Her resentment of such
 
-behaviour, her indignation at having been its dupe, for a short time
+behaviour, her indignation at having been its dupe, for a short [[Time|time]]
 
 made her feel only for herself; but other ideas, other considerations,
 
@@ -9209,9 +9209,9 @@ She could not be deceived in that. Her mother, sisters, Fanny, all had
 
 been conscious of his regard for her at Norland; it was not an illusion
 
-of her own vanity. He certainly loved her. What a softener of the heart
+of her own [[Vanity|vanity]]. He certainly loved her. What a softener of the heart
 
-was this persuasion! How much could it not tempt her to forgive! He had
+was this [[Persuasion|persuasion]]! How much could it not tempt her to forgive! He had
 
 been blamable, highly blamable, in remaining at Norland after he first
 
@@ -9225,13 +9225,13 @@ imprudence had made her miserable for a while; but it seemed to have
 
 deprived himself of all chance of ever being otherwise. She might in
 
-time regain tranquillity; but _he_, what had he to look forward to?
+[[Time|time]] regain tranquillity; but _he_, what had he to look forward to?
 
-Could he ever be tolerably happy with Lucy Steele; could he, were his
+Could he ever be tolerably happy with [[Lucy Steele]]; could he, were his
 
 affection for herself out of the question, with his integrity, his
 
-delicacy, and well-informed mind, be satisfied with a wife like
+delicacy, and [[Well|well]]-informed mind, be satisfied with a wife like
 
 her—illiterate, artful, and selfish?
 
@@ -9239,17 +9239,17 @@ her—illiterate, artful, and selfish?
 
 The youthful infatuation of nineteen would naturally blind him to every
 
-thing but her beauty and good nature; but the four succeeding
+thing but her [[Beauty|beauty]] and good [[Nature|nature]]; but the four succeeding
 
 years—years, which if rationally spent, give such improvement to the
 
-understanding, must have opened his eyes to her defects of education,
+understanding, must have opened his eyes to her defects of [[Education|education]],
 
-while the same period of time, spent on her side in inferior society
+while the same period of [[Time|time]], spent on her side in inferior society
 
 and more frivolous pursuits, had perhaps robbed her of that simplicity
 
-which might once have given an interesting character to her beauty.
+which might once have given an interesting character to her [[Beauty|beauty]].
 
 
 
@@ -9263,7 +9263,7 @@ connections, and probably inferior in fortune to herself. These
 
 difficulties, indeed, with a heart so alienated from Lucy, might not
 
-press very hard upon his patience; but melancholy was the state of the
+press very hard upon his patience; but [[Melancholy|melancholy]] was the state of the
 
 person by whom the expectation of family opposition and unkindness,
 
@@ -9281,9 +9281,9 @@ belief that Edward had done nothing to forfeit her esteem, she thought
 
 she could even now, under the first smart of the heavy blow, command
 
-herself enough to guard every suspicion of the truth from her mother
+herself enough to guard every suspicion of the [[Truth|truth]] from her mother
 
-and sisters. And so well was she able to answer her own expectations,
+and sisters. And so [[Well|well]] was she able to answer her own expectations,
 
 that when she joined them at dinner only two hours after she had first
 
@@ -9293,13 +9293,13 @@ supposed from the appearance of the sisters, that Elinor was mourning
 
 in secret over obstacles which must divide her for ever from the object
 
-of her love, and that Marianne was internally dwelling on the
+of her [[Love|love]], and that Marianne was internally dwelling on the
 
 perfections of a man, of whose whole heart she felt thoroughly
 
 possessed, and whom she expected to see in every carriage which drove
 
-near their house.
+near their [[house]].
 
 
 
@@ -9325,11 +9325,11 @@ From their counsel, or their conversation, she knew she could receive
 
 no assistance, their tenderness and sorrow must add to her distress,
 
-while her self-command would neither receive encouragement from their
+while her [[Self|self]]-command would neither receive encouragement from their
 
-example nor from their praise. She was stronger alone, and her own good
+example nor from their praise. She was stronger [[Alone|alone]], and her own good
 
-sense so well supported her, that her firmness was as unshaken, her
+sense so [[Well|well]] supported her, that her firmness was as unshaken, her
 
 appearance of cheerfulness as invariable, as with regrets so poignant
 
@@ -9369,7 +9369,7 @@ confessedly and evidently important. And even Sir John’s joking
 
 intelligence must have had some weight. But indeed, while Elinor
 
-remained so well assured within herself of being really beloved by
+remained so [[Well|well]] assured within herself of being really beloved by
 
 Edward, it required no other consideration of probabilities to make it
 
@@ -9385,7 +9385,7 @@ She had little difficulty in understanding thus much of her rival’s
 
 intentions, and while she was firmly resolved to act by her as every
 
-principle of honour and honesty directed, to combat her own affection
+principle of [[Honour|honour]] and honesty directed, to combat her own affection
 
 for Edward and to see him as little as possible; she could not deny
 
@@ -9401,7 +9401,7 @@ ability of going through a repetition of particulars with composure.
 
 But it was not immediately that an opportunity of doing so could be
 
-commanded, though Lucy was as well disposed as herself to take
+commanded, though Lucy was as [[Well|well]] disposed as herself to take
 
 advantage of any that occurred; for the weather was not often fine
 
@@ -9429,11 +9429,11 @@ One or two meetings of this kind had taken place, without affording
 
 Elinor any chance of engaging Lucy in private, when Sir John called at
 
-the cottage one morning, to beg, in the name of charity, that they
+the cottage one morning, to beg, in the name of [[Charity|charity]], that they
 
 would all dine with Lady Middleton that day, as he was obliged to
 
-attend the club at Exeter, and she would otherwise be quite alone,
+attend the club at Exeter, and she would otherwise be quite [[Alone|alone]],
 
 except her mother and the two Miss Steeles. Elinor, who foresaw a
 
@@ -9441,7 +9441,7 @@ fairer opening for the point she had in view, in such a party as this
 
 was likely to be, more at liberty among themselves under the tranquil
 
-and well-bred direction of Lady Middleton than when her husband united
+and [[Well|well]]-bred direction of Lady Middleton than when her husband united
 
 them together in one noisy purpose, immediately accepted the
 
@@ -9457,7 +9457,7 @@ seclude herself from any chance of amusement, to go likewise.
 
 The young ladies went, and Lady Middleton was happily preserved from
 
-the frightful solitude which had threatened her. The insipidity of the
+the frightful [[Solitude|solitude]] which had threatened her. The insipidity of the
 
 meeting was exactly such as Elinor had expected; it produced not one
 
@@ -9467,15 +9467,15 @@ than the whole of their discourse both in the dining parlour and
 
 drawing room: to the latter, the children accompanied them, and while
 
-they remained there, she was too well convinced of the impossibility of
+they remained there, she was too [[Well|well]] convinced of the impossibility of
 
 engaging Lucy’s attention to attempt it. They quitted it only with the
 
 removal of the tea-things. The card-table was then placed, and Elinor
 
-began to wonder at herself for having ever entertained a hope of
+began to [[Wonder|wonder]] at herself for having ever entertained a [[Hope|hope]] of
 
-finding time for conversation at the park. They all rose up in
+finding [[Time|time]] for conversation at the park. They all [[Rose|rose]] up in
 
 preparation for a round game.
 
@@ -9487,9 +9487,9 @@ poor little Annamaria’s basket this evening; for I am sure it must hurt
 
 your eyes to work filigree by candlelight. And we will make the dear
 
-little love some amends for her disappointment to-morrow, and then I
+little [[Love|love]] some amends for her disappointment to-morrow, and then I
 
-hope she will not much mind it.”
+[[Hope|hope]] she will not much mind it.”
 
 
 
@@ -9507,7 +9507,7 @@ resolved to finish the basket after supper.”
 
 
 
-“You are very good, I hope it won’t hurt your eyes—will you ring the
+“You are very good, I [[Hope|hope]] it won’t hurt your eyes—will you ring the
 
 bell for some working candles? My poor little girl would be sadly
 
@@ -9523,7 +9523,7 @@ Lucy directly drew her work table near her and reseated herself with an
 
 alacrity and cheerfulness which seemed to infer that she could taste no
 
-greater delight than in making a filigree basket for a spoilt child.
+greater delight than in making a filigree basket for a spoilt [[Child|child]].
 
 
 
@@ -9551,7 +9551,7 @@ made so rude a speech.
 
 said Elinor, endeavouring to smooth away the offence; “and I do not
 
-much wonder at it; for it is the very best toned piano-forte I ever
+much [[Wonder|wonder]] at it; for it is the very best toned piano-forte I ever
 
 heard.”
 
@@ -9563,7 +9563,7 @@ The remaining five were now to draw their cards.
 
 “Perhaps,” continued Elinor, “if I should happen to cut out, I may be
 
-of some use to Miss Lucy Steele, in rolling her papers for her; and
+of some use to Miss [[Lucy Steele]], in [[rolling]] her papers for her; and
 
 there is so much still to be done to the basket, that it must be
 
@@ -9585,13 +9585,13 @@ all.”
 
 “Oh! that would be terrible, indeed,” said Miss Steele. “Dear little
 
-soul, how I do love her!”
+[[Soul|soul]], how I do [[Love|love]] her!”
 
 
 
 “You are very kind,” said Lady Middleton to Elinor; “and as you really
 
-like the work, perhaps you will be as well pleased not to cut in till
+like the work, perhaps you will be as [[Well|well]] pleased not to cut in till
 
 another rubber, or will you take your chance now?”
 
@@ -9603,7 +9603,7 @@ little of that address which Marianne could never condescend to
 
 practise, gained her own end, and pleased Lady Middleton at the same
 
-time. Lucy made room for her with ready attention, and the two fair
+[[Time|time]]. Lucy made room for her with ready attention, and the two fair
 
 rivals were thus seated side by side at the same table, and, with the
 
@@ -9611,7 +9611,7 @@ utmost harmony, engaged in forwarding the same work. The pianoforte at
 
 which Marianne, wrapped up in her own music and her own thoughts, had
 
-by this time forgotten that any body was in the room besides herself,
+by this [[Time|time]] forgotten that any [[Body|body]] was in the room besides herself,
 
 was luckily so near them that Miss Dashwood now judged she might
 
@@ -9639,7 +9639,7 @@ In a firm, though cautious tone, Elinor thus began.
 
 “I should be undeserving of the confidence you have honoured me with,
 
-if I felt no desire for its continuance, or no farther curiosity on its
+if I felt no [[Desire|desire]] for its continuance, or no farther curiosity on its
 
 subject. I will not apologize therefore for bringing it forward again.”
 
@@ -9699,13 +9699,13 @@ Ferrars, I believe, is entirely dependent on his mother.”
 
 
 
-“He has only two thousand pounds of his own; it would be madness to
+“He has only two thousand pounds of his own; it would be [[Madness|madness]] to
 
 marry upon that, though for my own part, I could give up every prospect
 
 of more without a sigh. I have been always used to a very small income,
 
-and could struggle with any poverty for him; but I love him too well to
+and could struggle with any [[Poverty|poverty]] for him; but I [[Love|love]] him too [[Well|well]] to
 
 be the selfish means of robbing him, perhaps, of all that his mother
 
@@ -9737,11 +9737,11 @@ from every expression that could give her words a suspicious tendency.
 
 
 
-“Edward’s love for me,” said Lucy, “has been pretty well put to the
+“Edward’s [[Love|love]] for me,” said Lucy, “has been pretty [[Well|well]] put to the
 
 test, by our long, very long absence since we were first engaged, and
 
-it has stood the trial so well, that I should be unpardonable to doubt
+it has stood the trial so [[Well|well]], that I should be unpardonable to [[Doubt|doubt]]
 
 it now. I can safely say that he has never gave me one moment’s alarm
 
@@ -9753,13 +9753,13 @@ Elinor hardly knew whether to smile or sigh at this assertion.
 
 
 
-Lucy went on. “I am rather of a jealous temper too by nature, and from
+Lucy went on. “I am rather of a jealous temper too by [[Nature|nature]], and from
 
 our different situations in life, from his being so much more in the
 
 world than me, and our continual separation, I was enough inclined for
 
-suspicion, to have found out the truth in an instant, if there had been
+suspicion, to have found out the [[Truth|truth]] in an instant, if there had been
 
 the slightest alteration in his behaviour to me when we met, or any
 
@@ -9781,17 +9781,17 @@ neither of us.”
 
 
 
-“But what,” said she after a short silence, “are your views? or have
+“But what,” said she after a short [[Silence|silence]], “are your views? or have
 
-you none but that of waiting for Mrs. Ferrars’s death, which is a
+you none but that of waiting for Mrs. Ferrars’s [[Death|death]], which is a
 
-melancholy and shocking extremity?—Is her son determined to submit to
+[[Melancholy|melancholy]] and shocking extremity?—Is her son determined to submit to
 
 this, and to all the tediousness of the many years of suspense in which
 
 it may involve you, rather than run the risk of her displeasure for a
 
-while by owning the truth?”
+while by owning the [[Truth|truth]]?”
 
 
 
@@ -9861,7 +9861,7 @@ Dashwood’s.”
 
 Elinor blushed in spite of herself. Lucy bit her lip, and looked
 
-angrily at her sister. A mutual silence took place for some time. Lucy
+angrily at her sister. A mutual [[Silence|silence]] took place for some [[Time|time]]. Lucy
 
 first put an end to it by saying in a lower tone, though Marianne was
 
@@ -9883,7 +9883,7 @@ profession; now my plan is that he should take orders as soon as he
 
 can, and then through your interest, which I am sure you would be kind
 
-enough to use out of friendship for him, and I hope out of some regard
+enough to use out of [[Friendship|friendship]] for him, and I [[Hope|hope]] out of some regard
 
 to me, your brother might be persuaded to give him Norland living;
 
@@ -9891,13 +9891,13 @@ which I understand is a very good one, and the present incumbent not
 
 likely to live a great while. That would be enough for us to marry
 
-upon, and we might trust to time and chance for the rest.”
+upon, and we might trust to [[Time|time]] and chance for the rest.”
 
 
 
 “I should always be happy,” replied Elinor, “to show any mark of my
 
-esteem and friendship for Mr. Ferrars; but do you not perceive that my
+esteem and [[Friendship|friendship]] for Mr. Ferrars; but do you not perceive that my
 
 interest on such an occasion would be perfectly unnecessary? He is
 
@@ -9927,7 +9927,7 @@ a deep sigh,
 
 once by dissolving the engagement. We seem so beset with difficulties
 
-on every side, that though it would make us miserable for a time, we
+on every side, that though it would make us miserable for a [[Time|time]], we
 
 should be happier perhaps in the end. But you will not give me your
 
@@ -9937,7 +9937,7 @@ advice, Miss Dashwood?”
 
 “No,” answered Elinor, with a smile, which concealed very agitated
 
-feelings, “on such a subject I certainly will not. You know very well
+feelings, “on such a subject I certainly will not. You know very [[Well|well]]
 
 that my opinion would have no weight with you, unless it were on the
 
@@ -9951,7 +9951,7 @@ nobody of whose judgment I think so highly as I do of yours; and I do
 
 really believe, that if you was to say to me, ‘I advise you by all
 
-means to put an end to your engagement with Edward Ferrars, it will be
+means to put an end to your engagement with [[Edward Ferrars]], it will be
 
 more for the happiness of both of you,’ I should resolve upon doing it
 
@@ -9995,7 +9995,7 @@ Lucy was still the first to end it.
 
 
 
-“Shall you be in town this winter, Miss Dashwood?” said she with all
+“Shall you be in town this [[Winter|winter]], Miss Dashwood?” said she with all
 
 her accustomary complacency.
 
@@ -10027,7 +10027,7 @@ been wanting us to visit them these several years! But I only go for
 
 the sake of seeing Edward. He will be there in February, otherwise
 
-London would have no charms for me; I have not spirits for it.”
+[[London]] would have no charms for me; I have not spirits for it.”
 
 
 
@@ -10041,13 +10041,13 @@ nothing had been said on either side to make them dislike each other
 
 less than they had done before; and Elinor sat down to the card table
 
-with the melancholy persuasion that Edward was not only without
+with the [[Melancholy|melancholy]] [[Persuasion|persuasion]] that Edward was not only without
 
 affection for the person who was to be his wife; but that he had not
 
-even the chance of being tolerably happy in marriage, which sincere
+even the chance of being tolerably happy in [[Marriage|marriage]], which sincere
 
-affection on _her_ side would have given, for self-interest alone could
+affection on _her_ side would have given, for [[Self|self]]-interest [[Alone|alone]] could
 
 induce a woman to keep a man to an engagement, of which she seemed so
 
@@ -10055,7 +10055,7 @@ thoroughly aware that he was weary.
 
 
 
-From this time the subject was never revived by Elinor, and when
+From this [[Time|time]] the subject was never revived by Elinor, and when
 
 entered on by Lucy, who seldom missed an opportunity of introducing it,
 
@@ -10107,13 +10107,13 @@ Though Mrs. Jennings was in the habit of spending a large portion of
 
 the year at the houses of her children and friends, she was not without
 
-a settled habitation of her own. Since the death of her husband, who
+a settled habitation of her own. Since the [[Death|death]] of her husband, who
 
-had traded with success in a less elegant part of the town, she had
+had traded with [[success]] in a less elegant part of the town, she had
 
-resided every winter in a house in one of the streets near Portman
+resided every [[Winter|winter]] in a [[house]] in one of the streets near Portman
 
-Square. Towards this home, she began on the approach of January to turn
+Square. Towards this [[Home|home]], she began on the approach of January to turn
 
 her thoughts, and thither she one day abruptly, and very unexpectedly
 
@@ -10127,7 +10127,7 @@ a grateful but absolute denial for both, in which she believed herself
 
 to be speaking their united inclinations. The reason alleged was their
 
-determined resolution of not leaving their mother at that time of the
+determined resolution of not leaving their mother at that [[Time|time]] of the
 
 year. Mrs. Jennings received the refusal with some surprise, and
 
@@ -10135,7 +10135,7 @@ repeated her invitation immediately.
 
 
 
-“Oh, Lord! I am sure your mother can spare you very well, and I _do_
+“Oh, Lord! I am sure your mother can spare you very [[Well|well]], and I _do_
 
 beg you will favour me with your company, for I’ve quite set my heart
 
@@ -10143,11 +10143,11 @@ upon it. Don’t fancy that you will be any inconvenience to me, for I
 
 shan’t put myself at all out of my way for you. It will only be sending
 
-Betty by the coach, and I hope I can afford _that_. We three shall be
+Betty by the coach, and I [[Hope|hope]] I can afford _that_. We three shall be
 
-able to go very well in my chaise; and when we are in town, if you do
+able to go very [[Well|well]] in my chaise; and when we are in town, if you do
 
-not like to go wherever I do, well and good, you may always go with one
+not like to go wherever I do, [[Well|well]] and good, you may always go with one
 
 of my daughters. I am sure your mother will not object to it; for I
 
@@ -10155,7 +10155,7 @@ have had such good luck in getting my own children off my hands that
 
 she will think me a very fit person to have the charge of you; and if I
 
-don’t get one of you at least well married before I have done with you,
+don’t get one of you at least [[Well|well]] married before I have done with you,
 
 it shall not be my fault. I shall speak a good word for you to all the
 
@@ -10191,7 +10191,7 @@ other, if not both of them, I must have. Lord bless me! how do you
 
 think I can live poking by myself, I who have been always used till
 
-this winter to have Charlotte with me. Come, Miss Marianne, let us
+this [[Winter|winter]] to have Charlotte with me. Come, Miss Marianne, let us
 
 strike hands upon the bargain, and if Miss Dashwood will change her
 
@@ -10217,7 +10217,7 @@ tempt me to leave her. It should not, must not be a struggle.”
 
 Mrs. Jennings repeated her assurance that Mrs. Dashwood could spare
 
-them perfectly well; and Elinor, who now understood her sister, and saw
+them perfectly [[Well|well]]; and Elinor, who now understood her sister, and saw
 
 to what indifference to almost every thing else she was carried by her
 
@@ -10239,7 +10239,7 @@ latter to cautiousness of conduct in an affair respecting which she had
 
 never been able to inspire her with distrust; and she dared not explain
 
-the motive of her own disinclination for going to London. That
+the motive of her own disinclination for going to [[London]]. That
 
 Marianne, fastidious as she was, thoroughly acquainted with Mrs.
 
@@ -10291,11 +10291,11 @@ any inconvenience to any one. It is very right that you _should_ go to
 
 town; I would have every young woman of your condition in life
 
-acquainted with the manners and amusements of London. You will be under
+acquainted with the manners and amusements of [[London]]. You will be under
 
 the care of a motherly good sort of woman, of whose kindness to you I
 
-can have no doubt. And in all probability you will see your brother,
+can have no [[Doubt|doubt]]. And in all probability you will see your brother,
 
 and whatever may be his faults, or the faults of his wife, when I
 
@@ -10327,7 +10327,7 @@ let me hear a word about the expense of it.”
 
 
 
-“My objection is this; though I think very well of Mrs. Jennings’s
+“My objection is this; though I think very [[Well|well]] of Mrs. Jennings’s
 
 heart, she is not a woman whose society can afford us pleasure, or
 
@@ -10367,11 +10367,11 @@ likewise, as she did not think it proper that Marianne should be left
 
 to the sole guidance of her own judgment, or that Mrs. Jennings should
 
-be abandoned to the mercy of Marianne for all the comfort of her
+be abandoned to the [[Mercy|mercy]] of Marianne for all the comfort of her
 
 domestic hours. To this determination she was the more easily
 
-reconciled, by recollecting that Edward Ferrars, by Lucy’s account, was
+reconciled, by recollecting that [[Edward Ferrars]], by Lucy’s account, was
 
 not to be in town before February; and that their visit, without any
 
@@ -10381,7 +10381,7 @@ unreasonable abridgement, might be previously finished.
 
 “I will have you _both_ go,” said Mrs. Dashwood; “these objections are
 
-nonsensical. You will have much pleasure in being in London, and
+nonsensical. You will have much pleasure in being in [[London]], and
 
 especially in being together; and if Elinor would ever condescend to
 
@@ -10397,11 +10397,11 @@ Elinor had often wished for an opportunity of attempting to weaken her
 
 mother’s dependence on the attachment of Edward and herself, that the
 
-shock might be less when the whole truth were revealed, and now on this
+shock might be less when the whole [[Truth|truth]] were revealed, and now on this
 
-attack, though almost hopeless of success, she forced herself to begin
+attack, though almost hopeless of [[success]], she forced herself to begin
 
-her design by saying, as calmly as she could, “I like Edward Ferrars
+her design by saying, as calmly as she could, “I like [[Edward Ferrars]]
 
 very much, and shall always be glad to see him; but as to the rest of
 
@@ -10413,7 +10413,7 @@ ever known to them or not.”
 
 Mrs. Dashwood smiled, and said nothing. Marianne lifted up her eyes in
 
-astonishment, and Elinor conjectured that she might as well have held
+astonishment, and Elinor conjectured that she might as [[Well|well]] have held
 
 her tongue.
 
@@ -10429,9 +10429,9 @@ and care; nor was it a matter of pleasure merely to her. Sir John was
 
 delighted; for to a man, whose prevailing anxiety was the dread of
 
-being alone, the acquisition of two, to the number of inhabitants in
+being [[Alone|alone]], the acquisition of two, to the number of inhabitants in
 
-London, was something. Even Lady Middleton took the trouble of being
+[[London]], was something. Even Lady Middleton took the trouble of being
 
 delighted, which was putting herself rather out of her way; and as for
 
@@ -10497,7 +10497,7 @@ CHAPTER XXVI.
 
 Elinor could not find herself in the carriage with Mrs. Jennings, and
 
-beginning a journey to London under her protection, and as her guest,
+beginning a [[Journey|journey]] to [[London]] under her protection, and as her guest,
 
 without wondering at her own situation, so short had their acquaintance
 
@@ -10509,11 +10509,11 @@ only a few days before! But these objections had all, with that happy
 
 ardour of youth which Marianne and her mother equally shared, been
 
-overcome or overlooked; and Elinor, in spite of every occasional doubt
+overcome or overlooked; and Elinor, in spite of every occasional [[Doubt|doubt]]
 
 of Willoughby’s constancy, could not witness the rapture of delightful
 
-expectation which filled the whole soul and beamed in the eyes of
+expectation which filled the whole [[Soul|soul]] and beamed in the eyes of
 
 Marianne, without feeling how blank was her own prospect, how cheerless
 
@@ -10521,9 +10521,9 @@ her own state of mind in the comparison, and how gladly she would
 
 engage in the solicitude of Marianne’s situation to have the same
 
-animating object in view, the same possibility of hope. A short, a very
+animating object in view, the same possibility of [[Hope|hope]]. A short, a very
 
-short time however must now decide what Willoughby’s intentions were;
+short [[Time|time]] however must now decide what Willoughby’s intentions were;
 
 in all probability he was already in town. Marianne’s eagerness to be
 
@@ -10543,7 +10543,7 @@ observations be unfavourable, she was determined at all events to open
 
 the eyes of her sister; should it be otherwise, her exertions would be
 
-of a different nature—she must then learn to avoid every selfish
+of a different [[Nature|nature]]—she must then learn to avoid every selfish
 
 comparison, and banish every regret which might lessen her satisfaction
 
@@ -10551,15 +10551,15 @@ in the happiness of Marianne.
 
 
 
-They were three days on their journey, and Marianne’s behaviour as they
+They were three days on their [[Journey|journey]], and Marianne’s behaviour as they
 
 travelled was a happy specimen of what future complaisance and
 
 companionableness to Mrs. Jennings might be expected to be. She sat in
 
-silence almost all the way, wrapt in her own meditations, and scarcely
+[[Silence|silence]] almost all the way, wrapt in her own meditations, and scarcely
 
-ever voluntarily speaking, except when any object of picturesque beauty
+ever voluntarily speaking, except when any object of picturesque [[Beauty|beauty]]
 
 within their view drew from her an exclamation of delight exclusively
 
@@ -10581,15 +10581,15 @@ own dinners at the inn, nor extort a confession of their preferring
 
 salmon to cod, or boiled fowls to veal cutlets. They reached town by
 
-three o’clock the third day, glad to be released, after such a journey,
+three o’[[Clock|clock]] the third day, glad to be released, after such a [[Journey|journey]],
 
 from the confinement of a carriage, and ready to enjoy all the luxury
 
-of a good fire.
+of a good [[Fire|fire]].
 
 
 
-The house was handsome, and handsomely fitted up, and the young ladies
+The [[house]] was handsome, and handsomely fitted up, and the young ladies
 
 were immediately put in possession of a very comfortable apartment. It
 
@@ -10607,7 +10607,7 @@ arrival, Elinor determined to employ the interval in writing to her
 
 mother, and sat down for that purpose. In a few moments Marianne did
 
-the same. “_I_ am writing home, Marianne,” said Elinor; “had not you
+the same. “_I_ am writing [[Home|home]], Marianne,” said Elinor; “had not you
 
 better defer your letter for a day or two?”
 
@@ -10661,7 +10661,7 @@ things were brought in, and already had Marianne been disappointed more
 
 than once by a rap at a neighbouring door, when a loud one was suddenly
 
-heard which could not be mistaken for one at any other house, Elinor
+heard which could not be mistaken for one at any other [[house]], Elinor
 
 felt secure of its announcing Willoughby’s approach, and Marianne,
 
@@ -10679,15 +10679,15 @@ she could not help exclaiming, “Oh, Elinor, it is Willoughby, indeed it
 
 is!” and seemed almost ready to throw herself into his arms, when
 
-Colonel Brandon appeared.
+[[Colonel Brandon]] appeared.
 
 
 
 It was too great a shock to be borne with calmness, and she immediately
 
-left the room. Elinor was disappointed too; but at the same time her
+left the room. Elinor was disappointed too; but at the same [[Time|time]] her
 
-regard for Colonel Brandon ensured his welcome with her; and she felt
+regard for [[Colonel Brandon]] ensured his welcome with her; and she felt
 
 particularly hurt that a man so partial to her sister should perceive
 
@@ -10719,9 +10719,9 @@ He heard her with the most earnest attention, but seeming to recollect
 
 himself, said no more on the subject, and began directly to speak of
 
-his pleasure at seeing them in London, making the usual inquiries about
+his pleasure at seeing them in [[London]], making the usual inquiries about
 
-their journey, and the friends they had left behind.
+their [[Journey|journey]], and the friends they had left behind.
 
 
 
@@ -10731,11 +10731,11 @@ they continued to talk, both of them out of spirits, and the thoughts
 
 of both engaged elsewhere. Elinor wished very much to ask whether
 
-Willoughby were then in town, but she was afraid of giving him pain by
+Willoughby were then in town, but she was afraid of giving him [[Pain|pain]] by
 
 any enquiry after his rival; and at length, by way of saying something,
 
-she asked if he had been in London ever since she had seen him last.
+she asked if he had been in [[London]] ever since she had seen him last.
 
 “Yes,” he replied, with some embarrassment, “almost ever since; I have
 
@@ -10765,9 +10765,9 @@ come before—beg your pardon, but I have been forced to look about me a
 
 little, and settle my matters; for it is a long while since I have been
 
-at home, and you know one has always a world of little odd things to do
+at [[Home|home]], and you know one has always a world of little odd things to do
 
-after one has been away for any time; and then I have had Cartwright to
+after one has been away for any [[Time|time]]; and then I have had Cartwright to
 
 settle with. Lord, I have been as busy as a bee ever since dinner! But
 
@@ -10783,19 +10783,19 @@ dining.”
 
 
 
-“Oh, you did; well, and how do they all do at their house? How does
+“Oh, you did; [[Well|well]], and how do they all do at their [[house]]? How does
 
-Charlotte do? I warrant you she is a fine size by this time.”
+Charlotte do? I warrant you she is a fine size by this [[Time|time]].”
 
 
 
-“Mrs. Palmer appeared quite well, and I am commissioned to tell you,
+“Mrs. Palmer appeared quite [[Well|well]], and I am commissioned to tell you,
 
 that you will certainly see her to-morrow.”
 
 
 
-“Ay, to be sure, I thought as much. Well, Colonel, I have brought two
+“Ay, to be sure, I thought as much. [[Well]], Colonel, I have brought two
 
 young ladies with me, you see—that is, you see but one of them now, but
 
@@ -10805,17 +10805,17 @@ will not be sorry to hear. I do not know what you and Mr. Willoughby
 
 will do between you about her. Ay, it is a fine thing to be young and
 
-handsome. Well! I was young once, but I never was very handsome—worse
+handsome. [[Well]]! I was young once, but I never was very handsome—worse
 
 luck for me. However, I got a very good husband, and I don’t know what
 
-the greatest beauty can do more. Ah! poor man! he has been dead these
+the greatest [[Beauty|beauty]] can do more. Ah! poor man! he has been dead these
 
 eight years and better. But Colonel, where have you been to since we
 
 parted? And how does your business go on? Come, come, let’s have no
 
-secrets among friends.”
+[[Secrets|secrets]] among friends.”
 
 
 
@@ -10827,7 +10827,7 @@ Marianne was obliged to appear again.
 
 
 
-After her entrance, Colonel Brandon became more thoughtful and silent
+After her entrance, [[Colonel Brandon]] became more thoughtful and silent
 
 than he had been before, and Mrs. Jennings could not prevail on him to
 
@@ -10837,7 +10837,7 @@ unanimous in agreeing to go early to bed.
 
 
 
-Marianne rose the next morning with recovered spirits and happy looks.
+Marianne [[Rose|rose]] the next morning with recovered spirits and happy looks.
 
 The disappointment of the evening before seemed forgotten in the
 
@@ -10855,7 +10855,7 @@ their coming to town, though it was what she had rather expected all
 
 along; so angry at their accepting her mother’s invitation after having
 
-declined her own, though at the same time she would never have forgiven
+declined her own, though at the same [[Time|time]] she would never have forgiven
 
 them if they had not come!
 
@@ -10901,7 +10901,7 @@ every where, her sister could never obtain her opinion of any article
 
 of purchase, however it might equally concern them both: she received
 
-no pleasure from anything; was only impatient to be at home again, and
+no pleasure from anything; was only impatient to be at [[Home|home]] again, and
 
 could with difficulty govern her vexation at the tediousness of Mrs.
 
@@ -10909,13 +10909,13 @@ Palmer, whose eye was caught by every thing pretty, expensive, or new;
 
 who was wild to buy all, could determine on none, and dawdled away her
 
-time in rapture and indecision.
+[[Time|time]] in rapture and indecision.
 
 
 
-It was late in the morning before they returned home; and no sooner had
+It was late in the morning before they returned [[Home|home]]; and no sooner had
 
-they entered the house than Marianne flew eagerly up stairs, and when
+they entered the [[house]] than Marianne flew eagerly up stairs, and when
 
 Elinor followed, she found her turning from the table with a sorrowful
 
@@ -10939,7 +10939,7 @@ The man replied that none had.
 
 “How very odd!” said she, in a low and disappointed voice, as she
 
-turned away to the window.
+turned away to the [[Window|window]].
 
 
 
@@ -10981,19 +10981,19 @@ engagements; and Elinor was obliged to assist in making a whist table
 
 for the others. Marianne was of no use on these occasions, as she would
 
-never learn the game; but though her time was therefore at her own
+never learn the game; but though her [[Time|time]] was therefore at her own
 
 disposal, the evening was by no means more productive of pleasure to
 
 her than to Elinor, for it was spent in all the anxiety of expectation
 
-and the pain of disappointment. She sometimes endeavoured for a few
+and the [[Pain|pain]] of disappointment. She sometimes endeavoured for a few
 
 minutes to read; but the book was soon thrown aside, and she returned
 
 to the more interesting employment of walking backwards and forwards
 
-across the room, pausing for a moment whenever she came to the window,
+across the room, pausing for a moment whenever she came to the [[Window|window]],
 
 in hopes of distinguishing the long-expected rap.
 
@@ -11025,7 +11025,7 @@ take it so much to heart.”
 
 “That is true,” cried Marianne, in a cheerful voice, and walking to the
 
-window as she spoke, to examine the day. “I had not thought of _that_.
+[[Window|window]] as she spoke, to examine the day. “I had not thought of _that_.
 
 This weather will keep many sportsmen in the country.”
 
@@ -11039,7 +11039,7 @@ down to the breakfast table with a happy countenance. “How much they
 
 must enjoy it! But” (with a little return of anxiety) “it cannot be
 
-expected to last long. At this time of the year, and after such a
+expected to last long. At this [[Time|time]] of the year, and after such a
 
 series of rain, we shall certainly have very little more of it. Frosts
 
@@ -11075,7 +11075,7 @@ But if she _did_, the letter was written and sent away with a privacy
 
 which eluded all her watchfulness to ascertain the fact. Whatever the
 
-truth of it might be, and far as Elinor was from feeling thorough
+[[Truth|truth]] of it might be, and far as Elinor was from feeling thorough
 
 contentment about it, yet while she saw Marianne in spirits, she could
 
@@ -11083,7 +11083,7 @@ not be very uncomfortable herself. And Marianne was in spirits; happy
 
 in the mildness of the weather, and still happier in her expectation of
 
-a frost.
+a [[Frost|frost]].
 
 
 
@@ -11091,7 +11091,7 @@ The morning was chiefly spent in leaving cards at the houses of Mrs.
 
 Jennings’s acquaintance to inform them of her being in town; and
 
-Marianne was all the time busy in observing the direction of the wind,
+Marianne was all the [[Time|time]] busy in observing the direction of the [[Wind|wind]],
 
 watching the variations of the sky and imagining an alteration in the
 
@@ -11113,11 +11113,11 @@ afternoon.”
 
 Elinor was alternately diverted and pained; but Marianne persevered,
 
-and saw every night in the brightness of the fire, and every morning in
+and saw every [[Night|night]] in the brightness of the [[Fire|fire]], and every morning in
 
 the appearance of the atmosphere, the certain symptoms of approaching
 
-frost.
+[[Frost|frost]].
 
 
 
@@ -11129,7 +11129,7 @@ behaviour to themselves, which was invariably kind. Every thing in her
 
 household arrangements was conducted on the most liberal plan, and
 
-excepting a few old city friends, whom, to Lady Middleton’s regret, she
+excepting a few old [[City|city]] friends, whom, to Lady Middleton’s regret, she
 
 had never dropped, she visited no one to whom an introduction could at
 
@@ -11139,19 +11139,19 @@ herself more comfortably situated in that particular than she had
 
 expected, Elinor was very willing to compound for the want of much real
 
-enjoyment from any of their evening parties, which, whether at home or
+enjoyment from any of their evening parties, which, whether at [[Home|home]] or
 
 abroad, formed only for cards, could have little to amuse her.
 
 
 
-Colonel Brandon, who had a general invitation to the house, was with
+[[Colonel Brandon]], who had a general invitation to the [[house]], was with
 
 them almost every day; he came to look at Marianne and talk to Elinor,
 
 who often derived more satisfaction from conversing with him than from
 
-any other daily occurrence, but who saw at the same time with much
+any other daily occurrence, but who saw at the same [[Time|time]] with much
 
 concern his continued regard for her sister. She feared it was a
 
@@ -11173,7 +11173,7 @@ morning’s drive.
 
 “Good God!” cried Marianne, “he has been here while we were out.”
 
-Elinor, rejoiced to be assured of his being in London, now ventured to
+Elinor, rejoiced to be assured of his being in [[London]], now ventured to
 
 say, “Depend upon it, he will call again tomorrow.” But Marianne seemed
 
@@ -11267,7 +11267,7 @@ Mrs. Jennings soon appeared, and the note being given her, she read it
 
 aloud. It was from Lady Middleton, announcing their arrival in Conduit
 
-Street the night before, and requesting the company of her mother and
+Street the [[Night|night]] before, and requesting the company of her mother and
 
 cousins the following evening. Business on Sir John’s part, and a
 
@@ -11297,13 +11297,13 @@ young people, and to amuse them with a ball. This was an affair,
 
 however, of which Lady Middleton did not approve. In the country, an
 
-unpremeditated dance was very allowable; but in London, where the
+unpremeditated [[Dance|dance]] was very allowable; but in [[London]], where the
 
 reputation of elegance was more important and less easily attained, it
 
 was risking too much for the gratification of a few girls, to have it
 
-known that Lady Middleton had given a small dance of eight or nine
+known that Lady Middleton had given a small [[Dance|dance]] of eight or nine
 
 couple, with two violins, and a mere side-board collation.
 
@@ -11329,9 +11329,9 @@ receive or communicate pleasure. After they had been assembled about an
 
 hour, Mr. Palmer sauntered towards the Miss Dashwoods to express his
 
-surprise on seeing them in town, though Colonel Brandon had been first
+surprise on seeing them in town, though [[Colonel Brandon]] had been first
 
-informed of their arrival at his house, and he had himself said
+informed of their arrival at his [[house]], and he had himself said
 
 something very droll on hearing that they were to come.
 
@@ -11353,7 +11353,7 @@ something very droll on hearing that they were to come.
 
 
 
-Never had Marianne been so unwilling to dance in her life, as she was
+Never had Marianne been so unwilling to [[Dance|dance]] in her life, as she was
 
 that evening, and never so much fatigued by the exercise. She
 
@@ -11363,9 +11363,9 @@ complained of it as they returned to Berkeley Street.
 
 “Aye, aye,” said Mrs. Jennings, “we know the reason of all that very
 
-well; if a certain person who shall be nameless, had been there, you
+[[Well|well]]; if a certain person who shall be nameless, had been there, you
 
-would not have been a bit tired: and to say the truth it was not very
+would not have been a bit tired: and to say the [[Truth|truth]] it was not very
 
 pretty of him not to give you the meeting when he was invited.”
 
@@ -11403,7 +11403,7 @@ business, and Elinor began her letter directly, while Marianne, too
 
 restless for employment, too anxious for conversation, walked from one
 
-window to the other, or sat down by the fire in melancholy meditation.
+[[Window|window]] to the other, or sat down by the [[Fire|fire]] in [[Melancholy|melancholy]] meditation.
 
 Elinor was very earnest in her application to her mother, relating all
 
@@ -11417,21 +11417,21 @@ of her real situation with respect to him.
 
 Her letter was scarcely finished, when a rap foretold a visitor, and
 
-Colonel Brandon was announced. Marianne, who had seen him from the
+[[Colonel Brandon]] was announced. Marianne, who had seen him from the
 
-window, and who hated company of any kind, left the room before he
+[[Window|window]], and who hated company of any kind, left the room before he
 
-entered it. He looked more than usually grave, and though expressing
+entered it. He looked more than usually [[Grave|grave]], and though expressing
 
-satisfaction at finding Miss Dashwood alone, as if he had somewhat in
+satisfaction at finding Miss Dashwood [[Alone|alone]], as if he had somewhat in
 
-particular to tell her, sat for some time without saying a word.
+particular to tell her, sat for some [[Time|time]] without saying a word.
 
 Elinor, persuaded that he had some communication to make in which her
 
 sister was concerned, impatiently expected its opening. It was not the
 
-first time of her feeling the same kind of conviction; for, more than
+first [[Time|time]] of her feeling the same kind of conviction; for, more than
 
 once before, beginning with the observation of “your sister looks
 
@@ -11439,7 +11439,7 @@ unwell to-day,” or “your sister seems out of spirits,” he had appeared
 
 on the point, either of disclosing, or of inquiring, something
 
-particular about her. After a pause of several minutes, their silence
+particular about her. After a pause of several minutes, their [[Silence|silence]]
 
 was broken, by his asking her in a voice of some agitation, when he was
 
@@ -11465,7 +11465,7 @@ He looked surprised and said, “I beg your pardon, I am afraid my
 
 inquiry has been impertinent; but I had not supposed any secrecy
 
-intended, as they openly correspond, and their marriage is universally
+intended, as they openly correspond, and their [[Marriage|marriage]] is universally
 
 talked of.”
 
@@ -11505,13 +11505,13 @@ concealment be possible, is all that remains.”
 
 
 
-These words, which conveyed to Elinor a direct avowal of his love for
+These words, which conveyed to Elinor a direct avowal of his [[Love|love]] for
 
 her sister, affected her very much. She was not immediately able to say
 
 anything, and even when her spirits were recovered, she debated for a
 
-short time, on the answer it would be most proper to give. The real
+short [[Time|time]], on the answer it would be most proper to give. The real
 
 state of things between Willoughby and her sister was so little known
 
@@ -11519,11 +11519,11 @@ to herself, that in endeavouring to explain it, she might be as liable
 
 to say too much as too little. Yet as she was convinced that Marianne’s
 
-affection for Willoughby, could leave no hope of Colonel Brandon’s
+affection for Willoughby, could leave no [[Hope|hope]] of [[Colonel Brandon]]’s
 
-success, whatever the event of that affection might be, and at the same
+[[success]], whatever the event of that affection might be, and at the same
 
-time wished to shield her conduct from censure, she thought it most
+[[Time|time]] wished to shield her conduct from censure, she thought it most
 
 prudent and kind, after some consideration, to say more than she really
 
@@ -11531,7 +11531,7 @@ knew or believed. She acknowledged, therefore, that though she had
 
 never been informed by themselves of the terms on which they stood with
 
-each other, of their mutual affection she had no doubt, and of their
+each other, of their mutual affection she had no [[Doubt|doubt]], and of their
 
 correspondence she was not astonished to hear.
 
@@ -11539,7 +11539,7 @@ correspondence she was not astonished to hear.
 
 He listened to her with silent attention, and on her ceasing to speak,
 
-rose directly from his seat, and after saying in a voice of emotion,
+[[Rose|rose]] directly from his seat, and after saying in a voice of emotion,
 
 “to your sister I wish all imaginable happiness; to Willoughby that he
 
@@ -11551,7 +11551,7 @@ Elinor derived no comfortable feelings from this conversation, to
 
 lessen the uneasiness of her mind on other points; she was left, on the
 
-contrary, with a melancholy impression of Colonel Brandon’s
+contrary, with a [[Melancholy|melancholy]] impression of [[Colonel Brandon]]’s
 
 unhappiness, and was prevented even from wishing it removed, by her
 
@@ -11575,7 +11575,7 @@ Nothing occurred during the next three or four days, to make Elinor
 
 regret what she had done, in applying to her mother; for Willoughby
 
-neither came nor wrote. They were engaged about the end of that time to
+neither came nor wrote. They were engaged about the end of that [[Time|time]] to
 
 attend Lady Middleton to a party, from which Mrs. Jennings was kept
 
@@ -11585,9 +11585,9 @@ Marianne, wholly dispirited, careless of her appearance, and seeming
 
 equally indifferent whether she went or staid, prepared, without one
 
-look of hope or one expression of pleasure. She sat by the drawing-room
+look of [[Hope|hope]] or one expression of pleasure. She sat by the drawing-room
 
-fire after tea, till the moment of Lady Middleton’s arrival, without
+[[Fire|fire]] after tea, till the moment of Lady Middleton’s arrival, without
 
 once stirring from her seat, or altering her attitude, lost in her own
 
@@ -11599,7 +11599,7 @@ started as if she had forgotten that any one was expected.
 
 
 
-They arrived in due time at the place of destination, and as soon as
+They arrived in due [[Time|time]] at the place of destination, and as soon as
 
 the string of carriages before them would allow, alighted, ascended the
 
@@ -11609,13 +11609,13 @@ in an audible voice, and entered a room splendidly lit up, quite full
 
 of company, and insufferably hot. When they had paid their tribute of
 
-politeness by curtsying to the lady of the house, they were permitted
+politeness by curtsying to the lady of the [[house]], they were permitted
 
 to mingle in the crowd, and take their share of the heat and
 
 inconvenience, to which their arrival must necessarily add. After some
 
-time spent in saying little or doing less, Lady Middleton sat down to
+[[Time|time]] spent in saying little or doing less, Lady Middleton sat down to
 
 Cassino, and as Marianne was not in spirits for moving about, she and
 
@@ -11655,7 +11655,7 @@ not look at me? why cannot I speak to him?”
 
 “Pray, pray be composed,” cried Elinor, “and do not betray what you
 
-feel to every body present. Perhaps he has not observed you yet.”
+feel to every [[Body|body]] present. Perhaps he has not observed you yet.”
 
 
 
@@ -11695,7 +11695,7 @@ letters? Will you not shake hands with me?”
 
 He could not then avoid it, but her touch seemed painful to him, and he
 
-held her hand only for a moment. During all this time he was evidently
+held her hand only for a moment. During all this [[Time|time]] he was evidently
 
 struggling for composure. Elinor watched his countenance and saw its
 
@@ -11705,11 +11705,11 @@ with calmness.
 
 
 
-“I did myself the honour of calling in Berkeley Street last Tuesday,
+“I did myself the [[Honour|honour]] of calling in Berkeley Street last Tuesday,
 
 and very much regretted that I was not fortunate enough to find
 
-yourselves and Mrs. Jennings at home. My card was not lost, I hope.”
+yourselves and Mrs. Jennings at [[Home|home]]. My card was not lost, I [[Hope|hope]].”
 
 
 
@@ -11745,7 +11745,7 @@ her chair, and Elinor, expecting every moment to see her faint, tried
 
 to screen her from the observation of others, while reviving her with
 
-lavender water.
+lavender [[Water|water]].
 
 
 
@@ -11777,7 +11777,7 @@ privacy and more effect, was impossible; for Marianne continued
 
 incessantly to give way in a low voice to the misery of her feelings,
 
-by exclamations of wretchedness. In a short time Elinor saw Willoughby
+by exclamations of wretchedness. In a short [[Time|time]] Elinor saw Willoughby
 
 quit the room by the door towards the staircase, and telling Marianne
 
@@ -11785,7 +11785,7 @@ that he was gone, urged the impossibility of speaking to him again that
 
 evening, as a fresh argument for her to be calm. She instantly begged
 
-her sister would entreat Lady Middleton to take them home, as she was
+her sister would entreat Lady Middleton to take them [[Home|home]], as she was
 
 too miserable to stay a minute longer.
 
@@ -11801,13 +11801,13 @@ departed as soon as the carriage could be found. Scarcely a word was
 
 spoken during their return to Berkeley Street. Marianne was in a silent
 
-agony, too much oppressed even for tears; but as Mrs. Jennings was
+agony, too much oppressed even for [[Tears|tears]]; but as Mrs. Jennings was
 
-luckily not come home, they could go directly to their own room, where
+luckily not come [[Home|home]], they could go directly to their own room, where
 
 hartshorn restored her a little to herself. She was soon undressed and
 
-in bed, and as she seemed desirous of being alone, her sister then left
+in bed, and as she seemed desirous of being [[Alone|alone]], her sister then left
 
 her, and while she waited the return of Mrs. Jennings, had leisure
 
@@ -11817,7 +11817,7 @@ enough for thinking over the past.
 
 That some kind of engagement had subsisted between Willoughby and
 
-Marianne she could not doubt, and that Willoughby was weary of it,
+Marianne she could not [[Doubt|doubt]], and that Willoughby was weary of it,
 
 seemed equally clear; for however Marianne might still feed her own
 
@@ -11839,7 +11839,7 @@ bear investigation. Absence might have weakened his regard, and
 
 convenience might have determined him to overcome it, but that such a
 
-regard had formerly existed she could not bring herself to doubt.
+regard had formerly existed she could not bring herself to [[Doubt|doubt]].
 
 
 
@@ -11875,17 +11875,17 @@ CHAPTER XXIX.
 
 
 
-Before the housemaid had lit their fire the next day, or the sun gained
+Before the housemaid had lit their [[Fire|fire]] the next day, or the sun gained
 
 any power over a cold, gloomy morning in January, Marianne, only half
 
-dressed, was kneeling against one of the window-seats for the sake of
+dressed, was kneeling against one of the [[Window|window]]-seats for the sake of
 
 all the little light she could command from it, and writing as fast as
 
-a continual flow of tears would permit her. In this situation, Elinor,
+a continual flow of [[Tears|tears]] would permit her. In this situation, Elinor,
 
-roused from sleep by her agitation and sobs, first perceived her; and
+roused from [[Sleep|sleep]] by her agitation and sobs, first perceived her; and
 
 after observing her for a few moments with silent anxiety, said, in a
 
@@ -11913,7 +11913,7 @@ obliged her, at intervals, to withhold her pen, were proofs enough of
 
 her feeling how more than probable it was that she was writing for the
 
-last time to Willoughby.
+last [[Time|time]] to Willoughby.
 
 
 
@@ -11931,9 +11931,9 @@ restless state of Marianne’s mind not only prevented her from remaining
 
 in the room a moment after she was dressed, but requiring at once
 
-solitude and continual change of place, made her wander about the house
+[[Solitude|solitude]] and continual change of place, made her wander about the [[house]]
 
-till breakfast time, avoiding the sight of every body.
+till breakfast [[Time|time]], avoiding the sight of every [[Body|body]].
 
 
 
@@ -11949,13 +11949,13 @@ engage Mrs. Jennings’s notice entirely to herself.
 
 As this was a favourite meal with Mrs. Jennings, it lasted a
 
-considerable time, and they were just setting themselves, after it,
+considerable [[Time|time]], and they were just setting themselves, after it,
 
 round the common working table, when a letter was delivered to
 
 Marianne, which she eagerly caught from the servant, and, turning of a
 
-death-like paleness, instantly ran out of the room. Elinor, who saw as
+[[Death|death]]-like paleness, instantly ran out of the room. Elinor, who saw as
 
 plainly by this, as if she had seen the direction, that it must come
 
@@ -11963,7 +11963,7 @@ from Willoughby, felt immediately such a sickness at heart as made her
 
 hardly able to hold up her head, and sat in such a general tremour as
 
-made her fear it impossible to escape Mrs. Jennings’s notice. That good
+made her [[Fear|fear]] it impossible to escape Mrs. Jennings’s notice. That good
 
 lady, however, saw only that Marianne had received a letter from
 
@@ -11979,13 +11979,13 @@ calmly continuing her talk, as soon as Marianne disappeared, she said,
 
 
 
-“Upon my word, I never saw a young woman so desperately in love in my
+“Upon my word, I never saw a young woman so desperately in [[Love|love]] in my
 
 life! _My_ girls were nothing to her, and yet they used to be foolish
 
 enough; but as for Miss Marianne, she is quite an altered creature. I
 
-hope, from the bottom of my heart, he won’t keep her waiting much
+[[Hope|hope]], from the [[Bottom|bottom]] of my heart, he won’t keep her waiting much
 
 longer, for it is quite grievous to see her look so ill and forlorn.
 
@@ -11999,7 +11999,7 @@ obliged herself to answer such an attack as this, and, therefore,
 
 trying to smile, replied, “And have you really, Ma’am, talked yourself
 
-into a persuasion of my sister’s being engaged to Mr. Willoughby? I
+into a [[Persuasion|persuasion]] of my sister’s being engaged to Mr. Willoughby? I
 
 thought it had been only a joke, but so serious a question seems to
 
@@ -12013,7 +12013,7 @@ more than to hear of their being going to be married.”
 
 “For shame, for shame, Miss Dashwood! how can you talk so? Don’t we all
 
-know that it must be a match, that they were over head and ears in love
+know that it must be a match, that they were over head and ears in [[Love|love]]
 
 with each other from the first moment they met? Did not I see them
 
@@ -12027,7 +12027,7 @@ yourself, you think nobody else has any senses; but it is no such
 
 thing, I can tell you, for it has been known all over town this ever so
 
-long. I tell every body of it and so does Charlotte.”
+long. I tell every [[Body|body]] of it and so does Charlotte.”
 
 
 
@@ -12053,11 +12053,11 @@ saying a word; and seating herself on the bed, took her hand, kissed
 
 her affectionately several times, and then gave way to a burst of
 
-tears, which at first was scarcely less violent than Marianne’s. The
+[[Tears|tears]], which at first was scarcely less violent than Marianne’s. The
 
 latter, though unable to speak, seemed to feel all the tenderness of
 
-this behaviour, and after some time thus spent in joint affliction, she
+this behaviour, and after some [[Time|time]] thus spent in joint affliction, she
 
 put all the letters into Elinor’s hands; and then covering her face
 
@@ -12065,7 +12065,7 @@ with her handkerchief, almost screamed with agony. Elinor, who knew
 
 that such grief, shocking as it was to witness it, must have its
 
-course, watched by her till this excess of suffering had somewhat spent
+course, watched by her till this excess of [[Suffering|suffering]] had somewhat spent
 
 itself, and then turning eagerly to Willoughby’s letter, read as
 
@@ -12081,17 +12081,17 @@ follows:
 
         MY DEAR MADAM,
 
-    “I have just had the honour of receiving your letter, for which I
+    “I have just had the [[Honour|honour]] of receiving your letter, for which I
 
     beg to return my sincere acknowledgments. I am much concerned to
 
-    find there was anything in my behaviour last night that did not
+    find there was anything in my behaviour last [[Night|night]] that did not
 
     meet your approbation; and though I am quite at a loss to discover
 
     in what point I could be so unfortunate as to offend you, I entreat
 
-    your forgiveness of what I can assure you to have been perfectly
+    your [[Forgiveness|forgiveness]] of what I can assure you to have been perfectly
 
     unintentional. I shall never reflect on my former acquaintance with
 
@@ -12131,7 +12131,7 @@ follows:
 
 “humble servant,
 
-“JOHN WILLOUGHBY.”
+“[[John Willoughby|JOHN WILLOUGHBY]].”
 
 
 
@@ -12153,9 +12153,9 @@ delicate feeling—so far from the common decorum of a gentleman, as to
 
 send a letter so impudently cruel: a letter which, instead of bringing
 
-with his desire of a release any professions of regret, acknowledged no
+with his [[Desire|desire]] of a release any professions of regret, acknowledged no
 
-breach of faith, denied all peculiar affection whatever—a letter of
+breach of [[Faith|faith]], denied all peculiar affection whatever—a letter of
 
 which every line was an insult, and which proclaimed its writer to be
 
@@ -12163,7 +12163,7 @@ deep in hardened villainy.
 
 
 
-She paused over it for some time with indignant astonishment; then read
+She paused over it for some [[Time|time]] with indignant astonishment; then read
 
 it again and again; but every perusal only served to increase her
 
@@ -12195,7 +12195,7 @@ sister, forgot that she had three letters on her lap yet unread, and so
 
 entirely forgot how long she had been in the room, that when on hearing
 
-a carriage drive up to the door, she went to the window to see who
+a carriage drive up to the door, she went to the [[Window|window]] to see who
 
 could be coming so unreasonably early, she was all astonishment to
 
@@ -12213,7 +12213,7 @@ its cause, admitted the excuse most readily, and Elinor, after seeing
 
 her safe off, returned to Marianne, whom she found attempting to rise
 
-from the bed, and whom she reached just in time to prevent her from
+from the bed, and whom she reached just in [[Time|time]] to prevent her from
 
 falling on the floor, faint and giddy from a long want of proper rest
 
@@ -12253,13 +12253,13 @@ miserable, indeed,” before her voice was entirely lost in sobs.
 
 Elinor could no longer witness this torrent of unresisted grief in
 
-silence.
+[[Silence|silence]].
 
 
 
 “Exert yourself, dear Marianne,” she cried, “if you would not kill
 
-yourself and all who love you. Think of your mother; think of her
+yourself and all who [[Love|love]] you. Think of your mother; think of her
 
 misery while _you_ suffer: for her sake you must exert yourself.”
 
@@ -12315,7 +12315,7 @@ can do away.”
 
 “You must not talk so, Marianne. Have you no comforts? no friends? Is
 
-your loss such as leaves no opening for consolation? Much as you suffer
+your loss such as [[Leaves|leaves]] no opening for consolation? Much as you suffer
 
 now, think of what you would have suffered if the discovery of his
 
@@ -12337,7 +12337,7 @@ on your side, would have made the blow more dreadful.”
 
 
 
-“No, he is not so unworthy as you believe him. He has broken no faith
+“No, he is not so unworthy as you believe him. He has broken no [[Faith|faith]]
 
 with me.”
 
@@ -12387,9 +12387,9 @@ you will feel something more than surprise, when you know that I am in
 
 town. An opportunity of coming hither, though with Mrs. Jennings, was a
 
-temptation we could not resist. I wish you may receive this in time to
+[[Temptation|temptation]] we could not resist. I wish you may receive this in [[Time|time]] to
 
-come here to-night, but I will not depend on it. At any rate I shall
+come here to-[[Night|night]], but I will not depend on it. At any rate I shall
 
 expect you to-morrow. For the present, adieu.
 
@@ -12403,7 +12403,7 @@ expect you to-morrow. For the present, adieu.
 
 
 
-Her second note, which had been written on the morning after the dance
+Her second note, which had been written on the morning after the [[Dance|dance]]
 
 at the Middletons’, was in these words:—
 
@@ -12419,17 +12419,17 @@ from you, and still more to see you, every hour of the day. Pray call
 
 again as soon as possible, and explain the reason of my having expected
 
-this in vain. You had better come earlier another time, because we are
+this in vain. You had better come earlier another [[Time|time]], because we are
 
-generally out by one. We were last night at Lady Middleton’s, where
+generally out by one. We were last [[Night|night]] at Lady Middleton’s, where
 
-there was a dance. I have been told that you were asked to be of the
+there was a [[Dance|dance]]. I have been told that you were asked to be of the
 
 party. But could it be so? You must be very much altered indeed since
 
 we parted, if that could be the case, and you not there. But I will not
 
-suppose this possible, and I hope very soon to receive your personal
+suppose this possible, and I [[Hope|hope]] very soon to receive your personal
 
 assurance of its being otherwise.
 
@@ -12447,7 +12447,7 @@ The contents of her last note to him were these:—
 
 
 
-“What am I to imagine, Willoughby, by your behaviour last night? Again
+“What am I to imagine, Willoughby, by your behaviour last [[Night|night]]? Again
 
 I demand an explanation of it. I was prepared to meet you with the
 
@@ -12455,7 +12455,7 @@ pleasure which our separation naturally produced, with the familiarity
 
 which our intimacy at Barton appeared to me to justify. I was repulsed
 
-indeed! I have passed a wretched night in endeavouring to excuse a
+indeed! I have passed a wretched [[Night|night]] in endeavouring to excuse a
 
 conduct which can scarcely be called less than insulting; but though I
 
@@ -12535,7 +12535,7 @@ he did. Whatever may have changed him now, (and nothing but the
 
 blackest art employed against me can have done it), I was once as dear
 
-to him as my own soul could wish. This lock of hair, which now he can
+to him as my own [[Soul|soul]] could wish. This lock of hair, which now he can
 
 so readily give up, was begged of me with the most earnest
 
@@ -12571,15 +12571,15 @@ instigated?”
 
 every creature of my acquaintance leagued together to ruin me in his
 
-opinion, than believe his nature capable of such cruelty. This woman of
+opinion, than believe his [[Nature|nature]] capable of such cruelty. This woman of
 
 whom he writes—whoever she be—or any one, in short, but your own dear
 
-self, mama, and Edward, may have been so barbarous to bely me. Beyond
+[[Self|self]], mama, and Edward, may have been so barbarous to bely me. Beyond
 
 you three, is there a creature in the world whom I would not rather
 
-suspect of evil than Willoughby, whose heart I know so well?”
+suspect of evil than Willoughby, whose heart I know so [[Well|well]]?”
 
 
 
@@ -12589,13 +12589,13 @@ detestably your enemy, let them be cheated of their malignant triumph,
 
 my dear sister, by seeing how nobly the consciousness of your own
 
-innocence and good intentions supports your spirits. It is a reasonable
+[[innocence]] and good intentions supports your spirits. It is a reasonable
 
-and laudable pride which resists such malevolence.”
+and laudable [[Pride|pride]] which resists such malevolence.”
 
 
 
-“No, no,” cried Marianne, “misery such as mine has no pride. I care not
+“No, no,” cried Marianne, “misery such as mine has no [[Pride|pride]]. I care not
 
 who knows that I am wretched. The triumph of seeing me so may be open
 
@@ -12621,7 +12621,7 @@ miserable—Oh! who can require it?”
 
 Again they were both silent. Elinor was employed in walking
 
-thoughtfully from the fire to the window, from the window to the fire,
+thoughtfully from the [[Fire|fire]] to the [[Window|window]], from the [[Window|window]] to the [[Fire|fire]],
 
 without knowing that she received warmth from one, or discerning
 
@@ -12673,7 +12673,7 @@ Another pause ensued; Marianne was greatly agitated, and it ended thus.
 
 
 
-“Elinor, I must go home. I must go and comfort mama. Can not we be gone
+“Elinor, I must go [[Home|home]]. I must go and comfort mama. Can not we be gone
 
 to-morrow?”
 
@@ -12697,7 +12697,7 @@ hasty removal as that.”
 
 
 
-“Well then, another day or two, perhaps; but I cannot stay here long, I
+“[[Well]] then, another day or two, perhaps; but I cannot stay here long, I
 
 cannot stay to endure the questions and remarks of all these people.
 
@@ -12709,17 +12709,17 @@ such a woman as Lady Middleton! Oh, what would _he_ say to that!”
 
 Elinor advised her to lie down again, and for a moment she did so; but
 
-no attitude could give her ease; and in restless pain of mind and body
+no attitude could give her ease; and in restless [[Pain|pain]] of mind and [[Body|body]]
 
 she moved from one posture to another, till growing more and more
 
 hysterical, her sister could with difficulty keep her on the bed at
 
-all, and for some time was fearful of being constrained to call for
+all, and for some [[Time|time]] was fearful of being constrained to call for
 
 assistance. Some lavender drops, however, which she was at length
 
-persuaded to take, were of use; and from that time till Mrs. Jennings
+persuaded to take, were of use; and from that [[Time|time]] till Mrs. Jennings
 
 returned, she continued on the bed quiet and motionless.
 
@@ -12751,7 +12751,7 @@ Marianne, who turned away her face without attempting to answer.
 
 
 
-“How is she, Miss Dashwood? Poor thing! she looks very bad. No wonder.
+“How is she, Miss Dashwood? Poor thing! she looks very bad. No [[Wonder|wonder]].
 
 Ay, it is but too true. He is to be married very soon—a
 
@@ -12761,11 +12761,11 @@ me of it half an hour ago, and she was told it by a particular friend
 
 of Miss Grey herself, else I am sure I should not have believed it; and
 
-I was almost ready to sink as it was. Well, said I, all I can say is,
+I was almost ready to sink as it was. [[Well]], said I, all I can say is,
 
 that if this be true, he has used a young lady of my acquaintance
 
-abominably ill, and I wish with all my soul his wife may plague his
+abominably ill, and I wish with all my [[Soul|soul]] his wife may plague his
 
 heart out. And so I shall always say, my dear, you may depend on it. I
 
@@ -12777,7 +12777,7 @@ day. But there is one comfort, my dear Miss Marianne; he is not the
 
 only young man in the world worth having; and with your pretty face you
 
-will never want admirers. Well, poor thing! I won’t disturb her any
+will never want admirers. [[Well]], poor thing! I won’t disturb her any
 
 longer, for she had better have her cry out at once and have done with.
 
@@ -12797,13 +12797,13 @@ Marianne, to the surprise of her sister, determined on dining with
 
 them. Elinor even advised her against it. But “no, she would go down;
 
-she could bear it very well, and the bustle about her would be less.”
+she could bear it very [[Well|well]], and the bustle about her would be less.”
 
 Elinor, pleased to have her governed for a moment by such a motive,
 
 though believing it hardly possible that she could sit out the dinner,
 
-said no more; and adjusting her dress for her as well as she could,
+said no more; and adjusting her dress for her as [[Well|well]] as she could,
 
 while Marianne still remained on the bed, was ready to assist her into
 
@@ -12815,7 +12815,7 @@ When there, though looking most wretchedly, she ate more and was calmer
 
 than her sister had expected. Had she tried to speak, or had she been
 
-conscious of half Mrs. Jennings’s well-meant but ill-judged attentions
+conscious of half Mrs. Jennings’s [[Well|well]]-meant but ill-judged attentions
 
 to her, this calmness could not have been maintained; but not a
 
@@ -12837,11 +12837,11 @@ Marianne was unhappy, and felt that every thing was due to her which
 
 might make her at all less so. She treated her therefore, with all the
 
-indulgent fondness of a parent towards a favourite child on the last
+indulgent fondness of a parent towards a favourite [[Child|child]] on the last
 
-day of its holidays. Marianne was to have the best place by the fire,
+day of its holidays. Marianne was to have the best place by the [[Fire|fire]],
 
-was to be tempted to eat by every delicacy in the house, and to be
+was to be tempted to eat by every delicacy in the [[house]], and to be
 
 amused by the relation of all the news of the day. Had not Elinor, in
 
@@ -12849,9 +12849,9 @@ the sad countenance of her sister, seen a check to all mirth, she could
 
 have been entertained by Mrs. Jennings’s endeavours to cure a
 
-disappointment in love, by a variety of sweetmeats and olives, and a
+disappointment in [[Love|love]], by a variety of sweetmeats and olives, and a
 
-good fire. As soon, however, as the consciousness of all this was
+good [[Fire|fire]]. As soon, however, as the consciousness of all this was
 
 forced by continual repetition on Marianne, she could stay no longer.
 
@@ -12861,7 +12861,7 @@ follow her, she directly got up and hurried out of the room.
 
 
 
-“Poor soul!” cried Mrs. Jennings, as soon as she was gone, “how it
+“Poor [[Soul|soul]]!” cried Mrs. Jennings, as soon as she was gone, “how it
 
 grieves me to see her! And I declare if she is not gone away without
 
@@ -12869,7 +12869,7 @@ finishing her wine! And the dried cherries too! Lord! nothing seems to
 
 do her any good. I am sure if I knew of any thing she would like, I
 
-would send all over the town for it. Well, it is the oddest thing to
+would send all over the town for it. [[Well]], it is the oddest thing to
 
 me, that a man should use such a pretty girl so ill! But when there is
 
@@ -12885,25 +12885,25 @@ you! they care no more about such things!—”
 
 “Fifty thousand pounds, my dear. Did you ever see her? a smart, stylish
 
-girl they say, but not handsome. I remember her aunt very well, Biddy
+girl they say, but not handsome. I remember her aunt very [[Well|well]], [[Biddy]]
 
 Henshawe; she married a very wealthy man. But the family are all rich
 
 together. Fifty thousand pounds! and by all accounts, it won’t come
 
-before it’s wanted; for they say he is all to pieces. No wonder!
+before it’s wanted; for they say he is all to pieces. No [[Wonder|wonder]]!
 
-dashing about with his curricle and hunters! Well, it don’t signify
+dashing about with his curricle and hunters! [[Well]], it don’t signify
 
-talking; but when a young man, be who he will, comes and makes love to
+talking; but when a young man, be who he will, comes and makes [[Love|love]] to
 
-a pretty girl, and promises marriage, he has no business to fly off
+a pretty girl, and promises [[Marriage|marriage]], he has no business to fly off
 
 from his word only because he grows poor, and a richer girl is ready to
 
-have him. Why don’t he, in such a case, sell his horses, let his house,
+have him. Why don’t he, in such a case, sell his horses, let his [[house]],
 
-turn off his servants, and make a thorough reform at once? I warrant
+turn off his servants, and make a thorough [[Reform|reform]] at once? I warrant
 
 you, Miss Marianne would have been ready to wait till matters came
 
@@ -12943,7 +12943,7 @@ moment—“your poor sister is gone to her own room, I suppose, to moan by
 
 herself. Is there nothing one can get to comfort her? Poor dear, it
 
-seems quite cruel to let her be alone. Well, by-and-by we shall have a
+seems quite cruel to let her be [[Alone|alone]]. [[Well]], by-and-by we shall have a
 
 few friends, and that will amuse her a little. What shall we play at?
 
@@ -12961,25 +12961,25 @@ can to go early to bed, for I am sure she wants rest.”
 
 “Aye, I believe that will be best for her. Let her name her own supper,
 
-and go to bed. Lord! no wonder she has been looking so bad and so cast
+and go to bed. Lord! no [[Wonder|wonder]] she has been looking so bad and so cast
 
 down this last week or two, for this matter I suppose has been hanging
 
 over her head as long as that. And so the letter that came today
 
-finished it! Poor soul! I am sure if I had had a notion of it, I would
+finished it! Poor [[Soul|soul]]! I am sure if I had had a notion of it, I would
 
 not have joked her about it for all my money. But then you know, how
 
 should I guess such a thing? I made sure of its being nothing but a
 
-common love letter, and you know young people like to be laughed at
+common [[Love|love]] letter, and you know young people like to be laughed at
 
 about them. Lord! how concerned Sir John and my daughters will be when
 
 they hear it! If I had my senses about me I might have called in
 
-Conduit Street in my way home, and told them of it. But I shall see
+Conduit Street in my way [[Home|home]], and told them of it. But I shall see
 
 them tomorrow.”
 
@@ -12989,7 +12989,7 @@ them tomorrow.”
 
 Sir John against ever naming Mr. Willoughby, or making the slightest
 
-allusion to what has passed, before my sister. Their own good-nature
+allusion to what has passed, before my sister. Their own good-[[Nature|nature]]
 
 must point out to them the real cruelty of appearing to know any thing
 
@@ -13005,7 +13005,7 @@ dear madam will easily believe.”
 
 it talked of; and as for your sister, I am sure I would not mention a
 
-word about it to her for the world. You saw I did not all dinner time.
+word about it to her for the world. You saw I did not all dinner [[Time|time]].
 
 No more would Sir John, nor my daughters, for they are all very
 
@@ -13033,7 +13033,7 @@ broken no positive engagement with my sister.”
 
 “Law, my dear! Don’t pretend to defend him. No positive engagement
 
-indeed! after taking her all over Allenham House, and fixing on the
+indeed! after taking her all over Allenham [[house|House]], and fixing on the
 
 very rooms they were to live in hereafter!”
 
@@ -13045,23 +13045,23 @@ she hoped it was not required of her for Willoughby’s; since, though
 
 Marianne might lose much, he could gain very little by the enforcement
 
-of the real truth. After a short silence on both sides, Mrs. Jennings,
+of the real [[Truth|truth]]. After a short [[Silence|silence]] on both sides, Mrs. Jennings,
 
 with all her natural hilarity, burst forth again.
 
 
 
-“Well, my dear, ’tis a true saying about an ill-wind, for it will be
+“[[Well]], my dear, ’tis a true saying about an ill-[[Wind|wind]], for it will be
 
-all the better for Colonel Brandon. He will have her at last; aye, that
+all the better for [[Colonel Brandon]]. He will have her at last; aye, that
 
-he will. Mind me, now, if they an’t married by Mid-summer. Lord! how
+he will. Mind me, now, if they an’t married by Mid-[[Summer|summer]]. Lord! how
 
-he’ll chuckle over this news! I hope he will come tonight. It will be
+he’ll chuckle over this news! I [[Hope|hope]] he will come tonight. It will be
 
 all to one a better match for your sister. Two thousand a year without
 
-debt or drawback—except the little love-child, indeed; aye, I had
+debt or drawback—except the little [[Love|love]]-[[Child|child]], indeed; aye, I had
 
 forgot her; but she may be ’prenticed out at a small cost, and then
 
@@ -13069,11 +13069,11 @@ what does it signify? Delaford is a nice place, I can tell you; exactly
 
 what I call a nice old fashioned place, full of comforts and
 
-conveniences; quite shut in with great garden walls that are covered
+conveniences; quite shut in with great [[Garden|garden]] walls that are covered
 
 with the best fruit-trees in the country; and such a mulberry tree in
 
-one corner! Lord! how Charlotte and I did stuff the only time we were
+one corner! Lord! how Charlotte and I did stuff the only [[Time|time]] we were
 
 there! Then, there is a dove-cote, some delightful stew-ponds, and a
 
@@ -13081,19 +13081,19 @@ very pretty canal; and every thing, in short, that one could wish for;
 
 and, moreover, it is close to the church, and only a quarter of a mile
 
-from the turnpike-road, so ’tis never dull, for if you only go and sit
+from the turnpike-[[Road|road]], so ’tis never dull, for if you only go and sit
 
-up in an old yew arbour behind the house, you may see all the carriages
+up in an old yew arbour behind the [[house]], you may see all the carriages
 
 that pass along. Oh! ’tis a nice place! A butcher hard by in the
 
-village, and the parsonage-house within a stone’s throw. To my fancy, a
+village, and the parsonage-[[house]] within a stone’s throw. To my fancy, a
 
 thousand times prettier than Barton Park, where they are forced to send
 
 three miles for their meat, and have not a neighbour nearer than your
 
-mother. Well, I shall spirit up the Colonel as soon as I can. One
+mother. [[Well]], I shall spirit up the Colonel as soon as I can. One
 
 shoulder of mutton, you know, drives another down. If we _can_ but put
 
@@ -13101,13 +13101,13 @@ Willoughby out of her head!”
 
 
 
-“Ay, if we can do _that_, Ma’am,” said Elinor, “we shall do very well
+“Ay, if we can do _that_, Ma’am,” said Elinor, “we shall do very [[Well|well]]
 
-with or without Colonel Brandon.” And then rising, she went away to
+with or without [[Colonel Brandon]].” And then rising, she went away to
 
 join Marianne, whom she found, as she expected, in her own room,
 
-leaning, in silent misery, over the small remains of a fire, which,
+leaning, in silent misery, over the small remains of a [[Fire|fire]], which,
 
 till Elinor’s entrance, had been her only light.
 
@@ -13121,9 +13121,9 @@ from her.
 
 “I will leave you,” said Elinor, “if you will go to bed.” But this,
 
-from the momentary perverseness of impatient suffering, she at first
+from the momentary perverseness of impatient [[Suffering|suffering]], she at first
 
-refused to do. Her sister’s earnest, though gentle persuasion, however,
+refused to do. Her sister’s earnest, though gentle [[Persuasion|persuasion]], however,
 
 soon softened her to compliance, and Elinor saw her lay her aching head
 
@@ -13141,7 +13141,7 @@ Mrs. Jennings, with a wine-glass, full of something, in her hand.
 
 “My dear,” said she, entering, “I have just recollected that I have
 
-some of the finest old Constantia wine in the house that ever was
+some of the finest old Constantia wine in the [[house]] that ever was
 
 tasted, so I have brought a glass of it for your sister. My poor
 
@@ -13157,7 +13157,7 @@ world. Do take it to your sister.”
 
 complaints for which it was recommended, “how good you are! But I have
 
-just left Marianne in bed, and, I hope, almost asleep; and as I think
+just left Marianne in bed, and, I [[Hope|hope]], almost asleep; and as I think
 
 nothing will be of so much service to her as rest, if you will give me
 
@@ -13179,7 +13179,7 @@ as on her sister.
 
 
 
-Colonel Brandon came in while the party were at tea, and by his manner
+[[Colonel Brandon]] came in while the party were at tea, and by his manner
 
 of looking round the room for Marianne, Elinor immediately fancied that
 
@@ -13191,7 +13191,7 @@ struck by the same thought; for soon after his entrance, she walked
 
 across the room to the tea-table where Elinor presided, and whispered,
 
-“The Colonel looks as grave as ever you see. He knows nothing of it; do
+“The Colonel looks as [[Grave|grave]] as ever you see. He knows nothing of it; do
 
 tell him, my dear.”
 
@@ -13205,7 +13205,7 @@ sister.
 
 
 
-“Marianne is not well,” said she. “She has been indisposed all day, and
+“Marianne is not [[Well|well]],” said she. “She has been indisposed all day, and
 
 we have persuaded her to go to bed.”
 
@@ -13213,7 +13213,7 @@ we have persuaded her to go to bed.”
 
 “Perhaps, then,” he hesitatingly replied, “what I heard this morning
 
-may be—there may be more truth in it than I could believe possible at
+may be—there may be more [[Truth|truth]] in it than I could believe possible at
 
 first.”
 
@@ -13233,7 +13233,7 @@ already, as surely you must, I may be spared.”
 
 “You mean,” answered Elinor, with forced calmness, “Mr. Willoughby’s
 
-marriage with Miss Grey. Yes, we _do_ know it all. This seems to have
+[[Marriage|marriage]] with Miss Grey. Yes, we _do_ know it all. This seems to have
 
 been a day of general elucidation, for this very morning first unfolded
 
@@ -13249,11 +13249,11 @@ an account of the intended match, in a voice so little attempting
 
 concealment, that it was impossible for me not to hear all. The name of
 
-Willoughby, John Willoughby, frequently repeated, first caught my
+Willoughby, [[John Willoughby]], frequently repeated, first caught my
 
 attention; and what followed was a positive assertion that every thing
 
-was now finally settled respecting his marriage with Miss Grey—it was
+was now finally settled respecting his [[Marriage|marriage]] with Miss Grey—it was
 
 no longer to be a secret—it would take place even within a few weeks,
 
@@ -13289,7 +13289,7 @@ your sister—how did she—”
 
 
 
-“Her sufferings have been very severe. I have only to hope that they
+“Her sufferings have been very severe. I have only to [[Hope|hope]] that they
 
 may be proportionately short. It has been, it is a most cruel
 
@@ -13303,7 +13303,7 @@ points, there seems a hardness of heart about him.”
 
 
 
-“Ah!” said Colonel Brandon, “there is, indeed! But your sister does
+“Ah!” said [[Colonel Brandon]], “there is, indeed! But your sister does
 
 not—I think you said so—she does not consider quite as you do?”
 
@@ -13327,7 +13327,7 @@ Dashwood’s communication, in such an instantaneous gaiety on Colonel
 
 Brandon’s side, as might have become a man in the bloom of youth, of
 
-hope and happiness, saw him, with amazement, remain the whole evening
+[[Hope|hope]] and happiness, saw him, with amazement, remain the whole evening
 
 more serious and thoughtful than usual.
 
@@ -13345,7 +13345,7 @@ CHAPTER XXXI.
 
 
 
-From a night of more sleep than she had expected, Marianne awoke the
+From a [[Night|night]] of more [[Sleep|sleep]] than she had expected, Marianne awoke the
 
 next morning to the same consciousness of misery in which she had
 
@@ -13363,7 +13363,7 @@ Elinor’s side, the same impetuous feelings and varying opinions on
 
 Marianne’s, as before. Sometimes she could believe Willoughby to be as
 
-unfortunate and as innocent as herself, and at others, lost every
+unfortunate and as [[Innocent|innocent]] as herself, and at others, lost every
 
 consolation in the impossibility of acquitting him. At one moment she
 
@@ -13375,7 +13375,7 @@ could resist it with energy. In one thing, however, she was uniform,
 
 when it came to the point, in avoiding, where it was possible, the
 
-presence of Mrs. Jennings, and in a determined silence when obliged to
+presence of Mrs. Jennings, and in a determined [[Silence|silence]] when obliged to
 
 endure it. Her heart was hardened against the belief of Mrs. Jennings’s
 
@@ -13385,7 +13385,7 @@ entering into her sorrows with any compassion.
 
 “No, no, no, it cannot be,” she cried; “she cannot feel. Her kindness
 
-is not sympathy; her good-nature is not tenderness. All that she wants
+is not sympathy; her good-[[Nature|nature]] is not tenderness. All that she wants
 
 is gossip, and she only likes me now because I supply it.”
 
@@ -13415,7 +13415,7 @@ in their own room after breakfast, which sunk the heart of Mrs.
 
 Jennings still lower in her estimation; because, through her own
 
-weakness, it chanced to prove a source of fresh pain to herself, though
+weakness, it chanced to prove a source of fresh [[Pain|pain]] to herself, though
 
 Mrs. Jennings was governed in it by an impulse of the utmost goodwill.
 
@@ -13423,7 +13423,7 @@ Mrs. Jennings was governed in it by an impulse of the utmost goodwill.
 
 With a letter in her outstretched hand, and countenance gaily smiling,
 
-from the persuasion of bringing comfort, she entered their room,
+from the [[Persuasion|persuasion]] of bringing comfort, she entered their room,
 
 saying,
 
@@ -13433,7 +13433,7 @@ saying,
 
 
 
-Marianne heard enough. In one moment her imagination placed before her
+Marianne heard enough. In one moment her [[Imagination|imagination]] placed before her
 
 a letter from Willoughby, full of tenderness and contrition,
 
@@ -13449,7 +13449,7 @@ hand writing of her mother, never till then unwelcome, was before her;
 
 and, in the acuteness of the disappointment which followed such an
 
-ecstasy of more than hope, she felt as if, till that instant, she had
+ecstasy of more than [[Hope|hope]], she felt as if, till that instant, she had
 
 never suffered.
 
@@ -13459,7 +13459,7 @@ The cruelty of Mrs. Jennings no language, within her reach in her
 
 moments of happiest eloquence, could have expressed; and now she could
 
-reproach her only by the tears which streamed from her eyes with
+reproach her only by the [[Tears|tears]] which streamed from her eyes with
 
 passionate violence—a reproach, however, so entirely lost on its
 
@@ -13483,7 +13483,7 @@ other, that she wept with agony through the whole of it.
 
 
 
-All her impatience to be at home again now returned; her mother was
+All her impatience to be at [[Home|home]] again now returned; her mother was
 
 dearer to her than ever; dearer through the very excess of her mistaken
 
@@ -13491,7 +13491,7 @@ confidence in Willoughby, and she was wildly urgent to be gone. Elinor,
 
 unable herself to determine whether it were better for Marianne to be
 
-in London or at Barton, offered no counsel of her own except of
+in [[London]] or at Barton, offered no counsel of her own except of
 
 patience till their mother’s wishes could be known; and at length she
 
@@ -13503,11 +13503,11 @@ Mrs. Jennings left them earlier than usual; for she could not be easy
 
 till the Middletons and Palmers were able to grieve as much as herself;
 
-and positively refusing Elinor’s offered attendance, went out alone for
+and positively refusing Elinor’s offered attendance, went out [[Alone|alone]] for
 
 the rest of the morning. Elinor, with a very heavy heart, aware of the
 
-pain she was going to communicate, and perceiving, by Marianne’s
+[[Pain|pain]] she was going to communicate, and perceiving, by Marianne’s
 
 letter, how ill she had succeeded in laying any foundation for it, then
 
@@ -13539,23 +13539,23 @@ safe.”
 
 
 
-Marianne moved to the window.
+Marianne moved to the [[Window|window]].
 
 
 
-“It is Colonel Brandon!” said she, with vexation. “We are never safe
+“It is [[Colonel Brandon]]!” said she, with vexation. “We are never safe
 
 from _him_.”
 
 
 
-“He will not come in, as Mrs. Jennings is from home.”
+“He will not come in, as Mrs. Jennings is from [[Home|home]].”
 
 
 
 “I will not trust to _that_,” retreating to her own room. “A man who
 
-has nothing to do with his own time has no conscience in his intrusion
+has nothing to do with his own [[Time|time]] has no [[Conscience|conscience]] in his intrusion
 
 on that of others.”
 
@@ -13563,11 +13563,11 @@ on that of others.”
 
 The event proved her conjecture right, though it was founded on
 
-injustice and error; for Colonel Brandon _did_ come in; and Elinor, who
+injustice and error; for [[Colonel Brandon]] _did_ come in; and Elinor, who
 
 was convinced that solicitude for Marianne brought him thither, and who
 
-saw _that_ solicitude in his disturbed and melancholy look, and in his
+saw _that_ solicitude in his disturbed and [[Melancholy|melancholy]] look, and in his
 
 anxious though brief inquiry after her, could not forgive her sister
 
@@ -13581,9 +13581,9 @@ salutation, “and she encouraged me to come on; and I was the more
 
 easily encouraged, because I thought it probable that I might find you
 
-alone, which I was very desirous of doing. My object—my wish—my sole
+[[Alone|alone]], which I was very desirous of doing. My object—my wish—my sole
 
-wish in desiring it—I hope, I believe it is—is to be a means of giving
+wish in desiring it—I [[Hope|hope]], I believe it is—is to be a means of giving
 
 comfort;—no, I must not say comfort—not present comfort—but conviction,
 
@@ -13593,11 +13593,11 @@ yourself, for your mother—will you allow me to prove it, by relating
 
 some circumstances which nothing but a _very_ sincere regard—nothing
 
-but an earnest desire of being useful—I think I am justified—though
+but an earnest [[Desire|desire]] of being useful—I think I am justified—though
 
 where so many hours have been spent in convincing myself that I am
 
-right, is there not some reason to fear I may be wrong?” He stopped.
+right, is there not some reason to [[Fear|fear]] I may be wrong?” He stopped.
 
 
 
@@ -13605,11 +13605,11 @@ right, is there not some reason to fear I may be wrong?” He stopped.
 
 Willoughby, that will open his character farther. Your telling it will
 
-be the greatest act of friendship that can be shown Marianne. _My_
+be the greatest act of [[Friendship|friendship]] that can be shown Marianne. _My_
 
 gratitude will be insured immediately by any information tending to
 
-that end, and _hers_ must be gained by it in time. Pray, pray let me
+that end, and _hers_ must be gained by it in [[Time|time]]. Pray, pray let me
 
 hear it.”
 
@@ -13625,7 +13625,7 @@ short account of myself, I believe, will be necessary, and it _shall_
 
 be a short one. On such a subject,” sighing heavily, “can I have little
 
-temptation to be diffuse.”
+[[Temptation|temptation]] to be diffuse.”
 
 
 
@@ -13639,7 +13639,7 @@ on.
 
 supposed that it could make any impression on you)—a conversation
 
-between us one evening at Barton Park—it was the evening of a dance—in
+between us one evening at Barton Park—it was the evening of a [[Dance|dance]]—in
 
 which I alluded to a lady I had once known, as resembling, in some
 
@@ -13655,17 +13655,17 @@ pleased by this remembrance, and added,
 
 “If I am not deceived by the uncertainty, the partiality of tender
 
-recollection, there is a very strong resemblance between them, as well
+recollection, there is a very strong resemblance between them, as [[Well|well]]
 
 in mind as person. The same warmth of heart, the same eagerness of
 
-fancy and spirits. This lady was one of my nearest relations, an orphan
+fancy and spirits. This lady was one of my nearest relations, an [[Orphan|orphan]]
 
 from her infancy, and under the guardianship of my father. Our ages
 
 were nearly the same, and from our earliest years we were playfellows
 
-and friends. I cannot remember the time when I did not love Eliza; and
+and friends. I cannot remember the [[Time|time]] when I did not [[Love|love]] Eliza; and
 
 my affection for her, as we grew up, was such, as perhaps, judging from
 
@@ -13681,13 +13681,13 @@ for ever. She was married—married against her inclination to my
 
 brother. Her fortune was large, and our family estate much encumbered.
 
-And this, I fear, is all that can be said for the conduct of one, who
+And this, I [[Fear|fear]], is all that can be said for the conduct of one, who
 
 was at once her uncle and guardian. My brother did not deserve her; he
 
-did not even love her. I had hoped that her regard for me would support
+did not even [[Love|love]] her. I had hoped that her regard for me would support
 
-her under any difficulty, and for some time it did; but at last the
+her under any difficulty, and for some [[Time|time]] it did; but at last the
 
 misery of her situation, for she experienced great unkindness, overcame
 
@@ -13699,13 +13699,13 @@ were within a few hours of eloping together for Scotland. The
 
 treachery, or the folly, of my cousin’s maid betrayed us. I was
 
-banished to the house of a relation far distant, and she was allowed no
+banished to the [[house]] of a relation far distant, and she was allowed no
 
 liberty, no society, no amusement, till my father’s point was gained. I
 
 had depended on her fortitude too far, and the blow was a severe
 
-one—but had her marriage been happy, so young as I then was, a few
+one—but had her [[Marriage|marriage]] been happy, so young as I then was, a few
 
 months must have reconciled me to it, or at least I should not have now
 
@@ -13721,25 +13721,25 @@ natural. She resigned herself at first to all the misery of her
 
 situation; and happy had it been if she had not lived to overcome those
 
-regrets which the remembrance of me occasioned. But can we wonder that,
+regrets which the remembrance of me occasioned. But can we [[Wonder|wonder]] that,
 
 with such a husband to provoke inconstancy, and without a friend to
 
 advise or restrain her (for my father lived only a few months after
 
-their marriage, and I was with my regiment in the East Indies) she
+their [[Marriage|marriage]], and I was with my regiment in the East Indies) she
 
 should fall? Had I remained in England, perhaps—but I meant to promote
 
 the happiness of both by removing from her for years, and for that
 
-purpose had procured my exchange. The shock which her marriage had
+purpose had procured my exchange. The shock which her [[Marriage|marriage]] had
 
 given me,” he continued, in a voice of great agitation, “was of
 
 trifling weight—was nothing to what I felt when I heard, about two
 
-years afterwards, of her divorce. It was _that_ which threw this
+years afterwards, of her [[divorce]]. It was _that_ which threw this
 
 gloom,—even now the recollection of what I suffered—”
 
@@ -13761,11 +13761,11 @@ minutes more of silent exertion enabled him to proceed with composure.
 
 to England. My first care, when I _did_ arrive, was of course to seek
 
-for her; but the search was as fruitless as it was melancholy. I could
+for her; but the search was as fruitless as it was [[Melancholy|melancholy]]. I could
 
 not trace her beyond her first seducer, and there was every reason to
 
-fear that she had removed from him only to sink deeper in a life of
+[[Fear|fear]] that she had removed from him only to sink deeper in a life of
 
 sin. Her legal allowance was not adequate to her fortune, nor
 
@@ -13783,13 +13783,13 @@ had been six months in England, I _did_ find her. Regard for a former
 
 servant of my own, who had since fallen into misfortune, carried me to
 
-visit him in a spunging-house, where he was confined for debt; and
+visit him in a spunging-[[house]], where he was confined for debt; and
 
-there, in the same house, under a similar confinement, was my
+there, in the same [[house]], under a similar confinement, was my
 
-unfortunate sister. So altered—so faded—worn down by acute suffering of
+unfortunate sister. So altered—so faded—worn down by acute [[Suffering|suffering]] of
 
-every kind! hardly could I believe the melancholy and sickly figure
+every kind! hardly could I believe the [[Melancholy|melancholy]] and sickly figure
 
 before me, to be the remains of the lovely, blooming, healthful girl,
 
@@ -13801,9 +13801,9 @@ pained you too much already. That she was, to all appearance, in the
 
 last stage of a consumption, was—yes, in such a situation it was my
 
-greatest comfort. Life could do nothing for her, beyond giving time for
+greatest comfort. Life could do nothing for her, beyond giving [[Time|time]] for
 
-a better preparation for death; and that was given. I saw her placed in
+a better preparation for [[Death|death]]; and that was given. I saw her placed in
 
 comfortable lodgings, and under proper attendants; I visited her every
 
@@ -13821,7 +13821,7 @@ friend.
 
 
 
-“Your sister, I hope, cannot be offended,” said he, “by the resemblance
+“Your sister, I [[Hope|hope]], cannot be offended,” said he, “by the resemblance
 
 I have fancied between her and my poor disgraced relation. Their fates,
 
@@ -13829,7 +13829,7 @@ their fortunes, cannot be the same; and had the natural sweet
 
 disposition of the one been guarded by a firmer mind, or a happier
 
-marriage, she might have been all that you will live to see the other
+[[Marriage|marriage]], she might have been all that you will live to see the other
 
 be. But to what does all this lead? I seem to have been distressing you
 
@@ -13837,27 +13837,27 @@ for nothing. Ah! Miss Dashwood—a subject such as this—untouched for
 
 fourteen years—it is dangerous to handle it at all! I _will_ be more
 
-collected—more concise. She left to my care her only child, a little
+collected—more concise. She left to my care her only [[Child|child]], a little
 
 girl, the offspring of her first guilty connection, who was then about
 
-three years old. She loved the child, and had always kept it with her.
+three years old. She loved the [[Child|child]], and had always kept it with her.
 
 It was a valued, a precious trust to me; and gladly would I have
 
-discharged it in the strictest sense, by watching over her education
+discharged it in the strictest sense, by watching over her [[Education|education]]
 
-myself, had the nature of our situations allowed it; but I had no
+myself, had the [[Nature|nature]] of our situations allowed it; but I had no
 
-family, no home; and my little Eliza was therefore placed at school. I
+family, no [[Home|home]]; and my little Eliza was therefore placed at school. I
 
-saw her there whenever I could, and after the death of my brother,
+saw her there whenever I could, and after the [[Death|death]] of my brother,
 
 (which happened about five years ago, and which left to me the
 
 possession of the family property,) she visited me at Delaford. I
 
-called her a distant relation; but I am well aware that I have in
+called her a distant relation; but I am [[Well|well]] aware that I have in
 
 general been suspected of a much nearer connection with her. It is now
 
@@ -13867,27 +13867,27 @@ removed her from school, to place her under the care of a very
 
 respectable woman, residing in Dorsetshire, who had the charge of four
 
-or five other girls of about the same time of life; and for two years I
+or five other girls of about the same [[Time|time]] of life; and for two years I
 
 had every reason to be pleased with her situation. But last February,
 
 almost a twelvemonth back, she suddenly disappeared. I had allowed her,
 
-(imprudently, as it has since turned out,) at her earnest desire, to go
+(imprudently, as it has since turned out,) at her earnest [[Desire|desire]], to go
 
 to Bath with one of her young friends, who was attending her father
 
 there for his health. I knew him to be a very good sort of man, and I
 
-thought well of his daughter—better than she deserved, for, with a most
+thought [[Well|well]] of his daughter—better than she deserved, for, with a most
 
 obstinate and ill-judged secrecy, she would tell nothing, would give no
 
-clue, though she certainly knew all. He, her father, a well-meaning,
+clue, though she certainly knew all. He, her father, a [[Well|well]]-meaning,
 
 but not a quick-sighted man, could really, I believe, give no
 
-information; for he had been generally confined to the house, while the
+information; for he had been generally confined to the [[house]], while the
 
 girls were ranging over the town and making what acquaintance they
 
@@ -13915,7 +13915,7 @@ Delaford, and I received it on the very morning of our intended party
 
 to Whitwell; and this was the reason of my leaving Barton so suddenly,
 
-which I am sure must at the time have appeared strange to every body,
+which I am sure must at the [[Time|time]] have appeared strange to every [[Body|body]],
 
 and which I believe gave offence to some. Little did Mr. Willoughby
 
@@ -13931,9 +13931,9 @@ of your sister? No, he had already done that, which no man who _can_
 
 feel for another would do. He had left the girl whose youth and
 
-innocence he had seduced, in a situation of the utmost distress, with
+[[innocence]] he had seduced, in a situation of the utmost distress, with
 
-no creditable home, no help, no friends, ignorant of his address! He
+no creditable [[Home|home]], no help, no friends, ignorant of his address! He
 
 had left her, promising to return; he neither returned, nor wrote, nor
 
@@ -13953,17 +13953,17 @@ must have felt on seeing your sister as fond of him as ever, and on
 
 being assured that she was to marry him: guess what I must have felt
 
-for all your sakes. When I came to you last week and found you alone, I
+for all your sakes. When I came to you last week and found you [[Alone|alone]], I
 
-came determined to know the truth; though irresolute what to do when it
+came determined to know the [[Truth|truth]]; though irresolute what to do when it
 
 _was_ known. My behaviour must have seemed strange to you then; but now
 
 you will comprehend it. To suffer you all to be so deceived; to see
 
-your sister—but what could I do? I had no hope of interfering with
+your sister—but what could I do? I had no [[Hope|hope]] of interfering with
 
-success; and sometimes I thought your sister’s influence might yet
+[[success]]; and sometimes I thought your sister’s influence might yet
 
 reclaim him. But now, after such dishonorable usage, who can tell what
 
@@ -13977,7 +13977,7 @@ considers the wretched and hopeless situation of this poor girl, and
 
 pictures her to herself, with an affection for him so strong, still as
 
-strong as her own, and with a mind tormented by self-reproach, which
+strong as her own, and with a mind tormented by [[Self|self]]-reproach, which
 
 must attend her through life. Surely this comparison must have its use
 
@@ -14021,7 +14021,7 @@ perfect conviction of his unworthiness can do. Now, though at first she
 
 will suffer much, I am sure she will soon become easier. Have you,” she
 
-continued, after a short silence, “ever seen Mr. Willoughby since you
+continued, after a short [[Silence|silence]], “ever seen Mr. Willoughby since you
 
 left him at Barton?”
 
@@ -14041,7 +14041,7 @@ Elinor, startled by his manner, looked at him anxiously, saying,
 
 “I could meet him no other way. Eliza had confessed to me, though most
 
-reluctantly, the name of her lover; and when he returned to town, which
+reluctantly, the name of her [[Lover|lover]]; and when he returned to town, which
 
 was within a fortnight after myself, we met by appointment, he to
 
@@ -14057,7 +14057,7 @@ soldier she presumed not to censure it.
 
 
 
-“Such,” said Colonel Brandon, after a pause, “has been the unhappy
+“Such,” said [[Colonel Brandon]], after a pause, “has been the unhappy
 
 resemblance between the fate of mother and daughter! and so imperfectly
 
@@ -14071,7 +14071,7 @@ have I discharged my trust!”
 
 “No; as soon as she recovered from her lying-in, for I found her near
 
-her delivery, I removed her and her child into the country, and there
+her delivery, I removed her and her [[Child|child]] into the country, and there
 
 she remains.”
 
@@ -14105,19 +14105,19 @@ Dashwood to her sister, as they very soon were, the effect on her was
 
 not entirely such as the former had hoped to see. Not that Marianne
 
-appeared to distrust the truth of any part of it, for she listened to
+appeared to distrust the [[Truth|truth]] of any part of it, for she listened to
 
 it all with the most steady and submissive attention, made neither
 
 objection nor remark, attempted no vindication of Willoughby, and
 
-seemed to show by her tears that she felt it to be impossible. But
+seemed to show by her [[Tears|tears]] that she felt it to be impossible. But
 
-though this behaviour assured Elinor that the conviction of this guilt
+though this behaviour assured Elinor that the conviction of this [[Guilt|guilt]]
 
-_was_ carried home to her mind, though she saw with satisfaction the
+_was_ carried [[Home|home]] to her mind, though she saw with satisfaction the
 
-effect of it, in her no longer avoiding Colonel Brandon when he called,
+effect of it, in her no longer avoiding [[Colonel Brandon]] when he called,
 
 in her speaking to him, even voluntarily speaking, with a kind of
 
@@ -14131,13 +14131,13 @@ loss of Willoughby’s character yet more heavily than she had felt the
 
 loss of his heart; his seduction and desertion of Miss Williams, the
 
-misery of that poor girl, and the doubt of what his designs might
+misery of that poor girl, and the [[Doubt|doubt]] of what his designs might
 
 _once_ have been on herself, preyed altogether so much on her spirits,
 
 that she could not bring herself to speak of what she felt even to
 
-Elinor; and, brooding over her sorrows in silence, gave more pain to
+Elinor; and, brooding over her sorrows in [[Silence|silence]], gave more [[Pain|pain]] to
 
 her sister than could have been communicated by the most open and most
 
@@ -14159,7 +14159,7 @@ to tell all that she suffered and thought; to express her anxious
 
 solicitude for Marianne, and entreat she would bear up with fortitude
 
-under this misfortune. Bad indeed must the nature of Marianne’s
+under this misfortune. Bad indeed must the [[Nature|nature]] of Marianne’s
 
 affliction be, when her mother could talk of fortitude! mortifying and
 
@@ -14173,7 +14173,7 @@ Against the interest of her own individual comfort, Mrs. Dashwood had
 
 determined that it would be better for Marianne to be any where, at
 
-that time, than at Barton, where every thing within her view would be
+that [[Time|time]], than at Barton, where every thing within her view would be
 
 bringing back the past in the strongest and most afflicting manner, by
 
@@ -14207,11 +14207,11 @@ friends. Design could never bring them in each other’s way: negligence
 
 could never leave them exposed to a surprise; and chance had less in
 
-its favour in the crowd of London than even in the retirement of
+its favour in the crowd of [[London]] than even in the retirement of
 
 Barton, where it might force him before her while paying that visit at
 
-Allenham on his marriage, which Mrs. Dashwood, from foreseeing at first
+Allenham on his [[Marriage|marriage]], which Mrs. Dashwood, from foreseeing at first
 
 as a probable event, had brought herself to expect as a certain one.
 
@@ -14235,7 +14235,7 @@ perfectly different from what she wished and expected, though she felt
 
 it to be entirely wrong, formed on mistaken grounds, and that by
 
-requiring her longer continuance in London it deprived her of the only
+requiring her longer continuance in [[London]] it deprived her of the only
 
 possible alleviation of her wretchedness, the personal sympathy of her
 
@@ -14277,7 +14277,7 @@ after day to the indignation of them all.
 
 Sir John, could not have thought it possible. “A man of whom he had
 
-always had such reason to think well! Such a good-natured fellow! He
+always had such reason to think [[Well|well]]! Such a good-natured fellow! He
 
 did not believe there was a bolder rider in England! It was an
 
@@ -14289,7 +14289,7 @@ all the world! No, not if it were to be by the side of Barton covert,
 
 and they were kept watching for two hours together. Such a scoundrel of
 
-a fellow! such a deceitful dog! It was only the last time they met that
+a fellow! such a deceitful dog! It was only the last [[Time|time]] they met that
 
 he had offered him one of Folly’s puppies! and this was the end of it!”
 
@@ -14313,7 +14313,7 @@ everybody she saw, how good-for-nothing he was.”
 
 The rest of Mrs. Palmer’s sympathy was shown in procuring all the
 
-particulars in her power of the approaching marriage, and communicating
+particulars in her power of the approaching [[Marriage|marriage]], and communicating
 
 them to Elinor. She could soon tell at what coachmaker’s the new
 
@@ -14345,7 +14345,7 @@ moment, to more than its real value; and she was sometimes worried down
 
 by officious condolence to rate good-breeding as more indispensable to
 
-comfort than good-nature.
+comfort than good-[[Nature|nature]].
 
 
 
@@ -14375,7 +14375,7 @@ as she married.
 
 
 
-Colonel Brandon’s delicate, unobtrusive enquiries were never unwelcome
+[[Colonel Brandon]]’s delicate, unobtrusive enquiries were never unwelcome
 
 to Miss Dashwood. He had abundantly earned the privilege of intimate
 
@@ -14399,7 +14399,7 @@ _these_ gave Elinor hopes of its being farther augmented hereafter; but
 
 Mrs. Jennings, who knew nothing of all this, who knew only that the
 
-Colonel continued as grave as ever, and that she could neither prevail
+Colonel continued as [[Grave|grave]] as ever, and that she could neither prevail
 
 on him to make the offer himself, nor commission her to make it for
 
@@ -14413,7 +14413,7 @@ between the Colonel and Miss Dashwood seemed rather to declare that the
 
 honours of the mulberry-tree, the canal, and the yew arbour, would all
 
-be made over to _her;_ and Mrs. Jennings had, for some time ceased to
+be made over to _her;_ and Mrs. Jennings had, for some [[Time|time]] ceased to
 
 think at all of Mrs. Ferrars.
 
@@ -14435,7 +14435,7 @@ the public papers, which she saw her eagerly examining every morning.
 
 She received the news with resolute composure; made no observation on
 
-it, and at first shed no tears; but after a short time they would burst
+it, and at first shed no [[Tears|tears]]; but after a short [[Time|time]] they would burst
 
 out, and for the rest of the day, she was in a state hardly less
 
@@ -14447,15 +14447,15 @@ The Willoughbys left town as soon as they were married; and Elinor now
 
 hoped, as there could be no danger of her seeing either of them, to
 
-prevail on her sister, who had never yet left the house since the blow
+prevail on her sister, who had never yet left the [[house]] since the blow
 
 first fell, to go out again by degrees as she had done before.
 
 
 
-About this time the two Miss Steeles, lately arrived at their cousin’s
+About this [[Time|time]] the two Miss Steeles, lately arrived at their cousin’s
 
-house in Bartlett’s Buildings, Holburn, presented themselves again
+[[house]] in Bartlett’s Buildings, Holburn, presented themselves again
 
 before their more grand relations in Conduit and Berkeley Streets; and
 
@@ -14463,7 +14463,7 @@ were welcomed by them all with great cordiality.
 
 
 
-Elinor only was sorry to see them. Their presence always gave her pain,
+Elinor only was sorry to see them. Their presence always gave her [[Pain|pain]],
 
 and she hardly knew how to make a very gracious return to the
 
@@ -14477,9 +14477,9 @@ _still_,” said she repeatedly, with a strong emphasis on the word. “But
 
 I always thought I _should_. I was almost sure you would not leave
 
-London yet awhile; though you _told_ me, you know, at Barton, that you
+[[London]] yet awhile; though you _told_ me, you know, at Barton, that you
 
-should not stay above a _month_. But I thought, at the time, that you
+should not stay above a _month_. But I thought, at the [[Time|time]], that you
 
 would most likely change your mind when it came to the point. It would
 
@@ -14493,11 +14493,11 @@ am amazingly glad you did not keep to _your word_.”
 
 Elinor perfectly understood her, and was forced to use all her
 
-self-command to make it appear that she did _not_.
+[[Self|self]]-command to make it appear that she did _not_.
 
 
 
-“Well, my dear,” said Mrs. Jennings, “and how did you travel?”
+“[[Well]], my dear,” said Mrs. Jennings, “and how did you travel?”
 
 
 
@@ -14527,9 +14527,9 @@ are sure I have made a conquest; but for my part I declare I never
 
 think about him from one hour’s end to another. ‘Lord! here comes your
 
-beau, Nancy,’ my cousin said t’other day, when she saw him crossing the
+beau, [[Nancy]],’ my cousin said t’other day, when she saw him crossing the
 
-street to the house. My beau, indeed! said I—I cannot think who you
+street to the [[house]]. My beau, indeed! said I—I cannot think who you
 
 mean. The Doctor is no beau of mine.”
 
@@ -14569,17 +14569,17 @@ cessation of hostile hints, to the charge.
 
 
 
-Elinor would not humour her by farther opposition.
+Elinor would not [[Humour|humour]] her by farther opposition.
 
 
 
 “What a charming thing it is that Mrs. Dashwood can spare you both for
 
-so long a time together!”
+so long a [[Time|time]] together!”
 
 
 
-“Long a time, indeed!” interposed Mrs. Jennings. “Why, their visit is
+“Long a [[Time|time]], indeed!” interposed Mrs. Jennings. “Why, their visit is
 
 but just begun!”
 
@@ -14591,7 +14591,7 @@ Lucy was silenced.
 
 “I am sorry we cannot see your sister, Miss Dashwood,” said Miss
 
-Steele. “I am sorry she is not well—” for Marianne had left the room on
+Steele. “I am sorry she is not [[Well|well]]—” for Marianne had left the room on
 
 their arrival.
 
@@ -14619,7 +14619,7 @@ not able to come to them.
 
 
 
-“Oh, if that’s all,” cried Miss Steele, “we can just as well go and see
+“Oh, if that’s all,” cried Miss Steele, “we can just as [[Well|well]] go and see
 
 _her_.”
 
@@ -14685,7 +14685,7 @@ was, to sit down at that end of the counter which seemed to promise the
 
 quickest succession; one gentleman only was standing there, and it is
 
-probable that Elinor was not without hope of exciting his politeness to
+probable that Elinor was not without [[Hope|hope]] of exciting his politeness to
 
 a quicker despatch. But the correctness of his eye, and the delicacy of
 
@@ -14717,7 +14717,7 @@ the puppyism of his manner in deciding on all the different horrors of
 
 the different toothpick-cases presented to his inspection, by remaining
 
-unconscious of it all; for she was as well able to collect her thoughts
+unconscious of it all; for she was as [[Well|well]] able to collect her thoughts
 
 within herself, and be as ignorant of what was passing around her, in
 
@@ -14741,7 +14741,7 @@ happy air of real conceit and affected indifference.
 
 
 
-Elinor lost no time in bringing her business forward, was on the point
+Elinor lost no [[Time|time]] in bringing her business forward, was on the point
 
 of concluding it, when another gentleman presented himself at her side.
 
@@ -14831,7 +14831,7 @@ them at the door.
 
 Mr. Dashwood attended them down stairs, was introduced to Mrs. Jennings
 
-at the door of her carriage, and repeating his hope of being able to
+at the door of her carriage, and repeating his [[Hope|hope]] of being able to
 
 call on them the next day, took leave.
 
@@ -14867,11 +14867,11 @@ to Conduit Street, and introduce him to Sir John and Lady Middleton.
 
 The weather was remarkably fine, and she readily consented. As soon as
 
-they were out of the house, his enquiries began.
+they were out of the [[house]], his enquiries began.
 
 
 
-“Who is Colonel Brandon? Is he a man of fortune?”
+“Who is [[Colonel Brandon]]? Is he a man of fortune?”
 
 
 
@@ -14911,7 +14911,7 @@ were _twice_ as much, for your sake.”
 
 “Indeed I believe you,” replied Elinor; “but I am very sure that
 
-Colonel Brandon has not the smallest wish of marrying _me_.”
+[[Colonel Brandon]] has not the smallest wish of marrying _me_.”
 
 
 
@@ -14933,7 +14933,7 @@ side—in short, you know as to an attachment of that kind, it is quite
 
 out of the question, the objections are insurmountable—you have too
 
-much sense not to see all that. Colonel Brandon must be the man; and no
+much sense not to see all that. [[Colonel Brandon]] must be the man; and no
 
 civility shall be wanting on my part to make him pleased with you and
 
@@ -14945,7 +14945,7 @@ whisper—“will be exceedingly welcome to _all parties_.” Recollecting
 
 himself, however, he added, “That is, I mean to say—your friends are
 
-all truly anxious to see you well settled; Fanny particularly, for she
+all truly anxious to see you [[Well|well]] settled; Fanny particularly, for she
 
 has your interest very much at heart, I assure you. And her mother too,
 
@@ -14963,11 +14963,11 @@ Elinor would not vouchsafe any answer.
 
 droll, if Fanny should have a brother and I a sister settling at the
 
-same time. And yet it is not very unlikely.”
+same [[Time|time]]. And yet it is not very unlikely.”
 
 
 
-“Is Mr. Edward Ferrars,” said Elinor, with resolution, “going to be
+“Is Mr. [[Edward Ferrars]],” said Elinor, with resolution, “going to be
 
 married?”
 
@@ -14983,9 +14983,9 @@ takes place. The lady is the Hon. Miss Morton, only daughter of the
 
 late Lord Morton, with thirty thousand pounds. A very desirable
 
-connection on both sides, and I have not a doubt of its taking place in
+connection on both sides, and I have not a [[Doubt|doubt]] of its taking place in
 
-time. A thousand a-year is a great deal for a mother to give away, to
+[[Time|time]]. A thousand a-year is a great deal for a mother to give away, to
 
 make over for ever; but Mrs. Ferrars has a noble spirit. To give you
 
@@ -15013,9 +15013,9 @@ but your income is a large one.”
 
 “Not so large, I dare say, as many people suppose. I do not mean to
 
-complain, however; it is undoubtedly a comfortable one, and I hope will
+complain, however; it is undoubtedly a comfortable one, and I [[Hope|hope]] will
 
-in time be better. The enclosure of Norland Common, now carrying on, is
+in [[Time|time]] be better. The enclosure of Norland Common, now carrying on, is
 
 a most serious drain. And then I have made a little purchase within
 
@@ -15025,7 +15025,7 @@ old Gibson used to live. The land was so very desirable for me in every
 
 respect, so immediately adjoining my own property, that I felt it my
 
-duty to buy it. I could not have answered it to my conscience to let it
+duty to buy it. I could not have answered it to my [[Conscience|conscience]] to let it
 
 fall into any other hands. A man must pay for his convenience; and it
 
@@ -15037,11 +15037,11 @@ _has_ cost me a vast deal of money.”
 
 
 
-“Why, I hope not that. I might have sold it again, the next day, for
+“Why, I [[Hope|hope]] not that. I might have sold it again, the next day, for
 
 more than I gave: but, with regard to the purchase-money, I might have
 
-been very unfortunate indeed; for the stocks were at that time so low,
+been very unfortunate indeed; for the stocks were at that [[Time|time]] so low,
 
 that if I had not happened to have the necessary sum in my banker’s
 
@@ -15055,7 +15055,7 @@ Elinor could only smile.
 
 “Other great and inevitable expenses too we have had on first coming to
 
-Norland. Our respected father, as you well know, bequeathed all the
+Norland. Our respected father, as you [[Well|well]] know, bequeathed all the
 
 Stanhill effects that remained at Norland (and very valuable they were)
 
@@ -15073,7 +15073,7 @@ rich, and how acceptable Mrs. Ferrars’s kindness is.”
 
 
 
-“Certainly,” said Elinor; “and assisted by her liberality, I hope you
+“Certainly,” said Elinor; “and assisted by her liberality, I [[Hope|hope]] you
 
 may yet live to be in easy circumstances.”
 
@@ -15083,21 +15083,21 @@ may yet live to be in easy circumstances.”
 
 however there is still a great deal to be done. There is not a stone
 
-laid of Fanny’s green-house, and nothing but the plan of the
+laid of Fanny’s green-[[house]], and nothing but the plan of the
 
-flower-garden marked out.”
-
-
-
-“Where is the green-house to be?”
+flower-[[Garden|garden]] marked out.”
 
 
 
-“Upon the knoll behind the house. The old walnut trees are all come
+“Where is the green-[[house]] to be?”
+
+
+
+“Upon the knoll behind the [[house]]. The old walnut trees are all come
 
 down to make room for it. It will be a very fine object from many parts
 
-of the park, and the flower-garden will slope down just before it, and
+of the park, and the flower-[[Garden|garden]] will slope down just before it, and
 
 be exceedingly pretty. We have cleared away all the old thorns that
 
@@ -15111,7 +15111,7 @@ thankful that Marianne was not present, to share the provocation.
 
 
 
-Having now said enough to make his poverty clear, and to do away the
+Having now said enough to make his [[Poverty|poverty]] clear, and to do away the
 
 necessity of buying a pair of ear-rings for each of his sisters, in his
 
@@ -15121,7 +15121,7 @@ began to congratulate Elinor on having such a friend as Mrs. Jennings.
 
 
 
-“She seems a most valuable woman indeed. Her house, her style of
+“She seems a most valuable woman indeed. Her [[house]], her style of
 
 living, all bespeak an exceeding good income; and it is an acquaintance
 
@@ -15157,7 +15157,7 @@ daughters, than to us?”
 
 
 
-“Her daughters are both exceedingly well married, and therefore I
+“Her daughters are both exceedingly [[Well|well]] married, and therefore I
 
 cannot perceive the necessity of her remembering them farther. Whereas,
 
@@ -15189,19 +15189,19 @@ and is grown quite thin. Is she ill?”
 
 
 
-“She is not well, she has had a nervous complaint on her for several
+“She is not [[Well|well]], she has had a nervous complaint on her for several
 
 weeks.”
 
 
 
-“I am sorry for that. At her time of life, any thing of an illness
+“I am sorry for that. At her [[Time|time]] of life, any thing of an illness
 
 destroys the bloom for ever! Hers has been a very short one! She was as
 
 handsome a girl last September, as I ever saw; and as likely to attract
 
-the man. There was something in her style of beauty, to please them
+the man. There was something in her style of [[Beauty|beauty]], to please them
 
 particularly. I remember Fanny used to say that she would marry sooner
 
@@ -15225,25 +15225,25 @@ earliest and best pleased of your visitors.”
 
 Elinor tried very seriously to convince him that there was no
 
-likelihood of her marrying Colonel Brandon; but it was an expectation
+likelihood of her marrying [[Colonel Brandon]]; but it was an expectation
 
 of too much pleasure to himself to be relinquished, and he was really
 
 resolved on seeking an intimacy with that gentleman, and promoting the
 
-marriage by every possible attention. He had just compunction enough
+[[Marriage|marriage]] by every possible attention. He had just compunction enough
 
 for having done nothing for his sisters himself, to be exceedingly
 
 anxious that everybody else should do a great deal; and an offer from
 
-Colonel Brandon, or a legacy from Mrs. Jennings, was the easiest means
+[[Colonel Brandon]], or a legacy from Mrs. Jennings, was the easiest means
 
 of atoning for his own neglect.
 
 
 
-They were lucky enough to find Lady Middleton at home, and Sir John
+They were lucky enough to find Lady Middleton at [[Home|home]], and Sir John
 
 came in before their visit ended. Abundance of civilities passed on all
 
@@ -15265,11 +15265,11 @@ walked back with his sister. “Lady Middleton is really a most elegant
 
 woman! Such a woman as I am sure Fanny will be glad to know. And Mrs.
 
-Jennings too, an exceedingly well-behaved woman, though not so elegant
+Jennings too, an exceedingly [[Well|well]]-behaved woman, though not so elegant
 
 as her daughter. Your sister need not have any scruple even of visiting
 
-_her_, which, to say the truth, has been a little the case, and very
+_her_, which, to say the [[Truth|truth]], has been a little the case, and very
 
 naturally; for we only knew that Mrs. Jennings was the widow of a man
 
@@ -15331,7 +15331,7 @@ affection, and almost without having anything to say to them; for of
 
 the quarter of an hour bestowed on Berkeley Street, she sat at least
 
-seven minutes and a half in silence.
+seven minutes and a half in [[Silence|silence]].
 
 
 
@@ -15341,9 +15341,9 @@ whether Edward was then in town; but nothing would have induced Fanny
 
 voluntarily to mention his name before her, till able to tell her that
 
-his marriage with Miss Morton was resolved on, or till her husband’s
+his [[Marriage|marriage]] with Miss Morton was resolved on, or till her husband’s
 
-expectations on Colonel Brandon were answered; because she believed
+expectations on [[Colonel Brandon]] were answered; because she believed
 
 them still so very much attached to each other, that they could not be
 
@@ -15355,7 +15355,7 @@ another quarter. Lucy came very shortly to claim Elinor’s compassion on
 
 being unable to see Edward, though he had arrived in town with Mr. and
 
-Mrs. Dashwood. He dared not come to Bartlett’s Buildings for fear of
+Mrs. Dashwood. He dared not come to Bartlett’s Buildings for [[Fear|fear]] of
 
 detection, and though their mutual impatience to meet, was not to be
 
@@ -15365,7 +15365,7 @@ told, they could do nothing at present but write.
 
 Edward assured them himself of his being in town, within a very short
 
-time, by twice calling in Berkeley Street. Twice was his card found on
+[[Time|time]], by twice calling in Berkeley Street. Twice was his card found on
 
 the table, when they returned from their morning’s engagements. Elinor
 
@@ -15381,11 +15381,11 @@ though not much in the habit of giving anything, they determined to
 
 give them—a dinner; and soon after their acquaintance began, invited
 
-them to dine in Harley Street, where they had taken a very good house
+them to dine in Harley Street, where they had taken a very good [[house]]
 
 for three months. Their sisters and Mrs. Jennings were invited
 
-likewise, and John Dashwood was careful to secure Colonel Brandon, who,
+likewise, and John Dashwood was careful to secure [[Colonel Brandon]], who,
 
 always glad to be where the Miss Dashwoods were, received his eager
 
@@ -15401,7 +15401,7 @@ Edward’s mother without that strong anxiety which had once promised to
 
 attend such an introduction, though she could now see her with perfect
 
-indifference as to her opinion of herself, her desire of being in
+indifference as to her opinion of herself, her [[Desire|desire]] of being in
 
 company with Mrs. Ferrars, her curiosity to know what she was like, was
 
@@ -15417,7 +15417,7 @@ that the Miss Steeles were also to be at it.
 
 
 
-So well had they recommended themselves to Lady Middleton, so agreeable
+So [[Well|well]] had they recommended themselves to Lady Middleton, so agreeable
 
 had their assiduities made them to her, that though Lucy was certainly
 
@@ -15457,7 +15457,7 @@ determine, that Edward who lived with his mother, must be asked as his
 
 mother was, to a party given by his sister; and to see him for the
 
-first time, after all that passed, in the company of Lucy!—she hardly
+first [[Time|time]], after all that passed, in the company of Lucy!—she hardly
 
 knew how she could bear it!
 
@@ -15465,7 +15465,7 @@ knew how she could bear it!
 
 These apprehensions, perhaps, were not founded entirely on reason, and
 
-certainly not at all on truth. They were relieved however, not by her
+certainly not at all on [[Truth|truth]]. They were relieved however, not by her
 
 own recollection, but by the good will of Lucy, who believed herself to
 
@@ -15473,7 +15473,7 @@ be inflicting a severe disappointment when she told her that Edward
 
 certainly would not be in Harley Street on Tuesday, and even hoped to
 
-be carrying the pain still farther by persuading her that he was kept
+be carrying the [[Pain|pain]] still farther by persuading her that he was kept
 
 away by the extreme affection for herself, which he could not conceal
 
@@ -15491,7 +15491,7 @@ to this formidable mother-in-law.
 
 together—for the Middletons arrived so directly after Mrs. Jennings,
 
-that they all followed the servant at the same time:—“there is nobody
+that they all followed the servant at the same [[Time|time]]:—“there is nobody
 
 here but you, that can feel for me. I declare I can hardly stand. Good
 
@@ -15519,13 +15519,13 @@ Mrs. Ferrars was a little, thin woman, upright, even to formality, in
 
 her figure, and serious, even to sourness, in her aspect. Her
 
-complexion was sallow; and her features small, without beauty, and
+complexion was sallow; and her features small, without [[Beauty|beauty]], and
 
 naturally without expression; but a lucky contraction of the brow had
 
 rescued her countenance from the disgrace of insipidity, by giving it
 
-the strong characters of pride and ill nature. She was not a woman of
+the strong characters of [[Pride|pride]] and ill [[Nature|nature]]. She was not a woman of
 
 many words; for, unlike people in general, she proportioned them to the
 
@@ -15585,7 +15585,7 @@ been within some thousand pounds of being obliged to sell out at a
 
 loss, nothing gave any symptom of that indigence which he had tried to
 
-infer from it;—no poverty of any kind, except of conversation,
+infer from it;—no [[Poverty|poverty]] of any kind, except of conversation,
 
 appeared—but there, the deficiency was considerable. John Dashwood had
 
@@ -15603,7 +15603,7 @@ spirits—or want of temper.
 
 
 
-When the ladies withdrew to the drawing-room after dinner, this poverty
+When the ladies withdrew to the drawing-room after dinner, this [[Poverty|poverty]]
 
 was particularly evident, for the gentlemen _had_ supplied the
 
@@ -15623,7 +15623,7 @@ Had both the children been there, the affair might have been determined
 
 too easily by measuring them at once; but as Harry only was present, it
 
-was all conjectural assertion on both sides; and every body had a right
+was all conjectural assertion on both sides; and every [[Body|body]] had a right
 
 to be equally positive in their opinion, and to repeat it over and over
 
@@ -15675,11 +15675,11 @@ Before her removing from Norland, Elinor had painted a very pretty pair
 
 of screens for her sister-in-law, which being now just mounted and
 
-brought home, ornamented her present drawing room; and these screens,
+brought [[Home|home]], ornamented her present drawing room; and these screens,
 
 catching the eye of John Dashwood on his following the other gentlemen
 
-into the room, were officiously handed by him to Colonel Brandon for
+into the room, were officiously handed by him to [[Colonel Brandon]] for
 
 his admiration.
 
@@ -15691,7 +15691,7 @@ taste, will, I dare say, be pleased with them. I do not know whether
 
 you have ever happened to see any of her performances before, but she
 
-is in general reckoned to draw extremely well.”
+is in general reckoned to draw extremely [[Well|well]].”
 
 
 
@@ -15709,7 +15709,7 @@ at them; and after they had received gratifying testimony of Lady
 
 Middletons’s approbation, Fanny presented them to her mother,
 
-considerately informing her, at the same time, that they were done by
+considerately informing her, at the same [[Time|time]], that they were done by
 
 Miss Dashwood.
 
@@ -15743,7 +15743,7 @@ her last landscape is done!”
 
 
 
-“Beautifully indeed! But _she_ does every thing well.”
+“Beautifully indeed! But _she_ does every thing [[Well|well]].”
 
 
 
@@ -15783,7 +15783,7 @@ Fanny looked very angry too, and her husband was all in a fright at his
 
 sister’s audacity. Elinor was much more hurt by Marianne’s warmth than
 
-she had been by what produced it; but Colonel Brandon’s eyes, as they
+she had been by what produced it; but [[Colonel Brandon]]’s eyes, as they
 
 were fixed on Marianne, declared that he noticed only what was amiable
 
@@ -15817,9 +15817,9 @@ unhappy.”
 
 She could say no more; her spirits were quite overcome, and hiding her
 
-face on Elinor’s shoulder, she burst into tears. Every body’s attention
+face on Elinor’s shoulder, she burst into [[Tears|tears]]. Every [[Body|body]]’s attention
 
-was called, and almost every body was concerned.—Colonel Brandon rose
+was called, and almost every [[Body|body]] was concerned.—[[Colonel Brandon]] [[Rose|rose]]
 
 up and went to them without knowing what he did.—Mrs. Jennings, with a
 
@@ -15843,7 +15843,7 @@ the impression of what had passed, the whole evening.
 
 
 
-“Poor Marianne!” said her brother to Colonel Brandon, in a low voice,
+“Poor Marianne!” said her brother to [[Colonel Brandon]], in a low voice,
 
 as soon as he could secure his attention: “She has not such good health
 
@@ -15851,7 +15851,7 @@ as her sister,—she is very nervous,—she has not Elinor’s
 
 constitution;—and one must allow that there is something very trying to
 
-a young woman who _has been_ a beauty in the loss of her personal
+a young woman who _has been_ a [[Beauty|beauty]] in the loss of her personal
 
 attractions. You would not think it perhaps, but Marianne _was_
 
@@ -15877,17 +15877,17 @@ Elinor’s curiosity to see Mrs. Ferrars was satisfied. She had found in
 
 her every thing that could tend to make a farther connection between
 
-the families undesirable. She had seen enough of her pride, her
+the families undesirable. She had seen enough of her [[Pride|pride]], her
 
 meanness, and her determined prejudice against herself, to comprehend
 
 all the difficulties that must have perplexed the engagement, and
 
-retarded the marriage, of Edward and herself, had he been otherwise
+retarded the [[Marriage|marriage]], of Edward and herself, had he been otherwise
 
 free; and she had seen almost enough to be thankful for her _own_ sake,
 
-that one greater obstacle preserved her from suffering under any other
+that one greater obstacle preserved her from [[Suffering|suffering]] under any other
 
 of Mrs. Ferrars’s creation, preserved her from all dependence upon her
 
@@ -15903,7 +15903,7 @@ have rejoiced.
 
 She wondered that Lucy’s spirits could be so very much elevated by the
 
-civility of Mrs. Ferrars;—that her interest and her vanity should so
+civility of Mrs. Ferrars;—that her interest and her [[Vanity|vanity]] should so
 
 very much blind her as to make the attention which seemed only paid her
 
@@ -15913,13 +15913,13 @@ allow her to derive encouragement from a preference only given her,
 
 because her real situation was unknown. But that it was so, had not
 
-only been declared by Lucy’s eyes at the time, but was declared over
+only been declared by Lucy’s eyes at the [[Time|time]], but was declared over
 
-again the next morning more openly, for at her particular desire, Lady
+again the next morning more openly, for at her particular [[Desire|desire]], Lady
 
 Middleton set her down in Berkeley Street on the chance of seeing
 
-Elinor alone, to tell her how happy she was.
+Elinor [[Alone|alone]], to tell her how happy she was.
 
 
 
@@ -15953,7 +15953,7 @@ with it?”
 
 “Civil!—Did you see nothing but only civility?—I saw a vast deal more.
 
-Such kindness as fell to the share of nobody but me!—No pride, no
+Such kindness as fell to the share of nobody but me!—No [[Pride|pride]], no
 
 hauteur, and your sister just the same—all sweetness and affability!”
 
@@ -15981,13 +15981,13 @@ reason in the world why Mrs. Ferrars should seem to like me, if she did
 
 not, and her liking me is every thing. You shan’t talk me out of my
 
-satisfaction. I am sure it will all end well, and there will be no
+satisfaction. I am sure it will all end [[Well|well]], and there will be no
 
 difficulties at all, to what I used to think. Mrs. Ferrars is a
 
 charming woman, and so is your sister. They are both delightful women,
 
-indeed!—I wonder I should never hear you say how agreeable Mrs.
+indeed!—I [[Wonder|wonder]] I should never hear you say how agreeable Mrs.
 
 Dashwood was!”
 
@@ -15999,7 +15999,7 @@ To this Elinor had no answer to make, and did not attempt any.
 
 “Are you ill, Miss Dashwood?—you seem low—you don’t speak;—sure you
 
-an’t well.”
+an’t [[Well|well]].”
 
 
 
@@ -16013,11 +16013,11 @@ should be sorry to have _you_ ill; you, that have been the greatest
 
 comfort to me in the world!—Heaven knows what I should have done
 
-without your friendship.”
+without your [[Friendship|friendship]].”
 
 
 
-Elinor tried to make a civil answer, though doubting her own success.
+Elinor tried to make a civil answer, though doubting her own [[success]].
 
 But it seemed to satisfy Lucy, for she directly replied,
 
@@ -16025,7 +16025,7 @@ But it seemed to satisfy Lucy, for she directly replied,
 
 “Indeed I am perfectly convinced of your regard for me, and next to
 
-Edward’s love, it is the greatest comfort I have. Poor Edward! But now
+Edward’s [[Love|love]], it is the greatest comfort I have. Poor Edward! But now
 
 there is one good thing, we shall be able to meet, and meet pretty
 
@@ -16033,7 +16033,7 @@ often, for Lady Middleton’s delighted with Mrs. Dashwood, so we shall
 
 be a good deal in Harley Street, I dare say, and Edward spends half his
 
-time with his sister—besides, Lady Middleton and Mrs. Ferrars will
+[[Time|time]] with his sister—besides, Lady Middleton and Mrs. Ferrars will
 
 visit now;—and Mrs. Ferrars and your sister were both so good to say
 
@@ -16045,7 +16045,7 @@ her, you cannot speak too high.”
 
 
 
-But Elinor would not give her any encouragement to hope that she
+But Elinor would not give her any encouragement to [[Hope|hope]] that she
 
 _should_ tell her sister. Lucy continued.
 
@@ -16061,7 +16061,7 @@ me, and never looked at me in a pleasant way—you know what I mean—if I
 
 had been treated in that forbidding sort of way, I should have gave it
 
-all up in despair. I could not have stood it. For where she _does_
+all up in [[Despair|despair]]. I could not have stood it. For where she _does_
 
 dislike, I know it is most violent.”
 
@@ -16099,7 +16099,7 @@ _look_ her tenderness, and after slightly addressing him, said no more.
 
 But Elinor had more to do; and so anxious was she, for his sake and her
 
-own, to do it well, that she forced herself, after a moment’s
+own, to do it [[Well|well]], that she forced herself, after a moment’s
 
 recollection, to welcome him, with a look and manner that were almost
 
@@ -16111,7 +16111,7 @@ consciousness of some injustice towards herself, to deter her from
 
 saying that she was happy to see him, and that she had very much
 
-regretted being from home, when he called before in Berkeley Street.
+regretted being from [[Home|home]], when he called before in Berkeley Street.
 
 She would not be frightened from paying him those attentions which, as
 
@@ -16121,7 +16121,7 @@ Lucy, though she soon perceived them to be narrowly watching her.
 
 
 
-Her manners gave some re-assurance to Edward, and he had courage enough
+Her manners gave some re-assurance to Edward, and he had [[Courage|courage]] enough
 
 to sit down; but his embarrassment still exceeded that of the ladies in
 
@@ -16129,7 +16129,7 @@ a proportion, which the case rendered reasonable, though his sex might
 
 make it rare; for his heart had not the indifference of Lucy’s, nor
 
-could his conscience have quite the ease of Elinor’s.
+could his [[Conscience|conscience]] have quite the ease of Elinor’s.
 
 
 
@@ -16157,7 +16157,7 @@ _that_ in the handsomest manner, for she loitered away several minutes
 
 on the landing-place, with the most high-minded fortitude, before she
 
-went to her sister. When that was once done, however, it was time for
+went to her sister. When that was once done, however, it was [[Time|time]] for
 
 the raptures of Edward to cease; for Marianne’s joy hurried her into
 
@@ -16191,15 +16191,15 @@ should be checked by Lucy’s unwelcome presence. Edward was the first to
 
 speak, and it was to notice Marianne’s altered looks, and express his
 
-fear of her not finding London agree with her.
+[[Fear|fear]] of her not finding [[London]] agree with her.
 
 
 
 “Oh, don’t think of me!” she replied with spirited earnestness, though
 
-her eyes were filled with tears as she spoke, “don’t think of _my_
+her eyes were filled with [[Tears|tears]] as she spoke, “don’t think of _my_
 
-health. Elinor is well, you see. That must be enough for us both.”
+health. Elinor is [[Well|well]], you see. That must be enough for us both.”
 
 
 
@@ -16211,7 +16211,7 @@ very benignant expression.
 
 
 
-“Do you like London?” said Edward, willing to say any thing that might
+“Do you like [[London]]?” said Edward, willing to say any thing that might
 
 introduce another subject.
 
@@ -16279,11 +16279,11 @@ private.
 
 
 
-“Perhaps, Miss Marianne,” cried Lucy, eager to take some revenge on
+“Perhaps, Miss Marianne,” cried Lucy, eager to take some [[Revenge|revenge]] on
 
 her, “you think young men never stand upon engagements, if they have no
 
-mind to keep them, little as well as great.”
+mind to keep them, little as [[Well|well]] as great.”
 
 
 
@@ -16295,27 +16295,27 @@ sting; for she calmly replied,
 
 “Not so, indeed; for, seriously speaking, I am very sure that
 
-conscience only kept Edward from Harley Street. And I really believe he
+[[Conscience|conscience]] only kept Edward from Harley Street. And I really believe he
 
-_has_ the most delicate conscience in the world; the most scrupulous in
+_has_ the most delicate [[Conscience|conscience]] in the world; the most scrupulous in
 
 performing every engagement, however minute, and however it may make
 
 against his interest or pleasure. He is the most fearful of giving
 
-pain, of wounding expectation, and the most incapable of being selfish,
+[[Pain|pain]], of wounding expectation, and the most incapable of being selfish,
 
-of any body I ever saw. Edward, it is so, and I will say it. What! are
+of any [[Body|body]] I ever saw. Edward, it is so, and I will say it. What! are
 
 you never to hear yourself praised!—Then you must be no friend of mine;
 
-for those who will accept of my love and esteem, must submit to my open
+for those who will accept of my [[Love|love]] and esteem, must submit to my open
 
 commendation.”
 
 
 
-The nature of her commendation, in the present case, however, happened
+The [[Nature|nature]] of her commendation, in the present case, however, happened
 
 to be particularly ill-suited to the feelings of two thirds of her
 
@@ -16329,7 +16329,7 @@ got up to go away.
 
 
 
-And drawing him a little aside, she whispered her persuasion that Lucy
+And drawing him a little aside, she whispered her [[Persuasion|persuasion]] that Lucy
 
 could not stay much longer. But even this encouragement failed, for he
 
@@ -16347,7 +16347,7 @@ two hours, soon afterwards went away.
 
 “Why so?—we were all his friends, and Lucy has been the longest known
 
-to him of any. It is but natural that he should like to see her as well
+to him of any. It is but natural that he should like to see her as [[Well|well]]
 
 as ourselves.”
 
@@ -16355,7 +16355,7 @@ as ourselves.”
 
 Marianne looked at her steadily, and said, “You know, Elinor, that this
 
-is a kind of talking which I cannot bear. If you only hope to have your
+is a kind of talking which I cannot bear. If you only [[Hope|hope]] to have your
 
 assertion contradicted, as I must suppose to be the case, you ought to
 
@@ -16373,11 +16373,11 @@ no information that would convince Marianne; and painful as the
 
 consequences of her still continuing in an error might be, she was
 
-obliged to submit to it. All that she could hope, was that Edward would
+obliged to submit to it. All that she could [[Hope|hope]], was that Edward would
 
 not often expose her or himself to the distress of hearing Marianne’s
 
-mistaken warmth, nor to the repetition of any other part of the pain
+mistaken warmth, nor to the repetition of any other part of the [[Pain|pain]]
 
 that had attended their recent meeting—and this she had every reason to
 
@@ -16409,7 +16409,7 @@ to all those intimate connections who knew it before.
 
 This event, highly important to Mrs. Jennings’s happiness, produced a
 
-temporary alteration in the disposal of her time, and influenced, in a
+temporary alteration in the disposal of her [[Time|time]], and influenced, in a
 
 like degree, the engagements of her young friends; for as she wished to
 
@@ -16423,7 +16423,7 @@ Middletons, spent the whole of every day in Conduit Street. For their
 
 own comfort they would much rather have remained, at least all the
 
-morning, in Mrs. Jennings’s house; but it was not a thing to be urged
+morning, in Mrs. Jennings’s [[house]]; but it was not a thing to be urged
 
 against the wishes of everybody. Their hours were therefore made over
 
@@ -16473,7 +16473,7 @@ account of the whole affair between Marianne and Mr. Willoughby, she
 
 would have thought herself amply rewarded for the sacrifice of the best
 
-place by the fire after dinner, which their arrival occasioned. But
+place by the [[Fire|fire]] after dinner, which their arrival occasioned. But
 
 this conciliation was not granted; for though she often threw out
 
@@ -16489,7 +16489,7 @@ friend. Would they only have laughed at her about the Doctor! But so
 
 little were they, any more than the others, inclined to oblige her,
 
-that if Sir John dined from home, she might spend a whole day without
+that if Sir John dined from [[Home|home]], she might spend a whole day without
 
 hearing any other raillery on the subject, than what she was kind
 
@@ -16503,17 +16503,17 @@ unsuspected by Mrs. Jennings, that she thought it a delightful thing
 
 for the girls to be together; and generally congratulated her young
 
-friends every night, on having escaped the company of a stupid old
+friends every [[Night|night]], on having escaped the company of a stupid old
 
 woman so long. She joined them sometimes at Sir John’s, sometimes at
 
-her own house; but wherever it was, she always came in excellent
+her own [[house]]; but wherever it was, she always came in excellent
 
-spirits, full of delight and importance, attributing Charlotte’s well
+spirits, full of delight and importance, attributing Charlotte’s [[Well|well]]
 
 doing to her own care, and ready to give so exact, so minute a detail
 
-of her situation, as only Miss Steele had curiosity enough to desire.
+of her situation, as only Miss Steele had curiosity enough to [[Desire|desire]].
 
 One thing _did_ disturb her; and of that she made her daily complaint.
 
@@ -16529,13 +16529,13 @@ father of it; no persuading him to believe that it was not exactly like
 
 every other baby of the same age; nor could he even be brought to
 
-acknowledge the simple proposition of its being the finest child in the
+acknowledge the simple proposition of its being the finest [[Child|child]] in the
 
 world.
 
 
 
-I come now to the relation of a misfortune, which about this time
+I come now to the relation of a misfortune, which about this [[Time|time]]
 
 befell Mrs. John Dashwood. It so happened that while her two sisters
 
@@ -16549,11 +16549,11 @@ other people will carry them away to form wrong judgments of our
 
 conduct, and to decide on it by slight appearances, one’s happiness
 
-must in some measure be always at the mercy of chance. In the present
+must in some measure be always at the [[Mercy|mercy]] of chance. In the present
 
 instance, this last-arrived lady allowed her fancy to so far outrun
 
-truth and probability, that on merely hearing the name of the Miss
+[[Truth|truth]] and probability, that on merely hearing the name of the Miss
 
 Dashwoods, and understanding them to be Mr. Dashwood’s sisters, she
 
@@ -16561,9 +16561,9 @@ immediately concluded them to be staying in Harley Street; and this
 
 misconstruction produced within a day or two afterwards, cards of
 
-invitation for them as well as for their brother and sister, to a small
+invitation for them as [[Well|well]] as for their brother and sister, to a small
 
-musical party at her house. The consequence of which was, that Mrs.
+musical party at her [[house]]. The consequence of which was, that Mrs.
 
 John Dashwood was obliged to submit not only to the exceedingly great
 
@@ -16573,7 +16573,7 @@ was still worse, must be subject to all the unpleasantness of appearing
 
 to treat them with attention: and who could tell that they might not
 
-expect to go out with her a second time? The power of disappointing
+expect to go out with her a second [[Time|time]]? The power of disappointing
 
 them, it was true, must always be hers. But that was not enough; for
 
@@ -16641,7 +16641,7 @@ occasion, to her brother’s carriage; which they were ready to enter
 
 five minutes after it stopped at the door, a punctuality not very
 
-agreeable to their sister-in-law, who had preceded them to the house of
+agreeable to their sister-in-law, who had preceded them to the [[house]] of
 
 her acquaintance, and was there hoping for some delay on their part
 
@@ -16697,11 +16697,11 @@ own merit, than on the merit of his nearest relations! For then his
 
 brother’s bow must have given the finishing stroke to what the
 
-ill-humour of his mother and sister would have begun. But while she
+ill-[[Humour|humour]] of his mother and sister would have begun. But while she
 
 wondered at the difference of the two young men, she did not find that
 
-the emptiness and conceit of the one, put her out of all charity with
+the emptiness and conceit of the one, put her out of all [[Charity|charity]] with
 
 the modesty and worth of the other. Why they _were_ different, Robert
 
@@ -16713,17 +16713,17 @@ _gaucherie_ which he really believed kept him from mixing in proper
 
 society, he candidly and generously attributed it much less to any
 
-natural deficiency, than to the misfortune of a private education;
+natural deficiency, than to the misfortune of a private [[Education|education]];
 
 while he himself, though probably without any particular, any material
 
-superiority by nature, merely from the advantage of a public school,
+superiority by [[Nature|nature]], merely from the advantage of a public school,
 
-was as well fitted to mix in the world as any other man.
+was as [[Well|well]] fitted to mix in the world as any other man.
 
 
 
-“Upon my soul,” he added, “I believe it is nothing more; and so I often
+“Upon my [[Soul|soul]],” he added, “I believe it is nothing more; and so I often
 
 tell my mother, when she is grieving about it. ‘My dear Madam,’ I
 
@@ -16733,9 +16733,9 @@ irremediable, and it has been entirely your own doing. Why would you be
 
 persuaded by my uncle, Sir Robert, against your own judgment, to place
 
-Edward under private tuition, at the most critical time of his life? If
+Edward under private tuition, at the most critical [[Time|time]] of his life? If
 
-you had only sent him to Westminster as well as myself, instead of
+you had only sent him to Westminster as [[Well|well]] as myself, instead of
 
 sending him to Mr. Pratt’s, all this would have been prevented.’ This
 
@@ -16765,7 +16765,7 @@ surprising to him that anybody could live in Devonshire, without living
 
 near Dawlish. He bestowed his hearty approbation however on their
 
-species of house.
+species of [[house]].
 
 
 
@@ -16775,11 +16775,11 @@ is always so much comfort, so much elegance about them. And I protest,
 
 if I had any money to spare, I should buy a little land and build one
 
-myself, within a short distance of London, where I might drive myself
+myself, within a short distance of [[London]], where I might drive myself
 
-down at any time, and collect a few friends about me, and be happy. I
+down at any [[Time|time]], and collect a few friends about me, and be happy. I
 
-advise every body who is going to build, to build a cottage. My friend
+advise every [[Body|body]] who is going to build, to build a cottage. My friend
 
 Lord Courtland came to me the other day on purpose to ask my advice,
 
@@ -16787,7 +16787,7 @@ and laid before me three different plans of Bonomi’s. I was to decide
 
 on the best of them. ‘My dear Courtland,’ said I, immediately throwing
 
-them all into the fire, ‘do not adopt either of them, but by all means
+them all into the [[Fire|fire]], ‘do not adopt either of them, but by all means
 
 build a cottage.’ And that I fancy, will be the end of it.
 
@@ -16797,7 +16797,7 @@ build a cottage.’ And that I fancy, will be the end of it.
 
 cottage; but this is all a mistake. I was last month at my friend
 
-Elliott’s, near Dartford. Lady Elliott wished to give a dance. ‘But how
+Elliott’s, near Dartford. Lady Elliott wished to give a [[Dance|dance]]. ‘But how
 
 can it be done?’ said she; ‘my dear Ferrars, do tell me how it is to be
 
@@ -16819,7 +16819,7 @@ dining-room, and found it would hold exactly eighteen couple, and the
 
 affair was arranged precisely after my plan. So that, in fact, you see,
 
-if people do but know how to set about it, every comfort may be as well
+if people do but know how to set about it, every comfort may be as [[Well|well]]
 
 enjoyed in a cottage as in the most spacious dwelling.”
 
@@ -16837,17 +16837,17 @@ his mind was equally at liberty to fix on any thing else; and a thought
 
 struck him during the evening, which he communicated to his wife, for
 
-her approbation, when they got home. The consideration of Mrs.
+her approbation, when they got [[Home|home]]. The consideration of Mrs.
 
 Dennison’s mistake, in supposing his sisters their guests, had
 
 suggested the propriety of their being really invited to become such,
 
-while Mrs. Jennings’s engagements kept her from home. The expense would
+while Mrs. Jennings’s engagements kept her from [[Home|home]]. The expense would
 
 be nothing, the inconvenience not more; and it was altogether an
 
-attention which the delicacy of his conscience pointed out to be
+attention which the delicacy of his [[Conscience|conscience]] pointed out to be
 
 requisite to its complete enfranchisement from his promise to his
 
@@ -16867,7 +16867,7 @@ they are Lady Middleton’s visitors. How can I ask them away from her?”
 
 
 
-Her husband, but with great humility, did not see the force of her
+Her husband, but with great [[Humility|humility]], did not see the force of her
 
 objection. “They had already spent a week in this manner in Conduit
 
@@ -16881,13 +16881,13 @@ Fanny paused a moment, and then, with fresh vigor, said,
 
 
 
-“My love, I would ask them with all my heart, if it was in my power.
+“My [[Love|love]], I would ask them with all my heart, if it was in my power.
 
 But I had just settled within myself to ask the Miss Steeles to spend a
 
-few days with us. They are very well behaved, good kind of girls; and I
+few days with us. They are very [[Well|well]] behaved, good kind of girls; and I
 
-think the attention is due to them, as their uncle did so very well by
+think the attention is due to them, as their uncle did so very [[Well|well]] by
 
 Edward. We can ask your sisters some other year, you know; but the Miss
 
@@ -16901,13 +16901,13 @@ mother; and they are such favourites with Harry!”
 
 Mr. Dashwood was convinced. He saw the necessity of inviting the Miss
 
-Steeles immediately, and his conscience was pacified by the resolution
+Steeles immediately, and his [[Conscience|conscience]] was pacified by the resolution
 
-of inviting his sisters another year; at the same time, however, slyly
+of inviting his sisters another year; at the same [[Time|time]], however, slyly
 
 suspecting that another year would make the invitation needless, by
 
-bringing Elinor to town as Colonel Brandon’s wife, and Marianne as
+bringing Elinor to town as [[Colonel Brandon]]’s wife, and Marianne as
 
 _their_ visitor.
 
@@ -16937,13 +16937,13 @@ Lady Middleton, which had not before had any precise limits, was
 
 instantly discovered to have been always meant to end in two days’
 
-time.
+[[Time|time]].
 
 
 
 When the note was shown to Elinor, as it was within ten minutes after
 
-its arrival, it gave her, for the first time, some share in the
+its arrival, it gave her, for the first [[Time|time]], some share in the
 
 expectations of Lucy; for such a mark of uncommon kindness, vouchsafed
 
@@ -16951,9 +16951,9 @@ on so short an acquaintance, seemed to declare that the good-will
 
 towards her arose from something more than merely malice against
 
-herself; and might be brought, by time and address, to do every thing
+herself; and might be brought, by [[Time|time]] and address, to do every thing
 
-that Lucy wished. Her flattery had already subdued the pride of Lady
+that Lucy wished. Her flattery had already subdued the [[Pride|pride]] of Lady
 
 Middleton, and made an entry into the close heart of Mrs. John
 
@@ -16967,7 +16967,7 @@ The Miss Steeles removed to Harley Street, and all that reached Elinor
 
 of their influence there, strengthened her expectation of the event.
 
-Sir John, who called on them more than once, brought home such accounts
+Sir John, who called on them more than once, brought [[Home|home]] such accounts
 
 of the favour they were in, as must be universally striking. Mrs.
 
@@ -16997,13 +16997,13 @@ CHAPTER XXXVII.
 
 
 
-Mrs. Palmer was so well at the end of a fortnight, that her mother felt
+Mrs. Palmer was so [[Well|well]] at the end of a fortnight, that her mother felt
 
-it no longer necessary to give up the whole of her time to her; and,
+it no longer necessary to give up the whole of her [[Time|time]] to her; and,
 
 contenting herself with visiting her once or twice a day, returned from
 
-that period to her own home, and her own habits, in which she found the
+that period to her own [[Home|home]], and her own habits, in which she found the
 
 Miss Dashwoods very ready to resume their former share.
 
@@ -17017,7 +17017,7 @@ Mrs. Palmer, entered the drawing-room, where Elinor was sitting by
 
 herself, with an air of such hurrying importance as prepared her to
 
-hear something wonderful; and giving her time only to form that idea,
+hear something wonderful; and giving her [[Time|time]] only to form that idea,
 
 began directly to justify it, by saying,
 
@@ -17033,19 +17033,19 @@ began directly to justify it, by saying,
 
 “Something so strange! But you shall hear it all. When I got to Mr.
 
-Palmer’s, I found Charlotte quite in a fuss about the child. She was
+Palmer’s, I found Charlotte quite in a fuss about the [[Child|child]]. She was
 
 sure it was very ill—it cried, and fretted, and was all over pimples.
 
 So I looked at it directly, and, ‘Lord! my dear,’ says I, ‘it is
 
-nothing in the world, but the red gum;’ and nurse said just the same.
+nothing in the world, but the red gum;’ and [[Nurse|nurse]] said just the same.
 
 But Charlotte, she would not be satisfied, so Mr. Donavan was sent for;
 
 and luckily he happened to just come in from Harley Street, so he
 
-stepped over directly, and as soon as ever he saw the child, he said
+stepped over directly, and as soon as ever he saw the [[Child|child]], he said
 
 just as we did, that it was nothing in the world but the red gum, and
 
@@ -17055,17 +17055,17 @@ came into my head, I am sure I do not know how I happened to think of
 
 it, but it came into my head to ask him if there was any news. So upon
 
-that, he smirked, and simpered, and looked grave, and seemed to know
+that, he smirked, and simpered, and looked [[Grave|grave]], and seemed to know
 
-something or other, and at last he said in a whisper, ‘For fear any
+something or other, and at last he said in a whisper, ‘For [[Fear|fear]] any
 
 unpleasant report should reach the young ladies under your care as to
 
 their sister’s indisposition, I think it advisable to say, that I
 
-believe there is no great reason for alarm; I hope Mrs. Dashwood will
+believe there is no great reason for alarm; I [[Hope|hope]] Mrs. Dashwood will
 
-do very well.’”
+do very [[Well|well]].’”
 
 
 
@@ -17077,37 +17077,37 @@ do very well.’”
 
 Dashwood ill?’ So then it all came out; and the long and the short of
 
-the matter, by all I can learn, seems to be this. Mr. Edward Ferrars,
+the matter, by all I can learn, seems to be this. Mr. [[Edward Ferrars]],
 
 the very young man I used to joke with you about (but however, as it
 
 turns out, I am monstrous glad there was never any thing in it), Mr.
 
-Edward Ferrars, it seems, has been engaged above this twelvemonth to my
+[[Edward Ferrars]], it seems, has been engaged above this twelvemonth to my
 
 cousin Lucy!—There’s for you, my dear! And not a creature knowing a
 
-syllable of the matter, except Nancy! Could you have believed such a
+syllable of the matter, except [[Nancy]]! Could you have believed such a
 
-thing possible? There is no great wonder in their liking one another;
+thing possible? There is no great [[Wonder|wonder]] in their liking one another;
 
 but that matters should be brought so forward between them, and nobody
 
 suspect it! _That_ is strange! I never happened to see them together,
 
-or I am sure I should have found it out directly. Well, and so this was
+or I am sure I should have found it out directly. [[Well]], and so this was
 
-kept a great secret, for fear of Mrs. Ferrars, and neither she nor your
+kept a great secret, for [[Fear|fear]] of Mrs. Ferrars, and neither she nor your
 
 brother or sister suspected a word of the matter: till this very
 
-morning, poor Nancy, who, you know, is a well-meaning creature, but no
+morning, poor [[Nancy]], who, you know, is a [[Well|well]]-meaning creature, but no
 
 conjurer, popt it all out. ‘Lord!’ thinks she to herself, ‘they are all
 
 so fond of Lucy, to be sure they will make no difficulty about it;’ and
 
-so, away she went to your sister, who was sitting all alone at her
+so, away she went to your sister, who was sitting all [[Alone|alone]] at her
 
 carpet-work, little suspecting what was to come—for she had just been
 
@@ -17115,7 +17115,7 @@ saying to your brother, only five minutes before, that she thought to
 
 make a match between Edward and some Lord’s daughter or other, I forget
 
-who. So you may think what a blow it was to all her vanity and pride.
+who. So you may think what a blow it was to all her [[Vanity|vanity]] and [[Pride|pride]].
 
 She fell into violent hysterics immediately, with such screams as
 
@@ -17125,41 +17125,41 @@ down stairs, thinking about writing a letter to his steward in the
 
 country. So up he flew directly, and a terrible scene took place, for
 
-Lucy was come to them by that time, little dreaming what was going on.
+Lucy was come to them by that [[Time|time]], little dreaming what was going on.
 
-Poor soul! I pity _her_. And I must say, I think she was used very
+Poor [[Soul|soul]]! I pity _her_. And I must say, I think she was used very
 
 hardly; for your sister scolded like any fury, and soon drove her into
 
-a fainting fit. Nancy, she fell upon her knees, and cried bitterly; and
+a fainting fit. [[Nancy]], she fell upon her knees, and cried bitterly; and
 
 your brother, he walked about the room, and said he did not know what
 
 to do. Mrs. Dashwood declared they should not stay a minute longer in
 
-the house, and your brother was forced to go down upon _his_ knees too,
+the [[house]], and your brother was forced to go down upon _his_ knees too,
 
 to persuade her to let them stay till they had packed up their clothes.
 
 _Then_ she fell into hysterics again, and he was so frightened that he
 
-would send for Mr. Donavan, and Mr. Donavan found the house in all this
+would send for Mr. Donavan, and Mr. Donavan found the [[house]] in all this
 
 uproar. The carriage was at the door ready to take my poor cousins
 
 away, and they were just stepping in as he came off; poor Lucy in such
 
-a condition, he says, she could hardly walk; and Nancy, she was almost
+a condition, he says, she could hardly walk; and [[Nancy]], she was almost
 
-as bad. I declare, I have no patience with your sister; and I hope,
+as bad. I declare, I have no patience with your sister; and I [[Hope|hope]],
 
 with all my heart, it will be a match in spite of her. Lord! what a
 
-taking poor Mr. Edward will be in when he hears of it! To have his love
+taking poor Mr. Edward will be in when he hears of it! To have his [[Love|love]]
 
-used so scornfully! for they say he is monstrous fond of her, as well
+used so scornfully! for they say he is monstrous fond of her, as [[Well|well]]
 
-he may. I should not wonder, if he was to be in the greatest
+he may. I should not [[Wonder|wonder]], if he was to be in the greatest
 
 passion!—and Mr. Donavan thinks just the same. He and I had a great
 
@@ -17169,23 +17169,23 @@ again to Harley Street, that he may be within call when Mrs. Ferrars is
 
 told of it, for she was sent for as soon as ever my cousins left the
 
-house, for your sister was sure _she_ would be in hysterics too; and so
+[[house]], for your sister was sure _she_ would be in hysterics too; and so
 
 she may, for what I care. I have no pity for either of them. I have no
 
-notion of people’s making such a to-do about money and greatness. There
+notion of people’s making such a to-do about money and [[Greatness|greatness]]. There
 
 is no reason on earth why Mr. Edward and Lucy should not marry; for I
 
-am sure Mrs. Ferrars may afford to do very well by her son, and though
+am sure Mrs. Ferrars may afford to do very [[Well|well]] by her son, and though
 
-Lucy has next to nothing herself, she knows better than any body how to
+Lucy has next to nothing herself, she knows better than any [[Body|body]] how to
 
 make the most of every thing; I dare say, if Mrs. Ferrars would only
 
 allow him five hundred a-year, she would make as good an appearance
 
-with it as any body else would with eight. Lord! how snug they might
+with it as any [[Body|body]] else would with eight. Lord! how snug they might
 
 live in such another cottage as yours—or a little bigger—with two
 
@@ -17195,7 +17195,7 @@ my Betty has a sister out of place, that would fit them exactly.”
 
 
 
-Here Mrs. Jennings ceased, and as Elinor had had time enough to collect
+Here Mrs. Jennings ceased, and as Elinor had had [[Time|time]] enough to collect
 
 her thoughts, she was able to give such an answer, and make such
 
@@ -17207,7 +17207,7 @@ in it; that Mrs. Jennings (as she had of late often hoped might be the
 
 case) had ceased to imagine her at all attached to Edward; and happy
 
-above all the rest, in the absence of Marianne, she felt very well able
+above all the rest, in the absence of Marianne, she felt very [[Well|well]] able
 
 to speak of the affair without embarrassment, and to give her judgment,
 
@@ -17221,11 +17221,11 @@ She could hardly determine what her own expectation of its event really
 
 was; though she earnestly tried to drive away the notion of its being
 
-possible to end otherwise at last, than in the marriage of Edward and
+possible to end otherwise at last, than in the [[Marriage|marriage]] of Edward and
 
 Lucy. What Mrs. Ferrars would say and do, though there could not be a
 
-doubt of its nature, she was anxious to hear; and still more anxious to
+[[Doubt|doubt]] of its [[Nature|nature]], she was anxious to hear; and still more anxious to
 
 know how Edward would conduct himself. For _him_ she felt much
 
@@ -17237,9 +17237,9 @@ that little;—for the rest of the party none at all.
 
 As Mrs. Jennings could talk on no other subject, Elinor soon saw the
 
-necessity of preparing Marianne for its discussion. No time was to be
+necessity of preparing Marianne for its discussion. No [[Time|time]] was to be
 
-lost in undeceiving her, in making her acquainted with the real truth,
+lost in undeceiving her, in making her acquainted with the real [[Truth|truth]],
 
 and in endeavouring to bring her to hear it talked of by others,
 
@@ -17267,9 +17267,9 @@ be done, and Elinor therefore hastened to perform it.
 
 She was very far from wishing to dwell on her own feelings, or to
 
-represent herself as suffering much, any otherwise than as the
+represent herself as [[Suffering|suffering]] much, any otherwise than as the
 
-self-command she had practised since her first knowledge of Edward’s
+[[Self|self]]-command she had practised since her first knowledge of Edward’s
 
 engagement, might suggest a hint of what was practicable to Marianne.
 
@@ -17291,7 +17291,7 @@ of imprudence, was readily offered.
 
 
 
-But Marianne for some time would give credit to neither. Edward seemed
+But Marianne for some [[Time|time]] would give credit to neither. Edward seemed
 
 a second Willoughby; and acknowledging as Elinor did, that she _had_
 
@@ -17313,11 +17313,11 @@ could convince her, a better knowledge of mankind.
 
 Her first communication had reached no farther than to state the fact
 
-of the engagement, and the length of time it had existed.—Marianne’s
+of the engagement, and the length of [[Time|time]] it had existed.—Marianne’s
 
 feelings had then broken in, and put an end to all regularity of
 
-detail; and for some time all that could be done was to soothe her
+detail; and for some [[Time|time]] all that could be done was to soothe her
 
 distress, lessen her alarms, and combat her resentment. The first
 
@@ -17337,7 +17337,7 @@ last November, she told me in confidence of her engagement.”
 
 At these words, Marianne’s eyes expressed the astonishment which her
 
-lips could not utter. After a pause of wonder, she exclaimed—
+lips could not utter. After a pause of [[Wonder|wonder]], she exclaimed—
 
 
 
@@ -17369,7 +17369,7 @@ you been supported?”
 
 be secret. I owed it to her, therefore, to avoid giving any hint of the
 
-truth; and I owed it to my family and friends, not to create in them a
+[[Truth|truth]]; and I owed it to my family and friends, not to create in them a
 
 solicitude about me, which it could not be in my power to satisfy.”
 
@@ -17391,7 +17391,7 @@ my trust, I never could have convinced you.”
 
 
 
-“Yes. But I did not love only him; and while the comfort of others was
+“Yes. But I did not [[Love|love]] only him; and while the comfort of others was
 
 dear to me, I was glad to spare them from knowing how much I felt. Now,
 
@@ -17423,7 +17423,7 @@ fit—it is not possible that it should be so. Edward will marry Lucy; he
 
 will marry a woman superior in person and understanding to half her
 
-sex; and time and habit will teach him to forget that he ever thought
+sex; and [[Time|time]] and habit will teach him to forget that he ever thought
 
 another superior to _her_.”
 
@@ -17433,7 +17433,7 @@ another superior to _her_.”
 
 is most valued is so easily to be made up by something else, your
 
-resolution, your self-command, are, perhaps, a little less to be
+resolution, your [[Self|self]]-command, are, perhaps, a little less to be
 
 wondered at.—They are brought more within my comprehension.”
 
@@ -17463,7 +17463,7 @@ exultation to listen to again and again. I have known myself to be
 
 divided from Edward for ever, without hearing one circumstance that
 
-could make me less desire the connection. Nothing has proved him
+could make me less [[Desire|desire]] the connection. Nothing has proved him
 
 unworthy; nor has anything declared him indifferent to me.  I have had
 
@@ -17471,9 +17471,9 @@ to contend against the unkindness of his sister, and the insolence of
 
 his mother; and have suffered the punishment of an attachment, without
 
-enjoying its advantages. And all this has been going on at a time,
+enjoying its advantages. And all this has been going on at a [[Time|time]],
 
-when, as you know too well, it has not been my only unhappiness. If you
+when, as you know too [[Well|well]], it has not been my only unhappiness. If you
 
 can think me capable of ever feeling, surely you may suppose that I
 
@@ -17483,11 +17483,11 @@ myself at present to consider the matter, the consolation that I have
 
 been willing to admit, have been the effect of constant and painful
 
-exertion; they did not spring up of themselves; they did not occur to
+exertion; they did not [[Spring|spring]] up of themselves; they did not occur to
 
 relieve my spirits at first. No, Marianne. _Then_, if I had not been
 
-bound to silence, perhaps nothing could have kept me entirely—not even
+bound to [[Silence|silence]], perhaps nothing could have kept me entirely—not even
 
 what I owed to my dearest friends—from openly showing that I was _very_
 
@@ -17505,7 +17505,7 @@ barbarous have I been to you!—you, who have been my only comfort, who
 
 have borne with me in all my misery, who have seemed to be only
 
-suffering for me!—Is this my gratitude?—Is this the only return I can
+[[Suffering|suffering]] for me!—Is this my gratitude?—Is this the only return I can
 
 make you?—Because your merit cries out upon myself, I have been trying
 
@@ -17545,7 +17545,7 @@ with only moving from one chair to another, and when Mrs. Jennings
 
 talked of Edward’s affection, it cost her only a spasm in her
 
-throat.—Such advances towards heroism in her sister, made Elinor feel
+throat.—Such advances towards [[Heroism|heroism]] in her sister, made Elinor feel
 
 equal to any thing herself.
 
@@ -17575,7 +17575,7 @@ They all looked their assent; it seemed too awful a moment for speech.
 
 too—in short it has been a scene of such complicated distress—but I
 
-will hope that the storm may be weathered without our being any of us
+will [[Hope|hope]] that the [[Storm|storm]] may be weathered without our being any of us
 
 quite overcome. Poor Fanny! she was in hysterics all yesterday. But I
 
@@ -17585,17 +17585,17 @@ to be apprehended; her constitution is a good one, and her resolution
 
 equal to any thing. She has borne it all, with the fortitude of an
 
-angel! She says she never shall think well of anybody again; and one
+angel! She says she never shall think [[Well|well]] of anybody again; and one
 
-cannot wonder at it, after being so deceived!—meeting with such
+cannot [[Wonder|wonder]] at it, after being so deceived!—meeting with such
 
 ingratitude, where so much kindness had been shown, so much confidence
 
 had been placed! It was quite out of the benevolence of her heart, that
 
-she had asked these young women to her house; merely because she
+she had asked these young women to her [[house]]; merely because she
 
-thought they deserved some attention, were harmless, well-behaved
+thought they deserved some attention, were harmless, [[Well|well]]-behaved
 
 girls, and would be pleasant companions; for otherwise we both wished
 
@@ -17619,7 +17619,7 @@ not to be described. While she with the truest affection had been
 
 planning a most eligible connection for him, was it to be supposed that
 
-he could be all the time secretly engaged to another person!—such a
+he could be all the [[Time|time]] secretly engaged to another person!—such a
 
 suspicion could never have entered her head! If she suspected _any_
 
@@ -17633,7 +17633,7 @@ done, and at last she determined to send for Edward. He came. But I am
 
 sorry to relate what ensued. All that Mrs. Ferrars could say to make
 
-him put an end to the engagement, assisted too as you may well suppose
+him put an end to the engagement, assisted too as you may [[Well|well]] suppose
 
 by my arguments, and Fanny’s entreaties, was of no avail. Duty,
 
@@ -17669,7 +17669,7 @@ together, and cried, “Gracious God! can this be possible!”
 
 
 
-“Well may you wonder, Marianne,” replied her brother, “at the obstinacy
+“[[Well]] may you [[Wonder|wonder]], Marianne,” replied her brother, “at the obstinacy
 
 which could resist such arguments as these. Your exclamation is very
 
@@ -17699,9 +17699,9 @@ silent, “he has acted like an honest man! I beg your pardon, Mr.
 
 Dashwood, but if he had done otherwise, I should have thought him a
 
-rascal. I have some little concern in the business, as well as
+rascal. I have some little concern in the business, as [[Well|well]] as
 
-yourself, for Lucy Steele is my cousin, and I believe there is not a
+yourself, for [[Lucy Steele]] is my cousin, and I believe there is not a
 
 better kind of girl in the world, nor one who more deserves a good
 
@@ -17709,7 +17709,7 @@ husband.”
 
 
 
-John Dashwood was greatly astonished; but his nature was calm, not open
+John Dashwood was greatly astonished; but his [[Nature|nature]] was calm, not open
 
 to provocation, and he never wished to offend anybody, especially
 
@@ -17719,7 +17719,7 @@ anybody of good fortune. He therefore replied, without any resentment,
 
 “I would by no means speak disrespectfully of any relation of yours,
 
-madam. Miss Lucy Steele is, I dare say, a very deserving young woman,
+madam. Miss [[Lucy Steele]] is, I dare say, a very deserving young woman,
 
 but in the present case you know, the connection must be impossible.
 
@@ -17737,7 +17737,7 @@ and Mrs. Ferrars’s conduct throughout the whole, has been such as every
 
 conscientious, good mother, in like circumstances, would adopt. It has
 
-been dignified and liberal. Edward has drawn his own lot, and I fear it
+been dignified and liberal. Edward has drawn his own lot, and I [[Fear|fear]] it
 
 will be a bad one.”
 
@@ -17751,13 +17751,13 @@ woman who could not reward him.
 
 
 
-“Well, sir,” said Mrs. Jennings, “and how did it end?”
+“[[Well]], sir,” said Mrs. Jennings, “and how did it end?”
 
 
 
 “I am sorry to say, ma’am, in a most unhappy rupture:—Edward is
 
-dismissed for ever from his mother’s notice. He left her house
+dismissed for ever from his mother’s notice. He left her [[house]]
 
 yesterday, but where he is gone, or whether he is still in town, I do
 
@@ -17769,7 +17769,7 @@ not know; for _we_ of course can make no inquiry.”
 
 
 
-“What, indeed, ma’am! It is a melancholy consideration. Born to the
+“What, indeed, ma’am! It is a [[Melancholy|melancholy]] consideration. Born to the
 
 prospect of such affluence! I cannot conceive a situation more
 
@@ -17791,7 +17791,7 @@ power to assist him.”
 
 “Poor young man!” cried Mrs. Jennings, “I am sure he should be very
 
-welcome to bed and board at my house; and so I would tell him if I
+welcome to bed and board at my [[house]]; and so I would tell him if I
 
 could see him. It is not fit that he should be living about at his own
 
@@ -17805,7 +17805,7 @@ could not forbear smiling at the form of it.
 
 
 
-“If he would only have done as well by himself,” said John Dashwood,
+“If he would only have done as [[Well|well]] by himself,” said John Dashwood,
 
 “as all his friends were disposed to do by him, he might now have been
 
@@ -17825,7 +17825,7 @@ over the business.”
 
 
 
-“Well!” said Mrs. Jennings, “that is _her_ revenge. Everybody has a way
+“[[Well]]!” said Mrs. Jennings, “that is _her_ [[Revenge|revenge]]. Everybody has a way
 
 of their own. But I don’t think mine would be, to make one son
 
@@ -17899,7 +17899,7 @@ punishment. But though confidence between them was, by this public
 
 discovery, restored to its proper state, it was not a subject on which
 
-either of them were fond of dwelling when alone. Elinor avoided it upon
+either of them were fond of dwelling when [[Alone|alone]]. Elinor avoided it upon
 
 principle, as tending to fix still more upon her thoughts, by the too
 
@@ -17907,7 +17907,7 @@ warm, too positive assurances of Marianne, that belief of Edward’s
 
 continued affection for herself which she rather wished to do away; and
 
-Marianne’s courage soon failed her, in trying to converse upon a topic
+Marianne’s [[Courage|courage]] soon failed her, in trying to converse upon a topic
 
 which always left her more dissatisfied with herself than ever, by the
 
@@ -17919,13 +17919,13 @@ own.
 
 She felt all the force of that comparison; but not as her sister had
 
-hoped, to urge her to exertion now; she felt it with all the pain of
+hoped, to urge her to exertion now; she felt it with all the [[Pain|pain]] of
 
-continual self-reproach, regretted most bitterly that she had never
+continual [[Self|self]]-reproach, regretted most bitterly that she had never
 
 exerted herself before; but it brought only the torture of penitence,
 
-without the hope of amendment. Her mind was so much weakened that she
+without the [[Hope|hope]] of amendment. Her mind was so much weakened that she
 
 still fancied present exertion impossible, and therefore it only
 
@@ -17947,13 +17947,13 @@ inquiry to her cousins as soon as she could; and nothing but the
 
 hindrance of more visitors than usual, had prevented her going to them
 
-within that time.
+within that [[Time|time]].
 
 
 
 The third day succeeding their knowledge of the particulars, was so
 
-fine, so beautiful a Sunday as to draw many to Kensington Gardens,
+fine, so beautiful a [[Sunday]] as to draw many to Kensington Gardens,
 
 though it was only the second week in March. Mrs. Jennings and Elinor
 
@@ -17961,7 +17961,7 @@ were of the number; but Marianne, who knew that the Willoughbys were
 
 again in town, and had a constant dread of meeting them, chose rather
 
-to stay at home, than venture into so public a place.
+to stay at [[Home|home]], than venture into so public a place.
 
 
 
@@ -17973,9 +17973,9 @@ with them, and engaging all Mrs. Jennings’s conversation, she was
 
 herself left to quiet reflection. She saw nothing of the Willoughbys,
 
-nothing of Edward, and for some time nothing of anybody who could by
+nothing of Edward, and for some [[Time|time]] nothing of anybody who could by
 
-any chance whether grave or gay, be interesting to her. But at last she
+any chance whether [[Grave|grave]] or gay, be interesting to her. But at last she
 
 found herself with some surprise, accosted by Miss Steele, who, though
 
@@ -17983,7 +17983,7 @@ looking rather shy, expressed great satisfaction in meeting them, and
 
 on receiving encouragement from the particular kindness of Mrs.
 
-Jennings, left her own party for a short time, to join their’s. Mrs.
+Jennings, left her own party for a short [[Time|time]], to join their’s. Mrs.
 
 Jennings immediately whispered to Elinor,
 
@@ -18025,7 +18025,7 @@ she angry?”
 
 
 
-“I am monstrous glad of it. Good gracious! I have had such a time of
+“I am monstrous glad of it. Good gracious! I have had such a [[Time|time]] of
 
 it! I never saw Lucy in such a rage in my life. She vowed at first she
 
@@ -18035,7 +18035,7 @@ again, so long as she lived; but now she is quite come to, and we are
 
 as good friends as ever. Look, she made me this bow to my hat, and put
 
-in the feather last night. There now, _you_ are going to laugh at me
+in the feather last [[Night|night]]. There now, _you_ are going to laugh at me
 
 too. But why should not I wear pink ribbons? I do not care if it _is_
 
@@ -18057,7 +18057,7 @@ the first.
 
 
 
-“Well, but Miss Dashwood,” speaking triumphantly, “people may say what
+“[[Well]], but Miss Dashwood,” speaking triumphantly, “people may say what
 
 they chuse about Mr. Ferrars’s declaring he would not have Lucy, for it
 
@@ -18077,17 +18077,17 @@ said Elinor.
 
 
 
-“Oh, did not you? But it _was_ said, I know, very well, and by more
+“Oh, did not you? But it _was_ said, I know, very [[Well|well]], and by more
 
 than one; for Miss Godby told Miss Sparks, that nobody in their senses
 
 could expect Mr. Ferrars to give up a woman like Miss Morton, with
 
-thirty thousand pounds to her fortune, for Lucy Steele that had nothing
+thirty thousand pounds to her fortune, for [[Lucy Steele]] that had nothing
 
 at all; and I had it from Miss Sparks myself. And besides that, my
 
-cousin Richard said himself, that when it came to the point he was
+cousin [[Richard]] said himself, that when it came to the point he was
 
 afraid Mr. Ferrars would be off; and when Edward did not come near us
 
@@ -18095,13 +18095,13 @@ for three days, I could not tell what to think myself; and I believe in
 
 my heart Lucy gave it up all for lost; for we came away from your
 
-brother’s Wednesday, and we saw nothing of him not all Thursday,
+brother’s Wednesday, and we saw nothing of him not all [[thursday|Thursday]],
 
 Friday, and Saturday, and did not know what was become of him. Once
 
-Lucy thought to write to him, but then her spirits rose against that.
+Lucy thought to write to him, but then her spirits [[Rose|rose]] against that.
 
-However this morning he came just as we came home from church; and then
+However this morning he came just as we came [[Home|home]] from church; and then
 
 it all came out, how he had been sent for Wednesday to Harley Street,
 
@@ -18111,11 +18111,11 @@ declared before them all that he loved nobody but Lucy, and nobody but
 
 Lucy would he have. And how he had been so worried by what passed, that
 
-as soon as he had went away from his mother’s house, he had got upon
+as soon as he had went away from his mother’s [[house]], he had got upon
 
-his horse, and rid into the country, some where or other; and how he
+his [[Horse|horse]], and rid into the country, some where or other; and how he
 
-had stayed about at an inn all Thursday and Friday, on purpose to get
+had stayed about at an inn all [[thursday|Thursday]] and Friday, on purpose to get
 
 the better of it. And after thinking it all over and over again, he
 
@@ -18125,7 +18125,7 @@ all, it would be quite unkind to keep her on to the engagement, because
 
 it must be for her loss, for he had nothing but two thousand pounds,
 
-and no hope of any thing else; and if he was to go into orders, as he
+and no [[Hope|hope]] of any thing else; and if he was to go into orders, as he
 
 had some thoughts, he could get nothing but a curacy, and how was they
 
@@ -18147,7 +18147,7 @@ like it. But, to be sure, Lucy would not give ear to such kind of
 
 talking; so she told him directly (with a great deal about sweet and
 
-love, you know, and all that—Oh, la! one can’t repeat such kind of
+[[Love|love]], you know, and all that—Oh, la! one can’t repeat such kind of
 
 things you know)—she told him directly, she had not the least mind in
 
@@ -18157,7 +18157,7 @@ little so ever he might have, she should be very glad to have it all,
 
 you know, or something of the kind. So then he was monstrous happy, and
 
-talked on some time about what they should do, and they agreed he
+talked on some [[Time|time]] about what they should do, and they agreed he
 
 should take orders directly, and they must wait to be married till he
 
@@ -18181,9 +18181,9 @@ pair of silk stockings and came off with the Richardsons.”
 
 
 
-“No, indeed, not us. La! Miss Dashwood, do you think people make love
+“No, indeed, not us. La! Miss Dashwood, do you think people make [[Love|love]]
 
-when any body else is by? Oh, for shame!—To be sure you must know
+when any [[Body|body]] else is by? Oh, for shame!—To be sure you must know
 
 better than that. (Laughing affectedly.)—No, no; they were shut up in
 
@@ -18211,7 +18211,7 @@ heard what I could. And I am sure Lucy would have done just the same by
 
 me; for a year or two back, when Martha Sharpe and I had so many
 
-secrets together, she never made any bones of hiding in a closet, or
+[[Secrets|secrets]] together, she never made any bones of hiding in a closet, or
 
 behind a chimney-board, on purpose to hear what we said.”
 
@@ -18223,7 +18223,7 @@ kept beyond a couple of minutes, from what was uppermost in her mind.
 
 
 
-“Edward talks of going to Oxford soon,” said she; “but now he is
+“Edward talks of going to [[Oxford]] soon,” said she; “but now he is
 
 lodging at No.—, Pall Mall. What an ill-natured woman his mother is,
 
@@ -18231,19 +18231,19 @@ an’t she? And your brother and sister were not very kind! However, I
 
 shan’t say anything against them to _you;_ and to be sure they did send
 
-us home in their own chariot, which was more than I looked for. And for
+us [[Home|home]] in their own chariot, which was more than I looked for. And for
 
-my part, I was all in a fright for fear your sister should ask us for
+my part, I was all in a fright for [[Fear|fear]] your sister should ask us for
 
 the huswifes she had gave us a day or two before; but, however, nothing
 
 was said about them, and I took care to keep mine out of sight. Edward
 
-have got some business at Oxford, he says; so he must go there for a
+have got some business at [[Oxford]], he says; so he must go there for a
 
-time; and after _that_, as soon as he can light upon a Bishop, he will
+[[Time|time]]; and after _that_, as soon as he can light upon a Bishop, he will
 
-be ordained. I wonder what curacy he will get! Good gracious! (giggling
+be ordained. I [[Wonder|wonder]] what curacy he will get! Good gracious! (giggling
 
 as she spoke) I’d lay my life I know what my cousins will say, when
 
@@ -18253,13 +18253,13 @@ Edward the curacy of his new living. I know they will; but I am sure I
 
 would not do such a thing for all the world. ‘La!’ I shall say
 
-directly, ‘I wonder how you could think of such a thing? _I_ write to
+directly, ‘I [[Wonder|wonder]] how you could think of such a thing? _I_ write to
 
 the Doctor, indeed!’”
 
 
 
-“Well,” said Elinor, “it is a comfort to be prepared against the worst.
+“[[Well]],” said Elinor, “it is a comfort to be prepared against the worst.
 
 You have got your answer ready.”
 
@@ -18277,7 +18277,7 @@ you, but I must not stay away from them not any longer. I assure you
 
 they are very genteel people. He makes a monstrous deal of money, and
 
-they keep their own coach. I have not time to speak to Mrs. Jennings
+they keep their own coach. I have not [[Time|time]] to speak to Mrs. Jennings
 
 about it myself, but pray tell her I am quite happy to hear she is not
 
@@ -18287,29 +18287,29 @@ should happen to take you and your sister away, and Mrs. Jennings
 
 should want company, I am sure we should be very glad to come and stay
 
-with her for as long a time as she likes. I suppose Lady Middleton
+with her for as long a [[Time|time]] as she likes. I suppose Lady Middleton
 
 won’t ask us any more this bout. Good-by; I am sorry Miss Marianne was
 
 not here. Remember me kindly to her. La! if you have not got your
 
-spotted muslin on!—I wonder you was not afraid of its being torn.”
+spotted muslin on!—I [[Wonder|wonder]] you was not afraid of its being torn.”
 
 
 
-Such was her parting concern; for after this, she had time only to pay
+Such was her parting concern; for after this, she had [[Time|time]] only to pay
 
 her farewell compliments to Mrs. Jennings, before her company was
 
 claimed by Mrs. Richardson; and Elinor was left in possession of
 
-knowledge which might feed her powers of reflection some time, though
+knowledge which might feed her powers of reflection some [[Time|time]], though
 
 she had learnt very little more than what had been already foreseen and
 
-foreplanned in her own mind. Edward’s marriage with Lucy was as firmly
+foreplanned in her own mind. Edward’s [[Marriage|marriage]] with Lucy was as firmly
 
-determined on, and the time of its taking place remained as absolutely
+determined on, and the [[Time|time]] of its taking place remained as absolutely
 
 uncertain, as she had concluded it would be;—every thing depended,
 
@@ -18347,11 +18347,11 @@ will set down upon a curacy of fifty pounds a-year, with the interest
 
 of his two thousand pounds, and what little matter Mr. Steele and Mr.
 
-Pratt can give her. Then they will have a child every year! and Lord
+Pratt can give her. Then they will have a [[Child|child]] every year! and Lord
 
 help ’em! how poor they will be! I must see what I can give them
 
-towards furnishing their house. Two maids and two men, indeed! as I
+towards furnishing their [[house]]. Two maids and two men, indeed! as I
 
 talked of t’ other day. No, no, they must get a stout girl of all
 
@@ -18371,9 +18371,9 @@ Lucy herself. It was as follows:
 
 
 
-“I hope my dear Miss Dashwood will excuse the liberty I take of writing
+“I [[Hope|hope]] my dear Miss Dashwood will excuse the liberty I take of writing
 
-to her; but I know your friendship for me will make you pleased to hear
+to her; but I know your [[Friendship|friendship]] for me will make you pleased to hear
 
 such a good account of myself and my dear Edward, after all the
 
@@ -18381,11 +18381,11 @@ troubles we have went through lately, therefore will make no more
 
 apologies, but proceed to say that, thank God! though we have suffered
 
-dreadfully, we are both quite well now, and as happy as we must always
+dreadfully, we are both quite [[Well|well]] now, and as happy as we must always
 
-be in one another’s love. We have had great trials, and great
+be in one another’s [[Love|love]]. We have had great trials, and great
 
-persecutions, but however, at the same time, gratefully acknowledge
+persecutions, but however, at the same [[Time|time]], gratefully acknowledge
 
 many friends, yourself not the least among them, whose great kindness I
 
@@ -18405,9 +18405,9 @@ never be, he did not regard his mother’s anger, while he could have my
 
 affections; our prospects are not very bright, to be sure, but we must
 
-wait, and hope for the best; he will be ordained shortly; and should it
+wait, and [[Hope|hope]] for the best; he will be ordained shortly; and should it
 
-ever be in your power to recommend him to any body that has a living to
+ever be in your power to recommend him to any [[Body|body]] that has a living to
 
 bestow, am very sure you will not forget us, and dear Mrs. Jennings
 
@@ -18417,7 +18417,7 @@ Palmer, or any friend that may be able to assist us.—Poor Anne was much
 
 to blame for what she did, but she did it for the best, so I say
 
-nothing; hope Mrs. Jennings won’t think it too much trouble to give us
+nothing; [[Hope|hope]] Mrs. Jennings won’t think it too much trouble to give us
 
 a call, should she come this way any morning, ’twould be a great
 
@@ -18427,7 +18427,7 @@ me to conclude; and begging to be most gratefully and respectfully
 
 remembered to her, and to Sir John, and Lady Middleton, and the dear
 
-children, when you chance to see them, and love to Miss Marianne,
+children, when you chance to see them, and [[Love|love]] to Miss Marianne,
 
 
 
@@ -18449,19 +18449,19 @@ praise.
 
 
 
-“Very well indeed!—how prettily she writes!—aye, that was quite proper
+“Very [[Well|well]] indeed!—how prettily she writes!—aye, that was quite proper
 
-to let him be off if he would. That was just like Lucy. Poor soul! I
+to let him be off if he would. That was just like Lucy. Poor [[Soul|soul]]! I
 
 wish I _could_ get him a living, with all my heart. She calls me dear
 
 Mrs. Jennings, you see. She is a good-hearted girl as ever lived. Very
 
-well upon my word. That sentence is very prettily turned. Yes, yes, I
+[[Well|well]] upon my word. That sentence is very prettily turned. Yes, yes, I
 
 will go and see her, sure enough. How attentive she is, to think of
 
-every body!—Thank you, my dear, for showing it me. It is as pretty a
+every [[Body|body]]!—Thank you, my dear, for showing it me. It is as pretty a
 
 letter as ever I saw, and does Lucy’s head and heart great credit.”
 
@@ -18491,7 +18491,7 @@ less anxious than herself for their removal, and only so much less bent
 
 on its being effected immediately, as that she was conscious of the
 
-difficulties of so long a journey, which Marianne could not be brought
+difficulties of so long a [[Journey|journey]], which Marianne could not be brought
 
 to acknowledge. She began, however, seriously to turn her thoughts
 
@@ -18501,7 +18501,7 @@ their kind hostess, who resisted them with all the eloquence of her
 
 good-will, when a plan was suggested, which, though detaining them from
 
-home yet a few weeks longer, appeared to Elinor altogether much more
+[[Home|home]] yet a few weeks longer, appeared to Elinor altogether much more
 
 eligible than any other. The Palmers were to remove to Cleveland about
 
@@ -18553,7 +18553,7 @@ feelings;—she only endeavoured to counteract them by working on
 
 others;—represented it, therefore, as a measure which would fix the
 
-time of her returning to that dear mother, whom she so much wished to
+[[Time|time]] of her returning to that dear mother, whom she so much wished to
 
 see, in a more eligible, more comfortable manner, than any other plan
 
@@ -18561,13 +18561,13 @@ could do, and perhaps without any greater delay. From Cleveland, which
 
 was within a few miles of Bristol, the distance to Barton was not
 
-beyond one day, though a long day’s journey; and their mother’s servant
+beyond one day, though a long day’s [[Journey|journey]]; and their mother’s servant
 
 might easily come there to attend them down; and as there could be no
 
 occasion of their staying above a week at Cleveland, they might now be
 
-at home in little more than three weeks’ time. As Marianne’s affection
+at [[Home|home]] in little more than three weeks’ [[Time|time]]. As Marianne’s affection
 
 for her mother was sincere, it must triumph with little difficulty,
 
@@ -18597,7 +18597,7 @@ Dashwoods;”—was Mrs. Jennings’s address to him when he first called on
 
 her, after their leaving her was settled—“for they are quite resolved
 
-upon going home from the Palmers;—and how forlorn we shall be, when I
+upon going [[Home|home]] from the Palmers;—and how forlorn we shall be, when I
 
 come back!—Lord! we shall sit and gape at one another as dull as two
 
@@ -18605,7 +18605,7 @@ cats.”
 
 
 
-Perhaps Mrs. Jennings was in hopes, by this vigorous sketch of their
+Perhaps Mrs. Jennings was in hopes, by this vigorous [[Sketch|sketch]] of their
 
 future ennui, to provoke him to make that offer, which might give
 
@@ -18613,7 +18613,7 @@ himself an escape from it; and if so, she had soon afterwards good
 
 reason to think her object gained; for, on Elinor’s moving to the
 
-window to take more expeditiously the dimensions of a print, which she
+[[Window|window]] to take more expeditiously the dimensions of a print, which she
 
 was going to copy for her friend, he followed her to it with a look of
 
@@ -18637,9 +18637,9 @@ Marianne’s turning from one lesson to another, some words of the
 
 Colonel’s inevitably reached her ear, in which he seemed to be
 
-apologising for the badness of his house. This set the matter beyond a
+apologising for the badness of his [[house]]. This set the matter beyond a
 
-doubt. She wondered, indeed, at his thinking it necessary to do so; but
+[[Doubt|doubt]]. She wondered, indeed, at his thinking it necessary to do so; but
 
 supposed it to be the proper etiquette. What Elinor said in reply she
 
@@ -18665,7 +18665,7 @@ Astonished and shocked at so unlover-like a speech, she was almost
 
 ready to cry out, “Lord! what should hinder it?”—but checking her
 
-desire, confined herself to this silent ejaculation.
+[[Desire|desire]], confined herself to this silent ejaculation.
 
 
 
@@ -18731,9 +18731,9 @@ doing—what she may drive her son to. I have seen Mr. Ferrars two or
 
 three times in Harley Street, and am much pleased with him. He is not a
 
-young man with whom one can be intimately acquainted in a short time,
+young man with whom one can be intimately acquainted in a short [[Time|time]],
 
-but I have seen enough of him to wish him well for his own sake, and as
+but I have seen enough of him to wish him [[Well|well]] for his own sake, and as
 
 a friend of yours, I wish it still more. I understand that he intends
 
@@ -18745,11 +18745,11 @@ if he think it worth his acceptance; but _that_, perhaps, so
 
 unfortunately circumstanced as he is now, it may be nonsense to appear
 
-to doubt; I only wish it were more valuable. It is a rectory, but a
+to [[Doubt|doubt]]; I only wish it were more valuable. It is a rectory, but a
 
 small one; the late incumbent, I believe, did not make more than 200£
 
-per annum, and though it is certainly capable of improvement, I fear,
+per annum, and though it is certainly capable of improvement, I [[Fear|fear]],
 
 not to such an amount as to afford him a very comfortable income. Such
 
@@ -18775,9 +18775,9 @@ cause; but whatever minor feelings less pure, less pleasing, might have
 
 a share in that emotion, her esteem for the general benevolence, and
 
-her gratitude for the particular friendship, which together prompted
+her gratitude for the particular [[Friendship|friendship]], which together prompted
 
-Colonel Brandon to this act, were strongly felt, and warmly expressed.
+[[Colonel Brandon]] to this act, were strongly felt, and warmly expressed.
 
 She thanked him for it with all her heart, spoke of Edward’s principles
 
@@ -18787,13 +18787,13 @@ promised to undertake the commission with pleasure, if it were really
 
 his wish to put off so agreeable an office to another. But at the same
 
-time, she could not help thinking that no one could so well perform it
+[[Time|time]], she could not help thinking that no one could so [[Well|well]] perform it
 
 as himself. It was an office in short, from which, unwilling to give
 
-Edward the pain of receiving an obligation from _her_, she would have
+Edward the [[Pain|pain]] of receiving an obligation from _her_, she would have
 
-been very glad to be spared herself; but Colonel Brandon, on motives of
+been very glad to be spared herself; but [[Colonel Brandon]], on motives of
 
 equal delicacy, declining it likewise, still seemed so desirous of its
 
@@ -18805,11 +18805,11 @@ fortunately she had heard his address from Miss Steele. She could
 
 undertake therefore to inform him of it, in the course of the day.
 
-After this had been settled, Colonel Brandon began to talk of his own
+After this had been settled, [[Colonel Brandon]] began to talk of his own
 
 advantage in securing so respectable and agreeable a neighbour, and
 
-_then_ it was that he mentioned with regret, that the house was small
+_then_ it was that he mentioned with regret, that the [[house]] was small
 
 and indifferent; an evil which Elinor, as Mrs. Jennings had supposed
 
@@ -18817,7 +18817,7 @@ her to do, made very light of, at least as far as regarded its size.
 
 
 
-“The smallness of the house,” said she, “I cannot imagine any
+“The smallness of the [[house]],” said she, “I cannot imagine any
 
 inconvenience to them, for it will be in proportion to their family and
 
@@ -18827,7 +18827,7 @@ income.”
 
 By which the Colonel was surprised to find that _she_ was considering
 
-Mr. Ferrars’s marriage as the certain consequence of the presentation;
+Mr. Ferrars’s [[Marriage|marriage]] as the certain consequence of the presentation;
 
 for he did not suppose it possible that Delaford living could supply
 
@@ -18853,7 +18853,7 @@ at present. What I am now doing indeed, seems nothing at all, since it
 
 can advance him so little towards what must be his principal, his only
 
-object of happiness. His marriage must still be a distant good; at
+object of happiness. His [[Marriage|marriage]] must still be a distant good; at
 
 least, I am afraid it cannot take place very soon.”
 
@@ -18863,13 +18863,13 @@ Such was the sentence which, when misunderstood, so justly offended the
 
 delicate feelings of Mrs. Jennings; but after this narration of what
 
-really passed between Colonel Brandon and Elinor, while they stood at
+really passed between [[Colonel Brandon]] and Elinor, while they stood at
 
-the window, the gratitude expressed by the latter on their parting, may
+the [[Window|window]], the gratitude expressed by the latter on their parting, may
 
 perhaps appear in general, not less reasonably excited, nor less
 
-properly worded than if it had arisen from an offer of marriage.
+properly worded than if it had arisen from an offer of [[Marriage|marriage]].
 
 
 
@@ -18885,11 +18885,11 @@ CHAPTER XL.
 
 
 
-“Well, Miss Dashwood,” said Mrs. Jennings, sagaciously smiling, as soon
+“[[Well]], Miss Dashwood,” said Mrs. Jennings, sagaciously smiling, as soon
 
 as the gentleman had withdrawn, “I do not ask you what the Colonel has
 
-been saying to you; for though, upon my honour, I _tried_ to keep out
+been saying to you; for though, upon my [[Honour|honour]], I _tried_ to keep out
 
 of hearing, I could not help catching enough to understand his
 
@@ -18901,7 +18901,7 @@ wish you joy of it with all my heart.”
 
 “Thank you, ma’am,” said Elinor. “It _is_ a matter of great joy to me;
 
-and I feel the goodness of Colonel Brandon most sensibly. There are not
+and I feel the goodness of [[Colonel Brandon]] most sensibly. There are not
 
 many men who would act as he has done. Few people who have so
 
@@ -18929,7 +18929,7 @@ soon occur.”
 
 once made up his mind to such a thing, somehow or other he will soon
 
-find an opportunity. Well, my dear, I wish you joy of it again and
+find an opportunity. [[Well]], my dear, I wish you joy of it again and
 
 again; and if ever there was a happy couple in the world, I think I
 
@@ -18943,7 +18943,7 @@ faint smile.
 
 
 
-“Aye, my dear, that I do, indeed. And as to the house being a bad one,
+“Aye, my dear, that I do, indeed. And as to the [[house]] being a bad one,
 
 I do not know what the Colonel would be at, for it is as good a one as
 
@@ -18955,7 +18955,7 @@ ever I saw.”
 
 
 
-“Well, and whose fault is that? why don’t he repair it?—who should do
+“[[Well]], and whose fault is that? why don’t he repair it?—who should do
 
 it but himself?”
 
@@ -18969,11 +18969,11 @@ go, said,—
 
 
 
-“Well, my dear, I must be gone before I have had half my talk out. But,
+“[[Well]], my dear, I must be gone before I have had half my talk out. But,
 
 however, we may have it all over in the evening; for we shall be quite
 
-alone. I do not ask you to go with me, for I dare say your mind is too
+[[Alone|alone]]. I do not ask you to go with me, for I dare say your mind is too
 
 full of the matter to care for company; and besides, you must long to
 
@@ -18987,11 +18987,11 @@ Marianne had left the room before the conversation began.
 
 “Certainly, ma’am, I shall tell Marianne of it; but I shall not mention
 
-it at present to any body else.”
+it at present to any [[Body|body]] else.”
 
 
 
-“Oh! very well,” said Mrs. Jennings rather disappointed. “Then you
+“Oh! very [[Well|well]],” said Mrs. Jennings rather disappointed. “Then you
 
 would not have me tell it to Lucy, for I think of going as far as
 
@@ -19003,9 +19003,9 @@ Holborn to-day.”
 
 very material; and till I have written to Mr. Ferrars, I think it ought
 
-not to be mentioned to any body else. I shall do _that_ directly. It is
+not to be mentioned to any [[Body|body]] else. I shall do _that_ directly. It is
 
-of importance that no time should be lost with him, for he will of
+of importance that no [[Time|time]] should be lost with him, for he will of
 
 course have much to do relative to his ordination.”
 
@@ -19021,7 +19021,7 @@ very happy idea, and she exclaimed;—
 
 
 
-“Oh, ho!—I understand you. Mr. Ferrars is to be the man. Well, so much
+“Oh, ho!—I understand you. Mr. Ferrars is to be the man. [[Well]], so much
 
 the better for him. Ay, to be sure, he must be ordained in readiness;
 
@@ -19041,19 +19041,19 @@ only replied to its conclusion.
 
 
 
-“Colonel Brandon is so delicate a man, that he rather wished any one to
+“[[Colonel Brandon]] is so delicate a man, that he rather wished any one to
 
 announce his intentions to Mr. Ferrars than himself.”
 
 
 
-“And so _you_ are forced to do it. Well _that_ is an odd kind of
+“And so _you_ are forced to do it. [[Well]] _that_ is an odd kind of
 
 delicacy! However, I will not disturb you (seeing her preparing to
 
 write.) You know your own concerns best. So goodby, my dear. I have not
 
-heard of any thing to please me so well since Charlotte was brought to
+heard of any thing to please me so [[Well|well]] since Charlotte was brought to
 
 bed.”
 
@@ -19069,7 +19069,7 @@ glad to get her so good a mistress. But whether she would do for a
 
 lady’s maid, I am sure I can’t tell. She is an excellent housemaid, and
 
-works very well at her needle. However, you will think of all that at
+works very [[Well|well]] at her needle. However, you will think of all that at
 
 your leisure.”
 
@@ -19077,7 +19077,7 @@ your leisure.”
 
 “Certainly, ma’am,” replied Elinor, not hearing much of what she said,
 
-and more anxious to be alone, than to be mistress of the subject.
+and more anxious to be [[Alone|alone]], than to be mistress of the subject.
 
 
 
@@ -19143,13 +19143,13 @@ say any thing, after taking a chair.
 
 least I understood her so—or I certainly should not have intruded on
 
-you in such a manner; though at the same time, I should have been
+you in such a manner; though at the same [[Time|time]], I should have been
 
-extremely sorry to leave London without seeing you and your sister;
+extremely sorry to leave [[London]] without seeing you and your sister;
 
-especially as it will most likely be some time—it is not probable that
+especially as it will most likely be some [[Time|time]]—it is not probable that
 
-I should soon have the pleasure of meeting you again. I go to Oxford
+I should soon have the pleasure of meeting you again. I go to [[Oxford]]
 
 tomorrow.”
 
@@ -19177,7 +19177,7 @@ offering you the living of Delaford now just vacant, and only wishes it
 
 were more valuable. Allow me to congratulate you on having so
 
-respectable and well-judging a friend, and to join in his wish that the
+respectable and [[Well|well]]-judging a friend, and to join in his wish that the
 
 living—it is about two hundred a-year—were much more considerable, and
 
@@ -19199,13 +19199,13 @@ exciting; but he said only these two words,—
 
 
 
-“Colonel Brandon!”
+“[[Colonel Brandon]]!”
 
 
 
 “Yes,” continued Elinor, gathering more resolution, as some of the
 
-worst was over, “Colonel Brandon means it as a testimony of his concern
+worst was over, “[[Colonel Brandon]] means it as a testimony of his concern
 
 for what has lately passed—for the cruel situation in which the
 
@@ -19219,13 +19219,13 @@ his particular approbation of your behaviour on the present occasion.”
 
 
 
-“Colonel Brandon give _me_ a living!—Can it be possible?”
+“[[Colonel Brandon]] give _me_ a living!—Can it be possible?”
 
 
 
 “The unkindness of your own relations has made you astonished to find
 
-friendship any where.”
+[[Friendship|friendship]] any where.”
 
 
 
@@ -19233,7 +19233,7 @@ friendship any where.”
 
 for I cannot be ignorant that to you, to your goodness, I owe it all.—I
 
-feel it—I would express it if I could—but, as you well know, I am no
+feel it—I would express it if I could—but, as you [[Well|well]] know, I am no
 
 orator.”
 
@@ -19241,7 +19241,7 @@ orator.”
 
 “You are very much mistaken. I do assure you that you owe it entirely,
 
-at least almost entirely, to your own merit, and Colonel Brandon’s
+at least almost entirely, to your own merit, and [[Colonel Brandon]]’s
 
 discernment of it. I have had no hand in it. I did not even know, till
 
@@ -19257,21 +19257,21 @@ nothing to my solicitation.”
 
 
 
-Truth obliged her to acknowledge some small share in the action, but
+[[Truth]] obliged her to acknowledge some small share in the action, but
 
-she was at the same time so unwilling to appear as the benefactress of
+she was at the same [[Time|time]] so unwilling to appear as the benefactress of
 
 Edward, that she acknowledged it with hesitation; which probably
 
 contributed to fix that suspicion in his mind which had recently
 
-entered it. For a short time he sat deep in thought, after Elinor had
+entered it. For a short [[Time|time]] he sat deep in thought, after Elinor had
 
 ceased to speak;—at last, and as if it were rather an effort, he said,
 
 
 
-“Colonel Brandon seems a man of great worth and respectability. I have
+“[[Colonel Brandon]] seems a man of great worth and respectability. I have
 
 always heard him spoken of as such, and your brother I know esteems him
 
@@ -19287,7 +19287,7 @@ acquaintance, all that you have heard him to be, and as you will be
 
 such very near neighbours (for I understand the parsonage is almost
 
-close to the mansion-house,) it is particularly important that he
+close to the mansion-[[house]],) it is particularly important that he
 
 _should_ be all this.”
 
@@ -19299,17 +19299,17 @@ a look so serious, so earnest, so uncheerful, as seemed to say, that he
 
 might hereafter wish the distance between the parsonage and the
 
-mansion-house much greater.
+mansion-[[house]] much greater.
 
 
 
-“Colonel Brandon, I think, lodges in St. James Street,” said he, soon
+“[[Colonel Brandon]], I think, lodges in St. James Street,” said he, soon
 
 afterwards, rising from his chair.
 
 
 
-Elinor told him the number of the house.
+Elinor told him the number of the [[house]].
 
 
 
@@ -19347,7 +19347,7 @@ Edward; and, of course, to reflect on her own with discontent.
 
 
 
-When Mrs. Jennings came home, though she returned from seeing people
+When Mrs. Jennings came [[Home|home]], though she returned from seeing people
 
 whom she had never seen before, and of whom therefore she must have a
 
@@ -19359,7 +19359,7 @@ it again as soon as Elinor appeared.
 
 
 
-“Well, my dear,” she cried, “I sent you up the young man. Did not I do
+“[[Well]], my dear,” she cried, “I sent you up the young man. Did not I do
 
 right?—And I suppose you had no great difficulty—You did not find him
 
@@ -19371,7 +19371,7 @@ very unwilling to accept your proposal?”
 
 
 
-“Well, and how soon will he be ready?—For it seems all to depend upon
+“[[Well]], and how soon will he be ready?—For it seems all to depend upon
 
 that.”
 
@@ -19379,7 +19379,7 @@ that.”
 
 “Really,” said Elinor, “I know so little of these kind of forms, that I
 
-can hardly even conjecture as to the time, or the preparation
+can hardly even conjecture as to the [[Time|time]], or the preparation
 
 necessary; but I suppose two or three months will complete his
 
@@ -19397,7 +19397,7 @@ one would be very glad to do a kindness by poor Mr. Ferrars, I do think
 
 it is not worth while to wait two or three months for him. Sure
 
-somebody else might be found that would do as well; somebody that is in
+somebody else might be found that would do as [[Well|well]]; somebody that is in
 
 orders already.”
 
@@ -19405,7 +19405,7 @@ orders already.”
 
 “My dear ma’am,” said Elinor, “what can you be thinking of? Why,
 
-Colonel Brandon’s only object is to be of use to Mr. Ferrars.”
+[[Colonel Brandon]]’s only object is to be of use to Mr. Ferrars.”
 
 
 
@@ -19417,7 +19417,7 @@ Ferrars!”
 
 
 
-The deception could not continue after this; and an explanation
+The [[Deception|deception]] could not continue after this; and an explanation
 
 immediately took place, by which both gained considerable amusement for
 
@@ -19435,7 +19435,7 @@ ebullition of surprise and satisfaction was over, “and very likely
 
 _may_ be out of repair; but to hear a man apologising, as I thought,
 
-for a house that to my knowledge has five sitting rooms on the
+for a [[house]] that to my knowledge has five sitting rooms on the
 
 ground-floor, and I think the housekeeper told me could make up fifteen
 
@@ -19449,7 +19449,7 @@ before Lucy goes to it.”
 
 
 
-“But Colonel Brandon does not seem to have any idea of the living’s
+“But [[Colonel Brandon]] does not seem to have any idea of the living’s
 
 being enough to allow them to marry.”
 
@@ -19485,9 +19485,9 @@ CHAPTER XLI.
 
 
 
-Edward, having carried his thanks to Colonel Brandon, proceeded with
+Edward, having carried his thanks to [[Colonel Brandon]], proceeded with
 
-his happiness to Lucy; and such was the excess of it by the time he
+his happiness to Lucy; and such was the excess of it by the [[Time|time]] he
 
 reached Bartlett’s Buildings, that she was able to assure Mrs.
 
@@ -19505,11 +19505,11 @@ she joined Mrs. Jennings most heartily in her expectation of their
 
 being all comfortably together in Delaford Parsonage before Michaelmas.
 
-So far was she, at the same time, from any backwardness to give Elinor
+So far was she, at the same [[Time|time]], from any backwardness to give Elinor
 
 that credit which Edward _would_ give her, that she spoke of her
 
-friendship for them both with the most grateful warmth, was ready to
+[[Friendship|friendship]] for them both with the most grateful warmth, was ready to
 
 own all their obligation to her, and openly declared that no exertion
 
@@ -19517,7 +19517,7 @@ for their good on Miss Dashwood’s part, either present or future, would
 
 ever surprise her, for she believed her capable of doing any thing in
 
-the world for those she really valued. As for Colonel Brandon, she was
+the world for those she really valued. As for [[Colonel Brandon]], she was
 
 not only ready to worship him as a saint, but was moreover truly
 
@@ -19533,7 +19533,7 @@ of his servants, his carriage, his cows, and his poultry.
 
 It was now above a week since John Dashwood had called in Berkeley
 
-Street, and as since that time no notice had been taken by them of his
+Street, and as since that [[Time|time]] no notice had been taken by them of his
 
 wife’s indisposition, beyond one verbal enquiry, Elinor began to feel
 
@@ -19551,7 +19551,7 @@ always at Elinor’s service, so very much disliked Mrs. John Dashwood,
 
 that not even her curiosity to see how she looked after the late
 
-discovery, nor her strong desire to affront her by taking Edward’s
+discovery, nor her strong [[Desire|desire]] to affront her by taking Edward’s
 
 part, could overcome her unwillingness to be in her company again. The
 
@@ -19567,7 +19567,7 @@ reason to dislike.
 
 Mrs. Dashwood was denied; but before the carriage could turn from the
 
-house, her husband accidentally came out. He expressed great pleasure
+[[house]], her husband accidentally came out. He expressed great pleasure
 
 in meeting Elinor, told her that he had been just going to call in
 
@@ -19597,9 +19597,9 @@ Elinor made what excuse she could for her.
 
 
 
-“I am not sorry to see you alone,” he replied, “for I have a good deal
+“I am not sorry to see you [[Alone|alone]],” he replied, “for I have a good deal
 
-to say to you. This living of Colonel Brandon’s—can it be true?—has he
+to say to you. This living of [[Colonel Brandon]]’s—can it be true?—has he
 
 really given it to Edward?—I heard it yesterday by chance, and was
 
@@ -19607,13 +19607,13 @@ coming to you on purpose to enquire farther about it.”
 
 
 
-“It is perfectly true.—Colonel Brandon has given the living of Delaford
+“It is perfectly true.—[[Colonel Brandon]] has given the living of Delaford
 
 to Edward.”
 
 
 
-“Really!—Well, this is very astonishing!—no relationship!—no connection
+“Really!—[[Well]], this is very astonishing!—no relationship!—no connection
 
 between them!—and now that livings fetch such a price!—what was the
 
@@ -19625,7 +19625,7 @@ value of this?”
 
 
 
-“Very well—and for the next presentation to a living of that
+“Very [[Well|well]]—and for the next presentation to a living of that
 
 value—supposing the late incumbent to have been old and sickly, and
 
@@ -19633,11 +19633,11 @@ likely to vacate it soon—he might have got I dare say—fourteen hundred
 
 pounds. And how came he not to have settled that matter before this
 
-person’s death? _Now_, indeed it would be too late to sell it, but a
+person’s [[Death|death]]? _Now_, indeed it would be too late to sell it, but a
 
-man of Colonel Brandon’s sense! I wonder he should be so improvident in
+man of [[Colonel Brandon]]’s sense! I [[Wonder|wonder]] he should be so improvident in
 
-a point of such common, such natural, concern! Well, I am convinced
+a point of such common, such natural, concern! [[Well]], I am convinced
 
 that there is a vast deal of inconsistency in almost every human
 
@@ -19671,11 +19671,11 @@ could be the Colonel’s motive?”
 
 
 
-“Well, well; whatever Colonel Brandon may be, Edward is a very lucky
+“[[Well]], [[Well|well]]; whatever [[Colonel Brandon]] may be, Edward is a very lucky
 
 man.—You will not mention the matter to Fanny, however, for though I
 
-have broke it to her, and she bears it vastly well,—she will not like
+have broke it to her, and she bears it vastly [[Well|well]],—she will not like
 
 to hear it much talked of.”
 
@@ -19685,7 +19685,7 @@ Elinor had some difficulty here to refrain from observing, that she
 
 thought Fanny might have borne with composure, an acquisition of wealth
 
-to her brother, by which neither she nor her child could be possibly
+to her brother, by which neither she nor her [[Child|child]] could be possibly
 
 impoverished.
 
@@ -19697,7 +19697,7 @@ important a subject, “knows nothing about it at present, and I believe
 
 it will be best to keep it entirely concealed from her as long as may
 
-be. When the marriage takes place, I fear she must hear of it all.”
+be. When the [[Marriage|marriage]] takes place, I [[Fear|fear]] she must hear of it all.”
 
 
 
@@ -19719,7 +19719,7 @@ to any impression of sorrow or of joy on his account: she cannot be
 
 interested in any thing that befalls him. She would not be so weak as
 
-to throw away the comfort of a child, and yet retain the anxiety of a
+to throw away the comfort of a [[Child|child]], and yet retain the anxiety of a
 
 parent!”
 
@@ -19727,7 +19727,7 @@ parent!”
 
 “Ah! Elinor,” said John, “your reasoning is very good, but it is
 
-founded on ignorance of human nature. When Edward’s unhappy match takes
+founded on ignorance of human [[Nature|nature]]. When Edward’s unhappy match takes
 
 place, depend upon it his mother will feel as much as if she had never
 
@@ -19739,9 +19739,9 @@ Mrs. Ferrars can never forget that Edward is her son.”
 
 
 
-“You surprise me; I should think it must nearly have escaped her memory
+“You surprise me; I should think it must nearly have escaped her [[Memory|memory]]
 
-by _this_ time.”
+by _this_ [[Time|time]].”
 
 
 
@@ -19761,7 +19761,7 @@ _Robert’s_ marrying Miss Morton.”
 
 
 
-Elinor, smiling at the grave and decisive importance of her brother’s
+Elinor, smiling at the [[Grave|grave]] and decisive importance of her brother’s
 
 tone, calmly replied,—
 
@@ -19791,7 +19791,7 @@ one is superior to the other.”
 
 
 
-Elinor said no more, and John was also for a short time silent.—His
+Elinor said no more, and John was also for a short [[Time|time]] silent.—His
 
 reflections ended thus.
 
@@ -19833,17 +19833,17 @@ gone by. But I thought I would just tell you of this, because I knew
 
 how much it must please you. Not that you have any reason to regret, my
 
-dear Elinor. There is no doubt of your doing exceedingly well,—quite as
+dear Elinor. There is no [[Doubt|doubt]] of your doing exceedingly [[Well|well]],—quite as
 
-well, or better, perhaps, all things considered. Has Colonel Brandon
+[[Well|well]], or better, perhaps, all things considered. Has [[Colonel Brandon]]
 
 been with you lately?”
 
 
 
-Elinor had heard enough, if not to gratify her vanity, and raise her
+Elinor had heard enough, if not to gratify her [[Vanity|vanity]], and raise her
 
-self-importance, to agitate her nerves and fill her mind;—and she was
+[[Self|self]]-importance, to agitate her nerves and fill her mind;—and she was
 
 therefore glad to be spared from the necessity of saying much in reply
 
@@ -19853,13 +19853,13 @@ brother, by the entrance of Mr. Robert Ferrars. After a few moments’
 
 chat, John Dashwood, recollecting that Fanny was yet uninformed of her
 
-sister’s being there, quitted the room in quest of her; and Elinor was
+sister’s being there, quitted the room in [[Quest|quest]] of her; and Elinor was
 
 left to improve her acquaintance with Robert, who, by the gay
 
-unconcern, the happy self-complacency of his manner while enjoying so
+unconcern, the happy [[Self|self]]-complacency of his manner while enjoying so
 
-unfair a division of his mother’s love and liberality, to the prejudice
+unfair a division of his mother’s [[Love|love]] and liberality, to the prejudice
 
 of his banished brother, earned only by his own dissipated course of
 
@@ -19881,23 +19881,23 @@ different, was not less striking than it had been on _him_. He laughed
 
 most immoderately. The idea of Edward’s being a clergyman, and living
 
-in a small parsonage-house, diverted him beyond measure;—and when to
+in a small parsonage-[[house]], diverted him beyond measure;—and when to
 
 that was added the fanciful imagery of Edward reading prayers in a
 
-white surplice, and publishing the banns of marriage between John Smith
+white surplice, and publishing the banns of [[Marriage|marriage]] between John [[smith|Smith]]
 
 and Mary Brown, he could conceive nothing more ridiculous.
 
 
 
-Elinor, while she waited in silence and immovable gravity, the
+Elinor, while she waited in [[Silence|silence]] and immovable gravity, the
 
 conclusion of such folly, could not restrain her eyes from being fixed
 
 on him with a look that spoke all the contempt it excited. It was a
 
-look, however, very well bestowed, for it relieved her own feelings,
+look, however, very [[Well|well]] bestowed, for it relieved her own feelings,
 
 and gave no intelligence to him. He was recalled from wit to wisdom,
 
@@ -19909,21 +19909,21 @@ not by any reproof of hers, but by his own sensibility.
 
 affected laugh which had considerably lengthened out the genuine gaiety
 
-of the moment; “but, upon my soul, it is a most serious business. Poor
+of the moment; “but, upon my [[Soul|soul]], it is a most serious business. Poor
 
 Edward! he is ruined for ever. I am extremely sorry for it; for I know
 
-him to be a very good-hearted creature; as well-meaning a fellow
+him to be a very good-hearted creature; as [[Well|well]]-meaning a fellow
 
 perhaps, as any in the world. You must not judge of him, Miss Dashwood,
 
 from _your_ slight acquaintance. Poor Edward! His manners are certainly
 
-not the happiest in nature. But we are not all born, you know, with the
+not the happiest in [[Nature|nature]]. But we are not all born, you know, with the
 
 same powers,—the same address. Poor fellow! to see him in a circle of
 
-strangers! To be sure it was pitiable enough; but upon my soul, I
+strangers! To be sure it was pitiable enough; but upon my [[Soul|soul]], I
 
 believe he has as good a heart as any in the kingdom; and I declare and
 
@@ -19945,7 +19945,7 @@ Poor Edward! he has done for himself completely,—shut himself out for
 
 ever from all decent society! But, as I directly said to my mother, I
 
-am not in the least surprised at it; from his style of education, it
+am not in the least surprised at it; from his style of [[Education|education]], it
 
 was always to be expected. My poor mother was half frantic.”
 
@@ -19955,11 +19955,11 @@ was always to be expected. My poor mother was half frantic.”
 
 
 
-“Yes; once, while she was staying in this house, I happened to drop in
+“Yes; once, while she was staying in this [[house]], I happened to drop in
 
 for ten minutes; and I saw quite enough of her. The merest awkward
 
-country girl, without style, or elegance, and almost without beauty. I
+country girl, without style, or elegance, and almost without [[Beauty|beauty]]. I
 
 remember her perfectly. Just the kind of girl I should suppose likely
 
@@ -20029,7 +20029,7 @@ One other short call in Harley Street, in which Elinor received her
 
 brother’s congratulations on their travelling so far towards Barton
 
-without any expense, and on Colonel Brandon’s being to follow them to
+without any expense, and on [[Colonel Brandon]]’s being to follow them to
 
 Cleveland in a day or two, completed the intercourse of the brother and
 
@@ -20053,7 +20053,7 @@ her to Delaford;—a place, in which, of all others, she would now least
 
 chuse to visit, or wish to reside; for not only was it considered as
 
-her future home by her brother and Mrs. Jennings, but even Lucy, when
+her future [[Home|home]] by her brother and Mrs. Jennings, but even Lucy, when
 
 they parted, gave her a pressing invitation to visit her there.
 
@@ -20063,29 +20063,29 @@ Very early in April, and tolerably early in the day, the two parties
 
 from Hanover Square and Berkeley Street set out from their respective
 
-homes, to meet, by appointment, on the road. For the convenience of
+homes, to meet, by appointment, on the [[Road|road]]. For the convenience of
 
-Charlotte and her child, they were to be more than two days on their
+Charlotte and her [[Child|child]], they were to be more than two days on their
 
-journey, and Mr. Palmer, travelling more expeditiously with Colonel
+[[Journey|journey]], and Mr. Palmer, travelling more expeditiously with Colonel
 
 Brandon, was to join them at Cleveland soon after their arrival.
 
 
 
-Marianne, few as had been her hours of comfort in London, and eager as
+Marianne, few as had been her hours of comfort in [[London]], and eager as
 
 she had long been to quit it, could not, when it came to the point, bid
 
-adieu to the house in which she had for the last time enjoyed those
+adieu to the [[house]] in which she had for the last [[Time|time]] enjoyed those
 
 hopes, and that confidence, in Willoughby, which were now extinguished
 
-for ever, without great pain. Nor could she leave the place in which
+for ever, without great [[Pain|pain]]. Nor could she leave the place in which
 
 Willoughby remained, busy in new engagements, and new schemes, in which
 
-_she_ could have no share, without shedding many tears.
+_she_ could have no share, without shedding many [[Tears|tears]].
 
 
 
@@ -20097,37 +20097,37 @@ creature behind, from whom it would give her a moment’s regret to be
 
 divided for ever, she was pleased to be free herself from the
 
-persecution of Lucy’s friendship, she was grateful for bringing her
+persecution of Lucy’s [[Friendship|friendship]], she was grateful for bringing her
 
-sister away unseen by Willoughby since his marriage, and she looked
+sister away unseen by Willoughby since his [[Marriage|marriage]], and she looked
 
-forward with hope to what a few months of tranquility at Barton might
+forward with [[Hope|hope]] to what a few months of tranquility at Barton might
 
 do towards restoring Marianne’s peace of mind, and confirming her own.
 
 
 
-Their journey was safely performed. The second day brought them into
+Their [[Journey|journey]] was safely performed. The second day brought them into
 
 the cherished, or the prohibited, county of Somerset, for as such was
 
-it dwelt on by turns in Marianne’s imagination; and in the forenoon of
+it dwelt on by turns in Marianne’s [[Imagination|imagination]]; and in the forenoon of
 
 the third they drove up to Cleveland.
 
 
 
-Cleveland was a spacious, modern-built house, situated on a sloping
+Cleveland was a spacious, modern-built [[house]], situated on a sloping
 
 lawn. It had no park, but the pleasure-grounds were tolerably
 
 extensive; and like every other place of the same degree of importance,
 
-it had its open shrubbery, and closer wood walk, a road of smooth
+it had its open shrubbery, and closer wood walk, a [[Road|road]] of smooth
 
 gravel winding round a plantation, led to the front, the lawn was
 
-dotted over with timber, the house itself was under the guardianship of
+dotted over with timber, the [[house]] itself was under the guardianship of
 
 the fir, the mountain-ash, and the acacia, and a thick screen of them
 
@@ -20137,17 +20137,17 @@ offices.
 
 
 
-Marianne entered the house with a heart swelling with emotion from the
+Marianne entered the [[house]] with a heart swelling with emotion from the
 
 consciousness of being only eighty miles from Barton, and not thirty
 
 from Combe Magna; and before she had been five minutes within its
 
-walls, while the others were busily helping Charlotte to show her child
+walls, while the others were busily helping Charlotte to show her [[Child|child]]
 
 to the housekeeper, she quitted it again, stealing away through the
 
-winding shrubberies, now just beginning to be in beauty, to gain a
+winding shrubberies, now just beginning to be in [[Beauty|beauty]], to gain a
 
 distant eminence; where, from its Grecian temple, her eye, wandering
 
@@ -20159,13 +20159,13 @@ summits Combe Magna might be seen.
 
 
 
-In such moments of precious, invaluable misery, she rejoiced in tears
+In such moments of precious, invaluable misery, she rejoiced in [[Tears|tears]]
 
 of agony to be at Cleveland; and as she returned by a different circuit
 
-to the house, feeling all the happy privilege of country liberty, of
+to the [[house]], feeling all the happy privilege of country liberty, of
 
-wandering from place to place in free and luxurious solitude, she
+wandering from place to place in free and luxurious [[Solitude|solitude]], she
 
 resolved to spend almost every hour of every day while she remained
 
@@ -20173,19 +20173,19 @@ with the Palmers, in the indulgence of such solitary rambles.
 
 
 
-She returned just in time to join the others as they quitted the house,
+She returned just in [[Time|time]] to join the others as they quitted the [[house]],
 
 on an excursion through its more immediate premises; and the rest of
 
 the morning was easily whiled away, in lounging round the kitchen
 
-garden, examining the bloom upon its walls, and listening to the
+[[Garden|garden]], examining the bloom upon its walls, and listening to the
 
 gardener’s lamentations upon blights, in dawdling through the
 
-green-house, where the loss of her favourite plants, unwarily exposed,
+green-[[house]], where the loss of her favourite plants, unwarily exposed,
 
-and nipped by the lingering frost, raised the laughter of
+and nipped by the lingering [[Frost|frost]], raised the laughter of
 
 Charlotte,—and in visiting her poultry-yard, where, in the disappointed
 
@@ -20217,17 +20217,17 @@ dry or pleasant weather for walking.
 
 Their party was small, and the hours passed quietly away. Mrs. Palmer
 
-had her child, and Mrs. Jennings her carpet-work; they talked of the
+had her [[Child|child]], and Mrs. Jennings her carpet-work; they talked of the
 
 friends they had left behind, arranged Lady Middleton’s engagements,
 
-and wondered whether Mr. Palmer and Colonel Brandon would get farther
+and wondered whether Mr. Palmer and [[Colonel Brandon]] would get farther
 
-than Reading that night. Elinor, however little concerned in it, joined
+than Reading that [[Night|night]]. Elinor, however little concerned in it, joined
 
 in their discourse; and Marianne, who had the knack of finding her way
 
-in every house to the library, however it might be avoided by the
+in every [[house]] to the library, however it might be avoided by the
 
 family in general, soon procured herself a book.
 
@@ -20235,7 +20235,7 @@ family in general, soon procured herself a book.
 
 Nothing was wanting on Mrs. Palmer’s side that constant and friendly
 
-good humour could do, to make them feel themselves welcome. The
+good [[Humour|humour]] could do, to make them feel themselves welcome. The
 
 openness and heartiness of her manner more than atoned for that want of
 
@@ -20281,9 +20281,9 @@ Jennings and Charlotte. For the rest of his character and habits, they
 
 were marked, as far as Elinor could perceive, with no traits at all
 
-unusual in his sex and time of life. He was nice in his eating,
+unusual in his sex and [[Time|time]] of life. He was nice in his eating,
 
-uncertain in his hours; fond of his child, though affecting to slight
+uncertain in his hours; fond of his [[Child|child]], though affecting to slight
 
 it; and idled away the mornings at billiards, which ought to have been
 
@@ -20303,7 +20303,7 @@ taste, and diffident feelings.
 
 Of Edward, or at least of some of his concerns, she now received
 
-intelligence from Colonel Brandon, who had been into Dorsetshire
+intelligence from [[Colonel Brandon]], who had been into Dorsetshire
 
 lately; and who, treating her at once as the disinterested friend of
 
@@ -20313,13 +20313,13 @@ deal of the parsonage at Delaford, described its deficiencies, and told
 
 her what he meant to do himself towards removing them.—His behaviour to
 
-her in this, as well as in every other particular, his open pleasure in
+her in this, as [[Well|well]] as in every other particular, his open pleasure in
 
 meeting her after an absence of only ten days, his readiness to
 
-converse with her, and his deference for her opinion, might very well
+converse with her, and his deference for her opinion, might very [[Well|well]]
 
-justify Mrs. Jennings’s persuasion of his attachment, and would have
+justify Mrs. Jennings’s [[Persuasion|persuasion]] of his attachment, and would have
 
 been enough, perhaps, had not Elinor still, as from the first, believed
 
@@ -20339,7 +20339,7 @@ of a heavy cold, because unexpressed by words, entirely escaped the
 
 latter lady’s observation;—_she_ could discover in them the quick
 
-feelings, and needless alarm of a lover.
+feelings, and needless alarm of a [[Lover|lover]].
 
 
 
@@ -20359,13 +20359,13 @@ shoes and stockings—given Marianne a cold so violent as, though for a
 
 day or two trifled with or denied, would force itself by increasing
 
-ailments on the concern of every body, and the notice of herself.
+ailments on the concern of every [[Body|body]], and the notice of herself.
 
 Prescriptions poured in from all quarters, and as usual, were all
 
-declined. Though heavy and feverish, with a pain in her limbs, and a
+declined. Though heavy and feverish, with a [[Pain|pain]] in her limbs, and a
 
-cough, and a sore throat, a good night’s rest was to cure her entirely;
+cough, and a sore throat, a good [[Night|night]]’s rest was to cure her entirely;
 
 and it was with difficulty that Elinor prevailed on her, when she went
 
@@ -20385,31 +20385,31 @@ CHAPTER XLIII.
 
 
 
-Marianne got up the next morning at her usual time; to every inquiry
+Marianne got up the next morning at her usual [[Time|time]]; to every inquiry
 
 replied that she was better, and tried to prove herself so, by engaging
 
 in her accustomary employments. But a day spent in sitting shivering
 
-over the fire with a book in her hand, which she was unable to read, or
+over the [[Fire|fire]] with a book in her hand, which she was unable to read, or
 
 in lying, weary and languid, on a sofa, did not speak much in favour of
 
 her amendment; and when, at last, she went early to bed, more and more
 
-indisposed, Colonel Brandon was only astonished at her sister’s
+indisposed, [[Colonel Brandon]] was only astonished at her sister’s
 
 composure, who, though attending and nursing her the whole day, against
 
-Marianne’s inclination, and forcing proper medicines on her at night,
+Marianne’s inclination, and forcing proper medicines on her at [[Night|night]],
 
-trusted, like Marianne, to the certainty and efficacy of sleep, and
+trusted, like Marianne, to the certainty and efficacy of [[Sleep|sleep]], and
 
 felt no real alarm.
 
 
 
-A very restless and feverish night, however, disappointed the
+A very restless and feverish [[Night|night]], however, disappointed the
 
 expectation of both; and when Marianne, after persisting in rising,
 
@@ -20433,7 +20433,7 @@ on her baby’s account. Mrs. Jennings, who had been inclined from the
 
 first to think Marianne’s complaint more serious than Elinor, now
 
-looked very grave on Mr. Harris’s report, and confirming Charlotte’s
+looked very [[Grave|grave]] on Mr. Harris’s report, and confirming Charlotte’s
 
 fears and caution, urged the necessity of her immediate removal with
 
@@ -20445,7 +20445,7 @@ withstood. Her departure, therefore, was fixed on; and within an hour
 
 after Mr. Harris’s arrival, she set off, with her little boy and his
 
-nurse, for the house of a near relation of Mr. Palmer’s, who lived a
+[[Nurse|nurse]], for the [[house]] of a near relation of Mr. Palmer’s, who lived a
 
 few miles on the other side of Bath; whither her husband promised, at
 
@@ -20453,7 +20453,7 @@ her earnest entreaty, to join her in a day or two; and whither she was
 
 almost equally urgent with her mother to accompany her. Mrs. Jennings,
 
-however, with a kindness of heart which made Elinor really love her,
+however, with a kindness of heart which made Elinor really [[Love|love]] her,
 
 declared her resolution of not stirring from Cleveland as long as
 
@@ -20469,15 +20469,15 @@ experience in nursing, of material use.
 
 
 
-Poor Marianne, languid and low from the nature of her malady, and
+Poor Marianne, languid and low from the [[Nature|nature]] of her malady, and
 
-feeling herself universally ill, could no longer hope that tomorrow
+feeling herself universally ill, could no longer [[Hope|hope]] that tomorrow
 
 would find her recovered; and the idea of what tomorrow would have
 
 produced, but for this unlucky illness, made every ailment severe; for
 
-on that day they were to have begun their journey home; and, attended
+on that day they were to have begun their [[Journey|journey]] [[Home|home]]; and, attended
 
 the whole way by a servant of Mrs. Jennings, were to have taken their
 
@@ -20497,11 +20497,11 @@ patient; she certainly was not better, and, except that there was no
 
 amendment, did not appear worse. Their party was now farther reduced;
 
-for Mr. Palmer, though very unwilling to go as well from real humanity
+for Mr. Palmer, though very unwilling to go as [[Well|well]] from real humanity
 
-and good-nature, as from a dislike of appearing to be frightened away
+and good-[[Nature|nature]], as from a dislike of appearing to be frightened away
 
-by his wife, was persuaded at last by Colonel Brandon to perform his
+by his wife, was persuaded at last by [[Colonel Brandon]] to perform his
 
 promise of following her; and while he was preparing to go, Colonel
 
@@ -20509,7 +20509,7 @@ Brandon himself, with a much greater exertion, began to talk of going
 
 likewise.—Here, however, the kindness of Mrs. Jennings interposed most
 
-acceptably; for to send the Colonel away while his love was in so much
+acceptably; for to send the Colonel away while his [[Love|love]] was in so much
 
 uneasiness on her sister’s account, would be to deprive them both, she
 
@@ -20527,7 +20527,7 @@ long even affect to demur; especially as Mrs. Jennings’s entreaty was
 
 warmly seconded by Mr. Palmer, who seemed to feel a relief to himself,
 
-in leaving behind him a person so well able to assist or advise Miss
+in leaving behind him a person so [[Well|well]] able to assist or advise Miss
 
 Dashwood in any emergence.
 
@@ -20537,7 +20537,7 @@ Marianne was, of course, kept in ignorance of all these arrangements.
 
 She knew not that she had been the means of sending the owners of
 
-Cleveland away, in about seven days from the time of their arrival. It
+Cleveland away, in about seven days from the [[Time|time]] of their arrival. It
 
 gave her no surprise that she saw nothing of Mrs. Palmer; and as it
 
@@ -20545,7 +20545,7 @@ gave her likewise no concern, she never mentioned her name.
 
 
 
-Two days passed away from the time of Mr. Palmer’s departure, and her
+Two days passed away from the [[Time|time]] of Mr. Palmer’s departure, and her
 
 situation continued, with little variation, the same. Mr. Harris, who
 
@@ -20555,7 +20555,7 @@ Miss Dashwood was equally sanguine; but the expectation of the others
 
 was by no means so cheerful. Mrs. Jennings had determined very early in
 
-the seizure that Marianne would never get over it, and Colonel Brandon,
+the seizure that Marianne would never get over it, and [[Colonel Brandon]],
 
 who was chiefly of use in listening to Mrs. Jennings’s forebodings, was
 
@@ -20565,9 +20565,9 @@ himself out of fears, which the different judgment of the apothecary
 
 seemed to render absurd; but the many hours of each day in which he was
 
-left entirely alone, were but too favourable for the admission of every
+left entirely [[Alone|alone]], were but too favourable for the admission of every
 
-melancholy idea, and he could not expel from his mind the persuasion
+[[Melancholy|melancholy]] idea, and he could not expel from his mind the [[Persuasion|persuasion]]
 
 that he should see Marianne no more.
 
@@ -20581,13 +20581,13 @@ his patient materially better. Her pulse was much stronger, and every
 
 symptom more favourable than on the preceding visit. Elinor, confirmed
 
-in every pleasant hope, was all cheerfulness; rejoicing that in her
+in every pleasant [[Hope|hope]], was all cheerfulness; rejoicing that in her
 
 letters to her mother, she had pursued her own judgment rather than her
 
 friend’s, in making very light of the indisposition which delayed them
 
-at Cleveland; and almost fixing on the time when Marianne would be able
+at Cleveland; and almost fixing on the [[Time|time]] when Marianne would be able
 
 to travel.
 
@@ -20607,9 +20607,9 @@ cordials prescribed, saw her, with satisfaction, sink at last into a
 
 slumber, from which she expected the most beneficial effects. Her
 
-sleep, though not so quiet as Elinor wished to see it, lasted a
+[[Sleep|sleep]], though not so quiet as Elinor wished to see it, lasted a
 
-considerable time; and anxious to observe the result of it herself, she
+considerable [[Time|time]]; and anxious to observe the result of it herself, she
 
 resolved to sit with her during the whole of it. Mrs. Jennings, knowing
 
@@ -20617,7 +20617,7 @@ nothing of any change in the patient, went unusually early to bed; her
 
 maid, who was one of the principal nurses, was recreating herself in
 
-the housekeeper’s room, and Elinor remained alone with Marianne.
+the housekeeper’s room, and Elinor remained [[Alone|alone]] with Marianne.
 
 
 
@@ -20631,7 +20631,7 @@ which passed her lips, was almost wishing to rouse her from so painful
 
 a slumber, when Marianne, suddenly awakened by some accidental noise in
 
-the house, started hastily up, and, with feverish wildness, cried out,—
+the [[house]], started hastily up, and, with feverish wildness, cried out,—
 
 
 
@@ -20641,15 +20641,15 @@ the house, started hastily up, and, with feverish wildness, cried out,—
 
 “Not yet,” cried the other, concealing her terror, and assisting
 
-Marianne to lie down again, “but she will be here, I hope, before it is
+Marianne to lie down again, “but she will be here, I [[Hope|hope]], before it is
 
 long. It is a great way, you know, from hence to Barton.”
 
 
 
-“But she must not go round by London,” cried Marianne, in the same
+“But she must not go round by [[London]],” cried Marianne, in the same
 
-hurried manner. “I shall never see her, if she goes by London.”
+hurried manner. “I shall never see her, if she goes by [[London]].”
 
 
 
@@ -20663,7 +20663,7 @@ alarm increased so rapidly, as to determine her on sending instantly
 
 for Mr. Harris, and despatching a messenger to Barton for her mother.
 
-To consult with Colonel Brandon on the best means of effecting the
+To consult with [[Colonel Brandon]] on the best means of effecting the
 
 latter, was a thought which immediately followed the resolution of its
 
@@ -20675,9 +20675,9 @@ was generally to be found at a much later hour than the present.
 
 
 
-It was no time for hesitation. Her fears and her difficulties were
+It was no [[Time|time]] for hesitation. Her fears and her difficulties were
 
-immediately before him. Her fears, he had no courage, no confidence to
+immediately before him. Her fears, he had no [[Courage|courage]], no confidence to
 
 attempt the removal of:—he listened to them in silent despondence;—but
 
@@ -20697,13 +20697,13 @@ directly, she wrote a few lines to her mother.
 
 
 
-The comfort of such a friend at that moment as Colonel Brandon—or such
+The comfort of such a friend at that moment as [[Colonel Brandon]]—or such
 
 a companion for her mother,—how gratefully was it felt!—a companion
 
 whose judgment would guide, whose attendance must relieve, and whose
 
-friendship might soothe her!—as far as the shock of such a summons
+[[Friendship|friendship]] might soothe her!—as far as the shock of such a summons
 
 _could_ be lessened to her, his presence, his manners, his assistance,
 
@@ -20715,23 +20715,23 @@ _He_, meanwhile, whatever he might feel, acted with all the firmness of
 
 a collected mind, made every necessary arrangement with the utmost
 
-despatch, and calculated with exactness the time in which she might
+despatch, and calculated with exactness the [[Time|time]] in which she might
 
 look for his return. Not a moment was lost in delay of any kind. The
 
-horses arrived, even before they were expected, and Colonel Brandon
+horses arrived, even before they were expected, and [[Colonel Brandon]]
 
 only pressing her hand with a look of solemnity, and a few words spoken
 
 too low to reach her ear, hurried into the carriage. It was then about
 
-twelve o’clock, and she returned to her sister’s apartment to wait for
+twelve o’[[Clock|clock]], and she returned to her sister’s apartment to wait for
 
 the arrival of the apothecary, and to watch by her the rest of the
 
-night. It was a night of almost equal suffering to both. Hour after
+[[Night|night]]. It was a [[Night|night]] of almost equal [[Suffering|suffering]] to both. Hour after
 
-hour passed away in sleepless pain and delirium on Marianne’s side, and
+hour passed away in sleepless [[Pain|pain]] and delirium on Marianne’s side, and
 
 in the most cruel anxiety on Elinor’s, before Mr. Harris appeared. Her
 
@@ -20755,9 +20755,9 @@ so many days of illness, and wretched for some immediate relief,
 
 fancied that all relief might soon be in vain, that every thing had
 
-been delayed too long, and pictured to herself her suffering mother
+been delayed too long, and pictured to herself her [[Suffering|suffering]] mother
 
-arriving too late to see this darling child, or to see her rational.
+arriving too late to see this darling [[Child|child]], or to see her rational.
 
 
 
@@ -20765,7 +20765,7 @@ She was on the point of sending again for Mr. Harris, or if _he_ could
 
 not come, for some other advice, when the former—but not till after
 
-five o’clock—arrived. His opinion, however, made some little amends for
+five o’[[Clock|clock]]—arrived. His opinion, however, made some little amends for
 
 his delay, for though acknowledging a very unexpected and unpleasant
 
@@ -20789,13 +20789,13 @@ their aid, did Mrs. Jennings hear in the morning of what had passed.
 
 Her former apprehensions, now with greater reason restored, left her no
 
-doubt of the event; and though trying to speak comfort to Elinor, her
+[[Doubt|doubt]] of the event; and though trying to speak comfort to Elinor, her
 
 conviction of her sister’s danger would not allow her to offer the
 
-comfort of hope. Her heart was really grieved. The rapid decay, the
+comfort of [[Hope|hope]]. Her heart was really grieved. The rapid [[Decay|decay]], the
 
-early death of a girl so young, so lovely as Marianne, must have struck
+early [[Death|death]] of a girl so young, so lovely as Marianne, must have struck
 
 a less interested person with concern. On Mrs. Jennings’s compassion
 
@@ -20825,7 +20825,7 @@ than all, his fears in a moment, proposed to call in further advice.
 
 But he judged it unnecessary: he had still something more to try, some
 
-more fresh application, of whose success he was as confident as the
+more fresh application, of whose [[success]] he was as confident as the
 
 last, and his visit concluded with encouraging assurances which reached
 
@@ -20833,11 +20833,11 @@ the ear, but could not enter the heart of Miss Dashwood. She was calm,
 
 except when she thought of her mother; but she was almost hopeless; and
 
-in this state she continued till noon, scarcely stirring from her
+in this state she continued till [[Noon|noon]], scarcely stirring from her
 
 sister’s bed, her thoughts wandering from one image of grief, one
 
-suffering friend to another, and her spirits oppressed to the utmost by
+[[Suffering|suffering]] friend to another, and her spirits oppressed to the utmost by
 
 the conversation of Mrs. Jennings, who scrupled not to attribute the
 
@@ -20851,11 +20851,11 @@ her reflections.
 
 
 
-About noon, however, she began—but with a caution—a dread of
+About [[Noon|noon]], however, she began—but with a caution—a dread of
 
-disappointment which for some time kept her silent, even to her
+disappointment which for some [[Time|time]] kept her silent, even to her
 
-friend—to fancy, to hope she could perceive a slight amendment in her
+friend—to fancy, to [[Hope|hope]] she could perceive a slight amendment in her
 
 sister’s pulse;—she waited, watched, and examined it again and
 
@@ -20869,9 +20869,9 @@ acknowledge a temporary revival, tried to keep her young friend from
 
 indulging a thought of its continuance;—and Elinor, conning over every
 
-injunction of distrust, told herself likewise not to hope. But it was
+injunction of distrust, told herself likewise not to [[Hope|hope]]. But it was
 
-too late. Hope had already entered; and feeling all its anxious
+too late. [[Hope]] had already entered; and feeling all its anxious
 
 flutter, she bent over her sister to watch—she hardly knew for what.
 
@@ -20881,15 +20881,15 @@ Others even arose to confirm it. Her breath, her skin, her lips, all
 
 flattered Elinor with signs of amendment; and Marianne fixed her eyes
 
-on her with a rational, though languid, gaze. Anxiety and hope now
+on her with a rational, though languid, gaze. Anxiety and [[Hope|hope]] now
 
 oppressed her in equal degrees, and left her no moment of tranquillity
 
-till the arrival of Mr. Harris at four o’clock;—when his assurances,
+till the arrival of Mr. Harris at four o’[[Clock|clock]];—when his assurances,
 
 his felicitations on a recovery in her sister even surpassing his
 
-expectation, gave her confidence, comfort, and tears of joy.
+expectation, gave her confidence, comfort, and [[Tears|tears]] of joy.
 
 
 
@@ -20923,7 +20923,7 @@ smiles. All within Elinor’s breast was satisfaction, silent and strong.
 
 She continued by the side of her sister, with little intermission the
 
-whole afternoon, calming every fear, satisfying every inquiry of her
+whole afternoon, calming every [[Fear|fear]], satisfying every inquiry of her
 
 enfeebled spirits, supplying every succour, and watching almost every
 
@@ -20933,27 +20933,27 @@ some moments, occur to remind her of what anxiety was—but when she saw,
 
 on her frequent and minute examination, that every symptom of recovery
 
-continued, and saw Marianne at six o’clock sink into a quiet, steady,
+continued, and saw Marianne at six o’[[Clock|clock]] sink into a quiet, steady,
 
-and to all appearance comfortable, sleep, she silenced every doubt.
+and to all appearance comfortable, [[Sleep|sleep]], she silenced every [[Doubt|doubt]].
 
 
 
-The time was now drawing on, when Colonel Brandon might be expected
+The [[Time|time]] was now drawing on, when [[Colonel Brandon]] might be expected
 
-back. At ten o’clock, she trusted, or at least not much later her
+back. At ten o’[[Clock|clock]], she trusted, or at least not much later her
 
 mother would be relieved from the dreadful suspense in which she must
 
 now be travelling towards them. The Colonel, too!—perhaps scarcely less
 
-an object of pity!—Oh!—how slow was the progress of time which yet kept
+an object of pity!—Oh!—how slow was the progress of [[Time|time]] which yet kept
 
 them in ignorance!
 
 
 
-At seven o’clock, leaving Marianne still sweetly asleep, she joined
+At seven o’[[Clock|clock]], leaving Marianne still sweetly asleep, she joined
 
 Mrs. Jennings in the drawing-room to tea. Of breakfast she had been
 
@@ -20967,7 +20967,7 @@ would have persuaded her, at its conclusion, to take some rest before
 
 her mother’s arrival, and allow _her_ to take her place by Marianne;
 
-but Elinor had no sense of fatigue, no capability of sleep at that
+but Elinor had no sense of fatigue, no capability of [[Sleep|sleep]] at that
 
 moment about her, and she was not to be kept away from her sister an
 
@@ -20977,11 +20977,11 @@ into the sick chamber, to satisfy herself that all continued right,
 
 left her there again to her charge and her thoughts, and retired to her
 
-own room to write letters and sleep.
+own room to write letters and [[Sleep|sleep]].
 
 
 
-The night was cold and stormy. The wind roared round the house, and the
+The [[Night|night]] was cold and stormy. The [[Wind|wind]] roared round the [[house]], and the
 
 rain beat against the windows; but Elinor, all happiness within,
 
@@ -20993,17 +20993,17 @@ inconvenience.
 
 
 
-The clock struck eight. Had it been ten, Elinor would have been
+The [[Clock|clock]] struck eight. Had it been ten, Elinor would have been
 
 convinced that at that moment she heard a carriage driving up to the
 
-house; and so strong was the persuasion that she _did_, in spite of the
+[[house]]; and so strong was the [[Persuasion|persuasion]] that she _did_, in spite of the
 
 _almost_ impossibility of their being already come, that she moved into
 
-the adjoining dressing-closet and opened a window shutter, to be
+the adjoining dressing-closet and opened a [[Window|window]] shutter, to be
 
-satisfied of the truth. She instantly saw that her ears had not
+satisfied of the [[Truth|truth]]. She instantly saw that her ears had not
 
 deceived her. The flaring lamps of a carriage were immediately in view.
 
@@ -21019,9 +21019,9 @@ Never in her life had Elinor found it so difficult to be calm, as at
 
 that moment. The knowledge of what her mother must be feeling as the
 
-carriage stopt at the door—of her doubt—her dread—perhaps her
+carriage stopt at the door—of her [[Doubt|doubt]]—her dread—perhaps her
 
-despair!—and of what _she_ had to tell!—with such knowledge it was
+[[Despair|despair]]!—and of what _she_ had to tell!—with such knowledge it was
 
 impossible to be calm. All that remained to be done was to be speedy;
 
@@ -21033,7 +21033,7 @@ with her sister, she hurried down stairs.
 
 The bustle in the vestibule, as she passed along an inner lobby,
 
-assured her that they were already in the house. She rushed to the
+assured her that they were already in the [[house]]. She rushed to the
 
 drawing-room,—she entered it,—and saw only Willoughby.
 
@@ -21073,7 +21073,7 @@ stay.”
 
 business cannot be with _me_. The servants, I suppose, forgot to tell
 
-you that Mr. Palmer was not in the house.”
+you that Mr. Palmer was not in the [[house]].”
 
 
 
@@ -21085,7 +21085,7 @@ door. My business is with you, and only you.”
 
 
 
-“With me!”—in the utmost amazement—“well, sir,—be quick—and if you
+“With me!”—in the utmost amazement—“[[Well|well]], sir,—be quick—and if you
 
 can—less violent.”
 
@@ -21113,7 +21113,7 @@ either.
 
 
 
-“Pray be quick, sir,”—said Elinor, impatiently;—“I have no time to
+“Pray be quick, sir,”—said Elinor, impatiently;—“I have no [[Time|time]] to
 
 spare.”
 
@@ -21143,11 +21143,11 @@ eagerness.
 
 
 
-“We hope she is.”
+“We [[Hope|hope]] she is.”
 
 
 
-He rose up, and walked across the room.
+He [[Rose|rose]] up, and walked across the room.
 
 
 
@@ -21155,13 +21155,13 @@ He rose up, and walked across the room.
 
 with a forced vivacity as he returned to his seat,—“what does it
 
-signify? For once, Miss Dashwood—it will be the last time, perhaps—let
+signify? For once, Miss Dashwood—it will be the last [[Time|time]], perhaps—let
 
 us be cheerful together. I am in a fine mood for gaiety. Tell me
 
 honestly” a deeper glow overspreading his cheeks, “do you think me most
 
-a knave or a fool?”
+a knave or a [[Fool|fool]]?”
 
 
 
@@ -21171,7 +21171,7 @@ think that he must be in liquor;—the strangeness of such a visit, and
 
 of such manners, seemed no otherwise intelligible; and with this
 
-impression she immediately rose, saying,
+impression she immediately [[Rose|rose]], saying,
 
 
 
@@ -21197,9 +21197,9 @@ what he would be at.
 
 
 
-“Yes,—I left London this morning at eight o’clock, and the only ten
+“Yes,—I left [[London]] this morning at eight o’[[Clock|clock]], and the only ten
 
-minutes I have spent out of my chaise since that time procured me a
+minutes I have spent out of my chaise since that [[Time|time]] procured me a
 
 nuncheon at Marlborough.”
 
@@ -21235,7 +21235,7 @@ to you, and by convincing you, that though I have been always a
 
 blockhead, I have not been always a rascal, to obtain something like
 
-forgiveness from Ma— from your sister.”
+[[Forgiveness|forgiveness]] from Ma— from your sister.”
 
 
 
@@ -21243,7 +21243,7 @@ forgiveness from Ma— from your sister.”
 
 
 
-“Upon my soul it is,”—was his answer, with a warmth which brought all
+“Upon my [[Soul|soul]] it is,”—was his answer, with a warmth which brought all
 
 the former Willoughby to her remembrance, and in spite of herself made
 
@@ -21281,7 +21281,7 @@ worth the trial however, and you shall hear every thing. When I first
 
 became intimate in your family, I had no other intention, no other view
 
-in the acquaintance than to pass my time pleasantly while I was obliged
+in the acquaintance than to pass my [[Time|time]] pleasantly while I was obliged
 
 to remain in Devonshire, more pleasantly than I had ever done before.
 
@@ -21293,7 +21293,7 @@ kind—it is astonishing, when I reflect on what it was, and what _she_
 
 was, that my heart should have been so insensible! But at first I must
 
-confess, my vanity only was elevated by it. Careless of her happiness,
+confess, my [[Vanity|vanity]] only was elevated by it. Careless of her happiness,
 
 thinking only of my own amusement, giving way to feelings which I had
 
@@ -21329,11 +21329,11 @@ associating with people of better income than myself. Every year since
 
 my coming of age, or even before, I believe, had added to my debts; and
 
-though the death of my old cousin, Mrs. Smith, was to set me free; yet
+though the [[Death|death]] of my old cousin, Mrs. [[smith|Smith]], was to set me free; yet
 
 that event being uncertain, and possibly far distant, it had been for
 
-some time my intention to re-establish my circumstances by marrying a
+some [[Time|time]] my intention to re-establish my circumstances by marrying a
 
 woman of fortune. To attach myself to your sister, therefore, was not a
 
@@ -21345,17 +21345,17 @@ can ever reprobate too much,—I was acting in this manner, trying to
 
 engage her regard, without a thought of returning it. But one thing may
 
-be said for me: even in that horrid state of selfish vanity, I did not
+be said for me: even in that horrid state of selfish [[Vanity|vanity]], I did not
 
 know the extent of the injury I meditated, because I did not _then_
 
-know what it was to love. But have I ever known it? Well may it be
+know what it was to [[Love|love]]. But have I ever known it? [[Well]] may it be
 
 doubted; for, had I really loved, could I have sacrificed my feelings
 
-to vanity, to avarice? or, what is more, could I have sacrificed hers?
+to [[Vanity|vanity]], to avarice? or, what is more, could I have sacrificed hers?
 
-But I have done it. To avoid a comparative poverty, which her affection
+But I have done it. To avoid a comparative [[Poverty|poverty]], which her affection
 
 and her society would have deprived of all its horrors, I have, by
 
@@ -21367,7 +21367,7 @@ blessing.”
 
 “You did then,” said Elinor, a little softened, “believe yourself at
 
-one time attached to her?”
+one [[Time|time]] attached to her?”
 
 
 
@@ -21391,15 +21391,15 @@ so greatly embarrassed. I will not reason here—nor will I stop for
 
 _you_ to expatiate on the absurdity, and the worse than absurdity, of
 
-scrupling to engage my faith where my honour was already bound. The
+scrupling to engage my [[Faith|faith]] where my [[Honour|honour]] was already bound. The
 
-event has proved, that I was a cunning fool, providing with great
+event has proved, that I was a cunning [[Fool|fool]], providing with great
 
 circumspection for a possible opportunity of making myself contemptible
 
 and wretched for ever. At last, however, my resolution was taken, and I
 
-had determined, as soon as I could engage her alone, to justify the
+had determined, as soon as I could engage her [[Alone|alone]], to justify the
 
 attentions I had so invariably paid her, and openly assure her of an
 
@@ -21413,7 +21413,7 @@ circumstance occurred—an unlucky circumstance, to ruin all my
 
 resolution, and with it all my comfort. A discovery took place,”—here
 
-he hesitated and looked down. “Mrs. Smith had somehow or other been
+he hesitated and looked down. “Mrs. [[smith|Smith]] had somehow or other been
 
 informed, I imagine by some distant relation, whose interest it was to
 
@@ -21431,7 +21431,7 @@ probably heard the whole story long ago.”
 
 anew against any compassion for him, “I have heard it all. And how you
 
-will explain away any part of your guilt in that dreadful business, I
+will explain away any part of your [[Guilt|guilt]] in that dreadful business, I
 
 confess is beyond my comprehension.”
 
@@ -21443,7 +21443,7 @@ Could it be an impartial one? I acknowledge that her situation and her
 
 character ought to have been respected by me. I do not mean to justify
 
-myself, but at the same time cannot leave you to suppose that I have
+myself, but at the same [[Time|time]] cannot leave you to suppose that I have
 
 nothing to urge—that because she was injured she was irreproachable,
 
@@ -21453,9 +21453,9 @@ of her passions, the weakness of her understanding—I do not mean,
 
 however, to defend myself. Her affection for me deserved better
 
-treatment, and I often, with great self-reproach, recall the tenderness
+treatment, and I often, with great [[Self|self]]-reproach, recall the tenderness
 
-which, for a very short time, had the power of creating any return. I
+which, for a very short [[Time|time]], had the power of creating any return. I
 
 wish—I heartily wish it had never been. But I have injured more than
 
@@ -21469,7 +21469,7 @@ superior!”
 
 “Your indifference, however, towards that unfortunate girl—I must say
 
-it, unpleasant to me as the discussion of such a subject may well
+it, unpleasant to me as the discussion of such a subject may [[Well|well]]
 
 be—your indifference is no apology for your cruel neglect of her. Do
 
@@ -21485,7 +21485,7 @@ reduced to the extremest indigence.”
 
 
 
-“But, upon my soul, I did _not_ know it,” he warmly replied; “I did not
+“But, upon my [[Soul|soul]], I did _not_ know it,” he warmly replied; “I did not
 
 recollect that I had omitted to give her my direction; and common sense
 
@@ -21493,7 +21493,7 @@ might have told her how to find it out.”
 
 
 
-“Well, sir, and what said Mrs. Smith?”
+“[[Well]], sir, and what said Mrs. [[smith|Smith]]?”
 
 
 
@@ -21505,21 +21505,21 @@ ignorance of the world—every thing was against me. The matter itself I
 
 could not deny, and vain was every endeavour to soften it. She was
 
-previously disposed, I believe, to doubt the morality of my conduct in
+previously disposed, I believe, to [[Doubt|doubt]] the [[morality]] of my conduct in
 
 general, and was moreover discontented with the very little attention,
 
-the very little portion of my time that I had bestowed on her, in my
+the very little portion of my [[Time|time]] that I had bestowed on her, in my
 
 present visit. In short, it ended in a total breach. By one measure I
 
-might have saved myself. In the height of her morality, good woman! she
+might have saved myself. In the height of her [[morality]], good woman! she
 
 offered to forgive the past, if I would marry Eliza. That could not
 
-be—and I was formally dismissed from her favour and her house. The
+be—and I was formally dismissed from her favour and her [[house]]. The
 
-night following this affair—I was to go the next morning—was spent by
+[[Night|night]] following this affair—I was to go the next morning—was spent by
 
 me in deliberating on what my future conduct should be. The struggle
 
@@ -21527,7 +21527,7 @@ was great—but it ended too soon. My affection for Marianne, my thorough
 
 conviction of her attachment to me—it was all insufficient to outweigh
 
-that dread of poverty, or get the better of those false ideas of the
+that dread of [[Poverty|poverty]], or get the better of those false ideas of the
 
 necessity of riches, which I was naturally inclined to feel, and
 
@@ -21543,7 +21543,7 @@ engaged to dine with you on that very day; some apology was therefore
 
 necessary for my breaking this engagement. But whether I should write
 
-this apology, or deliver it in person, was a point of long debate. To
+this apology, or deliver it in person, was a point of long [[debate]]. To
 
 see Marianne, I felt, would be dreadful, and I even doubted whether I
 
@@ -21563,31 +21563,31 @@ would have answered every purpose. Why was it necessary to call?”
 
 
 
-“It was necessary to my own pride. I could not bear to leave the
+“It was necessary to my own [[Pride|pride]]. I could not bear to leave the
 
 country in a manner that might lead you, or the rest of the
 
 neighbourhood, to suspect any part of what had really passed between
 
-Mrs. Smith and myself—and I resolved therefore on calling at the
+Mrs. [[smith|Smith]] and myself—and I resolved therefore on calling at the
 
 cottage, in my way to Honiton. The sight of your dear sister, however,
 
-was really dreadful; and, to heighten the matter, I found her alone.
+was really dreadful; and, to heighten the matter, I found her [[Alone|alone]].
 
 You were all gone I do not know where. I had left her only the evening
 
-before, so fully, so firmly resolved within my self on doing right! A
+before, so fully, so firmly resolved within my [[Self|self]] on doing right! A
 
 few hours were to have engaged her to me for ever; and I remember how
 
 happy, how gay were my spirits, as I walked from the cottage to
 
-Allenham, satisfied with myself, delighted with every body! But in
+Allenham, satisfied with myself, delighted with every [[Body|body]]! But in
 
-this, our last interview of friendship, I approached her with a sense
+this, our last interview of [[Friendship|friendship]], I approached her with a sense
 
-of guilt that almost took from me the power of dissembling. Her sorrow,
+of [[Guilt|guilt]] that almost took from me the power of dissembling. Her sorrow,
 
 her disappointment, her deep regret, when I told her that I was obliged
 
@@ -21609,7 +21609,7 @@ They were both silent for a few moments. Elinor first spoke.
 
 “I do not know what I told her,” he replied, impatiently; “less than
 
-was due to the past, beyond a doubt, and in all likelihood much more
+was due to the past, beyond a [[Doubt|doubt]], and in all likelihood much more
 
 than was justified by the future. I cannot think of it.—It won’t
 
@@ -21623,17 +21623,17 @@ gives me to look back on my own misery. I owe such a grudge to myself
 
 for the stupid, rascally folly of my own heart, that all my past
 
-sufferings under it are only triumph and exultation to me now. Well, I
+sufferings under it are only triumph and exultation to me now. [[Well]], I
 
 went, left all that I loved, and went to those to whom, at best, I was
 
-only indifferent. My journey to town—travelling with my own horses, and
+only indifferent. My [[Journey|journey]] to town—travelling with my own horses, and
 
 therefore so tediously—no creature to speak to—my own reflections so
 
 cheerful—when I looked forward every thing so inviting!—when I looked
 
-back at Barton, the picture so soothing!—oh, it was a blessed journey!”
+back at Barton, the picture so soothing!—oh, it was a blessed [[Journey|journey]]!”
 
 
 
@@ -21641,7 +21641,7 @@ He stopped.
 
 
 
-“Well, sir,” said Elinor, who, though pitying him, grew impatient for
+“[[Well]], sir,” said Elinor, who, though pitying him, grew impatient for
 
 his departure, “and this is all?”
 
@@ -21659,7 +21659,7 @@ Did she show it you?”
 
 “When the first of hers reached me (as it immediately did, for I was in
 
-town the whole time,) what I felt is—in the common phrase, not to be
+town the whole [[Time|time]],) what I felt is—in the common phrase, not to be
 
 expressed; in a more simple one—perhaps too simple to raise any
 
@@ -21689,7 +21689,7 @@ duty to check such ideas in her companion as the last.
 
 “This is not right, Mr. Willoughby.—Remember that you are married.
 
-Relate only what in your conscience you think necessary for me to
+Relate only what in your [[Conscience|conscience]] you think necessary for me to
 
 hear.”
 
@@ -21701,13 +21701,13 @@ former days,—that in spite of the many, many weeks we had been
 
 separated, she was as constant in her own feelings, and as full of
 
-faith in the constancy of mine as ever,—awakened all my remorse. I say
+[[Faith|faith]] in the constancy of mine as ever,—awakened all my remorse. I say
 
-awakened, because time and London, business and dissipation, had in
+awakened, because [[Time|time]] and [[London]], business and dissipation, had in
 
 some measure quieted it, and I had been growing a fine hardened
 
-villain, fancying myself indifferent to her, and chusing to fancy that
+[[Villain|villain]], fancying myself indifferent to her, and chusing to fancy that
 
 she too must have become indifferent to me; talking to myself of our
 
@@ -21717,7 +21717,7 @@ shoulders in proof of its being so, and silencing every reproach,
 
 overcoming every scruple, by secretly saying now and then, ‘I shall be
 
-heartily glad to hear she is well married.’ But this note made me know
+heartily glad to hear she is [[Well|well]] married.’ But this note made me know
 
 myself better. I felt that she was infinitely dearer to me than any
 
@@ -21729,17 +21729,17 @@ was impossible. All that I had to do, was to avoid you both. I sent no
 
 answer to Marianne, intending by that to preserve myself from her
 
-farther notice; and for some time I was even determined not to call in
+farther notice; and for some [[Time|time]] I was even determined not to call in
 
 Berkeley Street;—but at last, judging it wiser to affect the air of a
 
 cool, common acquaintance than anything else, I watched you all safely
 
-out of the house one morning, and left my name.”
+out of the [[house]] one morning, and left my name.”
 
 
 
-“Watched us out of the house!”
+“Watched us out of the [[house]]!”
 
 
 
@@ -21753,11 +21753,11 @@ Bond Street, there was hardly a day in which I did not catch a glimpse
 
 of one or other of you; and nothing but the most constant watchfulness
 
-on my side, a most invariably prevailing desire to keep out of your
+on my side, a most invariably prevailing [[Desire|desire]] to keep out of your
 
 sight, could have separated us so long. I avoided the Middletons as
 
-much as possible, as well as everybody else who was likely to prove an
+much as possible, as [[Well|well]] as everybody else who was likely to prove an
 
 acquaintance in common. Not aware of their being in town, however, I
 
@@ -21765,7 +21765,7 @@ blundered on Sir John, I believe, the first day of his coming, and the
 
 day after I had called at Mrs. Jennings’s. He asked me to a party, a
 
-dance at his house in the evening. Had he _not_ told me as an
+[[Dance|dance]] at his [[house]] in the evening. Had he _not_ told me as an
 
 inducement that you and your sister were to be there, I should have
 
@@ -21783,9 +21783,9 @@ pity me, Miss Dashwood, pity my situation as it was _then_. With my
 
 head and heart full of your sister, I was forced to play the happy
 
-lover to another woman! Those three or four weeks were worse than all.
+[[Lover|lover]] to another woman! Those three or four weeks were worse than all.
 
-Well, at last, as I need not tell you, you were forced on me; and what
+[[Well]], at last, as I need not tell you, you were forced on me; and what
 
 a sweet figure I cut! what an evening of agony it was! Marianne,
 
@@ -21797,11 +21797,11 @@ explanation, with those bewitching eyes fixed in such speaking
 
 solicitude on my face! and Sophia, jealous as the devil on the other
 
-hand, looking all that was—Well, it does not signify; it is over now.
+hand, looking all that was—[[Well]], it does not signify; it is over now.
 
 Such an evening! I ran away from you all as soon as I could; but not
 
-before I had seen Marianne’s sweet face as white as death. _That_ was
+before I had seen Marianne’s sweet face as white as [[Death|death]]. _That_ was
 
 the last, last look I ever had of her; the last manner in which she
 
@@ -21823,7 +21823,7 @@ rousing himself, broke it thus:
 
 
 
-“Well, let me make haste and be gone. Your sister is certainly better,
+“[[Well]], let me make haste and be gone. Your sister is certainly better,
 
 certainly out of danger?”
 
@@ -21865,7 +21865,7 @@ Affecting that air of playfulness, therefore, which is delightful in a
 
 woman one loves, she opened the letter directly, and read its contents.
 
-She was well paid for her impudence. She read what made her wretched.
+She was [[Well|well]] paid for her impudence. She read what made her wretched.
 
 Her wretchedness I could have borne, but her passion—her malice—At all
 
@@ -21889,7 +21889,7 @@ happy thoughts and gentle diction. But what could I do!—we were
 
 engaged, every thing in preparation, the day almost fixed—But I am
 
-talking like a fool. Preparation! Day! In honest words, her money was
+talking like a [[Fool|fool]]. Preparation! Day! In honest words, her money was
 
 necessary to me, and in a situation like mine, any thing was to be done
 
@@ -21941,7 +21941,7 @@ must be attached to you, or she would not have married you. To treat
 
 her with unkindness, to speak of her slightingly is no atonement to
 
-Marianne—nor can I suppose it a relief to your own conscience.”
+Marianne—nor can I suppose it a relief to your own [[Conscience|conscience]].”
 
 
 
@@ -21949,7 +21949,7 @@ Marianne—nor can I suppose it a relief to your own conscience.”
 
 not deserve your compassion. She knew I had no regard for her when we
 
-married. Well, married we were, and came down to Combe Magna to be
+married. [[Well]], married we were, and came down to Combe Magna to be
 
 happy, and afterwards returned to town to be gay. And now do you pity
 
@@ -21959,7 +21959,7 @@ only one degree,—am I less guilty in your opinion than I was before? My
 
 intentions were not always wrong. Have I explained away any part of my
 
-guilt?”
+[[Guilt|guilt]]?”
 
 
 
@@ -21977,7 +21977,7 @@ worse.”
 
 “Will you repeat to your sister when she is recovered, what I have been
 
-telling you?—Let me be a little lightened too in her opinion as well as
+telling you?—Let me be a little lightened too in her opinion as [[Well|well]] as
 
 in yours. You tell me that she has forgiven me already. Let me be able
 
@@ -21985,7 +21985,7 @@ to fancy that a better knowledge of my heart, and of my present
 
 feelings, will draw from her a more spontaneous, more natural, more
 
-gentle, less dignified, forgiveness. Tell her of my misery and my
+gentle, less dignified, [[Forgiveness|forgiveness]]. Tell her of my misery and my
 
 penitence—tell her that my heart was never inconstant to her, and if
 
@@ -22003,17 +22003,17 @@ illness.”
 
 
 
-“Last night, in Drury Lane lobby, I ran against Sir John Middleton, and
+“Last [[Night|night]], in Drury Lane lobby, I ran against Sir John Middleton, and
 
-when he saw who I was, for the first time these two months, he spoke to
+when he saw who I was, for the first [[Time|time]] these two months, he spoke to
 
-me. That he had cut me ever since my marriage, I had seen without
+me. That he had cut me ever since my [[Marriage|marriage]], I had seen without
 
 surprise or resentment. Now, however, his good-natured, honest, stupid
 
-soul, full of indignation against me, and concern for your sister,
+[[Soul|soul]], full of indignation against me, and concern for your sister,
 
-could not resist the temptation of telling me what he knew ought to,
+could not resist the [[Temptation|temptation]] of telling me what he knew ought to,
 
 though probably he did not think it _would_, vex me horridly. As
 
@@ -22035,7 +22035,7 @@ hand while he reminded me of an old promise about a pointer puppy. What
 
 I felt on hearing that your sister was dying, and dying too, believing
 
-me the greatest villain upon earth, scorning, hating me in her latest
+me the greatest [[Villain|villain]] upon earth, scorning, hating me in her latest
 
 moments—for how could I tell what horrid projects might not have been
 
@@ -22043,7 +22043,7 @@ imputed? _One_ person I was sure would represent me as capable of
 
 anything—What I felt was dreadful! My resolution was soon made, and at
 
-eight o’clock this morning I was in my carriage. Now you know all.”
+eight o’[[Clock|clock]] this morning I was in my carriage. Now you know all.”
 
 
 
@@ -22059,9 +22059,9 @@ and talents, united a disposition naturally open and honest, and a
 
 feeling, affectionate temper. The world had made him extravagant and
 
-vain—Extravagance and vanity had made him cold-hearted and selfish.
+vain—Extravagance and [[Vanity|vanity]] had made him cold-hearted and selfish.
 
-Vanity, while seeking its own guilty triumph at the expense of another,
+[[Vanity]], while seeking its own guilty triumph at the expense of another,
 
 had involved him in a real attachment, which extravagance, or at least
 
@@ -22069,7 +22069,7 @@ its offspring, necessity, had required to be sacrificed. Each faulty
 
 propensity in leading him to evil, had led him likewise to punishment.
 
-The attachment, from which against honour, against feeling, against
+The attachment, from which against [[Honour|honour]], against feeling, against
 
 every better interest he had outwardly torn himself, now, when no
 
@@ -22079,7 +22079,7 @@ sake of which he had, with little scruple, left her sister to misery,
 
 was likely to prove a source of unhappiness to himself of a far more
 
-incurable nature. From a reverie of this kind she was recalled at the
+incurable [[Nature|nature]]. From a reverie of this kind she was recalled at the
 
 end of some minutes by Willoughby, who, rousing himself from a reverie
 
@@ -22119,7 +22119,7 @@ he was to go.
 
 Elinor assured him that she did;—that she forgave, pitied, wished him
 
-well—was even interested in his happiness—and added some gentle counsel
+[[Well|well]]—was even interested in his happiness—and added some gentle counsel
 
 as to the behaviour most likely to promote it. His answer was not very
 
@@ -22127,7 +22127,7 @@ encouraging.
 
 
 
-“As to that,” said he, “I must rub through the world as well as I can.
+“As to that,” said he, “I must rub through the world as [[Well|well]] as I can.
 
 Domestic happiness is out of the question. If, however, I am allowed to
 
@@ -22145,7 +22145,7 @@ Elinor stopped him with a reproof.
 
 
 
-“Well,”—he replied—“once more good bye. I shall now go away and live in
+“[[Well]],”—he replied—“once more good bye. I shall now go away and live in
 
 dread of one event.”
 
@@ -22155,7 +22155,7 @@ dread of one event.”
 
 
 
-“Your sister’s marriage.”
+“Your sister’s [[Marriage|marriage]].”
 
 
 
@@ -22193,7 +22193,7 @@ CHAPTER XLV.
 
 
 
-Elinor, for some time after he left her, for some time even after the
+Elinor, for some [[Time|time]] after he left her, for some [[Time|time]] even after the
 
 sound of his carriage had died away, remained too much oppressed by a
 
@@ -22221,9 +22221,9 @@ in reason to have weight; by that person of uncommon attraction, that
 
 open, affectionate, and lively manner which it was no merit to possess;
 
-and by that still ardent love for Marianne, which it was not even
+and by that still ardent [[Love|love]] for Marianne, which it was not even
 
-innocent to indulge. But she felt that it was so, long, long before she
+[[Innocent|innocent]] to indulge. But she felt that it was so, long, long before she
 
 could feel his influence less.
 
@@ -22231,7 +22231,7 @@ could feel his influence less.
 
 When at last she returned to the unconscious Marianne, she found her
 
-just awaking, refreshed by so long and sweet a sleep to the extent of
+just awaking, refreshed by so long and sweet a [[Sleep|sleep]] to the extent of
 
 her hopes. Elinor’s heart was full. The past, the present, the future,
 
@@ -22241,21 +22241,21 @@ arrival, threw her altogether into an agitation of spirits which kept
 
 off every indication of fatigue, and made her only fearful of betraying
 
-herself to her sister. Short was the time, however, in which that fear
+herself to her sister. Short was the [[Time|time]], however, in which that [[Fear|fear]]
 
 could affect her, for within half an hour after Willoughby’s leaving
 
-the house, she was again called down stairs by the sound of another
+the [[house]], she was again called down stairs by the sound of another
 
 carriage.—Eager to save her mother from every unnecessary moment’s
 
 horrible suspense, she ran immediately into the hall, and reached the
 
-outward door just in time to receive and support her as she entered it.
+outward door just in [[Time|time]] to receive and support her as she entered it.
 
 
 
-Mrs. Dashwood, whose terror as they drew near the house had produced
+Mrs. Dashwood, whose terror as they drew near the [[house]] had produced
 
 almost the conviction of Marianne’s being no more, had no voice to
 
@@ -22269,41 +22269,41 @@ overcome by her happiness, as she had been before by her fears. She was
 
 supported into the drawing-room between her daughter and her friend;
 
-and there, shedding tears of joy, though still unable to speak,
+and there, shedding [[Tears|tears]] of joy, though still unable to speak,
 
 embraced Elinor again and again, turning from her at intervals to press
 
-Colonel Brandon’s hand, with a look which spoke at once her gratitude,
+[[Colonel Brandon]]’s hand, with a look which spoke at once her gratitude,
 
 and her conviction of his sharing with herself in the bliss of the
 
-moment. He shared it, however, in a silence even greater than her own.
+moment. He shared it, however, in a [[Silence|silence]] even greater than her own.
 
 
 
 As soon as Mrs. Dashwood had recovered herself, to see Marianne was her
 
-first desire; and in two minutes she was with her beloved child,
+first [[Desire|desire]]; and in two minutes she was with her beloved [[Child|child]],
 
 rendered dearer to her than ever by absence, unhappiness, and danger.
 
 Elinor’s delight, as she saw what each felt in the meeting, was only
 
-checked by an apprehension of its robbing Marianne of farther sleep:
+checked by an apprehension of its robbing Marianne of farther [[Sleep|sleep]]:
 
 but Mrs. Dashwood could be calm, could be even prudent, when the life
 
-of a child was at stake, and Marianne, satisfied in knowing her mother
+of a [[Child|child]] was at stake, and Marianne, satisfied in knowing her mother
 
 was near her, and conscious of being too weak for conversation,
 
-submitted readily to the silence and quiet prescribed by every nurse
+submitted readily to the [[Silence|silence]] and quiet prescribed by every [[Nurse|nurse]]
 
-around her. Mrs. Dashwood _would_ sit up with her all night; and
+around her. Mrs. Dashwood _would_ sit up with her all [[Night|night]]; and
 
 Elinor, in compliance with her mother’s entreaty, went to bed. But the
 
-rest, which one night entirely sleepless, and many hours of the most
+rest, which one [[Night|night]] entirely sleepless, and many hours of the most
 
 wearing anxiety seemed to make requisite, was kept off by irritation of
 
@@ -22321,17 +22321,17 @@ it, dreaded what its effect on Marianne might be; doubted whether after
 
 such an explanation she could ever be happy with another; and for a
 
-moment wished Willoughby a widower. Then, remembering Colonel Brandon,
+moment wished Willoughby a widower. Then, remembering [[Colonel Brandon]],
 
 reproved herself, felt that to _his_ sufferings and _his_ constancy far
 
 more than to his rival’s, the reward of her sister was due, and wished
 
-any thing rather than Mrs. Willoughby’s death.
+any thing rather than Mrs. Willoughby’s [[Death|death]].
 
 
 
-The shock of Colonel Brandon’s errand at Barton had been much softened
+The shock of [[Colonel Brandon]]’s errand at Barton had been much softened
 
 to Mrs. Dashwood by her own previous alarm; for so great was her
 
@@ -22339,7 +22339,7 @@ uneasiness about Marianne, that she had already determined to set out
 
 for Cleveland on that very day, without waiting for any further
 
-intelligence, and had so far settled her journey before his arrival,
+intelligence, and had so far settled her [[Journey|journey]] before his arrival,
 
 that the Careys were then expected every moment to fetch Margaret away,
 
@@ -22375,9 +22375,9 @@ soon as any opportunity of private conference between them occurred.
 
 
 
-“At last we are alone. My Elinor, you do not yet know all my happiness.
+“At last we are [[Alone|alone]]. My Elinor, you do not yet know all my happiness.
 
-Colonel Brandon loves Marianne. He has told me so himself.”
+[[Colonel Brandon]] loves Marianne. He has told me so himself.”
 
 
 
@@ -22387,11 +22387,11 @@ not surprised, was all silent attention.
 
 
 
-“You are never like me, dear Elinor, or I should wonder at your
+“You are never like me, dear Elinor, or I should [[Wonder|wonder]] at your
 
 composure now. Had I sat down to wish for any possible good to my
 
-family, I should have fixed on Colonel Brandon’s marrying one of you as
+family, I should have fixed on [[Colonel Brandon]]’s marrying one of you as
 
 the object most desirable. And I believe Marianne will be the most
 
@@ -22405,7 +22405,7 @@ satisfied that none founded on an impartial consideration of their age,
 
 characters, or feelings, could be given;—but her mother must always be
 
-carried away by her imagination on any interesting subject, and
+carried away by her [[Imagination|imagination]] on any interesting subject, and
 
 therefore instead of an inquiry, she passed it off with a smile.
 
@@ -22413,11 +22413,11 @@ therefore instead of an inquiry, she passed it off with a smile.
 
 “He opened his whole heart to me yesterday as we travelled. It came out
 
-quite unawares, quite undesignedly. I, you may well believe, could talk
+quite unawares, quite undesignedly. I, you may [[Well|well]] believe, could talk
 
-of nothing but my child;—he could not conceal his distress; I saw that
+of nothing but my [[Child|child]];—he could not conceal his distress; I saw that
 
-it equalled my own, and he perhaps, thinking that mere friendship, as
+it equalled my own, and he perhaps, thinking that mere [[Friendship|friendship]], as
 
 the world now goes, would not justify so warm a sympathy—or rather, not
 
@@ -22433,7 +22433,7 @@ her.”
 
 Here, however, Elinor perceived,—not the language, not the professions
 
-of Colonel Brandon, but the natural embellishments of her mother’s
+of [[Colonel Brandon]], but the natural embellishments of her mother’s
 
 active fancy, which fashioned every thing delightful to her as it
 
@@ -22449,7 +22449,7 @@ constant—which ever we are to call it—has subsisted through all the
 
 knowledge of dear Marianne’s unhappy prepossession for that worthless
 
-young man!—and without selfishness—without encouraging a hope!—could he
+young man!—and without selfishness—without encouraging a [[Hope|hope]]!—could he
 
 have seen her happy with another—Such a noble mind!—such openness, such
 
@@ -22457,9 +22457,9 @@ sincerity!—no one can be deceived in _him_.”
 
 
 
-“Colonel Brandon’s character,” said Elinor, “as an excellent man, is
+“[[Colonel Brandon]]’s character,” said Elinor, “as an excellent man, is
 
-well established.”
+[[Well|well]] established.”
 
 
 
@@ -22469,7 +22469,7 @@ _I_ should be the last to encourage such affection, or even to be
 
 pleased by it. But his coming for me as he did, with such active, such
 
-ready friendship, is enough to prove him one of the worthiest of men.”
+ready [[Friendship|friendship]], is enough to prove him one of the worthiest of men.”
 
 
 
@@ -22479,7 +22479,7 @@ of kindness, to which his affection for Marianne, were humanity out of
 
 the case, would have prompted him. To Mrs. Jennings, to the Middletons,
 
-he has been long and intimately known; they equally love and respect
+he has been long and intimately known; they equally [[Love|love]] and respect
 
 him; and even my own knowledge of him, though lately acquired, is very
 
@@ -22489,27 +22489,27 @@ Marianne can be happy with him, I shall be as ready as yourself to
 
 think our connection the greatest blessing to us in the world. What
 
-answer did you give him?—Did you allow him to hope?”
+answer did you give him?—Did you allow him to [[Hope|hope]]?”
 
 
 
-“Oh! my love, I could not then talk of hope to him or to myself.
+“Oh! my [[Love|love]], I could not then talk of [[Hope|hope]] to him or to myself.
 
-Marianne might at that moment be dying. But he did not ask for hope or
+Marianne might at that moment be dying. But he did not ask for [[Hope|hope]] or
 
 encouragement. His was an involuntary confidence, an irrepressible
 
 effusion to a soothing friend, not an application to a parent. Yet
 
-after a time I _did_ say, for at first I was quite overcome, that if
+after a [[Time|time]] I _did_ say, for at first I was quite overcome, that if
 
 she lived, as I trusted she might, my greatest happiness would lie in
 
-promoting their marriage; and since our arrival, since our delightful
+promoting their [[Marriage|marriage]]; and since our arrival, since our delightful
 
 security, I have repeated it to him more fully, have given him every
 
-encouragement in my power. Time, a very little time, I tell him, will
+encouragement in my power. [[Time]], a very little [[Time|time]], I tell him, will
 
 do everything; Marianne’s heart is not to be wasted for ever on such a
 
@@ -22525,7 +22525,7 @@ him equally sanguine.”
 
 “No. He thinks Marianne’s affection too deeply rooted for any change in
 
-it under a great length of time, and even supposing her heart again
+it under a great length of [[Time|time]], and even supposing her heart again
 
 free, is too diffident of himself to believe, that with such a
 
@@ -22535,13 +22535,13 @@ however, he is quite mistaken. His age is only so much beyond hers as
 
 to be an advantage, as to make his character and principles fixed; and
 
-his disposition, I am well convinced, is exactly the very one to make
+his disposition, I am [[Well|well]] convinced, is exactly the very one to make
 
 your sister happy. And his person, his manners too, are all in his
 
 favour. My partiality does not blind me; he certainly is not so
 
-handsome as Willoughby; but at the same time, there is something much
+handsome as Willoughby; but at the same [[Time|time]], there is something much
 
 more pleasing in his countenance. There was always a something, if you
 
@@ -22557,7 +22557,7 @@ assent, continued,
 
 “And his manners, the Colonel’s manners are not only more pleasing to
 
-me than Willoughby’s ever were, but they are of a kind I well know to
+me than Willoughby’s ever were, but they are of a kind I [[Well|well]] know to
 
 be more solidly attaching to Marianne. Their gentleness, their genuine
 
@@ -22571,7 +22571,7 @@ that had Willoughby turned out as really amiable, as he has proved
 
 himself the contrary, Marianne would yet never have been so happy with
 
-_him_ as she will be with Colonel Brandon.”
+_him_ as she will be with [[Colonel Brandon]].”
 
 
 
@@ -22587,7 +22587,7 @@ Dashwood, “even if I remain at Barton; and in all probability,—for I
 
 hear it is a large village,—indeed there certainly _must_ be some small
 
-house or cottage close by, that would suit us quite as well as our
+[[house]] or cottage close by, that would suit us quite as [[Well|well]] as our
 
 present situation.”
 
@@ -22599,9 +22599,9 @@ spirit was stubborn.
 
 
 
-“His fortune too!—for at my time of life you know, everybody cares
+“His fortune too!—for at my [[Time|time]] of life you know, everybody cares
 
-about _that;_—and though I neither know nor desire to know, what it
+about _that;_—and though I neither know nor [[Desire|desire]] to know, what it
 
 really is, I am sure it must be a good one.”
 
@@ -22609,7 +22609,7 @@ really is, I am sure it must be a good one.”
 
 Here they were interrupted by the entrance of a third person, and
 
-Elinor withdrew to think it all over in private, to wish success to her
+Elinor withdrew to think it all over in private, to wish [[success]] to her
 
 friend, and yet in wishing it, to feel a pang for Willoughby.
 
@@ -22639,7 +22639,7 @@ Palmer’s dressing-room. When there, at her own particular request, for
 
 she was impatient to pour forth her thanks to him for fetching her
 
-mother, Colonel Brandon was invited to visit her.
+mother, [[Colonel Brandon]] was invited to visit her.
 
 
 
@@ -22651,7 +22651,7 @@ such, as, in Elinor’s conjecture, must arise from something more than
 
 his affection for Marianne, or the consciousness of its being known to
 
-others; and she soon discovered in his melancholy eye and varying
+others; and she soon discovered in his [[Melancholy|melancholy]] eye and varying
 
 complexion as he looked at her sister, the probable recurrence of many
 
@@ -22671,7 +22671,7 @@ with a mind very differently influenced, and therefore watching to very
 
 different effect, saw nothing in the Colonel’s behaviour but what arose
 
-from the most simple and self-evident sensations, while in the actions
+from the most simple and [[Self|self]]-evident sensations, while in the actions
 
 and words of Marianne she persuaded herself to think that something
 
@@ -22687,7 +22687,7 @@ daughter’s wishes, began to talk of removing to Barton. On _her_
 
 measures depended those of her two friends; Mrs. Jennings could not
 
-quit Cleveland during the Dashwoods’ stay; and Colonel Brandon was soon
+quit Cleveland during the Dashwoods’ stay; and [[Colonel Brandon]] was soon
 
 brought, by their united request, to consider his own abode there as
 
@@ -22695,13 +22695,13 @@ equally determinate, if not equally indispensable. At his and Mrs.
 
 Jennings’s united request in return, Mrs. Dashwood was prevailed on to
 
-accept the use of his carriage on her journey back, for the better
+accept the use of his carriage on her [[Journey|journey]] back, for the better
 
-accommodation of her sick child; and the Colonel, at the joint
+accommodation of her sick [[Child|child]]; and the Colonel, at the joint
 
-invitation of Mrs. Dashwood and Mrs. Jennings, whose active good-nature
+invitation of Mrs. Dashwood and Mrs. Jennings, whose active good-[[Nature|nature]]
 
-made her friendly and hospitable for other people as well as herself,
+made her friendly and hospitable for other people as [[Well|well]] as herself,
 
 engaged with pleasure to redeem it by a visit at the cottage, in the
 
@@ -22717,7 +22717,7 @@ grateful, so full of respect and kind wishes as seemed due to her own
 
 heart from a secret acknowledgment of past inattention, and bidding
 
-Colonel Brandon farewell with a cordiality of a friend, was carefully
+[[Colonel Brandon]] farewell with a cordiality of a friend, was carefully
 
 assisted by him into the carriage, of which he seemed anxious that she
 
@@ -22729,13 +22729,13 @@ feel their own dullness, till Mrs. Jennings was summoned to her chaise
 
 to take comfort in the gossip of her maid for the loss of her two young
 
-companions; and Colonel Brandon immediately afterwards took his
+companions; and [[Colonel Brandon]] immediately afterwards took his
 
 solitary way to Delaford.
 
 
 
-The Dashwoods were two days on the road, and Marianne bore her journey
+The Dashwoods were two days on the [[Road|road]], and Marianne bore her [[Journey|journey]]
 
 on both, without essential fatigue. Every thing that the most zealous
 
@@ -22747,9 +22747,9 @@ in her bodily ease, and her calmness of spirits. To Elinor, the
 
 observation of the latter was particularly grateful. She, who had seen
 
-her week after week so constantly suffering, oppressed by anguish of
+her week after week so constantly [[Suffering|suffering]], oppressed by anguish of
 
-heart which she had neither courage to speak of, nor fortitude to
+heart which she had neither [[Courage|courage]] to speak of, nor fortitude to
 
 conceal, now saw with a joy, which no other could equally share, an
 
@@ -22767,9 +22767,9 @@ field and every tree brought some peculiar, some painful recollection,
 
 she grew silent and thoughtful, and turning away her face from their
 
-notice, sat earnestly gazing through the window. But here, Elinor could
+notice, sat earnestly gazing through the [[Window|window]]. But here, Elinor could
 
-neither wonder nor blame; and when she saw, as she assisted Marianne
+neither [[Wonder|wonder]] nor blame; and when she saw, as she assisted Marianne
 
 from the carriage, that she had been crying, she saw only an emotion
 
@@ -22813,7 +22813,7 @@ much.
 
 The next morning produced no abatement in these happy symptoms. On the
 
-contrary, with a mind and body alike strengthened by rest, she looked
+contrary, with a mind and [[Body|body]] alike strengthened by rest, she looked
 
 and spoke with more genuine spirit, anticipating the pleasure of
 
@@ -22831,27 +22831,27 @@ she, “we will take long walks together every day. We will walk to the
 
 farm at the edge of the down, and see how the children go on; we will
 
-walk to Sir John’s new plantations at Barton Cross, and the Abbeyland;
+walk to Sir John’s new plantations at Barton [[Cross]], and the Abbeyland;
 
 and we will often go to the old ruins of the Priory, and try to trace
 
 its foundations as far as we are told they once reached. I know we
 
-shall be happy. I know the summer will pass happily away. I mean never
+shall be happy. I know the [[Summer|summer]] will pass happily away. I mean never
 
-to be later in rising than six, and from that time till dinner I shall
+to be later in rising than six, and from that [[Time|time]] till dinner I shall
 
 divide every moment between music and reading. I have formed my plan,
 
 and am determined to enter on a course of serious study. Our own
 
-library is too well known to me, to be resorted to for any thing beyond
+library is too [[Well|well]] known to me, to be resorted to for any thing beyond
 
-mere amusement. But there are many works well worth reading at the
+mere amusement. But there are many works [[Well|well]] worth reading at the
 
 Park; and there are others of more modern production which I know I can
 
-borrow of Colonel Brandon. By reading only six hours a-day, I shall
+borrow of [[Colonel Brandon]]. By reading only six hours a-day, I shall
 
 gain in the course of a twelve-month a great deal of instruction which
 
@@ -22863,17 +22863,17 @@ Elinor honoured her for a plan which originated so nobly as this;
 
 though smiling to see the same eager fancy which had been leading her
 
-to the extreme of languid indolence and selfish repining, now at work
+to the extreme of languid [[Indolence|indolence]] and selfish repining, now at work
 
 in introducing excess into a scheme of such rational employment and
 
-virtuous self-control. Her smile however changed to a sigh when she
+virtuous [[Self|self]]-control. Her smile however changed to a sigh when she
 
 remembered that promise to Willoughby was yet unfulfilled, and feared
 
 she had that to communicate which might again unsettle the mind of
 
-Marianne, and ruin at least for a time this fair prospect of busy
+Marianne, and ruin at least for a [[Time|time]] this fair prospect of busy
 
 tranquillity. Willing therefore to delay the evil hour, she resolved to
 
@@ -22883,7 +22883,7 @@ it. But the resolution was made only to be broken.
 
 
 
-Marianne had been two or three days at home, before the weather was
+Marianne had been two or three days at [[Home|home]], before the weather was
 
 fine enough for an invalid like herself to venture out. But at last a
 
@@ -22893,7 +22893,7 @@ wishes and the mother’s confidence; and Marianne, leaning on Elinor’s
 
 arm, was authorised to walk as long as she could without fatigue, in
 
-the lane before the house.
+the lane before the [[house]].
 
 
 
@@ -22901,9 +22901,9 @@ The sisters set out at a pace, slow as the feebleness of Marianne in an
 
 exercise hitherto untried since her illness required; and they had
 
-advanced only so far beyond the house as to admit a full view of the
+advanced only so far beyond the [[house]] as to admit a full view of the
 
-hill, the important hill behind, when pausing with her eyes turned
+[[Hill|hill]], the important [[Hill|hill]] behind, when pausing with her eyes turned
 
 towards it, Marianne calmly said,—
 
@@ -22919,11 +22919,11 @@ Her voice sunk with the word, but presently reviving she added,
 
 
 
-“I am thankful to find that I can look with so little pain on the spot!
+“I am thankful to find that I can look with so little [[Pain|pain]] on the spot!
 
 shall we ever talk on that subject, Elinor?” hesitatingly it was said.
 
-“Or will it be wrong? I _can_ talk of it now, I hope, as I ought to
+“Or will it be wrong? I _can_ talk of it now, I [[Hope|hope]], as I ought to
 
 do.”
 
@@ -22983,7 +22983,7 @@ Elinor said no more. She was debating within herself on the eligibility
 
 of beginning her story directly, or postponing it till Marianne were in
 
-stronger health;—and they crept on for a few minutes in silence.
+stronger health;—and they crept on for a few minutes in [[Silence|silence]].
 
 
 
@@ -23021,27 +23021,27 @@ perfectly able to reflect. I considered the past: I saw in my own
 
 behaviour, since the beginning of our acquaintance with him last
 
-autumn, nothing but a series of imprudence towards myself, and want of
+[[Autumn|autumn]], nothing but a series of imprudence towards myself, and want of
 
 kindness to others. I saw that my own feelings had prepared my
 
 sufferings, and that my want of fortitude under them had almost led me
 
-to the grave. My illness, I well knew, had been entirely brought on by
+to the [[Grave|grave]]. My illness, I [[Well|well]] knew, had been entirely brought on by
 
 myself by such negligence of my own health, as I had felt even at the
 
-time to be wrong. Had I died, it would have been self-destruction. I
+[[Time|time]] to be wrong. Had I died, it would have been [[Self|self]]-destruction. I
 
 did not know my danger till the danger was removed; but with such
 
-feelings as these reflections gave me, I wonder at my recovery,—wonder
+feelings as these reflections gave me, I [[Wonder|wonder]] at my recovery,—[[Wonder|wonder]]
 
-that the very eagerness of my desire to live, to have time for
+that the very eagerness of my [[Desire|desire]] to live, to have [[Time|time]] for
 
 atonement to my God, and to you all, did not kill me at once. Had I
 
-died, in what peculiar misery should I have left you, my nurse, my
+died, in what peculiar misery should I have left you, my [[Nurse|nurse]], my
 
 friend, my sister! You, who had seen all the fretful selfishness of my
 
@@ -23053,7 +23053,7 @@ consoled her! I cannot express my own abhorrence of myself. Whenever I
 
 looked towards the past, I saw some duty neglected, or some failing
 
-indulged. Every body seemed injured by me. The kindness, the unceasing
+indulged. Every [[Body|body]] seemed injured by me. The kindness, the unceasing
 
 kindness of Mrs. Jennings, I had repaid with ungrateful contempt. To
 
@@ -23079,11 +23079,11 @@ imitate your forbearance, or lessen your restraints, by taking any part
 
 in those offices of general complaisance or particular gratitude which
 
-you had hitherto been left to discharge alone? No; not less when I knew
+you had hitherto been left to discharge [[Alone|alone]]? No; not less when I knew
 
 you to be unhappy, than when I had believed you at ease, did I turn
 
-away from every exertion of duty or friendship; scarcely allowing
+away from every exertion of duty or [[Friendship|friendship]]; scarcely allowing
 
 sorrow to exist but with me, regretting only _that_ heart which had
 
@@ -23093,11 +23093,11 @@ unbounded affection, to be miserable for my sake.”
 
 
 
-Here ceased the rapid flow of her self-reproving spirit; and Elinor,
+Here ceased the rapid flow of her [[Self|self]]-reproving spirit; and Elinor,
 
 impatient to soothe, though too honest to flatter, gave her instantly
 
-that praise and support which her frankness and her contrition so well
+that praise and support which her frankness and her contrition so [[Well|well]]
 
 deserved. Marianne pressed her hand and replied,—
 
@@ -23113,7 +23113,7 @@ torture myself. I shall now live solely for my family. You, my mother,
 
 and Margaret, must henceforth be all the world to me; you will share my
 
-affections entirely between you. From you, from my home, I shall never
+affections entirely between you. From you, from my [[Home|home]], I shall never
 
 again have the smallest incitement to move; and if I do mix in other
 
@@ -23139,7 +23139,7 @@ everything would become easy.”
 
 
 
-Elinor, who had now been for some time reflecting on the propriety or
+Elinor, who had now been for some [[Time|time]] reflecting on the propriety or
 
 impropriety of speedily hazarding her narration, without feeling at all
 
@@ -23167,13 +23167,13 @@ thousand inquiries sprung up from her heart, but she dared not urge
 
 one. She caught every syllable with panting eagerness; her hand,
 
-unknowingly to herself, closely pressed her sister’s, and tears covered
+unknowingly to herself, closely pressed her sister’s, and [[Tears|tears]] covered
 
 her cheeks.
 
 
 
-Elinor, dreading her being tired, led her towards home; and till they
+Elinor, dreading her being tired, led her towards [[Home|home]]; and till they
 
 reached the door of the cottage, easily conjecturing what her curiosity
 
@@ -23183,13 +23183,13 @@ but Willoughby, and their conversation together; and was carefully
 
 minute in every particular of speech and look, where minuteness could
 
-be safely indulged. As soon as they entered the house, Marianne with a
+be safely indulged. As soon as they entered the [[house]], Marianne with a
 
 kiss of gratitude and these two words just articulate through her
 
-tears, “Tell mama,” withdrew from her sister and walked slowly up
+[[Tears|tears]], “Tell mama,” withdrew from her sister and walked slowly up
 
-stairs. Elinor would not attempt to disturb a solitude so reasonable as
+stairs. Elinor would not attempt to disturb a [[Solitude|solitude]] so reasonable as
 
 what she now sought; and with a mind anxiously pre-arranging its
 
@@ -23217,19 +23217,19 @@ Mrs. Dashwood did not hear unmoved the vindication of her former
 
 favourite. She rejoiced in his being cleared from some part of his
 
-imputed guilt;—she was sorry for him;—she wished him happy. But the
+imputed [[Guilt|guilt]];—she was sorry for him;—she wished him happy. But the
 
 feelings of the past could not be recalled.—Nothing could restore him
 
-with a faith unbroken—a character unblemished, to Marianne. Nothing
+with a [[Faith|faith]] unbroken—a character unblemished, to Marianne. Nothing
 
 could do away the knowledge of what the latter had suffered through his
 
-means, nor remove the guilt of his conduct towards Eliza. Nothing could
+means, nor remove the [[Guilt|guilt]] of his conduct towards Eliza. Nothing could
 
 replace him, therefore, in her former esteem, nor injure the interests
 
-of Colonel Brandon.
+of [[Colonel Brandon]].
 
 
 
@@ -23249,7 +23249,7 @@ had given calmness to her judgment, and sobered her own opinion of
 
 Willoughby’s deserts;—she wished, therefore, to declare only the simple
 
-truth, and lay open such facts as were really due to his character,
+[[Truth|truth]], and lay open such facts as were really due to his character,
 
 without any embellishment of tenderness to lead the fancy astray.
 
@@ -23261,7 +23261,7 @@ voluntarily to speak of him again;—but that it was not without an
 
 effort, the restless, unquiet thoughtfulness in which she had been for
 
-some time previously sitting—her rising colour, as she spoke,—and her
+some [[Time|time]] previously sitting—her rising colour, as she spoke,—and her
 
 unsteady voice, plainly showed.
 
@@ -23269,7 +23269,7 @@ unsteady voice, plainly showed.
 
 “I wish to assure you both,” said she, “that I see every thing—as you
 
-can desire me to do.”
+can [[Desire|desire]] me to do.”
 
 
 
@@ -23277,7 +23277,7 @@ Mrs. Dashwood would have interrupted her instantly with soothing
 
 tenderness, had not Elinor, who really wished to hear her sister’s
 
-unbiased opinion, by an eager sign, engaged her silence. Marianne
+unbiased opinion, by an eager sign, engaged her [[Silence|silence]]. Marianne
 
 slowly continued,—
 
@@ -23305,9 +23305,9 @@ practices!—With one who so injured the peace of the dearest of our
 
 friends, and the best of men!—No—my Marianne has not a heart to be made
 
-happy with such a man!—Her conscience, her sensitive conscience, would
+happy with such a man!—Her [[Conscience|conscience]], her sensitive [[Conscience|conscience]], would
 
-have felt all that the conscience of her husband ought to have felt.”
+have felt all that the [[Conscience|conscience]] of her husband ought to have felt.”
 
 
 
@@ -23319,9 +23319,9 @@ Marianne sighed, and repeated, “I wish for no change.”
 
 sound understanding must consider it; and I dare say you perceive, as
 
-well as myself, not only in this, but in many other circumstances,
+[[Well|well]] as myself, not only in this, but in many other circumstances,
 
-reason enough to be convinced that your marriage must have involved you
+reason enough to be convinced that your [[Marriage|marriage]] must have involved you
 
 in many certain troubles and disappointments, in which you would have
 
@@ -23331,7 +23331,7 @@ Had you married, you must have been always poor. His expensiveness is
 
 acknowledged even by himself, and his whole conduct declares that
 
-self-denial is a word hardly understood by him. His demands and your
+[[Self|self]]-denial is a word hardly understood by him. His demands and your
 
 inexperience together, on a small, very small income, must have brought
 
@@ -23339,7 +23339,7 @@ on distresses which would not be the _less_ grievous to you, from
 
 having been entirely unknown and unthought of before. _Your_ sense of
 
-honour and honesty would have led you, I know, when aware of your
+[[Honour|honour]] and honesty would have led you, I know, when aware of your
 
 situation, to attempt all the economy that would appear to you
 
@@ -23349,7 +23349,7 @@ your own comfort, you might have been suffered to practice it, but
 
 beyond that—and how little could the utmost of your single management
 
-do to stop the ruin which had begun before your marriage? Beyond
+do to stop the ruin which had begun before your [[Marriage|marriage]]? Beyond
 
 _that_, had you endeavoured, however reasonably, to abridge _his_
 
@@ -23415,13 +23415,13 @@ even to domestic happiness, than the mere temper of a wife.”
 
 
 
-“I have not a doubt of it,” said Marianne; “and I have nothing to
+“I have not a [[Doubt|doubt]] of it,” said Marianne; “and I have nothing to
 
 regret—nothing but my own folly.”
 
 
 
-“Rather say your mother’s imprudence, my child,” said Mrs. Dashwood;
+“Rather say your mother’s imprudence, my [[Child|child]],” said Mrs. Dashwood;
 
 “_she_ must be answerable.”
 
@@ -23451,9 +23451,9 @@ discontents.”
 
 Marianne assented most feelingly to the remark; and her mother was led
 
-by it to an enumeration of Colonel Brandon’s injuries and merits, warm
+by it to an enumeration of [[Colonel Brandon]]’s injuries and merits, warm
 
-as friendship and design could unitedly dictate. Her daughter did not
+as [[Friendship|friendship]] and design could unitedly dictate. Her daughter did not
 
 look, however, as if much of it were heard by her.
 
@@ -23465,7 +23465,7 @@ days, that Marianne did not continue to gain strength as she had done;
 
 but while her resolution was unsubdued, and she still tried to appear
 
-cheerful and easy, her sister could safely trust to the effect of time
+cheerful and easy, her sister could safely trust to the effect of [[Time|time]]
 
 upon her health.
 
@@ -23483,7 +23483,7 @@ Barton, at least planning a vigorous prosecution of them in future.
 
 Elinor grew impatient for some tidings of Edward. She had heard nothing
 
-of him since her leaving London, nothing new of his plans, nothing
+of him since her leaving [[London]], nothing new of his plans, nothing
 
 certain even of his present abode. Some letters had passed between her
 
@@ -23493,7 +23493,7 @@ of John’s, there had been this sentence:—“We know nothing of our
 
 unfortunate Edward, and can make no enquiries on so prohibited a
 
-subject, but conclude him to be still at Oxford;” which was all the
+subject, but conclude him to be still at [[Oxford]];” which was all the
 
 intelligence of Edward afforded her by the correspondence, for his name
 
@@ -23527,7 +23527,7 @@ taken the same direction, was shocked to perceive by Elinor’s
 
 countenance how much she really suffered, and a moment afterwards,
 
-alike distressed by Marianne’s situation, knew not on which child to
+alike distressed by Marianne’s situation, knew not on which [[Child|child]] to
 
 bestow her principal attention.
 
@@ -23537,7 +23537,7 @@ The servant, who saw only that Miss Marianne was taken ill, had sense
 
 enough to call one of the maids, who, with Mrs. Dashwood’s assistance,
 
-supported her into the other room. By that time, Marianne was rather
+supported her into the other room. By that [[Time|time]], Marianne was rather
 
 better, and her mother leaving her to the care of Margaret and the
 
@@ -23561,7 +23561,7 @@ benefit of the information without the exertion of seeking it.
 
 too, Miss Steele as was. They was stopping in a chaise at the door of
 
-the New London Inn, as I went there with a message from Sally at the
+the New [[London]] Inn, as I went there with a message from Sally at the
 
 Park to her brother, who is one of the post-boys. I happened to look up
 
@@ -23575,7 +23575,7 @@ Marianne, and bid me I should give her compliments and Mr. Ferrars’s,
 
 their best compliments and service, and how sorry they was they had not
 
-time to come on and see you, but they was in a great hurry to go
+[[Time|time]] to come on and see you, but they was in a great hurry to go
 
 forwards, for they was going further down for a little while, but
 
@@ -23665,11 +23665,11 @@ longer; I was afraid of being late.”
 
 
 
-“Did Mrs. Ferrars look well?”
+“Did Mrs. Ferrars look [[Well|well]]?”
 
 
 
-“Yes, ma’am, she said how she was very well; and to my mind she was
+“Yes, ma’am, she said how she was very [[Well|well]]; and to my mind she was
 
 always a very handsome young lady—and she seemed vastly contented.”
 
@@ -23683,7 +23683,7 @@ Marianne had already sent to say, that she should eat nothing more.
 
 Mrs. Dashwood’s and Elinor’s appetites were equally lost, and Margaret
 
-might think herself very well off, that with so much uneasiness as both
+might think herself very [[Well|well]] off, that with so much uneasiness as both
 
 her sisters had lately experienced, so much reason as they had often
 
@@ -23697,7 +23697,7 @@ When the dessert and the wine were arranged, and Mrs. Dashwood and
 
 Elinor were left by themselves, they remained long together in a
 
-similarity of thoughtfulness and silence. Mrs. Dashwood feared to
+similarity of thoughtfulness and [[Silence|silence]]. Mrs. Dashwood feared to
 
 hazard any remark, and ventured not to offer consolation. She now found
 
@@ -23705,17 +23705,17 @@ that she had erred in relying on Elinor’s representation of herself;
 
 and justly concluded that every thing had been expressly softened at
 
-the time, to spare her from an increase of unhappiness, suffering as
+the [[Time|time]], to spare her from an increase of unhappiness, [[Suffering|suffering]] as
 
 she then had suffered for Marianne. She found that she had been misled
 
 by the careful, the considerate attention of her daughter, to think the
 
-attachment, which once she had so well understood, much slighter in
+attachment, which once she had so [[Well|well]] understood, much slighter in
 
 reality, than she had been wont to believe, or than it was now proved
 
-to be. She feared that under this persuasion she had been unjust,
+to be. She feared that under this [[Persuasion|persuasion]] she had been unjust,
 
 inattentive, nay, almost unkind, to her Elinor;—that Marianne’s
 
@@ -23723,9 +23723,9 @@ affliction, because more acknowledged, more immediately before her, had
 
 too much engrossed her tenderness, and led her away to forget that in
 
-Elinor she might have a daughter suffering almost as much, certainly
+Elinor she might have a daughter [[Suffering|suffering]] almost as much, certainly
 
-with less self-provocation, and greater fortitude.
+with less [[Self|self]]-provocation, and greater fortitude.
 
 
 
@@ -23747,7 +23747,7 @@ unpleasant event, however certain the mind may be told to consider it,
 
 and certainty itself. She now found, that in spite of herself, she had
 
-always admitted a hope, while Edward remained single, that something
+always admitted a [[Hope|hope]], while Edward remained single, that something
 
 would occur to prevent his marrying Lucy; that some resolution of his
 
@@ -23757,7 +23757,7 @@ establishment for the lady, would arise to assist the happiness of all.
 
 But he was now married; and she condemned her heart for the lurking
 
-flattery, which so much heightened the pain of the intelligence.
+flattery, which so much heightened the [[Pain|pain]] of the intelligence.
 
 
 
@@ -23767,7 +23767,7 @@ orders, and consequently before he could be in possession of the
 
 living, surprised her a little at first. But she soon saw how likely it
 
-was that Lucy, in her self-provident care, in her haste to secure him,
+was that Lucy, in her [[Self|self]]-provident care, in her haste to secure him,
 
 should overlook every thing but the risk of delay. They were married,
 
@@ -23785,25 +23785,25 @@ place in which so much conspired to give her an interest; which she
 
 wished to be acquainted with, and yet desired to avoid. She saw them in
 
-an instant in their parsonage-house; saw in Lucy, the active,
+an instant in their parsonage-[[house]]; saw in Lucy, the active,
 
-contriving manager, uniting at once a desire of smart appearance with
+contriving manager, uniting at once a [[Desire|desire]] of smart appearance with
 
 the utmost frugality, and ashamed to be suspected of half her
 
 economical practices;—pursuing her own interest in every thought,
 
-courting the favour of Colonel Brandon, of Mrs. Jennings, and of every
+courting the favour of [[Colonel Brandon]], of Mrs. Jennings, and of every
 
 wealthy friend. In Edward—she knew not what she saw, nor what she
 
 wished to see;—happy or unhappy,—nothing pleased her; she turned away
 
-her head from every sketch of him.
+her head from every [[Sketch|sketch]] of him.
 
 
 
-Elinor flattered herself that some one of their connections in London
+Elinor flattered herself that some one of their connections in [[London]]
 
 would write to them to announce the event, and give farther
 
@@ -23815,13 +23815,13 @@ with every absent friend. They were all thoughtless or indolent.
 
 
 
-“When do you write to Colonel Brandon, ma’am?” was an inquiry which
+“When do you write to [[Colonel Brandon]], ma’am?” was an inquiry which
 
 sprung from the impatience of her mind to have something going on.
 
 
 
-“I wrote to him, my love, last week, and rather expect to see, than to
+“I wrote to him, my [[Love|love]], last week, and rather expect to see, than to
 
 hear from him again. I earnestly pressed his coming to us, and should
 
@@ -23837,11 +23837,11 @@ Brandon _must_ have some information to give.
 
 Scarcely had she so determined it, when the figure of a man on
 
-horseback drew her eyes to the window. He stopt at their gate. It was a
+horseback drew her eyes to the [[Window|window]]. He stopt at their gate. It was a
 
-gentleman, it was Colonel Brandon himself. Now she could hear more; and
+gentleman, it was [[Colonel Brandon]] himself. Now she could hear more; and
 
-she trembled in expectation of it. But it was _not_ Colonel Brandon;
+she trembled in expectation of it. But it was _not_ [[Colonel Brandon]];
 
 neither his air, nor his height. Were it possible, she must say it must
 
@@ -23871,7 +23871,7 @@ own discretion.
 
 
 
-Not a syllable passed aloud. They all waited in silence for the
+Not a syllable passed aloud. They all waited in [[Silence|silence]] for the
 
 appearance of their visitor. His footsteps were heard along the gravel
 
@@ -23917,7 +23917,7 @@ the case, thought it incumbent on her to be dignified, and therefore
 
 took a seat as far from him as she could, and maintained a strict
 
-silence.
+[[Silence|silence]].
 
 
 
@@ -23925,7 +23925,7 @@ When Elinor had ceased to rejoice in the dryness of the season, a very
 
 awful pause took place. It was put an end to by Mrs. Dashwood, who felt
 
-obliged to hope that he had left Mrs. Ferrars very well. In a hurried
+obliged to [[Hope|hope]] that he had left Mrs. Ferrars very [[Well|well]]. In a hurried
 
 manner, he replied in the affirmative.
 
@@ -23973,9 +23973,9 @@ after some hesitation, said,—
 
 accent of the utmost amazement; and though Elinor could not speak, even
 
-_her_ eyes were fixed on him with the same impatient wonder. He rose
+_her_ eyes were fixed on him with the same impatient [[Wonder|wonder]]. He [[Rose|rose]]
 
-from his seat, and walked to the window, apparently from not knowing
+from his seat, and walked to the [[Window|window]], apparently from not knowing
 
 what to do; took up a pair of scissors that lay there, and while
 
@@ -23987,7 +23987,7 @@ he spoke, said, in a hurried voice,—
 
 “Perhaps you do not know: you may not have heard that my brother is
 
-lately married to—to the youngest—to Miss Lucy Steele.”
+lately married to—to the youngest—to Miss [[Lucy Steele]].”
 
 
 
@@ -24005,7 +24005,7 @@ agitation as made her hardly know where she was.
 
 Elinor could sit it no longer. She almost ran out of the room, and as
 
-soon as the door was closed, burst into tears of joy, which at first
+soon as the door was closed, burst into [[Tears|tears]] of joy, which at first
 
 she thought would never cease. Edward, who had till then looked any
 
@@ -24043,7 +24043,7 @@ Unaccountable, however, as the circumstances of his release might
 
 appear to the whole family, it was certain that Edward was free; and to
 
-what purpose that freedom would be employed was easily pre-determined
+what purpose that [[Freedom|freedom]] would be employed was easily pre-determined
 
 by all;—for after experiencing the blessings of _one_ imprudent
 
@@ -24075,27 +24075,27 @@ expressed himself, and how he was received, need not be particularly
 
 told. This only need be said;—that when they all sat down to table at
 
-four o’clock, about three hours after his arrival, he had secured his
+four o’[[Clock|clock]], about three hours after his arrival, he had secured his
 
 lady, engaged her mother’s consent, and was not only in the rapturous
 
-profession of the lover, but, in the reality of reason and truth, one
+profession of the [[Lover|lover]], but, in the reality of reason and [[Truth|truth]], one
 
 of the happiest of men. His situation indeed was more than commonly
 
-joyful. He had more than the ordinary triumph of accepted love to swell
+joyful. He had more than the ordinary triumph of accepted [[Love|love]] to swell
 
 his heart, and raise his spirits. He was released without any reproach
 
 to himself, from an entanglement which had long formed his misery, from
 
-a woman whom he had long ceased to love;—and elevated at once to that
+a woman whom he had long ceased to [[Love|love]];—and elevated at once to that
 
 security with another, which he must have thought of almost with
 
-despair, as soon as he had learnt to consider it with desire. He was
+[[Despair|despair]], as soon as he had learnt to consider it with [[Desire|desire]]. He was
 
-brought, not from doubt or suspense, but from misery to happiness;—and
+brought, not from [[Doubt|doubt]] or suspense, but from misery to happiness;—and
 
 the change was openly spoken in such a genuine, flowing, grateful
 
@@ -24121,9 +24121,9 @@ from the care of Mr. Pratt, I think, nay, I am sure, it would never
 
 have happened; for though I left Longstaple with what I thought, at the
 
-time, a most unconquerable preference for his niece, yet had I then had
+[[Time|time]], a most unconquerable preference for his niece, yet had I then had
 
-any pursuit, any object to engage my time and keep me at a distance
+any pursuit, any object to engage my [[Time|time]] and keep me at a distance
 
 from her for a few months, I should very soon have outgrown the fancied
 
@@ -24133,25 +24133,25 @@ must have done. But instead of having any thing to do, instead of
 
 having any profession chosen for me, or being allowed to chuse any
 
-myself, I returned home to be completely idle; and for the first
+myself, I returned [[Home|home]] to be completely idle; and for the first
 
 twelvemonth afterwards I had not even the nominal employment, which
 
 belonging to the university would have given me; for I was not entered
 
-at Oxford till I was nineteen. I had therefore nothing in the world to
+at [[Oxford]] till I was nineteen. I had therefore nothing in the world to
 
-do, but to fancy myself in love; and as my mother did not make my home
+do, but to fancy myself in [[Love|love]]; and as my mother did not make my [[Home|home]]
 
 in every respect comfortable, as I had no friend, no companion in my
 
 brother, and disliked new acquaintance, it was not unnatural for me to
 
-be very often at Longstaple, where I always felt myself at home, and
+be very often at Longstaple, where I always felt myself at [[Home|home]], and
 
 was always sure of a welcome; and accordingly I spent the greatest part
 
-of my time there from eighteen to nineteen: Lucy appeared everything
+of my [[Time|time]] there from eighteen to nineteen: Lucy appeared everything
 
 that was amiable and obliging. She was pretty too—at least I thought so
 
@@ -24159,9 +24159,9 @@ _then;_ and I had seen so little of other women, that I could make no
 
 comparisons, and see no defects. Considering everything, therefore, I
 
-hope, foolish as our engagement was, foolish as it has since in every
+[[Hope|hope]], foolish as our engagement was, foolish as it has since in every
 
-way been proved, it was not at the time an unnatural or an inexcusable
+way been proved, it was not at the [[Time|time]] an unnatural or an inexcusable
 
 piece of folly.”
 
@@ -24171,9 +24171,9 @@ The change which a few hours had wrought in the minds and the happiness
 
 of the Dashwoods, was such—so great—as promised them all, the
 
-satisfaction of a sleepless night. Mrs. Dashwood, too happy to be
+satisfaction of a sleepless [[Night|night]]. Mrs. Dashwood, too happy to be
 
-comfortable, knew not how to love Edward, nor praise Elinor enough, how
+comfortable, knew not how to [[Love|love]] Edward, nor praise Elinor enough, how
 
 to be enough thankful for his release without wounding his delicacy,
 
@@ -24183,9 +24183,9 @@ together, and yet enjoy, as she wished, the sight and society of both.
 
 
 
-Marianne could speak _her_ happiness only by tears. Comparisons would
+Marianne could speak _her_ happiness only by [[Tears|tears]]. Comparisons would
 
-occur—regrets would arise; and her joy, though sincere as her love for
+occur—regrets would arise; and her joy, though sincere as her [[Love|love]] for
 
 her sister, was of a kind to give her neither spirits nor language.
 
@@ -24199,7 +24199,7 @@ moment of his justifying the hopes which had so instantly followed, she
 
 was every thing by turns but tranquil. But when the second moment had
 
-passed, when she found every doubt, every solicitude removed, compared
+passed, when she found every [[Doubt|doubt]], every solicitude removed, compared
 
 her situation with what so lately it had been,—saw him honourably
 
@@ -24231,7 +24231,7 @@ the future;—for though a very few hours spent in the hard labor of
 
 incessant talking will despatch more subjects than can really be in
 
-common between any two rational creatures, yet with lovers it is
+common between any two rational creatures, yet with [[lovers]] it is
 
 different. Between _them_ no subject is finished, no communication is
 
@@ -24239,9 +24239,9 @@ even made, till it has been made at least twenty times over.
 
 
 
-Lucy’s marriage, the unceasing and reasonable wonder among them all,
+Lucy’s [[Marriage|marriage]], the unceasing and reasonable [[Wonder|wonder]] among them all,
 
-formed of course one of the earliest discussions of the lovers;—and
+formed of course one of the earliest discussions of the [[lovers]];—and
 
 Elinor’s particular knowledge of each party made it appear to her in
 
@@ -24251,7 +24251,7 @@ circumstances she had ever heard. How they could be thrown together,
 
 and by what attraction Robert could be drawn on to marry a girl, of
 
-whose beauty she had herself heard him speak without any admiration,—a
+whose [[Beauty|beauty]] she had herself heard him speak without any admiration,—a
 
 girl too already engaged to his brother, and on whose account that
 
@@ -24259,7 +24259,7 @@ brother had been thrown off by his family—it was beyond her
 
 comprehension to make out. To her own heart it was a delightful affair,
 
-to her imagination it was even a ridiculous one, but to her reason, her
+to her [[Imagination|imagination]] it was even a ridiculous one, but to her reason, her
 
 judgment, it was completely a puzzle.
 
@@ -24267,7 +24267,7 @@ judgment, it was completely a puzzle.
 
 Edward could only attempt an explanation by supposing, that, perhaps,
 
-at first accidentally meeting, the vanity of the one had been so worked
+at first accidentally meeting, the [[Vanity|vanity]] of the one had been so worked
 
 on by the flattery of the other, as to lead by degrees to all the rest.
 
@@ -24275,7 +24275,7 @@ Elinor remembered what Robert had told her in Harley Street, of his
 
 opinion of what his own mediation in his brother’s affairs might have
 
-done, if applied to in time. She repeated it to Edward.
+done, if applied to in [[Time|time]]. She repeated it to Edward.
 
 
 
@@ -24293,9 +24293,9 @@ might afterward arise.”
 
 How long it had been carrying on between them, however, he was equally
 
-at a loss with herself to make out; for at Oxford, where he had
+at a loss with herself to make out; for at [[Oxford]], where he had
 
-remained for choice ever since his quitting London, he had had no means
+remained for choice ever since his quitting [[London]], he had had no means
 
 of hearing of her but from herself, and her letters to the very last
 
@@ -24305,9 +24305,9 @@ smallest suspicion, therefore, had ever occurred to prepare him for
 
 what followed;—and when at last it burst on him in a letter from Lucy
 
-herself, he had been for some time, he believed, half stupified between
+herself, he had been for some [[Time|time]], he believed, half stupified between
 
-the wonder, the horror, and the joy of such a deliverance. He put the
+the [[Wonder|wonder]], the horror, and the joy of such a deliverance. He put the
 
 letter into Elinor’s hands.
 
@@ -24317,7 +24317,7 @@ letter into Elinor’s hands.
 
     “Being very sure I have long lost your affections, I have thought
 
-    myself at liberty to bestow my own on another, and have no doubt of
+    myself at liberty to bestow my own on another, and have no [[Doubt|doubt]] of
 
     being as happy with him as I once used to think I might be with
 
@@ -24345,7 +24345,7 @@ letter into Elinor’s hands.
 
 
 
-“Your sincere well-wisher, friend, and sister,
+“Your sincere [[Well|well]]-wisher, friend, and sister,
 
 “LUCY FERRARS.
 
@@ -24411,19 +24411,19 @@ In what state the affair stood at present between them, Edward knew
 
 not, for no communication with any of his family had yet been attempted
 
-by him. He had quitted Oxford within four and twenty hours after Lucy’s
+by him. He had quitted [[Oxford]] within four and twenty hours after Lucy’s
 
-letter arrived, and with only one object before him, the nearest road
+letter arrived, and with only one object before him, the nearest [[Road|road]]
 
 to Barton, had had no leisure to form any scheme of conduct, with which
 
-that road did not hold the most intimate connection. He could do
+that [[Road|road]] did not hold the most intimate connection. He could do
 
 nothing till he were assured of his fate with Miss Dashwood; and by his
 
 rapidity in seeking _that_ fate, it is to be supposed, in spite of the
 
-jealousy with which he had once thought of Colonel Brandon, in spite of
+[[Jealousy|jealousy]] with which he had once thought of [[Colonel Brandon]], in spite of
 
 the modesty with which he rated his own deserts, and the politeness
 
@@ -24433,7 +24433,7 @@ a very cruel reception. It was his business, however, to say that he
 
 _did_, and he said it very prettily. What he might say on the subject a
 
-twelvemonth after, must be referred to the imagination of husbands and
+twelvemonth after, must be referred to the [[Imagination|imagination]] of husbands and
 
 wives.
 
@@ -24447,19 +24447,19 @@ Elinor; and Edward himself, now thoroughly enlightened on her
 
 character, had no scruple in believing her capable of the utmost
 
-meanness of wanton ill-nature. Though his eyes had been long opened,
+meanness of wanton ill-[[Nature|nature]]. Though his eyes had been long opened,
 
 even before his acquaintance with Elinor began, to her ignorance and a
 
 want of liberality in some of her opinions—they had been equally
 
-imputed, by him, to her want of education; and till her last letter
+imputed, by him, to her want of [[Education|education]]; and till her last letter
 
-reached him, he had always believed her to be a well-disposed,
+reached him, he had always believed her to be a [[Well|well]]-disposed,
 
 good-hearted girl, and thoroughly attached to himself. Nothing but such
 
-a persuasion could have prevented his putting an end to an engagement,
+a [[Persuasion|persuasion]] could have prevented his putting an end to an engagement,
 
 which, long before the discovery of it laid him open to his mother’s
 
@@ -24475,7 +24475,7 @@ renounced by my mother, and stood to all appearance without a friend in
 
 the world to assist me. In such a situation as that, where there seemed
 
-nothing to tempt the avarice or the vanity of any living creature, how
+nothing to tempt the avarice or the [[Vanity|vanity]] of any living creature, how
 
 could I suppose, when she so earnestly, so warmly insisted on sharing
 
@@ -24489,13 +24489,13 @@ be to her, to be fettered to a man for whom she had not the smallest
 
 regard, and who had only two thousand pounds in the world. She could
 
-not foresee that Colonel Brandon would give me a living.”
+not foresee that [[Colonel Brandon]] would give me a living.”
 
 
 
 “No; but she might suppose that something would occur in your favour;
 
-that your own family might in time relent. And at any rate, she lost
+that your own family might in [[Time|time]] relent. And at any rate, she lost
 
 nothing by continuing the engagement, for she has proved that it
 
@@ -24511,7 +24511,7 @@ be better for her to marry _you_ than be single.”
 
 Edward was, of course, immediately convinced that nothing could have
 
-been more natural than Lucy’s conduct, nor more self-evident than the
+been more natural than Lucy’s conduct, nor more [[Self|self]]-evident than the
 
 motive of it.
 
@@ -24519,7 +24519,7 @@ motive of it.
 
 Elinor scolded him, harshly as ladies always scold the imprudence which
 
-compliments themselves, for having spent so much time with them at
+compliments themselves, for having spent so much [[Time|time]] with them at
 
 Norland, when he must have felt his own inconstancy.
 
@@ -24545,9 +24545,9 @@ another, there could be no danger in my being with you; and that the
 
 consciousness of my engagement was to keep my heart as safe and sacred
 
-as my honour. I felt that I admired you, but I told myself it was only
+as my [[Honour|honour]]. I felt that I admired you, but I told myself it was only
 
-friendship; and till I began to make comparisons between yourself and
+[[Friendship|friendship]]; and till I began to make comparisons between yourself and
 
 Lucy, I did not know how far I was got. After that, I suppose, I _was_
 
@@ -24565,7 +24565,7 @@ Elinor smiled, and shook her head.
 
 
 
-Edward heard with pleasure of Colonel Brandon’s being expected at the
+Edward heard with pleasure of [[Colonel Brandon]]’s being expected at the
 
 Cottage, as he really wished not only to be better acquainted with him,
 
@@ -24583,11 +24583,11 @@ _Now_ he felt astonished himself that he had never yet been to the
 
 place. But so little interest had he taken in the matter, that he owed
 
-all his knowledge of the house, garden, and glebe, extent of the
+all his knowledge of the [[house]], [[Garden|garden]], and glebe, extent of the
 
 parish, condition of the land, and rate of the tithes, to Elinor
 
-herself, who had heard so much of it from Colonel Brandon, and heard it
+herself, who had heard so much of it from [[Colonel Brandon]], and heard it
 
 with so much attention, as to be entirely mistress of the subject.
 
@@ -24609,7 +24609,7 @@ that they could call their own; for it was impossible that Mrs.
 
 Dashwood should advance anything; and they were neither of them quite
 
-enough in love to think that three hundred and fifty pounds a-year
+enough in [[Love|love]] to think that three hundred and fifty pounds a-year
 
 would supply them with the comforts of life.
 
@@ -24625,25 +24625,25 @@ be unable to marry Miss Morton, and his chusing herself had been spoken
 
 of in Mrs. Ferrars’s flattering language as only a lesser evil than his
 
-chusing Lucy Steele, she feared that Robert’s offence would serve no
+chusing [[Lucy Steele]], she feared that Robert’s offence would serve no
 
 other purpose than to enrich Fanny.
 
 
 
-About four days after Edward’s arrival Colonel Brandon appeared, to
+About four days after Edward’s arrival [[Colonel Brandon]] appeared, to
 
 complete Mrs. Dashwood’s satisfaction, and to give her the dignity of
 
-having, for the first time since her living at Barton, more company
+having, for the first [[Time|time]] since her living at Barton, more company
 
-with her than her house would hold. Edward was allowed to retain the
+with her than her [[house]] would hold. Edward was allowed to retain the
 
-privilege of first comer, and Colonel Brandon therefore walked every
+privilege of first comer, and [[Colonel Brandon]] therefore walked every
 
-night to his old quarters at the Park; from whence he usually returned
+[[Night|night]] to his old quarters at the Park; from whence he usually returned
 
-in the morning, early enough to interrupt the lovers’ first tête-à-tête
+in the morning, early enough to interrupt the [[lovers]]’ first tête-à-tête
 
 before breakfast.
 
@@ -24661,7 +24661,7 @@ of her welcome, and all the encouragement of her mother’s language, to
 
 make it cheerful. Among such friends, however, and such flattery, he
 
-did revive. No rumour of Lucy’s marriage had yet reached him:—he knew
+did revive. No rumour of Lucy’s [[Marriage|marriage]] had yet reached him:—he knew
 
 nothing of what had passed; and the first hours of his visit were
 
@@ -24683,19 +24683,19 @@ for it could not be otherwise. Their resemblance in good principles and
 
 good sense, in disposition and manner of thinking, would probably have
 
-been sufficient to unite them in friendship, without any other
+been sufficient to unite them in [[Friendship|friendship]], without any other
 
-attraction; but their being in love with two sisters, and two sisters
+attraction; but their being in [[Love|love]] with two sisters, and two sisters
 
 fond of each other, made that mutual regard inevitable and immediate,
 
-which might otherwise have waited the effect of time and judgment.
+which might otherwise have waited the effect of [[Time|time]] and judgment.
 
 
 
 The letters from town, which a few days before would have made every
 
-nerve in Elinor’s body thrill with transport, now arrived to be read
+nerve in Elinor’s [[Body|body]] thrill with transport, now arrived to be read
 
 with less emotion than mirth. Mrs. Jennings wrote to tell the wonderful
 
@@ -24705,21 +24705,21 @@ forth her compassion towards poor Mr. Edward, who, she was sure, had
 
 quite doted upon the worthless hussy, and was now, by all accounts,
 
-almost broken-hearted, at Oxford. “I do think,” she continued, “nothing
+almost broken-hearted, at [[Oxford]]. “I do think,” she continued, “nothing
 
 was ever carried on so sly; for it was but two days before Lucy called
 
-and sat a couple of hours with me. Not a soul suspected anything of the
+and sat a couple of hours with me. Not a [[Soul|soul]] suspected anything of the
 
-matter, not even Nancy, who, poor soul! came crying to me the day
+matter, not even [[Nancy]], who, poor [[Soul|soul]]! came crying to me the day
 
-after, in a great fright for fear of Mrs. Ferrars, as well as not
+after, in a great fright for [[Fear|fear]] of Mrs. Ferrars, as [[Well|well]] as not
 
 knowing how to get to Plymouth; for Lucy it seems borrowed all her
 
 money before she went off to be married, on purpose we suppose to make
 
-a show with, and poor Nancy had not seven shillings in the world; so I
+a show with, and poor [[Nancy]] had not seven shillings in the world; so I
 
 was very glad to give her five guineas to take her down to Exeter,
 
@@ -24743,7 +24743,7 @@ unfortunate of women—poor Fanny had suffered agonies of sensibility—and
 
 he considered the existence of each, under such a blow, with grateful
 
-wonder. Robert’s offence was unpardonable, but Lucy’s was infinitely
+[[Wonder|wonder]]. Robert’s offence was unpardonable, but Lucy’s was infinitely
 
 worse. Neither of them were ever again to be mentioned to Mrs. Ferrars;
 
@@ -24757,7 +24757,7 @@ carried on between them, was rationally treated as enormously
 
 heightening the crime, because, had any suspicion of it occurred to the
 
-others, proper measures would have been taken to prevent the marriage;
+others, proper measures would have been taken to prevent the [[Marriage|marriage]];
 
 and he called on Elinor to join with him in regretting that Lucy’s
 
@@ -24775,9 +24775,9 @@ surprise us; but, to our great astonishment, not a line has been
 
 received from him on the occasion. Perhaps, however, he is kept silent
 
-by his fear of offending, and I shall, therefore, give him a hint, by a
+by his [[Fear|fear]] of offending, and I shall, therefore, give him a hint, by a
 
-line to Oxford, that his sister and I both think a letter of proper
+line to [[Oxford]], that his sister and I both think a letter of proper
 
 submission from him, addressed perhaps to Fanny, and by her shown to
 
@@ -24791,7 +24791,7 @@ on good terms with her children.”
 
 This paragraph was of some importance to the prospects and conduct of
 
-Edward. It determined him to attempt a reconciliation, though not
+Edward. It determined him to attempt a [[Reconciliation|reconciliation]], though not
 
 exactly in the manner pointed out by their brother and sister.
 
@@ -24801,7 +24801,7 @@ exactly in the manner pointed out by their brother and sister.
 
 my mother’s pardon for Robert’s ingratitude to _her_, and breach of
 
-honour to _me?_ I can make no submission. I am grown neither humble nor
+[[Honour|honour]] to _me?_ I can make no submission. I am grown neither humble nor
 
 penitent by what has passed. I am grown very happy; but that would not
 
@@ -24823,7 +24823,7 @@ He agreed that he might.
 
 
 
-“And when she has forgiven you, perhaps a little humility may be
+“And when she has forgiven you, perhaps a little [[Humility|humility]] may be
 
 convenient while acknowledging a second engagement, almost as imprudent
 
@@ -24839,29 +24839,29 @@ as he declared a much greater willingness to make mean concessions by
 
 word of mouth than on paper, it was resolved that, instead of writing
 
-to Fanny, he should go to London, and personally intreat her good
+to Fanny, he should go to [[London]], and personally intreat her good
 
 offices in his favour. “And if they really _do_ interest themselves,”
 
 said Marianne, in her new character of candour, “in bringing about a
 
-reconciliation, I shall think that even John and Fanny are not entirely
+[[Reconciliation|reconciliation]], I shall think that even John and Fanny are not entirely
 
 without merit.”
 
 
 
-After a visit on Colonel Brandon’s side of only three or four days, the
+After a visit on [[Colonel Brandon]]’s side of only three or four days, the
 
 two gentlemen quitted Barton together. They were to go immediately to
 
 Delaford, that Edward might have some personal knowledge of his future
 
-home, and assist his patron and friend in deciding on what improvements
+[[Home|home]], and assist his patron and friend in deciding on what improvements
 
 were needed to it; and from thence, after staying there a couple of
 
-nights, he was to proceed on his journey to town.
+nights, he was to proceed on his [[Journey|journey]] to town.
 
 
 
@@ -24923,7 +24923,7 @@ nobleman with thirty thousand pounds, while Miss Dashwood was only the
 
 daughter of a private gentleman with no more than _three;_ but when she
 
-found that, though perfectly admitting the truth of her representation,
+found that, though perfectly admitting the [[Truth|truth]] of her representation,
 
 he was by no means inclined to be guided by it, she judged it wisest,
 
@@ -24933,7 +24933,7 @@ ungracious delay as she owed to her own dignity, and as served to
 
 prevent every suspicion of good-will, she issued her decree of consent
 
-to the marriage of Edward and Elinor.
+to the [[Marriage|marriage]] of Edward and Elinor.
 
 
 
@@ -24967,11 +24967,11 @@ With an income quite sufficient to their wants thus secured to them,
 
 they had nothing to wait for after Edward was in possession of the
 
-living, but the readiness of the house, to which Colonel Brandon, with
+living, but the readiness of the [[house]], to which [[Colonel Brandon]], with
 
-an eager desire for the accommodation of Elinor, was making
+an eager [[Desire|desire]] for the accommodation of Elinor, was making
 
-considerable improvements; and after waiting some time for their
+considerable improvements; and after waiting some [[Time|time]] for their
 
 completion, after experiencing, as usual, a thousand disappointments
 
@@ -24981,13 +24981,13 @@ as usual, broke through the first positive resolution of not marrying
 
 till every thing was ready, and the ceremony took place in Barton
 
-church early in the autumn.
+church early in the [[Autumn|autumn]].
 
 
 
-The first month after their marriage was spent with their friend at the
+The first month after their [[Marriage|marriage]] was spent with their friend at the
 
-Mansion-house; from whence they could superintend the progress of the
+Mansion-[[house]]; from whence they could superintend the progress of the
 
 Parsonage, and direct every thing as they liked on the spot;—could
 
@@ -25001,7 +25001,7 @@ Michaelmas, and she found in Elinor and her husband, as she really
 
 believed, one of the happiest couples in the world. They had in fact
 
-nothing to wish for, but the marriage of Colonel Brandon and Marianne,
+nothing to wish for, but the [[Marriage|marriage]] of [[Colonel Brandon]] and Marianne,
 
 and rather better pasturage for their cows.
 
@@ -25013,7 +25013,7 @@ and friends. Mrs. Ferrars came to inspect the happiness which she was
 
 almost ashamed of having authorised; and even the Dashwoods were at the
 
-expense of a journey from Sussex to do them honour.
+expense of a [[Journey|journey]] from Sussex to do them [[Honour|honour]].
 
 
 
@@ -25021,13 +25021,13 @@ expense of a journey from Sussex to do them honour.
 
 they were walking together one morning before the gates of Delaford
 
-House, “_that_ would be saying too much, for certainly you have been
+[[house|House]], “_that_ would be saying too much, for certainly you have been
 
 one of the most fortunate young women in the world, as it is. But, I
 
-confess, it would give me great pleasure to call Colonel Brandon
+confess, it would give me great pleasure to call [[Colonel Brandon]]
 
-brother. His property here, his place, his house, every thing is in
+brother. His property here, his place, his [[house]], every thing is in
 
 such respectable and excellent condition! And his woods,—I have not
 
@@ -25039,13 +25039,13 @@ person to attract him, yet I think it would altogether be advisable for
 
 you to have them now frequently staying with you, for as Colonel
 
-Brandon seems a great deal at home, nobody can tell what may happen;
+Brandon seems a great deal at [[Home|home]], nobody can tell what may happen;
 
 for, when people are much thrown together, and see little of anybody
 
 else,—and it will always be in your power to set her off to advantage,
 
-and so forth. In short, you may as well give her a chance: you
+and so forth. In short, you may as [[Well|well]] give her a chance: you
 
 understand me.”
 
@@ -25063,7 +25063,7 @@ months had passed away. The selfish sagacity of the latter, which had
 
 at first drawn Robert into the scrape, was the principal instrument of
 
-his deliverance from it; for her respectful humility, assiduous
+his deliverance from it; for her respectful [[Humility|humility]], assiduous
 
 attentions, and endless flatteries, as soon as the smallest opening was
 
@@ -25077,13 +25077,13 @@ The whole of Lucy’s behaviour in the affair, and the prosperity which
 
 crowned it, therefore, may be held forth as a most encouraging instance
 
-of what an earnest, an unceasing attention to self-interest, however
+of what an earnest, an unceasing attention to [[Self|self]]-interest, however
 
 its progress may be apparently obstructed, will do in securing every
 
-advantage of fortune, with no other sacrifice than that of time and
+advantage of fortune, with no other sacrifice than that of [[Time|time]] and
 
-conscience. When Robert first sought her acquaintance, and privately
+[[Conscience|conscience]]. When Robert first sought her acquaintance, and privately
 
 visited her in Bartlett’s Buildings, it was only with the view imputed
 
@@ -25125,9 +25125,9 @@ had many relations and old acquaintances to cut—and he drew several
 
 plans for magnificent cottages;—and from thence returning to town,
 
-procured the forgiveness of Mrs. Ferrars, by the simple expedient of
+procured the [[Forgiveness|forgiveness]] of Mrs. Ferrars, by the simple expedient of
 
-asking it, which, at Lucy’s instigation, was adopted. The forgiveness,
+asking it, which, at Lucy’s instigation, was adopted. The [[Forgiveness|forgiveness]],
 
 at first, indeed, as was reasonable, comprehended only Robert; and
 
@@ -25135,11 +25135,11 @@ Lucy, who had owed his mother no duty and therefore could have
 
 transgressed none, still remained some weeks longer unpardoned. But
 
-perseverance in humility of conduct and messages, in self-condemnation
+perseverance in [[Humility|humility]] of conduct and messages, in [[Self|self]]-condemnation
 
 for Robert’s offence, and gratitude for the unkindness she was treated
 
-with, procured her in time the haughty notice which overcame her by its
+with, procured her in [[Time|time]] the haughty notice which overcame her by its
 
 graciousness, and led soon afterwards, by rapid degrees, to the highest
 
@@ -25153,7 +25153,7 @@ though superior to her in fortune and birth, was spoken of as an
 
 intruder, _she_ was in every thing considered, and always openly
 
-acknowledged, to be a favourite child. They settled in town, received
+acknowledged, to be a favourite [[Child|child]]. They settled in town, received
 
 very liberal assistance from Mrs. Ferrars, were on the best terms
 
@@ -25161,7 +25161,7 @@ imaginable with the Dashwoods; and setting aside the jealousies and
 
 ill-will continually subsisting between Fanny and Lucy, in which their
 
-husbands of course took a part, as well as the frequent domestic
+husbands of course took a part, as [[Well|well]] as the frequent domestic
 
 disagreements between Robert and Lucy themselves, nothing could exceed
 
@@ -25185,7 +25185,7 @@ brother too little, or bringing himself too much;—and if Edward might
 
 be judged from the ready discharge of his duties in every particular,
 
-from an increasing attachment to his wife and his home, and from the
+from an increasing attachment to his wife and his [[Home|home]], and from the
 
 regular cheerfulness of his spirits, he might be supposed no less
 
@@ -25193,17 +25193,17 @@ contented with his lot, no less free from every wish of an exchange.
 
 
 
-Elinor’s marriage divided her as little from her family as could well
+Elinor’s [[Marriage|marriage]] divided her as little from her family as could [[Well|well]]
 
 be contrived, without rendering the cottage at Barton entirely useless,
 
-for her mother and sisters spent much more than half their time with
+for her mother and sisters spent much more than half their [[Time|time]] with
 
-her. Mrs. Dashwood was acting on motives of policy as well as pleasure
+her. Mrs. Dashwood was acting on motives of policy as [[Well|well]] as pleasure
 
 in the frequency of her visits at Delaford; for her wish of bringing
 
-Marianne and Colonel Brandon together was hardly less earnest, though
+Marianne and [[Colonel Brandon]] together was hardly less earnest, though
 
 rather more liberal than what John had expressed. It was now her
 
@@ -25211,7 +25211,7 @@ darling object. Precious as was the company of her daughter to her, she
 
 desired nothing so much as to give up its constant enjoyment to her
 
-valued friend; and to see Marianne settled at the mansion-house was
+valued friend; and to see Marianne settled at the mansion-[[house]] was
 
 equally the wish of Edward and Elinor. They each felt his sorrows, and
 
@@ -25231,7 +25231,7 @@ her—what could she do?
 
 
 
-Marianne Dashwood was born to an extraordinary fate. She was born to
+[[Marianne Dashwood]] was born to an extraordinary fate. She was born to
 
 discover the falsehood of her own opinions, and to counteract, by her
 
@@ -25239,7 +25239,7 @@ conduct, her most favourite maxims. She was born to overcome an
 
 affection formed so late in life as at seventeen, and with no sentiment
 
-superior to strong esteem and lively friendship, voluntarily to give
+superior to strong esteem and lively [[Friendship|friendship]], voluntarily to give
 
 her hand to another!—and _that_ other, a man who had suffered no less
 
@@ -25263,13 +25263,13 @@ her more calm and sober judgment she had determined on,—she found
 
 herself at nineteen, submitting to new attachments, entering on new
 
-duties, placed in a new home, a wife, the mistress of a family, and the
+duties, placed in a new [[Home|home]], a wife, the mistress of a family, and the
 
 patroness of a village.
 
 
 
-Colonel Brandon was now as happy, as all those who best loved him,
+[[Colonel Brandon]] was now as happy, as all those who best loved him,
 
 believed he deserved to be;—in Marianne he was consoled for every past
 
@@ -25277,31 +25277,31 @@ affliction;—her regard and her society restored his mind to animation,
 
 and his spirits to cheerfulness; and that Marianne found her own
 
-happiness in forming his, was equally the persuasion and delight of
+happiness in forming his, was equally the [[Persuasion|persuasion]] and delight of
 
-each observing friend. Marianne could never love by halves; and her
+each observing friend. Marianne could never [[Love|love]] by halves; and her
 
-whole heart became, in time, as much devoted to her husband, as it had
+whole heart became, in [[Time|time]], as much devoted to her husband, as it had
 
 once been to Willoughby.
 
 
 
-Willoughby could not hear of her marriage without a pang; and his
+Willoughby could not hear of her [[Marriage|marriage]] without a pang; and his
 
-punishment was soon afterwards complete in the voluntary forgiveness of
+punishment was soon afterwards complete in the voluntary [[Forgiveness|forgiveness]] of
 
-Mrs. Smith, who, by stating his marriage with a woman of character, as
+Mrs. [[smith|Smith]], who, by stating his [[Marriage|marriage]] with a woman of character, as
 
 the source of her clemency, gave him reason for believing that had he
 
-behaved with honour towards Marianne, he might at once have been happy
+behaved with [[Honour|honour]] towards Marianne, he might at once have been happy
 
 and rich. That his repentance of misconduct, which thus brought its own
 
 punishment, was sincere, need not be doubted;—nor that he long thought
 
-of Colonel Brandon with envy, and of Marianne with regret. But that he
+of [[Colonel Brandon]] with envy, and of Marianne with regret. But that he
 
 was for ever inconsolable, that he fled from society, or contracted an
 
@@ -25309,9 +25309,9 @@ habitual gloom of temper, or died of a broken heart, must not be
 
 depended on—for he did neither. He lived to exert, and frequently to
 
-enjoy himself. His wife was not always out of humour, nor his home
+enjoy himself. His wife was not always out of [[Humour|humour]], nor his [[Home|home]]
 
-always uncomfortable; and in his breed of horses and dogs, and in
+always uncomfortable; and in his breed of horses and [[dogs]], and in
 
 sporting of every kind, he found no inconsiderable degree of domestic
 
@@ -25325,7 +25325,7 @@ loss, he always retained that decided regard which interested him in
 
 every thing that befell her, and made her his secret standard of
 
-perfection in woman; and many a rising beauty would be slighted by him
+perfection in woman; and many a rising [[Beauty|beauty]] would be slighted by him
 
 in after-days as bearing no comparison with Mrs. Brandon.
 
@@ -25339,7 +25339,7 @@ Jennings, when Marianne was taken from them, Margaret had reached an
 
 age highly suitable for dancing, and not very ineligible for being
 
-supposed to have a lover.
+supposed to have a [[Lover|lover]].
 
 
 

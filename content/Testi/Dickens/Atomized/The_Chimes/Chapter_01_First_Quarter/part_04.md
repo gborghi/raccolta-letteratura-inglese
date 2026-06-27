@@ -18,7 +18,7 @@ Meg was in a perfect fright lest he should guess right too soon;
 shrinking away, as she held the basket towards him; curling up her pretty
 shoulders; stopping her ear with her hand, as if by so doing she could
 keep the right word out of Toby’s lips; and laughing softly the whole
-time.
+[[Time|time]].
 
 Meanwhile Toby, putting a hand on each knee, bent down his nose to the
 basket, and took a long inspiration at the lid; the grin upon his
@@ -86,31 +86,31 @@ standing looking at her—and had been speaking too—in an abstracted
 manner, which showed that though she was the object of his thoughts and
 eyes, to the exclusion even of tripe, he neither saw nor thought about
 her as she was at that moment, but had before him some imaginary rough
-sketch or drama of her future life.  Roused, now, by her cheerful
-summons, he shook off a melancholy shake of the head which was just
+[[Sketch|sketch]] or drama of her future life.  Roused, now, by her cheerful
+summons, he shook off a [[Melancholy|melancholy]] shake of the head which was just
 coming upon him, and trotted to her side.  As he was stooping to sit
 down, the Chimes rang.
 
 ‘Amen!’ said Trotty, pulling off his hat and looking up towards them.
 
-‘Amen to the Bells, father?’ cried Meg.
+‘Amen to [[The Bells|the Bells]], father?’ cried Meg.
 
 ‘They broke in like a grace, my dear,’ said Trotty, taking his seat.
 ‘They’d say a good one, I am sure, if they could.  Many’s the kind thing
 they say to me.’
 
-‘The Bells do, father!’ laughed Meg, as she set the basin, and a knife
-and fork, before him.  ‘Well!’
+‘[[The Bells]] do, father!’ laughed Meg, as she set the basin, and a knife
+and fork, before him.  ‘[[Well]]!’
 
 ‘Seem to, my Pet,’ said Trotty, falling to with great vigour.  ‘And
 where’s the difference?  If I hear ’em, what does it matter whether they
 speak it or not?  Why bless you, my dear,’ said Toby, pointing at the
 tower with his fork, and becoming more animated under the influence of
-dinner, ‘how often have I heard them bells say, “Toby Veck, Toby Veck,
+dinner, ‘how often have I heard them [[Bells|bells]] say, “Toby Veck, Toby Veck,
 keep a good heart, Toby!  Toby Veck, Toby Veck, keep a good heart, Toby!”
 A million times?  More!’
 
-‘Well, I never!’ cried Meg.
+‘[[Well]], I never!’ cried Meg.
 
 She had, though—over and over again.  For it was Toby’s constant topic.
 
@@ -128,7 +128,7 @@ the savoury meat before him, but cut and ate, and cut and drank, and cut
 and chewed, and dodged about, from tripe to hot potato, and from hot
 potato back again to tripe, with an unctuous and unflagging relish.  But
 happening now to look all round the street—in case anybody should be
-beckoning from any door or window, for a porter—his eyes, in coming back
+beckoning from any door or [[Window|window]], for a porter—his eyes, in coming back
 again, encountered Meg: sitting opposite to him, with her arms folded and
 only busy in watching his progress with a smile of happiness.
 
@@ -145,5 +145,5 @@ breaking your precious fast, nor wanting to, when—’
 to bits.  I have had my dinner.’
 
 ‘Nonsense,’ said Trotty.  ‘Two dinners in one day!  It an’t possible!
-You might as well tell me that two New Year’s Days will come together, or
+You might as [[Well|well]] tell me that two New Year’s Days will come together, or
 that I have had a gold head all my life, and never changed it.’

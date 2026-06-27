@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 8 (part 2)"
+title: "[[Villette]] — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,11 +15,11 @@ tags:
 
 
 But when Mrs. Sweeny knew that I was come to fill her shoes, then it
-was that she declared herself—then did she rise on Madame Beck in her
+was that she declared herself—then did she rise on [[Madame Beck]] in her
 full power—then come down on me with her concentrated weight. Madame
-bore this revelation and visitation so well, so stoically, that I for
+bore this revelation and visitation so [[Well|well]], so stoically, that I for
 very shame could not support it otherwise than with composure. For one
-little moment Madame Beck absented herself from the room; ten minutes
+little moment [[Madame Beck]] absented herself from the room; ten minutes
 after, an agent of the police stood in the midst of us. Mrs. Sweeny and
 her effects were removed. Madame’s brow had not been ruffled during the
 scene—her lips had not dropped one sharply-accented word.
@@ -30,13 +30,13 @@ breakfast: order to march given, policeman called, mutineer expelled;
 every trace of the accomplished Mrs. Sweeny—even to the fine essence
 and spiritual fragrance which gave token so subtle and so fatal of the
 head and front of her offending—was annihilated from the Rue Fossette:
-all this, I say, was done between the moment of Madame Beck’s issuing
+all this, I say, was done between the moment of [[Madame Beck]]’s issuing
 like Aurora from her chamber, and that in which she coolly sat down to
 pour out her first cup of coffee.
 
-About noon, I was summoned to dress Madame. (It appeared my place was
-to be a hybrid between gouvernante and lady’s-maid.) Till noon, she
-haunted the house in her wrapping-gown, shawl, and soundless slippers.
+About [[Noon|noon]], I was summoned to dress Madame. (It appeared my place was
+to be a hybrid between gouvernante and lady’s-maid.) Till [[Noon|noon]], she
+haunted the [[house]] in her wrapping-gown, shawl, and soundless slippers.
 How would the lady-chief of an English school approve this custom?
 
 The dressing of her hair puzzled me; she had plenty of it: auburn,
@@ -46,28 +46,28 @@ own country?” And taking the brush from my hand, and setting me aside,
 not ungently or disrespectfully, she arranged it herself. In performing
 other offices of the toilet, she half-directed, half-aided me, without
 the least display of temper or impatience. N.B.—That was the first and
-last time I was required to dress her. Henceforth, on Rosine, the
+last [[Time|time]] I was required to dress her. Henceforth, on Rosine, the
 portress, devolved that duty.
 
-When attired, Madame Beck appeared a personage of a figure rather short
+When attired, [[Madame Beck]] appeared a personage of a figure rather short
 and stout, yet still graceful in its own peculiar way; that is, with
 the grace resulting from proportion of parts. Her complexion was fresh
 and sanguine, not too rubicund; her eye, blue and serene; her dark silk
-dress fitted her as a French sempstress alone can make a dress fit; she
-looked well, though a little bourgeoise; as bourgeoise, indeed, she
+dress fitted her as a French sempstress [[Alone|alone]] can make a dress fit; she
+looked [[Well|well]], though a little bourgeoise; as bourgeoise, indeed, she
 was. I know not what of harmony pervaded her whole person; and yet her
 face offered contrast, too: its features were by no means such as are
 usually seen in conjunction with a complexion of such blended freshness
 and repose: their outline was stern: her forehead was high but narrow;
 it expressed capacity and some benevolence, but no expanse; nor did her
-peaceful yet watchful eye ever know the fire which is kindled in the
+peaceful yet watchful eye ever know the [[Fire|fire]] which is kindled in the
 heart or the softness which flows thence. Her mouth was hard: it could
 be a little grim; her lips were thin. For sensibility and genius, with
 all their tenderness and temerity, I felt somehow that Madame would be
 the right sort of Minos in petticoats.
 
 In the long run, I found she was something else in petticoats too. Her
-name was Modeste Maria Beck, née Kint: it ought to have been Ignacia.
+name was Modeste [[Maria]] Beck, née Kint: it ought to have been Ignacia.
 She was a charitable woman, and did a great deal of good. There never
 was a mistress whose rule was milder. I was told that she never once
 remonstrated with the intolerable Mrs. Sweeny, despite her tipsiness,
@@ -75,13 +75,13 @@ disorder, and general neglect; yet Mrs. Sweeny had to go the moment her
 departure became convenient. I was told, too, that neither masters nor
 teachers were found fault with in that establishment; yet both masters
 and teachers were often changed: they vanished and others filled their
-places, none could well explain how.
+places, none could [[Well|well]] explain how.
 
 The establishment was both a pensionnat and an externat: the externes
 or day-pupils exceeded one hundred in number; the boarders were about a
 score. Madame must have possessed high administrative powers: she ruled
 all these, together with four teachers, eight masters, six servants,
-and three children, managing at the same time to perfection the pupils’
+and three children, managing at the same [[Time|time]] to perfection the pupils’
 parents and friends; and that without apparent effort; without bustle,
 fatigue, fever, or any symptom of undue excitement: occupied she
 always was—busy, rarely. It is true that Madame had her own system for
@@ -100,7 +100,7 @@ Often in the evening, after she had been plotting and counter-plotting,
 spying and receiving the reports of spies all day, she would come up to
 my room—a trace of real weariness on her brow—and she would sit down
 and listen while the children said their little prayers to me in
-English: the Lord’s Prayer, and the hymn beginning “Gentle Jesus,”
+English: the Lord’s [[prayer|Prayer]], and the [[Hymn|hymn]] beginning “Gentle Jesus,”
 these little Catholics were permitted to repeat at my knee; and, when I
 had put them to bed, she would talk to me (I soon gained enough French
 to be able to understand, and even answer her) about England and
@@ -116,6 +116,6 @@ accustomed to restraint, that relaxation, however guarded, would be
 misunderstood and fatally presumed on. She was sick, she would declare,
 of the means she had to use, but use them she must; and after
 discoursing, often with dignity and delicacy, to me, she would move
-away on her “souliers de silence,” and glide ghost-like through the
-house, watching and spying everywhere, peering through every keyhole,
+away on her “souliers de [[Silence|silence]],” and glide [[Ghost|ghost]]-like through the
+[[house]], watching and spying everywhere, peering through every keyhole,
 listening behind every door.

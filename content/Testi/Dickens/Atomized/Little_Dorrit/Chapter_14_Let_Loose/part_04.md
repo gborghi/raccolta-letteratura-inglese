@@ -16,16 +16,16 @@ tags:
 
 ‘Oh, surely, surely!’ said the little man.
 
-‘Then you shall hear before I sleep--and in six words, for I want
-sleep--how I appear before you, I, Lagnier. Remember that. Not the
+‘Then you shall hear before I [[Sleep|sleep]]--and in six words, for I want
+[[Sleep|sleep]]--how I appear before you, I, Lagnier. Remember that. Not the
 other.’
 
 ‘Altro, altro! Not Ri----’ Before John Baptist could finish the name, his
 comrade had got his hand under his chin and fiercely shut up his mouth.
 
-‘Death! what are you doing? Do you want me to be trampled upon and
+‘[[Death]]! what are you doing? Do you want me to be trampled upon and
 stoned? Do _you_ want to be trampled upon and stoned? You would be. You
-don’t imagine that they would set upon me, and let my prison chum go?
+don’t imagine that they would set upon me, and let my [[Prison|prison]] chum go?
 Don’t think it!’
 
 There was an expression in his face as he released his grip of his
@@ -41,11 +41,11 @@ it is my character to govern. How has society respected those qualities
 in me? I have been shrieked at through the streets. I have been guarded
 through the streets against men, and especially women, running at me
 armed with any weapons they could lay their hands on. I have lain in
-prison for security, with the place of my confinement kept a secret,
+[[Prison|prison]] for security, with the place of my confinement kept a secret,
 lest I should be torn out of it and felled by a hundred blows. I have
-been carted out of Marseilles in the dead of night, and carried leagues
+been carted out of Marseilles in the dead of [[Night|night]], and carried leagues
 away from it packed in straw. It has not been safe for me to go near my
-house; and, with a beggar’s pittance in my pocket, I have walked through
+[[house]]; and, with a beggar’s pittance in my pocket, I have walked through
 vile mud and weather ever since, until my feet are crippled--look at
 them! Such are the humiliations that society has inflicted upon me,
 possessing the qualities I have mentioned, and which you know me to
@@ -61,14 +61,14 @@ to strike them dead! But the wrongs society has heaped upon me are
 treasured in this breast.’
 
 To all of which John Baptist, listening attentively to the suppressed
-hoarse voice, said from time to time, ‘Surely, surely!’ tossing his
+hoarse voice, said from [[Time|time]] to [[Time|time]], ‘Surely, surely!’ tossing his
 head and shutting his eyes, as if there were the clearest case against
 society that perfect candour could make out.
 
 ‘Put my shoes there,’ continued Lagnier. ‘Hang my cloak to dry there
 by the door. Take my hat.’ He obeyed each instruction, as it was given.
 ‘And this is the bed to which society consigns me, is it? Hah. _Very_
-well!’
+[[Well|well]]!’
 
 As he stretched out his length upon it, with a ragged handkerchief
 bound round his wicked head, and only his wicked head showing above the
@@ -78,29 +78,29 @@ it did, and the nose from any more coming down as it did.
 
 ‘Shaken out of destiny’s dice-box again into your company, eh? By
 Heaven! So much the better for you. You’ll profit by it. I shall need a
-long rest. Let me sleep in the morning.’
+long rest. Let me [[Sleep|sleep]] in the morning.’
 
-John Baptist replied that he should sleep as long as he would, and
-wishing him a happy night, put out the candle. One might have supposed
+John Baptist replied that he should [[Sleep|sleep]] as long as he would, and
+wishing him a happy [[Night|night]], put out the candle. One might have supposed
 that the next proceeding of the Italian would have been to undress;
 but he did exactly the reverse, and dressed himself from head to foot,
 saving his shoes. When he had so done, he lay down upon his bed with
 some of its coverings over him, and his coat still tied round his neck,
-to get through the night.
+to get through the [[Night|night]].
 
 When he started up, the Godfather Break of Day was peeping at its
-namesake. He rose, took his shoes in his hand, turned the key in the
+namesake. He [[Rose|rose]], took his shoes in his hand, turned the key in the
 door with great caution, and crept downstairs. Nothing was astir there
 but the smell of coffee, wine, tobacco, and syrups; and madame’s little
 counter looked ghastly enough. But he had paid madame his little note
-at it over night, and wanted to see nobody--wanted nothing but to get on
+at it over [[Night|night]], and wanted to see nobody--wanted nothing but to get on
 his shoes and his knapsack, open the door, and run away.
 
 He prospered in his object. No movement or voice was heard when he
 opened the door; no wicked head tied up in a ragged handkerchief looked
-out of the upper window. When the sun had raised his full disc above the
-flat line of the horizon, and was striking fire out of the long muddy
-vista of paved road with its weary avenue of little trees, a black speck
-moved along the road and splashed among the flaming pools of rain-water,
+out of the upper [[Window|window]]. When the sun had raised his full disc above the
+flat line of the horizon, and was striking [[Fire|fire]] out of the long muddy
+vista of paved [[Road|road]] with its weary avenue of little trees, a black speck
+moved along the [[Road|road]] and splashed among the flaming pools of rain-[[Water|water]],
 which black speck was John Baptist Cavalletto running away from his
 patron.

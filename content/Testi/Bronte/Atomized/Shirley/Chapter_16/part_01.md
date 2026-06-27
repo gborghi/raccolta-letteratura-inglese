@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 16 (part 1)"
+title: "[[Shirley]] — Chapter 16 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -38,11 +38,11 @@ poor. The neighbourhood seemed to grow calmer. For a fortnight past no
 
 cloth had been destroyed; no outrage on mill or mansion had been
 
-committed in the three parishes. Shirley was sanguine that the evil she
+committed in the three parishes. [[Shirley]] was sanguine that the evil she
 
-wished to avert was almost escaped, that the threatened storm was
+wished to avert was almost escaped, that the threatened [[Storm|storm]] was
 
-passing over. With the approach of summer she felt certain that trade
+passing over. With the approach of [[Summer|summer]] she felt certain that trade
 
 would improve--it always did; and then this weary war could not last for
 
@@ -64,9 +64,9 @@ least some additional remark. Smiling in his way, with that expression
 
 which gave a remarkable cast of sweetness to his mouth, while his brow
 
-remained grave, he would answer to the effect that himself too trusted
+remained [[Grave|grave]], he would answer to the effect that himself too trusted
 
-in the finite nature of the war; that it was indeed on that ground the
+in the finite [[Nature|nature]] of the war; that it was indeed on that ground the
 
 anchor of his hopes was fixed; thereon his speculations depended. "For
 
@@ -78,7 +78,7 @@ goods. I manufacture for a future day. I make myself ready to take
 
 advantage of the first opening that shall occur. Three months ago this
 
-was impossible to me; I had exhausted both credit and capital. You well
+was impossible to me; I had exhausted both credit and capital. You [[Well|well]]
 
 know who came to my rescue, from what hand I received the loan which
 
@@ -100,11 +100,11 @@ impulse to commerce. In this you are right; but as to the restored
 
 tranquillity of the neighbourhood, as to the permanent good effect of
 
-your charitable fund, I doubt. Eleemosynary relief never yet
+your charitable fund, I [[Doubt|doubt]]. Eleemosynary relief never yet
 
 tranquillized the working-classes--it never made them grateful; it is
 
-not in human nature that it should. I suppose, were all things ordered
+not in human [[Nature|nature]] that it should. I suppose, were all things ordered
 
 aright, they ought not to be in a position to need that humiliating
 
@@ -124,17 +124,17 @@ good state of discipline; no blow is struck without mature deliberation.
 
 In sultry weather you have seen the sky threaten thunder day by day, and
 
-yet night after night the clouds have cleared, and the sun has set
+yet [[Night|night]] after [[Night|night]] the clouds have cleared, and the sun has set
 
 quietly; but the danger was not gone--it was only delayed. The
 
-long-threatening storm is sure to break at last. There is analogy
+long-threatening [[Storm|storm]] is sure to break at last. There is analogy
 
 between the moral and physical atmosphere."
 
 
 
-"Well, Mr. Moore" (so these conferences always ended), "take care of
+"[[Well]], Mr. Moore" (so these conferences always ended), "take care of
 
 yourself. If you think that I have ever done you any good, reward me by
 
@@ -166,15 +166,15 @@ The maid came bustling in with the tea-things.
 
 The early part of that May, as we have seen, was fine; the middle was
 
-wet; but in the last week, at change of moon, it cleared again. A fresh
+wet; but in the last week, at change of [[Moon|moon]], it cleared again. A fresh
 
-wind swept off the silver-white, deep-piled rain-clouds, bearing them,
+[[Wind|wind]] swept off the silver-white, deep-piled rain-clouds, bearing them,
 
 mass on mass, to the eastern horizon, on whose verge they dwindled, and
 
 behind whose rim they disappeared, leaving the vault behind all pure
 
-blue space, ready for the reign of the summer sun. That sun rose broad
+blue space, ready for the reign of the [[Summer|summer]] sun. That sun [[Rose|rose]] broad
 
 on Whitsuntide. The gathering of the schools was signalized by splendid
 
@@ -188,9 +188,9 @@ schoolrooms of Briarfield, built by the present rector, chiefly at his
 
 own expense, were cleaned out, whitewashed, repainted, and decorated
 
-with flowers and evergreens--some from the rectory garden, two cartloads
+with [[Flowers|flowers]] and evergreens--some from the rectory [[Garden|garden]], two cartloads
 
-from Fieldhead, and a wheel-barrowful from the more stingy domain of De
+from Fieldhead, and a [[Wheel|wheel]]-barrowful from the more stingy domain of De
 
 Walden, the residence of Mr. Wynne. In these schoolrooms twenty tables,
 
@@ -202,7 +202,7 @@ at least some twenty cages, containing as many canaries, according to a
 
 fancy of the district, specially cherished by Mr. Helstone's clerk, who
 
-delighted in the piercing song of these birds, and knew that amidst
+delighted in the piercing [[Song|song]] of these [[Birds|birds]], and knew that amidst
 
 confusion of tongues they always carolled loudest. These tables, be it
 
@@ -212,7 +212,7 @@ assembled from the three parishes, but only for the patrons and teachers
 
 of the schools. The children's feast was to be spread in the open air.
 
-At one o'clock the troops were to come in; at two they were to be
+At one o'[[Clock|clock]] the troops were to come in; at two they were to be
 
 marshalled; till four they were to parade the parish; then came the
 

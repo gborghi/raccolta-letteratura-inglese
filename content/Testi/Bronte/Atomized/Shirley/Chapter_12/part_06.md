@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 12 (part 6)"
+title: "[[Shirley]] — Chapter 12 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,7 +32,7 @@ she very much wondered to see the gentle features light up archly to the
 
 reveille of a dry sally or two risked by herself; and more did she
 
-wonder to discover the self-won knowledge treasured, and the untaught
+[[Wonder|wonder]] to discover the [[Self|self]]-won knowledge treasured, and the untaught
 
 speculations working in that girlish, curl-veiled head. Caroline's
 
@@ -46,7 +46,7 @@ together over works of false sentimentality and pompous pretension.
 
 
 
-Few, Shirley conceived, men or women have the right taste in poetry, the
+Few, [[Shirley]] conceived, men or women have the right taste in poetry, the
 
 right sense for discriminating between what is real and what is false.
 
@@ -54,7 +54,7 @@ She had again and again heard very clever people pronounce this or that
 
 passage, in this or that versifier, altogether admirable, which, when
 
-she read, her soul refused to acknowledge as anything but cant,
+she read, her [[Soul|soul]] refused to acknowledge as anything but cant,
 
 flourish, and tinsel, or at the best elaborate wordiness, curious,
 
@@ -72,53 +72,53 @@ from the fresh-gathered lily of the field.
 
 Caroline, she found, felt the value of the true ore, and knew the
 
-deception of the flashy dross. The minds of the two girls being toned in
+[[Deception|deception]] of the flashy dross. The minds of the two girls being toned in
 
 harmony often chimed very sweetly together.
 
 
 
-One evening they chanced to be alone in the oak-parlour. They had passed
+One evening they chanced to be [[Alone|alone]] in the oak-parlour. They had passed
 
 a long wet day together without _ennui_. It was now on the edge of dark;
 
 candles were not yet brought in; both, as twilight deepened, grew
 
-meditative and silent. A western wind roared high round the hall,
+meditative and silent. A western [[Wind|wind]] roared high round the hall,
 
 driving wild clouds and stormy rain up from the far-remote ocean; all
 
-was tempest outside the antique lattices, all deep peace within. Shirley
+was tempest outside the antique lattices, all deep peace within. [[Shirley]]
 
-sat at the window, watching the rack in heaven, the mist on earth,
+sat at the [[Window|window]], watching the rack in heaven, the mist on earth,
 
 listening to certain notes of the gale that plained like restless
 
 spirits--notes which, had she not been so young, gay, and healthy, would
 
-have swept her trembling nerves like some omen, some anticipatory dirge.
+have swept her trembling nerves like some omen, some anticipatory [[Dirge|dirge]].
 
-In this her prime of existence and bloom of beauty they but subdued
+In this her prime of existence and bloom of [[Beauty|beauty]] they but subdued
 
 vivacity to pensiveness. Snatches of sweet ballads haunted her ear; now
 
 and then she sang a stanza. Her accents obeyed the fitful impulse of the
 
-wind; they swelled as its gusts rushed on, and died as they wandered
+[[Wind|wind]]; they swelled as its gusts rushed on, and died as they wandered
 
 away. Caroline, withdrawn to the farthest and darkest end of the room,
 
-her figure just discernible by the ruby shine of the flameless fire,
+her figure just discernible by the ruby shine of the flameless [[Fire|fire]],
 
-was pacing to and fro, muttering to herself fragments of well-remembered
+was pacing to and fro, muttering to herself fragments of [[Well|well]]-remembered
 
-poetry. She spoke very low, but Shirley heard her; and while singing
+poetry. She spoke very low, but [[Shirley]] heard her; and while singing
 
 softly, she listened. This was the strain:--
 
 
 
-    "Obscurest night involved the sky,
+    "Obscurest [[Night|night]] involved the sky,
 
        The Atlantic billows roared,
 
@@ -126,13 +126,13 @@ softly, she listened. This was the strain:--
 
        Washed headlong from on board,
 
-     Of friends, of hope, of all bereft,
+     Of friends, of [[Hope|hope]], of all bereft,
 
-     His floating home for ever left."
+     His floating [[Home|home]] for ever left."
 
 
 
-Here the fragment stopped, because Shirley's song, erewhile somewhat
+Here the [[Fragment|fragment]] stopped, because [[Shirley]]'s [[Song|song]], erewhile somewhat
 
 full and thrilling, had become delicately faint.
 
@@ -156,7 +156,7 @@ formidable auditor, Caroline went through it. She went through it as she
 
 should have gone through it. The wild sea, the drowning mariner, the
 
-reluctant ship swept on in the storm, you heard were realized by her;
+reluctant [[Ship|ship]] swept on in the [[Storm|storm]], you heard were realized by her;
 
 and more vividly was realized the heart of the poet, who did not weep
 
@@ -168,13 +168,13 @@ man-forsaken sailor, and cried from the depths where he struggled,--
 
 
 
-    "No voice divine the storm allayed,
+    "No voice divine the [[Storm|storm]] allayed,
 
        No light propitious shone,
 
      When, snatched from all effectual aid,
 
-       We perished--each alone!
+       We perished--each [[Alone|alone]]!
 
      But I beneath a rougher sea,
 
@@ -182,7 +182,7 @@ man-forsaken sailor, and cried from the depths where he struggled,--
 
 
 
-"I hope William Cowper is safe and calm in heaven now," said Caroline.
+"I [[Hope|hope]] William Cowper is safe and calm in heaven now," said Caroline.
 
 
 
@@ -190,7 +190,7 @@ man-forsaken sailor, and cried from the depths where he struggled,--
 
 
 
-"Pity him, Shirley? What can I do else? He was nearly broken-hearted
+"Pity him, [[Shirley]]? What can I do else? He was nearly broken-hearted
 
 when he wrote that poem, and it almost breaks one's heart to read it.
 
@@ -200,7 +200,7 @@ poetry--the most divine bestowed on man--was, I believe, granted to
 
 allay emotions when their strength threatens harm. It seems to me,
 
-Shirley, that nobody should write poetry to exhibit intellect or
+[[Shirley]], that nobody should write poetry to exhibit intellect or
 
 attainment. Who cares for that sort of poetry? Who cares for
 
@@ -214,18 +214,18 @@ feeling--real feeling--however simply, even rudely expressed?"
 
 poem, one discovers that Cowper was under an impulse strong as that of
 
-the wind which drove the ship--an impulse which, while it would not
+the [[Wind|wind]] which drove the [[Ship|ship]]--an impulse which, while it would not
 
 suffer him to stop to add ornament to a single stanza, filled him with
 
 force to achieve the whole with consummate perfection. You managed to
 
-recite it with a steady voice, Caroline. I wonder thereat."
+recite it with a steady voice, Caroline. I [[Wonder|wonder]] thereat."
 
 
 
 "Cowper's hand did not tremble in writing the lines. Why should my voice
 
-falter in repeating them? Depend on it, Shirley, no tear blistered the
+falter in repeating them? Depend on it, [[Shirley]], no tear blistered the
 
 manuscript of 'The Castaway.' I hear in it no sob of sorrow, only the

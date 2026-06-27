@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 43 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 43 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,13 +20,13 @@ his patient materially better. Her pulse was much stronger, and every
 
 symptom more favourable than on the preceding visit. Elinor, confirmed
 
-in every pleasant hope, was all cheerfulness; rejoicing that in her
+in every pleasant [[Hope|hope]], was all cheerfulness; rejoicing that in her
 
 letters to her mother, she had pursued her own judgment rather than her
 
 friend’s, in making very light of the indisposition which delayed them
 
-at Cleveland; and almost fixing on the time when Marianne would be able
+at Cleveland; and almost fixing on the [[Time|time]] when Marianne would be able
 
 to travel.
 
@@ -46,9 +46,9 @@ cordials prescribed, saw her, with satisfaction, sink at last into a
 
 slumber, from which she expected the most beneficial effects. Her
 
-sleep, though not so quiet as Elinor wished to see it, lasted a
+[[Sleep|sleep]], though not so quiet as Elinor wished to see it, lasted a
 
-considerable time; and anxious to observe the result of it herself, she
+considerable [[Time|time]]; and anxious to observe the result of it herself, she
 
 resolved to sit with her during the whole of it. Mrs. Jennings, knowing
 
@@ -56,7 +56,7 @@ nothing of any change in the patient, went unusually early to bed; her
 
 maid, who was one of the principal nurses, was recreating herself in
 
-the housekeeper’s room, and Elinor remained alone with Marianne.
+the housekeeper’s room, and Elinor remained [[Alone|alone]] with Marianne.
 
 
 
@@ -70,7 +70,7 @@ which passed her lips, was almost wishing to rouse her from so painful
 
 a slumber, when Marianne, suddenly awakened by some accidental noise in
 
-the house, started hastily up, and, with feverish wildness, cried out,—
+the [[house]], started hastily up, and, with feverish wildness, cried out,—
 
 
 
@@ -80,15 +80,15 @@ the house, started hastily up, and, with feverish wildness, cried out,—
 
 “Not yet,” cried the other, concealing her terror, and assisting
 
-Marianne to lie down again, “but she will be here, I hope, before it is
+Marianne to lie down again, “but she will be here, I [[Hope|hope]], before it is
 
 long. It is a great way, you know, from hence to Barton.”
 
 
 
-“But she must not go round by London,” cried Marianne, in the same
+“But she must not go round by [[London]],” cried Marianne, in the same
 
-hurried manner. “I shall never see her, if she goes by London.”
+hurried manner. “I shall never see her, if she goes by [[London]].”
 
 
 
@@ -102,7 +102,7 @@ alarm increased so rapidly, as to determine her on sending instantly
 
 for Mr. Harris, and despatching a messenger to Barton for her mother.
 
-To consult with Colonel Brandon on the best means of effecting the
+To consult with [[Colonel Brandon]] on the best means of effecting the
 
 latter, was a thought which immediately followed the resolution of its
 
@@ -114,9 +114,9 @@ was generally to be found at a much later hour than the present.
 
 
 
-It was no time for hesitation. Her fears and her difficulties were
+It was no [[Time|time]] for hesitation. Her fears and her difficulties were
 
-immediately before him. Her fears, he had no courage, no confidence to
+immediately before him. Her fears, he had no [[Courage|courage]], no confidence to
 
 attempt the removal of:—he listened to them in silent despondence;—but
 
@@ -136,13 +136,13 @@ directly, she wrote a few lines to her mother.
 
 
 
-The comfort of such a friend at that moment as Colonel Brandon—or such
+The comfort of such a friend at that moment as [[Colonel Brandon]]—or such
 
 a companion for her mother,—how gratefully was it felt!—a companion
 
 whose judgment would guide, whose attendance must relieve, and whose
 
-friendship might soothe her!—as far as the shock of such a summons
+[[Friendship|friendship]] might soothe her!—as far as the shock of such a summons
 
 _could_ be lessened to her, his presence, his manners, his assistance,
 
@@ -154,23 +154,23 @@ _He_, meanwhile, whatever he might feel, acted with all the firmness of
 
 a collected mind, made every necessary arrangement with the utmost
 
-despatch, and calculated with exactness the time in which she might
+despatch, and calculated with exactness the [[Time|time]] in which she might
 
 look for his return. Not a moment was lost in delay of any kind. The
 
-horses arrived, even before they were expected, and Colonel Brandon
+horses arrived, even before they were expected, and [[Colonel Brandon]]
 
 only pressing her hand with a look of solemnity, and a few words spoken
 
 too low to reach her ear, hurried into the carriage. It was then about
 
-twelve o’clock, and she returned to her sister’s apartment to wait for
+twelve o’[[Clock|clock]], and she returned to her sister’s apartment to wait for
 
 the arrival of the apothecary, and to watch by her the rest of the
 
-night. It was a night of almost equal suffering to both. Hour after
+[[Night|night]]. It was a [[Night|night]] of almost equal [[Suffering|suffering]] to both. Hour after
 
-hour passed away in sleepless pain and delirium on Marianne’s side, and
+hour passed away in sleepless [[Pain|pain]] and delirium on Marianne’s side, and
 
 in the most cruel anxiety on Elinor’s, before Mr. Harris appeared. Her
 
@@ -194,9 +194,9 @@ so many days of illness, and wretched for some immediate relief,
 
 fancied that all relief might soon be in vain, that every thing had
 
-been delayed too long, and pictured to herself her suffering mother
+been delayed too long, and pictured to herself her [[Suffering|suffering]] mother
 
-arriving too late to see this darling child, or to see her rational.
+arriving too late to see this darling [[Child|child]], or to see her rational.
 
 
 
@@ -204,7 +204,7 @@ She was on the point of sending again for Mr. Harris, or if _he_ could
 
 not come, for some other advice, when the former—but not till after
 
-five o’clock—arrived. His opinion, however, made some little amends for
+five o’[[Clock|clock]]—arrived. His opinion, however, made some little amends for
 
 his delay, for though acknowledging a very unexpected and unpleasant
 

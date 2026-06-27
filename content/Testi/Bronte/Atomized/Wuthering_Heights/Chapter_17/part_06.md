@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 17 (part 6)"
+title: "[[Wuthering Heights]] — Chapter 17 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -15,24 +15,24 @@ tags:
 
 
 I confess this blow was greater to me than the shock of Mrs. Linton’s
-death: ancient associations lingered round my heart; I sat down in the
-porch and wept as for a blood relation, desiring Mr. Kenneth to get
+[[Death|death]]: ancient associations lingered round my heart; I sat down in the
+porch and wept as for a [[Blood|blood]] relation, desiring Mr. Kenneth to get
 another servant to introduce him to the master. I could not hinder
 myself from pondering on the question—“Had he had fair play?” Whatever
 I did, that idea would bother me: it was so tiresomely pertinacious
-that I resolved on requesting leave to go to Wuthering Heights, and
+that I resolved on requesting leave to go to [[Wuthering Heights]], and
 assist in the last duties to the dead. Mr. Linton was extremely
 reluctant to consent, but I pleaded eloquently for the friendless
 condition in which he lay; and I said my old master and foster-brother
 had a claim on my services as strong as his own. Besides, I reminded
-him that the child Hareton was his wife’s nephew, and, in the absence
+him that the [[Child|child]] Hareton was his wife’s nephew, and, in the absence
 of nearer kin, he ought to act as its guardian; and he ought to and
 must inquire how the property was left, and look over the concerns of
 his brother-in-law. He was unfit for attending to such matters then,
 but he bid me speak to his lawyer; and at length permitted me to go.
 His lawyer had been Earnshaw’s also: I called at the village, and asked
-him to accompany me. He shook his head, and advised that Heathcliff
-should be let alone; affirming, if the truth were known, Hareton would
+him to accompany me. He shook his head, and advised that [[Heathcliff]]
+should be let [[Alone|alone]]; affirming, if the [[Truth|truth]] were known, Hareton would
 be found little else than a beggar.
 
 “His father died in debt,” he said; “the whole property is mortgaged,
@@ -42,16 +42,16 @@ inclined to deal leniently towards him.”
 
 When I reached the Heights, I explained that I had come to see
 everything carried on decently; and Joseph, who appeared in sufficient
-distress, expressed satisfaction at my presence. Mr. Heathcliff said he
+distress, expressed satisfaction at my presence. Mr. [[Heathcliff]] said he
 did not perceive that I was wanted; but I might stay and order the
 arrangements for the funeral, if I chose.
 
-“Correctly,” he remarked, “that fool’s body should be buried at the
-cross-roads, without ceremony of any kind. I happened to leave him ten
+“Correctly,” he remarked, “that [[Fool|fool]]’s [[Body|body]] should be buried at the
+[[Cross|cross]]-roads, without ceremony of any kind. I happened to leave him ten
 minutes yesterday afternoon, and in that interval he fastened the two
-doors of the house against me, and he has spent the night in drinking
-himself to death deliberately! We broke in this morning, for we heard
-him snorting like a horse; and there he was, laid over the settle:
+doors of the [[house]] against me, and he has spent the [[Night|night]] in drinking
+himself to [[Death|death]] deliberately! We broke in this morning, for we heard
+him snorting like a [[Horse|horse]]; and there he was, laid over the settle:
 flaying and scalping would not have wakened him. I sent for Kenneth,
 and he came; but not till the beast had changed into carrion: he was
 both dead and cold, and stark; and so you’ll allow it was useless
@@ -63,19 +63,19 @@ The old servant confirmed this statement, but muttered:
 maister better nor him—and he warn’t deead when I left, naught o’ t’
 soart!”
 
-I insisted on the funeral being respectable. Mr. Heathcliff said I
+I insisted on the funeral being respectable. Mr. [[Heathcliff]] said I
 might have my own way there too: only, he desired me to remember that
 the money for the whole affair came out of his pocket. He maintained a
 hard, careless deportment, indicative of neither joy nor sorrow: if
 anything, it expressed a flinty gratification at a piece of difficult
 work successfully executed. I observed once, indeed, something like
 exultation in his aspect: it was just when the people were bearing the
-coffin from the house. He had the hypocrisy to represent a mourner: and
-previous to following with Hareton, he lifted the unfortunate child on
+coffin from the [[house]]. He had the hypocrisy to represent a mourner: and
+previous to following with Hareton, he lifted the unfortunate [[Child|child]] on
 to the table and muttered, with peculiar gusto, “Now, my bonny lad, you
 are _mine_! And we’ll see if one tree won’t grow as crooked as another,
-with the same wind to twist it!” The unsuspecting thing was pleased at
-this speech: he played with Heathcliff’s whiskers, and stroked his
+with the same [[Wind|wind]] to twist it!” The unsuspecting thing was pleased at
+this speech: he played with [[Heathcliff]]’s whiskers, and stroked his
 cheek; but I divined its meaning, and observed tartly, “That boy must
 go back with me to Thrushcross Grange, sir. There is nothing in the
 world less yours than he is!”
@@ -84,24 +84,24 @@ world less yours than he is!”
 
 “Of course—he has ordered me to take him,” I replied.
 
-“Well,” said the scoundrel, “we’ll not argue the subject now: but I
+“[[Well]],” said the scoundrel, “we’ll not argue the subject now: but I
 have a fancy to try my hand at rearing a young one; so intimate to your
 master that I must supply the place of this with my own, if he attempt
 to remove it. I don’t engage to let Hareton go undisputed; but I’ll be
 pretty sure to make the other come! Remember to tell him.”
 
 This hint was enough to bind our hands. I repeated its substance on my
-return; and Edgar Linton, little interested at the commencement, spoke
+return; and [[Edgar Linton]], little interested at the commencement, spoke
 no more of interfering. I’m not aware that he could have done it to any
 purpose, had he been ever so willing.
 
-The guest was now the master of Wuthering Heights: he held firm
+The guest was now the master of [[Wuthering Heights]]: he held firm
 possession, and proved to the attorney—who, in his turn, proved it to
 Mr. Linton—that Earnshaw had mortgaged every yard of land he owned for
-cash to supply his mania for gaming; and he, Heathcliff, was the
+cash to supply his mania for gaming; and he, [[Heathcliff]], was the
 mortgagee. In that manner Hareton, who should now be the first
 gentleman in the neighbourhood, was reduced to a state of complete
-dependence on his father’s inveterate enemy; and lives in his own house
+dependence on his father’s inveterate enemy; and lives in his own [[house]]
 as a servant, deprived of the advantage of wages: quite unable to right
 himself, because of his friendlessness, and his ignorance that he has
 been wronged.

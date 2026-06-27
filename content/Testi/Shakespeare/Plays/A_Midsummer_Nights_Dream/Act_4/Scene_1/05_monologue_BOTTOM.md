@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act IV, Scene 1 — monologue (BOTTOM) [5]"
+title: "A Midsummer Nights Dream — Act IV, Scene 1 — monologue ([[Bottom|BOTTOM]]) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| BOTTOM | When my cue comes, call me, and I will answer. My next is ‘most fair Pyramus’. Heigh-ho. Peter Quince? Flute the bellows-mender? Snout the tinker? Starveling? God’s my life! Stolen hence, and left me asleep?—I have had a most rare vision. I have had a dream past the wit of man to say what dream it was. Man is but an ass if he go about t‘expound this dream. Methought I was—there is no man can tell what. Methought I was, and methought I had—but man is but a patched fool if he will offer to say what methought I had. The eye of man hath not heard, the ear of man hath not seen, man’s hand is not able to taste, his tongue to conceive, nor his heart to report what my dream was. I will get Peter Quince to write a ballad of this dream. It shall be called ‘Bottom’s Dream’, because it hath no bottom, and I will sing it in the latter end of a play, before the Duke. Peradventure, to make it the more gracious, I shall sing it at her death. Exit |
+| [[Bottom|BOTTOM]] | When my cue comes, call me, and I will answer. My next is ‘most fair Pyramus’. Heigh-ho. Peter Quince? Flute the bellows-mender? Snout the tinker? Starveling? God’s my life! Stolen hence, and left me asleep?—I have had a most rare vision. I have had [[A Dream|a dream]] past the wit of man to say what dream it was. Man is but an ass if he go about t‘expound this dream. Methought I was—there is no man can tell what. Methought I was, and methought I had—but man is but a patched [[Fool|fool]] if he will offer to say what methought I had. The eye of man hath not heard, the ear of man hath not seen, man’s hand is not able to taste, his tongue to conceive, nor his heart to report what my dream was. I will get Peter Quince to write a ballad of this dream. It shall be called ‘[[Bottom]]’s Dream’, because it hath no [[Bottom|bottom]], and I will sing it in the latter end of a play, before the Duke. Peradventure, to make it the more gracious, I shall sing it at her [[Death|death]]. Exit |

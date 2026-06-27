@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 15 (part 3)"
+title: "[[Persuasion]] — Chapter 15 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -52,7 +52,7 @@ equally good.
 
 He sat down with them, and improved their conversation very much. There
 
-could be no doubt of his being a sensible man. Ten minutes were enough
+could be no [[Doubt|doubt]] of his being a sensible man. Ten minutes were enough
 
 to certify that. His tone, his expressions, his choice of subject, his
 
@@ -64,7 +64,7 @@ wanting to compare opinions respecting the place, but especially
 
 wanting to speak of the circumstance of their happening to be guests in
 
-the same inn at the same time; to give his own route, understand
+the same inn at the same [[Time|time]]; to give his own route, understand
 
 something of hers, and regret that he should have lost such an
 
@@ -78,11 +78,11 @@ had heard voices, mirth continually; thought they must be a most
 
 delightful set of people, longed to be with them, but certainly without
 
-the smallest suspicion of his possessing the shadow of a right to
+the smallest suspicion of his possessing the [[Shadow|shadow]] of a right to
 
 introduce himself. If he had but asked who the party were! The name of
 
-Musgrove would have told him enough. “Well, it would serve to cure him
+Musgrove would have told him enough. “[[Well]], it would serve to cure him
 
 of an absurd practice of never asking a question at an inn, which he
 
@@ -104,7 +104,7 @@ folly of what they have in view.”
 
 
 
-But he must not be addressing his reflections to Anne alone: he knew
+But he must not be addressing his reflections to Anne [[Alone|alone]]: he knew
 
 it; he was soon diffused again among the others, and it was only at
 
@@ -122,7 +122,7 @@ Sir Walter and Elizabeth began to question also, but the difference in
 
 their manner of doing it could not be unfelt. She could only compare Mr
 
-Elliot to Lady Russell, in the wish of really comprehending what had
+Elliot to [[Lady Russell]], in the wish of really comprehending what had
 
 passed, and in the degree of concern for what she must have suffered in
 
@@ -130,7 +130,7 @@ witnessing it.
 
 
 
-He staid an hour with them. The elegant little clock on the
+He staid an hour with them. The elegant little [[Clock|clock]] on the
 
 mantel-piece had struck “eleven with its silver sounds,” and the
 
@@ -144,4 +144,4 @@ long.
 
 Anne could not have supposed it possible that her first evening in
 
-Camden Place could have passed so well!
+Camden Place could have passed so [[Well|well]]!

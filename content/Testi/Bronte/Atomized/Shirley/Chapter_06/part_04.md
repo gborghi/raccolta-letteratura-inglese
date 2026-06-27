@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 6 (part 4)"
+title: "[[Shirley]] — Chapter 6 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-time he would get four soldiers from Stilbro' barracks to guard the
+[[Time|time]] he would get four soldiers from Stilbro' barracks to guard the
 
 wagon."
 
@@ -60,7 +60,7 @@ The kitchen door opened; Mr. Moore entered, very wet and cold. Caroline
 
 half turned from her dressmaking occupation, but renewed it for a
 
-moment, as if to gain a minute's time for some purpose. Bent over the
+moment, as if to gain a minute's [[Time|time]] for some purpose. Bent over the
 
 dress, her face was hidden; there was an attempt to settle her features
 
@@ -90,7 +90,7 @@ ourselves in some measure."
 
 "I am not wet through: my riding-coat is waterproof. Dry shoes are all I
 
-require. There--the fire is pleasant after facing the cold wind and rain
+require. There--the [[Fire|fire]] is pleasant after facing the cold [[Wind|wind]] and rain
 
 for a few miles."
 
@@ -118,11 +118,11 @@ and left a kiss on her forehead.
 
 when I thought you would not come. I am almost too happy now. Are you
 
-happy, Robert? Do you like to come home?"
+happy, Robert? Do you like to come [[Home|home]]?"
 
 
 
-"I think I do--to-night, at least."
+"I think I do--to-[[Night|night]], at least."
 
 
 
@@ -166,13 +166,13 @@ great; you _shall_ be great."
 
 
 
-"I wonder now, if you spoke honestly out of your heart, what recipe you
+"I [[Wonder|wonder]] now, if you spoke honestly out of your heart, what recipe you
 
-would give me for acquiring this same greatness; but I know it--better
+would give me for acquiring this same [[Greatness|greatness]]; but I know it--better
 
 than you know it yourself. Would it be efficacious? Would it work?
 
-Yes--poverty, misery, bankruptcy. Oh, life is not what you think it,
+Yes--[[Poverty|poverty]], misery, bankruptcy. Oh, life is not what you think it,
 
 Lina!"
 
@@ -302,15 +302,15 @@ then to make you better satisfied with yourself."
 
 The answer was cut short by Sarah and her mistress entering the kitchen
 
-together in some commotion. They had been improving the time which Mr.
+together in some commotion. They had been improving the [[Time|time]] which Mr.
 
 Moore and Miss Helstone had spent in dialogue by a short dispute on the
 
 subject of "café au lait," which Sarah said was the queerest mess she
 
-ever saw, and a waste of God's good gifts, as it was "the nature of
+ever saw, and a waste of God's good gifts, as it was "the [[Nature|nature]] of
 
-coffee to be boiled in water," and which mademoiselle affirmed to be "un
+coffee to be boiled in [[Water|water]]," and which mademoiselle affirmed to be "un
 
 breuvage royal," a thousand times too good for the mean person who
 
@@ -320,7 +320,7 @@ objected to it.
 
 The former occupants of the kitchen now withdrew into the parlour.
 
-Before Hortense followed them thither, Caroline had only time again to
+Before Hortense followed them thither, Caroline had only [[Time|time]] again to
 
 question, "Not my enemy, Robert?" And Moore, Quaker-like, had replied
 

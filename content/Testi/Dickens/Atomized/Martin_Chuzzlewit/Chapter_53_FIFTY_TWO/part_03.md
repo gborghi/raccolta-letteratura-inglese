@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 53: FIFTY TWO (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 53: FIFTY TWO (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -30,7 +30,7 @@ stock.
 
 Not the least curious feature in this assemblage was, that everybody
 present was so much surprised and embarrassed by the sight of everybody
-else, that nobody ventured to speak. Mr Chuzzlewit alone broke silence.
+else, that nobody ventured to speak. Mr Chuzzlewit [[Alone|alone]] broke [[Silence|silence]].
 
 ‘Set the door open, Mark!’ he said; ‘and come here.’
 
@@ -47,9 +47,9 @@ then with open arms came darting in.
 Old Martin merely looked at him; but Mr Pecksniff started back as if he
 had received the charge from an electric battery.
 
-‘My venerable friend is well?’ cried Mr Pecksniff.
+‘My venerable friend is [[Well|well]]?’ cried Mr Pecksniff.
 
-‘Quite well.’
+‘Quite [[Well|well]].’
 
 It seemed to reassure the anxious inquirer. He clasped his hands and,
 looking upwards with a pious joy, silently expressed his gratitude.
@@ -65,7 +65,7 @@ you now, vermin and swarmers (I regret to make use of these strong
 expressions, my dear sir, but there are times when honest indignation
 will not be controlled), must you now, vermin and swarmers (for I WILL
 repeat it), take advantage of his unprotected state, assemble round
-him from all quarters, as wolves and vultures, and other animals of
+him from all quarters, as wolves and vultures, and other [[Animals|animals]] of
 the feathered tribe assemble round--I will not say round carrion or a
 carcass, for Mr Chuzzlewit is quite the contrary--but round their prey;
 their prey; to rifle and despoil; gorging their voracious maws, and
@@ -79,11 +79,11 @@ manner, with his hand.
 leave him, I say! Begone! Abscond! You had better be off! Wander over
 the face of the earth, young sirs, like vagabonds as you are, and do not
 presume to remain in a spot which is hallowed by the grey hairs of the
-patriarchal gentleman to whose tottering limbs I have the honour to act
-as an unworthy, but I hope an unassuming, prop and staff. And you, my
+patriarchal gentleman to whose tottering limbs I have the [[Honour|honour]] to act
+as an unworthy, but I [[Hope|hope]] an unassuming, prop and staff. And you, my
 tender sir,’ said Mr Pecksniff, addressing himself in a tone of gentle
 remonstrance to the old man, ‘how could you ever leave me, though even
-for this short period! You have absented yourself, I do not doubt, upon
+for this short period! You have absented yourself, I do not [[Doubt|doubt]], upon
 some act of kindness to me; bless you for it; but you must not do it;
 you must not be so venturesome. I should really be angry with you if I
 could, my friend!’
@@ -92,15 +92,15 @@ He advanced with outstretched arms to take the old man’s hand. But he
 had not seen how the hand clasped and clutched the stick within its
 grasp. As he came smiling on, and got within his reach, old Martin, with
 his burning indignation crowded into one vehement burst, and flashing
-out of every line and wrinkle in his face, rose up, and struck him down
+out of every line and wrinkle in his face, [[Rose|rose]] up, and struck him down
 upon the ground.
 
-With such a well-directed nervous blow, that down he went, as heavily
+With such a [[Well|well]]-directed nervous blow, that down he went, as heavily
 and true as if the charge of a Life-Guardsman had tumbled him out of a
 saddle. And whether he was stunned by the shock, or only confused by the
-wonder and novelty of this warm reception, he did not offer to get up
+[[Wonder|wonder]] and novelty of this warm reception, he did not offer to get up
 again; but lay there, looking about him with a disconcerted meekness
-in his face so enormously ridiculous, that neither Mark Tapley nor John
+in his face so enormously ridiculous, that neither [[Mark Tapley]] nor John
 Westlock could repress a smile, though both were actively interposing to
 prevent a repetition of the blow; which the old man’s gleaming eyes and
 vigorous attitude seemed to render one of the most probable events in

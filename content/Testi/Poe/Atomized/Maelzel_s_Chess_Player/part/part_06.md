@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 6)"
+title: "[[Maelzel's Chess-Player]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -26,7 +26,7 @@ tags:
 
       effected, and afterwards describe, as briefly as possible, the
 
-      nature of the _observations _from which we have deduced our
+      [[Nature|nature]] of the _observations _from which we have deduced our
 
       result.
 
@@ -66,11 +66,11 @@ tags:
 
 
 
-      Now, let us suppose that when the machine is first rolled into
+      Now, let us suppose that when the [[Machine|machine]] is first rolled into
 
       the presence of the spectators, a man is already within it. His
 
-      body is situated behind the dense machinery in cupboard No. T.
+      [[Body|body]] is situated behind the dense machinery in cupboard No. T.
 
       (the rear portion of which machinery is so contrived as to slip
 
@@ -88,13 +88,13 @@ tags:
 
       cupboard No. I, is opened. A bright light then pervades the
 
-      cupboard, and the body of the man would be discovered if it were
+      cupboard, and the [[Body|body]] of the man would be discovered if it were
 
       there. But it is not. The putting the key in the lock of the back
 
       door was a signal on hearing which the person concealed brought
 
-      his body forward to an angle as acute as possible—throwing it
+      his [[Body|body]] forward to an angle as acute as possible—throwing it
 
       altogether, or nearly so, into the main compartment. This,
 
@@ -102,7 +102,7 @@ tags:
 
       Accordingly we find that Maelzel _closes the back door. _This
 
-      being done, there is no reason why the body of the man may not
+      being done, there is no reason why the [[Body|body]] of the man may not
 
       resume its former situation—for the cupboard is again so dark as
 
@@ -112,7 +112,7 @@ tags:
 
       occupied. {*4} There is, consequently, now no longer any part of
 
-      the man in the main compartment—his body being behind the
+      the man in the main compartment—his [[Body|body]] being behind the
 
       machinery in cupboard No. 1, and his legs in the space occupied
 
@@ -126,13 +126,13 @@ tags:
 
       view—and exposed too, all portions of it at one and the same
 
-      time. But of course this is not the case. They neither see the
+      [[Time|time]]. But of course this is not the case. They neither see the
 
       space behind the drawer, nor the interior of cupboard No. 1—the
 
       front door of which latter the exhibiter virtually shuts in
 
-      shutting its back door. Maelzel, having now rolled the machine
+      shutting its back door. Maelzel, having now rolled the [[Machine|machine]]
 
       around, lifted up the drapery of the Turk, opened the doors in
 
@@ -142,7 +142,7 @@ tags:
 
       doors. The man within is now at liberty to move about. He gets up
 
-      into the body of the Turk just so high as to bring his eyes above
+      into the [[Body|body]] of the Turk just so high as to bring his eyes above
 
       the level of the chess-board. It is very probable that he seats
 
@@ -164,7 +164,7 @@ tags:
 
       right arm brought across the breast. The motions of the head and
 
-      eyes, and of the right arm of the figure, as well as the sound
+      eyes, and of the right arm of the figure, as [[Well|well]] as the sound
 
       _echec _are produced by other mechanism in the interior, and
 
@@ -172,7 +172,7 @@ tags:
 
       mechanism—that is to say all the mechanism essential to the
 
-      machine—is most probably contained within the little cupboard (of
+      [[Machine|machine]]—is most probably contained within the little cupboard (of
 
       about six inches in breadth) partitioned off at the right (the
 

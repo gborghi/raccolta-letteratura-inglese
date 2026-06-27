@@ -19,11 +19,11 @@ CHAPTER V
 THE AMATEUR HISTORIAN
 
 There is a joke with which we are all familiar, about the rustic
-who relates some local legend, as of a hero who hurled a huge rock
-into a river, and who says that it must be true because the rock
+who relates some local legend, as of a [[Hero|hero]] who hurled a huge rock
+into a [[River|river]], and who says that it must be true because the rock
 is till there.  As is commonly the case in the small talk of a
-scientific age, the satire is directed against popular ideas.
-As is also commonly the case in such an age, the satire is really
+scientific age, the [[Satire|satire]] is directed against popular ideas.
+As is also commonly the case in such an age, the [[Satire|satire]] is really
 very shallow.  When the critics mock a man for saying `I believe it
 because I have seen the rock,' nine-tenths of them could not give
 any sort of reason for their own historic beliefs, beyond saying,
@@ -38,17 +38,17 @@ and to that limited extent consistency is corroboration.
 It is far more superstitious to assume that print is proof.
 So far as print is concerned, the whole of history might be as
 utterly imaginationary as that mazy river and that dancing rock
-in the dizzy pipe-dream of `Kubla Khan'.
+in the dizzy pipe-dream of `[[Kubla Khan]]'.
 
 But there are others whose state of mind is still more extraordinary.
-They not only do not need the landscape to corroborate their history,
-but they do not care if the landscape contradicts their history.
+They not only do not need the landscape to corroborate their [[history]],
+but they do not care if the landscape contradicts their [[history]].
 They are not content with the very reasonable statement that the
-existence of the rock does not prove the existence of the hero.
-They are so anxious to show that there was no hero, that they
+existence of the rock does not prove the existence of the [[Hero|hero]].
+They are so anxious to show that there was no [[Hero|hero]], that they
 will shut their eyes and say there is no rock.  If the map marks
-the place as a waterless desert, they will declare it is as dry
-as a bone, though the whole valley resound with the rushing river.
+the place as a waterless [[Desert|desert]], they will declare it is as dry
+as a bone, though the whole valley resound with the rushing [[River|river]].
 The whole huge rock will be invisible, if a little book on geology says
 it is impossible.  This is at the opposite extreme to the irrational
 credulity of the rustic, but it is infinitely more irrational.
@@ -66,7 +66,7 @@ One man, however, happened to look up from the book and see things
 for himself; he was a man of too impatient a temper, and later he showed
 too hasty a disposition to tear the book up, or toss the book away.
 But there had been granted to him a strange and high and heroic sort
-of faith.  He could believe his eyes.
+of [[Faith|faith]].  He could believe his eyes.
 
 William Cobbett was pre-eminently a man with eyes in his head.
 He had of course other human attributes; such as a tongue in
@@ -80,7 +80,7 @@ of his eyes.  It is as if, after all passions had chased
 each other like shadows across his face, we saw his face at
 last in repose and realised that he had the eyes of a sailor;
 the eyes that can see a dot or speck on the distant horizon.
-But he could see dots and specks in the foreground as well.
+But he could see dots and specks in the foreground as [[Well|well]].
 He could focus his sight at many different ranges;
 an organic power which is the point of what Carlyle said
 of somebody else that he had eyes and not merely spectacles.
@@ -88,31 +88,31 @@ Because his eyes were sharp they were clear; because his
 sight was exact it was even subtle.  At its best it could
 really measure things, and even the degrees of things.
 It could place anything from the face of a stranger to
-the strength of a horse; from the shade of ripeness in a
+the strength of a [[Horse|horse]]; from the shade of ripeness in a
 cornfield to the shade of rottenness in a Cabinet Minister.
 The ultimate impression of his personality is not so much
 of violence as of vigilance.  So strong is this impression,
 that any one who has been long in his literary company
-cannot shake off an uncanny impression of being watched.
+cannot shake off an [[Uncanny|uncanny]] impression of being watched.
 He cannot help fancying that this man who has been dead a hundred
 years has his eye on events in England and may suddenly speak--
 probably not in an amiable manner.  It is as if, in some
-elfin tale, those strange eyes in one man's head were stars
+elfin tale, those strange eyes in one man's head were [[Stars|stars]]
 that could survive him.
 
 But there is one particular form of this faculty in Cobbett
 which is not so sharply apprehended; and perhaps is not so easy
 to apprehend.  For in this sense it is a faculty which few people,
 if any people fully possess in the urban population of to day.
-It is destroyed rather than helped by the urban education of to day.
-Cobbett was very far from being an enemy of education.
+It is destroyed rather than helped by the urban [[Education|education]] of to day.
+Cobbett was very far from being an enemy of [[Education|education]].
 He was, as has been said elsewhere, a great educationist.
 He published French and English grammars of his own composition,
 and exhorted all young people to learn.  Here and there
 he even showed a touch of that too crude and earnest respect
-for education which so often marks the self educated man.
+for [[Education|education]] which so often marks the [[Self|self]] educated man.
 But for all that, he had a native power or piece of good
-fortune which education never gives and sometimes destroys.
+fortune which [[Education|education]] never gives and sometimes destroys.
 In one thing he was a very lucky and lonely mortal.
 
 He could see before he could read.  Most modern people
@@ -121,29 +121,29 @@ hundred things long before they have seen one of them.
 Most town children have read about corn or cattle as if they
 were dwarfs or dragons, long before they have seen a grain of
 wheat or a cow.  Many of them have read about ships or churches,
-or the marching of soldiers or the crowd cheering a king,
+or the marching of soldiers or the crowd cheering a [[King|king]],
 or any other normal sight, which they have never seen.
-By a weird mesmerism which it is not here necessary to analyse,
-what people read has a sort of magic power over their sight.
+By a weird [[Mesmerism|mesmerism]] which it is not here necessary to analyse,
+what people read has a sort of [[Magic|magic]] power over their sight.
 It lays a spell on their eyes, so that they see what they
 expect to see.  They do not see the most solid and
 striking things that contradict what they expect to see.
-They believe their schoolmasters too well to believe
+They believe their schoolmasters too [[Well|well]] to believe
 their eyes.  They trust the map against the mountain.
-Cobbett was a man without these magic spectacles.
+Cobbett was a man without these [[Magic|magic]] spectacles.
 He did not see what he expected to see, but what he saw.
 He liked books; but he could not only read between the lines
 but through the book.
 
-Now, in nothing is this more vivid than in his vision of history.
-Most of us know what was the accepted general version of English history
+Now, in nothing is this more vivid than in his vision of [[history]].
+Most of us know what was the accepted general version of English [[history]]
 when we were at school; at anyrate when I was at school, and still more,
 of course, when Cobbett was at school-in so far as he ever was at school.
 England had emerged out of a savage past to be the greatest empire
 in the world, with the best-balanced constitution in the world,
-by a wise and well-timed progress or series of reforms, that ever
+by a wise and [[Well|well]]-timed progress or series of reforms, that ever
 kept in mind the need of constitutionalism and of balance.
-The Barons had extorted a constitutional charter from the King, in advance
+The Barons had extorted a constitutional charter from the [[King]], in advance
 of that feudal `age' and a foundation for parliamentary freedom.
 The Commons came into the struggle for parliamentary freedom when it
 was waged against the Stuarts.  By that time the Revival of Learning
@@ -544,9 +544,9 @@ and records it equally correctly.  It is accurate to say,
 Papist conspiracy; but his statements, which led to the execution
 of many Papists, were subsequently found to be fictitious.'
 But it is every bit as accurate to say, `The liar and perjurer Oates
-cruelly swore away the lives of innocent Catholics, blasphemously calling
+cruelly swore away the lives of [[Innocent|innocent]] Catholics, blasphemously calling
 on God to witness to his murderous lie.'  The violent man is telling
-the truth quite as logically and precisely as the more dignified man.
+the [[Truth|truth]] quite as logically and precisely as the more dignified man.
 It is a question of what we consider superiority of literary form;
 not of any sort of superiority in historical fact.  And this was
 substantially the chief difference between Cobbett and Lingard;
@@ -555,19 +555,19 @@ not to mention all the modern scholars who are pupils of Lingard.
 Cobbett stated all his facts in one prolonged and almost
 monotonous fury.  But if he was wrong, he was wrong in his fury,
 not especially in his facts.  There are many mistakes in his
-History of the Reformation, as there are in most histories;
+[[history|History]] of the [[Reformation]], as there are in most histories;
 though most people did not even know what they were until they
 were carefully discovered and tabulated by Cardinal Gasquet.
-I doubt if there are so many of them as could be found by so good
+I [[Doubt|doubt]] if there are so many of them as could be found by so good
 a scholar in all the more cautious and constitutional historians.
 Cobbett did not begin with whole masses of obvious myth
-and romance, like those which Macaulay criticised in Hume.
+and [[Romance|romance]], like those which Macaulay criticised in Hume.
 He did not depend on the expurgated extravagances of manifestly
 mad sectarians, like those which Aytoun criticised in Macaulay.
-The truth is that the general impression that Cobbett wrote a wild
-romance is really only a general impression.  It does not rest,
+The [[Truth|truth]] is that the general impression that Cobbett wrote a wild
+[[Romance|romance]] is really only a general impression.  It does not rest,
 and it never did rest, on the discovery of the particular points
-in which he was wrong.  The impression was one of paradox;
+in which he was wrong.  The impression was one of [[Paradox|paradox]];
 the mere fact that he seemed to be calling black white,
 when he declared that what was white had been blackened,
 or that what seemed to be white had only been whitewashed.
@@ -575,19 +575,19 @@ But the shock came from the moral comment or application rather
 than from the definite details.  For the definite details
 even then, very often, were not in dispute.  For instance,
 it is supremely characteristic of Cobbett that he reversed
-the common titles by talking of Bloody Bess and Good Queen Mary.
+the common titles by talking of Bloody Bess and Good [[Queen]] Mary.
 He could always find a popular phrase for an unpopular opinion.
 For he was always speaking to the mob, even when he was defying it.
 But this is an excellent example; for it is not shaken by any
 particular controversy about facts.  Everybody knew even then
-that Queen Elizabeth was bloody, if pursuing people with
+that [[Queen Elizabeth]] was bloody, if pursuing people with
 execution and persecution and torture makes a person bloody;
 and that was the only reason for saying it of Mary.
 Everybody knew even then that Mary was good, if certain real
 virtues and responsibilities make a person good; a great deal
 more indubitably good than Elizabeth.  It was the too obvious
 and biased motive of the inversion that irritated people.
-It was not really Cobbett's history that was in controversy;
+It was not really Cobbett's [[history]] that was in controversy;
 it was his controversialism.  It was not his facts that
 were challenged; it was his challenge.
 
@@ -603,7 +603,7 @@ He knew now that England had been secretly slain.  Some, he would say,
 might think it a matter of mild regret to be expressed in murmurs.
 But when he found a corpse he gave a shout; and if fools laughed
 at anyone shouting, he would shout the more, till the world
-should be shaken with that terrible cry in the night.
+should be shaken with that terrible cry in the [[Night|night]].
 
 It is that ringing and arresting cry of `Murder!' wrung from
 him as he stumbled over those bones of the dead England,
@@ -681,7 +681,7 @@ But Cobbett was not sentimental about Mary Tudor; he did solidly
 believe that with her the good times went; and he did really
 want them to return.
 
-Anyhow, when he revised history the revision really was a revelation.
+Anyhow, when he revised [[history]] the revision really was a revelation.
 The revision may be revised, but it will not be reversed.  The revelation
 may reveal itself further, but it will never hide itself again.
 Cobbett let the cat out of the bag; and this is nonetheless true
@@ -693,20 +693,20 @@ have followed up and matched and balanced with other facts, a fact
 which others have restated more mildly or analysed more delicately,
 but still the original fact which he furiously asserted and his foes
 furiously denied.  In so far as modern histories do really differ
-from the History of the Reformation, it is mostly because we have come
+from the [[history|History]] of the [[Reformation]], it is mostly because we have come
 to repeat with decorum what even he only dared to hurl with defiance.
 Ruskin and William Morris and many more pursued his path through
 that living labyrinth that had once been regarded as the dead shell
 of a village church.  Maitland and Gasquet and many others justified
 by laborious study and annotation his wild but shrewd guesses
-about the greatness of medieval sociology.  It.  was easy for them
+about the [[Greatness|greatness]] of medieval sociology.  It.  was easy for them
 to state the medieval argument more mildly; simply because the modern
 audience had become more mild.  But Cobbett's discovery can
 never be undiscovered; that is, it can never be covered up again.
 And that for the reason stated at the starting-point of this chapter.
 
-A city that is set on a, hill cannot be hid; a church set
-high above a city is even more hard to hide, when once it
+A [[City|city]] that is set on a, [[Hill|hill]] cannot be hid; a church set
+high above a [[City|city]] is even more hard to hide, when once it
 has been discovered.  You cannot undiscover the elephant.
 That is why it is essential in this chapter to insist on the size
 and simplicity of the neglected thing, and the plain picture
@@ -714,27 +714,27 @@ of the Surrey farmer standing staring at the village spire.
 Since Cobbett's historical conceptions have increasingly prevailed,
 there have been many attempts among the opponents of medieval
 ideals to get rid of this medieval renascence.  There have been
-many efforts to explain away the elephant or minimise the cathedral.
+many efforts to explain away the elephant or minimise the [[Cathedral|cathedral]].
 And they all fail by beginning at the trivial end and trying
 to chop inches off the elephant's tail; or seeking to set
-the ugliness of a gargoyle against the beauty of a cathedral.
+the ugliness of a gargoyle against the [[Beauty|beauty]] of a [[Cathedral|cathedral]].
 Thus they will pick this or that hole in the application
 of the Guild principle, without noticing that everything
 is conceded with the Guild principle itself; the simple fact
-that the principle of medieval trade was admittedly comradeship
+that the principle of medieval trade was admittedly [[Comradeship|comradeship]]
 and justice, while the principle of modern trade was avowedly
-competition and greed.  They will say that the Guild spirit
+competition and [[Greed|greed]].  They will say that the Guild spirit
 was deficient in this and that; without beginning to touch
-the truth that we are deficient in the Guild spirit.
+the [[Truth|truth]] that we are deficient in the Guild spirit.
 In short, the attempts to rebut the revelations of medieval
-culture and creative reform are above all things trivial.
+culture and creative [[Reform|reform]] are above all things trivial.
 They not only pick very small holes in a very large thing,
 but they do not seem to realise that the rest of the world
-can now look at the large thing as well as the small hole.
-But it was really William Cobbett, alighted from his horse,
+can now look at the large thing as [[Well|well]] as the small hole.
+But it was really William Cobbett, alighted from his [[Horse|horse]],
 and standing for some idle moment in a church porch
 out of the rain, who first had a vision of this towering
-resurrection of a forgotten Christendom; and lifted up his eyes
+[[Resurrection|resurrection]] of a forgotten Christendom; and lifted up his eyes
 to things so lofty and remote that men had let them float
 unheeded over their heads like the tree-tops or the clouds.
 Perhaps the real story of Jack the Giant Killer is that Jack

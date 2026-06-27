@@ -20,35 +20,35 @@ Dombey and Son
 
 Dombey sat in the corner of the darkened room in the great arm-chair by
 the bedside, and Son lay tucked up warm in a little basket bedstead,
-carefully disposed on a low settee immediately in front of the fire and
+carefully disposed on a low settee immediately in front of the [[Fire|fire]] and
 close to it, as if his constitution were analogous to that of a muffin,
 and it was essential to toast him brown while he was very new.
 
 Dombey was about eight-and-forty years of age. Son about
 eight-and-forty minutes. Dombey was rather bald, rather red, and though
-a handsome well-made man, too stern and pompous in appearance, to be
+a handsome [[Well|well]]-made man, too stern and pompous in appearance, to be
 prepossessing. Son was very bald, and very red, and though (of course)
 an undeniably fine infant, somewhat crushed and spotty in his general
-effect, as yet. On the brow of Dombey, Time and his brother Care had
+effect, as yet. On the brow of Dombey, [[Time]] and his brother Care had
 set some marks, as on a tree that was to come down in good
-time—remorseless twins they are for striding through their human
+[[Time|time]]—remorseless twins they are for striding through their human
 forests, notching as they go—while the countenance of Son was crossed
-with a thousand little creases, which the same deceitful Time would
+with a thousand little creases, which the same deceitful [[Time]] would
 take delight in smoothing out and wearing away with the flat part of
 his scythe, as a preparation of the surface for his deeper operations.
 
 Dombey, exulting in the long-looked-for event, jingled and jingled the
 heavy gold watch-chain that depended from below his trim blue coat,
 whereof the buttons sparkled phosphorescently in the feeble rays of the
-distant fire. Son, with his little fists curled up and clenched,
+distant [[Fire|fire]]. Son, with his little fists curled up and clenched,
 seemed, in his feeble way, to be squaring at existence for having come
 upon him so unexpectedly.
 
-“The House will once again, Mrs Dombey,” said Mr Dombey, “be not only
+“The [[house|House]] will once again, Mrs Dombey,” said Mr Dombey, “be not only
 in name but in fact Dombey and Son;” and he added, in a tone of
 luxurious satisfaction, with his eyes half-closed as if he were reading
-the name in a device of flowers, and inhaling their fragrance at the
-same time; “Dom-bey and Son!”
+the name in a device of [[Flowers|flowers]], and inhaling their fragrance at the
+same [[Time|time]]; “Dom-bey and Son!”
 
 The words had such a softening influence, that he appended a term of
 endearment to Mrs Dombey’s name (though not without some hesitation, as
@@ -67,47 +67,47 @@ her lips, and closed her eyes again.
 grandfather were alive this day! There is some inconvenience in the
 necessity of writing Junior,” said Mr Dombey, making a fictitious
 autograph on his knee; “but it is merely of a private and personal
-complexion. It doesn’t enter into the correspondence of the House. Its
+complexion. It doesn’t enter into the correspondence of the [[house|House]]. Its
 signature remains the same.” And again he said “Dombey and Son,” in
 exactly the same tone as before.
 
 Those three words conveyed the one idea of Mr Dombey’s life. The earth
-was made for Dombey and Son to trade in, and the sun and moon were made
+was made for Dombey and Son to trade in, and the sun and [[Moon|moon]] were made
 to give them light. Rivers and seas were formed to float their ships;
 rainbows gave them promise of fair weather; winds blew for or against
-their enterprises; stars and planets circled in their orbits, to
+their enterprises; [[Stars|stars]] and planets circled in their orbits, to
 preserve inviolate a system of which they were the centre. Common
 abbreviations took new meanings in his eyes, and had sole reference to
 them. A. D. had no concern with Anno Domini, but stood for anno
 Dombei—and Son.
 
 He had risen, as his father had before him, in the course of life and
-death, from Son to Dombey, and for nearly twenty years had been the
+[[Death|death]], from Son to Dombey, and for nearly twenty years had been the
 sole representative of the Firm. Of those years he had been married,
 ten—married, as some said, to a lady with no heart to give him; whose
 happiness was in the past, and who was content to bind her broken
-spirit to the dutiful and meek endurance of the present. Such idle talk
+spirit to the dutiful and meek [[Endurance|endurance]] of the present. Such idle talk
 was little likely to reach the ears of Mr Dombey, whom it nearly
 concerned; and probably no one in the world would have received it with
-such utter incredulity as he, if it had reached him. Dombey and Son had
+such utter [[Incredulity|incredulity]] as he, if it had reached him. Dombey and Son had
 often dealt in hides, but never in hearts. They left that fancy ware to
 boys and girls, and boarding-schools and books. Mr Dombey would have
 reasoned: That a matrimonial alliance with himself _must_, in the
-nature of things, be gratifying and honourable to any woman of common
-sense. That the hope of giving birth to a new partner in such a House,
-could not fail to awaken a glorious and stirring ambition in the breast
+[[Nature|nature]] of things, be gratifying and honourable to any woman of common
+sense. That the [[Hope|hope]] of giving birth to a new partner in such a [[house|House]],
+could not fail to awaken a glorious and stirring [[Ambition|ambition]] in the breast
 of the least ambitious of her sex. That Mrs Dombey had entered on that
 social contract of matrimony: almost necessarily part of a genteel and
 wealthy station, even without reference to the perpetuation of family
 Firms: with her eyes fully open to these advantages. That Mrs Dombey
 had had daily practical knowledge of his position in society. That Mrs
 Dombey had always sat at the head of his table, and done the honours of
-his house in a remarkably lady-like and becoming manner. That Mrs
+his [[house]] in a remarkably lady-like and becoming manner. That Mrs
 Dombey must have been happy. That she couldn’t help it.
 
 Or, at all events, with one drawback. Yes. That he would have allowed.
 With only one; but that one certainly involving much. With the drawback
-of hope deferred. That hope deferred, which, (as the Scripture very
+of [[Hope|hope]] deferred. That [[Hope|hope]] deferred, which, (as the Scripture very
 correctly tells us, Mr Dombey would have added in a patronising way;
 for his highest distinct idea even of Scripture, if examined, would
 have been found to be; that as forming part of a general whole, of
@@ -118,20 +118,20 @@ jingling his heavy gold watch-chain in the great arm-chair by the side
 of the bed, had had no issue.
 
 —To speak of; none worth mentioning. There had been a girl some six
-years before, and the child, who had stolen into the chamber
+years before, and the [[Child|child]], who had stolen into the chamber
 unobserved, was now crouching timidly, in a corner whence she could see
 her mother’s face. But what was a girl to Dombey and Son! In the
-capital of the House’s name and dignity, such a child was merely a
+capital of the [[house|House]]’s name and dignity, such a [[Child|child]] was merely a
 piece of base coin that couldn’t be invested—a bad Boy—nothing more.
 
 Mr Dombey’s cup of satisfaction was so full at this moment, however,
 that he felt he could afford a drop or two of its contents, even to
-sprinkle on the dust in the by-path of his little daughter.
+sprinkle on the [[Dust|dust]] in the by-path of his little daughter.
 
 So he said, “Florence, you may go and look at your pretty brother, if
 you like, I daresay. Don’t touch him!”
 
-The child glanced keenly at the blue coat and stiff white cravat,
+The [[Child|child]] glanced keenly at the blue coat and stiff white cravat,
 which, with a pair of creaking boots and a very loud ticking watch,
 embodied her idea of a father; but her eyes returned to her mother’s
 face immediately, and she neither moved nor answered.
@@ -140,21 +140,21 @@ face immediately, and she neither moved nor answered.
 else,” said Mr Dombey to himself He seemed so confirmed in a previous
 opinion by the discovery, as to be quite glad of it.”
 
-Next moment, the lady had opened her eyes and seen the child; and the
-child had run towards her; and, standing on tiptoe, the better to hide
+Next moment, the lady had opened her eyes and seen the [[Child|child]]; and the
+[[Child|child]] had run towards her; and, standing on tiptoe, the better to hide
 her face in her embrace, had clung about her with a desperate affection
 very much at variance with her years.
 
 “Oh Lord bless me!” said Mr Dombey, rising testily. “A very ill-advised
 and feverish proceeding this, I am sure. Please to ring there for Miss
-Florence’s nurse. Really the person should be more care-”
+Florence’s [[Nurse|nurse]]. Really the person should be more care-”
 
 “Wait! I—had better ask Doctor Peps if he’ll have the goodness to step
 upstairs again perhaps. I’ll go down. I’ll go down. I needn’t beg you,”
-he added, pausing for a moment at the settee before the fire, “to take
+he added, pausing for a moment at the settee before the [[Fire|fire]], “to take
 particular care of this young gentleman, Mrs ——”
 
-“Blockitt, Sir?” suggested the nurse, a simpering piece of faded
+“Blockitt, Sir?” suggested the [[Nurse|nurse]], a simpering piece of faded
 gentility, who did not presume to state her name as a fact, but merely
 offered it as a mild suggestion.
 
@@ -163,27 +163,27 @@ offered it as a mild suggestion.
 “No, Sir, indeed. I remember when Miss Florence was born—”
 
 “Ay, ay, ay,” said Mr Dombey, bending over the basket bedstead, and
-slightly bending his brows at the same time. “Miss Florence was all
-very well, but this is another matter. This young gentleman has to
+slightly bending his brows at the same [[Time|time]]. “Miss Florence was all
+very [[Well|well]], but this is another matter. This young gentleman has to
 accomplish a destiny. A destiny, little fellow!” As he thus
 apostrophised the infant he raised one of his hands to his lips, and
-kissed it; then, seeming to fear that the action involved some
+kissed it; then, seeming to [[Fear|fear]] that the action involved some
 compromise of his dignity, went, awkwardly enough, away.
 
-Doctor Parker Peps, one of the Court Physicians, and a man of immense
+Doctor Parker Peps, one of the [[Court]] Physicians, and a man of immense
 reputation for assisting at the increase of great families, was walking
 up and down the drawing-room with his hands behind him, to the
 unspeakable admiration of the family Surgeon, who had regularly puffed
 the case for the last six weeks, among all his patients, friends, and
 acquaintances, as one to which he was in hourly expectation day and
-night of being summoned, in conjunction with Doctor Parker Pep.
+[[Night|night]] of being summoned, in conjunction with Doctor Parker Pep.
 
-“Well, Sir,” said Doctor Parker Peps in a round, deep, sonorous voice,
+“[[Well]], Sir,” said Doctor Parker Peps in a round, deep, sonorous voice,
 muffled for the occasion, like the knocker; “do you find that your dear
 lady is at all roused by your visit?”
 
 “Stimulated as it were?” said the family practitioner faintly: bowing
-at the same time to the Doctor, as much as to say, “Excuse my putting
+at the same [[Time|time]] to the Doctor, as much as to say, “Excuse my putting
 in a word, but this is a valuable connexion.”
 
 Mr Dombey was quite discomfited by the question. He had thought so
@@ -210,7 +210,7 @@ practice—”
 
 “Thank you,” said the Doctor, “quite so. It would appear, I was
 observing, that the system of our patient has sustained a shock, from
-which it can only hope to rally by a great and strong—”
+which it can only [[Hope|hope]] to rally by a great and strong—”
 
 “And vigorous,” murmured the family practitioner.
 
@@ -218,14 +218,14 @@ which it can only hope to rally by a great and strong—”
 who from his position of medical adviser in this family—no one better
 qualified to fill that position, I am sure.”
 
-“Oh!” murmured the family practitioner. “‘Praise from Sir Hubert
+“Oh!” murmured the family practitioner. “‘Praise from Sir [[Hubert]]
 Stanley!’”
 
 “You are good enough,” returned Doctor Parker Peps, “to say so. Mr
 Pilkins who, from his position, is best acquainted with the patient’s
 constitution in its normal state (an acquaintance very valuable to us
 in forming our opinions in these occasions), is of opinion, with me,
-that Nature must be called upon to make a vigorous effort in this
+that [[Nature]] must be called upon to make a vigorous effort in this
 instance; and that if our interesting friend the Countess of Dombey—I
 _beg_ your pardon; Mrs Dombey—should not be—”
 
@@ -237,7 +237,7 @@ _beg_ your pardon; Mrs Dombey—should not be—”
 
 “Successfully,” said they both together.
 
-“Then,” added Doctor Parker Peps, alone and very gravely, “a crisis
+“Then,” added Doctor Parker Peps, [[Alone|alone]] and very gravely, “a crisis
 might arise, which we should both sincerely deplore.”
 
 With that, they stood for a few seconds looking at the ground. Then, on
@@ -249,11 +249,11 @@ To record of Mr Dombey that he was not in his way affected by this
 intelligence, would be to do him an injustice. He was not a man of whom
 it could properly be said that he was ever startled, or shocked; but he
 certainly had a sense within him, that if his wife should sicken and
-decay, he would be very sorry, and that he would find a something gone
+[[Decay|decay]], he would be very sorry, and that he would find a something gone
 from among his plate and furniture, and other household possessions,
-which was well worth the having, and could not be lost without sincere
+which was [[Well|well]] worth the having, and could not be lost without sincere
 regret. Though it would be a cool, business-like, gentlemanly,
-self-possessed regret, no doubt.
+[[Self|self]]-possessed regret, no [[Doubt|doubt]].
 
 His meditations on the subject were soon interrupted, first by the
 rustling of garments on the staircase, and then by the sudden whisking
@@ -265,7 +265,7 @@ neck, and said, in a choking voice,
 
 “My dear Paul! He’s quite a Dombey!”
 
-“Well, well!” returned her brother—for Mr Dombey was her brother—“I
+“[[Well]], [[Well|well]]!” returned her brother—for Mr Dombey was her brother—“I
 think he is like the family. Don’t agitate yourself, Louisa.”
 
 “It’s very foolish of me,” said Louisa, sitting down, and taking out
@@ -273,7 +273,7 @@ her pocket-handkerchief, “but he’s—he’s such a perfect Dombey!”
 
 Mr Dombey coughed.
 
-“It’s so extraordinary,” said Louisa; smiling through her tears, which
+“It’s so extraordinary,” said Louisa; smiling through her [[Tears|tears]], which
 indeed were not overpowering, “as to be perfectly ridiculous. So
 completely our family. _I_ never saw anything like it in my life!”
 
@@ -284,7 +284,7 @@ Fanny?”
 it’s nothing whatever. There is exhaustion, certainly, but nothing like
 what I underwent myself, either with George or Frederick. An effort is
 necessary. That’s all. If dear Fanny were a Dombey!—But I daresay
-she’ll make it; I have no doubt she’ll make it. Knowing it to be
+she’ll make it; I have no [[Doubt|doubt]] she’ll make it. Knowing it to be
 required of her, as a duty, of course she’ll make it. My dear Paul,
 it’s very weak and silly of me, I know, to be so trembly and shaky from
 head to foot; but I am so very queer that I must ask you for a glass of
@@ -293,17 +293,17 @@ wine and a morsel of that cake.”
 Mr Dombey promptly supplied her with these refreshments from a tray on
 the table.
 
-“I shall not drink my love to you, Paul,” said Louisa: “I shall drink
+“I shall not drink my [[Love|love]] to you, Paul,” said Louisa: “I shall drink
 to the little Dombey. Good gracious me!—it’s the most astonishing thing
 I ever knew in all my days, he’s such a perfect Dombey.”
 
 Quenching this expression of opinion in a short hysterical laugh which
-terminated in tears, Louisa cast up her eyes, and emptied her glass.
+terminated in [[Tears|tears]], Louisa cast up her eyes, and emptied her glass.
 
 “I know it’s very weak and silly of me,” she repeated, “to be so
 trembly and shaky from head to foot, and to allow my feelings so
 completely to get the better of me, but I cannot help it. I thought I
-should have fallen out of the staircase window as I came down from
+should have fallen out of the staircase [[Window|window]] as I came down from
 seeing dear Fanny, and that tiddy ickle sing.” These last words
 originated in a sudden vivid reminiscence of the baby.
 
@@ -312,7 +312,7 @@ They were succeeded by a gentle tap at the door.
 “Mrs Chick,” said a very bland female voice outside, “how are you now,
 my dear friend?”
 
-“My dear Paul,” said Louisa in a low voice, as she rose from her seat,
+“My dear Paul,” said Louisa in a low voice, as she [[Rose|rose]] from her seat,
 “it’s Miss Tox. The kindest creature! I never could have got here
 without her! Miss Tox, my brother Mr Dombey. Paul, my dear, my very
 particular friend Miss Tox.”
@@ -324,7 +324,7 @@ washed out. But for this she might have been described as the very pink
 of general propitiation and politeness. From a long habit of listening
 admiringly to everything that was said in her presence, and looking at
 the speakers as if she were mentally engaged in taking off impressions
-of their images upon her soul, never to part with the same but with
+of their images upon her [[Soul|soul]], never to part with the same but with
 life, her head had quite settled on one side. Her hands had contracted
 a spasmodic habit of raising themselves of their own accord as in
 involuntary admiration. Her eyes were liable to a similar affection.
@@ -335,26 +335,26 @@ as in an invincible determination never to turn up at anything.
 
 Miss Tox’s dress, though perfectly genteel and good, had a certain
 character of angularity and scantiness. She was accustomed to wear odd
-weedy little flowers in her bonnets and caps. Strange grasses were
+weedy little [[Flowers|flowers]] in her bonnets and caps. Strange grasses were
 sometimes perceived in her hair; and it was observed by the curious, of
 all her collars, frills, tuckers, wristbands, and other gossamer
 articles—indeed of everything she wore which had two ends to it
 intended to unite—that the two ends were never on good terms, and
 wouldn’t quite meet without a struggle. She had furry articles for
-winter wear, as tippets, boas, and muffs, which stood up on end in
+[[Winter|winter]] wear, as tippets, boas, and muffs, which stood up on end in
 rampant manner, and were not at all sleek. She was much given to the
 carrying about of small bags with snaps to them, that went off like
 little pistols when they were shut up; and when full-dressed, she wore
 round her neck the barrenest of lockets, representing a fishy old eye,
 with no approach to speculation in it. These and other appearances of a
-similar nature, had served to propagate the opinion, that Miss Tox was
+similar [[Nature|nature]], had served to propagate the opinion, that Miss Tox was
 a lady of what is called a limited independence, which she turned to
 the best account. Possibly her mincing gait encouraged the belief, and
 suggested that her clipping a step of ordinary compass into two or
 three, originated in her habit of making the most of everything.
 
 “I am sure,” said Miss Tox, with a prodigious curtsey, “that to have
-the honour of being presented to Mr Dombey is a distinction which I
+the [[Honour|honour]] of being presented to Mr Dombey is a distinction which I
 have long sought, but very little expected at the present moment. My
 dear Mrs Chick—may I say Louisa!”
 
@@ -402,7 +402,7 @@ tone of low and earnest entreaty, “that nothing but the—I have some
 difficulty in expressing myself—the dubiousness of the result would
 have induced me to take so great a liberty: ‘Welcome, Master Dombey,’
 would have been much more congenial to my feelings, as I am sure you
-know. But the uncertainty attendant on angelic strangers, will, I hope,
+know. But the uncertainty attendant on angelic strangers, will, I [[Hope|hope]],
 excuse what must otherwise appear an unwarrantable familiarity.” Miss
 Tox made a graceful bend as she spoke, in favour of Mr Dombey, which
 that gentleman graciously acknowledged. Even the sort of recognition of
@@ -416,7 +416,7 @@ contemplating his features for a few moments, “I don’t know whether to
 laugh or cry when I look at you, I declare, you do so remind me of that
 dear baby upstairs.”
 
-“Well!” said Mrs Chick, with a sweet smile, “after this, I forgive
+“[[Well]]!” said Mrs Chick, with a sweet smile, “after this, I forgive
 Fanny everything!”
 
 It was a declaration in a Christian spirit, and Mrs Chick felt that it
@@ -429,7 +429,7 @@ her, and was not a pleasant return for all the attention and
 distinction she had met with.
 
 Mr Dombey being hastily summoned out of the room at this moment, the
-two ladies were left alone together. Miss Tox immediately became
+two ladies were left [[Alone|alone]] together. Miss Tox immediately became
 spasmodic.
 
 “I knew you would admire my brother. I told you so beforehand, my
@@ -444,7 +444,7 @@ as to his property, my dear!”
 dignity! No portrait that I have ever seen of anyone has been half so
 replete with those qualities. Something so stately, you know: so
 uncompromising: so very wide across the chest: so upright! A pecuniary
-Duke of York, my love, and nothing short of it!” said Miss Tox. “That’s
+[[Duke of York]], my [[Love|love]], and nothing short of it!” said Miss Tox. “That’s
 what _I_ should designate him.”
 
 “Why, my dear Paul!” exclaimed his sister, as he returned, “you look
@@ -458,10 +458,10 @@ importance you are to society, and do not allow yourself to be worried
 by what is so very inconsiderately told you by people who ought to know
 better. Really I’m surprised at them.”
 
-“I hope I know, Louisa,” said Mr Dombey, stiffly, “how to bear myself
+“I [[Hope|hope]] I know, Louisa,” said Mr Dombey, stiffly, “how to bear myself
 before the world.”
 
-“Nobody better, my dear Paul. Nobody half so well. They would be
+“Nobody better, my dear Paul. Nobody half so [[Well|well]]. They would be
 ignorant and base indeed who doubted it.”
 
 “Ignorant and base indeed!” echoed Miss Tox softly.
@@ -474,12 +474,12 @@ bonnet, and adjusting her cap and gloves, in a business-like manner,
 my dear Paul, come upstairs with me.”
 
 Mr Dombey, who, besides being generally influenced by his sister for
-the reason already mentioned, had really faith in her as an experienced
+the reason already mentioned, had really [[Faith|faith]] in her as an experienced
 and bustling matron, acquiesced; and followed her, at once, to the sick
 chamber.
 
 The lady lay upon her bed as he had left her, clasping her little
-daughter to her breast. The child clung close about her, with the same
+daughter to her breast. The [[Child|child]] clung close about her, with the same
 intensity as before, and never raised her head, or moved her soft cheek
 from her mother’s face, or looked on those who stood around, or spoke,
 or moved, or shed a tear.
@@ -499,24 +499,24 @@ breathed.
 
 There was such a solemn stillness round the bed; and the two medical
 attendants seemed to look on the impassive form with so much compassion
-and so little hope, that Mrs Chick was for the moment diverted from her
-purpose. But presently summoning courage, and what she called presence
+and so little [[Hope|hope]], that Mrs Chick was for the moment diverted from her
+purpose. But presently summoning [[Courage|courage]], and what she called presence
 of mind, she sat down by the bedside, and said in the low precise tone
 of one who endeavours to awaken a sleeper:
 
 “Fanny! Fanny!”
 
 There was no sound in answer but the loud ticking of Mr Dombey’s watch
-and Doctor Parker Peps’s watch, which seemed in the silence to be
+and Doctor Parker Peps’s watch, which seemed in the [[Silence|silence]] to be
 running a race.
 
 “Fanny, my dear,” said Mrs Chick, with assumed lightness, “here’s Mr
 Dombey come to see you. Won’t you speak to him? They want to lay your
 little boy—the baby, Fanny, you know; you have hardly seen him yet, I
 think—in bed; but they can’t till you rouse yourself a little. Don’t
-you think it’s time you roused yourself a little? Eh?”
+you think it’s [[Time|time]] you roused yourself a little? Eh?”
 
-She bent her ear to the bed, and listened: at the same time looking
+She bent her ear to the bed, and listened: at the same [[Time|time]] looking
 round at the bystanders, and holding up her finger.
 
 “Eh?” she repeated, “what was it you said, Fanny? I didn’t hear you.”
@@ -526,7 +526,7 @@ watch seemed to be racing faster.
 
 “Now, really, Fanny my dear,” said the sister-in-law, altering her
 position, and speaking less confidently, and more earnestly, in spite
-of herself, “I shall have to be quite cross with you, if you don’t
+of herself, “I shall have to be quite [[Cross|cross]] with you, if you don’t
 rouse yourself. It’s necessary for you to make an effort, and perhaps a
 very great and painful effort which you are not disposed to make; but
 this is a world of effort you know, Fanny, and we must never yield,
@@ -541,23 +541,23 @@ look at me. Only open your eyes to show me that you hear and understand
 me; will you? Good Heaven, gentlemen, what is to be done!”
 
 The two medical attendants exchanged a look across the bed; and the
-Physician, stooping down, whispered in the child’s ear. Not having
+Physician, stooping down, whispered in the [[Child|child]]’s ear. Not having
 understood the purport of his whisper, the little creature turned her
 perfectly colourless face and deep dark eyes towards him; but without
 loosening her hold in the least.
 
 The whisper was repeated.
 
-“Mama!” said the child.
+“Mama!” said the [[Child|child]].
 
 The little voice, familiar and dearly loved, awakened some show of
 consciousness, even at that ebb. For a moment, the closed eye lids
-trembled, and the nostril quivered, and the faintest shadow of a smile
+trembled, and the nostril quivered, and the faintest [[Shadow|shadow]] of a smile
 was seen.
 
-“Mama!” cried the child sobbing aloud. “Oh dear Mama! oh dear Mama!”
+“Mama!” cried the [[Child|child]] sobbing aloud. “Oh dear Mama! oh dear Mama!”
 
-The Doctor gently brushed the scattered ringlets of the child, aside
+The Doctor gently brushed the scattered ringlets of the [[Child|child]], aside
 from the face and mouth of the mother. Alas how calm they lay there;
 how little breath there was to stir them!
 

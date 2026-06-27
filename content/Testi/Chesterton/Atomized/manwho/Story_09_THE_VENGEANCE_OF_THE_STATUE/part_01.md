@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE VENGEANCE OF THE STATUE (part 1)"
+title: "[[manwho]] — THE VENGEANCE OF THE STATUE (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -36,7 +36,7 @@ eyes. In the newspapers which he tossed from him on to the table
 
 there was enough to explain some if not all of his emotion. Public
 
-affairs in every department had reached a crisis. The government
+affairs in every department had reached a crisis. The [[government]]
 
 which had stood so long that men were used to it, as they are used
 
@@ -76,7 +76,7 @@ liveliness about the usually languid figure of Fisher. The ordinary
 
 image of him in March's mind was that of a pallid and bald-browed
 
-gentleman, who seemed to be prematurely old as well as prematurely
+gentleman, who seemed to be prematurely old as [[Well|well]] as prematurely
 
 bald. He was remembered as a man who expressed the opinions of a
 
@@ -102,7 +102,7 @@ his own sunshine.
 
 "Look here," said Harold March, abruptly, "you've been no end of a
 
-friend to me, and I never was so proud of a friendship before; but
+friend to me, and I never was so proud of a [[Friendship|friendship]] before; but
 
 there's something I must get off my chest. The more I found out, the
 
@@ -124,7 +124,7 @@ respect you, which is not always the same thing. You may possibly
 
 guess that I like a good many people I don't respect. Perhaps it is
 
-my tragedy, perhaps it is my fault. But you are very different, and
+my [[Tragedy|tragedy]], perhaps it is my fault. But you are very different, and
 
 I promise you this: that I will never try to keep you as somebody to
 
@@ -132,11 +132,11 @@ be liked, at the price of your not being respected."
 
 
 
-"I know you are magnanimous," said March after a silence, "and yet
+"I know you are magnanimous," said March after a [[Silence|silence]], "and yet
 
 you tolerate and perpetuate everything that is mean." Then after
 
-another silence he added: "Do you remember when we first met, when
+another [[Silence|silence]] he added: "Do you remember when we first met, when
 
 you were fishing in that brook in the affair of the target? And do
 
@@ -154,13 +154,13 @@ could blow the whole tangle of this society to hell with dynamite."
 
 March, "and I think it right to give you fair warning. For a long
 
-time I didn't believe things were as bad as you said they were. But
+[[Time|time]] I didn't believe things were as bad as you said they were. But
 
 I never felt as if I could have bottled up what you knew, supposing
 
-you really knew it. Well, the long and the short of it is that I've
+you really knew it. [[Well]], the long and the short of it is that I've
 
-got a conscience; and now, at last, I've also got a chance. I've
+got a [[Conscience|conscience]]; and now, at last, I've also got a chance. I've
 
 been put in charge of a big independent paper, with a free hand, and
 
@@ -194,7 +194,7 @@ say that plainly about a man who may send thousands of Englishmen to
 
 die for nothing, you're called personal. If a poor engine driver
 
-gets drunk and sends thirty or forty people to death, nobody
+gets drunk and sends thirty or forty people to [[Death|death]], nobody
 
 complains of the exposure being personal. The engine driver is not a
 
@@ -214,7 +214,7 @@ demanded his friend. "If you think it's right, why don't you do
 
 what's right? It's awful to think of a man of your abilities simply
 
-blocking the road to reform."
+blocking the [[Road|road]] to [[Reform|reform]]."
 
 
 
@@ -226,7 +226,7 @@ Minister married my sister. The Chancellor of the Exchequer is my
 
 first cousin. I mention the genealogy in some detail just now for a
 
-particular reason. The truth is I have a curious kind of
+particular reason. The [[Truth|truth]] is I have a curious kind of
 
 cheerfulness at the moment. It isn't altogether the sun and the sea,
 

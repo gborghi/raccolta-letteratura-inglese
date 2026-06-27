@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 74 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 74 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -15,8 +15,8 @@ tags:
 
 
 He slept so long and so soundly, that Mr Dennis began to think he might
-sleep on until the turnkey visited them. He was congratulating himself
-upon these promising appearances, and blessing his stars with much
+[[Sleep|sleep]] on until the turnkey visited them. He was congratulating himself
+upon these promising appearances, and blessing his [[Stars|stars]] with much
 fervour, when one or two unpleasant symptoms manifested themselves: such
 as another motion of the arm, another sigh, a restless tossing of the
 head. Then, just as it seemed that he was about to fall heavily to the
@@ -53,7 +53,7 @@ himself on the bench again.
 ‘If it wasn’t for the comfort it is to me, to see you here,’ he
 muttered, ‘I’d have crushed your head against it; I would.’
 
-It was some time before Dennis had breath enough to speak, but as soon
+It was some [[Time|time]] before Dennis had breath enough to speak, but as soon
 as he could resume his propitiatory strain, he did so.
 
 ‘I did the best that could be done, brother,’ he whined; ‘I did indeed.
@@ -68,14 +68,14 @@ a fierce expression, that the other durst not answer him just then.
 the chances of the law, and they’re five hundred strong. We may get off
 scot-free. Unlikelier things than that have come to pass. Even if we
 shouldn’t, and the chances fail, we can but be worked off once: and when
-it’s well done, it’s so neat, so skilful, so captiwating, if that don’t
+it’s [[Well|well]] done, it’s so neat, so skilful, so captiwating, if that don’t
 seem too strong a word, that you’d hardly believe it could be brought
 to sich perfection. Kill one’s fellow-creeturs off, with muskets!--Pah!’
-and his nature so revolted at the bare idea, that he spat upon the
+and his [[Nature|nature]] so revolted at the bare idea, that he spat upon the
 dungeon pavement.
 
 His warming on this topic, which to one unacquainted with his pursuits
-and tastes appeared like courage; together with his artful suppression
+and tastes appeared like [[Courage|courage]]; together with his artful suppression
 of his own secret hopes, and mention of himself as being in the same
 condition with Hugh; did more to soothe that ruffian than the most
 elaborate arguments could have done, or the most abject submission.
@@ -92,8 +92,8 @@ have I got by it? Here we are, in one and the same plight.’
 such a shallow blade but I know you expected to get something by it, or
 you wouldn’t have done it. But it’s done, and you’re here, and it will
 soon be all over with you and me; and I’d as soon die as live, or live
-as die. Why should I trouble myself to have revenge on you? To eat, and
-drink, and go to sleep, as long as I stay here, is all I care for. If
+as die. Why should I trouble myself to have [[Revenge|revenge]] on you? To eat, and
+drink, and go to [[Sleep|sleep]], as long as I stay here, is all I care for. If
 there was but a little more sun to bask in, than can find its way into
 this cursed place, I’d lie in it all day, and not trouble myself to sit
 or stand up once. That’s all the care I have for myself. Why should I
@@ -102,13 +102,13 @@ care for YOU?’
 Finishing this speech with a growl like the yawn of a wild beast, he
 stretched himself upon the bench again, and closed his eyes once more.
 
-After looking at him in silence for some moments, Dennis, who was
+After looking at him in [[Silence|silence]] for some moments, Dennis, who was
 greatly relieved to find him in this mood, drew the chair towards his
 rough couch and sat down near him--taking the precaution, however, to
 keep out of the range of his brawny arm.
 
-‘Well said, brother; nothing could be better said,’ he ventured to
-observe. ‘We’ll eat and drink of the best, and sleep our best, and make
+‘[[Well]] said, brother; nothing could be better said,’ he ventured to
+observe. ‘We’ll eat and drink of the best, and [[Sleep|sleep]] our best, and make
 the best of it every way. Anything can be got for money. Let’s spend it
 merrily.’
 
@@ -128,7 +128,7 @@ are my friends?’
 ‘Your relations then,’ said Dennis.
 
 ‘Ha ha ha!’ laughed Hugh, waving one arm above his head. ‘He talks of
-friends to me--talks of relations to a man whose mother died the death
+friends to me--talks of relations to a man whose mother died the [[Death|death]]
 in store for her son, and left him, a hungry brat, without a face he
 knew in all the world! He talks of this to me!’
 
@@ -138,19 +138,19 @@ knew in all the world! He talks of this to me!’
 ‘I mean to say,’ Hugh interposed, ‘that they hung her up at Tyburn. What
 was good enough for her, is good enough for me. Let them do the like by
 me as soon as they please--the sooner the better. Say no more to me. I’m
-going to sleep.’
+going to [[Sleep|sleep]].’
 
 ‘But I want to speak to you; I want to hear more about that,’ said
 Dennis, changing colour.
 
 ‘If you’re a wise man,’ growled Hugh, raising his head to look at him
-with a frown, ‘you’ll hold your tongue. I tell you I’m going to sleep.’
+with a frown, ‘you’ll hold your tongue. I tell you I’m going to [[Sleep|sleep]].’
 
 Dennis venturing to say something more in spite of this caution, the
 desperate fellow struck at him with all his force, and missing him, lay
 down again with many muttered oaths and imprecations, and turned his
 face towards the wall. After two or three ineffectual twitches at his
 dress, which he was hardy enough to venture upon, notwithstanding his
-dangerous humour, Mr Dennis, who burnt, for reasons of his own, to
+dangerous [[Humour|humour]], Mr Dennis, who burnt, for reasons of his own, to
 pursue the conversation, had no alternative but to sit as patiently as
 he could: waiting his further pleasure.

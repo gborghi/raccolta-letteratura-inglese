@@ -18,13 +18,13 @@ CHAPTER V
 MEN AND MASTERS
 
 
-‘WELL, Stephen,’ said Bounderby, in his windy manner, ‘what’s this I
+‘[[Well|WELL]], Stephen,’ said Bounderby, in his windy manner, ‘what’s this I
 hear?  What have these pests of the earth been doing to _you_?  Come in,
 and speak up.’
 
 It was into the drawing-room that he was thus bidden.  A tea-table was
 set out; and Mr. Bounderby’s young wife, and her brother, and a great
-gentleman from London, were present.  To whom Stephen made his obeisance,
+gentleman from [[London]], were present.  To whom Stephen made his obeisance,
 closing the door and standing near it, with his hat in his hand.
 
 ‘This is the man I was telling you about, Harthouse,’ said Mr. Bounderby.
@@ -36,7 +36,7 @@ hearthrug where Mr. Bounderby stood.
 
 After the four days he had passed, this address fell rudely and
 discordantly on Stephen’s ear.  Besides being a rough handling of his
-wounded mind, it seemed to assume that he really was the self-interested
+wounded mind, it seemed to assume that he really was the [[Self|self]]-interested
 deserter he had been called.
 
 ‘What were it, sir,’ said Stephen, ‘as yo were pleased to want wi’ me?’
@@ -44,10 +44,10 @@ deserter he had been called.
 ‘Why, I have told you,’ returned Bounderby.  ‘Speak up like a man, since
 you are a man, and tell us about yourself and this Combination.’
 
-‘Wi’ yor pardon, sir,’ said Stephen Blackpool, ‘I ha’ nowt to sen about
+‘Wi’ yor pardon, sir,’ said [[Stephen Blackpool]], ‘I ha’ nowt to sen about
 it.’
 
-Mr. Bounderby, who was always more or less like a Wind, finding something
+Mr. Bounderby, who was always more or less like a [[Wind]], finding something
 in his way here, began to blow at it directly.
 
 ‘Now, look here, Harthouse,’ said he, ‘here’s a specimen of ’em.  When
@@ -73,13 +73,13 @@ deceive me.  You want to tell us so.  Why don’t you?’
 Stephen, shaking his head.  ‘They taks such as offers.  Haply ’tis na’
 the sma’est o’ their misfortuns when they can get no better.’
 
-The wind began to get boisterous.
+The [[Wind|wind]] began to get boisterous.
 
-‘Now, you’ll think this pretty well, Harthouse,’ said Mr. Bounderby.
-‘You’ll think this tolerably strong.  You’ll say, upon my soul this is a
+‘Now, you’ll think this pretty [[Well|well]], Harthouse,’ said Mr. Bounderby.
+‘You’ll think this tolerably strong.  You’ll say, upon my [[Soul|soul]] this is a
 tidy specimen of what my friends have to deal with; but this is nothing,
 sir!  You shall hear me ask this man a question.  Pray, Mr.
-Blackpool’—wind springing up very fast—‘may I take the liberty of asking
+Blackpool’—[[Wind|wind]] springing up very fast—‘may I take the liberty of asking
 you how it happens that you refused to be in this Combination?’
 
 ‘How ’t happens?’
@@ -98,19 +98,19 @@ calms.  One now prevailing.)
 
 ‘As for me, any consideration for me has had just nothing at all to do
 with it,’ said Bounderby, still in confidence with the wall.  ‘If only
-Josiah Bounderby of Coketown had been in question, you would have joined
+[[Josiah Bounderby]] of Coketown had been in question, you would have joined
 and made no bones about it?’
 
 ‘Why yes, sir.  ’Tis true.’
 
 ‘Though he knows,’ said Mr. Bounderby, now blowing a gale, ‘that there
 are a set of rascals and rebels whom transportation is too good for!
-Now, Mr. Harthouse, you have been knocking about in the world some time.
+Now, Mr. Harthouse, you have been knocking about in the world some [[Time|time]].
 Did you ever meet with anything like that man out of this blessed
 country?’  And Mr. Bounderby pointed him out for inspection, with an
 angry finger.
 
-‘Nay, ma’am,’ said Stephen Blackpool, staunchly protesting against the
+‘Nay, ma’am,’ said [[Stephen Blackpool]], staunchly protesting against the
 words that had been used, and instinctively addressing himself to Louisa,
 after glancing at her face.  ‘Not rebels, nor yet rascals.  Nowt o’ th’
 kind, ma’am, nowt o’ th’ kind.  They’ve not doon me a kindness, ma’am, as
@@ -119,7 +119,7 @@ Not six—but what believes as he has doon his duty by the rest and by
 himseln.  God forbid as I, that ha’ known, and had’n experience o’ these
 men aw my life—I, that ha’ ett’n an’ droonken wi’ ’em, an’ seet’n wi’
 ’em, and toil’n wi’ ’em, and lov’n ’em, should fail fur to stan by ’em
-wi’ the truth, let ’em ha’ doon to me what they may!’
+wi’ the [[Truth|truth]], let ’em ha’ doon to me what they may!’
 
 He spoke with the rugged earnestness of his place and character—deepened
 perhaps by a proud consciousness that he was faithful to his class under
@@ -127,7 +127,7 @@ all their mistrust; but he fully remembered where he was, and did not
 even raise his voice.
 
 ‘No, ma’am, no.  They’re true to one another, faithfo’ to one another,
-’fectionate to one another, e’en to death.  Be poor amoong ’em, be sick
+’fectionate to one another, e’en to [[Death|death]].  Be poor amoong ’em, be sick
 amoong ’em, grieve amoong ’em for onny o’ th’ monny causes that carries
 grief to the poor man’s door, an’ they’ll be tender wi’ yo, gentle wi’
 yo, comfortable wi’ yo, Chrisen wi’ yo.  Be sure o’ that, ma’am.  They’d

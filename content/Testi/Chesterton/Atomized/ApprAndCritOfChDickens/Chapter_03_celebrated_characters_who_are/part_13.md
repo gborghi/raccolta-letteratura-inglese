@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 13)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-lodging-house door and compact in the red-faced person of many a
+lodging-[[house]] door and compact in the red-faced person of many a
 
-preposterous landlady. Any one could easily excuse the ill-humour of the
+preposterous landlady. Any one could easily excuse the ill-[[Humour|humour]] of the
 
-poor. But great masses of the poor have not even any ill-humour to be
+poor. But great masses of the poor have not even any ill-[[Humour|humour]] to be
 
 excused. Their cheeriness is startling enough to be the foundation of a
 
 miracle play; and certainly is startling enough to be the foundation of
 
-a romance. Yet I do not know of any romance in which it is expressed
+a [[Romance|romance]]. Yet I do not know of any [[Romance|romance]] in which it is expressed
 
 except this one.
 
@@ -32,9 +32,9 @@ except this one.
 
 Of the landlady as of the waiter it may be said that Dickens left in a
 
-slight sketch what he might have developed through a long and strong
+slight [[Sketch|sketch]] what he might have developed through a long and strong
 
-novel. For Dickens had hold of one great truth, the neglect of which
+[[Novel|novel]]. For Dickens had hold of one great [[Truth|truth]], the neglect of which
 
 has, as it were, truncated and made meagre the work of many brilliant
 
@@ -52,15 +52,15 @@ is not by any means so interesting as Mrs. Lirriper in France; for she
 
 is trying to find France and he is only trying to find George Moore.
 
-Mrs. Lirriper is the female equivalent of Mr. Pickwick. Unlike Mrs.
+Mrs. Lirriper is the female equivalent of Mr. [[Pickwick]]. Unlike Mrs.
 
 Bardell (another and lesser landlady) she was fully worthy to be Mrs.
 
-Pickwick. For in both cases the essential truth is the same; that
+[[Pickwick]]. For in both cases the essential [[Truth|truth]] is the same; that
 
-original innocence which alone deserves adventures and because it alone
+original [[innocence]] which [[Alone|alone]] deserves adventures and because it [[Alone|alone]]
 
-can appreciate them. We have had Mr. Pickwick in England and we can
+can appreciate them. We have had Mr. [[Pickwick]] in England and we can
 
 imagine him in France. We have had Mrs. Lirriper in France and we can
 
@@ -78,7 +78,7 @@ in Limbo.
 
 
 
-BLEAK HOUSE
+BLEAK [[house|HOUSE]]
 
 
 
@@ -86,7 +86,7 @@ BLEAK HOUSE
 
 _Bleak House_ is not certainly Dickens's best book; but perhaps it is
 
-his best novel. Such a distinction is not a mere verbal trick; it has to
+his best [[Novel|novel]]. Such a distinction is not a mere verbal trick; it has to
 
 be remembered rather constantly in connection with his work. This
 
@@ -102,7 +102,7 @@ intelligent epicure may find it less adapted to his particular purpose;
 
 but the mind of an intelligent potato would at once admit it as being,
 
-beyond all doubt, a genuine, fully developed specimen of his own
+beyond all [[Doubt|doubt]], a genuine, fully developed specimen of his own
 
 particular species. The same is in some degree true even of literature.
 
@@ -130,9 +130,9 @@ force into order. Like Napoleon, he had a victorious army almost before
 
 he had an army. After his decisive victories Napoleon began to put his
 
-house in order; after his decisive victories Dickens also began to put
+[[house]] in order; after his decisive victories Dickens also began to put
 
-his house in order. The house, when he had put it in order, was _Bleak
+his [[house]] in order. The [[house]], when he had put it in order, was _Bleak
 
 House_.
 
@@ -148,29 +148,29 @@ tales for the very simple reason that they were all about rambling
 
 people. They were novels of adventure; they were even diaries of travel.
 
-Since the hero strayed from place to place, it did not seem unreasonable
+Since the [[Hero|hero]] strayed from place to place, it did not seem unreasonable
 
 that the story should stray from subject to subject. This is true of the
 
 bulk of the novels up to and including _David Copperfield_, up to the
 
-very brink or threshold of _Bleak House_. Mr. Pickwick wanders about on
+very brink or threshold of _Bleak House_. Mr. [[Pickwick]] wanders about on
 
 the white English roads, always looking for antiquities and always
 
-finding novelties. Poor Oliver Twist wanders along the same white roads
+finding novelties. Poor [[Oliver Twist]] wanders along the same white roads
 
-to seek his fortune and to find his misfortune. Nicholas Nickleby goes
+to seek his fortune and to find his misfortune. [[Nicholas Nickleby]] goes
 
-walking across England because he is young and hopeful; Little Nell's
+walking across England because he is young and hopeful; [[Little Nell]]'s
 
 grandfather does the same thing because he is old and silly. There is
 
-not much in common between Samuel Pickwick and Oliver Twist; there is
+not much in common between [[Samuel Pickwick]] and [[Oliver Twist]]; there is
 
-not much in common between Oliver Twist and Nicholas Nickleby; there is
+not much in common between [[Oliver Twist]] and [[Nicholas Nickleby]]; there is
 
-not much in common (let us hope) between Little Nell's grandfather and
+not much in common (let us [[Hope|hope]]) between [[Little Nell]]'s grandfather and
 
 any other human being. But they all have this in common, that they may
 
@@ -178,7 +178,7 @@ actually all have trodden in each other's footprints. They were all
 
 wanderers on the face of the same fair English land. _Martin Chuzzlewit_
 
-was only made popular by the travels of the hero in America. When we
+was only made popular by the travels of the [[Hero|hero]] in [[america|America]]. When we
 
 come to _Dombey and Son_ we find, as I have said, an exception; but even
 
@@ -196,14 +196,14 @@ of a vagabond and a wastrel. The most important point, however, is that
 
 when we come to _David Copperfield_, in some sense the summit of his
 
-serious literature, we find the thing still there. The hero still
+serious literature, we find the thing still there. The [[Hero|hero]] still
 
 wanders from place to place, his genius is still gipsy. The adventures
 
 in the book are less violent and less improbable than those which wait
 
-for Pickwick and Nicholas Nickleby; but they are still adventures and
+for [[Pickwick]] and [[Nicholas Nickleby]]; but they are still adventures and
 
-not merely events; they are still things met on a road. The facts of the
+not merely events; they are still things met on a [[Road|road]]. The facts of the
 
 story fall away from David as such facts do fall away from a traveller

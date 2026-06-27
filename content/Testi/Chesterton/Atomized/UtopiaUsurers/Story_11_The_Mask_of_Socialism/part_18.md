@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 18)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
 scientific revolt against him that was led by Samuel Butler, and among
 
-other things it calls Bernard Shaw a back number. Well, most certainly
+other things it calls Bernard [[Shaw]] a back number. [[Well]], most certainly
 
 "The Origin of Species" is a back number, in so far as any honest and
 
-interesting book ever can be; but in pure philosophy nothing can be
+interesting book ever can be; but in pure [[philosophy]] nothing can be
 
 out of date, since the universe must be a mystery even to the believer.
 
@@ -44,7 +44,7 @@ with the Navy of Holland, because it had once swept the sea and sailed
 
 up the Thames. And I certainly call a man or a movement out of date
 
-that, in the year 1914, when we few are fighting a giant machine,
+that, in the year 1914, when we few are fighting a giant [[Machine|machine]],
 
 strengthened with all material wealth and worked with all the material
 
@@ -52,7 +52,7 @@ sciences, thinks that our chief danger is from an excess of moral and
 
 religious responsibility. He reminds me of Mr. Snodgrass, who had the
 
-presence of mind to call out "Fire!" when Mr. Pickwick fell through the
+presence of mind to call out "[[Fire]]!" when Mr. [[Pickwick]] fell through the
 
 ice.
 
@@ -78,7 +78,7 @@ punished for his acts, but restrained." In forty-eight hours I could
 
 probably get a petition to that effect signed by millionaires. A short
 
-time ago a Bill was introduced to hold irresponsible and "restrain" a
+[[Time|time]] ago a Bill was introduced to hold irresponsible and "restrain" a
 
 whole new class of people, who were "incapable of managing their affairs
 
@@ -90,7 +90,7 @@ see what sort of democrats they were.
 
 Now, clearing our heads of what is called popular science (which means
 
-going to sleep to a lullaby of long words), let us use our own brains a
+going to [[Sleep|sleep]] to a lullaby of long words), let us use our own brains a
 
 little, and ask ourselves what is the real difference between punishing
 
@@ -160,9 +160,9 @@ keepers, and wardens have yet to investigate. The simple result will be
 
 that, in the scientific Utopia of the "Clarion," men like Mann or Syme
 
-or Larkin will not be put in prison because of what they have done.
+or Larkin will not be put in [[Prison|prison]] because of what they have done.
 
-They will be kept in prison because of what they might do. Indeed, the
+They will be kept in [[Prison|prison]] because of what they might do. Indeed, the
 
 builders of the new tyranny have already come very near to avowing
 
@@ -172,7 +172,7 @@ this scientific and futurist method. When the lawyers tried to stop the
 
 know your next week's crime, because it isn't committed yet; but we are
 
-scientifically certain you have the criminal type. And by the sublime
+scientifically certain you have the criminal type. And by the [[Sublime|sublime]]
 
 and unalterable laws of heredity, all your poor little papers will
 
@@ -184,9 +184,9 @@ This is a purely practical question; and that is why I insist on it,
 
 even in such strenuous times. The writers on the "Clarion" have a
 
-perfect right to think Christianity is the foe of freedom, or even
+perfect right to think [[Christianity]] is the foe of [[Freedom|freedom]], or even
 
-that the stupidity and tyranny of the present Government is due to the
+that the stupidity and tyranny of the present [[government|Government]] is due to the
 
 monkish mysticism of Lord Morley and Mr. John M. Robertson. They have a
 

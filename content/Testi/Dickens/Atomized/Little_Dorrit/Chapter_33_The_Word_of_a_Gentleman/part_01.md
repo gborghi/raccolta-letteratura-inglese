@@ -17,12 +17,12 @@ tags:
 CHAPTER 30. The Word of a Gentleman
 
 
-When Mr and Mrs Flintwinch panted up to the door of the old house in the
+When Mr and Mrs Flintwinch panted up to the door of the old [[house]] in the
 twilight, Jeremiah within a second of Affery, the stranger started back.
-‘Death of my soul!’ he exclaimed. ‘Why, how did you get here?’
+‘[[Death]] of my [[Soul|soul]]!’ he exclaimed. ‘Why, how did you get here?’
 
 Mr Flintwinch, to whom these words were spoken, repaid the stranger’s
-wonder in full. He gazed at him with blank astonishment; he looked over
+[[Wonder|wonder]] in full. He gazed at him with blank astonishment; he looked over
 his own shoulder, as expecting to see some one he had not been aware of
 standing behind him; he gazed at the stranger again, speechlessly, at
 a loss to know what he meant; he looked to his wife for explanation;
@@ -46,7 +46,7 @@ relation playfully maintained. Listen! May I suggest that somebody
 up-stairs, in the dark, is becoming energetically curious to know what
 is going on here?’
 
-This reference to Mrs Clennam’s voice reminded Mr Flintwinch to step
+This reference to [[Mrs Clennam]]’s voice reminded Mr Flintwinch to step
 into the hall and call up the staircase. ‘It’s all right, I am here,
 Affery is coming with your light.’ Then he said to the latter
 flustered woman, who was putting her cap on, ‘Get out with you, and get
@@ -60,21 +60,21 @@ propose a candle.’
 you are while I get one.’
 
 The visitor was standing in the doorway, but turned a little into the
-gloom of the house as Mr Flintwinch turned, and pursued him with his
+gloom of the [[house]] as Mr Flintwinch turned, and pursued him with his
 eyes into the little room, where he groped about for a phosphorus box.
 When he found it, it was damp, or otherwise out of order; and match
 after match that he struck into it lighted sufficiently to throw a dull
 glare about his groping face, and to sprinkle his hands with pale little
-spots of fire, but not sufficiently to light the candle. The stranger,
+spots of [[Fire|fire]], but not sufficiently to light the candle. The stranger,
 taking advantage of this fitful illumination of his visage, looked
 intently and wonderingly at him. Jeremiah, when he at last lighted
 the candle, knew he had been doing this, by seeing the last shade of
 a lowering watchfulness clear away from his face, as it broke into the
 doubtful smile that was a large ingredient in its expression.
 
-‘Be so good,’ said Jeremiah, closing the house door, and taking a pretty
+‘Be so good,’ said Jeremiah, closing the [[house]] door, and taking a pretty
 sharp survey of the smiling visitor in his turn, ‘as to step into my
-counting-house.--It’s all right, I tell you!’ petulantly breaking off to
+counting-[[house]].--It’s all right, I tell you!’ petulantly breaking off to
 answer the voice up-stairs, still unsatisfied, though Affery was there,
 speaking in persuasive tones. ‘Don’t I tell you it’s all right? Preserve
 the woman, has she no reason at all in her!’
@@ -87,11 +87,11 @@ sir, let me tell you.’
 
 ‘Though an invalid?’
 
-‘Many years an invalid. Mrs Clennam. The only one of that name left
-in the House now. My partner.’
+‘Many years an invalid. [[Mrs Clennam]]. The only one of that name left
+in the [[house|House]] now. My partner.’
 
 Saying something apologetically as he crossed the hall, to the effect
-that at that time of night they were not in the habit of receiving any
+that at that [[Time|time]] of [[Night|night]] they were not in the habit of receiving any
 one, and were always shut up, Mr Flintwinch led the way into his own
 office, which presented a sufficiently business-like appearance. Here he
 put the light on his desk, and said to the stranger, with his wryest
@@ -102,9 +102,9 @@ twist upon him, ‘Your commands.’
 ‘Blandois. I don’t know it,’ said Jeremiah.
 
 ‘I thought it possible,’ resumed the other, ‘that you might have been
-advised from Paris--’
+advised from [[Paris]]--’
 
-‘We have had no advice from Paris respecting anybody of the name of
+‘We have had no advice from [[Paris]] respecting anybody of the name of
 Blandois,’ said Jeremiah.
 
 ‘No?’
@@ -119,7 +119,7 @@ were too near together:
 ‘You are so like a friend of mine! Not so identically the same as I
 supposed when I really did for the moment take you to be the same in the
 dusk--for which I ought to apologise; permit me to do so; a readiness
-to confess my errors is, I hope, a part of the frankness of my
+to confess my errors is, I [[Hope|hope]], a part of the frankness of my
 character--still, however, uncommonly like.’
 
 ‘Indeed?’ said Jeremiah, perversely. ‘But I have not received any letter
@@ -130,17 +130,17 @@ of advice from anywhere respecting anybody of the name of Blandois.’
 ‘_Just_ so,’ said Jeremiah.
 
 Mr Blandois, not at all put out by this omission on the part of the
-correspondents of the house of Clennam and Co., took his pocket-book
+correspondents of the [[house]] of Clennam and Co., took his pocket-book
 from his breast-pocket, selected a letter from that receptacle, and
-handed it to Mr Flintwinch. ‘No doubt you are well acquainted with the
+handed it to Mr Flintwinch. ‘No [[Doubt|doubt]] you are [[Well|well]] acquainted with the
 writing. Perhaps the letter speaks for itself, and requires no advice.
 You are a far more competent judge of such affairs than I am. It is my
 misfortune to be, not so much a man of business, as what the world calls
 (arbitrarily) a gentleman.’
 
-Mr Flintwinch took the letter, and read, under date of Paris, ‘We have
+Mr Flintwinch took the letter, and read, under date of [[Paris]], ‘We have
 to present to you, on behalf of a highly esteemed correspondent of our
-Firm, M. Blandois, of this city,’ &c. &c. ‘Such facilities as he may
+Firm, M. Blandois, of this [[City|city]],’ &c. &c. ‘Such facilities as he may
 require and such attentions as may lie in your power,’ &c. &c. ‘Also
-have to add that if you will honour M. Blandois’ drafts at sight to the
+have to add that if you will [[Honour|honour]] M. Blandois’ drafts at sight to the
 extent of, say Fifty Pounds sterling (50_l_.),’ &c. &c.

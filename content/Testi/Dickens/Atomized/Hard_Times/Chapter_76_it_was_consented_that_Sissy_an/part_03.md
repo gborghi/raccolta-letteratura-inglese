@@ -23,7 +23,7 @@ yourself!’
 The father buried his face in his hands, and the son stood in his
 disgraceful grotesqueness, biting straw: his hands, with the black partly
 worn away inside, looking like the hands of a monkey.  The evening was
-fast closing in; and from time to time, he turned the whites of his eyes
+fast closing in; and from [[Time|time]] to [[Time|time]], he turned the whites of his eyes
 restlessly and impatiently towards his father.  They were the only parts
 of his face that showed any life or expression, the pigment upon it was
 so thick.
@@ -37,7 +37,7 @@ thing.’
 Mr. Gradgrind went to the door, and returned with Sleary, to whom he
 submitted the question, How to get this deplorable object away?
 
-‘Why, I’ve been thinking of it, Thquire.  There’th not muth time to
+‘Why, I’ve been thinking of it, Thquire.  There’th not muth [[Time|time]] to
 lothe, tho you muth thay yeth or no.  Ith over twenty mileth to the rail.
 There’th a coath in half an hour, that goeth _to_ the rail, ‘purpothe to
 cath the mail train.  That train will take him right to Liverpool.’
@@ -70,18 +70,18 @@ shocking action you have committed, and the dreadful consequences to
 which it has led.  Give me your hand, my poor boy, and may God forgive
 you as I do!’
 
-The culprit was moved to a few abject tears by these words and their
+The culprit was moved to a few abject [[Tears|tears]] by these words and their
 pathetic tone.  But, when Louisa opened her arms, he repulsed her afresh.
 
 ‘Not you.  I don’t want to have anything to say to you!’
 
-‘O Tom, Tom, do we end so, after all my love!’
+‘O Tom, Tom, do we end so, after all my [[Love|love]]!’
 
-‘After all your love!’ he returned, obdurately.  ‘Pretty love!  Leaving
+‘After all your [[Love|love]]!’ he returned, obdurately.  ‘Pretty [[Love|love]]!  Leaving
 old Bounderby to himself, and packing my best friend Mr. Harthouse off,
-and going home just when I was in the greatest danger.  Pretty love that!
+and going [[Home|home]] just when I was in the greatest danger.  Pretty [[Love|love]] that!
 Coming out with every word about our having gone to that place, when you
-saw the net was gathering round me.  Pretty love that!  You have
+saw the net was gathering round me.  Pretty [[Love|love]] that!  You have
 regularly given me up.  You never cared for me.’
 
 ‘Tharp’th the word!’ said Sleary, at the door.
@@ -96,12 +96,12 @@ For, there was Bitzer, out of breath, his thin lips parted, his thin
 nostrils distended, his white eyelashes quivering, his colourless face
 more colourless than ever, as if he ran himself into a white heat, when
 other people ran themselves into a glow.  There he stood, panting and
-heaving, as if he had never stopped since the night, now long ago, when
+heaving, as if he had never stopped since the [[Night|night]], now long ago, when
 he had run them down before.
 
 ‘I’m sorry to interfere with your plans,’ said Bitzer, shaking his head,
-‘but I can’t allow myself to be done by horse-riders.  I must have young
-Mr. Tom; he mustn’t be got away by horse-riders; here he is in a smock
+‘but I can’t allow myself to be done by [[Horse|horse]]-riders.  I must have young
+Mr. Tom; he mustn’t be got away by [[Horse|horse]]-riders; here he is in a smock
 frock, and I must have him!’
 
 By the collar, too, it seemed.  For, so he took possession of him.

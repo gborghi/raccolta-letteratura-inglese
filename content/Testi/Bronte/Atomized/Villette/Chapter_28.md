@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 27"
+title: "[[Villette]] — Chapter 27"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -21,7 +21,7 @@ THE HÔTEL CRÉCY.
 The morrow turned out a more lively and busy day than we—or than I, at
 least—had anticipated. It seems it was the birthday of one of the young
 princes of Labassecour—the eldest, I think, the Duc de Dindonneau, and
-a general holiday was given in his honour at the schools, and
+a general holiday was given in his [[Honour|honour]] at the schools, and
 especially at the principal “Athénée,” or college. The youth of that
 institution had also concocted, and were to present a loyal address;
 for which purpose they were to be assembled in the public building
@@ -31,7 +31,7 @@ distributed. After the ceremony of presentation, an oration, or
 
 Several of M. de Bassompierre’s friends—the savants—being more or less
 connected with the Athénée, they were expected to attend on this
-occasion; together with the worshipful municipality of Villette, M. le
+occasion; together with the worshipful municipality of [[Villette]], M. le
 Chevalier Staas, the burgomaster, and the parents and kinsfolk of the
 Athenians in general. M. de Bassompierre was engaged by his friends to
 accompany them; his fair daughter would, of course, be of the party,
@@ -56,17 +56,17 @@ have suited me at all.”
 undisguised and unsophisticated curiosity, as made me laugh in my turn.
 
 “You used to call yourself a nursery governess; when you first came
-here you really had the care of the children in this house: I have seen
+here you really had the care of the children in this [[house]]: I have seen
 you carry little Georgette in your arms, like a bonne—few governesses
-would have condescended so far—and now Madame Beck treats you with more
+would have condescended so far—and now [[Madame Beck]] treats you with more
 courtesy than she treats the Parisienne, St. Pierre; and that proud
 chit, my cousin, makes you her bosom friend!”
 
-“Wonderful!” I agreed, much amused at her mystification. “Who am I
+“Wonderful!” I agreed, much amused at her [[Mystification|mystification]]. “Who am I
 indeed? Perhaps a personage in disguise. Pity I don’t look the
 character.”
 
-“I wonder you are not more flattered by all this,” she went on; “you
+“I [[Wonder|wonder]] you are not more flattered by all this,” she went on; “you
 take it with strange composure. If you really are the nobody I once
 thought you, you must be a cool hand.”
 
@@ -86,7 +86,7 @@ confusion?”
 “I would rather not: we will walk side by side.”
 
 When she took my arm, she always leaned upon me her whole weight; and,
-as I was not a gentleman, or her lover, I did not like it.
+as I was not a gentleman, or her [[Lover|lover]], I did not like it.
 
 “There, again!” she cried. “I thought, by offering to take your arm, to
 intimate approbation of your dress and general appearance: I meant it
@@ -94,7 +94,7 @@ as a compliment.”
 
 “You did? You meant, in short, to express that you are not ashamed to
 be seen in the street with me? That if Mrs. Cholmondeley should be
-fondling her lapdog at some window, or Colonel de Hamal picking his
+fondling her lapdog at some [[Window|window]], or Colonel de Hamal picking his
 teeth in a balcony, and should catch a glimpse of us, you would not
 quite blush for your companion?”
 
@@ -113,10 +113,10 @@ square, and entered the quiet, pleasant park, our nearest way to the
 Rue Crécy. “Nobody in this world was ever such a Turk to me as you
 are!”
 
-“You bring it on yourself: let me alone: have the sense to be quiet: I
-will let you alone.”
+“You bring it on yourself: let me [[Alone|alone]]: have the sense to be quiet: I
+will let you [[Alone|alone]].”
 
-“As if one _could_ let you alone, when you are so peculiar and so
+“As if one _could_ let you [[Alone|alone]], when you are so peculiar and so
 mysterious!”
 
 “The mystery and peculiarity being entirely the conception of your own
@@ -135,7 +135,7 @@ with ludicrous tenacity to the wise notion of an incognito she had got
 hold of; and she squeezed the arm of which she had now obtained full
 possession, and coaxed and conjured till I was obliged to pause in the
 park to laugh. Throughout our walk she rang the most fanciful changes
-on this theme; proving, by her obstinate credulity, or incredulity, her
+on this theme; proving, by her obstinate credulity, or [[Incredulity|incredulity]], her
 incapacity to conceive how any person not bolstered up by birth or
 wealth, not supported by some consciousness of name or connection,
 could maintain an attitude of reasonable integrity. As for me, it quite
@@ -147,12 +147,12 @@ third-class lodgers—to whom could be assigned only the small
 sitting-room and the little back bedroom: even if the dining and
 drawing-rooms stood empty, I never confessed it to them, as thinking
 minor accommodations better suited to their circumstances. The world, I
-soon learned, held a different estimate: and I make no doubt, the world
+soon learned, held a different estimate: and I make no [[Doubt|doubt]], the world
 is very right in its view, yet believe also that I am not quite wrong
 in mine.
 
 There are people whom a lowered position degrades morally, to whom loss
-of connection costs loss of self-respect: are not these justified in
+of connection costs loss of [[Self|self]]-respect: are not these justified in
 placing the highest value on that station and association which is
 their safeguard from debasement? If a man feels that he would become
 contemptible in his own eyes were it generally known that his ancestry
@@ -165,28 +165,28 @@ conduct, to question the world’s wisdom: wherever an accumulation of
 small defences is found, whether surrounding the prude’s virtue or the
 man of the world’s respectability, there, be sure, it is needed.
 
-We reached the Hôtel Crécy; Paulina was ready; Mrs. Bretton was with
+We reached the Hôtel Crécy; [[Paulina]] was ready; Mrs. Bretton was with
 her; and, under her escort and that of M. de Bassompierre, we were soon
 conducted to the place of assembly, and seated in good seats, at a
 convenient distance from the Tribune. The youth of the Athénée were
 marshalled before us, the municipality and their bourgmestre were in
-places of honour, the young princes, with their tutors, occupied a
-conspicuous position, and the body of the building was crowded with the
+places of [[Honour|honour]], the young princes, with their tutors, occupied a
+conspicuous position, and the [[Body|body]] of the building was crowded with the
 aristocracy and first burghers of the town.
 
-Concerning the identity of the professor by whom the “discours” was to
+Concerning the [[Identity|identity]] of [[The Professor|the professor]] by whom the “discours” was to
 be delivered, I had as yet entertained neither care nor question. Some
 vague expectation I had that a savant would stand up and deliver a
 formal speech, half dogmatism to the Athenians, half flattery to the
 princes.
 
 The Tribune was yet empty when we entered, but in ten minutes after it
-was filled; suddenly, in a second of time, a head, chest, and arms grew
+was filled; suddenly, in a second of [[Time|time]], a head, chest, and arms grew
 above the crimson desk. This head I knew: its colour, shape, port,
 expression, were familiar both to me and Miss Fanshawe; the blackness
 and closeness of cranium, the amplitude and paleness of brow, the
-blueness and fire of glance, were details so domesticated in the
-memory, and so knit with many a whimsical association, as almost by
+blueness and [[Fire|fire]] of glance, were details so domesticated in the
+[[Memory|memory]], and so knit with many a whimsical association, as almost by
 this their sudden apparition, to tickle fancy to a laugh. Indeed, I
 confess, for my part, I did laugh till I was warm; but then I bent my
 head, and made my handkerchief and a lowered veil the sole confidants
@@ -213,15 +213,15 @@ could yield political convictions and national feelings, such as were
 now strongly expressed? Of the bearing of his opinions I need here give
 no special indication; yet it may be permitted me to say that I
 believed the little man not more earnest than right in what he said:
-with all his fire he was severe and sensible; he trampled Utopian
-theories under his heel; he rejected wild dreams with scorn;—but when
+with all his [[Fire|fire]] he was severe and sensible; he trampled Utopian
+theories under his heel; he rejected wild [[Dreams|dreams]] with scorn;—but when
 he looked in the face of tyranny—oh, then there opened a light in his
 eye worth seeing; and when he spoke of injustice, his voice gave no
 uncertain sound, but reminded me rather of the band-trumpet, ringing at
 twilight from the park.
 
 I do not think his audience were generally susceptible of sharing his
-flame in its purity; but some of the college youth caught fire as he
+flame in its purity; but some of the college youth caught [[Fire|fire]] as he
 eloquently told them what should be their path and endeavour in their
 country’s and in Europe’s future. They gave him a long, loud, ringing
 cheer, as he concluded: with all his fierceness, he was their favourite
@@ -231,10 +231,10 @@ As our party left the Hall, he stood at the entrance; he saw and knew
 me, and lifted his hat; he offered his hand in passing, and uttered the
 words “Qu’en dites vous?”—question eminently characteristic, and
 reminding me, even in this his moment of triumph, of that inquisitive
-restlessness, that absence of what I considered desirable self-control,
+restlessness, that absence of what I considered desirable [[Self|self]]-control,
 which were amongst his faults. He should not have cared just then to
 ask what I thought, or what anybody thought, but he _did_ care, and he
-was too natural to conceal, too impulsive to repress his wish. Well! if
+was too natural to conceal, too impulsive to repress his wish. [[Well]]! if
 I blamed his over-eagerness, I liked his _naiveté_. I would have
 praised him: I had plenty of praise in my heart; but, alas! no words on
 my lips. Who _has_ words at the right moment? I stammered some lame
@@ -251,23 +251,23 @@ enough to discover as one advanced in knowledge of his character; he
 promised, however, to step in with his friend, M. A——, a French
 Academician, in the course of the evening.
 
-At dinner that day, Ginevra and Paulina each looked, in her own way,
+At dinner that day, Ginevra and [[Paulina]] each looked, in her own way,
 very beautiful; the former, perhaps, boasted the advantage in material
 charms, but the latter shone pre-eminent for attractions more subtle
 and spiritual: for light and eloquence of eye, for grace of mien, for
 winning variety of expression. Ginevra’s dress of deep crimson relieved
-well her light curls, and harmonized with her rose-like bloom.
-Paulina’s attire—in fashion close, though faultlessly neat, but in
+[[Well|well]] her light curls, and harmonized with her [[Rose|rose]]-like bloom.
+[[Paulina]]’s attire—in fashion close, though faultlessly neat, but in
 texture clear and white—made the eye grateful for the delicate life of
 her complexion, for the soft animation of her countenance, for the
-tender depth of her eyes, for the brown shadow and bounteous flow of
+tender depth of her eyes, for the brown [[Shadow|shadow]] and bounteous flow of
 her hair—darker than that of her Saxon cousin, as were also her
 eyebrows, her eyelashes, her full irids, and large mobile pupils.
-Nature having traced all these details slightly, and with a careless
+[[Nature]] having traced all these details slightly, and with a careless
 hand, in Miss Fanshawe’s case; and in Miss de Bassompierre’s, wrought
 them to a high and delicate finish.
 
-Paulina was awed by the savants, but not quite to mutism: she conversed
+[[Paulina]] was awed by the savants, but not quite to mutism: she conversed
 modestly, diffidently; not without effort, but with so true a
 sweetness, so fine and penetrating a sense, that her father more than
 once suspended his own discourse to listen, and fixed on her an eye of
@@ -308,46 +308,46 @@ dashed at it with spirit. Dr. Bretton entering, one of the first, took
 up his station beside her. I thought he would not long maintain that
 post: there was a position near the hearth to which I expected to see
 him attracted: this position he only scanned with his eye; while _he_
-looked, others drew in. The grace and mind of Paulina charmed these
-thoughtful Frenchmen: the fineness of her beauty, the soft courtesy of
+looked, others drew in. The grace and mind of [[Paulina]] charmed these
+thoughtful Frenchmen: the fineness of her [[Beauty|beauty]], the soft courtesy of
 her manner, her immature, but real and inbred tact, pleased their
 national taste; they clustered about her, not indeed to talk science;
 which would have rendered her dumb, but to touch on many subjects in
 letters, in arts, in actual life, on which it soon appeared that she
 had both read and reflected. I listened. I am sure that though Graham
-stood aloof, he listened too: his hearing as well as his vision was
+stood aloof, he listened too: his hearing as [[Well|well]] as his vision was
 very fine, quick, discriminating. I knew he gathered the conversation;
 I felt that the mode in which it was sustained suited him
-exquisitely—pleased him almost to pain.
+exquisitely—pleased him almost to [[Pain|pain]].
 
-In Paulina there was more force, both of feeling and character; than
+In [[Paulina]] there was more force, both of feeling and character; than
 most people thought—than Graham himself imagined—than she would ever
-show to those who did not wish to see it. To speak truth, reader, there
-is no excellent beauty, no accomplished grace, no reliable refinement,
-without strength as excellent, as complete, as trustworthy. As well
+show to those who did not wish to see it. To speak [[Truth|truth]], reader, there
+is no excellent [[Beauty|beauty]], no accomplished grace, no reliable refinement,
+without strength as excellent, as complete, as trustworthy. As [[Well|well]]
 might you look for good fruit and blossom on a rootless and sapless
-tree, as for charms that will endure in a feeble and relaxed nature.
-For a little while, the blooming semblance of beauty may flourish round
+tree, as for charms that will endure in a feeble and relaxed [[Nature|nature]].
+For a little while, the blooming semblance of [[Beauty|beauty]] may flourish round
 weakness; but it cannot bear a blast: it soon fades, even in serenest
 sunshine. Graham would have started had any suggestive spirit whispered
-of the sinew and the stamina sustaining that delicate nature; but I who
-had known her as a child, knew or guessed by what a good and strong
+of the sinew and the stamina sustaining that delicate [[Nature|nature]]; but I who
+had known her as a [[Child|child]], knew or guessed by what a good and strong
 root her graces held to the firm soil of reality.
 
-While Dr. Bretton listened, and waited an opening in the magic circle,
+While Dr. Bretton listened, and waited an opening in the [[Magic|magic]] circle,
 his glance restlessly sweeping the room at intervals, lighted by chance
 on me, where I sat in a quiet nook not far from my godmother and M. de
-Bassompierre, who, as usual, were engaged in what Mr. Home called “a
+Bassompierre, who, as usual, were engaged in what Mr. [[Home]] called “a
 two-handed crack:” what the Count would have interpreted as a
 tête-à-tête. Graham smiled recognition, crossed the room, asked me how
 I was, told me I looked pale. I also had my own smile at my own
 thought: it was now about three months since Dr. John had spoken to
 me—a lapse of which he was not even conscious. He sat down, and became
-silent. His wish was rather to look than converse. Ginevra and Paulina
+silent. His wish was rather to look than converse. Ginevra and [[Paulina]]
 were now opposite to him: he could gaze his fill: he surveyed both
 forms—studied both faces.
 
-Several new guests, ladies as well as gentlemen, had entered the room
+Several new guests, ladies as [[Well|well]] as gentlemen, had entered the room
 since dinner, dropping in for the evening conversation; and amongst the
 gentlemen, I may incidentally observe, I had already noticed by
 glimpses, a severe, dark, professorial outline, hovering aloof in an
@@ -359,12 +359,12 @@ also, he changed his mind and held back. If that had been all, there
 would have been no cause for quarrel; but not satisfied with holding
 back, he puckered up his eyebrows, protruded his lip, and looked so
 ugly that I averted my eyes from the displeasing spectacle. M. Joseph
-Emanuel had arrived, as well as his austere brother, and at this very
+Emanuel had arrived, as [[Well|well]] as his austere brother, and at this very
 moment was relieving Ginevra at the piano. What a master-touch
 succeeded her school-girl jingle! In what grand, grateful tones the
-instrument acknowledged the hand of the true artist!
+instrument acknowledged the hand of the true [[artist]]!
 
-“Lucy,” began Dr. Bretton, breaking silence and smiling, as Ginevra
+“Lucy,” began Dr. Bretton, breaking [[Silence|silence]] and smiling, as Ginevra
 glided before him, casting a glance as she passed by, “Miss Fanshawe is
 certainly a fine girl.”
 
@@ -395,9 +395,9 @@ a soon-depressed, an easily-deranged temperament—it fell if a cloud
 crossed the sun. Perhaps before the eye of severe equity I should stand
 more at fault than you.
 
-Trying, then, to keep down the unreasonable pain which thrilled my
+Trying, then, to keep down the unreasonable [[Pain|pain]] which thrilled my
 heart, on thus being made to feel that while Graham could devote to
-others the most grave and earnest, the manliest interest, he had no
+others the most [[Grave|grave]] and earnest, the manliest interest, he had no
 more than light raillery for Lucy, the friend of lang syne, I inquired
 calmly,—“On what points are we so closely in accordance?”
 
@@ -420,27 +420,27 @@ A—— and Z——.”
 “I think she is, as you say, a pale little lady—pale, certainly, just
 now, when she is fatigued with over-excitement.”
 
-“You don’t remember her as a child?”
+“You don’t remember her as a [[Child|child]]?”
 
-“I wonder, sometimes, whether you do.”
+“I [[Wonder|wonder]], sometimes, whether you do.”
 
 “I had forgotten her; but it is noticeable, that circumstances,
-persons, even words and looks, that had slipped your memory, may, under
+persons, even words and looks, that had slipped your [[Memory|memory]], may, under
 certain conditions, certain aspects of your own or another’s mind,
 revive.”
 
 “That is possible enough.”
 
 “Yet,” he continued, “the revival is imperfect—needs confirmation,
-partakes so much of the dim character of a dream, or of the airy one of
+partakes so much of the dim character of [[A Dream|a dream]], or of the airy one of
 a fancy, that the testimony of a witness becomes necessary for
 corroboration. Were you not a guest at Bretton ten years ago, when Mr.
-Home brought his little girl, whom we then called ‘little Polly,’ to
+[[Home]] brought his little girl, whom we then called ‘little Polly,’ to
 stay with mamma?”
 
-“I was there the night she came, and also the morning she went away.”
+“I was there the [[Night|night]] she came, and also the morning she went away.”
 
-“Rather a peculiar child, was she not? I wonder how I treated her. Was
+“Rather a peculiar [[Child|child]], was she not? I [[Wonder|wonder]] how I treated her. Was
 I fond of children in those days? Was there anything gracious or kindly
 about me—great, reckless, schoolboy as I was? But you don’t recollect
 me, of course?”
@@ -458,17 +458,17 @@ instance.”
 
 “A brute! No, Graham: I should never have patiently endured brutality.”
 
-“_This_, however, I _do_ remember: quiet Lucy Snowe tasted nothing of
+“_This_, however, I _do_ remember: quiet [[Lucy Snowe]] tasted nothing of
 my grace.”
 
 “As little of your cruelty.”
 
 “Why, had I been Nero himself, I could not have tormented a being
-inoffensive as a shadow.”
+inoffensive as a [[Shadow|shadow]].”
 
 I smiled; but I also hushed a groan. Oh!—I just wished he would let me
-alone—cease allusion to me. These epithets—these attributes I put from
-me. His “quiet Lucy Snowe,” his “inoffensive shadow,” I gave him back;
+[[Alone|alone]]—cease allusion to me. These epithets—these attributes I put from
+me. His “quiet [[Lucy Snowe]],” his “inoffensive [[Shadow|shadow]],” I gave him back;
 not with scorn, but with extreme weariness: theirs was the coldness and
 the pressure of lead; let him whelm me with no such weight. Happily, he
 was soon on another theme.
@@ -476,19 +476,19 @@ was soon on another theme.
 “On what terms were ‘little Polly’ and I? Unless my recollections
 deceive me, we were not foes—”
 
-“You speak very vaguely. Do you think little Polly’s memory, not more
+“You speak very vaguely. Do you think little Polly’s [[Memory|memory]], not more
 definite?”
 
 “Oh! we don’t talk of ‘little Polly’ _now_. Pray say, Miss de
 Bassompierre; and, of course, such a stately personage remembers
 nothing of Bretton. Look at her large eyes, Lucy; can they read a word
-in the page of memory? Are they the same which I used to direct to a
+in the page of [[Memory|memory]]? Are they the same which I used to direct to a
 horn-book? She does not know that I partly taught her to read.”
 
-“In the Bible on Sunday nights?”
+“In the [[Bible]] on [[Sunday]] nights?”
 
 “She has a calm, delicate, rather fine profile now: once what a little
-restless, anxious countenance was hers! What a thing is a child’s
+restless, anxious countenance was hers! What a thing is a [[Child|child]]’s
 preference—what a bubble! Would you believe it? that lady was fond of
 me!”
 
@@ -499,7 +499,7 @@ liked me the best of whatever there was at Bretton.”
 
 “You thought so.”
 
-“I quite well recall it. I wish I could tell her all I recall; or
+“I quite [[Well|well]] recall it. I wish I could tell her all I recall; or
 rather, I wish some one, you for instance, would go behind and whisper
 it all in her ear, and I could have the delight—here, as I sit—of
 watching her look under the intelligence. Could you manage that, think
@@ -507,17 +507,17 @@ you, Lucy, and make me ever grateful?”
 
 “Could I manage to make you ever grateful?” said I. “No, _I could
 not_.” And I felt my fingers work and my hands interlock: I felt, too,
-an inward courage, warm and resistant. In this matter I was not
+an inward [[Courage|courage]], warm and resistant. In this matter I was not
 disposed to gratify Dr. John: not at all. With now welcome force, I
-realized his entire misapprehension of my character and nature. He
-wanted always to give me a role not mine. Nature and I opposed him. He
+realized his entire misapprehension of my character and [[Nature|nature]]. He
+wanted always to give me a role not mine. [[Nature]] and I opposed him. He
 did not at all guess what I felt: he did not read my eyes, or face, or
-gestures; though, I doubt not, all spoke. Leaning towards me coaxingly,
+gestures; though, I [[Doubt|doubt]] not, all spoke. Leaning towards me coaxingly,
 he said, softly, “_Do_ content me, Lucy.”
 
 And I would have contented, or, at least, I would clearly have
-enlightened him, and taught him well never again to expect of me the
-part of officious soubrette in a love drama; when, following his, soft,
+enlightened him, and taught him [[Well|well]] never again to expect of me the
+part of officious soubrette in a [[Love|love]] drama; when, following his, soft,
 eager, murmur, meeting almost his pleading, mellow—“_Do_ content me,
 Lucy!” a sharp hiss pierced my ear on the other side.
 
@@ -534,11 +534,11 @@ The worst of the matter was, that Dr. Bretton, whose ears, as I have
 said, were quick and fine, caught every word of this apostrophe; he put
 his handkerchief to his face, and laughed till he shook.
 
-“Well done, Lucy,” cried he; “capital! petite chatte, petite coquette!
+“[[Well]] done, Lucy,” cried he; “capital! petite chatte, petite coquette!
 Oh, I must tell my mother! Is it true, Lucy, or half-true? I believe it
 is: you redden to the colour of Miss Fanshawe’s gown. And really, by my
 word, now I examine him, that is the same little man who was so savage
-with you at the concert: the very same, and in his soul he is frantic
+with you at the concert: the very same, and in his [[Soul|soul]] he is frantic
 at this moment because he sees me laughing. Oh! I must tease him.”
 
 And Graham, yielding to his bent for mischief, laughed, jested, and
@@ -547,43 +547,43 @@ whispered on till I could bear no more, and my eyes filled.
 Suddenly he was sobered: a vacant space appeared near Miss de
 Bassompierre; the circle surrounding her seemed about to dissolve. This
 movement was instantly caught by Graham’s eye—ever-vigilant, even while
-laughing; he rose, took his courage in both hands, crossed the room,
+laughing; he [[Rose|rose]], took his [[Courage|courage]] in both hands, crossed the room,
 and made the advantage his own. Dr. John, throughout his whole life,
-was a man of luck—a man of success. And why? Because he had the eye to
-see his opportunity, the heart to prompt to well-timed action, the
-nerve to consummate a perfect work. And no tyrant-passion dragged him
-back; no enthusiasms, no foibles encumbered his way. How well he looked
-at this very moment! When Paulina looked up as he reached her side, her
+was a man of luck—a man of [[success]]. And why? Because he had the eye to
+see his opportunity, the heart to prompt to [[Well|well]]-timed action, the
+nerve to consummate a perfect work. And no [[Tyrant|tyrant]]-passion dragged him
+back; no enthusiasms, no foibles encumbered his way. How [[Well|well]] he looked
+at this very moment! When [[Paulina]] looked up as he reached her side, her
 glance mingled at once with an encountering glance, animated, yet
 modest; his colour, as he spoke to her, became half a blush, half a
 glow. He stood in her presence brave and bashful: subdued and
 unobtrusive, yet decided in his purpose and devoted in his ardour. I
-gathered all this by one view. I did not prolong my observation—time
-failed me, had inclination served: the night wore late; Ginevra and I
-ought already to have been in the Rue Fossette. I rose, and bade
-good-night to my godmother and M. de Bassompierre.
+gathered all this by one view. I did not prolong my observation—[[Time|time]]
+failed me, had inclination served: the [[Night|night]] wore late; Ginevra and I
+ought already to have been in the Rue Fossette. I [[Rose|rose]], and bade
+good-[[Night|night]] to my godmother and M. de Bassompierre.
 
 I know not whether Professor Emanuel had noticed my reluctant
 acceptance of Dr. Bretton’s badinage, or whether he perceived that I
 was pained, and that, on the whole, the evening had not been one flow
 of exultant enjoyment for the volatile, pleasure-loving Mademoiselle
 Lucie; but, as I was leaving the room, he stepped up and inquired
-whether I had any one to attend me to the Rue Fossette. The professor
+whether I had any one to attend me to the Rue Fossette. [[The Professor|The professor]]
 _now_ spoke politely, and even deferentially, and he looked apologetic
 and repentant; but I could not recognise his civility at a word, nor
 meet his contrition with crude, premature oblivion. Never hitherto had
 I felt seriously disposed to resent his brusqueries, or freeze before
-his fierceness; what he had said to-night, however, I considered
+his fierceness; what he had said to-[[Night|night]], however, I considered
 unwarranted: my extreme disapprobation of the proceeding must be
 marked, however slightly. I merely said:—“I am provided with
 attendance.”
 
-Which was true, as Ginevra and I were to be sent home in the carriage;
+Which was true, as Ginevra and I were to be sent [[Home|home]] in the carriage;
 and I passed him with the sliding obeisance with which he was wont to
 be saluted in classe by pupils crossing his estrade.
 
 Having sought my shawl, I returned to the vestibule. M. Emanuel stood
-there as if waiting. He observed that the night was fine.
+there as if waiting. He observed that the [[Night|night]] was fine.
 
 “Is it?” I said, with a tone and manner whose consummate chariness and
 frostiness I could not but applaud. It was so seldom I could properly
@@ -591,7 +591,7 @@ act out my own resolution to be reserved and cool where I had been
 grieved or hurt, that I felt almost proud of this one successful
 effort. That “Is it?” sounded just like the manner of other people. I
 had heard hundreds of such little minced, docked, dry phrases, from the
-pursed-up coral lips of a score of self-possessed, self-sufficing
+pursed-up coral lips of a score of [[Self|self]]-possessed, [[Self|self]]-sufficing
 misses and mesdemoiselles. That M. Paul would not stand any prolonged
 experience of this sort of dialogue I knew; but he certainly merited a
 sample of the curt and arid. I believe he thought so himself, for he
@@ -606,7 +606,7 @@ still there; my ear expected from his lips an angry tone. He came
 nearer. “Now for another hiss!” thought I: had not the action been too
 uncivil I could have stopped my ears with my fingers in terror of the
 thrill. Nothing happens as we expect: listen for a coo or a murmur; it
-is then you will hear a cry of prey or pain. Await a piercing shriek,
+is then you will hear a cry of prey or [[Pain|pain]]. Await a piercing shriek,
 an angry threat, and welcome an amicable greeting, a low kind whisper.
 M. Paul spoke gently:—“Friends,” said he, “do not quarrel for a word.
 Tell me, was it I or ce grand fat d’Anglais” (so he profanely
@@ -615,7 +615,7 @@ so hot as they are even now?”
 
 “I am not conscious of you, monsieur, or of any other having excited
 such emotion as you indicate,” was my answer; and in giving it, I again
-surpassed my usual self, and achieved a neat, frosty falsehood.
+surpassed my usual [[Self|self]], and achieved a neat, frosty falsehood.
 
 “But what did I say?” he pursued; “tell me: I was angry: I have
 forgotten my words; what were they?”
@@ -659,12 +659,12 @@ he called a smile, but any illuminated sign of milder or warmer
 feelings struck me as wholly new in his visage. It changed it as from a
 mask to a face: the deep lines left his features; the very complexion
 seemed clearer and fresher; that swart, sallow, southern darkness which
-spoke his Spanish blood, became displaced by a lighter hue. I know not
+spoke his Spanish [[Blood|blood]], became displaced by a lighter hue. I know not
 that I have ever seen in any other human face an equal metamorphosis
 from a similar cause. He now took me to the carriage: at the same
 moment M. de Bassompierre came out with his niece.
 
-In a pretty humour was Mistress Fanshawe; she had found the evening a
+In a pretty [[Humour|humour]] was Mistress Fanshawe; she had found the evening a
 grand failure: completely upset as to temper, she gave way to the most
 uncontrolled moroseness as soon as we were seated, and the
 carriage-door closed. Her invectives against Dr. Bretton had something
@@ -672,18 +672,18 @@ venomous in them. Having found herself impotent either to charm or
 sting him, hatred was her only resource; and this hatred she expressed
 in terms so unmeasured and proportion so monstrous, that, after
 listening for a while with assumed stoicism, my outraged sense of
-justice at last and suddenly caught fire. An explosion ensued: for I
+justice at last and suddenly caught [[Fire|fire]]. An explosion ensued: for I
 could be passionate, too; especially with my present fair but faulty
-associate, who never failed to stir the worst dregs of me. It was well
+associate, who never failed to stir the worst dregs of me. It was [[Well|well]]
 that the carriage-wheels made a tremendous rattle over the flinty
 Choseville pavement, for I can assure the reader there was neither dead
-silence nor calm discussion within the vehicle. Half in earnest, half
-in seeming, I made it my business to storm down Ginevra. She had set
+[[Silence|silence]] nor calm discussion within the vehicle. Half in earnest, half
+in seeming, I made it my business to [[Storm|storm]] down Ginevra. She had set
 out rampant from the Rue Crécy; it was necessary to tame her before we
 reached the Rue Fossette: to this end it was indispensable to show up
 her sterling value and high deserts; and this must be done in language
 of which the fidelity and homeliness might challenge comparison with
 the compliments of a John Knox to a Mary Stuart. This was the right
 discipline for Ginevra; it suited her. I am quite sure she went to bed
-that night all the better and more settled in mind and mood, and slept
+that [[Night|night]] all the better and more settled in mind and mood, and slept
 all the more sweetly for having undergone a sound moral drubbing.

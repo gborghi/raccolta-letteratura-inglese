@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of Silence (part 3)"
+title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -49,7 +49,7 @@ individual with humor, two political arts that seemed to come to him
 
 naturally. He certainly knew much more about rural problems than
 
-either Hughes, the Reform candidate, or Verner, the Constitutional
+either Hughes, the [[Reform]] candidate, or Verner, the Constitutional
 
 candidate. And he probed those problems with a human curiosity, and
 
@@ -67,9 +67,9 @@ the little local public houses, crafts half forgotten that had come
 
 down by sign of hand and tongue from remote ages when their fathers
 
-were free—all this created a curious and double excitement. It
+were free—all this created a curious and [[Double|double]] excitement. It
 
-startled the well informed by being a new and fantastic idea they
+startled the [[Well|well]] informed by being a new and fantastic idea they
 
 had never encountered. It startled the ignorant by being an old and
 
@@ -77,7 +77,7 @@ familiar idea they never thought to have seen revived. Men saw
 
 things in a new light, and knew not even whether it was the sunset
 
-or the dawn.
+or the [[Dawn|dawn]].
 Practical grievances were there to make the movement formidable. As
 
 Fisher went to and fro among the cottages and country inns, it was
@@ -88,7 +88,7 @@ very bad landlord. Nor was the story of his acquisition of the land
 
 any more ancient and dignified than he had supposed; the story was
 
-well known in the county and in most respects was obvious enough.
+[[Well|well]] known in the county and in most respects was obvious enough.
 
 Hawker, the old squire, had been a loose, unsatisfactory sort of
 
@@ -100,13 +100,13 @@ Jewess with a fortune. But he must have worked his way through this
 
 fortune also with marvelous rapidity, for he had been compelled to
 
-sell the estate to Verner and had gone to live in South America,
+sell the estate to Verner and had gone to live in South [[america|America]],
 
 possibly on his wife's estates. But Fisher noticed that the laxity
 
 of the old squire was far less hated than the efficiency of the new
 
-squire. Verner's history seemed to be full of smart bargains and
+squire. Verner's [[history]] seemed to be full of smart bargains and
 
 financial flutters that left other people short of money and temper.
 
@@ -126,18 +126,18 @@ And as he pondered on the possibilities they grew darker and more
 
 distorted in his mind; he thought vaguely of things remote and
 
-repulsive, strange forms of slavery or sorcery, and then of ugly
+repulsive, strange forms of [[Slavery|slavery]] or sorcery, and then of ugly
 
-things yet more unnatural but nearer home. The figure of Verner
+things yet more unnatural but nearer [[Home|home]]. The figure of Verner
 
-seemed to be blackened and transfigured in his imagination, and to
+seemed to be blackened and transfigured in his [[Imagination|imagination]], and to
 
 stand against varied backgrounds and strange skies.
 As he strode up a village street, brooding thus, his eyes
 
 encountered a complete contrast in the face of his other rival, the
 
-Reform candidate. Eric Hughes, with his blown blond hair and eager
+[[Reform]] candidate. Eric Hughes, with his blown blond hair and eager
 
 undergraduate face, was just getting into his motor car and saying a
 
@@ -172,9 +172,9 @@ an arch, and through a tangle of crooked cobbled streets the two
 
 threaded their way, the square, strutting figure in front and the
 
-lean, lounging figure behind him, like his shadow in the sunshine.
+lean, lounging figure behind him, like his [[Shadow|shadow]] in the sunshine.
 
-At length they came to a brown brick house with a brass plate, on
+At length they came to a brown brick [[house]] with a brass plate, on
 
 which was Mr. Gryce's name, and that individual turned and beheld
 
@@ -194,4 +194,4 @@ call, of course. Can't pretend to congratulate you on entering the
 
 contest, I'm afraid; you won't expect that. Here we've been keeping
 
-the old flag flying for freedom and reform, and you come in and
+the old [[Flag|flag]] flying for [[Freedom|freedom]] and [[Reform|reform]], and you come in and

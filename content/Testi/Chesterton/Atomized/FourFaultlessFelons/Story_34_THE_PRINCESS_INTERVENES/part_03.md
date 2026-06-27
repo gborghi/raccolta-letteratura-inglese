@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE PRINCESS INTERVENES (part 3)"
+title: "[[FourFaultlessFelons]] — THE PRINCESS INTERVENES (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -24,15 +24,15 @@ thick and thunderous lips of the sinister African would speak it.
 
 Passing up the Poplar Avenue towards the red-brick Georgian palace, they
 
-found the King of Pavonia in another room, in another suit of clothes and
+found the [[King]] of Pavonia in another room, in another suit of clothes and
 
 in another frame of mind. He was no longer in uniform, but in a
 
-light-grey lounge suit and very obviously lounging. King Clovis was a
+light-grey lounge suit and very obviously lounging. [[King]] Clovis was a
 
-paradox in many ways; he hated formality and yet he was very formal, on
+[[Paradox|paradox]] in many ways; he hated formality and yet he was very formal, on
 
-formal occasions; in spite of the paradox, we might say that he hated
+formal occasions; in spite of the [[Paradox|paradox]], we might say that he hated
 
 formal occasions because they made him very formal. But in this more
 
@@ -40,15 +40,15 @@ comfortable apartment, with tea-things on the table, he was in the bosom
 
 of his family, so far as the presence of a niece sitting on a sofa and
 
-staring out of a window constituted a bosom in the traditional sense. The
+staring out of a [[Window|window]] constituted a bosom in the traditional sense. The
 
 Princess, whom the works of reference called Aurelia and whom her uncle
 
-called Mary, was rather distrait and silent, but the King had no
+called Mary, was rather distrait and silent, but the [[King]] had no
 
-objection to silence. The Prime Minister was not present; he always
+objection to [[Silence|silence]]. The Prime Minister was not present; he always
 
-imparted a nameless nuance of fussiness, and the King had a great
+imparted a nameless nuance of fussiness, and the [[King]] had a great
 
 objection to fuss.
 
@@ -56,13 +56,13 @@ objection to fuss.
 
 The Chief of Police told the story of his dramatic disappointment and the
 
-King listened to it with mild wonder but without any appearance of
+[[King]] listened to it with mild [[Wonder|wonder]] but without any appearance of
 
 irritation.
 
 
 
-"I suppose," he said, "that if that old Jew really bought the house
+"I suppose," he said, "that if that old Jew really bought the [[house]]
 
 specially for them, he must have fixed up some sort of trick in it."
 
@@ -96,11 +96,11 @@ rather decline to talk, you would think there was nobody in it. It's
 
 called the Brotherhood of The Word, but it seems to me more like the
 
-Brotherhood of The Silence. They all stare you blindly in the face, and
+Brotherhood of The [[Silence]]. They all stare you blindly in the face, and
 
 smile, or say a word about the weather, and there's no catching them by
 
-any cross-examination. That's evidently the policy of the whole business.
+any [[Cross|cross]]-examination. That's evidently the policy of the whole business.
 
 The crowd is more invisible than the conspirators, so to speak. Only
 
@@ -126,7 +126,7 @@ out gunning for General Case."
 
 
 
-"We must be thankful for small things," said the King. "What does the
+"We must be thankful for small things," said the [[King]]. "What does the
 
 stupid footman say?"
 
@@ -144,21 +144,21 @@ idea of being loyal to his master."
 
 
 
-The Princess turned her head for the first time and said: "Has anybody
+The Princess turned her head for the first [[Time|time]] and said: "Has anybody
 
-suggested the rather brighter idea of being loyal to his King?"
+suggested the rather brighter idea of being loyal to his [[King]]?"
 
 
 
-"I'm afraid," said Clovis, in a nervous and uneasy manner, "that the time
+"I'm afraid," said Clovis, in a nervous and uneasy manner, "that the [[Time|time]]
 
 has gone by for cavaliers and gallant courtiers, Mary. You can't solve
 
-modern political problems by telling people to be loyal to the King."
+modern political problems by telling people to be loyal to the [[King]]."
 
 
 
-"Why do they tell them to be loyal to everything else except the King?"
+"Why do they tell them to be loyal to everything else except the [[King]]?"
 
 asked the young lady, with some warmth. "When there's a strike or
 
@@ -178,7 +178,7 @@ considered the same thing."
 
 
 
-His Majesty the King of Pavonia stared at his niece with a sort of vague
+His Majesty the [[King]] of Pavonia stared at his niece with a sort of vague
 
 alarm, as if a kitten had turned into a tiger-cat on the hearth-rug. But
 
@@ -188,7 +188,7 @@ impatience.
 
 
 
-"Why must the King be the only private gentleman in Pavonia? All the
+"Why must the [[King]] be the only private gentleman in Pavonia? All the
 
 others are extremely public gentlemen or public parodies of gentlemen.
 
@@ -202,9 +202,9 @@ artificial; he was like some painted and gilded doll or mummy dancing.
 
 But what annoyed me most was that peacock-coloured scarf flapping round
 
-his neck, and making me remember the old peacock flag of the Pavonians,
+his neck, and making me remember the old peacock [[Flag|flag]] of the Pavonians,
 
-and how they say that the peacock fans were carried before the King even
+and how they say that the peacock fans were carried before the [[King]] even
 
 in battle. What business has he got to wear such colours, if we mayn't?
 
@@ -218,6 +218,6 @@ they do exactly what kings used to do, when kings had any sense. Your
 
 papers and politicians talk about the dreadful growth of Red propaganda
 
-and wonder how it can be popular. Why, because it's Red, of course. Kings
+and [[Wonder|wonder]] how it can be popular. Why, because it's Red, of course. Kings
 
 and cardinals and peers and judges used to be Red, when we weren't

@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Arrow of Heaven (part 5)"
+title: "[[Incredulity]] — The Arrow of Heaven (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -18,7 +18,7 @@ tags:
 for the first time, in his red, wooden face, that was rather
 like I he head of a tomahawk.
 
-`Well, since you were so well acquainted with all the arts and crafts
+`[[Well]], since you were so [[Well|well]] acquainted with all the arts and crafts
 of the Redskin--` began Father Brown slowly.
 
 Crake had had a hunched and almost shrunken appearance
@@ -54,18 +54,18 @@ the lounge of the hotel where he knew that young Wain was to be found.
 The young man sprang up with a greeting; he looked even more haggard
 and harassed than before, as if some worry were eating him away;
 and the priest had a suspicion that his young friend had recently
-been engaged, with only too conspicuous success, in evading the last
+been engaged, with only too conspicuous [[success]], in evading the last
 Amendment to the American Constitution.  But at the first word about his
 hobby or favourite science he was vigilant and concentrated enough.
-For Father Brown had asked, in an idle and conversational fashion,
+For [[Father Brown]] had asked, in an idle and conversational fashion,
 whether much flying was done in that district, and had told how he had
 at first mistaken Mr Merton's circular wall for an aerodrome.
 
 `It's a wonder you didn't see any while we were there,'
 answered Captain Wain.  `Sometimes they're as thick as flies;
 that open plain is a great place for them, and I shouldn't
-wonder if it were the chief breeding--ground, so to speak,
-for my sort of birds in the future.  I've flown a good deal
+[[Wonder|wonder]] if it were the chief breeding--ground, so to speak,
+for my sort of [[Birds|birds]] in the future.  I've flown a good deal
 there myself, of course, and I know most of the fellows about
 here who flew in the war; but there are a whole lot of people
 taking to it out there now whom I never heard of in my life.
@@ -87,7 +87,7 @@ might recognize the rig--out, perhaps; but you might pass pretty near
 that window on a different pattern of plane, or whatever you call it;
 near enough for practical purposes.'
 
-`Well, yes,' began the young man, almost automatically, and then ceased,
+`[[Well]], yes,' began the young man, almost automatically, and then ceased,
 and remained staring at the cleric with an open mouth and eyes standing
 out of his head.
 
@@ -98,7 +98,7 @@ to foot and still staring at the priest.
 
 `Are you mad?' he said;' are you raving mad?'
 
-There was a silence and then he spoke again in a swift hissing fashion.
+There was a [[Silence|silence]] and then he spoke again in a swift hissing fashion.
 `You positively come here to suggest--`
 
 `No; only to collect suggestions,' said Father Brown, rising.
@@ -109,8 +109,8 @@ And then saluting the other with the same stiff civility, he passed
 out of the hotel to continue his curious peregrinations.
 
 By the dusk of that day they had led him down the dingy
-streets and steps that straggled and tumbled towards the river
-in the the oldest and most irregular part of the city.
+streets and steps that straggled and tumbled towards the [[River|river]]
+in the the oldest and most irregular part of the [[City|city]].
 Immediately under the coloured lantern that marked the entrance
 to a rather low Chinese restaurant he encountered a figure
 he had seen before, though by no means presenting itself
@@ -120,29 +120,29 @@ Mr Norman Drage still confronted the world grimly behind his
 great goggles, which seemed somehow to cover his face like a dark musk
 of glass.  But except for the goggles, his appearance had undergone
 a strange transformation in the month that had elapsed since the murder.
-He had then, as Father Brown had noted, been dressed up to the nines--
+He had then, as [[Father Brown]] had noted, been dressed up to the nines--
 up to that point, indeed, where there begins to be too fine a
 distinction between the dandy and the dummy outside a tailor's shop.
 But now all those externals were mysteriously altered for the worse;
 as if the tailor's dummy had been turned into a scarecrow.
 His top hat still existed, but it was battered and shabby;
 his clothes were dilapidated; his watch--chain and minor ornaments
-were gone.  Father Brown, however, addressed him as if they
+were gone.  [[Father Brown]], however, addressed him as if they
 had met yesterday, and made no demur to silting down with him
-on a bench in the cheap eating--house whither he was bound.
+on a bench in the cheap eating--[[house]] whither he was bound.
 It was not he, however, who began the conversation.
 
 `Well?' growled Drage, `and have you succeeded in avenging your holy
 and sainted millionaire?  We know all millionaires are holy and sainted;
 you can find it all in the papers next day, about how they lived
-by the light of the Family Bible they read at their mother's knee.
+by the light of the Family [[Bible]] they read at their mother's knee.
 Gee! if they'd only read out some of the things there are in
-the Family Bible, the mother might have been startled some.
+the Family [[Bible]], the mother might have been startled some.
 And the millionaire, too, I reckon.  The old Book's full
 of a lot of grand fierce old notions they don't grow nowadays;
 sort of wisdom of the Stone Age and buried under the Pyramids.
 Suppose somebody had flung old man Merton from the top of that
-tower of his, and let him be eaten by dogs at the bottom,
+tower of his, and let him be eaten by [[dogs]] at the [[Bottom|bottom]],
 it would be no worse than what happened to Jezebel.  Wasn't Agag
 hacked into little pieces, for all he went walking delicately?
 Merton walked delicately all his life, damn him--until he got too

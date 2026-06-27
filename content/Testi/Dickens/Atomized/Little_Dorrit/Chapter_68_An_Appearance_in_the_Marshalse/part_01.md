@@ -17,8 +17,8 @@ tags:
 CHAPTER 28. An Appearance in the Marshalsea
 
 
-The opinion of the community outside the prison gates bore hard on
-Clennam as time went on, and he made no friends among the community
+The opinion of the community outside the [[Prison|prison]] gates bore hard on
+Clennam as [[Time|time]] went on, and he made no friends among the community
 within. Too depressed to associate with the herd in the yard, who got
 together to forget their cares; too retiring and too unhappy to join in
 the poor socialities of the tavern; he kept his own room, and was held
@@ -27,41 +27,41 @@ sullen and reserved; some were contemptuous of him, for that he was a
 poor-spirited dog who pined under his debts. The whole population were
 shy of him on these various counts of indictment, but especially the
 last, which involved a species of domestic treason; and he soon became
-so confirmed in his seclusion, that his only time for walking up and
-down was when the evening Club were assembled at their songs and toasts
+so confirmed in his seclusion, that his only [[Time|time]] for walking up and
+down was when the evening Club were assembled at their [[songs]] and toasts
 and sentiments, and when the yard was nearly left to the women and
 children.
 
-Imprisonment began to tell upon him. He knew that he idled and moped.
-After what he had known of the influences of imprisonment within the
+[[Imprisonment]] began to tell upon him. He knew that he idled and moped.
+After what he had known of the influences of [[Imprisonment|imprisonment]] within the
 four small walls of the very room he occupied, this consciousness made
 him afraid of himself. Shrinking from the observation of other men, and
 shrinking from his own, he began to change very sensibly. Anybody might
-see that the shadow of the wall was dark upon him.
+see that the [[Shadow|shadow]] of the wall was dark upon him.
 
 One day when he might have been some ten or twelve weeks in jail, and
 when he had been trying to read and had not been able to release even
 the imaginary people of the book from the Marshalsea, a footstep stopped
 at his door, and a hand tapped at it. He arose and opened it, and an
-agreeable voice accosted him with ‘How do you do, Mr Clennam? I hope I
+agreeable voice accosted him with ‘How do you do, Mr Clennam? I [[Hope|hope]] I
 am not unwelcome in calling to see you.’
 
-It was the sprightly young Barnacle, Ferdinand. He looked very
+It was the sprightly young Barnacle, [[Ferdinand]]. He looked very
 good-natured and prepossessing, though overpoweringly gay and free, in
-contrast with the squalid prison.
+contrast with the squalid [[Prison|prison]].
 
 ‘You are surprised to see me, Mr Clennam,’ he said, taking the seat
 which Clennam offered him.
 
 ‘I must confess to being much surprised.’
 
-‘Not disagreeably, I hope?’
+‘Not disagreeably, I [[Hope|hope]]?’
 
 ‘By no means.’
 
 ‘Thank you. Frankly,’ said the engaging young Barnacle, ‘I have been
 excessively sorry to hear that you were under the necessity of a
-temporary retirement here, and I hope (of course as between two private
+temporary retirement here, and I [[Hope|hope]] (of course as between two private
 gentlemen) that our place has had nothing to do with it?’
 
 ‘Your office?’
@@ -78,13 +78,13 @@ difficulties.’
 
 Clennam again assured him that he absolved it of the responsibility.
 
-‘That’s right,’ said Ferdinand. ‘I am very happy to hear it. I was
+‘That’s right,’ said [[Ferdinand]]. ‘I am very happy to hear it. I was
 rather afraid in my own mind that we might have helped to floor you,
-because there is no doubt that it is our misfortune to do that kind
+because there is no [[Doubt|doubt]] that it is our misfortune to do that kind
 of thing now and then. We don’t want to do it; but if men will be
 gravelled, why--we can’t help it.’
 
-‘Without giving an unqualified assent to what you say,’ returned Arthur,
+‘Without giving an unqualified assent to what you say,’ returned [[arthur|Arthur]],
 gloomily, ‘I am much obliged to you for your interest in me.’
 
 ‘No, but really! Our place is,’ said the easy young Barnacle, ‘the most
@@ -96,14 +96,14 @@ Don’t you see?’
 
 ‘You don’t regard it from the right point of view. It is the point of
 view that is the essential thing. Regard our place from the point of
-view that we only ask you to leave us alone, and we are as capital a
+view that we only ask you to leave us [[Alone|alone]], and we are as capital a
 Department as you’ll find anywhere.’
 
-‘Is your place there to be left alone?’ asked Clennam.
+‘Is your place there to be left [[Alone|alone]]?’ asked Clennam.
 
-‘You exactly hit it,’ returned Ferdinand. ‘It is there with the express
-intention that everything shall be left alone. That is what it means.
-That is what it’s for. No doubt there’s a certain form to be kept up
+‘You exactly hit it,’ returned [[Ferdinand]]. ‘It is there with the express
+intention that everything shall be left [[Alone|alone]]. That is what it means.
+That is what it’s for. No [[Doubt|doubt]] there’s a certain form to be kept up
 that it’s for something else, but it’s only a form. Why, good Heaven,
 we are nothing but forms! Think what a lot of our forms you have gone
 through. And you have never got any nearer to an end?’
@@ -123,11 +123,11 @@ broken, died off, gave it up, went in for other games.
 ‘on the circumstance that our place has had nothing to do with your
 temporary retirement. It very easily might have had a hand in it;
 because it is undeniable that we are sometimes a most unlucky place, in
-our effects upon people who will not leave us alone. Mr Clennam, I am
+our effects upon people who will not leave us [[Alone|alone]]. Mr Clennam, I am
 quite unreserved with you. As between yourself and myself, I know I may
 be. I was so, when I first saw you making the mistake of not leaving us
-alone; because I perceived that you were inexperienced and sanguine, and
-had--I hope you’ll not object to my saying--some simplicity?’
+[[Alone|alone]]; because I perceived that you were inexperienced and sanguine, and
+had--I [[Hope|hope]] you’ll not object to my saying--some simplicity?’
 
 ‘Not at all.’
 
@@ -139,9 +139,9 @@ since bothered yourself. Now, don’t do it any more.’
 
 ‘I am not likely to have the opportunity,’ said Clennam.
 
-‘Oh yes, you are! You’ll leave here. Everybody leaves here. There are no
+‘Oh yes, you are! You’ll leave here. Everybody [[Leaves|leaves]] here. There are no
 ends of ways of leaving here. Now, don’t come back to us. That entreaty
 is the second object of my call. Pray, don’t come back to us. Upon my
-honour,’ said Ferdinand in a very friendly and confiding way, ‘I shall
+[[Honour|honour]],’ said [[Ferdinand]] in a very friendly and confiding way, ‘I shall
 be greatly vexed if you don’t take warning by the past and keep away
 from us.’

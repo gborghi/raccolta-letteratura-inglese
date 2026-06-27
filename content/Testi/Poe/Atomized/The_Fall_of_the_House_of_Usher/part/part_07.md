@@ -1,5 +1,5 @@
 ---
-title: "The Fall of the House of Usher (part 7)"
+title: "[[The Fall of the House of Usher]] (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
@@ -15,7 +15,7 @@ tags:
 
 
       Here again I paused abruptly, and now with a feeling of wild
-      amazement—for there could be no doubt whatever that, in this
+      amazement—for there could be no [[Doubt|doubt]] whatever that, in this
       instance, I did actually hear (although from what direction it
       proceeded I found it impossible to say) a low and apparently
       distant, but harsh, protracted, and most unusual screaming or
@@ -25,7 +25,7 @@ tags:
 
       Oppressed, as I certainly was, upon the occurrence of this second
       and most extraordinary coincidence, by a thousand conflicting
-      sensations, in which wonder and extreme terror were predominant,
+      sensations, in which [[Wonder|wonder]] and extreme terror were predominant,
       I still retained sufficient presence of mind to avoid exciting,
       by any observation, the sensitive nervousness of my companion. I
       was by no means certain that he had noticed the sounds in
@@ -37,7 +37,7 @@ tags:
       that his lips trembled as if he were murmuring inaudibly. His
       head had dropped upon his breast—yet I knew that he was not
       asleep, from the wide and rigid opening of the eye as I caught a
-      glance of it in profile. The motion of his body, too, was at
+      glance of it in profile. The motion of his [[Body|body]], too, was at
       variance with this idea—for he rocked from side to side with a
       gentle yet constant and uniform sway. Having rapidly taken notice
       of all this, I resumed the narrative of Sir Launcelot, which thus
@@ -47,7 +47,7 @@ tags:
       the dragon, bethinking himself of the brazen shield, and of the
       breaking up of the enchantment which was upon it, removed the
       carcass from out of the way before him, and approached valorously
-      over the silver pavement of the castle to where the shield was
+      over the silver pavement of the [[Castle|castle]] to where the shield was
       upon the wall; which in sooth tarried not for his full coming,
       but fell down at his feet upon the silver floor, with a mighty
       great and terrible ringing sound.”
@@ -73,39 +73,39 @@ tags:
       tomb!_ Said I not that my senses were acute? I _now_ tell you
       that I heard her first feeble movements in the hollow coffin. I
       heard them—many, many days ago—yet I dared not—_I dared not
-      speak!_ And now—to-night—Ethelred—ha! ha!—the breaking of the
-      hermit’s door, and the death-cry of the dragon, and the clangor
+      speak!_ And now—to-[[Night|night]]—Ethelred—ha! ha!—the breaking of the
+      hermit’s door, and the [[Death|death]]-cry of the dragon, and the clangor
       of the shield!—say, rather, the rending of her coffin, and the
-      grating of the iron hinges of her prison, and her struggles
+      grating of the iron hinges of her [[Prison|prison]], and her struggles
       within the coppered archway of the vault! Oh whither shall I fly?
       Will she not be here anon? Is she not hurrying to upbraid me for
       my haste? Have I not heard her footstep on the stair? Do I not
       distinguish that heavy and horrible beating of her heart?
       Madman!”—here he sprang furiously to his feet, and shrieked out
       his syllables, as if in the effort he were giving up his
-      soul—“_Madman! I tell you that she now stands without the door!_”
+      [[Soul|soul]]—“_Madman! I tell you that she now stands without the door!_”
 
       As if in the superhuman energy of his utterance there had been
       found the potency of a spell—the huge antique pannels to which
       the speaker pointed, threw slowly back, upon the instant, their
       ponderous and ebony jaws. It was the work of the rushing gust—but
       then without those doors there _did_ stand the lofty and
-      enshrouded figure of the lady Madeline of Usher. There was blood
+      enshrouded figure of the lady [[Madeline]] of Usher. There was [[Blood|blood]]
       upon her white robes, and the evidence of some bitter struggle
       upon every portion of her emaciated frame. For a moment she
       remained trembling and reeling to and fro upon the
       threshold—then, with a low moaning cry, fell heavily inward upon
       the person of her brother, and in her violent and now final
-      death-agonies, bore him to the floor a corpse, and a victim to
+      [[Death|death]]-agonies, bore him to the floor a corpse, and a victim to
       the terrors he had anticipated.
 
       From that chamber, and from that mansion, I fled aghast. The
-      storm was still abroad in all its wrath as I found myself
+      [[Storm|storm]] was still abroad in all its wrath as I found myself
       crossing the old causeway. Suddenly there shot along the path a
       wild light, and I turned to see whence a gleam so unusual could
-      have issued; for the vast house and its shadows were alone behind
-      me. The radiance was that of the full, setting, and blood-red
-      moon, which now shone vividly through that once
+      have issued; for the vast [[house]] and its shadows were [[Alone|alone]] behind
+      me. The radiance was that of the full, setting, and [[Blood|blood]]-red
+      [[Moon|moon]], which now shone vividly through that once
       barely-discernible fissure, of which I have before spoken as
       extending from the roof of the building, in a zigzag direction,
       to the base. While I gazed, this fissure rapidly widened—there

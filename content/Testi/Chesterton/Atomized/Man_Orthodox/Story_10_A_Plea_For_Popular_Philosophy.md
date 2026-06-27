@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — A Plea For Popular Philosophy"
+title: "Man Orthodox — A Plea For Popular [[philosophy|Philosophy]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-A PLEA FOR POPULAR PHILOSOPHY
+A PLEA FOR POPULAR [[philosophy|PHILOSOPHY]]

@@ -1,5 +1,5 @@
 ---
-title: "Metzengerstein (part 2)"
+title: "[[Metzengerstein]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Metzengerstein-(Poe)"
@@ -18,7 +18,7 @@ tags:
 
       again, the voluptuous and swan-like figures of the dames of days
 
-      gone by, floated away in the mazes of an unreal dance to the
+      gone by, floated away in the mazes of an unreal [[Dance|dance]] to the
 
       strains of imaginary melody.
 
@@ -28,19 +28,19 @@ tags:
 
       gradually increasing uproar in the stables of Berlifitzing—or
 
-      perhaps pondered upon some more novel, some more decided act of
+      perhaps pondered upon some more [[Novel|novel]], some more decided act of
 
       audacity—his eyes became unwittingly rivetted to the figure of an
 
-      enormous, and unnaturally colored horse, represented in the
+      enormous, and unnaturally colored [[Horse|horse]], represented in the
 
       tapestry as belonging to a Saracen ancestor of the family of his
 
-      rival. The horse itself, in the foreground of the design, stood
+      rival. The [[Horse|horse]] itself, in the foreground of the design, stood
 
       motionless and statue-like—while farther back, its discomfited
 
-      rider perished by the dagger of a Metzengerstein.
+      rider perished by the dagger of a [[Metzengerstein]].
 
 
 
@@ -80,7 +80,7 @@ tags:
 
       position. The neck of the animal, before arched, as if in
 
-      compassion, over the prostrate body of its lord, was now
+      compassion, over the prostrate [[Body|body]] of its lord, was now
 
       extended, at full length, in the direction of the Baron. The
 
@@ -88,7 +88,7 @@ tags:
 
       expression, while they gleamed with a fiery and unusual red; and
 
-      the distended lips of the apparently enraged horse left in full
+      the distended lips of the apparently enraged [[Horse|horse]] left in full
 
       view his gigantic and disgusting teeth.
 
@@ -98,9 +98,9 @@ tags:
 
       As he threw it open, a flash of red light, streaming far into the
 
-      chamber, flung his shadow with a clear outline against the
+      chamber, flung his [[Shadow|shadow]] with a clear outline against the
 
-      quivering tapestry, and he shuddered to perceive that shadow—as
+      quivering tapestry, and he shuddered to perceive that [[Shadow|shadow]]—as
 
       he staggered awhile upon the threshold—assuming the exact
 
@@ -118,11 +118,11 @@ tags:
 
       of their lives, they were restraining the convulsive plunges of a
 
-      gigantic and fiery-colored horse.
+      gigantic and fiery-colored [[Horse|horse]].
 
 
 
-      “Whose horse? Where did you get him?” demanded the youth, in a
+      “Whose [[Horse|horse]]? Where did you get him?” demanded the youth, in a
 
       querulous and husky tone of voice, as he became instantly aware
 
@@ -138,7 +138,7 @@ tags:
 
       all smoking and foaming with rage, from the burning stables of
 
-      the Castle Berlifitzing. Supposing him to have belonged to the
+      the [[Castle]] Berlifitzing. Supposing him to have belonged to the
 
       old Count’s stud of foreign horses, we led him back as an estray.
 
@@ -156,7 +156,7 @@ tags:
 
       course, to be the initials of Wilhelm Von Berlifitzing—but all at
 
-      the castle are positive in denying any knowledge of the horse.”
+      the [[Castle|castle]] are positive in denying any knowledge of the [[Horse|horse]].”
 
 
 
@@ -164,19 +164,19 @@ tags:
 
       and apparently unconscious of the meaning of his words. “He is,
 
-      as you say, a remarkable horse—a prodigious horse! although, as
+      as you say, a remarkable [[Horse|horse]]—a prodigious [[Horse|horse]]! although, as
 
       you very justly observe, of a suspicious and untractable
 
       character; let him be mine, however,” he added, after a pause,
 
-      “perhaps a rider like Frederick of Metzengerstein, may tame even
+      “perhaps a rider like Frederick of [[Metzengerstein]], may tame even
 
       the devil from the stables of Berlifitzing.”
 
 
 
-      “You are mistaken, my lord; the horse, as I think we mentioned,
+      “You are mistaken, my lord; the [[Horse|horse]], as I think we mentioned,
 
       is _not_ from the stables of the Count. If such had been the
 
@@ -194,7 +194,7 @@ tags:
 
       of the sudden disappearance of a small portion of the tapestry,
 
-      in an apartment which he designated; entering, at the same time,
+      in an apartment which he designated; entering, at the same [[Time|time]],
 
       into particulars of a minute and circumstantial character; but
 
@@ -220,4 +220,4 @@ tags:
 
 
 
-      “Have you heard of the unhappy death of the old hunter
+      “Have you heard of the unhappy [[Death|death]] of the old hunter

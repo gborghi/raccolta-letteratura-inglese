@@ -17,24 +17,24 @@ tags:
 XVII.  On the Closed Conspiracy
 
 IN a comparison of Socialism with the scheme of society going
-by the name of Distributism, an authoritative writer on such topics
+by the name of [[Distributism]], an authoritative writer on such topics
 has very kindly remarked that, while Mr. Wells is working for an
 Open Conspiracy, there is much that is interesting in my experiment
-of a Closed Conspiracy.  Indeed, Distributism is rather too open
+of a Closed Conspiracy.  Indeed, [[Distributism]] is rather too open
 to be a conspiracy at all.  It is comparatively easy to organize
 on behalf of mere organization.  It is much harder to drill
 independent individuals to fight in defence of independence.
 Nothing can be less conspiratorial than a voice crying in the wilderness.
 And even when the wilderness begins to be dotted with hermits,
 they still retain some of the faults and eccentricities of hermits.
-Even when, in the course of history, the hermits are brigaded
-into brotherhoods of monks, something of the solitude and
+Even when, in the course of [[history]], the hermits are brigaded
+into brotherhoods of [[Monks|monks]], something of the [[Solitude|solitude]] and
 mysticism of the eremitical life lingers in the background.
-I am well aware of all these difficulties in any movement that springs
-from the liberty of the lonely human soul.  Monks, though they call
+I am [[Well|well]] aware of all these difficulties in any movement that springs
+from the liberty of the lonely human [[Soul|soul]].  [[Monks]], though they call
 themselves the slaves of slaves, are never the slaves of masters.
 And a peasantry is never like a tenantry, or, for that matter,
-a trade union, individually bound to sacrifice liberty to loyalty.
+a trade [[Union|union]], individually bound to sacrifice liberty to loyalty.
 Wherever we have a peasantry, we shall have some pretty queer
 and crazy peasants.  Wherever we have a Distributive State,
 we shall have some tolerably troublesome Distributists.
@@ -82,14 +82,14 @@ the coffee with the claret or the vermouth with the port.
 We believe in certain Enclosures, called `courses', or appropriate
 selections from the carte des vins, being actually interposed to
 prevent all these separate pleasures from flowing into each other.
-We do not believe that every tennis-court should be flooded to turn
+We do not believe that every tennis-[[Court|court]] should be flooded to turn
 it into a swimming-bath, and people be forced to play tennis only
-in the water (that the two sports may be unified and made one);
+in the [[Water|water]] (that the two sports may be unified and made one);
 we should not hesitate to erect artificial Enclosures, in the form
 of walls and partitions, around baths, bath-rooms, swimming-pools, and
-similar things, lest this one delight should end in a universal Deluge.
+similar things, lest this one delight should end in a universal [[deluge|Deluge]].
 We should not shrink even from marking out, on the grass or
-the ground, the severe and restricting limits of the tennis-court,
+the ground, the severe and restricting limits of the tennis-[[Court|court]],
 discouraging enthusiasts from playing tennis all over the billiard-room
 and the progressive whist-party, lest one good custom should corrupt
 the world, as the first Lord Tennyson observed.  In short, we have
@@ -98,29 +98,29 @@ a highly practical and profitable part in the real life of this world;
 and that the mere destruction of them is not the destruction
 of mere negative taboos, but the destruction of positive creations,
 positive achievements, positive arts and pleasures of life.
-And in the same way we think that a mere philosophy of unification,
+And in the same way we think that a mere [[philosophy]] of unification,
 of mixing sex with sex or nation with nation or style with style,
 is altogether a paltry, sterile, and provincial simplification;
 no more truly intellectual than the act of a baby in mixing all
 the paints in a paint-box or stirring five or six things together
 with a spoon.
 
-That is the principle behind the philosophy of Enclosures;
+That is the principle behind the [[philosophy]] of Enclosures;
 and there is no space here to develop in detail the sociological
-application of it, that some of us call Distributism.
-Mr. H. G. Wells's general philosophy, in such things, seems to be a mere
-desire for largeness, under the impression that it is enlargement.
+application of it, that some of us call [[Distributism]].
+Mr. H. G. Wells's general [[philosophy]], in such things, seems to be a mere
+[[Desire|desire]] for largeness, under the impression that it is enlargement.
 He has only got to get stuck firmly in the middle of a large
 crowd in order to learn that largeness may be the very opposite
 of enlargement.  There is one thing that a man does in a reasonable
 degree want to have large--or, at any rate, to have larger.
 And that is elbow-room, which our pedantic political ancestors
-were in the habit of calling Freedom.  I doubt whether the modern
+were in the habit of calling [[Freedom]].  I [[Doubt|doubt]] whether the modern
 American advice to everybody to elbow his way has really resulted
 in more elbow-room. I do believe that many rude and simple social
 types were better in this respect, though I do not necessarily
 mean that they were better in every respect.  And I believe
-that upon this alone could be founded that just and normal though
+that upon this [[Alone|alone]] could be founded that just and normal though
 now almost forgotten thing, the real defence of Private Property,
 which has no more to do with profiteering than with privateering.
 It is the essential principle that a man does not even own his own

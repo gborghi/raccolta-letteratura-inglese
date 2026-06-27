@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 38: THIRTY EIGHT"
+title: "[[Martin Chuzzlewit]] — Chapter 38: THIRTY EIGHT"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,7 +19,7 @@ CHAPTER THIRTY-EIGHT
 SECRET SERVICE
 
 
-In walking from the city with his sentimental friend, Tom Pinch had
+In walking from the [[City|city]] with his sentimental friend, [[Tom Pinch]] had
 looked into the face, and brushed against the threadbare sleeve, of Mr
 Nadgett, man of mystery to the Anglo-Bengalee Disinterested Loan and
 Life Assurance Company. Mr Nadgett naturally passed away from Tom’s
@@ -28,9 +28,9 @@ had never heard his name.
 
 As there are a vast number of people in the huge metropolis of England
 who rise up every morning not knowing where their heads will rest at
-night, so there are a multitude who shooting arrows over houses as their
+[[Night|night]], so there are a multitude who shooting arrows over houses as their
 daily business, never know on whom they fall. Mr Nadgett might have
-passed Tom Pinch ten thousand times; might even have been quite familiar
+passed [[Tom Pinch]] ten thousand times; might even have been quite familiar
 with his face, his name, pursuits, and character; yet never once have
 dreamed that Tom had any interest in any act or mystery of his. Tom
 might have done the like by him of course. But the same private man out
@@ -39,10 +39,10 @@ prominently connected though in a different manner, with the day’s
 adventures of both; and formed, when they passed each other in the
 street, the one absorbing topic of their thoughts.
 
-Why Tom had Jonas Chuzzlewit in his mind requires no explanation. Why Mr
-Nadgett should have had Jonas Chuzzlewit in his, is quite another thing.
+Why Tom had [[Jonas Chuzzlewit]] in his mind requires no explanation. Why Mr
+Nadgett should have had [[Jonas Chuzzlewit]] in his, is quite another thing.
 
-But, somehow or other, that amiable and worthy orphan had become a part
+But, somehow or other, that amiable and worthy [[Orphan|orphan]] had become a part
 of the mystery of Mr Nadgett’s existence. Mr Nadgett took an interest
 in his lightest proceedings; and it never flagged or wavered. He watched
 him in and out of the Assurance Office, where he was now formally
@@ -50,7 +50,7 @@ installed as a Director; he dogged his footsteps in the streets; he
 stood listening when he talked; he sat in coffee-rooms entering his
 name in the great pocket-book, over and over again; he wrote letters to
 himself about him constantly; and, when he found them in his pocket, put
-them in the fire, with such distrust and caution that he would bend down
+them in the [[Fire|fire]], with such distrust and caution that he would bend down
 to watch the crumpled tinder while it floated upwards, as if his mind
 misgave him, that the mystery it had contained might come out at the
 chimney-pot.
@@ -59,7 +59,7 @@ And yet all this was quite a secret. Mr Nadgett kept it to himself, and
 kept it close. Jonas had no more idea that Mr Nadgett’s eyes were fixed
 on him, than he had that he was living under the daily inspection and
 report of a whole order of Jesuits. Indeed Mr Nadgett’s eyes were seldom
-fixed on any other objects than the ground, the clock, or the fire; but
+fixed on any other objects than the ground, the [[Clock|clock]], or the [[Fire|fire]]; but
 every button on his coat might have been an eye, he saw so much.
 
 The secret manner of the man disarmed suspicion in this wise;
@@ -70,12 +70,12 @@ appeared to be, to avoid notice and preserve his own mystery. Jonas
 sometimes saw him in the street, hovering in the outer office, waiting
 at the door for the man who never came, or slinking off with his
 immovable face and drooping head, and the one beaver glove dangling
-before him; but he would as soon have thought of the cross upon the top
-of St. Paul’s Cathedral taking note of what he did, or slowly winding
+before him; but he would as soon have thought of the [[Cross|cross]] upon the top
+of St. Paul’s [[Cathedral]] taking note of what he did, or slowly winding
 a great net about his feet, as of Nadgett’s being engaged in such an
 occupation.
 
-Mr Nadgett made a mysterious change about this time in his mysterious
+Mr Nadgett made a mysterious change about this [[Time|time]] in his mysterious
 life: for whereas he had, until now, been first seen every morning
 coming down Cornhill, so exactly like the Nadgett of the day before
 as to occasion a popular belief that he never went to bed or took his
@@ -86,14 +86,14 @@ name was Sweedlepipe. He seemed to make appointments with the man who
 never came, to meet him at this barber’s; for he would frequently take
 long spells of waiting in the shop, and would ask for pen and ink, and
 pull out his pocket-book, and be very busy over it for an hour at a
-time. Mrs Gamp and Mr Sweedlepipe had many deep discoursings on the
+[[Time|time]]. Mrs Gamp and Mr Sweedlepipe had many deep discoursings on the
 subject of this mysterious customer; but they usually agreed that he had
 speculated too much and was keeping out of the way.
 
 He must have appointed the man who never kept his word, to meet him at
-another new place too; for one day he was found, for the first time,
-by the waiter at the Mourning Coach-Horse, the House-of-call for
-Undertakers, down in the City there, making figures with a pipe-stem in
+another new place too; for one day he was found, for the first [[Time|time]],
+by the waiter at the Mourning Coach-[[Horse]], the [[house|House]]-of-call for
+Undertakers, down in the [[City]] there, making figures with a pipe-stem in
 the sawdust of a clean spittoon; and declining to call for anything, on
 the ground of expecting a gentleman presently. As the gentleman was not
 honourable enough to keep his engagement, he came again next day, with
@@ -102,12 +102,12 @@ the bar as a man of large property. After that, he repeated his visits
 every day, and had so much writing to do, that he made nothing of
 emptying a capacious leaden inkstand in two sittings. Although he never
 talked much, still, by being there among the regular customers, he made
-their acquaintance, and in course of time became quite intimate with Mr
+their acquaintance, and in course of [[Time|time]] became quite intimate with Mr
 Tacker, Mr Mould’s foreman; and even with Mr Mould himself, who openly
 said he was a long-headed man, a dry one, a salt fish, a deep file, a
 rasper; and made him the subject of many other flattering encomiums.
 
-At the same time, too, he told the people at the Assurance Office, in
+At the same [[Time|time]], too, he told the people at the Assurance Office, in
 his own mysterious way, that there was something wrong (secretly wrong,
 of course) in his liver, and that he feared he must put himself
 under the doctor’s hands. He was delivered over to Jobling upon this
@@ -124,12 +124,12 @@ that they were, secretly, essential parts of some great scheme which Mr
 Nadgett had on foot.
 
 It was on the morning of this very day on which so much had happened to
-Tom Pinch, that Nadgett suddenly appeared before Mr Montague’s house in
+[[Tom Pinch]], that Nadgett suddenly appeared before Mr Montague’s [[house]] in
 Pall Mall--he always made his appearance as if he had that moment come
 up a trap--when the clocks were striking nine. He rang the bell in a
 covert under-handed way, as though it were a treasonable act; and passed
 in at the door, the moment it was opened wide enough to receive his
-body. That done, he shut it immediately with his own hands.
+[[Body|body]]. That done, he shut it immediately with his own hands.
 
 Mr Bailey, taking up his name without delay, returned with a request
 that he would follow him into his master’s chamber. The chairman of the
@@ -137,7 +137,7 @@ Anglo-Bengalee Disinterested Loan and Life Assurance Board was dressing,
 and received him as a business person who was often backwards and
 forwards, and was received at all times for his business’ sake.
 
-‘Well, Mr Nadgett?’
+‘[[Well]], Mr Nadgett?’
 
 Mr Nadgett put his hat upon the ground and coughed. The boy having
 withdrawn and shut the door, he went to it softly, examined the handle,
@@ -148,13 +148,13 @@ sat.
 
 ‘I think we have some news at last, sir.’
 
-‘I am happy to hear it. I began to fear you were off the scent, Mr
+‘I am happy to hear it. I began to [[Fear|fear]] you were off the scent, Mr
 Nadgett.’
 
 ‘No, sir. It grows cold occasionally. It will sometimes. We can’t help
 that.’
 
-‘You are truth itself, Mr Nadgett. Do you report a great success?’
+‘You are [[Truth|truth]] itself, Mr Nadgett. Do you report a great [[success]]?’
 
 ‘That depends upon your judgment and construction of it,’ was his
 answer, as he put on his spectacles.
@@ -194,21 +194,21 @@ The chairman cast his eyes upon it, coldly, and with a smile which did
 not render any great homage to the slow and methodical habits of his
 spy. But he had not read half-a-dozen lines when the expression of his
 face began to change, and before he had finished the perusal of the
-paper, it was full of grave and serious attention.
+paper, it was full of [[Grave|grave]] and serious attention.
 
 ‘Number Two,’ said Mr Nadgett, handing him another, and receiving back
 the first. ‘Read Number Two, sir, if you please. There is more interest
 as you go on.’
 
 Tigg Montague leaned backward in his chair, and cast upon his emissary
-such a look of vacant wonder (not unmingled with alarm), that Mr Nadgett
+such a look of vacant [[Wonder|wonder]] (not unmingled with alarm), that Mr Nadgett
 considered it necessary to repeat the request he had already twice
 preferred; with the view to recalling his attention to the point in
 hand. Profiting by the hint, Mr Montague went on with Number Two, and
 afterwards with Numbers Three, and Four, and Five, and so on.
 
 These documents were all in Mr Nadgett’s writing, and were apparently a
-series of memoranda, jotted down from time to time upon the backs of old
+series of memoranda, jotted down from [[Time|time]] to [[Time|time]] upon the backs of old
 letters, or any scrap of paper that came first to hand. Loose straggling
 scrawls they were, and of very uninviting exterior; but they had weighty
 purpose in them, if the chairman’s face were any index to the character
@@ -221,8 +221,8 @@ them at his employer, and nervously rubbing his hands. After a little
 while, he changed his posture in his chair for one of greater ease, and
 leisurely perused the next document he held ready as if an occasional
 glance at his employer’s face were now enough and all occasion for
-anxiety or doubt were gone. And finally he rose and looked out of the
-window, where he stood with a triumphant air until Tigg Montague had
+anxiety or [[Doubt|doubt]] were gone. And finally he [[Rose|rose]] and looked out of the
+[[Window|window]], where he stood with a triumphant air until Tigg Montague had
 finished.
 
 ‘And this is the last, Mr Nadgett!’ said that gentleman, drawing a long
@@ -235,7 +235,7 @@ breath.
 ‘I think it is a pretty good case,’ he returned as he gathered up his
 papers. ‘It cost some trouble, sir.’
 
-‘The trouble shall be well rewarded, Mr Nadgett.’ Nadgett bowed. ‘There
+‘The trouble shall be [[Well|well]] rewarded, Mr Nadgett.’ Nadgett bowed. ‘There
 is a deeper impression of Somebody’s Hoof here, than I had expected, Mr
 Nadgett. I may congratulate myself upon your being such a good hand at a
 secret.’
@@ -248,7 +248,7 @@ make it known to you.’
 ‘A most invaluable constitution,’ Tigg retorted. ‘A great gift for a
 gentleman employed as you are, Mr Nadgett. Much better than discretion;
 though you possess that quality also in an eminent degree. I think I
-heard a double knock. Will you put your head out of window, and tell me
+heard a [[Double|double]] knock. Will you put your head out of [[Window|window]], and tell me
 whether there is anybody at the door?’
 
 Mr Nadgett softly raised the sash, and peered out from the very corner,
@@ -256,7 +256,7 @@ as a man might who was looking down into a street from whence a brisk
 discharge of musketry might be expected at any moment. Drawing in his
 head with equal caution, he observed, not altering his voice or manner:
 
-‘Mr Jonas Chuzzlewit!’
+‘Mr [[Jonas Chuzzlewit]]!’
 
 ‘I thought so,’ Tigg retorted.
 
@@ -271,24 +271,24 @@ but what of them!
 
 Mr Chuzzlewit was announced.
 
-‘Show him up directly. Nadgett! don’t you leave us alone together. Mind
+‘Show him up directly. Nadgett! don’t you leave us [[Alone|alone]] together. Mind
 you don’t, now! By the Lord!’ he added in a whisper to himself: ‘We
 don’t know what may happen.’
 
 Saying this, he hurriedly took up a couple of hair-brushes, and began
 to exercise them on his own head, as if his toilet had not been
 interrupted. Mr Nadgett withdrew to the stove, in which there was a
-small fire for the convenience of heating curling-irons; and
+small [[Fire|fire]] for the convenience of heating curling-irons; and
 taking advantage of so favourable an opportunity for drying his
-pocket-handkerchief, produced it without loss of time. There he stood,
+pocket-handkerchief, produced it without loss of [[Time|time]]. There he stood,
 during the whole interview, holding it before the bars, and sometimes,
 but not often, glancing over his shoulder.
 
 ‘My dear Chuzzlewit!’ cried Montague, as Jonas entered. ‘You rise with
-the lark. Though you go to bed with the nightingale, you rise with the
+the lark. Though you go to bed with the [[Nightingale|nightingale]], you rise with the
 lark. You have superhuman energy, my dear Chuzzlewit!’
 
-‘Ecod!’ said Jonas, with an air of langour and ill-humour, as he took
+‘Ecod!’ said Jonas, with an air of langour and ill-[[Humour|humour]], as he took
 a chair, ‘I should be very glad not to get up with the lark, if I could
 help it. But I am a light sleeper; and it’s better to be up than lying
 awake, counting the dismal old church-clocks, in bed.’
@@ -300,9 +300,9 @@ conception what a light sleeper is.’
 ‘Hallo!’ said Jonas, ‘Who’s that? Oh, old what’s-his-name: looking (as
 usual) as if he wanted to skulk up the chimney.’
 
-‘Ha, ha! I have no doubt he does.’
+‘Ha, ha! I have no [[Doubt|doubt]] he does.’
 
-‘Well! He’s not wanted here, I suppose,’ said Jonas. ‘He may go, mayn’t
+‘[[Well]]! He’s not wanted here, I suppose,’ said Jonas. ‘He may go, mayn’t
 he?’
 
 ‘Oh, let him stay, let him stay!’ said Tigg. ‘He’s a mere piece of
@@ -315,12 +315,12 @@ by any means. He understands his business.’
 appearance that I ever saw, he’s about the worst. He’s afraid of me, I
 think.’
 
-‘It’s my belief,’ said Tigg, ‘that you are Poison to him. Nadgett! give
+‘It’s my belief,’ said Tigg, ‘that you are [[Poison]] to him. Nadgett! give
 me that towel!’
 
 He had as little occasion for a towel as Jonas had for a start. But
 Nadgett brought it quickly; and, having lingered for a moment, fell back
-upon his old post by the fire.
+upon his old post by the [[Fire|fire]].
 
 ‘You see, my dear fellow,’ resumed Tigg, ‘you are too--what’s the matter
 with your lips? How white they are!’
@@ -334,39 +334,39 @@ right again.’
 
 ‘Say what you were going to say,’ cried Jonas angrily, ‘and let my face
 be! As long as I can show my teeth when I want to (and I can do that
-pretty well), the colour of my lips is not material.’
+pretty [[Well|well]]), the colour of my lips is not material.’
 
 ‘Quite true,’ said Tigg. ‘I was only going to say that you are too quick
 and active for our friend. He is too shy to cope with such a man as you,
-but does his duty well. Oh, very well! But what is a light sleeper?’
+but does his duty [[Well|well]]. Oh, very [[Well|well]]! But what is a light sleeper?’
 
 ‘Hang a light sleeper!’ exclaimed Jonas pettishly.
 
 ‘No, no,’ interrupted Tigg. ‘No. We’ll not do that.’
 
 ‘A light sleeper ain’t a heavy one,’ said Jonas in his sulky way; ‘don’t
-sleep much, and don’t sleep well, and don’t sleep sound.’
+[[Sleep|sleep]] much, and don’t [[Sleep|sleep]] [[Well|well]], and don’t [[Sleep|sleep]] sound.’
 
-‘And dreams,’ said Tigg, ‘and cries out in an ugly manner; and when the
-candle burns down in the night, is in an agony; and all that sort of
+‘And [[Dreams|dreams]],’ said Tigg, ‘and cries out in an ugly manner; and when the
+candle burns down in the [[Night|night]], is in an agony; and all that sort of
 thing. I see!’
 
-They were silent for a little time. Then Jonas spoke:
+They were silent for a little [[Time|time]]. Then Jonas spoke:
 
-‘Now we’ve done with child’s talk, I want to have a word with you. I
+‘Now we’ve done with [[Child|child]]’s talk, I want to have a word with you. I
 want to have a word with you before we meet up yonder to-day. I am not
 satisfied with the state of affairs.’
 
-‘Not satisfied!’ cried Tigg. ‘The money comes in well.’
+‘Not satisfied!’ cried Tigg. ‘The money comes in [[Well|well]].’
 
-‘The money comes in well enough,’ retorted Jonas, ‘but it don’t come
-out well enough. It can’t be got at easily enough. I haven’t sufficient
+‘The money comes in [[Well|well]] enough,’ retorted Jonas, ‘but it don’t come
+out [[Well|well]] enough. It can’t be got at easily enough. I haven’t sufficient
 power; it is all in your hands. Ecod! what with one of your by-laws, and
 another of your by-laws, and your votes in this capacity, and your votes
 in that capacity, and your official rights, and your individual rights,
 and other people’s rights who are only you again, there are no rights
 left for me. Everybody else’s rights are my wrongs. What’s the use of my
-having a voice if it’s always drowned? I might as well be dumb, and
+having a voice if it’s always drowned? I might as [[Well|well]] be dumb, and
 it would be much less aggravating. I’m not a-going to stand that, you
 know.’
 
@@ -376,19 +376,19 @@ know.’
 office, and make you glad to buy me out at a good high figure, if you
 try any of your tricks with me.’
 
-‘I give you my honour--’ Montague began.
+‘I give you my [[Honour|honour]]--’ Montague began.
 
-‘Oh! confound your honour,’ interrupted Jonas, who became more coarse
+‘Oh! confound your [[Honour|honour]],’ interrupted Jonas, who became more coarse
 and quarrelsome as the other remonstrated, which may have been a part of
 Mr Montague’s intention; ‘I want a little more control over the money.
-You may have all the honour, if you like; I’ll never bring you to book
+You may have all the [[Honour|honour]], if you like; I’ll never bring you to book
 for that. But I’m not a-going to stand it, as it is now. If you should
 take it into your honourable head to go abroad with the bank, I don’t
-see much to prevent you. Well! That won’t do. I’ve had some very good
+see much to prevent you. [[Well]]! That won’t do. I’ve had some very good
 dinners here, but they’d come too dear on such terms; and therefore,
 that won’t do.’
 
-‘I am unfortunate to find you in this humour,’ said Tigg, with a
+‘I am unfortunate to find you in this [[Humour|humour]],’ said Tigg, with a
 remarkable kind of smile; ‘for I was going to propose to you--for your
 own advantage; solely for your own advantage--that you should venture a
 little more with us.’
@@ -402,11 +402,11 @@ whom we should be delighted to receive.’
 ‘How kind of you! You’d be delighted to receive ‘em, would you?’ said
 Jonas, bantering.
 
-‘I give you my sacred honour, quite transported. As your friends,
+‘I give you my sacred [[Honour|honour]], quite transported. As your friends,
 observe!’
 
 ‘Exactly,’ said Jonas; ‘as my friends, of course. You’ll be very much
-delighted when you get ‘em, I have no doubt. And it’ll be all to my
+delighted when you get ‘em, I have no [[Doubt|doubt]]. And it’ll be all to my
 advantage, won’t it?’
 
 ‘It will be very much to your advantage,’ answered Montague poising a
@@ -434,10 +434,10 @@ ear.
 
 From red to white; from white to red again; from red to yellow; then to
 a cold, dull, awful, sweat-bedabbled blue. In that short whisper, all
-these changes fell upon the face of Jonas Chuzzlewit; and when at last
+these changes fell upon the face of [[Jonas Chuzzlewit]]; and when at last
 he laid his hand upon the whisperer’s mouth, appalled, lest any syllable
 of what he said should reach the ears of the third person present, it
-was as bloodless and as heavy as the hand of Death.
+was as bloodless and as heavy as the hand of [[Death]].
 
 He drew his chair away, and sat a spectacle of terror, misery, and
 rage. He was afraid to speak, or look, or move, or sit still. Abject,
@@ -453,10 +453,10 @@ further with us, Chuzzlewit, my friend?’
 
 His pale lips faintly stammered out a ‘No.’
 
-‘Well said! That’s like yourself. Do you know I was thinking yesterday
+‘[[Well]] said! That’s like yourself. Do you know I was thinking yesterday
 that your father-in-law, relying on your advice as a man of great
-sagacity in money matters, as no doubt you are, would join us, if the
-thing were well presented to him. He has money?’
+sagacity in money matters, as no [[Doubt|doubt]] you are, would join us, if the
+thing were [[Well|well]] presented to him. He has money?’
 
 ‘Yes, he has money.’
 
@@ -471,7 +471,7 @@ Pecksniff.’
 They went down in that order. Whatever Jonas felt in reference to
 Montague; whatever sense he had of being caged, and barred, and trapped,
 and having fallen down into a pit of deepest ruin; whatever thoughts
-came crowding on his mind even at that early time, of one terrible
+came crowding on his mind even at that early [[Time|time]], of one terrible
 chance of escape, of one red glimmer in a sky of blackness; he no more
 thought that the slinking figure half-a-dozen stairs behind him was
 his pursuing Fate, than that the other figure at his side was his Good

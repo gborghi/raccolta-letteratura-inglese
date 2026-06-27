@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 9 (part 4)"
+title: "[[Emma]] — Chapter 9 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -19,8 +19,8 @@ tags:
 Kitty, a fair but frozen maid.
 
 
-The name makes me think of poor Isabella; for she was very near being
-christened Catherine after her grandmama. I hope we shall have her here
+The name makes me think of poor [[Isabella]]; for she was very near being
+christened Catherine after her grandmama. I [[Hope|hope]] we shall have her here
 next week. Have you thought, my dear, where you shall put her—and what
 room there will be for the children?”
 
@@ -30,7 +30,7 @@ know. Why should there be any change?”
 
 “I do not know, my dear—but it is so long since she was here!—not since
 last Easter, and then only for a few days.—Mr. John Knightley’s being a
-lawyer is very inconvenient.—Poor Isabella!—she is sadly taken away
+lawyer is very inconvenient.—Poor [[Isabella]]!—she is sadly taken away
 from us all!—and how sorry she will be when she comes, not to see Miss
 Taylor here!”
 
@@ -39,46 +39,46 @@ Taylor here!”
 “I do not know, my dear. I am sure I was very much surprized when I
 first heard she was going to be married.”
 
-“We must ask Mr. and Mrs. Weston to dine with us, while Isabella is
+“We must ask Mr. and Mrs. Weston to dine with us, while [[Isabella]] is
 here.”
 
-“Yes, my dear, if there is time.—But—(in a very depressed tone)—she is
-coming for only one week. There will not be time for any thing.”
+“Yes, my dear, if there is [[Time|time]].—But—(in a very depressed tone)—she is
+coming for only one week. There will not be [[Time|time]] for any thing.”
 
 “It is unfortunate that they cannot stay longer—but it seems a case of
 necessity. Mr. John Knightley must be in town again on the 28th, and we
-ought to be thankful, papa, that we are to have the whole of the time
+ought to be thankful, papa, that we are to have the whole of the [[Time|time]]
 they can give to the country, that two or three days are not to be
 taken out for the Abbey. Mr. Knightley promises to give up his claim
 this Christmas—though you know it is longer since they were with him,
 than with us.”
 
-“It would be very hard, indeed, my dear, if poor Isabella were to be
+“It would be very hard, indeed, my dear, if poor [[Isabella]] were to be
 anywhere but at Hartfield.”
 
 Mr. Woodhouse could never allow for Mr. Knightley’s claims on his
-brother, or any body’s claims on Isabella, except his own. He sat
+brother, or any [[Body|body]]’s claims on [[Isabella]], except his own. He sat
 musing a little while, and then said,
 
-“But I do not see why poor Isabella should be obliged to go back so
-soon, though he does. I think, Emma, I shall try and persuade her to
-stay longer with us. She and the children might stay very well.”
+“But I do not see why poor [[Isabella]] should be obliged to go back so
+soon, though he does. I think, [[Emma]], I shall try and persuade her to
+stay longer with us. She and the children might stay very [[Well|well]].”
 
 “Ah! papa—that is what you never have been able to accomplish, and I do
-not think you ever will. Isabella cannot bear to stay behind her
+not think you ever will. [[Isabella]] cannot bear to stay behind her
 husband.”
 
 This was too true for contradiction. Unwelcome as it was, Mr. Woodhouse
-could only give a submissive sigh; and as Emma saw his spirits affected
+could only give a submissive sigh; and as [[Emma]] saw his spirits affected
 by the idea of his daughter’s attachment to her husband, she
 immediately led to such a branch of the subject as must raise them.
 
 “Harriet must give us as much of her company as she can while my
 brother and sister are here. I am sure she will be pleased with the
-children. We are very proud of the children, are not we, papa? I wonder
+children. We are very proud of the children, are not we, papa? I [[Wonder|wonder]]
 which she will think the handsomest, Henry or John?”
 
-“Aye, I wonder which she will. Poor little dears, how glad they will be
+“Aye, I [[Wonder|wonder]] which she will. Poor little dears, how glad they will be
 to come. They are very fond of being at Hartfield, Harriet.”
 
 “I dare say they are, sir. I am sure I do not know who is not.”
@@ -86,7 +86,7 @@ to come. They are very fond of being at Hartfield, Harriet.”
 “Henry is a fine boy, but John is very like his mama. Henry is the
 eldest, he was named after me, not after his father. John, the second,
 is named after his father. Some people are surprized, I believe, that
-the eldest was not, but Isabella would have him called Henry, which I
+the eldest was not, but [[Isabella]] would have him called Henry, which I
 thought very pretty of her. And he is a very clever boy, indeed. They
 are all remarkably clever; and they have so many pretty ways. They will
 come and stand by my chair, and say, ‘Grandpapa, can you give me a bit
@@ -94,7 +94,7 @@ of string?’ and once Henry asked me for a knife, but I told him knives
 were only made for grandpapas. I think their father is too rough with
 them very often.”
 
-“He appears rough to you,” said Emma, “because you are so very gentle
+“He appears rough to you,” said [[Emma]], “because you are so very gentle
 yourself; but if you could compare him with other papas, you would not
 think him rough. He wishes his boys to be active and hardy; and if they
 misbehave, can give them a sharp word now and then; but he is an
@@ -108,14 +108,14 @@ very frightful way!”
 enjoyment to them, that if their uncle did not lay down the rule of
 their taking turns, whichever began would never give way to the other.”
 
-“Well, I cannot understand it.”
+“[[Well]], I cannot understand it.”
 
 “That is the case with us all, papa. One half of the world cannot
 understand the pleasures of the other.”
 
 Later in the morning, and just as the girls were going to separate in
-preparation for the regular four o’clock dinner, the hero of this
-inimitable charade walked in again. Harriet turned away; but Emma could
+preparation for the regular four o’[[Clock|clock]] dinner, the [[Hero|hero]] of this
+inimitable charade walked in again. Harriet turned away; but [[Emma]] could
 receive him with the usual smile, and her quick eye soon discerned in
 his the consciousness of having made a push—of having thrown a die; and
 she imagined he was come to see how it might turn up. His ostensible
@@ -126,22 +126,22 @@ way; but otherwise his friend Cole had been saying so much about his
 dining with him—had made such a point of it, that he had promised him
 conditionally to come.
 
-Emma thanked him, but could not allow of his disappointing his friend
+[[Emma]] thanked him, but could not allow of his disappointing his friend
 on their account; her father was sure of his rubber. He re-urged—she
 re-declined; and he seemed then about to make his bow, when taking the
 paper from the table, she returned it—
 
 “Oh! here is the charade you were so obliging as to leave with us;
 thank you for the sight of it. We admired it so much, that I have
-ventured to write it into Miss Smith’s collection. Your friend will not
-take it amiss I hope. Of course I have not transcribed beyond the first
+ventured to write it into Miss [[smith|Smith]]’s collection. Your friend will not
+take it amiss I [[Hope|hope]]. Of course I have not transcribed beyond the first
 eight lines.”
 
-Mr. Elton certainly did not very well know what to say. He looked
+Mr. Elton certainly did not very [[Well|well]] know what to say. He looked
 rather doubtingly—rather confused; said something about
-“honour,”—glanced at Emma and at Harriet, and then seeing the book open
+“[[Honour|honour]],”—glanced at [[Emma]] and at Harriet, and then seeing the book open
 on the table, took it up, and examined it very attentively. With the
-view of passing off an awkward moment, Emma smilingly said,
+view of passing off an awkward moment, [[Emma]] smilingly said,
 
 “You must make my apologies to your friend; but so good a charade must
 not be confined to one or two. He may be sure of every woman’s
@@ -149,13 +149,13 @@ approbation while he writes with such gallantry.”
 
 “I have no hesitation in saying,” replied Mr. Elton, though hesitating
 a good deal while he spoke; “I have no hesitation in saying—at least if
-my friend feels at all as _I_ do—I have not the smallest doubt that,
+my friend feels at all as _I_ do—I have not the smallest [[Doubt|doubt]] that,
 could he see his little effusion honoured as _I_ see it, (looking at
 the book again, and replacing it on the table), he would consider it as
 the proudest moment of his life.”
 
-After this speech he was gone as soon as possible. Emma could not think
+After this speech he was gone as soon as possible. [[Emma]] could not think
 it too soon; for with all his good and agreeable qualities, there was a
 sort of parade in his speeches which was very apt to incline her to
 laugh. She ran away to indulge the inclination, leaving the tender and
-the sublime of pleasure to Harriet’s share.
+the [[Sublime|sublime]] of pleasure to Harriet’s share.

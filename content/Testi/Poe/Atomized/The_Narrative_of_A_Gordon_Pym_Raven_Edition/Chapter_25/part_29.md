@@ -50,13 +50,13 @@ tags:
 
       impediments such as these, to stay the course of men who,
 
-      naturally brave, and at that time especially, brimful of courage
+      naturally brave, and at that [[Time|time]] especially, brimful of [[Courage|courage]]
 
       and of “humming-stuff,” would have reeled, as straight as their
 
       condition might have permitted, undauntedly into the very jaws of
 
-      Death. Onward—still onward stalked the grim Legs, making the
+      [[Death]]. Onward—still onward stalked the grim Legs, making the
 
       desolate solemnity echo and re-echo with yells like the terrific
 
@@ -88,7 +88,7 @@ tags:
 
       rubbish, it was by no means seldom that the hand fell upon a
 
-      skeleton or rested upon a more fleshly corpse.
+      [[skeleton]] or rested upon a more fleshly corpse.
 
 
 
@@ -100,11 +100,11 @@ tags:
 
       in a rapid succession of wild, laughter-like, and fiendish
 
-      shrieks. Nothing daunted at sounds which, of such a nature, at
+      shrieks. Nothing daunted at sounds which, of such a [[Nature|nature]], at
 
-      such a time, and in such a place, might have curdled the very
+      such a [[Time|time]], and in such a place, might have curdled the very
 
-      blood in hearts less irrevocably on fire, the drunken couple
+      [[Blood|blood]] in hearts less irrevocably on [[Fire|fire]], the drunken couple
 
       rushed headlong against the door, burst it open, and staggered
 
@@ -120,7 +120,7 @@ tags:
 
       whose depths the occasional sound of bursting bottles proclaimed
 
-      to be well stored with their appropriate contents. In the middle
+      to be [[Well|well]] stored with their appropriate contents. In the middle
 
       of the room stood a table—in the centre of which again arose a
 
@@ -146,11 +146,11 @@ tags:
 
       His face was as yellow as saffron—but no feature excepting one
 
-      alone, was sufficiently marked to merit a particular description.
+      [[Alone|alone]], was sufficiently marked to merit a particular description.
 
       This one consisted in a forehead so unusually and hideously
 
-      lofty, as to have the appearance of a bonnet or crown of flesh
+      lofty, as to have the appearance of a bonnet or [[Crown|crown]] of flesh
 
       superadded upon the natural head. His mouth was puckered and
 
@@ -170,7 +170,7 @@ tags:
 
       he held a huge human thigh-bone, with which he appeared to have
 
-      been just knocking down some member of the company for a song.
+      been just knocking down some member of the company for a [[Song|song]].
 
 
 

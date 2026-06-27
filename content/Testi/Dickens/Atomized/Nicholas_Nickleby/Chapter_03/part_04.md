@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 3 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 3 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘“EDUCATION.--At Mr. Wackford Squeers’s Academy, Dotheboys Hall, at the
+‘“[[Education|EDUCATION]].--At Mr. [[Wackford Squeers]]’s Academy, Dotheboys Hall, at the
 delightful village of Dotheboys, near Greta Bridge in Yorkshire, Youth
 are boarded, clothed, booked, furnished with pocket-money, provided
 with all necessaries, instructed in all languages living and dead,
@@ -23,7 +23,7 @@ the globes, algebra, single stick (if required), writing, arithmetic,
 fortification, and every other branch of classical literature.
 Terms, twenty guineas per annum. No extras, no vacations, and diet
 unparalleled. Mr. Squeers is in town, and attends daily, from one till
-four, at the Saracen’s Head, Snow Hill. N.B. An able assistant wanted.
+four, at the Saracen’s Head, [[Snow]] [[Hill]]. N.B. An able assistant wanted.
 Annual salary 5 pounds. A Master of Arts would be preferred.”
 
 ‘There!’ said Ralph, folding the paper again. ‘Let him get that
@@ -42,15 +42,15 @@ best.’
 ‘I say,’ repeated Ralph, tartly, ‘let him get that situation, and his
 fortune is made. If he don’t like that, let him get one for himself.
 Without friends, money, recommendation, or knowledge of business of any
-kind, let him find honest employment in London, which will keep him in
+kind, let him find honest employment in [[London]], which will keep him in
 shoe leather, and I’ll give him a thousand pounds. At least,’ said Mr
-Ralph Nickleby, checking himself, ‘I would if I had it.’
+[[Ralph Nickleby]], checking himself, ‘I would if I had it.’
 
 ‘Poor fellow!’ said the young lady. ‘Oh! uncle, must we be separated so
 soon!’
 
 ‘Don’t tease your uncle with questions when he is thinking only for our
-good, my love,’ said Mrs. Nickleby. ‘Nicholas, my dear, I wish you would
+good, my [[Love|love]],’ said Mrs. Nickleby. ‘Nicholas, my dear, I wish you would
 say something.’
 
 ‘Yes, mother, yes,’ said Nicholas, who had hitherto remained silent and
@@ -70,7 +70,7 @@ Squeers at once; he can but refuse.’
 
 ‘He won’t do that,’ said Ralph. ‘He will be glad to have you on my
 recommendation. Make yourself of use to him, and you’ll rise to be a
-partner in the establishment in no time. Bless me, only think! if he
+partner in the establishment in no [[Time|time]]. Bless me, only think! if he
 were to die, why your fortune’s made at once.’
 
 ‘To be sure, I see it all,’ said poor Nicholas, delighted with a
@@ -84,42 +84,42 @@ uncle?’
 ‘Ah, to be sure!’ sneered Ralph.
 
 ‘And who knows, but when he came to see me when I was settled (as he
-would of course), he might fall in love with Kate, who would be keeping
-my house, and--and marry her, eh! uncle? Who knows?’
+would of course), he might fall in [[Love|love]] with Kate, who would be keeping
+my [[house]], and--and marry her, eh! uncle? Who knows?’
 
 ‘Who, indeed!’ snarled Ralph.
 
-‘How happy we should be!’ cried Nicholas with enthusiasm. ‘The pain of
+‘How happy we should be!’ cried Nicholas with enthusiasm. ‘The [[Pain|pain]] of
 parting is nothing to the joy of meeting again. Kate will be a beautiful
 woman, and I so proud to hear them say so, and mother so happy to
 be with us once again, and all these sad times forgotten, and--’ The
 picture was too bright a one to bear, and Nicholas, fairly overpowered
-by it, smiled faintly, and burst into tears.
+by it, smiled faintly, and burst into [[Tears|tears]].
 
 This simple family, born and bred in retirement, and wholly unacquainted
 with what is called the world--a conventional phrase which, being
-interpreted, often signifieth all the rascals in it--mingled their tears
+interpreted, often signifieth all the rascals in it--mingled their [[Tears|tears]]
 together at the thought of their first separation; and, this first gush
 of feeling over, were proceeding to dilate with all the buoyancy of
-untried hope on the bright prospects before them, when Mr. Ralph Nickleby
-suggested, that if they lost time, some more fortunate candidate
+untried [[Hope|hope]] on the bright prospects before them, when Mr. [[Ralph Nickleby]]
+suggested, that if they lost [[Time|time]], some more fortunate candidate
 might deprive Nicholas of the stepping-stone to fortune which the
 advertisement pointed out, and so undermine all their air-built castles.
 This timely reminder effectually stopped the conversation. Nicholas,
 having carefully copied the address of Mr. Squeers, the uncle and nephew
-issued forth together in quest of that accomplished gentleman; Nicholas
+issued forth together in [[Quest|quest]] of that accomplished gentleman; Nicholas
 firmly persuading himself that he had done his relative great injustice
 in disliking him at first sight; and Mrs. Nickleby being at some pains to
 inform her daughter that she was sure he was a much more kindly disposed
 person than he seemed; which, Miss Nickleby dutifully remarked, he might
 very easily be.
 
-To tell the truth, the good lady’s opinion had been not a little
+To tell the [[Truth|truth]], the good lady’s opinion had been not a little
 influenced by her brother-in-law’s appeal to her better understanding,
 and his implied compliment to her high deserts; and although she had
 dearly loved her husband, and still doted on her children, he had struck
 so successfully on one of those little jarring chords in the human heart
-(Ralph was well acquainted with its worst weaknesses, though he knew
+(Ralph was [[Well|well]] acquainted with its worst weaknesses, though he knew
 nothing of its best), that she had already begun seriously to consider
-herself the amiable and suffering victim of her late husband’s
+herself the amiable and [[Suffering|suffering]] victim of her late husband’s
 imprudence.

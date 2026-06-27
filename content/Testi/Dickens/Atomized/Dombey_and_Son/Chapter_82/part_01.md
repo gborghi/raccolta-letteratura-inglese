@@ -22,11 +22,11 @@ Your most obedient, Sir,” said the Major. “Damme, Sir, a friend of my
 friend Dombey’s is a friend of mine, and I’m glad to see you!”
 
 “I am infinitely obliged, Carker,” explained Mr Dombey, “to Major
-Bagstock, for his company and conversation. Major Bagstock has rendered
+Bagstock, for his company and conversation. [[Major Bagstock]] has rendered
 me great service, Carker.”
 
 Mr Carker the Manager, hat in hand, just arrived at Leamington, and
-just introduced to the Major, showed the Major his whole double range
+just introduced to the Major, showed the Major his whole [[Double|double]] range
 of teeth, and trusted he might take the liberty of thanking him with
 all his heart for having effected so great an Improvement in Mr
 Dombey’s looks and spirits.
@@ -36,13 +36,13 @@ me, for it’s a give and take affair. A great creature like our friend
 Dombey, Sir,” said the Major, lowering his voice, but not lowering it
 so much as to render it inaudible to that gentleman, “cannot help
 improving and exalting his friends. He strengthens and invigorates a
-man, Sir, does Dombey, in his moral nature.”
+man, Sir, does Dombey, in his moral [[Nature|nature]].”
 
-Mr Carker snapped at the expression. In his moral nature. Exactly. The
+Mr Carker snapped at the expression. In his moral [[Nature|nature]]. Exactly. The
 very words he had been on the point of suggesting.
 
 “But when my friend Dombey, Sir,” added the Major, “talks to you of
-Major Bagstock, I must crave leave to set him and you right. He means
+[[Major Bagstock]], I must crave leave to set him and you right. He means
 plain Joe, Sir—Joey B.—Josh. Bagstock—Joseph—rough and tough Old J.,
 Sir. At your service.”
 
@@ -57,7 +57,7 @@ amount of business to talk over.”
 
 “Dombey,” said the Major, defiantly, “I know better; a man of your
 mark—the Colossus of commerce—is not to be interrupted. Your moments
-are precious. We shall meet at dinner-time. In the interval, old Joseph
+are precious. We shall meet at dinner-[[Time|time]]. In the interval, old Joseph
 will be scarce. The dinner-hour is a sharp seven, Mr Carker.”
 
 With that, the Major, greatly swollen as to his face, withdrew; but
@@ -90,7 +90,7 @@ following him with his teeth.
 
 “Very great indeed,” said Mr Dombey.
 
-“He has friends here, no doubt,” pursued Carker. “I perceive, from what
+“He has friends here, no [[Doubt|doubt]],” pursued Carker. “I perceive, from what
 he has said, that you go into society here. Do you know,” smiling
 horribly, “I am so very glad that you go into society!”
 
@@ -99,21 +99,21 @@ second in command, by twirling his watch-chain, and slightly moving his
 head.
 
 “You were formed for society,” said Carker. “Of all the men I know, you
-are the best adapted, by nature and by position, for society. Do you
+are the best adapted, by [[Nature|nature]] and by position, for society. Do you
 know I have been frequently amazed that you should have held it at
 arm’s length so long!”
 
-“I have had my reasons, Carker. I have been alone, and indifferent to
+“I have had my reasons, Carker. I have been [[Alone|alone]], and indifferent to
 it. But you have great social qualifications yourself, and are the more
 likely to have been surprised.”
 
-“Oh! I!” returned the other, with ready self-disparagement. “It’s quite
+“Oh! I!” returned the other, with ready [[Self|self]]-disparagement. “It’s quite
 another matter in the case of a man like me. I don’t come into
 comparison with you.”
 
 Mr Dombey put his hand to his neckcloth, settled his chin in it,
 coughed, and stood looking at his faithful friend and servant for a few
-moments in silence.
+moments in [[Silence|silence]].
 
 “I shall have the pleasure, Carker,” said Mr Dombey at length: making
 as if he swallowed something a little too large for his throat: “to
@@ -142,20 +142,20 @@ showed him every gum of which it stood possessed.
 “You are very kind,” said Carker, “I shall be delighted to know them.
 Speaking of daughters, I have seen Miss Dombey.”
 
-There was a sudden rush of blood to Mr Dombey’s face.
+There was a sudden rush of [[Blood|blood]] to Mr Dombey’s face.
 
 “I took the liberty of waiting on her,” said Carker, “to inquire if she
 could charge me with any little commission. I am not so fortunate as to
-be the bearer of any but her—but her dear love.”
+be the bearer of any but her—but her dear [[Love|love]].”
 
 Wolf’s face that it was then, with even the hot tongue revealing itself
 through the stretched mouth, as the eyes encountered Mr Dombey’s!
 
 “What business intelligence is there?” inquired the latter gentleman,
-after a silence, during which Mr Carker had produced some memoranda and
+after a [[Silence|silence]], during which Mr Carker had produced some memoranda and
 other papers.
 
 “There is very little,” returned Carker. “Upon the whole we have not
 had our usual good fortune of late, but that is of little moment to
-you. At Lloyd’s, they give up the Son and Heir for lost. Well, she was
+you. At Lloyd’s, they give up the Son and Heir for lost. [[Well]], she was
 insured, from her keel to her masthead.”

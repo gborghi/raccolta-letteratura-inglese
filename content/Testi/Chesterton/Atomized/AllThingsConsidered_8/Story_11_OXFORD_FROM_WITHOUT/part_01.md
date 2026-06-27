@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 1)"
+title: "[[AllThingsConsidered-8]] — [[Oxford|OXFORD]] FROM WITHOUT (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-OXFORD FROM WITHOUT
+[[Oxford|OXFORD]] FROM WITHOUT
 
 
-Some time ago I ventured to defend that race of hunted and
+Some [[Time|time]] ago I ventured to defend that race of hunted and
 persecuted outlaws, the Bishops; but until this week I had no
 idea of how much persecuted they were.  For instance, the Bishop
-of Birmingham made some extremely sensible remarks in the House
-of Lords, to the effect that Oxford and Cambridge were (as everybody
+of Birmingham made some extremely sensible remarks in the [[house|House]]
+of Lords, to the effect that [[Oxford]] and Cambridge were (as everybody
 knows they are) far too much merely plutocratic playgrounds.
 One would have thought that an Anglican Bishop might be allowed to know
 something about the English University system, and even to have,
@@ -51,7 +51,7 @@ All that is quite simple and jolly.  But then this critic, who crushes
 Dr. Gore from the high throne of the _Outlook_, goes on in a way
 that is really perplexing.  "It is distinctly advantageous," he says,
 "that rich and poor--_i. e._, young men with a smooth path in life
-before them, and those who have to hew out a road for themselves--
+before them, and those who have to hew out a [[Road|road]] for themselves--
 should be brought into association.  Each class learns a great deal
 from the other.  On the one side, social conceit and exclusiveness
 give way to the free spirit of competition amongst all classes;
@@ -61,13 +61,13 @@ with this extraordinary sentence:  "We get the net result in such
 careers as those of Lord Milner, Lord Curzon, and Mr. Asquith."
 
 Those three names lay my intellect prostrate.  The rest of the argument
-I understand quite well.  The social exclusiveness of aristocrats at
-Oxford and Cambridge gives way before the free spirit of competition
-amongst all classes.  That is to say, there is at Oxford so hot
-and keen a struggle, consisting of coal-heavers, London clerks,
+I understand quite [[Well|well]].  The social exclusiveness of aristocrats at
+[[Oxford]] and Cambridge gives way before the free spirit of competition
+amongst all classes.  That is to say, there is at [[Oxford]] so hot
+and keen a struggle, consisting of coal-heavers, [[London]] clerks,
 gypsies, navvies, drapers' assistants, grocers' assistants--in short,
 all the classes that make up the bulk of England--there is such a fierce
-competition at Oxford among all these people that in its presence
+competition at [[Oxford]] among all these people that in its presence
 aristocratic exclusiveness gives way.  That is all quite clear.
 I am not quite sure about the facts, but I quite understand
 the argument.  But then, having been called upon to contemplate
@@ -77,26 +77,26 @@ Lord Milner, Lord Curzon, and the present Chancellor of the Exchequer.
 What part do these gentlemen play in the mental process?
 Is Lord Curzon one of the rugged and ragged poor men whose
 angularities have been rubbed away?  Or is he one of those whom
-Oxford immediately deprived of all kind of social exclusiveness?
-His Oxford reputation does not seem to bear out either account of him.
-To regard Lord Milner as a typical product of Oxford would surely
+[[Oxford]] immediately deprived of all kind of social exclusiveness?
+His [[Oxford]] reputation does not seem to bear out either account of him.
+To regard Lord Milner as a typical product of [[Oxford]] would surely
 be unfair.  It would be to deprive the educational tradition of
-Germany of one of its most typical products.  English aristocrats
+[[Germany]] of one of its most typical products.  English aristocrats
 have their faults, but they are not at all like Lord Milner.
 What Mr. Asquith was meant to prove, whether he was a rich man
 who lost his exclusiveness, or a poor man who lost his angles,
 I am utterly unable to conceive.
 
-There is, however, one mild but very evident truth that might perhaps
+There is, however, one mild but very evident [[Truth|truth]] that might perhaps
 be mentioned.  And it is this:  that none of those three excellent
 persons is, or ever has been, a poor man in the sense that that word
 is understood by the overwhelming majority of the English nation.
-There are no poor men at Oxford in the sense that the majority of men
+There are no poor men at [[Oxford]] in the sense that the majority of men
 in the street are poor.  The very fact that the writer in the _Outlook_
 can talk about such people as poor shows that he does not understand
 what the modern problem is.  His kind of poor man rather reminds
 me of the Earl in the ballad by that great English satirist,
-Sir W.S. Gilbert, whose angles (very acute angles) had, I fear,
+Sir W.S. Gilbert, whose angles (very acute angles) had, I [[Fear|fear]],
 never been rubbed down by an old English University.  The reader
 will remember that when the Periwinkle-girl was adored by two Dukes,
 the poet added--
@@ -114,8 +114,8 @@ may be found in the verse a little farther on, which says--
 
 
   "He'd had, it happily befell,
-    A decent education;
-  His views would have befitted well
+    A decent [[Education|education]];
+  His views would have befitted [[Well|well]]
     A far superior station."
 
 
@@ -124,7 +124,7 @@ But I am afraid that the chasm will become almost imperceptible,
 a microscopic crack, if we compare it with the chasm that separates
 either or both of them from the people of this country.
 
-Of course the truth is exactly as the Bishop of Birmingham put it.
+Of course the [[Truth|truth]] is exactly as the Bishop of Birmingham put it.
 I am sure that he did not put it in any unkindly or contemptuous
 spirit towards those old English seats of learning, which whether
 they are or are not seats of learning, are, at any rate,
@@ -138,6 +138,6 @@ Granted that we are to be governed by a rich section of the community,
 it is certainly very important that that section should be kept
 tolerably genial and jolly.  If the sensitive man on the _Outlook_ does
 not like the phrase, "Playground of the rich," I can suggest a phrase
-that describes such a place as Oxford perhaps with more precision.
+that describes such a place as [[Oxford]] perhaps with more precision.
 It is a place for humanising those who might otherwise be tyrants,
 or even experts.

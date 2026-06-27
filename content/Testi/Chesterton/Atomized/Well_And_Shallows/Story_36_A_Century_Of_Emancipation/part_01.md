@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — A Century Of Emancipation (part 1)"
+title: "[[Well]] And Shallows — A Century Of Emancipation (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -22,12 +22,12 @@ substituting the precise contrary, and see whether it makes more sense
 that way.  It generally does; such a mass of outworn conventions
 has our daily commentary become.  An excellent example occurred
 recently concerning the prospects of Protestantism and Catholicism.
-The editor of the Sunday Express, once better known as a sympathetic
+The editor of the [[Sunday]] Express, once better known as a sympathetic
 critic of letters, summed up the matter by saying that he had no
 prejudice against Catholicism or Anglo-Catholicism, that he had every
 respect for them, but that England (evidently including himself)
 was solidly Protestant.  This is a very neat and convenient statement
-of the exact opposite of the truth.  I have most friendly feelings
+of the exact opposite of the [[Truth|truth]].  I have most friendly feelings
 to the gentleman in question; and it is without the least animosity
 to him that I say that what is sincere and alive and active
 in him is Anti-Catholicism and nothing else.  What is really
@@ -41,16 +41,16 @@ There might perhaps be a case for calling it liquid Protestantism.
 Now this marks the chief change of the century since
 Catholic Emancipation.  The political circumstances of the final
 Tory surrender to Emancipation were, of course, complex.
-Emancipation seemed to some a sort of mongrel and monster;
-produced by two opposites; the survival of the Old Religion
-and the principles of the French Revolution.  But in such
-things there are complex harmonies as well as contradictions.
-In some ways the ultimate quarrel of Rome with the French Revolution
+Emancipation seemed to some a sort of mongrel and [[Monster|monster]];
+produced by two opposites; the [[Survival|survival]] of the Old Religion
+and the principles of the [[French Revolution]].  But in such
+things there are complex harmonies as [[Well|well]] as contradictions.
+In some ways the ultimate quarrel of Rome with the [[French Revolution]]
 was rather like the recent quarrel of Rome with the French Royalists.
 It was resistance to a pagan extreme; but there had been not a
 little Catholic sympathy before the thing reached that extreme.
 There had been countless liberal clerics in the first movements
-of the reform; Pius IX had begun by being the reverse of reactionary;
+of the [[Reform|reform]]; Pius IX had begun by being the reverse of reactionary;
 and the atmosphere was such that the gigantic protagonist
 of Catholic Emancipation himself, the great Daniel O'Connell,
 could combine passionate Ultramontanism with the largest
@@ -58,7 +58,7 @@ political Liberalism without any division in the simplicity
 of his mind or the general humanity of his ideals.
 Those who hated him both as a Radical and a Roman Catholic
 would have seen no inconsistency in those two hated things.
-The truth to seize about all that earlier situation is that
+The [[Truth|truth]] to seize about all that earlier situation is that
 the bigotry was on the other side; in one sense the theology was
 on the other side.  We cannot see it clearly in the statesmen;
 for they were either freethinkers or opportunists.
@@ -66,7 +66,7 @@ Wellington met his Waterloo; but he was a good soldier
 and therefore retreated when it was futile to stand.
 But if we look at the mass of the people, we find a real
 religious resistance--because there was a real religion.
-That resistance is now only found in America where just
+That resistance is now only found in [[America]] where just
 such a Democrat as Daniel O'Connell is still threatened
 with political exclusion solely for being a Catholic.
 In some points the Americans are a hundred years behind the times.
@@ -81,11 +81,11 @@ never lead, to the direct political disasters that some foretold.
 The Duke of Norfolk was never actually caught in the act of imitating
 Guy Fawkes; and Lord Russell of Killowen seldom if ever invited
 a Spanish Armada to these shores.  Outside certain local Puritan fevers,
-chiefly in America, there is no reason to suppose that the world
+chiefly in [[America]], there is no reason to suppose that the world
 will be so unreasonable as to repent having elected Catholic Mayors
 or sent out Catholic Ambassadors.  The cant about a foreign allegiance
 is still heard; but that is because a cant can long outlive a cause.
-Men who are wide awake are well aware that the Catholic internationalism,
+Men who are wide awake are [[Well|well]] aware that the Catholic internationalism,
 which bids men respect their national governments, is considerably
 less dangerous than the financial internationalism which may make
 a man betray his country, or the revolutionary internationalism

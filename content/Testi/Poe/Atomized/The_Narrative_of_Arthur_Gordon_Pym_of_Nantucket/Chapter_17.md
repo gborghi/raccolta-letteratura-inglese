@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 18"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -24,7 +24,7 @@ _January 18._ This morning[4] we continued to the southward, with the
 
 same pleasant weather as before. The sea was entirely smooth, the air
 
-tolerably warm and from the northeast, the temperature of the water
+tolerably warm and from the northeast, the temperature of the [[Water|water]]
 
 fifty-three. We now again got our sounding-gear in order, and, with a
 
@@ -32,7 +32,7 @@ hundred and fifty fathoms of line, found the current setting towards
 
 the pole at the rate of a mile an hour. This constant tendency to the
 
-southward, both in the wind and current, caused some degree of
+southward, both in the [[Wind|wind]] and current, caused some degree of
 
 speculation, and even of alarm, in different quarters of the schooner,
 
@@ -56,7 +56,7 @@ inches in height, with four very short legs, the feet armed with long
 
 claws of a brilliant scarlet, and resembling coral in substance. The
 
-body was covered with a straight silky hair, perfectly white. The tail
+[[Body|body]] was covered with a straight silky hair, perfectly white. The tail
 
 was peaked like that of a rat, and about a foot and a half long. The
 
@@ -72,11 +72,11 @@ scarlet as the claws.
 
 of to avoid confusion in my narrative, as far as possible, must not, of
 
-course, be taken in their ordinary sense. For a long time past we had
+course, be taken in their ordinary sense. For a long [[Time|time]] past we had
 
-had no night at all, the daylight being continual. The dates throughout
+had no [[Night|night]] at all, the daylight being continual. The dates throughout
 
-are according to nautical time, and the bearings must be understood as
+are according to nautical [[Time|time]], and the bearings must be understood as
 
 per compass. I would also remark in this place, that I cannot, in the
 
@@ -86,7 +86,7 @@ respect to dates, or latitudes and longitudes, having kept no regular
 
 journal until after the period of which this first portion treats. In
 
-many instances I have relied altogether upon memory.]
+many instances I have relied altogether upon [[Memory|memory]].]
 
 
 
@@ -98,25 +98,25 @@ from the masthead, and, upon a closer scrutiny, found it to be one of a
 
 group of very large islands. The shore was precipitous, and the
 
-interior seemed to be well wooded, a circumstance which occasioned us
+interior seemed to be [[Well|well]] wooded, a circumstance which occasioned us
 
 great joy. In about four hours from our first discovering the land we
 
-came to anchor in ten fathoms, sandy bottom, a league from the coast,
+came to anchor in ten fathoms, sandy [[Bottom|bottom]], a league from the coast,
 
 as a high surf, with strong ripples here and there, rendered a nearer
 
 approach of doubtful expediency. The two largest boats were now ordered
 
-out, and a party, well armed (among whom were Peters and myself),
+out, and a party, [[Well|well]] armed (among whom were Peters and myself),
 
 proceeded to look for an opening in the reef which appeared to encircle
 
-the island. After searching about for some time, we discovered an
+the island. After searching about for some [[Time|time]], we discovered an
 
 inlet, which we were entering, when we saw four large canoes put off
 
-from the shore, filled with men who seemed to be well armed. We waited
+from the shore, filled with men who seemed to be [[Well|well]] armed. We waited
 
 for them to come up, and, as they moved with great rapidity, they were
 
@@ -144,7 +144,7 @@ Their complexion a jet black, with thick and long woolly hair. They
 
 were clothed in skins of an unknown black animal, shaggy and silky, and
 
-made to fit the body with some degree of skill, the hair being inside,
+made to fit the [[Body|body]] with some degree of skill, the hair being inside,
 
 except where turned out about the neck, wrists, and ankles. Their arms
 
@@ -176,7 +176,7 @@ advanced towards us with his own. As soon as he came up with us he
 
 leaped on board the largest of our boats, and seated himself by the
 
-side of Captain Guy, pointing at the same time to the schooner, and
+side of Captain Guy, pointing at the same [[Time|time]] to the schooner, and
 
 repeating the words _Anamoo-moo!_ and _Lama-Lama!_ We now put back to
 
@@ -198,7 +198,7 @@ boats to be hoisted up, as a necessary precaution, and gave the chief
 
 (whose name we soon found to be _Too-wit_) to understand that we could
 
-admit no more than twenty of his men on deck at one time. With this
+admit no more than twenty of his men on deck at one [[Time|time]]. With this
 
 arrangement he appeared perfectly satisfied, and gave some directions
 
@@ -208,7 +208,7 @@ fifty yards off. Twenty of the savages now got on board, and proceeded
 
 to ramble over every part of the deck, and scramble about among the
 
-rigging, making themselves much at home, and examining every article
+rigging, making themselves much at [[Home|home]], and examining every article
 
 with great inquisitiveness.
 
@@ -244,13 +244,13 @@ affected.
 
 
 
-When the visiters had satisfied, as well as they could, their curiosity
+When the visiters had satisfied, as [[Well|well]] as they could, their curiosity
 
 in regard to our upper works, they were admitted below, when their
 
 amazement exceeded all bounds. Their astonishment now appeared to be
 
-far too deep for words, for they roamed about in silence, broken only
+far too deep for words, for they roamed about in [[Silence|silence]], broken only
 
 by low ejaculations. The arms afforded them much food for speculation,
 
@@ -262,7 +262,7 @@ rather took them for idols, seeing the care we had of them, and the
 
 attention with which we watched their movements while handling them. At
 
-the great guns their wonder was redoubled. They approached them with
+the great guns their [[Wonder|wonder]] was redoubled. They approached them with
 
 every mark of the profoundest reverence and awe, but forbore to examine
 
@@ -274,11 +274,11 @@ and he had got in the middle of the cabin, with his face to one and his
 
 back to the other, before he fairly perceived them. Upon raising his
 
-eyes and seeing his reflected self in the glass, I thought the savage
+eyes and seeing his reflected [[Self|self]] in the glass, I thought the savage
 
 would go mad; but, upon turning short round to make a retreat, and
 
-beholding himself a second time in the opposite direction, I was afraid
+beholding himself a second [[Time|time]] in the opposite direction, I was afraid
 
 he would expire upon the spot. No persuasions could prevail upon him to
 
@@ -292,7 +292,7 @@ upon deck.
 
 The whole of the savages were admitted on board in this manner, twenty
 
-at a time, Too-wit being suffered to remain during the entire period.
+at a [[Time|time]], Too-wit being suffered to remain during the entire period.
 
 We saw no disposition to thievery among them, nor did we miss a single
 
@@ -324,7 +324,7 @@ anomalies, for they were such when considered in regard to the
 
 latitude, induced Captain Guy to wish for a thorough investigation of
 
-the country, in the hope of making a profitable speculation in his
+the country, in the [[Hope|hope]] of making a profitable speculation in his
 
 discovery. For my own part, anxious as I was to know something more of
 
@@ -336,7 +336,7 @@ there was no telling how long it would last; and being already in the
 
 eighty-fourth parallel, with an open sea before us, a current setting
 
-strongly to the southward, and the wind fair, I could not listen with
+strongly to the southward, and the [[Wind|wind]] fair, I could not listen with
 
 any patience to a proposition of stopping longer than was absolutely
 
@@ -344,7 +344,7 @@ necessary for the health of the crew and the taking on board a proper
 
 supply of fuel and fresh provisions. I represented to the captain that
 
-we might easily make this group on our return, and winter here in the
+we might easily make this group on our return, and [[Winter|winter]] here in the
 
 event of being blocked up by the ice. He at length came into my views
 
@@ -362,11 +362,11 @@ through the reef in safety, coming to anchor about a mile from the
 
 shore, in an excellent bay, completely landlocked, on the southeastern
 
-coast of the main island, and in ten fathoms of water, black sandy
+coast of the main island, and in ten fathoms of [[Water|water]], black sandy
 
-bottom. At the head of this bay there were three fine springs (we were
+[[Bottom|bottom]]. At the head of this bay there were three fine springs (we were
 
-told) of good water, and we saw abundance of wood in the vicinity. The
+told) of good [[Water|water]], and we saw abundance of wood in the vicinity. The
 
 four canoes followed us in, keeping, however, at a respectful distance.
 
@@ -378,7 +378,7 @@ interior. To this Captain Guy consented; and ten savages being left on
 
 board as hostages, a party of us, twelve in all, got in readiness to
 
-attend the chief. We took care to be well armed, yet without evincing
+attend the chief. We took care to be [[Well|well]] armed, yet without evincing
 
 any distrust. The schooner had her guns run out, her boarding-nettings
 
@@ -406,7 +406,7 @@ temperate, or the northern frigid zones, and were altogether unlike
 
 those of the lower southern latitudes we had already traversed. The
 
-very rocks were novel in their mass, their colour, and their
+very rocks were [[Novel|novel]] in their mass, their colour, and their
 
 stratification; and the streams themselves, utterly incredible as it
 
@@ -416,33 +416,33 @@ we were scrupulous of tasting them, and, indeed, had difficulty in
 
 bringing ourselves to believe that their qualities were purely those of
 
-nature. At a small brook which crossed our path (the first we had
+[[Nature|nature]]. At a small brook which crossed our path (the first we had
 
 reached) Too-wit and his attendants halted to drink. On account of the
 
-singular character of the water, we refused to taste it, supposing it
+singular character of the [[Water|water]], we refused to taste it, supposing it
 
-to be polluted; and it was not until some time afterward we came to
+to be polluted; and it was not until some [[Time|time]] afterward we came to
 
 understand that such was the appearance of the streams throughout the
 
-whole group. I am at a loss to give a distinct idea of the nature of
+whole group. I am at a loss to give a distinct idea of the [[Nature|nature]] of
 
 this liquid, and cannot do so without many words. Although it flowed
 
-with rapidity in all declivities where common water would do so, yet
+with rapidity in all declivities where common [[Water|water]] would do so, yet
 
 never, except when falling in a cascade, had it the customary
 
 appearance of _limpidity_. It was, nevertheless, in point of fact, as
 
-perfectly limpid as any limestone water in existence, the difference
+perfectly limpid as any limestone [[Water|water]] in existence, the difference
 
 being only in appearance. At first sight, and especially in cases where
 
 little declivity was found, it bore resemblance, as regards
 
-consistency, to a thick infusion of gum Arabic in common water. But
+consistency, to a thick infusion of gum Arabic in common [[Water|water]]. But
 
 this was only the least remarkable of its extraordinary qualities. It
 
@@ -454,7 +454,7 @@ of a changeable silk. This variation in shade was produced in a manner
 
 which excited as profound astonishment in the minds of our party as the
 
-mirror had done in the case of Too-wit. Upon collecting a basinful, and
+[[Mirror|mirror]] had done in the case of Too-wit. Upon collecting a basinful, and
 
 allowing it to settle thoroughly, we perceived that the whole mass of
 
@@ -466,7 +466,7 @@ perfect in regard to their own particles among themselves, and
 
 imperfect in regard to neighbouring veins. Upon passing the blade of a
 
-knife athwart the veins, the water closed over it immediately, as with
+knife athwart the veins, the [[Water|water]] closed over it immediately, as with
 
 us, and also, in withdrawing it, all traces of the passage of the knife
 
@@ -476,6 +476,6 @@ accurately between two veins, a perfect separation was effected, which
 
 the power of cohesion did not immediately rectify. The phenomena of
 
-this water formed the first definite link in that vast chain of
+this [[Water|water]] formed the first definite link in that vast chain of
 
 apparent miracles with which I was destined to be at length encircled.

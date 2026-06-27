@@ -41,7 +41,7 @@ bottle," replied Wilson, with a curl of his pale lip. "The people
 
 round here, when they're all sodden up with Irish whisky, may
 
-believe in such things. I think they want a little education in this
+believe in such things. I think they want a little [[Education|education]] in this
 
 country."
 Horne Fisher's heavy eyelids fluttered in a faint attempt to rise,
@@ -53,12 +53,12 @@ tone of the investigator.
 
 spiritualism," he murmured. "They know too much about 'em. If you
 
-want a simple and childlike faith in any spirit that comes along you
+want a simple and childlike [[Faith|faith]] in any spirit that comes along you
 
-can get it in your favorite London."
+can get it in your favorite [[London]]."
 "I don't want to get it anywhere," said Wilson, shortly. "I say I'm
 
-dealing with much simpler things than your simple faith, with a
+dealing with much simpler things than your simple [[Faith|faith]], with a
 
 table and a chair and a ladder. Now what I want to say about them at
 
@@ -66,13 +66,13 @@ the start is this. They are all three made roughly enough of plain
 
 wood. But the table and the chair are fairly new and comparatively
 
-clean. The ladder is covered with dust and there is a cobweb under
+clean. The ladder is covered with [[Dust|dust]] and there is a cobweb under
 
 the top rung of it. That means that he borrowed the first two quite
 
 recently from some cottage, as we supposed, but the ladder has been
 
-a long time in this rotten old dustbin. Probably it was part of the
+a long [[Time|time]] in this rotten old dustbin. Probably it was part of the
 
 original furniture, an heirloom in this magnificent palace of the
 
@@ -96,7 +96,7 @@ in the construction of the tower itself."
 "Your reasoning seems to me excellent," said Sir Walter, who was
 
 listening attentively. "But what could it be?"
-"You see now what I mean about the ladder," went on the detective;
+"You see now what I mean about the ladder," went on the [[Detective|detective]];
 
 "it's the only old piece of furniture here and the first thing that
 
@@ -142,17 +142,17 @@ heads, a voice somewhat suggestive of an articulate yawn.
 "What are you waiting for?" asked Sir Walter, impatiently. "Can you
 
 see anything there?"
-"Well, yes, in a way," replied the voice, vaguely. "In fact, I see
+"[[Well]], yes, in a way," replied the voice, vaguely. "In fact, I see
 
 it quite plain now."
 "What is it?" asked Wilson, sharply, from the table on which he sat
 
 kicking his heels restlessly.
-"Well, it's a man," said Horne Fisher.
+"[[Well]], it's a man," said Horne Fisher.
 Wilson bounded off the table as if he had been kicked off it. "What
 
 do you mean?" he cried. "How can you possibly see a man?"
-"I can see him through the window," replied the secretary, mildly.
+"I can see him through the [[Window|window]]," replied the secretary, mildly.
 
 "I see him coming across the moor. He's making a bee line across the
 
@@ -164,12 +164,12 @@ polite if we were all at the door to receive him." And in a
 
 leisurely manner the secretary came down the ladder.
 "Who it seems to be!" repeated Sir Walter in astonishment.
-"Well, I think it's the man you call Prince Michael," observed Mr.
+"[[Well]], I think it's the man you call Prince [[Michael]]," observed Mr.
 
 Fisher, airily. "In fact, I'm sure it is. I've seen the police
 
 portraits of him."
-There was a dead silence, and Sir Walter's usually steady brain
+There was a dead [[Silence|silence]], and Sir Walter's usually steady brain
 
 seemed to go round like a windmill.
 "But, hang it all!" he said at last, "even supposing his own
@@ -189,4 +189,4 @@ Horne Fisher.
 "What on earth do you mean? You credit him with rather singular
 
 absence of mind."
-"Well, the truth is, it isn't the scene of his crime," said Fisher,
+"[[Well]], the [[Truth|truth]] is, it isn't the scene of his crime," said Fisher,

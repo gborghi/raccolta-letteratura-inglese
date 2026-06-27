@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 4 (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 4 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-But when the company arrived! That was the time. When Mr Pecksniff,
+But when the company arrived! That was the [[Time|time]]. When Mr Pecksniff,
 rising from his seat at the table’s head, with a daughter on either
 hand, received his guests in the best parlour and motioned them to
 chairs, with eyes so overflowing and countenance so damp with gracious
 perspiration, that he may be said to have been in a kind of moist
 meekness! And the company; the jealous stony-hearted distrustful
-company, who were all shut up in themselves, and had no faith in
+company, who were all shut up in themselves, and had no [[Faith|faith]] in
 anybody, and wouldn’t believe anything, and would no more allow
 themselves to be softened or lulled asleep by the Pecksniffs than if
 they had been so many hedgehogs or porcupines!
@@ -38,21 +38,21 @@ nothing but cry--except moan. Then there were Anthony Chuzzlewit, and
 his son Jonas; the face of the old man so sharpened by the wariness and
 cunning of his life, that it seemed to cut him a passage through the
 crowded room, as he edged away behind the remotest chairs; while the son
-had so well profited by the precept and example of the father, that he
+had so [[Well|well]] profited by the precept and example of the father, that he
 looked a year or two the elder of the twain, as they stood winking their
 red eyes, side by side, and whispering to each other softly. Then there
-was the widow of a deceased brother of Mr Martin Chuzzlewit, who being
+was the widow of a deceased brother of Mr [[Martin Chuzzlewit]], who being
 almost supernaturally disagreeable, and having a dreary face and a bony
 figure and a masculine voice, was, in right of these qualities, what is
 commonly called a strong-minded woman; and who, if she could, would have
 established her claim to the title, and have shown herself, mentally
 speaking, a perfect Samson, by shutting up her brother-in-law in a
-private madhouse, until he proved his complete sanity by loving her very
+private madhouse, until he proved his complete [[Sanity|sanity]] by loving her very
 much. Beside her sat her spinster daughters, three in number, and of
 gentlemanly deportment, who had so mortified themselves with tight
 stays, that their tempers were reduced to something less than their
 waists, and sharp lacing was expressed in their very noses. Then there
-was a young gentleman, grandnephew of Mr Martin Chuzzlewit, very dark
+was a young gentleman, grandnephew of Mr [[Martin Chuzzlewit]], very dark
 and very hairy, and apparently born for no particular purpose but to
 save looking-glasses the trouble of reflecting more than just the first
 idea and sketchy notion of a face, which had never been carried out.
@@ -93,12 +93,12 @@ A general murmur echoed this inquiry, and applauded it.
 pursued Mr Spottletoe in a great heat, and giving a violent rap on
 the table with his knuckles, ‘the sooner you desist, and this assembly
 separates, the better. I am no stranger, sir, to your preposterous
-desire to be regarded as the head of this family, but I can tell YOU,
+[[Desire|desire]] to be regarded as the head of this family, but I can tell YOU,
 sir--’
 
 Oh yes, indeed! HE tell. HE! What? He was the head, was he? From the
 strong-minded woman downwards everybody fell, that instant, upon Mr
-Spottletoe, who after vainly attempting to be heard in silence was
+Spottletoe, who after vainly attempting to be heard in [[Silence|silence]] was
 fain to sit down again, folding his arms and shaking his head most
 wrathfully, and giving Mrs Spottletoe to understand in dumb show, that
 that scoundrel Pecksniff might go on for the present, but he would cut
@@ -110,27 +110,27 @@ feel that we are met here without disguise. It is good to know that we
 have no reserve before each other, but are appearing freely in our own
 characters.’
 
-Here, the eldest daughter of the strong-minded woman rose a little way
+Here, the eldest daughter of the strong-minded woman [[Rose|rose]] a little way
 from her seat, and trembling violently from head to foot, more as it
-seemed with passion than timidity, expressed a general hope that some
+seemed with passion than timidity, expressed a general [[Hope|hope]] that some
 people WOULD appear in their own characters, if it were only for such
 a proceeding having the attraction of novelty to recommend it; and that
 when they (meaning the some people before mentioned) talked about their
 relations, they would be careful to observe who was present in company
-at the time; otherwise it might come round to those relations’ ears, in
+at the [[Time|time]]; otherwise it might come round to those relations’ ears, in
 a way they little expected; and as to red noses (she observed) she
 had yet to learn that a red nose was any disgrace, inasmuch as people
 neither made nor coloured their own noses, but had that feature provided
 for them without being first consulted; though even upon that branch of
 the subject she had great doubts whether certain noses were redder than
 other noses, or indeed half as red as some. This remark being received
-with a shrill titter by the two sisters of the speaker, Miss Charity
+with a shrill titter by the two sisters of the speaker, Miss [[Charity]]
 Pecksniff begged with much politeness to be informed whether any of
 those very low observations were levelled at her; and receiving no more
 explanatory answer than was conveyed in the adage ‘Those the cap fits,
 let them wear it,’ immediately commenced a somewhat acrimonious and
 personal retort, wherein she was much comforted and abetted by her
-sister Mercy, who laughed at the same with great heartiness; indeed
+sister [[Mercy]], who laughed at the same with great heartiness; indeed
 far more naturally than life. And it being quite impossible that any
 difference of opinion can take place among women without every woman who
 is within hearing taking active part in it, the strong-minded lady and

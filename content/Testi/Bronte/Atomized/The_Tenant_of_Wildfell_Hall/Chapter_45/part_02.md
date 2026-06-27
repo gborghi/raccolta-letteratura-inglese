@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 45 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ compression of her lips, and wringing of her hands, that meantime a
 
 violent conflict between reason and passion was silently passing
 
-within. At length she paused before the empty fire-place, and turning
+within. At length she paused before the empty [[Fire|fire]]-place, and turning
 
 to me, said calmly—if that might be called calmness which was so
 
@@ -34,7 +34,7 @@ _never come again_.”
 
 
 
-“Never again, Helen? just when I love you more than ever.”
+“Never again, [[Helen]]? just when I [[Love|love]] you more than ever.”
 
 
 
@@ -78,13 +78,13 @@ know where to find another place of refuge—or how to seek it.”
 
 
 
-“Helen,” said I, turning impatiently towards her, “I cannot discuss the
+“[[Helen]],” said I, turning impatiently towards her, “I cannot discuss the
 
 matter of eternal separation calmly and dispassionately as you can do.
 
 It is no question of mere expedience with _me;_ it is a question of
 
-life and death!”
+life and [[Death|death]]!”
 
 
 
@@ -100,7 +100,7 @@ must needs follow it up with something worse.
 
 
 
-“But, Helen!” I began in a soft, low tone, not daring to raise my eyes
+“But, [[Helen]]!” I began in a soft, low tone, not daring to raise my eyes
 
 to her face, “that man is not your husband: in the sight of heaven he
 
@@ -138,7 +138,7 @@ paused, and hid her face in her handkerchief.
 
 
 
-“Forgive me, Helen!” pleaded I. “I will never utter another word on the
+“Forgive me, [[Helen]]!” pleaded I. “I will never utter another word on the
 
 subject. But may we not still meet as friends?”
 
@@ -148,19 +148,19 @@ subject. But may we not still meet as friends?”
 
 she raised her eyes to mine, with a mildly reproachful look that seemed
 
-to say, “You must know that as well as I.”
+to say, “You must know that as [[Well|well]] as I.”
 
 
 
 “Then what _must_ we do?” cried I, passionately. But immediately I
 
-added in a quieter tone—“I’ll do whatever you desire; only _don’t_ say
+added in a quieter tone—“I’ll do whatever you [[Desire|desire]]; only _don’t_ say
 
 that this meeting is to be our last.”
 
 
 
-“And why not? Don’t you know that every time we meet the thoughts of
+“And why not? Don’t you know that every [[Time|time]] we meet the thoughts of
 
 the final parting will become more painful? Don’t you _feel_ that every
 
@@ -176,7 +176,7 @@ least, had felt it. It was scarcely prudent to make such an admission,
 
 or to add—as she presently did—“I have power to bid you go, now:
 
-another time it might be different,”—but I was not base enough to
+another [[Time|time]] it might be different,”—but I was not base enough to
 
 attempt to take advantage of her candour.
 
@@ -196,7 +196,7 @@ consolation?”
 
 not heard of the injury he had sustained at my hands; and I had not the
 
-courage to tell her. “Your brother will not help us,” I said: “he would
+[[Courage|courage]] to tell her. “Your brother will not help us,” I said: “he would
 
 have all communion between us to be entirely at an end.”
 
@@ -204,9 +204,9 @@ have all communion between us to be entirely at an end.”
 
 “And he would be right, I suppose. As a friend of both, he would wish
 
-us both well; and every friend would tell us it was our interest, as
+us both [[Well|well]]; and every friend would tell us it was our interest, as
 
-well as our duty, to forget each other, though we might not see it
+[[Well|well]] as our duty, to forget each other, though we might not see it
 
 ourselves. But don’t be afraid, Gilbert,” she added, smiling sadly at
 
@@ -218,7 +218,7 @@ messages between us—only that each might know, through him, of the
 
 other’s welfare;—and more than this ought not to be: for you are young,
 
-Gilbert, and you ought to marry—and will some time, though you may
+Gilbert, and you ought to marry—and will some [[Time|time]], though you may
 
 think it impossible now: and though I hardly can say I wish you to
 
@@ -230,7 +230,7 @@ wish it,” she added resolutely.
 
 
 
-“And you are young too, Helen,” I boldly replied; “and when that
+“And you are young too, [[Helen]],” I boldly replied; “and when that
 
 profligate scoundrel has run through his career, you will give your
 
@@ -240,10 +240,10 @@ hand to me—I’ll wait till then.”
 
 But she would not leave me this support. Independently of the moral
 
-evil of basing our hopes upon the death of another, who, if unfit for
+evil of basing our hopes upon the [[Death|death]] of another, who, if unfit for
 
 this world, was at least no less so for the next, and whose
 
 amelioration would thus become our bane and his greatest transgression
 
-our greatest benefit,—she maintained it to be madness: many men of Mr.
+our greatest benefit,—she maintained it to be [[Madness|madness]]: many men of Mr.

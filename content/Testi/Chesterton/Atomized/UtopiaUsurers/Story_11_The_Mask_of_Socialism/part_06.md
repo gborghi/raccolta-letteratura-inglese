@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 6)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -30,7 +30,7 @@ Schools, you will find some differences between the two, chiefly a
 
 difference in the management of the voice. But you will find they
 
-are both English in a special way, and that their education has been
+are both English in a special way, and that their [[Education|education]] has been
 
 essentially the same. They are ignorant on the same subjects. They have
 
@@ -46,7 +46,7 @@ Meaning of Empire Day?" And the name of that element is "unhistoric." It
 
 knows nothing really about England, still less about Ireland or France,
 
-and, least of all, of course, about anything like the French Revolution.
+and, least of all, of course, about anything like the [[French Revolution]].
 
 
 
@@ -60,7 +60,7 @@ Now what general notion does the ordinary English boy, thus taught to
 
 utter one ignorance in one of two accents, get and keep through life
 
-about the French Revolution? It is the notion of the English House of
+about the [[French Revolution]]? It is the notion of the English [[house|House]] of
 
 Commons with an enormous Radical majority on one side of the table and
 
@@ -76,17 +76,17 @@ were brightened by a riot or a massacre, instead of by a whisky and soda
 
 and a Marconi tip. Novels are much more reliable than histories in such
 
-matters. For though an English novel about France does not tell the
+matters. For though an English [[Novel|novel]] about France does not tell the
 
-truth about France, it does tell the truth about England; and more than
+[[Truth|truth]] about France, it does tell the [[Truth|truth]] about England; and more than
 
-half the histories never tell the truth about anything. And popular
+half the histories never tell the [[Truth|truth]] about anything. And popular
 
 fiction, I think, bears witness to the general English impression. The
 
-French Revolution is a snap division with an unusual turnover of votes.
+[[French Revolution]] is a snap division with an unusual turnover of votes.
 
-On the one side stand a king and queen who are good but weak, surrounded
+On the one side stand a [[King|king]] and [[Queen|queen]] who are good but weak, surrounded
 
 by nobles with rapiers drawn; some of whom are good, many of whom are
 
@@ -108,7 +108,7 @@ regime.
 
 
 
-That, I think, is the commonest English view of the French Revolution;
+That, I think, is the commonest English view of the [[French Revolution]];
 
 and it will not survive the reading of two pages of any real speech or
 
@@ -120,7 +120,7 @@ hardly believe you if you told him some of the common human subtleties
 
 of the case. Tell him that Robespierre threw the red cap in the dirt in
 
-disgust, while the king had worn it with a broad grin, so to speak; tell
+disgust, while the [[King|king]] had worn it with a broad grin, so to speak; tell
 
 him that Danton, the fierce founder of the Republic of the Terror, said
 
@@ -132,9 +132,9 @@ the efforts of people who particularly wanted to go on with it--and he
 
 will not believe these things. He will not believe them because he has
 
-no humility, and therefore no realism. He has never been inside himself;
+no [[Humility|humility]], and therefore no realism. He has never been inside himself;
 
-and so could never be inside another man. The truth is that in the
+and so could never be inside another man. The [[Truth|truth]] is that in the
 
 French affair everybody occupied an individual position. Every man
 
@@ -152,25 +152,25 @@ Humanity than either, because that physician (though himself somewhat
 
 needing a physician) really cared about it. The nobles were divided,
 
-each man from the next. The attitude of the king was quite different
+each man from the next. The attitude of the [[King|king]] was quite different
 
-from the attitude of the queen; certainly much more different than any
+from the attitude of the [[Queen|queen]]; certainly much more different than any
 
 differences between our Liberals and Tories for the last twenty years.
 
-And it will sadden _some_ of my friends to remember that it was the king
+And it will sadden _some_ of my friends to remember that it was the [[King|king]]
 
-who was the Liberal and the queen who was the Tory. There were not two
+who was the Liberal and the [[Queen|queen]] who was the Tory. There were not two
 
 people, I think, in that most practical crisis who stood in precisely
 
 the same attitude towards the situation. And that is why, between them,
 
-they saved Europe. It is when you really perceive the unity of mankind
+they saved Europe. It is when you really perceive the [[unity]] of mankind
 
 that you really perceive its variety. It is not a flippancy, it is a
 
-very sacred truth, to say that when men really understand that they are
+very sacred [[Truth|truth]], to say that when men really understand that they are
 
 brothers they instantly begin to fight.
 
@@ -188,7 +188,7 @@ the Irish Revolution. You will not be able to make a Party System out of
 
 the matter. Everybody is in revolt; therefore everybody is telling the
 
-truth. The Nationalists will go on caring most for the nation, as Danton
+[[Truth|truth]]. The Nationalists will go on caring most for the nation, as Danton
 
 and the defenders of the frontier went on caring most for the nation.
 
@@ -196,10 +196,10 @@ The priests will go on caring most for religion, as Robespierre went on
 
 caring most for religion. The Socialists will go on caring most for the
 
-cure of physical suffering, as Marat went on caring most for it. It is
+cure of physical [[Suffering|suffering]], as Marat went on caring most for it. It is
 
 out of these real differences that real things can be made, such as the
 
-modern French democracy. For by such tenacity everyone sees at last that
+modern French [[Democracy|democracy]]. For by such tenacity everyone sees at last that
 
 there is something in the other person's position. And those drilled in

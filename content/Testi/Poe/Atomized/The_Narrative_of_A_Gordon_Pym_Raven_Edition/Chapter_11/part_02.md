@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-      death by famine, or, at the best, by being overwhelmed in the
+      [[Death|death]] by famine, or, at the best, by being overwhelmed in the
 
-      first gale which should spring up, for in our present exhausted
+      first gale which should [[Spring|spring]] up, for in our present exhausted
 
-      condition we could have no hope of living through another.
+      condition we could have no [[Hope|hope]] of living through another.
 
 
 
@@ -30,11 +30,11 @@ tags:
 
       of the leather trunk, and endeavoured to eat it, but found it
 
-      utterly impossible to swallow a single morsel, although I fancied
+      utterly impossible to [[Swallow|swallow]] a single morsel, although I fancied
 
-      that some little alleviation of my suffering was obtained by
+      that some little alleviation of my [[Suffering|suffering]] was obtained by
 
-      chewing small pieces of it and spitting them out. Toward night my
+      chewing small pieces of it and spitting them out. Toward [[Night|night]] my
 
       companions awoke, one by one, each in an indescribable state of
 
@@ -42,15 +42,15 @@ tags:
 
       evaporated. They shook as if with a violent ague, and uttered the
 
-      most lamentable cries for water. Their condition affected me in
+      most lamentable cries for [[Water|water]]. Their condition affected me in
 
-      the most lively degree, at the same time causing me to rejoice in
+      the most lively degree, at the same [[Time|time]] causing me to rejoice in
 
       the fortunate train of circumstances which had prevented me from
 
       indulging in the wine, and consequently from sharing their
 
-      melancholy and most distressing sensations. Their conduct,
+      [[Melancholy|melancholy]] and most distressing sensations. Their conduct,
 
       however, gave me great uneasiness and alarm; for it was evident
 
@@ -70,9 +70,9 @@ tags:
 
       I endeavoured, by every means in my power, to rouse him. Thinking
 
-      that a plunge in the sea-water might have a beneficial effect, I
+      that a plunge in the sea-[[Water|water]] might have a beneficial effect, I
 
-      contrived to fasten the end of a rope around his body, and then,
+      contrived to fasten the end of a rope around his [[Body|body]], and then,
 
       leading him to the companion-way (he remaining quite passive all
 
@@ -98,7 +98,7 @@ tags:
 
       by reading in some medical work the good effect of the
 
-      shower-bath in a case where the patient was suffering from _mania
+      shower-bath in a case where the patient was [[Suffering|suffering]] from _mania
 
       a potu_.
 
@@ -120,17 +120,17 @@ tags:
 
       articles, until I was completely exhausted, but brought up
 
-      nothing else. During the night Parker and Peters occupied
+      nothing else. During the [[Night|night]] Parker and Peters occupied
 
       themselves by turns in the same manner; but nothing coming to
 
-      hand, we now gave up this attempt in despair, concluding that we
+      hand, we now gave up this attempt in [[Despair|despair]], concluding that we
 
       were exhausting ourselves in vain.
 
 
 
-      We passed the remainder of this night in a state of the most
+      We passed the remainder of this [[Night|night]] in a state of the most
 
       intense mental and bodily anguish that can possibly be imagined.
 
@@ -166,7 +166,7 @@ tags:
 
       gone as the other two. He suffered with great patience, making no
 
-      complaint, and endeavouring to inspire us with hope in every
+      complaint, and endeavouring to inspire us with [[Hope|hope]] in every
 
       manner he could devise. For myself, although at the commencement
 
@@ -180,7 +180,7 @@ tags:
 
       intellect, and seemed to be brought to a species of second
 
-      childhood, generally simpering in their expressions, with idiotic
+      [[Childhood|childhood]], generally simpering in their expressions, with idiotic
 
       smiles, and uttering the most absurd platitudes. At intervals,
 
@@ -188,8 +188,8 @@ tags:
 
       at once with a consciousness of their condition, when they would
 
-      spring upon their feet in a momentary flash of vigour, and speak,
+      [[Spring|spring]] upon their feet in a momentary flash of vigour, and speak,
 
       for a short period, of their prospects, in a manner altogether
 
-      rational, although full of the most intense despair. It is
+      rational, although full of the most intense [[Despair|despair]]. It is

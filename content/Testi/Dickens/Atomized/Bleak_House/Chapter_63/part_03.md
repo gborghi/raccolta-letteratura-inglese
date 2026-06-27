@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 63 (part 3)"
+title: "Bleak [[house|House]] — Chapter 63 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Well, my dear George,” returns the other with a very slight shade
+“[[Well]], my dear George,” returns the other with a very slight shade
 upon his open face, “if you prefer to serve in Sir Leicester
 Dedlock’s household brigade—”
 
@@ -25,7 +25,7 @@ Everything about you is in perfect order and discipline; everything
 about me requires to be kept so. We are not accustomed to carry
 things with the same hand or to look at ’em from the same point. I
 don’t say much about my garrison manners because I found myself
-pretty well at my ease last night, and they wouldn’t be noticed here,
+pretty [[Well|well]] at my ease last [[Night|night]], and they wouldn’t be noticed here,
 I dare say, once and away. But I shall get on best at Chesney Wold,
 where there’s more room for a weed than there is here; and the dear
 old lady will be made happy besides. Therefore I accept of Sir
@@ -40,8 +40,8 @@ grip of his hand, “and perhaps you know me better than I know myself.
 Take your way. So that we don’t quite lose one another again, take
 your way.”
 
-“No fear of that!” returns the trooper. “Now, before I turn my
-horse’s head homewards, brother, I will ask you—if you’ll be so
+“No [[Fear|fear]] of that!” returns the trooper. “Now, before I turn my
+[[Horse|horse]]’s head homewards, brother, I will ask you—if you’ll be so
 good—to look over a letter for me. I brought it with me to send from
 these parts, as Chesney Wold might be a painful name just now to the
 person it’s written to. I am not much accustomed to correspondence
@@ -52,9 +52,9 @@ Herewith he hands a letter, closely written in somewhat pale ink but
 in a neat round hand, to the ironmaster, who reads as follows:
 
 
-   Miss Esther Summerson,
+   Miss [[Esther Summerson]],
 
-   A communication having been made to me by Inspector Bucket
+   A communication having been made to me by [[Inspector Bucket]]
    of a letter to myself being found among the papers of a
    certain person, I take the liberty to make known to you
    that it was but a few lines of instruction from abroad,
@@ -74,7 +74,7 @@ in a neat round hand, to the ironmaster, who reads as follows:
    I had discovered his retreat and shared my last farthing
    with him, as my duty and my inclination would have equally
    been. But he was (officially) reported drowned, and
-   assuredly went over the side of a transport-ship at night
+   assuredly went over the side of a transport-[[Ship|ship]] at [[Night|night]]
    in an Irish harbour within a few hours of her arrival from
    the West Indies, as I have myself heard both from officers
    and men on board, and know to have been (officially)
@@ -86,7 +86,7 @@ in a neat round hand, to the ironmaster, who reads as follows:
    servant and that I esteem the qualities you possess above
    all others far beyond the limits of the present dispatch.
 
-   I have the honour to be,
+   I have the [[Honour|honour]] to be,
 
    GEORGE
 
@@ -104,8 +104,8 @@ correspondence of the day. This done, Mr. George takes a hearty
 farewell of the family party and prepares to saddle and mount. His
 brother, however, unwilling to part with him so soon, proposes to
 ride with him in a light open carriage to the place where he will
-bait for the night, and there remain with him until morning, a
-servant riding for so much of the journey on the thoroughbred old
+bait for the [[Night|night]], and there remain with him until morning, a
+servant riding for so much of the [[Journey|journey]] on the thoroughbred old
 grey from Chesney Wold. The offer, being gladly accepted, is followed
 by a pleasant ride, a pleasant dinner, and a pleasant breakfast, all
 in brotherly communion. Then they once more shake hands long and

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 40"
+title: "[[Great Expectations]] — Chapter 40"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -23,8 +23,8 @@ pressing on me when I awoke, held other thoughts in a confused
 concourse at a distance.
 
 The impossibility of keeping him concealed in the chambers was
-self-evident. It could not be done, and the attempt to do it would
-inevitably engender suspicion. True, I had no Avenger in my service
+[[Self|self]]-evident. It could not be done, and the attempt to do it would
+inevitably engender suspicion. True, I had no [[Avenger]] in my service
 now, but I was looked after by an inflammatory old female, assisted by
 an animated rag-bag whom she called her niece, and to keep a room
 secret from them would be to invite curiosity and exaggeration. They
@@ -42,11 +42,11 @@ staircase I fell over something, and that something was a man crouching
 in a corner.
 
 As the man made no answer when I asked him what he did there, but
-eluded my touch in silence, I ran to the Lodge and urged the watchman
-to come quickly; telling him of the incident on the way back. The wind
+eluded my touch in [[Silence|silence]], I ran to the Lodge and urged the watchman
+to come quickly; telling him of the incident on the way back. The [[Wind|wind]]
 being as fierce as ever, we did not care to endanger the light in the
 lantern by rekindling the extinguished lamps on the staircase, but we
-examined the staircase from the bottom to the top and found no one
+examined the staircase from the [[Bottom|bottom]] to the top and found no one
 there. It then occurred to me as possible that the man might have
 slipped into my rooms; so, lighting my candle at the watchman’s, and
 leaving him standing at the door, I examined them carefully, including
@@ -54,21 +54,21 @@ the room in which my dreaded guest lay asleep. All was quiet, and
 assuredly no other man was in those chambers.
 
 It troubled me that there should have been a lurker on the stairs, on
-that night of all nights in the year, and I asked the watchman, on the
+that [[Night|night]] of all nights in the year, and I asked the watchman, on the
 chance of eliciting some hopeful explanation as I handed him a dram at
 the door, whether he had admitted at his gate any gentleman who had
 perceptibly been dining out? Yes, he said; at different times of the
-night, three. One lived in Fountain Court, and the other two lived in
-the Lane, and he had seen them all go home. Again, the only other man
-who dwelt in the house of which my chambers formed a part had been in
+[[Night|night]], three. One lived in Fountain [[Court]], and the other two lived in
+the Lane, and he had seen them all go [[Home|home]]. Again, the only other man
+who dwelt in the [[house]] of which my chambers formed a part had been in
 the country for some weeks, and he certainly had not returned in the
-night, because we had seen his door with his seal on it as we came
+[[Night|night]], because we had seen his door with his seal on it as we came
 upstairs.
 
-“The night being so bad, sir,” said the watchman, as he gave me back my
+“The [[Night|night]] being so bad, sir,” said the watchman, as he gave me back my
 glass, “uncommon few have come in at my gate. Besides them three
 gentlemen that I have named, I don’t call to mind another since about
-eleven o’clock, when a stranger asked for you.”
+eleven o’[[Clock|clock]], when a stranger asked for you.”
 
 “My uncle,” I muttered. “Yes.”
 
@@ -87,47 +87,47 @@ took this way when he took this way.”
 “What sort of person?”
 
 The watchman had not particularly noticed; he should say a working
-person; to the best of his belief, he had a dust-coloured kind of
+person; to the best of his belief, he had a [[Dust|dust]]-coloured kind of
 clothes on, under a dark coat. The watchman made more light of the
 matter than I did, and naturally; not having my reason for attaching
 weight to it.
 
-When I had got rid of him, which I thought it well to do without
+When I had got rid of him, which I thought it [[Well|well]] to do without
 prolonging explanations, my mind was much troubled by these two
-circumstances taken together. Whereas they were easy of innocent
-solution apart,—as, for instance, some diner out or diner at home, who
+circumstances taken together. Whereas they were easy of [[Innocent|innocent]]
+solution apart,—as, for instance, some diner out or diner at [[Home|home]], who
 had not gone near this watchman’s gate, might have strayed to my
 staircase and dropped asleep there,—and my nameless visitor might have
 brought some one with him to show him the way,—still, joined, they had
-an ugly look to one as prone to distrust and fear as the changes of a
+an ugly look to one as prone to distrust and [[Fear|fear]] as the changes of a
 few hours had made me.
 
-I lighted my fire, which burnt with a raw pale flare at that time of
+I lighted my [[Fire|fire]], which burnt with a raw pale flare at that [[Time|time]] of
 the morning, and fell into a doze before it. I seemed to have been
-dozing a whole night when the clocks struck six. As there was full an
+dozing a whole [[Night|night]] when the clocks struck six. As there was full an
 hour and a half between me and daylight, I dozed again; now, waking up
 uneasily, with prolix conversations about nothing, in my ears; now,
-making thunder of the wind in the chimney; at length, falling off into
-a profound sleep from which the daylight woke me with a start.
+making thunder of the [[Wind|wind]] in the chimney; at length, falling off into
+a profound [[Sleep|sleep]] from which the daylight woke me with a start.
 
-All this time I had never been able to consider my own situation, nor
+All this [[Time|time]] I had never been able to consider my own situation, nor
 could I do so yet. I had not the power to attend to it. I was greatly
 dejected and distressed, but in an incoherent wholesale sort of way. As
 to forming any plan for the future, I could as soon have formed an
 elephant. When I opened the shutters and looked out at the wet wild
 morning, all of a leaden hue; when I walked from room to room; when I
-sat down again shivering, before the fire, waiting for my laundress to
+sat down again shivering, before the [[Fire|fire]], waiting for my laundress to
 appear; I thought how miserable I was, but hardly knew why, or how long
 I had been so, or on what day of the week I made the reflection, or
 even who I was that made it.
 
 At last, the old woman and the niece came in,—the latter with a head
 not easily distinguishable from her dusty broom,—and testified surprise
-at sight of me and the fire. To whom I imparted how my uncle had come
-in the night and was then asleep, and how the breakfast preparations
+at sight of me and the [[Fire|fire]]. To whom I imparted how my uncle had come
+in the [[Night|night]] and was then asleep, and how the breakfast preparations
 were to be modified accordingly. Then I washed and dressed while they
-knocked the furniture about and made a dust; and so, in a sort of dream
-or sleep-waking, I found myself sitting by the fire again, waiting
+knocked the furniture about and made a [[Dust|dust]]; and so, in a sort of dream
+or [[Sleep|sleep]]-waking, I found myself sitting by the [[Fire|fire]] again, waiting
 for—Him—to come to breakfast.
 
 By and by, his door opened and he came out. I could not bring myself to
@@ -139,7 +139,7 @@ uncle.”
 
 “That’s it, dear boy! Call me uncle.”
 
-“You assumed some name, I suppose, on board ship?”
+“You assumed some name, I suppose, on board [[Ship|ship]]?”
 
 “Yes, dear boy. I took the name of Provis.”
 
@@ -159,8 +159,8 @@ another.”
 He answered quite seriously, and used the word as if it denoted some
 profession.
 
-“When you came into the Temple last night—” said I, pausing to wonder
-whether that could really have been last night, which seemed so long
+“When you came into the Temple last [[Night|night]]—” said I, pausing to [[Wonder|wonder]]
+whether that could really have been last [[Night|night]], which seemed so long
 ago.
 
 “Yes, dear boy?”
@@ -176,20 +176,20 @@ you any one with you?”
 ways of the place. But I think there _was_ a person, too, come in
 alonger me.”
 
-“Are you known in London?”
+“Are you known in [[London]]?”
 
-“I hope not!” said he, giving his neck a jerk with his forefinger that
+“I [[Hope|hope]] not!” said he, giving his neck a jerk with his forefinger that
 made me turn hot and sick.
 
-“Were you known in London, once?”
+“Were you known in [[London]], once?”
 
 “Not over and above, dear boy. I was in the provinces mostly.”
 
-“Were you—tried—in London?”
+“Were you—tried—in [[London]]?”
 
-“Which time?” said he, with a sharp look.
+“Which [[Time|time]]?” said he, with a sharp look.
 
-“The last time.”
+“The last [[Time|time]].”
 
 He nodded. “First knowed Mr. Jaggers that way. Jaggers was for me.”
 
@@ -217,9 +217,9 @@ As he said so, he got up from table, and putting his hand into the
 breast of the pea-coat he wore, brought out a short black pipe, and a
 handful of loose tobacco of the kind that is called Negro-head. Having
 filled his pipe, he put the surplus tobacco back again, as if his
-pocket were a drawer. Then, he took a live coal from the fire with the
+pocket were a drawer. Then, he took a live coal from the [[Fire|fire]] with the
 tongs, and lighted his pipe at it, and then turned round on the
-hearth-rug with his back to the fire, and went through his favourite
+hearth-rug with his back to the [[Fire|fire]], and went through his favourite
 action of holding out both his hands for mine.
 
 “And this,” said he, dandling my hands up and down in his, as he puffed
@@ -236,8 +236,8 @@ iron grey hair at the sides.
 “I mustn’t see my gentleman a footing it in the mire of the streets;
 there mustn’t be no mud on _his_ boots. My gentleman must have horses,
 Pip! Horses to ride, and horses to drive, and horses for his servant to
-ride and drive as well. Shall colonists have their horses (and blood
-’uns, if you please, good Lord!) and not my London gentleman? No, no.
+ride and drive as [[Well|well]]. Shall colonists have their horses (and [[Blood|blood]]
+’uns, if you please, good Lord!) and not my [[London]] gentleman? No, no.
 We’ll show ’em another pair of shoes than that, Pip; won’t us?”
 
 He took out of his pocket a great thick pocket-book, bursting with
@@ -250,10 +250,10 @@ see my gentleman spend his money _like_ a gentleman. That’ll be _my_
 pleasure. _My_ pleasure ’ull be fur to see him do it. And blast you
 all!” he wound up, looking round the room and snapping his fingers once
 with a loud snap, “blast you every one, from the judge in his wig, to
-the colonist a stirring up the dust, I’ll show a better gentleman than
+the colonist a stirring up the [[Dust|dust]], I’ll show a better gentleman than
 the whole kit on you put together!”
 
-“Stop!” said I, almost in a frenzy of fear and dislike, “I want to
+“Stop!” said I, almost in a frenzy of [[Fear|fear]] and dislike, “I want to
 speak to you. I want to know what is to be done. I want to know how you
 are to be kept out of danger, how long you are going to stay, what
 projects you have.”
@@ -280,14 +280,14 @@ not fur to be low. Now, go on, dear boy. You was a saying—”
 
 “How are you to be guarded from the danger you have incurred?”
 
-“Well, dear boy, the danger ain’t so great. Without I was informed
+“[[Well]], dear boy, the danger ain’t so great. Without I was informed
 agen, the danger ain’t so much to signify. There’s Jaggers, and there’s
 Wemmick, and there’s you. Who else is there to inform?”
 
 “Is there no chance person who might identify you in the street?” said
 I.
 
-“Well,” he returned, “there ain’t many. Nor yet I don’t intend to
+“[[Well]],” he returned, “there ain’t many. Nor yet I don’t intend to
 advertise myself in the newspapers by the name of A.M. come back from
 Botany Bay; and years have rolled away, and who’s to gain by it? Still,
 look’ee here, Pip. If the danger had been fifty times as great, I
@@ -308,16 +308,16 @@ others has done afore, others can do agen. As to the where and how of
 living, dear boy, give me your own opinions on it.”
 
 “You take it smoothly now,” said I, “but you were very serious last
-night, when you swore it was Death.”
+[[Night|night]], when you swore it was [[Death]].”
 
-“And so I swear it is Death,” said he, putting his pipe back in his
-mouth, “and Death by the rope, in the open street not fur from this,
+“And so I swear it is [[Death]],” said he, putting his pipe back in his
+mouth, “and [[Death]] by the rope, in the open street not fur from this,
 and it’s serious that you should fully understand it to be so. What
 then, when that’s once done? Here I am. To go back now ’ud be as bad as
 to stand ground—worse. Besides, Pip, I’m here, because I’ve meant it by
 you, years and years. As to what I dare, I’m a old bird now, as has
 dared all manner of traps since first he was fledged, and I’m not
-afeerd to perch upon a scarecrow. If there’s Death hid inside of it,
+afeerd to perch upon a scarecrow. If there’s [[Death]] hid inside of it,
 there is, and let him come out, and I’ll face him, and then I’ll
 believe in him and not afore. And now let me have a look at my
 gentleman agen.”
@@ -341,13 +341,13 @@ To state that my terrible patron carried this little black book about
 the world solely to swear people on in cases of emergency, would be to
 state what I never quite established; but this I can say, that I never
 knew him put it to any other use. The book itself had the appearance of
-having been stolen from some court of justice, and perhaps his
+having been stolen from some [[Court|court]] of justice, and perhaps his
 knowledge of its antecedents, combined with his own experience in that
 wise, gave him a reliance on its powers as a sort of legal spell or
 charm. On this first occasion of his producing it, I recalled how he
 had made me swear fidelity in the churchyard long ago, and how he had
-described himself last night as always swearing to his resolutions in
-his solitude.
+described himself last [[Night|night]] as always swearing to his resolutions in
+his [[Solitude|solitude]].
 
 As he was at present dressed in a seafaring slop suit, in which he
 looked as if he had some parrots and cigars to dispose of, I next
@@ -367,19 +367,19 @@ get out to further them until two or three in the afternoon. He was to
 remain shut up in the chambers while I was gone, and was on no account
 to open the door.
 
-There being to my knowledge a respectable lodging-house in Essex
+There being to my knowledge a respectable lodging-[[house]] in Essex
 Street, the back of which looked into the Temple, and was almost within
-hail of my windows, I first of all repaired to that house, and was so
+hail of my windows, I first of all repaired to that [[house]], and was so
 fortunate as to secure the second floor for my uncle, Mr. Provis. I
 then went from shop to shop, making such purchases as were necessary to
 the change in his appearance. This business transacted, I turned my
 face, on my own account, to Little Britain. Mr. Jaggers was at his
 desk, but, seeing me enter, got up immediately and stood before his
-fire.
+[[Fire|fire]].
 
 “Now, Pip,” said he, “be careful.”
 
-“I will, sir,” I returned. For, coming along I had thought well of what
+“I will, sir,” I returned. For, coming along I had thought [[Well|well]] of what
 I was going to say.
 
 “Don’t commit yourself,” said Mr. Jaggers, “and don’t commit any one.
@@ -389,7 +389,7 @@ anything; I am not curious.”
 Of course I saw that he knew the man was come.
 
 “I merely want, Mr. Jaggers,” said I, “to assure myself that what I
-have been told is true. I have no hope of its being untrue, but at
+have been told is true. I have no [[Hope|hope]] of its being untrue, but at
 least I may verify it.”
 
 Mr. Jaggers nodded. “But did you say ‘told’ or ‘informed’?” he asked
@@ -402,7 +402,7 @@ South Wales, you know.”
 
 “Good.”
 
-“I have been informed by a person named Abel Magwitch, that he is the
+“I have been informed by a person named [[Abel Magwitch]], that he is the
 benefactor so long unknown to me.”
 
 “That is the man,” said Mr. Jaggers, “in New South Wales.”
@@ -446,9 +446,9 @@ likely to obtain a pardon; that he was expatriated for the term of his
 natural life; and that his presenting himself in this country would be
 an act of felony, rendering him liable to the extreme penalty of the
 law. I gave Magwitch that caution,” said Mr. Jaggers, looking hard at
-me; “I wrote it to New South Wales. He guided himself by it, no doubt.”
+me; “I wrote it to New South Wales. He guided himself by it, no [[Doubt|doubt]].”
 
-“No doubt,” said I.
+“No [[Doubt|doubt]],” said I.
 
 “I have been informed by Wemmick,” pursued Mr. Jaggers, still looking
 hard at me, “that he has received a letter, under date Portsmouth, from
@@ -483,16 +483,16 @@ and to force out of their swollen throats, “O, what a man he is!”
 
 Wemmick was out, and though he had been at his desk he could have done
 nothing for me. I went straight back to the Temple, where I found the
-terrible Provis drinking rum and water and smoking negro-head, in
+terrible Provis drinking rum and [[Water|water]] and smoking negro-head, in
 safety.
 
-Next day the clothes I had ordered all came home, and he put them on.
+Next day the clothes I had ordered all came [[Home|home]], and he put them on.
 Whatever he put on, became him less (it dismally seemed to me) than
 what he had worn before. To my thinking, there was something in him
 that made it hopeless to attempt to disguise him. The more I dressed
 him and the better I dressed him, the more he looked like the slouching
 fugitive on the marshes. This effect on my anxious fancy was partly
-referable, no doubt, to his old face and manner growing more familiar
+referable, no [[Doubt|doubt]], to his old face and manner growing more familiar
 to me; but I believe too that he dragged one of his legs as if there
 were still a weight of iron on it, and that from head to foot there was
 Convict in the very grain of the man.
@@ -517,11 +517,11 @@ conceded the powder after overcoming the shorts. But I can compare the
 effect of it, when on, to nothing but the probable effect of rouge upon
 the dead; so awful was the manner in which everything in him that it
 was most desirable to repress, started through that thin layer of
-pretence, and seemed to come blazing out at the crown of his head. It
+pretence, and seemed to come blazing out at the [[Crown|crown]] of his head. It
 was abandoned as soon as tried, and he wore his grizzled hair cut
 short.
 
-Words cannot tell what a sense I had, at the same time, of the dreadful
+Words cannot tell what a sense I had, at the same [[Time|time]], of the dreadful
 mystery that he was to me. When he fell asleep of an evening, with his
 knotted hands clenching the sides of the easy-chair, and his bald head
 tattooed with deep wrinkles falling forward on his breast, I would sit
@@ -531,14 +531,14 @@ start up and fly from him. Every hour so increased my abhorrence of
 him, that I even think I might have yielded to this impulse in the
 first agonies of being so haunted, notwithstanding all he had done for
 me and the risk he ran, but for the knowledge that Herbert must soon
-come back. Once, I actually did start out of bed in the night, and
+come back. Once, I actually did start out of bed in the [[Night|night]], and
 begin to dress myself in my worst clothes, hurriedly intending to leave
 him there with everything else I possessed, and enlist for India as a
 private soldier.
 
-I doubt if a ghost could have been more terrible to me, up in those
-lonely rooms in the long evenings and long nights, with the wind and
-the rain always rushing by. A ghost could not have been taken and
+I [[Doubt|doubt]] if a [[Ghost|ghost]] could have been more terrible to me, up in those
+lonely rooms in the long evenings and long nights, with the [[Wind|wind]] and
+the rain always rushing by. A [[Ghost|ghost]] could not have been taken and
 hanged on my account, and the consideration that he could be, and the
 dread that he would be, were no small addition to my horrors. When he
 was not asleep, or playing a complicated kind of Patience with a ragged
@@ -546,7 +546,7 @@ pack of cards of his own,—a game that I never saw before or since, and
 in which he recorded his winnings by sticking his jackknife into the
 table,—when he was not engaged in either of these pursuits, he would
 ask me to read to him,—“Foreign language, dear boy!” While I complied,
-he, not comprehending a single word, would stand before the fire
+he, not comprehending a single word, would stand before the [[Fire|fire]]
 surveying me with the air of an Exhibitor, and I would see him, between
 the fingers of the hand with which I shaded my face, appealing in dumb
 show to the furniture to take notice of my proficiency. The imaginary
@@ -556,11 +556,11 @@ recoiling from him with a stronger repulsion, the more he admired me
 and the fonder he was of me.
 
 This is written of, I am sensible, as if it had lasted a year. It
-lasted about five days. Expecting Herbert all the time, I dared not go
+lasted about five days. Expecting Herbert all the [[Time|time]], I dared not go
 out, except when I took Provis for an airing after dark. At length, one
 evening when dinner was over and I had dropped into a slumber quite
 worn out,—for my nights had been agitated and my rest broken by fearful
-dreams,—I was roused by the welcome footstep on the staircase. Provis,
+[[Dreams|dreams]],—I was roused by the welcome footstep on the staircase. Provis,
 who had been asleep too, staggered up at the noise I made, and in an
 instant I saw his jackknife shining in his hand.
 
@@ -577,7 +577,7 @@ seeing Provis. Provis, regarding him with a fixed attention, was slowly
 putting up his jackknife, and groping in another pocket for something
 else.
 
-“Herbert, my dear friend,” said I, shutting the double doors, while
+“Herbert, my dear friend,” said I, shutting the [[Double|double]] doors, while
 Herbert stood staring and wondering, “something very strange has
 happened. This is—a visitor of mine.”
 

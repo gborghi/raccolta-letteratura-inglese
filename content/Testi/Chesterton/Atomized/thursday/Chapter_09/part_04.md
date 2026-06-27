@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 9 (part 4)"
+title: "[[thursday]] — Chapter 9 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -20,23 +20,23 @@ at the damned Council!"
 
 "We might have fought easily," said Bull; "we were four against three."
 
-The Professor was descending the stairs, but his voice came up from below.
+[[The Professor]] was descending the stairs, but his voice came up from below.
 
 "No," said the voice, "we were not four against three--we were not so lucky.
 We were four against One."
 
-The others went down the stairs in silence.
+The others went down the stairs in [[Silence|silence]].
 
-The young man called Bull, with an innocent courtesy characteristic
+The young man called Bull, with an [[Innocent|innocent]] courtesy characteristic
 of him, insisted on going last until they reached the street;
 but there his own robust rapidity asserted itself unconsciously,
 and he walked quickly on ahead towards a railway inquiry office,
 talking to the others over his shoulder.
 
 "It is jolly to get some pals," he said.  "I've been half dead
-with the jumps, being quite alone.  I nearly flung my arms
+with the jumps, being quite [[Alone|alone]].  I nearly flung my arms
 round Gogol and embraced him, which would have been imprudent.
-I hope you won't despise me for having been in a blue funk."
+I [[Hope|hope]] you won't despise me for having been in a blue funk."
 
 "All the blue devils in blue hell," said Syme, "contributed to my blue funk!
 But the worst devil was you and your infernal goggles."
@@ -45,7 +45,7 @@ The young man laughed delightedly.
 
 "Wasn't it a rag?" he said.  "Such a simple idea--not my own.
 I haven't got the brains.  You see, I wanted to go into
-the detective service, especially the anti-dynamite business.
+the [[Detective|detective]] service, especially the anti-dynamite business.
 But for that purpose they wanted someone to dress up as a dynamiter;
 and they all swore by blazes that I could never look like a dynamiter.
 They said my very walk was respectable, and that seen from behind
@@ -89,7 +89,7 @@ like a coalcellar.  There, you would never have guessed that."
 
 "I could not have conceived it," said Syme gravely.
 
-"It is indeed a new idea," said the Professor.
+"It is indeed a new idea," said [[The Professor|the Professor]].
 
 Their new ally was in practical matters a whirlwind.
 At the inquiry office he asked with businesslike brevity about
@@ -104,32 +104,32 @@ You see, I had to send that beast, the Marquis, over with his bomb,
 because the President had his eye on me, though God knows how.
 I'll tell you the story some day.  It was perfectly choking.
 Whenever I tried to slip out of it I saw the President somewhere,
-smiling out of the bow-window of a club, or taking off his
+smiling out of the bow-[[Window|window]] of a club, or taking off his
 hat to me from the top of an omnibus.  I tell you, you can
 say what you like, that fellow sold himself to the devil;
 he can be in six places at once."
 
-"So you sent the Marquis off, I understand," asked the Professor.  "Was it
-long ago?  Shall we be in time to catch him?"
+"So you sent the Marquis off, I understand," asked [[The Professor|the Professor]].  "Was it
+long ago?  Shall we be in [[Time|time]] to catch him?"
 
 "Yes," answered the new guide, "I've timed it all.
 He'll still be at Calais when we arrive."
 
-"But when we do catch him at Calais," said the Professor,
+"But when we do catch him at Calais," said [[The Professor|the Professor]],
 "what are we going to do?"
 
-At this question the countenance of Dr. Bull fell for the first time.
+At this question the countenance of Dr. Bull fell for the first [[Time|time]].
 He reflected a little, and then said--
 
 "Theoretically, I suppose, we ought to call the police."
 
 "Not I," said Syme.  "Theoretically I ought to drown myself first.
 I promised a poor fellow, who was a real modern pessimist,
-on my word of honour not to tell the police.  I'm no hand
+on my word of [[Honour|honour]] not to tell the police.  I'm no hand
 at casuistry, but I can't break my word to a modern pessimist.
-It's like breaking one's word to a child."
+It's like breaking one's word to a [[Child|child]]."
 
-"I'm in the same boat," said the Professor.  "I tried to tell
+"I'm in the same boat," said [[The Professor|the Professor]].  "I tried to tell
 the police and I couldn't, because of some silly oath I took.
 You see, when I was an actor I was a sort of all-round beast.
 Perjury or treason is the only crime I haven't committed.
@@ -139,7 +139,7 @@ right and wrong."
 "I've been through all that," said Dr. Bull, "and I've made up my mind.
 I gave my promise to the Secretary--you know him, man who smiles upside down.
 My friends, that man is the most utterly unhappy man that was ever human.
-It may be his digestion, or his conscience, or his nerves, or his philosophy
-of the universe, but he's damned, he's in hell!  Well, I can't turn
+It may be his digestion, or his [[Conscience|conscience]], or his nerves, or his [[philosophy]]
+of the universe, but he's damned, he's in hell!  [[Well]], I can't turn
 on a man like that, and hunt him down.  It's like whipping a leper.
-I may be mad, but that's how I feel; and there's jolly well the end of it."
+I may be mad, but that's how I feel; and there's jolly [[Well|well]] the end of it."

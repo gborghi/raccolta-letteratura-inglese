@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Fallacy of the Young Nation (part 1)"
+title: "[[heret12]] — The Fallacy of the Young Nation (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/heret12-(Chesterton)"
@@ -29,15 +29,15 @@ is the conscious ritualism which is comparatively simple,
 the unconscious ritual which is really heavy and complicated.
 The ritual which is comparatively rude and straightforward
 is the ritual which people call "ritualistic."  It consists
-of plain things like bread and wine and fire, and men falling
+of plain things like bread and wine and [[Fire|fire]], and men falling
 on their faces.  But the ritual which is really complex,
 and many coloured, and elaborate, and needlessly formal,
 is the ritual which people enact without knowing it.
-It consists not of plain things like wine and fire, but of
+It consists not of plain things like wine and [[Fire|fire]], but of
 really peculiar, and local, and exceptional, and ingenious things--
-things like door-mats, and door-knockers, and electric bells,
+things like door-mats, and door-knockers, and electric [[Bells|bells]],
 and silk hats, and white ties, and shiny cards, and confetti.
-The truth is that the modern man scarcely ever gets back
+The [[Truth|truth]] is that the modern man scarcely ever gets back
 to very old and simple things except when he is performing
 some religious mummery.  The modern man can hardly get
 away from ritual except by entering a ritualistic church.
@@ -69,8 +69,8 @@ I imagine that Mr. Kensit takes off his hat to a lady; and what can
 be more solemn and absurd, considered in the abstract, than,
 symbolizing the existence of the other sex by taking off a portion
 of your clothing and waving it in the air?  This, I repeat,
-is not a natural and primitive symbol, like fire or food.
-A man might just as well have to take off his waistcoat to a lady;
+is not a natural and primitive symbol, like [[Fire|fire]] or food.
+A man might just as [[Well|well]] have to take off his waistcoat to a lady;
 and if a man, by the social ritual of his civilization,
 had to take off his waistcoat to a lady, every chivalrous
 and sensible man would take off his waistcoat to a lady.
@@ -98,11 +98,11 @@ so often a false sentiment.  When we talk, for instance,
 of some unscrupulous commercial figure, and say that he would
 do anything for money, we use quite an inaccurate expression,
 and we slander him very much.  He would not do anything for money.
-He would do some things for money; he would sell his soul
+He would do some things for money; he would sell his [[Soul|soul]]
 for money, for instance; and, as Mirabeau humorously said,
 he would be quite wise "to take money for muck."
 He would oppress humanity for money; but then it happens
-that humanity and the soul are not things that he believes in;
+that humanity and the [[Soul|soul]] are not things that he believes in;
 they are not his ideals.  But he has his own dim and
 delicate ideals; and he would not violate these for money.
 He would not drink out of the soup-tureen, for money.
@@ -110,9 +110,9 @@ He would not wear his coat-tails in front, for money.  He would
 not spread a report that he had softening of the brain, for money.
 In the actual practice of life we find, in the matter of ideals,
 exactly what we have already found in the matter of ritual.
-We find that while there is a perfectly genuine danger of fanaticism
+We find that while there is a perfectly genuine danger of [[Fanaticism|fanaticism]]
 from the men who have unworldly ideals, the permanent and urgent
-danger of fanaticism is from the men who have worldly ideals.
+danger of [[Fanaticism|fanaticism]] is from the men who have worldly ideals.
 
 People who say that an ideal is a dangerous thing, that it
 deludes and intoxicates, are perfectly right.  But the ideal
@@ -130,7 +130,7 @@ impossible to persuade ourselves that we have attained it.
 But it is easy to attain a low ideal; consequently, it is easier
 still to persuade ourselves that we have attained it when we
 have done nothing of the kind.  To take a random example.
-It might be called a high ambition to wish to be an archangel;
+It might be called a high [[Ambition|ambition]] to wish to be an archangel;
 the man who entertained such an ideal would very possibly
 exhibit asceticism, or even frenzy, but not, I think, delusion.
 He would not think he was an archangel, and go about flapping

@@ -15,15 +15,15 @@ tags:
 
 
 ‘He learned more than a half-dozen letters in half an hour, and seemed
-delighted with his success, at least in gaining approbation.  His
-attention then began to flag, and I commenced playing with him.  It was
+delighted with his [[success]], at least in gaining approbation.  His
+attention then began to [[Flag|flag]], and I commenced playing with him.  It was
 evident that in all this he had merely been imitating the motions of my
 fingers, and placing his hand upon the key, cup, &c., as part of the
 process, without any perception of the relation between the sign and the
 object.
 
 ‘When he was tired with play I took him back to the table, and he was
-quite ready to begin again his process of imitation.  He soon learned to
+quite ready to begin again his process of [[Imitation|imitation]].  He soon learned to
 make the letters for _key_, _pen_, _pin_; and by having the object
 repeatedly placed in his hand, he at last perceived the relation I wished
 to establish between them.  This was evident, because, when I made the
@@ -33,7 +33,7 @@ letters _pin_, or _pen_, or _cup_, he would select the article.
 flash of intelligence, and that glow of joy, which marked the delightful
 moment when Laura first perceived it.  I then placed all the articles on
 the table, and going away a little distance with the children, placed
-Oliver’s fingers in the positions to spell _key_, on which Laura went and
+[[Oliver]]’s fingers in the positions to spell _key_, on which Laura went and
 brought the article: the little fellow seemed much amused by this, and
 looked very attentive and smiling.  I then caused him to make the letters
 _bread_, and in an instant Laura went and brought him a piece: he smelled
@@ -46,7 +46,7 @@ he was a proper subject for instruction, and needed only persevering
 attention.  I therefore put him in the hands of an intelligent teacher,
 nothing doubting of his rapid progress.’
 
-Well may this gentleman call that a delightful moment, in which some
+[[Well]] may this gentleman call that a delightful moment, in which some
 distant promise of her present state first gleamed upon the darkened mind
 of Laura Bridgman.  Throughout his life, the recollection of that moment
 will be to him a source of pure, unfading happiness; nor will it shine
@@ -63,18 +63,18 @@ it be to her, she has such deep delight and glad enjoyment.
 Ye who have eyes and see not, and have ears and hear not; ye who are as
 the hypocrites of sad countenances, and disfigure your faces that ye may
 seem unto men to fast; learn healthy cheerfulness, and mild contentment,
-from the deaf, and dumb, and blind!  Self-elected saints with gloomy
-brows, this sightless, earless, voiceless child may teach you lessons you
-will do well to follow.  Let that poor hand of hers lie gently on your
+from the deaf, and dumb, and blind!  [[Self]]-elected saints with gloomy
+brows, this sightless, earless, voiceless [[Child|child]] may teach you lessons you
+will do [[Well|well]] to follow.  Let that poor hand of hers lie gently on your
 hearts; for there may be something in its healing touch akin to that of
 the Great Master whose precepts you misconstrue, whose lessons you
-pervert, of whose charity and sympathy with all the world, not one among
+pervert, of whose [[Charity|charity]] and sympathy with all the world, not one among
 you in his daily practice knows as much as many of the worst among those
 fallen sinners, to whom you are liberal in nothing but the preachment of
 perdition!
 
-As I rose to quit the room, a pretty little child of one of the
-attendants came running in to greet its father.  For the moment, a child
+As I [[Rose|rose]] to quit the room, a pretty little [[Child|child]] of one of the
+attendants came running in to greet its father.  For the moment, a [[Child|child]]
 with eyes, among the sightless crowd, impressed me almost as painfully as
 the blind boy in the porch had done, two hours ago.  Ah! how much
 brighter and more deeply blue, glowing and rich though it had been
@@ -88,14 +88,14 @@ the purpose, several charitable institutions are clustered together.  One
 of these, is the State Hospital for the insane; admirably conducted on
 those enlightened principles of conciliation and kindness, which twenty
 years ago would have been worse than heretical, and which have been acted
-upon with so much success in our own pauper Asylum at Hanwell.  ‘Evince a
-desire to show some confidence, and repose some trust, even in mad
+upon with so much [[success]] in our own pauper Asylum at Hanwell.  ‘Evince a
+[[Desire|desire]] to show some confidence, and repose some trust, even in mad
 people,’ said the resident physician, as we walked along the galleries,
-his patients flocking round us unrestrained.  Of those who deny or doubt
+his patients flocking round us unrestrained.  Of those who deny or [[Doubt|doubt]]
 the wisdom of this maxim after witnessing its effects, if there be such
-people still alive, I can only say that I hope I may never be summoned as
+people still alive, I can only say that I [[Hope|hope]] I may never be summoned as
 a Juryman on a Commission of Lunacy whereof they are the subjects; for I
-should certainly find them out of their senses, on such evidence alone.
+should certainly find them out of their senses, on such evidence [[Alone|alone]].
 
 Each ward in this institution is shaped like a long gallery or hall, with
 the dormitories of the patients opening from it on either hand.  Here
@@ -116,4 +116,4 @@ many queer odds and ends stuck all about it, that it looked like a
 bird’s-nest.  She was radiant with imaginary jewels; wore a rich pair of
 undoubted gold spectacles; and gracefully dropped upon her lap, as we
 approached, a very old greasy newspaper, in which I dare say she had been
-reading an account of her own presentation at some Foreign Court.
+reading an account of her own presentation at some Foreign [[Court]].

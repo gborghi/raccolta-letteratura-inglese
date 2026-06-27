@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 35: DEPRESSION (part 1)"
+title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -23,7 +23,7 @@ to Mr. Dick to come round to the chandler’s shop, and take possession of
 the bed which Mr. Peggotty had lately vacated. The chandler’s shop being
 in Hungerford Market, and Hungerford Market being a very different place
 in those days, there was a low wooden colonnade before the door (not
-very unlike that before the house where the little man and woman used
+very unlike that before the [[house]] where the little man and woman used
 to live, in the old weather-glass), which pleased Mr. Dick mightily. The
 glory of lodging over this structure would have compensated him, I dare
 say, for many inconveniences; but, as there were really few to bear,
@@ -43,18 +43,18 @@ are you really and truly the philosopher I take you for?’ That then
 he had said, Yes, he hoped so. That then my aunt had said, ‘Dick, I
 am ruined.’ That then he had said, ‘Oh, indeed!’ That then my aunt had
 praised him highly, which he was glad of. And that then they had come to
-me, and had had bottled porter and sandwiches on the road.
+me, and had had bottled porter and sandwiches on the [[Road|road]].
 
 Mr. Dick was so very complacent, sitting on the foot of the bed, nursing
 his leg, and telling me this, with his eyes wide open and a surprised
 smile, that I am sorry to say I was provoked into explaining to him
 that ruin meant distress, want, and starvation; but I was soon bitterly
-reproved for this harshness, by seeing his face turn pale, and tears
+reproved for this harshness, by seeing his face turn pale, and [[Tears|tears]]
 course down his lengthened cheeks, while he fixed upon me a look of such
 unutterable woe, that it might have softened a far harder heart than
 mine. I took infinitely greater pains to cheer him up again than I had
 taken to depress him; and I soon understood (as I ought to have known at
-first) that he had been so confident, merely because of his faith in
+first) that he had been so confident, merely because of his [[Faith|faith]] in
 the wisest and most wonderful of women, and his unbounded reliance on my
 intellectual resources. The latter, I believe, he considered a match for
 any kind of disaster not absolutely mortal.
@@ -73,25 +73,25 @@ best attempts at concealment. All the evening his eyes wandered to my
 aunt’s face, with an expression of the most dismal apprehension, as if
 he saw her growing thin on the spot. He was conscious of this, and put
 a constraint upon his head; but his keeping that immovable, and sitting
-rolling his eyes like a piece of machinery, did not mend the matter at
+[[rolling]] his eyes like a piece of machinery, did not mend the matter at
 all. I saw him look at the loaf at supper (which happened to be a small
 one), as if nothing else stood between us and famine; and when my aunt
 insisted on his making his customary repast, I detected him in the act
-of pocketing fragments of his bread and cheese; I have no doubt for the
+of pocketing fragments of his bread and [[cheese]]; I have no [[Doubt|doubt]] for the
 purpose of reviving us with those savings, when we should have reached
 an advanced stage of attenuation.
 
 My aunt, on the other hand, was in a composed frame of mind, which was
 a lesson to all of us--to me, I am sure. She was extremely gracious
 to Peggotty, except when I inadvertently called her by that name; and,
-strange as I knew she felt in London, appeared quite at home. She was
+strange as I knew she felt in [[London]], appeared quite at [[Home|home]]. She was
 to have my bed, and I was to lie in the sitting-room, to keep guard over
-her. She made a great point of being so near the river, in case of a
+her. She made a great point of being so near the [[River|river]], in case of a
 conflagration; and I suppose really did find some satisfaction in that
 circumstance.
 
 ‘Trot, my dear,’ said my aunt, when she saw me making preparations for
-compounding her usual night-draught, ‘No!’
+compounding her usual [[Night|night]]-draught, ‘No!’
 
 ‘Nothing, aunt?’
 
@@ -120,12 +120,12 @@ deal better than wine. Not half so bilious.’
 
 I suppose I looked doubtful, for she added:
 
-‘Tut, tut, child. If nothing worse than Ale happens to us, we are well
+‘Tut, tut, [[Child|child]]. If nothing worse than Ale happens to us, we are [[Well|well]]
 off.’
 
 ‘I should think so myself, aunt, I am sure,’ said I.
 
-‘Well, then, why DON’T you think so?’ said my aunt.
+‘[[Well]], then, why DON’T you think so?’ said my aunt.
 
 ‘Because you and I are very different people,’ I returned.
 

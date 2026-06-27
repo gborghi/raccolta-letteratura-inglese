@@ -22,7 +22,7 @@ tags:
 
       rainwater, and of the jug in which we had kept it when caught;
 
-      for we found the whole bottom, from within two or three feet of
+      for we found the whole [[Bottom|bottom]], from within two or three feet of
 
       the bends as far as the keel, together with the keel itself,
 
@@ -44,7 +44,7 @@ tags:
 
 
 
-      The difficulty, however, of now obtaining water blinded us to all
+      The difficulty, however, of now obtaining [[Water|water]] blinded us to all
 
       the benefits of the change in our condition. That we might be
 
@@ -56,11 +56,11 @@ tags:
 
       even under the most favorable circumstances, than half a gill at
 
-      a time. No signs of a cloud appeared during the day, and the
+      a [[Time|time]]. No signs of a cloud appeared during the day, and the
 
-      agonies of our thirst were nearly intolerable. At night, Peters
+      agonies of our thirst were nearly intolerable. At [[Night|night]], Peters
 
-      obtained about an hour’s disturbed sleep, but my intense
+      obtained about an hour’s disturbed [[Sleep|sleep]], but my intense
 
       sufferings would not permit me to close my eyes for a single
 
@@ -80,27 +80,27 @@ tags:
 
       Seeing no trace of sharks among the seaweed, we also ventured to
 
-      bathe, and remained in the water for four or five hours, during
+      bathe, and remained in the [[Water|water]] for four or five hours, during
 
       which we experienced a very sensible diminution of our thirst.
 
-      Were greatly refreshed, and spent the night somewhat more
+      Were greatly refreshed, and spent the [[Night|night]] somewhat more
 
-      comfortably than before, both of us snatching a little sleep.
+      comfortably than before, both of us snatching a little [[Sleep|sleep]].
 
 
 
       August 6. This day we were blessed by a brisk and continual rain,
 
-      lasting from about noon until after dark. Bitterly did we now
+      lasting from about [[Noon|noon]] until after dark. Bitterly did we now
 
       regret the loss of our jug and carboy; for, in spite of the
 
-      little means we had of catching the water, we might have filled
+      little means we had of catching the [[Water|water]], we might have filled
 
       one, if not both of them. As it was, we contrived to satisfy the
 
-      cravings of thirst by suffering the shirts to become saturated,
+      cravings of thirst by [[Suffering|suffering]] the shirts to become saturated,
 
       and then wringing them so as to let the grateful fluid trickle
 
@@ -148,13 +148,13 @@ tags:
 
       regarded as belonging to the human species. {*2} In this
 
-      instance, however, by the mercy of God, we were destined to be
+      instance, however, by the [[Mercy|mercy]] of God, we were destined to be
 
       most happily deceived; for, presently we were aware of a sudden
 
       commotion on the deck of the stranger, who immediately afterward
 
-      ran up a British flag, and, hauling her wind, bore up directly
+      ran up a British [[Flag|flag]], and, hauling her [[Wind|wind]], bore up directly
 
       upon us. In half an hour more we found ourselves in her cabin.
 

@@ -20,11 +20,11 @@ He talked a great deal about himself on the present occasion.
 He was pleased to find these two intelligent men interested and attentive;
 and he tried to put into words the impalpable impulses to which
 he was always provoked by particular shapes or colours or corners
-of the straggling road of life.  He tried to analyse the attraction
+of the straggling [[Road|road]] of life.  He tried to analyse the attraction
 of a swing, with its rudiments of aviation; and how it made a man
 feel more like a boy, because it made a boy feel more like a bird.
 He explained that the arbour was fascinating precisely because it
-was a den.  He told them at some length of the psychological truth;
+was a den.  He told them at some length of the psychological [[Truth|truth]];
 that dismal and decayed objects raise a man's spirits higher,
 if they really are already high.  His two companions talked in turn;
 and as luncheon progressed and passed they turned over between
@@ -44,9 +44,9 @@ Don't you think so, Starkey?"
 
 It was at that moment that Gale looked out dreamily at the light
 upon the lawn, and in the stillness of his inmost mind a light broke
-on him like lightning; one of the terrible intuitions of his life.
+on him like [[Lightning|lightning]]; one of the terrible intuitions of his life.
 
-Against the silver light on the river the dark frame of the forsaken swing
+Against the silver light on the [[River|river]] the dark frame of the forsaken swing
 stood up like a gallows.  There was no trace of the seat or the ropes,
 not merely in their proper place, but even on the ground where they
 had fallen.  Sweeping his eye slowly and searchingly round the scene,
@@ -64,7 +64,7 @@ think I am mad."
 in a soothing fashion.  "You are of a certain type which
 friends and admirers will be wise to treat in a certain way,
 but it need in no sense be an unfriendly or uncomfortable way.
-You are an artist with that form of the artistic temperament which
+You are an [[artist]] with that form of the artistic temperament which
 is necessarily a mode of modified megalomania, and which expresses
 itself in the form of exaggeration.  You cannot see a large blank
 wall without having an uncontrollable appetite for covering it
@@ -87,29 +87,29 @@ to what you call making a tiger out of a cat, or what some call making
 a mountain out of a molehill.  You do not go on and make a cat more
 of a cat; you are always trying to work back and prove that it is less
 than a cat; that it is a defective cat or a mentally deficient cat.
-But a cat is a cat; that is the supreme sanity which is so thickly
-clouded in your mind.  After all, a molehill is a hill and a mountain
-is a hill.  But you have got into the state of the mad queen,
+But a cat is a cat; that is the supreme [[Sanity|sanity]] which is so thickly
+clouded in your mind.  After all, a molehill is a [[Hill|hill]] and a mountain
+is a [[Hill|hill]].  But you have got into the state of the mad [[Queen|queen]],
 who said she knew hills compared with which this was a valley.
 You can't grasp the thing called a thing.  Nothing for you has
-a central stalk of sanity.  There is no core to your cosmos.
+a central stalk of [[Sanity|sanity]].  There is no core to your cosmos.
 Your trouble began with being an atheist."
 
 "I have not confessed to being an atheist," said Wolfe staring.
 
-"I have not confessed to being an artist," replied Gale,
+"I have not confessed to being an [[artist]]," replied Gale,
 "or to have uncontrolled artistic appetites or any of that stuff.
 But I will tell you one thing:  I can only exaggerate things the way
 they are going.  But I'm not often wrong about the way they are going.
 You may be as sleek as a cat but I knew you were evolving into a tiger.
-And I guessed this little lizard could be turned by black magic
+And I guessed this little lizard could be turned by black [[Magic|magic]]
 into a dragon."
 
 As he spoke he was looking grimly at Starkey and out under
-the dark arch of the arbour, as out of a closing prison,
+the dark arch of the arbour, as out of a closing [[Prison|prison]],
 with these two ghouls sitting on each side of the gate.
 Beyond was the gaunt shape like a gallows and beyond that the green
-and silver of the garden and the stream shone like a lost paradise
+and silver of the [[Garden|garden]] and the stream shone like a lost paradise
 of liberty.  But it was characteristic of him that even when
 he was practically hopeless, he liked being logically triumphant;
 he liked turning the tables on his critics even when, so to speak,
@@ -121,7 +121,7 @@ on yours?  You can't see any further into me than I can into you.
 Not half so far.  Didn't you know a portrait-painter has to value
 people at sight as much as a doctor?  And I do it better than you;
 I have a knack that way.  That's why I can paint those pictures
-on the wall; and I could paint your pictures as big as a house.
+on the wall; and I could paint your pictures as big as a [[house]].
 I know what is at the back of your mind, Doctor Simeon Wolfe;
 and it's a chaos of exceptions with no rule.  You could find
 anything abnormal, because you have no normal.  You could find

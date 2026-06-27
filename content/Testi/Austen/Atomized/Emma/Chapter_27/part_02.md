@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 8 (part 2)"
+title: "[[Emma]] — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -15,20 +15,20 @@ tags:
 
 
 “One can suppose nothing else,” added Mrs. Cole, “and I was only
-surprized that there could ever have been a doubt. But Jane, it seems,
+surprized that there could ever have been a [[Doubt|doubt]]. But Jane, it seems,
 had a letter from them very lately, and not a word was said about it.
-She knows their ways best; but I should not consider their silence as
+She knows their ways best; but I should not consider their [[Silence|silence]] as
 any reason for their not meaning to make the present. They might chuse
 to surprize her.”
 
-Mrs. Cole had many to agree with her; every body who spoke on the
+Mrs. Cole had many to agree with her; every [[Body|body]] who spoke on the
 subject was equally convinced that it must come from Colonel Campbell,
 and equally rejoiced that such a present had been made; and there were
-enough ready to speak to allow Emma to think her own way, and still
+enough ready to speak to allow [[Emma]] to think her own way, and still
 listen to Mrs. Cole.
 
 “I declare, I do not know when I have heard any thing that has given me
-more satisfaction!—It always has quite hurt me that Jane Fairfax, who
+more satisfaction!—It always has quite hurt me that [[Jane Fairfax]], who
 plays so delightfully, should not have an instrument. It seemed quite a
 shame, especially considering how many houses there are where fine
 instruments are absolutely thrown away. This is like giving ourselves a
@@ -36,8 +36,8 @@ slap, to be sure! and it was but yesterday I was telling Mr. Cole, I
 really was ashamed to look at our new grand pianoforte in the
 drawing-room, while I do not know one note from another, and our little
 girls, who are but just beginning, perhaps may never make any thing of
-it; and there is poor Jane Fairfax, who is mistress of music, has not
-any thing of the nature of an instrument, not even the pitifullest old
+it; and there is poor [[Jane Fairfax]], who is mistress of music, has not
+any thing of the [[Nature|nature]] of an instrument, not even the pitifullest old
 spinet in the world, to amuse herself with.—I was saying this to Mr.
 Cole but yesterday, and he quite agreed with me; only he is so
 particularly fond of music that he could not help indulging himself in
@@ -49,7 +49,7 @@ may be prevailed with to try it this evening.”
 
 Miss Woodhouse made the proper acquiescence; and finding that nothing
 more was to be entrapped from any communication of Mrs. Cole’s, turned
-to Frank Churchill.
+to [[Frank Churchill]].
 
 “Why do you smile?” said she.
 
@@ -60,15 +60,15 @@ and so liberal.—It is a handsome present.”
 
 “Very.”
 
-“I rather wonder that it was never made before.”
+“I rather [[Wonder|wonder]] that it was never made before.”
 
 “Perhaps Miss Fairfax has never been staying here so long before.”
 
 “Or that he did not give her the use of their own instrument—which must
-now be shut up in London, untouched by any body.”
+now be shut up in [[London]], untouched by any [[Body|body]].”
 
 “That is a grand pianoforte, and he might think it too large for Mrs.
-Bates’s house.”
+Bates’s [[house]].”
 
 “You may _say_ what you chuse—but your countenance testifies that your
 _thoughts_ on this subject are very much like mine.”
@@ -82,7 +82,7 @@ be?”
 “What do you say to Mrs. Dixon?”
 
 “Mrs. Dixon! very true indeed. I had not thought of Mrs. Dixon. She
-must know as well as her father, how acceptable an instrument would be;
+must know as [[Well|well]] as her father, how acceptable an instrument would be;
 and perhaps the mode of it, the mystery, the surprize, is more like a
 young woman’s scheme than an elderly man’s. It is Mrs. Dixon, I dare
 say. I told you that your suspicions would guide mine.”
@@ -90,7 +90,7 @@ say. I told you that your suspicions would guide mine.”
 “If so, you must extend your suspicions and comprehend _Mr_. Dixon in
 them.”
 
-“Mr. Dixon.—Very well. Yes, I immediately perceive that it must be the
+“Mr. Dixon.—Very [[Well|well]]. Yes, I immediately perceive that it must be the
 joint present of Mr. and Mrs. Dixon. We were speaking the other day,
 you know, of his being so warm an admirer of her performance.”
 
@@ -98,14 +98,14 @@ you know, of his being so warm an admirer of her performance.”
 entertained before.—I do not mean to reflect upon the good intentions
 of either Mr. Dixon or Miss Fairfax, but I cannot help suspecting
 either that, after making his proposals to her friend, he had the
-misfortune to fall in love with _her_, or that he became conscious of a
+misfortune to fall in [[Love|love]] with _her_, or that he became conscious of a
 little attachment on her side. One might guess twenty things without
 guessing exactly the right; but I am sure there must be a particular
 cause for her chusing to come to Highbury instead of going with the
 Campbells to Ireland. Here, she must be leading a life of privation and
 penance; there it would have been all enjoyment. As to the pretence of
-trying her native air, I look upon that as a mere excuse.—In the summer
-it might have passed; but what can any body’s native air do for them in
+trying her native air, I look upon that as a mere excuse.—In the [[Summer|summer]]
+it might have passed; but what can any [[Body|body]]’s native air do for them in
 the months of January, February, and March? Good fires and carriages
 would be much more to the purpose in most cases of delicate health, and
 I dare say in her’s. I do not require you to adopt all my suspicions,
@@ -116,12 +116,12 @@ you what they are.”
 preference of her music to her friend’s, I can answer for being very
 decided.”
 
-“And then, he saved her life. Did you ever hear of that?—A water party;
+“And then, he saved her life. Did you ever hear of that?—A [[Water|water]] party;
 and by some accident she was falling overboard. He caught her.”
 
 “He did. I was there—one of the party.”
 
-“Were you really?—Well!—But you observed nothing of course, for it
+“Were you really?—[[Well]]!—But you observed nothing of course, for it
 seems to be a new idea to you.—If I had been there, I think I should
 have made some discoveries.”
 
@@ -138,5 +138,5 @@ The conversation was here interrupted. They were called on to share in
 the awkwardness of a rather long interval between the courses, and
 obliged to be as formal and as orderly as the others; but when the
 table was again safely covered, when every corner dish was placed
-exactly right, and occupation and ease were generally restored, Emma
+exactly right, and occupation and ease were generally restored, [[Emma]]
 said,

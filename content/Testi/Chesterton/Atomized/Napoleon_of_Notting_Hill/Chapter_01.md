@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 1"
+title: "Napoleon of Notting [[Hill]] — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -23,7 +23,7 @@ at children's games from the beginning, and will probably do it
 till the end, which is a nuisance for the few people who grow up.
 And one of the games to which it is most attached is called,
 "Keep to-morrow dark," and which is also named (by the rustics
-in Shropshire, I have no doubt) "Cheat the Prophet."  The players
+in Shropshire, I have no [[Doubt|doubt]]) "Cheat the [[Prophet]]."  The players
 listen very carefully and respectfully to all that the clever
 men have to say about what is to happen in the next generation.
 The players then wait until all the clever men are dead, and bury
@@ -40,7 +40,7 @@ eating, sleeping, and scheming.  But humanity as a whole is changeful,
 mystical, fickle, delightful.  Men are men, but Man is a woman.
 
 But in the beginning of the twentieth century the game of Cheat
-the Prophet was made far more difficult than it had ever been before.
+the [[Prophet]] was made far more difficult than it had ever been before.
 The reason was, that there were so many prophets and so many prophecies,
 that it was difficult to elude all their ingenuities.
 When a man did something free and frantic and entirely his own,
@@ -55,13 +55,13 @@ and treasured him up and gave him some high post in the State.
 And all these clever men were at work giving accounts of what would happen
 in the next age, all quite clear, all quite keen-sighted and ruthless,
 and all quite different.  And it seemed that the good old game
-of hoodwinking your ancestors could not really be managed this time,
-because the ancestors neglected meat and sleep and practical politics,
-so that they might meditate day and night on what their descendants
+of hoodwinking your ancestors could not really be managed this [[Time|time]],
+because the ancestors neglected meat and [[Sleep|sleep]] and practical politics,
+so that they might meditate day and [[Night|night]] on what their descendants
 would be likely to do.
 
 But the way the prophets of the twentieth century went to work was this.
-They took something or other that was certainly going on in their time,
+They took something or other that was certainly going on in their [[Time|time]],
 and then said that it would go on more and more until something
 extraordinary happened.  And very often they added that in some odd
 place that extraordinary thing had happened, and that it showed
@@ -72,28 +72,28 @@ who thought that science would take charge of the future;
 and just as the motor-car was quicker than the coach, so some lovely
 thing would be quicker than the motorcar; and so on for ever.
 And there arose from their ashes Dr. Quilp, who said that a man
-could be sent on his machine so fast round the world that he could
+could be sent on his [[Machine|machine]] so fast round the world that he could
 keep up a long chatty conversation in some old-world village
-by saying a word of a sentence each time he came round.
+by saying a word of a sentence each [[Time|time]] he came round.
 And it was said that the experiment had been tried on an apoplectic
 old major, who was sent round the world so fast that there seemed to be
 (to the inhabitants of some other star) a continuous band round
 the earth of white whiskers, red complexion and tweeds...a thing
-like the ring of Saturn.
+like the ring of [[Saturn]].
 
 Then there was the opposite school.  There was Mr. Edward Carpenter,
-who thought we should in a very short time return to Nature,
-and live simply and slowly as the animals do.  And Edward Carpenter
+who thought we should in a very short [[Time|time]] return to [[Nature]],
+and live simply and slowly as the [[Animals|animals]] do.  And Edward Carpenter
 was followed by James Pickie, D.D. (of Pocahontas College),
 who said that men were immensely improved by grazing, or taking
 their food slowly and continuously, alter the manner of cows.
 And he said that he had, with the most encouraging results,
-turned city men out on all fours in a field covered with veal cutlets.
-Then Tolstoy and the Humanitarians said that the world was growing
-more merciful, and therefore no one would ever desire to kill.
-And Mr. Mick not only became a vegetarian, but at length declared
+turned [[City|city]] men out on all fours in a field covered with veal cutlets.
+Then [[tolstoy|Tolstoy]] and the Humanitarians said that the world was growing
+more merciful, and therefore no one would ever [[Desire|desire]] to kill.
+And Mr. Mick not only became a [[vegetarian]], but at length declared
 vegetarianism doomed ("shedding," as he called it finely, "the green
-blood of the silent animals"), and predicted that men in a better age
+[[Blood|blood]] of the silent [[Animals|animals]]"), and predicted that men in a better age
 would live on nothing but salt.  And then came the pamphlet from Oregon
 (where the thing was tried), the pamphlet called "Why should Salt suffer?"
 and there was more trouble.
@@ -105,22 +105,22 @@ the future was the British Empire, and that there would be a gulf
 between those who were of the Empire and those who were not,
 between the Chinaman in Hong-Kong and the Chinaman outside,
 between the Spaniard on the Rock of Gibraltar and the Spaniard
-off it, similar to the gulf between man and the lower animals.
+off it, similar to the gulf between man and the lower [[Animals|animals]].
 And in the same way his impetuous friend, Dr. Zoppi ("the Paul
 of Anglo-Saxonism"), carried it yet further, and held that,
 as a result of this view, cannibalism should be held to mean eating
 a member of the Empire, not eating one of the subject peoples,
-who should, he said, be killed without needless pain.
+who should, he said, be killed without needless [[Pain|pain]].
 His horror at the idea of eating a man in British Guiana showed how
 they misunderstood his stoicism who thought him devoid of feeling.
 He was, however, in a hard position; as it was said that he had
-attempted the experiment, and, living in London, had to subsist
+attempted the experiment, and, living in [[London]], had to subsist
 entirely on Italian organ-grinders. And his end was terrible,
 for just when he had begun, Sir Paul Swiller read his great paper
 at the Royal Society, proving that the savages were not only quite
 right in eating their enemies, but right on moral and hygienic grounds,
 since it was true that the qualities of the enemy, when eaten,
-passed into the eater.  The notion that the nature of an Italian
+passed into the eater.  The notion that the [[Nature|nature]] of an Italian
 organ-man was irrevocably growing and burgeoning inside him was
 almost more than the kindly old professor could bear.
 
@@ -133,9 +133,9 @@ and tourists being shown over the scene of the historic battle
 which was to take place some centuries afterwards.
 
 And Mr. Stead, too, was prominent, who thought that England would
-in the twentieth century be united to America; and his young lieutenant,
-Graham Podge, who included the states of France, Germany, and Russia
-in the American Union, the State of Russia being abbreviated to Ra.
+in the twentieth century be united to [[America]]; and his young lieutenant,
+Graham Podge, who included the states of France, [[Germany]], and [[Russia]]
+in the American [[Union]], the State of [[Russia]] being abbreviated to Ra.
 
 There was Mr. Sidney Webb, also, who said that the future would see
 a continuously increasing order and neatness in the life of the people,
@@ -146,41 +146,41 @@ not the same number on both sides.
 All these clever men were prophesying with every variety of ingenuity
 what would happen soon, and they all did it in the same way,
 by taking something they saw 'going strong,' as the saying is,
-and carrying it as far as ever their imagination could stretch.
+and carrying it as far as ever their [[Imagination|imagination]] could stretch.
 This, they said, was the true and simple way of anticipating the future.
 "Just as," said Dr. Pellkins, in a fine passage, "...just as when we
 see a pig in a litter larger than the other pigs, we know that by
 an unalterable law of the Inscrutable it will some day be larger
 than an elephant, just as we know, when we see weeds and dandelions
-growing more and more thickly in a garden, that they must, in spite
-of all our efforts, grow taller than the chimney-pots and swallow
-the house from sight, so we know and reverently acknowledge,
+growing more and more thickly in a [[Garden|garden]], that they must, in spite
+of all our efforts, grow taller than the chimney-pots and [[Swallow|swallow]]
+the [[house]] from sight, so we know and reverently acknowledge,
 that when any power in human politics has shown for any period
-of time any considerable activity, it will go on until it reaches
+of [[Time|time]] any considerable activity, it will go on until it reaches
 to the sky."
 
 And it did certainly appear that the prophets had put the people
-(engaged in the old game of Cheat the Prophet) in a quite
+(engaged in the old game of Cheat the [[Prophet]]) in a quite
 unprecedented difficulty.  It seemed really hard to do anything
 without fulfilling some of their prophecies.
 
 But there was, nevertheless, in the eyes of labourers in the streets,
 of peasants in the fields, of sailors and children, and especially women,
-a strange look that kept the wise men in a perfect fever of doubt.
+a strange look that kept the wise men in a perfect fever of [[Doubt|doubt]].
 They could not fathom the motionless mirth in their eyes.
 They still had something up their sleeve; they were still playing
-the game of Cheat the Prophet.
+the game of Cheat the [[Prophet]].
 
 Then the wise men grew like wild things, and swayed hither
 and thither, crying, "What can it be?  What can it be?
-What will London be like a century hence?  Is there anything we
+What will [[London]] be like a century hence?  Is there anything we
 have not thought of?  Houses upside down...more hygienic, perhaps?
 Men walking on hands...make feet flexible, don't you know?
-Moon... motor-cars... no heads..." And so they swayed and wondered
+[[Moon]]... motor-cars... no heads..." And so they swayed and wondered
 until they died and were buried nicely.
 
 Then the people went and did what they liked.  Let me no longer
-conceal the painful truth.  The people had cheated the prophets
+conceal the painful [[Truth|truth]].  The people had cheated the prophets
 of the twentieth century.  When the curtain goes up on this story,
-eighty years after the present date, London is almost exactly
+eighty years after the present date, [[London]] is almost exactly
 like what it is now.

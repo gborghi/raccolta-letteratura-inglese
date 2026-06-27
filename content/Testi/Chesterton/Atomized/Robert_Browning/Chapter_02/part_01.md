@@ -20,12 +20,12 @@ EARLY WORKS
 
 
 In 1840 _Sordello_ was published. Its reception by the great majority
-of readers, including some of the ablest men of the time, was a
-reception of a kind probably unknown in the rest of literary history,
+of readers, including some of the ablest men of the [[Time|time]], was a
+reception of a kind probably unknown in the rest of literary [[history]],
 a reception that was neither praise nor blame. It was perhaps best
 expressed by Carlyle, who wrote to say that his wife had read
 _Sordello_ with great interest, and wished to know whether Sordello
-was a man, or a city, or a book. Better known, of course, is the story
+was a man, or a [[City|city]], or a book. Better known, of course, is the story
 of Tennyson, who said that the first line of the poem--
 
     "Who will, may hear Sordello's story told,"
@@ -39,22 +39,22 @@ lies.
 
 Perhaps the best story, however, of all the cycle of Sordello legends
 is that which is related of Douglas Jerrold. He was recovering from an
-illness; and having obtained permission for the first time to read a
+illness; and having obtained permission for the first [[Time|time]] to read a
 little during the day, he picked up a book from a pile beside the bed
 and began _Sordello_. No sooner had he done so than he turned deadly
 pale, put down the book, and said, "My God! I'm an idiot. My health
 is restored, but my mind's gone. I can't understand two consecutive
 lines of an English poem." He then summoned his family and silently
 gave the book into their hands, asking for their opinion on the poem;
-and as the shadow of perplexity gradually passed over their faces, he
-heaved a sigh of relief and went to sleep. These stories, whether
+and as the [[Shadow|shadow]] of perplexity gradually passed over their faces, he
+heaved a sigh of relief and went to [[Sleep|sleep]]. These stories, whether
 accurate or no, do undoubtedly represent the very peculiar reception
 accorded to _Sordello_, a reception which, as I have said, bears no
 resemblance whatever to anything in the way of eulogy or condemnation
 that had ever been accorded to a work of art before. There had been
 authors whom it was fashionable to boast of admiring and authors whom
 it was fashionable to boast of despising; but with _Sordello_ enters
-into literary history the Browning of popular badinage, the author
+into literary [[history]] the Browning of popular badinage, the author
 whom it is fashionable to boast of not understanding.
 
 Putting aside for the moment the literary qualities which are to be
@@ -63,7 +63,7 @@ very relevant to the fame and character of Browning which is raised by
 _Sordello_ when it is considered, as most people consider it, as
 hopelessly unintelligible. It really throws some light upon the reason
 of Browning's obscurity. The ordinary theory of Browning's obscurity
-is to the effect that it was a piece of intellectual vanity indulged
+is to the effect that it was a piece of intellectual [[Vanity|vanity]] indulged
 in more and more insolently as his years and fame increased. There are
 at least two very decisive objections to this popular explanation. In
 the first place, it must emphatically be said for Browning that in all
@@ -83,7 +83,7 @@ conversation, for example, some people who liked him found him genial,
 talkative, anecdotal, with a certain strengthening and sanative
 quality in his mere bodily presence. Some people who did not like him
 found him a mere frivolous chatterer, afflicted with bad manners. One
-lady, who knew him well, said that, though he only met you in a crowd
+lady, who knew him [[Well|well]], said that, though he only met you in a crowd
 and made some commonplace remark, you went for the rest of the day
 with your head up. Another lady who did not know him, and therefore
 disliked him, asked after a dinner party, "Who was that too-exuberant
@@ -96,24 +96,24 @@ invariable in the case of the man who is vain of his mental
 superiority. When he did impress people with mental gymnastics, it was
 mostly in the form of pouring out, with passionate enthusiasm, whole
 epics written by other people, which is the last thing that the
-literary egotist would be likely to waste his time over. We have
+literary egotist would be likely to waste his [[Time|time]] over. We have
 therefore to start with an enormous psychological improbability that
-Browning made his poems complicated from mere pride in his powers and
+Browning made his [[Poems|poems]] complicated from mere [[Pride|pride]] in his powers and
 contempt of his readers.
 
 There is, however, another very practical objection to the ordinary
 theory that Browning's obscurity was a part of the intoxication of
 fame and intellectual consideration. We constantly hear the statement
 that Browning's intellectual complexity increased with his later
-poems, but the statement is simply not true. _Sordello_, to the
+[[Poems|poems]], but the statement is simply not true. _Sordello_, to the
 indescribable density of which he never afterwards even approached,
 was begun before _Strafford_, and was therefore the third of his
 works, and even if we adopt his own habit of ignoring _Pauline_, the
 second. He wrote the greater part of it when he was twenty-four. It
-was in his youth, at the time when a man is thinking of love and
-publicity, of sunshine and singing birds, that he gave birth to this
+was in his youth, at the [[Time|time]] when a man is thinking of [[Love|love]] and
+publicity, of sunshine and singing [[Birds|birds]], that he gave birth to this
 horror of great darkness; and the more we study the matter with any
-knowledge of the nature of youth, the more we shall come to the
+knowledge of the [[Nature|nature]] of youth, the more we shall come to the
 conclusion that Browning's obscurity had altogether the opposite
 origin to that which is usually assigned to it. He was not
 unintelligible because he was proud, but unintelligible because he was

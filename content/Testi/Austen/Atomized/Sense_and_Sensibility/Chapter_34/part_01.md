@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 34 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 34 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -56,7 +56,7 @@ affection, and almost without having anything to say to them; for of
 
 the quarter of an hour bestowed on Berkeley Street, she sat at least
 
-seven minutes and a half in silence.
+seven minutes and a half in [[Silence|silence]].
 
 
 
@@ -66,9 +66,9 @@ whether Edward was then in town; but nothing would have induced Fanny
 
 voluntarily to mention his name before her, till able to tell her that
 
-his marriage with Miss Morton was resolved on, or till her husband’s
+his [[Marriage|marriage]] with Miss Morton was resolved on, or till her husband’s
 
-expectations on Colonel Brandon were answered; because she believed
+expectations on [[Colonel Brandon]] were answered; because she believed
 
 them still so very much attached to each other, that they could not be
 
@@ -80,7 +80,7 @@ another quarter. Lucy came very shortly to claim Elinor’s compassion on
 
 being unable to see Edward, though he had arrived in town with Mr. and
 
-Mrs. Dashwood. He dared not come to Bartlett’s Buildings for fear of
+Mrs. Dashwood. He dared not come to Bartlett’s Buildings for [[Fear|fear]] of
 
 detection, and though their mutual impatience to meet, was not to be
 
@@ -90,7 +90,7 @@ told, they could do nothing at present but write.
 
 Edward assured them himself of his being in town, within a very short
 
-time, by twice calling in Berkeley Street. Twice was his card found on
+[[Time|time]], by twice calling in Berkeley Street. Twice was his card found on
 
 the table, when they returned from their morning’s engagements. Elinor
 
@@ -106,11 +106,11 @@ though not much in the habit of giving anything, they determined to
 
 give them—a dinner; and soon after their acquaintance began, invited
 
-them to dine in Harley Street, where they had taken a very good house
+them to dine in Harley Street, where they had taken a very good [[house]]
 
 for three months. Their sisters and Mrs. Jennings were invited
 
-likewise, and John Dashwood was careful to secure Colonel Brandon, who,
+likewise, and John Dashwood was careful to secure [[Colonel Brandon]], who,
 
 always glad to be where the Miss Dashwoods were, received his eager
 
@@ -126,7 +126,7 @@ Edward’s mother without that strong anxiety which had once promised to
 
 attend such an introduction, though she could now see her with perfect
 
-indifference as to her opinion of herself, her desire of being in
+indifference as to her opinion of herself, her [[Desire|desire]] of being in
 
 company with Mrs. Ferrars, her curiosity to know what she was like, was
 
@@ -142,7 +142,7 @@ that the Miss Steeles were also to be at it.
 
 
 
-So well had they recommended themselves to Lady Middleton, so agreeable
+So [[Well|well]] had they recommended themselves to Lady Middleton, so agreeable
 
 had their assiduities made them to her, that though Lucy was certainly
 
@@ -182,7 +182,7 @@ determine, that Edward who lived with his mother, must be asked as his
 
 mother was, to a party given by his sister; and to see him for the
 
-first time, after all that passed, in the company of Lucy!—she hardly
+first [[Time|time]], after all that passed, in the company of Lucy!—she hardly
 
 knew how she could bear it!
 
@@ -190,7 +190,7 @@ knew how she could bear it!
 
 These apprehensions, perhaps, were not founded entirely on reason, and
 
-certainly not at all on truth. They were relieved however, not by her
+certainly not at all on [[Truth|truth]]. They were relieved however, not by her
 
 own recollection, but by the good will of Lucy, who believed herself to
 
@@ -198,7 +198,7 @@ be inflicting a severe disappointment when she told her that Edward
 
 certainly would not be in Harley Street on Tuesday, and even hoped to
 
-be carrying the pain still farther by persuading her that he was kept
+be carrying the [[Pain|pain]] still farther by persuading her that he was kept
 
 away by the extreme affection for herself, which he could not conceal
 
@@ -216,7 +216,7 @@ to this formidable mother-in-law.
 
 together—for the Middletons arrived so directly after Mrs. Jennings,
 
-that they all followed the servant at the same time:—“there is nobody
+that they all followed the servant at the same [[Time|time]]:—“there is nobody
 
 here but you, that can feel for me. I declare I can hardly stand. Good
 

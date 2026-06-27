@@ -16,7 +16,7 @@ tags:
 
 another revolution; an aristocratic revolution, a victory of the rich
 
-over the poor. It was about this time that the common lands were finally
+over the poor. It was about this [[Time|time]] that the common lands were finally
 
 enclosed; that the more cruel game laws were first established; that
 
@@ -48,7 +48,7 @@ rebels in arts while they were rebels in arms.
 
 
 
-It has been well and wittily said (as illustrating the mildness of
+It has been [[Well|well]] and wittily said (as illustrating the mildness of
 
 English and the violence of French developments) that the same Gospel of
 
@@ -66,7 +66,7 @@ emancipation which in France produced the pictures of David, in England
 
 produced the pictures of Blake. There never were, I think, men who gave
 
-to the imagination so much of the sense of having broken out into the
+to the [[Imagination|imagination]] so much of the sense of having broken out into the
 
 very borderlands of being, as did the great English poets of the
 
@@ -82,7 +82,7 @@ quite as incapable of such imaginative independence as Keats and
 
 Coleridge would have been incapable of winning the battle of Wattignies.
 
-In Paris the tree of liberty was a garden tree, clipped very correctly;
+In [[Paris]] the tree of liberty was a [[Garden|garden]] tree, clipped very correctly;
 
 and Robespierre used the razor more regularly than the guillotine.
 
@@ -90,7 +90,7 @@ Danton, who knew and admired English literature, would have cursed
 
 freely over _Kubla Khan_; and if the Committee of Public Safety had not
 
-already executed Shelley as an aristocrat, they would certainly have
+already executed Shelley as an [[aristocrat]], they would certainly have
 
 locked him up for a madman. Even Hébert (the one really vile
 
@@ -102,11 +102,11 @@ rather the Goddess of Unreason that they set up to be worshipped.
 
 Verbally considered, Carlyle's _French Revolution_ was more
 
-revolutionary than the real French Revolution: and if Carrier, in an
+revolutionary than the real [[French Revolution]]: and if Carrier, in an
 
 exaggerative phrase, empurpled the Loire with carnage, Turner almost
 
-literally set the Thames on fire.
+literally set the Thames on [[Fire|fire]].
 
 
 
@@ -120,7 +120,7 @@ literature after the Revolution with a sort of bent towards independence
 
 and eccentricity, which in the brighter wits became individuality, and
 
-in the duller ones, Individualism. English Romantics, English Liberals,
+in the duller ones, [[Individualism]]. English Romantics, English Liberals,
 
 were not public men making a republic, but poets, each seeing a vision.
 
@@ -134,11 +134,11 @@ from that twist a certain odd separation and privacy. England became
 
 much more of an island than she had ever been before. There fell from
 
-her about this time, not only the understanding of France or Germany,
+her about this [[Time|time]], not only the understanding of France or [[Germany]],
 
 but to her own long and yet lingering disaster, the understanding of
 
-Ireland. She had not joined in the attempt to create European democracy;
+Ireland. She had not joined in the attempt to create European [[Democracy|democracy]];
 
 nor did she, save in the first glow of Waterloo, join in the
 
@@ -146,25 +146,25 @@ counter-attempt to destroy it. The life in her literature was still, to
 
 a large extent, the romantic liberalism of Rousseau, the free and humane
 
-truisms that had refreshed the other nations, the return to Nature and
+truisms that had refreshed the other nations, the return to [[Nature]] and
 
 to natural rights. But that which in Rousseau was a creed, became in
 
-Hazlitt a taste and in Lamb little more than a whim. These latter and
+Hazlitt a taste and in [[Lamb]] little more than a whim. These latter and
 
 their like form a group at the beginning of the nineteenth century of
 
 those we may call the Eccentrics: they gather round Coleridge and his
 
-decaying dreams or linger in the tracks of Keats and Shelley and Godwin;
+decaying [[Dreams|dreams]] or linger in the tracks of Keats and Shelley and Godwin;
 
-Lamb with his bibliomania and creed of pure caprice, the most unique of
+[[Lamb]] with his bibliomania and creed of pure caprice, the most unique of
 
 all geniuses; Leigh Hunt with his Bohemian impecuniosity; Landor with
 
 his tempestuous temper, throwing plates on the floor; Hazlitt with his
 
-bitterness and his low love affair; even that healthier and happier
+bitterness and his low [[Love|love]] affair; even that healthier and happier
 
 Bohemian, Peacock. With these, in one sense at least, goes De Quincey.
 
@@ -176,7 +176,7 @@ in letters by the virile laughter and leisure of Wilson's _Noctes
 
 Ambrosianæ_. But he had nothing in common with that environment. It
 
-remained for some time as a Tory tradition, which balanced the cold and
+remained for some [[Time|time]] as a Tory tradition, which balanced the cold and
 
 brilliant aristocracy of the Whigs. It lived on the legend of Trafalgar;
 
@@ -184,7 +184,7 @@ the sense that insularity was independence; the sense that anomalies are
 
 as jolly as family jokes; the general sense that old salts are the salt
 
-of the earth. It still lives in some old songs about Nelson or Waterloo,
+of the earth. It still lives in some old [[songs]] about Nelson or Waterloo,
 
 which are vastly more pompous and vastly more sincere than the cockney
 

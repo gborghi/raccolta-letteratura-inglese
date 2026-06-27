@@ -38,7 +38,7 @@ had almost said to spit forth) their fiercest and most extraordinary
 
 enemy. The two primary things in Thomas Carlyle were his early Scotch
 
-education and his later German culture. The first was in almost all
+[[Education|education]] and his later German culture. The first was in almost all
 
 respects his strength; the latter in some respects his weakness. As an
 
@@ -50,15 +50,15 @@ their instinctive philosophic consideration of men merely as men. But he
 
 was not an ordinary peasant. If he had laboured obscurely in his village
 
-till death, he would have been yet locally a marked man; a man with a
+till [[Death|death]], he would have been yet locally a marked man; a man with a
 
 wild eye, a man with an air of silent anger; perhaps a man at whom
 
-stones were sometimes thrown. A strain of disease and suffering ran
+stones were sometimes thrown. A strain of disease and [[Suffering|suffering]] ran
 
-athwart both his body and his soul. In spite of his praise of silence,
+athwart both his [[Body|body]] and his [[Soul|soul]]. In spite of his praise of [[Silence|silence]],
 
-it was only through his gift of utterance that he escaped madness. But
+it was only through his gift of utterance that he escaped [[Madness|madness]]. But
 
 while his fellow-peasants would have seen this in him and perhaps mocked
 
@@ -70,9 +70,9 @@ second sight. Like many ungainly or otherwise unattractive Scotchmen, he
 
 was a seer. By which I do not mean to refer so much to his
 
-transcendental rhapsodies about the World-soul or the Nature-garment or
+transcendental rhapsodies about the World-[[Soul|soul]] or the [[Nature]]-garment or
 
-the Mysteries and Eternities generally, these seem to me to belong more
+the Mysteries and [[eternities|Eternities]] generally, these seem to me to belong more
 
 to his German side and to be less sincere and vital. I mean a real power
 
@@ -110,7 +110,7 @@ against poetry. But, as a matter of fact, he himself was much greater
 
 considered as a kind of poet than considered as anything else; and the
 
-central idea of poetry is the idea of guessing right, like a child.
+central idea of poetry is the idea of guessing right, like a [[Child|child]].
 
 
 
@@ -140,25 +140,25 @@ Goethe were of a sort that did not draw the best out of Carlyle. The one
 
 civilised element that the German classicists forgot to put into their
 
-beautiful balance was a sense of humour. And great poet as Goethe was,
+beautiful balance was a sense of [[Humour|humour]]. And great poet as Goethe was,
 
 there is to the last something faintly fatuous about his half
 
-sceptical, half sentimental self-importance; a Lord Chamberlain of
+sceptical, half sentimental [[Self|self]]-importance; a Lord Chamberlain of
 
 teacup politics; an earnest and elderly flirt; a German of the Germans.
 
-Now Carlyle had humour; he had it in his very style, but it never got
+Now Carlyle had [[Humour|humour]]; he had it in his very style, but it never got
 
-into his philosophy. His philosophy largely remained a heavy Teutonic
+into his [[philosophy]]. His [[philosophy]] largely remained a heavy Teutonic
 
 idealism, absurdly unaware of the complexity of things; as when he
 
 perpetually repeated (as with a kind of flat-footed stamping) that
 
-people ought to tell the truth; apparently supposing, to quote
+people ought to tell the [[Truth|truth]]; apparently supposing, to quote
 
-Stevenson's phrase, that telling the truth is as easy as blind hookey.
+Stevenson's phrase, that telling the [[Truth|truth]] is as easy as blind hookey.
 
 Yet, though his general honesty is unquestionable, he was by no means
 
@@ -170,13 +170,13 @@ admit easily that he had guessed wrong. His version of Cromwell's filthy
 
 cruelties in Ireland, or his impatient slurring over of the most
 
-sinister riddle in the morality of Frederick the Great--these passages
+sinister [[Riddle|riddle]] in the [[morality]] of Frederick the Great--these passages
 
 are, one must frankly say, disingenuous. But it is, so to speak, a
 
 generous disingenuousness; the heat and momentum of sincere admirations,
 
-not the shuffling fear and flattery of the constitutional or patriotic
+not the shuffling [[Fear|fear]] and flattery of the constitutional or patriotic
 
 historian. It bears most resemblance to the incurable prejudices of a
 
@@ -188,8 +188,8 @@ For the rest there hovered behind all this transcendental haze a certain
 
 presence of old northern paganism; he really had some sympathy with the
 
-vast vague gods of that moody but not unmanly Nature-worship which seems
+vast vague gods of that moody but not unmanly [[Nature]]-worship which seems
 
 to have filled the darkness of the North before the coming of the Roman
 
-Eagle or the Christian Cross. This he combined, allowing for certain
+Eagle or the Christian [[Cross]]. This he combined, allowing for certain

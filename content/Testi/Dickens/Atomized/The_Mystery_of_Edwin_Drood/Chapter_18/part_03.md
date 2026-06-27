@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 17 (part 3)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 17 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -16,31 +16,31 @@ tags:
 
 “These are strong words, sir!” exclaimed the Philanthropist.
 
-“I hope so,” said Mr. Crisparkle. “Good morning.”
+“I [[Hope|hope]] so,” said Mr. Crisparkle. “Good morning.”
 
 He walked out of the Haven at a great rate, but soon fell into his
 regular brisk pace, and soon had a smile upon his face as he went
 along, wondering what the china shepherdess would have said if she had
 seen him pounding Mr. Honeythunder in the late little lively affair.
-For Mr. Crisparkle had just enough of harmless vanity to hope that he
+For Mr. Crisparkle had just enough of harmless [[Vanity|vanity]] to [[Hope|hope]] that he
 had hit hard, and to glow with the belief that he had trimmed the
 Philanthropic Jacket pretty handsomely.
 
 He took himself to Staple Inn, but not to P. J. T. and Mr. Grewgious.
 Full many a creaking stair he climbed before he reached some attic
 rooms in a corner, turned the latch of their unbolted door, and stood
-beside the table of Neville Landless.
+beside the table of [[Neville Landless]].
 
-An air of retreat and solitude hung about the rooms and about their
+An air of retreat and [[Solitude|solitude]] hung about the rooms and about their
 inhabitant. He was much worn, and so were they. Their sloping ceilings,
 cumbrous rusty locks and grates, and heavy wooden bins and beams,
 slowly mouldering withal, had a prisonous look, and he had the haggard
 face of a prisoner. Yet the sunlight shone in at the ugly
-garret-window, which had a penthouse to itself thrust out among the
+garret-[[Window|window]], which had a penthouse to itself thrust out among the
 tiles; and on the cracked and smoke-blackened parapet beyond, some of
 the deluded sparrows of the place rheumatically hopped, like little
 feathered cripples who had left their crutches in their nests; and
-there was a play of living leaves at hand that changed the air, and
+there was a play of living [[Leaves|leaves]] at hand that changed the air, and
 made an imperfect sort of music in it that would have been melody in
 the country.
 
@@ -88,33 +88,33 @@ never thought so. But I should like you to do it.”
 
 “And that would give me the strongest motive to do it. But I cannot
 yet. I cannot persuade myself that the eyes of even the stream of
-strangers I pass in this vast city look at me without suspicion. I feel
-marked and tainted, even when I go out—as I do only—at night. But the
-darkness covers me then, and I take courage from it.”
+strangers I pass in this vast [[City|city]] look at me without suspicion. I feel
+marked and tainted, even when I go out—as I do only—at [[Night|night]]. But the
+darkness covers me then, and I take [[Courage|courage]] from it.”
 
 Mr. Crisparkle laid a hand upon his shoulder, and stood looking down at
 him.
 
 “If I could have changed my name,” said Neville, “I would have done so.
 But as you wisely pointed out to me, I can’t do that, for it would look
-like guilt. If I could have gone to some distant place, I might have
+like [[Guilt|guilt]]. If I could have gone to some distant place, I might have
 found relief in that, but the thing is not to be thought of, for the
 same reason. Hiding and escaping would be the construction in either
-case. It seems a little hard to be so tied to a stake, and innocent;
+case. It seems a little hard to be so tied to a stake, and [[Innocent|innocent]];
 but I don’t complain.”
 
 “And you must expect no miracle to help you, Neville,” said Mr.
 Crisparkle, compassionately.
 
-“No, sir, I know that. The ordinary fulness of time and circumstances
+“No, sir, I know that. The ordinary fulness of [[Time|time]] and circumstances
 is all I have to trust to.”
 
 “It will right you at last, Neville.”
 
-“So I believe, and I hope I may live to know it.”
+“So I believe, and I [[Hope|hope]] I may live to know it.”
 
 But perceiving that the despondent mood into which he was falling cast
-a shadow on the Minor Canon, and (it may be) feeling that the broad
+a [[Shadow|shadow]] on the Minor Canon, and (it may be) feeling that the broad
 hand upon his shoulder was not then quite as steady as its own natural
 strength had rendered it when it first touched him just now, he
 brightened and said:
@@ -129,21 +129,21 @@ He took the fortifying hand from his shoulder, and kissed it. Mr.
 Crisparkle beamed at the books, but not so brightly as when he had
 entered.
 
-“I gather from your silence on the subject that my late guardian is
+“I gather from your [[Silence|silence]] on the subject that my late guardian is
 adverse, Mr. Crisparkle?”
 
 The Minor Canon answered: “Your late guardian is a—a most unreasonable
 person, and it signifies nothing to any reasonable person whether he is
 _ad_verse, _per_verse, or the _re_verse.”
 
-“Well for me that I have enough with economy to live upon,” sighed
+“[[Well]] for me that I have enough with economy to live upon,” sighed
 Neville, half wearily and half cheerily, “while I wait to be learned,
 and wait to be righted! Else I might have proved the proverb, that
 while the grass grows, the steed starves!”
 
 He opened some books as he said it, and was soon immersed in their
 interleaved and annotated passages; while Mr. Crisparkle sat beside
-him, expounding, correcting, and advising. The Minor Canon’s Cathedral
+him, expounding, correcting, and advising. The Minor Canon’s [[Cathedral]]
 duties made these visits of his difficult to accomplish, and only to be
 compassed at intervals of many weeks. But they were as serviceable as
-they were precious to Neville Landless.
+they were precious to [[Neville Landless]].

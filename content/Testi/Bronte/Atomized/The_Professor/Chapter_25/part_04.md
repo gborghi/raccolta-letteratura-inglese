@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 24 (part 4)"
+title: "[[The Professor]] — Chapter 24 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 and the other sentiment, and then ordering it to be suppressed because
 
-you imagine it to be inconsistent with logic.”
+you imagine it to be inconsistent with [[logic]].”
 
 
 
@@ -32,9 +32,9 @@ reappeared.
 
 “You do right? Indeed, no! You are much mistaken if you think so. Just
 
-be so good as to let me get to the fire, Mr. Hunsden; I have something
+be so good as to let me get to the [[Fire|fire]], Mr. Hunsden; I have something
 
-to cook.” (An interval occupied in settling a casserole on the fire;
+to cook.” (An interval occupied in settling a casserole on the [[Fire|fire]];
 
 then, while she stirred its contents:) “Right! as if it were right to
 
@@ -42,7 +42,7 @@ crush any pleasurable sentiment that God has given to man, especially
 
 any sentiment that, like patriotism, spreads man’s selfishness in wider
 
-circles” (fire stirred, dish put down before it).
+circles” ([[Fire|fire]] stirred, dish put down before it).
 
 
 
@@ -58,9 +58,9 @@ circles” (fire stirred, dish put down before it).
 
 
 
-“I am English, too; half the blood in my veins is English; thus I have
+“I am English, too; half the [[Blood|blood]] in my veins is English; thus I have
 
-a right to a double power of patriotism, possessing an interest in two
+a right to a [[Double|double]] power of patriotism, possessing an interest in two
 
 noble, free, and fortunate countries.”
 
@@ -70,7 +70,7 @@ noble, free, and fortunate countries.”
 
 
 
-“Yes, yes; and you, I suppose, had a mother from the moon or from
+“Yes, yes; and you, I suppose, had a mother from the [[Moon|moon]] or from
 
 Utopia, since not a nation in Europe has a claim on your interest?”
 
@@ -122,7 +122,7 @@ ran on the spirit of religious intolerance which Mr. Hunsden affirmed to
 
 exist strongly in Switzerland, notwithstanding the professed attachment
 
-of the Swiss to freedom. Here Frances had greatly the worst of it,
+of the Swiss to [[Freedom|freedom]]. Here Frances had greatly the worst of it,
 
 not only because she was unskilled to argue, but because her own real
 
@@ -150,7 +150,7 @@ a sham fight.”
 
 
 
-“No; though I have neither logic nor wealth of words, yet in a case
+“No; though I have neither [[logic]] nor wealth of words, yet in a case
 
 where my opinion really differed from yours, I would adhere to it when
 
@@ -174,9 +174,9 @@ of stubborn stuff in you.”
 
 “I should be sorry if I had not; he and Tell were brothers, and I’d
 
-scorn the Swiss, man or woman, who had none of the much-enduring nature
+scorn the Swiss, man or woman, who had none of the much-enduring [[Nature|nature]]
 
-of our heroic William in his soul.”
+of our heroic William in his [[Soul|soul]].”
 
 
 
@@ -192,11 +192,11 @@ of our heroic William in his soul.”
 
 I saw that fresh occasion of strife was brewing between these two, “it
 
-is high time to go.”
+is high [[Time|time]] to go.”
 
 
 
-Hunsden rose. “Good bye,” said he to Frances; “I shall be off for this
+Hunsden [[Rose|rose]]. “Good bye,” said he to Frances; “I shall be off for this
 
 glorious England to-morrow, and it may be twelve months or more before
 
@@ -204,13 +204,13 @@ I come to Brussels again; whenever I do come I’ll seek you out, and
 
 you shall see if I don’t find means to make you fiercer than a dragon.
 
-You’ve done pretty well this evening, but next interview you shall
+You’ve done pretty [[Well|well]] this evening, but next interview you shall
 
 challenge me outright. Meantime you’re doomed to become Mrs. William
 
 Crimsworth, I suppose; poor young lady? but you have a spark of spirit;
 
-cherish it, and give the Professor the full benefit thereof.”
+cherish it, and give [[The Professor|the Professor]] the full benefit thereof.”
 
 
 
@@ -224,7 +224,7 @@ look.”
 
 
 
-“Well, whenever you marry don’t take a wife out of Switzerland; for if
+“[[Well]], whenever you marry don’t take a wife out of Switzerland; for if
 
 you begin blaspheming Helvetia, and cursing the cantons--above all, if
 
@@ -232,17 +232,17 @@ you mention the word ASS in the same breath with the name Tell (for
 
 ass IS baudet, I know; though Monsieur is pleased to translate
 
-it ESPRIT-FORT) your mountain maid will some night smother her
+it ESPRIT-FORT) your mountain maid will some [[Night|night]] smother her
 
-Breton-bretonnant, even as your own Shakspeare’s Othello smothered
+Breton-bretonnant, even as your own Shakspeare’s [[Othello]] smothered
 
-Desdemona.”
+[[Desdemona]].”
 
 
 
 “I am warned,” said Hunsden; “and so are you, lad,” (nodding to me). “I
 
-hope yet to hear of a travesty of the Moor and his gentle lady, in which
+[[Hope|hope]] yet to hear of a travesty of the Moor and his gentle lady, in which
 
 the parts shall be reversed according to the plan just sketched--you,
 
@@ -250,7 +250,7 @@ however, being in my nightcap. Farewell, mademoiselle!” He bowed on her
 
 hand, absolutely like Sir Charles Grandison on that of Harriet Byron;
 
-adding--“Death from such fingers would not be without charms.”
+adding--“[[Death]] from such fingers would not be without charms.”
 
 
 

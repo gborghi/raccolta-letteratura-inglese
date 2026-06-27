@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 63 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 63 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,13 +18,13 @@ These remarks, which were addressed in the midst of a frightful din and
 turmoil to those immediately about him, were received with great favour;
 not so much, perhaps, because of the hangman’s eloquence, as on account
 of the locksmith’s obstinacy. Gabriel was in imminent peril, and he knew
-it; but he preserved a steady silence; and would have done so, if they
-had been debating whether they should roast him at a slow fire.
+it; but he preserved a steady [[Silence|silence]]; and would have done so, if they
+had been debating whether they should roast him at a slow [[Fire|fire]].
 
 As the hangman spoke, there was some stir and confusion on the ladder;
 and directly he was silent--so immediately upon his holding his peace,
-that the crowd below had no time to learn what he had been saying, or to
-shout in response--some one at the window cried:
+that the crowd below had no [[Time|time]] to learn what he had been saying, or to
+shout in response--some one at the [[Window|window]] cried:
 
 ‘He has a grey head. He is an old man: Don’t hurt him!’
 
@@ -41,11 +41,11 @@ crowd. They cried again to have him brought out; and it would have gone
 hard with the honest locksmith, but that Hugh reminded them, in answer,
 that they wanted his services, and must have them.
 
-‘So, tell him what we want,’ he said to Simon Tappertit, ‘and quickly.
-And open your ears, master, if you would ever use them after to-night.’
+‘So, tell him what we want,’ he said to [[Simon Tappertit]], ‘and quickly.
+And open your ears, master, if you would ever use them after to-[[Night|night]].’
 
 Gabriel folded his arms, which were now at liberty, and eyed his old
-‘prentice in silence.
+‘prentice in [[Silence|silence]].
 
 ‘Lookye, Varden,’ said Sim, ‘we’re bound for Newgate.’
 
@@ -67,7 +67,7 @@ it.’
 it with your own hands.’
 
 ‘When I do,’ said the locksmith quietly, ‘my hands shall drop off at the
-wrists, and you shall wear them, Simon Tappertit, on your shoulders for
+wrists, and you shall wear them, [[Simon Tappertit]], on your shoulders for
 epaulettes.’
 
 ‘We’ll see that,’ cried Hugh, interposing, as the indignation of the
@@ -77,9 +77,9 @@ light the great captain, others! Is there no business afoot, my lads,
 that you can do nothing but stand and grumble?’
 
 They looked at one another, and quickly dispersing, swarmed over the
-house, plundering and breaking, according to their custom, and carrying
+[[house]], plundering and breaking, according to their custom, and carrying
 off such articles of value as happened to please their fancy. They had
-no great length of time for these proceedings, for the basket of tools
+no great length of [[Time|time]] for these proceedings, for the basket of tools
 was soon prepared and slung over a man’s shoulders. The preparations
 being now completed, and everything ready for the attack, those who
 were pillaging and destroying in the other rooms were called down to the
@@ -88,7 +88,7 @@ upstairs, stepped forward, and asked if the young woman in the garret
 (who was making a terrible noise, he said, and kept on screaming without
 the least cessation) was to be released?
 
-For his own part, Simon Tappertit would certainly have replied in the
+For his own part, [[Simon Tappertit]] would certainly have replied in the
 negative, but the mass of his companions, mindful of the good service
 she had done in the matter of the gun, being of a different opinion, he
 had nothing for it but to answer, Yes. The man, accordingly, went back
@@ -107,7 +107,7 @@ staggered and reeled some paces back, beneath his lovely burden.
 ‘Oh bother!’ said Mr Tappertit. ‘Here. Catch hold of her, somebody. Lock
 her up again; she never ought to have been let out.’
 
-‘My Simmun!’ cried Miss Miggs, in tears, and faintly. ‘My for ever, ever
+‘My Simmun!’ cried Miss Miggs, in [[Tears|tears]], and faintly. ‘My for ever, ever
 blessed Simmun!’
 
 ‘Hold up, will you,’ said Mr Tappertit, in a very unresponsive tone,
@@ -116,11 +116,11 @@ ground for?’
 
 ‘My angel Simmuns!’ murmured Miggs--‘he promised--’
 
-‘Promised! Well, and I’ll keep my promise,’ answered Simon, testily. ‘I
+‘Promised! [[Well]], and I’ll keep my promise,’ answered Simon, testily. ‘I
 mean to provide for you, don’t I? Stand up!’
 
 ‘Where am I to go? What is to become of me after my actions of this
-night!’ cried Miggs. ‘What resting-places now remains but in the silent
+[[Night|night]]!’ cried Miggs. ‘What resting-places now remains but in the silent
 tombses!’
 
 ‘I wish you was in the silent tombses, I do,’ cried Mr Tappertit, ‘and
@@ -131,8 +131,8 @@ you. You understand where?’
 The fellow nodded; and taking her in his arms, notwithstanding her
 broken protestations, and her struggles (which latter species of
 opposition, involving scratches, was much more difficult of resistance),
-carried her away. They who were in the house poured out into the street;
+carried her away. They who were in the [[house]] poured out into the street;
 the locksmith was taken to the head of the crowd, and required to walk
-between his two conductors; the whole body was put in rapid motion;
+between his two conductors; the whole [[Body|body]] was put in rapid motion;
 and without any shouts or noise they bore down straight on Newgate, and
-halted in a dense mass before the prison-gate.
+halted in a dense mass before the [[Prison|prison]]-gate.

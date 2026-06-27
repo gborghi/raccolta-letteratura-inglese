@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 9 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -18,11 +18,11 @@ tags:
 The celebrated Jew,”
 
 
-as painted full of tongues. Rumour in Cloisterham (Miss Ferdinand will
-honour me with her attention) was no exception to the great limner’s
+as painted full of tongues. Rumour in Cloisterham (Miss [[Ferdinand]] will
+[[Honour|honour]] me with her attention) was no exception to the great limner’s
 portrait of Rumour elsewhere. A slight _fracas_ between two young
-gentlemen occurring last night within a hundred miles of these peaceful
-walls (Miss Ferdinand, being apparently incorrigible, will have the
+gentlemen occurring last [[Night|night]] within a hundred miles of these peaceful
+walls (Miss [[Ferdinand]], being apparently incorrigible, will have the
 kindness to write out this evening, in the original language, the first
 four fables of our vivacious neighbour, Monsieur La Fontaine) had been
 very grossly exaggerated by Rumour’s voice. In the first alarm and
@@ -37,24 +37,24 @@ at by the Poet (whose name and date of birth Miss Giggles will supply
 within half an hour), we would now discard the subject, and concentrate
 our minds upon the grateful labours of the day.
 
-But the subject so survived all day, nevertheless, that Miss Ferdinand
+But the subject so survived all day, nevertheless, that Miss [[Ferdinand]]
 got into new trouble by surreptitiously clapping on a paper moustache
-at dinner-time, and going through the motions of aiming a water-bottle
+at dinner-[[Time|time]], and going through the motions of aiming a [[Water|water]]-bottle
 at Miss Giggles, who drew a table-spoon in defence.
 
 Now, Rosa thought of this unlucky quarrel a great deal, and thought of
 it with an uncomfortable feeling that she was involved in it, as cause,
 or consequence, or what not, through being in a false position
-altogether as to her marriage engagement. Never free from such
+altogether as to her [[Marriage|marriage]] engagement. Never free from such
 uneasiness when she was with her affianced husband, it was not likely
 that she would be free from it when they were apart. To-day, too, she
 was cast in upon herself, and deprived of the relief of talking freely
-with her new friend, because the quarrel had been with Helena’s
-brother, and Helena undisguisedly avoided the subject as a delicate and
-difficult one to herself. At this critical time, of all times, Rosa’s
+with her new friend, because the quarrel had been with [[Helena]]’s
+brother, and [[Helena]] undisguisedly avoided the subject as a delicate and
+difficult one to herself. At this critical [[Time|time]], of all times, Rosa’s
 guardian was announced as having come to see her.
 
-Mr. Grewgious had been well selected for his trust, as a man of
+Mr. Grewgious had been [[Well|well]] selected for his trust, as a man of
 incorruptible integrity, but certainly for no other appropriate quality
 discernible on the surface. He was an arid, sandy man, who, if he had
 been put into a grinding-mill, looked as if he would have ground
@@ -64,7 +64,7 @@ was so unlike hair, that it must have been a wig, but for the
 stupendous improbability of anybody’s voluntarily sporting such a head.
 The little play of feature that his face presented, was cut deep into
 it, in a few hard curves that made it more like work; and he had
-certain notches in his forehead, which looked as though Nature had been
+certain notches in his forehead, which looked as though [[Nature]] had been
 about to touch them into sensibility or refinement, when she had
 impatiently thrown away the chisel, and said: “I really cannot be
 worried to finish off this man; let him go as he is.”
@@ -79,21 +79,21 @@ the whole an agreeable impression.
 
 Mr. Grewgious was discovered by his ward, much discomfited by being in
 Miss Twinkleton’s company in Miss Twinkleton’s own sacred room. Dim
-forebodings of being examined in something, and not coming well out of
+forebodings of being examined in something, and not coming [[Well|well]] out of
 it, seemed to oppress the poor gentleman when found in these
 circumstances.
 
 “My dear, how do you do? I am glad to see you. My dear, how much
 improved you are. Permit me to hand you a chair, my dear.”
 
-Miss Twinkleton rose at her little writing-table, saying, with general
+Miss Twinkleton [[Rose|rose]] at her little writing-table, saying, with general
 sweetness, as to the polite Universe: “Will you permit me to retire?”
 
 “By no means, madam, on my account. I beg that you will not move.”
 
 “I must entreat permission to _move_,” returned Miss Twinkleton,
 repeating the word with a charming grace; “but I will not withdraw,
-since you are so obliging. If I wheel my desk to this corner window,
+since you are so obliging. If I [[Wheel|wheel]] my desk to this corner [[Window|window]],
 shall I be in the way?”
 
 “Madam! In the way!”
@@ -101,7 +101,7 @@ shall I be in the way?”
 “You are very kind.—Rosa, my dear, you will be under no restraint, I am
 sure.”
 
-Here Mr. Grewgious, left by the fire with Rosa, said again: “My dear,
+Here Mr. Grewgious, left by the [[Fire|fire]] with Rosa, said again: “My dear,
 how do you do? I am glad to see you, my dear.” And having waited for
 her to sit down, sat down himself.
 
@@ -112,7 +112,7 @@ that I compare myself to an angel.”
 
 “Not by any means,” assented Mr. Grewgious. “I merely refer to my
 visits, which are few and far between. The angels are, we know very
-well, up-stairs.”
+[[Well|well]], up-stairs.”
 
 Miss Twinkleton looked round with a kind of stiff stare.
 
@@ -125,12 +125,12 @@ Miss Twinkleton resumed her writing.
 
 Mr. Grewgious, with a sense of not having managed his opening point
 quite as neatly as he might have desired, smoothed his head from back
-to front as if he had just dived, and were pressing the water out—this
+to front as if he had just dived, and were pressing the [[Water|water]] out—this
 smoothing action, however superfluous, was habitual with him—and took a
 pocket-book from his coat-pocket, and a stump of black-lead pencil from
 his waistcoat-pocket.
 
-“I made,” he said, turning the leaves: “I made a guiding memorandum or
+“I made,” he said, turning the [[Leaves|leaves]]: “I made a guiding memorandum or
 so—as I usually do, for I have no conversational powers whatever—to
-which I will, with your permission, my dear, refer. ‘Well and happy.’
-Truly. You are well and happy, my dear? You look so.”
+which I will, with your permission, my dear, refer. ‘[[Well]] and happy.’
+Truly. You are [[Well|well]] and happy, my dear? You look so.”

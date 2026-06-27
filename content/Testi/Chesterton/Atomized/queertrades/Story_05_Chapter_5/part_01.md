@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 5 (part 1)"
+title: "[[queertrades]] — Chapter 5 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -21,7 +21,7 @@ The Noticeable Conduct of Professor Chadd
 
 Basil Grant had comparatively few friends besides myself; yet he was
 the reverse of an unsociable man.  He would talk to any one anywhere,
-and talk not only well but with perfectly genuine concern and enthusiasm
+and talk not only [[Well|well]] but with perfectly genuine concern and enthusiasm
 for that person's affairs.  He went through the world, as it were,
 as if he were always on the top of an omnibus or waiting for a train.
 Most of these chance acquaintances, of course, vanished into darkness
@@ -40,7 +40,7 @@ made his acquaintance over a discussion in a hotel cloak-room about
 the right hat, a discussion which reduced the little major almost
 to a kind of masculine hysterics, the compound of the selfishness
 of an old bachelor and the scrupulosity of an old maid.
-They had gone home in a cab together and then dined with each
+They had gone [[Home|home]] in a cab together and then dined with each
 other twice a week until they died.  I myself was another.
 I had met Grant while he was still a judge, on the balcony of the
 National Liberal Club, and exchanged a few words about the weather.
@@ -67,19 +67,19 @@ There he lived with three sisters, ladies of solid goodness,
 but sinister demeanour.  His life was happy, as are almost all the lives
 of methodical students, but one would not have called it exhilarating.
 His only hours of exhilaration occurred when his friend, Basil Grant,
-came into the house, late at night, a tornado of conversation.
+came into the [[house]], late at [[Night|night]], a tornado of conversation.
 
 Basil, though close on sixty, had moods of boisterous babyishness,
 and these seemed for some reason or other to descend upon him
-particularly in the house of his studious and almost dingy friend.
+particularly in the [[house]] of his studious and almost dingy friend.
 I can remember vividly (for I was acquainted with both parties
 and often dined with them) the gaiety of Grant on that particular
-evening when the strange calamity fell upon the professor.
+evening when the strange calamity fell upon [[The Professor|the professor]].
 Professor Chadd was, like most of his particular class and type
 (the class that is at once academic and middle-class), a Radical
 of a solemn and old-fashioned type.  Grant was a Radical himself,
 but he was that more discriminating and not uncommon type of
-Radical who passes most of his time in abusing the Radical party.
+Radical who passes most of his [[Time|time]] in abusing the Radical party.
 Chadd had just contributed to a magazine an article called
 "Zulu Interests and the New Makango Frontier', in which a precise
 scientific report of his study of the customs of the people
@@ -93,22 +93,22 @@ shaking it with his voice, with his high spirits and his heavy tread.
 "It's not your opinions that I object to, my esteemed Chadd,"
 he was saying, "it's you.  You are quite right to champion
 the Zulus, but for all that you do not sympathize with them.
-No doubt you know the Zulu way of cooking tomatoes and the Zulu prayer
+No [[Doubt|doubt]] you know the Zulu way of cooking tomatoes and the Zulu [[prayer]]
 before blowing one's nose; but for all that you don't understand
-them as well as I do, who don't know an assegai from an alligator.
+them as [[Well|well]] as I do, who don't know an assegai from an alligator.
 You are more learned, Chadd, but I am more Zulu.  Why is it that the jolly
 old barbarians of this earth are always championed by people who are
 their antithesis?  Why is it?  You are sagacious, you are benevolent,
-you are well informed, but, Chadd, you are not savage.  Live no longer
+you are [[Well|well]] informed, but, Chadd, you are not savage.  Live no longer
 under that rosy illusion.  Look in the glass.  Ask your sisters.
 Consult the librarian of the British Museum.  Look at this umbrella."
 And he held up that sad but still respectable article.  "Look at it.
 For ten mortal years to my certain knowledge you have carried
-that object under your arm, and I have no sort of doubt that you
+that object under your arm, and I have no sort of [[Doubt|doubt]] that you
 carried it at the age of eight months, and it never occurred to you
 to give one wild yell and hurl it like a javelin--thus--"
 
-And he sent the umbrella whizzing past the professor's bald head,
+And he sent the umbrella whizzing past [[The Professor|the professor]]'s bald head,
 so that it knocked over a pile of books with a crash and left
 a vase rocking.
 
@@ -117,7 +117,7 @@ to the lamp and the wrinkle cut in his forehead.
 
 "Your mental processes," he said, "always go a little too fast.
 And they are stated without method.  There is no kind of inconsistency"--
-and no words can convey the time he took to get to the end of
+and no words can convey the [[Time|time]] he took to get to the end of
 the word--"between valuing the right of the aborigines to adhere
 to their stage in the evolutionary process, so long as they find it
 congenial and requisite to do so.  There is, I say, no inconsistency

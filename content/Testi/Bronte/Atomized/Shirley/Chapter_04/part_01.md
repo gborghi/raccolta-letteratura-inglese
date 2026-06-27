@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 4 (part 1)"
+title: "[[Shirley]] — Chapter 4 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -48,13 +48,13 @@ was an indocile, a scornful, and a sarcastic face--the face of a man
 
 difficult to lead, and impossible to drive. His stature was rather tall,
 
-and he was well made and wiry, and had a stately integrity of port;
+and he was [[Well|well]] made and wiry, and had a stately integrity of port;
 
 there was not a suspicion of the clown about him anywhere.
 
 
 
-I did not find it easy to sketch Mr. Yorke's person, but it is more
+I did not find it easy to [[Sketch|sketch]] Mr. Yorke's person, but it is more
 
 difficult to indicate his mind. If you expect to be treated to a
 
@@ -78,7 +78,7 @@ deficiency which strips a man of sympathy; and thirdly, he had too
 
 little of the organs of benevolence and ideality, which took the glory
 
-and softness from his nature, and for him diminished those divine
+and softness from his [[Nature|nature]], and for him diminished those divine
 
 qualities throughout the universe.
 
@@ -108,7 +108,7 @@ not be that of one who knows how to venerate. He believed in God and
 
 heaven; but his God and heaven were those of a man in whom awe,
 
-imagination, and tenderness lack.
+[[Imagination|imagination]], and tenderness lack.
 
 
 
@@ -136,7 +136,7 @@ wishes regarding those who had acted, as he thought, ferociously and
 
 tyrannically. To judge by his threats, he would have employed arbitrary,
 
-even cruel, means to advance the cause of freedom and equality.
+even cruel, means to advance the cause of [[Freedom|freedom]] and equality.
 
 Equality! yes, Mr. Yorke talked about equality, but at heart he was a
 
@@ -146,7 +146,7 @@ beneath him, and submitted quietly to be beneath him, but haughty as
 
 Beelzebub to whomsoever the world deemed (for he deemed no man) his
 
-superior. Revolt was in his blood: he could not bear control; his
+superior. Revolt was in his [[Blood|blood]]: he could not bear control; his
 
 father, his grandfather before him, could not bear it, and his children
 
@@ -156,7 +156,7 @@ after him never could.
 
 The want of general benevolence made him very impatient of imbecility,
 
-and of all faults which grated on his strong, shrewd nature; it left no
+and of all faults which grated on his strong, shrewd [[Nature|nature]]; it left no
 
 check to his cutting sarcasm. As he was not merciful, he would sometimes
 
@@ -170,7 +170,7 @@ As to the paucity of ideality in his mind, that can scarcely be called a
 
 fault: a fine ear for music, a correct eye for colour and form, left him
 
-the quality of taste; and who cares for imagination? Who does not think
+the quality of taste; and who cares for [[Imagination|imagination]]? Who does not think
 
 it a rather dangerous, senseless attribute, akin to weakness, perhaps
 
@@ -188,9 +188,9 @@ dim if that flame did not refine their vision, that they would be lonely
 
 if this strange companion abandoned them. You would suppose that it
 
-imparted some glad hope to spring, some fine charm to summer, some
+imparted some glad [[Hope|hope]] to [[Spring|spring]], some fine charm to [[Summer|summer]], some
 
-tranquil joy to autumn, some consolation to winter, which you do not
+tranquil joy to [[Autumn|autumn]], some consolation to [[Winter|winter]], which you do not
 
 feel. An illusion, of course; but the fanatics cling to their dream, and
 
@@ -198,7 +198,7 @@ would not give it for gold.
 
 
 
-As Mr. Yorke did not possess poetic imagination himself, he considered
+As Mr. Yorke did not possess poetic [[Imagination|imagination]] himself, he considered
 
 it a most superfluous quality in others. Painters and musicians he could
 
@@ -208,12 +208,12 @@ their art; he could see the charm of a fine picture, and feel the
 
 pleasure of good music; but a quiet poet--whatever force struggled,
 
-whatever fire glowed, in his breast--if he could not have played the man
+whatever [[Fire|fire]] glowed, in his breast--if he could not have played the man
 
-in the counting-house, of the tradesman in the Piece Hall, might have
+in the counting-[[house]], of the tradesman in the Piece Hall, might have
 
 lived despised, and died scorned, under the eyes of Hiram Yorke.
 
 
 
-And as there are many Hiram Yorkes in the world, it is well that the
+And as there are many Hiram Yorkes in the world, it is [[Well|well]] that the

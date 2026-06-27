@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP"
+title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -26,12 +26,12 @@ condition and prospects. I never could have derived anything like the
 pleasure from spending the money Mr. Dick had given me, that I felt in
 sending a gold half-guinea to Peggotty, per post, enclosed in this last
 letter, to discharge the sum I had borrowed of her: in which epistle,
-not before, I mentioned about the young man with the donkey-cart.
+not before, I mentioned about the young man with the [[donkey]]-cart.
 
 To these communications Peggotty replied as promptly, if not as
 concisely, as a merchant’s clerk. Her utmost powers of expression (which
 were certainly not great in ink) were exhausted in the attempt to write
-what she felt on the subject of my journey. Four sides of incoherent and
+what she felt on the subject of my [[Journey|journey]]. Four sides of incoherent and
 interjectional beginnings of sentences, that had no end, except blots,
 were inadequate to afford her any relief. But the blots were more
 expressive to me than the best composition; for they showed me that
@@ -50,16 +50,16 @@ repeated hints she threw out, that the coach-fare to Yarmouth was always
 to be had of her for the asking.
 
 She gave me one piece of intelligence which affected me very much,
-namely, that there had been a sale of the furniture at our old home, and
-that Mr. and Miss Murdstone were gone away, and the house was shut up,
+namely, that there had been a sale of the furniture at our old [[Home|home]], and
+that Mr. and Miss Murdstone were gone away, and the [[house]] was shut up,
 to be let or sold. God knows I had no part in it while they remained
 there, but it pained me to think of the dear old place as altogether
-abandoned; of the weeds growing tall in the garden, and the fallen
-leaves lying thick and wet upon the paths. I imagined how the winds
-of winter would howl round it, how the cold rain would beat upon the
-window-glass, how the moon would make ghosts on the walls of the empty
-rooms, watching their solitude all night. I thought afresh of the grave
-in the churchyard, underneath the tree: and it seemed as if the house
+abandoned; of the weeds growing tall in the [[Garden|garden]], and the fallen
+[[Leaves|leaves]] lying thick and wet upon the paths. I imagined how the winds
+of [[Winter|winter]] would howl round it, how the cold rain would beat upon the
+[[Window|window]]-glass, how the [[Moon|moon]] would make [[Ghosts|ghosts]] on the walls of the empty
+rooms, watching their [[Solitude|solitude]] all [[Night|night]]. I thought afresh of the [[Grave|grave]]
+in the churchyard, underneath the tree: and it seemed as if the [[house]]
 were dead too, now, and all connected with my father and mother were
 faded away.
 
@@ -67,8 +67,8 @@ There was no other news in Peggotty’s letters. Mr. Barkis was an
 excellent husband, she said, though still a little near; but we all had
 our faults, and she had plenty (though I am sure I don’t know what they
 were); and he sent his duty, and my little bedroom was always ready for
-me. Mr. Peggotty was well, and Ham was well, and Mrs. Gummidge was but
-poorly, and little Em’ly wouldn’t send her love, but said that Peggotty
+me. Mr. Peggotty was [[Well|well]], and Ham was [[Well|well]], and Mrs. Gummidge was but
+poorly, and little Em’ly wouldn’t send her [[Love|love]], but said that Peggotty
 might send it, if she liked.
 
 All this intelligence I dutifully imparted to my aunt, only reserving
@@ -76,16 +76,16 @@ to myself the mention of little Em’ly, to whom I instinctively felt
 that she would not very tenderly incline. While I was yet new at Doctor
 Strong’s, she made several excursions over to Canterbury to see me, and
 always at unseasonable hours: with the view, I suppose, of taking me by
-surprise. But, finding me well employed, and bearing a good character,
-and hearing on all hands that I rose fast in the school, she soon
+surprise. But, finding me [[Well|well]] employed, and bearing a good character,
+and hearing on all hands that I [[Rose|rose]] fast in the school, she soon
 discontinued these visits. I saw her on a Saturday, every third or
 fourth week, when I went over to Dover for a treat; and I saw Mr. Dick
-every alternate Wednesday, when he arrived by stage-coach at noon, to
+every alternate Wednesday, when he arrived by stage-coach at [[Noon|noon]], to
 stay until next morning.
 
 On these occasions Mr. Dick never travelled without a leathern
 writing-desk, containing a supply of stationery and the Memorial; in
-relation to which document he had a notion that time was beginning to
+relation to which document he had a notion that [[Time|time]] was beginning to
 press now, and that it really must be got out of hand.
 
 Mr. Dick was very partial to gingerbread. To render his visits the more
@@ -99,13 +99,13 @@ on further investigation that this was so, or at least there was an
 agreement between him and my aunt that he should account to her for
 all his disbursements. As he had no idea of deceiving her, and always
 desired to please her, he was thus made chary of launching into expense.
-On this point, as well as on all other possible points, Mr. Dick was
+On this point, as [[Well|well]] as on all other possible points, Mr. Dick was
 convinced that my aunt was the wisest and most wonderful of women; as he
 repeatedly told me with infinite secrecy, and always in a whisper.
 
 ‘Trotwood,’ said Mr. Dick, with an air of mystery, after imparting this
 confidence to me, one Wednesday; ‘who’s the man that hides near our
-house and frightens her?’
+[[house]] and frightens her?’
 
 ‘Frightens my aunt, sir?’
 
@@ -114,8 +114,8 @@ Mr. Dick nodded. ‘I thought nothing would have frightened her,’ he said,
 and most wonderful of women.’ Having said which, he drew back, to
 observe the effect which this description of her made upon me.
 
-‘The first time he came,’ said Mr. Dick, ‘was--let me see--sixteen
-hundred and forty-nine was the date of King Charles’s execution. I think
+‘The first [[Time|time]] he came,’ said Mr. Dick, ‘was--let me see--sixteen
+hundred and forty-nine was the date of [[King]] Charles’s execution. I think
 you said sixteen hundred and forty-nine?’
 
 ‘Yes, sir.’
@@ -126,21 +126,21 @@ his head. ‘I don’t think I am as old as that.’
 ‘Was it in that year that the man appeared, sir?’ I asked.
 
 ‘Why, really’ said Mr. Dick, ‘I don’t see how it can have been in that
-year, Trotwood. Did you get that date out of history?’
+year, Trotwood. Did you get that date out of [[history]]?’
 
 ‘Yes, sir.’
 
-‘I suppose history never lies, does it?’ said Mr. Dick, with a gleam of
-hope.
+‘I suppose [[history]] never lies, does it?’ said Mr. Dick, with a gleam of
+[[Hope|hope]].
 
 ‘Oh dear, no, sir!’ I replied, most decisively. I was ingenuous and
 young, and I thought so.
 
 ‘I can’t make it out,’ said Mr. Dick, shaking his head. ‘There’s
 something wrong, somewhere. However, it was very soon after the mistake
-was made of putting some of the trouble out of King Charles’s head into
+was made of putting some of the trouble out of [[King]] Charles’s head into
 my head, that the man first came. I was walking out with Miss Trotwood
-after tea, just at dark, and there he was, close to our house.’
+after tea, just at dark, and there he was, close to our [[house]].’
 
 ‘Walking about?’ I inquired.
 
@@ -149,7 +149,7 @@ N-no, no; he was not walking about.’
 
 I asked, as the shortest way to get at it, what he WAS doing.
 
-‘Well, he wasn’t there at all,’ said Mr. Dick, ‘until he came up behind
+‘[[Well]], he wasn’t there at all,’ said Mr. Dick, ‘until he came up behind
 her, and whispered. Then she turned round and fainted, and I stood still
 and looked at him, and he walked away; but that he should have
 been hiding ever since (in the ground or somewhere), is the most
@@ -158,7 +158,7 @@ extraordinary thing!’
 ‘HAS he been hiding ever since?’ I asked.
 
 ‘To be sure he has,’ retorted Mr. Dick, nodding his head gravely. ‘Never
-came out, till last night! We were walking last night, and he came up
+came out, till last [[Night|night]]! We were walking last [[Night|night]], and he came up
 behind her again, and I knew him again.’
 
 ‘And did he frighten my aunt again?’
@@ -172,12 +172,12 @@ come here,’ getting me close to him, that he might whisper very softly;
 
 Mr. Dick shook his head, as utterly renouncing the suggestion; and
 having replied a great many times, and with great confidence, ‘No
-beggar, no beggar, no beggar, sir!’ went on to say, that from his window
-he had afterwards, and late at night, seen my aunt give this person
-money outside the garden rails in the moonlight, who then slunk
+beggar, no beggar, no beggar, sir!’ went on to say, that from his [[Window|window]]
+he had afterwards, and late at [[Night|night]], seen my aunt give this person
+money outside the [[Garden|garden]] rails in the moonlight, who then slunk
 away--into the ground again, as he thought probable--and was seen no
-more: while my aunt came hurriedly and secretly back into the house, and
-had, even that morning, been quite different from her usual self; which
+more: while my aunt came hurriedly and secretly back into the [[house]], and
+had, even that morning, been quite different from her usual [[Self|self]]; which
 preyed on Mr. Dick’s mind.
 
 I had not the least belief, in the outset of this story, that the
@@ -189,7 +189,7 @@ poor Mr. Dick himself from under my aunt’s protection, and whether
 my aunt, the strength of whose kind feeling towards him I knew from
 herself, might have been induced to pay a price for his peace and quiet.
 As I was already much attached to Mr. Dick, and very solicitous for his
-welfare, my fears favoured this supposition; and for a long time his
+welfare, my fears favoured this supposition; and for a long [[Time|time]] his
 Wednesday hardly ever came round, without my entertaining a misgiving
 that he would not be on the coach-box as usual. There he always
 appeared, however, grey-headed, laughing, and happy; and he never had
@@ -203,18 +203,18 @@ among us. How often have I seen him, intent upon a match at marbles
 or pegtop, looking on with a face of unutterable interest, and hardly
 breathing at the critical times! How often, at hare and hounds, have
 I seen him mounted on a little knoll, cheering the whole field on
-to action, and waving his hat above his grey head, oblivious of King
+to action, and waving his hat above his grey head, oblivious of [[King]]
 Charles the Martyr’s head, and all belonging to it! How many a
-summer hour have I known to be but blissful minutes to him in
-the cricket-field! How many winter days have I seen him, standing
-blue-nosed, in the snow and east wind, looking at the boys going down
+[[Summer|summer]] hour have I known to be but blissful minutes to him in
+the cricket-field! How many [[Winter|winter]] days have I seen him, standing
+blue-nosed, in the [[Snow|snow]] and east [[Wind|wind]], looking at the boys going down
 the long slide, and clapping his worsted gloves in rapture!
 
 He was an universal favourite, and his ingenuity in little things was
 transcendent. He could cut oranges into such devices as none of us had
 an idea of. He could make a boat out of anything, from a skewer upwards.
 He could turn cramp-bones into chessmen; fashion Roman chariots from old
-court cards; make spoked wheels out of cotton reels, and bird-cages of
+[[Court|court]] cards; make spoked wheels out of cotton reels, and bird-cages of
 old wire. But he was greatest of all, perhaps, in the articles of string
 and straw; with which we were all persuaded he could do anything that
 could be done by hands.
@@ -229,7 +229,7 @@ himself until our morning’s work was over, it soon passed into a custom
 for Mr. Dick to come on as a matter of course, and, if we were a little
 late, as often happened on a Wednesday, to walk about the courtyard,
 waiting for me. Here he made the acquaintance of the Doctor’s beautiful
-young wife (paler than formerly, all this time; more rarely seen by
+young wife (paler than formerly, all this [[Time|time]]; more rarely seen by
 me or anyone, I think; and not so gay, but not less beautiful), and so
 became more and more familiar by degrees, until, at last, he would come
 into the school and wait. He always sat in a particular corner, on a
@@ -241,20 +241,20 @@ been able to acquire.
 This veneration Mr. Dick extended to the Doctor, whom he thought the
 most subtle and accomplished philosopher of any age. It was long before
 Mr. Dick ever spoke to him otherwise than bareheaded; and even when he
-and the Doctor had struck up quite a friendship, and would walk together
+and the Doctor had struck up quite a [[Friendship|friendship]], and would walk together
 by the hour, on that side of the courtyard which was known among us as
 The Doctor’s Walk, Mr. Dick would pull off his hat at intervals to show
 his respect for wisdom and knowledge. How it ever came about that the
 Doctor began to read out scraps of the famous Dictionary, in these
 walks, I never knew; perhaps he felt it all the same, at first, as
 reading to himself. However, it passed into a custom too; and Mr. Dick,
-listening with a face shining with pride and pleasure, in his heart of
+listening with a face shining with [[Pride|pride]] and pleasure, in his heart of
 hearts believed the Dictionary to be the most delightful book in the
 world.
 
 As I think of them going up and down before those schoolroom
 windows--the Doctor reading with his complacent smile, an occasional
-flourish of the manuscript, or grave motion of his head; and Mr. Dick
+flourish of the manuscript, or [[Grave|grave]] motion of his head; and Mr. Dick
 listening, enchained by interest, with his poor wits calmly wandering
 God knows where, upon the wings of hard words--I think of it as one of
 the pleasantest things, in a quiet way, that I have ever seen. I feel
@@ -263,15 +263,15 @@ somehow be the better for it--as if a thousand things it makes a noise
 about, were not one half so good for it, or me.
 
 Agnes was one of Mr. Dick’s friends, very soon; and in often coming
-to the house, he made acquaintance with Uriah. The friendship between
+to the [[house]], he made acquaintance with Uriah. The [[Friendship|friendship]] between
 himself and me increased continually, and it was maintained on this odd
 footing: that, while Mr. Dick came professedly to look after me as my
-guardian, he always consulted me in any little matter of doubt that
+guardian, he always consulted me in any little matter of [[Doubt|doubt]] that
 arose, and invariably guided himself by my advice; not only having a
 high respect for my native sagacity, but considering that I inherited a
 good deal from my aunt.
 
-One Thursday morning, when I was about to walk with Mr. Dick from the
+One [[thursday|Thursday]] morning, when I was about to walk with Mr. Dick from the
 hotel to the coach office before going back to school (for we had an
 hour’s school before breakfast), I met Uriah in the street, who reminded
 me of the promise I had made to take tea with himself and his mother:
@@ -285,11 +285,11 @@ be supposed proud, and said I only wanted to be asked.
 
 ‘Oh, if that’s all, Master Copperfield,’ said Uriah, ‘and it really
 isn’t our umbleness that prevents you, will you come this evening?
-But if it is our umbleness, I hope you won’t mind owning to it, Master
-Copperfield; for we are well aware of our condition.’
+But if it is our umbleness, I [[Hope|hope]] you won’t mind owning to it, Master
+Copperfield; for we are [[Well|well]] aware of our condition.’
 
 I said I would mention it to Mr. Wickfield, and if he approved, as I had
-no doubt he would, I would come with pleasure. So, at six o’clock that
+no [[Doubt|doubt]] he would, I would come with pleasure. So, at six o’[[Clock|clock]] that
 evening, which was one of the early office evenings, I announced myself
 as ready, to Uriah.
 
@@ -306,7 +306,7 @@ very umble.’
 ‘Have you been studying much law lately?’ I asked, to change the
 subject.
 
-‘Oh, Master Copperfield,’ he said, with an air of self-denial, ‘my
+‘Oh, Master Copperfield,’ he said, with an air of [[Self|self]]-denial, ‘my
 reading is hardly to be called study. I have passed an hour or two in
 the evening, sometimes, with Mr. Tidd.’
 
@@ -314,7 +314,7 @@ the evening, sometimes, with Mr. Tidd.’
 Uriah. ‘But I don’t know what he might be to a gifted person.’
 
 After beating a little tune on his chin as he walked on, with the two
-forefingers of his skeleton right hand, he added:
+forefingers of his [[skeleton]] right hand, he added:
 
 ‘There are expressions, you see, Master Copperfield--Latin words
 and terms--in Mr. Tidd, that are trying to a reader of my umble
@@ -338,19 +338,19 @@ is to get on in life, he must get on umbly, Master Copperfield!’
 
 I never saw his mouth so wide, or the creases in his cheeks so deep, as
 when he delivered himself of these sentiments: shaking his head all the
-time, and writhing modestly.
+[[Time|time]], and writhing modestly.
 
 ‘I think you are wrong, Uriah,’ I said. ‘I dare say there are several
 things that I could teach you, if you would like to learn them.’
 
-‘Oh, I don’t doubt that, Master Copperfield,’ he answered; ‘not in the
-least. But not being umble yourself, you don’t judge well, perhaps, for
+‘Oh, I don’t [[Doubt|doubt]] that, Master Copperfield,’ he answered; ‘not in the
+least. But not being umble yourself, you don’t judge [[Well|well]], perhaps, for
 them that are. I won’t provoke my betters with knowledge, thank you. I’m
 much too umble. Here is my umble dwelling, Master Copperfield!’
 
 We entered a low, old-fashioned room, walked straight into from the
 street, and found there Mrs. Heep, who was the dead image of Uriah, only
-short. She received me with the utmost humility, and apologized to me
+short. She received me with the utmost [[Humility|humility]], and apologized to me
 for giving her son a kiss, observing that, lowly as they were, they
 had their natural affections, which they hoped would give no offence to
 anyone. It was a perfectly decent room, half parlour and half kitchen,
@@ -363,8 +363,8 @@ there were the usual articles of furniture. I don’t remember that any
 individual object had a bare, pinched, spare look; but I do remember
 that the whole place had.
 
-It was perhaps a part of Mrs. Heep’s humility, that she still wore
-weeds. Notwithstanding the lapse of time that had occurred since Mr.
+It was perhaps a part of Mrs. Heep’s [[Humility|humility]], that she still wore
+weeds. Notwithstanding the lapse of [[Time|time]] that had occurred since Mr.
 Heep’s decease, she still wore weeds. I think there was some compromise
 in the cap; but otherwise she was as weedy as in the early days of her
 mourning.
@@ -401,22 +401,22 @@ and felt that they were very attentive. Presently they began to talk
 about aunts, and then I told them about mine; and about fathers and
 mothers, and then I told them about mine; and then Mrs. Heep began to
 talk about fathers-in-law, and then I began to tell her about mine--but
-stopped, because my aunt had advised me to observe a silence on that
+stopped, because my aunt had advised me to observe a [[Silence|silence]] on that
 subject. A tender young cork, however, would have had no more chance
 against a pair of corkscrews, or a tender young tooth against a pair of
 dentists, or a little shuttlecock against two battledores, than I had
 against Uriah and Mrs. Heep. They did just what they liked with me; and
-wormed things out of me that I had no desire to tell, with a certainty
+wormed things out of me that I had no [[Desire|desire]] to tell, with a certainty
 I blush to think of, the more especially, as in my juvenile frankness, I
 took some credit to myself for being so confidential and felt that I was
 quite the patron of my two respectful entertainers.
 
 They were very fond of one another: that was certain. I take it, that
-had its effect upon me, as a touch of nature; but the skill with which
+had its effect upon me, as a touch of [[Nature|nature]]; but the skill with which
 the one followed up whatever the other said, was a touch of art which I
 was still less proof against. When there was nothing more to be got
 out of me about myself (for on the Murdstone and Grinby life, and on my
-journey, I was dumb), they began about Mr. Wickfield and Agnes. Uriah
+[[Journey|journey]], I was dumb), they began about Mr. Wickfield and Agnes. Uriah
 threw the ball to Mrs. Heep, Mrs. Heep caught it and threw it back to
 Uriah, Uriah kept it up a little while, then sent it back to Mrs. Heep,
 and so they went on tossing it about until I had no idea who had got it,
@@ -426,17 +426,17 @@ now my admiration of Agnes; now the extent of Mr. Wickfield’s business
 and resources, now our domestic life after dinner; now, the wine that
 Mr. Wickfield took, the reason why he took it, and the pity that it was
 he took so much; now one thing, now another, then everything at once;
-and all the time, without appearing to speak very often, or to do
-anything but sometimes encourage them a little, for fear they should be
-overcome by their humility and the honour of my company, I found myself
+and all the [[Time|time]], without appearing to speak very often, or to do
+anything but sometimes encourage them a little, for [[Fear|fear]] they should be
+overcome by their [[Humility|humility]] and the [[Honour|honour]] of my company, I found myself
 perpetually letting out something or other that I had no business to
 let out and seeing the effect of it in the twinkling of Uriah’s dinted
 nostrils.
 
-I had begun to be a little uncomfortable, and to wish myself well out
+I had begun to be a little uncomfortable, and to wish myself [[Well|well]] out
 of the visit, when a figure coming down the street passed the door--it
 stood open to air the room, which was warm, the weather being close for
-the time of year--came back again, looked in, and walked in, exclaiming
+the [[Time|time]] of year--came back again, looked in, and walked in, exclaiming
 loudly, ‘Copperfield! Is it possible?’
 
 It was Mr. Micawber! It was Mr. Micawber, with his eye-glass, and
@@ -459,12 +459,12 @@ heartily, inquiring how Mrs. Micawber was.
 
 ‘Thank you,’ said Mr. Micawber, waving his hand as of old, and settling
 his chin in his shirt-collar. ‘She is tolerably convalescent. The twins
-no longer derive their sustenance from Nature’s founts--in short,’ said
+no longer derive their sustenance from [[Nature]]’s founts--in short,’ said
 Mr. Micawber, in one of his bursts of confidence, ‘they are weaned--and
 Mrs. Micawber is, at present, my travelling companion. She will be
 rejoiced, Copperfield, to renew her acquaintance with one who has
 proved himself in all respects a worthy minister at the sacred altar of
-friendship.’
+[[Friendship|friendship]].’
 
 I said I should be delighted to see her.
 
@@ -473,14 +473,14 @@ I said I should be delighted to see her.
 Mr. Micawber then smiled, settled his chin again, and looked about him.
 
 ‘I have discovered my friend Copperfield,’ said Mr. Micawber genteelly,
-and without addressing himself particularly to anyone, ‘not in solitude,
+and without addressing himself particularly to anyone, ‘not in [[Solitude|solitude]],
 but partaking of a social meal in company with a widow lady, and one who
 is apparently her offspring--in short,’ said Mr. Micawber, in another
-of his bursts of confidence, ‘her son. I shall esteem it an honour to be
+of his bursts of confidence, ‘her son. I shall esteem it an [[Honour|honour]] to be
 presented.’
 
 I could do no less, under these circumstances, than make Mr. Micawber
-known to Uriah Heep and his mother; which I accordingly did. As they
+known to [[Uriah Heep]] and his mother; which I accordingly did. As they
 abased themselves before him, Mr. Micawber took a seat, and waved his
 hand in his most courtly manner.
 
@@ -496,7 +496,7 @@ your notice.’
 what are you doing, Copperfield? Still in the wine trade?’
 
 I was excessively anxious to get Mr. Micawber away; and replied, with my
-hat in my hand, and a very red face, I have no doubt, that I was a pupil
+hat in my hand, and a very red face, I have no [[Doubt|doubt]], that I was a pupil
 at Doctor Strong’s.
 
 ‘A pupil?’ said Mr. Micawber, raising his eyebrows. ‘I am extremely
@@ -524,8 +524,8 @@ Sometimes my difficulties have--in short, have floored me. There have
 been times when I have administered a succession of facers to them;
 there have been times when they have been too many for me, and I have
 given in, and said to Mrs. Micawber, in the words of Cato, “Plato, thou
-reasonest well. It’s all up now. I can show fight no more.” But at no
-time of my life,’ said Mr. Micawber, ‘have I enjoyed a higher degree of
+reasonest [[Well|well]]. It’s all up now. I can show fight no more.” But at no
+[[Time|time]] of my life,’ said Mr. Micawber, ‘have I enjoyed a higher degree of
 satisfaction than in pouring my griefs (if I may describe difficulties,
 chiefly arising out of warrants of attorney and promissory notes at two
 and four months, by that word) into the bosom of my friend Copperfield.’
@@ -541,8 +541,8 @@ flavoured with tobacco-smoke. I think it was over the kitchen, because
 a warm greasy smell appeared to come up through the chinks in the floor,
 and there was a flabby perspiration on the walls. I know it was near the
 bar, on account of the smell of spirits and jingling of glasses. Here,
-recumbent on a small sofa, underneath a picture of a race-horse, with
-her head close to the fire, and her feet pushing the mustard off the
+recumbent on a small sofa, underneath a picture of a race-[[Horse|horse]], with
+her head close to the [[Fire|fire]], and her feet pushing the mustard off the
 dumb-waiter at the other end of the room, was Mrs. Micawber, to whom Mr.
 Micawber entered first, saying, ‘My dear, allow me to introduce to you a
 pupil of Doctor Strong’s.’
@@ -556,7 +556,7 @@ see her too, and, after an affectionate greeting on both sides, sat down
 on the small sofa near her.
 
 ‘My dear,’ said Mr. Micawber, ‘if you will mention to Copperfield what
-our present position is, which I have no doubt he will like to know, I
+our present position is, which I have no [[Doubt|doubt]] he will like to know, I
 will go and look at the paper the while, and see whether anything turns
 up among the advertisements.’
 
@@ -567,8 +567,8 @@ went out.
 
 ‘To be on the spot,’ I hinted.
 
-‘Just so,’ said Mrs. Micawber. ‘To be on the spot. But, the truth is,
-talent is not wanted in the Custom House. The local influence of my
+‘Just so,’ said Mrs. Micawber. ‘To be on the spot. But, the [[Truth|truth]] is,
+talent is not wanted in the Custom [[house|House]]. The local influence of my
 family was quite unavailing to obtain any employment in that department,
 for a man of Mr. Micawber’s abilities. They would rather NOT have a man
 of Mr. Micawber’s abilities. He would only show the deficiency of the
@@ -585,7 +585,7 @@ was cool.’
 
 ‘Yes,’ said Mrs. Micawber. ‘It is truly painful to contemplate mankind
 in such an aspect, Master Copperfield, but our reception was, decidedly,
-cool. There is no doubt about it. In fact, that branch of my family
+cool. There is no [[Doubt|doubt]] about it. In fact, that branch of my family
 which is settled in Plymouth became quite personal to Mr. Micawber,
 before we had been there a week.’
 
@@ -594,7 +594,7 @@ I said, and thought, that they ought to be ashamed of themselves.
 ‘Still, so it was,’ continued Mrs. Micawber. ‘Under such circumstances,
 what could a man of Mr. Micawber’s spirit do? But one obvious course
 was left. To borrow, of that branch of my family, the money to return to
-London, and to return at any sacrifice.’
+[[London]], and to return at any sacrifice.’
 
 ‘Then you all came back again, ma’am?’ I said.
 
@@ -618,26 +618,26 @@ induced to think, on inquiry, that there might be an opening for a
 man of his talent in the Medway Coal Trade. Then, as Mr. Micawber very
 properly said, the first step to be taken clearly was, to come and see
 the Medway. Which we came and saw. I say “we”, Master Copperfield; for
-I never will,’ said Mrs. Micawber with emotion, ‘I never will desert Mr.
+I never will,’ said Mrs. Micawber with emotion, ‘I never will [[Desert|desert]] Mr.
 Micawber.’
 
 I murmured my admiration and approbation.
 
 ‘We came,’ repeated Mrs. Micawber, ‘and saw the Medway. My opinion of
-the coal trade on that river is, that it may require talent, but that
+the coal trade on that [[River|river]] is, that it may require talent, but that
 it certainly requires capital. Talent, Mr. Micawber has; capital, Mr.
 Micawber has not. We saw, I think, the greater part of the Medway; and
 that is my individual conclusion. Being so near here, Mr. Micawber was
-of opinion that it would be rash not to come on, and see the Cathedral.
-Firstly, on account of its being so well worth seeing, and our never
+of opinion that it would be rash not to come on, and see the [[Cathedral]].
+Firstly, on account of its being so [[Well|well]] worth seeing, and our never
 having seen it; and secondly, on account of the great probability of
-something turning up in a cathedral town. We have been here,’ said Mrs.
+something turning up in a [[Cathedral|cathedral]] town. We have been here,’ said Mrs.
 Micawber, ‘three days. Nothing has, as yet, turned up; and it may
 not surprise you, my dear Master Copperfield, so much as it would a
 stranger, to know that we are at present waiting for a remittance from
-London, to discharge our pecuniary obligations at this hotel. Until the
+[[London]], to discharge our pecuniary obligations at this hotel. Until the
 arrival of that remittance,’ said Mrs. Micawber with much feeling, ‘I am
-cut off from my home (I allude to lodgings in Pentonville), from my boy
+cut off from my [[Home|home]] (I allude to lodgings in Pentonville), from my boy
 and girl, and from my twins.’
 
 I felt the utmost sympathy for Mr. and Mrs. Micawber in this anxious
@@ -663,14 +663,14 @@ found Mr. Micawber in the parlour; who had called to say that the dinner
 would take place as proposed. When I asked him if the remittance had
 come, he pressed my hand and departed.
 
-As I was looking out of window that same evening, it surprised me, and
-made me rather uneasy, to see Mr. Micawber and Uriah Heep walk past, arm
-in arm: Uriah humbly sensible of the honour that was done him, and Mr.
+As I was looking out of [[Window|window]] that same evening, it surprised me, and
+made me rather uneasy, to see Mr. Micawber and [[Uriah Heep]] walk past, arm
+in arm: Uriah humbly sensible of the [[Honour|honour]] that was done him, and Mr.
 Micawber taking a bland delight in extending his patronage to Uriah. But
 I was still more surprised, when I went to the little hotel next day at
-the appointed dinner-hour, which was four o’clock, to find, from what
-Mr. Micawber said, that he had gone home with Uriah, and had drunk
-brandy-and-water at Mrs. Heep’s.
+the appointed dinner-hour, which was four o’[[Clock|clock]], to find, from what
+Mr. Micawber said, that he had gone [[Home|home]] with Uriah, and had drunk
+brandy-and-[[Water|water]] at Mrs. Heep’s.
 
 ‘And I’ll tell you what, my dear Copperfield,’ said Mr. Micawber, ‘your
 friend Heep is a young fellow who might be attorney-general. If I had
@@ -694,7 +694,7 @@ dinner Mrs. Micawber made us a bowl of hot punch with her own hands.
 Mr. Micawber was uncommonly convivial. I never saw him such good
 company. He made his face shine with the punch, so that it looked as if
 it had been varnished all over. He got cheerfully sentimental about
-the town, and proposed success to it; observing that Mrs. Micawber and
+the town, and proposed [[success]] to it; observing that Mrs. Micawber and
 himself had been made extremely snug and comfortable there and that he
 never should forget the agreeable hours they had passed in Canterbury.
 He proposed me afterwards; and he, and Mrs. Micawber, and I, took a
@@ -704,7 +704,7 @@ said, modestly, ‘If you’ll allow me, Mrs. Micawber, I shall now have
 the pleasure of drinking your health, ma’am.’ On which Mr. Micawber
 delivered an eulogium on Mrs. Micawber’s character, and said she
 had ever been his guide, philosopher, and friend, and that he would
-recommend me, when I came to a marrying time of life, to marry such
+recommend me, when I came to a marrying [[Time|time]] of life, to marry such
 another woman, if such another woman could be found.
 
 As the punch disappeared, Mr. Micawber became still more friendly and
@@ -717,7 +717,7 @@ were really affected.
 In a word, I never saw anybody so thoroughly jovial as Mr. Micawber
 was, down to the very last moment of the evening, when I took a hearty
 farewell of himself and his amiable wife. Consequently, I was not
-prepared, at seven o’clock next morning, to receive the following
+prepared, at seven o’[[Clock|clock]] next morning, to receive the following
 communication, dated half past nine in the evening; a quarter of an hour
 after I had left him:--
 
@@ -725,17 +725,17 @@ after I had left him:--
 
 ‘The die is cast--all is over. Hiding the ravages of care with a sickly
 mask of mirth, I have not informed you, this evening, that there is no
-hope of the remittance! Under these circumstances, alike humiliating to
+[[Hope|hope]] of the remittance! Under these circumstances, alike humiliating to
 endure, humiliating to contemplate, and humiliating to relate, I have
 discharged the pecuniary liability contracted at this establishment,
 by giving a note of hand, made payable fourteen days after date, at
-my residence, Pentonville, London. When it becomes due, it will not be
+my residence, Pentonville, [[London]]. When it becomes due, it will not be
 taken up. The result is destruction. The bolt is impending, and the tree
 must fall.
 
 ‘Let the wretched man who now addresses you, my dear Copperfield, be a
 beacon to you through life. He writes with that intention, and in that
-hope. If he could think himself of so much use, one gleam of day might,
+[[Hope|hope]]. If he could think himself of so much use, one gleam of day might,
 by possibility, penetrate into the cheerless dungeon of his remaining
 existence--though his longevity is, at present (to say the least of it),
 extremely problematical.
@@ -749,13 +749,13 @@ receive
 
                                    ‘Beggared Outcast,
 
-                                        ‘WILKINS MICAWBER.’
+                                        ‘[[Wilkins Micawber|WILKINS MICAWBER]].’
 
 
 I was so shocked by the contents of this heart-rending letter, that I
 ran off directly towards the little hotel with the intention of taking
 it on my way to Doctor Strong’s, and trying to soothe Mr. Micawber with
-a word of comfort. But, half-way there, I met the London coach with Mr.
+a word of comfort. But, half-way there, I met the [[London]] coach with Mr.
 and Mrs. Micawber up behind; Mr. Micawber, the very picture of tranquil
 enjoyment, smiling at Mrs. Micawber’s conversation, eating walnuts out
 of a paper bag, with a bottle sticking out of his breast pocket. As they

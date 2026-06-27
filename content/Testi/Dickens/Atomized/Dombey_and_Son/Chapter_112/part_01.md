@@ -25,8 +25,8 @@ Toots and the Chicken had gone into the Parlour.
 “Oh my own pretty darling sweet Miss Floy!” cried the Nipper, running
 into Florence’s room, “to think that it should come to this and I
 should find you here my own dear dove with nobody to wait upon you and
-no home to call your own but never never will I go away again Miss Floy
-for though I may not gather moss I’m not a rolling stone nor is my
+no [[Home|home]] to call your own but never never will I go away again Miss Floy
+for though I may not gather moss I’m not a [[rolling]] stone nor is my
 heart a stone or else it wouldn’t bust as it is busting now oh dear oh
 dear!”
 
@@ -34,14 +34,14 @@ Pouring out these words, without the faintest indication of a stop, of
 any sort, Miss Nipper, on her knees beside her mistress, hugged her
 close.
 
-“Oh love!” cried Susan, “I know all that’s past I know it all my tender
+“Oh [[Love|love]]!” cried Susan, “I know all that’s past I know it all my tender
 pet and I’m a choking give me air!”
 
 “Susan, dear good Susan!” said Florence.
 
-“Oh bless her! I that was her little maid when she was a little child!
+“Oh bless her! I that was her little maid when she was a little [[Child|child]]!
 and is she really, really truly going to be married?” exclaimed Susan,
-in a burst of pain and pleasure, pride and grief, and Heaven knows how
+in a burst of [[Pain|pain]] and pleasure, [[Pride|pride]] and grief, and Heaven knows how
 many other conflicting feelings.
 
 “Who told you so?” said Florence.
@@ -49,7 +49,7 @@ many other conflicting feelings.
 “Oh gracious me! that innocentest creetur Toots,” returned Susan
 hysterically. “I knew he must be right my dear, because he took on so.
 He’s the devotedest and innocentest infant! And is my darling,” pursued
-Susan, with another close embrace and burst of tears, “really really
+Susan, with another close embrace and burst of [[Tears|tears]], “really really
 going to be married!”
 
 The mixture of compassion, pleasure, tenderness, protection, and regret
@@ -88,7 +88,7 @@ he’ll go down into it now immediately and quite comfortable, but bless
 your heart my dear Miss Floy he won’t, he’s a great deal too happy in
 seeing other people happy for that, he may not be a Solomon,” pursued
 the Nipper, with her usual volubility, “nor do I say he is but this I
-do say a less selfish human creature human nature never knew!”
+do say a less selfish human creature human [[Nature|nature]] never knew!”
 
 Miss Nipper being still hysterical, laughed immoderately after making
 this energetic declaration, and then informed Florence that he was
@@ -105,11 +105,11 @@ least, not to gaze, but—I don’t exactly know what I was going to say,
 but it’s of no consequence.”
 
 “I have to thank you so often,” returned Florence, giving him both her
-hands, with all her innocent gratitude beaming in her face, “that I
+hands, with all her [[Innocent|innocent]] gratitude beaming in her face, “that I
 have no words left, and don’t know how to do it.”
 
 “Miss Dombey,” said Mr Toots, in an awful voice, “if it was possible
-that you could, consistently with your angelic nature, Curse me, you
+that you could, consistently with your angelic [[Nature|nature]], Curse me, you
 would—if I may be allowed to say so—floor me infinitely less, than by
 these undeserved expressions of kindness Their effect upon me—is—but,”
 said Mr Toots, abruptly, “this is a digression, and of no consequence
@@ -121,17 +121,17 @@ again, Florence thanked him again.
 “I could wish,” said Mr Toots, “to take this opportunity, Miss Dombey,
 if I might, of entering into a word of explanation. I should have had
 the pleasure of—of returning with Susan at an earlier period; but, in
-the first place, we didn’t know the name of the relation to whose house
+the first place, we didn’t know the name of the relation to whose [[house]]
 she had gone, and, in the second, as she had left that relation’s and
 gone to another at a distance, I think that scarcely anything short of
-the sagacity of the Chicken, would have found her out in the time.”
+the sagacity of the Chicken, would have found her out in the [[Time|time]].”
 
 Florence was sure of it.
 
 “This, however,” said Mr Toots, “is not the point. The company of Susan
 has been, I assure you, Miss Dombey, a consolation and satisfaction to
 me, in my state of mind, more easily conceived than described. The
-journey has been its own reward. That, however, still, is not the
+[[Journey|journey]] has been its own reward. That, however, still, is not the
 point. Miss Dombey, I have before observed that I know I am not what is
 considered a quick person. I am perfectly aware of that. I don’t think
 anybody could be better acquainted with his own—if it was not too

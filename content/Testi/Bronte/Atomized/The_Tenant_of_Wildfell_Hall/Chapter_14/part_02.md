@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 14 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -46,15 +46,15 @@ He shrank away as if there had been contamination in my touch.
 
 
 
-“What, you won’t! Well! you may sit there till doomsday, for what I
+“What, you won’t! [[Well]]! you may sit there till doomsday, for what I
 
-care. But I suppose you don’t want to lose all the blood in your
+care. But I suppose you don’t want to lose all the [[Blood|blood]] in your
 
-body—I’ll just condescend to bind that up for you.”
+[[Body|body]]—I’ll just condescend to bind that up for you.”
 
 
 
-“Let me alone, if you please.”
+“Let me [[Alone|alone]], if you please.”
 
 
 
@@ -68,13 +68,13 @@ But before I abandoned him to his fate I flung his pony’s bridle over a
 
 stake in the hedge, and threw him my handkerchief, as his own was now
 
-saturated with blood. He took it and cast it back to me in abhorrence
+saturated with [[Blood|blood]]. He took it and cast it back to me in abhorrence
 
 and contempt, with all the strength he could muster. It wanted but this
 
 to fill the measure of his offences. With execrations not loud but deep
 
-I left him to live or die as he could, well satisfied that I had done
+I left him to live or die as he could, [[Well|well]] satisfied that I had done
 
 _my_ duty in attempting to save him—but forgetting how I had erred in
 
@@ -90,7 +90,7 @@ by such spiteful motives in so perseveringly refusing my assistance.
 
 
 
-Having remounted my horse, I just looked back to see how he was getting
+Having remounted my [[Horse|horse]], I just looked back to see how he was getting
 
 on, before I rode away. He had risen from the ground, and grasping his
 
@@ -106,7 +106,7 @@ proving ineffectual, he sank back on the bank, where I left him,
 
 reposing his head on the oozy turf, and to all appearance, as calmly
 
-reclining as if he had been taking his rest on his sofa at home.
+reclining as if he had been taking his rest on his sofa at [[Home|home]].
 
 
 
@@ -114,7 +114,7 @@ I ought to have helped him in spite of himself—to have bound up the
 
 wound he was unable to staunch, and insisted upon getting him on his
 
-horse and seeing him safe home; but, besides my bitter indignation
+[[Horse|horse]] and seeing him safe [[Home|home]]; but, besides my bitter indignation
 
 against himself, there was the question what to say to his servants—and
 
@@ -126,9 +126,9 @@ too—and that seemed impossible—or I must get up a lie, which seemed
 
 equally out of the question—especially as Mr. Lawrence would probably
 
-reveal the whole truth, and thereby bring me to tenfold disgrace—unless
+reveal the whole [[Truth|truth]], and thereby bring me to tenfold disgrace—unless
 
-I were villain enough, presuming on the absence of witnesses, to
+I were [[Villain|villain]] enough, presuming on the absence of witnesses, to
 
 persist in my own version of the case, and make him out a still greater
 
@@ -140,17 +140,17 @@ that could not kill him if he lay there half the day; and, if he could
 
 not help himself, surely some one would be coming by: it would be
 
-impossible that a whole day should pass and no one traverse the road
+impossible that a whole day should pass and no one traverse the [[Road|road]]
 
 but ourselves. As for what he might choose to say hereafter, I would
 
 take my chance about it: if he told lies, I would contradict him; if he
 
-told the truth, I would bear it as best I could. I was not _obliged_ to
+told the [[Truth|truth]], I would bear it as best I could. I was not _obliged_ to
 
 enter into explanations further than I thought proper. Perhaps he might
 
-choose to be silent on the subject, for fear of raising inquiries as to
+choose to be silent on the subject, for [[Fear|fear]] of raising inquiries as to
 
 the cause of the quarrel, and drawing the public attention to his
 
@@ -164,9 +164,9 @@ Thus reasoning, I trotted away to the town, where I duly transacted my
 
 business, and performed various little commissions for my mother and
 
-Rose, with very laudable exactitude, considering the different
+[[Rose]], with very laudable exactitude, considering the different
 
-circumstances of the case. In returning home, I was troubled with
+circumstances of the case. In returning [[Home|home]], I was troubled with
 
 sundry misgivings about the unfortunate Lawrence. The question, What if
 
@@ -176,9 +176,9 @@ and exhaustion—or already stark and chill? thrust itself most
 
 unpleasantly upon my mind, and the appalling possibility pictured
 
-itself with painful vividness to my imagination as I approached the
+itself with painful vividness to my [[Imagination|imagination]] as I approached the
 
-spot where I had left him. But no, thank heaven, both man and horse
+spot where I had left him. But no, thank heaven, both man and [[Horse|horse]]
 
 were gone, and nothing was left to witness against me but two
 
@@ -190,19 +190,19 @@ saturated with rain and coated with mud, indented and broken above the
 
 brim by that villainous whip-handle; in another, the crimson
 
-handkerchief, soaking in a deeply tinctured pool of water—for much rain
+handkerchief, soaking in a deeply tinctured pool of [[Water|water]]—for much rain
 
 had fallen in the interim.
 
 
 
-Bad news flies fast: it was hardly four o’clock when I got home, but my
+Bad news flies fast: it was hardly four o’[[Clock|clock]] when I got [[Home|home]], but my
 
-mother gravely accosted me with—“Oh, Gilbert!—_Such_ an accident! Rose
+mother gravely accosted me with—“Oh, Gilbert!—_Such_ an accident! [[Rose]]
 
 has been shopping in the village, and she’s heard that Mr. Lawrence has
 
-been thrown from his horse and brought home dying!”
+been thrown from his [[Horse|horse]] and brought [[Home|home]] dying!”
 
 
 
@@ -226,4 +226,4 @@ knew them.
 
 
 
-“Or to-day,” suggested Rose: “there’s plenty of time; and you can have
+“Or to-day,” suggested [[Rose]]: “there’s plenty of [[Time|time]]; and you can have

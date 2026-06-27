@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — N the parlour of the Green Dragon, a public-house in the immediate"
+title: "A [[Child]]'s [[history|History]] of England — N the parlour of the Green Dragon, a public-[[house]] in the immediate"
 author: "Dickens"
 unitType: story
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-IN the parlour of the Green Dragon, a public-house in the immediate
+IN the parlour of the Green Dragon, a public-[[house]] in the immediate
 neighbourhood of Westminster Bridge, everybody talks politics, every
 evening, the great political authority being Mr. Robert Bolton, an
 individual who defines himself as ‘a gentleman connected with the press,’
@@ -47,21 +47,21 @@ as for the Poles, they’ve got no cash.  I never have nothing to do with
 blockheads, unless I can’t awoid it (ironically), and a dead bear’s about
 as much use to me as I could be to a dead bear.’
 
-‘Well, then,’ urged the other, ‘there’s a book as belonged to Pope,
-Byron’s Poems, valued at forty pounds, because it’s got Pope’s identical
+‘[[Well]], then,’ urged the other, ‘there’s a book as belonged to Pope,
+Byron’s [[Poems]], valued at forty pounds, because it’s got Pope’s identical
 scratch on the back; what do you think of that for security?’
 
-‘Well, to be sure!’ cried the baker.  ‘But how d’ye mean, Mr. Clip?’
+‘[[Well]], to be sure!’ cried the baker.  ‘But how d’ye mean, Mr. Clip?’
 
 ‘Mean! why, that it’s got the _hottergruff_ of Pope.
 
-    “Steal not this book, for fear of hangman’s rope;
+    “Steal not this book, for [[Fear|fear]] of hangman’s rope;
     For it belongs to Alexander Pope.”
 
 All that’s written on the inside of the binding of the book; so, as my
 son says, we’re _bound_ to believe it.’
 
-‘Well, sir,’ observed the undertaker, deferentially, and in a
+‘[[Well]], sir,’ observed the undertaker, deferentially, and in a
 half-whisper, leaning over the table, and knocking over the hairdresser’s
 grog as he spoke, ‘that argument’s very easy upset.’
 
@@ -71,13 +71,13 @@ upset afore you thinks of another.’
 ‘Now,’ said the undertaker, bowing amicably to the hairdresser, ‘I
 _think_, I says I _think_—you’ll excuse me, Mr. Clip, I _think_, you see,
 that won’t go down with the present company—unfortunately, my master had
-the honour of making the coffin of that ere Lord’s housemaid, not no more
+the [[Honour|honour]] of making the coffin of that ere Lord’s housemaid, not no more
 nor twenty year ago.  Don’t think I’m proud on it, gentlemen; others
 might be; but I hate rank of any sort.  I’ve no more respect for a Lord’s
 footman than I have for any respectable tradesman in this room.  I may
 say no more nor I have for Mr. Clip! (bowing).  Therefore, that ere Lord
 must have been born long after Pope died.  And it’s a logical
-interference to defer, that they neither of them lived at the same time.
+interference to defer, that they neither of them lived at the same [[Time|time]].
 So what I mean is this here, that Pope never had no book, never seed,
 felt, never smelt no book (triumphantly) as belonged to that ere Lord.
 And, gentlemen, when I consider how patiently you have ’eared the ideas
@@ -85,12 +85,12 @@ what I have expressed, I feel bound, as the best way to reward you for
 the kindness you have exhibited, to sit down without saying anything
 more—partickler as I perceive a worthier visitor nor myself is just
 entered.  I am not in the habit of paying compliments, gentlemen; when I
-do, therefore, I hope I strikes with double force.’
+do, therefore, I [[Hope|hope]] I strikes with [[Double|double]] force.’
 
-‘Ah, Mr. Murgatroyd! what’s all this about striking with double force?’
+‘Ah, Mr. Murgatroyd! what’s all this about striking with [[Double|double]] force?’
 said the object of the above remark, as he entered.  ‘I never excuse a
-man’s getting into a rage during winter, even when he’s seated so close
-to the fire as you are.  It is very injudicious to put yourself into such
+man’s getting into a rage during [[Winter|winter]], even when he’s seated so close
+to the [[Fire|fire]] as you are.  It is very injudicious to put yourself into such
 a perspiration.  What is the cause of this extreme physical and mental
 excitement, sir?’
 
@@ -101,9 +101,9 @@ establishment of the ministerial organ, while to the initiated it
 signifies that no one paper can lay claim to the enjoyment of their
 services.  Mr. Bolton was a young man, with a somewhat sickly and very
 dissipated expression of countenance.  His habiliments were composed of
-an exquisite union of gentility, slovenliness, assumption, simplicity,
-_newness_, and old age.  Half of him was dressed for the winter, the
-other half for the summer.  His hat was of the newest cut, the D’Orsay;
+an exquisite [[Union|union]] of gentility, slovenliness, assumption, simplicity,
+_newness_, and old age.  Half of him was dressed for the [[Winter|winter]], the
+other half for the [[Summer|summer]].  His hat was of the newest cut, the D’Orsay;
 his trousers had been white, but the inroads of mud and ink, etc., had
 given them a pie-bald appearance; round his throat he wore a very high
 black cravat, of the most tyrannical stiffness; while his _tout ensemble_
@@ -152,45 +152,45 @@ The speaker took another draught, everybody looked at everybody else, and
 exclaimed, ‘Horrid!’
 
 ‘It appears in evidence, gentlemen,’ continued Mr. Bolton, ‘that, on the
-evening of yesterday, Sawyer the baker came home in a reprehensible state
+evening of yesterday, Sawyer the baker came [[Home|home]] in a reprehensible state
 of beer.  Mrs. S., connubially considerate, carried him in that condition
 up-stairs into his chamber, and consigned him to their mutual couch.  In
-a minute or two she lay sleeping beside the man whom the morrow’s dawn
-beheld a murderer!’  (Entire silence informed the reporter that his
-picture had attained the awful effect he desired.)  ‘The son came home
+a minute or two she lay sleeping beside the man whom the morrow’s [[Dawn|dawn]]
+beheld a murderer!’  (Entire [[Silence|silence]] informed the reporter that his
+picture had attained the awful effect he desired.)  ‘The son came [[Home|home]]
 about an hour afterwards, opened the door, and went up to bed.  Scarcely
 (gentlemen, conceive his feelings of alarm), scarcely had he taken off
 his indescribables, when shrieks (to his experienced ear _maternal_
-shrieks) scared the silence of surrounding night.  He put his
+shrieks) scared the [[Silence|silence]] of surrounding [[Night|night]].  He put his
 indescribables on again, and ran down-stairs.  He opened the door of the
 parental bed-chamber.  His father was dancing upon his mother.  What must
 have been his feelings!  In the agony of the minute he rushed at his male
 parent as he was about to plunge a knife into the side of his female.
 The mother shrieked.  The father caught the son (who had wrested the
 knife from the paternal grasp) up in his arms, carried him down-stairs,
-shoved him into a copper of boiling water among some linen, closed the
+shoved him into a copper of boiling [[Water|water]] among some linen, closed the
 lid, and jumped upon the top of it, in which position he was found with a
-ferocious countenance by the mother, who arrived in the melancholy
-wash-house just as he had so settled himself.
+ferocious countenance by the mother, who arrived in the [[Melancholy|melancholy]]
+wash-[[house]] just as he had so settled himself.
 
 ‘“Where’s my boy?” shrieked the mother.
 
 ‘“In that copper, boiling,” coolly replied the benign father.
 
-‘Struck by the awful intelligence, the mother rushed from the house, and
+‘Struck by the awful intelligence, the mother rushed from the [[house]], and
 alarmed the neighbourhood.  The police entered a minute afterwards.  The
-father, having bolted the wash-house door, had bolted himself.  They
-dragged the lifeless body of the boiled baker from the cauldron, and,
+father, having bolted the wash-[[house]] door, had bolted himself.  They
+dragged the lifeless [[Body|body]] of the boiled baker from the cauldron, and,
 with a promptitude commendable in men of their station, they immediately
-carried it to the station-house.  Subsequently, the baker was apprehended
+carried it to the station-[[house]].  Subsequently, the baker was apprehended
 while seated on the top of a lamp-post in Parliament Street, lighting his
 pipe.’
 
 The whole horrible ideality of the Mysteries of Udolpho, condensed into
 the pithy effect of a ten-line paragraph, could not possibly have so
-affected the narrator’s auditory.  Silence, the purest and most noble of
+affected the narrator’s auditory.  [[Silence]], the purest and most noble of
 all kinds of applause, bore ample testimony to the barbarity of the
-baker, as well as to Bolton’s knack of narration; and it was only broken
+baker, as [[Well|well]] as to Bolton’s knack of narration; and it was only broken
 after some minutes had elapsed by interjectional expressions of the
 intense indignation of every man present.  The baker wondered how a
 British baker could so disgrace himself and the highly honourable calling
@@ -205,5 +205,5 @@ hat, and left.
 
 
 
-FAMILIAR EPISTLE FROM A PARENT TO A CHILD
+FAMILIAR EPISTLE FROM A PARENT TO A [[Child|CHILD]]
 AGED TWO YEARS AND TWO MONTHS

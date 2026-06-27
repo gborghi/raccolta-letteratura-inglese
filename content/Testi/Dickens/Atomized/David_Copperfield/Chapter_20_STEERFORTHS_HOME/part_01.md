@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 20: STEERFORTH’S HOME (part 1)"
+title: "[[David Copperfield]] — Chapter 20: STEERFORTH’S [[Home|HOME]] (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,44 +14,44 @@ tags:
 </nav>
 
 
-CHAPTER 20. STEERFORTH’S HOME
+CHAPTER 20. STEERFORTH’S [[Home|HOME]]
 
 
-When the chambermaid tapped at my door at eight o’clock, and informed
-me that my shaving-water was outside, I felt severely the having no
+When the chambermaid tapped at my door at eight o’[[Clock|clock]], and informed
+me that my shaving-[[Water|water]] was outside, I felt severely the having no
 occasion for it, and blushed in my bed. The suspicion that she laughed
-too, when she said it, preyed upon my mind all the time I was dressing;
+too, when she said it, preyed upon my mind all the [[Time|time]] I was dressing;
 and gave me, I was conscious, a sneaking and guilty air when I passed
 her on the staircase, as I was going down to breakfast. I was so
 sensitively aware, indeed, of being younger than I could have wished,
-that for some time I could not make up my mind to pass her at all, under
+that for some [[Time|time]] I could not make up my mind to pass her at all, under
 the ignoble circumstances of the case; but, hearing her there with
-a broom, stood peeping out of window at King Charles on horseback,
+a broom, stood peeping out of [[Window|window]] at [[King]] Charles on horseback,
 surrounded by a maze of hackney-coaches, and looking anything but regal
 in a drizzling rain and a dark-brown fog, until I was admonished by the
 waiter that the gentleman was waiting for me.
 
 It was not in the coffee-room that I found Steerforth expecting me, but
 in a snug private apartment, red-curtained and Turkey-carpeted, where
-the fire burnt bright, and a fine hot breakfast was set forth on a table
+the [[Fire|fire]] burnt bright, and a fine hot breakfast was set forth on a table
 covered with a clean cloth; and a cheerful miniature of the room, the
-fire, the breakfast, Steerforth, and all, was shining in the little
-round mirror over the sideboard. I was rather bashful at first,
-Steerforth being so self-possessed, and elegant, and superior to me in
+[[Fire|fire]], the breakfast, Steerforth, and all, was shining in the little
+round [[Mirror|mirror]] over the sideboard. I was rather bashful at first,
+Steerforth being so [[Self|self]]-possessed, and elegant, and superior to me in
 all respects (age included); but his easy patronage soon put that to
-rights, and made me quite at home. I could not enough admire the change
-he had wrought in the Golden Cross; or compare the dull forlorn state
+rights, and made me quite at [[Home|home]]. I could not enough admire the change
+he had wrought in the Golden [[Cross]]; or compare the dull forlorn state
 I had held yesterday, with this morning’s comfort and this morning’s
 entertainment. As to the waiter’s familiarity, it was quenched as if it
 had never been. He attended on us, as I may say, in sackcloth and ashes.
 
-‘Now, Copperfield,’ said Steerforth, when we were alone, ‘I should like
+‘Now, Copperfield,’ said Steerforth, when we were [[Alone|alone]], ‘I should like
 to hear what you are doing, and where you are going, and all about you.
 I feel as if you were my property.’ Glowing with pleasure to find that
 he had still this interest in me, I told him how my aunt had proposed
 the little expedition that I had before me, and whither it tended.
 
-‘As you are in no hurry, then,’ said Steerforth, ‘come home with me to
+‘As you are in no hurry, then,’ said Steerforth, ‘come [[Home|home]] with me to
 Highgate, and stay a day or two. You will be pleased with my mother--she
 is a little vain and prosy about me, but that you can forgive her--and
 she will be pleased with you.’
@@ -66,10 +66,10 @@ is sure to be acknowledged.’
 
 ‘Good!’ said Steerforth. ‘Come and prove it. We will go and see the
 lions for an hour or two--it’s something to have a fresh fellow like you
-to show them to, Copperfield--and then we’ll journey out to Highgate by
+to show them to, Copperfield--and then we’ll [[Journey|journey]] out to Highgate by
 the coach.’
 
-I could hardly believe but that I was in a dream, and that I should wake
+I could hardly believe but that I was in [[A Dream|a dream]], and that I should wake
 presently in number forty-four, to the solitary box in the coffee-room
 and the familiar waiter again. After I had written to my aunt and told
 her of my fortunate meeting with my admired old schoolfellow, and my
@@ -88,7 +88,7 @@ mind my calling you Daisy?’
 ‘Not at all!’ said I.
 
 ‘That’s a good fellow! My dear Daisy,’ said Steerforth, laughing. ‘I
-have not the least desire or intention to distinguish myself in that
+have not the least [[Desire|desire]] or intention to distinguish myself in that
 way. I have done quite sufficient for my purpose. I find that I am heavy
 company enough for myself as I am.’
 
@@ -104,21 +104,21 @@ the subject. Fortunately it was not difficult to do, for Steerforth
 could always pass from one subject to another with a carelessness and
 lightness that were his own.
 
-Lunch succeeded to our sight-seeing, and the short winter day wore away
+Lunch succeeded to our sight-seeing, and the short [[Winter|winter]] day wore away
 so fast, that it was dusk when the stage-coach stopped with us at an
-old brick house at Highgate on the summit of the hill. An elderly lady,
+old brick [[house]] at Highgate on the summit of the [[Hill|hill]]. An elderly lady,
 though not very far advanced in years, with a proud carriage and
 a handsome face, was in the doorway as we alighted; and greeting
 Steerforth as ‘My dearest James,’ folded him in her arms. To this lady
 he presented me as his mother, and she gave me a stately welcome.
 
-It was a genteel old-fashioned house, very quiet and orderly. From the
-windows of my room I saw all London lying in the distance like a great
+It was a genteel old-fashioned [[house]], very quiet and orderly. From the
+windows of my room I saw all [[London]] lying in the distance like a great
 vapour, with here and there some lights twinkling through it. I had only
-time, in dressing, to glance at the solid furniture, the framed pieces
+[[Time|time]], in dressing, to glance at the solid furniture, the framed pieces
 of work (done, I supposed, by Steerforth’s mother when she was a girl),
 and some pictures in crayons of ladies with powdered hair and bodices,
-coming and going on the walls, as the newly-kindled fire crackled and
+coming and going on the walls, as the newly-kindled [[Fire|fire]] crackled and
 sputtered, when I was called to dinner.
 
 There was a second lady in the dining-room, of a slight short figure,
@@ -133,7 +133,7 @@ mouth, downward towards the chin, but was now barely visible across
 the table, except above and on her upper lip, the shape of which it had
 altered. I concluded in my own mind that she was about thirty years
 of age, and that she wished to be married. She was a little
-dilapidated--like a house--with having been so long to let; yet had, as
+dilapidated--like a [[house]]--with having been so long to let; yet had, as
 I have said, an appearance of good looks. Her thinness seemed to be the
-effect of some wasting fire within her, which found a vent in her gaunt
+effect of some wasting [[Fire|fire]] within her, which found a vent in her gaunt
 eyes.

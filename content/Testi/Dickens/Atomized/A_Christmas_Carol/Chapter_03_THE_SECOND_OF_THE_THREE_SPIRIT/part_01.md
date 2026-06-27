@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 1)"
+title: "A Christmas [[carol|Carol]] — Stave 3: THE SECOND OF THE THREE SPIRITS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -20,10 +20,10 @@ AWAKING in the middle of a prodigiously tough snore, and
 sitting up in bed to get his thoughts together, Scrooge had
 no occasion to be told that the bell was again upon the
 stroke of One. He felt that he was restored to consciousness
-in the right nick of time, for the especial purpose of holding
+in the right nick of [[Time|time]], for the especial purpose of holding
 a conference with the second messenger despatched to him
-through Jacob Marley's intervention. But finding that he
-turned uncomfortably cold when he began to wonder which
+through [[Jacob Marley]]'s intervention. But finding that he
+turned uncomfortably cold when he began to [[Wonder|wonder]] which
 of his curtains this new spectre would draw back, he put
 them every one aside with his own hands; and lying down
 again, established a sharp look-out all round the bed. For
@@ -33,10 +33,10 @@ made nervous.
 
 Gentlemen of the free-and-easy sort, who plume themselves
 on being acquainted with a move or two, and being usually
-equal to the time-of-day, express the wide range of their
+equal to the [[Time|time]]-of-day, express the wide range of their
 capacity for adventure by observing that they are good for
 anything from pitch-and-toss to manslaughter; between which
-opposite extremes, no doubt, there lies a tolerably wide and
+opposite extremes, no [[Doubt|doubt]], there lies a tolerably wide and
 comprehensive range of subjects. Without venturing for
 Scrooge quite as hardily as this, I don't mind calling on you
 to believe that he was ready for a good broad field of
@@ -47,11 +47,11 @@ Now, being prepared for almost anything, he was not by
 any means prepared for nothing; and, consequently, when the
 Bell struck One, and no shape appeared, he was taken with a
 violent fit of trembling. Five minutes, ten minutes, a quarter
-of an hour went by, yet nothing came. All this time, he lay
+of an hour went by, yet nothing came. All this [[Time|time]], he lay
 upon his bed, the very core and centre of a blaze of ruddy
-light, which streamed upon it when the clock proclaimed the
+light, which streamed upon it when the [[Clock|clock]] proclaimed the
 hour; and which, being only light, was more alarming than
-a dozen ghosts, as he was powerless to make out what it
+a dozen [[Ghosts|ghosts]], as he was powerless to make out what it
 meant, or would be at; and was sometimes apprehensive
 that he might be at that very moment an interesting case of
 spontaneous combustion, without having the consolation of
@@ -69,16 +69,16 @@ The moment Scrooge's hand was on the lock, a strange
 voice called him by his name, and bade him enter. He
 obeyed.
 
-It was his own room. There was no doubt about that.
+It was his own room. There was no [[Doubt|doubt]] about that.
 But it had undergone a surprising transformation. The walls
 and ceiling were so hung with living green, that it looked a
 perfect grove; from every part of which, bright gleaming
-berries glistened. The crisp leaves of holly, mistletoe, and
+berries glistened. The crisp [[Leaves|leaves]] of holly, mistletoe, and
 ivy reflected back the light, as if so many little mirrors had
 been scattered there; and such a mighty blaze went roaring
 up the chimney, as that dull petrification of a hearth had
-never known in Scrooge's time, or Marley's, or for many and
-many a winter season gone. Heaped up on the floor, to form
+never known in Scrooge's [[Time|time]], or Marley's, or for many and
+many a [[Winter|winter]] season gone. Heaped up on the floor, to form
 a kind of throne, were turkeys, geese, game, poultry, brawn,
 great joints of meat, sucking-pigs, long wreaths of sausages,
 mince-pies, plum-puddings, barrels of oysters, red-hot chestnuts,
@@ -90,7 +90,7 @@ see; who bore a glowing torch, in shape not unlike Plenty's
 horn, and held it up, high up, to shed its light on Scrooge,
 as he came peeping round the door.
 
-"Come in!" exclaimed the Ghost. "Come in! and know
+"Come in!" exclaimed the [[Ghost]]. "Come in! and know
 me better, man!"
 
 Scrooge entered timidly, and hung his head before this
@@ -98,7 +98,7 @@ Spirit. He was not the dogged Scrooge he had been; and
 though the Spirit's eyes were clear and kind, he did not like
 to meet them.
 
-"I am the Ghost of Christmas Present," said the Spirit.
+"I am the [[Ghost of Christmas Present]]," said the Spirit.
 "Look upon me!"
 
 Scrooge reverently did so. It was clothed in one simple
@@ -111,7 +111,7 @@ covering than a holly wreath, set here and there with shining
 icicles. Its dark brown curls were long and free; free as its
 genial face, its sparkling eye, its open hand, its cheery voice,
 its unconstrained demeanour, and its joyful air. Girded
-round its middle was an antique scabbard; but no sword
+round its middle was an antique scabbard; but no [[Sword|sword]]
 was in it, and the ancient sheath was eaten up with rust.
 
 "You have never seen the like of me before!" exclaimed
@@ -121,20 +121,20 @@ the Spirit.
 
 "Have never walked forth with the younger members of
 my family; meaning (for I am very young) my elder brothers
-born in these later years?" pursued the Phantom.
+born in these later years?" pursued the [[Phantom]].
 
 "I don't think I have," said Scrooge. "I am afraid I have
 not. Have you had many brothers, Spirit?"
 
-"More than eighteen hundred," said the Ghost.
+"More than eighteen hundred," said the [[Ghost]].
 
 "A tremendous family to provide for!" muttered Scrooge.
 
-The Ghost of Christmas Present rose.
+The [[Ghost of Christmas Present]] [[Rose|rose]].
 
 "Spirit," said Scrooge submissively, "conduct me where
-you will. I went forth last night on compulsion, and I learnt
-a lesson which is working now. To-night, if you have aught
+you will. I went forth last [[Night|night]] on compulsion, and I learnt
+a lesson which is working now. To-[[Night|night]], if you have aught
 to teach me, let me profit by it."
 
 "Touch my robe!"
@@ -144,11 +144,11 @@ Scrooge did as he was told, and held it fast.
 Holly, mistletoe, red berries, ivy, turkeys, geese, game,
 poultry, brawn, meat, pigs, sausages, oysters, pies, puddings,
 fruit, and punch, all vanished instantly. So did the room,
-the fire, the ruddy glow, the hour of night, and they stood
-in the city streets on Christmas morning, where (for the
+the [[Fire|fire]], the ruddy glow, the hour of [[Night|night]], and they stood
+in the [[City|city]] streets on Christmas morning, where (for the
 weather was severe) the people made a rough, but brisk and
-not unpleasant kind of music, in scraping the snow from the
+not unpleasant kind of music, in scraping the [[Snow|snow]] from the
 pavement in front of their dwellings, and from the tops of
 their houses, whence it was mad delight to the boys to see
-it come plumping down into the road below, and splitting
-into artificial little snow-storms.
+it come plumping down into the [[Road|road]] below, and splitting
+into artificial little [[Snow|snow]]-storms.

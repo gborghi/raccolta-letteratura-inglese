@@ -21,12 +21,12 @@ CONCERNING THE MENDICANT’S BRIDE
 
 The impressive gloom with which Mrs Wilfer received her husband on his
 return from the wedding, knocked so hard at the door of the cherubic
-conscience, and likewise so impaired the firmness of the cherubic legs,
-that the culprit’s tottering condition of mind and body might have
+[[Conscience|conscience]], and likewise so impaired the firmness of the cherubic legs,
+that the culprit’s tottering condition of mind and [[Body|body]] might have
 roused suspicion in less occupied persons than the grimly heroic lady,
-Miss Lavinia, and that esteemed friend of the family, Mr George Sampson.
+Miss [[Lavinia]], and that esteemed friend of the family, Mr George Sampson.
 But, the attention of all three being fully possessed by the main
-fact of the marriage, they had happily none to bestow on the guilty
+fact of the [[Marriage|marriage]], they had happily none to bestow on the guilty
 conspirator; to which fortunate circumstance he owed the escape for
 which he was in nowise indebted to himself.
 
@@ -55,7 +55,7 @@ advice: ‘—your daughter Bella has bestowed herself upon a Mendicant.’
 
 ‘Good gracious, my dear!’
 
-‘Show your father his daughter Bella’s letter, Lavinia,’ said Mrs
+‘Show your father his daughter Bella’s letter, [[Lavinia]],’ said Mrs
 Wilfer, in her monotonous Act of Parliament tone, and waving her hand.
 ‘I think your father will admit it to be documentary proof of what I
 tell him. I believe your father is acquainted with his daughter Bella’s
@@ -65,19 +65,19 @@ surprise me.’
 ‘Posted at Greenwich, and dated this morning,’ said the Irrepressible,
 flouncing at her father in handing him the evidence. ‘Hopes Ma won’t be
 angry, but is happily married to Mr John Rokesmith, and didn’t mention
-it beforehand to avoid words, and please tell darling you, and love
+it beforehand to avoid words, and please tell darling you, and [[Love|love]]
 to me, and I should like to know what you’d have said if any other
 unmarried member of the family had done it!’
 
 He read the letter, and faintly exclaimed ‘Dear me!’
 
-‘You may well say Dear me!’ rejoined Mrs Wilfer, in a deep tone. Upon
-which encouragement he said it again, though scarcely with the success
+‘You may [[Well|well]] say Dear me!’ rejoined Mrs Wilfer, in a deep tone. Upon
+which encouragement he said it again, though scarcely with the [[success]]
 he had expected; for the scornful lady then remarked, with extreme
 bitterness: ‘You said that before.’
 
 ‘It’s very surprising. But I suppose, my dear,’ hinted the cherub, as he
-folded the letter after a disconcerting silence, ‘that we must make the
+folded the letter after a disconcerting [[Silence|silence]], ‘that we must make the
 best of it? Would you object to my pointing out, my dear, that Mr
 John Rokesmith is not (so far as I am acquainted with him), strictly
 speaking, a Mendicant.’
@@ -86,13 +86,13 @@ speaking, a Mendicant.’
 so? I was not aware that Mr John Rokesmith was a gentleman of landed
 property. But I am much relieved to hear it.’
 
-‘I doubt if you HAVE heard it, my dear,’ the cherub submitted with
+‘I [[Doubt|doubt]] if you HAVE heard it, my dear,’ the cherub submitted with
 hesitation.
 
 ‘Thank you,’ said Mrs Wilfer. ‘I make false statements, it appears? So
 be it. If my daughter flies in my face, surely my husband may. The one
 thing is not more unnatural than the other. There seems a fitness in the
-arrangement. By all means!’ Assuming, with a shiver of resignation, a
+arrangement. By all means!’ Assuming, with a shiver of [[Resignation|resignation]], a
 deadly cheerfulness.
 
 But, here the Irrepressible skirmished into the conflict, dragging the
@@ -106,14 +106,14 @@ impossible nonsense.’
 ‘How!’ exclaimed Mrs Wilfer, knitting her dark brows.
 
 ‘Just im-possible nonsense, Ma,’ returned Lavvy, ‘and George Sampson
-knows it is, as well as I do.’
+knows it is, as [[Well|well]] as I do.’
 
 Mrs Wilfer suddenly becoming petrified, fixed her indignant eyes upon
 the wretched George: who, divided between the support due from him to
-his love, and the support due from him to his love’s mamma, supported
+his [[Love|love]], and the support due from him to his [[Love|love]]’s mamma, supported
 nobody, not even himself.
 
-‘The true point is,’ pursued Lavinia, ‘that Bella has behaved in a most
+‘The true point is,’ pursued [[Lavinia]], ‘that Bella has behaved in a most
 unsisterly way to me, and might have severely compromised me with George
 and with George’s family, by making off and getting married in this very
 low and disreputable manner—with some pew-opener or other, I suppose,
@@ -126,7 +126,7 @@ course I should have done.’
 ‘As of course you would have done? Ingrate!’ exclaimed Mrs Wilfer.
 ‘Viper!’
 
-‘I say! You know ma’am. Upon my honour you mustn’t,’ Mr Sampson
+‘I say! You know ma’am. Upon my [[Honour|honour]] you mustn’t,’ Mr Sampson
 remonstrated, shaking his head seriously. ‘With the highest respect for
 you, ma’am, upon my life you mustn’t. No really, you know. When a man
 with the feelings of a gentleman finds himself engaged to a young lady,
@@ -135,8 +135,8 @@ know!—I would merely put it to your own good feeling, you know,’ said
 Mr Sampson, in rather lame conclusion.
 
 Mrs Wilfer’s baleful stare at the young gentleman in acknowledgment of
-his obliging interference was of such a nature that Miss Lavinia burst
-into tears, and caught him round the neck for his protection.
+his obliging interference was of such a [[Nature|nature]] that Miss [[Lavinia]] burst
+into [[Tears|tears]], and caught him round the neck for his protection.
 
 ‘My own unnatural mother,’ screamed the young lady, ‘wants to annihilate
 George! But you shan’t be annihilated, George. I’ll die first!’
@@ -145,16 +145,16 @@ Mr Sampson, in the arms of his mistress, still struggled to shake his
 head at Mrs Wilfer, and to remark: ‘With every sentiment of respect for
 you, you know, ma’am—vipers really doesn’t do you credit.’
 
-‘You shall not be annihilated, George!’ cried Miss Lavinia. ‘Ma shall
+‘You shall not be annihilated, George!’ cried Miss [[Lavinia]]. ‘Ma shall
 destroy me first, and then she’ll be contented. Oh, oh, oh! Have I lured
-George from his happy home to expose him to this! George, dear, be free!
-Leave me, ever dearest George, to Ma and to my fate. Give my love to
+George from his happy [[Home|home]] to expose him to this! George, dear, be free!
+Leave me, ever dearest George, to Ma and to my fate. Give my [[Love|love]] to
 your aunt, George dear, and implore her not to curse the viper that has
 crossed your path and blighted your existence. Oh, oh, oh!’ The young
 lady who, hysterically speaking, was only just come of age, and had
 never gone off yet, here fell into a highly creditable crisis, which,
 regarded as a first performance, was very successful; Mr Sampson,
-bending over the body meanwhile, in a state of distraction, which
+bending over the [[Body|body]] meanwhile, in a state of distraction, which
 induced him to address Mrs Wilfer in the inconsistent expressions:
 ‘Demon—with the highest respect for you—behold your work!’
 
@@ -163,28 +163,28 @@ whole was inclined to welcome this diversion as one in which, by reason
 of the absorbent properties of hysterics, the previous question would
 become absorbed. And so, indeed, it proved, for the Irrepressible
 gradually coming to herself; and asking with wild emotion, ‘George dear,
-are you safe?’ and further, ‘George love, what has happened? Where is
+are you safe?’ and further, ‘George [[Love|love]], what has happened? Where is
 Ma?’ Mr Sampson, with words of comfort, raised her prostrate form, and
 handed her to Mrs Wilfer as if the young lady were something in the
-nature of refreshments. Mrs Wilfer with dignity partaking of the
+[[Nature|nature]] of refreshments. Mrs Wilfer with dignity partaking of the
 refreshments, by kissing her once on the brow (as if accepting an
 oyster), Miss Lavvy, tottering, returned to the protection of Mr
 Sampson; to whom she said, ‘George dear, I am afraid I have been
 foolish; but I am still a little weak and giddy; don’t let go my hand,
 George!’ And whom she afterwards greatly agitated at intervals, by
 giving utterance, when least expected, to a sound between a sob and a
-bottle of soda water, that seemed to rend the bosom of her frock.
+bottle of soda [[Water|water]], that seemed to rend the bosom of her frock.
 
 Among the most remarkable effects of this crisis may be mentioned its
 having, when peace was restored, an inexplicable moral influence, of an
-elevating kind, on Miss Lavinia, Mrs Wilfer, and Mr George Sampson, from
-which R. W. was altogether excluded, as an outsider and non-sympathizer.
-Miss Lavinia assumed a modest air of having distinguished herself; Mrs
-Wilfer, a serene air of forgiveness and resignation; Mr Sampson, an air
+elevating kind, on Miss [[Lavinia]], Mrs Wilfer, and Mr George Sampson, from
+which R. W. was altogether excluded, as an [[Outsider|outsider]] and non-sympathizer.
+Miss [[Lavinia]] assumed a modest air of having distinguished herself; Mrs
+Wilfer, a serene air of [[Forgiveness|forgiveness]] and [[Resignation|resignation]]; Mr Sampson, an air
 of having been improved and chastened. The influence pervaded the spirit
 in which they returned to the previous question.
 
-‘George dear,’ said Lavvy, with a melancholy smile, ‘after what has
+‘George dear,’ said Lavvy, with a [[Melancholy|melancholy]] smile, ‘after what has
 passed, I am sure Ma will tell Pa that he may tell Bella we shall all be
 glad to see her and her husband.’
 
@@ -193,19 +193,19 @@ respected Mrs Wilfer, and ever must, and ever would. Never more
 eminently, he added, than after what had passed.
 
 ‘Far be it from me,’ said Mrs Wilfer, making deep proclamation from her
-corner, ‘to run counter to the feelings of a child of mine, and of a
+corner, ‘to run counter to the feelings of a [[Child|child]] of mine, and of a
 Youth,’ Mr Sampson hardly seemed to like that word, ‘who is the object
 of her maiden preference. I may feel—nay, know—that I have been
 deluded and deceived. I may feel—nay, know—that I have been set
 aside and passed over. I may feel—nay, know—that after having so far
 overcome my repugnance towards Mr and Mrs Boffin as to receive them
 under this roof, and to consent to your daughter Bella’s,’ here turning
-to her husband, ‘residing under theirs, it were well if your daughter
+to her husband, ‘residing under theirs, it were [[Well|well]] if your daughter
 Bella,’ again turning to her husband, ‘had profited in a worldly
 point of view by a connection so distasteful, so disreputable. I may
 feel—nay, know—that in uniting herself to Mr Rokesmith she has united
 herself to one who is, in spite of shallow sophistry, a Mendicant. And
-I may feel well assured that your daughter Bella,’ again turning to her
+I may feel [[Well|well]] assured that your daughter Bella,’ again turning to her
 husband, ‘does not exalt her family by becoming a Mendicant’s bride. But
 I suppress what I feel, and say nothing of it.’
 
@@ -216,30 +216,30 @@ obscurity,) and never more so, than in and through what had passed. He
 must take the liberty of adding, that what was true of the mother
 was true of the youngest daughter, and that he could never forget the
 touching feelings that the conduct of both had awakened within him. In
-conclusion, he did hope that there wasn’t a man with a beating heart who
+conclusion, he did [[Hope|hope]] that there wasn’t a man with a beating heart who
 was capable of something that remained undescribed, in consequence of
-Miss Lavinia’s stopping him as he reeled in his speech.
+Miss [[Lavinia]]’s stopping him as he reeled in his speech.
 
 ‘Therefore, R. W.’ said Mrs Wilfer, resuming her discourse and turning
 to her lord again, ‘let your daughter Bella come when she will, and she
 will be received. So,’ after a short pause, and an air of having taken
 medicine in it, ‘so will her husband.’
 
-‘And I beg, Pa,’ said Lavinia, ‘that you will not tell Bella what I
+‘And I beg, Pa,’ said [[Lavinia]], ‘that you will not tell Bella what I
 have undergone. It can do no good, and it might cause her to reproach
 herself.’
 
 ‘My dearest girl,’ urged Mr Sampson, ‘she ought to know it.’
 
-‘No, George,’ said Lavinia, in a tone of resolute self-denial. ‘No,
+‘No, George,’ said [[Lavinia]], in a tone of resolute [[Self|self]]-denial. ‘No,
 dearest George, let it be buried in oblivion.’
 
 Mr Sampson considered that, ‘too noble.’
 
-‘Nothing is too noble, dearest George,’ returned Lavinia. ‘And Pa, I
-hope you will be careful not to refer before Bella, if you can help
+‘Nothing is too noble, dearest George,’ returned [[Lavinia]]. ‘And Pa, I
+[[Hope|hope]] you will be careful not to refer before Bella, if you can help
 it, to my engagement to George. It might seem like reminding her of her
-having cast herself away. And I hope, Pa, that you will think it equally
+having cast herself away. And I [[Hope|hope]], Pa, that you will think it equally
 right to avoid mentioning George’s rising prospects, when Bella is
 present. It might seem like taunting her with her own poor fortunes.
 Let me ever remember that I am her younger sister, and ever spare her
@@ -247,7 +247,7 @@ painful contrasts, which could not but wound her sharply.’
 
 Mr Sampson expressed his belief that such was the demeanour of Angels.
 Miss Lavvy replied with solemnity, ‘No, dearest George, I am but too
-well aware that I am merely human.’
+[[Well|well]] aware that I am merely human.’
 
 Mrs Wilfer, for her part, still further improved the occasion by sitting
 with her eyes fastened on her husband, like two great black notes of
@@ -260,10 +260,10 @@ grandeur of the family spectacle on which you are gazing? These
 inquiries proved very harassing to R. W. who, besides being a little
 disturbed by wine, was in perpetual terror of committing himself by the
 utterance of stray words that would betray his guilty foreknowledge.
-However, the scene being over, and—all things considered—well over, he
+However, the scene being over, and—all things considered—[[Well|well]] over, he
 sought refuge in a doze; which gave his lady immense offence.
 
-‘Can you think of your daughter Bella, and sleep?’ she disdainfully
+‘Can you think of your daughter Bella, and [[Sleep|sleep]]?’ she disdainfully
 inquired.
 
 To which he mildly answered, ‘Yes, I think I can, my dear.’
@@ -286,10 +286,10 @@ triumphant.
 darling, how do YOU do, and how’s George Sampson, and how is he getting
 on, and when are you going to be married, and how rich are you going
 to grow? You must tell me all about it, Lavvy dear, immediately.
-John, love, kiss Ma and Lavvy, and then we shall all be at home and
+John, [[Love|love]], kiss Ma and Lavvy, and then we shall all be at [[Home|home]] and
 comfortable.’
 
-Mrs Wilfer stared, but was helpless. Miss Lavinia stared, but was
+Mrs Wilfer stared, but was helpless. Miss [[Lavinia]] stared, but was
 helpless. Apparently with no compunction, and assuredly with no
 ceremony, Bella tossed her bonnet away, and sat down to make the tea.
 
@@ -297,7 +297,7 @@ ceremony, Bella tossed her bonnet away, and sat down to make the tea.
 little Pa), you don’t take milk. John does. I didn’t before I was
 married; but I do now, because John does. John dear, did you kiss Ma and
 Lavvy? Oh, you did! Quite correct, John dear; but I didn’t see you do
-it, so I asked. Cut some bread and butter, John; that’s a love. Ma likes
+it, so I asked. Cut some bread and butter, John; that’s a [[Love|love]]. Ma likes
 it doubled. And now you must tell me, dearest Ma and Lavvy, upon your
 words and honours! Didn’t you for a moment—just a moment—think I was a
 dreadful little wretch when I wrote to say I had run away?’
@@ -305,13 +305,13 @@ dreadful little wretch when I wrote to say I had run away?’
 Before Mrs Wilfer could wave her gloves, the Mendicant’s bride in her
 merriest affectionate manner went on again.
 
-‘I think it must have made you rather cross, dear Ma and Lavvy, and I
-know I deserved that you should be very cross. But you see I had been
+‘I think it must have made you rather [[Cross|cross]], dear Ma and Lavvy, and I
+know I deserved that you should be very [[Cross|cross]]. But you see I had been
 such a heedless, heartless creature, and had led you so to expect that
 I should marry for money, and so to make sure that I was incapable of
-marrying for love, that I thought you couldn’t believe me. Because, you
+marrying for [[Love|love]], that I thought you couldn’t believe me. Because, you
 see, you didn’t know how much of Good, Good, Good, I had learnt from
-John. Well! So I was sly about it, and ashamed of what you supposed me
+John. [[Well]]! So I was sly about it, and ashamed of what you supposed me
 to be, and fearful that we couldn’t understand one another and might
 come to words, which we should all be sorry for afterwards, and so I
 said to John that if he liked to take me without any fuss, he might. And
@@ -323,18 +323,18 @@ said which any of us can be sorry for, and that we are all the best of
 friends at the pleasantest of teas!’
 
 Having got up and kissed them again, she slipped back to her chair
-(after a loop on the road to squeeze her husband round the neck) and
+(after a loop on the [[Road|road]] to squeeze her husband round the neck) and
 again went on.
 
 ‘And now you will naturally want to know, dearest Ma and Lavvy, how
-we live, and what we have got to live upon. Well! And so we live on
+we live, and what we have got to live upon. [[Well]]! And so we live on
 Blackheath, in the charm—ingest of dolls’ houses, de—lightfully
 furnished, and we have a clever little servant who is de—cidedly
 pretty, and we are economical and orderly, and do everything by
 clockwork, and we have a hundred and fifty pounds a year, and we
 have all we want, and more. And lastly, if you would like to know in
 confidence, as perhaps you may, what is my opinion of my husband, my
-opinion is—that I almost love him!’
+opinion is—that I almost [[Love|love]] him!’
 
 ‘And if you would like to know in confidence, as perhaps you may,’
 said her husband, smiling, as he stood by her side, without her having
@@ -342,11 +342,11 @@ detected his approach, ‘my opinion of my wife, my opinion is—.’ But
 Bella started up, and put her hand upon his lips.
 
 ‘Stop, Sir! No, John, dear! Seriously! Please not yet a while! I want to
-be something so much worthier than the doll in the doll’s house.’
+be something so much worthier than the doll in the doll’s [[house]].’
 
 ‘My darling, are you not?’
 
-‘Not half, not a quarter, so much worthier as I hope you may some
+‘Not half, not a quarter, so much worthier as I [[Hope|hope]] you may some
 day find me! Try me through some reverse, John—try me through some
 trial—and tell them after THAT, what you think of me.’
 
@@ -360,12 +360,12 @@ around him, ‘speak a word now!’
 She laid her laughing cheek upon his breast to thank him, and said,
 looking at the rest of them sideways out of her bright eyes: ‘I’ll go
 further, Pa and Ma and Lavvy. John don’t suspect it—he has no idea of
-it—but I quite love him!’
+it—but I quite [[Love|love]] him!’
 
 Even Mrs Wilfer relaxed under the influence of her married daughter, and
 seemed in a majestic manner to imply remotely that if R. W. had been a
 more deserving object, she too might have condescended to come down from
-her pedestal for his beguilement. Miss Lavinia, on the other hand, had
+her pedestal for his beguilement. Miss [[Lavinia]], on the other hand, had
 strong doubts of the policy of the course of treatment, and whether it
 might not spoil Mr Sampson, if experimented on in the case of that young
 gentleman. R. W. himself was for his part convinced that he was father
@@ -374,18 +374,18 @@ favoured of men; which opinion, if propounded to him, Rokesmith would
 probably not have contested.
 
 The newly-married pair left early, so that they might walk at leisure to
-their starting-place from London, for Greenwich. At first they were
+their starting-place from [[London]], for Greenwich. At first they were
 very cheerful and talked much; but after a while, Bella fancied that her
 husband was turning somewhat thoughtful. So she asked him:
 
 ‘John dear, what’s the matter?’
 
-‘Matter, my love?’
+‘Matter, my [[Love|love]]?’
 
 ‘Won’t you tell me,’ said Bella, looking up into his face, ‘what you are
 thinking of?’
 
-‘There’s not much in the thought, my soul. I was thinking whether you
+‘There’s not much in the thought, my [[Soul|soul]]. I was thinking whether you
 wouldn’t like me to be rich?’
 
 ‘You rich, John?’ repeated Bella, shrinking a little.
@@ -404,13 +404,13 @@ you would have a great power of doing good to others.’
 
 ‘Yes, sir, for instance,’ Bella playfully rejoined; ‘but should I
 exercise the power, for instance? And again, sir, for instance; should
-I, at the same time, have a great power of doing harm to myself?’
+I, at the same [[Time|time]], have a great power of doing harm to myself?’
 
 Laughing and pressing her arm, he retorted: ‘But still, again for
 instance; would you exercise that power?’
 
-‘I don’t know,’ said Bella, thoughtfully shaking her head. ‘I hope not.
-I think not. But it’s so easy to hope not and think not, without the
+‘I don’t know,’ said Bella, thoughtfully shaking her head. ‘I [[Hope|hope]] not.
+I think not. But it’s so easy to [[Hope|hope]] not and think not, without the
 riches.’
 
 ‘Why don’t you say, my darling—instead of that phrase—being poor?’ he
@@ -419,7 +419,7 @@ asked, looking earnestly at her.
 ‘Why don’t I say, being poor! Because I am not poor. Dear John, it’s not
 possible that you suppose I think we are poor?’
 
-‘I do, my love.’
+‘I do, my [[Love|love]].’
 
 ‘Oh John!’
 
@@ -430,12 +430,12 @@ ever look, to my thinking, more graceful or more beautiful. But you have
 admired many finer dresses this very day; and is it not natural that I
 wish I could give them to you?’
 
-‘It’s very nice that you should wish it, John. It brings these tears of
+‘It’s very nice that you should wish it, John. It brings these [[Tears|tears]] of
 grateful pleasure into my eyes, to hear you say so with such tenderness.
 But I don’t want them.’
 
 ‘Again,’ he pursued, ‘we are now walking through the muddy streets. I
-love those pretty feet so dearly, that I feel as if I could not bear the
+[[Love|love]] those pretty feet so dearly, that I feel as if I could not bear the
 dirt to soil the sole of your shoe. Is it not natural that I wish you
 could ride in a carriage?’
 
@@ -446,38 +446,38 @@ carriage, believe me.’
 
 ‘You would like one if you could have one, Bella?’
 
-‘I shouldn’t like it for its own sake, half so well as such a wish for
+‘I shouldn’t like it for its own sake, half so [[Well|well]] as such a wish for
 it. Dear John, your wishes are as real to me as the wishes in the Fairy
 story, that were all fulfilled as soon as spoken. Wish me everything
-that you can wish for the woman you dearly love, and I have as good as
+that you can wish for the woman you dearly [[Love|love]], and I have as good as
 got it, John. I have better than got it, John!’
 
-They were not the less happy for such talk, and home was not the less
-home for coming after it. Bella was fast developing a perfect genius
-for home. All the loves and graces seemed (her husband thought) to have
-taken domestic service with her, and to help her to make home engaging.
+They were not the less happy for such talk, and [[Home|home]] was not the less
+[[Home|home]] for coming after it. Bella was fast developing a perfect genius
+for [[Home|home]]. All the loves and graces seemed (her husband thought) to have
+taken domestic service with her, and to help her to make [[Home|home]] engaging.
 
-Her married life glided happily on. She was alone all day, for, after an
-early breakfast her husband repaired every morning to the City, and did
-not return until their late dinner hour. He was ‘in a China house,’ he
+Her married life glided happily on. She was [[Alone|alone]] all day, for, after an
+early breakfast her husband repaired every morning to the [[City]], and did
+not return until their late dinner hour. He was ‘in a China [[house]],’ he
 explained to Bella: which she found quite satisfactory, without pursuing
-the China house into minuter details than a wholesale vision of tea,
+the China [[house]] into minuter details than a wholesale vision of tea,
 rice, odd-smelling silks, carved boxes, and tight-eyed people in more
-than double-soled shoes, with their pigtails pulling their heads of
+than [[Double|double]]-soled shoes, with their pigtails pulling their heads of
 hair off, painted on transparent porcelain. She always walked with her
 husband to the railroad, and was always there again to meet him; her old
 coquettish ways a little sobered down (but not much), and her dress
 as daintily managed as if she managed nothing else. But, John gone to
-business and Bella returned home, the dress would be laid aside, trim
+business and Bella returned [[Home|home]], the dress would be laid aside, trim
 little wrappers and aprons would be substituted, and Bella, putting back
 her hair with both hands, as if she were making the most business-like
 arrangements for going dramatically distracted, would enter on the
 household affairs of the day. Such weighing and mixing and chopping
 and grating, such dusting and washing and polishing, such snipping
 and weeding and trowelling and other small gardening, such making and
-mending and folding and airing, such diverse arrangements, and above all
+[[mending]] and folding and airing, such diverse arrangements, and above all
 such severe study! For Mrs J. R., who had never been wont to do too much
-at home as Miss B. W., was under the constant necessity of referring for
+at [[Home|home]] as Miss B. W., was under the constant necessity of referring for
 advice and support to a sage volume entitled The Complete British Family
 Housewife, which she would sit consulting, with her elbows on the table
 and her temples on her hands, like some perplexed enchantress poring
@@ -485,7 +485,7 @@ over the Black Art. This, principally because the Complete British
 Housewife, however sound a Briton at heart, was by no means an expert
 Briton at expressing herself with clearness in the British tongue,
 and sometimes might have issued her directions to equal purpose in the
-Kamskatchan language. In any crisis of this nature, Bella would suddenly
+Kamskatchan language. In any crisis of this [[Nature|nature]], Bella would suddenly
 exclaim aloud, ‘Oh you ridiculous old thing, what do you mean by that?
 You must have been drinking!’ And having made this marginal note, would
 try the Housewife again, with all her dimples screwed into an expression
@@ -495,26 +495,26 @@ There was likewise a coolness on the part of the British Housewife,
 which Mrs John Rokesmith found highly exasperating. She would say,
 ‘Take a salamander,’ as if a general should command a private to catch
 a Tartar. Or, she would casually issue the order, ‘Throw in a handful—’
-of something entirely unattainable. In these, the Housewife’s most
+of something entirely [[Unattainable|unattainable]]. In these, the Housewife’s most
 glaring moments of unreason, Bella would shut her up and knock her on
 the table, apostrophising her with the compliment, ‘O you ARE a stupid
-old Donkey! Where am I to get it, do you think?’
+old [[donkey|Donkey]]! Where am I to get it, do you think?’
 
 Another branch of study claimed the attention of Mrs John Rokesmith for
 a regular period every day. This was the mastering of the newspaper, so
 that she might be close up with John on general topics when John came
-home. In her desire to be in all things his companion, she would have
+[[Home|home]]. In her [[Desire|desire]] to be in all things his companion, she would have
 set herself with equal zeal to master Algebra, or Euclid, if he had
-divided his soul between her and either. Wonderful was the way in which
-she would store up the City Intelligence, and beamingly shed it
+divided his [[Soul|soul]] between her and either. Wonderful was the way in which
+she would store up the [[City]] Intelligence, and beamingly shed it
 upon John in the course of the evening; incidentally mentioning the
 commodities that were looking up in the markets, and how much gold had
 been taken to the Bank, and trying to look wise and serious over it
 until she would laugh at herself most charmingly and would say, kissing
-him: ‘It all comes of my love, John dear.’
+him: ‘It all comes of my [[Love|love]], John dear.’
 
-For a City man, John certainly did appear to care as little as might be
-for the looking up or looking down of things, as well as for the gold
+For a [[City]] man, John certainly did appear to care as little as might be
+for the looking up or looking down of things, as [[Well|well]] as for the gold
 that got taken to the Bank. But he cared, beyond all expression, for his
 wife, as a most precious and sweet commodity that was always looking up,
 and that never was worth less than all the gold in the world. And she,
@@ -525,7 +525,7 @@ husband’s verdict, and he justified it by telling her that she had begun
 her married life as the most endearing creature that could possibly be.
 
 ‘And you have such a cheerful spirit!’ he said, fondly. ‘You are like a
-bright light in the house.’
+bright light in the [[house]].’
 
 ‘Am I truly, John?’
 
@@ -538,9 +538,9 @@ Nothing should induce John to do it, when she asked him not to do it.
 
 ‘—That I sometimes think, John, I feel a little serious.’
 
-‘Are you too much alone, my darling?’
+‘Are you too much [[Alone|alone]], my darling?’
 
-‘O dear, no, John! The time is so short that I have not a moment too
+‘O dear, no, John! The [[Time|time]] is so short that I have not a moment too
 much in the week.’
 
 ‘Why serious, my life, then? When serious?’
@@ -553,7 +553,7 @@ do.’ And she laughed again, and something glistened in her eyes.
 
 ‘Rich, John! How CAN you ask such goose’s questions?’
 
-‘Do you regret anything, my love?’
+‘Do you regret anything, my [[Love|love]]?’
 
 ‘Regret anything? No!’ Bella confidently answered. But then, suddenly
 changing, she said, between laughing and glistening: ‘Oh yes, I do
@@ -576,19 +576,19 @@ more than usually fantastic with him.
 as soon as you could get out of school. And how have they used you at
 school to-day, you dear?’
 
-‘Well, my pet,’ replied the cherub, smiling and rubbing his hands as she
+‘[[Well]], my pet,’ replied the cherub, smiling and rubbing his hands as she
 sat him down in his chair, ‘I attend two schools. There’s the Mincing
 Lane establishment, and there’s your mother’s Academy. Which might you
 mean, my dear?’
 
 ‘Both,’ said Bella.
 
-‘Both, eh? Why, to say the truth, both have taken a little out of me
-to-day, my dear, but that was to be expected. There’s no royal road to
+‘Both, eh? Why, to say the [[Truth|truth]], both have taken a little out of me
+to-day, my dear, but that was to be expected. There’s no royal [[Road|road]] to
 learning; and what is life but learning!’
 
 ‘And what do you do with yourself when you have got your learning by
-heart, you silly child?’
+heart, you silly [[Child|child]]?’
 
 ‘Why then, my dear,’ said the cherub, after a little consideration, ‘I
 suppose I die.’
@@ -607,7 +607,7 @@ little fellow his supper, you know.’
 
 ‘He has been grubbing and grubbing at school,’ said Bella, looking at
 her father’s hand and lightly slapping it, ‘till he’s not fit to be
-seen. O what a grubby child!’
+seen. O what a grubby [[Child|child]]!’
 
 ‘Indeed, my dear,’ said her father, ‘I was going to ask to be allowed to
 wash my hands, only you find me out so soon.’
@@ -636,15 +636,15 @@ waiting to be finished.
 and have your supper.’
 
 The cherub investing himself with his coat was led back to his
-corner—where, but for having no egotism in his pleasant nature, he
-would have answered well enough for that radiant though self-sufficient
+corner—where, but for having no egotism in his pleasant [[Nature|nature]], he
+would have answered [[Well|well]] enough for that radiant though [[Self|self]]-sufficient
 boy, Jack Horner—Bella with her own hands laid a cloth for him, and
 brought him his supper on a tray. ‘Stop a moment,’ said she, ‘we must
 keep his little clothes clean;’ and tied a napkin under his chin, in a
 very methodical manner.
 
 While he took his supper, Bella sat by him, sometimes admonishing him
-to hold his fork by the handle, like a polite child, and at other times
+to hold his fork by the handle, like a polite [[Child|child]], and at other times
 carving for him, or pouring out his drink. Fantastic as it all was, and
 accustomed as she ever had been to make a plaything of her good father,
 ever delighted that she should put him to that account, still there was
@@ -658,7 +658,7 @@ underlying seriousness.
 It was a circumstance in support of this view of the case, that when she
 had lighted her father’s pipe, and mixed him his glass of grog, she sat
 down on a stool between her father and her husband, leaning her arm upon
-the latter, and was very quiet. So quiet, that when her father rose to
+the latter, and was very quiet. So quiet, that when her father [[Rose|rose]] to
 take his leave, she looked round with a start, as if she had forgotten
 his being there.
 
@@ -666,20 +666,20 @@ his being there.
 
 ‘Yes, my dear. Do you?’
 
-‘I have not written to Lizzie Hexam since I wrote and told her that I
-really had a lover—a whole one. I have often thought I would like to
+‘I have not written to [[Lizzie Hexam]] since I wrote and told her that I
+really had a [[Lover|lover]]—a whole one. I have often thought I would like to
 tell her how right she was when she pretended to read in the live coals
-that I would go through fire and water for him. I am in the humour to
-tell her so to-night, John, and I’ll stay at home and do it.’
+that I would go through [[Fire|fire]] and [[Water|water]] for him. I am in the [[Humour|humour]] to
+tell her so to-[[Night|night]], John, and I’ll stay at [[Home|home]] and do it.’
 
 ‘You are tired.’
 
-‘Not at all tired, John dear, but in the humour to write to Lizzie. Good
-night, dear Pa. Good night, you dear, good, gentle Pa!’
+‘Not at all tired, John dear, but in the [[Humour|humour]] to write to Lizzie. Good
+[[Night|night]], dear Pa. Good [[Night|night]], you dear, good, gentle Pa!’
 
 Left to herself she sat down to write, and wrote Lizzie a long letter.
 She had but completed it and read it over, when her husband came back.
-‘You are just in time, sir,’ said Bella; ‘I am going to give you your
+‘You are just in [[Time|time]], sir,’ said Bella; ‘I am going to give you your
 first curtain lecture. It shall be a parlour-curtain lecture. You shall
 take this chair of mine when I have folded my letter, and I will take
 the stool (though you ought to take it, I can tell you, sir, if it’s
@@ -704,7 +704,7 @@ secret, and answered, ‘John Rokesmith, my dear.’
 
 With a returning suspicion that something might have betrayed him to
 her, he answered, interrogatively, ‘My godfathers and my godmothers,
-dear love?’
+dear [[Love|love]]?’
 
 ‘Pretty good!’ said Bella. ‘Not goodest good, because you hesitate about
 it. However, as you know your Catechism fairly, so far, I’ll let you off
@@ -725,7 +725,7 @@ want nothing on earth, and I want you to believe it.’
 
 ‘It’s not all, John dear,’ Bella hesitated. ‘It’s only Firstly. There’s
 a dreadful Secondly, and a dreadful Thirdly to come—as I used to say to
-myself in sermon-time when I was a very small-sized sinner at church.’
+myself in sermon-[[Time|time]] when I was a very small-sized sinner at church.’
 
 ‘Let them come, my dearest.’
 
@@ -735,19 +735,19 @@ heart of hearts—?’
 ‘Which is not in my keeping,’ he rejoined.
 
 ‘No, John, but the key is.—Are you absolutely certain that down at the
-bottom of that heart of hearts, which you have given to me as I
+[[Bottom|bottom]] of that heart of hearts, which you have given to me as I
 have given mine to you, there is no remembrance that I was once very
 mercenary?’
 
-‘Why, if there were no remembrance in me of the time you speak of,’ he
-softly asked her with his lips to hers, ‘could I love you quite as well
+‘Why, if there were no remembrance in me of the [[Time|time]] you speak of,’ he
+softly asked her with his lips to hers, ‘could I [[Love|love]] you quite as [[Well|well]]
 as I do; could I have in the Calendar of my life the brightest of its
 days; could I whenever I look at your dear face, or hear your dear
 voice, see and hear my noble champion? It can never have been that which
 made you serious, darling?’
 
 ‘No John, it wasn’t that, and still less was it Mrs Boffin, though I
-love her. Wait a moment, and I’ll go on with the lecture. Give me a
+[[Love|love]] her. Wait a moment, and I’ll go on with the lecture. Give me a
 moment, because I like to cry for joy. It’s so delicious, John dear, to
 cry for joy.’
 
@@ -758,7 +758,7 @@ she said, ‘I think I am ready now for Thirdly, John.’
 
 ‘I believe, John,’ pursued Bella, ‘that you believe that I believe—’
 
-‘My dear child,’ cried her husband gaily, ‘what a quantity of
+‘My dear [[Child|child]],’ cried her husband gaily, ‘what a quantity of
 believing!’
 
 ‘Isn’t there?’ said Bella, with another laugh. ‘I never knew such a
@@ -774,10 +774,10 @@ had to stint ourselves a little in purchases that we can afford to
 make now—would you still have the same confidence in my being quite
 contented, John?’
 
-‘Precisely the same confidence, my soul.’
+‘Precisely the same confidence, my [[Soul|soul]].’
 
 ‘Thank you, John dear, thousands upon thousands of times. And I may take
-it for granted, no doubt,’ with a little faltering, ‘that you would be
+it for granted, no [[Doubt|doubt]],’ with a little faltering, ‘that you would be
 quite as contented yourself John? But, yes, I know I may. For, knowing
 that I should be so, how surely I may know that you would be so; you who
 are so much stronger, and firmer, and more reasonable and more generous,
@@ -795,7 +795,7 @@ but she had returned to the investigation of the coat-button that had
 engaged her attention a few hours before, and scarcely seemed to heed
 what he said.
 
-‘And now we have got to the bottom of it at last,’ cried her husband,
+‘And now we have got to the [[Bottom|bottom]] of it at last,’ cried her husband,
 rallying her, ‘and this is the thing that made you serious?’
 
 ‘No dear,’ said Bella, twisting the button and shaking her head, ‘it
@@ -816,5 +816,5 @@ ships that might be sailing towards us from the unknown seas?’
 
 ‘Perfectly, my darling!’
 
-‘I think...among them...there is a ship upon the ocean...bringing...to
+‘I think...among them...there is a [[Ship|ship]] upon the ocean...bringing...to
 you and me...a little baby, John.’

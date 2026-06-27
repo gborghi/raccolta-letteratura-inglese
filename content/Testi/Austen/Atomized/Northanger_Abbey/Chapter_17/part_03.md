@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 16 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 16 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -24,15 +24,15 @@ borne by him without discontent. Catherine, whose expectations had been
 
 as unfixed as her ideas of her father’s income, and whose judgment was
 
-now entirely led by her brother, felt equally well satisfied, and
+now entirely led by her brother, felt equally [[Well|well]] satisfied, and
 
-heartily congratulated Isabella on having everything so pleasantly
+heartily congratulated [[Isabella]] on having everything so pleasantly
 
 settled.
 
 
 
-“It is very charming indeed,” said Isabella, with a grave face. “Mr.
+“It is very charming indeed,” said [[Isabella]], with a [[Grave|grave]] face. “Mr.
 
 Morland has behaved vastly handsome indeed,” said the gentle Mrs.
 
@@ -44,7 +44,7 @@ _can_ do more by and by, I dare say he will, for I am sure he must be
 
 an excellent good-hearted man. Four hundred is but a small income to
 
-begin on indeed, but your wishes, my dear Isabella, are so moderate,
+begin on indeed, but your wishes, my dear [[Isabella]], are so moderate,
 
 you do not consider how little you ever want, my dear.”
 
@@ -66,7 +66,7 @@ the affection it makes everybody feel for you. There never was a young
 
 woman so beloved as you are by everybody that knows you; and I dare say
 
-when Mr. Morland sees you, my dear child—but do not let us distress our
+when Mr. Morland sees you, my dear [[Child|child]]—but do not let us distress our
 
 dear Catherine by talking of such things. Mr. Morland has behaved so
 
@@ -94,15 +94,15 @@ Catherine was hurt by these insinuations. “I am very sure,” said she,
 
 
 
-Isabella recollected herself. “As to that, my sweet Catherine, there
+[[Isabella]] recollected herself. “As to that, my sweet Catherine, there
 
-cannot be a doubt, and you know me well enough to be sure that a much
+cannot be a [[Doubt|doubt]], and you know me [[Well|well]] enough to be sure that a much
 
 smaller income would satisfy me. It is not the want of more money that
 
 makes me just at present a little out of spirits; I hate money; and if
 
-our union could take place now upon only fifty pounds a year, I should
+our [[Union|union]] could take place now upon only fifty pounds a year, I should
 
 not have a wish unsatisfied. Ah! my Catherine, you have found me out.
 
@@ -112,11 +112,11 @@ to pass before your brother can hold the living.”
 
 
 
-“Yes, yes, my darling Isabella,” said Mrs. Thorpe, “we perfectly see
+“Yes, yes, my darling [[Isabella]],” said Mrs. Thorpe, “we perfectly see
 
 into your heart. You have no disguise. We perfectly understand the
 
-present vexation; and everybody must love you the better for such a
+present vexation; and everybody must [[Love|love]] you the better for such a
 
 noble honest affection.”
 
@@ -124,9 +124,9 @@ noble honest affection.”
 
 Catherine’s uncomfortable feelings began to lessen. She endeavoured to
 
-believe that the delay of the marriage was the only source of
+believe that the delay of the [[Marriage|marriage]] was the only source of
 
-Isabella’s regret; and when she saw her at their next interview as
+[[Isabella]]’s regret; and when she saw her at their next interview as
 
 cheerful and amiable as ever, endeavoured to forget that she had for a
 

@@ -17,12 +17,12 @@ tags:
 THE CORNER
 
 Modem England cannot live any longer on that old compromise of
-Queen Victoria, loyalty and liberty, Anglicanism and agnosticism,
+[[Queen]] Victoria, loyalty and liberty, Anglicanism and agnosticism,
 Lord Tennyson and the party system.  It was a generous age;
 it was a liberal and honourable age; we all owe everything to it.
-There was something about its innocent assumption of all good things
+There was something about its [[Innocent|innocent]] assumption of all good things
 at once, its combination of all the inconsistent virtues, that will
-always remind us of a home.  But it is no house for us any longer.
-We have gone down a road; and we have turned a corner.
+always remind us of a [[Home|home]].  But it is no [[house]] for us any longer.
+We have gone down a [[Road|road]]; and we have turned a corner.
 
                                                 Daily News, May 14th, 1910

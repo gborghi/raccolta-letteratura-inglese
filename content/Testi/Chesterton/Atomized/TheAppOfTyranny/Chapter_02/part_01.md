@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 1 (part 1)"
+title: "[[TheAppOfTyranny]] — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -24,13 +24,13 @@ THE WAR ON THE WORD
 
 
 
-It will hardly be denied that there is one lingering doubt in many, who
+It will hardly be denied that there is one lingering [[Doubt|doubt]] in many, who
 
-recognise unavoidable self-defence in the instant parry of the English
+recognise unavoidable [[Self|self]]-defence in the instant parry of the English
 
-sword, and who have no great love for the sweeping sabre of Sadowa and
+[[Sword|sword]], and who have no great [[Love|love]] for the sweeping sabre of Sadowa and
 
-Sedan. That doubt is the doubt whether Russia, as compared with Prussia, is
+Sedan. That [[Doubt|doubt]] is the [[Doubt|doubt]] whether [[Russia]], as compared with Prussia, is
 
 sufficiently decent and democratic to be the ally of liberal and civilised
 
@@ -62,15 +62,15 @@ given discussion, it does not even matter if it means something else in
 
 some other and quite distinct discussion. We have a perfect right to say
 
-that the width of a window comes to four feet; even if we instantly and
+that the width of a [[Window|window]] comes to four feet; even if we instantly and
 
 cheerfully change the subject to the larger mammals; and say that an
 
-elephant has four feet. The identity of the words does not matter, because
+elephant has four feet. The [[Identity|identity]] of the words does not matter, because
 
-there is no doubt at all about the meanings; because nobody is likely to
+there is no [[Doubt|doubt]] at all about the meanings; because nobody is likely to
 
-think of an elephant as four foot long, or of a window as having tusks and
+think of an elephant as four foot long, or of a [[Window|window]] as having tusks and
 
 a curly trunk.
 
@@ -88,7 +88,7 @@ think, really mean something that really exists, name or no name. Both mean
 
 different things. And if we ask what these different things are, we shall
 
-understand why England and France prefer Russia; and consider Prussia the
+understand why England and France prefer [[Russia]]; and consider Prussia the
 
 really dangerous barbarian of the two. To begin with, it goes so much
 
@@ -104,7 +104,7 @@ between us and the Alliance. But not long before, the flogging of women by
 
 an Austrian general led to that officer being thrashed in the streets of
 
-London by Barclay and Perkins' draymen. And as for the third power, the
+[[London]] by Barclay and Perkins' draymen. And as for the third power, the
 
 Prussians, it seems clear that they have treated Belgian women in a style
 
@@ -116,7 +116,7 @@ use of the word on either side. When the German Emperor complains of our
 
 allying ourselves with a barbaric and half-oriental power he is not (I
 
-assure you) shedding tears over the grave of Kosciusko. And when I say (as
+assure you) shedding [[Tears|tears]] over the [[Grave|grave]] of Kosciusko. And when I say (as
 
 I do most heartily) that the German Emperor is a barbarian, I am not merely
 
@@ -138,7 +138,7 @@ If the German calls the Russian barbarous he presumably means imperfectly
 
 civilised. There is a certain path along which Western nations have
 
-proceeded in recent times; and it is tenable that Russia has not proceeded
+proceeded in recent times; and it is tenable that [[Russia]] has not proceeded
 
 so far as the others: that she has less of the special modern system in
 
@@ -152,13 +152,13 @@ Therefore he is, in the German sense, a barbarian. Poor fellows like Gorky
 
 and Dostoieffsky have to form their own reflections on the scenery, without
 
-the assistance of large quotations from Schiller on garden seats; or
+the assistance of large quotations from Schiller on [[Garden|garden]] seats; or
 
 inscriptions directing them to pause and thank the All-Father for the
 
 finest view in Hesse-Pumpernickel. The Russians, having nothing but their
 
-faith, their fields, their great courage, and their self-governing
+[[Faith|faith]], their fields, their great [[Courage|courage]], and their [[Self|self]]-governing
 
 communes, are quite cut off from what is called (in the fashionable street
 
@@ -166,7 +166,7 @@ in Frankfort) The True, The Beautiful and The Good. There is a real sense
 
 in which one can call such backwardness barbaric; by comparison with the
 
-Kaiserstrasse; and in that sense it is true of Russia.
+Kaiserstrasse; and in that sense it is true of [[Russia]].
 
 
 

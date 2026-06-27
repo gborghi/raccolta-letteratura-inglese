@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 6)"
+title: "[[Eugenics]] — Part 2 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -31,25 +31,25 @@ to him by a young man of the upper classes, holding a slip of paper.
 Having gone into this passage he comes out of it again, is counted
 by the young man and proceeds downstairs again; where he takes
 up the cigar once more, being careful not to break the ash.
-This process, which is known as Representative government,
+This process, which is known as Representative [[government]],
 has never called for any great variety in the manner of his life.
 Nevertheless, while his Parliamentary policy is unchanged, his change
-from one side of the House to the other did correspond with a
+from one side of the [[house|House]] to the other did correspond with a
 certain change in his general policy in commerce and social life.
-The change of the party label is by this time quite a trifling matter;
-but there was in his case a change of philosophy or at least a change
+The change of the party label is by this [[Time|time]] quite a trifling matter;
+but there was in his case a change of [[philosophy]] or at least a change
 of project; though it was not so much becoming a Tory, as becoming
-rather the wrong kind of Socialist.  He is a man with a history.
-It is a sad history, for he is certainly a less good man than
+rather the wrong kind of Socialist.  He is a man with a [[history]].
+It is a sad [[history]], for he is certainly a less good man than
 he was when he started.  That is why he is the man who is really
-behind Eugenics.  It is because he has degenerated that he has come
+behind [[Eugenics]].  It is because he has degenerated that he has come
 to talking of Degeneration.
 
 In his Radical days (to quote from one who corresponded in some
 ways to this type) he was a much better man, because he was
 a much less enlightened one.  The hard impudence of his first
-Manchester Individualism was softened by two relatively humane qualities;
-the first was a much great manliness in his pride; the second was a much
+Manchester [[Individualism]] was softened by two relatively humane qualities;
+the first was a much great manliness in his [[Pride|pride]]; the second was a much
 greater sincerity in his optimism.  For the first point, the modern
 capitalist is merely industrial; but this man was also industrious.
 He was proud of hard work; nay, he was even proud of low work ---
@@ -62,7 +62,7 @@ except spelling," the Individualist spent his life in hiding his
 prosperous parents.  He was more like an American plutocrat when he began;
 but he has since lost the American simplicity.  The Frenchman
 works until he can't play; and then thanks the devil, his master,
-that he is donkey enough to die in harness.  But the Englishman,
+that he is [[donkey]] enough to die in harness.  But the Englishman,
 as he has since become, works until he can pretend that he never
 worked at all.  He becomes as far as possible another person ---
 a country gentleman who has never heard of his shop; one whose left
@@ -74,20 +74,20 @@ he neglects his business, he forsakes his wife, he forgets his God."
 He did not seem to realize that it is the chief aim of many a modern
 capitalist's life to forget all three.
 
-This abandonment of a boyish vanity in work, this substitution
-of a senile vanity in indolence, this is the first respect
+This abandonment of a boyish [[Vanity|vanity]] in work, this substitution
+of a senile [[Vanity|vanity]] in [[Indolence|indolence]], this is the first respect
 in which the rich Englishman has fallen.  He was more of a man
 when he was at least a master-workman and not merely a master.
 And the second important respect in which he was better at
 the beginning is this:  that he did then, in some hazy way,
-half believe that he was enriching other people as well as himself.
+half believe that he was enriching other people as [[Well|well]] as himself.
 The optimism of the early Victorian Individualists was not
 wholly hypocritical.  Some of the clearest-headed and blackest-hearted
 of them, such as Malthus, saw where things were going, and boldly
-based their Manchester city on pessimism instead of optimism.
+based their Manchester [[City|city]] on pessimism instead of optimism.
 But this was not the general case; most of the decent rich of
-the Bright and Cobden sort did have a kind of confused faith that
-the economic conflict would work well in the long run for everybody.
+the Bright and Cobden sort did have a kind of confused [[Faith|faith]] that
+the economic conflict would work [[Well|well]] in the long run for everybody.
 They thought the troubles of the poor were incurable by State action
 (they thought that of all troubles), but they did not cold-bloodedly
 contemplate the prospect of those troubles growing worse and worse.
@@ -95,42 +95,42 @@ By one of those tricks or illusions of the brain to which the luxurious
 are subject in all ages, they sometimes seemed to feel as if the populace
 had triumphed symbolically in their own persons.  They blasphemously
 thought about their thrones of gold what can only be said about a
-cross --- that they, being lifted up, would draw all men after them.
-They were so full of the romance that anybody could be Lord Mayor,
+[[Cross|cross]] --- that they, being lifted up, would draw all men after them.
+They were so full of the [[Romance|romance]] that anybody could be [[Lord Mayor]],
 that they seemed to have slipped into thinking that everybody could.
 It seemed as if a hundred Dick Whittingtons, accompanied by a
-hundred cats, could all be accommodated at the Mansion House.
+hundred cats, could all be accommodated at the Mansion [[house|House]].
 It was all nonsense; but it was not (until later) all humbug.
 
 Step by step, however, with a horrid and increasing clearness,
 this man discovered what he was doing.  It is generally one of the worst
 discoveries a man can make.  At the beginning, the British plutocrat was
-probably quite as honest in suggesting that every tramp carried a magic
+probably quite as honest in suggesting that every tramp carried a [[Magic|magic]]
 cat like Dick Whittington, as the Bonapartist patriot was in saying
 that every French soldier carried a marshal's baton in his knapsack.
 But it is exactly here that the difference and the danger appears.
-There is no comparison between a well-managed thing like Napoleon's
+There is no comparison between a [[Well|well]]-managed thing like Napoleon's
 army and an unmanageable thing like modern competition.
 Logically, doubtless, it was impossible that every soldier should
 carry a marshal's baton; they could not all be marshals anymore
 than they could all be mayors.  But if the French soldier did not
 always have a baton in his knapsack, he always had a knapsack.
-But when that Self-Helper who bore the adorable name of Smiles
+But when that [[Self]]-Helper who bore the adorable name of Smiles
 told the English tramp that he carried a coronet in his bundle,
 the English tramp had an unanswerable answer.  He pointed out that
 he had no bundle.  The powers that ruled him had not fitted him
 with a knapsack, any more than they had fitted him with a future ---
 or even a present.  The destitute Englishman, so far from hoping
 to become anything, had never been allowed even to be anything.
-The French soldier's ambition may have been in practice not only a short,
+The French soldier's [[Ambition|ambition]] may have been in practice not only a short,
 but even a deliberately shortened ladder, in which the top rungs
-were knocked out.  But for the English it was the bottom rungs
+were knocked out.  But for the English it was the [[Bottom|bottom]] rungs
 that were knocked out, so that they could not even begin to climb.
 And sooner or later, in exact proportion to his intelligence,
 the English plutocrat began to understand not only that the poor
 were impotent, but that their impotence had been his only power.
-The truth was not merely that his riches had left them poor;
-it was that nothing but their poverty could have been strong
-enough to make him rich.  It is this paradox, as we shall see,
+The [[Truth|truth]] was not merely that his riches had left them poor;
+it was that nothing but their [[Poverty|poverty]] could have been strong
+enough to make him rich.  It is this [[Paradox|paradox]], as we shall see,
 that creates the curious difference between him and every other
 kind of robber.

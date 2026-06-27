@@ -1,5 +1,5 @@
 ---
-title: "Diddling (part 1)"
+title: "[[Diddling]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Diddling-(Poe)"
@@ -40,15 +40,15 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      Diddling—or the abstract idea conveyed by the verb to diddle—is
+      [[Diddling]]—or the abstract idea conveyed by the verb to diddle—is
 
-      sufficiently well understood. Yet the fact, the deed, the thing
+      sufficiently [[Well|well]] understood. Yet the fact, the deed, the thing
 
       _diddling_, is somewhat difficult to define. We may get, however,
 
       at a tolerably distinct conception of the matter in hand, by
 
-      defining—not the thing, diddling, in itself—but man, as an animal
+      defining—not the thing, [[Diddling|diddling]], in itself—but man, as an animal
 
       that diddles. Had Plato but hit upon this, he would have been
 
@@ -70,7 +70,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      What constitutes the essence, the nare, the principle of diddling
+      What constitutes the essence, the nare, the principle of [[Diddling|diddling]]
 
       is, in fact, peculiar to the class of creatures that wear coats
 
@@ -86,7 +86,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      Diddling, rightly considered, is a compound, of which the
+      [[Diddling]], rightly considered, is a compound, of which the
 
       ingredients are minuteness, interest, perseverance, ingenuity,
 
@@ -102,7 +102,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       he then, at once, loses his distinctive features, and becomes
 
-      what we term “financier.” This latter word conveys the diddling
+      what we term “financier.” This latter word conveys the [[Diddling|diddling]]
 
       idea in every respect except that of magnitude. A diddler may
 
@@ -116,7 +116,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      _Interest:_—Your diddler is guided by self-interest. He scorns to
+      _Interest:_—Your diddler is guided by [[Self|self]]-interest. He scorns to
 
       diddle for the mere _sake_ of the diddle. He has an object in
 
@@ -158,7 +158,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       carries the war into Africa. He conquers all by assault. He would
 
-      not fear the daggers of Frey Herren. With a little more prudence
+      not [[Fear|fear]] the daggers of Frey Herren. With a little more prudence
 
       Dick Turpin would have made a good diddler; with a trifle less
 
@@ -210,11 +210,11 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       nobody sees but himself. He grins when his daily work is
 
-      done—when his allotted labors are accomplished—at night in his
+      done—when his allotted labors are accomplished—at [[Night|night]] in his
 
       own closet, and altogether for his own private entertainment. He
 
-      goes home. He locks his door. He divests himself of his clothes.
+      goes [[Home|home]]. He locks his door. He divests himself of his clothes.
 
       He puts out his candle. He gets into bed. He places his head upon
 

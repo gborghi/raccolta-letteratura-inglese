@@ -1,5 +1,5 @@
 ---
-title: "The Business Man (part 1)"
+title: "[[The Business Man]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Business-Man-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Method is the soul of business.—OLD SAYING.
+Method is the [[Soul|soul]] of business.—OLD SAYING.
 
 
 
@@ -30,11 +30,11 @@ Method is the soul of business.—OLD SAYING.
 
       what they call an orderly manner. Now here, I conceive, is a
 
-      positive paradox. True method appertains to the ordinary and the
+      positive [[Paradox|paradox]]. True method appertains to the ordinary and the
 
-      obvious alone, and cannot be applied to the _outré_. What
+      obvious [[Alone|alone]], and cannot be applied to the _outré_. What
 
-      definite idea can a body attach to such expressions as
+      definite idea can a [[Body|body]] attach to such expressions as
 
       “methodical Jack o’ Dandy,” or “a systematical Will o’ the Wisp”?
 
@@ -44,7 +44,7 @@ Method is the soul of business.—OLD SAYING.
 
       are, but for a fortunate accident which happened to me when I was
 
-      a very little boy. A good-hearted old Irish nurse (whom I shall
+      a very little boy. A good-hearted old Irish [[Nurse|nurse]] (whom I shall
 
       not forget in my will) took me up one day by the heels, when I
 
@@ -58,7 +58,7 @@ Method is the soul of business.—OLD SAYING.
 
       bump arose at once on my sinciput, and turned out to be as pretty
 
-      an organ of order as one shall see on a summer’s day. Hence that
+      an organ of order as one shall see on a [[Summer|summer]]’s day. Hence that
 
       positive appetite for system and regularity which has made me the
 
@@ -84,7 +84,7 @@ Method is the soul of business.—OLD SAYING.
 
       whatever to be considered as a business at all. Thus you may tell
 
-      these characters immediately by the nature of their occupations.
+      these characters immediately by the [[Nature|nature]] of their occupations.
 
       If you ever perceive a man setting up as a merchant or a
 
@@ -106,9 +106,9 @@ Method is the soul of business.—OLD SAYING.
 
       My day-book and ledger will evince this in a minute. They are
 
-      well kept, though I say it myself; and, in my general habits of
+      [[Well|well]] kept, though I say it myself; and, in my general habits of
 
-      accuracy and punctuality, I am not to be beat by a clock.
+      accuracy and punctuality, I am not to be beat by a [[Clock|clock]].
 
       Moreover, my occupations have been always made to chime in with
 
@@ -116,29 +116,29 @@ Method is the soul of business.—OLD SAYING.
 
       indebted, upon this score, to my exceedingly weak-minded parents,
 
-      who, beyond doubt, would have made an arrant genius of me at
+      who, beyond [[Doubt|doubt]], would have made an arrant genius of me at
 
-      last, if my guardian angel had not come, in good time, to the
+      last, if my guardian angel had not come, in good [[Time|time]], to the
 
-      rescue. In biography the truth is every thing, and in
+      rescue. In [[Biography|biography]] the [[Truth|truth]] is every thing, and in
 
-      autobiography it is especially so—yet I scarcely hope to be
+      autobiography it is especially so—yet I scarcely [[Hope|hope]] to be
 
       believed when I state, however solemnly, that my poor father put
 
       me, when I was about fifteen years of age, into the
 
-      counting-house of what be termed “a respectable hardware and
+      counting-[[house]] of what be termed “a respectable hardware and
 
       commission merchant doing a capital bit of business!” A capital
 
       bit of fiddlestick! However, the consequence of this folly was,
 
-      that in two or three days, I had to be sent home to my
+      that in two or three days, I had to be sent [[Home|home]] to my
 
       button-headed family in a high state of fever, and with a most
 
-      violent and dangerous pain in the sinciput, all around about my
+      violent and dangerous [[Pain|pain]] in the sinciput, all around about my
 
       organ of order. It was nearly a gone case with me then—just
 
@@ -152,13 +152,13 @@ Method is the soul of business.—OLD SAYING.
 
       business,” and I felt grateful to the protuberance which had been
 
-      the means of my salvation, as well as to the kindhearted female
+      the means of my salvation, as [[Well|well]] as to the kindhearted female
 
       who had originally put these means within my reach.
 
 
 
-      The most of boys run away from home at ten or twelve years of
+      The most of boys run away from [[Home|home]] at ten or twelve years of
 
       age, but I waited till I was sixteen. I don’t know that I should
 
@@ -174,9 +174,9 @@ Method is the soul of business.—OLD SAYING.
 
       eccentric old people, and running the risk of being made a genius
 
-      of in the end. In this project I succeeded perfectly well at the
+      of in the end. In this project I succeeded perfectly [[Well|well]] at the
 
-      first effort, and by the time I was fairly eighteen, found myself
+      first effort, and by the [[Time|time]] I was fairly eighteen, found myself
 
       doing an extensive and profitable business in the Tailor’s
 
@@ -190,13 +190,13 @@ Method is the soul of business.—OLD SAYING.
 
       feature of my mind. A scrupulous method characterized my actions
 
-      as well as my accounts. In my case it was method—not money—which
+      as [[Well|well]] as my accounts. In my case it was method—not money—which
 
       made the man: at least all of him that was not made by the tailor
 
       whom I served. At nine, every morning, I called upon that
 
-      individual for the clothes of the day. Ten o’clock found me in
+      individual for the clothes of the day. Ten o’[[Clock|clock]] found me in
 
       some fashionable promenade or other place of public amusement.
 

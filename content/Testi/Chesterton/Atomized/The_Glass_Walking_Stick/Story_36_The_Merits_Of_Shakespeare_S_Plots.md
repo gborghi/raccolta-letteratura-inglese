@@ -80,40 +80,40 @@ therefore not imaginative enough to know what that enjoyment is.
 They cannot read an adventure story or indeed any story.
 For instance, nearly all the critics apologize, in a prim
 and priggish manner, for the tale on which turns the Trial Scene
-in `The Merchant of Venice'.  They explain that poor Shakespeare
+in `The Merchant of [[Venice]]'.  They explain that poor Shakespeare
 had taken a barbarous old story and had to make the best of it.
 As a matter of fact, he had taken an uncommonly good story;
 one of the best that he could possibly have had to make the best of.
-It is a clear, pointed, and practical parable against usury;
+It is a clear, pointed, and practical [[Parable|parable]] against usury;
 and if a large number of modern people do not appreciate it,
 it is because a large number of modern people are taught to
 appreciate and even admire usury.  The idea of a man forfeiting
-part of his body (it might have been an arm or leg) is a highly
-philosophical satire on unlimited recovery of ruinous debts.
+part of his [[Body|body]] (it might have been an arm or leg) is a highly
+philosophical [[Satire|satire]] on unlimited recovery of ruinous debts.
 The idea is embodied in all those truly Christian laws about
 wainage and livelihood which were the glory of the Middle Ages.
 The story is excellent, simply as an anecdote working
 up to a climax and ending in an unexpected retort.
-And the end is a truth and not merely a trick.  You do prove
-the falsity of pedantic logic by a reductio ad absurdum.
+And the end is a [[Truth|truth]] and not merely a trick.  You do prove
+the falsity of pedantic [[logic]] by a reductio ad absurdum.
 
 While we have had masses of learned work about the Shakespearean origins,
 we have had very little about the Shakespearean origin.  I mean we
 have had very little on the main matter of his human and natural
 inheritance of the whole civilization of Christendom from which he came.
-It is a commonplace that Shakespeare was a result of the Renaissance;
-but the Renaissance itself was a result of the Middle Ages;
+It is a commonplace that Shakespeare was a result of the [[Renaissance]];
+but the [[Renaissance]] itself was a result of the Middle Ages;
 nor was it by any means merely a revolt against the Middle Ages.
 There are a thousand things in which Shakespeare would be much
-better understood by Dante than he was by Goethe.  I will take
+better understood by [[Dante]] than he was by Goethe.  I will take
 one example, all the stronger for being always taken the other way.
 English patriotism is one of the more manly realities of
 the modern world; and Shakespeare was a passionate patriot.
 But in that very passage in praise of England which is hackneyed
-without ceasing to be holy, about half is a medieval memory of the sort
+without ceasing to be holy, about half is a medieval [[Memory|memory]] of the sort
 called a medieval superstition.  It is not about the spacious
 days of Elizabeth, but the cloistered days of Peter the Hermit.
-It is not about the Armada but about the Crusades--
+It is not about the Armada but about the [[Crusades]]--
 
 As is the sepulchre in stubborn Jewry Of the world's ransom,
 blessed Mary's Son.
@@ -122,5 +122,5 @@ That note was neglected and nearly lost in the whole modern world;
 and scarcely any modern critic would have cared to notice it.
 Only the prodigious events of yesterday have brought
 us back, half-bewildered, into the footsteps of our fathers;
-and the vision of John of Gaunt was fulfilled in the hour
+and the vision of [[John of Gaunt]] was fulfilled in the hour
 when a great English soldier entered Jerusalem on foot.

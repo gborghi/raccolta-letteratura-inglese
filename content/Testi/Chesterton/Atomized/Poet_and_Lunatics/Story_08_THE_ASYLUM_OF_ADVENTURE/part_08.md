@@ -22,7 +22,7 @@ Gale added reflectively:
 "I knew you would never fail to take a hint."
 
 A street or two away from the strange madhouse there was a sort
-of toy park, not much bigger than a back garden, but laid out
+of toy park, not much bigger than a back [[Garden|garden]], but laid out
 in ornamental paths and planted with flowering shrubs, as an oasis
 for nomadic nurses trailing about the babies of that suburb.
 It was also ornamented with long seats with curly backs, and one
@@ -30,12 +30,12 @@ of these seats in its turn was ornamented by a couple clad in black
 and endeavouring, with some bewilderment, to appear respectable.
 Wild as were the events of that afternoon, they had moved very rapidly
 and it was barely evening.  The sunset was settling down about
-the corners of the sky and of the quaint little public garden,
+the corners of the sky and of the quaint little public [[Garden|garden]],
 and there was little noise except the shrill but faint calling
 of some children lingering over some long-drawn-out-game.
 
 It was here that he told her the whole story of the rash vow
-and all that happened between the rescue in the riverside garden
+and all that happened between the rescue in the riverside [[Garden|garden]]
 and the funeral in the Cornish churchyard.
 
 "The only thing I don't understand," she said at last, "is why you
@@ -52,14 +52,14 @@ of being free from punishment because he was an escaped lunatic,
 I was sure that a seed had been sown in Starkey's mind that would sprout.
 I was sure he would follow it up and use it, as he used my fancy
 for the swing or the arbour.  While Jim was alive he knew I
-had a motive for silence; but the moment Jim died he struck.
-He was very quick; his mind is like a flash of lightning;
+had a motive for [[Silence|silence]]; but the moment Jim died he struck.
+He was very quick; his mind is like a flash of [[Lightning|lightning]];
 quick but crooked.  He sent one of his chartered maniacs to brain
 me with a stone on my way to you.  He intercepted my telegram,
 and lured you away before you could be told the whole story.
 But what I want to know is what you think of the whole story."
 
-"The vow was certainly rash enough," she said.  "All that time you
+"The vow was certainly rash enough," she said.  "All that [[Time|time]] you
 might have been painting pictures and doing all sorts of good.
 It doesn't seem right that a genius should be tied to a lunatic
 by a few words."
@@ -74,7 +74,7 @@ A shocking thought!  A perfectly foul idea!"
 "Because," he said, "I want you to make a rash vow.  I want you
 to tie yourself with a few words to a lunatic."
 
-There was a silence, at the end of which she smiled suddenly and put
+There was a [[Silence|silence]], at the end of which she smiled suddenly and put
 her hand on his arm.
 
 "No," she said, "only a silly... I always liked you, even when I thought
@@ -85,7 +85,7 @@ are you doing now?... Oh, I say... for heaven's sake...."
 "What else should I do," he answered calmly, "after what you have
 just said?  I'm going to stand on my head again."
 
-The children in the corner of the little garden gazed with interest at
+The children in the corner of the little [[Garden|garden]] gazed with interest at
 a gentleman in funeral full-dress behaving in a somewhat unusual manner.
 
 THE END

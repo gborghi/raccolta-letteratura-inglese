@@ -24,26 +24,26 @@ The other is his brother, the worst of a bad race.’
 “It was with the greatest difficulty that the boy gathered bodily force
 to speak; but, his spirit spoke with a dreadful emphasis.
 
-“‘We were so robbed by that man who stands there, as all we common dogs
-are by those superior Beings--taxed by him without mercy, obliged to
+“‘We were so robbed by that man who stands there, as all we common [[dogs]]
+are by those superior Beings--taxed by him without [[Mercy|mercy]], obliged to
 work for him without pay, obliged to grind our corn at his mill, obliged
-to feed scores of his tame birds on our wretched crops, and forbidden
+to feed scores of his tame [[Birds|birds]] on our wretched crops, and forbidden
 for our lives to keep a single tame bird of our own, pillaged and
 plundered to that degree that when we chanced to have a bit of meat, we
-ate it in fear, with the door barred and the shutters closed, that his
+ate it in [[Fear|fear]], with the door barred and the shutters closed, that his
 people should not see it and take it from us--I say, we were so robbed,
 and hunted, and were made so poor, that our father told us it was a
-dreadful thing to bring a child into the world, and that what we should
+dreadful thing to bring a [[Child|child]] into the world, and that what we should
 most pray for, was, that our women might be barren and our miserable
 race die out!’
 
 “I had never before seen the sense of being oppressed, bursting forth
-like a fire. I had supposed that it must be latent in the people
+like a [[Fire|fire]]. I had supposed that it must be latent in the people
 somewhere; but, I had never seen it break out, until I saw it in the
 dying boy.
 
-“‘Nevertheless, Doctor, my sister married. He was ailing at that time,
-poor fellow, and she married her lover, that she might tend and comfort
+“‘Nevertheless, Doctor, my sister married. He was ailing at that [[Time|time]],
+poor fellow, and she married her [[Lover|lover]], that she might tend and comfort
 him in our cottage--our dog-hut, as that man would call it. She had not
 been married many weeks, when that man’s brother saw her and admired
 her, and asked that man to lend her to him--for what are husbands among
@@ -54,22 +54,22 @@ willing?’
 
 “The boy’s eyes, which had been fixed on mine, slowly turned to the
 looker-on, and I saw in the two faces that all he said was true. The two
-opposing kinds of pride confronting one another, I can see, even in this
+opposing kinds of [[Pride|pride]] confronting one another, I can see, even in this
 Bastille; the gentleman’s, all negligent indifference; the peasant’s, all
-trodden-down sentiment, and passionate revenge.
+trodden-down sentiment, and passionate [[Revenge|revenge]].
 
 “‘You know, Doctor, that it is among the Rights of these Nobles to
-harness us common dogs to carts, and drive us. They so harnessed him and
+harness us common [[dogs]] to carts, and drive us. They so harnessed him and
 drove him. You know that it is among their Rights to keep us in their
-grounds all night, quieting the frogs, in order that their noble sleep
+grounds all [[Night|night]], quieting the frogs, in order that their noble [[Sleep|sleep]]
 may not be disturbed. They kept him out in the unwholesome mists at
-night, and ordered him back into his harness in the day. But he was
-not persuaded. No! Taken out of harness one day at noon, to feed--if he
+[[Night|night]], and ordered him back into his harness in the day. But he was
+not persuaded. No! Taken out of harness one day at [[Noon|noon]], to feed--if he
 could find food--he sobbed twelve times, once for every stroke of the
 bell, and died on her bosom.’
 
 “Nothing human could have held life in the boy but his determination to
-tell all his wrong. He forced back the gathering shadows of death, as
+tell all his wrong. He forced back the gathering shadows of [[Death|death]], as
 he forced his clenched right hand to remain clenched, and to cover his
 wound.
 
@@ -77,12 +77,12 @@ wound.
 brother took her away; in spite of what I know she must have told his
 brother--and what that is, will not be long unknown to you, Doctor, if
 it is now--his brother took her away--for his pleasure and diversion,
-for a little while. I saw her pass me on the road. When I took the
-tidings home, our father’s heart burst; he never spoke one of the words
+for a little while. I saw her pass me on the [[Road|road]]. When I took the
+tidings [[Home|home]], our father’s heart burst; he never spoke one of the words
 that filled it. I took my young sister (for I have another) to a place
 beyond the reach of this man, and where, at least, she will never be
-_his_ vassal. Then, I tracked the brother here, and last night climbed
-in--a common dog, but sword in hand.--Where is the loft window? It was
+_his_ vassal. Then, I tracked the brother here, and last [[Night|night]] climbed
+in--a common dog, but [[Sword|sword]] in hand.--Where is the loft [[Window|window]]? It was
 somewhere here?’
 
 “The room was darkening to his sight; the world was narrowing around
@@ -92,13 +92,13 @@ over the floor, as if there had been a struggle.
 “‘She heard me, and ran in. I told her not to come near us till he was
 dead. He came in and first tossed me some pieces of money; then struck
 at me with a whip. But I, though a common dog, so struck at him as to
-make him draw. Let him break into as many pieces as he will, the sword
-that he stained with my common blood; he drew to defend himself--thrust
+make him draw. Let him break into as many pieces as he will, the [[Sword|sword]]
+that he stained with my common [[Blood|blood]]; he drew to defend himself--thrust
 at me with all his skill for his life.’
 
 “My glance had fallen, but a few moments before, on the fragments of
-a broken sword, lying among the hay. That weapon was a gentleman’s. In
-another place, lay an old sword that seemed to have been a soldier’s.
+a broken [[Sword|sword]], lying among the hay. That weapon was a gentleman’s. In
+another place, lay an old [[Sword|sword]] that seemed to have been a soldier’s.
 
 “‘Now, lift me up, Doctor; lift me up. Where is he?’
 
@@ -115,14 +115,14 @@ me to rise too, or I could not have still supported him.
 “‘Marquis,’ said the boy, turned to him with his eyes opened wide, and
 his right hand raised, ‘in the days when all these things are to be
 answered for, I summon you and yours, to the last of your bad race, to
-answer for them. I mark this cross of blood upon you, as a sign that
+answer for them. I mark this [[Cross|cross]] of [[Blood|blood]] upon you, as a sign that
 I do it. In the days when all these things are to be answered for,
 I summon your brother, the worst of the bad race, to answer for them
-separately. I mark this cross of blood upon him, as a sign that I do
+separately. I mark this [[Cross|cross]] of [[Blood|blood]] upon him, as a sign that I do
 it.’
 
 “Twice, he put his hand to the wound in his breast, and with his
-forefinger drew a cross in the air. He stood for an instant with the
+forefinger drew a [[Cross|cross]] in the air. He stood for an instant with the
 finger yet raised, and as it dropped, he dropped with it, and I laid him
 down dead.
 
@@ -130,5 +130,5 @@ down dead.
 
 “When I returned to the bedside of the young woman, I found her raving
 in precisely the same order of continuity. I knew that this might last
-for many hours, and that it would probably end in the silence of the
-grave.
+for many hours, and that it would probably end in the [[Silence|silence]] of the
+[[Grave|grave]].

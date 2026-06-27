@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON. (part 1)"
+title: "[[Lady Susan]] — ATHERINE VERNON. (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CATHERINE VERNON.
+[[Catherine Vernon|CATHERINE VERNON]].
 
 
 
@@ -76,7 +76,7 @@ brought her to Churchhill. I think, my dear mother, you would not
 
 disapprove of her as a daughter. She is extremely young, to be sure,
 
-has had a wretched education, and a dreadful example of levity in her
+has had a wretched [[Education|education]], and a dreadful example of levity in her
 
 mother; but yet I can pronounce her disposition to be excellent, and
 
@@ -84,17 +84,17 @@ her natural abilities very good. Though totally without
 
 accomplishments, she is by no means so ignorant as one might expect to
 
-find her, being fond of books and spending the chief of her time in
+find her, being fond of books and spending the chief of her [[Time|time]] in
 
-reading. Her mother leaves her more to herself than she did, and I have
+reading. Her mother [[Leaves|leaves]] her more to herself than she did, and I have
 
 her with me as much as possible, and have taken great pains to overcome
 
 her timidity. We are very good friends, and though she never opens her
 
-lips before her mother, she talks enough when alone with me to make it
+lips before her mother, she talks enough when [[Alone|alone]] with me to make it
 
-clear that, if properly treated by Lady Susan, she would always appear
+clear that, if properly treated by [[Lady Susan]], she would always appear
 
 to much greater advantage. There cannot be a more gentle, affectionate
 
@@ -138,7 +138,7 @@ You will be eager, I know, to hear something further of Frederica, and
 
 perhaps may think me negligent for not writing before. She arrived with
 
-her uncle last Thursday fortnight, when, of course, I lost no time in
+her uncle last [[thursday|Thursday]] fortnight, when, of course, I lost no [[Time|time]] in
 
 demanding the cause of her behaviour; and soon found myself to have
 
@@ -148,13 +148,13 @@ of it frightened her so thoroughly, that, with a mixture of true
 
 girlish perverseness and folly, she resolved on getting out of the
 
-house and proceeding directly by the stage to her friends, the Clarkes;
+[[house]] and proceeding directly by the stage to her friends, the Clarkes;
 
-and had really got as far as the length of two streets in her journey
+and had really got as far as the length of two streets in her [[Journey|journey]]
 
 when she was fortunately missed, pursued, and overtaken. Such was the
 
-first distinguished exploit of Miss Frederica Vernon; and, if we
+first distinguished exploit of Miss [[Frederica Vernon]]; and, if we
 
 consider that it was achieved at the tender age of sixteen, we shall
 
@@ -168,13 +168,13 @@ extraordinary a piece of nicety, considering my daughter’s family
 
 connections, that I can only suppose the lady to be governed by the
 
-fear of never getting her money. Be that as it may, however, Frederica
+[[Fear|fear]] of never getting her money. Be that as it may, however, Frederica
 
 is returned on my hands; and, having nothing else to employ her, is
 
-busy in pursuing the plan of romance begun at Langford. She is actually
+busy in pursuing the plan of [[Romance|romance]] begun at Langford. She is actually
 
-falling in love with Reginald De Courcy! To disobey her mother by
+falling in [[Love|love]] with [[Reginald De Courcy]]! To disobey her mother by
 
 refusing an unexceptionable offer is not enough; her affections must
 
@@ -184,21 +184,21 @@ her age bid fairer to be the sport of mankind. Her feelings are
 
 tolerably acute, and she is so charmingly artless in their display as
 
-to afford the most reasonable hope of her being ridiculous, and
+to afford the most reasonable [[Hope|hope]] of her being ridiculous, and
 
 despised by every man who sees her.
 
 
 
-Artlessness will never do in love matters; and that girl is born a
+Artlessness will never do in [[Love|love]] matters; and that girl is born a
 
-simpleton who has it either by nature or affectation. I am not yet
+simpleton who has it either by [[Nature|nature]] or affectation. I am not yet
 
 certain that Reginald sees what she is about, nor is it of much
 
 consequence. She is now an object of indifference to him, and she would
 
-be one of contempt were he to understand her emotions. Her beauty is
+be one of contempt were he to understand her emotions. Her [[Beauty|beauty]] is
 
 much admired by the Vernons, but it has no effect on him. She is in
 
@@ -218,7 +218,7 @@ rules I have laid down for their discourse. But do not imagine that
 
 with all this lenity I have for a moment given up my plan of her
 
-marriage. No; I am unalterably fixed on this point, though I have not
+[[Marriage|marriage]]. No; I am unalterably fixed on this point, though I have not
 
 yet quite decided on the manner of bringing it about. I should not
 

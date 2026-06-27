@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 4 (part 2)"
+title: "[[thursday]] — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -36,14 +36,14 @@ Syme's eyes were bright with a sympathetic curiosity.
 "What do you do, then?" he said.
 
 "The work of the philosophical policeman," replied the man in blue,
-"is at once bolder and more subtle than that of the ordinary detective.
-The ordinary detective goes to pot-houses to arrest thieves; we go
-to artistic tea-parties to detect pessimists.  The ordinary detective
+"is at once bolder and more subtle than that of the ordinary [[Detective|detective]].
+The ordinary [[Detective|detective]] goes to pot-houses to arrest thieves; we go
+to artistic tea-parties to detect pessimists.  The ordinary [[Detective|detective]]
 discovers from a ledger or a diary that a crime has been committed.
 We discover from a book of sonnets that a crime will be committed.
 We have to trace the origin of those dreadful thoughts that drive
-men on at last to intellectual fanaticism and intellectual crime.
-We were only just in time to prevent the assassination at Hartle pool,
+men on at last to intellectual [[Fanaticism|fanaticism]] and intellectual crime.
+We were only just in [[Time|time]] to prevent the assassination at Hartle pool,
 and that was entirely due to the fact that our Mr. Wilks (a smart
 young fellow) thoroughly understood a triolet."
 
@@ -58,7 +58,7 @@ it means merely a war upon the ignorant and the desperate.
 But this new movement of ours is a very different affair.
 We deny the snobbish English assumption that the uneducated are
 the dangerous criminals.  We remember the Roman Emperors.  We remember
-the great poisoning princes of the Renaissance.  We say
+the great poisoning princes of the [[Renaissance]].  We say
 that the dangerous criminal is the educated criminal.
 We say that the most dangerous criminal now is the entirely
 lawless modern philosopher.  Compared to him, burglars and
@@ -68,9 +68,9 @@ Thieves respect property.  They merely wish the property
 to become their property that they may more perfectly
 respect it.  But philosophers dislike property as property;
 they wish to destroy the very idea of personal possession.
-Bigamists respect marriage, or they would not go through
+Bigamists respect [[Marriage|marriage]], or they would not go through
 the highly ceremonial and even ritualistic formality of bigamy.
-But philosophers despise marriage as marriage.  Murderers respect
+But philosophers despise [[Marriage|marriage]] as [[Marriage|marriage]].  Murderers respect
 human life; they merely wish to attain a greater fulness
 of human life in themselves by the sacrifice of what seems
 to them to be lesser lives.  But philosophers hate life itself,
@@ -91,7 +91,7 @@ parts of police work which are really oppressive and ignominious,
 the harrying of the poor, the spying upon the unfortunate.
 It has given up its more dignified work, the punishment of powerful
 traitors in the State and powerful heresiarchs in the Church.
-The moderns say we must not punish heretics.  My only doubt is
+The moderns say we must not punish heretics.  My only [[Doubt|doubt]] is
 whether we have a right to punish anybody else."
 
 "But this is absurd!" cried the policeman, clasping his hands with
@@ -103,7 +103,7 @@ A moment more, and you may lose the glory of working with us,
 perhaps the glory of dying with the last heroes of the world."
 
 "It is a chance not to be missed, certainly," assented Syme,
-"but still I do not quite understand.  I know as well
+"but still I do not quite understand.  I know as [[Well|well]]
 as anybody that the modern world is full of lawless little
 men and mad little movements.  But, beastly as they are,
 they generally have the one merit of disagreeing with each other.
@@ -111,11 +111,11 @@ How can you talk of their leading one army or hurling one bolt.
 What is this anarchy?"
 
 "Do not confuse it," replied the constable, "with those chance
-dynamite outbreaks from Russia or from Ireland, which are really
+dynamite outbreaks from [[Russia]] or from Ireland, which are really
 the outbreaks of oppressed, if mistaken, men.  This is a vast
 philosophic movement, consisting of an outer and an inner ring.
 You might even call the outer ring the laity and the inner ring
-the priesthood.  I prefer to call the outer ring the innocent section,
+the priesthood.  I prefer to call the outer ring the [[Innocent|innocent]] section,
 the inner ring the supremely guilty section.  The outer ring--
 the main mass of their supporters--are merely anarchists;
 that is, men who believe that rules and formulas have destroyed
@@ -124,6 +124,6 @@ crime are the results of the system that has called it crime.
 They do not believe that the crime creates the punishment.
 They believe that the punishment has created the crime.
 They believe that if a man seduced seven women he would
-naturally walk away as blameless as the flowers of spring.
+naturally walk away as blameless as the [[Flowers|flowers]] of [[spring]].
 They believe that if a man picked a pocket he would naturally
-feel exquisitely good.  These I call the innocent section."
+feel exquisitely good.  These I call the [[Innocent|innocent]] section."

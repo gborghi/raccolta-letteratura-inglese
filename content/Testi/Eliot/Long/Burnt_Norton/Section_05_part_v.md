@@ -15,9 +15,9 @@ tags:
 
 V  
 Words move, music moves  
-Only in time; but that which is only living  
+Only in [[Time|time]]; but that which is only living  
 Can only die. Words, after speech, reach  
-Into the silence. Only by the form, the pattern,  
+Into the [[Silence|silence]]. Only by the form, the pattern,  
 Can words or music reach  
 The stillness, as a Chinese jar still  
 Moves perpetually in its stillness.  
@@ -29,27 +29,27 @@ Before the beginning and after the end.
 And all is always now. Words strain,  
 Crack and sometimes break, under the burden,  
 Under the tension, slip, slide, perish,  
-Decay with imprecision, will not stay in place,  
+[[Decay]] with imprecision, will not stay in place,  
 Will not stay still. Shrieking voices  
 Scolding, mocking, or merely chattering,  
-Always assail them. The Word in the desert  
-Is most attacked by voices of temptation,  
-The crying shadow in the funeral dance,  
+Always assail them. The Word in the [[Desert|desert]]  
+Is most attacked by voices of [[Temptation|temptation]],  
+The crying [[Shadow|shadow]] in the funeral [[Dance|dance]],  
 The loud lament of the disconsolate chimera.  
     The detail of the pattern is movement,  
 As in the figure of the ten stairs.  
-Desire itself is movement  
+[[Desire]] itself is movement  
 Not in itself desirable;  
-Love is itself unmoving,  
+[[Love]] is itself unmoving,  
 Only the cause and end of movement,  
 Timeless, and undesiring  
-Except in the aspect of time  
+Except in the aspect of [[Time|time]]  
 Caught in the form of limitation  
 Between un-being and being.  
 Sudden in a shaft of sunlight  
-Even while the dust moves  
+Even while the [[Dust|dust]] moves  
 There rises the hidden laughter  
 Of children in the foliage  
 Quick now, here, now, always —  
-Ridiculous the waste sad time  
+Ridiculous the waste sad [[Time|time]]  
 Stretching before and after.  

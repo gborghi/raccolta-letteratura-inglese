@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 21 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 21 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,7 +22,7 @@ without claiming a share in what was passing.
 
 “John is in such spirits today!” said she, on his taking Miss Steeles’s
 
-pocket handkerchief, and throwing it out of window—“He is full of
+pocket handkerchief, and throwing it out of [[Window|window]]—“He is full of
 
 monkey tricks.”
 
@@ -46,7 +46,7 @@ such a quiet little thing!”
 
 But unfortunately in bestowing these embraces, a pin in her ladyship’s
 
-head dress slightly scratching the child’s neck, produced from this
+head dress slightly scratching the [[Child|child]]’s neck, produced from this
 
 pattern of gentleness such violent screams, as could hardly be outdone
 
@@ -60,11 +60,11 @@ affection could suggest as likely to assuage the agonies of the little
 
 sufferer. She was seated in her mother’s lap, covered with kisses, her
 
-wound bathed with lavender-water, by one of the Miss Steeles, who was
+wound bathed with lavender-[[Water|water]], by one of the Miss Steeles, who was
 
 on her knees to attend her, and her mouth stuffed with sugar plums by
 
-the other. With such a reward for her tears, the child was too wise to
+the other. With such a reward for her [[Tears|tears]], the [[Child|child]] was too wise to
 
 cease crying. She still screamed and sobbed lustily, kicked her two
 
@@ -78,11 +78,11 @@ successfully applied for a bruised temple, the same remedy was eagerly
 
 proposed for this unfortunate scratch, and a slight intermission of
 
-screams in the young lady on hearing it, gave them reason to hope that
+screams in the young lady on hearing it, gave them reason to [[Hope|hope]] that
 
 it would not be rejected. She was carried out of the room therefore in
 
-her mother’s arms, in quest of this medicine, and as the two boys chose
+her mother’s arms, in [[Quest|quest]] of this medicine, and as the two boys chose
 
 to follow, though earnestly entreated by their mother to stay behind,
 
@@ -106,7 +106,7 @@ heightening alarm, where there is nothing to be alarmed at in reality.”
 
 
 
-“What a sweet woman Lady Middleton is!” said Lucy Steele.
+“What a sweet woman Lady Middleton is!” said [[Lucy Steele]].
 
 
 
@@ -154,7 +154,7 @@ witnessed this morning.”
 
 too much indulged; perhaps they may be the outside of enough; but it is
 
-so natural in Lady Middleton; and for my part, I love to see children
+so natural in Lady Middleton; and for my part, I [[Love|love]] to see children
 
 full of life and spirits; I cannot bear them if they are tame and
 
@@ -192,7 +192,7 @@ Steele.
 
 “We have heard Sir John admire it excessively,” said Lucy, who seemed
 
-to think some apology necessary for the freedom of her sister.
+to think some apology necessary for the [[Freedom|freedom]] of her sister.
 
 
 
@@ -234,7 +234,7 @@ part, I think they are vastly agreeable, provided they dress smart and
 
 behave civil. But I can’t bear to see them dirty and nasty. Now there’s
 
-Mr. Rose at Exeter, a prodigious smart young man, quite a beau, clerk
+Mr. [[Rose]] at Exeter, a prodigious smart young man, quite a beau, clerk
 
 to Mr. Simpson, you know, and yet if you do but meet him of a morning,
 

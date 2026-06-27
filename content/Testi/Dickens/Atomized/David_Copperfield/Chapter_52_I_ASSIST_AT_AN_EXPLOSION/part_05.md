@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 5)"
+title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,7 +20,7 @@ the sentence, under pretence of having lost his place.
 
 ‘“It is not my intention,”’ he continued reading on, ‘“to enter on a
 detailed list, within the compass of the present epistle (though it
-is ready elsewhere), of the various malpractices of a minor nature,
+is ready elsewhere), of the various malpractices of a minor [[Nature|nature]],
 affecting the individual whom I have denominated Mr. W., to which I
 have been a tacitly consenting party. My object, when the contest within
 myself between stipend and no stipend, baker and no baker, existence
@@ -42,7 +42,7 @@ need, ‘“are as follows.”’
 
 We all held our breath, I think. I am sure Uriah held his.
 
-‘“First,”’ said Mr. Micawber, ‘“When Mr. W.’s faculties and memory
+‘“First,”’ said Mr. Micawber, ‘“When Mr. W.’s faculties and [[Memory|memory]]
 for business became, through causes into which it is not necessary or
 expedient for me to enter, weakened and confused,--HEEP--designedly
 perplexed and complicated the whole of the official transactions. When
@@ -59,21 +59,21 @@ of having been accomplished by Mr. W.’s own dishonest act; and has used
 it, ever since, to torture and constrain him.”’
 
 ‘You shall prove this, you Copperfield!’ said Uriah, with a threatening
-shake of the head. ‘All in good time!’
+shake of the head. ‘All in good [[Time|time]]!’
 
-‘Ask--HEEP--Mr. Traddles, who lived in his house after him,’ said Mr.
+‘Ask--HEEP--Mr. Traddles, who lived in his [[house]] after him,’ said Mr.
 Micawber, breaking off from the letter; ‘will you?’
 
-‘The fool himself--and lives there now,’ said Uriah, disdainfully.
+‘The [[Fool|fool]] himself--and lives there now,’ said Uriah, disdainfully.
 
-‘Ask--HEEP--if he ever kept a pocket-book in that house,’ said Mr.
+‘Ask--HEEP--if he ever kept a pocket-book in that [[house]],’ said Mr.
 Micawber; ‘will you?’
 
 I saw Uriah’s lank hand stop, involuntarily, in the scraping of his
 chin.
 
 ‘Or ask him,’ said Mr. Micawber, ‘if he ever burnt one there. If he says
-yes, and asks you where the ashes are, refer him to Wilkins Micawber,
+yes, and asks you where the ashes are, refer him to [[Wilkins Micawber]],
 and he will hear of something not at all to his advantage!’
 
 The triumphant flourish with which Mr. Micawber delivered himself of
@@ -84,7 +84,7 @@ out, in much agitation:
 
 ‘Mother!’ he retorted, ‘will you keep quiet? You’re in a fright, and
 don’t know what you say or mean. Umble!’ he repeated, looking at me,
-with a snarl; ‘I’ve umbled some of ‘em for a pretty long time back,
+with a snarl; ‘I’ve umbled some of ‘em for a pretty long [[Time|time]] back,
 umble as I was!’
 
 Mr. Micawber, genteelly adjusting his chin in his cravat, presently
@@ -115,7 +115,7 @@ forth; and the old anathemas were made relishing on the same principle.
 We talk about the tyranny of words, but we like to tyrannize over them
 too; we are fond of having a large superfluous establishment of words to
 wait upon us on great occasions; we think it looks important, and sounds
-well. As we are not particular about the meaning of our liveries on
+[[Well|well]]. As we are not particular about the meaning of our liveries on
 state occasions, if they be but fine and numerous enough, so, the
 meaning or necessity of our words is a secondary consideration, if there
 be but a great parade of them. And as individuals get into trouble by
@@ -129,7 +129,7 @@ Mr. Micawber read on, almost smacking his lips:
 ‘“To wit, in manner following, that is to say. Mr. W. being infirm, and
 it being within the bounds of probability that his decease might lead
 to some discoveries, and to the downfall of--HEEP’S--power over the W.
-family,--as I, Wilkins Micawber, the undersigned, assume--unless the
+family,--as I, [[Wilkins Micawber]], the undersigned, assume--unless the
 filial affection of his daughter could be secretly influenced from
 allowing any investigation of the partnership affairs to be ever made,
 the said--HEEP--deemed it expedient to have a bond ready by him, as from
@@ -140,7 +140,7 @@ advanced by him, and has long been replaced. The signatures to this
 instrument purporting to be executed by Mr. W. and attested by Wilkins
 Micawber, are forgeries by--HEEP. I have, in my possession, in his hand
 and pocket-book, several similar imitations of Mr. W.’s signature, here
-and there defaced by fire, but legible to anyone. I never attested any
+and there defaced by [[Fire|fire]], but legible to anyone. I never attested any
 such document. And I have the document itself, in my possession.”’ Uriah
 Heep, with a start, took out of his pocket a bunch of keys, and opened
 a certain drawer; then, suddenly bethought himself of what he was about,

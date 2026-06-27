@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -21,7 +21,7 @@ tags:
 
 ‘You must not flurry yourself, Mary Ann,’ interposed Mrs. Cluppins. ‘You
 really must consider yourself, my dear, which you never do. Now go away,
-Raddle, there’s a good soul, or you’ll only aggravate her.’
+Raddle, there’s a good [[Soul|soul]], or you’ll only aggravate her.’
 
 ‘You had better take your tea by yourself, Sir, indeed,’ said Mrs.
 Rogers, again applying the smelling-bottle.
@@ -34,23 +34,23 @@ rather a large size for hugging, into his mother’s arms, in which
 operation he got his boots in the tea-board, and occasioned some
 confusion among the cups and saucers. But that description of fainting
 fits, which is contagious among ladies, seldom lasts long; so when he
-had been well kissed, and a little cried over, Mrs. Bardell recovered,
+had been [[Well|well]] kissed, and a little cried over, Mrs. Bardell recovered,
 set him down again, wondering how she could have been so foolish, and
 poured out some more tea.
 
 It was at this moment, that the sound of approaching wheels was heard,
-and that the ladies, looking up, saw a hackney-coach stop at the garden
+and that the ladies, looking up, saw a hackney-coach stop at the [[Garden|garden]]
 gate.
 
 ‘More company!’ said Mrs. Sanders.
 
 ‘It’s a gentleman,’ said Mrs. Raddle.
 
-‘Well, if it ain’t Mr. Jackson, the young man from Dodson and Fogg’s!’
-cried Mrs. Bardell. ‘Why, gracious! Surely Mr. Pickwick can’t have paid
+‘[[Well]], if it ain’t Mr. Jackson, the young man from Dodson and Fogg’s!’
+cried Mrs. Bardell. ‘Why, gracious! Surely Mr. [[Pickwick]] can’t have paid
 the damages.’
 
-‘Or hoffered marriage!’ said Mrs. Cluppins.
+‘Or hoffered [[Marriage|marriage]]!’ said Mrs. Cluppins.
 
 ‘Dear me, how slow the gentleman is,’ exclaimed Mrs. Rogers. ‘Why
 doesn’t he make haste!’
@@ -67,14 +67,14 @@ Mrs. Bardell eagerly.
 ‘Nothing whatever, ma’am,’ replied Mr. Jackson. ‘How de do, ladies? I
 have to ask pardon, ladies, for intruding--but the law, ladies--the
 law.’ With this apology Mr. Jackson smiled, made a comprehensive bow,
-and gave his hair another wind. Mrs. Rogers whispered Mrs. Raddle that
+and gave his hair another [[Wind|wind]]. Mrs. Rogers whispered Mrs. Raddle that
 he was really an elegant young man.
 
 ‘I called in Goswell Street,’ resumed Mr. Jackson, ‘and hearing that you
 were here, from the slavey, took a coach and came on. Our people want
-you down in the city directly, Mrs. Bardell.’
+you down in the [[City|city]] directly, Mrs. Bardell.’
 
-‘Lor!’ ejaculated that lady, starting at the sudden nature of the
+‘Lor!’ ejaculated that lady, starting at the sudden [[Nature|nature]] of the
 communication.
 
 ‘Yes,’ said Mr. Jackson, biting his lip. ‘It’s very important and
@@ -89,7 +89,7 @@ opinion that it must be very important, or Dodson & Fogg would never
 have sent; and further, that the business being urgent, she ought to
 repair to Dodson & Fogg’s without any delay.
 
-There was a certain degree of pride and importance about being wanted by
+There was a certain degree of [[Pride|pride]] and importance about being wanted by
 one’s lawyers in such a monstrous hurry, that was by no means
 displeasing to Mrs. Bardell, especially as it might be reasonably
 supposed to enhance her consequence in the eyes of the first-floor
@@ -99,7 +99,7 @@ and at last arrived at the conclusion that she supposed she must go.
 ‘But won’t you refresh yourself after your walk, Mr. Jackson?’ said Mrs.
 Bardell persuasively.
 
-‘Why, really there ain’t much time to lose,’ replied Jackson; ‘and I’ve
+‘Why, really there ain’t much [[Time|time]] to lose,’ replied Jackson; ‘and I’ve
 got a friend here,’ he continued, looking towards the man with the ash
 stick.
 
@@ -116,14 +116,14 @@ his discourse, to warn his hearers that he was speaking ironically.
 The waiter was at once despatched to the bashful gentleman, and the
 bashful gentleman took something; Mr. Jackson also took something, and
 the ladies took something, for hospitality’s sake. Mr. Jackson then said
-he was afraid it was time to go; upon which, Mrs. Sanders, Mrs.
+he was afraid it was [[Time|time]] to go; upon which, Mrs. Sanders, Mrs.
 Cluppins, and Tommy (who it was arranged should accompany Mrs. Bardell,
 leaving the others to Mr. Raddle’s protection), got into the coach.
 
 ‘Isaac,’ said Jackson, as Mrs. Bardell prepared to get in, looking up at
 the man with the ash stick, who was seated on the box, smoking a cigar.
 
-‘Well?’
+‘[[Well]]?’
 
 ‘This is Mrs. Bardell.’
 
@@ -150,6 +150,6 @@ trial, I’m told!’ said Jackson.
 ‘Certainly,’ replied Jackson drily. ‘Quite a matter of form. Quite.’
 
 On they drove, and Mrs. Bardell fell asleep. She was awakened, after
-some time, by the stopping of the coach.
+some [[Time|time]], by the stopping of the coach.
 
-‘Bless us!’ said the lady. ‘Are we at Freeman’s Court?’
+‘Bless us!’ said the lady. ‘Are we at Freeman’s [[Court]]?’

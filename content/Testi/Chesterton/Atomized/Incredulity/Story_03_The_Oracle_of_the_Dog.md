@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Oracle of the Dog"
+title: "[[Incredulity]] — The Oracle of the Dog"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -21,18 +21,18 @@ as he isn't spelt backwards.'
 
 Those who are quick in talking are not always quick in listening.
 Sometimes even their brilliancy produces a sort of stupidity.
-Father Brown's friend and companion was a young man with a stream of ideas
+[[Father Brown]]'s friend and companion was a young man with a stream of ideas
 and stories, an enthusiastic young man named Fiennes, with eager blue eyes
 and blond hair that seemed to be brushed back, not merely with a hair--
-brush but with the wind of the world as be rushed through it.
+brush but with the [[Wind|wind]] of the world as be rushed through it.
 But he stopped in the torrent of his talk in a momentary bewilderment
 before he saw the priest's very simple meaning.
 
 `You mean that people make too much of them?' he said.
-`Well, I don't know.  They're marvellous creatures.
+`[[Well]], I don't know.  They're marvellous creatures.
 Sometimes I think they know a lot more than we do.'
 
-Father Brown said nothing, but continued to stroke the head of the big
+[[Father Brown]] said nothing, but continued to stroke the head of the big
 retriever in a half--abstracted but apparently soothing fashion.
 
 `Why,' said Fiennes, warming again to his monologue,
@@ -44,7 +44,7 @@ of the crime itself, and how old Druce can have been killed
 by somebody else when he was all alone in the summer--house--`
 
 The hand stroking the dog stopped for a moment in its rhythmic movement,
-and Father Brown said calmly:  `Oh, it was a summer--house, was it?'
+and [[Father Brown]] said calmly:  `Oh, it was a summer--house, was it?'
 
 `I thought you'd read all about it in the papers,' answered Fiennes.'
 Stop a minute; I believe I've got a cutting that will give you
@@ -52,7 +52,7 @@ all the particulars.'  He produced a strip of newspaper from
 his pocket and handed it to the priest, who began to read it,
 holding it close to his blinking eyes with one hand while
 the other continued its half--conscious caresses of the dog.
-It looked like the parable of a man not letting his right hand
+It looked like the [[Parable|parable]] of a man not letting his right hand
 know what his left hand did.
 
 -------------
@@ -64,34 +64,34 @@ on the coast of Yorkshire, where Colonel Druce was found stabbed
 from behind by a dagger that has entirely disappeared from the scene,
 and apparently even from the neighbourhood.
 
-The summer--house in which he died was indeed accessible at
+The [[Summer|summer]]--[[house]] in which he died was indeed accessible at
 one entrance, the ordinary doorway which looked down the central
-walk of the garden towards the house.  But, by a combination
+walk of the [[Garden|garden]] towards the [[house]].  But, by a combination
 of events almost to be called a coincidence, it appears that both
-the path and the entrance were watched during the crucial time,
+the path and the entrance were watched during the crucial [[Time|time]],
 and there is a chain of witnesses who confirm each other.
-The summer--house stands at the extreme end of the garden,
+The [[Summer|summer]]--[[house]] stands at the extreme end of the [[Garden|garden]],
 where there is no exit or entrance of any kind.  The central
-garden path is a lane between two ranks of tall delphiniums,
+[[Garden|garden]] path is a lane between two ranks of tall delphiniums,
 planted so close that any stray step off the path would leave
 its traces; and both path and plants run right up to the very mouth
-of the summer--house, so that no straying from that straight
+of the [[Summer|summer]]--[[house]], so that no straying from that straight
 path could fail to be observed, and no other mode of entrance
 can be imagined.
 
 Patrick Floyd, secretary of the murdered man, testified that
-he had been in a position to overlook the whole garden from
-the time when Colonel Druce last appeared alive in the doorway
-to the time when he was found dead; as he, Floyd, had been
-on the top of a step--ladder clipping the garden hedge.
+he had been in a position to overlook the whole [[Garden|garden]] from
+the [[Time|time]] when Colonel Druce last appeared alive in the doorway
+to the [[Time|time]] when he was found dead; as he, Floyd, had been
+on the top of a step--ladder clipping the [[Garden|garden]] hedge.
 Janet Druce, the dead man's daughter, confirmed this,
-saying that she had sat on the terrace of the house throughout
-that time and had seen Floyd at his work.  Touching some
-part of the time, this is again supported by Donald Druce,
-her brother--who overlooked the garden--standing at his
-bedroom window in his dressing--gown, for he had risen late.
-Lastly, the account is consistent with that given by Dr Valentine,
-a neighbour, who called for a time to talk with Miss Druce on
+saying that she had sat on the terrace of the [[house]] throughout
+that [[Time|time]] and had seen Floyd at his work.  Touching some
+part of the [[Time|time]], this is again supported by Donald Druce,
+her brother--who overlooked the [[Garden|garden]]--standing at his
+bedroom [[Window|window]] in his dressing--gown, for he had risen late.
+Lastly, the account is consistent with that given by Dr [[Valentine]],
+a neighbour, who called for a [[Time|time]] to talk with Miss Druce on
 the terrace, and by the Colonel's solicitor, Mr Aubrey Traill,
 who was apparently the last to see the murdered man alive--
 presumably with the exception of the murderer.
@@ -100,7 +100,7 @@ All are agreed that the course of events was as follows:
 About half past three in the afternoon, Miss Druce went
 down the path to ask her father when he would like tea;
 but he said he did not want any and was waiting to see Traill,
-his lawyer, who was to be sent to him in the summer--house.
+his lawyer, who was to be sent to him in the [[Summer|summer]]--[[house]].
 The girl then came away and met Traill coming down the path;
 she directed him to her father and he went in as directed.
 About half an hour afterwards he came out again, the Colonel
@@ -110,22 +110,22 @@ annoyed earlier in the day by his son's irregular hours,
 but seemed to recover his temper in a perfectly normal fashion,
 and had been rather markedly genial in receiving other visitors,
 including two of his nephews, who came over for the day.
-But as these were out walking during the whole period of the tragedy,
+But as these were out walking during the whole period of the [[Tragedy|tragedy]],
 they had no evidence to give.  It is said, indeed, that the Colonel
-was not on very good terms with Dr Valentine, but that gentleman
-only had a brief interview with the daughter of the house,
+was not on very good terms with Dr [[Valentine]], but that gentleman
+only had a brief interview with the daughter of the [[house]],
 to whom he is supposed to be paying serious attentions.
 
-Trail, the solicitor, says he left the Colonel entirely alone in
-the summer--house, and this is confirmed by Floyd's bird's--eye view
-of the garden, which showed nobody else passing the only entrance.
-Ten minutes later.  Miss Druce again went down the garden
+Trail, the solicitor, says he left the Colonel entirely [[Alone|alone]] in
+the [[Summer|summer]]--[[house]], and this is confirmed by Floyd's bird's--eye view
+of the [[Garden|garden]], which showed nobody else passing the only entrance.
+Ten minutes later.  Miss Druce again went down the [[Garden|garden]]
 and had not reached the end of the path when she saw her father,
 who was conspicuous by his white linen coat, lying in a heap
 on the floor.  She uttered a scream which brought others
 to the spot, and on entering the place they found the Colonel
 lying dead beside his basket--chair, which was also upset.
-Dr Valentine, who was still in the immediate neighbourhood,
+Dr [[Valentine]], who was still in the immediate neighbourhood,
 testified that the wound was made by some sort of stiletto,
 entering under the shoulder--blade and piercing the heart.
 The police have searched the neighbourhood for such a weapon,
@@ -134,7 +134,7 @@ but no trace of it can be found.
 `So Colonel Druce wore a white coat, did he?' said Father Brown
 as he put down the paper.
 
-`Trick he learnt in the tropics,' replied Fiennes, with some wonder.
+`Trick he learnt in the tropics,' replied Fiennes, with some [[Wonder|wonder]].
 `He'd had some queer adventures there, by his own account;
 and I fancy his dislike of Valentine was connected with the doctor
 coming from the tropics, too.  But it's all an infernal puzzle.
@@ -162,7 +162,7 @@ a silence and then Fiennes spoke quite slowly for him.
 he was almost foppish, yet you can hardly call him fashionable.
 For he wore a pair of long, luxuriant black whiskers
 such as haven't been seen since Victorian times.
-He had rather a fine grave face and a fine grave manner,
+He had rather a fine [[Grave|grave]] face and a fine [[Grave|grave]] manner,
 but every now and then he seemed to remember to smile.
 And when he showed his white teeth he seemed to lose a little
 of his dignity, and there was something faintly fawning about him.
@@ -174,7 +174,7 @@ Nobody knows who did it.  Nobody knows how it could be done.
 At least there's only one exception I'd make, and that's why
 I really mentioned the whole thing.  The dog knows.'
 
-Father Brown sighed and then said absently:
+[[Father Brown]] sighed and then said absently:
 `You were there as a friend of young Donald, weren't you?
 He didn't go on your walk with you?'
 
@@ -196,8 +196,8 @@ The dog was the only mystic in our company.'
 started me off on the story, your saying you didn't believe
 in believing in a dog.  He's a big black retriever, named Nox,
 and a suggestive name, too; for I think what he did
-a darker mystery than the murder.  You know Druce's house
-and garden are by the sea; we walked about a mile from it
+a darker mystery than the murder.  You know Druce's [[house]]
+and [[Garden|garden]] are by the sea; we walked about a mile from it
 along the sands and then turned back, going the other way.
 We passed a rather curious rock called the Rock of Fortune,
 famous in the neighbourhood because it's one of those examples
@@ -207,9 +207,9 @@ outline of it makes it look a little wild and sinister;
 at least it made it look so to me, for I don't imagine my
 jolly young companions were afflicted with the picturesque.
 But it may be that I was beginning to feel an atmosphere;
-for just then the question arose of whether it was time
+for just then the question arose of whether it was [[Time|time]]
 to go back to tea, and even then I think I had a premonition
-that time counted for a good deal in the business.
+that [[Time|time]] counted for a good deal in the business.
 Neither Herbert Druce nor I had a watch, so we called out to
 his brother, who was some paces behind, having stopped to light
 his pipe under the hedge.  Hence it happened that he shouted
@@ -218,8 +218,8 @@ through the growing twilight; and somehow the loudness of it
 made it sound like the proclamation of something tremendous.
 His unconsciousness seemed to make it all the more so;
 but that was always the way with omens; and particular ticks
-of the clock were really very ominous things that afternoon.
-According to Dr Valentine's testimony, poor Druce had actually
+of the [[Clock|clock]] were really very ominous things that afternoon.
+According to Dr [[Valentine]]'s testimony, poor Druce had actually
 died just about half past four.
 
 `Well, they said we needn't go home for ten minutes, and we walked
@@ -237,40 +237,40 @@ Then he suddenly threw up his head and sent up a howl or wail
 of woe--if ever I heard one in the world.
 
 ``What the devil's the matter with the dog?` asked Herbert;
-but none of us could answer.  There was a long silence
+but none of us could answer.  There was a long [[Silence|silence]]
 after the brute's wailing and whining died away on
-the desolate shore; and then the silence was broken.
+the desolate shore; and then the [[Silence|silence]] was broken.
 As I live, it was broken by a faint and far--off shriek,
 like the shriek of a woman from beyond the hedges inland.
 We didn't know what it was then; but we knew afterwards.
-It was the cry the girl gave when she first saw the body
+It was the cry the girl gave when she first saw the [[Body|body]]
 of her father.'
 
 `You went back, I suppose,' said Father Brown patiently.
 `What happened then?'
 
 `I'll tell you what happened then,' said Fiennes with a grim emphasis.
-`When we got back into that garden the first thing we saw
+`When we got back into that [[Garden|garden]] the first thing we saw
 was Traill, the lawyer; I can see him now with his black hat
 and black whiskers relieved against the perspective of the blue
-flowers stretching down to the summer--house, with the sunset
+[[Flowers|flowers]] stretching down to the [[Summer|summer]]--[[house]], with the sunset
 and the strange outline of the Rock of Fortune in the distance.
-His face and figure were in shadow against the sunset; but I swear
+His face and figure were in [[Shadow|shadow]] against the sunset; but I swear
 the white teeth were showing in his head and he was smiling.
 The moment Nox saw that man the dog dashed forward and stood in the middle
 of the path barking at him madly, murderously, volleying out curses
 that were almost verbal in their dreadful distinctness of hatred.
-And the man doubled up and fled, along the path between the flowers.'
+And the man doubled up and fled, along the path between the [[Flowers|flowers]].'
 
-Father Brown sprang to his feet with a startling impatience.
+[[Father Brown]] sprang to his feet with a startling impatience.
 `So the dog denounced him, did he?' he cried.  `The oracle
-of the dog condemned him.  Did you see what birds were flying,
+of the dog condemned him.  Did you see what [[Birds|birds]] were flying,
 and are you sure whether they were on the right hand or the left?
 Did you consult the augurs about the sacrifices?  Surely you
 didn't omit to cut open the dog and examine his entrails.
 That is the sort of scientific test you heathen humanitarians
 seem to trust when you are thinking of taking away the life
-and honour of a man.'
+and [[Honour|honour]] of a man.'
 
 Fiennes sat gaping for an instant before he found breath to say:
 `Why, what's the matter with you?  What have I done now?'
@@ -302,7 +302,7 @@ The whole house, garden, and shore were combed for a weapon.
 The disappearance of the dagger is almost as crazy as the
 disappearance of the man.'
 
-`The disappearance of the dagger,' said Father Brown, nodding.
+`The disappearance of the dagger,' said [[Father Brown]], nodding.
 He seemed to have become suddenly attentive.
 
 `Well,' continued Fiennes, `I told you that man Traill had a trick
@@ -310,12 +310,12 @@ of fidgeting with his tie and tie--pin--especially his tie--pin.
 His pin, like himself, was at once showy and old--fashioned.
 It had one of those stones with concentric coloured rings that look
 like an eye; and his own concentration on it got on my nerves,
-as if he had been a Cyclops with one eye in the middle of his body.
+as if he had been a Cyclops with one eye in the middle of his [[Body|body]].
 But the pin was not only large but long; and it occurred to me
 that his anxiety about its adjustment was because it was even longer
 than it looked; as long as a stiletto in fact.'
 
-Father Brown nodded thoughtfully.  `Was any other instrument
+[[Father Brown]] nodded thoughtfully.  `Was any other instrument
 ever suggested?' he asked.
 
 `There was another suggestion,' answered Fiennes,
@@ -363,8 +363,8 @@ There was a short silence, and then Father Brown said suddenly;
 `He fold us the Colonel sent for him to alter his will,'
 answered Fiennes.  `And, by the way, there was another thing
 about the business of the will that I ought to mention.
-You see, the will wasn't actually signed in the summer--
-house that afternoon.'
+You see, the will wasn't actually signed in the [[Summer|summer]]--
+[[house]] that afternoon.'
 
 `I suppose not,' said Father Brown; `there would have to
 be two witnesses.'
@@ -373,10 +373,10 @@ be two witnesses.'
 but he was sent for again next day because the old man had a doubt
 about one of the witnesses and had to be reassured.'
 
-`Who were the witnesses?' asked Father Brown.
+`Who were the witnesses?' asked [[Father Brown]].
 
 `That's just the point,' replied his informant eagerly, `the witnesses
-were Floyd, the secretary, and this Dr Valentine, the foreign
+were Floyd, the secretary, and this Dr [[Valentine]], the foreign
 sort of surgeon or whatever he is; and the two had a quarrel.
 Now I'm bound to say that the secretary is something of a busybody.
 He's one of those hot and headlong people whose warmth of temperament
@@ -386,17 +386,17 @@ haired red--hot fellow is always either universally credulous
 or universally incredulous; and sometimes both.  He was not only
 a Jack--of--all--trades, but he knew better than all tradesmen.
 He not only knew everything, but he warned everybody against everybody.
-All that must be taken into account in his suspicions about Valentine;
+All that must be taken into account in his suspicions about [[Valentine]];
 but in that particular case there seems to have been something behind it.
-He said the name of Valentine was not really Valentine.
+He said the name of [[Valentine]] was not really [[Valentine]].
 He said he had seen him elsewhere known by the name of De Villon.
 He said it would invalidate the will; of course he was kind
 enough to explain to the lawyer what the law was on that point.
 They were both in a frightful wax.'
 
-Father Brown laughed.  `People often are when they are to witness a will,'
+[[Father Brown]] laughed.  `People often are when they are to witness a will,'
 he said; `for one thing, it means that they can't have any legacy
-under it.  But what did Dr Valentine say?  No doubt the universal
+under it.  But what did Dr [[Valentine]] say?  No [[Doubt|doubt]] the universal
 secretary knew more about the doctor's name than the doctor did.
 But even the doctor might have some information about his own name.'
 
@@ -440,7 +440,7 @@ about witnessing the will?'
 as the secretary was.  It was the secretary who went away raging
 after witnessing the will.'
 
-`And now,' said Father Brown,' what about the will itself?'
+`And now,' said [[Father Brown]],' what about the will itself?'
 
 `The Colonel was a very wealthy man, and his will was important.
 Traill wouldn't tell us the alteration at that stage,
@@ -450,7 +450,7 @@ I told you that Druce was wild with my friend Donald over
 his dissipated hours.'
 
 `The question of motive has been rather over--shadowed by
-the question of method,' observed Father Brown thoughtfully.
+the question of method,' observed [[Father Brown]] thoughtfully.
 `At that moment, apparently, Miss Druce was the immediate
 gainer by the death.'
 
@@ -463,7 +463,7 @@ staring at him.  `You don't really mean to hint that she--`
 `But he is liked and respected in the place and is a skilled
 and devoted surgeon.'
 
-`So devoted a surgeon,' said Father Brown, `that he had surgical
+`So devoted a surgeon,' said [[Father Brown]], `that he had surgical
 instruments with him when he went to call on the young lady at teatime.
 For he must have used a lancet or something, and he never seems
 to have gone home.'
@@ -471,7 +471,7 @@ to have gone home.'
 Fiennes sprang to his feet and looked at him in a heat of inquiry.
 'You suggest he might have used the very same lancet--`
 
-Father Brown shook his head.  `All these suggestions are fancies
+[[Father Brown]] shook his head.  `All these suggestions are fancies
 just now,' he said.  `The problem is not who did it or what did it,
 but how it was done.  We might find many men and even many tools--
 pins and shears and lancets.  But how did a man get into the room?
@@ -493,7 +493,7 @@ down there.  I should run down and see how he is getting on.
 See what he's been doing in the way of amateur detection.
 There may be news already.'
 
-As his guests, the biped and the quadruped, disappeared, Father Brown
+As his guests, the biped and the quadruped, disappeared, [[Father Brown]]
 took up his pen and went back to his interrupted occupation
 of planning a course of lectures on the Encyclical Rerum Novarum.
 The subject was a large one and he had to recast it more than once,
@@ -510,7 +510,7 @@ out what Harry Druce was doing.  Do you know what he's done?'
 The priest did not reply, and the young man went on in jerky tones:
 I'll tell you what he's done.  He's killed himself.'
 
-Father Brown's lips moved only faintly, and there was nothing
+[[Father Brown]]'s lips moved only faintly, and there was nothing
 practical about what he was saying--nothing that has anything
 to do with this story or this world.
 
@@ -521,20 +521,20 @@ did you expect this?'
 to go and see what he was doing.  I hoped you might not be too late.'
 
 `It was I who found him,' said Fiennes rather huskily.
-`It was the ugliest and most uncanny thing fever knew.
-I went down that old garden again, and I knew there was
+`It was the ugliest and most [[Uncanny|uncanny]] thing fever knew.
+I went down that old [[Garden|garden]] again, and I knew there was
 something new and unnatural about it besides the murder.
-The flowers still tossed about in blue masses on each side
-of the black entrance into the old grey summer--house; but to me
-the blue flowers looked like blue devils dancing before some dark
+The [[Flowers|flowers]] still tossed about in blue masses on each side
+of the black entrance into the old grey [[Summer|summer]]--[[house]]; but to me
+the blue [[Flowers|flowers]] looked like blue devils dancing before some dark
 cavern of the underworld.  I looked all round, everything seemed
 to be in its ordinary place.  But the queer notion grew on me
 that there was something wrong with the very shape of the sky.
-And then I saw what it was.  The Rock of Fortune always rose
-in the background beyond the garden hedge and against the sea.
+And then I saw what it was.  The Rock of Fortune always [[Rose|rose]]
+in the background beyond the [[Garden|garden]] hedge and against the sea.
 The Rock of Fortune was gone.'
 
-Father Brown had lifted his head and was listening intently.
+[[Father Brown]] had lifted his head and was listening intently.
 
 `It was as if a mountain had walked away out of a landscape
 or a moon fallen from the sky; though I knew, of course,
@@ -548,7 +548,7 @@ and poor Harry Druce lay like a wreck underneath it.
 One arm was thrown round it in a sort of embrace as if he had
 pulled it down on himself; and on the broad brown sands beside it,
 in large crazy lettering, he had scrawled the words:
-`The Rock of Fortune falls on the Fool'.'--
+`The Rock of Fortune falls on the [[Fool]]'.'--
 
 `It was the Colonel's will that did that,' observed Father Brown.
 `The young man had staked everything on profiting himself
@@ -588,17 +588,17 @@ and the girl was trying to dissuade him.'
 `And what is that about?' asked his companion, smiling.
 
 `Well,' said the young man, `it was something that happened to me
-just before I found that poor fellow's body; only the catastrophe
+just before I found that poor fellow's [[Body|body]]; only the catastrophe
 drove it out of my head.  I suppose it's hard to remember a little
-romantic idyll when you've just come on top of a tragedy.
+romantic idyll when you've just come on top of a [[Tragedy|tragedy]].
 But as I went down the lanes leading to the Colonel's old place I
-met his daughter walking with Dr Valentine.  She was in mourning,
+met his daughter walking with Dr [[Valentine]].  She was in mourning,
 of course, and he always wore black as if he were going to
 a funeral; but I can't say that their faces were very funereal.
 Never have I seen two people looking in their own way more
 respectably radiant and cheerful.  They stopped and saluted me,
 and then she told me they were married and living in a little
-house on the outskirts of the town, where the doctor was
+[[house]] on the outskirts of the town, where the doctor was
 continuing his practice.  This rather surprised me, because I
 knew that her old father's will had left her his property;
 and I hinted at it delicately by saying I was going along to her
@@ -655,8 +655,8 @@ He'd be better fun and less bother in a book.'
 
 `Oh, it was full of pep,' replied Fiennes gloomily.  `It would have been
 glorious copy if it could have held together for ten minutes longer.
-He said the Colonel was still alive when they found him in the summer--
-house, and the doctor killed him with the surgical instrument on pretence
+He said the Colonel was still alive when they found him in the [[Summer|summer]]--
+[[house]], and the doctor killed him with the surgical instrument on pretence
 of cutting the clothes.'
 
 `I see,' said the priest.  `I suppose he was lying flat on his face
@@ -666,11 +666,11 @@ on the mud floor as a form of siesta.'
 ` I believe Floyd would have got his great theory into the papers at
 any rate, and perhaps had the doctor attested, when all these things
 were blown sky high as if by dynamite by the discovery of that dead
-body lying under the Rock of Fortune.  And that's what we come
-back to after all.  I suppose the suicide is almost a confession.
+[[Body|body]] lying under the Rock of Fortune.  And that's what we come
+back to after all.  I suppose the [[suicide]] is almost a confession.
 But nobody will ever know the whole story.'
 
-There was a silence, and then the priest said modestly:
+There was a [[Silence|silence]], and then the priest said modestly:
 `I rather think I know the whole story.'
 
 Fiennes stared.  `But look here,' he cried; `how do you come
@@ -710,18 +710,18 @@ is nervy and jumpy, too; those Yankee hustlers often are.
 Otherwise he wouldn't have cut his fingers on the shears
 and dropped them when he heard Janet Druce scream.
 
-`Now dogs hate nervous people.  I don't know whether they make
+`Now [[dogs]] hate nervous people.  I don't know whether they make
 the dog nervous, too; or whether, being after all a brute,
-he is a bit of a bully; or whether his canine vanity
+he is a bit of a bully; or whether his canine [[Vanity|vanity]]
 (which is colossal) is simply offended at not being liked.
 But anyhow there was nothing in poor Nox protesting against
 those people, except that he disliked them for being afraid
 of him.  Now I know you're awfully clever, and nobody
 of sense sneers at cleverness.  But I sometimes fancy,
-for instance, that you are too clever to understand animals.
+for instance, that you are too clever to understand [[Animals|animals]].
 Sometimes you are too clever to understand men,
-especially when they act almost as simply as animals.
-Animals are very literal; they live in a world of truisms.
+especially when they act almost as simply as [[Animals|animals]].
+[[Animals]] are very literal; they live in a world of truisms.
 Take this case:  a dog barks at a man and a man runs away from a dog.
 Now you do not seem to be quite simple enough to see the fact:
 that the dog barked because he disliked the man and
@@ -741,8 +741,8 @@ walk about smiling at the old friend's family, under the eyes
 of his old friend's daughter and post--mortem doctor--
 do you think a man like that would be doubled up by mere remorse
 because a dog barked?  He might feel the tragic irony of it;
-it might shake his soul, like any other tragic trifle.
-But he wouldn't rush madly the length of a garden to escape
+it might shake his [[Soul|soul]], like any other tragic trifle.
+But he wouldn't rush madly the length of a [[Garden|garden]] to escape
 from the only witness whom he knew to be unable to talk.
 People have a panic like that when they are frightened,
 not of tragic ironies, but of teeth.  The whole thing is simpler
@@ -782,14 +782,14 @@ old walking--stick.'
 Fiennes said nothing, but continued to stare; and it was the priest
 who continued:  `It had sunk because it was not really a stick,
 but a rod of steel with a very thin shell of cane and a sharp point.
-In other words, it was a sword stick.  I suppose a murderer never gets
+In other words, it was a [[Sword|sword]] stick.  I suppose a murderer never gets
 rid of a bloody weapon so oddly and yet so naturally as by throwing
 it into the sea for a retriever.'
 
 `I begin to see what you mean,' admitted Fiennes;' but even if a sword--
 stick was used, I have no guess of how it was used.'
 
-`I had a sort of guess,' said Father Brown, `right at the beginning when
+`I had a sort of guess,' said [[Father Brown]], `right at the beginning when
 you said the word summer--house.  And another when you said that Druce
 wore a white coat.  As long as everybody was looking for a short dagger,
 nobody thought of it; but if we admit a rather long blade like a rapier,
@@ -798,18 +798,18 @@ it's not so impossible.'
 He was leaning back, looking at the ceiling, and began like one going
 back to his own first thoughts and fundamentals.
 
-`All that discussion about detective stories like the Yellow Room,
+`All that discussion about [[Detective|detective]] stories like the Yellow Room,
 about a man found dead in sealed chambers which no one
 could enter, does not apply to the present case, because it
-is a summer--house.  When we talk of a Yellow Room, or any room,
+is a [[Summer|summer]]--[[house]].  When we talk of a Yellow Room, or any room,
 we imply walls that are really homogeneous and impenetrable.
-But a summer--house is not made like that; it is often made,
+But a [[Summer|summer]]--[[house]] is not made like that; it is often made,
 as it was in this case, of closely interlaced but separate boughs
 and strips of wood, in which there are chinks here and there.
 There was one of them just behind Druce's back as he sat in his
-chair up against the wall.  But just as the room was a summer--
-house, so the chair was a basket--chair.  That also was a lattice
-of loopholes.  Lastly, the summer--house was close up under the hedge;
+chair up against the wall.  But just as the room was a [[Summer|summer]]--
+[[house]], so the chair was a basket--chair.  That also was a lattice
+of loopholes.  Lastly, the [[Summer|summer]]--[[house]] was close up under the hedge;
 and you have just told me that it was really a thin hedge.
 A man standing outside it could easily see, amid a network
 of twigs and branches and canes, one white spot of the Colonel's
@@ -832,7 +832,7 @@ But surely it was a very odd chance and a very sudden choice.
 Besides, he couldn't be certain the old man's money had passed
 to him, and as a fact it hadn't.'
 
-Father Brown's face became animated.  `You misunderstand
+[[Father Brown]]'s face became animated.  `You misunderstand
 the man's character,' he said, as if he himself had known the man
 all his life.  `A curious but not unknown type of character.
 If he had really known the money would come to him, I seriously
@@ -851,15 +851,15 @@ will be wonderful in retrospect.  He wants to say, `Nobody but I
 could have seized that chance or seen that it was then or never.
 What a wild and wonderful guess it was, when I put all those
 things together; Donald in disgrace; and the lawyer being sent for;
-and Herbert and I sent for at the same time--and then nothing
+and Herbert and I sent for at the same [[Time|time]]--and then nothing
 more but the way the old man grinned at me and shook hands.
 Anybody would say I was mad to risk it; but that is how fortunes
 are made, by the man mad enough to have a little foresight.'  In short,
-it is the vanity of guessing.  It is the megalomania of the gambler.
+it is the [[Vanity|vanity]] of guessing.  It is the megalomania of the gambler.
 The more incongruous the coincidence, the more instantaneous
 the decision, the more likely he is to snatch the chance.
 The accident, the very triviality of the white speck and the hole
-in the hedge intoxicated him like a vision of the world's desire.
+in the hedge intoxicated him like a vision of the world's [[Desire|desire]].
 Nobody clever enough to see such a combination of accidents
 could be cowardly enough not to use them!  That is how the devil
 talks to the gambler.  But the devil himself would hardly have
@@ -912,10 +912,10 @@ and went on talking almost as if he were alone.
 `It's the first effect of not believing in God that you
 lose your common sense and can't see things as they are.
 Anything that anybody talks about, and says there's a good deal
-in it, extends itself indefinitely like a vista in a nightmare.
+in it, extends itself indefinitely like a vista in a [[nightmare]].
 And a dog is an omen, and a cat is a mystery, and a pig is a mascot,
 and a beetle is a scarab, calling up all the menagerie of
-polytheism from Egypt and old India; Dog Anubis and great green--
+polytheism from [[Egypt]] and old India; Dog Anubis and great green--
 eyed Pasht and all the holy howling Bulls of Bashan; reeling back
 to the bestial gods of the beginning, escaping into elephants
 and snakes and crocodiles; and all because you are frightened
@@ -927,4 +927,4 @@ The young man got up with a little embarrassment, almost as if he had
 overheard a soliloquy.  He called to the dog and left the room
 with vague but breezy farewells.  But he had to call the dog twice,
 for the dog had remained behind quite motionless for a moment,
-looking up steadily at Father Brown as the wolf looked at St Francis.
+looking up steadily at [[Father Brown]] as the wolf looked at St Francis.

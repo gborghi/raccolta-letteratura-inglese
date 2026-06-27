@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 22 (part 4)"
+title: "[[Shirley]] — Chapter 22 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,11 +22,11 @@ in business or in professions; they have something to do. Their sisters
 
 have no earthly employment but household work and sewing, no earthly
 
-pleasure but an unprofitable visiting, and no hope, in all their life to
+pleasure but an unprofitable visiting, and no [[Hope|hope]], in all their life to
 
 come, of anything better. This stagnant state of things makes them
 
-decline in health. They are never well, and their minds and views shrink
+decline in health. They are never [[Well|well]], and their minds and views shrink
 
 to wondrous narrowness. The great wish, the sole aim of every one of
 
@@ -38,13 +38,13 @@ husbands. The gentlemen turn them into ridicule; they don't want them;
 
 they hold them very cheap. They say--I have heard them say it with
 
-sneering laughs many a time--the matrimonial market is overstocked.
+sneering laughs many a [[Time|time]]--the matrimonial market is overstocked.
 
 Fathers say so likewise, and are angry with their daughters when they
 
-observe their manœuvres--they order them to stay at home. What do they
+observe their manœuvres--they order them to stay at [[Home|home]]. What do they
 
-expect them to do at home? If you ask, they would answer, sew and cook.
+expect them to do at [[Home|home]]? If you ask, they would answer, sew and cook.
 
 They expect them to do this, and this only, contentedly, regularly,
 
@@ -60,7 +60,7 @@ themselves? Would they not be very weary? And when there came no relief
 
 to their weariness, but only reproaches at its slightest manifestation,
 
-would not their weariness ferment in time to frenzy? Lucretia, spinning
+would not their weariness ferment in [[Time|time]] to frenzy? Lucretia, spinning
 
 at midnight in the midst of her maidens, and Solomon's virtuous woman
 
@@ -76,9 +76,9 @@ maidens. Hortense would just work me and Sarah in that fashion, if she
 
 could, and neither of us would bear it. The 'virtuous woman,' again, had
 
-her household up in the very middle of the night; she 'got breakfast
+her household up in the very middle of the [[Night|night]]; she 'got breakfast
 
-over,' as Mrs. Sykes says, before one o'clock a.m.; but _she_ had
+over,' as Mrs. Sykes says, before one o'[[Clock|clock]] a.m.; but _she_ had
 
 something more to do than spin and give out portions. She was a
 
@@ -92,15 +92,15 @@ woman.' On the whole, I like her a good deal better than Lucretia; but I
 
 don't believe either Mr. Armitage or Mr. Sykes could have got the
 
-advantage of her in a bargain. Yet I like her. 'Strength and honour were
+advantage of her in a bargain. Yet I like her. 'Strength and [[Honour|honour]] were
 
 her clothing; the heart of her husband safely trusted in her. She opened
 
 her mouth with wisdom; in her tongue was the law of kindness; her
 
-children rose up and called her blessed; her husband also praised her.'
+children [[Rose|rose]] up and called her blessed; her husband also praised her.'
 
-King of Israel! your model of a woman is a worthy model! But are we, in
+[[King]] of Israel! your model of a woman is a worthy model! But are we, in
 
 these days, brought up to be like her? Men of Yorkshire! do your
 
@@ -114,15 +114,15 @@ them fading around you, dropping off in consumption or decline; or, what
 
 is worse, degenerating to sour old maids--envious, back-biting,
 
-wretched, because life is a desert to them; or, what is worst of all,
+wretched, because life is a [[Desert|desert]] to them; or, what is worst of all,
 
 reduced to strive, by scarce modest coquetry and debasing artifice, to
 
-gain that position and consideration by marriage which to celibacy is
+gain that position and consideration by [[Marriage|marriage]] which to celibacy is
 
 denied. Fathers! cannot you alter these things? Perhaps not all at once;
 
-but consider the matter well when it is brought before you, receive it
+but consider the matter [[Well|well]] when it is brought before you, receive it
 
 as a theme worthy of thought; do not dismiss it with an idle jest or an
 

@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 3 (part 4)"
+title: "[[Agnes Grey]] — Chapter 3 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -17,13 +17,13 @@ tags:
 When little Fanny came into the schoolroom, I hoped she would be mild
 and inoffensive, at least; but a few days, if not a few hours, sufficed
 to destroy the illusion: I found her a mischievous, intractable little
-creature, given up to falsehood and deception, young as she was, and
+creature, given up to falsehood and [[Deception|deception]], young as she was, and
 alarmingly fond of exercising her two favourite weapons of offence and
 defence: that of spitting in the faces of those who incurred her
 displeasure, and bellowing like a bull when her unreasonable desires
 were not gratified. As she, generally, was pretty quiet in her parents’
 presence, and they were impressed with the notion of her being a
-remarkably gentle child, her falsehoods were readily believed, and her
+remarkably gentle [[Child|child]], her falsehoods were readily believed, and her
 loud uproars led them to suspect harsh and injudicious treatment on my
 part; and when, at length, her bad disposition became manifest even to
 their prejudiced eyes, I felt that the whole was attributed to me.
@@ -46,9 +46,9 @@ my own defence: now I judged it my wisest plan to subdue every
 resentful impulse, suppress every sensitive shrinking, and go on
 perseveringly, doing my best; for, irksome as my situation was, I
 earnestly wished to retain it. I thought, if I could struggle on with
-unremitting firmness and integrity, the children would in time become
+unremitting firmness and integrity, the children would in [[Time|time]] become
 more humanized: every month would contribute to make them some little
-wiser, and, consequently, more manageable; for a child of nine or ten
+wiser, and, consequently, more manageable; for a [[Child|child]] of nine or ten
 as frantic and ungovernable as these at six and seven would be a
 maniac.
 
@@ -62,13 +62,13 @@ that, I did not even regret the step I had taken. I longed to show my
 friends that, even now, I was competent to undertake the charge, and
 able to acquit myself honourably to the end; and if ever I felt it
 degrading to submit so quietly, or intolerable to toil so constantly, I
-would turn towards my home, and say within myself—
+would turn towards my [[Home|home]], and say within myself—
 
 They may crush, but they shall not subdue me!
 ’Tis of thee that I think, not of them.
 
 
-About Christmas I was allowed to visit home; but my holiday was only of
+About Christmas I was allowed to visit [[Home|home]]; but my holiday was only of
 a fortnight’s duration: “For,” said Mrs. Bloomfield, “I thought, as you
 had seen your friends so lately, you would not care for a longer stay.”
 I left her to think so still: but she little knew how long, how

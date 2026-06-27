@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Protection Of The Bible"
+title: "Man Orthodox — The Protection Of The [[Bible]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-THE PROTECTION OF THE BIBLE
+THE PROTECTION OF THE [[Bible|BIBLE]]

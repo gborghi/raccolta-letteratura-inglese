@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 13 (part 1)"
+title: "[[thursday]] — Chapter 13 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -34,46 +34,46 @@ enemy as fellow-conspirators.
 
 Syme had to explain how they had fled with such swiftness
 through a civilised country.  But above all these matters
-of detail which could be explained, rose the central mountain
+of detail which could be explained, [[Rose|rose]] the central mountain
 of the matter that they could not explain.  What did it all mean?
-If they were all harmless officers, what was Sunday?  If he had
+If they were all harmless officers, what was [[Sunday]]?  If he had
 not seized the world, what on earth had he been up to?
 Inspector Ratcliffe was still gloomy about this.
 
-"I can't make head or tail of old Sunday's little game any more than you can,"
-he said.  "But whatever else Sunday is, he isn't a blameless citizen.
+"I can't make head or tail of old [[Sunday]]'s little game any more than you can,"
+he said.  "But whatever else [[Sunday]] is, he isn't a blameless citizen.
 Damn it! do you remember his face?"
 
 "I grant you," answered Syme, "that I have never been able to forget it."
 
-"Well," said the Secretary, "I suppose we can find out soon,
+"[[Well]]," said the Secretary, "I suppose we can find out soon,
 for to-morrow we have our next general meeting.  You will excuse me,"
-he said, with a rather ghastly smile, "for being well acquainted
+he said, with a rather ghastly smile, "for being [[Well|well]] acquainted
 with my secretarial duties."
 
-"I suppose you are right," said the Professor reflectively.
+"I suppose you are right," said [[The Professor|the Professor]] reflectively.
 "I suppose we might find it out from him; but I confess that I
-should feel a bit afraid of asking Sunday who he really is."
+should feel a bit afraid of asking [[Sunday]] who he really is."
 
-"Why," asked the Secretary, "for fear of bombs?"
+"Why," asked the Secretary, "for [[Fear|fear]] of bombs?"
 
-"No," said the Professor, "for fear he might tell me."
+"No," said [[The Professor|the Professor]], "for [[Fear|fear]] he might tell me."
 
-"Let us have some drinks," said Dr. Bull, after a silence.
+"Let us have some drinks," said Dr. Bull, after a [[Silence|silence]].
 
-Throughout their whole journey by boat and train they were
+Throughout their whole [[Journey|journey]] by boat and train they were
 highly convivial, but they instinctively kept together.
 Dr. Bull, who had always been the optimist of the party,
 endeavoured to persuade the other four that the whole
 company could take the same hansom cab from Victoria;
 but this was over-ruled, and they went in a four-wheeler,
-with Dr. Bull on the box, singing.  They finished their journey
+with Dr. Bull on the box, singing.  They finished their [[Journey|journey]]
 at an hotel in Piccadilly Circus, so as to be close to the early
 breakfast next morning in Leicester Square.  Yet even
 then the adventures of the day were not entirely over.
 Dr. Bull, discontented with the general proposal to go to bed,
 had strolled out of the hotel at about eleven to see and taste
-some of the beauties of London.  Twenty minutes afterwards,
+some of the beauties of [[London]].  Twenty minutes afterwards,
 however, he came back and made quite a clamour in the hall.
 Syme, who tried at first to soothe him, was forced at last
 to listen to his communication with quite new attention.
@@ -108,10 +108,10 @@ to ask one man what he means."
 "I think it is a bit queerer than that," said Syme.  "I think
 it is six men going to ask one man what they mean."
 
-They turned in silence into the Square, and though
+They turned in [[Silence|silence]] into the Square, and though
 the hotel was in the opposite corner, they saw at once
 the little balcony and a figure that looked too big for it.
-He was sitting alone with bent head, poring over a newspaper.
+He was sitting [[Alone|alone]] with bent head, poring over a newspaper.
 But all his councillors, who had come to vote him down,
 crossed that Square as if they were watched out of heaven
 by a hundred eyes.
@@ -121,14 +121,14 @@ should leave the unmasked Gogol without and begin diplomatically,
 or whether they should bring him in and blow up the gunpowder at once.
 The influence of Syme and Bull prevailed for the latter course,
 though the Secretary to the last asked them why they attacked
-Sunday so rashly.
+[[Sunday]] so rashly.
 
 "My reason is quite simple," said Syme.  "I attack him rashly
 because I am afraid of him."
 
-They followed Syme up the dark stair in silence, and they all came
+They followed Syme up the dark stair in [[Silence|silence]], and they all came
 out simultaneously into the broad sunlight of the morning and the broad
-sunlight of Sunday's smile.
+sunlight of [[Sunday]]'s smile.
 
 "Delightful!" he said.  "So pleased to see you all.
 What an exquisite day it is.  Is the Czar dead?"
@@ -157,8 +157,8 @@ Look at my face."
 "in fact, it grows on you; and who am I to quarrel with the wild fruits
 upon the Tree of Life?  I dare say it will grow on me some day."
 
-"We have no time for tomfoolery," said the Secretary, breaking in savagely.
+"We have no [[Time|time]] for tomfoolery," said the Secretary, breaking in savagely.
 "We have come to know what all this means.  Who are you?  What are you?
 Why did you get us all here?  Do you know who and what we are?
 Are you a half-witted man playing the conspirator, or are you a clever
-man playing the fool?  Answer me, I tell you."
+man playing the [[Fool|fool]]?  Answer me, I tell you."

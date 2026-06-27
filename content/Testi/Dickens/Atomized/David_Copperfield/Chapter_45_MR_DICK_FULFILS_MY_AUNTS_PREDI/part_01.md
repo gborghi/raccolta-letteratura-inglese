@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 1)"
+title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,8 +17,8 @@ tags:
 CHAPTER 45. MR. DICK FULFILS MY AUNT’S PREDICTIONS
 
 
-It was some time now, since I had left the Doctor. Living in his
-neighbourhood, I saw him frequently; and we all went to his house on two
+It was some [[Time|time]] now, since I had left the Doctor. Living in his
+neighbourhood, I saw him frequently; and we all went to his [[house]] on two
 or three occasions to dinner or tea. The Old Soldier was in permanent
 quarters under the Doctor’s roof. She was exactly the same as ever, and
 the same immortal butterflies hovered over her cap.
@@ -27,19 +27,19 @@ Like some other mothers, whom I have known in the course of my life,
 Mrs. Markleham was far more fond of pleasure than her daughter was.
 She required a great deal of amusement, and, like a deep old soldier,
 pretended, in consulting her own inclinations, to be devoting herself
-to her child. The Doctor’s desire that Annie should be entertained,
+to her [[Child|child]]. The Doctor’s [[Desire|desire]] that Annie should be entertained,
 was therefore particularly acceptable to this excellent parent; who
 expressed unqualified approval of his discretion.
 
-I have no doubt, indeed, that she probed the Doctor’s wound without
+I have no [[Doubt|doubt]], indeed, that she probed the Doctor’s wound without
 knowing it. Meaning nothing but a certain matured frivolity and
 selfishness, not always inseparable from full-blown years, I think she
-confirmed him in his fear that he was a constraint upon his young
+confirmed him in his [[Fear|fear]] that he was a constraint upon his young
 wife, and that there was no congeniality of feeling between them, by so
 strongly commending his design of lightening the load of her life.
 
-‘My dear soul,’ she said to him one day when I was present, ‘you know
-there is no doubt it would be a little pokey for Annie to be always shut
+‘My dear [[Soul|soul]],’ she said to him one day when I was present, ‘you know
+there is no [[Doubt|doubt]] it would be a little pokey [[For Annie|for Annie]] to be always shut
 up here.’
 
 The Doctor nodded his benevolent head. ‘When she comes to her mother’s
@@ -73,10 +73,10 @@ young shoulders. You have studied Annie’s character, and you understand
 it. That’s what I find so charming!’
 
 Even the calm and patient face of Doctor Strong expressed some little
-sense of pain, I thought, under the infliction of these compliments.
+sense of [[Pain|pain]], I thought, under the infliction of these compliments.
 
 ‘Therefore, my dear Doctor,’ said the Old Soldier, giving him several
-affectionate taps, ‘you may command me, at all times and seasons. Now,
+affectionate taps, ‘you may command me, at all times and [[Seasons|seasons]]. Now,
 do understand that I am entirely at your service. I am ready to go with
 Annie to operas, concerts, exhibitions, all kinds of places; and you
 shall never find that I am tired. Duty, my dear Doctor, before every
@@ -85,12 +85,12 @@ consideration in the universe!’
 She was as good as her word. She was one of those people who can bear
 a great deal of pleasure, and she never flinched in her perseverance
 in the cause. She seldom got hold of the newspaper (which she settled
-herself down in the softest chair in the house to read through an
+herself down in the softest chair in the [[house]] to read through an
 eye-glass, every day, for two hours), but she found out something that
-she was certain Annie would like to see. It was in vain for Annie to
+she was certain Annie would like to see. It was in vain [[For Annie|for Annie]] to
 protest that she was weary of such things. Her mother’s remonstrance
 always was, ‘Now, my dear Annie, I am sure you know better; and I must
-tell you, my love, that you are not making a proper return for the
+tell you, my [[Love|love]], that you are not making a proper return for the
 kindness of Doctor Strong.’
 
 This was usually said in the Doctor’s presence, and appeared to me to
@@ -100,12 +100,12 @@ and went where the Old Soldier would.
 
 It rarely happened now that Mr. Maldon accompanied them. Sometimes
 my aunt and Dora were invited to do so, and accepted the invitation.
-Sometimes Dora only was asked. The time had been, when I should have
+Sometimes Dora only was asked. The [[Time|time]] had been, when I should have
 been uneasy in her going; but reflection on what had passed that
-former night in the Doctor’s study, had made a change in my mistrust. I
+former [[Night|night]] in the Doctor’s study, had made a change in my mistrust. I
 believed that the Doctor was right, and I had no worse suspicions.
 
-My aunt rubbed her nose sometimes when she happened to be alone with
+My aunt rubbed her nose sometimes when she happened to be [[Alone|alone]] with
 me, and said she couldn’t make it out; she wished they were happier; she
 didn’t think our military friend (so she always called the Old Soldier)
 mended the matter at all. My aunt further expressed her opinion, ‘that
@@ -121,12 +121,12 @@ some extraordinary manner.
 Unconscious of this prediction, Mr. Dick continued to occupy precisely
 the same ground in reference to the Doctor and to Mrs. Strong. He seemed
 neither to advance nor to recede. He appeared to have settled into his
-original foundation, like a building; and I must confess that my faith
+original foundation, like a building; and I must confess that my [[Faith|faith]]
 in his ever Moving, was not much greater than if he had been a building.
 
-But one night, when I had been married some months, Mr. Dick put his
-head into the parlour, where I was writing alone (Dora having gone out
-with my aunt to take tea with the two little birds), and said, with a
+But one [[Night|night]], when I had been married some months, Mr. Dick put his
+head into the parlour, where I was writing [[Alone|alone]] (Dora having gone out
+with my aunt to take tea with the two little [[Birds|birds]]), and said, with a
 significant cough:
 
 ‘You couldn’t speak to me without inconveniencing yourself, Trotwood, I

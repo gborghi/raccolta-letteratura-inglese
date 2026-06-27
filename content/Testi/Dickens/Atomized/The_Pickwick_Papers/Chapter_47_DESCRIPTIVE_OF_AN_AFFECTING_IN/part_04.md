@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,25 +15,25 @@ tags:
 
 
 During the delivery of the oration, Mrs. Weller sobbed and wept at the
-end of the paragraphs; while Sam, sitting cross-legged on a chair and
+end of the paragraphs; while Sam, sitting [[Cross|cross]]-legged on a chair and
 resting his arms on the top rail, regarded the speaker with great
 suavity and blandness of demeanour; occasionally bestowing a look of
 recognition on the old gentleman, who was delighted at the beginning,
-and went to sleep about half-way.
+and went to [[Sleep|sleep]] about half-way.
 
 ‘Brayvo; wery pretty!’ said Sam, when the red-nosed man having finished,
 pulled his worn gloves on, thereby thrusting his fingers through the
 broken tops till the knuckles were disclosed to view. ‘Wery pretty.’
 
-‘I hope it may do you good, Samuel,’ said Mrs. Weller solemnly.
+‘I [[Hope|hope]] it may do you good, Samuel,’ said Mrs. Weller solemnly.
 
 ‘I think it vill, mum,’ replied Sam.
 
-‘I wish I could hope that it would do your father good,’ said Mrs.
+‘I wish I could [[Hope|hope]] that it would do your father good,’ said Mrs.
 Weller.
 
 ‘Thank’ee, my dear,’ said Mr. Weller, senior. ‘How do you find yourself
-arter it, my love?’
+arter it, my [[Love|love]]?’
 
 ‘Scoffer!’ exclaimed Mrs. Weller.
 
@@ -41,7 +41,7 @@ arter it, my love?’
 
 ‘If I don’t get no better light than that ‘ere moonshine o’ yourn, my
 worthy creetur,’ said the elder Mr. Weller, ‘it’s wery likely as I shall
-continey to be a night coach till I’m took off the road altogether. Now,
+continey to be a [[Night|night]] coach till I’m took off the [[Road|road]] altogether. Now,
 Mrs. We, if the piebald stands at livery much longer, he’ll stand at
 nothin’ as we go back, and p’raps that ‘ere harm-cheer ‘ull be tipped
 over into some hedge or another, with the shepherd in it.’
@@ -55,7 +55,7 @@ to the lodge gate, and took a dutiful leave.
 
 ‘Wot’s a-do?’ inquired Sammy.
 
-‘Well, good-bye, then,’ said the old gentleman.
+‘[[Well]], good-bye, then,’ said the old gentleman.
 
 ‘Oh, that’s wot you’re aimin’ at, is it?’ said Sam. ‘Good-bye!’
 
@@ -95,66 +95,66 @@ coachman’s salute, and vanished.
 
 Sam had scarcely recovered his usual composure of countenance, which had
 been greatly disturbed by the secret communication of his respected
-relative, when Mr. Pickwick accosted him.
+relative, when Mr. [[Pickwick]] accosted him.
 
 ‘Sam,’ said that gentleman.
 
 ‘Sir,’ replied Mr. Weller.
 
-‘I am going for a walk round the prison, and I wish you to attend me. I
-see a prisoner we know coming this way, Sam,’ said Mr. Pickwick,
+‘I am going for a walk round the [[Prison|prison]], and I wish you to attend me. I
+see a prisoner we know coming this way, Sam,’ said Mr. [[Pickwick]],
 smiling.
 
 ‘Wich, Sir?’ inquired Mr. Weller; ‘the gen’l’m’n vith the head o’ hair,
 or the interestin’ captive in the stockin’s?’
 
-‘Neither,’ rejoined Mr. Pickwick. ‘He is an older friend of yours, Sam.’
+‘Neither,’ rejoined Mr. [[Pickwick]]. ‘He is an older friend of yours, Sam.’
 
 ‘O’ mine, Sir?’ exclaimed Mr. Weller.
 
-‘You recollect the gentleman very well, I dare say, Sam,’ replied Mr.
-Pickwick, ‘or else you are more unmindful of your old acquaintances than
+‘You recollect the gentleman very [[Well|well]], I dare say, Sam,’ replied Mr.
+[[Pickwick]], ‘or else you are more unmindful of your old acquaintances than
 I think you are. Hush! not a word, Sam; not a syllable. Here he is.’
 
-As Mr. Pickwick spoke, Jingle walked up. He looked less miserable than
+As Mr. [[Pickwick]] spoke, Jingle walked up. He looked less miserable than
 before, being clad in a half-worn suit of clothes, which, with Mr.
-Pickwick’s assistance, had been released from the pawnbroker’s. He wore
+[[Pickwick]]’s assistance, had been released from the pawnbroker’s. He wore
 clean linen too, and had had his hair cut. He was very pale and thin,
 however; and as he crept slowly up, leaning on a stick, it was easy to
 see that he had suffered severely from illness and want, and was still
-very weak. He took off his hat as Mr. Pickwick saluted him, and seemed
-much humbled and abashed at the sight of Sam Weller.
+very weak. He took off his hat as Mr. [[Pickwick]] saluted him, and seemed
+much humbled and abashed at the sight of [[Sam Weller]].
 
 Following close at his heels, came Mr. Job Trotter, in the catalogue of
-whose vices, want of faith and attachment to his companion could at all
+whose vices, want of [[Faith|faith]] and attachment to his companion could at all
 events find no place. He was still ragged and squalid, but his face was
-not quite so hollow as on his first meeting with Mr. Pickwick, a few
+not quite so hollow as on his first meeting with Mr. [[Pickwick]], a few
 days before. As he took off his hat to our benevolent old friend, he
 murmured some broken expressions of gratitude, and muttered something
 about having been saved from starving.
 
-‘Well, well,’ said Mr. Pickwick, impatiently interrupting him, ‘you can
+‘[[Well]], [[Well|well]],’ said Mr. [[Pickwick]], impatiently interrupting him, ‘you can
 follow with Sam. I want to speak to you, Mr. Jingle. Can you walk
 without his arm?’
 
 ‘Certainly, sir--all ready--not too fast--legs shaky--head queer--round
 and round--earthquaky sort of feeling--very.’
 
-‘Here, give me your arm,’ said Mr. Pickwick.
+‘Here, give me your arm,’ said Mr. [[Pickwick]].
 
 ‘No, no,’ replied Jingle; ‘won’t indeed--rather not.’
 
-‘Nonsense,’ said Mr. Pickwick; ‘lean upon me, I desire, Sir.’
+‘Nonsense,’ said Mr. [[Pickwick]]; ‘lean upon me, I [[Desire|desire]], Sir.’
 
 Seeing that he was confused and agitated, and uncertain what to do, Mr.
-Pickwick cut the matter short by drawing the invalided stroller’s arm
+[[Pickwick]] cut the matter short by drawing the invalided stroller’s arm
 through his, and leading him away, without saying another word about it.
 
-During the whole of this time the countenance of Mr. Samuel Weller had
+During the whole of this [[Time|time]] the countenance of Mr. Samuel Weller had
 exhibited an expression of the most overwhelming and absorbing
-astonishment that the imagination can portray. After looking from Job to
-Jingle, and from Jingle to Job in profound silence, he softly ejaculated
-the words, ‘Well, I _am_ damn’d!’ which he repeated at least a score of
+astonishment that the [[Imagination|imagination]] can portray. After looking from Job to
+Jingle, and from Jingle to Job in profound [[Silence|silence]], he softly ejaculated
+the words, ‘[[Well]], I _am_ damn’d!’ which he repeated at least a score of
 times; after which exertion, he appeared wholly bereft of speech, and
 again cast his eyes, first upon the one and then upon the other, in mute
 perplexity and bewilderment.

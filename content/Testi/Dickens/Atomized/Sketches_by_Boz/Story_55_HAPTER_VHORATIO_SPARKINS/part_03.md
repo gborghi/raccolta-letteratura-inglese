@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER V—HORATIO SPARKINS (part 3)"
+title: "Sketches by Boz — HAPTER V—[[Horatio|HORATIO]] SPARKINS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-Various surmises were hazarded on the Sunday morning, as to the mode of
-conveyance which the anxiously-expected Horatio would adopt. Did he
+Various surmises were hazarded on the [[Sunday]] morning, as to the mode of
+conveyance which the anxiously-expected [[Horatio]] would adopt. Did he
 keep a gig?—was it possible he could come on horseback?—or would he
 patronize the stage? These, and other various conjectures of equal
 importance, engrossed the attention of Mrs. Malderton and her daughters
@@ -31,7 +31,7 @@ pounds! I wouldn’t care if he had the good sense to conceal the
 disgrace he is to the family; but he’s so fond of his horrible
 business, that he _will_ let people know what he is.’
 
-Mr. Jacob Barton, the individual alluded to, was a large grocer; so
+Mr. Jacob Barton, the individual alluded to, was a large [[grocer]]; so
 vulgar, and so lost to all sense of feeling, that he actually never
 scrupled to avow that he wasn’t above his business: ‘he’d made his
 money by it, and he didn’t care who know’d it.’
@@ -52,11 +52,11 @@ stories about great people were received with a greedy ear, he was an
 especial favourite; and, knowing the kind of people he had to deal
 with, he carried his passion of claiming acquaintance with everybody,
 to the most immoderate length. He had rather a singular way of telling
-his greatest lies in a parenthesis, and with an air of self-denial, as
+his greatest lies in a parenthesis, and with an air of [[Self|self]]-denial, as
 if he feared being thought egotistical.
 
 ‘Why, no, I don’t know him by that name,’ returned Flamwell, in a low
-tone, and with an air of immense importance. ‘I have no doubt I know
+tone, and with an air of immense importance. ‘I have no [[Doubt|doubt]] I know
 him, though. Is he tall?’
 
 ‘Middle-sized,’ said Miss Teresa.
@@ -94,9 +94,9 @@ satin ribbon! ‘The Honourable Mrs. Augustus Fitz-Edward Fitz-John
 Fitz-Osborne!’ The thought was transport.
 
 ‘It’s five minutes to five,’ said Mr. Malderton, looking at his watch:
-‘I hope he’s not going to disappoint us.’
+‘I [[Hope|hope]] he’s not going to disappoint us.’
 
-‘There he is!’ exclaimed Miss Teresa, as a loud double-knock was heard
+‘There he is!’ exclaimed Miss Teresa, as a loud [[Double|double]]-knock was heard
 at the door. Everybody endeavoured to look—as people when they
 particularly expect a visitor always do—as if they were perfectly
 unsuspicious of the approach of anybody.
@@ -106,20 +106,20 @@ The room-door opened—‘Mr. Barton!’ said the servant.
 ‘Confound the man!’ murmured Malderton. ‘Ah! my dear sir, how d’ye do!
 Any news?’
 
-‘Why no,’ returned the grocer, in his usual bluff manner. ‘No, none
+‘Why no,’ returned the [[grocer]], in his usual bluff manner. ‘No, none
 partickler. None that I am much aware of. How d’ye do, gals and boys?
 Mr. Flamwell, sir—glad to see you.’
 
 ‘Here’s Mr. Sparkins!’ said Tom, who had been looking out at the
-window, ‘on _such_ a black horse!’ There was Horatio, sure enough, on a
-large black horse, curvetting and prancing along, like an Astley’s
+[[Window|window]], ‘on _such_ a black [[Horse|horse]]!’ There was [[Horatio]], sure enough, on a
+large black [[Horse|horse]], curvetting and prancing along, like an Astley’s
 supernumerary. After a great deal of reining in, and pulling up, with
 the accompaniments of snorting, rearing, and kicking, the animal
 consented to stop at about a hundred yards from the gate, where Mr.
 Sparkins dismounted, and confided him to the care of Mr. Malderton’s
 groom. The ceremony of introduction was gone through, in all due form.
-Mr. Flamwell looked from behind his green spectacles at Horatio with an
-air of mysterious importance; and the gallant Horatio looked
+Mr. Flamwell looked from behind his green spectacles at [[Horatio]] with an
+air of mysterious importance; and the gallant [[Horatio]] looked
 unutterable things at Teresa.
 
 ‘Is he the Honourable Mr. Augustus What’s-his-name?’ whispered Mrs.
@@ -130,8 +130,8 @@ exactly.’
 
 ‘Who _is_ he then?’
 
-‘Hush!’ said Flamwell, nodding his head with a grave air, importing
-that he knew very well; but was prevented, by some grave reasons of
+‘Hush!’ said Flamwell, nodding his head with a [[Grave|grave]] air, importing
+that he knew very [[Well|well]]; but was prevented, by some [[Grave|grave]] reasons of
 state, from disclosing the important secret. It might be one of the
 ministers making himself acquainted with the views of the people.
 
@@ -143,7 +143,7 @@ make an impression on Mr. Sparkins, had been forced into a white
 neckerchief and shoes, and touched up, and brushed, to look like a
 second footman.
 
-The dinner was excellent; Horatio was most attentive to Miss Teresa,
+The dinner was excellent; [[Horatio]] was most attentive to Miss Teresa,
 and every one felt in high spirits, except Mr. Malderton, who, knowing
 the propensity of his brother-in-law, Mr. Barton, endured that sort of
 agony which the newspapers inform us is experienced by the surrounding

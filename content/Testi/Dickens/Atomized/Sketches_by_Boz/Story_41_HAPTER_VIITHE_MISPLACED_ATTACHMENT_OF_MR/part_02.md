@@ -19,13 +19,13 @@ mysterious and inscrutable. John Dounce had led this life for twenty
 years and upwards, without wish for change, or care for variety, when
 his whole social system was suddenly upset and turned completely
 topsy-turvy—not by an earthquake, or some other dreadful convulsion of
-nature, as the reader would be inclined to suppose, but by the simple
+[[Nature|nature]], as the reader would be inclined to suppose, but by the simple
 agency of an oyster; and thus it happened.
 
-Mr. John Dounce was returning one night from the Sir Somebody’s Head,
+Mr. John Dounce was returning one [[Night|night]] from the Sir Somebody’s Head,
 to his residence in Cursitor-street—not tipsy, but rather excited, for
 it was Mr. Jennings’s birthday, and they had had a brace of partridges
-for supper, and a brace of extra glasses afterwards, and Jones had been
+for supper, and a brace of extra glasses afterwards, and [[Jones]] had been
 more than ordinarily amusing—when his eyes rested on a newly-opened
 oyster-shop, on a magnificent scale, with natives laid, one deep, in
 circular marble basins in the windows, together with little round
@@ -33,10 +33,10 @@ barrels of oysters directed to Lords and Baronets, and Colonels and
 Captains, in every part of the habitable globe.
 
 Behind the natives were the barrels, and behind the barrels was a young
-lady of about five-and-twenty, all in blue, and all alone—splendid
+lady of about five-and-twenty, all in blue, and all [[Alone|alone]]—splendid
 creature, charming face and lovely figure! It is difficult to say
 whether Mr. John Dounce’s red countenance, illuminated as it was by the
-flickering gas-light in the window before which he paused, excited the
+flickering gas-light in the [[Window|window]] before which he paused, excited the
 lady’s risibility, or whether a natural exuberance of animal spirits
 proved too much for that staidness of demeanour which the forms of
 society rather dictatorially prescribe. But certain it is, that the
@@ -52,7 +52,7 @@ blue made no sign. He coughed—still she came not. He entered the shop.
 Mr. John Dounce eat one oyster, and then looked at the young lady, and
 then eat another, and then squeezed the young lady’s hand as she was
 opening the third, and so forth, until he had devoured a dozen of those
-at eightpence in less than no time.
+at eightpence in less than no [[Time|time]].
 
 ‘Can you open me half-a-dozen more, my dear?’ inquired Mr. John Dounce.
 
@@ -60,23 +60,23 @@ at eightpence in less than no time.
 even more bewitchingly than before; and Mr. John Dounce eat
 half-a-dozen more of those at eightpence.
 
-‘You couldn’t manage to get me a glass of brandy-and-water, my dear, I
+‘You couldn’t manage to get me a glass of brandy-and-[[Water|water]], my dear, I
 suppose?’ said Mr. John Dounce, when he had finished the oysters: in a
 tone which clearly implied his supposition that she could.
 
 ‘I’ll see, sir,’ said the young lady: and away she ran out of the shop,
-and down the street, her long auburn ringlets shaking in the wind in
+and down the street, her long auburn ringlets shaking in the [[Wind|wind]] in
 the most enchanting manner; and back she came again, tripping over the
 coal-cellar lids like a whipping-top, with a tumbler of
-brandy-and-water, which Mr. John Dounce insisted on her taking a share
+brandy-and-[[Water|water]], which Mr. John Dounce insisted on her taking a share
 of, as it was regular ladies’ grog—hot, strong, sweet, and plenty of
 it.
 
 So, the young lady sat down with Mr. John Dounce, in a little red box
-with a green curtain, and took a small sip of the brandy-and-water, and
+with a green curtain, and took a small sip of the brandy-and-[[Water|water]], and
 a small look at Mr. John Dounce, and then turned her head away, and
 went through various other serio-pantomimic fascinations, which
-forcibly reminded Mr. John Dounce of the first time he courted his
+forcibly reminded Mr. John Dounce of the first [[Time|time]] he courted his
 first wife, and which made him feel more affectionate than ever; in
 pursuance of which affection, and actuated by which feeling, Mr. John
 Dounce sounded the young lady on her matrimonial engagements, when the
@@ -85,18 +85,18 @@ couldn’t abear the men, they were such deceivers; thereupon Mr. John
 Dounce inquired whether this sweeping condemnation was meant to include
 other than very young men; on which the young lady blushed deeply—at
 least she turned away her head, and said Mr. John Dounce had made her
-blush, so of course she _did_ blush—and Mr. John Dounce was a long time
-drinking the brandy-and-water; and, at last, John Dounce went home to
+blush, so of course she _did_ blush—and Mr. John Dounce was a long [[Time|time]]
+drinking the brandy-and-[[Water|water]]; and, at last, John Dounce went [[Home|home]] to
 bed, and dreamed of his first wife, and his second wife, and the young
-lady, and partridges, and oysters, and brandy-and-water, and
+lady, and partridges, and oysters, and brandy-and-[[Water|water]], and
 disinterested attachments.
 
 The next morning, John Dounce was rather feverish with the extra
-brandy-and-water of the previous night; and, partly in the hope of
+brandy-and-[[Water|water]] of the previous [[Night|night]]; and, partly in the [[Hope|hope]] of
 cooling himself with an oyster, and partly with the view of
 ascertaining whether he owed the young lady anything, or not, went back
-to the oyster-shop. If the young lady had appeared beautiful by night,
-she was perfectly irresistible by day; and, from this time forward, a
+to the oyster-shop. If the young lady had appeared beautiful by [[Night|night]],
+she was perfectly irresistible by day; and, from this [[Time|time]] forward, a
 change came over the spirit of John Dounce’s dream. He bought
 shirt-pins; wore a ring on his third finger; read poetry; bribed a
 cheap miniature-painter to perpetrate a faint resemblance to a youthful
@@ -110,9 +110,9 @@ he was.
 
 As to his ancient friends, the other old boys, at the Sir Somebody’s
 Head, he dropped off from them by gradual degrees; for, even when he
-did go there, Jones—vulgar fellow that Jones—persisted in asking ‘when
+did go there, [[Jones]]—vulgar fellow that [[Jones]]—persisted in asking ‘when
 it was to be?’ and ‘whether he was to have any gloves?’ together with
-other inquiries of an equally offensive nature: at which not only
+other inquiries of an equally offensive [[Nature|nature]]: at which not only
 Harris laughed, but Jennings also; so, he cut the two, altogether, and
 attached himself solely to the blue young lady at the smart
 oyster-shop.
@@ -127,5 +127,5 @@ relations, and rendered himself ridiculous to everybody, made offers
 successively to a schoolmistress, a landlady, a feminine tobacconist,
 and a housekeeper; and, being directly rejected by each and every of
 them, was accepted by his cook, with whom he now lives, a henpecked
-husband, a melancholy monument of antiquated misery, and a living
+husband, a [[Melancholy|melancholy]] monument of antiquated misery, and a living
 warning to all uxorious old boys.

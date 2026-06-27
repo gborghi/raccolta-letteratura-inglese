@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 24"
+title: "[[The Professor]] — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,9 +18,9 @@ CHAPTER XXIV.
 
 
 
-ONE fine, frosty Sunday in November, Frances and I took a long walk; we
+ONE fine, frosty [[Sunday]] in November, Frances and I took a long walk; we
 
-made the tour of the city by the Boulevards; and, afterwards, Frances
+made the tour of the [[City|city]] by the Boulevards; and, afterwards, Frances
 
 being a little tired, we sat down on one of those wayside seats placed
 
@@ -40,7 +40,7 @@ tongue, when she stopped and remarked--
 
 I looked up; three fashionably dressed men were just then
 
-passing--Englishmen, I knew by their air and gait as well as by their
+passing--Englishmen, I knew by their air and gait as [[Well|well]] as by their
 
 features; in the tallest of the trio I at once recognized Mr. Hunsden;
 
@@ -96,7 +96,7 @@ gone.”
 
 “I read that and more, Frances; I read that he will probably call on me
 
-this evening, or on some future occasion shortly; and I have no doubt
+this evening, or on some future occasion shortly; and I have no [[Doubt|doubt]]
 
 he will insist on being introduced to you; shall I bring him to your
 
@@ -120,7 +120,7 @@ said was:--
 
 appointment to ---- College, and all that; Brown has told me.” Then
 
-he intimated that he had returned from Germany but a day or two since;
+he intimated that he had returned from [[Germany]] but a day or two since;
 
 afterwards, he abruptly demanded whether that was Madame Pelet-Reuter
 
@@ -148,7 +148,7 @@ in foreign hodge-podge of this sort.”
 
 “She’s too good for you evidently; she is like you, but something better
 
-than you--no beauty, though; yet when she rose (for I looked back to
+than you--no [[Beauty|beauty]], though; yet when she [[Rose|rose]] (for I looked back to
 
 see you both walk away) I thought her figure and carriage good. These
 
@@ -210,7 +210,7 @@ I smiled. Hunsden unconsciously laid stress on the word caste, and, in
 
 fact, republican, lord-hater as he was, Hunsden was as proud of his old
 
-----shire blood, of his descent and family standing, respectable and
+----shire [[Blood|blood]], of his descent and family standing, respectable and
 
 respected through long generations back, as any peer in the realm of
 
@@ -242,13 +242,13 @@ remonstrance, he only answered--
 
 
 
-“Well, you are the best judge of your own affairs. A lace-mender may
+“[[Well]], you are the best judge of your own affairs. A lace-mender may
 
-make a good wife as well as a lady; but of course you have taken care
+make a good wife as [[Well|well]] as a lady; but of course you have taken care
 
-to ascertain thoroughly that since she has not education, fortune or
+to ascertain thoroughly that since she has not [[Education|education]], fortune or
 
-station, she is well furnished with such natural qualities as you think
+station, she is [[Well|well]] furnished with such natural qualities as you think
 
 most likely to conduce to your happiness. Has she many relations?”
 
@@ -266,33 +266,33 @@ bore to you to your life’s end.”
 
 
 
-After sitting in silence a little while longer, Hunsden rose, and was
+After sitting in [[Silence|silence]] a little while longer, Hunsden [[Rose|rose]], and was
 
 quietly bidding me good evening; the polite, considerate manner in which
 
 he offered me his hand (a thing he had never done before), convinced me
 
-that he thought I had made a terrible fool of myself; and that, ruined
+that he thought I had made a terrible [[Fool|fool]] of myself; and that, ruined
 
-and thrown away as I was, it was no time for sarcasm or cynicism, or
+and thrown away as I was, it was no [[Time|time]] for sarcasm or cynicism, or
 
 indeed for anything but indulgence and forbearance.
 
 
 
-“Good night, William,” he said, in a really soft voice, while his face
+“Good [[Night|night]], William,” he said, in a really soft voice, while his face
 
-looked benevolently compassionate. “Good night, lad. I wish you and your
+looked benevolently compassionate. “Good [[Night|night]], lad. I wish you and your
 
-future wife much prosperity; and I hope she will satisfy your fastidious
+future wife much prosperity; and I [[Hope|hope]] she will satisfy your fastidious
 
-soul.”
+[[Soul|soul]].”
 
 
 
 I had much ado to refrain from laughing as I beheld the magnanimous pity
 
-of his mien; maintaining, however, a grave air, I said:--
+of his mien; maintaining, however, a [[Grave|grave]] air, I said:--
 
 
 
@@ -306,7 +306,7 @@ see her--but----.” He hesitated.
 
 
 
-“Well?”
+“[[Well]]?”
 
 
 
@@ -314,7 +314,7 @@ see her--but----.” He hesitated.
 
 
 
-“Come, then,” said I. We set out. Hunsden no doubt regarded me as a
+“Come, then,” said I. We set out. Hunsden no [[Doubt|doubt]] regarded me as a
 
 rash, imprudent man, thus to show my poor little grisette sweetheart,
 
@@ -326,7 +326,7 @@ harsh husk it pleased him to wear by way of mental mackintosh. He talked
 
 affably, and even gently, as we went along the street; he had never been
 
-so civil to me in his life. We reached the house, entered, ascended the
+so civil to me in his life. We reached the [[house]], entered, ascended the
 
 stair; on gaining the lobby, Hunsden turned to mount a narrower stair
 
@@ -344,13 +344,13 @@ nothing.
 
 
 
-We walked in, and Frances rose from her seat near the table to receive
+We walked in, and Frances [[Rose|rose]] from her seat near the table to receive
 
 us; her mourning attire gave her a recluse, rather conventual, but
 
-withal very distinguished look; its grave simplicity added nothing
+withal very distinguished look; its [[Grave|grave]] simplicity added nothing
 
-to beauty, but much to dignity; the finish of the white collar and
+to [[Beauty|beauty]], but much to dignity; the finish of the white collar and
 
 manchettes sufficed for a relief to the merino gown of solemn black;
 
@@ -358,7 +358,7 @@ ornament was forsworn. Frances curtsied with sedate grace, looking, as
 
 she always did, when one first accosted her, more a woman to respect
 
-than to love; I introduced Mr. Hunsden, and she expressed her happiness
+than to [[Love|love]]; I introduced Mr. Hunsden, and she expressed her happiness
 
 at making his acquaintance in French. The pure and polished accent, the
 
@@ -366,7 +366,7 @@ low yet sweet and rather full voice, produced their effect immediately;
 
 Hunsden spoke French in reply; I had not heard him speak that language
 
-before; he managed it very well. I retired to the window-seat; Mr.
+before; he managed it very [[Well|well]]. I retired to the [[Window|window]]-seat; Mr.
 
 Hunsden, at his hostess’s invitation, occupied a chair near the hearth;
 
@@ -374,9 +374,9 @@ from my position I could see them both, and the room too, at a glance.
 
 The room was so clean and bright, it looked like a little polished
 
-cabinet; a glass filled with flowers in the centre of the table, a
+cabinet; a glass filled with [[Flowers|flowers]] in the centre of the table, a
 
-fresh rose in each china cup on the mantelpiece gave it an air of FETE.
+fresh [[Rose|rose]] in each china cup on the mantelpiece gave it an air of FETE.
 
 Frances was serious, and Mr. Hunsden subdued, but both mutually polite;
 
@@ -392,7 +392,7 @@ with a care that forbade any eccentricity. At last England was
 
 mentioned, and Frances proceeded to ask questions. Animated by degrees,
 
-she began to change, just as a grave night-sky changes at the approach
+she began to change, just as a [[Grave|grave]] [[Night|night]]-sky changes at the approach
 
 of sunrise: first it seemed as if her forehead cleared, then her eyes
 
@@ -408,7 +408,7 @@ She had many things to say to the Englishman just fresh from his
 
 island-country, and she urged him with an enthusiasm of curiosity, which
 
-ere long thawed Hunsden’s reserve as fire thaws a congealed viper. I use
+ere long thawed Hunsden’s reserve as [[Fire|fire]] thaws a congealed viper. I use
 
 this not very flattering comparison because he vividly reminded me of a
 
@@ -416,11 +416,11 @@ snake waking from torpor, as he erected his tall form, reared his head,
 
 before a little declined, and putting back his hair from his broad Saxon
 
-forehead, showed unshaded the gleam of almost savage satire which his
+forehead, showed unshaded the gleam of almost savage [[Satire|satire]] which his
 
 interlocutor’s tone of eagerness and look of ardour had sufficed at
 
-once to kindle in his soul and elicit from his eyes: he was himself;
+once to kindle in his [[Soul|soul]] and elicit from his eyes: he was himself;
 
 as Frances was herself, and in none but his own language would he now
 
@@ -436,7 +436,7 @@ address her.
 
 
 
-“Well, then, you shall have plenty of it; and first, I see you’ve not
+“[[Well]], then, you shall have plenty of it; and first, I see you’ve not
 
 much more sense than some others of my acquaintance” (indicating me
 
@@ -468,9 +468,9 @@ of Swiss sibyl, with high Tory and high Church principles!”
 
 
 
-“I’d be sorry to like it! A little corrupt, venal, lord-and-king-cursed
+“I’d be sorry to like it! A little corrupt, venal, lord-and-[[King|king]]-cursed
 
-nation, full of mucky pride (as they say in ----shire), and helpless
+nation, full of mucky [[Pride|pride]] (as they say in ----shire), and helpless
 
 pauperism; rotten with abuses, worm-eaten with prejudices!”
 
@@ -484,11 +484,11 @@ everywhere, and I thought fewer in England than in other countries.”
 
 “Come to England and see. Come to Birmingham and Manchester; come to St.
 
-Giles’ in London, and get a practical notion of how our system works.
+Giles’ in [[London]], and get a practical notion of how our system works.
 
 Examine the footprints of our august aristocracy; see how they walk
 
-in blood, crushing hearts as they go. Just put your head in at English
+in [[Blood|blood]], crushing hearts as they go. Just put your head in at English
 
 cottage doors; get a glimpse of Famine crouched torpid on black
 
@@ -516,7 +516,7 @@ knowledge; for you cannot appreciate the efforts of industry, the
 
 achievements of enterprise, or the discoveries of science: narrowness
 
-of education and obscurity of position quite incapacitate you
+of [[Education|education]] and obscurity of position quite incapacitate you
 
 from understanding these points; and as to historical and poetical
 
@@ -562,9 +562,9 @@ unawares on a tender point. A sort of trouble momentarily darkened
 
 his eye, and I believe he filled up the transient pause succeeding his
 
-antagonist’s home-thrust, by a wish that some one did love him as
+antagonist’s [[Home|home]]-thrust, by a wish that some one did [[Love|love]] him as
 
-he would like to be loved--some one whose love he could unreservedly
+he would like to be loved--some one whose [[Love|love]] he could unreservedly
 
 return.
 
@@ -576,13 +576,13 @@ The lady pursued her temporary advantage.
 
 “If your world is a world without associations, Mr. Hunsden, I no longer
 
-wonder that you hate England so. I don’t clearly know what Paradise is,
+[[Wonder|wonder]] that you hate England so. I don’t clearly know what Paradise is,
 
 and what angels are; yet taking it to be the most glorious region I can
 
 conceive, and angels the most elevated existences--if one of them--if
 
-Abdiel the Faithful himself” (she was thinking of Milton) “were suddenly
+Abdiel the Faithful himself” (she was thinking of [[Milton]]) “were suddenly
 
 stripped of the faculty of association, I think he would soon rush forth
 
@@ -632,9 +632,9 @@ so?”
 
 
 
-“I should have thought no child would have asked that question,” replied
+“I should have thought no [[Child|child]] would have asked that question,” replied
 
-Hunsden, who never at any time gave information without reproving for
+Hunsden, who never at any [[Time|time]] gave information without reproving for
 
 stupidity those who asked it of him. “If you had been my pupil, as I
 
@@ -662,21 +662,21 @@ associations? Do you calculate that I am prepared to dwell only on what
 
 vice and degradation may be found in Alpine villages, and to leave
 
-quite out of my heart the social greatness of my countrymen, and our
+quite out of my heart the social [[Greatness|greatness]] of my countrymen, and our
 
-blood-earned freedom, and the natural glories of our mountains? You’re
+[[Blood|blood]]-earned [[Freedom|freedom]], and the natural glories of our [[Mountains|mountains]]? You’re
 
 mistaken--you’re mistaken.”
 
 
 
-“Social greatness? Call it what you will, your countrymen are sensible
+“Social [[Greatness|greatness]]? Call it what you will, your countrymen are sensible
 
 fellows; they make a marketable article of what to you is an abstract
 
-idea; they have, ere this, sold their social greatness and also their
+idea; they have, ere this, sold their social [[Greatness|greatness]] and also their
 
-blood-earned freedom to be the servants of foreign kings.”
+[[Blood|blood]]-earned [[Freedom|freedom]] to be the servants of foreign kings.”
 
 
 
@@ -704,7 +704,7 @@ accuse them of being perfidious: there is no justice in your dictums.”
 
 
 
-“There is truth.”
+“There is [[Truth|truth]].”
 
 
 
@@ -712,9 +712,9 @@ accuse them of being perfidious: there is no justice in your dictums.”
 
 unpractical woman, for you don’t acknowledge what really exists; you
 
-want to annihilate individual patriotism and national greatness as
+want to annihilate individual patriotism and national [[Greatness|greatness]] as
 
-an atheist would annihilate God and his own soul, by denying their
+an atheist would annihilate God and his own [[Soul|soul]], by denying their
 
 existence.”
 
@@ -722,27 +722,27 @@ existence.”
 
 “Where are you flying to? You are off at a tangent--I thought we were
 
-talking about the mercenary nature of the Swiss.”
+talking about the mercenary [[Nature|nature]] of the Swiss.”
 
 
 
 “We were--and if you proved to me that the Swiss are mercenary to-morrow
 
-(which you cannot do) I should love Switzerland still.”
+(which you cannot do) I should [[Love|love]] Switzerland still.”
 
 
 
 “You would be mad, then--mad as a March hare--to indulge in a passion
 
-for millions of shiploads of soil, timber, snow, and ice.”
+for millions of shiploads of soil, timber, [[Snow|snow]], and ice.”
 
 
 
-“Not so mad as you who love nothing.”
+“Not so mad as you who [[Love|love]] nothing.”
 
 
 
-“There’s a method in my madness; there’s none in yours.”
+“There’s a method in my [[Madness|madness]]; there’s none in yours.”
 
 
 
@@ -752,11 +752,11 @@ the refuse, by way of turning it to what you call use.”
 
 
 
-“You cannot reason at all,” said Hunsden; “there is no logic in you.”
+“You cannot reason at all,” said Hunsden; “there is no [[logic]] in you.”
 
 
 
-“Better to be without logic than without feeling,” retorted Frances, who
+“Better to be without [[logic]] than without feeling,” retorted Frances, who
 
 was now passing backwards and forwards from her cupboard to the table,
 
@@ -778,7 +778,7 @@ of other people, and dogmatizing about the irrationality of this, that,
 
 and the other sentiment, and then ordering it to be suppressed because
 
-you imagine it to be inconsistent with logic.”
+you imagine it to be inconsistent with [[logic]].”
 
 
 
@@ -794,9 +794,9 @@ reappeared.
 
 “You do right? Indeed, no! You are much mistaken if you think so. Just
 
-be so good as to let me get to the fire, Mr. Hunsden; I have something
+be so good as to let me get to the [[Fire|fire]], Mr. Hunsden; I have something
 
-to cook.” (An interval occupied in settling a casserole on the fire;
+to cook.” (An interval occupied in settling a casserole on the [[Fire|fire]];
 
 then, while she stirred its contents:) “Right! as if it were right to
 
@@ -804,7 +804,7 @@ crush any pleasurable sentiment that God has given to man, especially
 
 any sentiment that, like patriotism, spreads man’s selfishness in wider
 
-circles” (fire stirred, dish put down before it).
+circles” ([[Fire|fire]] stirred, dish put down before it).
 
 
 
@@ -820,9 +820,9 @@ circles” (fire stirred, dish put down before it).
 
 
 
-“I am English, too; half the blood in my veins is English; thus I have
+“I am English, too; half the [[Blood|blood]] in my veins is English; thus I have
 
-a right to a double power of patriotism, possessing an interest in two
+a right to a [[Double|double]] power of patriotism, possessing an interest in two
 
 noble, free, and fortunate countries.”
 
@@ -832,7 +832,7 @@ noble, free, and fortunate countries.”
 
 
 
-“Yes, yes; and you, I suppose, had a mother from the moon or from
+“Yes, yes; and you, I suppose, had a mother from the [[Moon|moon]] or from
 
 Utopia, since not a nation in Europe has a claim on your interest?”
 
@@ -884,7 +884,7 @@ ran on the spirit of religious intolerance which Mr. Hunsden affirmed to
 
 exist strongly in Switzerland, notwithstanding the professed attachment
 
-of the Swiss to freedom. Here Frances had greatly the worst of it,
+of the Swiss to [[Freedom|freedom]]. Here Frances had greatly the worst of it,
 
 not only because she was unskilled to argue, but because her own real
 
@@ -912,7 +912,7 @@ a sham fight.”
 
 
 
-“No; though I have neither logic nor wealth of words, yet in a case
+“No; though I have neither [[logic]] nor wealth of words, yet in a case
 
 where my opinion really differed from yours, I would adhere to it when
 
@@ -936,9 +936,9 @@ of stubborn stuff in you.”
 
 “I should be sorry if I had not; he and Tell were brothers, and I’d
 
-scorn the Swiss, man or woman, who had none of the much-enduring nature
+scorn the Swiss, man or woman, who had none of the much-enduring [[Nature|nature]]
 
-of our heroic William in his soul.”
+of our heroic William in his [[Soul|soul]].”
 
 
 
@@ -954,11 +954,11 @@ of our heroic William in his soul.”
 
 I saw that fresh occasion of strife was brewing between these two, “it
 
-is high time to go.”
+is high [[Time|time]] to go.”
 
 
 
-Hunsden rose. “Good bye,” said he to Frances; “I shall be off for this
+Hunsden [[Rose|rose]]. “Good bye,” said he to Frances; “I shall be off for this
 
 glorious England to-morrow, and it may be twelve months or more before
 
@@ -966,13 +966,13 @@ I come to Brussels again; whenever I do come I’ll seek you out, and
 
 you shall see if I don’t find means to make you fiercer than a dragon.
 
-You’ve done pretty well this evening, but next interview you shall
+You’ve done pretty [[Well|well]] this evening, but next interview you shall
 
 challenge me outright. Meantime you’re doomed to become Mrs. William
 
 Crimsworth, I suppose; poor young lady? but you have a spark of spirit;
 
-cherish it, and give the Professor the full benefit thereof.”
+cherish it, and give [[The Professor|the Professor]] the full benefit thereof.”
 
 
 
@@ -986,7 +986,7 @@ look.”
 
 
 
-“Well, whenever you marry don’t take a wife out of Switzerland; for if
+“[[Well]], whenever you marry don’t take a wife out of Switzerland; for if
 
 you begin blaspheming Helvetia, and cursing the cantons--above all, if
 
@@ -994,17 +994,17 @@ you mention the word ASS in the same breath with the name Tell (for
 
 ass IS baudet, I know; though Monsieur is pleased to translate
 
-it ESPRIT-FORT) your mountain maid will some night smother her
+it ESPRIT-FORT) your mountain maid will some [[Night|night]] smother her
 
-Breton-bretonnant, even as your own Shakspeare’s Othello smothered
+Breton-bretonnant, even as your own Shakspeare’s [[Othello]] smothered
 
-Desdemona.”
+[[Desdemona]].”
 
 
 
 “I am warned,” said Hunsden; “and so are you, lad,” (nodding to me). “I
 
-hope yet to hear of a travesty of the Moor and his gentle lady, in which
+[[Hope|hope]] yet to hear of a travesty of the Moor and his gentle lady, in which
 
 the parts shall be reversed according to the plan just sketched--you,
 
@@ -1012,7 +1012,7 @@ however, being in my nightcap. Farewell, mademoiselle!” He bowed on her
 
 hand, absolutely like Sir Charles Grandison on that of Harriet Byron;
 
-adding--“Death from such fingers would not be without charms.”
+adding--“[[Death]] from such fingers would not be without charms.”
 
 
 
@@ -1064,7 +1064,7 @@ life--God willing.”
 
 “God is not willing--you can’t suppose it; what business have you to
 
-be suited so well with a partner? And she treats you with a sort of
+be suited so [[Well|well]] with a partner? And she treats you with a sort of
 
 respect, too, and says, ‘Monsieur’ and modulates her tone in addressing
 
@@ -1108,17 +1108,17 @@ more of the nervous, mobile Parisienne in her than of the the robust
 
 ‘jungfrau’). Your Mdlle. Henri is in person “chetive”, in mind “sans
 
-caractere”, compared with the queen of my visions. You, indeed, may put
+caractere”, compared with the [[Queen|queen]] of my visions. You, indeed, may put
 
 up with that “minois chiffone”; but when I marry I must have straighter
 
 and more harmonious features, to say nothing of a nobler and better
 
-developed shape than that perverse, ill-thriven child can boast.”
+developed shape than that perverse, ill-thriven [[Child|child]] can boast.”
 
 
 
-“Bribe a seraph to fetch you a coal of fire from heaven, if you will,”
+“Bribe a seraph to fetch you a coal of [[Fire|fire]] from heaven, if you will,”
 
  said I, “and with it kindle life in the tallest, fattest, most boneless,
 

@@ -16,17 +16,17 @@ tags:
 IV  
 The eyes are not here  
 There are no eyes here  
-In this valley of dying stars  
+In this valley of dying [[Stars|stars]]  
 In this hollow valley  
 This broken jaw of our lost kingdoms  
 In this last of meeting places  
 We grope together  
 And avoid speech  
-Gathered on this beach of the tumid river  
+Gathered on this beach of the tumid [[River|river]]  
 Sightless, unless  
 The eyes reappear  
 As the perpetual star  
-Multifoliate rose  
-Of death’s twilight kingdom  
-The hope only  
+Multifoliate [[Rose|rose]]  
+Of [[Death|death]]’s twilight kingdom  
+The [[Hope|hope]] only  
 Of empty men.  

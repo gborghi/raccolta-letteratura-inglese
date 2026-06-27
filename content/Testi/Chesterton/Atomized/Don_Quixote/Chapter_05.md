@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 4"
+title: "[[Don Quixote]] — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -22,22 +22,22 @@ The gentleman called Monkey made his way rapidly across
 the wide and windy sweep of lawn towards the solitary monument
 (if it can so be called), or curiosity, or relic, which stood
 in the middle of that open space.  It was, in fact, a large
-fragment fallen from the Gothic gateways of the old Abbey,
+[[Fragment|fragment]] fallen from the Gothic gateways of the old Abbey,
 and here incongruously poised upon a more modern pedestal,
 probably by the rather hazy romanticism of some gentleman
 a hundred years ago, who thought that a subsequent accumulation
 of moss and moonlight might turn it into a suitable subject
 for the ingenious author of "Marmion." On close inspection
 (which nobody in particular ever accorded to it) the broken lines of
-it could be dimly traced in the shape of a rather repulsive monster,
+it could be dimly traced in the shape of a rather repulsive [[Monster|monster]],
 goggle-eyed and glaring upwards, possibly a dying dragon,
 above which something stood up in vertical lines like broken
 shafts or columns, possibly the lower part of a human figure.
 But it was not out of any antiquarian ardour to note these details
 that Mr. Douglas Murrel hastened towards the spot; but because
-the very impatient lady who had summoned him out of the house
+the very impatient lady who had summoned him out of the [[house]]
 on urgent business had named this place for the appointment.
-From across the garden he could see Olive Ashley standing by
+From across the [[Garden|garden]] he could see Olive Ashley standing by
 the stone, and see that she was by no means standing equally still.
 Even at that distance there seemed to be something
 restless and even nervous about her gesture and carriage.
@@ -57,7 +57,7 @@ It's for everybody's sake--society and all that!"
 Then her tone changed again, and she said explosively,
 "It's all your fault!  You would introduce him."
 
-"Well, what's the matter?" asked her companion, patiently.
+"[[Well]], what's the matter?" asked her companion, patiently.
 
 "Only that I simply detest him," she said.  "He was abominably rude and--"
 
@@ -94,14 +94,14 @@ What I want is to show him what educated people are really like.
 It's all for his own good.  He could be--he could be ever
 so much improved."
 
-"Is he to go to a continuation class or a night school?"
-inquired Murrel innocently, "or possibly to a Sunday school."
+"Is he to go to a continuation class or a [[Night|night]] school?"
+inquired Murrel innocently, "or possibly to a [[Sunday]] school."
 
 "Nobody ever learns anything at school," she replied,
 "I mean the only place where anybody ever does learn anything--
 the world; the great world.  I want him to see there are things
 much greater than his grumbling little fads--I want him to hear
-people talking about music and architecture and history,
+people talking about music and architecture and [[history]],
 and all the things that really scholarly people know about.
 Of course, he's got stuck-up by spouting in the streets and
 laying down the law in low public-houses--bullying people even
@@ -111,7 +111,7 @@ cultivated people, he is quite clever enough to feel stupid."
 "And so, wanting a stately scholar, cultured to his finger-tips,
 you naturally thought of me," remarked Monkey, approvingly.
 "You want me to tie him to a drawing-room chair and administer
-tea and Tolstoy, or Tupper, or whoever is the modern favourite.
+tea and [[tolstoy|Tolstoy]], or Tupper, or whoever is the modern favourite.
 My dear Olive, he wouldn't come."
 
 "I've thought of all that," she said, rather hurriedly,
@@ -122,18 +122,18 @@ about the strike.  That's the only thing he'd come for;
 and after that we'll introduce him to some people who'll talk
 right above his head, so that he'll sort of grow--grow up.
 It's really serious, Douglas.  He's got the most terrible power
-over these workmen.  Unless we can make him see the truth they
+over these workmen.  Unless we can make him see the [[Truth|truth]] they
 will all--he's an orator in his way."
 
-"I knew you were a bloated aristocrat," he said, contemplating the tense
+"I knew you were a bloated [[aristocrat]]," he said, contemplating the tense
 and tenuous little lady, "but I never knew you were such a diplomatist.
-Well, I suppose I must help in your horrid plot, if you really assure
+[[Well]], I suppose I must help in your horrid plot, if you really assure
 me that it's all for his own good."
 
 "Of course it's for his own good," she replied, confidently.
 "I should never have thought of it but for that."
 
-"Quite so," replied Murrel, and went back towards the house,
+"Quite so," replied Murrel, and went back towards the [[house]],
 walking rather more slowly than when coming away from it.
 But he did not see the ladder leaning up against the outhouse,
 or the development of this story might have been disastrously foiled.
@@ -143,7 +143,7 @@ with educated men seemed to give him considerable food for
 thought as he went across the grassy plot kicking his heels,
 with his hands thrust deep in his trousers' pockets.  Of course,
 there was something in it; fellows did find their level sometimes
-by going to Oxford.  They find out in what way their education
+by going to [[Oxford]].  They find out in what way their [[Education|education]]
 has been neglected, even if they continue to neglect it.
 But he had never seen the experiment tried on so dark a social stratum
 as the black and buried coal-seam for which the Syndicalist stood.
@@ -172,7 +172,7 @@ and hair seeming to bristle in every direction as he looked
 about him for enlightenment, found himself that afternoon
 (after a solemn and mysteriously futile interview with the
 great capitalist) turned loose by another door into the salon of
-the aristocracy of intellect which was to complete his education.
+the aristocracy of intellect which was to complete his [[Education|education]].
 He certainly looked rather incomplete; standing in that room
 with a stoop and a scowl, which were none the less sullen
 if they were unconsciously sullen.  He was not ugly;
@@ -188,12 +188,12 @@ whose whisper was a horrible yell.
 "What we want," he said, softly pulverising something in his hollow
 palm with his clenched fist, "what we want for industrial peace
 is industrial instruction.  Never listen to the reactionaries.
-Never you believe the fellows who say popular education is a mistake.
-Of course, the masses must have education.  But above all,
-economic education.  If once we can get into the people's heads
+Never you believe the fellows who say popular [[Education|education]] is a mistake.
+Of course, the masses must have [[Education|education]].  But above all,
+economic [[Education|education]].  If once we can get into the people's heads
 some notion of the laws of political economy, we shall hear
 no more of these disputes that drive trade out of the country
-and threaten to put a pistol to the head of the public.
+and threaten to put a [[Pistol|pistol]] to the head of the public.
 Whatever our opinions may be, we all want to prevent that.
 Whatever our party may be, we don't want that.  I don't
 say it in the interests of any party; I say it's something
@@ -205,7 +205,7 @@ of effective demand, isn't that above party?"
 The large man glanced at him quickly and almost covertly.
 Then he said, "Quite--Oh, quite."
 
-There was a silence and then a few gay remarks about the weather;
+There was a [[Silence|silence]] and then a few gay remarks about the weather;
 and then Braintree found that the large man had somehow
 smoothly and inoffensively passed from him, swimming like some
 silent leviathan into other seas.  The large man's bald head
@@ -215,7 +215,7 @@ His conversation had somehow given the impression that he was not.
 The first stage of Mr. Braintree's course in culture was,
 perhaps, unfortunate.  For it left that gloomy character
 with a growing inward impression, right or wrong, to the effect
-that the partisan of Economic Education for the Masses had not
+that the partisan of Economic [[Education]] for the Masses had not
 himself the very vaguest idea of what "effective demand" means.
 
 This first fiasco, however, cannot be counted fairly;
@@ -247,7 +247,7 @@ from which he correctly deduced that Braintree was not an art expert.
 The expert therefore felt free to be even more expert than usual.
 His hollow eyes rolled reproachfully from the tie to a
 picture on the wall, by Lippi or some Italian primitive;
-for Seawood Abbey possessed fine pictures as well as fine books.
+for Seawood Abbey possessed fine pictures as [[Well|well]] as fine books.
 Some association of ideas led Wister to echo unconsciously the
 complaint of Olive Ashley and remark that the red used for the wings
 of one of the angels was something of a lost technical secret.
@@ -257,28 +257,28 @@ Braintree assented civilly, having no very special knowledge
 of pictures and no knowledge at all of Pigments.  This ignorance,
 or indifference completed the case founded on the crude necktie.
 The expert, now fully realising that he was talking to
-an utter outsider, expanded with radiant condescension.
+an utter [[Outsider|outsider]], expanded with radiant condescension.
 He delivered a sort of lecture.
 
 "Ruskin is very sound upon that point," said Mr. Almeric Wister.
 "You would be quite safe in reading Ruskin, if only as a sort
 of introduction to the subject.  With the exception of Pater,
 of course, there has been no critic since having that atmosphere
-of authority.  Democracy, of course, is not favourable to authority.
-And I very much fear, Mr. Braintree, that democracy is not
+of authority.  [[Democracy]], of course, is not favourable to authority.
+And I very much [[Fear|fear]], Mr. Braintree, that [[Democracy|democracy]] is not
 favourable to art."
 
-"Well, if ever we have any democracy, I suppose we shall
+"[[Well]], if ever we have any [[Democracy|democracy]], I suppose we shall
 find out," said Braintree.
 
-"I fear," said Wister, shaking his head, "that we have quite
+"I [[Fear|fear]]," said Wister, shaking his head, "that we have quite
 enough to lead us to neglect all artistic authorities."
 
 At this moment, Rosamund of the red hair and the square, sensible face,
 came up, steering through the crowd a sturdy young man, who also had
 a sensible face; but the resemblance ended there, for he was stodgy
 and even plain, with short bristly hair and a tooth-brush moustache.
-But he had the clear eyes of a man of courage and his manners were
+But he had the clear eyes of a man of [[Courage|courage]] and his manners were
 very pleasant and unpretending.  He was a squire of the neighbourhood,
 named Hanbury, with some reputation as a traveller in the tropics.
 After introducing him and exchanging a few words with the group,
@@ -286,7 +286,7 @@ she said to Wister, "I'm afraid we interrupted you"; which was
 indeed the case.
 
 "I was saying," said Wister, airily, but also a little loftily,
-"that I fear we have descended to democracy and an age of little men.
+"that I [[Fear|fear]] we have descended to [[Democracy|democracy]] and an age of little men.
 The great Victorians are gone."
 
 "Yes, of course," answered the girl, a little mechanically.
@@ -304,19 +304,19 @@ what I mean by a giant."
 "You can't really mean, Mr. Braintree," remonstrated the lady,
 "that you want great men to be killed."
 
-"Well, I think there's something in the idea," said Braintree.
-"Tennyson deserved to be killed for writing the May-Queen,
+"[[Well]], I think there's something in the idea," said Braintree.
+"Tennyson deserved to be killed for writing the May-[[Queen]],
 and Browning deserved to be killed for rhyming 'promise'
 and 'from mice,' and Carlyle deserved to be killed for being Carlyle;
 and Herbert Spencer deserved to be killed for writing 'The Man
 versus the State'; and Dickens deserved to be killed for not
-killing Little Nell quick enough; and Ruskin deserved to be killed
-for saying that Man ought to have no more freedom than the sun;
+killing [[Little Nell]] quick enough; and Ruskin deserved to be killed
+for saying that Man ought to have no more [[Freedom|freedom]] than the sun;
 and Gladstone deserved to be killed for deserting Parnell;
 and Disraeli deserved to be killed for talking about a
 'shrinking sire,' and Thackeray--"
 
-"Mercy on us!" interrupted the lady, laughing, "you really must
+"[[Mercy]] on us!" interrupted the lady, laughing, "you really must
 stop somewhere.  What a lot you seem to have read!"
 
 Wister appeared, for some reason or other, to be very much annoyed;
@@ -333,7 +333,7 @@ trades are paid equally already."
 
 "No, John Ruskin," replied the other.  "One of your Victorian giants."
 Then he added, "But the text and title of the book were not by
-John Ruskin, but by Jesus Christ; who had not, alas, the privilege
+John Ruskin, but by Jesus [[Christ]]; who had not, alas, the privilege
 of being a Victorian."
 
 The stodgy little man named Hanbury possibly felt that the conversation
@@ -348,7 +348,7 @@ will be a good deal of unrest among the miners?"
 "On the contrary," replied Braintree, "there will be a good deal
 of rest among the miners."
 
-The other frowned in momentary doubt, and said very quickly,
+The other frowned in momentary [[Doubt|doubt]], and said very quickly,
 "You don't mean the strike is off?"
 
 "The strike is very much on," said Braintree, grimly, "so there
@@ -359,14 +359,14 @@ shortly destined to be the Princess of the Troubadours.
 
 "I mean what I say," he replied, shortly.  "I say there will
 be a great deal of rest among the miners.  You always talk
-as if striking meant throwing a bomb or blowing up a house.
+as if striking meant throwing a bomb or blowing up a [[house]].
 Striking simply means resting."
 
-"Why, it's quite a paradox," cried his hostess, with a sort of joy,
+"Why, it's quite a [[Paradox|paradox]]," cried his hostess, with a sort of joy,
 as if it were a new parlour game and her party was now really going
-to be a success.
+to be a [[success]].
 
-"I should have thought it was a platitude, otherwise a plain truth,"
+"I should have thought it was a platitude, otherwise a plain [[Truth|truth]],"
 replied Braintree.  "During a strike the workers are resting;
 and a jolly new experience for some of them, I can tell you."
 
@@ -383,7 +383,7 @@ steady and yet gradually changing; the expression with which
 people of slow but sincere mental processes recognise something
 that has to be reckoned with, and possibly even respected.
 For although, or perhaps because, she had grown up smothered
-with wealth and luxury, she was quite innocent, and had never
+with wealth and luxury, she was quite [[Innocent|innocent]], and had never
 felt any shame in looking on the faces of her fellows.
 
 "Don't you think," she said at last, "we are just quarrelling
@@ -397,10 +397,10 @@ When you want to make us think you understand the situation,
 and still disapprove of the strike, say anything in the world
 except that.  Say there is the devil among the miners;
 say there is treason and anarchy among the miners;
-say there is blasphemy and madness among the miners.
+say there is blasphemy and [[Madness|madness]] among the miners.
 But don't say there is unrest among the miners.  For that one little
 word betrays the whole thing that is at the back of your mind;
-it is very old and its name is Slavery."
+it is very old and its name is [[Slavery]]."
 
 "This is very extraordinary," said Mr. Wister.
 
@@ -415,7 +415,7 @@ away all day while you are smoking or playing the piano--
 until a moment when the noise in the coal-cellar stops suddenly.
 It may be wrong for it to stop--it may be right--it may be all
 sorts of things.  But don't you see--can nothing make you see--
-what you really mean if you only say, like Hamlet to his
+what you really mean if you only say, like [[Hamlet]] to his
 old mole, 'Rest, perturbed spirit.'"
 
 "Ha," said Mr. Wister, graciously, "glad to see you
@@ -425,23 +425,23 @@ But Braintree went on without noticing the remark.
 
 "The hammering in your coal-hole that always goes on stops
 for an instant.  And what do you say to the man down there
-in the darkness?  You do not say, 'Thank you for doing it well.'
+in the darkness?  You do not say, 'Thank you for doing it [[Well|well]].'
 You do not even say, 'Damn you for doing it badly.'  What you
-do say is, 'Rest; sleep on.  Resume your normal state of repose.
+do say is, 'Rest; [[Sleep|sleep]] on.  Resume your normal state of repose.
 Continue in that state of complete quiescence which is normal
 to you and which nothing should ever have disturbed.
 Continue that rhythmic and lulling motion that must be to you
-the same as slumber; which is for you second nature and part of
-the nature of things.  _Continuez,_ as God said in Belloc's story.
+the same as slumber; which is for you second [[Nature|nature]] and part of
+the [[Nature|nature]] of things.  _Continuez,_ as God said in Belloc's story.
 Let there be no unrest.'"
 
 As he talked vehemently, but not violently, he became
 faintly conscious that many more faces were turned
 towards him and his group, not staring rudely, but giving
 a general sense of a crowd heading in that direction.
-He saw Murrel looking at him with melancholy amusement over
+He saw Murrel looking at him with [[Melancholy|melancholy]] amusement over
 a limp cigarette, and Archer glancing at him every now and then
-over his shoulder as if fearing he would set fire to the house.
+over his shoulder as if fearing he would set [[Fire|fire]] to the [[house]].
 He saw the eager and half-serious faces of several
 ladies of a sort always hungry for anything to happen.
 All those close to him were cloudy and bewildering;
@@ -451,7 +451,7 @@ but vivid face of little Miss Ashley of the paint-box, watching--.
 
 "But the man in the coal-cellar is only a stranger out of the street,"
 he went on, "who has gone into your black hole to attack a rock
-as he might attack a wild beast or any other brute force of nature.
+as he might attack a wild beast or any other brute force of [[Nature|nature]].
 To break coal in a coal-cellar is an action.  To break it in a coal-mine
 is an adventure.  The wild beast can kill in its own cavern.
 And fighting with that wild beast is eternal unrest; a war with chaos,
@@ -467,7 +467,7 @@ you don't say there is Unrest at the Travellers' Club."
 
 "Don't you see," went on Braintree, "that when you say that of us,
 you imply that we are all so much clockwork, and you never even notice
-the ticking till the clock stops."
+the ticking till the [[Clock|clock]] stops."
 
 "Yes," said Rosamund, "I think I see what you mean and I shan't
 forget it."  And, indeed, though she was not particularly clever,

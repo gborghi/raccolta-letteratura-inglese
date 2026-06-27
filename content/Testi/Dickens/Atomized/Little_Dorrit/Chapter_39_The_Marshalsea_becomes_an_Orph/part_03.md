@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 36: The Marshalsea becomes an Orphan (part 3)"
+title: "Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan]] (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -24,8 +24,8 @@ seemed for their consolation to walk encircled by the legend in golden
 characters, ‘Be comforted, my people! Bear it!’
 
 At last three honest cheers announced that he had passed the gate, and
-that the Marshalsea was an orphan. Before they had ceased to ring in the
-echoes of the prison walls, the family had got into their carriage, and
+that the Marshalsea was an [[Orphan|orphan]]. Before they had ceased to ring in the
+echoes of the [[Prison|prison]] walls, the family had got into their carriage, and
 the attendant had the steps in his hand.
 
 Then, and not before, ‘Good Gracious!’ cried Miss Fanny all at once,
@@ -46,13 +46,13 @@ narrow passage leading to the Lodge, flushed indignantly.
 ‘What is disgraceful, Fanny?’
 
 ‘I do say,’ she repeated, ‘this is perfectly infamous! Really almost
-enough, even at such a time as this, to make one wish one was dead!
-Here is that child Amy, in her ugly old shabby dress, which she was so
+enough, even at such a [[Time|time]] as this, to make one wish one was dead!
+Here is that [[Child|child]] Amy, in her ugly old shabby dress, which she was so
 obstinate about, Pa, which I over and over again begged and prayed her
 to change, and which she over and over again objected to, and promised
 to change to-day, saying she wished to wear it as long as ever she
 remained in there with you--which was absolutely romantic nonsense of
-the lowest kind--here is that child Amy disgracing us to the last moment
+the lowest kind--here is that [[Child|child]] Amy disgracing us to the last moment
 and at the last moment, by being carried out in that dress after all.
 And by that Mr Clennam too!’
 
@@ -62,15 +62,15 @@ his arms.
 
 ‘She has been forgotten,’ he said, in a tone of pity not free from
 reproach. ‘I ran up to her room (which Mr Chivery showed me) and found
-the door open, and that she had fainted on the floor, dear child.
+the door open, and that she had fainted on the floor, dear [[Child|child]].
 She appeared to have gone to change her dress, and to have sunk down
 overpowered. It may have been the cheering, or it may have happened
 sooner. Take care of this poor cold hand, Miss Dorrit. Don’t let it
 fall.’
 
-‘Thank you, sir,’ returned Miss Dorrit, bursting into tears. ‘I believe
+‘Thank you, sir,’ returned Miss Dorrit, bursting into [[Tears|tears]]. ‘I believe
 I know what to do, if you will give me leave. Dear Amy, open your eyes,
-that’s a love! Oh, Amy, Amy, I really am so vexed and ashamed! Do rouse
+that’s a [[Love|love]]! Oh, Amy, Amy, I really am so vexed and ashamed! Do rouse
 yourself, darling! Oh, why are they not driving on! Pray, Pa, do drive
 on!’
 

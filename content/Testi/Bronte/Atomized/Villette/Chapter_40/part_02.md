@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 38 (part 2)"
+title: "[[Villette]] — Chapter 38 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -38,7 +38,7 @@ his destination was “Basseterre in Guadaloupe:” the business which
 called him abroad related to a friend’s interests, not his own: I
 thought as much.
 
-“Basseterre in Guadaloupe.” I had little sleep about this time, but
+“Basseterre in Guadaloupe.” I had little [[Sleep|sleep]] about this [[Time|time]], but
 whenever I _did_ slumber, it followed infallibly that I was quickly
 roused with a start, while the words “Basseterre,” “Guadaloupe,” seemed
 pronounced over my pillow, or ran athwart the darkness round and before
@@ -47,19 +47,19 @@ me, in zigzag characters of red or violet light.
 For what I felt there was no help, and how could I help feeling? M.
 Emanuel had been very kind to me of late days; he had been growing
 hourly better and kinder. It was now a month since we had settled the
-theological difference, and in all that time there had been no quarrel.
-Nor had our peace been the cold daughter of divorce; we had not lived
+theological difference, and in all that [[Time|time]] there had been no quarrel.
+Nor had our peace been the cold daughter of [[divorce]]; we had not lived
 aloof; he had come oftener, he had talked with me more than before; he
 had spent hours with me, with temper soothed, with eye content, with
-manner home-like and mild. Kind subjects of conversation had grown
+manner [[Home|home]]-like and mild. Kind subjects of conversation had grown
 between us; he had inquired into my plans of life, and I had
 communicated them; the school project pleased him; he made me repeat it
 more than once, though he called it an Alnaschar dream. The jar was
 over; the mutual understanding was settling and fixing; feelings of
-union and hope made themselves profoundly felt in the heart; affection
+[[Union|union]] and [[Hope|hope]] made themselves profoundly felt in the heart; affection
 and deep esteem and dawning trust had each fastened its bond.
 
-What quiet lessons I had about this time! No more taunts on my
+What quiet lessons I had about this [[Time|time]]! No more taunts on my
 “intellect,” no more menaces of grating public shows! How sweetly, for
 the jealous gibe, and the more jealous, half-passionate eulogy, were
 substituted a mute, indulgent help, a fond guidance, and a tender
@@ -80,15 +80,15 @@ brother? Did his look speak a kindness beyond fraternity or amity?
 His eloquent look had more to say, his hand drew me forward, his
 interpreting lips stirred. No. Not now. Here into the twilight alley
 broke an interruption: it came dual and ominous: we faced two bodeful
-forms—a woman’s and a priest’s—Madame Beck and Père Silas.
+forms—a woman’s and a priest’s—[[Madame Beck]] and Père Silas.
 
 The aspect of the latter I shall never forget. On the first impulse it
 expressed a Jean-Jacques sensibility, stirred by the signs of affection
 just surprised; then, immediately, darkened over it the jaundice of
-ecclesiastical jealousy. He spoke to _me_ with unction. He looked on
-his pupil with sternness. As to Madame Beck, she, of course, saw
+ecclesiastical [[Jealousy|jealousy]]. He spoke to _me_ with unction. He looked on
+his pupil with sternness. As to [[Madame Beck]], she, of course, saw
 nothing—nothing; though her kinsman retained in her presence the hand
-of the heretic foreigner, not suffering withdrawal, but clasping it
+of the heretic foreigner, not [[Suffering|suffering]] withdrawal, but clasping it
 close and fast.
 
 Following these incidents, that sudden announcement of departure had
@@ -102,21 +102,21 @@ The last day broke. Now would he visit us. Now he would come and speak
 his farewell, or he would vanish mute, and be seen by us nevermore.
 
 This alternative seemed to be present in the mind of not a living
-creature in that school. All rose at the usual hour; all breakfasted as
+creature in that school. All [[Rose|rose]] at the usual hour; all breakfasted as
 usual; all, without reference to, or apparent thought of their late
 Professor, betook themselves with wonted phlegm to their ordinary
 duties.
 
-So oblivious was the house, so tame, so trained its proceedings, so
+So oblivious was the [[house]], so tame, so trained its proceedings, so
 inexpectant its aspect—I scarce knew how to breathe in an atmosphere
 thus stagnant, thus smothering. Would no one lend me a voice? Had no
-one a wish, no one a word, no one a prayer to which I could say—Amen?
+one a wish, no one a word, no one a [[Prayer|prayer]] to which I could say—Amen?
 
 I had seen them unanimous in demand for the merest trifle—a treat, a
 holiday, a lesson’s remission; they could not, they _would_ not now
-band to besiege Madame Beck, and insist on a last interview with a
+band to besiege [[Madame Beck]], and insist on a last interview with a
 Master who had certainly been loved, at least by some—loved as _they_
-could love—but, oh! what _is_ the love of the multitude?
+could [[Love|love]]—but, oh! what _is_ the [[Love|love]] of the multitude?
 
 I knew where he lived: I knew where he was to be heard of, or
 communicated with; the distance was scarce a stone’s-throw: had it been

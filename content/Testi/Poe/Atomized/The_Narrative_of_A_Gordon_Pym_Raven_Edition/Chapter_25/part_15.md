@@ -18,7 +18,7 @@ tags:
 
 
 
-      “The sight of this monster rather relieved than heightened my
+      “The sight of this [[Monster|monster]] rather relieved than heightened my
 
       terrors—for I now made sure that I dreamed, and endeavored to
 
@@ -26,7 +26,7 @@ tags:
 
       briskly forward. I rubbed my eyes. I called aloud. I pinched my
 
-      limbs. A small spring of water presented itself to my view, and
+      limbs. A small [[spring]] of [[Water|water]] presented itself to my view, and
 
       here, stooping, I bathed my hands and my head and neck. This
 
@@ -44,9 +44,9 @@ tags:
 
       tree. Presently there came a feeble gleam of sunshine, and the
 
-      shadow of the leaves of the tree fell faintly but definitely upon
+      [[Shadow|shadow]] of the [[Leaves|leaves]] of the tree fell faintly but definitely upon
 
-      the grass. At this shadow I gazed wonderingly for many minutes.
+      the grass. At this [[Shadow|shadow]] I gazed wonderingly for many minutes.
 
       Its character stupefied me with astonishment. I looked upward.
 
@@ -60,13 +60,13 @@ tags:
 
       that I had perfect command of my senses—and these senses now
 
-      brought to my soul a world of novel and singular sensation. The
+      brought to my [[Soul|soul]] a world of [[Novel|novel]] and singular sensation. The
 
       heat became all at once intolerable. A strange odor loaded the
 
       breeze. A low, continuous murmur, like that arising from a full,
 
-      but gently flowing river, came to my ears, intermingled with the
+      but gently flowing [[River|river]], came to my ears, intermingled with the
 
       peculiar hum of multitudinous human voices.
 
@@ -74,7 +74,7 @@ tags:
 
       “While I listened in an extremity of astonishment which I need
 
-      not attempt to describe, a strong and brief gust of wind bore off
+      not attempt to describe, a strong and brief gust of [[Wind|wind]] bore off
 
       the incumbent fog as if by the wand of an enchanter.
 
@@ -82,9 +82,9 @@ tags:
 
       “I found myself at the foot of a high mountain, and looking down
 
-      into a vast plain, through which wound a majestic river. On the
+      into a vast plain, through which wound a majestic [[River|river]]. On the
 
-      margin of this river stood an Eastern-looking city, such as we
+      margin of this [[River|river]] stood an Eastern-looking [[City|city]], such as we
 
       read of in the Arabian Tales, but of a character even more
 
@@ -130,15 +130,15 @@ tags:
 
       clung to the minarets and oriels. From the swarming streets to
 
-      the banks of the river, there descended innumerable flights of
+      the banks of the [[River|river]], there descended innumerable flights of
 
-      steps leading to bathing places, while the river itself seemed to
+      steps leading to bathing places, while the [[River|river]] itself seemed to
 
       force a passage with difficulty through the vast fleets of
 
       deeply-burthened ships that far and wide encountered its surface.
 
-      Beyond the limits of the city arose, in frequent majestic groups,
+      Beyond the limits of the [[City|city]] arose, in frequent majestic groups,
 
       the palm and the cocoa, with other gigantic and weird trees of
 
@@ -148,7 +148,7 @@ tags:
 
       or a solitary graceful maiden taking her way, with a pitcher upon
 
-      her head, to the banks of the magnificent river.
+      her head, to the banks of the magnificent [[River|river]].
 
 
 
@@ -158,21 +158,21 @@ tags:
 
       of the unmistakable idiosyncrasy of the dream. All was rigorously
 
-      self-consistent. At first, doubting that I was really awake, I
+      [[Self|self]]-consistent. At first, doubting that I was really awake, I
 
       entered into a series of tests, which soon convinced me that I
 
-      really was. Now, when one dreams, and, in the dream, suspects
+      really was. Now, when one [[Dreams|dreams]], and, in the dream, suspects
 
-      that he dreams, the suspicion never fails to confirm itself, and
+      that he [[Dreams|dreams]], the suspicion never fails to confirm itself, and
 
-      the sleeper is almost immediately aroused. Thus Novalis errs not
+      [[The Sleeper|the sleeper]] is almost immediately aroused. Thus Novalis errs not
 
       in saying that ‘we are near waking when we dream that we dream.’
 
       Had the vision occurred to me as I describe it, without my
 
-      suspecting it as a dream, then a dream it might absolutely have
+      suspecting it as [[A Dream|a dream]], then [[A Dream|a dream]] it might absolutely have
 
       been, but, occurring as it did, and suspected and tested as it
 
@@ -182,7 +182,7 @@ tags:
 
       “In this I am not sure that you are wrong,” observed Dr.
 
-      Templeton, “but proceed. You arose and descended into the city.”
+      Templeton, “but proceed. You arose and descended into the [[City|city]].”
 
 
 
@@ -190,7 +190,7 @@ tags:
 
       profound astonishment “I arose, as you say, and descended into
 
-      the city. On my way I fell in with an immense populace, crowding
+      the [[City|city]]. On my way I fell in with an immense populace, crowding
 
       through every avenue, all in the same direction, and exhibiting
 

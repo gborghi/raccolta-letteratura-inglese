@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 8 (part 6)"
+title: "[[longbow2]] — Chapter 8 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -15,13 +15,13 @@ tags:
 
 
 "Then something happened, which even those who saw it and survived
-cannot describe.  The dark trees seemed to spring up to twice
-their height as in a nightmare.  In the half-dark the whole wood
-seemed to rise from the earth like a rush of birds and then to turn
+cannot describe.  The dark trees seemed to [[Spring|spring]] up to twice
+their height as in a [[nightmare]].  In the half-dark the whole wood
+seemed to rise from the earth like a rush of [[Birds|birds]] and then to turn
 over in mid-air and come towards the invaders like a roaring wave. 
 Some such dim and dizzy sight they saw; but many of them at least saw
 little enough afterwards.  Simultaneously with the turning of this
-wheel of waving trees, rocks seemed to rain down out of heaven;
+[[Wheel|wheel]] of waving trees, rocks seemed to rain down out of heaven;
 beams and stones and shafts and missiles of all kinds, flattening out
 the advancing force as under a pavement produced by a shower of
 paving-stones. It is asserted that some of the countrymen cunning
@@ -86,14 +86,14 @@ where they are only white elephants?  Go and say to a Frenchman,
 and he will send two Parisian alienists to look at you seriously,
 like a man who says that his motor-car is a green giraffe.
 There is no point in telling Czecho-Slovakian pigs to fly,
-or Jugo-Slavonic cows to jump over the moon.  Why, the unhappy
-Lithuanian would be bewildered to the point of madness by our
+or Jugo-Slavonic cows to jump over the [[Moon|moon]].  Why, the unhappy
+Lithuanian would be bewildered to the point of [[Madness|madness]] by our
 very name.  There is no reason to suppose that he and his
 countrymen talk about a long bowman when they mean a liar.
 We talk about tall stories, but a tall story may mean a true
 story in colloquial Lithuanian."
 
-"Tall stories are true stories sometimes, I hope," said Colonel Crane,
+"Tall stories are true stories sometimes, I [[Hope|hope]]," said Colonel Crane,
 "and people don't believe 'em.  But people'll say that was a
 very tall story about the tall trees throwing darts and stones. 
 Afraid it'll come to be a bit of a joke."
@@ -105,36 +105,36 @@ linger only as faintly laughable legends, if they linger at all;
 they may pass an hour or two or fill an empty page; and even the man
 who tells them will not take them seriously.  It will all end
 in smoke like the smoke I am looking at; in eddying and topsy-turvy
-patterns hovering for a moment in the air.  And I wonder how many,
+patterns hovering for a moment in the air.  And I [[Wonder|wonder]] how many,
 who may smile or yawn over them, will realize that where there was
-smoke there was fire."
+smoke there was [[Fire|fire]]."
 
-There was a silence; then Colonel Crane stood up, a solitary figure in his
+There was a [[Silence|silence]]; then Colonel Crane stood up, a solitary figure in his
 severe and formal clothes, and gravely said farewell to his hostess. 
 With the failing afternoon light he knew that his own wife,
-who was a well-known artist, would be abandoning her studio work,
+who was a [[Well|well]]-known [[Artist|artist]], would be abandoning her studio work,
 and he always looked forward to a talk with her before dinner,
 which was often a more social function.  Nevertheless, as he
-approached his old home a whim induced him to delay the meeting
-for a few minutes and to walk round to his old kitchen garden,
+approached his old [[Home|home]] a whim induced him to delay the meeting
+for a few minutes and to walk round to his old kitchen [[Garden|garden]],
 where his old servant Archer was still leaning on a spade,
 as in the days before the Flood.
 
 So he stood for a moment amid a changing world, exactly as he
-had stood on that distant Sunday morning at the beginning of all
+had stood on that distant [[Sunday]] morning at the beginning of all
 these things.  The South Sea idol still stood at the corner;
 the scarecrow still wore the hat that he had sacrificed; the cabbages
 still looked green and solid like the cabbage he had once dug up,
 digging up so much along with it.
 
 "Queer thing," he said, "how true it is what Hilary once said about
-acting an allegory without knowing it.  Never had a notion of what I
+acting an [[Allegory|allegory]] without knowing it.  Never had a notion of what I
 was doing when I picked up a cabbage and wore it for a wager. 
 Damned awkward position, but I never dreamed I was being martyred
 for a symbol.  And the right symbol, too, for I've lived to see
-Britannia crowned with cabbage.  All very well to say Britannia
+Britannia crowned with cabbage.  All very [[Well|well]] to say Britannia
 ruled the waves; it was the land she couldn't rule, her own land,
 and it was heaving like earthquakes.  But while there's cabbage
-there's hope.  Archer, my friend, this is the moral:  any country
+there's [[Hope|hope]].  Archer, my friend, this is the moral:  any country
 that tries to do without cabbages is done for.  And even in war you
 often fight as much with cabbages as cannon-balls."

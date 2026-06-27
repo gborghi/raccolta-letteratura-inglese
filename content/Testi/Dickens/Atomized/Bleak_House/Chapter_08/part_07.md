@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 8 (part 7)"
+title: "Bleak [[house|House]] — Chapter 8 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,27 +15,27 @@ tags:
 
 
 She supposed that we were following her, but as soon as the space was
-left clear, we approached the woman sitting by the fire to ask if the
+left clear, we approached the woman sitting by the [[Fire|fire]] to ask if the
 baby were ill.
 
 She only looked at it as it lay on her lap. We had observed before
 that when she looked at it she covered her discoloured eye with her
 hand, as though she wished to separate any association with noise and
-violence and ill treatment from the poor little child.
+violence and ill treatment from the poor little [[Child|child]].
 
 Ada, whose gentle heart was moved by its appearance, bent down to
 touch its little face. As she did so, I saw what happened and drew
-her back. The child died.
+her back. The [[Child|child]] died.
 
 “Oh, Esther!” cried Ada, sinking on her knees beside it. “Look here!
-Oh, Esther, my love, the little thing! The suffering, quiet, pretty
+Oh, Esther, my [[Love|love]], the little thing! The [[Suffering|suffering]], quiet, pretty
 little thing! I am so sorry for it. I am so sorry for the mother. I
 never saw a sight so pitiful as this before! Oh, baby, baby!”
 
 Such compassion, such gentleness, as that with which she bent down
 weeping and put her hand upon the mother’s might have softened any
 mother’s heart that ever beat. The woman at first gazed at her in
-astonishment and then burst into tears.
+astonishment and then burst into [[Tears|tears]].
 
 Presently I took the light burden from her lap, did what I could to
 make the baby’s rest the prettier and gentler, laid it on a shelf,
@@ -51,12 +51,12 @@ he was silent.
 
 An ugly woman, very poorly clothed, hurried in while I was glancing
 at them, and coming straight up to the mother, said, “Jenny! Jenny!”
-The mother rose on being so addressed and fell upon the woman’s neck.
+The mother [[Rose|rose]] on being so addressed and fell upon the woman’s neck.
 
 She also had upon her face and arms the marks of ill usage. She had
 no kind of grace about her, but the grace of sympathy; but when she
-condoled with the woman, and her own tears fell, she wanted no
-beauty. I say condoled, but her only words were “Jenny! Jenny!” All
+condoled with the woman, and her own [[Tears|tears]] fell, she wanted no
+[[Beauty|beauty]]. I say condoled, but her only words were “Jenny! Jenny!” All
 the rest was in the tone in which she said them.
 
 I thought it very touching to see these two women, coarse and shabby
@@ -73,17 +73,17 @@ scarcely room for us to pass, went out before us. He seemed to want
 to hide that he did this on our account, but we perceived that he
 did, and thanked him. He made no answer.
 
-Ada was so full of grief all the way home, and Richard, whom we found
-at home, was so distressed to see her in tears (though he said to me,
+Ada was so full of grief all the way [[Home|home]], and [[Richard]], whom we found
+at [[Home|home]], was so distressed to see her in [[Tears|tears]] (though he said to me,
 when she was not present, how beautiful it was too!), that we
-arranged to return at night with some little comforts and repeat our
-visit at the brick-maker’s house. We said as little as we could to
-Mr. Jarndyce, but the wind changed directly.
+arranged to return at [[Night|night]] with some little comforts and repeat our
+visit at the brick-maker’s [[house]]. We said as little as we could to
+Mr. Jarndyce, but the [[Wind|wind]] changed directly.
 
-Richard accompanied us at night to the scene of our morning
-expedition. On our way there, we had to pass a noisy drinking-house,
+[[Richard]] accompanied us at [[Night|night]] to the scene of our morning
+expedition. On our way there, we had to pass a noisy drinking-[[house]],
 where a number of men were flocking about the door. Among them, and
-prominent in some dispute, was the father of the little child. At a
+prominent in some dispute, was the father of the little [[Child|child]]. At a
 short distance, we passed the young man and the dog, in congenial
 company. The sister was standing laughing and talking with some other
 young women at the corner of the row of cottages, but she seemed
@@ -96,17 +96,17 @@ anxiously out.
 
 “It’s you, young ladies, is it?” she said in a whisper. “I’m
 a-watching for my master. My heart’s in my mouth. If he was to catch
-me away from home, he’d pretty near murder me.”
+me away from [[Home|home]], he’d pretty near murder me.”
 
 “Do you mean your husband?” said I.
 
 “Yes, miss, my master. Jenny’s asleep, quite worn out. She’s scarcely
-had the child off her lap, poor thing, these seven days and nights,
+had the [[Child|child]] off her lap, poor thing, these seven days and nights,
 except when I’ve been able to take it for a minute or two.”
 
 As she gave way for us, she went softly in and put what we had
 brought near the miserable bed on which the mother slept. No effort
-had been made to clean the room—it seemed in its nature almost
+had been made to clean the room—it seemed in its [[Nature|nature]] almost
 hopeless of being clean; but the small waxen form from which so much
 solemnity diffused itself had been composed afresh, and washed, and
 neatly dressed in some fragments of white linen; and on my
@@ -118,15 +118,15 @@ lightly, so tenderly!
 
 “Me, young ladies?” she returned with surprise. “Hush! Jenny, Jenny!”
 
-The mother had moaned in her sleep and moved. The sound of the
+The mother had moaned in her [[Sleep|sleep]] and moved. The sound of the
 familiar voice seemed to calm her again. She was quiet once more.
 
 How little I thought, when I raised my handkerchief to look upon the
 tiny sleeper underneath and seemed to see a halo shine around the
-child through Ada’s drooping hair as her pity bent her head—how
+[[Child|child]] through Ada’s drooping hair as her pity bent her head—how
 little I thought in whose unquiet bosom that handkerchief would come
 to lie after covering the motionless and peaceful breast! I only
-thought that perhaps the Angel of the child might not be all
+thought that perhaps the Angel of the [[Child|child]] might not be all
 unconscious of the woman who replaced it with so compassionate a
 hand; not all unconscious of her presently, when we had taken leave,
 and left her at the door, by turns looking, and listening in terror

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 38"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 38"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,11 +24,11 @@ December 20th, 1826.—The fifth anniversary of my wedding-day, and, I
 
 trust, the last I shall spend under this roof. My resolution is formed,
 
-my plan concocted, and already partly put in execution. My conscience
+my plan concocted, and already partly put in execution. My [[Conscience|conscience]]
 
 does not blame me, but while the purpose ripens let me beguile a few of
 
-these long winter evenings in stating the case for my own satisfaction:
+these long [[Winter|winter]] evenings in stating the case for my own satisfaction:
 
 a dreary amusement enough, but having the air of a useful occupation,
 
@@ -54,9 +54,9 @@ But the ladies stayed only three weeks; the gentlemen, with two
 
 exceptions, above two months: for their hospitable entertainer was loth
 
-to part with them and be left alone with his bright intellect, his
+to part with them and be left [[Alone|alone]] with his bright intellect, his
 
-stainless conscience, and his loved and loving wife.
+stainless [[Conscience|conscience]], and his loved and loving wife.
 
 
 
@@ -86,11 +86,11 @@ thenceforth particularly reprehensible or suspicious in her demeanour
 
 towards her host; but then I had the other guests to attend to, and I
 
-did not watch them narrowly—for, to confess the truth, I _feared_ to
+did not watch them narrowly—for, to confess the [[Truth|truth]], I _feared_ to
 
 see anything between them. I no longer regarded it as any concern of
 
-mine, and if it was my duty to enlighten Lord Lowborough, it was a
+mine, and if it was my duty to enlighten [[Lord Lowborough]], it was a
 
 painful duty, and I dreaded to be called to perform it.
 
@@ -112,9 +112,9 @@ talk, and smile and listen, and play the attentive hostess, or even the
 
 cheerful friend: I had just ensconced myself within the bow of the
 
-window, and was looking out upon the west, where the darkening hills
+[[Window|window]], and was looking out upon the west, where the darkening hills
 
-rose sharply defined against the clear amber light of evening, that
+[[Rose|rose]] sharply defined against the clear amber light of evening, that
 
 gradually blended and faded away into the pure, pale blue of the upper
 
@@ -126,7 +126,7 @@ they who trust in God, whose minds are unbeclouded by the mists of
 
 unbelief and sin, are never wholly comfortless,”—when I heard a hurried
 
-step approaching, and Lord Lowborough entered. This room was still his
+step approaching, and [[Lord Lowborough]] entered. This room was still his
 
 favourite resort. He flung the door to with unusual violence, and cast
 
@@ -146,11 +146,11 @@ fearful agitation, violently wringing his hands and uttering low groans
 
 or incoherent ejaculations. I made a movement to let him know that he
 
-was not alone; but he was too preoccupied to notice it. Perhaps, while
+was not [[Alone|alone]]; but he was too preoccupied to notice it. Perhaps, while
 
-his back was towards me, I might cross the room and slip away
+his back was towards me, I might [[Cross|cross]] the room and slip away
 
-unobserved. I rose to make the attempt, but then he perceived me. He
+unobserved. I [[Rose|rose]] to make the attempt, but then he perceived me. He
 
 started and stood still a moment; then wiped his streaming forehead,
 
@@ -174,7 +174,7 @@ bitterness, as it appeared to me.
 
 
 
-“I have so long been aware of—” I paused in time, and added, “of my
+“I have so long been aware of—” I paused in [[Time|time]], and added, “of my
 
 husband’s character, that nothing shocks me.”
 
@@ -230,7 +230,7 @@ eagerness.
 
 
 
-“Great heaven! and she has duped me all this time!” He turned away with
+“Great heaven! and she has duped me all this [[Time|time]]!” He turned away with
 
 a suppressed groan of agony, and paced the room again in a paroxysm of
 
@@ -246,7 +246,7 @@ you. She is as little worthy of your regret as she was of your
 
 affection. Let her injure you no further; abstract yourself from her,
 
-and stand alone.”
+and stand [[Alone|alone]].”
 
 
 
@@ -256,7 +256,7 @@ upon me, “you have injured me too by this ungenerous concealment!”
 
 
 
-There was a sudden revulsion in my feelings. Something rose within me,
+There was a sudden revulsion in my feelings. Something [[Rose|rose]] within me,
 
 and urged me to resent this harsh return for my heartfelt sympathy, and
 
@@ -264,13 +264,13 @@ defend myself with answering severity. Happily, I did not yield to the
 
 impulse. I saw his anguish as, suddenly smiting his forehead, he turned
 
-abruptly to the window, and, looking upward at the placid sky, murmured
+abruptly to the [[Window|window]], and, looking upward at the placid sky, murmured
 
 passionately, “O God, that I might die!”—and felt that to add one drop
 
 of bitterness to that already overflowing cup would be ungenerous
 
-indeed. And yet I fear there was more coldness than gentleness in the
+indeed. And yet I [[Fear|fear]] there was more coldness than gentleness in the
 
 quiet tone of my reply:—“I might offer many excuses that some would
 
@@ -292,7 +292,7 @@ possessed—”
 
 “I confess I was wrong,” continued I, without regarding this bitter
 
-interruption; “but whether want of courage or mistaken kindness was the
+interruption; “but whether want of [[Courage|courage]] or mistaken kindness was the
 
 cause of my error, I think you blame me too severely. I told Lady
 
@@ -308,13 +308,13 @@ trusted she had altered her course.”
 
 
 
-He continued gazing from the window while I spoke, and did not answer,
+He continued gazing from the [[Window|window]] while I spoke, and did not answer,
 
 but, stung by the recollections my words awakened, stamped his foot
 
 upon the floor, ground his teeth, and corrugated his brow, like one
 
-under the influence of acute physical pain.
+under the influence of acute physical [[Pain|pain]].
 
 
 
@@ -386,21 +386,21 @@ so, with such a husband?”
 
 “I have noticed a change in your appearance since the first years of
 
-your marriage,” pursued he: “I observed it to—to that infernal demon,”
+your [[Marriage|marriage]],” pursued he: “I observed it to—to that infernal demon,”
 
 he muttered between his teeth; “and he said it was your own sour temper
 
 that was eating away your bloom: it was making you old and ugly before
 
-your time, and had already made his fireside as comfortless as a
+your [[Time|time]], and had already made his fireside as comfortless as a
 
 convent cell. You smile, Mrs. Huntingdon; nothing moves you. I wish my
 
-nature were as calm as yours.”
+[[Nature|nature]] were as calm as yours.”
 
 
 
-“My nature was not originally calm,” said I. “I have learned to appear
+“My [[Nature|nature]] was not originally calm,” said I. “I have learned to appear
 
 so by dint of hard lessons and many repeated efforts.”
 
@@ -414,7 +414,7 @@ At this juncture Mr. Hattersley burst into the room.
 
 seeing me. “I didn’t know it was a _tête-à-tête_. Cheer up, man,” he
 
-continued, giving Lord Lowborough a thump on the back, which caused the
+continued, giving [[Lord Lowborough]] a thump on the back, which caused the
 
 latter to recoil from him with looks of ineffable disgust and
 
@@ -466,11 +466,11 @@ happens—why, that’ll be all right too, I daresay, to a desperate fellow
 
 like you. Come now, give me your hand, and don’t look so black upon it.
 
-Name time and place, and I’ll manage the rest.”
+Name [[Time|time]] and place, and I’ll manage the rest.”
 
 
 
-“That,” answered the more low, deliberate voice of Lord Lowborough, “is
+“That,” answered the more low, deliberate voice of [[Lord Lowborough]], “is
 
 just the remedy my own heart, or the devil within it, suggested—to meet
 
@@ -480,7 +480,7 @@ both, it would be an _inexpressible_ relief to me, if—”
 
 
 
-“Just so! Well then,—”
+“Just so! [[Well]] then,—”
 
 
 
@@ -504,13 +504,13 @@ leave that, too, to Him that gave it.”
 
 
 
-“Then you’re a white-livered fool, and I wash my hands of you,”
+“Then you’re a white-livered [[Fool|fool]], and I wash my hands of you,”
 
 grumbled the tempter, as he swung himself round and departed.
 
 
 
-“Right, right, Lord Lowborough,” cried I, darting out and clasping his
+“Right, right, [[Lord Lowborough]],” cried I, darting out and clasping his
 
 burning hand, as he was moving away to the stairs. “I begin to think
 
@@ -538,7 +538,7 @@ I returned to the drawing-room, where, doubtless, my presence would be
 
 expected by most, desired by one or two. In the ante-room was Mr.
 
-Hattersley, railing against Lord Lowborough’s poltroonery before a
+Hattersley, railing against [[Lord Lowborough]]’s poltroonery before a
 
 select audience, viz. Mr. Huntingdon, who was lounging against the
 
@@ -560,7 +560,7 @@ very uncalled-for under the circumstances, for she had herself given
 
 the company to understand that her husband had received unpleasant
 
-intelligence from home, which necessitated his immediate departure, and
+intelligence from [[Home|home]], which necessitated his immediate departure, and
 
 that he had suffered it so to bother his mind that it had brought on a
 
@@ -568,7 +568,7 @@ bilious headache, owing to which, and the preparations he judged
 
 necessary to hasten his departure, she believed they would not have the
 
-pleasure of seeing him to-night. However, she asserted, it was only a
+pleasure of seeing him to-[[Night|night]]. However, she asserted, it was only a
 
 business concern, and so she did not intend it should trouble _her._
 
@@ -592,9 +592,9 @@ saw you in better spirits in my life.”
 
 
 
-“Precisely so, my love: because I wish to make the best of your
+“Precisely so, my [[Love|love]]: because I wish to make the best of your
 
-society, since it appears this is to be the last night I am to enjoy it
+society, since it appears this is to be the last [[Night|night]] I am to enjoy it
 
 till heaven knows when; and I wish to leave a good impression on you
 
@@ -602,23 +602,23 @@ all,”—she glanced round, and seeing her aunt’s eye fixed upon her,
 
 rather too scrutinizingly, as she probably thought, she started up and
 
-continued: “To which end I’ll give you a song—shall I, aunt? shall I,
+continued: “To which end I’ll give you a [[Song|song]]—shall I, aunt? shall I,
 
-Mrs. Huntingdon? shall I ladies and gentlemen all? Very well. I’ll do
+Mrs. Huntingdon? shall I ladies and gentlemen all? Very [[Well|well]]. I’ll do
 
 my best to amuse you.”
 
 
 
-She and Lord Lowborough occupied the apartments next to mine. I know
+She and [[Lord Lowborough]] occupied the apartments next to mine. I know
 
-not how _she_ passed the night, but I lay awake the greater part of it
+not how _she_ passed the [[Night|night]], but I lay awake the greater part of it
 
 listening to his heavy step pacing monotonously up and down his
 
 dressing-room, which was nearest my chamber. Once I heard him pause and
 
-throw something out of the window with a passionate ejaculation; and in
+throw something out of the [[Window|window]] with a passionate ejaculation; and in
 
 the morning, after they were gone, a keen-bladed clasp-knife was found
 
@@ -626,7 +626,7 @@ on the grass-plot below; a razor, likewise, was snapped in two and
 
 thrust deep into the cinders of the grate, but partially corroded by
 
-the decaying embers. So strong had been the temptation to end his
+the decaying embers. So strong had been the [[Temptation|temptation]] to end his
 
 miserable life, so determined his resolution to resist it.
 
@@ -638,7 +638,7 @@ Hitherto I had thought too much of myself, too little of him: now I
 
 forgot my own afflictions, and thought only of his; of the ardent
 
-affection so miserably wasted, the fond faith so cruelly betrayed,
+affection so miserably wasted, the fond [[Faith|faith]] so cruelly betrayed,
 
 the—no, I will not attempt to enumerate his wrongs—but I hated his wife
 
@@ -650,19 +650,19 @@ his.
 
 They departed early in the morning, before any one else was down,
 
-except myself, and just as I was leaving my room Lord Lowborough was
+except myself, and just as I was leaving my room [[Lord Lowborough]] was
 
 descending to take his place in the carriage, where his lady was
 
-already ensconced; and Arthur (or Mr. Huntingdon, as I prefer calling
+already ensconced; and [[arthur|Arthur]] (or Mr. Huntingdon, as I prefer calling
 
-him, for the other is my child’s name) had the gratuitous insolence to
+him, for the other is my [[Child|child]]’s name) had the gratuitous insolence to
 
 come out in his dressing-gown to bid his “friend” good-by.
 
 
 
-“What, going already, Lowborough!” said he. “Well, good-morning.” He
+“What, going already, Lowborough!” said he. “[[Well]], good-morning.” He
 
 smilingly offered his hand.
 
@@ -684,7 +684,7 @@ departed.
 
 
 
-“I call that an unchristian spirit now,” said the villain. “But I’d
+“I call that an unchristian spirit now,” said the [[Villain|villain]]. “But I’d
 
 never give up an old friend for the sake of a wife. You may have mine
 
@@ -694,13 +694,13 @@ restitution, can I?”
 
 
 
-But Lowborough had gained the bottom of the stairs, and was now
+But Lowborough had gained the [[Bottom|bottom]] of the stairs, and was now
 
 crossing the hall; and Mr. Huntingdon, leaning over the banisters,
 
-called out, “Give my love to Annabella! and I wish you both a happy
+called out, “Give my [[Love|love]] to Annabella! and I wish you both a happy
 
-journey,” and withdrew, laughing, to his chamber.
+[[Journey|journey]],” and withdrew, laughing, to his chamber.
 
 
 

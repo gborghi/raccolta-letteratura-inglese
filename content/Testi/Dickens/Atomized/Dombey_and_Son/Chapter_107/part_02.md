@@ -19,7 +19,7 @@ energy.
 
 “I beg your pardon,” interposes Cousin Feenix. “Allow me another word.
 My friend Dombey will permit me to say, that if any circumstance could
-have added to the most infernal state of pain in which I find myself on
+have added to the most infernal state of [[Pain|pain]] in which I find myself on
 this occasion, it would be the natural amazement of the world at my
 lovely and accomplished relative (as I must still beg leave to call
 her) being supposed to have so committed herself with a person—man with
@@ -32,7 +32,7 @@ for a man), will interpose no obstacle in his way, and will be happy to
 assent to any honourable course of proceeding, with a view to the
 future, that he may point out. I trust my friend Dombey will give me
 credit for the intentions by which I am animated in this very
-melancholy affair, and—a—in point of fact, I am not aware that I need
+[[Melancholy|melancholy]] affair, and—a—in point of fact, I am not aware that I need
 trouble my friend Dombey with any further observations.”
 
 Mr Dombey bows, without raising his eyes, and is silent.
@@ -41,8 +41,8 @@ Mr Dombey bows, without raising his eyes, and is silent.
 amount of eloquence that Old Joe B. has never heard surpassed—no, by
 the Lord, Sir! never!”—says the Major, very blue, indeed, and grasping
 his cane in the middle—“stated the case as regards the lady, I shall
-presume upon our friendship, Dombey, to offer a word on another aspect
-of it. Sir,” says the Major, with the horse’s cough, “the world in
+presume upon our [[Friendship|friendship]], Dombey, to offer a word on another aspect
+of it. Sir,” says the Major, with the [[Horse|horse]]’s cough, “the world in
 these things has opinions, which must be satisfied.”
 
 “I know it,” rejoins Mr Dombey.
@@ -50,16 +50,16 @@ these things has opinions, which must be satisfied.”
 “Of course you know it, Dombey,” says the Major, “Damme, Sir, I know
 you know it. A man of your calibre is not likely to be ignorant of it.”
 
-“I hope not,” replies Mr Dombey.
+“I [[Hope|hope]] not,” replies Mr Dombey.
 
 “Dombey!” says the Major, “you will guess the rest. I speak
 out—prematurely, perhaps—because the Bagstock breed have always spoke
 out. Little, Sir, have they ever got by doing it; but it’s in the
-Bagstock blood. A shot is to be taken at this man. You have J. B. at
+Bagstock [[Blood|blood]]. A shot is to be taken at this man. You have J. B. at
 your elbow. He claims the name of friend. God bless you!”
 
 “Major,” returns Mr Dombey, “I am obliged. I shall put myself in your
-hands when the time comes. The time not being come, I have forborne to
+hands when the [[Time|time]] comes. The [[Time|time]] not being come, I have forborne to
 speak to you.”
 
 “Where is the fellow, Dombey?” inquires the Major, after gasping and
@@ -84,12 +84,12 @@ Although this is but a dry reply to the Major’s purple enthusiasm, the
 Major receives it graciously, and is delighted to think that the world
 has such a fair prospect of soon receiving its due. Cousin Feenix is
 then presented with his meed of acknowledgment by the husband of his
-lovely and accomplished relative, and Cousin Feenix and Major Bagstock
+lovely and accomplished relative, and Cousin Feenix and [[Major Bagstock]]
 retire, leaving that husband to the world again, and to ponder at
 leisure on their representation of its state of mind concerning his
 affairs, and on its just and reasonable expectations.
 
-But who sits in the housekeeper’s room, shedding tears, and talking to
+But who sits in the housekeeper’s room, shedding [[Tears|tears]], and talking to
 Mrs Pipchin in a low tone, with uplifted hands? It is a lady with her
 face concealed in a very close black bonnet, which appears not to
 belong to her. It is Miss Tox, who has borrowed this disguise from her
@@ -99,7 +99,7 @@ of the state of Mr Dombey.
 
 “How does he bear it, my dear creature?” asks Miss Tox.
 
-“Well,” says Mrs Pipchin, in her snappish way, “he’s pretty much as
+“[[Well]],” says Mrs Pipchin, in her snappish way, “he’s pretty much as
 usual.”
 
 “Externally,” suggests Miss Tox “But what he feels within!”
@@ -109,27 +109,27 @@ distinct jerks, “Ah! Perhaps. I suppose so.”
 
 “To tell you my mind, Lucretia,” says Mrs Pipchin; she still calls Miss
 Tox Lucretia, on account of having made her first experiments in the
-child-quelling line of business on that lady, when an unfortunate and
+[[Child|child]]-quelling line of business on that lady, when an unfortunate and
 weazen little girl of tender years; “to tell you my mind, Lucretia, I
 think it’s a good riddance. I don’t want any of your brazen faces here,
 myself!”
 
-“Brazen indeed! Well may you say brazen, Mrs Pipchin!” returned Miss
+“Brazen indeed! [[Well]] may you say brazen, Mrs Pipchin!” returned Miss
 Tox. “To leave him! Such a noble figure of a man!” And here Miss Tox is
 overcome.
 
 “I don’t know about noble, I’m sure,” observes Mrs Pipchin; irascibly
 rubbing her nose. “But I know this—that when people meet with trials,
 they must bear ’em. Hoity, toity! I have had enough to bear myself, in
-my time! What a fuss there is! She’s gone, and well got rid of. Nobody
+my [[Time|time]]! What a fuss there is! She’s gone, and [[Well|well]] got rid of. Nobody
 wants her back, I should think!”
 
 This hint of the Peruvian Mines, causes Miss Tox to rise to go away;
 when Mrs Pipchin rings the bell for Towlinson to show her out, Mr
 Towlinson, not having seen Miss Tox for ages, grins, and hopes she’s
-well; observing that he didn’t know her at first, in that bonnet.
+[[Well|well]]; observing that he didn’t know her at first, in that bonnet.
 
-“Pretty well, Towlinson, I thank you,” says Miss Tox. “I beg you’ll
+“Pretty [[Well|well]], Towlinson, I thank you,” says Miss Tox. “I beg you’ll
 have the goodness, when you happen to see me here, not to mention it.
 My visits are merely to Mrs Pipchin.”
 
@@ -139,7 +139,7 @@ My visits are merely to Mrs Pipchin.”
 
 “Very much so indeed, Miss,” rejoins Towlinson.
 
-“I hope, Towlinson,” says Miss Tox, who, in her instruction of the
+“I [[Hope|hope]], Towlinson,” says Miss Tox, who, in her instruction of the
 Toodle family, has acquired an admonitorial tone, and a habit of
 improving passing occasions, “that what has happened here, will be a
 warning to you, Towlinson.”
@@ -154,5 +154,5 @@ passes Mr Dombey’s room, she shrinks into the inmost depths of the
 black bonnet, and walks, on tip-toe; and there is not another atom in
 the world which haunts him so, that feels such sorrow and solicitude
 about him, as Miss Tox takes out under the black bonnet into the
-street, and tries to carry home shadowed it from the newly-lighted
+street, and tries to carry [[Home|home]] shadowed it from the newly-lighted
 lamps.

@@ -16,34 +16,34 @@ tags:
 
 "What's the matter now?"
 
-"I stood it close beside my pillow when I went to sleep last night, and
-remembered it in my dreams. And when the day broke, and the glorious red
+"I stood it close beside my pillow when I went to [[Sleep|sleep]] last [[Night|night]], and
+remembered it in my [[Dreams|dreams]]. And when the day broke, and the glorious red
 sun--the _red_ sun, father?"
 
 "Red in the mornings and the evenings, Bertha," said poor Caleb with a
 woeful glance at his employer.
 
-"When it rose, and the bright light I almost fear to strike myself
+"When it [[Rose|rose]], and the bright light I almost [[Fear|fear]] to strike myself
 against in walking, came into the room, I turned the little tree towards
 it, and blessed Heaven for making things so precious, and blessed you
 for sending them to cheer me!"
 
-"Bedlam broke loose!" said Tackleton under his breath. "We shall arrive
+"Bedlam broke loose!" said [[Tackleton]] under his breath. "We shall arrive
 at the strait-waistcoat and mufflers soon. We're getting on!"
 
 Caleb, with his hands hooked loosely in each other, stared vacantly
 before him while his daughter spoke, as if he really were uncertain (I
-believe he was) whether Tackleton had done anything to deserve her
+believe he was) whether [[Tackleton]] had done anything to deserve her
 thanks or not. If he could have been a perfectly free agent at that
-moment, required, on pain of death, to kick the toy merchant, or fall at
+moment, required, on [[Pain|pain]] of [[Death|death]], to kick the toy merchant, or fall at
 his feet, according to his merits, I believe it would have been an even
 chance which course he would have taken. Yet Caleb knew that with his
-own hands he had brought the little rose-tree home for her so carefully,
-and that with his own lips he had forged the innocent deception which
+own hands he had brought the little [[Rose|rose]]-tree [[Home|home]] for her so carefully,
+and that with his own lips he had forged the [[Innocent|innocent]] [[Deception|deception]] which
 should help to keep her from suspecting how much, how very much, he
 every day denied himself, that she might be happier.
 
-"Bertha!" said Tackleton, assuming, for the nonce, a little cordiality.
+"Bertha!" said [[Tackleton]], assuming, for the nonce, a little cordiality.
 "Come here."
 
 "Oh, I can come straight to you! You needn't guide me!" she rejoined.
@@ -55,35 +55,35 @@ every day denied himself, that she might be happier.
 How bright the darkened face! How adorned with light the listening
 head!
 
-"This is the day on which little what's-her-name, the spoilt child,
+"This is the day on which little what's-her-name, the spoilt [[Child|child]],
 Peerybingle's wife, pays her regular visit to you--makes her fantastic
-Picnic here, an't it?" said Tackleton with a strong expression of
+Picnic here, an't it?" said [[Tackleton]] with a strong expression of
 distaste for the whole concern.
 
 "Yes," replied Bertha. "This is the day."
 
-"I thought so," said Tackleton. "I should like to join the party."
+"I thought so," said [[Tackleton]]. "I should like to join the party."
 
 "Do you hear that, father?" cried the Blind Girl in an ecstasy.
 
 "Yes, yes, I hear it," murmured Caleb with the fixed look of a
-sleep-walker; "but I don't believe it. It's one of my lies, I've no
-doubt."
+[[Sleep|sleep]]-walker; "but I don't believe it. It's one of my lies, I've no
+[[Doubt|doubt]]."
 
 "You see I--I want to bring the Peerybingles a little more into company
-with May Fielding," said Tackleton. "I'm going to be married to May."
+with [[May Fielding]]," said [[Tackleton]]. "I'm going to be married to May."
 
 "Married!" cried the Blind Girl, starting from him.
 
-"She's such a con-founded idiot," muttered Tackleton, "that I was afraid
+"She's such a con-founded idiot," muttered [[Tackleton]], "that I was afraid
 she'd never comprehend me. Ah, Bertha! Married! Church, parson, clerk,
-beadle, glass coach, bells, breakfast, bridecake, favours, marrow-bones,
+beadle, glass coach, [[Bells|bells]], breakfast, bridecake, favours, marrow-bones,
 cleavers, and all the rest of the tomfoolery. A wedding, you know; a
 wedding. Don't you know what a wedding is?"
 
 "I know," replied the Blind Girl in a gentle tone. "I understand!"
 
-"Do you?" muttered Tackleton. "It's more than I expected. Well! On that
+"Do you?" muttered [[Tackleton]]. "It's more than I expected. [[Well]]! On that
 account I want to join the party, and to bring May and her mother. I'll
 send in a little something or other, before the afternoon. A cold leg of
 mutton, or some comfortable trifle of that sort. You'll expect me?"
@@ -93,7 +93,7 @@ mutton, or some comfortable trifle of that sort. You'll expect me?"
 She had drooped her head, and turned away; and so stood, with her hands
 crossed, musing.
 
-"I don't think you will," muttered Tackleton, looking at her; "for you
+"I don't think you will," muttered [[Tackleton]], looking at her; "for you
 seem to have forgotten all about it already. Caleb!"
 
 "I may venture to say I'm here, I suppose," thought Caleb. "Sir!"
@@ -107,14 +107,14 @@ an't clever in."
 shrug. "Poor devil!"
 
 Having delivered himself of which remark with infinite contempt, old
-Gruff and Tackleton withdrew.
+Gruff and [[Tackleton]] withdrew.
 
 Bertha remained where he had left her, lost in meditation. The gaiety
 had vanished from her downcast face, and it was very sad. Three or four
 times she shook her head, as if bewailing some remembrance or some loss;
 but her sorrowful reflections found no vent in words.
 
-It was not until Caleb had been occupied some time in yoking a team of
+It was not until Caleb had been occupied some [[Time|time]] in yoking a team of
 horses to a waggon by the summary process of nailing the harness to the
 vital parts of their bodies, that she drew near to his working-stool,
 and, sitting down beside him, said:
@@ -133,7 +133,7 @@ for you, dear?"
 "Tell me about it."
 
 "It's much the same as usual," said Caleb. "Homely, but very snug. The
-gay colours on the walls; the bright flowers on the plates and dishes;
+gay colours on the walls; the bright [[Flowers|flowers]] on the plates and dishes;
 the shining wood, where there are beams or panels; the general
 cheerfulness and neatness of the building,--make it very pretty."
 
@@ -161,8 +161,8 @@ eyes!----"
 
 He stopped; for Bertha had drawn closer round his neck, and, from the
 arm that clung about him, came a warning pressure which he understood
-too well.
+too [[Well|well]].
 
 He coughed a moment, hammered for a moment, and then fell back upon the
-song about the sparkling bowl, his infallible resource in all such
+[[Song|song]] about the sparkling bowl, his infallible resource in all such
 difficulties.

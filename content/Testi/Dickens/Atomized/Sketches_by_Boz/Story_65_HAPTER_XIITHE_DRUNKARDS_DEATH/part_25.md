@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 25)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 25)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -15,22 +15,22 @@ tags:
 
 
 The loving couple were thus loving all the way to Twickenham, but when
-we arrived there (by which time the amateur crew looked very thirsty
+we arrived there (by which [[Time|time]] the amateur crew looked very thirsty
 and vicious) they were more playful than ever, for Mrs. Leaver threw
 stones at Mr. Leaver, and Mr. Leaver ran after Mrs. Leaver on the
-grass, in a most innocent and enchanting manner. At dinner, too, Mr.
+grass, in a most [[Innocent|innocent]] and enchanting manner. At dinner, too, Mr.
 Leaver _would_ steal Mrs. Leaver’s tongue, and Mrs. Leaver _would_
 retaliate upon Mr. Leaver’s fowl; and when Mrs. Leaver was going to
 take some lobster salad, Mr. Leaver wouldn’t let her have any, saying
 that it made her ill, and she was always sorry for it afterwards, which
-afforded Mrs. Leaver an opportunity of pretending to be cross, and
+afforded Mrs. Leaver an opportunity of pretending to be [[Cross|cross]], and
 showing many other prettinesses. But this was merely the smiling
 surface of their loves, not the mighty depths of the stream, down to
-which the company, to say the truth, dived rather unexpectedly, from
+which the company, to say the [[Truth|truth]], dived rather unexpectedly, from
 the following accident. It chanced that Mr. Leaver took upon himself to
 propose the bachelors who had first originated the notion of that
 entertainment, in doing which, he affected to regret that he was no
-longer of their body himself, and pretended grievously to lament his
+longer of their [[Body|body]] himself, and pretended grievously to lament his
 fallen state. This Mrs. Leaver’s feelings could not brook, even in
 jest, and consequently, exclaiming aloud, ‘He loves me not, he loves me
 not!’ she fell in a very pitiable state into the arms of Mrs. Starling,
@@ -48,16 +48,16 @@ that Augusta was far too sensitive to be trifled with—an opinion which
 the widow subsequently confirmed. Finding that she was in no imminent
 peril, however, the rest of the party betook themselves to dancing on
 the green, and very merry and happy they were, and a vast quantity of
-flirtation there was; the last circumstance being no doubt
+flirtation there was; the last circumstance being no [[Doubt|doubt]]
 attributable, partly to the fineness of the weather, and partly to the
-locality, which is well known to be favourable to all harmless
+locality, which is [[Well|well]] known to be favourable to all harmless
 recreations.
 
 In the bustle of the scene, Mr. and Mrs. Leaver stole down to the boat,
 and disposed themselves under the awning, Mrs. Leaver reclining her
 head upon Mr. Leaver’s shoulder, and Mr. Leaver grasping her hand with
-great fervour, and looking in her face from time to time with a
-melancholy and sympathetic aspect. The widow sat apart, feigning to be
+great fervour, and looking in her face from [[Time|time]] to [[Time|time]] with a
+[[Melancholy|melancholy]] and sympathetic aspect. The widow sat apart, feigning to be
 occupied with a book, but stealthily observing them from behind her
 fan; and the two firemen-watermen, smoking their pipes on the bank hard
 by, nudged each other, and grinned in enjoyment of the joke. Very few
@@ -71,16 +71,16 @@ THE CONTRADICTORY COUPLE
 
 
 One would suppose that two people who are to pass their whole lives
-together, and must necessarily be very often alone with each other,
+together, and must necessarily be very often [[Alone|alone]] with each other,
 could find little pleasure in mutual contradiction; and yet what is
 more common than a contradictory couple?
 
 The contradictory couple agree in nothing but contradiction. They
-return home from Mrs. Bluebottle’s dinner-party, each in an opposite
+return [[Home|home]] from Mrs. Bluebottle’s dinner-party, each in an opposite
 corner of the coach, and do not exchange a syllable until they have
-been seated for at least twenty minutes by the fireside at home, when
+been seated for at least twenty minutes by the fireside at [[Home|home]], when
 the gentleman, raising his eyes from the stove, all at once breaks
-silence:
+[[Silence|silence]]:
 
 ‘What a very extraordinary thing it is,’ says he, ‘that you _will_
 contradict, Charlotte!’ ‘_I_ contradict!’ cries the lady, ‘but that’s
@@ -92,11 +92,11 @@ mean to tell me now, that you have not? I mean to tell you nothing of
 the kind,’ replies the lady quietly; ‘when you are wrong, of course I
 shall contradict you.’
 
-During this dialogue the gentleman has been taking his brandy-and-water
-on one side of the fire, and the lady, with her dressing-case on the
+During this dialogue the gentleman has been taking his brandy-and-[[Water|water]]
+on one side of the [[Fire|fire]], and the lady, with her dressing-case on the
 table, has been curling her hair on the other. She now lets down her
-back hair, and proceeds to brush it; preserving at the same time an air
-of conscious rectitude and suffering virtue, which is intended to
+back hair, and proceeds to brush it; preserving at the same [[Time|time]] an air
+of conscious rectitude and [[Suffering|suffering]] virtue, which is intended to
 exasperate the gentleman—and does so.
 
 ‘I do believe,’ he says, taking the spoon out of his glass, and tossing
@@ -104,34 +104,34 @@ it on the table, ‘that of all the obstinate, positive, wrong-headed
 creatures that were ever born, you are the most so, Charlotte.’
 ‘Certainly, certainly, have it your own way, pray. You see how much _I_
 contradict you,’ rejoins the lady. ‘Of course, you didn’t contradict me
-at dinner-time—oh no, not you!’ says the gentleman. ‘Yes, I did,’ says
+at dinner-[[Time|time]]—oh no, not you!’ says the gentleman. ‘Yes, I did,’ says
 the lady. ‘Oh, you did,’ cries the gentleman ‘you admit that?’ ‘If you
 call that contradiction, I do,’ the lady answers; ‘and I say again,
 Edward, that when I know you are wrong, I will contradict you. I am not
 your slave.’ ‘Not my slave!’ repeats the gentleman bitterly; ‘and you
-still mean to say that in the Blackburns’ new house there are not more
+still mean to say that in the Blackburns’ new [[house]] there are not more
 than fourteen doors, including the door of the wine-cellar!’ ‘I mean to
-say,’ retorts the lady, beating time with her hair-brush on the palm of
-her hand, ‘that in that house there are fourteen doors and no more.’
-‘Well then—’ cries the gentleman, rising in despair, and pacing the
+say,’ retorts the lady, beating [[Time|time]] with her hair-brush on the palm of
+her hand, ‘that in that [[house]] there are fourteen doors and no more.’
+‘[[Well]] then—’ cries the gentleman, rising in [[Despair|despair]], and pacing the
 room with rapid strides. ‘By G-, this is enough to destroy a man’s
 intellect, and drive him mad!’
 
 By and by the gentleman comes-to a little, and passing his hand
 gloomily across his forehead, reseats himself in his former chair.
-There is a long silence, and this time the lady begins. ‘I appealed to
+There is a long [[Silence|silence]], and this [[Time|time]] the lady begins. ‘I appealed to
 Mr. Jenkins, who sat next to me on the sofa in the drawing-room during
 tea—’ ‘Morgan, you mean,’ interrupts the gentleman. ‘I do not mean
 anything of the kind,’ answers the lady. ‘Now, by all that is
 aggravating and impossible to bear,’ cries the gentleman, clenching his
 hands and looking upwards in agony, ‘she is going to insist upon it
-that Morgan is Jenkins!’ ‘Do you take me for a perfect fool?’ exclaims
+that Morgan is Jenkins!’ ‘Do you take me for a perfect [[Fool|fool]]?’ exclaims
 the lady; ‘do you suppose I don’t know the one from the other? Do you
 suppose I don’t know that the man in the blue coat was Mr. Jenkins?’
 ‘Jenkins in a blue coat!’ cries the gentleman with a groan; ‘Jenkins in
-a blue coat! a man who would suffer death rather than wear anything but
+a blue coat! a man who would suffer [[Death|death]] rather than wear anything but
 brown!’ ‘Do you dare to charge me with telling an untruth?’ demands the
-lady, bursting into tears. ‘I charge you, ma’am,’ retorts the
-gentleman, starting up, ‘with being a monster of contradiction, a
-monster of aggravation, a—a—a—Jenkins in a blue coat!—what have I done
+lady, bursting into [[Tears|tears]]. ‘I charge you, ma’am,’ retorts the
+gentleman, starting up, ‘with being a [[Monster|monster]] of contradiction, a
+[[Monster|monster]] of aggravation, a—a—a—Jenkins in a blue coat!—what have I done
 that I should be doomed to hear such statements!’

@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Evolution of the Prison"
+title: "[[UtopiaUsurers]] — The Evolution of the [[Prison]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-VII. THE EVOLUTION OF THE PRISON
+VII. THE EVOLUTION OF THE [[Prison|PRISON]]
 
 
 
@@ -26,7 +26,7 @@ not see the one way in which evolution really does apply to our modern
 
 difficulty. There is, of course, an element of evolutionism in the
 
-universe; and I know no religion or philosophy that ever entirely
+universe; and I know no religion or [[philosophy]] that ever entirely
 
 ignored it. Evolution, popularly speaking, is that which happens to
 
@@ -36,11 +36,11 @@ rather, some parts of them grow and some parts of them fade; and at any
 
 given moment there is almost always some presence of the fading thing,
 
-and some incompleteness in the growing one. Thus, if I went to sleep
+and some incompleteness in the growing one. Thus, if I went to [[Sleep|sleep]]
 
-for a hundred years, like the Sleeping Beauty (I wish I could), I should
+for a hundred years, like the Sleeping [[Beauty]] (I wish I could), I should
 
-grow a beard--unlike the Sleeping Beauty. And just as I should grow
+grow a beard--unlike the Sleeping [[Beauty]]. And just as I should grow
 
 hair if I were asleep, I should grow grass if I were dead. Those whose
 
@@ -48,9 +48,9 @@ religion it was that God was asleep were perpetually impressed
 
 and affected by the fact that he had a long beard. And those whose
 
-philosophy it is that the universe is dead from the beginning (being
+[[philosophy]] it is that the universe is dead from the beginning (being
 
-the grave of nobody in particular) think that is the way that grass can
+the [[Grave|grave]] of nobody in particular) think that is the way that grass can
 
 grow. In any case, these developments only occur with dead or dreaming
 
@@ -80,11 +80,11 @@ dead dog; but it is essential for such a liberation of life that the dog
 
 should be unconscious or (to say the least of it) absent-minded. Broadly
 
-speaking, you may call the thing corruption, if you happen to like dogs.
+speaking, you may call the thing corruption, if you happen to like [[dogs]].
 
 You may call it evolution, if you happen to like maggots. In either
 
-case, it is what happens to things if you leave them alone.
+case, it is what happens to things if you leave them [[Alone|alone]].
 
 
 
@@ -126,21 +126,21 @@ it? What modern institution may have swollen to six times its present
 
 size in the social heat and growth of the future? I do not think the
 
-Garden City will grow: but of that I may speak in my next and last
+[[Garden]] [[City]] will grow: but of that I may speak in my next and last
 
 article of this series. I do not think even the ordinary Elementary
 
-School, with its compulsory education, will grow. Too many unlettered
+School, with its compulsory [[Education|education]], will grow. Too many unlettered
 
 people hate the teacher for teaching; and too many lettered people
 
-hate the teacher for not teaching. The Garden City will not bear much
+hate the teacher for not teaching. The [[Garden]] [[City]] will not bear much
 
 blossom; the young idea will not shoot, unless it shoots the teacher.
 
 But the one flowering tree on the estate, the one natural expansion
 
-which I think will expand, is the institution we call the Prison.
+which I think will expand, is the institution we call the [[Prison]].
 
 
 
@@ -152,19 +152,19 @@ Prisons for All
 
 If the capitalists are allowed to erect their constructive capitalist
 
-community, I speak quite seriously when I say that I think Prison will
+community, I speak quite seriously when I say that I think [[Prison]] will
 
 become an almost universal experience. It will not necessarily be a
 
 cruel or shameful experience: on these points (I concede certainly for
 
-the present purpose of debate) it may be a vastly improved experience.
+the present purpose of [[debate]]) it may be a vastly improved experience.
 
-The conditions in the prison, very possibly, will be made more humane.
+The conditions in the [[Prison|prison]], very possibly, will be made more humane.
 
-But the prison will be made more humane only in order to contain more of
+But the [[Prison|prison]] will be made more humane only in order to contain more of
 
-humanity. I think little of the judgment and sense of humour of any man
+humanity. I think little of the judgment and sense of [[Humour|humour]] of any man
 
 who can have watched recent police trials without realising that it is
 
@@ -172,25 +172,25 @@ no longer a question of whether the law has been broken by a crime; but,
 
 now, solely a question of whether the situation could be mended by an
 
-imprisonment. It was so with Tom Mann; it was so with Larkin; it was so
+[[Imprisonment|imprisonment]]. It was so with Tom Mann; it was so with Larkin; it was so
 
 with the poor atheist who was kept in gaol for saying something he
 
 had been acquitted of saying: it is so in such cases day by day. We no
 
-longer lock a man up for doing something; we lock him up in the hope
+longer lock a man up for doing something; we lock him up in the [[Hope|hope]]
 
 of his doing nothing. Given this principle, it is evidently possible
 
 to make the mere conditions of punishment more moderate, or--(more
 
-probably) more secret. There may really be more mercy in the Prison,
+probably) more secret. There may really be more [[Mercy|mercy]] in the [[Prison]],
 
-on condition that there is less justice in the Court. I should not be
+on condition that there is less justice in the [[Court]]. I should not be
 
 surprised if, before we are done with all this, a man was allowed to
 
-smoke in prison, on condition, of course, that he had been put in prison
+smoke in [[Prison|prison]], on condition, of course, that he had been put in [[Prison|prison]]
 
 for smoking.
 
@@ -200,19 +200,19 @@ Now that is the process which, in the absence of democratic protest,
 
 will certainly proceed, will increase and multiply and replenish the
 
-earth and subdue it. Prison may even lose its disgrace for a little
+earth and subdue it. [[Prison]] may even lose its disgrace for a little
 
-time: it will be difficult to make it disgraceful when men like Larkin
+[[Time|time]]: it will be difficult to make it disgraceful when men like Larkin
 
 can be imprisoned for no reason at all, just as his celebrated ancestor
 
 was hanged for no reason at all. But capitalist society, which naturally
 
-does not know the meaning of honour, cannot know the meaning of
+does not know the meaning of [[Honour|honour]], cannot know the meaning of
 
 disgrace: and it will still go on imprisoning for no reason at all. Or
 
-rather for that rather simple reason that makes a cat spring or a rat
+rather for that rather simple reason that makes a cat [[spring]] or a rat
 
 run away.
 
@@ -220,9 +220,9 @@ run away.
 
 It matters little whether our masters stoop to state the matter in the
 
-form that every prison should be a school; or in the more candid form
+form that every [[Prison|prison]] should be a school; or in the more candid form
 
-that every school should be a prison. They have already fulfilled their
+that every school should be a [[Prison|prison]]. They have already fulfilled their
 
 servile principle in the case of the schools. Everyone goes to the
 
@@ -230,4 +230,4 @@ Elementary Schools except the few people who tell them to go there. I
 
 prophesy that (unless our revolt succeeds) nearly everyone will be going
 
-to Prison, with a precisely similar patience.
+to [[Prison]], with a precisely similar patience.

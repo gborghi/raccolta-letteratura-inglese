@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Egypt exhibits, in that brief record of its remotest beginnings,
+[[Egypt]] exhibits, in that brief record of its remotest beginnings,
 the primary problem of liberty and civilisation.
 It is the fact that men actually lose variety by complexity.
 We have not solved the problem properly any more than they did;
@@ -26,18 +26,18 @@ about civilisation and barbarism.  Babylon also we first hear of
 when it is already civilised; for the simple reason that we cannot
 hear of anything until it is educated enough to talk.  It talks
 to us in what is called cuneiform; that strange and stiff triangular
-symbolism that contrasts with the picturesque alphabet of Egypt.
+symbolism that contrasts with the picturesque alphabet of [[Egypt]].
 However relatively rigid Egyptian art may be, there is always something
 different from the Babylonian spirit which was too rigid to have any art.
 There is always a living grace in the lines of the lotus and something
-of rapidity as well as rigidity in the movement of the arrows
-and the birds.  Perhaps there is something of the restrained
-but living curve of the river, which makes us in talking of
+of rapidity as [[Well|well]] as rigidity in the movement of the arrows
+and the [[Birds|birds]].  Perhaps there is something of the restrained
+but living curve of the [[River|river]], which makes us in talking of
 the serpent of old Nile almost think of the Nile as a serpent.
 Babylon was a civilisation of diagrams rather than of drawings.
-Mr. W.B. Yeats who has a historical imagination to match his
-mythological imagination (and indeed the former is impossible
-without the latter) wrote truly of the men who watched the stars
+Mr. W.B. Yeats who has a historical [[Imagination|imagination]] to match his
+mythological [[Imagination|imagination]] (and indeed the former is impossible
+without the latter) wrote truly of the men who watched the [[Stars|stars]]
 'from their pedantic Babylon.'  The cuneiform was cut upon bricks,
 of which all their architecture was built up; the bricks
 were of baked mud and perhaps the material had something in it
@@ -49,7 +49,7 @@ and recognised an official class of independent working women.
 There is perhaps something in that mighty stronghold of hardened
 mud that suggests the utilitarian activity of a huge hive.
 But though it was huge it was human; we see many of the same social
-problems as in ancient Egypt or modern England; and whatever
+problems as in ancient [[Egypt]] or modern England; and whatever
 its evils this also was one of the earliest masterpieces of man.
 It stood, of course, in the triangle formed by the almost legendary
 rivers of Tigris and Euphrates, and the vast agriculture of its empire,
@@ -63,19 +63,19 @@ Against this solid society, as against some vast bare wall of brick,
 there surged age after age the nameless armies of the Nomads.
 They came out of the deserts where the nomadic life had been
 lived from the beginning and where it is still lived to-day. It
-is needless to dwell on the nature of that life; it was obvious
+is needless to dwell on the [[Nature|nature]] of that life; it was obvious
 enough and even easy enough to follow a herd or a flock which
 generally found its own grazing-ground and to live on the milk
-or meat it provided.  Nor is there any reason to doubt that this
-habit of life could give almost every human thing except a home.
+or meat it provided.  Nor is there any reason to [[Doubt|doubt]] that this
+habit of life could give almost every human thing except a [[Home|home]].
 Many such shepherds or herds men may have talked in the earliest
-time of all the truths and enigmas of the Book of Job; and of these
+[[Time|time]] of all the truths and enigmas of the Book of Job; and of these
 were Abraham and his children, who have given to the modern world
 for an endless enigma the almost mono-maniac monotheism of the Jews.
 But they were a wild people without comprehension of complex
-social organisation; and a spirit like the wind within them made them
-wage war on it again and again.  The history of Babylonia is largely
-the history of its defence against the desert hordes; who came on at
+social organisation; and a spirit like the [[Wind|wind]] within them made them
+wage war on it again and again.  The [[history]] of Babylonia is largely
+the [[history]] of its defence against the [[Desert|desert]] hordes; who came on at
 intervals of a century or two and generally retreated as they came.
 Some say that an admixture of nomad invasion built at Nineveh
 the arrogant kingdom of the Assyrians, who carved great monsters
@@ -86,7 +86,7 @@ but it was an interlude.  The main story of all that land is the war
 between the wandering peoples and the state that was truly static.
 Presumably in prehistoric times, and certainly in historic times,
 those wanderers went westward to waste whatever they could find.
-The last time they came they found Babylon vanished; but that was
+The last [[Time|time]] they came they found Babylon vanished; but that was
 in historic times and the name of their leader was Mahomet.
 
 Now it is worth while to pause upon that story because, as has
@@ -94,22 +94,22 @@ been suggested, it directly contradicts the impression still
 current that nomadism is merely a prehistoric thing and social
 settlement a comparatively recent thing.  There is nothing to show
 that the Babylonians had ever wandered; there is very little
-to show that the tribes of the desert ever settled down.
+to show that the tribes of the [[Desert|desert]] ever settled down.
 Indeed it is probable that this notion of a nomadic stage followed
 by a static stage has already been abandoned by the sincere
 and genuine scholars to whose researches we all owe so much.
 But I am not at issue in this book with sincere and genuine scholars,
 but with a vast and vague public opinion which has been prematurely
 spread from certain imperfect investigations, and which has made
-fashionable a false notion of the whole history of humanity.
+fashionable a false notion of the whole [[history]] of humanity.
 It is the whole vague notion that a monkey evolved into a man and in the
 same way a barbarian evolved into a civilised man and therefore at every
 stage we have to look back to barbarism and forward to civilisation.
-Unfortunately this notion is in a double sense entirely in the air.
+Unfortunately this notion is in a [[Double|double]] sense entirely in the air.
 It is an atmosphere in which men live rather than a thesis
 which they defend.  Men in that mood are more easily answered
-by objects than by theories; and it will be well if anyone tempted
+by objects than by theories; and it will be [[Well|well]] if anyone tempted
 to make that assumption, in some trivial turn of talk or writing,
 can be checked for a moment by shutting his eyes and seeing for
 an instant, vast and vaguely crowded, like a populous precipice,
-the wonder of the Babylonian wall.
+the [[Wonder|wonder]] of the Babylonian wall.

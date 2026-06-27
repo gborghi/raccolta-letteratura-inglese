@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 4 (part 1)"
+title: "[[queertrades]] — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 Chapter 4
 
-The Singular Speculation of the House-Agent
+The Singular Speculation of the [[house|House]]-Agent
 
 
 Lieutenant Drummond Keith was a man about whom conversation
@@ -29,28 +29,28 @@ and he had restless black eyes.
 He was very impecunious.  He had one of the habits of the poor,
 in a degree so exaggerated as immeasurably to eclipse the most miserable
 of the unemployed; I mean the habit of continual change of lodgings.
-There are inland tracts of London where, in the very heart of
+There are inland tracts of [[London]] where, in the very heart of
 artificial civilization, humanity has almost become nomadic once more.
 But in that restless interior there was no ragged tramp so restless
 as the elegant officer in the loose white clothes.  He had shot
-a great many things in his time, to judge from his conversation,
+a great many things in his [[Time|time]], to judge from his conversation,
 from partridges to elephants, but his slangier acquaintances
-were of opinion that "the moon" had been not unfrequently amid
+were of opinion that "the [[Moon|moon]]" had been not unfrequently amid
 the victims of his victorious rifle.  The phrase is a fine one,
 and suggests a mystic, elvish, nocturnal hunting.
 
-He carried from house to house and from parish to parish a kit
+He carried from [[house]] to [[house]] and from parish to parish a kit
 which consisted practically of five articles.  Two odd-looking,
 large-bladed spears, tied together, the weapons, I suppose,
 of some savage tribe, a green umbrella, a huge and tattered copy
-of the Pickwick Papers, a big game rifle, and a large sealed
+of the [[Pickwick]] Papers, a big game rifle, and a large sealed
 jar of some unholy Oriental wine.  These always went into every
-new lodging, even for one night; and they went in quite undisguised,
+new lodging, even for one [[Night|night]]; and they went in quite undisguised,
 tied up in wisps of string or straw, to the delight of the poetic
 gutter boys in the little grey streets.
 
 I had forgotten to mention that he always carried also his old
-regimental sword.  But this raised another odd question about him.
+regimental [[Sword|sword]].  But this raised another odd question about him.
 Slim and active as he was, he was no longer very young.
 His hair, indeed, was quite grey, though his rather wild almost
 Italian moustache retained its blackness, and his face was careworn
@@ -70,25 +70,25 @@ false he was a liar; if they were true he had had, at any rate,
 every opportunity of being a scamp.
 
 He had just left the room in which I sat with Basil Grant
-and his brother Rupert, the voluble amateur detective.
+and his brother Rupert, the voluble amateur [[Detective|detective]].
 And as I say was invariably the case, we were all talking about him.
 Rupert Grant was a clever young fellow, but he had that tendency
 which youth and cleverness, when sharply combined, so often produce,
-a somewhat extravagant scepticism.  He saw doubt and guilt everywhere,
+a somewhat extravagant scepticism.  He saw [[Doubt|doubt]] and [[Guilt|guilt]] everywhere,
 and it was meat and drink to him.  I had often got irritated with this
-boyish incredulity of his, but on this particular occasion I am bound
+boyish [[Incredulity|incredulity]] of his, but on this particular occasion I am bound
 to say that I thought him so obviously right that I was astounded
 at Basil's opposing him, however banteringly.
 
-I could swallow a good deal, being naturally of a simple turn,
-but I could not swallow Lieutenant Keith's autobiography.
+I could [[Swallow|swallow]] a good deal, being naturally of a simple turn,
+but I could not [[Swallow|swallow]] Lieutenant Keith's autobiography.
 
 "You don't seriously mean, Basil," I said, "that you think that
 that fellow really did go as a stowaway with Nansen and pretend
 to be the Mad Mullah and--"
 
 "He has one fault," said Basil thoughtfully, "or virtue, as you may
-happen to regard it.  He tells the truth in too exact and bald a style;
+happen to regard it.  He tells the [[Truth|truth]] in too exact and bald a style;
 he is too veracious."
 
 "Oh! if you are going to be paradoxical," said Rupert contemptuously,
@@ -101,21 +101,21 @@ That doesn't prevent his chief trait being verbal exactitude.
 What you people don't understand is that telling a thing crudely
 and coarsely as it happened makes it sound frightfully strange.
 The sort of things Keith recounts are not the sort of things that a man
-would make up to cover himself with honour; they are too absurd.
+would make up to cover himself with [[Honour|honour]]; they are too absurd.
 But they are the sort of things that a man would do if he were
-sufficiently filled with the soul of skylarking."
+sufficiently filled with the [[Soul|soul]] of skylarking."
 
-"So far from paradox," said his brother, with something rather
+"So far from [[Paradox|paradox]]," said his brother, with something rather
 like a sneer, "you seem to be going in for journalese proverbs.
-Do you believe that truth is stranger than fiction?"
+Do you believe that [[Truth|truth]] is stranger than fiction?"
 
-"Truth must of necessity be stranger than fiction," said Basil placidly.
+"[[Truth]] must of necessity be stranger than fiction," said Basil placidly.
 "For fiction is the creation of the human mind, and therefore
 is congenial to it."
 
-"Well, your lieutenant's truth is stranger, if it is truth,
+"[[Well]], your lieutenant's [[Truth|truth]] is stranger, if it is [[Truth|truth]],
 than anything I ever heard of," said Rupert, relapsing into flippancy.
-"Do you, on your soul, believe in all that about the shark
+"Do you, on your [[Soul|soul]], believe in all that about the shark
 and the camera?"
 
 "I believe Keith's words," answered the other.  "He is an honest man."
@@ -134,8 +134,8 @@ on his head.
 the door, "I've got no money in the world till next April.
 Could you lend me a hundred pounds?  There's a good chap."
 
-Rupert and I looked at each other in an ironical silence.
+Rupert and I looked at each other in an ironical [[Silence|silence]].
 Basil, who was sitting by his desk, swung the chair round idly
 on its screw and picked up a quill-pen.
 
-"Shall I cross it?" he asked, opening a cheque-book.
+"Shall I [[Cross|cross]] it?" he asked, opening a cheque-book.

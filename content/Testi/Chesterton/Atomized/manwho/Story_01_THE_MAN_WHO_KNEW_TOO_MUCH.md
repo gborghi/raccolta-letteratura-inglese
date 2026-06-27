@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE MAN WHO KNEW TOO MUCH:"
+title: "[[manwho]] — THE MAN WHO KNEW TOO MUCH:"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/manwho-(Chesterton)"

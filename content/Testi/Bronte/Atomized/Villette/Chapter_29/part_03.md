@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 28 (part 3)"
+title: "[[Villette]] — Chapter 28 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -31,7 +31,7 @@ Pierre, the senior mistress; then to take her vacated seat; and thus
 avail himself of the full beam of Cancer or Capricorn, which, owing to
 his near sight, he needed.
 
-As usual, Zélie rose with alacrity, smiling to the whole extent of her
+As usual, Zélie [[Rose|rose]] with alacrity, smiling to the whole extent of her
 mouth, and the full display of her upper and under rows of teeth—that
 strange smile which passes from ear to ear, and is marked only by a
 sharp thin curve, which fails to spread over the countenance, and
@@ -48,8 +48,8 @@ wish you were at Jericho.”
 
 It was easy to say, “Ne bougez pas;” but how could I help it? I must
 make him room, and I must request the pupils to recede that _I_ might
-recede. It was very well for Ginevra to be gummed to me, “keeping
-herself warm,” as she said, on the winter evenings, and harassing my
+recede. It was very [[Well|well]] for Ginevra to be gummed to me, “keeping
+herself warm,” as she said, on the [[Winter|winter]] evenings, and harassing my
 very heart with her fidgetings and pokings, obliging me, indeed,
 sometimes to put an artful pin in my girdle by way of protection
 against her elbow; but I suppose M. Emanuel was not to be subjected to
@@ -58,7 +58,7 @@ clear space for his book, and withdrew myself to make room for his
 person; not, however, leaving more than a yard of interval, just what
 any reasonable man would have regarded as a convenient, respectful
 allowance of bench. But M. Emanuel never _was_ reasonable; flint and
-tinder that he was! he struck and took fire directly.
+tinder that he was! he struck and took [[Fire|fire]] directly.
 
 “Vous ne voulez pas de moi pour voisin,” he growled: “vous vous donnez
 des airs de caste; vous me traitez en paria;” he scowled. “Soit! je
@@ -66,12 +66,12 @@ vais arranger la chose!” And he set to work.
 
 “Levez vous toutes, Mesdemoiselles!” cried he.
 
-The girls rose. He made them all file off to the other table. He then
+The girls [[Rose|rose]]. He made them all file off to the other table. He then
 placed me at one extremity of the long bench, and having duly and
 carefully brought me my work-basket, silk, scissors, all my implements,
 he fixed himself quite at the other end.
 
-At this arrangement, highly absurd as it was, not a soul in the room
+At this arrangement, highly absurd as it was, not a [[Soul|soul]] in the room
 dared to laugh; luckless for the giggler would have been the giggle. As
 for me, I took it with entire coolness. There I sat, isolated and cut
 off from human intercourse; I sat and minded my work, and was quiet,
@@ -86,13 +86,13 @@ je n’y ai pas mis la main.”
 
 And with this assertion he commenced the reading.
 
-For his misfortune he had chosen a French translation of what he called
+For his misfortune he had chosen a French [[Translation|translation]] of what he called
 “un drame de Williams Shackspire; le faux dieu,” he further announced,
 “de ces sots païens, les Anglais.” How far otherwise he would have
 characterized him had his temper not been upset, I scarcely need
 intimate.
 
-Of course, the translation being French, was very inefficient; nor did
+Of course, the [[Translation|translation]] being French, was very inefficient; nor did
 I make any particular effort to conceal the contempt which some of its
 forlorn lapses were calculated to excite. Not that it behoved or
 beseemed me to say anything: but one can occasionally _look_ the
@@ -112,8 +112,8 @@ sound, and could not justly be deemed amenable to reprimand or penalty
 for having permitted a slightly freer action than usual to the muscles
 about my eyes and mouth.
 
-The supper, consisting of bread, and milk diluted with tepid water, was
-brought in. In respectful consideration of the Professor’s presence,
+The supper, consisting of bread, and milk diluted with tepid [[Water|water]], was
+brought in. In respectful consideration of [[The Professor|the Professor]]’s presence,
 the rolls and glasses were allowed to stand instead of being
 immediately handed round.
 
@@ -123,7 +123,7 @@ accepted a roll and glass, but being now more than ever interested in
 my work, I kept my seat of punishment, and wrought while I munched my
 bread and sipped my beverage, the whole with easy _sang-froid_; with a
 certain snugness of composure, indeed, scarcely in my habits, and
-pleasantly novel to my feelings. It seemed as if the presence of a
-nature so restless, chafing, thorny as that of M. Paul absorbed all
+pleasantly [[Novel|novel]] to my feelings. It seemed as if the presence of a
+[[Nature|nature]] so restless, chafing, thorny as that of M. Paul absorbed all
 feverish and unsettling influences like a magnet, and left me none but
 such as were placid and harmonious.

@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 8 (part 2)"
+title: "[[Wuthering Heights]] — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -14,55 +14,55 @@ tags:
 </nav>
 
 
-“A very agreeable portrait,” I observed to the house-keeper. “Is it
+“A very agreeable portrait,” I observed to the [[house]]-keeper. “Is it
 like?”
 
 “Yes,” she answered; “but he looked better when he was animated; that
 is his everyday countenance: he wanted spirit in general.”
 
 Catherine had kept up her acquaintance with the Lintons since her
-five-weeks’ residence among them; and as she had no temptation to show
+five-weeks’ residence among them; and as she had no [[Temptation|temptation]] to show
 her rough side in their company, and had the sense to be ashamed of
 being rude where she experienced such invariable courtesy, she imposed
 unwittingly on the old lady and gentleman by her ingenious cordiality;
-gained the admiration of Isabella, and the heart and soul of her
+gained the admiration of [[Isabella]], and the heart and [[Soul|soul]] of her
 brother: acquisitions that flattered her from the first—for she was
-full of ambition—and led her to adopt a double character without
+full of [[Ambition|ambition]]—and led her to adopt a [[Double|double]] character without
 exactly intending to deceive any one. In the place where she heard
-Heathcliff termed a “vulgar young ruffian,” and “worse than a brute,”
-she took care not to act like him; but at home she had small
+[[Heathcliff]] termed a “vulgar young ruffian,” and “worse than a brute,”
+she took care not to act like him; but at [[Home|home]] she had small
 inclination to practise politeness that would only be laughed at, and
-restrain an unruly nature when it would bring her neither credit nor
+restrain an unruly [[Nature|nature]] when it would bring her neither credit nor
 praise.
 
-Mr. Edgar seldom mustered courage to visit Wuthering Heights openly. He
+Mr. [[Edgar]] seldom mustered [[Courage|courage]] to visit [[Wuthering Heights]] openly. He
 had a terror of Earnshaw’s reputation, and shrunk from encountering
 him; and yet he was always received with our best attempts at civility:
 the master himself avoided offending him, knowing why he came; and if
 he could not be gracious, kept out of the way. I rather think his
 appearance there was distasteful to Catherine; she was not artful,
 never played the coquette, and had evidently an objection to her two
-friends meeting at all; for when Heathcliff expressed contempt of
+friends meeting at all; for when [[Heathcliff]] expressed contempt of
 Linton in his presence, she could not half coincide, as she did in his
-absence; and when Linton evinced disgust and antipathy to Heathcliff,
+absence; and when Linton evinced disgust and antipathy to [[Heathcliff]],
 she dared not treat his sentiments with indifference, as if
 depreciation of her playmate were of scarcely any consequence to her.
 I’ve had many a laugh at her perplexities and untold troubles, which
 she vainly strove to hide from my mockery. That sounds ill-natured: but
 she was so proud, it became really impossible to pity her distresses,
-till she should be chastened into more humility. She did bring herself,
-finally, to confess, and to confide in me: there was not a soul else
+till she should be chastened into more [[Humility|humility]]. She did bring herself,
+finally, to confess, and to confide in me: there was not a [[Soul|soul]] else
 that she might fashion into an adviser.
 
-Mr. Hindley had gone from home one afternoon, and Heathcliff presumed
+Mr. Hindley had gone from [[Home|home]] one afternoon, and [[Heathcliff]] presumed
 to give himself a holiday on the strength of it. He had reached the age
 of sixteen then, I think, and without having bad features, or being
 deficient in intellect, he contrived to convey an impression of inward
 and outward repulsiveness that his present aspect retains no traces of.
-In the first place, he had by that time lost the benefit of his early
-education: continual hard work, begun soon and concluded late, had
+In the first place, he had by that [[Time|time]] lost the benefit of his early
+[[Education|education]]: continual hard work, begun soon and concluded late, had
 extinguished any curiosity he once possessed in pursuit of knowledge,
-and any love for books or learning. His childhood’s sense of
+and any [[Love|love]] for books or learning. His [[Childhood|childhood]]’s sense of
 superiority, instilled into him by the favours of old Mr. Earnshaw, was
 faded away. He struggled long to keep up an equality with Catherine in
 her studies, and yielded with poignant though silent regret: but he
@@ -75,27 +75,27 @@ idiotic excess of unsociable moroseness; and he took a grim pleasure,
 apparently, in exciting the aversion rather than the esteem of his few
 acquaintance.
 
-Catherine and he were constant companions still at his seasons of
+Catherine and he were constant companions still at his [[Seasons|seasons]] of
 respite from labour; but he had ceased to express his fondness for her
 in words, and recoiled with angry suspicion from her girlish caresses,
 as if conscious there could be no gratification in lavishing such marks
 of affection on him. On the before-named occasion he came into the
-house to announce his intention of doing nothing, while I was assisting
+[[house]] to announce his intention of doing nothing, while I was assisting
 Miss Cathy to arrange her dress: she had not reckoned on his taking it
 into his head to be idle; and imagining she would have the whole place
-to herself, she managed, by some means, to inform Mr. Edgar of her
+to herself, she managed, by some means, to inform Mr. [[Edgar]] of her
 brother’s absence, and was then preparing to receive him.
 
-“Cathy, are you busy this afternoon?” asked Heathcliff. “Are you going
+“Cathy, are you busy this afternoon?” asked [[Heathcliff]]. “Are you going
 anywhere?”
 
 “No, it is raining,” she answered.
 
 “Why have you that silk frock on, then?” he said. “Nobody coming here,
-I hope?”
+I [[Hope|hope]]?”
 
 “Not that I know of,” stammered Miss: “but you should be in the field
-now, Heathcliff. It is an hour past dinner time; I thought you were
+now, [[Heathcliff]]. It is an hour past dinner [[Time|time]]; I thought you were
 gone.”
 
 “Hindley does not often free us from his accursed presence,” observed
@@ -106,10 +106,10 @@ the boy. “I’ll not work any more to-day: I’ll stay with you.”
 “Joseph is loading lime on the further side of Penistone Crags; it will
 take him till dark, and he’ll never know.”
 
-So saying, he lounged to the fire, and sat down. Catherine reflected
+So saying, he lounged to the [[Fire|fire]], and sat down. Catherine reflected
 an instant, with knitted brows—she found it needful to smooth the way
-for an intrusion. “Isabella and Edgar Linton talked of calling this
-afternoon,” she said, at the conclusion of a minute’s silence. “As it
+for an intrusion. “[[Isabella]] and [[Edgar Linton]] talked of calling this
+afternoon,” she said, at the conclusion of a minute’s [[Silence|silence]]. “As it
 rains, I hardly expect them; but they may come, and if they do, you run
 the risk of being scolded for no good.”
 
@@ -120,10 +120,10 @@ sometimes, of complaining that they—but I’ll not—”
 “That they what?” cried Catherine, gazing at him with a troubled
 countenance. “Oh, Nelly!” she added petulantly, jerking her head away
 from my hands, “you’ve combed my hair quite out of curl! That’s enough;
-let me alone. What are you on the point of complaining about,
-Heathcliff?”
+let me [[Alone|alone]]. What are you on the point of complaining about,
+[[Heathcliff]]?”
 
 “Nothing—only look at the almanack on that wall;” he pointed to a
-framed sheet hanging near the window, and continued, “The crosses are
+framed sheet hanging near the [[Window|window]], and continued, “The crosses are
 for the evenings you have spent with the Lintons, the dots for those
 spent with me. Do you see? I’ve marked every day.”

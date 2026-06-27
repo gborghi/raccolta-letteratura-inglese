@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 13 (part 3)"
+title: "[[Emma]] — Chapter 13 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-Emma smiled and answered—“My visit was of use to the nervous part of
-her complaint, I hope; but not even I can charm away a sore throat; it
+[[Emma]] smiled and answered—“My visit was of use to the nervous part of
+her complaint, I [[Hope|hope]]; but not even I can charm away a sore throat; it
 is a most severe cold indeed. Mr. Perry has been with her, as you
 probably heard.”
 
 “Yes—I imagined—that is—I did not—”
 
-“He has been used to her in these complaints, and I hope to-morrow
+“He has been used to her in these complaints, and I [[Hope|hope]] to-morrow
 morning will bring us both a more comfortable report. But it is
 impossible not to feel uneasiness. Such a sad loss to our party
 to-day!”
@@ -29,7 +29,7 @@ to-day!”
 “Dreadful!—Exactly so, indeed.—She will be missed every moment.”
 
 This was very proper; the sigh which accompanied it was really
-estimable; but it should have lasted longer. Emma was rather in dismay
+estimable; but it should have lasted longer. [[Emma]] was rather in dismay
 when only half a minute afterwards he began to speak of other things,
 and in a voice of the greatest alacrity and enjoyment.
 
@@ -49,11 +49,11 @@ it.”
 extremely fortunate we may think ourselves that it did not begin
 yesterday, and prevent this day’s party, which it might very possibly
 have done, for Mr. Woodhouse would hardly have ventured had there been
-much snow on the ground; but now it is of no consequence. This is quite
-the season indeed for friendly meetings. At Christmas every body
+much [[Snow|snow]] on the ground; but now it is of no consequence. This is quite
+the season indeed for friendly meetings. At Christmas every [[Body|body]]
 invites their friends about them, and people think little of even the
-worst weather. I was snowed up at a friend’s house once for a week.
-Nothing could be pleasanter. I went for only one night, and could not
+worst weather. I was snowed up at a friend’s [[house]] once for a week.
+Nothing could be pleasanter. I went for only one [[Night|night]], and could not
 get away till that very day se’nnight.”
 
 Mr. John Knightley looked as if he did not comprehend the pleasure, but
@@ -61,7 +61,7 @@ said only, coolly,
 
 “I cannot wish to be snowed up a week at Randalls.”
 
-At another time Emma might have been amused, but she was too much
+At another [[Time|time]] [[Emma]] might have been amused, but she was too much
 astonished now at Mr. Elton’s spirits for other feelings. Harriet
 seemed quite forgotten in the expectation of a pleasant party.
 
@@ -73,15 +73,15 @@ small parties are select, they are perhaps the most agreeable of any.
 Mr. Weston’s dining-room does not accommodate more than ten
 comfortably; and for my part, I would rather, under such circumstances,
 fall short by two than exceed by two. I think you will agree with me,
-(turning with a soft air to Emma,) I think I shall certainly have your
+(turning with a soft air to [[Emma]],) I think I shall certainly have your
 approbation, though Mr. Knightley perhaps, from being used to the large
-parties of London, may not quite enter into our feelings.”
+parties of [[London]], may not quite enter into our feelings.”
 
-“I know nothing of the large parties of London, sir—I never dine with
-any body.”
+“I know nothing of the large parties of [[London]], sir—I never dine with
+any [[Body|body]].”
 
-“Indeed! (in a tone of wonder and pity,) I had no idea that the law had
-been so great a slavery. Well, sir, the time must come when you will be
+“Indeed! (in a tone of [[Wonder|wonder]] and pity,) I had no idea that the law had
+been so great a [[Slavery|slavery]]. [[Well]], sir, the [[Time|time]] must come when you will be
 paid for all this, when you will have little labour and great
 enjoyment.”
 

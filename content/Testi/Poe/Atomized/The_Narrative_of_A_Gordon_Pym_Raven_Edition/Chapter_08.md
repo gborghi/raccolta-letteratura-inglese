@@ -20,7 +20,7 @@ CHAPTER 8
 
 
 
-      As I viewed myself in a fragment of looking-glass which hung up
+      As I viewed myself in a [[Fragment|fragment]] of looking-glass which hung up
 
       in the cabin, and by the dim light of a kind of battle-lantern, I
 
@@ -76,7 +76,7 @@ CHAPTER 8
 
 
 
-      We listened to their conversation for some time before we could
+      We listened to their conversation for some [[Time|time]] before we could
 
       make up our minds how to act, having as yet resolved on nothing
 
@@ -110,7 +110,7 @@ CHAPTER 8
 
       answer was made, but we could easily perceive that the hint was
 
-      well received by the whole party, and more particularly by Jones.
+      [[Well|well]] received by the whole party, and more particularly by [[Jones]].
 
       At this period I was excessively agitated, the more so as I could
 
@@ -124,7 +124,7 @@ CHAPTER 8
 
 
 
-      The tremendous noise made by the roaring of the wind in the
+      The tremendous noise made by the roaring of the [[Wind|wind]] in the
 
       rigging, and the washing of the sea over the deck, prevented us
 
@@ -134,7 +134,7 @@ CHAPTER 8
 
       “go forward, have an eye upon them, for he wanted no such secret
 
-      doings on board the brig.” It was well for us that the pitching
+      doings on board the brig.” It was [[Well|well]] for us that the pitching
 
       of the vessel at this moment was so violent as to prevent this
 
@@ -148,7 +148,7 @@ CHAPTER 8
 
       creating a good deal of other confusion. Luckily, neither of our
 
-      party was thrown from his position, and we had time to make a
+      party was thrown from his position, and we had [[Time|time]] to make a
 
       precipitate retreat to the forecastle, and arrange a hurried plan
 
@@ -174,7 +174,7 @@ CHAPTER 8
 
       had found it. The mate received them with feigned cordiality, and
 
-      told Augustus that, since he had behaved himself so well of late,
+      told Augustus that, since he had behaved himself so [[Well|well]] of late,
 
       he might take up his quarters in the cabin and be one of them for
 
@@ -192,7 +192,7 @@ CHAPTER 8
 
 
 
-      I now steadied myself as well as possible so as to have a good
+      I now steadied myself as [[Well|well]] as possible so as to have a good
 
       view of all that was passing within, and endeavoured to nerve
 
@@ -216,11 +216,11 @@ CHAPTER 8
 
       thought he was upon the point of swooning. Peters now asked him
 
-      if he did not think it would be better to have the body thrown
+      if he did not think it would be better to have the [[Body|body]] thrown
 
       overboard at once as it was too horrible a sight to see it
 
-      floundering about in the scuppers. At this the villain absolutely
+      floundering about in the scuppers. At this the [[Villain|villain]] absolutely
 
       gasped for breath, and turned his head slowly round upon his
 
@@ -242,25 +242,25 @@ CHAPTER 8
 
       all to be wondered at when the various circumstances are taken
 
-      into consideration. Usually, in cases of a similar nature, there
+      into consideration. Usually, in cases of a similar [[Nature|nature]], there
 
-      is left in the mind of the spectator some glimmering of doubt as
+      is left in the mind of the spectator some glimmering of [[Doubt|doubt]] as
 
-      to the reality of the vision before his eyes; a degree of hope,
+      to the reality of the vision before his eyes; a degree of [[Hope|hope]],
 
       however feeble, that he is the victim of chicanery, and that the
 
       apparition is not actually a visitant from the old world of
 
-      shadows. It is not too much to say that such remnants of doubt
+      shadows. It is not too much to say that such remnants of [[Doubt|doubt]]
 
-      have been at the bottom of almost every such visitation, and that
+      have been at the [[Bottom|bottom]] of almost every such visitation, and that
 
       the appalling horror which has sometimes been brought about, is
 
       to be attributed, even in the cases most in point, and where most
 
-      suffering has been experienced, more to a kind of anticipative
+      [[Suffering|suffering]] has been experienced, more to a kind of anticipative
 
       horror, lest the apparition might possibly be real, than to an
 
@@ -268,9 +268,9 @@ CHAPTER 8
 
       it will be seen immediately, that in the minds of the mutineers
 
-      there was not even the shadow of a basis upon which to rest a
+      there was not even the [[Shadow|shadow]] of a basis upon which to rest a
 
-      doubt that the apparition of Rogers was indeed a revivification
+      [[Doubt|doubt]] that the apparition of Rogers was indeed a revivification
 
       of his disgusting corpse, or at least its spiritual image. The
 
@@ -278,7 +278,7 @@ CHAPTER 8
 
       on account of the gale, confined the apparently possible means of
 
-      deception within such narrow and definite limits, that they must
+      [[Deception|deception]] within such narrow and definite limits, that they must
 
       have thought themselves enabled to survey them all at a glance.
 
@@ -298,7 +298,7 @@ CHAPTER 8
 
       enter their minds even for an instant. Add to these
 
-      considerations the awe-inspiring nature of the tempest, and that
+      considerations the awe-inspiring [[Nature|nature]] of the tempest, and that
 
       of the conversation brought about by Peters; the deep impression
 
@@ -306,13 +306,13 @@ CHAPTER 8
 
       morning upon the imaginations of the men; the excellence of the
 
-      imitation in my person, and the uncertain and wavering light in
+      [[Imitation|imitation]] in my person, and the uncertain and wavering light in
 
       which they beheld me, as the glare of the cabin lantern, swinging
 
       violently to and fro, fell dubiously and fitfully upon my figure,
 
-      and there will be no reason to wonder that the deception had even
+      and there will be no reason to [[Wonder|wonder]] that the [[Deception|deception]] had even
 
       more than the entire effect which we had anticipated. The mate
 
@@ -326,13 +326,13 @@ CHAPTER 8
 
       first any degree of presence of mind. The four others sat for
 
-      some time rooted apparently to the floor, the most pitiable
+      some [[Time|time]] rooted apparently to the floor, the most pitiable
 
-      objects of horror and utter despair my eyes ever encountered. The
+      objects of horror and utter [[Despair|despair]] my eyes ever encountered. The
 
       only opposition we experienced at all was from the cook, John
 
-      Hunt, and Richard Parker; but they made but a feeble and
+      Hunt, and [[Richard]] Parker; but they made but a feeble and
 
       irresolute defence. The two former were shot instantly by Peters,
 
@@ -344,21 +344,21 @@ CHAPTER 8
 
       Wilson through the breast. There were now but three remaining;
 
-      but by this time they had become aroused from their lethargy, and
+      but by this [[Time|time]] they had become aroused from their lethargy, and
 
-      perhaps began to see that a deception had been practised upon
+      perhaps began to see that a [[Deception|deception]] had been practised upon
 
       them, for they fought with great resolution and fury, and, but
 
       for the immense muscular strength of Peters, might have
 
-      ultimately got the better of us. These three men were—Jones,
+      ultimately got the better of us. These three men were—[[Jones]],
 
-      Greely, and Absolom Hicks. Jones had thrown Augustus to the
+      Greely, and Absolom Hicks. [[Jones]] had thrown Augustus to the
 
       floor, stabbed him in several places along the right arm, and
 
-      would no doubt have soon dispatched him (as neither Peters nor
+      would no [[Doubt|doubt]] have soon dispatched him (as neither Peters nor
 
       myself could immediately get rid of our own antagonists), had it
 
@@ -368,7 +368,7 @@ CHAPTER 8
 
       Tiger. With a low growl, he bounded into the cabin, at a most
 
-      critical moment for Augustus, and throwing himself upon Jones,
+      critical moment for Augustus, and throwing himself upon [[Jones]],
 
       pinned him to the floor in an instant. My friend, however, was
 
@@ -376,11 +376,11 @@ CHAPTER 8
 
       encumbered with my disguise that I could do but little. The dog
 
-      would not leave his hold upon the throat of Jones—Peters,
+      would not leave his hold upon the throat of [[Jones]]—Peters,
 
       nevertheless, was far more than a match for the two men who
 
-      remained, and would, no doubt, have dispatched them sooner, had
+      remained, and would, no [[Doubt|doubt]], have dispatched them sooner, had
 
       it not been for the narrow space in which he had to act, and the
 
@@ -396,13 +396,13 @@ CHAPTER 8
 
       throat, and, by dint of sheer strength, strangled him
 
-      instantaneously. Thus, in far less time than I have taken to tell
+      instantaneously. Thus, in far less [[Time|time]] than I have taken to tell
 
       it, we found ourselves masters of the brig.
 
 
 
-      The only person of our opponents who was left alive was Richard
+      The only person of our opponents who was left alive was [[Richard]]
 
       Parker. This man, it will be remembered, I had knocked down with
 
@@ -412,23 +412,23 @@ CHAPTER 8
 
       upon Peters touching him with his foot, he spoke, and entreated
 
-      for mercy. His head was only slightly cut, and otherwise he had
+      for [[Mercy|mercy]]. His head was only slightly cut, and otherwise he had
 
       received no injury, having been merely stunned by the blow. He
 
       now got up, and, for the present, we secured his hands behind his
 
-      back. The dog was still growling over Jones; but, upon
+      back. The dog was still growling over [[Jones]]; but, upon
 
-      examination, we found him completely dead, the blood issuing in a
+      examination, we found him completely dead, the [[Blood|blood]] issuing in a
 
-      stream from a deep wound in the throat, inflicted, no doubt, by
+      stream from a deep wound in the throat, inflicted, no [[Doubt|doubt]], by
 
       the sharp teeth of the animal.
 
 
 
-      It was now about one o’clock in the morning, and the wind was
+      It was now about one o’[[Clock|clock]] in the morning, and the [[Wind|wind]] was
 
       still blowing tremendously. The brig evidently laboured much more
 
@@ -442,7 +442,7 @@ CHAPTER 8
 
       hatchway having been left open by myself when I descended. The
 
-      entire range of bulwarks to larboard had been swept away, as well
+      entire range of bulwarks to larboard had been swept away, as [[Well|well]]
 
       as the caboose, together with the jollyboat from the counter. The
 
@@ -454,11 +454,11 @@ CHAPTER 8
 
       (a very reprehensible practice, occasionally resorted to by
 
-      ignorant ship-builders), so that it was in imminent danger of
+      ignorant [[Ship|ship]]-builders), so that it was in imminent danger of
 
-      working from its step. But, to crown all our difficulties, we
+      working from its step. But, to [[Crown|crown]] all our difficulties, we
 
-      plummed the well, and found no less than seven feet of water.
+      plummed the [[Well|well]], and found no less than seven feet of [[Water|water]].
 
 
 
@@ -466,7 +466,7 @@ CHAPTER 8
 
       immediately at the pumps—Parker, of course, being set at liberty
 
-      to assist us in the labour. Augustus’s arm was bound up as well
+      to assist us in the labour. Augustus’s arm was bound up as [[Well|well]]
 
       as we could effect it, and he did what he could, but that was not
 
@@ -484,7 +484,7 @@ CHAPTER 8
 
 
 
-      In this manner we passed a night of terrible anxiety and fatigue,
+      In this manner we passed a [[Night|night]] of terrible anxiety and fatigue,
 
       and, when the day at length broke, the gale had neither abated in
 
@@ -518,7 +518,7 @@ CHAPTER 8
 
       heavy sea, striking the brig to the windward, threw her off
 
-      several points from the wind, and, before she could regain her
+      several points from the [[Wind|wind]], and, before she could regain her
 
       position, another broke completely over her, and hurled her full
 
@@ -526,7 +526,7 @@ CHAPTER 8
 
       (the stowage had been knocking about perfectly at random for some
 
-      time), and for a few moments we thought nothing could save us
+      [[Time|time]]), and for a few moments we thought nothing could save us
 
       from capsizing. Presently, however, we partially righted; but the
 
@@ -574,7 +574,7 @@ CHAPTER 8
 
 
 
-      At noon there seemed to be some slight appearance of the gale’s
+      At [[Noon|noon]] there seemed to be some slight appearance of the gale’s
 
       abating, but in this we were sadly disappointed, for it only
 
@@ -582,21 +582,21 @@ CHAPTER 8
 
       in the afternoon it was utterly impossible to stand up against
 
-      the violence of the blast; and, as the night closed in upon us, I
+      the violence of the blast; and, as the [[Night|night]] closed in upon us, I
 
-      had not a shadow of hope that the vessel would hold together
+      had not a [[Shadow|shadow]] of [[Hope|hope]] that the vessel would hold together
 
       until morning.
 
 
 
-      By midnight we had settled very deep in the water, which was now
+      By midnight we had settled very deep in the [[Water|water]], which was now
 
       up to the orlop deck. The rudder went soon afterward, the sea
 
       which tore it away lifting the after portion of the brig entirely
 
-      from the water, against which she thumped in her descent with
+      from the [[Water|water]], against which she thumped in her descent with
 
       such a concussion as would be occasioned by going ashore. We had
 
@@ -624,7 +624,7 @@ CHAPTER 8
 
 
 
-      We had scarcely time to draw breath after the violence of this
+      We had scarcely [[Time|time]] to draw breath after the violence of this
 
       shock, when one of the most tremendous waves I had then ever
 
@@ -632,4 +632,4 @@ CHAPTER 8
 
       clear off, bursting in the hatchways, and filling every inch of
 
-      the vessel with water.
+      the vessel with [[Water|water]].

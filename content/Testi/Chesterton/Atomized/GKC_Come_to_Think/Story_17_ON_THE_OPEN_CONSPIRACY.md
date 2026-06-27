@@ -22,7 +22,7 @@ wanted a world peace; and often wanted it very much; only (and this
 is the point) it certainly did not then, and it possibly may not now,
 want it more than any thing else.  And it is to that distinction
 that Mr. Wells, as it seems to me, pays too little attention.
-Europe felt that need for unity so strongly that it four or five
+Europe felt that need for [[unity]] so strongly that it four or five
 times attempted it and two or three times practically achieved it.
 And the queer thing is that when, for once in a way, it was achieved,
 Mr. Wells does not think much of the achievement.  It was largely achieved
@@ -32,7 +32,7 @@ and Mr. Wells abominates Christi Rome.  Its establishment was attempted
 by Charlemagne; and I do not think he thinks much of Charlemagne.
 Its establishment was re-attempted by Napoleon; and I know he foams
 with rage at the very name of Napoleon.  He thus finds himself
-in a somewhat difficult relation to the whole Outline of History;
+in a somewhat difficult relation to the whole Outline of [[history|History]];
 perpetually affirming that a certain thing must be done and perpetually
 abusing everybody who ever tried to do it.  St. Augustine said in jest,
 `Confound the people who said beforehand what I wanted to say.'
@@ -46,13 +46,13 @@ unification; and it is this which he calls the Open Conspiracy.
 I cannot say that this entirely convinces me as a thing likely
 to convince mankind.  It seems to me that if we cannot get a general
 rule accepted, like that of the Rome of Augustus, we must get a
-general moral philosophy accepted, like that of the Rome of Gregory.
+general moral [[philosophy]] accepted, like that of the Rome of Gregory.
 That is, we must either submit to one common culture or we must
 agree on one common creed; that is the nearest we can ever get
 to making an authority that can really arbitrate and have its
 arbitration accepted.  Even then we cannot make conflict impossible.
 But we can make controversy possible.  We can make it rational to
-argue and debate, by agreeing on the first principles we debate on,
+argue and [[debate]], by agreeing on the first principles we [[debate]] on,
 and accepting a certain standard of values.  Otherwise conflict will
 always be possible, because controversy is impossible.  Suppose there
 is a Prussian who thinks that nothing matters except Prussia,
@@ -70,14 +70,14 @@ between people whose fundamental values are different.
 I take the harsh and narrow sort of patriotism that was called
 Prussianism and the harsh and narrow form of Collectivism that is
 called Bolshevism, because they happen to be the two best modern
-examples of entirely separatist and self-existent new philosophies.
+examples of entirely separatist and [[Self|self]]-existent new philosophies.
 It is perhaps worth noting that they are the two philosophies,
 belonging to the two great communities, which were never inside
 the system either of Pagan or of Christian Rome.
 
 Anyhow, Mr. Wells faces fairly enough the fact that he wants something
 done which several people have tried to do; and that he cannot
-abide their way of doing it.  He therefore has to sketch out some
+abide their way of doing it.  He therefore has to [[Sketch|sketch]] out some
 suggestion at least of his own way of doing it.  And it is this
 which makes the book exceedingly interesting and not very convincing.
 He is certainly in no sense a rigid or rabid Socialist,
@@ -91,10 +91,10 @@ Utopia always wins best in what is, in another than the Wellsian
 sense, a War in the Air.  When the heavenly kingdom becomes
 an earthly paradise, it sometimes tends to be a hell upon earth.
 But it sometimes tends to be what is even worse, or at least weaker:
-a very earthy imitation of the earth.  So long as revolution
-is a failure, we all feel that it holds the promise of success.
-It is when it is a success that it is so often a failure.
-In any case, Mr. Wells leaves it on one side for a failure; if only
+a very earthy [[Imitation|imitation]] of the earth.  So long as revolution
+is a failure, we all feel that it holds the promise of [[success]].
+It is when it is a [[success]] that it is so often a failure.
+In any case, Mr. Wells [[Leaves|leaves]] it on one side for a failure; if only
 because he does not like any of these definite solutions, old or new.
 He dislikes the Romans became they had a military grasp, and the Popes
 because they had a moral grasp, and even the Marxians because,
@@ -124,8 +124,8 @@ which is the right proportion of the universal and the particular.
 `He is the synthesis of infinity and boundary.'
 
 There are two other difficulties I feel in this glorification
-of world government.  One is the very simple fact that the real
-difficulty of representative government is how to make it represent,
+of world [[government]].  One is the very simple fact that the real
+difficulty of representative [[government]] is how to make it represent,
 even in the smallest of small nationalities, even in the nearest
 parish council.  Why we should talk as if we should have more
 influence over rulers governing the whole earth from Geneva
@@ -135,7 +135,7 @@ He seems relatively vague about how we should control them.
 The other objection is less simple and would need a more
 atmospheric description; but it is even more real.  Mr. Wells is driven
 to perpetual disparagement of patriotism and militant memories,
-and yet his appeal is always to the historic pride of man.
+and yet his appeal is always to the historic [[Pride|pride]] of man.
 Now nearly all normal men have in fact received their civilization
 through their citizenship; and to lose their past would be to lose
 their link with mankind.  An Englishman who is not English is

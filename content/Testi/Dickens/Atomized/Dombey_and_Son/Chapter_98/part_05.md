@@ -25,7 +25,7 @@ devotion—for is she not your wife!—no new cause of dislike; but a wish
 from you is, of course, paramount to every other consideration on
 earth. Besides, when Mrs Dombey is converted from these little errors
 of judgment, incidental, I would presume to say, to the novelty of her
-situation, I shall hope that she will perceive in the slight part I
+situation, I shall [[Hope|hope]] that she will perceive in the slight part I
 take, only a grain—my removed and different sphere gives room for
 little more—of the respect for you, and sacrifice of all considerations
 to you, of which it will be her pleasure and privilege to garner up a
@@ -36,7 +36,7 @@ stretched out towards the door, and again to hear through the mild
 speech of his confidential agent an echo of the words, “Nothing can
 make us stranger to each other than we are henceforth!” But he shook
 off the fancy, and did not shake in his resolution, and said,
-“Certainly, no doubt.”
+“Certainly, no [[Doubt|doubt]].”
 
 “There is nothing more,” quoth Carker, drawing his chair back to its
 old place—for they had taken little breakfast as yet—and pausing for an
@@ -51,18 +51,18 @@ say is final.”
 
 Mr Carker signified his understanding of these credentials, and they
 fell to breakfast with what appetite they might. The Grinder also, in
-due time reappeared, keeping his eyes upon his master without a
-moment’s respite, and passing the time in a reverie of worshipful
-tenor. Breakfast concluded, Mr Dombey’s horse was ordered out again,
-and Mr Carker mounting his own, they rode off for the City together.
+due [[Time|time]] reappeared, keeping his eyes upon his master without a
+moment’s respite, and passing the [[Time|time]] in a reverie of worshipful
+tenor. Breakfast concluded, Mr Dombey’s [[Horse|horse]] was ordered out again,
+and Mr Carker mounting his own, they rode off for the [[City]] together.
 
 Mr Carker was in capital spirits, and talked much. Mr Dombey received
 his conversation with the sovereign air of a man who had a right to be
 talked to, and occasionally condescended to throw in a few words to
 carry on the conversation. So they rode on characteristically enough.
 But Mr Dombey, in his dignity, rode with very long stirrups, and a very
-loose rein, and very rarely deigned to look down to see where his horse
-went. In consequence of which it happened that Mr Dombey’s horse, while
+loose rein, and very rarely deigned to look down to see where his [[Horse|horse]]
+went. In consequence of which it happened that Mr Dombey’s [[Horse|horse]], while
 going at a round trot, stumbled on some loose stones, threw him, rolled
 over him, and lashing out with his iron-shod feet, in his struggles to
 get up, kicked him.
@@ -76,34 +76,34 @@ and muttered as he stooped down, “I have given good cause of offence to
 Mrs Dombey now, if she knew it!”
 
 Mr Dombey being insensible, and bleeding from the head and face, was
-carried by certain menders of the road, under Carker’s direction, to
-the nearest public-house, which was not far off, and where he was soon
+carried by certain menders of the [[Road|road]], under Carker’s direction, to
+the nearest public-[[house]], which was not far off, and where he was soon
 attended by divers surgeons, who arrived in quick succession from all
 parts, and who seemed to come by some mysterious instinct, as vultures
-are said to gather about a camel who dies in the desert. After being at
+are said to gather about a camel who dies in the [[Desert|desert]]. After being at
 some pains to restore him to consciousness, these gentlemen examined
-into the nature of his injuries. One surgeon who lived hard by was
+into the [[Nature|nature]] of his injuries. One surgeon who lived hard by was
 strong for a compound fracture of the leg, which was the landlord’s
 opinion also; but two surgeons who lived at a distance, and were only
 in that neighbourhood by accident, combated this opinion so
 disinterestedly, that it was decided at last that the patient, though
 severely cut and bruised, had broken no bones but a lesser rib or so,
-and might be carefully taken home before night. His injuries being
+and might be carefully taken [[Home|home]] before [[Night|night]]. His injuries being
 dressed and bandaged, which was a long operation, and he at length left
-to repose, Mr Carker mounted his horse again, and rode away to carry
-the intelligence home.
+to repose, Mr Carker mounted his [[Horse|horse]] again, and rode away to carry
+the intelligence [[Home|home]].
 
 Crafty and cruel as his face was at the best of times, though it was a
 sufficiently fair face as to form and regularity of feature, it was at
 its worst when he set forth on this errand; animated by the craft and
 cruelty of thoughts within him, suggestions of remote possibility
 rather than of design or plot, that made him ride as if he hunted men
-and women. Drawing rein at length, and slackening in his speed, as he
-came into the more public roads, he checked his white-legged horse into
+and women. Drawing rein at length, and slackening in his [[Speed|speed]], as he
+came into the more public roads, he checked his white-legged [[Horse|horse]] into
 picking his way along as usual, and hid himself beneath his sleek,
 hushed, crouched manner, and his ivory smile, as he best could.
 
-He rode direct to Mr Dombey’s house, alighted at the door, and begged
+He rode direct to Mr Dombey’s [[house]], alighted at the door, and begged
 to see Mrs Dombey on an affair of importance. The servant who showed
 him to Mr Dombey’s own room, soon returned to say that it was not Mrs
 Dombey’s hour for receiving visitors, and that he begged pardon for not
@@ -111,7 +111,7 @@ having mentioned it before.
 
 Mr Carker, who was quite prepared for a cold reception, wrote upon a
 card that he must take the liberty of pressing for an interview, and
-that he would not be so bold as to do so, for the second time (this he
+that he would not be so bold as to do so, for the second [[Time|time]] (this he
 underlined), if he were not equally sure of the occasion being
 sufficient for his justification. After a trifling delay, Mrs Dombey’s
 maid appeared, and conducted him to a morning room upstairs, where

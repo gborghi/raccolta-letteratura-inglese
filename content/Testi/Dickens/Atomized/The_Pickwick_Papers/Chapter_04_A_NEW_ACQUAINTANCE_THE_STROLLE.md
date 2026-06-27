@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE"
+title: "The [[Pickwick]] Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,10 +17,10 @@ tags:
 CHAPTER III. A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE
 INTERRUPTION, AND AN UNPLEASANT ENCOUNTER
 
-Mr. Pickwick had felt some apprehensions in consequence of the unusual
+Mr. [[Pickwick]] had felt some apprehensions in consequence of the unusual
 absence of his two friends, which their mysterious behaviour during the
 whole morning had by no means tended to diminish. It was, therefore,
-with more than ordinary pleasure that he rose to greet them when they
+with more than ordinary pleasure that he [[Rose|rose]] to greet them when they
 again entered; and with more than ordinary interest that he inquired
 what had occurred to detain them from his society. In reply to his
 questions on this point, Mr. Snodgrass was about to offer an historical
@@ -29,7 +29,7 @@ checked by observing that there were present, not only Mr. Tupman and
 their stage-coach companion of the preceding day, but another stranger
 of equally singular appearance. It was a careworn-looking man, whose
 sallow face, and deeply-sunken eyes, were rendered still more striking
-than Nature had made them, by the straight black hair which hung in
+than [[Nature]] had made them, by the straight black hair which hung in
 matted disorder half-way down his face. His eyes were almost unnaturally
 bright and piercing; his cheek-bones were high and prominent; and his
 jaws were so long and lank, that an observer would have supposed that he
@@ -42,7 +42,7 @@ his old waistcoat. His upper garment was a long black surtout; and below
 it he wore wide drab trousers, and large boots, running rapidly to seed.
 
 It was on this uncouth-looking person that Mr. Winkle’s eye rested, and
-it was towards him that Mr. Pickwick extended his hand when he said, ‘A
+it was towards him that Mr. [[Pickwick]] extended his hand when he said, ‘A
 friend of our friend’s here. We discovered this morning that our friend
 was connected with the theatre in this place, though he is not desirous
 to have it generally known, and this gentleman is a member of the same
@@ -54,10 +54,10 @@ advancing to Mr. Winkle and speaking in a low and confidential tone.
 ‘Rum fellow--does the heavy business--no actor--strange man--all sorts
 of miseries--Dismal Jemmy, we call him on the circuit.’ Mr. Winkle and
 Mr. Snodgrass politely welcomed the gentleman, elegantly designated as
-‘Dismal Jemmy’; and calling for brandy-and-water, in imitation of the
+‘Dismal Jemmy’; and calling for brandy-and-[[Water|water]], in [[Imitation|imitation]] of the
 remainder of the company, seated themselves at the table.
 
-‘Now sir,’ said Mr. Pickwick, ‘will you oblige us by proceeding with
+‘Now sir,’ said Mr. [[Pickwick]], ‘will you oblige us by proceeding with
 what you were going to relate?’
 
 The dismal individual took a dirty roll of paper from his pocket, and
@@ -75,7 +75,7 @@ there real in either to live or care for?’
 ‘Very true, Sir,’ replied Mr. Snodgrass.
 
 ‘To be before the footlights,’ continued the dismal man, ‘is like
-sitting at a grand court show, and admiring the silken dresses of the
+sitting at a grand [[Court|court]] show, and admiring the silken dresses of the
 gaudy throng; to be behind them is to be the people who make that
 finery, uncared for and unknown, and left to sink or swim, to starve or
 live, as fortune wills it.’
@@ -86,10 +86,10 @@ rested on him, and he felt it necessary to say something.
 ‘Go on, Jemmy,’ said the Spanish traveller, ‘like black-eyed Susan--all
 in the Downs--no croaking--speak out--look lively.’
 
-‘Will you make another glass before you begin, Sir?’ said Mr. Pickwick.
+‘Will you make another glass before you begin, Sir?’ said Mr. [[Pickwick]].
 
 The dismal man took the hint, and having mixed a glass of brandy-and-
-water, and slowly swallowed half of it, opened the roll of paper and
+[[Water|water]], and slowly swallowed half of it, opened the roll of paper and
 proceeded, partly to read, and partly to relate, the following incident,
 which we find recorded on the Transactions of the Club as ‘The
 Stroller’s Tale.’
@@ -100,11 +100,11 @@ THE STROLLER’S TALE
 ‘There is nothing of the marvellous in what I am going to relate,’ said
 the dismal man; ‘there is nothing even uncommon in it. Want and sickness
 are too common in many stations of life to deserve more notice than is
-usually bestowed on the most ordinary vicissitudes of human nature. I
+usually bestowed on the most ordinary vicissitudes of human [[Nature|nature]]. I
 have thrown these few notes together, because the subject of them was
-well known to me for many years. I traced his progress downwards, step
+[[Well|well]] known to me for many years. I traced his progress downwards, step
 by step, until at last he reached that excess of destitution from which
-he never rose again.
+he never [[Rose|rose]] again.
 
 ‘The man of whom I speak was a low pantomime actor; and, like many
 people of his class, an habitual drunkard. In his better days, before he
@@ -112,24 +112,24 @@ had become enfeebled by dissipation and emaciated by disease, he had
 been in the receipt of a good salary, which, if he had been careful and
 prudent, he might have continued to receive for some years--not many;
 because these men either die early, or by unnaturally taxing their
-bodily energies, lose, prematurely, those physical powers on which alone
+bodily energies, lose, prematurely, those physical powers on which [[Alone|alone]]
 they can depend for subsistence. His besetting sin gained so fast upon
 him, however, that it was found impossible to employ him in the
 situations in which he really was useful to the theatre. The public-
-house had a fascination for him which he could not resist. Neglected
-disease and hopeless poverty were as certain to be his portion as death
+[[house]] had a fascination for him which he could not resist. Neglected
+disease and hopeless [[Poverty|poverty]] were as certain to be his portion as [[Death|death]]
 itself, if he persevered in the same course; yet he did persevere, and
 the result may be guessed. He could obtain no engagement, and he wanted
 bread.
 
 ‘Everybody who is at all acquainted with theatrical matters knows what a
-host of shabby, poverty-stricken men hang about the stage of a large
+host of shabby, [[Poverty|poverty]]-stricken men hang about the stage of a large
 establishment--not regularly engaged actors, but ballet people,
 procession men, tumblers, and so forth, who are taken on during the run
 of a pantomime, or an Easter piece, and are then discharged, until the
 production of some heavy spectacle occasions a new demand for their
 services. To this mode of life the man was compelled to resort; and
-taking the chair every night, at some low theatrical house, at once put
+taking the chair every [[Night|night]], at some low theatrical [[house]], at once put
 him in possession of a few more shillings weekly, and enabled him to
 gratify his old propensity. Even this resource shortly failed him; his
 irregularities were too great to admit of his earning the wretched
@@ -139,22 +139,22 @@ borrowing it of some old companion, or by obtaining an appearance at one
 or other of the commonest of the minor theatres; and when he did earn
 anything it was spent in the old way.
 
-‘About this time, and when he had been existing for upwards of a year no
+‘About this [[Time|time]], and when he had been existing for upwards of a year no
 one knew how, I had a short engagement at one of the theatres on the
-Surrey side of the water, and here I saw this man, whom I had lost sight
-of for some time; for I had been travelling in the provinces, and he had
-been skulking in the lanes and alleys of London. I was dressed to leave
-the house, and was crossing the stage on my way out, when he tapped me
+Surrey side of the [[Water|water]], and here I saw this man, whom I had lost sight
+of for some [[Time|time]]; for I had been travelling in the provinces, and he had
+been skulking in the lanes and alleys of [[London]]. I was dressed to leave
+the [[house]], and was crossing the stage on my way out, when he tapped me
 on the shoulder. Never shall I forget the repulsive sight that met my
 eye when I turned round. He was dressed for the pantomimes in all the
-absurdity of a clown’s costume. The spectral figures in the Dance of
-Death, the most frightful shapes that the ablest painter ever portrayed
+absurdity of a clown’s costume. The spectral figures in the [[Dance]] of
+[[Death]], the most frightful shapes that the ablest painter ever portrayed
 on canvas, never presented an appearance half so ghastly. His bloated
-body and shrunken legs--their deformity enhanced a hundredfold by the
+[[Body|body]] and shrunken legs--their deformity enhanced a hundredfold by the
 fantastic dress--the glassy eyes, contrasting fearfully with the thick
 white paint with which the face was besmeared; the grotesquely-
 ornamented head, trembling with paralysis, and the long skinny hands,
-rubbed with white chalk--all gave him a hideous and unnatural
+rubbed with white [[chalk]]--all gave him a hideous and unnatural
 appearance, of which no description could convey an adequate idea, and
 which, to this day, I shudder to think of. His voice was hollow and
 tremulous as he took me aside, and in broken words recounted a long
@@ -168,17 +168,17 @@ on which were scrawled a few words in pencil, intimating that the man
 was dangerously ill, and begging me, after the performance, to see him
 at his lodgings in some street--I forget the name of it now--at no great
 distance from the theatre. I promised to comply, as soon as I could get
-away; and after the curtain fell, sallied forth on my melancholy errand.
+away; and after the curtain fell, sallied forth on my [[Melancholy|melancholy]] errand.
 
 ‘It was late, for I had been playing in the last piece; and, as it was a
-benefit night, the performances had been protracted to an unusual
-length. It was a dark, cold night, with a chill, damp wind, which blew
-the rain heavily against the windows and house-fronts. Pools of water
+benefit [[Night|night]], the performances had been protracted to an unusual
+length. It was a dark, cold [[Night|night]], with a chill, damp [[Wind|wind]], which blew
+the rain heavily against the windows and [[house]]-fronts. Pools of [[Water|water]]
 had collected in the narrow and little-frequented streets, and as many
 of the thinly-scattered oil-lamps had been blown out by the violence of
-the wind, the walk was not only a comfortless, but most uncertain one. I
+the [[Wind|wind]], the walk was not only a comfortless, but most uncertain one. I
 had fortunately taken the right course, however, and succeeded, after a
-little difficulty, in finding the house to which I had been directed--a
+little difficulty, in finding the [[house]] to which I had been directed--a
 coal-shed, with one storey above it, in the back room of which lay the
 object of my search.
 
@@ -190,12 +190,12 @@ presence, I had leisure to observe the place in which I found myself.
 
 ‘He was lying on an old bedstead, which turned up during the day. The
 tattered remains of a checked curtain were drawn round the bed’s head,
-to exclude the wind, which, however, made its way into the comfortless
+to exclude the [[Wind|wind]], which, however, made its way into the comfortless
 room through the numerous chinks in the door, and blew it to and fro
-every instant. There was a low cinder fire in a rusty, unfixed grate;
+every instant. There was a low cinder [[Fire|fire]] in a rusty, unfixed grate;
 and an old three-cornered stained table, with some medicine bottles, a
 broken glass, and a few other domestic articles, was drawn out before
-it. A little child was sleeping on a temporary bed which had been made
+it. A little [[Child|child]] was sleeping on a temporary bed which had been made
 for it on the floor, and the woman sat on a chair by its side. There
 were a couple of shelves, with a few plates and cups and saucers; and a
 pair of stage shoes and a couple of foils hung beneath them. With the
@@ -203,14 +203,14 @@ exception of little heaps of rags and bundles which had been carelessly
 thrown into the corners of the room, these were the only things in the
 apartment.
 
-‘I had had time to note these little particulars, and to mark the heavy
+‘I had had [[Time|time]] to note these little particulars, and to mark the heavy
 breathing and feverish startings of the sick man, before he was aware of
 my presence. In the restless attempts to procure some easy resting-place
 for his head, he tossed his hand out of the bed, and it fell on mine. He
 started up, and stared eagerly in my face.
 
 ‘“Mr. Hutley, John,” said his wife; “Mr. Hutley, that you sent for to-
-night, you know.”
+[[Night|night]], you know.”
 
 ‘“Ah!” said the invalid, passing his hand across his forehead; “Hutley--
 Hutley--let me see.” He seemed endeavouring to collect his thoughts for
@@ -221,7 +221,7 @@ will.”
 
 ‘“Has he been long so?” said I, addressing his weeping wife.
 
-‘“Since yesterday night,” she replied. “John, John, don’t you know me?”
+‘“Since yesterday [[Night|night]],” she replied. “John, John, don’t you know me?”
 
 ‘“Don’t let her come near me,” said the man, with a shudder, as she
 stooped over him. “Drive her away; I can’t bear her near me.” He stared
@@ -232,8 +232,8 @@ she’ll murder me for it; I know she will. If you’d seen her cry, as I
 have, you’d know it too. Keep her off.” He relaxed his grasp, and sank
 back exhausted on the pillow.
 
-‘I knew but too well what all this meant. If I could have entertained
-any doubt of it, for an instant, one glance at the woman’s pale face and
+‘I knew but too [[Well|well]] what all this meant. If I could have entertained
+any [[Doubt|doubt]] of it, for an instant, one glance at the woman’s pale face and
 wasted form would have sufficiently explained the real state of the
 case. “You had better stand aside,” said I to the poor creature. “You
 can do him no good. Perhaps he will be calmer, if he does not see you.”
@@ -245,10 +245,10 @@ seconds, and looked anxiously round.
 ‘“Yes--yes,” said I; “she shall not hurt you.”
 
 ‘“I’ll tell you what, Jem,” said the man, in a low voice, “she does hurt
-me. There’s something in her eyes wakes such a dreadful fear in my
-heart, that it drives me mad. All last night, her large, staring eyes
+me. There’s something in her eyes wakes such a dreadful [[Fear|fear]] in my
+heart, that it drives me mad. All last [[Night|night]], her large, staring eyes
 and pale face were close to mine; wherever I turned, they turned; and
-whenever I started up from my sleep, she was at the bedside looking at
+whenever I started up from my [[Sleep|sleep]], she was at the bedside looking at
 me.” He drew me closer to him, as he said in a deep alarmed whisper,
 “Jem, she must be an evil spirit--a devil! Hush! I know she is. If she
 had been a woman she would have died long ago. No woman could have borne
@@ -256,20 +256,20 @@ what she has.”
 
 ‘I sickened at the thought of the long course of cruelty and neglect
 which must have occurred to produce such an impression on such a man. I
-could say nothing in reply; for who could offer hope, or consolation, to
+could say nothing in reply; for who could offer [[Hope|hope]], or consolation, to
 the abject being before me?
 
-‘I sat there for upwards of two hours, during which time he tossed
-about, murmuring exclamations of pain or impatience, restlessly throwing
+‘I sat there for upwards of two hours, during which [[Time|time]] he tossed
+about, murmuring exclamations of [[Pain|pain]] or impatience, restlessly throwing
 his arms here and there, and turning constantly from side to side. At
 length he fell into that state of partial unconsciousness, in which the
 mind wanders uneasily from scene to scene, and from place to place,
 without the control of reason, but still without being able to divest
-itself of an indescribable sense of present suffering. Finding from his
+itself of an indescribable sense of present [[Suffering|suffering]]. Finding from his
 incoherent wanderings that this was the case, and knowing that in all
 probability the fever would not grow immediately worse, I left him,
 promising his miserable wife that I would repeat my visit next evening,
-and, if necessary, sit up with the patient during the night.
+and, if necessary, sit up with the patient during the [[Night|night]].
 
 ‘I kept my promise. The last four-and-twenty hours had produced a
 frightful alteration. The eyes, though deeply sunk and heavy, shone with
@@ -278,46 +278,46 @@ places; the hard, dry skin glowed with a burning heat; and there was an
 almost unearthly air of wild anxiety in the man’s face, indicating even
 more strongly the ravages of the disease. The fever was at its height.
 
-‘I took the seat I had occupied the night before, and there I sat for
+‘I took the seat I had occupied the [[Night|night]] before, and there I sat for
 hours, listening to sounds which must strike deep to the heart of the
 most callous among human beings--the awful ravings of a dying man. From
 what I had heard of the medical attendant’s opinion, I knew there was no
-hope for him: I was sitting by his death-bed. I saw the wasted limbs--
+[[Hope|hope]] for him: I was sitting by his [[Death|death]]-bed. I saw the wasted limbs--
 which a few hours before had been distorted for the amusement of a
 boisterous gallery, writhing under the tortures of a burning fever--I
 heard the clown’s shrill laugh, blending with the low murmurings of the
 dying man.
 
 ‘It is a touching thing to hear the mind reverting to the ordinary
-occupations and pursuits of health, when the body lies before you weak
+occupations and pursuits of health, when the [[Body|body]] lies before you weak
 and helpless; but when those occupations are of a character the most
-strongly opposed to anything we associate with grave and solemn ideas,
+strongly opposed to anything we associate with [[Grave|grave]] and solemn ideas,
 the impression produced is infinitely more powerful. The theatre and the
-public-house were the chief themes of the wretched man’s wanderings. It
-was evening, he fancied; he had a part to play that night; it was late,
-and he must leave home instantly. Why did they hold him, and prevent his
+public-[[house]] were the chief themes of the wretched man’s wanderings. It
+was evening, he fancied; he had a part to play that [[Night|night]]; it was late,
+and he must leave [[Home|home]] instantly. Why did they hold him, and prevent his
 going?--he should lose the money--he must go. No! they would not let
 him. He hid his face in his burning hands, and feebly bemoaned his own
 weakness, and the cruelty of his persecutors. A short pause, and he
-shouted out a few doggerel rhymes--the last he had ever learned. He rose
+shouted out a few doggerel rhymes--the last he had ever learned. He [[Rose|rose]]
 in bed, drew up his withered limbs, and rolled about in uncouth
-positions; he was acting--he was at the theatre. A minute’s silence, and
-he murmured the burden of some roaring song. He had reached the old
-house at last--how hot the room was. He had been ill, very ill, but he
-was well now, and happy. Fill up his glass. Who was that, that dashed it
+positions; he was acting--he was at the theatre. A minute’s [[Silence|silence]], and
+he murmured the burden of some roaring [[Song|song]]. He had reached the old
+[[house]] at last--how hot the room was. He had been ill, very ill, but he
+was [[Well|well]] now, and happy. Fill up his glass. Who was that, that dashed it
 from his lips? It was the same persecutor that had followed him before.
 He fell back upon his pillow and moaned aloud. A short period of
 oblivion, and he was wandering through a tedious maze of low-arched
 rooms--so low, sometimes, that he must creep upon his hands and knees to
 make his way along; it was close and dark, and every way he turned, some
-obstacle impeded his progress. There were insects, too, hideous crawling
+obstacle impeded his progress. There were [[Insects|insects]], too, hideous crawling
 things, with eyes that stared upon him, and filled the very air around,
 glistening horribly amidst the thick darkness of the place. The walls
 and ceiling were alive with reptiles--the vault expanded to an enormous
 size--frightful figures flitted to and fro--and the faces of men he
 knew, rendered hideous by gibing and mouthing, peered out from among
 them; they were searing him with heated irons, and binding his head with
-cords till the blood started; and he struggled madly for life.
+cords till the [[Blood|blood]] started; and he struggled madly for life.
 
 ‘At the close of one of these paroxysms, when I had with great
 difficulty held him down in his bed, he sank into what appeared to be a
@@ -325,8 +325,8 @@ slumber. Overpowered with watching and exertion, I had closed my eyes
 for a few minutes, when I felt a violent clutch on my shoulder. I awoke
 instantly. He had raised himself up, so as to seat himself in bed--a
 dreadful change had come over his face, but consciousness had returned,
-for he evidently knew me. The child, who had been long since disturbed
-by his ravings, rose from its little bed, and ran towards its father,
+for he evidently knew me. The [[Child|child]], who had been long since disturbed
+by his ravings, [[Rose|rose]] from its little bed, and ran towards its father,
 screaming with fright--the mother hastily caught it in her arms, lest he
 should injure it in the violence of his insanity; but, terrified by the
 alteration of his features, stood transfixed by the bedside. He grasped
@@ -337,11 +337,11 @@ rattling noise in the throat--a glare of the eye--a short stifled groan-
 -and he fell back--dead!’
 
 It would afford us the highest gratification to be enabled to record Mr.
-Pickwick’s opinion of the foregoing anecdote. We have little doubt that
+[[Pickwick]]’s opinion of the foregoing anecdote. We have little [[Doubt|doubt]] that
 we should have been enabled to present it to our readers, but for a most
 unfortunate occurrence.
 
-Mr. Pickwick had replaced on the table the glass which, during the last
+Mr. [[Pickwick]] had replaced on the table the glass which, during the last
 few sentences of the tale, he had retained in his hand; and had just
 made up his mind to speak--indeed, we have the authority of Mr.
 Snodgrass’s note-book for stating, that he had actually opened his
@@ -349,7 +349,7 @@ mouth--when the waiter entered the room, and said--
 
 ‘Some gentlemen, Sir.’
 
-It has been conjectured that Mr. Pickwick was on the point of delivering
+It has been conjectured that Mr. [[Pickwick]] was on the point of delivering
 some remarks which would have enlightened the world, if not the Thames,
 when he was thus interrupted; for he gazed sternly on the waiter’s
 countenance, and then looked round on the company generally, as if
@@ -360,13 +360,13 @@ pleasant fellows,’ added Mr. Winkle, after the waiter had retired--
 ‘officers of the 97th, whose acquaintance I made rather oddly this
 morning. You will like them very much.’
 
-Mr. Pickwick’s equanimity was at once restored. The waiter returned, and
+Mr. [[Pickwick]]’s equanimity was at once restored. The waiter returned, and
 ushered three gentlemen into the room.
 
 ‘Lieutenant Tappleton,’ said Mr. Winkle, ‘Lieutenant Tappleton, Mr.
-Pickwick--Doctor Payne, Mr. Pickwick--Mr. Snodgrass you have seen
+[[Pickwick]]--Doctor Payne, Mr. [[Pickwick]]--Mr. Snodgrass you have seen
 before, my friend Mr. Tupman, Doctor Payne--Doctor Slammer, Mr.
-Pickwick--Mr. Tupman, Doctor Slam--’
+[[Pickwick]]--Mr. Tupman, Doctor Slam--’
 
 Here Mr. Winkle suddenly paused; for strong emotion was visible on the
 countenance both of Mr. Tupman and the doctor.
@@ -378,7 +378,7 @@ emphasis.
 
 ‘And--and that person, too, if I am not mistaken,’ said the doctor,
 bestowing a scrutinising glance on the green-coated stranger. ‘I think I
-gave that person a very pressing invitation last night, which he thought
+gave that person a very pressing invitation last [[Night|night]], which he thought
 proper to decline.’ Saying which the doctor scowled magnanimously on the
 stranger, and whispered his friend Lieutenant Tappleton.
 
@@ -391,32 +391,32 @@ whisper.
 stool, with great importance.
 
 ‘Do be quiet, Payne,’ interposed the lieutenant. ‘Will you allow me to
-ask you, sir,’ he said, addressing Mr. Pickwick, who was considerably
+ask you, sir,’ he said, addressing Mr. [[Pickwick]], who was considerably
 mystified by this very unpolite by-play--‘will you allow me to ask you,
 Sir, whether that person belongs to your party?’
 
-‘No, Sir,’ replied Mr. Pickwick, ‘he is a guest of ours.’
+‘No, Sir,’ replied Mr. [[Pickwick]], ‘he is a guest of ours.’
 
 ‘He is a member of your club, or I am mistaken?’ said the lieutenant
 inquiringly.
 
-‘Certainly not,’ responded Mr. Pickwick.
+‘Certainly not,’ responded Mr. [[Pickwick]].
 
 ‘And never wears your club-button?’ said the lieutenant.
 
-‘No--never!’ replied the astonished Mr. Pickwick.
+‘No--never!’ replied the astonished Mr. [[Pickwick]].
 
 Lieutenant Tappleton turned round to his friend Doctor Slammer, with a
-scarcely perceptible shrug of the shoulder, as if implying some doubt of
+scarcely perceptible shrug of the shoulder, as if implying some [[Doubt|doubt]] of
 the accuracy of his recollection. The little doctor looked wrathful, but
 confounded; and Mr. Payne gazed with a ferocious aspect on the beaming
-countenance of the unconscious Pickwick.
+countenance of the unconscious [[Pickwick]].
 
 ‘Sir,’ said the doctor, suddenly addressing Mr. Tupman, in a tone which
 made that gentleman start as perceptibly as if a pin had been cunningly
-inserted in the calf of his leg, ‘you were at the ball here last night!’
+inserted in the calf of his leg, ‘you were at the ball here last [[Night|night]]!’
 
-Mr. Tupman gasped a faint affirmative, looking very hard at Mr. Pickwick
+Mr. Tupman gasped a faint affirmative, looking very hard at Mr. [[Pickwick]]
 all the while.
 
 ‘That person was your companion,’ said the doctor, pointing to the still
@@ -429,7 +429,7 @@ the presence of these gentlemen, whether you choose to give me your
 card, and to receive the treatment of a gentleman; or whether you impose
 upon me the necessity of personally chastising you on the spot?’
 
-‘Stay, sir,’ said Mr. Pickwick, ‘I really cannot allow this matter to go
+‘Stay, sir,’ said Mr. [[Pickwick]], ‘I really cannot allow this matter to go
 any further without some explanation. Tupman, recount the
 circumstances.’
 
@@ -446,13 +446,13 @@ scorn, ‘Haven’t I seen you at the theatre, Sir?’
 
 ‘He is a strolling actor!’ said the lieutenant contemptuously, turning
 to Doctor Slammer.--‘He acts in the piece that the officers of the 52nd
-get up at the Rochester Theatre to-morrow night. You cannot proceed in
+get up at the Rochester Theatre to-morrow [[Night|night]]. You cannot proceed in
 this affair, Slammer--impossible!’
 
 ‘Quite!’ said the dignified Payne.
 
 ‘Sorry to have placed you in this disagreeable situation,’ said
-Lieutenant Tappleton, addressing Mr. Pickwick; ‘allow me to suggest,
+Lieutenant Tappleton, addressing Mr. [[Pickwick]]; ‘allow me to suggest,
 that the best way of avoiding a recurrence of such scenes in future will
 be to be more select in the choice of your companions. Good-evening,
 Sir!’ and the lieutenant bounced out of the room.
@@ -467,10 +467,10 @@ followed by Doctor Slammer, who said nothing, but contented himself by
 withering the company with a look.
 
 Rising rage and extreme bewilderment had swelled the noble breast of Mr.
-Pickwick, almost to the bursting of his waistcoat, during the delivery
+[[Pickwick]], almost to the bursting of his waistcoat, during the delivery
 of the above defiance. He stood transfixed to the spot, gazing on
 vacancy. The closing of the door recalled him to himself. He rushed
-forward with fury in his looks, and fire in his eye. His hand was upon
+forward with fury in his looks, and [[Fire|fire]] in his eye. His hand was upon
 the lock of the door; in another instant it would have been on the
 throat of Doctor Payne of the 43rd, had not Mr. Snodgrass seized his
 revered leader by the coat tail, and dragged him backwards.
@@ -478,24 +478,24 @@ revered leader by the coat tail, and dragged him backwards.
 ‘Restrain him,’ cried Mr. Snodgrass; ‘Winkle, Tupman--he must not peril
 his distinguished life in such a cause as this.’
 
-‘Let me go,’ said Mr. Pickwick.
+‘Let me go,’ said Mr. [[Pickwick]].
 
 ‘Hold him tight,’ shouted Mr. Snodgrass; and by the united efforts of
-the whole company, Mr. Pickwick was forced into an arm-chair.
+the whole company, Mr. [[Pickwick]] was forced into an arm-chair.
 
-‘Leave him alone,’ said the green-coated stranger; ‘brandy-and-water--
-jolly old gentleman--lots of pluck--swallow this--ah!--capital stuff.’
+‘Leave him [[Alone|alone]],’ said the green-coated stranger; ‘brandy-and-[[Water|water]]--
+jolly old gentleman--lots of pluck--[[Swallow|swallow]] this--ah!--capital stuff.’
 Having previously tested the virtues of a bumper, which had been mixed
-by the dismal man, the stranger applied the glass to Mr. Pickwick’s
+by the dismal man, the stranger applied the glass to Mr. [[Pickwick]]’s
 mouth; and the remainder of its contents rapidly disappeared.
 
-There was a short pause; the brandy-and-water had done its work; the
-amiable countenance of Mr. Pickwick was fast recovering its customary
+There was a short pause; the brandy-and-[[Water|water]] had done its work; the
+amiable countenance of Mr. [[Pickwick]] was fast recovering its customary
 expression.
 
 ‘They are not worth your notice,’ said the dismal man.
 
-‘You are right, sir,’ replied Mr. Pickwick, ‘they are not. I am ashamed
+‘You are right, sir,’ replied Mr. [[Pickwick]], ‘they are not. I am ashamed
 to have been betrayed into this warmth of feeling. Draw your chair up to
 the table, Sir.’
 
@@ -505,5 +505,5 @@ appeared to find a resting-place in Mr. Winkle’s bosom, occasioned
 possibly by the temporary abstraction of his coat--though it is scarcely
 reasonable to suppose that so slight a circumstance can have excited
 even a passing feeling of anger in a Pickwickian’s breast. With this
-exception, their good-humour was completely restored; and the evening
+exception, their good-[[Humour|humour]] was completely restored; and the evening
 concluded with the conviviality with which it had begun.

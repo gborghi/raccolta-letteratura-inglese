@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 3: Home (part 4)"
+title: "Little Dorrit — Chapter 3: [[Home]] (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-She shut the book and remained for a little time with her face shaded by
+She shut the book and remained for a little [[Time|time]] with her face shaded by
 her hand. So did the old man, otherwise still unchanged in attitude; so,
 probably, did the old woman in her dimmer part of the room. Then the
 sick woman was ready for bed.
 
-‘Good night, Arthur. Affery will see to your accommodation. Only touch
+‘Good [[Night|night]], [[Arthur]]. Affery will see to your accommodation. Only touch
 me, for my hand is tender.’ He touched the worsted muffling of her
 hand--that was nothing; if his mother had been sheathed in brass there
 would have been no new barrier between them--and followed the old man
 and woman down-stairs.
 
-The latter asked him, when they were alone together among the heavy
+The latter asked him, when they were [[Alone|alone]] together among the heavy
 shadows of the dining-room, would he have some supper?
 
 ‘No, Affery, no supper.’
@@ -41,13 +41,13 @@ to bring it you.’
 
 No; nor would he have that, either.
 
-‘It’s no reason, Arthur,’ said the old woman, bending over him to
+‘It’s no reason, [[Arthur]],’ said the old woman, bending over him to
 whisper, ‘that because I am afeared of my life of ‘em, you should be.
 You’ve got half the property, haven’t you?’
 
 ‘Yes, yes.’
 
-‘Well then, don’t you be cowed. You’re clever, Arthur, an’t you?’
+‘[[Well]] then, don’t you be cowed. You’re clever, [[Arthur]], an’t you?’
 
 He nodded, as she seemed to expect an answer in the affirmative.
 
@@ -64,33 +64,33 @@ be but a clever one to do that!’
 His shuffling footstep coming towards them caused her to retreat to the
 other end of the room. Though a tall, hard-favoured, sinewy old woman,
 who in her youth might have enlisted in the Foot Guards without much
-fear of discovery, she collapsed before the little keen-eyed crab-like
+[[Fear|fear]] of discovery, she collapsed before the little keen-eyed crab-like
 old man.
 
 ‘Now, Affery,’ said he, ‘now, woman, what are you doing? Can’t you find
-Master Arthur something or another to pick at?’
+Master [[Arthur]] something or another to pick at?’
 
-Master Arthur repeated his recent refusal to pick at anything.
+Master [[Arthur]] repeated his recent refusal to pick at anything.
 
-‘Very well, then,’ said the old man; ‘make his bed. Stir yourself.’ His
+‘Very [[Well|well]], then,’ said the old man; ‘make his bed. Stir yourself.’ His
 neck was so twisted that the knotted ends of his white cravat usually
 dangled under one ear; his natural acerbity and energy, always
-contending with a second nature of habitual repression, gave his
+contending with a second [[Nature|nature]] of habitual repression, gave his
 features a swollen and suffused look; and altogether, he had a weird
-appearance of having hanged himself at one time or other, and of having
+appearance of having hanged himself at one [[Time|time]] or other, and of having
 gone about ever since, halter and all, exactly as some timely hand had
 cut him down.
 
-‘You’ll have bitter words together to-morrow, Arthur; you and your
+‘You’ll have bitter words together to-morrow, [[Arthur]]; you and your
 mother,’ said Jeremiah. ‘Your having given up the business on your
-father’s death--which she suspects, though we have left it to you to
+father’s [[Death|death]]--which she suspects, though we have left it to you to
 tell her--won’t go off smoothly.’
 
-‘I have given up everything in life for the business, and the time came
+‘I have given up everything in life for the business, and the [[Time|time]] came
 for me to give up that.’
 
 ‘Good!’ cried Jeremiah, evidently meaning Bad. ‘Very good! only don’t
-expect me to stand between your mother and you, Arthur. I stood between
+expect me to stand between your mother and you, [[Arthur]]. I stood between
 your mother and your father, fending off this, and fending off that, and
 getting crushed and pounded betwixt em; and I’ve done with such work.’
 
@@ -98,28 +98,28 @@ getting crushed and pounded betwixt em; and I’ve done with such work.’
 
 ‘Good. I’m glad to hear it; because I should have had to decline it, if
 I had been. That’s enough--as your mother says--and more than enough of
-such matters on a Sabbath night. Affery, woman, have you found what you
+such matters on a Sabbath [[Night|night]]. Affery, woman, have you found what you
 want yet?’
 
 She had been collecting sheets and blankets from a press, and hastened
-to gather them up, and to reply, ‘Yes, Jeremiah.’ Arthur Clennam helped
-her by carrying the load himself, wished the old man good night, and
-went up-stairs with her to the top of the house.
+to gather them up, and to reply, ‘Yes, Jeremiah.’ [[Arthur Clennam]] helped
+her by carrying the load himself, wished the old man good [[Night|night]], and
+went up-stairs with her to the top of the [[house]].
 
-They mounted up and up, through the musty smell of an old close house,
+They mounted up and up, through the musty smell of an old close [[house]],
 little used, to a large garret bed-room. Meagre and spare, like all the
 other rooms, it was even uglier and grimmer than the rest, by being the
 place of banishment for the worn-out furniture. Its movables were ugly
 old chairs with worn-out seats, and ugly old chairs without any seats;
 a threadbare patternless carpet, a maimed table, a crippled wardrobe,
-a lean set of fire-irons like the skeleton of a set deceased, a
+a lean set of [[Fire|fire]]-irons like the [[skeleton]] of a set deceased, a
 washing-stand that looked as if it had stood for ages in a hail of
 dirty soapsuds, and a bedstead with four bare atomies of posts, each
 terminating in a spike, as if for the dismal accommodation of lodgers
-who might prefer to impale themselves. Arthur opened the long low
-window, and looked out upon the old blasted and blackened forest of
+who might prefer to impale themselves. [[Arthur]] opened the long low
+[[Window|window]], and looked out upon the old blasted and blackened forest of
 chimneys, and the old red glare in the sky, which had seemed to him once
-upon a time but a nightly reflection of the fiery environment that was
+upon a [[Time|time]] but a nightly reflection of the fiery environment that was
 presented to his childish fancy in all directions, let it look where it
 would.
 

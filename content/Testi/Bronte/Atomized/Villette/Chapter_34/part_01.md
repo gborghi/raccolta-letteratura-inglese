@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 32 (part 1)"
+title: "[[Villette]] — Chapter 32 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XXXII.
 THE FIRST LETTER.
 
 
-Where, it becomes time to inquire, was Paulina Mary? How fared my
+Where, it becomes [[Time|time]] to inquire, was [[Paulina]] Mary? How fared my
 intercourse with the sumptuous Hôtel Crécy? That intercourse had, for
 an interval, been suspended by absence; M. and Miss de Bassompierre had
 been travelling, dividing some weeks between the provinces and capital
@@ -33,21 +33,21 @@ smooth, linden-bordered path; on one side a middle-aged gentleman and
 young lady, on the other—a young and handsome man. Very graceful was
 the lady’s mien, choice her appointments, delicate and stately her
 whole aspect. Still, as I looked, I felt they were known to me, and,
-drawing a little nearer, I fully recognised them all: the Count Home de
-Bassompierre, his daughter, and Dr. Graham Bretton.
+drawing a little nearer, I fully recognised them all: the Count [[Home]] de
+Bassompierre, his daughter, and Dr. [[Graham Bretton]].
 
 How animated was Graham’s face! How true, how warm, yet how retiring
 the joy it expressed! This was the state of things, this the
 combination of circumstances, at once to attract and enchain, to subdue
 and excite Dr. John. The pearl he admired was in itself of great price
 and truest purity, but he was not the man who, in appreciating the gem,
-could forget its setting. Had he seen Paulina with the same youth,
-beauty, and grace, but on foot, alone, unguarded, and in simple attire,
+could forget its setting. Had he seen [[Paulina]] with the same youth,
+[[Beauty|beauty]], and grace, but on foot, [[Alone|alone]], unguarded, and in simple attire,
 a dependent worker, a demi-grisette, he would have thought her a pretty
 little creature, and would have loved with his eye her movements and
 her mien, but it required other than this to conquer him as he was now
 vanquished, to bring him safe under dominion as now, without loss, and
-even with gain to his manly honour, one saw that he was reduced; there
+even with gain to his manly [[Honour|honour]], one saw that he was reduced; there
 was about Dr. John all the man of the world; to satisfy himself did not
 suffice; society must approve—the world must admire what he did, or he
 counted his measures false and futile. In his victrix he required all
@@ -56,10 +56,10 @@ of a careful and authoritative protection, the adjuncts that Fashion
 decrees, Wealth purchases, and Taste adjusts; for these conditions his
 spirit stipulated ere it surrendered: they were here to the utmost
 fulfilled; and now, proud, impassioned, yet fearing, he did homage to
-Paulina as his sovereign. As for her, the smile of feeling, rather than
+[[Paulina]] as his sovereign. As for her, the smile of feeling, rather than
 of conscious power, slept soft in her eyes.
 
-They parted. He passed me at speed, hardly feeling the earth he
+They parted. He passed me at [[Speed|speed]], hardly feeling the earth he
 skimmed, and seeing nothing on either hand. He looked very handsome;
 mettle and purpose were roused in him fully.
 
@@ -76,23 +76,23 @@ She named the hour, and I promised compliance.
 
 The morrow’s evening found me with her—she and I shut into her own
 room. I had not seen her since that occasion when her claims were
-brought into comparison with those of Ginevra Fanshawe, and had so
+brought into comparison with those of [[Ginevra Fanshawe]], and had so
 signally prevailed; she had much to tell me of her travels in the
 interval. A most animated, rapid speaker was she in such a tête-à-tête,
 a most lively describer; yet with her artless diction and clear soft
 voice, she never seemed to speak too fast or to say too much. My own
 attention I think would not soon have flagged, but by-and-by, she
-herself seemed to need some change of subject; she hastened to wind up
+herself seemed to need some change of subject; she hastened to [[Wind|wind]] up
 her narrative briefly. Yet why she terminated with so concise an
-abridgment did not immediately appear; silence followed—a restless
-silence, not without symptoms of abstraction. Then, turning to me, in a
+abridgment did not immediately appear; [[Silence|silence]] followed—a restless
+[[Silence|silence]], not without symptoms of abstraction. Then, turning to me, in a
 diffident, half-appealing voice—“Lucy—”
 
-“Well, I am at your side.”
+“[[Well]], I am at your side.”
 
-“Is my cousin Ginevra still at Madame Beck’s?”
+“Is my cousin Ginevra still at [[Madame Beck]]’s?”
 
-“Your cousin is still there; you must be longing to see her.”
+“Your cousin is still there; you must be [[Longing|longing]] to see her.”
 
 “No—not much.”
 
@@ -136,7 +136,7 @@ chair, and came and sat on the stool at my feet.
 
 I liked her. It is not a declaration I have often made concerning my
 acquaintance, in the course of this book: the reader will bear with it
-for once. Intimate intercourse, close inspection, disclosed in Paulina
+for once. Intimate intercourse, close inspection, disclosed in [[Paulina]]
 only what was delicate, intelligent, and sincere; therefore my regard
 for her lay deep. An admiration more superficial might have been more
 demonstrative; mine, however, was quiet.

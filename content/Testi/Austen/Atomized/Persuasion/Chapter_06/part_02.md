@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 6 (part 2)"
+title: "[[Persuasion]] — Chapter 6 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ how they should be treated—! Bless me! how troublesome they are
 
 sometimes. I assure you, Miss Anne, it prevents my wishing to see them
 
-at our house so often as I otherwise should. I believe Mrs Charles is
+at our [[house]] so often as I otherwise should. I believe Mrs Charles is
 
 not quite pleased with my not inviting them oftener; but you know it is
 
@@ -38,7 +38,7 @@ all her servants so steady, that it would be high treason to call it in
 
 question; but I am sure, without exaggeration, that her upper
 
-house-maid and laundry-maid, instead of being in their business, are
+[[house]]-maid and laundry-maid, instead of being in their business, are
 
 gadding about the village, all day long. I meet them wherever I go; and
 
@@ -76,13 +76,13 @@ Again, it was Mary’s complaint, that Mrs Musgrove was very apt not to
 
 give her the precedence that was her due, when they dined at the Great
 
-House with other families; and she did not see any reason why she was
+[[house|House]] with other families; and she did not see any reason why she was
 
-to be considered so much at home as to lose her place. And one day when
+to be considered so much at [[Home|home]] as to lose her place. And one day when
 
 Anne was walking with only the Musgroves, one of them after talking of
 
-rank, people of rank, and jealousy of rank, said, “I have no scruple of
+rank, people of rank, and [[Jealousy|jealousy]] of rank, said, “I have no scruple of
 
 observing to _you_, how nonsensical some persons are about their place,
 
@@ -116,7 +116,7 @@ for her sister’s benefit.
 
 
 
-In all other respects, her visit began and proceeded very well. Her own
+In all other respects, her visit began and proceeded very [[Well|well]]. Her own
 
 spirits improved by change of place and subject, by being removed three
 
@@ -132,7 +132,7 @@ certainly carried nearly as far as possible, for they met every
 
 morning, and hardly ever spent an evening asunder; but she believed
 
-they should not have done so well without the sight of Mr and Mrs
+they should not have done so [[Well|well]] without the sight of Mr and Mrs
 
 Musgrove’s respectable forms in the usual places, or without the
 
@@ -146,7 +146,7 @@ having no voice, no knowledge of the harp, and no fond parents, to sit
 
 by and fancy themselves delighted, her performance was little thought
 
-of, only out of civility, or to refresh the others, as she was well
+of, only out of civility, or to refresh the others, as she was [[Well|well]]
 
 aware. She knew that when she played she was giving pleasure only to
 
@@ -158,7 +158,7 @@ loss of her dear mother, known the happiness of being listened to, or
 
 encouraged by any just appreciation or real taste. In music she had
 
-been always used to feel alone in the world; and Mr and Mrs Musgrove’s
+been always used to feel [[Alone|alone]] in the world; and Mr and Mrs Musgrove’s
 
 fond partiality for their own daughters’ performance, and total
 
@@ -168,7 +168,7 @@ their sakes, than mortification for her own.
 
 
 
-The party at the Great House was sometimes increased by other company.
+The party at the [[Great House]] was sometimes increased by other company.
 
 The neighbourhood was not large, but the Musgroves were visited by
 
@@ -186,9 +186,9 @@ in an unpremeditated little ball. There was a family of cousins within
 
 a walk of Uppercross, in less affluent circumstances, who depended on
 
-the Musgroves for all their pleasures: they would come at any time, and
+the Musgroves for all their pleasures: they would come at any [[Time|time]], and
 
-help play at anything, or dance anywhere; and Anne, very much
+help play at anything, or [[Dance|dance]] anywhere; and Anne, very much
 
 preferring the office of musician to a more active post, played country
 
@@ -196,9 +196,9 @@ dances to them by the hour together; a kindness which always
 
 recommended her musical powers to the notice of Mr and Mrs Musgrove
 
-more than anything else, and often drew this compliment;—“Well done,
+more than anything else, and often drew this compliment;—“[[Well]] done,
 
-Miss Anne! very well done indeed! Lord bless me! how those little
+Miss Anne! very [[Well|well]] done indeed! Lord bless me! how those little
 
 fingers of yours fly about!”
 
@@ -206,6 +206,6 @@ fingers of yours fly about!”
 
 So passed the first three weeks. Michaelmas came; and now Anne’s heart
 
-must be in Kellynch again. A beloved home made over to others; all the
+must be in Kellynch again. A beloved [[Home|home]] made over to others; all the
 
 precious rooms and furniture, groves, and prospects, beginning to own

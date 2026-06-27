@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 22: TWENTY TWO (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,23 +16,23 @@ tags:
 
 It would be difficult to give an adequate idea of Mrs Hominy’s freshness
 next day, or of the avidity with which she went headlong into moral
-philosophy at breakfast. Some little additional degree of asperity,
+[[philosophy]] at breakfast. Some little additional degree of asperity,
 perhaps, was visible in her features, but not more than the pickles
 would have naturally produced. All that day she clung to Martin. She
 sat beside him while he received his friends (for there was another
 Reception, yet more numerous than the former), propounded theories, and
 answered imaginary objections, so that Martin really began to think he
 must be dreaming, and speaking for two; she quoted interminable passages
-from certain essays on government, written by herself; used the Major’s
+from certain essays on [[government]], written by herself; used the Major’s
 pocket-handkerchief as if the snuffle were a temporary malady, of which
 she was determined to rid herself by some means or other; and, in short,
 was such a remarkable companion, that Martin quite settled it between
-himself and his conscience, that in any new settlement it would be
+himself and his [[Conscience|conscience]], that in any new settlement it would be
 absolutely necessary to have such a person knocked on the head for the
 general peace of society.
 
 In the meantime Mark was busy, from early in the morning until late
-at night, in getting on board the steamboat such provisions, tools and
+at [[Night|night]], in getting on board the steamboat such provisions, tools and
 other necessaries, as they had been forewarned it would be wise to take.
 The purchase of these things, and the settlement of their bill at the
 National, reduced their finances to so low an ebb, that if the captain
@@ -47,16 +47,16 @@ with not a hand to aid them: newly come into an unknown world, children
 in helplessness, but men in wants--with younger children at their backs,
 to live or die as it might happen!
 
-The morning came, and they would start at noon. Noon came, and they
-would start at night. But nothing is eternal in this world; not even the
-procrastination of an American skipper; and at night all was ready.
+The morning came, and they would start at [[Noon|noon]]. [[Noon]] came, and they
+would start at [[Night|night]]. But nothing is eternal in this world; not even the
+procrastination of an American skipper; and at [[Night|night]] all was ready.
 
-Dispirited and weary to the last degree, but a greater lion than
+Dispirited and weary to the last degree, but a greater [[Lion|lion]] than
 ever (he had done nothing all the afternoon but answer letters from
 strangers; half of them about nothing; half about borrowing money, and
 all requiring an instantaneous reply), Martin walked down to the wharf,
 through a concourse of people, with Mrs Hominy upon his arm; and went on
-board. But Mark was bent on solving the riddle of this lionship, if he
+board. But Mark was bent on solving the [[Riddle|riddle]] of this lionship, if he
 could; and so, not without the risk of being left behind, ran back to
 the hotel.
 
@@ -94,7 +94,7 @@ The wharf was close at hand, and at that instant Mark could hear them
 shouting out his name; could even hear Martin calling to him to make
 haste, or they would be separated. It was too late to mend the matter,
 or put any face upon it but the best. He gave the Captain a parting
-benediction, and ran off like a race-horse.
+benediction, and ran off like a race-[[Horse|horse]].
 
 ‘Mark! Mark!’ cried Martin.
 
@@ -102,6 +102,6 @@ benediction, and ran off like a race-horse.
 quay, and leaping at a bound on board. ‘Never was half so jolly, sir.
 All right. Haul in! Go ahead!’
 
-The sparks from the wood fire streamed upward from the two chimneys, as
+The sparks from the wood [[Fire|fire]] streamed upward from the two chimneys, as
 if the vessel were a great firework just lighted; and they roared away
-upon the dark water.
+upon the dark [[Water|water]].

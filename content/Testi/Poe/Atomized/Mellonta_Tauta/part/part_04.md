@@ -1,5 +1,5 @@
 ---
-title: "Mellonta Tauta (part 4)"
+title: "[[Mellonta Tauta]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mellonta-Tauta-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       because it is a consistency, to be an absolute and an
 
-      unquestionable truth.
+      unquestionable [[Truth|truth]].
 
 
 
@@ -50,7 +50,7 @@ tags:
 
       travelling. Nothing to be seen though—nothing to be done but
 
-      flirt, feast and dance in the magnificent saloons. Do you
+      flirt, feast and [[Dance|dance]] in the magnificent saloons. Do you
 
       remember what an odd sensation was experienced when, by chance,
 
@@ -70,11 +70,11 @@ tags:
 
       measure marked out about nine hundred years ago! In fact, he goes
 
-      so far as to assert that actual traces of a road are still
+      so far as to assert that actual traces of a [[Road|road]] are still
 
       discernible—traces referable to a period quite as remote as that
 
-      mentioned. The track, it appears was double only; ours, you know,
+      mentioned. The track, it appears was [[Double|double]] only; ours, you know,
 
       has twelve paths; and three or four new ones are in preparation.
 
@@ -86,7 +86,7 @@ tags:
 
       feet—is considered, indeed, scarcely secure enough. For my part,
 
-      I make no doubt that a track of some sort must have existed in
+      I make no [[Doubt|doubt]] that a track of some sort must have existed in
 
       very remote times, as Pundit asserts; for nothing can be clearer,
 
@@ -102,7 +102,7 @@ tags:
 
       April 5.—I am almost devoured by _ennui_. Pundit is the only
 
-      conversible person on board; and he, poor soul! can speak of
+      conversible person on board; and he, poor [[Soul|soul]]! can speak of
 
       nothing but antiquities. He has been occupied all the day in the
 
@@ -112,7 +112,7 @@ tags:
 
       existed in a sort of every-man-for-himself confederacy, after the
 
-      fashion of the “prairie dogs” that we read of in fable. He says
+      fashion of the “prairie [[dogs]]” that we read of in [[Fable|fable]]. He says
 
       that they started with the queerest idea conceivable, viz: that
 
@@ -128,17 +128,17 @@ tags:
 
       nobody’s, and that the “Republic” (so the absurd thing was
 
-      called) was without a government at all. It is related, however,
+      called) was without a [[government]] at all. It is related, however,
 
       that the first circumstance which disturbed, very particularly,
 
-      the self-complacency of the philosophers who constructed this
+      the [[Self|self]]-complacency of the philosophers who constructed this
 
       “Republic,” was the startling discovery that universal suffrage
 
       gave opportunity for fraudulent schemes, by means of which any
 
-      desired number of votes might at any time be polled, without the
+      desired number of votes might at any [[Time|time]] be polled, without the
 
       possibility of prevention or even detection, by any party which
 
@@ -148,7 +148,7 @@ tags:
 
       evident the consequences, which were that rascality must
 
-      predominate—in a word, that a republican government could never
+      predominate—in a word, that a republican [[government]] could never
 
       be any thing but a rascally one. While the philosophers, however,
 
@@ -184,14 +184,14 @@ tags:
 
       upon the face of the earth—unless we except the case of the
 
-      “prairie dogs,” an exception which seems to demonstrate, if
+      “prairie [[dogs]],” an exception which seems to demonstrate, if
 
-      anything, that democracy is a very admirable form of
+      anything, that [[democracy]] is a very admirable form of
 
-      government—for dogs.
+      [[government]]—for [[dogs]].
 
 
 
-      April 6.—Last night had a fine view of Alpha Lyrae, whose disk,
+      April 6.—Last [[Night|night]] had a fine view of Alpha Lyrae, whose disk,
 
       through our captain’s spy-glass, subtends an angle of half a

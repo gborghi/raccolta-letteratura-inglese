@@ -16,10 +16,10 @@ tags:
 
 XXXIV
 
-The Diabolist
+The [[diabolist|Diabolist]]
 
 Every now and then I have introduced into my essays an element
-of truth.  Things that really happened have been mentioned,
+of [[Truth|truth]].  Things that really happened have been mentioned,
 such as meeting President Kruger or being thrown out of a cab.
 What I have now to relate really happened; yet there was no
 element in it of practical politics or of personal danger.
@@ -42,13 +42,13 @@ I belonged, along with other charming people, to the latter class;
 and this threw me often into the society of men who were very
 different from myself, and who were idle for reasons very different
 from mine.  I was idle because I was very much occupied;
-I was engaged about that time in discovering, to my own
+I was engaged about that [[Time|time]] in discovering, to my own
 extreme and lasting astonishment, that I was not an atheist.
 But there were others also at loose ends who were engaged in
 discovering what Carlyle called (I think with needless delicacy)
 the fact that ginger is hot in the mouth.
 
-I value that time, in short, because it made me acquainted with a good
+I value that [[Time|time]], in short, because it made me acquainted with a good
 representative number of blackguards.  In this connection there are
 two very curious things which the critic of human life may observe.
 The first is the fact that there is one real difference between men
@@ -60,13 +60,13 @@ idiots is (for some extraordinary reason) not a cad and not an idiot.
 In these small groups devoted to a drivelling dissipation there is
 almost always one man who seems to have condescended to his company;
 one man who, while he can talk a foul triviality with his fellows,
-can also talk politics with a Socialist, or philosophy with a Catholic.
+can also talk politics with a Socialist, or [[philosophy]] with a Catholic.
 
-It was just such a man whom I came to know well.
+It was just such a man whom I came to know [[Well|well]].
 It was strange, perhaps, that he liked his dirty, drunken society;
 it was stranger still, perhaps, that he liked my society.
-For hours of the day he would talk with me about Milton
-or Gothic architecture; for hours of the night he would go
+For hours of the day he would talk with me about [[Milton]]
+or Gothic architecture; for hours of the [[Night|night]] he would go
 where I have no wish to follow him, even in speculation.
 He was a man with a long, ironical face, and close and red hair;
 he was by class a gentleman, and could walk like one, but preferred,
@@ -74,24 +74,24 @@ for some reason, to walk like a groom carrying two pails.
 He looked like a sort of Super-jockey; as if some archangel
 had gone on the Turf.  And I shall never forget the half-hour
 in which he and I argued about real things for the first and
-the last time.
+the last [[Time|time]].
 
 . . . . .
 
 Along the front of the big building of which our school
 was a part ran a huge slope of stone steps, higher, I think,
-than those that lead up to St. Paul's Cathedral.  On a black
+than those that lead up to St. Paul's [[Cathedral]].  On a black
 wintry evening he and I were wandering on these cold heights,
-which seemed as dreary as a pyramid under the stars.
+which seemed as dreary as a pyramid under the [[Stars|stars]].
 The one thing visible below us in the blackness was a burning
-and blowing fire; for some gardener (I suppose) was burning
-something in the grounds, and from time to time the red sparks went
-whirling past us like a swarm of scarlet insects in the dark.
+and blowing [[Fire|fire]]; for some gardener (I suppose) was burning
+something in the grounds, and from [[Time|time]] to [[Time|time]] the red sparks went
+whirling past us like a swarm of scarlet [[Insects|insects]] in the dark.
 Above us also it was gloom; but if one stared long enough
 at that upper darkness, one saw vertical stripes of grey
 in the black and then became conscious of the colossal façade
 of the Doric building, phantasmal, yet filling the sky, as if
-Heaven were still filled with the gigantic ghost of Paganism.
+Heaven were still filled with the gigantic [[Ghost|ghost]] of Paganism.
 
 . . . . .
 
@@ -108,14 +108,14 @@ An error is more menacing than a crime, for an error
 begets crimes.  An Imperialist is worse than a pirate.
 For an Imperialist keeps a school for pirates; he teaches
 piracy disinterestedly and without an adequate salary.
-A Free Lover is worse than a profligate.  For a profligate is
-serious and reckless even in his shortest love; while a Free Lover
+A Free [[Lover]] is worse than a profligate.  For a profligate is
+serious and reckless even in his shortest [[Love|love]]; while a Free [[Lover]]
 is cautious and irresponsible even in his longest devotion.
-I hate modern doubt because it is dangerous."
+I hate modern [[Doubt|doubt]] because it is dangerous."
 
-"You mean dangerous to morality," he said in a voice
+"You mean dangerous to [[morality]]," he said in a voice
 of wonderful gentleness.  "I expect you are right.
-But why do you care about morality?"
+But why do you care about [[morality]]?"
 
 I glanced at his face quickly.  He had thrust out his neck as he had
 a trick of doing; and so brought his face abruptly into the light
@@ -130,53 +130,53 @@ and even as I paused a burst of red sparks broke past.
 "Yes," he replied.
 
 "That is all that I ask you to admit," said I. "Give me
-those few red specks and I will deduce Christian morality.
+those few red specks and I will deduce Christian [[morality]].
 Once I thought like you, that one's pleasure in a flying
 spark was a thing that could come and go with that spark.
-Once I thought that the delight was as free as the fire.
-Once I thought that red star we see was alone in space.
+Once I thought that the delight was as free as the [[Fire|fire]].
+Once I thought that red star we see was [[Alone|alone]] in space.
 But now I know that the red star is only on the apex
-of an invisible pyramid of virtues.  That red fire is only
+of an invisible pyramid of virtues.  That red [[Fire|fire]] is only
 the flower on a stalk of living habits, which you cannot see.
 Only because your mother made you say 'Thank you' for a bun
-are you now able to thank Nature or chaos for those red stars
-of an instant or for the white stars of all time.  Only because you
+are you now able to thank [[Nature]] or chaos for those red [[Stars|stars]]
+of an instant or for the white [[Stars|stars]] of all [[Time|time]].  Only because you
 were humble before fireworks on the fifth of November do you now
 enjoy any fireworks that you chance to see.  You only like them
-being red because you were told about the blood of the martyrs;
+being red because you were told about the [[Blood|blood]] of the martyrs;
 you only like them being bright because brightness is a glory.
 That flame flowered out of virtues, and it will fade with virtues.
 Seduce a woman, and that spark will be less bright.
-Shed blood, and that spark will be less red.  Be really bad,
+Shed [[Blood|blood]], and that spark will be less red.  Be really bad,
 and they will be to you like the spots on a wall-paper."
 
-He had a horrible fairness of the intellect that made me despair of
-his soul.  A common, harmless atheist would have denied that religion
-produced humility or humility a simple joy:  but he admitted both.
+He had a horrible fairness of the intellect that made me [[Despair|despair]] of
+his [[Soul|soul]].  A common, harmless atheist would have denied that religion
+produced [[Humility|humility]] or [[Humility|humility]] a simple joy:  but he admitted both.
 He only said, "But shall I not find in evil a life of its own?
 Granted that for every woman I ruin one of those red sparks will go out:
 will not the expanding pleasure of ruin . . ."
 
-"Do you see that fire?"  I asked.  "If we had a real fighting democracy,
+"Do you see that [[Fire|fire]]?"  I asked.  "If we had a real fighting [[democracy]],
 some one would burn you in it; like the devil-worshipper that you are."
 
 "Perhaps," he said, in his tired, fair way.  "Only what you call
 evil I call good."
 
-He went down the great steps alone, and I felt as if I wanted
+He went down the great steps [[Alone|alone]], and I felt as if I wanted
 the steps swept and cleaned.  I followed later, and as I went to find
 my hat in the low, dark passage where it hung, I suddenly heard his
 voice again, but the words were inaudible.  I stopped, startled:
 then I heard the voice of one of the vilest of his associates saying,
 "Nobody can possibly know."  And then I heard those two or three
 words which I remember in every syllable and cannot forget.
-I heard the Diabolist say, "I tell you I have done everything else.
+I heard the [[diabolist|Diabolist]] say, "I tell you I have done everything else.
 If I do that I shan't know the difference between right and wrong."
-I rushed out without daring to pause; and as I passed the fire I
-did not know whether it was hell or the furious love of God.
+I rushed out without daring to pause; and as I passed the [[Fire|fire]] I
+did not know whether it was hell or the furious [[Love|love]] of God.
 
 I have since heard that he died:  it may be said, I think,
-that he committed suicide; though he did it with tools of pleasure,
-not with tools of pain.  God help him, I know the road he went;
+that he committed [[suicide]]; though he did it with tools of pleasure,
+not with tools of [[Pain|pain]].  God help him, I know the [[Road|road]] he went;
 but I have never known, or even dared to think, what was that place
 at which he stopped and refrained.

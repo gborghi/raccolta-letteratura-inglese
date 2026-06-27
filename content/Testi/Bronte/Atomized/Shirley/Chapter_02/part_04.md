@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 2 (part 4)"
+title: "[[Shirley]] — Chapter 2 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 a foreign ancestry by the mother's side, and was himself born and partly
 
-reared on a foreign soil. A hybrid in nature, it is probable he had a
+reared on a foreign soil. A hybrid in [[Nature|nature]], it is probable he had a
 
 hybrid's feeling on many points--patriotism for one; it is likely that
 
@@ -42,15 +42,15 @@ but the uncertainties, the involvements, of business had come upon them;
 
 disastrous speculations had loosened by degrees the foundations of their
 
-credit. The house had stood on a tottering base for a dozen years; and
+credit. The [[house]] had stood on a tottering base for a dozen years; and
 
-at last, in the shock of the French Revolution, it had rushed down a
+at last, in the shock of the [[French Revolution]], it had rushed down a
 
 total ruin. In its fall was involved the English and Yorkshire firm of
 
-Moore, closely connected with the Antwerp house, and of which one of the
+Moore, closely connected with the Antwerp [[house]], and of which one of the
 
-partners, resident in Antwerp, Robert Moore, had married Hortense
+partners, resident in Antwerp, [[Robert Moore]], had married Hortense
 
 Gérard, with the prospect of his bride inheriting her father Constantine
 
@@ -62,15 +62,15 @@ set aside by a composition with creditors, some said her son Robert
 
 accepted, in his turn, as a legacy, and that he aspired one day to
 
-discharge them, and to rebuild the fallen house of Gérard and Moore on a
+discharge them, and to rebuild the fallen [[house]] of Gérard and Moore on a
 
-scale at least equal to its former greatness. It was even supposed that
+scale at least equal to its former [[Greatness|greatness]]. It was even supposed that
 
-he took by-past circumstances much to heart; and if a childhood passed
+he took by-past circumstances much to heart; and if a [[Childhood|childhood]] passed
 
 at the side of a saturnine mother, under foreboding of coming evil, and
 
-a manhood drenched and blighted by the pitiless descent of the storm,
+a manhood drenched and blighted by the pitiless descent of the [[Storm|storm]],
 
 could painfully impress the mind, _his_ probably was impressed in no
 
@@ -86,7 +86,7 @@ content with the day of small things. When he came to Yorkshire,
 
 he--whose ancestors had owned warehouses in this seaport, and factories
 
-in that inland town, had possessed their town-house and their
+in that inland town, had possessed their town-[[house]] and their
 
 country-seat--saw no way open to him but to rent a cloth-mill in an
 
@@ -94,7 +94,7 @@ out-of-the-way nook of an out-of-the-way district; to take a cottage
 
 adjoining it for his residence, and to add to his possessions, as
 
-pasture for his horse, and space for his cloth-tenters, a few acres of
+pasture for his [[Horse|horse]], and space for his cloth-tenters, a few acres of
 
 the steep, rugged land that lined the hollow through which his
 
@@ -106,7 +106,7 @@ Fieldhead estate, then the property of a minor.
 
 
 
-At the time this history commences, Robert Moore had lived but two years
+At the [[Time|time]] this [[history]] commences, [[Robert Moore]] had lived but two years
 
 in the district, during which period he had at least proved himself
 
@@ -114,7 +114,7 @@ possessed of the quality of activity. The dingy cottage was converted
 
 into a neat, tasteful residence. Of part of the rough land he had made
 
-garden-ground, which he cultivated with singular, even with Flemish,
+[[Garden|garden]]-ground, which he cultivated with singular, even with Flemish,
 
 exactness and care. As to the mill, which was an old structure, and
 
@@ -124,15 +124,15 @@ had from the first evinced the strongest contempt for all its
 
 arrangements and appointments. His aim had been to effect a radical
 
-reform, which he had executed as fast as his very limited capital would
+[[Reform|reform]], which he had executed as fast as his very limited capital would
 
 allow; and the narrowness of that capital, and consequent check on his
 
 progress, was a restraint which galled his spirit sorely. Moore ever
 
-wanted to push on. "Forward" was the device stamped upon his soul; but
+wanted to push on. "Forward" was the device stamped upon his [[Soul|soul]]; but
 
-poverty curbed him. Sometimes (figuratively) he foamed at the mouth when
+[[Poverty|poverty]] curbed him. Sometimes (figuratively) he foamed at the mouth when
 
 the reins were drawn very tight.
 
@@ -142,7 +142,7 @@ In this state of feeling, it is not to be expected that he would
 
 deliberate much as to whether his advance was or was not prejudicial to
 
-others. Not being a native, nor for any length of time a resident of the
+others. Not being a native, nor for any length of [[Time|time]] a resident of the
 
 neighbourhood, he did not sufficiently care when the new inventions
 
@@ -156,15 +156,15 @@ starving poor of Yorkshire seemed to have a closer claim.
 
 
 
-The period of which I write was an overshadowed one in British history,
+The period of which I write was an overshadowed one in British [[history]],
 
-and especially in the history of the northern provinces. War was then
+and especially in the [[history]] of the northern provinces. War was then
 
 at its height. Europe was all involved therein. England, if not weary,
 
 was worn with long resistance--yes, and half her people were weary too,
 
-and cried out for peace on any terms. National honour was become a mere
+and cried out for peace on any terms. National [[Honour|honour]] was become a mere
 
 empty name, of no value in the eyes of many, because their sight was dim
 
@@ -178,7 +178,7 @@ The "Orders in Council," provoked by Napoleon's Milan and Berlin
 
 decrees, and forbidding neutral powers to trade with France, had, by
 
-offending America, cut off the principal market of the Yorkshire woollen
+offending [[America]], cut off the principal market of the Yorkshire woollen
 
 trade, and brought it consequently to the verge of ruin. Minor foreign
 
@@ -194,6 +194,6 @@ necessary to be employed, threw thousands out of work, and left them
 
 without legitimate means of sustaining life. A bad harvest supervened.
 
-Distress reached its climax. Endurance, overgoaded, stretched the hand
+Distress reached its climax. [[Endurance]], overgoaded, stretched the hand
 
 of fraternity to sedition. The throes of a sort of moral earthquake were

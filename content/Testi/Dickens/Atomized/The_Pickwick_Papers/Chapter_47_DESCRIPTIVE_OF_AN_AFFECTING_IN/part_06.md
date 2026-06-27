@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,13 +15,13 @@ tags:
 
 
 The area formed by the wall in that part of the Fleet in which Mr.
-Pickwick stood was just wide enough to make a good racket-court; one
+[[Pickwick]] stood was just wide enough to make a good racket-[[Court|court]]; one
 side being formed, of course, by the wall itself, and the other by that
-portion of the prison which looked (or rather would have looked, but for
-the wall) towards St. Paul’s Cathedral. Sauntering or sitting about, in
+portion of the [[Prison|prison]] which looked (or rather would have looked, but for
+the wall) towards St. Paul’s [[Cathedral]]. Sauntering or sitting about, in
 every possible attitude of listless idleness, were a great number of
-debtors, the major part of whom were waiting in prison until their day
-of ‘going up’ before the Insolvent Court should arrive; while others had
+debtors, the major part of whom were waiting in [[Prison|prison]] until their day
+of ‘going up’ before the Insolvent [[Court]] should arrive; while others had
 been remanded for various terms, which they were idling away as they
 best could. Some were shabby, some were smart, many dirty, a few clean;
 but there they all lounged, and loitered, and slunk about with as little
@@ -32,24 +32,24 @@ number of persons, some in noisy conversation with their acquaintance
 below, others playing at ball with some adventurous throwers outside,
 others looking on at the racket-players, or watching the boys as they
 cried the game. Dirty, slipshod women passed and repassed, on their way
-to the cooking-house in one corner of the yard; children screamed, and
+to the cooking-[[house]] in one corner of the yard; children screamed, and
 fought, and played together, in another; the tumbling of the skittles,
 and the shouts of the players, mingled perpetually with these and a
 hundred other sounds; and all was noise and tumult--save in a little
 miserable shed a few yards off, where lay, all quiet and ghastly, the
-body of the Chancery prisoner who had died the night before, awaiting
-the mockery of an inquest. The body! It is the lawyer’s term for the
+[[Body|body]] of the Chancery prisoner who had died the [[Night|night]] before, awaiting
+the mockery of an inquest. The [[Body|body]]! It is the lawyer’s term for the
 restless, whirling mass of cares and anxieties, affections, hopes, and
-griefs, that make up the living man. The law had his body; and there it
-lay, clothed in grave-clothes, an awful witness to its tender mercy.
+griefs, that make up the living man. The law had his [[Body|body]]; and there it
+lay, clothed in [[Grave|grave]]-clothes, an awful witness to its tender [[Mercy|mercy]].
 
 ‘Would you like to see a whistling-shop, Sir?’ inquired Job Trotter.
 
-‘What do you mean?’ was Mr. Pickwick’s counter inquiry.
+‘What do you mean?’ was Mr. [[Pickwick]]’s counter inquiry.
 
 ‘A vistlin’ shop, Sir,’ interposed Mr. Weller.
 
-‘What is that, Sam?--A bird-fancier’s?’ inquired Mr. Pickwick.
+‘What is that, Sam?--A bird-fancier’s?’ inquired Mr. [[Pickwick]].
 
 ‘Bless your heart, no, Sir,’ replied Job; ‘a whistling-shop, Sir, is
 where they sell spirits.’ Mr. Job Trotter briefly explained here, that
@@ -71,17 +71,17 @@ people from the trade, and elewates their own characters.’
 
 ‘Exactly so, Mr. Weller,’ observed Job.
 
-‘Well, but are these rooms never searched to ascertain whether any
-spirits are concealed in them?’ said Mr. Pickwick.
+‘[[Well]], but are these rooms never searched to ascertain whether any
+spirits are concealed in them?’ said Mr. [[Pickwick]].
 
 ‘Cert’nly they are, Sir,’ replied Sam; ‘but the turnkeys knows
 beforehand, and gives the word to the wistlers, and you may wistle for
 it wen you go to look.’
 
-By this time, Job had tapped at a door, which was opened by a gentleman
+By this [[Time|time]], Job had tapped at a door, which was opened by a gentleman
 with an uncombed head, who bolted it after them when they had walked in,
 and grinned; upon which Job grinned, and Sam also; whereupon Mr.
-Pickwick, thinking it might be expected of him, kept on smiling to the
+[[Pickwick]], thinking it might be expected of him, kept on smiling to the
 end of the interview.
 
 The gentleman with the uncombed head appeared quite satisfied with this
@@ -94,13 +94,13 @@ in a most workmanlike manner.
 
 ‘No more,’ replied Job Trotter.
 
-Mr. Pickwick paid, the door was unbolted, and out they came; the
+Mr. [[Pickwick]] paid, the door was unbolted, and out they came; the
 uncombed gentleman bestowing a friendly nod upon Mr. Roker, who happened
 to be passing at the moment.
 
-From this spot, Mr. Pickwick wandered along all the galleries, up and
+From this spot, Mr. [[Pickwick]] wandered along all the galleries, up and
 down all the staircases, and once again round the whole area of the
-yard. The great body of the prison population appeared to be Mivins, and
+yard. The great [[Body|body]] of the [[Prison|prison]] population appeared to be Mivins, and
 Smangle, and the parson, and the butcher, and the leg, over and over,
 and over again. There were the same squalor, the same turmoil and noise,
 the same general characteristics, in every corner; in the best and the
@@ -108,12 +108,12 @@ worst alike. The whole place seemed restless and troubled; and the
 people were crowding and flitting to and fro, like the shadows in an
 uneasy dream.
 
-‘I have seen enough,’ said Mr. Pickwick, as he threw himself into a
+‘I have seen enough,’ said Mr. [[Pickwick]], as he threw himself into a
 chair in his little apartment. ‘My head aches with these scenes, and my
 heart too. Henceforth I will be a prisoner in my own room.’
 
-And Mr. Pickwick steadfastly adhered to this determination. For three
-long months he remained shut up, all day; only stealing out at night to
+And Mr. [[Pickwick]] steadfastly adhered to this determination. For three
+long months he remained shut up, all day; only stealing out at [[Night|night]] to
 breathe the air, when the greater part of his fellow-prisoners were in
 bed or carousing in their rooms. His health was beginning to suffer from
 the closeness of the confinement, but neither the often-repeated

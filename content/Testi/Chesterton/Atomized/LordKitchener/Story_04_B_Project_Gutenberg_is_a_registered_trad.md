@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — B.  \"Project Gutenberg\" is a registered trademark.  It may only be"
+title: "[[LordKitchener]] — B.  \"Project Gutenberg\" is a registered trademark.  It may only be"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

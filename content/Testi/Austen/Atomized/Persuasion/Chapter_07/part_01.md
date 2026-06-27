@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 7 (part 1)"
+title: "[[Persuasion]] — Chapter 7 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER VII.
 
 
 
-A very few days more, and Captain Wentworth was known to be at
+A very few days more, and [[Captain Wentworth]] was known to be at
 
 Kellynch, and Mr Musgrove had called on him, and come back warm in his
 
@@ -30,7 +30,7 @@ the end of another week. It had been a great disappointment to Mr
 
 Musgrove to find that no earlier day could be fixed, so impatient was
 
-he to shew his gratitude, by seeing Captain Wentworth under his own
+he to shew his gratitude, by seeing [[Captain Wentworth]] under his own
 
 roof, and welcoming him to all that was strongest and best in his
 
@@ -42,17 +42,17 @@ could feel secure even for a week.
 
 
 
-Captain Wentworth made a very early return to Mr Musgrove’s civility,
+[[Captain Wentworth]] made a very early return to Mr Musgrove’s civility,
 
 and she was all but calling there in the same half hour. She and Mary
 
-were actually setting forward for the Great House, where, as she
+were actually setting forward for the [[Great House]], where, as she
 
 afterwards learnt, they must inevitably have found him, when they were
 
-stopped by the eldest boy’s being at that moment brought home in
+stopped by the eldest boy’s being at that moment brought [[Home|home]] in
 
-consequence of a bad fall. The child’s situation put the visit entirely
+consequence of a bad fall. The [[Child|child]]’s situation put the visit entirely
 
 aside; but she could not hear of her escape with indifference, even in
 
@@ -72,11 +72,11 @@ send for, the father to have pursued and informed, the mother to
 
 support and keep from hysterics, the servants to control, the youngest
 
-child to banish, and the poor suffering one to attend and soothe;
+[[Child|child]] to banish, and the poor [[Suffering|suffering]] one to attend and soothe;
 
 besides sending, as soon as she recollected it, proper notice to the
 
-other house, which brought her an accession rather of frightened,
+other [[house]], which brought her an accession rather of frightened,
 
 enquiring companions, than of very useful assistants.
 
@@ -86,15 +86,15 @@ Her brother’s return was the first comfort; he could take best care of
 
 his wife; and the second blessing was the arrival of the apothecary.
 
-Till he came and had examined the child, their apprehensions were the
+Till he came and had examined the [[Child|child]], their apprehensions were the
 
 worse for being vague; they suspected great injury, but knew not where;
 
 but now the collar-bone was soon replaced, and though Mr Robinson felt
 
-and felt, and rubbed, and looked grave, and spoke low words both to the
+and felt, and rubbed, and looked [[Grave|grave]], and spoke low words both to the
 
-father and the aunt, still they were all to hope the best, and to be
+father and the aunt, still they were all to [[Hope|hope]] the best, and to be
 
 able to part and eat their dinner in tolerable ease of mind; and then
 
@@ -102,7 +102,7 @@ it was, just before they parted, that the two young aunts were able so
 
 far to digress from their nephew’s state, as to give the information of
 
-Captain Wentworth’s visit; staying five minutes behind their father and
+[[Captain Wentworth]]’s visit; staying five minutes behind their father and
 
 mother, to endeavour to express how perfectly delighted they were with
 
@@ -126,9 +126,9 @@ ought. And in short, he had looked and said everything with such
 
 exquisite grace, that they could assure them all, their heads were both
 
-turned by him; and off they ran, quite as full of glee as of love, and
+turned by him; and off they ran, quite as full of glee as of [[Love|love]], and
 
-apparently more full of Captain Wentworth than of little Charles.
+apparently more full of [[Captain Wentworth]] than of little Charles.
 
 
 
@@ -138,9 +138,9 @@ came with their father, through the gloom of the evening, to make
 
 enquiries; and Mr Musgrove, no longer under the first uneasiness about
 
-his heir, could add his confirmation and praise, and hope there would
+his heir, could add his confirmation and praise, and [[Hope|hope]] there would
 
-be now no occasion for putting Captain Wentworth off, and only be sorry
+be now no occasion for putting [[Captain Wentworth]] off, and only be sorry
 
 to think that the cottage party, probably, would not like to leave the
 
@@ -156,11 +156,11 @@ adding her warm protestations to theirs.
 
 Charles Musgrove, indeed, afterwards, shewed more of inclination; “the
 
-child was going on so well, and he wished so much to be introduced to
+[[Child|child]] was going on so [[Well|well]], and he wished so much to be introduced to
 
-Captain Wentworth, that, perhaps, he might join them in the evening; he
+[[Captain Wentworth]], that, perhaps, he might join them in the evening; he
 
-would not dine from home, but he might walk in for half an hour.” But
+would not dine from [[Home|home]], but he might walk in for half an hour.” But
 
 in this he was eagerly opposed by his wife, with “Oh! no, indeed,
 
@@ -170,37 +170,37 @@ should happen?”
 
 
 
-The child had a good night, and was going on well the next day. It must
+The [[Child|child]] had a good [[Night|night]], and was going on [[Well|well]] the next day. It must
 
-be a work of time to ascertain that no injury had been done to the
+be a work of [[Time|time]] to ascertain that no injury had been done to the
 
 spine; but Mr Robinson found nothing to increase alarm, and Charles
 
 Musgrove began, consequently, to feel no necessity for longer
 
-confinement. The child was to be kept in bed and amused as quietly as
+confinement. The [[Child|child]] was to be kept in bed and amused as quietly as
 
 possible; but what was there for a father to do? This was quite a
 
 female case, and it would be highly absurd in him, who could be of no
 
-use at home, to shut himself up. His father very much wished him to
+use at [[Home|home]], to shut himself up. His father very much wished him to
 
-meet Captain Wentworth, and there being no sufficient reason against
+meet [[Captain Wentworth]], and there being no sufficient reason against
 
 it, he ought to go; and it ended in his making a bold, public
 
 declaration, when he came in from shooting, of his meaning to dress
 
-directly, and dine at the other house.
+directly, and dine at the other [[house]].
 
 
 
-“Nothing can be going on better than the child,” said he; “so I told my
+“Nothing can be going on better than the [[Child|child]],” said he; “so I told my
 
 father, just now, that I would come, and he thought me quite right.
 
-Your sister being with you, my love, I have no scruple at all. You
+Your sister being with you, my [[Love|love]], I have no scruple at all. You
 
 would not like to leave him yourself, but you see I can be of no use.
 

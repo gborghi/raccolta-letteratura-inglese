@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-‘I speak to Mr. Harthouse?’ she said, when they were alone.
+‘I speak to Mr. Harthouse?’ she said, when they were [[Alone|alone]].
 
 ‘To Mr. Harthouse.’  He added in his mind, ‘And you speak to him with the
 most confiding eyes I ever saw, and the most earnest voice (though so
 quiet) I ever heard.’
 
-‘If I do not understand—and I do not, sir’—said Sissy, ‘what your honour
-as a gentleman binds you to, in other matters:’ the blood really rose in
+‘If I do not understand—and I do not, sir’—said Sissy, ‘what your [[Honour|honour]]
+as a gentleman binds you to, in other matters:’ the [[Blood|blood]] really [[Rose|rose]] in
 his face as she began in these words: ‘I am sure I may rely upon it to
 keep my visit secret, and to keep secret what I am going to say.  I will
 rely upon it, if you will tell me I may so far trust—’
 
 ‘You may, I assure you.’
 
-‘I am young, as you see; I am alone, as you see.  In coming to you, sir,
-I have no advice or encouragement beyond my own hope.’  He thought, ‘But
+‘I am young, as you see; I am [[Alone|alone]], as you see.  In coming to you, sir,
+I have no advice or encouragement beyond my own [[Hope|hope]].’  He thought, ‘But
 that is very strong,’ as he followed the momentary upward glance of her
 eyes.  He thought besides, ‘This is a very odd beginning.  I don’t see
 where we are going.’
@@ -51,14 +51,14 @@ Mr. Harthouse’s face lengthened in spite of his coolness, and his
 perplexity increased.  ‘Then I certainly,’ he thought, ‘do _not_ see
 where we are going.’
 
-‘She hurried there last night.  She arrived there in great agitation, and
-was insensible all through the night.  I live at her father’s, and was
+‘She hurried there last [[Night|night]].  She arrived there in great agitation, and
+was insensible all through the [[Night|night]].  I live at her father’s, and was
 with her.  You may be sure, sir, you will never see her again as long as
 you live.’
 
 Mr. Harthouse drew a long breath; and, if ever man found himself in the
 position of not knowing what to say, made the discovery beyond all
-question that he was so circumstanced.  The child-like ingenuousness with
+question that he was so circumstanced.  The [[Child|child]]-like ingenuousness with
 which his visitor spoke, her modest fearlessness, her truthfulness which
 put all artifice aside, her entire forgetfulness of herself in her
 earnest quiet holding to the object with which she had come; all this,
@@ -77,63 +77,63 @@ words, by the lady of whom we speak?’
 ‘I have no charge from her.’
 
 ‘The drowning man catches at the straw.  With no disrespect for your
-judgment, and with no doubt of your sincerity, excuse my saying that I
-cling to the belief that there is yet hope that I am not condemned to
-perpetual exile from that lady’s presence.’
+judgment, and with no [[Doubt|doubt]] of your sincerity, excuse my saying that I
+cling to the belief that there is yet [[Hope|hope]] that I am not condemned to
+perpetual [[Exile|exile]] from that lady’s presence.’
 
-‘There is not the least hope.  The first object of my coming here, sir,
-is to assure you that you must believe that there is no more hope of your
+‘There is not the least [[Hope|hope]].  The first object of my coming here, sir,
+is to assure you that you must believe that there is no more [[Hope|hope]] of your
 ever speaking with her again, than there would be if she had died when
-she came home last night.’
+she came [[Home|home]] last [[Night|night]].’
 
-‘Must believe?  But if I can’t—or if I should, by infirmity of nature, be
+‘Must believe?  But if I can’t—or if I should, by infirmity of [[Nature|nature]], be
 obstinate—and won’t—’
 
-‘It is still true.  There is no hope.’
+‘It is still true.  There is no [[Hope|hope]].’
 
-James Harthouse looked at her with an incredulous smile upon his lips;
+[[James Harthouse]] looked at her with an incredulous smile upon his lips;
 but her mind looked over and beyond him, and the smile was quite thrown
 away.
 
-He bit his lip, and took a little time for consideration.
+He bit his lip, and took a little [[Time|time]] for consideration.
 
-‘Well!  If it should unhappily appear,’ he said, ‘after due pains and
+‘[[Well]]!  If it should unhappily appear,’ he said, ‘after due pains and
 duty on my part, that I am brought to a position so desolate as this
 banishment, I shall not become the lady’s persecutor.  But you said you
 had no commission from her?’
 
-‘I have only the commission of my love for her, and her love for me.  I
-have no other trust, than that I have been with her since she came home,
+‘I have only the commission of my [[Love|love]] for her, and her [[Love|love]] for me.  I
+have no other trust, than that I have been with her since she came [[Home|home]],
 and that she has given me her confidence.  I have no further trust, than
-that I know something of her character and her marriage.  O Mr.
+that I know something of her character and her [[Marriage|marriage]].  O Mr.
 Harthouse, I think you had that trust too!’
 
 He was touched in the cavity where his heart should have been—in that
-nest of addled eggs, where the birds of heaven would have lived if they
+nest of addled eggs, where the [[Birds|birds]] of heaven would have lived if they
 had not been whistled away—by the fervour of this reproach.
 
 ‘I am not a moral sort of fellow,’ he said, ‘and I never make any
 pretensions to the character of a moral sort of fellow.  I am as immoral
-as need be.  At the same time, in bringing any distress upon the lady who
+as need be.  At the same [[Time|time]], in bringing any distress upon the lady who
 is the subject of the present conversation, or in unfortunately
 compromising her in any way, or in committing myself by any expression of
 sentiments towards her, not perfectly reconcilable with—in fact with—the
 domestic hearth; or in taking any advantage of her father’s being a
-machine, or of her brother’s being a whelp, or of her husband’s being a
+[[Machine|machine]], or of her brother’s being a whelp, or of her husband’s being a
 bear; I beg to be allowed to assure you that I have had no particularly
 evil intentions, but have glided on from one step to another with a
 smoothness so perfectly diabolical, that I had not the slightest idea the
 catalogue was half so long until I began to turn it over.  Whereas I
-find,’ said Mr. James Harthouse, in conclusion, ‘that it is really in
+find,’ said Mr. [[James Harthouse]], in conclusion, ‘that it is really in
 several volumes.’
 
 Though he said all this in his frivolous way, the way seemed, for that
 once, a conscious polishing of but an ugly surface.  He was silent for a
-moment; and then proceeded with a more self-possessed air, though with
+moment; and then proceeded with a more [[Self|self]]-possessed air, though with
 traces of vexation and disappointment that would not be polished out.
 
 ‘After what has been just now represented to me, in a manner I find it
-impossible to doubt—I know of hardly any other source from which I could
+impossible to [[Doubt|doubt]]—I know of hardly any other source from which I could
 have accepted it so readily—I feel bound to say to you, in whom the
 confidence you have mentioned has been reposed, that I cannot refuse to
 contemplate the possibility (however unexpected) of my seeing the lady no

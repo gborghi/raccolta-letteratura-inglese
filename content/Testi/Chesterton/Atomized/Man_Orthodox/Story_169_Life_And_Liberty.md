@@ -35,13 +35,13 @@ more was needed.
 I don't think that I myself have ever changed.
 
 From the beginning I think I was staggered by the stupendous marvel
-of existence--by the miracle of sunlight coming through a window,
+of existence--by the miracle of sunlight coming through a [[Window|window]],
 by the miracle of people walking on legs through the streets,
 by the miracle of people talking to each other.
 
 This marvel fascinated me, as it does today.
 
-And I said to myself--or I might have said to myself--well, is not
+And I said to myself--or I might have said to myself--[[Well|well]], is not
 that enough?  And Echo might have answered:
 
 `Yes, it is enough.  If you see it.  And if you will always see it.'
@@ -56,8 +56,8 @@ a revelation.  It put in black and white the things I had always known.
 The glory and magic of God's universe--the shows of night and day
 and `in the midst, God's beautiful right hand'.
 
-Well, very soon I found that those who imitated Whitman's irregular
-lines missed out the magic of the universe and were definitely
+[[Well]], very soon I found that those who imitated Whitman's irregular
+lines missed out the [[Magic|magic]] of the universe and were definitely
 antagonistic to God's beautiful right hand.  That was disturbing.
 God was all right, the universe was all right, Whitman was all right.
 But something had gone wrong.
@@ -84,7 +84,7 @@ was the South African War.
 
 There I saw something which seemed to me to be the meanest kind of
 financial grab, supported by fine sincere fellows like Stopford Brooke
-(at whose feet I had sat as a child), York Powell and the Fabians--
+(at whose feet I had sat as a [[Child|child]]), York Powell and the Fabians--
 apparently merely because the British Empire was big and the
 Transvaal Republic was little.
 
@@ -99,9 +99,9 @@ Look at the old S.D.F.-ers. Splendid fellows like Hyndman and Bax!
 
 But what they did was to adopt an economic creed (which the Russians
 hold today) that everything that happens must happen--that, in fact,
-nobody can be free.  It seemed a poor way to use your freedom.
+nobody can be free.  It seemed a poor way to use your [[Freedom|freedom]].
 
-And, mark you, I have noticed that the modern idea of freedom
+And, mark you, I have noticed that the modern idea of [[Freedom|freedom]]
 seems to be that you are not to be allowed to bring up your family
 as you choose, that you are not to be allowed to marry as you choose,
 that you are not to be allowed to drink as you choose.
@@ -117,10 +117,10 @@ My very own!
 
 And then I built a studio on it.  My very own studio.
 I could enact my own (or my wife's) plays in that studio
-and whoever said me nay could go to blazes.  And then the house
+and whoever said me nay could go to blazes.  And then the [[house]]
 grew on to the studio.
 
-And now I am proud to say that I can grow in my garden enough
+And now I am proud to say that I can grow in my [[Garden|garden]] enough
 to keep my family alive if our toppling system of credit went
 to pieces and our great cities were famine-stricken.
 
@@ -131,7 +131,7 @@ But I cannot leave out God.  For I have seen so many things go
 wrong when they left out God.
 
 Liberty became licence--desperate, sordid licence--
-or became sheer slavery, property became monopoly.
+or became sheer [[Slavery|slavery]], property became monopoly.
 And the miracle of everyday life became of no account at all.
 
 And so I, who began as a Protestant, remain one as a Catholic--
@@ -144,7 +144,7 @@ was not social.
 Protestantism failed me and I have turned my back on that because it
 did not protest.
 
-These things endure:  life and liberty and the boundless magic
-of night and day--and what comes after.
+These things endure:  life and liberty and the boundless [[Magic|magic]]
+of [[Night|night]] and day--and what comes after.
 
-                                              Daily Sketch, May 14th, 1931
+                                              Daily [[Sketch]], May 14th, 1931

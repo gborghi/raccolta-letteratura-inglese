@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 42 (part 2)"
+title: "Bleak [[house|House]] — Chapter 42 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“No,” says the other. “Well, well! This shall be stopped. I am sorry
+“No,” says the other. “[[Well]], [[Well|well]]! This shall be stopped. I am sorry
 you have been inconvenienced. If she comes again, send her here.”
 
 Mr. Snagsby, with much bowing and short apologetic coughing, takes
@@ -25,7 +25,7 @@ now! But I will be short with THIS jade at least!”
 
 So saying, he unlocks his door, gropes his way into his murky rooms,
 lights his candles, and looks about him. It is too dark to see much
-of the Allegory overhead there, but that importunate Roman, who is
+of the [[Allegory]] overhead there, but that importunate Roman, who is
 for ever toppling out of the clouds and pointing, is at his old work
 pretty distinctly. Not honouring him with much attention, Mr.
 Tulkinghorn takes a small key from his pocket, unlocks a drawer in
@@ -35,7 +35,7 @@ descend to the regions of old wine. He is going towards the door with
 a candle in his hand when a knock comes.
 
 “Who’s this? Aye, aye, mistress, it’s you, is it? You appear at a
-good time. I have just been hearing of you. Now! What do you want?”
+good [[Time|time]]. I have just been hearing of you. Now! What do you want?”
 
 He stands the candle on the chimney-piece in the clerk’s hall and
 taps his dry cheek with the key as he addresses these words of
@@ -48,7 +48,7 @@ closes the door before replying.
 “HAVE you!”
 
 “I have been here very often, sir. It has always been said to me, he
-is not at home, he is engage, he is this and that, he is not for
+is not at [[Home|home]], he is engage, he is this and that, he is not for
 you.”
 
 “Quite right, and quite true.”
@@ -56,7 +56,7 @@ you.”
 “Not true. Lies!”
 
 At times there is a suddenness in the manner of Mademoiselle Hortense
-so like a bodily spring upon the subject of it that such subject
+so like a bodily [[Spring|spring]] upon the subject of it that such subject
 involuntarily starts and falls back. It is Mr. Tulkinghorn’s case at
 present, though Mademoiselle Hortense, with her eyes almost shut up
 (but still looking out sideways), is only smiling contemptuously and
@@ -65,19 +65,19 @@ shaking her head.
 “Now, mistress,” says the lawyer, tapping the key hastily upon the
 chimney-piece. “If you have anything to say, say it, say it.”
 
-“Sir, you have not use me well. You have been mean and shabby.”
+“Sir, you have not use me [[Well|well]]. You have been mean and shabby.”
 
 “Mean and shabby, eh?” returns the lawyer, rubbing his nose with the
 key.
 
 “Yes. What is it that I tell you? You know you have. You have
 attrapped me—catched me—to give you information; you have asked me
-to show you the dress of mine my Lady must have wore that night, you
+to show you the dress of mine my Lady must have wore that [[Night|night]], you
 have prayed me to come in it here to meet that boy. Say! Is it not?”
-Mademoiselle Hortense makes another spring.
+Mademoiselle Hortense makes another [[Spring|spring]].
 
 “You are a vixen, a vixen!” Mr. Tulkinghorn seems to meditate as he
-looks distrustfully at her, then he replies, “Well, wench, well. I
+looks distrustfully at her, then he replies, “[[Well]], wench, [[Well|well]]. I
 paid you.”
 
 “You paid me!” she repeats with fierce disdain. “Two sovereign! I
@@ -111,20 +111,20 @@ setting all her teeth.
 “Oh! I knew that, did I?” says Mr. Tulkinghorn, examining the wards
 of the key.
 
-“Yes, without doubt. I am not blind. You have made sure of me because
+“Yes, without [[Doubt|doubt]]. I am not blind. You have made sure of me because
 you knew that. You had reason! I det-est her.” Mademoiselle Hortense folds her
 arms and throws this last remark at him over one of her shoulders.
 
 “Having said this, have you anything else to say, mademoiselle?”
 
-“I am not yet placed. Place me well. Find me a good condition! If you
+“I am not yet placed. Place me [[Well|well]]. Find me a good condition! If you
 cannot, or do not choose to do that, employ me to pursue her, to
-chase her, to disgrace and to dishonour her. I will help you well,
+chase her, to disgrace and to dishonour her. I will help you [[Well|well]],
 and with a good will. It is what YOU do. Do I not know that?”
 
 “You appear to know a good deal,” Mr. Tulkinghorn retorts.
 
-“Do I not? Is it that I am so weak as to believe, like a child, that
+“Do I not? Is it that I am so weak as to believe, like a [[Child|child]], that
 I come here in that dress to rec-eive that boy only to decide a
 little bet, a wager? Eh, my God, oh yes!” In this reply, down to the
 word “wager” inclusive, mademoiselle has been ironically polite and
@@ -151,6 +151,6 @@ That visit not succeeding either, you will go again perhaps?”
 “And yet again. And yet again. And many times again. In effect, for
 ever!”
 
-“Very well. Now, Mademoiselle Hortense, let me recommend you to take
+“Very [[Well|well]]. Now, Mademoiselle Hortense, let me recommend you to take
 the candle and pick up that money of yours. I think you will find it
 behind the clerk’s partition in the corner yonder.”

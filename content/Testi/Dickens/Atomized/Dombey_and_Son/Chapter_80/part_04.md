@@ -16,9 +16,9 @@ tags:
 
 “More than that, you say, do you?” cried the other, pushing back his
 battered hat, and drawing his hand across his forehead. “Very like. It
-seems a long, long time.”
+seems a long, long [[Time|time]].”
 
-“And the more the time,” pursued the neighbour, “the more you’ve
+“And the more the [[Time|time]],” pursued the neighbour, “the more you’ve
 favoured and humoured her, John, till she’s got to be a burden to
 herself, and everybody else.”
 
@@ -47,7 +47,7 @@ never lets her out of his sight!”
 
 “Because the day’ll come, and has been coming a long while,” observed
 the other, bending low over his work, “when to get half as much from
-that unfort’nate child of mine—to get the trembling of a finger, or the
+that unfort’nate [[Child|child]] of mine—to get the trembling of a finger, or the
 waving of a hair—would be to raise the dead.”
 
 Florence softly put some money near his hand on the old boat, and left
@@ -60,25 +60,25 @@ when she was weak and dim of sight, and take her into his embrace, and
 cancel all the past? Would he so forgive her, in that changed
 condition, for not having been able to lay open her childish heart to
 him, as to make it easy to relate with what emotions she had gone out
-of his room that night; what she had meant to say if she had had the
-courage; and how she had endeavoured, afterwards, to learn the way she
+of his room that [[Night|night]]; what she had meant to say if she had had the
+[[Courage|courage]]; and how she had endeavoured, afterwards, to learn the way she
 never knew in infancy?
 
 Yes, she thought if she were dying, he would relent. She thought, that
 if she lay, serene and not unwilling to depart, upon the bed that was
 curtained round with recollections of their darling boy, he would be
-touched home, and would say, “Dear Florence, live for me, and we will
-love each other as we might have done, and be as happy as we might have
+touched [[Home|home]], and would say, “Dear Florence, live for me, and we will
+[[Love|love]] each other as we might have done, and be as happy as we might have
 been these many years!” She thought that if she heard such words from
 him, and had her arms clasped round him, she could answer with a smile,
 “It is too late for anything but this; I never could be happier, dear
 father!” and so leave him, with a blessing on her lips.
 
-The golden water she remembered on the wall, appeared to Florence, in
+The golden [[Water|water]] she remembered on the wall, appeared to Florence, in
 the light of such reflections, only as a current flowing on to rest,
 and to a region where the dear ones, gone before, were waiting, hand in
-hand; and often when she looked upon the darker river rippling at her
-feet, she thought with awful wonder, but not terror, of that river
+hand; and often when she looked upon the darker [[River|river]] rippling at her
+feet, she thought with awful [[Wonder|wonder]], but not terror, of that [[River|river]]
 which her brother had so often said was bearing him away.
 
 The father and his sick daughter were yet fresh in Florence’s mind,
@@ -88,7 +88,7 @@ bear them company. Florence readily consenting, Lady Skettles ordered
 out young Barnet as a matter of course. For nothing delighted Lady
 Skettles so much, as beholding her eldest son with Florence on his arm.
 
-Barnet, to say the truth, appeared to entertain an opposite sentiment
+Barnet, to say the [[Truth|truth]], appeared to entertain an opposite sentiment
 on the subject, and on such occasions frequently expressed himself
 audibly, though indefinitely, in reference to “a parcel of girls.” As
 it was not easy to ruffle her sweet temper, however, Florence generally
@@ -108,14 +108,14 @@ Barnet and his lady. Florence had no remembrance of having ever seen
 him, but she started involuntarily when he came near her, and drew
 back.
 
-“My horse is perfectly quiet, I assure you,” said the gentleman.
+“My [[Horse|horse]] is perfectly quiet, I assure you,” said the gentleman.
 
 It was not that, but something in the gentleman himself—Florence could
 not have said what—that made her recoil as if she had been stung.
 
-“I have the honour to address Miss Dombey, I believe?” said the
+“I have the [[Honour|honour]] to address Miss Dombey, I believe?” said the
 gentleman, with a most persuasive smile. On Florence inclining her
-head, he added, “My name is Carker. I can hardly hope to be remembered
+head, he added, “My name is Carker. I can hardly [[Hope|hope]] to be remembered
 by Miss Dombey, except by name. Carker.”
 
 [Illustration]
@@ -128,15 +128,15 @@ graciously received.
 tomorrow morning to Mr Dombey, at Leamington, and if Miss Dombey can
 entrust me with any commission, need I say how very happy I shall be?”
 
-Sir Barnet immediately divining that Florence would desire to write a
+Sir Barnet immediately divining that Florence would [[Desire|desire]] to write a
 letter to her father, proposed to return, and besought Mr Carker to
-come home and dine in his riding gear. Mr Carker had the misfortune to
+come [[Home|home]] and dine in his riding gear. Mr Carker had the misfortune to
 be engaged to dinner, but if Miss Dombey wished to write, nothing would
 delight him more than to accompany them back, and to be her faithful
 slave in waiting as long as she pleased. As he said this with his
-widest smile, and bent down close to her to pat his horse’s neck,
+widest smile, and bent down close to her to pat his [[Horse|horse]]’s neck,
 Florence meeting his eyes, saw, rather than heard him say, “There is no
-news of the ship!”
+news of the [[Ship|ship]]!”
 
 Confused, frightened, shrinking from him, and not even sure that he had
 said those words, for he seemed to have shown them to her in some
@@ -146,7 +146,7 @@ write; she had nothing to say.
 
 “Nothing to send, Miss Dombey?” said the man of teeth.
 
-“Nothing,” said Florence, “but my—but my dear love—if you please.”
+“Nothing,” said Florence, “but my—but my dear [[Love|love]]—if you please.”
 
 Disturbed as Florence was, she raised her eyes to his face with an
 imploring and expressive look, that plainly besought him, if he
@@ -157,6 +157,6 @@ the best compliments of himself and Lady Skettles, took his leave, and
 rode away: leaving a favourable impression on that worthy couple.
 Florence was seized with such a shudder as he went, that Sir Barnet,
 adopting the popular superstition, supposed somebody was passing over
-her grave. Mr Carker turning a corner, on the instant, looked back, and
+her [[Grave|grave]]. Mr Carker turning a corner, on the instant, looked back, and
 bowed, and disappeared, as if he rode off to the churchyard straight,
 to do it.

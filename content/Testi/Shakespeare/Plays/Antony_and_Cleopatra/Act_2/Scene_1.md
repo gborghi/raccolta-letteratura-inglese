@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act II, Scene 1"
+title: "Antony and [[Cleopatra]] — Act II, Scene 1"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -16,24 +16,24 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Pompey, Menecrates, and Menas, in warlike manner |
-| POMPEY | If the great gods be just, they shall assist<br>The deeds of justest men. |
-| *(didascalia)* | MENECRATES Know, worthy Pompey, |
-| POMPEY | That what they do delay they not deny. |
-| POMPEY | Whiles we are suitors to their throne, decays<br>The thing we sue for. |
+| *(didascalia)* | Enter [[Pompey]], Menecrates, and Menas, in warlike manner |
+| [[Pompey|POMPEY]] | If the great gods be just, they shall assist<br>The deeds of justest men. |
+| *(didascalia)* | MENECRATES Know, worthy [[Pompey]], |
+| [[Pompey|POMPEY]] | That what they do delay they not deny. |
+| [[Pompey|POMPEY]] | Whiles we are suitors to their throne, decays<br>The thing we sue for. |
 | *(didascalia)* | MENECRATES |
-| POMPEY | We, ignorant of ourselves, Beg often our own harms, which the wise powers<br>Deny us for our good; so find we profit<br>By losing of our prayers. |
-| POMPEY | I shall do well.<br>The people love me, and the sea is mine.<br>My powers are crescent, and my auguring hope<br>Says it will come to th’ full. Mark Antony<br>In Egypt sits at dinner, and will make<br>No wars without doors. Caesar gets money where<br>He loses hearts. Lepidus flatters both,<br>Of both is flattered; but he neither loves,<br>Nor either cares for him. |
+| [[Pompey|POMPEY]] | We, ignorant of ourselves, Beg often our own harms, which the wise powers<br>Deny us for our good; so find we profit<br>By losing of our prayers. |
+| [[Pompey|POMPEY]] | I shall do [[Well|well]].<br>The people [[Love|love]] me, and the sea is mine.<br>My powers are crescent, and my auguring [[Hope|hope]]<br>Says it will come to th’ full. [[Mark Antony]]<br>In [[Egypt]] sits at dinner, and will make<br>No wars without doors. Caesar gets money where<br>He loses hearts. [[Lepidus]] flatters both,<br>Of both is flattered; but he neither loves,<br>Nor either cares for him. |
 | *(didascalia)* | MENAS |
-| POMPEY | Caesar and Lepidus<br>Are in the field; a mighty strength they carry. |
-| POMPEY | Where have you this? ’Tis false. |
+| [[Pompey|POMPEY]] | Caesar and [[Lepidus]]<br>Are in the field; a mighty strength they carry. |
+| [[Pompey|POMPEY]] | Where have you this? ’Tis false. |
 | *(didascalia)* | MENAS |
-| POMPEY | From Silvius, sir. |
-| POMPEY | He dreams. I know they are in Rome together,<br>Looking for Antony. But all the charms of love,<br>Salt Cleopatra, soften thy waned lip.<br>Let witchcraft join with beauty, lust with both<br>Tie up the libertine, in a field of feasts<br>Keep his brain fuming; Epicurean cooks<br>Sharpen with cloyless sauce his appetite,<br>That sleep and feeding may prorogue his honour<br>Even till a Lethe’d dullness— |
+| [[Pompey|POMPEY]] | From [[Silvius]], sir. |
+| [[Pompey|POMPEY]] | He [[Dreams|dreams]]. I know they are in Rome together,<br>Looking for Antony. But all the charms of [[Love|love]],<br>Salt [[Cleopatra]], soften thy waned lip.<br>Let witchcraft join with [[Beauty|beauty]], lust with both<br>Tie up the libertine, in a field of feasts<br>Keep his brain fuming; Epicurean cooks<br>Sharpen with cloyless sauce his appetite,<br>That [[Sleep|sleep]] and feeding may prorogue his [[Honour|honour]]<br>Even till a Lethe’d dullness— |
 | *(didascalia)* | Enter Varrius |
-| POMPEY | How now, Varrius? |
-| VARRIUS | This is most certain that I shall deliver:<br>Mark Antony is every hour in Rome<br>Expected. Since he went from Egypt, ’tis<br>A space for farther travel. |
-| POMPEY | I could have given less matter<br>A better ear. Menas, I did not think<br>This amorous surfeiter would have donned his helm<br>For such a petty war. His soldiership<br>Is twice the other twain. But let us rear<br>The higher our opinion, that our stirring<br>Can from the lap of Egypt’s widow pluck<br>The ne’er lust-wearied Antony. |
-| MENAS | I cannot hope<br>Caesar and Antony shall well greet together.<br>His wife that’s dead did trespasses to Caesar,<br>His brother warred upon him, although, I think,<br>Not moved by Antony. |
-| POMPEY | I know not, Menas,<br>How lesser enmities may give way to greater.<br>Were’t not that we stand up against them all,<br>’Twere pregnant they should square between<br>themselves,<br>For they have entertained cause enough<br>To draw their swords. But how the fear of us<br>May cement their divisions, and bind up<br>The petty difference, we yet not know.<br>Be’t as our gods will have’t; it only stands<br>Our lives upon to use our strongest hands.<br>Come, Menas. |
+| [[Pompey|POMPEY]] | How now, Varrius? |
+| VARRIUS | This is most certain that I shall deliver:<br>[[Mark Antony]] is every hour in Rome<br>Expected. Since he went from [[Egypt]], ’tis<br>A space for farther travel. |
+| [[Pompey|POMPEY]] | I could have given less matter<br>A better ear. Menas, I did not think<br>This amorous surfeiter would have donned his helm<br>For such a petty war. His soldiership<br>Is twice the other twain. But let us rear<br>The higher our opinion, that our stirring<br>Can from the lap of [[Egypt]]’s widow pluck<br>The ne’er lust-wearied Antony. |
+| MENAS | I cannot [[Hope|hope]]<br>Caesar and Antony shall [[Well|well]] greet together.<br>His wife that’s dead did trespasses to Caesar,<br>His brother warred upon him, although, I think,<br>Not moved by Antony. |
+| [[Pompey|POMPEY]] | I know not, Menas,<br>How lesser enmities may give way to greater.<br>Were’t not that we stand up against them all,<br>’Twere pregnant they should square between<br>themselves,<br>For they have entertained cause enough<br>To draw their swords. But how the [[Fear|fear]] of us<br>May cement their divisions, and bind up<br>The petty difference, we yet not know.<br>Be’t as our gods will have’t; it only stands<br>Our lives upon to use our strongest hands.<br>Come, Menas. |
 | *(didascalia)* | Exeunt |

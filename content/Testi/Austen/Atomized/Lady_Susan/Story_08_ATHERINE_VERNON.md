@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON."
+title: "[[Lady Susan]] — ATHERINE VERNON."
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CATHERINE VERNON.
+[[Catherine Vernon|CATHERINE VERNON]].
 
 
 
@@ -80,9 +80,9 @@ If I am vain of anything, it is of my eloquence. Consideration and
 
 esteem as surely follow command of language as admiration waits on
 
-beauty, and here I have opportunity enough for the exercise of my
+[[Beauty|beauty]], and here I have opportunity enough for the exercise of my
 
-talent, as the chief of my time is spent in conversation.
+talent, as the chief of my [[Time|time]] is spent in conversation.
 
 
 
@@ -90,7 +90,7 @@ Reginald is never easy unless we are by ourselves, and when the weather
 
 is tolerable, we pace the shrubbery for hours together. I like him on
 
-the whole very well; he is clever and has a good deal to say, but he is
+the whole very [[Well|well]]; he is clever and has a good deal to say, but he is
 
 sometimes impertinent and troublesome. There is a sort of ridiculous
 
@@ -100,7 +100,7 @@ he may have heard to my disadvantage, and is never satisfied till he
 
 thinks he has ascertained the beginning and end of everything. This is
 
-one sort of love, but I confess it does not particularly recommend
+one sort of [[Love|love]], but I confess it does not particularly recommend
 
 itself to me. I infinitely prefer the tender and liberal spirit of
 
@@ -116,9 +116,9 @@ is indeed, beyond all compare, superior to Reginald—superior in
 
 everything but the power of being with me! Poor fellow! he is much
 
-distracted by jealousy, which I am not sorry for, as I know no better
+distracted by [[Jealousy|jealousy]], which I am not sorry for, as I know no better
 
-support of love. He has been teazing me to allow of his coming into
+support of [[Love|love]]. He has been teazing me to allow of his coming into
 
 this country, and lodging somewhere near _incog_.; but I forbade
 
@@ -158,9 +158,9 @@ Churchhill.
 
 
 
-My dear Mother,—Mr. Vernon returned on Thursday night, bringing his
+My dear Mother,—Mr. Vernon returned on [[thursday|Thursday]] [[Night|night]], bringing his
 
-niece with him. Lady Susan had received a line from him by that day’s
+niece with him. [[Lady Susan]] had received a line from him by that day’s
 
 post, informing her that Miss Summers had absolutely refused to allow
 
@@ -170,17 +170,17 @@ for her arrival, and expected them impatiently the whole evening. They
 
 came while we were at tea, and I never saw any creature look so
 
-frightened as Frederica when she entered the room. Lady Susan, who had
+frightened as Frederica when she entered the room. [[Lady Susan]], who had
 
-been shedding tears before, and showing great agitation at the idea of
+been shedding [[Tears|tears]] before, and showing great agitation at the idea of
 
-the meeting, received her with perfect self-command, and without
+the meeting, received her with perfect [[Self|self]]-command, and without
 
 betraying the least tenderness of spirit. She hardly spoke to her, and
 
-on Frederica’s bursting into tears as soon as we were seated, took her
+on Frederica’s bursting into [[Tears|tears]] as soon as we were seated, took her
 
-out of the room, and did not return for some time. When she did, her
+out of the room, and did not return for some [[Time|time]]. When she did, her
 
 eyes looked very red and she was as much agitated as before. We saw no
 
@@ -198,7 +198,7 @@ a display has entirely convinced me that she did in fact feel nothing.
 
 I am more angry with her than ever since I have seen her daughter; the
 
-poor girl looks so unhappy that my heart aches for her. Lady Susan is
+poor girl looks so unhappy that my heart aches for her. [[Lady Susan]] is
 
 surely too severe, for Frederica does not seem to have the sort of
 
@@ -208,7 +208,7 @@ and penitent. She is very pretty, though not so handsome as her mother,
 
 nor at all like her. Her complexion is delicate, but neither so fair
 
-nor so blooming as Lady Susan’s, and she has quite the Vernon cast of
+nor so blooming as [[Lady Susan]]’s, and she has quite the Vernon cast of
 
 countenance, the oval face and mild dark eyes, and there is peculiar
 
@@ -224,9 +224,9 @@ saw a face less indicative of any evil disposition than hers; and from
 
 what I can see of the behaviour of each to the other, the invariable
 
-severity of Lady Susan and the silent dejection of Frederica, I am led
+severity of [[Lady Susan]] and the silent dejection of Frederica, I am led
 
-to believe as heretofore that the former has no real love for her
+to believe as heretofore that the former has no real [[Love|love]] for her
 
 daughter, and has never done her justice or treated her affectionately.
 
@@ -242,11 +242,11 @@ fearful of distressing her to ask many questions as they travelled. I
 
 wish it had been possible for me to fetch her instead of him. I think I
 
-should have discovered the truth in the course of a thirty-mile
+should have discovered the [[Truth|truth]] in the course of a thirty-mile
 
-journey. The small pianoforte has been removed within these few days,
+[[Journey|journey]]. The small pianoforte has been removed within these few days,
 
-at Lady Susan’s request, into her dressing-room, and Frederica spends
+at [[Lady Susan]]’s request, into her dressing-room, and Frederica spends
 
 great part of the day there, practising as it is called; but I seldom
 
@@ -256,7 +256,7 @@ do not know. There are plenty of books, but it is not every girl who
 
 has been running wild the first fifteen years of her life, that can or
 
-will read. Poor creature! the prospect from her window is not very
+will read. Poor creature! the prospect from her [[Window|window]] is not very
 
 instructive, for that room overlooks the lawn, you know, with the
 
@@ -268,7 +268,7 @@ age must be childish indeed, if such things do not strike her. Is it
 
 not inexcusable to give such an example to a daughter? Yet Reginald
 
-still thinks Lady Susan the best of mothers, and still condemns
+still thinks [[Lady Susan]] the best of mothers, and still condemns
 
 Frederica as a worthless girl! He is convinced that her attempt to run
 
@@ -280,27 +280,27 @@ Miss Vernon showed no signs of obstinacy or perverseness during her
 
 whole stay in Wigmore Street, till she was detected in this scheme, I
 
-cannot so readily credit what Lady Susan has made him, and wants to
+cannot so readily credit what [[Lady Susan]] has made him, and wants to
 
 make me believe, that it was merely an impatience of restraint and a
 
-desire of escaping from the tuition of masters which brought on the
+[[Desire|desire]] of escaping from the tuition of masters which brought on the
 
 plan of an elopement. O Reginald, how is your judgment enslaved! He
 
 scarcely dares even allow her to be handsome, and when I speak of her
 
-beauty, replies only that her eyes have no brilliancy! Sometimes he is
+[[Beauty|beauty]], replies only that her eyes have no brilliancy! Sometimes he is
 
 sure she is deficient in understanding, and at others that her temper
 
 only is in fault. In short, when a person is always to deceive, it is
 
-impossible to be consistent. Lady Susan finds it necessary that
+impossible to be consistent. [[Lady Susan]] finds it necessary that
 
 Frederica should be to blame, and probably has sometimes judged it
 
-expedient to accuse her of ill-nature and sometimes to lament her want
+expedient to accuse her of ill-[[Nature|nature]] and sometimes to lament her want
 
 of sense. Reginald is only repeating after her ladyship.
 

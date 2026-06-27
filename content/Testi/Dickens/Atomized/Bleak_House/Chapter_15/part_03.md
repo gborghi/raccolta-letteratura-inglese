@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 15 (part 3)"
+title: "Bleak [[house|House]] — Chapter 15 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -37,14 +37,14 @@ Mrs. Blinder’s got the key!”
 I applied the key on hearing this and opened the door. In a poor room
 with a sloping ceiling and containing very little furniture was a
 mite of a boy, some five or six years old, nursing and hushing a
-heavy child of eighteen months. There was no fire, though the weather
+heavy [[Child|child]] of eighteen months. There was no [[Fire|fire]], though the weather
 was cold; both children were wrapped in some poor shawls and tippets
 as a substitute. Their clothing was not so warm, however, but that
 their noses looked red and pinched and their small figures shrunken
-as the boy walked up and down nursing and hushing the child with its
+as the boy walked up and down nursing and hushing the [[Child|child]] with its
 head on his shoulder.
 
-“Who has locked you up here alone?” we naturally asked.
+“Who has locked you up here [[Alone|alone]]?” we naturally asked.
 
 “Charley,” said the boy, standing still to gaze at us.
 
@@ -54,14 +54,14 @@ head on his shoulder.
 
 “Are there any more of you besides Charley?”
 
-“Me,” said the boy, “and Emma,” patting the limp bonnet of the child
+“Me,” said the boy, “and [[Emma]],” patting the limp bonnet of the [[Child|child]]
 he was nursing. “And Charley.”
 
 “Where is Charley now?”
 
 “Out a-washing,” said the boy, beginning to walk up and down again
 and taking the nankeen bonnet much too near the bedstead by trying to
-gaze at us at the same time.
+gaze at us at the same [[Time|time]].
 
 We were looking at one another and at these two children when there
 came into the room a very little girl, childish in figure but shrewd
@@ -69,9 +69,9 @@ and older-looking in the face—pretty-faced too—wearing a womanly
 sort of bonnet much too large for her and drying her bare arms on a
 womanly sort of apron. Her fingers were white and wrinkled with
 washing, and the soap-suds were yet smoking which she wiped off her
-arms. But for this, she might have been a child playing at washing
+arms. But for this, she might have been a [[Child|child]] playing at washing
 and imitating a poor working-woman with a quick observation of the
-truth.
+[[Truth|truth]].
 
 She had come running from some place in the neighbourhood and had
 made all the haste she could. Consequently, though she was very
@@ -80,14 +80,14 @@ stood panting, and wiping her arms, and looking quietly at us.
 
 “Oh, here’s Charley!” said the boy.
 
-The child he was nursing stretched forth its arms and cried out to be
+The [[Child|child]] he was nursing stretched forth its arms and cried out to be
 taken by Charley. The little girl took it, in a womanly sort of
 manner belonging to the apron and the bonnet, and stood looking at us
 over the burden that clung to her most affectionately.
 
 “Is it possible,” whispered my guardian as we put a chair for the
 little creature and got her to sit down with her load, the boy
-keeping close to her, holding to her apron, “that this child works
+keeping close to her, holding to her apron, “that this [[Child|child]] works
 for the rest? Look at this! For God’s sake, look at this!”
 
 It was a thing to look at. The three children close together, and two
@@ -97,7 +97,7 @@ childish figure.
 
 “Charley, Charley!” said my guardian. “How old are you?”
 
-“Over thirteen, sir,” replied the child.
+“Over thirteen, sir,” replied the [[Child|child]].
 
 “Oh! What a great age,” said my guardian. “What a great age,
 Charley!”
@@ -105,10 +105,10 @@ Charley!”
 I cannot describe the tenderness with which he spoke to her, half
 playfully yet all the more compassionately and mournfully.
 
-“And do you live alone here with these babies, Charley?” said my
+“And do you live [[Alone|alone]] here with these babies, Charley?” said my
 guardian.
 
-“Yes, sir,” returned the child, looking up into his face with perfect
+“Yes, sir,” returned the [[Child|child]], looking up into his face with perfect
 confidence, “since father died.”
 
 “And how do you live, Charley? Oh! Charley,” said my guardian,
@@ -125,10 +125,10 @@ belonged to mother.”
 
 “And when did mother die? Poor mother!”
 
-“Mother died just after Emma was born,” said the child, glancing at
+“Mother died just after [[Emma]] was born,” said the [[Child|child]], glancing at
 the face upon her bosom. “Then father said I was to be as good a
-mother to her as I could. And so I tried. And so I worked at home and
-did cleaning and nursing and washing for a long time before I began
+mother to her as I could. And so I tried. And so I worked at [[Home|home]] and
+did cleaning and nursing and washing for a long [[Time|time]] before I began
 to go out. And that’s how I know how; don’t you see, sir?”
 
 “And do you often go out?”
@@ -145,19 +145,19 @@ an’t afraid of being locked up, are you, Tom?”
 
 “No-o!” said Tom stoutly.
 
-“When it comes on dark, the lamps are lighted down in the court, and
+“When it comes on dark, the lamps are lighted down in the [[Court|court]], and
 they show up here quite bright—almost quite bright. Don’t they,
 Tom?”
 
 “Yes, Charley,” said Tom, “almost quite bright.”
 
 “Then he’s as good as gold,” said the little creature—Oh, in such a
-motherly, womanly way! “And when Emma’s tired, he puts her to bed.
-And when he’s tired he goes to bed himself. And when I come home and
+motherly, womanly way! “And when [[Emma]]’s tired, he puts her to bed.
+And when he’s tired he goes to bed himself. And when I come [[Home|home]] and
 light the candle and has a bit of supper, he sits up again and has it
 with me. Don’t you, Tom?”
 
 “Oh, yes, Charley!” said Tom. “That I do!” And either in this glimpse
-of the great pleasure of his life or in gratitude and love for
+of the great pleasure of his life or in gratitude and [[Love|love]] for
 Charley, who was all in all to him, he laid his face among the scanty
 folds of her frock and passed from laughing into crying.

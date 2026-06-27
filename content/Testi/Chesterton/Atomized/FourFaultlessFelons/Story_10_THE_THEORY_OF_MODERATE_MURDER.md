@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE THEORY OF MODERATE MURDER"
+title: "[[FourFaultlessFelons]] — THE THEORY OF MODERATE MURDER"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

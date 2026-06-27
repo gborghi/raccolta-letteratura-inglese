@@ -18,13 +18,13 @@ I know God holds him alive." But under the influence of the mere
 
 leisurely length of the thing, the reader _does_ rather receive the
 
-impression that the wound has been healed only by time; and that the
+impression that the wound has been healed only by [[Time|time]]; and that the
 
 victor hours _can_ boast that this is the man that loved and lost, but
 
-all he was is overworn. This is not the truth; and Tennyson did not
+all he was is overworn. This is not the [[Truth|truth]]; and Tennyson did not
 
-intend it for the truth. It is simply the result of the lack of
+intend it for the [[Truth|truth]]. It is simply the result of the lack of
 
 something militant, dogmatic and structural in him: whereby he could not
 
@@ -52,11 +52,11 @@ was no anarchist and no mystagogue; and even where he was defective, his
 
 defect has commonly been stated wrongly. The two chief charges against
 
-him were a contempt for form unworthy of an artist, and a poor pride in
+him were a contempt for form unworthy of an [[artist]], and a poor [[Pride|pride]] in
 
-obscurity. The obscurity is true, though not, I think, the pride in it;
+obscurity. The obscurity is true, though not, I think, the [[Pride|pride]] in it;
 
-but the truth about this charge rather rises out of the truth about the
+but the [[Truth|truth]] about this charge rather rises out of the [[Truth|truth]] about the
 
 other. The other charge is not true. Browning cared very much for form;
 
@@ -76,21 +76,21 @@ not care what form he used as long as he expressed his thoughts. He
 
 might be a rather entertaining sort of poet; telling a smoking-room
 
-story in blank verse or writing a hunting-song in the Spenserian stanza;
+story in [[Blank Verse|blank verse]] or writing a hunting-[[Song|song]] in the [[Spenserian Stanza|Spenserian stanza]];
 
 giving a realistic analysis of infanticide in a series of triolets; or
 
-proving the truth of Immortality in a long string of limericks. Browning
+proving the [[Truth|truth]] of [[Immortality]] in a long string of limericks. Browning
 
 certainly had no such indifference. Almost every poem of Browning,
 
 especially the shortest and most successful ones, was moulded or graven
 
-in some special style, generally grotesque, but invariably deliberate.
+in some special style, generally [[Grotesque|grotesque]], but invariably deliberate.
 
-In most cases whenever he wrote a new song he wrote a new kind of song.
+In most cases whenever he wrote a new [[Song|song]] he wrote a new kind of [[Song|song]].
 
-The new lyric is not only of a different metre, but of a different
+The new [[Lyric|lyric]] is not only of a different metre, but of a different
 
 shape. No one, not even Browning, ever wrote a poem in the same style as
 
@@ -110,7 +110,7 @@ Browning, ever wrote a poem in the same style as _The Flight of the
 
 Duchess_, or in the same style as _The Grammarian's Funeral_, or in the
 
-same style as _A Star_, or in the same style as that astounding lyric
+same style as _A Star_, or in the same style as that astounding [[Lyric|lyric]]
 
 which begins abruptly "Some people hang pictures up." These metres and
 
@@ -118,13 +118,13 @@ manners were not accidental; they really do suit the sort of spiritual
 
 experiment Browning was making in each case. Browning, then, was not
 
-chaotic; he was deliberately grotesque. But there certainly was, over
+chaotic; he was deliberately [[Grotesque|grotesque]]. But there certainly was, over
 
 and above this grotesqueness, a perversity and irrationality about the
 
-man which led him to play the fool in the middle of his own poems; to
+man which led him to play the [[Fool|fool]] in the middle of his own [[Poems|poems]]; to
 
-leave off carving gargoyles and simply begin throwing stones. His
+leave off carving [[gargoyles]] and simply begin throwing stones. His
 
 curious complicated puns are an example of this: Hood had used the pun
 
@@ -148,7 +148,7 @@ it.
 
 The obscurity, to which he must in a large degree plead guilty, was,
 
-curiously enough, the result rather of the gay artist in him than the
+curiously enough, the result rather of the gay [[artist]] in him than the
 
 deep thinker. It is patience in the Browning students; in Browning it
 
@@ -168,7 +168,7 @@ Thus he really did want to say that God had indeed made man and woman
 
 one flesh; that the sex relation was religious in this real sense that
 
-even in our sin and despair we take it for granted and expect a sort of
+even in our sin and [[Despair|despair]] we take it for granted and expect a sort of
 
 virtue in it. The feelings of the bad husband about the good wife, for
 
@@ -178,9 +178,9 @@ and Browning really had something to say about them. But he said it in
 
 some of the plainest and most unmistakable words in all literature; as
 
-lucid as a flash of lightning. "Pompilia, will you let them murder me?"
+lucid as a flash of [[Lightning|lightning]]. "Pompilia, will you let them murder me?"
 
-Or again, he did really want to say that death and such moral terrors
+Or again, he did really want to say that [[Death|death]] and such moral terrors
 
 were best taken in a military spirit; he could not have said it more
 
@@ -188,4 +188,4 @@ simply than: "I was ever a fighter; one fight more, the best and the
 
 last." He did really wish to say that human life was unworkable unless
 
-immortality were implied in it every other moment; he could not have
+[[Immortality|immortality]] were implied in it every other moment; he could not have

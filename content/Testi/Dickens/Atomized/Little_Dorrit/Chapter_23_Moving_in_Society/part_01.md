@@ -18,16 +18,16 @@ CHAPTER 20. Moving in Society
 
 
 If Young John Chivery had had the inclination and the power to write a
-satire on family pride, he would have had no need to go for an avenging
+[[Satire|satire]] on family [[Pride|pride]], he would have had no need to go for an avenging
 illustration out of the family of his beloved. He would have found it
 amply in that gallant brother and that dainty sister, so steeped in mean
 experiences, and so loftily conscious of the family name; so ready
 to beg or borrow from the poorest, to eat of anybody’s bread, spend
 anybody’s money, drink from anybody’s cup and break it afterwards.
 To have painted the sordid facts of their lives, and they throughout
-invoking the death’s head apparition of the family gentility to come and
+invoking the [[Death|death]]’s head apparition of the family gentility to come and
 scare their benefactors, would have made Young John a satirist of the
-first water.
+first [[Water|water]].
 
 Tip had turned his liberty to hopeful account by becoming a
 billiard-marker. He had troubled himself so little as to the means of
@@ -44,18 +44,18 @@ One solid stationary point in the looseness of this gentleman’s
 character was, that he respected and admired his sister Amy. The feeling
 had never induced him to spare her a moment’s uneasiness, or to put
 himself to any restraint or inconvenience on her account; but with that
-Marshalsea taint upon his love, he loved her. The same rank Marshalsea
+Marshalsea taint upon his [[Love|love]], he loved her. The same rank Marshalsea
 flavour was to be recognised in his distinctly perceiving that she
 sacrificed her life to her father, and in his having no idea that she
 had done anything for himself.
 
 When this spirited young man and his sister had begun systematically
-to produce the family skeleton for the overawing of the College, this
+to produce the family [[skeleton]] for the overawing of the College, this
 narrative cannot precisely state. Probably at about the period when
-they began to dine on the College charity. It is certain that the more
-reduced and necessitous they were, the more pompously the skeleton
+they began to dine on the College [[Charity|charity]]. It is certain that the more
+reduced and necessitous they were, the more pompously the [[skeleton]]
 emerged from its tomb; and that when there was anything particularly
-shabby in the wind, the skeleton always came out with the ghastliest
+shabby in the [[Wind|wind]], the [[skeleton]] always came out with the ghastliest
 flourish.
 
 Little Dorrit was late on the Monday morning, for her father slept
@@ -63,10 +63,10 @@ late, and afterwards there was his breakfast to prepare and his room to
 arrange. She had no engagement to go out to work, however, and therefore
 stayed with him until, with Maggy’s help, she had put everything right
 about him, and had seen him off upon his morning walk (of twenty yards
-or so) to the coffee-house to read the paper. She then got on her bonnet
+or so) to the coffee-[[house]] to read the paper. She then got on her bonnet
 and went out, having been anxious to get out much sooner. There was, as
 usual, a cessation of the small-talk in the Lodge as she passed through
-it; and a Collegian who had come in on Saturday night, received the
+it; and a Collegian who had come in on Saturday [[Night|night]], received the
 intimation from the elbow of a more seasoned Collegian, ‘Look out. Here
 she is!’
 
@@ -74,12 +74,12 @@ She wanted to see her sister, but when she got round to Mr Cripples’s,
 she found that both her sister and her uncle had gone to the theatre
 where they were engaged. Having taken thought of this probability by
 the way, and having settled that in such case she would follow them, she
-set off afresh for the theatre, which was on that side of the river, and
+set off afresh for the theatre, which was on that side of the [[River|river]], and
 not very far away.
 
 Little Dorrit was almost as ignorant of the ways of theatres as of the
 ways of gold mines, and when she was directed to a furtive sort of door,
-with a curious up-all-night air about it, that appeared to be ashamed of
+with a curious up-all-[[Night|night]] air about it, that appeared to be ashamed of
 itself and to be hiding in an alley, she hesitated to approach it; being
 further deterred by the sight of some half-dozen close-shaved gentlemen
 with their hats very strangely on, who were lounging about the door,
@@ -99,7 +99,7 @@ for you,’ Miss Dorrit’s sister went with her, drawing nearer and nearer
 at every step she took in the darkness to the sound of music and the
 sound of dancing feet.
 
-At last they came into a maze of dust, where a quantity of people were
+At last they came into a maze of [[Dust|dust]], where a quantity of people were
 tumbling over one another, and where there was such a confusion of
 unaccountable shapes of beams, bulkheads, brick walls, ropes, and
 rollers, and such a mixing of gaslight and daylight, that they seemed

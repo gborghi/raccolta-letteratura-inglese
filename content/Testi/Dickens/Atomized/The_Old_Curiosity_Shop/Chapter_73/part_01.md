@@ -16,29 +16,29 @@ tags:
 
 CHAPTER 73
 
-The magic reel, which, rolling on before, has led the chronicler thus
+The [[Magic|magic]] reel, which, [[rolling]] on before, has led the chronicler thus
 far, now slackens in its pace, and stops.  It lies before the goal; the
 pursuit is at an end.
 
 It remains but to dismiss the leaders of the little crowd who have
-borne us company upon the road, and so to close the journey.
+borne us company upon the [[Road|road]], and so to close the [[Journey|journey]].
 
-Foremost among them, smooth Sampson Brass and Sally, arm in arm, claim
+Foremost among them, smooth [[Sampson Brass]] and Sally, arm in arm, claim
 our polite attention.
 
 Mr Sampson, then, being detained, as already has been shown, by the
 justice upon whom he called, and being so strongly pressed to protract
 his stay that he could by no means refuse, remained under his
-protection for a considerable time, during which the great attention of
+protection for a considerable [[Time|time]], during which the great attention of
 his entertainer kept him so extremely close, that he was quite lost to
 society, and never even went abroad for exercise saving into a small
-paved yard.  So well, indeed, was his modest and retiring temper
+paved yard.  So [[Well|well]], indeed, was his modest and retiring temper
 understood by those with whom he had to deal, and so jealous were they
 of his absence, that they required a kind of friendly bond to be
 entered into by two substantial housekeepers, in the sum of fifteen
 hundred pounds a-piece, before they would suffer him to quit their
 hospitable roof--doubting, it appeared, that he would return, if once
-let loose, on any other terms.  Mr Brass, struck with the humour of
+let loose, on any other terms.  Mr Brass, struck with the [[Humour|humour]] of
 this jest, and carrying out its spirit to the utmost, sought from his
 wide connection a pair of friends whose joint possessions fell some
 halfpence short of fifteen pence, and proffered them as bail--for that
@@ -52,18 +52,18 @@ when Mr Brass was moving in a hackney-coach towards the building where
 these wags assembled, saluted him with rotten eggs and carcases of
 kittens, and feigned to wish to tear him into shreds, which greatly
 increased the comicality of the thing, and made him relish it the more,
-no doubt.
+no [[Doubt|doubt]].
 
 To work this sportive vein still further, Mr Brass, by his counsel,
 moved in arrest of judgment that he had been led to criminate himself,
 by assurances of safety and promises of pardon, and claimed the
 leniency which the law extends to such confiding natures as are thus
 deluded.  After solemn argument, this point (with others of a technical
-nature, whose humorous extravagance it would be difficult to
+[[Nature|nature]], whose humorous extravagance it would be difficult to
 exaggerate) was referred to the judges for their decision, Sampson
 being meantime removed to his former quarters.  Finally, some of the
 points were given in Sampson’s favour, and some against him; and the
-upshot was, that, instead of being desired to travel for a time in
+upshot was, that, instead of being desired to travel for a [[Time|time]] in
 foreign parts, he was permitted to grace the mother country under
 certain insignificant restrictions.
 
@@ -87,13 +87,13 @@ to imply the commission of some amazing villany--as indeed it would
 seem to be the case, when so many worthless names remain among its
 better records, unmolested.
 
-Of Sally Brass, conflicting rumours went abroad.  Some said with
+Of [[Sally Brass]], conflicting rumours went abroad.  Some said with
 confidence that she had gone down to the docks in male attire, and had
 become a female sailor; others darkly whispered that she had enlisted
 as a private in the second regiment of Foot Guards, and had been seen
 in uniform, and on duty, to wit, leaning on her musket and looking out
 of a sentry-box in St James’s Park, one evening.  There were many such
-whispers as these in circulation; but the truth appears to be that,
+whispers as these in circulation; but the [[Truth|truth]] appears to be that,
 after the lapse of some five years (during which there is no direct
 evidence of her having been seen at all), two wretched people were more
 than once observed to crawl at dusk from the inmost recesses of St
@@ -102,18 +102,18 @@ and cowering shivering forms, looking into the roads and kennels as
 they went in search of refuse food or disregarded offal.  These forms
 were never beheld but in those nights of cold and gloom, when the
 terrible spectres, who lie at all other times in the obscene
-hiding-places of London, in archways, dark vaults and cellars, venture
+hiding-places of [[London]], in archways, dark vaults and cellars, venture
 to creep into the streets; the embodied spirits of Disease, and Vice,
 and Famine.  It was whispered by those who should have known, that
 these were Sampson and his sister Sally; and to this day, it is said,
 they sometimes pass, on bad nights, in the same loathsome guise, close
 at the elbow of the shrinking passenger.
 
-The body of Quilp being found--though not until some days had
+The [[Body|body]] of Quilp being found--though not until some days had
 elapsed--an inquest was held on it near the spot where it had been
 washed ashore.  The general supposition was that he had committed
-suicide, and, this appearing to be favoured by all the circumstances of
-his death, the verdict was to that effect.  He was left to be buried
+[[suicide]], and, this appearing to be favoured by all the circumstances of
+his [[Death|death]], the verdict was to that effect.  He was left to be buried
 with a stake through his heart in the centre of four lonely roads.
 
 It was rumoured afterwards that this horrible and barbarous ceremony
@@ -121,9 +121,9 @@ had been dispensed with, and that the remains had been secretly given
 up to Tom Scott.  But even here, opinion was divided; for some said Tom
 dug them up at midnight, and carried them to a place indicated to him
 by the widow.  It is probable that both these stories may have had
-their origin in the simple fact of Tom’s shedding tears upon the
+their origin in the simple fact of Tom’s shedding [[Tears|tears]] upon the
 inquest--which he certainly did, extraordinary as it may appear.  He
-manifested, besides, a strong desire to assault the jury; and being
-restrained and conducted out of court, darkened its only window by
+manifested, besides, a strong [[Desire|desire]] to assault the jury; and being
+restrained and conducted out of [[Court|court]], darkened its only [[Window|window]] by
 standing on his head upon the sill, until he was dexterously tilted
 upon his feet again by a cautious beadle.

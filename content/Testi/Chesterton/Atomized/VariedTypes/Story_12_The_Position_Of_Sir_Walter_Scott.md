@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — The Position Of Sir Walter Scott"
+title: "[[VariedTypes]] — The Position Of Sir Walter Scott"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -28,13 +28,13 @@ dwindling, schools of severely technical and æsthetic criticism have
 
 been unfavourable to him. He was a chaotic and unequal writer, and if
 
-there is one thing in which artists have improved since his time, it is
+there is one thing in which artists have improved since his [[Time|time]], it is
 
 in consistency and equality. It would perhaps be unkind to inquire
 
 whether the level of the modern man of letters, as compared with Scott,
 
-is due to the absence of valleys or the absence of mountains. But in any
+is due to the absence of valleys or the absence of [[Mountains|mountains]]. But in any
 
 case, we have learnt in our day to arrange our literary effects
 
@@ -48,21 +48,21 @@ It is said that Scott is neglected by modern readers; if so, the matter
 
 could be more appropriately described by saying that modern readers are
 
-neglected by Providence. The ground of this neglect, in so far as it
+neglected by [[Providence]]. The ground of this neglect, in so far as it
 
 exists, must be found, I suppose, in the general sentiment that, like
 
-the beard of Polonius, he is too long. Yet it is surely a peculiar thing
+the beard of [[Polonius]], he is too long. Yet it is surely a peculiar thing
 
-that in literature alone a house should be despised because it is too
+that in literature [[Alone|alone]] a [[house]] should be despised because it is too
 
-large, or a host impugned because he is too generous. If romance be
+large, or a host impugned because he is too generous. If [[Romance|romance]] be
 
 really a pleasure, it is difficult to understand the modern reader's
 
-consuming desire to get it over, and if it be not a pleasure, it is
+consuming [[Desire|desire]] to get it over, and if it be not a pleasure, it is
 
-difficult to understand his desire to have it at all. Mere size, it
+difficult to understand his [[Desire|desire]] to have it at all. Mere size, it
 
 seems to me, cannot be a fault. The fault must lie in some
 
@@ -80,17 +80,17 @@ arranged his endless prefaces and his colossal introductions just as an
 
 architect plans great gates and long approaches to a really large
 
-house. He did not share the latter-day desire to get quickly through a
+[[house]]. He did not share the latter-day [[Desire|desire]] to get quickly through a
 
-story. He enjoyed narrative as a sensation; he did not wish to swallow a
+story. He enjoyed narrative as a sensation; he did not wish to [[Swallow|swallow]] a
 
 story like a pill, that it should do him good afterwards. He desired to
 
-taste it like a glass of port, that it might do him good at the time.
+taste it like a glass of port, that it might do him good at the [[Time|time]].
 
 The reader sits late at his banquets. His characters have that air of
 
-immortality which belongs to those of Dumas and Dickens. We should not
+[[Immortality|immortality]] which belongs to those of Dumas and Dickens. We should not
 
 be surprised to meet them in any number of sequels. Scott, in his heart
 
@@ -102,25 +102,25 @@ either beginning or close.
 
 Walter Scott is a great, and, therefore, mysterious man. He will never
 
-be understood until Romance is understood, and that will be only when
+be understood until [[Romance]] is understood, and that will be only when
 
-Time, Man, and Eternity are understood. To say that Scott had more than
+[[Time]], Man, and [[Eternity]] are understood. To say that Scott had more than
 
 any other man that ever lived a sense of the romantic seems, in these
 
 days, a slight and superficial tribute. The whole modern theory arises
 
-from one fundamental mistake--the idea that romance is in some way a
+from one fundamental mistake--the idea that [[Romance|romance]] is in some way a
 
 plaything with life, a figment, a conventionality, a thing upon the
 
-outside. No genuine criticism of romance will ever arise until we have
+outside. No genuine criticism of [[Romance|romance]] will ever arise until we have
 
-grasped the fact that romance lies not upon the outside of life, but
+grasped the fact that [[Romance|romance]] lies not upon the outside of life, but
 
 absolutely in the centre of it. The centre of every man's existence is a
 
-dream. Death, disease, insanity, are merely material accidents, like
+dream. [[Death]], disease, insanity, are merely material accidents, like
 
 toothache or a twisted ankle. That these brutal forces always besiege
 
@@ -138,35 +138,35 @@ sentimental as a penny novelette. The literature of can-dour unearths
 
 innumerable weaknesses and elements of lawlessness which is called
 
-romance. It perceives superficial habits like murder and dipsomania, but
+[[Romance|romance]]. It perceives superficial habits like murder and dipsomania, but
 
-it does not perceive the deepest of sins--the sin of vanity--vanity
+it does not perceive the deepest of sins--the sin of [[Vanity|vanity]]--[[Vanity|vanity]]
 
-which is the mother of all day-dreams and adventures, the one sin that
+which is the mother of all day-[[Dreams|dreams]] and adventures, the one sin that
 
 is not shared with any boon companion, or whispered to any priest.
 
 
 
-In estimating, therefore, the ground of Scott's pre-eminence in romance
+In estimating, therefore, the ground of Scott's pre-eminence in [[Romance|romance]]
 
-we must absolutely rid ourselves of the notion that romance or adventure
+we must absolutely rid ourselves of the notion that [[Romance|romance]] or adventure
 
 are merely materialistic things involved in the tangle of a plot or the
 
-multiplicity of drawn swords. We must remember that it is, like tragedy
+multiplicity of drawn swords. We must remember that it is, like [[Tragedy|tragedy]]
 
-or farce, a state of the soul, and that, for some dark and elemental
+or farce, a state of the [[Soul|soul]], and that, for some dark and elemental
 
-reason which we can never understand, this state of the soul is evoked
+reason which we can never understand, this state of the [[Soul|soul]] is evoked
 
 in us by the sight of certain places or the contemplation of certain
 
 human crises, by a stream rushing under a heavy and covered wooden
 
-bridge, or by a man plunging a knife or sword into tough timber. In the
+bridge, or by a man plunging a knife or [[Sword|sword]] into tough timber. In the
 
-selection of these situations which catch the spirit of romance as in a
+selection of these situations which catch the spirit of [[Romance|romance]] as in a
 
 net, Scott has never been equalled or even approached. His finest scenes
 
@@ -176,9 +176,9 @@ quality which is often possessed by those nocturnal comedies--that of
 
 seeming more human than our waking life--even while they are less
 
-possible. Sir Arthur Wardour, with his daughter and the old beggar
+possible. Sir [[arthur|Arthur]] Wardour, with his daughter and the old beggar
 
-crouching in a cranny of the cliff as night falls and the tide closes
+crouching in a cranny of the cliff as [[Night|night]] falls and the tide closes
 
 around them, are actually in the coldest and bitterest of practical
 
@@ -188,11 +188,11 @@ boyish. It is warmed with all the colours of an incredible sunset. Rob
 
 Roy trapped in the Tolbooth, and confronted with Bailie Nicol Jarvie,
 
-draws no sword, leaps from no window, affects none of the dazzling
+draws no [[Sword|sword]], leaps from no [[Window|window]], affects none of the dazzling
 
-external acts upon which contemporary romance depends, yet that plain
+external acts upon which contemporary [[Romance|romance]] depends, yet that plain
 
-and humourous dialogue is full of the essential philosophy of romance
+and humourous dialogue is full of the essential [[philosophy]] of [[Romance|romance]]
 
 which is an almost equal betting upon man and destiny. Perhaps the most
 
@@ -200,7 +200,7 @@ profoundly thrilling of all Scott's situations is that in which the
 
 family of Colonel Mannering are waiting for the carriage which may or
 
-may not arrive by night to bring an unknown man into a princely
+may not arrive by [[Night|night]] to bring an unknown man into a princely
 
 possession. Yet almost the whole of that thrilling scene consists of a
 
@@ -208,9 +208,9 @@ ridiculous conversation about food, and flirtation between a frivolous
 
 old lawyer and a fashionable girl. We can say nothing about what makes
 
-these scenes, except that the wind bloweth where it listeth, and that
+these scenes, except that the [[Wind|wind]] bloweth where it listeth, and that
 
-here the wind blows strong.
+here the [[Wind|wind]] blows strong.
 
 
 
@@ -222,25 +222,25 @@ contemporary crop of romancers who have followed the leadership of
 
 Dumas. There has, indeed, been a great and inspiriting revival of
 
-romance in our time, but it is partly frustrated in almost every case by
+[[Romance|romance]] in our [[Time|time]], but it is partly frustrated in almost every case by
 
-this rooted conception that romance consists in the vast multiplication
+this rooted conception that [[Romance|romance]] consists in the vast multiplication
 
 of incidents and the violent acceleration of narrative. The heroes of
 
 Mr. Stanley Weyman scarcely ever have their swords out of their hands;
 
-the deeper presence of romance is far better felt when the sword is at
+the deeper presence of [[Romance|romance]] is far better felt when the [[Sword|sword]] is at
 
 the hip ready for innumerable adventures too terrible to be pictured.
 
-The Stanley Weyman hero has scarcely time to eat his supper except in
+The Stanley Weyman [[Hero|hero]] has scarcely [[Time|time]] to eat his supper except in
 
-the act of leaping from a window or whilst his other hand is employed in
+the act of leaping from a [[Window|window]] or whilst his other hand is employed in
 
 lunging with a rapier. In Scott's heroes, on the other hand, there is no
 
-characteristic so typical or so worthy of humour as their disposition to
+characteristic so typical or so worthy of [[Humour|humour]] as their disposition to
 
 linger over their meals. The conviviality of the Clerk of Copmanhurst
 
@@ -250,15 +250,15 @@ as eating, is one of the most perfect of Scott's poetic touches. In
 
 short, Mr. Stanley Weyman is filled with the conviction that the sole
 
-essence of romance is to move with insatiable rapidity from incident to
+essence of [[Romance|romance]] is to move with insatiable rapidity from incident to
 
-incident. In the truer romance of Scott there is more of the sentiment
+incident. In the truer [[Romance|romance]] of Scott there is more of the sentiment
 
 of "Oh! still delay, thou art so fair"! more of a certain patriarchal
 
-enjoyment of things as they are--of the sword by the side and the
+enjoyment of things as they are--of the [[Sword|sword]] by the side and the
 
-wine-cup in the hand. Romance, indeed, does not consist by any means so
+wine-cup in the hand. [[Romance]], indeed, does not consist by any means so
 
 much in experiencing adventures as in being ready for them. How little
 
@@ -266,9 +266,9 @@ the actual boy cares for incidents in comparison to tools and weapons
 
 may be tested by the fact that the most popular story of adventure is
 
-concerned with a man who lived for years on a desert island with two
+concerned with a man who lived for years on a [[Desert|desert]] island with two
 
-guns and a sword, which he never had to use on an enemy.
+guns and a [[Sword|sword]], which he never had to use on an enemy.
 
 
 
@@ -294,33 +294,33 @@ sake. Not being himself romantic, he could not understand that Scott
 
 valued the plume because it was a plume, and the dagger because it was a
 
-dagger. Like a child, he loved weapons with a manual materialistic love,
+dagger. Like a [[Child|child]], he loved weapons with a manual materialistic [[Love|love]],
 
 as one loves the softness of fur or the coolness of marble. One of the
 
 profound philosophical truths which are almost confined to infants is
 
-this love of things, not for their use or origin, but for their own
+this [[Love|love]] of things, not for their use or origin, but for their own
 
-inherent characteristics, the child's love of the toughness of wood, the
+inherent characteristics, the [[Child|child]]'s [[Love|love]] of the toughness of wood, the
 
-wetness of water, the magnificent soapiness of soap. So it was with
+wetness of [[Water|water]], the magnificent soapiness of soap. So it was with
 
-Scott, who had so much of the child in him. Human beings were perhaps
+Scott, who had so much of the [[Child|child]] in him. Human beings were perhaps
 
 the principal characters in his stories, but they were certainly not the
 
-only characters. A battle-axe was a person of importance, a castle had a
+only characters. A battle-axe was a person of importance, a [[Castle|castle]] had a
 
 character and ways of its own. A church bell had a word to say in the
 
-matter. Like a true child, he almost ignored the distinction between the
+matter. Like a true [[Child|child]], he almost ignored the distinction between the
 
-animate and inanimate. A two-handed sword might be carried only by a
+animate and inanimate. A two-handed [[Sword|sword]] might be carried only by a
 
 menial in a procession, but it was something important and immeasurably
 
-fascinating--it was a two-handed sword.
+fascinating--it was a two-handed [[Sword|sword]].
 
 
 
@@ -328,7 +328,7 @@ There is one quality which is supreme and continuous in Scott which is
 
 little appreciated at present. One of the values we have really lost in
 
-recent fiction is the value of eloquence. The modern literary artist is
+recent fiction is the value of eloquence. The modern literary [[Artist|artist]] is
 
 compounded of almost every man except the orator. Yet Shakespeare and
 
@@ -342,21 +342,21 @@ dignity, haughty and yet singularly human, which can hardly be
 
 paralleled in political eloquence except in "Julius Cæsar." With a
 
-certain fiery impartiality which stirs the blood, Scott distributes his
+certain fiery impartiality which stirs the [[Blood|blood]], Scott distributes his
 
-noble orations equally among saints and villains. He may deny a villain
+noble orations equally among saints and villains. He may deny a [[Villain|villain]]
 
 every virtue or triumph, but he cannot endure to deny him a telling
 
-word; he will ruin a man, but he will not silence him. In truth, one of
+word; he will ruin a man, but he will not [[Silence|silence]] him. In [[Truth|truth]], one of
 
 Scott's most splendid traits is his difficulty, or rather incapacity,
 
 for despising any of his characters. He did not scorn the most revolting
 
-miscreant as the realist of to-day commonly scorns his own hero. Though
+miscreant as the realist of to-day commonly scorns his own [[Hero|hero]]. Though
 
-his soul may be in rags, every man of Scott can speak like a king.
+his [[Soul|soul]] may be in rags, every man of Scott can speak like a [[King|king]].
 
 
 
@@ -372,7 +372,7 @@ frozen in the tap. Take any contemporary work of fiction and turn to the
 
 scene where the young Socialist denounces the millionaire, and then
 
-compare the stilted sociological lecture given by that self-sacrificing
+compare the stilted sociological lecture given by that [[Self|self]]-sacrificing
 
 bore with the surging joy of words in Rob Roy's declaration of himself,
 
@@ -382,7 +382,7 @@ upon which high words and great phrases are the resplendent foam is just
 
 now at a low ebb. We have even gone the length of congratulating
 
-ourselves because we can see the mud and the monsters at the bottom.
+ourselves because we can see the mud and the monsters at the [[Bottom|bottom]].
 
 
 
@@ -398,15 +398,15 @@ uses his material as Burke or Grattan (perhaps exaggeratively) would
 
 have used it--the speaker is content with facts and expositions of
 
-facts. In another age he might have risen and hurled that great song in
+facts. In another age he might have risen and hurled that great [[Song|song]] in
 
 prose, perfect as prose and yet rising into a chant, which Meg Merrilies
 
 hurled at Ellangowan, at the rulers of Britain: "Ride your ways. Laird
 
-of Ellangowan; ride your ways, Godfrey Bertram--this day have ye
+of Ellangowan; ride your ways, Godfrey [[Bertram]]--this day have ye
 
-quenched seven smoking hearths. See if the fire in your ain parlour
+quenched seven smoking hearths. See if the [[Fire|fire]] in your ain parlour
 
 burns the blyther for that. Ye have riven the thack of seven cottar
 
@@ -416,7 +416,7 @@ stable your stirks in the sheilings of Dern-cleugh. See that the hare
 
 does not couch on the hearthstane of Ellangowan. Ride your ways, Godfrey
 
-Bertram."
+[[Bertram]]."
 
 
 
@@ -430,7 +430,7 @@ of all eloquence is to find the least common denominator of men's souls,
 
 to fall just within the natural comprehension, it cannot obviously have
 
-any chance with a literary ambition which aims at falling just outside
+any chance with a literary [[Ambition|ambition]] which aims at falling just outside
 
 it. It is quite right to invent subtle analyses and detached criticisms,
 
@@ -442,13 +442,13 @@ central and simple sentiment, good or bad, but it is impossible to think
 
 of a mob shouting a distinction in terms. In the matter of eloquence,
 
-the whole question is one of the immediate effect of greatness, such as
+the whole question is one of the immediate effect of [[Greatness|greatness]], such as
 
 is produced even by fine bombast. It is absurd to call it merely
 
 superficial; here there is no question of superficiality; we might as
 
-well call a stone that strikes us between the eyes merely superficial.
+[[Well|well]] call a stone that strikes us between the eyes merely superficial.
 
 The very word "superficial" is founded on a fundamental mistake about
 
@@ -458,7 +458,7 @@ of the world is by far the deepest. What we really feel, naturally and
 
 casually, about the look of skies and trees and the face of friends,
 
-that and that alone will almost certainly remain our vital philosophy to
+that and that [[Alone|alone]] will almost certainly remain our vital [[philosophy]] to
 
 our dying day.
 
@@ -466,7 +466,7 @@ our dying day.
 
 Scott's bombast, therefore, will always be stirring to anyone who
 
-approaches it, as he should approach all literature, as a little child.
+approaches it, as he should approach all literature, as a little [[Child|child]].
 
 We could easily excuse the contemporary critic for not admiring
 
@@ -476,13 +476,13 @@ that it was a slight deficiency in his artistic sensibilities. Beyond
 
 all question, it marks a lack of literary instinct to be unable to
 
-simplify one's mind at the first signal of the advance of romance. "You
+simplify one's mind at the first signal of the advance of [[Romance|romance]]. "You
 
 do me wrong," said Brian de Bois-Guilbert to Rebecca. "Many a law, many
 
 a commandment have I broken, but my word, never." "Die," cries Balfour
 
-of Burley to the villain in "Old Mortality." "Die, hoping nothing,
+of Burley to the [[Villain|villain]] in "Old [[Mortality]]." "Die, hoping nothing,
 
 believing nothing--" "And fearing nothing," replies the other. This is
 
@@ -514,7 +514,7 @@ mounts higher and higher like a wave and falls in a crashing peroration.
 
 Perhaps the most thoroughly brilliant and typical man of this decade is
 
-Mr. Bernard Shaw. In his admirable play of "Candida" it is clearly a
+Mr. Bernard [[Shaw]]. In his admirable play of "Candida" it is clearly a
 
 part of the character of the Socialist clergyman that he should be
 
@@ -538,7 +538,7 @@ think.
 
 
 
-Of the faults of Scott as an artist it is not very necessary to speak,
+Of the faults of Scott as an [[Artist|artist]] it is not very necessary to speak,
 
 for faults are generally and easily pointed out, while there is yet no
 
@@ -546,7 +546,7 @@ adequate valuation of the varieties and contrasts of virtue. We have
 
 compiled a complete botanical classification of the weeds in the
 
-poetical garden, but the flowers still flourish, neglected and nameless.
+poetical [[Garden|garden]], but the [[Flowers|flowers]] still flourish, neglected and nameless.
 
 It is true, for example, that Scott had an incomparably stiff and
 
@@ -554,9 +554,9 @@ pedantic way of dealing with his heroines: he made a lively girl of
 
 eighteen refuse an offer in the language of Dr. Johnson. To him, as to
 
-most men of his time, woman was not an individual, but an institution--a
+most men of his [[Time|time]], woman was not an individual, but an institution--a
 
-toast that was drunk some time after that of Church and King. But it is
+toast that was drunk some [[Time|time]] after that of Church and [[King]]. But it is
 
 far better to consider the difference rather as a special merit, in that
 

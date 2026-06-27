@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FACE IN THE TARGET (part 1)"
+title: "[[manwho]] — THE FACE IN THE TARGET (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -26,7 +26,7 @@ horizon of which was fringed with the far-off woods of the famous
 
 estate of Torwood Park. He was a good-looking young man in tweeds,
 
-with very pale curly hair and pale clear eyes. Walking in wind and
+with very pale curly hair and pale clear eyes. Walking in [[Wind|wind]] and
 
 sun in the very landscape of liberty, he was still young enough to
 
@@ -44,7 +44,7 @@ promising a penman. Harold March was the sort of man who knows
 
 everything about politics, and nothing about politicians. He also
 
-knew a great deal about art, letters, philosophy, and general
+knew a great deal about art, letters, [[philosophy]], and general
 
 culture; about almost everything, indeed, except the world he was
 
@@ -56,7 +56,7 @@ Abruptly, in the middle of those sunny and windy flats, he came upon
 
 a sort of cleft almost narrow enough to be called a crack in the
 
-land. It was just large enough to be the water-course for a small
+land. It was just large enough to be the [[Water|water]]-course for a small
 
 stream which vanished at intervals under green tunnels of
 
@@ -72,7 +72,7 @@ cottage, hung over and had the profile of a precipice. As he began
 
 to wander down the course of the stream, in idle but romantic
 
-curiosity, and saw the water shining in short strips between the
+curiosity, and saw the [[Water|water]] shining in short strips between the
 
 great gray boulders and bushes as soft as great green mosses, he
 
@@ -80,13 +80,13 @@ fell into quite an opposite vein of fantasy. It was rather as if the
 
 earth had opened and swallowed him into a sort of underworld of
 
-dreams. And when he became conscious of a human figure dark against
+[[Dreams|dreams]]. And when he became conscious of a human figure dark against
 
 the silver stream, sitting on a large boulder and looking rather
 
 like a large bird, it was perhaps with some of the premonition's
 
-proper to a man who meets the strangest friendship of his life.
+proper to a man who meets the strangest [[Friendship|friendship]] of his life.
 
 
 
@@ -126,7 +126,7 @@ the ordinary toy net which children carry, and which they generally
 
 use indifferently for shrimps or butterflies. He was dipping this
 
-into the water at intervals, gravely regarding its harvest of weed
+into the [[Water|water]] at intervals, gravely regarding its harvest of weed
 
 or mud, and emptying it out again.
 
@@ -146,7 +146,7 @@ interest me when I get 'em."
 
 
 
-"Of a rather amateurish sort, I fear," answered the strange
+"Of a rather amateurish sort, I [[Fear|fear]]," answered the strange
 
 fisherman. "I have a sort of hobby about what they call 'phenomena
 
@@ -170,7 +170,7 @@ for candles. Some of the seabeasts would really be very pretty like
 
 lampshades; the blue sea-snail that glitters all over like
 
-starlight; and some of the red starfish really shine like red stars.
+starlight; and some of the red starfish really shine like red [[Stars|stars]].
 
 But, naturally, I'm not looking for them here."
 
@@ -186,7 +186,7 @@ fishes, he returned to more ordinary topics.
 
 "Delightful sort of hole this is," he said.  "This little dell and
 
-river here. It's like those places Stevenson talks about, where
+[[River|river]] here. It's like those places Stevenson talks about, where
 
 something ought to happen."
 
@@ -226,7 +226,7 @@ mathematical they make them thin. Take the living lines out of that
 
 landscape, simplify it to a right angle, and you flatten it out to a
 
-mere diagram on paper. Diagrams have their own beauty; but it is of
+mere diagram on paper. Diagrams have their own [[Beauty|beauty]]; but it is of
 
 just the other sort. They stand for the unalterable things; the
 

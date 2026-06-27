@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 4 (part 3)"
+title: "[[The Professor]] — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -42,13 +42,13 @@ unendurable, he is a fossil.”
 
 
 
-“Why, man, do you suppose you are a mystery? The other night you seemed
+“Why, man, do you suppose you are a mystery? The other [[Night|night]] you seemed
 
 surprised at my knowing to what family you belonged; now you find
 
 subject for wonderment in my calling you patient. What do you think I do
 
-with my eyes and ears? I’ve been in your counting-house more than once
+with my eyes and ears? I’ve been in your counting-[[house]] more than once
 
 when Crimsworth has treated you like a dog; called for a book, for
 
@@ -66,13 +66,13 @@ how patient you were under each and all of these circumstances!”
 
 
 
-“Well, Mr. Hunsden, what then?”
+“[[Well]], Mr. Hunsden, what then?”
 
 
 
 “I can hardly tell you what then; the conclusion to be drawn as to
 
-your character depends upon the nature of the motives which guide
+your character depends upon the [[Nature|nature]] of the motives which guide
 
 your conduct; if you are patient because you expect to make something
 
@@ -84,13 +84,13 @@ but may be a very wise fellow; if you are patient because you think it a
 
 duty to meet insult with submission, you are an essential sap, and in
 
-no shape the man for my money; if you are patient because your nature is
+no shape the man for my money; if you are patient because your [[Nature|nature]] is
 
 phlegmatic, flat, inexcitable, and that you cannot get up to the pitch
 
 of resistance, why, God made you to be crushed; and lie down by all
 
-means, and lie flat, and let Juggernaut ride well over you.”
+means, and lie flat, and let Juggernaut ride [[Well|well]] over you.”
 
 
 
@@ -112,7 +112,7 @@ oppressed into rebellion against the oppressor. Looking at him still
 
 more fixedly than I had yet done, I saw written in his eye and mien a
 
-resolution to arrogate to himself a freedom so unlimited that it might
+resolution to arrogate to himself a [[Freedom|freedom]] so unlimited that it might
 
 often trench on the just liberty of his neighbours. I rapidly ran over
 
@@ -132,15 +132,15 @@ His brow darkened, his thin nostril dilated a little.
 
 
 
-“Yes,” he began, “I told you that you were an aristocrat, and who but
+“Yes,” he began, “I told you that you were an [[aristocrat]], and who but
 
-an aristocrat would laugh such a laugh as that, and look such a look?
+an [[aristocrat]] would laugh such a laugh as that, and look such a look?
 
 A laugh frigidly jeering; a look lazily mutinous; gentlemanlike irony,
 
 patrician resentment. What a nobleman you would have made, William
 
-Crimsworth! You are cut out for one; pity Fortune has baulked Nature!
+Crimsworth! You are cut out for one; pity Fortune has baulked [[Nature]]!
 
 Look at the features, figure, even to the hands--distinction all
 
@@ -154,7 +154,7 @@ peerage, oppose at every step the advancing power of the people, support
 
 your rotten order, and be ready for its sake to wade knee-deep in
 
-churls’ blood; as it is, you’ve no power; you can do nothing; you’re
+churls’ [[Blood|blood]]; as it is, you’ve no power; you can do nothing; you’re
 
 wrecked and stranded on the shores of commerce; forced into collision
 
@@ -166,11 +166,11 @@ TRADESMAN.”
 
 The first part of Hunsden’s speech moved me not at all, or, if it did,
 
-it was only to wonder at the perversion into which prejudice had twisted
+it was only to [[Wonder|wonder]] at the perversion into which prejudice had twisted
 
 his judgment of my character; the concluding sentence, however, not only
 
-moved, but shook me; the blow it gave was a severe one, because Truth
+moved, but shook me; the blow it gave was a severe one, because [[Truth]]
 
 wielded the weapon. If I smiled now, it, was only in disdain of myself.
 
@@ -182,7 +182,7 @@ Hunsden saw his advantage; he followed it up.
 
 “You’ll make nothing by trade,” continued he; “nothing more than the
 
-crust of dry bread and the draught of fair water on which you now live;
+crust of dry bread and the draught of fair [[Water|water]] on which you now live;
 
 your only chance of getting a competency lies in marrying a rich widow,
 
@@ -210,19 +210,19 @@ for them.”
 
 
 
-Mr. Hunsden had taken his tone for the night; the string he struck was
+Mr. Hunsden had taken his tone for the [[Night|night]]; the string he struck was
 
 out of tune, he would finger no other. Averse to discord, of which I had
 
-enough every day and all day long, I concluded, at last, that silence
+enough every day and all day long, I concluded, at last, that [[Silence|silence]]
 
-and solitude were preferable to jarring converse; I bade him good-night.
+and [[Solitude|solitude]] were preferable to jarring converse; I bade him good-[[Night|night]].
 
 
 
-“What! Are you going, lad? Well, good-night: you’ll find the door.” And
+“What! Are you going, lad? [[Well]], good-[[Night|night]]: you’ll find the door.” And
 
-he sat still in front of the fire, while I left the room and the house.
+he sat still in front of the [[Fire|fire]], while I left the room and the [[house]].
 
 I had got a good way on my return to my lodgings before I found out that
 
@@ -236,12 +236,12 @@ jaws, but I could not so soon cause the regrets rushing rapidly through
 
 my mind to slacken their tide. Why did I make myself a tradesman? Why
 
-did I enter Hunsden’s house this evening? Why, at dawn to-morrow, must
+did I enter Hunsden’s [[house]] this evening? Why, at [[Dawn|dawn]] to-morrow, must
 
-I repair to Crimsworth’s mill? All that night did I ask myself these
+I repair to Crimsworth’s mill? All that [[Night|night]] did I ask myself these
 
-questions, and all that night fiercely demanded of my soul an answer. I
+questions, and all that [[Night|night]] fiercely demanded of my [[Soul|soul]] an answer. I
 
-got no sleep; my head burned, my feet froze; at last the factory bells
+got no [[Sleep|sleep]]; my head burned, my feet froze; at last the factory [[Bells|bells]]
 
 rang, and I sprang from my bed with other slaves.

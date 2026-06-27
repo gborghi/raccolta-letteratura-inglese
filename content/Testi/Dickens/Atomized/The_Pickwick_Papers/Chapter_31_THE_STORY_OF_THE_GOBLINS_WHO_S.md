@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON"
+title: "The [[Pickwick]] Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,25 +19,25 @@ CHAPTER XXIX. THE STORY OF THE GOBLINS WHO STOLE A SEXTON
 ‘In an old abbey town, down in this part of the country, a long, long
 while ago--so long, that the story must be a true one, because our
 great-grandfathers implicitly believed it--there officiated as sexton
-and grave-digger in the churchyard, one Gabriel Grub. It by no means
+and [[Grave|grave]]-digger in the churchyard, one Gabriel Grub. It by no means
 follows that because a man is a sexton, and constantly surrounded by the
-emblems of mortality, therefore he should be a morose and melancholy
+emblems of [[Mortality|mortality]], therefore he should be a morose and [[Melancholy|melancholy]]
 man; your undertakers are the merriest fellows in the world; and I once
-had the honour of being on intimate terms with a mute, who in private
+had the [[Honour|honour]] of being on intimate terms with a mute, who in private
 life, and off duty, was as comical and jocose a little fellow as ever
-chirped out a devil-may-care song, without a hitch in his memory, or
+chirped out a devil-may-care [[Song|song]], without a hitch in his [[Memory|memory]], or
 drained off a good stiff glass without stopping for breath. But
 notwithstanding these precedents to the contrary, Gabriel Grub was an
-ill-conditioned, cross-grained, surly fellow--a morose and lonely man,
+ill-conditioned, [[Cross|cross]]-grained, surly fellow--a morose and lonely man,
 who consorted with nobody but himself, and an old wicker bottle which
 fitted into his large deep waistcoat pocket--and who eyed each merry
 face, as it passed him by, with such a deep scowl of malice and ill-
-humour, as it was difficult to meet without feeling something the worse
+[[Humour|humour]], as it was difficult to meet without feeling something the worse
 for.
 
 ‘A little before twilight, one Christmas Eve, Gabriel shouldered his
 spade, lighted his lantern, and betook himself towards the old
-churchyard; for he had got a grave to finish by next morning, and,
+churchyard; for he had got a [[Grave|grave]] to finish by next morning, and,
 feeling very low, he thought it might raise his spirits, perhaps, if he
 went on with his work at once. As he went his way, up the ancient
 street, he saw the cheerful light of the blazing fires gleam through the
@@ -46,7 +46,7 @@ who were assembled around them; he marked the bustling preparations for
 next day’s cheer, and smelled the numerous savoury odours consequent
 thereupon, as they steamed up from the kitchen windows in clouds. All
 this was gall and wormwood to the heart of Gabriel Grub; and when groups
-of children bounded out of the houses, tripped across the road, and were
+of children bounded out of the houses, tripped across the [[Road|road]], and were
 met, before they could knock at the opposite door, by half a dozen
 curly-headed little rascals who crowded round them as they flocked
 upstairs to spend the evening in their Christmas games, Gabriel smiled
@@ -61,14 +61,14 @@ the churchyard. Now, Gabriel had been looking forward to reaching the
 dark lane, because it was, generally speaking, a nice, gloomy, mournful
 place, into which the townspeople did not much care to go, except in
 broad daylight, and when the sun was shining; consequently, he was not a
-little indignant to hear a young urchin roaring out some jolly song
+little indignant to hear a young urchin roaring out some jolly [[Song|song]]
 about a merry Christmas, in this very sanctuary which had been called
-Coffin Lane ever since the days of the old abbey, and the time of the
-shaven-headed monks. As Gabriel walked on, and the voice drew nearer, he
+Coffin Lane ever since the days of the old abbey, and the [[Time|time]] of the
+shaven-headed [[Monks|monks]]. As Gabriel walked on, and the voice drew nearer, he
 found it proceeded from a small boy, who was hurrying along, to join one
 of the little parties in the old street, and who, partly to keep himself
 company, and partly to prepare himself for the occasion, was shouting
-out the song at the highest pitch of his lungs. So Gabriel waited until
+out the [[Song|song]] at the highest pitch of his lungs. So Gabriel waited until
 the boy came up, and then dodged him into a corner, and rapped him over
 the head with his lantern five or six times, just to teach him to
 modulate his voice. And as the boy hurried away with his hand to his
@@ -78,15 +78,15 @@ him.
 
 
 ‘He took off his coat, set down his lantern, and getting into the
-unfinished grave, worked at it for an hour or so with right good-will.
-But the earth was hardened with the frost, and it was no very easy
-matter to break it up, and shovel it out; and although there was a moon,
-it was a very young one, and shed little light upon the grave, which was
-in the shadow of the church. At any other time, these obstacles would
-have made Gabriel Grub very moody and miserable, but he was so well
+unfinished [[Grave|grave]], worked at it for an hour or so with right good-will.
+But the earth was hardened with the [[Frost|frost]], and it was no very easy
+matter to break it up, and shovel it out; and although there was a [[Moon|moon]],
+it was a very young one, and shed little light upon the [[Grave|grave]], which was
+in the [[Shadow|shadow]] of the church. At any other [[Time|time]], these obstacles would
+have made Gabriel Grub very moody and miserable, but he was so [[Well|well]]
 pleased with having stopped the small boy’s singing, that he took little
-heed of the scanty progress he had made, and looked down into the grave,
-when he had finished work for the night, with grim satisfaction,
+heed of the scanty progress he had made, and looked down into the [[Grave|grave]],
+when he had finished work for the [[Night|night]], with grim satisfaction,
 murmuring as he gathered up his things--
 
 
@@ -102,10 +102,10 @@ wicker bottle. “A coffin at Christmas! A Christmas box! Ho! ho! ho!”
 ‘“Ho! ho! ho!” repeated a voice which sounded close behind him.
 
 ‘Gabriel paused, in some alarm, in the act of raising the wicker bottle
-to his lips, and looked round. The bottom of the oldest grave about him
+to his lips, and looked round. The [[Bottom|bottom]] of the oldest [[Grave|grave]] about him
 was not more still and quiet than the churchyard in the pale moonlight.
-The cold hoar frost glistened on the tombstones, and sparkled like rows
-of gems, among the stone carvings of the old church. The snow lay hard
+The cold hoar [[Frost|frost]] glistened on the tombstones, and sparkled like rows
+of gems, among the stone carvings of the old church. The [[Snow|snow]] lay hard
 and crisp upon the ground; and spread over the thickly-strewn mounds of
 earth, so white and smooth a cover that it seemed as if corpses lay
 there, hidden only by their winding sheets. Not the faintest rustle
@@ -118,19 +118,19 @@ again.
 ‘“It was _not_,” said a deep voice.
 
 ‘Gabriel started up, and stood rooted to the spot with astonishment and
-terror; for his eyes rested on a form that made his blood run cold.
+terror; for his eyes rested on a form that made his [[Blood|blood]] run cold.
 
 ‘Seated on an upright tombstone, close to him, was a strange, unearthly
 figure, whom Gabriel felt at once, was no being of this world. His long,
 fantastic legs which might have reached the ground, were cocked up, and
 crossed after a quaint, fantastic fashion; his sinewy arms were bare;
-and his hands rested on his knees. On his short, round body, he wore a
+and his hands rested on his knees. On his short, round [[Body|body]], he wore a
 close covering, ornamented with small slashes; a short cloak dangled at
 his back; the collar was cut into curious peaks, which served the goblin
 in lieu of ruff or neckerchief; and his shoes curled up at his toes into
 long points. On his head, he wore a broad-brimmed sugar-loaf hat,
 garnished with a single feather. The hat was covered with the white
-frost; and the goblin looked as if he had sat on the same tombstone very
+[[Frost|frost]]; and the goblin looked as if he had sat on the same tombstone very
 comfortably, for two or three hundred years. He was sitting perfectly
 still; his tongue was put out, as if in derision; and he was grinning at
 Gabriel Grub with such a grin as only a goblin could call up.
@@ -141,12 +141,12 @@ Gabriel Grub with such a grin as only a goblin could call up.
 
 ‘“What do you do here on Christmas Eve?” said the goblin sternly.
 
-‘“I came to dig a grave, Sir,” stammered Gabriel Grub.
+‘“I came to dig a [[Grave|grave]], Sir,” stammered Gabriel Grub.
 
-‘“What man wanders among graves and churchyards on such a night as
+‘“What man wanders among graves and churchyards on such a [[Night|night]] as
 this?” cried the goblin.
 
-‘“Gabriel Grub! Gabriel Grub!” screamed a wild chorus of voices that
+‘“Gabriel Grub! Gabriel Grub!” screamed a wild [[Chorus|chorus]] of voices that
 seemed to fill the churchyard. Gabriel looked fearfully round--nothing
 was to be seen.
 
@@ -156,7 +156,7 @@ was to be seen.
 had bought it of the smugglers, and he thought that perhaps his
 questioner might be in the excise department of the goblins.
 
-‘“Who drinks Hollands alone, and in a churchyard, on such a night as
+‘“Who drinks Hollands [[Alone|alone]], and in a churchyard, on such a [[Night|night]] as
 this?” said the goblin.
 
 ‘“Gabriel Grub! Gabriel Grub!” exclaimed the wild voices again.
@@ -166,13 +166,13 @@ his voice, exclaimed--
 
 ‘“And who, then, is our fair and lawful prize?”
 
-‘To this inquiry the invisible chorus replied, in a strain that sounded
+‘To this inquiry the invisible [[Chorus|chorus]] replied, in a strain that sounded
 like the voices of many choristers singing to the mighty swell of the
 old church organ--a strain that seemed borne to the sexton’s ears upon a
-wild wind, and to die away as it passed onward; but the burden of the
+wild [[Wind|wind]], and to die away as it passed onward; but the burden of the
 reply was still the same, “Gabriel Grub! Gabriel Grub!”
 
-‘The goblin grinned a broader grin than before, as he said, “Well,
+‘The goblin grinned a broader grin than before, as he said, “[[Well]],
 Gabriel, what do you say to this?”
 
 ‘The sexton gasped for breath.
@@ -189,9 +189,9 @@ finish my work, Sir, if you please.”
 
 ‘“Work!” said the goblin, “what work?”
 
-‘“The grave, Sir; making the grave,” stammered the sexton.
+‘“The [[Grave|grave]], Sir; making the [[Grave|grave]],” stammered the sexton.
 
-‘“Oh, the grave, eh?” said the goblin; “who makes graves at a time when
+‘“Oh, the [[Grave|grave]], eh?” said the goblin; “who makes graves at a [[Time|time]] when
 all other men are merry, and takes a pleasure in it?”
 
 ‘Again the mysterious voices replied, “Gabriel Grub! Gabriel Grub!”
@@ -206,7 +206,7 @@ they can, Sir; they don’t know me, Sir; I don’t think the gentlemen have
 ever seen me, Sir.”
 
 ‘“Oh, yes, they have,” replied the goblin; “we know the man with the
-sulky face and grim scowl, that came down the street to-night, throwing
+sulky face and grim scowl, that came down the street to-[[Night|night]], throwing
 his evil looks at the children, and grasping his burying-spade the
 tighter. We know the man who struck the boy in the envious malice of his
 heart, because the boy could be merry, and he could not. We know him, we
@@ -241,69 +241,69 @@ had been so many street-posts.
 
 ‘At last the game reached to a most exciting pitch; the organ played
 quicker and quicker, and the goblins leaped faster and faster, coiling
-themselves up, rolling head over heels upon the ground, and bounding
+themselves up, [[rolling]] head over heels upon the ground, and bounding
 over the tombstones like footballs. The sexton’s brain whirled round
 with the rapidity of the motion he beheld, and his legs reeled beneath
-him, as the spirits flew before his eyes; when the goblin king, suddenly
+him, as the spirits flew before his eyes; when the goblin [[King|king]], suddenly
 darting towards him, laid his hand upon his collar, and sank with him
 through the earth.
 
-‘When Gabriel Grub had had time to fetch his breath, which the rapidity
+‘When Gabriel Grub had had [[Time|time]] to fetch his breath, which the rapidity
 of his descent had for the moment taken away, he found himself in what
 appeared to be a large cavern, surrounded on all sides by crowds of
 goblins, ugly and grim; in the centre of the room, on an elevated seat,
 was stationed his friend of the churchyard; and close behind him stood
 Gabriel Grub himself, without power of motion.
 
-‘“Cold to-night,” said the king of the goblins, “very cold. A glass of
+‘“Cold to-[[Night|night]],” said the [[King|king]] of the goblins, “very cold. A glass of
 something warm here!”
 
 ‘At this command, half a dozen officious goblins, with a perpetual smile
 upon their faces, whom Gabriel Grub imagined to be courtiers, on that
 account, hastily disappeared, and presently returned with a goblet of
-liquid fire, which they presented to the king.
+liquid [[Fire|fire]], which they presented to the [[King|king]].
 
 ‘“Ah!” cried the goblin, whose cheeks and throat were transparent, as he
 tossed down the flame, “this warms one, indeed! Bring a bumper of the
 same, for Mr. Grub.”
 
 ‘It was in vain for the unfortunate sexton to protest that he was not in
-the habit of taking anything warm at night; one of the goblins held him
+the habit of taking anything warm at [[Night|night]]; one of the goblins held him
 while another poured the blazing liquid down his throat; the whole
 assembly screeched with laughter, as he coughed and choked, and wiped
-away the tears which gushed plentifully from his eyes, after swallowing
+away the [[Tears|tears]] which gushed plentifully from his eyes, after swallowing
 the burning draught.
 
-‘“And now,” said the king, fantastically poking the taper corner of his
+‘“And now,” said the [[King|king]], fantastically poking the taper corner of his
 sugar-loaf hat into the sexton’s eye, and thereby occasioning him the
-most exquisite pain; “and now, show the man of misery and gloom, a few
+most exquisite [[Pain|pain]]; “and now, show the man of misery and gloom, a few
 of the pictures from our own great storehouse!”
 
 ‘As the goblin said this, a thick cloud which obscured the remoter end
 of the cavern rolled gradually away, and disclosed, apparently at a
 great distance, a small and scantily furnished, but neat and clean
-apartment. A crowd of little children were gathered round a bright fire,
+apartment. A crowd of little children were gathered round a bright [[Fire|fire]],
 clinging to their mother’s gown, and gambolling around her chair. The
-mother occasionally rose, and drew aside the window-curtain, as if to
+mother occasionally [[Rose|rose]], and drew aside the [[Window|window]]-curtain, as if to
 look for some expected object; a frugal meal was ready spread upon the
-table; and an elbow chair was placed near the fire. A knock was heard at
+table; and an elbow chair was placed near the [[Fire|fire]]. A knock was heard at
 the door; the mother opened it, and the children crowded round her, and
 clapped their hands for joy, as their father entered. He was wet and
-weary, and shook the snow from his garments, as the children crowded
+weary, and shook the [[Snow|snow]] from his garments, as the children crowded
 round him, and seizing his cloak, hat, stick, and gloves, with busy
 zeal, ran with them from the room. Then, as he sat down to his meal
-before the fire, the children climbed about his knee, and the mother sat
+before the [[Fire|fire]], the children climbed about his knee, and the mother sat
 by his side, and all seemed happiness and comfort.
 
 ‘But a change came upon the view, almost imperceptibly. The scene was
-altered to a small bedroom, where the fairest and youngest child lay
+altered to a small bedroom, where the fairest and youngest [[Child|child]] lay
 dying; the roses had fled from his cheek, and the light from his eye;
 and even as the sexton looked upon him with an interest he had never
 felt or known before, he died. His young brothers and sisters crowded
 round his little bed, and seized his tiny hand, so cold and heavy; but
 they shrank back from its touch, and looked with awe on his infant face;
 for calm and tranquil as it was, and sleeping in rest and peace as the
-beautiful child seemed to be, they saw that he was dead, and they knew
+beautiful [[Child|child]] seemed to be, they saw that he was dead, and they knew
 that he was an angel looking down upon, and blessing them, from a bright
 and happy Heaven.
 
@@ -312,10 +312,10 @@ changed. The father and mother were old and helpless now, and the number
 of those about them was diminished more than half; but content and
 cheerfulness sat on every face, and beamed in every eye, as they crowded
 round the fireside, and told and listened to old stories of earlier and
-bygone days. Slowly and peacefully, the father sank into the grave, and,
+bygone days. Slowly and peacefully, the father sank into the [[Grave|grave]], and,
 soon after, the sharer of all his cares and troubles followed him to a
 place of rest. The few who yet survived them, kneeled by their tomb, and
-watered the green turf which covered it with their tears; then rose, and
+watered the green turf which covered it with their [[Tears|tears]]; then [[Rose|rose]], and
 turned away, sadly and mournfully, but not with bitter cries, or
 despairing lamentations, for they knew that they should one day meet
 again; and once more they mixed with the busy world, and their content
@@ -334,46 +334,46 @@ choked his utterance, so he lifted up one of his very pliable legs, and,
 flourishing it above his head a little, to insure his aim, administered
 a good sound kick to Gabriel Grub; immediately after which, all the
 goblins in waiting crowded round the wretched sexton, and kicked him
-without mercy, according to the established and invariable custom of
+without [[Mercy|mercy]], according to the established and invariable custom of
 courtiers upon earth, who kick whom royalty kicks, and hug whom royalty
 hugs.
 
-‘“Show him some more!” said the king of the goblins.
+‘“Show him some more!” said the [[King|king]] of the goblins.
 
 ‘At these words, the cloud was dispelled, and a rich and beautiful
 landscape was disclosed to view--there is just such another, to this
 day, within half a mile of the old abbey town. The sun shone from out
-the clear blue sky, the water sparkled beneath his rays, and the trees
-looked greener, and the flowers more gay, beneath its cheering
-influence. The water rippled on with a pleasant sound, the trees rustled
-in the light wind that murmured among their leaves, the birds sang upon
+the clear blue sky, the [[Water|water]] sparkled beneath his rays, and the trees
+looked greener, and the [[Flowers|flowers]] more gay, beneath its cheering
+influence. The [[Water|water]] rippled on with a pleasant sound, the trees rustled
+in the light [[Wind|wind]] that murmured among their [[Leaves|leaves]], the [[Birds|birds]] sang upon
 the boughs, and the lark carolled on high her welcome to the morning.
-Yes, it was morning; the bright, balmy morning of summer; the minutest
+Yes, it was morning; the bright, balmy morning of [[Summer|summer]]; the minutest
 leaf, the smallest blade of grass, was instinct with life. The ant crept
 forth to her daily toil, the butterfly fluttered and basked in the warm
-rays of the sun; myriads of insects spread their transparent wings, and
+rays of the sun; myriads of [[Insects|insects]] spread their transparent wings, and
 revelled in their brief but happy existence. Man walked forth, elated
 with the scene; and all was brightness and splendour.
 
-’”_You _a miserable man!” said the king of the goblins, in a more
-contemptuous tone than before. And again the king of the goblins gave
+’”_You _a miserable man!” said the [[King|king]] of the goblins, in a more
+contemptuous tone than before. And again the [[King|king]] of the goblins gave
 his leg a flourish; again it descended on the shoulders of the sexton;
 and again the attendant goblins imitated the example of their chief.
 
-‘Many a time the cloud went and came, and many a lesson it taught to
-Gabriel Grub, who, although his shoulders smarted with pain from the
+‘Many a [[Time|time]] the cloud went and came, and many a lesson it taught to
+Gabriel Grub, who, although his shoulders smarted with [[Pain|pain]] from the
 frequent applications of the goblins’ feet thereunto, looked on with an
 interest that nothing could diminish. He saw that men who worked hard,
 and earned their scanty bread with lives of labour, were cheerful and
-happy; and that to the most ignorant, the sweet face of Nature was a
+happy; and that to the most ignorant, the sweet face of [[Nature]] was a
 never-failing source of cheerfulness and joy. He saw those who had been
 delicately nurtured, and tenderly brought up, cheerful under privations,
-and superior to suffering, that would have crushed many of a rougher
+and superior to [[Suffering|suffering]], that would have crushed many of a rougher
 grain, because they bore within their own bosoms the materials of
 happiness, contentment, and peace. He saw that women, the tenderest and
 most fragile of all God’s creatures, were the oftenest superior to
 sorrow, adversity, and distress; and he saw that it was because they
-bore, in their own hearts, an inexhaustible well-spring of affection and
+bore, in their own hearts, an inexhaustible [[Well|well]]-[[Spring|spring]] of affection and
 devotion. Above all, he saw that men like himself, who snarled at the
 mirth and cheerfulness of others, were the foulest weeds on the fair
 surface of the earth; and setting all the good of the world against the
@@ -381,28 +381,28 @@ evil, he came to the conclusion that it was a very decent and
 respectable sort of world after all. No sooner had he formed it, than
 the cloud which had closed over the last picture, seemed to settle on
 his senses, and lull him to repose. One by one, the goblins faded from
-his sight; and, as the last one disappeared, he sank to sleep.
+his sight; and, as the last one disappeared, he sank to [[Sleep|sleep]].
 
 ‘The day had broken when Gabriel Grub awoke, and found himself lying at
 full length on the flat gravestone in the churchyard, with the wicker
 bottle lying empty by his side, and his coat, spade, and lantern, all
-well whitened by the last night’s frost, scattered on the ground. The
+[[Well|well]] whitened by the last [[Night|night]]’s [[Frost|frost]], scattered on the ground. The
 stone on which he had first seen the goblin seated, stood bolt upright
-before him, and the grave at which he had worked, the night before, was
-not far off. At first, he began to doubt the reality of his adventures,
-but the acute pain in his shoulders when he attempted to rise, assured
+before him, and the [[Grave|grave]] at which he had worked, the [[Night|night]] before, was
+not far off. At first, he began to [[Doubt|doubt]] the reality of his adventures,
+but the acute [[Pain|pain]] in his shoulders when he attempted to rise, assured
 him that the kicking of the goblins was certainly not ideal. He was
-staggered again, by observing no traces of footsteps in the snow on
+staggered again, by observing no traces of footsteps in the [[Snow|snow]] on
 which the goblins had played at leap-frog with the gravestones, but he
 speedily accounted for this circumstance when he remembered that, being
 spirits, they would leave no visible impression behind them. So, Gabriel
-Grub got on his feet as well as he could, for the pain in his back; and,
-brushing the frost off his coat, put it on, and turned his face towards
+Grub got on his feet as [[Well|well]] as he could, for the [[Pain|pain]] in his back; and,
+brushing the [[Frost|frost]] off his coat, put it on, and turned his face towards
 the town.
 
 ‘But he was an altered man, and he could not bear the thought of
 returning to a place where his repentance would be scoffed at, and his
-reformation disbelieved. He hesitated for a few moments; and then turned
+[[Reformation|reformation]] disbelieved. He hesitated for a few moments; and then turned
 away to wander where he might, and seek his bread elsewhere.
 
 ‘The lantern, the spade, and the wicker bottle were found, that day, in
@@ -410,18 +410,18 @@ the churchyard. There were a great many speculations about the sexton’s
 fate, at first, but it was speedily determined that he had been carried
 away by the goblins; and there were not wanting some very credible
 witnesses who had distinctly seen him whisked through the air on the
-back of a chestnut horse blind of one eye, with the hind-quarters of a
-lion, and the tail of a bear. At length all this was devoutly believed;
+back of a chestnut [[Horse|horse]] blind of one eye, with the hind-quarters of a
+[[Lion|lion]], and the tail of a bear. At length all this was devoutly believed;
 and the new sexton used to exhibit to the curious, for a trifling
 emolument, a good-sized piece of the church weathercock which had been
-accidentally kicked off by the aforesaid horse in his aerial flight, and
+accidentally kicked off by the aforesaid [[Horse|horse]] in his aerial flight, and
 picked up by himself in the churchyard, a year or two afterwards.
 
 ‘Unfortunately, these stories were somewhat disturbed by the unlooked-
 for reappearance of Gabriel Grub himself, some ten years afterwards, a
 ragged, contented, rheumatic old man. He told his story to the
-clergyman, and also to the mayor; and in course of time it began to be
-received as a matter of history, in which form it has continued down to
+clergyman, and also to the mayor; and in course of [[Time|time]] it began to be
+received as a matter of [[history]], in which form it has continued down to
 this very day. The believers in the weathercock tale, having misplaced
 their confidence once, were not easily prevailed upon to part with it
 again, so they looked as wise as they could, shrugged their shoulders,
@@ -430,10 +430,10 @@ having drunk all the Hollands, and then fallen asleep on the flat
 tombstone; and they affected to explain what he supposed he had
 witnessed in the goblin’s cavern, by saying that he had seen the world,
 and grown wiser. But this opinion, which was by no means a popular one
-at any time, gradually died off; and be the matter how it may, as
+at any [[Time|time]], gradually died off; and be the matter how it may, as
 Gabriel Grub was afflicted with rheumatism to the end of his days, this
 story has at least one moral, if it teach no better one--and that is,
-that if a man turn sulky and drink by himself at Christmas time, he may
+that if a man turn sulky and drink by himself at Christmas [[Time|time]], he may
 make up his mind to be not a bit the better for it: let the spirits be
 never so good, or let them be even as many degrees beyond proof, as
 those which Gabriel Grub saw in the goblin’s cavern.’

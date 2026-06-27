@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 18 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,23 +24,23 @@ August 25th.—I am now quite settled down to my usual routine of steady
 
 occupations and quiet amusements—tolerably contented and cheerful, but
 
-still looking forward to spring with the hope of returning to town, not
+still looking forward to [[spring]] with the [[Hope|hope]] of returning to town, not
 
 for its gaieties and dissipations, but for the chance of meeting Mr.
 
 Huntingdon once again; for still he is always in my thoughts and in my
 
-dreams. In all my employments, whatever I do, or see, or hear, has an
+[[Dreams|dreams]]. In all my employments, whatever I do, or see, or hear, has an
 
 ultimate reference to him; whatever skill or knowledge I acquire is
 
 some day to be turned to his advantage or amusement; whatever new
 
-beauties in nature or art I discover are to be depicted to meet his
+beauties in [[Nature|nature]] or art I discover are to be depicted to meet his
 
-eye, or stored in my memory to be told him at some future period. This,
+eye, or stored in my [[Memory|memory]] to be told him at some future period. This,
 
-at least, is the hope that I cherish, the fancy that lights me on my
+at least, is the [[Hope|hope]] that I cherish, the fancy that lights me on my
 
 lonely way. It may be only an ignis fatuus, after all, but it can do no
 
@@ -52,11 +52,11 @@ not, for I have thought deeply on my aunt’s advice, and I see clearly,
 
 now, the folly of throwing myself away on one that is unworthy of all
 
-the love I have to give, and incapable of responding to the best and
+the [[Love|love]] I have to give, and incapable of responding to the best and
 
 deepest feelings of my inmost heart—_so_ clearly, that even if I should
 
-see him again, and if he should remember me and love me still (which,
+see him again, and if he should remember me and [[Love|love]] me still (which,
 
 alas! is too little probable, considering how he is situated, and by
 
@@ -64,9 +64,9 @@ whom surrounded), and if he should ask me to marry him—I am determined
 
 not to consent until I know for certain whether my aunt’s opinion of
 
-him or mine is nearest the truth; for if mine is altogether wrong, it
+him or mine is nearest the [[Truth|truth]]; for if mine is altogether wrong, it
 
-is not he that I love; it is a creature of my own imagination. But I
+is not he that I [[Love|love]]; it is a creature of my own [[Imagination|imagination]]. But I
 
 think it is not wrong—no, no—there is a secret something—an inward
 
@@ -98,7 +98,7 @@ shoot. His friend Mr. Wilmot was one, and my aunt’s friend, Mr.
 
 Boarham, another. This struck me as terrible news at the moment; but
 
-all regret and apprehension vanished like a dream when I heard that Mr.
+all regret and apprehension vanished like [[A Dream|a dream]] when I heard that Mr.
 
 Huntingdon was actually to be a third! My aunt is greatly against his
 
@@ -108,7 +108,7 @@ asking him; but he, laughing at her objections, told her it was no use
 
 talking, for the mischief was already done: he had invited Huntingdon
 
-and his friend Lord Lowborough before we left London, and nothing now
+and his friend [[Lord Lowborough]] before we left [[London]], and nothing now
 
 remained but to fix the day for their coming. So he is safe, and I am
 
@@ -160,7 +160,7 @@ are all gone out to shoot, and the ladies are with my aunt, at work in
 
 the drawing-room. I have retired to the library, for I am very unhappy,
 
-and I want to be alone. Books cannot divert me; so having opened my
+and I want to be [[Alone|alone]]. Books cannot divert me; so having opened my
 
 desk, I will try what may be done by detailing the cause of my
 
@@ -176,7 +176,7 @@ friend I could have for the purpose.
 
 
 
-First, let me speak of his arrival—how I sat at my window, and watched
+First, let me speak of his arrival—how I sat at my [[Window|window]], and watched
 
 for nearly two hours, before his carriage entered the park-gates—for
 
@@ -190,7 +190,7 @@ look in upon her and have a little private conversation, for she was
 
 now my intimate friend, several long epistles having passed between us
 
-since our parting. On returning to my window, I beheld another carriage
+since our parting. On returning to my [[Window|window]], I beheld another carriage
 
 at the door. Was it his? No; it was Mr. Boarham’s plain dark chariot;
 
@@ -200,9 +200,9 @@ dislodging of his various boxes and packages. What a collection! One
 
 would have thought he projected a visit of six months at least. A
 
-considerable time after, came Lord Lowborough in his barouche. Is he
+considerable [[Time|time]] after, came [[Lord Lowborough]] in his barouche. Is he
 
-one of the profligate friends, I wonder? I should think not; for no one
+one of the profligate friends, I [[Wonder|wonder]]? I should think not; for no one
 
 could call _him_ a jolly companion, I’m sure,—and, besides, he appears
 

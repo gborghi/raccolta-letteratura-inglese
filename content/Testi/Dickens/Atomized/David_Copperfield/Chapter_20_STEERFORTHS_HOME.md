@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 20: STEERFORTH’S HOME"
+title: "[[David Copperfield]] — Chapter 20: STEERFORTH’S [[Home|HOME]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,44 +14,44 @@ tags:
 </nav>
 
 
-CHAPTER 20. STEERFORTH’S HOME
+CHAPTER 20. STEERFORTH’S [[Home|HOME]]
 
 
-When the chambermaid tapped at my door at eight o’clock, and informed
-me that my shaving-water was outside, I felt severely the having no
+When the chambermaid tapped at my door at eight o’[[Clock|clock]], and informed
+me that my shaving-[[Water|water]] was outside, I felt severely the having no
 occasion for it, and blushed in my bed. The suspicion that she laughed
-too, when she said it, preyed upon my mind all the time I was dressing;
+too, when she said it, preyed upon my mind all the [[Time|time]] I was dressing;
 and gave me, I was conscious, a sneaking and guilty air when I passed
 her on the staircase, as I was going down to breakfast. I was so
 sensitively aware, indeed, of being younger than I could have wished,
-that for some time I could not make up my mind to pass her at all, under
+that for some [[Time|time]] I could not make up my mind to pass her at all, under
 the ignoble circumstances of the case; but, hearing her there with
-a broom, stood peeping out of window at King Charles on horseback,
+a broom, stood peeping out of [[Window|window]] at [[King]] Charles on horseback,
 surrounded by a maze of hackney-coaches, and looking anything but regal
 in a drizzling rain and a dark-brown fog, until I was admonished by the
 waiter that the gentleman was waiting for me.
 
 It was not in the coffee-room that I found Steerforth expecting me, but
 in a snug private apartment, red-curtained and Turkey-carpeted, where
-the fire burnt bright, and a fine hot breakfast was set forth on a table
+the [[Fire|fire]] burnt bright, and a fine hot breakfast was set forth on a table
 covered with a clean cloth; and a cheerful miniature of the room, the
-fire, the breakfast, Steerforth, and all, was shining in the little
-round mirror over the sideboard. I was rather bashful at first,
-Steerforth being so self-possessed, and elegant, and superior to me in
+[[Fire|fire]], the breakfast, Steerforth, and all, was shining in the little
+round [[Mirror|mirror]] over the sideboard. I was rather bashful at first,
+Steerforth being so [[Self|self]]-possessed, and elegant, and superior to me in
 all respects (age included); but his easy patronage soon put that to
-rights, and made me quite at home. I could not enough admire the change
-he had wrought in the Golden Cross; or compare the dull forlorn state
+rights, and made me quite at [[Home|home]]. I could not enough admire the change
+he had wrought in the Golden [[Cross]]; or compare the dull forlorn state
 I had held yesterday, with this morning’s comfort and this morning’s
 entertainment. As to the waiter’s familiarity, it was quenched as if it
 had never been. He attended on us, as I may say, in sackcloth and ashes.
 
-‘Now, Copperfield,’ said Steerforth, when we were alone, ‘I should like
+‘Now, Copperfield,’ said Steerforth, when we were [[Alone|alone]], ‘I should like
 to hear what you are doing, and where you are going, and all about you.
 I feel as if you were my property.’ Glowing with pleasure to find that
 he had still this interest in me, I told him how my aunt had proposed
 the little expedition that I had before me, and whither it tended.
 
-‘As you are in no hurry, then,’ said Steerforth, ‘come home with me to
+‘As you are in no hurry, then,’ said Steerforth, ‘come [[Home|home]] with me to
 Highgate, and stay a day or two. You will be pleased with my mother--she
 is a little vain and prosy about me, but that you can forgive her--and
 she will be pleased with you.’
@@ -66,10 +66,10 @@ is sure to be acknowledged.’
 
 ‘Good!’ said Steerforth. ‘Come and prove it. We will go and see the
 lions for an hour or two--it’s something to have a fresh fellow like you
-to show them to, Copperfield--and then we’ll journey out to Highgate by
+to show them to, Copperfield--and then we’ll [[Journey|journey]] out to Highgate by
 the coach.’
 
-I could hardly believe but that I was in a dream, and that I should wake
+I could hardly believe but that I was in [[A Dream|a dream]], and that I should wake
 presently in number forty-four, to the solitary box in the coffee-room
 and the familiar waiter again. After I had written to my aunt and told
 her of my fortunate meeting with my admired old schoolfellow, and my
@@ -88,7 +88,7 @@ mind my calling you Daisy?’
 ‘Not at all!’ said I.
 
 ‘That’s a good fellow! My dear Daisy,’ said Steerforth, laughing. ‘I
-have not the least desire or intention to distinguish myself in that
+have not the least [[Desire|desire]] or intention to distinguish myself in that
 way. I have done quite sufficient for my purpose. I find that I am heavy
 company enough for myself as I am.’
 
@@ -104,21 +104,21 @@ the subject. Fortunately it was not difficult to do, for Steerforth
 could always pass from one subject to another with a carelessness and
 lightness that were his own.
 
-Lunch succeeded to our sight-seeing, and the short winter day wore away
+Lunch succeeded to our sight-seeing, and the short [[Winter|winter]] day wore away
 so fast, that it was dusk when the stage-coach stopped with us at an
-old brick house at Highgate on the summit of the hill. An elderly lady,
+old brick [[house]] at Highgate on the summit of the [[Hill|hill]]. An elderly lady,
 though not very far advanced in years, with a proud carriage and
 a handsome face, was in the doorway as we alighted; and greeting
 Steerforth as ‘My dearest James,’ folded him in her arms. To this lady
 he presented me as his mother, and she gave me a stately welcome.
 
-It was a genteel old-fashioned house, very quiet and orderly. From the
-windows of my room I saw all London lying in the distance like a great
+It was a genteel old-fashioned [[house]], very quiet and orderly. From the
+windows of my room I saw all [[London]] lying in the distance like a great
 vapour, with here and there some lights twinkling through it. I had only
-time, in dressing, to glance at the solid furniture, the framed pieces
+[[Time|time]], in dressing, to glance at the solid furniture, the framed pieces
 of work (done, I supposed, by Steerforth’s mother when she was a girl),
 and some pictures in crayons of ladies with powdered hair and bodices,
-coming and going on the walls, as the newly-kindled fire crackled and
+coming and going on the walls, as the newly-kindled [[Fire|fire]] crackled and
 sputtered, when I was called to dinner.
 
 There was a second lady in the dining-room, of a slight short figure,
@@ -133,14 +133,14 @@ mouth, downward towards the chin, but was now barely visible across
 the table, except above and on her upper lip, the shape of which it had
 altered. I concluded in my own mind that she was about thirty years
 of age, and that she wished to be married. She was a little
-dilapidated--like a house--with having been so long to let; yet had, as
+dilapidated--like a [[house]]--with having been so long to let; yet had, as
 I have said, an appearance of good looks. Her thinness seemed to be the
-effect of some wasting fire within her, which found a vent in her gaunt
+effect of some wasting [[Fire|fire]] within her, which found a vent in her gaunt
 eyes.
 
 She was introduced as Miss Dartle, and both Steerforth and his mother
 called her Rosa. I found that she lived there, and had been for a long
-time Mrs. Steerforth’s companion. It appeared to me that she never said
+[[Time|time]] Mrs. Steerforth’s companion. It appeared to me that she never said
 anything she wanted to say, outright; but hinted it, and made a great
 deal more of it by this practice. For example, when Mrs. Steerforth
 observed, more in jest than earnest, that she feared her son led but a
@@ -148,7 +148,7 @@ wild life at college, Miss Dartle put in thus:
 
 ‘Oh, really? You know how ignorant I am, and that I only ask for
 information, but isn’t it always so? I thought that kind of life was
-on all hands understood to be--eh?’ ‘It is education for a very grave
+on all hands understood to be--eh?’ ‘It is [[Education|education]] for a very [[Grave|grave]]
 profession, if you mean that, Rosa,’ Mrs. Steerforth answered with some
 coldness.
 
@@ -157,7 +157,7 @@ though?--I want to be put right, if I am wrong--isn’t it, really?’
 
 ‘Really what?’ said Mrs. Steerforth.
 
-‘Oh! You mean it’s not!’ returned Miss Dartle. ‘Well, I’m very glad to
+‘Oh! You mean it’s not!’ returned Miss Dartle. ‘[[Well]], I’m very glad to
 hear it! Now, I know what to do! That’s the advantage of asking. I shall
 never allow people to talk before me about wastefulness and profligacy,
 and so forth, in connexion with that life, any more.’
@@ -173,8 +173,8 @@ conscientious, now?’
 
 ‘How very nice!’ exclaimed Miss Dartle. ‘What a comfort! Really
 conscientious? Then he’s not--but of course he can’t be, if he’s really
-conscientious. Well, I shall be quite happy in my opinion of him, from
-this time. You can’t think how it elevates him in my opinion, to know
+conscientious. [[Well]], I shall be quite happy in my opinion of him, from
+this [[Time|time]]. You can’t think how it elevates him in my opinion, to know
 for certain that he’s really conscientious!’
 
 Her own views of every question, and her correction of everything that
@@ -184,7 +184,7 @@ though in contradiction even of Steerforth. An instance happened before
 dinner was done. Mrs. Steerforth speaking to me about my intention
 of going down into Suffolk, I said at hazard how glad I should be, if
 Steerforth would only go there with me; and explaining to him that I was
-going to see my old nurse, and Mr. Peggotty’s family, I reminded him of
+going to see my old [[Nurse|nurse]], and Mr. Peggotty’s family, I reminded him of
 the boatman whom he had seen at school.
 
 ‘Oh! That bluff fellow!’ said Steerforth. ‘He had a son with him, hadn’t
@@ -192,16 +192,16 @@ he?’
 
 ‘No. That was his nephew,’ I replied; ‘whom he adopted, though, as
 a son. He has a very pretty little niece too, whom he adopted as a
-daughter. In short, his house--or rather his boat, for he lives in one,
+daughter. In short, his [[house]]--or rather his boat, for he lives in one,
 on dry land--is full of people who are objects of his generosity and
 kindness. You would be delighted to see that household.’
 
-‘Should I?’ said Steerforth. ‘Well, I think I should. I must see what
-can be done. It would be worth a journey (not to mention the pleasure of
-a journey with you, Daisy), to see that sort of people together, and to
+‘Should I?’ said Steerforth. ‘[[Well]], I think I should. I must see what
+can be done. It would be worth a [[Journey|journey]] (not to mention the pleasure of
+a [[Journey|journey]] with you, Daisy), to see that sort of people together, and to
 make one of ‘em.’
 
-My heart leaped with a new hope of pleasure. But it was in reference
+My heart leaped with a new [[Hope|hope]] of pleasure. But it was in reference
 to the tone in which he had spoken of ‘that sort of people’, that Miss
 Dartle, whose sparkling eyes had been watchful of us, now broke in
 again.
@@ -210,7 +210,7 @@ again.
 
 ‘Are they what? And are who what?’ said Steerforth.
 
-‘That sort of people.---Are they really animals and clods, and beings of
+‘That sort of people.---Are they really [[Animals|animals]] and clods, and beings of
 another order? I want to know SO much.’
 
 ‘Why, there’s a pretty wide separation between them and us,’ said
@@ -221,7 +221,7 @@ for that, at least; and I am sure I don’t want to contradict them--but
 they have not very fine natures, and they may be thankful that, like
 their coarse rough skins, they are not easily wounded.’
 
-‘Really!’ said Miss Dartle. ‘Well, I don’t know, now, when I have been
+‘Really!’ said Miss Dartle. ‘[[Well]], I don’t know, now, when I have been
 better pleased than to hear that. It’s so consoling! It’s such a delight
 to know that, when they suffer, they don’t feel! Sometimes I have been
 quite uneasy for that sort of people; but now I shall just dismiss the
@@ -231,7 +231,7 @@ shows the advantage of asking--don’t it?’
 
 I believed that Steerforth had said what he had, in jest, or to draw
 Miss Dartle out; and I expected him to say as much when she was gone,
-and we two were sitting before the fire. But he merely asked me what I
+and we two were sitting before the [[Fire|fire]]. But he merely asked me what I
 thought of her.
 
 ‘She is very clever, is she not?’ I asked.
@@ -254,49 +254,49 @@ her. A promising young angel I must have been!’ I was deeply sorry to
 have touched on such a painful theme, but that was useless now.
 
 ‘She has borne the mark ever since, as you see,’ said Steerforth; ‘and
-she’ll bear it to her grave, if she ever rests in one--though I can
-hardly believe she will ever rest anywhere. She was the motherless child
+she’ll bear it to her [[Grave|grave]], if she ever rests in one--though I can
+hardly believe she will ever rest anywhere. She was the motherless [[Child|child]]
 of a sort of cousin of my father’s. He died one day. My mother, who was
 then a widow, brought her here to be company to her. She has a couple of
 thousand pounds of her own, and saves the interest of it every year, to
-add to the principal. There’s the history of Miss Rosa Dartle for you.’
+add to the principal. There’s the [[history]] of Miss Rosa Dartle for you.’
 
-‘And I have no doubt she loves you like a brother?’ said I.
+‘And I have no [[Doubt|doubt]] she loves you like a brother?’ said I.
 
-‘Humph!’ retorted Steerforth, looking at the fire. ‘Some brothers are
-not loved over much; and some love--but help yourself, Copperfield!
+‘Humph!’ retorted Steerforth, looking at the [[Fire|fire]]. ‘Some brothers are
+not loved over much; and some [[Love|love]]--but help yourself, Copperfield!
 We’ll drink the daisies of the field, in compliment to you; and the
 lilies of the valley that toil not, neither do they spin, in compliment
 to me--the more shame for me!’ A moody smile that had overspread his
 features cleared off as he said this merrily, and he was his own frank,
-winning self again.
+winning [[Self|self]] again.
 
 I could not help glancing at the scar with a painful interest when we
 went in to tea. It was not long before I observed that it was the most
 susceptible part of her face, and that, when she turned pale, that mark
 altered first, and became a dull, lead-coloured streak, lengthening out
-to its full extent, like a mark in invisible ink brought to the fire.
+to its full extent, like a mark in invisible ink brought to the [[Fire|fire]].
 There was a little altercation between her and Steerforth about a cast
 of the dice at backgammon--when I thought her, for one moment, in a
-storm of rage; and then I saw it start forth like the old writing on the
+[[Storm|storm]] of rage; and then I saw it start forth like the old writing on the
 wall.
 
-It was no matter of wonder to me to find Mrs. Steerforth devoted to her
+It was no matter of [[Wonder|wonder]] to me to find Mrs. Steerforth devoted to her
 son. She seemed to be able to speak or think about nothing else. She
 showed me his picture as an infant, in a locket, with some of his
 baby-hair in it; she showed me his picture as he had been when I first
 knew him; and she wore at her breast his picture as he was now. All the
 letters he had ever written to her, she kept in a cabinet near her own
-chair by the fire; and she would have read me some of them, and I should
+chair by the [[Fire|fire]]; and she would have read me some of them, and I should
 have been very glad to hear them too, if he had not interposed, and
 coaxed her out of the design.
 
 ‘It was at Mr. Creakle’s, my son tells me, that you first became
 acquainted,’ said Mrs. Steerforth, as she and I were talking at one
 table, while they played backgammon at another. ‘Indeed, I recollect his
-speaking, at that time, of a pupil younger than himself who had taken
+speaking, at that [[Time|time]], of a pupil younger than himself who had taken
 his fancy there; but your name, as you may suppose, has not lived in my
-memory.’
+[[Memory|memory]].’
 
 ‘He was very generous and noble to me in those days, I assure you,
 ma’am,’ said I, ‘and I stood in need of such a friend. I should have
@@ -309,7 +309,7 @@ the stateliness of her manner already abated towards me, except when she
 spoke in praise of him, and then her air was always lofty.
 
 ‘It was not a fit school generally for my son,’ said she; ‘far from it;
-but there were particular circumstances to be considered at the time, of
+but there were particular circumstances to be considered at the [[Time|time]], of
 more importance even than that selection. My son’s high spirit made
 it desirable that he should be placed with some man who felt its
 superiority, and would be content to bow himself before it; and we found
@@ -320,22 +320,22 @@ for it, but thought it a redeeming quality in him if he could be allowed
 any grace for not resisting one so irresistible as Steerforth.
 
 ‘My son’s great capacity was tempted on, there, by a feeling of
-voluntary emulation and conscious pride,’ the fond lady went on to say.
+voluntary emulation and conscious [[Pride|pride]],’ the fond lady went on to say.
 ‘He would have risen against all constraint; but he found himself the
 monarch of the place, and he haughtily determined to be worthy of his
 station. It was like himself.’
 
-I echoed, with all my heart and soul, that it was like himself.
+I echoed, with all my heart and [[Soul|soul]], that it was like himself.
 
 ‘So my son took, of his own will, and on no compulsion, to the course
 in which he can always, when it is his pleasure, outstrip every
 competitor,’ she pursued. ‘My son informs me, Mr. Copperfield, that
 you were quite devoted to him, and that when you met yesterday you made
-yourself known to him with tears of joy. I should be an affected woman
+yourself known to him with [[Tears|tears]] of joy. I should be an affected woman
 if I made any pretence of being surprised by my son’s inspiring such
 emotions; but I cannot be indifferent to anyone who is so sensible of
 his merit, and I am very glad to see you here, and can assure you that
-he feels an unusual friendship for you, and that you may rely on his
+he feels an unusual [[Friendship|friendship]] for you, and that you may rely on his
 protection.’
 
 Miss Dartle played backgammon as eagerly as she did everything else.
@@ -347,7 +347,7 @@ pleasure, and honoured by Mrs. Steerforth’s confidence, felt older than
 I had done since I left Canterbury.
 
 When the evening was pretty far spent, and a tray of glasses and
-decanters came in, Steerforth promised, over the fire, that he would
+decanters came in, Steerforth promised, over the [[Fire|fire]], that he would
 seriously think of going down into the country with me. There was no
 hurry, he said; a week hence would do; and his mother hospitably said
 the same. While we were talking, he more than once called me Daisy;
@@ -355,17 +355,17 @@ which brought Miss Dartle out again.
 
 ‘But really, Mr. Copperfield,’ she asked, ‘is it a nickname? And
 why does he give it you? Is it--eh?--because he thinks you young and
-innocent? I am so stupid in these things.’
+[[Innocent|innocent]]? I am so stupid in these things.’
 
 I coloured in replying that I believed it was.
 
 ‘Oh!’ said Miss Dartle. ‘Now I am glad to know that! I ask for
-information, and I am glad to know it. He thinks you young and innocent;
-and so you are his friend. Well, that’s quite delightful!’
+information, and I am glad to know it. He thinks you young and [[Innocent|innocent]];
+and so you are his friend. [[Well]], that’s quite delightful!’
 
 She went to bed soon after this, and Mrs. Steerforth retired too.
-Steerforth and I, after lingering for half-an-hour over the fire,
-talking about Traddles and all the rest of them at old Salem House, went
+Steerforth and I, after lingering for half-an-hour over the [[Fire|fire]],
+talking about Traddles and all the rest of them at old Salem [[house|House]], went
 upstairs together. Steerforth’s room was next to mine, and I went in to
 look at it. It was a picture of comfort, full of easy-chairs, cushions
 and footstools, worked by his mother’s hand, and with no sort of thing
@@ -374,10 +374,10 @@ features looked down on her darling from a portrait on the wall, as if
 it were even something to her that her likeness should watch him while
 he slept.
 
-I found the fire burning clear enough in my room by this time, and the
+I found the [[Fire|fire]] burning clear enough in my room by this [[Time|time]], and the
 curtains drawn before the windows and round the bed, giving it a very
 snug appearance. I sat down in a great chair upon the hearth to meditate
-on my happiness; and had enjoyed the contemplation of it for some time,
+on my happiness; and had enjoyed the contemplation of it for some [[Time|time]],
 when I found a likeness of Miss Dartle looking eagerly at me from above
 the chimney-piece.
 
@@ -391,6 +391,6 @@ I wondered peevishly why they couldn’t put her anywhere else instead
 of quartering her on me. To get rid of her, I undressed quickly,
 extinguished my light, and went to bed. But, as I fell asleep, I could
 not forget that she was still there looking, ‘Is it really, though?
-I want to know’; and when I awoke in the night, I found that I was
-uneasily asking all sorts of people in my dreams whether it really was
+I want to know’; and when I awoke in the [[Night|night]], I found that I was
+uneasily asking all sorts of people in my [[Dreams|dreams]] whether it really was
 or not--without knowing what I meant.

@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 1"
+title: "[[TheAppOfTyranny]] — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -24,13 +24,13 @@ THE WAR ON THE WORD
 
 
 
-It will hardly be denied that there is one lingering doubt in many, who
+It will hardly be denied that there is one lingering [[Doubt|doubt]] in many, who
 
-recognise unavoidable self-defence in the instant parry of the English
+recognise unavoidable [[Self|self]]-defence in the instant parry of the English
 
-sword, and who have no great love for the sweeping sabre of Sadowa and
+[[Sword|sword]], and who have no great [[Love|love]] for the sweeping sabre of Sadowa and
 
-Sedan. That doubt is the doubt whether Russia, as compared with Prussia, is
+Sedan. That [[Doubt|doubt]] is the [[Doubt|doubt]] whether [[Russia]], as compared with Prussia, is
 
 sufficiently decent and democratic to be the ally of liberal and civilised
 
@@ -62,15 +62,15 @@ given discussion, it does not even matter if it means something else in
 
 some other and quite distinct discussion. We have a perfect right to say
 
-that the width of a window comes to four feet; even if we instantly and
+that the width of a [[Window|window]] comes to four feet; even if we instantly and
 
 cheerfully change the subject to the larger mammals; and say that an
 
-elephant has four feet. The identity of the words does not matter, because
+elephant has four feet. The [[Identity|identity]] of the words does not matter, because
 
-there is no doubt at all about the meanings; because nobody is likely to
+there is no [[Doubt|doubt]] at all about the meanings; because nobody is likely to
 
-think of an elephant as four foot long, or of a window as having tusks and
+think of an elephant as four foot long, or of a [[Window|window]] as having tusks and
 
 a curly trunk.
 
@@ -88,7 +88,7 @@ think, really mean something that really exists, name or no name. Both mean
 
 different things. And if we ask what these different things are, we shall
 
-understand why England and France prefer Russia; and consider Prussia the
+understand why England and France prefer [[Russia]]; and consider Prussia the
 
 really dangerous barbarian of the two. To begin with, it goes so much
 
@@ -104,7 +104,7 @@ between us and the Alliance. But not long before, the flogging of women by
 
 an Austrian general led to that officer being thrashed in the streets of
 
-London by Barclay and Perkins' draymen. And as for the third power, the
+[[London]] by Barclay and Perkins' draymen. And as for the third power, the
 
 Prussians, it seems clear that they have treated Belgian women in a style
 
@@ -116,7 +116,7 @@ use of the word on either side. When the German Emperor complains of our
 
 allying ourselves with a barbaric and half-oriental power he is not (I
 
-assure you) shedding tears over the grave of Kosciusko. And when I say (as
+assure you) shedding [[Tears|tears]] over the [[Grave|grave]] of Kosciusko. And when I say (as
 
 I do most heartily) that the German Emperor is a barbarian, I am not merely
 
@@ -138,7 +138,7 @@ If the German calls the Russian barbarous he presumably means imperfectly
 
 civilised. There is a certain path along which Western nations have
 
-proceeded in recent times; and it is tenable that Russia has not proceeded
+proceeded in recent times; and it is tenable that [[Russia]] has not proceeded
 
 so far as the others: that she has less of the special modern system in
 
@@ -152,13 +152,13 @@ Therefore he is, in the German sense, a barbarian. Poor fellows like Gorky
 
 and Dostoieffsky have to form their own reflections on the scenery, without
 
-the assistance of large quotations from Schiller on garden seats; or
+the assistance of large quotations from Schiller on [[Garden|garden]] seats; or
 
 inscriptions directing them to pause and thank the All-Father for the
 
 finest view in Hesse-Pumpernickel. The Russians, having nothing but their
 
-faith, their fields, their great courage, and their self-governing
+[[Faith|faith]], their fields, their great [[Courage|courage]], and their [[Self|self]]-governing
 
 communes, are quite cut off from what is called (in the fashionable street
 
@@ -166,7 +166,7 @@ in Frankfort) The True, The Beautiful and The Good. There is a real sense
 
 in which one can call such backwardness barbaric; by comparison with the
 
-Kaiserstrasse; and in that sense it is true of Russia.
+Kaiserstrasse; and in that sense it is true of [[Russia]].
 
 
 
@@ -250,7 +250,7 @@ simplifications; and imagines that we have never heard of them. And, as I
 
 have said, his limited but very sincere lunacy concentrates chiefly in a
 
-desire to destroy two ideas, the twin root ideas of rational society. The
+[[Desire|desire]] to destroy two ideas, the twin root ideas of rational society. The
 
 first is the idea of record and promise: the second is the idea of
 
@@ -258,7 +258,7 @@ reciprocity.
 
 
 
-It is plain that the promise, or extension of responsibility through time,
+It is plain that the promise, or extension of responsibility through [[Time|time]],
 
 is what chiefly distinguishes us, I will not say from savages, but from
 
@@ -266,25 +266,25 @@ brutes and reptiles. This was noted by the shrewdness of the Old Testament,
 
 when it summed up the dark irresponsible enormity of Leviathan in the words
 
-"Will he make a pact with thee?" The promise, like the wheel, is unknown in
+"Will he make a pact with thee?" The promise, like the [[Wheel|wheel]], is unknown in
 
-Nature: and is the first mark of man. Referring only to human civilisation
+[[Nature]]: and is the first mark of man. Referring only to human civilisation
 
 it may be said with seriousness, that in the beginning was the Word. The
 
-vow is to the man what the song is to the bird, or the bark to the dog; his
+vow is to the man what the [[Song|song]] is to the bird, or the bark to the dog; his
 
 voice, whereby he is known. Just as a man who cannot keep an appointment is
 
 not fit even to fight a duel, so the man who cannot keep an appointment
 
-with himself is not sane enough even for suicide. It is not easy to mention
+with himself is not sane enough even for [[suicide]]. It is not easy to mention
 
 anything on which the enormous apparatus of human life can be said to
 
 depend. But if it depends on anything, it is on this frail cord, flung from
 
-the forgotten hills of yesterday to the invisible mountains of to-morrow.
+the forgotten hills of yesterday to the invisible [[Mountains|mountains]] of to-morrow.
 
 On that solitary string hangs everything from Armageddon to an almanac,
 
@@ -294,9 +294,9 @@ the Barbarian is hacking heavily, with a sabre which is fortunately blunt.
 
 
 
-Any one can see this well enough, merely by reading the last negotiations
+Any one can see this [[Well|well]] enough, merely by reading the last negotiations
 
-between London and Berlin. The Prussians had made a new discovery in
+between [[London]] and Berlin. The Prussians had made a new discovery in
 
 international politics: that it may often be convenient to make a promise;
 
@@ -352,7 +352,7 @@ civilisations, even much lower civilisations, even remote and repulsive
 
 civilisations, depend as much as our own on this primary principle on which
 
-the super-morality of Potsdam declares open War. Even savages promise
+the super-[[morality]] of Potsdam declares open War. Even savages promise
 
 things; and respect those who keep their promises. Even Orientals write
 
@@ -370,9 +370,9 @@ There is doubtless a dense labyrinth of duplicity in the East, and perhaps
 
 more guile in the individual Asiatic than in the individual German. But we
 
-are not talking of the violations of human morality in various parts of the
+are not talking of the violations of human [[morality]] in various parts of the
 
-world. We are talking about a new and inhuman morality, which denies
+world. We are talking about a new and inhuman [[morality]], which denies
 
 altogether the day of obligation. The Prussians have been told by their
 
@@ -386,9 +386,9 @@ the case of Belgium, which might make it seem an exception that proved the
 
 rule. He distinctly argued, as on a principle applicable to other cases,
 
-that victory was a necessity and honour was a scrap of paper. And it is
+that victory was a necessity and [[Honour|honour]] was a scrap of paper. And it is
 
-evident that the half-educated Prussian imagination really cannot get any
+evident that the half-educated Prussian [[Imagination|imagination]] really cannot get any
 
 further than this. It cannot see that if everybody's action were entirely
 
@@ -400,13 +400,13 @@ Berlin philosopher is really on a lower mental level than the Arab who
 
 respects the salt, or the Brahmin who preserves the caste. And in this
 
-quarrel we have a right to come with scimitars as well as sabres, with bows
+quarrel we have a right to come with scimitars as [[Well|well]] as sabres, with bows
 
-as well as rifles, with assegai and tomahawk and boomerang, because there
+as [[Well|well]] as rifles, with assegai and tomahawk and boomerang, because there
 
 is in all these at least a seed of civilisation that these intellectual
 
-anarchists would kill. And if they should find us in our last stand girt
+anarchists would kill. And if they should find us in our [[Last Stand|last stand]] girt
 
 with such strange swords and following unfamiliar ensigns, and ask us for
 
@@ -416,8 +416,8 @@ fight for the trust and for the tryst; for fixed memories and the possible
 
 meeting of men; for all that makes life anything but an uncontrollable
 
-nightmare. We fight for the long arm of honour and remembrance; for all
+[[nightmare]]. We fight for the long arm of [[Honour|honour]] and remembrance; for all
 
 that can lift a man above the quicksands of his moods, and give him the
 
-mastery of time."
+mastery of [[Time|time]]."

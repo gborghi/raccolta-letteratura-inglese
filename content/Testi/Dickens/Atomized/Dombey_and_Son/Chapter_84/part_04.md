@@ -18,39 +18,39 @@ tags:
 
 “Yes, Miss, great alterations,” said Towlinson.
 
-Florence passed him as if she were in a dream, and hurried upstairs.
+Florence passed him as if she were in [[A Dream|a dream]], and hurried upstairs.
 The garish light was in the long-darkened drawing-room and there were
 steps and platforms, and men in paper caps, in the high places. Her
 mother’s picture was gone with the rest of the moveables, and on the
-mark where it had been, was scrawled in chalk, “this room in panel.
+mark where it had been, was scrawled in [[chalk]], “this room in panel.
 Green and gold.” The staircase was a labyrinth of posts and planks like
-the outside of the house, and a whole Olympus of plumbers and glaziers
+the outside of the [[house]], and a whole Olympus of plumbers and glaziers
 was reclining in various attitudes, on the skylight. Her own room was
 not yet touched within, but there were beams and boards raised against
 it without, baulking the daylight. She went up swiftly to that other
 bedroom, where the little bed was; and a dark giant of a man with a
 pipe in his mouth, and his head tied up in a pocket-handkerchief, was
-staring in at the window.
+staring in at the [[Window|window]].
 
-It was here that Susan Nipper, who had been in quest of Florence, found
+It was here that [[Susan Nipper]], who had been in [[Quest|quest]] of Florence, found
 her, and said, would she go downstairs to her Papa, who wished to speak
 to her.
 
-“At home! and wishing to speak to me!” cried Florence, trembling.
+“At [[Home|home]]! and wishing to speak to me!” cried Florence, trembling.
 
 Susan, who was infinitely more distraught than Florence herself,
 repeated her errand; and Florence, pale and agitated, hurried down
 again, without a moment’s hesitation. She thought upon the way down,
-would she dare to kiss him? The longing of her heart resolved her, and
+would she dare to kiss him? The [[Longing|longing]] of her heart resolved her, and
 she thought she would.
 
 Her father might have heard that heart beat, when it came into his
 presence. One instant, and it would have beat against his breast.
 
-But he was not alone. There were two ladies there; and Florence
+But he was not [[Alone|alone]]. There were two ladies there; and Florence
 stopped. Striving so hard with her emotion, that if her brute friend Di
 had not burst in and overwhelmed her with his caresses as a welcome
-home—at which one of the ladies gave a little scream, and that diverted
+[[Home|home]]—at which one of the ladies gave a little scream, and that diverted
 her attention from herself—she would have swooned upon the floor.
 
 “Florence,” said her father, putting out his hand: so stiffly that it
@@ -66,7 +66,7 @@ with quite as much endearment as it had touched her.
 
 “It is a dog, Papa—from Brighton.”
 
-“Well!” said Mr Dombey; and a cloud passed over his face, for he
+“[[Well]]!” said Mr Dombey; and a cloud passed over his face, for he
 understood her.
 
 “He is very good-tempered,” said Florence, addressing herself with her
@@ -90,12 +90,12 @@ father stood waiting.
 lady will soon be your Mama.”
 
 Florence started, and looked up at the beautiful face in a conflict of
-emotions, among which the tears that name awakened, struggled for a
+emotions, among which the [[Tears|tears]] that name awakened, struggled for a
 moment with surprise, interest, admiration, and an indefinable sort of
-fear. Then she cried out, “Oh, Papa, may you be happy! may you be very,
+[[Fear|fear]]. Then she cried out, “Oh, Papa, may you be happy! may you be very,
 very happy all your life!” and then fell weeping on the lady’s bosom.
 
-There was a short silence. The beautiful lady, who at first had seemed
+There was a short [[Silence|silence]]. The beautiful lady, who at first had seemed
 to hesitate whether or no she should advance to Florence, held her to
 her breast, and pressed the hand with which she clasped her, close
 about her waist, as if to reassure her and comfort her. Not one word
@@ -108,19 +108,19 @@ workmen are doing? Pray allow me, my dear madam.”
 He said this in offering his arm to Mrs Skewton, who had been looking
 at Florence through her glass, as though picturing to herself what she
 might be made, by the infusion—from her own copious storehouse, no
-doubt—of a little more Heart and Nature. Florence was still sobbing on
+[[Doubt|doubt]]—of a little more Heart and [[Nature]]. Florence was still sobbing on
 the lady’s breast, and holding to her, when Mr Dombey was heard to say
 from the Conservatory:
 
 “Let us ask Edith. Dear me, where is she?”
 
 “Edith, my dear!” cried Mrs Skewton, “where are you? Looking for Mr
-Dombey somewhere, I know. We are here, my love.”
+Dombey somewhere, I know. We are here, my [[Love|love]].”
 
 The beautiful lady released her hold of Florence, and pressing her lips
 once more upon her face, withdrew hurriedly, and joined them. Florence
 remained standing in the same place: happy, sorry, joyful, and in
-tears, she knew not how, or how long, but all at once: when her new
+[[Tears|tears]], she knew not how, or how long, but all at once: when her new
 Mama came back, and took her in her arms again.
 
 “Florence,” said the lady, hurriedly, and looking into her face with
@@ -129,15 +129,15 @@ great earnestness. “You will not begin by hating me?”
 “By hating you, Mama?” cried Florence, winding her arm round her neck,
 and returning the look.
 
-“Hush! Begin by thinking well of me,” said the beautiful lady. “Begin
+“Hush! Begin by thinking [[Well|well]] of me,” said the beautiful lady. “Begin
 by believing that I will try to make you happy, and that I am prepared
-to love you, Florence. Good-bye. We shall meet again soon. Good-bye!
+to [[Love|love]] you, Florence. Good-bye. We shall meet again soon. Good-bye!
 Don’t stay here, now.”
 
 Again she pressed her to her breast she had spoken in a rapid manner,
 but firmly—and Florence saw her rejoin them in the other room.
 
-And now Florence began to hope that she would learn from her new and
-beautiful Mama, how to gain her father’s love; and in her sleep that
-night, in her lost old home, her own Mama smiled radiantly upon the
-hope, and blessed it. Dreaming Florence!
+And now Florence began to [[Hope|hope]] that she would learn from her new and
+beautiful Mama, how to gain her father’s [[Love|love]]; and in her [[Sleep|sleep]] that
+[[Night|night]], in her lost old [[Home|home]], her own Mama smiled radiantly upon the
+[[Hope|hope]], and blessed it. Dreaming Florence!

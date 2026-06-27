@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 4 (part 2)"
+title: "[[Shirley]] — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ correctly ascertain the weight and value of the pursuits they disdain
 
 him for not having followed. It is happy that he can have his own bliss,
 
-his own society with his great friend and goddess Nature, quite
+his own society with his great friend and goddess [[Nature]], quite
 
 independent of those who find little pleasure in him, and in whom he
 
@@ -38,7 +38,7 @@ able to maintain a festal brightness and cherishing glow in his bosom,
 
 which makes all bright and genial for him; while strangers, perhaps,
 
-deem his existence a Polar winter never gladdened by a sun. The true
+deem his existence a Polar [[Winter|winter]] never gladdened by a sun. The true
 
 poet is not one whit to be pitied, and he is apt to laugh in his sleeve
 
@@ -100,11 +100,11 @@ Mr. Yorke's family was the first and oldest in the district; and he,
 
 though not the wealthiest, was one of the most influential men. His
 
-education had been good. In his youth, before the French Revolution, he
+[[Education|education]] had been good. In his youth, before the [[French Revolution]], he
 
 had travelled on the Continent. He was an adept in the French and
 
-Italian languages. During a two years' sojourn in Italy he had collected
+Italian languages. During a two years' sojourn in [[Italy]] he had collected
 
 many good paintings and tasteful rarities, with which his residence was
 
@@ -134,7 +134,7 @@ character, high or low, ever found acceptance with him; a refined,
 
 insipid personage, however exalted in station, was his aversion. He
 
-would spend an hour any time in talking freely with a shrewd workman of
+would spend an hour any [[Time|time]] in talking freely with a shrewd workman of
 
 his own, or with some queer, sagacious old woman amongst his cottagers,
 
@@ -152,7 +152,7 @@ order of mind, plain, ingenuous, neglecting refinement, almost devoid of
 
 intellectuality, and quite incapable of appreciating what was
 
-intellectual in him, but which, at the same time, never felt disgust at
+intellectual in him, but which, at the same [[Time|time]], never felt disgust at
 
 his rudeness, was not easily wounded by his sarcasm, did not closely
 

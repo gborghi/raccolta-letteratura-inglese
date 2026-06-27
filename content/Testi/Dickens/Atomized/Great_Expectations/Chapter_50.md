@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 50"
+title: "[[Great Expectations]] — Chapter 50"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Chapter L.
 
 
-My hands had been dressed twice or thrice in the night, and again in
+My hands had been dressed twice or thrice in the [[Night|night]], and again in
 the morning. My left arm was a good deal burned to the elbow, and, less
 severely, as high as the shoulder; it was very painful, but the flames
 had set in that direction, and I felt thankful it was no worse. My
@@ -25,7 +25,7 @@ right hand was not so badly burnt but that I could move the fingers. It
 was bandaged, of course, but much less inconveniently than my left hand
 and arm; those I carried in a sling; and I could only wear my coat like
 a cloak, loose over my shoulders and fastened at the neck. My hair had
-been caught by the fire, but not my head or face.
+been caught by the [[Fire|fire]], but not my head or face.
 
 When Herbert had been down to Hammersmith and seen his father, he came
 back to me at our chambers, and devoted the day to attending on me. He
@@ -37,9 +37,9 @@ for.
 At first, as I lay quiet on the sofa, I found it painfully difficult, I
 might say impossible, to get rid of the impression of the glare of the
 flames, their hurry and noise, and the fierce burning smell. If I dozed
-for a minute, I was awakened by Miss Havisham’s cries, and by her
-running at me with all that height of fire above her head. This pain of
-the mind was much harder to strive against than any bodily pain I
+for a minute, I was awakened by [[Miss Havisham]]’s cries, and by her
+running at me with all that height of [[Fire|fire]] above her head. This [[Pain|pain]] of
+the mind was much harder to strive against than any bodily [[Pain|pain]] I
 suffered; and Herbert, seeing that, did his utmost to hold my attention
 engaged.
 
@@ -49,32 +49,32 @@ agreeing—without agreement—to make my recovery of the use of my hands a
 question of so many hours, not of so many weeks.
 
 My first question when I saw Herbert had been of course, whether all
-was well down the river? As he replied in the affirmative, with perfect
+was [[Well|well]] down the [[River|river]]? As he replied in the affirmative, with perfect
 confidence and cheerfulness, we did not resume the subject until the
 day was wearing away. But then, as Herbert changed the bandages, more
-by the light of the fire than by the outer light, he went back to it
+by the light of the [[Fire|fire]] than by the outer light, he went back to it
 spontaneously.
 
-“I sat with Provis last night, Handel, two good hours.”
+“I sat with Provis last [[Night|night]], Handel, two good hours.”
 
 “Where was Clara?”
 
 “Dear little thing!” said Herbert. “She was up and down with
 Gruffandgrim all the evening. He was perpetually pegging at the floor
-the moment she left his sight. I doubt if he can hold out long, though.
+the moment she left his sight. I [[Doubt|doubt]] if he can hold out long, though.
 What with rum and pepper,—and pepper and rum,—I should think his
 pegging must be nearly over.”
 
 “And then you will be married, Herbert?”
 
-“How can I take care of the dear child otherwise?—Lay your arm out upon
+“How can I take care of the dear [[Child|child]] otherwise?—Lay your arm out upon
 the back of the sofa, my dear boy, and I’ll sit down here, and get the
 bandage off so gradually that you shall not know when it comes. I was
 speaking of Provis. Do you know, Handel, he improves?”
 
 “I said to you I thought he was softened when I last saw him.”
 
-“So you did. And so he is. He was very communicative last night, and
+“So you did. And so he is. He was very communicative last [[Night|night]], and
 told me more of his life. You remember his breaking off here about some
 woman that he had had great trouble with.—Did I hurt you?”
 
@@ -82,7 +82,7 @@ I had started, but not under his touch. His words had given me a start.
 
 “I had forgotten that, Herbert, but I remember it now you speak of it.”
 
-“Well! He went into that part of his life, and a dark wild part it is.
+“[[Well]]! He went into that part of his life, and a dark wild part it is.
 Shall I tell you? Or would it worry you just now?”
 
 “Tell me by all means. Every word.”
@@ -119,11 +119,11 @@ victim was found throttled.”
 
 “It is impossible to be gentler, Herbert. Yes? What else?”
 
-“This acquitted young woman and Provis had a little child; a little
-child of whom Provis was exceedingly fond. On the evening of the very
-night when the object of her jealousy was strangled as I tell you, the
+“This acquitted young woman and Provis had a little [[Child|child]]; a little
+[[Child|child]] of whom Provis was exceedingly fond. On the evening of the very
+[[Night|night]] when the object of her [[Jealousy|jealousy]] was strangled as I tell you, the
 young woman presented herself before Provis for one moment, and swore
-that she would destroy the child (which was in her possession), and he
+that she would destroy the [[Child|child]] (which was in her possession), and he
 should never see it again; then she vanished.—There’s the worst arm
 comfortably in the sling once more, and now there remains but the right
 hand, which is a far easier job. I can do it better by this light than
@@ -143,25 +143,25 @@ I have no other information.”
 
 “No, to be sure.”
 
-“Now, whether,” pursued Herbert, “he had used the child’s mother ill,
-or whether he had used the child’s mother well, Provis doesn’t say; but
+“Now, whether,” pursued Herbert, “he had used the [[Child|child]]’s mother ill,
+or whether he had used the [[Child|child]]’s mother [[Well|well]], Provis doesn’t say; but
 she had shared some four or five years of the wretched life he
 described to us at this fireside, and he seems to have felt pity for
 her, and forbearance towards her. Therefore, fearing he should be
-called upon to depose about this destroyed child, and so be the cause
-of her death, he hid himself (much as he grieved for the child), kept
+called upon to depose about this destroyed [[Child|child]], and so be the cause
+of her [[Death|death]], he hid himself (much as he grieved for the [[Child|child]]), kept
 himself dark, as he says, out of the way and out of the trial, and was
 only vaguely talked of as a certain man called Abel, out of whom the
-jealousy arose. After the acquittal she disappeared, and thus he lost
-the child and the child’s mother.”
+[[Jealousy|jealousy]] arose. After the acquittal she disappeared, and thus he lost
+the [[Child|child]] and the [[Child|child]]’s mother.”
 
 “I want to ask—”
 
 “A moment, my dear boy, and I have done. That evil genius, Compeyson,
 the worst of scoundrels among many scoundrels, knowing of his keeping
-out of the way at that time and of his reasons for doing so, of course
+out of the way at that [[Time|time]] and of his reasons for doing so, of course
 afterwards held the knowledge over his head as a means of keeping him
-poorer and working him harder. It was clear last night that this barbed
+poorer and working him harder. It was clear last [[Night|night]] that this barbed
 the point of Provis’s animosity.”
 
 “I want to know,” said I, “and particularly, Herbert, whether he told
@@ -178,8 +178,8 @@ little churchyard?”
 brought into his mind the little girl so tragically lost, who would
 have been about your age.”
 
-“Herbert,” said I, after a short silence, in a hurried way, “can you
-see me best by the light of the window, or the light of the fire?”
+“Herbert,” said I, after a short [[Silence|silence]], in a hurried way, “can you
+see me best by the light of the [[Window|window]], or the light of the [[Fire|fire]]?”
 
 “By the firelight,” answered Herbert, coming close again.
 
@@ -192,10 +192,10 @@ see me best by the light of the window, or the light of the fire?”
 “I do touch you, my dear boy.”
 
 “You are not afraid that I am in any fever, or that my head is much
-disordered by the accident of last night?”
+disordered by the accident of last [[Night|night]]?”
 
-“N-no, my dear boy,” said Herbert, after taking time to examine me.
+“N-no, my dear boy,” said Herbert, after taking [[Time|time]] to examine me.
 “You are rather excited, but you are quite yourself.”
 
 “I know I am quite myself. And the man we have in hiding down the
-river, is Estella’s Father.”
+[[River|river]], is [[Estella]]’s Father.”

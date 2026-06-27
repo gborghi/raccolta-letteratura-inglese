@@ -19,23 +19,23 @@ CHAPTER 6. The Father of the Marshalsea
 
 Thirty years ago there stood, a few doors short of the church of Saint
 George, in the borough of Southwark, on the left-hand side of the way
-going southward, the Marshalsea Prison. It had stood there many years
+going southward, the Marshalsea [[Prison]]. It had stood there many years
 before, and it remained there some years afterwards; but it is gone now,
 and the world is none the worse without it.
 
 It was an oblong pile of barrack building, partitioned into squalid
 houses standing back to back, so that there were no back rooms;
 environed by a narrow paved yard, hemmed in by high walls duly spiked at
-top. Itself a close and confined prison for debtors, it contained within
+top. Itself a close and confined [[Prison|prison]] for debtors, it contained within
 it a much closer and more confined jail for smugglers. Offenders against
 the revenue laws, and defaulters to excise or customs who had incurred
 fines which they were unable to pay, were supposed to be incarcerated
-behind an iron-plated door closing up a second prison, consisting of a
+behind an iron-plated door closing up a second [[Prison|prison]], consisting of a
 strong cell or two, and a blind alley some yard and a half wide, which
 formed the mysterious termination of the very limited skittle-ground in
 which the Marshalsea debtors bowled down their troubles.
 
-Supposed to be incarcerated there, because the time had rather outgrown
+Supposed to be incarcerated there, because the [[Time|time]] had rather outgrown
 the strong cells and the blind alley. In practice they had come to be
 considered a little too bad, though in theory they were quite as good as
 ever; which may be observed to be the case at the present day with other
@@ -51,11 +51,11 @@ out again as soon as he hadn’t done it--neatly epitomising the
 administration of most of the public affairs in our right little, tight
 little, island.
 
-There had been taken to the Marshalsea Prison, long before the day when
+There had been taken to the Marshalsea [[Prison]], long before the day when
 the sun shone on Marseilles and on the opening of this narrative, a
 debtor with whom this narrative has some concern.
 
-He was, at that time, a very amiable and very helpless middle-aged
+He was, at that [[Time|time]], a very amiable and very helpless middle-aged
 gentleman, who was going out again directly. Necessarily, he was going
 out again directly, because the Marshalsea lock never turned upon a
 debtor who was not. He brought in a portmanteau with him, which he
@@ -63,7 +63,7 @@ doubted its being worth while to unpack; he was so perfectly clear--like
 all the rest of them, the turnkey on the lock said--that he was going
 out again directly.
 
-He was a shy, retiring man; well-looking, though in an effeminate style;
+He was a shy, retiring man; [[Well|well]]-looking, though in an effeminate style;
 with a mild voice, curling hair, and irresolute hands--rings upon the
 fingers in those days--which nervously wandered to his trembling lip a
 hundred times in the first half-hour of his acquaintance with the jail.
@@ -80,16 +80,16 @@ you see?’ he philosophically asked: ‘that’s what it hinges on.’
 
 ‘That,’ said the turnkey, ‘is agen her.’
 
-‘She is so little used to go out alone,’ said the debtor, ‘that I am at
+‘She is so little used to go out [[Alone|alone]],’ said the debtor, ‘that I am at
 a loss to think how she will ever make her way here, if she walks.’
 
 ‘P’raps,’ quoth the turnkey, ‘she’ll take a ackney coach.’
 
-‘Perhaps.’ The irresolute fingers went to the trembling lip. ‘I hope she
+‘Perhaps.’ The irresolute fingers went to the trembling lip. ‘I [[Hope|hope]] she
 will. She may not think of it.’
 
 ‘Or p’raps,’ said the turnkey, offering his suggestions from the the top
-of his well-worn wooden stool, as he might have offered them to a child
+of his [[Well|well]]-worn wooden stool, as he might have offered them to a [[Child|child]]
 for whose weakness he felt a compassion, ‘p’raps she’ll get her brother,
 or her sister, to come along with her.’
 
@@ -99,7 +99,7 @@ or her sister, to come along with her.’
 or another on ‘em,’ said the turnkey, repudiating beforehand the refusal
 of all his suggestions.
 
-‘I fear--I hope it is not against the rules--that she will bring the
+‘I [[Fear|fear]]--I [[Hope|hope]] it is not against the rules--that she will bring the
 children.’
 
 ‘The children?’ said the turnkey. ‘And the rules? Why, lord set you
@@ -107,13 +107,13 @@ up like a corner pin, we’ve a reg’lar playground o’ children here.
 Children! Why we swarm with ‘em. How many a you got?’
 
 ‘Two,’ said the debtor, lifting his irresolute hand to his lip again,
-and turning into the prison.
+and turning into the [[Prison|prison]].
 
 The turnkey followed him with his eyes. ‘And you another,’ he observed
 to himself, ‘which makes three on you. And your wife another, I’ll lay
-a crown. Which makes four on you. And another coming, I’ll lay
-half-a-crown. Which’ll make five on you. And I’ll go another seven and
-sixpence to name which is the helplessest, the unborn baby or you!’
+a [[Crown|crown]]. Which makes four on you. And another coming, I’ll lay
+half-a-[[Crown|crown]]. Which’ll make five on you. And I’ll go another seven and
+sixpence to name which is the helplessest, the [[unborn]] baby or you!’
 
 He was right in all his particulars. She came next day with a little
 boy of three years old, and a little girl of two, and he stood entirely
@@ -166,14 +166,14 @@ ill.
 ‘We intended,’ he returned, ‘that she should go to a country lodging
 only to-morrow. What am I to do! Oh, good heaven, what am I to do!’
 
-‘Don’t waste your time in clasping your hands and biting your fingers,’
+‘Don’t waste your [[Time|time]] in clasping your hands and biting your fingers,’
 responded the practical turnkey, taking him by the elbow, ‘but come
 along with me.’
 
 The turnkey conducted him--trembling from head to foot, and constantly
 crying under his breath, What was he to do! while his irresolute fingers
-bedabbled the tears upon his face--up one of the common staircases in
-the prison to a door on the garret story. Upon which door the turnkey
+bedabbled the [[Tears|tears]] upon his face--up one of the common staircases in
+the [[Prison|prison]] to a door on the garret story. Upon which door the turnkey
 knocked with the handle of his key.
 
 ‘Come in!’ cried a voice inside.
@@ -183,15 +183,15 @@ little room, two hoarse, puffy, red-faced personages seated at a
 rickety table, playing at all-fours, smoking pipes, and drinking brandy.
 
 ‘Doctor,’ said the turnkey, ‘here’s a gentleman’s wife in want of you
-without a minute’s loss of time!’
+without a minute’s loss of [[Time|time]]!’
 
 The doctor’s friend was in the positive degree of hoarseness, puffiness,
 red-facedness, all-fours, tobacco, dirt, and brandy; the doctor in
 the comparative--hoarser, puffier, more red-faced, more all-fourey,
 tobaccoer, dirtier, and brandier. The doctor was amazingly shabby, in
 a torn and darned rough-weather sea-jacket, out at elbows and eminently
-short of buttons (he had been in his time the experienced surgeon
-carried by a passenger ship), the dirtiest white trousers conceivable by
+short of buttons (he had been in his [[Time|time]] the experienced surgeon
+carried by a passenger [[Ship|ship]]), the dirtiest white trousers conceivable by
 mortal man, carpet slippers, and no visible linen. ‘Childbed?’ said
 the doctor. ‘I’m the boy!’ With that the doctor took a comb from the
 chimney-piece and stuck his hair upright--which appeared to be his
@@ -202,7 +202,7 @@ a ghastly medical scarecrow.
 
 The doctor and the debtor ran down-stairs, leaving the turnkey to return
 to the lock, and made for the debtor’s room. All the ladies in the
-prison had got hold of the news, and were in the yard. Some of them
+[[Prison|prison]] had got hold of the news, and were in the yard. Some of them
 had already taken possession of the two children, and were hospitably
 carrying them off; others were offering loans of little comforts from
 their own scanty store; others were sympathising with the greatest
@@ -213,30 +213,30 @@ complimented the doctor with whistles as he passed below, while others,
 with several stories between them, interchanged sarcastic references to
 the prevalent excitement.
 
-It was a hot summer day, and the prison rooms were baking between the
+It was a hot [[Summer|summer]] day, and the [[Prison|prison]] rooms were baking between the
 high walls. In the debtor’s confined chamber, Mrs Bangham, charwoman and
 messenger, who was not a prisoner (though she had been once), but
 was the popular medium of communication with the outer world, had
 volunteered her services as fly-catcher and general attendant. The walls
 and ceiling were blackened with flies. Mrs Bangham, expert in sudden
 device, with one hand fanned the patient with a cabbage leaf, and with
-the other set traps of vinegar and sugar in gallipots; at the same time
-enunciating sentiments of an encouraging and congratulatory nature,
+the other set traps of vinegar and sugar in gallipots; at the same [[Time|time]]
+enunciating sentiments of an encouraging and congratulatory [[Nature|nature]],
 adapted to the occasion.
 
 ‘The flies trouble you, don’t they, my dear?’ said Mrs Bangham. ‘But
 p’raps they’ll take your mind off of it, and do you good. What between
-the buryin ground, the grocer’s, the waggon-stables, and the paunch
+the buryin ground, the [[grocer]]’s, the waggon-stables, and the paunch
 trade, the Marshalsea flies gets very large. P’raps they’re sent as a
 consolation, if we only know’d it. How are you now, my dear? No better?
 No, my dear, it ain’t to be expected; you’ll be worse before you’re
 better, and you know it, don’t you? Yes. That’s right! And to think of
 a sweet little cherub being born inside the lock! Now ain’t it pretty,
 ain’t _that_ something to carry you through it pleasant? Why, we ain’t
-had such a thing happen here, my dear, not for I couldn’t name the time
+had such a thing happen here, my dear, not for I couldn’t name the [[Time|time]]
 when. And you a crying too?’ said Mrs Bangham, to rally the patient more
 and more. ‘You! Making yourself so famous! With the flies a falling into
-the gallipots by fifties! And everything a going on so well! And here if
+the gallipots by fifties! And everything a going on so [[Well|well]]! And here if
 there ain’t,’ said Mrs Bangham as the door opened, ‘if there ain’t your
 dear gentleman along with Dr Haggage! And now indeed we _are_ complete, I
 _think_!’
@@ -244,7 +244,7 @@ _think_!’
 The doctor was scarcely the kind of apparition to inspire a patient
 with a sense of absolute completeness, but as he presently delivered the
 opinion, ‘We are as right as we can be, Mrs Bangham, and we shall
-come out of this like a house afire;’ and as he and Mrs Bangham took
+come out of this like a [[house]] afire;’ and as he and Mrs Bangham took
 possession of the poor helpless pair, as everybody else and anybody else
 had always done, the means at hand were as good on the whole as better
 would have been. The special feature in Dr Haggage’s treatment of the
@@ -274,15 +274,15 @@ fell into the traps by hundreds; and at length one little life, hardly
 stronger than theirs, appeared among the multitude of lesser deaths.
 
 ‘A very nice little girl indeed,’ said the doctor; ‘little, but
-well-formed. Halloa, Mrs Bangham! You’re looking queer! You be off,
+[[Well|well]]-formed. Halloa, Mrs Bangham! You’re looking queer! You be off,
 ma’am, this minute, and fetch a little more brandy, or we shall have you
 in hysterics.’
 
-By this time, the rings had begun to fall from the debtor’s irresolute
-hands, like leaves from a wintry tree. Not one was left upon them that
-night, when he put something that chinked into the doctor’s greasy palm.
+By this [[Time|time]], the rings had begun to fall from the debtor’s irresolute
+hands, like [[Leaves|leaves]] from a wintry tree. Not one was left upon them that
+[[Night|night]], when he put something that chinked into the doctor’s greasy palm.
 In the meantime Mrs Bangham had been out on an errand to a neighbouring
-establishment decorated with three golden balls, where she was very well
+establishment decorated with three golden balls, where she was very [[Well|well]]
 known.
 
 ‘Thank you,’ said the doctor, ‘thank you. Your good lady is quite
@@ -291,21 +291,21 @@ composed. Doing charmingly.’
 ‘I am very happy and very thankful to know it,’ said the debtor, ‘though
 I little thought once, that--’
 
-‘That a child would be born to you in a place like this?’ said the
+‘That a [[Child|child]] would be born to you in a place like this?’ said the
 doctor. ‘Bah, bah, sir, what does it signify? A little more elbow-room
 is all we want here. We are quiet here; we don’t get badgered here;
 there’s no knocker here, sir, to be hammered at by creditors and bring a
 man’s heart into his mouth. Nobody comes here to ask if a man’s at
-home, and to say he’ll stand on the door mat till he is. Nobody writes
-threatening letters about money to this place. It’s freedom, sir, it’s
-freedom! I have had to-day’s practice at home and abroad, on a march,
-and aboard ship, and I’ll tell you this: I don’t know that I have ever
+[[Home|home]], and to say he’ll stand on the door mat till he is. Nobody writes
+threatening letters about money to this place. It’s [[Freedom|freedom]], sir, it’s
+[[Freedom|freedom]]! I have had to-day’s practice at [[Home|home]] and abroad, on a march,
+and aboard [[Ship|ship]], and I’ll tell you this: I don’t know that I have ever
 pursued it under such quiet circumstances as here this day. Elsewhere,
 people are restless, worried, hurried about, anxious respecting one
 thing, anxious respecting another. Nothing of the kind here, sir. We
-have done all that--we know the worst of it; we have got to the bottom,
+have done all that--we know the worst of it; we have got to the [[Bottom|bottom]],
 we can’t fall, and what have we found? Peace. That’s the word for
-it. Peace.’ With this profession of faith, the doctor, who was an old
+it. Peace.’ With this profession of [[Faith|faith]], the doctor, who was an old
 jail-bird, and was more sodden than usual, and had the additional and
 unusual stimulus of money in his pocket, returned to his associate and
 chum in hoarseness, puffiness, red-facedness, all-fours, tobacco, dirt,
@@ -313,7 +313,7 @@ and brandy.
 
 Now, the debtor was a very different man from the doctor, but he had
 already begun to travel, by his opposite segment of the circle, to the
-same point. Crushed at first by his imprisonment, he had soon found a
+same point. Crushed at first by his [[Imprisonment|imprisonment]], he had soon found a
 dull relief in it. He was under lock and key; but the lock and key that
 kept him in, kept numbers of his troubles out. If he had been a man with
 strength of purpose to face those troubles and fight them, he might have
@@ -340,26 +340,26 @@ he would say, ‘that went out of the lodge just now?’
 New-comer would probably answer Yes.
 
 ‘Brought up as a gentleman, he was, if ever a man was. Ed’cated at no
-end of expense. Went into the Marshal’s house once to try a new piano
-for him. Played it, I understand, like one o’clock--beautiful! As to
-languages--speaks anything. We’ve had a Frenchman here in his time, and
+end of expense. Went into the Marshal’s [[house]] once to try a new piano
+for him. Played it, I understand, like one o’[[Clock|clock]]--beautiful! As to
+languages--speaks anything. We’ve had a Frenchman here in his [[Time|time]], and
 it’s my opinion he knowed more French than the Frenchman did. We’ve had
-an Italian here in his time, and he shut _him_ up in about half a minute.
+an Italian here in his [[Time|time]], and he shut _him_ up in about half a minute.
 You’ll find some characters behind other locks, I don’t say you won’t;
 but if you want the top sawyer in such respects as I’ve mentioned, you
 must come to the Marshalsea.’
 
-When his youngest child was eight years old, his wife, who had long been
+When his youngest [[Child|child]] was eight years old, his wife, who had long been
 languishing away--of her own inherent weakness, not that she retained
 any greater sensitiveness as to her place of abode than he did--went
-upon a visit to a poor friend and old nurse in the country, and died
+upon a visit to a poor friend and old [[Nurse|nurse]] in the country, and died
 there. He remained shut up in his room for a fortnight afterwards;
-and an attorney’s clerk, who was going through the Insolvent Court,
+and an attorney’s clerk, who was going through the Insolvent [[Court]],
 engrossed an address of condolence to him, which looked like a Lease,
 and which all the prisoners signed. When he appeared again he was
 greyer (he had soon begun to turn grey); and the turnkey noticed that
 his hands went often to his trembling lips again, as they had used to do
-when he first came in. But he got pretty well over it in a month or
+when he first came in. But he got pretty [[Well|well]] over it in a month or
 two; and in the meantime the children played about the yard as regularly
 as ever, but in black.
 
@@ -367,18 +367,18 @@ Then Mrs Bangham, long popular medium of communication with the outer
 world, began to be infirm, and to be found oftener than usual comatose
 on pavements, with her basket of purchases spilt, and the change of her
 clients ninepence short. His son began to supersede Mrs Bangham, and
-to execute commissions in a knowing manner, and to be of the prison
+to execute commissions in a knowing manner, and to be of the [[Prison|prison]]
 prisonous, of the streets streety.
 
-Time went on, and the turnkey began to fail. His chest swelled, and his
-legs got weak, and he was short of breath. The well-worn wooden stool
+[[Time]] went on, and the turnkey began to fail. His chest swelled, and his
+legs got weak, and he was short of breath. The [[Well|well]]-worn wooden stool
 was ‘beyond him,’ he complained. He sat in an arm-chair with a cushion,
 and sometimes wheezed so, for minutes together, that he couldn’t turn
 the key. When he was overpowered by these fits, the debtor often turned
 it for him.
 
-‘You and me,’ said the turnkey, one snowy winter’s night when the lodge,
-with a bright fire in it, was pretty full of company, ‘is the oldest
+‘You and me,’ said the turnkey, one snowy [[Winter|winter]]’s [[Night|night]] when the lodge,
+with a bright [[Fire|fire]] in it, was pretty full of company, ‘is the oldest
 inhabitants. I wasn’t here myself above seven year before you. I shan’t
 last long. When I’m off the lock for good and all, you’ll be the Father
 of the Marshalsea.’
@@ -390,7 +390,7 @@ about three months--that the shabby old debtor with the soft manner and
 the white hair, was the Father of the Marshalsea.
 
 And he grew to be proud of the title. If any impostor had arisen to
-claim it, he would have shed tears in resentment of the attempt to
+claim it, he would have shed [[Tears|tears]] in resentment of the attempt to
 deprive him of his rights. A disposition began to be perceived in him
 to exaggerate the number of years he had been there; it was generally
 understood that you must deduct a few from his account; he was vain, the
@@ -409,15 +409,15 @@ small at first, but there was very good company there--among a
 mixture--necessarily a mixture--and very good air.
 
 It became a not unusual circumstance for letters to be put under his
-door at night, enclosing half-a-crown, two half-crowns, now and then at
+door at [[Night|night]], enclosing half-a-[[Crown|crown]], two half-crowns, now and then at
 long intervals even half-a-sovereign, for the Father of the Marshalsea.
 ‘With the compliments of a collegian taking leave.’ He received the
 gifts as tributes, from admirers, to a public character. Sometimes
 these correspondents assumed facetious names, as the Brick, Bellows, Old
-Gooseberry, Wideawake, Snooks, Mops, Cutaway, the Dogs-meat Man; but he
+Gooseberry, Wideawake, Snooks, Mops, Cutaway, the [[dogs|Dogs]]-meat Man; but he
 considered this in bad taste, and was always a little hurt by it.
 
-In the fulness of time, this correspondence showing signs of wearing
+In the fulness of [[Time|time]], this correspondence showing signs of wearing
 out, and seeming to require an effort on the part of the correspondents
 to which in the hurried circumstances of departure many of them might
 not be equal, he established the custom of attending collegians of
@@ -428,7 +428,7 @@ calling ‘Hi!’
 
 He would look round surprised.’Me?’ he would say, with a smile.
 
-By this time the collegian would be up with him, and he would paternally
+By this [[Time|time]] the collegian would be up with him, and he would paternally
 add, VWhat have you forgotten? What can I do for you?’
 
 ‘I forgot to leave this,’ the collegian would usually return, ‘for the
@@ -437,7 +437,7 @@ Father of the Marshalsea.’
 ‘My good sir,’ he would rejoin, ‘he is infinitely obliged to you.’ But,
 to the last, the irresolute hand of old would remain in the pocket into
 which he had slipped the money during two or three turns about the yard,
-lest the transaction should be too conspicuous to the general body of
+lest the transaction should be too conspicuous to the general [[Body|body]] of
 collegians.
 
 One afternoon he had been doing the honours of the place to a rather
@@ -456,7 +456,7 @@ They were pretty far divided, going their several ways, when the
 Plasterer called out, ‘I say!--sir!’ and came back to him.
 
 ‘It ain’t much,’ said the Plasterer, putting a little pile of halfpence
-in his hand, ‘but it’s well meant.’
+in his hand, ‘but it’s [[Well|well]] meant.’
 
 The Father of the Marshalsea had never been offered tribute in copper
 yet. His children often had, and with his perfect acquiescence it had
@@ -464,14 +464,14 @@ gone into the common purse to buy meat that he had eaten, and drink that
 he had drunk; but fustian splashed with white lime, bestowing halfpence
 on him, front to front, was new.
 
-‘How dare you!’ he said to the man, and feebly burst into tears.
+‘How dare you!’ he said to the man, and feebly burst into [[Tears|tears]].
 
 The Plasterer turned him towards the wall, that his face might not be
 seen; and the action was so delicate, and the man was so penetrated with
 repentance, and asked pardon so honestly, that he could make him no less
 acknowledgment than, ‘I know you meant it kindly. Say no more.’
 
-‘Bless your soul, sir,’ urged the Plasterer, ‘I did indeed. I’d do more
+‘Bless your [[Soul|soul]], sir,’ urged the Plasterer, ‘I did indeed. I’d do more
 by you than the rest of ‘em do, I fancy.’
 
 ‘What would you do?’ he asked.
@@ -484,5 +484,5 @@ and never spend it. Thank you for it, thank you! I shall see you again?’
 ‘If I live a week you shall.’
 
 They shook hands and parted. The collegians, assembled in Symposium in
-the Snuggery that night, marvelled what had happened to their Father; he
+the Snuggery that [[Night|night]], marvelled what had happened to their Father; he
 walked so late in the shadows of the yard, and seemed so downcast.

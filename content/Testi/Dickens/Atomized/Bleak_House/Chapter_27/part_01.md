@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 27 (part 1)"
+title: "Bleak [[house|House]] — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,8 +20,8 @@ More Old Soldiers Than One
 
 
 Mr. George has not far to ride with folded arms upon the box, for
-their destination is Lincoln’s Inn Fields. When the driver stops his
-horses, Mr. George alights, and looking in at the window, says,
+their destination is [[Lincoln]]’s Inn Fields. When the driver stops his
+horses, Mr. George alights, and looking in at the [[Window|window]], says,
 “What, Mr. Tulkinghorn’s your man, is he?”
 
 “Yes, my dear friend. Do you know him, Mr. George?”
@@ -32,19 +32,19 @@ him, and he don’t know me.”
 There ensues the carrying of Mr. Smallweed upstairs, which is done to
 perfection with the trooper’s help. He is borne into Mr.
 Tulkinghorn’s great room and deposited on the Turkey rug before the
-fire. Mr. Tulkinghorn is not within at the present moment but will be
+[[Fire|fire]]. Mr. Tulkinghorn is not within at the present moment but will be
 back directly. The occupant of the pew in the hall, having said thus
-much, stirs the fire and leaves the triumvirate to warm themselves.
+much, stirs the [[Fire|fire]] and [[Leaves|leaves]] the triumvirate to warm themselves.
 
 Mr. George is mightily curious in respect of the room. He looks up at
 the painted ceiling, looks round at the old law-books, contemplates
 the portraits of the great clients, reads aloud the names on the
 boxes.
 
-“‘Sir Leicester Dedlock, Baronet,’” Mr. George reads thoughtfully.
+“‘[[Sir Leicester Dedlock]], Baronet,’” Mr. George reads thoughtfully.
 “Ha! ‘Manor of Chesney Wold.’ Humph!” Mr. George stands looking at
 these boxes a long while—as if they were pictures—and comes back to
-the fire repeating, “Sir Leicester Dedlock, Baronet, and Manor of
+the [[Fire|fire]] repeating, “[[Sir Leicester Dedlock]], Baronet, and Manor of
 Chesney Wold, hey?”
 
 “Worth a mint of money, Mr. George!” whispers Grandfather Smallweed,
@@ -74,7 +74,7 @@ looks with half-closed eyes across the room to where the trooper
 stands and says within himself perchance, “You’ll do, my friend!”
 
 “Sit down, sergeant,” he repeats as he comes to his table, which is
-set on one side of the fire, and takes his easy-chair. “Cold and raw
+set on one side of the [[Fire|fire]], and takes his easy-chair. “Cold and raw
 this morning, cold and raw!” Mr. Tulkinghorn warms before the bars,
 alternately, the palms and knuckles of his hands and looks (from
 behind that blind which is always down) at the trio sitting in a
@@ -97,7 +97,7 @@ Mr. George salutes the gentleman but otherwise sits bolt upright and
 profoundly silent—very forward in his chair, as if the full
 complement of regulation appendages for a field-day hung about him.
 
-Mr. Tulkinghorn proceeds, “Well, George—I believe your name is
+Mr. Tulkinghorn proceeds, “[[Well]], George—I believe your name is
 George?”
 
 “It is so, Sir.”
@@ -120,7 +120,7 @@ dear.”
 “I supposed, sergeant,” Mr. Tulkinghorn resumes as he leans on one
 side of his chair and crosses his legs, “that Mr. Smallweed might
 have sufficiently explained the matter. It lies in the smallest
-compass, however. You served under Captain Hawdon at one time, and
+compass, however. You served under Captain Hawdon at one [[Time|time]], and
 were his attendant in illness, and rendered him many little services,
 and were rather in his confidence, I am told. That is so, is it not?”
 
@@ -136,7 +136,7 @@ five, guineas, you would consider handsome, I dare say.”
 “Noble, my dear friend!” cries Grandfather Smallweed, screwing up his
 eyes.
 
-“If not, say how much more, in your conscience as a soldier, you can
+“If not, say how much more, in your [[Conscience|conscience]] as a soldier, you can
 demand. There is no need for you to part with the writing, against
 your inclination—though I should prefer to have it.”
 

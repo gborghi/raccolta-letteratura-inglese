@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 32 (part 4)"
+title: "[[Wuthering Heights]] — Chapter 32 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 Catherine employed herself in wrapping a handsome book neatly in white
 paper, and having tied it with a bit of ribbon, and addressed it to
-“Mr. Hareton Earnshaw,” she desired me to be her ambassadress, and
+“Mr. [[Hareton Earnshaw]],” she desired me to be her ambassadress, and
 convey the present to its destined recipient.
 
 “And tell him, if he’ll take it, I’ll come and teach him to read it
@@ -30,7 +30,7 @@ leaned her head and arms on the table, till she heard the slight rustle
 of the covering being removed; then she stole away, and quietly seated
 herself beside her cousin. He trembled, and his face glowed: all his
 rudeness and all his surly harshness had deserted him: he could not
-summon courage, at first, to utter a syllable in reply to her
+summon [[Courage|courage]], at first, to utter a syllable in reply to her
 questioning look, and her murmured petition.
 
 “Say you forgive me, Hareton, do. You can make me so happy by speaking
@@ -48,17 +48,17 @@ creeping close up.
 
 I overheard no further distinguishable talk, but, on looking round
 again, I perceived two such radiant countenances bent over the page of
-the accepted book, that I did not doubt the treaty had been ratified on
+the accepted book, that I did not [[Doubt|doubt]] the treaty had been ratified on
 both sides; and the enemies were, thenceforth, sworn allies.
 
 The work they studied was full of costly pictures; and those and their
-position had charm enough to keep them unmoved till Joseph came home.
+position had charm enough to keep them unmoved till Joseph came [[Home|home]].
 He, poor man, was perfectly aghast at the spectacle of Catherine seated
-on the same bench with Hareton Earnshaw, leaning her hand on his
-shoulder; and confounded at his favourite’s endurance of her proximity:
+on the same bench with [[Hareton Earnshaw]], leaning her hand on his
+shoulder; and confounded at his favourite’s [[Endurance|endurance]] of her proximity:
 it affected him too deeply to allow an observation on the subject that
-night. His emotion was only revealed by the immense sighs he drew, as
-he solemnly spread his large Bible on the table, and overlaid it with
+[[Night|night]]. His emotion was only revealed by the immense sighs he drew, as
+he solemnly spread his large [[Bible]] on the table, and overlaid it with
 dirty bank-notes from his pocket-book, the produce of the day’s
 transactions. At length he summoned Hareton from his seat.
 
@@ -69,7 +69,7 @@ mun side out and seearch another.”
 “Come, Catherine,” I said, “we must ‘side out’ too: I’ve done my
 ironing. Are you ready to go?”
 
-“It is not eight o’clock!” she answered, rising unwillingly. “Hareton,
+“It is not eight o’[[Clock|clock]]!” she answered, rising unwillingly. “Hareton,
 I’ll leave this book upon the chimney-piece, and I’ll bring some more
 to-morrow.”
 
@@ -88,7 +88,7 @@ both their minds tending to the same point—one loving and desiring to
 esteem, and the other loving and desiring to be esteemed—they contrived
 in the end to reach it.
 
-You see, Mr. Lockwood, it was easy enough to win Mrs. Heathcliff’s
-heart. But now, I’m glad you did not try. The crown of all my wishes
-will be the union of those two. I shall envy no one on their wedding
+You see, Mr. Lockwood, it was easy enough to win Mrs. [[Heathcliff]]’s
+heart. But now, I’m glad you did not try. The [[Crown|crown]] of all my wishes
+will be the [[Union|union]] of those two. I shall envy no one on their wedding
 day: there won’t be a happier woman than myself in England!

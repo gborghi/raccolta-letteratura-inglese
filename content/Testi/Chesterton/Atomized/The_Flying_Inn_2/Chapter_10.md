@@ -38,7 +38,7 @@ to have happened, to the eyes of the amazed Garge
 and his crowd of sympathisers.  "George Burn,
 carpenter of this town, with Samuel Gripes, drayman in
 the service of Messrs. Jay and Gubbins, brewers,
-together with a number of other well-known residents,
+together with a number of other [[Well|well]]-known residents,
 passed by the new building erected on the West Beach
 for various forms of entertainment and popularly
 called the small Universal Hall.  Seeing outside it
@@ -59,8 +59,8 @@ spontaneous, and owed not a little to the accidental
 honesty of the editor.  Moreover, evening papers are
 often more honest than morning papers, because they
 are written by ill-paid and hardworked underlings in
-a great hurry, and there is no time for more timid
-people to correct them.  By the time the morning
+a great hurry, and there is no [[Time|time]] for more timid
+people to correct them.  By the [[Time|time]] the morning
 papers came out next day a faint but perceptible change
 had passed over the story of the vanishing sign-board.
 In the daily paper which had the largest circulation and
@@ -75,7 +75,7 @@ the conjunctions; upon "but" and "yet" and "though"
 and similar words.  As his salary grew larger (for
 editors and proprietors like that sort of thing) and his
 old friends fewer (for the most generous of friends
-cannot but feel faintly acid at a success which has in
+cannot but feel faintly acid at a [[success]] which has in
 it nothing of the infectious flavour of glory) he grew
 more and more to value himself as a diplomatist; a
 man who always said the right thing.  But he was
@@ -101,13 +101,13 @@ elusive train of associations of his own.  In his late
 bad manner, as they say of painters, he was just as
 likely to say, "Whatever we may think of the rights
 and wrongs of the vivisection of pauper children, no
-progressive mind can doubt that the influence of the
+progressive mind can [[Doubt|doubt]] that the influence of the
 Vatican is on the decline."  His nickname had stuck
-to him in honour of a paragraph he was alleged to have
+to him in [[Honour|honour]] of a paragraph he was alleged to have
 written when the American President was wounded
 by a bullet fired by a lunatic in New Orleans, and
 which was said to have run, "The President passed
-a good night and his condition is greatly improved.
+a good [[Night|night]] and his condition is greatly improved.
 The assassin is not, however, a German, as was at first
 supposed."  Men stared at that mysterious conjunction
 till they wanted to go mad and to shoot somebody
@@ -126,7 +126,7 @@ roof thrown after you by men more energetic than
 yourself, you will find you emerge with emotions which
 are not solely those of a moderate politician.  Hibbs
 However had already composed a leaderette on the
-Pebblewick incident, which rather pointed to the truth
+Pebblewick incident, which rather pointed to the [[Truth|truth]]
 of the story, so far as his articles ever pointed to
 anything.  His motives for veering vaguely in this
 direction were, as usual, complex.  He knew the millionaire
@@ -139,7 +139,7 @@ He knew that Lord Ivywood must be mildly but not
 effectually checked; for Lord Ivywood was of The
 Other Party.  And there could be no milder or less
 effectual way of checking him than by allowing the paper
-to lend at least a temporary credit to a well-supported
+to lend at least a temporary credit to a [[Well|well]]-supported
 story that came from outside, and certainly had not
 been (like so many stories) created in the office.  Amid
 all these considerations had Hibbs However steered
@@ -159,7 +159,7 @@ the worst literature of the world.
 It began, indeed, with the comparatively familiar
 formula, "Whether we take the more lax or the more
 advanced view of the old disputed problem of the
-morality or immorality of the wooden sign-board as
+[[morality]] or immorality of the wooden sign-board as
 such, we shall all agree that the scenes enacted at
 Pebblewick were very discreditable, to most, though
 not all, concerned."  After that, tact degenerated into
@@ -174,28 +174,28 @@ September.  But the second half of the sentence
 suggested with equal clearness that, since these two acts
 were no longer, as it were, in contemplation, and all
 attempts to prevent them would probably arrive a
-little late, he felt the warmest friendship for the French
-nation.  He merely insisted that his friendship should
+little late, he felt the warmest [[Friendship|friendship]] for the French
+nation.  He merely insisted that his [[Friendship|friendship]] should
 never be mentioned except in the French language.
 It must be called an "entente" in the language taught
 to tourists by waiters.  It must on no account be called
 an "understanding," in a language understanded of
 the people.  From the first half of the sentence
 following it might safely be inferred that Mr. Hibbs had
-read Milton, or at least the passage about sons of
+read [[Milton]], or at least the passage about sons of
 Belial; from the second half that he knew nothing
-about bad wine, let alone good.  The next sentence
+about bad wine, let [[Alone|alone]] good.  The next sentence
 began with the corruption of the Roman Empire and
-contrived to end with Dr. Clifford.  Then there was a
-weak plea for Eugenics; and a warm plea against
-Conscription, which was not True Eugenics.  That
+contrived to end with Dr. [[Clifford]].  Then there was a
+weak plea for [[Eugenics]]; and a warm plea against
+Conscription, which was not True [[Eugenics]].  That
 was all; and it was headed "The Riot at Pebblewick."
 
 Yet some injustice would be done to Hibbs However
 if we concealed the fact that this chaotic leader
 was followed by quite a considerable mass of public
 correspondence.  The people who write to newspapers
-are, it may be supposed, a small, eccentric body, like
+are, it may be supposed, a small, eccentric [[Body|body]], like
 most of those that sway a modern state.  But at least,
 unlike the lawyers, or the financiers, or the members
 of Parliament, or the men of science, they are people
@@ -206,15 +206,15 @@ looking up in the dusty old files of his paper.
 
 A dear old lady in the densest part of the Midlands
 wrote to suggest that there might really have been
-an old ship wrecked on the shore, during the
+an old [[Ship|ship]] wrecked on the shore, during the
 proceedings.  "Mr. Leveson may have omitted to notice it,
 or, at that late hour of the evening, it may have been
 mistaken for a sign-board, especially by a person of
 defective sight.  My own sight has been failing for
-some time; but I am still a diligent reader of your
+some [[Time|time]]; but I am still a diligent reader of your
 paper."  If Mr. Hibbs's diplomacy had left one nerve
-in his soul undrugged, he would have laughed, or burst
-into tears, or got drunk, or gone into a monastery over
+in his [[Soul|soul]] undrugged, he would have laughed, or burst
+into [[Tears|tears]], or got drunk, or gone into a monastery over
 a letter like that.  As it was, he measured it with a
 pencil, and decided that it was just too long to get into
 the column.
@@ -231,7 +231,7 @@ which I have proved the point quite plainly, and which
 none of the Bishops or the so-called Free Church
 Ministers have attempted to answer.  The connection
 between the rod or pole and the snake so clearly indicated
-in Scripture is no less clear in this case.  It is well
+in Scripture is no less clear in this case.  It is [[Well|well]]
 known that those who follow after strong drink often
 announce themselves as having seen a snake.  Is it not
 clear that those unhappy revellers beheld it in its
@@ -261,7 +261,7 @@ by all scientific analogy we may infer that the unusual
 phrase "inn-sign" is an acoustic error for "inside."
 The word "inside" would so naturally occur in any
 discussion either about the building or the individual,
-when the debate was of a hygienic character.  This
+when the [[debate]] was of a hygienic character.  This
 letter was signed "Medical Student," and the less
 intelligent parts of it were selected for publication in the
 paper.
@@ -300,7 +300,7 @@ in all the people who think they can solve a problem
 they cannot understand by abolishing everything that
 has contributed to it.  We all know these people.  If a
 barber has cut his customer's throat because the girl
-has changed her partner for a dance or donkey ride on
+has changed her partner for a [[Dance|dance]] or [[donkey]] ride on
 Hampstead Heath, there are always people to protest
 against the mere institutions that led up to it.  This
 would not have happened if barbers were abolished,
@@ -308,12 +308,12 @@ or if cutlery were abolished, or if the objection felt by
 girls to imperfectly grown beards were abolished, or if
 the girls were abolished, or if heaths and open spaces
 were abolished, or if dancing were abolished, or if
-donkeys were abolished.  But donkeys, I fear, will
+donkeys were abolished.  But donkeys, I [[Fear|fear]], will
 never be abolished.
 
 There were plenty of such donkeys in the common
 land of this particular controversy.  Some made it an
-argument against democracy, because poor Garge was
+argument against [[democracy]], because poor Garge was
 a carpenter.  Some made it an argument against Alien
 Immigration, because Misysra Ammon was a Turk.
 Some proposed that ladies should no longer be admitted
@@ -334,7 +334,7 @@ not inexcusable.  Nobody did know what had
 happened; nobody knows it to this day, of course, or it
 would be unnecessary to write this story.  No one can
 suppose this story is written from any motive save that
-of telling the plain, humdrum truth.
+of telling the plain, humdrum [[Truth|truth]].
 
 That queer confused cunning which was the only
 definable quality possessed by Hibbs However had
@@ -360,7 +360,7 @@ satisfied Mr. George.
 It was not until almost a year after that it was
 felt in philosophical circles that the last word had
 been said on the matter.  An estimate of the incident
-and of its bearing on natural and supernatural history
+and of its bearing on natural and [[Supernatural|supernatural]] [[history]]
 occurred in Professor Widge's celebrated "Historicity
 of the Petro-Piscatorial Phenomena"; which so
 profoundly affected modern thought when it came out in
@@ -370,14 +370,14 @@ critic must apply to the thaumaturgics of the Lake of
 Tiberias the same principle of criticism which Dr.
 Bunk and others have so successfully applied to the
 thaumaturgics of the Cana narrative: "Authorities
-as final as Pink and Toscher," wrote the Professor,
+as final as Pink and Toscher," wrote [[The Professor|the Professor]],
 "have now shown with an emphasis that no emancipated
 mind is entitled to question, that the Aqua-Vinic
 thaumaturgy at Cana is wholly inconsistent with the
 psychology of the 'master of the feast,' as modern
 research has analysed it; and indeed with the whole
 Judaeo-Aramaic psychology at that stage of its
-development, as well as being painfully incongruous with
+development, as [[Well|well]] as being painfully incongruous with
 the elevated ideals of the ethical teacher in question.
 But as we rise to higher levels of moral achievement,
 it will probably be found necessary to apply the Canaic
@@ -386,7 +386,7 @@ This principle has, of course, been mainly expounded
 by Huscher in the sense that the whole episode is
 unhistorical, while the alternative theory, that the wine
 was non-alcoholic and was naturally infused into the
-water, can claim on its side the impressive name of
+[[Water|water]], can claim on its side the impressive name of
 Minns.  It is clear that if we apply the same alternative
 to the so-called Miraculous Draught of Fishes we must
 either hold with Gilp, that the fishes were stuffed
@@ -436,23 +436,23 @@ by children's services run on the most ruthless lines
 of orthodoxy and by the League of the Red Rosette,
 the formidable atheist and anarchist organization.  As
 if this were not enough to swell the whirlpool of
-fanaticism, the old popular controversy between the Milnian
+[[Fanaticism|fanaticism]], the old popular controversy between the Milnian
 and the Complete Sublapsarians broke out again on
 the fated beach.  It is natural to conjecture that in
 the thickening atmosphere of theology in Pebblewick,
 some controversialist quoted the text 'An evil and
 adulterous generation _seek for a sign_.  But no sign
-shall be given it save the sign of the prophet Jonas.'
+shall be given it save the sign of the [[Prophet|prophet]] Jonas.'
 
 "A mind like that of Pooke will find it hard to
 credit, but it seems certain that the effect of this text
 on the ignorant peasantry of southern England was
 actually to make them go about looking for a sign,
 in the sense of those old tavern signs now so happily
-disappearing.  The 'sign of the Prophet Jonas,' they
-somehow translated in their stunted minds into a sign-board of the ship out of which Jonah was thrown.
+disappearing.  The 'sign of the [[Prophet]] Jonas,' they
+somehow translated in their stunted minds into a sign-board of the [[Ship|ship]] out of which Jonah was thrown.
 They went about literally looking for 'The Sign of
-the Ship,' and there are some cases of their suffering
+the [[Ship]],' and there are some cases of their [[Suffering|suffering]]
 Smail's Hallucination and actually seeing it.  The
 whole incident is a curious parallel to the Gospel
 narrative and a triumphant vindication of Huscher's law."

@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 17 (part 2)"
+title: "[[Don Quixote]] — Chapter 17 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -21,7 +21,7 @@ applied to Nobility."
 
 "Ah," said Herne in a low voice like an aside; "it has come at last."
 
-It seemed as if he spoke for the first time in a human voice,
+It seemed as if he spoke for the first [[Time|time]] in a human voice,
 and the effect was all the stranger because of the strange
 words in which he spoke again.  "I am not a man," he said.
 "I am here only a mouthpiece to make clear the law;
@@ -32,7 +32,7 @@ do not make your claim as nobles and peers."
 "Why not?" cried the boisterous Archer.
 
 "Because about that also," replied Herne, who was deadly pale,
-"you have been fools enough to bid me find out the truth."
+"you have been fools enough to bid me find out the [[Truth|truth]]."
 
 "Oh what the devil does all this mean," cried Archer in his agony.
 
@@ -50,7 +50,7 @@ and you have not forgotten the names you bear."
 "Strangely enough," said the Arbiter, "that is exactly what
 you have done."
 
-There was another enigmatic silence, that seemed to be filled
+There was another enigmatic [[Silence|silence]], that seemed to be filled
 with the staring eyes of Archer and Hanbury; and then the voice of
 the Arbiter was heard once more; but it gave them a new sort of start,
 for it had taken on again the leaden weight of legal exposition.
@@ -73,13 +73,13 @@ He said it in a lifeless and impersonal tone, as if he were
 lecturing to students on the Hittites.  But perhaps it was
 a little overdone; the words with which he went on were rather
 too dead and distinct.  "Their estates have generally been
-obtained quite recently and often by methods of doubtful morality,
-let alone chivalry; by small solicitors and speculators employing
+obtained quite recently and often by methods of doubtful [[morality]],
+let [[Alone|alone]] chivalry; by small solicitors and speculators employing
 various forms of mortgage, of foreclosing and the rest.
 In assuming the estates, these ingenious persons generally
 assumed not only the titles but the names of older families.
 The name of the Eden family is not Eames but Evans.
-The name of the Seawood family is not Severne but Smith."
+The name of the Seawood family is not Severne but [[smith|Smith]]."
 
 And with that Murrel, who had been painfully watching the pale
 face and rigid attitude of the speaker, suddenly muttered
@@ -93,7 +93,7 @@ still be heard.
 "The only two men in this section of the county who can
 claim the nobility, to which appeal has been made,
 are a man now driving an omnibus between here and the town
-of Milldyke and a small green-grocer in the same town.
+of Milldyke and a small green-[[grocer]] in the same town.
 No other person can call himself _Armiger Generosus_ except
 William Pond and George Carter."
 
@@ -105,7 +105,7 @@ Even Braintree, suddenly remembering the solid smile of Old George
 in the Green Dragon, could not control his amusement.
 
 But, as Lord Seawood had accurately remarked, the Arbiter
-of the Court of Arbitrament was deficient in a sense of humour.
+of the [[Court]] of Arbitrament was deficient in a sense of [[Humour|humour]].
 He had never properly studied the back volumes of _Punch._
 
 "I do not know," he said, "why this man's lineage should be ridiculous.
@@ -115,14 +115,14 @@ He has not taken money at usury and laid field to field by chicane,
 served the ruling families like a dog and then fed on the dying families
 like a vulture.  But you--you who come here to grind the faces of the poor
 with your pomposities of property and gentility, and your grand final
-flourish of chivalry--what about you?  You sit in another man's house;
+flourish of chivalry--what about you?  You sit in another man's [[house]];
 you bear another man's name; the blazon of another is on your shield;
 the crest of another is on your gate-posts; your whole story is the story
 of new men in old clothes, and you come here to me to plead against
 justice in the name of your noble ancestry."
 
 The laughter had died down but the noise was even louder;
-there was now no disguise or hesitation about its nature;
+there was now no disguise or hesitation about its [[Nature|nature]];
 all the broken cries had come together; there was a new
 noise of the mob when it changes to the pack in cry.
 Archer and Hanbury and ten or twelve other men were standing

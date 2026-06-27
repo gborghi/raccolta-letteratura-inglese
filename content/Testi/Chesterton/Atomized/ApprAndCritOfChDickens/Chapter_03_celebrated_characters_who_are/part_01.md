@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 1)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -20,13 +20,13 @@ amusing even for Dickens, and who are both especially heartless and
 
 abominable even for Dickens--I mean of course Mr. Pecksniff on the one
 
-hand and Mrs. Gamp on the other. The humour of both of them is
+hand and Mrs. Gamp on the other. The [[Humour|humour]] of both of them is
 
-gigantesque. Nobody will ever forget the first time he read the words
+gigantesque. Nobody will ever forget the first [[Time|time]] he read the words
 
 "Now I should be very glad to see Mrs. Todgers's idea of a wooden leg."
 
-It is like remembering first love: there is still some sort of ancient
+It is like remembering first [[Love|love]]: there is still some sort of ancient
 
 sweetness and sting. I am afraid that, in spite of many criticisms to
 
@@ -42,31 +42,31 @@ have loved Pecksniff. Mr. Noyes thinks it clear that Dickens hated
 
 Pecksniff. I cannot believe it. Hatred does indeed linger round its
 
-object as much as love; but not in that way. Dickens is always making
+object as much as [[Love|love]]; but not in that way. Dickens is always making
 
-Pecksniff say things which have a wild poetical truth about them. Hatred
+Pecksniff say things which have a wild poetical [[Truth|truth]] about them. Hatred
 
-allows no such outbursts of original innocence. But however that may be
+allows no such outbursts of original [[innocence]]. But however that may be
 
 the broad fact remains--Dickens may or may not have loved Pecksniff
 
-comically, but he did not love him seriously; he did not respect him as
+comically, but he did not [[Love|love]] him seriously; he did not respect him as
 
-he certainly respected Sam Weller. The same of course is true of Mrs.
+he certainly respected [[Sam Weller]]. The same of course is true of Mrs.
 
 Gamp. To any one who appreciates her unctuous and sumptuous conversation
 
 it is difficult indeed not to feel that it would be almost better to be
 
-killed by Mrs. Gamp than to be saved by a better nurse. But the fact
+killed by Mrs. Gamp than to be saved by a better [[Nurse|nurse]]. But the fact
 
-remains. In this book Dickens has not allowed us to love the most absurd
+remains. In this book Dickens has not allowed us to [[Love|love]] the most absurd
 
 people seriously, and absurd people ought to be loved seriously.
 
-Pecksniff has to be amusing all the time; the instant he ceases to be
+Pecksniff has to be amusing all the [[Time|time]]; the instant he ceases to be
 
-laughable he becomes detestable. Pickwick can take his ease at his inn;
+laughable he becomes detestable. [[Pickwick]] can take his ease at his inn;
 
 he can be leisurely, he can be spacious; he can fall into moods of
 
@@ -76,15 +76,15 @@ forfeit the reader's concern, for he is a good man, and therefore even
 
 his dulness is beautiful, just as is the dulness of the animal. We can
 
-leave Pickwick a little while by the fire to think; for the thoughts of
+leave [[Pickwick]] a little while by the [[Fire|fire]] to think; for the thoughts of
 
-Pickwick, even if they were to go slowly, would be full of all the
+[[Pickwick]], even if they were to go slowly, would be full of all the
 
-things that all men care for--old friends and old inns and memory and
+things that all men care for--old friends and old inns and [[Memory|memory]] and
 
-the goodness of God. But we dare not leave Pecksniff alone for a moment.
+the goodness of God. But we dare not leave Pecksniff [[Alone|alone]] for a moment.
 
-We dare not leave him thinking by the fire, for the thoughts of
+We dare not leave him thinking by the [[Fire|fire]], for the thoughts of
 
 Pecksniff would be too frightful.
 
@@ -118,7 +118,7 @@ bustling, nineteenth-century man, full of the almost cock-sure
 
 common-sense of the utilitarian and liberal epoch, came to associate his
 
-name chiefly in literary history with the perpetuation of a half pagan
+name chiefly in literary [[history]] with the perpetuation of a half pagan
 
 and half Catholic festival which he would certainly have called an
 
@@ -150,7 +150,7 @@ of Scott's study he would certainly have read his brother novelist a
 
 lesson in no measured terms about the futility of thus fumbling in the
 
-dust-bins of old oppression and error. So far from Dickens being one of
+[[Dust|dust]]-bins of old oppression and error. So far from Dickens being one of
 
 those who like a thing because it is old, he was one of those cruder
 
@@ -162,13 +162,13 @@ who tries to uproot abuses; he was partly also that more suicidal kind
 
 of Radical who tries to uproot himself. In theory at any rate, he had no
 
-adequate conception of the importance of human tradition; in his time it
+adequate conception of the importance of human tradition; in his [[Time|time]] it
 
 had been twisted and falsified into the form of an opposition to
 
-democracy. In truth, of course, tradition is the most democratic of all
+[[democracy]]. In [[Truth|truth]], of course, tradition is the most democratic of all
 
-things, for tradition is merely a democracy of the dead as well as the
+things, for tradition is merely a [[democracy]] of the dead as [[Well|well]] as the
 
 living. But Dickens and his special group or generation had no grasp of
 
@@ -194,6 +194,6 @@ ritualism, doomed to disappear in the light of reason along with the
 
 Boy-Bishop and the Lord of Misrule, I am not sure that Dickens (though
 
-he was one of the readiest and most rapid masters of reply in history)
+he was one of the readiest and most rapid masters of reply in [[history]])
 
 would have found it very easy upon his own principles to answer. It was

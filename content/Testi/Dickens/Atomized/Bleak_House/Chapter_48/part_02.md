@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 48 (part 2)"
+title: "Bleak [[house|House]] — Chapter 48 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -26,13 +26,13 @@ Oh, dear no! Not at all. Only Mr. Tulkinghorn.
 Always at hand. Haunting every place. No relief or security from him
 for a moment.
 
-“I beg your pardon, Lady Dedlock. Will you allow me to retire?”
+“I beg your pardon, [[Lady Dedlock]]. Will you allow me to retire?”
 
 With a look that plainly says, “You know you have the power to remain
 if you will,” she tells him it is not necessary and moves towards a
 chair. Mr. Tulkinghorn brings it a little forward for her with his
-clumsy bow and retires into a window opposite. Interposed between her
-and the fading light of day in the now quiet street, his shadow falls
+clumsy bow and retires into a [[Window|window]] opposite. Interposed between her
+and the fading light of day in the now quiet street, his [[Shadow|shadow]] falls
 upon her, and he darkens all before her. Even so does he darken her
 life.
 
@@ -42,32 +42,32 @@ half-a-dozen of its greatest mansions seem to have been slowly stared
 into stone rather than originally built in that material. It is a
 street of such dismal grandeur, so determined not to condescend to
 liveliness, that the doors and windows hold a gloomy state of their
-own in black paint and dust, and the echoing mews behind have a dry
+own in black paint and [[Dust|dust]], and the echoing mews behind have a dry
 and massive appearance, as if they were reserved to stable the stone
 chargers of noble statues. Complicated garnish of iron-work entwines
 itself over the flights of steps in this awful street, and from these
 petrified bowers, extinguishers for obsolete flambeaux gasp at the
 upstart gas. Here and there a weak little iron hoop, through which
 bold boys aspire to throw their friends’ caps (its only present use),
-retains its place among the rusty foliage, sacred to the memory of
+retains its place among the rusty foliage, sacred to the [[Memory|memory]] of
 departed oil. Nay, even oil itself, yet lingering at long intervals
-in a little absurd glass pot, with a knob in the bottom like an
-oyster, blinks and sulks at newer lights every night, like its high
-and dry master in the House of Lords.
+in a little absurd glass pot, with a knob in the [[Bottom|bottom]] like an
+oyster, blinks and sulks at newer lights every [[Night|night]], like its high
+and dry master in the [[house|House]] of Lords.
 
-Therefore there is not much that Lady Dedlock, seated in her chair,
-could wish to see through the window in which Mr. Tulkinghorn stands.
+Therefore there is not much that [[Lady Dedlock]], seated in her chair,
+could wish to see through the [[Window|window]] in which Mr. Tulkinghorn stands.
 And yet—and yet—she sends a look in that direction as if it were
-her heart’s desire to have that figure moved out of the way.
+her heart’s [[Desire|desire]] to have that figure moved out of the way.
 
 Sir Leicester begs his Lady’s pardon. She was about to say?
 
 “Only that Mr. Rouncewell is here (he has called by my appointment)
 and that we had better make an end of the question of that girl. I am
-tired to death of the matter.”
+tired to [[Death|death]] of the matter.”
 
 “What can I do—to—assist?” demands Sir Leicester in some
-considerable doubt.
+considerable [[Doubt|doubt]].
 
 “Let us see him here and have done with it. Will you tell them to
 send him up?”
@@ -79,27 +79,27 @@ term, “request the iron gentleman to walk this way.”
 Mercury departs in search of the iron gentleman, finds, and produces
 him. Sir Leicester receives that ferruginous person graciously.
 
-“I hope you are well, Mr. Rouncewell. Be seated. (My solicitor, Mr.
+“I [[Hope|hope]] you are [[Well|well]], Mr. Rouncewell. Be seated. (My solicitor, Mr.
 Tulkinghorn.) My Lady was desirous, Mr. Rouncewell,” Sir Leicester
 skilfully transfers him with a solemn wave of his hand, “was desirous
 to speak with you. Hem!”
 
 “I shall be very happy,” returns the iron gentleman, “to give my best
-attention to anything Lady Dedlock does me the honour to say.”
+attention to anything [[Lady Dedlock]] does me the [[Honour|honour]] to say.”
 
 As he turns towards her, he finds that the impression she makes upon
 him is less agreeable than on the former occasion. A distant
 supercilious air makes a cold atmosphere about her, and there is
 nothing in her bearing, as there was before, to encourage openness.
 
-“Pray, sir,” says Lady Dedlock listlessly, “may I be allowed to
+“Pray, sir,” says [[Lady Dedlock]] listlessly, “may I be allowed to
 inquire whether anything has passed between you and your son
 respecting your son’s fancy?”
 
 It is almost too troublesome to her languid eyes to bestow a look
 upon him as she asks this question.
 
-“If my memory serves me, Lady Dedlock, I said, when I had the
+“If my [[Memory|memory]] serves me, [[Lady Dedlock]], I said, when I had the
 pleasure of seeing you before, that I should seriously advise my son
 to conquer that—fancy.” The ironmaster repeats her expression with a
 little emphasis.
@@ -115,7 +115,7 @@ precious. Highly proper.
 
 “And pray has he done so?”
 
-“Really, Lady Dedlock, I cannot make you a definite reply. I fear
+“Really, [[Lady Dedlock]], I cannot make you a definite reply. I [[Fear|fear]]
 not. Probably not yet. In our condition of life, we sometimes couple
 an intention with our—our fancies which renders them not altogether
 easy to throw off. I think it is rather our way to be in earnest.”
@@ -135,7 +135,7 @@ concur”—Sir Leicester flattered—“and if you cannot give us the
 assurance that this fancy is at an end, I have come to the conclusion
 that the girl had better leave me.”
 
-“I can give no such assurance, Lady Dedlock. Nothing of the kind.”
+“I can give no such assurance, [[Lady Dedlock]]. Nothing of the kind.”
 
 “Then she had better go.”
 

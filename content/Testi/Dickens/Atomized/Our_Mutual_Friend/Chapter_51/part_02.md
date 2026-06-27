@@ -15,12 +15,12 @@ tags:
 
 
 ‘It strikes me,’ remarked Eugene coolly, after watching him for some
-minutes, ‘that my friend is likely to be rather behind time if he has
+minutes, ‘that my friend is likely to be rather behind [[Time|time]] if he has
 any appointment on hand.’ With which remark he strolled on, and took no
 further thought of him.
 
-Lightwood was at home when he got to the Chambers, and had dined alone
-there. Eugene drew a chair to the fire by which he was having his wine
+Lightwood was at [[Home|home]] when he got to the Chambers, and had dined [[Alone|alone]]
+there. Eugene drew a chair to the [[Fire|fire]] by which he was having his wine
 and reading the evening paper, and brought a glass, and filled it for
 good fellowship’s sake.
 
@@ -45,28 +45,28 @@ cannot possibly be made to pay, may be open to question.’
 
 ‘My dear boy,’ returned the debtor, very composedly taking up his glass,
 ‘having previously fallen into the hands of some of the Christians, I
-can bear it with philosophy.’
+can bear it with [[philosophy]].’
 
 ‘I have had an interview to-day, Eugene, with a Jew, who seems
-determined to press us hard. Quite a Shylock, and quite a Patriarch. A
+determined to press us hard. Quite a [[Shylock]], and quite a Patriarch. A
 picturesque grey-headed and grey-bearded old Jew, in a shovel-hat and
 gaberdine.’
 
 ‘Not,’ said Eugene, pausing in setting down his glass, ‘surely not my
-worthy friend Mr Aaron?’
+worthy friend Mr [[Aaron]]?’
 
 ‘He calls himself Mr Riah.’
 
-‘By-the-by,’ said Eugene, ‘it comes into my mind that—no doubt with an
-instinctive desire to receive him into the bosom of our Church—I gave
-him the name of Aaron!’
+‘By-the-by,’ said Eugene, ‘it comes into my mind that—no [[Doubt|doubt]] with an
+instinctive [[Desire|desire]] to receive him into the bosom of our Church—I gave
+him the name of [[Aaron]]!’
 
 ‘Eugene, Eugene,’ returned Lightwood, ‘you are more ridiculous than
 usual. Say what you mean.’
 
-‘Merely, my dear fellow, that I have the honour and pleasure of a
+‘Merely, my dear fellow, that I have the [[Honour|honour]] and pleasure of a
 speaking acquaintance with such a Patriarch as you describe, and that I
-address him as Mr Aaron, because it appears to me Hebraic, expressive,
+address him as Mr [[Aaron]], because it appears to me Hebraic, expressive,
 appropriate, and complimentary. Notwithstanding which strong reasons for
 its being his name, it may not be his name.’
 
@@ -78,8 +78,8 @@ Lightwood, laughing.
 ‘He did not. He only said of you that he expected to be paid by you.’
 
 ‘Which looks,’ remarked Eugene with much gravity, ‘like NOT knowing me.
-I hope it may not be my worthy friend Mr Aaron, for, to tell you the
-truth, Mortimer, I doubt he may have a prepossession against me. I
+I [[Hope|hope]] it may not be my worthy friend Mr [[Aaron]], for, to tell you the
+[[Truth|truth]], Mortimer, I [[Doubt|doubt]] he may have a prepossession against me. I
 strongly suspect him of having had a hand in spiriting away Lizzie.’
 
 ‘Everything,’ returned Lightwood impatiently, ‘seems, by a fatality,
@@ -95,8 +95,8 @@ furniture, ‘is a man of infinite discernment!’
 
 ‘And yet, Eugene, you know you do not really care for her.’
 
-Eugene Wrayburn rose, and put his hands in his pockets, and stood with a
-foot on the fender, indolently rocking his body and looking at the fire.
+[[Eugene Wrayburn]] [[Rose|rose]], and put his hands in his pockets, and stood with a
+foot on the fender, indolently rocking his [[Body|body]] and looking at the [[Fire|fire]].
 After a prolonged pause, he replied: ‘I don’t know that. I must ask you
 not to say that, as if we took it for granted.’
 
@@ -143,11 +143,11 @@ heard at the outer door, and then an undecided knock, as though
 some hand were groping for the knocker. ‘The frolicsome youth of the
 neighbourhood,’ said Eugene, ‘whom I should be delighted to pitch from
 this elevation into the churchyard below, without any intermediate
-ceremonies, have probably turned the lamp out. I am on duty to-night,
+ceremonies, have probably turned the lamp out. I am on duty to-[[Night|night]],
 and will see to the door.’
 
-His friend had barely had time to recall the unprecedented gleam of
+His friend had barely had [[Time|time]] to recall the unprecedented gleam of
 determination with which he had spoken of finding this girl, and which
 had faded out of him with the breath of the spoken words, when Eugene
-came back, ushering in a most disgraceful shadow of a man, shaking from
+came back, ushering in a most disgraceful [[Shadow|shadow]] of a man, shaking from
 head to foot, and clothed in shabby grease and smear.

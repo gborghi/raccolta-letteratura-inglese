@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 55 (part 2)"
+title: "[[Great Expectations]] — Chapter 55 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -22,34 +22,34 @@ red book, and hasn’t a notion about her grandpapa. What a fortune for
 the son of my mother!”
 
 On the Saturday in that same week, I took my leave of Herbert,—full of
-bright hope, but sad and sorry to leave me,—as he sat on one of the
-seaport mail coaches. I went into a coffee-house to write a little note
-to Clara, telling her he had gone off, sending his love to her over and
-over again, and then went to my lonely home,—if it deserved the name;
-for it was now no home to me, and I had no home anywhere.
+bright [[Hope|hope]], but sad and sorry to leave me,—as he sat on one of the
+seaport mail coaches. I went into a coffee-[[house]] to write a little note
+to Clara, telling her he had gone off, sending his [[Love|love]] to her over and
+over again, and then went to my lonely [[Home|home]],—if it deserved the name;
+for it was now no [[Home|home]] to me, and I had no [[Home|home]] anywhere.
 
 On the stairs I encountered Wemmick, who was coming down, after an
 unsuccessful application of his knuckles to my door. I had not seen him
-alone since the disastrous issue of the attempted flight; and he had
+[[Alone|alone]] since the disastrous issue of the attempted flight; and he had
 come, in his private and personal capacity, to say a few words of
 explanation in reference to that failure.
 
 “The late Compeyson,” said Wemmick, “had by little and little got at
-the bottom of half of the regular business now transacted; and it was
+the [[Bottom|bottom]] of half of the regular business now transacted; and it was
 from the talk of some of his people in trouble (some of his people
 being always in trouble) that I heard what I did. I kept my ears open,
 seeming to have them shut, until I heard that he was absent, and I
-thought that would be the best time for making the attempt. I can only
+thought that would be the best [[Time|time]] for making the attempt. I can only
 suppose now, that it was a part of his policy, as a very clever man,
-habitually to deceive his own instruments. You don’t blame me, I hope,
+habitually to deceive his own instruments. You don’t blame me, I [[Hope|hope]],
 Mr. Pip? I am sure I tried to serve you, with all my heart.”
 
 “I am as sure of that, Wemmick, as you can be, and I thank you most
-earnestly for all your interest and friendship.”
+earnestly for all your interest and [[Friendship|friendship]].”
 
 “Thank you, thank you very much. It’s a bad job,” said Wemmick,
 scratching his head, “and I assure you I haven’t been so cut up for a
-long time. What I look at is the sacrifice of so much portable
+long [[Time|time]]. What I look at is the sacrifice of so much portable
 property. Dear me!”
 
 “What _I_ think of, Wemmick, is the poor owner of the property.”
@@ -88,10 +88,10 @@ stretch a point and manage it?”
 He had done so much for me at various times, that this was very little
 to do for him. I said I could manage it,—would manage it,—and he was so
 very much pleased by my acquiescence, that I was pleased too. At his
-particular request, I appointed to call for him at the Castle at half
-past eight on Monday morning, and so we parted for the time.
+particular request, I appointed to call for him at the [[Castle]] at half
+past eight on Monday morning, and so we parted for the [[Time|time]].
 
-Punctual to my appointment, I rang at the Castle gate on the Monday
+Punctual to my appointment, I rang at the [[Castle]] gate on the Monday
 morning, and was received by Wemmick himself, who struck me as looking
 tighter than usual, and having a sleeker hat on. Within, there were two
 glasses of rum and milk prepared, and two biscuits. The Aged must have
@@ -116,7 +116,7 @@ surprised, when he said, as if he were animated by a brilliant idea,—
 “Let’s go in!”
 
 We went in, Wemmick leaving his fishing-rod in the porch, and looked
-all round. In the mean time, Wemmick was diving into his coat-pockets,
+all round. In the mean [[Time|time]], Wemmick was diving into his coat-pockets,
 and getting something out of paper there.
 
 “Halloa!” said he. “Here’s a couple of pair of gloves! Let’s put ’em
@@ -129,7 +129,7 @@ door, escorting a lady.
 
 “Halloa!” said Wemmick. “Here’s Miss Skiffins! Let’s have a wedding.”
 
-That discreet damsel was attired as usual, except that she was now
+That discreet [[Damsel|damsel]] was attired as usual, except that she was now
 engaged in substituting for her green kid gloves a pair of white. The
 Aged was likewise occupied in preparing a similar sacrifice for the
 altar of Hymen. The old gentleman, however, experienced so much

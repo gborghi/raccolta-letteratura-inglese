@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 38 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 38 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,13 +28,13 @@ leave that, too, to Him that gave it.”
 
 
 
-“Then you’re a white-livered fool, and I wash my hands of you,”
+“Then you’re a white-livered [[Fool|fool]], and I wash my hands of you,”
 
 grumbled the tempter, as he swung himself round and departed.
 
 
 
-“Right, right, Lord Lowborough,” cried I, darting out and clasping his
+“Right, right, [[Lord Lowborough]],” cried I, darting out and clasping his
 
 burning hand, as he was moving away to the stairs. “I begin to think
 
@@ -62,7 +62,7 @@ I returned to the drawing-room, where, doubtless, my presence would be
 
 expected by most, desired by one or two. In the ante-room was Mr.
 
-Hattersley, railing against Lord Lowborough’s poltroonery before a
+Hattersley, railing against [[Lord Lowborough]]’s poltroonery before a
 
 select audience, viz. Mr. Huntingdon, who was lounging against the
 
@@ -84,7 +84,7 @@ very uncalled-for under the circumstances, for she had herself given
 
 the company to understand that her husband had received unpleasant
 
-intelligence from home, which necessitated his immediate departure, and
+intelligence from [[Home|home]], which necessitated his immediate departure, and
 
 that he had suffered it so to bother his mind that it had brought on a
 
@@ -92,7 +92,7 @@ bilious headache, owing to which, and the preparations he judged
 
 necessary to hasten his departure, she believed they would not have the
 
-pleasure of seeing him to-night. However, she asserted, it was only a
+pleasure of seeing him to-[[Night|night]]. However, she asserted, it was only a
 
 business concern, and so she did not intend it should trouble _her._
 
@@ -116,9 +116,9 @@ saw you in better spirits in my life.”
 
 
 
-“Precisely so, my love: because I wish to make the best of your
+“Precisely so, my [[Love|love]]: because I wish to make the best of your
 
-society, since it appears this is to be the last night I am to enjoy it
+society, since it appears this is to be the last [[Night|night]] I am to enjoy it
 
 till heaven knows when; and I wish to leave a good impression on you
 
@@ -126,23 +126,23 @@ all,”—she glanced round, and seeing her aunt’s eye fixed upon her,
 
 rather too scrutinizingly, as she probably thought, she started up and
 
-continued: “To which end I’ll give you a song—shall I, aunt? shall I,
+continued: “To which end I’ll give you a [[Song|song]]—shall I, aunt? shall I,
 
-Mrs. Huntingdon? shall I ladies and gentlemen all? Very well. I’ll do
+Mrs. Huntingdon? shall I ladies and gentlemen all? Very [[Well|well]]. I’ll do
 
 my best to amuse you.”
 
 
 
-She and Lord Lowborough occupied the apartments next to mine. I know
+She and [[Lord Lowborough]] occupied the apartments next to mine. I know
 
-not how _she_ passed the night, but I lay awake the greater part of it
+not how _she_ passed the [[Night|night]], but I lay awake the greater part of it
 
 listening to his heavy step pacing monotonously up and down his
 
 dressing-room, which was nearest my chamber. Once I heard him pause and
 
-throw something out of the window with a passionate ejaculation; and in
+throw something out of the [[Window|window]] with a passionate ejaculation; and in
 
 the morning, after they were gone, a keen-bladed clasp-knife was found
 
@@ -150,7 +150,7 @@ on the grass-plot below; a razor, likewise, was snapped in two and
 
 thrust deep into the cinders of the grate, but partially corroded by
 
-the decaying embers. So strong had been the temptation to end his
+the decaying embers. So strong had been the [[Temptation|temptation]] to end his
 
 miserable life, so determined his resolution to resist it.
 
@@ -162,7 +162,7 @@ Hitherto I had thought too much of myself, too little of him: now I
 
 forgot my own afflictions, and thought only of his; of the ardent
 
-affection so miserably wasted, the fond faith so cruelly betrayed,
+affection so miserably wasted, the fond [[Faith|faith]] so cruelly betrayed,
 
 the—no, I will not attempt to enumerate his wrongs—but I hated his wife
 
@@ -174,19 +174,19 @@ his.
 
 They departed early in the morning, before any one else was down,
 
-except myself, and just as I was leaving my room Lord Lowborough was
+except myself, and just as I was leaving my room [[Lord Lowborough]] was
 
 descending to take his place in the carriage, where his lady was
 
-already ensconced; and Arthur (or Mr. Huntingdon, as I prefer calling
+already ensconced; and [[arthur|Arthur]] (or Mr. Huntingdon, as I prefer calling
 
-him, for the other is my child’s name) had the gratuitous insolence to
+him, for the other is my [[Child|child]]’s name) had the gratuitous insolence to
 
 come out in his dressing-gown to bid his “friend” good-by.
 
 
 
-“What, going already, Lowborough!” said he. “Well, good-morning.” He
+“What, going already, Lowborough!” said he. “[[Well]], good-morning.” He
 
 smilingly offered his hand.
 
@@ -208,7 +208,7 @@ departed.
 
 
 
-“I call that an unchristian spirit now,” said the villain. “But I’d
+“I call that an unchristian spirit now,” said the [[Villain|villain]]. “But I’d
 
 never give up an old friend for the sake of a wife. You may have mine
 
@@ -218,13 +218,13 @@ restitution, can I?”
 
 
 
-But Lowborough had gained the bottom of the stairs, and was now
+But Lowborough had gained the [[Bottom|bottom]] of the stairs, and was now
 
 crossing the hall; and Mr. Huntingdon, leaning over the banisters,
 
-called out, “Give my love to Annabella! and I wish you both a happy
+called out, “Give my [[Love|love]] to Annabella! and I wish you both a happy
 
-journey,” and withdrew, laughing, to his chamber.
+[[Journey|journey]],” and withdrew, laughing, to his chamber.
 
 
 

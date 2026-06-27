@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 51: IN WHICH MR. PICKWICK ENCOUNTERS AN OLD ACQUAINTANCE--TO (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 51: IN WHICH MR. [[Pickwick|PICKWICK]] ENCOUNTERS AN OLD ACQUAINTANCE--TO (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,7 +19,7 @@ the state of the case!’
 
 The landlord and waiter entering at the moment with dinner, caused Mr.
 Pott to lay his finger on his lips, in token that he considered his life
-in Mr. Pickwick’s hands, and depended on his secrecy. Messrs. Bob Sawyer
+in Mr. [[Pickwick]]’s hands, and depended on his secrecy. Messrs. Bob Sawyer
 and Benjamin Allen, who had irreverently fallen asleep during the
 reading of the quotation from the Eatanswill _Gazette_, and the
 discussion which followed it, were roused by the mere whispering of the
@@ -28,7 +28,7 @@ good digestion waiting on appetite, and health on both, and a waiter on
 all three.
 
 In the course of the dinner and the sitting which succeeded it, Mr. Pott
-descending, for a few moments, to domestic topics, informed Mr. Pickwick
+descending, for a few moments, to domestic topics, informed Mr. [[Pickwick]]
 that the air of Eatanswill not agreeing with his lady, she was then
 engaged in making a tour of different fashionable watering-places with a
 view to the recovery of her wonted health and spirits; this was a
@@ -40,11 +40,11 @@ part of the annual income and profits arising from the editorship and
 sale of the Eatanswill _Gazette_.
 
 While the great Mr. Pott was dwelling upon this and other matters,
-enlivening the conversation from time to time with various extracts from
-his own lucubrations, a stern stranger, calling from the window of a
+enlivening the conversation from [[Time|time]] to [[Time|time]] with various extracts from
+his own lucubrations, a stern stranger, calling from the [[Window|window]] of a
 stage-coach, outward bound, which halted at the inn to deliver packages,
-requested to know whether if he stopped short on his journey and
-remained there for the night, he could be furnished with the necessary
+requested to know whether if he stopped short on his [[Journey|journey]] and
+remained there for the [[Night|night]], he could be furnished with the necessary
 accommodation of a bed and bedstead.
 
 ‘Certainly, sir,’ replied the landlord.
@@ -52,12 +52,12 @@ accommodation of a bed and bedstead.
 ‘I can, can I?’ inquired the stranger, who seemed habitually suspicious
 in look and manner.
 
-‘No doubt of it, Sir,’ replied the landlord.
+‘No [[Doubt|doubt]] of it, Sir,’ replied the landlord.
 
 ‘Good,’ said the stranger. ‘Coachman, I get down here. Guard, my carpet-
 bag!’
 
-Bidding the other passengers good-night, in a rather snappish manner,
+Bidding the other passengers good-[[Night|night]], in a rather snappish manner,
 the stranger alighted. He was a shortish gentleman, with very stiff
 black hair cut in the porcupine or blacking-brush style, and standing
 stiff and straight all over his head; his aspect was pompous and
@@ -103,7 +103,7 @@ stranger, and smiled feebly.
 
 ‘Do you know me, man?’ inquired the stranger angrily.
 
-The landlord made a strong effort, and at length replied, ‘Well, Sir, I
+The landlord made a strong effort, and at length replied, ‘[[Well]], Sir, I
 do _not_ know you.’
 
 ‘Great Heaven!’ said the stranger, dashing his clenched fist upon the
@@ -114,27 +114,27 @@ his eyes upon him, resumed.
 
 ‘This,’ said the stranger--‘this is gratitude for years of labour and
 study in behalf of the masses. I alight wet and weary; no enthusiastic
-crowds press forward to greet their champion; the church bells are
+crowds press forward to greet their champion; the church [[Bells|bells]] are
 silent; the very name elicits no responsive feeling in their torpid
 bosoms. It is enough,’ said the agitated Mr. Slurk, pacing to and fro,
 ‘to curdle the ink in one’s pen, and induce one to abandon their cause
 for ever.’
 
-‘Did you say brandy-and-water, Sir?’ said the landlord, venturing a
+‘Did you say brandy-and-[[Water|water]], Sir?’ said the landlord, venturing a
 hint.
 
-‘Rum,’ said Mr. Slurk, turning fiercely upon him. ‘Have you got a fire
+‘Rum,’ said Mr. Slurk, turning fiercely upon him. ‘Have you got a [[Fire|fire]]
 anywhere?’
 
 ‘We can light one directly, Sir,’ said the landlord.
 
-‘Which will throw out no heat until it is bed-time,’ interrupted Mr.
+‘Which will throw out no heat until it is bed-[[Time|time]],’ interrupted Mr.
 Slurk. ‘Is there anybody in the kitchen?’
 
-Not a soul. There was a beautiful fire. Everybody had gone, and the
-house door was closed for the night.
+Not a [[Soul|soul]]. There was a beautiful [[Fire|fire]]. Everybody had gone, and the
+[[house]] door was closed for the [[Night|night]].
 
-‘I will drink my rum-and-water,’ said Mr. Slurk, ‘by the kitchen fire.’
+‘I will drink my rum-and-[[Water|water]],’ said Mr. Slurk, ‘by the kitchen [[Fire|fire]].’
 So, gathering up his hat and newspaper, he stalked solemnly behind the
 landlord to that humble apartment, and throwing himself on a settle by
 the fireside, resumed his countenance of scorn, and began to read and
@@ -142,16 +142,16 @@ drink in silent dignity.
 
 Now, some demon of discord, flying over the Saracen’s Head at that
 moment, on casting down his eyes in mere idle curiosity, happened to
-behold Slurk established comfortably by the kitchen fire, and Pott
+behold Slurk established comfortably by the kitchen [[Fire|fire]], and Pott
 slightly elevated with wine in another room; upon which the malicious
 demon, darting down into the last-mentioned apartment with inconceivable
 rapidity, passed at once into the head of Mr. Bob Sawyer, and prompted
 him for his (the demon’s) own evil purpose to speak as follows:--
 
-‘I say, we’ve let the fire out. It’s uncommonly cold after the rain,
+‘I say, we’ve let the [[Fire|fire]] out. It’s uncommonly cold after the rain,
 isn’t it?’
 
-‘It really is,’ replied Mr. Pickwick, shivering.
+‘It really is,’ replied Mr. [[Pickwick]], shivering.
 
-‘It wouldn’t be a bad notion to have a cigar by the kitchen fire, would
+‘It wouldn’t be a bad notion to have a cigar by the kitchen [[Fire|fire]], would
 it?’ said Bob Sawyer, still prompted by the demon aforesaid.

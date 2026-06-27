@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 20"
+title: "Bleak [[house|House]] — Chapter 20"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,25 +19,25 @@ CHAPTER XX
 A New Lodger
 
 
-The long vacation saunters on towards term-time like an idle river
+The long vacation saunters on towards term-[[Time|time]] like an idle [[River|river]]
 very leisurely strolling down a flat country to the sea. Mr. Guppy
 saunters along with it congenially. He has blunted the blade of his
 penknife and broken the point off by sticking that instrument into
 his desk in every direction. Not that he bears the desk any ill will,
 but he must do something, and it must be something of an unexciting
-nature, which will lay neither his physical nor his intellectual
+[[Nature|nature]], which will lay neither his physical nor his intellectual
 energies under too heavy contribution. He finds that nothing agrees
-with him so well as to make little gyrations on one leg of his stool,
+with him so [[Well|well]] as to make little gyrations on one leg of his stool,
 and stab his desk, and gape.
 
 Kenge and Carboy are out of town, and the articled clerk has taken
 out a shooting license and gone down to his father’s, and Mr. Guppy’s
-two fellow-stipendiaries are away on leave. Mr. Guppy and Mr. Richard
+two fellow-stipendiaries are away on leave. Mr. Guppy and Mr. [[Richard]]
 Carstone divide the dignity of the office. But Mr. Carstone is for
-the time being established in Kenge’s room, whereat Mr. Guppy chafes.
+the [[Time|time]] being established in Kenge’s room, whereat Mr. Guppy chafes.
 So exceedingly that he with biting sarcasm informs his mother, in the
 confidential moments when he sups with her off a lobster and lettuce
-in the Old Street Road, that he is afraid the office is hardly good
+in the Old Street [[Road]], that he is afraid the office is hardly good
 enough for swells, and that if he had known there was a swell coming,
 he would have got it painted.
 
@@ -52,56 +52,56 @@ chess without any adversary.
 
 It is a source of much gratification to Mr. Guppy, therefore, to find
 the new-comer constantly poring over the papers in Jarndyce and
-Jarndyce, for he well knows that nothing but confusion and failure
+Jarndyce, for he [[Well|well]] knows that nothing but confusion and failure
 can come of that. His satisfaction communicates itself to a third
 saunterer through the long vacation in Kenge and Carboy’s office, to
 wit, Young Smallweed.
 
 Whether Young Smallweed (metaphorically called Small and eke Chick
 Weed, as it were jocularly to express a fledgling) was ever a boy is
-much doubted in Lincoln’s Inn. He is now something under fifteen and
+much doubted in [[Lincoln]]’s Inn. He is now something under fifteen and
 an old limb of the law. He is facetiously understood to entertain a
 passion for a lady at a cigar-shop in the neighbourhood of Chancery
 Lane and for her sake to have broken off a contract with another
 lady, to whom he had been engaged some years. He is a town-made
 article, of small stature and weazen features, but may be perceived
 from a considerable distance by means of his very tall hat. To become
-a Guppy is the object of his ambition. He dresses at that gentleman
+a Guppy is the object of his [[Ambition|ambition]]. He dresses at that gentleman
 (by whom he is patronized), talks at him, walks at him, founds
 himself entirely on him. He is honoured with Mr. Guppy’s particular
 confidence and occasionally advises him, from the deep wells of his
 experience, on difficult points in private life.
 
-Mr. Guppy has been lolling out of window all the morning after trying
+Mr. Guppy has been lolling out of [[Window|window]] all the morning after trying
 all the stools in succession and finding none of them easy, and after
 several times putting his head into the iron safe with a notion of
 cooling it. Mr. Smallweed has been twice dispatched for effervescent
 drinks, and has twice mixed them in the two official tumblers and
 stirred them up with the ruler. Mr. Guppy propounds for Mr.
-Smallweed’s consideration the paradox that the more you drink the
-thirstier you are and reclines his head upon the window-sill in a
+Smallweed’s consideration the [[Paradox|paradox]] that the more you drink the
+thirstier you are and reclines his head upon the [[Window|window]]-sill in a
 state of hopeless languor.
 
-While thus looking out into the shade of Old Square, Lincoln’s Inn,
+While thus looking out into the shade of Old Square, [[Lincoln]]’s Inn,
 surveying the intolerable bricks and mortar, Mr. Guppy becomes
 conscious of a manly whisker emerging from the cloistered walk below
-and turning itself up in the direction of his face. At the same time,
+and turning itself up in the direction of his face. At the same [[Time|time]],
 a low whistle is wafted through the Inn and a suppressed voice cries,
 “Hip! Gup-py!”
 
 “Why, you don’t mean it!” says Mr. Guppy, aroused. “Small! Here’s
-Jobling!” Small’s head looks out of window too and nods to Jobling.
+Jobling!” Small’s head looks out of [[Window|window]] too and nods to Jobling.
 
 “Where have you sprung up from?” inquires Mr. Guppy.
 
 “From the market-gardens down by Deptford. I can’t stand it any
-longer. I must enlist. I say! I wish you’d lend me half a crown. Upon
-my soul, I’m hungry.”
+longer. I must enlist. I say! I wish you’d lend me half a [[Crown|crown]]. Upon
+my [[Soul|soul]], I’m hungry.”
 
 Jobling looks hungry and also has the appearance of having run to
 seed in the market-gardens down by Deptford.
 
-“I say! Just throw out half a crown if you have got one to spare. I
+“I say! Just throw out half a [[Crown|crown]] if you have got one to spare. I
 want to get some dinner.”
 
 “Will you come and dine with me?” says Mr. Guppy, throwing out the
@@ -132,7 +132,7 @@ him from the landing as a precaution against his becoming disgusted
 with waiting and making an untimely departure. At last the enemy
 retreats, and then Smallweed fetches Mr. Jobling up.
 
-“Well, and how are you?” says Mr. Guppy, shaking hands with him.
+“[[Well]], and how are you?” says Mr. Guppy, shaking hands with him.
 
 “So, so. How are you?”
 
@@ -153,7 +153,7 @@ he inserts in the letter-box, and then putting on the tall hat at the
 angle of inclination at which Mr. Guppy wears his, informs his patron
 that they may now make themselves scarce.
 
-Accordingly they betake themselves to a neighbouring dining-house, of
+Accordingly they betake themselves to a neighbouring dining-[[house]], of
 the class known among its frequenters by the denomination slap-bang,
 where the waitress, a bouncing young female of forty, is supposed to
 have made some impression on the susceptible Smallweed, of whom it
@@ -170,7 +170,7 @@ that his father was John Doe and his mother the only female member of
 the Roe family, also that his first long-clothes were made from a
 blue bag.
 
-Into the dining-house, unaffected by the seductive show in the window
+Into the dining-[[house]], unaffected by the seductive show in the [[Window|window]]
 of artificially whitened cauliflowers and poultry, verdant baskets of
 peas, coolly blooming cucumbers, and joints ready for the spit, Mr.
 Smallweed leads the way. They know him there and defer to him. He has
@@ -193,7 +193,7 @@ Babel but what is really a pile of plates and flat tin dish-covers.
 Mr. Smallweed, approving of what is set before him, conveys
 intelligent benignity into his ancient eye and winks upon her. Then,
 amid a constant coming in, and going out, and running about, and a
-clatter of crockery, and a rumbling up and down of the machine which
+clatter of crockery, and a rumbling up and down of the [[Machine|machine]] which
 brings the nice cuts from the kitchen, and a shrill crying for more
 nice cuts down the speaking-pipe, and a shrill reckoning of the cost
 of nice cuts that have been disposed of, and a general flush and
@@ -204,14 +204,14 @@ legal triumvirate appease their appetites.
 
 Mr. Jobling is buttoned up closer than mere adornment might require.
 His hat presents at the rims a peculiar appearance of a glistening
-nature, as if it had been a favourite snail-promenade. The same
+[[Nature|nature]], as if it had been a favourite snail-promenade. The same
 phenomenon is visible on some parts of his coat, and particularly at
 the seams. He has the faded appearance of a gentleman in embarrassed
 circumstances; even his light whiskers droop with something of a
 shabby air.
 
 His appetite is so vigorous that it suggests spare living for some
-little time back. He makes such a speedy end of his plate of veal and
+little [[Time|time]] back. He makes such a speedy end of his plate of veal and
 ham, bringing it to a close while his companions are yet midway in
 theirs, that Mr. Guppy proposes another. “Thank you, Guppy,” says Mr.
 Jobling, “I really don’t know but what I WILL take another.”
@@ -224,12 +224,12 @@ his pint pot of half-and-half (also renewed) and stretches out his
 legs and rubs his hands. Beholding him in which glow of contentment,
 Mr. Guppy says, “You are a man again, Tony!”
 
-“Well, not quite yet,” says Mr. Jobling. “Say, just born.”
+“[[Well]], not quite yet,” says Mr. Jobling. “Say, just born.”
 
-“Will you take any other vegetables? Grass? Peas? Summer cabbage?”
+“Will you take any other vegetables? Grass? Peas? [[Summer]] cabbage?”
 
 “Thank you, Guppy,” says Mr. Jobling. “I really don’t know but what I
-WILL take summer cabbage.”
+WILL take [[Summer|summer]] cabbage.”
 
 Order given; with the sarcastic addition (from Mr. Smallweed) of
 “Without slugs, Polly!” And cabbage produced.
@@ -256,7 +256,7 @@ you? Thank you, Mr. Guppy, I don’t know but what I WILL take a marrow
 pudding.”
 
 Three marrow puddings being produced, Mr. Jobling adds in a pleasant
-humour that he is coming of age fast. To these succeed, by command of
+[[Humour|humour]] that he is coming of age fast. To these succeed, by command of
 Mr. Smallweed, “three Cheshires,” and to those “three small rums.”
 This apex of the entertainment happily reached, Mr. Jobling puts up
 his legs on the carpeted seat (having his own side of the box to
@@ -286,15 +286,15 @@ Mr. Smallweed is decidedly of opinion “much more so.”
 
 “If any man had told me,” pursues Jobling, “even so lately as when
 you and I had the frisk down in Lincolnshire, Guppy, and drove over
-to see that house at Castle Wold—”
+to see that [[house]] at [[Castle]] Wold—”
 
 Mr. Smallweed corrects him—Chesney Wold.
 
 “Chesney Wold. (I thank my honourable friend for that cheer.) If any
-man had told me then that I should be as hard up at the present time
-as I literally find myself, I should have—well, I should have
-pitched into him,” says Mr. Jobling, taking a little rum-and-water
-with an air of desperate resignation; “I should have let fly at his
+man had told me then that I should be as hard up at the present [[Time|time]]
+as I literally find myself, I should have—[[Well|well]], I should have
+pitched into him,” says Mr. Jobling, taking a little rum-and-[[Water|water]]
+with an air of desperate [[Resignation|resignation]]; “I should have let fly at his
 head.”
 
 “Still, Tony, you were on the wrong side of the post then,”
@@ -318,14 +318,14 @@ new professional connexion too, for if I was to give a reference
 to-morrow, it would be mentioned and would sew me up. Then what’s a
 fellow to do? I have been keeping out of the way and living cheap
 down about the market-gardens, but what’s the use of living cheap
-when you have got no money? You might as well live dear.”
+when you have got no money? You might as [[Well|well]] live dear.”
 
 “Better,” Mr. Smallweed thinks.
 
 “Certainly. It’s the fashionable way; and fashion and whiskers have
 been my weaknesses, and I don’t care who knows it,” says Mr. Jobling.
-“They are great weaknesses—Damme, sir, they are great. Well,”
-proceeds Mr. Jobling after a defiant visit to his rum-and-water,
+“They are great weaknesses—Damme, sir, they are great. [[Well]],”
+proceeds Mr. Jobling after a defiant visit to his rum-and-[[Water|water]],
 “what can a fellow do, I ask you, BUT enlist?”
 
 Mr. Guppy comes more fully into the conversation to state what, in
@@ -353,11 +353,11 @@ of proposing. You know Snagsby the stationer?”
 ours, and I am not acquainted with him.”
 
 “He IS ours, Jobling, and I AM acquainted with him,” Mr. Guppy
-retorts. “Well, sir! I have lately become better acquainted with him
+retorts. “[[Well]], sir! I have lately become better acquainted with him
 through some accidental circumstances that have made me a visitor of
 his in private life. Those circumstances it is not necessary to offer
 in argument. They may—or they may not—have some reference to a
-subject which may—or may not—have cast its shadow on my existence.”
+subject which may—or may not—have cast its [[Shadow|shadow]] on my existence.”
 
 As it is Mr. Guppy’s perplexing way with boastful misery to tempt his
 particular friends into this subject, and the moment they touch it,
@@ -377,7 +377,7 @@ Mr. Smallweed nods and appears greedy to be sworn.
 “Now, gentlemen of the jury,” says Mr. Guppy, “—I mean, now,
 Jobling—you may say this is a poor prospect of a living. Granted.
 But it’s better than nothing, and better than enlistment. You want
-time. There must be time for these late affairs to blow over. You
+[[Time|time]]. There must be [[Time|time]] for these late affairs to blow over. You
 might live through it on much worse terms than by writing for
 Snagsby.”
 
@@ -387,24 +387,24 @@ him with a dry cough and the words, “Hem! Shakspeare!”
 “There are two branches to this subject, Jobling,” says Mr. Guppy.
 “That is the first. I come to the second. You know Krook, the
 Chancellor, across the lane. Come, Jobling,” says Mr. Guppy in his
-encouraging cross-examination-tone, “I think you know Krook, the
+encouraging [[Cross|cross]]-examination-tone, “I think you know Krook, the
 Chancellor, across the lane?”
 
 “I know him by sight,” says Mr. Jobling.
 
-“You know him by sight. Very well. And you know little Flite?”
+“You know him by sight. Very [[Well|well]]. And you know little Flite?”
 
 “Everybody knows her,” says Mr. Jobling.
 
-“Everybody knows her. VERY well. Now it has been one of my duties of
+“Everybody knows her. VERY [[Well|well]]. Now it has been one of my duties of
 late to pay Flite a certain weekly allowance, deducting from it the
 amount of her weekly rent, which I have paid (in consequence of
 instructions I have received) to Krook himself, regularly in her
 presence. This has brought me into communication with Krook and into
-a knowledge of his house and his habits. I know he has a room to let.
+a knowledge of his [[house]] and his habits. I know he has a room to let.
 You may live there at a very low charge under any name you like, as
 quietly as if you were a hundred miles off. He’ll ask no questions
-and would accept you as a tenant at a word from me—before the clock
+and would accept you as a tenant at a word from me—before the [[Clock|clock]]
 strikes, if you chose. And I tell you another thing, Jobling,” says
 Mr. Guppy, who has suddenly lowered his voice and become familiar
 again, “he’s an extraordinary old chap—always rummaging among a
@@ -426,7 +426,7 @@ Mr. Smallweed bears the concise testimony, “A few!”
 Tony,” says Mr. Guppy, “and it’s seldom I can’t make a man out, more
 or less. But such an old card as this, so deep, so sly, and secret
 (though I don’t believe he is ever sober), I never came across. Now,
-he must be precious old, you know, and he has not a soul about him,
+he must be precious old, you know, and he has not a [[Soul|soul]] about him,
 and he is reported to be immensely rich; and whether he is a
 smuggler, or a receiver, or an unlicensed pawnbroker, or a
 money-lender—all of which I have thought likely at different
@@ -436,13 +436,13 @@ suits.”
 
 Mr. Jobling, Mr. Guppy, and Mr. Smallweed all lean their elbows on
 the table and their chins upon their hands, and look at the ceiling.
-After a time, they all drink, slowly lean back, put their hands in
+After a [[Time|time]], they all drink, slowly lean back, put their hands in
 their pockets, and look at one another.
 
 “If I had the energy I once possessed, Tony!” says Mr. Guppy with a
 sigh. “But there are chords in the human mind—”
 
-Expressing the remainder of the desolate sentiment in rum-and-water,
+Expressing the remainder of the desolate sentiment in rum-and-[[Water|water]],
 Mr. Guppy concludes by resigning the adventure to Tony Jobling and
 informing him that during the vacation and while things are slack,
 his purse, “as far as three or four or even five pound goes,” will be
@@ -464,9 +464,9 @@ way.
 
 “Did he though!” says Mr. Jobling.
 
-“There was a verdict. Accidental death. You don’t mind that?”
+“There was a verdict. Accidental [[Death|death]]. You don’t mind that?”
 
-“No,” says Mr. Jobling, “I don’t mind it; but he might as well have
+“No,” says Mr. Jobling, “I don’t mind it; but he might as [[Well|well]] have
 died somewhere else. It’s devilish odd that he need go and die at MY
 place!” Mr. Jobling quite resents this liberty, several times
 returning to it with such remarks as, “There are places enough to die
@@ -474,20 +474,20 @@ in, I should think!” or, “He wouldn’t have liked my dying at HIS
 place, I dare say!”
 
 However, the compact being virtually made, Mr. Guppy proposes to
-dispatch the trusty Smallweed to ascertain if Mr. Krook is at home,
+dispatch the trusty Smallweed to ascertain if Mr. Krook is at [[Home|home]],
 as in that case they may complete the negotiation without delay. Mr.
 Jobling approving, Smallweed puts himself under the tall hat and
 conveys it out of the dining-rooms in the Guppy manner. He soon
-returns with the intelligence that Mr. Krook is at home and that he
+returns with the intelligence that Mr. Krook is at [[Home|home]] and that he
 has seen him through the shop-door, sitting in the back premises,
-sleeping “like one o’clock.”
+sleeping “like one o’[[Clock|clock]].”
 
 “Then I’ll pay,” says Mr. Guppy, “and we’ll go and see him. Small,
 what will it be?”
 
 Mr. Smallweed, compelling the attendance of the waitress with one
 hitch of his eyelash, instantly replies as follows: “Four veals and
-hams is three, and four potatoes is three and four, and one summer
+hams is three, and four potatoes is three and four, and one [[Summer|summer]]
 cabbage is three and six, and three marrows is four and six, and six
 breads is five, and three Cheshires is five and three, and four
 half-pints of half-and-half is six and three, and four small rums is
@@ -499,11 +499,11 @@ dismisses his friends with a cool nod and remains behind to take a
 little admiring notice of Polly, as opportunity may serve, and to
 read the daily papers, which are so very large in proportion to
 himself, shorn of his hat, that when he holds up the Times to run his
-eye over the columns, he seems to have retired for the night and to
+eye over the columns, he seems to have retired for the [[Night|night]] and to
 have disappeared under the bedclothes.
 
 Mr. Guppy and Mr. Jobling repair to the rag and bottle shop, where
-they find Krook still sleeping like one o’clock, that is to say,
+they find Krook still sleeping like one o’[[Clock|clock]], that is to say,
 breathing stertorously with his chin upon his breast and quite
 insensible to any external sounds or even to gentle shaking. On the
 table beside him, among the usual lumber, stand an empty gin-bottle
@@ -516,10 +516,10 @@ man another shake. “Mr. Krook! Halloa, sir!”
 
 But it would seem as easy to wake a bundle of old clothes with a
 spirituous heat smouldering in it. “Did you ever see such a stupor as
-he falls into, between drink and sleep?” says Mr. Guppy.
+he falls into, between drink and [[Sleep|sleep]]?” says Mr. Guppy.
 
-“If this is his regular sleep,” returns Jobling, rather alarmed,
-“it’ll last a long time one of these days, I am thinking.”
+“If this is his regular [[Sleep|sleep]],” returns Jobling, rather alarmed,
+“it’ll last a long [[Time|time]] one of these days, I am thinking.”
 
 “It’s always more like a fit than a nap,” says Mr. Guppy, shaking him
 again. “Halloa, your lordship! Why, he might be robbed fifty times
@@ -539,14 +539,14 @@ consciousness. After some minutes he makes an attempt to rise. They
 help him up, and he staggers against the wall and stares at them.
 
 “How do you do, Mr. Krook?” says Mr. Guppy in some discomfiture. “How
-do you do, sir? You are looking charming, Mr. Krook. I hope you are
-pretty well?”
+do you do, sir? You are looking charming, Mr. Krook. I [[Hope|hope]] you are
+pretty [[Well|well]]?”
 
 The old man, in aiming a purposeless blow at Mr. Guppy, or at
 nothing, feebly swings himself round and comes with his face against
 the wall. So he remains for a minute or two, heaped up against it,
 and then staggers down the shop to the front door. The air, the
-movement in the court, the lapse of time, or the combination of these
+movement in the [[Court|court]], the lapse of [[Time|time]], or the combination of these
 things recovers him. He comes back pretty steadily, adjusting his fur
 cap on his head and looking keenly at them.
 
@@ -591,11 +591,11 @@ of the land.”
 Taking advantage of this auspicious moment, Mr. Guppy presents his
 friend under the impromptu name of Mr. Weevle and states the object
 of their visit. Krook, with his bottle under his arm (he never gets
-beyond a certain point of either drunkenness or sobriety), takes time
+beyond a certain point of either drunkenness or sobriety), takes [[Time|time]]
 to survey his proposed lodger and seems to approve of him. “You’d
 like to see the room, young man?” he says. “Ah! It’s a good room!
 Been whitewashed. Been cleaned down with soft soap and soda. Hi! It’s
-worth twice the rent, letting alone my company when you want it and
+worth twice the rent, letting [[Alone|alone]] my company when you want it and
 such a cat to keep the mice away.”
 
 Commending the room after this manner, the old man takes them
@@ -606,7 +606,7 @@ the Lord Chancellor cannot be hard on Mr. Guppy, associated as he is
 with Kenge and Carboy, Jarndyce and Jarndyce, and other famous claims
 on his professional consideration—and it is agreed that Mr. Weevle
 shall take possession on the morrow. Mr. Weevle and Mr. Guppy then
-repair to Cook’s Court, Cursitor Street, where the personal
+repair to Cook’s [[Court]], Cursitor Street, where the personal
 introduction of the former to Mr. Snagsby is effected and (more
 important) the vote and interest of Mrs. Snagsby are secured. They
 then report progress to the eminent Smallweed, waiting at the office
@@ -618,10 +618,10 @@ render it a hollow mockery.
 On the morrow, in the dusk of evening, Mr. Weevle modestly appears at
 Krook’s, by no means incommoded with luggage, and establishes himself
 in his new lodging, where the two eyes in the shutters stare at him
-in his sleep, as if they were full of wonder. On the following day
+in his [[Sleep|sleep]], as if they were full of [[Wonder|wonder]]. On the following day
 Mr. Weevle, who is a handy good-for-nothing kind of young fellow,
 borrows a needle and thread of Miss Flite and a hammer of his
-landlord and goes to work devising apologies for window-curtains, and
+landlord and goes to work devising apologies for [[Window|window]]-curtains, and
 knocking up apologies for shelves, and hanging up his two teacups,
 milkpot, and crockery sundries on a pennyworth of little hooks, like
 a shipwrecked sailor making the best of it.
@@ -630,12 +630,12 @@ But what Mr. Weevle prizes most of all his few possessions (next
 after his light whiskers, for which he has an attachment that only
 whiskers can awaken in the breast of man) is a choice collection of
 copper-plate impressions from that truly national work The Divinities
-of Albion, or Galaxy Gallery of British Beauty, representing ladies
+of Albion, or Galaxy Gallery of British [[Beauty]], representing ladies
 of title and fashion in every variety of smirk that art, combined
 with capital, is capable of producing. With these magnificent
 portraits, unworthily confined in a band-box during his seclusion
 among the market-gardens, he decorates his apartment; and as the
-Galaxy Gallery of British Beauty wears every variety of fancy dress,
+Galaxy Gallery of British [[Beauty]] wears every variety of fancy dress,
 plays every variety of musical instrument, fondles every variety of
 dog, ogles every variety of prospect, and is backed up by every
 variety of flower-pot and balustrade, the result is very imposing.
@@ -648,7 +648,7 @@ consolation to him. To know what member of what brilliant and
 distinguished circle accomplished the brilliant and distinguished
 feat of joining it yesterday or contemplates the no less brilliant
 and distinguished feat of leaving it to-morrow gives him a thrill of
-joy. To be informed what the Galaxy Gallery of British Beauty is
+joy. To be informed what the Galaxy Gallery of British [[Beauty]] is
 about, and means to be about, and what Galaxy marriages are on the
 tapis, and what Galaxy rumours are in circulation, is to become
 acquainted with the most glorious destinies of mankind. Mr. Weevle
@@ -656,15 +656,15 @@ reverts from this intelligence to the Galaxy portraits implicated,
 and seems to know the originals, and to be known of them.
 
 For the rest he is a quiet lodger, full of handy shifts and devices
-as before mentioned, able to cook and clean for himself as well as to
+as before mentioned, able to cook and clean for himself as [[Well|well]] as to
 carpenter, and developing social inclinations after the shades of
-evening have fallen on the court. At those times, when he is not
+evening have fallen on the [[Court|court]]. At those times, when he is not
 visited by Mr. Guppy or by a small light in his likeness quenched in
 a dark hat, he comes out of his dull room—where he has inherited the
 deal wilderness of desk bespattered with a rain of ink—and talks to
-Krook or is “very free,” as they call it in the court, commendingly,
+Krook or is “very free,” as they call it in the [[Court|court]], commendingly,
 with any one disposed for conversation. Wherefore, Mrs. Piper, who
-leads the court, is impelled to offer two remarks to Mrs. Perkins:
+leads the [[Court|court]], is impelled to offer two remarks to Mrs. Perkins:
 firstly, that if her Johnny was to have whiskers, she could wish ’em
 to be identically like that young man’s; and secondly, “Mark my
 words, Mrs. Perkins, ma’am, and don’t you be surprised, Lord bless

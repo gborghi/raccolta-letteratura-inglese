@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 7 (part 3)"
+title: "[[GKC-Autobiography]] — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -15,10 +15,10 @@ tags:
 
 
 Anyhow, it was when I was staying with Conrad Noel, afterwards famous
-as the parson who flew the Red Flag from his church at Thaxted in Essex,
+as the parson who flew the Red [[Flag]] from his church at Thaxted in Essex,
 that I happened to be dressing for dinner and made the (it seems to me)
 very excusable error of mistaking his black clerical trousers for
-my evening ones.  I trust I violated no grave ecclesiastical law,
+my evening ones.  I trust I violated no [[Grave|grave]] ecclesiastical law,
 relative to the unlawful assumption of priestly vestments;
 but Conrad Noel himself was always fairly casual in the matter
 of costume.  The world thought him a very Bohemian sort of clergyman,
@@ -30,19 +30,19 @@ I did not always agree with his attitude, and I do not now altogether
 agree with his politics; but I have always known that he glowed
 with conviction and the simplicity of the fighting spirit.
 But in those days his external eccentricity was more provocative
-than is a red rag to a bull or a red flag to a bully.
+than is a red rag to a bull or a red [[Flag|flag]] to a bully.
 He delighted in making the quaintest combinations of costume
 made up of the clerical, the artistic and the proletarian.
 He took great pleasure in appearing in correct clerical clothes,
 surmounted with a sort of hairy or furry cap, making him look like
 an aesthetic rat-catcher. I had the pleasure of walking with him,
-thus attired, right across the vast stretch of South London,
+thus attired, right across the vast stretch of South [[London]],
 starting from Blackfriars Bridge and going on till we saw
 the green hills beyond Croydon; a very interesting expedition
-too rarely undertaken by those from the richer side of the river.
+too rarely undertaken by those from the richer side of the [[River|river]].
 I also remember one occasion when I was walking away from some
 meeting with him and with Dr. Percy Dearmer, then chiefly famous
-as an authority on the history of ritual and of vestments.
+as an authority on the [[history]] of ritual and of vestments.
 Dr. Dearmer was in the habit of walking about in a cassock and
 biretta which he had carefully reconstructed as being of exactly
 the right pattern for an Anglican or Anglo-Catholic priest;
@@ -57,7 +57,7 @@ Meanwhile my own costume, however calamitous, was the result rather
 of accident than design; but this was sometime later and my wife had
 already disguised me as far as possible in the large hat and cloak
 familiar to caricaturists.  But it was also at a sufficiently early date
-in English history for frock-coats to be worn on formal occasions.
+in English [[history]] for frock-coats to be worn on formal occasions.
 I had taken off the cloak and retained the frock-coat and the wide hat;
 and I must have borne a more or less formless resemblance
 to a Boer missionary.  Thus I walked innocently down the street,
@@ -83,8 +83,8 @@ part he played in my boyhood and youth; and the omission has been
 due to anything in the world except oblivion.  My brother was
 much too remarkable a person not to have a chapter to himself.
 And I have decided, not without thought, that he will be best
-presented at full length when the time comes to deal with his very
-vital effect on modern history, and the whole story of the campaign
+presented at full length when the [[Time|time]] comes to deal with his very
+vital effect on modern [[history]], and the whole story of the campaign
 against political corruption.  But it is relevant here to remark
 that he differed from me at the very beginning; and not least in
 beginning his questions at the beginning.  I always retained a sort
@@ -94,7 +94,7 @@ I believed in what some have called "the wish to believe."
 But my brother at the beginning did not even wish to believe;
 or at least did not wish to admit that he wished to believe.
 He adopted the extreme attitude of antagonism, and almost
-of anarchism; largely, no doubt, out of a reaction and as a
+of anarchism; largely, no [[Doubt|doubt]], out of a reaction and as a
 result of our interminable arguments, or rather argument.
 For we really devoted all our boyhood to one long argument,
 unfortunately interrupted by meal-times, by school-times,

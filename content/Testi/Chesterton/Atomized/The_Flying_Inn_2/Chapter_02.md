@@ -26,7 +26,7 @@ rather listlessly along the parade of Pebblewick-on-Sea,
 trailing a parasol and looking out upon the
 sea's horizon.  She had a reason for looking instinctively
 out at the sea-line; a reason that many young
-women have had in the history of the world.  But
+women have had in the [[history]] of the world.  But
 there was no sail in sight.
 
 On the beach below the parade were a succession
@@ -34,10 +34,10 @@ of small crowds, surrounding the usual orators of the
 seaside; whether niggers or socialists, whether clowns
 or clergymen.  Here would stand a man doing something
 or other with paper boxes; and the holiday
-makers would watch him for hours in the hope of
-some time knowing what it was that he was doing with
+makers would watch him for hours in the [[Hope|hope]] of
+some [[Time|time]] knowing what it was that he was doing with
 them.  Next to him would be a man in a top hat with
-a very big Bible and a very small wife, who stood
+a very big [[Bible]] and a very small wife, who stood
 silently beside him, while he fought with his clenched
 fist against the heresy of Milnian Sublapsarianism so
 wide-spread in fashionable watering-places.  It was
@@ -50,14 +50,14 @@ favour mainly on having a ring of carrots round
 his hat.  He had more money lying in front of him
 than the others.  Next were niggers.  Next was a
 children's service conducted by a man with a long neck
-who beat time with a little wooden spade.  Farther
+who beat [[Time|time]] with a little wooden spade.  Farther
 along there was an atheist, in a towering rage, who
 pointed every now and then at the children's service
-and spoke of Nature's fairest things being corrupted
-with the secrets of the Spanish Inquisition--by the
+and spoke of [[Nature]]'s fairest things being corrupted
+with the [[Secrets|secrets]] of the [[Spanish Inquisition]]--by the
 man with the little spade, of course.  The atheist (who
 wore a red rosette) was very withering to his own
-audience as well.  "Hypocrites!" he would say; and
+audience as [[Well|well]].  "Hypocrites!" he would say; and
 then they would throw him money.  "Dupes and
 dastards!" and then they would throw him more money.
 But between the atheist and the children's service was
@@ -69,7 +69,7 @@ we associate rather with Persia.  The young woman
 had never seen him before; he was a new exhibit in the
 now familiar museum of cranks and quacks.  The
 young woman was one of those people in whom a real
-sense of humour is always at issue with a certain
+sense of [[Humour|humour]] is always at issue with a certain
 temperamental tendency to boredom or melancholia;
 and she lingered a moment, and leaned on the rail to
 listen.
@@ -82,12 +82,12 @@ All the noises of that articulation were odd; the most
 marked was an extreme prolongation of the short
 "u" into "oo"; as in "poo-oot" for "put."  Gradually
 the girl got used to the dialect, and began to understand
-the words; though some time elapsed even then
+the words; though some [[Time|time]] elapsed even then
 before she could form any conjecture of their subject
 matter.  Eventually it appeared to her that he had
 some fad about English civilisation having been founded
 by the Turks; or, perhaps by the Saracens after their
-victory in the Crusades.  He also seemed to think that
+victory in the [[Crusades]].  He also seemed to think that
 Englishmen would soon return to this way of thinking;
 and seemed to be urging the spread of teetotalism
 as an evidence of it.  The girl was the only person
@@ -101,11 +101,11 @@ to sell ze alcoholic Christian drink.  They were
 put up to sell ze non-alcoholic Islamic drinks.  You can
 see this in the names of your inns.  They are eastern
 names, Asiatic names.  You have a famous public
-house to which your omnibuses go on the pilgrimage.
-It is called the Elephant and Castle.  That is not an
+[[house]] to which your omnibuses go on the pilgrimage.
+It is called the Elephant and [[Castle]].  That is not an
 English name.  It is an Asiatic name.  You will say
 there are castles in England, and I will agree with you.
-There is the Windsor Castle.  But where," he cried
+There is the Windsor [[Castle]].  But where," he cried
 sternly, shaking his green umbrella at the girl in an
 angry oratorical triumph, "where is the Windsor Elephant?
 I have searched all Windsor Park.  No elephants."
@@ -137,7 +137,7 @@ the word in his own way.  "Why should there be
 a Bull in connection with a festive locality?  Who
 thinks about a Bull in gardens of delight?  What need
 is there of a Bull when we watch the tulip-tinted
-maidens dance or pour the sparkling sherbert?  You
+maidens [[Dance|dance]] or pour the sparkling sherbert?  You
 yourselves, my friends?"  And he looked around
 radiantly, as if addressing an enormous mob.  "You
 yourselves have a proverb, 'It is not calculated to
@@ -150,12 +150,12 @@ He stuck his umbrella upright in the sand and struck
 one finger against another, like a man getting to business
 at last.
 
-"It iss as clear as the sun at noon," he said solemnly.
-"It iss as clear as the sun at noon that this word Bull,
+"It iss as clear as the sun at [[Noon|noon]]," he said solemnly.
+"It iss as clear as the sun at [[Noon|noon]] that this word Bull,
 which is devoid of restful and pleasurable associations,
 is but the corruption of another word, which possesses
 restful and pleasurable associations.  The word is not
-Bull; it is the Bul-Bul!"  His voice rose suddenly like
+Bull; it is the Bul-Bul!"  His voice [[Rose|rose]] suddenly like
 a trumpet and he spread abroad his hands like the fans
 of a tropic palm-tree.
 
@@ -182,7 +182,7 @@ little Ireland.  I will have a little Scotland.  I will have
 a little Spain?'  No--o."  And the noise of the negative
 seemed to waggle as does the bleating of a sheep.
 "You say, 'I will have a little Turkey,' which is your
-name for the Country of the Servant of the Prophet!"
+name for the Country of the Servant of the [[Prophet]]!"
 
 And once more he stretched out his arms sublimely
 to the east and west and appealed to earth and heaven.
@@ -200,36 +200,36 @@ littlest bit!"
 "In reply to this you will object--" proceeded her
 preceptor, "that some inns are actually named after the
 symbols of your national superstitions.  You will hasten
-to point out to me that the Golden Cross is situated
-opposite Charing Cross, and you will expatiate at
-length on King's Cross, Gerrard's Cross and the many
-crosses that are to be found in or near London.  But
+to point out to me that the Golden [[Cross]] is situated
+opposite Charing [[Cross]], and you will expatiate at
+length on [[King]]'s [[Cross]], Gerrard's [[Cross]] and the many
+crosses that are to be found in or near [[London]].  But
 you must not forget," and here he wagged his green
 umbrella roguishly at the girl, as if he was going to
 poke her with it, "none of you, my friends, must
 forget what a large number of Crescents there are
-in London!  Denmark Crescent; Mornington Crescent!
+in [[London]]!  [[Denmark]] Crescent; Mornington Crescent!
 St. Mark's Crescent!  St. George's Crescent!
 Grosvenor Crescent!  Regent's Park Crescent!  Nay,
 Royal Crescent!  And why should we forget Pelham
 Crescent?  Why, indeed?  Everywhere, I say, homage
-paid to the holy symbol of the religion of the Prophet!
+paid to the holy symbol of the religion of the [[Prophet]]!
 Compare with this network and pattern of crescents,
-this city almost consisting of crescents, the meagre
-array of crosses, which remain to attest the ephemeral
+this [[City|city]] almost consisting of crescents, the meagre
+array of crosses, which remain to attest the [[ephemeral]]
 superstition to which you were, for one weak moment,
 inclined."
 
 The crowds on the beach were rapidly thinning as
-tea-time drew nearer.  The west grew clearer and
+tea-[[Time|time]] drew nearer.  The west grew clearer and
 clearer with the evening, till the sunshine seemed to
 have got behind the pale green sea and be shining
 through, as through a wall of thin green glass.  The
 very transparency of sky and sea might have to this
-girl, for whom the sea was the romance and the tragedy,
+girl, for whom the sea was the [[Romance|romance]] and the [[Tragedy|tragedy]],
 the hint of a sort of radiant hopelessness.  The
 flood made of a million emeralds was ebbing as slowly
-as the sun was sinking: but the river of human nonsense
+as the sun was sinking: but the [[River|river]] of human nonsense
 flowed on for ever.
 
 "I will not for one moment maintain," said the old
@@ -237,21 +237,21 @@ gentleman, "that there are no difficulties in my case;
 or that all the examples are as obviously true as those
 that I have just demonstrated.  No-o.  It is obvious,
 let us say, that the 'Saracen's Head' is a corruption of
-the historic truth 'The Saracen is Ahead'--I am far
+the historic [[Truth|truth]] 'The Saracen is Ahead'--I am far
 from saying it is equally obvious that the 'Green Dragon'
 was originally 'the Agreeing Dragoman'; though
-I hope to prove in my book that it is so.  I will only
+I [[Hope|hope]] to prove in my book that it is so.  I will only
 say here that it is su-urely more probable that one
 poo-ooting himself forward to attract the wayfarer
-in the desert, would compare himself to a friendly
+in the [[Desert|desert]], would compare himself to a friendly
 and persuadable guide or courier, rather than to a
-voracious monster.  Sometimes the true origin is very
+voracious [[Monster|monster]].  Sometimes the true origin is very
 hard to trace; as in the inn that commemorates our
 great Moslem Warrior, Amir Ali Ben Bhoze, whom
 you have so quaintly abbreviated into Admiral Benbow.
 Sometimes it is even more difficult for the seeker
-after truth.  There is a place of drink near to here
-called 'The Old Ship'--"
+after [[Truth|truth]].  There is a place of drink near to here
+called 'The Old [[Ship]]'--"
 
 The eyes of the girl remained on the ring of the
 horizon as rigid as the ring itself; but her whole face
@@ -261,21 +261,21 @@ his God; and those who had hoped to know what was
 being done to the paper boxes had gone away to their
 tea without knowing it.  But the young woman still
 leaned on the railing.  Her face was suddenly alive;
-and it looked as if her body could not move.
+and it looked as if her [[Body|body]] could not move.
 
 "It shood be admitted--" bleated the old man with
 the green umbrella, "that there is no literally
-self-evident trace of the Asiatic nomenclature in the words
-'the old ship.'  But even here the see-eeker after Truth
+[[Self|self]]-evident trace of the Asiatic nomenclature in the words
+'the old [[Ship|ship]].'  But even here the see-eeker after [[Truth]]
 can poot himself in touch with facts.  I questioned
-the proprietor of 'The Old Ship' who is, according to
+the proprietor of 'The Old [[Ship]]' who is, according to
 such notes as I have kept, a Mr. Pumph."
 
 The girl's lip trembled.
 
 "Poor old Hump!" she said.  "Why, I'd forgotten
 about him.  He must be very nearly as worried as I
-am!  I hope this man won't be too silly about this!
+am!  I [[Hope|hope]] this man won't be too silly about this!
 I'd rather it weren't about this!"
 
 "And Mr. Pumph to-old me the inn was named by
@@ -284,12 +284,12 @@ been a Captain in the Britannic Royal Navy, but had
 resigned his po-ost in anger at the treatment of
 Ireland.  Though quitting the service, he retained joost
 enough of the superstition of your western sailors, to
-wish his friend's inn to be named after his old ship.
-But as the name of the ship was 'The United Kingdom--'"
+wish his friend's inn to be named after his old [[Ship|ship]].
+But as the name of the [[Ship|ship]] was 'The United Kingdom--'"
 
 His female pupil, if she could not exactly be said
 to be sitting at his feet, was undoubtedly leaning out
-very eagerly above his head.  Amid the solitude of
+very eagerly above his head.  Amid the [[Solitude|solitude]] of
 the sands she called out in a loud and clear voice, "Can
 you tell me the Captain's name?"
 
@@ -297,11 +297,11 @@ The old gentleman jumped, blinked and stared like
 a startled owl.  Having been talking for hours as if
 he had an audience of thousands, he seemed suddenly
 very much embarrassed to find that he had even an
-audience of one.  By this time they seemed to be almost
+audience of one.  By this [[Time|time]] they seemed to be almost
 the only human creatures along the shore; almost
 the only living creatures, except the seagulls.  The sun,
-in dropping finally, seemed to have broken as a blood
-orange might break; and lines of blood-red light were
+in dropping finally, seemed to have broken as a [[Blood|blood]]
+orange might break; and lines of [[Blood|blood]]-red light were
 spilt along the split, low, level skies.  This abrupt and
 belated brilliance took all the colour out of the man's
 red cap and green umbrella; but his dark figure, distinct
@@ -311,15 +311,15 @@ save that it was more agitated than before.
 "The name," he said, "the Captain's name.  I--I
 understood it was Dalroy.  But what I wish to indicate,
 what I wish to expound, is that here again the
-seeker after truth can find the connection of his ideas.
+seeker after [[Truth|truth]] can find the connection of his ideas.
 It was explained to me by Mr. Pumph that he was
 rearranging the place of festivity, in no inconsiderable
 proportion because of the anticipated return of
 the Captain in question, who had, as it appeared, taken
 service in some not very large Navy, but had left it
-and was coming home.  Now, mark all of you, my
+and was coming [[Home|home]].  Now, mark all of you, my
 friends," he said to the seagulls "that even here the
-chain of logic holds."
+chain of [[logic]] holds."
 
 He said it to the seagulls because the young lady,
 after staring at him with starry eyes for a moment and
@@ -332,14 +332,14 @@ continuous sound of a soliloquy.
 
 "Mark, all of you," continued the man flourishing
 his green umbrella so furiously that it almost flew
-open like a green flag unfurled, and then striking it
+open like a green [[Flag|flag]] unfurled, and then striking it
 deep in the sand, in the sand in which his fighting
 fathers had so often struck their tents, "mark all of
 you this marvellous fact!  That when, being for a
-time, for a time, astonished-embarrassed--brought
+[[Time|time]], for a [[Time|time]], astonished-embarrassed--brought
 up as you would say short--by the absence of any
 absolute evidence of Eastern influence in the phrase
-'the old ship,' I inquired from what country the Captain
+'the old [[Ship|ship]],' I inquired from what country the Captain
 was returning, Mr. Pumph said to me in solemnity,
 'From Turkey.'  From Turkey!  From the nearest
 country of the Religion!  I know men say it is not
@@ -347,14 +347,14 @@ our country; that no man knows where we come from,
 of what is our country.  What does it matter where
 we come from if we carry a message from Paradise?
 With a great galloping of horses we carry it, and have
-no time to stop in places.  But what we bring is the
+no [[Time|time]] to stop in places.  But what we bring is the
 only creed that has regarded what you will call in
 your great words the virginity of a man's reason, that
-has put no man higher than a prophet, and has
-respected the solitude of God."
+has put no man higher than a [[Prophet|prophet]], and has
+respected the [[Solitude|solitude]] of God."
 
 And again he spread his arms out, as if addressing
-a mass meeting of millions, all alone on the dark
+a mass meeting of millions, all [[Alone|alone]] on the dark
 seashore.
 
 * * *

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 20 (part 3)"
+title: "[[Shirley]] — Chapter 20 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -36,25 +36,25 @@ your neighbours' expense. Come, friends," she added, changing at once
 
 from bluntness to courtesy, "oblige me by taking your cans and going
 
-home. I expect several persons to call to-day, and it will be
+[[Home|home]]. I expect several persons to call to-day, and it will be
 
-inconvenient to have the avenues to the house crowded."
+inconvenient to have the avenues to the [[house]] crowded."
 
 
 
-Yorkshire people are as yielding to persuasion as they are stubborn
+Yorkshire people are as yielding to [[Persuasion|persuasion]] as they are stubborn
 
 against compulsion. The yard was clear in five minutes.
 
 
 
-"Thank you, and good-bye to you, friends," said Shirley, as she closed
+"Thank you, and good-bye to you, friends," said [[Shirley]], as she closed
 
-the gates on a quiet court.
+the gates on a quiet [[Court|court]].
 
 
 
-Now, let me hear the most refined of cockneys presume to find fault with
+Now, let me hear the most refined of [[cockneys]] presume to find fault with
 
 Yorkshire manners. Taken as they ought to be, the majority of the lads
 
@@ -62,7 +62,7 @@ and lasses of the West Riding are gentlemen and ladies, every inch of
 
 them. It is only against the weak affectation and futile pomposity of a
 
-would-be aristocrat they turn mutinous.
+would-be [[aristocrat]] they turn mutinous.
 
 
 
@@ -78,7 +78,7 @@ timid, blue eye was wandering, unsettled, alarmed. She did not, however,
 
 break out into any exclamations, or hurried narrative of what had
 
-happened. Her predominant feeling had been in the course of the night,
+happened. Her predominant feeling had been in the course of the [[Night|night]],
 
 and was now this morning, a sense of dissatisfaction with herself that
 
@@ -92,11 +92,11 @@ occasion.
 
 conscientious anxiety to avoid exaggeration in what she was about to
 
-say, "that a body of rioters has attacked Mr. Moore's mill to-night. We
+say, "that a [[Body|body]] of rioters has attacked Mr. Moore's mill to-[[Night|night]]. We
 
 heard the firing and confusion very plainly here; we none of us slept.
 
-It was a sad night. The house has been in great bustle all the morning
+It was a sad [[Night|night]]. The [[house]] has been in great bustle all the morning
 
 with people coming and going. The servants have applied to me for orders
 
@@ -108,15 +108,15 @@ others engaged in the defence, for some conveniences also for the
 
 wounded. I could not undertake the responsibility of giving orders or
 
-taking measures. I fear delay may have been injurious in some instances;
+taking measures. I [[Fear|fear]] delay may have been injurious in some instances;
 
-but this is not my house. You were absent, my dear Miss Keeldar. What
+but this is not my [[house]]. You were absent, my dear Miss Keeldar. What
 
 could I do?"
 
 
 
-"Were no refreshments sent?" asked Shirley, while her countenance,
+"Were no refreshments sent?" asked [[Shirley]], while her countenance,
 
 hitherto so clear, propitious, and quiet, even while she was rating the
 
@@ -140,7 +140,7 @@ supplies to soldiers. Provisions for a company of soldiers sounds
 
 formidable. How many there are I did not ask; but I could not think of
 
-allowing them to pillage the house, as it were. I intended to do what
+allowing them to pillage the [[house]], as it were. I intended to do what
 
 was right, yet I did not see the case quite clearly, I own."
 
@@ -168,11 +168,11 @@ from the one or to shake the flour from the other. Her mistress had
 
 never called a servant in that voice save once before, and that was when
 
-she had seen from the window Tartar in full tug with two carriers' dogs,
+she had seen from the [[Window|window]] Tartar in full tug with two carriers' [[dogs]],
 
-each of them a match for him in size, if not in courage, and their
+each of them a match for him in size, if not in [[Courage|courage]], and their
 
-masters standing by, encouraging their animals, while hers was
+masters standing by, encouraging their [[Animals|animals]], while hers was
 
 unbefriended. Then indeed she had summoned John as if the Day of
 
@@ -182,11 +182,11 @@ but had walked out into the lane bonnetless, and after informing the
 
 carriers that she held them far less of men than the three brutes
 
-whirling and worrying in the dust before them, had put her hands round
+whirling and worrying in the [[Dust|dust]] before them, had put her hands round
 
 the thick neck of the largest of the curs, and given her whole strength
 
-to the essay of choking it from Tartar's torn and bleeding eye, just
+to the [[Essay|essay]] of choking it from Tartar's torn and bleeding eye, just
 
 above and below which organ the vengeful fangs were inserted. Five or
 
@@ -196,7 +196,7 @@ one of them. "They might have come before if their will had been good,"
 
 she said. She had not a word for anybody during the rest of the day, but
 
-sat near the hall fire till evening watching and tending Tartar, who lay
+sat near the hall [[Fire|fire]] till evening watching and tending Tartar, who lay
 
 all gory, stiff, and swelled on a mat at her feet. She wept furtively
 
@@ -216,10 +216,10 @@ Mrs. Gill, remembering this little episode, came "all of a tremble," as
 
 she said herself. In a firm, brief voice Miss Keeldar proceeded to put
 
-questions and give orders. That at such a time Fieldhead should have
+questions and give orders. That at such a [[Time|time]] Fieldhead should have
 
 evinced the inhospitality of a miser's hovel stung her haughty spirit to
 
-the quick; and the revolt of its pride was seen in the heaving of her
+the quick; and the revolt of its [[Pride|pride]] was seen in the heaving of her
 
 heart, stirred stormily under the lace and silk which veiled it.

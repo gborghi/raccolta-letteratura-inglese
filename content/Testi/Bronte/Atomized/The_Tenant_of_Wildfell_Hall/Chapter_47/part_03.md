@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 47 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -16,13 +16,13 @@ tags:
 
 not help distinctly observing, “You would not say so if you knew me,”
 
-intending to follow that up with another declaration of my identity;
+intending to follow that up with another declaration of my [[Identity|identity]];
 
 but he merely muttered an incoherent reply, so I dropped it again, till
 
-some time after, when, as I was bathing his forehead and temples with
+some [[Time|time]] after, when, as I was bathing his forehead and temples with
 
-vinegar and water to relieve the heat and pain in his head, he
+vinegar and [[Water|water]] to relieve the heat and [[Pain|pain]] in his head, he
 
 observed, after looking earnestly upon me for some minutes, “I have
 
@@ -50,11 +50,11 @@ mania as this; it would kill me!”
 
 
 
-“It never will vanish,” said I, distinctly, “for it is the truth!”
+“It never will vanish,” said I, distinctly, “for it is the [[Truth|truth]]!”
 
 
 
-“The truth!” he cried, starting, as if an asp had stung him. “You don’t
+“The [[Truth|truth]]!” he cried, starting, as if an asp had stung him. “You don’t
 
 mean to say that you are really she?”
 
@@ -92,17 +92,17 @@ carefully as I shall do.”
 
 “I can’t understand it at all,” said he, in bewildered perplexity. “Was
 
-it a dream that—” and he covered his eyes with his hands, as if trying
+it [[A Dream|a dream]] that—” and he covered his eyes with his hands, as if trying
 
 to unravel the mystery.
 
 
 
-“No, Arthur, it was not a dream, that your conduct was such as to
+“No, [[arthur|Arthur]], it was not [[A Dream|a dream]], that your conduct was such as to
 
-oblige me to leave you; but I heard that you were ill and alone, and I
+oblige me to leave you; but I heard that you were ill and [[Alone|alone]], and I
 
-am come back to nurse you. You need not fear to trust me: tell me all
+am come back to [[Nurse|nurse]] you. You need not [[Fear|fear]] to trust me: tell me all
 
 your wants, and I will try to satisfy them. There is no one else to
 
@@ -112,7 +112,7 @@ care for you; and I shall not upbraid you now.”
 
 “Oh! I see,” said he, with a bitter smile; “it’s an act of Christian
 
-charity, whereby you hope to gain a higher seat in heaven for yourself,
+[[Charity|charity]], whereby you [[Hope|hope]] to gain a higher seat in heaven for yourself,
 
 and scoop a deeper pit in hell for me.”
 
@@ -120,7 +120,7 @@ and scoop a deeper pit in hell for me.”
 
 “No; I came to offer you that comfort and assistance your situation
 
-required; and if I could benefit your soul as well as your body, and
+required; and if I could benefit your [[Soul|soul]] as [[Well|well]] as your [[Body|body]], and
 
 awaken some sense of contrition and—”
 
@@ -128,11 +128,11 @@ awaken some sense of contrition and—”
 
 “Oh, yes; if you could overwhelm me with remorse and confusion of face,
 
-now’s the time. What have you done with my son?”
+now’s the [[Time|time]]. What have you done with my son?”
 
 
 
-“He is well, and you may see him some time, if you will compose
+“He is [[Well|well]], and you may see him some [[Time|time]], if you will compose
 
 yourself, but not now.”
 
@@ -196,7 +196,7 @@ Huntingdon to give upon a slip of paper, I deliberately read it over to
 
 him, and made him sign it in the presence of Rachel. He begged I would
 
-not insist upon this: it was a useless exposure of my want of faith in
+not insist upon this: it was a useless exposure of my want of [[Faith|faith]] in
 
 his word to the servant. I told him I was sorry, but since he had
 
@@ -212,7 +212,7 @@ he might write his name in the dark, if he only knew where to put it.
 
 But he had not power to form the letters. “In that case, you must be
 
-too ill to see the child,” said I; and finding me inexorable, he at
+too ill to see the [[Child|child]],” said I; and finding me inexorable, he at
 
 length managed to ratify the agreement; and I bade Rachel send the boy.
 
@@ -222,7 +222,7 @@ All this may strike you as harsh, but I felt I must not lose my present
 
 advantage, and my son’s future welfare should not be sacrificed to any
 
-mistaken tenderness for this man’s feelings. Little Arthur had not
+mistaken tenderness for this man’s feelings. Little [[arthur|Arthur]] had not
 
 forgotten his father, but thirteen months of absence, during which he
 
@@ -232,7 +232,7 @@ whisper his name, had rendered him somewhat shy; and when he was
 
 ushered into the darkened room where the sick man lay, so altered from
 
-his former self, with fiercely flushed face and wildly-gleaming eyes—he
+his former [[Self|self]], with fiercely flushed face and wildly-gleaming eyes—he
 
 instinctively clung to me, and stood looking on his father with a
 
@@ -240,9 +240,9 @@ countenance expressive of far more awe than pleasure.
 
 
 
-“Come here, Arthur,” said the latter, extending his hand towards him.
+“Come here, [[arthur|Arthur]],” said the latter, extending his hand towards him.
 
-The child went, and timidly touched that burning hand, but almost
+The [[Child|child]] went, and timidly touched that burning hand, but almost
 
 started in alarm, when his father suddenly clutched his arm and drew
 
@@ -280,6 +280,6 @@ darting a vindictive glance at me.
 
 
 
-Arthur, thus released, crept back to me and put his hand in mine. His
+[[arthur|Arthur]], thus released, crept back to me and put his hand in mine. His
 
-father swore I had made the child hate him, and abused and cursed me
+father swore I had made the [[Child|child]] hate him, and abused and cursed me

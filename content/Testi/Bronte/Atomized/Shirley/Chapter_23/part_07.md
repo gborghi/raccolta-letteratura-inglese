@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 23 (part 7)"
+title: "[[Shirley]] — Chapter 23 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,7 +28,7 @@ She descended in a subdued flutter. Yet more was she fluttered when
 
 Hortense seized her hand at the parlour door, and leading her to Robert,
 
-who stood in bodily presence, tall and dark against the one window,
+who stood in bodily presence, tall and dark against the one [[Window|window]],
 
 presented her with a mixture of agitation and formality, as though they
 
@@ -38,9 +38,9 @@ had been utter strangers, and this was their first mutual introduction.
 
 Increasing puzzle! He bowed rather awkwardly, and turning from her with
 
-a stranger's embarrassment, he met the doubtful light from the window.
+a stranger's embarrassment, he met the doubtful light from the [[Window|window]].
 
-It fell on his face, and the enigma of the dream (a dream it seemed)
+It fell on his face, and the enigma of the dream ([[A Dream|a dream]] it seemed)
 
 was at its height. She saw a visage like and unlike--Robert, and no
 
@@ -66,7 +66,7 @@ at once.
 
 
 
-"Well," said he, smiling at her questioning, astonished face, "which is
+"[[Well]]," said he, smiling at her questioning, astonished face, "which is
 
 which?"
 
@@ -92,11 +92,11 @@ other cousin, Louis."
 
 
 
-"Clever little Œdipus! you would have baffled the Sphinx! But now, see
+"Clever little Œdipus! you would have baffled [[The Sphinx|the Sphinx]]! But now, see
 
 us together.--Change places; change again, to confuse her, Louis.--Which
 
-is the old love now, Lina?"
+is the old [[Love|love]] now, Lina?"
 
 
 
@@ -124,13 +124,13 @@ She was not permitted to quit her cousins soon. Robert himself was
 
 peremptory in obliging her to remain. Glad, simple, and affable in her
 
-demeanour (glad for this night, at least), in light, bright spirits for
+demeanour (glad for this [[Night|night]], at least), in light, bright spirits for
 
-the time, she was too pleasant an addition to the cottage circle to be
+the [[Time|time]], she was too pleasant an addition to the cottage circle to be
 
 willingly parted with by any of them. Louis seemed naturally rather a
 
-grave, still, retiring man; but the Caroline of this evening, which was
+[[Grave|grave]], still, retiring man; but the Caroline of this evening, which was
 
 not (as you know, reader) the Caroline of every day, thawed his reserve,
 
@@ -154,9 +154,9 @@ considered, when seen near Robert's. She turned to make the comparison.
 
 Robert was leaning against the wall, a little behind her, turning over
 
-the leaves of a book of engravings, and probably listening, at the same
+the [[Leaves|leaves]] of a book of engravings, and probably listening, at the same
 
-time, to the dialogue between her and Louis.
+[[Time|time]], to the dialogue between her and Louis.
 
 
 
@@ -178,7 +178,7 @@ reflective, could scarcely be called prompt and acute. You felt, in
 
 sitting near and looking up at him, that a slower and probably a more
 
-benignant nature than that of the elder Moore shed calm on your
+benignant [[Nature|nature]] than that of the elder Moore shed calm on your
 
 impressions.
 
@@ -210,7 +210,7 @@ freely; it was gay, playful, eloquent. The indulgent look and placid
 
 manner of her auditor encouraged her to ease; the sober pleasure
 
-expressed by his smile drew out all that was brilliant in her nature.
+expressed by his smile drew out all that was brilliant in her [[Nature|nature]].
 
 She felt that this evening she appeared to advantage, and as Robert was
 
@@ -226,25 +226,25 @@ it.
 
 
 
-Hortense, who for some time had been on the move ordering supper, and
+Hortense, who for some [[Time|time]] had been on the move ordering supper, and
 
 was now clearing the little table of some books, etc., to make room for
 
-the tray, called Robert's attention to the glass of flowers, the carmine
+the tray, called Robert's attention to the glass of [[Flowers|flowers]], the carmine
 
-and snow and gold of whose petals looked radiant indeed by candlelight.
+and [[Snow|snow]] and gold of whose petals looked radiant indeed by candlelight.
 
 
 
 "They came from Fieldhead," she said, "intended as a gift to you, no
 
-doubt. We know who is the favourite there; not I, I'm sure."
+[[Doubt|doubt]]. We know who is the favourite there; not I, I'm sure."
 
 
 
-It was a wonder to hear Hortense jest--a sign that her spirits were at
+It was a [[Wonder|wonder]] to hear Hortense jest--a sign that her spirits were at
 
-high-water mark indeed.
+high-[[Water|water]] mark indeed.
 
 
 
@@ -278,6 +278,6 @@ star withdrew as she spoke.
 
 Whether he reddened or paled Caroline did not examine. She discovered
 
-that it was late, and she must go home. Home she would go; not even
+that it was late, and she must go [[Home|home]]. [[Home]] she would go; not even
 
 Robert could detain her now.

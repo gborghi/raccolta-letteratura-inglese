@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 3)"
+title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,35 +14,35 @@ tags:
 </nav>
 
 
-I had never before seen Agnes cry. I had seen tears in her eyes when I
-had brought new honours home from school, and I had seen them there when
+I had never before seen Agnes cry. I had seen [[Tears|tears]] in her eyes when I
+had brought new honours [[Home|home]] from school, and I had seen them there when
 we last spoke about her father, and I had seen her turn her gentle head
 aside when we took leave of one another; but I had never seen her grieve
 like this. It made me so sorry that I could only say, in a foolish,
 helpless manner, ‘Pray, Agnes, don’t! Don’t, my dear sister!’
 
 But Agnes was too superior to me in character and purpose, as I know
-well now, whatever I might know or not know then, to be long in need of
+[[Well|well]] now, whatever I might know or not know then, to be long in need of
 my entreaties. The beautiful, calm manner, which makes her so different
 in my remembrance from everybody else, came back again, as if a cloud
 had passed from a serene sky.
 
-‘We are not likely to remain alone much longer,’ said Agnes, ‘and while
+‘We are not likely to remain [[Alone|alone]] much longer,’ said Agnes, ‘and while
 I have an opportunity, let me earnestly entreat you, Trotwood, to be
 friendly to Uriah. Don’t repel him. Don’t resent (as I think you have a
 general disposition to do) what may be uncongenial to you in him. He may
 not deserve it, for we know no certain ill of him. In any case, think
 first of papa and me!’
 
-Agnes had no time to say more, for the room door opened, and Mrs.
+Agnes had no [[Time|time]] to say more, for the room door opened, and Mrs.
 Waterbrook, who was a large lady--or who wore a large dress: I don’t
 exactly know which, for I don’t know which was dress and which was
 lady--came sailing in. I had a dim recollection of having seen her
-at the theatre, as if I had seen her in a pale magic lantern; but she
+at the theatre, as if I had seen her in a pale [[Magic|magic]] lantern; but she
 appeared to remember me perfectly, and still to suspect me of being in a
 state of intoxication.
 
-Finding by degrees, however, that I was sober, and (I hope) that I was
+Finding by degrees, however, that I was sober, and (I [[Hope|hope]]) that I was
 a modest young gentleman, Mrs. Waterbrook softened towards me
 considerably, and inquired, firstly, if I went much into the parks,
 and secondly, if I went much into society. On my replying to both these
@@ -58,26 +58,26 @@ not the only guest, for I immediately identified the ticket-porter in
 disguise, assisting the family servant, and waiting at the foot of the
 stairs to carry up my name. He looked, to the best of his ability, when
 he asked me for it confidentially, as if he had never seen me before;
-but well did I know him, and well did he know me. Conscience made
+but [[Well|well]] did I know him, and [[Well|well]] did he know me. [[Conscience]] made
 cowards of us both.
 
 I found Mr. Waterbrook to be a middle-aged gentleman, with a short
 throat, and a good deal of shirt-collar, who only wanted a black nose to
 be the portrait of a pug-dog. He told me he was happy to have the
-honour of making my acquaintance; and when I had paid my homage to Mrs.
+[[Honour|honour]] of making my acquaintance; and when I had paid my homage to Mrs.
 Waterbrook, presented me, with much ceremony, to a very awful lady in
 a black velvet dress, and a great black velvet hat, whom I remember as
-looking like a near relation of Hamlet’s--say his aunt.
+looking like a near relation of [[Hamlet]]’s--say his aunt.
 
 Mrs. Henry Spiker was this lady’s name; and her husband was there
 too: so cold a man, that his head, instead of being grey, seemed to
-be sprinkled with hoar-frost. Immense deference was shown to the Henry
+be sprinkled with hoar-[[Frost|frost]]. Immense deference was shown to the Henry
 Spikers, male and female; which Agnes told me was on account of Mr.
 Henry Spiker being solicitor to something or to somebody, I forget what
 or which, remotely connected with the Treasury.
 
-I found Uriah Heep among the company, in a suit of black, and in deep
-humility. He told me, when I shook hands with him, that he was proud
+I found [[Uriah Heep]] among the company, in a suit of black, and in deep
+[[Humility|humility]]. He told me, when I shook hands with him, that he was proud
 to be noticed by me, and that he really felt obliged to me for my
 condescension. I could have wished he had been less obliged to me, for
 he hovered about me in his gratitude all the rest of the evening; and
@@ -87,7 +87,7 @@ cadaverous face, to be looking gauntly down upon us from behind.
 There were other guests--all iced for the occasion, as it struck me,
 like the wine. But there was one who attracted my attention before he
 came in, on account of my hearing him announced as Mr. Traddles! My mind
-flew back to Salem House; and could it be Tommy, I thought, who used to
+flew back to Salem [[house|House]]; and could it be Tommy, I thought, who used to
 draw the skeletons!
 
 I looked for Mr. Traddles with unusual interest. He was a sober,
@@ -110,7 +110,7 @@ Traddles.’
 ‘Possibly.’
 
 ‘If it’s really the same person,’ said I, glancing towards him, ‘it
-was at a place called Salem House where we were together, and he was an
+was at a place called Salem [[house|House]] where we were together, and he was an
 excellent fellow.’
 
 ‘Oh yes. Traddles is a good fellow,’ returned my host nodding his head

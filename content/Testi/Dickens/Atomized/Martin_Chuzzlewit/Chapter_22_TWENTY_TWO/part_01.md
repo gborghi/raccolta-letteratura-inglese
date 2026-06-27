@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 22: TWENTY TWO (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER TWENTY-TWO
 
-FROM WHICH IT WILL BE SEEN THAT MARTIN BECAME A LION OF HIS OWN ACCOUNT.
+FROM WHICH IT WILL BE SEEN THAT MARTIN BECAME A [[Lion|LION]] OF HIS OWN ACCOUNT.
 TOGETHER WITH THE REASON WHY
 
 
@@ -25,9 +25,9 @@ Englishman, Mr Chuzzlewit, had purchased a ‘lo-cation’ in the Valley
 of Eden, and intended to betake himself to that earthly Paradise by the
 next steamboat, he became a popular character. Why this should be, or
 how it had come to pass, Martin no more knew than Mrs Gamp, of Kingsgate
-Street, High Holborn, did; but that he was for the time being the lion,
+Street, High Holborn, did; but that he was for the [[Time|time]] being the [[Lion|lion]],
 by popular election, of the Watertoast community, and that his society
-was in rather inconvenient request there could be no kind of doubt.
+was in rather inconvenient request there could be no kind of [[Doubt|doubt]].
 
 The first notification he received of this change in his position, was
 the following epistle, written in a thin running hand--with here and
@@ -41,13 +41,13 @@ a sheet of paper, ruled with blue lines.
 
 ‘Dear Sir--‘When I had the privillidge of being your fellow-traveller
 in the cars, the day before yesterday, you offered some remarks upon the
-subject of the tower of London, which (in common with my fellow-citizens
+subject of the tower of [[London]], which (in common with my fellow-citizens
 generally) I could wish to hear repeated to a public audience.
 
 ‘As secretary to the Young Men’s Watertoast Association of this town,
 I am requested to inform you that the Society will be proud to hear
-you deliver a lecture upon the Tower of London, at their Hall to-morrow
-evening, at seven o’clock; and as a large issue of quarter-dollar
+you deliver a lecture upon the Tower of [[London]], at their Hall to-morrow
+evening, at seven o’[[Clock|clock]]; and as a large issue of quarter-dollar
 tickets may be expected, your answer and consent by bearer will be
 considered obliging.
 
@@ -60,16 +60,16 @@ considered obliging.
 ‘The Honourable M. Chuzzlewit.
 
 ‘P.S.--The Society would not be particular in limiting you to the Tower
-of London. Permit me to suggest that any remarks upon the Elements of
+of [[London]]. Permit me to suggest that any remarks upon the Elements of
 Geology, or (if more convenient) upon the Writings of your talented and
-witty countryman, the honourable Mr Miller, would be well received.’
+witty countryman, the honourable Mr Miller, would be [[Well|well]] received.’
 
 
 Very much aghast at this invitation, Martin wrote back, civilly
 declining it; and had scarcely done so, when he received another letter.
 
 
-‘No. 47, Bunker Hill Street,
+‘No. 47, Bunker [[Hill]] Street,
 
 ‘Monday Morning.
 
@@ -79,7 +79,7 @@ declining it; and had scarcely done so, when he received another letter.
 Mississippi (or Father of Waters) rolls his turbid flood.
 
 ‘I am young, and ardent. For there is a poetry in wildness, and every
-alligator basking in the slime is in himself an Epic, self-contained. I
+alligator basking in the slime is in himself an [[Epic]], [[Self|self]]-contained. I
 aspirate for fame. It is my yearning and my thirst.
 
 ‘Are you, sir, aware of any member of Congress in England, who would
@@ -95,7 +95,7 @@ that I am certain to succeed.
 a list of three or four of those most likely to respond, and I will
 address them through the Post Office. May I also ask you to favour me
 with any critical observations that have ever presented themselves to
-your reflective faculties, on “Cain, a Mystery,” by the Right Honourable
+your reflective faculties, on “[[Cain]], a Mystery,” by the Right Honourable
 Lord Byron?
 
 ‘I am, Sir,
@@ -104,7 +104,7 @@ Lord Byron?
 
 ‘PUTNAM SMIF
 
-‘P.S.--Address your answer to America Junior, Messrs. Hancock & Floby,
+‘P.S.--Address your answer to [[America]] Junior, Messrs. Hancock & Floby,
 Dry Goods Store, as above.’
 
 
@@ -118,8 +118,8 @@ the landlord, kindly came upstairs to see how he was getting on. The
 Captain sat down upon the bed before he spoke; and finding it rather
 hard, moved to the pillow.
 
-‘Well, sir!’ said the Captain, putting his hat a little more on one
-side, for it was rather tight in the crown: ‘You’re quite a public man I
+‘[[Well]], sir!’ said the Captain, putting his hat a little more on one
+side, for it was rather tight in the [[Crown|crown]]: ‘You’re quite a public man I
 calc’late.’
 
 ‘So it seems,’ retorted Martin, who was very tired.
@@ -133,14 +133,14 @@ to you. You will have to hold a sort of le-vee, sir, while you’re here.’
 
 ‘Must is not a pleasant word, Captain,’ urged Martin.
 
-‘Well! I didn’t fix the mother language, and I can’t unfix it,’ said the
+‘[[Well]]! I didn’t fix the mother language, and I can’t unfix it,’ said the
 Captain coolly; ‘else I’d make it pleasant. You must re-ceive. That’s
 all.’
 
 ‘But why should I receive people who care as much for me as I care for
 them?’ asked Martin.
 
-‘Well! because I have had a muniment put up in the bar,’ returned the
+‘[[Well]]! because I have had a muniment put up in the bar,’ returned the
 Captain.
 
 ‘A what?’ cried Martin.
@@ -149,7 +149,7 @@ Captain.
 
 Martin looked despairingly at Mark, who informed him that the
 Captain meant a written notice that Mr Chuzzlewit would receive the
-Watertoasters that day, at and after two o’clock which was in effect
+Watertoasters that day, at and after two o’[[Clock|clock]] which was in effect
 then hanging in the bar, as Mark, from ocular inspection of the same,
 could testify.
 

@@ -17,7 +17,7 @@ tags:
 The modern Magician, often a most respectable gentleman, may have
 altered his opinion that sticking pins in the wax image of a politician
 would be a practical act of social utility.  But so the modern
-Medicine-Man may have altered his opinion that the blood of badgers
+Medicine-Man may have altered his opinion that the [[Blood|blood]] of badgers
 mixed with wine and salt is always an immediate cure for rheumatism.
 But there is nothing in this change of opinion on the mere fact or
 details that differs from any other modern change in medical method,
@@ -27,7 +27,7 @@ of Medicine-Man were employed by people who wanted something prompt
 and practical, such as killing politicians or curing rheumatism.
 And the note of this sort of science, which Mr. Dawson traces
 to the East, is that it always boasts of possessing Power,
-as distinct from the other sort set upon enjoying Truth.
+as distinct from the other sort set upon enjoying [[Truth]].
 We have most of us met the kind of theosophical mystic who is
 always whispering that he can show us the Path to Power;
 that if we will only say "I am Wisdom; I am Power" seventy-seven times
@@ -37,7 +37,7 @@ was really more practical than Pagan science, but sometimes it
 did really sound a little too practical to be quite wholesome.
 So some modern hygienic idealists are rather more concerned about
 health than is quite healthy.  It is hard to dwell perpetually on this
-element of power without poisoning it with some element of pride.
+element of power without poisoning it with some element of [[Pride|pride]].
 So, queerly enough, Aladdin and his Wonderful Lamp really has
 some remote relation with the miracles of science, though hardly
 any with the miracles of religion.
@@ -49,10 +49,10 @@ _XI About Modern Girls_
 THE present position of the Bright Young Thing, or Brilliant Young Cynic
 of a hard and realistic epoch, is so heartrendingly sad and pitiable
 that aged sentimentalists can only gaze at it through floods
-of senile tears.  The cynics themselves, of course, do not believe
+of senile [[Tears|tears]].  The cynics themselves, of course, do not believe
 in sentiment, but they embody a most poignant example of pathos.
-No orphan child, sprinkled with stage snow in a Victorian melodrama,
-was ever more obviously out in the cold; no Mariana in a moated grange,
+No [[Orphan|orphan]] [[Child|child]], sprinkled with stage [[Snow|snow]] in a Victorian [[Melodrama|melodrama]],
+was ever more obviously out in the cold; no [[Mariana]] in a moated grange,
 or highborn maiden in a palace tower, had ever so conspicuously got left.
 
 The stages of the strange and tragic story are worthy of some sort of
@@ -61,9 +61,9 @@ man whose father has quarrelled with his grandfather; and who is himself
 filled with a pious and filial yearning to quarrel with them both.
 The yearning is indeed pious in the sense of traditional, in so far
 as this family quarrel seems to be a tradition in the family.
-But for him the practical problem is the double problem of quarrelling
+But for him the practical problem is the [[Double|double]] problem of quarrelling
 with them both.  And it is not easy to quarrel with them both.
-If in wandering about the moated grange or the ancestral garden,
+If in wandering about the moated grange or the ancestral [[Garden|garden]],
 he is struck with horror at the sight of some feature recalling
 the peculiar tastes of his grandfather in his Classical or his
 Pre-Raphaelite period, he may perhaps break out into curses against
@@ -78,17 +78,17 @@ And then he will realize abruptly that he is only repeating
 the catalogue of curses and crimes once uttered by the more quavering
 voice of his aged grandfather.
 
-This curious tragicomedy is always being re-enacted,
-especially in recent times, when any debate turns on philosophy
-as displayed in history.  Thus, the young man who associated
-himself with the famous Pacifist vote at Oxford will, of course,
+This curious [[Tragicomedy|tragicomedy]] is always being re-enacted,
+especially in recent times, when any [[debate]] turns on [[philosophy]]
+as displayed in [[history]].  Thus, the young man who associated
+himself with the famous Pacifist vote at [[Oxford]] will, of course,
 affirm the ideal of Internationalism, and treat Nationalism
 as a prehistoric superstition handed down from anthropoid ages.
 He may often be heard saying that arms and armaments (two rather
 different things) are a relic of mediaevalism, and that an
 internationalist of the twentieth century cannot be expected to go back
 to the Middle Ages.  And then, perhaps, some friend of his who happens
-to know something about history will point out to him that going
+to know something about [[history]] will point out to him that going
 forward to Internationalism is going back to the Middle Ages.
 For the very deep chasms that now divide the different nations
 only appeared like cracks when the mediaeval system broke up.
@@ -102,29 +102,29 @@ thirteenth-century grandfather and his seventeenth-century father.
 We see a compact case of this contradiction in the rather morbid talk
 that may be heard here and there in connexion with what is called "the
 next war."  Oddly enough, it is the same people who always teach us,
-in their Outlines of History and Encyclopaedias of Everything,
+in their Outlines of [[history|History]] and Encyclopaedias of Everything,
 that everything is always getting better and better, and that even
 our most miserable contemporaries are more happy than their fathers--
 it is these same people who always tell us that one slip
 in modern diplomacy, or one falsehood in modern journalism,
 may precipitate a towering and toppling horror of torture and
 panic far worse than anything the world has ever known before.
-It might well be asked, with a certain abstract curiosity,
+It might [[Well|well]] be asked, with a certain abstract curiosity,
 why our civilization must produce the very worst in the way of war,
 if it must produce the very best in the way of everything else.
 
-I found another example of this strange parable of son, father,
+I found another example of this strange [[Parable|parable]] of son, father,
 and grandfather in a book I happen to have read on a totally
 different subject.  It is by Mr. Don Marquis, the eminent
 American writer, and contains many quaint and amusing ideas;
 though it rather tends to get into the rut of that sort of ridicule,
-by way of flippancies about Jehovah and Satan and saints and angels,
+by way of flippancies about Jehovah and [[Satan]] and saints and angels,
 which was rather funnier when it began in Voltaire than when it
 ended in Mark Twain.  But what interests me about the book is this:
-that, while it resembles Mr. Shaw's _Black Girl in Search of God_
+that, while it resembles Mr. [[Shaw]]'s _Black Girl in Search of God_
 in this sort of professional profanity, the writer is much
 more in earnest, and, therefore, much more lively and amusing,
-in emphasizing another idea, which has also been adumbrated by Mr. Shaw.
+in emphasizing another idea, which has also been adumbrated by Mr. [[Shaw]].
 I mean all that notion of Woman the Huntress, with terrified males
 fleeing before her nets and darts, or reluctant captives of her
 bow and spear.  All of which is supposed to sound very modern,
@@ -133,8 +133,8 @@ But I do not suppose it ever occurred to the anti-clerical author
 that this is exactly the attitude for which the world has reproached
 the more fanatical sort of clerics.  It was precisely this "modern"
 view of Woman that really was expressed, and often exaggerated,
-by the first hermits fleeing into the desert, or the most fanatical
-monks only too near the borderline of the madness of the Manichees.
+by the first hermits fleeing into the [[Desert|desert]], or the most fanatical
+[[Monks|monks]] only too near the borderline of the [[Madness|madness]] of the Manichees.
 To regard Woman wildly as an Unholy Terror, instead of rightly
 as a Holy Terror, was the abuse of asceticism; but it seems to have
 become quite useful and usual in modernity.

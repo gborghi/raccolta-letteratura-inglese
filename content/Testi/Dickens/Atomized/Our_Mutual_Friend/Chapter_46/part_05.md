@@ -18,9 +18,9 @@ On one point connected with the watch she kept on Mr Boffin, she felt
 very inquisitive, and that was the question whether the Secretary
 watched him too, and followed the sure and steady change in him, as she
 did? Her very limited intercourse with Mr Rokesmith rendered this hard
-to find out. Their communication now, at no time extended beyond the
+to find out. Their communication now, at no [[Time|time]] extended beyond the
 preservation of commonplace appearances before Mr and Mrs Boffin; and if
-Bella and the Secretary were ever left alone together by any chance,
+Bella and the Secretary were ever left [[Alone|alone]] together by any chance,
 he immediately withdrew. She consulted his face when she could do so
 covertly, as she worked or read, and could make nothing of it. He looked
 subdued; but he had acquired a strong command of feature, and, whenever
@@ -29,7 +29,7 @@ himself Mr Boffin made, the Secretary’s face changed no more than a
 wall. A slightly knitted brow, that expressed nothing but an almost
 mechanical attention, and a compression of the mouth, that might have
 been a guard against a scornful smile—these she saw from morning to
-night, from day to day, from week to week, monotonous, unvarying, set,
+[[Night|night]], from day to day, from week to week, monotonous, unvarying, set,
 as in a piece of sculpture.
 
 The worst of the matter was, that it thus fell out insensibly—and most
@@ -40,7 +40,7 @@ it be possible THAT makes no impression on him?’ Such questions Bella
 would propose to herself, often as many times in a day as there were
 hours in it. Impossible to know. Always the same fixed face.
 
-‘Can he be so base as to sell his very nature for two hundred a year?’
+‘Can he be so base as to sell his very [[Nature|nature]] for two hundred a year?’
 Bella would think. And then, ‘But why not? It’s a mere question of price
 with others besides him. I suppose I would sell mine, if I could get
 enough for it.’ And so she would come round again to the war with
@@ -48,10 +48,10 @@ herself.
 
 A kind of illegibility, though a different kind, stole over Mr
 Boffin’s face. Its old simplicity of expression got masked by a certain
-craftiness that assimilated even his good-humour to itself. His very
+craftiness that assimilated even his good-[[Humour|humour]] to itself. His very
 smile was cunning, as if he had been studying smiles among the portraits
 of his misers. Saving an occasional burst of impatience, or coarse
-assertion of his mastery, his good-humour remained to him, but it had
+assertion of his mastery, his good-[[Humour|humour]] remained to him, but it had
 now a sordid alloy of distrust; and though his eyes should twinkle and
 all his face should laugh, he would sit holding himself in his own
 arms, as if he had an inclination to hoard himself up, and must always
@@ -80,7 +80,7 @@ lied. But it brought no change of expression into the set face.
 
 ‘You are not rich, sir?’ repeated the Secretary, in measured words.
 
-‘Well,’ returned Mr Boffin, ‘if I am, that’s my business. I am not going
+‘[[Well]],’ returned Mr Boffin, ‘if I am, that’s my business. I am not going
 to spend at this rate, to please you, or anybody. You wouldn’t like it,
 if it was your money.’
 
@@ -137,7 +137,7 @@ lodgings?’
 
 ‘Then I tell you what,’ said Mr Boffin; ‘pay the quarter’s rent—pay the
 quarter’s rent, it’ll be the cheapest thing in the end—and come here at
-once, so that you may be always on the spot, day and night, and keep the
+once, so that you may be always on the spot, day and [[Night|night]], and keep the
 expenses down. You’ll charge the quarter’s rent to me, and we must try
 and save it somewhere. You’ve got some lovely furniture; haven’t you?’
 
@@ -149,7 +149,7 @@ independent in you as to make it a relief to your mind, to make that
 furniture over to me in the light of a set-off against the quarter’s
 rent, why ease your mind, ease your mind. I don’t ask it, but I won’t
 stand in your way if you should consider it due to yourself. As to your
-room, choose any empty room at the top of the house.’
+room, choose any empty room at the top of the [[house]].’
 
 ‘Any empty room will do for me,’ said the Secretary.
 
@@ -161,10 +161,10 @@ letter or two.’
 
 On that clear, generous face of Mrs Boffin’s, Bella had seen such traces
 of a pang at the heart while this dialogue was being held, that she
-had not the courage to turn her eyes to it when they were left alone.
+had not the [[Courage|courage]] to turn her eyes to it when they were left [[Alone|alone]].
 Feigning to be intent on her embroidery, she sat plying her needle until
 her busy hand was stopped by Mrs Boffin’s hand being lightly laid upon
-it. Yielding to the touch, she felt her hand carried to the good soul’s
+it. Yielding to the touch, she felt her hand carried to the good [[Soul|soul]]’s
 lips, and felt a tear fall on it.
 
 ‘Oh, my loved husband!’ said Mrs Boffin. ‘This is hard to see and hear.
@@ -193,10 +193,10 @@ old lady.’
 
 ‘Nonsense! Recollect we are not our old selves. Recollect, we must
 scrunch or be scrunched. Recollect, we must hold our own. Recollect,
-money makes money. Don’t you be uneasy, Bella, my child; don’t you be
+money makes money. Don’t you be uneasy, Bella, my [[Child|child]]; don’t you be
 doubtful. The more I save, the more you shall have.’
 
-Bella thought it was well for his wife that she was musing with her
+Bella thought it was [[Well|well]] for his wife that she was musing with her
 affectionate face on his shoulder; for there was a cunning light in
 his eyes as he said all this, which seemed to cast a disagreeable
 illumination on the change in him, and make it morally uglier.

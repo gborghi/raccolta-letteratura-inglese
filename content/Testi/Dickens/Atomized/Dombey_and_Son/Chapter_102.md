@@ -19,10 +19,10 @@ Recognizant and Reflective
 
 
 Among sundry minor alterations in Mr Carker’s life and habits that
-began to take place at this time, none was more remarkable than the
+began to take place at this [[Time|time]], none was more remarkable than the
 extraordinary diligence with which he applied himself to business, and
 the closeness with which he investigated every detail that the affairs
-of the House laid open to him. Always active and penetrating in such
+of the [[house|House]] laid open to him. Always active and penetrating in such
 matters, his lynx-eyed vigilance now increased twenty-fold. Not only
 did his weary watch keep pace with every present point that every day
 presented to him in some new form, but in the midst of these engrossing
@@ -35,15 +35,15 @@ the mysteries of books and papers, with the patient progress of a man
 who was dissecting the minutest nerves and fibres of his subject.
 Perch, the messenger, who usually remained on these occasions, to
 entertain himself with the perusal of the Price Current by the light of
-one candle, or to doze over the fire in the outer office, at the
+one candle, or to doze over the [[Fire|fire]] in the outer office, at the
 imminent risk every moment of diving head foremost into the coal-box,
 could not withhold the tribute of his admiration from this zealous
 conduct, although it much contracted his domestic enjoyments; and
 again, and again, expatiated to Mrs Perch (now nursing twins) on the
-industry and acuteness of their managing gentleman in the City.
+industry and acuteness of their managing gentleman in the [[City]].
 
 The same increased and sharp attention that Mr Carker bestowed on the
-business of the House, he applied to his own personal affairs. Though
+business of the [[house|House]], he applied to his own personal affairs. Though
 not a partner in the concern—a distinction hitherto reserved solely to
 inheritors of the great name of Dombey—he was in the receipt of some
 percentage on its dealings; and, participating in all its facilities
@@ -51,7 +51,7 @@ for the employment of money to advantage, was considered, by the
 minnows among the tritons of the East, a rich man. It began to be said,
 among these shrewd observers, that Jem Carker, of Dombey’s, was looking
 about him to see what he was worth; and that he was calling in his
-money at a good time, like the long-headed fellow he was; and bets were
+money at a good [[Time|time]], like the long-headed fellow he was; and bets were
 even offered on the Stock Exchange that Jem was going to marry a rich
 widow.
 
@@ -67,13 +67,13 @@ which sharpens and keeps alive his keenest powers.
 
 The only decided alteration in him was, that as he rode to and fro
 along the streets, he would fall into deep fits of musing, like that in
-which he had come away from Mr Dombey’s house, on the morning of that
+which he had come away from Mr Dombey’s [[house]], on the morning of that
 gentleman’s disaster. At such times, he would keep clear of the
 obstacles in his way, mechanically; and would appear to see and hear
 nothing until arrival at his destination, or some sudden chance or
 effort roused him.
 
-Walking his white-legged horse thus, to the counting-house of Dombey
+Walking his white-legged [[Horse|horse]] thus, to the counting-[[house]] of Dombey
 and Son one day, he was as unconscious of the observation of two pairs
 of women’s eyes, as of the fascinated orbs of Rob the Grinder, who, in
 waiting a street’s length from the appointed place, as a demonstration
@@ -90,7 +90,7 @@ Mrs Brown’s daughter looked out, at this bidding on the part of Mrs
 Brown; and there were wrath and vengeance in her face.
 
 “I never thought to look at him again,” she said, in a low voice; “but
-it’s well I should, perhaps. I see. I see!”
+it’s [[Well|well]] I should, perhaps. I see. I see!”
 
 “Not changed!” said the old woman, with a look of eager malice.
 
@@ -102,7 +102,7 @@ her red eyes; “so easy and so trim a-horseback, while we are in the
 mud.”
 
 “And of it,” said her daughter impatiently. “We are mud, underneath his
-horse’s feet. What should we be?”
+[[Horse|horse]]’s feet. What should we be?”
 
 [Illustration]
 
@@ -120,7 +120,7 @@ my daughter.”
 “Haven’t I told you, that I will not have money from him?” she
 returned. “And don’t you yet believe me? Did I take his sister’s money?
 Would I touch a penny, if I knew it, that had gone through his white
-hands—unless it was, indeed, that I could poison it, and send it back
+hands—unless it was, indeed, that I could [[Poison|poison]] it, and send it back
 to him? Peace, mother, and come away.”
 
 “And him so rich?” murmured the old woman. “And us so poor!”
@@ -128,10 +128,10 @@ to him? Peace, mother, and come away.”
 “Poor in not being able to pay him any of the harm we owe him,”
 returned her daughter. “Let him give me that sort of riches, and I’ll
 take them from him, and use them. Come away. Its no good looking at his
-horse. Come away, mother!”
+[[Horse|horse]]. Come away, mother!”
 
 But the old woman, for whom the spectacle of Rob the Grinder returning
-down the street, leading the riderless horse, appeared to have some
+down the street, leading the riderless [[Horse|horse]], appeared to have some
 extraneous interest that it did not possess in itself, surveyed that
 young man with the utmost earnestness; and seeming to have whatever
 doubts she entertained, resolved as he drew nearer, glanced at her
@@ -139,31 +139,31 @@ daughter with brightened eyes and with her finger on her lip, and
 emerging from the gateway at the moment of his passing, touched him on
 the shoulder.
 
-“Why, where’s my sprightly Rob been, all this time!” she said, as he
+“Why, where’s my sprightly Rob been, all this [[Time|time]]!” she said, as he
 turned round.
 
 The sprightly Rob, whose sprightliness was very much diminished by the
-salutation, looked exceedingly dismayed, and said, with the water
+salutation, looked exceedingly dismayed, and said, with the [[Water|water]]
 rising in his eyes:
 
-“Oh! why can’t you leave a poor cove alone, Misses Brown, when he’s
+“Oh! why can’t you leave a poor cove [[Alone|alone]], Misses Brown, when he’s
 getting an honest livelihood and conducting himself respectable? What
 do you come and deprive a cove of his character for, by talking to him
-in the streets, when he’s taking his master’s horse to a honest
-stable—a horse you’d go and sell for cats’ and dogs’ meat if you had
+in the streets, when he’s taking his master’s [[Horse|horse]] to a honest
+stable—a [[Horse|horse]] you’d go and sell for cats’ and [[dogs]]’ meat if you had
 your way! Why, I thought,” said the Grinder, producing his concluding
 remark as if it were the climax of all his injuries, “that you was dead
 long ago!”
 
 “This is the way,” cried the old woman, appealing to her daughter,
 “that he talks to me, who knew him weeks and months together, my deary,
-and have stood his friend many and many a time among the
+and have stood his friend many and many a [[Time|time]] among the
 pigeon-fancying tramps and bird-catchers.”
 
-“Let the birds be, will you, Misses Brown?” retorted Rob, in a tone of
+“Let the [[Birds|birds]] be, will you, Misses Brown?” retorted Rob, in a tone of
 the acutest anguish. “I think a cove had better have to do with lions
 than them little creeturs, for they’re always flying back in your face
-when you least expect it. Well, how d’ye do and what do you want?”
+when you least expect it. [[Well]], how d’ye do and what do you want?”
 These polite inquiries the Grinder uttered, as it were under protest,
 and with great exasperation and vindictiveness.
 
@@ -175,15 +175,15 @@ cheated with, where to find him—”
 “Will you hold your tongue, Misses Brown?” interrupted the miserable
 Grinder, glancing quickly round, as though he expected to see his
 master’s teeth shining at his elbow. “What do you take a pleasure in
-ruining a cove for? At your time of life too! when you ought to be
+ruining a cove for? At your [[Time|time]] of life too! when you ought to be
 thinking of a variety of things!”
 
-“What a gallant horse!” said the old woman, patting the animal’s neck.
+“What a gallant [[Horse|horse]]!” said the old woman, patting the animal’s neck.
 
-“Let him alone, will you, Misses Brown?” cried Rob, pushing away her
+“Let him [[Alone|alone]], will you, Misses Brown?” cried Rob, pushing away her
 hand. “You’re enough to drive a penitent cove mad!”
 
-“Why, what hurt do I do him, child?” returned the old woman.
+“Why, what hurt do I do him, [[Child|child]]?” returned the old woman.
 
 “Hurt?” said Rob. “He’s got a master that would find it out if he was
 touched with a straw.” And he blew upon the place where the old woman’s
@@ -194,7 +194,7 @@ The old woman looking back to mumble and mouth at her daughter, who
 followed, kept close to Rob’s heels as he walked on with the bridle in
 his hand; and pursued the conversation.
 
-“A good place, Rob, eh?” said she. “You’re in luck, my child.”
+“A good place, Rob, eh?” said she. “You’re in luck, my [[Child|child]].”
 
 “Oh don’t talk about luck, Misses Brown,” returned the wretched
 Grinder, facing round and stopping. “If you’d never come, or if you’d
@@ -205,13 +205,13 @@ take you away, instead of letting you make yourself so disgraceful!”
 
 “What!” croaked the old woman, putting her face close to his, with a
 malevolent grin upon it that puckered up the loose skin down in her
-very throat. “Do you deny your old chum! Have you lurked to my house
+very throat. “Do you deny your old chum! Have you lurked to my [[house]]
 fifty times, and slept sound in a corner when you had no other bed but
 the paving-stones, and do you talk to me like this! Have I bought and
 sold with you, and helped you in my way of business, schoolboy, sneak,
 and what not, and do you tell me to go along? Could I raise a crowd of
 old company about you to-morrow morning, that would follow you to ruin
-like copies of your own shadow, and do you turn on me with your bold
+like copies of your own [[Shadow|shadow]], and do you turn on me with your bold
 looks! I’ll go. Come, Alice.”
 
 “Stop, Misses Brown!” cried the distracted Grinder. “What are you doing
@@ -229,28 +229,28 @@ head, and mouthed and muttered still.
 for you, Misses Brown, can’t you?” said Rob, “instead of going on, like
 that, which is no good to you, nor anybody else. Come along with her,
 will you be so kind?” said Rob. “I’m sure I’m delighted to see her, if
-it wasn’t for the horse!”
+it wasn’t for the [[Horse|horse]]!”
 
-With this apology, Rob turned away, a rueful picture of despair, and
+With this apology, Rob turned away, a rueful picture of [[Despair|despair]], and
 walked his charge down a bye street. The old woman, mouthing at her
 daughter, followed close upon him. The daughter followed.
 
-Turning into a silent little square or court-yard that had a great
+Turning into a silent little square or [[Court|court]]-yard that had a great
 church tower rising above it, and a packer’s warehouse, and a
 bottle-maker’s warehouse, for its places of business, Rob the Grinder
-delivered the white-legged horse to the hostler of a quaint stable at
+delivered the white-legged [[Horse|horse]] to the hostler of a quaint stable at
 the corner; and inviting Mrs Brown and her daughter to seat themselves
 upon a stone bench at the gate of that establishment, soon reappeared
-from a neighbouring public-house with a pewter measure and a glass.
+from a neighbouring public-[[house]] with a pewter measure and a glass.
 
-“Here’s master—Mr Carker, child!” said the old woman, slowly, as her
+“Here’s master—Mr Carker, [[Child|child]]!” said the old woman, slowly, as her
 sentiment before drinking. “Lord bless him!”
 
 “Why, I didn’t tell you who he was,” observed Rob, with staring eyes.
 
 “We know him by sight,” said Mrs Brown, whose working mouth and nodding
 head stopped for the moment, in the fixedness of her attention. “We saw
-him pass this morning, afore he got off his horse; when you were ready
+him pass this morning, afore he got off his [[Horse|horse]]; when you were ready
 to take it.”
 
 “Ay, ay,” returned Rob, appearing to wish that his readiness had
@@ -271,7 +271,7 @@ Carker might be looking down. “Softly.”
 “Why, he ain’t here!” cried Mrs Brown.
 
 “I don’t know that,” muttered Rob, whose glance even wandered to the
-church tower, as if he might be there, with a supernatural power of
+church tower, as if he might be there, with a [[Supernatural|supernatural]] power of
 hearing.
 
 “Good master?” inquired Mrs Brown.
@@ -280,7 +280,7 @@ Rob nodded; and added, in a low voice, “precious sharp.”
 
 “Lives out of town, don’t he, lovey?” said the old woman.
 
-“When he’s at home,” returned Rob; “but we don’t live at home just
+“When he’s at [[Home|home]],” returned Rob; “but we don’t live at [[Home|home]] just
 now.”
 
 “Where then?” asked the old woman.
@@ -296,7 +296,7 @@ Rob to Mrs Brown. “You used to get me to talk about him.”
 
 The old woman nodded.
 
-“Well, Mr Dombey, he’s had a fall from his horse,” said Rob,
+“[[Well]], Mr Dombey, he’s had a fall from his [[Horse|horse]],” said Rob,
 unwillingly; “and my master has to be up there, more than usual, either
 with him, or Mrs Dombey, or some of ’em; and so we’ve come to town.”
 
@@ -316,7 +316,7 @@ curious you are, Misses Brown! Least said, soonest mended.”
 
 “Why there’s no harm in it!” exclaimed the old woman, with a laugh, and
 a clap of her hands. “Sprightly Rob, has grown tame since he has been
-well off! There’s no harm in it.”
+[[Well|well]] off! There’s no harm in it.”
 
 “No, there’s no harm in it, I know,” returned Rob, with the same
 distrustful glance at the packer’s and the bottle-maker’s, and the
@@ -350,7 +350,7 @@ ever come and see me?”
 
 “Yes, I tell you! Yes, I will!” returned the Grinder.
 
-“That’s my own Rob! That’s my lovey!” said Mrs Brown, drying the tears
+“That’s my own Rob! That’s my lovey!” said Mrs Brown, drying the [[Tears|tears]]
 upon her shrivelled face, and giving him a tender squeeze. “At the old
 place, Rob?”
 
@@ -358,7 +358,7 @@ place, Rob?”
 
 “Soon, Robby dear?” cried Mrs Brown; “and often?”
 
-“Yes. Yes. Yes,” replied Rob. “I will indeed, upon my soul and body.”
+“Yes. Yes. Yes,” replied Rob. “I will indeed, upon my [[Soul|soul]] and [[Body|body]].”
 
 “And then,” said Mrs Brown, with her arms uplifted towards the sky, and
 her head thrown back and shaking, “if he’s true to his word, I’ll never
@@ -366,7 +366,7 @@ come a-near him though I know where he is, and never breathe a syllable
 about him! Never!”
 
 This ejaculation seemed a drop of comfort to the miserable Grinder, who
-shook Mrs Brown by the hand upon it, and implored her with tears in his
+shook Mrs Brown by the hand upon it, and implored her with [[Tears|tears]] in his
 eyes, to leave a cove and not destroy his prospects. Mrs Brown, with
 another fond embrace, assented; but in the act of following her
 daughter, turned back, with her finger stealthily raised, and asked in
@@ -389,7 +389,7 @@ astonished and dismayed Rob staring after them, saw that they stopped,
 and fell to earnest conversation very soon; and more than once observed
 a darkly threatening action of the younger woman’s hand (obviously
 having reference to someone of whom they spoke), and a crooning feeble
-imitation of it on the part of Mrs Brown, that made him earnestly hope
+[[Imitation|imitation]] of it on the part of Mrs Brown, that made him earnestly [[Hope|hope]]
 he might not be the subject of their discourse.
 
 With the present consolation that they were gone, and with the
@@ -398,19 +398,19 @@ likely to live long to trouble him, the Grinder, not otherwise
 regretting his misdeeds than as they were attended with such
 disagreeable incidental consequences, composed his ruffled features to
 a more serene expression by thinking of the admirable manner in which
-he had disposed of Captain Cuttle (a reflection that seldom failed to
-put him in a flow of spirits), and went to the Dombey Counting House to
+he had disposed of [[Captain Cuttle]] (a reflection that seldom failed to
+put him in a flow of spirits), and went to the Dombey Counting [[house|House]] to
 receive his master’s orders.
 
 There his master, so subtle and vigilant of eye, that Rob quaked before
 him, more than half expecting to be taxed with Mrs Brown, gave him the
 usual morning’s box of papers for Mr Dombey, and a note for Mrs Dombey:
 merely nodding his head as an enjoinder to be careful, and to use
-dispatch—a mysterious admonition, fraught in the Grinder’s imagination
+dispatch—a mysterious admonition, fraught in the Grinder’s [[Imagination|imagination]]
 with dismal warnings and threats; and more powerful with him than any
 words.
 
-Alone again, in his own room, Mr Carker applied himself to work, and
+[[Alone]] again, in his own room, Mr Carker applied himself to work, and
 worked all day. He saw many visitors; overlooked a number of documents;
 went in and out, to and from, sundry places of mercantile resort; and
 indulged in no more abstraction until the day’s business was done. But,
@@ -422,18 +422,18 @@ intently fixed upon the ground, when his brother entered to bring back
 some letters that had been taken out in the course of the day. He put
 them quietly on the table, and was going immediately, when Mr Carker
 the Manager, whose eyes had rested on him, on his entrance, as if they
-had all this time had him for the subject of their contemplation,
+had all this [[Time|time]] had him for the subject of their contemplation,
 instead of the office-floor, said:
 
-“Well, John Carker, and what brings you here?”
+“[[Well]], John Carker, and what brings you here?”
 
 His brother pointed to the letters, and was again withdrawing.
 
-“I wonder,” said the Manager, “that you can come and go, without
+“I [[Wonder|wonder]],” said the Manager, “that you can come and go, without
 inquiring how our master is”.
 
-“We had word this morning in the Counting House, that Mr Dombey was
-doing well,” replied his brother.
+“We had word this morning in the Counting [[house|House]], that Mr Dombey was
+doing [[Well|well]],” replied his brother.
 
 “You are such a meek fellow,” said the Manager, with a smile,—“but you
 have grown so, in the course of years—that if any harm came to him,
@@ -460,23 +460,23 @@ devil! are you man or mouse?”
 “It would be strange if any two persons could be together for so many
 years, especially as superior and inferior, without each having
 something to complain of in the other—as he thought, at all events,”
-replied John Carker. “But apart from my history here—”
+replied John Carker. “But apart from my [[history]] here—”
 
-“His history here!” exclaimed the Manager. “Why, there it is. The very
+“His [[history]] here!” exclaimed the Manager. “Why, there it is. The very
 fact that makes him an extreme case, puts him out of the whole chapter!
-Well?”
+[[Well]]?”
 
 “Apart from that, which, as you hint, gives me a reason to be thankful
-that I alone (happily for all the rest) possess, surely there is no one
-in the House who would not say and feel at least as much. You do not
+that I [[Alone|alone]] (happily for all the rest) possess, surely there is no one
+in the [[house|House]] who would not say and feel at least as much. You do not
 think that anybody here would be indifferent to a mischance or
-misfortune happening to the head of the House, or anything than truly
+misfortune happening to the head of the [[house|House]], or anything than truly
 sorry for it?”
 
 “You have good reason to be bound to him too!” said the Manager,
 contemptuously. “Why, don’t you believe that you are kept here, as a
 cheap example, and a famous instance of the clemency of Dombey and Son,
-redounding to the credit of the illustrious House?”
+redounding to the credit of the illustrious [[house|House]]?”
 
 “No,” replied his brother, mildly, “I have long believed that I am kept
 here for more kind and disinterested reasons.”
@@ -503,7 +503,7 @@ beginning, I know, for your great ability and trustfulness), and who
 communicate more freely with Mr Dombey than anyone, and stand, it may
 be said, on equal terms with him, and have been favoured and enriched
 by him—that it would be a mistake to suppose that it is only you who
-are tender of his welfare and reputation. There is no one in the House,
+are tender of his welfare and reputation. There is no one in the [[house|House]],
 from yourself down to the lowest, I sincerely believe, who does not
 participate in that feeling.”
 
@@ -538,73 +538,73 @@ saw in you. I will only say to you, once more, you are deceived.”
 If not, by your own thoughts and suspicions.”
 
 “I have no suspicions,” said the Manager. “Mine are certainties. You
-pusillanimous, abject, cringing dogs! All making the same show, all
+pusillanimous, abject, cringing [[dogs]]! All making the same show, all
 canting the same story, all whining the same professions, all
 harbouring the same transparent secret.”
 
 His brother withdrew, without saying more, and shut the door as he
-concluded. Mr Carker the Manager drew a chair close before the fire,
+concluded. Mr Carker the Manager drew a chair close before the [[Fire|fire]],
 and fell to beating the coals softly with the poker.
 
 “The faint-hearted, fawning knaves,” he muttered, with his two shining
 rows of teeth laid bare. “There’s not one among them, who wouldn’t
 feign to be so shocked and outraged—! Bah! There’s not one among them,
 but if he had at once the power, and the wit and daring to use it,
-would scatter Dombey’s pride and lay it low, as ruthlessly as I rake
+would scatter Dombey’s [[Pride|pride]] and lay it low, as ruthlessly as I rake
 out these ashes.”
 
 As he broke them up and strewed them in the grate, he looked on with a
-thoughtful smile at what he was doing. “Without the same queen beckoner
-too!” he added presently; “and there is pride there, not to be
+thoughtful smile at what he was doing. “Without the same [[Queen|queen]] beckoner
+too!” he added presently; “and there is [[Pride|pride]] there, not to be
 forgotten—witness our own acquaintance!” With that he fell into a
 deeper reverie, and sat pondering over the blackening grate, until he
-rose up like a man who had been absorbed in a book, and looking round
-him took his hat and gloves, went to where his horse was waiting,
+[[Rose|rose]] up like a man who had been absorbed in a book, and looking round
+him took his hat and gloves, went to where his [[Horse|horse]] was waiting,
 mounted, and rode away through the lighted streets, for it was evening.
 
-He rode near Mr Dombey’s house; and falling into a walk as he
-approached it, looked up at the windows The window where he had once
+He rode near Mr Dombey’s [[house]]; and falling into a walk as he
+approached it, looked up at the windows The [[Window|window]] where he had once
 seen Florence sitting with her dog attracted his attention first,
 though there was no light in it; but he smiled as he carried his eyes
-up the tall front of the house, and seemed to leave that object
+up the tall front of the [[house]], and seemed to leave that object
 superciliously behind.
 
-“Time was,” he said, “when it was well to watch even your rising little
-star, and know in what quarter there were clouds, to shadow you if
+“[[Time]] was,” he said, “when it was [[Well|well]] to watch even your rising little
+star, and know in what quarter there were clouds, to [[Shadow|shadow]] you if
 needful. But a planet has arisen, and you are lost in its light.”
 
-He turned the white-legged horse round the street corner, and sought
-one shining window from among those at the back of the house.
+He turned the white-legged [[Horse|horse]] round the street corner, and sought
+one shining [[Window|window]] from among those at the back of the [[house]].
 Associated with it was a certain stately presence, a gloved hand, the
 remembrance how the feathers of a beautiful bird’s wing had been
 showered down upon the floor, and how the light white down upon a robe
-had stirred and rustled, as in the rising of a distant storm. These
+had stirred and rustled, as in the rising of a distant [[Storm|storm]]. These
 were the things he carried with him as he turned away again, and rode
 through the darkening and deserted Parks at a quick rate.
 
-In fatal truth, these were associated with a woman, a proud woman, who
+In fatal [[Truth|truth]], these were associated with a woman, a proud woman, who
 hated him, but who by slow and sure degrees had been led on by his
-craft, and her pride and resentment, to endure his company, and little
+craft, and her [[Pride|pride]] and resentment, to endure his company, and little
 by little to receive him as one who had the privilege to talk to her of
 her own defiant disregard of her own husband, and her abandonment of
 high consideration for herself. They were associated with a woman who
 hated him deeply, and who knew him, and who mistrusted him because she
 knew him, and because he knew her; but who fed her fierce resentment by
-suffering him to draw nearer and yet nearer to her every day, in spite
+[[Suffering|suffering]] him to draw nearer and yet nearer to her every day, in spite
 of the hate she cherished for him. In spite of it! For that very
 reason; since in its depths, too far down for her threatening eye to
 pierce, though she could see into them dimly, lay the dark retaliation,
-whose faintest shadow seen once and shuddered at, and never seen again,
-would have been sufficient stain upon her soul.
+whose faintest [[Shadow|shadow]] seen once and shuddered at, and never seen again,
+would have been sufficient stain upon her [[Soul|soul]].
 
-Did the phantom of such a woman flit about him on his ride; true to the
+Did the [[Phantom|phantom]] of such a woman flit about him on his ride; true to the
 reality, and obvious to him?
 
 Yes. He saw her in his mind, exactly as she was. She bore him company
-with her pride, resentment, hatred, all as plain to him as her beauty;
+with her [[Pride|pride]], resentment, hatred, all as plain to him as her [[Beauty|beauty]];
 with nothing plainer to him than her hatred of him. He saw her
 sometimes haughty and repellent at his side, and some times down among
-his horse’s feet, fallen and in the dust. But he always saw her as she
+his [[Horse|horse]]’s feet, fallen and in the [[Dust|dust]]. But he always saw her as she
 was, without disguise, and watched her on the dangerous way that she
 was going.
 

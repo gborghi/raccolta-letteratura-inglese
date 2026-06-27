@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE DISEASE OF DUODIAPSYCHOSIS (part 2)"
+title: "[[FourFaultlessFelons]] — THE DISEASE OF DUODIAPSYCHOSIS (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -26,7 +26,7 @@ mountebank?" she cried in a tempest of indescribable fury. "Do you think
 
 I don't know why you're trying to make out my father isn't responsible?
 
-Because I told you he could turn you out of the house . . because ..."
+Because I told you he could turn you out of the [[house]] . . because ..."
 
 
 
@@ -46,7 +46,7 @@ stiff as a corpse and then suddenly the corpse came to life.
 
 "Yes!" he cried, leaping up. "You are right! It is you. It is you all the
 
-time! How can I leave you alone with him? You must believe me! I tell you
+[[Time|time]]! How can I leave you [[Alone|alone]] with him? You must believe me! I tell you
 
 the man is mad." He cried out suddenly in a new and ringing voice: "I
 
@@ -58,11 +58,11 @@ that?"
 
 She was so astounded at this burst of passion after all the pedantry,
 
-that for the first time something broke or wavered in her hard voice and
+that for the first [[Time|time]] something broke or wavered in her hard voice and
 
 she could only say: "If it is me you are thinking about, you must leave
 
-him alone."
+him [[Alone|alone]]."
 
 
 
@@ -80,13 +80,13 @@ have a duty to the public."
 
 
 
-And then, in the silence that followed, they both heard the sounds which
+And then, in the [[Silence|silence]] that followed, they both heard the sounds which
 
-could alone, perhaps, have aroused them from their dumb mutual defiance.
+could [[Alone|alone]], perhaps, have aroused them from their dumb mutual defiance.
 
 A long, light and swinging step was heard down the corridors, and the
 
-light humming of some post-prandial song, told Enid with sufficient
+light humming of some post-prandial [[Song|song]], told Enid with sufficient
 
 clearness who had returned, and the next moment Walter Windrush stood in
 
@@ -96,25 +96,25 @@ a tall and handsome old gentleman, and before him the figure of the
 
 sullen doctor looked not only square but almost squat. But when the
 
-artist looked across his studio, he saw the windows open and the
+[[artist]] looked across his studio, he saw the windows open and the
 
 festivity faded from his face.
 
 
 
-"I have just walked through your garden," said the doctor in a soft
+"I have just walked through your [[Garden|garden]]," said the doctor in a soft
 
 voice.
 
 
 
-"Then you will kindly walk out of my house," said the artist.
+"Then you will kindly walk out of my [[house]]," said the [[artist]].
 
 
 
 He had turned pale with anger or some other passion, but he spoke clearly
 
-and firmly. After a silence he said: "I must ask you to cease from any
+and firmly. After a [[Silence|silence]] he said: "I must ask you to cease from any
 
 communications with me and my family."
 
@@ -128,9 +128,9 @@ beyond his control.
 
 
 
-"You say I am to go out of this house. I say it is you who shall go out
+"You say I am to go out of this [[house]]. I say it is you who shall go out
 
-of this house!"
+of this [[house]]!"
 
 
 
@@ -154,23 +154,23 @@ Of the next frightful forty-eight hours in which the threat was carried
 
 out with all its consequences, Enid could never remember many details.
 
-But she remembered some nameless hour of night or morning that seemed but
+But she remembered some nameless hour of [[Night|night]] or morning that seemed but
 
-a part of a sleepless night, when she stood on the doorstep and looked
+a part of a sleepless [[Night|night]], when she stood on the doorstep and looked
 
 wildly up and down the street, as if expecting her neighbours to rescue
 
-her from a house on fire. And there crept upon her the cold certainty,
+her from a [[house]] on [[Fire|fire]]. And there crept upon her the cold certainty,
 
-more cruel than any fire, that in this sort of calamity there was no hope
+more cruel than any [[Fire|fire]], that in this sort of calamity there was no [[Hope|hope]]
 
-from neighbours, nor any appeal against the machine of modern oppression.
+from neighbours, nor any appeal against the [[Machine|machine]] of modern oppression.
 
 She saw a policeman standing near the next lamp-post, outside the next
 
-house. She thought of calling to the policeman, as if to save her from a
+[[house]]. She thought of calling to the policeman, as if to save her from a
 
-burglar, and then she realized that she might as well call to the
+burglar, and then she realized that she might as [[Well|well]] call to the
 
 lamp-post. If two doctors chose to testify that Walter Windrush was mad,
 

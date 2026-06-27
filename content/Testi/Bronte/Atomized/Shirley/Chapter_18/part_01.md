@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 18 (part 1)"
+title: "[[Shirley]] — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,15 +28,15 @@ INTRODUCED.
 
 The evening was still and warm; close and sultry it even promised to
 
-become. Round the descending sun the clouds glowed purple; summer tints,
+become. Round the descending sun the clouds glowed purple; [[Summer|summer]] tints,
 
 rather Indian than English, suffused the horizon, and cast rosy
 
-reflections on hillside, house-front, tree-bole, on winding road and
+reflections on hillside, [[house]]-front, tree-bole, on winding [[Road|road]] and
 
 undulating pasture-ground. The two girls came down from the fields
 
-slowly. By the time they reached the churchyard the bells were hushed;
+slowly. By the [[Time|time]] they reached the churchyard [[The Bells|the bells]] were hushed;
 
 the multitudes were gathered into the church. The whole scene was
 
@@ -48,7 +48,7 @@ solitary.
 
 
 
-"And how hot it will be in the church!" responded Shirley. "And what a
+"And how hot it will be in the church!" responded [[Shirley]]. "And what a
 
 dreary long speech Dr. Boultby will make! And how the curates will
 
@@ -74,33 +74,33 @@ friendly homily, with all its racy Yorkshireisms; but here I must stay.
 
 The gray church and grayer tombs look divine with this crimson gleam on
 
-them. Nature is now at her evening prayers; she is kneeling before those
+them. [[Nature]] is now at her evening prayers; she is kneeling before those
 
 red hills. I see her prostrate on the great steps of her altar, praying
 
-for a fair night for mariners at sea, for travellers in deserts, for
+for a fair [[Night|night]] for mariners at sea, for travellers in deserts, for
 
-lambs on moors, and unfledged birds in woods. Caroline, I see her, and I
+lambs on moors, and unfledged [[Birds|birds]] in woods. Caroline, I see her, and I
 
 will tell you what she is like. She is like what Eve was when she and
 
-Adam stood alone on earth."
+Adam stood [[Alone|alone]] on earth."
 
 
 
-"And that is not Milton's Eve, Shirley."
+"And that is not [[Milton]]'s Eve, [[Shirley]]."
 
 
 
-"Milton's Eve! Milton's Eve! I repeat. No, by the pure Mother of God,
+"[[Milton]]'s Eve! [[Milton]]'s Eve! I repeat. No, by the pure Mother of God,
 
-she is not! Cary, we are alone; we may speak what we think. Milton was
+she is not! Cary, we are [[Alone|alone]]; we may speak what we think. [[Milton]] was
 
 great; but was he good? His brain was right; how was his heart? He saw
 
-heaven; he looked down on hell. He saw Satan, and Sin his daughter, and
+heaven; he looked down on hell. He saw [[Satan]], and Sin his daughter, and
 
-Death their horrible offspring. Angels serried before him their
+[[Death]] their horrible offspring. Angels serried before him their
 
 battalions; the long lines of adamantine shields flashed back on his
 
@@ -108,41 +108,41 @@ blind eyeballs the unutterable splendour of heaven. Devils gathered
 
 their legions in his sight; their dim, discrowned, and tarnished armies
 
-passed rank and file before him. Milton tried to see the first woman;
+passed rank and file before him. [[Milton]] tried to see the first woman;
 
 but, Cary, he saw her not."
 
 
 
-"You are bold to say so, Shirley."
+"You are bold to say so, [[Shirley]]."
 
 
 
 "Not more bold than faithful. It was his cook that he saw; or it was
 
-Mrs. Gill, as I have seen her, making custards, in the heat of summer,
+Mrs. Gill, as I have seen her, making custards, in the heat of [[Summer|summer]],
 
-in the cool dairy, with rose-trees and nasturtiums about the latticed
+in the cool dairy, with [[Rose|rose]]-trees and nasturtiums about the latticed
 
-window, preparing a cold collation for the rectors--preserves and
+[[Window|window]], preparing a cold collation for the rectors--preserves and
 
 'dulcet creams;' puzzled 'what choice to choose for delicacy best; what
 
-order so contrived as not to mix tastes, not well-joined, inelegant, but
+order so contrived as not to mix tastes, not [[Well|well]]-joined, inelegant, but
 
 bring taste after taste, upheld with kindliest change.'"
 
 
 
-"All very well too, Shirley."
+"All very [[Well|well]] too, [[Shirley]]."
 
 
 
 "I would beg to remind him that the first men of the earth were Titans,
 
-and that Eve was their mother; from her sprang Saturn, Hyperion,
+and that Eve was their mother; from her sprang [[Saturn]], [[Hyperion]],
 
-Oceanus; she bore Prometheus----"
+Oceanus; she bore [[Prometheus]]----"
 
 
 
@@ -158,17 +158,17 @@ world yielded the daring which could contend with Omnipotence, the
 
 strength which could bear a thousand years of bondage, the vitality
 
-which could feed that vulture death through uncounted ages, the
+which could feed that vulture [[Death|death]] through uncounted ages, the
 
-unexhausted life and uncorrupted excellence, sisters to immortality,
+unexhausted life and uncorrupted excellence, sisters to [[Immortality|immortality]],
 
 which, after millenniums of crimes, struggles, and woes, could conceive
 
 and bring forth a Messiah. The first woman was heaven-born. Vast was the
 
-heart whence gushed the well-spring of the blood of nations, and grand
+heart whence gushed the [[Well|well]]-[[spring]] of the [[Blood|blood]] of nations, and grand
 
-the undegenerate head where rested the consort-crown of creation."
+the undegenerate head where rested the consort-[[Crown|crown]] of creation."
 
 
 
@@ -188,7 +188,7 @@ outskirts of the heath, where yonder flock is grazing; a veil white as
 
 an avalanche sweeps from her head to her feet, and arabesques of
 
-lightning flame on its borders. Under her breast I see her zone, purple
+[[Lightning|lightning]] flame on its borders. Under her breast I see her zone, purple
 
 like that horizon; through its blush shines the star of evening. Her
 
@@ -196,9 +196,9 @@ steady eyes I cannot picture. They are clear, they are deep as lakes,
 
 they are lifted and full of worship, they tremble with the softness of
 
-love and the lustre of prayer. Her forehead has the expanse of a cloud,
+[[Love|love]] and the lustre of [[prayer]]. Her forehead has the expanse of a cloud,
 
-and is paler than the early moon, risen long before dark gathers. She
+and is paler than the early [[Moon|moon]], risen long before dark gathers. She
 
 reclines her bosom on the ridge of Stilbro' Moor; her mighty hands are
 
@@ -208,7 +208,7 @@ Eve is Jehovah's daughter, as Adam was His son."
 
 
 
-"She is very vague and visionary. Come, Shirley, we ought to go into
+"She is very vague and visionary. Come, [[Shirley]], we ought to go into
 
 church."
 
@@ -216,7 +216,7 @@ church."
 
 "Caroline, I will not; I will stay out here with my mother Eve, in these
 
-days called Nature. I love her--undying, mighty being! Heaven may have
+days called [[Nature]]. I [[Love|love]] her--undying, mighty being! Heaven may have
 
 faded from her brow when she fell in paradise, but all that is glorious
 
@@ -228,13 +228,13 @@ are both silent."
 
 
 
-"I will humour your whim; but you will begin talking again ere ten
+"I will [[Humour|humour]] your whim; but you will begin talking again ere ten
 
 minutes are over."
 
 
 
-Miss Keeldar, on whom the soft excitement of the warm summer evening
+Miss Keeldar, on whom the soft excitement of the warm [[Summer|summer]] evening
 
 seemed working with unwonted power, leaned against an upright headstone;
 
@@ -242,6 +242,6 @@ she fixed her eyes on the deep-burning west, and sank into a pleasurable
 
 trance. Caroline, going a little apart, paced to and fro beneath the
 
-rectory garden wall, dreaming too in her way. Shirley had mentioned the
+rectory [[Garden|garden]] wall, dreaming too in her way. [[Shirley]] had mentioned the
 
-word "mother." That word suggested to Caroline's imagination not the
+word "mother." That word suggested to Caroline's [[Imagination|imagination]] not the

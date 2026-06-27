@@ -19,11 +19,11 @@ a comparative but a contrary, is the distinction between avarice
 and thrift.  Here, again, it is of course possible for an individual
 to pass from one to the other; but it is only by violating the other,
 not by exaggerating it.  The two things are really opposites;
-but things do sometimes produce their opposites.  Love may turn to hate;
+but things do sometimes produce their opposites.  [[Love]] may turn to hate;
 a man may begin by wanting to marry a woman and end by wanting
-to murder her.  But love is none the less the opposite of hate;
-and even our most advanced thinkers would hardly say that marriage
-is the same as murder.  A man, profligate in youth, may so poison
+to murder her.  But [[Love|love]] is none the less the opposite of hate;
+and even our most advanced thinkers would hardly say that [[Marriage|marriage]]
+is the same as murder.  A man, profligate in youth, may so [[Poison|poison]]
 himself as to become Puritan in old age.  But the reaction is none
 the less a reaction because it is a morbid and exaggerated reaction.
 In the same way a thrifty man may turn into a miser,
@@ -31,21 +31,21 @@ but in turning into a miser he is ceasing to be a thrifty man.
 He is most emphatically not becoming more of a thrifty man.
 A miser is a man who is intercepted and misled in his pursuit
 of thrift and betrayed into turning to the pursuit of money.
-Madness of that sort always haunts the life of man, as a possible
-temptation and perversion.  Idolatry is always a danger to the soul,
+[[Madness]] of that sort always haunts the life of man, as a possible
+[[Temptation|temptation]] and perversion.  Idolatry is always a danger to the [[Soul|soul]],
 and idolatry is the worship of the instrument.  A man who thinks
-he is justified in drawing the sword for justice may be tempted
-of the devil and come to worship not the justice but the sword.
+he is justified in drawing the [[Sword|sword]] for justice may be tempted
+of the devil and come to worship not the justice but the [[Sword|sword]].
 That is what happened to poor Nietzsche, leading him to write that
 sentence which is still the motto of Prussianism and Prussia:  "You say
 a good cause justifies any war; but I say a good war justifies
 any cause."  The peasant who follows the plough may fall
-into the same temptation as the soldier who follows the sword;
+into the same [[Temptation|temptation]] as the soldier who follows the [[Sword|sword]];
 but both will be turning against their original purpose,
 even against their own purpose in using their own tools.
 For the peasant who thinks more of the money-bags than he does of
 the flour-sacks becomes less of a peasant in becoming more of a miser.
-And the real soldier does not follow the sword, but follows the flag.
+And the real soldier does not follow the [[Sword|sword]], but follows the [[Flag|flag]].
 
 Thrift by derivation means thriving; and the miser is the man
 who does not thrive.  The whole meaning of thrift is making the most
@@ -78,25 +78,25 @@ human beings, except that they understand the rather important
 thing which economists call "economy of consumption."
 
 A French or Flemish peasant woman will make much more out of the scraps
-in the kitchen, or the very weeds in the garden, than a proletarian will
-make out of the tinned food and advertised wares of a commercial city.
+in the kitchen, or the very weeds in the [[Garden|garden]], than a proletarian will
+make out of the tinned food and advertised wares of a commercial [[City|city]].
 But normally she will be quite as pleased, not to say proud,
 to put the results of her cookery before other people as if she
 were presiding over a fatigued cocktail-party in Mayfair.
-But the test of her pretensions, of her pride--one might almost say
+But the test of her pretensions, of her [[Pride|pride]]--one might almost say
 of her profession--is concerned entirely with the practical product.
 For the healthy-minded peasant, more than for anybody, the proof
 of the pudding is in the eating.  She may become an unhealthy-minded
 peasant and think of nothing but the money; for the diseases
-of the soul are in the very air.  Therefore, it will probably
+of the [[Soul|soul]] are in the very air.  Therefore, it will probably
 happen that every village will contain a miser--that is, a madman.
-But his madness has nothing to do with the sanity of thrift.
+But his [[Madness|madness]] has nothing to do with the [[Sanity|sanity]] of thrift.
 Thrift in itself is always a thirst to make all things thrive,
 animal, vegetable, or mineral; to make them prosper and produce;
 to prevent their being wasted, or, in other words, destroyed.
 Whether particular people need to be warned of particular dancers
 touching the avarice that perverts thrift is a matter of moral
-education and religion; but the first principle is that the miser
+[[Education|education]] and religion; but the first principle is that the miser
 is not a more thrifty man but a much less thrifty man, for he wastes
 money more than a spendthrift.
 
@@ -105,28 +105,28 @@ money more than a spendthrift.
 _XXVII About Change_
 
 THIS would be no place to inquire too closely why those bright
-youths who are so superior to eternity seem to be so subject
-and submissive to time; why they proclaim with such wild pagan
-gestures that they can pull down the cross; but assure us, with such
-anxious and agitated motions, that we cannot put back the clock.
+youths who are so superior to [[Eternity|eternity]] seem to be so subject
+and submissive to [[Time|time]]; why they proclaim with such wild pagan
+gestures that they can pull down the [[Cross|cross]]; but assure us, with such
+anxious and agitated motions, that we cannot put back the [[Clock|clock]].
 They seem to suppose that it is a sort of new religion to worship
-the clock; and that without even noticing that it is generally
-a grandfather's clock.  For Time, whatever else he is, is rather
+the [[Clock|clock]]; and that without even noticing that it is generally
+a grandfather's [[Clock|clock]].  For [[Time]], whatever else he is, is rather
 an old gentleman by now; his hour-glass is a very antiquated
-sort of clock, and his scythe a rustic and archaic instrument
+sort of [[Clock|clock]], and his scythe a rustic and archaic instrument
 quite unworthy of an exhibition of agricultural machinery.
 In other words, all this talk about things being suited to the times must,
-by its very nature, have been uttered hundreds of times before.
-And any one who listens in a meditative mood to the grandfather's clock
+by its very [[Nature|nature]], have been uttered hundreds of times before.
+And any one who listens in a meditative mood to the grandfather's [[Clock|clock]]
 will find it difficult to say that there is so very much difference
 between one tick and another; and may perhaps suspect that there
-was not quite so much difference between one time and another.
-I am well aware that some have hyphenated the name of Father Time,
-and that calling him Space-Time may make him seem rather more spacious.
-But, for all that, there is a little trick of logic, like a trick
-of clockwork, by which the young philosopher is caught in time as
-in a trap.  His own time closes on him with a click; as in a creepy
+was not quite so much difference between one [[Time|time]] and another.
+I am [[Well|well]] aware that some have hyphenated the name of Father [[Time]],
+and that calling him Space-[[Time]] may make him seem rather more spacious.
+But, for all that, there is a little trick of [[logic]], like a trick
+of clockwork, by which the young philosopher is caught in [[Time|time]] as
+in a trap.  His own [[Time|time]] closes on him with a click; as in a creepy
 murder story I once read, in which a man was caught and crushed
-in an old clock.  For the fallacy which entraps him is this:
-that he cannot apparently resist the temptation to base his argument
-on the mere moment of time at which the argument takes place.
+in an old [[Clock|clock]].  For the fallacy which entraps him is this:
+that he cannot apparently resist the [[Temptation|temptation]] to base his argument
+on the mere moment of [[Time|time]] at which the argument takes place.

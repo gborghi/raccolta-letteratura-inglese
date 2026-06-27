@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 8 (part 5)"
+title: "[[Villette]] — Chapter 8 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -32,11 +32,11 @@ infinitely more unmanageable than the other two. In after days, when I
 knew the ground better, I used to think sometimes (if such a comparison
 may be permitted), that the quiet, polished, tame first division was to
 the robust, riotous, demonstrative second division, what the English
-House of Lords is to the House of Commons.
+[[house|House]] of Lords is to the [[house|House]] of Commons.
 
 The first glance informed me that many of the pupils were more than
 girls—quite young women; I knew that some of them were of noble family
-(as nobility goes in Labassecour), and I was well convinced that not
+(as nobility goes in Labassecour), and I was [[Well|well]] convinced that not
 one amongst them was ignorant of my position in Madame’s household. As
 I mounted the estràde (a low platform, raised a step above the
 flooring), where stood the teacher’s chair and desk, I beheld opposite
@@ -44,8 +44,8 @@ to me a row of eyes and brows that threatened stormy weather—eyes full
 of an insolent light, and brows hard and unblushing as marble. The
 continental “female” is quite a different being to the insular “female”
 of the same age and class: I never saw such eyes and brows in England.
-Madame Beck introduced me in one cool phrase, sailed from the room, and
-left me alone in my glory.
+[[Madame Beck]] introduced me in one cool phrase, sailed from the room, and
+left me [[Alone|alone]] in my glory.
 
 I shall never forget that first lesson, nor all the under-current of
 life and character it opened up to me. Then first did I begin rightly
@@ -55,7 +55,7 @@ ideal “jeune fille” and the said “jeune fille” as she really is.
 It seems that three titled belles in the first row had sat down
 predetermined that a _bonne d’enfants_ should not give them lessons in
 English. They knew they had succeeded in expelling obnoxious teachers
-before now; they knew that Madame would at any time throw overboard a
+before now; they knew that Madame would at any [[Time|time]] throw overboard a
 professeur or maitresse who became unpopular with the school—that she
 never assisted a weak official to retain his place—that if he had not
 strength to fight, or tact to win his way, down he went: looking at
@@ -70,7 +70,7 @@ under such cruel constraint.
 
 Could I but have spoken in my own tongue, I felt as if I might have
 gained a hearing; for, in the first place, though I knew I looked a
-poor creature, and in many respects actually was so, yet nature had
+poor creature, and in many respects actually was so, yet [[Nature|nature]] had
 given me a voice that could make itself heard, if lifted in excitement
 or deepened by emotion. In the second place, while I had no flow, only
 a hesitating trickle of language, in ordinary circumstances, yet—under
@@ -88,12 +88,12 @@ deliberately read the composition, which I found very stupid, and, as
 deliberately, and in the face of the whole school, tear the blotted
 page in two.
 
-This action availed to draw attention and check noise. One girl alone,
+This action availed to draw attention and check noise. One girl [[Alone|alone]],
 quite in the background, persevered in the riot with undiminished
 energy. I looked at her attentively. She had a pale face, hair like
-night, broad strong eyebrows, decided features, and a dark, mutinous,
+[[Night|night]], broad strong eyebrows, decided features, and a dark, mutinous,
 sinister eye: I noted that she sat close by a little door, which door,
-I was well aware, opened into a small closet where books were kept. She
+I was [[Well|well]] aware, opened into a small closet where books were kept. She
 was standing up for the purpose of conducting her clamour with freer
 energies. I measured her stature and calculated her strength. She
 seemed both tall and wiry; but, so the conflict were brief and the
@@ -111,14 +111,14 @@ associates; the act of summary justice above noted proved popular:
 there was not one present but, in her heart, liked to see it done. They
 were stilled for a moment; then a smile—not a laugh—passed from desk to
 desk: then—when I had gravely and tranquilly returned to the estrade,
-courteously requested silence, and commenced a dictation as if nothing
+courteously requested [[Silence|silence]], and commenced a dictation as if nothing
 at all had happened—the pens travelled peacefully over the pages, and
 the remainder of the lesson passed in order and industry.
 
-“C’est bien,” said Madame Beck, when I came out of class, hot and a
+“C’est bien,” said [[Madame Beck]], when I came out of class, hot and a
 little exhausted. “Ca ira.”
 
-She had been listening and peeping through a spy-hole the whole time.
+She had been listening and peeping through a spy-hole the whole [[Time|time]].
 
 From that day I ceased to be nursery governess, and became English
 teacher. Madame raised my salary; but she got thrice the work out of me

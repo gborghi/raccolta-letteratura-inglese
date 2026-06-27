@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE RELIGION OF SMALL PROPERTY (part 4)"
+title: "[[Sanity]] — THE RELIGION OF SMALL PROPERTY (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -19,7 +19,7 @@ represented by the French Canadians, there are probably still
 a number of sly critics who would point the finger of detection
 at me and cry, as if they had caught me in something very naughty,
 "You believe in the French Canadians because they are Catholics";
-which is in one sense not only true, but very nearly the whole truth.
+which is in one sense not only true, but very nearly the whole [[Truth|truth]].
 But in another sense it is not true at all; if it means that I exercise
 no independent judgment in perceiving that this is really what we
 do want.  Now when this difficulty and misunderstanding arises,
@@ -34,7 +34,7 @@ The dear old Daily News, of the days of my youth, on which I wrote
 happily for many years and had so many good and admirable friends,
 cannot be accused as yet as being an organ of the Jesuits.
 It was, and is, as every one knows, the organ of the Nonconformists.
-Dr. Clifford brandished his teapot there when he was selling it
+Dr. [[Clifford]] brandished his teapot there when he was selling it
 in order to demonstrate, by one symbolical act, that he had long been
 a teetotaller and was now a Passive Resister.  We may be pardoned
 for smiling at this aspect of the matter; but there are many
@@ -57,7 +57,7 @@ After saying that the Anglo-Saxons are drawn away to the United States,
 or at any rate to the industrial cities, he remarks that the French
 are of course very numerous in Quebec and elsewhere, but that it is not
 here that the notable development is taking place, and that Montreal,
-being a large city, is showing signs of the slackening to be seen
+being a large [[City|city]], is showing signs of the slackening to be seen
 in other large cities.
 
 "Now look at the other picture.  The race that is going ahead is
@@ -65,7 +65,7 @@ the French race. . . . In Quebec, where there are nearly 2,000,000
 Canadians of French origin in a population of 2,350,000, that might
 have been expected.  But as a matter of fact it is not in Quebec that
 the French are making good most conspicuously . . . nor in Nova Scotia and
-New Brunswick is the comparative success of the French stock most marked.
+New Brunswick is the comparative [[success]] of the French stock most marked.
 They are doing splendidly on the land and raising prodigious families.
 A family of twelve is quite common, and I could name several cases
 where there have been twenty, who all lived.  The day may come when they
@@ -112,8 +112,8 @@ with early Scottish Protestantism.  Very early Scottish Protestantism,
 like very early English Protestantism, consisted chiefly of loot.
 But if we take it as referring to the perfectly pure and sincere
 enthusiasm of many Covenanters or early Calvinists, we come upon
-the contrast that is the point of the whole matter.  Early Puritanism
-was pure Puritanism; but the purer it is the more early it seems.
+the contrast that is the point of the whole matter.  Early [[Puritanism]]
+was pure [[Puritanism]]; but the purer it is the more early it seems.
 We cannot imagine it as a good thing and also a modern thing.
 It might have been one of the most honest things in Scotland then.
 But nobody would be found calling it one of the most hopeful things
@@ -128,9 +128,9 @@ of the Charge of the Light Brigade as the submission to Lord Raglan.
 It is still more like talking about the storming of Jerusalem
 as the submission to the Count of Bouillon.  In one sense it
 is quite true; in another it is very untrue.  But I have not
-the smallest desire here to disturb the impartiality of my witness.
+the smallest [[Desire|desire]] here to disturb the impartiality of my witness.
 I have not the smallest intention of using any of the tortures
-of the Inquisition to make him admit anything that he did not wish
+of the [[Inquisition]] to make him admit anything that he did not wish
 to admit.  The admission as it stands seems to me very remarkable;
 not so much because it is a tribute to Frenchmen as colonists
 as because it is a tribute to colonists as pious and devout people.
@@ -138,4 +138,4 @@ But what concerns me most of all in the general discussion of my own
 theme is the insistence on stability.  They are staying on the soil;
 they are a social organism; they are held together as a unit.
 That is the new note which I think is needed in all talk of colonization,
-before it can again be any part of the hope of the world.
+before it can again be any part of the [[Hope|hope]] of the world.

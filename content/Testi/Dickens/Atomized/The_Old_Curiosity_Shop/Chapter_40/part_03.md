@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-When they reached the Notary’s house, Kit followed into the office, and
+When they reached the Notary’s [[house]], Kit followed into the office, and
 was desired by Mr Abel to sit down and wait, for the gentleman who
-wanted him had gone out, and perhaps might not return for some time.
+wanted him had gone out, and perhaps might not return for some [[Time|time]].
 This anticipation was strictly verified, for Kit had had his dinner,
 and his tea, and had read all the lighter matter in the Law-List, and
 the Post-Office Directory, and had fallen asleep a great many times,
 before the gentleman whom he had seen before, came in; which he did at
 last in a very great hurry.
 
-He was closeted with Mr Witherden for some little time, and Mr Abel had
+He was closeted with Mr Witherden for some little [[Time|time]], and Mr Abel had
 been called in to assist at the conference, before Kit, wondering very
 much what he was wanted for, was summoned to attend them.
 
@@ -35,20 +35,20 @@ delight.  ‘Where are they, Sir?  How are they, Sir?  Are they--are they
 near here?’
 
 ‘A long way from here,’ returned the gentleman, shaking his head.  ‘But
-I am going away to-night to bring them back, and I want you to go with
+I am going away to-[[Night|night]] to bring them back, and I want you to go with
 me.’
 
 ‘Me, Sir?’ cried Kit, full of joy and surprise.
 
 ‘The place,’ said the strange gentleman, turning thoughtfully to the
-Notary, ‘indicated by this man of the dogs, is--how far from
+Notary, ‘indicated by this man of the [[dogs]], is--how far from
 here--sixty miles?’
 
 ‘From sixty to seventy.’
 
-‘Humph!  If we travel post all night, we shall reach there in good time
+‘Humph!  If we travel post all [[Night|night]], we shall reach there in good [[Time|time]]
 to-morrow morning.  Now, the only question is, as they will not know
-me, and the child, God bless her, would think that any stranger
+me, and the [[Child|child]], God bless her, would think that any stranger
 pursuing them had a design upon her grandfather’s liberty--can I do
 better than take this lad, whom they both know and will readily
 remember, as an assurance to them of my friendly intentions?’
@@ -77,7 +77,7 @@ person who would serve my purpose?’
 
 ‘Know her, Sir! why, she was always coming backwards and forwards.
 They were as kind to her as they were to me.  Bless you, Sir, she
-expected they’d come back to her house.’
+expected they’d come back to her [[house]].’
 
 ‘Then where the devil is the woman?’ said the impatient gentleman,
 catching up his hat.  ‘Why isn’t she here?  Why is that woman always
@@ -85,22 +85,22 @@ out of the way when she is most wanted?’
 
 In a word, the single gentleman was bursting out of the office, bent
 upon laying violent hands on Kit’s mother, forcing her into a
-post-chaise, and carrying her off, when this novel kind of abduction
+post-chaise, and carrying her off, when this [[Novel|novel]] kind of abduction
 was with some difficulty prevented by the joint efforts of Mr Abel and
 the Notary, who restrained him by dint of their remonstrances, and
 persuaded him to sound Kit upon the probability of her being able and
-willing to undertake such a journey on so short a notice.
+willing to undertake such a [[Journey|journey]] on so short a notice.
 
 This occasioned some doubts on the part of Kit, and some violent
 demonstrations on that of the single gentleman, and a great many
 soothing speeches on that of the Notary and Mr Abel.  The upshot of the
 business was, that Kit, after weighing the matter in his mind and
 considering it carefully, promised, on behalf of his mother, that she
-should be ready within two hours from that time to undertake the
+should be ready within two hours from that [[Time|time]] to undertake the
 expedition, and engaged to produce her in that place, in all respects
-equipped and prepared for the journey, before the specified period had
+equipped and prepared for the [[Journey|journey]], before the specified period had
 expired.
 
 Having given this pledge, which was rather a bold one, and not
-particularly easy of redemption, Kit lost no time in sallying forth,
+particularly easy of redemption, Kit lost no [[Time|time]] in sallying forth,
 and taking measures for its immediate fulfilment.

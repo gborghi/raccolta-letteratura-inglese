@@ -20,9 +20,9 @@ MR BOFFIN IN CONSULTATION
 
 
 Whosoever had gone out of Fleet Street into the Temple at the date of
-this history, and had wandered disconsolate about the Temple until he
+this [[history]], and had wandered disconsolate about the Temple until he
 stumbled on a dismal churchyard, and had looked up at the dismal windows
-commanding that churchyard until at the most dismal window of them
+commanding that churchyard until at the most dismal [[Window|window]] of them
 all he saw a dismal boy, would in him have beheld, at one grand
 comprehensive swoop of the eye, the managing clerk, junior clerk,
 common-law clerk, conveyancing clerk, chancery clerk, every refinement
@@ -32,9 +32,9 @@ the newspapers eminent solicitor.
 Mr Boffin having been several times in communication with this clerkly
 essence, both on its own ground and at the Bower, had no difficulty in
 identifying it when he saw it up in its dusty eyrie. To the second floor
-on which the window was situated, he ascended, much pre-occupied in mind
+on which the [[Window|window]] was situated, he ascended, much pre-occupied in mind
 by the uncertainties besetting the Roman Empire, and much regretting the
-death of the amiable Pertinax: who only last night had left the Imperial
+[[Death|death]] of the amiable Pertinax: who only last [[Night|night]] had left the Imperial
 affairs in a state of great confusion, by falling a victim to the fury
 of the praetorian guards.
 
@@ -47,14 +47,14 @@ Blight. ‘Governor in?’
 ‘I don’t want him to give it, you know,’ returned Mr Boffin; ‘I’ll pay
 my way, my boy.’
 
-‘No doubt, sir. Would you walk in? Mr Lightwood ain’t in at the present
+‘No [[Doubt|doubt]], sir. Would you walk in? Mr Lightwood ain’t in at the present
 moment, but I expect him back very shortly. Would you take a seat in Mr
 Lightwood’s room, sir, while I look over our Appointment Book?’
 Young Blight made a great show of fetching from his desk a long thin
 manuscript volume with a brown paper cover, and running his finger down
 the day’s appointments, murmuring, ‘Mr Aggs, Mr Baggs, Mr Caggs, Mr
 Daggs, Mr Faggs, Mr Gaggs, Mr Boffin. Yes, sir; quite right. You are a
-little before your time, sir. Mr Lightwood will be in directly.’
+little before your [[Time|time]], sir. Mr Lightwood will be in directly.’
 
 ‘I’m not in a hurry,’ said Mr Boffin
 
@@ -99,7 +99,7 @@ bitterness were past.
 ‘Fifteen shillings a week,’ said the boy.
 
 ‘About how long might it take you now, at a average rate of going, to be
-a Judge?’ asked Mr Boffin, after surveying his small stature in silence.
+a Judge?’ asked Mr Boffin, after surveying his small stature in [[Silence|silence]].
 
 The boy answered that he had not yet quite worked out that little
 calculation.
@@ -107,21 +107,21 @@ calculation.
 ‘I suppose there’s nothing to prevent your going in for it?’ said Mr
 Boffin.
 
-The boy virtually replied that as he had the honour to be a Briton who
+The boy virtually replied that as he had the [[Honour|honour]] to be a Briton who
 never never never, there was nothing to prevent his going in for it. Yet
 he seemed inclined to suspect that there might be something to prevent
 his coming out with it.
 
 ‘Would a couple of pound help you up at all?’ asked Mr Boffin.
 
-On this head, young Blight had no doubt whatever, so Mr Boffin made him
+On this head, young Blight had no [[Doubt|doubt]] whatever, so Mr Boffin made him
 a present of that sum of money, and thanked him for his attention to his
 (Mr Boffin’s) affairs; which, he added, were now, he believed, as good
 as settled.
 
 Then Mr Boffin, with his stick at his ear, like a Familiar Spirit
 explaining the office to him, sat staring at a little bookcase of Law
-Practice and Law Reports, and at a window, and at an empty blue bag, and
+Practice and Law Reports, and at a [[Window|window]], and at an empty blue bag, and
 at a stick of sealing-wax, and a pen, and a box of wafers, and an apple,
 and a writing-pad—all very dusty—and at a number of inky smears
 and blots, and at an imperfectly-disguised gun-case pretending to be
@@ -136,10 +136,10 @@ commiseration.
 
 Mr Lightwood, without explaining that his weariness was chronic,
 proceeded with his exposition that, all forms of law having been at
-length complied with, will of Harmon deceased having been proved, death
-of Harmon next inheriting having been proved, &c., and so forth, Court
+length complied with, will of Harmon deceased having been proved, [[Death|death]]
+of Harmon next inheriting having been proved, &c., and so forth, [[Court]]
 of Chancery having been moved, &c. and so forth, he, Mr Lightwood, had
-now the gratification, honour, and happiness, again &c. and so forth, of
+now the gratification, [[Honour|honour]], and happiness, again &c. and so forth, of
 congratulating Mr Boffin on coming into possession as residuary legatee,
 of upwards of one hundred thousand pounds, standing in the books of the
 Governor and Company of the Bank of England, again &c. and so forth.
@@ -148,20 +148,20 @@ Governor and Company of the Bank of England, again &c. and so forth.
 it involves no trouble. There are no estates to manage, no rents to
 return so much per cent upon in bad times (which is an extremely dear
 way of getting your name into the newspapers), no voters to become
-parboiled in hot water with, no agents to take the cream off the
+parboiled in hot [[Water|water]] with, no agents to take the cream off the
 milk before it comes to table. You could put the whole in a cash-box
-to-morrow morning, and take it with you to—say, to the Rocky Mountains.
+to-morrow morning, and take it with you to—say, to the Rocky [[Mountains]].
 Inasmuch as every man,’ concluded Mr Lightwood, with an indolent smile,
 ‘appears to be under a fatal spell which obliges him, sooner or later,
-to mention the Rocky Mountains in a tone of extreme familiarity to some
-other man, I hope you’ll excuse my pressing you into the service of that
+to mention the Rocky [[Mountains]] in a tone of extreme familiarity to some
+other man, I [[Hope|hope]] you’ll excuse my pressing you into the service of that
 gigantic range of geographical bores.’
 
 Without following this last remark very closely, Mr Boffin cast his
 perplexed gaze first at the ceiling, and then at the carpet.
 
-‘Well,’ he remarked, ‘I don’t know what to say about it, I am sure. I
-was a’most as well as I was. It’s a great lot to take care of.’
+‘[[Well]],’ he remarked, ‘I don’t know what to say about it, I am sure. I
+was a’most as [[Well|well]] as I was. It’s a great lot to take care of.’
 
 ‘My dear Mr Boffin, then DON’T take care of it!’
 
@@ -175,7 +175,7 @@ that you can easily make it less. And if you should be apprehensive of
 the trouble of doing so, there is the further haven of consolation that
 any number of people will take the trouble off your hands.’
 
-‘Well! I don’t quite see it,’ retorted Mr Boffin, still perplexed.
+‘[[Well]]! I don’t quite see it,’ retorted Mr Boffin, still perplexed.
 ‘That’s not satisfactory, you know, what you’re a-saying.’
 
 ‘Is Anything satisfactory, Mr Boffin?’ asked Mortimer, raising his
@@ -184,7 +184,7 @@ eyebrows.
 ‘I used to find it so,’ answered Mr Boffin, with a wistful look. ‘While
 I was foreman at the Bower—afore it WAS the Bower—I considered the
 business very satisfactory. The old man was a awful Tartar (saying
-it, I’m sure, without disrespect to his memory) but the business was
+it, I’m sure, without disrespect to his [[Memory|memory]]) but the business was
 a pleasant one to look after, from before daylight to past dark. It’s
 a’most a pity,’ said Mr Boffin, rubbing his ear, ‘that he ever went and
 made so much money. It would have been better for him if he hadn’t so
@@ -210,11 +210,11 @@ amounted to personal, I should have given him a rattler for himself, if
 Mrs Boffin hadn’t thrown herself betwixt us, and received flush on the
 temple. Which dropped her, Mr Lightwood. Dropped her.’
 
-Mr Lightwood murmured ‘Equal honour—Mrs Boffin’s head and heart.’
+Mr Lightwood murmured ‘Equal [[Honour|honour]]—Mrs Boffin’s head and heart.’
 
 ‘You understand; I name this,’ pursued Mr Boffin, ‘to show you, now the
 affairs are wound up, that me and Mrs Boffin have ever stood as we were
-in Christian honour bound, the children’s friend. Me and Mrs Boffin
+in Christian [[Honour|honour]] bound, the children’s friend. Me and Mrs Boffin
 stood the poor girl’s friend; me and Mrs Boffin stood the poor boy’s
 friend; me and Mrs Boffin up and faced the old man when we momently
 expected to be turned out for our pains. As to Mrs Boffin,’ said Mr
@@ -225,40 +225,40 @@ a flinty-hearted rascal.’
 Mr Lightwood murmured ‘Vigorous Saxon spirit—Mrs Boffin’s
 ancestors—bowmen—Agincourt and Cressy.’
 
-‘The last time me and Mrs Boffin saw the poor boy,’ said Mr Boffin,
-warming (as fat usually does) with a tendency to melt, ‘he was a child
+‘The last [[Time|time]] me and Mrs Boffin saw the poor boy,’ said Mr Boffin,
+warming (as fat usually does) with a tendency to melt, ‘he was a [[Child|child]]
 of seven year old. For when he came back to make intercession for his
 sister, me and Mrs Boffin were away overlooking a country contract which
 was to be sifted before carted, and he was come and gone in a single
-hour. I say he was a child of seven year old. He was going away, all
-alone and forlorn, to that foreign school, and he come into our place,
-situate up the yard of the present Bower, to have a warm at our fire.
+hour. I say he was a [[Child|child]] of seven year old. He was going away, all
+[[Alone|alone]] and forlorn, to that foreign school, and he come into our place,
+situate up the yard of the present Bower, to have a warm at our [[Fire|fire]].
 There was his little scanty travelling clothes upon him. There was his
-little scanty box outside in the shivering wind, which I was going to
+little scanty box outside in the shivering [[Wind|wind]], which I was going to
 carry for him down to the steamboat, as the old man wouldn’t hear of
 allowing a sixpence coach-money. Mrs Boffin, then quite a young woman
-and pictur of a full-blown rose, stands him by her, kneels down at the
-fire, warms her two open hands, and falls to rubbing his cheeks; but
-seeing the tears come into the child’s eyes, the tears come fast into
+and pictur of a full-blown [[Rose|rose]], stands him by her, kneels down at the
+[[Fire|fire]], warms her two open hands, and falls to rubbing his cheeks; but
+seeing the [[Tears|tears]] come into the [[Child|child]]’s eyes, the [[Tears|tears]] come fast into
 her own, and she holds him round the neck, like as if she was protecting
 him, and cries to me, “I’d give the wide wide world, I would, to run
 away with him!” I don’t say but what it cut me, and but what it at the
-same time heightened my feelings of admiration for Mrs Boffin. The poor
-child clings to her for awhile, as she clings to him, and then, when
+same [[Time|time]] heightened my feelings of admiration for Mrs Boffin. The poor
+[[Child|child]] clings to her for awhile, as she clings to him, and then, when
 the old man calls, he says “I must go! God bless you!” and for a moment
 rests his heart against her bosom, and looks up at both of us, as if it
-was in pain—in agony. Such a look! I went aboard with him (I gave him
+was in [[Pain|pain]]—in agony. Such a look! I went aboard with him (I gave him
 first what little treat I thought he’d like), and I left him when he had
 fallen asleep in his berth, and I came back to Mrs Boffin. But tell
 her what I would of how I had left him, it all went for nothing, for,
 according to her thoughts, he never changed that look that he had looked
 up at us two. But it did one piece of good. Mrs Boffin and me had no
-child of our own, and had sometimes wished that how we had one. But not
+[[Child|child]] of our own, and had sometimes wished that how we had one. But not
 now. “We might both of us die,” says Mrs Boffin, “and other eyes might
-see that lonely look in our child.” So of a night, when it was very
-cold, or when the wind roared, or the rain dripped heavy, she would
-wake sobbing, and call out in a fluster, “Don’t you see the poor child’s
-face? O shelter the poor child!”—till in course of years it gently wore
+see that lonely look in our [[Child|child]].” So of a [[Night|night]], when it was very
+cold, or when the [[Wind|wind]] roared, or the rain dripped heavy, she would
+wake sobbing, and call out in a fluster, “Don’t you see the poor [[Child|child]]’s
+face? O shelter the poor [[Child|child]]!”—till in course of years it gently wore
 out, as many things do.’
 
 ‘My dear Mr Boffin, everything wears to rags,’ said Mortimer, with a
@@ -266,16 +266,16 @@ light laugh.
 
 ‘I won’t go so far as to say everything,’ returned Mr Boffin, on whom
 his manner seemed to grate, ‘because there’s some things that I never
-found among the dust. Well, sir. So Mrs Boffin and me grow older and
+found among the [[Dust|dust]]. [[Well]], sir. So Mrs Boffin and me grow older and
 older in the old man’s service, living and working pretty hard in it,
 till the old man is discovered dead in his bed. Then Mrs Boffin and me
 seal up his box, always standing on the table at the side of his bed,
 and having frequently heerd tell of the Temple as a spot where lawyer’s
-dust is contracted for, I come down here in search of a lawyer to
+[[Dust|dust]] is contracted for, I come down here in search of a lawyer to
 advise, and I see your young man up at this present elevation, chopping
-at the flies on the window-sill with his penknife, and I give him a Hoy!
+at the flies on the [[Window|window]]-sill with his penknife, and I give him a Hoy!
 not then having the pleasure of your acquaintance, and by that
-means come to gain the honour. Then you, and the gentleman in the
+means come to gain the [[Honour|honour]]. Then you, and the gentleman in the
 uncomfortable neck-cloth under the little archway in Saint Paul’s
 Churchyard—’
 
@@ -306,17 +306,17 @@ stand to it.’
 
 ‘But let me represent to you,’ returned Lightwood, ‘speaking now with
 professional profundity, and not with individual imbecility, that the
-offer of such an immense reward is a temptation to forced suspicion,
+offer of such an immense reward is a [[Temptation|temptation]] to forced suspicion,
 forced construction of circumstances, strained accusation, a whole
 tool-box of edged tools.’
 
-‘Well,’ said Mr Boffin, a little staggered, ‘that’s the sum we put o’
+‘[[Well]],’ said Mr Boffin, a little staggered, ‘that’s the sum we put o’
 one side for the purpose. Whether it shall be openly declared in the new
 notices that must now be put about in our names—’
 
 ‘In your name, Mr Boffin; in your name.’
 
-‘Very well; in my name, which is the same as Mrs Boffin’s, and means
+‘Very [[Well|well]]; in my name, which is the same as Mrs Boffin’s, and means
 both of us, is to be considered in drawing ’em up. But this is the first
 instruction that I, as the owner of the property, give to my lawyer on
 coming into it.’
@@ -349,7 +349,7 @@ can’t be loosed.’
 
 ‘Absolutely?’ repeated Mr Boffin, with a short sturdy laugh. ‘Hah! I
 should think so! It would be handsome in me to begin to bind Mrs Boffin
-at this time of day!’
+at this [[Time|time]] of day!’
 
 So that instruction, too, was taken by Mr Lightwood; and Mr Lightwood,
 having taken it, was in the act of showing Mr Boffin out, when Mr Eugene
@@ -358,7 +358,7 @@ said, in his cool manner, ‘Let me make you two known to one another,’
 and further signified that Mr Wrayburn was counsel learned in the
 law, and that, partly in the way of business and partly in the way of
 pleasure, he had imparted to Mr Wrayburn some of the interesting facts
-of Mr Boffin’s biography.
+of Mr Boffin’s [[Biography|biography]].
 
 ‘Delighted,’ said Eugene—though he didn’t look so—‘to know Mr Boffin.’
 
@@ -367,13 +367,13 @@ the law?’
 
 ‘A—not particularly,’ returned Eugene.
 
-‘Too dry for you, eh? Well, I suppose it wants some years of sticking
+‘Too dry for you, eh? [[Well]], I suppose it wants some years of sticking
 to, before you master it. But there’s nothing like work. Look at the
-bees.’
+[[Bees|bees]].’
 
 ‘I beg your pardon,’ returned Eugene, with a reluctant smile, ‘but will
 you excuse my mentioning that I always protest against being referred to
-the bees?’
+the [[Bees|bees]]?’
 
 ‘Do you!’ said Mr Boffin.
 
@@ -382,7 +382,7 @@ the bees?’
 ‘As a what?’ asked Mr Boffin.
 
 ‘As a two-footed creature;—I object on principle, as a two-footed
-creature, to being constantly referred to insects and four-footed
+creature, to being constantly referred to [[Insects|insects]] and four-footed
 creatures. I object to being required to model my proceedings according
 to the proceedings of the bee, or the dog, or the spider, or the camel.
 I fully admit that the camel, for instance, is an excessively temperate
@@ -398,11 +398,11 @@ bee? For the whole case is assumed. Conceding for a moment that there is
 any analogy between a bee, and a man in a shirt and pantaloons (which
 I deny), and that it is settled that the man is to learn from the bee
 (which I also deny), the question still remains, what is he to learn?
-To imitate? Or to avoid? When your friends the bees worry themselves to
+To imitate? Or to avoid? When your friends the [[Bees|bees]] worry themselves to
 that highly fluttered extent about their sovereign, and become perfectly
 distracted touching the slightest monarchical movement, are we men to
-learn the greatness of Tuft-hunting, or the littleness of the
-Court Circular? I am not clear, Mr Boffin, but that the hive may be
+learn the [[Greatness|greatness]] of Tuft-hunting, or the littleness of the
+[[Court]] Circular? I am not clear, Mr Boffin, but that the hive may be
 satirical.’
 
 ‘At all events, they work,’ said Mr Boffin.
@@ -410,9 +410,9 @@ satirical.’
 ‘Ye-es,’ returned Eugene, disparagingly, ‘they work; but don’t you think
 they overdo it? They work so much more than they need—they make so much
 more than they can eat—they are so incessantly boring and buzzing at
-their one idea till Death comes upon them—that don’t you think they
+their one idea till [[Death]] comes upon them—that don’t you think they
 overdo it? And are human labourers to have no holidays, because of the
-bees? And am I never to have change of air, because the bees don’t? Mr
+[[Bees|bees]]? And am I never to have change of air, because the [[Bees|bees]] don’t? Mr
 Boffin, I think honey excellent at breakfast; but, regarded in the light
 of my conventional schoolmaster and moralist, I protest against the
 tyrannical humbug of your friend the bee. With the highest respect for
@@ -449,9 +449,9 @@ Boffin’s wealth—’
 ‘—And his romantic manner of acquiring it, make him conspicuous. You
 were pointed out to me the other day.’
 
-‘Well,’ said Mr Boffin, ‘I should say I was a disappintment to you when
+‘[[Well]],’ said Mr Boffin, ‘I should say I was a disappintment to you when
 I WAS pinted out, if your politeness would allow you to confess it, for
-I am well aware I am not much to look at. What might you want with me?
+I am [[Well|well]] aware I am not much to look at. What might you want with me?
 Not in the law, are you?’
 
 ‘No, sir.’
@@ -473,14 +473,14 @@ Boffin, rather angry.
 
 ‘If you will allow me to walk beside you, Mr Boffin, I will tell you.
 Would you object to turn aside into this place—I think it is called
-Clifford’s Inn—where we can hear one another better than in the roaring
+[[Clifford]]’s Inn—where we can hear one another better than in the roaring
 street?’
 
 (‘Now,’ thought Mr Boffin, ‘if he proposes a game at skittles, or meets
 a country gentleman just come into property, or produces any article
 of jewellery he has found, I’ll knock him down!’ With this discreet
 reflection, and carrying his stick in his arms much as Punch carries
-his, Mr Boffin turned into Clifford’s Inn aforesaid.)
+his, Mr Boffin turned into [[Clifford]]’s Inn aforesaid.)
 
 ‘Mr Boffin, I happened to be in Chancery Lane this morning, when I saw
 you going along before me. I took the liberty of following you, trying
@@ -506,14 +506,14 @@ and his voice was agreeable in tone, albeit constrained.
 
 ‘When I add, I can discern for myself what the general tongue says of
 you—that you are quite unspoiled by Fortune, and not uplifted—I trust
-you will not, as a man of an open nature, suspect that I mean to flatter
+you will not, as a man of an open [[Nature|nature]], suspect that I mean to flatter
 you, but will believe that all I mean is to excuse myself, these being
 my only excuses for my present intrusion.’
 
 (‘How much?’ thought Mr Boffin. ‘It must be coming to money. How much?’)
 
 ‘You will probably change your manner of living, Mr Boffin, in your
-changed circumstances. You will probably keep a larger house, have many
+changed circumstances. You will probably keep a larger [[house]], have many
 matters to arrange, and be beset by numbers of correspondents. If you
 would try me as your Secretary—’
 
@@ -521,11 +521,11 @@ would try me as your Secretary—’
 
 ‘Your Secretary.’
 
-‘Well,’ said Mr Boffin, under his breath, ‘that’s a queer thing!’
+‘[[Well]],’ said Mr Boffin, under his breath, ‘that’s a queer thing!’
 
-‘Or,’ pursued the stranger, wondering at Mr Boffin’s wonder, ‘if you
+‘Or,’ pursued the stranger, wondering at Mr Boffin’s [[Wonder|wonder]], ‘if you
 would try me as your man of business under any name, I know you would
-find me faithful and grateful, and I hope you would find me useful. You
+find me faithful and grateful, and I [[Hope|hope]] you would find me useful. You
 may naturally think that my immediate object is money. Not so, for
 I would willingly serve you a year—two years—any term you might
 appoint—before that should begin to be a consideration between us.’
@@ -554,23 +554,23 @@ you do for your living?’
 a smile, ‘what I aspire to do. I have been superseded as to some slight
 intentions I had, and I may say that I have now to begin life.’
 
-Not very well knowing how to get rid of this applicant, and feeling the
+Not very [[Well|well]] knowing how to get rid of this applicant, and feeling the
 more embarrassed because his manner and appearance claimed a delicacy
 in which the worthy Mr Boffin feared he himself might be deficient, that
 gentleman glanced into the mouldy little plantation or cat-preserve, of
-Clifford’s Inn, as it was that day, in search of a suggestion. Sparrows
+[[Clifford]]’s Inn, as it was that day, in search of a suggestion. Sparrows
 were there, cats were there, dry-rot and wet-rot were there, but it was
 not otherwise a suggestive spot.
 
-‘All this time,’ said the stranger, producing a little pocket-book and
+‘All this [[Time|time]],’ said the stranger, producing a little pocket-book and
 taking out a card, ‘I have not mentioned my name. My name is Rokesmith.
 I lodge at one Mr Wilfer’s, at Holloway.’
 
 Mr Boffin stared again.
 
-‘Father of Miss Bella Wilfer?’ said he.
+‘Father of Miss [[Bella Wilfer]]?’ said he.
 
-‘My landlord has a daughter named Bella. Yes; no doubt.’
+‘My landlord has a daughter named Bella. Yes; no [[Doubt|doubt]].’
 
 Now, this name had been more or less in Mr Boffin’s thoughts all the
 morning, and for days before; therefore he said:
@@ -586,7 +586,7 @@ it was one of that family that pinted me out?’
 ‘No. I occupy my own rooms, and have held scarcely any communication
 with them.’
 
-‘Odder and odder!’ said Mr Boffin. ‘Well, sir, to tell you the truth, I
+‘Odder and odder!’ said Mr Boffin. ‘[[Well]], sir, to tell you the [[Truth|truth]], I
 don’t know what to say to you.’
 
 ‘Say nothing,’ returned Mr Rokesmith; ‘allow me to call on you in a few
@@ -608,13 +608,13 @@ head to foot, repeating ‘Queer!—You’re sure it was Secretary? Are you?’
 
 —‘As Secretary,’ repeated Mr Boffin, meditating upon the word; ‘I no
 more know that I may ever want a Secretary, or what not, than I do that
-I shall ever be in want of the man in the moon. Me and Mrs Boffin have
+I shall ever be in want of the man in the [[Moon|moon]]. Me and Mrs Boffin have
 not even settled that we shall make any change in our way of life. Mrs
 Boffin’s inclinations certainly do tend towards Fashion; but, being
 already set up in a fashionable way at the Bower, she may not make
 further alterations. However, sir, as you don’t press yourself, I wish
 to meet you so far as saying, by all means call at the Bower if you
-like. Call in the course of a week or two. At the same time, I consider
+like. Call in the course of a week or two. At the same [[Time|time]], I consider
 that I ought to name, in addition to what I have already named, that I
 have in my employment a literary man—WITH a wooden leg—as I have no
 thoughts of parting from.’
@@ -631,7 +631,7 @@ Without observing that these duties seemed by no means clear to Mr
 Rokesmith’s astonished comprehension, Mr Boffin went on:
 
 ‘And now, sir, I’ll wish you good-day. You can call at the Bower any
-time in a week or two. It’s not above a mile or so from you, and your
+[[Time|time]] in a week or two. It’s not above a mile or so from you, and your
 landlord can direct you to it. But as he may not know it by its new
 name of Boffin’s Bower, say, when you inquire of him, it’s Harmon’s;
 will you?’

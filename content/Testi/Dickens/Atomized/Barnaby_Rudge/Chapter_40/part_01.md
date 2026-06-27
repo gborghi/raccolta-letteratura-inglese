@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 40 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 40 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -21,14 +21,14 @@ Little thinking of the plan for his happy settlement in life which had
 suggested itself to the teeming brain of his provident commander, Hugh
 made no pause until Saint Dunstan’s giants struck the hour above him,
 when he worked the handle of a pump which stood hard by, with great
-vigour, and thrusting his head under the spout, let the water gush upon
+vigour, and thrusting his head under the spout, let the [[Water|water]] gush upon
 him until a little stream ran down from every uncombed hair, and he was
 wet to the waist. Considerably refreshed by this ablution, both in mind
-and body, and almost sobered for the time, he dried himself as he best
-could; then crossed the road, and plied the knocker of the Middle Temple
+and [[Body|body]], and almost sobered for the [[Time|time]], he dried himself as he best
+could; then crossed the [[Road|road]], and plied the knocker of the Middle Temple
 gate.
 
-The night-porter looked through a small grating in the portal with a
+The [[Night|night]]-porter looked through a small grating in the portal with a
 surly eye, and cried ‘Halloa!’ which greeting Hugh returned in kind, and
 bade him open quickly.
 
@@ -42,13 +42,13 @@ bade him open quickly.
 
 ‘Whose chambers?’
 
-‘Sir John Chester’s.’ Each of which answers, he emphasised with another
+‘[[Sir John Chester]]’s.’ Each of which answers, he emphasised with another
 kick.
 
 After a little growling on the other side, the gate was opened, and he
 passed in: undergoing a close inspection from the porter as he did so.
 
-‘YOU wanting Sir John, at this time of night!’ said the man.
+‘YOU wanting Sir John, at this [[Time|time]] of [[Night|night]]!’ said the man.
 
 ‘Ay!’ said Hugh. ‘I! What of that?’
 
@@ -57,13 +57,13 @@ passed in: undergoing a close inspection from the porter as he did so.
 ‘Come along then.’
 
 Eyeing him with suspicious looks, the man, with key and lantern, walked
-on at his side, and attended him to Sir John Chester’s door, at which
+on at his side, and attended him to [[Sir John Chester]]’s door, at which
 Hugh gave one knock, that echoed through the dark staircase like a
 ghostly summons, and made the dull light tremble in the drowsy lamp.
 
 ‘Do you think he wants me now?’ said Hugh.
 
-Before the man had time to answer, a footstep was heard within, a light
+Before the man had [[Time|time]] to answer, a footstep was heard within, a light
 appeared, and Sir John, in his dressing-gown and slippers, opened the
 door.
 
@@ -73,19 +73,19 @@ strangers. I thought it best to see that all was right.’
 
 ‘Aha!’ cried Sir John, raising his eyebrows. ‘It’s you, messenger, is
 it? Go in. Quite right, friend. I commend your prudence highly. Thank
-you. God bless you. Good night.’
+you. God bless you. Good [[Night|night]].’
 
-To be commended, thanked, God-blessed, and bade good night by one who
+To be commended, thanked, God-blessed, and bade good [[Night|night]] by one who
 carried ‘Sir’ before his name, and wrote himself M.P. to boot, was
-something for a porter. He withdrew with much humility and reverence.
+something for a porter. He withdrew with much [[Humility|humility]] and reverence.
 Sir John followed his late visitor into the dressing-room, and sitting
-in his easy-chair before the fire, and moving it so that he could see
+in his easy-chair before the [[Fire|fire]], and moving it so that he could see
 him as he stood, hat in hand, beside the door, looked at him from head
 to foot.
 
 The old face, calm and pleasant as ever; the complexion, quite juvenile
 in its bloom and clearness; the same smile; the wonted precision and
-elegance of dress; the white, well-ordered teeth; the delicate hands;
+elegance of dress; the white, [[Well|well]]-ordered teeth; the delicate hands;
 the composed and quiet manner; everything as it used to be: no mark of
 age or passion, envy, hate, or discontent: all unruffled and serene, and
 quite delightful to behold.
@@ -94,26 +94,26 @@ He wrote himself M.P.--but how? Why, thus. It was a proud family--more
 proud, indeed, than wealthy. He had stood in danger of arrest; of
 bailiffs, and a jail--a vulgar jail, to which the common people with
 small incomes went. Gentlemen of ancient houses have no privilege of
-exemption from such cruel laws--unless they are of one great house, and
+exemption from such cruel laws--unless they are of one [[Great House|great house]], and
 then they have. A proud man of his stock and kindred had the means of
 sending him there. He offered--not indeed to pay his debts, but to let
 him sit for a close borough until his own son came of age, which, if he
 lived, would come to pass in twenty years. It was quite as good as an
-Insolvent Act, and infinitely more genteel. So Sir John Chester was a
+Insolvent Act, and infinitely more genteel. So [[Sir John Chester]] was a
 member of Parliament.
 
-But how Sir John? Nothing so simple, or so easy. One touch with a sword
+But how Sir John? Nothing so simple, or so easy. One touch with a [[Sword|sword]]
 of state, and the transformation was effected. John Chester, Esquire,
-M.P., attended court--went up with an address--headed a deputation.
+M.P., attended [[Court|court]]--went up with an address--headed a deputation.
 Such elegance of manner, so many graces of deportment, such powers of
 conversation, could never pass unnoticed. Mr was too common for
 such merit. A man so gentlemanly should have been--but Fortune is
 capricious--born a Duke: just as some dukes should have been born
-labourers. He caught the fancy of the king, knelt down a grub, and rose
+labourers. He caught the fancy of the [[King|king]], knelt down a grub, and [[Rose|rose]]
 a butterfly. John Chester, Esquire, was knighted and became Sir John.
 
 ‘I thought when you left me this evening, my esteemed acquaintance,’
-said Sir John after a pretty long silence, ‘that you intended to return
+said Sir John after a pretty long [[Silence|silence]], ‘that you intended to return
 with all despatch?’
 
 ‘So I did, master.’
@@ -130,12 +130,12 @@ lowered his eyes again, and fixed them on the floor.
 John, lazily crossing his legs. ‘Where have you been? what harm have you
 been doing?’
 
-‘No harm at all, master,’ growled Hugh, with humility. ‘I have only done
+‘No harm at all, master,’ growled Hugh, with [[Humility|humility]]. ‘I have only done
 as you ordered.’
 
 ‘As I WHAT?’ returned Sir John.
 
-‘Well then,’ said Hugh uneasily, ‘as you advised, or said I ought, or
+‘[[Well]] then,’ said Hugh uneasily, ‘as you advised, or said I ought, or
 said I might, or said that you would do, if you was me. Don’t be so hard
 upon me, master.’
 

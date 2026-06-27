@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25 (part 7)"
+title: "[[The Professor]] — Chapter 25 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,19 +20,19 @@ porcelain.
 
 
 
-Victor is as little of a pretty child as I am of a handsome man, or his
+Victor is as little of a pretty [[Child|child]] as I am of a handsome man, or his
 
 mother of a fine woman; he is pale and spare, with large eyes, as dark
 
 as those of Frances, and as deeply set as mine. His shape is symmetrical
 
-enough, but slight; his health is good. I never saw a child smile less
+enough, but slight; his health is good. I never saw a [[Child|child]] smile less
 
 than he does, nor one who knits such a formidable brow when sitting over
 
 a book that interests him, or while listening to tales of adventure,
 
-peril, or wonder, narrated by his mother, Hunsden, or myself. But
+peril, or [[Wonder|wonder]], narrated by his mother, Hunsden, or myself. But
 
 though still, he is not unhappy--though serious, not morose; he has a
 
@@ -52,9 +52,9 @@ His toys have been few, and he has never wanted more. For those he
 
 possesses, he seems to have contracted a partiality amounting to
 
-affection; this feeling, directed towards one or two living animals of
+affection; this feeling, directed towards one or two living [[Animals|animals]] of
 
-the house, strengthens almost to a passion.
+the [[house]], strengthens almost to a passion.
 
 
 
@@ -66,23 +66,23 @@ modified by the companionship and caresses of its young master. He would
 
 go nowhere, do nothing without Yorke; Yorke lay at his feet while he
 
-learned his lessons, played with him in the garden, walked with him in
+learned his lessons, played with him in the [[Garden|garden]], walked with him in
 
 the lane and wood, sat near his chair at meals, was fed always by his
 
 own hand, was the first thing he sought in the morning, the last he left
 
-at night. Yorke accompanied Mr. Hunsden one day to X----, and was bitten
+at [[Night|night]]. Yorke accompanied Mr. Hunsden one day to X----, and was bitten
 
 in the street by a dog in a rabid state. As soon as Hunsden had brought
 
-him home, and had informed me of the circumstance, I went into the yard
+him [[Home|home]], and had informed me of the circumstance, I went into the yard
 
 and shot him where he lay licking his wound: he was dead in an instant;
 
 he had not seen me level the gun; I stood behind him. I had scarcely
 
-been ten minutes in the house, when my ear was struck with sounds of
+been ten minutes in the [[house]], when my ear was struck with sounds of
 
 anguish: I repaired to the yard once more, for they proceeded thence.
 
@@ -94,9 +94,9 @@ bull-like neck, and lost in a passion of the wildest woe: he saw me.
 
 “Oh, papa, I’ll never forgive you! I’ll never forgive you!” was his
 
-exclamation. “You shot Yorke--I saw it from the window. I never believed
+exclamation. “You shot Yorke--I saw it from the [[Window|window]]. I never believed
 
-you could be so cruel--I can love you no more!”
+you could be so cruel--I can [[Love|love]] you no more!”
 
 
 
@@ -110,7 +110,7 @@ accent which I cannot render, but which pierced my heart, repeated--
 
 “He might have been cured--you should have tried--you should have burnt
 
-the wound with a hot iron, or covered it with caustic. You gave no time;
+the wound with a hot iron, or covered it with caustic. You gave no [[Time|time]];
 
 and now it is too late--he is dead!”
 
@@ -122,23 +122,23 @@ while, till his grief had somewhat exhausted him; and then I lifted him
 
 in my arms and carried him to his mother, sure that she would comfort
 
-him best. She had witnessed the whole scene from a window; she would not
+him best. She had witnessed the whole scene from a [[Window|window]]; she would not
 
-come out for fear of increasing my difficulties by her emotion, but she
+come out for [[Fear|fear]] of increasing my difficulties by her emotion, but she
 
 was ready now to receive him. She took him to her kind heart, and on
 
 to her gentle lap; consoled him but with her lips, her eyes, her soft
 
-embrace, for some time; and then, when his sobs diminished, told him
+embrace, for some [[Time|time]]; and then, when his sobs diminished, told him
 
-that Yorke had felt no pain in dying, and that if he had been left to
+that Yorke had felt no [[Pain|pain]] in dying, and that if he had been left to
 
 expire naturally, his end would have been most horrible; above all, she
 
 told him that I was not cruel (for that idea seemed to give exquisite
 
-pain to poor Victor), that it was my affection for Yorke and him which
+[[Pain|pain]] to poor Victor), that it was my affection for Yorke and him which
 
 had made me act so, and that I was now almost heart-broken to see him
 
@@ -158,7 +158,7 @@ effect: he grew calmer, rested his face on her shoulder, and lay still
 
 in her arms. Looking up, shortly, he asked his mother to tell him over
 
-again what she had said about Yorke having suffered no pain, and my not
+again what she had said about Yorke having suffered no [[Pain|pain]], and my not
 
 being cruel; the balmy words being repeated, he again pillowed his cheek
 
@@ -180,21 +180,21 @@ my son. I found, it is true, few elements of the “good fellow” or the
 
 over the wine cup, or which kindles the passions to a destroying
 
-fire; but I saw in the soil of his heart healthy and swelling germs
+[[Fire|fire]]; but I saw in the soil of his heart healthy and swelling germs
 
-of compassion, affection, fidelity. I discovered in the garden of his
+of compassion, affection, fidelity. I discovered in the [[Garden|garden]] of his
 
 intellect a rich growth of wholesome principles--reason, justice, moral
 
-courage, promised, if not blighted, a fertile bearing. So I bestowed on
+[[Courage|courage]], promised, if not blighted, a fertile bearing. So I bestowed on
 
-his large forehead, and on his cheek--still pale with tears--a proud and
+his large forehead, and on his cheek--still pale with [[Tears|tears]]--a proud and
 
 contented kiss, and sent him away comforted. Yet I saw him the next day
 
 laid on the mound under which Yorke had been buried, his face covered
 
-with his hands; he was melancholy for some weeks, and more than a year
+with his hands; he was [[Melancholy|melancholy]] for some weeks, and more than a year
 
 elapsed before he would listen to any proposal of having another dog.
 
@@ -204,6 +204,6 @@ Victor learns fast. He must soon go to Eton, where, I suspect, his first
 
 year or two will be utter wretchedness: to leave me, his mother, and his
 
-home, will give his heart an agonized wrench; then, the fagging will not
+[[Home|home]], will give his heart an agonized wrench; then, the fagging will not
 
-suit him--but emulation, thirst after knowledge, the glory of success,
+suit him--but emulation, thirst after knowledge, the glory of [[success]],

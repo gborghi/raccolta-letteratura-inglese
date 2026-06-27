@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 29: TWENTY NINE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -35,7 +35,7 @@ nicety, so that the starched points should also invade those organs, and
 afflict them with an artificial ophthalmia. His waistcoat and coat
 were next arranged; and as every button was wrenched into a wrong
 button-hole, and the order of his boots was reversed, he presented on
-the whole rather a melancholy appearance.
+the whole rather a [[Melancholy|melancholy]] appearance.
 
 ‘I don’t think it’s right,’ said the poor weak invalid. ‘I feel as if I
 was in somebody else’s clothes. I’m all on one side; and you’ve made one
@@ -43,7 +43,7 @@ of my legs shorter than the other. There’s a bottle in my pocket too.
 What do you make me sit upon a bottle for?’
 
 ‘Deuce take the man!’ cried Mrs Gamp, drawing it forth. ‘If he ain’t
-been and got my night-bottle here. I made a little cupboard of his coat
+been and got my [[Night|night]]-bottle here. I made a little cupboard of his coat
 when it hung behind the door, and quite forgot it, Betsey. You’ll find a
 ingun or two, and a little tea and sugar in his t’other pocket, my dear,
 if you’ll just be good enough to take ‘em out.’
@@ -60,7 +60,7 @@ How do you feel?’
 
 ‘Much better. But very weak.’
 
-‘No wonder. You have had a hard bout of it. But country air, and change
+‘No [[Wonder|wonder]]. You have had a hard bout of it. But country air, and change
 of scene,’ said John, ‘will make another man of you! Why, Mrs Gamp,’
 he added, laughing, as he kindly arranged the sick man’s garments, ‘you
 have odd notions of a gentleman’s dress!’
@@ -77,10 +77,10 @@ when he said in a whisper:
 particular and strange to say to you; something that has been a dreadful
 weight on my mind, through this long illness.’
 
-Quick in all his motions, John was turning round to desire the women to
+Quick in all his motions, John was turning round to [[Desire|desire]] the women to
 leave the room; when the sick man held him by the sleeve.
 
-‘Not now. I’ve not the strength. I’ve not the courage. May I tell it
+‘Not now. I’ve not the strength. I’ve not the [[Courage|courage]]. May I tell it
 when I have? May I write it, if I find that easier and better?’
 
 ‘May you!’ cried John. ‘Why, Lewsome, what is this!’
@@ -91,7 +91,7 @@ Let me kiss your hand for all your goodness to me. Be kinder still, and
 don’t ask me what it is!’
 
 At first, John gazed at him in great surprise; but remembering how very
-much reduced he was, and how recently his brain had been on fire with
+much reduced he was, and how recently his brain had been on [[Fire|fire]] with
 fever, believed that he was labouring under some imaginary horror or
 despondent fancy. For farther information on this point, he took an
 opportunity of drawing Mrs Gamp aside, while Betsey Prig was wrapping
@@ -100,7 +100,7 @@ in his mind.
 
 ‘Oh bless you, no!’ said Mrs Gamp. ‘He hates his nusses to this hour.
 They always does it, sir. It’s a certain sign. If you could have heerd
-the poor dear soul a-findin fault with me and Betsey Prig, not half an
+the poor dear [[Soul|soul]] a-findin fault with me and Betsey Prig, not half an
 hour ago, you would have wondered how it is we don’t get fretted to the
 tomb.’
 
@@ -119,7 +119,7 @@ shillings.
 It was a troublesome matter to adjust Mrs Gamp’s luggage to her
 satisfaction; for every package belonging to that lady had the
 inconvenient property of requiring to be put in a boot by itself, and
-to have no other luggage near it, on pain of actions at law for heavy
+to have no other luggage near it, on [[Pain|pain]] of actions at law for heavy
 damages against the proprietors of the coach. The umbrella with the
 circular patch was particularly hard to be got rid of, and several times
 thrust out its battered brass nozzle from improper crevices and chinks,
@@ -129,7 +129,7 @@ moved it, in the course of five minutes, that it seemed not one umbrella
 but fifty. At length it was lost, or said to be; and for the next five
 minutes she was face to face with the coachman, go wherever he might,
 protesting that it should be ‘made good,’ though she took the question
-to the House of Commons.
+to the [[house|House]] of Commons.
 
 At last, her bundle, and her pattens, and her basket, and everything
 else, being disposed of, she took a friendly leave of Poll and Mr

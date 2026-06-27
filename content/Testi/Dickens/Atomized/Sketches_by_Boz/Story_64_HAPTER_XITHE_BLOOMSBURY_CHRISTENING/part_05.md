@@ -23,12 +23,12 @@ with one shoe on, rummaging his pockets with the most frightful
 distortion of visage. ‘What have you lost? Your pocket-book?’
 
 ‘No,’ returned Dumps, diving first into one pocket and then into the
-other, and speaking in a voice like Desdemona with the pillow over her
+other, and speaking in a voice like [[Desdemona]] with the pillow over her
 mouth.
 
 ‘Your card-case? snuff-box? the key of your lodgings?’ continued
 Kitterbell, pouring question on question with the rapidity of
-lightning.
+[[Lightning|lightning]].
 
 ‘No! no!’ ejaculated Dumps, still diving eagerly into his empty
 pockets.
@@ -68,7 +68,7 @@ Mr. Danton was a young man of about five-and-twenty, with a
 considerable stock of impudence, and a very small share of ideas: he
 was a great favourite, especially with young ladies of from sixteen to
 twenty-six years of age, both inclusive. He could imitate the
-French-horn to admiration, sang comic songs most inimitably, and had
+French-horn to admiration, sang comic [[songs]] most inimitably, and had
 the most insinuating way of saying impertinent nothings to his doting
 female admirers. He had acquired, somehow or other, the reputation of
 being a great wit, and, accordingly, whenever he opened his mouth,
@@ -89,7 +89,7 @@ Dumps—‘godfather, I mean.’—The young ladies were convulsed, and the
 gentlemen in ecstasies.
 
 A general hum of admiration interrupted the conversation, and announced
-the entrance of nurse with the baby. An universal rush of the young
+the entrance of [[Nurse|nurse]] with the baby. An universal rush of the young
 ladies immediately took place. (Girls are always _so_ fond of babies in
 company.)
 
@@ -109,10 +109,10 @@ waistcoats—‘Did you ever!’
 
 ‘Never, in my life,’ returned her admirer, pulling up his collar.
 
-‘Oh! _do_ let me take it, nurse,’ cried another young lady. ‘The love!’
+‘Oh! _do_ let me take it, [[Nurse|nurse]],’ cried another young lady. ‘The [[Love|love]]!’
 
-‘Can it open its eyes, nurse?’ inquired another, affecting the utmost
-innocence.—Suffice it to say, that the single ladies unanimously voted
+‘Can it open its eyes, [[Nurse|nurse]]?’ inquired another, affecting the utmost
+[[innocence]].—Suffice it to say, that the single ladies unanimously voted
 him an angel, and that the married ones, _nem. con._, agreed that he
 was decidedly the finest baby they had ever beheld—except their own.
 
@@ -138,7 +138,7 @@ without cessation all the way to Gravesend, and all the way back again.
 
 The ‘sit-down supper’ was excellent; there were four barley-sugar
 temples on the table, which would have looked beautiful if they had not
-melted away when the supper began; and a water-mill, whose only fault
+melted away when the supper began; and a [[Water|water]]-mill, whose only fault
 was that instead of going round, it ran over the table-cloth. Then
 there were fowls, and tongue, and trifle, and sweets, and lobster
 salad, and potted beef—and everything. And little Kitterbell kept
@@ -146,7 +146,7 @@ calling out for clean plates, and the clean plates did not come: and
 then the gentlemen who wanted the plates said they didn’t mind, they’d
 take a lady’s; and then Mrs. Kitterbell applauded their gallantry, and
 the greengrocer ran about till he thought his seven and sixpence was
-very hardly earned; and the young ladies didn’t eat much for fear it
+very hardly earned; and the young ladies didn’t eat much for [[Fear|fear]] it
 shouldn’t look romantic, and the married ladies eat as much as
-possible, for fear they shouldn’t have enough; and a great deal of wine
+possible, for [[Fear|fear]] they shouldn’t have enough; and a great deal of wine
 was drunk, and everybody talked and laughed considerably.

@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 11)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -28,7 +28,7 @@ This is the excuse for all that indeterminate and rambling and sometimes
 
 sentimental criticism of which Dickens, more than any one else, is the
 
-victim, of which I fear that I for one have made him the victim in this
+victim, of which I [[Fear|fear]] that I for one have made him the victim in this
 
 place. When I was a boy I could not understand why the Dickensians
 
@@ -36,7 +36,7 @@ worried so wearily about Dickens, about where he went to school and
 
 where he ate his dinners, about how he wore his trousers and when he cut
 
-his hair. I used to wonder why they did not write something that I could
+his hair. I used to [[Wonder|wonder]] why they did not write something that I could
 
 read about a man like Micawber. But I have come to the conclusion that
 
@@ -88,11 +88,11 @@ have been considering the books that he wrote; here we have rather to
 
 consider the books that he might have written. And here we find the
 
-final evidence and the unconscious stamp of greatness, as we might find
+final evidence and the unconscious stamp of [[Greatness|greatness]], as we might find
 
 it in some broken bust or some rejected moulding in the studio of
 
-Michael Angelo.
+[[Michael]] [[Angelo]].
 
 
 
@@ -114,7 +114,7 @@ objected to him strongly. It is not easy, and perhaps it is not
 
 important, to state truly the cause of this incapacity. It was not in
 
-the least what is called the ordinary fault or weakness of the artist.
+the least what is called the ordinary fault or weakness of the [[artist]].
 
 It was not that he was careless; rather it was that he was too
 
@@ -126,7 +126,7 @@ wanted everybody to see things as he saw them. But in spite of all this
 
 he certainly ran two great popular periodicals--_Household Words_ and
 
-_All the Year Round_--with enormous popular success. And he certainly so
+_All the Year Round_--with enormous popular [[success]]. And he certainly so
 
 far succeeded in throwing himself into the communism of journalism, into
 
@@ -152,13 +152,13 @@ better than the work in his best novels, can be found in these slight
 
 and composite scraps of journalism. For instance, the solemn and
 
-self-satisfied account of the duty and dignity of a waiter given in the
+[[Self|self]]-satisfied account of the duty and dignity of a waiter given in the
 
 opening chapter of _Somebody's Luggage_ is quite as full and fine as
 
 anything done anywhere by its author in the same vein of sumptuous
 
-satire. It is as good as the account which Mr. Bumble gives of out-door
+[[Satire|satire]]. It is as good as the account which Mr. Bumble gives of out-door
 
 relief, which, "properly understood, is the parochial safeguard. The
 
@@ -166,7 +166,7 @@ great thing is to give the paupers what they don't want, and then they
 
 never come again." It is as good as Mr. Podsnap's description of the
 
-British Constitution, which was bestowed on him by Providence. None of
+British Constitution, which was bestowed on him by [[Providence]]. None of
 
 these celebrated passages is more obviously Dickens at his best than
 
@@ -174,17 +174,17 @@ this, the admirable description of "the true principles of waitering,"
 
 or the account of how the waiter's father came back to his mother in
 
-broad daylight, "in itself an act of madness on the part of a waiter,"
+broad daylight, "in itself an act of [[Madness|madness]] on the part of a waiter,"
 
 and how he expired repeating continually "two and six is three and four
 
 is nine." That waiter's explanatory soliloquy might easily have opened
 
-an excellent novel, as _Martin Chuzzlewit_ is opened by the clever
+an excellent [[Novel|novel]], as _Martin Chuzzlewit_ is opened by the clever
 
 nonsense about the genealogy of the Chuzzlewits, or as _Bleak House_ is
 
-opened by a satiric account of the damp, dim life of a law court. Yet
+opened by a satiric account of the damp, dim life of a law [[Court|court]]. Yet
 
 Dickens practically abandoned the scheme of _Somebody's Luggage_; he
 
@@ -196,7 +196,7 @@ book.
 
 
 
-Yet it is exactly in such broken outbreaks that his greatness appears.
+Yet it is exactly in such broken outbreaks that his [[Greatness|greatness]] appears.
 
 If a man has flung away bad ideas he has shown his sense, but if he has
 
@@ -204,7 +204,7 @@ flung away good ideas he has shown his genius. He has proved that he
 
 actually has that over-pressure of pure creativeness which we see in
 
-nature itself, "that of a hundred seeds, she often brings but one to
+[[Nature|nature]] itself, "that of a hundred seeds, she often brings but one to
 
 bear." Dickens had to be Malthusian about his spiritual children.
 

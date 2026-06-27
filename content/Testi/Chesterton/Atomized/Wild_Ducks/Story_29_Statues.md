@@ -20,11 +20,11 @@ STATUES
 Monuments last for ever.  Therefore the mistakes of monuments
 last forever.  That is what the modern world does not
 understand about the ancient dignity of marble or of stone.
-If I make a mistake in writing an article, I can cross it out.
+If I make a mistake in writing an article, I can [[Cross|cross]] it out.
 But if I make a mistake in carving a colossal figure of Rameses
 the Seventh (if there was a Rameses the Seventh) there is
 a tendency for that mistake to remain, and become unalterable;
-you cannot cross it out.  If in carving Rameses you have given
+you cannot [[Cross|cross]] it out.  If in carving Rameses you have given
 that slight curl to the nostril which suggests that his
 cynicism was cruel (as his enemies unreasonably maintained)
 rather than kindly (as those who knew him best are quite
@@ -55,8 +55,8 @@ Both these styles have real ideas behind them; but I think there
 was an unfortunate period between them, especially in England,
 and that this period gave rise to the general disposition to
 smash statues which exists in all the healthy-minded English.
-I wonder if all the statues were as bad at the time when the army
-of Oliver Cromwell had finally defeated the army of Charles I. If
+I [[Wonder|wonder]] if all the statues were as bad at the [[Time|time]] when the army
+of [[Oliver]] Cromwell had finally defeated the army of Charles I. If
 they were as bad it would go a long way to explain the iconoclasm
 of the Puritans.  We feel reasonably angry with them because
 they smashed to pieces many beautiful and celebrated images.
@@ -73,17 +73,17 @@ and admirable creature than the shapeless one before whom bunches
 of primroses are offered on Primrose Day.  If the spirit of these
 statesmen could return they would prefer the fleeting caricatures
 of the comic papers to these everlasting caricatures in stone.
-They would prefer the thing drawn in ill-nature by their
+They would prefer the thing drawn in ill-[[Nature|nature]] by their
 enemies to this thing conceived in adoration by their friends.
 And yet the definition of the deficiency is not quite easy to state.
-The figures are reasonably well designed; reasonably well dressed.
+The figures are reasonably [[Well|well]] designed; reasonably [[Well|well]] dressed.
 There are no mistakes in costume or in anatomy that the eye of a
 layman can detect or denounce.  Lord Palmerston wears a frock-coat;
 I suppose he did wear a frock-coat. He holds out his hand;
-I suppose that from time to time in the course of his animated
+I suppose that from [[Time|time]] to [[Time|time]] in the course of his animated
 and interesting career he did sometimes hold out his hand.
 He has whiskers; I presume he had whiskers.  Sometimes, in a
-dark dream of ecstasy, I venture to hope not such whiskers;
+dark dream of ecstasy, I venture to [[Hope|hope]] not such whiskers;
 still I never saw him, and it may be so.  There is nothing
 essentially unreasonable or unlikely about any part of his
 appearance or the appearance of the other stone statesmen
@@ -91,7 +91,7 @@ who share with him that sacred and most impressive place.
 And yet when one thinks what a place it is, one suddenly sees
 that all those figures are hopelessly and incurably comic.
 If there is any England, this is the high historic Senate of England.
-If there is any England, there runs the sacred English river.
+If there is any England, there runs the sacred English [[River|river]].
 And when we think of England as anything everlasting,
 even when we think of England as anything moderately lasting,
 those Victorian stone figures become suddenly like silly dolls.
@@ -105,23 +105,23 @@ that suggested any line that was eternal, any grouping
 or massing that seemed able to endure the open day.
 For this is the real and final test of a statue.
 Its test is in two forms of trial.  First, it must be able to
-endure publicity.  Second, it must be able to endure solitude.
-One must be able to think of it as abandoned.  The epic
+endure publicity.  Second, it must be able to endure [[Solitude|solitude]].
+One must be able to think of it as abandoned.  The [[Epic|epic]]
 of war is for the feast of great princes; the old wives'
 tale is for the circle of gossips and rustics; the picture
 is for the inhabited room; the miniature is for the locket.
 Even the carved church is mostly conceived for a common need,
 and even a common comfort.  But the stone statue is something
-that one can leave alone under the stars.
+that one can leave [[Alone|alone]] under the [[Stars|stars]].
 
 It would be a strange thing if, after all, those four or five
 stone figures expressed all that has been wrong with England
-for so long a time.  It would be strange if the bad carving
+for so long a [[Time|time]].  It would be strange if the bad carving
 of Lord Palmerston's frock-coat were the only thing that really
 expressed what is wrong with the Party system.  Yet I fancy
-that it is exactly there or thereabout that the truth lies.
+that it is exactly there or thereabout that the [[Truth|truth]] lies.
 We admire our Party leaders.  We do not believe in them.
-We praise them for making so much of our case, as if all the time
+We praise them for making so much of our case, as if all the [[Time|time]]
 it were really a bad case.  They are all advocates and they
 were better in the eighteenth century, when they all wore wigs.
 You cannot make an enduring statue of an advocate, for you

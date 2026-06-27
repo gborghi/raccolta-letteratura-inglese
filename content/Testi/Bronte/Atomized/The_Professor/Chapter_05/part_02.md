@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 4 (part 2)"
+title: "[[The Professor]] — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,9 +18,9 @@ or some of his, have a seat in all regularly; so, if you’ll step in
 
 and sit half-an-hour in my bachelor’s parlour, you may catch him as he
 
-passes without much trouble. I think though you’d better let him alone
+passes without much trouble. I think though you’d better let him [[Alone|alone]]
 
-to-night, he’ll have so many customers to serve; Tuesday is his busy day
+to-[[Night|night]], he’ll have so many customers to serve; Tuesday is his busy day
 
 in X---- and Dinneford; come in at all events.”
 
@@ -34,7 +34,7 @@ He swung the wicket open as he spoke.
 
 
 
-“As you please--I’m alone; your company for an hour or two would be
+“As you please--I’m [[Alone|alone]]; your company for an hour or two would be
 
 agreeable to me; but, if you don’t choose to favour me so far, I’ll not
 
@@ -56,7 +56,7 @@ glanced round me.
 
 It was a comfortable room, at once snug and handsome; the bright grate
 
-was filled with a genuine ----shire fire, red, clear, and generous, no
+was filled with a genuine ----shire [[Fire|fire]], red, clear, and generous, no
 
 penurious South-of-England embers heaped in the corner of a grate. On
 
@@ -66,7 +66,7 @@ light; the furniture was almost luxurious for a young bachelor,
 
 comprising a couch and two very easy chairs; bookshelves filled the
 
-recesses on each side of the mantelpiece; they were well-furnished, and
+recesses on each side of the mantelpiece; they were [[Well|well]]-furnished, and
 
 arranged with perfect order. The neatness of the room suited my taste;
 
@@ -92,11 +92,11 @@ himself recalled my attention.
 
 “You shall have something,” said he, “for you ought to feel disposed for
 
-refreshment after walking nobody knows how far on such a Canadian night
+refreshment after walking nobody knows how far on such a Canadian [[Night|night]]
 
-as this; but it shall not be brandy-and-water, and it shall not be
+as this; but it shall not be brandy-and-[[Water|water]], and it shall not be
 
-a bottle of port, nor ditto of sherry. I keep no such poison. I have
+a bottle of port, nor ditto of sherry. I keep no such [[Poison|poison]]. I have
 
 Rhein-wein for my own drinking, and you may choose between that and
 
@@ -146,7 +146,7 @@ extinguishing his smile, and replacing, by an abstracted and alienated
 
 look, the customarily shrewd, bantering glance of his eye. I employed
 
-the interval of silence in a rapid scrutiny of his physiognomy. I had
+the interval of [[Silence|silence]] in a rapid scrutiny of his physiognomy. I had
 
 never observed him closely before; and, as my sight is very short, I had
 
@@ -162,9 +162,9 @@ massive; not at all:--my own features were cast in a harsher and squarer
 
 mould than his. I discerned that there would be contrasts between his
 
-inward and outward man; contentions, too; for I suspected his soul
+inward and outward man; contentions, too; for I suspected his [[Soul|soul]]
 
-had more of will and ambition than his body had of fibre and muscle.
+had more of will and [[Ambition|ambition]] than his [[Body|body]] had of fibre and muscle.
 
 Perhaps, in these incompatibilities of the “physique” with the “morale,”
 
@@ -182,7 +182,7 @@ female face would on a man. I have mentioned his dark locks--they were
 
 brushed sideways above a white and sufficiently expansive forehead; his
 
-cheek had a rather hectic freshness; his features might have done well
+cheek had a rather hectic freshness; his features might have done [[Well|well]]
 
 on canvas, but indifferently in marble: they were plastic; character
 
@@ -202,11 +202,11 @@ Starting from his silent fit, he began:--
 
 
 
-“William! what a fool you are to live in those dismal lodgings of Mrs.
+“William! what a [[Fool|fool]] you are to live in those dismal lodgings of Mrs.
 
-King’s, when you might take rooms here in Grove Street, and have a
+[[King]]’s, when you might take rooms here in Grove Street, and have a
 
-garden like me!”
+[[Garden|garden]] like me!”
 
 
 
@@ -226,6 +226,6 @@ flower or a green leaf?”
 
 
 
-“What are you then? You sit at that desk in Crimsworth’s counting-house
+“What are you then? You sit at that desk in Crimsworth’s counting-[[house]]
 
 day by day and week by week, scraping with a pen on paper, just like an

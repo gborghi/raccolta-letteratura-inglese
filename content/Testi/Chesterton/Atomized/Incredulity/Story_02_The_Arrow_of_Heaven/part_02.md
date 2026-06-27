@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Arrow of Heaven (part 2)"
+title: "[[Incredulity]] — The Arrow of Heaven (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 `Brian Horder's widow,' explained Wain, `had to sell most of
 his valuables, I believe, and Brander Merton must have purchased
-the cup at that time, for he had it when I first knew him.
+the cup at that [[Time|time]], for he had it when I first knew him.
 But you can guess for yourself that it's not a very comfortable
 thing to have.'
 
@@ -36,9 +36,9 @@ and letters that he tore up, too, before even his secretary saw them.
 The secretary himself is getting nervous and says he is sure somebody
 is laying for the old man; and the long and the short of it is,
 that we'd be very grateful for a little advice in the matter.
-Everybody knows your great reputation.  Father Brown, and the secretary
+Everybody knows your great reputation.  [[Father Brown]], and the secretary
 asked me to see if you'd mind coming straight out to the Merton
-house at once.'
+[[house]] at once.'
 
 `Oh, I see,' said Father Brown, on whom the meaning
 of this apparent kidnapping began to dawn at last.
@@ -51,11 +51,11 @@ to be true.  I reckon if anything hit a man like Titus P. Trant, it just
 came out of the sky without waiting for any scientific explanation.
 What they call a bolt from the blue.'
 
-`You can't possibly mean,' cried Wain, `that it was supernatural!'
+`You can't possibly mean,' cried Wain, `that it was [[Supernatural|supernatural]]!'
 
-But it was by no means easy at any time to discover what
+But it was by no means easy at any [[Time|time]] to discover what
 Mr Drage could possibly mean; except that if he said somebody
-was a real smart man, he very probably meant he was a fool.
+was a real smart man, he very probably meant he was a [[Fool|fool]].
 Mr Drage maintained an Oriental immobility until the car stopped,
 a little while after, at what was obviously their destination.
 It was rather a singular place.  They had been driving through
@@ -68,7 +68,7 @@ inspection proved it to be of metal.
 
 They all alighted from the car, and one small door in the wall was
 slid open with considerable caution, after manipulations resembling
-the opening of a safe.  But, much to Father Brown's surprise,
+the opening of a safe.  But, much to [[Father Brown]]'s surprise,
 the man called Norman Drage showed no disposition to enter,
 but took leave of them with sinister gaiety.
 
@@ -111,16 +111,16 @@ just means that power like that is always interesting.
 And I hope it's not against your principles to visit a modern
 sort of emperor like Merton.'
 
-`Not at all,' said Father Brown, quietly.  `It is my duty to visit
+`Not at all,' said [[Father Brown]], quietly.  `It is my duty to visit
 prisoners and all miserable men in captivity.'
 
 There was a silence, and the young man frowned with a strange and almost
 shifty look on his lean face.  Then he said, abruptly:
 
-`Well, you've got to remember it isn't only common crooks or
+`[[Well]], you've got to remember it isn't only common crooks or
 the Black Hand that's against him.  This Daniel Doom is pretty
 much like the devil.  Look how he dropped Trant in his own
-gardens and Horder outside his house, and got away with it.'
+gardens and Horder outside his [[house]], and got away with it.'
 
 The top floor of the mansion, inside the enormously thick walls,
 consisted of two rooms; an outer room which they entered,
@@ -140,8 +140,8 @@ The four men met in the middle of the outer room and paused
 for a little polite conversation, in the act of respectively
 going and coming.  And through all goings and comings another
 figure sat at the back of the room near the inner door,
-massive and motionless in the half--light from the inner window;
+massive and motionless in the half--light from the inner [[Window|window]];
 a man with a Negro face and enormous shoulders.
-This was what the humorous self--criticism of America playfully
+This was what the humorous [[Self|self]]--criticism of [[america|America]] playfully
 calls the Bad Man; whom his friends might call a bodyguard
 and his enemies a bravo.

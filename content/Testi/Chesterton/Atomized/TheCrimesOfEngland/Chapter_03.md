@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 3"
+title: "[[TheCrimesOfEngland]] — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -26,7 +26,7 @@ How we helped Napoleon--The Revolution
 
 and the Two Germanics--Religious
 
-Resistance of Austria and Russia--Irreligious
+Resistance of Austria and [[Russia]]--Irreligious
 
 Resistance of Prussia and England--Negative
 
@@ -34,10 +34,10 @@ Irreligion of England--its Idealism
 
 in Snobbishness--Positive Irreligion of
 
-Prussia; no Idealism in Anything--Allegory
+Prussia; no Idealism in Anything--[[Allegory]]
 
-and the French Revolution--The Dual
+and the [[French Revolution]]--The Dual
 
-Personality of England; the Double Battle--Triumph
+Personality of England; the [[Double]] Battle--Triumph
 
 of Blucher.

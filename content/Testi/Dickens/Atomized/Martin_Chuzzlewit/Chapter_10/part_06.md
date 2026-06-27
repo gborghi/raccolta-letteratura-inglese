@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 10 (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 10 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 ‘Goodness me, Miss Pecksniffs!’ cried that lady, as she came into the
 back room, and sat wearily down, with her basket on her knees, and her
-hands folded upon it, ‘what a trial of temper it is to keep a house like
+hands folded upon it, ‘what a trial of temper it is to keep a [[house]] like
 this! You must have heard most of what has just passed. Now did you ever
 hear the like?’
 
@@ -46,12 +46,12 @@ said Mrs Todgers.
 ‘Taking one week with another; as near that as possible,’ said Mrs
 Todgers.
 
-Mr Pecksniff rose from his chair, folded his arms, looked at her, and
+Mr Pecksniff [[Rose|rose]] from his chair, folded his arms, looked at her, and
 shook his head.
 
 ‘And do you mean to say, ma’am--is it possible, Mrs Todgers--that for
 such a miserable consideration as eighteen shillings a week, a female of
-your understanding can so far demean herself as to wear a double face,
+your understanding can so far demean herself as to wear a [[Double|double]] face,
 even for an instant?’
 
 ‘I am forced to keep things on the square if I can, sir,’ faltered
@@ -61,7 +61,7 @@ together, if possible, Mr Pecksniff. The profit is very small.’
 ‘The profit!’ cried that gentleman, laying great stress upon the word.
 ‘The profit, Mrs Todgers! You amaze me!’
 
-He was so severe, that Mrs Todgers shed tears.
+He was so severe, that Mrs Todgers shed [[Tears|tears]].
 
 ‘The profit!’ repeated Mr pecksniff. ‘The profit of dissimulation! To
 worship the golden calf of Baal, for eighteen shillings a week!’
@@ -70,7 +70,7 @@ worship the golden calf of Baal, for eighteen shillings a week!’
 Mrs Todgers, taking out her handkerchief.
 
 ‘Oh Calf, Calf!’ cried Mr Pecksniff mournfully. ‘Oh, Baal, Baal! oh my
-friend, Mrs Todgers! To barter away that precious jewel, self-esteem,
+friend, Mrs Todgers! To barter away that precious [[Jewel|jewel]], [[Self|self]]-esteem,
 and cringe to any mortal creature--for eighteen shillings a week!’
 
 He was so subdued and overcome by the reflection, that he immediately
@@ -82,6 +82,6 @@ with a consciousness of the moral homily he had read to Mrs Todgers.
 Eighteen shillings a week! Just, most just, thy censure, upright
 Pecksniff! Had it been for the sake of a ribbon, star, or garter;
 sleeves of lawn, a great man’s smile, a seat in parliament, a tap upon
-the shoulder from a courtly sword; a place, a party, or a thriving lie,
+the shoulder from a courtly [[Sword|sword]]; a place, a party, or a thriving lie,
 or eighteen thousand pounds, or even eighteen hundred;--but to worship
 the golden calf for eighteen shillings a week! oh pitiful, pitiful!

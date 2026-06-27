@@ -15,7 +15,7 @@ tags:
 
 
 Mr Wegg resumed his spectacles therefore. But Sawyers was not to be of
-the party that night; for, before Wegg had found his place, Mrs Boffin’s
+the party that [[Night|night]]; for, before Wegg had found his place, Mrs Boffin’s
 tread was heard upon the stairs, so unusually heavy and hurried, that Mr
 Boffin would have started up at the sound, anticipating some occurrence
 much out of the common course, even though she had not also called to
@@ -43,7 +43,7 @@ very strange!’
 ‘What is, my dear?’
 
 ‘Noddy, the faces of the old man and the two children are all over the
-house to-night.’
+[[house]] to-[[Night|night]].’
 
 ‘My dear?’ exclaimed Mr Boffin. But not without a certain uncomfortable
 sensation gliding down his back.
@@ -72,10 +72,10 @@ it was a strange face, and then it was all the faces.’
 
 ‘Where were you then, old lady?’
 
-‘Here, at the chest. Well; I got the better of it, and went on sorting,
+‘Here, at the chest. [[Well]]; I got the better of it, and went on sorting,
 and went on singing to myself. “Lor!” I says, “I’ll think of something
 else—something comfortable—and put it out of my head.” So I thought
-of the new house and Miss Bella Wilfer, and was thinking at a great rate
+of the new [[house]] and Miss [[Bella Wilfer]], and was thinking at a great rate
 with that sheet there in my hand, when all of a sudden, the faces seemed
 to be hidden in among the folds of it and I let it drop.’
 
@@ -100,13 +100,13 @@ Mr Boffin, lost in amazement, looked at Mrs Boffin. Mrs Boffin, lost in
 her own fluttered inability to make this out, looked at Mr Boffin.
 
 ‘I think, my dear,’ said the Golden Dustman, ‘I’ll at once get rid of
-Wegg for the night, because he’s coming to inhabit the Bower, and it
+Wegg for the [[Night|night]], because he’s coming to inhabit the Bower, and it
 might be put into his head or somebody else’s, if he heard this and it
-got about that the house is haunted. Whereas we know better. Don’t we?’
+got about that the [[house]] is haunted. Whereas we know better. Don’t we?’
 
-‘I never had the feeling in the house before,’ said Mrs Boffin; ‘and I
-have been about it alone at all hours of the night. I have been in the
-house when Death was in it, and I have been in the house when Murder was
+‘I never had the feeling in the [[house]] before,’ said Mrs Boffin; ‘and I
+have been about it [[Alone|alone]] at all hours of the [[Night|night]]. I have been in the
+[[house]] when [[Death]] was in it, and I have been in the [[house]] when Murder was
 a new part of its adventures, and I never had a fright in it yet.’
 
 ‘And won’t again, my dear,’ said Mr Boffin. ‘Depend upon it, it comes of
@@ -114,17 +114,17 @@ thinking and dwelling on that dark spot.’
 
 ‘Yes; but why didn’t it come before?’ asked Mrs Boffin.
 
-This draft on Mr Boffin’s philosophy could only be met by that gentleman
-with the remark that everything that is at all, must begin at some time.
+This draft on Mr Boffin’s [[philosophy]] could only be met by that gentleman
+with the remark that everything that is at all, must begin at some [[Time|time]].
 Then, tucking his wife’s arm under his own, that she might not be left
 by herself to be troubled again, he descended to release Wegg. Who,
 being something drowsy after his plentiful repast, and constitutionally
-of a shirking temperament, was well enough pleased to stump away,
+of a shirking temperament, was [[Well|well]] enough pleased to stump away,
 without doing what he had come to do, and was paid for doing.
 
 Mr Boffin then put on his hat, and Mrs Boffin her shawl; and the pair,
 further provided with a bunch of keys and a lighted lantern, went
-all over the dismal house—dismal everywhere, but in their own two
+all over the dismal [[house]]—dismal everywhere, but in their own two
 rooms—from cellar to cock-loft. Not resting satisfied with giving that
 much chace to Mrs Boffin’s fancies, they pursued them into the yard and
 outbuildings, and under the Mounds. And setting the lantern, when all
@@ -136,7 +136,7 @@ Boffin’s brain might be blown away.
 the treatment, you see. Completely worked round, haven’t you?’
 
 ‘Yes, deary,’ said Mrs Boffin, laying aside her shawl. ‘I’m not nervous
-any more. I’m not a bit troubled now. I’d go anywhere about the house
+any more. I’m not a bit troubled now. I’d go anywhere about the [[house]]
 the same as ever. But—’
 
 ‘Eh!’ said Mr Boffin.

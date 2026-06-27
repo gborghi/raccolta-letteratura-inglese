@@ -23,9 +23,9 @@ within ourselves; to turn what is, as far as we are concerned,
 a chaos into what shall be, as far as we are concerned, a cosmos.
 God did not give us a universe, but rather the materials of a universe.
 The world is not a picture, it is a palette.  Most of us who can
-remember our childhood at all will agree that the best present
-that can be given to a child on his birthday is in all probability
-a paint-box. Many fathers know this; the Father of us all knew it well.
+remember our [[Childhood|childhood]] at all will agree that the best present
+that can be given to a [[Child|child]] on his birthday is in all probability
+a paint-box. Many fathers know this; the Father of us all knew it [[Well|well]].
 He gave man a paint-box. He gave him the crude materials of something;
 the crude materials of everything.  That brown earth beneath you
 is only raw umber, which you are destined to turn into cooked umber.
@@ -34,7 +34,7 @@ is only the element and beginning of something beyond the sea.
 How gratifying it is to reflect that the word `ultramarine'
 literally means `something beyond the sea'!  That green grass
 is only the material out of which you may make elves and
-foresters and the figure of Robin Hood.  That blood-red sunset
+foresters and the figure of [[Robin Hood]].  That [[Blood|blood]]-red sunset
 which you unwisely call perfect is nothing but a lake of crimson
 (called for the sake of brevity crimson lake) from which you may
 fish up the flaming images of purple seraphims and scarlet devils.
@@ -74,18 +74,18 @@ jump about.  We should now use this colour, now that colour, of our cosmic
 paint-box to produce the proper effect.  But our vision would not alter.
 We should always have in our minds the picture that we wanted.
 Thousands of years ago a great poet put the perfect vision of mercy.
-`The lion shall lie down with the lamb.'  It will take us a long time
+`The [[Lion|lion]] shall lie down with the [[Lamb|lamb]].'  It will take us a long [[Time|time]]
 to teach him to do it.
 
-But in our own time another and quite different thing has happened.
+But in our own [[Time|time]] another and quite different thing has happened.
 The vision has been attacked, not the picture.  The thing we
-are aiming at is everywhere challenged.  Mercy is denied.
+are aiming at is everywhere challenged.  [[Mercy]] is denied.
 Justice is denied.  The object of all our sacrifices is
 being talked of as dubious.  Brighton is jumping about.
 It would take many generations (perhaps) of philosophical
-lion-tamers to induce the lion to lie down with the lamb.
+[[Lion|lion]]-tamers to induce the [[Lion|lion]] to lie down with the [[Lamb|lamb]].
 But it clearly cannot be done at all if every other generation
-of lion-tamers thinks that it is not worth doing.
+of [[Lion|lion]]-tamers thinks that it is not worth doing.
 
 The whole matter, then, can be put in one statement.
 So long as there is constancy in ideals, there can be progress

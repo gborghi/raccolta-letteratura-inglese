@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 16: SIXTEEN (part 8)"
+title: "[[Martin Chuzzlewit]] — Chapter 16: SIXTEEN (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -18,13 +18,13 @@ Once or twice, when there was a pause, Martin asked such questions as
 naturally occurred to him, being a stranger, about the national poets,
 the theatre, literature, and the arts. But the information which these
 gentlemen were in a condition to give him on such topics, did not extend
-beyond the effusions of such master-spirits of the time as Colonel
+beyond the effusions of such master-spirits of the [[Time|time]] as Colonel
 Diver, Mr Jefferson Brick, and others; renowned, as it appeared, for
-excellence in the achievement of a peculiar style of broadside essay
+excellence in the achievement of a peculiar style of broadside [[Essay|essay]]
 called ‘a screamer.’
 
 ‘We are a busy people, sir,’ said one of the captains, who was from the
-West, ‘and have no time for reading mere notions. We don’t mind ‘em
+West, ‘and have no [[Time|time]] for reading mere notions. We don’t mind ‘em
 if they come to us in newspapers along with almighty strong stuff of
 another sort, but darn your books.’
 
@@ -58,13 +58,13 @@ but of whom he could learn nothing from either of his neighbours, who
 seemed to consider him quite beneath their notice. He had taken no part
 in the conversation round the stove, nor had he gone forth with the
 rest; and now, when he heard Martin sigh for the third or fourth
-time, he interposed with some casual remark, as if he desired, without
+[[Time|time]], he interposed with some casual remark, as if he desired, without
 obtruding himself upon a stranger’s notice, to engage him in cheerful
 conversation if he could. His motive was so obvious, and yet so
 delicately expressed, that Martin felt really grateful to him, and
 showed him so in the manner of his reply.
 
-‘I will not ask you,’ said this gentleman with a smile, as he rose and
+‘I will not ask you,’ said this gentleman with a smile, as he [[Rose|rose]] and
 moved towards him, ‘how you like my country, for I can quite anticipate
 your feeling on that point. But, as I am an American, and consequently
 bound to begin with a question, I’ll ask you how you like the colonel?’
@@ -80,10 +80,10 @@ boards packet-ships, I have heard, to glean the latest information
 for his journal; and he occasionally brings strangers to board here, I
 believe, with a view to the little percentage which attaches to those
 good offices; and which the hostess deducts from his weekly bill. I
-don’t offend you, I hope?’ he added, seeing that Martin reddened.
+don’t offend you, I [[Hope|hope]]?’ he added, seeing that Martin reddened.
 
 ‘My dear sir,’ returned Martin, as they shook hands, ‘how is that
-possible! to tell you the truth, I--am--’
+possible! to tell you the [[Truth|truth]], I--am--’
 
 ‘Yes?’ said the gentleman, sitting down beside him.
 
@@ -91,7 +91,7 @@ possible! to tell you the truth, I--am--’
 getting the better of his hesitation, ‘to know how this colonel escapes
 being beaten.’
 
-‘Well! He has been beaten once or twice,’ remarked the gentleman
+‘[[Well]]! He has been beaten once or twice,’ remarked the gentleman
 quietly. ‘He is one of a class of men, in whom our own Franklin, so
 long ago as ten years before the close of the last century, foresaw
 our danger and disgrace. Perhaps you don’t know that Franklin, in very
@@ -102,17 +102,17 @@ feeling of its people, were justified in retorting on such public
 nuisances by means of a stout cudgel?’
 
 ‘I was not aware of that,’ said Martin, ‘but I am very glad to know
-it, and I think it worthy of his memory; especially’--here he hesitated
+it, and I think it worthy of his [[Memory|memory]]; especially’--here he hesitated
 again.
 
 ‘Go on,’ said the other, smiling as if he knew what stuck in Martin’s
 throat.
 
 ‘Especially,’ pursued Martin, ‘as I can already understand that it may
-have required great courage, even in his time, to write freely on any
+have required great [[Courage|courage]], even in his [[Time|time]], to write freely on any
 question which was not a party one in this very free country.’
 
-‘Some courage, no doubt,’ returned his new friend. ‘Do you think it
+‘Some [[Courage|courage]], no [[Doubt|doubt]],’ returned his new friend. ‘Do you think it
 would require any to do so, now?’
 
 ‘Indeed I think it would; and not a little,’ said Martin.
@@ -135,22 +135,22 @@ away, or patched into praise.’
 ‘Think of what you have seen and heard to-day, beginning with the
 colonel,’ said his friend, ‘and ask yourself. How THEY came about,
 is another question. Heaven forbid that they should be samples of the
-intelligence and virtue of America, but they come uppermost, and in
+intelligence and virtue of [[america|America]], but they come uppermost, and in
 great numbers, and too often represent it. Will you walk?’
 
 There was a cordial candour in his manner, and an engaging confidence
 that it would not be abused; a manly bearing on his own part, and a
-simple reliance on the manly faith of a stranger; which Martin had
+simple reliance on the manly [[Faith|faith]] of a stranger; which Martin had
 never seen before. He linked his arm readily in that of the American
 gentleman, and they walked out together.
 
 It was perhaps to men like this, his new companion, that a traveller
 of honoured name, who trod those shores now nearly forty years ago, and
 woke upon that soil, as many have done since, to blots and stains upon
-its high pretensions, which in the brightness of his distant dreams were
+its high pretensions, which in the brightness of his distant [[Dreams|dreams]] were
 lost to view, appealed in these words--
 
      ‘Oh, but for such, Columbia’s days were done;
      Rank without ripeness, quickened without sun,
      Crude at the surface, rotten at the core,
-     Her fruits would fall before her spring were o’er!’
+     Her fruits would fall before her [[spring]] were o’er!’

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 29 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -18,7 +18,7 @@ them entirely and for ever, if I had but _half_ the blessings that man
 
 so thanklessly casts behind his back—but _half_ the inducements to
 
-virtue and domestic, orderly habits that he despises—but _such_ a home,
+virtue and domestic, orderly habits that he despises—but _such_ a [[Home|home]],
 
 and _such_ a partner to share it! It is infamous!” he muttered, between
 
@@ -50,7 +50,7 @@ I not be yours also?”
 
 
 
-“Intimate acquaintance must precede real friendship; I know but little
+“Intimate acquaintance must precede real [[Friendship|friendship]]; I know but little
 
 of you, Mr. Hargrave, except from report.”
 
@@ -58,13 +58,13 @@ of you, Mr. Hargrave, except from report.”
 
 “Have you then forgotten the six or seven weeks I spent under your roof
 
-last autumn? _I_ have not forgotten them. And I know enough of _you_,
+last [[Autumn|autumn]]? _I_ have not forgotten them. And I know enough of _you_,
 
 Mrs. Huntingdon, to think that your husband is the most enviable man in
 
 the world, and I should be the next if you would deem me worthy of your
 
-friendship.”
+[[Friendship|friendship]].”
 
 
 
@@ -78,23 +78,23 @@ I stepped backward as I spoke. He saw that I wished the conversation to
 
 end; and immediately taking the hint, he gravely bowed, wished me
 
-good-evening, and turned his horse towards the road. He appeared
+good-evening, and turned his [[Horse|horse]] towards the [[Road|road]]. He appeared
 
 grieved and hurt at my unkind reception of his sympathising overtures.
 
 I was not sure that I had done right in speaking so harshly to him;
 
-but, at the time, I had felt irritated—almost insulted by his conduct;
+but, at the [[Time|time]], I had felt irritated—almost insulted by his conduct;
 
 it seemed as if he was presuming upon the absence and neglect of my
 
-husband, and insinuating even more than the truth against him.
+husband, and insinuating even more than the [[Truth|truth]] against him.
 
 
 
 Rachel had moved on, during our conversation, to some yards’ distance.
 
-He rode up to her, and asked to see the child. He took it carefully
+He rode up to her, and asked to see the [[Child|child]]. He took it carefully
 
 into his arms, looked upon it with an almost paternal smile, and I
 
@@ -106,7 +106,7 @@ heard him say, as I approached,—
 
 
 
-He then tenderly kissed it, and restored it to the gratified nurse.
+He then tenderly kissed it, and restored it to the gratified [[Nurse|nurse]].
 
 
 
@@ -116,7 +116,7 @@ towards him.
 
 
 
-“Not in general,” he replied, “but that is such a _sweet_ child, and so
+“Not in general,” he replied, “but that is such a _sweet_ [[Child|child]], and so
 
 like its mother,” he added in a lower tone.
 
@@ -126,7 +126,7 @@ like its mother,” he added in a lower tone.
 
 
 
-“Am I not right, nurse?” said he, appealing to Rachel.
+“Am I not right, [[Nurse|nurse]]?” said he, appealing to Rachel.
 
 
 
@@ -144,7 +144,7 @@ In the course of the following six weeks I met him several times, but
 
 always, save once, in company with his mother, or his sister, or both.
 
-When I called on them, he always happened to be at home, and, when they
+When I called on them, he always happened to be at [[Home|home]], and, when they
 
 called on me, it was always he that drove them over in the phaeton. His
 
@@ -154,9 +154,9 @@ newly-acquired domestic habits.
 
 
 
-The time that I met him alone was on a bright, but not oppressively hot
+The [[Time|time]] that I met him [[Alone|alone]] was on a bright, but not oppressively hot
 
-day, in the beginning of July: I had taken little Arthur into the wood
+day, in the beginning of July: I had taken little [[arthur|Arthur]] into the wood
 
 that skirts the park, and there seated him on the moss-cushioned roots
 
@@ -164,17 +164,17 @@ of an old oak; and, having gathered a handful of bluebells and
 
 wild-roses, I was kneeling before him, and presenting them, one by one,
 
-to the grasp of his tiny fingers; enjoying the heavenly beauty of the
+to the grasp of his tiny fingers; enjoying the heavenly [[Beauty|beauty]] of the
 
-flowers, through the medium of his smiling eyes: forgetting, for the
+[[Flowers|flowers]], through the medium of his smiling eyes: forgetting, for the
 
 moment, all my cares, laughing at his gleeful laughter, and delighting
 
-myself with his delight,—when a shadow suddenly eclipsed the little
+myself with his delight,—when a [[Shadow|shadow]] suddenly eclipsed the little
 
 space of sunshine on the grass before us; and looking up, I beheld
 
-Walter Hargrave standing and gazing upon us.
+[[Walter Hargrave]] standing and gazing upon us.
 
 
 
@@ -184,11 +184,11 @@ neither the power to come forward and interrupt you, nor to withdraw
 
 from the contemplation of such a scene. How vigorous my little godson
 
-grows! and how merry he is this morning!” He approached the child, and
+grows! and how merry he is this morning!” He approached the [[Child|child]], and
 
 stooped to take his hand; but, on seeing that his caresses were likely
 
-to produce tears and lamentations, instead of a reciprocation of
+to produce [[Tears|tears]] and lamentations, instead of a reciprocation of
 
 friendly demonstrations, he prudently drew back.
 
@@ -210,7 +210,7 @@ He politely answered my inquiries, and then returned again to the
 
 subject I wished to avoid; though with a degree of timidity that
 
-witnessed his fear to offend.
+witnessed his [[Fear|fear]] to offend.
 
 
 
@@ -226,7 +226,7 @@ witnessed his fear to offend.
 
 could show to his lady.” He half drew from his waistcoat-pocket a
 
-letter with Arthur’s still beloved hand on the address, scowled at it,
+letter with [[arthur|Arthur]]’s still beloved hand on the address, scowled at it,
 
 and put it back again, adding—“But he tells me he is about to return
 
@@ -234,11 +234,11 @@ next week.”
 
 
 
-“He tells _me_ so every time he writes.”
+“He tells _me_ so every [[Time|time]] he writes.”
 
 
 
-“Indeed! well, it is like him. But to me he always avowed it his
+“Indeed! [[Well|well]], it is like him. But to me he always avowed it his
 
 intention to stay till the present month.”
 
@@ -246,7 +246,7 @@ intention to stay till the present month.”
 
 It struck me like a blow, this proof of premeditated transgression and
 
-systematic disregard of truth.
+systematic disregard of [[Truth|truth]].
 
 
 
@@ -282,11 +282,11 @@ murmured.
 
 I took up my baby, and, wishing him good-morning, departed, to indulge
 
-my thoughts unscrutinized, within the sanctum of my home.
+my thoughts unscrutinized, within the sanctum of my [[Home|home]].
 
 
 
-And _was_ I glad? Yes, delighted; though I was angered by Arthur’s
+And _was_ I glad? Yes, delighted; though I was angered by [[arthur|Arthur]]’s
 
 conduct, and though I felt that he had wronged me, and was determined
 

@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T was the scare of the burglary that actually started the story towards (part 3)"
+title: "[[FourFaultlessFelons]] — T was the scare of the burglary that actually started the story towards (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -22,7 +22,7 @@ Adventurers of the family."
 
 Norman Nadoway raised a protesting hand, but the other went on with a
 
-sweep of spontaneous satire.
+sweep of spontaneous [[Satire|satire]].
 
 
 
@@ -36,7 +36,7 @@ Nadoway-because the Name of Nadoway stinks to the ends of the earth!
 
 Because the business was founded on every sort of swindling and sweating
 
-and grinding the faces of the poor and cheating the widow and orphan.
+and grinding the faces of the poor and cheating the widow and [[Orphan|orphan]].
 
 And, above all, on robbery-on robbing rivals and partners and everybody
 
@@ -74,7 +74,7 @@ gutter. You try it, and see what sort of dirt you will eat! You don't
 
 know anything about the way men are turned into criminals; the shifts and
 
-the delays and the despair, and the hopes that an honest job may turn up,
+the delays and the [[Despair|despair]], and the hopes that an honest job may turn up,
 
 that end by taking a dishonest one. You've no right to be so damned
 
@@ -90,7 +90,7 @@ was not only staggered but strongly moved.
 
 
 
-"All this," said John Nadoway after a silence, "doesn't explain what
+"All this," said John Nadoway after a [[Silence|silence]], "doesn't explain what
 
 you're doing here. As you probably know, there's practically nothing in
 
@@ -100,7 +100,7 @@ it. I can't quite make out what you're up to, in any case."
 
 
 
-"Well," said Alan, with his ironical smile, "you can examine the safe and
+"[[Well]]," said Alan, with his ironical smile, "you can examine the safe and
 
 the rest of the premises after I've gone. Perhaps you may make a few
 
@@ -114,11 +114,11 @@ unmistakable, upon Millicent's ear, the sound of something at once
 
 alarming and amusing; something she had been subconsciously expecting for
 
-a long time past. In the room beyond, her aunt had awakened; probably she
+a long [[Time|time]] past. In the room beyond, her aunt had awakened; probably she
 
 had awakened to all the melodramatic possibilities of an interruption in
 
-the middle of the night. The Victorian tradition had still its living
+the middle of the [[Night|night]]. The Victorian tradition had still its living
 
 witness. Millicent herself had been frozen into a cool acceptance of the
 
@@ -126,7 +126,7 @@ adventure-an acceptance she could not fully explain even to herself. But
 
 somebody at least had shrieked, in a respectable manner, on hearing a
 
-house-breaker.
+[[house]]-breaker.
 
 
 
@@ -138,13 +138,13 @@ family. The only chance was for the burglar to bolt with the promptitude
 
 of any other burglar. He turned and darted through the apartments on his
 
-left, which happened to be the apartments of Miss Milton and Mrs.
+left, which happened to be the apartments of Miss [[Milton]] and Mrs.
 
-Mowbray, so that shriek after shriek now rent the air. But a crash of
+[[Mowbray]], so that shriek after shriek now rent the air. But a crash of
 
-glass from a remote window told the rest that the intruder had managed to
+glass from a remote [[Window|window]] told the rest that the intruder had managed to
 
-burst out of the house and disappear in the darkness of the garden, and
+burst out of the [[house]] and disappear in the darkness of the [[Garden|garden]], and
 
 they all, for varied and rather complex reasons, heaved their separate
 
@@ -156,7 +156,7 @@ Millicent, needless to say, had to resume in a serious manner the duties
 
 of soothing an aunt; so that the shriek faded into shrill questions. Then
 
-she went into her own room, beyond which the hole in the burst window
+she went into her own room, beyond which the hole in the burst [[Window|window]]
 
 showed a black star in the slate-green of the glass. Then she realized
 
@@ -164,8 +164,8 @@ that, right in the path of the disappearing robber, there was
 
 deliberately spread out for inspection, on her own dressing-table, as
 
-crown jewels are spread out upon velvet, the silver chain and studded
+[[Crown|crown]] jewels are spread out upon velvet, the silver chain and studded
 
 clasp which had been fancifully dedicated to the Prioress, and on which
 
-was written in Latin "Love Conquers All".
+was written in Latin "[[Love]] Conquers All".

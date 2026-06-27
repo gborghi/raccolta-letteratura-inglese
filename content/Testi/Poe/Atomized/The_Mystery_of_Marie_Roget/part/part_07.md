@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 7)"
+title: "[[The Mystery of Marie Roget]] (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -16,13 +16,13 @@ tags:
 
       reward is offered, and respecting whom, solely, our agreement has
 
-      been arranged with the Prefect. We both know this gentleman well.
+      been arranged with the Prefect. We both know this gentleman [[Well|well]].
 
       It will not do to trust him too far. If, dating our inquiries
 
-      from the body found, and thence tracing a murderer, we yet
+      from the [[Body|body]] found, and thence tracing a murderer, we yet
 
-      discover this body to be that of some other individual than
+      discover this [[Body|body]] to be that of some other individual than
 
       Marie; or, if starting from the living Marie, we find her, yet
 
@@ -34,7 +34,7 @@ tags:
 
       indispensable that our first step should be the determination of
 
-      the identity of the corpse with the Marie Rogêt who is missing.
+      the [[Identity|identity]] of the corpse with the Marie Rogêt who is missing.
 
 
 
@@ -54,11 +54,11 @@ tags:
 
       object of our newspapers rather to create a sensation—to make a
 
-      point—than to further the cause of truth. The latter end is only
+      point—than to further the cause of [[Truth|truth]]. The latter end is only
 
       pursued when it seems coincident with the former. The print which
 
-      merely falls in with ordinary opinion (however well founded this
+      merely falls in with ordinary opinion (however [[Well|well]] founded this
 
       opinion may be) earns for itself no credit with the mob. The mass
 
@@ -66,7 +66,7 @@ tags:
 
       contradictions_ of the general idea. In ratiocination, not less
 
-      than in literature, it is the epigram which is the most
+      than in literature, it is the [[Epigram|epigram]] which is the most
 
       immediately and the most universally appreciated. In both, it is
 
@@ -74,7 +74,7 @@ tags:
 
 
 
-      “What I mean to say is, that it is the mingled epigram and
+      “What I mean to say is, that it is the mingled [[Epigram|epigram]] and
 
       melodrame of the idea, that Marie Rogêt still lives, rather than
 
@@ -102,31 +102,31 @@ tags:
 
       outset. ‘It is folly to suppose,’ he says, ‘that the murder, if
 
-      murder was committed on her body, could have been consummated
+      murder was committed on her [[Body|body]], could have been consummated
 
-      soon enough to have enabled her murderers to throw the body into
+      soon enough to have enabled her murderers to throw the [[Body|body]] into
 
-      the river before midnight.’ We demand at once, and very
+      the [[River|river]] before midnight.’ We demand at once, and very
 
       naturally, why? Why is it folly to suppose that the murder was
 
       committed _within five minutes_ after the girl’s quitting her
 
-      mother’s house? Why is it folly to suppose that the murder was
+      mother’s [[house]]? Why is it folly to suppose that the murder was
 
       committed at any given period of the day? There have been
 
       assassinations at all hours. But, had the murder taken place at
 
-      any moment between nine o’clock in the morning of Sunday, and a
+      any moment between nine o’[[Clock|clock]] in the morning of [[Sunday]], and a
 
-      quarter before midnight, there would still have been time enough
+      quarter before midnight, there would still have been [[Time|time]] enough
 
-      ‘to throw the body into the river before midnight.’ This
+      ‘to throw the [[Body|body]] into the [[River|river]] before midnight.’ This
 
       assumption, then, amounts precisely to this—that the murder was
 
-      not committed on Sunday at all—and, if we allow L’Etoile to
+      not committed on [[Sunday]] at all—and, if we allow L’Etoile to
 
       assume this, we may permit it any liberties whatever. The
 
@@ -138,13 +138,13 @@ tags:
 
       folly to suppose that the murder, if murder was committed on the
 
-      body, could have been committed soon enough to have enabled her
+      [[Body|body]], could have been committed soon enough to have enabled her
 
-      murderers to throw the body into the river before midnight; it is
+      murderers to throw the [[Body|body]] into the [[River|river]] before midnight; it is
 
       folly, we say, to suppose all this, and to suppose at the same
 
-      time, (as we are resolved to suppose,) that the body was not
+      [[Time|time]], (as we are resolved to suppose,) that the [[Body|body]] was not
 
       thrown in until after midnight’—a sentence sufficiently
 
@@ -160,7 +160,7 @@ tags:
 
       leave it where it is. It is not, however, with L’Etoile that we
 
-      have to do, but with the truth. The sentence in question has but
+      have to do, but with the [[Truth|truth]]. The sentence in question has but
 
       one meaning, as it stands; and this meaning I have fairly stated;
 
@@ -170,25 +170,25 @@ tags:
 
       It was the design of the journalist to say that, at whatever
 
-      period of the day or night of Sunday this murder was committed,
+      period of the day or [[Night|night]] of [[Sunday]] this murder was committed,
 
       it was improbable that the assassins would have ventured to bear
 
-      the corpse to the river before midnight. And herein lies, really,
+      the corpse to the [[River|river]] before midnight. And herein lies, really,
 
       the assumption of which I complain. It is assumed that the murder
 
       was committed at such a position, and under such circumstances,
 
-      that the bearing it to the river became necessary. Now, the
+      that the bearing it to the [[River|river]] became necessary. Now, the
 
-      assassination might have taken place upon the river’s brink, or
+      assassination might have taken place upon the [[River|river]]’s brink, or
 
-      on the river itself; and, thus, the throwing the corpse in the
+      on the [[River|river]] itself; and, thus, the throwing the corpse in the
 
-      water might have been resorted to, at any period of the day or
+      [[Water|water]] might have been resorted to, at any period of the day or
 
-      night, as the most obvious and most immediate mode of disposal.
+      [[Night|night]], as the most obvious and most immediate mode of disposal.
 
       You will understand that I suggest nothing here as probable, or
 

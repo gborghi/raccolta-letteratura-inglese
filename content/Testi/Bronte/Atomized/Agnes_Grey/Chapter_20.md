@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 19"
+title: "[[Agnes Grey]] — Chapter 19"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -34,7 +34,7 @@ wishes and intentions of her daughter; but she affirmed that so long as
 God spared her health and strength, she would make use of them to earn
 her own livelihood, and be chargeable to no one; whether her dependence
 would be felt as a burden or not. If she could afford to reside as a
-lodger in —— vicarage, she would choose that house before all others as
+lodger in —— vicarage, she would choose that [[house]] before all others as
 the place of her abode; but not being so circumstanced, she would never
 come under its roof, except as an occasional visitor: unless sickness
 or calamity should render her assistance really needful, or until age
@@ -44,22 +44,22 @@ or infirmity made her incapable of maintaining herself.
 you must lay it aside for your family; and Agnes and I must gather
 honey for ourselves. Thanks to my having had daughters to educate, I
 have not forgotten my accomplishments. God willing, I will check this
-vain repining,” she said, while the tears coursed one another down her
+vain repining,” she said, while the [[Tears|tears]] coursed one another down her
 cheeks in spite of her efforts; but she wiped them away, and resolutely
 shaking back her head, continued, “I will exert myself, and look out
-for a small house, commodiously situated in some populous but healthy
+for a small [[house]], commodiously situated in some populous but healthy
 district, where we will take a few young ladies to board and educate—if
 we can get them—and as many day pupils as will come, or as we can
 manage to instruct. Your father’s relations and old friends will be
 able to send us some pupils, or to assist us with their
-recommendations, no doubt: I shall not apply to my own. What say you to
+recommendations, no [[Doubt|doubt]]: I shall not apply to my own. What say you to
 it, Agnes? will you be willing to leave your present situation and
 try?”
 
 “Quite willing, mamma; and the money I have saved will do to furnish
-the house. It shall be taken from the bank directly.”
+the [[house]]. It shall be taken from the bank directly.”
 
-“When it is wanted: we must get the house, and settle on preliminaries
+“When it is wanted: we must get the [[house]], and settle on preliminaries
 first.”
 
 Mary offered to lend the little she possessed; but my mother declined
@@ -76,7 +76,7 @@ departure when things were in train for the speedy commencement of our
 school.
 
 We were discussing these affairs on the morning I have mentioned, about
-a fortnight after my father’s death, when a letter was brought in for
+a fortnight after my father’s [[Death|death]], when a letter was brought in for
 my mother, on beholding which the colour mounted to her face—lately
 pale enough with anxious watchings and excessive sorrow. “From my
 father!” murmured she, as she hastily tore off the cover. It was many
@@ -88,7 +88,7 @@ somewhat irreverently cast it on the table, saying with a scornful
 smile,—
 
 “Your grandpapa has been so kind as to write to me. He says he has no
-doubt I have long repented of my ‘unfortunate marriage,’ and if I will
+[[Doubt|doubt]] I have long repented of my ‘unfortunate [[Marriage|marriage]],’ and if I will
 only acknowledge this, and confess I was wrong in neglecting his
 advice, and that I have justly suffered for it, he will make a lady of
 me once again—if that be possible after my long degradation—and
@@ -96,7 +96,7 @@ remember my girls in his will. Get my desk, Agnes, and send these
 things away: I will answer the letter directly. But first, as I may be
 depriving you both of a legacy, it is just that I should tell you what
 I mean to say. I shall say that he is mistaken in supposing that I can
-regret the birth of my daughters (who have been the pride of my life,
+regret the birth of my daughters (who have been the [[Pride|pride]] of my life,
 and are likely to be the comfort of my old age), or the thirty years I
 have passed in the company of my best and dearest friend;—that, had our
 misfortunes been three times as great as they were (unless they had
@@ -105,12 +105,12 @@ them with your father, and administered what consolation I was able;
 and, had his sufferings in illness been ten times what they were, I
 could not regret having watched over and laboured to relieve
 them;—that, if he had married a richer wife, misfortunes and trials
-would no doubt have come upon him still; while I am egotist enough to
+would no [[Doubt|doubt]] have come upon him still; while I am egotist enough to
 imagine that no other woman could have cheered him through them so
-well: not that I am superior to the rest, but I was made for him, and
+[[Well|well]]: not that I am superior to the rest, but I was made for him, and
 he for me; and I can no more repent the hours, days, years of happiness
 we have spent together, and which neither could have had without the
-other, than I can the privilege of having been his nurse in sickness,
+other, than I can the privilege of having been his [[Nurse|nurse]] in sickness,
 and his comfort in affliction.
 
 “Will this do, children?—or shall I say we are all very sorry for what
@@ -122,6 +122,6 @@ bestow?”
 Of course, we both applauded our mother’s resolution; Mary cleared away
 the breakfast things; I brought the desk; the letter was quickly
 written and despatched; and, from that day, we heard no more of our
-grandfather, till we saw his death announced in the newspaper a
-considerable time after—all his worldly possessions, of course, being
+grandfather, till we saw his [[Death|death]] announced in the newspaper a
+considerable [[Time|time]] after—all his worldly possessions, of course, being
 left to our wealthy unknown cousins.

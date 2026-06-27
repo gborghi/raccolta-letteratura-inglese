@@ -1,5 +1,5 @@
 ---
-title: "The System of Doctor Tarr and Professor Fether (part 2)"
+title: "[[The System of Doctor Tarr and Professor Fether]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       to a dangerous frenzy by injudicious persons who called to
 
-      inspect the house. Hence I was obliged to enforce a rigid system
+      inspect the [[house]]. Hence I was obliged to enforce a rigid system
 
       of exclusion; and none obtained access to the premises upon whose
 
@@ -54,7 +54,7 @@ tags:
 
       was, at all times, appalling; and its advantages have been much
 
-      overrated. I believe, sir, that in this house it has been given a
+      overrated. I believe, sir, that in this [[house]] it has been given a
 
       fair trial, if ever in any. We did every thing that rational
 
@@ -104,7 +104,7 @@ tags:
 
 
 
-      “By no means. We put much faith in amusements of a simple kind,
+      “By no means. We put much [[Faith|faith]] in amusements of a simple kind,
 
       such as music, dancing, gymnastic exercises generally, cards,
 
@@ -118,9 +118,9 @@ tags:
 
       confidence in the understanding or discretion of a madman, is to
 
-      gain him body and soul. In this way we were enabled to dispense
+      gain him [[Body|body]] and [[Soul|soul]]. In this way we were enabled to dispense
 
-      with an expensive body of keepers.”
+      with an expensive [[Body|body]] of keepers.”
 
 
 
@@ -170,7 +170,7 @@ tags:
 
 
 
-      “You are young yet, my friend,” replied my host, “but the time
+      “You are young yet, my friend,” replied my host, “but the [[Time|time]]
 
       will arrive when you will learn to judge for yourself of what is
 
@@ -184,7 +184,7 @@ tags:
 
       recovered from the fatigue of your ride, I will be happy to take
 
-      you over the house, and introduce to you a system which, in my
+      you over the [[house]], and introduce to you a system which, in my
 
       opinion, and in that of every one who has witnessed its
 

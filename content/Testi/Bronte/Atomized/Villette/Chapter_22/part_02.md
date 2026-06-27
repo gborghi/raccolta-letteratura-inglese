@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 22 (part 2)"
+title: "[[Villette]] — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -23,7 +23,7 @@ _that_ now, and not for the nun.
 
 “My letter! my letter!” I panted and plained, almost beside myself. I
 groped on the floor, wringing my hands wildly. Cruel, cruel doom! To
-have my bit of comfort preternaturally snatched from me, ere I had well
+have my bit of comfort preternaturally snatched from me, ere I had [[Well|well]]
 tasted its virtue!
 
 I don’t know what the others were doing; I could not watch them: they
@@ -57,24 +57,24 @@ Hush! Come out of this cold room; they are going to send for the police
 now to examine further: we need not stay here—come, we will go down.”
 
 A warm hand, taking my cold fingers, led me down to a room where there
-was a fire. Dr. John and I sat before the stove. He talked to me and
+was a [[Fire|fire]]. Dr. John and I sat before the stove. He talked to me and
 soothed me with unutterable goodness, promising me twenty letters for
 the one lost. If there are words and wrongs like knives, whose
 deep-inflicted lacerations never heal—cutting injuries and insults of
-serrated and poison-dripping edge—so, too, there are consolations of
+serrated and [[Poison|poison]]-dripping edge—so, too, there are consolations of
 tone too fine for the ear not fondly and for ever to retain their echo:
 caressing kindnesses—loved, lingered over through a whole life,
 recalled with unfaded tenderness, and answering the call with undimmed
-shine, out of that raven cloud foreshadowing Death himself. I have been
+shine, out of that raven cloud foreshadowing [[Death]] himself. I have been
 told since that Dr. Bretton was not nearly so perfect as I thought him:
 that his actual character lacked the depth, height, compass, and
-endurance it possessed in my creed. I don’t know: he was as good to me
-as the well is to the parched wayfarer—as the sun to the shivering
+[[Endurance|endurance]] it possessed in my creed. I don’t know: he was as good to me
+as the [[Well|well]] is to the parched wayfarer—as the sun to the shivering
 jailbird. I remember him heroic. Heroic at this moment will I hold him
 to be.
 
 He asked me, smiling, why I cared for his letter so very much. I
-thought, but did not say, that I prized it like the blood in my veins.
+thought, but did not say, that I prized it like the [[Blood|blood]] in my veins.
 I only answered that I had so few letters to care for.
 
 “I am sure you did not read it,” said he; “or you would think nothing
@@ -85,13 +85,13 @@ lost.” And I could not help weeping afresh.
 
 “Lucy, Lucy, my poor little god-sister (if there be such a
 relationship), here—_here_ is your letter. Why is it not better worth
-such tears, and such tenderly exaggerating faith?”
+such [[Tears|tears]], and such tenderly exaggerating [[Faith|faith]]?”
 
 Curious, characteristic manœuvre! His quick eye had seen the letter on
 the floor where I sought it; his hand, as quick, had snatched it up. He
 had hidden it in his waistcoat pocket. If my trouble had wrought with a
-whit less stress and reality, I doubt whether he would ever have
-acknowledged or restored it. Tears of temperature one degree cooler
+whit less stress and reality, I [[Doubt|doubt]] whether he would ever have
+acknowledged or restored it. [[Tears]] of temperature one degree cooler
 than those I shed would only have amused Dr. John.
 
 Pleasure at regaining made me forget merited reproach for the teasing
@@ -102,7 +102,7 @@ broke out more in countenance than language. I said little.
 
 I replied that I was—satisfied and happy.
 
-“Well then,” he proceeded, “how do you feel physically? Are you growing
+“[[Well]] then,” he proceeded, “how do you feel physically? Are you growing
 calmer? Not much: for you tremble like a leaf still.”
 
 It seemed to me, however, that I was sufficiently calm: at least I felt
@@ -120,7 +120,7 @@ otherwise, I shall be discredited and accused of dreaming.”
 “Tell me,” said Dr. Bretton; “I will hear it in my professional
 character: I look on you now from a professional point of view, and I
 read, perhaps, all you would conceal—in your eye, which is curiously
-vivid and restless: in your cheek, which the blood has forsaken; in
+vivid and restless: in your cheek, which the [[Blood|blood]] has forsaken; in
 your hand, which you cannot steady. Come, Lucy, speak and tell me.”
 
 “You would laugh—?”
@@ -132,7 +132,7 @@ your hand, which you cannot steady. Come, Lucy, speak and tell me.”
 “I will again take away that single epistle: being mine, I think I have
 a right to reclaim it.”
 
-I felt raillery in his words: it made me grave and quiet; but I folded
+I felt raillery in his words: it made me [[Grave|grave]] and quiet; but I folded
 up the letter and covered it from sight.
 
 “You may hide it, but I can possess it any moment I choose. You don’t
@@ -143,4 +143,4 @@ tongue and eye; but you never saw that in me—did you, Lucy?”
 “Indeed—indeed—when you were a mere boy I used to see both: far more
 then than now—for now you are strong, and strength dispenses with
 subtlety. But still,—Dr. John, you have what they call in this country
-‘un air fin,’ that nobody can mistake. Madame Beck saw it, and—”
+‘un air fin,’ that nobody can mistake. [[Madame Beck]] saw it, and—”

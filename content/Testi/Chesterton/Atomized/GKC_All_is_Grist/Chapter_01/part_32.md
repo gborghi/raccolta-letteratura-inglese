@@ -16,22 +16,22 @@ tags:
 
 I am not at all pharisaical about these weaknesses considered
 as weaknesses, but I am rather bored with the pretence that they
-are strong with the strength of vigilant Watchers for the Dawn.
+are strong with the strength of vigilant Watchers for the [[Dawn]].
 And I am increasingly tired of the whole tone of that inverted idealism,
 which is terrified when told to make use of a single talent,
 but quite confident of its fitness to rule over ten cities.
 But I suspect, if I may describe the fashionable mood in terms
 of old-fashioned sentiment, that these people are only filling
-the Castle of Indolence with the Pleasures of Hope.
+the [[Castle]] of [[Indolence]] with the Pleasures of [[Hope]].
 
-XXVIII On Mr Shaw's Puritanism
+XXVIII On Mr [[Shaw]]'s [[Puritanism]]
 
-THERE was a time when I was asked, with quite a curious persistence,
-what I thought of Mr. Bernard Shaw and what he thought of
+THERE was a [[Time|time]] when I was asked, with quite a curious persistence,
+what I thought of Mr. Bernard [[Shaw]] and what he thought of
 Professor Einstein.  It was especially in connexion with certain
-remarks about the nature of Great Men, and his reasons for limiting
+remarks about the [[Nature|nature]] of Great Men, and his reasons for limiting
 the list to some and excluding others.  I had no difficulty at
-the time in answering that I thought of Mr. Bernard Shaw very much
+the [[Time|time]] in answering that I thought of Mr. Bernard [[Shaw]] very much
 as I have always thought of him, and that I shou1d have no difficulty
 in admitting him to my list of Great Men, though perhaps my list
 might be a little longer, and perhaps a little more liberal than his.
@@ -87,24 +87,24 @@ Mr. Shaw is reported, and I apologize if he is misreported,
 as saying that he would hesitate to admit Napoleon into his select
 club of heroes; and that `it would have been better for the world
 if Napoleon had never lived'.  To which I answer that if Napoleon
-had never lived, then certainly Bernard Shaw never would have lived.
-At any rate, if Napoleon had not succeeded in being Napoleon, Shaw would
-not have succeeded in being Shaw.
+had never lived, then certainly Bernard [[Shaw]] never would have lived.
+At any rate, if Napoleon had not succeeded in being Napoleon, [[Shaw]] would
+not have succeeded in being [[Shaw]].
 
 For certainly if Napoleon, or some revolutionary soldier nearly as
 competent as Napoleon (there may have been one or two others who could
-have proved competent), had not appeared to save the French Revolution
+have proved competent), had not appeared to save the [[French Revolution]]
 from the invading forces of the aristocracies and autocracies, reaction
 would have shut down on the first republican hopes like a trap of iron,
-and all the democratic dreams that have since filled the intellect
-and imagination would have been utterly and perhaps finally destroyed.
+and all the democratic [[Dreams|dreams]] that have since filled the intellect
+and [[Imagination|imagination]] would have been utterly and perhaps finally destroyed.
 All that we call the modern world, with all its good and evil,
 was made by Napoleon; at any rate was made possible by Napoleon.
 And among the various products of that original revolutionary expansion
 was the particular theory of reconstruction which we call Socialism.
-I will leave Mr. Shaw to decide whether that particular product is to
-be classed among the good or evil products of the French Revolution.
-But surely nobody with historical sense can doubt that all these modern
+I will leave Mr. [[Shaw]] to decide whether that particular product is to
+be classed among the good or evil products of the [[French Revolution]].
+But surely nobody with historical sense can [[Doubt|doubt]] that all these modern
 ideals of revolutionary improvement, with the purpose of social
 justice or equality, date from the great idealistic movement
 at the end of the eighteenth century.  Now I take it as certain
@@ -113,16 +113,16 @@ defended by a man of military genius, it would have been easily
 crushed by the old oligarchies and despotic systems; and, having been
 easily crushed, would have been easily forgotten.  There would
 have remained no legend of revolutionary victory; and therefore,
-alas for human nature, very little of revolutionary heroism.
+alas for human [[Nature|nature]], very little of revolutionary [[Heroism|heroism]].
 There would probably have remained, for centuries afterwards,
-not a gleam of revolutionary hope.  I am merely stating the historical
+not a gleam of revolutionary [[Hope|hope]].  I am merely stating the historical
 and especially the practical probabilities.  I do not discuss
 here how far the balance would have been for evil or good.
 We should doubtless have avoided many annoying forms of anarchical
 nonsense such as still manage to live on the tradition of the triumph
 of France.  We should have been less troubled with some mistaken
 mob movements, and some much more poisonous secret societies.
-But we should have missed some good things as well.
-We should have missed social reform as the serious preoccupation
+But we should have missed some good things as [[Well|well]].
+We should have missed social [[Reform|reform]] as the serious preoccupation
 of the nineteenth century, we should have missed Socialism,
-and we should have missed Shaw.
+and we should have missed [[Shaw]].

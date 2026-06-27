@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 5 (part 2)"
+title: "[[The Professor]] — Chapter 5 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ me that!”
 
 
 
-“You? I have neither inclination nor temptation to talk about you.”
+“You? I have neither inclination nor [[Temptation|temptation]] to talk about you.”
 
 
 
@@ -42,7 +42,7 @@ from your bones with this whip.”
 
 He flourished his tool. The end of the lash just touched my forehead.
 
-A warm excited thrill ran through my veins, my blood seemed to give a
+A warm excited thrill ran through my veins, my [[Blood|blood]] seemed to give a
 
 bound, and then raced fast and hot along its channels. I got up nimbly,
 
@@ -84,17 +84,17 @@ question under discussion, by allusions to my private affairs; by cant
 
 about monsters without natural affection, family despots, and such
 
-trash; and when I rose to answer, I was met by a shout from the filthy
+trash; and when I [[Rose|rose]] to answer, I was met by a shout from the filthy
 
 mob, where the mention of your name enabled me at once to detect the
 
 quarter in which this base attack had originated. When I looked round, I
 
-saw that treacherous villain, Hunsden acting as fugleman. I detected you
+saw that treacherous [[Villain|villain]], Hunsden acting as fugleman. I detected you
 
-in close conversation with Hunsden at my house a month ago, and I know
+in close conversation with Hunsden at my [[house]] a month ago, and I know
 
-that you were at Hunsden’s rooms last night. Deny it if you dare.”
+that you were at Hunsden’s rooms last [[Night|night]]. Deny it if you dare.”
 
 
 
@@ -138,7 +138,7 @@ to bethink himself that, after all, his money gave him sufficient
 
 superiority over a beggar like me, and that he had in his hands a surer
 
-and more dignified mode of revenge than the somewhat hazardous one of
+and more dignified mode of [[Revenge|revenge]] than the somewhat hazardous one of
 
 personal chastisement.
 
@@ -158,11 +158,11 @@ belonging to me, I’ll hire a man to cane you.”
 
 “It is not likely you’ll have the chance; once off your premises, what
 
-temptation can I have to return to them? I leave a prison, I leave a
+[[Temptation|temptation]] can I have to return to them? I leave a [[Prison|prison]], I leave a
 
-tyrant; I leave what is worse than the worst that can lie before me, so
+[[Tyrant|tyrant]]; I leave what is worse than the worst that can lie before me, so
 
-no fear of my coming back.”
+no [[Fear|fear]] of my coming back.”
 
 
 
@@ -188,7 +188,7 @@ you.”
 
 “Look sharp about it, then,” said I, and I took down my hat, drew on my
 
-gloves, and walked leisurely out of the counting-house--walked out of it
+gloves, and walked leisurely out of the counting-[[house]]--walked out of it
 
 to enter it no more.
 
@@ -200,7 +200,7 @@ Crimsworth entered, and the scene above related took place, I had had
 
 rather a sharp appetite, and had been waiting somewhat impatiently to
 
-hear the signal of feeding time. I forgot it now, however; the images
+hear the signal of feeding [[Time|time]]. I forgot it now, however; the images
 
 of potatoes and roast mutton were effaced from my mind by the stir and
 
@@ -214,7 +214,7 @@ I do otherwise? A load was lifted off my heart; I felt light and
 
 liberated. I had got away from Bigben Close without a breach of
 
-resolution; without injury to my self-respect. I had not forced
+resolution; without injury to my [[Self|self]]-respect. I had not forced
 
 circumstances; circumstances had freed me. Life was again open to me;
 
@@ -228,31 +228,31 @@ boundaries I had exchanged that sooty girdle. When I did look up, lo!
 
 straight before me lay Grovetown, a village of villas about five miles
 
-out of X----. The short winter day, as I perceived from the far-declined
+out of X----. The short [[Winter|winter]] day, as I perceived from the far-declined
 
-sun, was already approaching its close; a chill frost-mist was rising
+sun, was already approaching its close; a chill [[Frost|frost]]-mist was rising
 
-from the river on which X---- stands, and along whose banks the road I
+from the [[River|river]] on which X---- stands, and along whose banks the [[Road|road]] I
 
 had taken lay; it dimmed the earth, but did not obscure the clear icy
 
 blue of the January sky. There was a great stillness near and far; the
 
-time of the day favoured tranquillity, as the people were all employed
+[[Time|time]] of the day favoured tranquillity, as the people were all employed
 
 within-doors, the hour of evening release from the factories not being
 
-yet arrived; a sound of full-flowing water alone pervaded the air, for
+yet arrived; a sound of full-flowing [[Water|water]] [[Alone|alone]] pervaded the air, for
 
-the river was deep and abundant, swelled by the melting of a late snow.
+the [[River|river]] was deep and abundant, swelled by the melting of a late [[Snow|snow]].
 
 I stood awhile, leaning over a wall; and looking down at the current:
 
-I watched the rapid rush of its waves. I desired memory to take a clear
+I watched the rapid rush of its waves. I desired [[Memory|memory]] to take a clear
 
 and permanent impression of the scene, and treasure it for future years.
 
-Grovetown church clock struck four; looking up, I beheld the last of
+Grovetown church [[Clock|clock]] struck four; looking up, I beheld the last of
 
 that day’s sun, glinting red through the leafless boughs of some
 

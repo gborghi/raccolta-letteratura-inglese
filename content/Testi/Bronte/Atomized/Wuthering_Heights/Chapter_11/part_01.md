@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 11 (part 1)"
+title: "[[Wuthering Heights]] — Chapter 11 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,37 +17,37 @@ tags:
 CHAPTER XI
 
 
-Sometimes, while meditating on these things in solitude, I’ve got up in
+Sometimes, while meditating on these things in [[Solitude|solitude]], I’ve got up in
 a sudden terror, and put on my bonnet to go see how all was at the
-farm. I’ve persuaded my conscience that it was a duty to warn him how
+farm. I’ve persuaded my [[Conscience|conscience]] that it was a duty to warn him how
 people talked regarding his ways; and then I’ve recollected his
 confirmed bad habits, and, hopeless of benefiting him, have flinched
-from re-entering the dismal house, doubting if I could bear to be taken
+from re-entering the dismal [[house]], doubting if I could bear to be taken
 at my word.
 
-One time I passed the old gate, going out of my way, on a journey to
+One [[Time|time]] I passed the old gate, going out of my way, on a [[Journey|journey]] to
 Gimmerton. It was about the period that my narrative has reached: a
-bright frosty afternoon; the ground bare, and the road hard and dry. I
+bright frosty afternoon; the ground bare, and the [[Road|road]] hard and dry. I
 came to a stone where the highway branches off on to the moor at your
 left hand; a rough sand-pillar, with the letters W. H. cut on its north
 side, on the east, G., and on the south-west, T. G. It serves as a
 guide-post to the Grange, the Heights, and village. The sun shone
-yellow on its grey head, reminding me of summer; and I cannot say why,
-but all at once a gush of child’s sensations flowed into my heart.
+yellow on its grey head, reminding me of [[Summer|summer]]; and I cannot say why,
+but all at once a gush of [[Child|child]]’s sensations flowed into my heart.
 Hindley and I held it a favourite spot twenty years before. I gazed
 long at the weather-worn block; and, stooping down, perceived a hole
-near the bottom still full of snail-shells and pebbles, which we were
+near the [[Bottom|bottom]] still full of snail-shells and pebbles, which we were
 fond of storing there with more perishable things; and, as fresh as
 reality, it appeared that I beheld my early playmate seated on the
 withered turf: his dark, square head bent forward, and his little hand
 scooping out the earth with a piece of slate. “Poor Hindley!” I
 exclaimed, involuntarily. I started: my bodily eye was cheated into a
-momentary belief that the child lifted its face and stared straight
+momentary belief that the [[Child|child]] lifted its face and stared straight
 into mine! It vanished in a twinkling; but immediately I felt an
 irresistible yearning to be at the Heights. Superstition urged me to
 comply with this impulse: supposing he should be dead! I thought—or
-should die soon!—supposing it were a sign of death! The nearer I got to
-the house the more agitated I grew; and on catching sight of it I
+should die soon!—supposing it were a sign of [[Death|death]]! The nearer I got to
+the [[house]] the more agitated I grew; and on catching sight of it I
 trembled in every limb. The apparition had outstripped me: it stood
 looking through the gate. That was my first idea on observing an
 elf-locked, brown-eyed boy setting his ruddy countenance against the
@@ -55,12 +55,12 @@ bars. Further reflection suggested this must be Hareton, _my_ Hareton,
 not altered greatly since I left him, ten months since.
 
 “God bless thee, darling!” I cried, forgetting instantaneously my
-foolish fears. “Hareton, it’s Nelly! Nelly, thy nurse.”
+foolish fears. “Hareton, it’s Nelly! Nelly, thy [[Nurse|nurse]].”
 
 He retreated out of arm’s length, and picked up a large flint.
 
 “I am come to see thy father, Hareton,” I added, guessing from the
-action that Nelly, if she lived in his memory at all, was not
+action that Nelly, if she lived in his [[Memory|memory]] at all, was not
 recognised as one with me.
 
 He raised his missile to hurl it; I commenced a soothing speech, but
@@ -98,9 +98,9 @@ because I swear at him.”
 
 “Who, then?”
 
-“Heathcliff.”
+“[[Heathcliff]].”
 
-I asked if he liked Mr. Heathcliff.
+I asked if he liked Mr. [[Heathcliff]].
 
 “Ay!” he answered again.
 
@@ -111,32 +111,32 @@ daddy for cursing me. He says I mun do as I will.”
 “And the curate does not teach you to read and write, then?” I pursued.
 
 “No, I was told the curate should have his —— teeth dashed down his ——
-throat, if he stepped over the threshold—Heathcliff had promised that!”
+throat, if he stepped over the threshold—[[Heathcliff]] had promised that!”
 
 I put the orange in his hand, and bade him tell his father that a woman
-called Nelly Dean was waiting to speak with him, by the garden gate. He
-went up the walk, and entered the house; but, instead of Hindley,
-Heathcliff appeared on the door-stones; and I turned directly and ran
-down the road as hard as ever I could race, making no halt till I
+called [[Nelly Dean]] was waiting to speak with him, by the [[Garden|garden]] gate. He
+went up the walk, and entered the [[house]]; but, instead of Hindley,
+[[Heathcliff]] appeared on the door-stones; and I turned directly and ran
+down the [[Road|road]] as hard as ever I could race, making no halt till I
 gained the guide-post, and feeling as scared as if I had raised a
-goblin. This is not much connected with Miss Isabella’s affair: except
+goblin. This is not much connected with Miss [[Isabella]]’s affair: except
 that it urged me to resolve further on mounting vigilant guard, and
 doing my utmost to check the spread of such bad influence at the
-Grange: even though I should wake a domestic storm, by thwarting Mrs.
+Grange: even though I should wake a domestic [[Storm|storm]], by thwarting Mrs.
 Linton’s pleasure.
 
-The next time Heathcliff came my young lady chanced to be feeding some
-pigeons in the court. She had never spoken a word to her sister-in-law
+The next [[Time|time]] [[Heathcliff]] came my young lady chanced to be feeding some
+pigeons in the [[Court|court]]. She had never spoken a word to her sister-in-law
 for three days; but she had likewise dropped her fretful complaining,
-and we found it a great comfort. Heathcliff had not the habit of
+and we found it a great comfort. [[Heathcliff]] had not the habit of
 bestowing a single unnecessary civility on Miss Linton, I knew. Now, as
 soon as he beheld her, his first precaution was to take a sweeping
-survey of the house-front. I was standing by the kitchen-window, but I
+survey of the [[house]]-front. I was standing by the kitchen-[[Window|window]], but I
 drew out of sight. He then stepped across the pavement to her, and said
 something: she seemed embarrassed, and desirous of getting away; to
 prevent it, he laid his hand on her arm. She averted her face: he
 apparently put some question which she had no mind to answer. There was
-another rapid glance at the house, and supposing himself unseen, the
+another rapid glance at the [[house]], and supposing himself unseen, the
 scoundrel had the impudence to embrace her.
 
 “Judas! Traitor!” I ejaculated. “You are a hypocrite, too, are you? A

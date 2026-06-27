@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 3"
+title: "[[Nicholas Nickleby]] — Chapter 3"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER 3
 
-Mr. Ralph Nickleby receives Sad Tidings of his Brother, but bears up
+Mr. [[Ralph Nickleby]] receives Sad Tidings of his Brother, but bears up
 nobly against the Intelligence communicated to him. The Reader is
 informed how he liked Nicholas, who is herein introduced, and how kindly
 he proposed to make his Fortune at once
@@ -24,12 +24,12 @@ he proposed to make his Fortune at once
 
 Having rendered his zealous assistance towards dispatching the lunch,
 with all that promptitude and energy which are among the most important
-qualities that men of business can possess, Mr. Ralph Nickleby took a
+qualities that men of business can possess, Mr. [[Ralph Nickleby]] took a
 cordial farewell of his fellow-speculators, and bent his steps westward
-in unwonted good humour. As he passed St Paul’s he stepped aside into
+in unwonted good [[Humour|humour]]. As he passed St Paul’s he stepped aside into
 a doorway to set his watch, and with his hand on the key and his eye
-on the cathedral dial, was intent upon so doing, when a man suddenly
-stopped before him. It was Newman Noggs.
+on the [[Cathedral|cathedral]] dial, was intent upon so doing, when a man suddenly
+stopped before him. It was [[Newman Noggs]].
 
 ‘Ah! Newman,’ said Mr. Nickleby, looking up as he pursued his occupation.
 ‘The letter about the mortgage has come, has it? I thought it would.’
@@ -61,10 +61,10 @@ dead.’
 
 Mr. Nickleby snatched the letter from his assistant, and fixing a cold
 look upon him, opened, read it, put it in his pocket, and having now hit
-the time to a second, began winding up his watch.
+the [[Time|time]] to a second, began winding up his watch.
 
 ‘It is as I expected, Newman,’ said Mr. Nickleby, while he was thus
-engaged. ‘He IS dead. Dear me! Well, that’s sudden thing. I shouldn’t
+engaged. ‘He IS dead. Dear me! [[Well]], that’s sudden thing. I shouldn’t
 have thought it, really.’ With these touching expressions of sorrow, Mr
 Nickleby replaced his watch in his fob, and, fitting on his gloves to a
 nicety, turned upon his way, and walked slowly westward with his hands
@@ -75,32 +75,32 @@ behind him.
 ‘Why, that’s the very thing,’ replied Mr. Nickleby, as though his
 thoughts were about them at that moment. ‘They are both alive.’
 
-‘Both!’ repeated Newman Noggs, in a low voice.
+‘Both!’ repeated [[Newman Noggs]], in a low voice.
 
-‘And the widow, too,’ added Mr. Nickleby, ‘and all three in London,
+‘And the widow, too,’ added Mr. Nickleby, ‘and all three in [[London]],
 confound them; all three here, Newman.’
 
 Newman fell a little behind his master, and his face was curiously
 twisted as by a spasm; but whether of paralysis, or grief, or inward
 laughter, nobody but himself could possibly explain. The expression of
 a man’s face is commonly a help to his thoughts, or glossary on his
-speech; but the countenance of Newman Noggs, in his ordinary moods, was
+speech; but the countenance of [[Newman Noggs]], in his ordinary moods, was
 a problem which no stretch of ingenuity could solve.
 
-‘Go home!’ said Mr. Nickleby, after they had walked a few paces: looking
+‘Go [[Home|home]]!’ said Mr. Nickleby, after they had walked a few paces: looking
 round at the clerk as if he were his dog. The words were scarcely
-uttered when Newman darted across the road, slunk among the crowd, and
+uttered when Newman darted across the [[Road|road]], slunk among the crowd, and
 disappeared in an instant.
 
 ‘Reasonable, certainly!’ muttered Mr. Nickleby to himself, as he walked
 on, ‘very reasonable! My brother never did anything for me, and I never
-expected it; the breath is no sooner out of his body than I am to be
+expected it; the breath is no sooner out of his [[Body|body]] than I am to be
 looked to, as the support of a great hearty woman, and a grown boy and
 girl. What are they to me! I never saw them.’
 
 Full of these, and many other reflections of a similar kind, Mr. Nickleby
 made the best of his way to the Strand, and, referring to his letter as
-if to ascertain the number of the house he wanted, stopped at a private
+if to ascertain the number of the [[house]] he wanted, stopped at a private
 door about half-way down that crowded thoroughfare.
 
 A miniature painter lived there, for there was a large gilt frame
@@ -118,10 +118,10 @@ of blue and brown skies, and an elegantly written card of terms with an
 embossed border.
 
 Mr. Nickleby glanced at these frivolities with great contempt, and gave
-a double knock, which, having been thrice repeated, was answered by a
+a [[Double|double]] knock, which, having been thrice repeated, was answered by a
 servant girl with an uncommonly dirty face.
 
-‘Is Mrs. Nickleby at home, girl?’ demanded Ralph sharply.
+‘Is Mrs. Nickleby at [[Home|home]], girl?’ demanded Ralph sharply.
 
 ‘Her name ain’t Nickleby,’ said the girl, ‘La Creevy, you mean.’
 
@@ -133,13 +133,13 @@ staircase at the end of the passage, inquired who was wanted.
 ‘Mrs. Nickleby,’ said Ralph.
 
 ‘It’s the second floor, Hannah,’ said the same voice; ‘what a stupid
-thing you are! Is the second floor at home?’
+thing you are! Is the second floor at [[Home|home]]?’
 
 ‘Somebody went out just now, but I think it was the attic which had been
 a cleaning of himself,’ replied the girl.
 
 ‘You had better see,’ said the invisible female. ‘Show the gentleman
-where the bell is, and tell him he mustn’t knock double knocks for the
+where the bell is, and tell him he mustn’t knock [[Double|double]] knocks for the
 second floor; I can’t allow a knock except when the bell’s broke, and
 then it must be two single ones.’
 
@@ -173,7 +173,7 @@ disappointment--and said, ‘Oh, indeed!’
 ‘I infer from what you said to your servant, that the floor above
 belongs to you, ma’am,’ said Mr. Nickleby.
 
-Yes it did, Miss La Creevy replied. The upper part of the house belonged
+Yes it did, Miss La Creevy replied. The upper part of the [[house]] belonged
 to her, and as she had no necessity for the second-floor rooms just
 then, she was in the habit of letting them. Indeed, there was a lady
 from the country and her two children in them, at that present speaking.
@@ -185,10 +185,10 @@ from the country and her two children in them, at that present speaking.
 ‘A POOR widow, ma’am,’ said Ralph, with a powerful emphasis on that
 little adjective which conveys so much.
 
-‘Well, I’m afraid she IS poor,’ rejoined Miss La Creevy.
+‘[[Well]], I’m afraid she IS poor,’ rejoined Miss La Creevy.
 
 ‘I happen to know that she is, ma’am,’ said Ralph. ‘Now, what business
-has a poor widow in such a house as this, ma’am?’
+has a poor widow in such a [[house]] as this, ma’am?’
 
 ‘Very true,’ replied Miss La Creevy, not at all displeased with this
 implied compliment to the apartments. ‘Exceedingly true.’
@@ -197,7 +197,7 @@ implied compliment to the apartments. ‘Exceedingly true.’
 am a relation of the family; and I should recommend you not to keep them
 here, ma’am.’
 
-‘I should hope, if there was any incompatibility to meet the pecuniary
+‘I should [[Hope|hope]], if there was any incompatibility to meet the pecuniary
 obligations,’ said Miss La Creevy with another cough, ‘that the lady’s
 family would--’
 
@@ -231,15 +231,15 @@ apartments.’
 
 ‘Of course you can’t, ma’am,’ replied Ralph.
 
-‘Though at the same time,’ added Miss La Creevy, who was plainly
-wavering between her good-nature and her interest, ‘I have nothing
+‘Though at the same [[Time|time]],’ added Miss La Creevy, who was plainly
+wavering between her good-[[Nature|nature]] and her interest, ‘I have nothing
 whatever to say against the lady, who is extremely pleasant and affable,
 though, poor thing, she seems terribly low in her spirits; nor against
 the young people either, for nicer, or better-behaved young people
 cannot be.’
 
-‘Very well, ma’am,’ said Ralph, turning to the door, for these encomiums
-on poverty irritated him; ‘I have done my duty, and perhaps more than I
+‘Very [[Well|well]], ma’am,’ said Ralph, turning to the door, for these encomiums
+on [[Poverty|poverty]] irritated him; ‘I have done my duty, and perhaps more than I
 ought: of course nobody will thank me for saying what I have.’
 
 ‘I am sure I am very much obliged to you at least, sir,’ said Miss La
@@ -247,10 +247,10 @@ Creevy in a gracious manner. ‘Would you do me the favour to look at a
 few specimens of my portrait painting?’
 
 ‘You’re very good, ma’am,’ said Mr. Nickleby, making off with great
-speed; ‘but as I have a visit to pay upstairs, and my time is precious,
+[[Speed|speed]]; ‘but as I have a visit to pay upstairs, and my [[Time|time]] is precious,
 I really can’t.’
 
-‘At any other time when you are passing, I shall be most happy,’ said
+‘At any other [[Time|time]] when you are passing, I shall be most happy,’ said
 Miss La Creevy. ‘Perhaps you will have the kindness to take a card of
 terms with you? Thank you--good-morning!’
 
@@ -258,7 +258,7 @@ terms with you? Thank you--good-morning!’
 to prevent any further conversation. ‘Now for my sister-in-law. Bah!’
 
 Climbing up another perpendicular flight, composed with great mechanical
-ingenuity of nothing but corner stairs, Mr. Ralph Nickleby stopped to
+ingenuity of nothing but corner stairs, Mr. [[Ralph Nickleby]] stopped to
 take breath on the landing, when he was overtaken by the handmaid, whom
 the politeness of Miss La Creevy had dispatched to announce him, and
 who had apparently been making a variety of unsuccessful attempts, since
@@ -272,7 +272,7 @@ dirtier.
 ‘Oh! Mrs. Nickleby,’ said the girl, throwing open the door, ‘here’s Mr
 Nickleby.’
 
-A lady in deep mourning rose as Mr. Ralph Nickleby entered, but appeared
+A lady in deep mourning [[Rose|rose]] as Mr. [[Ralph Nickleby]] entered, but appeared
 incapable of advancing to meet him, and leant upon the arm of a slight
 but very beautiful girl of about seventeen, who had been sitting by her.
 A youth, who appeared a year or two older, stepped forward and saluted
@@ -283,7 +283,7 @@ suppose?’
 
 ‘That is my name, sir,’ replied the youth.
 
-‘Put my hat down,’ said Ralph, imperiously. ‘Well, ma’am, how do you do?
+‘Put my hat down,’ said Ralph, imperiously. ‘[[Well]], ma’am, how do you do?
 You must bear up against sorrow, ma’am; I always do.’
 
 ‘Mine was no common loss!’ said Mrs. Nickleby, applying her handkerchief
@@ -294,16 +294,16 @@ unbuttoned his spencer. ‘Husbands die every day, ma’am, and wives too.’
 
 ‘And brothers also, sir,’ said Nicholas, with a glance of indignation.
 
-‘Yes, sir, and puppies, and pug-dogs likewise,’ replied his uncle,
+‘Yes, sir, and puppies, and pug-[[dogs]] likewise,’ replied his uncle,
 taking a chair. ‘You didn’t mention in your letter what my brother’s
 complaint was, ma’am.’
 
 ‘The doctors could attribute it to no particular disease,’ said Mrs
-Nickleby; shedding tears. ‘We have too much reason to fear that he died
+Nickleby; shedding [[Tears|tears]]. ‘We have too much reason to [[Fear|fear]] that he died
 of a broken heart.’
 
 ‘Pooh!’ said Ralph, ‘there’s no such thing. I can understand a man’s
-dying of a broken neck, or suffering from a broken arm, or a broken
+dying of a broken neck, or [[Suffering|suffering]] from a broken arm, or a broken
 head, or a broken leg, or a broken nose; but a broken heart!--nonsense,
 it’s the cant of the day. If a man can’t pay his debts, he dies of a
 broken heart, and his widow’s a martyr.’
@@ -341,14 +341,14 @@ some seconds without speaking. The face of the old man was stern,
 hard-featured, and forbidding; that of the young one, open, handsome,
 and ingenuous. The old man’s eye was keen with the twinklings of avarice
 and cunning; the young man’s bright with the light of intelligence and
-spirit. His figure was somewhat slight, but manly and well formed; and,
+spirit. His figure was somewhat slight, but manly and [[Well|well]] formed; and,
 apart from all the grace of youth and comeliness, there was an emanation
 from the warm young heart in his look and bearing which kept the old man
 down.
 
 However striking such a contrast as this may be to lookers-on, none ever
 feel it with half the keenness or acuteness of perfection with which it
-strikes to the very soul of him whose inferiority it marks. It galled
+strikes to the very [[Soul|soul]] of him whose inferiority it marks. It galled
 Ralph to the heart’s core, and he hated Nicholas from that hour.
 
 The mutual inspection was at length brought to a close by Ralph
@@ -358,13 +358,13 @@ gentlemen towards their juniors: probably with the view of deluding
 society into the belief that if they could be young again, they wouldn’t
 on any account.
 
-‘Well, ma’am,’ said Ralph, impatiently, ‘the creditors have
+‘[[Well]], ma’am,’ said Ralph, impatiently, ‘the creditors have
 administered, you tell me, and there’s nothing left for you?’
 
 ‘Nothing,’ replied Mrs. Nickleby.
 
 ‘And you spent what little money you had, in coming all the way to
-London, to see what I could do for you?’ pursued Ralph.
+[[London]], to see what I could do for you?’ pursued Ralph.
 
 ‘I hoped,’ faltered Mrs. Nickleby, ‘that you might have an opportunity of
 doing something for your brother’s children. It was his dying wish that
@@ -375,20 +375,20 @@ I should appeal to you in their behalf.’
 seems to think he has a right to dispose of other people’s. What is your
 daughter fit for, ma’am?’
 
-‘Kate has been well educated,’ sobbed Mrs. Nickleby. ‘Tell your uncle, my
+‘Kate has been [[Well|well]] educated,’ sobbed Mrs. Nickleby. ‘Tell your uncle, my
 dear, how far you went in French and extras.’
 
 The poor girl was about to murmur something, when her uncle stopped her,
 very unceremoniously.
 
 ‘We must try and get you apprenticed at some boarding-school,’ said
-Ralph. ‘You have not been brought up too delicately for that, I hope?’
+Ralph. ‘You have not been brought up too delicately for that, I [[Hope|hope]]?’
 
 ‘No, indeed, uncle,’ replied the weeping girl. ‘I will try to do
-anything that will gain me a home and bread.’
+anything that will gain me a [[Home|home]] and bread.’
 
-‘Well, well,’ said Ralph, a little softened, either by his niece’s
-beauty or her distress (stretch a point, and say the latter). ‘You must
+‘[[Well]], [[Well|well]],’ said Ralph, a little softened, either by his niece’s
+[[Beauty|beauty]] or her distress (stretch a point, and say the latter). ‘You must
 try it, and if the life is too hard, perhaps dressmaking or tambour-work
 will come lighter. Have YOU ever done anything, sir?’ (turning to his
 nephew.)
@@ -398,7 +398,7 @@ nephew.)
 ‘No, I thought not!’ said Ralph. ‘This is the way my brother brought up
 his children, ma’am.’
 
-‘Nicholas has not long completed such education as his poor father could
+‘Nicholas has not long completed such [[Education|education]] as his poor father could
 give him,’ rejoined Mrs. Nickleby, ‘and he was thinking of--’
 
 ‘Of making something of him someday,’ said Ralph. ‘The old story; always
@@ -413,8 +413,8 @@ and nobody, I am sure, can have better reason to feel that, than you.’
 This appeal set the widow upon thinking that perhaps she might have made
 a more successful venture with her one thousand pounds, and then she
 began to reflect what a comfortable sum it would have been just then;
-which dismal thoughts made her tears flow faster, and in the excess of
-these griefs she (being a well-meaning woman enough, but weak withal)
+which dismal thoughts made her [[Tears|tears]] flow faster, and in the excess of
+these griefs she (being a [[Well|well]]-meaning woman enough, but weak withal)
 fell first to deploring her hard fate, and then to remarking, with many
 sobs, that to be sure she had been a slave to poor Nicholas, and had
 often told him she might have married better (as indeed she had, very
@@ -427,7 +427,7 @@ to profit by her advice, save on one occasion; which was a strictly
 veracious statement, inasmuch as he had only acted upon it once, and had
 ruined himself in consequence.
 
-Mr. Ralph Nickleby heard all this with a half-smile; and when the widow
+Mr. [[Ralph Nickleby]] heard all this with a half-smile; and when the widow
 had finished, quietly took up the subject where it had been left before
 the above outbreak.
 
@@ -436,13 +436,13 @@ the above outbreak.
 ‘Of course I am,’ replied Nicholas haughtily.
 
 ‘Then see here, sir,’ said his uncle. ‘This caught my eye this morning,
-and you may thank your stars for it.’
+and you may thank your [[Stars|stars]] for it.’
 
-With this exordium, Mr. Ralph Nickleby took a newspaper from his
-pocket, and after unfolding it, and looking for a short time among the
+With this exordium, Mr. [[Ralph Nickleby]] took a newspaper from his
+pocket, and after unfolding it, and looking for a short [[Time|time]] among the
 advertisements, read as follows:
 
-‘“EDUCATION.--At Mr. Wackford Squeers’s Academy, Dotheboys Hall, at the
+‘“[[Education|EDUCATION]].--At Mr. [[Wackford Squeers]]’s Academy, Dotheboys Hall, at the
 delightful village of Dotheboys, near Greta Bridge in Yorkshire, Youth
 are boarded, clothed, booked, furnished with pocket-money, provided
 with all necessaries, instructed in all languages living and dead,
@@ -451,7 +451,7 @@ the globes, algebra, single stick (if required), writing, arithmetic,
 fortification, and every other branch of classical literature.
 Terms, twenty guineas per annum. No extras, no vacations, and diet
 unparalleled. Mr. Squeers is in town, and attends daily, from one till
-four, at the Saracen’s Head, Snow Hill. N.B. An able assistant wanted.
+four, at the Saracen’s Head, [[Snow]] [[Hill]]. N.B. An able assistant wanted.
 Annual salary 5 pounds. A Master of Arts would be preferred.”
 
 ‘There!’ said Ralph, folding the paper again. ‘Let him get that
@@ -470,15 +470,15 @@ best.’
 ‘I say,’ repeated Ralph, tartly, ‘let him get that situation, and his
 fortune is made. If he don’t like that, let him get one for himself.
 Without friends, money, recommendation, or knowledge of business of any
-kind, let him find honest employment in London, which will keep him in
+kind, let him find honest employment in [[London]], which will keep him in
 shoe leather, and I’ll give him a thousand pounds. At least,’ said Mr
-Ralph Nickleby, checking himself, ‘I would if I had it.’
+[[Ralph Nickleby]], checking himself, ‘I would if I had it.’
 
 ‘Poor fellow!’ said the young lady. ‘Oh! uncle, must we be separated so
 soon!’
 
 ‘Don’t tease your uncle with questions when he is thinking only for our
-good, my love,’ said Mrs. Nickleby. ‘Nicholas, my dear, I wish you would
+good, my [[Love|love]],’ said Mrs. Nickleby. ‘Nicholas, my dear, I wish you would
 say something.’
 
 ‘Yes, mother, yes,’ said Nicholas, who had hitherto remained silent and
@@ -498,7 +498,7 @@ Squeers at once; he can but refuse.’
 
 ‘He won’t do that,’ said Ralph. ‘He will be glad to have you on my
 recommendation. Make yourself of use to him, and you’ll rise to be a
-partner in the establishment in no time. Bless me, only think! if he
+partner in the establishment in no [[Time|time]]. Bless me, only think! if he
 were to die, why your fortune’s made at once.’
 
 ‘To be sure, I see it all,’ said poor Nicholas, delighted with a
@@ -512,42 +512,42 @@ uncle?’
 ‘Ah, to be sure!’ sneered Ralph.
 
 ‘And who knows, but when he came to see me when I was settled (as he
-would of course), he might fall in love with Kate, who would be keeping
-my house, and--and marry her, eh! uncle? Who knows?’
+would of course), he might fall in [[Love|love]] with Kate, who would be keeping
+my [[house]], and--and marry her, eh! uncle? Who knows?’
 
 ‘Who, indeed!’ snarled Ralph.
 
-‘How happy we should be!’ cried Nicholas with enthusiasm. ‘The pain of
+‘How happy we should be!’ cried Nicholas with enthusiasm. ‘The [[Pain|pain]] of
 parting is nothing to the joy of meeting again. Kate will be a beautiful
 woman, and I so proud to hear them say so, and mother so happy to
 be with us once again, and all these sad times forgotten, and--’ The
 picture was too bright a one to bear, and Nicholas, fairly overpowered
-by it, smiled faintly, and burst into tears.
+by it, smiled faintly, and burst into [[Tears|tears]].
 
 This simple family, born and bred in retirement, and wholly unacquainted
 with what is called the world--a conventional phrase which, being
-interpreted, often signifieth all the rascals in it--mingled their tears
+interpreted, often signifieth all the rascals in it--mingled their [[Tears|tears]]
 together at the thought of their first separation; and, this first gush
 of feeling over, were proceeding to dilate with all the buoyancy of
-untried hope on the bright prospects before them, when Mr. Ralph Nickleby
-suggested, that if they lost time, some more fortunate candidate
+untried [[Hope|hope]] on the bright prospects before them, when Mr. [[Ralph Nickleby]]
+suggested, that if they lost [[Time|time]], some more fortunate candidate
 might deprive Nicholas of the stepping-stone to fortune which the
 advertisement pointed out, and so undermine all their air-built castles.
 This timely reminder effectually stopped the conversation. Nicholas,
 having carefully copied the address of Mr. Squeers, the uncle and nephew
-issued forth together in quest of that accomplished gentleman; Nicholas
+issued forth together in [[Quest|quest]] of that accomplished gentleman; Nicholas
 firmly persuading himself that he had done his relative great injustice
 in disliking him at first sight; and Mrs. Nickleby being at some pains to
 inform her daughter that she was sure he was a much more kindly disposed
 person than he seemed; which, Miss Nickleby dutifully remarked, he might
 very easily be.
 
-To tell the truth, the good lady’s opinion had been not a little
+To tell the [[Truth|truth]], the good lady’s opinion had been not a little
 influenced by her brother-in-law’s appeal to her better understanding,
 and his implied compliment to her high deserts; and although she had
 dearly loved her husband, and still doted on her children, he had struck
 so successfully on one of those little jarring chords in the human heart
-(Ralph was well acquainted with its worst weaknesses, though he knew
+(Ralph was [[Well|well]] acquainted with its worst weaknesses, though he knew
 nothing of its best), that she had already begun seriously to consider
-herself the amiable and suffering victim of her late husband’s
+herself the amiable and [[Suffering|suffering]] victim of her late husband’s
 imprudence.

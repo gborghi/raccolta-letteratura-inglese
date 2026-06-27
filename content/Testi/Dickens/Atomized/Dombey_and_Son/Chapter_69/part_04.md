@@ -15,12 +15,12 @@ tags:
 
 
 Generous and quick in all his emotions, and regarding himself as the
-innocent occasion of these taunts, Walter now struck in, with all the
+[[Innocent|innocent]] occasion of these taunts, Walter now struck in, with all the
 earnestness he felt.
 
 “Mr Carker,” he said, addressing himself to the Manager. “Indeed,
 indeed, this is my fault solely. In a kind of heedlessness, for which I
-cannot blame myself enough, I have, I have no doubt, mentioned Mr
+cannot blame myself enough, I have, I have no [[Doubt|doubt]], mentioned Mr
 Carker the Junior much oftener than was necessary; and have allowed his
 name sometimes to slip through my lips, when it was against your
 expressed wish. But it has been my own mistake, Sir. We have never
@@ -30,7 +30,7 @@ heedlessness on my part, Sir; for I have felt an interest in Mr Carker
 ever since I have been here, and have hardly been able to help speaking
 of him sometimes, when I have thought of him so much!”
 
-Walter said this from his soul, and with the very breath of honour. For
+Walter said this from his [[Soul|soul]], and with the very breath of [[Honour|honour]]. For
 he looked upon the bowed head, and the downcast eyes, and upraised
 hand, and thought, “I have felt it; and why should I not avow it in
 behalf of this unfriended, broken man!”
@@ -48,15 +48,15 @@ whether he claims to be, or is, an object of such strong interest.”
 “James, do me justice,” said his brother. “I have claimed nothing; and
 I claim nothing. Believe me, on my—”
 
-“Honour?” said his brother, with another smile, as he warmed himself
-before the fire.
+“[[Honour]]?” said his brother, with another smile, as he warmed himself
+before the [[Fire|fire]].
 
 “On my Me—on my fallen life!” returned the other, in the same low
 voice, but with a deeper stress on his words than he had yet seemed
 capable of giving them. “Believe me, I have held myself aloof, and kept
-alone. This has been unsought by me. I have avoided him and everyone.
+[[Alone|alone]]. This has been unsought by me. I have avoided him and everyone.
 
-“Indeed, you have avoided me, Mr Carker,” said Walter, with the tears
+“Indeed, you have avoided me, Mr Carker,” said Walter, with the [[Tears|tears]]
 rising to his eyes; so true was his compassion. “I know it, to my
 disappointment and regret. When I first came here, and ever since, I am
 sure I have tried to be as much your friend, as one of my age could
@@ -68,16 +68,16 @@ people’s attention. That is not the way to befriend Mr John Carker. Ask
 him if he thinks it is.”
 
 “It is no service to me,” said the brother. “It only leads to such a
-conversation as the present, which I need not say I could have well
+conversation as the present, which I need not say I could have [[Well|well]]
 spared. No one can be a better friend to me:” he spoke here very
 distinctly, as if he would impress it upon Walter: “than in forgetting
 me, and leaving me to go my way, unquestioned and unnoticed.”
 
-“Your memory not being retentive, Gay, of what you are told by others,”
+“Your [[Memory|memory]] not being retentive, Gay, of what you are told by others,”
 said Mr Carker the Manager, warming himself with great and increased
-satisfaction, “I thought it well that you should be told this from the
+satisfaction, “I thought it [[Well|well]] that you should be told this from the
 best authority,” nodding towards his brother. “You are not likely to
-forget it now, I hope. That’s all, Gay. You can go.”
+forget it now, I [[Hope|hope]]. That’s all, Gay. You can go.”
 
 Walter passed out at the door, and was about to close it after him,
 when, hearing the voices of the brothers again, and also the mention of
@@ -86,29 +86,29 @@ the door ajar, uncertain whether to return or go away. In this position
 he could not help overhearing what followed.
 
 “Think of me more leniently, if you can, James,” said John Carker,
-“when I tell you I have had—how could I help having, with my history,
+“when I tell you I have had—how could I help having, with my [[history]],
 written here”—striking himself upon the breast—“my whole heart awakened
-by my observation of that boy, Walter Gay. I saw in him when he first
-came here, almost my other self.”
+by my observation of that boy, [[Walter Gay]]. I saw in him when he first
+came here, almost my other [[Self|self]].”
 
-“Your other self!” repeated the Manager, disdainfully.
+“Your other [[Self|self]]!” repeated the Manager, disdainfully.
 
 “Not as I am, but as I was when I first came here too; as sanguine,
 giddy, youthful, inexperienced; flushed with the same restless and
 adventurous fancies; and full of the same qualities, fraught with the
 same capacity of leading on to good or evil.”
 
-“I hope not,” said his brother, with some hidden and sarcastic meaning
+“I [[Hope|hope]] not,” said his brother, with some hidden and sarcastic meaning
 in his tone.
 
 “You strike me sharply; and your hand is steady, and your thrust is
 very deep,” returned the other, speaking (or so Walter thought) as if
 some cruel weapon actually stabbed him as he spoke. “I imagined all
-this when he was a boy. I believed it. It was a truth to me. I saw him
+this when he was a boy. I believed it. It was a [[Truth|truth]] to me. I saw him
 lightly walking on the edge of an unseen gulf where so many others walk
 with equal gaiety, and from which—”
 
-“The old excuse,” interrupted his brother, as he stirred the fire. “So
+“The old excuse,” interrupted his brother, as he stirred the [[Fire|fire]]. “So
 many. Go on. Say, so many fall.”
 
 “From which ONE traveller fell,” returned the other, “who set forward,
@@ -122,28 +122,28 @@ suffered, when I watched that boy.”
 “Only myself,” he assented with a sigh. “I don’t seek to divide the
 blame or shame.”
 
-“You have divided the shame,” James Carker muttered through his teeth.
-And, through so many and such close teeth, he could mutter well.
+“You have divided the shame,” [[James Carker]] muttered through his teeth.
+And, through so many and such close teeth, he could mutter [[Well|well]].
 
-“Ah, James,” returned his brother, speaking for the first time in an
+“Ah, James,” returned his brother, speaking for the first [[Time|time]] in an
 accent of reproach, and seeming, by the sound of his voice, to have
 covered his face with his hands, “I have been, since then, a useful
 foil to you. You have trodden on me freely in your climbing up. Don’t
 spurn me with your heel!”
 
-A silence ensued. After a time, Mr Carker the Manager was heard
+A [[Silence|silence]] ensued. After a [[Time|time]], Mr Carker the Manager was heard
 rustling among his papers, as if he had resolved to bring the interview
-to a conclusion. At the same time his brother withdrew nearer to the
+to a conclusion. At the same [[Time|time]] his brother withdrew nearer to the
 door.
 
 “That’s all,” he said. “I watched him with such trembling and such
-fear, as was some little punishment to me, until he passed the place
+[[Fear|fear]], as was some little punishment to me, until he passed the place
 where I first fell; and then, though I had been his father, I believe I
 never could have thanked God more devoutly. I didn’t dare to warn him,
 and advise him; but if I had seen direct cause, I would have shown him
 my example. I was afraid to be seen speaking with him, lest it should
 be thought I did him harm, and tempted him to evil, and corrupted him:
 or lest I really should. There may be such contagion in me; I don’t
-know. Piece out my history, in connexion with young Walter Gay, and
+know. Piece out my [[history]], in connexion with young [[Walter Gay]], and
 what he has made me feel; and think of me more leniently, James, if you
 can.”

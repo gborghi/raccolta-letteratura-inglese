@@ -1,5 +1,5 @@
 ---
-title: "The System of Doctor Tarr and Professor Fether (part 6)"
+title: "[[The System of Doctor Tarr and Professor Fether]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
@@ -128,11 +128,11 @@ tags:
 
       “I am forced to acknowledge my ignorance,” I replied; “but the
 
-      truth should be held inviolate above all things. Nevertheless, I
+      [[Truth|truth]] should be held inviolate above all things. Nevertheless, I
 
-      feel humbled to the dust, not to be acquainted with the works of
+      feel humbled to the [[Dust|dust]], not to be acquainted with the works of
 
-      these, no doubt, extraordinary men. I will seek out their
+      these, no [[Doubt|doubt]], extraordinary men. I will seek out their
 
       writings forthwith, and peruse them with deliberate care.
 
@@ -172,7 +172,7 @@ tags:
 
       ordinary key stood no more chance of being heard than the voice
 
-      of a fish from the bottom of Niagara Falls.
+      of a fish from the [[Bottom|bottom]] of Niagara Falls.
 
 
 
@@ -188,31 +188,31 @@ tags:
 
       indeed. There is no accounting for the caprices of madmen; and,
 
-      in my opinion as well as in that of Dr. Tarr and Professor
+      in my opinion as [[Well|well]] as in that of Dr. Tarr and Professor
 
       Fether, it is never safe to permit them to run at large
 
       unattended. A lunatic may be ‘soothed,’ as it is called, for a
 
-      time, but, in the end, he is very apt to become obstreperous. His
+      [[Time|time]], but, in the end, he is very apt to become obstreperous. His
 
       cunning, too, is proverbial and great. If he has a project in
 
       view, he conceals his design with a marvellous wisdom; and the
 
-      dexterity with which he counterfeits sanity, presents, to the
+      dexterity with which he counterfeits [[Sanity|sanity]], presents, to the
 
       metaphysician, one of the most singular problems in the study of
 
       mind. When a madman appears thoroughly sane, indeed, it is high
 
-      time to put him in a straitjacket.”
+      [[Time|time]] to put him in a straitjacket.”
 
 
 
       “But the danger, my dear sir, of which you were speaking, in your
 
-      own experience—during your control of this house—have you had
+      own experience—during your control of this [[house]]—have you had
 
       practical reason to think liberty hazardous in the case of a
 
@@ -224,15 +224,15 @@ tags:
 
       very long while ago, a singular circumstance occurred in this
 
-      very house. The ‘soothing system,’ you know, was then in
+      very [[house]]. The ‘soothing system,’ you know, was then in
 
       operation, and the patients were at large. They behaved
 
-      remarkably well—especially so—any one of sense might have known
+      remarkably [[Well|well]]—especially so—any one of sense might have known
 
       that some devilish scheme was brewing from that particular fact,
 
-      that the fellows behaved so remarkably well. And, sure enough,
+      that the fellows behaved so remarkably [[Well|well]]. And, sure enough,
 
       one fine morning the keepers found themselves pinioned hand and
 

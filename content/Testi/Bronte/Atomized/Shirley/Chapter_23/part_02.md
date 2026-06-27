@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 23 (part 2)"
+title: "[[Shirley]] — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -46,7 +46,7 @@ unattractive manner were to her so many additional recommendations. It
 
 is certain, at least, that ladies remarkable for the opposite qualities
 
-of beauty, lively bearing, and elegant taste in attire were not often
+of [[Beauty|beauty]], lively bearing, and elegant taste in attire were not often
 
 favoured with her approbation. Whatever gentlemen are apt to admire in
 
@@ -80,11 +80,11 @@ her neck and demanded a kiss.
 
 "My mother is not civil to you," said the petitioner, as she received
 
-and repaid a smiling salute, "and Rose there takes no notice of you; it
+and repaid a smiling salute, "and [[Rose]] there takes no notice of you; it
 
-is their way. If, instead of you, a white angel, with a crown of stars,
+is their way. If, instead of you, a white angel, with a [[Crown|crown]] of [[Stars|stars]],
 
-had come into the room, mother would nod stiffly, and Rose never lift
+had come into the room, mother would nod stiffly, and [[Rose]] never lift
 
 her head at all; but I will be your friend--I have always liked you."
 
@@ -102,19 +102,19 @@ has never done you any harm; why can't you be kind to her? You sit so
 
 stiff, and look so cold, and speak so dry--what for? That's just the
 
-fashion in which you treat Miss Shirley Keeldar and every other young
+fashion in which you treat Miss [[Shirley Keeldar]] and every other young
 
-lady who comes to our house. And Rose there is such an aut--aut--I have
+lady who comes to our [[house]]. And [[Rose]] there is such an aut--aut--I have
 
-forgotten the word, but it means a machine in the shape of a human
+forgotten the word, but it means a [[Machine|machine]] in the shape of a human
 
-being. However, between you, you will drive every soul away from
+being. However, between you, you will drive every [[Soul|soul]] away from
 
 Briarmains; Martin often says so."
 
 
 
-"I am an automaton? Good! Let me alone, then," said Rose, speaking from
+"I am an automaton? Good! Let me [[Alone|alone]], then," said [[Rose]], speaking from
 
 a corner where she was sitting on the carpet at the foot of a bookcase,
 
@@ -134,17 +134,17 @@ countenance, and observing a certain unconscious movement of the mouth
 
 as she read--a movement full of character. Caroline had tact, and she
 
-had fine instinct. She felt that Rose Yorke was a peculiar child--one of
+had fine instinct. She felt that [[Rose]] Yorke was a peculiar [[Child|child]]--one of
 
 the unique; she knew how to treat her. Approaching quietly, she knelt on
 
 the carpet at her side, and looked over her little shoulder at her book.
 
-It was a romance of Mrs. Radcliffe's--"The Italian."
+It was a [[Romance|romance]] of Mrs. Radcliffe's--"The Italian."
 
 
 
-Caroline read on with her, making no remark. Presently Rose showed her
+Caroline read on with her, making no remark. Presently [[Rose]] showed her
 
 the attention of asking, ere she turned the leaf, "Are you ready?"
 
@@ -154,11 +154,11 @@ Caroline only nodded.
 
 
 
-"Do you like it?" inquired Rose ere long.
+"Do you like it?" inquired [[Rose]] ere long.
 
 
 
-"Long since, when I read it as a child, I was wonderfully taken with
+"Long since, when I read it as a [[Child|child]], I was wonderfully taken with
 
 it."
 
@@ -176,13 +176,13 @@ tale to be unfolded."
 
 "And in reading it you feel as if you were far away from England--really
 
-in Italy--under another sort of sky--that blue sky of the south which
+in [[Italy]]--under another sort of sky--that blue sky of the south which
 
 travellers describe."
 
 
 
-"You are sensible of that, Rose?"
+"You are sensible of that, [[Rose]]?"
 
 
 
@@ -210,19 +210,19 @@ creation. I must see the outside of our own round planet, at least."
 
 my life shall be a life. Not a black trance like the toad's, buried in
 
-marble; nor a long, slow death like yours in Briarfield rectory."
+marble; nor a long, slow [[Death|death]] like yours in Briarfield rectory."
 
 
 
-"Like mine! what can you mean, child?"
+"Like mine! what can you mean, [[Child|child]]?"
 
 
 
-"Might you not as well be tediously dying as for ever shut up in that
+"Might you not as [[Well|well]] be tediously dying as for ever shut up in that
 
-glebe-house--a place that, when I pass it, always reminds me of a
+glebe-[[house]]--a place that, when I pass it, always reminds me of a
 
-windowed grave? I never see any movement about the door. I never hear a
+windowed [[Grave|grave]]? I never see any movement about the door. I never hear a
 
 sound from the wall. I believe smoke never issues from the chimneys.
 
@@ -238,7 +238,7 @@ What do you do there?"
 
 
 
-"Should I be happy wandering alone in strange countries as you wish to
+"Should I be happy wandering [[Alone|alone]] in strange countries as you wish to
 
 do?"
 
@@ -250,7 +250,7 @@ that I shall have an object in view; but if you only went on and on,
 
 like some enchanted lady in a fairy tale, you might be happier than now.
 
-In a day's wandering you would pass many a hill, wood, and watercourse,
+In a day's wandering you would pass many a [[Hill|hill]], wood, and watercourse,
 
 each perpetually altering in aspect as the sun shone out or was
 

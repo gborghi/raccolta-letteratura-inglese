@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 18"
+title: "[[The Professor]] — Chapter 18"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -42,7 +42,7 @@ improved productions wrung from me the avowal that those qualities in
 
 her I had termed taste and fancy ought rather to have been denominated
 
-judgment and imagination. When I intimated so much, which I did as usual
+judgment and [[Imagination|imagination]]. When I intimated so much, which I did as usual
 
 in dry and stinted phrase, I looked for the radiant and exulting smile
 
@@ -58,7 +58,7 @@ margin of her book.
 
 
 
-“Well, are you pleased that I am satisfied with your progress?” I asked.
+“[[Well]], are you pleased that I am satisfied with your progress?” I asked.
 
 
 
@@ -106,7 +106,7 @@ Frances did not become pale or feeble in consequence of her sedentary
 
 employment; perhaps the stimulus it communicated to her mind
 
-counterbalanced the inaction it imposed on her body. She changed,
+counterbalanced the inaction it imposed on her [[Body|body]]. She changed,
 
 indeed, changed obviously and rapidly; but it was for the better. When
 
@@ -116,19 +116,19 @@ she looked like one who had no source of enjoyment, no store of bliss
 
 anywhere in the world; now the cloud had passed from her mien, leaving
 
-space for the dawn of hope and interest, and those feelings rose like a
+space for the [[Dawn|dawn]] of [[Hope|hope]] and interest, and those feelings [[Rose|rose]] like a
 
 clear morning, animating what had been depressed, tinting what had been
 
 pale. Her eyes, whose colour I had not at first known, so dim were they
 
-with repressed tears, so shadowed with ceaseless dejection, now, lit by
+with repressed [[Tears|tears]], so shadowed with ceaseless dejection, now, lit by
 
 a ray of the sunshine that cheered her heart, revealed irids of bright
 
 hazel--irids large and full, screened with long lashes; and pupils
 
-instinct with fire. That look of wan emaciation which anxiety or low
+instinct with [[Fire|fire]]. That look of wan emaciation which anxiety or low
 
 spirits often communicates to a thoughtful, thin face, rather long than
 
@@ -148,7 +148,7 @@ though compact, elegant, flexible--the exquisite turning of waist,
 
 wrist, hand, foot, and ankle satisfied completely my notions of
 
-symmetry, and allowed a lightness and freedom of movement which
+symmetry, and allowed a lightness and [[Freedom|freedom]] of movement which
 
 corresponded with my ideas of grace.
 
@@ -168,7 +168,7 @@ of youth and health, and tolerated her as of their kind accordingly.
 
 
 
-To speak truth, I watched this change much as a gardener watches the
+To speak [[Truth|truth]], I watched this change much as a gardener watches the
 
 growth of a precious plant, and I contributed to it too, even as the
 
@@ -184,7 +184,7 @@ forbidden to expand. Constancy of attention--a kindness as mute
 
 as watchful, always standing by her, cloaked in the rough garb of
 
-austerity, and making its real nature known only by a rare glance of
+austerity, and making its real [[Nature|nature]] known only by a rare glance of
 
 interest, or a cordial and gentle word; real respect masked with seeming
 
@@ -194,7 +194,7 @@ that with devoted care: these were the means I used, for these means
 
 best suited Frances’ feelings, as susceptible as deep vibrating--her
 
-nature at once proud and shy.
+[[Nature|nature]] at once proud and shy.
 
 
 
@@ -220,11 +220,11 @@ The public reading of one of her devoirs achieved the revelation of her
 
 talents to all and sundry; I remember the subject--it was an emigrant’s
 
-letter to his friends at home. It opened with simplicity; some natural
+letter to his friends at [[Home|home]]. It opened with simplicity; some natural
 
 and graphic touches disclosed to the reader the scene of virgin forest
 
-and great, New-World river--barren of sail and flag--amidst which the
+and great, New-World [[River|river]]--barren of sail and [[Flag|flag]]--amidst which the
 
 epistle was supposed to be indited. The difficulties and dangers that
 
@@ -234,17 +234,17 @@ that subject, Mdlle. Henri failed not to render audible the voice of
 
 resolve, patience, endeavour. The disasters which had driven him
 
-from his native country were alluded to; stainless honour, inflexible
+from his native country were alluded to; stainless [[Honour|honour]], inflexible
 
-independence, indestructible self-respect there took the word. Past
+independence, indestructible [[Self|self]]-respect there took the word. Past
 
 days were spoken of; the grief of parting, the regrets of absence, were
 
 touched upon; feeling, forcible and fine, breathed eloquent in every
 
-period. At the close, consolation was suggested; religious faith became
+period. At the close, consolation was suggested; religious [[Faith|faith]] became
 
-there the speaker, and she spoke well.
+there the speaker, and she spoke [[Well|well]].
 
 
 
@@ -282,7 +282,7 @@ opinion.”
 
 
 
-As soon as I had done, a hum rose; several of the pupils, pressing round
+As soon as I had done, a hum [[Rose|rose]]; several of the pupils, pressing round
 
 Mdlle. Henri, began to beset her with compliments; the composed voice of
 
@@ -292,11 +292,11 @@ the directress was now heard:--
 
 “Young ladies, such of you as have cloaks and umbrellas will hasten
 
-to return home before the shower becomes heavier” (it was raining a
+to return [[Home|home]] before the shower becomes heavier” (it was raining a
 
 little), “the remainder will wait till their respective servants arrive
 
-to fetch them.” And the school dispersed, for it was four o’clock.
+to fetch them.” And the school dispersed, for it was four o’[[Clock|clock]].
 
 
 
@@ -322,7 +322,7 @@ Mdlle. Henri can hardly be considered as a concurrent with the other
 
 pupils? She is older than most of them, and has had advantages of an
 
-exclusive nature for acquiring a knowledge of English; on the other
+exclusive [[Nature|nature]] for acquiring a knowledge of English; on the other
 
 hand, her sphere of life is somewhat beneath theirs; under these
 
@@ -344,7 +344,7 @@ foster this sentiment, and in her it should be rather repressed--she
 
 rather needs keeping down than bringing forward; and then I think,
 
-monsieur--it appears to me that ambition, LITERARY ambition especially,
+monsieur--it appears to me that [[Ambition|ambition]], LITERARY [[Ambition|ambition]] especially,
 
 is not a feeling to be cherished in the mind of a woman: would not
 
@@ -370,7 +370,7 @@ habits of a respectable decorous female.”
 
 “Indisputably, mademoiselle,” was my answer. “Your opinion admits of no
 
-doubt;” and, fearful of the harangue being renewed, I retreated under
+[[Doubt|doubt]];” and, fearful of the harangue being renewed, I retreated under
 
 cover of that cordial sentence of assent.
 
@@ -394,7 +394,7 @@ the seat at the desk near the door still remained vacant, and when
 
 no allusion was made to the circumstance by any individual of the
 
-class--when, on the contrary, I found that all observed a marked silence
+class--when, on the contrary, I found that all observed a marked [[Silence|silence]]
 
 on the point--I determined, COUTE QUI COUTE, to break the ice of this
 
@@ -438,7 +438,7 @@ il y a deux ou trois jours.”
 
 
 
-And I could pursue my inquiries no further; time, place, and
+And I could pursue my inquiries no further; [[Time|time]], place, and
 
 circumstances forbade my adding another word. I could neither comment on
 
@@ -512,9 +512,9 @@ numerous and flowing ringlets. Then she went on with vivacity:
 
 “Rosalie, I was coming to tell you to go instantly and close the windows
 
-of the salon; the wind is rising, and the muslin curtains will be
+of the salon; the [[Wind|wind]] is rising, and the muslin curtains will be
 
-covered with dust.”
+covered with [[Dust|dust]].”
 
 
 
@@ -528,7 +528,7 @@ transparent than this same pretext.” An impulse came over me to thrust
 
 the flimsy screen aside, and confront her craft boldly with a word or
 
-two of plain truth. “The rough-shod foot treads most firmly on slippery
+two of plain [[Truth|truth]]. “The rough-shod foot treads most firmly on slippery
 
 ground,” thought I; so I began:
 
@@ -544,7 +544,7 @@ presume?”
 
 the directress with the most natural and affable air in the world;
 
-“but we cannot talk quietly here; will Monsieur step into the garden a
+“but we cannot talk quietly here; will Monsieur step into the [[Garden|garden]] a
 
 minute?” And she preceded me, stepping out through the glass-door I have
 
@@ -554,9 +554,9 @@ before mentioned.
 
 “There,” said she, when we had reached the centre of the middle alley,
 
-and when the foliage of shrubs and trees, now in their summer pride,
+and when the foliage of shrubs and trees, now in their [[Summer|summer]] [[Pride|pride]],
 
-closing behind and around us, shut out the view of the house, and thus
+closing behind and around us, shut out the view of the [[house]], and thus
 
 imparted a sense of seclusion even to this little plot of ground in the
 
@@ -566,7 +566,7 @@ very core of a capital.
 
 “There, one feels quiet and free when there are only pear-trees and
 
-rose-bushes about one; I dare say you, like me, monsieur, are sometimes
+[[Rose|rose]]-bushes about one; I dare say you, like me, monsieur, are sometimes
 
 tired of being eternally in the midst of life; of having human faces
 
@@ -574,7 +574,7 @@ always round you, human eyes always upon you, human voices always in
 
 your ear. I am sure I often wish intensely for liberty to spend a whole
 
-month in the country at some little farm-house, bien gentille, bien
+month in the country at some little farm-[[house]], bien gentille, bien
 
 propre, tout entouree de champs et de bois; quelle vie charmante que la
 
@@ -588,7 +588,7 @@ vie champetre! N’est-ce pas, monsieur?”
 
 “Que le vent est bon et frais!” continued the directress; and she was
 
-right there, for it was a south wind, soft and sweet. I carried my hat
+right there, for it was a south [[Wind|wind]], soft and sweet. I carried my hat
 
 in my hand, and this gentle breeze, passing through my hair, soothed my
 
@@ -598,7 +598,7 @@ than the mere surface of the frame; for as I walked by the side of
 
 Mdlle. Reuter, my heart was still hot within me, and while I was musing
 
-the fire burned; then spake I with my tongue:--
+the [[Fire|fire]] burned; then spake I with my tongue:--
 
 
 
@@ -608,7 +608,7 @@ the fire burned; then spake I with my tongue:--
 
 “Ah, true! I meant to have named the subject to you some days ago, but
 
-my time is so completely taken up, I cannot do half the things I wish:
+my [[Time|time]] is so completely taken up, I cannot do half the things I wish:
 
 have you never experienced what it is, monsieur, to find the day too
 
@@ -640,7 +640,7 @@ event?”
 
 
 
-“Dismission? Ah! she was not dismissed; I can say with truth, monsieur,
+“Dismission? Ah! she was not dismissed; I can say with [[Truth|truth]], monsieur,
 
 that since I became the head of this establishment no master or teacher
 
@@ -676,19 +676,19 @@ petite lecon dans votre etat d’instituteur.” (I wish I might write
 
 all she said to me in French--it loses sadly by being translated into
 
-English.) We had now reached THE garden-chair; the directress sat down,
+English.) We had now reached THE [[Garden|garden]]-chair; the directress sat down,
 
 and signed to me to sit by her, but I only rested my knee on the seat,
 
 and stood leaning my head and arm against the embowering branch of a
 
-huge laburnum, whose golden flowers, blent with the dusky green leaves
+huge laburnum, whose golden [[Flowers|flowers]], blent with the dusky green [[Leaves|leaves]]
 
 of a lilac-bush, formed a mixed arch of shade and sunshine over the
 
-retreat. Mdlle. Reuter sat silent a moment; some novel movements were
+retreat. Mdlle. Reuter sat silent a moment; some [[Novel|novel]] movements were
 
-evidently working in her mind, and they showed their nature on her
+evidently working in her mind, and they showed their [[Nature|nature]] on her
 
 astute brow; she was meditating some CHEF D’OEUVRE of policy. Convinced
 
@@ -696,11 +696,11 @@ by several months’ experience that the affectation of virtues she did
 
 not possess was unavailing to ensnare me--aware that I had read her real
 
-nature, and would believe nothing of the character she gave out as being
+[[Nature|nature]], and would believe nothing of the character she gave out as being
 
 hers--she had determined, at last, to try a new key, and see if the lock
 
-of my heart would yield to that; a little audacity, a word of truth, a
+of my heart would yield to that; a little audacity, a word of [[Truth|truth]], a
 
 glimpse of the real. “Yes, I will try,” was her inward resolve; and then
 
@@ -730,7 +730,7 @@ seek its natural mate and pleasant nest.
 
 
 
-“Well--and your lesson?” I demanded briefly.
+“[[Well]]--and your lesson?” I demanded briefly.
 
 
 
@@ -742,9 +742,9 @@ vulgarity, you need a lesson; here it is then: far more is to be done
 
 in this world by dexterity than by strength; but, perhaps, you knew
 
-that before, for there is delicacy as well as power in your
+that before, for there is delicacy as [[Well|well]] as power in your
 
-character--policy, as well as pride?”
+character--policy, as [[Well|well]] as [[Pride|pride]]?”
 
 
 
@@ -754,23 +754,23 @@ piquant, so finely seasoned. She caught the prohibited smile, though I
 
 passed my hand over my month to conceal it; and again she made room for
 
-me to sit beside her. I shook my head, though temptation penetrated to
+me to sit beside her. I shook my head, though [[Temptation|temptation]] penetrated to
 
 my senses at the moment, and once more I told her to go on.
 
 
 
-“Well, then, if ever you are at the head of a large establishment,
+“[[Well]], then, if ever you are at the head of a large establishment,
 
-dismiss nobody. To speak truth, monsieur (and to you I will speak
+dismiss nobody. To speak [[Truth|truth]], monsieur (and to you I will speak
 
-truth), I despise people who are always making rows, blustering, sending
+[[Truth|truth]]), I despise people who are always making rows, blustering, sending
 
 off one to the right, and another to the left, urging and hurrying
 
 circumstances. I’ll tell you what I like best to do, monsieur, shall I?”
 
- She looked up again; she had compounded her glance well this time--much
+ She looked up again; she had compounded her glance [[Well|well]] this [[Time|time]]--much
 
 archness, more deference, a spicy dash of coquetry, an unveiled
 
@@ -830,7 +830,7 @@ therefore you rendered it intolerable to her?”
 
 no, your moral sight is clear and piercing, but there you have failed
 
-to discover the truth. I took--I have always taken a real interest in
+to discover the [[Truth|truth]]. I took--I have always taken a real interest in
 
 Mdlle. Henri’s welfare; I did not like her going out in all weathers;
 
@@ -852,7 +852,7 @@ her address.”
 
 “Her address!” and a sombre and stony change came over the mien of
 
-the directress. “Her address? Ah?--well--I wish I could oblige you,
+the directress. “Her address? Ah?--[[Well|well]]--I wish I could oblige you,
 
 monsieur, but I cannot, and I will tell you why; whenever I myself asked
 
@@ -876,7 +876,7 @@ make a bugbear of her origin to me--I happen to know that she was a
 
 Swiss pastor’s daughter, neither more nor less; and, as to her narrow
 
-means, I care nothing for the poverty of her purse so long as her heart
+means, I care nothing for the [[Poverty|poverty]] of her purse so long as her heart
 
 overflows with affluence.”
 
@@ -890,7 +890,7 @@ temporary candour shut up; the little, red-coloured, piratical-looking
 
 pennon of audacity she had allowed to float a minute in the air, was
 
-furled, and the broad, sober-hued flag of dissimulation again hung
+furled, and the broad, sober-hued [[Flag|flag]] of dissimulation again hung
 
 low over the citadel. I did not like her thus, so I cut short the
 

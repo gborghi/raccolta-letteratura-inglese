@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE THIEF ON TRIAL (part 1)"
+title: "[[FourFaultlessFelons]] — THE THIEF ON TRIAL (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -32,7 +32,7 @@ privileged interviews between the prisoner and members of his family. But
 
 it was not until his father, old Sir Jacob Nadoway, had sent his private
 
-secretary to the prison, apparently to conduct unprecedentedly long
+secretary to the [[Prison|prison]], apparently to conduct unprecedentedly long
 
 interviews with the prisoner, that the news went round that he was
 
@@ -46,7 +46,7 @@ he had insisted on conducting his own defence.
 
 He had been committed for trial after purely formal evidence, and in his
 
-earlier stages of silence and surrender. It was before a judge and jury
+earlier stages of [[Silence|silence]] and surrender. It was before a judge and jury
 
 that the case against him was fully opened, and the prosecuting counsel
 
@@ -54,7 +54,7 @@ opened it in tones of stern regret. The prisoner was unfortunately the
 
 son of a great and distinguished family, the blot on the escutcheon of a
 
-noble, a generous and a philanthropic house. All were acquainted with the
+noble, a generous and a philanthropic [[house]]. All were acquainted with the
 
 great reforms in the conditions of employment which would always be
 
@@ -66,13 +66,13 @@ to the ecclesiastical dogmas upheld by his other brother, the Rev. Norman
 
 Nadoway, had none the less respect for the solid social work and active
 
-charity of that clergyman among the poor. But, however it might be in
+[[Charity|charity]] of that clergyman among the poor. But, however it might be in
 
 other countries, the English law was no respecter of persons and was
 
 bound to follow crime even to its most respectable retreats. This
 
-unfortunate man, Alan Nadoway, had always been a ne'er-do-well and a
+unfortunate man, Alan Nadoway, had always been a ne'er-do-[[Well|well]] and a
 
 burden and disgrace to his family. He had been suspected, and indeed
 
@@ -96,7 +96,7 @@ continued to look at each other with lugubrious countenances, until the
 
 barrister apologized and resumed. In any case, he said, there could be
 
-little doubt upon the charge of petty larceny, in face of the witnesses
+little [[Doubt|doubt]] upon the charge of petty larceny, in face of the witnesses
 
 whom he intended to put in the box.
 
@@ -110,7 +110,7 @@ only all one sentence but all one word.
 
 
 
-"Acting on information received I followed the prisoner from the house of
+"Acting on information received I followed the prisoner from the [[house]] of
 
 the Rev. Norman Nadoway towards the Yperion Cinema Theatre at about a
 
@@ -136,13 +136,13 @@ his pockets and took the prisoner into custody."
 
 
 
-"Do you wish to cross-examine this witness?" asked the judge.
+"Do you wish to [[Cross|cross]]-examine this witness?" asked the judge.
 
 
 
 "I am sure your lordship will pardon me in the circumstances," said the
 
-prisoner, "If I am not well acquainted with the forms of this court. But
+prisoner, "If I am not [[Well|well]] acquainted with the forms of this [[Court|court]]. But
 
 may I at this stage ask whether the prosecution is going to call these
 
@@ -178,7 +178,7 @@ things came about?"
 
 
 
-"Well," said the constable, "the fact is that as soon as I'd turned my
+"[[Well]]," said the constable, "the fact is that as soon as I'd turned my
 
 back on him for a minute, he was gone."
 
@@ -192,7 +192,7 @@ without leaving his name, as if he were a thief himself?"
 
 
 
-"Well, I don't understand it, and that's flat," said the policeman.
+"[[Well]], I don't understand it, and that's flat," said the policeman.
 
 
 
@@ -212,7 +212,7 @@ was a human being and capable of being amused.
 
 
 
-"Well, I must say he was vague enough," he admitted with a faint grin.
+"[[Well]], I must say he was vague enough," he admitted with a faint grin.
 
 "He's one of these artistic musical chaps, and his notions of counting
 

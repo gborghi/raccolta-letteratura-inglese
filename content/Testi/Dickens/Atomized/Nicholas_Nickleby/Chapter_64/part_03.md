@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 64 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 64 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,7 +25,7 @@ boddy, nor Fanny neither.’
 they lads mightn’t do. When it first got aboot that schoolmeasther was
 in trouble, some feythers and moothers sent and took their young chaps
 awa’. If them as is left, should know waat’s coom tiv’un, there’ll be
-sike a revolution and rebel!--Ding! But I think they’ll a’ gang daft,
+sike a revolution and [[Rebel|rebel]]!--Ding! But I think they’ll a’ gang daft,
 and spill bluid like wather!’
 
 In fact, John Browdie’s apprehensions were so strong that he determined
@@ -38,17 +38,17 @@ might perhaps aggravate the bitterness of their adversity.
 ‘I must return tomorrow,’ said Nicholas, ‘but I mean to dine with you
 today, and if Mrs. Browdie can give me a bed--’
 
-‘Bed!’ cried John, ‘I wish thou couldst sleep in fower beds at once.
+‘Bed!’ cried John, ‘I wish thou couldst [[Sleep|sleep]] in fower beds at once.
 Ecod, thou shouldst have ‘em a’. Bide till I coom back; on’y bide till I
 coom back, and ecod we’ll make a day of it.’
 
 Giving his wife a hearty kiss, and Nicholas a no less hearty shake of
-the hand, John mounted his horse and rode off: leaving Mrs. Browdie to
+the hand, John mounted his [[Horse|horse]] and rode off: leaving Mrs. Browdie to
 apply herself to hospitable preparations, and his young friend to stroll
 about the neighbourhood, and revisit spots which were rendered familiar
 to him by many a miserable association.
 
-John cantered away, and arriving at Dotheboys Hall, tied his horse to a
+John cantered away, and arriving at Dotheboys Hall, tied his [[Horse|horse]] to a
 gate and made his way to the schoolroom door, which he found locked on
 the inside. A tremendous noise and riot arose from within, and, applying
 his eye to a convenient crevice in the wall, he did not remain long in
@@ -71,13 +71,13 @@ rushed to the door and locked it, and another mounted on the desks and
 forms, the stoutest (and consequently the newest) boy seized the cane,
 and confronting Mrs. Squeers with a stern countenance, snatched off her
 cap and beaver bonnet, put them on his own head, armed himself with the
-wooden spoon, and bade her, on pain of death, go down upon her knees and
+wooden spoon, and bade her, on [[Pain|pain]] of [[Death|death]], go down upon her knees and
 take a dose directly. Before that estimable lady could recover herself,
 or offer the slightest retaliation, she was forced into a kneeling
-posture by a crowd of shouting tormentors, and compelled to swallow a
+posture by a crowd of shouting tormentors, and compelled to [[Swallow|swallow]] a
 spoonful of the odious mixture, rendered more than usually savoury by
 the immersion in the bowl of Master Wackford’s head, whose ducking
-was intrusted to another rebel. The success of this first achievement
+was intrusted to another [[Rebel|rebel]]. The [[success]] of this first achievement
 prompted the malicious crowd, whose faces were clustered together in
 every variety of lank and half-starved ugliness, to further acts of
 outrage. The leader was insisting upon Mrs. Squeers repeating her dose,
@@ -85,12 +85,12 @@ Master Squeers was undergoing another dip in the treacle, and a violent
 assault had been commenced on Miss Squeers, when John Browdie, bursting
 open the door with a vigorous kick, rushed to the rescue. The shouts,
 screams, groans, hoots, and clapping of hands, suddenly ceased, and a
-dead silence ensued.
+dead [[Silence|silence]] ensued.
 
 ‘Ye be noice chaps,’ said John, looking steadily round. ‘What’s to do
-here, thou yoong dogs?’
+here, thou yoong [[dogs]]?’
 
-‘Squeers is in prison, and we are going to run away!’ cried a score of
+‘Squeers is in [[Prison|prison]], and we are going to run away!’ cried a score of
 shrill voices. ‘We won’t stop, we won’t stop!’
 
 ‘Weel then, dinnot stop,’ replied John; ‘who waants thee to stop? Roon
@@ -121,7 +121,7 @@ before, and were destined never to respond to again. When the sound had
 died away, the school was empty; and of the busy noisy crowd which had
 peopled it but five minutes before, not one remained.
 
-‘Very well, Mr. Browdie!’ said Miss Squeers, hot and flushed from the
+‘Very [[Well|well]], Mr. Browdie!’ said Miss Squeers, hot and flushed from the
 recent encounter, but vixenish to the last; ‘you’ve been and excited our
 boys to run away. Now see if we don’t pay you out for that, sir! If
 my pa IS unfortunate and trod down by henemies, we’re not going to be
@@ -140,7 +140,7 @@ schoolmeasther. There!’
 
 His parting words concluded, John Browdie strode heavily out, remounted
 his nag, put him once more into a smart canter, and, carolling lustily
-forth some fragments of an old song, to which the horse’s hoofs rang a
+forth some fragments of an old [[Song|song]], to which the [[Horse|horse]]’s hoofs rang a
 merry accompaniment, sped back to his pretty wife and to Nicholas.
 
 For some days afterwards, the neighbouring country was overrun with
@@ -152,17 +152,17 @@ lurking grin, that rendered the suspicious doubtful, and fully confirmed
 all previous believers.
 
 There were a few timid young children, who, miserable as they had been,
-and many as were the tears they had shed in the wretched school, still
-knew no other home, and had formed for it a sort of attachment, which
+and many as were the [[Tears|tears]] they had shed in the wretched school, still
+knew no other [[Home|home]], and had formed for it a sort of attachment, which
 made them weep when the bolder spirits fled, and cling to it as a
 refuge. Of these, some were found crying under hedges and in such
-places, frightened at the solitude. One had a dead bird in a little
+places, frightened at the [[Solitude|solitude]]. One had a dead bird in a little
 cage; he had wandered nearly twenty miles, and when his poor favourite
-died, lost courage, and lay down beside him. Another was discovered in a
+died, lost [[Courage|courage]], and lay down beside him. Another was discovered in a
 yard hard by the school, sleeping with a dog, who bit at those who came
-to remove him, and licked the sleeping child’s pale face.
+to remove him, and licked the sleeping [[Child|child]]’s pale face.
 
 They were taken back, and some other stragglers were recovered, but
-by degrees they were claimed, or lost again; and, in course of time,
+by degrees they were claimed, or lost again; and, in course of [[Time|time]],
 Dotheboys Hall and its last breaking-up began to be forgotten by the
 neighbours, or to be only spoken of as among the things that had been.

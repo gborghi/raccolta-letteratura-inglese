@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 53"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 53"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 While standing thus, absorbed in my gloomy reverie, a gentleman’s
 
-carriage came round the corner of the road. I did not look at it; and
+carriage came round the corner of the [[Road|road]]. I did not look at it; and
 
 had it rolled quietly by me, I should not have remembered the fact of
 
@@ -42,7 +42,7 @@ I did not raise my eyes, but I suppose mamma looked, for a clear
 
 melodious voice, whose tones thrilled through my nerves, exclaimed,
 
-“Oh, aunt! here’s Mr. Markham, Arthur’s friend! Stop, Richard!”
+“Oh, aunt! here’s Mr. Markham, [[arthur|Arthur]]’s friend! Stop, [[Richard]]!”
 
 
 
@@ -52,15 +52,15 @@ utterance of those few words—especially that tremulous, “Oh, aunt”—that
 
 it threw me almost off my guard. The carriage stopped immediately, and
 
-I looked up and met the eye of a pale, grave, elderly lady surveying me
+I looked up and met the eye of a pale, [[Grave|grave]], elderly lady surveying me
 
-from the open window. She bowed, and so did I, and then she withdrew
+from the open [[Window|window]]. She bowed, and so did I, and then she withdrew
 
-her head, while Arthur screamed to the footman to let him out; but
+her head, while [[arthur|Arthur]] screamed to the footman to let him out; but
 
 before that functionary could descend from his box a hand was silently
 
-put forth from the carriage window. I knew that hand, though a black
+put forth from the carriage [[Window|window]]. I knew that hand, though a black
 
 glove concealed its delicate whiteness and half its fair proportions,
 
@@ -100,11 +100,11 @@ or disappointment than surprise.
 
 
 
-“Can you doubt?”
+“Can you [[Doubt|doubt]]?”
 
 
 
-“Yes, yes! he _must_ enter,” cried Arthur, running round from the other
+“Yes, yes! he _must_ enter,” cried [[arthur|Arthur]], running round from the other
 
 door; and seizing my hand in both his, he shook it heartily.
 
@@ -114,7 +114,7 @@ door; and seizing my hand in both his, he shook it heartily.
 
 
 
-“Yes, full well, my little man, altered though you are,” replied I,
+“Yes, full [[Well|well]], my little man, altered though you are,” replied I,
 
 surveying the comparatively tall, slim young gentleman, with his
 
@@ -140,11 +140,11 @@ more I shall be as tall as you nearly.”
 
 
 
-“Arthur,” said his mother, “tell him to come in. Go on, Richard.”
+“[[arthur|Arthur]],” said his mother, “tell him to come in. Go on, [[Richard]].”
 
 
 
-There was a touch of sadness as well as coldness in her voice, but I
+There was a touch of sadness as [[Well|well]] as coldness in her voice, but I
 
 knew not to what to ascribe it. The carriage drove on and entered the
 
@@ -156,9 +156,9 @@ and looked round me, waiting to recover my composure, if possible—or,
 
 at any rate, to remember my new-formed resolutions and the principles
 
-on which they were founded; and it was not till Arthur had been for
+on which they were founded; and it was not till [[arthur|Arthur]] had been for
 
-some time gently pulling my coat, and repeating his invitations to
+some [[Time|time]] gently pulling my coat, and repeating his invitations to
 
 enter, that I at length consented to accompany him into the apartment
 
@@ -166,9 +166,9 @@ where the ladies awaited us.
 
 
 
-Helen eyed me as I entered with a kind of gentle, serious scrutiny, and
+[[Helen]] eyed me as I entered with a kind of gentle, serious scrutiny, and
 
-politely asked after Mrs. Markham and Rose. I respectfully answered her
+politely asked after Mrs. Markham and [[Rose]]. I respectfully answered her
 
 inquiries. Mrs. Maxwell begged me to be seated, observing it was rather
 
@@ -188,7 +188,7 @@ cold, but she supposed I had not travelled far that morning.
 
 
 
-“Here’s Rachel, sir,” said Arthur, the only truly happy one amongst us,
+“Here’s Rachel, sir,” said [[arthur|Arthur]], the only truly happy one amongst us,
 
 directing my attention to that worthy individual, who had just entered
 
@@ -204,9 +204,9 @@ character.
 
 
 
-When Helen was divested of her lugubrious bonnet and veil, her heavy
+When [[Helen]] was divested of her lugubrious bonnet and veil, her heavy
 
-winter cloak, &c., she looked so like herself that I knew not how to
+[[Winter|winter]] cloak, &c., she looked so like herself that I knew not how to
 
 bear it. I was particularly glad to see her beautiful black hair,
 
@@ -214,11 +214,11 @@ unstinted still, and unconcealed in its glossy luxuriance.
 
 
 
-“Mamma has left off her widow’s cap in honour of uncle’s marriage,”
+“Mamma has left off her widow’s cap in [[Honour|honour]] of uncle’s [[Marriage|marriage]],”
 
-observed Arthur, reading my looks with a child’s mingled simplicity and
+observed [[arthur|Arthur]], reading my looks with a [[Child|child]]’s mingled simplicity and
 
-quickness of observation. Mamma looked grave and Mrs. Maxwell shook her
+quickness of observation. Mamma looked [[Grave|grave]] and Mrs. Maxwell shook her
 
 head. “And aunt Maxwell is never going to leave off hers,” persisted
 
@@ -244,9 +244,9 @@ restraint almost intolerable, and I had the greatest difficulty in
 
 forcing myself to attend to her remarks and answer them with ordinary
 
-politeness; for I was sensible that Helen was standing within a few
+politeness; for I was sensible that [[Helen]] was standing within a few
 
-feet of me beside the fire. I dared not look at her, but I felt her eye
+feet of me beside the [[Fire|fire]]. I dared not look at her, but I felt her eye
 
 was upon me, and from one hasty, furtive glance, I thought her cheek
 
@@ -290,9 +290,9 @@ old friends forgotten or supplanted?”
 
 She dropped her voice so low in the last sentence that no one could
 
-have caught the concluding words but myself, and at the same time
+have caught the concluding words but myself, and at the same [[Time|time]]
 
-turned her eyes upon me with a dawning smile, most sweetly melancholy,
+turned her eyes upon me with a dawning smile, most sweetly [[Melancholy|melancholy]],
 
 and a look of timid though keen inquiry that made my cheeks tingle with
 
@@ -324,9 +324,9 @@ close friend, and was my own intimate acquaintance (for a few short
 
 months at least), and professed a great attachment to my boy—and when
 
-he passes the house, so many scores of miles from his home, he declines
+he passes the [[house]], so many scores of miles from his [[Home|home]], he declines
 
-to look in for fear of intruding!”
+to look in for [[Fear|fear]] of intruding!”
 
 
 
@@ -334,11 +334,11 @@ to look in for fear of intruding!”
 
 
 
-“Over-ceremonious rather,” said her niece—“over—well, it’s no matter.”
+“Over-ceremonious rather,” said her niece—“over—[[Well|well]], it’s no matter.”
 
 And turning from me, she seated herself in a chair beside the table,
 
-and pulling a book to her by the cover, began to turn over the leaves
+and pulling a book to her by the cover, began to turn over the [[Leaves|leaves]]
 
 in an energetic kind of abstraction.
 
@@ -358,11 +358,11 @@ had forgotten me long ago.”
 
 eyes from the book, but reddening as she spoke, and hastily turning
 
-over a dozen leaves at once.
+over a dozen [[Leaves|leaves]] at once.
 
 
 
-There was a pause, of which Arthur thought he might venture to avail
+There was a pause, of which [[arthur|Arthur]] thought he might venture to avail
 
 himself to introduce his handsome young setter, and show me how
 
@@ -370,19 +370,19 @@ wonderfully it was grown and improved, and to ask after the welfare of
 
 its father Sancho. Mrs. Maxwell then withdrew to take off her things.
 
-Helen immediately pushed the book from her, and after silently
+[[Helen]] immediately pushed the book from her, and after silently
 
 surveying her son, his friend, and his dog for a few moments, she
 
 dismissed the former from the room under pretence of wishing him to
 
-fetch his last new book to show me. The child obeyed with alacrity; but
+fetch his last new book to show me. The [[Child|child]] obeyed with alacrity; but
 
-I continued caressing the dog. The silence might have lasted till its
+I continued caressing the dog. The [[Silence|silence]] might have lasted till its
 
 master’s return, had it depended on me to break it; but, in half a
 
-minute or less, my hostess impatiently rose, and, taking her former
+minute or less, my hostess impatiently [[Rose|rose]], and, taking her former
 
 station on the rug between me and the chimney corner, earnestly
 
@@ -400,7 +400,7 @@ concealments.”
 
 
 
-“I am not changed, Helen—unfortunately I am as keen and passionate as
+“I am not changed, [[Helen]]—unfortunately I am as keen and passionate as
 
 ever—it is not I, it is circumstances that are changed.”
 
@@ -408,9 +408,9 @@ ever—it is not I, it is circumstances that are changed.”
 
 “What circumstances? _Do_ tell me!” Her cheek was blanched with the
 
-very anguish of anxiety—could it be with the fear that I had rashly
+very anguish of anxiety—could it be with the [[Fear|fear]] that I had rashly
 
-pledged my faith to another?
+pledged my [[Faith|faith]] to another?
 
 
 
@@ -424,11 +424,11 @@ expected when I came), but I did not know that this estate was yours
 
 until enlightened on the subject of your inheritance by the
 
-conversation of two fellow-passengers in the last stage of my journey;
+conversation of two fellow-passengers in the last stage of my [[Journey|journey]];
 
 and then I saw at once the folly of the hopes I had cherished, and the
 
-madness of retaining them a moment longer; and though I alighted at
+[[Madness|madness]] of retaining them a moment longer; and though I alighted at
 
 your gates, I determined not to enter within them; I lingered a few
 
@@ -464,15 +464,15 @@ cease to remember you.”
 
 There was a moment’s pause. Mrs. Huntingdon moved away, and stood in
 
-the recess of the window. Did she regard this as an intimation that
+the recess of the [[Window|window]]. Did she regard this as an intimation that
 
-modesty alone prevented me from asking her hand? and was she
+modesty [[Alone|alone]] prevented me from asking her hand? and was she
 
 considering how to repulse me with the smallest injury to my feelings?
 
 Before I could speak to relieve her from such a perplexity, she broke
 
-the silence herself by suddenly turning towards me and observing—
+the [[Silence|silence]] herself by suddenly turning towards me and observing—
 
 
 
@@ -492,7 +492,7 @@ writing; but this would not have deterred me for a moment, if I could
 
 have ventured to believe that you expected to hear from me, or even
 
-wasted a thought upon your unhappy friend; but your silence naturally
+wasted a thought upon your unhappy friend; but your [[Silence|silence]] naturally
 
 led me to conclude myself forgotten.”
 
@@ -502,7 +502,7 @@ led me to conclude myself forgotten.”
 
 
 
-“No, Helen—Mrs. Huntingdon,” said I, blushing at the implied
+“No, [[Helen]]—Mrs. Huntingdon,” said I, blushing at the implied
 
 imputation, “certainly not; but if you had sent me a message through
 
@@ -530,15 +530,15 @@ polite inquiries about my health.”
 
 the slightest encouragement or assistance to my too obstinate
 
-attachment.” Helen did not reply. “And he was perfectly right,” added
+attachment.” [[Helen]] did not reply. “And he was perfectly right,” added
 
-I. But she remained in silence, looking out upon the snowy lawn. “Oh, I
+I. But she remained in [[Silence|silence]], looking out upon the snowy lawn. “Oh, I
 
-will relieve her of my presence,” thought I; and immediately I rose and
+will relieve her of my presence,” thought I; and immediately I [[Rose|rose]] and
 
-advanced to take leave, with a most heroic resolution—but pride was at
+advanced to take leave, with a most heroic resolution—but [[Pride|pride]] was at
 
-the bottom of it, or it could not have carried me through.
+the [[Bottom|bottom]] of it, or it could not have carried me through.
 
 
 
@@ -552,13 +552,13 @@ immediately letting it go.
 
 
 
-“Wait till Arthur comes, at least.”
+“Wait till [[arthur|Arthur]] comes, at least.”
 
 
 
 Only too glad to obey, I stood and leant against the opposite side of
 
-the window.
+the [[Window|window]].
 
 
 
@@ -584,7 +584,7 @@ had when last we met?”
 
 “It was wrong to talk of it _then_, Gilbert; it would _not_ now—unless
 
-to do so would be to violate the truth.”
+to do so would be to violate the [[Truth|truth]].”
 
 
 
@@ -592,33 +592,33 @@ I was too much agitated to speak; but, without waiting for an answer,
 
 she turned away her glistening eye and crimson cheek, and threw up the
 
-window and looked out, whether to calm her own, excited feelings, or to
+[[Window|window]] and looked out, whether to calm her own, excited feelings, or to
 
 relieve her embarrassment, or only to pluck that beautiful half-blown
 
-Christmas-rose that grew upon the little shrub without, just peeping
+Christmas-[[Rose|rose]] that grew upon the little shrub without, just peeping
 
-from the snow that had hitherto, no doubt, defended it from the frost,
+from the [[Snow|snow]] that had hitherto, no [[Doubt|doubt]], defended it from the [[Frost|frost]],
 
 and was now melting away in the sun. Pluck it, however, she did, and
 
-having gently dashed the glittering powder from its leaves, approached
+having gently dashed the glittering powder from its [[Leaves|leaves]], approached
 
 it to her lips and said:
 
 
 
-“This rose is not so fragrant as a summer flower, but it has stood
+“This [[Rose|rose]] is not so fragrant as a [[Summer|summer]] flower, but it has stood
 
-through hardships none of _them_ could bear: the cold rain of winter
+through hardships none of _them_ could bear: the cold rain of [[Winter|winter]]
 
 has sufficed to nourish it, and its faint sun to warm it; the bleak
 
-winds have not blanched it, or broken its stem, and the keen frost has
+winds have not blanched it, or broken its stem, and the keen [[Frost|frost]] has
 
 not blighted it. Look, Gilbert, it is still fresh and blooming as a
 
-flower can be, with the cold snow even now on its petals.—Will you have
+flower can be, with the cold [[Snow|snow]] even now on its petals.—Will you have
 
 it?”
 
@@ -626,7 +626,7 @@ it?”
 
 I held out my hand: I dared not speak lest my emotion should overmaster
 
-me. She laid the rose across my palm, but I scarcely closed my fingers
+me. She laid the [[Rose|rose]] across my palm, but I scarcely closed my fingers
 
 upon it, so deeply was I absorbed in thinking what might be the meaning
 
@@ -636,13 +636,13 @@ to give way to my feelings or restrain them still. Misconstruing this
 
 hesitation into indifference—or reluctance even—to accept her gift,
 
-Helen suddenly snatched it from my hand, threw it out on to the snow,
+[[Helen]] suddenly snatched it from my hand, threw it out on to the [[Snow|snow]],
 
-shut down the window with an emphasis, and withdrew to the fire.
+shut down the [[Window|window]] with an emphasis, and withdrew to the [[Fire|fire]].
 
 
 
-“Helen, what means this?” I cried, electrified at this startling change
+“[[Helen]], what means this?” I cried, electrified at this startling change
 
 in her demeanour.
 
@@ -658,7 +658,7 @@ mistake, the only remedy I could think of was to take it away.”
 
 “You misunderstood me cruelly,” I replied, and in a minute I had opened
 
-the window again, leaped out, picked up the flower, brought it in, and
+the [[Window|window]] again, leaped out, picked up the flower, brought it in, and
 
 presented it to her, imploring her to give it me again, and I would
 
@@ -700,25 +700,25 @@ very indifferent.”
 
 
 
-“I am neither, Helen—Mrs. Huntingdon. If you could see my heart—”
+“I am neither, [[Helen]]—Mrs. Huntingdon. If you could see my heart—”
 
 
 
 “You _must_ be one,—if not both. And why Mrs. Huntingdon?—why not
 
-Helen, as before?”
+[[Helen]], as before?”
 
 
 
-“Helen, then—dear Helen!” I murmured. I was in an agony of mingled
+“[[Helen]], then—dear [[Helen]]!” I murmured. I was in an agony of mingled
 
-love, hope, delight, uncertainty, and suspense.
+[[Love|love]], [[Hope|hope]], delight, uncertainty, and suspense.
 
 
 
-“The rose I gave you was an emblem of my heart,” said she; “would you
+“The [[Rose|rose]] I gave you was an emblem of my heart,” said she; “would you
 
-take it away and leave me here alone?”
+take it away and leave me here [[Alone|alone]]?”
 
 
 
@@ -760,7 +760,7 @@ dared not believe in so much joy, and yet restrained myself to say,—
 
 bitterly disappoint me. If you have not sufficient confidence in my
 
-affection to believe this, let me alone.”
+affection to believe this, let me [[Alone|alone]].”
 
 
 
@@ -768,7 +768,7 @@ affection to believe this, let me alone.”
 
 the hand I still retained, and throwing my left arm around her, “you
 
-never shall repent, if it depend on me alone. But have you thought of
+never shall repent, if it depend on me [[Alone|alone]]. But have you thought of
 
 your aunt?” I trembled for the answer, and clasped her closer to my
 
@@ -778,11 +778,11 @@ heart in the instinctive dread of losing my new-found treasure.
 
 “My aunt must not know of it yet,” said she. “She would think it a
 
-rash, wild step, because she could not imagine how well I know you; but
+rash, wild step, because she could not imagine how [[Well|well]] I know you; but
 
 she must know you herself, and learn to like you. You must leave us
 
-now, after lunch, and come again in spring, and make a longer stay, and
+now, after lunch, and come again in [[spring]], and make a longer stay, and
 
 cultivate her acquaintance, and I know you will like each other.”
 
@@ -802,7 +802,7 @@ embrace, but still fondly clasping my hand.
 
 
 
-“Another year! Oh, Helen, I could not wait so long!”
+“Another year! Oh, [[Helen]], I could not wait so long!”
 
 
 
@@ -818,11 +818,11 @@ embrace, but still fondly clasping my hand.
 
 be always with you, and sometimes you shall see me with your bodily
 
-eye. I will not be such a hypocrite as to pretend that I desire to wait
+eye. I will not be such a hypocrite as to pretend that I [[Desire|desire]] to wait
 
-so long myself, but as my marriage is to please myself, alone, I ought
+so long myself, but as my [[Marriage|marriage]] is to please myself, [[Alone|alone]], I ought
 
-to consult my friends about the time of it.”
+to consult my friends about the [[Time|time]] of it.”
 
 
 
@@ -842,7 +842,7 @@ smile of ineffable tenderness.
 
 
 
-“Can I be otherwise, with your love? And you _do_ love me, Helen?” said
+“Can I be otherwise, with your [[Love|love]]? And you _do_ [[Love|love]] me, [[Helen]]?” said
 
 I, not doubting the fact, but wishing to hear it confirmed by her own
 
@@ -852,13 +852,13 @@ acknowledgment.
 
 “If you loved as _I_ do,” she earnestly replied, “you would not have so
 
-nearly lost me—these scruples of false delicacy and pride would never
+nearly lost me—these scruples of false delicacy and [[Pride|pride]] would never
 
 thus have troubled you—you would have seen that the greatest worldly
 
-distinctions and discrepancies of rank, birth, and fortune are as dust
+distinctions and discrepancies of rank, birth, and fortune are as [[Dust|dust]]
 
-in the balance compared with the unity of accordant thoughts and
+in the balance compared with the [[unity]] of accordant thoughts and
 
 feelings, and truly loving, sympathising hearts and souls.”
 
@@ -866,7 +866,7 @@ feelings, and truly loving, sympathising hearts and souls.”
 
 “But this is too much happiness,” said I, embracing her again; “I have
 
-not deserved it, Helen—I dare not believe in such felicity: and the
+not deserved it, [[Helen]]—I dare not believe in such felicity: and the
 
 longer I have to wait, the greater will be my dread that something will
 
@@ -874,39 +874,39 @@ intervene to snatch you from me—and think, a thousand things may happen
 
 in a year!—I shall be in one long fever of restless terror and
 
-impatience all the time. And besides, winter is such a dreary season.”
+impatience all the [[Time|time]]. And besides, [[Winter|winter]] is such a dreary season.”
 
 
 
 “I thought so too,” replied she gravely: “I would not be married in
 
-winter—in December, at least,” she added, with a shudder—for in that
+[[Winter|winter]]—in December, at least,” she added, with a shudder—for in that
 
-month had occurred both the ill-starred marriage that had bound her to
+month had occurred both the ill-starred [[Marriage|marriage]] that had bound her to
 
-her former husband, and the terrible death that released her—“and
+her former husband, and the terrible [[Death|death]] that released her—“and
 
-therefore I said another year, in spring.”
-
-
-
-“_Next_ spring?”
+therefore I said another year, in [[spring]].”
 
 
 
-“No, no—next autumn, perhaps.”
+“_Next_ [[spring]]?”
 
 
 
-“Summer, then?”
+“No, no—next [[Autumn|autumn]], perhaps.”
 
 
 
-“Well, the close of summer. There now! be satisfied.”
+“[[Summer]], then?”
 
 
 
-While she was speaking Arthur re-entered the room—good boy for keeping
+“[[Well]], the close of [[Summer|summer]]. There now! be satisfied.”
+
+
+
+While she was speaking [[arthur|Arthur]] re-entered the room—good boy for keeping
 
 out so long.
 
@@ -918,13 +918,13 @@ look for it” (there was a conscious something in mamma’s smile that
 
 seemed to say, “No, dear, I knew you could not”), “but Rachel got it
 
-for me at last. Look, Mr. Markham, a natural history, with all kinds of
+for me at last. Look, Mr. Markham, a natural [[history]], with all kinds of
 
-birds and beasts in it, and the reading as nice as the pictures!”
+[[Birds|birds]] and beasts in it, and the reading as nice as the pictures!”
 
 
 
-In great good humour I sat down to examine the book, and drew the
+In great good [[Humour|humour]] I sat down to examine the book, and drew the
 
 little fellow between my knees. Had he come a minute before I should
 
@@ -932,13 +932,13 @@ have received him less graciously, but now I affectionately stroked his
 
 curling locks, and even kissed his ivory forehead: he was my own
 
-Helen’s son, and therefore mine; and as such I have ever since regarded
+[[Helen]]’s son, and therefore mine; and as such I have ever since regarded
 
-him. That pretty child is now a fine young man: he has realised his
+him. That pretty [[Child|child]] is now a fine young man: he has realised his
 
 mother’s brightest expectations, and is at present residing in
 
-Grassdale Manor with his young wife—the merry little Helen Hattersley
+Grassdale Manor with his young wife—the merry little [[Helen]] Hattersley
 
 of yore.
 
@@ -950,7 +950,7 @@ invite me into the other room to lunch. That lady’s cool, distant
 
 manners rather chilled me at first; but I did my best to propitiate
 
-her, and not entirely without success, I think, even in that first
+her, and not entirely without [[success]], I think, even in that first
 
 short visit; for when I talked cheerfully to her, she gradually became
 
@@ -962,15 +962,15 @@ adieu, hoping ere long to have the pleasure of seeing me again.
 
 “But you must not go till you have seen the conservatory, my aunt’s
 
-winter garden,” said Helen, as I advanced to take leave of her, with as
+[[Winter|winter]] [[Garden|garden]],” said [[Helen]], as I advanced to take leave of her, with as
 
-much philosophy and self-command as I could summon to my aid.
+much [[philosophy]] and [[Self|self]]-command as I could summon to my aid.
 
 
 
 I gladly availed myself of such a respite, and followed her into a
 
-large and beautiful conservatory, plentifully furnished with flowers,
+large and beautiful conservatory, plentifully furnished with [[Flowers|flowers]],
 
 considering the season—but, of course, I had little attention to spare
 
@@ -980,23 +980,23 @@ companion had brought me there:—
 
 
 
-“My aunt is particularly fond of flowers,” she observed, “and she is
+“My aunt is particularly fond of [[Flowers|flowers]],” she observed, “and she is
 
 fond of Staningley too: I brought you here to offer a petition in her
 
-behalf, that this may be her home as long as she lives, and—if it be
+behalf, that this may be her [[Home|home]] as long as she lives, and—if it be
 
-not our home likewise—that I may often see her and be with her; for I
+not our [[Home|home]] likewise—that I may often see her and be with her; for I
 
-fear she will be sorry to lose me; and though she leads a retired and
+[[Fear|fear]] she will be sorry to lose me; and though she leads a retired and
 
 contemplative life, she is apt to get low-spirited if left too much
 
-alone.”
+[[Alone|alone]].”
 
 
 
-“By all means, dearest Helen!—do what you will with your own. I should
+“By all means, dearest [[Helen]]!—do what you will with your own. I should
 
 not dream of wishing your aunt to leave the place under any
 
@@ -1006,7 +1006,7 @@ may determine, and you shall see her as often as you like. I know she
 
 must be pained to part with you, and I am willing to make any
 
-reparation in my power. I love her for your sake, and her happiness
+reparation in my power. I [[Love|love]] her for your sake, and her happiness
 
 shall be as dear to me as that of my own mother.”
 
@@ -1014,9 +1014,9 @@ shall be as dear to me as that of my own mother.”
 
 “Thank you, darling! you shall have a kiss for that. Good-by. There
 
-now—there, Gilbert—let me go—here’s Arthur; don’t astonish his
+now—there, Gilbert—let me go—here’s [[arthur|Arthur]]; don’t astonish his
 
-infantile brain with your madness.”
+infantile brain with your [[Madness|madness]].”
 
 
 
@@ -1026,15 +1026,15 @@ infantile brain with your madness.”
 
 
 
-But it is time to bring my narrative to a close. Any one but you would
+But it is [[Time|time]] to bring my narrative to a close. Any one but you would
 
 say I had made it too long already. But for _your_ satisfaction I will
 
 add a few words more; because I know you will have a fellow-feeling for
 
-the old lady, and will wish to know the last of her history. I did come
+the old lady, and will wish to know the last of her [[history]]. I did come
 
-again in spring, and, agreeably to Helen’s injunctions, did my best to
+again in [[spring]], and, agreeably [[To Helen|to Helen]]’s injunctions, did my best to
 
 cultivate her acquaintance. She received me very kindly, having been,
 
@@ -1042,17 +1042,17 @@ doubtless, already prepared to think highly of my character by her
 
 niece’s too favourable report. I turned my best side out, of course,
 
-and we got along marvellously well together. When my ambitious
+and we got along marvellously [[Well|well]] together. When my ambitious
 
 intentions were made known to her, she took it more sensibly than I had
 
-ventured to hope. Her only remark on the subject, in my hearing, was—
+ventured to [[Hope|hope]]. Her only remark on the subject, in my hearing, was—
 
 
 
 “And so, Mr. Markham, you are going to rob me of my niece, I
 
-understand. Well! I hope God will prosper your union, and make my dear
+understand. [[Well]]! I [[Hope|hope]] God will prosper your [[Union|union]], and make my dear
 
 girl happy at last. Could she have been contented to remain single, I
 
@@ -1074,9 +1074,9 @@ that she was not mistaken in her favourable judgment.
 
 “I have, however, one request to offer,” continued she. “It seems I am
 
-still to look on Staningley as my home: I wish you to make it yours
+still to look on Staningley as my [[Home|home]]: I wish you to make it yours
 
-likewise, for Helen is attached to the place and to me—as I am to her.
+likewise, for [[Helen]] is attached to the place and to me—as I am to her.
 
 There are painful associations connected with Grassdale, which she
 
@@ -1092,23 +1092,23 @@ then.”
 
 Of course I most readily consented to this; and we lived in the
 
-greatest harmony with our dear aunt until the day of her death, which
+greatest harmony with our dear aunt until the day of her [[Death|death]], which
 
-melancholy event took place a few years after—melancholy, not to
+[[Melancholy|melancholy]] event took place a few years after—[[Melancholy|melancholy]], not to
 
 herself (for it came quietly upon her, and she was glad to reach her
 
-journey’s end), but only to the few loving friends and grateful
+[[Journey|journey]]’s end), but only to the few loving friends and grateful
 
 dependents she left behind.
 
 
 
-To return, however, to my own affairs: I was married in summer, on a
+To return, however, to my own affairs: I was married in [[Summer|summer]], on a
 
 glorious August morning. It took the whole eight months, and all
 
-Helen’s kindness and goodness to boot, to overcome my mother’s
+[[Helen]]’s kindness and goodness to boot, to overcome my mother’s
 
 prejudices against my bride-elect, and to reconcile her to the idea of
 
@@ -1120,7 +1120,7 @@ his own superior merits and endowments. I bequeathed the farm to
 
 Fergus, with better hopes of its prosperity than I should have had a
 
-year ago under similar circumstances; for he had lately fallen in love
+year ago under similar circumstances; for he had lately fallen in [[Love|love]]
 
 with the Vicar of L——’s eldest daughter—a lady whose superiority had
 
@@ -1130,21 +1130,21 @@ exertions, not only to gain her affection and esteem, and to obtain a
 
 fortune sufficient to aspire to her hand, but to render himself worthy
 
-of her, in his own eyes, as well as in those of her parents; and in the
+of her, in his own eyes, as [[Well|well]] as in those of her parents; and in the
 
 end he was successful, as you already know. As for myself, I need not
 
-tell you how happily my Helen and I have lived together, and how
+tell you how happily my [[Helen]] and I have lived together, and how
 
 blessed we still are in each other’s society, and in the promising
 
 young scions that are growing up about us. We are just now looking
 
-forward to the advent of you and Rose, for the time of your annual
+forward to the advent of you and [[Rose]], for the [[Time|time]] of your annual
 
 visit draws nigh, when you must leave your dusty, smoky, noisy,
 
-toiling, striving city for a season of invigorating relaxation and
+toiling, striving [[City|city]] for a season of invigorating relaxation and
 
 social retirement with us.
 
@@ -1152,7 +1152,7 @@ social retirement with us.
 
 Till then, farewell,
 
-GILBERT MARKHAM.
+[[Gilbert Markham|GILBERT MARKHAM]].
 
 
 
@@ -1168,7 +1168,7 @@ THE END
 
 Printed by SPOTTISWOODE, BALLENTYNE & CO. LTD.
 
-Colchester, London & Eton, England.
+Colchester, [[London]] & Eton, England.
 
 
 
@@ -1188,6 +1188,6 @@ Footnotes:
 
 
 
- [2] This Preface is now printed here for the first time in a collected
+ [2] This Preface is now printed here for the first [[Time|time]] in a collected
 
  edition of the works of the Brontë sisters.

@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-The next morning, being Sunday, breakfast was laid in the front parlour
-at ten o’clock. Nine was the usual time, but the family always
+The next morning, being [[Sunday]], breakfast was laid in the front parlour
+at ten o’[[Clock|clock]]. Nine was the usual [[Time|time]], but the family always
 breakfasted an hour later on sabbath. Tibbs enrobed himself in his
-Sunday costume—a black coat, and exceedingly short, thin trousers; with
+[[Sunday]] costume—a black coat, and exceedingly short, thin trousers; with
 a very large white waistcoat, white stockings and cravat, and Blucher
 boots—and mounted to the parlour aforesaid. Nobody had come down, and
 he amused himself by drinking the contents of the milkpot with a
@@ -25,7 +25,7 @@ teaspoon.
 
 A pair of slippers were heard descending the stairs. Tibbs flew to a
 chair; and a stern-looking man, of about fifty, with very little hair
-on his head, and a Sunday paper in his hand, entered the room.
+on his head, and a [[Sunday]] paper in his hand, entered the room.
 
 ‘Good morning, Mr. Evenson,’ said Tibbs, very humbly, with something
 between a nod and a bow.
@@ -37,7 +37,7 @@ himself down, and began to read his paper without saying another word.
 just for the sake of saying something.
 
 ‘I should think he was,’ replied the stern gentleman. ‘He was whistling
-“The Light Guitar,” in the next room to mine, at five o’clock this
+“The Light Guitar,” in the next room to mine, at five o’[[Clock|clock]] this
 morning.’
 
 ‘He’s very fond of whistling,’ said Tibbs, with a slight smirk.
@@ -55,18 +55,18 @@ the peerage by heart, and, could tell you, off-hand, where any
 illustrious personage lived. He had a good set of teeth, and a capital
 tailor. Mr. Evenson looked on all these qualifications with profound
 contempt; and the consequence was that the two were always disputing,
-much to the edification of the rest of the house. It should be added,
+much to the edification of the rest of the [[house]]. It should be added,
 that, in addition to his partiality for whistling, Mr. Wisbottle had a
 great idea of his singing powers. There were two other boarders,
 besides the gentleman in the back drawing-room—Mr. Alfred Tomkins and
-Mr. Frederick O’Bleary. Mr. Tomkins was a clerk in a wine-house; he was
+Mr. Frederick O’Bleary. Mr. Tomkins was a clerk in a wine-[[house]]; he was
 a connoisseur in paintings, and had a wonderful eye for the
 picturesque. Mr. O’Bleary was an Irishman, recently imported; he was in
 a perfectly wild state; and had come over to England to be an
-apothecary, a clerk in a government office, an actor, a reporter, or
+apothecary, a clerk in a [[government]] office, an actor, a reporter, or
 anything else that turned up—he was not particular. He was on familiar
 terms with two small Irish members, and got franks for everybody in the
-house. He felt convinced that his intrinsic merits must procure him a
+[[house]]. He felt convinced that his intrinsic merits must procure him a
 high destiny. He wore shepherd’s-plaid inexpressibles, and used to look
 under all the ladies’ bonnets as he walked along the streets. His
 manners and appearance reminded one of Orson.
@@ -79,7 +79,7 @@ piacer_.’
 ever said to anybody.
 
 ‘How are you, Tibbs?’ condescendingly replied the amateur; and he
-walked to the window, and whistled louder than ever.
+walked to the [[Window|window]], and whistled louder than ever.
 
 ‘Pretty air, that!’ said Evenson, with a snarl, and without taking his
 eyes off the paper.
@@ -92,9 +92,9 @@ louder?’ inquired the mastiff.
 ‘No; I don’t think it would,’ rejoined the unconscious Wisbottle.
 
 ‘I’ll tell you what, Wisbottle,’ said Evenson, who had been bottling up
-his anger for some hours—‘the next time you feel disposed to whistle
-“The Light Guitar” at five o’clock in the morning, I’ll trouble you to
-whistle it with your head out o’ window. If you don’t, I’ll learn the
+his anger for some hours—‘the next [[Time|time]] you feel disposed to whistle
+“The Light Guitar” at five o’[[Clock|clock]] in the morning, I’ll trouble you to
+whistle it with your head out o’ [[Window|window]]. If you don’t, I’ll learn the
 triangle—I will, by—’
 
 The entrance of Mrs. Tibbs (with the keys in a little basket)
@@ -102,13 +102,13 @@ interrupted the threat, and prevented its conclusion.
 
 Mrs. Tibbs apologised for being down rather late; the bell was rung;
 James brought up the urn, and received an unlimited order for dry toast
-and bacon. Tibbs sat down at the bottom of the table, and began eating
-water-cresses like a Nebuchadnezzar. Mr. O’Bleary appeared, and Mr.
+and bacon. Tibbs sat down at the [[Bottom|bottom]] of the table, and began eating
+[[Water|water]]-cresses like a Nebuchadnezzar. Mr. O’Bleary appeared, and Mr.
 Alfred Tomkins. The compliments of the morning were exchanged, and the
 tea was made.
 
 ‘God bless me!’ exclaimed Tomkins, who had been looking out at the
-window. ‘Here—Wisbottle—pray come here—make haste.’
+[[Window|window]]. ‘Here—Wisbottle—pray come here—make haste.’
 
 Mr. Wisbottle started from the table, and every one looked up.
 
@@ -127,7 +127,7 @@ beauties which no one else could discover—he certainly deserved it.
 which has a much better effect,’ said the patriotic O’Bleary, who never
 allowed Ireland to be outdone on any point.
 
-The assertion was received with obvious incredulity, for Mr. Tomkins
+The assertion was received with obvious [[Incredulity|incredulity]], for Mr. Tomkins
 declared that no other chimney-pot in the United Kingdom, broken or
 unbroken, could be so beautiful as the one at No. 48.
 
@@ -138,8 +138,8 @@ splendid assortment of rings, with enormous stones. A general rush was
 made for a chair, and a regular introduction took place. Mr. John
 Evenson made a slight inclination of the head; Mr. Frederick O’Bleary,
 Mr. Alfred Tomkins, and Mr. Wisbottle, bowed like the mandarins in a
-grocer’s shop; Tibbs rubbed hands, and went round in circles. He was
-observed to close one eye, and to assume a clock-work sort of
+[[grocer]]’s shop; Tibbs rubbed hands, and went round in circles. He was
+observed to close one eye, and to assume a [[Clock|clock]]-work sort of
 expression with the other; this has been considered as a wink, and it
 has been reported that Agnes was its object. We repel the calumny, and
 challenge contradiction.

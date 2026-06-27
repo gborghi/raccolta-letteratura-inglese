@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 51 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 51 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-and our love, would be for ever cherished in her heart. I marched up to
+and our [[Love|love]], would be for ever cherished in her heart. I marched up to
 
 the door, determined, if I saw the master, to question him boldly
 
 concerning his sister, to wait and hesitate no longer, but cast false
 
-delicacy and stupid pride behind my back, and know my fate at once.
+delicacy and stupid [[Pride|pride]] behind my back, and know my fate at once.
 
 
 
-“Is Mr. Lawrence at home?” I eagerly asked of the servant that opened
+“Is Mr. Lawrence at [[Home|home]]?” I eagerly asked of the servant that opened
 
 the door.
 
@@ -56,21 +56,21 @@ But what was to be done now? Could it be possible that she had left me
 
 for _that_ man? I could not believe it. Me she might forsake, but _not_
 
-to give herself to him! Well, I would know the truth; to no concerns of
+to give herself to him! [[Well]], I would know the [[Truth|truth]]; to no concerns of
 
-daily life could I attend while this tempest of doubt and dread, of
+daily life could I attend while this tempest of [[Doubt|doubt]] and dread, of
 
-jealousy and rage, distracted me. I would take the morning coach from
+[[Jealousy|jealousy]] and rage, distracted me. I would take the morning coach from
 
 L—— (the evening one would be already gone), and fly to Grassdale—I
 
-_must_ be there before the marriage. And why? Because a thought struck
+_must_ be there before the [[Marriage|marriage]]. And why? Because a thought struck
 
 me that _perhaps_ I might prevent it—that if I did not, she and I might
 
 both lament it to the latest moment of our lives. It struck me that
 
-someone might have belied me to her: perhaps her brother; yes, no doubt
+someone might have belied me to her: perhaps her brother; yes, no [[Doubt|doubt]]
 
 her brother had persuaded her that I was false and faithless, and
 
@@ -78,19 +78,19 @@ taking advantage of her natural indignation, and perhaps her desponding
 
 carelessness about her future life, had urged her, artfully, cruelly,
 
-on to this other marriage, in order to secure her from me. If this
+on to this other [[Marriage|marriage]], in order to secure her from me. If this
 
 _was_ the case, and if she should only discover her mistake when too
 
 late to repair it—to what a life of misery and vain regret might she be
 
-doomed as well as me; and what remorse for me to think my foolish
+doomed as [[Well|well]] as me; and what remorse for me to think my foolish
 
 scruples had induced it all! Oh, I _must_ see her—she must know my
 
-truth even if I told it at the church door! I might pass for a madman
+[[Truth|truth]] even if I told it at the church door! I might pass for a madman
 
-or an impertinent fool—even she might be offended at such an
+or an impertinent [[Fool|fool]]—even she might be offended at such an
 
 interruption, or at least might tell me it was now too late. But if I
 
@@ -100,7 +100,7 @@ thought!
 
 
 
-Winged by this hope, and goaded by these fears, I hurried homewards to
+Winged by this [[Hope|hope]], and goaded by these fears, I hurried homewards to
 
 prepare for my departure on the morrow. I told my mother that urgent
 
@@ -118,17 +118,17 @@ disastrous mystery.
 
 
 
-That night there came a heavy fall of snow, which so retarded the
+That [[Night|night]] there came a heavy fall of [[Snow|snow]], which so retarded the
 
 progress of the coaches on the following day that I was almost driven
 
-to distraction. I travelled all night, of course, for this was
+to distraction. I travelled all [[Night|night]], of course, for this was
 
-Wednesday: to-morrow morning, doubtless, the marriage would take place.
+Wednesday: to-morrow morning, doubtless, the [[Marriage|marriage]] would take place.
 
-But the night was long and dark: the snow heavily clogged the wheels
+But the [[Night|night]] was long and dark: the [[Snow|snow]] heavily clogged the wheels
 
-and balled the horses’ feet; the animals were consumedly lazy; the
+and balled the horses’ feet; the [[Animals|animals]] were consumedly lazy; the
 
 coachman most execrably cautious; the passengers confoundedly apathetic
 
@@ -140,47 +140,47 @@ merely stared and grinned at my impatience: one fellow even ventured to
 
 rally me upon it—but I silenced him with a look that quelled him for
 
-the rest of the journey; and when, at the last stage, I would have
+the rest of the [[Journey|journey]]; and when, at the last stage, I would have
 
 taken the reins into my own hand, they all with one accord opposed it.
 
 
 
-It was broad daylight when we entered M—— and drew up at the “Rose and
+It was broad daylight when we entered M—— and drew up at the “[[Rose]] and
 
-Crown.” I alighted and called aloud for a post-chaise to Grassdale.
+[[Crown]].” I alighted and called aloud for a post-chaise to Grassdale.
 
 There was none to be had: the only one in the town was under repair. “A
 
 gig, then—a fly—car—anything—only be quick!” There was a gig, but not a
 
-horse to spare. I sent into the town to seek one: but they were such an
+[[Horse|horse]] to spare. I sent into the town to seek one: but they were such an
 
-intolerable time about it that I could wait no longer—I thought my own
+intolerable [[Time|time]] about it that I could wait no longer—I thought my own
 
 feet could carry me sooner; and bidding them send the conveyance after
 
 me, if it were ready within an hour, I set off as fast as I could walk.
 
-The distance was little more than six miles, but the road was strange,
+The distance was little more than six miles, but the [[Road|road]] was strange,
 
 and I had to keep stopping to inquire my way; hallooing to carters and
 
 clodhoppers, and frequently invading the cottages, for there were few
 
-abroad that winter’s morning; sometimes knocking up the lazy people
+abroad that [[Winter|winter]]’s morning; sometimes knocking up the lazy people
 
 from their beds, for where so little work was to be done, perhaps so
 
-little food and fire to be had, they cared not to curtail their
+little food and [[Fire|fire]] to be had, they cared not to curtail their
 
-slumbers. I had no time to think of _them_, however; aching with
+slumbers. I had no [[Time|time]] to think of _them_, however; aching with
 
 weariness and desperation, I hurried on. The gig did not overtake me:
 
-and it was well I had not waited for it; vexatious rather, that I had
+and it was [[Well|well]] I had not waited for it; vexatious rather, that I had
 
-been fool enough to wait so long.
+been [[Fool|fool]] enough to wait so long.
 
 
 
@@ -200,9 +200,9 @@ the ceremony long commenced? They only gaped and stared. In my
 
 desperation, I pushed past them, and was about to enter the churchyard
 
-gate, when a group of ragged urchins, that had been hanging like bees
+gate, when a group of ragged urchins, that had been hanging like [[Bees|bees]]
 
-to the window, suddenly dropped off and made a rush for the porch,
+to the [[Window|window]], suddenly dropped off and made a rush for the porch,
 
 vociferating in the uncouth dialect of their country something which
 
@@ -214,7 +214,7 @@ If Eliza Millward had seen me then she might indeed have been
 
 delighted. I grasped the gate-post for support, and stood intently
 
-gazing towards the door to take my last look on my soul’s delight, my
+gazing towards the door to take my last look on my [[Soul|soul]]’s delight, my
 
 first on that detested mortal who had torn her from my heart, and
 

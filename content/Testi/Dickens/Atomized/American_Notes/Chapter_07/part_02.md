@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-We must cross Broadway again; gaining some refreshment from the heat, in
+We must [[Cross|cross]] Broadway again; gaining some refreshment from the heat, in
 the sight of the great blocks of clean ice which are being carried into
-shops and bar-rooms; and the pine-apples and water-melons profusely
+shops and bar-rooms; and the pine-apples and [[Water|water]]-melons profusely
 displayed for sale.  Fine streets of spacious houses here, you see!—Wall
 Street has furnished and dismantled many of them very often—and here a
-deep green leafy square.  Be sure that is a hospitable house with inmates
+deep green leafy square.  Be sure that is a hospitable [[house]] with inmates
 to be affectionately remembered always, where they have the open door and
-pretty show of plants within, and where the child with laughing eyes is
-peeping out of window at the little dog below.  You wonder what may be
+pretty show of plants within, and where the [[Child|child]] with laughing eyes is
+peeping out of [[Window|window]] at the little dog below.  You [[Wonder|wonder]] what may be
 the use of this tall flagstaff in the by-street, with something like
 Liberty’s head-dress on its top: so do I.  But there is a passion for
 tall flagstaffs hereabout, and you may see its twin brother in five
@@ -35,14 +35,14 @@ people and a great wooden ark, with ease.  The stores are poorer here;
 the passengers less gay.  Clothes ready-made, and meat ready-cooked, are
 to be bought in these parts; and the lively whirl of carriages is
 exchanged for the deep rumble of carts and waggons.  These signs which
-are so plentiful, in shape like river buoys, or small balloons, hoisted
+are so plentiful, in shape like [[River|river]] buoys, or small balloons, hoisted
 by cords to poles, and dangling there, announce, as you may see by
 looking up, ‘OYSTERS IN EVERY STYLE.’  They tempt the hungry most at
-night, for then dull candles glimmering inside, illuminate these dainty
-words, and make the mouths of idlers water, as they read and linger.
+[[Night|night]], for then dull candles glimmering inside, illuminate these dainty
+words, and make the mouths of idlers [[Water|water]], as they read and linger.
 
 What is this dismal-fronted pile of bastard Egyptian, like an enchanter’s
-palace in a melodrama!—a famous prison, called The Tombs.  Shall we go
+palace in a [[Melodrama|melodrama]]!—a famous [[Prison|prison]], called The Tombs.  Shall we go
 in?
 
 So.  A long, narrow, lofty building, stove-heated as usual, with four
@@ -66,16 +66,16 @@ in his way, civil and obliging.
 
 ‘Are they all full?’
 
-‘Well, they’re pretty nigh full, and that’s a fact, and no two ways about
+‘[[Well]], they’re pretty nigh full, and that’s a fact, and no two ways about
 it.’
 
-‘Those at the bottom are unwholesome, surely?’
+‘Those at the [[Bottom|bottom]] are unwholesome, surely?’
 
-‘Why, we _do_ only put coloured people in ’em.  That’s the truth.’
+‘Why, we _do_ only put coloured people in ’em.  That’s the [[Truth|truth]].’
 
 ‘When do the prisoners take exercise?’
 
-‘Well, they do without it pretty much.’
+‘[[Well]], they do without it pretty much.’
 
 ‘Do they never walk in the yard?’
 
@@ -83,18 +83,18 @@ it.’
 
 ‘Sometimes, I suppose?’
 
-‘Well, it’s rare they do.  They keep pretty bright without it.’
+‘[[Well]], it’s rare they do.  They keep pretty bright without it.’
 
 ‘But suppose a man were here for a twelvemonth.  I know this is only a
-prison for criminals who are charged with grave offences, while they are
+[[Prison|prison]] for criminals who are charged with [[Grave|grave]] offences, while they are
 awaiting their trial, or under remand, but the law here affords criminals
 many means of delay.  What with motions for new trials, and in arrest of
 judgment, and what not, a prisoner might be here for twelve months, I
 take it, might he not?’
 
-‘Well, I guess he might.’
+‘[[Well]], I guess he might.’
 
-‘Do you mean to say that in all that time he would never come out at that
+‘Do you mean to say that in all that [[Time|time]] he would never come out at that
 little iron door, for exercise?’
 
 ‘He might walk some, perhaps—not much.’
@@ -124,7 +124,7 @@ probably be hanged.
 
 ‘Next month.’
 
-‘In England, if a man be under sentence of death, even he has air and
+‘In England, if a man be under sentence of [[Death|death]], even he has air and
 exercise at certain periods of the day.’
 
 ‘Possible?’
@@ -135,23 +135,23 @@ iron castanet of the key and the stair-rail!
 
 Each cell door on this side has a square aperture in it.  Some of the
 women peep anxiously through it at the sound of footsteps; others shrink
-away in shame.—For what offence can that lonely child, of ten or twelve
+away in shame.—For what offence can that lonely [[Child|child]], of ten or twelve
 years old, be shut up here?  Oh! that boy? He is the son of the prisoner
 we saw just now; is a witness against his father; and is detained here
 for safe keeping, until the trial; that’s all.
 
-But it is a dreadful place for the child to pass the long days and nights
+But it is a dreadful place for the [[Child|child]] to pass the long days and nights
 in.  This is rather hard treatment for a young witness, is it not?—What
 says our conductor?
 
-‘Well, it an’t a very rowdy life, and _that’s_ a fact!’
+‘[[Well]], it an’t a very rowdy life, and _that’s_ a fact!’
 
 Again he clinks his metal castanet, and leads us leisurely away.  I have
 a question to ask him as we go.
 
 ‘Pray, why do they call this place The Tombs?’
 
-‘Well, it’s the cant name.’
+‘[[Well]], it’s the cant name.’
 
 ‘I know it is.  Why?’
 

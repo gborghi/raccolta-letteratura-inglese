@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 3)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -18,11 +18,11 @@ one has gone right even by accident. Your two or three shots at my own
 
 not immaculate land have been such that you would have been much nearer
 
-the truth if you had tried to invade England by crossing the Caucasus,
+the [[Truth|truth]] if you had tried to invade England by crossing the Caucasus,
 
 or to discover England among the South Sea Islands. With your first
 
-delusion, that our courage was calculated and malignant when in truth
+delusion, that our [[Courage|courage]] was calculated and malignant when in [[Truth|truth]]
 
 our very corruption was timid and confused, I have already dealt. The
 
@@ -34,7 +34,7 @@ should like to be present at a scene in which you tried to bribe the
 
 most miserable little loafer in Hammersmith as if he were a cynical
 
-condottiere selling his spear to some foreign city. It is not the fact,
+condottiere selling his spear to some foreign [[City|city]]. It is not the fact,
 
 my dear sir. You have been misinformed. The British Army is not at this
 
@@ -64,7 +64,7 @@ the enlistment for this war. By all means say that such vague and
 
 sentimental volunteering is valueless in war if you think so; or even
 
-if you don't think so. By all means say that Germany is unconquerable
+if you don't think so. By all means say that [[Germany]] is unconquerable
 
 and that we cannot really kill you. But if you say that we do not really
 
@@ -74,9 +74,9 @@ want to kill you, you do us an injustice. You do indeed.
 
 I need not consider the yet crazier things that some of you have said;
 
-as that the English intend to keep Calais and fight France as well as
+as that the English intend to keep Calais and fight France as [[Well|well]] as
 
-Germany for the privilege of purchasing a frontier and the need to keep
+[[Germany]] for the privilege of purchasing a frontier and the need to keep
 
 a conscript army. That, also, is out of books, and pretty mouldy old
 
@@ -112,17 +112,17 @@ be forgotten even in the full blaze of your marvellous mistakes. I
 
 cannot have my countrymen tempted to those pleasures of intellectual
 
-pride which are the result of comparing themselves with you. The deep
+[[Pride|pride]] which are the result of comparing themselves with you. The deep
 
-collapse and yawning chasm of your ineptitude leaves me upon a perilous
+collapse and yawning chasm of your ineptitude [[Leaves|leaves]] me upon a perilous
 
 spiritual elevation. Your mistakes are matters of fact; but to enumerate
 
-them does not exhaust the truth. For instance, the learned man who
+them does not exhaust the [[Truth|truth]]. For instance, the learned man who
 
 rendered the phrase in an English advertisement "cut you dead" as "hack
 
-you to death," was in error; but to say that many such advertisements
+you to [[Death|death]]," was in error; but to say that many such advertisements
 
 are vulgar is not an error. Again, it is true that the English poor are
 
@@ -130,7 +130,7 @@ harried and insecure, with insufficient instinct for armed revolt,
 
 though you will be wrong if you say that they are occupied literally in
 
-shooting the moon. It is true that the average Englishman is too much
+shooting the [[Moon|moon]]. It is true that the average Englishman is too much
 
 attracted by aristocratic society; though you will be in error if you
 
@@ -152,23 +152,23 @@ preventing Europe from putting a term to the impious piracies of
 
 Frederick the Great. We were very wrong indeed when we allowed the
 
-triumph over Napoleon to be soiled with the mire and blood of Blucher's
+triumph over Napoleon to be soiled with the mire and [[Blood|blood]] of Blucher's
 
 sullen savages. We were very wrong indeed when we allowed the peaceful
 
-King of Denmark to be robbed in broad daylight by a brigand named
+[[King]] of [[Denmark]] to be robbed in broad daylight by a brigand named
 
 Bismarck; and when we allowed the Prussian swashbucklers to enslave and
 
-silence the French provinces which they could neither govern nor
+[[Silence|silence]] the French provinces which they could neither govern nor
 
 persuade. We were very wrong indeed when we flung to such hungry
 
 adventurers a position so important as Heligoland. We were very wrong
 
-indeed when we praised the soulless Prussian education and copied the
+indeed when we praised the soulless Prussian [[Education|education]] and copied the
 
-soulless Prussian laws. Knowing that you will mingle your tears with
+soulless Prussian laws. Knowing that you will mingle your [[Tears|tears]] with
 
 mine over this record of English wrong-doing, I dedicate it to you, and
 
@@ -200,14 +200,14 @@ should be done with the German Emperor after a victory of the Allies.
 
 Our more feminine advisers incline to the view that he should be shot.
 
-This is to make a mistake about the very nature of hereditary monarchy.
+This is to make a mistake about the very [[Nature|nature]] of hereditary monarchy.
 
 Assuredly the Emperor William at his worst would be entitled to say to
 
-his amiable Crown Prince what Charles II. said when his brother warned
+his amiable [[Crown]] Prince what Charles II. said when his brother warned
 
 him of the plots of assassins: "They will never kill me to make you
 
-king." Others, of greater monstrosity of mind, have suggested that he
+[[King|king]]." Others, of greater monstrosity of mind, have suggested that he
 
-should be sent to St. Helena. So far as an estimate of his
+should be sent to St. [[Helena]]. So far as an estimate of his

@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. PETER PRICE, the private inquiry agent, did not glow with that (part 2)"
+title: "[[FourFaultlessFelons]] — R. PETER PRICE, the private inquiry agent, did not glow with that (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -18,7 +18,7 @@ our money, what can we do?"
 
 
 
-"I know-I know," said the detective, nodding in an almost dreamy fashion;
+"I know-I know," said the [[Detective|detective]], nodding in an almost dreamy fashion;
 
 his eyes were again fixed on the ceiling and he seemed to be following a
 
@@ -38,7 +38,7 @@ mean old man without expecting anything like a windfall. And then there's
 
 another curious picture. A man who's been an ordinary man of the world
 
-but driven to live the simple life, partly by poverty and partly by
+but driven to live the simple life, partly by [[Poverty|poverty]] and partly by
 
 having a Puritanical wife with a fad against all his old luxuries and
 
@@ -46,21 +46,21 @@ especially against tobacco. . . . Does that suggest anything to you?"
 
 
 
-"No, it doesn't," said Mrs. Mowbray, rising and rustling. "I consider all
+"No, it doesn't," said Mrs. [[Mowbray]], rising and rustling. "I consider all
 
 this most unsatisfactory, and I don't know what you're talking about."
 
 
 
-"He was really a very absent-minded housebreaker," said the detective.
+"He was really a very absent-minded housebreaker," said the [[Detective|detective]].
 
 "If he had known what he was about, he would have dropped two brooches."
 
 
 
-Ten minutes later Mrs. Mowbray had shaken the dust of the very dusty
+Ten minutes later Mrs. [[Mowbray]] had shaken the [[Dust|dust]] of the very dusty
 
-detective office off her feet and gone on to pour out her woes elsewhere;
+[[Detective|detective]] office off her feet and gone on to pour out her woes elsewhere;
 
 and Mr. Peter Price went to the telephone with a smile that he seemed to
 
@@ -70,11 +70,11 @@ official police department, and their conversation was long and detailed.
 
 It largely concerned the prevalence of petty crime, especially larceny,
 
-in some of the very poorest districts of London. And yet, oddly enough,
+in some of the very poorest districts of [[London]]. And yet, oddly enough,
 
 Mr. Price added the notes of this telephone conversation to his notes of
 
-the conversation with the aristocratic Mrs. Milton-Mowbray.
+the conversation with the aristocratic Mrs. [[Milton]]-[[Mowbray]].
 
 
 
@@ -90,15 +90,15 @@ than met the eye.
 
 
 
-The truth was that Mr. Peter Price was awaiting another arrival, in
+The [[Truth|truth]] was that Mr. Peter Price was awaiting another arrival, in
 
 accordance with another appointment. The two were not unconnected, though
 
-it would have surprised Mrs. Mowbray very much if she had seen a figure
+it would have surprised Mrs. [[Mowbray]] very much if she had seen a figure
 
 so familiar as that of Mr. John Nadoway, of Nadoway and Son, enter the
 
-detective's office so soon after she had left. But many years before, the
+[[Detective|detective]]'s office so soon after she had left. But many years before, the
 
 Junior Partner had been put to considerable difficulties in covering up
 
@@ -126,7 +126,7 @@ far more ghastly and gigantic scale.
 
 For Alan Nadoway, no longer acting anonymously or even like a thief in
 
-the night, but announcing his name even more plainly than when he left
+the [[Night|night]], but announcing his name even more plainly than when he left
 
 his visiting-card, had declared that it was his intention to pick pockets
 
@@ -138,9 +138,9 @@ curious communication he had sent his brother, he gravely declared that
 
 while there was obviously nothing morally wrong about picking pockets, he
 
-could not reconcile it with his conscience (perhaps, he admitted, a too
+could not reconcile it with his [[Conscience|conscience]] (perhaps, he admitted, a too
 
-sensitive conscience) to deceive a kind policeman by giving a false name.
+sensitive [[Conscience|conscience]]) to deceive a kind policeman by giving a false name.
 
 He had tried three times, he pathetically declared, to call himself
 
@@ -160,7 +160,7 @@ parallel advertisements. Alan Nadoway, announcing himself as the eldest
 
 son of Sir Jacob Nadoway (for such was already the father's title),
 
-appeared in the police court, charged with picking pockets not only once
+appeared in the police [[Court|court]], charged with picking pockets not only once
 
 but regularly and successfully for several weeks.
 
@@ -186,7 +186,7 @@ man could be so wicked."
 
 "Yes," said Peter Price, a little sleepily; "it seems incredible." Then
 
-he got up with his hands in his pockets and looked out of the window and
+he got up with his hands in his pockets and looked out of the [[Window|window]] and
 
 remarked: "You know, when you come to think of it, that's just the word
 
@@ -214,6 +214,6 @@ I begin to have a large general sort of suspicion."
 
 
 
-Then after another silence he said abruptly: "Look here, I won't risk
+Then after another [[Silence|silence]] he said abruptly: "Look here, I won't risk
 
 raising hopes or suspicions yet, but if you'll let me see the solicitor

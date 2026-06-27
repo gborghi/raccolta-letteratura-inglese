@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 29 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 29 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -23,12 +23,12 @@ This last remark bore reference to his vaulting on horseback, as upon Mr
 Chester’s first visit, and quickly disappearing by the stable gate.
 
 ‘That with him is nothing,’ repeated Mr Willet, brushing his wig with
-his wrist, and inwardly resolving to distribute a small charge for dust
+his wrist, and inwardly resolving to distribute a small charge for [[Dust|dust]]
 and damage to that article of dress, through the various items of his
-guest’s bill; ‘he’ll get out of a’most any winder in the house. There
+guest’s bill; ‘he’ll get out of a’most any winder in the [[house]]. There
 never was such a chap for flinging himself about and never hurting his
 bones. It’s my opinion, sir, that it’s pretty nearly allowing to his
-not having any imagination; and that if imagination could be (which it
+not having any [[Imagination|imagination]]; and that if [[Imagination|imagination]] could be (which it
 can’t) knocked into him, he’d never be able to do it any more. But we
 was a-talking, sir, about my son.’
 
@@ -45,34 +45,34 @@ button of his coat, counting downwards from the chin, and pouring his
 reply into his ear:
 
 ‘Sir,’ whispered John, with dignity, ‘I know my duty. We want no
-love-making here, sir, unbeknown to parents. I respect a certain young
+[[Love|love]]-making here, sir, unbeknown to parents. I respect a certain young
 gentleman, taking him in the light of a young gentleman; I respect a
 certain young lady, taking her in the light of a young lady; but of the
 two as a couple, I have no knowledge, sir, none whatever. My son, sir,
 is upon his patrole.’
 
-‘I thought I saw him looking through the corner window but this moment,’
+‘I thought I saw him looking through the corner [[Window|window]] but this moment,’
 said Mr Chester, who naturally thought that being on patrole, implied
 walking about somewhere.
 
-‘No doubt you did, sir,’ returned John. ‘He is upon his patrole of
-honour, sir, not to leave the premises. Me and some friends of mine that
+‘No [[Doubt|doubt]] you did, sir,’ returned John. ‘He is upon his patrole of
+[[Honour|honour]], sir, not to leave the premises. Me and some friends of mine that
 use the Maypole of an evening, sir, considered what was best to be done
 with him, to prevent his doing anything unpleasant in opposing your
 desires; and we’ve put him on his patrole. And what’s more, sir, he
-won’t be off his patrole for a pretty long time to come, I can tell you
+won’t be off his patrole for a pretty long [[Time|time]] to come, I can tell you
 that.’
 
 When he had communicated this bright idea, which had its origin in the
 perusal by the village cronies of a newspaper, containing, among other
 matters, an account of how some officer pending the sentence of some
-court-martial had been enlarged on parole, Mr Willet drew back from his
+[[Court|court]]-martial had been enlarged on parole, Mr Willet drew back from his
 guest’s ear, and without any visible alteration of feature, chuckled
 thrice audibly. This nearest approach to a laugh in which he ever
 indulged (and that but seldom and only on extreme occasions), never even
 curled his lip or effected the smallest change in--no, not so much as a
-slight wagging of--his great, fat, double chin, which at these times, as
-at all others, remained a perfect desert in the broad map of his face;
+slight wagging of--his great, fat, [[Double|double]] chin, which at these times, as
+at all others, remained a perfect [[Desert|desert]] in the broad map of his face;
 one changeless, dull, tremendous blank.
 
 Lest it should be matter of surprise to any, that Mr Willet adopted this
@@ -86,7 +86,7 @@ the old gentleman was a better sort of a customer than the young one.
 Throwing his landlord into the same scale, which was already turned by
 this consideration, and heaping upon him, again, his strong desires
 to run counter to the unfortunate Joe, and his opposition as a general
-principle to all matters of love and matrimony, it went down to the very
+principle to all matters of [[Love|love]] and matrimony, it went down to the very
 ground straightway, and sent the light cause of the younger gentleman
 flying upwards to the ceiling. Mr Chester was not the kind of man to be
 by any means dim-sighted to Mr Willet’s motives, but he thanked him as
@@ -97,7 +97,7 @@ deem most fitting the occasion, bent his steps towards the Warren.
 
 Dressed with more than his usual elegance; assuming a gracefulness of
 manner, which, though it was the result of long study, sat easily upon
-him and became him well; composing his features into their most serene
+him and became him [[Well|well]]; composing his features into their most serene
 and prepossessing expression; and setting in short that guard upon
 himself, at every point, which denoted that he attached no slight
 importance to the impression he was about to make; he entered the bounds
@@ -117,10 +117,10 @@ turned hastily back and said in an agitated voice:
 She stopped in some confusion at being so unexpectedly accosted by a
 stranger; and answered ‘Yes.’
 
-‘Something told me,’ he said, LOOKING a compliment to her beauty, ‘that
+‘Something told me,’ he said, LOOKING a compliment to her [[Beauty|beauty]], ‘that
 it could be no other. Miss Haredale, I bear a name which is not unknown
-to you--which it is a pride, and yet a pain to me to know, sounds
+to you--which it is a [[Pride|pride]], and yet a [[Pain|pain]] to me to know, sounds
 pleasantly in your ears. I am a man advanced in life, as you see. I am
-the father of him whom you honour and distinguish above all other
+the father of him whom you [[Honour|honour]] and distinguish above all other
 men. May I for weighty reasons which fill me with distress, beg but a
 minute’s conversation with you here?’

@@ -17,22 +17,22 @@ tags:
 The Return of Pageantry
 
 
-The Puritans, in their hours of pride, seem actually to claim that our
+The Puritans, in their hours of [[Pride|pride]], seem actually to claim that our
 nation is fundamentally Puritan, was made by the Puritan spirit.
 They put Cromwell in the place of Alfred; they put him not only at
-the head of English patriotism, but at the beginning of English history.
-They make old England a sort of Puritan colony like New England.
+the head of English patriotism, but at the beginning of English [[history]].
+They make old England a sort of Puritan colony like [[New England]].
 All this is, of course, a ludicrous delusion.  The first facts or names
 that jump to the mind will remind any Englishman that his country had a
 splendid national literature and a very unmistakable type of national life
 before the hat of a single Puritan had been seen and hooted in England.
 Chaucer is even more English than Bunyan; Shakespeare is certainly
-more English than Milton.  The Tabard and the Mermaid, Lady Godiva
-and St George, Robin Goodfellow and Robin Hood, belong to a national
-tradition that has not even been touched by Puritanism; yet which is
+more English than [[Milton]].  The Tabard and the [[Mermaid]], Lady Godiva
+and St George, Robin Goodfellow and [[Robin Hood]], belong to a national
+tradition that has not even been touched by [[Puritanism]]; yet which is
 quite different from the tradition of Spain, of Scotland, or of France.
 Chaucer's Franklin, whose beard was white as a daisy, and in whose
-house `it snewed meate and drinke', was as certainly an Englishman
+[[house]] `it snewed meate and drinke', was as certainly an Englishman
 as he most certainly was not a Puritan.
 
 Puritanism was something put into the Englishman after
@@ -64,14 +64,14 @@ something of the same kind could be suggested.  Before the coming
 of the Puritan, the people of the flat country had already shown
 that talent for a certain detail and domesticity in art which fills
 so many galleries with their quaint interiors and their convincing
-still life.  It might well be maintained that the same note of half
-religious realism, of an almost mystical silence and solidity,
+still life.  It might [[Well|well]] be maintained that the same note of half
+religious realism, of an almost mystical [[Silence|silence]] and solidity,
 is being sounded in much of the new literature of the Netherlands.
-It is marked in Maeterlinck's love of interiors and the unconscious
-shapes of things; in the way in which he writes of a window standing
+It is marked in Maeterlinck's [[Love|love]] of interiors and the unconscious
+shapes of things; in the way in which he writes of a [[Window|window]] standing
 open or a passage leading to a door.  He lives in a dumb fairyland
 of furniture.  Nothing could be more like the almost conventual
-quietude and neatness of the pre-Reformation art among the Flemings.
+quietude and neatness of the pre-[[Reformation]] art among the Flemings.
 And nothing certainly could be more unlike the somewhat vulgar yet
 really demonic energy, the curious mixture of bourgeois smugness
 and visionary anarchy that marked the mighty days of the Puritan.
@@ -79,17 +79,17 @@ Nothing could be further from the sensational art and literature
 of the Protestant extremists, as you may see it in old Bibles or
 illustrations of Bunyan; an atmosphere at once monstrous and prosaic,
 mixed of a mild view of this world, and a mad view of the other;
-the earth an endless Clapham and the sky a permanent apocalypse.
+the earth an endless Clapham and the sky a permanent [[Apocalypse|apocalypse]].
 It left on the mind a confused sense that angels had whiskers
 and saints had top hats; and certainly the dull energy in it was
 at the opposite extreme from the spirit of a small room either
 described by Maeterlinck or painted by Memlinc.
 
 But the case of England at least admits of no mistake.
-Not only did England produce a most anti-Puritan literature
+Not only did England produce a most [[anti-puritan|anti-Puritan]] literature
 before the Puritans existed, but it went on, under the Puritans
 and in spite of the Puritans, producing a literature that was
-quite anti-Puritan. There is as little that is Puritan about
+quite [[anti-puritan|anti-Puritan]]. There is as little that is Puritan about
 Fielding and Dickens as there is about Chaucer and Shakespeare.
 Dickens quite obviously existed to champion everything that
 the Puritans existed to destroy; when Mr Scrooge is converted
@@ -127,7 +127,7 @@ His whole attitude until lately has been `What's the good
 of making a fuss?'  It is a sensible and pleasant temper;
 it is the remains of the real Englishman who gave its patient
 Pickwickian cheerfulness to the Canterbury Pilgrimage.
-But it will be gain and not loss if this minor humility
+But it will be gain and not loss if this minor [[Humility|humility]]
 of drab and grey can give place to that higher, and much more
-humble humility, which can forget itself in flowers and fireworks
+humble [[Humility|humility]], which can forget itself in [[Flowers|flowers]] and fireworks
 and in the colours of Carnival.

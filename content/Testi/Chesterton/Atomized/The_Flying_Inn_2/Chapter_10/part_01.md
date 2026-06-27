@@ -38,7 +38,7 @@ to have happened, to the eyes of the amazed Garge
 and his crowd of sympathisers.  "George Burn,
 carpenter of this town, with Samuel Gripes, drayman in
 the service of Messrs. Jay and Gubbins, brewers,
-together with a number of other well-known residents,
+together with a number of other [[Well|well]]-known residents,
 passed by the new building erected on the West Beach
 for various forms of entertainment and popularly
 called the small Universal Hall.  Seeing outside it
@@ -59,8 +59,8 @@ spontaneous, and owed not a little to the accidental
 honesty of the editor.  Moreover, evening papers are
 often more honest than morning papers, because they
 are written by ill-paid and hardworked underlings in
-a great hurry, and there is no time for more timid
-people to correct them.  By the time the morning
+a great hurry, and there is no [[Time|time]] for more timid
+people to correct them.  By the [[Time|time]] the morning
 papers came out next day a faint but perceptible change
 had passed over the story of the vanishing sign-board.
 In the daily paper which had the largest circulation and
@@ -75,7 +75,7 @@ the conjunctions; upon "but" and "yet" and "though"
 and similar words.  As his salary grew larger (for
 editors and proprietors like that sort of thing) and his
 old friends fewer (for the most generous of friends
-cannot but feel faintly acid at a success which has in
+cannot but feel faintly acid at a [[success]] which has in
 it nothing of the infectious flavour of glory) he grew
 more and more to value himself as a diplomatist; a
 man who always said the right thing.  But he was
@@ -101,13 +101,13 @@ elusive train of associations of his own.  In his late
 bad manner, as they say of painters, he was just as
 likely to say, "Whatever we may think of the rights
 and wrongs of the vivisection of pauper children, no
-progressive mind can doubt that the influence of the
+progressive mind can [[Doubt|doubt]] that the influence of the
 Vatican is on the decline."  His nickname had stuck
-to him in honour of a paragraph he was alleged to have
+to him in [[Honour|honour]] of a paragraph he was alleged to have
 written when the American President was wounded
 by a bullet fired by a lunatic in New Orleans, and
 which was said to have run, "The President passed
-a good night and his condition is greatly improved.
+a good [[Night|night]] and his condition is greatly improved.
 The assassin is not, however, a German, as was at first
 supposed."  Men stared at that mysterious conjunction
 till they wanted to go mad and to shoot somebody
@@ -126,7 +126,7 @@ roof thrown after you by men more energetic than
 yourself, you will find you emerge with emotions which
 are not solely those of a moderate politician.  Hibbs
 However had already composed a leaderette on the
-Pebblewick incident, which rather pointed to the truth
+Pebblewick incident, which rather pointed to the [[Truth|truth]]
 of the story, so far as his articles ever pointed to
 anything.  His motives for veering vaguely in this
 direction were, as usual, complex.  He knew the millionaire
@@ -139,7 +139,7 @@ He knew that Lord Ivywood must be mildly but not
 effectually checked; for Lord Ivywood was of The
 Other Party.  And there could be no milder or less
 effectual way of checking him than by allowing the paper
-to lend at least a temporary credit to a well-supported
+to lend at least a temporary credit to a [[Well|well]]-supported
 story that came from outside, and certainly had not
 been (like so many stories) created in the office.  Amid
 all these considerations had Hibbs However steered

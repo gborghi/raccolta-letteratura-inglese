@@ -30,7 +30,7 @@ in this neighbourhood, or do you own to another neighbourhood? Are you
 in independent circumstances, or is it wasting the motions of a bow on
 you? Come! I’ll speculate! I’ll invest a bow in you.’
 
-Which Mr Wegg, having replaced his tin box, accordingly did, as he rose
+Which Mr Wegg, having replaced his tin box, accordingly did, as he [[Rose|rose]]
 to bait his gingerbread-trap for some other devoted infant. The salute
 was acknowledged with:
 
@@ -46,21 +46,21 @@ gone!’)
 
 ‘Do you remember me, then?’ asked his new acquaintance, stopping in
 his amble, one-sided, before the stall, and speaking in a pounding way,
-though with great good-humour.
+though with great good-[[Humour|humour]].
 
-‘I have noticed you go past our house, sir, several times in the course
+‘I have noticed you go past our [[house]], sir, several times in the course
 of the last week or so.’
 
-‘Our house,’ repeated the other. ‘Meaning—?’
+‘Our [[house]],’ repeated the other. ‘Meaning—?’
 
 ‘Yes,’ said Mr Wegg, nodding, as the other pointed the clumsy forefinger
-of his right glove at the corner house.
+of his right glove at the corner [[house]].
 
 ‘Oh! Now, what,’ pursued the old fellow, in an inquisitive manner,
 carrying his knotted stick in his left arm as if it were a baby, ‘what
 do they allow you now?’
 
-‘It’s job work that I do for our house,’ returned Silas, drily, and with
+‘It’s job work that I do for our [[house]],’ returned Silas, drily, and with
 reticence; ‘it’s not yet brought to an exact allowance.’
 
 ‘Oh! It’s not yet brought to an exact allowance? No! It’s not yet
@@ -76,7 +76,7 @@ Mr Wegg replied, (tartly to this personal inquiry), ‘In an accident.’
 
 ‘Do you like it?’
 
-‘Well! I haven’t got to keep it warm,’ Mr Wegg made answer, in a sort of
+‘[[Well]]! I haven’t got to keep it warm,’ Mr Wegg made answer, in a sort of
 desperation occasioned by the singularity of the question.
 
 ‘He hasn’t,’ repeated the other to his knotted stick, as he gave it a
@@ -106,7 +106,7 @@ offensive addition, ‘and if I could, I wouldn’t.’
 you like the name of Nicodemus? Think it over. Nick, or Noddy.’
 
 ‘It is not, sir,’ Mr Wegg rejoined, as he sat down on his stool, with an
-air of gentle resignation, combined with melancholy candour; ‘it is not
+air of gentle [[Resignation|resignation]], combined with [[Melancholy|melancholy]] candour; ‘it is not
 a name as I could wish any one that I had a respect for, to call ME
 by; but there may be persons that would not view it with the same
 objections.—I don’t know why,’ Mr Wegg added, anticipating another
@@ -115,7 +115,7 @@ question.
 ‘Noddy Boffin,’ said that gentleman. ‘Noddy. That’s my name. Noddy—or
 Nick—Boffin. What’s your name?’
 
-‘Silas Wegg.—I don’t,’ said Mr Wegg, bestirring himself to take the
+‘[[Silas Wegg]].—I don’t,’ said Mr Wegg, bestirring himself to take the
 same precaution as before, ‘I don’t know why Silas, and I don’t know why
 Wegg.’
 
@@ -125,7 +125,7 @@ sort of offer to you. Do you remember when you first see me?’
 The wooden Wegg looked at him with a meditative eye, and also with a
 softened air as descrying possibility of profit. ‘Let me think. I ain’t
 quite sure, and yet I generally take a powerful sight of notice, too.
-Was it on a Monday morning, when the butcher-boy had been to our house
+Was it on a Monday morning, when the butcher-boy had been to our [[house]]
 for orders, and bought a ballad of me, which, being unacquainted with
 the tune, I run it over to him?’
 
@@ -135,10 +135,10 @@ the tune, I run it over to him?’
 money to the best, he took my opinion to guide his choice, and we went
 over the collection together. To be sure we did. Here was him as it
 might be, and here was myself as it might be, and there was you, Mr
-Boffin, as you identically are, with your self-same stick under your
+Boffin, as you identically are, with your [[Self|self]]-same stick under your
 very same arm, and your very same back towards us. To—be—sure!’ added
 Mr Wegg, looking a little round Mr Boffin, to take him in the rear,
-and identify this last extraordinary coincidence, ‘your wery self-same
+and identify this last extraordinary coincidence, ‘your wery [[Self|self]]-same
 back!’
 
 ‘What do you think I was doing, Wegg?’
@@ -151,7 +151,7 @@ street.’
 ‘Was you, indeed?’ said Mr Wegg, dubiously.
 
 ‘Not in a dishonourable way, Wegg, because you was singing to the
-butcher; and you wouldn’t sing secrets to a butcher in the street, you
+butcher; and you wouldn’t sing [[Secrets|secrets]] to a butcher in the street, you
 know.’
 
 ‘It never happened that I did so yet, to the best of my remembrance,’
@@ -159,7 +159,7 @@ said Mr Wegg, cautiously. ‘But I might do it. A man can’t say what he
 might wish to do some day or another.’ (This, not to release any little
 advantage he might derive from Mr Boffin’s avowal.)
 
-‘Well,’ repeated Boffin, ‘I was a listening to you and to him. And what
+‘[[Well]],’ repeated Boffin, ‘I was a listening to you and to him. And what
 do you—you haven’t got another stool, have you? I’m rather thick in my
 breath.’
 

@@ -1,5 +1,5 @@
 ---
-title: "The Landscape Garden (part 4)"
+title: "[[The Landscape Garden]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Landscape-Garden-(Poe)"
@@ -30,13 +30,13 @@ tags:
 
       miracles,’ is a proposition better suited to the grovelling
 
-      apprehension of the herd, than to the fervid dreams of the man of
+      apprehension of the herd, than to the fervid [[Dreams|dreams]] of the man of
 
       genius. The merit suggested is, at best, negative, and appertains
 
       to that hobbling criticism which, in letters, would elevate
 
-      Addison into apotheosis. In truth, while that merit which
+      Addison into apotheosis. In [[Truth|truth]], while that merit which
 
       consists in the mere avoiding demerit, appeals directly to the
 
@@ -52,11 +52,11 @@ tags:
 
       instructed to build an Odyssey, but it is in vain that we are
 
-      told how to conceive a ‘Tempest,’ an ‘Inferno,’ a ‘Prometheus
+      told how to conceive a ‘Tempest,’ an ‘Inferno,’ a ‘[[Prometheus]]
 
-      Bound,’ a ‘Nightingale,’ such as that of Keats, or the ‘Sensitive
+      Bound,’ a ‘[[Nightingale]],’ such as that of Keats, or the ‘Sensitive
 
-      Plant’ of Shelley. But, the thing done, the wonder accomplished,
+      Plant’ of Shelley. But, the thing done, the [[Wonder|wonder]] accomplished,
 
       and the capacity for apprehension becomes universal. The sophists
 
@@ -70,7 +70,7 @@ tags:
 
       admiration from their instinct of the beautiful or of the
 
-      sublime.
+      [[Sublime|sublime]].
 
 
 
@@ -78,7 +78,7 @@ tags:
 
       continued Mr. Ellison, “are less objectionable. ‘A mixture of
 
-      pure art in a garden scene, adds to it a great beauty.’ This is
+      pure art in a [[Garden|garden]] scene, adds to it a great [[Beauty|beauty]].’ This is
 
       just, and the reference to the sense of human interest is equally
 
@@ -88,11 +88,11 @@ tags:
 
       There may be an object in full keeping with the principle
 
-      suggested—an object unattainable by the means ordinarily in
+      suggested—an object [[Unattainable|unattainable]] by the means ordinarily in
 
       possession of mankind, yet which, if attained, would lend a charm
 
-      to the landscape-garden immeasurably surpassing that which a
+      to the landscape-[[Garden|garden]] immeasurably surpassing that which a
 
       merely human interest could bestow. The true poet possessed of
 
@@ -100,7 +100,7 @@ tags:
 
       the necessary idea of art or interest or culture, so imbue his
 
-      designs at once with extent and novelty of Beauty, as to convey
+      designs at once with extent and novelty of [[Beauty]], as to convey
 
       the sentiment of spiritual interference. It will be seen that, in
 
@@ -110,7 +110,7 @@ tags:
 
       and technicality of Art. In the most rugged of wildernesses—in
 
-      the most savage of the scenes of pure Nature—there is apparent
+      the most savage of the scenes of pure [[Nature]]—there is apparent
 
       the art of a Creator; yet is this art apparent only to
 
@@ -130,9 +130,9 @@ tags:
 
       the Art is made to assume the air of an intermediate or secondary
 
-      Nature—a Nature which is not God, nor an emanation of God, but
+      [[Nature]]—a [[Nature]] which is not God, nor an emanation of God, but
 
-      which still is Nature, in the sense that it is the handiwork of
+      which still is [[Nature]], in the sense that it is the handiwork of
 
       the angels that hover between man and God.”
 
@@ -148,7 +148,7 @@ tags:
 
       the high spirituality of the object itself—in the contempt of
 
-      ambition which it enabled him more to feel than to affect—and,
+      [[Ambition|ambition]] which it enabled him more to feel than to affect—and,
 
       lastly, it was in the companionship and sympathy of a devoted
 
@@ -156,6 +156,6 @@ tags:
 
       the ordinary cares of Humanity, with a far greater amount of
 
-      positive happiness than ever glowed in the rapt day-dreams of De
+      positive happiness than ever glowed in the rapt day-[[Dreams|dreams]] of De
 
       Staël.

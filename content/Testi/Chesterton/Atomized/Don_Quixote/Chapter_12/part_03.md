@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 11 (part 3)"
+title: "[[Don Quixote]] — Chapter 11 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -47,25 +47,25 @@ head and there you are.  Besides, it has all sorts of sensible
 elements you don't discover till you've worn it for a day or so.
 For instance," he looked up at the sky with a sort of frown,
 "it may be going to rain or something; it may turn very cold
-or the wind be very strong.  What will you all do then?
-You will make a bolt for the house and come back with a paraphernalia
+or the [[Wind|wind]] be very strong.  What will you all do then?
+You will make a bolt for the [[house]] and come back with a paraphernalia
 of things for the lady; perhaps a huge horrible umbrella
 that will force you to walk about like a Chinese Emperor under
 a canopy; perhaps a lot of wraps and waterproofs and things.
 But nine times out of ten a man only wants something to pull over
 his head in this climate; he simply does this," and he plucked
 forward the hood that hung between his shoulders, "and for the rest
-of the time he can belong to the Hatless Brigade. . . . Do you know,"
+of the [[Time|time]] he can belong to the Hatless Brigade. . . . Do you know,"
 he added abruptly and in a lowered voice, "there's something
 very satisfying about wearing a hood . . . something symbolical;
-I don't wonder they corrupted the name of the great medieval
-hero into Robin Hood."
+I don't [[Wonder|wonder]] they corrupted the name of the great medieval
+[[Hero|hero]] into [[Robin Hood]]."
 
 Olive Ashley had been looking away across the undulating slopes
 of the valley, to where they vanished into a shining haze of evening,
 as if she were somewhat distrait and detached from the conversation,
 but she looked round, as if at the sound of a word which could
-penetrate her dreams.
+penetrate her [[Dreams|dreams]].
 
 "What do you mean," she said, "by saying a hood is symbolical?"
 
@@ -73,30 +73,30 @@ penetrate her dreams.
 "and seen the landscape beyond as bright as a lost paradise?
 That is because there is a frame to the picture. . . . You
 are cut off from something and allowed to look at something.
-When will people understand that the world is a window and not
-a blank infinity; a window in a wall of infinite nothing?
-When I wear this hood I carry my window with me.
+When will people understand that the world is a [[Window|window]] and not
+a blank infinity; a [[Window|window]] in a wall of infinite nothing?
+When I wear this hood I carry my [[Window|window]] with me.
 I say to myself--this is the world that Francis of Assisi saw
 and loved because it was limited.  The hood has the very shape
-of a Gothic window."
+of a Gothic [[Window|window]]."
 
 Olive looked over her shoulder at John Braintree and said:
 "Do you remember what poor Monkey said? . . . No, it was just
 before you came."
 
-"Before I came?" asked Braintree in a momentary doubt.
+"Before I came?" asked Braintree in a momentary [[Doubt|doubt]].
 
 "Before you first came here," she answered colouring and looking
 again at the landscape.  "He said he would have to look through
-a leper's window."
+a leper's [[Window|window]]."
 
-"A very typical medieval window, I should think,"
+"A very typical medieval [[Window|window]], I should think,"
 said Braintree rather sourly.
 
 The face of the man in medieval masquerade suddenly flamed
 as at a challenge to battle.
 
-"Will you show me a King," he cried, "a modern reigning King,
+"Will you show me a [[King]]," he cried, "a modern reigning [[King]],
 by the grace of God, who will go and handle lepers in a hospital
 as St. Louis did?"
 

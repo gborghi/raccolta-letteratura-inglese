@@ -18,18 +18,18 @@ CHAPTER XI—ASTLEY’S
 
 
 We never see any very large, staring, black Roman capitals, in a book,
-or shop-window, or placarded on a wall, without their immediately
+or shop-[[Window|window]], or placarded on a wall, without their immediately
 recalling to our mind an indistinct and confused recollection of the
-time when we were first initiated in the mysteries of the alphabet. We
+[[Time|time]] when we were first initiated in the mysteries of the alphabet. We
 almost fancy we see the pin’s point following the letter, to impress
-its form more strongly on our bewildered imagination; and wince
+its form more strongly on our bewildered [[Imagination|imagination]]; and wince
 involuntarily, as we remember the hard knuckles with which the reverend
-old lady who instilled into our mind the first principles of education
+old lady who instilled into our mind the first principles of [[Education|education]]
 for ninepence per week, or ten and sixpence per quarter, was wont to
 poke our juvenile head occasionally, by way of adjusting the confusion
 of ideas in which we were generally involved. The same kind of feeling
 pursues us in many other instances, but there is no place which recalls
-so strongly our recollections of childhood as Astley’s. It was not a
+so strongly our recollections of [[Childhood|childhood]] as Astley’s. It was not a
 ‘Royal Amphitheatre’ in those days, nor had Ducrow arisen to shed the
 light of classic taste and portable gas over the sawdust of the circus;
 but the whole character of the place was the same, the pieces were the
@@ -44,8 +44,8 @@ once so highly appreciated.
 We like to watch a regular Astley’s party in the Easter or Midsummer
 holidays—pa and ma, and nine or ten children, varying from five foot
 six to two foot eleven: from fourteen years of age to four. We had just
-taken our seat in one of the boxes, in the centre of the house, the
-other night, when the next was occupied by just such a party as we
+taken our seat in one of the boxes, in the centre of the [[house]], the
+other [[Night|night]], when the next was occupied by just such a party as we
 should have attempted to describe, had we depicted our _beau idéal_ of
 a group of Astley’s visitors.
 
@@ -54,7 +54,7 @@ pursuance of pa’s directions, issued in a very audible voice from the
 box-door, occupied the front row; then two more little girls were
 ushered in by a young lady, evidently the governess. Then came three
 more little boys, dressed like the first, in blue jackets and trousers,
-with lay-down shirt-collars: then a child in a braided frock and high
+with lay-down shirt-collars: then a [[Child|child]] in a braided frock and high
 state of astonishment, with very large round eyes, opened to their
 utmost width, was lifted over the seats—a process which occasioned a
 considerable display of little pink legs—then came ma and pa, and then
@@ -98,7 +98,7 @@ eye, put her handkerchief to her mouth, and appeared, as in duty bound,
 to be in convulsions of laughter also. Then when the man in the
 splendid armour vowed to rescue the lady or perish in the attempt, the
 little boys applauded vehemently, especially one little fellow who was
-apparently on a visit to the family, and had been carrying on a child’s
+apparently on a visit to the family, and had been carrying on a [[Child|child]]’s
 flirtation, the whole evening, with a small coquette of twelve years
 old, who looked like a model of her mamma on a reduced scale; and who,
 in common with the other little girls (who generally speaking have even
@@ -117,6 +117,6 @@ gratified to be taken notice of, retired behind her pillar again with a
 brighter countenance: and the whole party seemed quite happy, except
 the exquisite in the back of the box, who, being too grand to take any
 interest in the children, and too insignificant to be taken notice of
-by anybody else, occupied himself, from time to time, in rubbing the
-place where the whiskers ought to be, and was completely alone in his
+by anybody else, occupied himself, from [[Time|time]] to [[Time|time]], in rubbing the
+place where the whiskers ought to be, and was completely [[Alone|alone]] in his
 glory.

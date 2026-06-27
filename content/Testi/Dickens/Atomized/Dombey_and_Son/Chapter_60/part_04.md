@@ -18,25 +18,25 @@ tags:
 Cornwall, in a dismal gale, two hours before daybreak, on the fourth of
 March, “seventy-one, she had near two hundred horses aboard; and the
 horses breaking loose down below, early in the gale, and tearing to and
-fro, and trampling each other to death, made such noises, and set up
-such human cries, that the crew believing the ship to be full of
+fro, and trampling each other to [[Death|death]], made such noises, and set up
+such human cries, that the crew believing the [[Ship|ship]] to be full of
 devils, some of the best men, losing heart and head, went overboard in
-despair, and only two were left alive, at last, to tell the tale.”
+[[Despair|despair]], and only two were left alive, at last, to tell the tale.”
 
 “And when,” said old Sol, “when the Polyphemus—”
 
 “Private West India Trader, burden three hundred and fifty tons,
 Captain, John Brown of Deptford. Owners, Wiggs and Co.,” cried Walter.
 
-“The same,” said Sol; “when she took fire, four days’ sail with a fair
-wind out of Jamaica Harbour, in the night—”
+“The same,” said Sol; “when she took [[Fire|fire]], four days’ sail with a fair
+[[Wind|wind]] out of Jamaica Harbour, in the [[Night|night]]—”
 
 “There were two brothers on board,” interposed his nephew, speaking
 very fast and loud, “and there not being room for both of them in the
 only boat that wasn’t swamped, neither of them would consent to go,
 until the elder took the younger by the waist, and flung him in. And
 then the younger, rising in the boat, cried out, ‘Dear Edward, think of
-your promised wife at home. I’m only a boy. No one waits at home for
+your promised wife at [[Home|home]]. I’m only a boy. No one waits at [[Home|home]] for
 me. Leap down into my place!’ and flung himself in the sea!”
 
 The kindling eye and heightened colour of the boy, who had risen from
@@ -44,9 +44,9 @@ his seat in the earnestness of what he said and felt, seemed to remind
 old Sol of something he had forgotten, or that his encircling mist had
 hitherto shut out. Instead of proceeding with any more anecdotes, as he
 had evidently intended but a moment before, he gave a short dry cough,
-and said, “Well! suppose we change the subject.”
+and said, “[[Well]]! suppose we change the subject.”
 
-The truth was, that the simple-minded Uncle in his secret attraction
+The [[Truth|truth]] was, that the simple-minded Uncle in his secret attraction
 towards the marvellous and adventurous—of which he was, in some sort, a
 distant relation, by his trade—had greatly encouraged the same
 attraction in the nephew; and that everything that had ever been put
@@ -78,7 +78,7 @@ and merely said:
 
 “How goes it?”
 
-“All well,” said Mr Gills, pushing the bottle towards him.
+“All [[Well|well]],” said Mr Gills, pushing the bottle towards him.
 
 He took it up, and having surveyed and smelt it, said with
 extraordinary expression:
@@ -91,9 +91,9 @@ Upon that he whistled as he filled his glass, and seemed to think they
 were making holiday indeed.
 
 “Wal”r!” he said, arranging his hair (which was thin) with his hook,
-and then pointing it at the Instrument-maker, “Look at him! Love!
-Honour! And Obey! Overhaul your catechism till you find that passage,
-and when found turn the leaf down. Success, my boy!”
+and then pointing it at the Instrument-maker, “Look at him! [[Love]]!
+[[Honour]]! And Obey! Overhaul your catechism till you find that passage,
+and when found turn the leaf down. [[success|Success]], my boy!”
 
 He was so perfectly satisfied both with his quotation and his reference
 to it, that he could not help repeating the words again in a low voice,
@@ -108,12 +108,12 @@ Norval’s father, ‘increase his store.’ At any rate he became silent,
 and remained so, until old Sol went out into the shop to light it up,
 when he turned to Walter, and said, without any introductory remark:—
 
-“I suppose he could make a clock if he tried?”
+“I suppose he could make a [[Clock|clock]] if he tried?”
 
-“I shouldn’t wonder, Captain Cuttle,” returned the boy.
+“I shouldn’t [[Wonder|wonder]], [[Captain Cuttle]],” returned the boy.
 
-“And it would go!” said Captain Cuttle, making a species of serpent in
-the air with his hook. “Lord, how that clock would go!”
+“And it would go!” said [[Captain Cuttle]], making a species of serpent in
+the air with his hook. “Lord, how that [[Clock|clock]] would go!”
 
 For a moment or two he seemed quite lost in contemplating the pace of
 this ideal timepiece, and sat looking at the boy as if his face were
@@ -121,12 +121,12 @@ the dial.
 
 “But he’s chock-full of science,” he observed, waving his hook towards
 the stock-in-trade. “Look’ye here! Here’s a collection of ’em. Earth,
-air, or water. It’s all one. Only say where you’ll have it. Up in a
+air, or [[Water|water]]. It’s all one. Only say where you’ll have it. Up in a
 balloon? There you are. Down in a bell? There you are. D’ye want to put
 the North Star in a pair of scales and weigh it? He’ll do it for you.”
 
-It may be gathered from these remarks that Captain Cuttle’s reverence
-for the stock of instruments was profound, and that his philosophy knew
+It may be gathered from these remarks that [[Captain Cuttle]]’s reverence
+for the stock of instruments was profound, and that his [[philosophy]] knew
 little or no distinction between trading in it and inventing it.
 
 “Ah!” he said, with a sigh, “it’s a fine thing to understand ’em. And
@@ -140,7 +140,7 @@ Nothing short of the wonderful Madeira, combined with the occasion
 could have ever loosened his tongue to the extent of giving utterance
 to this prodigious oration. He seemed quite amazed himself at the
 manner in which it opened up to view the sources of the taciturn
-delight he had had in eating Sunday dinners in that parlour for ten
+delight he had had in eating [[Sunday]] dinners in that parlour for ten
 years. Becoming a sadder and a wiser man, he mused and held his peace.
 
 “Come!” cried the subject of this admiration, returning. “Before you
@@ -151,11 +151,11 @@ have your glass of grog, Ned, we must finish the bottle.”
 “No more, thank’e, Uncle!”
 
 “Yes, yes,” said Sol, “a little more. We’ll finish the bottle, to the
-House, Ned—Walter’s House. Why it may be his House one of these days,
-in part. Who knows? Sir Richard Whittington married his master’s
+[[house|House]], Ned—Walter’s [[house|House]]. Why it may be his [[house|House]] one of these days,
+in part. Who knows? Sir [[Richard]] Whittington married his master’s
 daughter.”
 
-“‘Turn again Whittington, Lord Mayor of London, and when you are old
+“‘Turn again Whittington, [[Lord Mayor]] of [[London]], and when you are old
 you will never depart from it,’” interposed the Captain. “Wal”r!
 Overhaul the book, my lad.”
 
@@ -166,10 +166,10 @@ Overhaul the book, my lad.”
 “Has he?” cried the old man. “Indeed I think he has too.”
 
 “Oh! I know he has,” said the boy. “Some of ’em were talking about it
-in the office today. And they do say, Uncle and Captain Cuttle,”
+in the office today. And they do say, Uncle and [[Captain Cuttle]],”
 lowering his voice, “that he’s taken a dislike to her, and that she’s
 left, unnoticed, among the servants, and that his mind’s so set all the
-while upon having his son in the House, that although he’s only a baby
+while upon having his son in the [[house|House]], that although he’s only a baby
 now, he is going to have balances struck oftener than formerly, and the
 books kept closer than they used to be, and has even been seen (when he
 thought he wasn’t) walking in the Docks, looking at his ships and
@@ -190,7 +190,7 @@ old man, humouring the joke.
 “Nevertheless, we’ll drink him,” pursued Sol. “So, here’s to Dombey and
 Son.”
 
-“Oh, very well, Uncle,” said the boy, merrily. “Since you have
+“Oh, very [[Well|well]], Uncle,” said the boy, merrily. “Since you have
 introduced the mention of her, and have connected me with her and have
 said that I know all about her, I shall make bold to amend the toast.
 So here’s to Dombey—and Son—and Daughter!”

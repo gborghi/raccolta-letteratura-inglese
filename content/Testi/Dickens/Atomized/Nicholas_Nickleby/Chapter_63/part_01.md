@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 63 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 63 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -21,7 +21,7 @@ others. Tim Linkinwater makes a Declaration for himself
 
 
 Some weeks had passed, and the first shock of these events had subsided.
-Madeline had been removed; Frank had been absent; and Nicholas and Kate
+[[Madeline]] had been removed; Frank had been absent; and Nicholas and Kate
 had begun to try in good earnest to stifle their own regrets, and to
 live for each other and for their mother--who, poor lady, could in
 nowise be reconciled to this dull and altered state of affairs--when
@@ -31,7 +31,7 @@ Mrs. Nickleby, Kate, and Nicholas, but little Miss La Creevy, who was
 most particularly mentioned.
 
 ‘Now, my dears,’ said Mrs. Nickleby, when they had rendered becoming
-honour to the bidding, and Tim had taken his departure, ‘what does THIS
+[[Honour|honour]] to the bidding, and Tim had taken his departure, ‘what does THIS
 mean?’
 
 ‘What do YOU mean, mother?’ asked Nicholas, smiling.
@@ -41,7 +41,7 @@ mystery, ‘what does this invitation to dinner mean? What is its
 intention and object?’
 
 ‘I conclude it means, that on such a day we are to eat and drink in
-their house, and that its intent and object is to confer pleasure upon
+their [[house]], and that its intent and object is to confer pleasure upon
 us,’ said Nicholas.
 
 ‘And that’s all you conclude it is, my dear?’
@@ -63,7 +63,7 @@ wait; a great deal better; it’s satisfactory to all parties, and there
 can be no disputing. All I say is, remember what I say now, and when I
 say I said so, don’t say I didn’t.’
 
-With this stipulation, Mrs. Nickleby, who was troubled, night and day,
+With this stipulation, Mrs. Nickleby, who was troubled, [[Night|night]] and day,
 with a vision of a hot messenger tearing up to the door to announce that
 Nicholas had been taken into partnership, quitted that branch of the
 subject, and entered upon a new one.
@@ -71,14 +71,14 @@ subject, and entered upon a new one.
 ‘It’s a very extraordinary thing,’ she said, ‘a most extraordinary
 thing, that they should have invited Miss La Creevy. It quite astonishes
 me, upon my word it does. Of course it’s very pleasant that she should
-be invited, very pleasant, and I have no doubt that she’ll conduct
-herself extremely well; she always does. It’s very gratifying to think
+be invited, very pleasant, and I have no [[Doubt|doubt]] that she’ll conduct
+herself extremely [[Well|well]]; she always does. It’s very gratifying to think
 that we should have been the means of introducing her into such society,
 and I’m quite glad of it--quite rejoiced--for she certainly is an
-exceedingly well-behaved and good-natured little person. I could wish
+exceedingly [[Well|well]]-behaved and good-natured little person. I could wish
 that some friend would mention to her how very badly she has her cap
 trimmed, and what very preposterous bows those are, but of course that’s
-impossible, and if she likes to make a fright of herself, no doubt she
+impossible, and if she likes to make a fright of herself, no [[Doubt|doubt]] she
 has a perfect right to do so. We never see ourselves--never do, and
 never did--and I suppose we never shall.’
 
@@ -91,16 +91,16 @@ importance, soon routed the previous one, and put it to flight.
 
 The great day arriving, the good lady put herself under Kate’s hands an
 hour or so after breakfast, and, dressing by easy stages, completed
-her toilette in sufficient time to allow of her daughter’s making hers,
+her toilette in sufficient [[Time|time]] to allow of her daughter’s making hers,
 which was very simple, and not very long, though so satisfactory that
 she had never appeared more charming or looked more lovely. Miss La
 Creevy, too, arrived with two bandboxes (whereof the bottoms fell out as
 they were handed from the coach) and something in a newspaper, which a
 gentleman had sat upon, coming down, and which was obliged to be ironed
 again, before it was fit for service. At last, everybody was dressed,
-including Nicholas, who had come home to fetch them, and they went away
+including Nicholas, who had come [[Home|home]] to fetch them, and they went away
 in a coach sent by the brothers for the purpose: Mrs. Nickleby wondering
-very much what they would have for dinner, and cross-examining Nicholas
+very much what they would have for dinner, and [[Cross|cross]]-examining Nicholas
 as to the extent of his discoveries in the morning; whether he had smelt
 anything cooking at all like turtle, and if not, what he had smelt; and
 diversifying the conversation with reminiscences of dinners to which she
@@ -119,7 +119,7 @@ between her and Frank, she felt her position a most delicate and trying
 one, and was trembling on the arm of Nicholas, when Mr. Charles took her
 in his, and led her to another part of the room.
 
-‘Have you seen Madeline, my dear,’ he said, ‘since she left your house?’
+‘Have you seen [[Madeline]], my dear,’ he said, ‘since she left your [[house]]?’
 
 ‘No, sir!’ replied Kate. ‘Not once.’
 
@@ -129,7 +129,7 @@ in his, and led her to another part of the room.
 would not have forgotten me quite so soon.’
 
 ‘Ah,’ said the old man, patting her on the head, and speaking as
-affectionately as if she had been his favourite child. ‘Poor dear! what
-do you think of this, brother Ned? Madeline has only written to her
+affectionately as if she had been his favourite [[Child|child]]. ‘Poor dear! what
+do you think of this, brother Ned? [[Madeline]] has only written to her
 once, only once, Ned, and she didn’t think she would have forgotten her
 quite so soon, Ned.’

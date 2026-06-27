@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 23 (part 4)"
+title: "[[Villette]] — Chapter 23 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,14 +15,14 @@ tags:
 
 
 Just then a stir, pregnant with omen, rustled behind the scenes—feet
-ran, voices spoke. What was it? demanded the whole house. A flame, a
+ran, voices spoke. What was it? demanded the whole [[house]]. A flame, a
 smell of smoke replied.
 
-“Fire!” rang through the gallery. “Fire!” was repeated, re-echoed,
+“[[Fire]]!” rang through the gallery. “[[Fire]]!” was repeated, re-echoed,
 yelled forth: and then, and faster than pen can set it down, came
 panic, rushing, crushing—a blind, selfish, cruel chaos.
 
-And Dr. John? Reader, I see him yet, with his look of comely courage
+And Dr. John? Reader, I see him yet, with his look of comely [[Courage|courage]]
 and cordial calm.
 
 “Lucy will sit still, I know,” said he, glancing down at me with the
@@ -65,8 +65,8 @@ could not get between or over.
 
 Our pioneer proved strong and adroit; he opened the dense mass like a
 wedge; with patience and toil he at last bored through the
-flesh-and-blood rock—so solid, hot, and suffocating—and brought us to
-the fresh, freezing night.
+flesh-and-[[Blood|blood]] rock—so solid, hot, and suffocating—and brought us to
+the fresh, freezing [[Night|night]].
 
 “You are an Englishman!” said he, turning shortly on Dr. Bretton, when
 we got into the street.
@@ -83,17 +83,17 @@ carriage.”
 “Tell him I am not hurt, except just in my shoulder. Oh, my shoulder!
 They trod just here.”
 
-“Dislocation, perhaps!” muttered the Doctor: “let us hope there is no
+“Dislocation, perhaps!” muttered the Doctor: “let us [[Hope|hope]] there is no
 worse injury done. Lucy, lend a hand one instant.”
 
 And I assisted while he made some arrangement of drapery and position
-for the ease of his suffering burden. She suppressed a moan, and lay in
+for the ease of his [[Suffering|suffering]] burden. She suppressed a moan, and lay in
 his arms quietly and patiently.
 
-“She is very light,” said Graham, “like a child!” and he asked in my
-ear, “Is she a child, Lucy? Did you notice her age?”
+“She is very light,” said Graham, “like a [[Child|child]]!” and he asked in my
+ear, “Is she a [[Child|child]], Lucy? Did you notice her age?”
 
-“I am not a child—I am a person of seventeen,” responded the patient,
+“I am not a [[Child|child]]—I am a person of seventeen,” responded the patient,
 demurely and with dignity. Then, directly after: “Tell papa to come; I
 get anxious.”
 
@@ -115,7 +115,7 @@ Crécy, in the Rue Crécy.”
 We followed; the carriage drove fast; myself and Graham were silent.
 This seemed like an adventure.
 
-Some little time being lost in seeking our own equipage, we reached the
+Some little [[Time|time]] being lost in seeking our own equipage, we reached the
 hotel perhaps about ten minutes after these strangers. It was an hotel
 in the foreign sense: a collection of dwelling-houses, not an inn—a
 vast, lofty pile, with a huge arch to its street-door, leading through
@@ -126,7 +126,7 @@ at Numéro 2 on the second landing; the first floor comprising the abode
 of I know not what “prince Russe,” as Graham informed me. On ringing
 the bell at a second great door, we were admitted to a suite of very
 handsome apartments. Announced by a servant in livery, we entered a
-drawing-room whose hearth glowed with an English fire, and whose walls
+drawing-room whose hearth glowed with an English [[Fire|fire]], and whose walls
 gleamed with foreign mirrors. Near the hearth appeared a little group:
 a slight form sunk in a deep arm-chair, one or two women busy about it,
 the iron-grey gentleman anxiously looking on.
@@ -155,5 +155,5 @@ no less skilled in surgery than medicine, and, on examination, found
 that no further advice than his own was necessary to the treatment of
 the present case. He ordered her to be carried to her chamber, and
 whispered to me:—“Go with the women, Lucy; they seem but dull; you can
-at least direct their movements, and thus spare her some pain. She must
+at least direct their movements, and thus spare her some [[Pain|pain]]. She must
 be touched very tenderly.”

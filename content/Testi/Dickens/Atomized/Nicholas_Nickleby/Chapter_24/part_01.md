@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 24 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 24 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,7 +25,7 @@ dress, notwithstanding, when he heard footsteps ascending the stairs,
 and was presently saluted by the voices of Mr. Folair the pantomimist,
 and Mr. Lenville, the tragedian.
 
-‘House, house, house!’ cried Mr. Folair.
+‘[[house|House]], [[house]], [[house]]!’ cried Mr. Folair.
 
 ‘What, ho! within there,’ said Mr. Lenville, in a deep voice.
 
@@ -53,40 +53,40 @@ chair, still these advantages can only be had in an apartment of the
 most limited size.’
 
 ‘It isn’t a bit too confined for a single man,’ returned Mr. Lenville.
-‘That reminds me,--my wife, Mr. Johnson,--I hope she’ll have some good
+‘That reminds me,--my wife, Mr. Johnson,--I [[Hope|hope]] she’ll have some good
 part in this piece of yours?’
 
-‘I glanced at the French copy last night,’ said Nicholas. ‘It looks very
+‘I glanced at the French copy last [[Night|night]],’ said Nicholas. ‘It looks very
 good, I think.’
 
 ‘What do you mean to do for me, old fellow?’ asked Mr. Lenville, poking
-the struggling fire with his walking-stick, and afterwards wiping it on
+the struggling [[Fire|fire]] with his walking-stick, and afterwards wiping it on
 the skirt of his coat. ‘Anything in the gruff and grumble way?’
 
-‘You turn your wife and child out of doors,’ said Nicholas; ‘and, in a
-fit of rage and jealousy, stab your eldest son in the library.’
+‘You turn your wife and [[Child|child]] out of doors,’ said Nicholas; ‘and, in a
+fit of rage and [[Jealousy|jealousy]], stab your eldest son in the library.’
 
 ‘Do I though!’ exclaimed Mr. Lenville. ‘That’s very good business.’
 
 ‘After which,’ said Nicholas, ‘you are troubled with remorse till the
 last act, and then you make up your mind to destroy yourself. But, just
-as you are raising the pistol to your head, a clock strikes--ten.’
+as you are raising the [[Pistol|pistol]] to your head, a [[Clock|clock]] strikes--ten.’
 
 ‘I see,’ cried Mr. Lenville. ‘Very good.’
 
-‘You pause,’ said Nicholas; ‘you recollect to have heard a clock
-strike ten in your infancy. The pistol falls from your hand--you are
-overcome--you burst into tears, and become a virtuous and exemplary
+‘You pause,’ said Nicholas; ‘you recollect to have heard a [[Clock|clock]]
+strike ten in your infancy. The [[Pistol|pistol]] falls from your hand--you are
+overcome--you burst into [[Tears|tears]], and become a virtuous and exemplary
 character for ever afterwards.’
 
 ‘Capital!’ said Mr. Lenville: ‘that’s a sure card, a sure card. Get the
-curtain down with a touch of nature like that, and it’ll be a triumphant
-success.’
+curtain down with a touch of [[Nature|nature]] like that, and it’ll be a triumphant
+[[success]].’
 
 ‘Is there anything good for me?’ inquired Mr. Folair, anxiously.
 
 ‘Let me see,’ said Nicholas. ‘You play the faithful and attached
-servant; you are turned out of doors with the wife and child.’
+servant; you are turned out of doors with the wife and [[Child|child]].’
 
 ‘Always coupled with that infernal phenomenon,’ sighed Mr. Folair;
 ‘and we go into poor lodgings, where I won’t take any wages, and talk
@@ -94,9 +94,9 @@ sentiment, I suppose?’
 
 ‘Why--yes,’ replied Nicholas: ‘that is the course of the piece.’
 
-‘I must have a dance of some kind, you know,’ said Mr. Folair. ‘You’ll
+‘I must have a [[Dance|dance]] of some kind, you know,’ said Mr. Folair. ‘You’ll
 have to introduce one for the phenomenon, so you’d better make a PAS DE
-DEUX, and save time.’
+DEUX, and save [[Time|time]].’
 
 ‘There’s nothing easier than that,’ said Mr. Lenville, observing the
 disturbed looks of the young dramatist.
@@ -105,24 +105,24 @@ disturbed looks of the young dramatist.
 
 ‘Why, isn’t it obvious?’ reasoned Mr. Lenville. ‘Gadzooks, who can help
 seeing the way to do it?--you astonish me! You get the distressed lady,
-and the little child, and the attached servant, into the poor lodgings,
-don’t you?--Well, look here. The distressed lady sinks into a chair, and
+and the little [[Child|child]], and the attached servant, into the poor lodgings,
+don’t you?--[[Well]], look here. The distressed lady sinks into a chair, and
 buries her face in her pocket-handkerchief. “What makes you weep, mama?”
- says the child. “Don’t weep, mama, or you’ll make me weep too!”--“And
+ says the [[Child|child]]. “Don’t weep, mama, or you’ll make me weep too!”--“And
 me!” says the favourite servant, rubbing his eyes with his arm. “What
-can we do to raise your spirits, dear mama?” says the little child.
+can we do to raise your spirits, dear mama?” says the little [[Child|child]].
 “Ay, what CAN we do?” says the faithful servant. “Oh, Pierre!” says
 the distressed lady; “would that I could shake off these painful
 thoughts.”--“Try, ma’am, try,” says the faithful servant; “rouse
 yourself, ma’am; be amused.”--“I will,” says the lady, “I will learn
-to suffer with fortitude. Do you remember that dance, my honest friend,
+to suffer with fortitude. Do you remember that [[Dance|dance]], my honest friend,
 which, in happier days, you practised with this sweet angel? It never
 failed to calm my spirits then. Oh! let me see it once again before I
 die!”--There it is--cue for the band, BEFORE I DIE,--and off they go.
 That’s the regular thing; isn’t it, Tommy?’
 
 ‘That’s it,’ replied Mr. Folair. ‘The distressed lady, overpowered by old
-recollections, faints at the end of the dance, and you close in with a
+recollections, faints at the end of the [[Dance|dance]], and you close in with a
 picture.’
 
 Profiting by these and other lessons, which were the result of the
@@ -131,7 +131,7 @@ best breakfast he could, and, when he at length got rid of them, applied
 himself to his task: by no means displeased to find that it was so much
 easier than he had at first supposed. He worked very hard all day,
 and did not leave his room until the evening, when he went down to the
-theatre, whither Smike had repaired before him to go on with another
+theatre, whither [[Smike]] had repaired before him to go on with another
 gentleman as a general rebellion.
 
 Here all the people were so much changed, that he scarcely knew them.
@@ -141,8 +141,8 @@ proportions; Mr. Crummles, his large face shaded by a profusion of
 black hair, a Highland outlaw of most majestic bearing; one of the
 old gentlemen a jailer, and the other a venerable patriarch; the comic
 countryman, a fighting-man of great valour, relieved by a touch of
-humour; each of the Master Crummleses a prince in his own right; and the
-low-spirited lover, a desponding captive. There was a gorgeous banquet
+[[Humour|humour]]; each of the Master Crummleses a prince in his own right; and the
+low-spirited [[Lover|lover]], a desponding captive. There was a gorgeous banquet
 ready spread for the third act, consisting of two pasteboard vases, one
 plate of biscuits, a black bottle, and a vinegar cruet; and, in short,
 everything was on a scale of the utmost splendour and preparation.

@@ -16,29 +16,29 @@ tags:
 
 THE CALL TO THE BARBARIANS
 
-A BOOK was sent me the other day by a gentleman who pins his faith
+A BOOK was sent me the other day by a gentleman who pins his [[Faith|faith]]
 to what he calls the Nordic race; and who, indeed, appears to offer
 that race as a substitute for all religions.  Crusaders believed that
-Jerusalem was not only the Holy City, but the centre of the whole world.
+Jerusalem was not only the Holy [[City]], but the centre of the whole world.
 Moslems bow their heads towards Mecca and Roman Catholics are
 notorious for being in secret communication with Rome.  I presume
 that the Holy Place of the Nordic religion must be the North Pole.
 What form of religious architecture is exhibited in its icebergs,
 how far its vestments are modified by the white covering of
-Arctic animals, how the morning and evening service may be adapted
-to a day and a night each lasting for six months, whether their
-only vestment is the alb or their only service the angelus of noon,
+Arctic [[Animals|animals]], how the morning and evening service may be adapted
+to a day and a [[Night|night]] each lasting for six months, whether their
+only vestment is the alb or their only service the angelus of [[Noon|noon]],
 upon all these mysteries I will not speculate.  But I can affirm
 with some confidence that the North Pole is very little troubled
-by heretical movements or the spread of modern doubt.  Anyhow, it would
+by heretical movements or the spread of modern [[Doubt|doubt]].  Anyhow, it would
 seem that we know next to nothing about this social principle,
 except that anything is good if it is near enough to the North.
 And this undoubtedly explains the spiritual leadership of the
-Eskimo throughout history; and the part played by Spitzbergen
+Eskimo throughout [[history]]; and the part played by Spitzbergen
 as the spiritual arena of modern times.  The only thing that
 puzzles me is that the Englishmen who now call themselves Nordic
 used to call themselves Teutonic; and very often even Germanic.
-I cannot think why they altered this so abruptly in the autumn of 1914.
+I cannot think why they altered this so abruptly in the [[Autumn|autumn]] of 1914.
 Some day, I suppose, when we have diplomatic difficulties
 with Norway, they will equally abruptly drop the word Nordic.
 They will hastily substitute some other--I would suggest Borealic.
@@ -46,7 +46,7 @@ They might be called the Bores, for short.
 
 But I only mention this book because of a passage in it which is
 rather typical of the tone of a good many other people when they
-are talking about Catholic history.  The writer would substitute
+are talking about Catholic [[history]].  The writer would substitute
 one race for all religions; in which he certainly differs from us,
 who are ready to offer one religion to all races.  And even here,
 perhaps, the comparison is not altogether to his advantage.
@@ -61,13 +61,13 @@ but he proceeds on his general principle clearly enough.
 He points out, in his pleasant way, why it is exactly that
 Roman Catholicism is such a degrading superstition.  And he adds
 (which is what interests me at the moment) that this was illustrated
-in the Dark Ages, which were a nightmare of misery and ignorance.
+in the Dark Ages, which were a [[nightmare]] of misery and ignorance.
 He then admits handsomely that Protestantism is not quite so debased
 and devilish as Catholicism; and that men of the Protestant nations
 do exhibit rudimentary traces of the human form.  But this, he says,
 "is not due to their Protestantism, but to their Nordic common sense."
 They are more educated, more liberal, more familiar with reason
-and beauty, because they are what used to be called Teutonic;
+and [[Beauty|beauty]], because they are what used to be called Teutonic;
 descended from Vikings and Gothic chiefs rather than from the Tribunes
 of Florence or the Troubadours of Provence.  And in this curious idea
 I caught a glimpse of something much wider and more interesting;
@@ -84,25 +84,25 @@ do not even know where to look for the North Pole.
 
 Take, for instance, that remark about the Dark Ages and the Nordic
 common sense.  It is tenable and tolerable enough to say
-that the Dark Ages were a nightmare.  But it is nonsense to say
+that the Dark Ages were a [[nightmare]].  But it is nonsense to say
 that the Nordic element was anything remotely resembling sense.
-If the Dark Ages were a nightmare, it was very largely because
-the Nordic nonsense made them an exceedingly Nordic nightmare.
+If the Dark Ages were a [[nightmare]], it was very largely because
+the Nordic nonsense made them an exceedingly Nordic [[nightmare]].
 It was the period of the barbarian invasions; when piracy
 was on the high seas and civilisation was in the monasteries.
 You may not like monasteries, or the sort of civilisation that
 is preserved by monasteries; but it is quite certain that it
 was the only sort of civilisation there was.  But this is simply
 one of the things that the Nordic gentleman does not know.
-He imagines that the Danish pirate was talking about Tariff Reform
+He imagines that the Danish pirate was talking about Tariff [[Reform]]
 and Imperial Preference, with scientific statistics from Australia
 and Alaska, when he was rudely interrupted by a monk named Bede,
 who had never heard of anything but monkish fables.  He supposes
 that a Viking or a Visigoth was firmly founded on the principles
-of the Primrose League and the English Speaking Union, and that
+of the Primrose League and the English Speaking [[Union]], and that
 everything else would have been founded on them if fanatical priests
-had not rushed in and proclaimed the savage cult called Christianity.
-He thinks that Penda of Mercia, the last heathen king, was just about
+had not rushed in and proclaimed the savage cult called [[Christianity]].
+He thinks that Penda of Mercia, the last heathen [[King|king]], was just about
 to give the whole world the benefits of the British Constitution,
 not to mention the steam engine and the works of Rudyard Kipling,
 when his work was blindly ruined by unlettered ruffians with such names
@@ -114,10 +114,10 @@ The difficulty consists in the annoying detail that nothing
 like what he is thinking about ever happened in the world at all;
 that the religion of race that he proposes is exactly what he himself
 calls the Dark Ages.  It is what some scientific persons call
-a purely subjective idea; or in other words, a nightmare.
+a purely subjective idea; or in other words, a [[nightmare]].
 It is very doubtful if there ever was any Nordic race.
 It is quite certain that there never was any Nordic common sense.
-The very words "common sense" are a translation from the Latin.
+The very words "common sense" are a [[Translation|translation]] from the Latin.
 
 Now that one typical or even trivial case has a larger application.
 One very common form of Protestant or rationalist ignorance may
@@ -133,33 +133,33 @@ They may in some cases be related to deeper realities; but most
 men would not even recognise them in the form in which these men
 present them.  There is probably, for instance, a fundamental
 assumption of human brotherhood that is common to all humanity.
-But what we call humanitarianism is not common to humanity.
+But what we call [[Humanitarianism|humanitarianism]] is not common to humanity.
 There is a certain recognition of reality and unreality which may
 be called common sense.  But the scientific sense of the special
-value of truth is not generally regarded as common sense.
+value of [[Truth|truth]] is not generally regarded as common sense.
 It is silly to pretend that priests specially persecuted a naturalist,
-when the truth is that all the little boys would have persecuted him
+when the [[Truth|truth]] is that all the little boys would have persecuted him
 in any village in the world, merely because he was a lunatic with a
 butterfly-net. Public opinion, taken as a whole is much more contemptuous
-of specialists and seekers after truth than the Church ever was.
+of specialists and seekers after [[Truth|truth]] than the Church ever was.
 But these critics never can take public opinion as a whole.
-There are a great many examples of this truth; one is the case I
+There are a great many examples of this [[Truth|truth]]; one is the case I
 have given, the absurd notion that a horde of heathen raiders out of
-the northern seas and forests, in the most ignorant epoch of history,
+the northern seas and forests, in the most ignorant epoch of [[history]],
 were not likely to be at least as ignorant as anybody else.
 They were, of course, much more ignorant than anybody with
-the slightest social connection with the Catholic Church.
+the slightest social connection with the [[Catholic Church]].
 Other examples may be found in the story of other religions.
 Great tracts of the globe, covered in theory by the other religions,
 are often covered in practice merely by certain human habits of fatalism
-or pessimism or some other human mood.  Islam very largely stands
+or pessimism or some other human mood.  [[Islam]] very largely stands
 for the fatalism.  Buddhism very largely stands for the pessimism.
 Neither of them knows anything of either the Christian or the humanitarian
-sort of hope.  But an even more convincing experience is to go out into
+sort of [[Hope|hope]].  But an even more convincing experience is to go out into
 the street, or into a tube or a tram, and talk to the actual cabmen,
 cooks and charwomen cut off from the Creed by the modern chaos.
 You will find that heathens are not happy, however Nordic.
 You will soon find that you do not need to go to Arabia for fatalism;
-or to the Thibetan desert for despair.
+or to the Thibetan [[Desert|desert]] for [[Despair|despair]].
 
 -/-

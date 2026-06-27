@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 11 (part 4)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 11 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,15 +15,15 @@ tags:
 
 
 Edwin had turned red and turned white, as certain points of this
-picture came into the light. He now sat looking at the fire, and bit
+picture came into the light. He now sat looking at the [[Fire|fire]], and bit
 his lip.
 
 “The speculations of an Angular man,” resumed Mr. Grewgious, still
 sitting and speaking exactly as before, “are probably erroneous on so
 globular a topic. But I figure to myself (subject, as before, to Mr.
 Edwin’s correction), that there can be no coolness, no lassitude, no
-doubt, no indifference, no half fire and half smoke state of mind, in a
-real lover. Pray am I at all near the mark in my picture?”
+[[Doubt|doubt]], no indifference, no half [[Fire|fire]] and half smoke state of mind, in a
+real [[Lover|lover]]. Pray am I at all near the mark in my picture?”
 
 As abrupt in his conclusion as in his commencement and progress, he
 jerked this inquiry at Edwin, and stopped when one might have supposed
@@ -36,7 +36,7 @@ me—”
 
 “I should say, then, sir,” Edwin went on, embarrassed, “that the
 picture you have drawn is generally correct; but I submit that perhaps
-you may be rather hard upon the unlucky lover.”
+you may be rather hard upon the unlucky [[Lover|lover]].”
 
 “Likely so,” assented Mr. Grewgious, “likely so. I am a hard man in the
 grain.”
@@ -49,24 +49,24 @@ unexpectedly striking in with:
 
 “No to be sure; he _may_ not!”
 
-After that, they all sat silent; the silence of Mr. Bazzard being
+After that, they all sat silent; the [[Silence|silence]] of Mr. Bazzard being
 occasioned by slumber.
 
 “His responsibility is very great, though,” said Mr. Grewgious at
-length, with his eyes on the fire.
+length, with his eyes on the [[Fire|fire]].
 
-Edwin nodded assent, with _his_ eyes on the fire.
+Edwin nodded assent, with _his_ eyes on the [[Fire|fire]].
 
 “And let him be sure that he trifles with no one,” said Mr. Grewgious;
 “neither with himself, nor with any other.”
 
-Edwin bit his lip again, and still sat looking at the fire.
+Edwin bit his lip again, and still sat looking at the [[Fire|fire]].
 
 “He must not make a plaything of a treasure. Woe betide him if he does!
-Let him take that well to heart,” said Mr. Grewgious.
+Let him take that [[Well|well]] to heart,” said Mr. Grewgious.
 
 Though he said these things in short sentences, much as the
-supposititious charity boy just now referred to might have repeated a
+supposititious [[Charity|charity]] boy just now referred to might have repeated a
 verse or two from the Book of Proverbs, there was something dreamy (for
 so literal a man) in the way in which he now shook his right forefinger
 at the live coals in the grate, and again fell silent.
@@ -78,7 +78,7 @@ Edwin. Let me help you. I’ll help Bazzard too, though he _is_ asleep.
 He mightn’t like it else.”
 
 He helped them both, and helped himself, and drained his glass, and
-stood it bottom upward on the table, as though he had just caught a
+stood it [[Bottom|bottom]] upward on the table, as though he had just caught a
 bluebottle in it.
 
 “And now, Mr. Edwin,” he proceeded, wiping his mouth and hands upon his
@@ -99,40 +99,40 @@ sir.”
 “Not a business-like acknowledgment,” returned Mr. Grewgious; “however,
 let that pass. Now, in that document you have observed a few words of
 kindly allusion to its being left to me to discharge a little trust,
-confided to me in conversation, at such time as I in my discretion may
+confided to me in conversation, at such [[Time|time]] as I in my discretion may
 think best.”
 
 “Yes, sir.”
 
 “Mr. Edwin, it came into my mind just now, when I was looking at the
-fire, that I could, in my discretion, acquit myself of that trust at no
-better time than the present. Favour me with your attention, half a
+[[Fire|fire]], that I could, in my discretion, acquit myself of that trust at no
+better [[Time|time]] than the present. Favour me with your attention, half a
 minute.”
 
 He took a bunch of keys from his pocket, singled out by the
 candle-light the key he wanted, and then, with a candle in his hand,
-went to a bureau or escritoire, unlocked it, touched the spring of a
+went to a bureau or escritoire, unlocked it, touched the [[Spring|spring]] of a
 little secret drawer, and took from it an ordinary ring-case made for a
 single ring. With this in his hand, he returned to his chair. As he
 held it up for the young man to see, his hand trembled.
 
-“Mr. Edwin, this rose of diamonds and rubies delicately set in gold,
+“Mr. Edwin, this [[Rose|rose]] of diamonds and rubies delicately set in gold,
 was a ring belonging to Miss Rosa’s mother. It was removed from her
-dead hand, in my presence, with such distracted grief as I hope it may
+dead hand, in my presence, with such distracted grief as I [[Hope|hope]] it may
 never be my lot to contemplate again. Hard man as I am, I am not hard
 enough for that. See how bright these stones shine!” opening the case.
 “And yet the eyes that were so much brighter, and that so often looked
 upon them with a light and a proud heart, have been ashes among ashes,
-and dust among dust, some years! If I had any imagination (which it is
-needless to say I have not), I might imagine that the lasting beauty of
+and [[Dust|dust]] among [[Dust|dust]], some years! If I had any [[Imagination|imagination]] (which it is
+needless to say I have not), I might imagine that the lasting [[Beauty|beauty]] of
 these stones was almost cruel.”
 
 He closed the case again as he spoke.
 
 “This ring was given to the young lady who was drowned so early in her
 beautiful and happy career, by her husband, when they first plighted
-their faith to one another. It was he who removed it from her
-unconscious hand, and it was he who, when his death drew very near,
+their [[Faith|faith]] to one another. It was he who removed it from her
+unconscious hand, and it was he who, when his [[Death|death]] drew very near,
 placed it in mine. The trust in which I received it, was, that, you and
 Miss Rosa growing to manhood and womanhood, and your betrothal
 prospering and coming to maturity, I should give it to you to place
@@ -146,6 +146,6 @@ gave him the ring.
 “Your placing it on her finger,” said Mr. Grewgious, “will be the
 solemn seal upon your strict fidelity to the living and the dead. You
 are going to her, to make the last irrevocable preparations for your
-marriage. Take it with you.”
+[[Marriage|marriage]]. Take it with you.”
 
 The young man took the little case, and placed it in his breast.

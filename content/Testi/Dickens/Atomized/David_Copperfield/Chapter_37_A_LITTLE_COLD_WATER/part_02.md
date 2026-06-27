@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 37: A LITTLE COLD WATER (part 2)"
+title: "[[David Copperfield]] — Chapter 37: A LITTLE COLD [[Water|WATER]] (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -26,9 +26,9 @@ But I looked so serious, that Dora left off shaking her curls, and laid
 her trembling little hand upon my shoulder, and first looked scared
 and anxious, then began to cry. That was dreadful. I fell upon my knees
 before the sofa, caressing her, and imploring her not to rend my heart;
-but, for some time, poor little Dora did nothing but exclaim Oh dear! Oh
-dear! And oh, she was so frightened! And where was Julia Mills! And oh,
-take her to Julia Mills, and go away, please! until I was almost beside
+but, for some [[Time|time]], poor little Dora did nothing but exclaim Oh dear! Oh
+dear! And oh, she was so frightened! And where was [[Julia]] Mills! And oh,
+take her to [[Julia]] Mills, and go away, please! until I was almost beside
 myself.
 
 At last, after an agony of supplication and protestation, I got Dora
@@ -38,13 +38,13 @@ against mine. Then I told her, with my arms clasped round her, how I
 loved her, so dearly, and so dearly; how I felt it right to offer to
 release her from her engagement, because now I was poor; how I never
 could bear it, or recover it, if I lost her; how I had no fears of
-poverty, if she had none, my arm being nerved and my heart inspired by
-her; how I was already working with a courage such as none but lovers
+[[Poverty|poverty]], if she had none, my arm being nerved and my heart inspired by
+her; how I was already working with a [[Courage|courage]] such as none but [[lovers]]
 knew; how I had begun to be practical, and look into the future; how a
-crust well earned was sweeter far than a feast inherited; and much
+crust [[Well|well]] earned was sweeter far than a feast inherited; and much
 more to the same purpose, which I delivered in a burst of passionate
 eloquence quite surprising to myself, though I had been thinking about
-it, day and night, ever since my aunt had astonished me.
+it, day and [[Night|night]], ever since my aunt had astonished me.
 
 ‘Is your heart mine still, dear Dora?’ said I, rapturously, for I knew
 by her clinging to me that it was.
@@ -56,27 +56,27 @@ I dreadful! To Dora!
 ‘Don’t talk about being poor, and working hard!’ said Dora, nestling
 closer to me. ‘Oh, don’t, don’t!’
 
-‘My dearest love,’ said I, ‘the crust well-earned--’
+‘My dearest [[Love|love]],’ said I, ‘the crust [[Well|well]]-earned--’
 
 ‘Oh, yes; but I don’t want to hear any more about crusts!’ said Dora.
 ‘And Jip must have a mutton-chop every day at twelve, or he’ll die.’
 
 I was charmed with her childish, winning way. I fondly explained to Dora
 that Jip should have his mutton-chop with his accustomed regularity.
-I drew a picture of our frugal home, made independent by my
-labour--sketching in the little house I had seen at Highgate, and my
+I drew a picture of our frugal [[Home|home]], made independent by my
+labour--sketching in the little [[house]] I had seen at Highgate, and my
 aunt in her room upstairs.
 
 ‘I am not dreadful now, Dora?’ said I, tenderly.
 
-‘Oh, no, no!’ cried Dora. ‘But I hope your aunt will keep in her own
-room a good deal. And I hope she’s not a scolding old thing!’
+‘Oh, no, no!’ cried Dora. ‘But I [[Hope|hope]] your aunt will keep in her own
+room a good deal. And I [[Hope|hope]] she’s not a scolding old thing!’
 
-If it were possible for me to love Dora more than ever, I am sure I did.
+If it were possible for me to [[Love|love]] Dora more than ever, I am sure I did.
 But I felt she was a little impracticable. It damped my new-born ardour,
 to find that ardour so difficult of communication to her. I made another
 trial. When she was quite herself again, and was curling Jip’s ears, as
-he lay upon her lap, I became grave, and said:
+he lay upon her lap, I became [[Grave|grave]], and said:
 
 ‘My own! May I mention something?’
 
@@ -89,7 +89,7 @@ and inspire you, Dora!’
 
 ‘Oh, but that’s so shocking!’ cried Dora.
 
-‘My love, no. Perseverance and strength of character will enable us to
+‘My [[Love|love]], no. Perseverance and strength of character will enable us to
 bear much worse things.’ ‘But I haven’t got any strength at all,’
 said Dora, shaking her curls. ‘Have I, Jip? Oh, do kiss Jip, and be
 agreeable!’
@@ -104,18 +104,18 @@ of my graver character for I don’t know how long.
 ‘But, Dora, my beloved!’ said I, at last resuming it; ‘I was going to
 mention something.’
 
-The judge of the Prerogative Court might have fallen in love with her,
+The judge of the Prerogative [[Court]] might have fallen in [[Love|love]] with her,
 to see her fold her little hands and hold them up, begging and praying
 me not to be dreadful any more.
 
 ‘Indeed I am not going to be, my darling!’ I assured her. ‘But, Dora, my
-love, if you will sometimes think,--not despondingly, you know; far from
+[[Love|love]], if you will sometimes think,--not despondingly, you know; far from
 that!--but if you will sometimes think--just to encourage yourself--that
 you are engaged to a poor man--’
 
 ‘Don’t, don’t! Pray don’t!’ cried Dora. ‘It’s so very dreadful!’
 
-‘My soul, not at all!’ said I, cheerfully. ‘If you will sometimes think
+‘My [[Soul|soul]], not at all!’ said I, cheerfully. ‘If you will sometimes think
 of that, and look about now and then at your papa’s housekeeping, and
 endeavour to acquire a little habit--of accounts, for instance--’
 
@@ -132,13 +132,13 @@ brave. There are obstacles to be met, and we must meet, and crush them!’
 I was going on at a great rate, with a clenched hand, and a most
 enthusiastic countenance; but it was quite unnecessary to proceed. I had
 said enough. I had done it again. Oh, she was so frightened! Oh, where
-was Julia Mills! Oh, take her to Julia Mills, and go away, please!
+was [[Julia]] Mills! Oh, take her to [[Julia]] Mills, and go away, please!
 So that, in short, I was quite distracted, and raved about the
 drawing-room.
 
-I thought I had killed her, this time. I sprinkled water on her face.
+I thought I had killed her, this [[Time|time]]. I sprinkled [[Water|water]] on her face.
 I went down on my knees. I plucked at my hair. I denounced myself as a
-remorseless brute and a ruthless beast. I implored her forgiveness.
+remorseless brute and a ruthless beast. I implored her [[Forgiveness|forgiveness]].
 I besought her to look up. I ravaged Miss Mills’s work-box for a
 smelling-bottle, and in my agony of mind applied an ivory needle-case
 instead, and dropped all the needles over Dora. I shook my fists at Jip,

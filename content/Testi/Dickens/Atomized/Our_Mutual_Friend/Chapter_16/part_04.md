@@ -61,10 +61,10 @@ if I had been a chimney-sweep on May-day.’
 ‘Gracious!’ was the exclamation which amazement elicited from Mrs
 Lammle.
 
-‘There! I knew you’d wonder. But you won’t mention it, will you?’
+‘There! I knew you’d [[Wonder|wonder]]. But you won’t mention it, will you?’
 
-‘Upon my word, my love,’ said Mrs Lammle, ‘you make me ten times more
-desirous, now I talk to you, to know you well than I was when I sat over
+‘Upon my word, my [[Love|love]],’ said Mrs Lammle, ‘you make me ten times more
+desirous, now I talk to you, to know you [[Well|well]] than I was when I sat over
 yonder looking at you. How I wish we could be real friends! Try me as a
 real friend. Come! Don’t fancy me a frumpy old married woman, my dear;
 I was married but the other day, you know; I am dressed as a bride now,
@@ -75,7 +75,7 @@ you see. About the chimney-sweeps?’
 ‘She can’t hear from where she sits.’
 
 ‘Don’t you be too sure of that,’ said Miss Podsnap, in a lower voice.
-‘Well, what I mean is, that they seem to enjoy it.’
+‘[[Well]], what I mean is, that they seem to enjoy it.’
 
 ‘And that perhaps you would have enjoyed it, if you had been one of
 them?’
@@ -98,16 +98,16 @@ inoffensive aim of her existence.
 ‘It sounds horrid, don’t it?’ said Miss Podsnap, with a penitential
 face.
 
-Mrs Lammle, not very well knowing what to answer, resolved herself into
+Mrs Lammle, not very [[Well|well]] knowing what to answer, resolved herself into
 a look of smiling encouragement.
 
 ‘But it is, and it always has been,’ pursued Miss Podsnap, ‘such a trial
 to me! I so dread being awful. And it is so awful! No one knows what
-I suffered at Madame Sauteuse’s, where I learnt to dance and make
+I suffered at Madame Sauteuse’s, where I learnt to [[Dance|dance]] and make
 presentation-curtseys, and other dreadful things—or at least where they
 tried to teach me. Ma can do it.’
 
-‘At any rate, my love,’ said Mrs Lammle, soothingly, ‘that’s over.’
+‘At any rate, my [[Love|love]],’ said Mrs Lammle, soothingly, ‘that’s over.’
 
 ‘Yes, it’s over,’ returned Miss Podsnap, ‘but there’s nothing gained by
 that. It’s worse here, than at Madame Sauteuse’s. Ma was there, and Ma’s
@@ -120,11 +120,11 @@ eyes closed, and her head leaning back against the wall.
 
 But the Ogre advanced under the pilotage of Ma, and Ma said, ‘Georgiana,
 Mr Grompus,’ and the Ogre clutched his victim and bore her off to his
-castle in the top couple. Then the discreet automaton who had surveyed
+[[Castle|castle]] in the top couple. Then the discreet automaton who had surveyed
 his ground, played a blossomless tuneless ‘set,’ and sixteen disciples
 of Podsnappery went through the figures of - 1, Getting up at eight and
 shaving close at a quarter past - 2, Breakfasting at nine - 3, Going to
-the City at ten - 4, Coming home at half-past five - 5, Dining at seven,
+the [[City]] at ten - 4, Coming [[Home|home]] at half-past five - 5, Dining at seven,
 and the grand chain.
 
 While these solemnities were in progress, Mr Alfred Lammle (most loving
@@ -134,25 +134,25 @@ with Mrs Lammle’s bracelet. Slightly in contrast with this brief airy
 toying, one might have noticed a certain dark attention in Mrs Lammle’s
 face as she said some words with her eyes on Mr Lammle’s waistcoat, and
 seemed in return to receive some lesson. But it was all done as a breath
-passes from a mirror.
+passes from a [[Mirror|mirror]].
 
 And now, the grand chain riveted to the last link, the discreet
 automaton ceased, and the sixteen, two and two, took a walk among
 the furniture. And herein the unconsciousness of the Ogre Grompus was
-pleasantly conspicuous; for, that complacent monster, believing that
+pleasantly conspicuous; for, that complacent [[Monster|monster]], believing that
 he was giving Miss Podsnap a treat, prolonged to the utmost stretch
 of possibility a peripatetic account of an archery meeting; while his
 victim, heading the procession of sixteen as it slowly circled about,
 like a revolving funeral, never raised her eyes except once to steal a
-glance at Mrs Lammle, expressive of intense despair.
+glance at Mrs Lammle, expressive of intense [[Despair|despair]].
 
 At length the procession was dissolved by the violent arrival of a
 nutmeg, before which the drawing-room door bounced open as if it were a
 cannon-ball; and while that fragrant article, dispersed through several
-glasses of coloured warm water, was going the round of society, Miss
+glasses of coloured warm [[Water|water]], was going the round of society, Miss
 Podsnap returned to her seat by her new friend.
 
-‘Oh my goodness,’ said Miss Podsnap. ‘THAT’S over! I hope you didn’t
+‘Oh my goodness,’ said Miss Podsnap. ‘THAT’S over! I [[Hope|hope]] you didn’t
 look at me.’
 
 ‘My dear, why not?’

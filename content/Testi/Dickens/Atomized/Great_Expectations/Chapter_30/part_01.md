@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 30 (part 1)"
+title: "[[Great Expectations]] — Chapter 30 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,9 +17,9 @@ tags:
 Chapter XXX.
 
 
-After well considering the matter while I was dressing at the Blue Boar
+After [[Well|well]] considering the matter while I was dressing at the Blue Boar
 in the morning, I resolved to tell my guardian that I doubted Orlick’s
-being the right sort of man to fill a post of trust at Miss Havisham’s.
+being the right sort of man to fill a post of trust at [[Miss Havisham]]’s.
 “Why of course he is not the right sort of man, Pip,” said my guardian,
 comfortably satisfied beforehand on the general head, “because the man
 who fills the post of trust never is the right sort of man.” It seemed
@@ -33,10 +33,10 @@ himself might be difficult to deal with. “Oh no he won’t,” said my
 guardian, making his pocket-handkerchief-point, with perfect
 confidence; “I should like to see him argue the question with _me_.”
 
-As we were going back together to London by the midday coach, and as I
+As we were going back together to [[London]] by the midday coach, and as I
 breakfasted under such terrors of Pumblechook that I could scarcely
 hold my cup, this gave me an opportunity of saying that I wanted a
-walk, and that I would go on along the London road while Mr. Jaggers
+walk, and that I would go on along the [[London]] [[Road|road]] while Mr. Jaggers
 was occupied, if he would let the coachman know that I would get into
 my place when overtaken. I was thus enabled to fly from the Blue Boar
 immediately after breakfast. By then making a loop of about a couple of
@@ -59,13 +59,13 @@ beheld Trabb’s boy approaching, lashing himself with an empty blue bag.
 Deeming that a serene and unconscious contemplation of him would best
 beseem me, and would be most likely to quell his evil mind, I advanced
 with that expression of countenance, and was rather congratulating
-myself on my success, when suddenly the knees of Trabb’s boy smote
+myself on my [[success]], when suddenly the knees of Trabb’s boy smote
 together, his hair uprose, his cap fell off, he trembled violently in
-every limb, staggered out into the road, and crying to the populace,
+every limb, staggered out into the [[Road|road]], and crying to the populace,
 “Hold me! I’m so frightened!” feigned to be in a paroxysm of terror and
 contrition, occasioned by the dignity of my appearance. As I passed
 him, his teeth loudly chattered in his head, and with every mark of
-extreme humiliation, he prostrated himself in the dust.
+extreme humiliation, he prostrated himself in the [[Dust|dust]].
 
 This was a hard thing to bear, but this was nothing. I had not advanced
 another two hundred yards when, to my inexpressible terror, amazement,
@@ -73,24 +73,24 @@ and indignation, I again beheld Trabb’s boy approaching. He was coming
 round a narrow corner. His blue bag was slung over his shoulder, honest
 industry beamed in his eyes, a determination to proceed to Trabb’s with
 cheerful briskness was indicated in his gait. With a shock he became
-aware of me, and was severely visited as before; but this time his
+aware of me, and was severely visited as before; but this [[Time|time]] his
 motion was rotatory, and he staggered round and round me with knees
-more afflicted, and with uplifted hands as if beseeching for mercy. His
+more afflicted, and with uplifted hands as if beseeching for [[Mercy|mercy]]. His
 sufferings were hailed with the greatest joy by a knot of spectators,
 and I felt utterly confounded.
 
 I had not got as much further down the street as the post-office, when
-I again beheld Trabb’s boy shooting round by a back way. This time, he
+I again beheld Trabb’s boy shooting round by a back way. This [[Time|time]], he
 was entirely changed. He wore the blue bag in the manner of my
 great-coat, and was strutting along the pavement towards me on the
 opposite side of the street, attended by a company of delighted young
-friends to whom he from time to time exclaimed, with a wave of his
+friends to whom he from [[Time|time]] to [[Time|time]] exclaimed, with a wave of his
 hand, “Don’t know yah!” Words cannot state the amount of aggravation
 and injury wreaked upon me by Trabb’s boy, when passing abreast of me,
 he pulled up his shirt-collar, twined his side-hair, stuck an arm
-akimbo, and smirked extravagantly by, wriggling his elbows and body,
+akimbo, and smirked extravagantly by, wriggling his elbows and [[Body|body]],
 and drawling to his attendants, “Don’t know yah, don’t know yah, ’pon
-my soul don’t know yah!” The disgrace attendant on his immediately
+my [[Soul|soul]] don’t know yah!” The disgrace attendant on his immediately
 afterwards taking to crowing and pursuing me across the bridge with
 crows, as from an exceedingly dejected fowl who had known me when I was
 a blacksmith, culminated the disgrace with which I left the town, and
@@ -101,7 +101,7 @@ was, so to speak, ejected by it into the open country.
 But unless I had taken the life of Trabb’s boy on that occasion, I
 really do not even now see what I could have done save endure. To have
 struggled with him in the street, or to have exacted any lower
-recompense from him than his heart’s best blood, would have been futile
+recompense from him than his heart’s best [[Blood|blood]], would have been futile
 and degrading. Moreover, he was a boy whom no man could hurt; an
 invulnerable and dodging serpent who, when chased into a corner, flew
 out again between his captor’s legs, scornfully yelping. I wrote,
@@ -110,8 +110,8 @@ decline to deal further with one who could so far forget what he owed
 to the best interests of society, as to employ a boy who excited
 Loathing in every respectable mind.
 
-The coach, with Mr. Jaggers inside, came up in due time, and I took my
-box-seat again, and arrived in London safe,—but not sound, for my heart
+The coach, with Mr. Jaggers inside, came up in due [[Time|time]], and I took my
+box-seat again, and arrived in [[London]] safe,—but not sound, for my heart
 was gone. As soon as I arrived, I sent a penitential codfish and barrel
 of oysters to Joe (as reparation for not having gone myself), and then
 went on to Barnard’s Inn.

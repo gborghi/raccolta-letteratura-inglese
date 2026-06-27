@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act IV, Scene 3 — exchange (MONTJOY) [5]"
+title: "[[Henry V]] — Act IV, Scene 3 — exchange (MONTJOY) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -15,7 +15,7 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| MONTJOY | I shall, King Harry. And so fare thee well. Thou never shalt hear herald any more. |
-| KING HARRY | I fear thou wilt once more come for a ransom. Exit Montjoy Enter the Duke of York |
+| MONTJOY | I shall, [[King]] Harry. And so fare thee [[Well|well]]. Thou never shalt hear herald any more. |
+| [[King|KING]] HARRY | I [[Fear|fear]] thou wilt once more come for a ransom. Exit Montjoy Enter the [[Duke of York]] |
 | YORK | My lord, most humbly on my knee I beg The leading of the vanguard. |
-| KING HARRY | Take it, brave York.—Now soldiers, march away, And how thou pleasest, God, dispose the day. Exeunt |
+| [[King|KING]] HARRY | Take it, brave York.—Now soldiers, march away, And how thou pleasest, God, dispose the day. Exeunt |

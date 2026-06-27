@@ -32,7 +32,7 @@ bought the whole can; observing, as he tucked it under his
 arm, that it would help him to remember the address.
 
 "Later.  Our readers will be glad to hear that the legend
-of 'The Old Ship' sign has once more yielded to the
+of 'The Old [[Ship]]' sign has once more yielded to the
 wholesome scepticism of science.  Our representative reached
 Wyddington after the practical jokers, or whatever they
 were, had left; but he searched the whole frontage of Mr.
@@ -47,14 +47,14 @@ would also ruin all his previous plan of campaign.
 His pallid and classic profile was as immovable as a
 cameo; but anyone who had known him at all would
 have known that his brain was going like a motor
-car that has broken the speed limit long ago.
+car that has broken the [[Speed|speed]] limit long ago.
 
 Then he turned his head and said, "Please tell Hicks
 to bring round the long blue car in half an hour; it
 can be fitted up for a sofa.  And ask the gardener
 to cut a pole of about four feet nine inches, and put a
-cross-piece for a crutch.  I'm going up to London
-to-night."
+[[Cross|cross]]-piece for a crutch.  I'm going up to [[London]]
+to-[[Night|night]]."
 
 Mr. Leveson's lower jaw literally fell with
 astonishment.
@@ -74,13 +74,13 @@ It was a moment or two afterward that Enid Wimpole
 had come into the room, and striven in vain to
 shake his decision.  Then it was that Joan had been
 brought out of the turret and saw Philip standing,
-sustained upon a crutch of garden timber; and
+sustained upon a crutch of [[Garden|garden]] timber; and
 admired him as she had never admired him before.
 While he was being helped downstairs, while he was
 being propped in the car with such limited comfort
 as was possible, she did really feel in him something
 worthy of his ancient roots, worthy of such hills and
-of such a sea.  For she felt God's wind from nowhere
+of such a sea.  For she felt God's [[Wind|wind]] from nowhere
 which is called the Will; and is man's only excuse
 upon this earth.  In the small toot of the starting
 motor she could hear a hundred trumpets, such as
@@ -107,16 +107,16 @@ and Mr. Pump were quite clever enough to leave no
 more hints behind.
 
 Third, he guessed, by careful consideration of map
-and clock, that they could not get to so remote a
+and [[Clock|clock]], that they could not get to so remote a
 region in so cheap a car under something like two days,
 nor do anything very conclusive in less than three.
-Thus, he had just time to turn round in.
+Thus, he had just [[Time|time]] to turn round in.
 
 Fourth, he realised that ever since that day when
 Dalroy swung round the sign-board and smote the
 policeman into the ditch, Dalroy had swung round the
 Ivywood Act on Lord Ivywood.  He (Lord Ivywood)
-had thought, and might well have thought rightly, that
+had thought, and might [[Well|well]] have thought rightly, that
 by restricting the old sign-posts to a few places so
 select that they can afford to be eccentric, and forbidding
 such artistic symbols to all other places, he could
@@ -129,7 +129,7 @@ gentleman wished to claim the liberties of a Bohemian, the
 path would be open.  If a Bohemian wished to claim
 the liberties of a gentleman, the path would be shut.
 So, gradually, Lord Ivywood had thought, the old
-signs which can alone sell alcohol, will dwindle down
+signs which can [[Alone|alone]] sell alcohol, will dwindle down
 to mere curiosities, like Audit Ale or the Mead that
 may still be found in the New Forest.  The calculation
 was by no means unstatesmanlike.  But, like many
@@ -140,10 +140,10 @@ anywhere, it mattered little whether the result was
 enjoyment or disappointment for the populace.  In either
 case it must mean constant scandal or riot.  If there
 was one thing worse than the appearance of "The Old
-Ship" it was its disappearance.
+[[Ship]]" it was its disappearance.
 
 He realised that his own law was letting them loose
-every time; for the local authorities hesitated to act
+every [[Time|time]]; for the local authorities hesitated to act
 on the spot, in defiance of a symbol now so exclusive
 and therefore impressive.  He realised that the law
 must be altered.  Must be altered at once.  Must be

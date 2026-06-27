@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Dream of Turnbull"
+title: "ball and [[Cross|cross]] — The Dream of Turnbull"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -16,22 +16,22 @@ tags:
 
 XVI.  THE DREAM OF TURNBULL
 
-Turnbull was walking rather rampantly up and down the garden on
+Turnbull was walking rather rampantly up and down the [[Garden|garden]] on
 a gusty evening chewing his cigar and in that mood when every man
 suppresses an instinct to spit.  He was not, as a rule, a man much
 acquainted with moods; and the storms and sunbursts of MacIan's
-soul passed before him as an impressive but unmeaning panorama,
+[[Soul|soul]] passed before him as an impressive but unmeaning panorama,
 like the anarchy of Highland scenery.  Turnbull was one of those
 men in whom a continuous appetite and industry of the intellect
 leave the emotions very simple and steady.  His heart was in
 the right place; but he was quite content to leave it there.
 It was his head that was his hobby.  His mornings and evenings
-were marked not by impulses or thirsty desires, not by hope or
+were marked not by impulses or thirsty desires, not by [[Hope|hope]] or
 by heart-break; they were filled with the fallacies he had detected,
 the problems he had made plain, the adverse theories he had wrestled
 with and thrown, the grand generalizations he had justified.
-But even the cheerful inner life of a logician may be upset by a
-lunatic asylum, to say nothing of whiffs of memory from a lady
+But even the cheerful [[Inner Life|inner life]] of a logician may be upset by a
+lunatic asylum, to say nothing of whiffs of [[Memory|memory]] from a lady
 in Jersey, and the little red-bearded man on this windy evening
 was in a dangerous frame of mind.
 
@@ -40,14 +40,14 @@ have been greater on him than he imagined; and the weather that
 walked the world at that moment was as red and angry as Turnbull.
 Long strips and swirls of tattered and tawny cloud were dragged
 downward to the west exactly as torn red raiment would be dragged.
-And so strong and pitiless was the wind that it whipped away fragments
+And so strong and pitiless was the [[Wind|wind]] that it whipped away fragments
 of red-flowering bushes or of copper beech, and drove them also across
-the garden, a drift of red leaves, like the leaves of autumn,
-as in parody of the red and driven rags of cloud.
+the [[Garden|garden]], a drift of red [[Leaves|leaves]], like the [[Leaves|leaves]] of [[Autumn|autumn]],
+as in [[Parody|parody]] of the red and driven rags of cloud.
 
 There was a sense in earth and heaven as of everything breaking up,
 and all the revolutionist in Turnbull rejoiced that it was breaking up.
-The trees were breaking up under the wind, even in the tall strength
+The trees were breaking up under the [[Wind|wind]], even in the tall strength
 of their bloom:  the clouds were breaking up and losing even their
 large heraldic shapes.  Shards and shreds of copper cloud split off
 continually and floated by themselves, and for some reason the truculent
@@ -56,21 +56,21 @@ which seemed to him to career in an exaggerated manner.
 Also it kept its shape, which is unusual with clouds shaken off;
 also its shape was of an odd sort.
 
-Turnbull continued to stare at it, and in a little time occurred that
+Turnbull continued to stare at it, and in a little [[Time|time]] occurred that
 crucial instant when a thing, however incredible, is accepted as a fact.
 The copper cloud was tumbling down towards the earth, like some
 gigantic leaf from the copper beeches.  And as it came nearer it
 was evident, first, that it was not a cloud, and, second, that it was
-not itself of the colour of copper; only, being burnished like a mirror,
+not itself of the colour of copper; only, being burnished like a [[Mirror|mirror]],
 it had reflected the red-brown colours of the burning clouds.
 As the thing whirled like a windswept leaf down towards the wall
-of the garden it was clear that it was some sort of air-ship made
+of the [[Garden|garden]] it was clear that it was some sort of air-[[Ship|ship]] made
 of metal, and slapping the air with big broad fins of steel.
-When it came about a hundred feet above the garden, a shaggy,
+When it came about a hundred feet above the [[Garden|garden]], a shaggy,
 lean figure leapt up in it, almost black against the bronze
 and scarlet of the west, and, flinging out a kind of hook
 or anchor, caught on to the green apple-tree just under the wall;
-and from that fixed holding ground the ship swung in the red tempest
+and from that fixed holding ground the [[Ship|ship]] swung in the red tempest
 like a captive balloon.
 
 While our friend stood frozen for an instant by his astonishment,
@@ -79,41 +79,41 @@ down by leaping over the side of it, seemed to slide or drop
 down the rope like a monkey, and alighted (with impossible
 precision and placidity) seated on the edge of the wall,
 over which he kicked and dangled his legs as he grinned at Turnbull.
-The wind roared in the trees yet more ruinous and desolate, the red
+The [[Wind|wind]] roared in the trees yet more ruinous and desolate, the red
 tails of the sunset were dragged downward like red dragons sucked
-down to death, and still on the top of the asylum wall sat the sinister
+down to [[Death|death]], and still on the top of the asylum wall sat the sinister
 figure with the grimace, swinging his feet in tune with the tempest;
 while above him, at the end of its tossing or tightened cord,
-the enormous iron air-ship floated as light and as little noticed
+the enormous iron air-[[Ship|ship]] floated as light and as little noticed
 as a baby's balloon upon its string.
 
 Turnbull's first movement after sixty motionless seconds was
 to turn round and look at the large, luxuriant parallelogram
-of the garden and the long, low rectangular building beyond.
-There was not a soul or a stir of life within sight.  And he had
+of the [[Garden|garden]] and the long, low rectangular building beyond.
+There was not a [[Soul|soul]] or a stir of life within sight.  And he had
 a quite meaningless sensation, as if there never really had been
 any one else there except he since the foundation of the world.
 
-Stiffening in himself the masculine but mirthless courage
+Stiffening in himself the masculine but mirthless [[Courage|courage]]
 of the atheist, he drew a little nearer to the wall and,
 catching the man at a slightly different angle of the evening light,
 could see his face and figure quite plain.  Two facts about him stood
 out in the picked colours of some piratical schoolboy's story.
-The first was that his lean brown body was bare to the belt of his
+The first was that his lean brown [[Body|body]] was bare to the belt of his
 loose white trousers; the other that through hygiene, affectation,
 or whatever other cause, he had a scarlet handkerchief tied tightly
 but somewhat aslant across his brow.  After these two facts
 had become emphatic, others appeared sufficiently important.
 One was that under the scarlet rag the hair was plentiful, but white
-as with the last snows of mortality.  Another was that under the mop
+as with the last snows of [[Mortality|mortality]].  Another was that under the mop
 of white and senile hair the face was strong, handsome, and smiling,
-with a well-cut profile and a long cloven chin.  The length of this
+with a [[Well|well]]-cut profile and a long cloven chin.  The length of this
 lower part of the face and the strange cleft in it (which gave
-the man, in quite another sense from the common one, a double chin)
+the man, in quite another sense from the common one, a [[Double|double]] chin)
 faintly spoilt the claim of the face to absolute regularity,
 but it greatly assisted it in wearing the expression of half-smiling
 and half-sneering arrogance with which it was staring at all the stones,
-all the flowers, but especially at the solitary man.
+all the [[Flowers|flowers]], but especially at the solitary man.
 
 "What do you want?" shouted Turnbull.
 
@@ -139,7 +139,7 @@ but I do bar their coming from outside, bang out of the sunset clouds."
 in a voice almost affectionate.
 
 "What do you want?" asked Turnbull, with an explosion of temper
-as sudden as a pistol shot.
+as sudden as a [[Pistol|pistol]] shot.
 
 "I have already told you," said the man, lowering his voice and
 speaking with evident sincerity; "I want you."
@@ -149,7 +149,7 @@ speaking with evident sincerity; "I want you."
 "I want exactly what you want," said the new-comer with a new gravity.
 "I want the Revolution."
 
-Turnbull looked at the fire-swept sky and the wind-stricken woodlands,
+Turnbull looked at the [[Fire|fire]]-swept sky and the [[Wind|wind]]-stricken woodlands,
 and kept on repeating the word voicelessly to himself--the word
 that did indeed so thoroughly express his mood of rage as it had
 been among those red clouds and rocking tree-tops. "Revolution!"
@@ -159,19 +159,19 @@ right enough--anything, so long as it is a Revolution."
 To some cause he could never explain he found himself completing
 the sentence on the top of the wall, having automatically followed
 the stranger so far.  But when the stranger silently indicated the rope
-that led to the machine, he found himself pausing and saying:
+that led to the [[Machine|machine]], he found himself pausing and saying:
 "I can't leave MacIan behind in this den."
 
 "We are going to destroy the Pope and all the kings," said the new-comer.
 "Would it be wiser to take him with us?"
 
-Somehow the muttering Turnbull found himself in the flying ship also,
+Somehow the muttering Turnbull found himself in the flying [[Ship|ship]] also,
 and it swung up into the sunset.
 
 "All the great rebels have been very little rebels,"
 said the man with the red scarf.  "They have been like
 fourth-form boys who sometimes venture to hit a fifth-form boy.
-That was all the worth of their French Revolution and regicide.
+That was all the worth of their [[French Revolution]] and regicide.
 The boys never really dared to defy the schoolmaster."
 
 "Whom do you mean by the schoolmaster?" asked Turnbull.
@@ -183,17 +183,17 @@ They seemed rising into stronger and stronger sunlight, as if it were
 sunrise rather than sunset.  But when they looked down at the earth
 they saw it growing darker and darker.  The lunatic asylum in its large
 rectangular grounds spread below them in a foreshortened and infantile
-plan, and looked for the first time the grotesque thing that it was.
+plan, and looked for the first [[Time|time]] the [[Grotesque|grotesque]] thing that it was.
 But the clear colours of the plan were growing darker every moment.
-The masses of rose or rhododendron deepened from crimson to violet.
-The maze of gravel pathways faded from gold to brown.  By the time
+The masses of [[Rose|rose]] or rhododendron deepened from crimson to violet.
+The maze of gravel pathways faded from gold to brown.  By the [[Time|time]]
 they had risen a few hundred feet higher nothing could be seen
 of that darkening landscape except the lines of lighted windows,
 each one of which, at least, was the light of one lost intelligence.
 But on them as they swept upward better and braver winds seemed
 to blow, and on them the ruby light of evening seemed struck,
 and splashed like red spurts from the grapes of Dionysus.  Below them
-the fallen lights were literally the fallen stars of servitude.
+the fallen lights were literally the fallen [[Stars|stars]] of servitude.
 And above them all the red and raging clouds were like the leaping
 flags of liberty.
 
@@ -219,7 +219,7 @@ All the high things are sinking low and all the big things looking small.
 All the people who think they are aspiring find they are falling
 head foremost.  And all the people who think they are condescending find
 they are climbing up a precipice.  That is the intoxication of space.
-That is the only joy of eternity--doubt.  There is only one pleasure
+That is the only joy of [[Eternity|eternity]]--[[Doubt|doubt]].  There is only one pleasure
 the angels can possibly have in flying, and that is, that they
 do not know whether they are on their head or their heels."
 
@@ -235,10 +235,10 @@ I have known him for a month, and I have not retracted a single----"
 "This Catholicism is a curious thing," said the man of the cloven
 chin in uninterrupted reflectiveness, leaning his elegant elbows
 over the edge of the vessel; "it soaks and weakens men without
-their knowing it, just as I fear it has soaked and weakened you."
+their knowing it, just as I [[Fear|fear]] it has soaked and weakened you."
 
-Turnbull stood in an attitude which might well have meant pitching
-the other man out of the flying ship.
+Turnbull stood in an attitude which might [[Well|well]] have meant pitching
+the other man out of the flying [[Ship|ship]].
 
 "I am an atheist," he said, in a stifled voice.
 "I have always been an atheist.  I am still an atheist."
@@ -255,7 +255,7 @@ into his seat.
 The other continued still unruffled, and staring over the edge idly
 as an angler stares down at a stream.
 
-"The truth is that we never thought that you could have been caught,"
+"The [[Truth|truth]] is that we never thought that you could have been caught,"
 he said; "we counted on you as the one red-hot revolutionary left
 in the world.  But, of course, these men like MacIan are awfully clever,
 especially when they pretend to be stupid."
@@ -265,7 +265,7 @@ Turnbull leapt up again in a living fury and cried:
 and disbelieve all I ever disbelieved.  What does all this mean,
 and what do you want with me here?"
 
-Then for the first time the other lifted himself from the edge
+Then for the first [[Time|time]] the other lifted himself from the edge
 of the car and faced him.
 
 "I have brought you here," he answered, "to take part in the last
@@ -283,43 +283,43 @@ it will destroy it."
 
 "I only mean what you mean," answered the unknown in a temperate voice.
 "What was it that you always meant on those million and one nights
-when you walked outside your Ludgate Hill shop and shook your hand
+when you walked outside your Ludgate [[Hill]] shop and shook your hand
 in the air?"
 
 "Still I do not see," said Turnbull, stubbornly.
 
 "You will soon," said the other, and abruptly bent downward one iron
-handle of his huge machine.  The engine stopped, stooped, and dived
+handle of his huge [[Machine|machine]].  The engine stopped, stooped, and dived
 almost as deliberately as a man bathing; in their downward rush
 they swept within fifty yards of a big bulk of stone that Turnbull
-knew only too well.  The last red anger of the sunset was ended;
+knew only too [[Well|well]].  The last red anger of the sunset was ended;
 the dome of heaven was dark; the lanes of flaring light in the streets
 below hardly lit up the base of the building.  But he saw that it was
-St. Paul's Cathedral, and he saw that on the top of it the ball was still
-standing erect, but the cross was stricken and had fallen sideways.
+St. Paul's [[Cathedral]], and he saw that on the top of it the ball was still
+standing erect, but the [[Cross|cross]] was stricken and had fallen sideways.
 Then only he cared to look down into the streets, and saw that they
 were inflamed with uproar and tossing passions.
 
-"We arrive at a happy moment," said the man steering the ship.
-"The insurgents are bombarding the city, and a cannon-ball has
-just hit the cross.  Many of the insurgents are simple people,
+"We arrive at a happy moment," said the man steering the [[Ship|ship]].
+"The insurgents are bombarding the [[City|city]], and a cannon-ball has
+just hit the [[Cross|cross]].  Many of the insurgents are simple people,
 and they naturally regard it as a happy omen."
 
 "Quite so," said Turnbull, in a rather colourless voice.
 
 "Yes," replied the other.  "I thought you would be glad to see
-your prayer answered.  Of course I apologize for the word prayer."
+your [[Prayer|prayer]] answered.  Of course I apologize for the word [[Prayer|prayer]]."
 
 "Don't mention it," said Turnbull.
 
-The flying ship had come down upon a sort of curve, and was now
-rising again.  The higher and higher it rose the broader and broader
+The flying [[Ship|ship]] had come down upon a sort of curve, and was now
+rising again.  The higher and higher it [[Rose|rose]] the broader and broader
 became the scenes of flame and desolation underneath.
 
-Ludgate Hill indeed had been an uncaptured and comparatively quiet height,
-altered only by the startling coincidence of the cross fallen awry.
-All the other thoroughfares on all sides of that hill were full
-of the pulsation and the pain of battle, full of shaking torches
+Ludgate [[Hill]] indeed had been an uncaptured and comparatively quiet height,
+altered only by the startling coincidence of the [[Cross|cross]] fallen awry.
+All the other thoroughfares on all sides of that [[Hill|hill]] were full
+of the pulsation and the [[Pain|pain]] of battle, full of shaking torches
 and shouting faces.  When at length they had risen high enough
 to have a bird's-eye view of the whole campaign, Turnbull was
 already intoxicated.  He had smelt gunpowder, which was the incense
@@ -342,7 +342,7 @@ over them just now----"
 Turnbull looked down and saw that the polished car was literally
 lit up from underneath by the far-flung fires from below.
 Underneath whole squares and solid districts were in flames,
-like prairies or forests on fire.
+like prairies or forests on [[Fire|fire]].
 
 "Dr. Hertz has convinced everybody," said Turnbull's cicerone
 in a smooth voice, "that nothing can really be done with
@@ -350,7 +350,7 @@ the real slums.  His celebrated maxim has been quite adopted.
 I mean the three celebrated sentences:  'No man should be unemployed.
 Employ the employables.  Destroy the unemployables.'"
 
-There was a silence, and then Turnbull said in a rather strained voice:
+There was a [[Silence|silence]], and then Turnbull said in a rather strained voice:
 "And do I understand that this good work is going on under here?"
 
 "Going on splendidly," replied his companion in the heartiest voice.
@@ -362,14 +362,14 @@ the social war.  They were a definite hindrance to it."
 "It _does_ seem absurdly simple," said the man, with a beaming smile,
 "when one thinks of all the worry and talk about helping a hopeless
 slave population, when the future obviously was only crying to be
-rid of them.  There are happy babes unborn ready to burst the doors
+rid of them.  There are happy babes [[unborn]] ready to burst the doors
 when these drivellers are swept away."
 
 "Will you permit me to say," said Turnbull, after reflection,
 "that I don't like all this?"
 
 "And will you permit me to say," said the other, with a snap,
-"that I don't like Mr. Evan MacIan?"
+"that I don't like Mr. [[Evan MacIan]]?"
 
 Somewhat to the speaker's surprise this did not inflame the sensitive
 sceptic; he had the air of thinking thoroughly, and then he said:
@@ -383,7 +383,7 @@ Then he added with a more open sneer:  "Perhaps they also have souls."
 "They have lives!" said Turnbull, sternly; "that is quite enough for me.
 I understood you to say that you thought life sacred."
 
-"Yes, indeed!" cried his mentor with a sort of idealistic animation.
+"Yes, indeed!" cried his [[Mentor|mentor]] with a sort of idealistic animation.
 "Yes, indeed!  Life is sacred--but lives are not sacred.
 We are improving Life by removing lives.  Can you, as a free-thinker,
 find any fault in that?"
@@ -396,12 +396,12 @@ You approve of taking away life from those to whom it is a triumph
 and a pleasure.  But you will not take away life from those to whom
 it is a burden and a toil."
 
-Turnbull rose to his feet in the car with considerable deliberation,
+Turnbull [[Rose|rose]] to his feet in the car with considerable deliberation,
 but his face seemed oddly pale.  The other went on with enthusiasm.
 
 "Life, yes, Life is indeed sacred!" he cried; "but new lives for old!
 Good lives for bad!  On that very place where now there sprawls one
-drunken wastrel of a pavement artist more or less wishing he were dead--
+drunken wastrel of a pavement [[artist]] more or less wishing he were dead--
 on that very spot there shall in the future be living pictures;
 there shall be golden girls and boys leaping in the sun."
 
@@ -427,31 +427,31 @@ to exactly the same lunatic asylum from which I came."
 
 "Because I want a little sane and wholesome society," answered Turnbull.
 
-There was a long and peculiar silence, and then the man driving
-the flying machine said quite coolly:  "I won't take you back."
+There was a long and peculiar [[Silence|silence]], and then the man driving
+the flying [[Machine|machine]] said quite coolly:  "I won't take you back."
 
 And then Turnbull said equally coolly:  "Then I'll jump out
 of the car."
 
-The unknown rose to his full height, and the expression in his
+The unknown [[Rose|rose]] to his full height, and the expression in his
 eyes seemed to be made of ironies behind ironies, as two mirrors
 infinitely reflect each other.  At last he said, very gravely:
 "Do you think I am the devil?"
 
-"Yes," said Turnbull, violently.  "For I think the devil is a dream,
-and so are you.  I don't believe in you or your flying ship
-or your last fight of the world.  It is all a nightmare.
-I say as a fact of dogma and faith that it is all a nightmare.
-And I will be a martyr for my faith as much as St. Catherine,
-for I will jump out of this ship and risk waking up safe in bed."
+"Yes," said Turnbull, violently.  "For I think the devil is [[A Dream|a dream]],
+and so are you.  I don't believe in you or your flying [[Ship|ship]]
+or your last fight of the world.  It is all a [[nightmare]].
+I say as a fact of dogma and [[Faith|faith]] that it is all a [[nightmare]].
+And I will be a martyr for my [[Faith|faith]] as much as St. Catherine,
+for I will jump out of this [[Ship|ship]] and risk waking up safe in bed."
 
 After swaying twice with the swaying vessel he dived over the side
-as one dives into the sea.  For some incredible moments stars and space
+as one dives into the sea.  For some incredible moments [[Stars|stars]] and space
 and planets seemed to shoot up past him as the sparks fly upward; and yet
 in that sickening descent he was full of some unnatural happiness.
 He could connect it with no idea except one that half escaped him--
-what Evan had said of the difference between Christ and Satan;
-that it was by Christ's own choice that He descended into hell.
+what Evan had said of the difference between [[Christ]] and [[Satan]];
+that it was by [[Christ]]'s own choice that He descended into hell.
 
 When he again realized anything, he was lying on his elbow on
 the lawn of the lunatic asylum, and the last red of the sunset

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 25 (part 3)"
+title: "[[Shirley]] — Chapter 25 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-ugly. Not at all! On the contrary, when well dressed and cheerful you
+ugly. Not at all! On the contrary, when [[Well|well]] dressed and cheerful you
 
 are very comely indeed; your smile is so pleasant, your teeth are so
 
@@ -56,7 +56,7 @@ handkerchief and resmoothed her hair.
 
 thought of their relationship, "who belongs to me, and to whom I belong!
 
-I am a rich girl now. I have something I can love well, and not be
+I am a rich girl now. I have something I can [[Love|love]] [[Well|well]], and not be
 
 afraid of loving. Mamma, who gave you this little brooch? Let me unpin
 
@@ -114,7 +114,7 @@ Caroline had lived to see her niece!"
 
 "Ah, mamma, you mean your teasing daughter, who will never let you
 
-alone; who, when you go into your room, cannot help running to seek for
+[[Alone|alone]]; who, when you go into your room, cannot help running to seek for
 
 you; who follows you upstairs and down, like a dog."
 
@@ -122,7 +122,7 @@ you; who follows you upstairs and down, like a dog."
 
 "Whose features still give me such a strange thrill sometimes. I half
 
-fear your fair looks yet, child."
+[[Fear|fear]] your fair looks yet, [[Child|child]]."
 
 
 
@@ -130,7 +130,7 @@ fear your fair looks yet, child."
 
 he had been. Wickedness spoils and poisons all pleasant things. It kills
 
-love. If you and I thought each other wicked, we could not love each
+[[Love|love]]. If you and I thought each other wicked, we could not [[Love|love]] each
 
 other, could we?"
 
@@ -164,7 +164,7 @@ propriety of expression or purity of accent."
 
 "I wish I could reciprocate the compliment, Cary; but, really, the first
 
-time I heard your truly excellent friend read and preach I could not
+[[Time|time]] I heard your truly excellent friend read and preach I could not
 
 understand his broad northern tongue."
 
@@ -176,7 +176,7 @@ understand his broad northern tongue."
 
 "No. I almost wished you had, as I wished you had looked unpolished.
 
-Your father, Caroline, naturally spoke well, quite otherwise than your
+Your father, Caroline, naturally spoke [[Well|well]], quite otherwise than your
 
 worthy uncle--correctly, gently, smoothly. You inherit the gift."
 
@@ -186,7 +186,7 @@ worthy uncle--correctly, gently, smoothly. You inherit the gift."
 
 
 
-"Why he was _as_ he was--and happily of that you, child, can form no
+"Why he was _as_ he was--and happily of that you, [[Child|child]], can form no
 
 conception--I cannot tell. It is a deep mystery. The key is in the hands
 
@@ -206,7 +206,7 @@ favourite--Cowper."
 
 These importunities were the mother's pleasure. If ever she delayed
 
-compliance, it was only to hear them repeated, and to enjoy her child's
+compliance, it was only to hear them repeated, and to enjoy her [[Child|child]]'s
 
 soft, half-playful, half-petulant urgency. And then, when she yielded,
 

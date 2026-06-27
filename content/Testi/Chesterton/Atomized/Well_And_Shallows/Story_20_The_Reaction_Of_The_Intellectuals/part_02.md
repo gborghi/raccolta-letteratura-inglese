@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — The Reaction Of The Intellectuals (part 2)"
+title: "[[Well]] And Shallows — The Reaction Of The Intellectuals (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
 Now, at this moment, the marching column of mankind is in an
 extraordinary position.  For one thing, it is not marching.
-But it is marking time; because it still has the general notion
+But it is marking [[Time|time]]; because it still has the general notion
 that it ought to march.  It may seem quaint to recur to Macaulay
-as well as Whitman; but it is better described in Macaulay's
+as [[Well|well]] as Whitman; but it is better described in Macaulay's
 poem of Horatius than in Whitman's poem about the Pioneers;
-though to many, I fear, Whitman is now as distant as Macaulay.
+though to many, I [[Fear|fear]], Whitman is now as distant as Macaulay.
 But it is really true that the exact and very extraordinary
 position of the procession at this moment is expressed with
 precision in the familiar lines:
@@ -35,10 +35,10 @@ doubtful about the desirability of advancing.  It is exactly those who
 are content to follow tradition or convention or familiar fashions
 who are still following (as they suppose, at least) the tradition
 of progress, the convention of movement and the hundred fashions,
-familiar to the nineteenth-century, of appealing to the hope of change.
+familiar to the nineteenth-century, of appealing to the [[Hope|hope]] of change.
 Men are progressive because they are a little behind the times.
 They are reactionary because they are a little in advance of the times.
-It sounds like a paradox; but it is really a very practical
+It sounds like a [[Paradox|paradox]]; but it is really a very practical
 and even inevitable state of things, given certain conditions.
 Those behind will still cry "Forward!"; and only those far in front
 will cry "Back!"; when the vanguard of the army has come suddenly
@@ -57,10 +57,10 @@ by the advance; and are, therefore, under the illusion that it
 is still advancing.  The particular state of mind I mean
 (which is not always a very pretty state of mind at present)
 is peculiar to a section of the younger Intellectuals.
-And, whatever it is, it is not a positive faith in the
+And, whatever it is, it is not a positive [[Faith|faith]] in the
 promise of the future or the tendencies of the present.
 If we take any typical contemporary poetry of the sort that is
-sensitive and critical, say the poems of Mr. Osbert Sitwell,
+sensitive and critical, say the [[Poems|poems]] of Mr. Osbert Sitwell,
 it is quite obvious that they are not merely in revolt
 against the nineteenth-century; though the progressive theory
 was bound up with the nineteenth-century. They are in revolt
@@ -79,11 +79,11 @@ But he is far too intelligent a man not to see that those
 who would prove themselves progressive, by abandoning
 all capital letters, can only prove themselves still more
 progressive by abandoning all small letters; and that this
-sort of destructive reform can only end in a blank page.
+sort of destructive [[Reform|reform]] can only end in a blank page.
 So this kind of destructive progress ends in a blank wall.
 Mr. Sitwell may think himself right, in this or that case, in attaching
 a musical adjective to an entirely visual or pictorial substantive.
-But he can see, as well as anybody else, that if a hundred howling
+But he can see, as [[Well|well]] as anybody else, that if a hundred howling
 imitators come in and claim the right to attach any adjective
 to any substantive, it is not so much a question of literature
 being lawless as of its ceasing to be anything at all.
@@ -100,12 +100,12 @@ and the inheritor ot a name already famous for a very English style
 I will take the cases of Mr. T. S. Eliot and Mr Aldous Huxley.
 They are different enough of course; but they exactly express
 two different ways of recoiling from the recent riot and vulgarity
-of the merely "modern" world.  Mr. Eliot, who began like a child of his
-age with the recognised stark and jagged experiments in free verse,
-has come to have something like a suspicion of every sort of freedom.
+of the merely "modern" world.  Mr. Eliot, who began like a [[Child|child]] of his
+age with the recognised stark and jagged experiments in [[Free Verse|free verse]],
+has come to have something like a suspicion of every sort of [[Freedom|freedom]].
 He had come to stand for an almost cloistered refinement,
 full of the virginal traditions of old religion and repudiating not
-only the demagogy of to-day but even the democracy of yesterday.
+only the demagogy of to-day but even the [[Democracy|democracy]] of yesterday.
 There are passages in the works of Mr. Aldous Huxley which few
 will call cloistered, which few, perhaps, will call virginal.
 But he is none the less a representative ol the same reaction
@@ -114,7 +114,7 @@ of Swift; showing the ugly their own ugliness; even pelting
 the filthy with samples of their own filth.  But he is, if not on
 the side of the angels, at least horribly bored with the devils.
 Anyone who will read his admirable account of Hollywood,
-which he calls, "The City of Dreadful Joy," will find it more
+which he calls, "The [[City]] of Dreadful Joy," will find it more
 dreadful than joyful.  There is a fight against the recent licence;
 but what is fighting it is a sort of fierce fastidiousness.
 I am not imagining this reaction because I want it;

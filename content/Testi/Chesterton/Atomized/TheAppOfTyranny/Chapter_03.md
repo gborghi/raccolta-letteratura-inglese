@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 2"
+title: "[[TheAppOfTyranny]] — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -34,11 +34,11 @@ vow or the contract, which Prussian intellectualism would destroy. I urged
 
 that the Prussian is a spiritual Barbarian, because he is not bound by his
 
-own past, any more than a man in a dream. He avows that when he promised to
+own past, any more than a man in [[A Dream|a dream]]. He avows that when he promised to
 
 respect a frontier on Monday, he did not foresee what he calls "the
 
-necessity" of not respecting it on Tuesday. In short, he is like a child,
+necessity" of not respecting it on Tuesday. In short, he is like a [[Child|child]],
 
 who at the end of all reasonable explanations and reminders of admitted
 
@@ -48,17 +48,17 @@ arrangements, has no answer except "But I _want_ to."
 
 There is another idea in human arrangements so fundamental as to be
 
-forgotten; but now for the first time denied. It may be called the idea of
+forgotten; but now for the first [[Time|time]] denied. It may be called the idea of
 
 reciprocity; or, in better English, of give and take. The Prussian appears
 
 to be quite intellectually incapable of this thought. He cannot, I think,
 
-conceive the idea that is the foundation of all comedy; that, in the eyes
+conceive the idea that is the foundation of all [[Comedy|comedy]]; that, in the eyes
 
 of the other man, he is only the other man. And if we carry this clue
 
-through the institutions of Prussianised Germany, we shall find how
+through the institutions of Prussianised [[Germany]], we shall find how
 
 curiously his mind has been limited in the matter. The German differs from
 
@@ -74,19 +74,19 @@ they would still be singing sadly about how fast and true stands the watch
 
 on Rhine; and what a shame it would be if any one took their own little
 
-river away from them. That is what I mean by not being reciprocal: and you
+[[River|river]] away from them. That is what I mean by not being reciprocal: and you
 
 will find it in all that they do: as in all that is done by savages.
 
 
 
-Here, again, it is very necessary to avoid confusing this soul of the
+Here, again, it is very necessary to avoid confusing this [[Soul|soul]] of the
 
 savage with mere savagery in the sense of brutality or butchery; in which
 
 the Greeks, the French and all the most civilised nations have indulged in
 
-hours of abnormal panic or revenge. Accusations of cruelty are generally
+hours of abnormal panic or [[Revenge|revenge]]. Accusations of cruelty are generally
 
 mutual. But it is the point about the Prussian that with him nothing is
 
@@ -104,9 +104,9 @@ world believes all he sees in the newspapers; and no journalist believes a
 
 quarter of it. We should, therefore, be quite ready in the ordinary way to
 
-take a great deal off the tales of German atrocities; to doubt this story
+take a great deal off the tales of German atrocities; to [[Doubt|doubt]] this story
 
-or deny that. But there is one thing that we cannot doubt or deny: the seal
+or deny that. But there is one thing that we cannot [[Doubt|doubt]] or deny: the seal
 
 and authority of the Emperor. In the Imperial proclamation the fact that
 
@@ -116,7 +116,7 @@ ground of their frightfulness. It was a military necessity to terrify the
 
 peaceful populations with something that was not civilised, something that
 
-was hardly human. Very well. That is an intelligible policy: and in that
+was hardly human. Very [[Well|well]]. That is an intelligible policy: and in that
 
 sense an intelligible argument. An army endangered by foreigners may do the
 
@@ -128,7 +128,7 @@ States, to complain that the English are using Dum-dum bullets and
 
 violating various regulations of the Hague Conference. I pass for the
 
-present the question of whether there is a word of truth in these charges.
+present the question of whether there is a word of [[Truth|truth]] in these charges.
 
 I am content to gaze rapturously at the blinking eyes of the True, or
 
@@ -148,7 +148,7 @@ free to break the law; and also to appeal to the law. It is said that the
 
 Prussian officers play at a game called Kriegsspiel, or the War Game. But
 
-in truth they could not play at any game; for the essence of every game is
+in [[Truth|truth]] they could not play at any game; for the essence of every game is
 
 that the rules are the same on both sides.
 
@@ -160,21 +160,21 @@ is not a case of mere bloodshed or military bravado. The duel, for
 
 example, can legitimately be called a barbaric thing; but the word is here
 
-used in another sense. There are duels in Germany; but so there are in
+used in another sense. There are duels in [[Germany]]; but so there are in
 
-France, Italy, Belgium, and Spain; indeed, there are duels wherever there
+France, [[Italy]], Belgium, and Spain; indeed, there are duels wherever there
 
-are dentists, newspapers, Turkish baths, time-tables, and all the curses of
+are dentists, newspapers, Turkish baths, [[Time|time]]-tables, and all the curses of
 
-civilisation; except in England and a corner of America. You may happen to
+civilisation; except in England and a corner of [[america|America]]. You may happen to
 
 regard the duel as a historic relic of the more barbaric States on which
 
-these modern States were built. It might equally well be maintained that
+these modern States were built. It might equally [[Well|well]] be maintained that
 
 the duel is everywhere the sign of high civilisation; being the sign of its
 
-more delicate sense of honour, its more vulnerable vanity, or its greater
+more delicate sense of [[Honour|honour]], its more vulnerable [[Vanity|vanity]], or its greater
 
 dread of social disrepute. But whichever of the two views you take, you
 
@@ -200,7 +200,7 @@ we hear numberless stories, some of them certainly true. It might be called
 
 the one-sided duel. I mean the idea that there is some sort of dignity in
 
-drawing the sword upon a man who has not got a sword; a waiter, or a shop
+drawing the [[Sword|sword]] upon a man who has not got a [[Sword|sword]]; a waiter, or a shop
 
 assistant, or even a schoolboy. One of the officers of the Kaiser in the
 
@@ -214,7 +214,7 @@ Others besides German soldiers have slain the defenceless, for loot or lust
 
 or private malice, like any other murderer. The point is that nowhere else
 
-but in Prussian Germany is any theory of honour mixed up with such things;
+but in Prussian [[Germany]] is any theory of [[Honour|honour]] mixed up with such things;
 
 any more than with poisoning or picking pockets. No French, English,
 
@@ -224,7 +224,7 @@ own character by sticking his sabre through some ridiculous greengrocer who
 
 had nothing in his hand but a cucumber. It would seem as if the word which
 
-is translated from the German as "honour" must really mean something quite
+is translated from the German as "[[Honour|honour]]" must really mean something quite
 
 different in German. It seems to mean something more like what we should
 
@@ -242,17 +242,17 @@ war, we are glorifying different things. Our medals are wrought like his,
 
 but they do not mean the same thing; our regiments are cheered as his are,
 
-but the thought in the heart is not the same; the Iron Cross is on the
+but the thought in the heart is not the same; the Iron [[Cross]] is on the
 
-bosom of his king, but it is not the sign of our God. For we, alas, follow
+bosom of his [[King|king]], but it is not the sign of our God. For we, alas, follow
 
-our God with many relapses and self-contradictions, but he follows his very
+our God with many relapses and [[Self|self]]-contradictions, but he follows his very
 
 consistently. Through all the things that we have examined, the view of
 
 national boundaries, the view of military methods, the view of personal
 
-honour and self-defence, there runs in their case something of an atrocious
+[[Honour|honour]] and [[Self|self]]-defence, there runs in their case something of an atrocious
 
 simplicity; something too simple for us to understand: the idea that glory
 
@@ -266,7 +266,7 @@ them. Let us leave, for the moment, the relation between man and man in
 
 the thing called the duel. Let us take the relation between man and woman,
 
-in that immortal duel which we call a marriage. Here again we shall find
+in that immortal duel which we call a [[Marriage|marriage]]. Here again we shall find
 
 that other Christian civilisations aim at some kind of equality; even if
 
@@ -274,9 +274,9 @@ the balance be irrational or dangerous. Thus, the two extremes of the
 
 treatment of women might be represented by what are called the respectable
 
-classes in America and in France. In America they choose the risk of
+classes in [[america|America]] and in France. In [[america|America]] they choose the risk of
 
-comradeship; in France the compensation of courtesy. In America it is
+[[Comradeship|comradeship]]; in France the compensation of courtesy. In [[america|America]] it is
 
 practically possible for any young gentleman to take any young lady for
 
@@ -292,9 +292,9 @@ holy terror. By both extremes the woman gets something back out of life.
 
 There is only one place where she gets little or nothing back; and that is
 
-the north of Germany. France and America aim alike at equality; America by
+the north of [[Germany]]. France and [[america|America]] aim alike at equality; [[america|America]] by
 
-similarity; France by dissimilarity. But North Germany does definitely
+similarity; France by dissimilarity. But North [[Germany]] does definitely
 
 aim at inequality. The woman stands up, with no more irritation than a
 
@@ -308,9 +308,9 @@ will be observed that he does not say "poker"; which might come more
 
 naturally to the mind of a more common or Christian wife-beater. But then a
 
-poker is a part of domesticity; and might be used by the wife as well as
+poker is a part of domesticity; and might be used by the wife as [[Well|well]] as
 
-the husband. In fact, it often is. The sword and the whip are the weapons
+the husband. In fact, it often is. The [[Sword|sword]] and the whip are the weapons
 
 of a privileged caste.
 
@@ -322,9 +322,9 @@ the most distant of all differences, that of the remote and unrelated races
 
 who have seldom seen each other's faces, and never been tinged with each
 
-other's blood. Here we still find the same unvarying Prussian principle.
+other's [[Blood|blood]]. Here we still find the same unvarying Prussian principle.
 
-Any European might feel a genuine fear of the Yellow Peril; and many
+Any European might feel a genuine [[Fear|fear]] of the Yellow Peril; and many
 
 Englishmen, Frenchmen, and Russians have felt and expressed it. Many might
 
@@ -334,9 +334,9 @@ he ever advances against us he will trample and torture and utterly
 
 destroy, in a way that Eastern people do, but Western people do not. Nor do
 
-I doubt the German Emperor's sincerity when he sought to point out to us
+I [[Doubt|doubt]] the German Emperor's sincerity when he sought to point out to us
 
-how abnormal and abominable such a nightmare campaign would be, supposing
+how abnormal and abominable such a [[nightmare]] campaign would be, supposing
 
 that it could ever come. But now comes the comic irony; which never fails
 
@@ -350,13 +350,13 @@ them, in so many words, to be Huns: and leave nothing living or standing
 
 behind them. In fact, he frankly offered a new army corps of aboriginal
 
-Tartars to the Far East, within such time as it may take a bewildered
+Tartars to the Far East, within such [[Time|time]] as it may take a bewildered
 
 Hanoverian to turn into a Tartar. Any one who has the painful habit of
 
 personal thought, will perceive here at once the non-reciprocal principle
 
-again. Boiled down to its bones of logic, it means simply this: "I am a
+again. Boiled down to its bones of [[logic]], it means simply this: "I am a
 
 German and you are a Chinaman. Therefore I, being a German, have a right
 
@@ -400,7 +400,7 @@ men. Certainly there can be no better summary of the savage than this,
 
 which as we have seen, unfits him for the duel. He is the man who cannot
 
-love--no, nor even hate--his neighbour as himself.
+[[Love|love]]--no, nor even hate--his neighbour as himself.
 
 
 
@@ -408,7 +408,7 @@ But this quality in Prussia does have one effect which has reference to the
 
 same question of the lower civilisations. It disposes once and for all at
 
-least of the civilising mission of Germany. Evidently the Germans are the
+least of the civilising mission of [[Germany]]. Evidently the Germans are the
 
 last people in the world to be trusted with the task. They are as
 
@@ -438,7 +438,7 @@ in serious official documents, that the difference between him and us is a
 
 difference between "the master-race and the inferior-race." The collapse of
 
-German philosophy always occurs at the beginning rather than the end of an
+German [[philosophy]] always occurs at the beginning rather than the end of an
 
 argument; and the difficulty here is that there is no way of testing which
 
@@ -446,9 +446,9 @@ is a master-race except by asking which is your own race. If you cannot
 
 find out (as is usually the case) you fall back on the absurd occupation of
 
-writing history about pre-historic times. But I suggest quite seriously
+writing [[history]] about pre-historic times. But I suggest quite seriously
 
-that if the Germans can give their philosophy to the Hottentots, there is
+that if the Germans can give their [[philosophy]] to the Hottentots, there is
 
 no reason why they should not give their sense of superiority to the
 
@@ -464,7 +464,7 @@ so black as he is painted. For this principle of a quite unproved racial
 
 supremacy is the last and worst of the refusals of reciprocity. The
 
-Prussian calls all men to admire the beauty of his large blue eyes. If they
+Prussian calls all men to admire the [[Beauty|beauty]] of his large blue eyes. If they
 
 do, it is because they have inferior eyes: if they don't, it is because
 
@@ -476,7 +476,7 @@ Wherever the most miserable remnant of our race, astray and dried up in
 
 deserts, or buried forever under the fall of bad civilisations, has some
 
-feeble memory that men are men, that bargains are bargains, that there are
+feeble [[Memory|memory]] that men are men, that bargains are bargains, that there are
 
 two sides to a question, or even that it takes two to make a quarrel--that
 
@@ -486,6 +486,6 @@ the splintered stone. For the Prussian begins all his culture by that act
 
 which is the destruction of all creative thought and constructive action.
 
-He breaks that mirror in the mind, in which a man can see the face of his
+He breaks that [[Mirror|mirror]] in the mind, in which a man can see the face of his
 
 friend or foe.

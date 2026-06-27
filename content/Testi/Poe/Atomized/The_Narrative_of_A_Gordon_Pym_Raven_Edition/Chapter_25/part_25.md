@@ -16,7 +16,7 @@ tags:
 
       drop Talbot, and proceed on a short tour to the East; leaving the
 
-      fashionable world at home to make whatever comments upon the
+      fashionable world at [[Home|home]] to make whatever comments upon the
 
       matter it thought best.
 
@@ -44,7 +44,7 @@ tags:
 
 
 
-      I found Talbot at home, and proceeded at once to acquaint him
+      I found Talbot at [[Home|home]], and proceeded at once to acquaint him
 
       with my good fortune. He professed excessive astonishment, of
 
@@ -66,9 +66,9 @@ tags:
 
       It had been determined for us by Talbot, that, as we were to be
 
-      up all night, we should make our first stop at C——, a village
+      up all [[Night|night]], we should make our first stop at C——, a village
 
-      about twenty miles from the city, and there get an early
+      about twenty miles from the [[City|city]], and there get an early
 
       breakfast and some repose, before proceeding upon our route. At
 
@@ -112,13 +112,13 @@ tags:
 
       easily do I call to mind the precise words of the dear promise
 
-      you made to Eugénie last night. Listen! You spoke thus: ‘It is
+      you made to Eugénie last [[Night|night]]. Listen! You spoke thus: ‘It is
 
       done!—it is most cheerfully agreed! I sacrifice every feeling for
 
-      your sake. To-night I wear this dear eye-glass as an eye-glass,
+      your sake. To-[[Night|night]] I wear this dear eye-glass as an eye-glass,
 
-      and upon my heart; but with the earliest dawn of that morning
+      and upon my heart; but with the earliest [[Dawn|dawn]] of that morning
 
       which gives me the privilege of calling you wife, I will place it
 
@@ -126,13 +126,13 @@ tags:
 
       less romantic, and less fashionable, but certainly in the more
 
-      serviceable, form which you desire.’ These were the exact words,
+      serviceable, form which you [[Desire|desire]].’ These were the exact words,
 
       my beloved husband, were they not?”
 
 
 
-      “They were,” I said; “you have an excellent memory; and
+      “They were,” I said; “you have an excellent [[Memory|memory]]; and
 
       assuredly, my beautiful Eugénie, there is no disposition on my
 
@@ -188,7 +188,7 @@ tags:
 
       floor, confronting Mrs. Simpson, with my arms set a-kimbo, and
 
-      grinning and foaming, but, at the same time, utterly speechless
+      grinning and foaming, but, at the same [[Time|time]], utterly speechless
 
       with terror and with rage.
 
@@ -216,4 +216,4 @@ tags:
 
       astonishment, for some moments—“Vell, Monsieur?—and vat den?—vat
 
-      de matter now? Is it de dance of de Saint itusse dat you ave? If
+      de matter now? Is it de [[Dance|dance]] of de Saint itusse dat you ave? If

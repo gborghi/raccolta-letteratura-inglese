@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 7)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -28,7 +28,7 @@ habitation. This is where it differs most perhaps from the crooked
 
 landings and unexpected levels of the old English inns, even when they
 
-call themselves hotels. To me there was something weird, like a magic
+call themselves hotels. To me there was something weird, like a [[Magic|magic]]
 
 multiplication, in the exquisite sameness of these suites. It seemed to
 
@@ -36,29 +36,29 @@ suggest the still atmosphere of some eerie psychological story. I once
 
 myself entertained the notion of a story, in which a man was to be
 
-prevented from entering his house (the scene of some crime or calamity)
+prevented from entering his [[house]] (the scene of some crime or calamity)
 
-by people who painted and furnished the next house to look exactly like
+by people who painted and furnished the next [[house]] to look exactly like
 
 it; the assimilation going to the most fantastic lengths, such as
 
-altering the numbering of houses in the street. I came to America and
+altering the numbering of houses in the street. I came to [[America]] and
 
 found an hotel fitted and upholstered throughout for the enactment of my
 
-phantasmal fraud. I offer the skeleton of my story with all humility to
+phantasmal fraud. I offer the [[skeleton]] of my story with all [[Humility|humility]] to
 
-some of the admirable lady writers of detective stories in America, to
+some of the admirable lady writers of [[Detective|detective]] stories in [[America]], to
 
 Miss Carolyn Wells, or Miss Mary Roberts Rhinehart, or Mrs. A. K. Green
 
 of the unforgotten Leavenworth Case. Surely it might be possible for the
 
-unsophisticated Nimrod K. Moose, of Yellow Dog Flat, to come to New York
+unsophisticated Nimrod K. Moose, of Yellow Dog Flat, to come to [[New York]]
 
 and be entangled somehow in this net of repetitions or recurrences.
 
-Surely something tells me that his beautiful daughter, the Rose of Red
+Surely something tells me that his beautiful daughter, the [[Rose]] of Red
 
 Murder Gulch, might seek for him in vain amid the apparently
 
@@ -72,7 +72,7 @@ two floors looked exactly alike to the virginal Western eye. The
 
 original point of my own story was that the man to be entrapped walked
 
-into his own house after all, in spite of it being differently painted
+into his own [[house]] after all, in spite of it being differently painted
 
 and numbered, simply because he was absent-minded and used to taking a
 
@@ -86,7 +86,7 @@ talk metaphorically; for it is something that a mechanism cannot do. But
 
 I think there is only one real objection to my story of Mr. Moose in the
 
-New York hotel. And that is unfortunately a rather fatal one. It is that
+[[New York]] hotel. And that is unfortunately a rather fatal one. It is that
 
 far away in the remote desolation of Yellow Dog, among those outlying
 
@@ -102,7 +102,7 @@ Anyhow the general plan of the American hotel is commonly the same, and,
 
 as I have said, it is a very sound one so far as it goes. When I first
 
-went into one of the big New York hotels, the first impression was
+went into one of the big [[New York]] hotels, the first impression was
 
 certainly its bigness. It was called the Biltmore; and I wondered how
 
@@ -118,23 +118,23 @@ that I was in some sort of high street or market-place during a carnival
 
 or a revolution. True, the people looked rather rich for a revolution
 
-and rather grave for a carnival; but they were congested in great crowds
+and rather [[Grave|grave]] for a carnival; but they were congested in great crowds
 
 that moved slowly like people passing through an overcrowded railway
 
 station. Even in the dizzy heights of such a sky-scraper there could not
 
-possibly be room for all those people to sleep in the hotel, or even to
+possibly be room for all those people to [[Sleep|sleep]] in the hotel, or even to
 
 dine in it. And, as a matter of fact, they did nothing whatever except
 
 drift into it and drift out again. Most of them had no more to do with
 
-the hotel than I have with Buckingham Palace. I have never been in
+the hotel than I have with [[Buckingham]] Palace. I have never been in
 
-Buckingham Palace, and I have very seldom, thank God, been in the big
+[[Buckingham]] Palace, and I have very seldom, thank God, been in the big
 
-hotels of this type that exist in London or Paris. But I cannot believe
+hotels of this type that exist in [[London]] or [[Paris]]. But I cannot believe
 
 that mobs are perpetually pouring through the Hotel Cecil or the Savoy
 
@@ -158,7 +158,7 @@ them myself, I trust it is not unsympathetic to compare them to active
 
 anthropoids who can climb trees, and so look down in safety on the herds
 
-or packs of wilder animals wandering and prowling below. Of course there
+or packs of wilder [[Animals|animals]] wandering and prowling below. Of course there
 
 are modifications of this architectural plan, but they are generally
 

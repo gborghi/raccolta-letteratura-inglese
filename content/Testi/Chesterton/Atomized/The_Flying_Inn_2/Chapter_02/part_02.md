@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-"It iss as clear as the sun at noon," he said solemnly.
-"It iss as clear as the sun at noon that this word Bull,
+"It iss as clear as the sun at [[Noon|noon]]," he said solemnly.
+"It iss as clear as the sun at [[Noon|noon]] that this word Bull,
 which is devoid of restful and pleasurable associations,
 is but the corruption of another word, which possesses
 restful and pleasurable associations.  The word is not
-Bull; it is the Bul-Bul!"  His voice rose suddenly like
+Bull; it is the Bul-Bul!"  His voice [[Rose|rose]] suddenly like
 a trumpet and he spread abroad his hands like the fans
 of a tropic palm-tree.
 
@@ -46,7 +46,7 @@ little Ireland.  I will have a little Scotland.  I will have
 a little Spain?'  No--o."  And the noise of the negative
 seemed to waggle as does the bleating of a sheep.
 "You say, 'I will have a little Turkey,' which is your
-name for the Country of the Servant of the Prophet!"
+name for the Country of the Servant of the [[Prophet]]!"
 
 And once more he stretched out his arms sublimely
 to the east and west and appealed to earth and heaven.
@@ -64,36 +64,36 @@ littlest bit!"
 "In reply to this you will object--" proceeded her
 preceptor, "that some inns are actually named after the
 symbols of your national superstitions.  You will hasten
-to point out to me that the Golden Cross is situated
-opposite Charing Cross, and you will expatiate at
-length on King's Cross, Gerrard's Cross and the many
-crosses that are to be found in or near London.  But
+to point out to me that the Golden [[Cross]] is situated
+opposite Charing [[Cross]], and you will expatiate at
+length on [[King]]'s [[Cross]], Gerrard's [[Cross]] and the many
+crosses that are to be found in or near [[London]].  But
 you must not forget," and here he wagged his green
 umbrella roguishly at the girl, as if he was going to
 poke her with it, "none of you, my friends, must
 forget what a large number of Crescents there are
-in London!  Denmark Crescent; Mornington Crescent!
+in [[London]]!  [[Denmark]] Crescent; Mornington Crescent!
 St. Mark's Crescent!  St. George's Crescent!
 Grosvenor Crescent!  Regent's Park Crescent!  Nay,
 Royal Crescent!  And why should we forget Pelham
 Crescent?  Why, indeed?  Everywhere, I say, homage
-paid to the holy symbol of the religion of the Prophet!
+paid to the holy symbol of the religion of the [[Prophet]]!
 Compare with this network and pattern of crescents,
-this city almost consisting of crescents, the meagre
-array of crosses, which remain to attest the ephemeral
+this [[City|city]] almost consisting of crescents, the meagre
+array of crosses, which remain to attest the [[ephemeral]]
 superstition to which you were, for one weak moment,
 inclined."
 
 The crowds on the beach were rapidly thinning as
-tea-time drew nearer.  The west grew clearer and
+tea-[[Time|time]] drew nearer.  The west grew clearer and
 clearer with the evening, till the sunshine seemed to
 have got behind the pale green sea and be shining
 through, as through a wall of thin green glass.  The
 very transparency of sky and sea might have to this
-girl, for whom the sea was the romance and the tragedy,
+girl, for whom the sea was the [[Romance|romance]] and the [[Tragedy|tragedy]],
 the hint of a sort of radiant hopelessness.  The
 flood made of a million emeralds was ebbing as slowly
-as the sun was sinking: but the river of human nonsense
+as the sun was sinking: but the [[River|river]] of human nonsense
 flowed on for ever.
 
 "I will not for one moment maintain," said the old
@@ -101,21 +101,21 @@ gentleman, "that there are no difficulties in my case;
 or that all the examples are as obviously true as those
 that I have just demonstrated.  No-o.  It is obvious,
 let us say, that the 'Saracen's Head' is a corruption of
-the historic truth 'The Saracen is Ahead'--I am far
+the historic [[Truth|truth]] 'The Saracen is Ahead'--I am far
 from saying it is equally obvious that the 'Green Dragon'
 was originally 'the Agreeing Dragoman'; though
-I hope to prove in my book that it is so.  I will only
+I [[Hope|hope]] to prove in my book that it is so.  I will only
 say here that it is su-urely more probable that one
 poo-ooting himself forward to attract the wayfarer
-in the desert, would compare himself to a friendly
+in the [[Desert|desert]], would compare himself to a friendly
 and persuadable guide or courier, rather than to a
-voracious monster.  Sometimes the true origin is very
+voracious [[Monster|monster]].  Sometimes the true origin is very
 hard to trace; as in the inn that commemorates our
 great Moslem Warrior, Amir Ali Ben Bhoze, whom
 you have so quaintly abbreviated into Admiral Benbow.
 Sometimes it is even more difficult for the seeker
-after truth.  There is a place of drink near to here
-called 'The Old Ship'--"
+after [[Truth|truth]].  There is a place of drink near to here
+called 'The Old [[Ship]]'--"
 
 The eyes of the girl remained on the ring of the
 horizon as rigid as the ring itself; but her whole face
@@ -125,21 +125,21 @@ his God; and those who had hoped to know what was
 being done to the paper boxes had gone away to their
 tea without knowing it.  But the young woman still
 leaned on the railing.  Her face was suddenly alive;
-and it looked as if her body could not move.
+and it looked as if her [[Body|body]] could not move.
 
 "It shood be admitted--" bleated the old man with
 the green umbrella, "that there is no literally
-self-evident trace of the Asiatic nomenclature in the words
-'the old ship.'  But even here the see-eeker after Truth
+[[Self|self]]-evident trace of the Asiatic nomenclature in the words
+'the old [[Ship|ship]].'  But even here the see-eeker after [[Truth]]
 can poot himself in touch with facts.  I questioned
-the proprietor of 'The Old Ship' who is, according to
+the proprietor of 'The Old [[Ship]]' who is, according to
 such notes as I have kept, a Mr. Pumph."
 
 The girl's lip trembled.
 
 "Poor old Hump!" she said.  "Why, I'd forgotten
 about him.  He must be very nearly as worried as I
-am!  I hope this man won't be too silly about this!
+am!  I [[Hope|hope]] this man won't be too silly about this!
 I'd rather it weren't about this!"
 
 "And Mr. Pumph to-old me the inn was named by
@@ -148,5 +148,5 @@ been a Captain in the Britannic Royal Navy, but had
 resigned his po-ost in anger at the treatment of
 Ireland.  Though quitting the service, he retained joost
 enough of the superstition of your western sailors, to
-wish his friend's inn to be named after his old ship.
-But as the name of the ship was 'The United Kingdom--'"
+wish his friend's inn to be named after his old [[Ship|ship]].
+But as the name of the [[Ship|ship]] was 'The United Kingdom--'"

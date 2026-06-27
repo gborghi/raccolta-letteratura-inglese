@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 35 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 35 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Not one,’ repeated Gashford again--taking the lion’s share of the
+‘Not one,’ repeated Gashford again--taking the [[Lion|lion]]’s share of the
 mulled wine between whiles.
 
 ‘And as we are honest, true, and in a sacred cause, Gashford,’ said Lord
@@ -50,7 +50,7 @@ walked rapidly up and down the room, then stopping suddenly, exclaimed,
 ‘I shone with a reflected light, my lord,’ replied the humble secretary,
 laying his hand upon his heart. ‘I did my best.’
 
-‘You did well,’ said his master, ‘and are a great and worthy instrument.
+‘You did [[Well|well]],’ said his master, ‘and are a great and worthy instrument.
 If you will ring for John Grueby to carry the portmanteau into my room,
 and will wait here while I undress, we will dispose of business as
 usual, if you’re not too tired.’
@@ -61,8 +61,8 @@ very hard into the mulled wine, to see how much remained.
 
 John Willet and John Grueby appeared together. The one bearing the great
 candlesticks, and the other the portmanteau, showed the deluded lord
-into his chamber; and left the secretary alone, to yawn and shake
-himself, and finally to fall asleep before the fire.
+into his chamber; and left the secretary [[Alone|alone]], to yawn and shake
+himself, and finally to fall asleep before the [[Fire|fire]].
 
 ‘Now, Mr Gashford sir,’ said John Grueby in his ear, after what appeared
 to him a moment of unconsciousness; ‘my lord’s abed.’
@@ -70,20 +70,20 @@ to him a moment of unconsciousness; ‘my lord’s abed.’
 ‘Oh. Very good, John,’ was his mild reply. ‘Thank you, John. Nobody need
 sit up. I know my room.’
 
-‘I hope you’re not a-going to trouble your head to-night, or my lord’s
+‘I [[Hope|hope]] you’re not a-going to trouble your head to-[[Night|night]], or my lord’s
 head neither, with anything more about Bloody Mary,’ said John. ‘I wish
 the blessed old creetur had never been born.’
 
 ‘I said you might go to bed, John,’ returned the secretary. ‘You didn’t
 hear me, I think.’
 
-‘Between Bloody Marys, and blue cockades, and glorious Queen Besses,
+‘Between Bloody Marys, and blue cockades, and glorious [[Queen]] Besses,
 and no Poperys, and Protestant associations, and making of speeches,’
 pursued John Grueby, looking, as usual, a long way off, and taking no
 notice of this hint, ‘my lord’s half off his head. When we go out o’
 doors, such a set of ragamuffins comes a-shouting after us, “Gordon
 forever!” that I’m ashamed of myself and don’t know where to look. When
-we’re indoors, they come a-roaring and screaming about the house like so
+we’re indoors, they come a-roaring and screaming about the [[house]] like so
 many devils; and my lord instead of ordering them to be drove away, goes
 out into the balcony and demeans himself by making speeches to ‘em, and
 calls ‘em “Men of England,” and “Fellow-countrymen,” as if he was fond
@@ -93,14 +93,14 @@ her name out till they’re hoarse. They’re all Protestants too--every man
 and boy among ‘em: and Protestants are very fond of spoons, I find, and
 silver-plate in general, whenever area-gates is left open accidentally.
 I wish that was the worst of it, and that no more harm might be to come;
-but if you don’t stop these ugly customers in time, Mr Gashford (and I
-know you; you’re the man that blows the fire), you’ll find ‘em grow a
+but if you don’t stop these ugly customers in [[Time|time]], Mr Gashford (and I
+know you; you’re the man that blows the [[Fire|fire]]), you’ll find ‘em grow a
 little bit too strong for you. One of these evenings, when the weather
-gets warmer and Protestants are thirsty, they’ll be pulling London
+gets warmer and Protestants are thirsty, they’ll be pulling [[London]]
 down,--and I never heard that Bloody Mary went as far as THAT.’
 
 Gashford had vanished long ago, and these remarks had been bestowed on
 empty air. Not at all discomposed by the discovery, John Grueby fixed
 his hat on, wrongside foremost that he might be unconscious of the
-shadow of the obnoxious cockade, and withdrew to bed; shaking his head
+[[Shadow|shadow]] of the obnoxious cockade, and withdrew to bed; shaking his head
 in a very gloomy and prophetic manner until he reached his chamber.

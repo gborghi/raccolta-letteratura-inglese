@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 5 (part 6)"
+title: "[[longbow2]] — Chapter 5 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -46,18 +46,18 @@ with very brilliant eyes and an elaborate load of light hair.
 said Oates, with tender reminiscence, "and so we saw it through."
 
 Pierce, who had been speculating with involuntary irreverence on
-the extreme difficulty of conducting a love-affair or a sentimental
+the extreme difficulty of conducting a [[Love|love]]-affair or a sentimental
 conversation in which one party had to address the other as Enoch,
 felt quite ashamed of his cynicism when the Star of Pork shone
 with such radiance in the eyes of his new friend.
 
-"It was a terrible time, but I stuck to Pork, sometimes feeling
+"It was a terrible [[Time|time]], but I stuck to Pork, sometimes feeling
 she could see clearer than I could; and of course she was right,
 and I've never known her wrong.  Then came my great chance of making
 the combination and freezing out competition; and I was able
 to give her the sort of things she ought to have and let her take
 the lead as she should.  I don't care for society much myself;
-but I'm often glad on a late night at the office to ring her up
+but I'm often glad on a late [[Night|night]] at the office to ring her up
 and hear she's enjoying it."
 
 He spoke with a ponderous simplicity that seemed to disarm and crush
@@ -66,18 +66,18 @@ things that are easily seen to be absurd; but even after they are
 seen to be absurd, they are still there.  It may be, after all,
 that that is the definition of the great things.
 
-"I reckon that's what people mean by the romance of business,"
+"I reckon that's what people mean by the [[Romance|romance]] of business,"
 continued Oates, "and though my business got bigger and bigger, it made
-me feel kinda pleased there had been a romance at the heart of it. 
+me feel kinda pleased there had been a [[Romance|romance]] at the heart of it. 
 It had to get bigger, because we wanted to make the combination
-water-tight all over the world.  I guess I had to fix things up a bit
+[[Water|water]]-tight all over the world.  I guess I had to fix things up a bit
 with your politicians.  But Congress men are alike all the world over,
 and it didn't trouble me any."
 
 There was a not uncommon conviction among those acquainted with
 Captain Hilary Pierce that that ingenious young man was cracked. 
 He did a great many things to justify the impression; and in one sense
-certainly had never shown any reluctance to make a fool of himself. 
+certainly had never shown any reluctance to make a [[Fool|fool]] of himself. 
 But if he was a lunatic, he was none the less a very English lunatic. 
 And the notion of talking about his most intimate affections,
 suddenly, to a foreigner in a hotel, merely because the conversation
@@ -91,12 +91,12 @@ that he hardly understood.
 He looked down at the table as he continued.
 
 "You said just now you were married to the best woman in the world. 
-Well, curiously enough, so am I. It's a coincidence that often happens. 
+[[Well]], curiously enough, so am I. It's a coincidence that often happens. 
 But it's a still more curious coincidence that, in our own quiet way,
 we went in for Pork too.  She kept pigs at the back of the little
-country inn where I met her; and at one time it looked as if the pigs
-might have to be given up.  Perhaps the inn as well.  Perhaps the wedding
-as well.  We were quite poor, as poor as you were when you started;
+country inn where I met her; and at one [[Time|time]] it looked as if the pigs
+might have to be given up.  Perhaps the inn as [[Well|well]].  Perhaps the wedding
+as [[Well|well]].  We were quite poor, as poor as you were when you started;
 and to the poor those extra modes of livelihood are often life. 
 We might have been ruined; and the reason was, I gather, that you
 had gone in for Pork.  But after all ours was the real pork;
@@ -104,12 +104,12 @@ pork that walked about on legs.  We made the bed for the pigs
 and filled the inside of the pig; you only bought and sold the name
 of the pig.  You didn't go to business with a live little pig under
 your arm or walk down Wall Street followed by a herd of swine. 
-It was a phantom pig, the ghost of a pig, that was able to kill
-our real pig and perhaps us as well.  Can you really justify the way
-in which your romance nearly ruined our romance?  Don't you think
+It was a [[Phantom|phantom]] pig, the [[Ghost|ghost]] of a pig, that was able to kill
+our real pig and perhaps us as [[Well|well]].  Can you really justify the way
+in which your [[Romance|romance]] nearly ruined our [[Romance|romance]]?  Don't you think
 there must be something wrong somewhere?"
 
-"Well," said Oates after a very long silence, "that's a mighty big
+"[[Well]]," said Oates after a very long [[Silence|silence]], "that's a mighty big
 question and will take a lot of discussing."
 
 But the end to which their discussion led must be left to reveal

@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 38 (part 2)"
+title: "[[Mansfield Park]] — Chapter 38 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -34,29 +34,29 @@ solicitude to feel for their fatigues and wants as travellers.
 began to think you would never come. Betsey and I have been watching
 for you this half-hour. And when did you get anything to eat? And what
 would you like to have now? I could not tell whether you would be for
-some meat, or only a dish of tea, after your journey, or else I would
+some meat, or only a dish of tea, after your [[Journey|journey]], or else I would
 have got something ready. And now I am afraid Campbell will be here
-before there is time to dress a steak, and we have no butcher at hand.
+before there is [[Time|time]] to dress a steak, and we have no butcher at hand.
 It is very inconvenient to have no butcher in the street. We were
-better off in our last house. Perhaps you would like some tea as soon
+better off in our last [[house]]. Perhaps you would like some tea as soon
 as it can be got.”
 
 They both declared they should prefer it to anything. “Then, Betsey, my
-dear, run into the kitchen and see if Rebecca has put the water on; and
+dear, run into the kitchen and see if Rebecca has put the [[Water|water]] on; and
 tell her to bring in the tea-things as soon as she can. I wish we could
 get the bell mended; but Betsey is a very handy little messenger.”
 
 Betsey went with alacrity, proud to shew her abilities before her fine
 new sister.
 
-“Dear me!” continued the anxious mother, “what a sad fire we have got,
+“Dear me!” continued the anxious mother, “what a sad [[Fire|fire]] we have got,
 and I dare say you are both starved with cold. Draw your chair nearer,
 my dear. I cannot think what Rebecca has been about. I am sure I told
 her to bring some coals half an hour ago. Susan, you should have taken
-care of the fire.”
+care of the [[Fire|fire]].”
 
 “I was upstairs, mama, moving my things,” said Susan, in a fearless,
-self-defending tone, which startled Fanny. “You know you had but just
+[[Self|self]]-defending tone, which startled Fanny. “You know you had but just
 settled that my sister Fanny and I should have the other room; and I
 could not get Rebecca to give me any help.”
 
@@ -74,24 +74,24 @@ on finding herself undistinguished in the dusk, and unthought of. With
 a friendly shake of his son’s hand, and an eager voice, he instantly
 began—“Ha! welcome back, my boy. Glad to see you. Have you heard the
 news? The Thrush went out of harbour this morning. Sharp is the word,
-you see! By G—, you are just in time! The doctor has been here
+you see! By G—, you are just in [[Time|time]]! The doctor has been here
 inquiring for you: he has got one of the boats, and is to be off for
 Spithead by six, so you had better go with him. I have been to Turner’s
-about your mess; it is all in a way to be done. I should not wonder if
-you had your orders to-morrow: but you cannot sail with this wind, if
+about your mess; it is all in a way to be done. I should not [[Wonder|wonder]] if
+you had your orders to-morrow: but you cannot sail with this [[Wind|wind]], if
 you are to cruise to the westward; and Captain Walsh thinks you will
 certainly have a cruise to the westward, with the Elephant. By G—, I
 wish you may! But old Scholey was saying, just now, that he thought you
-would be sent first to the Texel. Well, well, we are ready, whatever
+would be sent first to the Texel. [[Well]], [[Well|well]], we are ready, whatever
 happens. But by G—, you lost a fine sight by not being here in the
 morning to see the Thrush go out of harbour! I would not have been out
-of the way for a thousand pounds. Old Scholey ran in at breakfast-time,
+of the way for a thousand pounds. Old Scholey ran in at breakfast-[[Time|time]],
 to say she had slipped her moorings and was coming out, I jumped up,
 and made but two steps to the platform. If ever there was a perfect
-beauty afloat, she is one; and there she lays at Spithead, and anybody
+[[Beauty|beauty]] afloat, she is one; and there she lays at Spithead, and anybody
 in England would take her for an eight-and-twenty. I was upon the
 platform two hours this afternoon looking at her. She lays close to the
-Endymion, between her and the Cleopatra, just to the eastward of the
+[[Endymion]], between her and the [[Cleopatra]], just to the eastward of the
 sheer hulk.”
 
 “Ha!” cried William, “_that’s_ just where I should have put her myself.
@@ -107,11 +107,11 @@ shrunk back to her seat, with feelings sadly pained by his language and
 his smell of spirits; and he talked on only to his son, and only of the
 Thrush, though William, warmly interested as he was in that subject,
 more than once tried to make his father think of Fanny, and her long
-absence and long journey.
+absence and long [[Journey|journey]].
 
-After sitting some time longer, a candle was obtained; but as there was
+After sitting some [[Time|time]] longer, a candle was obtained; but as there was
 still no appearance of tea, nor, from Betsey’s reports from the
-kitchen, much hope of any under a considerable period, William
+kitchen, much [[Hope|hope]] of any under a considerable period, William
 determined to go and change his dress, and make the necessary
 preparations for his removal on board directly, that he might have his
 tea in comfort afterwards.
@@ -120,11 +120,11 @@ As he left the room, two rosy-faced boys, ragged and dirty, about eight
 and nine years old, rushed into it just released from school, and
 coming eagerly to see their sister, and tell that the Thrush was gone
 out of harbour; Tom and Charles. Charles had been born since Fanny’s
-going away, but Tom she had often helped to nurse, and now felt a
+going away, but Tom she had often helped to [[Nurse|nurse]], and now felt a
 particular pleasure in seeing again. Both were kissed very tenderly,
 but Tom she wanted to keep by her, to try to trace the features of the
 baby she had loved, and talked to, of his infant preference of herself.
-Tom, however, had no mind for such treatment: he came home not to stand
+Tom, however, had no mind for such treatment: he came [[Home|home]] not to stand
 and be talked to, but to run about and make a noise; and both boys had
 soon burst from her, and slammed the parlour-door till her temples
 ached.

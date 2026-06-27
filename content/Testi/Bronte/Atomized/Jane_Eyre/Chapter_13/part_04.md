@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 13 (part 4)"
+title: "[[Jane Eyre]] — Chapter 13 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -15,36 +15,36 @@ tags:
 
 
 “I had nothing else to do, because it was the vacation, and I sat at
-them from morning till noon, and from noon till night: the length of
+them from morning till [[Noon|noon]], and from [[Noon|noon]] till [[Night|night]]: the length of
 the midsummer days favoured my inclination to apply.”
 
-“And you felt self-satisfied with the result of your ardent labours?”
+“And you felt [[Self|self]]-satisfied with the result of your ardent labours?”
 
 “Far from it. I was tormented by the contrast between my idea and my
 handiwork: in each case I had imagined something which I was quite
 powerless to realise.”
 
-“Not quite: you have secured the shadow of your thought; but no more,
-probably. You had not enough of the artist’s skill and science to give
+“Not quite: you have secured the [[Shadow|shadow]] of your thought; but no more,
+probably. You had not enough of the [[artist]]’s skill and science to give
 it full being: yet the drawings are, for a school-girl, peculiar. As to
-the thoughts, they are elfish. These eyes in the Evening Star you must
-have seen in a dream. How could you make them look so clear, and yet
+the thoughts, they are elfish. These eyes in the [[Evening Star]] you must
+have seen in [[A Dream|a dream]]. How could you make them look so clear, and yet
 not at all brilliant? for the planet above quells their rays. And what
 meaning is that in their solemn depth? And who taught you to paint
-wind? There is a high gale in that sky, and on this hill-top. Where did
+[[Wind|wind]]? There is a high gale in that sky, and on this [[Hill|hill]]-top. Where did
 you see Latmos? For that is Latmos. There! put the drawings away!”
 
 I had scarce tied the strings of the portfolio, when, looking at his
 watch, he said abruptly—
 
-“It is nine o’clock: what are you about, Miss Eyre, to let Adèle sit up
+“It is nine o’[[Clock|clock]]: what are you about, Miss Eyre, to let Adèle sit up
 so long? Take her to bed.”
 
 Adèle went to kiss him before quitting the room: he endured the caress,
 but scarcely seemed to relish it more than Pilot would have done, nor
 so much.
 
-“I wish you all good-night, now,” said he, making a movement of the
+“I wish you all good-[[Night|night]], now,” said he, making a movement of the
 hand towards the door, in token that he was tired of our company, and
 wished to dismiss us. Mrs. Fairfax folded up her knitting: I took my
 portfolio: we curtseyed to him, received a frigid bow in return, and so
@@ -53,18 +53,18 @@ withdrew.
 “You said Mr. Rochester was not strikingly peculiar, Mrs. Fairfax,” I
 observed, when I rejoined her in her room, after putting Adèle to bed.
 
-“Well, is he?”
+“[[Well]], is he?”
 
 “I think so: he is very changeful and abrupt.”
 
-“True: no doubt he may appear so to a stranger, but I am so accustomed
+“True: no [[Doubt|doubt]] he may appear so to a stranger, but I am so accustomed
 to his manner, I never think of it; and then, if he has peculiarities
 of temper, allowance should be made.”
 
 “Why?”
 
-“Partly because it is his nature—and we can none of us help our nature;
-and partly because he has painful thoughts, no doubt, to harass him,
+“Partly because it is his [[Nature|nature]]—and we can none of us help our [[Nature|nature]];
+and partly because he has painful thoughts, no [[Doubt|doubt]], to harass him,
 and make his spirits unequal.”
 
 “What about?”
@@ -81,7 +81,7 @@ brother a few years since.”
 “Yes. The present Mr. Rochester has not been very long in possession of
 the property; only about nine years.”
 
-“Nine years is a tolerable time. Was he so very fond of his brother as
+“Nine years is a tolerable [[Time|time]]. Was he so very fond of his brother as
 to be still inconsolable for his loss?”
 
 “Why, no—perhaps not. I believe there were some misunderstandings
@@ -94,12 +94,12 @@ the name; and, soon after he was of age, some steps were taken that
 were not quite fair, and made a great deal of mischief. Old Mr.
 Rochester and Mr. Rowland combined to bring Mr. Edward into what he
 considered a painful position, for the sake of making his fortune: what
-the precise nature of that position was I never clearly knew, but his
+the precise [[Nature|nature]] of that position was I never clearly knew, but his
 spirit could not brook what he had to suffer in it. He is not very
 forgiving: he broke with his family, and now for many years he has led
 an unsettled kind of life. I don’t think he has ever been resident at
-Thornfield for a fortnight together, since the death of his brother
-without a will left him master of the estate; and, indeed, no wonder he
+Thornfield for a fortnight together, since the [[Death|death]] of his brother
+without a will left him master of the estate; and, indeed, no [[Wonder|wonder]] he
 shuns the old place.”
 
 “Why should he shun it?”
@@ -108,7 +108,7 @@ shuns the old place.”
 
 The answer was evasive. I should have liked something clearer; but Mrs.
 Fairfax either could not, or would not, give me more explicit
-information of the origin and nature of Mr. Rochester’s trials. She
+information of the origin and [[Nature|nature]] of Mr. Rochester’s trials. She
 averred they were a mystery to herself, and that what she knew was
 chiefly from conjecture. It was evident, indeed, that she wished me to
 drop the subject, which I did accordingly.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 38 (part 2)"
+title: "Bleak [[house|House]] — Chapter 38 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,19 +16,19 @@ tags:
 
 “My dear,” said Caddy, delighted, “you can’t think how you cheer me.
 I shall owe you, you don’t know how much. What changes, Esther, even
-in my small world! You recollect that first night, when I was so
+in my small world! You recollect that first [[Night|night]], when I was so
 unpolite and inky? Who would have thought, then, of my ever teaching
-people to dance, of all other possibilities and impossibilities!”
+people to [[Dance|dance]], of all other possibilities and impossibilities!”
 
 Her husband, who had left us while we had this chat, now coming back,
 preparatory to exercising the apprentices in the ball-room, Caddy
-informed me she was quite at my disposal. But it was not my time yet,
+informed me she was quite at my disposal. But it was not my [[Time|time]] yet,
 I was glad to tell her, for I should have been vexed to take her away
 then. Therefore we three adjourned to the apprentices together, and I
-made one in the dance.
+made one in the [[Dance|dance]].
 
 The apprentices were the queerest little people. Besides the
-melancholy boy, who, I hoped, had not been made so by waltzing alone
+[[Melancholy|melancholy]] boy, who, I hoped, had not been made so by waltzing [[Alone|alone]]
 in the empty kitchen, there were two other boys and one dirty little
 limp girl in a gauzy dress. Such a precocious little girl, with such
 a dowdy bonnet on (that, too, of a gauzy texture), who brought her
@@ -40,34 +40,34 @@ feet—and heels particularly.
 I asked Caddy what had made their parents choose this profession for
 them. Caddy said she didn’t know; perhaps they were designed for
 teachers, perhaps for the stage. They were all people in humble
-circumstances, and the melancholy boy’s mother kept a ginger-beer
+circumstances, and the [[Melancholy|melancholy]] boy’s mother kept a ginger-beer
 shop.
 
-We danced for an hour with great gravity, the melancholy child doing
+We danced for an hour with great gravity, the [[Melancholy|melancholy]] [[Child|child]] doing
 wonders with his lower extremities, in which there appeared to be
-some sense of enjoyment though it never rose above his waist. Caddy,
+some sense of enjoyment though it never [[Rose|rose]] above his waist. Caddy,
 while she was observant of her husband and was evidently founded upon
-him, had acquired a grace and self-possession of her own, which,
+him, had acquired a grace and [[Self|self]]-possession of her own, which,
 united to her pretty face and figure, was uncommonly agreeable. She
 already relieved him of much of the instruction of these young
 people, and he seldom interfered except to walk his part in the
 figure if he had anything to do in it. He always played the tune. The
-affectation of the gauzy child, and her condescension to the boys,
-was a sight. And thus we danced an hour by the clock.
+affectation of the gauzy [[Child|child]], and her condescension to the boys,
+was a sight. And thus we danced an hour by the [[Clock|clock]].
 
 When the practice was concluded, Caddy’s husband made himself ready
 to go out of town to a school, and Caddy ran away to get ready to go
 out with me. I sat in the ball-room in the interval, contemplating
 the apprentices. The two out-door boys went upon the staircase to put
 on their half-boots and pull the in-door boy’s hair, as I judged from
-the nature of his objections. Returning with their jackets buttoned
+the [[Nature|nature]] of his objections. Returning with their jackets buttoned
 and their pumps stuck in them, they then produced packets of cold
 bread and meat and bivouacked under a painted lyre on the wall. The
-little gauzy child, having whisked her sandals into the reticule and
+little gauzy [[Child|child]], having whisked her sandals into the reticule and
 put on a trodden-down pair of shoes, shook her head into the dowdy
 bonnet at one shake, and answering my inquiry whether she liked
 dancing by replying, “Not with boys,” tied it across her chin, and
-went home contemptuous.
+went [[Home|home]] contemptuous.
 
 “Old Mr. Turveydrop is so sorry,” said Caddy, “that he has not
 finished dressing yet and cannot have the pleasure of seeing you
@@ -76,7 +76,7 @@ before you go. You are such a favourite of his, Esther.”
 I expressed myself much obliged to him, but did not think it
 necessary to add that I readily dispensed with this attention.
 
-“It takes him a long time to dress,” said Caddy, “because he is very
+“It takes him a long [[Time|time]] to dress,” said Caddy, “because he is very
 much looked up to in such things, you know, and has a reputation to
 support. You can’t think how kind he is to Pa. He talks to Pa of an
 evening about the Prince Regent, and I never saw Pa so interested.”
@@ -100,22 +100,22 @@ appeared to me to be one of the pleasantest of oddities.
 “As to Peepy,” said Caddy with a little hesitation, “whom I was most
 afraid of—next to having any family of my own, Esther—as an
 inconvenience to Mr. Turveydrop, the kindness of the old gentleman to
-that child is beyond everything. He asks to see him, my dear! He lets
+that [[Child|child]] is beyond everything. He asks to see him, my dear! He lets
 him take the newspaper up to him in bed; he gives him the crusts of
-his toast to eat; he sends him on little errands about the house; he
+his toast to eat; he sends him on little errands about the [[house]]; he
 tells him to come to me for sixpences. In short,” said Caddy
 cheerily, “and not to prose, I am a very fortunate girl and ought to
 be very grateful. Where are we going, Esther?”
 
-“To the Old Street Road,” said I, “where I have a few words to say to
+“To the Old Street [[Road]],” said I, “where I have a few words to say to
 the solicitor’s clerk who was sent to meet me at the coach-office on
-the very day when I came to London and first saw you, my dear. Now I
-think of it, the gentleman who brought us to your house.”
+the very day when I came to [[London]] and first saw you, my dear. Now I
+think of it, the gentleman who brought us to your [[house]].”
 
 “Then, indeed, I seem to be naturally the person to go with you,”
 returned Caddy.
 
-To the Old Street Road we went and there inquired at Mrs. Guppy’s
+To the Old Street [[Road]] we went and there inquired at Mrs. Guppy’s
 residence for Mrs. Guppy. Mrs. Guppy, occupying the parlours and
 having indeed been visibly in danger of cracking herself like a nut
 in the front-parlour door by peeping out before she was asked for,

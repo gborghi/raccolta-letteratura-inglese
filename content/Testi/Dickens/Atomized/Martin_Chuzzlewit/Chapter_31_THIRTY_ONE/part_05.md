@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -27,16 +27,16 @@ will mankind begin to know thee! When will men acknowledge thee in thy
 neglected cradle, and thy stunted youth, and not begin their recognition
 in thy sinful manhood and thy desolate old age! Oh, ermined Judge whose
 duty to society is, now, to doom the ragged criminal to punishment and
-death, hadst thou never, Man, a duty to discharge in barring up the
+[[Death|death]], hadst thou never, Man, a duty to discharge in barring up the
 hundred open gates that wooed him to the felon’s dock, and throwing but
 ajar the portals to a decent life! Oh, prelate, prelate, whose duty to
-society it is to mourn in melancholy phrase the sad degeneracy of these
+society it is to mourn in [[Melancholy|melancholy]] phrase the sad degeneracy of these
 bad times in which thy lot of honours has been cast, did nothing go
 before thy elevation to the lofty seat, from which thou dealest out thy
 homilies to other tarriers for dead men’s shoes, whose duty to society
 has not begun! Oh! magistrate, so rare a country gentleman and brave a
 squire, had you no duty to society, before the ricks were blazing and
-the mob were mad; or did it spring up, armed and booted from the earth,
+the mob were mad; or did it [[Spring|spring]] up, armed and booted from the earth,
 a corps of yeomanry full-grown!
 
 Mr Pecksniff’s duty to society could not be paid till Tom came back. The
@@ -47,13 +47,13 @@ whither Mr Pecksniff, always considerate, had besought old Martin to
 entreat her to remain some half-hour longer, that her feelings might be
 spared.
 
-When Tom came back, he found old Martin sitting by the window, and Mr
+When Tom came back, he found old Martin sitting by the [[Window|window]], and Mr
 Pecksniff in an imposing attitude at the table. On one side of him was
 his pocket-handkerchief; and on the other a little heap (a very little
 heap) of gold and silver, and odd pence. Tom saw, at a glance, that it
 was his own salary for the current quarter.
 
-‘Have you fastened the vestry-window, Mr Pinch?’ said Pecksniff.
+‘Have you fastened the vestry-[[Window|window]], Mr Pinch?’ said Pecksniff.
 
 ‘Yes, sir.’
 
@@ -64,7 +64,7 @@ organ-loft (though it was one of the smallest), and looked hard at it
 as he laid it down. It had been an old, old friend of Tom’s; a kind
 companion to him, many and many a day.
 
-‘Mr Pinch,’ said Pecksniff, shaking his head; ‘oh, Mr Pinch! I wonder
+‘Mr Pinch,’ said Pecksniff, shaking his head; ‘oh, Mr Pinch! I [[Wonder|wonder]]
 you can look me in the face!’
 
 Tom did it though; and notwithstanding that he has been described as
@@ -72,7 +72,7 @@ stooping generally, he stood as upright then as man could stand.
 
 ‘Mr Pinch,’ said Pecksniff, taking up his handkerchief, as if he felt
 that he should want it soon, ‘I will not dwell upon the past. I will
-spare you, and I will spare myself, that pain at least.’
+spare you, and I will spare myself, that [[Pain|pain]] at least.’
 
 Tom’s was not a very bright eye, but it was a very expressive one when
 he looked at Mr Pecksniff, and said:
@@ -84,7 +84,7 @@ the sooner THAT is past, the better. Mr Pinch, I will not dismiss
 you without a word of explanation. Even such a course would be quite
 justifiable under the circumstances; but it might wear an appearance of
 hurry, and I will not do it; for I am,’ said Mr Pecksniff, knocking down
-another penny, ‘perfectly self-possessed. Therefore I will say to you,
+another penny, ‘perfectly [[Self|self]]-possessed. Therefore I will say to you,
 what I have already said to Mr Chuzzlewit.’
 
 Tom glanced at the old gentleman, who nodded now and then as approving
@@ -96,10 +96,10 @@ now, Mr Pinch,’ said Pecksniff, ‘between yourself and Miss Graham--I say
 fragments, because I was slumbering at a considerable distance from you,
 when I was roused by your voices--and from what I saw, I ascertained (I
 would have given a great deal not to have ascertained, Mr Pinch) that
-you, forgetful of all ties of duty and of honour, sir; regardless of the
+you, forgetful of all ties of duty and of [[Honour|honour]], sir; regardless of the
 sacred laws of hospitality, to which you were pledged as an inmate
-of this house; have presumed to address Miss Graham with unreturned
-professions of attachment and proposals of love.’
+of this [[house]]; have presumed to address Miss Graham with unreturned
+professions of attachment and proposals of [[Love|love]].’
 
 Tom looked at him steadily.
 
@@ -127,11 +127,11 @@ mistaken in his ‘fragments.’ Deny it! No.
 
 ‘A person is waiting in the kitchen,’ said Mr Pecksniff, ‘to carry
 your luggage wherever you please. We part, Mr Pinch, at once, and are
-strangers from this time.’
+strangers from this [[Time|time]].’
 
 Something without a name; compassion, sorrow, old tenderness, mistaken
 gratitude, habit; none of these, and yet all of them; smote upon Tom’s
-gentle heart at parting. There was no such soul as Pecksniff’s in
+gentle heart at parting. There was no such [[Soul|soul]] as Pecksniff’s in
 that carcase; and yet, though his speaking out had not involved the
 compromise of one he loved, he couldn’t have denounced the very shape
 and figure of the man. Not even then.

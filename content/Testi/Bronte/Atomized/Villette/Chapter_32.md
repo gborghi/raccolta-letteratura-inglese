@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 30"
+title: "[[Villette]] — Chapter 30"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -19,14 +19,14 @@ M. PAUL.
 
 
 Yet the reader is advised not to be in any hurry with his kindly
-conclusions, or to suppose, with an over-hasty charity, that from that
+conclusions, or to suppose, with an over-hasty [[Charity|charity]], that from that
 day M. Paul became a changed character—easy to live with, and no longer
 apt to flash danger and discomfort round him.
 
 No; he was naturally a little man of unreasonable moods. When
 over-wrought, which he often was, he became acutely irritable; and,
 besides, his veins were dark with a livid belladonna tincture, the
-essence of jealousy. I do not mean merely the tender jealousy of the
+essence of [[Jealousy|jealousy]]. I do not mean merely the tender [[Jealousy|jealousy]] of the
 heart, but that sterner, narrower sentiment whose seat is in the head.
 
 I used to think, as I sat looking at M. Paul, while he was knitting his
@@ -42,14 +42,14 @@ recrimination with a whole capital of coteries, never troubling himself
 about loss or lack of dignity. He would have exiled fifty Madame de
 Staëls, if they had annoyed, offended, outrivalled, or opposed him.
 
-I well remember a hot episode of his with a certain Madame Panache—a
-lady temporarily employed by Madame Beck to give lessons in history.
+I [[Well|well]] remember a hot episode of his with a certain Madame Panache—a
+lady temporarily employed by [[Madame Beck]] to give lessons in [[history]].
 She was clever—that is, she knew a good deal; and, besides, thoroughly
 possessed the art of making the most of what she knew; of words and
 confidence she held unlimited command. Her personal appearance was far
 from destitute of advantages; I believe many people would have
 pronounced her “a fine woman;” and yet there were points in her robust
-and ample attractions, as well as in her bustling and demonstrative
+and ample attractions, as [[Well|well]] as in her bustling and demonstrative
 presence, which, it appeared, the nice and capricious tastes of M. Paul
 could not away with. The sound of her voice, echoing through the carré,
 would put him into a strange taking; her long free step—almost
@@ -57,7 +57,7 @@ stride—along the corridor, would often make him snatch up his papers
 and decamp on the instant.
 
 With malicious intent he bethought himself, one day, to intrude on her
-class; as quick as lightning he gathered her method of instruction; it
+class; as quick as [[Lightning|lightning]] he gathered her method of instruction; it
 differed from a pet plan of his own. With little ceremony, and less
 courtesy, he pointed out what he termed her errors. Whether he expected
 submission and attention, I know not; he met an acrid opposition,
@@ -67,19 +67,19 @@ interference.
 Instead of withdrawing with dignity, as he might still have done, he
 threw down the gauntlet of defiance. Madame Panache, bellicose as a
 Penthesilea, picked it up in a minute. She snapped her fingers in the
-intermeddler’s face; she rushed upon him with a storm of words. M.
+intermeddler’s face; she rushed upon him with a [[Storm|storm]] of words. M.
 Emanuel was eloquent; but Madame Panache was voluble. A system of
 fierce antagonism ensued. Instead of laughing in his sleeve at his fair
-foe, with all her sore amour-propre and loud self-assertion, M. Paul
+foe, with all her sore amour-propre and loud [[Self|self]]-assertion, M. Paul
 detested her with intense seriousness; he honoured her with his earnest
 fury; he pursued her vindictively and implacably, refusing to rest
 peaceably in his bed, to derive due benefit from his meals, or even
 serenely to relish his cigar, till she was fairly rooted out of the
-establishment. The Professor conquered, but I cannot say that the
+establishment. [[The Professor]] conquered, but I cannot say that the
 laurels of this victory shadowed gracefully his temples. Once I
 ventured to hint as much. To my great surprise he allowed that I might
 be right, but averred that when brought into contact with either men or
-women of the coarse, self-complacent quality, whereof Madame Panache
+women of the coarse, [[Self|self]]-complacent quality, whereof Madame Panache
 was a specimen, he had no control over his own passions; an unspeakable
 and active aversion impelled him to a war of extermination.
 
@@ -92,7 +92,7 @@ old voice—a little loud—the old manner—a little forward—so acted upon
 him that in ten minutes he started up and bowed her, or rather himself,
 out of the room, in a transport of nervous irritation.
 
-To pursue a somewhat audacious parallel, in a love of power, in an
+To pursue a somewhat audacious parallel, in a [[Love|love]] of power, in an
 eager grasp after supremacy, M. Emanuel was like Bonaparte. He was a
 man not always to be submitted to. Sometimes it was needful to resist;
 it was right to stand still, to look up into his eyes and tell him that
@@ -115,34 +115,34 @@ difficult he made that proof! What thorns and briers, what flints, he
 strewed in the path of feet not inured to rough travel! He watched
 tearlessly—ordeals that he exacted should be passed through—fearlessly.
 He followed footprints that, as they approached the bourne, were
-sometimes marked in blood—followed them grimly, holding the austerest
-police-watch over the pain-pressed pilgrim. And when at last he allowed
+sometimes marked in [[Blood|blood]]—followed them grimly, holding the austerest
+police-watch over the [[Pain|pain]]-pressed [[Pilgrim|pilgrim]]. And when at last he allowed
 a rest, before slumber might close the eyelids, he opened those same
 lids wide, with pitiless finger and thumb, and gazed deep through the
 pupil and the irids into the brain, into the heart, to search if
-Vanity, or Pride, or Falsehood, in any of its subtlest forms, was
+[[Vanity]], or [[Pride]], or Falsehood, in any of its subtlest forms, was
 discoverable in the furthest recess of existence. If, at last, he let
-the neophyte sleep, it was but a moment; he woke him suddenly up to
+the neophyte [[Sleep|sleep]], it was but a moment; he woke him suddenly up to
 apply new tests: he sent him on irksome errands when he was staggering
 with weariness; he tried the temper, the sense, and the health; and it
 was only when every severest test had been applied and endured, when
 the most corrosive aquafortis had been used, and failed to tarnish the
-ore, that he admitted it genuine, and, still in clouded silence,
+ore, that he admitted it genuine, and, still in clouded [[Silence|silence]],
 stamped it with his deep brand of approval.
 
 I speak not ignorant of these evils.
 
 Till the date at which the last chapter closes, M. Paul had not been my
-professor—he had not given me lessons, but about that time,
+professor—he had not given me lessons, but about that [[Time|time]],
 accidentally hearing me one day acknowledge an ignorance of some branch
-of education (I think it was arithmetic), which would have disgraced a
-charity-school boy, as he very truly remarked, he took me in hand,
+of [[Education|education]] (I think it was arithmetic), which would have disgraced a
+[[Charity|charity]]-school boy, as he very truly remarked, he took me in hand,
 examined me first, found me, I need not say, abundantly deficient, gave
 me some books and appointed me some tasks.
 
 He did this at first with pleasure, indeed with unconcealed exultation,
 condescending to say that he believed I was “bonne et pas trop faible”
-(i.e. well enough disposed, and not wholly destitute of parts), but,
+(i.e. [[Well|well]] enough disposed, and not wholly destitute of parts), but,
 owing he supposed to adverse circumstances, “as yet in a state of
 wretchedly imperfect mental development.”
 
@@ -153,22 +153,22 @@ depressing and difficult passage has prefaced every new page I have
 turned in life.
 
 So long as this passage lasted, M. Paul was very kind, very good, very
-forbearing; he saw the sharp pain inflicted, and felt the weighty
+forbearing; he saw the sharp [[Pain|pain]] inflicted, and felt the weighty
 humiliation imposed by my own sense of incapacity; and words can hardly
 do justice to his tenderness and helpfulness. His own eyes would
-moisten, when tears of shame and effort clouded mine; burdened as he
+moisten, when [[Tears|tears]] of shame and effort clouded mine; burdened as he
 was with work, he would steal half his brief space of recreation to
 give to me.
 
-But, strange grief! when that heavy and overcast dawn began at last to
+But, strange grief! when that heavy and overcast [[Dawn|dawn]] began at last to
 yield to day; when my faculties began to struggle themselves, free, and
-my time of energy and fulfilment came; when I voluntarily doubled,
+my [[Time|time]] of energy and fulfilment came; when I voluntarily doubled,
 trebled, quadrupled the tasks he set, to please him as I thought, his
 kindness became sternness; the light changed in his eyes from a beam to
 a spark; he fretted, he opposed, he curbed me imperiously; the more I
 did, the harder I worked, the less he seemed content. Sarcasms of which
 the severity amazed and puzzled me, harassed my ears; then flowed out
-the bitterest inuendoes against the “pride of intellect.” I was vaguely
+the bitterest inuendoes against the “[[Pride|pride]] of intellect.” I was vaguely
 threatened with I know not what doom, if I ever trespassed the limits
 proper to my sex, and conceived a contraband appetite for unfeminine
 knowledge. Alas! I had no such appetite. What I loved, it joyed me by
@@ -178,25 +178,25 @@ to me but by briefest flashes.
 
 Yet, when M. Paul sneered at me, I wanted to possess them more fully;
 his injustice stirred in me ambitious wishes—it imparted a strong
-stimulus—it gave wings to aspiration.
+stimulus—it gave wings to [[Aspiration|aspiration]].
 
 In the beginning, before I had penetrated to motives, that
 uncomprehended sneer of his made my heart ache, but by-and-by it only
-warmed the blood in my veins, and sent added action to my pulses.
+warmed the [[Blood|blood]] in my veins, and sent added action to my pulses.
 Whatever my powers—feminine or the contrary—God had given them, and I
 felt resolute to be ashamed of no faculty of his bestowal.
 
-The combat was very sharp for a time. I seemed to have lost M. Paul’s
+The combat was very sharp for a [[Time|time]]. I seemed to have lost M. Paul’s
 affection; he treated me strangely. In his most unjust moments he would
 insinuate that I had deceived him when I appeared, what he called
 “faible”—that is incompetent; he said I had feigned a false incapacity.
 Again, he would turn suddenly round and accuse me of the most
 far-fetched imitations and impossible plagiarisms, asserting that I had
 extracted the pith out of books I had not so much as heard of—and over
-the perusal of which I should infallibly have fallen down in a sleep as
+the perusal of which I should infallibly have fallen down in a [[Sleep|sleep]] as
 deep as that of Eutychus.
 
-Once, upon his preferring such an accusation, I turned upon him—I rose
+Once, upon his preferring such an accusation, I turned upon him—I [[Rose|rose]]
 against him. Gathering an armful of his books out of my desk, I filled
 my apron and poured them in a heap upon his estrade, at his feet.
 
@@ -213,7 +213,7 @@ The books, however, were not taken away; they were all restored with
 careful hand to their places, and he came as usual to teach me. He made
 his peace somehow—too readily, perhaps: I ought to have stood out
 longer, but when he looked kind and good, and held out his hand with
-amity, memory refused to reproduce with due force his oppressive
+amity, [[Memory|memory]] refused to reproduce with due force his oppressive
 moments. And then, reconcilement is always sweet!
 
 On a certain morning a message came from my godmother, inviting me to
@@ -248,19 +248,19 @@ very glad when it terminated. At its close, the released pupils rushed
 out, half-trembling, half-exultant. I, too, was going. A mandate to
 remain arrested me. I muttered that I wanted some fresh air sadly—the
 stove was in a glow, the classe over-heated. An inexorable voice merely
-recommended silence; and this salamander—for whom no room ever seemed
+recommended [[Silence|silence]]; and this salamander—for whom no room ever seemed
 too hot—sitting down between my desk and the stove—a situation in which
 he ought to have felt broiled, but did not—proceeded to confront me
 with—a Greek quotation!
 
-In M. Emanuel’s soul rankled a chronic suspicion that I knew both Greek
+In M. Emanuel’s [[Soul|soul]] rankled a chronic suspicion that I knew both Greek
 and Latin. As monkeys are said to have the power of speech if they
-would but use it, and are reported to conceal this faculty in fear of
+would but use it, and are reported to conceal this faculty in [[Fear|fear]] of
 its being turned to their detriment, so to me was ascribed a fund of
 knowledge which I was supposed criminally and craftily to conceal. The
-privileges of a “classical education,” it was insinuated, had been
-mine; on flowers of Hymettus I had revelled; a golden store, hived in
-memory, now silently sustained my efforts, and privily nurtured my
+privileges of a “classical [[Education|education]],” it was insinuated, had been
+mine; on [[Flowers|flowers]] of Hymettus I had revelled; a golden store, hived in
+[[Memory|memory]], now silently sustained my efforts, and privily nurtured my
 wits.
 
 A hundred expedients did M. Paul employ to surprise my secret—to
@@ -268,7 +268,7 @@ wheedle, to threaten, to startle it out of me. Sometimes he placed
 Greek and Latin books in my way, and then watched me, as Joan of Arc’s
 jailors tempted her with the warrior’s accoutrements, and lay in wait
 for the issue. Again he quoted I know not what authors and passages,
-and while rolling out their sweet and sounding lines (the classic tones
+and while [[rolling]] out their sweet and sounding lines (the classic tones
 fell musically from his lips—for he had a good voice—remarkable for
 compass, modulation, and matchless expression), he would fix on me a
 vigilant, piercing, and often malicious eye. It was evident he
@@ -277,14 +277,14 @@ not comprehending, of course I could neither be charmed nor annoyed.
 
 Baffled—almost angry—he still clung to his fixed idea; my
 susceptibilities were pronounced marble—my face a mask. It appeared as
-if he could not be brought to accept the homely truth, and take me for
+if he could not be brought to accept the homely [[Truth|truth]], and take me for
 what I was: men, and women too, must have delusion of some sort; if not
 made ready to their hand, they will invent exaggeration for themselves.
 
 At moments I _did_ wish that his suspicions had been better founded.
 There were times when I would have given my right hand to possess the
 treasures he ascribed to me. He deserved condign punishment for his
-testy crotchets. I could have gloried in bringing home to him his worst
+testy crotchets. I could have gloried in bringing [[Home|home]] to him his worst
 apprehensions astoundingly realized. I could have exulted to burst on
 his vision, confront and confound his “lunettes,” one blaze of
 acquirements. Oh! why did nobody undertake to make me clever while I
@@ -295,14 +295,14 @@ the mocking spirit out of Paul Carl David Emanuel!
 Alas! no such feat was in my power. To-day, as usual, his quotations
 fell ineffectual: he soon shifted his ground.
 
-“Women of intellect” was his next theme: here he was at home. A “woman
+“Women of intellect” was his next theme: here he was at [[Home|home]]. A “woman
 of intellect,” it appeared, was a sort of “lusus naturae,” a luckless
 accident, a thing for which there was neither place nor use in
-creation, wanted neither as wife nor worker. Beauty anticipated her in
-the first office. He believed in his soul that lovely, placid, and
+creation, wanted neither as wife nor worker. [[Beauty]] anticipated her in
+the first office. He believed in his [[Soul|soul]] that lovely, placid, and
 passive feminine mediocrity was the only pillow on which manly thought
 and sense could find rest for its aching temples; and as to work, male
-mind alone could work to any good practical result—hein?
+mind [[Alone|alone]] could work to any good practical result—hein?
 
 This “hein?” was a note of interrogation intended to draw from me
 contradiction or objection. However, I only said—“Cela ne me regarde
@@ -314,7 +314,7 @@ They have rung the bell for the second déjeuner” (_i.e._ luncheon).
 “Indeed I was,” I said; “I had had nothing since breakfast, at seven,
 and should have nothing till dinner, at five, if I missed this bell.”
 
-“Well, he was in the same plight, but I might share with him.”
+“[[Well]], he was in the same plight, but I might share with him.”
 
 And he broke in two the “brioche” intended for his own refreshment, and
 gave me half. Truly his bark was worse than his bite; but the really
@@ -336,23 +336,23 @@ me, but I _sometimes_, not _always_, feel a knowledge of my own.”
 
 Unable to answer this question in a breath, I evaded it by change of
 subject. He had now finished his half of the brioche: feeling sure that
-on so trifling a fragment he could not have satisfied his appetite, as
+on so trifling a [[Fragment|fragment]] he could not have satisfied his appetite, as
 indeed I had not appeased mine, and inhaling the fragrance of baked
 apples afar from the refectory, I ventured to inquire whether he did
 not also perceive that agreeable odour. He confessed that he did. I
-said if he would let me out by the garden-door, and permit me just to
-run across the court, I would fetch him a plateful; and added that I
+said if he would let me out by the [[Garden|garden]]-door, and permit me just to
+run across the [[Court|court]], I would fetch him a plateful; and added that I
 believed they were excellent, as Goton had a very good method of
 baking, or rather stewing fruit, putting in a little spice, sugar, and
 a glass or two of vin blanc—might I go?
 
 “Petite gourmande!” said he, smiling, “I have not forgotten how pleased
 you were with the pâté â la crême I once gave you, and you know very
-well, at this moment, that to fetch the apples for me will be the same
+[[Well|well]], at this moment, that to fetch the apples for me will be the same
 as getting them for yourself. Go, then, but come back quickly.”
 
 And at last he liberated me on parole. My own plan was to go and return
-with speed and good faith, to put the plate in at the door, and then to
+with [[Speed|speed]] and good [[Faith|faith]], to put the plate in at the door, and then to
 vanish incontinent, leaving all consequences for future settlement.
 
 That intolerably keen instinct of his seemed to have anticipated my
@@ -372,9 +372,9 @@ any subject any spectator might dictate, without benefit of grammar or
 lexicon.
 
 I knew what the result of such an experiment would be. I, to whom
-nature had denied the impromptu faculty; who, in public, was by nature
-a cypher; whose time of mental activity, even when alone, was not under
-the meridian sun; who needed the fresh silence of morning, or the
+[[Nature|nature]] had denied the impromptu faculty; who, in public, was by [[Nature|nature]]
+a cypher; whose [[Time|time]] of mental activity, even when [[Alone|alone]], was not under
+the meridian sun; who needed the fresh [[Silence|silence]] of morning, or the
 recluse peace of evening, to win from the Creative Impulse one evidence
 of his presence, one proof of his force; I, with whom that Impulse was
 the most intractable, the most capricious, the most maddening of
@@ -384,19 +384,19 @@ would not hear when appealed to, would not, when sought, be found; but
 would stand, all cold, all indurated, all granite, a dark Baal with
 carven lips and blank eye-balls, and breast like the stone face of a
 tomb; and again, suddenly, at some turn, some sound, some
-long-trembling sob of the wind, at some rushing past of an unseen
+long-trembling sob of the [[Wind|wind]], at some rushing past of an unseen
 stream of electricity, the irrational demon would wake unsolicited,
 would stir strangely alive, would rush from its pedestal like a
 perturbed Dagon, calling to its votary for a sacrifice, whatever the
-hour—to its victim for some blood, or some breath, whatever the
+hour—to its victim for some [[Blood|blood]], or some breath, whatever the
 circumstance or scene—rousing its priest, treacherously promising
 vaticination, perhaps filling its temple with a strange hum of oracles,
 but sure to give half the significance to fateful winds, and grudging
 to the desperate listener even a miserable remnant—yielding it
 sordidly, as though each word had been a drop of the deathless ichor of
-its own dark veins. And this tyrant I was to compel into bondage, and
+its own dark veins. And this [[Tyrant|tyrant]] I was to compel into bondage, and
 make it improvise a theme, on a school estrade, between a Mathilde and
-a Coralie, under the eye of a Madame Beck, for the pleasure, and to the
+a Coralie, under the eye of a [[Madame Beck]], for the pleasure, and to the
 inspiration of a bourgeois of Labassecour!
 
 Upon this argument M. Paul and I did battle more than once—strong
@@ -413,14 +413,14 @@ paused to take breath.
 “Would I speak now, and be tractable?”
 
 “Never would I be tractable in this matter. Law itself should not
-compel me. I would pay a fine, or undergo an imprisonment, rather than
+compel me. I would pay a fine, or undergo an [[Imprisonment|imprisonment]], rather than
 write for a show and to order, perched up on a platform.”
 
-“Could softer motives influence me? Would I yield for friendship’s
+“Could softer motives influence me? Would I yield for [[Friendship|friendship]]’s
 sake?”
 
-“Not a whit, not a hair-breadth. No form of friendship under the sun
-had a right to exact such a concession. No true friendship would harass
+“Not a whit, not a hair-breadth. No form of [[Friendship|friendship]] under the sun
+had a right to exact such a concession. No true [[Friendship|friendship]] would harass
 me thus.”
 
 He supposed then (with a sneer—M. Paul could sneer supremely, curling
@@ -433,7 +433,7 @@ said he, “eagerly subscribing to the sacrifice, passionately arming for
 the effort.”
 
 “Making a simpleton, a warning, and an example of myself, before a
-hundred and fifty of the ‘papas’ and ‘mammas’ of Villette.”
+hundred and fifty of the ‘papas’ and ‘mammas’ of [[Villette]].”
 
 And here, losing patience, I broke out afresh with a cry that I wanted
 to be liberated—to get out into the air—I was almost in a fever.
@@ -443,13 +443,13 @@ was not hot, with the stove close at his back; how could I suffer,
 thoroughly screened by his person?”
 
 “I did not understand his constitution. I knew nothing of the natural
-history of salamanders. For my own part, I was a phlegmatic islander,
+[[history]] of salamanders. For my own part, I was a phlegmatic islander,
 and sitting in an oven did not agree with me; at least, might I step to
-the well, and get a glass of water—the sweet apples had made me
+the [[Well|well]], and get a glass of [[Water|water]]—the sweet apples had made me
 thirsty?”
 
 “If that was all, he would do my errand.”
 
-He went to fetch the water. Of course, with a door only on the latch
+He went to fetch the [[Water|water]]. Of course, with a door only on the latch
 behind me, I lost not my opportunity. Ere his return, his half-worried
 prey had escaped.

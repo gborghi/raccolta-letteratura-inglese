@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 9 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 9 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -36,7 +36,7 @@ would have felt himself decidedly affronted by the neglect. But when I
 
 called there the day after my interview with Mrs. Graham, he happened
 
-to be from home—a circumstance by no means so agreeable to me now as it
+to be from [[Home|home]]—a circumstance by no means so agreeable to me now as it
 
 had been on former occasions. Miss Millward was there, it is true, but
 
@@ -102,7 +102,7 @@ inventing, I suppose. I never heard it till Eliza told me the other
 
 day,—but if all the parish dinned it in my ears, I shouldn’t believe a
 
-word of it—I know Mrs. Graham too well!”
+word of it—I know Mrs. Graham too [[Well|well]]!”
 
 
 
@@ -110,9 +110,9 @@ word of it—I know Mrs. Graham too well!”
 
 
 
-“Well,” observed Eliza, with a gentle sigh, “it’s well to have such a
+“[[Well]],” observed Eliza, with a gentle sigh, “it’s [[Well|well]] to have such a
 
-comfortable assurance regarding the worth of those we love. I only wish
+comfortable assurance regarding the worth of those we [[Love|love]]. I only wish
 
 you may not find your confidence misplaced.”
 
@@ -134,15 +134,15 @@ was certain, whether she knew it or not.
 
 
 
-I said nothing more on the subject, however, at the time, and but
+I said nothing more on the subject, however, at the [[Time|time]], and but
 
-little on any other; for, finding I could not well recover my
+little on any other; for, finding I could not [[Well|well]] recover my
 
-equanimity, I presently rose and took leave, excusing myself under the
+equanimity, I presently [[Rose|rose]] and took leave, excusing myself under the
 
 plea of business at the farm; and to the farm I went, not troubling my
 
-mind one whit about the possible truth of these mysterious reports, but
+mind one whit about the possible [[Truth|truth]] of these mysterious reports, but
 
 only wondering what they were, by whom originated, and on what
 
@@ -164,15 +164,15 @@ relief, she came. Without her I should have found the whole affair an
 
 intolerable bore; but the moment of her arrival brought new life to the
 
-house, and though I might not neglect the other guests for her, or
+[[house]], and though I might not neglect the other guests for her, or
 
 expect to engross much of her attention and conversation to myself
 
-alone, I anticipated an evening of no common enjoyment.
+[[Alone|alone]], I anticipated an evening of no common enjoyment.
 
 
 
-Mr. Lawrence came too. He did not arrive till some time after the rest
+Mr. Lawrence came too. He did not arrive till some [[Time|time]] after the rest
 
 were assembled. I was curious to see how he would comport himself to
 
@@ -182,7 +182,7 @@ entrance; and having politely greeted the other members of the company,
 
 he seated himself quite aloof from the young widow, between my mother
 
-and Rose.
+and [[Rose]].
 
 
 
@@ -210,13 +210,13 @@ replied,—
 
 
 
-“Well, tell me then,” I answered in a lower tone, “what is it you mean?
+“[[Well]], tell me then,” I answered in a lower tone, “what is it you mean?
 
 I hate enigmas.”
 
 
 
-“Well, you know, I don’t vouch for the truth of it—indeed, far from
+“[[Well]], you know, I don’t vouch for the [[Truth|truth]] of it—indeed, far from
 
 it—but haven’t you heard—?”
 
@@ -248,19 +248,19 @@ to say.”
 
 
 
-She turned aside her face, pulled out her handkerchief, rose, and went
+She turned aside her face, pulled out her handkerchief, [[Rose|rose]], and went
 
-to the window, where she stood for some time, evidently dissolved in
+to the [[Window|window]], where she stood for some [[Time|time]], evidently dissolved in
 
-tears. I was astounded, provoked, ashamed—not so much of my harshness
+[[Tears|tears]]. I was astounded, provoked, ashamed—not so much of my harshness
 
 as for her childish weakness. However, no one seemed to notice her, and
 
 shortly after we were summoned to the tea-table: in those parts it was
 
-customary to sit to the table at tea-time on all occasions, and make a
+customary to sit to the table at tea-[[Time|time]] on all occasions, and make a
 
-meal of it, for we dined early. On taking my seat, I had Rose on one
+meal of it, for we dined early. On taking my seat, I had [[Rose]] on one
 
 side of me and an empty chair on the other.
 

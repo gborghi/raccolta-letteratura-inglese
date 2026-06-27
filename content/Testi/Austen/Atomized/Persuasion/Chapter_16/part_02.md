@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 16 (part 2)"
+title: "[[Persuasion]] — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -30,7 +30,7 @@ They went through the particulars of their first meeting a great many
 
 times. He gave her to understand that he had looked at her with some
 
-earnestness. She knew it well; and she remembered another person’s look
+earnestness. She knew it [[Well|well]]; and she remembered another person’s look
 
 also.
 
@@ -66,7 +66,7 @@ better things from their high ideas of their own situation in life, and
 
 was reduced to form a wish which she had never foreseen; a wish that
 
-they had more pride; for “our cousins Lady Dalrymple and Miss
+they had more [[Pride|pride]]; for “our cousins Lady Dalrymple and Miss
 
 Carteret;” “our cousins, the Dalrymples,” sounded in her ears all day
 
@@ -80,11 +80,11 @@ never seen any of the rest of the family; and the difficulties of the
 
 case arose from there having been a suspension of all intercourse by
 
-letters of ceremony, ever since the death of that said late viscount,
+letters of ceremony, ever since the [[Death|death]] of that said late viscount,
 
 when, in consequence of a dangerous illness of Sir Walter’s at the same
 
-time, there had been an unlucky omission at Kellynch. No letter of
+[[Time|time]], there had been an unlucky omission at Kellynch. No letter of
 
 condolence had been sent to Ireland. The neglect had been visited on
 
@@ -98,15 +98,15 @@ relationship as closed. How to have this anxious business set to
 
 rights, and be admitted as cousins again, was the question: and it was
 
-a question which, in a more rational manner, neither Lady Russell nor
+a question which, in a more rational manner, neither [[Lady Russell]] nor
 
 Mr Elliot thought unimportant. “Family connexions were always worth
 
 preserving, good company always worth seeking; Lady Dalrymple had taken
 
-a house, for three months, in Laura Place, and would be living in
+a [[house]], for three months, in Laura Place, and would be living in
 
-style. She had been at Bath the year before, and Lady Russell had heard
+style. She had been at Bath the year before, and [[Lady Russell]] had heard
 
 her spoken of as a charming woman. It was very desirable that the
 
@@ -120,7 +120,7 @@ Sir Walter, however, would choose his own means, and at last wrote a
 
 very fine letter of ample explanation, regret, and entreaty, to his
 
-right honourable cousin. Neither Lady Russell nor Mr Elliot could
+right honourable cousin. Neither [[Lady Russell]] nor Mr Elliot could
 
 admire the letter; but it did all that was wanted, in bringing three
 
@@ -158,7 +158,7 @@ for her birth.
 
 
 
-Lady Russell confessed she had expected something better; but yet “it
+[[Lady Russell]] confessed she had expected something better; but yet “it
 
 was an acquaintance worth having;” and when Anne ventured to speak her
 
@@ -174,7 +174,7 @@ their value. Anne smiled and said,
 
 “My idea of good company, Mr Elliot, is the company of clever,
 
-well-informed people, who have a great deal of conversation; that is
+[[Well|well]]-informed people, who have a great deal of conversation; that is
 
 what I call good company.”
 
@@ -182,13 +182,13 @@ what I call good company.”
 
 “You are mistaken,” said he gently, “that is not good company; that is
 
-the best. Good company requires only birth, education, and manners, and
+the best. Good company requires only birth, [[Education|education]], and manners, and
 
-with regard to education is not very nice. Birth and good manners are
+with regard to [[Education|education]] is not very nice. Birth and good manners are
 
 essential; but a little learning is by no means a dangerous thing in
 
-good company; on the contrary, it will do very well. My cousin Anne
+good company; on the contrary, it will do very [[Well|well]]. My cousin Anne
 
 shakes her head. She is not satisfied. She is fastidious. My dear
 
@@ -202,7 +202,7 @@ good ladies in Laura Place, and enjoy all the advantages of the
 
 connexion as far as possible? You may depend upon it, that they will
 
-move in the first set in Bath this winter, and as rank is rank, your
+move in the first set in Bath this [[Winter|winter]], and as rank is rank, your
 
 being known to be related to them will have its use in fixing your
 
@@ -218,7 +218,7 @@ then recollecting herself, and not wishing to be answered, she added,
 
 “I certainly do think there has been by far too much trouble taken to
 
-procure the acquaintance. I suppose” (smiling) “I have more pride than
+procure the acquaintance. I suppose” (smiling) “I have more [[Pride|pride]] than
 
 any of you; but I confess it does vex me, that we should be so
 
@@ -228,33 +228,33 @@ sure is a matter of perfect indifference to them.”
 
 
 
-“Pardon me, dear cousin, you are unjust in your own claims. In London,
+“Pardon me, dear cousin, you are unjust in your own claims. In [[London]],
 
 perhaps, in your present quiet style of living, it might be as you say:
 
-but in Bath; Sir Walter Elliot and his family will always be worth
+but in Bath; [[Sir Walter Elliot]] and his family will always be worth
 
 knowing: always acceptable as acquaintance.”
 
 
 
-“Well,” said Anne, “I certainly am proud, too proud to enjoy a welcome
+“[[Well]],” said Anne, “I certainly am proud, too proud to enjoy a welcome
 
 which depends so entirely upon place.”
 
 
 
-“I love your indignation,” said he; “it is very natural. But here you
+“I [[Love|love]] your indignation,” said he; “it is very natural. But here you
 
 are in Bath, and the object is to be established here with all the
 
-credit and dignity which ought to belong to Sir Walter Elliot. You talk
+credit and dignity which ought to belong to [[Sir Walter Elliot]]. You talk
 
 of being proud; I am called proud, I know, and I shall not wish to
 
-believe myself otherwise; for our pride, if investigated, would have
+believe myself otherwise; for our [[Pride|pride]], if investigated, would have
 
-the same object, I have no doubt, though the kind may seem a little
+the same object, I have no [[Doubt|doubt]], though the kind may seem a little
 
 different. In one point, I am sure, my dear cousin,” (he continued,
 
@@ -272,9 +272,9 @@ He looked, as he spoke, to the seat which Mrs Clay had been lately
 
 occupying: a sufficient explanation of what he particularly meant; and
 
-though Anne could not believe in their having the same sort of pride,
+though Anne could not believe in their having the same sort of [[Pride|pride]],
 
-she was pleased with him for not liking Mrs Clay; and her conscience
+she was pleased with him for not liking Mrs Clay; and her [[Conscience|conscience]]
 
 admitted that his wishing to promote her father’s getting great
 

@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 9 (part 2)"
+title: "[[Wuthering Heights]] — Chapter 9 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -14,20 +14,20 @@ tags:
 </nav>
 
 
-I went into the kitchen, and sat down to lull my little lamb to sleep.
-Heathcliff, as I thought, walked through to the barn. It turned out
+I went into the kitchen, and sat down to lull my little [[Lamb|lamb]] to [[Sleep|sleep]].
+[[Heathcliff]], as I thought, walked through to the barn. It turned out
 afterwards that he only got as far as the other side the settle, when
-he flung himself on a bench by the wall, removed from the fire, and
+he flung himself on a bench by the wall, removed from the [[Fire|fire]], and
 remained silent.
 
-I was rocking Hareton on my knee, and humming a song that began,—
+I was rocking Hareton on my knee, and humming a [[Song|song]] that began,—
 
-It was far in the night, and the bairnies grat,
+It was far in the [[Night|night]], and the bairnies grat,
 The mither beneath the mools heard that,
 
 
 when Miss Cathy, who had listened to the hubbub from her room, put her
-head in, and whispered,—“Are you alone, Nelly?”
+head in, and whispered,—“Are you [[Alone|alone]], Nelly?”
 
 “Yes, Miss,” I replied.
 
@@ -35,9 +35,9 @@ She entered and approached the hearth. I, supposing she was going to
 say something, looked up. The expression of her face seemed disturbed
 and anxious. Her lips were half asunder, as if she meant to speak, and
 she drew a breath; but it escaped in a sigh instead of a sentence. I
-resumed my song; not having forgotten her recent behaviour.
+resumed my [[Song|song]]; not having forgotten her recent behaviour.
 
-“Where’s Heathcliff?” she said, interrupting me.
+“Where’s [[Heathcliff]]?” she said, interrupting me.
 
 “About his work in the stable,” was my answer.
 
@@ -61,7 +61,7 @@ world to indulge it.
 “Is it worth keeping?” I inquired, less sulkily.
 
 “Yes, and it worries me, and I must let it out! I want to know what I
-should do. To-day, Edgar Linton has asked me to marry him, and I’ve
+should do. To-day, [[Edgar Linton]] has asked me to marry him, and I’ve
 given him an answer. Now, before I tell you whether it was a consent or
 denial, you tell me which it ought to have been.”
 
@@ -69,7 +69,7 @@ denial, you tell me which it ought to have been.”
 considering the exhibition you performed in his presence this
 afternoon, I might say it would be wise to refuse him: since he asked
 you after that, he must either be hopelessly stupid or a venturesome
-fool.”
+[[Fool|fool]].”
 
 “If you talk so, I won’t tell you any more,” she returned, peevishly
 rising to her feet. “I accepted him, Nelly. Be quick, and say whether I
@@ -83,20 +83,20 @@ irritated tone; chafing her hands together, and frowning.
 
 “There are many things to be considered before that question can be
 answered properly,” I said, sententiously. “First and foremost, do you
-love Mr. Edgar?”
+[[Love|love]] Mr. [[Edgar]]?”
 
 “Who can help it? Of course I do,” she answered.
 
 Then I put her through the following catechism: for a girl of
 twenty-two it was not injudicious.
 
-“Why do you love him, Miss Cathy?”
+“Why do you [[Love|love]] him, Miss Cathy?”
 
 “Nonsense, I do—that’s sufficient.”
 
 “By no means; you must say why?”
 
-“Well, because he is handsome, and pleasant to be with.”
+“[[Well]], because he is handsome, and pleasant to be with.”
 
 “Bad!” was my commentary.
 
@@ -111,25 +111,25 @@ twenty-two it was not injudicious.
 “And he will be rich, and I shall like to be the greatest woman of the
 neighbourhood, and I shall be proud of having such a husband.”
 
-“Worst of all. And now, say how you love him?”
+“Worst of all. And now, say how you [[Love|love]] him?”
 
 “As everybody loves—You’re silly, Nelly.”
 
 “Not at all—Answer.”
 
-“I love the ground under his feet, and the air over his head, and
-everything he touches, and every word he says. I love all his looks,
+“I [[Love|love]] the ground under his feet, and the air over his head, and
+everything he touches, and every word he says. I [[Love|love]] all his looks,
 and all his actions, and him entirely and altogether. There now!”
 
 “And why?”
 
 “Nay; you are making a jest of it: it is exceedingly ill-natured! It’s
 no jest to me!” said the young lady, scowling, and turning her face to
-the fire.
+the [[Fire|fire]].
 
-“I’m very far from jesting, Miss Catherine,” I replied. “You love Mr.
-Edgar because he is handsome, and young, and cheerful, and rich, and
-loves you. The last, however, goes for nothing: you would love him
+“I’m very far from jesting, Miss Catherine,” I replied. “You [[Love|love]] Mr.
+[[Edgar]] because he is handsome, and young, and cheerful, and rich, and
+loves you. The last, however, goes for nothing: you would [[Love|love]] him
 without that, probably; and with it you wouldn’t, unless he possessed
 the four former attractions.”
 
@@ -140,7 +140,7 @@ were ugly, and a clown.”
 handsomer, possibly, and richer than he is. What should hinder you from
 loving them?”
 
-“If there be any, they are out of my way: I’ve seen none like Edgar.”
+“If there be any, they are out of my way: I’ve seen none like [[Edgar]].”
 
 “You may see some; and he won’t always be handsome, and young, and may
 not always be rich.”
@@ -148,7 +148,7 @@ not always be rich.”
 “He is now; and I have only to do with the present. I wish you would
 speak rationally.”
 
-“Well, that settles it: if you have only to do with the present, marry
+“[[Well]], that settles it: if you have only to do with the present, marry
 Mr. Linton.”
 
 “I don’t want your permission for that—I _shall_ marry him: and yet you
@@ -157,13 +157,13 @@ have not told me whether I’m right.”
 “Perfectly right; if people be right to marry only for the present. And
 now, let us hear what you are unhappy about. Your brother will be
 pleased; the old lady and gentleman will not object, I think; you will
-escape from a disorderly, comfortless home into a wealthy, respectable
-one; and you love Edgar, and Edgar loves you. All seems smooth and
+escape from a disorderly, comfortless [[Home|home]] into a wealthy, respectable
+one; and you [[Love|love]] [[Edgar]], and [[Edgar]] loves you. All seems smooth and
 easy: where is the obstacle?”
 
 “_Here_! and _here_!” replied Catherine, striking one hand on her
-forehead, and the other on her breast: “in whichever place the soul
-lives. In my soul and in my heart, I’m convinced I’m wrong!”
+forehead, and the other on her breast: “in whichever place the [[Soul|soul]]
+lives. In my [[Soul|soul]] and in my heart, I’m convinced I’m wrong!”
 
 “That’s very strange! I cannot make it out.”
 
@@ -173,7 +173,7 @@ can’t do it distinctly; but I’ll give you a feeling of how I feel.”
 She seated herself by me again: her countenance grew sadder and graver,
 and her clasped hands trembled.
 
-“Nelly, do you never dream queer dreams?” she said, suddenly, after
+“Nelly, do you never dream queer [[Dreams|dreams]]?” she said, suddenly, after
 some minutes’ reflection.
 
 “Yes, now and then,” I answered.

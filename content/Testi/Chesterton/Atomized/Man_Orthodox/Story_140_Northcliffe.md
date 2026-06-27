@@ -24,17 +24,17 @@ He was not without his good points; perhaps it would be more exact
 to say that he was not without his good moments, for he had
 no conceptions dear enough to perpetuate them at the expense
 of the bad ones.  He did pay his proletariat better than many;
-he did do good-natured as well as ill-tempered things.
+he did do good-natured as [[Well|well]] as ill-tempered things.
 Also he had everything against him in the intellectual and
 moral sense.  He was born of respectable middle-class people
 in the small Protestant professional classes in Dublin.
 He received in succession all the general political suggestions
-of his time.  He was thrilled by Jameson and Joe Chamberlain;
+of his [[Time|time]].  He was thrilled by Jameson and Joe Chamberlain;
 he apparently believed up to the very moment of the Great War
 that there was a place called Ulster.  In other words, he had at
 the best all the healthy and hazy associations and prejudices
 which all his ten million readers had as much as he had;
-and he was by nature ignorant of the very idea of an idea.
+and he was by [[Nature|nature]] ignorant of the very idea of an idea.
 But while Alfred Harmsworth was exactly like Albert Huggins or any
 other man travelling in the same train or tube, there came upon him
 to his destruction two things that were not normal to the rest.
@@ -45,7 +45,7 @@ which ideas could have been given, when he had no ideas to give.
 ...
 
 An excellent example of all these things is to be found
-in the business about Lord Kitchener.  ... The truth is that
+in the business about Lord Kitchener.  ... The [[Truth|truth]] is that
 Harmsworth never had anything to do with Kitchener at all.
 He had to do with a sort of legendary bully who was only to
 be admired for bullying, and then with an equally legendary
@@ -63,12 +63,12 @@ by a stupid swagger in others.  Dullness calls unto dullness
 across the modern world, like deep calling unto deep.
 
 It was perhaps this spirit of illusion, of indirect rather
-than direct things, that produced in his mind the tragedy
-of the final divorce from reality.  None will deny that such
-a tragedy should teach us to consider him as a human being;
-but the sympathy is thwarted by considering him as a hero.
+than direct things, that produced in his mind the [[Tragedy|tragedy]]
+of the final [[divorce]] from reality.  None will deny that such
+a [[Tragedy|tragedy]] should teach us to consider him as a human being;
+but the sympathy is thwarted by considering him as a [[Hero|hero]].
 It was the fault of his age rather than himself that he lived
-among shadows, fighting in a shadow pantomime.  Publicity consists,
+among shadows, fighting in a [[Shadow|shadow]] pantomime.  Publicity consists,
 not of things, but of their vast shadows thrown upon a wall.
 And to make them so vast, the light must be held very low down.
 

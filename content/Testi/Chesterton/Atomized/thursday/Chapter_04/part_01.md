@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 4 (part 1)"
+title: "[[thursday]] — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
                          CHAPTER IV
 
-                   THE TALE OF A DETECTIVE
+                   THE TALE OF A [[Detective|DETECTIVE]]
 
 
-GABRIEL SYME was not merely a detective who pretended to be
-a poet; he was really a poet who had become a detective.
+[[Gabriel Syme|GABRIEL SYME]] was not merely a [[Detective|detective]] who pretended to be
+a poet; he was really a poet who had become a [[Detective|detective]].
 Nor was his hatred of anarchy hypocritical.  He was one
 of those who are driven early in life into too conservative
 an attitude by the bewildering folly of most revolutionists.
@@ -30,18 +30,18 @@ He came of a family of cranks, in which all the oldest people
 had all the newest notions.  One of his uncles always walked
 about without a hat, and another had made an unsuccessful attempt
 to walk about with a hat and nothing else.  His father cultivated
-art and self-realisation; his mother went in for simplicity
-and hygiene.  Hence the child, during his tenderer years,
+art and [[Self|self]]-realisation; his mother went in for simplicity
+and hygiene.  Hence the [[Child|child]], during his tenderer years,
 was wholly unacquainted with any drink between the extremes
 of absinth and cocoa, of both of which he had a healthy dislike.
 The more his mother preached a more than Puritan abstinence
 the more did his father expand into a more than pagan latitude;
-and by the time the former had come to enforcing vegetarianism,
-the latter had pretty well reached the point of defending cannibalism.
+and by the [[Time|time]] the former had come to enforcing vegetarianism,
+the latter had pretty [[Well|well]] reached the point of defending cannibalism.
 
 Being surrounded with every conceivable kind of revolt from infancy,
 Gabriel had to revolt into something, so he revolted into the only
-thing left--sanity.  But there was just enough in him of the blood
+thing left--[[Sanity|sanity]].  But there was just enough in him of the [[Blood|blood]]
 of these fanatics to make even his protest for common sense a little
 too fierce to be sensible.  His hatred of modern lawlessness
 had been crowned also by an accident.  It happened that he was
@@ -56,21 +56,21 @@ He regarded them as a huge and pitiless peril, like a Chinese invasion.
 
 He poured perpetually into newspapers and their waste-paper baskets
 a torrent of tales, verses and violent articles, warning men
-of this deluge of barbaric denial.  But he seemed to be getting
+of this [[deluge]] of barbaric denial.  But he seemed to be getting
 no nearer his enemy, and, what was worse, no nearer a living.
 As he paced the Thames embankment, bitterly biting a cheap cigar
 and brooding on the advance of Anarchy, there was no anarchist
 with a bomb in his pocket so savage or so solitary as he.
-Indeed, he always felt that Government stood alone and desperate,
+Indeed, he always felt that [[government|Government]] stood [[Alone|alone]] and desperate,
 with its back to the wall.  He was too quixotic to have cared
 for it otherwise.
 
 He walked on the Embankment once under a dark red sunset.
-The red river reflected the red sky, and they both reflected
+The red [[River|river]] reflected the red sky, and they both reflected
 his anger.  The sky, indeed, was so swarthy, and the light
-on the river relatively so lurid, that the water almost
+on the [[River|river]] relatively so lurid, that the [[Water|water]] almost
 seemed of fiercer flame than the sunset it mirrored.
-It looked like a stream of literal fire winding under the vast
+It looked like a stream of literal [[Fire|fire]] winding under the vast
 caverns of a subterranean country.
 
 Syme was shabby in those days.  He wore an old-fashioned black
@@ -89,8 +89,8 @@ Syme, at a crisis of his morbid fears for humanity, seemed stung by the mere
 stolidity of the automatic official, a mere bulk of blue in the twilight.
 
 "A good evening is it?" he said sharply.  "You fellows would call the end of
-the world a good evening.  Look at that bloody red sun and that bloody river!
-I tell you that if that were literally human blood, spilt and shining,
+the world a good evening.  Look at that bloody red sun and that bloody [[River|river]]!
+I tell you that if that were literally human [[Blood|blood]], spilt and shining,
 you would still be standing here as solid as ever, looking out for some poor
 harmless tramp whom you could move on.  You policemen are cruel to the poor,
 but I could forgive you even your cruelty if it were not for your calm."
@@ -104,10 +104,10 @@ of organised resistance."
 "The composure of an army is the anger of a nation."
 
 "Good God, the Board Schools!" said Syme.  "Is this
-undenominational education?"
+undenominational [[Education|education]]?"
 
 "No," said the policeman sadly, "I never had any of those advantages.
-The Board Schools came after my time.  What education I had was very rough
+The Board Schools came after my [[Time|time]].  What [[Education|education]] I had was very rough
 and old-fashioned, I am afraid."
 
 "Where did you have it?" asked Syme, wondering.
@@ -133,7 +133,7 @@ outbreaks of the human will.  I trust I make myself clear."
 
 "If you mean that you make your opinion clear," said Syme, "I suppose you do.
 But as for making yourself clear, it is the last thing you do.
-How comes a man like you to be talking philosophy in a blue helmet
+How comes a man like you to be talking [[philosophy]] in a blue helmet
 on the Thames embankment?"
 
 "You have evidently not heard of the latest development in our

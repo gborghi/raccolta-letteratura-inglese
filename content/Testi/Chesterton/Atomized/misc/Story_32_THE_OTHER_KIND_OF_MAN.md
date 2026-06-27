@@ -1,5 +1,5 @@
 ---
-title: "misc — THE OTHER KIND OF MAN"
+title: "[[misc]] — THE OTHER KIND OF MAN"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -63,14 +63,14 @@ and civil.  He has an odd way of using certain words of really
 horrible meaning, but using them quite innocently and without
 the most distant taint of the evils to which they allude.
 He is rather sentimental; and, like most sentimental people,
-not devoid of snobbishness.  At the same time, he believes
-the ordinary manly commonplaces of freedom and fraternity
+not devoid of snobbishness.  At the same [[Time|time]], he believes
+the ordinary manly commonplaces of [[Freedom|freedom]] and fraternity
 as he believes most of the decent traditions of Christian men:
 he finds it very difficult to act according to them, but this
 difficulty is not confined to him.  He has a strong and individual
-sense of humour, and not much power of corporate or militant action.
+sense of [[Humour|humour]], and not much power of corporate or militant action.
 He is not a Socialist.  Finally, he bears no more resemblance
-to a Labour Member than he does to a City Alderman or a
+to a Labour Member than he does to a [[City]] Alderman or a
 Die-Hard Duke.  This is the Common Labourer of England;
 and it is he who is on the march at last.
 
@@ -82,7 +82,7 @@ who were summoned as a Royal Commission to consider his claims
 when he or his sort went out on strike upon the railways.
 I knew nothing against, indeed I knew nothing about, any of the
 gentlemen then summoned, beyond a bare introduction to Mr. Henderson,
-whom I liked, but whose identity I was in no danger of confusing
+whom I liked, but whose [[Identity|identity]] I was in no danger of confusing
 with that of a railway-porter. I do not think that any old gentleman,
 however absent-minded, would be likely on arriving at Euston,
 let us say, to hand his Gladstone-bag to Mr. Henderson
@@ -91,19 +91,19 @@ Of the others I can only judge by the facts about their status
 as set forth in the public Press.  The Chairman, Sir David Harrell,
 appeared to be an ex-official distinguished in (of all things
 in the world) the Irish Constabulary.  I have no earthly
-reason to doubt that the Chairman meant to be fair; but I am
+reason to [[Doubt|doubt]] that the Chairman meant to be fair; but I am
 not talking about what men mean to be, but about what they are.
 The police in Ireland are practically an army of occupation;
 a man serving in them or directing them is practically
 a soldier; and, of course, he must do his duty as such.
 But it seems truly extraordinary to select as one likely
-to sympathise with the democracy of England a man whose whole
+to sympathise with the [[democracy]] of England a man whose whole
 business in life it has been to govern against its will
-the democracy of Ireland.  What should we say if Russian
+the [[democracy]] of Ireland.  What should we say if Russian
 strikers were offered the sympathetic arbitration of the head
 of the Russian Police in Finland or Poland?  And if we
 do not know that the whole civilised world sees Ireland
-with Poland as a typical oppressed nation, it is time we did.
+with Poland as a typical oppressed nation, it is [[Time|time]] we did.
 The Chairman, whatever his personal virtues, must be by instinct
 and habit akin to the capitalists in the dispute.  Two more of
 the Commissioners actually were the capitalists in the dispute.
@@ -119,7 +119,7 @@ and tolerably business-like. But if any one supposes that men
 of that kind can conceivably quiet any real 'quarrel with the Man
 of the Other Kind, the man whom I first described, it is frantic.
 The common worker is angry exactly because he has found out that
-all these boards consist of the same well-dressed Kind of Man,
+all these boards consist of the same [[Well|well]]-dressed Kind of Man,
 whether they are called Governmental or Capitalist.  If any one hopes
 that he will reconcile the poor, I say, as I said at the beginning,
 that such a one has not looked on the light of day or dwelt
@@ -135,11 +135,11 @@ Let us grant, for the moment, that this is so.
 This Kind of Man, with his sooty hair or sanguinary adjectives,
 cannot be represented at our committees of arbitration.
 Therefore, the other Kind of Man, fairly prosperous,
-fairly plausible, at home at least with the middle class,
+fairly plausible, at [[Home|home]] at least with the middle class,
 capable at least of reaching and touching the upper class,
 he must remain the only Kind of Man for such councils.
 
-Very well.  If then, you give at any future time any kind
+Very [[Well|well]].  If then, you give at any future [[Time|time]] any kind
 of compulsory powers to such councils to prevent strikes,
 you will be driving the first Kind of Man to work for a particular
 master as much as if you drove him with a whip.

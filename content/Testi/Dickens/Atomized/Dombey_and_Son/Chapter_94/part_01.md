@@ -23,8 +23,8 @@ of Mr Dombey’s countenance—for no delicate pair of wedding cards,
 united by a silver thread, graced the chimney-glass in Princess’s
 Place, or the harpsichord, or any of those little posts of display
 which Lucretia reserved for holiday occupation—became depressed in her
-spirits, and suffered much from melancholy. For a time the Bird Waltz
-was unheard in Princess’s Place, the plants were neglected, and dust
+spirits, and suffered much from [[Melancholy|melancholy]]. For a [[Time|time]] the Bird Waltz
+was unheard in Princess’s Place, the plants were neglected, and [[Dust|dust]]
 collected on the miniature of Miss Tox’s ancestor with the powdered
 head and pigtail.
 
@@ -45,7 +45,7 @@ Louisa.” But there was no such thing as anger in Miss Tox’s
 composition. If she had ambled on through life, in her soft spoken way,
 without any opinions, she had, at least, got so far without any harsh
 passions. The mere sight of Louisa Chick in the street one day, at a
-considerable distance, so overpowered her milky nature, that she was
+considerable distance, so overpowered her milky [[Nature|nature]], that she was
 fain to seek immediate refuge in a pastrycook’s, and there, in a musty
 little back room usually devoted to the consumption of soups, and
 pervaded by an ox-tail atmosphere, relieve her feelings by weeping
@@ -57,12 +57,12 @@ once removed from him, she felt as if her distance always had been
 immeasurable, and as if he had greatly condescended in tolerating her
 at all. No wife could be too handsome or too stately for him, according
 to Miss Tox’s sincere opinion. It was perfectly natural that in looking
-for one, he should look high. Miss Tox with tears laid down this
+for one, he should look high. Miss Tox with [[Tears|tears]] laid down this
 proposition, and fully admitted it, twenty times a day. She never
 recalled the lofty manner in which Mr Dombey had made her subservient
 to his convenience and caprices, and had graciously permitted her to be
 one of the nurses of his little son. She only thought, in her own
-words, “that she had passed a great many happy hours in that house,
+words, “that she had passed a great many happy hours in that [[house]],
 which she must ever remember with gratification, and that she could
 never cease to regard Mr Dombey as one of the most impressive and
 dignified of men.”
@@ -81,7 +81,7 @@ hidden in her breast of having somebody to whom she could talk about Mr
 Dombey, no matter how humble that somebody might be.
 
 At all events, towards the Toodle habitation Miss Tox directed her
-steps one evening, what time Mr Toodle, cindery and swart, was
+steps one evening, what [[Time|time]] Mr Toodle, cindery and swart, was
 refreshing himself with tea, in the bosom of his family. Mr Toodle had
 only three stages of existence. He was either taking refreshment in the
 bosom just mentioned, or he was tearing through the country at from
@@ -102,7 +102,7 @@ ain’t seen our Biler lately, have you?”
 his right evening, and he’s very regular.”
 
 “I suppose,” said Mr Toodle, relishing his meal infinitely, “as our
-Biler is a doin’ now about as well as a boy can do, eh, Polly?”
+Biler is a doin’ now about as [[Well|well]] as a boy can do, eh, Polly?”
 
 “Oh! he’s a doing beautiful!” responded Polly.
 
@@ -114,7 +114,7 @@ Toodle.
 “I’m glad he ain’t got to be at all secret-like, Polly,” observed Mr
 Toodle in his slow and measured way, and shovelling in his bread and
 butter with a clasp knife, as if he were stoking himself, “because that
-don’t look well; do it, Polly?”
+don’t look [[Well|well]]; do it, Polly?”
 
 “Why, of course it don’t, father. How can you ask!”
 

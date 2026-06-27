@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 2 (part 3)"
+title: "[[TheAppOfTyranny]] — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -46,7 +46,7 @@ men. Certainly there can be no better summary of the savage than this,
 
 which as we have seen, unfits him for the duel. He is the man who cannot
 
-love--no, nor even hate--his neighbour as himself.
+[[Love|love]]--no, nor even hate--his neighbour as himself.
 
 
 
@@ -54,7 +54,7 @@ But this quality in Prussia does have one effect which has reference to the
 
 same question of the lower civilisations. It disposes once and for all at
 
-least of the civilising mission of Germany. Evidently the Germans are the
+least of the civilising mission of [[Germany]]. Evidently the Germans are the
 
 last people in the world to be trusted with the task. They are as
 
@@ -84,7 +84,7 @@ in serious official documents, that the difference between him and us is a
 
 difference between "the master-race and the inferior-race." The collapse of
 
-German philosophy always occurs at the beginning rather than the end of an
+German [[philosophy]] always occurs at the beginning rather than the end of an
 
 argument; and the difficulty here is that there is no way of testing which
 
@@ -92,9 +92,9 @@ is a master-race except by asking which is your own race. If you cannot
 
 find out (as is usually the case) you fall back on the absurd occupation of
 
-writing history about pre-historic times. But I suggest quite seriously
+writing [[history]] about pre-historic times. But I suggest quite seriously
 
-that if the Germans can give their philosophy to the Hottentots, there is
+that if the Germans can give their [[philosophy]] to the Hottentots, there is
 
 no reason why they should not give their sense of superiority to the
 
@@ -110,7 +110,7 @@ so black as he is painted. For this principle of a quite unproved racial
 
 supremacy is the last and worst of the refusals of reciprocity. The
 
-Prussian calls all men to admire the beauty of his large blue eyes. If they
+Prussian calls all men to admire the [[Beauty|beauty]] of his large blue eyes. If they
 
 do, it is because they have inferior eyes: if they don't, it is because
 
@@ -122,7 +122,7 @@ Wherever the most miserable remnant of our race, astray and dried up in
 
 deserts, or buried forever under the fall of bad civilisations, has some
 
-feeble memory that men are men, that bargains are bargains, that there are
+feeble [[Memory|memory]] that men are men, that bargains are bargains, that there are
 
 two sides to a question, or even that it takes two to make a quarrel--that
 
@@ -132,6 +132,6 @@ the splintered stone. For the Prussian begins all his culture by that act
 
 which is the destruction of all creative thought and constructive action.
 
-He breaks that mirror in the mind, in which a man can see the face of his
+He breaks that [[Mirror|mirror]] in the mind, in which a man can see the face of his
 
 friend or foe.

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 22 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 22 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -36,7 +36,7 @@ you.”
 
 
 
-“To be sure,” continued Lucy, after a few minutes silence on both
+“To be sure,” continued Lucy, after a few minutes [[Silence|silence]] on both
 
 sides, “his mother must provide for him sometime or other; but poor
 
@@ -66,9 +66,9 @@ circumstance in favour of Lucy’s veracity; “I remember he told us, that
 
 he had been staying a fortnight with some friends near Plymouth.” She
 
-remembered too, her own surprise at the time, at his mentioning nothing
+remembered too, her own surprise at the [[Time|time]], at his mentioning nothing
 
-farther of those friends, at his total silence with respect even to
+farther of those friends, at his total [[Silence|silence]] with respect even to
 
 their names.
 
@@ -82,9 +82,9 @@ their names.
 
 
 
-“I begged him to exert himself for fear you should suspect what was the
+“I begged him to exert himself for [[Fear|fear]] you should suspect what was the
 
-matter; but it made him so melancholy, not being able to stay more than
+matter; but it made him so [[Melancholy|melancholy]], not being able to stay more than
 
 a fortnight with us, and seeing me so much affected. Poor fellow! I am
 
@@ -96,13 +96,13 @@ from her pocket and carelessly showing the direction to Elinor. “You
 
 know his hand, I dare say,—a charming one it is; but that is not
 
-written so well as usual. He was tired, I dare say, for he had just
+written so [[Well|well]] as usual. He was tired, I dare say, for he had just
 
 filled the sheet to me as full as possible.”
 
 
 
-Elinor saw that it _was_ his hand, and she could doubt no longer. This
+Elinor saw that it _was_ his hand, and she could [[Doubt|doubt]] no longer. This
 
 picture, she had allowed herself to believe, might have been
 
@@ -118,7 +118,7 @@ could hardly stand; but exertion was indispensably necessary; and she
 
 struggled so resolutely against the oppression of her feelings, that
 
-her success was speedy, and for the time complete.
+her [[success]] was speedy, and for the [[Time|time]] complete.
 
 
 

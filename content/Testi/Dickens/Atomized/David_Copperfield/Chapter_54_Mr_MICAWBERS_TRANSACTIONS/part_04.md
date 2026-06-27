@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 4)"
+title: "[[David Copperfield]] — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 We all remained quiet; Agnes covering her face.
 
-‘Well, my dear friend,’ said my aunt, after a pause, ‘and you have
+‘[[Well]], my dear friend,’ said my aunt, after a pause, ‘and you have
 really extorted the money back from him?’
 
 ‘Why, the fact is,’ returned Traddles, ‘Mr. Micawber had so completely
@@ -31,8 +31,8 @@ he would even have spent as much, to baulk or injure Copperfield.’
 Agnes. ‘And what’s become of him?’
 
 ‘I don’t know. He left here,’ said Traddles, ‘with his mother, who had
-been clamouring, and beseeching, and disclosing, the whole time. They
-went away by one of the London night coaches, and I know no more about
+been clamouring, and beseeching, and disclosing, the whole [[Time|time]]. They
+went away by one of the [[London]] [[Night|night]] coaches, and I know no more about
 him; except that his malevolence to me at parting was audacious. He
 seemed to consider himself hardly less indebted to me, than to Mr.
 Micawber; which I consider (as I told him) quite a compliment.’
@@ -48,24 +48,24 @@ object he pursues, he must pursue crookedly. It’s his only compensation
 for the outward restraints he puts upon himself. Always creeping along
 the ground to some small end or other, he will always magnify every
 object in the way; and consequently will hate and suspect everybody that
-comes, in the most innocent manner, between him and it. So the crooked
+comes, in the most [[Innocent|innocent]] manner, between him and it. So the crooked
 courses will become crookeder, at any moment, for the least reason,
-or for none. It’s only necessary to consider his history here,’ said
+or for none. It’s only necessary to consider his [[history]] here,’ said
 Traddles, ‘to know that.’
 
-‘He’s a monster of meanness!’ said my aunt.
+‘He’s a [[Monster|monster]] of meanness!’ said my aunt.
 
 ‘Really I don’t know about that,’ observed Traddles thoughtfully. ‘Many
 people can be very mean, when they give their minds to it.’
 
 ‘And now, touching Mr. Micawber,’ said my aunt.
 
-‘Well, really,’ said Traddles, cheerfully, ‘I must, once more, give Mr.
+‘[[Well]], really,’ said Traddles, cheerfully, ‘I must, once more, give Mr.
 Micawber high praise. But for his having been so patient and persevering
-for so long a time, we never could have hoped to do anything worth
+for so long a [[Time|time]], we never could have hoped to do anything worth
 speaking of. And I think we ought to consider that Mr. Micawber did
 right, for right’s sake, when we reflect what terms he might have made
-with Uriah Heep himself, for his silence.’
+with [[Uriah Heep]] himself, for his [[Silence|silence]].’
 
 ‘I think so too,’ said I.
 
@@ -78,11 +78,11 @@ it’s perfectly lawless from beginning to end--of a difficult affair.
 Those I.O.U.’s, and so forth, which Mr. Micawber gave him for the
 advances he had--’
 
-‘Well! They must be paid,’ said my aunt.
+‘[[Well]]! They must be paid,’ said my aunt.
 
 ‘Yes, but I don’t know when they may be proceeded on, or where they
 are,’ rejoined Traddles, opening his eyes; ‘and I anticipate, that,
-between this time and his departure, Mr. Micawber will be constantly
+between this [[Time|time]] and his departure, Mr. Micawber will be constantly
 arrested, or taken in execution.’
 
 ‘Then he must be constantly set free again, and taken out of execution,’
@@ -104,7 +104,7 @@ and that Mr. Micawber’s arrangement for the repayment of the advances
 should be gravely entered into, as it might be wholesome for him
 to suppose himself under that responsibility. To this, I added the
 suggestion, that I should give some explanation of his character and
-history to Mr. Peggotty, who I knew could be relied on; and that to Mr.
+[[history]] to Mr. Peggotty, who I knew could be relied on; and that to Mr.
 Peggotty should be quietly entrusted the discretion of advancing another
 hundred. I further proposed to interest Mr. Micawber in Mr. Peggotty,
 by confiding so much of Mr. Peggotty’s story to him as I might feel
@@ -118,10 +118,10 @@ Seeing that Traddles now glanced anxiously at my aunt again, I reminded
 him of the second and last point to which he had adverted.
 
 ‘You and your aunt will excuse me, Copperfield, if I touch upon a
-painful theme, as I greatly fear I shall,’ said Traddles, hesitating;
+painful theme, as I greatly [[Fear|fear]] I shall,’ said Traddles, hesitating;
 ‘but I think it necessary to bring it to your recollection. On the day
 of Mr. Micawber’s memorable denunciation a threatening allusion was made
-by Uriah Heep to your aunt’s--husband.’
+by [[Uriah Heep]] to your aunt’s--husband.’
 
 My aunt, retaining her stiff position, and apparent composure, assented
 with a nod.
@@ -138,6 +138,6 @@ hinted Traddles.
 Traddles, with a perceptible lengthening of his face, explained that he
 had not been able to approach this subject; that it had shared the fate
 of Mr. Micawber’s liabilities, in not being comprehended in the terms he
-had made; that we were no longer of any authority with Uriah Heep; and
-that if he could do us, or any of us, any injury or annoyance, no doubt
+had made; that we were no longer of any authority with [[Uriah Heep]]; and
+that if he could do us, or any of us, any injury or annoyance, no [[Doubt|doubt]]
 he would.

@@ -17,19 +17,19 @@ tags:
 CHAPTER 8. The Dowager Mrs Gowan is reminded that ‘It Never Does’
 
 
-While the waters of Venice and the ruins of Rome were sunning themselves
+While the waters of [[Venice]] and the ruins of Rome were sunning themselves
 for the pleasure of the Dorrit family, and were daily being sketched
 out of all earthly proportion, lineament, and likeness, by travelling
 pencils innumerable, the firm of Doyce and Clennam hammered away in
 Bleeding Heart Yard, and the vigorous clink of iron upon iron was heard
 there through the working hours.
 
-The younger partner had, by this time, brought the business into sound
+The younger partner had, by this [[Time|time]], brought the business into sound
 trim; and the elder, left free to follow his own ingenious devices, had
 done much to enhance the character of the factory. As an ingenious man,
 he had necessarily to encounter every discouragement that the ruling
-powers for a length of time had been able by any means to put in the way
-of this class of culprits; but that was only reasonable self-defence in
+powers for a length of [[Time|time]] had been able by any means to put in the way
+of this class of culprits; but that was only reasonable [[Self|self]]-defence in
 the powers, since How to do it must obviously be regarded as the natural
 and mortal enemy of How not to do it. In this was to be found the basis
 of the wise system, by tooth and nail upheld by the Circumlocution
@@ -41,11 +41,11 @@ though invention were on a par with felony. The system had uniformly
 found great favour with the Barnacles, and that was only reasonable,
 too; for one who worthily invents must be in earnest, and the Barnacles
 abhorred and dreaded nothing half so much. That again was very
-reasonable; since in a country suffering under the affliction of a great
-amount of earnestness, there might, in an exceeding short space of time,
+reasonable; since in a country [[Suffering|suffering]] under the affliction of a great
+amount of earnestness, there might, in an exceeding short space of [[Time|time]],
 be not a single Barnacle left sticking to a post.
 
-Daniel Doyce faced his condition with its pains and penalties attached
+[[Daniel Doyce]] faced his condition with its pains and penalties attached
 to it, and soberly worked on for the work’s sake. Clennam cheering him
 with a hearty co-operation, was a moral support to him, besides doing
 good service in his business relation. The concern prospered, and the
@@ -84,9 +84,9 @@ the qualification I have named.’
 compliments, but we know we are not--I shall have the advantage of as
 plain an explanation as can be given.’
 
-‘Well!’ said Daniel, in his steady even way, ‘I’ll try to make it so.’
+‘[[Well]]!’ said Daniel, in his steady even way, ‘I’ll try to make it so.’
 
-He had the power, often to be found in union with such a character, of
+He had the power, often to be found in [[Union|union]] with such a character, of
 explaining what he himself perceived, and meant, with the direct force
 and distinctness with which it struck his own mind. His manner of
 demonstration was so orderly and neat and simple, that it was not easy
@@ -108,7 +108,7 @@ was that it was established on irrefragable laws.
 Not only that evening, but for several succeeding evenings, Clennam was
 quite charmed by this investigation. The more he pursued it, and the
 oftener he glanced at the grey head bending over it, and the shrewd eye
-kindling with pleasure in it and love of it--instrument for probing his
+kindling with pleasure in it and [[Love|love]] of it--instrument for probing his
 heart though it had been made for twelve long years--the less he could
 reconcile it to his younger energy to let it go without one effort more.
 At length he said:
@@ -142,13 +142,13 @@ than you: I have only once set foot in that precious office, and I am
 fresh game for them. Come! I’ll try them. You shall do exactly as you
 have been doing since we have been together. I will add (as I easily
 can) to what I have been doing, the attempt to get public justice done
-to you; and, unless I have some success to report, you shall hear no
+to you; and, unless I have some [[success]] to report, you shall hear no
 more of it.’
 
-Daniel Doyce was still reluctant to consent, and again and again urged
+[[Daniel Doyce]] was still reluctant to consent, and again and again urged
 that they had better put it by. But it was natural that he should
 gradually allow himself to be over-persuaded by Clennam, and should
-yield. Yield he did. So Arthur resumed the long and hopeless labour of
+yield. Yield he did. So [[arthur|Arthur]] resumed the long and hopeless labour of
 striving to make way with the Circumlocution Office.
 
 The waiting-rooms of that Department soon began to be familiar with his
@@ -168,12 +168,12 @@ into trouble, and was, by some infuriated members of Parliament whom
 the smaller Barnacles almost suspected of labouring under diabolic
 possession, attacked on the merits of no individual case, but as an
 Institution wholly abominable and Bedlamite; then the noble or right
-honourable Barnacle who represented it in the House, would smite that
+honourable Barnacle who represented it in the [[house|House]], would smite that
 member and cleave him asunder, with a statement of the quantity of
 business (for the prevention of business) done by the Circumlocution
 Office. Then would that noble or right honourable Barnacle hold in his
 hand a paper containing a few figures, to which, with the permission
-of the House, he would entreat its attention. Then would the inferior
+of the [[house|House]], he would entreat its attention. Then would the inferior
 Barnacles exclaim, obeying orders, ‘Hear, Hear, Hear!’ and ‘Read!’ Then
 would the noble or right honourable Barnacle perceive, sir, from this
 little document, which he thought might carry conviction even to the
@@ -188,7 +188,7 @@ him the favour to make a curious calculation of the amount of stationery
 consumed in it during the same period. It formed a part of this same
 short document; and he derived from it the remarkable fact that the
 sheets of foolscap paper it had devoted to the public service would pave
-the footways on both sides of Oxford Street from end to end, and leave
+the footways on both sides of [[Oxford]] Street from end to end, and leave
 nearly a quarter of a mile to spare for the park (Immense cheering and
 laughter); while of tape--red tape--it had used enough to stretch, in
 graceful festoons, from Hyde Park Corner to the General Post Office.
@@ -201,7 +201,7 @@ on an unhappy public would be to do nothing.
 
 With sufficient occupation on his hands, now that he had this additional
 task--such a task had many and many a serviceable man died of before his
-day--Arthur Clennam led a life of slight variety. Regular visits to his
+day--[[Arthur Clennam]] led a life of slight variety. Regular visits to his
 mother’s dull sick room, and visits scarcely less regular to Mr Meagles
 at Twickenham, were its only changes during many months.
 
@@ -209,10 +209,10 @@ He sadly and sorely missed Little Dorrit. He had been prepared to miss
 her very much, but not so much. He knew to the full extent only through
 experience, what a large place in his life was left blank when her
 familiar little figure went out of it. He felt, too, that he must
-relinquish the hope of its return, understanding the family character
-sufficiently well to be assured that he and she were divided by a broad
+relinquish the [[Hope|hope]] of its return, understanding the family character
+sufficiently [[Well|well]] to be assured that he and she were divided by a broad
 ground of separation. The old interest he had had in her, and her old
-trusting reliance on him, were tinged with melancholy in his mind: so
+trusting reliance on him, were tinged with [[Melancholy|melancholy]] in his mind: so
 soon had change stolen over them, and so soon had they glided into the
 past with other secret tendernesses.
 
@@ -224,23 +224,23 @@ remembrance secretly, and that they resented him with the jail and the
 rest of its belongings.
 
 Through all these meditations which every day of his life crowded about
-her, he thought of her otherwise in the old way. She was his innocent
-friend, his delicate child, his dear Little Dorrit. This very change
-of circumstances fitted curiously in with the habit, begun on the night
+her, he thought of her otherwise in the old way. She was his [[Innocent|innocent]]
+friend, his delicate [[Child|child]], his dear Little Dorrit. This very change
+of circumstances fitted curiously in with the habit, begun on the [[Night|night]]
 when the roses floated away, of considering himself as a much older man
 than his years really made him. He regarded her from a point of view
 which in its remoteness, tender as it was, he little thought would have
 been unspeakable agony to her. He speculated about her future destiny,
 and about the husband she might have, with an affection for her which
-would have drained her heart of its dearest drop of hope, and broken it.
+would have drained her heart of its dearest drop of [[Hope|hope]], and broken it.
 
 Everything about him tended to confirm him in the custom of looking on
 himself as an elderly man, from whom such aspirations as he had combated
 in the case of Minnie Gowan (though that was not so long ago either,
-reckoning by months and seasons), were finally departed. His relations
+reckoning by months and [[Seasons|seasons]]), were finally departed. His relations
 with her father and mother were like those on which a widower son-in-law
 might have stood. If the twin sister who was dead had lived to pass away
-in the bloom of womanhood, and he had been her husband, the nature of
+in the bloom of womanhood, and he had been her husband, the [[Nature|nature]] of
 his intercourse with Mr and Mrs Meagles would probably have been just
 what it was. This imperceptibly helped to render habitual the impression
 within him, that he had done with, and dismissed that part of life.
@@ -248,7 +248,7 @@ within him, that he had done with, and dismissed that part of life.
 He invariably heard of Minnie from them, as telling them in her letters
 how happy she was, and how she loved her husband; but inseparable from
 that subject, he invariably saw the old cloud on Mr Meagles’s face. Mr
-Meagles had never been quite so radiant since the marriage as before.
+Meagles had never been quite so radiant since the [[Marriage|marriage]] as before.
 He had never quite recovered the separation from Pet. He was the same
 good-humoured, open creature; but as if his face, from being much turned
 towards the pictures of his two children which could show him only one
@@ -256,7 +256,7 @@ look, unconsciously adopted a characteristic from them, it always had
 now, through all its changes of expression, a look of loss in it.
 
 One wintry Saturday when Clennam was at the cottage, the Dowager Mrs
-Gowan drove up, in the Hampton Court equipage which pretended to be the
+Gowan drove up, in the Hampton [[Court]] equipage which pretended to be the
 exclusive equipage of so many individual proprietors. She descended, in
 her shady ambuscade of green fan, to favour Mr and Mrs Meagles with a
 call.
@@ -273,7 +273,7 @@ fallen a victim to the Meagles’ wiles.
 than I have?’
 
 Which also delicately implied that her son had been captured by mere
-beauty, and under its fascination had forgone all sorts of worldly
+[[Beauty|beauty]], and under its fascination had forgone all sorts of worldly
 advantages.
 
 ‘I am sure,’ said Mrs Gowan, without straining her attention on the
@@ -283,8 +283,8 @@ so used to roving about, and to being inconstant and popular among all
 manner of people, that it’s the greatest comfort in life. I suppose
 they’re as poor as mice, Papa Meagles?’
 
-Mr Meagles, fidgety under the question, replied, ‘I hope not, ma’am. I
-hope they will manage their little income.’
+Mr Meagles, fidgety under the question, replied, ‘I [[Hope|hope]] not, ma’am. I
+[[Hope|hope]] they will manage their little income.’
 
 ‘Oh! my dearest Meagles!’ returned the lady, tapping him on the arm with
 the green fan and then adroitly interposing it between a yawn and
@@ -299,12 +299,12 @@ artful schemer.)
 dear fellow! The idea of his managing hundreds! And the sweet pretty
 creature too. The notion of her managing! Papa Meagles! Don’t!’
 
-‘Well, ma’am,’ said Mr Meagles, gravely, ‘I am sorry to admit, then,
+‘[[Well]], ma’am,’ said Mr Meagles, gravely, ‘I am sorry to admit, then,
 that Henry certainly does anticipate his means.’
 
 ‘My dear good man--I use no ceremony with you, because we are a kind of
 relations;--positively, Mama Meagles,’ exclaimed Mrs Gowan cheerfully,
-as if the absurd coincidence then flashed upon her for the first time,
+as if the absurd coincidence then flashed upon her for the first [[Time|time]],
 ‘a kind of relations! My dear good man, in this world none of us can
 have _everything_ our own way.’
 
@@ -353,9 +353,9 @@ too much.’
 
 ‘There, there!’ said Mrs Gowan, putting him in his inferior place with
 an expressive action of her hand. ‘Too much for my poor fellow’s
-mother to bear at this time of day. They are fast married, and can’t
+mother to bear at this [[Time|time]] of day. They are fast married, and can’t
 be unmarried. There, there! I know that! You needn’t tell me that, Papa
-Meagles. I know it very well. What was it I said just now? That it was
+Meagles. I know it very [[Well|well]]. What was it I said just now? That it was
 a great comfort they continued happy. It is to be hoped they will still
 continue happy. It is to be hoped Pretty One will do everything she
 can to make my poor fellow happy, and keep him contented. Papa and Mama
@@ -363,15 +363,15 @@ Meagles, we had better say no more about it. We never did look at this
 subject from the same side, and we never shall. There, there! Now I am
 good.’
 
-Truly, having by this time said everything she could say in maintenance
+Truly, having by this [[Time|time]] said everything she could say in maintenance
 of her wonderfully mythical position, and in admonition to Mr Meagles
 that he must not expect to bear his honours of alliance too cheaply, Mrs
 Gowan was disposed to forgo the rest. If Mr Meagles had submitted to
 a glance of entreaty from Mrs Meagles, and an expressive gesture from
 Clennam, he would have left her in the undisturbed enjoyment of this
-state of mind. But Pet was the darling and pride of his heart; and if he
+state of mind. But Pet was the darling and [[Pride|pride]] of his heart; and if he
 could ever have championed her more devotedly, or loved her better, than
-in the days when she was the sunlight of his house, it would have been
+in the days when she was the sunlight of his [[house]], it would have been
 now, when, as its daily grace and delight, she was lost to it.
 
 ‘Mrs Gowan, ma’am,’ said Mr Meagles, ‘I have been a plain man all my
@@ -384,8 +384,8 @@ the bloom on her cheeks standing out a little more vividly than usual as
 the neighbouring surface became paler, ‘probably not.’
 
 ‘Therefore, my good madam,’ said Mr Meagles, at great pains to
-restrain himself, ‘I hope I may, without offence, ask to have no such
-mystification played off upon me.’
+restrain himself, ‘I [[Hope|hope]] I may, without offence, ask to have no such
+[[Mystification|mystification]] played off upon me.’
 
 ‘Mama Meagles,’ observed Mrs Gowan, ‘your good man is incomprehensible.’
 
@@ -398,21 +398,21 @@ match. Let me beg of you to remain quiet. Come, Mrs Gowan, come! Let
 us try to be sensible; let us try to be good-natured; let us try to
 be fair. Don’t you pity Henry, and I won’t pity Pet. And don’t be
 one-sided, my dear madam; it’s not considerate, it’s not kind. Don’t
-let us say that we hope Pet will make Henry happy, or even that we hope
+let us say that we [[Hope|hope]] Pet will make Henry happy, or even that we [[Hope|hope]]
 Henry will make Pet happy,’ (Mr Meagles himself did not look happy as he
-spoke the words,) ‘but let us hope they will make each other happy.’
+spoke the words,) ‘but let us [[Hope|hope]] they will make each other happy.’
 
 ‘Yes, sure, and there leave it, father,’ said Mrs Meagles the
 kind-hearted and comfortable.
 
 ‘Why, mother, no,’ returned Mr Meagles, ‘not exactly there. I can’t
 quite leave it there; I must say just half-a-dozen words more. Mrs
-Gowan, I hope I am not over-sensitive. I believe I don’t look it.’
+Gowan, I [[Hope|hope]] I am not over-sensitive. I believe I don’t look it.’
 
 ‘Indeed you do not,’ said Mrs Gowan, shaking her head and the great
 green fan together, for emphasis.
 
-‘Thank you, ma’am; that’s well. Notwithstanding which, I feel a
+‘Thank you, ma’am; that’s [[Well|well]]. Notwithstanding which, I feel a
 little--I don’t want to use a strong word--now shall I say hurt?’
 asked Mr Meagles at once with frankness and moderation, and with a
 conciliatory appeal in his tone.
@@ -427,11 +427,11 @@ forth.’
 
 ‘_Do_ you, Papa Meagles?’ said Mrs Gowan. ‘I am not surprised.’
 
-‘Well, ma’am,’ reasoned Mr Meagles, ‘I was in hopes you would have been
+‘[[Well]], ma’am,’ reasoned Mr Meagles, ‘I was in hopes you would have been
 at least surprised, because to hurt me wilfully on so tender a subject
 is surely not generous.’
 
-‘I am not responsible,’ said Mrs Gowan, ‘for your conscience, you know.’
+‘I am not responsible,’ said Mrs Gowan, ‘for your [[Conscience|conscience]], you know.’
 
 Poor Mr Meagles looked aghast with astonishment.
 
@@ -453,25 +453,25 @@ circumstances--that from the first to the last I always objected to this
 match of yours, and at a very late period yielded a most unwilling
 consent to it.’
 
-‘Mother!’ cried Mr Meagles. ‘Do you hear this! Arthur! Do you hear
+‘Mother!’ cried Mr Meagles. ‘Do you hear this! [[arthur|Arthur]]! Do you hear
 this!’
 
 ‘The room being of a convenient size,’ said Mrs Gowan, looking about
 as she fanned herself, ‘and quite charmingly adapted in all respects to
 conversation, I should imagine I am audible in any part of it.’
 
-Some moments passed in silence, before Mr Meagles could hold himself in
+Some moments passed in [[Silence|silence]], before Mr Meagles could hold himself in
 his chair with sufficient security to prevent his breaking out of it at
 the next word he spoke. At last he said: ‘Ma’am, I am very unwilling to
 revive them, but I must remind you what my opinions and my course were,
 all along, on that unfortunate subject.’
 
 ‘O, my dear sir!’ said Mrs Gowan, smiling and shaking her head with
-accusatory intelligence, ‘they were well understood by me, I assure
+accusatory intelligence, ‘they were [[Well|well]] understood by me, I assure
 you.’
 
-‘I never, ma’am,’ said Mr Meagles, ‘knew unhappiness before that time,
-I never knew anxiety before that time. It was a time of such distress to
+‘I never, ma’am,’ said Mr Meagles, ‘knew unhappiness before that [[Time|time]],
+I never knew anxiety before that [[Time|time]]. It was a [[Time|time]] of such distress to
 me that--’ That Mr Meagles could really say no more about it, in short,
 but passed his handkerchief before his face.
 
@@ -483,7 +483,7 @@ Clennam, too. He knows whether I did or not.’
 any share in this discussion, more especially because I wish to preserve
 the best understanding and the clearest relations with Mr Henry Gowan.
 I have very strong reasons indeed, for entertaining that wish. Mrs Gowan
-attributed certain views of furthering the marriage to my friend here,
+attributed certain views of furthering the [[Marriage|marriage]] to my friend here,
 in conversation with me before it took place; and I endeavoured to
 undeceive her. I represented that I knew him (as I did and do) to be
 strenuously opposed to it, both in opinion and action.’
@@ -491,7 +491,7 @@ strenuously opposed to it, both in opinion and action.’
 ‘You see?’ said Mrs Gowan, turning the palms of her hands towards Mr
 Meagles, as if she were Justice herself, representing to him that he had
 better confess, for he had not a leg to stand on. ‘You see? Very good!
-Now Papa and Mama Meagles both!’ here she rose; ‘allow me to take the
+Now Papa and Mama Meagles both!’ here she [[Rose|rose]]; ‘allow me to take the
 liberty of putting an end to this rather formidable controversy. I will
 not say another word upon its merits. I will only say that it is an
 additional proof of what one knows from all experience; that this kind
@@ -519,10 +519,10 @@ quite amusing in its impracticability. I assure you it never does.’
 The Dowager here made a smiling obeisance, rather to the room than to
 any one in it, and therewith took a final farewell of Papa and Mama
 Meagles. Clennam stepped forward to hand her to the Pill-Box which was
-at the service of all the Pills in Hampton Court Palace; and she got
+at the service of all the Pills in Hampton [[Court]] Palace; and she got
 into that vehicle with distinguished serenity, and was driven away.
 
-Thenceforth the Dowager, with a light and careless humour, often
+Thenceforth the Dowager, with a light and careless [[Humour|humour]], often
 recounted to her particular acquaintance how, after a hard trial, she
 had found it impossible to know those people who belonged to Henry’s
 wife, and who had made that desperate set to catch him. Whether she had
@@ -530,5 +530,5 @@ come to the conclusion beforehand, that to get rid of them would give
 her favourite pretence a better air, might save her some occasional
 inconvenience, and could risk no loss (the pretty creature being fast
 married, and her father devoted to her), was best known to herself.
-Though this history has its opinion on that point too, and decidedly in
+Though this [[history]] has its opinion on that point too, and decidedly in
 the affirmative.

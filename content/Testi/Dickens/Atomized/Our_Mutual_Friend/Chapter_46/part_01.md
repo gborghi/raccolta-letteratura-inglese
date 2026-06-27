@@ -19,19 +19,19 @@ Chapter 5
 THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
 
 
-Were Bella Wilfer’s bright and ready little wits at fault, or was the
+Were [[Bella Wilfer]]’s bright and ready little wits at fault, or was the
 Golden Dustman passing through the furnace of proof and coming out
 dross? Ill news travels fast. We shall know full soon.
 
-On that very night of her return from the Happy Return, something
+On that very [[Night|night]] of her return from the Happy Return, something
 chanced which Bella closely followed with her eyes and ears. There was
 an apartment at the side of the Boffin mansion, known as Mr Boffin’s
-room. Far less grand than the rest of the house, it was far more
+room. Far less grand than the rest of the [[house]], it was far more
 comfortable, being pervaded by a certain air of homely snugness, which
 upholstering despotism had banished to that spot when it inexorably set
-its face against Mr Boffin’s appeals for mercy in behalf of any other
+its face against Mr Boffin’s appeals for [[Mercy|mercy]] in behalf of any other
 chamber. Thus, although a room of modest situation—for its windows gave
-on Silas Wegg’s old corner—and of no pretensions to velvet, satin, or
+on [[Silas Wegg]]’s old corner—and of no pretensions to velvet, satin, or
 gilding, it had got itself established in a domestic position analogous
 to that of an easy dressing-gown or pair of slippers; and whenever the
 family wanted to enjoy a particularly pleasant fireside evening, they
@@ -54,25 +54,25 @@ Bella took her book to a chair in the fireside corner, by Mrs Boffin’s
 work-table. Mr Boffin’s station was on the opposite side.
 
 ‘Now, Rokesmith,’ said the Golden Dustman, so sharply rapping the table
-to bespeak his attention as Bella turned the leaves of her book, that
+to bespeak his attention as Bella turned the [[Leaves|leaves]] of her book, that
 she started; ‘where were we?’
 
 ‘You were saying, sir,’ returned the Secretary, with an air of some
 reluctance and a glance towards those others who were present, ‘that you
-considered the time had come for fixing my salary.’
+considered the [[Time|time]] had come for fixing my salary.’
 
 ‘Don’t be above calling it wages, man,’ said Mr Boffin, testily. ‘What
 the deuce! I never talked of any salary when I was in service.’
 
 ‘My wages,’ said the Secretary, correcting himself.
 
-‘Rokesmith, you are not proud, I hope?’ observed Mr Boffin, eyeing him
+‘Rokesmith, you are not proud, I [[Hope|hope]]?’ observed Mr Boffin, eyeing him
 askance.
 
-‘I hope not, sir.’
+‘I [[Hope|hope]] not, sir.’
 
-‘Because I never was, when I was poor,’ said Mr Boffin. ‘Poverty and
-pride don’t go at all well together. Mind that. How can they go well
+‘Because I never was, when I was poor,’ said Mr Boffin. ‘[[Poverty]] and
+[[Pride|pride]] don’t go at all [[Well|well]] together. Mind that. How can they go [[Well|well]]
 together? Why it stands to reason. A man, being poor, has nothing to be
 proud of. It’s nonsense.’
 
@@ -85,7 +85,7 @@ the Secretary seemed to assent by forming the syllables of the word
 The Secretary sat down.
 
 ‘Why didn’t you sit down before?’ asked Mr Boffin, distrustfully. ‘I
-hope that wasn’t pride? But about these wages. Now, I’ve gone into the
+[[Hope|hope]] that wasn’t [[Pride|pride]]? But about these wages. Now, I’ve gone into the
 matter, and I say two hundred a year. What do you think of it? Do you
 think it’s enough?’
 
@@ -110,10 +110,10 @@ regarding what I buy for two hundred a year. If I pay for a sheep, I buy
 it out and out. Similarly, if I pay for a secretary, I buy HIM out and
 out.’
 
-‘In other words, you purchase my whole time?’
+‘In other words, you purchase my whole [[Time|time]]?’
 
 ‘Certainly I do. Look here,’ said Mr Boffin, ‘it ain’t that I want to
-occupy your whole time; you can take up a book for a minute or two when
+occupy your whole [[Time|time]]; you can take up a book for a minute or two when
 you’ve nothing better to do, though I think you’ll a’most always find
 something useful to do. But I want to keep you in attendance. It’s
 convenient to have you at all times ready on the premises. Therefore,
@@ -136,7 +136,7 @@ showed a sense of humiliation.
 and when I want you, I’ll touch it. I don’t call to mind that I have
 anything more to say at the present moment.’
 
-The Secretary rose, gathered up his papers, and withdrew. Bella’s eyes
+The Secretary [[Rose|rose]], gathered up his papers, and withdrew. Bella’s eyes
 followed him to the door, lighted on Mr Boffin complacently thrown back
 in his easy chair, and drooped over her book.
 

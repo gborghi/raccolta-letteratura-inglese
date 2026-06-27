@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 8)"
+title: "[[Shirley]] — Chapter 13 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -36,13 +36,13 @@ continue; such society would be both pleasant and improving.
 
 
 
-Caroline replied that she liked Shirley.
+Caroline replied that she liked [[Shirley]].
 
 
 
-"And there is no doubt the liking is mutual," said Moore. "If she
+"And there is no [[Doubt|doubt]] the liking is mutual," said Moore. "If she
 
-professes friendship, be certain she is sincere. She cannot feign; she
+professes [[Friendship|friendship]], be certain she is sincere. She cannot feign; she
 
 scorns hypocrisy. And, Caroline, are we never to see you at Hollow's
 
@@ -54,7 +54,7 @@ Cottage again?"
 
 
 
-"Are you much alone now?"
+"Are you much [[Alone|alone]] now?"
 
 
 
@@ -64,7 +64,7 @@ Keeldar's."
 
 
 
-"Have you been quite well lately?"
+"Have you been quite [[Well|well]] lately?"
 
 
 
@@ -100,7 +100,7 @@ into confidence. Separation is then quite to estrange us, is it?"
 
 
 
-"I do not know. Sometimes I almost fear it is."
+"I do not know. Sometimes I almost [[Fear|fear]] it is."
 
 
 
@@ -130,53 +130,53 @@ cottage."
 
 "I have come to the top of the fields sometimes of an evening and looked
 
-down. Once I saw Hortense in the garden watering her flowers, and I know
+down. Once I saw Hortense in the [[Garden|garden]] watering her [[Flowers|flowers]], and I know
 
-at what time you light your lamp in the counting-house. I have waited
+at what [[Time|time]] you light your lamp in the counting-[[house]]. I have waited
 
 for it to shine out now and then, and I have seen you bend between it
 
-and the window. I knew it was you; I could almost trace the outline of
+and the [[Window|window]]. I knew it was you; I could almost trace the outline of
 
 your form."
 
 
 
-"I wonder I never encountered you. I occasionally walk to the top of the
+"I [[Wonder|wonder]] I never encountered you. I occasionally walk to the top of the
 
 Hollow's fields after sunset."
 
 
 
-"I know you do. I had almost spoken to you one night, you passed so near
+"I know you do. I had almost spoken to you one [[Night|night]], you passed so near
 
 me."
 
 
 
-"Did I? I passed near you, and did not see you! Was I alone?"
+"Did I? I passed near you, and did not see you! Was I [[Alone|alone]]?"
 
 
 
-"I saw you twice, and neither time were you alone."
+"I saw you twice, and neither [[Time|time]] were you [[Alone|alone]]."
 
 
 
-"Who was my companion? Probably nothing but Joe Scott, or my own shadow
+"Who was my companion? Probably nothing but Joe Scott, or my own [[Shadow|shadow]]
 
 by moonlight."
 
 
 
-"No; neither Joe Scott nor your shadow, Robert. The first time you were
+"No; neither Joe Scott nor your [[Shadow|shadow]], Robert. The first [[Time|time]] you were
 
-with Mr. Yorke; and the second time what you call your shadow was a
+with Mr. Yorke; and the second [[Time|time]] what you call your [[Shadow|shadow]] was a
 
 shape with a white forehead and dark curls, and a sparkling necklace
 
 round its neck. But I only just got a glimpse of you and that fairy
 
-shadow; I did not wait to hear you converse."
+[[Shadow|shadow]]; I did not wait to hear you converse."
 
 
 
@@ -184,7 +184,7 @@ shadow; I did not wait to hear you converse."
 
 evening; can it be the ring of Gyges? Henceforth, when sitting in the
 
-counting-house by myself, perhaps at dead of night, I shall permit
+counting-[[house]] by myself, perhaps at dead of [[Night|night]], I shall permit
 
 myself to imagine that Caroline may be leaning over my shoulder reading
 
@@ -196,7 +196,7 @@ read there my thoughts."
 
 
 
-"You need fear no such infliction. I do not come near you; I only stand
+"You need [[Fear|fear]] no such infliction. I do not come near you; I only stand
 
 afar off, watching what may become of you."
 
@@ -204,7 +204,7 @@ afar off, watching what may become of you."
 
 "When I walk out along the hedgerows in the evening after the mill is
 
-shut, or at night when I take the watchman's place, I shall fancy the
+shut, or at [[Night|night]] when I take the watchman's place, I shall fancy the
 
 flutter of every little bird over its nest, the rustle of every leaf, a
 
@@ -244,15 +244,15 @@ there."
 
 
 
-"Nor is that the only occasion on which imagination has played me a
+"Nor is that the only occasion on which [[Imagination|imagination]] has played me a
 
-trick. One night, when I came home late from market, I walked into the
+trick. One [[Night|night]], when I came [[Home|home]] late from market, I walked into the
 
 cottage parlour thinking to find Hortense; but instead of her I thought
 
 I found you. There was no candle in the room; my sister had taken the
 
-light upstairs with her. The window-blind was not drawn, and broad
+light upstairs with her. The [[Window|window]]-blind was not drawn, and broad
 
 moonbeams poured through the panes. There you were, Lina, at the
 
@@ -288,4 +288,4 @@ illusions."
 
 
 
-"I wonder you have time for such illusions, occupied as your mind must
+"I [[Wonder|wonder]] you have [[Time|time]] for such illusions, occupied as your mind must

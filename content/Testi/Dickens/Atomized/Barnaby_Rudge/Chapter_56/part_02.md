@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 56 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 56 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -24,7 +24,7 @@ about his ears;--nobody could have taken shelter here.
 
 He was a strong man, accustomed to restrain himself, and suppress his
 strong emotions; but this preparation for what was to follow--though he
-had seen that fire burning, and knew that his house must be razed to the
+had seen that [[Fire|fire]] burning, and knew that his [[house]] must be razed to the
 ground--was more than he could bear. He covered his face with his hands
 for a moment, and turned away his head.
 
@@ -56,7 +56,7 @@ mechanically: ‘Let us sing to the praise and glory of--’
 Johnny. You’re all right now, an’t you? Say you’re all right, Johnny.’
 
 ‘All right?’ pondered Mr Willet, as if that were a matter entirely
-between himself and his conscience. ‘All right? Ah!’
+between himself and his [[Conscience|conscience]]. ‘All right? Ah!’
 
 ‘They haven’t been misusing you with sticks, or pokers, or any other
 blunt instruments--have they, Johnny?’ asked Solomon, with a very
@@ -66,7 +66,7 @@ John knitted his brow; looked downwards, as if he were mentally engaged
 in some arithmetical calculation; then upwards, as if the total would
 not come at his call; then at Solomon Daisy, from his eyebrow to his
 shoe-buckle; then very slowly round the bar. And then a great, round,
-leaden-looking, and not at all transparent tear, came rolling out of
+leaden-looking, and not at all transparent tear, came [[rolling]] out of
 each eye, and he said, as he shook his head:
 
 ‘If they’d only had the goodness to murder me, I’d have thanked ‘em
@@ -79,18 +79,18 @@ very, very bad, but not quite so bad as that. No, no!’
 who had dropped on one knee, and was hastily beginning to untie
 his bonds. ‘Look’ee here, sir! The very Maypole--the old dumb
 Maypole--stares in at the winder, as if it said, “John Willet, John
-Willet, let’s go and pitch ourselves in the nighest pool of water as is
+Willet, let’s go and pitch ourselves in the nighest pool of [[Water|water]] as is
 deep enough to hold us; for our day is over!”’
 
 ‘Don’t, Johnny, don’t,’ cried his friend: no less affected with this
-mournful effort of Mr Willet’s imagination, than by the sepulchral tone
+mournful effort of Mr Willet’s [[Imagination|imagination]], than by the sepulchral tone
 in which he had spoken of the Maypole. ‘Please don’t, Johnny!’
 
 ‘Your loss is great, and your misfortune a heavy one,’ said Mr Haredale,
-looking restlessly towards the door: ‘and this is not a time to comfort
+looking restlessly towards the door: ‘and this is not a [[Time|time]] to comfort
 you. If it were, I am in no condition to do so. Before I leave you, tell
 me one thing, and try to tell me plainly, I implore you. Have you seen,
-or heard of Emma?’
+or heard of [[Emma]]?’
 
 ‘No!’ said Mr Willet.
 
@@ -100,7 +100,7 @@ or heard of Emma?’
 
 ‘They rode away, I trust in Heaven, before these dreadful scenes began,’
 said Mr Haredale, who, between his agitation, his eagerness to mount
-his horse again, and the dexterity with which the cords were tied, had
+his [[Horse|horse]] again, and the dexterity with which the cords were tied, had
 scarcely yet undone one knot. ‘A knife, Daisy!’
 
 ‘You didn’t,’ said John, looking about, as though he had lost his
@@ -111,34 +111,34 @@ gentlemen--see a--a coffin anywheres, did you?’
 becoming limp from head to foot, exclaimed ‘Good gracious!’
 
 ‘--Because,’ said John, not at all regarding them, ‘a dead man called a
-little time ago, on his way yonder. I could have told you what name was
+little [[Time|time]] ago, on his way yonder. I could have told you what name was
 on the plate, if he had brought his coffin with him, and left it behind.
 If he didn’t, it don’t signify.’
 
 His landlord, who had listened to these words with breathless attention,
 started that moment to his feet; and, without a word, drew Solomon
-Daisy to the door, mounted his horse, took him up behind again, and flew
+Daisy to the door, mounted his [[Horse|horse]], took him up behind again, and flew
 rather than galloped towards the pile of ruins, which that day’s sun
-had shone upon, a stately house. Mr Willet stared after them, listened,
+had shone upon, a stately [[house]]. Mr Willet stared after them, listened,
 looked down upon himself to make quite sure that he was still unbound,
 and, without any manifestation of impatience, disappointment, or
 surprise, gently relapsed into the condition from which he had so
 imperfectly recovered.
 
-Mr Haredale tied his horse to the trunk of a tree, and grasping his
+Mr Haredale tied his [[Horse|horse]] to the trunk of a tree, and grasping his
 companion’s arm, stole softly along the footpath, and into what had
-been the garden of his house. He stopped for an instant to look upon its
-smoking walls, and at the stars that shone through roof and floor upon
+been the [[Garden|garden]] of his [[house]]. He stopped for an instant to look upon its
+smoking walls, and at the [[Stars|stars]] that shone through roof and floor upon
 the heap of crumbling ashes. Solomon glanced timidly in his face, but
 his lips were tightly pressed together, a resolute and stern expression
 sat upon his brow, and not a tear, a look, or gesture indicating grief,
 escaped him.
 
-He drew his sword; felt for a moment in his breast, as though he carried
+He drew his [[Sword|sword]]; felt for a moment in his breast, as though he carried
 other arms about him; then grasping Solomon by the wrist again, went
-with a cautious step all round the house. He looked into every doorway
+with a cautious step all round the [[house]]. He looked into every doorway
 and gap in the wall; retraced his steps at every rustling of the air
-among the leaves; and searched in every shadowed nook with outstretched
+among the [[Leaves|leaves]]; and searched in every shadowed nook with outstretched
 hands. Thus they made the circuit of the building: but they returned
 to the spot from which they had set out, without encountering any human
 being, or finding the least trace of any concealed straggler.

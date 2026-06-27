@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 12 (part 4)"
+title: "[[Villette]] — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 “Perhaps you have read it,” I thought to myself; and yet I could not
 believe he wrote it: that could hardly be his style: besides, I was
-fool enough to think there would be a degree of hardship in his calling
+[[Fool|fool]] enough to think there would be a degree of hardship in his calling
 me such names. His own look vindicated him; he grew hot, and coloured
 as he read.
 
@@ -44,26 +44,26 @@ see her: her dress was grey, like mine. This circumstance, taken in
 connection with prior transactions, suggested to me that perhaps the
 case, however deplorable, was one in which I was under no obligation
 whatever to concern myself. Accordingly, I said,—“If you can assure me
-that none of Madame Beck’s pupils are implicated in this business, I
+that none of [[Madame Beck]]’s pupils are implicated in this business, I
 shall be very happy to stand aloof from all interference. Take the
 casket, the bouquet, and the billet; for my part, I gladly forget the
 whole affair.”
 
 “Look there!” he whispered suddenly, as his hand closed on what I
-offered, and at the same time he pointed through the boughs.
+offered, and at the same [[Time|time]] he pointed through the boughs.
 
 I looked. Behold Madame, in shawl, wrapping-gown, and slippers, softly
-descending the steps, and stealing like a cat round the garden: in two
+descending the steps, and stealing like a cat round the [[Garden|garden]]: in two
 minutes she would have been upon Dr. John. If _she_ were like a cat,
 however, _he_, quite as much, resembled a leopard: nothing could be
 lighter than his tread when he chose. He watched, and as she turned a
-corner, he took the garden at two noiseless bounds. She reappeared, and
+corner, he took the [[Garden|garden]] at two noiseless bounds. She reappeared, and
 he was gone. Rosine helped him, instantly interposing the door between
 him and his huntress. I, too, might have got away, but I preferred to
 meet Madame openly.
 
-Though it was my frequent and well-known custom to spend twilight in
-the garden, yet, never till now, had I remained so late. Full sure was
+Though it was my frequent and [[Well|well]]-known custom to spend twilight in
+the [[Garden|garden]], yet, never till now, had I remained so late. Full sure was
 I that Madame had missed—was come in search of me, and designed now to
 pounce on the defaulter unawares. I expected a reprimand. No. Madame
 was all goodness. She tendered not even a remonstrance; she testified
@@ -71,7 +71,7 @@ no shade of surprise. With that consummate tact of hers, in which I
 believe she was never surpassed by living thing, she even professed
 merely to have issued forth to taste “la brise du soir.”
 
-“Quelle belle nuit!” cried she, looking up at the stars—the moon was
+“Quelle belle nuit!” cried she, looking up at the [[Stars|stars]]—the [[Moon|moon]] was
 now gone down behind the broad tower of Jean Baptiste. “Qu’il fait bon?
 que l’air est frais!”
 
@@ -80,23 +80,23 @@ her down the principal alley. When at last we both re-entered, she
 leaned affably on my shoulder by way of support in mounting the
 front-door steps; at parting, her cheek was presented to my lips, and
 “Bon soir, my bonne amie; dormez bien!” was her kindly adieu for the
-night.
+[[Night|night]].
 
 I caught myself smiling as I lay awake and thoughtful on my
 couch—smiling at Madame. The unction, the suavity of her behaviour
 offered, for one who knew her, a sure token that suspicion of some kind
 was busy in her brain. From some aperture or summit of observation,
-through parted bough or open window, she had doubtless caught a
-glimpse, remote or near, deceptive or instructive, of that night’s
+through parted bough or open [[Window|window]], she had doubtless caught a
+glimpse, remote or near, deceptive or instructive, of that [[Night|night]]’s
 transactions. Finely accomplished as she was in the art of
 surveillance, it was next to impossible that a casket could be thrown
-into her garden, or an interloper could cross her walks to seek it,
+into her [[Garden|garden]], or an interloper could [[Cross|cross]] her walks to seek it,
 without that she, in shaken branch, passing shade, unwonted footfall,
 or stilly murmur (and though Dr. John had spoken very low in the few
 words he dropped me, yet the hum of his man’s voice pervaded, I
 thought, the whole conventual ground)—without, I say, that she should
 have caught intimation of things extraordinary transpiring on her
-premises. _What_ things, she might by no means see, or at that time be
+premises. _What_ things, she might by no means see, or at that [[Time|time]] be
 able to discover; but a delicious little ravelled plot lay tempting her
 to disentanglement; and in the midst, folded round and round in
 cobwebs, had she not secured “Meess Lucie” clumsily involved, like the

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 23 (part 1)"
+title: "[[Persuasion]] — Chapter 23 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XXIII.
 
 
 
-One day only had passed since Anne’s conversation with Mrs Smith; but a
+One day only had passed since Anne’s conversation with Mrs [[smith|Smith]]; but a
 
 keener interest had succeeded, and she was now so little touched by Mr
 
@@ -30,7 +30,7 @@ a matter of course the next morning, still to defer her explanatory
 
 visit in Rivers Street. She had promised to be with the Musgroves from
 
-breakfast to dinner. Her faith was plighted, and Mr Elliot’s character,
+breakfast to dinner. Her [[Faith|faith]] was plighted, and Mr Elliot’s character,
 
 like the Sultaness Scheherazade’s head, must live another day.
 
@@ -44,11 +44,11 @@ account, and felt it very much on her own, before she was able to
 
 attempt the walk. When she reached the White Hart, and made her way to
 
-the proper apartment, she found herself neither arriving quite in time,
+the proper apartment, she found herself neither arriving quite in [[Time|time]],
 
 nor the first to arrive. The party before her were, Mrs Musgrove,
 
-talking to Mrs Croft, and Captain Harville to Captain Wentworth; and
+talking to Mrs Croft, and Captain Harville to [[Captain Wentworth]]; and
 
 she immediately heard that Mary and Henrietta, too impatient to wait,
 
@@ -62,7 +62,7 @@ outwardly composed, and feel herself plunged at once in all the
 
 agitations which she had merely laid her account of tasting a little
 
-before the morning closed. There was no delay, no waste of time. She
+before the morning closed. There was no delay, no waste of [[Time|time]]. She
 
 was deep in the happiness of such misery, or the misery of such
 
@@ -84,7 +84,7 @@ turning his back to them all, was engrossed by writing.
 
 
 
-Mrs Musgrove was giving Mrs Croft the history of her eldest daughter’s
+Mrs Musgrove was giving Mrs Croft the [[history]] of her eldest daughter’s
 
 engagement, and just in that inconvenient tone of voice which was
 
@@ -104,7 +104,7 @@ had occurred to my sister Hayter, and what the young people had wished,
 
 and what I said at first I never could consent to, but was afterwards
 
-persuaded to think might do very well,” and a great deal in the same
+persuaded to think might do very [[Well|well]],” and a great deal in the same
 
 style of open-hearted communication: minutiae which, even with every
 
@@ -112,11 +112,11 @@ advantage of taste and delicacy, which good Mrs Musgrove could not
 
 give, could be properly interesting only to the principals. Mrs Croft
 
-was attending with great good-humour, and whenever she spoke at all, it
+was attending with great good-[[Humour|humour]], and whenever she spoke at all, it
 
 was very sensibly. Anne hoped the gentlemen might each be too much
 
-self-occupied to hear.
+[[Self|self]]-occupied to hear.
 
 
 
@@ -152,7 +152,7 @@ speech, “there is nothing I so abominate for young people as a long
 
 engagement. It is what I always protested against for my children. It
 
-is all very well, I used to say, for young people to be engaged, if
+is all very [[Well|well]], I used to say, for young people to be engaged, if
 
 there is a certainty of their being able to marry in six months, or
 
@@ -164,7 +164,7 @@ even in twelve; but a long engagement—”
 
 engagement which may be long. To begin without knowing that at such a
 
-time there will be the means of marrying, I hold to be very unsafe and
+[[Time|time]] there will be the means of marrying, I hold to be very unsafe and
 
 unwise, and what I think all parents should prevent as far as they
 
@@ -178,7 +178,7 @@ herself, felt it in a nervous thrill all over her; and at the same
 
 moment that her eyes instinctively glanced towards the distant table,
 
-Captain Wentworth’s pen ceased to move, his head was raised, pausing,
+[[Captain Wentworth]]’s pen ceased to move, his head was raised, pausing,
 
 listening, and he turned round the next instant to give a look, one
 
@@ -198,9 +198,9 @@ confusion.
 
 
 
-Captain Harville, who had in truth been hearing none of it, now left
+Captain Harville, who had in [[Truth|truth]] been hearing none of it, now left
 
-his seat, and moved to a window, and Anne seeming to watch him, though
+his seat, and moved to a [[Window|window]], and Anne seeming to watch him, though
 
 it was from thorough absence of mind, became gradually sensible that he
 
@@ -214,7 +214,7 @@ which denoted the feelings of an older acquaintance than he really was,
 
 strongly enforced the invitation. She roused herself and went to him.
 
-The window at which he stood was at the other end of the room from
+The [[Window|window]] at which he stood was at the other end of the room from
 
 where the two ladies were sitting, and though nearer to Captain
 

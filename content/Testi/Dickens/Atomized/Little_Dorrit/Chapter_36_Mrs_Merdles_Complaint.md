@@ -18,9 +18,9 @@ CHAPTER 33. Mrs Merdle’s Complaint
 
 
 Resigning herself to inevitable fate by making the best of those people,
-the Miggleses, and submitting her philosophy to the draught upon it, of
-which she had foreseen the likelihood in her interview with Arthur,
-Mrs Gowan handsomely resolved not to oppose her son’s marriage. In her
+the Miggleses, and submitting her [[philosophy]] to the draught upon it, of
+which she had foreseen the likelihood in her interview with [[arthur|Arthur]],
+Mrs Gowan handsomely resolved not to oppose her son’s [[Marriage|marriage]]. In her
 progress to, and happy arrival at, this resolution, she was possibly
 influenced, not only by her maternal affections but by three politic
 considerations.
@@ -29,23 +29,23 @@ Of these, the first may have been that her son had never signified the
 smallest intention to ask her consent, or any mistrust of his ability
 to dispense with it; the second, that the pension bestowed upon her by a
 grateful country (and a Barnacle) would be freed from any little filial
-inroads, when her Henry should be married to the darling only child of
+inroads, when her Henry should be married to the darling only [[Child|child]] of
 a man in very easy circumstances; the third, that Henry’s debts must
 clearly be paid down upon the altar-railing by his father-in-law. When,
 to these three-fold points of prudence there is added the fact that
 Mrs Gowan yielded her consent the moment she knew of Mr Meagles having
-yielded his, and that Mr Meagles’s objection to the marriage had
+yielded his, and that Mr Meagles’s objection to the [[Marriage|marriage]] had
 been the sole obstacle in its way all along, it becomes the height of
 probability that the relict of the deceased Commissioner of nothing
 particular, turned these ideas in her sagacious mind.
 
 Among her connections and acquaintances, however, she maintained her
-individual dignity and the dignity of the blood of the Barnacles, by
+individual dignity and the dignity of the [[Blood|blood]] of the Barnacles, by
 diligently nursing the pretence that it was a most unfortunate business;
 that she was sadly cut up by it; that this was a perfect fascination
-under which Henry laboured; that she had opposed it for a long time,
-but what could a mother do; and the like. She had already called Arthur
-Clennam to bear witness to this fable, as a friend of the Meagles
+under which Henry laboured; that she had opposed it for a long [[Time|time]],
+but what could a mother do; and the like. She had already called [[arthur|Arthur]]
+Clennam to bear witness to this [[Fable|fable]], as a friend of the Meagles
 family; and she followed up the move by now impounding the family itself
 for the same purpose. In the first interview she accorded to Mr Meagles,
 she slided herself into the position of disconsolately but gracefully
@@ -54,56 +54,56 @@ good-breeding, she feigned that it was she--not he--who had made the
 difficulty, and who at length gave way; and that the sacrifice was
 hers--not his. The same feint, with the same polite dexterity, she
 foisted on Mrs Meagles, as a conjuror might have forced a card on that
-innocent lady; and, when her future daughter-in-law was presented to her
+[[Innocent|innocent]] lady; and, when her future daughter-in-law was presented to her
 by her son, she said on embracing her, ‘My dear, what have you done to
-Henry that has bewitched him so!’ at the same time allowing a few tears
+Henry that has bewitched him so!’ at the same [[Time|time]] allowing a few [[Tears|tears]]
 to carry before them, in little pills, the cosmetic powder on her nose;
 as a delicate but touching signal that she suffered much inwardly for
 the show of composure with which she bore her misfortune.
 
 Among the friends of Mrs Gowan (who piqued herself at once on being
 Society, and on maintaining intimate and easy relations with that
-Power), Mrs Merdle occupied a front row. True, the Hampton Court
+Power), Mrs Merdle occupied a front row. True, the Hampton [[Court]]
 Bohemians, without exception, turned up their noses at Merdle as an
 upstart; but they turned them down again, by falling flat on their faces
 to worship his wealth. In which compensating adjustment of their noses,
 they were pretty much like Treasury, Bar, and Bishop, and all the rest
 of them.
 
-To Mrs Merdle, Mrs Gowan repaired on a visit of self-condolence, after
+To Mrs Merdle, Mrs Gowan repaired on a visit of [[Self|self]]-condolence, after
 having given the gracious consent aforesaid. She drove into town for the
-purpose in a one-horse carriage irreverently called at that period of
-English history, a pill-box. It belonged to a job-master in a small way,
+purpose in a one-[[Horse|horse]] carriage irreverently called at that period of
+English [[history]], a pill-box. It belonged to a job-master in a small way,
 who drove it himself, and who jobbed it by the day, or hour, to most of
-the old ladies in Hampton Court Palace; but it was a point of ceremony,
+the old ladies in Hampton [[Court]] Palace; but it was a point of ceremony,
 in that encampment, that the whole equipage should be tacitly regarded
-as the private property of the jobber for the time being, and that the
+as the private property of the jobber for the [[Time|time]] being, and that the
 job-master should betray personal knowledge of nobody but the jobber
 in possession. So the Circumlocution Barnacles, who were the largest
 job-masters in the universe, always pretended to know of no other job
 but the job immediately in hand.
 
-Mrs Merdle was at home, and was in her nest of crimson and gold, with
+Mrs Merdle was at [[Home|home]], and was in her nest of crimson and gold, with
 the parrot on a neighbouring stem watching her with his head on one
 side, as if he took her for another splendid parrot of a larger species.
 To whom entered Mrs Gowan, with her favourite green fan, which softened
 the light on the spots of bloom.
 
-‘My dear soul,’ said Mrs Gowan, tapping the back of her friend’s hand
+‘My dear [[Soul|soul]],’ said Mrs Gowan, tapping the back of her friend’s hand
 with this fan after a little indifferent conversation, ‘you are my only
 comfort. That affair of Henry’s that I told you of, is to take place.
 Now, how does it strike you? I am dying to know, because you represent
-and express Society so well.’
+and express Society so [[Well|well]].’
 
 Mrs Merdle reviewed the bosom which Society was accustomed to review;
-and having ascertained that show-window of Mr Merdle’s and the London
+and having ascertained that show-[[Window|window]] of [[Mr Merdle]]’s and the [[London]]
 jewellers’ to be in good order, replied:
 
-‘As to marriage on the part of a man, my dear, Society requires that
-he should retrieve his fortunes by marriage. Society requires that
-he should gain by marriage. Society requires that he should found a
-handsome establishment by marriage. Society does not see, otherwise,
-what he has to do with marriage. Bird, be quiet!’
+‘As to [[Marriage|marriage]] on the part of a man, my dear, Society requires that
+he should retrieve his fortunes by [[Marriage|marriage]]. Society requires that
+he should gain by [[Marriage|marriage]]. Society requires that he should found a
+handsome establishment by [[Marriage|marriage]]. Society does not see, otherwise,
+what he has to do with [[Marriage|marriage]]. Bird, be quiet!’
 
 For the parrot on his cage above them, presiding over the conference as
 if he were a judge (and indeed he looked rather like one), had wound up
@@ -116,15 +116,15 @@ rich, and has a handsome establishment already. Those are of a different
 kind. In such cases--’
 
 Mrs Merdle shrugged her snowy shoulders and put her hand upon the
-jewel-stand, checking a little cough, as though to add, ‘why, a man
+[[Jewel|jewel]]-stand, checking a little cough, as though to add, ‘why, a man
 looks out for this sort of thing, my dear.’ Then the parrot shrieked
 again, and she put up her glass to look at him, and said, ‘Bird! Do be
 quiet!’
 
 ‘But, young men,’ resumed Mrs Merdle, ‘and by young men you know
-what I mean, my love--I mean people’s sons who have the world before
+what I mean, my [[Love|love]]--I mean people’s sons who have the world before
 them--they must place themselves in a better position towards Society by
-marriage, or Society really will not have any patience with their making
+[[Marriage|marriage]], or Society really will not have any patience with their making
 fools of themselves. Dreadfully worldly all this sounds,’ said Mrs
 Merdle, leaning back in her nest and putting up her glass again, ‘does
 it not?’
@@ -134,16 +134,16 @@ it not?’
 ‘My dear, it is not to be disputed for a moment,’ returned Mrs Merdle;
 ‘because Society has made up its mind on the subject, and there is
 nothing more to be said. If we were in a more primitive state, if we
-lived under roofs of leaves, and kept cows and sheep and creatures
+lived under roofs of [[Leaves|leaves]], and kept cows and sheep and creatures
 instead of banker’s accounts (which would be delicious; my dear, I am
-pastoral to a degree, by nature), well and good. But we don’t live
-under leaves, and keep cows and sheep and creatures. I perfectly exhaust
-myself sometimes, in pointing out the distinction to Edmund Sparkler.’
+[[Pastoral|pastoral]] to a degree, by [[Nature|nature]]), [[Well|well]] and good. But we don’t live
+under [[Leaves|leaves]], and keep cows and sheep and creatures. I perfectly exhaust
+myself sometimes, in pointing out the distinction to [[Edmund]] Sparkler.’
 
 Mrs Gowan, looking over her green fan when this young gentleman’s name
 was mentioned, replied as follows:
 
-‘My love, you know the wretched state of the country--those unfortunate
+‘My [[Love|love]], you know the wretched state of the country--those unfortunate
 concessions of John Barnacle’s!--and you therefore know the reasons for
 my being as poor as Thingummy.’
 
@@ -154,17 +154,17 @@ Gowan. ‘Either will do. It would be idle to disguise, consequently, that
 there is a wide difference between the position of your son and mine. I
 may add, too, that Henry has talent--’
 
-‘Which Edmund certainly has not,’ said Mrs Merdle, with the greatest
+‘Which [[Edmund]] certainly has not,’ said Mrs Merdle, with the greatest
 suavity.
 
 ‘--and that his talent, combined with disappointment,’ Mrs Gowan went
 on, ‘has led him into a pursuit which--ah dear me! You know, my dear.
 Such being Henry’s different position, the question is what is the most
-inferior class of marriage to which I can reconcile myself.’
+inferior class of [[Marriage|marriage]] to which I can reconcile myself.’
 
 Mrs Merdle was so much engaged with the contemplation of her arms
 (beautiful-formed arms, and the very thing for bracelets), that she
-omitted to reply for a while. Roused at length by the silence, she
+omitted to reply for a while. Roused at length by the [[Silence|silence]], she
 folded the arms, and with admirable presence of mind looked her friend
 full in the face, and said interrogatively, ‘Ye-es? And then?’
 
@@ -192,9 +192,9 @@ Henry will be relieved from debt--’
 a comfortable sort of way.
 
 ‘And that the father will make them an allowance of three hundred
-a-year, or perhaps altogether something more, which, in Italy-’
+a-year, or perhaps altogether something more, which, in [[Italy]]-’
 
-‘Oh! Going to Italy?’ said Mrs Merdle.
+‘Oh! Going to [[Italy]]?’ said Mrs Merdle.
 
 ‘For Henry to study. You need be at no loss to guess why, my dear.
 That dreadful Art--’
@@ -204,24 +204,24 @@ She understood. Say no more!
 
 ‘And that,’ said Mrs Gowan, shaking her despondent head, ‘that’s all.
 That,’ repeated Mrs Gowan, furling her green fan for the moment, and
-tapping her chin with it (it was on the way to being a double chin;
-might be called a chin and a half at present), ‘that’s all! On the death
+tapping her chin with it (it was on the way to being a [[Double|double]] chin;
+might be called a chin and a half at present), ‘that’s all! On the [[Death|death]]
 of the old people, I suppose there will be more to come; but how it may
 be restricted or locked up, I don’t know. And as to that, they may live
 for ever. My dear, they are just the kind of people to do it.’
 
-Now, Mrs Merdle, who really knew her friend Society pretty well, and who
+Now, Mrs Merdle, who really knew her friend Society pretty [[Well|well]], and who
 knew what Society’s mothers were, and what Society’s daughters were, and
 what Society’s matrimonial market was, and how prices ruled in it, and
 what scheming and counter-scheming took place for the high buyers, and
 what bargaining and huckstering went on, thought in the depths of
 her capacious bosom that this was a sufficiently good catch. Knowing,
-however, what was expected of her, and perceiving the exact nature of
+however, what was expected of her, and perceiving the exact [[Nature|nature]] of
 the fiction to be nursed, she took it delicately in her arms, and put
 her required contribution of gloss upon it.
 
-‘And that is all, my dear?’ said she, heaving a friendly sigh. ‘Well,
-well! The fault is not yours. You have nothing to reproach yourself
+‘And that is all, my dear?’ said she, heaving a friendly sigh. ‘[[Well]],
+[[Well|well]]! The fault is not yours. You have nothing to reproach yourself
 with. You must exercise the strength of mind for which you are renowned,
 and make the best of it.’
 
@@ -231,13 +231,13 @@ strenuous endeavours to--as the lawyers say--to have and to hold Henry.’
 ‘Of course they have, my dear,’ said Mrs Merdle.
 
 ‘I have persisted in every possible objection, and have worried
-myself morning, noon, and night, for means to detach Henry from the
+myself morning, [[Noon|noon]], and [[Night|night]], for means to detach Henry from the
 connection.’
 
-‘No doubt you have, my dear,’ said Mrs Merdle.
+‘No [[Doubt|doubt]] you have, my dear,’ said Mrs Merdle.
 
 ‘And all of no use. All has broken down beneath me. Now tell me, my
-love. Am I justified in at last yielding my most reluctant consent to
+[[Love|love]]. Am I justified in at last yielding my most reluctant consent to
 Henry’s marrying among people not in Society; or, have I acted with
 inexcusable weakness?’
 
@@ -250,19 +250,19 @@ Mrs Merdle saw through it perfectly, and who knew that Society would see
 through it perfectly, came out of this form, notwithstanding, as she had
 gone into it, with immense complacency and gravity.
 
-The conference was held at four or five o’clock in the afternoon, when
+The conference was held at four or five o’[[Clock|clock]] in the afternoon, when
 all the region of Harley Street, Cavendish Square, was resonant of
-carriage-wheels and double-knocks. It had reached this point when Mr
-Merdle came home from his daily occupation of causing the British
+carriage-wheels and [[Double|double]]-knocks. It had reached this point when Mr
+Merdle came [[Home|home]] from his daily occupation of causing the British
 name to be more and more respected in all parts of the civilised globe
 capable of the appreciation of world-wide commercial enterprise and
 gigantic combinations of skill and capital. For, though nobody knew with
-the least precision what Mr Merdle’s business was, except that it was
+the least precision what [[Mr Merdle]]’s business was, except that it was
 to coin money, these were the terms in which everybody defined it on all
 ceremonious occasions, and which it was the last new polite reading of
-the parable of the camel and the needle’s eye to accept without inquiry.
+the [[Parable|parable]] of the camel and the needle’s eye to accept without inquiry.
 
-For a gentleman who had this splendid work cut out for him, Mr Merdle
+For a gentleman who had this splendid work cut out for him, [[Mr Merdle]]
 looked a little common, and rather as if, in the course of his vast
 transactions, he had accidentally made an interchange of heads with
 some inferior spirit. He presented himself before the two ladies in the
@@ -274,47 +274,47 @@ know there was anybody here but the parrot.’
 
 However, as Mrs Merdle said, ‘You can come in!’ and as Mrs Gowan said
 she was just going, and had already risen to take her leave, he came in,
-and stood looking out at a distant window, with his hands crossed under
+and stood looking out at a distant [[Window|window]], with his hands crossed under
 his uneasy coat-cuffs, clasping his wrists as if he were taking himself
 into custody. In this attitude he fell directly into a reverie from
 which he was only aroused by his wife’s calling to him from her ottoman,
-when they had been for some quarter of an hour alone.
+when they had been for some quarter of an hour [[Alone|alone]].
 
-‘Eh? Yes?’ said Mr Merdle, turning towards her. ‘What is it?’
+‘Eh? Yes?’ said [[Mr Merdle]], turning towards her. ‘What is it?’
 
 ‘What is it?’ repeated Mrs Merdle. ‘It is, I suppose, that you have not
 heard a word of my complaint.’
 
-‘Your complaint, Mrs Merdle?’ said Mr Merdle. ‘I didn’t know that you
-were suffering from a complaint. What complaint?’
+‘Your complaint, Mrs Merdle?’ said [[Mr Merdle]]. ‘I didn’t know that you
+were [[Suffering|suffering]] from a complaint. What complaint?’
 
 ‘A complaint of you,’ said Mrs Merdle.
 
-‘Oh! A complaint of me,’ said Mr Merdle. ‘What is the--what have I--what
+‘Oh! A complaint of me,’ said [[Mr Merdle]]. ‘What is the--what have I--what
 may you have to complain of in me, Mrs Merdle?’
 
-In his withdrawing, abstracted, pondering way, it took him some time to
+In his withdrawing, abstracted, pondering way, it took him some [[Time|time]] to
 shape this question. As a kind of faint attempt to convince himself
-that he was the master of the house, he concluded by presenting his
+that he was the master of the [[house]], he concluded by presenting his
 forefinger to the parrot, who expressed his opinion on that subject by
 instantly driving his bill into it.
 
-‘You were saying, Mrs Merdle,’ said Mr Merdle, with his wounded finger
+‘You were saying, Mrs Merdle,’ said [[Mr Merdle]], with his wounded finger
 in his mouth, ‘that you had a complaint against me?’
 
 ‘A complaint which I could scarcely show the justice of more
 emphatically, than by having to repeat it,’ said Mrs Merdle. ‘I might as
-well have stated it to the wall. I had far better have stated it to the
+[[Well|well]] have stated it to the wall. I had far better have stated it to the
 bird. He would at least have screamed.’
 
-‘You don’t want me to scream, Mrs Merdle, I suppose,’ said Mr Merdle,
+‘You don’t want me to scream, Mrs Merdle, I suppose,’ said [[Mr Merdle]],
 taking a chair.
 
 ‘Indeed I don’t know,’ retorted Mrs Merdle, ‘but that you had better do
 that, than be so moody and distraught. One would at least know that you
 were sensible of what was going on around you.’
 
-‘A man might scream, and yet not be that, Mrs Merdle,’ said Mr Merdle,
+‘A man might scream, and yet not be that, Mrs Merdle,’ said [[Mr Merdle]],
 heavily.
 
 ‘And might be dogged, as you are at present, without screaming,’
@@ -323,7 +323,7 @@ complaint I make against you, it is, in so many plain words, that you
 really ought not to go into Society unless you can accommodate yourself
 to Society.’
 
-Mr Merdle, so twisting his hands into what hair he had upon his head
+[[Mr Merdle]], so twisting his hands into what hair he had upon his head
 that he seemed to lift himself up by it as he started out of his chair,
 cried:
 
@@ -336,24 +336,24 @@ Society? I, who shower money upon it in this way? I, who might always be
 said--to--to--to harness myself to a watering-cart full of money, and go
 about saturating Society every day of my life.’
 
-‘Pray, don’t be violent, Mr Merdle,’ said Mrs Merdle.
+‘Pray, don’t be violent, [[Mr Merdle]],’ said Mrs Merdle.
 
-‘Violent?’ said Mr Merdle. ‘You are enough to make me desperate. You
+‘Violent?’ said [[Mr Merdle]]. ‘You are enough to make me desperate. You
 don’t know half of what I do to accommodate Society. You don’t know
 anything of the sacrifices I make for it.’
 
 ‘I know,’ returned Mrs Merdle, ‘that you receive the best in the land. I
 know that you move in the whole Society of the country. And I believe
 I know (indeed, not to make any ridiculous pretence about it, I know I
-know) who sustains you in it, Mr Merdle.’
+know) who sustains you in it, [[Mr Merdle]].’
 
 ‘Mrs Merdle,’ retorted that gentleman, wiping his dull red and yellow
-face, ‘I know that as well as you do. If you were not an ornament to
+face, ‘I know that as [[Well|well]] as you do. If you were not an ornament to
 Society, and if I was not a benefactor to Society, you and I would never
 have come together. When I say a benefactor to it, I mean a person who
 provides it with all sorts of expensive things to eat and drink and look
 at. But, to tell me that I am not fit for it after all I have done
-for it--after all I have done for it,’ repeated Mr Merdle, with a wild
+for it--after all I have done for it,’ repeated [[Mr Merdle]], with a wild
 emphasis that made his wife lift up her eyelids, ‘after all--all!--to
 tell me I have no right to mix with it after all, is a pretty reward.’
 
@@ -362,18 +362,18 @@ yourself fit for it by being more degage, and less preoccupied. There is
 a positive vulgarity in carrying your business affairs about with you as
 you do.’
 
-‘How do I carry them about, Mrs Merdle?’ asked Mr Merdle.
+‘How do I carry them about, Mrs Merdle?’ asked [[Mr Merdle]].
 
 ‘How do you carry them about?’ said Mrs Merdle. ‘Look at yourself in the
 glass.’
 
-Mr Merdle involuntarily turned his eyes in the direction of the nearest
-mirror, and asked, with a slow determination of his turbid blood to his
+[[Mr Merdle]] involuntarily turned his eyes in the direction of the nearest
+[[Mirror|mirror]], and asked, with a slow determination of his turbid [[Blood|blood]] to his
 temples, whether a man was to be called to account for his digestion?
 
 ‘You have a physician,’ said Mrs Merdle.
 
-‘He does me no good,’ said Mr Merdle.
+‘He does me no good,’ said [[Mr Merdle]].
 
 Mrs Merdle changed her ground.
 
@@ -388,50 +388,50 @@ cushions, ‘to captivate people. I don’t want you to take any trouble
 upon yourself, or to try to be fascinating. I simply request you to care
 about nothing--or seem to care about nothing--as everybody else does.’
 
-‘Do I ever say I care about anything?’ asked Mr Merdle.
+‘Do I ever say I care about anything?’ asked [[Mr Merdle]].
 
 ‘Say? No! Nobody would attend to you if you did. But you show it.’
 
-‘Show what? What do I show?’ demanded Mr Merdle hurriedly.
+‘Show what? What do I show?’ demanded [[Mr Merdle]] hurriedly.
 
 ‘I have already told you. You show that you carry your business cares
-an projects about, instead of leaving them in the City, or wherever else
+an projects about, instead of leaving them in the [[City]], or wherever else
 they belong to,’ said Mrs Merdle. ‘Or seeming to. Seeming would be quite
 enough: I ask no more. Whereas you couldn’t be more occupied with your
 day’s calculations and combinations than you habitually show yourself to
 be, if you were a carpenter.’
 
-‘A carpenter!’ repeated Mr Merdle, checking something like a groan.
+‘A carpenter!’ repeated [[Mr Merdle]], checking something like a groan.
 ‘I shouldn’t so much mind being a carpenter, Mrs Merdle.’
 
 ‘And my complaint is,’ pursued the lady, disregarding the low remark,
 ‘that it is not the tone of Society, and that you ought to correct
-it, Mr Merdle. If you have any doubt of my judgment, ask even Edmund
+it, [[Mr Merdle]]. If you have any [[Doubt|doubt]] of my judgment, ask even [[Edmund]]
 Sparkler.’ The door of the room had opened, and Mrs Merdle now surveyed
-the head of her son through her glass. ‘Edmund; we want you here.’
+the head of her son through her glass. ‘[[Edmund]]; we want you here.’
 
 Mr Sparkler, who had merely put in his head and looked round the room
-without entering (as if he were searching the house for that young lady
+without entering (as if he were searching the [[house]] for that young lady
 with no nonsense about her), upon this followed up his head with his
-body, and stood before them. To whom, in a few easy words adapted to his
+[[Body|body]], and stood before them. To whom, in a few easy words adapted to his
 capacity, Mrs Merdle stated the question at issue.
 
 The young gentleman, after anxiously feeling his shirt-collar as if it
 were his pulse and he were hypochondriacal, observed, ‘That he had heard
 it noticed by fellers.’
 
-‘Edmund Sparkler has heard it noticed,’ said Mrs Merdle, with languid
-triumph. ‘Why, no doubt everybody has heard it noticed!’ Which in truth
+‘[[Edmund]] Sparkler has heard it noticed,’ said Mrs Merdle, with languid
+triumph. ‘Why, no [[Doubt|doubt]] everybody has heard it noticed!’ Which in [[Truth|truth]]
 was no unreasonable inference; seeing that Mr Sparkler would probably be
 the last person, in any assemblage of the human species, to receive an
 impression from anything that passed in his presence.
 
-‘And Edmund Sparkler will tell you, I dare say,’ said Mrs Merdle, waving
+‘And [[Edmund]] Sparkler will tell you, I dare say,’ said Mrs Merdle, waving
 her favourite hand towards her husband, ‘how he has heard it noticed.’
 
 ‘I couldn’t,’ said Mr Sparkler, after feeling his pulse as before,
-‘couldn’t undertake to say what led to it--‘cause memory desperate
-loose. But being in company with the brother of a doosed fine gal--well
+‘couldn’t undertake to say what led to it--‘cause [[Memory|memory]] desperate
+loose. But being in company with the brother of a doosed fine gal--[[Well|well]]
 educated too--with no biggodd nonsense about her--at the period alluded
 to--’
 
@@ -457,25 +457,25 @@ the Shop sits heavily on him. Say he carried the Shop about, on his back
 rather--like Jew clothesmen with too much business.’
 
 ‘Which,’ said Mrs Merdle, rising, with her floating drapery about her,
-‘is exactly my complaint. Edmund, give me your arm up-stairs.’
+‘is exactly my complaint. [[Edmund]], give me your arm up-stairs.’
 
-Mr Merdle, left alone to meditate on a better conformation of himself to
+[[Mr Merdle]], left [[Alone|alone]] to meditate on a better conformation of himself to
 Society, looked out of nine windows in succession, and appeared to
 see nine wastes of space. When he had thus entertained himself he went
 down-stairs, and looked intently at all the carpets on the ground-floor;
 and then came up-stairs again, and looked intently at all the carpets
 on the first-floor; as if they were gloomy depths, in unison with his
-oppressed soul. Through all the rooms he wandered, as he always did,
+oppressed [[Soul|soul]]. Through all the rooms he wandered, as he always did,
 like the last person on earth who had any business to approach them. Let
-Mrs Merdle announce, with all her might, that she was at Home ever
+Mrs Merdle announce, with all her might, that she was at [[Home]] ever
 so many nights in a season, she could not announce more widely and
-unmistakably than Mr Merdle did that he was never at home.
+unmistakably than [[Mr Merdle]] did that he was never at [[Home|home]].
 
 At last he met the chief butler, the sight of which splendid retainer
 always finished him. Extinguished by this great creature, he sneaked
 to his dressing-room, and there remained shut up until he rode out to
 dinner, with Mrs Merdle, in her own handsome chariot. At dinner, he was
 envied and flattered as a being of might, was Treasuried, Barred, and
-Bishoped, as much as he would; and an hour after midnight came home
-alone, and being instantly put out again in his own hall, like a
+Bishoped, as much as he would; and an hour after midnight came [[Home|home]]
+[[Alone|alone]], and being instantly put out again in his own hall, like a
 rushlight, by the chief butler, went sighing to bed.

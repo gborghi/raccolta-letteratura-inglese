@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 15 (part 2)"
+title: "[[Shirley]] — Chapter 15 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-coward. The spring of the dog had taken him by surprise, but he passed
+coward. The [[spring]] of the dog had taken him by surprise, but he passed
 
-him now in suppressed fury rather than fear. If a look could have
+him now in suppressed fury rather than [[Fear|fear]]. If a look could have
 
 strangled Tartar, he would have breathed no more. Forgetting politeness
 
@@ -30,21 +30,21 @@ been his wife, he would have made a glorious husband at the moment. In
 
 each hand he seemed as if he would have liked to clutch one and gripe
 
-her to death.
+her to [[Death|death]].
 
 
 
-However, Shirley took pity. She ceased to laugh; and Caroline was too
+However, [[Shirley]] took pity. She ceased to laugh; and Caroline was too
 
 true a lady to smile even at any one under mortification. Tartar was
 
-dismissed; Peter Augustus was soothed--for Shirley had looks and tones
+dismissed; Peter Augustus was soothed--for [[Shirley]] had looks and tones
 
 that might soothe a very bull. He had sense to feel that, since he could
 
 not challenge the owner of the dog, he had better be civil. And civil he
 
-tried to be; and his attempts being well received, he grew presently
+tried to be; and his attempts being [[Well|well]] received, he grew presently
 
 _very_ civil and quite himself again. He had come, indeed, for the
 
@@ -54,7 +54,7 @@ portents had met him on his first admission to Fieldhead; but that
 
 passage got over, charming and fascinating he resolved to be. Like
 
-March, having come in like a lion, he purposed to go out like a lamb.
+March, having come in like a [[Lion|lion]], he purposed to go out like a [[Lamb|lamb]].
 
 
 
@@ -102,7 +102,7 @@ he circled with the bandana and bound firmly together. It was evident
 
 he felt this device to be worth an encore; he repeated it more than
 
-once. The second performance sent Shirley to the window, to laugh her
+once. The second performance sent [[Shirley]] to the [[Window|window]], to laugh her
 
 silent but irrepressible laugh unseen; it turned Caroline's head aside,
 
@@ -130,7 +130,7 @@ management.
 
 
 
-From the length of time that elapsed, it appeared that John had some
+From the length of [[Time|time]] that elapsed, it appeared that John had some
 
 difficulty in persuading Mr. Donne to descend. At length, however, that
 
@@ -140,15 +140,15 @@ door, did he seem in the slightest degree ashamed or confused--not a
 
 whit. Donne, indeed, was of that coldly phlegmatic, immovably
 
-complacent, densely self-satisfied nature which is insensible to shame.
+complacent, densely [[Self|self]]-satisfied [[Nature|nature]] which is insensible to shame.
 
 He had never blushed in his life; no humiliation could abash him; his
 
 nerves were not capable of sensation enough to stir his life and make
 
-colour mount to his cheek; he had no fire in his blood and no modesty in
+colour mount to his cheek; he had no [[Fire|fire]] in his [[Blood|blood]] and no modesty in
 
-his soul; he was a frontless, arrogant, decorous slip of the
+his [[Soul|soul]]; he was a frontless, arrogant, decorous slip of the
 
 commonplace--conceited, inane, insipid; and this gentleman had a notion
 
@@ -160,9 +160,9 @@ a taste to be pleased, a heart to be reached in courtship. His notion
 
 was, when he should have formally visited her a few times, to write a
 
-letter proposing marriage. Then he calculated she would accept him for
+letter proposing [[Marriage|marriage]]. Then he calculated she would accept him for
 
-love of his office; then they would be married; then he should be master
+[[Love|love]] of his office; then they would be married; then he should be master
 
 of Fieldhead; and he should live very comfortably, have servants at his
 
@@ -172,11 +172,11 @@ have suspected his intentions when he addressed his intended bride in an
 
 impertinent, injured tone--"A very dangerous dog that, Miss Keeldar. I
 
-wonder you should keep such an animal."
+[[Wonder|wonder]] you should keep such an animal."
 
 
 
-"Do you, Mr. Donne? Perhaps you will wonder more when I tell you I am
+"Do you, Mr. Donne? Perhaps you will [[Wonder|wonder]] more when I tell you I am
 
 very fond of him."
 
@@ -194,7 +194,7 @@ fond of that brute--'tis so ugly--a mere carter's dog. Pray hang him."
 
 "And purchase in his stead some sweetly pooty pug or poodle--something
 
-appropriate to the fair sex. Ladies generally like lap-dogs."
+appropriate to the fair sex. Ladies generally like lap-[[dogs]]."
 
 
 
@@ -208,10 +208,10 @@ is universally allowed."
 
 
 
-"Tartar frightened you terribly, Mr. Donne. I hope you won't take any
+"Tartar frightened you terribly, Mr. Donne. I [[Hope|hope]] you won't take any
 
 harm."
 
 
 
-"That I shall, no doubt. He gave me a turn I shall not soon forget. When
+"That I shall, no [[Doubt|doubt]]. He gave me a turn I shall not soon forget. When

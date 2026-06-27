@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 45"
+title: "Bleak [[house|House]] — Chapter 45"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,13 +20,13 @@ In Trust
 
 
 One morning when I had done jingling about with my baskets of keys,
-as my beauty and I were walking round and round the garden I happened
-to turn my eyes towards the house and saw a long thin shadow going in
+as my [[Beauty|beauty]] and I were walking round and round the [[Garden|garden]] I happened
+to turn my eyes towards the [[house]] and saw a long thin [[Shadow|shadow]] going in
 which looked like Mr. Vholes. Ada had been telling me only that
-morning of her hopes that Richard might exhaust his ardour in the
+morning of her hopes that [[Richard]] might exhaust his ardour in the
 Chancery suit by being so very earnest in it; and therefore, not to
 damp my dear girl’s spirits, I said nothing about Mr. Vholes’s
-shadow.
+[[Shadow|shadow]].
 
 Presently came Charley, lightly winding among the bushes and tripping
 along the paths, as rosy and pretty as one of Flora’s attendants
@@ -44,7 +44,7 @@ I told Ada I would make haste back and inquired of Charley as we went
 in whether there was not a gentleman with Mr. Jarndyce. To which
 Charley, whose grammar, I confess to my shame, never did any credit
 to my educational powers, replied, “Yes, miss. Him as come down in
-the country with Mr. Richard.”
+the country with Mr. [[Richard]].”
 
 A more complete contrast than my guardian and Mr. Vholes I suppose
 there could not be. I found them looking at one another across a
@@ -57,9 +57,9 @@ never had seen two people so unmatched.
 “You know Mr. Vholes, my dear,” said my guardian. Not with the
 greatest urbanity, I must say.
 
-Mr. Vholes rose, gloved and buttoned up as usual, and seated himself
-again, just as he had seated himself beside Richard in the gig. Not
-having Richard to look at, he looked straight before him.
+Mr. Vholes [[Rose|rose]], gloved and buttoned up as usual, and seated himself
+again, just as he had seated himself beside [[Richard]] in the gig. Not
+having [[Richard]] to look at, he looked straight before him.
 
 “Mr. Vholes,” said my guardian, eyeing his black figure as if he were
 a bird of ill omen, “has brought an ugly report of our most
@@ -79,20 +79,20 @@ Doing anything but that, Mr. Vholes observed, “I have been saying
 that I have reason to know, Miss Summerson, as Mr. C.’s professional
 adviser, that Mr. C.’s circumstances are at the present moment in an
 embarrassed state. Not so much in point of amount as owing to the
-peculiar and pressing nature of liabilities Mr. C. has incurred and
+peculiar and pressing [[Nature|nature]] of liabilities Mr. C. has incurred and
 the means he has of liquidating or meeting the same. I have staved
 off many little matters for Mr. C., but there is a limit to staving
 off, and we have reached it. I have made some advances out of pocket
 to accommodate these unpleasantnesses, but I necessarily look to
 being repaid, for I do not pretend to be a man of capital, and I have
 a father to support in the Vale of Taunton, besides striving to
-realize some little independence for three dear girls at home. My
+realize some little independence for three dear girls at [[Home|home]]. My
 apprehension is, Mr. C.’s circumstances being such, lest it should
 end in his obtaining leave to part with his commission, which at all
 events is desirable to be made known to his connexions.”
 
 Mr. Vholes, who had looked at me while speaking, here emerged into
-the silence he could hardly be said to have broken, so stifled was
+the [[Silence|silence]] he could hardly be said to have broken, so stifled was
 his tone, and looked before him again.
 
 “Imagine the poor fellow without even his present resource,” said my
@@ -102,43 +102,43 @@ to drive him to an extremity, if nothing else did.”
 
 Mr. Vholes hereupon addressed me again.
 
-“What Mr. Jarndyce remarks, miss, is no doubt the case, and is the
+“What Mr. Jarndyce remarks, miss, is no [[Doubt|doubt]] the case, and is the
 difficulty. I do not see that anything is to be done. I do not say
 that anything is to be done. Far from it. I merely come down here
 under the seal of confidence and mention it in order that everything
 may be openly carried on and that it may not be said afterwards that
 everything was not openly carried on. My wish is that everything
-should be openly carried on. I desire to leave a good name behind me.
+should be openly carried on. I [[Desire|desire]] to leave a good name behind me.
 If I consulted merely my own interests with Mr. C., I should not be
-here. So insurmountable, as you must well know, would be his
+here. So insurmountable, as you must [[Well|well]] know, would be his
 objections. This is not a professional attendance. This can he
 charged to nobody. I have no interest in it except as a member of
 society and a father—AND a son,” said Mr. Vholes, who had nearly
 forgotten that point.
 
 It appeared to us that Mr. Vholes said neither more nor less than the
-truth in intimating that he sought to divide the responsibility, such
-as it was, of knowing Richard’s situation. I could only suggest that
-I should go down to Deal, where Richard was then stationed, and see
+[[Truth|truth]] in intimating that he sought to divide the responsibility, such
+as it was, of knowing [[Richard]]’s situation. I could only suggest that
+I should go down to Deal, where [[Richard]] was then stationed, and see
 him, and try if it were possible to avert the worst. Without
 consulting Mr. Vholes on this point, I took my guardian aside to
-propose it, while Mr. Vholes gauntly stalked to the fire and warmed
+propose it, while Mr. Vholes gauntly stalked to the [[Fire|fire]] and warmed
 his funeral gloves.
 
-The fatigue of the journey formed an immediate objection on my
+The fatigue of the [[Journey|journey]] formed an immediate objection on my
 guardian’s part, but as I saw he had no other, and as I was only too
 happy to go, I got his consent. We had then merely to dispose of Mr.
 Vholes.
 
-“Well, sir,” said Mr. Jarndyce, “Miss Summerson will communicate with
-Mr. Carstone, and you can only hope that his position may be yet
-retrievable. You will allow me to order you lunch after your journey,
+“[[Well]], sir,” said Mr. Jarndyce, “Miss Summerson will communicate with
+Mr. Carstone, and you can only [[Hope|hope]] that his position may be yet
+retrievable. You will allow me to order you lunch after your [[Journey|journey]],
 sir.”
 
 “I thank you, Mr. Jarndyce,” said Mr. Vholes, putting out his long
 black sleeve to check the ringing of the bell, “not any. I thank you,
 no, not a morsel. My digestion is much impaired, and I am but a poor
-knife and fork at any time. If I was to partake of solid food at this
+knife and fork at any [[Time|time]]. If I was to partake of solid food at this
 period of the day, I don’t know what the consequences might be.
 Everything having been openly carried on, sir, I will now with your
 permission take my leave.”
@@ -148,14 +148,14 @@ our leave, Mr. Vholes,” returned my guardian bitterly, “of a cause
 you know of.”
 
 Mr. Vholes, whose black dye was so deep from head to foot that it had
-quite steamed before the fire, diffusing a very unpleasant perfume,
+quite steamed before the [[Fire|fire]], diffusing a very unpleasant perfume,
 made a short one-sided inclination of his head from the neck and
 slowly shook it.
 
-“We whose ambition it is to be looked upon in the light of
+“We whose [[Ambition|ambition]] it is to be looked upon in the light of
 respectable practitioners, sir, can but put our shoulders to the
-wheel. We do it, sir. At least, I do it myself; and I wish to think
-well of my professional brethren, one and all. You are sensible of an
+[[Wheel|wheel]]. We do it, sir. At least, I do it myself; and I wish to think
+[[Well|well]] of my professional brethren, one and all. You are sensible of an
 obligation not to refer to me, miss, in communicating with Mr. C.?”
 
 I said I would be careful not to do it.
@@ -163,34 +163,34 @@ I said I would be careful not to do it.
 “Just so, miss. Good morning. Mr. Jarndyce, good morning, sir.” Mr.
 Vholes put his dead glove, which scarcely seemed to have any hand in
 it, on my fingers, and then on my guardian’s fingers, and took his
-long thin shadow away. I thought of it on the outside of the coach,
-passing over all the sunny landscape between us and London, chilling
+long thin [[Shadow|shadow]] away. I thought of it on the outside of the coach,
+passing over all the sunny landscape between us and [[London]], chilling
 the seed in the ground as it glided along.
 
 Of course it became necessary to tell Ada where I was going and why I
 was going, and of course she was anxious and distressed. But she was
-too true to Richard to say anything but words of pity and words of
+too true to [[Richard]] to say anything but words of pity and words of
 excuse, and in a more loving spirit still—my dear devoted girl!—she
 wrote him a long letter, of which I took charge.
 
 Charley was to be my travelling companion, though I am sure I wanted
-none and would willingly have left her at home. We all went to London
+none and would willingly have left her at [[Home|home]]. We all went to [[London]]
 that afternoon, and finding two places in the mail, secured them. At
-our usual bed-time, Charley and I were rolling away seaward with the
+our usual bed-[[Time|time]], Charley and I were [[rolling]] away seaward with the
 Kentish letters.
 
-It was a night’s journey in those coach times, but we had the mail to
-ourselves and did not find the night very tedious. It passed with me
+It was a [[Night|night]]’s [[Journey|journey]] in those coach times, but we had the mail to
+ourselves and did not find the [[Night|night]] very tedious. It passed with me
 as I suppose it would with most people under such circumstances. At
-one while my journey looked hopeful, and at another hopeless. Now I
+one while my [[Journey|journey]] looked hopeful, and at another hopeless. Now I
 thought I should do some good, and now I wondered how I could ever
 have supposed so. Now it seemed one of the most reasonable things in
 the world that I should have come, and now one of the most
-unreasonable. In what state I should find Richard, what I should say
+unreasonable. In what state I should find [[Richard]], what I should say
 to him, and what he would say to me occupied my mind by turns with
 these two states of feeling; and the wheels seemed to play one tune
 (to which the burden of my guardian’s letter set itself) over and
-over again all night.
+over again all [[Night|night]].
 
 At last we came into the narrow streets of Deal, and very gloomy they
 were upon a raw misty morning. The long flat beach, with its little
@@ -206,11 +206,11 @@ were spinning themselves into cordage.
 But when we got into a warm room in an excellent hotel and sat down,
 comfortably washed and dressed, to an early breakfast (for it was too
 late to think of going to bed), Deal began to look more cheerful. Our
-little room was like a ship’s cabin, and that delighted Charley very
+little room was like a [[Ship|ship]]’s cabin, and that delighted Charley very
 much. Then the fog began to rise like a curtain, and numbers of ships
 that we had had no idea were near appeared. I don’t know how many
 sail the waiter told us were then lying in the downs. Some of these
-vessels were of grand size—one was a large Indiaman just come home;
+vessels were of grand size—one was a large Indiaman just come [[Home|home]];
 and when the sun shone through the clouds, making silvery pools in
 the dark sea, the way in which these ships brightened, and shadowed,
 and changed, amid a bustle of boats pulling off from the shore to
@@ -218,7 +218,7 @@ them and from them to the shore, and a general life and motion in
 themselves and everything around them, was most beautiful.
 
 The large Indiaman was our great attraction because she had come into
-the downs in the night. She was surrounded by boats, and we said how
+the downs in the [[Night|night]]. She was surrounded by boats, and we said how
 glad the people on board of her must be to come ashore. Charley was
 curious, too, about the voyage, and about the heat in India, and the
 serpents and the tigers; and as she picked up such information much
@@ -226,20 +226,20 @@ faster than grammar, I told her what I knew on those points. I told
 her, too, how people in such voyages were sometimes wrecked and cast
 on rocks, where they were saved by the intrepidity and humanity of
 one man. And Charley asking how that could be, I told her how we knew
-at home of such a case.
+at [[Home|home]] of such a case.
 
-I had thought of sending Richard a note saying I was there, but it
+I had thought of sending [[Richard]] a note saying I was there, but it
 seemed so much better to go to him without preparation. As he lived
 in barracks I was a little doubtful whether this was feasible, but we
 went out to reconnoitre. Peeping in at the gate of the barrack-yard,
-we found everything very quiet at that time in the morning, and I
+we found everything very quiet at that [[Time|time]] in the morning, and I
 asked a sergeant standing on the guardhouse-steps where he lived. He
 sent a man before to show me, who went up some bare stairs, and
 knocked with his knuckles at a door, and left us.
 
-“Now then!” cried Richard from within. So I left Charley in the
+“Now then!” cried [[Richard]] from within. So I left Charley in the
 little passage, and going on to the half-open door, said, “Can I come
-in, Richard? It’s only Dame Durden.”
+in, [[Richard]]? It’s only Dame Durden.”
 
 He was writing at a table, with a great confusion of clothes, tin
 cases, books, boots, brushes, and portmanteaus strewn all about the
@@ -247,15 +247,15 @@ floor. He was only half dressed—in plain clothes, I observed, not in
 uniform—and his hair was unbrushed, and he looked as wild as his
 room. All this I saw after he had heartily welcomed me and I was
 seated near him, for he started upon hearing my voice and caught me
-in his arms in a moment. Dear Richard! He was ever the same to me.
+in his arms in a moment. Dear [[Richard]]! He was ever the same to me.
 Down to—ah, poor poor fellow!—to the end, he never received me but
 with something of his old merry boyish manner.
 
 “Good heaven, my dear little woman,” said he, “how do you come here?
 Who could have thought of seeing you! Nothing the matter? Ada is
-well?”
+[[Well|well]]?”
 
-“Quite well. Lovelier than ever, Richard!”
+“Quite [[Well|well]]. Lovelier than ever, [[Richard]]!”
 
 “Ah!” he said, leaning back in his chair. “My poor cousin! I was
 writing to you, Esther.”
@@ -275,19 +275,19 @@ heard by chance of his being in difficulty and had come to consult
 with him what could best be done.
 
 “Like you, Esther, but useless, and so NOT like you!” said he with a
-melancholy smile. “I am away on leave this day—should have been gone
+[[Melancholy|melancholy]] smile. “I am away on leave this day—should have been gone
 in another hour—and that is to smooth it over, for my selling out.
-Well! Let bygones be bygones. So this calling follows the rest. I
+[[Well]]! Let bygones be bygones. So this calling follows the rest. I
 only want to have been in the church to have made the round of all
 the professions.”
 
-“Richard,” I urged, “it is not so hopeless as that?”
+“[[Richard]],” I urged, “it is not so hopeless as that?”
 
 “Esther,” he returned, “it is indeed. I am just so near disgrace as
 that those who are put in authority over me (as the catechism goes)
 would far rather be without me than with me. And they are right.
 Apart from debts and duns and all such drawbacks, I am not fit even
-for this employment. I have no care, no mind, no heart, no soul, but
+for this employment. I have no care, no mind, no heart, no [[Soul|soul]], but
 for one thing. Why, if this bubble hadn’t broken now,” he said,
 tearing the letter he had written into fragments and moodily casting
 them away, by driblets, “how could I have gone abroad? I must have
@@ -300,11 +300,11 @@ the hand I had laid upon his arm and touched my own lips with it to
 prevent me from going on.
 
 “No, Dame Durden! Two subjects I forbid—must forbid. The first is
-John Jarndyce. The second, you know what. Call it madness, and I tell
+[[John Jarndyce]]. The second, you know what. Call it [[Madness|madness]], and I tell
 you I can’t help it now, and can’t be sane. But it is no such thing;
 it is the one object I have to pursue. It is a pity I ever was
-prevailed upon to turn out of my road for any other. It would be
-wisdom to abandon it now, after all the time, anxiety, and pains I
+prevailed upon to turn out of my [[Road|road]] for any other. It would be
+wisdom to abandon it now, after all the [[Time|time]], anxiety, and pains I
 have bestowed upon it! Oh, yes, true wisdom. It would be very
 agreeable, too, to some people; but I never will.”
 
@@ -316,16 +316,16 @@ out Ada’s letter and put it in his hand.
 
 As I told him yes, he laid it on the table, and resting his head upon
 his hand, began. He had not read far when he rested his head upon his
-two hands—to hide his face from me. In a little while he rose as if
-the light were bad and went to the window. He finished reading it
+two hands—to hide his face from me. In a little while he [[Rose|rose]] as if
+the light were bad and went to the [[Window|window]]. He finished reading it
 there, with his back towards me, and after he had finished and had
 folded it up, stood there for some minutes with the letter in his
-hand. When he came back to his chair, I saw tears in his eyes.
+hand. When he came back to his chair, I saw [[Tears|tears]] in his eyes.
 
 “Of course, Esther, you know what she says here?” He spoke in a
 softened voice and kissed the letter as he asked me.
 
-“Yes, Richard.”
+“Yes, [[Richard]].”
 
 “Offers me,” he went on, tapping his foot upon the floor, “the little
 inheritance she is certain of so soon—just as little and as much as
@@ -333,28 +333,28 @@ I have wasted—and begs and prays me to take it, set myself right
 with it, and remain in the service.”
 
 “I know your welfare to be the dearest wish of her heart,” said I.
-“And, oh, my dear Richard, Ada’s is a noble heart.”
+“And, oh, my dear [[Richard]], Ada’s is a noble heart.”
 
 “I am sure it is. I—I wish I was dead!”
 
-He went back to the window, and laying his arm across it, leaned his
+He went back to the [[Window|window]], and laying his arm across it, leaned his
 head down on his arm. It greatly affected me to see him so, but I
 hoped he might become more yielding, and I remained silent. My
 experience was very limited; I was not at all prepared for his
 rousing himself out of this emotion to a new sense of injury.
 
-“And this is the heart that the same John Jarndyce, who is not
+“And this is the heart that the same [[John Jarndyce]], who is not
 otherwise to be mentioned between us, stepped in to estrange from
 me,” said he indignantly. “And the dear girl makes me this generous
-offer from under the same John Jarndyce’s roof, and with the same
-John Jarndyce’s gracious consent and connivance, I dare say, as a new
+offer from under the same [[John Jarndyce]]’s roof, and with the same
+[[John Jarndyce]]’s gracious consent and connivance, I dare say, as a new
 means of buying me off.”
 
-“Richard!” I cried out, rising hastily. “I will not hear you say such
-shameful words!” I was very angry with him indeed, for the first time
+“[[Richard]]!” I cried out, rising hastily. “I will not hear you say such
+shameful words!” I was very angry with him indeed, for the first [[Time|time]]
 in my life, but it only lasted a moment. When I saw his worn young
 face looking at me as if he were sorry, I put my hand on his shoulder
-and said, “If you please, my dear Richard, do not speak in such a
+and said, “If you please, my dear [[Richard]], do not speak in such a
 tone to me. Consider!”
 
 He blamed himself exceedingly and told me in the most generous manner
@@ -370,14 +370,14 @@ could show you which would convince you it is all over here. I have
 done with the red coat, believe me. But it is some satisfaction, in
 the midst of my troubles and perplexities, to know that I am pressing
 Ada’s interests in pressing my own. Vholes has his shoulder to the
-wheel, and he cannot help urging it on as much for her as for me,
+[[Wheel|wheel]], and he cannot help urging it on as much for her as for me,
 thank God!”
 
 His sanguine hopes were rising within him and lighting up his
 features, but they made his face more sad to me than it had been
 before.
 
-“No, no!” cried Richard exultingly. “If every farthing of Ada’s
+“No, no!” cried [[Richard]] exultingly. “If every farthing of Ada’s
 little fortune were mine, no part of it should be spent in retaining
 me in what I am not fit for, can take no interest in, and am weary
 of. It should be devoted to what promises a better return, and should
@@ -390,23 +390,23 @@ anyway, but that would swell it. Come, come! You shall carry a letter
 to Ada from me, Esther, and you must both of you be more hopeful of
 me and not believe that I am quite cast away just yet, my dear.”
 
-I will not repeat what I said to Richard. I know it was tiresome, and
+I will not repeat what I said to [[Richard]]. I know it was tiresome, and
 nobody is to suppose for a moment that it was at all wise. It only
 came from my heart. He heard it patiently and feelingly, but I saw
 that on the two subjects he had reserved it was at present hopeless
 to make any representation to him. I saw too, and had experienced in
 this very interview, the sense of my guardian’s remark that it was
-even more mischievous to use persuasion with him than to leave him as
+even more mischievous to use [[Persuasion|persuasion]] with him than to leave him as
 he was.
 
-Therefore I was driven at last to asking Richard if he would mind
+Therefore I was driven at last to asking [[Richard]] if he would mind
 convincing me that it really was all over there, as he had said, and
 that it was not his mere impression. He showed me without hesitation
 a correspondence making it quite plain that his retirement was
 arranged. I found, from what he told me, that Mr. Vholes had copies
 of these papers and had been in consultation with him throughout.
 Beyond ascertaining this, and having been the bearer of Ada’s letter,
-and being (as I was going to be) Richard’s companion back to London,
+and being (as I was going to be) [[Richard]]’s companion back to [[London]],
 I had done no good by coming down. Admitting this to myself with a
 reluctant heart, I said I would return to the hotel and wait until he
 joined me there, so he threw a cloak over his shoulders and saw me to
@@ -423,12 +423,12 @@ about them as if they were glad to be in England again. “Charley,
 Charley,” said I, “come away!” And I hurried on so swiftly that my
 little maid was surprised.
 
-It was not until we were shut up in our cabin-room and I had had time
+It was not until we were shut up in our cabin-room and I had had [[Time|time]]
 to take breath that I began to think why I had made such haste. In
 one of the sunburnt faces I had recognized Mr. Allan Woodcourt, and I
 had been afraid of his recognizing me. I had been unwilling that he
 should see my altered looks. I had been taken by surprise, and my
-courage had quite failed me.
+[[Courage|courage]] had quite failed me.
 
 But I knew this would not do, and I now said to myself, “My dear,
 there is no reason—there is and there can be no reason at all—why
@@ -446,9 +446,9 @@ I was determined not to do so. “No, my dear, no. No, no, no!”
 
 I untied my bonnet and put my veil half up—I think I mean half down,
 but it matters very little—and wrote on one of my cards that I
-happened to be there with Mr. Richard Carstone, and I sent it in to
+happened to be there with Mr. [[Richard Carstone]], and I sent it in to
 Mr. Woodcourt. He came immediately. I told him I was rejoiced to be
-by chance among the first to welcome him home to England. And I saw
+by chance among the first to welcome him [[Home|home]] to England. And I saw
 that he was very sorry for me.
 
 “You have been in shipwreck and peril since you left us, Mr.
@@ -472,7 +472,7 @@ affectionate creature, as I have reason to say.”
 was so very sorry for me that he could scarcely speak.
 
 “I assure you,” said I, “that I was deeply touched by her sympathy
-and pleasure at the time I have referred to.”
+and pleasure at the [[Time|time]] I have referred to.”
 
 “I was grieved to hear that you had been very ill.”
 
@@ -483,35 +483,35 @@ and pleasure at the time I have referred to.”
 “I have quite recovered my health and my cheerfulness,” said I. “You
 know how good my guardian is and what a happy life we lead, and I
 have everything to be thankful for and nothing in the world to
-desire.”
+[[Desire|desire]].”
 
 I felt as if he had greater commiseration for me than I had ever had
 for myself. It inspired me with new fortitude and new calmness to
 find that it was I who was under the necessity of reassuring him. I
-spoke to him of his voyage out and home, and of his future plans, and
+spoke to him of his voyage out and [[Home|home]], and of his future plans, and
 of his probable return to India. He said that was very doubtful. He
 had not found himself more favoured by fortune there than here. He
-had gone out a poor ship’s surgeon and had come home nothing better.
+had gone out a poor [[Ship|ship]]’s surgeon and had come [[Home|home]] nothing better.
 While we were talking, and when I was glad to believe that I had
 alleviated (if I may use such a term) the shock he had had in seeing
-me, Richard came in. He had heard downstairs who was with me, and
+me, [[Richard]] came in. He had heard downstairs who was with me, and
 they met with cordial pleasure.
 
 I saw that after their first greetings were over, and when they spoke
-of Richard’s career, Mr. Woodcourt had a perception that all was not
-going well with him. He frequently glanced at his face as if there
-were something in it that gave him pain, and more than once he looked
+of [[Richard]]’s career, Mr. Woodcourt had a perception that all was not
+going [[Well|well]] with him. He frequently glanced at his face as if there
+were something in it that gave him [[Pain|pain]], and more than once he looked
 towards me as though he sought to ascertain whether I knew what the
-truth was. Yet Richard was in one of his sanguine states and in good
+[[Truth|truth]] was. Yet [[Richard]] was in one of his sanguine states and in good
 spirits and was thoroughly pleased to see Mr. Woodcourt again, whom
 he had always liked.
 
-Richard proposed that we all should go to London together; but Mr.
-Woodcourt, having to remain by his ship a little longer, could not
+[[Richard]] proposed that we all should go to [[London]] together; but Mr.
+Woodcourt, having to remain by his [[Ship|ship]] a little longer, could not
 join us. He dined with us, however, at an early hour, and became so
 much more like what he used to be that I was still more at peace to
 think I had been able to soften his regrets. Yet his mind was not
-relieved of Richard. When the coach was almost ready and Richard ran
+relieved of [[Richard]]. When the coach was almost ready and [[Richard]] ran
 down to look after his luggage, he spoke to me about him.
 
 I was not sure that I had a right to lay his whole story open, but I
@@ -524,7 +524,7 @@ changed?”
 
 “He is changed,” he returned, shaking his head.
 
-I felt the blood rush into my face for the first time, but it was
+I felt the [[Blood|blood]] rush into my face for the first [[Time|time]], but it was
 only an instantaneous emotion. I turned my head aside, and it was
 gone.
 
@@ -532,18 +532,18 @@ gone.
 or thinner or fatter, or paler or ruddier, as there being upon his
 face such a singular expression. I never saw so remarkable a look in
 a young person. One cannot say that it is all anxiety or all
-weariness; yet it is both, and like ungrown despair.”
+weariness; yet it is both, and like ungrown [[Despair|despair]].”
 
 “You do not think he is ill?” said I.
 
-No. He looked robust in body.
+No. He looked robust in [[Body|body]].
 
 “That he cannot be at peace in mind, we have too much reason to
-know,” I proceeded. “Mr. Woodcourt, you are going to London?”
+know,” I proceeded. “Mr. Woodcourt, you are going to [[London]]?”
 
 “To-morrow or the next day.”
 
-“There is nothing Richard wants so much as a friend. He always liked
+“There is nothing [[Richard]] wants so much as a friend. He always liked
 you. Pray see him when you get there. Pray help him sometimes with
 your companionship if you can. You do not know of what service it
 might be. You cannot think how Ada, and Mr. Jarndyce, and even I—how
@@ -554,30 +554,30 @@ first, “before heaven, I will be a true friend to him! I will accept
 him as a trust, and it shall be a sacred one!”
 
 “God bless you!” said I, with my eyes filling fast; but I thought
-they might, when it was not for myself. “Ada loves him—we all love
+they might, when it was not for myself. “Ada loves him—we all [[Love|love]]
 him, but Ada loves him as we cannot. I will tell her what you say.
 Thank you, and God bless you, in her name!”
 
-Richard came back as we finished exchanging these hurried words and
+[[Richard]] came back as we finished exchanging these hurried words and
 gave me his arm to take me to the coach.
 
 “Woodcourt,” he said, unconscious with what application, “pray let us
-meet in London!”
+meet in [[London]]!”
 
 “Meet?” returned the other. “I have scarcely a friend there now but
 you. Where shall I find you?”
 
-“Why, I must get a lodging of some sort,” said Richard, pondering.
+“Why, I must get a lodging of some sort,” said [[Richard]], pondering.
 “Say at Vholes’s, Symond’s Inn.”
 
-“Good! Without loss of time.”
+“Good! Without loss of [[Time|time]].”
 
-They shook hands heartily. When I was seated in the coach and Richard
+They shook hands heartily. When I was seated in the coach and [[Richard]]
 was yet standing in the street, Mr. Woodcourt laid his friendly hand
-on Richard’s shoulder and looked at me. I understood him and waved
+on [[Richard]]’s shoulder and looked at me. I understood him and waved
 mine in thanks.
 
 And in his last look as we drove away, I saw that he was very sorry
-for me. I was glad to see it. I felt for my old self as the dead may
+for me. I was glad to see it. I felt for my old [[Self|self]] as the dead may
 feel if they ever revisit these scenes. I was glad to be tenderly
 remembered, to be gently pitied, not to be quite forgotten.

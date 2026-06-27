@@ -1,5 +1,5 @@
 ---
-title: "Some Words with a Mummy (part 1)"
+title: "[[Some Words with a Mummy]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Some-Words-with-a-Mummy-(Poe)"
@@ -29,9 +29,9 @@ The _symposium_ of the preceding evening had been a little too much
       admit; but, concretely, it has reference to bottles of Brown Stout,
       without which, in the way of condiment, Welsh rabbit is to be eschewed.
 
-      Having thus concluded a frugal meal, and donned my night-cap, with the
-      serene hope of enjoying it till noon the next day, I placed my head upon
-      the pillow, and, through the aid of a capital conscience, fell into a
+      Having thus concluded a frugal meal, and donned my [[Night|night]]-cap, with the
+      serene [[Hope|hope]] of enjoying it till [[Noon|noon]] the next day, I placed my head upon
+      the pillow, and, through the aid of a capital [[Conscience|conscience]], fell into a
       profound slumber forthwith.
 
       But when were the hopes of humanity fulfilled? I could not have completed
@@ -44,28 +44,28 @@ The _symposium_ of the preceding evening had been a little too much
 
 “Come to me, by all means, my dear good friend, as soon as you receive
 this. Come and help us to rejoice. At last, by long persevering diplomacy, I
-have gained the assent of the Directors of the City Museum, to my examination
+have gained the assent of the Directors of the [[City]] Museum, to my examination
 of the Mummy—you know the one I mean. I have permission to unswathe it
 and open it, if desirable. A few friends only will be present—you, of
-course. The Mummy is now at my house, and we shall begin to unroll it at eleven
-to-night.
+course. The Mummy is now at my [[house]], and we shall begin to unroll it at eleven
+to-[[Night|night]].
 
            “Yours, ever,
                    PONNONNER.
 
 
-      By the time I had reached the “Ponnonner,” it struck me that I was as wide
+      By the [[Time|time]] I had reached the “Ponnonner,” it struck me that I was as wide
       awake as a man need be. I leaped out of bed in an ecstacy, overthrowing
       all in my way; dressed myself with a rapidity truly marvellous; and set
-      off, at the top of my speed, for the doctor’s.
+      off, at the top of my [[Speed|speed]], for the doctor’s.
 
       There I found a very eager company assembled. They had been awaiting me
       with much impatience; the Mummy was extended upon the dining-table; and
       the moment I entered its examination was commenced.
 
-      It was one of a pair brought, several years previously, by Captain Arthur
+      It was one of a pair brought, several years previously, by Captain [[arthur|Arthur]]
       Sabretash, a cousin of Ponnonner’s from a tomb near Eleithias, in
-      the Lybian mountains, a considerable distance above Thebes on the Nile.
+      the Lybian [[Mountains|mountains]], a considerable distance above Thebes on the Nile.
       The grottoes at this point, although less magnificent than the Theban
       sepulchres, are of higher interest, on account of affording more numerous
       illustrations of the private life of the Egyptians. The chamber from
@@ -90,7 +90,7 @@ to-night.
       composed of papyrus. It was thickly ornamented with paintings,
       representing funeral scenes, and other mournful subjects—interspersed
       among which, in every variety of position, were certain series of
-      hieroglyphical characters, intended, no doubt, for the name of the
+      hieroglyphical characters, intended, no [[Doubt|doubt]], for the name of the
       departed. By good luck, Mr. Gliddon formed one of our party; and he had no
       difficulty in translating the letters, which were simply phonetic, and
       represented the word _Allamistakeo_.
@@ -109,13 +109,13 @@ to-night.
       second and the third case there was no interval—the one fitting
       accurately within the other.
 
-      Removing the third case, we discovered and took out the body itself. We
+      Removing the third case, we discovered and took out the [[Body|body]] itself. We
       had expected to find it, as usual, enveloped in frequent rolls, or
       bandages, of linen; but, in place of these, we found a sort of sheath,
       made of papyrus, and coated with a layer of plaster, thickly gilt and
       painted. The paintings represented subjects connected with the various
-      supposed duties of the soul, and its presentation to different divinities,
+      supposed duties of the [[Soul|soul]], and its presentation to different divinities,
       with numerous identical human figures, intended, very probably, as
       portraits of the persons embalmed. Extending from head to foot was a
-      columnar, or perpendicular, inscription, in phonetic hieroglyphics, giving
+      columnar, or perpendicular, [[Inscription|inscription]], in phonetic hieroglyphics, giving
       again his name and titles, and the names and titles of his relations.

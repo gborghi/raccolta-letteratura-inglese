@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 20 (part 2)"
+title: "[[Great Expectations]] — Chapter 20 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 While I looked about me here, an exceedingly dirty and partially drunk
 minister of justice asked me if I would like to step in and hear a
 trial or so: informing me that he could give me a front place for half
-a crown, whence I should command a full view of the Lord Chief Justice
+a [[Crown|crown]], whence I should command a full view of the [[Lord Chief Justice]]
 in his wig and robes,—mentioning that awful personage like waxwork, and
 presently offering him at the reduced price of eighteen-pence. As I
 declined the proposal on the plea of an appointment, he was so good as
@@ -27,17 +27,17 @@ Door, out of which culprits came to be hanged; heightening the interest
 of that dreadful portal by giving me to understand that “four on ’em”
 would come out at that door the day after to-morrow at eight in the
 morning, to be killed in a row. This was horrible, and gave me a
-sickening idea of London; the more so as the Lord Chief Justice’s
+sickening idea of [[London]]; the more so as the [[Lord Chief Justice]]’s
 proprietor wore (from his hat down to his boots and up again to his
 pocket-handkerchief inclusive) mildewed clothes which had evidently not
 belonged to him originally, and which I took it into my head he had
 bought cheap of the executioner. Under these circumstances I thought
-myself well rid of him for a shilling.
+myself [[Well|well]] rid of him for a shilling.
 
 I dropped into the office to ask if Mr. Jaggers had come in yet, and I
-found he had not, and I strolled out again. This time, I made the tour
+found he had not, and I strolled out again. This [[Time|time]], I made the tour
 of Little Britain, and turned into Bartholomew Close; and now I became
-aware that other people were waiting about for Mr. Jaggers, as well as
+aware that other people were waiting about for Mr. Jaggers, as [[Well|well]] as
 I. There were two men of secret appearance lounging in Bartholomew
 Close, and thoughtfully fitting their feet into the cracks of the
 pavement as they talked together, one of whom said to the other when
@@ -57,8 +57,8 @@ made a deep impression on me, and I admired and wondered more than
 ever.
 
 At length, as I was looking out at the iron gate of Bartholomew Close
-into Little Britain, I saw Mr. Jaggers coming across the road towards
-me. All the others who were waiting saw him at the same time, and there
+into Little Britain, I saw Mr. Jaggers coming across the [[Road|road]] towards
+me. All the others who were waiting saw him at the same [[Time|time]], and there
 was quite a rush at him. Mr. Jaggers, putting a hand on my shoulder and
 walking me on at his side without saying anything to me, addressed
 himself to his followers.
@@ -78,7 +78,7 @@ up at all. Has Wemmick got it?”
 
 “Yes, sir,” said both the men together.
 
-“Very well; then you may go. Now, I won’t have it!” said Mr Jaggers,
+“Very [[Well|well]]; then you may go. Now, I won’t have it!” said [[Mr Jaggers]],
 waving his hand at them to put them behind him. “If you say a word to
 me, I’ll throw up the case.”
 
@@ -101,7 +101,7 @@ separated,—“Oh! Amelia, is it?”
 “And do you remember,” retorted Mr. Jaggers, “that but for me you
 wouldn’t be here and couldn’t be here?”
 
-“O yes, sir!” exclaimed both women together. “Lord bless you, sir, well
+“O yes, sir!” exclaimed both women together. “Lord bless you, sir, [[Well|well]]
 we knows that!”
 
 “Then why,” said Mr. Jaggers, “do you come here?”
@@ -115,7 +115,7 @@ you, and let him slip through my fingers. Have you paid Wemmick?”
 
 “O yes, sir! Every farden.”
 
-“Very well. Then you have done all you have got to do. Say another
+“Very [[Well|well]]. Then you have done all you have got to do. Say another
 word—one single word—and Wemmick shall give you your money back.”
 
 This terrible threat caused the two women to fall off immediately. No

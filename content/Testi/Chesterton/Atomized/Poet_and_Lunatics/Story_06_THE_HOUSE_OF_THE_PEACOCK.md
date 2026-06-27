@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE HOUSE OF THE PEACOCK"
+title: "Poet and Lunatics — THE [[house|HOUSE]] OF THE PEACOCK"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-THE HOUSE OF THE PEACOCK
+THE [[house|HOUSE]] OF THE PEACOCK
 
 IT happened that some years ago, down a sunny and empty street
 of suburban gardens and villas, a young man was walking;
 a young man in rather outlandish clothes and almost prehistoric hat;
-for he was newly come to London from a very remote and sleepy
+for he was newly come to [[London]] from a very remote and sleepy
 small town in the West Country.  There was nothing else
 especially remarkable about him, except what happened to him;
 which was certainly remarkable, not to say regrettable.
@@ -29,10 +29,10 @@ caught him by the lapels of his antiquated coat and asked him to dinner.
 It would be truer to say that he implored him to come to dinner.
 As the bewildered provincial did not know him, or anybody else
 for miles round, the situation seemed singular; but the provincial,
-vaguely supposing it to be a hospitable ceremony peculiar to London town,
+vaguely supposing it to be a hospitable ceremony peculiar to [[London]] town,
 where the streets were paved with gold, finally consented.
 He went to the hospitable mansion, which was only a few doors down
-the road; and he was never seen again in the land of the living.
+the [[Road|road]]; and he was never seen again in the land of the living.
 
 None of the ordinary explanations would seem to have fitted the case.
 The men were total strangers.  The man from the country carried
@@ -52,8 +52,8 @@ the extra touch of eccentricity which happened to distinguish
 another young man, who happened to be walking down the same
 street an hour or two afterwards on the same sunny afternoon.
 It must not be supposed that he brought to the problem any of
-the dexterities of a detective; least of all of the usual detective
-of romance, who solves problems by the closest attention to everything
+the dexterities of a [[Detective|detective]]; least of all of the usual [[Detective|detective]]
+of [[Romance|romance]], who solves problems by the closest attention to everything
 and the promptest presence of mind.  It would be truer to say of this
 man that he sometimes solved them by absence of mind.  Some solitary
 object he was staring at would become fixed in his mind like a talisman,
@@ -61,8 +61,8 @@ and he stared at it till it began to speak to him like an oracle.
 On other occasions a stone, a starfish, or a canary had thus riveted
 his eye and seemed to reply to his questions.  On the present
 occasion his text was less trivial from an ordinary standpoint;
-but it was some time before his own standpoint could be ordinary.
-He had drifted along the sunny suburban road, drinking in a certain
+but it was some [[Time|time]] before his own standpoint could be ordinary.
+He had drifted along the sunny suburban [[Road|road]], drinking in a certain
 drowsy pleasure in seeing where the laburnum made lines of gold
 in the green, or patches of white or red thorn glowed in the
 growing shadows; for the sunshine was taking on the tinge of sunset.
@@ -76,28 +76,28 @@ to vivid blue, as the object at which he was gazing moved sharply,
 turning a small head on a long neck.  It was a peacock.  But he had
 thought of a thousand things before he thought of the obvious thing.
 The burning blue of the plumage on the neck had reminded him of
-blue fire, and blue fire had reminded him of some dark fantasy about
+blue [[Fire|fire]], and blue [[Fire|fire]] had reminded him of some dark fantasy about
 blue devils, before he had fully realized even that it was a peacock
 he was staring at.  And the tail, that trailing tapestry of eyes,
 had led his wandering wits away to those dark but divine monsters
-of the Apocalypse whose eyes were multiplied like their wings,
+of the [[Apocalypse]] whose eyes were multiplied like their wings,
 before he had remembered that a peacock, even in a more practical sense,
 was an odd thing to see in so ordinary a setting.
 
 For Gabriel Gale, as the young man was called, was a minor poet,
 but something of a major painter; and, in his capacity of celebrity
-and lover of landscape, he had been invited often enough
+and [[Lover|lover]] of landscape, he had been invited often enough
 into those larger landscape gardens of the landed aristocracy,
 where peacocks as pets are not uncommon.  The very thought of such
-country seats brought back to him the memory of one of them,
+country seats brought back to him the [[Memory|memory]] of one of them,
 decayed and neglected indeed compared with most, but having
-for him the almost unbearable beauty of a lost paradise.
+for him the almost unbearable [[Beauty|beauty]] of a lost paradise.
 He saw standing for a moment in such glimmering grass a figure
 statelier than any peacock, the colours of whose dress burned blue
 with a vivid sadness that might indeed be symbolized by a blue devil.
 But when intellectual fancies and emotional regrets had alike
 rolled away, there remained a more rational perplexity.
-After all, a peacock was an unusual thing to see in the front garden
+After all, a peacock was an unusual thing to see in the front [[Garden|garden]]
 of a small suburban villa.  It seemed somehow too big for the place,
 as if it would knock down the little trees when it spread its tail.
 It was like visiting a maiden lady in lodgings, who might be expected
@@ -109,75 +109,75 @@ that for the last five minutes he had been leaning on somebody else's
 front gate with all the air of repose and finality of a rustic leaning
 on his own stile.  Comment might have been aroused if anybody had
 come out; but nobody came out.  On the contrary, somebody went in.
-As the peacock again turned its tiny crown and trailed away
-towards the house, the poet calmly opened the garden gate and
+As the peacock again turned its tiny [[Crown|crown]] and trailed away
+towards the [[house]], the poet calmly opened the [[Garden|garden]] gate and
 stepped across the grass, following in the track of the bird.
-The darkening twilight of that garden was enriched by masses of red may,
+The darkening twilight of that [[Garden|garden]] was enriched by masses of red may,
 and altogether the villa had the look of being cruder and more
 cockney than the grounds in which it stood.  Indeed, it was either
 actually unfinished or undergoing some new alterations and repairs,
 for a ladder leaned against the wall apparently to allow workmen
 to reach an upper storey and, moreover, there were marks of bushes
 having been cut or cleared away, perhaps for some new plan of building.
-Red bunches thus gathered from the bushes were stacked on the window-sill
+Red bunches thus gathered from the bushes were stacked on the [[Window|window]]-sill
 of the upper storey, and a few petals seemed to have dropped on
 the ladder, indicating that they had been carried up by that route.
 All these things the gaze of Gale gradually took in, as he stood
 with a rather bewildered air at the foot of the ladder.
-He felt the contrast between the unfinished house with the ladder
-and the rich garden with the peacock.  It was almost as if the
-aristocratic birds and bushes had been there before the bourgeois
+He felt the contrast between the unfinished [[house]] with the ladder
+and the rich [[Garden|garden]] with the peacock.  It was almost as if the
+aristocratic [[Birds|birds]] and bushes had been there before the bourgeois
 bricks and mortar.
 
-He had a curious innocence which often appeared as impudence.
+He had a curious [[innocence]] which often appeared as impudence.
 Like other human beings, he was quite capable of doing wrong knowingly
 and being ashamed of it.  But so long as he meant no wrong, it never
 even occurred to him that there could be anything to be ashamed of.
 For him burglary meant stealing; and he might have strolled, so to speak,
-down the chimney into a king's bed-chamber, so long as he had no intent
-to steal.  The invitation of the leaning ladder and the open window
+down the chimney into a [[King|king]]'s bed-chamber, so long as he had no intent
+to steal.  The invitation of the leaning ladder and the open [[Window|window]]
 was something almost too obvious even to be called an adventure.
 He began to mount the ladder as if he were going up the front steps
 of an hotel.  But when he came to the upper rungs he seemed to stop
 a moment, frowned at something; and, accelerating his ascent,
-slipped quickly over the window-sill into the room.
+slipped quickly over the [[Window|window]]-sill into the room.
 
 The twilight of the room seemed like darkness after the golden glare
 of the evening sunlight, and it was a second or two before the glimmer
-of light reflected from a round mirror opposite enabled him to make
+of light reflected from a round [[Mirror|mirror]] opposite enabled him to make
 out the main features of the interior.  The room itself seemed dusty
 and even defaced; the dark blue-green hangings, of a peacock pattern,
-as if carrying out the same scheme as the living decoration of the garden,
+as if carrying out the same scheme as the living decoration of the [[Garden|garden]],
 were themselves, nevertheless, a background of dead colours;
-and, peering into the dusty mirror, he saw it was cracked.
+and, peering into the dusty [[Mirror|mirror]], he saw it was cracked.
 Nevertheless, the neglected room was evidently partly redecorated
 for a new festivity, for a long table was elaborately laid out
 for a dinner-party. By every plate was a group of quaint and varied
 glasses for the wines of every course; and the blue vases on the table
 and the mantelpiece were filled with the same red and white blooms
-from the garden which he had seen on the window-sill. Nevertheless,
+from the [[Garden|garden]] which he had seen on the [[Window|window]]-sill. Nevertheless,
 there were odd things about the dinner-table, and his first thought
 was that it had already been the scene of some struggle or stampede,
 in which the salt-cellar had been knocked over and, for all he knew,
 the looking-glass broken.  Then he looked at the knives on the table,
-and a light was beginning to dawn in his eyes, when the door opened
+and a light was beginning to [[Dawn|dawn]] in his eyes, when the door opened
 and a sturdy, grey-haired man came rapidly into the room.
 
 And at that he came back to common sense like a man flung from a flying
-ship into the cold shock of the sea.  He remembered suddenly where
+[[Ship|ship]] into the cold shock of the sea.  He remembered suddenly where
 he was and how he had got there.  It was characteristic of him that,
 though he saw a practical point belatedly... and, perhaps, too late...
 when he did see it he saw it lucidly in all its logical ramifications.
 Nobody would believe in any legitimate reason for entering
-a strange house by the window instead of knocking at the door.
+a strange [[house]] by the [[Window|window]] instead of knocking at the door.
 Also, as it happened, he had no legitimate reason... or none
-that he could explain without a lecture on poetry and philosophy.
+that he could explain without a lecture on poetry and [[philosophy]].
 He even realized the ugly detail that he was at that very moment
 fidgeting with the knives on the table, and that a large number
 of them were silver.  After an instant of hesitation, he put down
 the knife and politely removed his hat.
 
-"Well," he said at last, with inconsequent irony, "I shouldn't
+"[[Well]]," he said at last, with inconsequent irony, "I shouldn't
 shoot if I were you; but I suppose you'll send for the police."
 
 The new-comer, who was apparently the householder, was also fixed for
@@ -194,7 +194,7 @@ gentleman's shirt-front, which was an unusually large and luminous opal.
 Having uttered his highly perverse and even suicidal remark,
 the poet smiled as if in relief, and waited for the other to speak.
 
-"Are you a burglar?" asked the owner of the house at last.
+"Are you a burglar?" asked the owner of the [[house]] at last.
 
 "To make a clean breast of it, I'm not," answered Gale.
 "But if you ask me what else I am, I really don't know."
@@ -212,13 +212,13 @@ Then, after a sort of agitated pause, he repeated:
 Gale looked gravely along the table and counted the number of places
 laid for dinner.  The number disposed of any final doubts he might
 have had about the meaning of this string of eccentricities.
-He knew why the host wore opals, and why the mirror had been
+He knew why the host wore opals, and why the [[Mirror|mirror]] had been
 deliberately broken and why the salt was spilt, and why the knives
 shone on the table in a pattern of crosses, and why the eccentric
-householder brought may into the house, and why he decorated it
-with peacocks' feathers, and even had a peacock in the garden.
+householder brought may into the [[house]], and why he decorated it
+with peacocks' feathers, and even had a peacock in the [[Garden|garden]].
 He realized that the ladder did not stand where it did to permit
-people to climb by it to the window, but merely that they might
+people to climb by it to the [[Window|window]], but merely that they might
 pass under it on entering the door.  And he realized that he was
 the thirteenth man to sit down at that banquet.
 
@@ -227,7 +227,7 @@ eager amiability.  "I'm just going down to fetch the other fellows up.
 You'll find them very interesting company, I assure you;
 no nonsense about them; shrewd, sharp fellows out against
 all this superstitious nonsense.  My name is Crundle.
-Humphrey Crundle, and I'm pretty well known in the business world.
+Humphrey Crundle, and I'm pretty [[Well|well]] known in the business world.
 I suppose I must introduce myself in order to introduce you
 to the others."
 
@@ -236,8 +236,8 @@ rested on the name of Crundle, associated with some soap or lozenge
 or fountain-pen; and, little as he knew of such things, he could
 imagine that such an advertiser, though he lived in a little villa,
 could afford peacocks and five different kinds of wine.
-But other thoughts were already oppressing his imagination,
-and he looked in a somewhat sombre fashion out on to the garden
+But other thoughts were already oppressing his [[Imagination|imagination]],
+and he looked in a somewhat sombre fashion out on to the [[Garden|garden]]
 of the peacock, where the sunset light was dying on the lawn.
 
 The members of the Thirteen Club, as they came trooping up the stairs
@@ -262,12 +262,12 @@ told him that the appearance was not misleading... that the man who
 had thus come into this odd society had been in many odd societies,
 probably seeking for something more odd than he had ever found.
 
-It was some time, however, before any of these guests could show
+It was some [[Time|time]], however, before any of these guests could show
 anything of their quality, owing to the abounding liveliness and
 loquacity of their host.  Mr. Crundle may, perhaps, have thought
 it appropriate in a President of a Thirteen Club to talk thirteen
-to the dozen.  Anyhow, for some time he talked for the whole company,
-rolling about in his chair in radiant satisfaction, like a man
+to the dozen.  Anyhow, for some [[Time|time]] he talked for the whole company,
+[[rolling]] about in his chair in radiant satisfaction, like a man
 who has at last realized his wildest vision of happiness.
 Indeed, there was something almost abnormal about the gaiety and vivacity
 of this grey-haired merchant; it seemed to be fed from a fountain
@@ -298,20 +298,20 @@ beside the man called Noel, interposed in a conversational manner.
 a trace of it in looking at some old illuminated manuscripts
 of the ninth or tenth century.  There is a very curious design,
 in a stiff Byzantine style, representing the two armies preparing
-for the war in heaven.  But St. Michael is handing out spears
-to the good angels; while Satan is elaborately arming the rebel
+for the war in heaven.  But St. [[Michael]] is handing out spears
+to the good angels; while [[Satan]] is elaborately arming the [[Rebel|rebel]]
 angels with peacocks' feathers."
 
 Noel turned his hollow eyes sharply in the direction of the speaker.
 "That is really interesting," he said; "you mean it was all that old
-theological notion of the wickedness of pride?"
+theological notion of the wickedness of [[Pride|pride]]?"
 
-"Well, there's a whole peacock in the garden for you to pluck,"
+"[[Well]], there's a whole peacock in the [[Garden|garden]] for you to pluck,"
 cried Crundle in his boisterous manner, "if any of you want to go
 out fighting angels."
 
 "They are not very effective weapons," said Gale gravely, "and I
-fancy that is what the artist in the Dark Ages must have meant.
+fancy that is what the [[artist]] in the Dark Ages must have meant.
 There seems to me to be something that rather hits the wrong
 imperialism in the right place, about the contrast in the weapon;
 the fact that the right side was arming for a real and therefore
@@ -346,17 +346,17 @@ but he was stopped by something in the voice of Noel that seemed
 to make his violence a vain splutter.
 
 "I'm not a Christian," said Noel in a voice like stone.
-"It is useless now to wonder whether I wish I were.
+"It is useless now to [[Wonder|wonder]] whether I wish I were.
 But it seems to me that Mr. Gale's point is a perfectly fair one;
-that such a religion might well actually contradict such a superstition.
-And it seems to me also that the truth might be applied yet further.
+that such a religion might [[Well|well]] actually contradict such a superstition.
+And it seems to me also that the [[Truth|truth]] might be applied yet further.
 If I believed in God, I should not believe in a God who made happiness
 depend on knocking over a salt-cellar or seeing a peacock's feather.
-Whatever Christianity teaches, I presume it does not teach that
+Whatever [[Christianity]] teaches, I presume it does not teach that
 the Creator is crazy."
 
 Gale nodded thoughtfully, as if in partial assent, and answered rather
-as if he were addressing Noel alone, in the middle of a wilderness.
+as if he were addressing Noel [[Alone|alone]], in the middle of a wilderness.
 
 "In that sense of course you are right," he said.
 "But I think there is a little more to be said on the matter.
@@ -370,18 +370,18 @@ like the people with the peacocks' feathers.  Now I have a feeling
 that _they_ might really have to do with peacocks' feathers.
 Just as lower spirits play low tricks with tables and tambourines,
 they might play low tricks with knives and salt-cellars. Certainly
-our souls do not depend on a broken mirror; but there's nothing
+our souls do not depend on a broken [[Mirror|mirror]]; but there's nothing
 an unclean spirit would like better than to make us think so.
 Whether he succeeds depends on the spirit in which we break it.
-And I can imagine that breaking the mirror in a certain moral
+And I can imagine that breaking the [[Mirror|mirror]] in a certain moral
 spirit... as, for instance, a spirit of scorn and inhumanity...
 might bring one in touch with lower influences.  I can imagine
-that a cloud might rest on the house where such a thing was done,
+that a cloud might rest on the [[house]] where such a thing was done,
 and evil spirits cluster about it."
 
-There was a rather singular silence, a silence that seemed to the
+There was a rather singular [[Silence|silence]], a [[Silence|silence]] that seemed to the
 speaker to brood and settle even upon the gardens and streets beyond;
-no one spoke; the silence was punctuated at last by the thin
+no one spoke; the [[Silence|silence]] was punctuated at last by the thin
 and piercing cry of a peacock.
 
 Then it was that Humphrey Crundle startled them all with his
@@ -392,19 +392,19 @@ the bird's. He stuttered and stammered with rage, and it was only
 towards the end of the first sentence that he was even intelligible.
 "... Coming here and jabbering blasted drivel and drinking
 my burgundy like a lord; talking rubbish against our whole...
-against the very first... why don't you pull our noses as well?
+against the very first... why don't you pull our noses as [[Well|well]]?
 Why the hell don't you pull our noses?"
 
 "Come, come," cut in Noel in his trenchant tones, "you are getting
 unreasonable, Crundle; I understand that this gentleman came here
 at your own invitation, to take the place of one of our friends."
 
-"I understood Arthur Bailey sent a wire that he was detained,"
+"I understood [[Arthur]] Bailey sent a wire that he was detained,"
 observed the more precise lawyer, "and that Mr. Gale had kindly
 taken his place."
 
 "Yes," snapped Crundle, "I asked him to sit down as thirteenth man,
-and that alone smashes your superstition; for considering how he came in,
+and that [[Alone|alone]] smashes your superstition; for considering how he came in,
 he's jolly lucky to get a good dinner."
 
 Noel again interposed with a remonstrance; but Gale had already
@@ -413,26 +413,26 @@ and he addressed himself to Creed and Noel, neglecting his excitable host.
 
 "I am much obliged to you gentlemen," he said, "but I think I shall
 be going.  It is quite true that I was invited to the dinner,
-but hardly to the house... well, I can't help having a curious
+but hardly to the [[house]]... [[Well|well]], I can't help having a curious
 notion about it."
 
 He played for a moment with the crossed knives on the table;
-then he said, looking out into the garden...
+then he said, looking out into the [[Garden|garden]]...
 
-"The truth is I'm not sure the thirteenth man has been so
+"The [[Truth|truth]] is I'm not sure the thirteenth man has been so
 lucky after all."
 
 "What do you mean?" cried his host sharply.  "Dare you say you haven't
 had a good dinner?  You're not going to pretend you've been poisoned."
 
-Gale was still looking out of the window; and he said without moving:
+Gale was still looking out of the [[Window|window]]; and he said without moving:
 
 "I am the fourteenth man, and I did not pass under the ladder."
 
 It was characteristic of old Creed that he could only follow
 the logical argument in a literal fashion, and missed the symbol and
 the spiritual atmosphere which the subtler Noel had already understood.
-For the first time the old lawyer in the red wig really looked
+For the first [[Time|time]] the old lawyer in the red wig really looked
 a little senile.  He blinked at Gale and said querulously:
 "You don't mean to say you'd bother to keep all those rules about
 ladders and things?"
@@ -444,16 +444,16 @@ There are many things that are almost as easy to break as
 a looking-glass." He paused a moment, and added as if in apology:
 "There are the Ten Commandments, you know."
 
-There was another abrupt accidental silence, and Noel found
+There was another abrupt accidental [[Silence|silence]], and Noel found
 himself listening with irrational rigidity for the ugly
 voice of the beautiful bird outside.  But it did not speak.
 He had the sub-conscious and still more meaningless fancy that it
 had been strangled in the dark.
 
-Then the poet for the first time turned his face to Humphrey Crundle,
+Then the poet for the first [[Time|time]] turned his face to Humphrey Crundle,
 and looked straight into the goggling eyes as he spoke.
 
-"Peacocks may not be unlucky; but pride is unlucky.
+"Peacocks may not be unlucky; but [[Pride|pride]] is unlucky.
 And it was in insolence and contempt that you set yourself
 to trample on the traditions or the follies of humbler men;
 so that you have come to trample on a holier thing at last.
@@ -461,14 +461,14 @@ Cracked mirrors may not be unlucky; but cracked brains are unlucky;
 and you have gone mad on reason and common sense till you are
 a criminal lunatic this day.  And red may need not be unlucky;
 but there is something that is more red and much more unlucky; and there
-are spots of it on the window-sill and on the steps of the ladder.
+are spots of it on the [[Window|window]]-sill and on the steps of the ladder.
 I took it for the red petals myself."
 
-For the first time in his restless hour of hospitality the man at the head
+For the first [[Time|time]] in his restless hour of hospitality the man at the head
 of the table sat perfectly still.  Something in his sudden and stony
 immobility seemed to startle all the rest into life, and they all
 sprang to their feet with a confused clamour of protest and question.
-Noel alone seemed to keep his head under the shock.
+Noel [[Alone|alone]] seemed to keep his head under the shock.
 
 "Mr. Gale," he said firmly, "you have said too much or too little.
 A good many people would say you were talking a lot of lurid nonsense,
@@ -482,8 +482,8 @@ if it must be verified, you had better verify it yourself.
 Sir Daniel Creed is a lawyer, and may very properly accompany you.
 Go and look yourselves at the marks on the ladder.  You will find
 some more in the grass round the foot of the ladder, leading away
-in the direction of that big dust-bin in the corner of the garden.
-I think it would be as well if you looked in the dust-bin. It may
+in the direction of that big [[Dust|dust]]-bin in the corner of the [[Garden|garden]].
+I think it would be as [[Well|well]] if you looked in the [[Dust|dust]]-bin. It may
 be the end of your search."
 
 Old Crundle continued to sit like a graven image; and something told
@@ -491,26 +491,26 @@ them that his goggle eyes were now, as it were, turned inward.
 He was revolving some enigma of his own which seemed to baffle
 and blind him, so that the whole disordered scene broke about
 him unnoticed.  Creed and Noel left the room and could be heard
-running down the stairs and talking in low voices under the window.
-Then their voices died away in the direction of the dust-bin;
+running down the stairs and talking in low voices under the [[Window|window]].
+Then their voices died away in the direction of the [[Dust|dust]]-bin;
 and still the old man sat with the opal on his breast, as still
 as an Eastern idol with its sacred gem.  Then he seemed suddenly
 to dilate and glow as if a monstrous lamp had been lit within him.
 He sprang to his feet, brandished his goblet as if for a toast,
 and brought it down again on the table so that the glass was shattered
-and the wine spilt in a blood-red star.
+and the wine spilt in a [[Blood|blood]]-red star.
 
 "I've got it; I was right," he cried in a sort of exaltation.
 "I was right; I was right after all.  Don't you see, all of you?
 Don't you see?  That man out there isn't the thirteenth man.
 He's really the fourteenth man, and the fellow here is the fifteenth.
-Arthur Bailey's the real thirteenth man, and he's all right, isn't he?
-He didn't actually come to the house, but why should that matter?
+[[Arthur]] Bailey's the real thirteenth man, and he's all right, isn't he?
+He didn't actually come to the [[house]], but why should that matter?
 Why the devil should that matter?  He's the thirteenth member of the club,
 isn't he?  There can't be any more thirteenth men afterwards, can there?
 I don't care a curse about all the rest; I don't care what you call
-me or what you do to me.  I say all this fool's poetical stuff goes
-to pot, because the man in the dust-bin isn't number thirteen at all,
+me or what you do to me.  I say all this [[Fool|fool]]'s poetical stuff goes
+to pot, because the man in the [[Dust|dust]]-bin isn't number thirteen at all,
 and I challenge anybody..."
 
 Noel and Creed were standing in the room with very grim faces as the man
@@ -524,8 +524,8 @@ Noel said in a voice of steel:
 and sat down suddenly, lifting a liqueur glass of cognac with
 a shaking hand.
 
-"The body of an unfortunate man with his throat cut has been
-concealed in the dust-bin," went on Noel in a lifeless voice.
+"The [[Body|body]] of an unfortunate man with his throat cut has been
+concealed in the [[Dust|dust]]-bin," went on Noel in a lifeless voice.
 "By the mark on his clothes, which are curiously old-fashioned for a
 comparatively young man, he seems to have come from Stoke-under-Ham."
 
@@ -542,9 +542,9 @@ His mouth was still moving, but he was talking to himself;
 proving with ever-increasing lucidity and repetition that
 the man he had murdered had no right to the number thirteen.
 Sir Daniel Creed seemed for the moment almost as stricken
-and silent a figure; but it was he who broke the silence.
-Lifting his bowed head with its grotesque wig, he said suddenly:
-"This blood cries for justice.  I am an old man, but I would avenge
+and silent a figure; but it was he who broke the [[Silence|silence]].
+Lifting his bowed head with its [[Grotesque|grotesque]] wig, he said suddenly:
+"This [[Blood|blood]] cries for justice.  I am an old man, but I would avenge
 it on my own brother."
 
 "I am just going to telephone for the police," said Noel quietly.
@@ -560,7 +560,7 @@ to lead, and then proceeded to lead them.
 "No cause for hesitation.  No case for sentimentalism," he trumpeted
 as healthily as an elephant.  "Painful business, of course;
 old member of the club and all that.  But I say I'm no sentimentalist;
-and whoever did this deserves hanging.  Well, there's no doubt
+and whoever did this deserves hanging.  [[Well]], there's no [[Doubt|doubt]]
 of who did it.  We heard him practically confess a minute ago,
 when these gentlemen were out of the room."
 
@@ -574,17 +574,17 @@ and turned his face to the advancing crowd.
 
 "Stop," he cried, "let me say a word."
 
-"Well, what is it?" asked Noel steadily.
+"[[Well]], what is it?" asked Noel steadily.
 
 "I do not like boasting," said the poet, "but unfortunately the argument
 can only take that form.  I am a sentimentalist, as Mr. Bull would say;
-I am by trade a sentimentalist; a mere scribbler of sentimental songs.
+I am by trade a sentimentalist; a mere scribbler of sentimental [[songs]].
 You are all very hard-headed, rational, sensible people who laugh
 at superstitions; you are practical men, and men of common sense.
-But your common sense didn't discover the dead body.  You would
+But your common sense didn't discover the dead [[Body|body]].  You would
 have smoked your practical cigars and drunk your practical grog
-and gone home all over smiles, leaving it to rot in the dust-bin.
-_You_ never found out where your rational sceptical road can lead
+and gone [[Home|home]] all over smiles, leaving it to rot in the [[Dust|dust]]-bin.
+_You_ never found out where your rational sceptical [[Road|road]] can lead
 a man, as it has led that poor gibbering idiot in the chair.
 A sentimentalist, a dabbler in moonshine, found out that for you;
 perhaps because he was a sentimentalist.  For I really have a streak
@@ -603,7 +603,7 @@ unique sort of murderer.  In fact, I am far from certain
 that he was a murderer at all.  It may have been an accident.
 It may have been a sort of mechanical action, almost like an automaton."
 
-The light of long-lost cross-examinations gleamed in Creed's aged eyes,
+The light of long-lost [[Cross|cross]]-examinations gleamed in Creed's aged eyes,
 and his sharp voice no longer shook.
 
 "You mean to say," he said, "that Crundle read a telegram from Bailey,
@@ -611,19 +611,19 @@ realized there was a vacant place, went out into the street and
 talked to a total stranger, brought him in here, went somewhere
 to fetch a razor or a carving knife, cut his guest's throat,
 carried the corpse down the ladder, and carefully covered it
-with the lid of the dust-bin. And he did all that by accident,
+with the lid of the [[Dust|dust]]-bin. And he did all that by accident,
 or by an automatic gesture."
 
-"Very well put, Sir Daniel," answered Gale; "and now let me put you
+"Very [[Well|well]] put, Sir Daniel," answered Gale; "and now let me put you
 a question, in the same logical style.  In your legal language,
 what about motive?  You say he could not assassinate a total stranger
 by accident; but why should he assassinate a total stranger on purpose?
 On what purpose?  It not only served no end he had in view;
 it actually ruined everything he had in view.  Why in the world
 should he want to make a gap in his Thirteen Club dinner?
-Why in the name of wonder should _he_ want to make the thirteenth
+Why in the name of [[Wonder|wonder]] should _he_ want to make the thirteenth
 man a monument of disaster?  His own crime was at the expense of his
-own creed, or cranky doubt, denial, or whatever you call it."
+own creed, or cranky [[Doubt|doubt]], denial, or whatever you call it."
 
 "That is true," assented Noel, "and what is the meaning of it all?"
 
@@ -632,12 +632,12 @@ but myself; and I will tell you why.  Do you realize how full
 life is of awkward attitudes?  You get them in snapshots;
 I suppose the new ugly schools of art are trying to snap them;
 figures leaning stiffly, standing on one leg, resting unconscious hands
-on incongruous objects.  This is a tragedy of awkward positions.
+on incongruous objects.  This is a [[Tragedy|tragedy]] of awkward positions.
 I can understand it because I myself, this very afternoon,
 was in the devil of an awkward position.
 
-"I had climbed in through that window simply out of silly curiosity,
-and I was standing at the table like a fool, picking up the knives
+"I had climbed in through that [[Window|window]] simply out of silly curiosity,
+and I was standing at the table like a [[Fool|fool]], picking up the knives
 and putting them straight.  I still had my hat on, but when Crundle
 came in I made a movement to take it off with the knife still
 in my hand; then I corrected myself and put the knife down first.
@@ -647,8 +647,8 @@ staggered as if I had been God Almighty or the hangman waiting
 in his dining-room; and I think I know why.  I am awkward and tall
 and tow-haired, too; and I was standing there dark against the daylight
 where the other had stood.  It must have seemed as if the corpse
-had lifted the dust-bin lid and crawled back up the ladder,
-and taken up his station like a ghost.  But meanwhile my own little
+had lifted the [[Dust|dust]]-bin lid and crawled back up the ladder,
+and taken up his station like a [[Ghost|ghost]].  But meanwhile my own little
 irresolute gesture with the half-lifted knife had told me something.
 It had told me what really happened.
 
@@ -667,29 +667,29 @@ like a panther and was tugging at the lifted wrist.
 
 "For all Crundle's crazy universe was rocking in that instant.
 You, who talk of superstitions, have you realized that this
-house is a house of spells?  Don't you know it is chock full
-of charms and magic rites, only they are all done backwards,
-as the witches said the Lord's Prayer?  Can you imagine how a witch
-would feel if two words of the prayer came right by accident?
+[[house]] is a [[house]] of spells?  Don't you know it is chock full
+of charms and [[Magic|magic]] rites, only they are all done backwards,
+as the witches said the Lord's [[prayer|Prayer]]?  Can you imagine how a [[Witch|witch]]
+would feel if two words of the [[prayer]] came right by accident?
 Crundle saw that this clown from the country was reversing
 all the spells of his own black art.  If salt was once thrown
 over the shoulder, all the great work might yet be undone.
 With all the strength he could call from hell he hung on to the hand
-with the knife, caring only to prevent a few grains of silver dust
+with the knife, caring only to prevent a few grains of silver [[Dust|dust]]
 from drifting to the floor.
 
-"God alone knows if it was an accident.  I do not say it as an
+"God [[Alone|alone]] knows if it was an accident.  I do not say it as an
 idle phrase.  That single split second, and all that was really hidden
-in it, lies open before God as large and luminous as an eternity.
+in it, lies open before God as large and luminous as an [[Eternity|eternity]].
 But I am a man and he is a man; and I will not give a man to the gallows,
 if I can help it, for what may have been accidental or automatic
-or even a sort of self-defence. But if any of you will take a knife
+or even a sort of [[Self|self]]-defence. But if any of you will take a knife
 and a pinch of salt and put yourself in the poor fellow's position,
-you will see exactly what happened.  All I say is this; that at no time
+you will see exactly what happened.  All I say is this; that at no [[Time|time]]
 and in no way, perhaps, could things have been precisely in that posture,
 and the edge of a knife been so near to a man's throat without
 intention on either side, except by this one particular tangle
-of trivialities that has led up to this one particular tragedy.
+of trivialities that has led up to this one particular [[Tragedy|tragedy]].
 It is strange to think of that poor yokel setting out from his
 far-off Somerset village, with his little handful of local legends,
 and this brooding eccentric and scoffer rushing out of this villa
@@ -698,7 +698,7 @@ and ungainly grapple, a wrestle between two superstitions."
 
 The figure at the head of the table had been almost forgotten like
 a piece of furniture; but Noel turned his eyes slowly towards it,
-and said with a cold patience as if to an exasperating child:
+and said with a cold patience as if to an exasperating [[Child|child]]:
 "Is all this true?"
 
 Crundle sprang unsteadily to his feet, his mouth still working,
@@ -712,10 +712,10 @@ forward on the table amid the wreck of his own wine and crystal.
 to send for a doctor."
 
 "You will want two doctors for what will have to be done to him,"
-said Gale; and walked towards the window by which he had come in.
+said Gale; and walked towards the [[Window|window]] by which he had come in.
 
 
-Noel walked with him to the garden gate, past the peacock
+Noel walked with him to the [[Garden|garden]] gate, past the peacock
 and the green lawn, that looked almost as blue as the peacock
 under a strong moonlight.  When the poet was outside the gate,
 he turned and said a last word.
@@ -725,9 +725,9 @@ than that unfortunate monomaniac did; and I want to ask you a question.
 Forgive me if I imagine things for you, so to speak; it is a way I have.
 You have studied superstitions all over the world, and you have seen
 things compared with which all that talk of salt and table-knives
-is like a child's game of consequences.  You have been in the dark
+is like a [[Child|child]]'s game of consequences.  You have been in the dark
 forests over which the vampire seems to pass more vast than a dragon;
-or in the mountains of the werewolf, where men say a man can see
+or in the [[Mountains|mountains]] of the werewolf, where men say a man can see
 in the face of his friend or his wife the eyes of a wild beast.
 You have known people who had real superstitions; black, towering,
 terrific superstitions; you have lived with those people;
@@ -739,12 +739,12 @@ and I want to ask you a question about them."
 "Were they not happier men than you?"
 
 Gale paused a moment as he put the question, and then went on.
-"Did they not in fact sing more songs, and dance more dances,
+"Did they not in fact sing more [[songs]], and [[Dance|dance]] more dances,
 and drink wine with more real merriment?  That was because they
 believed in evil.  In evil spells, perhaps, in evil luck,
 in evil under all sorts of stupid and ignorant symbols;
 but still in something to be fought.  They at least read things
-in black and white, and saw life as the battlefield it is.
+in black and white, and saw life as the [[Battlefield|battlefield]] it is.
 But you are unhappy because you disbelieve in evil, and think it
 philosophical to see everything in the same light of grey.  And I
 speak to you thus tonight; because tonight you have had an awakening.
@@ -752,14 +752,14 @@ You saw something worthy of hate and you were happy.  A mere murder
 might not have done it.  If it had been some old man about town,
 or even some young man about town, it might never have touched the nerve.
 But I know what you felt; there was something shameful beyond speech
-in the death of that poor clumsy country cousin."
+in the [[Death|death]] of that poor clumsy country cousin."
 
 Noel nodded.  "I think it was the shape of his coat-tails," he said.
 
-"I thought so," answered Gale.  "Well, that is the road to reality.
-Good night."
+"I thought so," answered Gale.  "[[Well]], that is the [[Road|road]] to reality.
+Good [[Night|night]]."
 
-And he continued his walk along the suburban road,
+And he continued his walk along the suburban [[Road|road]],
 unconsciously taking in the new tint of the lawns by moonlight.
 But he did not see any more peacocks; and it may be accounted
 probable that he did not want to see any.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 34"
+title: "Bleak [[house|House]] — Chapter 34"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -33,7 +33,7 @@ every now and then to come upon it with a fresh eye. Even that won’t
 do. “Is it,” Mr. George still muses, “blank cartridge or ball?”
 
 Phil Squod, with the aid of a brush and paint-pot, is employed in the
-distance whitening the targets, softly whistling in quick-march time
+distance whitening the targets, softly whistling in quick-march [[Time|time]]
 and in drum-and-fife manner that he must and will go back again to
 the girl he left behind him.
 
@@ -61,7 +61,7 @@ Phil?”
 
 “Why?”
 
-“I think,” replies Phil after pensively tracing out a cross-wrinkle
+“I think,” replies Phil after pensively tracing out a [[Cross|cross]]-wrinkle
 in his forehead with the brush-handle, “that mischeevious
 consequences is always meant when money’s asked for.”
 
@@ -122,7 +122,7 @@ and smoothings of the white surface round the rim with his thumb,
 that he had forgotten the Bagnet responsibility and would not so much
 as injure a hair of the head of any member of that worthy family when
 steps are audible in the long passage without, and a cheerful voice
-is heard to wonder whether George is at home. Phil, with a look at
+is heard to [[Wonder|wonder]] whether George is at [[Home|home]]. Phil, with a look at
 his master, hobbles up, saying, “Here’s the guv’ner, Mrs. Bagnet!
 Here he is!” and the old girl herself, accompanied by Mr. Bagnet,
 appears.
@@ -130,7 +130,7 @@ appears.
 The old girl never appears in walking trim, in any season of the
 year, without a grey cloth cloak, coarse and much worn but very
 clean, which is, undoubtedly, the identical garment rendered so
-interesting to Mr. Bagnet by having made its way home to Europe from
+interesting to Mr. Bagnet by having made its way [[Home|home]] to Europe from
 another quarter of the globe in company with Mrs. Bagnet and an
 umbrella. The latter faithful appendage is also invariably a part of
 the old girl’s presence out of doors. It is of no colour known in
@@ -142,19 +142,19 @@ capacity of sticking to its post that might be desired in an article
 long associated with the British army. The old girl’s umbrella is of
 a flabby habit of waist and seems to be in need of stays—an
 appearance that is possibly referable to its having served through a
-series of years at home as a cupboard and on journeys as a carpet
+series of years at [[Home|home]] as a cupboard and on journeys as a carpet
 bag. She never puts it up, having the greatest reliance on her
-well-proved cloak with its capacious hood, but generally uses the
+[[Well|well]]-proved cloak with its capacious hood, but generally uses the
 instrument as a wand with which to point out joints of meat or
 bunches of greens in marketing or to arrest the attention of
 tradesmen by a friendly poke. Without her market-basket, which is a
-sort of wicker well with two flapping lids, she never stirs abroad.
+sort of wicker [[Well|well]] with two flapping lids, she never stirs abroad.
 Attended by these her trusty companions, therefore, her honest
 sunburnt face looking cheerily out of a rough straw bonnet, Mrs.
 Bagnet now arrives, fresh-coloured and bright, in George’s Shooting
 Gallery.
 
-“Well, George, old fellow,” says she, “and how do YOU do, this
+“[[Well]], George, old fellow,” says she, “and how do YOU do, this
 sunshiny morning?”
 
 Giving him a friendly shake of the hand, Mrs. Bagnet draws a long
@@ -189,7 +189,7 @@ the matter, George?” asks Mrs. Bagnet, stopping in her cheerful talk.
 “I am not quite myself,” returns the trooper; “I have been a little
 put out, Mrs. Bagnet.”
 
-Her bright quick eye catches the truth directly. “George!” holding up
+Her bright quick eye catches the [[Truth|truth]] directly. “George!” holding up
 her forefinger. “Don’t tell me there’s anything wrong about that
 security of Lignum’s! Don’t do it, George, on account of the
 children!”
@@ -208,9 +208,9 @@ Mr. Bagnet, otherwise as immovable as a pump or a lamp-post, puts his
 large right hand on the top of his bald head as if to defend it from
 a shower-bath and looks with great uneasiness at Mrs. Bagnet.
 
-“George,” says that old girl, “I wonder at you! George, I am ashamed
+“George,” says that old girl, “I [[Wonder|wonder]] at you! George, I am ashamed
 of you! George, I couldn’t have believed you would have done it! I
-always knew you to be a rolling stone that gathered no moss, but I
+always knew you to be a [[rolling]] stone that gathered no moss, but I
 never thought you would have taken away what little moss there was
 for Bagnet and the children to lie upon. You know what a
 hard-working, steady-going chap he is. You know what Quebec and Malta
@@ -226,26 +226,26 @@ straw bonnet.
 
 “Mat,” says the trooper in a subdued voice, addressing him but still
 looking at his wife, “I am sorry you take it so much to heart,
-because I do hope it’s not so bad as that comes to. I certainly have,
+because I do [[Hope|hope]] it’s not so bad as that comes to. I certainly have,
 this morning, received this letter”—which he reads aloud—“but I
-hope it may be set right yet. As to a rolling stone, why, what you
-say is true. I AM a rolling stone, and I never rolled in anybody’s
+[[Hope|hope]] it may be set right yet. As to a [[rolling]] stone, why, what you
+say is true. I AM a [[rolling]] stone, and I never rolled in anybody’s
 way, I fully believe, that I rolled the least good to. But it’s
 impossible for an old vagabond comrade to like your wife and family
 better than I like ’em, Mat, and I trust you’ll look upon me as
 forgivingly as you can. Don’t think I’ve kept anything from you. I
 haven’t had the letter more than a quarter of an hour.”
 
-“Old girl,” murmurs Mr. Bagnet after a short silence, “will you tell
+“Old girl,” murmurs Mr. Bagnet after a short [[Silence|silence]], “will you tell
 him my opinion?”
 
 “Oh! Why didn’t he marry,” Mrs. Bagnet answers, half laughing and
-half crying, “Joe Pouch’s widder in North America? Then he wouldn’t
+half crying, “Joe Pouch’s widder in North [[america|America]]? Then he wouldn’t
 have got himself into these troubles.”
 
 “The old girl,” says Mr. Bagnet, “puts it correct—why didn’t you?”
 
-“Well, she has a better husband by this time, I hope,” returns the
+“[[Well]], she has a better husband by this [[Time|time]], I [[Hope|hope]],” returns the
 trooper. “Anyhow, here I stand, this present day, NOT married to Joe
 Pouch’s widder. What shall I do? You see all I have got about me.
 It’s not mine; it’s yours. Give the word, and I’ll sell off every
@@ -264,7 +264,7 @@ means.”
 “And that was like me!” observes the penitent trooper, shaking his
 head. “Like me, I know.”
 
-“Silence! The old girl,” says Mr. Bagnet, “is correct—in her way of
+“[[Silence]]! The old girl,” says Mr. Bagnet, “is correct—in her way of
 giving my opinions—hear me out!”
 
 “That was when you never ought to have asked for the security,
@@ -285,9 +285,9 @@ this obligation. But whatever I have been able to scrape together has
 gone every two months in keeping it up. We have lived plainly enough
 here, Phil and I. But the gallery don’t quite do what was expected of
 it, and it’s not—in short, it’s not the mint. It was wrong in me to
-take it? Well, so it was. But I was in a manner drawn into that step,
+take it? [[Well]], so it was. But I was in a manner drawn into that step,
 and I thought it might steady me, and set me up, and you’ll try to
-overlook my having such expectations, and upon my soul, I am very
+overlook my having such expectations, and upon my [[Soul|soul]], I am very
 much obliged to you, and very much ashamed of myself.” With these
 concluding words, Mr. George gives a shake to each of the hands he
 holds, and relinquishing them, backs a pace or two in a
@@ -311,7 +311,7 @@ sure you’ll bring him through it.”
 
 The trooper returns that this is kindly said and that he WILL bring
 Lignum through it somehow. Upon which Mrs. Bagnet, with her cloak,
-basket, and umbrella, goes home, bright-eyed again, to the rest of
+basket, and umbrella, goes [[Home|home]], bright-eyed again, to the rest of
 her family, and the comrades sally forth on the hopeful errand of
 mollifying Mr. Smallweed.
 
@@ -362,9 +362,9 @@ low—of such merits. But I never own to it before her. Discipline
 must be maintained.”
 
 These encomiums bring them to Mount Pleasant and to Grandfather
-Smallweed’s house. The door is opened by the perennial Judy, who,
+Smallweed’s [[house]]. The door is opened by the perennial Judy, who,
 having surveyed them from top to toe with no particular favour, but
-indeed with a malignant sneer, leaves them standing there while she
+indeed with a malignant sneer, [[Leaves|leaves]] them standing there while she
 consults the oracle as to their admission. The oracle may be inferred
 to give consent from the circumstance of her returning with the words
 on her honey lips that they can come in if they want to it. Thus
@@ -382,7 +382,7 @@ you know.”
 
 “Oh! Mr. Bagnet? Surely!” The old man looks at him under his hand.
 
-“Hope you’re well, Mr. Bagnet? Fine man, Mr. George! Military air,
+“[[Hope]] you’re [[Well|well]], Mr. Bagnet? Fine man, Mr. George! Military air,
 sir!”
 
 No chairs being offered, Mr. George brings one forward for Bagnet and
@@ -392,18 +392,18 @@ bending himself, except at the hips, for that purpose.
 “Judy,” says Mr. Smallweed, “bring the pipe.”
 
 “Why, I don’t know,” Mr. George interposes, “that the young woman
-need give herself that trouble, for to tell you the truth, I am not
+need give herself that trouble, for to tell you the [[Truth|truth]], I am not
 inclined to smoke it to-day.”
 
 “Ain’t you?” returns the old man. “Judy, bring the pipe.”
 
 “The fact is, Mr. Smallweed,” proceeds George, “that I find myself in
 rather an unpleasant state of mind. It appears to me, sir, that your
-friend in the city has been playing tricks.”
+friend in the [[City|city]] has been playing tricks.”
 
 “Oh, dear no!” says Grandfather Smallweed. “He never does that!”
 
-“Don’t he? Well, I am glad to hear it, because I thought it might be
+“Don’t he? [[Well]], I am glad to hear it, because I thought it might be
 HIS doing. This, you know, I am speaking of. This letter.”
 
 Grandfather Smallweed smiles in a very ugly way in recognition of the
@@ -419,7 +419,7 @@ constraining himself to speak as smoothly and confidentially as he
 can, holding the open letter in one hand and resting the broad
 knuckles of the other on his thigh, “a good lot of money has passed
 between us, and we are face to face at the present moment, and are
-both well aware of the understanding there has always been. I am
+both [[Well|well]] aware of the understanding there has always been. I am
 prepared to do the usual thing which I have done regularly and to
 keep this matter going. I never got a letter like this from you
 before, and I have been a little put about by it this morning,
@@ -433,7 +433,7 @@ the money—”
 “Oh, yes, you tell me so,” returns Grandfather Smallweed. “But I
 don’t know it.”
 
-“Well!” says the trooper, swallowing his fire. “I know it.”
+“[[Well]]!” says the trooper, swallowing his [[Fire|fire]]. “I know it.”
 
 Mr. Smallweed replies with excellent temper, “Ah! That’s quite
 another thing!” And adds, “But it don’t matter. Mr. Bagnet’s
@@ -450,7 +450,7 @@ harum-scarum sort of a good-for-nought that more kicks than halfpence
 come natural to, why he’s a steady family man, don’t you see? Now,
 Mr. Smallweed,” says the trooper, gaining confidence as he proceeds
 in his soldierly mode of doing business, “although you and I are good
-friends enough in a certain sort of a way, I am well aware that I
+friends enough in a certain sort of a way, I am [[Well|well]] aware that I
 can’t ask you to let my friend Bagnet off entirely.”
 
 “Oh, dear, you are too modest. You can ASK me anything, Mr. George.”
@@ -458,7 +458,7 @@ can’t ask you to let my friend Bagnet off entirely.”
 to-day.)
 
 “And you can refuse, you mean, eh? Or not you so much, perhaps, as
-your friend in the city? Ha ha ha!”
+your friend in the [[City|city]]? Ha ha ha!”
 
 “Ha ha ha!” echoes Grandfather Smallweed. In such a very hard manner
 and with eyes so particularly green that Mr. Bagnet’s natural gravity
@@ -478,7 +478,7 @@ has received a recent toss, expressive of derision and contempt. Mr.
 Bagnet’s gravity becomes yet more profound.
 
 “But I think you asked me, Mr. George”—old Smallweed, who all this
-time has had the pipe in his hand, is the speaker now—“I think you
+[[Time|time]] has had the pipe in his hand, is the speaker now—“I think you
 asked me, what did the letter mean?”
 
 “Why, yes, I did,” returns the trooper in his off-hand way, “but I
@@ -505,8 +505,8 @@ the shoulders of his comrade before the latter can recover from his
 amazement, gets him on the outside of the street door, which is
 instantly slammed by the triumphant Judy. Utterly confounded, Mr.
 George awhile stands looking at the knocker. Mr. Bagnet, in a perfect
-abyss of gravity, walks up and down before the little parlour window
-like a sentry and looks in every time he passes, apparently revolving
+abyss of gravity, walks up and down before the little parlour [[Window|window]]
+like a sentry and looks in every [[Time|time]] he passes, apparently revolving
 something in his mind.
 
 “Come, Mat,” says Mr. George when he has recovered himself, “we must
@@ -518,7 +518,7 @@ old girl had been here—I’d have told him!” Having so discharged
 himself of the subject of his cogitations, he falls into step and
 marches off with the trooper, shoulder to shoulder.
 
-When they present themselves in Lincoln’s Inn Fields, Mr. Tulkinghorn
+When they present themselves in [[Lincoln]]’s Inn Fields, Mr. Tulkinghorn
 is engaged and not to be seen. He is not at all willing to see them,
 for when they have waited a full hour, and the clerk, on his bell
 being rung, takes the opportunity of mentioning as much, he brings
@@ -539,7 +539,7 @@ waiting.
 “I beg your pardon, sir, but I think those gentlemen are military?”
 
 The clerk referring the question to them with his eye, and Mr. George
-not turning round from the almanac over the fire-place. Mr. Bagnet
+not turning round from the almanac over the [[Fire|fire]]-place. Mr. Bagnet
 takes upon himself to reply, “Yes, ma’am. Formerly.”
 
 “I thought so. I was sure of it. My heart warms, gentlemen, at the
@@ -553,21 +553,21 @@ your pardon for troubling you, sir. God bless you, gentlemen!”
 
 There is something very touching in the earnestness of the old lady’s
 voice and in the tremble that goes through her quaint old figure. But
-Mr. George is so occupied with the almanac over the fire-place
+Mr. George is so occupied with the almanac over the [[Fire|fire]]-place
 (calculating the coming months by it perhaps) that he does not look
 round until she has gone away and the door is closed upon her.
 
 “George,” Mr. Bagnet gruffly whispers when he does turn from the
 almanac at last. “Don’t be cast down! ‘Why, soldiers, why—should we
-be melancholy, boys?’ Cheer up, my hearty!”
+be [[Melancholy|melancholy]], boys?’ Cheer up, my hearty!”
 
 The clerk having now again gone in to say that they are still there
 and Mr. Tulkinghorn being heard to return with some irascibility,
 “Let ’em come in then!” they pass into the great room with the
-painted ceiling and find him standing before the fire.
+painted ceiling and find him standing before the [[Fire|fire]].
 
-“Now, you men, what do you want? Sergeant, I told you the last time I
-saw you that I don’t desire your company here.”
+“Now, you men, what do you want? Sergeant, I told you the last [[Time|time]] I
+saw you that I don’t [[Desire|desire]] your company here.”
 
 Sergeant replies—dashed within the last few minutes as to his usual
 manner of speech, and even as to his usual carriage—that he has
@@ -580,24 +580,24 @@ no occasion to come here to learn that, I suppose?”
 
 Sergeant is sorry to say that he is not prepared with the money.
 
-“Very well! Then the other man—this man, if this is he—must pay it
+“Very [[Well|well]]! Then the other man—this man, if this is he—must pay it
 for you.”
 
 Sergeant is sorry to add that the other man is not prepared with the
 money either.
 
-“Very well! Then you must pay it between you or you must both be sued
+“Very [[Well|well]]! Then you must pay it between you or you must both be sued
 for it and both suffer. You have had the money and must refund it.
 You are not to pocket other people’s pounds, shillings, and pence and
 escape scot-free.”
 
-The lawyer sits down in his easy-chair and stirs the fire. Mr. George
+The lawyer sits down in his easy-chair and stirs the [[Fire|fire]]. Mr. George
 hopes he will have the goodness to—“I tell you, sergeant, I have
 nothing to say to you. I don’t like your associates and don’t want
 you here. This matter is not at all in my course of practice and is
 not in my office. Mr. Smallweed is good enough to offer these affairs
 to me, but they are not in my way. You must go to Melchisedech’s in
-Clifford’s Inn.”
+[[Clifford]]’s Inn.”
 
 “I must make an apology to you, sir,” says Mr. George, “for pressing
 myself upon you with so little encouragement—which is almost as
@@ -605,12 +605,12 @@ unpleasant to me as it can be to you—but would you let me say a
 private word to you?”
 
 Mr. Tulkinghorn rises with his hands in his pockets and walks into
-one of the window recesses. “Now! I have no time to waste.” In the
+one of the [[Window|window]] recesses. “Now! I have no [[Time|time]] to waste.” In the
 midst of his perfect assumption of indifference, he directs a sharp
 look at the trooper, taking care to stand with his own back to the
 light and to have the other with his face towards it.
 
-“Well, sir,” says Mr. George, “this man with me is the other party
+“[[Well]], sir,” says Mr. George, “this man with me is the other party
 implicated in this unfortunate affair—nominally, only nominally—and
 my sole object is to prevent his getting into trouble on my account.
 He is a most respectable man with a wife and family, formerly in the
@@ -648,7 +648,7 @@ breath, “I must do it, sir.”
 
 So Mr. Tulkinghorn, putting on his spectacles, sits down and writes
 the undertaking, which he slowly reads and explains to Bagnet, who
-has all this time been staring at the ceiling and who puts his hand
+has all this [[Time|time]] been staring at the ceiling and who puts his hand
 on his bald head again, under this new verbal shower-bath, and seems
 exceedingly in need of the old girl through whom to express his
 sentiments. The trooper then takes from his breast-pocket a folded
@@ -659,7 +659,7 @@ him.”
 Look at a millstone, Mr. George, for some change in its expression,
 and you will find it quite as soon as in the face of Mr. Tulkinghorn
 when he opens and reads the letter! He refolds it and lays it in his
-desk with a countenance as unperturbable as death.
+desk with a countenance as unperturbable as [[Death|death]].
 
 Nor has he anything more to say or do but to nod once in the same
 frigid and discourteous manner and to say briefly, “You can go. Show
@@ -668,7 +668,7 @@ residence to dine.
 
 Boiled beef and greens constitute the day’s variety on the former
 repast of boiled pork and greens, and Mrs. Bagnet serves out the meal
-in the same way and seasons it with the best of temper, being that
+in the same way and [[Seasons|seasons]] it with the best of temper, being that
 rare sort of old girl that she receives Good to her arms without a
 hint that it might be Better and catches light from any little spot
 of darkness near her. The spot on this occasion is the darkened brow
@@ -676,13 +676,13 @@ of Mr. George; he is unusually thoughtful and depressed. At first
 Mrs. Bagnet trusts to the combined endearments of Quebec and Malta to
 restore him, but finding those young ladies sensible that their
 existing Bluffy is not the Bluffy of their usual frolicsome
-acquaintance, she winks off the light infantry and leaves him to
+acquaintance, she winks off the light infantry and [[Leaves|leaves]] him to
 deploy at leisure on the open ground of the domestic hearth.
 
 But he does not. He remains in close order, clouded and depressed.
 During the lengthy cleaning up and pattening process, when he and Mr.
 Bagnet are supplied with their pipes, he is no better than he was at
-dinner. He forgets to smoke, looks at the fire and ponders, lets his
+dinner. He forgets to smoke, looks at the [[Fire|fire]] and ponders, lets his
 pipe out, fills the breast of Mr. Bagnet with perturbation and dismay
 by showing that he has no enjoyment of tobacco.
 
@@ -693,23 +693,23 @@ girl!” and winks monitions to her to find out what’s the matter.
 “Why, George!” says Mrs. Bagnet, quietly threading her needle. “How
 low you are!”
 
-“Am I? Not good company? Well, I am afraid I am not.”
+“Am I? Not good company? [[Well]], I am afraid I am not.”
 
 “He ain’t at all like Bluffy, mother!” cries little Malta.
 
-“Because he ain’t well, I think, mother,” adds Quebec.
+“Because he ain’t [[Well|well]], I think, mother,” adds Quebec.
 
 “Sure that’s a bad sign not to be like Bluffy, too!” returns the
 trooper, kissing the young damsels. “But it’s true,” with a sigh,
 “true, I am afraid. These little ones are always right!”
 
-“George,” says Mrs. Bagnet, working busily, “if I thought you cross
+“George,” says Mrs. Bagnet, working busily, “if I thought you [[Cross|cross]]
 enough to think of anything that a shrill old soldier’s wife—who
 could have bitten her tongue off afterwards and ought to have done it
 almost—said this morning, I don’t know what I shouldn’t say to you
 now.”
 
-“My kind soul of a darling,” returns the trooper. “Not a morsel of
+“My kind [[Soul|soul]] of a darling,” returns the trooper. “Not a morsel of
 it.”
 
 “Because really and truly, George, what I said and meant to say was
@@ -726,14 +726,14 @@ the corner, and beckons that fifer to him.
 
 “See there, my boy,” says George, very gently smoothing the mother’s
 hair with his hand, “there’s a good loving forehead for you! All
-bright with love of you, my boy. A little touched by the sun and the
+bright with [[Love|love]] of you, my boy. A little touched by the sun and the
 weather through following your father about and taking care of you,
 but as fresh and wholesome as a ripe apple on a tree.”
 
 Mr. Bagnet’s face expresses, so far as in its wooden material lies,
 the highest approbation and acquiescence.
 
-“The time will come, my boy,” pursues the trooper, “when this hair of
+“The [[Time|time]] will come, my boy,” pursues the trooper, “when this hair of
 your mother’s will be grey, and this forehead all crossed and
 re-crossed with wrinkles, and a fine old lady she’ll be then. Take
 care, while you are young, that you can think in those days, ‘I never

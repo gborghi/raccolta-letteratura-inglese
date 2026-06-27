@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 28 (part 2)"
+title: "[[Jane Eyre]] — Chapter 28 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-What a still, hot, perfect day! What a golden desert this spreading
+What a still, hot, perfect day! What a golden [[Desert|desert]] this spreading
 moor! Everywhere sunshine. I wished I could live in it and on it. I saw
 a lizard run over the crag; I saw a bee busy among the sweet
 bilberries. I would fain at the moment have become bee or lizard, that
 I might have found fitting nutriment, permanent shelter here. But I was
 a human being, and had a human being’s wants: I must not linger where
-there was nothing to supply them. I rose; I looked back at the bed I
+there was nothing to supply them. I [[Rose|rose]]; I looked back at the bed I
 had left. Hopeless of the future, I wished but this—that my Maker had
-that night thought good to require my soul of me while I slept; and
-that this weary frame, absolved by death from further conflict with
-fate, had now but to decay quietly, and mingle in peace with the soil
+that [[Night|night]] thought good to require my [[Soul|soul]] of me while I slept; and
+that this weary frame, absolved by [[Death|death]] from further conflict with
+fate, had now but to [[Decay|decay]] quietly, and mingle in peace with the soil
 of this wilderness. Life, however, was yet in my possession, with all
 its requirements, and pains, and responsibilities. The burden must be
-carried; the want provided for; the suffering endured; the
+carried; the want provided for; the [[Suffering|suffering]] endured; the
 responsibility fulfilled. I set out.
 
-Whitcross regained, I followed a road which led from the sun, now
+Whitcross regained, I followed a [[Road|road]] which led from the sun, now
 fervent and high. By no other circumstance had I will to decide my
-choice. I walked a long time, and when I thought I had nearly done
+choice. I walked a long [[Time|time]], and when I thought I had nearly done
 enough, and might conscientiously yield to the fatigue that almost
 overpowered me—might relax this forced action, and, sitting down on a
 stone I saw near, submit resistlessly to the apathy that clogged heart
@@ -40,22 +40,22 @@ and limb—I heard a bell chime—a church bell.
 
 I turned in the direction of the sound, and there, amongst the romantic
 hills, whose changes and aspect I had ceased to note an hour ago, I saw
-a hamlet and a spire. All the valley at my right hand was full of
+a [[Hamlet|hamlet]] and a spire. All the valley at my right hand was full of
 pasture-fields, and cornfields, and wood; and a glittering stream ran
 zig-zag through the varied shades of green, the mellowing grain, the
 sombre woodland, the clear and sunny lea. Recalled by the rumbling of
-wheels to the road before me, I saw a heavily-laden waggon labouring up
-the hill, and not far beyond were two cows and their drover. Human life
+wheels to the [[Road|road]] before me, I saw a heavily-laden waggon labouring up
+the [[Hill|hill]], and not far beyond were two cows and their drover. Human life
 and human labour were near. I must struggle on: strive to live and bend
 to toil like the rest.
 
-About two o’clock P.M. I entered the village. At the bottom of its one
-street there was a little shop with some cakes of bread in the window.
+About two o’[[Clock|clock]] P.M. I entered the village. At the [[Bottom|bottom]] of its one
+street there was a little shop with some cakes of bread in the [[Window|window]].
 I coveted a cake of bread. With that refreshment I could perhaps regain
 a degree of energy: without it, it would be difficult to proceed. The
 wish to have some strength and some vigour returned to me as soon as I
 was amongst my fellow-beings. I felt it would be degrading to faint
-with hunger on the causeway of a hamlet. Had I nothing about me I could
+with hunger on the causeway of a [[Hamlet|hamlet]]. Had I nothing about me I could
 offer in exchange for one of these rolls? I considered. I had a small
 silk handkerchief tied round my throat; I had my gloves. I could hardly
 tell how men and women in extremities of destitution proceeded. I did
@@ -89,10 +89,10 @@ wanted?”
 “What was the chief trade in this place? What did most of the people
 do?”
 
-“Some were farm labourers; a good deal worked at Mr. Oliver’s
+“Some were farm labourers; a good deal worked at Mr. [[Oliver]]’s
 needle-factory, and at the foundry.”
 
-“Did Mr. Oliver employ women?”
+“Did Mr. [[Oliver]] employ women?”
 
 “Nay; it was men’s work.”
 
@@ -107,13 +107,13 @@ wanted. I took leave.
 
 I passed up the street, looking as I went at all the houses to the
 right hand and to the left; but I could discover no pretext, nor see an
-inducement to enter any. I rambled round the hamlet, going sometimes to
+inducement to enter any. I rambled round the [[Hamlet|hamlet]], going sometimes to
 a little distance and returning again, for an hour or more. Much
-exhausted, and suffering greatly now for want of food, I turned aside
+exhausted, and [[Suffering|suffering]] greatly now for want of food, I turned aside
 into a lane and sat down under the hedge. Ere many minutes had elapsed,
 I was again on my feet, however, and again searching something—a
-resource, or at least an informant. A pretty little house stood at the
-top of the lane, with a garden before it, exquisitely neat and
+resource, or at least an informant. A pretty little [[house]] stood at the
+top of the lane, with a [[Garden|garden]] before it, exquisitely neat and
 brilliantly blooming. I stopped at it. What business had I to approach
 the white door or touch the glittering knocker? In what way could it
 possibly be the interest of the inhabitants of that dwelling to serve

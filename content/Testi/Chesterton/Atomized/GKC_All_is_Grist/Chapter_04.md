@@ -18,17 +18,17 @@ III
 
 `I have lived long enough to have seen one thing; that love hath an end'
 : so runs, as every one will remember, the first line of Swinburne's
-beautiful `Hymn to Proserpine', the dirge of a Pagan farewell
+beautiful `[[Hymn]] to Proserpine', the [[Dirge|dirge]] of a Pagan farewell
 to Paganism.  I have lived long enough to have seen one thing:
-that the love of Swinburne hath an end.  Not the admiration
+that the [[Love|love]] of Swinburne hath an end.  Not the admiration
 for Swinburne, not the reasonable appreciation of Swinburne;
-but that particular sort of love of Swinburne which is like first
-love in youth; perhaps (one is sometimes tempted to think) the only
-sort of real love that Swinburne had ever known anything about.
-I mean that sort of mere magic spell or enchantment by Swinburne
+but that particular sort of [[Love|love]] of Swinburne which is like first
+[[Love|love]] in youth; perhaps (one is sometimes tempted to think) the only
+sort of real [[Love|love]] that Swinburne had ever known anything about.
+I mean that sort of mere [[Magic|magic]] spell or enchantment by Swinburne
 which so many young people had in the period when, as Mr. Maurice Baring
 has very truly said, Swinburne seems to them not so much the best
-poet as simply the only poet.  That sort of love certainly hath
+poet as simply the only poet.  That sort of [[Love|love]] certainly hath
 an end, and most of us have lived long enough to have seen it.
 But it is symbolic of something larger; something that is connected
 not only with Swinburne but with Swinburnianism.

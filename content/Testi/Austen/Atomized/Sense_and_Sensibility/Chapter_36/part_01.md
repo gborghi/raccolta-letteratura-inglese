@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 36 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 36 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -32,7 +32,7 @@ to all those intimate connections who knew it before.
 
 This event, highly important to Mrs. Jennings’s happiness, produced a
 
-temporary alteration in the disposal of her time, and influenced, in a
+temporary alteration in the disposal of her [[Time|time]], and influenced, in a
 
 like degree, the engagements of her young friends; for as she wished to
 
@@ -46,7 +46,7 @@ Middletons, spent the whole of every day in Conduit Street. For their
 
 own comfort they would much rather have remained, at least all the
 
-morning, in Mrs. Jennings’s house; but it was not a thing to be urged
+morning, in Mrs. Jennings’s [[house]]; but it was not a thing to be urged
 
 against the wishes of everybody. Their hours were therefore made over
 
@@ -96,7 +96,7 @@ account of the whole affair between Marianne and Mr. Willoughby, she
 
 would have thought herself amply rewarded for the sacrifice of the best
 
-place by the fire after dinner, which their arrival occasioned. But
+place by the [[Fire|fire]] after dinner, which their arrival occasioned. But
 
 this conciliation was not granted; for though she often threw out
 
@@ -112,7 +112,7 @@ friend. Would they only have laughed at her about the Doctor! But so
 
 little were they, any more than the others, inclined to oblige her,
 
-that if Sir John dined from home, she might spend a whole day without
+that if Sir John dined from [[Home|home]], she might spend a whole day without
 
 hearing any other raillery on the subject, than what she was kind
 
@@ -126,17 +126,17 @@ unsuspected by Mrs. Jennings, that she thought it a delightful thing
 
 for the girls to be together; and generally congratulated her young
 
-friends every night, on having escaped the company of a stupid old
+friends every [[Night|night]], on having escaped the company of a stupid old
 
 woman so long. She joined them sometimes at Sir John’s, sometimes at
 
-her own house; but wherever it was, she always came in excellent
+her own [[house]]; but wherever it was, she always came in excellent
 
-spirits, full of delight and importance, attributing Charlotte’s well
+spirits, full of delight and importance, attributing Charlotte’s [[Well|well]]
 
 doing to her own care, and ready to give so exact, so minute a detail
 
-of her situation, as only Miss Steele had curiosity enough to desire.
+of her situation, as only Miss Steele had curiosity enough to [[Desire|desire]].
 
 One thing _did_ disturb her; and of that she made her daily complaint.
 
@@ -152,13 +152,13 @@ father of it; no persuading him to believe that it was not exactly like
 
 every other baby of the same age; nor could he even be brought to
 
-acknowledge the simple proposition of its being the finest child in the
+acknowledge the simple proposition of its being the finest [[Child|child]] in the
 
 world.
 
 
 
-I come now to the relation of a misfortune, which about this time
+I come now to the relation of a misfortune, which about this [[Time|time]]
 
 befell Mrs. John Dashwood. It so happened that while her two sisters
 
@@ -172,11 +172,11 @@ other people will carry them away to form wrong judgments of our
 
 conduct, and to decide on it by slight appearances, one’s happiness
 
-must in some measure be always at the mercy of chance. In the present
+must in some measure be always at the [[Mercy|mercy]] of chance. In the present
 
 instance, this last-arrived lady allowed her fancy to so far outrun
 
-truth and probability, that on merely hearing the name of the Miss
+[[Truth|truth]] and probability, that on merely hearing the name of the Miss
 
 Dashwoods, and understanding them to be Mr. Dashwood’s sisters, she
 
@@ -184,9 +184,9 @@ immediately concluded them to be staying in Harley Street; and this
 
 misconstruction produced within a day or two afterwards, cards of
 
-invitation for them as well as for their brother and sister, to a small
+invitation for them as [[Well|well]] as for their brother and sister, to a small
 
-musical party at her house. The consequence of which was, that Mrs.
+musical party at her [[house]]. The consequence of which was, that Mrs.
 
 John Dashwood was obliged to submit not only to the exceedingly great
 
@@ -196,7 +196,7 @@ was still worse, must be subject to all the unpleasantness of appearing
 
 to treat them with attention: and who could tell that they might not
 
-expect to go out with her a second time? The power of disappointing
+expect to go out with her a second [[Time|time]]? The power of disappointing
 
 them, it was true, must always be hers. But that was not enough; for
 

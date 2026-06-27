@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 26 (part 5)"
+title: "Bleak [[house|House]] — Chapter 26 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-“Well, Mr. Smallweed?” says Mr. George again after going through the
+“[[Well]], Mr. Smallweed?” says Mr. George again after going through the
 ceremony with some stiffness.
 
 “I had no such thing. I have nothing but his signature. Plague
-pestilence and famine, battle murder and sudden death upon him,” says
+pestilence and famine, battle murder and sudden [[Death|death]] upon him,” says
 the old man, making a curse out of one of his few remembrances of a
-prayer and squeezing up his velvet cap between his angry hands, “I
+[[Prayer|prayer]] and squeezing up his velvet cap between his angry hands, “I
 have half a million of his signatures, I think! But you,”
 breathlessly recovering his mildness of speech as Judy re-adjusts the
 cap on his skittle-ball of a head, “you, my dear Mr. George, are
@@ -46,7 +46,7 @@ and approve it.”
 
 “Then, will you come to the lawyer? My dear friend, will you come and
 see the gentleman?” urges Grandfather Smallweed, pulling out a lean
-old silver watch with hands like the leg of a skeleton. “I told him
+old silver watch with hands like the leg of a [[skeleton]]. “I told him
 it was probable I might call upon him between ten and eleven this
 forenoon, and it’s now half after ten. Will you come and see the
 gentleman, Mr. George?”
@@ -70,7 +70,7 @@ wherever it is, without charging for it?” Mr. George inquires,
 getting his hat and thick wash-leather gloves.
 
 This pleasantry so tickles Mr. Smallweed that he laughs, long and
-low, before the fire. But ever while he laughs, he glances over his
+low, before the [[Fire|fire]]. But ever while he laughs, he glances over his
 paralytic shoulder at Mr. George and eagerly watches him as he
 unlocks the padlock of a homely cupboard at the distant end of the
 gallery, looks here and there upon the higher shelves, and ultimately
@@ -92,8 +92,8 @@ terminating at the cab, he deposits him there; and the fair Judy
 takes her place beside him, and the chair embellishes the roof, and
 Mr. George takes the vacant place upon the box.
 
-Mr. George is quite confounded by the spectacle he beholds from time
-to time as he peeps into the cab through the window behind him, where
+Mr. George is quite confounded by the spectacle he beholds from [[Time|time]]
+to [[Time|time]] as he peeps into the cab through the [[Window|window]] behind him, where
 the grim Judy is always motionless, and the old gentleman with his
 cap over one eye is always sliding off the seat into the straw and
 looking upward at him out of his other eye with a helpless expression

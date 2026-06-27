@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Strange Crime of John Boulnois (part 5)"
+title: "[[wifrb11]] — The Strange Crime of John Boulnois (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -18,7 +18,7 @@ tags:
 glow of certainty.  "My husband," she said, "is a great man. 
 Sir Claude Champion was not a great man:  he was a celebrated and
 successful man.  My husband has never been celebrated or successful;
-and it is the solemn truth that he has never dreamed of being so. 
+and it is the solemn [[Truth|truth]] that he has never dreamed of being so. 
 He no more expects to be famous for thinking than for smoking cigars. 
 On all that side he has a sort of splendid stupidity.  He has never
 grown up.  He still liked Champion exactly as he liked him at school;
@@ -27,13 +27,13 @@ the dinner-table. But he couldn't be got to conceive the notion of
 envying Champion.  And Champion wanted to be envied.  He went mad
 and killed himself for that."
 
-     "Yes," said Father Brown; "I think I begin to understand."
+     "Yes," said [[Father Brown]]; "I think I begin to understand."
 
      "Oh, don't you see?" she cried; "the whole picture is made for that--
-the place is planned for it.  Champion put John in a little house
+the place is planned for it.  Champion put John in a little [[house]]
 at his very door, like a dependant--to make him feel a failure. 
 He never felt it.  He thinks no more about such things than--
-than an absent-minded lion.  Champion would burst in on John's
+than an absent-minded [[Lion|lion]].  Champion would burst in on John's
 shabbiest hours or homeliest meals with some dazzling present or
 announcement or expedition that made it like the visit of Haroun Alraschid,
 and John would accept or refuse amiably with one eye off, so to speak,
@@ -41,8 +41,8 @@ like one lazy schoolboy agreeing or disagreeing with another.
 After five years of it John had not turned a hair; and Sir Claude Champion
 was a monomaniac."
 
-     "And Haman began to tell them," said Father Brown,
-"of all the things wherein the king had honoured him; and he said:
+     "And Haman began to tell them," said [[Father Brown]],
+"of all the things wherein the [[King|king]] had honoured him; and he said:
 `All these things profit me nothing while I see Mordecai the Jew
 sitting in the gate.'"
 
@@ -61,29 +61,29 @@ Nobody could have explained to my husband.  Nobody could do it now.
 If you said to him in so many words, `Champion is stealing your wife,'
 he would think the joke a little vulgar:  that it could be anything
 but a joke--that notion could find no crack in his great skull
-to get in by.  Well, John was to come and see us act this evening,
+to get in by.  [[Well]], John was to come and see us act this evening,
 but just as we were starting he said he wouldn't; he had got
 an interesting book and a cigar.  I told this to Sir Claude,
-and it was his death-blow.  The monomaniac suddenly saw despair. 
+and it was his [[Death|death]]-blow.  The monomaniac suddenly saw [[Despair|despair]]. 
 He stabbed himself, crying out like a devil that Boulnois was slaying him;
-he lies there in the garden dead of his own jealousy to produce jealousy,
+he lies there in the [[Garden|garden]] dead of his own [[Jealousy|jealousy]] to produce [[Jealousy|jealousy]],
 and John is sitting in the dining-room reading a book."
 
-     There was another silence, and then the little priest said:
+     There was another [[Silence|silence]], and then the little priest said:
 "There is only one weak point, Mrs Boulnois, in all your
 very vivid account.  Your husband is not sitting in the dining-room
-reading a book.  That American reporter told me he had been to your house,
+reading a book.  That American reporter told me he had been to your [[house]],
 and your butler told him Mr Boulnois had gone to Pendragon Park after all."
 
      Her bright eyes widened to an almost electric glare;
-and yet it seemed rather bewilderment than confusion or fear. 
+and yet it seemed rather bewilderment than confusion or [[Fear|fear]]. 
 "Why, what can you mean?" she cried.  "All the servants were
-out of the house, seeing the theatricals.  And we don't keep a butler,
+out of the [[house]], seeing the theatricals.  And we don't keep a butler,
 thank goodness!"
 
-     Father Brown started and spun half round like an absurd teetotum. 
+     [[Father Brown]] started and spun half round like an absurd teetotum. 
 "What, what?" he cried seeming galvanized into sudden life. 
-"Look here--I say--can I make your husband hear if I go to the house?"
+"Look here--I say--can I make your husband hear if I go to the [[house]]?"
 
      "Oh, the servants will be back by now," she said, wondering.
 
@@ -113,21 +113,21 @@ some of your scientific studies."
      "No," said Boulnois; "I was reading `The Bloody Thumb.'"
 He said it with neither frown nor smile, and his visitor was conscious
 of a certain deep and virile indifference in the man which his wife
-had called greatness.  He laid down a gory yellow "shocker"
+had called [[Greatness|greatness]].  He laid down a gory yellow "shocker"
 without even feeling its incongruity enough to comment on it humorously. 
 John Boulnois was a big, slow-moving man with a massive head,
 partly grey and partly bald, and blunt, burly features. 
 He was in shabby and very old-fashioned evening-dress, with a narrow
 triangular opening of shirt-front:  he had assumed it that evening
-in his original purpose of going to see his wife act Juliet.
+in his original purpose of going to see his wife act [[Juliet]].
 
      "I won't keep you long from `The Bloody Thumb' or any other
-catastrophic affairs," said Father Brown, smiling.  "I only came
+catastrophic affairs," said [[Father Brown]], smiling.  "I only came
 to ask you about the crime you committed this evening."
 
      Boulnois looked at him steadily, but a red bar began to show
 across his broad brow; and he seemed like one discovering embarrassment
-for the first time.
+for the first [[Time|time]].
 
      "I know it was a strange crime," assented Brown in a low voice. 
 "Stranger than murder perhaps--to you.  The little sins are sometimes
@@ -137,14 +137,14 @@ six times a week:  and yet you find it sticks to your tongue like
 a nameless atrocity."
 
      "It makes one feel," said the philosopher slowly, "such a
-damned fool."
+damned [[Fool|fool]]."
 
      "I know," assented the other, "but one often has to choose
-between feeling a damned fool and being one."
+between feeling a damned [[Fool|fool]] and being one."
 
-     "I can't analyse myself well," went on Boulnois; "but sitting
+     "I can't analyse myself [[Well|well]]," went on Boulnois; "but sitting
 in that chair with that story I was as happy as a schoolboy
-on a half-holiday.  It was security, eternity--I can't convey it...
+on a half-holiday.  It was security, [[Eternity|eternity]]--I can't convey it...
 the cigars were within reach...the matches were within reach...
 the Thumb had four more appearances to...it was not only a peace,
 but a plenitude.  Then that bell rang, and I thought for one long,
@@ -156,11 +156,11 @@ to speak and his notebook open to write in.  I remembered the Yankee
 interviewer I had forgotten.  His hair was parted in the middle,
 and I tell you that murder--"
 
-     "I understand," said Father Brown.  "I've seen him."
+     "I understand," said [[Father Brown]].  "I've seen him."
 
      "I didn't commit murder," continued the Catastrophist mildly,
 "but only perjury.  I said I had gone across to Pendragon Park
-and shut the door in his face.  That is my crime, Father Brown,
+and shut the door in his face.  That is my crime, [[Father Brown]],
 and I don't know what penance you would inflict for it."
 
      "I shan't inflict any penance," said the clerical gentleman,
@@ -171,7 +171,7 @@ penance which would otherwise have followed your little offence."
      "And what," asked Boulnois, smiling, "is the little penance
 I have so luckily been let off?"
 
-     "Being hanged," said Father Brown.
+     "Being hanged," said [[Father Brown]].
 
 
 

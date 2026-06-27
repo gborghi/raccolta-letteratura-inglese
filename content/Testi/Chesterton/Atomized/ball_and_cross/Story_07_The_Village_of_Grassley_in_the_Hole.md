@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Village of Grassley-in-the-Hole"
+title: "ball and [[Cross|cross]] — The Village of Grassley-in-the-Hole"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -24,14 +24,14 @@ intermittent laughter ended in a kind of yawn.
 
 "I have not noticed," answered MacIan.  "What are you going to do?"
 
-"There's a village down the road, past the pool," answered Turnbull.
+"There's a village down the [[Road|road]], past the pool," answered Turnbull.
 "I can see it from here.  I can see the whitewashed walls of some
 cottages and a kind of corner of the church.  How jolly it all looks.
 It looks so--I don't know what the word is--so sensible.  Don't fancy I'm
-under any illusions about Arcadian virtue and the innocent villagers.
+under any illusions about Arcadian virtue and the [[Innocent|innocent]] villagers.
 Men make beasts of themselves there with drink, but they don't
 deliberately make devils of themselves with mere talking.
-They kill wild animals in the wild woods, but they don't kill cats
+They kill wild [[Animals|animals]] in the wild woods, but they don't kill cats
 to the God of Victory.  They don't----" He broke off and suddenly
 spat on the ground.
 
@@ -50,23 +50,23 @@ the ground--his eyes particularly dreamy.
 you people agreed with all that."
 
 "With all that about doing as one likes, and the individual,
-and Nature loving the strongest, and all the things which that
+and [[Nature]] loving the strongest, and all the things which that
 cockroach talked about."
 
-Turnbull's big blue-grey eyes stood open with a grave astonishment.
+Turnbull's big blue-grey eyes stood open with a [[Grave|grave]] astonishment.
 
 "Do you really mean to say, MacIan," he said, "that you fancied that we,
 the Free-thinkers, that Bradlaugh, or Holyoake, or Ingersoll,
-believe all that dirty, immoral mysticism about Nature?  Damn Nature!"
+believe all that dirty, immoral mysticism about [[Nature]]?  Damn [[Nature]]!"
 
 "I supposed you did," said MacIan calmly.  "It seems to me your
 most conclusive position."
 
 "And you mean to tell me," rejoined the other, "that you broke
-my window, and challenged me to mortal combat, and tied a tradesman
-up with ropes, and chased an Oxford Fellow across five meadows--
+my [[Window|window]], and challenged me to mortal combat, and tied a tradesman
+up with ropes, and chased an [[Oxford]] Fellow across five meadows--
 all under the impression that I am such an illiterate idiot as to
-believe in Nature!"
+believe in [[Nature]]!"
 
 "I supposed you did," repeated MacIan with his usual mildness;
 "but I admit that I know little of the details of your belief--
@@ -91,26 +91,26 @@ have never thought of doing yet--discover what our difference is?"
 "It never occurred to me before," answered MacIan with tranquillity.
 "It is a good suggestion."
 
-And they set out at an easy swing down the steep road to the
+And they set out at an easy swing down the steep [[Road|road]] to the
 village of Grassley-in-the-Hole.
 
 Grassley-in-the-Hole was a rude parallelogram of buildings,
 with two thoroughfares which might have been called two high
 streets if it had been possible to call them streets.
 One of these ways was higher on the slope than the other, the whole
-parallelogram lying aslant, so to speak, on the side of the hill.
-The upper of these two roads was decorated with a big public house,
-a butcher's shop, a small public house, a sweetstuff shop, a very small
-public house, and an illegible signpost.  The lower of the two roads
-boasted a horse-pond, a post office, a gentleman's garden with very
-high hedges, a microscopically small public house, and two cottages.
+parallelogram lying aslant, so to speak, on the side of the [[Hill|hill]].
+The upper of these two roads was decorated with a big public [[house]],
+a butcher's shop, a small public [[house]], a sweetstuff shop, a very small
+public [[house]], and an illegible signpost.  The lower of the two roads
+boasted a [[Horse|horse]]-pond, a post office, a gentleman's [[Garden|garden]] with very
+high hedges, a microscopically small public [[house]], and two cottages.
 Where all the people lived who supported all the public houses was
 in this, as in many other English villages, a silent and smiling mystery.
 The church lay a little above and beyond the village, with a square
 grey tower dominating it decisively.
 
 But even the church was scarcely so central and solemn an
-institution as the large public house, the Valencourt Arms.
+institution as the large public [[house]], the Valencourt Arms.
 It was named after some splendid family that had long gone bankrupt,
 and whose seat was occupied by a man who had invented a
 hygienic bootjack; but the unfathomable sentimentalism of the English
@@ -126,9 +126,9 @@ and carried under each coat something that looked like a stick.
 One was tall and dark, the other short and red-haired. They ordered
 a pot of ale each.
 
-"MacIan," said Turnbull, lifting his tankard, "the fool who wanted
+"MacIan," said Turnbull, lifting his tankard, "the [[Fool|fool]] who wanted
 us to be friends made us want to go on fighting.  It is only natural
-that the fool who wanted us to fight should make us friendly.
+that the [[Fool|fool]] who wanted us to fight should make us friendly.
 MacIan, your health!"
 
 Dusk was already dropping, the rustics in the tavern were
@@ -138,44 +138,44 @@ before MacIan and Turnbull had reached the really important part
 of their discussion.
 
 MacIan wore an expression of sad bewilderment not uncommon with him.
-"I am to understand, then," he said, "that you don't believe in nature."
+"I am to understand, then," he said, "that you don't believe in [[Nature|nature]]."
 
 "You may say so in a very special and emphatic sense," said Turnbull.
-"I do not believe in nature, just as I do not believe in Odin.
-She is a myth.  It is not merely that I do not believe that nature
-can guide us.  It is that I do not believe that nature exists."
+"I do not believe in [[Nature|nature]], just as I do not believe in Odin.
+She is a myth.  It is not merely that I do not believe that [[Nature|nature]]
+can guide us.  It is that I do not believe that [[Nature|nature]] exists."
 
 "Exists?" said MacIan in his monotonous way, settling his pewter
 pot on the table.
 
-"Yes, in a real sense nature does not exist.  I mean that nobody
-can discover what the original nature of things would have been
+"Yes, in a real sense [[Nature|nature]] does not exist.  I mean that nobody
+can discover what the original [[Nature|nature]] of things would have been
 if things had not interfered with it.  The first blade of grass began
-to tear up the earth and eat it; it was interfering with nature,
-if there is any nature.  The first wild ox began to tear up the grass
-and eat it; he was interfering with nature, if there is any nature.
+to tear up the earth and eat it; it was interfering with [[Nature|nature]],
+if there is any [[Nature|nature]].  The first wild ox began to tear up the grass
+and eat it; he was interfering with [[Nature|nature]], if there is any [[Nature|nature]].
 In the same way," continued Turnbull, "the human when it asserts
-its dominance over nature is just as natural as the thing
+its dominance over [[Nature|nature]] is just as natural as the thing
 which it destroys."
 
 "And in the same way," said MacIan almost dreamily, "the superhuman,
-the supernatural is just as natural as the nature which it destroys."
+the [[Supernatural|supernatural]] is just as natural as the [[Nature|nature]] which it destroys."
 
 Turnbull took his head out of his pewter pot in some anger.
 
-"The supernatural, of course," he said, "is quite another thing;
-the case of the supernatural is simple.  The supernatural
+"The [[Supernatural|supernatural]], of course," he said, "is quite another thing;
+the case of the [[Supernatural|supernatural]] is simple.  The [[Supernatural|supernatural]]
 does not exist."
 
 "Quite so," said MacIan in a rather dull voice; "you said the same
-about the natural.  If the natural does not exist the supernatural
+about the natural.  If the natural does not exist the [[Supernatural|supernatural]]
 obviously can't." And he yawned a little over his ale.
 
 Turnbull turned for some reason a little red and remarked quickly,
 "That may be jolly clever, for all I know.  But everyone does know
 that there is a division between the things that as a matter of fact
 do commonly happen and the things that don't. Things that break
-the evident laws of nature----"
+the evident laws of [[Nature|nature]]----"
 
 "Which does not exist," put in MacIan sleepily.  Turnbull struck
 the table with a sudden hand.
@@ -187,7 +187,7 @@ the table with a sudden hand.
 "Good Lord in heaven!" thundered Turnbull, without regarding
 the interruption.  "Do you really mean to sit there and say that you,
 like anybody else, would not recognize the difference between a natural
-occurrence and a supernatural one--if there could be such a thing?
+occurrence and a [[Supernatural|supernatural]] one--if there could be such a thing?
 If I flew up to the ceiling----"
 
 "You would bump your head badly," cried MacIan, suddenly starting up.
@@ -207,17 +207,17 @@ He stood silent for a second or two and then resumed.
 "A minute or two ago I caught you out in a real contradiction.
 At that moment logically I was right.  And at that moment I knew
 I was wrong.  Yes, there is a real difference between the natural
-and the supernatural:  if you flew up into that blue sky this instant,
+and the [[Supernatural|supernatural]]:  if you flew up into that blue sky this instant,
 I should think that you were moved by God--or the devil.
 But if you want to know what I really think...I must explain."
 
-He stopped again, abstractedly boring the point of his sword into
+He stopped again, abstractedly boring the point of his [[Sword|sword]] into
 the earth, and went on:
 
 "I was born and bred and taught in a complete universe.
-The supernatural was not natural, but it was perfectly reasonable.
-Nay, the supernatural to me is more reasonable than the natural;
-for the supernatural is a direct message from God, who is reason.
+The [[Supernatural|supernatural]] was not natural, but it was perfectly reasonable.
+Nay, the [[Supernatural|supernatural]] to me is more reasonable than the natural;
+for the [[Supernatural|supernatural]] is a direct message from God, who is reason.
 I was taught that some things are natural and some things divine.
 I mean that some things are mechanical and some things divine.
 But there is the great difficulty, Turnbull.  The great difficulty
@@ -228,12 +228,12 @@ is that, according to my teaching, you are divine."
 "That is just the difficulty," continued MacIan thoughtfully.  "I was
 told that there was a difference between the grass and a man's will;
 and the difference was that a man's will was special and divine.
-A man's free will, I heard, was supernatural."
+A man's free will, I heard, was [[Supernatural|supernatural]]."
 
 "Rubbish!" said Turnbull.
 
 "Oh," said MacIan patiently, "then if a man's free will isn't
-supernatural, why do your materialists deny that it exists?"
+[[Supernatural|supernatural]], why do your materialists deny that it exists?"
 
 Turnbull was silent for a moment.  Then he began to speak,
 but MacIan continued with the same steady voice and sad eyes:
@@ -243,28 +243,28 @@ taught to believe in.  I can understand your disbelieving in it,
 but why disbelieve in a part of it?  It was all one thing to me.  God had
 authority because he was God.  Man had authority because he was man.
 You cannot prove that God is better than a man; nor can you prove
-that a man is better than a horse.  Why permit any ordinary thing?
-Why do you let a horse be saddled?"
+that a man is better than a [[Horse|horse]].  Why permit any ordinary thing?
+Why do you let a [[Horse|horse]] be saddled?"
 
 "Some modern thinkers disapprove of it," said Turnbull
 a little doubtfully.
 
-"I know," said MacIan grimly; "that man who talked about love,
+"I know," said MacIan grimly; "that man who talked about [[Love|love]],
 for instance."
 
 Turnbull made a humorous grimace; then he said:  "We seem to be talking
 in a kind of shorthand; but I won't pretend not to understand you.
 What you mean is this:  that you learnt about all your saints
-and angels at the same time as you learnt about common morality,
+and angels at the same [[Time|time]] as you learnt about common [[morality]],
 from the same people, in the same way.  And you mean to say that if one
-may be disputed, so may the other.  Well, let that pass for the moment.
+may be disputed, so may the other.  [[Well]], let that pass for the moment.
 But let me ask you a question in turn.  Did not this system
 of yours, which you swallowed whole, contain all sorts of things
 that were merely local, the respect for the chief of your clan,
-or such things; the village ghost, the family feud, or what not?
+or such things; the village [[Ghost|ghost]], the family feud, or what not?
 Did you not take in those things, too, along with your theology?"
 
-MacIan stared along the dim village road, down which the last
+MacIan stared along the dim village [[Road|road]], down which the last
 straggler from the inn was trailing his way.
 
 "What you say is not unreasonable," he said.  "But it is not quite true.
@@ -273,7 +273,7 @@ anything like the distinction between the human and the divine,
 or the human and the animal.  It was more like the distinction
 between one animal and another.  But----"
 
-"Well?" said Turnbull.
+"[[Well]]?" said Turnbull.
 
 MacIan was silent.
 
@@ -287,19 +287,19 @@ judge us both."
 
 "No, I don't," said MacIan, shaking his head.  "I mean him."
 
-And he pointed to the half-tipsy yokel who was ploughing down the road.
+And he pointed to the half-tipsy yokel who was ploughing down the [[Road|road]].
 
 "What do you mean?" asked the atheist.
 
 "I mean him," repeated MacIan with emphasis.  "He goes
-out in the early dawn; he digs or he ploughs a field.
-Then he comes back and drinks ale, and then he sings a song.
+out in the early [[Dawn|dawn]]; he digs or he ploughs a field.
+Then he comes back and drinks ale, and then he sings a [[Song|song]].
 All your philosophies and political systems are young compared to him.
 All your hoary cathedrals, yes, even the Eternal Church on earth is
 new compared to him.  The most mouldering gods in the British Museum
 are new facts beside him.  It is he who in the end shall judge us all."
 
-And MacIan rose to his feet with a vague excitement.
+And MacIan [[Rose|rose]] to his feet with a vague excitement.
 
 "What are you going to do?"
 
@@ -320,14 +320,14 @@ And in gigantic strides the long, lean Highlander whirled away into
 the grey twilight, Turnbull following with a good-humoured oath.
 
 The track of the rustic was easy to follow, even in the faltering dark;
-for he was enlivening his wavering walk with song.
+for he was enlivening his wavering walk with [[Song|song]].
 It was an interminable poem, beginning with some unspecified
-King William, who (it appeared) lived in London town and who after
+[[King]] William, who (it appeared) lived in [[London]] town and who after
 the second rise vanished rather abruptly from the train of thought.
 The rest was almost entirely about beer and was thick with local
 topography of a quite unrecognizable kind.  The singer's step
 was neither very rapid, nor, indeed, exceptionally secure;
-so the song grew louder and louder and the two soon overtook him.
+so the [[Song|song]] grew louder and louder and the two soon overtook him.
 
 He was a man elderly or rather of any age, with lean grey hair and a lean
 red face, but with that remarkable rustic physiognomy in which it
@@ -349,14 +349,14 @@ their sort, master.  Atheists!  Don't talk to me about 'un. Atheists!"
 The grounds of his disdain seemed a little dark and confused; but they
 were evidently sufficient.  MacIan resumed in some encouragement:
 
-"You think as I do, I hope; you think that a man should be connected
+"You think as I do, I [[Hope|hope]]; you think that a man should be connected
 with the Church; with the common Christian----"
 
 The old man extended a quivering stick in the direction of
-a distant hill.
+a distant [[Hill|hill]].
 
 "There's the church," he said thickly.  "Grassley old church that is.
-Pulled down it was, in the old squire's time, and----"
+Pulled down it was, in the old squire's [[Time|time]], and----"
 
 "I mean," explained MacIan elaborately, "that you think that there
 should be someone typifying religion, a priest----"
@@ -368,7 +368,7 @@ want in England?"
 "They want you," said MacIan.
 
 "Quite so," said Turnbull, "and me; but they won't get us.
-MacIan, your attempt on the primitive innocence does not seem
+MacIan, your attempt on the primitive [[innocence]] does not seem
 very successful.  Let me try.  What you want, my friend, is your rights.
 You don't want any priests or churches.  A vote, a right to speak
 is what you----"
@@ -383,16 +383,16 @@ When I sees a man, I sez 'e's a man."
 "Quite so," said Turnbull, "a citizen."
 
 "I say he's a man," said the rustic furiously, stopping and
-striking his stick on the ground.  "Not a city or owt else.
+striking his stick on the ground.  "Not a [[City|city]] or owt else.
 He's a man."
 
 "You're perfectly right," said the sudden voice of MacIan,
-falling like a sword.  "And you have kept close to something
+falling like a [[Sword|sword]].  "And you have kept close to something
 the whole world of today tries to forget."
 
-"Good night."
+"Good [[Night|night]]."
 
-And the old man went on wildly singing into the night.
+And the old man went on wildly singing into the [[Night|night]].
 
 "A jolly old creature," said Turnbull; "he didn't seem able to get
 much beyond that fact that a man is a man."

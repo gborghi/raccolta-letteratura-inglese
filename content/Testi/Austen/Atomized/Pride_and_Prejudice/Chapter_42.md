@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 42"
+title: "[[Pride and Prejudice]] — Chapter 42"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -21,10 +21,10 @@ CHAPTER XLII.
 
 Had Elizabeth’s opinion been all drawn from her own family, she could
 not have formed a very pleasing picture of conjugal felicity or domestic
-comfort. Her father, captivated by youth and beauty, and that appearance
-of good-humour which youth and beauty generally give, had married a
+comfort. Her father, captivated by youth and [[Beauty|beauty]], and that appearance
+of good-[[Humour|humour]] which youth and [[Beauty|beauty]] generally give, had married a
 woman whose weak understanding and illiberal mind had very early in
-their marriage put an end to all real affection for her. Respect,
+their [[Marriage|marriage]] put an end to all real affection for her. Respect,
 esteem, and confidence had vanished for ever; and all his views of
 domestic happiness were overthrown. But Mr. Bennet was not of a
 disposition to seek comfort for the disappointment which his own
@@ -38,30 +38,30 @@ wife; but where other powers of entertainment are wanting, the true
 philosopher will derive benefit from such as are given.
 
 Elizabeth, however, had never been blind to the impropriety of her
-father’s behaviour as a husband. She had always seen it with pain; but
+father’s behaviour as a husband. She had always seen it with [[Pain|pain]]; but
 respecting his abilities, and grateful for his affectionate treatment of
 herself, she endeavoured to forget what she could not overlook, and to
 banish from her thoughts that continual breach of conjugal obligation
 and decorum which, in exposing his wife to the contempt of her own
 children, was so highly reprehensible. But she had never felt so
 strongly as now the disadvantages which must attend the children of so
-unsuitable a marriage, nor ever been so fully aware of the evils arising
+unsuitable a [[Marriage|marriage]], nor ever been so fully aware of the evils arising
 from so ill-judged a direction of talents--talents which, rightly used,
 might at least have preserved the respectability of his daughters, even
 if incapable of enlarging the mind of his wife.
 
 When Elizabeth had rejoiced over Wickham’s departure, she found little
 other cause for satisfaction in the loss of the regiment. Their parties
-abroad were less varied than before; and at home she had a mother and
+abroad were less varied than before; and at [[Home|home]] she had a mother and
 sister, whose constant repinings at the dulness of everything around
 them threw a real gloom over their domestic circle; and, though Kitty
-might in time regain her natural degree of sense, since the disturbers
+might in [[Time|time]] regain her natural degree of sense, since the disturbers
 of her brain were removed, her other sister, from whose disposition
 greater evil might be apprehended, was likely to be hardened in all her
-folly and assurance, by a situation of such double danger as a
+folly and assurance, by a situation of such [[Double|double]] danger as a
 watering-place and a camp. Upon the whole, therefore, she found, what
 has been sometimes found before, that an event to which she had looked
-forward with impatient desire, did not, in taking place, bring all the
+forward with impatient [[Desire|desire]], did not, in taking place, bring all the
 satisfaction she had promised herself. It was consequently necessary to
 name some other period for the commencement of actual felicity; to have
 some other point on which her wishes and hopes might be fixed, and by
@@ -75,7 +75,7 @@ scheme, every part of it would have been perfect.
 “But it is fortunate,” thought she, “that I have something to wish for.
 Were the whole arrangement complete, my disappointment would be certain.
 But here, by carrying with me one ceaseless source of regret in my
-sister’s absence, I may reasonably hope to have all my expectations of
+sister’s absence, I may reasonably [[Hope|hope]] to have all my expectations of
 pleasure realized. A scheme of which every part promises delight can
 never be successful; and general disappointment is only warded off by
 the defence of some little peculiar vexation.”
@@ -93,22 +93,22 @@ to be learnt, for her letters to Kitty, though rather longer, were much
 too full of lines under the words to be made public.
 
 After the first fortnight or three weeks of her absence, health,
-good-humour, and cheerfulness began to reappear at Longbourn. Everything
-wore a happier aspect. The families who had been in town for the winter
-came back again, and summer finery and summer engagements arose. Mrs.
+good-[[Humour|humour]], and cheerfulness began to reappear at Longbourn. Everything
+wore a happier aspect. The families who had been in town for the [[Winter|winter]]
+came back again, and [[Summer|summer]] finery and [[Summer|summer]] engagements arose. Mrs.
 Bennet was restored to her usual querulous serenity; and by the middle
 of June Kitty was so much recovered as to be able to enter Meryton
-without tears,--an event of such happy promise as to make Elizabeth
-hope, that by the following Christmas she might be so tolerably
+without [[Tears|tears]],--an event of such happy promise as to make Elizabeth
+[[Hope|hope]], that by the following Christmas she might be so tolerably
 reasonable as not to mention an officer above once a day, unless, by
 some cruel and malicious arrangement at the War Office, another regiment
 should be quartered in Meryton.
 
-The time fixed for the beginning of their northern tour was now fast
+The [[Time|time]] fixed for the beginning of their northern tour was now fast
 approaching; and a fortnight only was wanting of it, when a letter
 arrived from Mrs. Gardiner, which at once delayed its commencement and
 curtailed its extent. Mr. Gardiner would be prevented by business from
-setting out till a fortnight later in July, and must be in London again
+setting out till a fortnight later in July, and must be in [[London]] again
 within a month; and as that left too short a period for them to go so
 far, and see so much as they had proposed, or at least to see it with
 the leisure and comfort they had built on, they were obliged to give up
@@ -122,7 +122,7 @@ her curiosity as all the celebrated beauties of Matlock, Chatsworth,
 Dovedale, or the Peak.
 
 Elizabeth was excessively disappointed: she had set her heart on seeing
-the Lakes; and still thought there might have been time enough. But it
+the Lakes; and still thought there might have been [[Time|time]] enough. But it
 was her business to be satisfied--and certainly her temper to be happy;
 and all was soon right again.
 
@@ -140,7 +140,7 @@ Jane, who was the general favourite, and whose steady sense and
 sweetness of temper exactly adapted her for attending to them in every
 way--teaching them, playing with them, and loving them.
 
-The Gardiners stayed only one night at Longbourn, and set off the next
+The Gardiners stayed only one [[Night|night]] at Longbourn, and set off the next
 morning with Elizabeth in pursuit of novelty and amusement. One
 enjoyment was certain--that of suitableness as companions; a
 suitableness which comprehended health and temper to bear
@@ -150,19 +150,19 @@ disappointments abroad.
 
 It is not the object of this work to give a description of Derbyshire,
 nor of any of the remarkable places through which their route thither
-lay--Oxford, Blenheim, Warwick, Kenilworth, Birmingham, etc., are
+lay--[[Oxford]], Blenheim, Warwick, Kenilworth, Birmingham, etc., are
 sufficiently known. A small part of Derbyshire is all the present
 concern. To the little town of Lambton, the scene of Mrs. Gardiner’s
 former residence, and where she had lately learned that some
 acquaintance still remained, they bent their steps, after having seen
 all the principal wonders of the country; and within five miles of
 Lambton, Elizabeth found, from her aunt, that Pemberley was situated. It
-was not in their direct road; nor more than a mile or two out of it. In
+was not in their direct [[Road|road]]; nor more than a mile or two out of it. In
 talking over their route the evening before, Mrs. Gardiner expressed an
 inclination to see the place again. Mr. Gardiner declared his
 willingness, and Elizabeth was applied to for her approbation.
 
-“My love, should not you like to see a place of which you have heard so
+“My [[Love|love]], should not you like to see a place of which you have heard so
 much?” said her aunt. “A place, too, with which so many of your
 acquaintance are connected. Wickham passed all his youth there, you
 know.”
@@ -172,7 +172,7 @@ Pemberley, and was obliged to assume a disinclination for seeing it. She
 must own that she was tired of great houses: after going over so many,
 she really had no pleasure in fine carpets or satin curtains.
 
-Mrs. Gardiner abused her stupidity. “If it were merely a fine house
+Mrs. Gardiner abused her stupidity. “If it were merely a fine [[house]]
 richly furnished,” said she, “I should not care about it myself; but the
 grounds are delightful. They have some of the finest woods in the
 country.”
@@ -185,12 +185,12 @@ a risk. But against this there were objections; and she finally resolved
 that it could be the last resource, if her private inquiries as to the
 absence of the family were unfavourably answered.
 
-Accordingly, when she retired at night, she asked the chambermaid
+Accordingly, when she retired at [[Night|night]], she asked the chambermaid
 whether Pemberley were not a very fine place, what was the name of its
 proprietor, and, with no little alarm, whether the family were down for
-the summer? A most welcome negative followed the last question; and her
+the [[Summer|summer]]? A most welcome negative followed the last question; and her
 alarms being now removed, she was at leisure to feel a great deal of
-curiosity to see the house herself; and when the subject was revived the
+curiosity to see the [[house]] herself; and when the subject was revived the
 next morning, and she was again applied to, could readily answer, and
 with a proper air of indifference, that she had not really any dislike
 to the scheme.

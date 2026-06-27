@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 10 (part 7)"
+title: "[[Shirley]] — Chapter 10 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,11 +18,11 @@ old maid was too poor to give much, though she straitened herself to
 
 privation that she might contribute her mite when needful. They were the
 
-works of a Sister of Charity--far more difficult to perform than those
+works of a Sister of [[Charity]]--far more difficult to perform than those
 
-of a Lady Bountiful. She would watch by any sick-bed; she seemed to fear
+of a Lady Bountiful. She would watch by any sick-bed; she seemed to [[Fear|fear]]
 
-no disease. She would nurse the poorest whom none else would nurse. She
+no disease. She would [[Nurse|nurse]] the poorest whom none else would [[Nurse|nurse]]. She
 
 was serene, humble, kind, and equable through everything.
 
@@ -32,35 +32,35 @@ For this goodness she got but little reward in this life. Many of the
 
 poor became so accustomed to her services that they hardly thanked her
 
-for them. The rich heard them mentioned with wonder, but were silent,
+for them. The rich heard them mentioned with [[Wonder|wonder]], but were silent,
 
 from a sense of shame at the difference between her sacrifices and their
 
 own. Many ladies, however, respected her deeply. They could not help it.
 
-One gentleman--one only--gave her his friendship and perfect confidence.
+One gentleman--one only--gave her his [[Friendship|friendship]] and perfect confidence.
 
 This was Mr. Hall, the vicar of Nunnely. He said, and said truly, that
 
-her life came nearer the life of Christ than that of any other human
+her life came nearer the life of [[Christ]] than that of any other human
 
 being he had ever met with. You must not think, reader, that in
 
-sketching Miss Ainley's character I depict a figment of imagination. No.
+sketching Miss Ainley's character I depict a figment of [[Imagination|imagination]]. No.
 
 We seek the originals of such portraits in real life only.
 
 
 
-Miss Helstone studied well the mind and heart now revealed to her. She
+Miss Helstone studied [[Well|well]] the mind and heart now revealed to her. She
 
 found no high intellect to admire--the old maid was merely sensible--but
 
 she discovered so much goodness, so much usefulness, so much mildness,
 
-patience, truth, that she bent her own mind before Miss Ainley's in
+patience, [[Truth|truth]], that she bent her own mind before Miss Ainley's in
 
-reverence. What was her love of nature, what was her sense of beauty,
+reverence. What was her [[Love|love]] of [[Nature|nature]], what was her sense of [[Beauty|beauty]],
 
 what were her more varied and fervent emotions, what was her deeper
 
@@ -72,7 +72,7 @@ beautiful forms of selfish delight; mentally, she trod them under foot.
 
 
 
-It is true she still felt with pain that the life which made Miss Ainley
+It is true she still felt with [[Pain|pain]] that the life which made Miss Ainley
 
 happy could not make her happy. Pure and active as it was, in her heart
 
@@ -108,9 +108,9 @@ in using the needle for themselves.
 
 
 
-Caroline went home, laid her plans, and took a resolve not to swerve
+Caroline went [[Home|home]], laid her plans, and took a resolve not to swerve
 
-from them. She allotted a certain portion of her time for her various
+from them. She allotted a certain portion of her [[Time|time]] for her various
 
 studies, and a certain portion for doing anything Miss Ainley might
 
@@ -118,7 +118,7 @@ direct her to do. The remainder was to be spent in exercise; not a
 
 moment was to be left for the indulgence of such fevered thoughts as had
 
-poisoned last Sunday evening.
+poisoned last [[Sunday]] evening.
 
 
 
@@ -132,22 +132,22 @@ to be employed; it forbade her to brood; and gleams of satisfaction
 
 chequered her gray life here and there when she found she had done good,
 
-imparted pleasure, or allayed suffering.
+imparted pleasure, or allayed [[Suffering|suffering]].
 
 
 
-Yet I must speak truth. These efforts brought her neither health of body
+Yet I must speak [[Truth|truth]]. These efforts brought her neither health of [[Body|body]]
 
 nor continued peace of mind. With them all she wasted, grew more joyless
 
-and more wan; with them all her memory kept harping on the name of
+and more wan; with them all her [[Memory|memory]] kept harping on the name of
 
-Robert Moore; an elegy over the past still rung constantly in her ear; a
+[[Robert Moore]]; an [[Elegy|elegy]] over the past still rung constantly in her ear; a
 
 funereal inward cry haunted and harassed her; the heaviness of a broken
 
 spirit, and of pining and palsying faculties, settled slow on her
 
-buoyant youth. Winter seemed conquering her spring; the mind's soil and
+buoyant youth. [[Winter]] seemed conquering her [[spring]]; the mind's soil and
 
 its treasures were freezing gradually to barren stagnation.

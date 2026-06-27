@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 66)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 66)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,9 +16,9 @@ tags:
 
 different. And indeed the whole conversation is rather like some such
 
-cross-purposes about some such word as 'Lincoln'; in which one party
+[[Cross|cross]]-purposes about some such word as '[[Lincoln]]'; in which one party
 
-should be talking about the President and the other about the cathedral.
+should be talking about the President and the other about the [[Cathedral|cathedral]].
 
 It is like some wild bewilderment in a farce, with one man wondering how
 
@@ -30,15 +30,15 @@ would insist everywhere in this book; that the remedy is to be found in
 
 disentangling the two and not in entangling them further. You could not
 
-produce a democrat of the logical type of Lincoln merely out of the
+produce a democrat of the logical type of [[Lincoln]] merely out of the
 
-moral materials that now make up an English cathedral town, like that on
+moral materials that now make up an English [[Cathedral|cathedral]] town, like that on
 
-which Old Tom of Lincoln looks down. But on the other hand, it is quite
+which Old Tom of [[Lincoln]] looks down. But on the other hand, it is quite
 
 certain that a hundred Abraham Lincolns, working for a hundred years,
 
-could not build Lincoln Cathedral. And the farcical allegory of an
+could not build [[Lincoln]] [[Cathedral]]. And the farcical [[Allegory|allegory]] of an
 
 attempt to make Old Tom and Old Abe embrace to the glory of the
 
@@ -46,17 +46,17 @@ illogical Anglo-Saxon language is but a symbol of something that is
 
 always being attempted, and always attempted in vain. It is not by
 
-mutual imitation that the understanding can come. It is not by erecting
+mutual [[Imitation|imitation]] that the understanding can come. It is not by erecting
 
-New York sky-scrapers in London that New York can learn the sacred
+[[New York]] sky-scrapers in [[London]] that [[New York]] can learn the sacred
 
-significance of the towers of Lincoln. It is not by English dukes
+significance of the towers of [[Lincoln]]. It is not by English dukes
 
 importing the daughters of American millionaires that England can get
 
 any glimpse of the democratic dignity of American men. I have the best
 
-of all reasons for knowing that a stranger can be welcomed in America;
+of all reasons for knowing that a stranger can be welcomed in [[america|America]];
 
 and just as he is courteously treated in the country as a stranger, so
 
@@ -100,7 +100,7 @@ Garvin, made interesting and important speeches, and many scientific
 
 aviators luminously discussed the new science. Among their graceful
 
-felicitations and grave and quiet analyses a word was said, or a note
+felicitations and [[Grave|grave]] and quiet analyses a word was said, or a note
 
 was struck, which I myself can never hear, even in the most harmless
 
@@ -122,21 +122,21 @@ saying that an instrument of torture was being prepared by my dentist,
 
 that would finally cure me of loving my dog. And I felt it again when
 
-all these wise and well-meaning persons began to talk about the
+all these wise and [[Well|well]]-meaning persons began to talk about the
 
 inevitable effect of aviation in bridging the Atlantic, and establishing
 
-alliance and affection between England and America.
+alliance and affection between England and [[america|America]].
 
 
 
-I resent the suggestion that a machine can make me bad. But I resent
+I resent the suggestion that a [[Machine|machine]] can make me bad. But I resent
 
-quite equally the suggestion that a machine can make me good. It might
+quite equally the suggestion that a [[Machine|machine]] can make me good. It might
 
 be the unfortunate fact that a coolness had arisen between myself and
 
-Mr. Fitzarlington Blenkinsop, inhabiting the suburban villa and garden
+Mr. Fitzarlington Blenkinsop, inhabiting the suburban villa and [[Garden|garden]]
 
 next to mine; and I might even be largely to blame for it. But if
 
@@ -156,13 +156,13 @@ a man had suffered from a trifling shindy with his wife. And suppose
 
 somebody told him that the introduction of an entirely new
 
-vacuum-cleaner would compel him to a reluctant reconciliation with his
+vacuum-cleaner would compel him to a reluctant [[Reconciliation|reconciliation]] with his
 
-wife. It would be found, I fancy, that human nature abhors that vacuum.
+wife. It would be found, I fancy, that human [[Nature|nature]] abhors that vacuum.
 
 Reasonably spirited human beings will not be ordered about by bicycles
 
-and sewing-machines; and a sane man will not be made good, let alone
+and sewing-machines; and a sane man will not be made good, let [[Alone|alone]]
 
 bad, by the things he has himself made. I have occasionally dictated to
 
@@ -176,13 +176,13 @@ however complex, that attempted such a tyranny.
 
 Yet this and nothing else is what is implied in all such talk of the
 
-aeroplane annihilating distinctions as well as distances; and an
+aeroplane annihilating distinctions as [[Well|well]] as distances; and an
 
 international aviation abolishing nationalities. This and nothing else
 
 was really implied in one speaker's prediction that such aviation will
 
-almost necessitate an Anglo-American friendship. Incidentally, I may
+almost necessitate an Anglo-American [[Friendship|friendship]]. Incidentally, I may
 
 remark, it is not a true suggestion even in the practical and
 
@@ -190,9 +190,9 @@ materialistic sense; and the speaker's phrase refuted the speaker's
 
 argument. He said that international relations must be more friendly
 
-when men can get from England to America in a day. Well, men can already
+when men can get from England to [[america|America]] in a day. [[Well]], men can already
 
-get from England to Germany in a day; and the result was a mutual
+get from England to [[Germany]] in a day; and the result was a mutual
 
 invitation of which the formalities lasted for five years. Men could get
 

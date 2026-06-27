@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -25,23 +25,23 @@ my advice, did you not, Tom?’
 ‘And to take it when I gave it to you?’
 
 ‘Yes,’ rejoined Tom, smiling, ‘if it were good advice, which, being
-yours, I have no doubt it will be.’
+yours, I have no [[Doubt|doubt]] it will be.’
 
-‘Very well. Then don’t be an obstinate old humbug in the outset, Tom, or
+‘Very [[Well|well]]. Then don’t be an obstinate old humbug in the outset, Tom, or
 I shall shut up shop and dispense none of that invaluable commodity. You
 are on a visit to me. I wish I had an organ for you, Tom!’
 
 ‘So do the gentlemen downstairs, and the gentlemen overhead I have no
-doubt,’ was Tom’s reply.
+[[Doubt|doubt]],’ was Tom’s reply.
 
 ‘Let me see. In the first place, you will wish to see your sister this
 morning,’ pursued his friend, ‘and of course you will like to go there
-alone. I’ll walk part of the way with you; and see about a little
+[[Alone|alone]]. I’ll walk part of the way with you; and see about a little
 business of my own, and meet you here again in the afternoon. Put that
-in your pocket, Tom. It’s only the key of the door. If you come home
+in your pocket, Tom. It’s only the key of the door. If you come [[Home|home]]
 first you’ll want it.’
 
-‘Really,’ said Tom, ‘quartering one’s self upon a friend in this way--’
+‘Really,’ said Tom, ‘quartering one’s [[Self|self]] upon a friend in this way--’
 
 ‘Why, there are two keys,’ interposed John Westlock. ‘I can’t open the
 door with them both at once, can I? What a ridiculous fellow you are,
@@ -49,13 +49,13 @@ Tom? Nothing particular you’d like for dinner, is there?’
 
 ‘Oh dear no,’ said Tom.
 
-‘Very well, then you may as well leave it to me. Have a glass of cherry
+‘Very [[Well|well]], then you may as [[Well|well]] leave it to me. Have a glass of cherry
 brandy, Tom?’
 
 ‘Not a drop! What remarkable chambers these are!’ said Pinch ‘there’s
 everything in ‘em!’
 
-‘Bless your soul, Tom, nothing but a few little bachelor contrivances!
+‘Bless your [[Soul|soul]], Tom, nothing but a few little bachelor contrivances!
 the sort of impromptu arrangements that might have suggested themselves
 to Philip Quarll or Robinson Crusoe, that’s all. What do you say? Shall
 we walk?’
@@ -97,7 +97,7 @@ consolation to proclaim “I want such and such a thing, and I can’t get
 it, and I don’t expect I ever shall!”’
 
 John Westlock laughed at the idea, and they went out together. So many
-years had passed since Tom was last in London, and he had known so
+years had passed since Tom was last in [[London]], and he had known so
 little of it then, that his interest in all he saw was very great. He
 was particularly anxious, among other notorious localities, to have
 those streets pointed out to him which were appropriated to the
@@ -116,11 +116,11 @@ the great bell-handle, Tom gave it a gentle pull. The porter appeared.
 
 ‘Miss Pinch is governess here,’ replied the porter.
 
-At the same time he looked at Tom from head to foot, as if he would have
+At the same [[Time|time]] he looked at Tom from head to foot, as if he would have
 said, ‘You are a nice man, YOU are; where did YOU come from?’
 
 ‘It’s the same young lady,’ said Tom. ‘It’s quite right. Is she at
-home?’
+[[Home|home]]?’
 
 ‘I don’t know, I’m sure,’ rejoined the porter.
 
@@ -130,7 +130,7 @@ of such a step did not appear to present itself to the porter’s mind at
 all.
 
 The fact was that the porter in answering the gate-bell had, according
-to usage, rung the house-bell (for it is as well to do these things in
+to usage, rung the [[house]]-bell (for it is as [[Well|well]] to do these things in
 the Baronial style while you are about it), and that there the functions
 of his office had ceased. Being hired to open and shut the gate, and
 not to explain himself to strangers, he left this little incident to be
@@ -140,7 +140,7 @@ out from the door steps:
 ‘Hollo, there! wot are you up to? This way, young man!’
 
 ‘Oh!’ said Tom, hurrying towards him. ‘I didn’t observe that there was
-anybody else. Pray is Miss Pinch at home?’
+anybody else. Pray is Miss Pinch at [[Home|home]]?’
 
 ‘She’s IN,’ replied the footman. As much as to say to Tom: ‘But if you
 think she has anything to do with the proprietorship of this place you

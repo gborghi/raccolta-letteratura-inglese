@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 3 (part 3)"
+title: "[[Agnes Grey]] — Chapter 3 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -19,7 +19,7 @@ to my great joy, he would have the sense to see that his wisest policy
 was to finish his tasks, and go out and amuse himself till I and his
 sisters came to join him; which frequently was not at all, for Mary Ann
 seldom followed his example in this particular: she apparently
-preferred rolling on the floor to any other amusement: down she would
+preferred [[rolling]] on the floor to any other amusement: down she would
 drop like a leaden weight; and when I, with great difficulty, had
 succeeded in rooting her thence, I had still to hold her up with one
 arm, while with the other I held the book from which she was to read or
@@ -28,7 +28,7 @@ heavy for one arm to bear, I transferred it to the other; or, if both
 were weary of the burden, I carried her into a corner, and told her she
 might come out when she should find the use of her feet, and stand up:
 but she generally preferred lying there like a log till dinner or
-tea-time, when, as I could not deprive her of her meals, she must be
+tea-[[Time|time]], when, as I could not deprive her of her meals, she must be
 liberated, and would come crawling out with a grin of triumph on her
 round, red face. Often she would stubbornly refuse to pronounce some
 particular word in her lesson; and now I regret the lost labour I have
@@ -78,7 +78,7 @@ she not out with her brother?”
 “I cannot get her to finish her lessons.”
 
 “But Mary Ann must be a _good_ girl, and finish her lessons.” This was
-blandly spoken to the child. “And I hope I shall _never_ hear such
+blandly spoken to the [[Child|child]]. “And I [[Hope|hope]] I shall _never_ hear such
 terrible cries again!”
 
 And fixing her cold, stony eyes upon me with a look that could not be
@@ -90,40 +90,40 @@ that seemed to say, “Ah! I’m too sharp for you; you shan’t trick it out
 of me, either.”
 
 On another occasion, I pretended to forget the whole affair; and talked
-and played with her as usual, till night, when I put her to bed; then
-bending over her, while she lay all smiles and good humour, just before
+and played with her as usual, till [[Night|night]], when I put her to bed; then
+bending over her, while she lay all smiles and good [[Humour|humour]], just before
 departing, I said, as cheerfully and kindly as before—“Now, Mary Ann,
-just tell me that word before I kiss you good-night. You are a good
+just tell me that word before I kiss you good-[[Night|night]]. You are a good
 girl now, and, of course, you will say it.”
 
 “No, I won’t.”
 
 “Then I can’t kiss you.”
 
-“Well, I don’t care.”
+“[[Well]], I don’t care.”
 
 In vain I expressed my sorrow; in vain I lingered for some symptom of
-contrition; she really “didn’t care,” and I left her alone, and in
+contrition; she really “didn’t care,” and I left her [[Alone|alone]], and in
 darkness, wondering most of all at this last proof of insensate
-stubbornness. In _my_ childhood I could not imagine a more afflictive
-punishment than for my mother to refuse to kiss me at night: the very
+stubbornness. In _my_ [[Childhood|childhood]] I could not imagine a more afflictive
+punishment than for my mother to refuse to kiss me at [[Night|night]]: the very
 idea was terrible. More than the idea I never felt, for, happily, I
 never committed a fault that was deemed worthy of such penalty; but
 once I remember, for some transgression of my sister’s, our mother
 thought proper to inflict it upon her: what _she_ felt, I cannot tell;
-but my sympathetic tears and suffering for her sake I shall not soon
+but my sympathetic [[Tears|tears]] and [[Suffering|suffering]] for her sake I shall not soon
 forget.
 
 Another troublesome trait in Mary Ann was her incorrigible propensity
 to keep running into the nursery, to play with her little sisters and
-the nurse. This was natural enough, but, as it was against her mother’s
-express desire, I, of course, forbade her to do so, and did my utmost
+the [[Nurse|nurse]]. This was natural enough, but, as it was against her mother’s
+express [[Desire|desire]], I, of course, forbade her to do so, and did my utmost
 to keep her with me; but that only increased her relish for the
 nursery, and the more I strove to keep her out of it, the oftener she
 went, and the longer she stayed, to the great dissatisfaction of Mrs.
-Bloomfield, who, I well knew, would impute all the blame of the matter
+Bloomfield, who, I [[Well|well]] knew, would impute all the blame of the matter
 to me. Another of my trials was the dressing in the morning: at one
-time she would not be washed; at another she would not be dressed,
+[[Time|time]] she would not be washed; at another she would not be dressed,
 unless she might wear some particular frock, that I knew her mother
 would not like her to have; at another she would scream and run away if
 I attempted to touch her hair. So that, frequently, when, after much
@@ -133,6 +133,6 @@ observations from “papa,” spoken at me, if not to me, were sure to be
 my meed: for few things irritated the latter so much as want of
 punctuality at meal times. Then, among the minor annoyances, was my
 inability to satisfy Mrs. Bloomfield with her daughter’s dress; and the
-child’s hair “was never fit to be seen.” Sometimes, as a powerful
+[[Child|child]]’s hair “was never fit to be seen.” Sometimes, as a powerful
 reproach to me, she would perform the office of tire woman herself, and
 then complain bitterly of the trouble it gave her.

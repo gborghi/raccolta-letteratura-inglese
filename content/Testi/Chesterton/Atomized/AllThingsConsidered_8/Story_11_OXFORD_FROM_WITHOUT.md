@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — OXFORD FROM WITHOUT"
+title: "[[AllThingsConsidered-8]] — [[Oxford|OXFORD]] FROM WITHOUT"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-OXFORD FROM WITHOUT
+[[Oxford|OXFORD]] FROM WITHOUT
 
 
-Some time ago I ventured to defend that race of hunted and
+Some [[Time|time]] ago I ventured to defend that race of hunted and
 persecuted outlaws, the Bishops; but until this week I had no
 idea of how much persecuted they were.  For instance, the Bishop
-of Birmingham made some extremely sensible remarks in the House
-of Lords, to the effect that Oxford and Cambridge were (as everybody
+of Birmingham made some extremely sensible remarks in the [[house|House]]
+of Lords, to the effect that [[Oxford]] and Cambridge were (as everybody
 knows they are) far too much merely plutocratic playgrounds.
 One would have thought that an Anglican Bishop might be allowed to know
 something about the English University system, and even to have,
@@ -51,7 +51,7 @@ All that is quite simple and jolly.  But then this critic, who crushes
 Dr. Gore from the high throne of the _Outlook_, goes on in a way
 that is really perplexing.  "It is distinctly advantageous," he says,
 "that rich and poor--_i. e._, young men with a smooth path in life
-before them, and those who have to hew out a road for themselves--
+before them, and those who have to hew out a [[Road|road]] for themselves--
 should be brought into association.  Each class learns a great deal
 from the other.  On the one side, social conceit and exclusiveness
 give way to the free spirit of competition amongst all classes;
@@ -61,13 +61,13 @@ with this extraordinary sentence:  "We get the net result in such
 careers as those of Lord Milner, Lord Curzon, and Mr. Asquith."
 
 Those three names lay my intellect prostrate.  The rest of the argument
-I understand quite well.  The social exclusiveness of aristocrats at
-Oxford and Cambridge gives way before the free spirit of competition
-amongst all classes.  That is to say, there is at Oxford so hot
-and keen a struggle, consisting of coal-heavers, London clerks,
+I understand quite [[Well|well]].  The social exclusiveness of aristocrats at
+[[Oxford]] and Cambridge gives way before the free spirit of competition
+amongst all classes.  That is to say, there is at [[Oxford]] so hot
+and keen a struggle, consisting of coal-heavers, [[London]] clerks,
 gypsies, navvies, drapers' assistants, grocers' assistants--in short,
 all the classes that make up the bulk of England--there is such a fierce
-competition at Oxford among all these people that in its presence
+competition at [[Oxford]] among all these people that in its presence
 aristocratic exclusiveness gives way.  That is all quite clear.
 I am not quite sure about the facts, but I quite understand
 the argument.  But then, having been called upon to contemplate
@@ -77,26 +77,26 @@ Lord Milner, Lord Curzon, and the present Chancellor of the Exchequer.
 What part do these gentlemen play in the mental process?
 Is Lord Curzon one of the rugged and ragged poor men whose
 angularities have been rubbed away?  Or is he one of those whom
-Oxford immediately deprived of all kind of social exclusiveness?
-His Oxford reputation does not seem to bear out either account of him.
-To regard Lord Milner as a typical product of Oxford would surely
+[[Oxford]] immediately deprived of all kind of social exclusiveness?
+His [[Oxford]] reputation does not seem to bear out either account of him.
+To regard Lord Milner as a typical product of [[Oxford]] would surely
 be unfair.  It would be to deprive the educational tradition of
-Germany of one of its most typical products.  English aristocrats
+[[Germany]] of one of its most typical products.  English aristocrats
 have their faults, but they are not at all like Lord Milner.
 What Mr. Asquith was meant to prove, whether he was a rich man
 who lost his exclusiveness, or a poor man who lost his angles,
 I am utterly unable to conceive.
 
-There is, however, one mild but very evident truth that might perhaps
+There is, however, one mild but very evident [[Truth|truth]] that might perhaps
 be mentioned.  And it is this:  that none of those three excellent
 persons is, or ever has been, a poor man in the sense that that word
 is understood by the overwhelming majority of the English nation.
-There are no poor men at Oxford in the sense that the majority of men
+There are no poor men at [[Oxford]] in the sense that the majority of men
 in the street are poor.  The very fact that the writer in the _Outlook_
 can talk about such people as poor shows that he does not understand
 what the modern problem is.  His kind of poor man rather reminds
 me of the Earl in the ballad by that great English satirist,
-Sir W.S. Gilbert, whose angles (very acute angles) had, I fear,
+Sir W.S. Gilbert, whose angles (very acute angles) had, I [[Fear|fear]],
 never been rubbed down by an old English University.  The reader
 will remember that when the Periwinkle-girl was adored by two Dukes,
 the poet added--
@@ -114,8 +114,8 @@ may be found in the verse a little farther on, which says--
 
 
   "He'd had, it happily befell,
-    A decent education;
-  His views would have befitted well
+    A decent [[Education|education]];
+  His views would have befitted [[Well|well]]
     A far superior station."
 
 
@@ -124,7 +124,7 @@ But I am afraid that the chasm will become almost imperceptible,
 a microscopic crack, if we compare it with the chasm that separates
 either or both of them from the people of this country.
 
-Of course the truth is exactly as the Bishop of Birmingham put it.
+Of course the [[Truth|truth]] is exactly as the Bishop of Birmingham put it.
 I am sure that he did not put it in any unkindly or contemptuous
 spirit towards those old English seats of learning, which whether
 they are or are not seats of learning, are, at any rate,
@@ -138,28 +138,28 @@ Granted that we are to be governed by a rich section of the community,
 it is certainly very important that that section should be kept
 tolerably genial and jolly.  If the sensitive man on the _Outlook_ does
 not like the phrase, "Playground of the rich," I can suggest a phrase
-that describes such a place as Oxford perhaps with more precision.
+that describes such a place as [[Oxford]] perhaps with more precision.
 It is a place for humanising those who might otherwise be tyrants,
 or even experts.
 
-To pretend that the aristocrat meets all classes at Oxford is too
+To pretend that the [[aristocrat]] meets all classes at [[Oxford]] is too
 ludicrous to be worth discussion.  But it may be true that he meets
 more different kinds of men than he would meet under a strictly
 aristocratic _regime_ of private tutors and small schools.
 It all comes back to the fact that the English, if they were
 resolved to have an aristocracy, were at least resolved to have a
-good-natured aristocracy.  And it is due to them to say that almost alone
+good-natured aristocracy.  And it is due to them to say that almost [[Alone|alone]]
 among the peoples of the world, they have succeeded in getting one.
 One could almost tolerate the thing, if it were not for the praise of it.
-One might endure Oxford, but not the _Outlook_.
+One might endure [[Oxford]], but not the _Outlook_.
 
-When the poor man at Oxford loses his angles (which means,
-I suppose, his independence), he may perhaps, even if his poverty
-is of that highly relative type possible at Oxford, gain a certain
+When the poor man at [[Oxford]] loses his angles (which means,
+I suppose, his independence), he may perhaps, even if his [[Poverty|poverty]]
+is of that highly relative type possible at [[Oxford]], gain a certain
 amount of worldly advantage from the surrender of those angles.
 I must confess, however, that I can imagine nothing nastier than
-to lose one's angles.  It seems to me that a desire to retain some
-angles about one's person is a desire common to all those human
+to lose one's angles.  It seems to me that a [[Desire|desire]] to retain some
+angles about one's person is a [[Desire|desire]] common to all those human
 beings who do not set their ultimate hopes upon looking like
 Humpty-Dumpty. Our angles are simply our shapes.  I cannot imagine
 any phrase more full of the subtle and exquisite vileness which is
@@ -176,7 +176,7 @@ A good son does not easily admit that his sick mother is dying;
 but neither does a good son cheerily assert that she is "all right."
 There are many good arguments for leaving the two historic Universities
 exactly as they are.  There are many good arguments for smashing
-them or altering them entirely.  But in either case the plain truth
+them or altering them entirely.  But in either case the plain [[Truth|truth]]
 told by the Bishop of Birmingham remains.  If these Universities
 were destroyed, they would not be destroyed as Universities.
 If they are preserved, they will not be preserved as Universities.
@@ -187,9 +187,9 @@ as a matter of private temperament I find it attractive.
 It is not only possible to say a great deal in praise of play;
 it is really possible to say the highest things in praise of it.
 It might reasonably be maintained that the true object of all human
-life is play.  Earth is a task garden; heaven is a playground.  To be
-at last in such secure innocence that one can juggle with the universe
-and the stars, to be so good that one can treat everything as a joke--
+life is play.  Earth is a task [[Garden|garden]]; heaven is a playground.  To be
+at last in such secure [[innocence]] that one can juggle with the universe
+and the [[Stars|stars]], to be so good that one can treat everything as a joke--
 that may be, perhaps, the real end and final holiday of human souls.
 When we are really holy we may regard the Universe as a lark; so perhaps
 it is not essentially wrong to regard the University as a lark.
@@ -202,12 +202,12 @@ in the higher frivolity.
 
 Humanity, always dreaming of a happy race, free, fantastic, and at ease,
 has sometimes pictured them in some mystical island, sometimes in some
-celestial city, sometimes as fairies, gods, or citizens of Atlantis.
+celestial [[City|city]], sometimes as fairies, gods, or citizens of Atlantis.
 But one method in which it has often indulged is to picture them
 as aristocrats, as a special human class that could actually be
 seen hunting in the woods or driving about the streets.  And this
-never was (as some silly Germans say) a worship of pride and scorn;
-mankind never really admired pride; mankind never had any thing but
+never was (as some silly Germans say) a worship of [[Pride|pride]] and scorn;
+mankind never really admired [[Pride|pride]]; mankind never had any thing but
 a scorn for scorn.  It was a worship of the spectacle of happiness;
 especially of the spectacle of youth.  This is what the old
 Universities in their noblest aspect really are; and this is why
@@ -215,20 +215,20 @@ there is always something to be said for keeping them as they are.
 Aristocracy is not a tyranny; it is not even merely a spell.
 It is a vision.  It is a deliberate indulgence in a certain
 picture of pleasure painted for the purpose; every Duchess is
-(in an innocent sense) painted, like Gainsborough's "Duchess
+(in an [[Innocent|innocent]] sense) painted, like Gainsborough's "Duchess
 of Devonshire."  She is only beautiful because, at the back of all,
 the English people wanted her to be beautiful.  In the same way,
-the lads at Oxford and Cambridge are only larking because England,
-in the depths of its solemn soul, really wishes them to lark.
+the lads at [[Oxford]] and Cambridge are only larking because England,
+in the depths of its solemn [[Soul|soul]], really wishes them to lark.
 All this is very human and pardonable, and would be even harmless
-if there were no such things in the world as danger and honour
+if there were no such things in the world as danger and [[Honour|honour]]
 and intellectual responsibility.  But if aristocracy is a vision,
 it is perhaps the most unpractical of all visions.  It is not a working
 way of doing things to put all your happiest people on a lighted
 platform and stare only at them.  It is not a working way of managing
-education to be entirely content with the mere fact that you have
+[[Education|education]] to be entirely content with the mere fact that you have
 (to a degree unexampled in the world) given the luckiest boys
-the jolliest time.  It would be easy enough, like the writer
+the jolliest [[Time|time]].  It would be easy enough, like the writer
 in the _Outlook_, to enjoy the pleasures and deny the perils.
 Oh what a happy place England would be to live in if only one did
-not love it!
+not [[Love|love]] it!

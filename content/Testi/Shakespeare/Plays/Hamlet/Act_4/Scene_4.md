@@ -1,5 +1,5 @@
 ---
-title: "Hamlet — Act IV, Scene 4"
+title: "[[Hamlet]] — Act IV, Scene 4"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/HAMLET-(Shakespeare)"
@@ -17,7 +17,7 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Enter Fortinbras with an army over the stage |
-| FORTINBRAS | Go, captain, from me greet the Danish king.<br>Tell him that by his licence Fortinbras<br>Claims the conveyance of a promised march<br>Over his kingdom. You know the rendezvous.<br>If that his majesty would aught with us,<br>We shall express our duty in his eye,<br>And let him know so. |
+| FORTINBRAS | Go, captain, from me greet the Danish [[King|king]].<br>Tell him that by his licence Fortinbras<br>Claims the conveyance of a promised march<br>Over his kingdom. You know the rendezvous.<br>If that his majesty would aught with us,<br>We shall express our duty in his eye,<br>And let him know so. |
 | CAPTAIN | I will do’t, my lord. |
 | *(didascalia)* | Exit |
 | FORTINBRAS | Go safely on. |

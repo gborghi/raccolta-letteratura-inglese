@@ -1,5 +1,5 @@
 ---
-title: "Sir Thomas More — Scene 1 — monologue (LINCOLN) [3]"
+title: "[[Sir Thomas More]] — Scene 1 — monologue ([[Lincoln|LINCOLN]]) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/SIR-THOMAS-MORE-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| LINCOLN | (reads) ‘To you all the worshipful lords and masters of this city, that will take compassion over the poor people your neighbours, and also of the great importable hurts, losses, and hindrances whereof proceedeth extreme poverty to all the King’s subjects that inhabit within this city and suburbs of the same. For so it is that aliens and strangers eat the bread from the fatherless children, and take the living from all the artificers, and the intercourse from all merchants, whereby poverty is so much increased that every man bewaileth the misery of other; for craftsmen be brought to beggary, and merchants to neediness. Wherefore, the premises considered, the redress must be of the commons, knit and united to one part. And as the hurt and damage grieveth all men, so must all men set to their willing power for remedy, and not suffer the said aliens in their wealth, and the natural-born men of this region to come to confusion.’ |
+| [[Lincoln|LINCOLN]] | (reads) ‘To you all the worshipful lords and masters of this [[City|city]], that will take compassion over the poor people your neighbours, and also of the great importable hurts, losses, and hindrances whereof proceedeth extreme [[Poverty|poverty]] to all the [[King]]’s subjects that inhabit within this [[City|city]] and suburbs of the same. For so it is that aliens and strangers eat the bread from the fatherless children, and take the living from all the artificers, and the intercourse from all merchants, whereby [[Poverty|poverty]] is so much increased that every man bewaileth the misery of other; for craftsmen be brought to beggary, and merchants to neediness. Wherefore, the premises considered, the redress must be of the commons, knit and united to one part. And as the hurt and damage grieveth all men, so must all men set to their willing power for remedy, and not suffer the said aliens in their wealth, and the natural-born men of this region to come to confusion.’ |

@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — ON RUNNING AFTER ONE'S HAT"
+title: "[[AllThingsConsidered-8]] — ON RUNNING AFTER ONE'S HAT"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -17,27 +17,27 @@ tags:
 ON RUNNING AFTER ONE'S HAT
 
 
-I feel an almost savage envy on hearing that London has been flooded
+I feel an almost savage envy on hearing that [[London]] has been flooded
 in my absence, while I am in the mere country.  My own Battersea has been,
 I understand, particularly favoured as a meeting of the waters.
 Battersea was already, as I need hardly say, the most beautiful
 of human localities.  Now that it has the additional splendour
-of great sheets of water, there must be something quite incomparable
+of great sheets of [[Water|water]], there must be something quite incomparable
 in the landscape (or waterscape) of my own romantic town.
-Battersea must be a vision of Venice.  The boat that brought
+Battersea must be a vision of [[Venice]].  The boat that brought
 the meat from the butcher's must have shot along those lanes
 of rippling silver with the strange smoothness of the gondola.
-The greengrocer who brought cabbages to the corner of the Latchmere Road
+The greengrocer who brought cabbages to the corner of the Latchmere [[Road]]
 must have leant upon the oar with the unearthly grace of the gondolier.
 There is nothing so perfectly poetical as an island; and when a
 district is flooded it becomes an archipelago.
 
-Some consider such romantic views of flood or fire slightly lacking
+Some consider such romantic views of flood or [[Fire|fire]] slightly lacking
 in reality.  But really this romantic view of such inconveniences
 is quite as practical as the other.  The true optimist who sees
 in such things an opportunity for enjoyment is quite as logical
 and much more sensible than the ordinary "Indignant Ratepayer"
-who sees in them an opportunity for grumbling.  Real pain,
+who sees in them an opportunity for grumbling.  Real [[Pain|pain]],
 as in the case of being burnt at Smithfield or having a toothache,
 is a positive thing; it can be supported, but scarcely enjoyed.
 But, after all, our toothaches are the exception, and as for being burnt
@@ -48,25 +48,25 @@ For instance, we often hear grown-up people complaining of having
 to hang about a railway station and wait for a train.  Did you ever
 hear a small boy complain of having to hang about a railway station
 and wait for a train?  No; for to him to be inside a railway station
-is to be inside a cavern of wonder and a palace of poetical pleasures.
+is to be inside a cavern of [[Wonder|wonder]] and a palace of poetical pleasures.
 Because to him the red light and the green light on the signal
-are like a new sun and a new moon.  Because to him when the wooden
-arm of the signal falls down suddenly, it is as if a great king had
+are like a new sun and a new [[Moon|moon]].  Because to him when the wooden
+arm of the signal falls down suddenly, it is as if a great [[King|king]] had
 thrown down his staff as a signal and started a shrieking tournament
 of trains.  I myself am of little boys' habit in this matter.
 They also serve who only stand and wait for the two fifteen.
 Their meditations may be full of rich and fruitful things.
 Many of the most purple hours of my life have been passed
-at Clapham Junction, which is now, I suppose, under water.
-I have been there in many moods so fixed and mystical that the water
-might well have come up to my waist before I noticed it particularly.
+at Clapham Junction, which is now, I suppose, under [[Water|water]].
+I have been there in many moods so fixed and mystical that the [[Water|water]]
+might [[Well|well]] have come up to my waist before I noticed it particularly.
 But in the case of all such annoyances, as I have said,
 everything depends upon the emotional point of view.
 You can safely apply the test to almost every one of the things
 that are currently talked of as the typical nuisance of daily life.
 
 For instance, there is a current impression that it is unpleasant to have
-to run after one's hat.  Why should it be unpleasant to the well-ordered
+to run after one's hat.  Why should it be unpleasant to the [[Well|well]]-ordered
 and pious mind?  Not merely because it is running, and running
 exhausts one.  The same people run much faster in games and sports.
 The same people run much more eagerly after an uninteresting
@@ -76,7 +76,7 @@ and when people say it is humiliating they mean that it is comic.
 It certainly is comic; but man is a very comic creature,
 and most of the things he does are comic--eating, for instance.
 And the most comic things of all are exactly the things that are
-most worth doing--such as making love.  A man running after a hat
+most worth doing--such as making [[Love|love]].  A man running after a hat
 is not half so ridiculous as a man running after a wife.
 
 Now a man could, if he felt rightly in the matter, run after
@@ -89,8 +89,8 @@ of ladies and gentlemen on some high ground on a gusty morning.
 They will be told that the professional attendants have started a hat
 in such-and-such a thicket, or whatever be the technical term.
 Notice that this employment will in the fullest degree combine
-sport with humanitarianism.  The hunters would feel that they
-were not inflicting pain.  Nay, they would feel that they were
+sport with [[Humanitarianism|humanitarianism]].  The hunters would feel that they
+were not inflicting [[Pain|pain]].  Nay, they would feel that they were
 inflicting pleasure, rich, almost riotous pleasure, upon the people
 who were looking on.  When last I saw an old gentleman running
 after his hat in Hyde Park, I told him that a heart so benevolent
@@ -102,7 +102,7 @@ The same principle can be applied to every other typical domestic worry.
 A gentleman trying to get a fly out of the milk or a piece of cork
 out of his glass of wine often imagines himself to be irritated.
 Let him think for a moment of the patience of anglers sitting
-by dark pools, and let his soul be immediately irradiated
+by dark pools, and let his [[Soul|soul]] be immediately irradiated
 with gratification and repose.  Again, I have known some people
 of very modern views driven by their distress to the use of
 theological terms to which they attached no doctrinal significance,
@@ -119,21 +119,21 @@ Imagine that you are tugging up a lifeboat out of the sea.  Imagine that
 you are roping up a fellow-creature out of an Alpine crevass.
 Imagine even that you are a boy again and engaged in a tug-of-war
 between French and English."  Shortly after saying this I left him;
-but I have no doubt at all that my words bore the best possible fruit.
-I have no doubt that every day of his life he hangs on to the handle
+but I have no [[Doubt|doubt]] at all that my words bore the best possible fruit.
+I have no [[Doubt|doubt]] that every day of his life he hangs on to the handle
 of that drawer with a flushed face and eyes bright with battle,
 uttering encouraging shouts to himself, and seeming to hear all round
 him the roar of an applauding ring.
 
 So I do not think that it is altogether fanciful or incredible to suppose
-that even the floods in London may be accepted and enjoyed poetically.
+that even the floods in [[London]] may be accepted and enjoyed poetically.
 Nothing beyond inconvenience seems really to have been caused by them;
 and inconvenience, as I have said, is only one aspect, and that the most
 unimaginative and accidental aspect of a really romantic situation.
 An adventure is only an inconvenience rightly considered.
 An inconvenience is only an adventure wrongly considered.
-The water that girdled the houses and shops of London must,
-if anything, have only increased their previous witchery and wonder.
+The [[Water|water]] that girdled the houses and shops of [[London]] must,
+if anything, have only increased their previous witchery and [[Wonder|wonder]].
 For as the Roman Catholic priest in the story said:  "Wine is
-good with everything except water," and on a similar principle,
-water is good with everything except wine.
+good with everything except [[Water|water]]," and on a similar principle,
+[[Water|water]] is good with everything except wine.

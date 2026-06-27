@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 29)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 29)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -16,23 +16,23 @@ tags:
 
 There are times, however, when his company is not so agreeable, though
 equally unexpected; such as when the lady has invited one or two
-particular friends to tea and scandal, and he happens to come home in
+particular friends to tea and scandal, and he happens to come [[Home|home]] in
 the very midst of their diversion. It is a hundred chances to one that
-he remains in the house half an hour, but the lady is rather disturbed
+he remains in the [[house]] half an hour, but the lady is rather disturbed
 by the intrusion, notwithstanding, and reasons within herself,—‘I am
 sure I never interfere with him, and why should he interfere with me?
 It can scarcely be accidental; it never happens that I have a
-particular reason for not wishing him to come home, but he always
-comes. It’s very provoking and tiresome; and I am sure when he leaves
-me so much alone for his own pleasure, the least he could do would be
+particular reason for not wishing him to come [[Home|home]], but he always
+comes. It’s very provoking and tiresome; and I am sure when he [[Leaves|leaves]]
+me so much [[Alone|alone]] for his own pleasure, the least he could do would be
 to do as much for mine.’ Observing what passes in her mind, the
-gentleman, who has come home for his own accommodation, makes a merit
+gentleman, who has come [[Home|home]] for his own accommodation, makes a merit
 of it with himself; arrives at the conclusion that it is the very last
-place in which he can hope to be comfortable; and determines, as he
+place in which he can [[Hope|hope]] to be comfortable; and determines, as he
 takes up his hat and cane, never to be so virtuous again.
 
 Thus a great many cool couples go on until they are cold couples, and
-the grave has closed over their folly and indifference. Loss of name,
+the [[Grave|grave]] has closed over their folly and indifference. Loss of name,
 station, character, life itself, has ensued from causes as slight as
 these, before now; and when gossips tell such tales, and aggravate
 their deformities, they elevate their hands and eyebrows, and call each
@@ -47,7 +47,7 @@ THE PLAUSIBLE COUPLE
 
 The plausible couple have many titles. They are ‘a delightful couple,’
 an ‘affectionate couple,’ ‘a most agreeable couple, ‘a good-hearted
-couple,’ and ‘the best-natured couple in existence.’ The truth is, that
+couple,’ and ‘the best-natured couple in existence.’ The [[Truth|truth]] is, that
 the plausible couple are people of the world; and either the way of
 pleasing the world has grown much easier than it was in the days of the
 old man and his ass, or the old man was but a bad hand at it, and knew
@@ -59,14 +59,14 @@ The ways are crooked, and sometimes foul and low. What then? A man need
 but crawl upon his hands and knees, know when to close his eyes and
 when his ears, when to stoop and when to stand upright; and if by the
 world is meant that atom of it in which he moves himself, he shall
-please it, never fear.
+please it, never [[Fear|fear]].
 
 Now, it will be readily seen, that if a plausible man or woman have an
-easy means of pleasing the world by an adaptation of self to all its
+easy means of pleasing the world by an adaptation of [[Self|self]] to all its
 twistings and twinings, a plausible man _and_ woman, or, in other
 words, a plausible couple, playing into each other’s hands, and acting
 in concert, have a manifest advantage. Hence it is that plausible
-couples scarcely ever fail of success on a pretty large scale; and
+couples scarcely ever fail of [[success]] on a pretty large scale; and
 hence it is that if the reader, laying down this unwieldy volume at the
 next full stop, will have the goodness to review his or her circle of
 acquaintance, and to search particularly for some man and wife with a
@@ -93,7 +93,7 @@ The plausible couple are no less plausible to each other than to third
 parties. They are always loving and harmonious. The plausible gentleman
 calls his wife ‘darling,’ and the plausible lady addresses him as
 ‘dearest.’ If it be Mr. and Mrs. Bobtail Widger, Mrs. Widger is
-‘Lavinia, darling,’ and Mr. Widger is ‘Bobtail, dearest.’ Speaking of
+‘[[Lavinia]], darling,’ and Mr. Widger is ‘Bobtail, dearest.’ Speaking of
 each other, they observe the same tender form. Mrs. Widger relates what
 ‘Bobtail’ said, and Mr. Widger recounts what ‘darling’ thought and did.
 
@@ -114,18 +114,18 @@ couple.’ Mrs. Widger remarking that Bobtail always grows quite eloquent
 upon this subject, Mr. Widger admits that he feels very strongly
 whenever such people as the Clickits and some other friends of his
 (here he glances at the host and hostess) are mentioned; for they are
-an honour to human nature, and do one good to think of. ‘_You_ know the
-Clickits, Mrs. Jackson?’ he says, addressing the lady of the house.
+an [[Honour|honour]] to human [[Nature|nature]], and do one good to think of. ‘_You_ know the
+Clickits, Mrs. Jackson?’ he says, addressing the lady of the [[house]].
 ‘No, indeed; we have not that pleasure,’ she replies. ‘You astonish
 me!’ exclaims Mr. Widger: ‘not know the Clickits! why, you are the very
 people of all others who ought to be their bosom friends. You are
 kindred beings; you are one and the same thing:—not know the Clickits!
 Now _will_ you know the Clickits? Will you make a point of knowing
-them? Will you meet them in a friendly way at our house one evening,
+them? Will you meet them in a friendly way at our [[house]] one evening,
 and be acquainted with them?’ Mrs. Jackson will be quite delighted;
-nothing would give her more pleasure. ‘Then, Lavinia, my darling,’ says
+nothing would give her more pleasure. ‘Then, [[Lavinia]], my darling,’ says
 Mr. Widger, ‘mind you don’t lose sight of that; now, pray take care
-that Mr. and Mrs. Jackson know the Clickits without loss of time. Such
+that Mr. and Mrs. Jackson know the Clickits without loss of [[Time|time]]. Such
 people ought not to be strangers to each other.’ Mrs. Widger books both
 families as the centre of attraction for her next party; and Mr.
 Widger, going on to expatiate upon the virtues of the Clickits, adds to

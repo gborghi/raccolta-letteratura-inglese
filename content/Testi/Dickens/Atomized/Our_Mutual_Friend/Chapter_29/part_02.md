@@ -22,7 +22,7 @@ upon it: ‘all this because of one simple natural question!’
 of myself. I don’t like your coming over me with your Georgianas, as if
 you was her proprietor and mine too.’
 
-‘Well, when you are in the gracious mind to say anything about it of
+‘[[Well]], when you are in the gracious mind to say anything about it of
 yourself,’ retorted Lammle, ‘pray do.’
 
 ‘I have done it. I have said you managed capitally. You and your wife
@@ -60,12 +60,12 @@ Whether this young gentleman (for he was but three-and-twenty) combined
 with the miserly vice of an old man, any of the open-handed vices of
 a young one, was a moot point; so very honourably did he keep his own
 counsel. He was sensible of the value of appearances as an investment,
-and liked to dress well; but he drove a bargain for every moveable about
+and liked to dress [[Well|well]]; but he drove a bargain for every moveable about
 him, from the coat on his back to the china on his breakfast-table;
 and every bargain by representing somebody’s ruin or somebody’s loss,
 acquired a peculiar charm for him. It was a part of his avarice to take,
 within narrow bounds, long odds at races; if he won, he drove harder
-bargains; if he lost, he half starved himself until next time. Why money
+bargains; if he lost, he half starved himself until next [[Time|time]]. Why money
 should be so precious to an Ass too dull and mean to exchange it for any
 other satisfaction, is strange; but there is no animal so sure to get
 laden with it, as the Ass who sees nothing written on the face of the
@@ -109,7 +109,7 @@ thought it must end in ina.’
 ‘Why, you play—if you can—the Concertina, you know,’ replied
 Fledgeby, meditating very slowly. ‘And you have—when you catch it—the
 Scarlatina. And you can come down from a balloon in a parach—no you
-can’t though. Well, say Georgeute—I mean Georgiana.’
+can’t though. [[Well]], say Georgeute—I mean Georgiana.’
 
 ‘You were going to remark of Georgiana—?’ Lammle moodily hinted, after
 waiting in vain.
@@ -126,12 +126,12 @@ this:—what I say, not what you say. I say having my late governor
 and my late mother in my eye—that Georgiana don’t seem to be of the
 pitching-in order.’
 
-The respected Mr Lammle was a bully, by nature and by usual practice.
+The respected Mr Lammle was a bully, by [[Nature|nature]] and by usual practice.
 Perceiving, as Fledgeby’s affronts cumulated, that conciliation by no
 means answered the purpose here, he now directed a scowling look
 into Fledgeby’s small eyes for the effect of the opposite treatment.
 Satisfied by what he saw there, he burst into a violent passion and
-struck his hand upon the table, making the china ring and dance.
+struck his hand upon the table, making the china ring and [[Dance|dance]].
 
 ‘You are a very offensive fellow, sir,’ cried Mr Lammle, rising. ‘You
 are a highly offensive scoundrel. What do you mean by this behaviour?’

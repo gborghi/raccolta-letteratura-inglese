@@ -18,7 +18,7 @@ tags:
 good fortune; when you are a thriving, respected, happy man; when the
 start in life you have made today shall have brought you, as I pray
 Heaven it may!—to a smooth part of the course you have to run, my
-child. My love to you!”
+[[Child|child]]. My [[Love|love]] to you!”
 
 Some of the fog that hung about old Sol seemed to have got into his
 throat; for he spoke huskily. His hand shook too, as he clinked his
@@ -26,8 +26,8 @@ glass against his nephew’s. But having once got the wine to his lips,
 he tossed it off like a man, and smacked them afterwards.
 
 “Dear Uncle,” said the boy, affecting to make light of it, while the
-tears stood in his eyes, “for the honour you have done me, et cetera,
-et cetera. I shall now beg to propose Mr Solomon Gills with three times
+[[Tears|tears]] stood in his eyes, “for the [[Honour|honour]] you have done me, et cetera,
+et cetera. I shall now beg to propose Mr [[Solomon Gills]] with three times
 three and one cheer more. Hurrah! and you’ll return thanks, Uncle, when
 we drink the last bottle together; won’t you?”
 
@@ -35,11 +35,11 @@ They clinked their glasses again; and Walter, who was hoarding his
 wine, took a sip of it, and held the glass up to his eye with as
 critical an air as he could possibly assume.
 
-His Uncle sat looking at him for some time in silence. When their eyes
+His Uncle sat looking at him for some [[Time|time]] in [[Silence|silence]]. When their eyes
 at last met, he began at once to pursue the theme that had occupied his
-thoughts, aloud, as if he had been speaking all the time.
+thoughts, aloud, as if he had been speaking all the [[Time|time]].
 
-“You see, Walter,” he said, “in truth this business is merely a habit
+“You see, Walter,” he said, “in [[Truth|truth]] this business is merely a habit
 with me. I am so accustomed to the habit that I could hardly live if I
 relinquished it: but there’s nothing doing, nothing doing. When that
 uniform was worn,” pointing out towards the little Midshipman, “then
@@ -50,7 +50,7 @@ my customers are.”
 
 “Never mind ’em, Uncle!”
 
-“Since you came home from weekly boarding-school at Peckham, for
+“Since you came [[Home|home]] from weekly boarding-school at Peckham, for
 instance—and that’s ten days,” said Solomon, “I don’t remember more
 than one person that has come into the shop.”
 
@@ -76,7 +76,7 @@ same tone.
 “But there were two of ’em, Uncle,” cried the boy, as if that were a
 great triumph. “You said only one.”
 
-“Well, Wally,” resumed the old man, after a short pause: “not being
+“[[Well]], Wally,” resumed the old man, after a short pause: “not being
 like the Savages who came on Robinson Crusoe’s Island, we can’t live on
 a man who asks for change for a sovereign, and a woman who inquires the
 way to Mile-End Turnpike. As I said just now, the world has gone past
@@ -85,20 +85,20 @@ the same as they used to be, apprentices are not the same, business is
 not the same, business commodities are not the same. Seven-eighths of
 my stock is old-fashioned. I am an old-fashioned man in an
 old-fashioned shop, in a street that is not the same as I remember it.
-I have fallen behind the time, and am too old to catch it again. Even
+I have fallen behind the [[Time|time]], and am too old to catch it again. Even
 the noise it makes a long way ahead, confuses me.”
 
 Walter was going to speak, but his Uncle held up his hand.
 
 “Therefore, Wally—therefore it is that I am anxious you should be early
-in the busy world, and on the world’s track. I am only the ghost of
+in the busy world, and on the world’s track. I am only the [[Ghost|ghost]] of
 this business—its substance vanished long ago; and when I die, its
-ghost will be laid. As it is clearly no inheritance for you then, I
+[[Ghost|ghost]] will be laid. As it is clearly no inheritance for you then, I
 have thought it best to use for your advantage, almost the only
-fragment of the old connexion that stands by me, through long habit.
+[[Fragment|fragment]] of the old connexion that stands by me, through long habit.
 Some people suppose me to be wealthy. I wish for your sake they were
 right. But whatever I leave behind me, or whatever I can give you, you
-in such a House as Dombey’s are in the road to use well and make the
+in such a [[house|House]] as Dombey’s are in the [[Road|road]] to use [[Well|well]] and make the
 most of. Be diligent, try to like it, my dear boy, work for a steady
 independence, and be happy!”
 
@@ -107,34 +107,34 @@ will,” said the boy, earnestly.
 
 “I know it,” said Solomon. “I am sure of it,” and he applied himself to
 a second glass of the old Madeira, with increased relish. “As to the
-Sea,” he pursued, “that’s well enough in fiction, Wally, but it won’t
+Sea,” he pursued, “that’s [[Well|well]] enough in fiction, Wally, but it won’t
 do in fact: it won’t do at all. It’s natural enough that you should
 think about it, associating it with all these familiar things; but it
 won’t do, it won’t do.”
 
-Solomon Gills rubbed his hands with an air of stealthy enjoyment, as he
+[[Solomon Gills]] rubbed his hands with an air of stealthy enjoyment, as he
 talked of the sea, though; and looked on the seafaring objects about
 him with inexpressible complacency.
 
 “Think of this wine for instance,” said old Sol, “which has been to the
 East Indies and back, I’m not able to say how often, and has been once
 round the world. Think of the pitch-dark nights, the roaring winds, and
-rolling seas:”
+[[rolling]] seas:”
 
-“The thunder, lightning, rain, hail, storm of all kinds,” said the boy.
+“The thunder, [[Lightning|lightning]], rain, hail, [[Storm|storm]] of all kinds,” said the boy.
 
 “To be sure,” said Solomon,—“that this wine has passed through. Think
 what a straining and creaking of timbers and masts: what a whistling
 and howling of the gale through ropes and rigging:”
 
 “What a clambering aloft of men, vying with each other who shall lie
-out first upon the yards to furl the icy sails, while the ship rolls
+out first upon the yards to furl the icy sails, while the [[Ship|ship]] rolls
 and pitches, like mad!” cried his nephew.
 
 “Exactly so,” said Solomon: “has gone on, over the old cask that held
 this wine. Why, when the Charming Sally went down in the—”
 
-“In the Baltic Sea, in the dead of night; five-and-twenty minutes past
+“In the Baltic Sea, in the dead of [[Night|night]]; five-and-twenty minutes past
 twelve when the captain’s watch stopped in his pocket; he lying dead
 against the main-mast—on the fourteenth of February, seventeen
 forty-nine!” cried Walter, with great animation.
@@ -144,4 +144,4 @@ hundred casks of such wine aboard; and all hands (except the first
 mate, first lieutenant, two seamen, and a lady, in a leaky boat) going
 to work to stave the casks, got drunk and died drunk, singing ‘Rule
 Britannia’, when she settled and went down, and ending with one awful
-scream in chorus.”
+scream in [[Chorus|chorus]].”

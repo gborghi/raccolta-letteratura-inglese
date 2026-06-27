@@ -17,12 +17,12 @@ tags:
 ‘I am quite as bad,’ said Lightwood, sitting up facing him, with a
 tumbled head; after going through some wonderful evolutions, in which
 his head had been the lowest part of him. ‘This restlessness began with
-me, long ago. All the time you were out, I felt like Gulliver with the
+me, long ago. All the [[Time|time]] you were out, I felt like Gulliver with the
 Lilliputians firing upon him.’
 
 ‘It won’t do, Mortimer. We must get into the air; we must join our dear
 friend and brother, Riderhood. And let us tranquillize ourselves by
-making a compact. Next time (with a view to our peace of mind) we’ll
+making a compact. Next [[Time|time]] (with a view to our peace of mind) we’ll
 commit the crime, instead of taking the criminal. You swear it?’
 
 ‘Certainly.’
@@ -35,7 +35,7 @@ if he would like a situation in the lime-trade?
 
 ‘Thankee sir, no sir,’ said Bob. ‘I’ve a good sitiwation here, sir.’
 
-‘If you change your mind at any time,’ returned Eugene, ‘come to me at
+‘If you change your mind at any [[Time|time]],’ returned Eugene, ‘come to me at
 my works, and you’ll always find an opening in the lime-kiln.’
 
 ‘Thankee sir,’ said Bob.
@@ -49,9 +49,9 @@ drawing a bow out of his head with his right hand, very much as he would
 have drawn a pint of beer out of the beer engine.
 
 ‘Eugene,’ Mortimer apostrophized him, laughing quite heartily when they
-were alone again, ‘how CAN you be so ridiculous?’
+were [[Alone|alone]] again, ‘how CAN you be so ridiculous?’
 
-‘I am in a ridiculous humour,’ quoth Eugene; ‘I am a ridiculous fellow.
+‘I am in a ridiculous [[Humour|humour]],’ quoth Eugene; ‘I am a ridiculous fellow.
 Everything is ridiculous. Come along!’
 
 It passed into Mortimer Lightwood’s mind that a change of some sort,
@@ -62,19 +62,19 @@ new and strained in him that was for the moment perplexing. This passed
 into his mind, and passed out again; but he remembered it afterwards.
 
 ‘There’s where she sits, you see,’ said Eugene, when they were standing
-under the bank, roared and riven at by the wind. ‘There’s the light of
-her fire.’
+under the bank, roared and riven at by the [[Wind|wind]]. ‘There’s the light of
+her [[Fire|fire]].’
 
-‘I’ll take a peep through the window,’ said Mortimer.
+‘I’ll take a peep through the [[Window|window]],’ said Mortimer.
 
 ‘No, don’t!’ Eugene caught him by the arm. ‘Best, not make a show of
 her. Come to our honest friend.’
 
 He led him to the post of watch, and they both dropped down and crept
 under the lee of the boat; a better shelter than it had seemed before,
-being directly contrasted with the blowing wind and the bare night.
+being directly contrasted with the blowing [[Wind|wind]] and the bare [[Night|night]].
 
-‘Mr Inspector at home?’ whispered Eugene.
+‘Mr Inspector at [[Home|home]]?’ whispered Eugene.
 
 ‘Here I am, sir.’
 
@@ -94,29 +94,29 @@ Mortimer!’
 With this indication of his depressed state of mind, Eugene fell silent.
 
 They were all silent for a long while. As it got to be flood-tide, and
-the water came nearer to them, noises on the river became more frequent,
+the [[Water|water]] came nearer to them, noises on the [[River|river]] became more frequent,
 and they listened more. To the turning of steam-paddles, to the clinking
 of iron chain, to the creaking of blocks, to the measured working
 of oars, to the occasional violent barking of some passing dog on
 shipboard, who seemed to scent them lying in their hiding-place. The
-night was not so dark but that, besides the lights at bows and mastheads
+[[Night|night]] was not so dark but that, besides the lights at bows and mastheads
 gliding to and fro, they could discern some shadowy bulk attached; and
 now and then a ghostly lighter with a large dark sail, like a warning
-arm, would start up very near them, pass on, and vanish. At this time
-of their watch, the water close to them would be often agitated by some
+arm, would start up very near them, pass on, and vanish. At this [[Time|time]]
+of their watch, the [[Water|water]] close to them would be often agitated by some
 impulsion given it from a distance. Often they believed this beat and
 plash to be the boat they lay in wait for, running in ashore; and again
 and again they would have started up, but for the immobility with which
-the informer, well used to the river, kept quiet in his place.
+the informer, [[Well|well]] used to the [[River|river]], kept quiet in his place.
 
-The wind carried away the striking of the great multitude of city
-church clocks, for those lay to leeward of them; but there were bells to
+The [[Wind|wind]] carried away the striking of the great multitude of [[City|city]]
+church clocks, for those lay to leeward of them; but there were [[Bells|bells]] to
 windward that told them of its being One—Two—Three. Without that aid
-they would have known how the night wore, by the falling of the tide,
+they would have known how the [[Night|night]] wore, by the falling of the tide,
 recorded in the appearance of an ever-widening black wet strip of shore,
-and the emergence of the paved causeway from the river, foot by foot.
+and the emergence of the paved causeway from the [[River|river]], foot by foot.
 
-As the time so passed, this slinking business became a more and more
+As the [[Time|time]] so passed, this slinking business became a more and more
 precarious one. It would seem as if the man had had some intimation of
 what was in hand against him, or had taken fright? His movements might
 have been planned to gain for him, in getting beyond their reach, twelve
@@ -124,8 +124,8 @@ hours’ advantage? The honest man who had expended the sweat of his brow
 became uneasy, and began to complain with bitterness of the proneness of
 mankind to cheat him—him invested with the dignity of Labour!
 
-Their retreat was so chosen that while they could watch the river, they
-could watch the house. No one had passed in or out, since the daughter
+Their retreat was so chosen that while they could watch the [[River|river]], they
+could watch the [[house]]. No one had passed in or out, since the daughter
 thought she heard the father calling. No one could pass in or out
 without being seen.
 
@@ -139,7 +139,7 @@ bridges, for hours back.’
 ‘What do you make of that?’ said Mr Inspector. Stoical, but
 contradictory.
 
-‘He may be doing so at this present time.’
+‘He may be doing so at this present [[Time|time]].’
 
 ‘What do you make of that?’ said Mr Inspector.
 
@@ -148,7 +148,7 @@ contradictory.
 ‘And what do you make of your boat?’ said Mr Inspector.
 
 ‘What if I put off in her and take a look round? I know his ways, and
-the likely nooks he favours. I know where he’d be at such a time of the
-tide, and where he’d be at such another time. Ain’t I been his pardner?
+the likely nooks he favours. I know where he’d be at such a [[Time|time]] of the
+tide, and where he’d be at such another [[Time|time]]. Ain’t I been his pardner?
 None of you need show. None of you need stir. I can shove her off
 without help; and as to me being seen, I’m about at all times.’

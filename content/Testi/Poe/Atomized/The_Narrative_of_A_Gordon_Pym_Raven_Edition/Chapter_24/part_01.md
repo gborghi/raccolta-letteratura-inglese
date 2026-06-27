@@ -28,7 +28,7 @@ CHAPTER 24
 
       a desperate attempt at descending the southern declivity of the
 
-      hill. The face of the precipice was here of the softest species
+      [[Hill|hill]]. The face of the precipice was here of the softest species
 
       of soapstone, although nearly perpendicular throughout its whole
 
@@ -48,7 +48,7 @@ CHAPTER 24
 
       which we had clambered up from the chasm when we had been buried
 
-      by the fall of the hill—that is, by cutting steps in the face of
+      by the fall of the [[Hill|hill]]—that is, by cutting steps in the face of
 
       the soapstone with our knives. The extreme hazard of the attempt
 
@@ -72,7 +72,7 @@ CHAPTER 24
 
       rock above to the height of a foot, or thereabout, so as to allow
 
-      of his driving, with the butt of a pistol, a tolerably strong peg
+      of his driving, with the butt of a [[Pistol|pistol]], a tolerably strong peg
 
       into the levelled surface. I then drew him up for about four
 
@@ -120,11 +120,11 @@ CHAPTER 24
 
       finally succeeded, with the occasional aid of projections in the
 
-      cliff, in reaching the bottom without accident.
+      cliff, in reaching the [[Bottom|bottom]] without accident.
 
 
 
-      It was some time before I could summon sufficient resolution to
+      It was some [[Time|time]] before I could summon sufficient resolution to
 
       follow him; but I did at length attempt it. Peters had taken off
 
@@ -138,13 +138,13 @@ CHAPTER 24
 
       banish the trepidation which I could overcome in no other manner.
 
-      This answered sufficiently well for the first four or five steps;
+      This answered sufficiently [[Well|well]] for the first four or five steps;
 
-      but presently I found my imagination growing terribly excited by
+      but presently I found my [[Imagination|imagination]] growing terribly excited by
 
       thoughts of the vast depths yet to be descended, and the
 
-      precarious nature of the pegs and soapstone holes which were my
+      precarious [[Nature|nature]] of the pegs and soapstone holes which were my
 
       only support. It was in vain I endeavored to banish these
 
@@ -174,7 +174,7 @@ CHAPTER 24
 
       There was a ringing in my ears, and I said, “This is my knell of
 
-      death!” And now I was consumed with the irrepressible desire of
+      [[Death|death]]!” And now I was consumed with the irrepressible [[Desire|desire]] of
 
       looking below. I could not, I would not, confine my glances to
 
@@ -186,11 +186,11 @@ CHAPTER 24
 
       their hold, while, with the movement, the faintest possible idea
 
-      of ultimate escape wandered, like a shadow, through my mind—in
+      of ultimate escape wandered, like a [[Shadow|shadow]], through my mind—in
 
-      the next my whole soul was pervaded with a longing to fall; a
+      the next my whole [[Soul|soul]] was pervaded with a [[Longing|longing]] to fall; a
 
-      desire, a yearning, a passion utterly uncontrollable. I let go at
+      [[Desire|desire]], a yearning, a passion utterly uncontrollable. I let go at
 
       once my grasp upon the peg, and, turning half round from the
 

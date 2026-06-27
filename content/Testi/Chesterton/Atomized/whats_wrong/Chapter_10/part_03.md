@@ -17,12 +17,12 @@ tags:
 The point it is my purpose to urge might perhaps be suggested thus:
 that Socialists and most social reformers of their color are vividly
 conscious of the line between the kind of things that belong to the state
-and the kind of things that belong to mere chaos or uncoercible nature;
+and the kind of things that belong to mere chaos or uncoercible [[Nature|nature]];
 they may force children to go to school before the sun rises, but they
 will not try to force the sun to rise; they will not, like Canute,
 banish the sea, but only the sea-bathers. But inside the outline of
 the state their lines are confused, and entities melt into each other.
-They have no firm instinctive sense of one thing being in its nature
+They have no firm instinctive sense of one thing being in its [[Nature|nature]]
 private and another public, of one thing being necessarily bond
 and another free.  That is why piece by piece, and quite silently,
 personal liberty is being stolen from Englishmen, as personal land has
@@ -34,20 +34,20 @@ an umbrella because they both go into the umbrella-stand.
 Yet they are as different as a battle-ax and a bootjack.
 The essential idea of an umbrella is breadth and protection.
 The essential idea of a stick is slenderness and, partly, attack.
-The stick is the sword, the umbrella is the shield,
+The stick is the [[Sword|sword]], the umbrella is the shield,
 but it is a shield against another and more nameless enemy--
 the hostile but anonymous universe.  More properly, therefore,
-the umbrella is the roof; it is a kind of collapsible house.
+the umbrella is the roof; it is a kind of collapsible [[house]].
 But the vital difference goes far deeper than this; it branches
 off into two kingdoms of man's mind, with a chasm between.
 For the point is this:  that the umbrella is a shield
 against an enemy so actual as to be a mere nuisance;
-whereas the stick is a sword against enemies so entirely imaginary
-as to be a pure pleasure.  The stick is not merely a sword,
-but a court sword; it is a thing of purely ceremonial swagger.
+whereas the stick is a [[Sword|sword]] against enemies so entirely imaginary
+as to be a pure pleasure.  The stick is not merely a [[Sword|sword]],
+but a [[Court|court]] [[Sword|sword]]; it is a thing of purely ceremonial swagger.
 One cannot express the emotion in any way except by saying
 that a man feels more like a man with a stick in his hand,
-just as he feels more like a man with a sword at his side.
+just as he feels more like a man with a [[Sword|sword]] at his side.
 But nobody ever had any swelling sentiments about an umbrella;
 it is a convenience, like a door scraper.  An umbrella is a
 necessary evil.  A walking-stick is a quite unnecessary good.
@@ -70,14 +70,14 @@ communal stick; it is as if one spoke of twirling a communal mustache.
 It will be said that this is a frank fantasia and that no sociologists
 suggest such follies.  Pardon me if they do.  I will give a precise
 parallel to the case of confusion of sticks and umbrellas,
-a parallel from a perpetually reiterated suggestion of reform.
+a parallel from a perpetually reiterated suggestion of [[Reform|reform]].
 At least sixty Socialists out of a hundred, when they have spoken
 of common laundries, will go on at once to speak of common kitchens.
 This is just as mechanical and unintelligent as the fanciful
 case I have quoted.  Sticks and umbrellas are both stiff rods
 that go into holes in a stand in the hall.  Kitchens and
 washhouses are both large rooms full of heat and damp and steam.
-But the soul and function of the two things are utterly opposite.
+But the [[Soul|soul]] and function of the two things are utterly opposite.
 There is only one way of washing a shirt; that is, there is only
 one right way.  There is no taste and fancy in tattered shirts.
 Nobody says, "Tompkins likes five holes in his shirt, but I
@@ -103,8 +103,8 @@ just as we should accept communal cat's-meat in a siege.
 But the cultured Socialist, quite at his ease, by no means
 in a siege, talks about communal kitchens as if they
 were the same kind of thing as communal laundries.
-This shows at the start that he misunderstands human nature.
-It is as different as three men singing the same chorus from
+This shows at the start that he misunderstands human [[Nature|nature]].
+It is as different as three men singing the same [[Chorus|chorus]] from
 three men playing three tunes on the same piano.
 
 * * *
@@ -115,7 +115,7 @@ THE DREADFUL DUTY OF GUDGE
 
 In the quarrel earlier alluded to between the energetic Progressive
 and the obstinate Conservative (or, to talk a tenderer language,
-between Hudge and Gudge), the state of cross-purposes is at the present
+between Hudge and Gudge), the state of [[Cross|cross]]-purposes is at the present
 moment acute.  The Tory says he wants to preserve family life
 in Cindertown; the Socialist very reasonably points out to him that
 in Cindertown at present there isn't any family life to preserve.
@@ -130,20 +130,20 @@ ideal question, "Do you want to keep the family at all?"  If Hudge,
 the Socialist, does want the family he must be prepared for the
 natural restraints, distinctions and divisions of labor in the family.
 He must brace himself up to bear the idea of the woman having
-a preference for the private house and a man for the public house.
+a preference for the private [[house]] and a man for the public [[house]].
 He must manage to endure somehow the idea of a woman being womanly,
 which does not mean soft and yielding, but handy, thrifty, rather hard,
 and very humorous.  He must confront without a quiver the notion
-of a child who shall be childish, that is, full of energy,
+of a [[Child|child]] who shall be childish, that is, full of energy,
 but without an idea of independence; fundamentally as eager for
 authority as for information and butter-scotch. If a man, a woman
-and a child live together any more in free and sovereign households,
+and a [[Child|child]] live together any more in free and sovereign households,
 these ancient relations will recur; and Hudge must put up with it.
 He can only avoid it by destroying the family, driving both sexes into
 sexless hives and hordes, and bringing up all children as the children of
-the state--like Oliver Twist.  But if these stern words must be addressed
+the state--like [[Oliver Twist]].  But if these stern words must be addressed
 to Hudge, neither shall Gudge escape a somewhat severe admonition.
-For the plain truth to be told pretty sharply to the Tory is this,
+For the plain [[Truth|truth]] to be told pretty sharply to the Tory is this,
 that if he wants the family to remain, if he wants to be strong enough
 to resist the rending forces of our essentially savage commerce,
 he must make some very big sacrifices and try to equalize property.
@@ -156,28 +156,28 @@ The man ought to stand for a certain magnanimity, quite lawfully expressed
 in throwing money away:  but if under given circumstances he can only
 do it by throwing the week's food away, then he is not magnanimous,
 but mean.  The woman ought to stand for a certain wisdom which is
-well expressed in valuing things rightly and guarding money sensibly;
+[[Well|well]] expressed in valuing things rightly and guarding money sensibly;
 but how is she to guard money if there is no money to guard?
-The child ought to look on his mother as a fountain of natural fun
+The [[Child|child]] ought to look on his mother as a fountain of natural fun
 and poetry; but how can he unless the fountain, like other fountains,
 is allowed to play?  What chance have any of these ancient arts
-and functions in a house so hideously topsy-turvy; a house where
-the woman is out working and the man isn't; and the child is forced
+and functions in a [[house]] so hideously topsy-turvy; a [[house]] where
+the woman is out working and the man isn't; and the [[Child|child]] is forced
 by law to think his schoolmaster's requirements more important
-than his mother's? No, Gudge and his friends in the House of Lords
+than his mother's? No, Gudge and his friends in the [[house|House]] of Lords
 and the Carlton Club must make up their minds on this matter,
 and that very quickly.  If they are content to have England turned into
-a beehive and an ant-hill, decorated here and there with a few faded
+a beehive and an ant-[[Hill|hill]], decorated here and there with a few faded
 butterflies playing at an old game called domesticity in the intervals
-of the divorce court, then let them have their empire of insects;
+of the [[divorce]] [[Court|court]], then let them have their empire of [[Insects|insects]];
 they will find plenty of Socialists who will give it to them.
 But if they want a domestic England, they must "shell out,"
 as the phrase goes, to a vastly greater extent than any Radical
 politician has yet dared to suggest; they must endure burdens much
-heavier than the Budget and strokes much deadlier than the death duties;
+heavier than the Budget and strokes much deadlier than the [[Death|death]] duties;
 for the thing to be done is nothing more nor less than the distribution
 of the great fortunes and the great estates.  We can now only avoid
 Socialism by a change as vast as Socialism.  If we are to save property,
 we must distribute property, almost as sternly and sweepingly as did
-the French Revolution.  If we are to preserve the family we must
+the [[French Revolution]].  If we are to preserve the family we must
 revolutionize the nation.

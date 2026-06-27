@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 56"
+title: "[[Pride and Prejudice]] — Chapter 56"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -21,7 +21,7 @@ CHAPTER LVI.
 
 One morning, about a week after Bingley’s engagement with Jane had been
 formed, as he and the females of the family were sitting together in the
-dining-room, their attention was suddenly drawn to the window by the
+dining-room, their attention was suddenly drawn to the [[Window|window]] by the
 sound of a carriage; and they perceived a chaise and four driving up the
 lawn. It was too early in the morning for visitors; and besides, the
 equipage did not answer to that of any of their neighbours. The horses
@@ -31,7 +31,7 @@ somebody was coming, Bingley instantly prevailed on Miss Bennet to avoid
 the confinement of such an intrusion, and walk away with him into the
 shrubbery. They both set off; and the conjectures of the remaining three
 continued, though with little satisfaction, till the door was thrown
-open, and their visitor entered. It was Lady Catherine de Bourgh.
+open, and their visitor entered. It was [[Lady Catherine de Bourgh]].
 
 They were of course all intending to be surprised: but their
 astonishment was beyond their expectation; and on the part of Mrs.
@@ -46,9 +46,9 @@ introduction had been made.
 
 Mrs. Bennet, all amazement, though flattered by having a guest of such
 high importance, received her with the utmost politeness. After sitting
-for a moment in silence, she said, very stiffly, to Elizabeth,--
+for a moment in [[Silence|silence]], she said, very stiffly, to Elizabeth,--
 
-“I hope you are well, Miss Bennet. That lady, I suppose, is your
+“I [[Hope|hope]] you are [[Well|well]], Miss Bennet. That lady, I suppose, is your
 mother?”
 
 Elizabeth replied very concisely that she was.
@@ -61,21 +61,21 @@ and my eldest is somewhere about the ground, walking with a young man,
 who, I believe, will soon become a part of the family.”
 
 “You have a very small park here,” returned Lady Catherine, after a
-short silence.
+short [[Silence|silence]].
 
 “It is nothing in comparison of Rosings, my Lady, I dare say; but, I
 assure you, it is much larger than Sir William Lucas’s.”
 
 “This must be a most inconvenient sitting-room for the evening in
-summer: the windows are full west.”
+[[Summer|summer]]: the windows are full west.”
 
 Mrs. Bennet assured her that they never sat there after dinner; and then
 added,--
 
 “May I take the liberty of asking your Ladyship whether you left Mr. and
-Mrs. Collins well?”
+Mrs. Collins [[Well|well]]?”
 
-“Yes, very well. I saw them the night before last.”
+“Yes, very [[Well|well]]. I saw them the [[Night|night]] before last.”
 
 Elizabeth now expected that she would produce a letter for her from
 Charlotte, as it seemed the only probable motive for her calling. But no
@@ -99,7 +99,7 @@ drawing-room, and pronouncing them, after a short survey, to be
 decent-looking rooms, walked on.
 
 Her carriage remained at the door, and Elizabeth saw that her
-waiting-woman was in it. They proceeded in silence along the gravel walk
+waiting-woman was in it. They proceeded in [[Silence|silence]] along the gravel walk
 that led to the copse; Elizabeth was determined to make no effort for
 conversation with a woman who was now more than usually insolent and
 disagreeable.
@@ -117,30 +117,30 @@ As soon as they entered the copse, Lady Catherine began in the following
 manner:--
 
 “You can be at no loss, Miss Bennet, to understand the reason of my
-journey hither. Your own heart, your own conscience, must tell you why I
+[[Journey|journey]] hither. Your own heart, your own [[Conscience|conscience]], must tell you why I
 come.”
 
 Elizabeth looked with unaffected astonishment.
 
 “Indeed, you are mistaken, madam; I have not been at all able to account
-for the honour of seeing you here.”
+for the [[Honour|honour]] of seeing you here.”
 
 “Miss Bennet,” replied her Ladyship, in an angry tone, “you ought to
 know that I am not to be trifled with. But however insincere _you_ may
 choose to be, you shall not find _me_ so. My character has ever been
 celebrated for its sincerity and frankness; and in a cause of such
 moment as this, I shall certainly not depart from it. A report of a most
-alarming nature reached me two days ago. I was told, that not only your
+alarming [[Nature|nature]] reached me two days ago. I was told, that not only your
 sister was on the point of being most advantageously married, but that
-_you_--that Miss Elizabeth Bennet would, in all likelihood, be soon
+_you_--that Miss [[Elizabeth Bennet]] would, in all likelihood, be soon
 afterwards united to my nephew--my own nephew, Mr. Darcy. Though I
 _know_ it must be a scandalous falsehood, though I would not injure him
-so much as to suppose the truth of it possible, I instantly resolved on
+so much as to suppose the [[Truth|truth]] of it possible, I instantly resolved on
 setting off for this place, that I might make my sentiments known to
 you.”
 
 “If you believed it impossible to be true,” said Elizabeth, colouring
-with astonishment and disdain, “I wonder you took the trouble of coming
+with astonishment and disdain, “I [[Wonder|wonder]] you took the trouble of coming
 so far. What could your Ladyship propose by it?”
 
 “At once to insist upon having such a report universally contradicted.”
@@ -161,7 +161,7 @@ report is spread abroad?”
 may ask questions which _I_ shall not choose to answer.”
 
 “This is not to be borne. Miss Bennet, I insist on being satisfied. Has
-he, has my nephew, made you an offer of marriage?”
+he, has my nephew, made you an offer of [[Marriage|marriage]]?”
 
 “Your Ladyship has declared it to be impossible.”
 
@@ -190,9 +190,9 @@ Lady Catherine hesitated for a moment, and then replied,--
 
 “The engagement between them is of a peculiar kind. From their infancy,
 they have been intended for each other. It was the favourite wish of
-_his_ mother, as well as of hers. While in their cradles we planned the
-union; and now, at the moment when the wishes of both sisters would be
-accomplished, is their marriage to be prevented by a young woman of
+_his_ mother, as [[Well|well]] as of hers. While in their cradles we planned the
+[[Union|union]]; and now, at the moment when the wishes of both sisters would be
+accomplished, is their [[Marriage|marriage]] to be prevented by a young woman of
 inferior birth, of no importance in the world, and wholly unallied to
 the family? Do you pay no regard to the wishes of his friends--to his
 tacit engagement with Miss de Bourgh? Are you lost to every feeling of
@@ -203,11 +203,11 @@ earliest hours he was destined for his cousin?”
 other objection to my marrying your nephew, I shall certainly not be
 kept from it by knowing that his mother and aunt wished him to marry
 Miss de Bourgh. You both did as much as you could in planning the
-marriage. Its completion depended on others. If Mr. Darcy is neither by
-honour nor inclination confined to his cousin, why is not he to make
+[[Marriage|marriage]]. Its completion depended on others. If Mr. Darcy is neither by
+[[Honour|honour]] nor inclination confined to his cousin, why is not he to make
 another choice? And if I am that choice, why may not I accept him?”
 
-“Because honour, decorum, prudence--nay, interest--forbid it. Yes, Miss
+“Because [[Honour|honour]], decorum, prudence--nay, interest--forbid it. Yes, Miss
 Bennet, interest; for do not expect to be noticed by his family or
 friends, if you wilfully act against the inclinations of all. You will
 be censured, slighted, and despised, by everyone connected with him.
@@ -220,7 +220,7 @@ attached to her situation, that she could, upon the whole, have no cause
 to repine.”
 
 “Obstinate, headstrong girl! I am ashamed of you! Is this your gratitude
-for my attentions to you last spring? Is nothing due to me on that
+for my attentions to you last [[spring]]? Is nothing due to me on that
 score? Let us sit down. You are to understand, Miss Bennet, that I came
 here with the determined resolution of carrying my purpose; nor will I
 be dissuaded from it. I have not been used to submit to any person’s
@@ -229,7 +229,7 @@ whims. I have not been in the habit of brooking disappointment.”
 “_That_ will make your Ladyship’s situation at present more pitiable;
 but it will have no effect on _me_.”
 
-“I will not be interrupted! Hear me in silence. My daughter and my
+“I will not be interrupted! Hear me in [[Silence|silence]]. My daughter and my
 nephew are formed for each other. They are descended, on the maternal
 side, from the same noble line; and, on the father’s, from respectable,
 honourable, and ancient, though untitled, families. Their fortune on
@@ -273,7 +273,7 @@ assurance I require.”
 “And I certainly _never_ shall give it. I am not to be intimidated into
 anything so wholly unreasonable. Your Ladyship wants Mr. Darcy to marry
 your daughter; but would my giving you the wished-for promise make
-_their_ marriage at all more probable? Supposing him to be attached to
+_their_ [[Marriage|marriage]] at all more probable? Supposing him to be attached to
 me, would _my_ refusing to accept his hand make him wish to bestow it on
 his cousin? Allow me to say, Lady Catherine, that the arguments with
 which you have supported this extraordinary application have been as
@@ -295,12 +295,12 @@ what are you thinking? Are the shades of Pemberley to be thus polluted?”
 
 “You can _now_ have nothing further to say,” she resentfully answered.
 “You have insulted me, in every possible method. I must beg to return to
-the house.”
+the [[house]].”
 
-And she rose as she spoke. Lady Catherine rose also, and they turned
+And she [[Rose|rose]] as she spoke. Lady Catherine [[Rose|rose]] also, and they turned
 back. Her Ladyship was highly incensed.
 
-“You have no regard, then, for the honour and credit of my nephew!
+“You have no regard, then, for the [[Honour|honour]] and credit of my nephew!
 Unfeeling, selfish girl! Do you not consider that a connection with you
 must disgrace him in the eyes of everybody?”
 
@@ -312,21 +312,21 @@ must disgrace him in the eyes of everybody?”
 which will, in my own opinion, constitute my happiness, without
 reference to _you_, or to any person so wholly unconnected with me.”
 
-“It is well. You refuse, then, to oblige me. You refuse to obey the
-claims of duty, honour, and gratitude. You are determined to ruin him in
+“It is [[Well|well]]. You refuse, then, to oblige me. You refuse to obey the
+claims of duty, [[Honour|honour]], and gratitude. You are determined to ruin him in
 the opinion of all his friends, and make him the contempt of the world.”
 
-“Neither duty, nor honour, nor gratitude,” replied Elizabeth, “has any
+“Neither duty, nor [[Honour|honour]], nor gratitude,” replied Elizabeth, “has any
 possible claim on me, in the present instance. No principle of either
-would be violated by my marriage with Mr. Darcy. And with regard to the
+would be violated by my [[Marriage|marriage]] with Mr. Darcy. And with regard to the
 resentment of his family, or the indignation of the world, if the former
 _were_ excited by his marrying me, it would not give me one moment’s
 concern--and the world in general would have too much sense to join in
 the scorn.”
 
-“And this is your real opinion! This is your final resolve! Very well. I
+“And this is your real opinion! This is your final resolve! Very [[Well|well]]. I
 shall now know how to act. Do not imagine, Miss Bennet, that your
-ambition will ever be gratified. I came to try you. I hoped to find you
+[[Ambition|ambition]] will ever be gratified. I came to try you. I hoped to find you
 reasonable; but depend upon it I will carry my point.”
 
 In this manner Lady Catherine talked on till they were at the door of
@@ -336,7 +336,7 @@ the carriage, when, turning hastily round, she added,--
 mother. You deserve no such attention. I am most seriously displeased.”
 
 Elizabeth made no answer; and without attempting to persuade her
-Ladyship to return into the house, walked quietly into it herself. She
+Ladyship to return into the [[house]], walked quietly into it herself. She
 heard the carriage drive away as she proceeded upstairs. Her mother
 impatiently met her at the door of her dressing-room, to ask why Lady
 Catherine would not come in again and rest herself.
@@ -344,9 +344,9 @@ Catherine would not come in again and rest herself.
 “She did not choose it,” said her daughter; “she would go.”
 
 “She is a very fine-looking woman! and her calling here was prodigiously
-civil! for she only came, I suppose, to tell us the Collinses were well.
-She is on her road somewhere, I dare say; and so, passing through
-Meryton, thought she might as well call on you. I suppose she had
+civil! for she only came, I suppose, to tell us the Collinses were [[Well|well]].
+She is on her [[Road|road]] somewhere, I dare say; and so, passing through
+Meryton, thought she might as [[Well|well]] call on you. I suppose she had
 nothing particular to say to you, Lizzy?”
 
 Elizabeth was forced to give in to a little falsehood here; for to

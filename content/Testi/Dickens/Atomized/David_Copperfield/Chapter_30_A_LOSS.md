@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 30: A LOSS"
+title: "[[David Copperfield]] — Chapter 30: A LOSS"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,17 +20,17 @@ CHAPTER 30. A LOSS
 I got down to Yarmouth in the evening, and went to the inn. I knew that
 Peggotty’s spare room--my room--was likely to have occupation enough
 in a little while, if that great Visitor, before whose presence all
-the living must give place, were not already in the house; so I betook
+the living must give place, were not already in the [[house]]; so I betook
 myself to the inn, and dined there, and engaged my bed.
 
-It was ten o’clock when I went out. Many of the shops were shut, and the
+It was ten o’[[Clock|clock]] when I went out. Many of the shops were shut, and the
 town was dull. When I came to Omer and Joram’s, I found the shutters up,
 but the shop door standing open. As I could obtain a perspective view
 of Mr. Omer inside, smoking his pipe by the parlour door, I entered, and
 asked him how he was.
 
-‘Why, bless my life and soul!’ said Mr. Omer, ‘how do you find yourself?
-Take a seat.---Smoke not disagreeable, I hope?’
+‘Why, bless my life and [[Soul|soul]]!’ said Mr. Omer, ‘how do you find yourself?
+Take a seat.---Smoke not disagreeable, I [[Hope|hope]]?’
 
 ‘By no means,’ said I. ‘I like it--in somebody else’s pipe.’
 
@@ -61,7 +61,7 @@ do it. Bless you, it would be a shock that the generality of parties
 mightn’t recover, to say “Omer and Joram’s compliments, and how do you
 find yourself this morning?”--or this afternoon--as it may be.’
 
-Mr. Omer and I nodded at each other, and Mr. Omer recruited his wind by
+Mr. Omer and I nodded at each other, and Mr. Omer recruited his [[Wind|wind]] by
 the aid of his pipe.
 
 ‘It’s one of the things that cut the trade off from attentions they
@@ -71,30 +71,30 @@ But I can’t go and say, “how is he?”’
 
 I felt it was rather hard on Mr. Omer, and I told him so.
 
-‘I’m not more self-interested, I hope, than another man,’ said Mr. Omer.
-‘Look at me! My wind may fail me at any moment, and it ain’t
-likely that, to my own knowledge, I’d be self-interested under such
-circumstances. I say it ain’t likely, in a man who knows his wind will
+‘I’m not more [[Self|self]]-interested, I [[Hope|hope]], than another man,’ said Mr. Omer.
+‘Look at me! My [[Wind|wind]] may fail me at any moment, and it ain’t
+likely that, to my own knowledge, I’d be [[Self|self]]-interested under such
+circumstances. I say it ain’t likely, in a man who knows his [[Wind|wind]] will
 go, when it DOES go, as if a pair of bellows was cut open; and that man
 a grandfather,’ said Mr. Omer.
 
 I said, ‘Not at all.’
 
 ‘It ain’t that I complain of my line of business,’ said Mr. Omer. ‘It
-ain’t that. Some good and some bad goes, no doubt, to all callings. What
+ain’t that. Some good and some bad goes, no [[Doubt|doubt]], to all callings. What
 I wish is, that parties was brought up stronger-minded.’
 
 Mr. Omer, with a very complacent and amiable face, took several puffs in
-silence; and then said, resuming his first point:
+[[Silence|silence]]; and then said, resuming his first point:
 
 ‘Accordingly we’re obleeged, in ascertaining how Barkis goes on, to
 limit ourselves to Em’ly. She knows what our real objects are, and she
 don’t have any more alarms or suspicions about us, than if we was so
-many lambs. Minnie and Joram have just stepped down to the house, in
+many lambs. Minnie and Joram have just stepped down to the [[house]], in
 fact (she’s there, after hours, helping her aunt a bit), to ask her how
 he is tonight; and if you was to please to wait till they come back,
 they’d give you full partic’lers. Will you take something? A glass of
-srub and water, now? I smoke on srub and water, myself,’ said Mr. Omer,
+srub and [[Water|water]], now? I smoke on srub and [[Water|water]], myself,’ said Mr. Omer,
 taking up his glass, ‘because it’s considered softening to the passages,
 by which this troublesome breath of mine gets into action. But, Lord
 bless you,’ said Mr. Omer, huskily, ‘it ain’t the passages that’s out of
@@ -106,17 +106,17 @@ laugh. When he was again in a condition to be talked to, I thanked
 him for the proffered refreshment, which I declined, as I had just had
 dinner; and, observing that I would wait, since he was so good as to
 invite me, until his daughter and his son-in-law came back, I inquired
-how little Emily was?
+how [[Little Emily|little Emily]] was?
 
-‘Well, sir,’ said Mr. Omer, removing his pipe, that he might rub his
-chin: ‘I tell you truly, I shall be glad when her marriage has taken
+‘[[Well]], sir,’ said Mr. Omer, removing his pipe, that he might rub his
+chin: ‘I tell you truly, I shall be glad when her [[Marriage|marriage]] has taken
 place.’
 
 ‘Why so?’ I inquired.
 
-‘Well, she’s unsettled at present,’ said Mr. Omer. ‘It ain’t that she’s
+‘[[Well]], she’s unsettled at present,’ said Mr. Omer. ‘It ain’t that she’s
 not as pretty as ever, for she’s prettier--I do assure you, she is
-prettier. It ain’t that she don’t work as well as ever, for she does.
+prettier. It ain’t that she don’t work as [[Well|well]] as ever, for she does.
 She WAS worth any six, and she IS worth any six. But somehow she wants
 heart. If you understand,’ said Mr. Omer, after rubbing his chin again,
 and smoking a little, ‘what I mean in a general way by the expression,
@@ -133,9 +133,9 @@ sweetheart and myself, after business; and I consider it is principally
 on account of her being unsettled. You must always recollect of Em’ly,’
 said Mr. Omer, shaking his head gently, ‘that she’s a most extraordinary
 affectionate little thing. The proverb says, “You can’t make a silk
-purse out of a sow’s ear.” Well, I don’t know about that. I rather think
-you may, if you begin early in life. She has made a home out of that old
-boat, sir, that stone and marble couldn’t beat.’
+purse out of a sow’s ear.” [[Well]], I don’t know about that. I rather think
+you may, if you begin early in life. She has made a [[Home|home]] out of that old
+boat, sir, that [[Stone and Marble|stone and marble]] couldn’t beat.’
 
 ‘I am sure she has!’ said I.
 
@@ -150,12 +150,12 @@ my heart, in what he said.
 
 ‘Therefore, I mentioned to them,’ said Mr. Omer, in a comfortable,
 easy-going tone, ‘this. I said, “Now, don’t consider Em’ly nailed down
-in point of time, at all. Make it your own time. Her services have been
+in point of [[Time|time]], at all. Make it your own [[Time|time]]. Her services have been
 more valuable than was supposed; her learning has been quicker than was
 supposed; Omer and Joram can run their pen through what remains; and
 she’s free when you wish. If she likes to make any little arrangement,
-afterwards, in the way of doing any little thing for us at home,
-very well. If she don’t, very well still. We’re no losers, anyhow.”
+afterwards, in the way of doing any little thing for us at [[Home|home]],
+very [[Well|well]]. If she don’t, very [[Well|well]] still. We’re no losers, anyhow.”
  For--don’t you see,’ said Mr. Omer, touching me with his pipe, ‘it ain’t
 likely that a man so short of breath as myself, and a grandfather too,
 would go and strain points with a little bit of a blue-eyed blossom,
@@ -163,27 +163,27 @@ like her?’
 
 ‘Not at all, I am certain,’ said I.
 
-‘Not at all! You’re right!’ said Mr. Omer. ‘Well, sir, her cousin--you
+‘Not at all! You’re right!’ said Mr. Omer. ‘[[Well]], sir, her cousin--you
 know it’s a cousin she’s going to be married to?’
 
-‘Oh yes,’ I replied. ‘I know him well.’
+‘Oh yes,’ I replied. ‘I know him [[Well|well]].’
 
-‘Of course you do,’ said Mr. Omer. ‘Well, sir! Her cousin being, as it
-appears, in good work, and well to do, thanked me in a very manly sort
+‘Of course you do,’ said Mr. Omer. ‘[[Well]], sir! Her cousin being, as it
+appears, in good work, and [[Well|well]] to do, thanked me in a very manly sort
 of manner for this (conducting himself altogether, I must say, in a way
 that gives me a high opinion of him), and went and took as comfortable
-a little house as you or I could wish to clap eyes on. That little
-house is now furnished right through, as neat and complete as a doll’s
+a little [[house]] as you or I could wish to clap eyes on. That little
+[[house]] is now furnished right through, as neat and complete as a doll’s
 parlour; and but for Barkis’s illness having taken this bad turn, poor
-fellow, they would have been man and wife--I dare say, by this time. As
+fellow, they would have been man and wife--I dare say, by this [[Time|time]]. As
 it is, there’s a postponement.’
 
 ‘And Emily, Mr. Omer?’ I inquired. ‘Has she become more settled?’
 
-‘Why that, you know,’ he returned, rubbing his double chin again, ‘can’t
+‘Why that, you know,’ he returned, rubbing his [[Double|double]] chin again, ‘can’t
 naturally be expected. The prospect of the change and separation, and
 all that, is, as one may say, close to her and far away from her, both
-at once. Barkis’s death needn’t put it off much, but his lingering
+at once. Barkis’s [[Death|death]] needn’t put it off much, but his lingering
 might. Anyway, it’s an uncertain state of matters, you see.’
 
 ‘I see,’ said I.
@@ -191,10 +191,10 @@ might. Anyway, it’s an uncertain state of matters, you see.’
 ‘Consequently,’ pursued Mr. Omer, ‘Em’ly’s still a little down, and a
 little fluttered; perhaps, upon the whole, she’s more so than she was.
 Every day she seems to get fonder and fonder of her uncle, and more loth
-to part from all of us. A kind word from me brings the tears into her
+to part from all of us. A kind word from me brings the [[Tears|tears]] into her
 eyes; and if you was to see her with my daughter Minnie’s little girl,
 you’d never forget it. Bless my heart alive!’ said Mr. Omer, pondering,
-‘how she loves that child!’
+‘how she loves that [[Child|child]]!’
 
 Having so favourable an opportunity, it occurred to me to ask Mr. Omer,
 before our conversation should be interrupted by the return of his
@@ -215,10 +215,10 @@ was quite unconscious; and that Mr. Chillip had mournfully said in the
 kitchen, on going away just now, that the College of Physicians, the
 College of Surgeons, and Apothecaries’ Hall, if they were all called
 in together, couldn’t help him. He was past both Colleges, Mr. Chillip
-said, and the Hall could only poison him.
+said, and the Hall could only [[Poison|poison]] him.
 
 Hearing this, and learning that Mr. Peggotty was there, I determined to
-go to the house at once. I bade good night to Mr. Omer, and to Mr. and
+go to the [[house]] at once. I bade good [[Night|night]] to Mr. Omer, and to Mr. and
 Mrs. Joram; and directed my steps thither, with a solemn feeling, which
 made Mr. Barkis quite a new and different creature.
 
@@ -229,7 +229,7 @@ expectation of that dread surprise, all other changes and surprises
 dwindle into nothing.
 
 I shook hands with Mr. Peggotty, and passed into the kitchen, while he
-softly closed the door. Little Emily was sitting by the fire, with her
+softly closed the door. [[Little Emily]] was sitting by the [[Fire|fire]], with her
 hands before her face. Ham was standing near her.
 
 We spoke in whispers; listening, between whiles, for any sound in the
@@ -259,7 +259,7 @@ She clung the closer to him, but neither lifted up her face, nor spoke a
 word.
 
 ‘It’s getting late, my dear,’ said Mr. Peggotty, ‘and here’s Ham come
-fur to take you home. Theer! Go along with t’other loving art! What’
+fur to take you [[Home|home]]. Theer! Go along with t’other loving art! What’
 Em’ly? Eh, my pretty?’
 
 The sound of her voice had not reached me, but he bent his head as if he
@@ -267,9 +267,9 @@ listened to her, and then said:
 
 ‘Let you stay with your uncle? Why, you doen’t mean to ask me that! Stay
 with your uncle, Moppet? When your husband that’ll be so soon, is here
-fur to take you home? Now a person wouldn’t think it, fur to see this
+fur to take you [[Home|home]]? Now a person wouldn’t think it, fur to see this
 little thing alongside a rough-weather chap like me,’ said Mr. Peggotty,
-looking round at both of us, with infinite pride; ‘but the sea ain’t
+looking round at both of us, with infinite [[Pride|pride]]; ‘but the sea ain’t
 more salt in it than she has fondness in her for her uncle--a foolish
 little Em’ly!’
 
@@ -279,24 +279,24 @@ I’ll leave her till morning. Let me stay too!’
 
 ‘No, no,’ said Mr. Peggotty. ‘You doen’t ought--a married man like
 you--or what’s as good--to take and hull away a day’s work. And you
-doen’t ought to watch and work both. That won’t do. You go home and turn
+doen’t ought to watch and work both. That won’t do. You go [[Home|home]] and turn
 in. You ain’t afeerd of Em’ly not being took good care on, I know.’
 
-Ham yielded to this persuasion, and took his hat to go. Even when he
-kissed her--and I never saw him approach her, but I felt that nature
-had given him the soul of a gentleman--she seemed to cling closer to
+Ham yielded to this [[Persuasion|persuasion]], and took his hat to go. Even when he
+kissed her--and I never saw him approach her, but I felt that [[Nature|nature]]
+had given him the [[Soul|soul]] of a gentleman--she seemed to cling closer to
 her uncle, even to the avoidance of her chosen husband. I shut the
 door after him, that it might cause no disturbance of the quiet that
 prevailed; and when I turned back, I found Mr. Peggotty still talking to
 her.
 
 ‘Now, I’m a going upstairs to tell your aunt as Mas’r Davy’s here, and
-that’ll cheer her up a bit,’ he said. ‘Sit ye down by the fire, the
+that’ll cheer her up a bit,’ he said. ‘Sit ye down by the [[Fire|fire]], the
 while, my dear, and warm those mortal cold hands. You doen’t need to be
-so fearsome, and take on so much. What? You’ll go along with me?--Well!
-come along with me--come! If her uncle was turned out of house and home,
+so fearsome, and take on so much. What? You’ll go along with me?--[[Well]]!
+come along with me--come! If her uncle was turned out of [[house]] and [[Home|home]],
 and forced to lay down in a dyke, Mas’r Davy,’ said Mr. Peggotty, with
-no less pride than before, ‘it’s my belief she’d go along with him, now!
+no less [[Pride|pride]] than before, ‘it’s my belief she’d go along with him, now!
 But there’ll be someone else, soon,--someone else, soon, Em’ly!’
 
 Afterwards, when I went upstairs, as I passed the door of my little
@@ -304,11 +304,11 @@ chamber, which was dark, I had an indistinct impression of her being
 within it, cast down upon the floor. But, whether it was really she, or
 whether it was a confusion of the shadows in the room, I don’t know now.
 
-I had leisure to think, before the kitchen fire, of pretty little
-Emily’s dread of death--which, added to what Mr. Omer had told me, I
+I had leisure to think, before the kitchen [[Fire|fire]], of pretty little
+Emily’s dread of [[Death|death]]--which, added to what Mr. Omer had told me, I
 took to be the cause of her being so unlike herself--and I had leisure,
 before Peggotty came down, even to think more leniently of the weakness
-of it: as I sat counting the ticking of the clock, and deepening my
+of it: as I sat counting the ticking of the [[Clock|clock]], and deepening my
 sense of the solemn hush around me. Peggotty took me in her arms, and
 blessed and thanked me over and over again for being such a comfort to
 her (that was what she said) in her distress. She then entreated me to
@@ -321,11 +321,11 @@ thing.
 The probability of his ever doing so, appeared to me, when I saw him, to
 be very small. He was lying with his head and shoulders out of bed, in
 an uncomfortable attitude, half resting on the box which had cost him so
-much pain and trouble. I learned, that, when he was past creeping out of
+much [[Pain|pain]] and trouble. I learned, that, when he was past creeping out of
 bed to open it, and past assuring himself of its safety by means of the
 divining rod I had seen him use, he had required to have it placed on
-the chair at the bed-side, where he had ever since embraced it, night
-and day. His arm lay on it now. Time and the world were slipping from
+the chair at the bed-side, where he had ever since embraced it, [[Night|night]]
+and day. His arm lay on it now. [[Time]] and the world were slipping from
 beneath him, but the box was there; and the last words he had uttered
 were (in an explanatory tone) ‘Old clothes!’
 
@@ -346,11 +346,11 @@ whisper, ‘With the tide?’
 ‘People can’t die, along the coast,’ said Mr. Peggotty, ‘except when
 the tide’s pretty nigh out. They can’t be born, unless it’s pretty nigh
 in--not properly born, till flood. He’s a going out with the tide. It’s
-ebb at half-arter three, slack water half an hour. If he lives till it
+ebb at half-arter three, slack [[Water|water]] half an hour. If he lives till it
 turns, he’ll hold his own till past the flood, and go out with the next
 tide.’
 
-We remained there, watching him, a long time--hours. What mysterious
+We remained there, watching him, a long [[Time|time]]--hours. What mysterious
 influence my presence had upon him in that state of his senses, I shall
 not pretend to say; but when he at last began to wander feebly, it is
 certain he was muttering about driving me to school.
@@ -371,4 +371,4 @@ out his arm, and said to me, distinctly, with a pleasant smile:
 
 ‘Barkis is willin’!’
 
-And, it being low water, he went out with the tide.
+And, it being low [[Water|water]], he went out with the tide.

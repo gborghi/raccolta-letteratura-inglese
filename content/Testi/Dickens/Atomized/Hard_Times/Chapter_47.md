@@ -18,7 +18,7 @@ CHAPTER IX
 SISSY’S PROGRESS
 
 
-SISSY JUPE had not an easy time of it, between Mr. M’Choakumchild and
+[[Sissy Jupe|SISSY JUPE]] had not an easy [[Time|time]] of it, between Mr. M’Choakumchild and
 Mrs. Gradgrind, and was not without strong impulses, in the first months
 of her probation, to run away.  It hailed facts all day long so very
 hard, and life in general was opened to her as such a closely ruled
@@ -26,11 +26,11 @@ ciphering-book, that assuredly she would have run away, but for only one
 restraint.
 
 It is lamentable to think of; but this restraint was the result of no
-arithmetical process, was self-imposed in defiance of all calculation,
+arithmetical process, was [[Self|self]]-imposed in defiance of all calculation,
 and went dead against any table of probabilities that any Actuary would
 have drawn up from the premises.  The girl believed that her father had
-not deserted her; she lived in the hope that he would come back, and in
-the faith that he would be made the happier by her remaining where she
+not deserted her; she lived in the [[Hope|hope]] that he would come back, and in
+the [[Faith|faith]] that he would be made the happier by her remaining where she
 was.
 
 The wretched ignorance with which Jupe clung to this consolation,
@@ -41,7 +41,7 @@ very dense head for figures; that, once possessed with a general idea of
 the globe, she took the smallest conceivable interest in its exact
 measurements; that she was extremely slow in the acquisition of dates,
 unless some pitiful incident happened to be connected therewith; that she
-would burst into tears on being required (by the mental process)
+would burst into [[Tears|tears]] on being required (by the mental process)
 immediately to name the cost of two hundred and forty-seven muslin caps
 at fourteen-pence halfpenny; that she was as low down, in the school, as
 low could be; that after eight weeks of induction into the elements of
@@ -56,7 +56,7 @@ knowledge, as per system, schedule, blue book, report, and tabular
 statements A to Z; and that Jupe ‘must be kept to it.’  So Jupe was kept
 to it, and became low-spirited, but no wiser.
 
-‘It would be a fine thing to be you, Miss Louisa!’ she said, one night,
+‘It would be a fine thing to be you, Miss Louisa!’ she said, one [[Night|night]],
 when Louisa had endeavoured to make her perplexities for next day
 something clearer to her.
 
@@ -127,7 +127,7 @@ said Sissy, wiping her eyes.
 ‘Yes, Miss Louisa, I know it was, now.  Then Mr. M’Choakumchild said he
 would try me again.  And he said, This schoolroom is an immense town, and
 in it there are a million of inhabitants, and only five-and-twenty are
-starved to death in the streets, in the course of a year.  What is your
+starved to [[Death|death]] in the streets, in the course of a year.  What is your
 remark on that proportion?  And my remark was—for I couldn’t think of a
 better one—that I thought it must be just as hard upon those who were
 starved, whether the others were a million, or a million million.  And
@@ -142,9 +142,9 @@ Here are the stutterings—’
 
 ‘Yes, Miss Louisa—they always remind me of stutterings, and that’s
 another of my mistakes—of accidents upon the sea.  And I find (Mr.
-M’Choakumchild said) that in a given time a hundred thousand persons went
+M’Choakumchild said) that in a given [[Time|time]] a hundred thousand persons went
 to sea on long voyages, and only five hundred of them were drowned or
-burnt to death.  What is the percentage?  And I said, Miss;’ here Sissy
+burnt to [[Death|death]].  What is the percentage?  And I said, Miss;’ here Sissy
 fairly sobbed as confessing with extreme contrition to her greatest
 error; ‘I said it was nothing.’
 
@@ -160,13 +160,13 @@ Louisa stood looking at the pretty modest head, as it drooped abashed
 before her, until it was raised again to glance at her face.  Then she
 asked:
 
-‘Did your father know so much himself, that he wished you to be well
+‘Did your father know so much himself, that he wished you to be [[Well|well]]
 taught too, Sissy?’
 
 Sissy hesitated before replying, and so plainly showed her sense that
 they were entering on forbidden ground, that Louisa added, ‘No one hears
 us; and if any one did, I am sure no harm could be found in such an
-innocent question.’
+[[Innocent|innocent]] question.’
 
 ‘No, Miss Louisa,’ answered Sissy, upon this encouragement, shaking her
 head; ‘father knows very little indeed.  It’s as much as he can do to
@@ -179,15 +179,15 @@ Though it’s plain to _me_.’
 was;’ Sissy made the terrible communication nervously; ‘she was a
 dancer.’
 
-‘Did your father love her?’  Louisa asked these questions with a strong,
+‘Did your father [[Love|love]] her?’  Louisa asked these questions with a strong,
 wild, wandering interest peculiar to her; an interest gone astray like a
 banished creature, and hiding in solitary places.
 
 ‘O yes!  As dearly as he loves me.  Father loved me, first, for her sake.
 He carried me about with him when I was quite a baby.  We have never been
-asunder from that time.’
+asunder from that [[Time|time]].’
 
-‘Yet he leaves you now, Sissy?’
+‘Yet he [[Leaves|leaves]] you now, Sissy?’
 
 ‘Only for my good.  Nobody understands him as I do; nobody knows him as I
 do.  When he left me for my good—he never would have left me for his
@@ -203,28 +203,28 @@ Father’s a;’ Sissy whispered the awful word, ‘a clown.’
 ‘To make the people laugh?’ said Louisa, with a nod of intelligence.
 
 ‘Yes.  But they wouldn’t laugh sometimes, and then father cried.  Lately,
-they very often wouldn’t laugh, and he used to come home despairing.
-Father’s not like most.  Those who didn’t know him as well as I do, and
-didn’t love him as dearly as I do, might believe he was not quite right.
+they very often wouldn’t laugh, and he used to come [[Home|home]] despairing.
+Father’s not like most.  Those who didn’t know him as [[Well|well]] as I do, and
+didn’t [[Love|love]] him as dearly as I do, might believe he was not quite right.
 Sometimes they played tricks upon him; but they never knew how he felt
-them, and shrunk up, when he was alone with me.  He was far, far timider
+them, and shrunk up, when he was [[Alone|alone]] with me.  He was far, far timider
 than they thought!’
 
 ‘And you were his comfort through everything?’
 
-She nodded, with the tears rolling down her face.  ‘I hope so, and father
+She nodded, with the [[Tears|tears]] [[rolling]] down her face.  ‘I [[Hope|hope]] so, and father
 said I was.  It was because he grew so scared and trembling, and because
 he felt himself to be a poor, weak, ignorant, helpless man (those used to
 be his words), that he wanted me so much to know a great deal, and be
-different from him.  I used to read to him to cheer his courage, and he
+different from him.  I used to read to him to cheer his [[Courage|courage]], and he
 was very fond of that.  They were wrong books—I am never to speak of them
 here—but we didn’t know there was any harm in them.’
 
 ‘And he liked them?’ said Louisa, with a searching gaze on Sissy all this
-time.
+[[Time|time]].
 
 ‘O very much!  They kept him, many times, from what did him real harm.
-And often and often of a night, he used to forget all his troubles in
+And often and often of a [[Night|night]], he used to forget all his troubles in
 wondering whether the Sultan would let the lady go on with the story, or
 would have her head cut off before it was finished.’
 
@@ -232,16 +232,16 @@ would have her head cut off before it was finished.’
 contravening the great principle, and wondering very much.
 
 ‘Always, always!’ returned Sissy, clasping her hands.  ‘Kinder and kinder
-than I can tell.  He was angry only one night, and that was not to me,
+than I can tell.  He was angry only one [[Night|night]], and that was not to me,
 but Merrylegs.  Merrylegs;’ she whispered the awful fact; ‘is his
 performing dog.’
 
 ‘Why was he angry with the dog?’ Louisa demanded.
 
-‘Father, soon after they came home from performing, told Merrylegs to
+‘Father, soon after they came [[Home|home]] from performing, told Merrylegs to
 jump up on the backs of the two chairs and stand across them—which is one
 of his tricks.  He looked at father, and didn’t do it at once.
-Everything of father’s had gone wrong that night, and he hadn’t pleased
+Everything of father’s had gone wrong that [[Night|night]], and he hadn’t pleased
 the public at all.  He cried out that the very dog knew he was failing,
 and had no compassion on him.  Then he beat the dog, and I was
 frightened, and said, “Father, father!  Pray don’t hurt the creature who
@@ -257,13 +257,13 @@ asked you so much, tell me the end.  The blame, if there is any blame, is
 mine, not yours.’
 
 ‘Dear Miss Louisa,’ said Sissy, covering her eyes, and sobbing yet; ‘I
-came home from the school that afternoon, and found poor father just come
-home too, from the booth.  And he sat rocking himself over the fire, as
-if he was in pain.  And I said, “Have you hurt yourself, father?” (as he
+came [[Home|home]] from the school that afternoon, and found poor father just come
+[[Home|home]] too, from the booth.  And he sat rocking himself over the [[Fire|fire]], as
+if he was in [[Pain|pain]].  And I said, “Have you hurt yourself, father?” (as he
 did sometimes, like they all did), and he said, “A little, my darling.”
 And when I came to stoop down and look up at his face, I saw that he was
 crying.  The more I spoke to him, the more he hid his face; and at first
-he shook all over, and said nothing but “My darling;” and “My love!”’
+he shook all over, and said nothing but “My darling;” and “My [[Love|love]]!”’
 
 Here Tom came lounging in, and stared at the two with a coolness not
 particularly savouring of interest in anything but himself, and not much
@@ -272,8 +272,8 @@ of that at present.
 ‘I am asking Sissy a few questions, Tom,’ observed his sister.  ‘You have
 no occasion to go away; but don’t interrupt us for a moment, Tom dear.’
 
-‘Oh! very well!’ returned Tom.  ‘Only father has brought old Bounderby
-home, and I want you to come into the drawing-room.  Because if you come,
+‘Oh! very [[Well|well]]!’ returned Tom.  ‘Only father has brought old Bounderby
+[[Home|home]], and I want you to come into the drawing-room.  Because if you come,
 there’s a good chance of old Bounderby’s asking me to dinner; and if you
 don’t, there’s none.’
 
@@ -295,7 +295,7 @@ kissing me again, he let me go.  When I had gone down-stairs, I turned
 back that I might be a little bit more company to him yet, and looked in
 at the door, and said, “Father dear, shall I take Merrylegs?”  Father
 shook his head and said, “No, Sissy, no; take nothing that’s known to be
-mine, my darling;” and I left him sitting by the fire.  Then the thought
+mine, my darling;” and I left him sitting by the [[Fire|fire]].  Then the thought
 must have come upon him, poor, poor father! of going away to try
 something for my sake; for when I came back, he was gone.’
 
@@ -322,7 +322,7 @@ Sissy with compassion to the door.  Mr. Gradgrind usually improved these
 occasions by remarking, when she was gone, that if Jupe had been properly
 trained from an early age she would have remonstrated to herself on sound
 principles the baselessness of these fantastic hopes.  Yet it did seem
-(though not to him, for he saw nothing of it) as if fantastic hope could
+(though not to him, for he saw nothing of it) as if fantastic [[Hope|hope]] could
 take as strong a hold as Fact.
 
 This observation must be limited exclusively to his daughter.  As to Tom,
@@ -333,7 +333,7 @@ like a feminine dormouse, and say:
 
 ‘Good gracious bless me, how my poor head is vexed and worried by that
 girl Jupe’s so perseveringly asking, over and over again, about her
-tiresome letters!  Upon my word and honour I seem to be fated, and
+tiresome letters!  Upon my word and [[Honour|honour]] I seem to be fated, and
 destined, and ordained, to live in the midst of things that I am never to
 hear the last of.  It really is a most extraordinary circumstance that it
 appears as if I never was to hear the last of anything!’

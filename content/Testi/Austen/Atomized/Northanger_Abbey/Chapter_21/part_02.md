@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 20 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 20 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,13 +22,13 @@ carriage lead the way, they could have passed it with ease in half a
 
 minute. But the merit of the curricle did not all belong to the horses;
 
-Henry drove so well—so quietly—without making any disturbance, without
+Henry drove so [[Well|well]]—so quietly—without making any disturbance, without
 
 parading to her, or swearing at them: so different from the only
 
 gentleman-coachman whom it was in her power to compare him with! and
 
-then his hat sat so well, and the innumerable capes of his greatcoat
+then his hat sat so [[Well|well]], and the innumerable capes of his greatcoat
 
 looked so becomingly important! to be driven by him, next to being
 
@@ -40,7 +40,7 @@ own praise; of being thanked at least, on his sister’s account, for her
 
 kindness in thus becoming her visitor; of hearing it ranked as real
 
-friendship, and described as creating real gratitude. His sister, he
+[[Friendship|friendship]], and described as creating real gratitude. His sister, he
 
 said, was uncomfortably circumstanced—she had no female companion—and,
 
@@ -54,11 +54,11 @@ companion at all.
 
 
 
-“Northanger is not more than half my home; I have an establishment at
+“Northanger is not more than half my [[Home|home]]; I have an establishment at
 
-my own house in Woodston, which is nearly twenty miles from my
+my own [[house]] in Woodston, which is nearly twenty miles from my
 
-father’s, and some of my time is necessarily spent there.”
+father’s, and some of my [[Time|time]] is necessarily spent there.”
 
 
 
@@ -66,15 +66,15 @@ father’s, and some of my time is necessarily spent there.”
 
 
 
-“I am always sorry to leave Eleanor.”
+“I am always sorry to leave [[Eleanor]].”
 
 
 
 “Yes; but besides your affection for her, you must be so fond of the
 
-abbey! after being used to such a home as the abbey, an ordinary
+abbey! after being used to such a [[Home|home]] as the abbey, an ordinary
 
-parsonage-house must be very disagreeable.”
+parsonage-[[house]] must be very disagreeable.”
 
 
 
@@ -100,7 +100,7 @@ fit for sliding panels and tapestry?”
 
 “Oh! yes—I do not think I should be easily frightened, because there
 
-would be so many people in the house—and besides, it has never been
+would be so many people in the [[house]]—and besides, it has never been
 
 uninhabited and left deserted for years, and then the family come back
 
@@ -110,7 +110,7 @@ to it unawares, without giving any notice, as generally happens.”
 
 “No, certainly. We shall not have to explore our way into a hall dimly
 
-lighted by the expiring embers of a wood fire—nor be obliged to spread
+lighted by the expiring embers of a wood [[Fire|fire]]—nor be obliged to spread
 
 our beds on the floor of a room without windows, doors, or furniture.
 
@@ -120,7 +120,7 @@ introduced into a dwelling of this kind, she is always lodged apart
 
 from the rest of the family. While they snugly repair to their own end
 
-of the house, she is formally conducted by Dorothy, the ancient
+of the [[house]], she is formally conducted by Dorothy, the ancient
 
 housekeeper, up a different staircase, and along many gloomy passages,
 
@@ -182,23 +182,23 @@ with increased alarm, that it has no lock.”
 
 really happen to me. I am sure your housekeeper is not really Dorothy.
 
-Well, what then?”
+[[Well]], what then?”
 
 
 
-“Nothing further to alarm perhaps may occur the first night. After
+“Nothing further to alarm perhaps may occur the first [[Night|night]]. After
 
 surmounting your _unconquerable_ horror of the bed, you will retire to
 
 rest, and get a few hours’ unquiet slumber. But on the second, or at
 
-farthest the _third_ night after your arrival, you will probably have a
+farthest the _third_ [[Night|night]] after your arrival, you will probably have a
 
-violent storm. Peals of thunder so loud as to seem to shake the edifice
+violent [[Storm|storm]]. Peals of thunder so loud as to seem to shake the edifice
 
-to its foundation will roll round the neighbouring mountains—and during
+to its foundation will roll round the neighbouring [[Mountains|mountains]]—and during
 
-the frightful gusts of wind which accompany it, you will probably think
+the frightful gusts of [[Wind|wind]] which accompany it, you will probably think
 
 you discern (for your lamp is not extinguished) one part of the hanging
 

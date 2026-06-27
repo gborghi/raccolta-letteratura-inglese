@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE PERIL OF THE HOUR"
+title: "[[Sanity]] — THE PERIL OF THE HOUR"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"

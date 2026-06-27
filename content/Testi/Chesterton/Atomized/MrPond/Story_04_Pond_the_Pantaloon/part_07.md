@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Pond the Pantaloon (part 7)"
+title: "[[MrPond]] — Pond the Pantaloon (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-explanations.  He had repeatedly, at intervals, looked at the clock
+explanations.  He had repeatedly, at intervals, looked at the [[Clock|clock]]
 
 in the waiting-room, and seemed satisfied; but he was leaving
 
@@ -26,7 +26,7 @@ earlier in the day.  He came out wiping his brow, in spite of the
 
 cold; but wearing a smile of relative relief in the midst of the
 
-tragedy.  When asked what he was doing, he answered simply: "I was
+[[Tragedy|tragedy]].  When asked what he was doing, he answered simply: "I was
 
 telephoning a description of the package.  It'll be all right now;
 
@@ -54,7 +54,7 @@ Wotton was very much the gentleman, in the more generous sense, and
 
 he heartily agreed to this; and, though it was difficult for the
 
-melancholy man with the horse-face to produce anything nearer to a
+[[Melancholy|melancholy]] man with the [[Horse|horse]]-face to produce anything nearer to a
 
 laugh than a neigh, he was manifestly much cheered internally and
 
@@ -66,7 +66,7 @@ the two friends adjourned to the one and only refreshment-room and
 
 sat down behind two tall glasses of beer; having no taste for
 
-warming their hands at that rather too blood-red fire that still
+warming their hands at that rather too [[Blood|blood]]-red [[Fire|fire]] that still
 
 burned in the sinister waiting-room.
 
@@ -88,11 +88,11 @@ himself, just as he killed himself.  I fancy many conspirators are
 
 really chasing themselves into corners like that.  Don't you see
 
-that he locked himself into a logical prison, when he would empty
+that he locked himself into a logical [[Prison|prison]], when he would empty
 
 and close the whole station, to impress us with his efficiency.  By
 
-the way, I ought to have guessed there was a double meaning in his
+the way, I ought to have guessed there was a [[Double|double]] meaning in his
 
 dictatorial ways and demands to override the Constitution; he was
 
@@ -104,7 +104,7 @@ never thought of him at all until I found him wandering about
 
 inside the logical square or enclosure, like a rectangle in
 
-geometry.  I was thinking all the time about one thing: what would
+geometry.  I was thinking all the [[Time|time]] about one thing: what would
 
 these people probably do to divert or intercept the box, now that
 
@@ -160,19 +160,19 @@ different angle; that could only mean it had been red-hot and
 
 hammered half crooked like a horseshoe on the anvil.  And then, of
 
-course, I realized that a red-hot poker would serve as well as a
+course, I realized that a red-hot poker would serve as [[Well|well]] as a
 
-pen or pencil, or rather better, for altering an inscription on a
+pen or pencil, or rather better, for altering an [[Inscription|inscription]] on a
 
-wooden box.  A pen could only cross it out; but a poker could burn
+wooden box.  A pen could only [[Cross|cross]] it out; but a poker could burn
 
-it out.  Managed neatly, it might well remove all trace of there
+it out.  Managed neatly, it might [[Well|well]] remove all trace of there
 
-ever having been any label or previous inscription at all.  But it
+ever having been any label or previous [[Inscription|inscription]] at all.  But it
 
 would do a great deal more than that.  The clown is not the only
 
-artist who wields a poker; there is the whole elegant craft called
+[[Artist|artist]] who wields a poker; there is the whole elegant craft called
 
 poker-work.  It would be quite easy to change the whole appearance
 
@@ -192,7 +192,7 @@ the post to that address as a separate thing in an ordinary way;
 
 and our scheme for posting it in an ordinary way would have
 
-recoiled on our heads.  As it was, I was just in time to describe
+recoiled on our heads.  As it was, I was just in [[Time|time]] to describe
 
 the poker-work box and stop it.  I made a silly joke about a red
 
@@ -202,7 +202,7 @@ Dyer; I'm ashamed to say the only person I began by suspecting was
 
 your unfortunate clerk Franks, who is rather exceptionally
 
-innocent."
+[[Innocent|innocent]]."
 
 
 
@@ -214,13 +214,13 @@ innocent."
 
 than you may imagine.  He's a queer-looking fellow; but I ought
 
-to have known that suffering sort of look is more often
+to have known that [[Suffering|suffering]] sort of look is more often
 
 conscientiousness than unconscientiousness.  But where I was a
 
 priceless ass was when I looked at the suspect instead of looking
 
-at the detective.  At that moment, Dyer was holding the box up,
+at the [[Detective|detective]].  At that moment, Dyer was holding the box up,
 
 looking at it very closely; and Franks, from the other side, could
 
@@ -230,7 +230,7 @@ he would know it again.  Franks knew about the box scheme; and
 
 seeing that very swift and furtive act, he started and stared; and
 
-I don't wonder.  In fact, Franks was the real detective and was far
+I don't [[Wonder|wonder]].  In fact, Franks was the real [[Detective|detective]] and was far
 
 ahead of me, for I hadn't suspected Dyer at all.  Not till, so to
 
@@ -246,7 +246,7 @@ excuse the pun."
 
 
 
-"Well," said Captain Gahagan, when Wotton had told him the story
+"[[Well]]," said Captain Gahagan, when Wotton had told him the story
 
 long afterwards.  "My favourite character in your drama is the
 
@@ -256,7 +256,7 @@ irrelevant."
 
 
 
-"You are," said Sir Hubert Wotton, and resumed the study of his
+"You are," said Sir [[Hubert]] Wotton, and resumed the study of his
 
 documents.
 
@@ -266,13 +266,13 @@ documents.
 
 unchanged buoyancy.  "The Clown in Shakespeare seems to be there by
 
-accident unconnected with the story and yet he is the chorus of the
+accident unconnected with the story and yet he is the [[Chorus|chorus]] of the
 
-tragedy.  The Fool is like a fantastic dancing flame lighting up
+[[Tragedy|tragedy]].  The [[Fool]] is like a fantastic dancing flame lighting up
 
-the features and furniture of the dark house of death.  Perhaps we
+the features and furniture of the dark [[house]] of [[Death|death]].  Perhaps we
 
-may connect Pond and Polonius after all."  And he continued to
+may connect Pond and [[Polonius]] after all."  And he continued to
 
 illustrate his theory of the buffoons in Shakespeare, a dramatic
 

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 35: DEPRESSION (part 5)"
+title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,9 +19,9 @@ so pleasantly. We were very happy.’
 
 ‘We were, indeed,’ said I.
 
-‘I keep that room to myself still; but I cannot always desert Mrs. Heep,
+‘I keep that room to myself still; but I cannot always [[Desert|desert]] Mrs. Heep,
 you know. And so,’ said Agnes, quietly, ‘I feel obliged to bear her
-company, when I might prefer to be alone. But I have no other reason to
+company, when I might prefer to be [[Alone|alone]]. But I have no other reason to
 complain of her. If she tires me, sometimes, by her praises of her son,
 it is only natural in a mother. He is a very good son to her.’
 
@@ -30,12 +30,12 @@ any consciousness of Uriah’s design. Her mild but earnest eyes met
 mine with their own beautiful frankness, and there was no change in her
 gentle face.
 
-‘The chief evil of their presence in the house,’ said Agnes, ‘is that I
-cannot be as near papa as I could wish--Uriah Heep being so much between
+‘The chief evil of their presence in the [[house]],’ said Agnes, ‘is that I
+cannot be as near papa as I could wish--[[Uriah Heep]] being so much between
 us--and cannot watch over him, if that is not too bold a thing to say,
 as closely as I would. But if any fraud or treachery is practising
-against him, I hope that simple love and truth will be strong in the
-end. I hope that real love and truth are stronger in the end than any
+against him, I [[Hope|hope]] that simple [[Love|love]] and [[Truth|truth]] will be strong in the
+end. I [[Hope|hope]] that real [[Love|love]] and [[Truth|truth]] are stronger in the end than any
 evil or misfortune in the world.’
 
 A certain bright smile, which I never saw on any other face, died away,
@@ -46,7 +46,7 @@ circumstances had been brought about. On my replying no, she had not
 told me yet, Agnes became thoughtful, and I fancied I felt her arm
 tremble in mine.
 
-We found my aunt alone, in a state of some excitement. A difference
+We found my aunt [[Alone|alone]], in a state of some excitement. A difference
 of opinion had arisen between herself and Mrs. Crupp, on an abstract
 question (the propriety of chambers being inhabited by the gentler sex);
 and my aunt, utterly indifferent to spasms on the part of Mrs. Crupp,
@@ -56,37 +56,37 @@ expressions Mrs. Crupp considered actionable, and had expressed her
 intention of bringing before a ‘British Judy’--meaning, it was supposed,
 the bulwark of our national liberties.
 
-My aunt, however, having had time to cool, while Peggotty was out
-showing Mr. Dick the soldiers at the Horse Guards--and being, besides,
+My aunt, however, having had [[Time|time]] to cool, while Peggotty was out
+showing Mr. Dick the soldiers at the [[Horse]] Guards--and being, besides,
 greatly pleased to see Agnes--rather plumed herself on the affair than
-otherwise, and received us with unimpaired good humour. When Agnes laid
+otherwise, and received us with unimpaired good [[Humour|humour]]. When Agnes laid
 her bonnet on the table, and sat down beside her, I could not but think,
 looking on her mild eyes and her radiant forehead, how natural it
 seemed to have her there; how trustfully, although she was so young and
 inexperienced, my aunt confided in her; how strong she was, indeed, in
-simple love and truth.
+simple [[Love|love]] and [[Truth|truth]].
 
 We began to talk about my aunt’s losses, and I told them what I had
 tried to do that morning.
 
-‘Which was injudicious, Trot,’ said my aunt, ‘but well meant. You are
+‘Which was injudicious, Trot,’ said my aunt, ‘but [[Well|well]] meant. You are
 a generous boy--I suppose I must say, young man, now--and I am proud of
 you, my dear. So far, so good. Now, Trot and Agnes, let us look the case
-of Betsey Trotwood in the face, and see how it stands.’
+of [[Betsey Trotwood]] in the face, and see how it stands.’
 
 I observed Agnes turn pale, as she looked very attentively at my aunt.
 My aunt, patting her cat, looked very attentively at Agnes.
 
-‘Betsey Trotwood,’ said my aunt, who had always kept her money matters
+‘[[Betsey Trotwood]],’ said my aunt, who had always kept her money matters
 to herself. ‘--I don’t mean your sister, Trot, my dear, but myself--had
 a certain property. It don’t matter how much; enough to live on. More;
 for she had saved a little, and added to it. Betsey funded her property
-for some time, and then, by the advice of her man of business, laid
-it out on landed security. That did very well, and returned very good
+for some [[Time|time]], and then, by the advice of her man of business, laid
+it out on landed security. That did very [[Well|well]], and returned very good
 interest, till Betsey was paid off. I am talking of Betsey as if she
-was a man-of-war. Well! Then, Betsey had to look about her, for a new
+was a man-of-war. [[Well]]! Then, Betsey had to look about her, for a new
 investment. She thought she was wiser, now, than her man of business,
-who was not such a good man of business by this time, as he used to
+who was not such a good man of business by this [[Time|time]], as he used to
 be--I am alluding to your father, Agnes--and she took it into her head
 to lay it out for herself. So she took her pigs,’ said my aunt, ‘to a
 foreign market; and a very bad market it turned out to be. First, she
@@ -104,16 +104,16 @@ said, soonest mended!’
 My aunt concluded this philosophical summary, by fixing her eyes with a
 kind of triumph on Agnes, whose colour was gradually returning.
 
-‘Dear Miss Trotwood, is that all the history?’ said Agnes.
+‘Dear Miss Trotwood, is that all the [[history]]?’ said Agnes.
 
-‘I hope it’s enough, child,’ said my aunt. ‘If there had been more
+‘I [[Hope|hope]] it’s enough, [[Child|child]],’ said my aunt. ‘If there had been more
 money to lose, it wouldn’t have been all, I dare say. Betsey would have
 contrived to throw that after the rest, and make another chapter, I have
-little doubt. But there was no more money, and there’s no more story.’
+little [[Doubt|doubt]]. But there was no more money, and there’s no more story.’
 
 Agnes had listened at first with suspended breath. Her colour still came
 and went, but she breathed more freely. I thought I knew why. I thought
-she had had some fear that her unhappy father might be in some way to
+she had had some [[Fear|fear]] that her unhappy father might be in some way to
 blame for what had happened. My aunt took her hand in hers, and laughed.
 
 ‘Is that all?’ repeated my aunt. ‘Why, yes, that’s all, except, “And she
@@ -121,8 +121,8 @@ lived happy ever afterwards.” Perhaps I may add that of Betsey yet, one
 of these days. Now, Agnes, you have a wise head. So have you, Trot, in
 some things, though I can’t compliment you always’; and here my aunt
 shook her own at me, with an energy peculiar to herself. ‘What’s to be
-done? Here’s the cottage, taking one time with another, will produce
+done? Here’s the cottage, taking one [[Time|time]] with another, will produce
 say seventy pounds a year. I think we may safely put it down at
-that. Well!--That’s all we’ve got,’ said my aunt; with whom it was an
+that. [[Well]]!--That’s all we’ve got,’ said my aunt; with whom it was an
 idiosyncrasy, as it is with some horses, to stop very short when she
 appeared to be in a fair way of going on for a long while.

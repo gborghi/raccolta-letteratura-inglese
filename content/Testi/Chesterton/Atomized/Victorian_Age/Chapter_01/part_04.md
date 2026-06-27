@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-the fundamental fact of early Victorian history was this: the decision
+the fundamental fact of early Victorian [[history]] was this: the decision
 
 of the middle classes to employ their new wealth in backing up a sort of
 
@@ -32,7 +32,7 @@ These two decisions have made the doubtful England of to-day; and
 
 Macaulay is typical of them; he is the _bourgeois_ in Belgravia. The
 
-alliance is marked by his great speeches for Lord Grey's Reform Bill: it
+alliance is marked by his great speeches for Lord Grey's [[Reform]] Bill: it
 
 is marked even more significantly in his speech against the Chartists.
 
@@ -74,7 +74,7 @@ improving, along with clocks, pistols or penknives, by the mere
 
 accumulation of experiment and variety. He was, indeed, far too
 
-strong-minded a man to accept the hazy modern notion that the soul in
+strong-minded a man to accept the hazy modern notion that the [[Soul|soul]] in
 
 its highest sense can change: he seems to have held that religion can
 
@@ -82,17 +82,17 @@ never get any better and that poetry rather tends to get worse. But he
 
 did not see the flaw in his political theory; which is that unless the
 
-soul improves with time there is no guarantee that the accumulations of
+[[Soul|soul]] improves with [[Time|time]] there is no guarantee that the accumulations of
 
 experience will be adequately used. Figures do not add themselves up;
 
-birds do not label or stuff themselves; comets do not calculate their
+[[Birds|birds]] do not label or stuff themselves; comets do not calculate their
 
-own courses; these things are done by the soul of man. And if the soul
+own courses; these things are done by the [[Soul|soul]] of man. And if the [[Soul|soul]]
 
-of man is subject to other laws, is liable to sin, to sleep, to
+of man is subject to other laws, is liable to sin, to [[Sleep|sleep]], to
 
-anarchism or to suicide, then all sciences including politics may fall
+anarchism or to [[suicide]], then all sciences including politics may fall
 
 as sterile and lie as fallow as before man's reason was made. Macaulay
 
@@ -106,7 +106,7 @@ we should get the best butcher whether he was a Baptist or a
 
 Muggletonian, and the best soldier whether he was a Wesleyan or an
 
-Irvingite. The compromise worked well enough in an England Protestant in
+Irvingite. The compromise worked [[Well|well]] enough in an England Protestant in
 
 bulk; but Macaulay ought to have seen that it has its limitations. A
 
@@ -130,7 +130,7 @@ This was the small conscious Macaulay; the great unconscious Macaulay
 
 was very different. His noble enduring quality in our literature is
 
-this: that he truly had an abstract passion for history; a warm, poetic
+this: that he truly had an abstract passion for [[history]]; a warm, poetic
 
 and sincere enthusiasm for great things as such; an ardour and appetite
 
@@ -146,13 +146,13 @@ the pillars of Hercules. As with Walter Scott, some of the best things
 
 in his prose and poetry are the surnames that he did not make. And it is
 
-remarkable to notice that this romance of history, so far from making
+remarkable to notice that this [[Romance|romance]] of [[history]], so far from making
 
 him more partial or untrustworthy, was the only thing that made him
 
 moderately just. His reason was entirely one-sided and fanatical. It
 
-was his imagination that was well-balanced and broad. He was
+was his [[Imagination|imagination]] that was [[Well|well]]-balanced and broad. He was
 
 monotonously certain that only Whigs were right; but it was necessary
 
@@ -162,7 +162,7 @@ worthy of their steel. If there was one thing in the world he hated it
 
 was a High Church Royalist parson; yet when Jeremy Collier the Jacobite
 
-priest raises a real banner, all Macaulay's blood warms with the mere
+priest raises a real banner, all Macaulay's [[Blood|blood]] warms with the mere
 
 prospect of a fight. "It is inspiriting to see how gallantly the
 
@@ -188,13 +188,13 @@ eye.
 
 
 
-The chief tragedy in the trend of later literature may be expressed by
+The chief [[Tragedy|tragedy]] in the trend of later literature may be expressed by
 
 saying that the smaller Macaulay conquered the larger. Later men had
 
-less and less of that hot love of history he had inherited from Scott.
+less and less of that hot [[Love|love]] of [[history]] he had inherited from Scott.
 
-They had more and more of that cold science of self-interests which he
+They had more and more of that cold science of [[Self|self]]-interests which he
 
 had learnt from Bentham.
 

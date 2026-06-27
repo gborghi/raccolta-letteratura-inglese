@@ -1,5 +1,5 @@
 ---
-title: "The Rime of the Ancient Mariner — Argument"
+title: "The Rime of the [[Ancient Mariner]] — Argument"
 author: "Coleridge"
 unitType: section
 parentWork: "Works/THE-RIME-OF-THE-ANCIENT-MARINER-(Coleridge)"
@@ -29,7 +29,7 @@ incertis, diem a nocte, distinguamus. — T. BURNET, Archaeol.
 Phil. p. 68.
 
 ARGUMENT
-How a Ship having passed the Line was driven by storms to the cold
+How a [[Ship]] having passed the Line was driven by storms to the cold
 Country towards the South Pole; and how from thence she made her course
 to the tropical Latitude of the Great Pacific Ocean; and of the strange
 things that befell; and in what manner the Ancyent Marinere came back to

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 16 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 16 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -32,13 +32,13 @@ eloquence.
 
 
 
-“Hate him, Helen! Is this a Christian spirit?—_you hate him?_ and he so
+“Hate him, [[Helen]]! Is this a Christian spirit?—_you hate him?_ and he so
 
 good a man!”
 
 
 
-“I don’t hate him as a man, but as a husband. As a man, I love him so
+“I don’t hate him as a man, but as a husband. As a man, I [[Love|love]] him so
 
 much that I wish him a better wife than I—one as good as himself, or
 
@@ -78,7 +78,7 @@ the better man.”
 
 
 
-“I have no doubt Mr. Huntingdon is a much better man than you think
+“I have no [[Doubt|doubt]] Mr. Huntingdon is a much better man than you think
 
 him; but we are not talking about him now, but about Mr. Boarham; and
 
@@ -102,11 +102,11 @@ present—”
 
 
 
-“Or that you desire a further acquaintance.”
+“Or that you [[Desire|desire]] a further acquaintance.”
 
 
 
-“But I don’t desire a further acquaintance—quite the contrary.”
+“But I don’t [[Desire|desire]] a further acquaintance—quite the contrary.”
 
 
 
@@ -128,7 +128,7 @@ complacency, “I have your kind guardian’s permission—”
 
 possible, “and I am greatly obliged for your preference, but must beg
 
-to decline the honour you wish to confer, for I think we were not made
+to decline the [[Honour|honour]] you wish to confer, for I think we were not made
 
 for each other, as you yourself would shortly discover if the
 
@@ -136,7 +136,7 @@ experiment were tried.”
 
 
 
-My aunt was right. It was quite evident he had had little doubt of my
+My aunt was right. It was quite evident he had had little [[Doubt|doubt]] of my
 
 acceptance, and no idea of a positive denial. He was amazed, astounded
 
@@ -152,13 +152,13 @@ in years, in temperament, and perhaps some other things; but let me
 
 assure you, I shall not be severe to mark the faults and foibles of a
 
-young and ardent nature such as yours, and while I acknowledge them to
+young and ardent [[Nature|nature]] such as yours, and while I acknowledge them to
 
 myself, and even rebuke them with all a father’s care, believe me, no
 
-youthful lover could be more tenderly indulgent towards the object of
+youthful [[Lover|lover]] could be more tenderly indulgent towards the object of
 
-his affections than I to you; and, on the other hand, let me hope that
+his affections than I to you; and, on the other hand, let me [[Hope|hope]] that
 
 my more experienced years and graver habits of reflection will be no
 
@@ -186,11 +186,11 @@ were not made for each other.”
 
 “But you don’t know me—you wish for a further acquaintance—a longer
 
-time to—”
+[[Time|time]] to—”
 
 
 
-“No, I don’t. I know you as well as I ever shall, and better than you
+“No, I don’t. I know you as [[Well|well]] as I ever shall, and better than you
 
 know me, or you would never dream of uniting yourself to one so
 
@@ -220,23 +220,23 @@ sure, will—”
 
 in such important matters, I take the liberty of judging for myself;
 
-and no persuasion can alter my inclinations, or induce me to believe
+and no [[Persuasion|persuasion]] can alter my inclinations, or induce me to believe
 
 that such a step would be conducive to my happiness or yours—and I
 
-wonder that a man of your experience and discretion should think of
+[[Wonder|wonder]] that a man of your experience and discretion should think of
 
 choosing such a wife.”
 
 
 
-“Ah, well!” said he, “I have sometimes wondered at that myself. I have
+“Ah, [[Well|well]]!” said he, “I have sometimes wondered at that myself. I have
 
 sometimes said to myself, ‘Now Boarham, what is this you’re after? Take
 
 care, man—look before you leap! This is a sweet, bewitching creature,
 
-but remember, the brightest attractions to the lover too often prove
+but remember, the brightest attractions to the [[Lover|lover]] too often prove
 
 the husband’s greatest torments!’ I assure you my choice has not been
 
@@ -244,7 +244,7 @@ made without much reasoning and reflection. The seeming imprudence of
 
 the match has cost me many an anxious thought by day, and many a
 
-sleepless hour by night; but at length I satisfied myself that it was
+sleepless hour by [[Night|night]]; but at length I satisfied myself that it was
 
 not, in very deed, imprudent. I saw my sweet girl was not without her
 
@@ -266,13 +266,13 @@ _I_ am satisfied, why should _you_ object—on my account, at least?”
 
 
 
-“But to tell you the truth, Mr. Boarham, it is on my own account I
+“But to tell you the [[Truth|truth]], Mr. Boarham, it is on my own account I
 
 principally object; so let us—drop the subject,” I would have said,
 
 “for it is worse than useless to pursue it any further,” but he
 
-pertinaciously interrupted me with,—“But why so? I would love you,
+pertinaciously interrupted me with,—“But why so? I would [[Love|love]] you,
 
 cherish you, protect you,” &c., &c.
 
@@ -284,7 +284,7 @@ Suffice it to say, that I found him very troublesome, and very hard to
 
 convince that I really meant what I said, and really _was_ so obstinate
 
-and blind to my own interests, that there was no shadow of a chance
+and blind to my own interests, that there was no [[Shadow|shadow]] of a chance
 
 that either he or my aunt would ever be able to overcome my objections.
 
@@ -302,7 +302,7 @@ induce me to marry against my inclinations. I respect you—at least, I
 
 would respect you, if you would behave like a sensible man—but I cannot
 
-love you, and never could—and the more you talk the further you repel
+[[Love|love]] you, and never could—and the more you talk the further you repel
 
 me; so pray don’t say any more about it.”
 
@@ -310,4 +310,4 @@ me; so pray don’t say any more about it.”
 
 Whereupon he wished me a good-morning, and withdrew, disconcerted and
 
-offended, no doubt; but surely it was not my fault.
+offended, no [[Doubt|doubt]]; but surely it was not my fault.

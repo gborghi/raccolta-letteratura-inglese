@@ -29,7 +29,7 @@ him, ‘have you a heart?’
 ‘The circulation, sir,’ returned Bitzer, smiling at the oddity of the
 question, ‘couldn’t be carried on without one.  No man, sir, acquainted
 with the facts established by Harvey relating to the circulation of the
-blood, can doubt that I have a heart.’
+[[Blood|blood]], can [[Doubt|doubt]] that I have a heart.’
 
 ‘Is it accessible,’ cried Mr. Gradgrind, ‘to any compassionate
 influence?’
@@ -48,23 +48,23 @@ miserable father?  See his sister here.  Pity us!’
 ‘since you ask me what motive I have in reason, for taking young Mr. Tom
 back to Coketown, it is only reasonable to let you know.  I have
 suspected young Mr. Tom of this bank-robbery from the first.  I had had
-my eye upon him before that time, for I knew his ways.  I have kept my
+my eye upon him before that [[Time|time]], for I knew his ways.  I have kept my
 observations to myself, but I have made them; and I have got ample proofs
 against him now, besides his running away, and besides his own
-confession, which I was just in time to overhear.  I had the pleasure of
-watching your house yesterday morning, and following you here.  I am
+confession, which I was just in [[Time|time]] to overhear.  I had the pleasure of
+watching your [[house]] yesterday morning, and following you here.  I am
 going to take young Mr. Tom back to Coketown, in order to deliver him
-over to Mr. Bounderby.  Sir, I have no doubt whatever that Mr. Bounderby
+over to Mr. Bounderby.  Sir, I have no [[Doubt|doubt]] whatever that Mr. Bounderby
 will then promote me to young Mr. Tom’s situation.  And I wish to have
 his situation, sir, for it will be a rise to me, and will do me good.’
 
-‘If this is solely a question of self-interest with you—’ Mr. Gradgrind
+‘If this is solely a question of [[Self|self]]-interest with you—’ Mr. Gradgrind
 began.
 
 ‘I beg your pardon for interrupting you, sir,’ returned Bitzer; ‘but I am
 sure you know that the whole social system is a question of
-self-interest.  What you must always appeal to, is a person’s
-self-interest.  It’s your only hold.  We are so constituted.  I was
+[[Self|self]]-interest.  What you must always appeal to, is a person’s
+[[Self|self]]-interest.  It’s your only hold.  We are so constituted.  I was
 brought up in that catechism when I was very young, sir, as you are
 aware.’
 
@@ -85,15 +85,15 @@ the pains bestowed upon you there, you can persuade yourself in any
 degree to disregard your present interest and release my son, I entreat
 and pray you to give him the benefit of that remembrance.’
 
-‘I really wonder, sir,’ rejoined the old pupil in an argumentative
+‘I really [[Wonder|wonder]], sir,’ rejoined the old pupil in an argumentative
 manner, ‘to find you taking a position so untenable.  My schooling was
 paid for; it was a bargain; and when I came away, the bargain ended.’
 
-It was a fundamental principle of the Gradgrind philosophy that
+It was a fundamental principle of the Gradgrind [[philosophy]] that
 everything was to be paid for.  Nobody was ever on any account to give
 anybody anything, or render anybody help without purchase.  Gratitude was
 to be abolished, and the virtues springing from it were not to be.  Every
-inch of the existence of mankind, from birth to death, was to be a
+inch of the existence of mankind, from birth to [[Death|death]], was to be a
 bargain across a counter.  And if we didn’t get to Heaven that way, it
 was not a politico-economical place, and we had no business there.
 
@@ -110,12 +110,12 @@ grounds I have mentioned, to take him back to Coketown.  If he was to
 resist, I should set up the cry of Stop thief!  But, he won’t resist, you
 may depend upon it.’
 
-Mr. Sleary, who with his mouth open and his rolling eye as immovably
+Mr. Sleary, who with his mouth open and his [[rolling]] eye as immovably
 jammed in his head as his fixed one, had listened to these doctrines with
 profound attention, here stepped forward.
 
-‘Thquire, you know perfectly well, and your daughter knowth perfectly
-well (better than you, becauthe I thed it to her), that I didn’t know
+‘Thquire, you know perfectly [[Well|well]], and your daughter knowth perfectly
+[[Well|well]] (better than you, becauthe I thed it to her), that I didn’t know
 what your thon had done, and that I didn’t want to know—I thed it wath
 better not, though I only thought, then, it wath thome thkylarking.
 However, thith young man having made it known to be a robbery of a bank,
@@ -137,7 +137,7 @@ As he locked the door, he said excitedly:
 ‘The Thquire thtood by you, Thethilia, and I’ll thtand by the Thquire.
 More than that: thith ith a prethiouth rathcal, and belongth to that
 bluthtering Cove that my people nearly pitht out o’ winder.  It’ll be a
-dark night; I’ve got a horthe that’ll do anything but thpeak; I’ve got a
+dark [[Night|night]]; I’ve got a horthe that’ll do anything but thpeak; I’ve got a
 pony that’ll go fifteen mile an hour with Childerth driving of him; I’ve
 got a dog that’ll keep a man to one plathe four-and-twenty hourth.  Get a
 word with the young Thquire.  Tell him, when he theeth our horthe begin

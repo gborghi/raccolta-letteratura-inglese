@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 32 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 32 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -26,19 +26,19 @@ Dashwood to her sister, as they very soon were, the effect on her was
 
 not entirely such as the former had hoped to see. Not that Marianne
 
-appeared to distrust the truth of any part of it, for she listened to
+appeared to distrust the [[Truth|truth]] of any part of it, for she listened to
 
 it all with the most steady and submissive attention, made neither
 
 objection nor remark, attempted no vindication of Willoughby, and
 
-seemed to show by her tears that she felt it to be impossible. But
+seemed to show by her [[Tears|tears]] that she felt it to be impossible. But
 
-though this behaviour assured Elinor that the conviction of this guilt
+though this behaviour assured Elinor that the conviction of this [[Guilt|guilt]]
 
-_was_ carried home to her mind, though she saw with satisfaction the
+_was_ carried [[Home|home]] to her mind, though she saw with satisfaction the
 
-effect of it, in her no longer avoiding Colonel Brandon when he called,
+effect of it, in her no longer avoiding [[Colonel Brandon]] when he called,
 
 in her speaking to him, even voluntarily speaking, with a kind of
 
@@ -52,13 +52,13 @@ loss of Willoughby’s character yet more heavily than she had felt the
 
 loss of his heart; his seduction and desertion of Miss Williams, the
 
-misery of that poor girl, and the doubt of what his designs might
+misery of that poor girl, and the [[Doubt|doubt]] of what his designs might
 
 _once_ have been on herself, preyed altogether so much on her spirits,
 
 that she could not bring herself to speak of what she felt even to
 
-Elinor; and, brooding over her sorrows in silence, gave more pain to
+Elinor; and, brooding over her sorrows in [[Silence|silence]], gave more [[Pain|pain]] to
 
 her sister than could have been communicated by the most open and most
 
@@ -80,7 +80,7 @@ to tell all that she suffered and thought; to express her anxious
 
 solicitude for Marianne, and entreat she would bear up with fortitude
 
-under this misfortune. Bad indeed must the nature of Marianne’s
+under this misfortune. Bad indeed must the [[Nature|nature]] of Marianne’s
 
 affliction be, when her mother could talk of fortitude! mortifying and
 
@@ -94,7 +94,7 @@ Against the interest of her own individual comfort, Mrs. Dashwood had
 
 determined that it would be better for Marianne to be any where, at
 
-that time, than at Barton, where every thing within her view would be
+that [[Time|time]], than at Barton, where every thing within her view would be
 
 bringing back the past in the strongest and most afflicting manner, by
 
@@ -128,11 +128,11 @@ friends. Design could never bring them in each other’s way: negligence
 
 could never leave them exposed to a surprise; and chance had less in
 
-its favour in the crowd of London than even in the retirement of
+its favour in the crowd of [[London]] than even in the retirement of
 
 Barton, where it might force him before her while paying that visit at
 
-Allenham on his marriage, which Mrs. Dashwood, from foreseeing at first
+Allenham on his [[Marriage|marriage]], which Mrs. Dashwood, from foreseeing at first
 
 as a probable event, had brought herself to expect as a certain one.
 
@@ -156,7 +156,7 @@ perfectly different from what she wished and expected, though she felt
 
 it to be entirely wrong, formed on mistaken grounds, and that by
 
-requiring her longer continuance in London it deprived her of the only
+requiring her longer continuance in [[London]] it deprived her of the only
 
 possible alleviation of her wretchedness, the personal sympathy of her
 
@@ -198,7 +198,7 @@ after day to the indignation of them all.
 
 Sir John, could not have thought it possible. “A man of whom he had
 
-always had such reason to think well! Such a good-natured fellow! He
+always had such reason to think [[Well|well]]! Such a good-natured fellow! He
 
 did not believe there was a bolder rider in England! It was an
 
@@ -210,6 +210,6 @@ all the world! No, not if it were to be by the side of Barton covert,
 
 and they were kept watching for two hours together. Such a scoundrel of
 
-a fellow! such a deceitful dog! It was only the last time they met that
+a fellow! such a deceitful dog! It was only the last [[Time|time]] they met that
 
 he had offered him one of Folly’s puppies! and this was the end of it!”

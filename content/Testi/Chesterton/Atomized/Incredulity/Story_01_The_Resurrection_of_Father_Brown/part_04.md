@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Resurrection of Father Brown (part 4)"
+title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -16,12 +16,12 @@ tags:
 
 He found himself insensibly watching that commonplace and even comic
 black figure as it went bustling about; watching it with an almost
-morbid fascination, as if it were a walking riddle or contradiction.
+morbid fascination, as if it were a walking [[Riddle|riddle]] or contradiction.
 He had found something he could not help liking in the heart of everything
 he hated; it was as if he had been horribly tormented by lesser demons
 and then found that the Devil was quite an ordinary person.
 
-Thus it happened that, looking out of his window on that moonlit night,
+Thus it happened that, looking out of his [[Window|window]] on that moonlit [[Night|night]],
 he saw the Devil go by, the demon of unaccountable blamelessness,
 in his broad black hat and long black coat, shuffling along the street
 towards the gateway, and saw it with an interest which he could
@@ -29,31 +29,31 @@ not himself understand.  He wondered where the priest was going,
 and what he was really up to; and remained gazing out into
 the moonlit street long after the little black figure had passed.
 And then he saw something else that intrigued him further.
-Two other men whom he recognized passed across his window as across
-a lighted stage.  A sort of blue limelight of the moon ran
+Two other men whom he recognized passed across his [[Window|window]] as across
+a lighted stage.  A sort of blue limelight of the [[Moon|moon]] ran
 in a spectral halo round the big bush of hair that stood erect
 on the head of little Eckstein, the wine--seller, and it outlined
 a taller and darker figure with an eagle profile and a queer old--
 fashioned and very top--heavy black hat, which seemed to make the whole
-outline still more bizarre, like a shape in a shadow pantomime.
-Race rebuked himself for allowing the moon to play such tricks
+outline still more bizarre, like a shape in a [[Shadow|shadow]] pantomime.
+Race rebuked himself for allowing the [[Moon|moon]] to play such tricks
 with his fancy; for on a second glance he recognized the black
 Spanish sidewhiskers and high--featured face of Dr Calderon,
 a worthy medical man of the town, whom he had once found attending
 professionally on Mendoza.  Still, there was something in the way the men
 were whispering to each other and peering up the street that struck
-him as peculiar.  On a sudden impulse he leapt over the low window--
-sill and himself went bareheaded up the road, following their trail.
+him as peculiar.  On a sudden impulse he leapt over the low [[Window|window]]--
+sill and himself went bareheaded up the [[Road|road]], following their trail.
 He saw them disappear under the dark archway, and a moment after
 there came a dreadful cry from beyond; curiously loud and piercing,
-and all the more blood--curdling to Race because it said something
+and all the more [[Blood|blood]]--curdling to Race because it said something
 very distinctly in some tongue that he did not know.
 
 The next moment there was a rushing of feet, more cries, and then
 a confused roar of rage or grief that shook the turrets and tall
 palm trees of the place; there was a movement in the mob that
 had gathered, as if they were sweeping backwards through the gateway.
-And then the dark archway resounded with a new voice, this time
+And then the dark archway resounded with a new voice, this [[Time|time]]
 intelligible to him and falling with the note of doom, as someone
 shouted through the gateway:
 
@@ -101,20 +101,20 @@ If I had the men here that did it, I would rejoice to hang them
 on that tree.'
 
 `Naturally we are glad to hear you say so,' said old Mendoza stiffly
-and solemnly, standing by the body of his fallen coadjutor.
+and solemnly, standing by the [[Body|body]] of his fallen coadjutor.
 `This blow has been too appalling for us to say what else we feel
 at present.  I suggest that it will be more decent and proper if we
 remove my friend's body and break up this irregular meeting.
 I understand,' he added gravely to the doctor, `that there is
-unfortunately no doubt.'
+unfortunately no [[Doubt|doubt]].'
 
-`There is no doubt,' said Dr Calderon.
+`There is no [[Doubt|doubt]],' said Dr Calderon.
 
 John Race went back to his lodgings sad and with a singular sense
 of emptiness.  It seemed impossible that he should miss a man whom
 he never knew.  He learned that the funeral was to take place next day;
 for all felt that the crisis should be past as quickly as possible,
-for fear of riots that were hourly growing more probable.
+for [[Fear|fear]] of riots that were hourly growing more probable.
 When Snaith had seen the row of Red Indians sitting on the veranda,
 they might have been a row of ancient Aztec images carved in red wood.
 But he had not seen them as they were when they heard that the

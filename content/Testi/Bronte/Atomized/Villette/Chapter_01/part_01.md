@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 1 (part 1)"
+title: "[[Villette]] — Chapter 1 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -18,28 +18,28 @@ CHAPTER I.
 BRETTON.
 
 
-My godmother lived in a handsome house in the clean and ancient town of
+My godmother lived in a handsome [[house]] in the clean and ancient town of
 Bretton. Her husband’s family had been residents there for generations,
 and bore, indeed, the name of their birthplace—Bretton of Bretton:
 whether by coincidence, or because some remote ancestor had been a
 personage of sufficient importance to leave his name to his
 neighbourhood, I know not.
 
-When I was a girl I went to Bretton about twice a year, and well I
-liked the visit. The house and its inmates specially suited me. The
-large peaceful rooms, the well-arranged furniture, the clear wide
+When I was a girl I went to Bretton about twice a year, and [[Well|well]] I
+liked the visit. The [[house]] and its inmates specially suited me. The
+large peaceful rooms, the [[Well|well]]-arranged furniture, the clear wide
 windows, the balcony outside, looking down on a fine antique street,
 where Sundays and holidays seemed always to abide—so quiet was its
-atmosphere, so clean its pavement—these things pleased me well.
+atmosphere, so clean its pavement—these things pleased me [[Well|well]].
 
-One child in a household of grown people is usually made very much of,
+One [[Child|child]] in a household of grown people is usually made very much of,
 and in a quiet way I was a good deal taken notice of by Mrs. Bretton,
 who had been left a widow, with one son, before I knew her; her
 husband, a physician, having died while she was yet a young and
 handsome woman.
 
 She was not young, as I remember her, but she was still handsome, tall,
-well-made, and though dark for an Englishwoman, yet wearing always the
+[[Well|well]]-made, and though dark for an Englishwoman, yet wearing always the
 clearness of health in her brunette cheek, and its vivacity in a pair
 of fine, cheerful black eyes. People esteemed it a grievous pity that
 she had not conferred her complexion on her son, whose eyes were
@@ -51,26 +51,26 @@ promise of her stature, for he was not yet full-grown), and, what was
 better, her health without flaw, and her spirits of that tone and
 equality which are better than a fortune to the possessor.
 
-In the autumn of the year —— I was staying at Bretton; my godmother
+In the [[Autumn|autumn]] of the year —— I was staying at Bretton; my godmother
 having come in person to claim me of the kinsfolk with whom was at that
-time fixed my permanent residence. I believe she then plainly saw
-events coming, whose very shadow I scarce guessed; yet of which the
+[[Time|time]] fixed my permanent residence. I believe she then plainly saw
+events coming, whose very [[Shadow|shadow]] I scarce guessed; yet of which the
 faint suspicion sufficed to impart unsettled sadness, and made me glad
 to change scene and society.
 
-Time always flowed smoothly for me at my godmother’s side; not with
-tumultuous swiftness, but blandly, like the gliding of a full river
+[[Time]] always flowed smoothly for me at my godmother’s side; not with
+tumultuous swiftness, but blandly, like the gliding of a full [[River|river]]
 through a plain. My visits to her resembled the sojourn of Christian
 and Hopeful beside a certain pleasant stream, with “green trees on each
 bank, and meadows beautified with lilies all the year round.” The charm
 of variety there was not, nor the excitement of incident; but I liked
-peace so well, and sought stimulus so little, that when the latter came
+peace so [[Well|well]], and sought stimulus so little, that when the latter came
 I almost felt it a disturbance, and wished rather it had still held
 aloof.
 
 One day a letter was received of which the contents evidently caused
 Mrs. Bretton surprise and some concern. I thought at first it was from
-home, and trembled, expecting I know not what disastrous communication:
+[[Home|home]], and trembled, expecting I know not what disastrous communication:
 to me, however, no reference was made, and the cloud seemed to pass.
 
 The next day, on my return from a long walk, I found, as I entered my
@@ -88,9 +88,9 @@ told, would shortly be my companion: the daughter of a friend and
 distant relation of the late Dr. Bretton’s. This little girl, it was
 added, had recently lost her mother; though, indeed, Mrs. Bretton ere
 long subjoined, the loss was not so great as might at first appear.
-Mrs. Home (Home it seems was the name) had been a very pretty, but a
-giddy, careless woman, who had neglected her child, and disappointed
-and disheartened her husband. So far from congenial had the union
+Mrs. [[Home]] ([[Home]] it seems was the name) had been a very pretty, but a
+giddy, careless woman, who had neglected her [[Child|child]], and disappointed
+and disheartened her husband. So far from congenial had the [[Union|union]]
 proved, that separation at last ensued—separation by mutual consent,
 not after any legal process. Soon after this event, the lady having
 over-exerted herself at a ball, caught cold, took a fever, and died
@@ -101,25 +101,25 @@ that some over-severity on his part—some deficiency in patience and
 indulgence—had contributed to hasten her end. He had brooded over this
 idea till his spirits were seriously affected; the medical men insisted
 on travelling being tried as a remedy, and meanwhile Mrs. Bretton had
-offered to take charge of his little girl. “And I hope,” added my
-godmother in conclusion, “the child will not be like her mamma; as
+offered to take charge of his little girl. “And I [[Hope|hope]],” added my
+godmother in conclusion, “the [[Child|child]] will not be like her mamma; as
 silly and frivolous a little flirt as ever sensible man was weak enough
-to marry. For,” said she, “Mr. Home _is_ a sensible man in his way,
+to marry. For,” said she, “Mr. [[Home]] _is_ a sensible man in his way,
 though not very practical: he is fond of science, and lives half his
 life in a laboratory trying experiments—a thing his butterfly wife
 could neither comprehend nor endure; and indeed” confessed my
 godmother, “I should not have liked it myself.”
 
 In answer to a question of mine, she further informed me that her late
-husband used to say, Mr. Home had derived this scientific turn from a
+husband used to say, Mr. [[Home]] had derived this scientific turn from a
 maternal uncle, a French savant; for he came, it seems; of mixed French
 and Scottish origin, and had connections now living in France, of whom
 more than one wrote _de_ before his name, and called himself noble.
 
-That same evening at nine o’clock, a servant was despatched to meet the
+That same evening at nine o’[[Clock|clock]], a servant was despatched to meet the
 coach by which our little visitor was expected. Mrs. Bretton and I sat
-alone in the drawing-room waiting her coming; John Graham Bretton being
+[[Alone|alone]] in the drawing-room waiting her coming; John [[Graham Bretton]] being
 absent on a visit to one of his schoolfellows who lived in the country.
 My godmother read the evening paper while she waited; I sewed. It was a
-wet night; the rain lashed the panes, and the wind sounded angry and
+wet [[Night|night]]; the rain lashed the panes, and the [[Wind|wind]] sounded angry and
 restless.

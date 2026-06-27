@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 13 (part 3)"
+title: "Bleak [[house|House]] — Chapter 13 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,22 +16,22 @@ tags:
 
 Sometimes I thought of telling Mr. Jarndyce. Then I feared that the
 young man would lose his situation and that I might ruin him.
-Sometimes I thought of confiding in Richard, but was deterred by the
+Sometimes I thought of confiding in [[Richard]], but was deterred by the
 possibility of his fighting Mr. Guppy and giving him black eyes.
 Sometimes I thought, should I frown at him or shake my head. Then I
 felt I could not do it. Sometimes I considered whether I should write
 to his mother, but that ended in my being convinced that to open a
 correspondence would be to make the matter worse. I always came to
 the conclusion, finally, that I could do nothing. Mr. Guppy’s
-perseverance, all this time, not only produced him regularly at any
+perseverance, all this [[Time|time]], not only produced him regularly at any
 theatre to which we went, but caused him to appear in the crowd as we
 were coming out, and even to get up behind our fly—where I am sure I
 saw him, two or three times, struggling among the most dreadful
-spikes. After we got home, he haunted a post opposite our house. The
+spikes. After we got [[Home|home]], he haunted a post opposite our [[house]]. The
 upholsterer’s where we lodged being at the corner of two streets, and
-my bedroom window being opposite the post, I was afraid to go near
-the window when I went upstairs, lest I should see him (as I did one
-moonlight night) leaning against the post and evidently catching
+my bedroom [[Window|window]] being opposite the post, I was afraid to go near
+the [[Window|window]] when I went upstairs, lest I should see him (as I did one
+moonlight [[Night|night]]) leaning against the post and evidently catching
 cold. If Mr. Guppy had not been, fortunately for me, engaged in the
 daytime, I really should have had no rest from him.
 
@@ -39,15 +39,15 @@ While we were making this round of gaieties, in which Mr. Guppy so
 extraordinarily participated, the business which had helped to bring
 us to town was not neglected. Mr. Kenge’s cousin was a Mr. Bayham
 Badger, who had a good practice at Chelsea and attended a large
-public institution besides. He was quite willing to receive Richard
-into his house and to superintend his studies, and as it seemed that
+public institution besides. He was quite willing to receive [[Richard]]
+into his [[house]] and to superintend his studies, and as it seemed that
 those could be pursued advantageously under Mr. Badger’s roof, and
-Mr. Badger liked Richard, and as Richard said he liked Mr. Badger
-“well enough,” an agreement was made, the Lord Chancellor’s consent
+Mr. Badger liked [[Richard]], and as [[Richard]] said he liked Mr. Badger
+“[[Well|well]] enough,” an agreement was made, the Lord Chancellor’s consent
 was obtained, and it was all settled.
 
-On the day when matters were concluded between Richard and Mr.
-Badger, we were all under engagement to dine at Mr. Badger’s house.
+On the day when matters were concluded between [[Richard]] and Mr.
+Badger, we were all under engagement to dine at Mr. Badger’s [[house]].
 We were to be “merely a family party,” Mrs. Badger’s note said; and
 we found no lady there but Mrs. Badger herself. She was surrounded in
 the drawing-room by various objects, indicative of her painting a
@@ -102,7 +102,7 @@ to the day.”
 
 “So that Mrs. Badger has been married to three husbands—two of them
 highly distinguished men,” said Mr. Badger, summing up the facts,
-“and each time upon the twenty-first of March at eleven in the
+“and each [[Time|time]] upon the twenty-first of March at eleven in the
 forenoon!”
 
 We all expressed our admiration.
@@ -122,7 +122,7 @@ the same footing with such first-rate men as Captain Swosser and
 Professor Dingo. Perhaps you may be interested, Mr. Jarndyce,”
 continued Mr. Bayham Badger, leading the way into the next
 drawing-room, “in this portrait of Captain Swosser. It was taken on
-his return home from the African station, where he had suffered from
+his return [[Home|home]] from the African station, where he had suffered from
 the fever of the country. Mrs. Badger considers it too yellow. But
 it’s a very fine head. A very fine head!”
 
@@ -131,7 +131,7 @@ We all echoed, “A very fine head!”
 “I feel when I look at it,” said Mr. Badger, “‘that’s a man I should
 like to have seen!’ It strikingly bespeaks the first-class man that
 Captain Swosser pre-eminently was. On the other side, Professor
-Dingo. I knew him well—attended him in his last illness—a speaking
+Dingo. I knew him [[Well|well]]—attended him in his last illness—a speaking
 likeness! Over the piano, Mrs. Bayham Badger when Mrs. Swosser. Over
 the sofa, Mrs. Bayham Badger when Mrs. Dingo. Of Mrs. Bayham Badger
 IN ESSE, I possess the original and have no copy.”
